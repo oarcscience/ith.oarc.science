@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sbg04)  [Next](sbg06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sbg04)  [Next](sbg06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103498/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103498/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Srimad-Bhagavad-Gita*, English translation and commentary by Swami
 Swarupananda, \[1909\], at Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Swarupananda, \[1909\], at Intangible Textual Heritage
 
 <span id="page_xii">p. xii</span>
 
-### INVOCATION <span id="fr_0"></span>[\*](#fn_0)
+### INVOCATION <span id="fr_0"></span>[\*](#fn_0.md)
 
 O blessed Mother  
 Who showerest (upon us) the nectar of Advaita  
@@ -99,13 +99,13 @@ Him we salute. Him we salute. Him we salute.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xii:\*](sbg05.htm#fr_0) Another rendering of the
+<span id="fn_0"></span>[xii:\*](sbg05.htm#fr_0.md) Another rendering of the
 "Meditation."
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: First Chapter. The Grief of Arjuna](sbg06)
+[Next: First Chapter. The Grief of Arjuna](sbg06.md)
 
 </div>

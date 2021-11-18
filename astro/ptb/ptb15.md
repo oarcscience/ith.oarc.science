@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb14)  [Next](ptb16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb14)  [Next](ptb16.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ the Sun being then at his farthest distance from the zenith.
 The beginning of the whole zodiacal circle (which in its nature as a
 circle can have no other beginning, nor end, capable of being
 determined), is therefore assumed to be the sign of Aries, which
-commences at the vernal equinox: <span id="fr_52"></span>[1](#fn_52)
+commences at the vernal equinox: <span id="fr_52"></span>[1](#fn_52.md)
 since the moisture of spring forms a primary beginning in the zodiac,
 analogous to the beginning of all animal life; which, in its first age
 of existence, abounds principally in moisture: the spring, too, like the
@@ -39,7 +39,7 @@ winter.
 
 ### Footnotes
 
-<span id="fn_52"></span>[21:1](ptb15.htm#fr_52) This sentence shows the
+<span id="fn_52"></span>[21:1](ptb15.htm#fr_52.md) This sentence shows the
 futility of the objection raised against astrology (and mentioned in the
 Preface to this translation) that the signs have changed and are
 changing places. It is clear from this sentence that Ptolemy ascribes to
@@ -56,4 +56,4 @@ its principles.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The Influence of the Four Angles](ptb16)
+[Next: Chapter XIII. The Influence of the Four Angles](ptb16.md)

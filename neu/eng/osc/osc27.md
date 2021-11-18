@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc26)  [Next](osc28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc26)  [Next](osc28.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ Guy Fawkes" is still kept up as a formal custom.
 
 ------------------------------------------------------------------------
 
-[Next: (25) Wroth Money](osc28)
+[Next: (25) Wroth Money](osc28.md)

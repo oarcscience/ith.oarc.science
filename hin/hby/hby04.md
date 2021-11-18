@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hby03)  [Next](hby05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hby03)  [Next](hby05.md) 
 
 ------------------------------------------------------------------------
 
@@ -267,4 +267,4 @@ powers latent in their souls.
 
 ------------------------------------------------------------------------
 
-[Next: Hatha Yoga](hby05)
+[Next: Hatha Yoga](hby05.md)

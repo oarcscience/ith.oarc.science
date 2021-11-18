@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca09)  [Next](fsca11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca09)  [Next](fsca11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -200,7 +200,7 @@ id="img_04000"></span>
 
 |                                    |
 |------------------------------------|
-| ![Angel Supporter.](img/04000.jpg) |
+| ![Angel Supporter.](img/04000.jpg.md) |
 
 drawn in perspective and formed by a simple thread of light as in the
 *Disputer* of Raphael. Sometimes it is only an uncertain wavering line
@@ -228,7 +228,7 @@ id="img_04100"></span>
 
 |                                             |
 |---------------------------------------------|
-| ![Kneeling Angel Supporter.](img/04100.jpg) |
+| ![Kneeling Angel Supporter.](img/04100.jpg.md) |
 
 the systematic use of regular supporters, it served to show the high
 esteem and honour in which armorial insignia were held by our ancestors
@@ -253,7 +253,7 @@ they are by some<span id="img_04200"></span>
 
 |                                                    |
 |----------------------------------------------------|
-| ![Arms of the Abbey of St. Albans.](img/04200.jpg) |
+| ![Arms of the Abbey of St. Albans.](img/04200.jpg.md) |
 
 authorities considered as purely religious symbols rather than heraldic.
 
@@ -282,7 +282,7 @@ best gold<span id="img_04300"></span>
 |--------------------|
 | ![](img/04300.jpg) |
 
-coins to set the image of an angel." <span id="fr_3"></span>[\*](#fn_3)
+coins to set the image of an angel." <span id="fr_3"></span>[\*](#fn_3.md)
 
 <div style="margin-left: 32px">
 
@@ -304,9 +304,9 @@ from 6s. 8d. to 10s.
 
 ### Footnotes
 
-<span id="fn_3"></span>[43:\*](fsca10.htm#fr_3) "Restit. of Decayed
+<span id="fn_3"></span>[43:\*](fsca10.htm#fr_3.md) "Restit. of Decayed
 Intell. in Antiq." p. 147.
 
 ------------------------------------------------------------------------
 
-[Next: Cherubim and Seraphim in Heraldry](fsca11)
+[Next: Cherubim and Seraphim in Heraldry](fsca11.md)

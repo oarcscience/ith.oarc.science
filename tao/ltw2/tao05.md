@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao05)   
-[Previous](tao04)  [Next](tao06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao05.md)   
+[Previous](tao04)  [Next](tao06.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ of mind, is competent to meet every chance and circumstance.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](tao06)
+[Next: Chapter 6](tao06.md)

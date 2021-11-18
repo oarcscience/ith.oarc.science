@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah63)  [Next](oah65) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah63)  [Next](oah65.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ and earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](oah65)
+[Next: Chapter VIII](oah65.md)

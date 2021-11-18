@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku09)  [Next](lku11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku09)  [Next](lku11.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ These were the children of this woman.
 
 ------------------------------------------------------------------------
 
-[Next: The Tenth Era](lku11)
+[Next: The Tenth Era](lku11.md)

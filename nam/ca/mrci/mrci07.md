@@ -1,20 +1,20 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mrci06)  [Next](mrci08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mrci06)  [Next](mrci08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Mission Record of the California Indians*, by A.L. Kroeber, \[1908\],
 at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-#### *Santa Barbara*. <span id="fr_36"></span>[36](#fn_36)
+#### *Santa Barbara*. <span id="fr_36"></span>[36](#fn_36.md)
 
 They bury the dead with all their pots and other poor jewels. <span
-id="fr_37"></span>[37](#fn_37)
+id="fr_37"></span>[37](#fn_37.md)
 
 <span id="page_16">p. 16</span>
 
@@ -30,7 +30,7 @@ which they sometimes make.
 
 ### Footnotes
 
-<span id="fn_36"></span>[15:36](mrci07.htm#fr_36) With Santa Barbara the
+<span id="fn_36"></span>[15:36](mrci07.htm#fr_36.md) With Santa Barbara the
 Shoshoneans are left behind, and the territory of the Chumash is
 entered. The missions of Santa Ynez and San Luis Obispo, as well as
 those of San Buenaventura and Purisima which are not here represented,
@@ -39,7 +39,7 @@ Indians of the mainland and of the northern Santa Barbara islands. The
 fathers of Santa Barbara about the time this report was written were
 Luis Gil y Taboada and Marcos Amestoy.
 
-<span id="fn_37"></span>[15:37](mrci07.htm#fr_37) This is the first
+<span id="fn_37"></span>[15:37](mrci07.htm#fr_37.md) This is the first
 mission we have encountered where burial is the native mode of disposal
 of the dead. The practice continues as far as San Luis Obispo, after
 which cremation is again in practice as far as San Francisco, and in
@@ -58,4 +58,4 @@ informant.
 
 ------------------------------------------------------------------------
 
-[Next: Santa Ynez](mrci08)
+[Next: Santa Ynez](mrci08.md)

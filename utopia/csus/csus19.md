@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus18)  [Next](csus20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus18)  [Next](csus20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ the first of January, 1857, the members of all the associated
 <span id="img_26000"></span>
 
 [![J. H. NOYES, FOUNDER OF THE PERFECTIONISTS.](tn/26000.jpg)  
-Click to enlarge](img/26000.jpg)  
+Click to enlarge](img/26000.jpg.md)  
 J. H. NOYES, FOUNDER OF THE PERFECTIONISTS.  
 
 <span id="page_261">p. 261</span>
@@ -438,4 +438,4 @@ matter relating to their belief and daily lives.
 
 ------------------------------------------------------------------------
 
-[Next: II.—Religious Belief And Faith-Cures.](csus20)
+[Next: II.—Religious Belief And Faith-Cures.](csus20.md)

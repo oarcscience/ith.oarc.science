@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar31)  [Next](gar33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar31)  [Next](gar33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -73,7 +73,7 @@ Hence, while influenced by this principle, hypocrisy and deceit are
 unknown among us; sincerity and plain dealing distinguish us; and the
 heart and the tongue join in promoting each other's welfare, and
 rejoicing in each other's prosperity. <span
-id="fr_21"></span>[\*](#fn_21)
+id="fr_21"></span>[\*](#fn_21.md)
 
 Truth is the foundation of all Masonic virtues; it is one of our grand
 principles; for to be good men and true, is a part of the first lesson
@@ -215,7 +215,7 @@ sanction and respect which flow from antiquity.
 
 ### Footnotes
 
-<span id="fn_21"></span>[94:\*](gar32.htm#fr_21) In the ancient
+<span id="fn_21"></span>[94:\*](gar32.htm#fr_21.md) In the ancient
 mythology of Rome, TRUTH was called the mother of VIRTUE, and was
 depicted with white and flowing garments. Her looks were cheerful and
 pleasant, though modest and serene. She was the protectress of honor and
@@ -223,4 +223,4 @@ honesty, and the light and joy of human society.
 
 ------------------------------------------------------------------------
 
-[Next: Charge to the Candidate](gar33)
+[Next: Charge to the Candidate](gar33.md)

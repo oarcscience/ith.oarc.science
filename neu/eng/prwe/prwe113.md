@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe112)  [Next](prwe114) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe112)  [Next](prwe114.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ spirit to rest.
 
 ------------------------------------------------------------------------
 
-[Next: The "Ha-af" a Face](prwe114)
+[Next: The "Ha-af" a Face](prwe114.md)

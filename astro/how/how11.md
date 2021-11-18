@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](how10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](how10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
 
 ------------------------------------------------------------------------
 
-### 10. EPILOGUE CONCERNING THE SUN, BY WAY OF CONJECTURE <span id="fr_17"></span>[1](#fn_17)
+### 10. EPILOGUE CONCERNING THE SUN, BY WAY OF CONJECTURE <span id="fr_17"></span>[1](#fn_17.md)
 
 From the celestial music to the hearer, from the Muses to Apollo the
 leader of the Dance, from the six planets revolving and making
@@ -85,7 +85,7 @@ philosophy indeed, by the natural light of the mind, had caught a
 distant glimpse of the Son of God, that true light which lighteth every
 man coming into this world, and who already knew that divinity must
 never be sought with a superstitious mob in sensible things,
-nevertheless [preferred](errata.htm#14) to seem to look for God in the
+nevertheless [preferred](errata.htm#14.md) to seem to look for God in the
 sun rather than in Christ a sensible man, in order that at the same time
 he might both deceive the pagans by honoring verbally the Titan of the
 poets and devote himself to his philosophy, by drawing away both the
@@ -98,7 +98,7 @@ them and adopt into his own philosophy whatever the Christians
 <span id="page_1082">p. 1082</span>
 
 had which was most divine and especially consonant with Platonic
-philosophy. <span id="fr_18"></span>[1](#fn_18) And so the accusation of
+philosophy. <span id="fr_18"></span>[1](#fn_18.md) And so the accusation of
 the teaching of the Gospel concerning Christ is laid against this hymn
 of Proclus, in its own matters: let that Titan keep as his private
 possessions χρῦσα ἡνία \[golden reins\] and ταμιεῖυν φαοῦς, μεσσατὶην,
@@ -119,7 +119,7 @@ the key of the life-supporting spring\], and that πᾴντα τεῆς ἔπλ�
 ἐλερσινοοῖο προνόιης \[thou didst fulfill all things with thy
 mind-awakening foresight\], and that immense power over the μοιρὰων
 \[fates\], and things which were read of in no philosophy before the
-promulgation of the Gospel <span id="fr_19"></span>[2](#fn_19), the
+promulgation of the Gospel <span id="fr_19"></span>[2](#fn_19.md), the
 demons dreading him as their threatening scourge, the demons lying in
 ambush for souls, ὂφρα ὐφιτενοῦς λαθοῖντο πατρὸς περιφέγγεος αὐλής \[in
 order that they might escape the notice of the light-filled hall of the
@@ -135,7 +135,7 @@ the very Word. Who except Jesus of Nazareth the Son of God, ψυχῶν
 ἀναγωγεύς \[the shepherd of souls\], to whom ἱκεσιὴ πολυδὰκρους \[the
 prayer of a tearful suppliant\] is to be offered, in order that He
 cleanse us from sins and wash us of the filth τῆς γενεθλὴς \[of
-generation\]—as if Proclus acknowledged the [forms](errata.htm#15) of
+generation\]—as if Proclus acknowledged the [forms](errata.htm#15.md) of
 original sin—and guard us from punishment and evil, πρηυνὼν θόον ὀμμα
 δικῆς \[by making mild the quick eye of justice\], namely, the wrath of
 the Father? And the other things we read of, which are as it were taken
@@ -328,10 +328,10 @@ February, 1619. At Linz, the capital of Austria—above the Enns.
 
 ### Footnotes
 
-<span id="fn_17"></span>[1080:1](how11.htm#fr_17) See Kepler's
+<span id="fn_17"></span>[1080:1](how11.htm#fr_17.md) See Kepler's
 commentary on this epilogue in the *Epitome*, page 850-51.
 
-<span id="fn_18"></span>[1082:1](how11.htm#fr_18) It was the judgment of
+<span id="fn_18"></span>[1082:1](how11.htm#fr_18.md) It was the judgment of
 the ancients concerning his book *Metroace* that in it he set forth, not
 without divine rapture, his universal doctrine concerning God; and by
 the frequent tears of the author apparent in it all suspicion was
@@ -341,7 +341,7 @@ himself, reproaching Proclus with ignorance of Greek thought, which none
 the less lie had undertaken to defend. That is to say, Proclus concealed
 those things which did not make for his own philosophy.
 
-<span id="fn_19"></span>[1082:2](how11.htm#fr_19) Nevertheless in Suidas
+<span id="fn_19"></span>[1082:2](how11.htm#fr_19.md) Nevertheless in Suidas
 some similar things are attributed to ancient Orpheus, nearly equal to
 Moses, as if his pupil; see too the hymns of Orpheus, on which Proclus
 wrote commentaries.

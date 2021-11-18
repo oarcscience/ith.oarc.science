@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](poe26)  [Next](poe28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](poe26)  [Next](poe28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NLGNQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NLGNQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Poetic Edda*, by Henry Adams Bellows, \[1936\], at Intangible
 Textual Heritage
 
@@ -352,4 +352,4 @@ detail in the latter part of *Sigurtharkvitha en skamma*.\]
 
 ------------------------------------------------------------------------
 
-[Next: Sigurtharkvitha En Skamma](poe28)
+[Next: Sigurtharkvitha En Skamma](poe28.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac60)  [Next](ybac62) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac60)  [Next](ybac62.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ clans, in 1516. The other paper, also in Maya, tells of the
 <span id="img_13300"></span>
 
 [![](tn/13300.jpg)  
-Click to enlarge](img/13300.jpg)
+Click to enlarge](img/13300.jpg.md)
 
 <span id="page_134">p. 134</span>
 
@@ -68,7 +68,7 @@ governors, this certified 'transcript' had been made, on August 15,
 
 Furthermore, similar independent references to this assemblage and its
 work are to be found in the still unpublished Maya text of the Calkiní
-Chronicle, <span id="fr_49"></span>[\*](#fn_49) seeming to show that
+Chronicle, <span id="fr_49"></span>[\*](#fn_49.md) seeming to show that
 various certified copies of this great settlement were made for the
 different regions involved, of the Xius, the Canuls beyond Maxcanú, the
 Cocoms of Sotuta, those of Calotmul, etc.; and here we have the original
@@ -78,10 +78,10 @@ Oxkutzcab copies, those seen by Stephens having disappeared.
 
 ### Footnotes
 
-<span id="fn_49"></span>[134:\*](ybac61.htm#fr_49) A photographic
+<span id="fn_49"></span>[134:\*](ybac61.htm#fr_49.md) A photographic
 facsimile of the Calkins has however been published by the Maya Society,
 in its Publ. No. 8.
 
 ------------------------------------------------------------------------
 
-[Next: The 1685 page by Juan Xiu](ybac62)
+[Next: The 1685 page by Juan Xiu](ybac62.md)

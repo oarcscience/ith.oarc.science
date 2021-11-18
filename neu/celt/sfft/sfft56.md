@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft55)  [Next](sfft57) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft55)  [Next](sfft57.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_186">p. 186</span>
 
-### THE FISHERMAN AND THE MERMAN. <span id="fr_85"></span>[1](#fn_85)
+### THE FISHERMAN AND THE MERMAN. <span id="fr_85"></span>[1](#fn_85.md)
 
 OF mermen and merwomen many strange stories are told in the Shetland
 Isles. Beneath the depths of the ocean, according to these stories, an
@@ -58,7 +58,7 @@ carcases on the rock, the crew were about to set off for the shore of
 Papa Stour, when such a tremendous swell arose that every one flew
 quickly to the boat. All succeeded in entering it except one man, who
 had imprudently lingered behind. The crew were unwilling to leave a
-companion to perish on the skerries, <span id="fr_86"></span>[1](#fn_86)
+companion to perish on the skerries, <span id="fr_86"></span>[1](#fn_86.md)
 but the surge increased so fast that after many unsuccessful attempts to
 bring the boat close in to the stack the unfortunate wight was left to
 his fate. A stormy night came on, and the deserted Shetlander saw no
@@ -101,7 +101,7 @@ hands and feet. The request being complied
 with, the man grasped the neck of the seal, and committing himself to
 her care, she landed him safely at Acres Gio in Papa Stour; from which
 place he immediately repaired to a skeo <span
-id="fr_87"></span>[1](#fn_87) at Hamna Voe, where the skin was
+id="fr_87"></span>[1](#fn_87.md) at Hamna Voe, where the skin was
 deposited, and honourably fulfilled his part of the contract by
 affording Gioga the means whereby her son could again revisit the
 ethereal space over which the sea spread its green mantle.
@@ -110,14 +110,14 @@ ethereal space over which the sea spread its green mantle.
 
 ### Footnotes
 
-<span id="fn_85"></span>[186:1](sfft56.htm#fr_85) *Folk-Lore and
+<span id="fn_85"></span>[186:1](sfft56.htm#fr_85.md) *Folk-Lore and
 Legends, Scotland*. W. W. Gibbings.
 
-<span id="fn_86"></span>[187:1](sfft56.htm#fr_86) Rocks which are
+<span id="fn_86"></span>[187:1](sfft56.htm#fr_86.md) Rocks which are
 submerged at high tide.
 
-<span id="fn_87"></span>[189:1](sfft56.htm#fr_87) Hut for drying fish.
+<span id="fn_87"></span>[189:1](sfft56.htm#fr_87.md) Hut for drying fish.
 
 ------------------------------------------------------------------------
 
-[Next: The Mermaid Wife](sfft57)
+[Next: The Mermaid Wife](sfft57.md)

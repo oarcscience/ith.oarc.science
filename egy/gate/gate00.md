@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Next](gate01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Next](gate01.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ Index](../ehh)  [Index](index)  [Next](gate01) 
 
 ------------------------------------------------------------------------
 
-[Next: Note](gate01)
+[Next: Note](gate01.md)

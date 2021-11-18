@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](kmu01)  [Next](kmu03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](kmu01)  [Next](kmu03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ On earth, or in yonder heavenly sphere. <span id="page_7">p. VII</span>
   Thee, God, such matchless powers adorn  
 That thou without a foe was born.  
 Thou art the Lord of Lords,  
-Adored by Men—[revered](errata.htm#0) by Gods.
+Adored by Men—[revered](errata.htm#0.md) by Gods.
 
   The circling times which wear away,  
 All else, to thee can not decay;  
@@ -105,4 +105,4 @@ Dr. and Mrs. J. D. Ward.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](kmu03)
+[Next: Introduction](kmu03.md)

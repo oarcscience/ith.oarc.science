@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj03)  [Next](atfj05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj03)  [Next](atfj05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_03"></span> <span align="CENTER"> [![3. Heitaro meets Higo
 Under the Willow Tree](tn/03.jpg)  
-Click to enlarge](img/03.jpg)  
+Click to enlarge](img/03.jpg.md)  
 3. Heitaro meets Higo Under the Willow Tree  
 </span>
 
@@ -96,7 +96,7 @@ to meet Heitaro, and at last she promised to marry him if he asked no
 questions as to her parents or friends. 'I have none,' she said. 'I can
 only promise to be a good and faithful wife, and tell you that I love
 you with all my heart and soul. Call me, then, "Higo," <span
-id="fr_5"></span>[1](#fn_5) and I will be your wife.'
+id="fr_5"></span>[1](#fn_5.md) and I will be your wife.'
 
 Next day Heitaro took Higo to his house, and they were married. A son
 was born to them in a little less than a year, and became their
@@ -188,7 +188,7 @@ would like to help in showing his last respects to his mother.'
 The woodcutters were fully agreeable, and, much to their astonishment,
 as Chiyodô came to the back end of the log and pushed it with his little
 hand, the timber glided easily towards the river, his father singing the
-while an 'Uta.' <span id="fr_6"></span>[1](#fn_6) There is a well-known
+while an 'Uta.' <span id="fr_6"></span>[1](#fn_6.md) There is a well-known
 song or ballad in the 'Uta' style said to have sprung from this event;
 it is sung to the present day by men drawing heavy weights or doing hard
 labour:—
@@ -198,7 +198,7 @@ labour:—
 <span class="small">Muzan naru kana  
 Motowa kumanono yanagino tsuyu de  
 Sodate-agetaru kono midorigo wa  
-Ŷoi, Ŷoi, Ŷoito na! <span id="fr_7"></span>[2](#fn_7)</span>
+Ŷoi, Ŷoi, Ŷoito na! <span id="fr_7"></span>[2](#fn_7.md)</span>
 
 </div>
 
@@ -212,7 +212,7 @@ Ichini Gongen
 Nini Tamatsushima <span id="page_18">p. 18</span>  
 Sanni Sagari Matsu  
 Shini Shiogama  
-Ŷoi, Ŷoi, ŷoi to na. <span id="fr_8"></span>[1](#fn_8)</span>
+Ŷoi, Ŷoi, ŷoi to na. <span id="fr_8"></span>[1](#fn_8.md)</span>
 
 </div>
 
@@ -228,7 +228,7 @@ they sang:—
 <span class="small">Muzan naru kana  
 Motowa Kumanono yanagino tsuyu de  
 Sodate-agetaru kono midorigo wa  
-Ŷoi, ŷoi, ŷoito na. <span id="fr_9"></span>[2](#fn_9)</span>
+Ŷoi, ŷoi, ŷoito na. <span id="fr_9"></span>[2](#fn_9.md)</span>
 
 </div>
 
@@ -238,11 +238,11 @@ Sodate-agetaru kono midorigo wa
 
 ### Footnotes
 
-<span id="fn_5"></span>[14:1](atfj04.htm#fr_5) Meaning goithe or willow.
+<span id="fn_5"></span>[14:1](atfj04.htm#fr_5.md) Meaning goithe or willow.
 
-<span id="fn_6"></span>[17:1](atfj04.htm#fr_6) Poetical song.
+<span id="fn_6"></span>[17:1](atfj04.htm#fr_6.md) Poetical song.
 
-<span id="fn_7"></span>[17:2](atfj04.htm#fr_7)
+<span id="fn_7"></span>[17:2](atfj04.htm#fr_7.md)
 
 <div style="margin-left: 32px">
 
@@ -253,7 +253,7 @@ Heave ho, heave ho, pull hard, my lads.</span>
 
 </div>
 
-<span id="fn_8"></span>[18:1](atfj04.htm#fr_8)
+<span id="fn_8"></span>[18:1](atfj04.htm#fr_8.md)
 
 <div style="margin-left: 32px">
 
@@ -266,7 +266,7 @@ Is it not good, good, good?</span>
 
 </div>
 
-<span id="fn_9"></span>[18:2](atfj04.htm#fr_9)
+<span id="fn_9"></span>[18:2](atfj04.htm#fr_9.md)
 
 <div style="margin-left: 32px">
 
@@ -281,6 +281,6 @@ Heave ho, heave ho, pull hard, my lads.</span>
 
 ------------------------------------------------------------------------
 
-[Next: III. Ghost of the Violet Well](atfj05)
+[Next: III. Ghost of the Violet Well](atfj05.md)
 
 </div>

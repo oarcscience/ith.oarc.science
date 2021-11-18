@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs23)  [Next](pifs25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs23)  [Next](pifs25.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Indians who still live in the pueblo of Jemez.
 often heard it from them.
 
 Once Pecos was a large village, and had many people. <span
-id="fr_75"></span>[1](#fn_75) But it came that nearly all of them had
+id="fr_75"></span>[1](#fn_75.md) But it came that nearly all of them had
 the evil road, and in the whole town were but five True Believers (in
 the Indian religion). These were an old woman, her two sons, and two
 other young men. Agostin, her elder son, was a famous
@@ -80,8 +80,8 @@ being resisted.
 The poor old woman told her sons, with tears, saying: "Already we are
 killed. We know nothing of these things, and we may make ready to die."
 
-"Nay, Nana," said Agostin. <span id="fr_76"></span>[1](#fn_76) "Despair
-not yet, but prepare lunch for Pedro <span id="fr_77"></span>[1](#fn_76)
+"Nay, Nana," said Agostin. <span id="fr_76"></span>[1](#fn_76.md) "Despair
+not yet, but prepare lunch for Pedro <span id="fr_77"></span>[1](#fn_76.md)
 and me, that we go to other villages for advice. Perhaps there the
 medicine-men will tell us something."
 
@@ -187,7 +187,7 @@ for his mother.
 
 "Now," said the True, "the evil-spirited ones will have this
 medicine-making contest in the *estufa*, <span
-id="fr_78"></span>[1](#fn_77)--and when you enter, you five, you must
+id="fr_78"></span>[1](#fn_77.md)--and when you enter, you five, you must
 all be dressed in these clothes. The people will all be there, old and
 young, and there will hardly be room for you to stand; and they will all
 sneer at you and spit upon you. But do not be sorry. And take this cane
@@ -237,8 +237,8 @@ Trues had showed Agostin.
 of it."
 
 This they said three times. At the third saying the people heard on all
-sides the *guajes* of the Trues. <span id="fr_79"></span>[1](#fn_78) At
-the same moment the ladder <span id="fr_80"></span>[2](#fn_79) was
+sides the *guajes* of the Trues. <span id="fr_79"></span>[1](#fn_78.md) At
+the same moment the ladder <span id="fr_80"></span>[2](#fn_79.md) was
 jerked violently up out of the room, so that no one could get out.
 
 <span id="page_144">p. 144</span>
@@ -321,22 +321,22 @@ instrumental in saving me from serious danger.
 
 ### Footnotes
 
-<span id="fn_75"></span>[137:1](pifs24.htm#fr_75) It was, indeed, the
+<span id="fn_75"></span>[137:1](pifs24.htm#fr_75.md) It was, indeed, the
 largest pueblo in New Mexico, having at one time a population of about
 2000.
 
-<span id="fn_76"></span>[139:1](pifs24.htm#fr_77) Pronounced
+<span id="fn_76"></span>[139:1](pifs24.htm#fr_77.md) Pronounced
 Ah-gohs-téen and Páy-droh.
 
-<span id="fn_77"></span>[142:1](pifs24.htm#fr_78) where it is
+<span id="fn_77"></span>[142:1](pifs24.htm#fr_78.md) where it is
 sacrilegious to make medicine.
 
-<span id="fn_78"></span>[143:1](pifs24.htm#fr_79) The thunder is said by
+<span id="fn_78"></span>[143:1](pifs24.htm#fr_79.md) The thunder is said by
 the Tée-wahn to be the sacred dance-rattle of their gods.
 
-<span id="fn_79"></span>[143:2](pifs24.htm#fr_80) The only entrance to
+<span id="fn_79"></span>[143:2](pifs24.htm#fr_80.md) The only entrance to
 any *estufa* is by a ladder let down through a door in the roof.
 
 ------------------------------------------------------------------------
 
-[Next: XXII. The Ants that Pushed on the Sky](pifs25)
+[Next: XXII. The Ants that Pushed on the Sky](pifs25.md)

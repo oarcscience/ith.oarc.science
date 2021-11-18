@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah16)  [Next](mah18) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah16)  [Next](mah18.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ close study of the Mars Economic system will demonstrate that truth.
 ------------------------------------------------------------------------
 
 [Next: Chapter XV: Life An Attribute Of The Entire Universe. The Planet
-Jupiter](mah18)
+Jupiter](mah18.md)

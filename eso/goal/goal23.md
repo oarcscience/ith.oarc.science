@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal22)  [Next](goal24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal22)  [Next](goal24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -78,7 +78,7 @@ influx from that spirit-life that was generated and prepared for the
 world by the Lord Christ. Up to this time man has nothing directly to do
 with these steps, it is all of God. But when, as we have seen, this
 second quality is obtained, there begins in the man a struggle
-[between](errata.htm#15) the forces of the carnal or animal man, and the
+[between](errata.htm#15.md) the forces of the carnal or animal man, and the
 forces of the spiritual or divine man, and there are manifested in the
 man two natures, the one struggling against the other. This is the
 condition that has been active in the world since the time of the
@@ -119,7 +119,7 @@ Christ taught of two ways, the way of *generation* and the way of
 labor, sorrow, experience (experimentation) and final death; then
 reincarnation, a repetition of the experience whereby knowledge and
 development were obtained—and again, death. <span
-id="fr_14"></span>[\*](#fn_14)
+id="fr_14"></span>[\*](#fn_14.md)
 
 <span id="page_238">p. 238</span>
 
@@ -347,7 +347,7 @@ prophesied in the following:
 be made to bring forth in one day? or shall a nation be born at once?
 for as soon as Zion travailed, she brought forth her children." (Isaiah
 lxvi. 8.) (See also Ezekiel xxxiv. 11 to 31; <span
-id="fr_15"></span>[\*](#fn_15) Rev. chapters i. vii., xiv., xxi, and
+id="fr_15"></span>[\*](#fn_15.md) Rev. chapters i. vii., xiv., xxi, and
 xxii.)
 
 By virtue of the foregoing conditions brought about by being born of the
@@ -420,7 +420,7 @@ that creepeth upon the earth."
 
 ### Footnotes
 
-<span id="fn_14"></span>[237:\*](goal23.htm#fr_14) It is evident that
+<span id="fn_14"></span>[237:\*](goal23.htm#fr_14.md) It is evident that
 Jesus and his disciples believed and accepted as a truth the law of
 *reincarnation*; otherwise, why did not the Christ correct his disciples
 when they asked him, concerning the man who was born blind—"Who did sin,
@@ -444,10 +444,10 @@ beyond question in the minds of the people with whom Christ was
 dealing—for nearly the whole Oriental world believed in reincarnation—it
 was unnecessary that it should form a part of his instructions.
 
-<span id="fn_15"></span>[246:\*](goal23.htm#fr_15) It should be borne in
+<span id="fn_15"></span>[246:\*](goal23.htm#fr_15.md) It should be borne in
 mind that according to Usher's chronology this prophecy was uttered
 about 400 years after the death of David.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. The Image And The Likeness](goal24)
+[Next: Chapter XX. The Image And The Likeness](goal24.md)

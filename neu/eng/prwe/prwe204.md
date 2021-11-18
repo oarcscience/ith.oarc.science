@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe203)  [Next](prwe205) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe203)  [Next](prwe205.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ mass was probably celebrated.
 
 ------------------------------------------------------------------------
 
-[Next: The Lady with the Lantern](prwe205)
+[Next: The Lady with the Lantern](prwe205.md)

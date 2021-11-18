@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp001) [Next](ycgp01)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp001) [Next](ycgp01.md)
 
 ------------------------------------------------------------------------
 
@@ -251,7 +251,7 @@ desires and cravings:
 
    "They followed their natural instincts, feeling neither joy in life,
 nor abhorrence of death. Thus they came to no untimely ends."<span
-id="page_17_fr_1"></span>[1](#page_17_note_1)
+id="page_17_fr_1"></span>[1](#page_17_note_1.md)
 
    One may compare this with the saying of Yang Chu:
 
@@ -650,7 +650,7 @@ through the book of Lieh-Tzu and the book of Chuang-Tzu, a few possibly
 authentic tales and anecdotes attributed to the philosopher of Liang and
 illustrative of his teaching. These with one exception have already been
 included in two recently published works on the Taoist
-Philosophers,<span id="page_31_fr_1"></span>[1](#page_31_note_1) and may
+Philosophers,<span id="page_31_fr_1"></span>[1](#page_31_note_1.md) and may
 be omitted from the present work.
 
    The single anecdote referred to may be given here, as it illustrates
@@ -834,7 +834,7 @@ appeared in the *Journal* of the Peking Oriental Society.</span>
 
 ------------------------------------------------------------------------
 
-[Next](ycgp01)
+[Next](ycgp01.md)
 
 ------------------------------------------------------------------------
 
@@ -842,14 +842,14 @@ appeared in the *Journal* of the Peking Oriental Society.</span>
 
 <span id="footnotes_page_17">p. 17</span>
 
-<span id="page_17_note_1"></span>[1](#page_17_fr_1) [*Taoist Teachings*,
-p. 38](../tt/tt05), translated by L. Giles.
+<span id="page_17_note_1"></span>[1](#page_17_fr_1.md) [*Taoist Teachings*,
+p. 38](../tt/tt05.md), translated by L. Giles.
 
 <span id="footnotes_page_31">p. 31</span>
 
-<span id="page_31_note_1"></span>[1](#page_31_fr_1) *Musings of a
+<span id="page_31_note_1"></span>[1](#page_31_fr_1.md) *Musings of a
 Chinese Mystic*, by Lionel Giles, M.A. [*Taoist
-Teachings*](../tt/index), by Lionel Giles, M.A. John Murray, "Wisdom of
+Teachings*](../tt/index.md), by Lionel Giles, M.A. John Murray, "Wisdom of
 the East Series."
 
  

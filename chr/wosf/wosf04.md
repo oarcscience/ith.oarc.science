@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](wosf03)  [Next](wosf05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](wosf03)  [Next](wosf05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,25 +22,25 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
 
 Thomas of Celano, St. Francis’ earliest biographer, bears witness to the
 authenticity of this exquisite Salutation in his *Second Life*, written
-about 1247. <span id="fr_130"></span>[1](#fn_130) It is found in the
+about 1247. <span id="fr_130"></span>[1](#fn_130.md) It is found in the
 codices of Assisi, Berlin, Florence (Ognissanti MS.), Foligno, Liegnitz,
 Naples, Paris (Mazarin MSS. and MS. of Prot. theol. fac.), and Rome
-(Vatican MSS.), above mentioned, <span id="fr_131"></span>[2](#fn_131)
+(Vatican MSS.), above mentioned, <span id="fr_131"></span>[2](#fn_131.md)
 as well as at Düsseldorf (Royal arch. cod. B. 132), and is given by
 Bartholomew of Pisa in his *Liber Conformitatum* <span
-id="fr_132"></span>[3](#fn_132) (fruct. XII, P. 11, Cap. 38). This
+id="fr_132"></span>[3](#fn_132) (fruct. XII, P. 11, Cap. 38.md). This
 Salutation was also published in the *Speculum Vitae B. Francisci et
-Sociorum Ejus* (fol. 126 v) <span id="fr_133"></span>[4](#fn_133) and by
-Wadding, <span id="fr_134"></span>[5](#fn_134) who followed the Assisian
+Sociorum Ejus* (fol. 126 v) <span id="fr_133"></span>[4](#fn_133.md) and by
+Wadding, <span id="fr_134"></span>[5](#fn_134.md) who followed the Assisian
 codex. This codex, which is the oldest one containing the Salutation,
 has been used for the Quaracchi edition, which I have here followed, as
 well as the Ognissanti MS. and the version given in the *Conformities*.
 
 Now follows the
 
-#### SALUTATION OF THE VIRTUES. <span id="fr_135"></span>[6](#fn_135)
+#### SALUTATION OF THE VIRTUES. <span id="fr_135"></span>[6](#fn_135.md)
 
-Hail, <span id="fr_136"></span>[7](#fn_136) queen wisdom! May the Lord
+Hail, <span id="fr_136"></span>[7](#fn_136.md) queen wisdom! May the Lord
 save thee with thy sister holy pure simplicity! O
 
 <span id="page_21">p. 21</span>
@@ -70,26 +70,26 @@ by the Lord.
 
 ### Footnotes
 
-<span id="fn_130"></span>[20:1](wosf04.htm#fr_130) "Wherefore," he
+<span id="fn_130"></span>[20:1](wosf04.htm#fr_130.md) "Wherefore," he
 writes of St. Francis, "in the praises of the virtues which he composed
 he says 'Hail! queen wisdom, God save Thee with Thy sister pure, holy
 simplicity.'" See *2 Cel*. 3, 119, for this *Incipit*.
 
-<span id="fn_131"></span>[20:2](wosf04.htm#fr_131) See page
-[3](wosf03.htm#page_3).
+<span id="fn_131"></span>[20:2](wosf04.htm#fr_131.md) See page
+[3](wosf03.htm#page_3.md).
 
-<span id="fn_132"></span>[20:3](wosf04.htm#fr_132) In the text of the
+<span id="fn_132"></span>[20:3](wosf04.htm#fr_132.md) In the text of the
 *Conformities* (which for the most part agrees with that of the
 Ognissanti MS.) the Salutation is preceded by No. 27 of the Admonitions
 and begins with the words "There is absolutely no man," etc.
 
-<span id="fn_133"></span>[20:4](wosf04.htm#fr_133) Ed. of Venice, 1504,
+<span id="fn_133"></span>[20:4](wosf04.htm#fr_133.md) Ed. of Venice, 1504,
 and of Metz, 1509.
 
-<span id="fn_134"></span>[20:5](wosf04.htm#fr_134) *Opuscula*, Antwerp,
+<span id="fn_134"></span>[20:5](wosf04.htm#fr_134.md) *Opuscula*, Antwerp,
 1623.
 
-<span id="fn_135"></span>[20:6](wosf04.htm#fr_135) In the Assisi codex
+<span id="fn_135"></span>[20:6](wosf04.htm#fr_135.md) In the Assisi codex
 (as in that of Liegnitz) the title reads: (*Notes 6 and 7 carried
 forward to next page*.) <span id="page_21">p. 21</span> "Of the virtues
 with which the Blessed Virgin Mary was adorned and with which a holy
@@ -97,10 +97,10 @@ soul ought also to be adorned," whereas in the Ognissanti codex and
 others of the same class, the title is: "Salutation of the Virtues and
 of their efficacy in confounding Vice." (See Introduction.)
 
-<span id="fn_136"></span>[20:7](wosf04.htm#fr_136) Cod. As. omits
+<span id="fn_136"></span>[20:7](wosf04.htm#fr_136.md) Cod. As. omits
 "Hail."
 
 ------------------------------------------------------------------------
 
 [Next: III. On Reverence For the Lord's Body and on the Cleanliness of
-the Altar](wosf05)
+the Altar](wosf05.md)

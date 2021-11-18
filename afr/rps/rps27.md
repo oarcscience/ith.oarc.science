@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps26)  [Next](rps28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps26)  [Next](rps28.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ January 11. 7.15.A.M. 1926. A.D. 2000 IN THE FURNACE ROOM.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 26. World's Building](rps28)
+[Next: Chapter 26. World's Building](rps28.md)

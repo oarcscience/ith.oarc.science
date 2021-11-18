@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl05)  [Next](egl07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl05)  [Next](egl07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ MY KĀMLI CHĀVI,—Kushti bāk! My cāmmoben to turo mush an’ turo dādas an�
 besto bāk. We’ve had wafri bak, my pen’s been naflo this here cooricus,
 we’re doin’ very wafro and couldn’t lel no wongur. Your dui pals are
 kairin kúshto, pràsturin ’bout the tem, bickinin covvas.
- [65](egl13.htm#xref_65) Your puro kāko welled acái to his pen, and
+ [65](egl13.htm#xref_65.md) Your puro kāko welled acái to his pen, and
 hatched trin divvus, and jawed avree like a puro jucko, and never del
 mandy a poshéro.
 
@@ -209,7 +209,7 @@ poor Gipsies during the summer. And I may add that the language in which
 it is written, though not the “deep” or grammatical Gipsy, in which no
 English words occur—as for instance in the Lord’s Prayer, as given by Mr
 Borrow in his appendix to the Gipsies in Spain
- [70](egl13.htm#xref_70)—is still really a fair specimen of the Rommany
+ [70](egl13.htm#xref_70.md)—is still really a fair specimen of the Rommany
 of the present day, which is spoken at races by cock-shysters and
 fortune-tellers.
 
@@ -325,7 +325,7 @@ The judge did not abuse the confidence gained by his little trick, since
 he appears to have taken Charles under his wing, employed him in small
 jobs (in America we should say *chores*, but the word would be
 frightfully significant, if applied to a Gipsy),
- [75](egl13.htm#xref_75) and finally dismissed him. And Charles replied
+ [75](egl13.htm#xref_75.md) and finally dismissed him. And Charles replied
 Rommanesquely, by asking for something. His application was as follows:—
 
 ### GERMAN GIPSY.
@@ -390,4 +390,4 @@ insincere, and they are earnest enough when uttered in Gipsy.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. Gipsy Words Which Have Passed Into English
-Slang](egl07)
+Slang](egl07.md)

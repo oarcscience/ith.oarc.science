@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls19)  [Next](rls21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls19)  [Next](rls21.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ beginning-less Avidyâ, without which Brahman could never have become
 even phenomenally creative? This is a point that requires further
 consideration. It is touched upon, but hardly decided, by Sa*m*kara in
 his commentary (pp. 787, 789), where we read <span
-id="fr_9"></span>[1](#fn_9): 'The omniscience and omnipotence of the
+id="fr_9"></span>[1](#fn_9.md): 'The omniscience and omnipotence of the
 Âtman are hidden by its union with the body, that is, by the union with
 the body, senses, Manas (mind), and Buddhi (thought), the objects, and
 their perception as such.' And here we have the simile: As fire is
@@ -135,9 +135,9 @@ to exist so long as Nescience prevails over Âtman or Brahman.
 
 ### Footnotes
 
-<span id="fn_9"></span>[73:1](rls20.htm#fr_9) Deussen, System des
+<span id="fn_9"></span>[73:1](rls20.htm#fr_9.md) Deussen, System des
 Vedânta, p. 115.
 
 ------------------------------------------------------------------------
 
-[Next: Ekam advitîyam. One without a Second](rls21)
+[Next: Ekam advitîyam. One without a Second](rls21.md)

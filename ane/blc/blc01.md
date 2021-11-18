@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc00)  [Next](blc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc00)  [Next](blc02.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ and in the following March he published, in the *Daily Telegraph* (March
 4th), a summary of the contents of about twenty fragments of the series
 of tablets describing the creation of the heavens and the earth. In
 November of the same year he communicated to the Society of Biblical
-Archaeology <span id="fr_0"></span>[1](blc17.htm#fn_0) copies of:--(1)
+Archaeology <span id="fr_0"></span>[1](blc17.htm#fn_0) copies of:--(1.md)
 the texts on fragments of the First and Fifth Tablets of Creation; (2) a
 text describing the fight between the "Gods and Chaos"; and (3) a
 fragmentary text which, he believed, described the Fall of Man. In the
@@ -52,4 +52,4 @@ Babylonian fables and legends of the gods.
 
 ------------------------------------------------------------------------
 
-[Next: Publication of the Creation Tablets](blc02)
+[Next: Publication of the Creation Tablets](blc02.md)

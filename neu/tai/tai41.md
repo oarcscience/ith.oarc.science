@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -305,6 +305,6 @@ seventh age of Troyán Vséslav cast lots. *He set out to the* \[river\]
 gates of Nóvgorod, shattered the glory of Yarosláv \[Svyatopólkovič\];
 galloped like a wolf . . .to the Nemíga. He at the last tore himself
 with wiles; galloped. . . . Bĕlgorod; . . . . . three parts. (ll.
-572-579).' v. [p. 18](tai40.htm#page_18).
+572-579).' v. [p. 18](tai40.htm#page_18.md).
 
  

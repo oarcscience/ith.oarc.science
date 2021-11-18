@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap05) [Next](chap07)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap05) [Next](chap07.md)
 
 ------------------------------------------------------------------------
 
@@ -474,4 +474,4 @@ of Representatives and was refused his seat as a polygamist.
 
 ------------------------------------------------------------------------
 
-[Next: VII The First Betrayals](chap07)
+[Next: VII The First Betrayals](chap07.md)

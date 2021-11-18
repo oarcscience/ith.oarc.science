@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas079n)  [Next](jas081n)   
- \[[80. The Witch and the Grain of Peas.](jas080)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas079n)  [Next](jas081n.md)   
+ \[[80. The Witch and the Grain of Peas.](jas080.md)\]
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ serve as the actual weapons.
 
 ------------------------------------------------------------------------
 
-[Next: Note 81. The Witch at Bosen Corner.](jas081n)
+[Next: Note 81. The Witch at Bosen Corner.](jas081n.md)

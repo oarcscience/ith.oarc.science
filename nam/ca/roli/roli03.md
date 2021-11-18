@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli02)  [Next](roli04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli02)  [Next](roli04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -42,7 +42,7 @@ they may be corrected by later investigation.
 
 The two most important tribal remnants among the Mission Indians today
 are the Luiseños, whom I have studied chiefly at La Jolla and Potrero in
-the mountains, <span id="fr_0"></span>[1](#fn_0) and the Diegueños, at
+the mountains, <span id="fr_0"></span>[1](#fn_0.md) and the Diegueños, at
 Mesa Grande, Campo, and Manzanita.
 
 <span id="page_74">p. 74</span>
@@ -80,7 +80,7 @@ living there at the time of the Mexican-American war. He remembers that
 when the mountain people went down to the Mission from the Potrero and
 La Jolla region, being under the charge and surveillance of its priest,
 they were "given toloache," that is, initiated according to ancient
-rite, by the Indians there. <span id="fr_1"></span>[2](#fn_1) After the
+rite, by the Indians there. <span id="fr_1"></span>[2](#fn_1.md) After the
 padres left, the mountain Indians stayed at the Mission for some time.
 Padre Antonio is the one he remembers as being in charge, and he allowed
 the Indians to keep up their religious dances. The padres never objected
@@ -90,7 +90,7 @@ to this. The Indians
 
 who could not talk Spanish were allowed to pray in Indian in the church;
 but they kept up the old dances outside. <span
-id="fr_2"></span>[3](#fn_2)
+id="fr_2"></span>[3](#fn_2.md)
 
 The Chungichnish belief, with its ceremonial and ritual, came originally
 from the north, say the Luiseños, and was brought from there to the
@@ -100,7 +100,7 @@ brought to San Juan Capistrano; from Capistrano to San Luis Rey; and
 from there they brought the ceremonies and "gave toloache" in all the
 upland Luiseño places, such as Rincon, Potrero, Yapiche, and La Jolla,
 and carried the ritual to the Diegueños of Mesa Grande and Santa
-Ysabel. <span id="fr_3"></span>[4](#fn_3)
+Ysabel. <span id="fr_3"></span>[4](#fn_3.md)
 
 The Luiseños say that the Diegueños of Mesa Grande originally had no
 songs of their own for certain rituals, but that they sing the Luiseño
@@ -109,7 +109,7 @@ with the eagle feather skirt. These were taught to them as part of the
 Chungichnish ceremonial, together with the new style of dancing which
 came to the mountains from the coast. On the other side of the Mission
 of San Juan Capistrano there was a large Indian village, and from
-[there](errata.htm#0) the Chungichnish worship was brought to San Luis
+[there](errata.htm#0.md) the Chungichnish worship was brought to San Luis
 Rey. San Luis Rey taught Pala; Pala taught Pauma; Pauma taught Potrero;
 Potrero gave it to La Jolla with the songs and the present manner of
 dancing. This new manner is full of gestures and violent motions, while
@@ -129,7 +129,7 @@ drank became crazy and nearly died; and the La Jolla people were
 frightened, fearing their sons were going to die, and they nearly had a
 fight with the Potrero people. The La Jolla people in turn went later to
 Warner's Ranch and taught the Indians there, the so-called
-Cupeños, <span id="fr_4"></span>[5](#fn_4) these ceremonies and dances
+Cupeños, <span id="fr_4"></span>[5](#fn_4.md) these ceremonies and dances
 and gave them toloache; and then went further and taught the Mesa Grande
 Indians and those of Santa Ysabel, both Diegueño.
 
@@ -154,7 +154,7 @@ perpetuate respect for them, and to preserve an ascendancy over the
 people." How great were this respect and fear I know well from repeated
 experience. A century of allegiance to the Catholic faith barely
 suffices to give the old men courage to reveal the sacred mysteries of
-the ancient religion. <span id="fr_5"></span>[6](#fn_5)
+the ancient religion. <span id="fr_5"></span>[6](#fn_5.md)
 
 The most important of these Chungichnish rites was the toloache
 ceremony, as initiatory to the rest.
@@ -163,19 +163,19 @@ ceremony, as initiatory to the rest.
 
 ### Footnotes
 
-<span id="fn_0"></span>[73:1](roli03.htm#fr_0) These places must not be
+<span id="fn_0"></span>[73:1](roli03.htm#fr_0.md) These places must not be
 confounded with La Jolla on the coast, and Potrero near the Mexican
 line.
 
-<span id="fn_1"></span>[74:2](roli03.htm#fr_1) See the account of the
+<span id="fn_1"></span>[74:2](roli03.htm#fr_1.md) See the account of the
 Toloache ceremony given below.
 
-<span id="fn_2"></span>[75:3](roli03.htm#fr_2) This tolerance of the
+<span id="fn_2"></span>[75:3](roli03.htm#fr_2.md) This tolerance of the
 Catholic church makes it preëminent in mission work; at the same time it
 is not likely that any of the fathers except Boscana fully realized the
 significance of the Indian dances.
 
-<span id="fn_3"></span>[75:4](roli03.htm#fr_3) Venegas's account of the
+<span id="fn_3"></span>[75:4](roli03.htm#fr_3.md) Venegas's account of the
 Indians of Lower California contains much that might have been written
 about these Indians. Their religious ceremonials which are constantly
 misunderstood by the priests, the mode of living and manner of dress,
@@ -186,11 +186,11 @@ Indians of the peninsula and those of the southern Santa Barbara
 islands,—shows a close connection between Lower California and what is
 now Southern California.
 
-<span id="fn_4"></span>[76:5](roli03.htm#fr_4) The people of the village
+<span id="fn_4"></span>[76:5](roli03.htm#fr_4.md) The people of the village
 of Kupa or Gupa, speaking the Agua Caliente dialect, about equally
 distinct from Cahuilla and Luiseño.—Ed.
 
-<span id="fn_5"></span>[76:6](roli03.htm#fr_5) One of my story-tellers
+<span id="fn_5"></span>[76:6](roli03.htm#fr_5.md) One of my story-tellers
 was about to sing with great reluctance some songs descended to him from
 his father, when an apparition of Chaup or Takwish, the electric
 fire-ball or meteor, in broad daylight, so terrified him as an omen that
@@ -198,4 +198,4 @@ he refused to reveal anything further.
 
 ------------------------------------------------------------------------
 
-[Next: The Toloache Ceremony](roli04)
+[Next: The Toloache Ceremony](roli04.md)

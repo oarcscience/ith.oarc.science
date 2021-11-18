@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp04)  [Next](orrp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp04)  [Next](orrp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ influence of the Orientals that accompanied the decline of the empire
 has frequently been considered a morbid phenomenon and a symptom of the
 slow decomposition of the ancient world. Even Renan does not seem to
 have been sufficiently free from an old prejudice when he wrote on this
-subject: [1\_1](orrp14.htm#xref_1_1) "That the oldest and most worn out
+subject: [1\_1](orrp14.htm#xref_1_1.md) "That the oldest and most worn out
 civilization should by its corruption subjugate the younger was
 inevitable."
 
@@ -64,21 +64,21 @@ the history of the empire
 
 during the first three centuries may be summarized as a "peaceful
 infiltration" of the Orient into the
-Occident. [1\_2](orrp14.htm#xref_1_2) This truth has become evident
+Occident. [1\_2](orrp14.htm#xref_1_2.md) This truth has become evident
 since the various aspects of Roman civilization are being studied in
 greater detail; and before broaching the special subject of these
 studies we wish to review a few phases of the slow metamorphosis of
 which the propagation of the Oriental religions was one phenomenon.
 
 In the first place the imitation of the Orient showed itself plainly in
-political institutions. [1\_3](orrp14.htm#xref_1_3) To be convinced of
+political institutions. [1\_3](orrp14.htm#xref_1_3.md) To be convinced of
 this fact it is sufficient to compare the government, of the empire in
 the time of Augustus with what it had become under Diocletian. At the
 beginning of the imperial régime Rome ruled the world but did not govern
 it. She kept the number of her functionaries down to a minimum, her
 provinces were mere unorganized aggregates of cities where she only
 exercised police power, protectorates rather than annexed
-countries. [1\_4](orrp14.htm#xref_1_4) As long as law and order were
+countries. [1\_4](orrp14.htm#xref_1_4.md) As long as law and order were
 maintained and her citizens, functionaries and merchants could transact
 their business, Rome was satisfied. She saved herself the trouble of
 looking after the public service by leaving broad authority to the
@@ -119,7 +119,7 @@ cosmopolitan metropolis like Alexandria, Augustus reorganized it in
 imitation of the capital of the Ptolemies. The fiscal reforms of the
 Cæsars like the taxes on sales and inheritances, the register of land
 surveys and the direct collection of taxes, were suggested by the very
-perfect financial system of the Lagides, [1\_5](orrp14.htm#xref_1_5) and
+perfect financial system of the Lagides, [1\_5](orrp14.htm#xref_1_5.md) and
 it can be maintained that their government was the first source from
 which those of modern Europe were derived, through the medium
 
@@ -128,7 +128,7 @@ which those of modern Europe were derived, through the medium
 of the Romans. The imperial *saltus*, superintended by a procurator and
 cultivated by metayers reduced to the state of serfs, was an imitation
 of the ones that the Asiatic potentates formerly cultivated through
-their agents. [1\_6](orrp14.htm#xref_1_6) It would be easy to increase
+their agents. [1\_6](orrp14.htm#xref_1_6.md) It would be easy to increase
 this list of examples. The absolute monarchy, theocratic and
 bureaucratic at the same time, that was the form of government of Egypt,
 Syria and even Asia Minor during the Alexandrine period was the ideal on
@@ -143,7 +143,7 @@ absolute, recent researches have shown with how much tenacity the
 Hellenized Orient maintained its old legal codes, and how much
 resistance local customs, the woof of the life of nations, offered to
 unification. In truth, unification never was realized except in
-theory. [1\_7](orrp14.htm#xref_1_7) More than that, these researches
+theory. [1\_7](orrp14.htm#xref_1_7.md) More than that, these researches
 have proved that the fertile principles of that provincial law, which
 was sometimes on a higher moral plane than the Roman law, reacted on the
 progressive transformation of the old *ius civile*. And how could it be
@@ -156,7 +156,7 @@ education? Thus Levantines cultivated
 <span id="page_6">p. 6</span>
 
 even the patrimonial field cleared by Scaevola and
-Labeo. [1\_8](orrp14.htm#xref_1_8)
+Labeo. [1\_8](orrp14.htm#xref_1_8.md)
 
 In the austere temple of law the Orient held as yet only a minor
 position; everywhere else its authority was predominant. The practical
@@ -217,7 +217,7 @@ modifications in Asia these were due to exotic influences, undoubtedly
 <span id="page_8">p. 8</span>
 
 \[paragraph continues\] Assyrian or Persian. Not even the important
-discoveries of M. de Vogüé in Hauran [1\_9](orrp14.htm#xref_1_9) were
+discoveries of M. de Vogüé in Hauran [1\_9](orrp14.htm#xref_1_9.md) were
 sufficient to prove the emptiness of a theory that was supported by our
 lofty conviction of European leadership.
 
@@ -236,7 +236,7 @@ of invention weakened, the ancient local traditions revolted against her
 empire and with the help of Christianity overcame it. Transferred to
 Byzantium they expanded in a new efflorescence and spread over Europe
 where they paved the way for the formation of the Romanesque art of the
-early Middle Ages. [1\_10](orrp14.htm#xref_1_10)
+early Middle Ages. [1\_10](orrp14.htm#xref_1_10.md)
 
 Rome, then, far from having established her suzerainty, was tributary to
 the Orient in this respect. The Orient was her superior in the extent
@@ -244,7 +244,7 @@ and precision of its technical. knowledge as well as in the inventive
 genius and ability of its workmen. The Cæsars were great builders but
 frequently employed foreign help. Trajan's principal architect, a
 magnificent builder, was a Syrian, Apollodorus of
-Damascus. [1\_11](orrp14.htm#xref_1_11)
+Damascus. [1\_11](orrp14.htm#xref_1_11.md)
 
 <span id="page_9">p. 9</span>
 
@@ -269,7 +269,7 @@ industrial arts to those of industry itself, one might also trace the
 growing influence of the Orient; one might show how the action of the
 great manufacturing centers of the East gradually transformed the
 material civilization of Europe; one might point out how the
-introduction into Gaul [1\_12](orrp14.htm#xref_1_12) of exotic patterns
+introduction into Gaul [1\_12](orrp14.htm#xref_1_12.md) of exotic patterns
 and processes changed the old native industry and gave its products a
 perfection and a popularity hitherto unknown. But I dislike to insist
 overmuch on a point apparently so foreign to the one now before us. It
@@ -288,7 +288,7 @@ dominated its Arabian conquerors later when it became the civilizer of
 Islam. But in no field of thought was its influence, under the empire,
 so decisive as in religion, because it finally brought about the
 complete destruction of the Greco-Latin
-paganism. [1\_13](orrp14.htm#xref_1_13)
+paganism. [1\_13](orrp14.htm#xref_1_13.md)
 
 The invasion of the barbarian religions was so open, so noisy and so
 triumphant that it could not remain unnoticed. It attracted the anxious
@@ -330,12 +330,12 @@ Perhaps no loss caused by the general wreck of ancient literature has
 been more disastrous than that of the liturgic books of paganism. A few
 mystic formulas quoted incidentally by pagan or Christian authors and a
 few fragments of hymns in honor of the
-gods [1\_14](orrp14.htm#xref_1_14) are practically all that escaped
+gods [1\_14](orrp14.htm#xref_1_14.md) are practically all that escaped
 destruction. In order to obtain an idea of what those lost rituals may
 have been one must turn to their imitations contained in the chorus of
 tragedies, and to the parodies comic authors sometimes made; or look up
 in books of magic the plagiarisms that writers of incantations may have
-committed. [1\_15](orrp14.htm#xref_1_15) But all this gives us only a
+committed. [1\_15](orrp14.htm#xref_1_15.md) But all this gives us only a
 dim reflection of the religious ceremonies. Shut out from the sanctuary
 like profane outsiders, we hear only the indistinct echo of the sacred
 songs and not even in imagination can we attend the celebration of the
@@ -359,11 +359,11 @@ understood, naive prayers conceived by the faith of the earliest ages,
 sanctified by the devotion of past centuries, and almost ennobled by the
 joys and sufferings of past generations. We would also read those hymns
 in which philosophic thought found expression in sumptuous
-allegories [1\_16](orrp14.htm#xref_1_16) or humbled itself before the
+allegories [1\_16](orrp14.htm#xref_1_16.md) or humbled itself before the
 omnipotence of the infinite, poems of which only a few stoic effusions
 celebrating the creative or destructive fire, or expressing a complete
 surrender to divine fate can give us some
-idea. [1\_17](orrp14.htm#xref_1_17)
+idea. [1\_17](orrp14.htm#xref_1_17.md)
 
 But everything is gone, and thus we lose the possibility of studying
 from the original documents the internal development of the pagan
@@ -380,7 +380,7 @@ and they are not likely to have survived the fall of paganism. The
 
 treatises on mythology that have been preserved deal almost entirely
 with the ancient Hellenic fables made famous by the classic writers, to
-the neglect of the Oriental religions. [1\_18](orrp14.htm#xref_1_18)
+the neglect of the Oriental religions. [1\_18](orrp14.htm#xref_1_18.md)
 
 As a rule, all we find in literature on this subject are a few
 incidental remarks and passing allusions. History is incredibly poor in
@@ -415,7 +415,7 @@ the precious treatise *On the Syrian Goddess*, in which Lucian tells of
 a visit to the temple of Hierapolis and repeats his conversation with
 the priests, has any depth. What he relates is the impression of an
 intelligent, curious and above all an ironical
-traveler. [1\_19](orrp14.htm#xref_1_19)
+traveler. [1\_19](orrp14.htm#xref_1_19.md)
 
 In order to obtain a more perfect initiation and a less fragmentary
 insight into the doctrines taught by the Oriental religions, we are
@@ -427,7 +427,7 @@ and it is to them that we are indebted for the possession of highly
 valuable data on this subject. Plutarch's treatise *Isis and Osiris* is
 a source whose importance is appreciated even by Egyptologists, whom it
 aids in reconstructing the legends of those
-divinities. [1\_20](orrp14.htm#xref_1_20) But the philosophers very
+divinities. [1\_20](orrp14.htm#xref_1_20.md) But the philosophers very
 seldom expounded foreign doctrines objectively and for their own sake.
 They embodied them in their systems as a means of proof or illustration;
 they surrounded them with personal exegesis or drowned them in
@@ -450,7 +450,7 @@ writers do not supply as abundant information as one might suppose. The
 reason for this is that the fathers of the church often show a certain
 reserve in speaking of idolatry, and affect to recall its monstrosities
 only in guarded terms. Moreover, as we shall see later
-on, [1\_21](orrp14.htm#xref_1_21) the apologists of the fourth century
+on, [1\_21](orrp14.htm#xref_1_21.md) the apologists of the fourth century
 were frequently behind the times as to the evolution of doctrines, and
 drawing on literary tradition, from epicureans and skeptics, they fought
 especially the beliefs of the ancient Grecian and Italian religions that
@@ -519,7 +519,7 @@ of the theology of the mysteries. Unlike Greek art, the religious art at
 the close of paganism did not seek, or sought only incidentally, to
 elevate the soul through the contemplation of an ideal of divine beauty.
 True to the traditions of the ancient Orient, it tried to edify and to
-instruct at the same time. [1\_22](orrp14.htm#xref_1_22) It told the
+instruct at the same time. [1\_22](orrp14.htm#xref_1_22.md) It told the
 history of the gods and the world in cycles of pictures, or it expressed
 through symbols the subtle conceptions of theology and even certain
 doctrines of profane science, like the struggle of the four elements;
@@ -529,7 +529,7 @@ rendering the highest religious conceptions intelligible to the humblest
 minds. But to read this mystic book whose pages are scattered in our
 museums we must laboriously look for its key, and we cannot take for a
 guide and exegetist some Vincent de Beauvais of Diocletian's
-period [1\_23](orrp14.htm#xref_1_23) as when looking over the marvelous
+period [1\_23](orrp14.htm#xref_1_23.md) as when looking over the marvelous
 
 <span id="page_18">p. 18</span>
 
@@ -589,4 +589,4 @@ final victory of Christianity.
 
 ------------------------------------------------------------------------
 
-[Next: II. Why the Oriental Religions Spread](orrp06)
+[Next: II. Why the Oriental Religions Spread](orrp06.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd17)  [Next](odd19) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd17)  [Next](odd19.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ rejoicing on his way in the other.
 
 ------------------------------------------------------------------------
 
-[Next: XV. The Selfish Sparrow and the Houseless Crows](odd19)
+[Next: XV. The Selfish Sparrow and the Houseless Crows](odd19.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre44)  [Next](gre46) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre44)  [Next](gre46.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ Grettir answered, "*Deeds done will be told of*."
 ------------------------------------------------------------------------
 
 [Next: Chapter XLI: Of Thorstein Dromond's Arms, and what he deemed they
-might do](gre46)
+might do](gre46.md)

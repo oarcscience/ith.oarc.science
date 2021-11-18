@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos18)  [Next](pos20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos18)  [Next](pos20.md) 
 
 ------------------------------------------------------------------------
 
 ## <span id="C-XIV">CANTO XIV PSALM OF ABOUT THIRTY VERSES</span>
 
-### <span id="LXXI">LXXI Subhā of Jīvaka's Mango-grove.</span> [<sup>388</sup>](pos19.htm#148-1)
+### <span id="LXXI">LXXI Subhā of Jīvaka's Mango-grove.</span> [<sup>388</sup>](pos19.htm#148-1.md)
 
 S<span class="small">HE</span> too, having made her resolve under former
 Buddhas, and heaping up good of age-enduring efficacy in this and that
@@ -724,7 +724,7 @@ Swayed by the wind-gods.*
 
 > <sup>393</sup> *Suṇṇa*, for the earnest Buddhist, connoting both
 > solitude and the ejection of the Ego-delusion. *Cf.* [Ps.
-> xxxi.](pos08.htm#XXXI) [46](pos08.htm#46).
+> xxxi.](pos08.htm#XXXI) [46](pos08.htm#46.md).
 
 <span id="154-1"></span>
 
@@ -740,4 +740,4 @@ Swayed by the wind-gods.*
 
 ------------------------------------------------------------------------
 
-[Next: Canto XV. Psalms of Over Forty Verses](pos20)
+[Next: Canto XV. Psalms of Over Forty Verses](pos20.md)

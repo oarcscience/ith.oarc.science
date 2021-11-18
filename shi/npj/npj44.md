@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj43) 
-[Next](npj45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj43.md) 
+[Next](npj45.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ you, Master Tsukiwaka! Come back quickly!
 
 <span id="img_23800"></span>
 
-![YŪYA READING THE LETTER](img/23800.jpg)  
+![YŪYA READING THE LETTER](img/23800.jpg.md)  
 YŪYA READING THE LETTER
 
  
@@ -165,4 +165,4 @@ child returns to life.
 
 ------------------------------------------------------------------------
 
-[Next: Tori-oi](npj45)
+[Next: Tori-oi](npj45.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Icelandic](../index)  [Index](index) 
-[Previous](lax21)  [Next](lax23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Icelandic](../index)  [Index](index.md) 
+[Previous](lax21)  [Next](lax23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ noble his bearing, well arrayed as he was as to weapons and clothes.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIII: The Marriage of Olaf Peacock and Thorgerd, the
-Daughter of Egil, A.D. 959](lax23)
+Daughter of Egil, A.D. 959](lax23.md)

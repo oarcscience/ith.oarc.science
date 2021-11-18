@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa16)  [Next](soa18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa16)  [Next](soa18.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ held their almost world-wide sway.
 
 ------------------------------------------------------------------------
 
-[Next: The First Turanian Race](soa18)
+[Next: The First Turanian Race](soa18.md)

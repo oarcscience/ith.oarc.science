@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb37)  [Next](wfb39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb37)  [Next](wfb39.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ troubled by them afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: The Mantle of Kings' Beards](wfb39)
+[Next: The Mantle of Kings' Beards](wfb39.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb67)  [Next](wfb69) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb67)  [Next](wfb69.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ was bold enough to open the coffin to find out the truth.
 
 ------------------------------------------------------------------------
 
-[Next: Fetching a Halter](wfb69)
+[Next: Fetching a Halter](wfb69.md)

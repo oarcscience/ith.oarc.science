@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth102)  [Next](toth104) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth102)  [Next](toth104.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 100. LÂ'VÖVÖLVIPIKI AND NÖ'NVÖVÖLPIKI. <span id="fr_185"></span>[2](#fn_183)
+## 100. LÂ'VÖVÖLVIPIKI AND NÖ'NVÖVÖLPIKI. <span id="fr_185"></span>[2](#fn_183.md)
 
 Halíksai! In Oraíbi the people were living. A short distance south of
 the village is a rock called Lâ'kokpi, because a long time ago the women
@@ -78,12 +78,12 @@ the dance.
 
 ### Footnotes
 
-<span id="fn_182"></span>[239:1](toth102.htm#fr_184) Told by Kwáyeshva
+<span id="fn_182"></span>[239:1](toth102.htm#fr_184.md) Told by Kwáyeshva
 (Oraíbi).
 
-<span id="fn_183"></span>[239:2](toth103.htm#fr_185) Told by Lománömtiwa
+<span id="fn_183"></span>[239:2](toth103.htm#fr_185.md) Told by Lománömtiwa
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 101. The Destruction of Pivánhonk'api](toth104)
+[Next: 101. The Destruction of Pivánhonk'api](toth104.md)

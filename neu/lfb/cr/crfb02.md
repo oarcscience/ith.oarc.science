@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb01)  [Next](crfb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb01)  [Next](crfb03.md) 
 
 </div>
 
@@ -74,6 +74,6 @@ Lang, a few by Miss Lang and Miss Blackley.
 
 ------------------------------------------------------------------------
 
-[Next: Lovely Ilonka](crfb03)
+[Next: Lovely Ilonka](crfb03.md)
 
 </div>

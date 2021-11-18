@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp14)  [Next](hmvp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp14)  [Next](hmvp16.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 
 <span id="img_08800"></span> <span align="CENTER">
 [![GANESA.](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)  
+Click to enlarge](img/08800.jpg.md)  
 GANESA.  
 </span>
 
@@ -112,7 +112,7 @@ the great sage Vyāsa, the arranger of the Vedas and the Mahābhārata.
 
 The ideal Purāna—and the Vishnu Purāna approaches more nearly to this
 ideal than any other—should treat of <span
-id="fr_89"></span>[\*](#fn_89) five chief topics:—"I. The creation of
+id="fr_89"></span>[\*](#fn_89.md) five chief topics:—"I. The creation of
 the universe; II. Its destruction and re-creation; III. The genealogy of
 gods and patriarchs; IV. The reigns and periods of the Manus (rulers
 over long periods of time); and V. The history of the two great races of
@@ -122,7 +122,7 @@ kings, the Solar and the Lunar." The Purānas, as at present known,
 
 omit some of these great questions and introduce others. Great
 discrepancies, too, are found in the different genealogies. <span
-id="fr_90"></span>[\*](#fn_90)
+id="fr_90"></span>[\*](#fn_90.md)
 
 The last class of religious books to be mentioned here are the Tantras.
 The word signifies "a means of faith," and they teach that faith in the
@@ -150,13 +150,13 @@ three.
 
 ### Footnotes
 
-<span id="fn_89"></span>[91:\*](hmvp15.htm#fr_89) Wilson's Preface to
+<span id="fn_89"></span>[91:\*](hmvp15.htm#fr_89.md) Wilson's Preface to
 the "Vishnu Purāna."
 
-<span id="fn_90"></span>[92:\*](hmvp15.htm#fr_90) For an outline of the
+<span id="fn_90"></span>[92:\*](hmvp15.htm#fr_90.md) For an outline of the
 contents of the different Purānas, see Introduction to Wilson's "Vishnu
 Purāna."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Brahma](hmvp16)
+[Next: Chapter II. Brahma](hmvp16.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap23) 
-[Next](bap25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap23.md) 
+[Next](bap25.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ took Agar her maid, and she bare him Ismahel. And Ismahel begat 12 sons.
 |-------------------|
 | Gen. 13:12, 13:13 |
 
-2. <span id="fr_35"></span>[1](#fn_35) Then Loth departed from Abram and
+2. <span id="fr_35"></span>[1](#fn_35.md) Then Loth departed from Abram and
 dwelt in Sodom \[but Abram dwelt in the land of Cam\]. And the men of
 Sodom were very evil and sinners exceedingly.
 
@@ -117,7 +117,7 @@ These are the 12 sons of Jacob and one daughter.
 the Correan forced his daughter Dina and humbled her. And Simeon and
 Levi the sons of Jacob went in and slew all their city with the edge of
 the sword, and took Dina their sister, and went out thence. 8.  <span
-id="fr_36"></span>[1](#fn_36) And thereafter Job took her to wife and
+id="fr_36"></span>[1](#fn_36.md) And thereafter Job took her to wife and
 begat of her 14 sons and 6 daughters, even 7 sons and 3 daughters before
 he was smitten with affliction, and thereafter when he was made whole 7
 sons and 3 daughters. And these are their names: Eliphac, Erinoe,
@@ -159,7 +159,7 @@ called his father out of the land of Chanaan, and he came down unto him.
 |------------------|
 | Gen. 46:8 *sqq*. |
 
-11. <span id="fr_37"></span>[1](#fn_37) *And these are the names of the
+11. <span id="fr_37"></span>[1](#fn_37.md) *And these are the names of the
 sons of Israel which came down into Egypt with Jacob*, each one
 
 |                  |
@@ -195,7 +195,7 @@ souls of sons and daughters were* 72.
 <span id="page_99">p. 99</span>
 
 12\. *Now the sons of Dan were Usinam*. <span
-id="fr_38"></span>[1](#fn_38) *The sons of Neptalim*, Betaal, Neemmu,
+id="fr_38"></span>[1](#fn_38.md) *The sons of Neptalim*, Betaal, Neemmu,
 Surem, Optisariel.
 
 |                   |
@@ -216,7 +216,7 @@ Surem, Optisariel.
 |-------------------|
 | Gen. 46:16, 46:17 |
 
-Mophat *and Sar*: <span id="fr_39"></span>[2](#fn_39) *their sister* the
+Mophat *and Sar*: <span id="fr_39"></span>[2](#fn_39.md) *their sister* the
 daughter of Seriebel, Melchiel. *These are the* generations *of Zelpha*
 the wife of Jacob *which she bare to him. And all the souls of sons and
 daughters were* in number 10.
@@ -236,25 +236,25 @@ And they went down into Egypt and abode there 210 years.
 
 ### Footnotes
 
-<span id="fn_35"></span>[96:1](bap24.htm#fr_35) VIII. 2. \[*But Abram
+<span id="fn_35"></span>[96:1](bap24.htm#fr_35.md) VIII. 2. \[*But Abram
 dwelt in the land of Cam*\] obviously intrusive, repeated from ver. 1,
 *Cam* being for *Canaan*.
 
-<span id="fn_36"></span>[97:1](bap24.htm#fr_36) 8. That Job married
+<span id="fn_36"></span>[97:1](bap24.htm#fr_36.md) 8. That Job married
 Dinah *after* his affliction is told in the *Testament of Job* and the
 Targum on Job. etc. Note that *Philo* disregards the Biblical names of
 Job's daughters, though he accepts the Bible story of Job.
 
-<span id="fn_37"></span>[98:1](bap24.htm#fr_37) 11 *seq*. On the names
+<span id="fn_37"></span>[98:1](bap24.htm#fr_37.md) 11 *seq*. On the names
 here see Appendix on Readings.
 
-<span id="fn_38"></span>[99:1](bap24.htm#fr_38) *Read*: Usin. But the
+<span id="fn_38"></span>[99:1](bap24.htm#fr_38.md) *Read*: Usin. But the
 sons of N.
 
-<span id="fn_39"></span>[99:2](bap24.htm#fr_39) *Read*: But the sons of
+<span id="fn_39"></span>[99:2](bap24.htm#fr_39.md) *Read*: But the sons of
 Gad (gap, to Sariel: and the sons of Aser). . . . Mophat, and Sara their
 sister: and the sons of Beria, Heber, Melchiel.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](bap25)
+[Next: Chapter IX](bap25.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index) [Christianity](../index)
-[Pilgrim's Progress](../bunyan/index)  
-[Index](index) [Previous](chap08) [Next](chap10)
+[Intangible Textual Heritage](../../index) [Christianity](../index.md)
+[Pilgrim's Progress](../bunyan/index.md)  
+[Index](index) [Previous](chap08) [Next](chap10.md)
 
 ------------------------------------------------------------------------
 
@@ -615,4 +615,4 @@ further about them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Last Days and Death](chap10)
+[Next: Chapter X. Last Days and Death](chap10.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr16)  [Next](ibr18) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr16)  [Next](ibr18.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ one.
 
 ------------------------------------------------------------------------
 
-[Next: Note C: The Era of the Confederacy](ibr18)
+[Next: Note C: The Era of the Confederacy](ibr18.md)

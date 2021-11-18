@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Commentary](../index)  [Index](index)   
-[Zephaniah](zep)  [Zechariah](zac)
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Commentary](../index)  [Index](index.md)   
+[Zephaniah](zep)  [Zechariah](zac.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Haggai Introduction](hag000)  
-[Haggai Chapter 1](hag001)  
-[Haggai Chapter 2](hag002)  
+[Haggai Introduction](hag000.md)  
+[Haggai Chapter 1](hag001.md)  
+[Haggai Chapter 2](hag002.md)  

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg12)   
-[Previous](bgs11)  [Next](bgs13) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg12.md)   
+[Previous](bgs11)  [Next](bgs13.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ ye tu dharmyāmṛtam idaṃ yathoktaṃ paryupāsate
 ------------------------------------------------------------------------
 
 [Next: XIII. atha trayodaśodhyāyaḥ.
-(kṣetrakṣetrajñavibhāgayogaḥ)](bgs13)
+(kṣetrakṣetrajñavibhāgayogaḥ)](bgs13.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar196) [Next](gbar198)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar196) [Next](gbar198.md)
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ stand on his feet!'
 
 ------------------------------------------------------------------------
 
-[Next](gbar198)
+[Next](gbar198.md)

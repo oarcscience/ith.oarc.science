@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku72)  [Next](tku74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku72)  [Next](tku74.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ through all the other parts.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: Concerning the Bride of Microprosopus](tku74)
+[Next: Chapter XX: Concerning the Bride of Microprosopus](tku74.md)

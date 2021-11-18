@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon04)  [Next](oon06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon04)  [Next](oon06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -57,12 +57,12 @@ to Friday dates from that period. If we had never heard of Good Friday
 we also might have been of their opinion.
 
 His father, like Milton's, a notary, was James Nostradamus, a name which
-is equivalent to *de Nôtre Dame*. <span id="fr_4"></span>[1](#fn_4)
+is equivalent to *de Nôtre Dame*. <span id="fr_4"></span>[1](#fn_4.md)
 
 <span id="page_4">p. 4</span>
 
 <span class="contnote">\[paragraph continues\]</span> Moreri calls his
-family "*une famille noble*;" <span id="fr_5"></span>[1](#fn_5) others
+family "*une famille noble*;" <span id="fr_5"></span>[1](#fn_5.md) others
 say that he was of Jewish descent, but of a family that had been
 converted to Christianity, and that he claimed to be of the tribe of
 Issachar, deriving thence his gift of prophecy, for they were "men that
@@ -88,7 +88,7 @@ main en main*) to him from his early progenitors; and, in the Preface to
 his "Centuries," he adds: "Que la parole héréditaire de l'occulte
 prédiction sera dans son estomac intercluse."
 
-It was his great-grandfather <span id="fr_6"></span>[2](#fn_6) who gave
+It was his great-grandfather <span id="fr_6"></span>[2](#fn_6.md) who gave
 him, almost as in sport, a first taste for the celestial sciences. After
 the death
 
@@ -160,7 +160,7 @@ France.
 <span id="page_7">p. 7</span>
 
 Learned and medical as it was in the days of Nostradamus, it could not
-escape visitation by a great plague, <span id="fr_7"></span>[1](#fn_7)
+escape visitation by a great plague, <span id="fr_7"></span>[1](#fn_7.md)
 and Michael Nostradamus had to retreat to Narbonne, Toulouse, and
 Bordeaux. In these towns he commenced practice, when about twenty-two
 years of age, and four years later he bethought him of returning to
@@ -168,7 +168,7 @@ Montpellier for refreshment, and to take his Doctor's degree. This he
 got through very quickly, and in a manner that won him the admiration
 and applause of the whole College. In returning to Toulouse he passed
 through Agen, a town on the Garonne, where he met with no less a person
-than the learned Jules César Scaliger, <span id="fr_8"></span>[2](#fn_8)
+than the learned Jules César Scaliger, <span id="fr_8"></span>[2](#fn_8.md)
 with whom he entered at once into the most intimate familiarity. This
 induced him to take up his permanent residence in the town. But after a
 while their cordiality grew less, till rivalry and pique sprang up
@@ -332,7 +332,7 @@ not published till long after. In the following year, 1556, they sent
 for him to attend the Court in Paris: though Garencières says he left
 Salon on July 14, 1555, and reached Paris on August 15th, a
 particularity which seems to indicate special knowledge. <span
-id="fr_9"></span>[1](#fn_9) The Lord Constable Montmorency attended him
+id="fr_9"></span>[1](#fn_9.md) The Lord Constable Montmorency attended him
 at his inn, and presented him to the king in person. The king showed him
 high favour, and ordered him to be lodged at the palace of the Cardinal
 de Bourbon, Archbishop of Sens, during his stay in the capital.
@@ -344,11 +344,11 @@ d'or; vid. Moreri) in a velvet purse, and the queen one hundred crowns
 children, the royal princes, and give his astrological opinion. He
 repaired thither, and seems to have acquitted himself to the
 satisfaction of the king. It is quite certain that he did not tell them
-precisely what he thought, <span id="fr_10"></span>[2](#fn_10) for the
+precisely what he thought, <span id="fr_10"></span>[2](#fn_10.md) for the
 princes were Francis II., Charles IX., and Henry III., whose tragical
 fates he has correctly set out, and with unmistakable clearness, as may
-be seen (at pp. [84](oon09.htm#page_84), [86](oon09.htm#page_86),
-[96](oon09.htm#page_96)) by the forecasts in his strange book. He,
+be seen (at pp. [84](oon09.htm#page_84), [86](oon09.htm#page_86.md),
+[96](oon09.htm#page_96).md) by the forecasts in his strange book. He,
 however, cast their horoscopes and acquitted himself in this, as in all
 other transactions, *en homme d'esprit*. He returned to Salon so much
 encouraged that he set to work and completed his
@@ -362,7 +362,7 @@ them to the king in 1557. The only thing that is certain is that the
 Texte-type dates the epistle June 27, 1558. This "Luminary Epistle" to
 the king, Garencières tells us, discovers future events "from the birth
 of Louis XIV., now reigning, till the coming of antichrist." <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 <span id="page_14">p. 14</span>
 
@@ -485,7 +485,7 @@ great rejoicing when he had passed over his sixty-third
 
 <span id="page_18">p. 18</span>
 
-year. <span id="fr_12"></span>[1](#fn_12) Moreri will have eighty-one to
+year. <span id="fr_12"></span>[1](#fn_12.md) Moreri will have eighty-one to
 be properly speaking the climacteric, and he notes that at this age died
 Plato, Diogenes, Eratosthenes the geometer, and many other illustrious
 personages. Some went so far as to say that political bodies had their
@@ -504,7 +504,7 @@ Nostradamus so powerfully forecasts.
 
 Suffice it to say that in this climacterical crisis Nostradamus
 succumbed in his sixty-third year to gout, which turned to dropsy. <span
-id="fr_13"></span>[2](#fn_13)
+id="fr_13"></span>[2](#fn_13.md)
 
 Nostradamus was interred at the church of the Franciscan Friars (Les
 Cordeliers) at Salon, as it is noted, on the left-hand side of the
@@ -577,7 +577,7 @@ with "the mammon of unrighteousness."
 Jean Aimes de Chavigny, who seems to have come over from Beaune to play
 the part of a Boswell to Nostradamus and,--after his friend's death, is
 said to have devoted twenty-eight years of his life to editing the
-"Centuries" with notes, <span id="fr_14"></span>[1](#fn_14) says that he
+"Centuries" with notes, <span id="fr_14"></span>[1](#fn_14.md) says that he
 collected twelve books of the "Centuries," of which vols. vii., xi., and
 xii. are imperfect. These are in quatrains, and are classified as
 *Prophéties*, and they extend to very remote ages. The *Presages*, we
@@ -585,7 +585,7 @@ are told, were written
 
 <span id="page_21">p. 21</span>
 
-between 1550 and 1567, <span id="fr_15"></span>[1](#fn_15) and. were
+between 1550 and 1567, <span id="fr_15"></span>[1](#fn_15.md) and. were
 collected by Aimes and reduced into twelve books in prose, as he thinks
 them worthy of the attention of posterity. The few Presages thou are in
 print run to only one hundred and forty-three quatrains in verse; so we
@@ -594,7 +594,7 @@ must suppose that those written in prose have perished entirely.
 Nostradamus left two brothers behind him: one named Bertrand; the other,
 Jean, who was his junior, and proctor to the Parliament at Aix, composed
 a History of Provence, and also wrote the lives of the Poets of
-Provence. <span id="fr_16"></span>[2](#fn_16)
+Provence. <span id="fr_16"></span>[2](#fn_16.md)
 
 Moreri states that by his second wife he had six children, three boys
 and three girls. Of his sons, César, the eldest, was a person of
@@ -775,7 +775,7 @@ toto orbe famosus *Michel Nostradamus*, qui se præscium et presagum
 eventuum futurorum per astrorum influxum venditavit, sub cujus deinceps
 nomine quivis homines ingeniosi suas hujus modi cogitationes protendere
 consueverent, in quem valde apposite lusit qui dixit: *Nostra damus* cum
-falsa damus," etc. <span id="fr_17"></span>[1](#fn_17)
+falsa damus," etc. <span id="fr_17"></span>[1](#fn_17.md)
 
 Provoked thus, Garencières endeavours to prove Nostradamus to have been
 enlightened by the Holy Spirit. We shall not follow him in this matter
@@ -912,7 +912,7 @@ ever augmenting brilliancy and splendour. The kings of France have never
 been quite indifferent to the Oracles, or at least to such of them as
 could be shown to refer to them individually. It is reported of Charles
 Edward Stuart, the Pretender, that he to the last conned <span
-id="fr_18"></span>[1](#fn_18) over the volume, anxiously hoping to find
+id="fr_18"></span>[1](#fn_18.md) over the volume, anxiously hoping to find
 in it some stanza promising to his royal line restoration to the throne
 of England, but in vain (Chambers' "Book of Days," ii. 13).
 
@@ -1081,7 +1081,7 @@ region unfit for children. He, clean contrary to the example set
 <span id="page_36">p. 36</span>
 
 forth in St. Mark (x. 14), will suffer none such to approach him. <span
-id="fr_19"></span>[1](#fn_19) He chiefly predicts the *evil* to come;
+id="fr_19"></span>[1](#fn_19.md) He chiefly predicts the *evil* to come;
 what is good only figures in his pages incidentally, and at long
 intervals. But here it is to be observed that the staple of true
 prophecy must always run parallel with that of history; whilst, as to
@@ -1151,7 +1151,7 @@ incarnate in him, and it moulds the man, the thought, the style.
 
 ### Footnotes
 
-<span id="fn_4"></span>[3:1](oon05.htm#fr_4) The facts for this life are
+<span id="fn_4"></span>[3:1](oon05.htm#fr_4.md) The facts for this life are
 taken, where no other reference is given, from a scarce work, entitled,
 "La première face du Janus François, par Jean Aimes de Chavigny
 Beaunois, 1594." It is found in the Library at Paris; but not in the
@@ -1159,31 +1159,31 @@ British Museum. Fortunately M. le Pelletier gives an almost literal
 transcript of this "Brief discours sur la vie de M. Michel de
 Nostredame."
 
-<span id="fn_5"></span>[4:1](oon05.htm#fr_5) "Archives du Magnetisme
+<span id="fn_5"></span>[4:1](oon05.htm#fr_5.md) "Archives du Magnetisme
 Animal," vol. viii. "Tous deux" (*i.e.* father and mother)
 "appartenaient à une famille Juive," converted in the sixteenth century,
 and of the tribe of Issachar ("Nouvelle Biog. Générale" \[Le Pelletier,
 i. 16 n.\]).
 
-<span id="fn_6"></span>[4:2](oon05.htm#fr_6) His grandfather, Moreri
+<span id="fn_6"></span>[4:2](oon05.htm#fr_6.md) His grandfather, Moreri
 tells us.
 
-<span id="fn_7"></span>[7:1](oon05.htm#fr_7) Moreri assigns this to the
+<span id="fn_7"></span>[7:1](oon05.htm#fr_7.md) Moreri assigns this to the
 year 1525.
 
-<span id="fn_8"></span>[7:2](oon05.htm#fr_8) He calls Scaliger in the
+<span id="fn_8"></span>[7:2](oon05.htm#fr_8.md) He calls Scaliger in the
 heyday of friendship "a Virgil in poetry, a Cicero in eloquence, a Galen
 in medicine," and declares that to him he is indebted for his scientific
 attainments ("Penny Cyclopædia," *s.v.* *Nostradamus*).
 
-<span id="fn_9"></span>[12:1](oon05.htm#fr_9) "That the great bulk of
+<span id="fn_9"></span>[12:1](oon05.htm#fr_9.md) "That the great bulk of
 French society of his day was impressed by his effusions there can be no
 doubt" (Chambers' "Book of Days," vol. ii., p. 13).
 
-<span id="fn_10"></span>[12:2](oon05.htm#fr_10) Moreri says that nobody
+<span id="fn_10"></span>[12:2](oon05.htm#fr_10.md) Moreri says that nobody
 knows what his report was.
 
-<span id="fn_11"></span>[13:1](oon05.htm#fr_11) Garencières, as we have
+<span id="fn_11"></span>[13:1](oon05.htm#fr_11.md) Garencières, as we have
 shown, says Nostradamus dedicated the "Luminary Epistle" to Henri II. in
 1557. M. le Pelletier holds (i. 10) that Henri II. never knew of the
 dedicatory epistle written to him by name, and that, as the events
@@ -1241,40 +1241,40 @@ through them. They will answer their purpose by being left in the dark,
 and will grind grain the better for it. Transparency will in such cases
 represent frangibility.
 
-<span id="fn_12"></span>[18:1](oon05.htm#fr_12) Aulus Gellius, "Noctes
+<span id="fn_12"></span>[18:1](oon05.htm#fr_12.md) Aulus Gellius, "Noctes
 Atticæ," xv. 7.
 
-<span id="fn_13"></span>[18:2](oon05.htm#fr_13) It was really in the
+<span id="fn_13"></span>[18:2](oon05.htm#fr_13.md) It was really in the
 sixth month of his sixty-third year that he died.
 
-<span id="fn_14"></span>[20:1](oon05.htm#fr_14) *Temple Bar*, xli. p.
+<span id="fn_14"></span>[20:1](oon05.htm#fr_14.md) *Temple Bar*, xli. p.
 87, authority for the term of years.
 
-<span id="fn_15"></span>[21:1](oon05.htm#fr_15) How any could have been
+<span id="fn_15"></span>[21:1](oon05.htm#fr_15.md) How any could have been
 written in 1567, I know not, as Nostradamus died in 1566. But, however
 this may be, there are twelve *Presages*, or one for each month
 throughout the year 1567. The last one is that which we have already
 given, as relating to his own death.
 
-<span id="fn_16"></span>[21:2](oon05.htm#fr_16) The book was entitled,
+<span id="fn_16"></span>[21:2](oon05.htm#fr_16.md) The book was entitled,
 "Les vies des plus célèbres et anciens poëtes provensaux, qui ont floury
 du tems des comtes de Provence" (Lyon, 1575); a book still sought for,
 and rather rare.
 
-<span id="fn_17"></span>[26:1](oon05.htm#fr_17) "In 1566 died that
+<span id="fn_17"></span>[26:1](oon05.htm#fr_17.md) "In 1566 died that
 trifler, so famous throughout the world, Michael Nostradamus, who
 boasted while he lived that he knew and could foretell future events by
 the influence of the stars, in whose name afterwards many ingenious men
 have put forth their imaginings, justifying him who said so aptly,
 'Nostra damus,' etc."
 
-<span id="fn_18"></span>[30:1](oon05.htm#fr_18) Bouys does the same for
+<span id="fn_18"></span>[30:1](oon05.htm#fr_18.md) Bouys does the same for
 Napoleon I.
 
-<span id="fn_19"></span>[36:1](oon05.htm#fr_19) See the ban he utters in
+<span id="fn_19"></span>[36:1](oon05.htm#fr_19.md) See the ban he utters in
 Century VI., at the close--"*Barbari procul sunto*." He shows a quite
 Horatian and heathen antipathy to the *profanam vulgus*.
 
 ------------------------------------------------------------------------
 
-[Next: The Preface of Michael Nostradamus to His Prophecies](oon06)
+[Next: The Preface of Michael Nostradamus to His Prophecies](oon06.md)

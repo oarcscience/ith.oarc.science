@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssug01)  [Next](ssug03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssug01)  [Next](ssug03.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Self-Suggestion and the New Huna Theory of Mesmerism and Hypnosis*, by
 Max Freedom Long, \[1958\], at Intangible Textual Heritage
 
@@ -416,7 +416,7 @@ Indian tribes, know how to use the force to render a subject unconscious
 by a touch of a finger, but they made a fine art of charging throwing
 sticks with mesmeric force and using them in battle. The priests often
 stood behind the spearsmen and tossed the charged sticks over their
-heads to strike the body of an opposing [warrior](errata.htm#0)—the
+heads to strike the body of an opposing [warrior](errata.htm#0.md)—the
 contact knocking him out so that he was easily overcome. It has been
 suggested that this practice was also known to the very old and
 primitive civilization of the Aboriginals in Australia. In their
@@ -494,4 +494,4 @@ the subject, after which the reaction to it may begin.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](ssug03)
+[Next: Chapter 2](ssug03.md)

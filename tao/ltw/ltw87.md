@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](ltw86)  [Next](ltw88) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](ltw86)  [Next](ltw88.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../img/t_yy.jpg)](index)  
+[![](../img/t_yy.jpg)](index.md)  
 *Laotzu's Tao and Wu Wei*, by Dwight Goddard and Henri Borel, \[1919\],
 at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ I found nothing but ignorant,
 
 stupid creatures everywhere--kneeling to idols whose symbolical
 significance they did not understand, and reciting strange "Sutras" not
-one word of which was intelligible to them. [1](ltw90.htm#xref_1) And I
+one word of which was intelligible to them. [1](ltw90.htm#xref_1.md) And I
 had been obliged to draw all my information from badly translated works
 that had received even worse treatment at the hands of learned Europeans
 than at those of the literary Chinese whom I had consulted. At last,
@@ -120,8 +120,8 @@ as though they were dead, and I am as poor as ever."
 "You err somewhat in this matter," said the sage. "Strive not so busily
 to be so very good. Do not seek it overmuch, or you will never find the
 true wisdom. Do you not know how it was that the Yellow
-Emperor [2](ltw90.htm#xref_2) recovered his magic pearl? I will tell
-you. [3](ltw90.htm#xref_3)
+Emperor [2](ltw90.htm#xref_2.md) recovered his magic pearl? I will tell
+you. [3](ltw90.htm#xref_3.md)
 
 "The Yellow Emperor once travelled round the north of the Red Sea, and
 climbed to the summit of the Kuenlün mountains. On his return to the
@@ -159,7 +159,7 @@ the purest human being who ever breathed.--Have you read the
 "I think I may well instruct you, young man. It is many years since I
 have had a pupil, and I see in your eyes no curiosity, but rather a pure
 desire of wisdom, for the freeing of your soul. Listen
-then. [4](ltw90.htm#xref_4)
+then. [4](ltw90.htm#xref_4.md)
 
 "Tao is really nothing but that which you Westerns call 'God.' Tao is
 the One; the beginning and the end. It embraces all things, and to it
@@ -260,7 +260,7 @@ leaves?--Then I will
 
 <span id="page_69">p. 69</span>
 
-speak to you of Wu-Wei, [5](ltw90.htm#xref_5) of 'non-resistance,' of
+speak to you of Wu-Wei, [5](ltw90.htm#xref_5.md) of 'non-resistance,' of
 'self-movement' on the breath of your impulse as it was born out of Tao.
 Men would be true men if they would but let their lives flow of
 themselves, as the sea heaves, as a flower blooms, in the simple beauty
@@ -278,7 +278,7 @@ Tao. Tao is rest. Only by renunciation of desire--even the desire for
 goodness or wisdom--can we attain rest. Oh! all this craving to know
 what Tao is! And this painful struggle for words in which to express it
 and to inquire after it!--The truly wise follow the Teaching which is
-wordless--which remains unexpressed. [6](ltw90.htm#xref_6) And who shall
+wordless--which remains unexpressed. [6](ltw90.htm#xref_6.md) And who shall
 ever express it? Those who know it (what Tao is) tell it not; those who
 tell it know it not.\[xr. 7} Even I shall not tell you what Tao is.
 Yourself must discover it in that you free yourself from all your
@@ -415,7 +415,7 @@ Wu-Wei at last--not, in the common human sense, existing--then all will
 be well with you, and you will glide through your life as quietly and
 naturally as the great sea before us. Naught will ruffle your peace.
 Your sleep mill be dreamless, and consciousness of self will bring no
-care. [8](ltw90.htm#xref_8) You will see Tao in all
+care. [8](ltw90.htm#xref_8.md) You will see Tao in all
 
 <span id="page_75">p. 75</span>
 
@@ -467,7 +467,7 @@ became birth. To-day another change has completed itself, and she has
 died. This resembles the rise and fall of the four seasons: spring,
 autumn, winter, summer. She sleeps calmly in the Great House. Were I now
 to weep and wail, it were to act as though the soul of all this had not
-entered into me,--therefore I do it no more.'" [9](ltw90.htm#xref_9)
+entered into me,--therefore I do it no more.'" [9](ltw90.htm#xref_9.md)
 
 This he told in a simple, unaffected manner that showed how natural it
 appeared to him. But it was not yet clear to me, and I said:
@@ -527,7 +527,7 @@ his child; he lighted my path at every steep descent, and led me gently
 forward, taking heed of all my movements.
 
 When we arrived at the foot, he showed me the little guest-chamber set
-apart for mandarins, [10](ltw90.htm#xref_10) and fetched pillow and
+apart for mandarins, [10](ltw90.htm#xref_10.md) and fetched pillow and
 covering for me.
 
 "I thank you, Father, from my heart!" I said.
@@ -542,4 +542,4 @@ laughing upon the earth. And silently he left me.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Art](ltw88)
+[Next: Chapter II. Art](ltw88.md)

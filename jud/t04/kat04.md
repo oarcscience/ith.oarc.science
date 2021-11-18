@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kat03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kat03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -105,7 +105,7 @@ the high-priest all the week-days are considered feast-days, as we have
 learned in a Mishna (Sebo'him): "The high-priest may sacrifice in his
 mourning before the interment of the corpse, but not to eat of it."
 Infer from this that the law of leprosy is customary on festivals. <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 Rabha said: Whence do we know that the court has power to summon one to
 appear before them; to appoint a time for the trial before the chief of
@@ -129,7 +129,7 @@ his disobedience is made public? From \[ibid., ibid.\]: "Because they
 came not to the help of the Lord." And whence, that his property may be
 confiscated (made ownerless)? From \[Ezra, x. 8\]: "And that whosoever
 should not come within three days," etc., "all his substance should be
-forfeited <span id="fr_9"></span>[2](#fn_9) and himself separated from
+forfeited <span id="fr_9"></span>[2](#fn_9.md) and himself separated from
 the congregation
 
 <span id="page_28">p. 28</span>
@@ -182,7 +182,7 @@ that so? Has it not happened that R. Simeon bar Rabbi and Bar Qappara
 have been studying together, and they came across a difficult question?
 Said R. Simeon to Bar Qappara: "This question must be solved by Rabbi
 (my father)." And Bar Qappara answered him: "What could Rabbi say to
-this?" <span id="fr_10"></span>[1](#fn_10) R. Simeon reported this
+this?" <span id="fr_10"></span>[1](#fn_10.md) R. Simeon reported this
 statement to his father, and he became angry. Subsequently Bar Qappara
 came to visit him, and Rabbi said to him: "Bar Qappara, I have never
 known thee." Bar Qappara understood this reproach, and he reprimanded
@@ -210,7 +210,7 @@ the following: Samuel and Mar Uqba, *studying* together, the latter used
 to sit (out of respect to Samuel) four ells distant from the former; but
 when sitting as a court, the reverse used to be the case, and Mar Uqba
 used to sit on a low platform (near the candelabrum <span
-id="fr_11"></span>[2](#fn_11)) in order that his voice might be heard
+id="fr_11"></span>[2](#fn_11).md) in order that his voice might be heard
 
 <span id="page_30">p. 30</span>
 
@@ -240,7 +240,7 @@ of the hand of Saul." This passage was expounded thus: The Holy One,
 blessed be He, said unto David: "David, thou singest songs over the
 downfall of Saul; if thou wert Saul and he were David, I would
 annihilate many a David for his sake." And this is meant by \[Psalms,
-vii. 1\]: "A Shiggayon of David <span id="fr_12"></span>[1](#fn_12)
+vii. 1\]: "A Shiggayon of David <span id="fr_12"></span>[1](#fn_12.md)
 which he sang unto the Lord, concerning the affairs of Cush (the
 Ethiopian) the Benjamite." Was then his name Cush? It was Saul, but as
 an Ethiopian is distinguished from others by the color of his skin, so
@@ -253,7 +253,7 @@ she distinguished by her kind deeds. Likewise \[Jerem. xxxviii. 7\]:
 
 <span id="page_31">p. 31</span>
 
-etc. Was then his name Ethiopian? <span id="fr_13"></span>[1](#fn_13)
+etc. Was then his name Ethiopian? <span id="fr_13"></span>[1](#fn_13.md)
 Was it then not Zedekiah? But as it is stated above. Likewise \[Amos,
 ix. 7\]: "Are ye not like the children of the Ethiopians, O children of
 Israel?" Was then their name Ethiopians? Was it then not "Israel"? But
@@ -279,7 +279,7 @@ will be profaned." And he asked Rabba bar bar Hana: "Do you know
 anything about such a case?" He answered him: So said R. Johanan: "It is
 written \[Malachi, ii. 7\]: 'The priest's lips are ever to keep
 knowledge, and the law are they to seek from his mouth, for he is the
-messenger <span id="fr_14"></span>[2](#fn_14) of the Lord of hosts.'
+messenger <span id="fr_14"></span>[2](#fn_14.md) of the Lord of hosts.'
 That means: If the Master is equal to an angel, law may be sought from
 his mouth, but not otherwise." Thereupon R. Jehudah put him under the
 ban. Subsequently, R. Jehudah was taken ill and the rabbis made him a
@@ -392,7 +392,7 @@ with his teeth and throwing the parings away. And from the above
 occurrence three things were inferred: that the nails may be trimmed on
 the middle days; that there is no aversion to trimming them with the
 teeth; and that the parings may be thrown away. <span
-id="fr_15"></span>[1](#fn_15) R. Itz'hak bar Jacob bar Geurah in the
+id="fr_15"></span>[1](#fn_15.md) R. Itz'hak bar Jacob bar Geurah in the
 name of R. Johanan sent the following message: "Flaxen garments may be
 washed on the middle days."
 
@@ -411,7 +411,7 @@ Bethuel answered and said: The thing hath proceeded *from the Lord*,"
 etc.; the Prophets \[Judges, xiv. 4\]: "But his father and his mother
 knew not that it was from *the Lord*"; the Hagiographa \[Prov. xix.
 14\]: "Houses and wealth are an inheritance from fathers; but from the
-*Lord* cometh an intelligent wife." <span id="fr_16"></span>[2](#fn_16)
+*Lord* cometh an intelligent wife." <span id="fr_16"></span>[2](#fn_16.md)
 Rabh further said in the name of the same authority; and according to
 others this was learned in a Boraitha:
 
@@ -445,8 +445,8 @@ MISHNA: Bonds of debts must not be written on the middle days; but if
 the lender does not otherwise want to trust the borrower, or the latter
 has nothing to eat, they may be written. Holy Scrolls, Phylacteries, or
 Mezuzoth must not be written on the middle days, and not a single letter
-may be [corrected](errata.htm#13)--even in the Book of Ezra. <span
-id="fr_17"></span>[1](#fn_17) R. Jehudah, however, says: "One may write
+may be [corrected](errata.htm#13.md)--even in the Book of Ezra. <span
+id="fr_17"></span>[1](#fn_17.md) R. Jehudah, however, says: "One may write
 Phylacteries and Mezuzoth for his own use, and he may also spin sky-blue
 wool for show-threads in his garment."
 
@@ -741,7 +741,7 @@ For God His wrath upon the earth has hurled,
 Our pious sage His voice has called away;  
 And God is glad that from this sinful world  
 His dearest servant has come home to stay. <span
-id="fr_18"></span>[1](#fn_18)
+id="fr_18"></span>[1](#fn_18.md)
 
 When Rabina died, the funeral orator held the following oration:
 
@@ -809,7 +809,7 @@ oration:
 
 In Babylon this noble sage was born,  
 In Palestine he was admired and cherished;  
-"Woe unto me!" doth Reketh <span id="fr_19"></span>[1](#fn_19) sadly
+"Woe unto me!" doth Reketh <span id="fr_19"></span>[1](#fn_19.md) sadly
 mourn,  
 "For my most precious jewel now has perished."
 
@@ -824,7 +824,7 @@ burglaries were committed in Nehardea; when R. Hamnuna, hailstones fell
 from heaven; when Rabba and R. Joseph died, the bridge-arches of
 Euphrates collapsed; when Abayi and Rabha, the bridge-arches of Hiddekel
 collapsed; when R. Mesharshia died, the trees were laden with thorns
-(instead of fruit). <span id="fr_20"></span>[2](#fn_20)
+(instead of fruit). <span id="fr_20"></span>[2](#fn_20.md)
 
 MISHNA: The food for the funeral meal is not placed before the mourners
 on a table, nor in a silver tureen, nor in a dish, but in wicker
@@ -833,7 +833,7 @@ but the rows are formed and the consolation is pronounced and the people
 assembled are at once dismissed. The bier must not be set down in any
 public place, that the mourning may not spread (in the middle days). The
 bier of women must at *no* time be there set down, on account of respect
-(to the sex of the deceased). <span id="fr_21"></span>[3](#fn_21)
+(to the sex of the deceased). <span id="fr_21"></span>[3](#fn_21.md)
 
 "*The bier must not be set down in any public street*." Said R.
 
@@ -885,52 +885,52 @@ END OF TRACT MOED KATAN (MINOR FESTIVALS).
 
 ### Footnotes
 
-<span id="fn_8"></span>[27:1](kat04.htm#fr_8) All the laws of mourning
+<span id="fn_8"></span>[27:1](kat04.htm#fr_8.md) All the laws of mourning
 not belonging to festivals we transfer to Tract Ebel Rabbathi (Great
 Mourning) as the proper place, and they will be published in the next
 volume, which will complete this section.
 
-<span id="fn_9"></span>[27:2](kat04.htm#fr_9) Leeser translates
+<span id="fn_9"></span>[27:2](kat04.htm#fr_9.md) Leeser translates
 "devoted."
 
-<span id="fn_10"></span>[29:1](kat04.htm#fr_10) Rashi explains this to
+<span id="fn_10"></span>[29:1](kat04.htm#fr_10.md) Rashi explains this to
 mean: "There is no scholar who could answer this." But our explanation
 seems to us more proper.
 
-<span id="fn_11"></span>[29:2](kat04.htm#fr_11) For Mar Uqba was an
+<span id="fn_11"></span>[29:2](kat04.htm#fr_11.md) For Mar Uqba was an
 Exilarch.
 
-<span id="fn_12"></span>[30:1](kat04.htm#fr_12) The root of Shiggayon is
+<span id="fn_12"></span>[30:1](kat04.htm#fr_12.md) The root of Shiggayon is
 ‏שגה‎ meaning "error."
 
-<span id="fn_13"></span>[31:1](kat04.htm#fr_13) The Talmud translates
+<span id="fn_13"></span>[31:1](kat04.htm#fr_13.md) The Talmud translates
 the meaning of the words literally. Hence our translation.
 
-<span id="fn_14"></span>[31:2](kat04.htm#fr_14) The text reads "Malach,"
+<span id="fn_14"></span>[31:2](kat04.htm#fr_14.md) The text reads "Malach,"
 which means a messenger, and also an angel.
 
-<span id="fn_15"></span>[34:1](kat04.htm#fr_15) This subject will be
+<span id="fn_15"></span>[34:1](kat04.htm#fr_15.md) This subject will be
 explained in Tract Niddah.
 
-<span id="fn_16"></span>[34:2](kat04.htm#fr_16) See our "Maamar
+<span id="fn_16"></span>[34:2](kat04.htm#fr_16.md) See our "Maamar
 Ha'ishuth," Wien, 1887, p. 6.
 
-<span id="fn_17"></span>[35:1](kat04.htm#fr_17) It means the first
+<span id="fn_17"></span>[35:1](kat04.htm#fr_17.md) It means the first
 Pentateuch which Ezra wrote. Rashi, however, says that he heard that it
 should not be read "Ezra," but, ‏עזרה‎, which means the Temple; as to
 his knowledge, there was a correct copy of the Holy Scrolls, from which
 all the others are corrected.
 
-<span id="fn_18"></span>[42:1](kat04.htm#fr_18) From "The Poetry of the
+<span id="fn_18"></span>[42:1](kat04.htm#fr_18.md) From "The Poetry of the
 Talmud," by Sekels, with metrical corrections, as also the verses
 following.
 
-<span id="fn_19"></span>[44:1](kat04.htm#fr_19) Reketh is Tiberias.
+<span id="fn_19"></span>[44:1](kat04.htm#fr_19.md) Reketh is Tiberias.
 (Rashi.)
 
-<span id="fn_20"></span>[44:2](kat04.htm#fr_20) All this must not be
+<span id="fn_20"></span>[44:2](kat04.htm#fr_20.md) All this must not be
 understood literally but allegorically.
 
-<span id="fn_21"></span>[44:3](kat04.htm#fr_21) The Gemara belonging to
+<span id="fn_21"></span>[44:3](kat04.htm#fr_21.md) The Gemara belonging to
 this Mishna, which properly does not come in here, will be found in its
 proper place.

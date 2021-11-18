@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf78)  [Next](sbf80) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf78)  [Next](sbf80.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -149,6 +149,6 @@ They are called *!khwa !kweiten* (the Rain's thunderbolts).\]</span>
 ------------------------------------------------------------------------
 
 [Next: The Relations Of Wind, Moon, And Cloud To Human Beings After
-Death.](sbf80)
+Death.](sbf80.md)
 
 </div>

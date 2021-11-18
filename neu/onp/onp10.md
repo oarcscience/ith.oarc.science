@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp09) [Next](onp11)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp09) [Next](onp11.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ the *Asmunda saga kappabana* (“the Saga of Ásmund, Slayer of
 Champions”), a *fornaldarsaga* which must have existed in the twelfth
 century about as it has come down to us, since it is found in a very
 similar form in Saxo’s *Danish History*<span
-id="fr_1"></span>[1](#note_1) which was composed toward the end of that
+id="fr_1"></span>[1](#note_1.md) which was composed toward the end of that
 century. This version also contains a Latin paraphrase of the lay, in
 hexameters, agreeing with our fragment down to verbal details; so that a
 tentative reconstruction of certain lines and stanzas is justifiable.
@@ -30,7 +30,7 @@ tentative reconstruction of certain lines and stanzas is justifiable.
  The saga tells how King Buthli’s daughter, Hild—in the lay and in Saxo
 she is called Drótt—by the fortunes of war is married successively to
 two kings. Her sons by these, Hildibrand and Ásmund,<span
-id="fr_2"></span>[2](#note_2) grow up in ignorance of one another. Both
+id="fr_2"></span>[2](#note_2.md) grow up in ignorance of one another. Both
 become great warriors. Hildibrand is attached to the Hunnish court,
 Ásmund becomes the champion of two Saxon lords whose realm has been
 reduced by Hildibrand. He takes up Hildibrand’s standing challenge to
@@ -123,7 +123,7 @@ slain by the sword, sorely wounded.”<br />
  According to the saga, Ásmund—ill-pleased with his deed—fulfills his
 brother’s dying wish. But when he returns from the combat he scornfully
 remarks about the “odd custom” of sending two men against one.<span
-id="fr_12"></span>[12](#note_12) Of the four stanzas put into his mouth,
+id="fr_12"></span>[12](#note_12.md) Of the four stanzas put into his mouth,
 the fourth stands out with peculiar vigor.
 
 <table data-cellpadding="10">
@@ -178,7 +178,7 @@ a deadly wound, dealt with the sword.”<span id="fr_18"></span><a href="#note
 
 ------------------------------------------------------------------------
 
-[Next](onp11)
+[Next](onp11.md)
 
 ------------------------------------------------------------------------
 
@@ -186,28 +186,28 @@ a deadly wound, dealt with the sword.”<span id="fr_18"></span><a href="#note
 
 <span id="footnotes_page_52">p. 52</span>
 
-<span id="note_1"></span>[1](#fr_1) Book VII.
+<span id="note_1"></span>[1](#fr_1.md) Book VII.
 
-<span id="note_2"></span>[2](#fr_2) In Saxo, Hildigerus and Halfdanus.
+<span id="note_2"></span>[2](#fr_2.md) In Saxo, Hildigerus and Halfdanus.
 
 <span id="footnotes_page_53">p. 53</span>
 
-<span id="note_3"></span>[3](#fr_3) Supplied by the translator after
+<span id="note_3"></span>[3](#fr_3.md) Supplied by the translator after
 Saxo, lines 1-7.
 
-<span id="note_4"></span>[4](#fr_4) I accept E. A. Kock’s emendation.
+<span id="note_4"></span>[4](#fr_4.md) I accept E. A. Kock’s emendation.
 
-<span id="note_5"></span>[5](#fr_5) Do., after lines 10-16.
+<span id="note_5"></span>[5](#fr_5.md) Do., after lines 10-16.
 
-<span id="note_6"></span>[6](#fr_6) Two wondrous swords to which,
+<span id="note_6"></span>[6](#fr_6.md) Two wondrous swords to which,
 however, a curse had been attached, had been forged for Buthli by two
 dwarfs. They came into the possession of the half brothers. In the duel,
 Hildibrand’s is shattered.
 
-<span id="note_7"></span>[7](#fr_7) Supplied after lines 18-19 of Saxo’s
+<span id="note_7"></span>[7](#fr_7.md) Supplied after lines 18-19 of Saxo’s
 paraphrase.
 
-<span id="note_8"></span>[8](#fr_8) The recurrence of “by my head”
+<span id="note_8"></span>[8](#fr_8.md) The recurrence of “by my head”
 renders the line suspicious. In Saxo’s verses the dying Hildeglr’s
 shield is adorned with the figures of the warriors he had slain—among
 them his own son: “in the middle (panel) stands the picture of my son,
@@ -215,41 +215,41 @@ drawn with great art, whom this hand of mine snatched out of life.” In
 the saga, Hildibrand is represented as slaying his son in the berserker
 rage which overcomes him before going to meet Ásmund.
 
-<span id="note_8"></span>[8](#fr_8) There is nothing in Saxo’s version
+<span id="note_8"></span>[8](#fr_8.md) There is nothing in Saxo’s version
 to suggest a lacuna here.
 
 <span id="footnotes_page_54">p. 54</span>
 
-<span id="note_10"></span>[10](#fr_10) It being customary, rather, that
+<span id="note_10"></span>[10](#fr_10.md) It being customary, rather, that
 the victor despoils the vanquished of his armor.
 
-<span id="note_11"></span>[11](#fr_11) Freely supplied by the translator
+<span id="note_11"></span>[11](#fr_11.md) Freely supplied by the translator
 after Saxo’s lines 31-34.
 
-<span id="note_12"></span>[12](#fr_12) Which is dishonorable, according
+<span id="note_12"></span>[12](#fr_12.md) Which is dishonorable, according
 to the code of the single combat.
 
-<span id="note_13"></span>[13](#fr_13) Adopting Detter’s and Heinzel’s
+<span id="note_13"></span>[13](#fr_13.md) Adopting Detter’s and Heinzel’s
 emendation of the passage.
 
-<span id="note_14"></span>[14](#fr_14) The strange contradiction in this
+<span id="note_14"></span>[14](#fr_14.md) The strange contradiction in this
 line might, possibly, be interpreted ironically as meaning that they
 picked him as their opponent.
 
-<span id="note_15"></span>[15](#fr_15) In the original *dísir,* tutelary
+<span id="note_15"></span>[15](#fr_15.md) In the original *dísir,* tutelary
 spirits in the shape of women, guiding and warning one.
 
 <span id="footnotes_page_55">p. 55</span>
 
-<span id="note_16"></span>[16](#fr_16) This epithet shows the same,
+<span id="note_16"></span>[16](#fr_16.md) This epithet shows the same,
 older, conception as the *Lay of Hiltibrant* where Hiltibrant is called
 “*alter Hun*”; whereas in the saga he is represented as youthful,
 notwithstanding his having a grown son.
 
-<span id="note_17"></span>[17](#fr_17) Or “hard to overcome.” The line
+<span id="note_17"></span>[17](#fr_17.md) Or “hard to overcome.” The line
 seems corrupt.
 
-<span id="note_18"></span>[18](#fr_18) F. Jónsson’s emendation.
+<span id="note_18"></span>[18](#fr_18.md) F. Jónsson’s emendation.
 
  
 

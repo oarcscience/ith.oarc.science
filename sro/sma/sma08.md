@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma07)  [Next](sma09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma07)  [Next](sma09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -139,7 +139,7 @@ admiration of their Mussulman foes, and feats almost surpassing the
 fables of the romances of chivalry had been performed by their gallant
 warriors. These were the auxiliaries to whom Aboo-’l-Wefa directed his
 attention; for we are to observe that as yet the fanatic spirit had not
-united all the Moslems in [enmity](errata.htm#5)
+united all the Moslems in [enmity](errata.htm#5.md)
 
 <span id="page_88">p. 88</span>
 
@@ -165,7 +165,7 @@ plain watered by the streams Abana and Pharpar. But here defeat awaited
 them. Taj-al-Molook (*Diadem of Kings*) Boozi, the emir of Damascus, had
 in time discovered the plot of his hakem. He had put him and the vizir
 to death, and had ordered a general massacre of the Ismaïlites in the
-city <span id="fr_42"></span>[\*](#fn_42). The Christian army was now at
+city <span id="fr_42"></span>[\*](#fn_42.md). The Christian army was now at
 a place named Marj Safar, and the footmen had begun to plunder the
 villages for food, when a small body of gallant Damascene warriors
 rushed from the town and fell upon them. The defenceless Christians sank
@@ -174,7 +174,7 @@ advanced to aid or avenge their brethren, when
 
 <span id="page_89">p. 89</span>
 
-suddenly <span id="fr_43"></span>[\*](#fn_43) the sky became overcast,
+suddenly <span id="fr_43"></span>[\*](#fn_43.md) the sky became overcast,
 thick darkness enveloped all objects, the thunder roared, the lightning
 flashed, the rain poured down in torrents, and, by a rapid transition,
 peculiar to Eastern climates, the rain and waters turned into snow and
@@ -298,12 +298,12 @@ to be the person best qualified for the office.
 
 ### Footnotes
 
-<span id="fn_42"></span>[88:\*](sma08.htm#fr_42) The number slain was
+<span id="fn_42"></span>[88:\*](sma08.htm#fr_42.md) The number slain was
 6,000.
 
-<span id="fn_43"></span>[89:\*](sma08.htm#fr_43) It was the month of
+<span id="fn_43"></span>[89:\*](sma08.htm#fr_43.md) It was the month of
 December.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](sma09)
+[Next: Chapter VII](sma09.md)

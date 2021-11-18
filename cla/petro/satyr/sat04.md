@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat03)  [Next](sat05) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat03)  [Next](sat05.md) 
 
 ------------------------------------------------------------------------
 
 # CHAPTER THREE
 
-\[XII <span id="XII"></span>[(Latin)](../satyrlat/satl012) \] On the
+\[XII <span id="XII"></span>[(Latin)](../satyrlat/satl012.md) \] On the
 approach of night we took our way to the market-place, where we saw an
 abundance of goods for sale, not indeed articles of any great value, but
 rather such as needed the kindly veil of darkness, considering their
@@ -25,7 +25,7 @@ afraid to trust his eyes and anxious not to do anything rash, first went
 up to the fellow as a would-be purchaser, drew the tunic from his
 shoulders and began to scrutinize it carefully.
 
-\[XIII <span id="XIII"></span>[(Latin)](../satyrlat/satl013) \] By a
+\[XIII <span id="XIII"></span>[(Latin)](../satyrlat/satl013.md) \] By a
 wonderful stroke of luck the rustic had not as yet had the curiosity to
 search the seams, but was offering the thing for sale with an
 indifferent air as some beggar-man's leavings. When Ascyltos saw our
@@ -41,7 +41,7 @@ bush. I advised we should bring a civil action right out to compel him
 to give up the property to its rightful owners by law, if he refused to
 do so otherwise.
 
-\[XIV <span id="XIV"></span>[(Latin)](../satyrlat/satl014) \] Not so
+\[XIV <span id="XIV"></span>[(Latin)](../satyrlat/satl014.md) \] Not so
 Ascyltos, who had a wholesome fear of the law. "Who knows us," he said,
 "in this place, or will believe what we say? My own strong opinion is we
 should buy the property, our own though it be, now we see it, and rather
@@ -74,7 +74,7 @@ fun of our impertinent claim, and not unnaturally, when on the one side
 they asserted their right to a most valuable cloak, but we to this old
 rag hardly worth mending. However Ascyltos adroitly stopped their
 ridicule by crying out, directly he could get a hearing, \[XV <span
-id="XV"></span>[(Latin)](../satyrlat/satl015) \] "Well! look you, every
+id="XV"></span>[(Latin)](../satyrlat/satl015.md) \] "Well! look you, every
 man likes his own property best; let 'em give us up our tunic, and they
 shall have their cloak."
 
@@ -129,7 +129,7 @@ up such a shouting the vault of the sacred building trembled, and tried
 to seize hold of us. But we fled as fast as our legs would carry us back
 to our inn.
 
-\[XVI <span id="XVI"></span>[(Latin)](../satyrlat/satl016) \] Scarcely
+\[XVI <span id="XVI"></span>[(Latin)](../satyrlat/satl016.md) \] Scarcely
 had we eaten our fill of the dinner Giton had provided us, when the door
 resounded with a most imperative knocking. Turning pale, we demanded,
 "Who's there?"--"Open the door," was the answer, "and you'll find out."
@@ -143,7 +143,7 @@ the inn, and begs to speak with you. Do not be afraid; she brings no
 accusation, and has no wish to punish your fault. She only wonders what
 god it was brought such genteel young men into her district."
 
-\[XVII <span id="XVII"></span>[(Latin)](../satyrlat/satl017) \] We were
+\[XVII <span id="XVII"></span>[(Latin)](../satyrlat/satl017.md) \] We were
 still dumb, not knowing in the least what kind of response to give, when
 the mistress herself entered, accompanied only by a young girl, and
 sitting down on my couch, wept for ever so long. Not even then had we a
@@ -181,7 +181,7 @@ would divulge the mysteries, and moreover, if the god had revealed any
 extraordinary means of curing her ague, we would second divine
 providence, even if it involved danger to ourselves.
 
-\[XVIII <span id="XVIII"></span>[(Latin)](../satyrlat/satl018) \] The
+\[XVIII <span id="XVIII"></span>[(Latin)](../satyrlat/satl018.md) \] The
 woman cheered up at this promise, and fell to kissing me thick and fast,
 and changing from tears to laughter, combed back with her fingers some
 stray locks that had escaped from behind my ears. "I make truce with
@@ -199,7 +199,7 @@ laughter as quite alarmed us. The maid, who had entered first followed
 suit, and was followed in turn by the little girl who had come in along
 with Quartilla.
 
-\[XIX <span id="XIX"></span>[(Latin)](../satyrlat/satl019) \] The whole
+\[XIX <span id="XIX"></span>[(Latin)](../satyrlat/satl019.md) \] The whole
 place reechoed with their forced merriment; meantime, seeing no reason
 for this rapid change of mood, we stand staring now at each other, now
 at the women. At length says Quartilla, "I have given express orders
@@ -222,4 +222,4 @@ unknown bravos and carried off to a magnificent palace.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four](sat05)
+[Next: Chapter Four](sat05.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](cha04)  [Next](cha06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](cha04)  [Next](cha06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Works of Stephen Charnock*, \[1628-1680\] at Intangible Textual
 Heritage
 
@@ -4884,6 +4884,6 @@ End of part 1 of *A Discourse of the Efficient of Regeneration*.
 
 ------------------------------------------------------------------------
 
-[Next: Discourse of the Efficient of Regeneration, Part II](cha06)
+[Next: Discourse of the Efficient of Regeneration, Part II](cha06.md)
 
 </div>

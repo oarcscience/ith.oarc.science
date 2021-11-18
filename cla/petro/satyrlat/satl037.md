@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat07.htm#XXXVII) 
-[Previous](satl036)  [Next](satl038) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat07.htm#XXXVII.md) 
+[Previous](satl036)  [Next](satl038.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ folium coniciet.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVIII](satl038)
+[Next: XXXVIII](satl038.md)

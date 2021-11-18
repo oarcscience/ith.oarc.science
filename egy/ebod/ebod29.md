@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod28)  [Next](ebod30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod28)  [Next](ebod30.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ body.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXIII. and Plate XXIV.](ebod30)
+[Next: Plate XXIII. and Plate XXIV.](ebod30.md)

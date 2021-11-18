@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf33) [Next](bulf35) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf33) [Next](bulf35.md) 
 
 # CHAPTER XXXV.
 
@@ -384,4 +384,4 @@ The prediction above alluded to is contained in the closing lines of the
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXXVI. Modern Monsters- The Phoenix- Basilisk- Unicorn-
--salamander.](bulf35)
+-salamander.](bulf35.md)

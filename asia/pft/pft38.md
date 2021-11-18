@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft37)  [Next](pft39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft37)  [Next](pft39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ while she was getting more a great wind suddenly arose which wound the
 cotton around the baby and carried him away. Far away to a distant land
 the wind took Bulanawan, and in that place he grew up. When he was a
 man, he became a great warrior.  <span
-id="fr_120"></span>[121](pft68.htm#fn_120)
+id="fr_120"></span>[121](pft68.htm#fn_120.md)
 
 One day while Bulanawan and his wife were walking along the seashore,
 they sat down to rest on a large, flat rock, and Bulanawan fell asleep.
@@ -34,7 +34,7 @@ Now Aguio, the twin brother of Bulanawan, had become a great warrior
 also, and he went on a journey to this distant land, not knowing that
 his brother was there. It happened that he was walking along the
 seashore in his war-dress  <span
-id="fr_121"></span>[122](pft68.htm#fn_121) on this same day, and when he
+id="fr_121"></span>[122](pft68.htm#fn_121.md) on this same day, and when he
 saw the woman sitting on the large, flat rock, he thought her very
 beautiful, and he determined to steal her.
 
@@ -42,7 +42,7 @@ As he drew near he asked her to give him some of her husband's betel-nut
 to chew, and when she refused he went forward to fight her husband, not
 knowing they were brothers. As soon as his wife awakened him Bulanawan
 sprang up, seized her, put her in the cuff of his sleeve,  <span
-id="fr_122"></span>[123](pft68.htm#fn_122) and came forth ready to
+id="fr_122"></span>[123](pft68.htm#fn_122.md) and came forth ready to
 fight. Aguio grew very angry at this, and they fought until their
 weapons were broken, and the earth trembled.
 
@@ -64,4 +64,4 @@ Bulanawan were brothers and the grandsons of the peacemaker.
 
 ------------------------------------------------------------------------
 
-[Next: Origin](pft39)
+[Next: Origin](pft39.md)

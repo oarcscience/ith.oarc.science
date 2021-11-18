@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi270)  [Next](mtsi272) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi270)  [Next](mtsi272.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ eastward. They made it thunder and lighten. A cloud separated them.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Origin of Corn](mtsi272)
+[Next: 7. The Origin of Corn](mtsi272.md)

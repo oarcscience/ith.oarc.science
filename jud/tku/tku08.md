@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku07)  [Next](tku09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku07)  [Next](tku09.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,7 +112,7 @@ place).
 11\. Like as it is written, Num. xix. 17: "And shall pour upon him
 living waters in a vessel." (But the life looketh towards the mother;
 and it) is (understood to be that path which is called) ALHIM
-[ChIIM](errata.htm#1), *Elohim Chiiim*, "the Elohim of life;" and the
+[ChIIM](errata.htm#1.md), *Elohim Chiiim*, "the Elohim of life;" and the
 king of the universe (that is, the understanding. Whereunto belong also
 the following sayings:--) Ps. cxvi. v. 9: "I will walk before the Lord
 in the lands of life." Also 1 Sam. 29: "And the soul of my Lord shall be
@@ -382,7 +382,7 @@ mouth between his teeth (that is, his extremity, by which he is linked
 to the shells, turneth towards his other extremity wherewith he looketh
 towards holiness). He is pierced through on either side (so that he may
 seek to receive the superior and inferior nature). When the chief
-ariseth (who is [Metatron](errata.htm#2)) he is changed into three
+ariseth (who is [Metatron](errata.htm#2).md) he is changed into three
 spirits (that is, he assumeth the nature of three inferior shells).
 
 \["Nogah" is also the qabalistical title of the sphere of the planet
@@ -500,4 +500,4 @@ departeth therefrom, and knoweth its paths and ways.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Ingress and the Preface](tku09)
+[Next: Chapter I: The Ingress and the Preface](tku09.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft08)  [Next](eft10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft08)  [Next](eft10.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ foolish thing, and you have done two.'
 
 ------------------------------------------------------------------------
 
-[Next: Binnorie](eft10)
+[Next: Binnorie](eft10.md)

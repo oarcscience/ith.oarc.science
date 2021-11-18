@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork08)  [Next](gork10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork08)  [Next](gork10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -28,8 +28,8 @@ Sunday and was the first day after the full moon, so the devotees had
 leisure to come and see their beloved Master at Dakshineswara. Everyone
 had free access. He talked with everybody who came. His visitors were
 from all classes of people,—Sannyâsins <span
-id="fr_45"></span>[\*](#fn_45) and Paramahamsas, <span
-id="fr_46"></span>[†](#fn_46) Hindus, Christians and Brâhmos, Sâktas,
+id="fr_45"></span>[\*](#fn_45.md) and Paramahamsas, <span
+id="fr_46"></span>[†](#fn_46.md) Hindus, Christians and Brâhmos, Sâktas,
 Vaishnavas and Shaivas,—women as well as men. It was noon. Srî
 Râmakrishna was seated in His usual place in His room. A disciple came
 and saluted Him, falling at His
@@ -41,7 +41,7 @@ the welfare of himself and of his family. A short while after the
 Bhagavân began to talk to him upon the Vedânta. He said:
 
 <span class="margnote">Non-dualistic Vedantins.</span>The Astâvakara
-Samhitâ <span id="fr_47"></span>[\*](#fn_47) deals with the knowledge of
+Samhitâ <span id="fr_47"></span>[\*](#fn_47.md) deals with the knowledge of
 the Âtman (Self). The knowers of the Self declare: "I am He, I am that
 Supreme Self." This is the view of all the Sannyâsins belonging to the
 non-dualistic (Advaita) school of Vedânta. But it is not meet that a man
@@ -73,7 +73,7 @@ world?"
 Then turning towards the disciple, the Bhagavân said:
 
 To-day my mind is not at ease. I hear from Hridai <span
-id="fr_48"></span>[\*](#fn_48) that he has been ailing much. Is this
+id="fr_48"></span>[\*](#fn_48.md) that he has been ailing much. Is this
 
 <span id="page_182">p. 182</span>
 
@@ -91,7 +91,7 @@ for me. My mind will be set at rest if he can get the money he needs.
 Now whom am I to ask for money? And how can I ask, being a Sannyâsin?
 
 At two or three o'clock in the afternoon two great devotees, Adhar <span
-id="fr_49"></span>[\*](#fn_49) and Balarâm, came and prostrated
+id="fr_49"></span>[\*](#fn_49.md) and Balarâm, came and prostrated
 themselves before Him and took their seats. They asked Him how He was
 doing. The Bhagavân replied: "Well, my body is all right, but not so is
 the mind." He did not mention anything about Hridâya's illness.
@@ -101,7 +101,7 @@ the mind." He did not mention anything about Hridâya's illness.
 ii
 
 In the course of the conversation, when the talk was about the Goddess
-*Simhavâhini* <span id="fr_50"></span>[\*](#fn_50) (seated upon a lion)
+*Simhavâhini* <span id="fr_50"></span>[\*](#fn_50) (seated upon a lion.md)
 belonging to the Mullik family of Barabâzâr, He said: Once I went to see
 the Simhavâhini. She was then staying in one Mullik's house at
 Châshâdhopâpârâ. The house was almost a deserted one. The family had
@@ -118,7 +118,7 @@ believe in the Divine Presence infilling the images of the Deity.
 
 <span id="page_184">p. 184</span>
 
-I went to Vishnupura. <span id="fr_51"></span>[\*](#fn_51) The Râjâ has
+I went to Vishnupura. <span id="fr_51"></span>[\*](#fn_51.md) The Râjâ has
 several good temples. In one of the temples there is the image of a
 Goddess named Mrinmayi. A big tank is before the temple. But how was it
 that I smelled in the tank the spices that women use to perfume their
@@ -129,13 +129,13 @@ the universe appeared to me in the form of Mrinmayi.
 
 By this time other devotees had arrived. The talk then turned on the
 Kabul war and the civil war that came after. One gave the news that
-Yâkub Khân <span id="fr_52"></span>[†](#fn_52) had been deposed from his
+Yâkub Khân <span id="fr_52"></span>[†](#fn_52.md) had been deposed from his
 throne, adding: Sir, Yâkub Khân is a great devotee.
 
 <span class="margnote">Trials of a devotee.</span>Srî Râmakrishna: Well,
 pleasure and pain, happiness and misery, are things one cannot separate
 from the body. We read in Kavi Kankana's <span
-id="fr_53"></span>[‡](#fn_53) "Chandi" that Kâluvira, a great devotee,
+id="fr_53"></span>[‡](#fn_53.md) "Chandi" that Kâluvira, a great devotee,
 was shut up in prison.
 
 <span id="page_185">p. 185</span>
@@ -176,7 +176,7 @@ and miseries to bear! But amidst all these they never lost their wisdom.
 Can you find others equally wise and devoted to God?
 
 At this time Narendra (Swâmi Vivekânanda) and Visvanâtha
-Upâdhyâya, <span id="fr_54"></span>[\*](#fn_54) the Nepaulese Resident
+Upâdhyâya, <span id="fr_54"></span>[\*](#fn_54.md) the Nepaulese Resident
 in Calcutta, entered. Bowing down to Srî Râmakrishna, they took their
 seats. Srî Râmakrishna asked Narendra to sing. There
 
@@ -223,7 +223,7 @@ Immortal Bliss, like embodied nectar, will rise in the firmament of the
 soul.
 
 3\. At Thy sight we shall be mad with joy even as the *Chakora* <span
-id="fr_55"></span>[\*](#fn_55) is maddened at the sight of the moon.
+id="fr_55"></span>[\*](#fn_55.md) is maddened at the sight of the moon.
 
 4\. O King of kings, there is none like Thee, all good and all
 peaceful.  
@@ -274,7 +274,7 @@ of people of every
 
 class. Narendra, seeing that the Bhagavân was in Samâdhi, had left the
 room and gone to the eastern veranda, where Hâzrâ <span
-id="fr_56"></span>[\*](#fn_56) was seated on a blanket telling his
+id="fr_56"></span>[\*](#fn_56.md) was seated on a blanket telling his
 beads. Narendra began to talk with him. In the meanwhile the Bhagavân
 looked for Narendra in the room, but he was not there. The *Tânpurâ*
 (musical instrument) was lying on the ground. The devotees all had their
@@ -296,7 +296,7 @@ our home.
 <span id="page_191">p. 191</span>
 
 <span class="margnote">Lover of God.</span>Bhagavân: As Srimati
-(Râdhâ) <span id="fr_57"></span>[\*](#fn_57) neared Srî Krishna, she
+(Râdhâ) <span id="fr_57"></span>[\*](#fn_57.md) neared Srî Krishna, she
 perceived more and more the charming fragrance of His sweet person. The
 more one approaches God, the more does one's love toward Him increase.
 The more the river nears the sea, the more it is subject to ebb and
@@ -321,7 +321,7 @@ Existence-Intelligence-Bliss, the Undifferentiated, appears as
 differentiated into many. He has various names applied to Him according
 to the various powers manifested. That is the reason of His having many
 forms. Hence a devotee has sung: "O my Mother Târâ, <span
-id="fr_58"></span>[\*](#fn_58) Thou art even all that." Wherever there
+id="fr_58"></span>[\*](#fn_58.md) Thou art even all that." Wherever there
 is action, such as creation, preservation and destruction, there is
 Sakti or Intelligent Energy. But water is water whether it is calm or
 disturbed. That One Absolute Existence-Intelligence-Bliss is also the
@@ -345,7 +345,7 @@ to go to see Keshab Sen.
 Visvanâtha: But Thy Holiness will go. What can I do?
 
 Bhagavân: You go to see the Governor-General, who according to your
-Shâstras <span id="fr_59"></span>[\*](#fn_59) is a Mleccha (unclean),
+Shâstras <span id="fr_59"></span>[\*](#fn_59) is a Mleccha (unclean.md),
 and for money, too; and may I not go to see Keshab Sen? It does not
 become you to speak in this way. You often say: "It is God who has
 manifested Himself as the human soul and the world itself." What you say
@@ -502,7 +502,7 @@ Thou knowest, take most of my time."
 
 He then took his seat and Râmakrishna continued: You remained in Benares
 for a long time. Tell us what you saw there. Let us hear something about
-Dayânanda. <span id="fr_60"></span>[\*](#fn_60)
+Dayânanda. <span id="fr_60"></span>[\*](#fn_60.md)
 
 Brahmin: Yes, I met Dayânanda. Thou hast also seen him.
 
@@ -660,65 +660,65 @@ best place. Meditate on Him in your heart.
 
 ### Footnotes
 
-<span id="fn_45"></span>[179:\*](gork09.htm#fr_45) Sannyâsins are those
+<span id="fn_45"></span>[179:\*](gork09.htm#fr_45.md) Sannyâsins are those
 who have renounced the world and its pleasures for the sake of the Lord.
 
-<span id="fn_46"></span>[179:†](gork09.htm#fr_46) Paramahamsas are those
+<span id="fn_46"></span>[179:†](gork09.htm#fr_46.md) Paramahamsas are those
 who have attained to *Nirvikalpa Samâdhi*, or Brahma-Jnâna.
 
-<span id="fn_47"></span>[180:\*](gork09.htm#fr_47) Astâvakra Samhitâ is
+<span id="fn_47"></span>[180:\*](gork09.htm#fr_47.md) Astâvakra Samhitâ is
 a work containing the highest exposition of the Advaita Vedânta, written
 by the ancient sage Astâvakra, who was the preceptor of King Janaka.
 
-<span id="fn_48"></span>[181:\*](gork09.htm#fr_48) Hridâya Mukerji was
+<span id="fn_48"></span>[181:\*](gork09.htm#fr_48.md) Hridâya Mukerji was
 an old servant of Srî Râmakrishna and served Him for nearly thirty years
 in the Temple of Dakshineswara—till 1881. He was a remote nephew of Srî
 Râmakrishna. His birthplace was in the village of Siore, in the district
 of Hughly. He breathed his last towards the end of April, 1889. "Hridai"
 was a pet abbreviation of his name used by Srî Râmakrishna.
 
-<span id="fn_49"></span>[182:\*](gork09.htm#fr_49) Adhar was the first
+<span id="fn_49"></span>[182:\*](gork09.htm#fr_49.md) Adhar was the first
 name of Bâbu Adhar lâl Sen, a rich Hindu Deputy Magistrate of Calcutta.
 He was a devoted householder disciple of Râmakrishna, who often
 sanctified his home by His holy visits.
 
-<span id="fn_50"></span>[183:\*](gork09.htm#fr_50) In Hindu mythology
+<span id="fn_50"></span>[183:\*](gork09.htm#fr_50.md) In Hindu mythology
 the Goddess Durgâ destroyed the Demons, riding upon a wild lion. Hence
 Her name is "Simhavâhini."
 
-<span id="fn_51"></span>[184:\*](gork09.htm#fr_51) The name of an
+<span id="fn_51"></span>[184:\*](gork09.htm#fr_51.md) The name of an
 ancient city in Bengal.
 
-<span id="fn_52"></span>[184:†](gork09.htm#fr_52) Yâkub Khân was the
+<span id="fn_52"></span>[184:†](gork09.htm#fr_52.md) Yâkub Khân was the
 Amir of Afghanistan who was deposed by the British after the Kabul war
 of 1870.
 
-<span id="fn_53"></span>[184:‡](gork09.htm#fr_53) Kavi Kankana was a
+<span id="fn_53"></span>[184:‡](gork09.htm#fr_53.md) Kavi Kankana was a
 great poet of Bengal, whose famous <span id="page_185">p. 185</span>
 work is entitled "Chandi," or the exploits of the Divine Mother.
 Kâluvira and Srimanta were the heroes of this poem.
 
-<span id="fn_54"></span>[186:\*](gork09.htm#fr_54) Visvanâtha Upâdhyâya
+<span id="fn_54"></span>[186:\*](gork09.htm#fr_54.md) Visvanâtha Upâdhyâya
 was a Brâhmin scholar and a devotee of Srî Râmakrishna. He was like a
 consul of the Nepaul Government to the British.
 
-<span id="fn_55"></span>[188:\*](gork09.htm#fr_55) Chakora is the name
+<span id="fn_55"></span>[188:\*](gork09.htm#fr_55.md) Chakora is the name
 of a kind of aquatic bird.
 
-<span id="fn_56"></span>[190:\*](gork09.htm#fr_56) See note page
-[128](gork07.htm#page_128).
+<span id="fn_56"></span>[190:\*](gork09.htm#fr_56.md) See note page
+[128](gork07.htm#page_128.md).
 
-<span id="fn_57"></span>[191:\*](gork09.htm#fr_57) Srimati Râdhâ was the
+<span id="fn_57"></span>[191:\*](gork09.htm#fr_57.md) Srimati Râdhâ was the
 beloved consort of Srî Krishna, the greatest of the Saviours among the
 Hindus.
 
-<span id="fn_58"></span>[192:\*](gork09.htm#fr_58) Târâ is another name
+<span id="fn_58"></span>[192:\*](gork09.htm#fr_58.md) Târâ is another name
 of the Divine Mother of the universe.
 
-<span id="fn_59"></span>[193:\*](gork09.htm#fr_59) Hindu Sacred Books
+<span id="fn_59"></span>[193:\*](gork09.htm#fr_59.md) Hindu Sacred Books
 are called Shâstras.
 
-<span id="fn_60"></span>[199:\*](gork09.htm#fr_60) Dayânanda Saraswati
+<span id="fn_60"></span>[199:\*](gork09.htm#fr_60.md) Dayânanda Saraswati
 was a Sannyâsin of the Advaita Vedânta School. He was a great Vedic
 scholar, speaker and a Hindu reformer of the nineteenth century. He
 wrote Sanskrit Commentaries on the Vedas and was the founder of a
@@ -728,4 +728,4 @@ flourishing condition. He died in 1883 A.D.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Some Incidents in the Life of Srî Râmakrishna (as
-Told by Himself)](gork10)
+Told by Himself)](gork10.md)

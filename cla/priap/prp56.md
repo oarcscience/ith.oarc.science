@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp55)  [Next](prp57) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp55)  [Next](prp57.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ cleanses with infamous finger the infant.'\]
 
 ------------------------------------------------------------------------
 
-[Next: 57. A chough, a caries, an eld-worn grave](prp57)
+[Next: 57. A chough, a caries, an eld-worn grave](prp57.md)

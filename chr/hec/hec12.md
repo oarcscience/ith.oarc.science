@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec11)  [Next](hec13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec11)  [Next](hec13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -29,7 +29,7 @@ The Virgin bears the Infant,
   With Virgin-honour pure!
 
 The Word becomes Incarnate,  
-  ( <span id="fr_1"></span>[\*](#fn_1)) And yet remains on high:  
+  ( <span id="fr_1"></span>[\*](#fn_1).md) And yet remains on high:  
 And Cherubim sing anthems  
   To shepherds from the sky.
 
@@ -63,9 +63,9 @@ by M. Vulpius, 1609.\]
 
 ### Footnotes
 
-<span id="fn_1"></span>[64:\*](hec12.htm#fr_1) Compare S. Thomas: Verbum
+<span id="fn_1"></span>[64:\*](hec12.htm#fr_1.md) Compare S. Thomas: Verbum
 supernum prodiens, *Nec Patris linquens dexteram*.
 
 ------------------------------------------------------------------------
 
-[Next: Second Epoch](hec13)
+[Next: Second Epoch](hec13.md)

@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Celtic
-Fairies](../../celt/index.htm#fairies)  [Index](index) 
-[Previous](cof09)  [Next](cof11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index.md)  [Celtic
+Fairies](../../celt/index.htm#fairies)  [Index](index.md) 
+[Previous](cof09)  [Next](cof11.md) 
 
 ------------------------------------------------------------------------
 
@@ -426,4 +426,4 @@ public.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Theosophic View of Fairies](cof11)
+[Next: Chapter VIII. The Theosophic View of Fairies](cof11.md)

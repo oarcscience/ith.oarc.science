@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp61)  [Next](dmp63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp61)  [Next](dmp63.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ menstruation is on her; then she is cured.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXXI](dmp63)
+[Next: Verso Col. XXXI](dmp63.md)

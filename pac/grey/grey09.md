@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey08)  [Next](grey10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey08)  [Next](grey10.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,7 +177,7 @@ thick bushes of the
 
 <span id="page_84">p. 84</span>
 
-\[paragraph continues\] Harakeke; <span id="fr_10"></span>[1](#fn_10) he
+\[paragraph continues\] Harakeke; <span id="fr_10"></span>[1](#fn_10.md) he
 then saw that there were some priests upon the other side of the same
 bushes, serving at the sacred place, and, to assist themselves in their
 magical arts, they were making use of the bones of Wahieroa, knocking
@@ -428,8 +428,8 @@ to his own village.
 
 ### Footnotes
 
-<span id="fn_10"></span>[84:1](grey09.htm#fr_10) New Zealand flax.
+<span id="fn_10"></span>[84:1](grey09.htm#fr_10.md) New Zealand flax.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Toi-te-huatahi and Tama-te-kapua](grey10)
+[Next: The Legend of Toi-te-huatahi and Tama-te-kapua](grey10.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic090)  [Next](lfic092) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic090)  [Next](lfic092.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ the easier garb of the legendary.
 
 ------------------------------------------------------------------------
 
-[Next: How St Patrick received the Staff of Jesus](lfic092)
+[Next: How St Patrick received the Staff of Jesus](lfic092.md)

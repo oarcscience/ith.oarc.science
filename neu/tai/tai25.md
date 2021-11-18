@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai24)  [Next](tai26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai24)  [Next](tai26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ of Pagan gods of Slavdom; probably unauthoritatively.
 
 III\. Dubenski contains most suggestive matter in his notes. From the
 references he gathers, it seems that Boyán is the name of a stream <span
-id="fr_15"></span>[†](#fn_15), that a street in ancient Nóvgorod was
+id="fr_15"></span>[†](#fn_15.md), that a street in ancient Nóvgorod was
 named after him; that the word Bayan is Turkish and Tatar; and also that
 in 1821 a Hymn of Boyán was discovered. \[Сынъ Отечества LXX 1821\]:
 
@@ -160,9 +160,9 @@ Yan's.
 
 ### Footnotes
 
-<span id="fn_15"></span>[xlvii:†](tai25.htm#fr_15) Cf. the Boyana in
+<span id="fn_15"></span>[xlvii:†](tai25.htm#fr_15.md) Cf. the Boyana in
 Montenegro.
 
 ------------------------------------------------------------------------
 
-[Next: Troyán](tai26)
+[Next: Troyán](tai26.md)

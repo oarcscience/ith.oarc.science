@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar27)  [Next](gar29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar27)  [Next](gar29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ Are the MOSAIC PAVEMENT, the INDENTED TESSEL, and the BLAZING STAR.
 
 The Mosaic Pavement is a representation of the ground-floor of King
 Solomon's Temple; the Indented Tessel, <span
-id="fr_16"></span>[\*](#fn_16) of that beautiful tesselated
+id="fr_16"></span>[\*](#fn_16.md) of that beautiful tesselated
 
 <span id="page_82">p. 82</span>
 
@@ -52,10 +52,10 @@ of reason prompt him to live in brotherly love.
 
 ### Footnotes
 
-<span id="fn_16"></span>[81:\*](gar28.htm#fr_16) The Indented Tessel is
+<span id="fn_16"></span>[81:\*](gar28.htm#fr_16.md) The Indented Tessel is
 a border of stones, of various colors, plead around the pavement, cut or
 notched into inequalities resembling teeth.
 
 ------------------------------------------------------------------------
 
-[Next: The Lights of the Lodge. Moveable and Immovable Jewels.](gar29)
+[Next: The Lights of the Lodge. Moveable and Immovable Jewels.](gar29.md)

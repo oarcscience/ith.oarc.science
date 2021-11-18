@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl41)  [Next](hpl43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl41)  [Next](hpl43.md) 
 
 ------------------------------------------------------------------------
 
@@ -358,4 +358,4 @@ Wentworth Akeley.
 
 ------------------------------------------------------------------------
 
-[Next: The Other Gods (1933)](hpl43)
+[Next: The Other Gods (1933)](hpl43.md)

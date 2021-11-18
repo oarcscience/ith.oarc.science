@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl21)  [Next](orl23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl21)  [Next](orl23.md) 
 
 ------------------------------------------------------------------------
 
@@ -1116,4 +1116,4 @@ Who loves the tale, to hear my story’s end.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 23](orl23)
+[Next: Canto 23](orl23.md)

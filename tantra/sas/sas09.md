@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas08)  [Next](sas10)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas08)  [Next](sas10.md)  
 
 ------------------------------------------------------------------------
 
@@ -237,4 +237,4 @@ the "Shivaites" far back.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Ten: A Tibetan Tantra](sas10)
+Next: [Chapter Ten: A Tibetan Tantra](sas10.md)

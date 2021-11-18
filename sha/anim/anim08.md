@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim07)  [Next](anim09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim07)  [Next](anim09.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ them or if they could be outwitted.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. ''Free Spirits''--Their Constitution and
-Activities](anim09)
+Activities](anim09.md)

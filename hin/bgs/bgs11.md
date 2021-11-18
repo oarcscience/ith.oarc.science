@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg11)   
-[Previous](bgs10)  [Next](bgs12) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg11.md)   
+[Previous](bgs10)  [Next](bgs12.md) 
 
 ------------------------------------------------------------------------
 
@@ -275,4 +275,4 @@ nirvairaḥ sarvabhūteṣu yaḥ sa mām eti pāṇḍava 11.55
 
 ------------------------------------------------------------------------
 
-[Next: XII. atha dvādaśodhyāyaḥ. (bhaktiyogaḥ)](bgs12)
+[Next: XII. atha dvādaśodhyāyaḥ. (bhaktiyogaḥ)](bgs12.md)

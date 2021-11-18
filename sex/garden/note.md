@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](title)  [Next](intro) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](title)  [Next](intro.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ or who turns it into ridicule.'
 
 ------------------------------------------------------------------------
 
-[Next: Translators Note](intro)
+[Next: Translators Note](intro.md)

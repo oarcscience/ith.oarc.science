@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Euripides](../index)  [Index](index)  [Previous](eaha03) 
-[Next](eaha05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Euripides](../index)  [Index](index)  [Previous](eaha03.md) 
+[Next](eaha05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Euripides and His Age*, by Gilbert Murray, \[1913\], at Intangible
 Textual Heritage
 
@@ -72,7 +72,7 @@ justify. But we must remember several things. First a dance was in
 ancient times essentially religious, not a mere capering with the feet
 but an attempt to express with every limb and sinew of the body those
 emotions for which words, especially the words of simple and unlettered
-men, are inadequate (see [p. 227](eaha10.htm#page_227)). Again,
+men, are inadequate (see [p. 227](eaha10.htm#page_227).md). Again,
 vegetation is to us an abstract common noun; to the ancient it was a
 personal being, not "it" but "He." His death was as our own deaths, and
 his re-birth a thing to be anxiously sought with prayers and dances. For
@@ -116,7 +116,7 @@ other sacrificial death; (3) a Messenger, who brings the news; (4) a
 Lamentation, very often mixed with a Song of Rejoicing, since the death
 of the Old King is also the accession of the new; (5) the Discovery or
 Recognition of the hidden or dismembered god; and (6) his Epiphany or
-Resurrection in glory. <span id="fr_0"></span>[1](#fn_0)
+Resurrection in glory. <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_64">p. 64</span>
 
@@ -432,7 +432,7 @@ Euripides also treated several
 
 times legends where a god became the lover of a mortal maiden, and, as
 we shall see in the Ion, he loved to rouse sympathy for the maiden and
-contempt for the god ([p. 119](eaha06.htm#page_119)). In one case he
+contempt for the god ([p. 119](eaha06.htm#page_119).md). In one case he
 even treats, through a mist of strange religious mysticism, the
 impossible amour of Pasiphaë of Crete with the Cretan Bull-god. It is
 interesting, however, to observe that there is in Euripides no trace of
@@ -456,7 +456,7 @@ It was not smoothness that was coming.
 
 ### Footnotes
 
-<span id="fn_0"></span>[63:1](eaha04.htm#fr_0) The above is the present
+<span id="fn_0"></span>[63:1](eaha04.htm#fr_0.md) The above is the present
 writer's re-statement, published in Miss Harrison's *Themis*, pp. 341
 ff., of the orthodox view of the origin of tragedy. See also Cornford,
 *From Religion to Philosophy*, first few chapters. The chief
@@ -466,4 +466,4 @@ Tragedy*, Cambridge, 1910.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](eaha05)
+[Next: Chapter IV](eaha05.md)

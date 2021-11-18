@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce20)  [Next](jce22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce20)  [Next](jce22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -125,7 +125,7 @@ gallery. I noticed it by a diminution of the amount of light reflected
 from the sides; solid rock was appearing in the place of the lava
 coating. The mass was composed of inclined and sometimes vertical
 strata. We were passing through rocks of the transition or silurian
- <span id="fr_7"></span>[8](#fn_7) system.
+ <span id="fr_7"></span>[8](#fn_7.md) system.
 
 "It is evident," I cried, "the marine deposits formed in the second
 period, these shales, limestones, and sandstones. We are turning away
@@ -207,7 +207,7 @@ nearer."
 
 ### Footnotes
 
-<span id="fn_7"></span>[8](jce21.htm#fr_7) The name given by Sir
+<span id="fn_7"></span>[8](jce21.htm#fr_7.md) The name given by Sir
 Roderick Murchison to a vast series of fossiliferous strata, which lies
 between the non-fossiliferous slaty schists below and the old red
 sandstone above. The system is well developed in the region of
@@ -216,4 +216,4 @@ Caradoc. (Tr.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. The First Signs of Distress](jce22)
+[Next: Chapter XX. The First Signs of Distress](jce22.md)

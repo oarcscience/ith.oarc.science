@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bok10)  [Next](bok12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bok10)  [Next](bok12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Kells*, by Edward Sullivan, \[1920\], at Intangible Textual
 Heritage
 
@@ -23,7 +23,7 @@ PORTRAIT OF ST. MARK OR ST. LUKE. FOL. 32 V.
 
 <span id="img_pl07"></span> <span align="CENTER"> [![Plate
 VII](tn/pl07.jpg)  
-Click to enlarge](img/pl07.jpg)  
+Click to enlarge](img/pl07.jpg.md)  
 Plate VII  
 </span>
 
@@ -31,6 +31,6 @@ Plate VII
 
 ------------------------------------------------------------------------
 
-[Next: Plate VIII. The Eight-Circled Cross. Fol. 33 R](bok12)
+[Next: Plate VIII. The Eight-Circled Cross. Fol. 33 R](bok12.md)
 
 </div>

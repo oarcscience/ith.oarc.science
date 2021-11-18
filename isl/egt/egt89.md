@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt88)  [Next](egt90) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt88)  [Next](egt90.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ and science,--they bring thee no esteem!
 
 ------------------------------------------------------------------------
 
-[Next: ON THE ALLEGATIONS BROUGHT FORWARD BY THE WORD OF GOD.](egt90)
+[Next: ON THE ALLEGATIONS BROUGHT FORWARD BY THE WORD OF GOD.](egt90.md)

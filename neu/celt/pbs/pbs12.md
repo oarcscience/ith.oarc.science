@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
-[Index](index)  [Previous](pbs11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
+[Index](index)  [Previous](pbs11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![H](img/08201.jpg) |
+| ![H](img/08201.jpg.md) |
 
 AVING thus disposed of the seer himself, we next proceed to give in
 detail the fulfilment of the prophecies regarding the family of his
@@ -213,7 +213,7 @@ of its truth, as also many others who had watched the latter days of
 Seaforth in the light of those wonderful predictions.
 
 The late Duncan Davidson of Tulloch, Lord-Lieutenant of the County of
-Ross, on reading our Second [edition](errata.htm#4), wrote to the
+Ross, on reading our Second [edition](errata.htm#4.md), wrote to the
 author, under date of May 21, 1878, as follows: "Many of these
 prophecies I heard of *upwards of 70 years ago, and when many of them
 were not fulfilled*, such as the late Lord Seaforth surviving his sons,
@@ -222,7 +222,7 @@ Caroline Mackenzie was killed." Tulloch was, he said, during the latter
 years of Lord Seaforth, a regular visitor at Brahan Castle, and often
 heard the predictions referred to among members of the family. The
 letter is in our possession, and it was published, during Tulloch's
-life, and by his special [permission](errata.htm#5), in Mackenzie's
+life, and by his special [permission](errata.htm#5.md), in Mackenzie's
 *History of the Mackenzies*, p. 267.
 
 An attempt was recently made to sell the remaining possessions of the
@@ -286,7 +286,7 @@ only by a small fine.
 Lord Seaforth was the happy father of three (four) sons and six
 daughters, all of high promise; and it seemed as if he were destined to
 raise the illustrious house of which he was the head, to a height of
-honour and power greater [than](errata.htm#6) it had ever yet attained.
+honour and power greater [than](errata.htm#6.md) it had ever yet attained.
 But the closing years of this nobleman were darkened by calamities of
 the severest kind. The mismanagement of his estates in the West Indies
 involved him in inextricable embarrassments, and compelled him to

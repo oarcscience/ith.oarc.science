@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft42)  [Next](eft44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft42)  [Next](eft44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -57,14 +57,14 @@ this they do for her, and she, by way of thanks, sends seal and other
 creatures forth to men.
 
  That is the story of the ruler of the sea. And men call her
-Nerrivik<span id="page_114_fr_*"></span>[\*](#page_114_note_*) because
+Nerrivik<span id="page_114_fr_*"></span>[\*](#page_114_note_*.md) because
 she gives them food.
 
 ### Footnotes
 
 <span id="footnotes_page_114">p. 114</span>
 
-<span id="page_114_note_*"></span>[\*](#page_114_fr_*) Lit., "Meat
+<span id="page_114_note_*"></span>[\*](#page_114_fr_*.md) Lit., "Meat
 Dish."
 
  
@@ -99,4 +99,4 @@ Dish."
 
 ------------------------------------------------------------------------
 
-[Next: THE WIFE WHO LIED](eft44)
+[Next: THE WIFE WHO LIED](eft44.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](alt24)  [Next](alt26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](alt24)  [Next](alt26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Australian Legendary Tales*, by K. Langloh Parker, \[1897\], at
 Intangible Textual Heritage
 
@@ -186,4 +186,4 @@ stakes on the bodies of the two women, and which nothing could efface.
 
 ------------------------------------------------------------------------
 
-[Next: Deereeree the Wagtail, and the Rainbow](alt26)
+[Next: Deereeree the Wagtail, and the Rainbow](alt26.md)

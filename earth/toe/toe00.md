@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Next](toe01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Next](toe01.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ published prior to January 1st, 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Plates](toe01)
+[Next: Plates](toe01.md)

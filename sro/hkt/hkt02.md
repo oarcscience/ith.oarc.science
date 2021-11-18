@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt01)  [Next](hkt03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt01)  [Next](hkt03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ the Temple--A description of the Temple--Origin of the name
 Templars--Hugh de Payens chosen Master of the Temple--Is sent to Europe
 by King Baldwin--Is introduced to the Pope--The assembling of the
 Council of Troyes--The formation of a rule for the government of the
-Templars *Page* [1](hkt03.htm#page_1)
+Templars *Page* [1](hkt03.htm#page_1.md)
 
 CHAPTER II.
 
@@ -44,7 +44,7 @@ to England--His cordial reception--The foundation of the Order in this
 country--Lands and money granted to the Templars--Their popularity in
 Europe--The rapid increase of their fraternity--St. Bernard takes up the
 pen in their behalf--He displays their valour and piety
-[15](hkt04.htm#page_15)
+[15](hkt04.htm#page_15.md)
 
 <span id="page_xiv">p. xiv</span>
 
@@ -59,7 +59,7 @@ Master--He is taken prisoner, and sent in chains to Aleppo--The Pope
 writes letters in praise of the Templars--Their religious and military
 enthusiasm--Their war banner called *Beauseant*--The rise of the rival
 religio-military order of the Hospital of St. John
-[36](hkt05.htm#page_36)
+[36](hkt05.htm#page_36.md)
 
 CHAPTER IV.
 
@@ -72,7 +72,7 @@ Temple--Punishment of cowardice--The Master of the Temple is taken
 prisoner, and dies in a dungeon--Saladin's great successes--The
 Christians purchase a truce--The Master of the Temple and the Patriarch
 Heraclius proceed to England for succour--The consecration of the TEMPLE
-CHURCH AT LONDON [60](hkt06.htm#page_60)
+CHURCH AT LONDON [60](hkt06.htm#page_60.md)
 
 CHAPTER V.
 
@@ -80,7 +80,7 @@ The Temple at London--The vast possessions of the Templars in
 England--The territorial divisions of the order--The different
 preceptories in this country--The privileges conferred on the Templars
 by the kings of England--The Masters of the Temple at London--Their
-power and importance [81](hkt07.htm#page_81)
+power and importance [81](hkt07.htm#page_81.md)
 
 CHAPTER VI.
 
@@ -99,7 +99,7 @@ beheaded--The fall of Jerusalem--The Moslems take possession of the
 Temple--They purify it with rose-water, say prayers, and hear a
 sermon--The Templars retire to Antioch--Their letters to the king of
 England and the Master of the Temple at London--Their exploits at the
-siege of Acre [114](hkt08.htm#page_114)
+siege of Acre [114](hkt08.htm#page_114.md)
 
 CHAPTER VII.
 
@@ -113,7 +113,7 @@ Pilgrim's Castle in Palestine--The state of the order in England--King
 John resides in the Temple at London--The barons come to him at that
 place, and demand MAGNA CHARTA--The exploits of the Templars in
 Egypt--The letters of the Grand Master to the Master of the Temple at
-London--The Templars reconquer Jerusalem [141](hkt09.htm#page_141)
+London--The Templars reconquer Jerusalem [141](hkt09.htm#page_141.md)
 
 CHAPTER VIII.
 
@@ -127,7 +127,7 @@ sultan of Egypt, invades Palestine--He defeats the Templars, takes their
 strong fortresses, and decapitates six hundred of their brethren--The
 Grand Master comes to England for succour--The renewal of the war--The
 fall of Acre, and the final extinction of the Templars in Palestine
-[165](hkt10.htm#page_165)
+[165](hkt10.htm#page_165.md)
 
 <span id="page_xvi">p. xvi</span>
 
@@ -145,7 +145,7 @@ articles of accusation before foreign inquisitors appointed by the
 Pope--A council of the church assembles at London to pass sentence upon
 them--The curious evidence adduced as to the mode of admission into the
 order, and of the customs and observances of the fraternity.
-[193](hkt11.htm#page_193)
+[193](hkt11.htm#page_193.md)
 
 CHAPTER X.
 
@@ -163,7 +163,7 @@ recantations, and are reconciled to the church before the south door of
 Saint Paul's cathedral--The order of the Temple is abolished by the
 Pope--The last of the Masters of the Temple in England dies in the
 Tower--The disposal of the property of the order--Observations on the
-downfall of the Templars. [239](hkt12.htm#page_239)
+downfall of the Templars. [239](hkt12.htm#page_239.md)
 
 CHAPTER XI.
 
@@ -179,7 +179,7 @@ discoveries made during the recent restoration--The sacrarium--The
 marble piscina--The sacramental niches--The penitential cell--The
 ancient Chapel of St. Anne--Historical matters connected with the Temple
 Church--The holy relics anciently preserved therein--The interesting
-monumental remains [289](hkt13.htm#page_289)
+monumental remains [289](hkt13.htm#page_289.md)
 
 CHAPTER XII.
 
@@ -192,7 +192,7 @@ Protector of England--Of the Lord de Ross--Of William and Gilbert
 Marshall, earls of Pembroke--Of William Plantagenet, fifth son of Henry
 the Third--The anxious desire manifested by king Henry the Third, queen
 Eleanor, and various persons of rank, to be buried in the Temple Church
-[309](hkt14.htm#page_309)
+[309](hkt14.htm#page_309.md)
 
 CHAPTER XIII.
 
@@ -205,7 +205,7 @@ connexion with the antient society of the Knights Templars--An order of
 knights and serving brethren established in the law--The degree of
 *frere serjen*, or *frater serviens*, borrowed from the antient
 Templars--The modern Templars divide themselves into the two societies
-of the Inner and Middle Temple [342](hkt15.htm#page_342)
+of the Inner and Middle Temple [342](hkt15.htm#page_342.md)
 
 CHAPTER XIV.
 
@@ -224,7 +224,7 @@ Majesty--Their antient orders and customs, and antient
 hospitality--Their grand entertainments--Reader's feasts--Grand
 Christmasses and Bevels--The fox-hunt in the hall--The dispute with the
 Lord Mayor--The quarrel with the *custos* of the Temple Church
-[373](hkt16.htm#page_373)
+[373](hkt16.htm#page_373.md)
 
  
 
@@ -259,6 +259,6 @@ Lord Mayor--The quarrel with the *custos* of the Temple Church
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](hkt03)
+[Next: Chapter I](hkt03.md)
 
 </div>

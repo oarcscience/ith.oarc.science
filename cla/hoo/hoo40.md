@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo39)  [Next](hoo41) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo39)  [Next](hoo41.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,12 +17,12 @@ Bacchian and Titan, of a noble mien:
 In darts rejoicing and on all to shine,  
 Torch-bearing Goddess, Dictynna divine;  
 O'er births presiding, and thyself a maid, 5  <span
-id="fr_97"></span>[5](#fn_97)  
+id="fr_97"></span>[5](#fn_97.md)  
 To labour-pangs imparting ready aid:  
 Dissolver of the zone and wrinkl'd care,  
 Fierce huntress, glorying in the Sylvan war:  
 Swift in the course, in dreadful arrows skill'd,  
-Wandering by night, [rejoicing](errata.htm#7) in the field: 10  
+Wandering by night, [rejoicing](errata.htm#7.md) in the field: 10  
 Of manly form, erect, of bounteous mind,  
 Illustrious dæmon, nurse of human kind:  
 Immortal, earthly, bane of monsters fell,  
@@ -41,11 +41,11 @@ And to the mountains drive Disease and Care.
 
 ### Footnotes
 
-<span id="fn_97"></span>[166:5](hoo40.htm#fr_97) Ver. 5.\] *O'er births
+<span id="fn_97"></span>[166:5](hoo40.htm#fr_97.md) Ver. 5.\] *O'er births
 presiding*. In the original, λοχεία: and Proclus, in Plat. Theol. p.
 403. observes that this epithet is given to Diana by theologians,
 because she is the inspector of natural progression and generation.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVI: To The Titans](hoo41)
+[Next: XXXVI: To The Titans](hoo41.md)

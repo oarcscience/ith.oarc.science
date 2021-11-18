@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas119n)  [Next](jas121n)   
- \[[120. The Boy and his Master.](jas120)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas119n)  [Next](jas121n.md)   
+ \[[120. The Boy and his Master.](jas120.md)\]
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ compare Tremearne, 223-224; Mason and Espinosa, New Mexico, JAFL 24:
 
 ------------------------------------------------------------------------
 
-[Next: Note 121. The Language of Beasts.](jas121n)
+[Next: Note 121. The Language of Beasts.](jas121n.md)

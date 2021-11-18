@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw11)  [Next](sahw13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw11)  [Next](sahw13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -81,7 +81,7 @@ commenced its operations from the moment when, in an unthinkable
 Eternity long ago, the primordial Mind began to stir itself in the
 primordial Matter in which it was immanent. It has produced, on the one
 hand, the phenomena of Nature, or Creation, <span
-id="fr_84"></span>[\*](#fn_84) on the other, the gradual Revelation, to
+id="fr_84"></span>[\*](#fn_84.md) on the other, the gradual Revelation, to
 man, of God, as the Shinshuist knows Him.
 
 The *Hōshin* is of two sorts. It is, in the first place, *Hōshō Hōshin*,
@@ -109,7 +109,7 @@ time (to adapt my language to the necessities of the case) he became
 *Hōshō Hōshin* and *Hōben Hōshin*, and it was as the latter, as God
 *personified*, that He built up His Paradise and residing there,
 attracts all those that believe in Him. According to Shinshu
-Theology <span id="fr_85"></span>[\*](#fn_85), Hōzō Biku must be looked
+Theology <span id="fr_85"></span>[\*](#fn_85.md), Hōzō Biku must be looked
 upon as the Incarnation of *Hōshin*, of Dharmakaya, of the highest Form
 that the personified Mind of the Universe can take, as an Incarnation in
 other words, of God.
@@ -130,7 +130,7 @@ many Incarnations of Buddha in the Nirmanakaya, and they will instance
 Sakyamuni as the most perfect instance of this. The Shinshu believer
 will add another instance of an incarnation, which he holds to have been
 more perfect than that of Sakyamuni, the Incarnation of Buddha as 'very
-man' in the person of Hōzō Biku <span id="fr_86"></span>[\*](#fn_86),
+man' in the person of Hōzō Biku <span id="fr_86"></span>[\*](#fn_86.md),
 such as He was in the days of His humiliation, before He had attained to
 that glory which became His when He had fulfilled His Vow for the
 Salvation of Mankind and became *Namu Amida Butsu*.
@@ -141,7 +141,7 @@ Kaya*—*Hōshin* (\#), the so-called "Body of Compensation." It is the
 Body in which Amida-Butsu, the glorified Saviour, who has worked out
 man's salvation, is now set forth as the personal object of worship for
 the Shinshu believer. It is, as it were, a counterpart
-[of](errata.htm#8) that glorified Humanity in which we believe that Our
+[of](errata.htm#8.md) that glorified Humanity in which we believe that Our
 Risen Saviour Jesus Christ, having passed into the heavens, is sitting
 in His Mediatiorial Kingdom
 
@@ -150,7 +150,7 @@ in His Mediatiorial Kingdom
 <span class="contnote">\[paragraph continues\]</span> "at the right hand
 of God," (this term being evidently a *hōben*, a figurative expression
 intended to be an "accommodation" of a great truth to our finite human
-language). <span id="fr_87"></span>[\*](#fn_87)
+language). <span id="fr_87"></span>[\*](#fn_87.md)
 
 Thus we may see that Amida is conceived of, in one aspect, as a Being
 whose Substance is absolute and unconditioned (*zettaisha*), in another,
@@ -172,21 +172,21 @@ which all this has on some of the most vital beliefs of Christianity.
 
 ### Footnotes
 
-<span id="fn_84"></span>[85:\*](sahw12.htm#fr_84) Of course, Creation is
+<span id="fn_84"></span>[85:\*](sahw12.htm#fr_84.md) Of course, Creation is
 a word the Buddhist cannot use in its strictest sense. To him, as to the
 ancient Gnostic, there is no Creation, but rather a Development and
 gradual manifestation of God and of Material Phenomena. In writing this
 section I have made much use of the passages from older writers given in
 *Shinshu Seikun* pp. 390–400.
 
-<span id="fn_85"></span>[86:\*](sahw12.htm#fr_85) It must be remembered
+<span id="fn_85"></span>[86:\*](sahw12.htm#fr_85.md) It must be remembered
 that other Buddhist Sects do not accept this. According to the
 *Shingon*, Amida does not represent the *Dharmakaya* at all, but only
 the *Sambhogakaya*—*Hoshin*—the next lower forms of Manifestation. For
 them *Vairocana*, the Abraxas of the Gnostics, the Supreme God of the
 Manichaeans, is the Highest Manifestation of God.
 
-<span id="fn_86"></span>[87:\*](sahw12.htm#fr_86) It was the *Hōben
+<span id="fn_86"></span>[87:\*](sahw12.htm#fr_86.md) It was the *Hōben
 Hōsshin* which became man in Hōzō Biku. Hōzō therefore stands on a
 higher plane than Sakyamuni, who was merely *Ojin* or *Keshin* (Nirmana
 Kaya). To say that a man was a *Keshin*, of Amida, Kwannon, or Seishi,
@@ -195,7 +195,7 @@ him"—It is in this lower sense that the term Keshin is used of men like
 Genkū, Shinran or Shōtoku Taishi. And according to the Shinshu there
 has, never been more than one Incarnation like that of Hōzō.
 
-<span id="fn_87"></span>[88:\*](sahw12.htm#fr_87) The parallelism is so
+<span id="fn_87"></span>[88:\*](sahw12.htm#fr_87.md) The parallelism is so
 striking that I need not comment on it. I will content myself with
 quoting the exact words of *Shinshu Hyakuwa* § 49. *Hōshin Butsu* (i e.
 the Sambhogakaya). *Kore we Shinshu* (*Jōdo mon*) *ni hanzon to suru
@@ -207,4 +207,4 @@ Christian theology. But the above quotation is very clear.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Salvation of Sentient Beings.](sahw13)
+[Next: Chapter XI. The Salvation of Sentient Beings.](sahw13.md)

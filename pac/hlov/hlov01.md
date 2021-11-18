@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov00)  [Next](hlov02) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov00)  [Next](hlov02.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ KILAUEA CRATER, OCTOBER, 1916.
 
 ------------------------------------------------------------------------
 
-[Next: Pronunciation](hlov02)
+[Next: Pronunciation](hlov02.md)

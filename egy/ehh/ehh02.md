@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh01)  [Next](ehh03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh01)  [Next](ehh03.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,22 +11,22 @@ Index](../ehh)  [Index](index)  [Previous](ehh01)  [Next](ehh03) 
 |        |                                                                                            |                              |
 |--------|--------------------------------------------------------------------------------------------|------------------------------|
 | CHAP.  |                                                                                            | PAGE                         |
-| I.     | ORIGIN OF ILLUSTRATED GUIDES TO THE OTHER WORLD                                            | [p. 1](ehh03.htm#page_1)     |
-| II\.   | THE EARLIEST EGYPTIAN CONCEPTION OF THE OTHER WORLD                                        | [p. 27](ehh04.htm#page_27)   |
-| III\.  | THE REUNION OF THE BEATIFIED AND THEIR RECOGNITION OF EACH OTHER IN THE OTHER WORLD        | [p. 64](ehh05.htm#page_64)   |
+| I.     | ORIGIN OF ILLUSTRATED GUIDES TO THE OTHER WORLD                                            | [p. 1](ehh03.htm#page_1.md)     |
+| II\.   | THE EARLIEST EGYPTIAN CONCEPTION OF THE OTHER WORLD                                        | [p. 27](ehh04.htm#page_27.md)   |
+| III\.  | THE REUNION OF THE BEATIFIED AND THEIR RECOGNITION OF EACH OTHER IN THE OTHER WORLD        | [p. 64](ehh05.htm#page_64.md)   |
 |        | APPENDIX:--THE CHAPTER OF THE GATHERING TOGETHER OF A MAN'S ANCESTORS TO HIM IN NETER-KHER | p\. 75                       |
-| IV\.   | THE BOOK AM-TUAT AND THE BOOK OF GATES                                                     | [p. 80](ehh06.htm#page_80)   |
-| V.     | THE BOOK AM-TUAT AND THE BOOK OF GATES COMPARED--THE WESTERN VESTIBULE OF THE TUAT         | [p. 103](ehh07.htm#page_103) |
-| VI\.   | SECOND DIVISION OF THE TUAT                                                                | [p. 111](ehh08.htm#page_111) |
-| VII\.  | THIRD DIVISION OF THE TUAT                                                                 | [p. 121](ehh10.htm#page_121) |
-| VIII\. | FOURTH AND FIFTH DIVISIONS OF THE TUAT. FROM THE BOOK AM-TUAT                              | [p. 131](ehh12.htm#page_131) |
-| IX\.   | FOURTH AND FIFTH DIVISIONS OF THE TUAT. FROM THE BOOK OF GATES                             | [p. 140](ehh14.htm#page_140) |
-| X.     | SIXTH, SEVENTH, EIGHTH, AND NINTH DIVISIONS OF THE TUAT. FROM THE BOOK AM-TUAT             | [p. 148](ehh16.htm#page_148) |
+| IV\.   | THE BOOK AM-TUAT AND THE BOOK OF GATES                                                     | [p. 80](ehh06.htm#page_80.md)   |
+| V.     | THE BOOK AM-TUAT AND THE BOOK OF GATES COMPARED--THE WESTERN VESTIBULE OF THE TUAT         | [p. 103](ehh07.htm#page_103.md) |
+| VI\.   | SECOND DIVISION OF THE TUAT                                                                | [p. 111](ehh08.htm#page_111.md) |
+| VII\.  | THIRD DIVISION OF THE TUAT                                                                 | [p. 121](ehh10.htm#page_121.md) |
+| VIII\. | FOURTH AND FIFTH DIVISIONS OF THE TUAT. FROM THE BOOK AM-TUAT                              | [p. 131](ehh12.htm#page_131.md) |
+| IX\.   | FOURTH AND FIFTH DIVISIONS OF THE TUAT. FROM THE BOOK OF GATES                             | [p. 140](ehh14.htm#page_140.md) |
+| X.     | SIXTH, SEVENTH, EIGHTH, AND NINTH DIVISIONS OF THE TUAT. FROM THE BOOK AM-TUAT             | [p. 148](ehh16.htm#page_148.md) |
 |        | <span id="page_xviii">p. xviii</span>                                                      |                              |
-| XI\.   | SIXTH, SEVENTH, AND EIGHTH DIVISIONS OF THE TUAT. FROM THE BOOK OF GATES                   | [p. 158](ehh20.htm#page_158) |
-| XII\.  | TENTH AND ELEVENTH DIVISIONS OF THE TUAT. FROM THE BOOK AM-TUAT                            | [p. 172](ehh23.htm#page_172) |
-| XIII\. | NINTH, TENTH, AND ELEVENTH DIVISIONS OF THE TUAT. FROM THE BOOK OF GATES                   | [p. 182](ehh25.htm#page_182) |
-| XIV\.  | THE EASTERN VESTIBULE OF THE TUAT                                                          | [p. 192](ehh28.htm#page_192) |
+| XI\.   | SIXTH, SEVENTH, AND EIGHTH DIVISIONS OF THE TUAT. FROM THE BOOK OF GATES                   | [p. 158](ehh20.htm#page_158.md) |
+| XII\.  | TENTH AND ELEVENTH DIVISIONS OF THE TUAT. FROM THE BOOK AM-TUAT                            | [p. 172](ehh23.htm#page_172.md) |
+| XIII\. | NINTH, TENTH, AND ELEVENTH DIVISIONS OF THE TUAT. FROM THE BOOK OF GATES                   | [p. 182](ehh25.htm#page_182.md) |
+| XIV\.  | THE EASTERN VESTIBULE OF THE TUAT                                                          | [p. 192](ehh28.htm#page_192.md) |
 
  
 
@@ -123,4 +123,4 @@ Index](../ehh)  [Index](index)  [Previous](ehh01)  [Next](ehh03) 
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Origin of Illustrated Guides to the Other
-World](ehh03)
+World](ehh03.md)

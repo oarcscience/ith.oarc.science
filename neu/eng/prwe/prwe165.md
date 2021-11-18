@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe164)  [Next](prwe166) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe164)  [Next](prwe166.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ Pritchard.
 
 ------------------------------------------------------------------------
 
-[Next: Dameliock Castle](prwe166)
+[Next: Dameliock Castle](prwe166.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa27)  [Next](psa29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa27)  [Next](psa29.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ as Rae Gurug, the sage, said.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII](psa29)
+[Next: Chapter XXVIII](psa29.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki219)  [Next](liki221) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki219)  [Next](liki221.md) 
 
 ------------------------------------------------------------------------
 
@@ -277,6 +277,6 @@ distinguished services to the people.
 
 ------------------------------------------------------------------------
 
-[Next: XXI. Kî Î or The Meaning of Sacrifices](liki221)
+[Next: XXI. Kî Î or The Meaning of Sacrifices](liki221.md)
 
   

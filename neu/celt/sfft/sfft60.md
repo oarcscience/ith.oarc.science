@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft59)  [Next](sfft61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft59)  [Next](sfft61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE YOUNG LAIRD OF LORNTIE. <span id="fr_93"></span>[1](#fn_93)
+### THE YOUNG LAIRD OF LORNTIE. <span id="fr_93"></span>[1](#fn_93.md)
 
 THE young Laird of Lorntie, in Forfarshire, was one evening returning
 from a hunting excursion, attended by a single servant and two
@@ -47,7 +47,7 @@ voice of fiendish disappointment and ferocity,--
 Lorntie, Lorntie,  
 Were it na your man,  
 I had got your heart's bluid  
-Skirl <span id="fr_94"></span>[1](#fn_94) in my pan."
+Skirl <span id="fr_94"></span>[1](#fn_94.md) in my pan."
 
  
 
@@ -55,11 +55,11 @@ Skirl <span id="fr_94"></span>[1](#fn_94) in my pan."
 
 ### Footnotes
 
-<span id="fn_93"></span>[196:1](sfft60.htm#fr_93) Chambers, *Popular
+<span id="fn_93"></span>[196:1](sfft60.htm#fr_93.md) Chambers, *Popular
 Rhymes of Scotland*.
 
-<span id="fn_94"></span>[197:1](sfft60.htm#fr_94) Sing.
+<span id="fn_94"></span>[197:1](sfft60.htm#fr_94.md) Sing.
 
 ------------------------------------------------------------------------
 
-[Next: Nuckelavee](sfft61)
+[Next: Nuckelavee](sfft61.md)

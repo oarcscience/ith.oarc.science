@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](bar)  [Next](ma1) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](bar)  [Next](ma1.md) 
 
 ------------------------------------------------------------------------
 
@@ -234,4 +234,4 @@ for ever and ever.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Macabees](ma1)
+[Next: 1 Macabees](ma1.md)

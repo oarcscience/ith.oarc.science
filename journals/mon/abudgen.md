@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ translation, but contented himself with an epitome.
 
    A brief account in English, based upon the Pâli recension, has been
 given by Rhys Davids, in his *Dialogues of the Buddha* (London, 1899,
-[p. 105](../../bud/dob/dob-03in.htm#page_105)). Samuel Beal translates
+[p. 105](../../bud/dob/dob-03in.htm#page_105).md). Samuel Beal translates
 two versions from the Chinese, the second one being from the Long
 Collection. (*Four Lectures*: London, 1882, pp. 151-155.)
 
@@ -458,4 +458,4 @@ ALBERT J. EDMUNDS.      
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Buddhist Articles](../../bud/etc/index)
+[Journals](../index) [Buddhist Articles](../../bud/etc/index.md)

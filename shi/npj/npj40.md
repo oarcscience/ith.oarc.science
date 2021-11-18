@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj39) 
-[Next](npj41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj39.md) 
+[Next](npj41.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Laid it to rest in earth.
 GHOST OF LOVER.
 
 And from that earth sprang up  
-A lady-flower <span id="fr_202"></span>[1](#fn_200) and blossomed  
+A lady-flower <span id="fr_202"></span>[1](#fn_200.md) and blossomed  
 Alone upon her grave.  
 Then he:  
 "This flower is her soul."  
@@ -70,10 +70,10 @@ life) where all must linger who die in the coils of *shūshin*,
 
 ### Footnotes
 
-<span id="fn_200"></span>[224:1](npj40.htm#fr_202) *Ominabeshi* (or
+<span id="fn_200"></span>[224:1](npj40.htm#fr_202.md) *Ominabeshi* (or
 *ominameshi*, *ominayeshi*), "Ladies' Meal," but written with Chinese
 characters meaning "ladies' flower," a kind of patrinia.
 
 ------------------------------------------------------------------------
 
-[Next: Matsukaze](npj41)
+[Next: Matsukaze](npj41.md)

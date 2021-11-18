@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn56)  [Next](rmn58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn56)  [Next](rmn58.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,7 +153,7 @@ Jorio, keeper of the gallery of Grecian vases in the Naples Museum.
 <span id="page_116">p. 116</span>
 
 The Plate opposite the first page of this chapter is a *Nasiterne* vase
-from Nola. <span id="fr_58"></span>[1](#fn_58) It shows a youth, crowned
+from Nola. <span id="fr_58"></span>[1](#fn_58.md) It shows a youth, crowned
 with leaves, holding two sticks in his hands, and to all appearance
 beating a dog and bitch with them, who are in the act of copulation. It
 would be difficult to say whether the artist had any mysterious hidden
@@ -163,11 +163,11 @@ meaning.
 
 ### Footnotes
 
-<span id="fn_58"></span>[116:1](rmn57.htm#fr_58) Nola. in Campania
+<span id="fn_58"></span>[116:1](rmn57.htm#fr_58.md) Nola. in Campania
 Felix, about fifteen miles from Naples. It is said that at Nola that
 bells were first used by the Christians, and hence were called
 *campanæ*.
 
 ------------------------------------------------------------------------
 
-[Next: Plate LVII: Hercules and the Stymphalic Birds](rmn58)
+[Next: Plate LVII: Hercules and the Stymphalic Birds](rmn58.md)

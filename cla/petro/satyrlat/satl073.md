@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXXIII) 
-[Previous](satl072)  [Next](satl074) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXXIII.md) 
+[Previous](satl072)  [Next](satl074.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ lucem cenemus".
 
 ------------------------------------------------------------------------
 
-[Next: LXXIV](satl074)
+[Next: LXXIV](satl074.md)

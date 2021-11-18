@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo51)  [Next](lboo53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo51)  [Next](lboo53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ festa dies Veneremque vocat cantusque merumque;<br />
 ------------------------------------------------------------------------
 
 [Next: Elegy XI: Weary At Length Of His Mistress' Infidelities, He
-Swears That He Will Love Her No Longer.](lboo53)
+Swears That He Will Love Her No Longer.](lboo53.md)

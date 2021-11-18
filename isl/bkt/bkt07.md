@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt06) [Next](bkt08)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt06) [Next](bkt08.md)
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ of the pilgrims he was arrested, and brought before Nimrod; for
 suspicion soon rested upon him, both on account of his stay at home, and
 the contemptuous reflections on the worship of idols in which he was
 known to indulge. Nimrod condemned him to be burned alive as a
-blasphemer.<span id="page_70_fr_*"></span>[\*](#page_70_note_*) The
+blasphemer.<span id="page_70_fr_*"></span>[\*](#page_70_note_*.md) The
 people of Babel <span id="page_71">p. 71</span> then collected wood for
 a pile during a whole month, or, according to some of the learned,
 during forty days, and at that time knew of no more God-pleasing work
@@ -122,7 +122,7 @@ keepeth the winds to scatter them by a tempest to all parts of the
 world; but Allah, blessed be his name! said, "I permit every one of you
 to whom Abraham shall cry for protection to assist him; yet if he turn
 only to me, then let me by my own immediate aid rescue him from
-death."<span id="page_73_fr_*"></span>[\*](#page_73_note_*) Then cried
+death."<span id="page_73_fr_*"></span>[\*](#page_73_note_*.md) Then cried
 Abraham <span id="page_74">p. 74</span> from the midst of the pile,
 "There is no God besides thee; thou art supreme, and unto thee alone
 belong praise and glory!" The flame had already consumed his robe, when
@@ -205,7 +205,7 @@ eagles and the palanquin descended.
 are not agreed as to whence it came: many contend it was the blood of a
 fish which the clouds had carried with them from the sea, and adduce
 this circumstance as the reason why fish need not be slaughtered.<span
-id="page_77_fr_*"></span>[\*](#page_77_note_*) Others suppose that
+id="page_77_fr_*"></span>[\*](#page_77_note_*.md) Others suppose that
 Nimrod's arrow had struck a bird which was flying still higher than the
 eagles. When Nimrod, in the swell of triumph, once more reached the
 pinnacle of his tower, Allah caused it to fall in with such frightful
@@ -272,7 +272,7 @@ what had happened.
 the maiden whom thou carriest with thee?" Abraham, from fear of being
 put to death if he avowed the truth, replied, "She is my sister!" At the
 same time he told no falsehood,<span
-id="page_80_fr_*"></span>[\*](#page_80_note_*) for in his mind he meant,
+id="page_80_fr_*"></span>[\*](#page_80_note_*.md) for in his mind he meant,
 <span id="page_81">p. 81</span> "She is my sister in the faith." When
 the king heard this, he took her with him to his palace. Abraham stood
 full of despair before it, not knowing what to do, when Allah caused the
@@ -287,7 +287,7 @@ am the wife of Abraham."
 untruth. The latter then prayed for him, and Allah healed the king, who
 now gave Abraham many rich presents, and, among others, an Egyptian
 slave by the name of Hagar.<span
-id="page_81_fr_*"></span>[\*](#page_81_note_*) She bore him a son, whom
+id="page_81_fr_*"></span>[\*](#page_81_note_*.md) She bore him a son, whom
 he called Ismael. But as Sarah was barren, and the more jealous since
 the light of Mohammed already shone on Ismael's forehead, she demanded
 of Abraham to put away Hagar and her son. He was undecided, until
@@ -308,7 +308,7 @@ removal. Abraham then went with her and Ismael on his way, and the angel
 Gabriel guided them into the Arabian desert, to the place where
 afterward the holy temple of Mecca was built. This place had been
 dedicated to the worship of Allah even before Adam's birth.<span
-id="page_82_fr_*"></span>[\*](#page_82_note_*) For when Allah made known
+id="page_82_fr_*"></span>[\*](#page_82_note_*.md) For when Allah made known
 to the angels his resolve of creating man, and they said, "Wilt thou
 fill the earth with sinful creatures?" Allah was so wroth at their
 dissuasion, that the angels, to reconcile Him, walked, <span
@@ -321,7 +321,7 @@ diamond of Paradise, which is now called the black stone; for it
 afterward grew black by the unclean touch of the heathen, but will one
 day rise with eyes and a tongue, to bear testimony to those who have
 touched it in their pilgrimage.<span
-id="page_83_fr_*"></span>[\*](#page_83_note_*) This jewel was originally
+id="page_83_fr_*"></span>[\*](#page_83_note_*.md) This jewel was originally
 an angel, appointed to watch over Adam, that he might not eat of the
 forbidden tree; but, on account of his neglect, was changed into a
 stone. At the time of the flood Allah lifted up this temple into heaven;
@@ -335,11 +335,11 @@ But these provisions were soon exhausted, and the whole region was
 waste, arid, and uninhabited. When Hagar and <span id="page_84">p.
 84</span> Ismael were suffering from hunger and thirst, the former ran
 seven times from Mount Susa to Marwa,<span
-id="page_84_fr_*"></span>[\*](#page_84_note_*) calling upon Allah for
+id="page_84_fr_*"></span>[\*](#page_84_note_*.md) calling upon Allah for
 relief: the angel Gabriel then appeared to her, and stamped upon the
 earth with his foot, and behold, there started up a fountain, which is
 still known as the fountain of Semsem.<span
-id="page_84_fr_dagger"></span>[†](#page_84_note_dagger) But at that time
+id="page_84_fr_dagger"></span>[†](#page_84_note_dagger.md) But at that time
 its waters were as sweet as honey and as nutritious as milk, so that
 Hagar was unwilling again to leave these regions.
 
@@ -412,7 +412,7 @@ gone, enemy of Allah; I will act according to the will of my Lord."
 Satan went away enraged, but stepped yet twice more in a different form
 into Abraham's way, seeking to stagger his resolve. Abraham discovered
 him each time, and each time flung at him seven pebbles.<span
-id="page_86_fr_*"></span>[\*](#page_86_note_*)
+id="page_86_fr_*"></span>[\*](#page_86_note_*.md)
 
 <span id="page_87">p. 87</span>
 
@@ -441,7 +441,7 @@ son."
 
    This ram was the same which Abel offered and which, in the mean time,
 had pastured in Paradise.<span
-id="page_88_fr_*"></span>[\*](#page_88_note_*)
+id="page_88_fr_*"></span>[\*](#page_88_note_*.md)
 
    The sacrifice over, Abraham returned to Syria, but Ismael remained
 with his mother among the Amalekites, of whom he took a wife.
@@ -482,7 +482,7 @@ given a promise to Sarah not to enter Hagar's house.
 "for thou art indeed covered with dust."
 
    Abraham then placed first his right foot,<span
-id="page_90_fr_*"></span>[\*](#page_90_note_*) and <span id="page_91">p.
+id="page_90_fr_*"></span>[\*](#page_90_note_*.md) and <span id="page_91">p.
 91</span> then his left, upon a stone which lay before Ismael's house,
 and suffered himself to be washed. This stone was afterward employed in
 the temple, and the prints of Abraham's feet are visible upon it to this
@@ -583,7 +583,7 @@ Palestine.
 
    When the latter attained the age of manhood, Abraham's beard became
 gray, which astonished him not a little, since no man before him had
-ever turned gray.<span id="page_95_fr_*"></span>[\*](#page_95_note_*)
+ever turned gray.<span id="page_95_fr_*"></span>[\*](#page_95_note_*.md)
 But Allah had performed this wonder that Abraham might be distinguished
 from Isaac. For as he was a hundred years old when Sarah bore Isaac, the
 people of Palestine derided him, and doubted of Sarah's innocence; but
@@ -627,7 +627,7 @@ unto this day.
 
 ------------------------------------------------------------------------
 
-[Next](bkt08)
+[Next](bkt08.md)
 
 ------------------------------------------------------------------------
 
@@ -635,7 +635,7 @@ unto this day.
 
 <span id="footnotes_page_70">p. 70</span>
 
-   <span id="page_70_note_*"></span>[\*](#page_70_fr_*) The Jewish
+   <span id="page_70_note_*"></span>[\*](#page_70_fr_*.md) The Jewish
 legend respecting Abraham's contempt of idolatry and his sentence to be
 burned alive is as follows: "Terah <span id="footnotes_page_71">p.
 71</span> was an idolater, and, as he went one day on a journey, he
@@ -682,7 +682,7 @@ thence!'
 
 <span id="footnotes_page_73">p. 73</span>
 
-   <span id="page_73_note_*"></span>[\*](#page_73_fr_*) The Midrash, p.
+   <span id="page_73_note_*"></span>[\*](#page_73_fr_*.md) The Midrash, p.
 20, says, "When the wicked Nimrod cast <span id="footnotes_page_74">p.
 74</span> Abraham into the furnace, Gabriel said, 'Lord of the world,
 suffer me to save this saint from the fire!' but the Lord replied, 'I am
@@ -691,7 +691,7 @@ therefore, that the supreme should save the supreme.'"
 
 <span id="footnotes_page_77">p. 77</span>
 
-   <span id="page_77_note_*"></span>[\*](#page_77_fr_*) The laws of the
+   <span id="page_77_note_*"></span>[\*](#page_77_fr_*.md) The laws of the
 Mohammedans, and of the Jews especially, regulate scrupulously the mode
 in which clean animals are to be slain; what part is to receive the
 mortal wound; how it is to be inflicted; the knife to be used; and the
@@ -700,7 +700,7 @@ fish.—*E. T.*
 
 <span id="footnotes_page_80">p. 80</span>
 
-   <span id="page_80_note_*"></span>[\*](#page_80_fr_*) The learned
+   <span id="page_80_note_*"></span>[\*](#page_80_fr_*.md) The learned
 reader must be struck with the strong likeness existing between the
 moral of the Moslems and those of the Sanchez, the Escobars, the
 Tambourins, and the Molinas. The Bible says, indeed, "Abraham said to
@@ -709,7 +709,7 @@ he told no falsehood.—*E. T.*
 
 <span id="footnotes_page_81">p. 81</span>
 
-   <span id="page_81_note_*"></span>[\*](#page_81_fr_*) The Midrash,
+   <span id="page_81_note_*"></span>[\*](#page_81_fr_*.md) The Midrash,
 fol. 21, says that Hagar was given as a slave to Abraham by her father
 Pharoah, who said, "My daughter had better be a slave in the house of
 Abraham than mistres in any other." Elimelech, in like manner, and for
@@ -718,7 +718,7 @@ had seen the wonders which were done for Sarah's sake.
 
 <span id="footnotes_page_82">p. 82</span>
 
-   <span id="page_82_note_*"></span>[\*](#page_82_fr_*) The sanctity
+   <span id="page_82_note_*"></span>[\*](#page_82_fr_*.md) The sanctity
 which the Moslem attaches to places is akin to the feeling in the church
 of the Pharisees before Christ, and of Rome at present. But the Savior
 reproves it by those words, "*Wherever* two or three are gathered
@@ -727,25 +727,25 @@ together in my name, there am I in the midst of them."—*Matt*., xviii.,
 
 <span id="footnotes_page_83">p. 83</span>
 
-   <span id="page_83_note_*"></span>[\*](#page_83_fr_*) The black stone
+   <span id="page_83_note_*"></span>[\*](#page_83_fr_*.md) The black stone
 of the Kaaba is to this day an object of great veneration with the
 Mussulmans, and every pilgrim visiting the temple kisses it
 repeatedly.—*E. T.*
 
 <span id="footnotes_page_84">p. 84</span>
 
-   <span id="page_84_note_*"></span>[\*](#page_84_fr_*) The pilgrims to
+   <span id="page_84_note_*"></span>[\*](#page_84_fr_*.md) The pilgrims to
 Mecca still run seven times from Mount Susa to Marwa, frequently looking
 round and stooping down, to imitate Hagar when seeking for water.—*E.
 T.*
 
-   <span id="page_84_note_dagger"></span>[†](#page_84_fr_dagger) This
+   <span id="page_84_note_dagger"></span>[†](#page_84_fr_dagger.md) This
 fountain is within the Kaaba: its water is brackish, though somewhat
 less so than the other water of Mecca.—*E. T.*
 
 <span id="footnotes_page_86">p. 86</span>
 
-   <span id="page_86_note_*"></span>[\*](#page_86_fr_*) The Midrash, p.
+   <span id="page_86_note_*"></span>[\*](#page_86_fr_*.md) The Midrash, p.
 28, says, "Abraham left Sarah early in the morning, while she slept; but
 Satan placed himself in his way as an aged man, and said, 'Whither goest
 thou?'
@@ -792,7 +792,7 @@ alone?'
 
 <span id="footnotes_page_88">p. 88</span>
 
-   <span id="page_88_note_*"></span>[\*](#page_88_fr_*) Rabbi Elieser
+   <span id="page_88_note_*"></span>[\*](#page_88_fr_*.md) Rabbi Elieser
 teaches: the ram came from the mountain. Rabbi Jehoshua: an angel
 brought it from Paradise, where it pastured under the tree of eternal
 life, and drank from the brook which flows beneath it. The ram diffused
@@ -801,7 +801,7 @@ the evening of the sixth day of the creation.—*Midrash*, p. 28.
 
 <span id="footnotes_page_90">p. 90</span>
 
-   <span id="page_90_note_*"></span>[\*](#page_90_fr_*) This legend,
+   <span id="page_90_note_*"></span>[\*](#page_90_fr_*.md) This legend,
 which has reference to Ismael, and which, it might be supposed, was of
 Arabic origin, and invented to account for the sanctity of the second
 curious stone of the Kaaba, is found in the Midrash, p. 27:
@@ -844,7 +844,7 @@ yet extinct."—*Midrash*, p. 28.
 
 <span id="footnotes_page_95">p. 95</span>
 
-   <span id="page_95_note_*"></span>[\*](#page_95_fr_*) When Sarah
+   <span id="page_95_note_*"></span>[\*](#page_95_fr_*.md) When Sarah
 weaned her son, Abraham made a feast. Then said the heathen, "Behold
 this aged couple, who have taken up a child from the streets, pretending
 it was their own, and to obtain credit more easily, have given a feast

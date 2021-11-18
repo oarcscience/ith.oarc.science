@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl09)  [Next](jftl11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl09)  [Next](jftl11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ severe lesson.
 <span id="img_10000"></span> <span align="CENTER"> [![He sprang from his
 stool, spluttering and cursing. (&lt;i&gt;Page
 110&lt;/i&gt;).](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 He sprang from his stool, spluttering and cursing. (*Page 110*).  
 </span>
 
@@ -210,7 +210,7 @@ of the period. Ben Maslia led the way to the bath-chamber, and there
 they spent quite an hour. Then, thoroughly refreshed, the host said,
 "Now I will show thee the wonders and beauties of my domain."
 
-Abi Fressah was almost [stupefied](errata.htm#2) with hunger, but he had
+Abi Fressah was almost [stupefied](errata.htm#2.md) with hunger, but he had
 to permit himself to be led through each room and to hear again the
 praises that had already been poured into his ears all the afternoon.
 Only the smell of the cooking fortified his spirit and enabled him to
@@ -285,7 +285,7 @@ which land his host had also brought the lamp standing in the center of
 the table and some of the flowers which adorned the room.
 
 "You would not guess," he was saying, "that many of these blooms are not
-natural. They are artificial but mixed so [skillfully](errata.htm#3)
+natural. They are artificial but mixed so [skillfully](errata.htm#3.md)
 with the real that even experts would be deluded."
 
 By this time Abi Fressah was beyond the power of speech. Two or three
@@ -352,4 +352,4 @@ gruel and barley water for a whole week!
 
 ------------------------------------------------------------------------
 
-[Next: The Beggar King](jftl11)
+[Next: The Beggar King](jftl11.md)

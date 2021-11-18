@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois09) 
-[Next](wois11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois09.md) 
+[Next](wois11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -25,9 +25,9 @@ before their appearance as phenomena.
 
 <span id="page_24">p. 24</span>
 
-The *Torāh* <span id="fr_7"></span>[\*](#fn_6) was created; for we read
+The *Torāh* <span id="fr_7"></span>[\*](#fn_6.md) was created; for we read
 (Prov. viii. 22-36), "The Lord possessed <span
-id="fr_8"></span>[†](#fn_7) me at the beginning of His way . . . or ever
+id="fr_8"></span>[†](#fn_7.md) me at the beginning of His way . . . or ever
 the earth was, etc."; so, also, was the throne of glory, as we read (Ps.
 xciii. 2), "Thy throne was established from of old (*Kedem* in front),
 Thou art from everlasting."
@@ -44,7 +44,7 @@ existeth eternally." R. Ahabah Bar Rabbi Zengirah says, "Also
 repentance, the coming back of the sinner to his God, existed in ideal,
 before the creation of the world; as it is written (Ps. xc.), 'Before
 the mountains were brought forth'; from that very hour Thou turnedst man
-to contrition, <span id="fr_9"></span>[‡](#fn_8) saying, 'Return, ye
+to contrition, <span id="fr_9"></span>[‡](#fn_8.md) saying, 'Return, ye
 children of men.'"
 
 The *Torah* was created before the throne of
@@ -98,16 +98,16 @@ in the parable of "The Traveller and Tree in the Desert.")
 
 ### Footnotes
 
-<span id="fn_6"></span>[24:\*](wois10.htm#fr_7) *Torah*, "instruction,"
+<span id="fn_6"></span>[24:\*](wois10.htm#fr_7.md) *Torah*, "instruction,"
 "Law," here means the spiritual, intellectual, and moral contents of
 revelation as a whole.
 
-<span id="fn_7"></span>[24:†](wois10.htm#fr_8) The *Midrash* rendering,
+<span id="fn_7"></span>[24:†](wois10.htm#fr_8.md) The *Midrash* rendering,
 though forced, is here quite permissible; for the word rendered in the
 *A. V.* "purchase," really means "to acquire," "to possess," while that
 rendered "of old time," *Kedem*, really means "before," "in front."
 
-<span id="fn_8"></span>[24:‡](wois10.htm#fr_9) "Contrition" is the
+<span id="fn_8"></span>[24:‡](wois10.htm#fr_9.md) "Contrition" is the
 *correct* translation of *dakka*, which the *A. V.* erroneously renders
 in this verse "destruction," a rendering entirely inconsistent with the
 context and not warranted by the etymology of the word.
@@ -116,6 +116,6 @@ context and not warranted by the etymology of the word.
 
 ------------------------------------------------------------------------
 
-[Next: The Traveller and the Tree in the Desert](wois11)
+[Next: The Traveller and the Tree in the Desert](wois11.md)
 
 </div>

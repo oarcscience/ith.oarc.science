@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mod03)  [Next](mod05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mod03)  [Next](mod05.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ told him what the frog had done.
 
 Tu-chai-pai said, "I shall die with the moon. Go, look at the moon,
 Ach-hulch-la-tai. Look again, Hup-lach-sen. Look at it a third time,
-Hucht-la-kutl. <span id="fr_1"></span>[1](#fn_1) Then I will die."
+Hucht-la-kutl. <span id="fr_1"></span>[1](#fn_1.md) Then I will die."
 
 <span id="page_184">p. 184</span>
 
@@ -41,9 +41,9 @@ on this earth are the children of Tu-chai-pai, and they will die, too.
 
 ### Footnotes
 
-<span id="fn_1"></span>[183:1](mod04.htm#fr_1) Are these the phases of
+<span id="fn_1"></span>[183:1](mod04.htm#fr_1.md) Are these the phases of
 the moon?
 
 ------------------------------------------------------------------------
 
-[Next: The Fiesta Of The Death Of Tu-chai-pai](mod05)
+[Next: The Fiesta Of The Death Of Tu-chai-pai](mod05.md)

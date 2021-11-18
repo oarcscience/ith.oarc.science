@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli12)  [Next](mfli14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli12)  [Next](mfli14.md) 
 
 ------------------------------------------------------------------------
 
@@ -283,4 +283,4 @@ time; and if they didn't, may we.
 
 ------------------------------------------------------------------------
 
-[Next: Fin MacCumhail and the Knight of the Full Axe](mfli14)
+[Next: Fin MacCumhail and the Knight of the Full Axe](mfli14.md)

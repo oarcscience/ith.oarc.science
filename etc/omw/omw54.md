@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw53)  [Next](omw55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw53)  [Next](omw55.md) 
 
 ------------------------------------------------------------------------
 
@@ -211,4 +211,4 @@ Blodeuwedd.
 
 ------------------------------------------------------------------------
 
-[Next: Lemminkainen, His Destruction and His Restoration to Life](omw55)
+[Next: Lemminkainen, His Destruction and His Restoration to Life](omw55.md)

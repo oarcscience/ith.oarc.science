@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce14)  [Next](sce16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce14)  [Next](sce16.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ found it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](sce16)
+[Next: Chapter 6](sce16.md)

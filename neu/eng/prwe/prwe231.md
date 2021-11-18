@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe230)  [Next](prwe232) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe230)  [Next](prwe232.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ above superstitious notion on this head."
 
 ------------------------------------------------------------------------
 
-[Next: "St George" - The Christmas Plays](prwe232)
+[Next: "St George" - The Christmas Plays](prwe232.md)

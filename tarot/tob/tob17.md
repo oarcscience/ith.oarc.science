@@ -1,18 +1,18 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob16) 
-[Next](tob18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob16.md) 
+[Next](tob18.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_wiar04"></span>
 
-![THE EMPEROR.](img/wiar04.jpg)  
+![THE EMPEROR.](img/wiar04.jpg.md)  
 THE EMPEROR.
 
    <span id="img_msar04"></span>
 
-![THE EMPEROR.](img/msar04.jpg)  
+![THE EMPEROR.](img/msar04.jpg.md)  
 THE EMPEROR.
 
 4\. ד
@@ -34,7 +34,7 @@ Like the 1, it is a sign of active creation; but this creation is the
 result of previous actions easily determinable, whilst the origin of the
 Unity is inaccessible to human conceptions. The Daleth expresses a
 creation made by a created being. according to divine laws. <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 The Daleth should be the image of the active vivifying principle of the
 Universe, Jupiter, the reflex of the Primal cause.
@@ -164,9 +164,9 @@ Natura naturans
 
 ### Footnotes
 
-<span id="fn_59"></span>[120:1](tob17.htm#fr_59) See the *second He*,
+<span id="fn_59"></span>[120:1](tob17.htm#fr_59.md) See the *second He*,
 and the study upon the number 4.
 
 ------------------------------------------------------------------------
 
-[Next: 5. The Pope](tob18)
+[Next: 5. The Pope](tob18.md)

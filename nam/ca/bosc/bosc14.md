@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc13)  [Next](bosc15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc13)  [Next](bosc15.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ enough to escape to the protection of their own nation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Their Funeral Ceremonies](bosc15)
+[Next: Chapter XIII. Their Funeral Ceremonies](bosc15.md)

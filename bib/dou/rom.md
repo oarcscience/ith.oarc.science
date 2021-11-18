@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](act)  [Next](co1) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](act)  [Next](co1.md) 
 
 ------------------------------------------------------------------------
 
@@ -1543,4 +1543,4 @@ Christ, to whom be honour and glory for ever and ever. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Corinthians](co1)
+[Next: 1 Corinthians](co1.md)

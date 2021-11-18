@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor07)  [Next](yor09) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor07)  [Next](yor09.md) 
 
 ------------------------------------------------------------------------
 
@@ -475,4 +475,4 @@ that employed him what he pleases.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Measurements of Time.](yor09)
+[Next: Chapter VIII: Measurements of Time.](yor09.md)

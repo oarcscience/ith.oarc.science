@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis25)  [Next](kis27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis25)  [Next](kis27.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ Goatskin, which adventures are written in "The Craneskin Book."
 
 ------------------------------------------------------------------------
 
-[Next: Part VI](kis27)
+[Next: Part VI](kis27.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow04)  [Next](fow06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow04)  [Next](fow06.md) 
 
 ------------------------------------------------------------------------
 
@@ -380,4 +380,4 @@ For knives, they tell me, always sever love."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Woman's Eyes](fow06)
+[Next: Chapter IV: Woman's Eyes](fow06.md)

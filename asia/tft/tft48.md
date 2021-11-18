@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft47)  [Next](tft49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft47)  [Next](tft49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -112,7 +112,7 @@ and eat good things all
 <span id="img_18100"></span> <span align="CENTER"> [![ONE DAY A BIG
 CRANE FLYING OVER THE PALACE, CARRYING A FEW HEADS OF RICE FOR HIS OWN
 FOOD, DROPPED SOME GRAINS INTO THE PALACE GARDEN.](tn/18100.jpg)  
-Click to enlarge](img/18100.jpg)  
+Click to enlarge](img/18100.jpg.md)  
 ONE DAY A BIG CRANE FLYING OVER THE PALACE, CARRYING A FEW HEADS OF RICE
 FOR HIS OWN FOOD, DROPPED SOME GRAINS INTO THE PALACE GARDEN.  
 </span>
@@ -148,4 +148,4 @@ her and always went to her in times of trouble.
 ------------------------------------------------------------------------
 
 [Next: Forty-Six: The Story of Yugpacan, the Brahman. From
-Jaschke](tft49)
+Jaschke](tft49.md)

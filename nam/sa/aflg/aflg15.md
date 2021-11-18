@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg14) [Next](aflg16)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg14) [Next](aflg16.md)
 
 ------------------------------------------------------------------------
 
@@ -8,41 +8,41 @@ American](../index) [Index](index) [Previous](aflg14) [Next](aflg16)
 ## C<span class="small">HAPTER</span> XV RESTRICTIONS ON GAME AND FOOD, VISION, ARTS AND CRAFTS, NOMENCLATURE (TABOOS)
 
    <span class="small">Restrictions on Game and Food: Must not hunt too
-many of one kind (*[242](#pp_242)*); spirit of slain animal must be
-prevented injuring slayer (*[243](#pp_243)*); hunter must not himself
-bring his "bag" into the house (*[244](#pp_244)*); when animal is killed
+many of one kind (*[242](#pp_242)*.md); spirit of slain animal must be
+prevented injuring slayer (*[243](#pp_243)*.md); hunter must not himself
+bring his "bag" into the house (*[244](#pp_244)*.md); when animal is killed
 by arrow or gun-trap, meat has to be cooked in special manner
-(*[245](#pp_245)*); food not eaten after nightfall (*[246](#pp_246)*);
-Food restrictions on age, sex, and nation (*[247](#pp_247)*): at
+(*[245](#pp_245)*); food not eaten after nightfall (*[246](#pp_246)*.md);
+Food restrictions on age, sex, and nation (*[247](#pp_247)*.md): at
 moon-eclipse, puberty, pregnacy, and other periods, in mourning,
-sickness, traveling (*[248](#pp_248)*); of totem-animals
-(*[249](#pp_249)*); Attributes of animals eaten may be transferred by
-ingestion to the consumer (*[250](#pp_250)*). Dogs also restricted as to
-food (*[251](#pp_251)*).  
+sickness, traveling (*[248](#pp_248)*.md); of totem-animals
+(*[249](#pp_249)*.md); Attributes of animals eaten may be transferred by
+ingestion to the consumer (*[250](#pp_250)*.md). Dogs also restricted as to
+food (*[251](#pp_251)*.md).  
    Restrictions on Vision: Protective or defensive measure to prevent
-Spirit being attracted toward visitor (*[252](#pp_252)*); same principle
-applied to taking of a photograph, etc. (*[253](#pp_253)*); practice may
-be accompanied with flagellation (*[254](#pp_254)*); a sign of envy,
-hatred, and malice (*[255](#pp_255)*); concurrent expression of a wish
-(*[256](#pp_256)*); at place of entertainment (*[257](#pp_257)*).  
+Spirit being attracted toward visitor (*[252](#pp_252)*.md); same principle
+applied to taking of a photograph, etc. (*[253](#pp_253)*.md); practice may
+be accompanied with flagellation (*[254](#pp_254)*.md); a sign of envy,
+hatred, and malice (*[255](#pp_255)*.md); concurrent expression of a wish
+(*[256](#pp_256)*); at place of entertainment (*[257](#pp_257)*.md).  
    Restrictions on Arts and Crafts: Manufacture of pottery
-(*[258](#pp_258)-259*); hammocks, canoes, huts, and field-work
-(*[260](#pp_260)*); the uses of the fan, and dress (*[261](#pp_261)*);
-preparation of curare (*wurali*) poison (*[262](#pp_262)*).  
+(*[258](#pp_258)-259*.md); hammocks, canoes, huts, and field-work
+(*[260](#pp_260)*); the uses of the fan, and dress (*[261](#pp_261)*.md);
+preparation of curare (*wurali*) poison (*[262](#pp_262)*.md).  
    Restrictions in Nomenclature—Personal Names: Association between
 individual and name, which must not be mentioned in his presence
-(*[263](#pp_263)*); naming of child (*[264](#pp_264)*); change of name
-(*[265](#pp_265)*). Reasons for giving certain names to dogs
-(*[266](#pp_266)*). Special words have to suit special circumstances
-(*[266A](#pp_266A)*).</span>
+(*[263](#pp_263)*); naming of child (*[264](#pp_264)*.md); change of name
+(*[265](#pp_265)*.md). Reasons for giving certain names to dogs
+(*[266](#pp_266)*.md). Special words have to suit special circumstances
+(*[266A](#pp_266A)*.md).</span>
 
-   <span id="pp_242"></span>**242.**[\*](#pp_242) If Indians hunt too
+   <span id="pp_242"></span>**242.**[\*](#pp_242.md) If Indians hunt too
 many of one kind of game, the Bush Spirit of that particular animal may
-come and do them harm ([Sect. *98*](aflg08.htm#pp_98)).
+come and do them harm ([Sect. *98*](aflg08.htm#pp_98).md).
 
  
 
-<span id="story_103"></span>[\*](#story_103)T<span
+<span id="story_103"></span>[\*](#story_103.md)T<span
 class="small">HE</span> B<span class="small">ABOON</span> C<span
 class="small">OUGH</span> (W)
 
@@ -54,7 +54,7 @@ class="small">OUGH</span> (W)
 > behind. After a time she heard a roaring in the distance, just like
 > thunder, and waiting a while she heard a whistling, just like that of
 > a man when he is tired.<span
-> id="page_292_fr_1"></span>[1](#page_292_note_1) It was indeed some one
+> id="page_292_fr_1"></span>[1](#page_292_note_1.md) It was indeed some one
 > coming along, and at last she saw an old man with bent back supporting
 > himself with a stick. He approached the woman and said, "How do you
 > do, grandchild!" Now, as she was quite an old woman you can imagine
@@ -101,10 +101,10 @@ class="small">OUGH</span> (W)
 > so huge that the cavities of its entire trunk and branches were
 > occupied by members of the baboon-Hebu family. The party made a large
 > fire around the tree, and threw peppers into it;<span
-> id="page_293_fr_1"></span>[1](#page_293_note_1) this smoked out and
+> id="page_293_fr_1"></span>[1](#page_293_note_1.md) this smoked out and
 > killed all the Hebu baboons, from the youngest to the oldest, the
 > queer old grandfather Hebu being killed last \[[Sect.
-> *167*](aflg10.htm#pp_167)\]. Of course before giving up the ghost they
+> *167*](aflg10.htm#pp_167.md)\]. Of course before giving up the ghost they
 > did a lot of choking and coughing, and in his dying rage the old Hebu
 > swore that this choking and coughing would remain with us forever.
 > Indeed, it is this pepper sickness which is causing so much mischief
@@ -112,10 +112,10 @@ class="small">OUGH</span> (W)
 > the sickness for a long time as the "baboon cough," but you white
 > people are ignorant of this, and persist in calling it whooping-cough.
 
-   <span id="pp_243"></span>**243.**[\*](#pp_243) Special precautions
+   <span id="pp_243"></span>**243.**[\*](#pp_243.md) Special precautions
 have to be taken when any large animal has been slain, to protect the
 hunter from any harm that might be expected from the Spirit of the
-animal he has just destroyed ([Sect. *129*](aflg08.htm#pp_129)). Thus,
+animal he has just destroyed ([Sect. *129*](aflg08.htm#pp_129).md). Thus,
 when a big snake or other large animal is killed, arrows are stuck into
 the ground in the middle of the pathway leading from the place of
 destruction toward the house, with a view to preventing the Spirit of
@@ -148,9 +148,9 @@ wood alternating with stones. I learn that these altars . . . have been
 made by ten hunters of a neighboring village who started some days ago
 on a big expedition. Every time the Roucouyennes go hunting (shooting
 with arrows) the quatta monkey, they stop to trim these boucans."<span
-id="page_294_fr_1"></span>[1](#page_294_note_1)
+id="page_294_fr_1"></span>[1](#page_294_note_1.md)
 
-   <span id="pp_244"></span>**244.**[\*](#pp_244) An Indian must never
+   <span id="pp_244"></span>**244.**[\*](#pp_244.md) An Indian must never
 himself bring into the house any game that he has caught, but leave it
 for his wife to carry in if she has been accompanying him; otherwise he
 will place it on the pathway, some four roods or so from the house,
@@ -171,7 +171,7 @@ stream (RoP, 493). When they have caught anything, they leave it on the
 spot, and the women were formerly obliged to go and fetch it to the
 house.
 
-   <span id="pp_245"></span>**245.**[\*](#pp_245) Among the Pomeroon
+   <span id="pp_245"></span>**245.**[\*](#pp_245.md) Among the Pomeroon
 Arawaks, when an animal is killed with an arrow-trap or a gun-trap, its
 flesh has to be cooked in a pot without a cover, over a fire which is
 not too large, so as to avoid any water boiling over. Were either of
@@ -179,11 +179,11 @@ these matters not attended to, there would be no further use either for
 the arrow or for the gun, as all the game of the same kind as that
 recently trapped would take its departure to another region.
 
-   <span id="pp_246"></span>**246.**[\*](#pp_246) Among the Arawaks it
+   <span id="pp_246"></span>**246.**[\*](#pp_246.md) Among the Arawaks it
 would seem that food in general was not allowed to be eaten after
 nightfall, any person guilty of this offence being invariably changed
 into an animal. The story of the man who dined after dark ([Sect.
-*114*](aflg08.htm#pp_114)) has reference to this belief. The origin of
+*114*](aflg08.htm#pp_114).md) has reference to this belief. The origin of
 such a custom it is somewhat difficult to trace. That it can not be due
 to any desire to prevent exposure to the enemy through the lights of the
 fires required for cooking is evident from the fact that fires for
@@ -195,7 +195,7 @@ remains in the stomach overnight is unwholesome and undigested, and
 should therefore be removed; accordingly they have the habit of inducing
 vomiting every morning by the use of a feather (AS, 93).
 
-   <span id="pp_247"></span>**247.**[\*](#pp_247) On the Amazons, "the
+   <span id="pp_247"></span>**247.**[\*](#pp_247.md) On the Amazons, "the
 children, more particularly the females, are restricted to a particular
 food: they are not allowed to eat the meat of any kind of game, nor of
 fish, except the very small bony kinds; their food principally
@@ -239,16 +239,16 @@ bush-negroes at Apikollos Village (Surinam) said that all the Trios
 Indians would die because the Europeans had partaken of the same food as
 they had (Go, 22). All the old piais that I have met still persist in
 their refusal to partake of European food ([Sect.
-*286*](aflg17.htm#pp_286)).
+*286*](aflg17.htm#pp_286).md).
 
-   <span id="pp_248"></span>**248.**[\*](#pp_248) Food may be restricted
+   <span id="pp_248"></span>**248.**[\*](#pp_248.md) Food may be restricted
 or taboo only under special circumstances, as at an eclipse of the moon
-([Sect. *200*](aflg13.htm#pp_200)). In Cayenne, apparently men and women
+([Sect. *200*](aflg13.htm#pp_200).md). In Cayenne, apparently men and women
 religiously abstain during the period of mourning from eating certain
 meats, or from cutting large timber, and several other practices of this
 nature (PBa, 229). The whole family may be restricted in the way of
 food, when a member of it happens to be ill ([Sect.
-*317*](aflg17.htm#pp_317)). The taboos of various foods at the
+*317*](aflg17.htm#pp_317).md). The taboos of various foods at the
 physiological periods of a man's or a woman's life are noted elsewhere (
 
 Sects. *267-284*). Among the Makusis, during the time that the natural
@@ -266,7 +266,7 @@ animal that he may have domesticated and tamed.
 
 <span id="page_297">p. 297</span>
 
-   <span id="pp_249"></span>**249.**[\*](#pp_249) Unlike what might have
+   <span id="pp_249"></span>**249.**[\*](#pp_249.md) Unlike what might have
 been expected from a consideration of other savage races, even so near
 as those of North America, there seems to be no record of the taboo of
 the so-called totem-animal, but I can not assume for this reason that
@@ -278,7 +278,7 @@ branch of the Orinoco, he found an Indian who, although a Piapoco (i. e.
 Toucan), had no qualms about killing the bird after which his tribe was
 named. All the other references are of doubtful totemic significance.
 
-   <span id="pp_250"></span>**250.**[\*](#pp_250) Certain indigenous
+   <span id="pp_250"></span>**250.**[\*](#pp_250.md) Certain indigenous
 animals are not to be eaten, apparently for no assignable cause. On the
 Moruca, the Arawaks do not use the flesh of the *Palamedea cornuta*
 Linn., although they employ the tail feathers for arrow-barbs (ScR,
@@ -304,8 +304,8 @@ like the former animal, that they might participate in the clumsiness
 and stupidity of the latter (RoP, 465). The attributes of the animal
 eaten could be transferred by ingestion not only to the person eating
 \[compare ingestion of human flesh to obtain attributes of the deceased,
-in [Sect. *77*](aflg05.htm#pp_77)\], but even to the child of such
-person ([Sect. *279*](aflg16.htm#pp_279)). The Zaparo Indians of the
+in [Sect. *77*](aflg05.htm#pp_77.md)\], but even to the child of such
+person ([Sect. *279*](aflg16.htm#pp_279).md). The Zaparo Indians of the
 Napo River (upper Amazon) are "very particular in their diet: unless
 from necessity, they will, in most cases, not eat any heavy meats such
 as tapir and peccary, but confine themselves to birds, monkeys, deer,
@@ -317,7 +317,7 @@ Amazon the <span id="page_298">p. 298</span> flesh of the male turtle
 especially to sick people having external signs of inflammation (HWB,
 309).
 
-   <span id="pp_251"></span>**251.**[\*](#pp_251) Dogs also are
+   <span id="pp_251"></span>**251.**[\*](#pp_251.md) Dogs also are
 precluded from eating certain foods. In Cayenne Crévaux noticed that his
 Roucouyenne cooks threw the beaks of the kinoros birds (*Ara canga*)
 into the river, in the belief that were their dogs to eat them, they
@@ -330,9 +330,9 @@ for a purpose other than ornament or decoration. If a dog were to eat
 either of those particular bird bones or any bones whatever of a labba
 or an acouri that it had not itself hunted, such dog would never catch
 any of these animals again.<span
-id="page_298_fr_1"></span>[1](#page_298_note_1)
+id="page_298_fr_1"></span>[1](#page_298_note_1.md)
 
-   <span id="pp_252"></span>**252.**[\*](#pp_252) The temporary
+   <span id="pp_252"></span>**252.**[\*](#pp_252.md) The temporary
 occlusion of vision, as with tobacco and peppers, on the occasion of
 visiting, for the first time any strikingly peculiar landmark of natural
 scenery, especially in the way of mountains, or even on entering a new
@@ -394,15 +394,15 @@ them sore eyes, but many other sicknesses. One woman maintained that,
 independently of any evil spirits, the very novelty of the scene might
 give her sore eyes, in the absence of the usual precaution.
 
-   <span id="pp_253"></span>**253.**[\*](#pp_253) Warraus assure me that
+   <span id="pp_253"></span>**253.**[\*](#pp_253.md) Warraus assure me that
 on looking at a mountain for the first time the eyes are shut to prevent
 the person attracting or drawing the Shadow of the Spirit toward him
-([Sect. *190*](aflg12.htm#pp_190)). When one person looks at another,
+([Sect. *190*](aflg12.htm#pp_190).md). When one person looks at another,
 the former draws or drags the latter's shadow ([Sect.
-*68*](aflg05.htm#pp_68)) toward him, a principle on which these Indians
+*68*](aflg05.htm#pp_68).md) toward him, a principle on which these Indians
 explain the taking of a photograph. The Island Carib corpse is laid out
 with two weights on the eyes, that he may not see his parents thus
-making them ill ([Sect. *80*](aflg05.htm#pp_80)). Catlin gives an
+making them ill ([Sect. *80*](aflg05.htm#pp_80).md). Catlin gives an
 amusing instance among the Conibos of the Amazon, of the local
 medicine-man preventing him painting any more portraits by exhorting the
 tribesmen as follows: "These things are a great mystery, but there you
@@ -415,7 +415,7 @@ of the wild beasts and birds and snakes." (The medicine-man <span
 id="page_300">p. 300</span> had been to Para or some other place where
 he had seen the stuffed skins in a museum.) (GC, 321-323). For a
 pregnant woman to look at the face of a corpse will draw trouble on her
-unborn child ([Sect. *279*](aflg16.htm#pp_279)). It is possible that,
+unborn child ([Sect. *279*](aflg16.htm#pp_279).md). It is possible that,
 perhaps on principles analogous to some of the preceding, most European
 races have adopted the practice of closing the eyes when in the attitude
 of prayer; it is therefore not so very remarkable that I found the
@@ -423,7 +423,7 @@ aboriginal communicants of a certain Mission speaking of prayer
 generally by a term which, literally translated, means "to shut the
 eyes."
 
-   <span id="pp_254"></span>**254.**[\*](#pp_254) But this temporary
+   <span id="pp_254"></span>**254.**[\*](#pp_254.md) But this temporary
 occlusion of the eyes may be accompanied with another procedure, that of
 whipping. Thus, at the Cara-utta Rocks, head of Wenamu River, a branch
 of the Cuyuni, "the Indians who had never been here before, gave
@@ -453,7 +453,7 @@ at the shrine of the spirit of this rock, who believe that if they did
 not perform the rite of breaking off a green bough and beating it on the
 rock, evil would assuredly befall them" (Br, 78).
 
-   <span id="pp_255"></span>**255.**[\*](#pp_255) In a sense analogous
+   <span id="pp_255"></span>**255.**[\*](#pp_255.md) In a sense analogous
 to the idea of thwarting or avoiding evil may probably be regarded the
 closing of the eyes as a sign of "envy, hatred, and malice." Thus, among
 Warraus and Arawaks, as between man with man or woman with woman, the
@@ -467,10 +467,10 @@ leaving her body entirely exposed" (Cr, 273). It is possible that the
 peppering of the witch's eyes before clubbing her was intended to
 prevent the poor wretch attracting toward herself the Spirits of those
 people she might otherwise have looked at ([Sect.
-*319*](aflg17.htm#pp_319)). Compare also the binding of the girl's eyes
-in the puberty ceremony ([Sect. *271*](aflg16.htm#pp_271)).
+*319*](aflg17.htm#pp_319).md). Compare also the binding of the girl's eyes
+in the puberty ceremony ([Sect. *271*](aflg16.htm#pp_271).md).
 
-   <span id="pp_256"></span>**256.**[\*](#pp_256) The closing of the
+   <span id="pp_256"></span>**256.**[\*](#pp_256.md) The closing of the
 eyes and the concurrent expression of a wish I am unable to obtain
 explanations for, except on the hypothesis of some Spirit being
 supplicated, and deal with the practice here only as a matter of
@@ -478,7 +478,7 @@ convenience. Mention is made of the custom in the Carib story of—
 
  
 
-<span id="story_104"></span>[\*](#story_104)"S<span
+<span id="story_104"></span>[\*](#story_104.md)"S<span
 class="small">HUT</span> Y<span class="small">OUR</span> E<span
 class="small">YES AND</span> W<span class="small">ISH</span>!" (C)
 
@@ -521,9 +521,9 @@ class="small">YES AND</span> W<span class="small">ISH</span>!" (C)
 for in their legend of Pia and Makunaima the former tells his mother
 that whatever of good she desired she would obtain if she would bow her
 head and cover her face with her hands while she expressed her wish
-([Sect. *41*](aflg02.htm#pp_41)).
+([Sect. *41*](aflg02.htm#pp_41).md).
 
-   <span id="pp_257"></span>**257.**[\*](#pp_257) It was a superstition
+   <span id="pp_257"></span>**257.**[\*](#pp_257.md) It was a superstition
 of the Indians in Cayenne that the first person to see the dancers
 arrive at the actual place of entertainment <span id="page_302">p.
 302</span> would die during the course of the year or meet with other
@@ -533,7 +533,7 @@ themselves, the audience took good care to go into hiding, and to return
 in a body, shouting and screaming like madmen, when the performers put
 in their appearance (PBa, 201; LAP, <span class="small">II</span>, 242).
 
-   <span id="pp_258"></span>**258.**[\*](#pp_258) The following are
+   <span id="pp_258"></span>**258.**[\*](#pp_258.md) The following are
 examples of what might be called restrictions in arts, crafts, and
 manufactures.
 
@@ -542,7 +542,7 @@ Indians come from long distances to obtain clay, which is believed to be
 especially desirable. Schomburgk tells of a certain superstition which
 accounts for such large numbers of people congregating there. The
 Indians believe, for instance, that only during the first night of the
-incoming full moon ([Sect. *199*](aflg13.htm#pp_199)) dare they carry on
+incoming full moon ([Sect. *199*](aflg13.htm#pp_199).md) dare they carry on
 their business. Hence, numbers of people congregate at these times, as
 Bernau vouches for, and at break of day start for home laden with a
 large quantity. The Indians cling fast to the superstition that if the
@@ -550,13 +550,13 @@ clay is obtained at any other times, the vessels acquire an evil
 peculiarity not only for becoming speedily broken, but also for bringing
 numerous diseases to him who eats out of them.
 
-   <span id="pp_259"></span>**259.**[\*](#pp_259) Such vessels could be
+   <span id="pp_259"></span>**259.**[\*](#pp_259.md) Such vessels could be
 even more intimately associated with Spirit life, as witness the
 following story of—
 
  
 
-<span id="story_105"></span>[\*](#story_105)T<span
+<span id="story_105"></span>[\*](#story_105.md)T<span
 class="small">HE</span> L<span class="small">UCKY</span> P<span
 class="small">OT</span> (W)
 
@@ -592,12 +592,12 @@ class="small">OT</span> (W)
 > away to his lucky Pot, and told it to cook for him, but it would not
 > boil any more for him or for <span id="page_303">p. 303</span> any one
 > else, so perfectly had it been cleaned out.<span
-> id="page_303_fr_1"></span>[1](#page_303_note_1) He then commenced to
+> id="page_303_fr_1"></span>[1](#page_303_note_1.md) He then commenced to
 > cry, but the Pot reminded him: "You were greedy. You gave the bird and
 > meat neither to your wife nor to your children. You ate it all
 > yourself."
 
-   <span id="pp_260"></span>**260.**[\*](#pp_260) Among the Island
+   <span id="pp_260"></span>**260.**[\*](#pp_260.md) Among the Island
 Caribs, when the women make hammocks they place at each end a small
 parcel of ashes. Unless this ceremony were observed the hammock would
 not last. Should they eat figs when in possession of a new hammock, they
@@ -622,7 +622,7 @@ gives two or three ears of corn, the cassava bush yields two or three
 basketsful of roots, and similarly everything is multiplied" (G, <span
 class="small">II</span>, 237).
 
-   <span id="pp_261"></span>**261.**[\*](#pp_261) A woman must preserve
+   <span id="pp_261"></span>**261.**[\*](#pp_261.md) A woman must preserve
 her fan for the uses for which it is intended, namely, for blowing up
 the fire; should she use it on herself, she would become thin—at least
 this is what the Pomeroon Arawaks tell me.
@@ -636,7 +636,7 @@ European visitors when the latter, regarding them too closely, laughed
 at their nudity: "Friends! You should look only at our faces!" (RoP,
 461.)
 
-   <span id="pp_262"></span>**262.**[\*](#pp_262) Waterton has recorded
+   <span id="pp_262"></span>**262.**[\*](#pp_262.md) Waterton has recorded
 the following beliefs in connection with the manufacture of curare
 (wurali) poison:
 
@@ -673,13 +673,13 @@ house, to rest it on the ground every few yards. For, say the Indians, a
 bird wounded by a poisoned dart will fly only as far as the water, with
 which the poison was made, was carried without rest" (IT, 311).
 
-   <span id="pp_263"></span>**263.**[\*](#pp_263) There would appear to
+   <span id="pp_263"></span>**263.**[\*](#pp_263.md) There would appear to
 be some intimate relationship between an individual and his personal
-name (cf. Sects. [*124*](aflg08.htm#pp_124),
-[*125*](aflg08.htm#pp_125)), of such nature that the very mention of it
+name (cf. Sects. [*124*](aflg08.htm#pp_124.md),
+[*125*](aflg08.htm#pp_125).md), of such nature that the very mention of it
 in his presence would be fraught with serious consequences; neither, as
-in the case of spirits ([Sect. *172*](aflg11.htm#pp_172)), may he be
-pointed at, or trodden over ([Sect. *220*](aflg14.htm#pp_220)). The name
+in the case of spirits ([Sect. *172*](aflg11.htm#pp_172).md), may he be
+pointed at, or trodden over ([Sect. *220*](aflg14.htm#pp_220).md). The name
 is deemed to be part and parcel of the individual, and the mention of it
 under those circumstances would put him in the power, as it were, of the
 person speaking. This rule held good for both Mainland (KG, <span
@@ -703,7 +703,7 @@ name of the deceased must not be mentioned.
  
 
 <span id="story_106"></span><span
-id="pp_263A"></span>**263A.**[\*](#pp_263A) H<span
+id="pp_263A"></span>**263A.**[\*](#pp_263A.md) H<span
 class="small">ONEY-BEE AND THE</span> S<span class="small">WEET</span>
 D<span class="small">RINKS</span> (W)
 
@@ -738,7 +738,7 @@ D<span class="small">RINKS</span> (W)
 > climbing up, and cutting the honey out of, the tree, and having to
 > clean it before they can use it for sweetening purposes.
 
-   <span id="pp_264"></span>**264.**[\*](#pp_264) Among the Pomeroon
+   <span id="pp_264"></span>**264.**[\*](#pp_264.md) Among the Pomeroon
 Arawaks the mother always gives the name first to her child,
 independently of the piai, who bestows one subsequently. It is said that
 friends, brothers, and sisters may call them by these names, which stick
@@ -795,11 +795,11 @@ taken from their ancestors or from various trees which grow on the
 islands, or from something that has happened to the father at the time
 of his wife's pregnancy, or during her lying-in (RoP, 552-3). A
 convalescent patient may start life afresh with a new name ([Sect.
-*305*](aflg17.htm#pp_305)).
+*305*](aflg17.htm#pp_305).md).
 
-   <span id="pp_265"></span>**265.**[\*](#pp_265) The circumstances vary
+   <span id="pp_265"></span>**265.**[\*](#pp_265.md) The circumstances vary
 under which the name already given may be changed. As already mentioned
-([Sect. *264*](aflg15.htm#pp_264)), this was the case with the Arawaks
+([Sect. *264*](aflg15.htm#pp_264).md), this was the case with the Arawaks
 on recovery from prolonged sickness. On the Carib Islands the names
 given to the male children shortly after birth were not retained
 throughout life; they changed them when old enough to be received into
@@ -816,28 +816,28 @@ exchanged names with him, which is the Indian pledge of perpetual amity"
 Arawaks and Warraus, among members of the same sex it is of common
 occurrence as proof of friendship and affection not to exchange names,
 but for the younger to adopt the name of the older one ([Sect.
-*120*](aflg08.htm#pp_120)). The Island Caribs have also in their
+*120*](aflg08.htm#pp_120).md). The Island Caribs have also in their
 drinking bouts or on occasions of public rejoicing, some one appointed
 to give them a new name, whom they address after having drunk well. "I
 wish to be named. Name me!" one will say, whereupon the other
 immediately satisfies him and is rewarded with a present—a
 quartz-crystal, or other article (RoP, 552-3).
 
-   <span id="pp_266"></span>**266.**[\*](#pp_266) With a view to their
+   <span id="pp_266"></span>**266.**[\*](#pp_266.md) With a view to their
 becoming good hunting dogs, the Warraus name their canine friends after
 those animals which are known to hunt well, as certain ants and bees
 which catch plenty of other prey; after warribisi ([Sect.
-*88*](aflg06.htm#pp_88)), a big wasp that lays its eggs in the ground
+*88*](aflg06.htm#pp_88).md), a big wasp that lays its eggs in the ground
 and brings various worms from the bush for its young, when hatched, to
 feed on; after sakaro and buruma, two crabs which run quickly and hunt
 well; after the giant anteater, the shark, and the small wild dog
 (karisiri), all of these possessing undoubtedly good hunting qualities.
 
-   <span id="pp_266A"></span>**266A.**[\*](#pp_266A) Special words, or
+   <span id="pp_266A"></span>**266A.**[\*](#pp_266A.md) Special words, or
 paraphrases, have to be used under particular circumstances; thus, in
 traveling over water—river or sea—the use of certain names otherwise
 employed in ordinary every-day conversation, is absolutely forbidden
-([Sect. *194*](aflg12.htm#pp_194)). On the Aiary River (Rio Negro) the
+([Sect. *194*](aflg12.htm#pp_194)). On the Aiary River (Rio Negro.md) the
 villages have secret names which are not mentioned except under pressure
 (KG, <span class="small">I</span>, 184). There are some few words which
 may be employed only according to the sex speaking, or spoken to. Thus,
@@ -858,7 +858,7 @@ situation of the party addressed (HiC, 248).
 
 ------------------------------------------------------------------------
 
-[Next](aflg16)
+[Next](aflg16.md)
 
 ------------------------------------------------------------------------
 
@@ -866,14 +866,14 @@ situation of the party addressed (HiC, 248).
 
 <span id="footnotes_page_292">p. 292</span>
 
-<span id="page_292_note_1"></span>[1](#page_292_fr_1) When a Warrau is
+<span id="page_292_note_1"></span>[1](#page_292_fr_1.md) When a Warrau is
 very very tired he gives a whistle, something like *ho-ho´-wi!
 ho-ho´-wi!* to catch his breath. The Indians say the old people do it
 still.
 
 <span id="footnotes_page_293">p. 293</span>
 
-<span id="page_293_note_1"></span>[1](#page_293_fr_1) This idea of
+<span id="page_293_note_1"></span>[1](#page_293_fr_1.md) This idea of
 throwing peppers into a fire appears to have been an old trick. It is
 stated by Captain Jean-Pierre that, when the old Oyampis, of the upper
 Yary, Cayenne, wished to stop an enemy, they surrounded their village
@@ -883,7 +883,7 @@ sneezing (Cr, 271).
 
 <span id="footnotes_page_294">p. 294</span>
 
-<span id="page_294_note_1"></span>[1](#page_294_fr_1) It is only proper
+<span id="page_294_note_1"></span>[1](#page_294_fr_1.md) It is only proper
 to state that Crévaux gives it as his opinion that the object of these
 boucans is to placate (*calmer*) Yolock, the Bush Spirit, who can
 prevent them killing game. With this opinion, however, I am unable to
@@ -893,13 +893,13 @@ expect the slaughtered monkeys would do their best to inflict.—W. E. R.
 
 <span id="footnotes_page_298">p. 298</span>
 
-<span id="page_298_note_1"></span>[1](#page_298_fr_1) The alligator
+<span id="page_298_note_1"></span>[1](#page_298_fr_1.md) The alligator
 skull stuck up in the Carib houses serves a different purpose; it keeps
 away the Bush Spirit, the Yurokon.
 
 <span id="footnotes_page_303">p. 303</span>
 
-<span id="page_303_note_1"></span>[1](#page_303_fr_1) The vessel in
+<span id="page_303_note_1"></span>[1](#page_303_fr_1.md) The vessel in
 which the staple Indian dish known as "pepper-pot" is daily warmed,
 cooked, and added to from time to time is never cleaned.
 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff52)  [Next](fff54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff52)  [Next](fff54.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -544,7 +544,7 @@ the God and Father and Lord of our Lord Jesus Christ, that God may
 vouchsafe to you that Christ should dwell in your inner man'--that is to
 say, the psychic and not the bodily man--'that ye may be strong to know
 what is the Depth 'that is, the Father of the universals--'and what is
-the Breadth'--that is, the Cross, the Boundary [of](errata.htm#36) the
+the Breadth'--that is, the Cross, the Boundary [of](errata.htm#36.md) the
 Plērōma--'and what is the Greatness'--that is, the Plērōma of the æons.
 Wherefore 'the psychic man,' says \[Paul elsewhere in his first *Letter
 to the Corinthians*\], 'does not receive the things of the Spirit of
@@ -697,4 +697,4 @@ his number-symbolism.
 
 ------------------------------------------------------------------------
 
-[Next: The Number-Symbolism of Marcus](fff54)
+[Next: The Number-Symbolism of Marcus](fff54.md)

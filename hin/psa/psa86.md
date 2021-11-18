@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa85)  [Next](psa87) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa85)  [Next](psa87.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,9 +92,9 @@ Shree Shookdeo Jee said, Raja! when Huri had thus spoken, Raja Buli
 brought and gave him the six children, and placed before him many
 presents; then Krishnù came thence with his brothers to his mother; who,
 on seeing her sons, was highly delighted; when the
-[inhabitants](errata.htm#25) heard this, there was joy throughout the
+[inhabitants](errata.htm#25.md) heard this, there was joy throughout the
 city, and the curse pronounced upon the sons terminated.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXVI](psa87)
+[Next: Chapter LXXXVI](psa87.md)

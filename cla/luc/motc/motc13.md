@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc12)  [Next](motc14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc12)  [Next](motc14.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ by a passion for Pagis.
 <span id="img_11400"></span>
 
 [![](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)
+Click to enlarge](img/11400.jpg.md)
 
 <span id="page_115">p. 115</span>
 
@@ -154,4 +154,4 @@ Typhaina! What joy must lie buried between them!
 
 ------------------------------------------------------------------------
 
-[Next: A Poor Sailor's Love](motc14)
+[Next: A Poor Sailor's Love](motc14.md)

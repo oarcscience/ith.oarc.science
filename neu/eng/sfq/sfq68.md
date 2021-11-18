@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq67)  [Next](sfq69) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq67)  [Next](sfq69.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ left. Her heart burned with
 <span id="img_32600"></span>
 
 [![](tn/32600.jpg)  
-Click to enlarge](img/32600.jpg)
+Click to enlarge](img/32600.jpg.md)
 
 rage to punish the pride of that woman who had pent her lord in a base
 prison, and had tarnished his great honour with such infamous disgrace.
@@ -230,4 +230,4 @@ Thus the Warrior Princess slew the two wicked sons of Goodman Guile.
 
 ------------------------------------------------------------------------
 
-[Next: The Battle of Queen Radigund and Britomart](sfq69)
+[Next: The Battle of Queen Radigund and Britomart](sfq69.md)

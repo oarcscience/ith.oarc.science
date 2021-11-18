@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe315)  [Next](prwe317) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe315)  [Next](prwe317.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ taken away."
 
 ------------------------------------------------------------------------
 
-[Next: Woeful Moor, and Bodrigan's Leap](prwe317)
+[Next: Woeful Moor, and Bodrigan's Leap](prwe317.md)

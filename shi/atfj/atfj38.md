@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj37)  [Next](atfj39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj37)  [Next](atfj39.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_41"></span> <span align="CENTER"> [![41. The Sentry Finds
 Watanabe Tatsuzo on the Pine Branch](tn/41.jpg)  
-Click to enlarge](img/41.jpg)  
+Click to enlarge](img/41.jpg.md)  
 41. The Sentry Finds Watanabe Tatsuzo on the Pine Branch  
 </span>
 
 ### XXXVI
 
-### A STORMY NIGHT'S TRAGEDY <span id="fr_39"></span>[1](#fn_39)
+### A STORMY NIGHT'S TRAGEDY <span id="fr_39"></span>[1](#fn_39.md)
 
 ALL who have read anything of Japanese history must have heard of Saigo
 Takamori, who lived between the years 1827 and 1877. He was a great
@@ -252,7 +252,7 @@ death.' So saying, Saigo bowed to Watanabe, and then, turning to the
 guard, said:
 
 'Take the prisoner to the Sambon matsu, <span
-id="fr_40"></span>[1](#fn_40) and behead him as soon as the day dawns.'
+id="fr_40"></span>[1](#fn_40.md) and behead him as soon as the day dawns.'
 
 Watanabe Tatsuzo was led forth and executed accordingly.
 
@@ -270,15 +270,15 @@ Watanabe Tatsuzo is said to have been buried.
 
 ### Footnotes
 
-<span id="fn_39"></span>[223:1](atfj38.htm#fr_39) Fukuga told me this
+<span id="fn_39"></span>[223:1](atfj38.htm#fr_39.md) Fukuga told me this
 story and vouches for its accuracy.
 
-<span id="fn_40"></span>[230:1](atfj38.htm#fr_40) Three Pines.
+<span id="fn_40"></span>[230:1](atfj38.htm#fr_40.md) Three Pines.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XXXVII. The Kakemono Ghost of Aki Province](atfj39)
+[Next: XXXVII. The Kakemono Ghost of Aki Province](atfj39.md)
 
 </div>

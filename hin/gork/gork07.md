@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork06)  [Next](gork08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork06)  [Next](gork08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -19,14 +19,14 @@ Intangible Textual Heritage
 
 ### CHAPTER IV
 
-### VISIT TO THE PANDIT VIDYÂSÂGARA <span id="fr_21"></span>[\*](#fn_21)
+### VISIT TO THE PANDIT VIDYÂSÂGARA <span id="fr_21"></span>[\*](#fn_21.md)
 
 <span class="smallcaps">Srî Râmakrishna</span> desired to meet Pandit
 Iswara Chandra Vidyâsâgara. One afternoon he was seen coming in a
 carriage with some of his disciples all the way from Dakshineswara, a
 distance of about six miles, to pay a visit to the Pandit at Bâdurbagan
 in Calcutta. As the carriage passed before Râjâ Râmmohun Roy's <span
-id="fr_22"></span>[†](#fn_22)
+id="fr_22"></span>[†](#fn_22.md)
 
 <span id="page_100">p. 100</span>
 
@@ -62,7 +62,7 @@ After a while, taking his seat on a bench, the Bhagavân in his
 semiconscious state uttered, "I wish some water to drink." Thereupon
 Vidyâsâgara inquired of a disciple whether the Bhagavân would also like
 some delicious sweetmeats which he had just received from Burdwân. <span
-id="fr_23"></span>[\*](#fn_23) Finding no objection, the Pandit went
+id="fr_23"></span>[\*](#fn_23.md) Finding no objection, the Pandit went
 into his inner apartments and returned with water and the sweetmeats. He
 placed them
 
@@ -74,7 +74,7 @@ the house; do not trouble about him."
 
 The Bhagavân then said, referring to a young man who was sitting before
 him: "Yes, this young man is good. He is like the river Falgu, <span
-id="fr_24"></span>[\*](#fn_24) covered with dry sand, but if you dig a
+id="fr_24"></span>[\*](#fn_24.md) covered with dry sand, but if you dig a
 little you will find a strong invisible current underneath. He has a
 spiritual current inside, although he does not show it on the outside."
 
@@ -220,7 +220,7 @@ thought of
 small minds. They think that they have known the Absolute, not realizing
 that Brahman is beyond the reach of mind and thought. However great the
 mind may be it cannot fully comprehend the Absolute Brahman.
-Sukadeva <span id="fr_25"></span>[\*](#fn_25) and other great spiritual
+Sukadeva <span id="fr_25"></span>[\*](#fn_25.md) and other great spiritual
 teachers may be compared to large ants. They could carry in their mouth
 at utmost eight or ten grains from the mountain of sugar. It is as
 absurd to say that Brahman has been fully comprehended by a great man as
@@ -434,7 +434,7 @@ struggle to realize God." The mind of a man (whether a saint or a
 householder) must be free from all attachment to the world. Then and
 then alone the heart will be purified and the Absolute will be realized.
 
-Chaitanya Deva <span id="fr_26"></span>[\*](#fn_26) (God Incarnate of
+Chaitanya Deva <span id="fr_26"></span>[\*](#fn_26.md) (God Incarnate of
 Nuddea),
 
 <span id="page_117">p. 117</span>
@@ -452,7 +452,7 @@ before him. This Divine vision brings tears of love to my eyes."
 Srî Râmakrishna continued: You may ask why does a Vijnâni prefer to have
 Bhakti (love and devotion)? The answer is—Because it is difficult for
 one to be free from the sense of "I." In the state of *Nirvikalpa
-Samâdhi*, <span id="fr_27"></span>[\*](#fn_27) it may vanish for the
+Samâdhi*, <span id="fr_27"></span>[\*](#fn_27.md) it may vanish for the
 time being, but it comes back again; while for ordinary individuals it
 is almost impossible to eliminate this sense of "I, me and mine."
 However many times you may cut
@@ -622,7 +622,7 @@ else may know it?
 4\. For She giveth birth unto the universe; think how vast She is.  
 She dwelleth within all things as the will omnipotent.
 
-5\. The Psalmist (Prasâd) <span id="fr_28"></span>[\*](#fn_28) singeth:
+5\. The Psalmist (Prasâd) <span id="fr_28"></span>[\*](#fn_28.md) singeth:
 "Mortals
 
 </div>
@@ -680,11 +680,11 @@ separating Lankâ (Ceylon) from the mainland of India. But as if
 <span id="page_127">p. 127</span>
 
 to prove the majesty, the omnipotence of faith, He gave it to His
-Bhakta, the great Hanumân, <span id="fr_29"></span>[\*](#fn_29) to jump
+Bhakta, the great Hanumân, <span id="fr_29"></span>[\*](#fn_29.md) to jump
 across the ocean by the unaided power of faith.
 
 It is also told that once a Bhakta, a friend of Vibhishana, <span
-id="fr_30"></span>[†](#fn_30) wanted to go across the sea. Vibhishana,
+id="fr_30"></span>[†](#fn_30.md) wanted to go across the sea. Vibhishana,
 to whom he appealed for help, had the name of Râma (God) written on a
 leaf, without the knowledge of his friend. He then said to the Bhakta:
 "Take this and be careful that you have it tied to the end of your
@@ -704,11 +704,11 @@ he was drowned.
 
 Those who belong to this class of Jivas cannot easily have faith in God,
 but those who are born with Divine qualities possess the highest faith
-naturally. When Prahlâda <span id="fr_31"></span>[\*](#fn_31) tried to
+naturally. When Prahlâda <span id="fr_31"></span>[\*](#fn_31.md) tried to
 write the first letter of the Sanskrit alphabet, "K," it brought up
 before his mind the name Krishna, and he began to cry. The natural
 tendency of a Jiva is to doubt and to become sceptical. Hâzrâ <span
-id="fr_32"></span>[†](#fn_32) will not believe in the truth that Brahman
+id="fr_32"></span>[†](#fn_32.md) will not believe in the truth that Brahman
 and Divine Mother, the Absolute and His Energy, are one and the same.
 Yet, faith is omnipotent. Before it all the powers of nature shrink and
 give way. It carries one over seas and mountains with perfect ease. Sin
@@ -748,7 +748,7 @@ self-surrender. It
 
 is exceedingly difficult, especially in this age, for a man with his
 limited faculties to come to my Mother through Vichâra
-([discrimination](errata.htm#3) of the Real Brahman from the unreal
+([discrimination](errata.htm#3.md) of the Real Brahman from the unreal
 phenomenal universe), unaided by the Divine Person. Verily has Prasâd,
 the "Sweet Psalmist" of Bengal, laid stress on this difficulty in his
 well-known song:
@@ -951,7 +951,7 @@ it yet. If you once realize this secret treasure your worldly duties
 will vanish and you will not care for other works, just as a mother
 loves nothing better than to fondle and kiss her new-born baby. Go
 onward and do not stop in one place. Remember the parable <span
-id="fr_33"></span>[\*](#fn_33) of the wood-cutter and stop not until the
+id="fr_33"></span>[\*](#fn_33.md) of the wood-cutter and stop not until the
 goal is reached. The goal is the realization of God. By His grace His
 true
 
@@ -1019,7 +1019,7 @@ Bhagavân than he fell at His feet with his head touching the ground.
 
 The Bhagavân said: Is it you, Balarâm? How is it that I find you here?
 
-Balarâm <span id="fr_34"></span>[\*](#fn_34) replied, smiling: O Revered
+Balarâm <span id="fr_34"></span>[\*](#fn_34.md) replied, smiling: O Revered
 Sir, I have been waiting for some time here at the gate to see Thee.
 
 Bhagavân: Why did you not come in?
@@ -1055,14 +1055,14 @@ them the enigma of the universe!
 
 ### Footnotes
 
-<span id="fn_21"></span>[99:\*](gork07.htm#fr_21) Pandit Iswara Chandra
+<span id="fn_21"></span>[99:\*](gork07.htm#fr_21.md) Pandit Iswara Chandra
 Vidyâsâgara was the greatest Hindu scholar of his time in Calcutta. He
 was a true philanthropist, a patriot, an educationalist, and the founder
 of the Metropolitan Institution in Calcutta. The word Vidyâsâgara is a
 Sanskrit title which he acquired on account of his vast erudition. It
 means "ocean of knowledge."
 
-<span id="fn_22"></span>[99:†](gork07.htm#fr_22) Râjâ Râmmohun Roy was a
+<span id="fn_22"></span>[99:†](gork07.htm#fr_22.md) Râjâ Râmmohun Roy was a
 great Hindu reformer who lived between 1774 and 7833 A.D. He was the
 first earnest-minded investigator of the science of comparative religion
 that the world has produced. He studied the Vedas in Sanskrit and the
@@ -1074,59 +1074,59 @@ known as the "Brâhmo Samâj." He was the first Hindu Brahmin of rank and
 influence who visited Paris and England. After nearly two years’ stay in
 England Râjâ Râmmohun Roy died at Bristol in 1833.
 
-<span id="fn_23"></span>[101:\*](gork07.htm#fr_23) Burdwân, an old city
+<span id="fn_23"></span>[101:\*](gork07.htm#fr_23.md) Burdwân, an old city
 in Bengal, famous for delicious sweetmeats.
 
-<span id="fn_24"></span>[102:\*](gork07.htm#fr_24) Falgu is the name of
+<span id="fn_24"></span>[102:\*](gork07.htm#fr_24.md) Falgu is the name of
 a sacred river near the holy city of Gayâ in India. It was on the hank
 of this river that Buddha attained to the highest enlightenment. Its bed
 is covered with sand like a desert, but a strong current of pure water
 flows underneath.
 
-<span id="fn_25"></span>[108:\*](gork07.htm#fr_25) Sukadeva was the son
+<span id="fn_25"></span>[108:\*](gork07.htm#fr_25.md) Sukadeva was the son
 of Vyâsâ, the author of the Vedanta Sutras and many of the Purânas. He
 was born with the *Brahma Jnâna*, or the knowledge of the Absolute. He,
 in his childhood, renounced the world with all its pleasures and
 attractions. He is regarded by the Hindus as the Ideal Jnâni, or Knower
 of Brahman.
 
-<span id="fn_26"></span>[116:\*](gork07.htm#fr_26) Chaitanya Deva, see
-note page [7](gork03.htm#page_7).
+<span id="fn_26"></span>[116:\*](gork07.htm#fr_26.md) Chaitanya Deva, see
+note page [7](gork03.htm#page_7.md).
 
-<span id="fn_27"></span>[117:\*](gork07.htm#fr_27) Nirvikalpa Samâdhi is
+<span id="fn_27"></span>[117:\*](gork07.htm#fr_27.md) Nirvikalpa Samâdhi is
 described in the Râja Yoga as the highest state of Samâdhi in which the
 soul rises above the sense of "I" and the plane of all thoughts, ideas
 and emotions, and reaches the realm of the Absolute.
 
-<span id="fn_28"></span>[124:\*](gork07.htm#fr_28) Prasâd is the
+<span id="fn_28"></span>[124:\*](gork07.htm#fr_28.md) Prasâd is the
 abbreviated form of the full name of the Hindu Psalmist, Râma Prasâd
 Sen. He was a great Yogi and a true devotee of the Divine Mother of the
 universe. His songs have deep spiritual meanings and Râmakrishna was
 very fond of them.
 
-<span id="fn_29"></span>[127:\*](gork07.htm#fr_29) Hanumân was a great
+<span id="fn_29"></span>[127:\*](gork07.htm#fr_29.md) Hanumân was a great
 devotee of Râma who, by the power of his absolute faith in the Lord,
 jumped across the ocean from India to Lanka. He is regarded by the
 Hindus as the Ideal Bhakta of India.
 
-<span id="fn_30"></span>[127:†](gork07.htm#fr_30) Vibhishana was the
+<span id="fn_30"></span>[127:†](gork07.htm#fr_30.md) Vibhishana was the
 brother of Râvana, the King of Lankâ, (Ceylon) who was defeated by Râma,
 as described in the Hindu epic Râmâyana. He became a devoted disciple of
 Râma and followed His instructions as long as he lived.
 
-<span id="fn_31"></span>[128:\*](gork07.htm#fr_31) Prahlâda was a great
+<span id="fn_31"></span>[128:\*](gork07.htm#fr_31.md) Prahlâda was a great
 Bhakta who, front his childhood, showed his extreme faith, love and
 devotion for the Supreme Lord of the universe. He is the Ideal Bhakta
 among the Hindus. His life is described in the Purânas.
 
-<span id="fn_32"></span>[128:†](gork07.htm#fr_32) Hâzrâ was a moral
+<span id="fn_32"></span>[128:†](gork07.htm#fr_32.md) Hâzrâ was a moral
 householder who afterwards devoted his life in search after God. He
 became an ascetic and preferred to travel along the path of Jnâna.
 
-<span id="fn_33"></span>[137:\*](gork07.htm#fr_33) See page
-[243](gork11.htm#page_243).
+<span id="fn_33"></span>[137:\*](gork07.htm#fr_33.md) See page
+[243](gork11.htm#page_243.md).
 
-<span id="fn_34"></span>[140:\*](gork07.htm#fr_34) Balarâm Basu was a
+<span id="fn_34"></span>[140:\*](gork07.htm#fr_34.md) Balarâm Basu was a
 Hindu Zemindar in Calcutta. He was a true householder disciple of
 Râmakrishna. His house was blessed many a time by a visit of Râmakrishna
 and His beloved disciples. His whole family regard Râmakrishna as the
@@ -1134,4 +1134,4 @@ Divine Incarnation in a human form. See Chapter XII.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Day On the River With Keshab Chunder Sen](gork08)
+[Next: Chapter V. Day On the River With Keshab Chunder Sen](gork08.md)

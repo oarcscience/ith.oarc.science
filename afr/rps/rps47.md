@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps46)  [Next](rps48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps46)  [Next](rps48.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Foundationer Queen Lula May Fitz Balintine Pettersburgh, K.A.Q.O.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 46. Registered Library](rps48)
+[Next: Chapter 46. Registered Library](rps48.md)

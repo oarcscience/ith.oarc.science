@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre40)  [Next](gre42) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre40)  [Next](gre42.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ other; nor were there other tidings through the winter.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXVII: Olaf the Saint, King in Norway; the slaying of
-Thorbiorn Tardy; Grettir goes to Norway](gre42)
+Thorbiorn Tardy; Grettir goes to Norway](gre42.md)

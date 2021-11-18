@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl152)  [Next](cohl154) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl152)  [Next](cohl154.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ water, hoping thereby to cure him.
 
 ------------------------------------------------------------------------
 
-[Next: Society of Mystic Animals](cohl154)
+[Next: Society of Mystic Animals](cohl154.md)

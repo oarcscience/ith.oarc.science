@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf16)  [Next](btf18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf16)  [Next](btf18.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ The Old Crow & The Young Crow
 
 ------------------------------------------------------------------------
 
-[Next: Riddles](btf18)
+[Next: Riddles](btf18.md)

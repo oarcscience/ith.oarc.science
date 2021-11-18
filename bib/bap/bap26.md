@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap25) 
-[Next](bap27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap25.md) 
+[Next](bap27.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ God sent also upon
 
 them 10 plagues and smote them. Now these were the plagues, namely,
 blood, and frogs, and all manner of flies, <span
-id="fr_49"></span>[1](#fn_49) hail, and death of cattle, locusts and
+id="fr_49"></span>[1](#fn_49.md) hail, and death of cattle, locusts and
 gnats, and darkness that might be felt, and the death of the firstborn.
 
 |                 |
@@ -33,7 +33,7 @@ or are these the covenants which he made with our fathers saying: To
 your seed will I give the land wherein ye dwell? and now let him do with
 us that which seemeth good in his sight. 3. Then did the children of
 Israel sever their counsels into three divisions of counsels, <span
-id="fr_50"></span>[2](#fn_50) because of the fear of the time. For the
+id="fr_50"></span>[2](#fn_50.md) because of the fear of the time. For the
 tribe of Ruben and of Isachar and. of Zabulon and of Symeon said: Come,
 let us cast ourselves into the sea, for it is better for us to die in
 the water than to be slain of our enemies. And the tribe of Gad and of
@@ -54,7 +54,7 @@ the sea, and it shall be dried up. And when Moses did all this, God
 rebuked the sea, and the sea was dried up: the seas of waters stood
 still and the depths of the earth appeared, and the foundations of the
 dwelling-place were laid bare at the noise of the fear of God and at the
-breath of the anger of my Lord. <span id="fr_51"></span>[1](#fn_51)
+breath of the anger of my Lord. <span id="fr_51"></span>[1](#fn_51.md)
 
 6\. And Israel passed over on dry land in the midst of the sea. And the
 Egyptians saw and went on to pursue after them, and God hardened their
@@ -73,7 +73,7 @@ day.
 
 into the wilderness: forty years did he rain bread from heaven for them,
 and he brought them quails from the sea, and a well of water following
-them <span id="fr_52"></span>[2](#fn_52)
+them <span id="fr_52"></span>[2](#fn_52.md)
 
 <span id="page_106">p. 106</span>
 
@@ -84,19 +84,19 @@ and in a pillar of fire by night did he give light unto them.
 
 ### Footnotes
 
-<span id="fn_49"></span>[104:1](bap26.htm#fr_49) X. 1. *All manner of
-flies, pammixia*. See [p. 23](bap04.htm#page_23).
+<span id="fn_49"></span>[104:1](bap26.htm#fr_49.md) X. 1. *All manner of
+flies, pammixia*. See [p. 23](bap04.htm#page_23.md).
 
-<span id="fn_50"></span>[104:2](bap26.htm#fr_50) 3. The idea of the
+<span id="fn_50"></span>[104:2](bap26.htm#fr_50.md) 3. The idea of the
 divided counsels of the tribes comes from Deborah's song (Judges 5:15,
 15:16): "for the divisions of Reuben there were great searchings of
 heart." It appears in Jashar, but there four divisions are given.
 
-<span id="fn_51"></span>[105:1](bap26.htm#fr_51) 5. *The breath of the
+<span id="fn_51"></span>[105:1](bap26.htm#fr_51.md) 5. *The breath of the
 anger of my Lord*. This sudden adopting of the first person does not
 occur again. R omits *mei* here.
 
-<span id="fn_52"></span>[105:2](bap26.htm#fr_52) 7. *A well of water
+<span id="fn_52"></span>[105:2](bap26.htm#fr_52.md) 7. *A well of water
 following them*. Cf. 1 Cor. 10:4, and XI. 15 of our text, which agrees
 very closely with the wording of the Targum of Onkelos on Numbers. See
 Thackeray, *St. Paul and Contemporary Jewish Thought*, p. 206, etc., on
@@ -115,4 +115,4 @@ extent. See also Driver in *Expositor*, 1889, I. 15.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](bap27)
+[Next: Chapter XI](bap27.md)

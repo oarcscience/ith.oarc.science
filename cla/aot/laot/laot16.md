@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot15) 
-[Next](laot17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot15.md) 
+[Next](laot17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ and the whole subject of such divination as transcending human nature,
 but I do not even know if anyone has these gifts; but I found the
 treatise on sacrifices in several cities, and in the houses of several
 learned men; moreover, if anyone should translate <span
-id="fr_7"></span>[1](#fn_7) it, he would find it to be a grave and
+id="fr_7"></span>[1](#fn_7.md) it, he would find it to be a grave and
 dignified composition, and one that rings of the author's personality.
 And Damis says that
 
@@ -254,10 +254,10 @@ question.
 
 ### Footnotes
 
-<span id="fn_7"></span>[1:321:1](laot16.htm#fr_7) In Bk. IV. ch. 19, we
+<span id="fn_7"></span>[1:321:1](laot16.htm#fr_7.md) In Bk. IV. ch. 19, we
 are told that this book was written in the Cappadocian tongue. Hence the
 need of translation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 51-58](laot17)
+[Next: Chapters 51-58](laot17.md)

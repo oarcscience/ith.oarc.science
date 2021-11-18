@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](kg2)  [Next](ch2) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](kg2)  [Next](ch2.md) 
 
 ------------------------------------------------------------------------
 
@@ -3471,4 +3471,4 @@ me nga wa i a ia, i a Iharaira, i nga rangatiratanga katoa o nga whenua.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Chronicles](ch2)
+[Next: 2 Chronicles](ch2.md)

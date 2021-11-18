@@ -9,15 +9,15 @@ titleh1: "The Works of Virgil"
 <span class="c_da"></span>
 
 <span class="c_e"> <span class="c_t">[The Aeneid of
-Virgil](aen/index)</span>  
+Virgil](aen/index.md)</span>  
 *English and Latin* translated by <span class="c_a">John Dryden</span>
 \[<span class="c_d">1697</span>\]. </span>
 
-<span class="c_e"> <span class="c_t">[The Eclogues](ecl/index)</span>  
+<span class="c_e"> <span class="c_t">[The Eclogues](ecl/index.md)</span>  
 *English and Latin* translated by <span class="c_a">J.W. MacKail</span>
 \[<span class="c_d">1934</span>\]. </span>
 
-<span class="c_e"> <span class="c_t">[The Georgics](geo/index)</span>  
+<span class="c_e"> <span class="c_t">[The Georgics](geo/index.md)</span>  
 *English and Latin* translated by <span class="c_a">J.W. MacKail</span>
 \[<span class="c_d">1934</span>\]. </span>
 
@@ -28,7 +28,7 @@ Virgil](aen/index)</span>
 Publius Vergilius Maro was born on the 15th of October, 70 B.C.E., near
 Mantua. He is primarily known as the author of the Aeneid, the epic poem
 which links the birth of Rome to the Trojan war, and thus to the
-[Homeric Cycle](../homer/index). The Aeneid is considered the pinnacle
+[Homeric Cycle](../homer/index.md). The Aeneid is considered the pinnacle
 of classical Latin literature. His heroic and tragic characters such as
 Aeneas, and the Queen of Carthage, Dido, are memorable; the poetics of
 the Aeneid are exceptional, and the text has been used for generations
@@ -42,7 +42,7 @@ not show up in any contemporary accounts and he apparently had few
 intimate friendships. However, he was known as a virtuous and modest
 man, and although he gained vast public recognition during his lifetime,
 he is described as being embarrassed by his celebrity status on his rare
-visits to Rome. Unlike other poets such as [Ovid](../ovid/index), who
+visits to Rome. Unlike other poets such as [Ovid](../ovid/index.md), who
 wrote about intimate details of his personal life, Virgils' poetry was
 on topics of broad scale, from agriculture to nation building, so we
 know little about his internal life from his poems.
@@ -54,7 +54,7 @@ genuit; Calabri rapuere; tenet nunc Parthenope. Cecini pascua, rura,
 duces* (Mantua gave birth to me, the Calabrians took me, now Naples
 holds me; I sang of pastures \[the Eclogues\], country \[the Georgics\]
 and leaders \[the Aeneiad\]). Virgil is widely acknowledged as a poetic
-genius. St. Augustine admired him, and [Dante](../../chr/dante/index)
+genius. St. Augustine admired him, and [Dante](../../chr/dante/index.md)
 considered Virgil a primary inspiration for his own poetic
 world-building exercise; symbolically, Virgil is Dante's escort through
 the Inferno. Of course Aeneas made his own visit to the underworld...

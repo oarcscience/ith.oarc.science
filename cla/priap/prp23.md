@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp22)  [Next](prp24) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp22)  [Next](prp24.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ punishment.\]
 
 ------------------------------------------------------------------------
 
-[Next: 24. This staff of office cut from tree as 'tis,](prp24)
+[Next: 24. This staff of office cut from tree as 'tis,](prp24.md)

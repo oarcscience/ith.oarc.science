@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby02)  [Next](piby04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby02)  [Next](piby04.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ HOUSE OF ATHLYI
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. The Creation](piby04)
+[Next: Chapter 1. The Creation](piby04.md)

@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Christian
-Articles](../../chr/etc/index) [Angelus Silesius](../../chr/sil/index)
+Heritage](../../index) [Journals](../index.md) [Christian
+Articles](../../chr/etc/index) [Angelus Silesius](../../chr/sil/index.md)
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ has been made. It was followed by another pious effusion entitled
 *Heilige Seelenlust oder geistliche Hirtenlust der in ihren Jesum
 verliebten Psyche*. He is also the author of several church songs which
 breathe fervor and piety.<span
-id="page_293_fr_*"></span>[\*](#page_293_note_*) Like Newman's "Lead,
+id="page_293_fr_*"></span>[\*](#page_293_note_*.md) Like Newman's "Lead,
 <span id="page_294">p. 294</span> kindly Light!" these have become the
 common property of Roman Catholic and Protestant churches. Some of his
 songs been translated into English, notably, "Earth has nothing sweet
@@ -466,8 +466,8 @@ The essence eke, indeed.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Christian Articles](../../chr/etc/index) [Angelus
-Silesius](../../chr/sil/index)
+[Journals](../index) [Christian Articles](../../chr/etc/index.md) [Angelus
+Silesius](../../chr/sil/index.md)
 
 ------------------------------------------------------------------------
 
@@ -475,7 +475,7 @@ Silesius](../../chr/sil/index)
 
 <span id="footnotes_page_293">p. 293</span>
 
-<span id="page_293_note_*"></span>[\*](#page_293_fr_*) The two best
+<span id="page_293_note_*"></span>[\*](#page_293_fr_*.md) The two best
 known songs of his which are still used are:
 
 <table data-align="center" data-cellpadding="10">

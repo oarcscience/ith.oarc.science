@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth008)  [Next](toth010) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth008)  [Next](toth010.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 6. THE SNAKE MYTH. <span id="fr_23"></span>[1](#fn_23)
+## 6. THE SNAKE MYTH. <span id="fr_23"></span>[1](#fn_23.md)
 
 At Tokóonavi, north of the Grand Canyon, lived people who were then not
 yet Snake people. They lived close to the bank of the river. The chief's
@@ -73,7 +73,7 @@ a test: any one not being able to do that was driven off. Spider Woman
 had informed the young man about this test, so he was posted. When he
 commenced to smoke she whispered to him: "Put me behind you." This he
 did in an unobserved manner, so when he swallowed the smoke she
-immediately drew the smoke from him <span id="fr_24"></span>[1](#fn_24)
+immediately drew the smoke from him <span id="fr_24"></span>[1](#fn_24.md)
 and blew it away, and hence he did not get dizzy. The men who did not
 observe the trick were pleased and said to him: ''All right, you are
 strong; you are certainly some one. Thank you. Your heart is good: you
@@ -205,7 +205,7 @@ increasing.
 
 They now approached the home of the young man, and the latter was very
 anxious to get home in order to see the contents, of the sack, so they
-traveled on. <span id="fr_25"></span>[1](#fn_25) When they had nearly
+traveled on. <span id="fr_25"></span>[1](#fn_25.md) When they had nearly
 one more day's travel to make the sack had become full. During the last
 night the man opened the sack, although his wife remonstrated most
 energetically. He took out many of the finest beads and shells and
@@ -270,15 +270,15 @@ regularly,
 
 ### Footnotes
 
-<span id="fn_23"></span>[30:1](toth009.htm#fr_23) Told by Lomávântiwa
+<span id="fn_23"></span>[30:1](toth009.htm#fr_23.md) Told by Lomávântiwa
 (Shupaúlavi).
 
-<span id="fn_24"></span>[31:1](toth009.htm#fr_24) Through the rectum.
+<span id="fn_24"></span>[31:1](toth009.htm#fr_24.md) Through the rectum.
 
-<span id="fn_25"></span>[34:1](toth009.htm#fr_25) The woman was
+<span id="fn_25"></span>[34:1](toth009.htm#fr_25.md) The woman was
 pregnant--"quickly, like snakes." The man wanted to cohabit with her but
 she forbade him.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Snake Myth.](toth010)
+[Next: 7. The Snake Myth.](toth010.md)

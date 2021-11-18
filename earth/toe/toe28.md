@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe27)  [Next](toe29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe27)  [Next](toe29.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ to Italy, hoping, that, even independent of the illustration hereby
 given to the theory, the reader will be pleased to see such a picture of
 that country as will either excite new ideas in a person who has not
 seen such scenes, or call up those which it is proper for a naturalist
-to have <span id="fr_54"></span>[4](#fn_54).
+to have <span id="fr_54"></span>[4](#fn_54.md).
 
 «Nous allons donner les observations que nous avons faites, en montant
 le Saint Gothard par le côté septentrional, et nous terminerons ce que
@@ -266,7 +266,7 @@ de roche est aussi haute que celle de granit, et composée, dans des
 proportions différentes, des mêmes parties intégrantes que le granit;
 n'a-t-elle pas été apposée et formée contre celle de granit, qui
 assurément doit être plus ancienne, puisqu'elle est enveloppée par la
-roche schisteuse <span id="fr_55"></span>[5](#fn_55)?
+roche schisteuse <span id="fr_55"></span>[5](#fn_55.md)?
 
 Ce vallon, d'une bonne lieue de longueur sur moitié de largeur, peut
 occasionner bien des réflexions; nous avons été obligé de passer
@@ -441,7 +441,7 @@ ville, les bancs calcaires ne sont couverts que d'une croûte de terre
 peu épaisse; un telle formation diffère de celle qu'on observe au pied
 des monts Pyrénées, du côté de la France, ou le sol de plusieurs
 contrées est composé des débris que les rivières y ont déposés <span
-id="fr_56"></span>[6](#fn_56); une partie de l'Égypte, selon Hérodote, a
+id="fr_56"></span>[6](#fn_56.md); une partie de l'Égypte, selon Hérodote, a
 été pareillement formée des matières que le Nil y a apportées; Aristotle
 la nomme l'ouvrage du fleuve: c'est pourquoi les Éthiopiens se vantoient
 que l'Égypte leur étoit redevable de son origine. Les habitans de
@@ -674,10 +674,10 @@ resting place for animals above the surface of the sea.
 
 ### Footnotes
 
-<span id="fn_54"></span>[v2:4](toe28.htm#fr_54) Tableaux de la Suisse
+<span id="fn_54"></span>[v2:4](toe28.htm#fr_54.md) Tableaux de la Suisse
 Discours, etc. p. 113. Route d'Altorf au St. Gothard.
 
-<span id="fn_55"></span>[v2:5](toe28.htm#fr_55) Here is an example of
+<span id="fn_55"></span>[v2:5](toe28.htm#fr_55.md) Here is an example of
 the junction of the granite with the schistus; and probably here will be
 a proper opportunity of investigating the formation of those two things.
 Our author here supposes the granite to be the primary, and the schistus
@@ -685,7 +685,7 @@ to be the secondary body; on the contrary, I believe that schistus to be
 the primary in relation to the granite, and that the granite had invaded
 the schistus, as will be made to appear in its proper place.
 
-<span id="fn_56"></span>[v2:6](toe28.htm#fr_56) The notion, that the
+<span id="fn_56"></span>[v2:6](toe28.htm#fr_56.md) The notion, that the
 water-worn gravel, which we so frequently find upon the surface of the
 earth, had been the effect of rivers transporting the rocks and stones,
 is not accurate or in perfect science. That stones are thus continually
@@ -712,4 +712,4 @@ not be thus worn by travelling in the longest river.
 ------------------------------------------------------------------------
 
 [Next: Chapter V. Facts in confirmation of the Theory respecting the
-Operations of the Earth employed in forming Soil for Plants](toe29)
+Operations of the Earth employed in forming Soil for Plants](toe29.md)

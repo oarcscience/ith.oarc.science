@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,29 +16,29 @@ A more recent edition of this text (which is covered by copyright) can
 be found at <https://www.spirituality.com/dt/toc_SH.jhtml> \[External
 site\].  
 Another site with extensive Mary Baker Eddy etexts is
-[https://www.mbeinstitute.org/MBEntro.htm](https://www.mbeinstitute.org/MBEntro)
+[https://www.mbeinstitute.org/MBEntro.htm](https://www.mbeinstitute.org/MBEntro.md)
 \[External Site\].  
 The version presented here is the 1910 edition, which is in the public
 domain.
 
 ------------------------------------------------------------------------
 
-[Title Page and Preface](sah00)  
-[Chapter I - Prayer](sah01)  
-[Chapter II - Atonement and Eucharist](sah02)  
-[Chapter III - Marriage](sah03)  
-[Chapter IV - Christian Science Versus Spiritualism](sah04)  
-[Chapter V - Animal Magnetism Unmasked](sah05)  
-[Chapter VI - Science, Theology, Medicine](sah06)  
-[Chapter VII - Physiology](sah07)  
-[Chapter VIII - Footsteps of Truth](sah08)  
-[Chapter IX - Creation](sah09)  
-[Chapter X - Science of Being](sah10)  
-[Chapter XI - Some Objections Answered](sah11)  
-[Chapter XII - Christian Science Practice](sah12)  
-[Chapter XIII - Teaching Christian Science](sah13)  
-[Chapter XIV - Recapitulation](sah14)  
-[Chapter XV - Genesis](sah15)  
-[Chapter XVI - The Apocalypse](sah16)  
-[Chapter XVII - Glossary](sah17)  
-[Chapter XVIII - Fruitage](sah18)  
+[Title Page and Preface](sah00.md)  
+[Chapter I - Prayer](sah01.md)  
+[Chapter II - Atonement and Eucharist](sah02.md)  
+[Chapter III - Marriage](sah03.md)  
+[Chapter IV - Christian Science Versus Spiritualism](sah04.md)  
+[Chapter V - Animal Magnetism Unmasked](sah05.md)  
+[Chapter VI - Science, Theology, Medicine](sah06.md)  
+[Chapter VII - Physiology](sah07.md)  
+[Chapter VIII - Footsteps of Truth](sah08.md)  
+[Chapter IX - Creation](sah09.md)  
+[Chapter X - Science of Being](sah10.md)  
+[Chapter XI - Some Objections Answered](sah11.md)  
+[Chapter XII - Christian Science Practice](sah12.md)  
+[Chapter XIII - Teaching Christian Science](sah13.md)  
+[Chapter XIV - Recapitulation](sah14.md)  
+[Chapter XV - Genesis](sah15.md)  
+[Chapter XVI - The Apocalypse](sah16.md)  
+[Chapter XVII - Glossary](sah17.md)  
+[Chapter XVIII - Fruitage](sah18.md)  

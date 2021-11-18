@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [Buddhist Articles](index)
+[Intangible Textual Heritage](../../index) [Buddhist Articles](index.md)
 
 ------------------------------------------------------------------------
 
@@ -403,4 +403,4 @@ From this day to the end of my life I take my refuge in Bhagavâ."
 
 ------------------------------------------------------------------------
 
-[Buddhist Articles](index)
+[Buddhist Articles](index.md)

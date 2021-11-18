@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat02.htm#VIII) 
-[Previous](satl007)  [Next](satl009) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat02.htm#VIII.md) 
+[Previous](satl007)  [Next](satl009.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ satureum bibisse &lt;. . .&gt; iunctis viribus molestum contempsimus.
 
 ------------------------------------------------------------------------
 
-[Next: IX](satl009)
+[Next: IX](satl009.md)

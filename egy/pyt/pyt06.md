@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt05)  [Next](pyt07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt05)  [Next](pyt07.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ houses,
 ------------------------------------------------------------------------
 
 [Next: 4. A Series of Old Heliopolitan Texts Partly Osirianized,
-Utterances 213-222](pyt07)
+Utterances 213-222](pyt07.md)

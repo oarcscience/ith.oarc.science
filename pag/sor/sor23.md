@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor22)  [Next](sor24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor22)  [Next](sor24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -113,7 +113,7 @@ It was said of the "Sabbath," "No woman ever returned from it in child."
 The Devil and the Witch-wife were reproached with being sworn foes of
 generation, of hating life and loving death and annihilation. And lo! it
 is precisely in the sanctimonious seventeenth century, when Witchcraft
-is a-dying, <span id="fr_77"></span>[1](#fn_77) that love of barrenness
+is a-dying, <span id="fr_77"></span>[1](#fn_77.md) that love of barrenness
 and fear of giving birth form the most general of diseases.
 
 If Satan is a reading man, he has good cause to laugh when he peruses
@@ -144,7 +144,7 @@ generosity give the latter to the Casuist.
 What must vastly divert Satan is the fact that his most faithful
 followers are to be found in those days among respectable folks, in
 serious households, ruled and governed by the Church. <span
-id="fr_78"></span>[2](#fn_78) The woman of the world, who raises the
+id="fr_78"></span>[2](#fn_78.md) The woman of the world, who raises the
 fortunes of her house by means of the great resource of the period,
 profitable adultery, laughs at prudence and boldly follows the
 promptings of nature. The pious family follows merely its Jesuit
@@ -247,9 +247,9 @@ openly as his own sister's husband; such as to ensure the ruling spirits
 of the convents in peaceful, undisturbed possession of the nuns in their
 charge, so completely so indeed that cases of pregnancy amongst the
 latter were regularly announced, and births formally and legally
-declared. <span id="fr_79"></span>[3](#fn_79) The same spirit of
+declared. <span id="fr_79"></span>[3](#fn_79.md) The same spirit of
 tolerance excuses Father Apollinaire, caught in a vile and shameful act
-of exorcism, <span id="fr_80"></span>[4](#fn_80) while Cauvrigny, the
+of exorcism, <span id="fr_80"></span>[4](#fn_80.md) while Cauvrigny, the
 *gallant* Jesuit, idol of the provincial nunneries, expiates his
 intrigues merely by a recall to Paris, in other words by a summons to
 higher preferment.
@@ -277,7 +277,7 @@ her days into a living tomb.
 
 ### Footnotes
 
-<span id="fn_77"></span>[223:1](sor23.htm#fr_77) I do not regard La
+<span id="fn_77"></span>[223:1](sor23.htm#fr_77.md) I do not regard La
 Voisin as a Sorceress, nor as a true Witches’ Sabbath the travesty she
 performed to amuse *blasé* noblemen of high rank, Luxembourg and
 Vendôme, her pupil, and the like. Reprobate priests, allies of La
@@ -289,7 +289,7 @@ mockery! what an abomination! . . . a sport far less of men than of her
 sister women's cruelty,—of a Bouillon, brazen, abandoned creature, or of
 the dark Olympe, deep-dyed in crime and learned in poisons (1681).
 
-<span id="fn_78"></span>[224:2](sor23.htm#fr_78) Voluntary sterility is
+<span id="fn_78"></span>[224:2](sor23.htm#fr_78.md) Voluntary sterility is
 continually on the increase in the seventeenth century, especially among
 the more carefully regulated families, subjected to the strictest
 discipline of the Confessional. Take even the Jansenists. Follow the
@@ -302,7 +302,7 @@ order to make a rich eldest son, a great Lord and King's Minister. The
 end is gained, and the race dies of its ambitious carefulness,
 undoubtedly duly planned and purposed.
 
-<span id="fn_79"></span>[227:3](sor23.htm#fr_79) For instance, the most
+<span id="fn_79"></span>[227:3](sor23.htm#fr_79.md) For instance, the most
 noble Chapter of the Canons of Pignan, who had the honour to be
 represented in the "Estates" of Provence, were equally proud of their
 recognised right to possess the nuns of that country. There were sixteen
@@ -319,8 +319,8 @@ them up with their own family. Thus it comes that not a few farmer folk
 thereabouts are known down to the present day as descendants of the
 ecclesiastical nobility of Provence.
 
-<span id="fn_80"></span>[227:4](sor23.htm#fr_80) Garinet, p. 344.
+<span id="fn_80"></span>[227:4](sor23.htm#fr_80.md) Garinet, p. 344.
 
 ------------------------------------------------------------------------
 
-[Next: 22. Father Girard and Charlotte Cadière](sor24)
+[Next: 22. Father Girard and Charlotte Cadière](sor24.md)

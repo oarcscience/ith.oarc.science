@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab07)  [Next](mab09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab07)  [Next](mab09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -35,8 +35,8 @@ detailed in the Romance which bears his name, as quoted by Mr. Southey,
 in the Preface to the Morte d'Arthur.
 
 Merlin, having become enamoured of the fair Viviane, <span
-id="fr_17"></span>[1](#fn_17) was weak enough to impart to her various
-important secrets of his art, <span id="fr_18"></span>[2](#fn_18) being
+id="fr_17"></span>[1](#fn_17.md) was weak enough to impart to her various
+important secrets of his art, <span id="fr_18"></span>[2](#fn_18.md) being
 impelled by a fatal destiny, of which he was at the same time fully
 aware. The Lady, however, was not content with his devotion, unbounded
 as it seems to have been, but "cast about," as the Romance tells us, how
@@ -111,7 +111,7 @@ disenchanted, and he predicted to him that he should find the King at
 Carduel, in Wales, on his return, and that all the other Knights who had
 been on the like quest, would arrive there the same day as himself. And
 all this came to pass as Merlin had said.--(T. 2. f, 146.) <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 It is evident that the wonders ascribed by Chrestien de Troyes to
 
@@ -276,7 +276,7 @@ Qn'encore me sanlle qu'eus ge oie;
 M'est-il tous vraiement avis  
 Que c'est terrestre paradis.  
               Tournoiement Ante-Crist, <span
-id="fr_20"></span>[1](#fn_20) MS. du Roi,  
+id="fr_20"></span>[1](#fn_20.md) MS. du Roi,  
                 No. 541. S. F. (fol. 72. col. 2. v. 5)
 
 <span id="page_74">p. 74</span>
@@ -292,12 +292,12 @@ The outline of the story, is as follows:--
 
 Butor de la Montague, on the birth of his infant son, is desirous that
 he should receive a Fairy's blessing; and after revolving in his mind
-the names of all the "lieux fäes" <span id="fr_21"></span>[1](#fn_21)
+the names of all the "lieux fäes" <span id="fr_21"></span>[1](#fn_21.md)
 with which he is acquainted, he determines on sending him to the haunt
 of the Fairies in the "bois Bersillant." The little Brun is accordingly
 conveyed thither by a trusty Knight, and placed on the margin of the
 enchanted fountain. It is not long before the Fairies <span
-id="fr_22"></span>[2](#fn_22) appear, and the child is endowed with the
+id="fr_22"></span>[2](#fn_22.md) appear, and the child is endowed with the
 choicest gifts which they have in their power to bestow. One of them,
 however, envious of the extreme brightness of his prospects, dooms him
 to misfortune and disappointment in love.
@@ -305,7 +305,7 @@ to misfortune and disappointment in love.
 On his return to his parents, one of the benevolent Fairies, who had
 taken a particular liking to him, disguises herself, and becomes his
 nurse. The MS. breaks off abruptly, just as the story of his disastrous
-love-adventure is about to commence. <span id="fr_23"></span>[3](#fn_23)
+love-adventure is about to commence. <span id="fr_23"></span>[3](#fn_23.md)
 
 I shall conclude this Note with a description of the state of the
 
@@ -328,9 +328,9 @@ montagnes, des bois, on des landes sans fin."
 \*        \*        \*        \*        \*        \*        \*
 
 "La plaine qu'on appelle en breton Concoret, <span
-id="fr_24"></span>[1](#fn_24) et dans les romans da moyen-âge le
+id="fr_24"></span>[1](#fn_24.md) et dans les romans da moyen-âge le
 *Val-des-Fées*, est un immense amphithéâtre couronné de bois sombres,
-jadis nommés Broc'hallean, <span id="fr_25"></span>[2](#fn_25)
+jadis nommés Broc'hallean, <span id="fr_25"></span>[2](#fn_25.md)
 aujourd'hui par corruption Brécilien. A l'une de ses extrémités, coule
 une fontaine près de laquelle on voit deux pierres couvertes de mousse
 que domine une vieille croix de bois vermoulue; c'est la fontaine de
@@ -364,13 +364,13 @@ up on a piece of iron or copper being thrown into it.
 
 "Les enfans s'amusent a y jeter des épingles, et disent par commun
 proverbe: '*Ris donc, fontaine de Berendon, et je te donnerai une
-épingle*.'" <span id="fr_26"></span>[1](#fn_26)
+épingle*.'" <span id="fr_26"></span>[1](#fn_26.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_17"></span>[67:1](mab08.htm#fr_17) This Viviane is said to
+<span id="fn_17"></span>[67:1](mab08.htm#fr_17.md) This Viviane is said to
 be the daughter of a Vavasour of high lineage, called Dyonas, from
 Dyane, a goddess of the sea. He married a niece of the Duchess of
 Burgundy, with whom he received as a dowry half the Forest of Briogne;
@@ -378,7 +378,7 @@ the other half was granted him soon after in reward for his good
 services. Under the title of the "Lady of the Lake" Viviane is well
 known.
 
-<span id="fn_18"></span>[67:2](mab08.htm#fr_18) Of the nature and extent
+<span id="fn_18"></span>[67:2](mab08.htm#fr_18.md) Of the nature and extent
 of the powers with which Merlin was endowed, Spenser has left us a most
 marvellous account.
 
@@ -402,7 +402,7 @@ being
 All living wightes in might of magicke spell."  
 Ibid. b. i. c. 7. at. xxxvi.
 
-<span id="fn_19"></span>[69:1](mab08.htm#fr_19) Preface--Morte d'Arthur,
+<span id="fn_19"></span>[69:1](mab08.htm#fr_19.md) Preface--Morte d'Arthur,
 xliii--xlviii.
 
 In the "Prophecies of Merlin," though the result is the same, the
@@ -423,14 +423,14 @@ the tomb in which
 "Col corpo morto il vivo spirto alberga."  
                                      Orlando Furioso, C. iii.
 
-<span id="fn_20"></span>[73:1](mab08.htm#fr_20) Livre des Legendes. Par
+<span id="fn_20"></span>[73:1](mab08.htm#fr_20.md) Livre des Legendes. Par
 le Roux de Lincy. Intro. 230, 4. Paris, 1836.
 
 Huon de Mery was a Monk of St. Germain des Prés, near Paris. He wrote
 the Poem above quoted about A.D. 1228. See Warton's History of English
 Poetry, ii. 121.
 
-<span id="fn_21"></span>[74:1](mab08.htm#fr_21)
+<span id="fn_21"></span>[74:1](mab08.htm#fr_21.md)
 
 "a des lieux faës ès marches de Champaigne,  
 Et ausi en a il en la roche grifaigne,  
@@ -440,7 +440,7 @@ Et non por quant ausi en a il en Espaigne,
 Et tout cil lieu faë sont Artu de Bretaigne."  
                                      Livre des Légendes, 264.
 
-<span id="fn_22"></span>[74:2](mab08.htm#fr_22) The following is the
+<span id="fn_22"></span>[74:2](mab08.htm#fr_22.md) The following is the
 description given of these Ladies in the Romance;--
 
 Les dames dont je di si estoient faées  
@@ -455,18 +455,18 @@ Ne fussent point par li trois plus belles trouvées
 Et s'eust conversé en cent mile contrées."  
                                            Liv. des Lég. 267-8.
 
-<span id="fn_23"></span>[74:3](mab08.htm#fr_23) Ibid. 260, 284.
+<span id="fn_23"></span>[74:3](mab08.htm#fr_23.md) Ibid. 260, 284.
 
-<span id="fn_24"></span>[75:1](mab08.htm#fr_24) "*Kun-kored*, vallée des
+<span id="fn_24"></span>[75:1](mab08.htm#fr_24.md) "*Kun-kored*, vallée des
 druidesses."
 
-<span id="fn_25"></span>[75:2](mab08.htm#fr_25) "Le bois de la Nonne, de
+<span id="fn_25"></span>[75:2](mab08.htm#fr_25.md) "Le bois de la Nonne, de
 l'Hermite, de la Solitaire."
 
-<span id="fn_26"></span>[76:1](mab08.htm#fr_26) Revue de Paris. Tome 41.
+<span id="fn_26"></span>[76:1](mab08.htm#fr_26.md) Revue de Paris. Tome 41.
 7 Mai, 1837, pp. 47-58, article "*Visite ou Tombeau de Merlin*," par
 Théodore de la Villemarqué.
 
 ------------------------------------------------------------------------
 
-[Next: Llyn Dulyn in Snowdon](mab09)
+[Next: Llyn Dulyn in Snowdon](mab09.md)

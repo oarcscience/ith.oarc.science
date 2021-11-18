@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth019)  [Next](toth021) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth019)  [Next](toth021.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 17. THE AHÖ'LI AND OTHER WÁLPI KATCINAS. <span id="fr_56"></span>[1](#fn_55)
+## 17. THE AHÖ'LI AND OTHER WÁLPI KATCINAS. <span id="fr_56"></span>[1](#fn_55.md)
 
 Alíksai! In Wálpi and Sitcómovi they were living, but not at the places
 where the villages now are, but where they used to be. In Wálpi lived an
@@ -154,7 +154,7 @@ front part of his legs. His arms were painted white, his body red.
 Around his shoulders he had a small blanket of rabbit skin. On his feet
 he had old, torn, black moccasins. In his right hand he had a large
 knife, in his left hand a crook, to which a number of mósililis were
-attached. <span id="fr_57"></span>[1](#fn_56) It was the Cóoyoko, who
+attached. <span id="fr_57"></span>[1](#fn_56.md) It was the Cóoyoko, who
 used to kill and devour children there. When the Katcinas saw him they
 said to him: "Do not trouble us, we are going to possess these people
 here. We are going home now. You can destroy the bad ones, since you are
@@ -194,10 +194,10 @@ where it is at the present time situated.
 
 ### Footnotes
 
-<span id="fn_55"></span>[77:1](toth020.htm#fr_56) Told by Kúhkuima
+<span id="fn_55"></span>[77:1](toth020.htm#fr_56.md) Told by Kúhkuima
 (Shupaúlavi).
 
-<span id="fn_56"></span>[80:1](toth020.htm#fr_57) Mósililis, cone-shaped
+<span id="fn_56"></span>[80:1](toth020.htm#fr_57.md) Mósililis, cone-shaped
 shells from one to two inches long, which are tied by means of thin
 buckskin thongs to sticks that are from six to eight inches long and
 bent at one end. These rattles are highly prized by the Hopi and are
@@ -207,4 +207,4 @@ ruins of Tusayan.
 
 ------------------------------------------------------------------------
 
-[Next: 18. The Two War Gods and the Two Maidens](toth021)
+[Next: 18. The Two War Gods and the Two Maidens](toth021.md)

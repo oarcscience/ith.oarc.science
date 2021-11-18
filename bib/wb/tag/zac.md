@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](hag)  [Next](mal) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](hag)  [Next](mal.md) 
 
 ------------------------------------------------------------------------
 
@@ -960,4 +960,4 @@ ng Panginoon ng mga hukbo.
 
 ------------------------------------------------------------------------
 
-[Next: Malachi](mal)
+[Next: Malachi](mal.md)

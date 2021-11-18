@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm14)  [Next](wsm16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm14)  [Next](wsm16.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ animals were there.
 The people were going to have a race. In this race they bet themselves
 \[that is, their lives\]. Two of them made a fire to cook those who lost
 the race. One of the firemakers was Mudhen. <span
-id="fr_19"></span>[20](#fn_19)
+id="fr_19"></span>[20](#fn_19.md)
 
 Every one went south to a place where there were some willows. Coyote
 was with them. Many people, who were going to race, gathered there. When
@@ -36,7 +36,7 @@ about Sun. They said, "We had better leave him so that there will be
 light." Coyote, who was chief, said, "If he had beaten me, he would have
 thrown me into the fire. We must throw him in." Coyote took hold of
 Still. When he did this, Nighthawks, Chipmunks, and all the other people
-ran for the house. <span id="fr_20"></span>[21](#fn_20) Coyote dragged
+ran for the house. <span id="fr_20"></span>[21](#fn_20.md) Coyote dragged
 Sun to the fire. His friends were afraid that it would be dark; they ran
 to the house. When Coyote was ready to throw Sun into the fire, he
 looked to see which way he would have to run to get to the house. Then
@@ -78,7 +78,7 @@ They shouted, and the sun came out. After this, the people came out and
 found that there were many green plants everywhere.
 
 Coyote started to eat tuhuvida. Coyote said, "I am going to make it
-sweeter," and urinated on it. <span id="fr_21"></span>[22](#fn_21) After
+sweeter," and urinated on it. <span id="fr_21"></span>[22](#fn_21.md) After
 this, some of the people tasted it. It had been sweet before, but Coyote
 made it salty and bitter.
 
@@ -86,23 +86,23 @@ made it salty and bitter.
 
 ### Footnotes
 
-<span id="fn_18"></span>[268:19](wsm14.htm#fr_18) The literal
+<span id="fn_18"></span>[268:19](wsm14.htm#fr_18.md) The literal
 translation is Gosip, "dust," and Ute, from the fact that the Gosiute
 live in the very dusty, alkali deserts south of Great Salt Lake.
 
-<span id="fn_19"></span>[268:20](wsm15.htm#fr_19) Possibly hell-diver, a
+<span id="fn_19"></span>[268:20](wsm15.htm#fr_19.md) Possibly hell-diver, a
 bird which has a red eye, said to have been caused by making the fire.
 B. D. doesn't remember who the other firemaker was.
 
-<span id="fn_20"></span>[268:21](wsm15.htm#fr_20) In other versions,
+<span id="fn_20"></span>[268:21](wsm15.htm#fr_20.md) In other versions,
 Coyote had allowed his people time to build a house before throwing Sun
 Into the fire.
 
-<span id="fn_21"></span>[269:22](wsm15.htm#fr_21) Tuhuvida, some kind of
+<span id="fn_21"></span>[269:22](wsm15.htm#fr_21.md) Tuhuvida, some kind of
 plant with yellow flowers. It was sometimes eaten by Shoshoni, but has
 an unpleasant flavor for which Coyote is held responsible.
 
 ------------------------------------------------------------------------
 
 [Next: The Race to Koso Hot Springs (Saline Valley, California.
-Shoshoni)](wsm16)
+Shoshoni)](wsm16.md)

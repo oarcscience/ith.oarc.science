@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](kg1)  [Next](ch1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](kg1)  [Next](ch1.md) 
 
 ------------------------------------------------------------------------
 
@@ -3041,4 +3041,4 @@ së tij.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Chronicles](ch1)
+[Next: 1 Chronicles](ch1.md)

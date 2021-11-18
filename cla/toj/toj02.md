@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](toj01)  [Next](toj03) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](toj01)  [Next](toj03.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_33">p. 33</span>
 
 To  
-APOLLO and the SUN <span id="fr_16"></span>[1](#fn_16)
+APOLLO and the SUN <span id="fr_16"></span>[1](#fn_16.md)
 
 The Sun's resplendent deity I sing,  
 The beauteous offspring of almighty Jove,  
@@ -32,7 +32,7 @@ All multitude in union to collect,
 And many natures generate from one;  
 With vigour in thy essence to convolve  
 The diff'rent ranks of secondary forms;  
-And thro' one fair hyparxis <span id="fr_17"></span>[2](#fn_17) to
+And thro' one fair hyparxis <span id="fr_17"></span>[2](#fn_17.md) to
 combine
 
 <span id="page_34">p. 34</span>
@@ -52,14 +52,14 @@ Inordinate or dark contains, destroy.
 And last, thy revolution is the sign  
 Of motion, harmonizing into one  
 The various natures of this mighty whole.  
-Thy *first* bright *Monad* <span id="fr_18"></span>[1](#fn_18) hence,
+Thy *first* bright *Monad* <span id="fr_18"></span>[1](#fn_18.md) hence,
 illustrious god,  
 Enunciates truth and intellectual light;  
 That light, which in the essence of the gods,  
 Subsists with rays uniting and unknown.  
-Thy *second* <span id="fr_19"></span>[2](#fn_19), ev'ry thing confus'd
+Thy *second* <span id="fr_19"></span>[2](#fn_19.md), ev'ry thing confus'd
 destroys:  
-And from thy *third* <span id="fr_20"></span>[3](#fn_20), the universe
+And from thy *third* <span id="fr_20"></span>[3](#fn_20.md), the universe
 is bound  
 In beauteous symmetry and just consent,  
 Thro' splendid reasons and harmonic power.  
@@ -160,20 +160,20 @@ Beauty's transcendent, solitary Sun.
 
 ### Footnotes
 
-<span id="fn_16"></span>[33:1](toj02.htm#fr_16) I have already observed
+<span id="fn_16"></span>[33:1](toj02.htm#fr_16.md) I have already observed
 in my account of Apollo and the Sun, in the first part of this
 Introduction, that though these divinities subsist in wonderful union
 with each other, yet they likewise inherit a proper distinction and
 diversity of nature.
 
-<span id="fn_17"></span>[33:2](toj02.htm#fr_17) *i.e.* *Essence*.
+<span id="fn_17"></span>[33:2](toj02.htm#fr_17.md) *i.e.* *Essence*.
 
-<span id="fn_18"></span>[34:1](toj02.htm#fr_18) *i.e.* Mercury.
+<span id="fn_18"></span>[34:1](toj02.htm#fr_18.md) *i.e.* Mercury.
 
-<span id="fn_19"></span>[34:2](toj02.htm#fr_19) Venus.
+<span id="fn_19"></span>[34:2](toj02.htm#fr_19.md) Venus.
 
-<span id="fn_20"></span>[34:3](toj02.htm#fr_20) Apollo.
+<span id="fn_20"></span>[34:3](toj02.htm#fr_20.md) Apollo.
 
 ------------------------------------------------------------------------
 
-[Next: The Emperor Julian's Oration to the Sovereign Sun](toj03)
+[Next: The Emperor Julian's Oration to the Sovereign Sun](toj03.md)

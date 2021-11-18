@@ -1,4 +1,4 @@
-[Sacred-Texts](../index)  [Christianity](index) 
+[Sacred-Texts](../index)  [Christianity](index.md) 
 
 ------------------------------------------------------------------------
 

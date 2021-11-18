@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb18)  [Next](yefb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb18)  [Next](yefb20.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_108">p. 108</span>
 
-THE NIXY <span id="fr_14"></span>[1](#fn_14)
+THE NIXY <span id="fr_14"></span>[1](#fn_14.md)
 
 There was once upon a time a miller who was very well off, and had as
 much money and as many goods as he knew what to do with.  But sorrow
@@ -189,13 +189,13 @@ peace and happiness ever after.
 
 ### Footnotes
 
-<span id="fn_14"></span>[108:1](yefb19.htm#fr_14) From the German.
+<span id="fn_14"></span>[108:1](yefb19.htm#fr_14.md) From the German.
 Kletke.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Glass Mountain](yefb20)
+[Next: The Glass Mountain](yefb20.md)
 
 </div>

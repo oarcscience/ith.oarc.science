@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Theosophy](../index)
-[Index](index) [Previous](chap09)
+[Intangible Textual Heritage](../../index) [Theosophy](../index.md)
+[Index](index) [Previous](chap09.md)
 
 ------------------------------------------------------------------------
 

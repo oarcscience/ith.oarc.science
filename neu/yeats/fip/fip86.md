@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip85)  [Next](fip87) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip85)  [Next](fip87.md) 
 
 ------------------------------------------------------------------------
 
-### OMENS.--Page [108](fip31.htm#page_108).
+### OMENS.--Page [108](fip31.htm#page_108.md).
 
 We have other omens beside the Banshee and the Dullahan and the
 Coach-a-Bower. I know one family where death is announced by the
@@ -23,4 +23,4 @@ his brother.
 
 ------------------------------------------------------------------------
 
-[Next: A Witch Trial](fip87)
+[Next: A Witch Trial](fip87.md)

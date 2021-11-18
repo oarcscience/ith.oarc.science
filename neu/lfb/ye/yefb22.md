@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb21)  [Next](yefb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb21)  [Next](yefb23.md) 
 
 </div>
 
@@ -309,6 +309,6 @@ Fairer-than-a-Fairy.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Brothers](yefb23)
+[Next: The Three Brothers](yefb23.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf17)  [Next](tsf19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf17)  [Next](tsf19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -247,9 +247,9 @@ has not been set free. So other non-conformists will rise in rebellion
 against the non-conformist of an earlier day. History repeats itself.
 Every age has its spirit of revolt and its religious rebellion.
 
-<span id="img_32500"></span> ![A symbol of life](img/32500.jpg)  
+<span id="img_32500"></span> ![A symbol of life](img/32500.jpg.md)  
 A symbol of life
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Love the Force of Rebellion](tsf19)
+[Next: Chapter II. Love the Force of Rebellion](tsf19.md)

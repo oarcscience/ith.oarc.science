@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb05)  [Next](yefb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb05)  [Next](yefb07.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_21">p. 21</span>
 
-STORY OF THE EMPEROR'S NEW CLOTHES <span id="fr_3"></span>[1](#fn_3)
+STORY OF THE EMPEROR'S NEW CLOTHES <span id="fr_3"></span>[1](#fn_3.md)
 
 Many years ago there lived an Emperor who was so fond of new clothes
 that he spent all his money on them in order to be beautifully dressed. 
@@ -211,12 +211,12 @@ which was not there at all.
 
 ### Footnotes
 
-<span id="fn_3"></span>[21:1](yefb06.htm#fr_3) Andersen.
+<span id="fn_3"></span>[21:1](yefb06.htm#fr_3.md) Andersen.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Crab](yefb07)
+[Next: The Golden Crab](yefb07.md)
 
 </div>

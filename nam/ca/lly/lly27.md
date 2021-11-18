@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly26)  [Next](lly28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly26)  [Next](lly28.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ she bounded
 <span id="img_07600"></span> [![HALF DOME (TIS-SA-ACK) NEVADA AND VERNAL
 FALLS.&lt;BR&gt; &lt;I&gt;Photo A. C.
 Pillsbury&lt;/I&gt;](tn/07600.jpg)  
-Click to enlarge](img/07600.jpg)  
+Click to enlarge](img/07600.jpg.md)  
 HALF DOME (TIS-SA-ACK) NEVADA AND VERNAL FALLS.  
 *Photo A. C. Pillsbury*  
 
@@ -146,4 +146,4 @@ Hum-mo, or the lost arrow.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of Tis-sa-ack](lly28)
+[Next: The Legend Of Tis-sa-ack](lly28.md)

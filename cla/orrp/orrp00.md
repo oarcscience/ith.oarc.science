@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](orrp01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](orrp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ CHARLES MICHEL
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](orrp01)
+[Next: Table of Contents](orrp01.md)

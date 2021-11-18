@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](bata05)  [Next](bata07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](bata05)  [Next](bata07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Talmud in Selection*, by Leo Auerbach, \[1944\], at
 Intangible Textual Heritage
 
@@ -438,7 +438,7 @@ forbid it, but the House of Hillel permit it until dawn.
 The men of Jericho inaugurated six things; for three they were not
 reproved; for three they were reproved; and these are the things for
 which they were not reproved: They grafted date palms all day long; they
-pattered the "Hear O [Israel](errata.htm#2)," and they reaped and
+pattered the "Hear O [Israel](errata.htm#2.md)," and they reaped and
 stacked the produce before the Omer Offering. And for the following they
 were reproved: They were permitted the fruit of sanctified trees, they
 ate fallen fruit from under the trees on the Sabbath, and they gave
@@ -939,6 +939,6 @@ must not partake of dates, roasted ears of corn, or nuts.
 
 ------------------------------------------------------------------------
 
-[Next: The Day of Atonement (Tractate Yoma)](bata07)
+[Next: The Day of Atonement (Tractate Yoma)](bata07.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce26)  [Next](sce28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce26)  [Next](sce28.md) 
 
 ------------------------------------------------------------------------
 
@@ -595,13 +595,13 @@ as the other would have been?
 
 ANSWER. The Goodneƒs of the Lyfe, and Deƒigns of the ancient Prophets
 and Seers, was one of the beƒt Prooffs of their Miƒƒion. <span
-id="fr_36"></span>[1](#fn_36)
+id="fr_36"></span>[1](#fn_36.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_36"></span>[78:1](sce27.htm#fr_36) The original Transcriber
+<span id="fn_36"></span>[78:1](sce27.htm#fr_36.md) The original Transcriber
 has added:
 
 "See the Rest in a little Manuscript belonging to Coline Kirk," probably
@@ -609,4 +609,4 @@ the author's son of that name.--A. L.
 
 ------------------------------------------------------------------------
 
-[Next: Note](sce28)
+[Next: Note](sce28.md)

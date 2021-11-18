@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb07)  [Next](crfb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb07)  [Next](crfb09.md) 
 
 </div>
 
@@ -173,6 +173,6 @@ And in this way he taught her never again to ask why he had laughed.
 
 ------------------------------------------------------------------------
 
-[Next: The Boy Who Could Keep A Secret](crfb09)
+[Next: The Boy Who Could Keep A Secret](crfb09.md)
 
 </div>

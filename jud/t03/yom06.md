@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](yom05)  [Next](yom07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](yom05)  [Next](yom07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ house"; "his house"--that is, his wife. But it was objected that in this
 manner there will be no end to the matter. (The other wife may die too.)
 
 GEMARA: We have learned in a Mishna (Tract Parah, III., 1): "Seven days
-before the red cow <span id="fr_6"></span>[1](#fn_6) was to be burned,
+before the red cow <span id="fr_6"></span>[1](#fn_6.md) was to be burned,
 the priest who had to perform this ceremony was removed from his house
 to the northeastern chamber of the Temple," etc. "Whence do we deduce
 this?" said R. Miniumi bar Helviah in the name of Mahassia b. Iddi,
@@ -44,7 +44,7 @@ atonement of sacrifices generally? Could we know, in this case,
 which priest is going to perform the rite? How, then, could he be
 removed from his home? But perhaps other festivals are meant? We infer
 the removal seven days before one day from the removal, seven days
-(before) for the service of one day, <span id="fr_7"></span>[1](#fn_7)
+(before) for the service of one day, <span id="fr_7"></span>[1](#fn_7.md)
 but not seven days (before) for a service of seven days \[of the
 festivals of Passover and of Tabernacles\]. Perhaps Pentecost, which
 also is only one day, is meant? Said R. Abba: "We infer a day of one
@@ -354,7 +354,7 @@ exception of Sabbath. The same is the case with the fourth; it is meant,
 all the seven days, except the fourth. Said Rabba: Therefore the
 high-priest must be removed seven days before the *Day of Atonement*,
 whose date is not dependent on us; but on the third day of the
-month, <span id="fr_8"></span>[1](#fn_8) he must be removed seven days
+month, <span id="fr_8"></span>[1](#fn_8.md) he must be removed seven days
 before that day, no matter when the fourth day falls. But the priest of
 the red cow, the date of whose removal depends on us, should be removed
 on such a day that the fourth shall fall on Sabbath.
@@ -414,7 +414,7 @@ blood did Manasseh shed in very great abundance."
 
 But the second Temple, where the occupations were study of the Law,
 religious duties, and charity--why fell it? Because there was groundless
-enmity. <span id="fr_9"></span>[1](#fn_9) From this we can infer that
+enmity. <span id="fr_9"></span>[1](#fn_9.md) From this we can infer that
 unfounded hatred is equal to all the three sins together: idolatry,
 adultery, and bloodshed. In the time of the first Temple, although they
 were wicked, yet because they put their trust in the Holy One, blessed
@@ -518,7 +518,7 @@ and the end of the verse is, "then shall the remnant of his brethren
 return with the children of Israel."
 
 The rabbis taught: All the chambers of the Temple had no Mezuzahs, <span
-id="fr_10"></span>[1](#fn_10) except the Chamber of Palhedrin, which was
+id="fr_10"></span>[1](#fn_10.md) except the Chamber of Palhedrin, which was
 a dwelling of the high-priest. Said R. Jehudah: Were there not many
 chambers in the Temple which were dwellings, and nevertheless were
 without Mezuzahs? Therefore we must say that the Mezuzah in the
@@ -580,7 +580,7 @@ upon thy gates." Said Abayi to R. Saphra: Why was no Mezuzah made on the
 city gate of Mechuzah (the majority of whose population were Jews)?
 Abayi replied: It was not made, because it would have been dangerous.
 (The government in its ignorance would say it was a charm. <span
-id="fr_11"></span>[1](#fn_11))
+id="fr_11"></span>[1](#fn_11).md)
 
 As we have learned in the following Boraitha: A Mezuzah of an individual
 must be examined twice in a Sabbatical period (seven years, whether it
@@ -1145,7 +1145,7 @@ We have learned in one Boraitha according to Rabh, and in another
 according to R. Shila. We have learned according to Rabh: Gabini the
 Herald used to herald: Rise, priests, to your service; and Levites, to
 your chanting; and Israel, to your standing. <span
-id="fr_12"></span>[1](#fn_12) And his voice was heard at the distance of
+id="fr_12"></span>[1](#fn_12.md) And his voice was heard at the distance of
 three *parsaoth*. It happened once that Agrippa the king being on the
 road, he heard Gabini's voice at the distance of three *parsaoth*. When
 he returned home, he sent him presents. Nevertheless, the voice of the
@@ -1234,31 +1234,31 @@ was made by the wind oblique, but not crooked.
 
 ### Footnotes
 
-<span id="fn_6"></span>[1:1](yom06.htm#fr_6) Some translators say
+<span id="fn_6"></span>[1:1](yom06.htm#fr_6.md) Some translators say
 \[Numbers xix. 2\] "red heifer"; but this would not be proper, according
 to the teaching of the Mishna that the red cow must not be younger than
 three years and is fit even from four to five years, for which the term
 heifer cannot be correctly used.
 
-<span id="fn_7"></span>[2:1](yom06.htm#fr_7) See Lev. viii, 33.
+<span id="fn_7"></span>[2:1](yom06.htm#fr_7.md) See Lev. viii, 33.
 
-<span id="fn_8"></span>[9:1](yom06.htm#fr_8) The Day of Atonement always
+<span id="fn_8"></span>[9:1](yom06.htm#fr_8.md) The Day of Atonement always
 occurs on the tenth day of the month Tishri.
 
-<span id="fn_9"></span>[10:1](yom06.htm#fr_9) In the Palestinian Talmud
+<span id="fn_9"></span>[10:1](yom06.htm#fr_9.md) In the Palestinian Talmud
 it is said: Because they loved money, and hated each other without
 grounds.
 
-<span id="fn_10"></span>[13:1](yom06.htm#fr_10) See Deut. vi. 9.
+<span id="fn_10"></span>[13:1](yom06.htm#fr_10.md) See Deut. vi. 9.
 
-<span id="fn_11"></span>[14:1](yom06.htm#fr_11) In our
+<span id="fn_11"></span>[14:1](yom06.htm#fr_11.md) In our
 *Philacterien-Ritus* we have explained this differently. The danger was
 that it should be recognized as a purely Jewish city and exposed to the
 Jews' enemies.
 
-<span id="fn_12"></span>[27:1](yom06.htm#fr_12) See Shekalim.
+<span id="fn_12"></span>[27:1](yom06.htm#fr_12.md) See Shekalim.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II: The Lots Priests Drew, Which Priests Should go to the
-Altar, How Many Priests Needed for Each Sacrifice](yom07)
+Altar, How Many Priests Needed for Each Sacrifice](yom07.md)

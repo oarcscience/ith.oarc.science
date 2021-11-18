@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](luk)  [Next](act) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](luk)  [Next](act.md) 
 
 ------------------------------------------------------------------------
 
@@ -3108,4 +3108,4 @@ bleve skrivna.
 
 ------------------------------------------------------------------------
 
-[Next: Acts](act)
+[Next: Acts](act.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof05)  [Next](otof07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof05)  [Next](otof07.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ in the colossal of Creation!
 Space visitors have said: "It is not right that man should destroy his
 brother by utilizing the powerful forces of atomic energy, but the
 destruction you witness is minor, indeed, compared to the enormity of
-[chaos](errata.htm#6) created in the Microcosmos by the release of such
+[chaos](errata.htm#6.md) created in the Microcosmos by the release of such
 energy!" When an atomic bomb is detonated, literal Microcosmic worlds
 containing created life are destroyed. Of course, these worlds are in
 other dimensions of time and space: what we think of as a minute may be
@@ -76,7 +76,7 @@ brothers to us who are most nearly like ourselves in appearance and
 bodily size. After all, contact is difficult enough in a corporeal world
 without adding to the problem by sending a highly developed being who
 would have to announce the Universal doctrine to us from that pin-head
-or lovingly lead us like a Swift in [Lilliput](errata.htm#7)! The space
+or lovingly lead us like a Swift in [Lilliput](errata.htm#7.md)! The space
 friends here now may be far ahead of us in spiritual development, but
 they are probably more nearly like us than other dwellers in the Cosmos.
 
@@ -204,7 +204,7 @@ forces--gravitation as well as matter and energy--is built up of an
 all-pervading, all-embracing mathematical field.
 
 These theories will lead to the discovery of cosmic forces not even
-suspected today. [Gravitation](errata.htm#8) is not the basis of
+suspected today. [Gravitation](errata.htm#8.md) is not the basis of
 everything, but electro-magnetism is. Everything, including man, owes
 its existence to its electro-magnetic force field.
 
@@ -497,7 +497,7 @@ with its system of electrons rotating around the central nucleus
 resembles the planetary system. In considering the atom, the jumping of
 electrons from one orbit to another, when hit by the energy of a photon,
 takes place many times a second, whereas in accord with the vastness of
-the solar system, a [similar](errata.htm#9) phenomenon occurs there once
+the solar system, a [similar](errata.htm#9.md) phenomenon occurs there once
 in thousands of years. Our own Solar System has experienced
 displacements in its planetary members over the centuries and this is
 similar to the "orbit jumping" of an electron.
@@ -531,7 +531,7 @@ is slower than near the center, just as the outer planets in the solar
 system travel slower than those near the sun.
 
 The new word in astronomy is "magneto-hydrodynamics." Scientists say
-that interstellar space is now known to be [pervaded](errata.htm#10) by
+that interstellar space is now known to be [pervaded](errata.htm#10.md) by
 magnetic fields. Presumably they are produced by electric currents
 circulating in space, say the astronomers. Modern theory begins to
 visualize a galaxy as a tremendous
@@ -580,4 +580,4 @@ words in which His thoughts are written."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3. Magnetism: The Universal 'I Am'](otof07)
+[Next: Chapter 3. Magnetism: The Universal 'I Am'](otof07.md)

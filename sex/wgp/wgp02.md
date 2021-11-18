@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp01)  [Next](wgp03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp01)  [Next](wgp03.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ advanced
 and placed a garland of flowers "on this obscene figure;" and this, he
 says: was done to appease the god, and "to obtain an abundant harvest,
 and remove enchantments from the land." <span
-id="fr_19"></span>[20](#fn_19) We learn from the Chronicle of Lanercost
+id="fr_19"></span>[20](#fn_19.md) We learn from the Chronicle of Lanercost
 that, in the year 1268, a pestilence prevailed in the Scottish district
 of Lothian, which was very fatal to the cattle, to counteract which some
 of the clergy--*bestiales, habitu claustrales, non animo*--taught the
@@ -75,7 +75,7 @@ of this symbol were churches. It was believed to be
  
 
 <span id="img_pl05"></span> [![](tn/generic.jpg)  
-Click to view](img/pl05.jpg)  
+Click to view](img/pl05.jpg.md)  
 PLATE V  
 SHELAH-NA-GIG MONUMENTS
 
@@ -103,9 +103,9 @@ terror, the evil eye, during the rest of the day.
 
 ### Footnotes
 
-<span id="fn_19"></span>[31:20](wgp02.htm#fr_19) S. Augustini *De Civit.
+<span id="fn_19"></span>[31:20](wgp02.htm#fr_19.md) S. Augustini *De Civit.
 Dei*, lib. vii, c. 21.
 
 ------------------------------------------------------------------------
 
-[Next: Shelah-na-Gigs](wgp03)
+[Next: Shelah-na-Gigs](wgp03.md)

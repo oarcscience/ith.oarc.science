@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas086n)  [Next](jas088n)   
- \[[87. Bull as Bridegroom.](jas087)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas086n)  [Next](jas088n.md)   
+ \[[87. Bull as Bridegroom.](jas087.md)\]
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ versions I heard, and in Milne-Home, the wooer is a bull.
 
 ------------------------------------------------------------------------
 
-[Next: Note 88. The Two Bulls.](jas088n)
+[Next: Note 88. The Two Bulls.](jas088n.md)

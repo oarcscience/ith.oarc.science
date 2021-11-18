@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)     [Start Reading](bal00)
+[Contents](#contents)     [Start Reading](bal00.md)
 
 ------------------------------------------------------------------------
 
@@ -41,13 +41,13 @@ their own terms in a systematic fashion.
 
 ------------------------------------------------------------------------
 
-[Title Page](bal00)  
-[Chapter I.](bal01)  
-[Chapter II](bal02)  
-[Chapter III](bal03)  
-[Chapter IV](bal04)  
-[Chapter V](bal05)  
-[Chapter VI](bal06)  
-[Chapter VII](bal07)  
-[Chapter VIII](bal08)  
-[Endnotes](bal09)  
+[Title Page](bal00.md)  
+[Chapter I.](bal01.md)  
+[Chapter II](bal02.md)  
+[Chapter III](bal03.md)  
+[Chapter IV](bal04.md)  
+[Chapter V](bal05.md)  
+[Chapter VI](bal06.md)  
+[Chapter VII](bal07.md)  
+[Chapter VIII](bal08.md)  
+[Endnotes](bal09.md)  

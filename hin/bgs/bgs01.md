@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg01)   
-[Next](bgs02) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg01.md)   
+[Next](bgs02.md) 
 
 ------------------------------------------------------------------------
 
@@ -180,4 +180,4 @@ visṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ 1.47
 
 ------------------------------------------------------------------------
 
-[Next: II. atha dvitīyodhyāyaḥ. (sāṅkhyayogaḥ)](bgs02)
+[Next: II. atha dvitīyodhyāyaḥ. (sāṅkhyayogaḥ)](bgs02.md)

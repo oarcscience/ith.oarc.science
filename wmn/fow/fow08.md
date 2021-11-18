@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow07)  [Next](fow09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow07)  [Next](fow09.md) 
 
 ------------------------------------------------------------------------
 
@@ -192,4 +192,4 @@ effects of past fatigue, or overpowering joy."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Bad Women](fow09)
+[Next: Chapter VII: Bad Women](fow09.md)

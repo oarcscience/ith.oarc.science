@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil06)  [Next](egil08) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil06)  [Next](egil08.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ their next merry meeting.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER VII. Of Bjorgolf, Brynjolf, Bard, and Hildirida.](egil08)
+[Next: CHAPTER VII. Of Bjorgolf, Brynjolf, Bard, and Hildirida.](egil08.md)

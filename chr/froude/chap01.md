@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index) [Christianity](../index)
-[Pilgrim's Progress](../bunyan/index)  
-[Index](index) [Next](chap02)
+[Intangible Textual Heritage](../../index) [Christianity](../index.md)
+[Pilgrim's Progress](../bunyan/index.md)  
+[Index](index) [Next](chap02.md)
 
 ------------------------------------------------------------------------
 
@@ -414,4 +414,4 @@ vol. vii. p. 299.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Conviction of Sin](chap02)
+[Next: Chapter II. Conviction of Sin](chap02.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm45)  [Next](rrm47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm45)  [Next](rrm47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ of the book is unknown. It was rigorously suppressed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Mysteries of the Ancients. The Ark of Noah](rrm47)
+[Next: Chapter XVII. Mysteries of the Ancients. The Ark of Noah](rrm47.md)

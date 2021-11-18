@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos23)  [Next](mos25) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos23)  [Next](mos25.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ strength except by Him, the Exalted, the High.
 
 ------------------------------------------------------------------------
 
-[Next: Al-Khidhr and Moses (PUT)](mos25)
+[Next: Al-Khidhr and Moses (PUT)](mos25.md)

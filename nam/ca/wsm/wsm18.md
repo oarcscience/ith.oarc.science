@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm17)  [Next](wsm19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm17)  [Next](wsm19.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ other side of the hills, east of the Armagosa Desert. Near Manse he saw
 a man going south and began to follow him. After a while he came to a
 place where there are rows of rocks which look like white geese resting
 on fine, white earth. These were Swans who were sitting and
-smoking. <span id="fr_22"></span>[23](#fn_22)
+smoking. <span id="fr_22"></span>[23](#fn_22.md)
 
 When Coyote came to the Swans, he said, "I want to go with you fellows."
 The Swans offered him some of their feathers. They put them along his
@@ -103,10 +103,10 @@ mountains.
 
 ### Footnotes
 
-<span id="fn_22"></span>[272:23](wsm18.htm#fr_22) it is not clear
+<span id="fn_22"></span>[272:23](wsm18.htm#fr_22.md) it is not clear
 whether the rocks were swans, or whether there was a swan opposite each
 rock. Probably these were geese, not swans.
 
 ------------------------------------------------------------------------
 
-[Next: Coyote Learns to Fly (Lida, Nevada. Shoshoni)](wsm19)
+[Next: Coyote Learns to Fly (Lida, Nevada. Shoshoni)](wsm19.md)

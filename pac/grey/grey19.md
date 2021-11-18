@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey18)  [Next](grey20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey18)  [Next](grey20.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ have derived it from their parent.
 
 ------------------------------------------------------------------------
 
-[Next: The Magical Wooden Head](grey20)
+[Next: The Magical Wooden Head](grey20.md)

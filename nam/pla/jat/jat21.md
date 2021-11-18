@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat20)  [Next](jat22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat20)  [Next](jat22.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ opposite bank. Those pursuing him came there in the early morning and
 stood by his door.
 
 An old man found him. "He is like one of our people, but we will kill
-him for an enemy," he said. <span id="fr_33"></span>[1](#fn_33) They
+him for an enemy," he said. <span id="fr_33"></span>[1](#fn_33.md) They
 brought him to the door and shot him. He had killed a bear and taken its
 coat. He had cut small tough sticks and fixed them under his coat so the
 arrows would not go through. They brought it home.
@@ -33,10 +33,10 @@ arrows would not go through. They brought it home.
 
 ### Footnotes
 
-<span id="fn_33"></span>[212:1](jat21.htm#fr_33) By "our people" is
+<span id="fn_33"></span>[212:1](jat21.htm#fr_33.md) By "our people" is
 meant that he spoke a related language, probably Kiowa-Apache or
 Mescalero.
 
 ------------------------------------------------------------------------
 
-[Next: 20. Releasing the Buffalo](jat22)
+[Next: 20. Releasing the Buffalo](jat22.md)

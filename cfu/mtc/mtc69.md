@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc68)  [Next](mtc70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc68)  [Next](mtc70.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 ### \[68\] AUTUMN
 
 <span class="smallcaps">Master Ou-Yang</span> was reading his
-books <span id="fr_57"></span>[1](#fn_54) at night when he heard a
+books <span id="fr_57"></span>[1](#fn_54.md) at night when he heard a
 strange sound coming from the north-west. He paused and listened
 intently, saying to himself: "How strange, how strange!" First there was
 a pattering and rustling; but suddenly this broke into a great churning
@@ -34,7 +34,7 @@ when wind and rain suddenly come; and where they lash the ship, there is
 a jangling and clanging as of metal against metal.
 
 Or again, like the sound of soldiers going to battle, who march swiftly
-with their gags <span id="fr_58"></span>[2](#fn_55) between their teeth,
+with their gags <span id="fr_58"></span>[2](#fn_55.md) between their teeth,
 when the captain's voice cannot be heard, but only the tramp of horses
 and men moving.
 
@@ -59,9 +59,9 @@ swept the grasses and their colour changed; she met the trees, and their
 boughs were stripped. And because Autumn's being is compounded of
 sternness, therefore it was that they withered and perished, fell and
 decayed. For Autumn is an executioner, <span
-id="fr_59"></span>[3](#fn_56) and her hour is darkness. She is a
+id="fr_59"></span>[3](#fn_56.md) and her hour is darkness. She is a
 warrior, and her element is metal. Therefore she is called "the
-doom-spirit of heaven and earth"; <span id="fr_60"></span>[4](#fn_57)
+doom-spirit of heaven and earth"; <span id="fr_60"></span>[4](#fn_57.md)
 for her thoughts are bent on stern destruction.
 
 "In Spring, growth; in Autumn, fruit: that is Heaven's plan. Therefore
@@ -92,23 +92,23 @@ sought to join in my lamentation.
 
 ### Footnotes
 
-<span id="fn_54"></span>[151:1](mtc69.htm#fr_57) The poem was written in
+<span id="fn_54"></span>[151:1](mtc69.htm#fr_57.md) The poem was written in
 1052, when Ou-yang was finishing his "New History of the Tang Dynasty."
 
-<span id="fn_55"></span>[151:2](mtc69.htm#fr_58) Pieces of wood put in
+<span id="fn_55"></span>[151:2](mtc69.htm#fr_58.md) Pieces of wood put in
 their mouths to prevent their talking.
 
-<span id="fn_56"></span>[152:3](mtc69.htm#fr_59) Executions took place
+<span id="fn_56"></span>[152:3](mtc69.htm#fr_59.md) Executions took place
 in autumn. See *Chou Li,* Book xxxiv (Biot's translation, tom. ii, p.
 286).
 
-<span id="fn_57"></span>[152:4](mtc69.htm#fr_60) "Book of Rites," I. 656
+<span id="fn_57"></span>[152:4](mtc69.htm#fr_60.md) "Book of Rites," I. 656
 (Couvreur's edition).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](mtc70)
+[Next: Appendix](mtc70.md)
 
 </div>

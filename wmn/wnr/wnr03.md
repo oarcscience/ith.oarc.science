@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr02)  [Next](wnr04) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr02)  [Next](wnr04.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ world; she will remake it.
 
 ------------------------------------------------------------------------
 
-[Next: II. Woman's Struggle For Freedom](wnr04)
+[Next: II. Woman's Struggle For Freedom](wnr04.md)

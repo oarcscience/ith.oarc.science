@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida03)  [Next](ida05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida03)  [Next](ida05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -124,8 +124,8 @@ I mention further the *Descrittione dell’ Africa* by Leon l’African, the
 Ibn-Batoutah, of Mahommed El-Tounsi. . . . In the midst of this Babel, I
 remember the names of only two volumes of contemporary French scholars.
 There were also the laborious theses of Berlioux <span
-id="fr_2"></span>[1](#fn_2) and of Schirmer. <span
-id="fr_3"></span>[2](#fn_3)
+id="fr_2"></span>[1](#fn_2.md) and of Schirmer. <span
+id="fr_3"></span>[2](#fn_3.md)
 
 <span id="page_30">p. 30</span>
 
@@ -263,7 +263,7 @@ explains your judgment of Flatters.
 
 "For my part, my dear fellow, my first garrison was at Boghar. I arrived
 there one morning in October, a second lieutenant, aged twenty, of the
-First African [Battalion](errata.htm#1), the white chevron on my black
+First African [Battalion](errata.htm#1.md), the white chevron on my black
 sleeve. . . . Sun stripe, as the *bagnards* say in speaking of their
 grades. Boghar! Two days before, from the bridge of the steamer, I had
 begun to see the shores of Africa. I pity all those who, when they see
@@ -296,7 +296,7 @@ the young bullies of the Chapelle and the Goutte-d’Or.
 "They left before we did. Then the diligence caught up with them. From a
 distance I saw in a pool of moonlight on the yellow road the black
 irregular mass of the convoy. Then I heard a weary dirge; the wretches
-were singing. One, in a sad and [guttural](errata.htm#2) voice, gave the
+were singing. One, in a sad and [guttural](errata.htm#2.md) voice, gave the
 couplet, which trailed dismally through the depths of the blue ravines:
 
 <div style="margin-left: 32px">
@@ -559,15 +559,15 @@ night: as heavy, do you know, as when I killed Captain Morhange."
 
 ### Footnotes
 
-<span id="fn_2"></span>[29:1](ida04.htm#fr_2) Doctrina Ptolemaei ab
+<span id="fn_2"></span>[29:1](ida04.htm#fr_2.md) Doctrina Ptolemaei ab
 injuria recentiorum vindicata, sive Nilus Superior et Niger verus,
 hodiernus Eghiren, ab antiquis explorati. Paris, 8vo, 1874, with two
 maps. (Note by M. Leroux.)
 
-<span id="fn_3"></span>[29:2](ida04.htm#fr_3) De nomine et genere
+<span id="fn_3"></span>[29:2](ida04.htm#fr_3.md) De nomine et genere
 popularum qui berberi vulgo dicuntur. Paris, 8vo, 1892. (Note by M.
 Leroux.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Morhange-Saint-Avit Mission](ida05)
+[Next: Chapter III. The Morhange-Saint-Avit Mission](ida05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi304)  [Next](mtsi306) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi304)  [Next](mtsi306.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ drowned.
 
 ------------------------------------------------------------------------
 
-[Next: 41. The Two Irishmen](mtsi306)
+[Next: 41. The Two Irishmen](mtsi306.md)

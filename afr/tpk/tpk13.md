@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk12)  [Next](tpk14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk12)  [Next](tpk14.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ off the face of God Almighty's beautiful earth.
 
 ------------------------------------------------------------------------
 
-[Next: Ethiopian Question](tpk14)
+[Next: Ethiopian Question](tpk14.md)

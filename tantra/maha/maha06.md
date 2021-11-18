@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha05)  [Next](maha07) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha05)  [Next](maha07.md) 
 
 ------------------------------------------------------------------------
 
@@ -760,6 +760,6 @@ Homa, Formation of the Chakra, and other Rites."
 ------------------------------------------------------------------------
 
 [Next: Chapter 7 - Hymn of Praise (Stotra), Amulet (Kavacha), and the
-description of the Kula-tattva](maha07)
+description of the Kula-tattva](maha07.md)
 
   

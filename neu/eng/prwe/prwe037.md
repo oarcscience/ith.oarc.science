@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe036)  [Next](prwe038) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe036)  [Next](prwe038.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ Cornish mines.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Revels on the "Gump" St Just](prwe038)
+[Next: The Fairy Revels on the "Gump" St Just](prwe038.md)

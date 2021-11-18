@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis36)  [Next](kis38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis36)  [Next](kis38.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ Tales chanting.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](kis38)
+[Next: Part I](kis38.md)

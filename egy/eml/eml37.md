@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml36)  [Next](eml38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml36)  [Next](eml38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -137,7 +137,7 @@ a war of bitter persecution against Amon. Everywhere the god's name was
 chipped from the monuments; the tombs were entered, and the young
 Pharaoh did not spare even the name of his father. It was at this time
 that he himself became known officially as Akhen-aton, "the spirit of
-Aton" <span id="fr_142"></span>[1](#fn_142)--the human incarnation of
+Aton" <span id="fr_142"></span>[1](#fn_142.md)--the human incarnation of
 the strange god. Then he decided to desert Thebes, and at
 Tell-el-Amarna, about 300 miles farther south, he caused to be laid out
 a "garden city", in which were built a gorgeous palace which surpassed
@@ -167,7 +167,7 @@ To this communication was
 added a footnote addressed to the royal scribe, which reads: "Bring
 aloud before my lord, the king, the words, '*The whole territory of my
 lord, the king, is going to ruin*'." <span
-id="fr_143"></span>[1](#fn_143)
+id="fr_143"></span>[1](#fn_143.md)
 
 In the stately temple at Tell-el-Amarna, made beautiful by sculptor and
 painter, and strewn daily with bright and perfumed flowers, the dreamer
@@ -228,7 +228,7 @@ beings". "No such grand theology had ever appeared in the world before,
 so far as we know," says Professor Flinders Petrie, "and it is the
 forerunner of the later monotheist religions, while it is even more
 abstract and impersonal, and may well rank as scientific theism." <span
-id="fr_144"></span>[1](#fn_144) The same writer says: "If this were a
+id="fr_144"></span>[1](#fn_144.md) The same writer says: "If this were a
 new religion, invented to satisfy our modern
 
 <span id="page_331">p. 331</span>
@@ -240,14 +240,14 @@ views and symbolism to a position which we cannot logically improve upon
 at the present day. No rag of superstition or of falsity can be found
 clinging to this new worship evolved out of the old Aton of Heliopolis,
 the sole lord or Adon of the Universe". <span
-id="fr_145"></span>[1](#fn_145)
+id="fr_145"></span>[1](#fn_145.md)
 
 The chief source of our knowledge of Akhenaton's religion is his great
 hymn, one of the finest surviving versions of which has been found in
 the tomb of a royal official at Tell-el-Amarna. It was first published
 by Bouriant, and has since been edited by Breasted, whose version is the
 recognized standard for all translations. <span
-id="fr_146"></span>[2](#fn_146)
+id="fr_146"></span>[2](#fn_146.md)
 
 The development of Aton religion may have been advanced by Yuaa, Queen
 Tiy's father, during the reign of Amenhotep III, when it appears to have
@@ -268,7 +268,7 @@ O thou beautiful being, thou dost renew thyself, and make thyself young
 again under the form of Aton. . . .
 
 Hail Aton, thou lord of beams of light; thou shinest and all faces (i.e.
-everybody) live. <span id="fr_147"></span>[1](#fn_147)
+everybody) live. <span id="fr_147"></span>[1](#fn_147.md)
 
 There was an Aton cult at Heliopolis which taught that the creator Ra
 was "Shu in his Aton". Aton is the solar disk and Shu is the air god,
@@ -293,7 +293,7 @@ Griffith's trans.
 
 When the chicklet crieth in the egg-shell,  
 Thou givest him *breath* therein, to preserve him alive. <span
-id="fr_148"></span>[2](#fn_148)
+id="fr_148"></span>[2](#fn_148.md)
 
 --Breasted's trans.
 
@@ -305,18 +305,18 @@ their bodies
 
 but pressed towards their nostrils and lips the "ankh", the "symbol of
 life". The air of life was the sun-heated air; life was warmth and
-breath. <span id="fr_149"></span>[1](#fn_149) Why the "ankh" touched the
+breath. <span id="fr_149"></span>[1](#fn_149.md) Why the "ankh" touched the
 lips is clearly indicated in the great hymn. When the child is born,
 Aton--
 
 Openest his mouth that he may speak.
 
 Aton was thus, like certain other Egyptian gods, "the opener", <span
-id="fr_150"></span>[2](#fn_150) who gave power of speech and life to a
+id="fr_150"></span>[2](#fn_150.md) who gave power of speech and life to a
 child at birth or to the mummy of the dead. In this connection Wiedemann
 says that Ptah "bore a name which is probably derived from the root
 *pth*, "to open", especially as used in the ritual term "opening of the
-mouth". Porphyrius, <span id="fr_151"></span>[3](#fn_151) "who was well
+mouth". Porphyrius, <span id="fr_151"></span>[3](#fn_151.md) "who was well
 informed in Egyptian matters", tells us that the god (Ptah) came forth
 from an egg which had issued from the mouth of Kneph (a word signifying
 "air breath", and "spirit Kneph is Khnûmû in his character as an
@@ -336,7 +336,7 @@ Professor Petrie, "was the only instance of a 'jealous god' in
 
 <span class="contnote">\[paragraph continues\]</span> Egypt, and this
 worship was exclusive of all others, and claims universality." <span
-id="fr_152"></span>[1](#fn_152) Had Akhenaton's religion been the same
+id="fr_152"></span>[1](#fn_152.md) Had Akhenaton's religion been the same
 as that of the Aton cult at Heliopolis we might expect to find him
 receiving direct support from that quarter. To the priests of Ra he was
 as great a "heretic" as he was to the priests of Amon, or Amon-Ra, at
@@ -479,19 +479,19 @@ expulsion of the Hyksos.
 
 ### Footnotes
 
-<span id="fn_142"></span>[328:1](eml37.htm#fr_142) Or, "Aton is
+<span id="fn_142"></span>[328:1](eml37.htm#fr_142.md) Or, "Aton is
 satisfied" (Sethe).
 
-<span id="fn_143"></span>[329:1](eml37.htm#fr_143) "Tell-el-Amarna
+<span id="fn_143"></span>[329:1](eml37.htm#fr_143.md) "Tell-el-Amarna
 Letters" in Professor Flinders Petrie's *History of Egypt*, Vol. II.
 
-<span id="fn_144"></span>[330:1](eml37.htm#fr_144) *The Religion of
+<span id="fn_144"></span>[330:1](eml37.htm#fr_144.md) *The Religion of
 Egypt*, London, 1908.
 
-<span id="fn_145"></span>[331:1](eml37.htm#fr_145) *A History of Egypt*,
+<span id="fn_145"></span>[331:1](eml37.htm#fr_145.md) *A History of Egypt*,
 Vol. II, London.
 
-<span id="fn_146"></span>[331:2](eml37.htm#fr_146) The most important of
+<span id="fn_146"></span>[331:2](eml37.htm#fr_146.md) The most important of
 these appear in the following publications: Breasted's *A History of
 Egypt*, Petrie's *A History of Egypt* (version by Griffiths), Budge's
 *Gods of the Egyptians*, and Wiedemann's *Religion of the Ancient
@@ -499,30 +499,30 @@ Egyptians*. In Naville's *The Old Egyptian Faith* (English translation
 by Rev. C. Campbell) the view is urged that Akhenaton's religious revolt
 was political in origin.
 
-<span id="fn_147"></span>[332:1](eml37.htm#fr_147) Budge's *Gods of the
+<span id="fn_147"></span>[332:1](eml37.htm#fr_147.md) Budge's *Gods of the
 Egyptians* and *Book of the Dead*.
 
-<span id="fn_148"></span>[332:2](eml37.htm#fr_148) Amon-ra also "giveth
+<span id="fn_148"></span>[332:2](eml37.htm#fr_148.md) Amon-ra also "giveth
 breath to that which is in the egg" (*Religion of the Ancient
 Egyptians*, Wiedemann, p. 115).
 
-<span id="fn_149"></span>[333:1](eml37.htm#fr_149) A ray of light from
+<span id="fn_149"></span>[333:1](eml37.htm#fr_149.md) A ray of light from
 the moon gave origin to the Apis bull. See Chapter V.
 
-<span id="fn_150"></span>[333:2](eml37.htm#fr_150) Osiris Sokar is "the
+<span id="fn_150"></span>[333:2](eml37.htm#fr_150.md) Osiris Sokar is "the
 opener of the mouth of the four great gods who are in the underworld"
 (*The Burden of Isis*, p. 54).
 
-<span id="fn_151"></span>[333:3](eml37.htm#fr_151) Eusebius, Præparatio
+<span id="fn_151"></span>[333:3](eml37.htm#fr_151.md) Eusebius, Præparatio
 Evangelica, III, 11; Wiedemann, *Religion of the Ancient Egyptians*.
 
-<span id="fn_152"></span>[334:1](eml37.htm#fr_152) *The Religion of
+<span id="fn_152"></span>[334:1](eml37.htm#fr_152.md) *The Religion of
 Ancient Egypt*, p. 54.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII: The Empire of Rameses and the Homeric Age](eml38)
+[Next: Chapter XXVII: The Empire of Rameses and the Homeric Age](eml38.md)
 
 </div>

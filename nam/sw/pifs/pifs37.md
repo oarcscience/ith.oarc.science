@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs36.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Yellow-Corn-Girl, and her baby, and their little son Na-chur-ú-chu
 
 Old-Man-with-a-Black-Cane was the Rain-Maker of the pueblo, and worked
 to bring the rains. His wife was without eyes (blind). The little boy
-Na-chur-ú-chu used to play *whib* <span id="fr_118"></span>[1](#fn_117)
+Na-chur-ú-chu used to play *whib* <span id="fr_118"></span>[1](#fn_117.md)
 in the morning. Then his sister Yellow-Corn-Girl used
 
 <span id="page_253">p. 253</span>
@@ -54,7 +54,7 @@ passed by in his playing, he heard on this inaccessible cliff a child
 singing:
 
 "*I am the grandson of Old-Black-Cane*." <span
-id="fr_119"></span>[1](#fn_118)
+id="fr_119"></span>[1](#fn_118.md)
 
 When Na-chur-ú-chu heard this, he stopped and listened long. And again
 he heard the same song. And he said to himself: "Isn't this my nephew?
@@ -75,7 +75,7 @@ And when he told it in the pueblo, the young men were ordered to go and
 bring the child down from the mesa; but they could not scale it.
 
 The Stone-Layers (a kind of swallow) <span
-id="fr_120"></span>[1](#fn_119) were flying all around; and the young
+id="fr_120"></span>[1](#fn_119.md) were flying all around; and the young
 men said to them: "Say, Birds, what do you want us to pay you to go up
 there and bring down the child that is lying there?" But the birds did
 n't pay any attention, and kept on flying and singing their song, crying
@@ -185,7 +185,7 @@ You have a tail on you. (Now it's *your* turn to tell a story.)
 
 ### Footnotes
 
-<span id="fn_117"></span>[252:1](pifs37.htm#fr_118) An ancient game in
+<span id="fn_117"></span>[252:1](pifs37.htm#fr_118.md) An ancient game in
 which the players race many miles, kicking a small stick ahead of them.
 They must touch it only with their toes. The aboriginal name of Isleta
 is Shee-eh-whíb-bak--meaning
@@ -193,10 +193,10 @@ is Shee-eh-whíb-bak--meaning
 knife-shaped reef of lava running across the ancient channel of the Rio
 Grande.
 
-<span id="fn_118"></span>[253:1](pifs37.htm#fr_119) The rest of the
+<span id="fn_118"></span>[253:1](pifs37.htm#fr_119.md) The rest of the
 verse is in an unknown language, and probably archaic.
 
-<span id="fn_119"></span>[254:1](pifs37.htm#fr_120) Stone-Layers--that
+<span id="fn_119"></span>[254:1](pifs37.htm#fr_120.md) Stone-Layers--that
 is, masons; because these swallows build their nests of mud and pebbles
 on cliffs, under roofs, or in any sheltered place, in a fashion which
 makes one clan of the Pueblos believe they descended from the swallows

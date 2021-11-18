@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal132)  [Next](njal134) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal132)  [Next](njal134.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ of Geirmund, the son of Hroald, the son of Eric Frizzelbeard.
 
 ------------------------------------------------------------------------
 
-[Next: 134. Of Thorhall And Kari](njal134)
+[Next: 134. Of Thorhall And Kari](njal134.md)

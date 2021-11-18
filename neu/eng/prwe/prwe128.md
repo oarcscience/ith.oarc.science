@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe127)  [Next](prwe129) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe127)  [Next](prwe129.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ imparted this peculiar virtue to a stone chair on the ewer.
 
 ------------------------------------------------------------------------
 
-[Next: St Dennis's Blood](prwe129)
+[Next: St Dennis's Blood](prwe129.md)

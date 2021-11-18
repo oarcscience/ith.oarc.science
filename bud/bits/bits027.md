@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits026) [Next](bits028)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits026) [Next](bits028.md)
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ does not even perform meritorious karma."
 
 ------------------------------------------------------------------------
 
-[Next: § 28. Consciousness](bits028)
+[Next: § 28. Consciousness](bits028.md)
 
  
 

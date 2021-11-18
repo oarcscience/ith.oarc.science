@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar73)  [Next](gar75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar73)  [Next](gar75.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_b"></span> <span align="CENTER"> [![Plate
 B.](tn/pl_b.jpg)  
-Click to enlarge](img/pl_b.jpg)  
+Click to enlarge](img/pl_b.jpg.md)  
 Plate B.  
 </span>
 
@@ -51,4 +51,4 @@ in his original sense, the simple personification of the Solar Power.
 
 ------------------------------------------------------------------------
 
-[Next: Plate C](gar75)
+[Next: Plate C](gar75.md)

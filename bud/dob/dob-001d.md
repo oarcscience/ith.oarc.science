@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-001c) [Next](dob-01in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-001c) [Next](dob-01in.md)
 
 ------------------------------------------------------------------------
 
@@ -47,5 +47,5 @@
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the Brahma-*g*âla
-Sutta](dob-01in)
+[Return to top](#top.md)   [Next: Introduction to the Brahma-*g*âla
+Sutta](dob-01in.md)

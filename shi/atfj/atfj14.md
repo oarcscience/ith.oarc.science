@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj13)  [Next](atfj15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj13)  [Next](atfj15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_15"></span> <span align="CENTER"> [![15. Ishidomaro Meets
 His Father, But Fails to Identify Him For Sure](tn/15.jpg)  
-Click to enlarge](img/15.jpg)  
+Click to enlarge](img/15.jpg.md)  
 15. Ishidomaro Meets His Father, But Fails to Identify Him For Sure  
 </span>
 
 ### XII
 
-### THE STORY OF KATO SAYEMON <span id="fr_26"></span>[1](#fn_26)
+### THE STORY OF KATO SAYEMON <span id="fr_26"></span>[1](#fn_26.md)
 
 IN the days when Ashikaga was Shogun there served under him a knight of
 good family, Kato Sayemon, of whom he was especially fond. Things went
@@ -84,7 +84,7 @@ continued herself, with her little son Ishidomaro, to live in the house.
 Even the Shogun Ashikaga was greatly disconcerted at Sayemon's
 disappearance. No news of him came, and time passed on until a year had
 gone, and then another, when Sayemon's wife resolved to take
-[Ishidomaro](errata.htm#2), aged five, and go in search.
+[Ishidomaro](errata.htm#2.md), aged five, and go in search.
 
 For five weary years they wandered about, this mother and son, making
 inquiries everywhere; but not the slightest clue could they get, until
@@ -219,7 +219,7 @@ Buddha.
 
 ### Footnotes
 
-<span id="fn_26"></span>[75:1](atfj14.htm#fr_26) Told to me by Mr.
+<span id="fn_26"></span>[75:1](atfj14.htm#fr_26.md) Told to me by Mr.
 Matsuzaki. I cannot say that I think much of the story. Sayemon is made
 a hero; but he must appear to most as a rather cowardly and low
 creature. I remarked upon this to Mr. Matsuzaki, saying: 'I do not see
@@ -242,6 +242,6 @@ tells me.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Great Fire Caused by a Lady's Dress](atfj15)
+[Next: XIII. Great Fire Caused by a Lady's Dress](atfj15.md)
 
 </div>

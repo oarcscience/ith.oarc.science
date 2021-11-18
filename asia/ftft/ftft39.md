@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft38)  [Next](ftft40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft38)  [Next](ftft40.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_298">p. 298</span>
 
-<span id="img_29800"></span> ![Sister and Brother](img/29800.jpg)
+<span id="img_29800"></span> ![Sister and Brother](img/29800.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE once lived a man named Ahmed Aga. He was very rich, and beside his
 wife had no one belonging to him. The only thing that disturbed his
@@ -66,7 +66,7 @@ Alternating betwixt hope and fear, he seized the pot and with a
 bismillah opened it. Imagine his joy to find therein two newborn babes.
 
 <span id="img_29900"></span> ![He found in the pot two new-born
-babes](img/29900.jpg)
+babes](img/29900.jpg.md)
 
 <span id="page_300">p. 300</span>
 
@@ -87,7 +87,7 @@ cared for the children, a boy and a girl, grew fat and strong.
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N another town there was likewise a man who had no children, although,
 like Ahmed Aga, he greatly desired a son. So he and his wife prayed
@@ -114,7 +114,7 @@ wife's
 <span id="img_30100"></span>
 
 [![The false woman sat by him and whispered in his ear](tn/30100.jpg)  
-Click to enlarge](img/30100.jpg)  
+Click to enlarge](img/30100.jpg.md)  
 The false woman sat by him and whispered in his ear  
 
 <span id="page_302">p. 302</span>
@@ -125,7 +125,7 @@ bitterly.<span id="img_30200"></span>
 
 |                                                  |
 |--------------------------------------------------|
-| ![The Shepherd asked her trouble](img/30200.jpg) |
+| ![The Shepherd asked her trouble](img/30200.jpg.md) |
 
 She wandered on from one hill to another, until one day, although it was
 dark, it seemed as though each hill was a different colour from the
@@ -153,7 +153,7 @@ With the good Ahmed Aga and his wife they grew up to their fourteenth
 <span id="page_303">p. 303</span>
 
 <span id="img_30300"></span> ![The boy flung a large stone at the ugly
-beast](img/30300.jpg)
+beast](img/30300.jpg.md)
 
 year and went together to school. One day the boy was playing with a
 companion, who, jealous of his superiority over him, said: "Be off, you
@@ -210,7 +210,7 @@ and saw a staircase leading downward. Descending, he found a palace,
 <span id="img_30400"></span>
 
 [![](tn/30400.jpg)  
-Click to enlarge](img/30400.jpg)
+Click to enlarge](img/30400.jpg.md)
 
 <span id="page_305">p. 305</span>
 
@@ -227,7 +227,7 @@ slain by his mere glance."
 
 |                                                           |
 |-----------------------------------------------------------|
-| ![A lovely maiden was sitting on a throne](img/30500.jpg) |
+| ![A lovely maiden was sitting on a throne](img/30500.jpg.md) |
 
 Now the youth related to the maiden how he had slain both dragons, and
 he besought her to come away with him. As she appeared not to
@@ -268,4 +268,4 @@ forty nights, and their happiness for ever.
 
 ------------------------------------------------------------------------
 
-[Next: Shah Jussuf](ftft40)
+[Next: Shah Jussuf](ftft40.md)

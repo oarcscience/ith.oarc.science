@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng51)  [Next](vlsng53) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng51)  [Next](vlsng53.md) 
 
 ------------------------------------------------------------------------
 
@@ -389,4 +389,4 @@ Or ever she died!
 
 ------------------------------------------------------------------------
 
-[Next: Appendix VIII: The Whetting Of Gudrun](vlsng53)
+[Next: Appendix VIII: The Whetting Of Gudrun](vlsng53.md)

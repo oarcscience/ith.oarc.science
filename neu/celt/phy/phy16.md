@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy15)  [Next](phy17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy15)  [Next](phy17.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![K](img/08001.jpg) |
+| ![K](img/08001.jpg.md) |
 
 ING OLAVE and the one-legged hammerman journeyed on day after day,
 neither one gaining much advantage over the other. They both reached the
@@ -128,7 +128,7 @@ and sharp a pang as that by which he had slain her father.
 <span id="img_08300"></span>
 
 [![THE DEATH OF LOAN MACLIBHUIN, THE DARK SMITH.](tn/08300.jpg)  
-Click to enlarge](img/08300.jpg)  
+Click to enlarge](img/08300.jpg.md)  
 THE DEATH OF LOAN MACLIBHUIN, THE DARK SMITH.  
 
  
@@ -166,4 +166,4 @@ surnamed the Conqueror.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](phy17)
+[Next: Chapter I](phy17.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai21)  [Next](iai23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai21)  [Next](iai23.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ East](../index)  [Index](index)  [Previous](iai21)  [Next](iai23) 
 
 ### THE KING WORSHIPS AT THE SHRINE OF ISHTAR
 
- <span id="fr_197"></span>[1](#fn_195) The richest and the poorest here
+ <span id="fr_197"></span>[1](#fn_195.md) The richest and the poorest here
 must stay,  
 Each proud or humble maid must take her way  
 To Ishtar's temple grand, a lofty shrine,  
@@ -75,7 +75,7 @@ With Ishtar's eyes and perfect form, the pearl
 Of beauty of them all; turns to the shrine,  
 When in her lap he drops a golden coin,  
 And says, "The goddess Ishtar, prosper thee!" <span
-id="fr_198"></span>[2](#fn_196)  
+id="fr_198"></span>[2](#fn_196.md)  
 She springs, for she from Ishtar's halls is free,  
 And kneels and weeps before the monarch's feet,  
 "O great and mighty Sar I thee entreat,  
@@ -106,7 +106,7 @@ With music ravishing,--sweet melody.
 The priestess leads for them the holy hymn,  
 Thus sing they, measure keep with body, limb:
 
- <span id="fr_199"></span>[3](#fn_197)"Let length of days, long lasting
+ <span id="fr_199"></span>[3](#fn_197.md)"Let length of days, long lasting
 years,  
   With sword of power, extend his holy life!  
     With years extended full of glory, shine,  
@@ -147,7 +147,7 @@ The sparkling sacred wine before the doors
 That lead to Ishtar's glorious inner shrine.  
 He bows before her golden form divine,  
 Thus prays:  
-                 <span id="fr_200"></span>[4](#fn_198) "In thy fair
+                 <span id="fr_200"></span>[4](#fn_198.md) "In thy fair
 shrine I bow to thee,  
 O Light of Heaven! bright thy majesty  
 As glowing flames upon the world doth dawn,  
@@ -162,7 +162,7 @@ Each day thou rulest from thy canopy
 That spreads above in glory,--shines for thee;  
 O come, exalted goddess of the Sun!"
 
- <span id="fr_201"></span>[5](#fn_199)Against the tyrant King I go to
+ <span id="fr_201"></span>[5](#fn_199.md)Against the tyrant King I go to
 war,  
 Attend mine arms, O Queen! with radiant car  
 Of battles! ride upon the giant King  
@@ -190,7 +190,7 @@ My hands will waft the winds for thee.
 Khum-baba falls! thine enemy!  
           Nor aught conceal.
 
-"The harvest month <span id="fr_202"></span>[6](#fn_200) propitious
+"The harvest month <span id="fr_202"></span>[6](#fn_200.md) propitious
 shines,  
 Array great Accad's battle lines!  
 Before thy feet thy Queen descends,  
@@ -215,7 +215,7 @@ For every doubt and fear, I bring
 
 ### Footnotes
 
-<span id="fn_195"></span>[65:1](iai22.htm#fr_197) The account given by
+<span id="fn_195"></span>[65:1](iai22.htm#fr_197.md) The account given by
 Herodotus of the worship of Beltis or Ishtar, if true (see Herodotus, i.
 199), was one of the darkest features of Babylonian religion. It is
 probable that the first intention was only to represent love as
@@ -225,26 +225,26 @@ presence of the women may have been intended at first to present an
 innocent attraction. See also Rawlinson's "Ancient Monarchies," vol.
 iii. p. 21.
 
-<span id="fn_196"></span>[66:2](iai22.htm#fr_198) See Herodotus, vol. i.
+<span id="fn_196"></span>[66:2](iai22.htm#fr_198.md) See Herodotus, vol. i.
 p. 199. Ishtar was called Mylitta or Beltis in the time of Herodotus. We
 have taken the above description from Herodotus, whose work is mostly
 confirmed by the cuneiform inscriptions.
 
-<span id="fn_197"></span>[67:3](iai22.htm#fr_199) The above psalm is
+<span id="fn_197"></span>[67:3](iai22.htm#fr_199.md) The above psalm is
 found in vol. iii. of Rawlinson's "British Museum Inscriptions," pl. 66,
 and was translated by F. Talbot, F.R.S., in vol. i. of the Transactions
 of the Society of Biblical Archæology, p. 108, and also by M. Lenormant
 in his "Premières Civilisations," p. 177. We have used Mr. Talbot's
 transcription.
 
-<span id="fn_198"></span>[68:4](iai22.htm#fr_200) See terra-cotta tablet
+<span id="fn_198"></span>[68:4](iai22.htm#fr_200.md) See terra-cotta tablet
 numbered "S. 954" in the British Museum. also translation by Rev. A. H.
 Sayce, M.A., in the "Records of the Past," vol. v. V. 157.
 
-<span id="fn_199"></span>[68:5](iai22.htm#fr_201) See fragment in
+<span id="fn_199"></span>[68:5](iai22.htm#fr_201.md) See fragment in
 Sayce's edition Smith's "Chald. Acc. of Gen.," p. 220, col. iii.
 
-<span id="fn_200"></span>[69:6](iai22.htm#fr_202) The harvest month was
+<span id="fn_200"></span>[69:6](iai22.htm#fr_202.md) The harvest month was
 the month of Sivan, which is mentioned by the Oracle of Ishtar of
 Arbela. See "Cuneiform Inscriptions of Western Asia," vol. iv. pl. 68;
 also "Records of the Past," vol. xi. pp. 61-62.
@@ -252,4 +252,4 @@ also "Records of the Past," vol. xi. pp. 61-62.
 ------------------------------------------------------------------------
 
 [Next: Column IV. The King Goes from Ishtar's Temple to the Temple of
-Samas](iai23)
+Samas](iai23.md)

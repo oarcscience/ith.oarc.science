@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](jae00)  [Next](jae02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](jae00)  [Next](jae02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI3LW/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI3LW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jesus An Essene*, by E. Planta Nesbit, \[1895\], at Intangible Textual
 Heritage
 
@@ -44,4 +44,4 @@ There is no evidence that any of these books were published.—JBH
 
 ------------------------------------------------------------------------
 
-[Next: Preface](jae02)
+[Next: Preface](jae02.md)

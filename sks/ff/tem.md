@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../tem/tem) 
-[Previous](intro)  [Next](tgv) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../tem/tem.md) 
+[Previous](intro)  [Next](tgv.md) 
 
 ------------------------------------------------------------------------
 
@@ -3188,4 +3188,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Two Gentlemen of Verona](tgv) 
+[Next: The Two Gentlemen of Verona](tgv.md) 

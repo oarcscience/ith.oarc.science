@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc01)  [Next](mtc03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc01)  [Next](mtc03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ arranged chronologically various pieces which interested me and which it
 seemed possible to translate adequately.
 
 An account of the history and technique of Chinese poetry will be found
-in the introduction to my last book. <span id="fr_0"></span>[1](#fn_0)
+in the introduction to my last book. <span id="fr_0"></span>[1](#fn_0.md)
 Learned reviewers must not suppose that I have failed to appreciate the
 poets whom I do not translate. Nor can they complain that the more
 famous of these poets are inaccessible to European readers; about a
@@ -76,13 +76,13 @@ and *Reconstruction.*
 
 ### Footnotes
 
-<span id="fn_0"></span>[9:1](mtc02.htm#fr_0) "170 Chinese Poems," New
+<span id="fn_0"></span>[9:1](mtc02.htm#fr_0.md) "170 Chinese Poems," New
 York, Alfred A. Knopf, 1919.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Great Summons](mtc03)
+[Next: The Great Summons](mtc03.md)
 
 </div>

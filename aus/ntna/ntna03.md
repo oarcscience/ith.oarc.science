@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna02)  [Next](ntna04) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna02)  [Next](ntna04.md) 
 
 ------------------------------------------------------------------------
 
@@ -229,7 +229,7 @@ following list:
 
  
 
-[\[Map of the Northern Territory\]](img/map.jpg)
+[\[Map of the Northern Territory\]](img/map.jpg.md)
 
  
 
@@ -1370,4 +1370,4 @@ which it is possible to study the aboriginal in his natural state.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Social Organisation and Marriage Regulations](ntna04)
+[Next: Chapter II: Social Organisation and Marriage Regulations](ntna04.md)

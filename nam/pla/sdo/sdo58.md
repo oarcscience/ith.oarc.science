@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo57)  [Next](sdo59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo57)  [Next](sdo59.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ before the pipe is formally smoked.
 
 ------------------------------------------------------------------------
 
-[Next: The Four Great Virtues](sdo59)
+[Next: The Four Great Virtues](sdo59.md)

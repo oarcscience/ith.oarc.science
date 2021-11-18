@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml11)  [Next](tml13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml11)  [Next](tml13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ he had ceased, he bowed before her and besought her for his bride, the
 <span id="img_06400"></span> <span align="CENTER"> [![FREY&lt;br&gt;
 From the design by Sir E. Burne-Jones&lt;br&gt; Photograph by Frederich
 Hollyer](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 FREY  
 From the design by Sir E. Burne-Jones  
 Photograph by Frederich Hollyer  
@@ -68,7 +68,7 @@ forth. Then was Skade besought to enter Asgard. To her came Odin, and,
 pointing to the sky, he said:
 
 "Behold! thy father's eyes are made bright stars, <span
-id="fr_18"></span>[1](#fn_18) which shall ever look down upon thee. . .
+id="fr_18"></span>[1](#fn_18.md) which shall ever look down upon thee. . .
 . Amidst the gods thou mayest now dwell, and one thou canst choose to be
 thy husband. But, when this thou shalt do, thine eyes must be
 blindfolded, so that his feet only may be beheld by thee."
@@ -303,7 +303,7 @@ shall know not, O unhappy one, with what weapon to fight."
 
 ### Footnotes
 
-<span id="fn_18"></span>[65:1](tml12.htm#fr_18) The Ivalde family is
+<span id="fn_18"></span>[65:1](tml12.htm#fr_18.md) The Ivalde family is
 associated with star worship. Ivalde is Vate, or Wate, of "Watling
 Street", the old English name of the Milky Way. Thjasse is connected
 with Sirius, and Orvandel with Orion. "Watling Street" was also applied
@@ -312,4 +312,4 @@ to North Wales.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Fall of Asgard](tml13)
+[Next: Chapter VIII. Fall of Asgard](tml13.md)

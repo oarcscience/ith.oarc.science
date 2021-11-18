@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva05)  [Next](rva07) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva05)  [Next](rva07.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### VI. Ixcoçauhqui icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Huiya tzonimolco notauane ye namech maya pinauhtiz, tetemoca ye
 namech maya pinauhtiz.
@@ -96,4 +96,4 @@ sacrificed at the festival, as related by Sahagun (Lib. II., App.).
 
 ------------------------------------------------------------------------
 
-[Next: VII. Hymn of Mixcoatl.](rva07) 
+[Next: VII. Hymn of Mixcoatl.](rva07.md) 

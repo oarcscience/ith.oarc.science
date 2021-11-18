@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs31)  [Next](pifs33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs31)  [Next](pifs33.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ these demigods do not figure as clearly in the Tée-wahn myths as among
 the other Pueblos, the Navajos and the Apaches; but that they are
 believed in, even in Isleta, there can be no doubt. They were the ones
 who led mankind forth from its first home in the dark center of the
-earth. <span id="fr_99"></span>[1](#fn_98) The rainbow is their bow, the
+earth. <span id="fr_99"></span>[1](#fn_98.md) The rainbow is their bow, the
 lightnings are their arrows. Among the other Pueblos there are countless
 folk-stories about these Hero Twins; and the following example myth will
 quickly remind you of the boys who played hide-and-seek. It is told in
@@ -179,7 +179,7 @@ wood.
 It was evening when they returned with a big load of wood, which
 Máw-Sahv had taken pains to get green. He had also picked up in the
 mountains a long, sharp splinter of quartz. <span
-id="fr_100"></span>[1](#fn_99) The evening was cool, and they built a
+id="fr_100"></span>[1](#fn_99.md) The evening was cool, and they built a
 big fire in the fireplace. But immediately, as the boys had planned,
 
 <span id="page_212">p. 212</span>
@@ -249,7 +249,7 @@ south; but their grandmother always forbade them. One day, however, they
 stole away from the house, and got into the cañon. At last they came to
 the She-Bear's house; and there was old Quée-ah asleep in front of the
 door. Máw-sahv crept up very carefully and threw in her face a lot of
-ground *chile*, <span id="fr_101"></span>[1](#fn_100) and ran. At that
+ground *chile*, <span id="fr_101"></span>[1](#fn_100.md) and ran. At that
 the She-Bear began to sneeze, *ah-hútch! ah-hútch!* She could not stop,
 and kept making *ah-hútch* until she sneezed herself to death.
 
@@ -264,7 +264,7 @@ behind them as if leaping. Their grandmother was going for water; and
 from the top of the cliff she saw them running so in the valley, and the
 Bear jumping behind them. She ran to her house and painted one side of
 her face black with charcoal, and the other side red with the blood of
-an animal; <span id="fr_102"></span>[2](#fn_101) and, taking a bag of
+an animal; <span id="fr_102"></span>[2](#fn_101.md) and, taking a bag of
 ashes, ran down the cliff and out at the Bear, to make it leave the boys
 and come after her.
 
@@ -275,18 +275,18 @@ rashness--but in her heart she was very proud of them.
 
 ### Footnotes
 
-<span id="fn_98"></span>[206:1](pifs32.htm#fr_99) They are represented
+<span id="fn_98"></span>[206:1](pifs32.htm#fr_99.md) They are represented
 in the sacred dances by the Káh-pee-óo-nin, "the Dying-of-Cold" (because
 they are always naked except for the breech-clout).
 
-<span id="fn_99"></span>[211:1](pifs32.htm#fr_100) A thunder-knife.
+<span id="fn_99"></span>[211:1](pifs32.htm#fr_100.md) A thunder-knife.
 
-<span id="fn_100"></span>[214:1](pifs32.htm#fr_101) The fiery red-pepper
+<span id="fn_100"></span>[214:1](pifs32.htm#fr_101.md) The fiery red-pepper
 of the Southwest.
 
-<span id="fn_101"></span>[214:2](pifs32.htm#fr_102) Ancient tokens of
+<span id="fn_101"></span>[214:2](pifs32.htm#fr_102.md) Ancient tokens of
 mourning.
 
 ------------------------------------------------------------------------
 
-[Next: XXX. The Hungry Grandfathers](pifs33)
+[Next: XXX. The Hungry Grandfathers](pifs33.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](eru08)  [Next](eru10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru08)  [Next](eru10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ whole is formed into a (quasi) square, in order to gain the angles.
 GEMARA: R. Johanan said: For eighteen days I lived with Oshiya the Great
 and did not learn but one thing concerning this Mishna, namely: The
 Mishna should not read "How can the boundaries of a town be extended,
-but how can they be districted." <span id="fr_35"></span>[1](#fn_35)
+but how can they be districted." <span id="fr_35"></span>[1](#fn_35.md)
 This is not so! Did not R. Johanan once assert, that during his stay
 with Oshiya the Great for eighteen days he learned to know the heart and
 wisdom of each one of Oshiya's twelve disciples? He says only that he
@@ -100,7 +100,7 @@ she made the dish too salt and after tasting it I naturally stopped and
 left it alone. Said she to me: 'Rabbi, why dost thou not eat?' and I
 answered, that I had already eaten during the day; she then rejoined:
 'Thou shouldst have eaten less bread,' and continued: 'Perhaps because
-thou didst not leave any Peah <span id="fr_36"></span>[1](#fn_36) on the
+thou didst not leave any Peah <span id="fr_36"></span>[1](#fn_36.md) on the
 first two days, thou dost leave it now to serve for all three; for have
 not our sages decreed, that no Peah need be left in the cooking pot, but
 some should be left in the plate on which the dish is served?'"
@@ -257,7 +257,7 @@ added, "that no nation on earth could have got them in their power,"
 because: do not read "Charuth" (engraved) but "Cheiruth" (liberty).
 
 R. Mathna said: It is written \[Numbers xxi. 18\]: "And from the
-wilderness to Mattanah," <span id="fr_37"></span>[1](#fn_37) which
+wilderness to Mattanah," <span id="fr_37"></span>[1](#fn_37.md) which
 signifies, that if the man makes himself as a wilderness, upon which
 everybody treads, and does not mind it, the knowledge he gains remains
 with him as a present.
@@ -287,7 +287,7 @@ bosom satisfy thee abundantly at all times." Why is the Law compared to
 a bosom? Because as at all times when the child desires to suck, the
 bosom yields its milk, so does the Law yield its teachings every time it
 is perused. Further, it is written \[ibid.\]: "With her love be thou
-ravished <span id="fr_38"></span>[1](#fn_38) continually." This means to
+ravished <span id="fr_38"></span>[1](#fn_38.md) continually." This means to
 imply as was said of R. Elazar ben P'dath, that when he was studying the
 Law in the lower market of Sepphoris, his clothes were frequently found
 in the upper market; so engrossed was he in his studies, that he did not
@@ -546,7 +546,7 @@ either sunrise or sunset, and the equinox of Tebeth takes place only
 four and one-half hours or ten and one-half hours after either sunrise
 or sunset. There is not more than ninety-one days seven and one-half
 hours between each equinox, and they occur in the first and second half
-of the same hour respectively. <span id="fr_39"></span>[1](#fn_39)
+of the same hour respectively. <span id="fr_39"></span>[1](#fn_39.md)
 
 The Rabbis taught: One who comes to measure the city should first make
 it square in the form of a board. Afterwards he makes another square of
@@ -1112,22 +1112,22 @@ prevail).
 
 ### Footnotes
 
-<span id="fn_35"></span>[119:1](eru09.htm#fr_35) The question here
+<span id="fn_35"></span>[119:1](eru09.htm#fr_35.md) The question here
 arises whether the Hebrew term "Meabrin," which we render with
 "extended," is spelled with an Aleph or an Ayin. If with an Aleph it
 signifies extended, and if with an Ayin it means districted.
 
-<span id="fn_36"></span>[121:1](eru09.htm#fr_36) Peah signifies the
+<span id="fn_36"></span>[121:1](eru09.htm#fr_36.md) Peah signifies the
 comers of the field, the crops of which must be left over for the
 widows, orphans, etc.
 
-<span id="fn_37"></span>[124:1](eru09.htm#fr_37) Mattanah is the Hebrew
+<span id="fn_37"></span>[124:1](eru09.htm#fr_37.md) Mattanah is the Hebrew
 term for a present.
 
-<span id="fn_38"></span>[125:1](eru09.htm#fr_38) The Hebrew term for
+<span id="fn_38"></span>[125:1](eru09.htm#fr_38.md) The Hebrew term for
 "ravished" in the verse is Tishgeh, which means also thou shalt err."
 
-<span id="fn_39"></span>[131:1](eru09.htm#fr_39) This is calculated by
+<span id="fn_39"></span>[131:1](eru09.htm#fr_39.md) This is calculated by
 the ancient astronomers as follows: There are seven planets, which
 change with every hour; *e.g.,* in the first hour we have the planet
 Mercury, in the second the Moon, in the third Saturn, in the fourth
@@ -1141,4 +1141,4 @@ the Moon, etc.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Erubin of Courts and Partnerships](eru10)
+[Next: Chapter VI: Erubin of Courts and Partnerships](eru10.md)

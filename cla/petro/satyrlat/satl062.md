@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat10.htm#LXII) 
-[Previous](satl061)  [Next](satl063) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat10.htm#LXII.md) 
+[Previous](satl061)  [Next](satl063.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ exopinissent; ego si mentior, genios vestros iratos habeam."
 
 ------------------------------------------------------------------------
 
-[Next: LXIII](satl063)
+[Next: LXIII](satl063.md)

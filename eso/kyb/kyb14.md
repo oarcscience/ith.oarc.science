@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](kyb13)  [Next](kyb15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](kyb13)  [Next](kyb15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NHRC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NHRC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Kybalion*, by Three Initiates, \[1912\], at Intangible Textual
 Heritage
 
@@ -210,4 +210,4 @@ to grasp the inner meaning of this?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Gender](kyb15)
+[Next: Chapter XIII. Gender](kyb15.md)

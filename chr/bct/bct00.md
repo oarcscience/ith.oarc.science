@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Frontespiece](bct_pl00) [Next](bct01)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Frontespiece](bct_pl00) [Next](bct01.md)
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@
 
 ------------------------------------------------------------------------
 
-[Next](bct01)
+[Next](bct01.md)

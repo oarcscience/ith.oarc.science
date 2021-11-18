@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm17)  [Next](bcm19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm17)  [Next](bcm19.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ Geomancy, unless his imputed works in these departments of occult
 science are also forgeries; but the *Heptameron* was never heard of for
 the space which I have mentioned after the death of its reputed author,
 which occurred in 1316, and it is too obviously later in its tone, too
-obviously a sequel <span id="fr_42"></span>[1](#fn_42) to a much more
+obviously a sequel <span id="fr_42"></span>[1](#fn_42.md) to a much more
 recent work, for it to have been possibly a memorial of the fourteenth
 century.
 
@@ -118,7 +118,7 @@ fact that all conventional distinctions dissolve therein.
 
 ### Footnotes
 
-<span id="fn_42"></span>[90:1](bcm18.htm#fr_42) A sequel, moreover,
+<span id="fn_42"></span>[90:1](bcm18.htm#fr_42.md) A sequel, moreover,
 which contains several direct references, as, for example: "But after
 what manner they appear has been described already in the former book of
 magical ceremonies"--*The Conjuration of the Lord's Day*. This recurs
@@ -127,4 +127,4 @@ to add that Agrippa was of the sixteenth century.
 
 ------------------------------------------------------------------------
 
-[Next: Section 7: The Sacred Magic of Abramelin the Mage](bcm19)
+[Next: Section 7: The Sacred Magic of Abramelin the Mage](bcm19.md)

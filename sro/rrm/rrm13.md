@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm12)  [Next](rrm14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm12)  [Next](rrm14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -329,7 +329,7 @@ Scorpio, (♐) Sagittarius, (♑) Capricornus, (♒) Aquarius, and (♓) Pisces.
 
 [![Fig. 12 (A) 'Ezekiel's Wheel'&lt;br&gt; Macrocosmos
 (ascending)&lt;br&gt; Microcosmos (descending)](tn/07200.jpg)  
-Click to enlarge](img/07200.jpg)  
+Click to enlarge](img/07200.jpg.md)  
 Fig. 12 (A) 'Ezekiel's Wheel'  
 Macrocosmos (ascending)  
 Microcosmos (descending)  
@@ -343,7 +343,7 @@ The first six signs, or ascending signs, are represented
 <span id="img_07300"></span>
 
 [![Figs. 13-21](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)  
+Click to enlarge](img/07300.jpg.md)  
 Figs. 13-21  
 
 by the celestial perpendicular, or descending ray, as thus: (Fig. 13).
@@ -412,4 +412,4 @@ mistaken effort alone.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Fire-Theosophy of the Persians](rrm14)
+[Next: Chapter X. Fire-Theosophy of the Persians](rrm14.md)

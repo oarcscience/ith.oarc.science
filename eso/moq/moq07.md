@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](moq06)  [Next](moq08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](moq06)  [Next](moq08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysteries of the Qabalah*, by Elias Gewurz, \[1922\], at Intangible
 Textual Heritage
 
@@ -17,7 +17,7 @@ Textual Heritage
 
 <span id="page_31">p. 31</span>
 
-### Initiation according to the Qabalah, from a Scientific and Philosophical Point of View. <span id="fr_1"></span>[\*](#fn_1)
+### Initiation according to the Qabalah, from a Scientific and Philosophical Point of View. <span id="fr_1"></span>[\*](#fn_1.md)
 
 Various explanations of the way of initiation have been given to the
 world which appeal to those who are purely upon the line of
@@ -475,10 +475,10 @@ Is that life is more than language<br />
 
 ### Footnotes
 
-<span id="fn_1"></span>[31:\*](moq07.htm#fr_1) The following teaching is
+<span id="fn_1"></span>[31:\*](moq07.htm#fr_1.md) The following teaching is
 taken down verbatim from Mr. Gewurz's dictation *while in a
 semi-entranced condition*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Qabalah](moq08)
+[Next: Chapter I. The Qabalah](moq08.md)

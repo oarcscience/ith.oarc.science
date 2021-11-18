@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor06)  [Next](yor08) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor06)  [Next](yor08.md) 
 
 ------------------------------------------------------------------------
 
@@ -477,4 +477,4 @@ called Odo Iyewa, "The Lagoon of Iyewa."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: The In-Dwelling Spirits And Souls of Men.](yor08)
+[Next: Chapter VII: The In-Dwelling Spirits And Souls of Men.](yor08.md)

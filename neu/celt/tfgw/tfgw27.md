@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw26)  [Next](tfgw28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw26)  [Next](tfgw28.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ Tom Moore and the Seal Woman
 
 ------------------------------------------------------------------------
 
-[Next: The Four-Leafed Shamrock](tfgw28)
+[Next: The Four-Leafed Shamrock](tfgw28.md)

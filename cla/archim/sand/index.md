@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Archimedes](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Archimedes](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sandreck)
+[Contents](#contents)    [Start Reading](sandreck.md)
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ mastered basic algebra.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [The Sand-Reckoner](sandreck)  
+<span id="contents"></span> [The Sand-Reckoner](sandreck.md)  

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hft19)  [Next](hft21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hft19)  [Next](hft21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hawaiian Folk Tales*, by Thomas G. Thrum, \[1907\], at Intangible
 Textual Heritage
 
@@ -38,7 +38,7 @@ as the largest throughout the whole Hawaiian group.
 Kupa had a priest named Kamalo, who resided at Kaluaaha. This priest had
 two boys, embodiments of mischief, who one day while the King was absent
 on a fishing expedition, took the opportunity to visit his house at the
-heiau. Finding there the *pahu kaeke* <span id="fr_7"></span>[1](#fn_7)
+heiau. Finding there the *pahu kaeke* <span id="fr_7"></span>[1](#fn_7.md)
 
 <span id="page_187">p. 187</span>
 
@@ -195,7 +195,7 @@ comes suddenly down that valley.
 
 ### Footnotes
 
-<span id="fn_7"></span>[186:1](hft20.htm#fr_7) A species of drum made
+<span id="fn_7"></span>[186:1](hft20.htm#fr_7.md) A species of drum made
 out of a hollowed section of the trunk of a cocoanut tree and covered
 over one end with sharkskin. It was generally used in pairs, one larger
 than the other, somewhat after the idea of the bass and tenor drums of
@@ -210,4 +210,4 @@ syllable with the voice.
 ------------------------------------------------------------------------
 
 [Next: XVIII. Kaliuwaa, Scene of the Demigod Kamapuaa's Escape From
-Olopana](hft21)
+Olopana](hft21.md)

@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-04in) [Next](dob-05in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-04in) [Next](dob-05in.md)
 
 ------------------------------------------------------------------------
 
@@ -563,7 +563,7 @@ One. And the Blessed One said:
 
    \[*Here follow the paragraphs* 40-63 *in the Sâma*ññ
 
-a-Phala Sutta above, [pp. 62-70](dob-02tx.htm#text%20p.%2062) *of the
+a-Phala Sutta above, [pp. 62-70](dob-02tx.htm#text%20p.%2062.md) *of the
 text; that is, the paragraph on the appearance of a Buddha, his
 preaching, the conversion of the hearer, his renunciation of the world,
 all the Sîlas, and the paragraph on Confidence,* § 63.\]
@@ -582,7 +582,7 @@ instance, S. I, 41, 42; Sum. I, 171, 290; A. IV, 342.}</span>
 
 <span id="p. 157">{p. 157}</span>
 
-*at* So vivi*kk*' eva kâmehi *in* [§ 75](dob-02tx.htm#p.%2084) *of the
+*at* So vivi*kk*' eva kâmehi *in* [§ 75](dob-02tx.htm#p.%2084.md) *of the
 Sâma*ññ*a-phala down to the end of* § 82*, then the paragraphs on
 Insight arising from Knowledge, on the Mental Image, on the Wondrous
 Gifts, on the Heavenly Ear, on Knowledge of the hearts of others, on
@@ -614,7 +614,7 @@ bowed down before the Blessed
 
 <span class="small">{1. The repetition here is nearly the same as that
 in the Amba*tth*a Sutta, summarised above at the translation of [p.
-100](dob-03tx.htm#text%20p.%20100) of the text. The only difference is
+100](dob-03tx.htm#text%20p.%20100.md) of the text. The only difference is
 that the paragraphs 64-74 of the Sâma*ññ*a-phala there included as
 coming under *K*ara*n*a (Conduct) are here included under Sîla
 (Uprightness). The *Gh*ânas, there put, not under Vi*gg*â (Wisdom), but
@@ -623,7 +623,7 @@ under *K*ara*n*a, are here put, not under Sîla, but under Pa*ññ*â
 included under Vi*gg*a, and the Four *Gh*ânas besides. But Sîla includes
 all that is put in the Amba*tth*a under Sîla--all indeed of the eight
 divisions of Sîla as summarised above, [pp.
-57-59](dob-02in.htm#p.%2057). See Buddhaghosa's notes at pp. 219, 268,
+57-59](dob-02in.htm#p.%2057.md). See Buddhaghosa's notes at pp. 219, 268,
 292.}</span>
 
 <span id="p. 158">{p. 158}</span>
@@ -697,5 +697,5 @@ even referred to.}</span>
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the Kû*t*adanta
-Sutta](dob-05in)
+[Return to top](#top.md)   [Next: Introduction to the Kû*t*adanta
+Sutta](dob-05in.md)

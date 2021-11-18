@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](morg00)    [Page
-Index](pageidx)    [Text \[Zipped\]](morg.txt.gz)
+[Contents](#contents)    [Start Reading](morg00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](morg.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ So why read this book? Stripped of the fevered historical background,
 and ignoring the publisher's antimasonic introduction, this becomes
 simply one of the first published accounts of US Freemasonry in the
 early 19th century. It seems accurate, based on other published
-Monitors, such as [Ducan's](../dun/index). At this perspective,
+Monitors, such as [Ducan's](../dun/index.md). At this perspective,
 Illustrations is no more offensive than Robert's Rules of Order,
 although it makes more interesting reading.
 
@@ -63,30 +63,30 @@ was added to the text by the transcriber.--J. B. Hare.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](morg00)  
-[Verso](morg01)  
-[Introduction](morg02)  
+<span id="contents"></span> [Title Page](morg00.md)  
+[Verso](morg01.md)  
+[Introduction](morg02.md)  
 <span id="section_000"></span>
 
 ### Illustrations of Masonry
 
-[Opening the Lodge](morg03)  
-[First Degree Initiation](morg04)  
-[Closing the Lodge](morg05)  
-[First Section of the Lecture on the First Degree](morg06)  
-[Second Section of the Lecture on the First Degree](morg07)  
-[Third Section of the Lecture on the First Degree](morg08)  
-[Second or Fellow Craft Degree Initiation](morg09)  
-[First Section of the Fellow Craft Mason Lecture](morg10)  
-[Second Section of the Fellow Craft Mason Lecture](morg11)  
-[Third, or Master Mason's Degree](morg12)  
-[First Section of the Master Mason Lecture.](morg13)  
-[Second Section of the Master Mason Lecture.](morg14)  
-[Second Section of the Master Mason Lecture](morg15)  
+[Opening the Lodge](morg03.md)  
+[First Degree Initiation](morg04.md)  
+[Closing the Lodge](morg05.md)  
+[First Section of the Lecture on the First Degree](morg06.md)  
+[Second Section of the Lecture on the First Degree](morg07.md)  
+[Third Section of the Lecture on the First Degree](morg08.md)  
+[Second or Fellow Craft Degree Initiation](morg09.md)  
+[First Section of the Fellow Craft Mason Lecture](morg10.md)  
+[Second Section of the Fellow Craft Mason Lecture](morg11.md)  
+[Third, or Master Mason's Degree](morg12.md)  
+[First Section of the Master Mason Lecture.](morg13.md)  
+[Second Section of the Master Mason Lecture.](morg14.md)  
+[Second Section of the Master Mason Lecture](morg15.md)  
 <span id="section_001"></span>
 
 ### Freemasonry at a Glance
 
-[Entered Apprentice Degree](morg16)  
-[Fellow Craft Degree](morg17)  
-[Master Mason's Degree](morg18)  
+[Entered Apprentice Degree](morg16.md)  
+[Fellow Craft Degree](morg17.md)  
+[Master Mason's Degree](morg18.md)  

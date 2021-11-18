@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng03)  [Next](nblng05) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng03)  [Next](nblng05.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ stones.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure III: How Siegfried Came to Worms.](nblng05)
+[Next: Adventure III: How Siegfried Came to Worms.](nblng05.md)

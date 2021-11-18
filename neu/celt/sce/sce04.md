@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce03)  [Next](sce05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce03)  [Next](sce05.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ habits may have been suggested by the tumuli, still more by the
 memory. As to the Irish "Feens," the topic can only be discussed by
 Celtic scholars. But it does not follow, because the leader of the Feens
 seemed a dwarf among giants, that therefore his people were a dwarfish
-race. <span id="fr_1"></span>[1](#fn_1) The story proves no more than
+race. <span id="fr_1"></span>[1](#fn_1.md) The story proves no more than
 Gulliver's Travels.
 
 Once more, we often read in the Sagas of a hero like Grettir, who opens
@@ -105,18 +105,18 @@ The worshippers of Chthonian Demeter (Achaia) beat the earth with wands;
 so does the Zulu sorcerer when he appeals to the Ancestors. And a
 Macdonald in Moidart, being pressed for his rent, beat the earth, and
 cried aloud to his dead chief, "Simon, hear me; you were always good to
-me." <span id="fr_2"></span>[1](#fn_2)
+me." <span id="fr_2"></span>[1](#fn_2.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[xx:1](sce04.htm#fr_1) *The Testimony of
+<span id="fn_1"></span>[xx:1](sce04.htm#fr_1.md) *The Testimony of
 Tradition*, p. 75.
 
-<span id="fn_2"></span>[xxii:1](sce04.htm#fr_2) In Father Macdonald's
+<span id="fn_2"></span>[xxii:1](sce04.htm#fr_2.md) In Father Macdonald's
 book on Moidart.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Fairyland and Hades](sce05)
+[Next: IV. Fairyland and Hades](sce05.md)

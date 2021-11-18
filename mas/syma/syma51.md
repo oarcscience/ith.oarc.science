@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](syma50)  [Next](syma52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](syma50)  [Next](syma52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symbolical Masonry*, by H.L. Haywood, \[1923\], at Intangible Textual
 Heritage
 
@@ -152,7 +152,7 @@ opinion toward which the *drift* of all our data seems to lead one.
 #### V
 
 The confusion which may have been occasioned by this review of the
-theories of [origin](errata.htm#1) will not be lessened, I fear, when we
+theories of [origin](errata.htm#1.md) will not be lessened, I fear, when we
 turn to interpretation, for in this also we find a multitude of
 counsellors, and few agreeing. To make this diversity as plain as
 possible I shall set down a table of the theories, with their authors’
@@ -230,4 +230,4 @@ unwavering and hold over the wreck of the universe!"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLVIII. Eternal Life](syma52)
+[Next: Chapter XLVIII. Eternal Life](syma52.md)

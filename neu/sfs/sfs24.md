@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs23)  [Next](sfs25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs23)  [Next](sfs25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ A. Biggs (Trübner and Co.).
 
 <span id="page_108">p. 108</span>
 
-In the Polish story, [No. 17](sfs25.htm#an_17), we make acquaintance
+In the Polish story, [No. 17](sfs25.htm#an_17.md), we make acquaintance
 with 'Kostchey the Deathless,' who plays a great part in Russian
 stories, but is entirely unknown by name among the southern and most of
 the western Slavonians. His place is with them taken by dragons and evil
@@ -55,18 +55,18 @@ government of Perm, given by Mr. Ralston, the secret of his immortality
 is discovered, and he is put to death accordingly. But I cannot help
 inferring that his death is of annual occurrence, and that he resumes
 his reign annually at the proper season, to be again put to death
-towards spring. With [No. 18](sfs26.htm#an_18) several Russian tales
+towards spring. With [No. 18](sfs26.htm#an_18.md) several Russian tales
 given by Mr. Ralston (pp. 185-193) may be compared. [No.
-19](sfs27.htm#an_19) is a singular story of a more Oriental than
-European cast, and [No. 20](sfs28.htm#an_20) reads as much like a dream
+19](sfs27.htm#an_19.md) is a singular story of a more Oriental than
+European cast, and [No. 20](sfs28.htm#an_20.md) reads as much like a dream
 dreamed after the consumption of a considerable quantity of *vodka*, as
 a genuine Folklore story. Such is also the case with several of Crofton
 Croker's Legends of the south of Ireland.
 
-Tale [No. 17](sfs25.htm#an_17) has already appeared in the 'Folklore
+Tale [No. 17](sfs25.htm#an_17.md) has already appeared in the 'Folklore
 Journal' for January, 1884. For mere beauty of construction and
 narration I doubt whether its equal can be found in any language.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Prince Unexpected](sfs25)
+[Next: XVII. Prince Unexpected](sfs25.md)

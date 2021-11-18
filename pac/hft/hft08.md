@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hft07)  [Next](hft09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hft07)  [Next](hft09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hawaiian Folk Tales*, by Thomas G. Thrum, \[1907\], at Intangible
 Textual Heritage
 
@@ -208,7 +208,7 @@ government of the place with him. Their land is a place of darkness;
 their food lizards and butterflies. There are several streams of water,
 of which they drink, and some said that there were large kahilis and
 wide-spreading kou trees, beneath which they reclined." <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 "They had some very indistinct notion of a future state of happiness and
 of misery. They said that, after death, the ghost went first to the
@@ -227,24 +227,24 @@ misery below, called Milu.
 ghosts were supposed to take the a leap into the region of woe; three in
 particular, one at the northern extremity of Hawaii, one at the western
 termination of Maui, and the third at the northern point of Oahu." <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 Near the northwest point of Oahu is a rock called Leina Kauhane, where
 the souls of the dead descended into Hades. In New Zealand the same
 term, "Reinga" (the leaping place), is applied to the North Cape. The
 Marquesans have a similar belief in regard to the
-[northernmost](errata.htm#0) island of their group, and apply the same
+[northernmost](errata.htm#0.md) island of their group, and apply the same
 term, "Reinga," to their Avernus.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_3"></span>[49:1](hft08.htm#fr_3) Ellis's "Polynesian
+<span id="fn_3"></span>[49:1](hft08.htm#fr_3.md) Ellis's "Polynesian
 Researches," pp, 365-7.
 
-<span id="fn_4"></span>[50:1](hft08.htm#fr_4) Dibble's History, p. 99.
+<span id="fn_4"></span>[50:1](hft08.htm#fr_4.md) Dibble's History, p. 99.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Lonopuha; Or, Origin of the Art of Healing In Hawaii](hft09)
+[Next: VI. Lonopuha; Or, Origin of the Art of Healing In Hawaii](hft09.md)

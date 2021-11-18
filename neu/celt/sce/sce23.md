@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce22)  [Next](sce24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce22)  [Next](sce24.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ Prevention.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 14](sce24)
+[Next: Chapter 14](sce24.md)

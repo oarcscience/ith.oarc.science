@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk00)  [Next](tpk02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk00)  [Next](tpk02.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ city were being hurried on.
 
 ------------------------------------------------------------------------
 
-[Next: The False Religion](tpk02)
+[Next: The False Religion](tpk02.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb04)  [Next](lifb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb04)  [Next](lifb06.md) 
 
 </div>
 
@@ -19,7 +19,7 @@ Heritage
 The Jogi's Punishment
 
 Once upon a time there came to the ancient city of Rahmatabad a
-jogi <span id="fr_0"></span>[1](#fn_0) of holy appearance, who took up
+jogi <span id="fr_0"></span>[1](#fn_0.md) of holy appearance, who took up
 his abode under a tree outside the city, where he would sit for days at
 a time fasting from food and drink, motionless except for the fingers
 that turned restlessly his string of beads. The fame of such holiness as
@@ -221,12 +221,12 @@ From Major Campbell, Feroshepore.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](lifb05.htm#fr_0) A Hindu holy man.
+<span id="fn_0"></span>[1](lifb05.htm#fr_0.md) A Hindu holy man.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Heart of a Monkey](lifb06)
+[Next: The Heart of a Monkey](lifb06.md)
 
 </div>

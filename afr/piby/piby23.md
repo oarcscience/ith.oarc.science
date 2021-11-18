@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby22)  [Next](piby24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby22)  [Next](piby24.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Ethiopia."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4. Apostles Exalted](piby24)
+[Next: Chapter 4. Apostles Exalted](piby24.md)

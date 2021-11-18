@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](epj)  [Next](sus) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](epj)  [Next](sus.md) 
 
 ------------------------------------------------------------------------
 
@@ -232,4 +232,4 @@ ever."
 
 ------------------------------------------------------------------------
 
-[Next: Susanna](sus)
+[Next: Susanna](sus.md)

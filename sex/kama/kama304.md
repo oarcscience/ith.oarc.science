@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama303) 
-[Next](kama305) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama303.md) 
+[Next](kama305.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ looks of the bridegroom, or when given to a man who has several wives,
 she never becomes attached to the man, even though he be endowed with
 good qualities, obedient to her will, active, strong, and healthy, and
 anxious to please her in every way. <span
-id="fr_45"></span>[1](kama101.htm#fn_0) A husband who is obedient but
+id="fr_45"></span>[1](kama101.htm#fn_0.md) A husband who is obedient but
 yet master of himself, though he be poor and not good looking, is better
 than one who is common to many women, even though he be handsome and
 attractive. The wives of rich men, where there are many wives, are not
@@ -154,7 +154,7 @@ husband of love.'
 
 ### Footnotes
 
-<span id="fn_45"></span>[1](#fr_-1) There is a good deal of truth in the
+<span id="fn_45"></span>[1](#fr_-1.md) There is a good deal of truth in the
 last few observations. Woman is a monogamous animal, and loves but one,
 and likes to feel herself alone in the affections of one man, and cannot
 bear rivals. It may also be taken as a general rule that women either
@@ -163,4 +163,4 @@ themselves.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. On the Different Forms of Marriage](kama305)
+[Next: Chapter V. On the Different Forms of Marriage](kama305.md)

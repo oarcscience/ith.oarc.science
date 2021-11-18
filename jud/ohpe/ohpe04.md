@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](ohpe03)  [Next](ohpe05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](ohpe03)  [Next](ohpe05.md) 
 
 ------------------------------------------------------------------------
 
@@ -716,12 +716,12 @@ As it is written: The thin-bearded is cunning and the thick-bearded is a
 fool.
 
 This proverb is also found in the second Alphabet (see below, [p.
-xxix](ohpe05.htm#page_xxix)).
+xxix](ohpe05.htm#page_xxix).md).
 
 LXVIII\.
 
 It is explained in the book of Ben Sira, that the Holy One (blessed be
-he!) is called 'place <span id="fr_36"></span>[1](#fn_36),' because he
+he!) is called 'place <span id="fr_36"></span>[1](#fn_36.md),' because he
 is the place of (i.e. contains) the world, and the world is not his
 place.
 
@@ -762,10 +762,10 @@ and for two days will I desert thee.
 
 ### Footnotes
 
-<span id="fn_36"></span>[xxviii:1](ohpe04.htm#fr_36) A common Rabbinical
+<span id="fn_36"></span>[xxviii:1](ohpe04.htm#fr_36.md) A common Rabbinical
 designation of God. Cf. τόπος in Philo (e. g. de Somniis, i. § 11, ed.
 Mangey, i. 630).
 
 ------------------------------------------------------------------------
 
-[Next: The Alphabet of Ben Sira](ohpe05)
+[Next: The Alphabet of Ben Sira](ohpe05.md)

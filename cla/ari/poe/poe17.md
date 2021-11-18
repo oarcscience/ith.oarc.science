@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe16)  [Next](poe18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe16)  [Next](poe18.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ amulets. Next come the recognitions by process of reasoning.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Practical rules for the Tragic Poet](poe18)
+[Next: XVII. Practical rules for the Tragic Poet](poe18.md)

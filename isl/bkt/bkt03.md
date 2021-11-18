@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt02) [Next](bkt04)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt02) [Next](bkt04.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@
 
 ------------------------------------------------------------------------
 
-[Next](bkt04)
+[Next](bkt04.md)
 
  
 

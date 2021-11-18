@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](zjo00)  [Next](jes00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](zjo00)  [Next](jes00.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ God and upon Him I shall depend.
 
 ------------------------------------------------------------------------
 
-[Next: Jesus The Son of Mary (PUH)](jes00)
+[Next: Jesus The Son of Mary (PUH)](jes00.md)

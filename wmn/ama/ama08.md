@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](ama07)  [Next](ama09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](ama07)  [Next](ama09.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ to be ruled over by women governors, and recruited fresh warriors from
 among the strongest of their own sex. Apparently while Merina was away,
 Hercules, coming west, had marked the extreme limits of his conquests by
 erecting his Pillars (the triumphal and thanksgiving <span
-id="fr_2"></span>[1](#fn_2) columnos usually built as symbols of
+id="fr_2"></span>[1](#fn_2.md) columnos usually built as symbols of
 possession) on the twin rocks of Calpe and Abyla, where the Iberian
 peninsula most nearly touches the African coast, passed over to the
 Hesperides, attacked the Amazons, destroying their power in the west, as
@@ -118,7 +118,7 @@ delivered his crushing blow to the
 [![I.--COMBAT OF HERCULES AND AMAZONS.&lt;BR&gt; KYLIX. BRITISH
 MUSEUM.&lt;BR&gt; II.-ACHILLES SLAYING PENTHESILEIA.&lt;BR&gt; AMPHERA
 (WINE JAR), BRITISH MUSEUM.](tn/11200.jpg)  
-Click to enlarge](img/11200.jpg)  
+Click to enlarge](img/11200.jpg.md)  
 I.--COMBAT OF HERCULES AND AMAZONS.  
 KYLIX. BRITISH MUSEUM.  
 II.-ACHILLES SLAYING PENTHESILEIA.  
@@ -583,7 +583,7 @@ clearly point to
 
 [![FIGURES FROM CRATES. DEATH OF PRIAM AT THE TAKING OF
 TROY.](tn/12900.jpg)  
-Click to enlarge](img/12900.jpg)  
+Click to enlarge](img/12900.jpg.md)  
 FIGURES FROM CRATES. DEATH OF PRIAM AT THE TAKING OF TROY.  
 
 considerable changes in an old organisation whose origin was practically
@@ -718,7 +718,7 @@ age. Lopez reported that in the north-east of the Congo Empire, "at the
 beginning of the Nilus," there dwelt the monstrous tribe of Giachas, or
 Agagi, giants who "feed upon man's flesh," who scarred their lips and
 cheeks with certain lines made with red-hot irons, <span
-id="fr_3"></span>[1](#fn_3) and who were at continual
+id="fr_3"></span>[1](#fn_3.md) and who were at continual
 
 <span id="page_134">p. 134</span>
 
@@ -819,13 +819,13 @@ the equator, taking in this Cunene colony as its extreme limit.
 
 ### Footnotes
 
-<span id="fn_2"></span>[112:1](ama08.htm#fr_2) These were the pillars
+<span id="fn_2"></span>[112:1](ama08.htm#fr_2.md) These were the pillars
 which the Spanish monarchs were to assume as part of their heraldic
 insignia, and which their lieutenants still later were to imitate when
 taking possession of huge tracts of country in the New World in the name
 of their sovereigns.
 
-<span id="fn_3"></span>[133:1](ama08.htm#fr_3) Tattoo marks are used
+<span id="fn_3"></span>[133:1](ama08.htm#fr_3.md) Tattoo marks are used
 primarily as tribal and professional badges, originally being connected
 with totemism, the adornment for the sake of personal attraction or
 repulsion (in love matters or warfare) being a natural development of
@@ -885,4 +885,4 @@ from astrology and the practical application thereof.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Amazons of America](ama09)
+[Next: Chapter VIII: Amazons of America](ama09.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7H7K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7H7K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7H7K/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](aah00)    [Page
-Index](pageidx)    [Text \[Zipped\]](aah.txt.gz)
+[Contents](#contents)    [Start Reading](aah00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](aah.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -65,22 +65,22 @@ electricity.
 This is the first web posting of the letters of Abelard and Heloise.
 This includes a long poem by Alexander Pope about the lovers, notable
 for the phrase 'eternal sunshine of the spotless mind,' ([p.
-104](aah09.htm#page_104), in reference to Heloise) which was recently
+104](aah09.htm#page_104), in reference to Heloise.md) which was recently
 used for a movie title.
 
 --J.B. Hare, September 18th, 2006
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](aah00)  
-[Introduction](aah01)  
-[Contents](aah02)  
-[Letter I.--Abelard to Philintus](aah03)  
-[Letter II. Heloise to Abelard](aah04)  
-[Letter III. Abelard to Heloise](aah05)  
-[Letter IV.--Heloise to Abelard](aah06)  
-[Letter V.--Heloise to Abelard](aah07)  
-[Letter VI. Abelard to Heloise](aah08)  
-[Appendix: Pope's 'Eloïsa to Abelard'](aah09)  
-[From W. E. Henly's Prologue to Beau Austin](aah10)  
-[Editorial Appendix](aah11)  
+<span id="contents"></span> [Title Page](aah00.md)  
+[Introduction](aah01.md)  
+[Contents](aah02.md)  
+[Letter I.--Abelard to Philintus](aah03.md)  
+[Letter II. Heloise to Abelard](aah04.md)  
+[Letter III. Abelard to Heloise](aah05.md)  
+[Letter IV.--Heloise to Abelard](aah06.md)  
+[Letter V.--Heloise to Abelard](aah07.md)  
+[Letter VI. Abelard to Heloise](aah08.md)  
+[Appendix: Pope's 'Eloïsa to Abelard'](aah09.md)  
+[From W. E. Henly's Prologue to Beau Austin](aah10.md)  
+[Editorial Appendix](aah11.md)  

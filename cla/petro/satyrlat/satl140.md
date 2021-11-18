@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat18.htm#CXL)  [Previous](satl139) 
-[Next](satl141) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat18.htm#CXL)  [Previous](satl139.md) 
+[Next](satl141.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ aliquid morderent." &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CXLI](satl141)
+[Next: CXLI](satl141.md)

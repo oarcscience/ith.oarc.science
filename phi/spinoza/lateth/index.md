@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,8 +24,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[English](../ethics/index)    [Contents](#contents)    [Start
-Reading](eth00)
+[English](../ethics/index)    [Contents](#contents.md)    [Start
+Reading](eth00.md)
 
 ------------------------------------------------------------------------
 
@@ -35,9 +35,9 @@ Reading](eth00)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](eth00)  
-[Ethics, Part 1](eth01)  
-[Ethics, Part 2](eth02)  
-[Ethics, Part 3](eth03)  
-[Ethics, Part 4](eth04)  
-[Ethics, Part 5](eth05)  
+<span id="contents"></span> [Title Page](eth00.md)  
+[Ethics, Part 1](eth01.md)  
+[Ethics, Part 2](eth02.md)  
+[Ethics, Part 3](eth03.md)  
+[Ethics, Part 4](eth04.md)  
+[Ethics, Part 5](eth05.md)  

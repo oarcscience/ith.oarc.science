@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis23)  [Next](kis25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis23)  [Next](kis25.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ stream until he came to the river--the River of the Ox it was.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](kis25)
+[Next: Part IV](kis25.md)

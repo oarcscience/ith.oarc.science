@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph89)  [Next](sph91) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph89)  [Next](sph91.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM89">89</span>
 
 Πέρροχοσ ὠσ ὄτ᾽ ἄοιδοσ ὀ Λέσβοισ
-ἀλλοδάποισιν. [\[transcription\]](xlatall.htm#113)
+ἀλλοδάποισιν. [\[transcription\]](xlatall.htm#113.md)
 
 Towering like the singer of Lesbos among men of other lands.
 
@@ -17,4 +17,4 @@ general.
 
 ------------------------------------------------------------------------
 
-[Next: 90: As the sweet apple blushes on the end of the bough...](sph91)
+[Next: 90: As the sweet apple blushes on the end of the bough...](sph91.md)

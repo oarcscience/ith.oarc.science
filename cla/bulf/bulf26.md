@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf25) [Next](bulf27) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf25) [Next](bulf27.md) 
 
 # CHAPTER XXVII.
 
@@ -568,4 +568,4 @@ stones over the spot.
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXVIII. The Fall Of Troy- Return Of The Greeks-
-Agamemnon, Orestes And Electra.](bulf27)
+Agamemnon, Orestes And Electra.](bulf27.md)

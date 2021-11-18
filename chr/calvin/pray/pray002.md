@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray001)  [Next](pray003) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray001)  [Next](pray003.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: 1.](pray003)
+[Next: 1.](pray003.md)

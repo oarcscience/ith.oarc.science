@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos12)  [Next](mos14) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos12)  [Next](mos14.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ that until he dies.
 
 ------------------------------------------------------------------------
 
-[Next: The Wife of The Pharaoh, Âsiyyah bent Muzâhim](mos14)
+[Next: The Wife of The Pharaoh, Âsiyyah bent Muzâhim](mos14.md)

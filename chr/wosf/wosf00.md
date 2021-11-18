@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Next](wosf01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Next](wosf01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -40,26 +40,26 @@ United States because it was published prior to 1923.
 
 <span id="img_title0"></span> <span align="CENTER"> [![First Title
 Page](tn/title0.jpg)  
-Click to enlarge](img/title0.jpg)  
+Click to enlarge](img/title0.jpg.md)  
 First Title Page  
 </span>
 
 <span id="img_front"></span> <span align="CENTER"> [![](tn/front.jpg)  
-Click to enlarge](img/front.jpg)</span>
+Click to enlarge](img/front.jpg.md)</span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
-<span id="img_verso00"></span> ![Imprimi permittitur](img/verso00.jpg)
+<span id="img_verso00"></span> ![Imprimi permittitur](img/verso00.jpg.md)
 
 *Paterson die 26 Novembris, 1905*
 
@@ -69,7 +69,7 @@ Provinciae SS. Nominis Jesu Minister Provincialis
 
 \_\_\_\_\_\_\_\_\_
 
-<span id="img_verso01"></span> ![Imprimatur](img/verso01.jpg)
+<span id="img_verso01"></span> ![Imprimatur](img/verso01.jpg.md)
 
 ✠ PATRITIUS JOANNES
 
@@ -90,4 +90,4 @@ OF THE FRIARS MINOR</span>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](wosf01)
+[Next: Contents](wosf01.md)

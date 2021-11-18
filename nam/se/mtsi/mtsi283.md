@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi282)  [Next](mtsi284) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi282)  [Next](mtsi284.md) 
 
 ------------------------------------------------------------------------
 
-### 18. THE TLĀNUWÂ <span id="fr_83"></span>[1](#fn_82) (27)
+### 18. THE TLĀNUWÂ <span id="fr_83"></span>[1](#fn_82) (27.md)
 
 One time a young man said, "If I had children and those birds took one
 of them I would kill them." People told him not to say such a thing, but
@@ -54,7 +54,7 @@ father's great-great-grandmother. It was somewhere in the east.
 
 ### Footnotes
 
-<span id="fn_82"></span>[246:1](mtsi283.htm#fr_83) Cherokee name for a
+<span id="fn_82"></span>[246:1](mtsi283.htm#fr_83.md) Cherokee name for a
 sharp-breasted hawk that was supposed to kill by striking with its
 breast. My informant had forgotten the Natchez name. This is a very
 large bird, and my informant's grandmother claimed to have seen its
@@ -64,4 +64,4 @@ chickens.
 
 ------------------------------------------------------------------------
 
-[Next: 19. The Pygmies](mtsi284)
+[Next: 19. The Pygmies](mtsi284.md)

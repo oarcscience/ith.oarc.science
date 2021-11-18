@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi075)  [Next](mtsi077) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi075)  [Next](mtsi077.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ They were pleased at this and so he won his bride.
 
 ------------------------------------------------------------------------
 
-[Next: 75. The Tar Baby](mtsi077)
+[Next: 75. The Tar Baby](mtsi077.md)

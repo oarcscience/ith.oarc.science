@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc11)  [Next](esc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc11)  [Next](esc13.md) 
 
 ------------------------------------------------------------------------
 
@@ -529,4 +529,4 @@ found!
 
 ------------------------------------------------------------------------
 
-[Next: Lecture XI. The New Song](esc13)
+[Next: Lecture XI. The New Song](esc13.md)

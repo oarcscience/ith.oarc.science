@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pym12)  [Next](pym14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pym12)  [Next](pym14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Divine Pymander*, by Hermes Mercurius Trismegistus, tr. by John
 Everard, \[1650\], at Intangible Textual Heritage
 
@@ -193,4 +193,4 @@ HIS CRATER OR MONAS.
 
 ------------------------------------------------------------------------
 
-[Next: The Thirteenth Book, of Sense and Understanding](pym14)
+[Next: The Thirteenth Book, of Sense and Understanding](pym14.md)

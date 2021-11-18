@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](zar05)  [Next](zar07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](zar05)  [Next](zar07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -278,7 +278,7 @@ means, pours out before the idol his secret thoughts; hence, R. Aqiba
 concludes that it is forbidden only after such worship. R. Ismael, on
 the other hand, explains this phrase in the sense of R. Iz'hak, who
 says: This phrase teaches us that the idol of an Israelite must be
-wholly destroyed and put in a [secret](errata.htm#59) place; while R.
+wholly destroyed and put in a [secret](errata.htm#59.md) place; while R.
 Aqiba endeavors to prove this obligation by what R. 'Hisda said in the
 name of Rabh \[Deut. xvi. 21\]: "Thou shalt not plant unto thyself a
 grove, any tree near the altar of thy Lord," signifies that just as an
@@ -837,7 +837,7 @@ the heathen may be aided, for he is not bound by the rules of clean and
 unclean. Finally, the wine does not become offered by the sole fact of
 treading, for R. Huna's opinion on this point has been rejected.
 However, the sages, as said above, retracted this view, asserting:
-Assistance to a heathen in treading is [forbidden](errata.htm#60), for
+Assistance to a heathen in treading is [forbidden](errata.htm#60.md), for
 the grape-juice is offered wine immediately upon trickling, so that the
 assisting Israelite would get remunerated for working on what is not
 allowed; Such is also R. Huna's opinion. Nor is it allowable to gather
@@ -1318,4 +1318,4 @@ touched it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](zar07)
+[Next: Chapter V](zar07.md)

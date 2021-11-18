@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Next](btg01) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Next](btg01.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface](btg01)
+[Next: Preface](btg01.md)

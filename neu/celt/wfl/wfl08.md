@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfl07)  [Next](wfl09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfl07)  [Next](wfl09.md) 
 
 ------------------------------------------------------------------------
 
@@ -244,4 +244,4 @@ astray that time.'
 ------------------------------------------------------------------------
 
 [Next: Chapter IX: Piety as a Protection from the Seductions of the
-Tylwyth Teg](wfl09)
+Tylwyth Teg](wfl09.md)

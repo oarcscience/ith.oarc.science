@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe005)  [Next](prwe007) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe005)  [Next](prwe007.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ which the necromancer is said to have placed it when he was dying.
 
 ------------------------------------------------------------------------
 
-[Next: The Rival Giants](prwe007)
+[Next: The Rival Giants](prwe007.md)

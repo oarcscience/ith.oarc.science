@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu02)  [Next](yfhu04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu02)  [Next](yfhu04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -270,4 +270,4 @@ desire or need. Be always strong and you will always be stronger*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. How We Govern the Forces We Possess](yfhu04)
+[Next: Chapter II. How We Govern the Forces We Possess](yfhu04.md)

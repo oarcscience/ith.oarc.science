@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit10)  [Next](bit12) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit10)  [Next](bit12.md) 
 
 ------------------------------------------------------------------------
 
@@ -455,4 +455,4 @@ from sins and protecting against all kinds of evil.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Veiws on Metempsychosis](bit12)
+[Next: Chapter IX. Veiws on Metempsychosis](bit12.md)

@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao26)   
-[Previous](tao25)  [Next](tao27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao26.md)   
+[Previous](tao25)  [Next](tao27.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ will lose control of his kingdom.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 27](tao27)
+[Next: Chapter 27](tao27.md)

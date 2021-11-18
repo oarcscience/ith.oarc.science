@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod19)  [Next](eod21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod19)  [Next](eod21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 
 #### APPENDIX C.
 
-Prof. Barton's statement (*supra*, [p. 64](eod16.htm#page_64)) is
+Prof. Barton's statement (*supra*, [p. 64](eod16.htm#page_64).md) is
 typical of a widespread misapprehension, resulting from the confusion
 between sexual relations and the giving of life. At first primitive
 people did not realize that the manifestations of the sex instinct had
@@ -39,4 +39,4 @@ plays a part.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](eod21)
+[Next: Introduction](eod21.md)

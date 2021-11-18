@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot19) 
-[Next](bot21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot19.md) 
+[Next](bot21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -74,7 +74,7 @@ As a symbol of this sign it is, however, much older than the Greeks,
 being represented in both the Egyptian and Indian Zodiacs.
 
 (The symbols of the House of Leo are illustrated in No. 5 of the
-coloured [Frontispiece](bot00.htm#img_front).)
+coloured [Frontispiece](bot00.htm#img_front)..md)
 
 Astrologically, Leo is known as a fixed sign, and fixity of aims and
 ideas is a marked characteristic of this type, for when they believe
@@ -334,6 +334,6 @@ Topaz.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Virgo—The Virgin](bot21)
+[Next: Chapter VI. Virgo—The Virgin](bot21.md)
 
 </div>

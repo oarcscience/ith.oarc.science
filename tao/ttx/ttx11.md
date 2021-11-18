@@ -1,10 +1,10 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx10)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx10.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_103">p. 103</span>
 
-# THE KAN YING PIEN.<span id="page_103_fr_*"></span>[\*](#page_103_note_*)
+# THE KAN YING PIEN.<span id="page_103_fr_*"></span>[\*](#page_103_note_*.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ him; punishments and miseries will dog his footsteps; blessing and good
 fortune will hold themselves aloof; a baleful star will bring him
 sorrow; and when his time is up, he will die. Besides this, there are
 spirits in three of the stars in the constellation of "God's
-Chariot"<span id="page_103_fr_dagger"></span>[†](#page_103_note_dagger)
+Chariot"<span id="page_103_fr_dagger"></span>[†](#page_103_note_dagger.md)
 who record the sins and crimes of men in the Upper Sphere, and cut off
 their days; and there is also a spirit in the body of each man which
 ascends to the Tribunal of Heaven upon a certain day, once every sixty
@@ -726,7 +726,7 @@ THE END.
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -734,13 +734,13 @@ THE END.
 
 <span id="footnotes_page_103">p. 103</span>
 
-<span id="page_103_note_*"></span>[\*](#page_103_fr_*) The Rewards and
+<span id="page_103_note_*"></span>[\*](#page_103_fr_*.md) The Rewards and
 Retributions which are the natural and inalienable results of virtue and
 vice; analogous to the Buddhist Karma. The 'Book of Recompenses,' or
 *Kan-ying Pien*, is the most popular and widely-read religious work in
 China.
 
-<span id="page_103_note_dagger"></span>[†](#page_103_fr_dagger) That
+<span id="page_103_note_dagger"></span>[†](#page_103_fr_dagger.md) That
 part of Ursa Major which contains the four stars *Alpha, Beta, Gamma,
 Delta*.
 

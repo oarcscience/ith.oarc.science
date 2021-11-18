@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag10)  [Next](rag12) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag10)  [Next](rag12.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ Let us proceed in regular order.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. What Is A Comet?](rag12)
+[Next: Chapter II. What Is A Comet?](rag12.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](tst02)  [Next](tst04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](tst02)  [Next](tst04.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ pushed it through the copper bracelets. Then they took them in and
 showed them to the people. Then the old people said, "Oh, maybe this is
 why our dear one said, 'Ugh!' to our excrements."
 
-The eldest child of the Grizzly-Bear <span id="fr_5"></span>[1](#fn_5)
+The eldest child of the Grizzly-Bear <span id="fr_5"></span>[1](#fn_5.md)
 had married the young woman. Early every morning the Grizzly-Bear men
 went out to get salmon. After the men had gone out to get salmon, their
 wives arose to get wood for their fire, to have it when their husbands
@@ -218,7 +218,7 @@ Then all the Grizzly-Bears swam away from shore to break the canoe to
 pieces. When all the Grizzly-Bears reached near the copper canoe, (the
 man) suddenly arose. He struck, the edge of his canoe. "Raise your ears,
 Gu<u>g</u>wala \[?\]" Then his canoe became alive. it was very strong.
-Its name was Was <span id="fr_6"></span>[2](#fn_6)-on-Each-Side, for it
+Its name was Was <span id="fr_6"></span>[2](#fn_6.md)-on-Each-Side, for it
 had mouths at each end. Then it turned round and bit through the necks
 of the Grizzly-Bears.
 
@@ -754,12 +754,12 @@ among his relatives. That is a story of the Raven Clan.
 
 ### Footnotes
 
-<span id="fn_5"></span>[153:1](tst03.htm#fr_5) Mr. Tate sometimes uses
+<span id="fn_5"></span>[153:1](tst03.htm#fr_5.md) Mr. Tate sometimes uses
 the word "Black Bear," sometimes "Grizzly-Bear," for the beings who took
 away the woman.
 
-<span id="fn_6"></span>[159:2](tst03.htm#fr_6) The Was is a monster.
+<span id="fn_6"></span>[159:2](tst03.htm#fr_6.md) The Was is a monster.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Gauô'](tst04)
+[Next: 3. Gauô'](tst04.md)

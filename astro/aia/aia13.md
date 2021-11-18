@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia12)  [Next](aia14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia12)  [Next](aia14.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ greatest north latitude 3 degrees 33 minutes.
 *Nature*.--We may not call him either masculine or feminine, for he is
 either the one or the other as joined to any planet; for if in ☌ with a
 masculine planet, he becomes masculine: <span
-id="fr_33"></span>[1](#fn_33) if with a feminine, then feminine; but of
+id="fr_33"></span>[1](#fn_33.md) if with a feminine, then feminine; but of
 his own nature he is cold and dry, and therefore melancholy: with the
 good he is good, with the evil planets, ill; he is author of subtlety,
 tricks, devices, perjury, &c.
@@ -79,7 +79,7 @@ body inclining to dryness.
 
 *Quality of Men and Professions*.--He generally signifies all literary
 men, philosophers, mathematicians, astrologians, <span
-id="fr_34"></span>[1](#fn_34) merchants, secretaries, writers,
+id="fr_34"></span>[1](#fn_34.md) merchants, secretaries, writers,
 sculptors, poets, orators, advocates, schoolmasters, stationers,
 printers, exchangers of money, attorneys, ambassadors, commissioners,
 clerks, artificers, generally accomptants, solicitors; sometimes
@@ -107,13 +107,13 @@ Countries.--He has Grecia, Flanders, Egypt. Of towns, Paris.
 
 ### Footnotes
 
-<span id="fn_33"></span>[48:1](aia13.htm#fr_33) This applies to aspects
+<span id="fn_33"></span>[48:1](aia13.htm#fr_33.md) This applies to aspects
 also; but, of course, only in horary questions.
 
-<span id="fn_34"></span>[49:1](aia13.htm#fr_34) This more especially if
+<span id="fn_34"></span>[49:1](aia13.htm#fr_34.md) This more especially if
 with or in good aspect to *Herschel*.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. Of the Moon, her Properties and
-Significations](aia14)
+Significations](aia14.md)

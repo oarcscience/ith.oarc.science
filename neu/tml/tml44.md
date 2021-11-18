@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml43)  [Next](tml45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml43)  [Next](tml45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -287,7 +287,7 @@ blindness was dispelled.
 
 The five giants fought against the five knights, and long and terrible
 was the struggle which ensued; but one by one the monsters were slain,
-and Dietrich and his knights were [triumphant](errata.htm#5). The heroes
+and Dietrich and his knights were [triumphant](errata.htm#5.md). The heroes
 waded knee deep in blood, so great was the slaughter which they
 accomplished in the kingdom of Laurin.
 
@@ -349,4 +349,4 @@ of May, and many have sought to find it in vain.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XL. Virginal, Queen of the Mountains](tml45)
+[Next: Chapter XL. Virginal, Queen of the Mountains](tml45.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap10) 
-[Next](bap12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap10.md) 
+[Next](bap12.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ He knows the story of job, and quotes a Psalm; he draws from Isaiah,
 Jeremiah, Ezekiel, Daniel. With the Wisdom literature he has not much in
 common, and traces of the use of the Minor Prophets, of Ezra, Nehemiah,
 or Tobit, are hard to find, though I will not deny their presence. <span
-id="fr_13"></span>[1](#fn_13) If he lived, as I believe he did, near the
+id="fr_13"></span>[1](#fn_13.md) If he lived, as I believe he did, near the
 end of the first century, we should naturally credit him with a
 knowledge of the whole Jewish canon.
 
@@ -44,7 +44,7 @@ in Philo. "Behold, clouds called me in my vision, and mists cried to me,
 and runnings of stars and lightnings hastened me, and in the vision
 winds gave me wings and lifted me
 
-[188](bap54.htm#page_188).}
+[188](bap54.htm#page_188.md).}
 
 <span id="page_44">p. 44</span>
 
@@ -878,14 +878,14 @@ tenet (cf. ὁ κατέχων, 2 Thess. ii. 6, 7), LI. 5; lumen genti huic, LI.
 
 ### Footnotes
 
-<span id="fn_13"></span>[43:1](bap11.htm#fr_13) Esther and Judith seem
-to be quoted, pp. [173](bap47.htm#page_173),
+<span id="fn_13"></span>[43:1](bap11.htm#fr_13.md) Esther and Judith seem
+to be quoted, pp. [173](bap47.htm#page_173.md),
 
-<span id="fn_14"></span>[52:1](bap11.htm#fr_14) I see that this parallel
+<span id="fn_14"></span>[52:1](bap11.htm#fr_14.md) I see that this parallel
 is noticed by a writer in the *Jewish Encyclopædia*, s. v. *Amorites*.
 He quotes *Philo* through the medium of *Jerahmeel* only.
 
 ------------------------------------------------------------------------
 
 [Next: 11. Extent of the Complete Book: The Lost Conclusion
-Discussed](bap12)
+Discussed](bap12.md)

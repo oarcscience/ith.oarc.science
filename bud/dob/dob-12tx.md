@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-12in) [Next](dob-13in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-12in) [Next](dob-13in.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ others); it is a form of lust. For what can one man do for another{3}?'
 had come. If that be so, the better rendering throughout would be 'the
 Lohi*kk*a Brahman.'
 
-2\. See above, pp. [108](dob-03tx), [144](dob-04tx).
+2\. See above, pp. [108](dob-03tx), [144](dob-04tx.md).
 
 3\. This is open to two interpretations: 'What can the teacher gain from
 a disciple?' or 'What can a disciple gain from a teacher?' 'Why should
@@ -327,44 +327,44 @@ Sâma*ññ*a-phala, as follows:--
 
    1. The appearance of a Tathâgata (one who won the truth), his
 preaching, the conversion of a hearer, his adoption of the homeless
-state. (Above, [pp. 78, 79](dob-02tx.htm#p.%2078).)
+state. (Above, [pp. 78, 79](dob-02tx.htm#p.%2078)..md)
 
    2. The minor details of mere morality that he practises. (Above, [pp.
-57, 58](dob-02in.htm#p.%2057).)
+57, 58](dob-02in.htm#p.%2057)..md)
 
    3. The Confidence of heart he gains from this practice. (Above, [p.
-79](dob-02tx.htm#p.%2079).)
+79](dob-02tx.htm#p.%2079)..md)
 
    4. The paragraph on 'Guarded is the door of his Senses.' (Above, [pp.
-79, 80](dob-02tx.htm#p.%2079).)
+79, 80](dob-02tx.htm#p.%2079)..md)
 
    5. The paragraph on 'Mindful and Self-possessed.' (Above, [pp. 80,
-81](dob-02tx.htm#p.%2080).)
+81](dob-02tx.htm#p.%2080)..md)
 
    6. The paragraph on Simplicity of life, being content with little.
-(Above, [p. 81](dob-02tx.htm#p.%2081).)
+(Above, [p. 81](dob-02tx.htm#p.%2081)..md)
 
    7. The paragraphs on Emancipation from the Five
 Hindrances--covetousness, ill-temper, laziness, worry, and perplexity.
-(Above, [pp. 82-84](dob-02tx.htm#p.%2082).)
+(Above, [pp. 82-84](dob-02tx.htm#p.%2082)..md)
 
 <span id="p. 296">{p. 296}</span>
 
    8. The paragraph on the Joy and Peace that, as a result of this
 emancipation, fills his whole being. (Above, [p.
-84](dob-02tx.htm#p.%2084).)
+84](dob-02tx.htm#p.%2084)..md)
 
    9. The paragraphs on the Four Raptures (*Gh*ânas). (Above, [pp.
-84-86](dob-02tx.htm#p.%2084).)
+84-86](dob-02tx.htm#p.%2084)..md)
 
    10. The paragraphs on the Insight arising from Knowledge (the
 knowledge of the First Path). (Above, [pp. 86,
-87](dob-02tx.htm#p.%2086).)
+87](dob-02tx.htm#p.%2086)..md)
 
    11. The paragraphs on the Realisation of the Four Noble Truths, the
 destruction of the Intoxications--lust, delusions, becomings, and
 ignorance--and the attainment of Arahatship. (Above, [pp. 92,
-93](dob-02tx.htm#p.%2092).)
+93](dob-02tx.htm#p.%2092)..md)
 
    The refrain throughout and the closing paragraph is:\]
 
@@ -404,5 +404,5 @@ Here ends the Lohi*kk*a Suttanta.
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the Tevi*gg*a
-Sutta](dob-13in)
+[Return to top](#top.md)   [Next: Introduction to the Tevi*gg*a
+Sutta](dob-13in.md)

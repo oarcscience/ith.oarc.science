@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Samaritans](index)  [Previous](enlight1)  [Next](manners) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Samaritans](index)  [Previous](enlight1)  [Next](manners.md) 
 
 ------------------------------------------------------------------------
 
@@ -1306,4 +1306,4 @@ verb meaning "to grow fat, plump, and beautiful."
 
 ------------------------------------------------------------------------
 
-[Next: Some Account of the Ancient Samaritans](manners)
+[Next: Some Account of the Ancient Samaritans](manners.md)

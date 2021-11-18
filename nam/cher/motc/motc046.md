@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc045) 
-[Next](motc047) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc045.md) 
+[Next](motc047.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ so that he is willing enough now to eat carrion for a living.
 
 ------------------------------------------------------------------------
 
-[Next: 47. The Eagle's Revenge](motc047)
+[Next: 47. The Eagle's Revenge](motc047.md)

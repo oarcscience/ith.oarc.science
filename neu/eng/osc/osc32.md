@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc31)  [Next](osc33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc31)  [Next](osc33.md) 
 
 ------------------------------------------------------------------------
 
@@ -205,4 +205,4 @@ unfortunately one of the lingering testimonies to that fact.
 
 ------------------------------------------------------------------------
 
-[Next: (1) The Engagement Ring](osc33)
+[Next: (1) The Engagement Ring](osc33.md)

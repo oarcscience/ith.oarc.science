@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow03)  [Next](wow05) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow03)  [Next](wow05.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ of nosebags or pawing the ground.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five: The Heat-Ray](wow05)
+[Next: Chapter Five: The Heat-Ray](wow05.md)

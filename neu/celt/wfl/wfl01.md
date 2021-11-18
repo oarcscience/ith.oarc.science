@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfl00)  [Next](wfl02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfl00)  [Next](wfl02.md) 
 
 ------------------------------------------------------------------------
 
@@ -280,4 +280,4 @@ the priest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Classification of Welsh Fairies](wfl02)
+[Next: Chapter II: Classification of Welsh Fairies](wfl02.md)

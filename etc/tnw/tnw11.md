@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw10)  [Next](tnw12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw10)  [Next](tnw12.md) 
 
 ------------------------------------------------------------------------
 
@@ -240,7 +240,7 @@ example of scientific anthropomorphism, or demonology. What makes the
 Scientology (page image: see
 https://ith.oarc.science/etc/tnw/tnw11.htm\#page\_149 for
 text)](tn/14900.jpg)  
-Click to enlarge](img/14900.jpg)  
+Click to enlarge](img/14900.jpg.md)  
   
 
 crumb go? When the savage sees a steam engine going, and does not know
@@ -432,4 +432,4 @@ Indeed the only thing we have not accounted for is the Kinetic Molecule.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Mathematics: The Conjuring Trick](tnw12)
+[Next: 11. Mathematics: The Conjuring Trick](tnw12.md)

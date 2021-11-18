@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,8 +20,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](saab00)    [Page
-Index](pageidx)    [Text \[Zipped\]](saab.txt.gz)
+[Contents](#contents)    [Start Reading](saab00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](saab.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -35,42 +35,42 @@ with other Fitzgerald works.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](saab00)  
-[Preface](saab01)  
-[Life of Jámi](saab02)  
+<span id="contents"></span> [Title Page](saab00.md)  
+[Preface](saab01.md)  
+[Life of Jámi](saab02.md)  
 <span id="section_000"></span>
 
 ### Salámán and Absál
 
-[I. Prologue](saab03)  
-[II](saab04)  
-[III](saab05)  
-[IV. The Story](saab06)  
-[V](saab07)  
-[VI](saab08)  
-[VII](saab09)  
-[VIII](saab10)  
-[IX](saab11)  
-[X](saab12)  
-[XI](saab13)  
-[XII](saab14)  
-[XIII](saab15)  
-[XIV](saab16)  
-[XV](saab17)  
-[XVI](saab18)  
-[XVII](saab19)  
-[XVIII](saab20)  
-[XIX](saab21)  
-[XX](saab22)  
-[XXI](saab23)  
-[XXII](saab24)  
-[XXIII](saab25)  
-[XXIV](saab26)  
-[XXV](saab27)  
-[XXVI](saab28)  
-[XXVII](saab29)  
-[XXVIII](saab30)  
-[XXIX. Epilogue](saab31)  
-[XXX](saab32)  
-[Appendix](saab33)  
-[Notes](saab34)  
+[I. Prologue](saab03.md)  
+[II](saab04.md)  
+[III](saab05.md)  
+[IV. The Story](saab06.md)  
+[V](saab07.md)  
+[VI](saab08.md)  
+[VII](saab09.md)  
+[VIII](saab10.md)  
+[IX](saab11.md)  
+[X](saab12.md)  
+[XI](saab13.md)  
+[XII](saab14.md)  
+[XIII](saab15.md)  
+[XIV](saab16.md)  
+[XV](saab17.md)  
+[XVI](saab18.md)  
+[XVII](saab19.md)  
+[XVIII](saab20.md)  
+[XIX](saab21.md)  
+[XX](saab22.md)  
+[XXI](saab23.md)  
+[XXII](saab24.md)  
+[XXIII](saab25.md)  
+[XXIV](saab26.md)  
+[XXV](saab27.md)  
+[XXVI](saab28.md)  
+[XXVII](saab29.md)  
+[XXVIII](saab30.md)  
+[XXIX. Epilogue](saab31.md)  
+[XXX](saab32.md)  
+[Appendix](saab33.md)  
+[Notes](saab34.md)  

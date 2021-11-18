@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw22)  [Next](omw24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw22)  [Next](omw24.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_01700"></span>
 
 [![Marduk](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 Marduk  
 
 # BABYLONIAN
@@ -124,4 +124,4 @@ fail ever." So Marduk spoke, and man began to live upon the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Gilgamish](omw24)
+[Next: Gilgamish](omw24.md)

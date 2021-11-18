@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](noa00) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](noa00.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486248593/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486248593/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -188,7 +188,7 @@ gardenias--*tiaré*--which all wore in their hair.
 <span id="page_13">p. 13</span>
 
 where I lay, half-ill on the bed, dressed only in a *paréo*. <span
-id="fr_0"></span>[1](#fn_0) What a dress in which to receive a woman of
+id="fr_0"></span>[1](#fn_0.md) What a dress in which to receive a woman of
 rank!
 
 "*Ia orana* (I greet thee), Gauguin," she said. "Thou art ill, I have
@@ -996,7 +996,7 @@ rather than of the senses, as I plunged into the fresh water of the
 brook.
 
 "*Toë, toë* (it is cold)," said Jotefa <span
-id="fr_1"></span>[1](#fn_1).
+id="fr_1"></span>[1](#fn_1.md).
 
 "Oh, no!" I replied.
 
@@ -2163,7 +2163,7 @@ Adorned-in-order-to-Please*.
 
 <span id="page_98">p. 98</span>
 
-*Mahoüi* <span id="fr_2"></span>[1](#fn_2) *launches his pirogue.*
+*Mahoüi* <span id="fr_2"></span>[1](#fn_2.md) *launches his pirogue.*
 
 *He sits down in the bottom. At his right hangs the hook, fastened to
 the line by strands of hair.*
@@ -2842,7 +2842,7 @@ if to swallow the bloody eye, but the priest
 <span id="page_129">p. 129</span>
 
 forthwith withdraws it, and places it with the rest of the body. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 The statue of the god is placed upon a carved litter borne by the
 priests. Seated upon the shoulders of the chief priest, the king then
@@ -2898,7 +2898,7 @@ celebration begins.
 
 Just as he held communion with the gods in the temple, and with nature
 in the sea, so the king must now hold communion with his people. <span
-id="fr_4"></span>[1](#fn_4) The king, couched on mats, now receives the
+id="fr_4"></span>[1](#fn_4.md) The king, couched on mats, now receives the
 *highest homage of the people*.
 
 It is the frenzied homage of a savage people.
@@ -2968,7 +2968,7 @@ head above water, watching us pass.
 The fishermen were in a joyful mood, and rowed lustily.
 
 We came to a spot which they called "tunny-hole" where the sea is very
-deep, opposite the grottoes of *Mara*. <span id="fr_5"></span>[1](#fn_5)
+deep, opposite the grottoes of *Mara*. <span id="fr_5"></span>[1](#fn_5.md)
 
 <span id="page_135">p. 135</span>
 
@@ -3017,7 +3017,7 @@ waters of the ocean began to rise. Slowly they covered even the highest
 mountains, and all the living. perished except those who had taken
 flight upon (or in) *Toa Marama*.
 
-Later they repeopled the islands. <span id="fr_6"></span>[1](#fn_6)
+Later they repeopled the islands. <span id="fr_6"></span>[1](#fn_6.md)
 
 <span id="page_137">p. 137</span>
 
@@ -3311,33 +3311,33 @@ THE END
 
 ### Footnotes
 
-<span id="fn_0"></span>[13:1](noa01.htm#fr_0) The girdle of the natives,
+<span id="fn_0"></span>[13:1](noa01.htm#fr_0.md) The girdle of the natives,
 their only article of attire.
 
-<span id="fn_1"></span>[48:1](noa01.htm#fr_1) At this point the
+<span id="fn_1"></span>[48:1](noa01.htm#fr_1.md) At this point the
 character initially called Totefa starts to be called Jotefa in the
 text--JBH.
 
-<span id="fn_2"></span>[98:1](noa01.htm#fr_2) This Mahoüi seems to be
+<span id="fn_2"></span>[98:1](noa01.htm#fr_2.md) This Mahoüi seems to be
 confused with Taaroa, and also with Roüa who created the stars. They are
 perhaps different names for the same God.
 
-<span id="fn_3"></span>[129:1](noa01.htm#fr_3) It is impossible to
+<span id="fn_3"></span>[129:1](noa01.htm#fr_3.md) It is impossible to
 misunderstand the symbolic significance of this rite. It is clearly
-[prohibition](errata.htm#0) of cannibalism.
+[prohibition](errata.htm#0.md) of cannibalism.
 
-<span id="fn_4"></span>[131:1](noa01.htm#fr_4) It is to be feared that
+<span id="fn_4"></span>[131:1](noa01.htm#fr_4.md) It is to be feared that
 the missionaries by whom the record of the traditions has been handed
 down to us have calumniated the ancestors of their flock on this point
 as on many others for a purpose which can easily be divined. But in
 spite of all that is brutal, grotesque, and even repulsive, one must
 agree that, perhaps, this supreme rite did not lack a peculiar beauty.
 
-<span id="fn_5"></span>[134:1](noa01.htm#fr_5) This word *mara* is found
+<span id="fn_5"></span>[134:1](noa01.htm#fr_5.md) This word *mara* is found
 in the language of the Buddhists, where it signifies *death*, and by
 extension *sin*.
 
-<span id="fn_6"></span>[136:1](noa01.htm#fr_6) This legend is one of the
+<span id="fn_6"></span>[136:1](noa01.htm#fr_6.md) This legend is one of the
 numerous Maori explanations of the Deluge.
 
  

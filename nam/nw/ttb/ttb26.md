@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb25)  [Next](ttb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb25)  [Next](ttb27.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_39">p. 39</span>
 
-<span id="img_03900"></span> ![Chak-Chak, the Eagle](img/03900.jpg)
+<span id="img_03900"></span> ![Chak-Chak, the Eagle](img/03900.jpg.md)
 
 ### Chak-Chak, THE EAGLE
 
@@ -23,7 +23,7 @@ and was for the departed spirits to partake of on their journey to the
 spirit land where they entered a greater and more wonderful life.
 
 When **Od-euons** (The Great Eagle) is shown on totem poles of the Eagle
-Clan, it [sometimes](errata.htm#18) signifies this legend:
+Clan, it [sometimes](errata.htm#18.md) signifies this legend:
 
 A fearless, strong brave was killed in battle. At death his spirit
 strayed to Eagleland, a remote mythical village of the sky region on the
@@ -63,4 +63,4 @@ Mighty.
 
 ------------------------------------------------------------------------
 
-[Next: Kwel-Kwel, The Owl](ttb27)
+[Next: Kwel-Kwel, The Owl](ttb27.md)

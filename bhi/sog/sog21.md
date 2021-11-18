@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Baha'i](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](sog20) 
-[Next](sog22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Baha'i](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](sog20.md) 
+[Next](sog22.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Splendour of God*, by Eric Hammond, \[1909\], at Intangible Textual
 Heritage
 
@@ -19,7 +19,7 @@ Heritage
 
 ### SOME HIDDEN WORDS AND WORDS OF WISDOM
 
-##### FROM "THE SUPREME PEN" OF BAHA‘U‘LLAH <span id="fr_7"></span>[1](sog22.htm#fn_7)
+##### FROM "THE SUPREME PEN" OF BAHA‘U‘LLAH <span id="fr_7"></span>[1](sog22.htm#fn_7.md)
 
 <span class="smallcaps">He</span> is the Glory of the Most Glorious!
 
@@ -35,6 +35,6 @@ attain the victory by virtue of devotion in the land of the Spirit.
 
 ------------------------------------------------------------------------
 
-[Next: Of the Light](sog22)
+[Next: Of the Light](sog22.md)
 
 </div>

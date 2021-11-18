@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg11)  [Next](adg13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg11)  [Next](adg13.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ settlements.
 
 ------------------------------------------------------------------------
 
-[Next: His adages (puh) about richness, poverty and money](adg13)
+[Next: His adages (puh) about richness, poverty and money](adg13.md)

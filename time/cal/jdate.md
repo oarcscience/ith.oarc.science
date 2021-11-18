@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)
+[![](../../cdshop/ithlogo.png)](../../index.md)
 
 ------------------------------------------------------------------------
 
-[Intangible Textual Heritage](../../index)  [Sacred Time
-Index](../index)  [Sacred Calendars](index) 
-[Judaism](../../jud/index)   
-[Phase of the Moon](pom)  [Islamic Date](isldate) 
+[Intangible Textual Heritage](../../index.md)  [Sacred Time
+Index](../index)  [Sacred Calendars](index.md) 
+[Judaism](../../jud/index.md)   
+[Phase of the Moon](pom)  [Islamic Date](isldate.md) 
 
 ------------------------------------------------------------------------
 

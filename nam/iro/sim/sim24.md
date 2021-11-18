@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim23)  [Next](sim25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim23)  [Next](sim25.md) 
 
 ------------------------------------------------------------------------
 
@@ -523,4 +523,4 @@ again.
 
 ------------------------------------------------------------------------
 
-[Next: Tree Worm and his Mother-In-Law, Barkworm](sim25)
+[Next: Tree Worm and his Mother-In-Law, Barkworm](sim25.md)

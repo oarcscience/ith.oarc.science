@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg78)  [Next](cdg80) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg78)  [Next](cdg80.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ but his gates shall lie hid in the interstices of Ariadne's crown. The
 waters shall rise at the stroke of a wand and the labour of the ancients
 shall be recreated. The winds shall strive together with an awful blast
 and shall make their sound among the stars. <span
-id="fr_247"></span>[†](#fn_247)
+id="fr_247"></span>[†](#fn_247.md)
 
 ### LATIN TEXT OF MERLIN'S PROPHECY.
 
@@ -103,7 +103,7 @@ allaturum. Francofurti Typis Joachimi Bratheringij, MDCIII.
 
 The various rescensions of the text of Merlin's Prophecy exhibit marked
 differences. The fad that a single word, the fifth in line one, is read
-in four different ways <span id="fr_248"></span>[§](#fn_248) is but one
+in four different ways <span id="fr_248"></span>[§](#fn_248.md) is but one
 proof out of many which might he adduced as evidence that the original
 manuscript has been much corrupted in transcription. Since certain
 passages of the text as it now stands bear no relation to the general
@@ -119,10 +119,10 @@ shall blind the eyes of those who behold it..
 
 The first lines of this Prophecy describe the coming of the
 World-Saviour and its results. He is the man who shall grasp or
-understand and govern the lion, <span id="fr_249"></span>[†](#fn_249)
-Solar Force <span id="fr_250"></span>[\*](#fn_250) and its action in the
+understand and govern the lion, <span id="fr_249"></span>[†](#fn_249.md)
+Solar Force <span id="fr_250"></span>[\*](#fn_250.md) and its action in the
 earth, the physical body. The brightness of gold, that is of the
-Saviour's golden or Solar Body <span id="fr_251"></span>[‡](#fn_251), I
+Saviour's golden or Solar Body <span id="fr_251"></span>[‡](#fn_251.md), I
 shall blind the eyes of those who behold it.
 
 </div>
@@ -174,7 +174,7 @@ their usual course.
 
 Through knowledge of the Law governing Solar Force man shall gain power
 to awaken those ganglia corresponding to the planets <span
-id="fr_252"></span>[‡](#fn_252) and thereby controlling the planetary
+id="fr_252"></span>[‡](#fn_252.md) and thereby controlling the planetary
 forces manifesting in him, shall unfold the immortality of his own being
 and become the master of his destiny.
 
@@ -210,7 +210,7 @@ covering the whole of the human body, the roots being upwards--
 
 <div style="margin-left: 32px">
 
-and the branches downwards." <span id="fr_253"></span>[\*](#fn_253) The
+and the branches downwards." <span id="fr_253"></span>[\*](#fn_253.md) The
 spinal cord is the tree whose roots and branches are here mentioned, and
 connects those minor brain centres which are seats of the higher
 consciousness in man and which when energised enable him to draw
@@ -249,7 +249,7 @@ Stilbon is a Latinised form of the Greek ὁ Στίλβων, the Shining One, a
 name given in antiquity to the planet Mercury;while Arcadia is a
 district in Greece which latterly became so identified . with the cult
 of Hermes (Mercury) that Statius terms the caduceus of the Messenger of
-the Gods *virga Arcadia*, <span id="fr_254"></span>[\*](#fn_254) the
+the Gods *virga Arcadia*, <span id="fr_254"></span>[\*](#fn_254.md) the
 Arcadian rod. Stilbon of Arcadia would therefore appear to be a
 reference to the Messenger of the Gods or World Teacher who shall change
 the disk of the Sun, cause men to regard the Sun in its true light.
@@ -273,7 +273,7 @@ The helmet of Mars shall call for Venus.
 
 Mars "was worshipped at Rome as the god of war, and war itself was
 frequently designated by the name of Mars." <span
-id="fr_255"></span>[\*](#fn_255) Similarly Venus signifies love. The
+id="fr_255"></span>[\*](#fn_255.md) Similarly Venus signifies love. The
 armour of war shall call for love. The armament of war will become Aso
 terrible as to compel love among the nations.
 
@@ -301,7 +301,7 @@ Fire) gave him Cedalion as his guide, who led him to the East. After the
 recovery of his sight he lived as a hunter along with Artemis. After his
 death, Orion was placed among the stars, where he appears as a giant
 with a girdle, sword, a lion's skin and a club." <span
-id="fr_256"></span>[\*](#fn_255) Orion typifies the enlightened soul
+id="fr_256"></span>[\*](#fn_255.md) Orion typifies the enlightened soul
 descended
 
 </div>
@@ -343,7 +343,7 @@ The madness of Mercury shall pass all bounds.
 <div style="margin-left: 32px">
 
 "Mercury presides over every species of erudition." <span
-id="fr_257"></span>[†](#fn_256) The folly of man-made theories about
+id="fr_257"></span>[†](#fn_256.md) The folly of man-made theories about
 Nature shall exceed all limits. Dominating intellects will struggle for
 supremacy over that which is divine.
 
@@ -387,7 +387,7 @@ enjoyed divine honours. Castor, the mortal, fell by the hands of Idas,
 but Pollux slew Lynceus. At the request of Pollux, Zeus allowed him to
 share his brother's fate, and to live alternately one day under the
 earth, and the other in the heavenly abodes of the gods." <span
-id="fr_258"></span>[\*](#fn_257) In this ancient myth the divine and
+id="fr_258"></span>[\*](#fn_257.md) In this ancient myth the divine and
 mortal natures of man are represented by the brothers Castor and Pollux.
 To say that they shall cease their embraces is to imply that the divine,
 when understood by man, will be differentiated from the human, and that
@@ -405,13 +405,13 @@ curved horns under them.
 <div style="margin-left: 32px">
 
 Libra is the sign of the Balance, while Aries "the ram is the principle
-of generation." <span id="fr_259"></span>[\*](#fn_258) Balance cannot be
+of generation." <span id="fr_259"></span>[\*](#fn_258.md) Balance cannot be
 achieved by man until the principle of generation is understood and
 applied for the awakening and lifting up of that Regenerative Force
 which is the instrument the soul uses to build up its Solar or Spiritual
 Body. The spiritual equilibrium of the world will be upset until the
 generative force in man is transmuted into Regenerative Power. <span
-id="fr_260"></span>[†](#fn_259)
+id="fr_260"></span>[†](#fn_259.md)
 
 </div>
 
@@ -478,7 +478,7 @@ and the seventh as invisible. The Pleiades were virgin companions of
 Artemis and, together with their mother, were pursued by the hunter
 Orion in Boeotia; their prayer to be rescued from him was heard by the
 gods, and they were metamorphosed into doves, and placed among the
-stars." <span id="fr_261"></span>[†](#fn_260)
+stars." <span id="fr_261"></span>[†](#fn_260.md)
 
 The Pleiades represent the seven principal ganglia of the sympathetic
 nervous system, pursued by the Initiate Orion who seeks to
@@ -490,7 +490,7 @@ nervous system, pursued by the Initiate Orion who seeks to
 <div style="margin-left: 32px">
 
 energise them. When energised (when the Divine Force flows through them)
-they are said to weep <span id="fr_262"></span>[\*](#fn_261) and through
+they are said to weep <span id="fr_262"></span>[\*](#fn_261.md) and through
 prayer are changed into doves. The dove has been in marry ages the
 symbol of the Super Solar Force. To say that the Pleiades become doves
 is to say that they become vehicles of the Super Solar Force, and
@@ -509,7 +509,7 @@ There shall be no more war. "Janus occupied an important place in the
 Roman religion. He was the porter of heaven. On earth also he was the
 guardian deity of gates. At Rome, Numa is said to have dedicated to
 Janus the covered passage bearing his name, which was opened in times of
-war and closed in times of peace." <span id="fr_263"></span>[†](#fn_262)
+war and closed in times of peace." <span id="fr_263"></span>[†](#fn_262.md)
 "He has also a temple at Rome with two gates, which they call the gates
 of war." <span class="small">PLUTARCH</span>.
 
@@ -575,7 +575,7 @@ are visible to the seer as rapidly revolving stars of great luminosity
 and restore to man super-physical states of consciousness. For the
 purpose of clear statement we have refrained from differentiating Lunar
 from Solar and Super Solar Force in this book. The Pleiades <span
-id="fr_264"></span>[†](#fn_263) are the ganglia of the sympathetic
+id="fr_264"></span>[†](#fn_263.md) are the ganglia of the sympathetic
 nervous system energised by Lunar Force, while the stars here referred
 to, are the centres of the cerebro-spinal system, vehicles of Solar
 Force. The sympathetic and cerebro-spinal systems are thus prepared to
@@ -605,57 +605,57 @@ THE BELIEVERS, PAGE 150.</span>
 
 ### Footnotes
 
-<span id="fn_247"></span>[330:†](cdg79.htm#fr_247) Interpretation page
-[332](#page_332).
+<span id="fn_247"></span>[330:†](cdg79.htm#fr_247.md) Interpretation page
+[332](#page_332.md).
 
-<span id="fn_248"></span>[332:§](cdg79.htm#fr_248) *Humo, uno, auro,
+<span id="fn_248"></span>[332:§](cdg79.htm#fr_248.md) *Humo, uno, auro,
 vino*.
 
-<span id="fn_249"></span>[332:†](cdg79.htm#fr_249) The Lion defined,
-page [160](cdg09.htm#page_160).
+<span id="fn_249"></span>[332:†](cdg79.htm#fr_249.md) The Lion defined,
+page [160](cdg09.htm#page_160.md).
 
-<span id="fn_250"></span>[332:\*](cdg79.htm#fr_250) Solar Force defined,
-pages [48](cdg05.htm#page_48), [50](cdg05.htm#page_50),
-[42](cdg05.htm#page_42).
+<span id="fn_250"></span>[332:\*](cdg79.htm#fr_250.md) Solar Force defined,
+pages [48](cdg05.htm#page_48), [50](cdg05.htm#page_50.md),
+[42](cdg05.htm#page_42.md).
 
-<span id="fn_251"></span>[332:‡](cdg79.htm#fr_251) The Solar Body is the
+<span id="fn_251"></span>[332:‡](cdg79.htm#fr_251.md) The Solar Body is the
 Spiritual Body.
 
-<span id="fn_252"></span>[334:‡](cdg79.htm#fr_252) *Compare Interior
-Stars, page [112](cdg07.htm#page_112)*.
+<span id="fn_252"></span>[334:‡](cdg79.htm#fr_252.md) *Compare Interior
+Stars, page [112](cdg07.htm#page_112.md)*.
 
-<span id="fn_253"></span>[335:\*](cdg79.htm#fr_253) *Uttara Gila. D. K.
+<span id="fn_253"></span>[335:\*](cdg79.htm#fr_253.md) *Uttara Gila. D. K.
 Laheri's Translation, page 28*.
 
-<span id="fn_254"></span>[336:\*](cdg79.htm#fr_254) *Thebais ii, 70*.
+<span id="fn_254"></span>[336:\*](cdg79.htm#fr_254.md) *Thebais ii, 70*.
 
-<span id="fn_255"></span>[337:\*](cdg79.htm#fr_256) *Smith's Smaller
+<span id="fn_255"></span>[337:\*](cdg79.htm#fr_256.md) *Smith's Smaller
 Classical Dictionary*.
 
-<span id="fn_256"></span>[339:†](cdg79.htm#fr_257) *Thomas Taylor*.
+<span id="fn_256"></span>[339:†](cdg79.htm#fr_257.md) *Thomas Taylor*.
 
-<span id="fn_257"></span>[340:\*](cdg79.htm#fr_258) *Smith's Smaller
+<span id="fn_257"></span>[340:\*](cdg79.htm#fr_258.md) *Smith's Smaller
 Classical Dictionary*.
 
-<span id="fn_258"></span>[341:\*](cdg79.htm#fr_259) *Proclus*.
+<span id="fn_258"></span>[341:\*](cdg79.htm#fr_259.md) *Proclus*.
 
-<span id="fn_259"></span>[341:†](cdg79.htm#fr_260) *Compare Dual Aspect
-of Solar Force, page [110](cdg07.htm#page_110)*.
+<span id="fn_259"></span>[341:†](cdg79.htm#fr_260.md) *Compare Dual Aspect
+of Solar Force, page [110](cdg07.htm#page_110.md)*.
 
-<span id="fn_260"></span>[342:†](cdg79.htm#fr_261) *Smith's Smaller
+<span id="fn_260"></span>[342:†](cdg79.htm#fr_261.md) *Smith's Smaller
 Classical Dictionary*.
 
-<span id="fn_261"></span>[343:\*](cdg79.htm#fr_262) "*Theologists also
+<span id="fn_261"></span>[343:\*](cdg79.htm#fr_262.md) "*Theologists also
 signify the extension of the Solar Providence to mortal natures through
 tears*." *Proclus on the Timaeus of Plato. T Taylor's Translation, page
 95*.
 
-<span id="fn_262"></span>[343:†](cdg79.htm#fr_263) *Smith's Classical
+<span id="fn_262"></span>[343:†](cdg79.htm#fr_263.md) *Smith's Classical
 Dictionary*.
 
-<span id="fn_263"></span>[345:†](cdg79.htm#fr_264) "*Companions of
+<span id="fn_263"></span>[345:†](cdg79.htm#fr_264.md) "*Companions of
 Artemis*," (*Diana the Moon Goddess*.)
 
 ------------------------------------------------------------------------
 
-[Next: Muhammed's Prophecy of Truth](cdg80)
+[Next: Muhammed's Prophecy of Truth](cdg80.md)

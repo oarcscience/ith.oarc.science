@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj31)  [Next](atfj33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj31)  [Next](atfj33.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_35"></span> <span align="CENTER"> [![35. The Old Hermit
 Entertains the Children](tn/35.jpg)  
-Click to enlarge](img/35.jpg)  
+Click to enlarge](img/35.jpg.md)  
 35. The Old Hermit Entertains the Children  
 </span>
 
@@ -192,6 +192,6 @@ Temple.
 
 ------------------------------------------------------------------------
 
-[Next: XXXI. Yosoji's Camellia Tree](atfj33)
+[Next: XXXI. Yosoji's Camellia Tree](atfj33.md)
 
 </div>

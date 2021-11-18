@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](tah03)  [Next](tah05) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](tah03)  [Next](tah05.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ tradition.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Knowledge Of Self](tah05)
+[Next: Chapter I: The Knowledge Of Self](tah05.md)

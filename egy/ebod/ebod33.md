@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod32)  [Next](ebod34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod32)  [Next](ebod34.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ over him for ever and for all eternity and for ever.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXVIII.](ebod34)
+[Next: Plate XXVIII.](ebod34.md)

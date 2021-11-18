@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon19)  [Next](oon21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon19)  [Next](oon21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -23,18 +23,18 @@ WE now come to the Restoration of Louis XVIII.
 
 Presage 38. \[I. 235.\]
 
-Roy salué Victeur, <span id="fr_380"></span>[1](#fn_379)
-Impereateur, <span id="fr_381"></span>[2](#fn_380)  
-La foy faussée. Le Royal fait <span id="fr_382"></span>[3](#fn_381)
-congnu: <span id="fr_383"></span>[4](#fn_382)  
-Sang <span id="fr_384"></span>[5](#fn_383) Mathien <span
-id="fr_385"></span>[6](#fn_384) Roy fait <span
-id="fr_386"></span>[7](#fn_385) supereateur, <span
-id="fr_387"></span>[8](#fn_386)  
-De gent <span id="fr_388"></span>[9](#fn_387) superbe humble <span
-id="fr_389"></span>[10](#fn_388) par <span
-id="fr_390"></span>[11](#fn_389) pleurs venu. <span
-id="fr_391"></span>[12](#fn_390)
+Roy salué Victeur, <span id="fr_380"></span>[1](#fn_379.md)
+Impereateur, <span id="fr_381"></span>[2](#fn_380.md)  
+La foy faussée. Le Royal fait <span id="fr_382"></span>[3](#fn_381.md)
+congnu: <span id="fr_383"></span>[4](#fn_382.md)  
+Sang <span id="fr_384"></span>[5](#fn_383.md) Mathien <span
+id="fr_385"></span>[6](#fn_384.md) Roy fait <span
+id="fr_386"></span>[7](#fn_385.md) supereateur, <span
+id="fr_387"></span>[8](#fn_386.md)  
+De gent <span id="fr_388"></span>[9](#fn_387.md) superbe humble <span
+id="fr_389"></span>[10](#fn_388.md) par <span
+id="fr_390"></span>[11](#fn_389.md) pleurs venu. <span
+id="fr_391"></span>[12](#fn_390.md)
 
 This is a very crabbed quatrain.
 
@@ -61,9 +61,9 @@ Century X.--*Quatrain* 16. \[I. 236.\]
 
 Heureux au regne de France, heureux de vie,  
 Ignorant sang, mort fureur et rapine,  
-Par nom flateur <span id="fr_392"></span>[1](#fn_391) sera mis en
+Par nom flateur <span id="fr_392"></span>[1](#fn_391.md) sera mis en
 envie:  
-Roy desrobé, <span id="fr_393"></span>[2](#fn_392) trop de foye en
+Roy desrobé, <span id="fr_393"></span>[2](#fn_392.md) trop de foye en
 cuisine.
 
 Translation.
@@ -86,13 +86,13 @@ giving them due attention.
 
 Century III.--*Quatrain* 96. \[I. 238.\]
 
-Chef de Fossan <span id="fr_394"></span>[3](#fn_393) aura gorge
+Chef de Fossan <span id="fr_394"></span>[3](#fn_393.md) aura gorge
 couppée  
-Par le ducteur <span id="fr_395"></span>[4](#fn_394) du limier et
+Par le ducteur <span id="fr_395"></span>[4](#fn_394.md) du limier et
 levrier;<span id="page_285">p. 285</span>  
-Le faict patré <span id="fr_396"></span>[1](#fn_395) par ceux du mont
-Tarpée, <span id="fr_397"></span>[2](#fn_396)  
-Saturne en Leo  <span id="fr_398"></span>[3](#fn_397) 13 de Fevrier.
+Le faict patré <span id="fr_396"></span>[1](#fn_395.md) par ceux du mont
+Tarpée, <span id="fr_397"></span>[2](#fn_396.md)  
+Saturne en Leo  <span id="fr_398"></span>[3](#fn_397.md) 13 de Fevrier.
 
 Translation.
 
@@ -142,12 +142,12 @@ would prefer it to what they know of Certainty.
 
 Century V.--*Quatrain* 4. \[I. 240.\]
 
-Le gros mastin de cité dechassé, <span id="fr_399"></span>[1](#fn_398)  
-Sera fasché de l'estrange <span id="fr_400"></span>[2](#fn_399)
+Le gros mastin de cité dechassé, <span id="fr_399"></span>[1](#fn_398.md)  
+Sera fasché de l'estrange <span id="fr_400"></span>[2](#fn_399.md)
 alliance:  
 Après aux champs avoir le cerf chassé, <span
-id="fr_401"></span>[3](#fn_400)  
-Le loup et l'ours se donront <span id="fr_402"></span>[4](#fn_401)
+id="fr_401"></span>[3](#fn_400.md)  
+Le loup et l'ours se donront <span id="fr_402"></span>[4](#fn_401.md)
 defiance.
 
 Translation.
@@ -186,20 +186,20 @@ whole of them, and let the reader take them at his own valuation.
 
 Century VI.--*Quatrain* 84.
 
-Celuy qu'en <span id="fr_403"></span>[1](#fn_402) Sparte Claude <span
-id="fr_404"></span>[2](#fn_403) ne peut regner,  
+Celuy qu'en <span id="fr_403"></span>[1](#fn_402.md) Sparte Claude <span
+id="fr_404"></span>[2](#fn_403.md) ne peut regner,  
 Il fera tant par voye seductive,  
 Que du court, long le fera araigner, <span
-id="fr_405"></span>[3](#fn_404)  
+id="fr_405"></span>[3](#fn_404.md)  
 Que contre Roy fera sa perspective. <span
-id="fr_406"></span>[4](#fn_405)
+id="fr_406"></span>[4](#fn_405.md)
 
 <span id="page_288">p. 288</span>
 
 Translation.
 
 He who will cause that the lame cannot reign in Paris, <span
-id="fr_407"></span>[1](#fn_406)  
+id="fr_407"></span>[1](#fn_406.md)  
 He will effect so much in his seductive way  
 That from the short to long he will attain,  
 Who has brought to bear his deception against the King.
@@ -237,7 +237,7 @@ Century V.--*Quatrain* 69. \[I. 250.\]
 
 Plus ne sera le Grand en faux sommeil,  
 L'inquietude viendra prendre repos:  
-Dresser phalange <span id="fr_408"></span>[1](#fn_407) d'or, azur, et
+Dresser phalange <span id="fr_408"></span>[1](#fn_407.md) d'or, azur, et
 vermeil,  
 Subjuger Afrique, la ronger jusques os.
 
@@ -261,14 +261,14 @@ Everything but the word Grand justifies the interpretation to a nicety.
 
 Century I.--*Quatrain* 39. \[I. 251.\]
 
-De nuict dans lict le supresme <span id="fr_409"></span>[1](#fn_408)
+De nuict dans lict le supresme <span id="fr_409"></span>[1](#fn_408.md)
 estranglé,  
 Pour avoir trop sejourné blond esleu,  
-Par trois <span id="fr_410"></span>[2](#fn_409) l'Empire subrogé <span
-id="fr_411"></span>[3](#fn_410) exanclé <span
-id="fr_412"></span>[4](#fn_411)  
-A mort mettra carte <span id="fr_413"></span>[5](#fn_412) et pacquet ne
-leu. <span id="fr_414"></span>[6](#fn_413)
+Par trois <span id="fr_410"></span>[2](#fn_409.md) l'Empire subrogé <span
+id="fr_411"></span>[3](#fn_410.md) exanclé <span
+id="fr_412"></span>[4](#fn_411.md)  
+A mort mettra carte <span id="fr_413"></span>[5](#fn_412.md) et pacquet ne
+leu. <span id="fr_414"></span>[6](#fn_413.md)
 
 Translation.
 
@@ -301,10 +301,10 @@ Century VIII.--*Quatrain* 42. \[I. 253.\]
 
 Par avarice, par force et violence  
 Viendra vexer les siens chef d'Orleans;  
-Près Sainct Memire <span id="fr_415"></span>[1](#fn_414) assaut et
+Près Sainct Memire <span id="fr_415"></span>[1](#fn_414.md) assaut et
 resistance,  
-Mort dans sa tante, <span id="fr_416"></span>[2](#fn_415) diront qu'il
-dort leans. <span id="fr_417"></span>[3](#fn_416)
+Mort dans sa tante, <span id="fr_416"></span>[2](#fn_415.md) diront qu'il
+dort leans. <span id="fr_417"></span>[3](#fn_416.md)
 
 Translation.
 
@@ -324,9 +324,9 @@ Century IX.--*Quatrain* 89. \[I. 254.\]
 
 Sept ans sera Philipp; fortune prospere:  
 Rabaissera des Arabes effort;  
-Puis son midy perplex <span id="fr_418"></span>[4](#fn_417) rebors <span
-id="fr_419"></span>[5](#fn_418) affaire,  
-Jeune Ognion <span id="fr_420"></span>[6](#fn_419) abismera son fort.
+Puis son midy perplex <span id="fr_418"></span>[4](#fn_417.md) rebors <span
+id="fr_419"></span>[5](#fn_418.md) affaire,  
+Jeune Ognion <span id="fr_420"></span>[6](#fn_419.md) abismera son fort.
 
 <span id="page_292">p. 292</span>
 
@@ -396,81 +396,81 @@ more interesting to any rational investigator of human affairs.
 
 ### Footnotes
 
-<span id="fn_379"></span>[283:1](oon20.htm#fr_380) Latin, *victor*,
+<span id="fn_379"></span>[283:1](oon20.htm#fr_380.md) Latin, *victor*,
 conqueror.
 
-<span id="fn_380"></span>[283:2](oon20.htm#fr_381) Latin, *Imperator*.
+<span id="fn_380"></span>[283:2](oon20.htm#fr_381.md) Latin, *Imperator*.
 
-<span id="fn_381"></span>[283:3](oon20.htm#fr_382) Latin, *factum*,
+<span id="fn_381"></span>[283:3](oon20.htm#fr_382.md) Latin, *factum*,
 action, act.
 
-<span id="fn_382"></span>[283:4](oon20.htm#fr_383) *Congnu* = connu,
+<span id="fn_382"></span>[283:4](oon20.htm#fr_383.md) *Congnu* = connu,
 known.
 
-<span id="fn_383"></span>[283:5](oon20.htm#fr_384) *Sang*, son or
+<span id="fn_383"></span>[283:5](oon20.htm#fr_384.md) *Sang*, son or
 grandson.
 
-<span id="fn_384"></span>[283:6](oon20.htm#fr_385) *Mathien*, Æmathien.
+<span id="fn_384"></span>[283:6](oon20.htm#fr_385.md) *Mathien*, Æmathien.
 
-<span id="fn_385"></span>[283:7](oon20.htm#fr_386) Latinism, *factus*,
+<span id="fn_385"></span>[283:7](oon20.htm#fr_386.md) Latinism, *factus*,
 made, become.
 
-<span id="fn_386"></span>[283:8](oon20.htm#fr_387) Latin, *superator*,
+<span id="fn_386"></span>[283:8](oon20.htm#fr_387.md) Latin, *superator*,
 rule, dominator.
 
-<span id="fn_387"></span>[283:9](oon20.htm#fr_388) Latin, *gens*,
+<span id="fn_387"></span>[283:9](oon20.htm#fr_388.md) Latin, *gens*,
 nation.
 
-<span id="fn_388"></span>[283:10](oon20.htm#fr_389) *Humble* =
+<span id="fn_388"></span>[283:10](oon20.htm#fr_389.md) *Humble* =
 humiliated, perhaps *humblée*.
 
-<span id="fn_389"></span>[283:11](oon20.htm#fr_390) Latin, *per*, by
+<span id="fn_389"></span>[283:11](oon20.htm#fr_390.md) Latin, *per*, by
 reason of.
 
-<span id="fn_390"></span>[283:12](oon20.htm#fr_391) The order is, "venu
+<span id="fn_390"></span>[283:12](oon20.htm#fr_391.md) The order is, "venu
 à cause des pleurs de la superbe nation humiliée."
 
-<span id="fn_391"></span>[284:1](oon20.htm#fr_392) The original text is
+<span id="fn_391"></span>[284:1](oon20.htm#fr_392.md) The original text is
 corrupt here, but this yields the best sense.
 
-<span id="fn_392"></span>[284:2](oon20.htm#fr_393) *Desrobé*, withdrawn,
+<span id="fn_392"></span>[284:2](oon20.htm#fr_393.md) *Desrobé*, withdrawn,
 or shut up.
 
-<span id="fn_393"></span>[284:3](oon20.htm#fr_394) Fossano is the
+<span id="fn_393"></span>[284:3](oon20.htm#fr_394.md) Fossano is the
 alternative reading, a town in the Sardinian States.
 
-<span id="fn_394"></span>[284:4](oon20.htm#fr_395) Keeper of the hounds
+<span id="fn_394"></span>[284:4](oon20.htm#fr_395.md) Keeper of the hounds
 and greyhounds.
 
-<span id="fn_395"></span>[285:1](oon20.htm#fr_396) Latin, *patratus*,
+<span id="fn_395"></span>[285:1](oon20.htm#fr_396.md) Latin, *patratus*,
 done, committed.
 
-<span id="fn_396"></span>[285:2](oon20.htm#fr_397) The Tarpeian rock at
+<span id="fn_396"></span>[285:2](oon20.htm#fr_397.md) The Tarpeian rock at
 Rome.
 
-<span id="fn_397"></span>[285:3](oon20.htm#fr_398) Latin, Leo, the
+<span id="fn_397"></span>[285:3](oon20.htm#fr_398.md) Latin, Leo, the
 astronomical sign of the Lion.
 
-<span id="fn_398"></span>[286:1](oon20.htm#fr_399) *Dechassé* = chassé,
+<span id="fn_398"></span>[286:1](oon20.htm#fr_399.md) *Dechassé* = chassé,
 chased away.
 
-<span id="fn_399"></span>[286:2](oon20.htm#fr_400) *Estrange* has again
+<span id="fn_399"></span>[286:2](oon20.htm#fr_400.md) *Estrange* has again
 the meaning of foreign, or out of the family.
 
-<span id="fn_400"></span>[286:3](oon20.htm#fr_401) The order is *après
+<span id="fn_400"></span>[286:3](oon20.htm#fr_401.md) The order is *après
 avoir chassé le cerf aux champs*.
 
-<span id="fn_401"></span>[286:4](oon20.htm#fr_402) *Donront* =
+<span id="fn_401"></span>[286:4](oon20.htm#fr_402.md) *Donront* =
 *donneront*.
 
-<span id="fn_402"></span>[287:1](oon20.htm#fr_403) *Celuy qu'en* =
+<span id="fn_402"></span>[287:1](oon20.htm#fr_403.md) *Celuy qu'en* =
 *Celuy qui fera qu'en*.
 
-<span id="fn_403"></span>[287:2](oon20.htm#fr_404) Latin, *Claudus*,
+<span id="fn_403"></span>[287:2](oon20.htm#fr_404.md) Latin, *Claudus*,
 lame. This Le Pelletier has before endeavoured, with surprising
 dexterity, to show to be the Due de Bordeaux.
 
-<span id="fn_404"></span>[287:3](oon20.htm#fr_405) This whole line is
+<span id="fn_404"></span>[287:3](oon20.htm#fr_405.md) This whole line is
 difficult. *Araigner*, in the Romance language, is said to mean to plead
 and gain a cause against another. The *court* and *long* we had before,
 in Century VIII., 57, applied to Napoleon, as rising from a soldier to
@@ -478,13 +478,13 @@ the long-robed Emperor; here he had to refer to Talma to teach him how
 to carry it. Now, again, it means the rise from a mere dignitary to
 Kingship.
 
-<span id="fn_405"></span>[287:4](oon20.htm#fr_406) Latin, *qui*.
+<span id="fn_405"></span>[287:4](oon20.htm#fr_406.md) Latin, *qui*.
 
-<span id="fn_406"></span>[288:1](oon20.htm#fr_407) *Sparte* = Paris. The
+<span id="fn_406"></span>[288:1](oon20.htm#fr_407.md) *Sparte* = Paris. The
 letters *te* may be considered as one letter, the v being mute. It will
 then convert, according to the rule of the anagram.
 
-<span id="fn_407"></span>[289:1](oon20.htm#fr_408) Phalange, flag,
+<span id="fn_407"></span>[289:1](oon20.htm#fr_408.md) Phalange, flag,
 standard, writes M. le Pelletier. As far as I can discover anything,
 this statement appears to be entirely erroneous. The word "phalanx," as
 connected with matters military, always signifies a body of men in
@@ -516,41 +516,41 @@ things that previously had no interest and seemed obscure. At any rate,
 we have now established that *phalange* is not to be rendered
 *standard*, but troops, army.
 
-<span id="fn_408"></span>[290:1](oon20.htm#fr_409) Latin, *supremus*,
+<span id="fn_408"></span>[290:1](oon20.htm#fr_409.md) Latin, *supremus*,
 the last.
 
-<span id="fn_409"></span>[290:2](oon20.htm#fr_410) The order is, "Quand
+<span id="fn_409"></span>[290:2](oon20.htm#fr_410.md) The order is, "Quand
 l'Empire sera exanclé par trois subrogés."
 
-<span id="fn_410"></span>[290:3](oon20.htm#fr_411) Latin, *subrogatus*,
+<span id="fn_410"></span>[290:3](oon20.htm#fr_411.md) Latin, *subrogatus*,
 substituted; read *subrogés*.
 
-<span id="fn_411"></span>[290:4](oon20.htm#fr_412) *Exancillatus*,
+<span id="fn_411"></span>[290:4](oon20.htm#fr_412.md) *Exancillatus*,
 subdued to, under the yoke of.
 
-<span id="fn_412"></span>[290:5](oon20.htm#fr_413) Latin, *charta*,
+<span id="fn_412"></span>[290:5](oon20.htm#fr_413.md) Latin, *charta*,
 paper
 
-<span id="fn_413"></span>[290:6](oon20.htm#fr_414) Romance, *ne leu*,
+<span id="fn_413"></span>[290:6](oon20.htm#fr_414.md) Romance, *ne leu*,
 not read.
 
-<span id="fn_414"></span>[291:1](oon20.htm#fr_415) *Sainct Memire* is
+<span id="fn_414"></span>[291:1](oon20.htm#fr_415.md) *Sainct Memire* is
 the anagram of S'Meri. To make this pass, M. le Pelletier drops one *m*
 and one *e*.
 
-<span id="fn_415"></span>[291:2](oon20.htm#fr_416) *Tante* is to be read
+<span id="fn_415"></span>[291:2](oon20.htm#fr_416.md) *Tante* is to be read
 *tente*.
 
-<span id="fn_416"></span>[291:3](oon20.htm#fr_417) *Leans* is an old
+<span id="fn_416"></span>[291:3](oon20.htm#fr_417.md) *Leans* is an old
 word for *là dedans*.
 
-<span id="fn_417"></span>[291:4](oon20.htm#fr_418) Latin, *perplexus*,
+<span id="fn_417"></span>[291:4](oon20.htm#fr_418.md) Latin, *perplexus*,
 troubled.
 
-<span id="fn_418"></span>[291:5](oon20.htm#fr_419) *Rebors* = *rebours*;
+<span id="fn_418"></span>[291:5](oon20.htm#fr_419.md) *Rebors* = *rebours*;
 *à rebours* is against the grain.
 
-<span id="fn_419"></span>[291:6](oon20.htm#fr_420) *Ognion* is *Ogmius*,
+<span id="fn_419"></span>[291:6](oon20.htm#fr_420.md) *Ognion* is *Ogmius*,
 the Celtic Mercury or Gallic Hercules. It has <span id="page_292">p.
 292</span> figured in 1792, 1848, and again after the German war, 872.
 At the two first periods they put the figure of this Hercules on their
@@ -562,4 +562,4 @@ d'Hercule fleur de lys*, in Century X. 79.
 
 ------------------------------------------------------------------------
 
-[Next: Republic, 1848, and Napoleon III](oon21)
+[Next: Republic, 1848, and Napoleon III](oon21.md)

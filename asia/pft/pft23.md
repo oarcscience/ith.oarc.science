@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft22)  [Next](pft24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft22)  [Next](pft24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,8 +29,8 @@ The man could not believe this strange speech, so he hurried his horse.
 But the cocoanuts fell off and he had to stop to pick them up. Then he
 hurried his horse all the more to make up for lost time, but the
 cocoanuts fell off again. Many times he did this, and it was night when
-he reached home.  <span id="fr_89"></span>[90](pft68.htm#fn_89)
+he reached home.  <span id="fr_89"></span>[90](pft68.htm#fn_89.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Carabao and the Shell](pft24)
+[Next: The Carabao and the Shell](pft24.md)

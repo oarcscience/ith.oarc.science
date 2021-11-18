@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cota04)  [Next](cota06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cota04)  [Next](cota06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Consciousness of the Atom*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -117,7 +117,7 @@ result.
 The term Logos, translated as the Word, is frequently used in the New
 Testament, in speaking of the Deity. The outstanding passage in which
 this is the case is the first chapter of St. John's Gospel, where the
-words occur: "In the [beginning](errata.htm#0) was the Word, and the
+words occur: "In the [beginning](errata.htm#0.md) was the Word, and the
 Word was with God, and the Word was God." Let us consider for a minute
 the meaning of the expression. Its literal translation is 'the
 
@@ -535,4 +535,4 @@ mystery of the solar system.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture IV. The Evolution of Man, the Thinker](cota06)
+[Next: Lecture IV. The Evolution of Man, the Thinker](cota06.md)

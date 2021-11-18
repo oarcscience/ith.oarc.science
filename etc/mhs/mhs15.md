@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs14)  [Next](mhs16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs14)  [Next](mhs16.md) 
 
 ------------------------------------------------------------------------
 
@@ -200,4 +200,4 @@ enabled to leap high into the air.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. The Horse-shoe As A Favorite Anti-witch Charm](mhs16)
+[Next: XIII. The Horse-shoe As A Favorite Anti-witch Charm](mhs16.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt60)  [Next](pyt62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt60)  [Next](pyt62.md) 
 
 ------------------------------------------------------------------------
 
@@ -673,4 +673,4 @@ boat in the sky.
 ------------------------------------------------------------------------
 
 [Next: 59. A Series of Unclassifiable Fragments, Utterances
-705-714](pyt62)
+705-714](pyt62.md)

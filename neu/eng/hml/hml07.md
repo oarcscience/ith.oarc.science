@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml06)  [Next](hml08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml06)  [Next](hml08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -422,13 +422,13 @@ multitude broke out into shouts of thanksgiving to the
 <span id="img_06000"></span>
 
 [![The Queen's dilemma](tn/06000.jpg)  
-Click to enlarge](img/06000.jpg)  
+Click to enlarge](img/06000.jpg.md)  
 The Queen's dilemma  
 
 <span id="img_06100"></span>
 
 [![''What raptures of rejoicing there were!''](tn/06100.jpg)  
-Click to enlarge](img/06100.jpg)  
+Click to enlarge](img/06100.jpg.md)  
 ''What raptures of rejoicing there were!''  
 
  
@@ -479,4 +479,4 @@ most precious treasures, the True Cross and the Holy Nails.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Compassion of Constantine](hml08)
+[Next: Chapter IV: The Compassion of Constantine](hml08.md)

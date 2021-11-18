@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois02) 
-[Next](wois04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois02.md) 
+[Next](wois04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -125,7 +125,7 @@ the following
 extracts are translated, should prove of the greatest interest to
 students of the New Testament, and especially of the parables of Jesus.
 
-Trench writes <span id="fr_0"></span>[\*](#fn_0) as follows:—"The
+Trench writes <span id="fr_0"></span>[\*](#fn_0.md) as follows:—"The
 parable, as St Jerome has noted, is among the favourite vehicles for
 conveying moral truth throughout the East. Our Lord took possession of
 it; honoured it by making it His own, by using it as the vehicle for the
@@ -144,7 +144,7 @@ that without a parable they spake nothing."
 
 Trench quotes several examples of rabbinic parables—among them one
 dealing, in another way, with the subject of the one I give on pp.
-[19](wois05.htm#page_19), [20](wois05.htm#page_20), "Why the good so
+[19](wois05.htm#page_19), [20](wois05.htm#page_20.md), "Why the good so
 often die young." It is answered that God foresees that if they lived
 they would fall into sin. "To what is this like?
 
@@ -162,7 +162,7 @@ they gave forth their sweetness, I might have delighted myself with
 them, but now I have no pleasure in them.' The next year the king walked
 in his garden, and finding rosebuds scattering fragrance, he commanded
 his servants, 'Gather them, that I may enjoy them before they wither as
-last year they did.'" <span id="fr_1"></span>[\*](#fn_1)
+last year they did.'" <span id="fr_1"></span>[\*](#fn_1.md)
 
 "Again," he says, "there is one of much tenderness to explain why a
 proselyte is dearer to the Lord than even a Levite. Such a proselyte is
@@ -199,17 +199,17 @@ English reader in their original Aramaic and Hebrew.
 
 ### Footnotes
 
-<span id="fn_0"></span>[13:\*](wois03.htm#fr_0) "Notes on the Parables
+<span id="fn_0"></span>[13:\*](wois03.htm#fr_0.md) "Notes on the Parables
 of our Lord," by Richard Chevinix Trench, D.D., Dean of Westminster.
 
-<span id="fn_1"></span>[14:\*](wois03.htm#fr_1) Compare the parable of
+<span id="fn_1"></span>[14:\*](wois03.htm#fr_1.md) Compare the parable of
 the figs which are gathered in their due season, [p.
-18](wois04.htm#page_18).
+18](wois04.htm#page_18.md).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Why God Permits Idolatry](wois04)
+[Next: Why God Permits Idolatry](wois04.md)
 
 </div>

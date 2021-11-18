@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe02)  [Next](toe04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe02)  [Next](toe04.md) 
 
 ------------------------------------------------------------------------
 
@@ -323,7 +323,7 @@ recommend an examination of the insulated masses of stone, found in the
 sand-hills by the city of Brussels; a stone which is formed by an
 injection of flint among sand, similar to that which, in a body of
 gravel, had formed the pudding-stone of England <span
-id="fr_2"></span>[\*](#fn_2). 
+id="fr_2"></span>[\*](#fn_2.md). 
 
 ALL these examples would require to be examined upon the spot, as a
 great part of the proof for the fusion of the flinty substances, arises,
@@ -502,7 +502,7 @@ FOR the truth of this assertion, among a thousand other examples, I
 appeal to that famous mass of native iron, discovered by Mr PALLAS, in
 Siberia. This mass being so well known to all the mineralists of Europe,
 any comment upon its shape and structure will be unnecessary  <span
-id="fr_3"></span>[\*](#fn_3).
+id="fr_3"></span>[\*](#fn_3.md).
 
 <span id="page_239">p. 239</span>
 
@@ -769,7 +769,7 @@ Lothian.
 THE form of these iron-stones is that of an oblate or much compressed
 sphere, and the size from two or three inches diameter to more than a
 foot. In the circular or horizontal section, they present the most
-elegant septarium <span id="fr_4"></span>[\*](#fn_4); and, from the
+elegant septarium <span id="fr_4"></span>[\*](#fn_4.md); and, from the
 examination of this particular structure, the following conclusions may
 be drawn.
 
@@ -1124,7 +1124,7 @@ THIS rock may indeed by considered, in some respects, as a porphyry; for
 it has an evident ground, which is feld-spar, in its sparry state; and
 it is, in one view, distinctly maculated with quartz, which is
 transparent, but somewhat dark-coloured <span
-id="fr_5"></span>[\*](#fn_5).
+id="fr_5"></span>[\*](#fn_5.md).
 
 CONSIDERED as a porphyry, this specimen is no less singular than as a
 granite. For, instead of a siliceous ground, maculated with the rhombic
@@ -1342,11 +1342,11 @@ had been deposited at the bottom of the sea.
 
 ### Footnotes
 
-<span id="fn_2"></span>[233:\*](toe03.htm#fr_2)  ACCURATE descriptions
+<span id="fn_2"></span>[233:\*](toe03.htm#fr_2.md)  ACCURATE descriptions
 of those appearances, with drawings, would be, to natural history, a
 valuable acquisition.
 
-<span id="fn_3"></span>[238:\*](toe03.htm#fr_3) Since this Dissertation
+<span id="fn_3"></span>[238:\*](toe03.htm#fr_3.md) Since this Dissertation
 was written, M. DE LA PEYROUSE has discovered a native manganese. The
 circumstances of this mineral are so well adapted for illustrating the
 present doctrine, and so well related by M. DE LA PEYROUSE, that I
@@ -1387,13 +1387,13 @@ autres manganèse que j'ai décrites, des mines de fer de *Sem*, dans la
 vallée de *Viedersos*, en Comté de Foix." *Journal de Physique, Janvier
 1786*.
 
-<span id="fn_4"></span>[246:\*](toe03.htm#fr_4) [Plate
-I](toe01.htm#img_pl01).
+<span id="fn_4"></span>[246:\*](toe03.htm#fr_4.md) [Plate
+I](toe01.htm#img_pl01.md).
 
-<span id="fn_5"></span>[255:\*](toe03.htm#fr_5) [Plate II. fig.I. 2.
-3](toe07.htm#img_v1pl02).
+<span id="fn_5"></span>[255:\*](toe03.htm#fr_5.md) [Plate II. fig.I. 2.
+3](toe07.htm#img_v1pl02.md).
 
 ------------------------------------------------------------------------
 
 [Next: Part III. Investigation of the Natural Operations employed in the
-Production of Land above the Surface of the Sea](toe04)
+Production of Land above the Surface of the Sea](toe04.md)

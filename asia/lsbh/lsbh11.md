@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh10)  [Next](lsbh12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh10)  [Next](lsbh12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -131,14 +131,14 @@ to me and that I had not made rejoicings over them, and lest I should be
 judged as one of little faith by men."
 
 CCXXVIII\. Another king (Hârûn al-Rashîd <span
-id="fr_79"></span>[1](#fn_79)) had
+id="fr_79"></span>[1](#fn_79).md) had
 
 <span id="page_60">p. 60</span>
 
-two sons, the one (El-Amîn <span id="fr_80"></span>[1](#fn_80)) by the
-Queen (Zubêdah <span id="fr_81"></span>[2](#fn_81)) and the other
-(Al-Ma‘mûn <span id="fr_82"></span>[3](#fn_82)) by a handmaiden <span
-id="fr_83"></span>[4](#fn_83), and because he wished the son of the
+two sons, the one (El-Amîn <span id="fr_80"></span>[1](#fn_80).md) by the
+Queen (Zubêdah <span id="fr_81"></span>[2](#fn_81).md) and the other
+(Al-Ma‘mûn <span id="fr_82"></span>[3](#fn_82).md) by a handmaiden <span
+id="fr_83"></span>[4](#fn_83.md), and because he wished the son of the
 handmaiden to be king after him the Queen was loud in her reproaches of
 the king. Thereupon the king said to her, "Let us make a trial of the
 intelligence of both of them, and whichever is the wiser shall reign;"
@@ -317,26 +317,26 @@ to be understood that the head of a woman is man.
 
 ### Footnotes
 
-<span id="fn_79"></span>[59:1](lsbh11.htm#fr_79) This famous man was
+<span id="fn_79"></span>[59:1](lsbh11.htm#fr_79.md) This famous man was
 proclaimed Khalîfa at Bagdad on Friday, the XIIth day before the end of
 Rebî‘ I. A.H. 170; he died at Sanâbâdh near Ṭûs on Saturday the IVth day
 of Jumada II. A.H. 193. He reigned twenty-three years and six months,
 and died aged forty-four years and four months, A.D. 808.
 
-<span id="fn_80"></span>[60:1](lsbh11.htm#fr_80) *I.e.*, \#\#\#, who was
+<span id="fn_80"></span>[60:1](lsbh11.htm#fr_80.md) *I.e.*, \#\#\#, who was
 murdered on the XXVth day of the month Muharram, A.H. 198=A.D. 813; his
 head was cut off and sent to his brother Al-Ma‘mûn.
 
-<span id="fn_81"></span>[60:2](lsbh11.htm#fr_81) *I.e.*, \#\#\# daughter
+<span id="fn_81"></span>[60:2](lsbh11.htm#fr_81.md) *I.e.*, \#\#\# daughter
 of Ja‘far, the son of the Khalîfa Manṣûr, and wife of Hârûn al-Rashîd.
 
-<span id="fn_82"></span>[60:3](lsbh11.htm#fr_82) *I.e.*, \#\# was
+<span id="fn_82"></span>[60:3](lsbh11.htm#fr_82.md) *I.e.*, \#\# was
 proclaimed Khalîfa at Bagdad when he was twenty-eight years and two
 months old. He died at Podendon, and his body was taken to Tarsus where
 it was buried A.H. 218 =A.D. 833. He reigned twenty-one years, and was
 forty-nine years old when he died.
 
-<span id="fn_83"></span>[60:4](lsbh11.htm#fr_83) *I.e.*, Merâjil,
+<span id="fn_83"></span>[60:4](lsbh11.htm#fr_83.md) *I.e.*, Merâjil,
 \#\#\#, a native of \#\#\#.
 
 <div class="filenav">
@@ -344,6 +344,6 @@ forty-nine years old when he died.
 ------------------------------------------------------------------------
 
 [Next: The Seventh Chapter: Profitable Stories Of Teachers And Learned
-Men](lsbh12)
+Men](lsbh12.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar53)  [Next](gar55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar53)  [Next](gar55.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -89,7 +89,7 @@ future, I had nearly lost the power of forcing myself from the spot.
 <div style="margin-left: 32px">
 
 <span class="small">"I turned from all it brought to those it could not
-bring." <span id="fr_28"></span>[\*](#fn_28)</span>
+bring." <span id="fr_28"></span>[\*](#fn_28.md)</span>
 
 </div>
 
@@ -188,9 +188,9 @@ betray his trust.
 
 ### Footnotes
 
-<span id="fn_28"></span>[202:\*](gar54.htm#fr_28) Travels in the Holy
+<span id="fn_28"></span>[202:\*](gar54.htm#fr_28.md) Travels in the Holy
 Land and Chaldea, by Capt. ROBT. MIQUARI. 1829.
 
 ------------------------------------------------------------------------
 
-[Next: King Solomon's Temple](gar55)
+[Next: King Solomon's Temple](gar55.md)

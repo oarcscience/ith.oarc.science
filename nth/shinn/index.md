@@ -8,7 +8,7 @@ pathh1: "shinn.jpg"
 alttext1: "Portrait of Florence Scovel Shinn [1899] (Public domain)"
 titleh1: "Works of Florence Scovel Shinn"
 ---
-[Texts](#texts)
+[Texts](#texts.md)
 
 ------------------------------------------------------------------------
 
@@ -40,15 +40,15 @@ continue to appeal to readers who want guidance in difficult times.
 <span id="texts"></span> <span class="c_da"></span>
 
 <span class="c_e"> <span class="c_t">[The Game of Life and How to Play
-It](gol/index)</span> \[<span class="c_d">1925</span>\]  
+It](gol/index.md)</span> \[<span class="c_d">1925</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[Your Word Is Your
-Wand](wyw/index)</span> \[<span class="c_d">1928</span>\]  
+Wand](wyw/index.md)</span> \[<span class="c_d">1928</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[The Secret Door To
-Success](sds/index)</span> \[<span class="c_d">1941</span>\]  
+Success](sds/index.md)</span> \[<span class="c_d">1941</span>\]  
 </span>
 
 <span class="c_da"></span>

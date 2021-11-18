@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb03)  [Next](wfb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb03)  [Next](wfb05.md) 
 
 ------------------------------------------------------------------------
 
@@ -152,4 +152,4 @@ entrance.
 
 ------------------------------------------------------------------------
 
-[Next: The Curse of the Pantannas](wfb05)
+[Next: The Curse of the Pantannas](wfb05.md)

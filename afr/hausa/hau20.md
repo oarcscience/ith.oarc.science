@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](hau19)  [Next](hau21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](hau19)  [Next](hau21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hausa Folk-Lore*, by Maalam Shaihua, tr. by R. Sutherland Rattray,
 \[1913\], at Intangible Textual Heritage
 
@@ -46,6 +46,6 @@ Off with the rat's head.
 
 ------------------------------------------------------------------------
 
-[Next: 17. A story about Miss Salt, Miss Pepper, &c.](hau21)
+[Next: 17. A story about Miss Salt, Miss Pepper, &c.](hau21.md)
 
 </div>

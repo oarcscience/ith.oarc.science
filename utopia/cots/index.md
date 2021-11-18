@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486430820/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486430820/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486430820/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cots00)
+[Contents](#contents)    [Start Reading](cots00.md)
 
 ------------------------------------------------------------------------
 
@@ -31,5 +31,5 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486430820/internetsacredte)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-<span id="contents"></span> [Title Page](cots00)  
-[The City of the Sun](cots01)  
+<span id="contents"></span> [Title Page](cots00.md)  
+[The City of the Sun](cots01.md)  

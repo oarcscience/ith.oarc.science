@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](kyog05)  [Next](kyog07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](kyog05)  [Next](kyog07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Karma-Yoga*, by Swami Vivekananda, \[1921\], at Intangible Textual
 Heritage
 
@@ -235,7 +235,7 @@ intensely merged in the world.
 To come back to one of our main points, we say that we cannot do good
 without at the same time doing some evil, or do evil without doing some
 good. Knowing this, how can we work? There have therefore been sects in
-this world who have in an astoundingly [preposterous](errata.htm#3) way
+this world who have in an astoundingly [preposterous](errata.htm#3.md) way
 preached slow suicide as the only means to get out of the world;
 because, if a man lives he has to kill poor little animals and plants or
 do injury to something or some one. So, according to them the only way
@@ -447,6 +447,6 @@ other, they at last lead to the same goal of human.. perfection.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Freedom](kyog07)
+[Next: Chapter VII. Freedom](kyog07.md)
 
 </div>

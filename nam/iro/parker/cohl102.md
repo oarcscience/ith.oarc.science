@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl101)  [Next](cohl103) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl101)  [Next](cohl103.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ temper. It is true. Indians must not help him and the head
 <span id="page_66">p. 66</span>
 
 men must honestly strive to prevent their followers from helping
-him.'" <span id="fr_79"></span>[1](#fn_79)
+him.'" <span id="fr_79"></span>[1](#fn_79.md)
 
 So they said and he said. Eniaiehuk.
 
@@ -37,7 +37,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_79"></span>[66:1](cohl102.htm#fr_79) This section refers to
+<span id="fn_79"></span>[66:1](cohl102.htm#fr_79.md) This section refers to
 the "war in the west," probably General Harrison's campaign against
 Tecumseh in 1811. Red jacket and all the principal chiefs were anxious
 to preserve peace and did all within their power to prevent their young
@@ -47,4 +47,4 @@ the will of the four messengers in the matter.
 
 ------------------------------------------------------------------------
 
-[Next: Section 92](cohl103)
+[Next: Section 92](cohl103.md)

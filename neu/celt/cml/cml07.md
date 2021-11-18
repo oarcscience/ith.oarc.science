@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml06)  [Next](cml08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml06)  [Next](cml08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ emerges one--and one only--which may be considered as scientifically
 established. We have certain proof of two distinct human stocks in the
 British Islands at the time of the Roman Conquest; and so great an
 authority as Professor Huxley has given his opinion that there is no
-evidence of any others. <span id="fr_8"></span>[1](#fn_8)
+evidence of any others. <span id="fr_8"></span>[1](#fn_8.md)
 
 The earliest of these two races would seem to have inhabited our islands
 from the most ancient times, and may, for our purpose, be described as
@@ -74,7 +74,7 @@ Greece under the name of "Pelasgoi"; the earliest Latins in Italy, as
 the "Etruscans"; and the Hebrews in Palestine, as the "Hittites". It
 spread northward through Europe as far as the Baltic, and westward,
 along the Atlas chain, to Spain, France, and our own islands. <span
-id="fr_9"></span>[1](#fn_9) In many countries it reached a comparatively
+id="fr_9"></span>[1](#fn_9.md) In many countries it reached a comparatively
 high level of civilization, but in Britain its development must have
 been early checked. We can discern it as an agricultural rather than a
 pastoral people, still in the Stone Age, dwelling in totemistic tribes
@@ -82,7 +82,7 @@ on hills whose summits it fortified elaborately, and whose slopes it
 cultivated on what is called the "terrace system", and having a
 primitive culture which ethnologists think to have much resembled that
 of the present hill-tribes of Southern India. <span
-id="fr_10"></span>[2](#fn_10) It held our islands till the coming of the
+id="fr_10"></span>[2](#fn_10.md) It held our islands till the coming of the
 Celts, who fought with the aborigines, dispossessed them of the more
 fertile parts, subjugated them, even amalgamated with them, but
 certainly never extirpated them. In the time of the Romans they were
@@ -125,20 +125,20 @@ shape of skull. Without necessarily admitting this,
 
 there is reason to suppose a difference of build and of colour of hair.
 With regard to this, we have the evidence of Latin writers--of
-Tacitus, <span id="fr_11"></span>[1](#fn_11) who tells us that the
+Tacitus, <span id="fr_11"></span>[1](#fn_11.md) who tells us that the
 "Caledonians" of the North differed from the Southern Britons in being
 larger-limbed and redder-haired, and of Strabo, <span
-id="fr_12"></span>[2](#fn_12) who described the tribes in the interior
+id="fr_12"></span>[2](#fn_12.md) who described the tribes in the interior
 of Britain as taller than the Gaulish colonists on the coast, with hair
 less yellow and limbs more loosely knit. Equally do the classic
 authorities agree in recognizing the "Silures" of South Wales as an
 entirely different race from any other in Britain. The dark complexions
 and curly hair of these Iberians seemed to Tacitus to prove them
-immigrants from Spain. <span id="fr_13"></span>[3](#fn_13)
+immigrants from Spain. <span id="fr_13"></span>[3](#fn_13.md)
 
 Professor Rhys also puts forward evidence to show that the Goidels and
 the Brythons had already separated before they first left Gaul for our
-islands. <span id="fr_14"></span>[4](#fn_14) He finds them as two
+islands. <span id="fr_14"></span>[4](#fn_14.md) He finds them as two
 distinct peoples there. We do not expect so much nowadays from "the
 merest school-boy" as we did in Macaulay's time, but even the modern
 descendant of that paragon could probably tell us that all Gaul was
@@ -146,18 +146,18 @@ divided into three parts, one of which was inhabited by the Belgae,
 another by the Aquitani, and the third by those who called themselves
 Celtae, but were termed Galli by the Romans; and that they all differed
 from one another in language, customs, and laws. <span
-id="fr_15"></span>[5](#fn_15) Of these, Professor Rhys identifies the
+id="fr_15"></span>[5](#fn_15.md) Of these, Professor Rhys identifies the
 Belgae with the Brythons, and the Celtae with the Goidels, the
 
 <span id="page_23">p. 23</span>
 
 third people, the Aquitani, being non-Celtic and non-Aryan, part of the
 great Hamitic-speaking Iberian stock. <span
-id="fr_16"></span>[1](#fn_16) The Celtae, with their Goidelic dialect of
+id="fr_16"></span>[1](#fn_16.md) The Celtae, with their Goidelic dialect of
 Celtic, which survives to-day in the Gaelic languages of Ireland,
 Scotland, and the Isle of Man, were the first to come over to Britain,
 pushed forward, probably, by the Belgae, who, Caesar tells us, were the
-bravest of the Gauls. <span id="fr_17"></span>[2](#fn_17) Here they
+bravest of the Gauls. <span id="fr_17"></span>[2](#fn_17.md) Here they
 conquered the native Iberians, driving them out of the fertile parts
 into the rugged districts of the north and west. Later came the Belgae
 themselves, compelled by press of population; and they, bringing better
@@ -201,20 +201,20 @@ British Islands from two sources. The first is a foreign one, that of
 the Latin writers. But the Romans only really knew the Southern Britons,
 whom they describe as similar in physique and customs to the Continental
 Gauls, with whom, indeed, they considered them to be identical. <span
-id="fr_18"></span>[1](#fn_18) At the time they wrote, colonies of Belgae
+id="fr_18"></span>[1](#fn_18.md) At the time they wrote, colonies of Belgae
 were still
 
 <span id="page_25">p. 25</span>
 
 settling upon the coasts of Britain opposite to Gaul. <span
-id="fr_19"></span>[1](#fn_19) Roman information grew scantier as it
+id="fr_19"></span>[1](#fn_19.md) Roman information grew scantier as it
 approached the Wall, and of the Northern tribes they seem to have had
 only such knowledge as they gathered through occasional warfare with
 them. They describe them as entirely barbarous, naked and tattooed,
 living by the chase alone, without towns, houses, or fields, without
 government or family life, and regarding iron as an ornament of value,
 as other, more civilized peoples regarded gold. <span
-id="fr_20"></span>[2](#fn_20) As for Ireland, it never came under their
+id="fr_20"></span>[2](#fn_20.md) As for Ireland, it never came under their
 direct observation, and we are entirely dependent upon its native
 writers for information as to the manners and customs of the Gaels. It
 may be considered convincing proof of the authenticity of the
@@ -224,7 +224,7 @@ upon the Britons and Gauls. Reading the two side by side, we may largely
 reconstruct the common civilization of the Celts.
 
 Roughly speaking, one may compare it with the civilization of the
-Greeks, as described by Homer. <span id="fr_21"></span>[3](#fn_21) Both
+Greeks, as described by Homer. <span id="fr_21"></span>[3](#fn_21.md) Both
 peoples were in the tribal and pastoral stage of culture, in which the
 chiefs are the great cattle-owners round whom their less wealthy fellows
 gather. Both wear much the same attire, use the same kind of weapons,
@@ -244,7 +244,7 @@ regards this world and the next.
 
 We may gather much detailed information of the early inhabitants of the
 British Islands from our various authorities. <span
-id="fr_22"></span>[1](#fn_22) Their clothes, which consisted, according
+id="fr_22"></span>[1](#fn_22.md) Their clothes, which consisted, according
 to the Latin writers, of a blouse with sleeves, trousers fitting closely
 round the ankles, and a shawl or cloak, fastened at the shoulder with a
 brooch, were made either of thick felt or of woven cloth dyed with
@@ -278,7 +278,7 @@ reach. The Romans were much impressed by the skill of the drivers, who
 "could check their horses at full speed on a steep incline, and turn
 them in an instant, and could run along the pole, and stand on the yoke,
 and then get back into their chariots again without a moment's
-delay". <span id="fr_23"></span>[1](#fn_23)
+delay". <span id="fr_23"></span>[1](#fn_23.md)
 
 With these accounts of the Roman writers we may compare the picture of
 the Gaelic hero, Cuchulainn, as the ancient Irish writers describe him
@@ -304,13 +304,13 @@ trusty special shield, in hue dark crimson, and in its circumference
 armed with a pure white silver rim. At his left side a long and
 golden-hilted sword. Beside him, in the chariot, a lengthy spear;
 together with a keen, aggression-boding javelin, fitted with hurling
-thong, with rivets of white bronze." <span id="fr_24"></span>[1](#fn_24)
+thong, with rivets of white bronze." <span id="fr_24"></span>[1](#fn_24.md)
 Another passage of Gaelic saga describes his chariot. It was made of
 fine wood, with wicker-work, moving on wheels of white bronze. It had a
 high rounded frame of creaking copper, a strong curved yoke of gold, and
 a pole of white silver, with mountings of white bronze. The yellow reins
 were plaited, and the shafts were as hard and straight as
-sword-blades. <span id="fr_25"></span>[2](#fn_25)
+sword-blades. <span id="fr_25"></span>[2](#fn_25.md)
 
 In like manner the ancient Irish writers have made glorious the halls
 and fortresses of their mythical kings. Like the palaces of Priam, of
@@ -318,13 +318,13 @@ Menelaus, and of Odysseus, they gleam with gold
 
 <span id="page_29">p. 29</span>
 
-and gems. Conchobar, <span id="fr_26"></span>[1](#fn_26) the legendary
+and gems. Conchobar, <span id="fr_26"></span>[1](#fn_26.md) the legendary
 King of Ulster in its golden age, had three such "houses" at Emain
 Macha. Of the one called the "Red Branch", we are told that it contained
 nine compartments of red yew, partitioned by walls of bronze, all
 grouped around the king's private chamber, which had a ceiling of
 silver, and bronze pillars adorned with gold and carbuncles. <span
-id="fr_27"></span>[2](#fn_27) But the far less magnificent accounts of
+id="fr_27"></span>[2](#fn_27.md) But the far less magnificent accounts of
 the Latin writers have, no doubt, more truth in them than such lavish
 pictures. They described the Britons they knew as living in villages of
 bee-hive huts, roofed with fern or thatch, from which, at the approach
@@ -332,7 +332,7 @@ of an enemy, they retired to the local *dún*. This, so far from being
 elaborate, merely consisted of a round or oval space fenced in with
 palisades and earth-works, and situated either upon the top of a hill or
 in the midst of a not easily traversable morass. <span
-id="fr_28"></span>[3](#fn_28) We may see the remains of such strongholds
+id="fr_28"></span>[3](#fn_28.md) We may see the remains of such strongholds
 in many parts of England--notable ones are the "castles" of Amesbury,
 Avebury, and Old Sarum in Wiltshire, Saint Catherine's Hill, near
 Winchester, and Saint George's Hill, in Surrey--and it is probable that,
@@ -345,7 +345,7 @@ cultivated in common. This community of possessions
 
 <span id="page_30">p. 30</span>
 
-is stated by Caesar <span id="fr_29"></span>[1](#fn_29) to have extended
+is stated by Caesar <span id="fr_29"></span>[1](#fn_29.md) to have extended
 to their wives; but the imputation cannot be said to have been proved.
 On the contrary, in the stories of both branches of the Celtic race,
 women seem to have taken a higher place in men's estimation, and to have
@@ -374,71 +374,71 @@ of the law, he was little more than the mouthpiece of public opinion.
 
 ### Footnotes
 
-<span id="fn_8"></span>[19:1](cml07.htm#fr_8) Huxley: *On Some Fixed
+<span id="fn_8"></span>[19:1](cml07.htm#fr_8.md) Huxley: *On Some Fixed
 Points in British Ethnology*. 1871.
 
-<span id="fn_9"></span>[20:1](cml07.htm#fr_9) Sergi: *The Mediterranean
+<span id="fn_9"></span>[20:1](cml07.htm#fr_9.md) Sergi: *The Mediterranean
 Race*.
 
-<span id="fn_10"></span>[20:2](cml07.htm#fr_10) Gomme: *The Village
+<span id="fn_10"></span>[20:2](cml07.htm#fr_10.md) Gomme: *The Village
 Community*. Chap, IV--"The non-Aryan Elements in the English Village
 Community".
 
-<span id="fn_11"></span>[22:1](cml07.htm#fr_11) Tacitus: *Agricola*,
+<span id="fn_11"></span>[22:1](cml07.htm#fr_11.md) Tacitus: *Agricola*,
 chap. xi.
 
-<span id="fn_12"></span>[22:2](cml07.htm#fr_12) Strabo: *Geographica*,
+<span id="fn_12"></span>[22:2](cml07.htm#fr_12.md) Strabo: *Geographica*,
 Book IV, chap. v.
 
-<span id="fn_13"></span>[22:3](cml07.htm#fr_13) Tacitus, *op. cit.*
+<span id="fn_13"></span>[22:3](cml07.htm#fr_13.md) Tacitus, *op. cit.*
 
-<span id="fn_14"></span>[22:4](cml07.htm#fr_14) Rhys: *The Early
+<span id="fn_14"></span>[22:4](cml07.htm#fr_14.md) Rhys: *The Early
 Ethnology of the British Islands*. *Scottish Review*. April, 1890.
 
-<span id="fn_15"></span>[22:5](cml07.htm#fr_15) Caesar: *De Bello
+<span id="fn_15"></span>[22:5](cml07.htm#fr_15.md) Caesar: *De Bello
 Gallico*, Book I, chap. 1.
 
-<span id="fn_16"></span>[23:1](cml07.htm#fr_16) Rhys: *Scottish Review*.
+<span id="fn_16"></span>[23:1](cml07.htm#fr_16.md) Rhys: *Scottish Review*.
 April, 1890.
 
-<span id="fn_17"></span>[23:2](cml07.htm#fr_17) Op. Caesar, *op. cit.*
+<span id="fn_17"></span>[23:2](cml07.htm#fr_17.md) Op. Caesar, *op. cit.*
 
-<span id="fn_18"></span>[24:1](cml07.htm#fr_18) Tacitus: Agricola, chap.
+<span id="fn_18"></span>[24:1](cml07.htm#fr_18.md) Tacitus: Agricola, chap.
 XI.
 
-<span id="fn_19"></span>[25:1](cml07.htm#fr_19) Caesar: *De Bellico
+<span id="fn_19"></span>[25:1](cml07.htm#fr_19.md) Caesar: *De Bellico
 Gallico*, Book V, chap. XII.
 
-<span id="fn_20"></span>[25:2](cml07.htm#fr_20) Elton: *Origins of
+<span id="fn_20"></span>[25:2](cml07.htm#fr_20.md) Elton: *Origins of
 English History*, chap. VII.
 
-<span id="fn_21"></span>[25:3](cml07.htm#fr_21) See "La Civilisation des
+<span id="fn_21"></span>[25:3](cml07.htm#fr_21.md) See "La Civilisation des
 Celtes et celle de l’Épopée Homérique", by M. d’Arbois de Jubainville,
 *Cours de Littérature Celtique*, Vol. VI.
 
-<span id="fn_22"></span>[26:1](cml07.htm#fr_22) See Elton: Origins of
+<span id="fn_22"></span>[26:1](cml07.htm#fr_22.md) See Elton: Origins of
 English History, chap. VII.
 
-<span id="fn_23"></span>[27:1](cml07.htm#fr_23) Caesar: *De Bello
+<span id="fn_23"></span>[27:1](cml07.htm#fr_23.md) Caesar: *De Bello
 Gallico*, Book IV, chap. xx
 
-<span id="fn_24"></span>[28:1](cml07.htm#fr_24) From the *Táin Bó
+<span id="fn_24"></span>[28:1](cml07.htm#fr_24.md) From the *Táin Bó
 Chuailgné*. The translator is Mr. Standish Hayes O’Grady.
 
-<span id="fn_25"></span>[28:2](cml07.htm#fr_25) *Tochmarc Emire*--the
+<span id="fn_25"></span>[28:2](cml07.htm#fr_25.md) *Tochmarc Emire*--the
 *Wooing of Emer*--an old Irish romance.
 
-<span id="fn_26"></span>[29:1](cml07.htm#fr_26) Sometimes spelt
+<span id="fn_26"></span>[29:1](cml07.htm#fr_26.md) Sometimes spelt
 "Conachar", and pronounced *Conhower* or *Connor*.
 
-<span id="fn_27"></span>[29:2](cml07.htm#fr_27) *The Wooing of* Emer.
+<span id="fn_27"></span>[29:2](cml07.htm#fr_27.md) *The Wooing of* Emer.
 
-<span id="fn_28"></span>[29:3](cml07.htm#fr_28) Caesar: *De Bello
+<span id="fn_28"></span>[29:3](cml07.htm#fr_28.md) Caesar: *De Bello
 Galileo*, Hook V, chap. xxi, and various passages in Book VII.
 
-<span id="fn_29"></span>[30:1](cml07.htm#fr_29) *Ibid*., chap. XIV.
+<span id="fn_29"></span>[30:1](cml07.htm#fr_29.md) *Ibid*., chap. XIV.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. The Religion of the Ancient Britons and
-Druidism](cml08)
+Druidism](cml08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut05)  [Next](mdut07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut05)  [Next](mdut07.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,11 +131,11 @@ made a lot of it.
 
 Next day that crowd of people went again to hunt. "Without being afraid
 of that man, rise (and get ready) for your grazing hills (?)," <span
-id="fr_8"></span>[1](#fn_8) . . . he said. The chief spoke.
+id="fr_8"></span>[1](#fn_8.md) . . . he said. The chief spoke.
 
 <span id="page_112">p. 112</span> <span id="page_113">p. 113</span>
 
-Then his people said, ". . . .," <span id="fr_9"></span>[1](#fn_9) and
+Then his people said, ". . . .," <span id="fr_9"></span>[1](#fn_9.md) and
 thereupon they all went off.
 
 As the sun was going down, a man (Coyote) came. He arrived, and,
@@ -239,13 +239,13 @@ Meanwhile Coyote-Man went off. That is all, it is said.
 
 ### Footnotes
 
-<span id="fn_8"></span>[111:1](mdut06.htm#fr_8) Obscure.
+<span id="fn_8"></span>[111:1](mdut06.htm#fr_8.md) Obscure.
 Hesa<sup>e</sup>tem, "how many;" honwēpepem, "living persons;" tui
 tseno, "to get up, arise."
 
-<span id="fn_9"></span>[113:1](mdut06.htm#fr_9) Obscure.
+<span id="fn_9"></span>[113:1](mdut06.htm#fr_9.md) Obscure.
 
 ------------------------------------------------------------------------
 
 [Next: 5. Coyote, The Mountain-Tossing People, and the
-Wind-Man.](mdut07)
+Wind-Man.](mdut07.md)

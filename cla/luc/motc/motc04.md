@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc03)  [Next](motc05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc03)  [Next](motc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,4 +190,4 @@ I'll have occasion to remind you of your folly.
 
 ------------------------------------------------------------------------
 
-[Next: The Pleasure of Being Beaten](motc05)
+[Next: The Pleasure of Being Beaten](motc05.md)

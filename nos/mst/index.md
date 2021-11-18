@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mst00)
+[Contents](#contents)    [Start Reading](mst00.md)
 
 ------------------------------------------------------------------------
 
@@ -64,27 +64,27 @@ attempts to make specific predictions based on the cryptic quatrains.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mst00)  
-[Contents](mst01)  
-[Foreword](mst02)  
+<span id="contents"></span> [Title Page](mst00.md)  
+[Contents](mst01.md)  
+[Foreword](mst02.md)  
 <span id="section_000"></span>
 
 ### Part One
 
-[Chapter One: A Prophet Is Born](mst03)  
-[Chapter Two: The Education of a Genius](mst04)  
-[Chapter Three: Personages and Politics](mst05)  
-[Chapter Four: Garlands of Fame](mst06)  
-[Chapter Five: The Plague Returns](mst07)  
-[Chapter Six: A Prophet's Eyry](mst08)  
-[Chapter Seven: Purpose](mst09)  
-[Chapter Eight: On to Paris](mst10)  
-[Chapter Nine: The Court of the Valois](mst11)  
-[Chapter Ten: Towards Familiar Country](mst12)  
+[Chapter One: A Prophet Is Born](mst03.md)  
+[Chapter Two: The Education of a Genius](mst04.md)  
+[Chapter Three: Personages and Politics](mst05.md)  
+[Chapter Four: Garlands of Fame](mst06.md)  
+[Chapter Five: The Plague Returns](mst07.md)  
+[Chapter Six: A Prophet's Eyry](mst08.md)  
+[Chapter Seven: Purpose](mst09.md)  
+[Chapter Eight: On to Paris](mst10.md)  
+[Chapter Nine: The Court of the Valois](mst11.md)  
+[Chapter Ten: Towards Familiar Country](mst12.md)  
 <span id="section_001"></span>
 
 ### Part Two
 
-[Chapter One: The Cycle of Valois-Navarre](mst13)  
-[Chapter Two: Claude de Savoie](mst14)  
-[Chapter Three: In the Twentieth Century](mst15)  
+[Chapter One: The Cycle of Valois-Navarre](mst13.md)  
+[Chapter Two: Claude de Savoie](mst14.md)  
+[Chapter Three: In the Twentieth Century](mst15.md)  

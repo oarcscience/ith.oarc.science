@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe07)  [Next](toe09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe07)  [Next](toe09.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ the Theory of Fossil Coal*.
 
 ------------------------------------------------------------------------
 
-[Next: Section I Prospect of the Subject to be treated of](toe09)
+[Next: Section I Prospect of the Subject to be treated of](toe09.md)

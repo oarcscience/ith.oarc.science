@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat07)  [Next](bat09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat07)  [Next](bat09.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,8 +13,8 @@ Index](../ehh)  [Index](index)  [Previous](bat07)  [Next](bat09) 
 IN the scene that illustrates the FIFTH Division of the Tuat, which is
 passed through by the Sun-god during the FIFTH HOUR Of the night, we see
 the boat of the sun being drawn along by seven gods and seven goddesses
-(see pp. [91](#page_91), [95](#page_95), [99](#page_99),
-[103](#page_103), [107](#page_107)). The legend over the seven gods is
+(see pp. [91](#page_91), [95](#page_95), [99](#page_99.md),
+[103](#page_103), [107](#page_107).md). The legend over the seven gods is
 partly broken away, but what remains of it proves that it must have been
 similar in meaning to that which is over the heads of the goddesses,
 which reads, "These are the goddesses which tow RA along in the Tuat
@@ -48,7 +48,7 @@ in peace, in peace, O Ra of the Beautiful
 <span id="page_87">p. 87</span>
 
 <span id="img_08700"></span> [![](tn/generic.jpg)  
-Click to view](img/08700.jpg)  
+Click to view](img/08700.jpg.md)  
 The Kingdom of Seker.
 
 <span id="page_88">p. 88</span>
@@ -56,7 +56,7 @@ The Kingdom of Seker.
 <span id="page_89">p. 89</span>
 
 \[paragraph continues\] Ament". In the middle of the scene we see that
-the ground rises (see [p. 103](#page_103)) and forms a kind of hollow
+the ground rises (see [p. 103](#page_103).md) and forms a kind of hollow
 mound, the highest point of which terminates in the head of a woman,
 which faces to the right; immediately above her head is a scarab which
 is in the act of descending, but only one half of its body is visible.
@@ -87,7 +87,7 @@ and Ament joineth herself unto you, so that I may
  
 
 <span id="img_09100"></span> [![](tn/generic.jpg)  
-Click to view](img/09100.jpg)  
+Click to view](img/09100.jpg.md)  
 The Kingdom of Seker.
 
  
@@ -113,9 +113,9 @@ said "to have his existence from the voice of the great god," and "his
 work is to keep ward over his image."
 
 Within the oval already described is stretched out at almost full length
-on the ground a monster serpent (see pp. [99](#page_99),
-[103](#page_103)), which has two snakes' heads at one end of his body,
-and a bearded human head at the other (see [99](#page_99)); the text
+on the ground a monster serpent (see pp. [99](#page_99.md),
+[103](#page_103).md), which has two snakes' heads at one end of his body,
+and a bearded human head at the other (see [99](#page_99).md); the text
 above his snakes' heads is mutilated, and all that can be made out
 satisfactorily are the words *neter aa*, "great god." From the middle of
 his body springs a pair of wings, and between them, immediately under
@@ -131,7 +131,7 @@ The text which refers to the oval reads:--
  
 
 <span id="img_09500"></span> [![](tn/generic.jpg)  
-Click to view](img/09500.jpg)  
+Click to view](img/09500.jpg.md)  
 The Kingdom of Seker.
 
  
@@ -147,20 +147,20 @@ this hour after this great god hath passed them by, like unto the sound
 of the roarings which are in the heights of heaven when they are
 disturbed by a storm."
 
-On the left of the horizon (see [p. 95](#page_95)) of SEKRI is the
+On the left of the horizon (see [p. 95](#page_95).md) of SEKRI is the
 serpent TEPAN, who liveth by the voice of the primeval gods of the
 earth. He cometh forth and he goeth in, and he presenteth the offerings
 made to this great god every day unseeing \[and unseen\]." On
 
 <span id="page_98">p. 98</span>
 
-the right (see [p. 107](#page_107)) of the horizon is the serpent
+the right (see [p. 107](#page_107).md) of the horizon is the serpent
 ANKHAA-PAU, "who liveth upon the flames which issue from his mouth. His
 work is to protect the horizon, and he never entereth into any house of
 the Tuat."
 
 Immediately in front of this serpent are four seated gods (see [p.
-111](#page_111)), of whom the heads of two are turned behind them; they
+111](#page_111).md), of whom the heads of two are turned behind them; they
 are described as the "gods who hold the secret forms of SEKRI, who is on
 his sand." The first holds on his knees the White Crown, the second the
 Red Crown, the third the head of the ram of HERU-SHEFSHEFIT, and the
@@ -168,7 +168,7 @@ fourth the plumes of Shu, or some other god of light and dryness. The
 legend above them reads, "Their forms are in the place among them in
 their own bodies. They follow after this great god unseeing and unseen."
 
-Behind the serpent TEPAN (see pp. [87](#page_87), [91](#page_91)) are
+Behind the serpent TEPAN (see pp. [87](#page_87), [91](#page_91).md) are
 four human bearded heads, each with a mass of fire upon
 
 <span id="page_99">p. 99</span>
@@ -176,7 +176,7 @@ four human bearded heads, each with a mass of fire upon
  
 
 <span id="img_09900"></span> [![](tn/generic.jpg)  
-Click to view](img/09900.jpg)  
+Click to view](img/09900.jpg.md)  
 The Kingdom of Seker.
 
  
@@ -193,11 +193,11 @@ In the upper register are:--
 
 1\. The goddess AMENTIT, standing with her arms stretched out in front
 of her at right angles to her body, and wearing the feather of Maat on
-her head (see [p. 87](#page_87)).
+her head (see [p. 87](#page_87).md).
 
 2\. A group of nine large axes (four are broken away), the foremost
 surmounted by the Crown of the North, and the hindmost by the Crown of
-the South (see pp. [87](#page_87), [91](#page_91)). The mutilated speech
+the South (see pp. [87](#page_87), [91](#page_91).md). The mutilated speech
 of the god written above them reads, "Give me thy hand (i.e., help me)
 Amentet! Good is this water which leadeth to the tomb \[where\] rest the
 gods. Hail, exist ye, O nine gods who have come into being from my
@@ -209,15 +209,15 @@ into being from your own forms, and who are firm in respect of your
 food, I avenge you, do ye avenge me."
 
 3\. The god who is the "guardian of those who are submerged," (see pp.
-[91](#page_91), [95](#page_95)).
+[91](#page_91), [95](#page_95).md).
 
-4\. The god SATIU (?), (see [p. 95](#page_95)).
+4\. The god SATIU (?), (see [p. 95](#page_95).md).
 
-5\. The god ANKH-AB hawk-headed (see [p. 95](#page_95)).
+5\. The god ANKH-AB hawk-headed (see [p. 95](#page_95).md).
 
-6\. The god BATH-RESTH (?) crocodile-headed, (see [p. 95](#page_95)).
+6\. The god BATH-RESTH (?) crocodile-headed, (see [p. 95](#page_95).md).
 
-7\. The god ANP-HENI, jackal-headed (see [p. 99](#page_99)). Of these
+7\. The god ANP-HENI, jackal-headed (see [p. 99](#page_99).md). Of these
 five gods it is said, "They act as guardians of Tuat, and of those who
 are submerged in the Tuat, and they \[protect\] and make to pass on the
 boat." To these the Sun-god makes an address, which reads,
@@ -227,7 +227,7 @@ boat." To these the Sun-god makes an address, which reads,
  
 
 <span id="img_10300"></span> [![](tn/generic.jpg)  
-Click to view](img/10300.jpg)  
+Click to view](img/10300.jpg.md)  
 The Kingdom of Seker.
 
  
@@ -252,7 +252,7 @@ appears at the top, we may conclude that it represents
 
 some form of the dark underworld of Seker. To each side of it a hawk
 clings by his claws, and from the lower part of it emerges the scarab,
-which has already been mentioned (see [p. 103](#page_103)).
+which has already been mentioned (see [p. 103](#page_103).md).
 
 9\. A huge serpent, the two heads facing the object described under No.
 8. Of him it is said, "He liveth by Ra every day, he travelleth over
@@ -263,35 +263,35 @@ thy folds wherewith thou hast doubly sealed the earth to protect me, and
 march thou against those who are in my following, in order that I may
 pass by thee in peace."
 
-10\. The god BAFERKHEFTIU, ram-headed (see [p. 111](#page_111)).
+10\. The god BAFERKHEFTIU, ram-headed (see [p. 111](#page_111).md).
 
 11\. The god IU-HER-APTESU, who holds a lasso in each hand (see [p.
-111](#page_111)).
+111](#page_111).md).
 
 <span id="page_107">p. 107</span>
 
  
 
 <span id="img_10700"></span> [![](tn/generic.jpg)  
-Click to view](img/10700.jpg)  
+Click to view](img/10700.jpg.md)  
 The Kingdom of Seker.
 
  
 
 <span id="page_109">p. 109</span>
 
-12\. The god AN-AT, wearing a feather of Maat (see [p. 111](#page_111)).
+12\. The god AN-AT, wearing a feather of Maat (see [p. 111](#page_111).md).
 
 13\. The god ABUI, with his head turned behind him; he is provided with
-a shade, (see [p. 111](#page_111)).
+a shade, (see [p. 111](#page_111).md).
 
-14\. The god AMU, bull-headed (see [p. 107](#page_107)).
+14\. The god AMU, bull-headed (see [p. 107](#page_107).md).
 
-15\. The god SET, bull-headed (see [p. 107](#page_107)).
+15\. The god SET, bull-headed (see [p. 107](#page_107).md).
 
-16\. The god SENT-NEF-AMENTIU, (see [p. 107](#page_107)).
+16\. The god SENT-NEF-AMENTIU, (see [p. 107](#page_107).md).
 
-17\. The god HETEP-NETERU, (see [p. 107](#page_107)).
+17\. The god HETEP-NETERU, (see [p. 107](#page_107).md).
 
 Of these eight gods it is said, "They stand by at the annihilation of
 the dead in the Tuat, and their work is to burn up with fire the bodies
@@ -301,7 +301,7 @@ of the dead by the flames from their mouths in the course of every day."
 top of the head of a man who is kneeling before her, and is cutting open
 his head with a hatchet; the goddess is called and lives upon the blood
 of the dead, and upon that which the gods give," (see [p.
-113](#page_113)).
+113](#page_113).md).
 
 <span id="page_110">p. 110</span>
 
@@ -320,7 +320,7 @@ destroy and cut in pieces the
  
 
 <span id="img_11100"></span> [![](tn/generic.jpg)  
-Click to view](img/11100.jpg)  
+Click to view](img/11100.jpg.md)  
 The Kingdom of Seker.
 
  
@@ -330,7 +330,7 @@ The Kingdom of Seker.
  
 
 <span id="img_11300"></span> [![](tn/generic.jpg)  
-Click to view](img/11300.jpg)  
+Click to view](img/11300.jpg.md)  
 The Kingdom of Seker.
 
  
@@ -351,4 +351,4 @@ journeyeth, and journeyeth, and travelleth."
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. The Sixth Division of the Tuat, Which Is Called
-Metchet-Mu-Nebt-Tuat.](bat09)
+Metchet-Mu-Nebt-Tuat.](bat09.md)

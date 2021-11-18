@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm38)  [Next](rotm40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm38)  [Next](rotm40.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -199,6 +199,6 @@ forward against any man, either of the kindreds or the Strangers.
 
 [Next: Chapter XXXIX. Of the Great Folk-Mote: Men Take Rede of the
 War-Faring, the Fellowship, and the War-Leader. Folk-Might Telleth
-Whence His People Came. The Folk-Mote Sundered.](rotm40)
+Whence His People Came. The Folk-Mote Sundered.](rotm40.md)
 
 </div>

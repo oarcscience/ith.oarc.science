@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp08)  [Next](wgp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp08)  [Next](wgp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ boughes about it, sett up sommer haules, bowers, and arbours hard by it.
 And then fall thei to banquet and feast, to leape and daunce aboute it,
 as the heathen people did, at the dedication of their idolles, whereof
 this is a perfect patterne, or rather the thyng itself." <span
-id="fr_64"></span>[65](#fn_64)
+id="fr_64"></span>[65](#fn_64.md)
 
 The Puritans were deeply impressed with the belief that the maypole was
 a substantial relic of Paganism; and they were no doubt right. There
@@ -91,7 +91,7 @@ purest form. This was done by the rapid friction of two pieces of wood,
 attended with superstitious ceremonies; the pure element of fire was
 believed to exist in the wood, and to be thus forced out of it, and
 hence it was called need-fire (in Old German *not-feur*, and in
-[Anglo-Saxon](errata.htm#2), *neod-fyr*), meaning literally a forced
+[Anglo-Saxon](errata.htm#2), *neod-fyr*.md), meaning literally a forced
 
 <span id="page_95">p. 95</span>
 
@@ -110,7 +110,7 @@ dynasty. The universality of this superstition is proved by the
 circumstance that it still exists in the Highlands of Scotland,
 especially in Caithness, where it is adopted as a protection for the
 cattle when attacked by disease which the Highlanders attribute to
-witchcraft. <span id="fr_65"></span>[66](#fn_65) It was from the
+witchcraft. <span id="fr_65"></span>[66](#fn_65.md) It was from the
 remotest ages the custom to cause cattle, and even children, to pass
 across the need-fire, as a protection to them for the rest of their
 lives. The need-fire was kindled at Easter, on May-day, and especially
@@ -119,19 +119,19 @@ at the
 <span id="page_96">p. 96</span>
 
 summer solstice, on the eve of the feast of St. John the Baptist, or of
-Midsummer-day. <span id="fr_66"></span>[67](wgp10.htm#fn_66)
+Midsummer-day. <span id="fr_66"></span>[67](wgp10.htm#fn_66.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_64"></span>[93:65](wgp09.htm#fr_64) Stubbes, *Anatomie of
+<span id="fn_64"></span>[93:65](wgp09.htm#fr_64.md) Stubbes, *Anatomie of
 Ahuses*, fol. 94, 8vo. London, 1583.
 
-<span id="fn_65"></span>[95:66](wgp09.htm#fr_65) Logan, *The Scottish
+<span id="fn_65"></span>[95:66](wgp09.htm#fr_65.md) Logan, *The Scottish
 Gael*, vol. ii, p. 64, and Jamieson's *Scottish Dictionary*, Suppl. sub.
 v. *Neidfyre*.
 
 ------------------------------------------------------------------------
 
-[Next: Midsummer Night](wgp10)
+[Next: Midsummer Night](wgp10.md)

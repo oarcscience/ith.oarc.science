@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi22)  [Next](hpi24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi22)  [Next](hpi24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ as a whole is governed by lower impulses, subjected only to some measure
 of outward restraint by a grossly sensuous religion. But out of this
 society two men, called Salaman and Asal (*Absal*, cf. IV, 4 § 7), rise
 to rational knowledge and control of their desires.
-[Accommodating](errata.htm#13) himself to the popular religion, the
+[Accommodating](errata.htm#13.md) himself to the popular religion, the
 first, who is of a practical turn of mind, contrives to rule the people;
 but the second, being of speculative disposition and mystic leanings,
 wanders off to the island which lay opposite, and which he imagines to
@@ -151,7 +151,7 @@ Ibn Tofail has thus arrived at the same result as his Eastern
 predecessors. Religion must still be kept up for the ordinary man,
 because he cannot go beyond it. It is only a few who rise to an
 understanding of religious symbols; and very rarely indeed does any one
-attain to the unrestrained [contemplation](errata.htm#14) of the highest
+attain to the unrestrained [contemplation](errata.htm#14.md) of the highest
 reality. This last truth he accentuates with the greatest emphasis. Even
 if we do find in Hai the representative of human nature, we cannot
 gainsay this truth; for the representation given sets forth the supreme
@@ -193,7 +193,7 @@ That has reference to his bodily attitude towards the earthly; but the
 living principle binds him to the heavens, and, like the heavens, he
 strives to be useful to his surroundings, and to keep his own life pure.
 He therefore tends the plants and protects the animals about him, in
-order that his island may become a paradise. He [pays](errata.htm#15)
+order that his island may become a paradise. He [pays](errata.htm#15.md)
 scrupulous attention to the cleanliness of his person and
 
 <span id="page_187">p. 187</span>
@@ -208,4 +208,4 @@ comprehend or express.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Ibn Roshd](hpi24)
+[Next: 4. Ibn Roshd](hpi24.md)

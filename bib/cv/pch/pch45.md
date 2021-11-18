@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch44) 
-[Next](pch46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch44.md) 
+[Next](pch46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -28,9 +28,9 @@ but commonly *eaten*, the "Gods" and the "dead" being held to share in
 the feast, as a feast. Dead relatives are similarly eaten, and parents
 filially slain and eaten, to preserve their qualities in the family or
 tribe. On such habits would follow the sacrifices of human beings at
-funerals, <span id="fr_1059"></span>[2](#fn_1059) held by Mr. Spencer to
+funerals, <span id="fr_1059"></span>[2](#fn_1059.md) held by Mr. Spencer to
 be primordial forms of sacrifice proper. <span
-id="fr_1060"></span>[3](#fn_1060)
+id="fr_1060"></span>[3](#fn_1060.md)
 
 <span id="page_210">p. 210</span>
 
@@ -38,7 +38,7 @@ Thence would differentiate—
 
 B. *Offerings* to the Gods. These would include burnt-offerings, fruits
 and libations, especially first fruits, and latterly incense, <span
-id="fr_1061"></span>[1](#fn_1061) corn, and wine; and with them might
+id="fr_1061"></span>[1](#fn_1061.md) corn, and wine; and with them might
 correlate
 
 <div style="margin-left: 32px">
@@ -52,7 +52,7 @@ eaten (*a*) along with the God as thank-offering or as food for the
 slain dead, or (*b*) as propitiatory or "sin" offerings, or (*c*) as
 vegetation-charms and life-charms, or else (*d*) buried in morsels as
 vegetation-charms, or (*e*) as sanctifying foundations of houses or
-villages. <span id="fr_1062"></span>[2](#fn_1062)
+villages. <span id="fr_1062"></span>[2](#fn_1062.md)
 
 </div>
 
@@ -88,7 +88,7 @@ made difficult, there is found (2)
 <span id="page_211">p. 211</span>
 
 <span id="img_21100"></span> <span align="CENTER"> [![](tn/21100.jpg)  
-Click to enlarge](img/21100.jpg)</span>
+Click to enlarge](img/21100.jpg.md)</span>
 
 <span id="page_212">p. 212</span>
 
@@ -131,13 +131,13 @@ millions. Almost every land on this globe has during whole ages drunk
 their annually shed blood. According to one calculation, made in the
 last century, the annual death-roll from human sacrifice and female
 infanticide in one section of British India alone was fifteen
-hundred. <span id="fr_1063"></span>[1](#fn_1063) Taking the sacrifices
+hundred. <span id="fr_1063"></span>[1](#fn_1063.md) Taking the sacrifices
 at only a fifteenth of the total; noting further the calculation of Sir
 George Grey, which gives four millions of victims for New Zealand alone
-in 2,000 years; <span id="fr_1064"></span>[2](#fn_1064) taking into
+in 2,000 years; <span id="fr_1064"></span>[2](#fn_1064.md) taking into
 account the known holocausts of modern Africa and Polynesia, <span
-id="fr_1065"></span>[3](#fn_1065) and pre-Christian Mexico, <span
-id="fr_1066"></span>[4](#fn_1066) and the universal practice of
+id="fr_1065"></span>[3](#fn_1065.md) and pre-Christian Mexico, <span
+id="fr_1066"></span>[4](#fn_1066.md) and the universal practice of
 pre-Christian Europe, we are
 
 <span id="page_213">p. 213</span>
@@ -149,7 +149,7 @@ Thus has the human race paid in death for its faith in immortality.
 "Laugh as much as you please," wrote Dobrizhoffer a century ago, "at the
 sepulchral rites of the Abipones; you cannot deny them to be proof of
 their believing in the immortality of the soul." <span
-id="fr_1067"></span>[1](#fn_1067) Even so. And for rites at which
+id="fr_1067"></span>[1](#fn_1067.md) Even so. And for rites at which
 madness itself could not laugh, we have the same explanation. Of these
 miserable victims of insane religion, the majority were "innocent" even
 by the code that sacrificed them; and of the rest, in comparison with
@@ -168,18 +168,18 @@ past. In a world which thus still distributes its sympathies, a rational
 judgment on the historic evolution is not to be looked for save among
 the few. Delusion as to the course of religious history must long follow
 in the wake of the delusion which made the history possible. <span
-id="fr_1068"></span>[2](#fn_1068)
+id="fr_1068"></span>[2](#fn_1068.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1059"></span>[209:2](pch45.htm#fr_1059) As to the vogue of
+<span id="fn_1059"></span>[209:2](pch45.htm#fr_1059.md) As to the vogue of
 these, see Letourneau, *Sociology*, Eng. tr. pp. 226, 231, 232, 234-5,
 237, 240, 242-4, 246, 291-3. Cp. Grant Allen, *Evol. of the Idea of
 God*, pp. 248, 282, 319.
 
-<span id="fn_1060"></span>[209:3](pch45.htm#fr_1060) *Principles of
+<span id="fn_1060"></span>[209:3](pch45.htm#fr_1060.md) *Principles of
 Sociology*, i, § 141. See also Dr. Jevons, *Introd. to the Hist. of
 Relig.*, pp. 161, 199-200; and Mr. Lang, *Myth, Rit., and Relig.*, 2nd
 ed. i, 257, 263. Both Dr. Jevons and Mr. Lang, however, seem to
@@ -215,7 +215,7 @@ in a period of 2,000 years at least four millions of human beings had
 been sacrificed in the islands where the usage Prevailed (*Polynesian
 Mythology*, pref. end).
 
-<span id="fn_1061"></span>[210:1](pch45.htm#fr_1061) This is found in
+<span id="fn_1061"></span>[210:1](pch45.htm#fr_1061.md) This is found in
 the East among Turanians, Dravidians, and Semites; in the West among the
 races reached by early Semitic culture; and in America in the form of
 tobacco. (Lafitau, *Mœurs des sauvages ameriquains*, 1724, ii, 133-4;
@@ -224,18 +224,18 @@ Brine, *Travels amongst American Indians*, 1894, p. 170; Waitz,
 seems to have been the same as that of the burnt-offering—that the God
 was reached by odours.
 
-<span id="fn_1062"></span>[210:2](pch45.htm#fr_1062) Presumably by way
+<span id="fn_1062"></span>[210:2](pch45.htm#fr_1062.md) Presumably by way
 of feeding, and so propitiating, the earth deities. But cp. Grant Allen,
 *Evol. of Idea of God*, p. 249, for another theory—that the victim was
 to be a protecting God.
 
-<span id="fn_1063"></span>[212:1](pch45.htm#fr_1063) *Calcutta Review*,
+<span id="fn_1063"></span>[212:1](pch45.htm#fr_1063.md) *Calcutta Review*,
 vol. x, Dec. 1848, p. 340.
 
-<span id="fn_1064"></span>[212:2](pch45.htm#fr_1064) Above, [p.
-209](pch44.htm#page_209), *note*.
+<span id="fn_1064"></span>[212:2](pch45.htm#fr_1064.md) Above, [p.
+209](pch44.htm#page_209.md), *note*.
 
-<span id="fn_1065"></span>[212:3](pch45.htm#fr_1065) Leonard, *The Lower
+<span id="fn_1065"></span>[212:3](pch45.htm#fr_1065.md) Leonard, *The Lower
 Niger and its Tribes*, 1906, pp. 160, 400; Partridge, *Cross River
 Natives*, 1905, pp. 56. 59, 62; H. Ling Roth, *Great Benin*, 1903, pp.
 63, 69, 72, 77, etc.; Cunningham, *Uganda and its Peoples*, 1905, p.
@@ -245,13 +245,13 @@ Ewe-Speaking Peoples*, 1890, pp. 120, 124, 1.25, 126, 128; W. Ellis,
 *Polynesian Researches*, ed. 1831, i, 104, 348; iv, 362-3; Gill, *Myths
 and Songs of the South Pacific*, 1876, pp. 14, 15, 24, 37, 289-90, 297.
 
-<span id="fn_1066"></span>[212:4](pch45.htm#fr_1066) Below, Part iv, §
+<span id="fn_1066"></span>[212:4](pch45.htm#fr_1066.md) Below, Part iv, §
 5.
 
-<span id="fn_1067"></span>[213:1](pch45.htm#fr_1067) *Account of the
+<span id="fn_1067"></span>[213:1](pch45.htm#fr_1067.md) *Account of the
 Abipones*, Eng. tr., ii, 269.
 
-<span id="fn_1068"></span>[213:2](pch45.htm#fr_1068) How slow is the
+<span id="fn_1068"></span>[213:2](pch45.htm#fr_1068.md) How slow is the
 evolution may be gathered from the testimony of a modern anthropologist:
 "To this day, as I can testify from personal observation, the Samaritans
 on Mount Gerizim (where alone in all the world the passover-blood is now
@@ -269,4 +269,4 @@ was the slain child or man for whom the lamb was substituted.
 
 ------------------------------------------------------------------------
 
-[Next: § 1. Primary and Secondary Ideas](pch46)
+[Next: § 1. Primary and Secondary Ideas](pch46.md)

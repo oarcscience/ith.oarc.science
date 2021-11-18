@@ -1,25 +1,25 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth017)  [Next](toth019) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth017)  [Next](toth019.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 15. THE KOKÓSHORI KATCINA AND THE SHONGÓPAVI MAIDEN. <span id="fr_52"></span>[1](#fn_52)
+## 15. THE KOKÓSHORI KATCINA AND THE SHONGÓPAVI MAIDEN. <span id="fr_52"></span>[1](#fn_52.md)
 
 In Shongópavi they were living, and over there at Kíshiwu <span
-id="fr_53"></span>[2](#fn_53) the Katcinas were living, and the
+id="fr_53"></span>[2](#fn_53.md) the Katcinas were living, and the
 Kokóshori was going about at the Hopi village. Bui he was stealing the
 Hopi children, and (one time) a Shongópavi woman went to get water and
 her child followed her, crying. The mother threw a stone back because
@@ -31,7 +31,7 @@ girl.
 
 Now the child sat upon the back of the Katcina and the latter took it
 along. They now arrived at the village of those who lived at
-Kíshiwu. <span id="fr_54"></span>[2](#fn_53) There were a great many
+Kíshiwu. <span id="fr_54"></span>[2](#fn_53.md) There were a great many
 Katcinas. They saw somebody coming carrying a little girl. Now, those
 Katcinas were glad. "You, whom do you bring there?" they said. Now the
 Hahái Wuhti was very happy. "Ishuní!" she said. Now he put it down.
@@ -127,12 +127,12 @@ Kishíwu, and there she is now living.
 
 ### Footnotes
 
-<span id="fn_52"></span>[71:1](toth018.htm#fr_52) Told by Lomávântiwa
+<span id="fn_52"></span>[71:1](toth018.htm#fr_52.md) Told by Lomávântiwa
 (Shupaúlavi).
 
-<span id="fn_53"></span>[71:2](toth018.htm#fr_54) This name is spoken
+<span id="fn_53"></span>[71:2](toth018.htm#fr_54.md) This name is spoken
 differently in different villages: Kí'shiwuu, Kíshiwu, and Kishíwu.
 
 ------------------------------------------------------------------------
 
-[Next: 16. How Ball-head (Tatciqtö) Wedded An Oraíbi Maiden](toth019)
+[Next: 16. How Ball-head (Tatciqtö) Wedded An Oraíbi Maiden](toth019.md)

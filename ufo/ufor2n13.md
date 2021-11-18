@@ -605,4 +605,4 @@ in which the story appeared.
 
 ------------------------------------------------------------------------
 
-[Next: USS Tiru UFO Sighting](usstiru)
+[Next: USS Tiru UFO Sighting](usstiru.md)

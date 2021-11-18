@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog09)  [Next](kog11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog09)  [Next](kog11.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ realms and, if they haven't died since, they are reigning still.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Kojata](kog11)
+[Next: 8. Kojata](kog11.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst02)  [Next](mst04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst02)  [Next](mst04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -424,7 +424,7 @@ Across the countryside and in the cities rises the pallor of marble
 ruins and monuments. Triumphal arches, crumbling amphitheaters, delicate
 fountains, ghost-peopled by the shades of their builders. In such
 memory-haunted spots, the whispering speech of the past reaches only
-ears that are [attuned](errata.htm#0) to its mysterious language.
+ears that are [attuned](errata.htm#0.md) to its mysterious language.
 Michel, sensitive even in childhood to the enigma of past and future
 held in the eternal now, felt the spell of these remnants of a mighty
 past. He grew up in the midst of two worlds, the living present of his
@@ -633,4 +633,4 @@ his attitude toward his own mysterious power.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two: The Education of a Genius](mst04)
+[Next: Chapter Two: The Education of a Genius](mst04.md)

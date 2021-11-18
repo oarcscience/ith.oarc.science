@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo45)  [Next](sdo47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo45)  [Next](sdo47.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ author his *Hunka*, and ever afterwards addressed him as such.
 
 ------------------------------------------------------------------------
 
-[Next: The Buffalo Ceremony](sdo47)
+[Next: The Buffalo Ceremony](sdo47.md)

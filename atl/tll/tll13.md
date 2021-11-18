@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll12)  [Next](tll14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll12)  [Next](tll14.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ mindless."
 
 ------------------------------------------------------------------------
 
-[Next: Origin of the Pithecoid and the Anthropoid Apes](tll14)
+[Next: Origin of the Pithecoid and the Anthropoid Apes](tll14.md)

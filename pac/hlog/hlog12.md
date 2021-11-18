@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog11)  [Next](hlog13) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog11)  [Next](hlog13.md) 
 
 ------------------------------------------------------------------------
 
@@ -228,4 +228,4 @@ who sent mighty storms and wrought great destruction.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Shark-man Of Waipio Valley](hlog13)
+[Next: VIII. The Shark-man Of Waipio Valley](hlog13.md)

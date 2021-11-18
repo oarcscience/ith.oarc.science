@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](eru05)  [Next](eru07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru05)  [Next](eru07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -168,7 +168,7 @@ pomegranate has seeds escape the fires of hell (as it is written
 \[Solomon's Song vi\]: "Like the half of the pomegranate is the upper
 part of thy cheek," etc. And Resh Lakish said: Do not read "the upper
 part of thy cheek," but read "thy vain, wicked men" <span
-id="fr_15"></span>[1](#fn_15)). Nay; even Resh Lakish admits that the
+id="fr_15"></span>[1](#fn_15).md). Nay; even Resh Lakish admits that the
 sinners descend into hell; but our father Abraham, seeing that they are
 circumcised, rescues them.
 
@@ -188,7 +188,7 @@ the gate of Gehenna.
 
 R. Jehoshua, ben Levi said, that hell has seven names, viz.: Sheol,
 Abadon, Baar Shachath, Bor Sheon, Tit Hayavon, Tzalmoveth, and Eretz
-Hathachthith. <span id="fr_16"></span>[1](#fn_16)
+Hathachthith. <span id="fr_16"></span>[1](#fn_16.md)
 
 Where is the gate of Paradise? Said Resh Lakish: "If the gate of
 Paradise is in the land of Israel it is in the city of Beth Sheon. If it
@@ -452,7 +452,7 @@ the grossly wicked, but if you mean to say, that for the grossly wicked
 there is no more hope, therefore it is written \[Solomon's Song vii.
 14\]:
 
-The mandrakes <span id="fr_17"></span>[1](#fn_17) give forth their
+The mandrakes <span id="fr_17"></span>[1](#fn_17.md) give forth their
 smell."
 
 Rabha preached: "By the passage 'The mandrakes give forth their smell'
@@ -529,7 +529,7 @@ is robbery, rapine, false-swearing, and swearing in vain
 
 among them. Come into the field and we will show Thee many scholars who
 study the Law although they are in poor circumstances." "Let us spend
-the night in the villages." <span id="fr_18"></span>[1](#fn_18) This
+the night in the villages." <span id="fr_18"></span>[1](#fn_18.md) This
 means: Come with us and we will show Thee so many, to whom Thou hast
 shown so much mercy and still they deny Thee. "Let us go up early into
 the vineyards," refers to the synagogues and the houses of learning.
@@ -581,7 +581,7 @@ to their face, to destroy them. He will not delay, to him that hateth
 him he will repay him to his face." Said R. Jehoshua ben Levi: "Were it
 not for this passage, it would be impossible to make such an assertion;
 for this is like a mortal who would rid himself of a burden which had
-become too heavy to carry." <span id="fr_19"></span>[1](#fn_19) The last
+become too heavy to carry." <span id="fr_19"></span>[1](#fn_19.md) The last
 part of the passage implies, that while punishment is not delayed to the
 wicked, the reward to the strictly righteous is delayed. So said R. Aila
 and it is similar to the dictum of R. Jehoshua ben Levi: "It is written
@@ -636,7 +636,7 @@ thoroughfare; but the sages hold, that it is not necessary.
 
 GEMARA: Said R. Itz'hak bar Joseph in the name of R. Johanan: "There is
 no such a thing as public ground in Palestine. " <span
-id="fr_20"></span>[1](#fn_20) R. Dimi sitting in his college repeated
+id="fr_20"></span>[1](#fn_20.md) R. Dimi sitting in his college repeated
 this Halakha. Said Abayi to him: "What is the reason of this assertion?
 Shall I assume, that it is because the rocks of the mount Tyre surround
 Palestine on one side and a canal on another side? Does not the river
@@ -718,7 +718,7 @@ R. Jehudah: "It is written \[Exodus xxvii. 18\]: 'The length of the
 court shall be one hundred cubits and the breadth fifty-by fifty.' This
 means to say, that the fifty cubits of length exceeding the breadth
 should be apportioned to the breadth, so as to make the whole seventy
-cubits and four spans square." <span id="fr_21"></span>[1](#fn_21) What
+cubits and four spans square." <span id="fr_21"></span>[1](#fn_21.md) What
 is the correct interpretation of the passage? How can one hundred ells
 in length by fifty by fifty in breadth be understood? Said Abayi: "The
 passage implies that the tabernacle must be placed immediately beyond
@@ -807,7 +807,7 @@ applied to the wall, which with each successive breach of one ell
 assumed a different appearance. The answer was: Such explanations are
 superhuman (and can only be made by an angel). According to another
 version, the answer was: "This is a man (who has knowledge)." <span
-id="fr_22"></span>[1](#fn_22)
+id="fr_22"></span>[1](#fn_22.md)
 
 Said R. Kahana: "In a bleaching-ground (behind a house) things must not
 be carried except for a distance of four ells." Said R. Na'hman: "If a
@@ -868,7 +868,7 @@ which was erected on the estate of a deceased proselyte, then this
 question is identical with that of Jeremiah of Bira, which is decided in
 Tract Baba Bathra; and if it refers to the Sabbath-law, *i.e.*, if a
 partition was made on Sabbath, then the question has already been
-decided previously (page [47](#page_47)).
+decided previously (page [47](#page_47).md).
 
 Concerning a wood-shed of three saahs' capacity which was provided with
 a roof of only one saah capacity Rabha said: The atmosphere of the
@@ -936,41 +936,41 @@ must also bear in mind to resign his privilege of using his house.
 
 ### Footnotes
 
-<span id="fn_15"></span>[43:1](eru06.htm#fr_15) "The upper part of thy
+<span id="fn_15"></span>[43:1](eru06.htm#fr_15.md) "The upper part of thy
 cheek" is expressed in Hebrew by "Rakothech," and Resh Lakish reads
 instead "Rikothech," which signifies "thy vain or wicked men."
 
-<span id="fn_16"></span>[44:1](eru06.htm#fr_16) These names can be found
+<span id="fn_16"></span>[44:1](eru06.htm#fr_16.md) These names can be found
 in the following passages: Jonah ii. 3; Psalms lxxxviii. 12; ibid. xvi.
 10; ibid. xi. 2; ibid. cvii. 10; the last name is traditional and not
 mentioned in the Scriptures.
 
-<span id="fn_17"></span>[50:1](eru06.htm#fr_17) The Hebrew term used for
+<span id="fn_17"></span>[50:1](eru06.htm#fr_17.md) The Hebrew term used for
 baskets and for mandrakes in both passages is "Dudaim," hence the
 inference by analogy.
 
-<span id="fn_18"></span>[52:1](eru06.htm#fr_18) The Hebrew term for "in
+<span id="fn_18"></span>[52:1](eru06.htm#fr_18.md) The Hebrew term for "in
 the villages" is "bakphorim," and if read "bakophrim" through
 transposition of the vowel would signify: "Among the infidels."
 
-<span id="fn_19"></span>[53:1](eru06.htm#fr_19) This expression is
+<span id="fn_19"></span>[53:1](eru06.htm#fr_19.md) This expression is
 rendered in Hebrew by the term a literal translation for which cannot be
 found. The implied meaning of the term, however, is: When speaking of
 God, the assumption is made, that if He were a concrete body, this or
 that could be said of Him.
 
-<span id="fn_20"></span>[54:1](eru06.htm#fr_20) *Vide* Introduction to
+<span id="fn_20"></span>[54:1](eru06.htm#fr_20.md) *Vide* Introduction to
 Vol. I., p. xxviii, § iv.
 
-<span id="fn_21"></span>[56:1](eru06.htm#fr_21) These figures are
+<span id="fn_21"></span>[56:1](eru06.htm#fr_21.md) These figures are
 approximate and the correct figures depend upon whether the cubit
 measured 5 or 6 spans.
 
-<span id="fn_22"></span>[58:1](eru06.htm#fr_22) The Gemara has evidently
+<span id="fn_22"></span>[58:1](eru06.htm#fr_22.md) The Gemara has evidently
 omitted the names of the different sages who carried on the above
 argument.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III: Location of Erubin and Limits on Sabbath
-Travel.](eru07)
+Travel.](eru07.md)

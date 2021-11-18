@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc18)  [Next](scc20) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc18)  [Next](scc20.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ ch. Kokwiteit resembles the word for raven in other dialects.\]
 
 ------------------------------------------------------------------------
 
-[Next: 18.--Tachi Yokuts. The Owners Of The Sun.](scc20)
+[Next: 18.--Tachi Yokuts. The Owners Of The Sun.](scc20.md)

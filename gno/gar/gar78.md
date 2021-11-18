@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar77)  [Next](gar79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar77)  [Next](gar79.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_f"></span> <span align="CENTER"> [![Plate
 F](tn/pl_f.jpg)  
-Click to enlarge](img/pl_f.jpg)  
+Click to enlarge](img/pl_f.jpg.md)  
 Plate F  
 </span>
 
@@ -37,11 +37,11 @@ absolutely incapable of creating evil. Satan is himself an angel, like
 the others, and has his own place in the Court of Heaven; but he is
 deputed to test, by temptation, the strength of Man's virtue, since
 without a *struggle* there can be no crown. The Babylonian Rabbi,
-Philemon, <span id="fr_264"></span>[\*](#fn_262) having demonstrated
+Philemon, <span id="fr_264"></span>[\*](#fn_262.md) having demonstrated
 this grand truth to the satisfaction of his numerous school, was
 surprised the next day by a visit from this *Ange mal entendu*, in a
 bodily shape, who tendered him public thanks <span
-id="fr_265"></span>[†](#fn_263) for the pains he had taken to set his
+id="fr_265"></span>[†](#fn_263.md) for the pains he had taken to set his
 character in a true light. But, unfortunately, the Demiurgus had
 commenced his work by creating so vast a number of spirits, that the
 Sabbath-even came upon him before he had made bodies enough for half of
@@ -111,12 +111,12 @@ God of the Jews, rudely cut upon the four sides of a cube of steaschist.
 
 ### Footnotes
 
-<span id="fn_262"></span>[439:\*](gar78.htm#fr_264) Or "Polemo," as the
+<span id="fn_262"></span>[439:\*](gar78.htm#fr_264.md) Or "Polemo," as the
 Hebrew may equally well be read.
 
-<span id="fn_263"></span>[439:†](gar78.htm#fr_265) "Kissed his knees" is
+<span id="fn_263"></span>[439:†](gar78.htm#fr_265.md) "Kissed his knees" is
 the expression in the Talmud.
 
 ------------------------------------------------------------------------
 
-[Next: Plate G. Egyptian Types (continued)](gar79)
+[Next: Plate G. Egyptian Types (continued)](gar79.md)

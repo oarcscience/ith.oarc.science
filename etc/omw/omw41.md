@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw40)  [Next](omw42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw40)  [Next](omw42.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ other held his sacred books.
 
 ------------------------------------------------------------------------
 
-[Next: The Sibyl](omw42)
+[Next: The Sibyl](omw42.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat68)  [Next](jat70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat68)  [Next](jat70.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ where we and the Ute remained in separate camps.
 
 ------------------------------------------------------------------------
 
-[Next: 68. A Deer Hunt](jat70)
+[Next: 68. A Deer Hunt](jat70.md)

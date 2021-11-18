@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida18)  [Next](ida20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida18)  [Next](ida20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -111,7 +111,7 @@ peaks, silhouetting their severe lines against the azure sky.
 <span class="contnote">\[paragraph continues\]</span> From on high, a
 great sadness and gentleness poured down into the lonely enclosure, like
 a magic drink into a deep cup. . . ." <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 I turned the pages feverishly. My mind seemed to be clearing.
 
@@ -463,10 +463,10 @@ corridor by two white phantoms, so bound that I could not move a muscle.
 
 ### Footnotes
 
-<span id="fn_17"></span>[256:1](ida19.htm#fr_17) Gabrielle d’Annunzio:
+<span id="fn_17"></span>[256:1](ida19.htm#fr_17.md) Gabrielle d’Annunzio:
 *Les Vierges aux Rochers*. Cf. *The Revue des Deux Mondes* of October
 15, 1896; page 867.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. The Fire-Flies](ida20)
+[Next: Chapter XVIII. The Fire-Flies](ida20.md)

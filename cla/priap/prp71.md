@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp70)  [Next](prp72) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp70)  [Next](prp72.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ punished as such by the god.\]
 ------------------------------------------------------------------------
 
 [Next: 72. An thou pluck of this orchard fruit to my guarding
-committed](prp72)
+committed](prp72.md)

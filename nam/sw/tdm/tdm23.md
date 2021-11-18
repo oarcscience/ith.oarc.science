@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm22)  [Next](tdm24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm22)  [Next](tdm24.md) 
 
 ------------------------------------------------------------------------
 
@@ -692,4 +692,4 @@ sought, and now finds asleep in death.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](tdm24)
+[Next: Conclusion](tdm24.md)

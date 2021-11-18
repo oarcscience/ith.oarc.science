@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg11)  [Next](leg13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg11)  [Next](leg13.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 ### THE HISTORY OF ISIS AND OSIRIS.
 
 THE history of Isis and Osiris given on pp.
-[198](leg29.htm#page_198)-248 is taken from the famous treatise of
+[198](leg29.htm#page_198.md)-248 is taken from the famous treatise of
 Plutarch entitled *De Iside et Osiride*, and forms a fitting conclusion
 to this volume of Legends of the Gods. It contains all the essential
 facts given in Plutarch's work, and the only things omitted are his
@@ -147,4 +147,4 @@ of Isis and Osiris the work has considerable importance.
 
 ------------------------------------------------------------------------
 
-[Next: The History Of Creation--A.](leg13)
+[Next: The History Of Creation--A.](leg13.md)

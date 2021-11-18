@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca26)  [Next](fsca28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca26)  [Next](fsca28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -129,7 +129,7 @@ basilisk, crowned king of the vipers; the horned 'cerastes dire,' a few
 inches in length; the tiny aspic, fatal as lightning and as swift; and
 the fabled cockatrice, that a man might hold in his hand, first made the
 serpent legend terrible; their venom was afterwards transferred, and not
-[unnaturally](errata.htm#1), to the larger species. It was the small
+[unnaturally](errata.htm#1.md), to the larger species. It was the small
 minute worms, that carried in their fangs such rapid and ruthless death,
 which first struck fear into the minds of the ancients, and invested the
 snake with the mysterious and horrid attributes whereunto antiquity from
@@ -195,7 +195,7 @@ after the deluge of Deucalion,<span id="img_11400"></span>
 
 |                                                                          |
 |--------------------------------------------------------------------------|
-| ![Greek Shield, from painted vase in the British Museum.](img/11400.jpg) |
+| ![Greek Shield, from painted vase in the British Museum.](img/11400.jpg.md) |
 
 lived in the caves of Mount Parnassus, but was slain by Apollo, who
 founded the Pythian games in commemoration of his victory. This and many
@@ -216,7 +216,7 @@ newness of life to<span id="img_11401"></span>
 
 |                                             |
 |---------------------------------------------|
-| ![snake coiled on tau cross](img/11401.jpg) |
+| ![snake coiled on tau cross](img/11401.jpg.md) |
 
 those plague-stricken Israelites who were bitten by the fiery dragons
 and raised their eyes to this symbol (Numb. xxi. 8), as an emblem of
@@ -260,7 +260,7 @@ foot of it typifying the snake, is another of its modifications, and a
 very common Byzantine ornament. The ordinary northern crosses, so
 conspicuous for their interlaced ornaments and grotesque monsters,
 appear to be purely modifications of this idea." <span
-id="fr_7"></span>[\*](#fn_7)
+id="fr_7"></span>[\*](#fn_7.md)
 
 Boniface, the Anglo-Saxon missionary, in his letter to the Archbishop of
 Canterbury, inveighs against the luxuries of dress, and declares against
@@ -314,7 +314,7 @@ see).
 
 Menestrier says that the first Lords of Milan were called after their
 castle in Angleria, in Latin *anguis*, and that these are only the
-*armes parlantes* of their name. <span id="fr_8"></span>[\*](#fn_8) Be
+*armes parlantes* of their name. <span id="fr_8"></span>[\*](#fn_8.md) Be
 this as it may, "*Lo Squamoso Biscion*"
 
 <span id="page_118">p. 118</span>
@@ -346,7 +346,7 @@ The "*three coiled snakes*," which appear in<span id="img_11800"></span>
 
 |                                         |
 |-----------------------------------------|
-| ![Arms of Whitby Abbey.](img/11800.jpg) |
+| ![Arms of Whitby Abbey.](img/11800.jpg.md) |
 
 the arms of Whitby Abbey, Yorkshire, really represent fossil ammonites,
 which are very plentiful in the rocky promontories of that part of the
@@ -454,7 +454,7 @@ in blazon explain<span id="img_12100"></span>
 
 |                                                                 |
 |-----------------------------------------------------------------|
-| ![A Serpent, nowed, proper. Crest of Cavendish.](img/12100.jpg) |
+| ![A Serpent, nowed, proper. Crest of Cavendish.](img/12100.jpg.md) |
 
 themselves, as *erect*, *erect wavy*, &c.
 
@@ -480,7 +480,7 @@ id="img_12200"></span>
 
 |                                                  |
 |--------------------------------------------------|
-| ![Amphiptère, or flying Serpent.](img/12200.jpg) |
+| ![Amphiptère, or flying Serpent.](img/12200.jpg.md) |
 
 *or, each enveloped or enwrapped about the neck with a snake vert*.
 Entwisted and entwined are sometimes used in the same sense.
@@ -497,13 +497,13 @@ being more generally considered.
 
 ### Footnotes
 
-<span id="fn_7"></span>[116:\*](fsca27.htm#fr_7) "Analysis of Ornament,"
+<span id="fn_7"></span>[116:\*](fsca27.htm#fr_7.md) "Analysis of Ornament,"
 by Ralph N. Wornum.
 
-<span id="fn_8"></span>[117:\*](fsca27.htm#fr_8) That is, *Visconti* is
+<span id="fn_8"></span>[117:\*](fsca27.htm#fr_8.md) That is, *Visconti* is
 only a variation of *Biscia* equivalent to *Anguis*, Italianised to
 *Angleria*.
 
 ------------------------------------------------------------------------
 
-[Next: The Scorpion](fsca28)
+[Next: The Scorpion](fsca28.md)

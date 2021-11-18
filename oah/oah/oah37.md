@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah36)  [Next](oah38) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah36)  [Next](oah38.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ harvest of angels born of the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII](oah38)
+[Next: Chapter XXII](oah38.md)

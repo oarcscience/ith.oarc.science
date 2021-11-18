@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](inca00)  [Next](inca02) 
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](inca00)  [Next](inca02.md) 
 
 ------------------------------------------------------------------------
 
@@ -761,4 +761,4 @@ was called Cuzco.
 
 ------------------------------------------------------------------------
 
-[Next: Death Of Pachacuti Inca Yupanqui](inca02)
+[Next: Death Of Pachacuti Inca Yupanqui](inca02.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi015)  [Next](mtsi017) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi015)  [Next](mtsi017.md) 
 
 ------------------------------------------------------------------------
 
-### 14. THE WATER PANTHER (LEOPARD) <span id="fr_5"></span>[1](#fn_5)
+### 14. THE WATER PANTHER (LEOPARD) <span id="fr_5"></span>[1](#fn_5.md)
 
 A girl whose father and mother were dead lived at a certain place with
 some relatives. Every day she went for water to a spring, the trail to
@@ -41,11 +41,11 @@ others is unknown.
 
 ### Footnotes
 
-<span id="fn_5"></span>[21:1](mtsi016.htm#fr_5) See versions in my paper
+<span id="fn_5"></span>[21:1](mtsi016.htm#fr_5.md) See versions in my paper
 on Social Organization and Social Usages of the Indians of the Creek
 Confederacy (Forty-second Ann. Rept. Bur. Amer. Ethn., pp. 69-72). The
 water panther was identified by my informant with the leopard.
 
 ------------------------------------------------------------------------
 
-[Next: 15. How the Alligator's Nose Was Broken](mtsi017)
+[Next: 15. How the Alligator's Nose Was Broken](mtsi017.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb13)  [Next](pifb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb13)  [Next](pifb15.md) 
 
 </div>
 
@@ -792,6 +792,6 @@ There were the roses on the leads; it was summer, warm, glorious summer.
 
 ------------------------------------------------------------------------
 
-[Next: The Fir-tree](pifb15)
+[Next: The Fir-tree](pifb15.md)
 
 </div>

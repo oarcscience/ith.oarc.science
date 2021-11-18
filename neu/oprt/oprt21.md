@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](oprt20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](oprt20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Old Peter's Russian Tales*, by Arthur Ransome, \[1916\], at Intangible
 Textual Heritage
 
@@ -103,7 +103,7 @@ in to hurt them.
 
 <span id="img_27200"></span> <span align="CENTER"> [![It caught up the
 princesses and carried them up into the air.](tn/27200.jpg)  
-Click to enlarge](img/27200.jpg)  
+Click to enlarge](img/27200.jpg.md)  
 It caught up the princesses and carried them up into the air.  
 </span>
 
@@ -276,7 +276,7 @@ He had scarcely lain down before there were a knocking and a rattling
 <span id="page_279">p. 279</span>
 
 and a stumbling, and the door opened, and in walked a little man a yard
-high, with a beard seven yards long <span id="fr_4"></span>[4](#fn_3)
+high, with a beard seven yards long <span id="fr_4"></span>[4](#fn_3.md)
 flowing out behind him over both his shoulders. He looked round angrily,
 and saw Evening, who yawned, and sat up on the bench, and began
 chuckling at the sight of him. The little man screamed out,--
@@ -1763,7 +1763,7 @@ put them to bed without waking them.
 
 ### Footnotes
 
-<span id="fn_3"></span>[279:4](oprt21.htm#fr_4) The little man was
+<span id="fn_3"></span>[279:4](oprt21.htm#fr_4.md) The little man was
 really one arshin high, and his beard was seven arshins long. An arshin
 is 0.77 of a yard, so any one who knows decimals can tell exactly how
 high the little man was and the precise length of his beard.

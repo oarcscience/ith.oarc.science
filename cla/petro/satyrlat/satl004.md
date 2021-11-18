@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat02.htm#IV)  [Previous](satl003) 
-[Next](satl005) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat02.htm#IV)  [Previous](satl003.md) 
+[Next](satl005.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ sentio, et ipse carmine effingam:
 
 ------------------------------------------------------------------------
 
-[Next: V](satl005)
+[Next: V](satl005.md)

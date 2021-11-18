@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar025) [Next](gbar027)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar025) [Next](gbar027.md)
 
 ------------------------------------------------------------------------
 
@@ -128,7 +128,7 @@ kicks to Abraham, and chased him from the house.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar027)
+[Next](gbar027.md)
 
  
 

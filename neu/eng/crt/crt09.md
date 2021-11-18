@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt08)  [Next](crt10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt08)  [Next](crt10.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_04400"></span>
 
 [![Sir Launcelot doeth battle with Sir Turquine.](tn/04400.jpg)  
-Click to enlarge](img/04400.jpg)  
+Click to enlarge](img/04400.jpg.md)  
 Sir Launcelot doeth battle with Sir Turquine.  
 
 <span id="page_45">p. 45</span>
@@ -395,7 +395,7 @@ comfort them
 and to put them at their ease. And if there is any treasure in that
 castle, I bid you give it unto those knights who are prisoners there,
 for to compensate them for the pains they have endured.
-[Moreover](errata.htm#0), I pray you tell Sir Ector and Sir Lionel not
+[Moreover](errata.htm#0.md), I pray you tell Sir Ector and Sir Lionel not
 to follow after me, but to return to court and wait for me there, for I
 have two adventures to undertake and I must essay them alone."
 
@@ -485,4 +485,4 @@ which he had promised the young damsel to undertake.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fifth](crt10)
+[Next: Chapter Fifth](crt10.md)

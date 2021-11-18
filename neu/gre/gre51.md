@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre50)  [Next](gre52) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre50)  [Next](gre52.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ happed to tell of till past midsummer.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLVII: Grettir comes out to Iceland again](gre52)
+[Next: Chapter XLVII: Grettir comes out to Iceland again](gre52.md)

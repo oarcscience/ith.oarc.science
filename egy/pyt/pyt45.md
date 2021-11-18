@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt44)  [Next](pyt46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt44)  [Next](pyt46.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ Osiris,
 ------------------------------------------------------------------------
 
 [Next: 43. The Resurrection, Ascension, and Reception of the Deceased
-King in Heaven, Utterance 606](pyt46)
+King in Heaven, Utterance 606](pyt46.md)

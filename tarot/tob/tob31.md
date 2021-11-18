@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob30) 
-[Next](tob32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob30.md) 
+[Next](tob32.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob30) 
 
 <span id="img_wiar15"></span>
 
-![THE DEVIL.](img/wiar15.jpg)  
+![THE DEVIL.](img/wiar15.jpg.md)  
 THE DEVIL.
 
    <span id="img_msar15"></span>
 
-![THE DEVIL.](img/msar15.jpg)  
+![THE DEVIL.](img/msar15.jpg.md)  
 THE DEVIL.
 
 15\. ס
@@ -144,4 +144,4 @@ The Devil.
 
 ------------------------------------------------------------------------
 
-[Next: 16. The Lightning-Struck Tower](tob32)
+[Next: 16. The Lightning-Struck Tower](tob32.md)

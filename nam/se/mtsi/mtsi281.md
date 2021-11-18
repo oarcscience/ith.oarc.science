@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi280)  [Next](mtsi282) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi280)  [Next](mtsi282.md) 
 
 ------------------------------------------------------------------------
 
-### 16. ADVENTURE WITH A TIE-SNAKE <span id="fr_81"></span>[1](#fn_80) (26)
+### 16. ADVENTURE WITH A TIE-SNAKE <span id="fr_81"></span>[1](#fn_80) (26.md)
 
 A man out hunting came to a river and thought to himself, "I will go in
 swimming." He did so and swam about for some time in the shallow water.
@@ -37,9 +37,9 @@ any more "because he was too old."
 
 ### Footnotes
 
-<span id="fn_80"></span>[245:1](mtsi281.htm#fr_81) Told to Watt Sam by a
+<span id="fn_80"></span>[245:1](mtsi281.htm#fr_81.md) Told to Watt Sam by a
 Creek named Shom'psi.
 
 ------------------------------------------------------------------------
 
-[Next: 17. The Ukteni](mtsi282)
+[Next: 17. The Ukteni](mtsi282.md)

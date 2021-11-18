@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl22)  [Next](hhl24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl22)  [Next](hhl24.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ book to be
 <span id="img_18400"></span>
 
 [![FIRST LEAFLET PRINTED, 1822](tn/18400.jpg)  
-Click to enlarge](img/18400.jpg)  
+Click to enlarge](img/18400.jpg.md)  
 FIRST LEAFLET PRINTED, 1822  
 
  
@@ -133,7 +133,7 @@ of
 <span id="img_18600"></span>
 
 [![TITLE PAGE OF FIRST HYMN BOOK, 1823](tn/18600.jpg)  
-Click to enlarge](img/18600.jpg)  
+Click to enlarge](img/18600.jpg.md)  
 TITLE PAGE OF FIRST HYMN BOOK, 1823  
 
  
@@ -193,7 +193,7 @@ prepared before the complete Bible was in print.
 <span id="img_18800"></span>
 
 [![FIRST BIBLE PRINTING, 1827&lt;br&gt; GOSPEL OF LUKE](tn/18800.jpg)  
-Click to enlarge](img/18800.jpg)  
+Click to enlarge](img/18800.jpg.md)  
 FIRST BIBLE PRINTING, 1827  
 GOSPEL OF LUKE  
 
@@ -201,4 +201,4 @@ GOSPEL OF LUKE
 
 ------------------------------------------------------------------------
 
-[Next: XX. The First Constitution](hhl24)
+[Next: XX. The First Constitution](hhl24.md)

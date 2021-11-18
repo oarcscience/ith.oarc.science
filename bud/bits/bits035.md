@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits034) [Next](bits036)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits034) [Next](bits036.md)
 
 ------------------------------------------------------------------------
 
@@ -315,7 +315,7 @@ discussion of the proposition "On attachment depends existence."
 
 ------------------------------------------------------------------------
 
-[Next: § 36. Birth etc.](bits036)
+[Next: § 36. Birth etc.](bits036.md)
 
  
 

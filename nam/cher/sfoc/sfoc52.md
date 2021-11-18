@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc51)  [Next](sfoc53) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc51)  [Next](sfoc53.md) 
 
 ------------------------------------------------------------------------
 
@@ -173,4 +173,4 @@ their purpose, *and grant our petition instantly*."
 
 ------------------------------------------------------------------------
 
-[Next: To Destroy Life](sfoc53)
+[Next: To Destroy Life](sfoc53.md)

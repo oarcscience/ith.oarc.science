@@ -1,25 +1,25 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth013)  [Next](toth015) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth013)  [Next](toth015.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 11. THE ORIGIN OF SOME MISHÓNGNOVI CLANS. <span id="fr_36"></span>[1](#fn_36)
+## 11. THE ORIGIN OF SOME MISHÓNGNOVI CLANS. <span id="fr_36"></span>[1](#fn_36.md)
 
 The Bátki clan and the Sand clan come from Palátkwapi. When traveling,
-the Sand clan would spread sand <span id="fr_37"></span>[2](#fn_37) on
+the Sand clan would spread sand <span id="fr_37"></span>[2](#fn_37.md) on
 the ground and plant corn. The Bátki clan would cause it to thunder and
 rain (by singing), the crop would grow in a day and they would have
 something to eat. At Homólovi (Winslow) they lived a long time. They
@@ -73,13 +73,13 @@ with them.
 
 ### Footnotes
 
-<span id="fn_36"></span>[47:1](toth014.htm#fr_36) Told by Sik'ánakpu
+<span id="fn_36"></span>[47:1](toth014.htm#fr_36.md) Told by Sik'ánakpu
 (Mishóngnovi).
 
-<span id="fn_37"></span>[47:2](toth014.htm#fr_37) He says the lizards
+<span id="fn_37"></span>[47:2](toth014.htm#fr_37.md) He says the lizards
 and snakes would come into the sand, and hence these names are also
 applied to the Sand clan.
 
 ------------------------------------------------------------------------
 
-[Next: 12. The Destruction of Palátkwapi](toth015)
+[Next: 12. The Destruction of Palátkwapi](toth015.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Next](trt01) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Next](trt01.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Contents](trt01)
+[Next: Contents](trt01.md)

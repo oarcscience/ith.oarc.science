@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index)  [Index](index)  [Previous](sadh08)  [Next](sadh10) 
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index)  [Index](index)  [Previous](sadh08)  [Next](sadh10.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,4 +190,4 @@ harp-string that thrills at the touch of the master.
 
 ------------------------------------------------------------------------
 
-[Next: VIII: The Realisation of the Infinite](sadh10)
+[Next: VIII: The Realisation of the Infinite](sadh10.md)

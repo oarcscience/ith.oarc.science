@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe192)  [Next](prwe194) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe192)  [Next](prwe194.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ sound as a "warning," pined away and died within a few weeks.
 
 ------------------------------------------------------------------------
 
-[Next: The Ghost on Horseback](prwe194)
+[Next: The Ghost on Horseback](prwe194.md)

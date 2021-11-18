@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](uljc10)  [Next](uljc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](uljc10)  [Next](uljc12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002TX7KEA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002TX7KEA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 The Unknown Life of Jesus Christ, by Nicolas Notovitch \[1890\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 ### VI.
 
 1\. The white priests and the warriors, <span
-id="fr_1"></span>[\*](#fn_1) who had learned of Issa's discourse to the
+id="fr_1"></span>[\*](#fn_1.md) who had learned of Issa's discourse to the
 Sudras, resolved upon his death, and sent their servants to find the
 young teacher and slay him.
 
@@ -102,13 +102,13 @@ knowledge of the truth."
 
 ### Footnotes
 
-<span id="fn_1"></span>[173:\*](uljc11.htm#fr_1) Brahmins and
+<span id="fn_1"></span>[173:\*](uljc11.htm#fr_1.md) Brahmins and
 Kshatriyas.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: VII](uljc12)
+[Next: VII](uljc12.md)
 
 </div>

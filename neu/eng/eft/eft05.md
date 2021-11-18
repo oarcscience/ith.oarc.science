@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft04)  [Next](eft06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft04)  [Next](eft06.md) 
 
 ------------------------------------------------------------------------
 
 # The Old Woman and Her Pig
 
 <span id="img_005"></span> [![](tn/005.jpg)  
-Click to enlarge](img/005.jpg)
+Click to enlarge](img/005.jpg.md)
 
 AN old woman was sweeping her house, and she found a little crooked
 sixpence. 'What,' said she, 'shall I do with this little sixpence? I
@@ -22,7 +22,7 @@ dog! bite pig; piggy won't go over the stile; and I shan't get home
 tonight.' But the dog wouldn't.
 
 <span id="img_006"></span> [![](tn/006.jpg)  
-Click to enlarge](img/006.jpg)
+Click to enlarge](img/006.jpg.md)
 
 She went a little further, and she met a stick. So she said: 'Stick!
 stick! beat dog! dog won't bite pig; piggy won't get over the stile; and
@@ -43,7 +43,7 @@ beat dog; dog won't bite pig; piggy won't get over the stile; and I
 shan't get home tonight.' But the ox wouldn't.
 
 <span id="img_011"></span> [![](tn/011.jpg)  
-Click to enlarge](img/011.jpg)
+Click to enlarge](img/011.jpg.md)
 
 She went a little further and she met a butcher. So she said: 'Butcher!
 butcher! kill ox; ox won't drink water; water won't quench fire; fire
@@ -88,4 +88,4 @@ that night.
 
 ------------------------------------------------------------------------
 
-[Next: How Jack Went to Seek his Fortune](eft06)
+[Next: How Jack Went to Seek his Fortune](eft06.md)

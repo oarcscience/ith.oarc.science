@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](zar01)  [Next](zar03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](zar01)  [Next](zar03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -49,7 +49,7 @@ a Jew must not interfere with the idols, or because "Thou shalt not put
 a stone for the blind"? The prohibition to do business with them refers
 only to a thing which can be kept in good order until the festival day.
 It is advisable for one to always arrange the praises of the
-[Omnipotent](errata.htm#53) first, and thereafter to recite the daily
+[Omnipotent](errata.htm#53.md) first, and thereafter to recite the daily
 eighteen benedictions. The following are the festivals of the heathens:
 Kalends, Saturnalia, Kratsin, etc. Adam the first, on the first day of
 his creation, when he saw the sun set, cried: "Woe is to me, the world
@@ -62,11 +62,11 @@ promise to Israel, and thereafter they failed. The twenty-six years are
 not counted. The world will continue for six thousand years, the first
 two thousand of which were a chaos (Tahu), etc. It happened with
 Antoninus (the Caesar of Rome), who said to Rabbi, etc. (See the whole
-legend, pp. [16](zar03.htm#page_16)-18). Unklus b. Klenimus embraced
+legend, pp. [16](zar03.htm#page_16)-18.md). Unklus b. Klenimus embraced
 Judaism, and the Caesar sent militia to take him, etc. (See the legend,
-pp. [18](zar03.htm#page_18)-19). There was still another festival in
+pp. [18](zar03.htm#page_18)-19.md). There was still another festival in
 Rome which occurs once in seventy years, on which they would make a well
-man ride on a lame man, etc. [1](zar03.htm#page_1)-21
+man ride on a lame man, etc. [1](zar03.htm#page_1.md)-21
 
 MISHNA *IV*. In a city where the idol is placed, interfering is
 forbidden inside, but not outside. If, during an idol festival in the
@@ -78,28 +78,28 @@ small cattle to heathens it is lawful to do so, etc. One must not sell
 to them bears, lions, and all such things, by which the people can be
 injured, etc. I walked in the upper market of Ciporas, and I met one of
 the minim, named Jacob, of the village of Sachania. So taught Josa B.
-Southyra, etc. (See foot-note, [p. 27](zar03.htm#page_27).) The legend
+Southyra, etc. (See foot-note, [p. 27](zar03.htm#page_27)..md) The legend
 of Eliazer ben Durdaya (28). The leech hath two daughters (crying),
 "Give, give," *i.e.* minunism--and the government, which are never
 satisfied, etc. Raba sold an ass to an Israelite who was suspected of
 selling it to a heathen, etc. He who occupies himself with the Torah,
 but does not observe bestowing of favors, is similar to him who denies
 God. The Legend of Eliezer b. Sarta and Chanina b. Tradion when captured
-by government, [p. 29](zar03.htm#page_29), 30. How Chanina was burned
+by government, [p. 29](zar03.htm#page_29.md), 30. How Chanina was burned
 together with the holy scrolls, and what became of his wife and
-daughter, [p. 31](zar03.htm#page_31), 32. The redeeming of latter by R.
-Mair (Baal Hanes), [p. 33](zar03.htm#page_33). Happy is he who conquers
+daughter, [p. 31](zar03.htm#page_31.md), 32. The redeeming of latter by R.
+Mair (Baal Hanes), [p. 33](zar03.htm#page_33.md). Happy is he who conquers
 his evil spirit, as a heroic man, etc. It is advisable to divide one's
 years into three parts, one-third for the study of Scripture, the second
 Mishna, and the third Talmud, etc. R. Aqiba when he saw the wife of
 Tornus Rupers, he laughed and wept, etc. Houses must not be rented to
 the heathens in Palestine, etc. One must not rent his bath-house to a
-heathen, but how is it to a Samaritan? etc. [21](zar03.htm#page_21)-40
+heathen, but how is it to a Samaritan? etc. [21](zar03.htm#page_21.md)-40
 
 ### CHAPTER II.
 
 MISHNA *I*. Cattle must not be placed in the inns of the heathens. (See
-foot-note, [p. 41](zar04.htm#page_41).) "And the cows went straight
+foot-note, [p. 41](zar04.htm#page_41)..md) "And the cows went straight
 forward," etc. What does this expression mean? It reads (Jos. x. 13):
 "And the sun stood still, written in the book of Yasher." What is the
 book of Yasher? One must not stay alone even with two women. If an
@@ -112,7 +112,7 @@ personal property, etc. Ben Dama was bitten by a snake, Jacob come to
 heal him with the name of Jesus, but R. Ismael did not allow. With R.
 Johanan it is different, as he himself was an established physician.
 Medicines and other remedies for different sickness by different men and
-women, on pp. [50](zar04.htm#page_50)-53. The following things of the
+women, on pp. [50](zar04.htm#page_50.md)-53. The following things of the
 
 <span id="page_vii">p. vii</span>
 
@@ -132,7 +132,7 @@ Fish oil made by a heathen specialist is permissable. Why did the sages
 forbid the cheese of Anugiki? Sweet are to me the words of thy friends
 (the sages who are explaining the law), more than the essence of the
 Torah. Compress your lips, one upon the other, and hasten not to
-propound question, [41](zar04.htm#page_41)-65
+propound question, [41](zar04.htm#page_41.md)-65
 
 MISHNA *V*. The following are prohibited, but not from deriving benefit
 from them: Milk, etc. What is the reason for the prohibition of milk?
@@ -150,7 +150,7 @@ an Israelite, honey and honey-cake, etc. Fish entrails as well as
 fish-rye you may buy only of a specialist, etc. If the vender says, I
 have pickled the fish and know them to be clean, he is trusted. Praised
 be the Omnipotent, who puts this world in the hands of guardians!
-[65](zar04.htm#page_65)-81
+[65](zar04.htm#page_65.md)-81
 
 ### CHAPTER III.
 
@@ -177,7 +177,7 @@ not the things, brought upon them, etc. Wherever you find a high
 mountain, an elevated hill, a leafy tree, there is surely an idol there.
 A town or place bearing the name of an idol should be renamed. If stones
 absolved fortuitously from a mountain rock, that was worshipped, is
-their use allowed or not? [82](zar05.htm#page_82)-96
+their use allowed or not? [82](zar05.htm#page_82.md)-96
 
 MISHNA *VII*. TO *XV*. If a house situated, close by a worship-house of
 an idol crumbles down, its owner is prohibited from rebuilding it, etc.
@@ -187,13 +187,13 @@ under it. R. Simion said: "Any tree that is worshipped. It is not
 allowed to sit down in the shade of such a tree." Under such a tree is
 allowed to sow herbs in the winter, but not in summer, etc. To derive
 any benefit of wood obtained from an idol-grove is prohibited. How is
-the idol worship of a tree profaned, etc.? [96](zar05.htm#page_96)-103
+the idol worship of a tree profaned, etc.? [96](zar05.htm#page_96.md)-103
 
 ### CHAPTER IV.
 
 MISHNA *I*. TO *VI*. Three stones near one another and beside the
 Merkules are prohibited. The son of the saints treads on them, should we
-abstain [therefrom](errata.htm#54)? Who was this son, etc.? One is not
+abstain [therefrom](errata.htm#54.md)? Who was this son, etc.? One is not
 liable for slaughtering a blemished animal to an idol, etc. Money,
 garments, utensils found on the head of an idol are allowed, etc. The
 use of a garden or bathing place belonging to an idol is allowed when it
@@ -204,13 +204,13 @@ in the temple, where the Macabees heaped up the stones of the altar
 defiled by the Greeks. A heathen can profane his idol as well as that of
 his neighbor, etc. How is an idol to be profaned? If an Israelite erects
 a brick to worship it, but does not worship, and a heathen comes, and
-worships it, it is prohibited, etc. An idol [abandoned](errata.htm#55)
+worships it, it is prohibited, etc. An idol [abandoned](errata.htm#55.md)
 by its worshippers in time of peace is allowed. My respect for Rabh and
 Samuel is so great that I should readily fill my eyes with the ashes of
 their corpses; none the less, etc. An animal resting in the proximity of
 an idol becomes unallowable, etc. The animal obtained by the
 idol-worshippers in exchange for an idol is forbidden
-[103](zar05.htm#page_103)-119
+[103](zar05.htm#page_103.md)-119
 
 MISHNA *VII*. TO *IX*. If God is displeased with idol-worship, why does
 he not destroy the idols, etc.? If the heathens worshipped but things
@@ -237,7 +237,7 @@ has a lien on it, etc. If an Israelite, who has cleansed the wine of a
 heathen, left it on the latter's premises, etc. When and Israelite buys
 or rents a house in the courtyard of a heathen, etc. It once happened
 that Israelites bought of Sarsik, the viceroy, the grapes of a vineyard,
-etc. [119](zar06.htm#page_119)-134
+etc. [119](zar06.htm#page_119.md)-134
 
 ### CHAPTER V.
 
@@ -276,4 +276,4 @@ glowing in fire, etc. "A knife is cleansed even by grinding it."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](zar03)
+[Next: Chapter I](zar03.md)

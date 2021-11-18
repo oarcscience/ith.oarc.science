@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ami00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ami.txt.gz)
+[Contents](#contents)    [Start Reading](ami00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ami.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -40,24 +40,24 @@ Buddhism in India. Carus uses the story as a frame to discuss Buddhist
 concepts of God, non-violence and religious tolerance. Carus, the
 proprietor of Open Court Press, was a prolific author on Buddhism,
 Taoism, philosophy, and other topics, [many of which also appear at this
-site](../../cat/srchauth.htm?search_str=paul+carus).
+site](../../cat/srchauth.htm?search_str=paul+carus.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ami00)  
-[The Ordination](ami01)  
-[The Novice](ami02)  
-[The God Problem](ami03)  
-[Kevaddha's Story](ami04)  
-[The Confession](ami05)  
-[Gandhara](ami06)  
-[King Kanishka](ami07)  
-[Magadha](ami08)  
-[Açvaghosha](ami09)  
-[Amitâbha](ami10)  
-[The Conspiracy](ami11)  
-[The Man-Eating Tiger](ami12)  
-[The Buddhist Abbot and the Brahman](ami13)  
-[The Parable of the Elephant](ami14)  
-[The Double Wedding](ami15)  
-[Notes](ami16)  
+<span id="contents"></span> [Title Page](ami00.md)  
+[The Ordination](ami01.md)  
+[The Novice](ami02.md)  
+[The God Problem](ami03.md)  
+[Kevaddha's Story](ami04.md)  
+[The Confession](ami05.md)  
+[Gandhara](ami06.md)  
+[King Kanishka](ami07.md)  
+[Magadha](ami08.md)  
+[Açvaghosha](ami09.md)  
+[Amitâbha](ami10.md)  
+[The Conspiracy](ami11.md)  
+[The Man-Eating Tiger](ami12.md)  
+[The Buddhist Abbot and the Brahman](ami13.md)  
+[The Parable of the Elephant](ami14.md)  
+[The Double Wedding](ami15.md)  
+[Notes](ami16.md)  

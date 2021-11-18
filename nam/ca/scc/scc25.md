@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc24)  [Next](scc26) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc24)  [Next](scc26.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ twins live is called chenhali.
 
 ------------------------------------------------------------------------
 
-[Next: 24.--Tachi Yokuts. The Visit To The Dead.](scc26)
+[Next: 24.--Tachi Yokuts. The Visit To The Dead.](scc26.md)

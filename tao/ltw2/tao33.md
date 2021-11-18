@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao33)   
-[Previous](tao32)  [Next](tao34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao33.md)   
+[Previous](tao32)  [Next](tao34.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Those whose fame endures beyond death are immortal.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 34](tao34)
+[Next: Chapter 34](tao34.md)

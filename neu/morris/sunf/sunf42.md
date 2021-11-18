@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf41)  [Next](sunf43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf41)  [Next](sunf43.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -180,6 +180,6 @@ bows had not been far to seek. But no strife betid.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLI. They Joust with the Knight of the Fish](sunf43)
+[Next: Chapter XLI. They Joust with the Knight of the Fish](sunf43.md)
 
 </div>

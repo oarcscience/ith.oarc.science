@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo21)  [Next](beo23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo21)  [Next](beo23.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ who girded him now for the grim encounter.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXII](beo23)
+[Next: Part XXII](beo23.md)

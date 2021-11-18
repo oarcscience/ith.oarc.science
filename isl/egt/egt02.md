@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt01)  [Next](egt03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt01)  [Next](egt03.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ Quotations from the Arabic ore indicated by printing in italics.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction.](egt03)
+[Next: Introduction.](egt03.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal113)  [Next](njal115) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal113)  [Next](njal115.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ Thence Flosi rode to Ossaby.
 
 ------------------------------------------------------------------------
 
-[Next: 115. Of Flosi And Hildigunna](njal115)
+[Next: 115. Of Flosi And Hildigunna](njal115.md)

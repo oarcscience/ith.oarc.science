@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa13)  [Next](tsoa15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa13)  [Next](tsoa15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -290,7 +290,7 @@ please. And therefore it is that this power is so valuable. And it not
 only frees a man from mental torment (which is nine-tenths at least of
 the torment of life), but it gives him a concentrated power of handling
 mental work absolutely unknown to him before. The two are
-[correlative](errata.htm#6) to each other."
+[correlative](errata.htm#6.md) to each other."
 
 There is no intelligence in matter—whether that matter be electronic
 energy made up in the form of stone, or iron, or wood, or flesh. It all
@@ -350,4 +350,4 @@ realized.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Law of Supply](tsoa15)
+[Next: VIII. The Law of Supply](tsoa15.md)

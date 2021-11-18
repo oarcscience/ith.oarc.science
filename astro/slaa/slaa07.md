@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa06)  [Next](slaa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa06)  [Next](slaa08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -137,7 +137,7 @@ occasioned by the sun's plunge into the ocean.
 
 The early tribes seemed to think they could control the light of the sun
 and s Lay or hasten its setting. "The Melanesians make sunshine by means
-of a mock sun," says Frazer. <span id="fr_34"></span>[1](#fn_34) "A
+of a mock sun," says Frazer. <span id="fr_34"></span>[1](#fn_34.md) "A
 circular stone is wound about with red braid and stuck with owl's
 feathers to represent the rays of the sun, or the stone is laid on the
 ground with white rods radiating from it to imitate sunbeams." A white
@@ -147,7 +147,7 @@ one when rain is desired.
 In New Caledonia they burnt a skeleton to make sunshine, and drenched it
 with water if they wished for rain. They also had a more elaborate
 ceremony for producing sunshine, which Frazer <span
-id="fr_35"></span>[2](#fn_35) thus describes: "When a wizard desires to
+id="fr_35"></span>[2](#fn_35.md) thus describes: "When a wizard desires to
 make sunshine he takes some plants and corals to the burial ground, and
 makes then into a bundle, adding two locks of hair cut from the head of
 a living child
@@ -205,7 +205,7 @@ which it is
 <span id="page_126">p. 126</span>
 
 strewed. This brings us to the Norse story of "The Wonderful
-Mill," <span id="fr_36"></span>[1](#fn_36) I an exceedingly interesting
+Mill," <span id="fr_36"></span>[1](#fn_36.md) I an exceedingly interesting
 bit of folk-lore of solar significance. "The peasants of Norway to this
 day tell of the wondrous mill that ground whatever was demanded of it.
 The tradition is of great antiquity. The earliest version known is as
@@ -293,14 +293,14 @@ blankets for him out of the skins of many coloured birds. These were of
 such beauty that they attracted the attention of the Sun. It had always
 been the custom of the Sun to travel about naked during the day, and
 clothe himself only in the dark hours. <span
-id="fr_37"></span>[1](#fn_37) But when the Sun saw these beautiful
+id="fr_37"></span>[1](#fn_37.md) But when the Sun saw these beautiful
 blankets, he purchased them from the boy, and wrapped them about his
 body, and soon disappeared, so that at set of sun you may see the
 gorgeous colouring of these robes in the western sky, especially the
 blue tint of the blue-jay blanket.
 
 Another tale relates that originally the Sun lived much nearer the earth
-than now, <span id="fr_38"></span>[2](#fn_38) and preyed
+than now, <span id="fr_38"></span>[2](#fn_38.md) and preyed
 
 <span id="page_130">p. 130</span>
 
@@ -313,7 +313,7 @@ Sun's abode in the absence of the owner. The son received him kindly,
 but fearing that his guest would be discovered by his cannibal father,
 he hid him under a heap of robes. The Sun arrived in the evening
 carrying a man on his back, and as he came near the house, he said:
-"Mum, Mum, Mum. <span id="fr_39"></span>[1](#fn_39) There must be a man
+"Mum, Mum, Mum. <span id="fr_39"></span>[1](#fn_39.md) There must be a man
 here," but his son persuaded him that he was mistaken. The next day the
 Indian was glad to leave this dangerous locality, and returned to his
 home laden with gifts from his benefactor. Out of gratitude he returned
@@ -326,7 +326,7 @@ that celestial beings feed on human bodies.
 <span id="page_131">p. 131</span>
 
 The following tale is told of the Sun and his daughter: <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 Originally the Sun was an eminent chief, possessed of great power and
 wealth. He was also blessed with a beautiful daughter, and the fame of
@@ -382,7 +382,7 @@ Shoshone Indians believed that, in the beginning, the sun did not shine
 till the Rabbit shot at him with his magical arrow (the fire drill).
 
 In the following Mewan Indian legend, <span
-id="fr_41"></span>[1](#fn_41) the sunlight is extinguished by the arrow
+id="fr_41"></span>[1](#fn_41.md) the sunlight is extinguished by the arrow
 shot: "There was once a poor worthless Indian boy who got his living by
 begging. At length, finding people loath to assist him, he threatened to
 shoot out the sun, and as this had no effect, he made good his threat,
@@ -474,7 +474,7 @@ properties of their telescopes or eyes. They argued that it was quite
 incompatible with the dignity of the Eye of the Universe that it should
 be afflicted with such a common ailment as ophthalmia.
 
-Tylor <span id="fr_42"></span>[1](#fn_42) tells us that the Rev. Tobias
+Tylor <span id="fr_42"></span>[1](#fn_42.md) tells us that the Rev. Tobias
 Snowden,
 
 <span id="page_137">p. 137</span>
@@ -504,27 +504,27 @@ were a serious part of the lives of the people of unenlightened ages.
 
 ### Footnotes
 
-<span id="fn_34"></span>[123:1](slaa07.htm#fr_34) *The Golden Bough*, J.
+<span id="fn_34"></span>[123:1](slaa07.htm#fr_34.md) *The Golden Bough*, J.
 G. Frazer.
 
-<span id="fn_35"></span>[123:2](slaa07.htm#fr_35) *Ibid*.
+<span id="fn_35"></span>[123:2](slaa07.htm#fr_35.md) *Ibid*.
 
-<span id="fn_36"></span>[126:1](slaa07.htm#fr_36) From Dasent's *Popular
+<span id="fn_36"></span>[126:1](slaa07.htm#fr_36.md) From Dasent's *Popular
 Tales from the Norse*.
 
-<span id="fn_37"></span>[129:1](slaa07.htm#fr_37) This may have been the
+<span id="fn_37"></span>[129:1](slaa07.htm#fr_37.md) This may have been the
 Indian way of accounting for the invisibility of the sun at night.
 
-<span id="fn_38"></span>[129:2](slaa07.htm#fr_38) It is strange that the
+<span id="fn_38"></span>[129:2](slaa07.htm#fr_38.md) It is strange that the
 nebular hypothesis conforms with this idea, that the sun and earth were
 close together at one time.
 
-<span id="fn_39"></span>[130:1](slaa07.htm#fr_39) We are almost tempted
+<span id="fn_39"></span>[130:1](slaa07.htm#fr_39.md) We are almost tempted
 to add, "I smell the blood of an Englishman," for here we have a tale
 identical in many particulars with the popular fairy tale of "Jack the
 Giant Killer," which some authorities claim is of solar origin.
 
-<span id="fn_40"></span>[131:1](slaa07.htm#fr_40) This myth is typical
+<span id="fn_40"></span>[131:1](slaa07.htm#fr_40.md) This myth is typical
 of many that may well be styled Evaporation and Rainfall myths that are
 thus interpreted. The water is enamoured of the cloud, the beautiful
 daughter of the Sun. The Sun does not favour the suitor, and strives to
@@ -532,16 +532,16 @@ kill him by subjecting him to a number of tests. The Water achieves
 success in all of these, and then receives the Sun's permission to marry
 his daughter.
 
-<span id="fn_41"></span>[133:1](slaa07.htm#fr_41) *The Dawn of the
+<span id="fn_41"></span>[133:1](slaa07.htm#fr_41.md) *The Dawn of the
 World*, C. Hart Merriam.
 
-<span id="fn_42"></span>[136:1](slaa07.htm#fr_42) Primitive Culture,
+<span id="fn_42"></span>[136:1](slaa07.htm#fr_42.md) Primitive Culture,
 Edward B. Tylor.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Sun Worship](slaa08)
+[Next: Chapter VI. Sun Worship](slaa08.md)
 
 </div>

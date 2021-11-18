@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb35)  [Next](blfb37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb35)  [Next](blfb37.md) 
 
 </div>
 
@@ -218,6 +218,6 @@ his lady lived the rest of their days in joy and contentment.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: The Black Bull of Norroway](blfb37)
+[Next: The Black Bull of Norroway](blfb37.md)
 
 </div>

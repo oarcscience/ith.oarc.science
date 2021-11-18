@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc24)  [Next](osc26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc24)  [Next](osc26.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ Puritanism, and art, and poetry, do not dwell together.
 
 ------------------------------------------------------------------------
 
-[Next: (23) Halloween](osc26)
+[Next: (23) Halloween](osc26.md)

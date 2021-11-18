@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre23)  [Next](gre25) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre23)  [Next](gre25.md) 
 
 ------------------------------------------------------------------------
 
@@ -346,4 +346,4 @@ now time wore on till Thorfinn's coming home was looked for.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: How Thorfinn met Grettir at Haramsey again](gre25)
+[Next: Chapter XX: How Thorfinn met Grettir at Haramsey again](gre25.md)

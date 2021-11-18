@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou07)  [Next](hou09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou07)  [Next](hou09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -42,7 +42,7 @@ ordaining and instructing elders in the churches throughout New York and
 New England, and the organization of the first quorum of seventies was
 begun. Classes for instruction, and a school of prophets were commenced,
 and Sidney Rigdon delivered six lectures on faith, of which Joseph Smith
-was author. <span id="fr_119"></span>[1](#fn_119) Preaching on the steps
+was author. <span id="fr_119"></span>[1](#fn_119.md) Preaching on the steps
 of a
 
 <span id="page_112">p. 112</span>
@@ -56,7 +56,7 @@ with the messiah, Moses, Elias, and Elijah, and received from them the
 several keys of priesthood, which insured to their possessors power
 unlimited in things temporal and spiritual for the accomplishment of the
 labors assigned by them for him to perform. <span
-id="fr_120"></span>[2](#fn_120) The building of this structure by a few
+id="fr_120"></span>[2](#fn_120.md) The building of this structure by a few
 hundred persons, who, during the period between 1832 and 1836,
 contributed voluntarily of their money, material, or labor, the women
 knitting and spinning and making garments for the men who worked on the
@@ -81,7 +81,7 @@ hearts, and became desirous of fine houses and fine clothes, and
 indulged too much in these things, supposing for a few months that they
 were very rich." Upon the failure of the bank in 1838, Smith and Rigdon
 went to Missouri, leaving the business in the hands of others to wind
-up. <span id="fr_121"></span>[3](#fn_121)
+up. <span id="fr_121"></span>[3](#fn_121.md)
 
 <span id="page_114">p. 114</span>
 
@@ -101,7 +101,7 @@ the evening they met for the endowment. The fast was then broken."
 
     Midsummer of 1837 saw Parley P. Pratt in New York city, where he
 printed the first edition of his *Voice of Warning*, <span
-id="fr_122"></span>[4](#fn_122) and where he labored with great
+id="fr_122"></span>[4](#fn_122.md) and where he labored with great
 earnestness, at first under many discouragements, later with signal
 success. After that he went once more to Missouri. Others were going in
 the same direction from Kirtland and elsewhere during the entire period
@@ -115,11 +115,11 @@ Kirtland in October 1837.
 1833, as before related, the saints escaped as best they were able to
 Clay county, where they were kindly received. Some took up their abode
 in Lafayette and Van Buren counties, and a few in Ray and Clinton
-counties. <span id="fr_123"></span>[5](#fn_123) For their lands, stock,
+counties. <span id="fr_123"></span>[5](#fn_123.md) For their lands, stock,
 furniture, buildings, and other property destroyed in Jackson county,
 they received little or no compensation; on the contrary, some who went
 back for their effects were caught and beaten. <span
-id="fr_124"></span>[6](#fn_124) Nevertheless, there
+id="fr_124"></span>[6](#fn_124.md) Nevertheless, there
 
 <span id="page_116">p. 116</span>
 
@@ -134,14 +134,14 @@ served themselves well; why should they not help their neighbors? So
 they crossed the river, in small squads at first, and began to stir up
 enmity, often insulting and plundering their victims, until the people
 of Clay county, fearing actions yet worse, held a meeting, and advised
-the saints to seek another home. <span id="fr_125"></span>[7](#fn_125)
+the saints to seek another home. <span id="fr_125"></span>[7](#fn_125.md)
 
     For their unrelenting hostility toward the latter-day saints, for
 the services rendered to their country in defying its laws and
 encouraging the outrages upon citizens at Independence and elsewhere
 during the first Mormon troubles in Missouri, Boggs was made governor of
 that state, Lucas major-general, and Wilson brigadier-general. <span
-id="fr_126"></span>[8](#fn_126) After his election, as before, Boggs did
+id="fr_126"></span>[8](#fn_126.md) After his election, as before, Boggs did
 not hesitate to let it be known that
 
 <span id="page_117">p. 117</span>
@@ -165,19 +165,19 @@ lands. Almost every member of the society thus became a landholder, some
 having eighty acres, and some forty. A town was laid out, called Far
 West, which was made the county seat; they were allowed to organize the
 government of the county, and to appoint from among their own people the
-officers. <span id="fr_127"></span>[9](#fn_127) Again they found peace
+officers. <span id="fr_127"></span>[9](#fn_127.md) Again they found peace
 for a season, during which their numbers increased, while settlements
 were made in Daviess county, and elsewhere. <span
-id="fr_128"></span>[10](#fn_128) Those in Daviess county were on terms
+id="fr_128"></span>[10](#fn_128.md) Those in Daviess county were on terms
 of amity with their gentile neighbors. Wight was there, and when Smith
 and Rigdon arrived from the east they laid out a town named
-Diahman, <span id="fr_129"></span>[11](#fn_129) which soon rivalled
+Diahman, <span id="fr_129"></span>[11](#fn_129.md) which soon rivalled
 Gallatin, and gradually the
 
 <span id="page_118">p. 118</span>
 
 people of Daviess, like the rest, began to war upon the Mormons. <span
-id="fr_130"></span>[12](#fn_130)
+id="fr_130"></span>[12](#fn_130.md)
 
     To add to the ever-thickening troubles of the prophet, a schism
 broke out in the church about this time, and there were apostates and
@@ -188,7 +188,7 @@ hesitate to denounce as liars, thieves, counterfeiters, and everything
 that is vile. Among these were Joseph's old friends Martin Harris,
 Oliver Cowdery, and David Whitmer, the three witnesses to the book of
 Mormon; Orson Hyde, Thomas B. Marsh, and W. W. Phelps also
-seceding. <span id="fr_131"></span>[13](#fn_131)
+seceding. <span id="fr_131"></span>[13](#fn_131.md)
 
 <span id="page_119">p. 119</span>
 
@@ -215,7 +215,7 @@ their vows. Is it all in irony? Is it all a mockery? Or is it the
 displeasure of omnipotence, which is now displayed because of the rank
 injustice wrought by the sons of belial under this sacred emblem? God
 knoweth. We know only that out of heaven conics fire, blasting the
-offering of the saints! <span id="fr_132"></span>[14](#fn_132)
+offering of the saints! <span id="fr_132"></span>[14](#fn_132.md)
 
 <span id="page_120">p. 120</span>
 
@@ -239,7 +239,7 @@ the Host of Israel, was organized after the manner of the priesthood,
 including all males of eighteen years and over. There were captains of
 ten, of fifty, and of a hundred; the organization included the entire
 military force of the church, as had the Kirtland army previously a part
-of it. <span id="fr_133"></span>[15](#fn_133)
+of it. <span id="fr_133"></span>[15](#fn_133.md)
 
     At length the storm burst. The state election of 1838 was held in
 Daviess county at the town of Gallatin on the 6th of August. Soon after
@@ -260,7 +260,7 @@ voted, however, and the rest of the day passed quietly.
 
 <span id="img_12100"></span> <span align="CENTER"> [![THE WAR IN
 MISSOURI.](tn/12100.jpg)  
-Click to enlarge](img/12100.jpg)  
+Click to enlarge](img/12100.jpg.md)  
 THE WAR IN MISSOURI.  
 </span>
 
@@ -288,11 +288,11 @@ Wight were released on their own recognizances.
     Nevertheless the excitement increased. In Daviess and adjacent
 counties, three hundred gentiles met and armed. The Mormons say that the
 gentiles made prisoners, and shot and stole cattle, and the gentiles say
-that the Mormons did the same. <span id="fr_134"></span>[16](#fn_134)
+that the Mormons did the same. <span id="fr_134"></span>[16](#fn_134.md)
 Finally affairs became so alarming that Major-General Atchison concluded
 to call out the militia of Ray and Clay counties, under command of
 generals Doniphan and Parks, the latter being stationed in Daviess
-county. <span id="fr_135"></span>[17](#fn_135) Their purposes in that
+county. <span id="fr_135"></span>[17](#fn_135.md) Their purposes in that
 quarter being thus defeated, the men of Missouri threw themselves on a
 small settlement of saints at Dewitt, where they were joined by a party
 with a six-pounder from Jackson county. Setting fire
@@ -305,7 +305,7 @@ many for him. They openly defied him, would make no compromise, and
 swore "they would drive the Mormons from Daviess to Caldwell, and from
 Caldwell to hell." General Atchison then went to Dewitt and told the
 Mormons that his men were so disaffected <span
-id="fr_136"></span>[18](#fn_136) that they had better apply for
+id="fr_136"></span>[18](#fn_136.md) that they had better apply for
 protection to Governor Boggs. This official returned answer that, as
 they had brought the war upon themselves, they must fight their own
 battles, and not look to him for help. Thereupon they abandoned the
@@ -318,11 +318,11 @@ officers of the place, who, though Mormons, were nevertheless
 commissioned by the state, Doniphan advised them to arm and march to
 Daviess county and defend their brethren there. Acting on this advice,
 all armed, some going to Daviess county and some remaining at Far
-West. <span id="fr_137"></span>[19](#fn_137) The former were met by
+West. <span id="fr_137"></span>[19](#fn_137.md) The former were met by
 Parks, who inquired of them all particulars. Shortly afterward some
 families came in from beyond Grand River, who stated that they had been
 driven away and their houses burned by a party under C. Gilliam. <span
-id="fr_138"></span>[20](#fn_138) Parks then ordered Colonel Wight, who
+id="fr_138"></span>[20](#fn_138.md) Parks then ordered Colonel Wight, who
 held a commission under him as commander of the
 
 <span id="page_124">p. 124</span>
@@ -338,14 +338,14 @@ Far West, where they learned that a large force under Samuel Bogart, a
 methodist clergyman, was plundering and burning houses south of that
 point, in Ray county, and had taken three men prisoners, one only of
 whom was a Mormon. Elias Higbee, county judge, ordered the Mormon
-militia under Captain Patten <span id="fr_139"></span>[21](#fn_139) to
+militia under Captain Patten <span id="fr_139"></span>[21](#fn_139.md) to
 retake the prisoners. In passing through a wood Patten came without
 knowing it upon the encampment of Bogart, whose guard fired without
 warning, killing one of Patten's men. Patten then attacked, routing
 Bogart's force, but not preventing the shooting of the Mormon prisoner,
 though he afterward recovered. In the charge one man was killed, and
 Patten and one other were mortally wounded. The company captured forty
-wagons. <span id="fr_140"></span>[22](#fn_140)
+wagons. <span id="fr_140"></span>[22](#fn_140.md)
 
     About this time arose the mysterious and much dreaded band that
 finally took the name of Danites, or sons of Dan, concerning which so
@@ -366,31 +366,31 @@ of blood with gentiles; in fact, they formed a kind of death society,
 desperadoes, thugs, hashshashiyun—in plain English, assassins in the
 name of the Lord. The Mormons declare categorically the whole and every
 particular to be the calumnious invention of the impostor and arch
-apostate, Mr John C. Bennett." <span id="fr_141"></span>[23](#fn_141)
+apostate, Mr John C. Bennett." <span id="fr_141"></span>[23](#fn_141.md)
 
     John Hyde, a seceder, states that the Danite band, or the United
 Brothers of Gideon, was organized on the 4th of July, 1838, and was
 placed under the command of the apostle David Patten, who for the
 purpose assumed the name of Captain Fearnot. <span
-id="fr_142"></span>[24](#fn_142)
+id="fr_142"></span>[24](#fn_142.md)
 
 <span id="page_126">p. 126</span>
 
     It is the opinion of some that the Danite band, or Destroying Angels
 as again they are called, was organized at the recommendation of the
 governor of Missouri as a means of self-defense against persecutions in
-that state. <span id="fr_143"></span>[25](#fn_143) Thomas B. Marsh, late
+that state. <span id="fr_143"></span>[25](#fn_143.md) Thomas B. Marsh, late
 president of the twelve apostles, and president of the church at Far
 West, but now a dissenter, having "abandoned the faith of the Mormons
 from a conviction of their immorality and impiety," testifies that in
 October, 1838, they "had a meeting at Far West, at which they appointed
 a company of twelve, by the name of the Destruction Company, for the
 purpose of burning and destroying." <span
-id="fr_144"></span>[26](#fn_144)
+id="fr_144"></span>[26](#fn_144.md)
 
     The apostate Bennett gives a number of names by which the same
 society, or divisions of it, were known, such as Daughter of Zion, Big
-Fan, <span id="fr_145"></span>[27](#fn_145) "inasmuch as it fanned out
+Fan, <span id="fr_145"></span>[27](#fn_145.md) "inasmuch as it fanned out
 the chaff from the wheat," Brother of Gideon, Destructive, Flying Angel.
 The explanation of Joseph, the prophet, was that one Doctor Sampson
 Arvard, who after being a short time in the church, in order to add to
@@ -405,12 +405,12 @@ forth and spoil the gentiles; but they rejected the proposal, and Arvard
 was cut off from the church. All the present leaders of the Mormon
 church deny emphatically the existence of any such band or society as a
 part of or having anything to do with their organization. <span
-id="fr_146"></span>[28](#fn_146)
+id="fr_146"></span>[28](#fn_146.md)
 
 <span id="page_128">p. 128</span>
 
     Meanwhile was being matured the bloody tragedy which occurred on the
-30th of October near Haun's <span id="fr_147"></span>[29](#fn_147) mill,
+30th of October near Haun's <span id="fr_147"></span>[29](#fn_147.md) mill,
 on Shoal creek, about twenty miles below Far West. Besides the Mormons
 living there, were a number of emigrants awaiting the cessation of
 hostilities before proceeding on their journey. It had been agreed
@@ -425,7 +425,7 @@ firing ceased, eighteen of these unoffending people were stretched dead
 upon the ground, while many more were wounded. I will not enter upon the
 sickening details, which are copious and fully proven; suffice it to
 say, that never in savage or other warfare was there perpetrated an act
-more dastardly and brutal. <span id="fr_148"></span>[30](#fn_148)
+more dastardly and brutal. <span id="fr_148"></span>[30](#fn_148.md)
 Indeed, it was openly avowed by the men of Missouri that it was no worse
 to shoot a Mormon than to shoot an Indian, and killing Indians was no
 worse than killing wild beasts.
@@ -452,7 +452,7 @@ drive them off their lands and kill them if they can. But this does not
 make insurrectionists and traitors of the whole society. No matter; down
 with the Mormons! And so Boggs, the governor, seats himself and coolly
 writes off to his generals to drive out or exterminate the vermin. <span
-id="fr_149"></span>[31](#fn_149)
+id="fr_149"></span>[31](#fn_149.md)
 
 <span id="page_130">p. 130</span>
 
@@ -466,17 +466,17 @@ in the matter of retaliation.
 
     The first the saints of Caldwell county know of the new tactics is
 the appearance, within half a mile of Far West, <span
-id="fr_150"></span>[32](#fn_150) of three thousand armed men, under
+id="fr_150"></span>[32](#fn_150.md) of three thousand armed men, under
 General Lucas, generals Wilson and Doniphan being present, and General
 Clark with another army being a few days’ march distant. General Lucas
 states that the main business there is to obtain possession of three
 individuals, whom he names, two of them not Mormons; and for the rest he
 has only to inform the saints that it is his painful duty either wholly
 to drive them from the state or to exterminate them. <span
-id="fr_151"></span>[33](#fn_151) Gilliam and his comrades, who as
+id="fr_151"></span>[33](#fn_151.md) Gilliam and his comrades, who as
 disguised Indians and white men had been fighting the Mormons, now that
 the state espouses their cause, join Lucas. <span
-id="fr_152"></span>[34](#fn_152) General Atchison was at Richmond, in
+id="fr_152"></span>[34](#fn_152.md) General Atchison was at Richmond, in
 Ray county, when the governor's exterminating order was issued. "I will
 have nothing to do with so infamous a proceeding," he said, and
 immediately resigned.
@@ -495,7 +495,7 @@ Doniphan who further threatens to withdraw his men if such a course is
 persisted in; whereupon the sentence is not executed. All the Mormon
 troops in Far West, however, are required to give up their arms and
 consider themselves prisoners of war. <span
-id="fr_153"></span>[35](#fn_153) They are further required to execute a
+id="fr_153"></span>[35](#fn_153.md) They are further required to execute a
 deed of trust pledging all Mormon property to the payment of the entire
 cost of the war, and to give a promise to leave the state before the
 coming spring.
@@ -513,24 +513,24 @@ proceeding was sufficiently peculiar; but, as a climax to their conduct,
 some of the officers and men laid hands on the Mormons’ property
 wherever they could find it, taking no thought of payment.
 
-    General Clark <span id="fr_154"></span>[36](#fn_154) now comes
+    General Clark <span id="fr_154"></span>[36](#fn_154.md) now comes
 forward, and entering the town of Far West, collects the saints in the
 public square, reads them a lecture, <span
-id="fr_155"></span>[37](#fn_155) and selecting fifty of their number,
+id="fr_155"></span>[37](#fn_155.md) and selecting fifty of their number,
 thrusts them into prison. Next day forty-six of the fifty are taken to
-Richmond, <span id="fr_156"></span>[38](#fn_156) and after a fortnight's
-confinement half are liberated, <span id="fr_157"></span>[39](#fn_157)
+Richmond, <span id="fr_156"></span>[38](#fn_156.md) and after a fortnight's
+confinement half are liberated, <span id="fr_157"></span>[39](#fn_157.md)
 
 <span id="page_133">p. 133</span>
 
 most of the remainder being set free a week later on giving bail.
-Lucas <span id="fr_158"></span>[40](#fn_158) then retires with his
+Lucas <span id="fr_158"></span>[40](#fn_158.md) then retires with his
 troops, leaving the country to be ravaged by armed squads that burn
 houses, insult women, and drive off stock *ad libitum*. <span
-id="fr_159"></span>[41](#fn_159) The faint pretext of justice on the
+id="fr_159"></span>[41](#fn_159.md) The faint pretext of justice on the
 part of the state, attending forced sales and forced settlements, might
 as well have been dispensed with, as it was but a cloak to cover
-official iniquity. <span id="fr_160"></span>[42](#fn_160)
+official iniquity. <span id="fr_160"></span>[42](#fn_160.md)
 
 <span id="page_134">p. 134</span>
 
@@ -539,7 +539,7 @@ living in the nineteenth century, under the flag of the world's foremost
 republic, that such flagrant wrongs as the Boggs exterminating order,
 and the enforced treaty under which they were deprived of their
 property, could be carried into effect. They appealed, therefore, to the
-legislature, <span id="fr_161"></span>[43](#fn_161) demanding justice.
+legislature, <span id="fr_161"></span>[43](#fn_161.md) demanding justice.
 But that body was too much with the people and with Boggs to think of
 justice. To make a show of decency, a committee was appointed and sent
 to Caldwell and Daviess counties, to look into the matter, but of course
@@ -580,7 +580,7 @@ the outcasts can hope for refuge at the moment. Some have horses and
 cattle and wagons; some have none. Some have tents and bedding; some
 have none. But the start is made, and the march is slowly to the
 eastward. In the months of February and March <span
-id="fr_162"></span>[44](#fn_162)
+id="fr_162"></span>[44](#fn_162.md)
 
 <span id="page_136">p. 136</span>
 
@@ -595,7 +595,7 @@ Indeed, upon the expulsion of the Mormons from Missouri the
 
 <span id="img_13600"></span> <span align="CENTER"> [![SETTLEMENTS IN
 ILLINOIS.](tn/13600.jpg)  
-Click to enlarge](img/13600.jpg)  
+Click to enlarge](img/13600.jpg.md)  
 SETTLEMENTS IN ILLINOIS.  
 </span>
 
@@ -617,7 +617,7 @@ decorum and delicacy, and be particularly careful not to indulge in any
 conversation or expressions calculated to wound their feelings, or in
 any way to reflect upon those who, by every law of humanity, are
 entitled to our sympathy and commiseration." <span
-id="fr_163"></span>[45](#fn_163)
+id="fr_163"></span>[45](#fn_163.md)
 
     How in regard to neighboring states? In case the people of Illinois
 soon tire of them, what will they then do? From Commerce, Isaac Galland
@@ -625,7 +625,7 @@ writes to Robert Lucas, governor of Iowa, asking about it. The answer is
 such as one would expect from the average American citizen—neither
 better nor worse. It is such, however, as to condemn throughout all time
 the conduct of the people of Missouri. <span
-id="fr_164"></span>[46](#fn_164)
+id="fr_164"></span>[46](#fn_164.md)
 
 <span id="page_138">p. 138</span>
 
@@ -660,7 +660,7 @@ my brethren who were with me, and although at three different times we
 were sentenced to be shot without the least shadow of law, and had the
 time and place appointed for that purpose, yet through the mercy of God,
 in answer to the prayers of the saints, I have been preserved, and
-delivered out of their hands." <span id="fr_165"></span>[47](#fn_165)
+delivered out of their hands." <span id="fr_165"></span>[47](#fn_165.md)
 
 <span id="page_140">p. 140</span>
 
@@ -672,7 +672,7 @@ Keokuk, Iowa, situated on the west bank of the Mississippi, forty miles
 above Quincy, Illinois. He also purchased the whole of another town-site
 called Nashville, six miles above Keokuk. Four miles above Nashville was
 a settlement called Montrose, part of which Knight bought, together with
-thirty thousand acres of land. <span id="fr_166"></span>[48](#fn_166)
+thirty thousand acres of land. <span id="fr_166"></span>[48](#fn_166.md)
 
     Opposite Montrose, on the east bank of the Mississippi where was a
 good landing, stood a village
@@ -686,7 +686,7 @@ and it actually fills the definition of the word; for nature has not
 formed a parallel on the banks of the Mississippi from New Orleans to
 Galena." The post-office there was first called Commerce, after the
 Mormons had purchased the village, but the name was changed to that of
-Nauvoo in May, 1840. <span id="fr_167"></span>[49](#fn_167) The place
+Nauvoo in May, 1840. <span id="fr_167"></span>[49](#fn_167.md) The place
 was started by a company from New York, but it was so sickly that when
 the agent for the Mormons came they were glad to sell. The Mormons
 drained it and made the place comparatively healthy.
@@ -728,7 +728,7 @@ Zion, their New Jerusalem. From New York, February 19, 1840, Brigham
 Young, H. C. Kimball, Orson Pratt, and Parley P. Pratt indited a letter
 to the saints at Commerce, speaking of the wonderful progress of the
 faith, and of their own intended departure for England. <span
-id="fr_168"></span>[50](#fn_168)
+id="fr_168"></span>[50](#fn_168.md)
 
     Thus, despite persecution, the saints increased in number year by
 year. Before the end of 1840 there were fifteen thousand souls at
@@ -741,12 +741,12 @@ they to the city of their God, to the mountain of his holiness.
 
 ### Footnotes
 
-<span id="fn_119"></span>[111:1](hou08.htm#fr_119) They were printed and
+<span id="fn_119"></span>[111:1](hou08.htm#fr_119.md) They were printed and
 bound in *Doctrine and Covenants*. See *Hyde's Mormonism*, 202; *Remy's
 Journey*, 504; *Pratt's Auobiography*, 139. Mather, in *Lippincott's
 Mag*., Aug. 1880, states that the twelve apostles started in May.
 
-<span id="fn_120"></span>[112:2](hou08.htm#fr_120) 'A square mile was
+<span id="fn_120"></span>[112:2](hou08.htm#fr_120.md) 'A square mile was
 laid out in half-acre lots, and a number of farms were bought, the
 church farm being half a mile down one of the most beautiful valleys
 which it is possible to conceive in a range of country so uniformly
@@ -778,7 +778,7 @@ residences of Smith and Rigdon are almost under the eaves of the temple,
 and the theological seminary is now occupied by the methodists for a
 church.' *Lippincott's Mag*., Aug. 1880.
 
-<span id="fn_121"></span>[113:3](hou08.htm#fr_121) 'They also suffered
+<span id="fn_121"></span>[113:3](hou08.htm#fr_121.md) 'They also suffered
 jealousies to arise among them, and several persons dissented from the
 church, and accused the leaders of the church with bad management,
 selfishness, etc…On the other hand, the leaders of the church accused
@@ -868,13 +868,13 @@ which was about to burst upon us, under the color of legal process to
 cover their hellish designs and save themselves from the just judgment
 of the law.'
 
-<span id="fn_122"></span>[115:4](hou08.htm#fr_122) It consisted of 4,000
+<span id="fn_122"></span>[115:4](hou08.htm#fr_122.md) It consisted of 4,000
 copies. The author states that 'it has since been published and
 republished in America and Europe, till some 40,000 or 50,000 copies
 have not been sufficient resupply the demand.' *Pratt's Autobiography*,
 184.
 
-<span id="fn_123"></span>[115:5](hou08.htm#fr_123) Most of these fled
+<span id="fn_123"></span>[115:5](hou08.htm#fr_123.md) Most of these fled
 into Clay co., where they were received with some degree of kindness,
 and encamped on the banks of the Missouri. Those who went into Van Buren
 and Lafayette counties were soon expelled, and had to move. *Pratt's
@@ -885,7 +885,7 @@ immediately south of Clay—the river being the dividing line—and Van
 Buren lies next south of Jackson. All west of the state line was Indian
 territory, as I have said. See map, p. 121 this vol.
 
-<span id="fn_124"></span>[115:6](hou08.htm#fr_124) The Jackson co.
+<span id="fn_124"></span>[115:6](hou08.htm#fr_124.md) The Jackson co.
 exiles being in a destitute condition, a conference was <span
 id="page_116">p. 116</span> held at P. P. Pratt's house in Clay co. some
 time during the winter of 1833-4—date not given), at which it was
@@ -899,7 +899,7 @@ friends along their route. *Pratt's Autobiog*., 114-161; *Utah Pioneers,
 33d Aniversary*, 17; *Horne's Migrations*, MS., 3; *Young's Woman's
 Experiences*, MS., 2.
 
-<span id="fn_125"></span>[116:7](hou08.htm#fr_125) 'From threats, public
+<span id="fn_125"></span>[116:7](hou08.htm#fr_125.md) 'From threats, public
 meetings were called, resolutions were passed, vengeance and destruction
 were threatened, and affairs again assumed a fearful attitude.' *Cor.
 Joseph Smith, etc*., 5. See also *Greene's Facts*, 12. 'A meeting of the
@@ -912,18 +912,18 @@ the terms proposed, denying strenuously that they had ever tampered with
 the slaves, or had any idea of exciting an Indian war.' *Ferris’ Utah
 and the Mormons*, 82-3.
 
-<span id="fn_126"></span>[116:8](hou08.htm#fr_126) These officers 'all
+<span id="fn_126"></span>[116:8](hou08.htm#fr_126.md) These officers 'all
 very readily received their commissions from their accomplice, Gov.
 Boggs; and thus corruption, rebellion, and conspiracy had spread on
 every side, being fostered and encouraged by a large majority of the
 state; and thus treason became general.' *Pratt's Persecution*, 55-6.
 
-<span id="fn_127"></span>[117:9](hou08.htm#fr_127) John Hyde,
+<span id="fn_127"></span>[117:9](hou08.htm#fr_127.md) John Hyde,
 *Mormonism*, 203, says that on their arrival in Missouri, Smith and
 Rigdon began 'to scatter the saints in order to obtain political
 ascendency in other counties.'
 
-<span id="fn_128"></span>[117:10](hou08.htm#fr_128) Of the officers then
+<span id="fn_128"></span>[117:10](hou08.htm#fr_128.md) Of the officers then
 appointed, two of the judges, thirteen magistrates, all the military
 officers, and the county clerk were Mormons. 'These steps were taken, be
 it carefully observed, by the advice of the state legislature, and the
@@ -931,7 +931,7 @@ officers were appointed in the manner directed by law.' *Greene's
 Facts*, 18. The gentiles murmur because of their being under Mormon
 rule. *Hyde's Mormonism*, 203.
 
-<span id="fn_129"></span>[117:11](hou08.htm#fr_129) 'Smith gave it the
+<span id="fn_129"></span>[117:11](hou08.htm#fr_129.md) 'Smith gave it the
 name of Adamondiamon, which he said was formerly <span id="page_118">p.
 118</span> given to a certain valley where Adam, previous to his death,
 called his children together and blessed them.' *Corrill's Brief
@@ -947,11 +947,11 @@ of the 25th and dawn of the 26th of April, 1839, the quorum sang the
 song which they called Adam-on-di-ahman. *Tullidge's Life of Brigham
 Young*.
 
-<span id="fn_130"></span>[118:12](hou08.htm#fr_130) They were afraid the
+<span id="fn_130"></span>[118:12](hou08.htm#fr_130.md) They were afraid the
 Mormons would 'rule the county, and they did not like to live under the
 laws and administration of Jo Smith.' *Ibid*.
 
-<span id="fn_131"></span>[118:13](hou08.htm#fr_131) The first three were
+<span id="fn_131"></span>[118:13](hou08.htm#fr_131.md) The first three were
 themselves accused of counterfeiting coin, and defaming Smith's
 character; and others charged Smith with 'being accessory to several
 murders and many thefts, and of designing to rule that part of the state
@@ -982,7 +982,7 @@ circulation. In procuring these bills, no persons met. the package would
 be left by a window of the bank, with a pane out, and the package taken
 and its price left by the purchaser.'
 
-<span id="fn_132"></span>[119:14](hou08.htm#fr_132) 'In a day or two
+<span id="fn_132"></span>[119:14](hou08.htm#fr_132.md) 'In a day or two
 after these transactions, the thunder rolled in awful majesty over the
 city of Far West, and the arrows of lightning fell from the clouds, and
 shivered the liberty pole from top to bottom; thus manifesting to many
@@ -990,17 +990,17 @@ that there was an end to liberty and law in that state, and that our
 little city strove in vain to maintain the liberties of a country which
 was ruled by wickedness and rebellion.' *Pratt's Persecution*, 57.
 
-<span id="fn_133"></span>[120:15](hou08.htm#fr_133) 'Every man obeyed
+<span id="fn_133"></span>[120:15](hou08.htm#fr_133.md) 'Every man obeyed
 the call.' *Lee's Mormonism*, 57.
 
-<span id="fn_134"></span>[122:16](hou08.htm#fr_134) In Daviess county
+<span id="fn_134"></span>[122:16](hou08.htm#fr_134.md) In Daviess county
 the saints killed between 100 and 200 hogs and a number of cattle, took
 at least forty or fifty stands of honey, and at the same time destroyed
 several fields of corn. The word was out that the Lord had consecrated
 through the bishop the spoils unto his host. *Harris' Mormonism
 Portrayed*, 30-1.
 
-<span id="fn_135"></span>[122:17](hou08.htm#fr_135) 'One thousand men
+<span id="fn_135"></span>[122:17](hou08.htm#fr_135.md) 'One thousand men
 were then ordered into service under the command of Major-General
 Atchison and brigadier-generals Parks and Doniphan. These marched to
 Daviess co., and remained in service thirty days. But judging from the
@@ -1008,7 +1008,7 @@ result, they had no intention of coming in contact with the mob, but
 only to make a show of defending one neighborhood while the mob was
 allowed to attack another.' *Pratt's Autobiography*, 191.
 
-<span id="fn_136"></span>[123:18](hou08.htm#fr_136) 'At length the
+<span id="fn_136"></span>[123:18](hou08.htm#fr_136.md) 'At length the
 general (Atchison) informed the citizens that his forces were so small,
 and many of them so much in favor of the insurrectionists, that it was
 useless to look any longer to theta for protection…After the evacuation
@@ -1017,28 +1017,28 @@ protect themselves, they assembled in Far West to the number of one
 thousand men, or thereabout, and resolved to defend their rights to the
 last.' *Pratt's Autobiography*, 192-3.
 
-<span id="fn_137"></span>[123:19](hou08.htm#fr_137) 'The Mormons in
+<span id="fn_137"></span>[123:19](hou08.htm#fr_137.md) 'The Mormons in
 Caldwell were the regular state militia for that county, and were at the
 time acting under the legal authorities of the county.' *Greene's
 Facts*, 20.
 
-<span id="fn_138"></span>[123:20](hou08.htm#fr_138) 'A noted company of
+<span id="fn_138"></span>[123:20](hou08.htm#fr_138.md) 'A noted company of
 banditti, under the command of Cornelius Gilliam, who had long infested
 our borders and been notorious for their murders and daring robberies
 anti who painted themselves as Indian warriors, came pouring in from the
 west to strengthen the camp of the enemy.' *Pratt's Autobiography*, 202.
 
-<span id="fn_139"></span>[124:21](hou08.htm#fr_139) Pratt,
+<span id="fn_139"></span>[124:21](hou08.htm#fr_139.md) Pratt,
 *Persecution*, 68, says that the detachment was under the command of
 Captain Durphey, aided by Patten.
 
-<span id="fn_140"></span>[124:22](hou08.htm#fr_140) 'The enemy had left
+<span id="fn_140"></span>[124:22](hou08.htm#fr_140.md) 'The enemy had left
 their horses, saddles, camp, and baggage in the confusion of their
 flight, which fell into our hands.' *Pratt's Persecutions*, 72. 'We
 delivered the horses and spoils of the enemy to Col. Hinckle, the
 commanding officer of the regiment.' *Id*., 74.
 
-<span id="fn_141"></span>[125:23](hou08.htm#fr_141) John Corrill says
+<span id="fn_141"></span>[125:23](hou08.htm#fr_141.md) John Corrill says
 that some time in June a secret society was formed of a few individuals
 who should be agreed in all things, and stand by each other, right or
 wrong, under all circumstances. Next to God was the first presidency;
@@ -1071,7 +1071,7 @@ Zion. Should I ever do the same, I hold my life as the forfeiture, in a
 caldron of boiling oil."' *Id*., 267. The origin of the name Daughter of
 Zion may be found in Micah iv. 13.
 
-<span id="fn_142"></span>[125:24](hou08.htm#fr_142) *Hyde's Mormonism*,
+<span id="fn_142"></span>[125:24](hou08.htm#fr_142.md) *Hyde's Mormonism*,
 104. In *Id*., 104-5, Hyde writes as follows: 'When the citizens of
 Carroll and Daviess counties, Mo., began to threaten the Mormons with
 expulsion in 1838, a death society was organized under the direction of
@@ -1096,10 +1096,10 @@ The sons of Dan was the style they adopted; and many have been the times
 that they have been adders in the path, and many a man has fallen
 backward, and has been seen no more.'
 
-<span id="fn_143"></span>[126:25](hou08.htm#fr_143) See *Smucker's Hist.
+<span id="fn_143"></span>[126:25](hou08.htm#fr_143.md) See *Smucker's Hist.
 Mor*., 108.
 
-<span id="fn_144"></span>[126:26](hou08.htm#fr_144) 'The members of this
+<span id="fn_144"></span>[126:26](hou08.htm#fr_144.md) 'The members of this
 order were placed under the most sacred obligations that language could
 invent…to stand by each other unto death, to sustain, protect, defend,
 and obey the leaders of the church under any and all circumstances unto
@@ -1110,7 +1110,7 @@ face, with the points of the fingers upwards, shoving the hand upwards
 until the ear is snug up between the thumb and forefinger.' *Lee's
 Mormonism*, 57-8.
 
-<span id="fn_145"></span>[126:27](hou08.htm#fr_145) 'The society was
+<span id="fn_145"></span>[126:27](hou08.htm#fr_145.md) 'The society was
 instituted for the purpose of driving out from the holy land, their
 earthly paradise, in Missouri, all apostates or dissenters…They make no
 scruple whatever to commit perjury, when deemed requisite for the
@@ -1119,7 +1119,7 @@ or 2,500. From the élite of the Danites, or Daughters of Zion, twelve
 men are selected, who are called Destructives, or Destroying Angels, or
 Flying Angels.' *Mormonism Exposed*, 265-9.
 
-<span id="fn_146"></span>[127:28](hou08.htm#fr_146) 'It was intended to
+<span id="fn_146"></span>[127:28](hou08.htm#fr_146.md) 'It was intended to
 enable him,' Smith, 'more effectually to execute his clandestine
 purposes.' '"Milking the gentiles" is a kind of vernacular term of the
 Mormons, and signifies the obtaining of money or property from these who
@@ -1170,10 +1170,10 @@ Brigham's Destroying Angel*; *Hall's Mormonism*, 94-5; *E. M. Webb*, in
 *Utah County Sketches*, MS., 49-50, the last named referring to the
 rules and principles of the order of Enoch.
 
-<span id="fn_147"></span>[128:29](hou08.htm#fr_147) Spelled also Hahn,
+<span id="fn_147"></span>[128:29](hou08.htm#fr_147.md) Spelled also Hahn,
 Hohn, Hawn.
 
-<span id="fn_148"></span>[128:30](hou08.htm#fr_148) 'Immediately after
+<span id="fn_148"></span>[128:30](hou08.htm#fr_148.md) 'Immediately after
 this, there came into the city a messenger from Haun's mill, bringing
 the intelligence of an awful massacre of the people who were residing in
 that place, and that a force of two or three hundred, detached from the
@@ -1186,7 +1186,7 @@ and massacred the whole population, and then came on to the town of Far
 West, and entered into conjunction with the main body of the army.'
 *Mackay's The Mormons*, 88-9.
 
-<span id="fn_149"></span>[129:31](hou08.htm#fr_149) Several of them
+<span id="fn_149"></span>[129:31](hou08.htm#fr_149.md) Several of them
 write to Boggs: 'There is no crime, from treason down to petit larceny,
 but these people, or a majority of them, have been guilty of; all, too,
 under the counsel of Joseph Smith, Jr, the prophet. They have committed
@@ -1222,12 +1222,12 @@ Brig.-Gen. Parks of Ray has been ordered to have 400 men of his brigade
 in readiness to join you at Richmond. The whole force will be placed
 under your command.'
 
-<span id="fn_150"></span>[130:32](hou08.htm#fr_150) 'The governor's
+<span id="fn_150"></span>[130:32](hou08.htm#fr_150.md) 'The governor's
 orders and these military movements were kept an entire secret from the
 citizens of Caldwell and Daviess…even the mail was withheld from Far
 West.' *Pratt's Autobiography*, 200.
 
-<span id="fn_151"></span>[130:33](hou08.htm#fr_151) 'This letter of the
+<span id="fn_151"></span>[130:33](hou08.htm#fr_151.md) 'This letter of the
 governor's was extremely unguarded, and seems to have been too literally
 construed…Making all due allowance for the exasperated state of the
 public mind, these threats of extermination sound a little too savage in
@@ -1236,13 +1236,13 @@ to the idea that the saints were the victims of a cruel and unrelenting
 religious persecution, and furnished them with one of the surest means
 of future success.' *Ferris’ Utah and the Mormons*, 90-1.
 
-<span id="fn_152"></span>[130:34](hou08.htm#fr_152) 'About the time that
+<span id="fn_152"></span>[130:34](hou08.htm#fr_152.md) 'About the time that
 Lucas came out to Far West, Smith assembled the Mormon troops, and said
 that for every one they lacked in number of those who came out among
 them, the Lord would send angels, who would fight for them, and they
 should be victorious.' *Kidder's Mormonism*, 143.
 
-<span id="fn_153"></span>[131:35](hou08.htm#fr_153) They were 'confined
+<span id="fn_153"></span>[131:35](hou08.htm#fr_153.md) They were 'confined
 to the limits of the town for about a week.' During this time much
 property was destroyed, and women abused. The number of arms taken was
 630, besides swords and pistols, worth between $12,000 and $15,000.
@@ -1269,13 +1269,13 @@ railing, raging, and foaming like a troubled sea, then could some idea
 be formed of the hell which we had entered.' *Pratt's Autobiography*,
 204. See *Young's Woman's Experience*, MS.; *Horne's Migrations*, MS.
 
-<span id="fn_154"></span>[132:36](hou08.htm#fr_154) Pratt says that
+<span id="fn_154"></span>[132:36](hou08.htm#fr_154.md) Pratt says that
 Clark has been commended by some writers for his heroic merciful, and
 prudent conduct toward the Mormons, but that the truth is that he openly
 avowed his approval of all the proceedings of Gen. Lucas, and said that
 he should not alter his decrees. *Autobiography*, 227-8.
 
-<span id="fn_155"></span>[132:37](hou08.htm#fr_155) It runs as follows:
+<span id="fn_155"></span>[132:37](hou08.htm#fr_155.md) It runs as follows:
 'Gentlemen, You whose names are not attached to this list of names will
 now have the privilege of going to your fields to obtain corn for your
 families, wood, etc. Those that are now taken will go from thence to
@@ -1297,7 +1297,7 @@ the state, and had your leaders not been given up and the treaty
 complied with before this, you and your families would have been
 destroyed, and your houses in ashes.'
 
-<span id="fn_156"></span>[132:38](hou08.htm#fr_156) Pratt says in his
+<span id="fn_156"></span>[132:38](hou08.htm#fr_156.md) Pratt says in his
 *Autobiography*, p. 210, that a revelation to Joseph Smith buoyed up
 their spirits continually during their captivity. 'As we arose and
 commenced our march on the morning of the 3d of November, Joseph Smith
@@ -1312,7 +1312,7 @@ cold, open, unfinished court-house, in which situation they remained for
 some weeks, while their families were suffering severe privations.'
 *Id*., 227.
 
-<span id="fn_157"></span>[132:39](hou08.htm#fr_157) A court of inquiry
+<span id="fn_157"></span>[132:39](hou08.htm#fr_157.md) A court of inquiry
 was instituted at Richmond before Judge Austin A. King, lasting from the
 11th to 28th of November. Pratt says: 'The judge could not be prevailed
 on to examine the conduct of the murderers and robbers <span
@@ -1332,7 +1332,7 @@ Chase, Norman Shearer, and myself were committed to the jail of
 Richmond, Ray co., for the alleged crime of murder, said to be committed
 in the act of dispersing the bandit Bogart and his gang.' *Id*., 230-3.
 
-<span id="fn_158"></span>[133:40](hou08.htm#fr_158) Ingloriously
+<span id="fn_158"></span>[133:40](hou08.htm#fr_158.md) Ingloriously
 conspicuous in the Missouri persecutions were generals Clark, Wilson,
 and Lucas, Colonel Price, Captain Bogart, and Cornelius Gilliam, 'whose
 zeal in the cause of oppression and injustice,' says Smith, 'was
@@ -1343,14 +1343,14 @@ executive of the state, who to hide his own iniquity must of course
 shield and protect those whom he employed to carry into effect his
 murderous purposes.' *Times and Seasons*, i. 7.
 
-<span id="fn_159"></span>[133:41](hou08.htm#fr_159) Pages of evidence,
+<span id="fn_159"></span>[133:41](hou08.htm#fr_159.md) Pages of evidence,
 both Mormon and anti-Mormon, might be given, and can indeed at any time
 be produced, to prove the commission of innumerable wrongs and revolting
 atrocities on the part of the people of Missouri, while abetted therein
 by state forces, commanded by state officers, and all under guidance of
 the state governor.
 
-<span id="fn_160"></span>[133:42](hou08.htm#fr_160) There is abundance
+<span id="fn_160"></span>[133:42](hou08.htm#fr_160.md) There is abundance
 of testimony from disinterested sources, even from the opposers of
 Mormonism themselves, to prove the persecution on the part of the people
 of Missouri unjust and outrageous. I will quote only three from many
@@ -1404,14 +1404,14 @@ the subject rightly taken by the people of Illinois and of the world,
 though it may have been wrongfully applied in favor of the cause of the
 persecuted.' *Tucker's Mormonism*, 166.
 
-<span id="fn_161"></span>[134:43](hou08.htm#fr_161) A memorial was sent
+<span id="fn_161"></span>[134:43](hou08.htm#fr_161.md) A memorial was sent
 to the legislature of Missouri, dated Far West, Dec. 10, 1838, setting
 forth these facts, and praying that the governor's novel, unlawful,
 tyrannical, and oppressive order be rescinded. It was signed by Edward
 Partridge, Heber C. Kimball, John Taylor, Theodore Turley, Brigham
 Young, Isaac Morley, George W. Harris, John Murdock, John M. Burk.
 
-<span id="fn_162"></span>[135:44](hou08.htm#fr_162) 'On the 20th of
+<span id="fn_162"></span>[135:44](hou08.htm#fr_162.md) 'On the 20th of
 April, 1839, the last of the society departed from Far West. Thus had a
 whole people, variously estimated at from ten to fifteen <span
 id="page_136">p. 136</span> thousand souls, been driven from houses and
@@ -1419,10 +1419,10 @@ lands and reduced to poverty, and had removed to another state, daring
 one short winter and part of a spring. The sacrifice of property was
 immense.' *Pratt's Autobiography*, 245.
 
-<span id="fn_163"></span>[137:45](hou08.htm#fr_163) *Pratt's Persecution
+<span id="fn_163"></span>[137:45](hou08.htm#fr_163.md) *Pratt's Persecution
 of the Saints*, 185.
 
-<span id="fn_164"></span>[137:46](hou08.htm#fr_164) 'On my return to
+<span id="fn_164"></span>[137:46](hou08.htm#fr_164.md) 'On my return to
 this city,' writes Lucas from the executive office at Burlington, Iowa,
 'after a few weeks' absence in the interior of the territory, I received
 your letter of the 25th ult. \[Feb. 1839\], in which you give a short
@@ -1495,7 +1495,7 @@ the Mormons had been let alone by the citizens, they would have divided
 and subdivided, so as to have completely destroyed themselves and their
 power as a people in a short time.'
 
-<span id="fn_165"></span>[139:47](hou08.htm#fr_165) In 1839 Carlin was
+<span id="fn_165"></span>[139:47](hou08.htm#fr_165.md) In 1839 Carlin was
 governor of Illinois, and on him the governor of Missouri made a formal
 demand for the surrender to the authorities of Smith and Rigdon, but
 little attention was paid to it. One of the most complete documents
@@ -1561,13 +1561,13 @@ in Utah,* 60; *Lee's* *Mormonism,* 55-96; *Tullidge's Women*, 116-74;
 *Kidder's Mormonism,* 133-5; *Iowa Frontier Guardian, M*arch 21, 1849;
 *Rabbison's Growth of Towns,* MS, 2-5.
 
-<span id="fn_166"></span>[140:48](hou08.htm#fr_166) 'Since their
+<span id="fn_166"></span>[140:48](hou08.htm#fr_166.md) 'Since their
 expulsion from Missouri a portion of them, about one hundred families,
 have settled in Lee county, Iowa Territory, and are generally considered
 industrious, inoffensive, and worthy citizens.' *Letter from Robert
 Lucas, governor of Iowa, to A. Ripley*, dated Jan. 4, 1840.
 
-<span id="fn_167"></span>[141:49](hou08.htm#fr_167) 'Nauvoo was one of
+<span id="fn_167"></span>[141:49](hou08.htm#fr_167.md) 'Nauvoo was one of
 the names of one of the numerous petty chiefs in British India.'
 *Ferris’ The Mor*., 97. 'Nauvoo is a Hebrew word, and signifies a
 beautiful habitation for man, carrying with it the idea of rest; it is
@@ -1583,10 +1583,10 @@ id="page_142">p. 142</span> place for all the saints, and in that
 delightful country they *expect* to find their Eden, and build the New
 Jerusalem.' *Bennett's Mormonism Exp*., 192-3.
 
-<span id="fn_168"></span>[142:50](hou08.htm#fr_168) See J. D. Hunter's
+<span id="fn_168"></span>[142:50](hou08.htm#fr_168.md) See J. D. Hunter's
 letter of Dec. 26, 1839, from Jackson county, Ill., in *Times and
 Seasons*, i. 59.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Story of Mormonism. 1840-1844.](hou09)
+[Next: Chapter VI. The Story of Mormonism. 1840-1844.](hou09.md)

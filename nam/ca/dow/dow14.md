@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow13)  [Next](dow15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow13)  [Next](dow15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -116,7 +116,7 @@ and told *Mol'-luk* his
 <span id="img_06900"></span> <span align="CENTER">
 [![&lt;i&gt;Mol'-luk&lt;/i&gt; the Condor looking off over the World
 from his Rock on Mount Diablo](tn/06900.jpg)  
-Click to enlarge](img/06900.jpg)  
+Click to enlarge](img/06900.jpg.md)  
 *Mol'-luk* the Condor looking off over the World from his Rock on Mount
 Diablo  
 </span>
@@ -223,4 +223,4 @@ medicine, and the hollow branches music.
 
 ------------------------------------------------------------------------
 
-[Next: *Ke'-lok* and his *Han-na'-boo*](dow15)
+[Next: *Ke'-lok* and his *Han-na'-boo*](dow15.md)

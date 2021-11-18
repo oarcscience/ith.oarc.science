@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat19)  [Next](jat21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat19)  [Next](jat21.md) 
 
 ------------------------------------------------------------------------
 
-### 18. THE MAN WHO HELPED THE EAGLES. <span id="fr_32"></span>[4](#fn_32)
+### 18. THE MAN WHO HELPED THE EAGLES. <span id="fr_32"></span>[4](#fn_32.md)
 
 An Apache was very poor and went about among the Pueblo Indians picking
 up the food they threw away. That was all he had to eat.
@@ -70,7 +70,7 @@ say bad words against the people," they told him.
 
 ### Footnotes
 
-<span id="fn_32"></span>[210:4](jat20.htm#fr_32) Under the title, The
+<span id="fn_32"></span>[210:4](jat20.htm#fr_32.md) Under the title, The
 Great Shell of Kintyel, Matthews gives this story in a different
 locality and with additional details. It is the myth explaining the
 origin of the Bead Chant, pp. 195-208. The San Carlos have a ceremony
@@ -79,4 +79,4 @@ was Naiyenesgani.
 
 ------------------------------------------------------------------------
 
-[Next: 19. The Bear-Man](jat21)
+[Next: 19. The Bear-Man](jat21.md)

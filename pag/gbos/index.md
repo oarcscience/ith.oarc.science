@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@
 </tbody>
 </table>
 
-[Contents](#contents)    [Start Reading](gbos00)
+[Contents](#contents)    [Start Reading](gbos00.md)
 
 ------------------------------------------------------------------------
 
@@ -41,52 +41,52 @@ from 1949 to 1961.
 The copyright status of this text can best be described as 'orphaned.'
 This version was compiled by Aidan A. Kelly. It was originally posted on
 the Internet in the mid-90s as part of the [Internet Book of
-Shadows](../../bos/index) material. Text in square brackets is Kelly's
+Shadows](../../bos/index.md) material. Text in square brackets is Kelly's
 commentary.
 
 <span id="contents"></span>
 
 ------------------------------------------------------------------------
 
-[Casting the Circle](gbos00)  
-[Drawing Down the Moon](gbos01)  
-[The Charge](gbos02)  
-[Initiation: First Degree](gbos03)  
-[Initiation: Second Degree](gbos04)  
-[Initiation: Third Degree](gbos05)  
-[Cakes and Wine](gbos06)  
-[The Sabbat Rituals: November Eve](gbos07)  
-[The Sabbat Rituals: February Eve](gbos08)  
-[The Sabbat Rituals: May Eve](gbos09)  
-[The Sabbat Rituals: August Eve](gbos10)  
-[On Chants](gbos11)  
-[To Help the Sick](gbos12)  
-[The Scourge and the Kiss](gbos13)  
-[The Priestess and the Sword](gbos14)  
-[The Warning](gbos15)  
-[Of the Ordeal of the Art Magical](gbos16)  
-[The Eightfold Way](gbos17)  
-[To Gain the Sight](gbos18)  
-[Power](gbos19)  
-[Properly Prepared](gbos20)  
-[The Meeting Dance](gbos21)  
-[To Leave the Body](gbos22)  
-[The Working Tools](gbos23)  
-[Skyclad](gbos24)  
-[A Revision of the Casting Procedure](gbos25)  
-[The Prose Charge](gbos26)  
-[Cakes and Wine](gbos27)  
-[The Sabbat Rituals: Spring Equinox](gbos28)  
-[The Sabbat Rituals: Summer Solstice](gbos29)  
-[The Sabbat Rituals: Autumn Equinox](gbos30)  
-[The Sabbat Rituals: Winter Solstice](gbos31)  
-[The Eightfold Path or Ways](gbos32)  
-[The First-Degree Initiation](gbos33)  
-[The Second-Degree Initiation](gbos34)  
-[The Third-Degree Initiation](gbos35)  
-[The Witches' Chant or Rune](gbos36)  
-[Consecrating Tools](gbos37)  
-[The Old Laws](gbos38)  
-[The Verse Charge](gbos39)  
-[Casting and Charging](gbos40)  
-[Forming the Circle](gbos41)  
+[Casting the Circle](gbos00.md)  
+[Drawing Down the Moon](gbos01.md)  
+[The Charge](gbos02.md)  
+[Initiation: First Degree](gbos03.md)  
+[Initiation: Second Degree](gbos04.md)  
+[Initiation: Third Degree](gbos05.md)  
+[Cakes and Wine](gbos06.md)  
+[The Sabbat Rituals: November Eve](gbos07.md)  
+[The Sabbat Rituals: February Eve](gbos08.md)  
+[The Sabbat Rituals: May Eve](gbos09.md)  
+[The Sabbat Rituals: August Eve](gbos10.md)  
+[On Chants](gbos11.md)  
+[To Help the Sick](gbos12.md)  
+[The Scourge and the Kiss](gbos13.md)  
+[The Priestess and the Sword](gbos14.md)  
+[The Warning](gbos15.md)  
+[Of the Ordeal of the Art Magical](gbos16.md)  
+[The Eightfold Way](gbos17.md)  
+[To Gain the Sight](gbos18.md)  
+[Power](gbos19.md)  
+[Properly Prepared](gbos20.md)  
+[The Meeting Dance](gbos21.md)  
+[To Leave the Body](gbos22.md)  
+[The Working Tools](gbos23.md)  
+[Skyclad](gbos24.md)  
+[A Revision of the Casting Procedure](gbos25.md)  
+[The Prose Charge](gbos26.md)  
+[Cakes and Wine](gbos27.md)  
+[The Sabbat Rituals: Spring Equinox](gbos28.md)  
+[The Sabbat Rituals: Summer Solstice](gbos29.md)  
+[The Sabbat Rituals: Autumn Equinox](gbos30.md)  
+[The Sabbat Rituals: Winter Solstice](gbos31.md)  
+[The Eightfold Path or Ways](gbos32.md)  
+[The First-Degree Initiation](gbos33.md)  
+[The Second-Degree Initiation](gbos34.md)  
+[The Third-Degree Initiation](gbos35.md)  
+[The Witches' Chant or Rune](gbos36.md)  
+[Consecrating Tools](gbos37.md)  
+[The Old Laws](gbos38.md)  
+[The Verse Charge](gbos39.md)  
+[Casting and Charging](gbos40.md)  
+[Forming the Circle](gbos41.md)  

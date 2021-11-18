@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb12)  [Next](gnfb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb12)  [Next](gnfb14.md) 
 
 </div>
 
@@ -972,6 +972,6 @@ Comte de Caylus.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Ring](gnfb14)
+[Next: The Enchanted Ring](gnfb14.md)
 
 </div>

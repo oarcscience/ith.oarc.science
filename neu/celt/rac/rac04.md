@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](rac03)  [Next](rac05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](rac03)  [Next](rac05.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ spite of alteration and excision, is based on divine and heroic myths,
 and it also contains occasional notices of ritual. From Wales come
 documents like the *Mabinogion*, and strange poems the personages of
 which are ancient gods transformed, but which tell nothing of rite or
-cult. <span id="fr_1"></span>[1](#fn_1) Valuable hints are furnished by
+cult. <span id="fr_1"></span>[1](#fn_1.md) Valuable hints are furnished by
 early ecclesiastical documents, but more important is existing
 folk-custom, which preserves so much of the old cult, though it has lost
 its meaning to those who now use it. Folk-tales may also be inquired of,
@@ -54,7 +54,7 @@ rite or magic art. For the things of the spirit have never appealed in
 vain to the Celtic soul, and long ago classical observers were struck
 with the religiosity of the Celts. They neither forgot nor transgressed
 the law of the gods, and they thought that no good befell men apart from
-their will. <span id="fr_2"></span>[2](#fn_2) The submission of the
+their will. <span id="fr_2"></span>[2](#fn_2.md) The submission of the
 Celts to the Druids shows how they welcomed authority in matters of
 religion, and all Celtic regions have been characterised by religious
 devotion, easily passing over to superstition, and by loyalty to ideals
@@ -111,9 +111,9 @@ work, since many of these are female. In spite of possessing so many
 local war-gods, the Celts were not merely men of war. Even the *equites*
 engaged in war only when occasion arose, and agriculture as well as
 pastoral industry was constantly practised, both in Gaul and Britain,
-before the conquest. <span id="fr_3"></span>[1](#fn_3) In Ireland, the
+before the conquest. <span id="fr_3"></span>[1](#fn_3.md) In Ireland, the
 belief in the dependence of fruitfulness upon the king, shows to what
-extent agriculture flourished there. <span id="fr_4"></span>[2](#fn_4)
+extent agriculture flourished there. <span id="fr_4"></span>[2](#fn_4.md)
 Music, poetry, crafts, and trade gave rise to culture divinities,
 perhaps evolved from gods of growth, since later myths attributed to
 them both the origin of arts and crafts, and the introduction of
@@ -213,24 +213,24 @@ Christian tolerance and Christian sympathy.
 
 ### Footnotes
 
-<span id="fn_1"></span>[2:1](rac04.htm#fr_1) Some writers saw in the
+<span id="fn_1"></span>[2:1](rac04.htm#fr_1.md) Some writers saw in the
 bardic poetry a Druidic-esoteric system and traces of a cult practised
 secretly by the bards--the "Neo-Druidic heresy"; see Davies, *Myth. of
 the Brit. Druids*, 1809; Herbert, *The Neo-Druidic Heresy*, 1838.
 Several French writers saw in "Druidism" a monotheistic faith, veiled
 under polytheism.
 
-<span id="fn_2"></span>[2:2](rac04.htm#fr_2) Livy, v. 46; Cæsar, vi. 16;
+<span id="fn_2"></span>[2:2](rac04.htm#fr_2.md) Livy, v. 46; Cæsar, vi. 16;
 Dion. Hal. vii. 70; Arrian, *Cyneg*. xxxv. 1.
 
-<span id="fn_3"></span>[4:1](rac04.htm#fr_3) Cæsar, vi. 15, cf. v. 12,
+<span id="fn_3"></span>[4:1](rac04.htm#fr_3.md) Cæsar, vi. 15, cf. v. 12,
 "having waged war, remained there and cultivated the lands."
 
-<span id="fn_4"></span>[4:2](rac04.htm#fr_4) Cf. Pliny, *HN* xvii. 7,
+<span id="fn_4"></span>[4:2](rac04.htm#fr_4.md) Cf. Pliny, *HN* xvii. 7,
 xviii. 18 on the wheeled ploughs and agricultural methods of Gauls and
 Britons. Cf. also Strabo, iv. l. 2, iv. 5. 5; Girald. Camb. *Top. Hib.*
 i. 4, *Descr. Camb.* i. 8; Joyce, *SH* ii 264.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Celtic People](rac05)
+[Next: Chapter II. The Celtic People](rac05.md)

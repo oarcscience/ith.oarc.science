@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof03)  [Next](sof05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof03)  [Next](sof05.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head02.png"></span> ![Header Chapter II.](img/head02.png)
+<span id="img_head02.png"></span> ![Header Chapter II.](img/head02.png.md)
 
 ## II.
 
@@ -31,7 +31,7 @@ from their common father, and which he must have derived from the line
 of patriarchs who preceded him. These truths were the doctrine of the
 existence of a Supreme Intelligence, the Creator, Preserver, and Ruler
 of the Universe, and, as a necessary corollary, the belief in the
-immortality of the soul [1](sof37.htm#xref_1), which, as an emanation
+immortality of the soul [1](sof37.htm#xref_1.md), which, as an emanation
 from that primal cause, was to be distinguished, by a future and eternal
 life, from the vile and perishable dust which forms its earthly
 tabernacle.
@@ -44,11 +44,11 @@ independently of any other authority than that of reason.
 The religious sentiment, so far, at least, as it relates to the belief
 in the existence of God, appears to be in some sense innate, or
 instinctive, and consequently universal in the human
-mind [2](sof37.htm#xref_2). There is no record of any nation, however
+mind [2](sof37.htm#xref_2.md). There is no record of any nation, however
 intellectually and morally debased, that has not given some evidence of
 a tendency to such belief. The sentiment may be perverted, the idea may
 be grossly corrupted, but it is nevertheless there, and shows the source
-whence it sprang [3](sof37.htm#xref_3).
+whence it sprang [3](sof37.htm#xref_3.md).
 
 Even in the most debased forms of fetichism, where the negro kneels in
 reverential awe before the shrine of some uncouth and misshapen idol,
@@ -56,7 +56,7 @@ which his own hands, perhaps, have made, the act of adoration, degrading
 as the object may be, is nevertheless an acknowledgment of the longing
 need of the worshipper to throw himself upon the support of some unknown
 power higher than his own sphere. And this unknown power, be it what it
-may, is to him a God. [4](sof37.htm#xref_4)
+may, is to him a God. [4](sof37.htm#xref_4.md)
 
 But just as universal has been the belief in the immortality of the
 soul. This arises from the same longing in man for the infinite; and
@@ -89,6 +89,6 @@ dogmas.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Primitive Freemasonry of Antiquity](sof05)
+[Next: III. The Primitive Freemasonry of Antiquity](sof05.md)
 
 </div>

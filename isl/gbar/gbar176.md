@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar175) [Next](gbar177)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar175) [Next](gbar177.md)
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ another, shall not produce ought of envy.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar177)
+[Next](gbar177.md)

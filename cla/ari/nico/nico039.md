@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico038) 
-[Next](nico040) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico038.md) 
+[Next](nico040.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ must cling to the middle state.--Enough of the states relative to anger.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6. Friendliness, obsequiousness, churlishness](nico040)
+[Next: Chapter 6. Friendliness, obsequiousness, churlishness](nico040.md)

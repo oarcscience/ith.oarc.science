@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai25) 
-[Next](phai27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai25.md) 
+[Next](phai27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -128,7 +128,7 @@ Just in proportion as Hellenism showed itself friendly did it present
 elements of danger to Judaism. From the periphery it slowly advanced
 towards the centre, from the diaspora to Jerusalem, from mere matters of
 external fashion to matters of the most profound conviction. <span
-id="fr_265"></span>[1](#fn_265) Especially did the upper and cultivated
+id="fr_265"></span>[1](#fn_265.md) Especially did the upper and cultivated
 classes of society begin to feel ashamed, in presence of the refined
 Greeks, of their Jewish singularity, and to do all in their power to
 tone it down and conceal it. In this the priestly nobility made itself
@@ -225,10 +225,10 @@ joined by the party of the Asidæans (*i.e.*, pious ones).
 
 ### Footnotes
 
-<span id="fn_265"></span>[516:1](phai26.htm#fr_265) The Hellenising
+<span id="fn_265"></span>[516:1](phai26.htm#fr_265.md) The Hellenising
 fashion is amusingly exemplified in the Grecising of the Jewish names;
 *e.g.*, Alcimus = Eljakim, Jason = Jesus, Joshua; Menelaus = Menahem.
 
 ------------------------------------------------------------------------
 
-[Next: 13. The Hasmonæans.](phai27)
+[Next: 13. The Hasmonæans.](phai27.md)

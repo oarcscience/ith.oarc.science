@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw18)  [Next](sahw20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw18)  [Next](sahw20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -49,13 +49,13 @@ therefore, which the Shinshu offers to Amida, must be considered as
 
 including that which is supposed to be due to every other Being that is
 set up as claiming the worship of man. <span
-id="fr_103"></span>[\*](#fn_103)
+id="fr_103"></span>[\*](#fn_103.md)
 
 But when a Shinshuist goes to places of worship belonging to other sects
 and religions, he must treat the worship he finds there with respect and
 reverence, and he must not think that, by bowing before the image of
 Kwannon, or Fudō, or Benten, he is taking away from the honour due to
-Amida alone. <span id="fr_104"></span>[†](#fn_104)
+Amida alone. <span id="fr_104"></span>[†](#fn_104.md)
 
 In *Shinshu Seikun*, *Keijin* forms a portion of the chapter on human
 life.
@@ -80,15 +80,15 @@ manages his own house: the King's Law is the honoured guest
 consideration. The visitors are not always alike in appearance and
 character (some birds have long legs and some short); but the
 householder receives them all alike. The Religious Law is always the
-same. It is based on the *gokai*, <span id="fr_105"></span>[\*](#fn_105)
+same. It is based on the *gokai*, <span id="fr_105"></span>[\*](#fn_105.md)
 the five commandments of Buddhism, which correspond to the well-known
 five principles of Confucianism *jin*, *gi*, *rei*, *chi*, *shin* <span
-id="fr_106"></span>[†](#fn_106). It adapts itself to the various
+id="fr_106"></span>[†](#fn_106.md). It adapts itself to the various
 circumstances of human life. Its presence in a man may be known by his
 observance of the King's Law.
 
 II\. The second part concerns itself with the care we should have whilst
-in the world. (*Shose no yōjin*) <span id="fr_107"></span>[‡](#fn_107).
+in the world. (*Shose no yōjin*) <span id="fr_107"></span>[‡](#fn_107.md).
 We live in the world, of human beings, we must have sympathy and
 long-suffering; else human intercourse becomes impossible. But sympathy
 and long-suffering are not the only essentials of human life. Man, it is
@@ -192,13 +192,13 @@ a period anterior to the advent of Christian missionaries in Japan.
 
 ### Footnotes
 
-<span id="fn_103"></span>[124:\*](sahw19.htm#fr_103) This is true as a
+<span id="fn_103"></span>[124:\*](sahw19.htm#fr_103.md) This is true as a
 general rule. I have noticed one exception in Shinshu practice. At a
 Shinshu funeral, of which I shall give an account later on, there is an
 invocation of "all the Buddhas," an invocation which, according to the
 strict interpretation of the Shinshu doctrine, must be unnecessary.
 
-<span id="fn_104"></span>[124:†](sahw19.htm#fr_104) It was doubtless
+<span id="fn_104"></span>[124:†](sahw19.htm#fr_104.md) It was doubtless
 *Keijin* that prompted a Buddhist priest to offer hospitality to the
 newly landed Jesuit missionaries in the sixteenth century, with
 permission to use his temple for the preaching of Christianity. When the
@@ -212,12 +212,12 @@ their purpose. There is reason to believe that, in the 7th and 8th
 centuries, Christianity was looked upon merely as a variant form of
 Buddhism.
 
-<span id="fn_105"></span>[125:\*](sahw19.htm#fr_105) \#.
+<span id="fn_105"></span>[125:\*](sahw19.htm#fr_105.md) \#.
 
-<span id="fn_106"></span>[125:†](sahw19.htm#fr_106) \#.
+<span id="fn_106"></span>[125:†](sahw19.htm#fr_106.md) \#.
 
-<span id="fn_107"></span>[125:‡](sahw19.htm#fr_107) \#.
+<span id="fn_107"></span>[125:‡](sahw19.htm#fr_107.md) \#.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. The Shinshu on Faith-healing.](sahw20)
+[Next: Chapter XVIII. The Shinshu on Faith-healing.](sahw20.md)

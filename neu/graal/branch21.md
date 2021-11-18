@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch20) 
-[Next](branch22) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch20.md) 
+[Next](branch22.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -718,5 +718,5 @@ and full of discontent.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XXII](branch22)  
+XXII](branch22.md)  
 </span>

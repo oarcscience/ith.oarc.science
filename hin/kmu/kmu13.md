@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](kmu12)  [Next](kmu14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](kmu12)  [Next](kmu14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ water, a leaf of bel and cheek-slap sounds only please Him the most. We
 have no second thing to offer to Him, the Atman or Soul is the only
 object of His offer. In His well-known hymn of salutation we find the
 following expression:—'We bow Thee down O God, full of infinite
-[welfare](errata.htm#36) and calmness and the root cause of all the
+[welfare](errata.htm#36.md) and calmness and the root cause of all the
 three worlds. I offer my soul unto Thee. Thou God of gods and Goal of
 all." Surrendering of the Self is His only mode of worship, which
 transform an earthly being to Divine being full of heavenly bliss. Hence
@@ -102,7 +102,7 @@ staying quite unhappy. At this
 <span id="page_141">p. 141</span>
 
 moment some words were heard to be uttered in the
-[Ethereal](errata.htm#37) plane that "If this blazing Symbol of Divine
+[Ethereal](errata.htm#37.md) plane that "If this blazing Symbol of Divine
 vigour be worshipped by all it would be pleased and the horrible temper
 would be transformed into broad calmness to the entire welfare of the
 world. By worshipping the Symbol all would worship God Siva. Thereupon
@@ -146,7 +146,7 @@ network of tissues is called the
 
 <span id="page_143">p. 143</span>
 
-thousand [petalled](errata.htm#38) lotus or Sahasrar.
+thousand [petalled](errata.htm#38.md) lotus or Sahasrar.
 
 This is what we find in physiological structures. Inside the hollow
 canal known as Susumna three concentric nerve tissues equally hollow
@@ -203,4 +203,4 @@ From The A. B. Patrika
 
 ------------------------------------------------------------------------
 
-[Next: Rev. Leadbeater Off the Trail](kmu14)
+[Next: Rev. Leadbeater Off the Trail](kmu14.md)

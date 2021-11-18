@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](row02)  [Next](row04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](row02)  [Next](row04.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ of witches. But along with this black magic she introduced white magic .
 
 ------------------------------------------------------------------------
 
-[Next: Strange Evolution For Getting Rid of Evil Spirits](row04)
+[Next: Strange Evolution For Getting Rid of Evil Spirits](row04.md)

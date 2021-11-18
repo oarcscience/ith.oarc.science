@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm06)  [Next](tmm08) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm06)  [Next](tmm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -718,7 +718,7 @@ black man; just as when a man has the audacity to coin the king's
 currency in the king's own palace his face is blackened as a punishment
 and his issue is declared counterfeit --Gen. Rabba 37-
 
-Artaban <span id="fr_17"></span>[1](#fn_17) sent Rabbi Judah Hanasa as a
+Artaban <span id="fr_17"></span>[1](#fn_17.md) sent Rabbi Judah Hanasa as a
 present a pearl of great value, and when be asked the Rabbi a present of
 equal value in return, the sage sent him a parchment (Ephesian letters).
 Artaban thought it unworthy, since his own gift was of such priceless
@@ -1153,9 +1153,9 @@ served his community.--Gen. Rabba 100.
 
 ### Footnotes
 
-<span id="fn_17"></span>[76:1](tmm07.htm#fr_17) See Rapoport's *Erech
+<span id="fn_17"></span>[76:1](tmm07.htm#fr_17.md) See Rapoport's *Erech
 Millin* as to Artaban.
 
 ------------------------------------------------------------------------
 
-[Next: Exodus Rabba](tmm08)
+[Next: Exodus Rabba](tmm08.md)

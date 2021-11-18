@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku06)  [Next](tku08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku06)  [Next](tku08.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ congregation of Israel.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](tku08)
+[Next: Chapter V](tku08.md)

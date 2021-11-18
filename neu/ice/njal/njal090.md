@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal089)  [Next](njal091) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal089)  [Next](njal091.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ beat him black and blue."
 
 ------------------------------------------------------------------------
 
-[Next: 91. Thrain Sigfus' Son's Slaying](njal091)
+[Next: 91. Thrain Sigfus' Son's Slaying](njal091.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo12)  [Next](hoo14) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo12)  [Next](hoo14.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,20 +7,20 @@
 
 ###### VIII.
 
-### TO THE MOON <span id="fr_56"></span>[\*](#fn_57).
+### TO THE MOON <span id="fr_56"></span>[\*](#fn_57.md).
 
 ###### The FUMIGATION from AROMATICS.
 
 HEAR, Goddess queen, diffusing silver light,  
 Bull-horn'd and wand'ring thro' the gloom of Night.  <span
-id="fr_57"></span>[2](#fn_56)
+id="fr_57"></span>[2](#fn_56.md)
 
 <span id="page_125">p. 125</span>
 
 With stars surrounded, and with circuit wide  
 Night's torch extending, thro' the heav'ns you ride:  
 Female and Male with borrow'd rays you shine, 5  <span
-id="fr_58"></span>[5](#fn_58)  
+id="fr_58"></span>[5](#fn_58.md)  
 And now full-orb'd, now tending to decline.  
 Mother of ages, fruit-producing Moon,  
 Whose amber orb makes Night's reflected noon:
@@ -33,7 +33,7 @@ Lover of vigilance, the foe of strife,
 In peace rejoicing, and a prudent life:  
 Fair lamp of Night, its ornament and friend,  
 Who giv'st to Nature's works their destin'd end.  <span
-id="fr_59"></span>[14](#fn_59)  
+id="fr_59"></span>[14](#fn_59.md)  
 Queen of the stars, all-wife Diana hail! 15  
 Deck'd with a graceful robe and shining veil;  
 Come, blessed Goddess, prudent, starry, bright,  
@@ -45,11 +45,11 @@ And pleas'd accept thy suppliant's mystic praise.
 
 ### Footnotes
 
-<span id="fn_56"></span>[124:2](hoo13.htm#fr_57) Ver. 2.\]
+<span id="fn_56"></span>[124:2](hoo13.htm#fr_57.md) Ver. 2.\]
 *Bull-horned*. For the mystical reason of this appellation, see note to
 the third line, of the Hymn to Protogonus.
 
-<span id="fn_57"></span>[124:\*](hoo13.htm#fr_56) The Moon is called in
+<span id="fn_57"></span>[124:\*](hoo13.htm#fr_56.md) The Moon is called in
 this Hymn both σελυνη and μηνη: the former of which words signifies the
 Moon in the language of the Gods; and the latter is the appellation
 given to her by Men, as the following Orphic fragment evinces.
@@ -92,14 +92,14 @@ statutes, and allures the unevnying goodness of the Gods, in the same
 manner the science of divine concerns, signifies the occult essence of
 the God by the compositions and divisions of sounds.
 
-<span id="fn_58"></span>[125:5](hoo13.htm#fr_58) Ver. 5.\] Female and
+<span id="fn_58"></span>[125:5](hoo13.htm#fr_58.md) Ver. 5.\] Female and
 Male. This is not wonderful, since according to the fragment of Ficinus
 in this Dissertation, all souls and the celestial spheres are endued
 with a two-fold power, nostic and animating; one of which is male and
 the other female. And these epithets are perpetually occurring in the
 Orphic Initiations.
 
-<span id="fn_59"></span>[126:14](hoo13.htm#fr_59) Ver. 14.\] *Who giv'st
+<span id="fn_59"></span>[126:14](hoo13.htm#fr_59.md) Ver. 14.\] *Who giv'st
 to Nature's works*, &c. In the original it is τελεσφορος, i. e. bringing
 to an end. And Proclus in Theol. Plat. p. 483. informs us that Diana
 (who is the same with the Moon) is so called, because she finishes or
@@ -107,4 +107,4 @@ perfects the essential perfection of matter.
 
 ------------------------------------------------------------------------
 
-[Next: IX: To Nature](hoo14)
+[Next: IX: To Nature](hoo14.md)

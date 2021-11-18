@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr23)  [Next](ppr25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr23)  [Next](ppr25.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ for a place of joy!
 
 ------------------------------------------------------------------------
 
-[Next: Hymn Of Tla-loc (Mexican)](ppr25)
+[Next: Hymn Of Tla-loc (Mexican)](ppr25.md)

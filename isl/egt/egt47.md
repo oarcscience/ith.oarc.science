@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt46)  [Next](egt48) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt46)  [Next](egt48.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ and religions are not; such things exist not if the nature be pure.
 
 ------------------------------------------------------------------------
 
-[Next: ON FOLLOWING THE PATH OF THE HEREAFTER.](egt48)
+[Next: ON FOLLOWING THE PATH OF THE HEREAFTER.](egt48.md)

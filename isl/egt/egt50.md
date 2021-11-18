@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt49)  [Next](egt51) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt49)  [Next](egt51.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ is the veil before the friend's eyes, hiding the court of God's essence.
 
 ------------------------------------------------------------------------
 
-[Next: ON TRUST IN GOD.](egt51)
+[Next: ON TRUST IN GOD.](egt51.md)

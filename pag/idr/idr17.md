@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr16) 
-[Next](idr18) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr16.md) 
+[Next](idr18.md) 
 
 ------------------------------------------------------------------------
 
@@ -814,4 +814,4 @@ what we cannot explain?
 
 ------------------------------------------------------------------------
 
-[Next: Irish Magic, and Tuatha De Danaans](idr18)
+[Next: Irish Magic, and Tuatha De Danaans](idr18.md)

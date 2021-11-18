@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar08)  [Next](pktar10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar08)  [Next](pktar10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Hermit
 
 <span id="img_ar09"></span> <span align="CENTER"> [![](tn/ar09.jpg)  
-Click to enlarge](img/ar09.jpg)</span>
+Click to enlarge](img/ar09.jpg.md)</span>
 
 The variation from the conventional models in this card is only that the
 lamp is not enveloped partially in the mantle of its bearer, who blends
@@ -46,4 +46,4 @@ Mysteries secure their own protection from those who are unprepared.
 
 ------------------------------------------------------------------------
 
-[Next: X. Wheel of Fortune](pktar10)
+[Next: X. Wheel of Fortune](pktar10.md)

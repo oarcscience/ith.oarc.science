@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti49)  [Next](eti51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti49)  [Next](eti51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -202,7 +202,7 @@ been covered with water and soil during the time the energy bubble,
 which is the real bone of the globe, has been revolving through space;
 perhaps, could you reach the foundation of the earth dust, you would
 find it not a perfect sphere, but a compound skeleton, as of two bubbles
-locked, or rather telescoped together. \[See [Fig. 34](#img_28000).\]
+locked, or rather telescoped together. \[See [Fig. 34](#img_28000.md).\]
 
 "Are you sure that my guide did not lead me through the space between
 the bubbles?"
@@ -429,8 +429,8 @@ realm of fact."
 after swallowing the juice of the fungous fruit, so that you could not
 distinguish between the real guide at your side and the phantom that
 sprung into existence, is incredible. \[See [p.
-234](eti42.htm#page_234).\] An element of time is a factor in the
-operation of nerve impressions." <span id="fr_11"></span>[\*](#fn_11)
+234](eti42.htm#page_234.md).\] An element of time is a factor in the
+operation of nerve impressions." <span id="fr_11"></span>[\*](#fn_11.md)
 
 "Have you investigated all possible anæsthetics?" he asked.
 
@@ -572,7 +572,7 @@ Mole,—and like my guide, it is practically eyeless."
 
 "I do not like the way in which you constantly criticise science,
 especially in referring thereto the responsibilities of the crazed
-anatomist. <span id="fr_12"></span>[\*](#fn_12) It seems to me that he
+anatomist. <span id="fr_12"></span>[\*](#fn_12.md) It seems to me that he
 was a monomaniac, gifted, but crazed, and that science was unfortunate
 in being burdened with such an incubus."
 
@@ -1019,7 +1019,7 @@ was not sightless; surely," he said,
 
 <span id="img_29700"></span> <span align="CENTER"> [![WE PASSED THROUGH
 CAVERNS FILLED WITH CREEPING REPTILES.](tn/29700.jpg)  
-Click to enlarge](img/29700.jpg)  
+Click to enlarge](img/29700.jpg.md)  
 “WE PASSED THROUGH CAVERNS FILLED WITH CREEPING REPTILES.”  
 </span>
 
@@ -1248,7 +1248,7 @@ can do?"
 
 <span id="img_30300"></span> <span align="CENTER"> [![FLOWERS AND
 STRUCTURES BEAUTIFUL, INSECTS GORGEOUS.](tn/30300.jpg)  
-Click to enlarge](img/30300.jpg)  
+Click to enlarge](img/30300.jpg.md)  
 “FLOWERS AND STRUCTURES BEAUTIFUL, INSECTS GORGEOUS.”  
 </span>
 
@@ -1291,14 +1291,14 @@ He rose and bowed himself out.
 
 ### Footnotes
 
-<span id="fn_11"></span>[284:\*](eti50.htm#fr_11) It is well that
+<span id="fn_11"></span>[284:\*](eti50.htm#fr_11.md) It is well that
 reference was made to this point. Few readers would probably notice that
 Chapter XXXVI. begun a narcotic hallucination. J. U. L.
 
-<span id="fn_12"></span>[287:\*](eti50.htm#fr_12) This section (see [p.
-190](eti36.htm#page_190)) was excised, being too painful.—J. U. L.
+<span id="fn_12"></span>[287:\*](eti50.htm#fr_12.md) This section (see [p.
+190](eti36.htm#page_190).md) was excised, being too painful.—J. U. L.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XLIV. The Fathomless Abyss.—The Edge of the Earth
-Shell](eti51)
+Shell](eti51.md)

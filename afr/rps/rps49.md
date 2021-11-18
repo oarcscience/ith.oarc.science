@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps48)  [Next](rps50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps48)  [Next](rps50.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ HEAD OF THIS WORLD.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 47 a. Atlas Survayor](rps50)
+[Next: Chapter 47 a. Atlas Survayor](rps50.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc14)  [Next](ogc16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc14)  [Next](ogc16.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ and vice versa: hence they will all be one.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](ogc16)
+[Next: Chapter 6](ogc16.md)

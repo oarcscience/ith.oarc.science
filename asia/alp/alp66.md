@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp65) 
-[Next](alp67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp65.md) 
+[Next](alp67.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ While yet I live he is devouring me:
 I cannot bear this pain--Oh, set me free!  
 I am not dead--Love still dwells with me here.  
 I am alive--and some call me the "Ner." <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 Ah, gruesome bird, art thou not yet content  
 These ten long years my body to have rent?  
@@ -108,9 +108,9 @@ Ah, vulture black--black earth and ebon sky,
 
 ### Footnotes
 
-<span id="fn_11"></span>[100:1](alp66.htm#fr_11) "Ner"--the Antichrist,
+<span id="fn_11"></span>[100:1](alp66.htm#fr_11.md) "Ner"--the Antichrist,
 concerning whom the Armenians have many traditions.
 
 ------------------------------------------------------------------------
 
-[Next: Dance Song](alp67)
+[Next: Dance Song](alp67.md)

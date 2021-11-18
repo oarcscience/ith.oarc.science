@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa15)  [Next](spa17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa15)  [Next](spa17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
 
 ### AHMAD SHAH, ABDĀLĪ,
 
-#### SHAH DURR-I-DURRĀN. <span id="fr_339"></span>[\*](#fn_339)
+#### SHAH DURR-I-DURRĀN. <span id="fr_339"></span>[\*](#fn_339.md)
 
 <span class="smallcaps">Aḥmad Shāh</span>, the founder of the Durrānī
 monarchy, rose from the mere character of a partisan, to a distinguished
@@ -57,7 +57,7 @@ of between 2000 and 3000 horsemen, and repaired, by rapid marches, to
 and chief city of southwestern Af<u>gh</u>ānistān. Here he intercepted
 an immense treasure, which had been sent from India for the use of Nādir
 <u>Sh</u>āh, which Aḥmad appropriated, after compelling the Durrānīs,
-who had first [seized](errata.htm#6) upon it, to give it up.
+who had first [seized](errata.htm#6.md) upon it, to give it up.
 
 In October of the same year, Aḥmad, then but twenty-three years old,
 assumed the title of <u>Sh</u>āh or King of Af<u>gh</u>ānistān, and was
@@ -96,7 +96,7 @@ tranquillity, and appears to have had time to devote himself to
 literature. He used to hold, at stated periods, what is termed a
 Majlis-i-æulamā, or Assembly of the Learned, the early part of which was
 generally devoted to divinity and civil law—for Aḥmad <u>Sh</u>āh
-himself was a Molawī <span id="fr_340"></span>[\*](#fn_340)—and
+himself was a Molawī <span id="fr_340"></span>[\*](#fn_340.md)—and
 concluded with conversations on science and poetry. He wrote a
 Collection of Odes in Pu<u>s’h</u>to, his own native tongue, tinged, as
 usual, with the mysticisms of the Ṣūfis, and from that work the
@@ -145,7 +145,7 @@ The strength of Aḥmad <u>Sh</u>āh's army consisted of 41,800 horse, his
 own subjects, on whom he chiefly relied; 28,000 Rohilahs—Af<u>gh</u>āns,
 who were descended from those tribes who had emigrated from
 Af<u>gh</u>ānistān at different periods, and settled in India <span
-id="fr_341"></span>[\*](#fn_341)—and about 10,000 Hindūstānī troops,
+id="fr_341"></span>[\*](#fn_341.md)—and about 10,000 Hindūstānī troops,
 under their own chiefs. He had also 700 *zambūraks*, or camel swivels,
 small pieces carrying balls of about a pound weight, and a few pieces of
 artillery.
@@ -193,7 +193,7 @@ possession.
 <span id="page_292">p. 292</span>
 
 The character of Aḥmad <u>Sh</u>āh has been so admirably depicted by
-Mountstuart Elphinstone, <span id="fr_342"></span>[\*](#fn_342) that I
+Mountstuart Elphinstone, <span id="fr_342"></span>[\*](#fn_342.md) that I
 shall not hesitate to give it here in full.
 
 "The character of Aḥmad <u>Sh</u>āh appears to have been admirably
@@ -250,20 +250,20 @@ for all concerned.
 
 ### Footnotes
 
-<span id="fn_339"></span>[287:\*](spa16.htm#fr_339) Durr-i-Durrān
+<span id="fn_339"></span>[287:\*](spa16.htm#fr_339.md) Durr-i-Durrān
 signifies, "The Pearl of the Durrānīs," a name which the Abdālīs
 acquired from wearing pearls in their ears.
 
-<span id="fn_340"></span>[289:\*](spa16.htm#fr_340) A term equivalent to
+<span id="fn_340"></span>[289:\*](spa16.htm#fr_340.md) A term equivalent to
 Doctor of Literature or Divinity.
 
-<span id="fn_341"></span>[290:\*](spa16.htm#fr_341) Also called
+<span id="fn_341"></span>[290:\*](spa16.htm#fr_341.md) Also called
 Pa<u>tt</u>āns in India; but the name, like that of Rohilah, is
 applicable to Af<u>gh</u>āns generally.
 
-<span id="fn_342"></span>[292:\*](spa16.htm#fr_342) "<span
+<span id="fn_342"></span>[292:\*](spa16.htm#fr_342.md) "<span
 class="smallcaps">Account of the Kingdom of Caubul</span>."
 
 ------------------------------------------------------------------------
 
-[Next: The Poems of Aḥmad <u>Sh</u>āh, Abdālī](spa17)
+[Next: The Poems of Aḥmad <u>Sh</u>āh, Abdālī](spa17.md)

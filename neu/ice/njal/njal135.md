@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal134)  [Next](njal136) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal134)  [Next](njal136.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ the Eastfirthers rode to their own booths.
 
 ------------------------------------------------------------------------
 
-[Next: 136. Of Thorgeir Craggeir](njal136)
+[Next: 136. Of Thorgeir Craggeir](njal136.md)

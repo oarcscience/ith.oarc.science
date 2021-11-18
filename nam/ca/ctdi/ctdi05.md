@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ctdi04)  [Next](ctdi06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ctdi04)  [Next](ctdi06.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,9 +15,9 @@ assembled, related with an almost historical precision, the Diegueños
 find the sanction for each of their religious customs in some event in a
 myth. The first Image ceremony was performed to celebrate the death of
 Tuchaipa, when the people were still at Wikami; <span
-id="fr_8"></span>[1](#fn_9) but, no one knowing how to perform it, they
+id="fr_8"></span>[1](#fn_9.md) but, no one knowing how to perform it, they
 sent to a mysterious being, Maiheowit, who lived in the islands of the
-ocean, to ask him for instruction. <span id="fr_9"></span>[2](#fn_10)
+ocean, to ask him for instruction. <span id="fr_9"></span>[2](#fn_10.md)
 
 The reason for the Diegueño Image dance in the ceremony for the dead is
 to be found in the Cuyahomarr myth. Sinyohauch, having killed her son by
@@ -60,7 +60,7 @@ Sinyohauch remains a type of extraordinary power in woman. Some of the
 older Indians who are Catholics have identified her with the Virgin
 Mary.
 
-The Luiseño creation myth <span id="fr_10"></span>[1](#fn_11) shows less
+The Luiseño creation myth <span id="fr_10"></span>[1](#fn_11.md) shows less
 of the inventive instinct of the story-teller, and more of the power of
 abstract thought and intellectual conception. This remarkable survival
 from the past must serve to rank the Luiseños high in the ethnic scale.
@@ -69,16 +69,16 @@ from the past must serve to rank the Luiseños high in the ethnic scale.
 
 ### Footnotes
 
-<span id="fn_9"></span>[235:1](ctdi05.htm#fr_8) Mohave Avikwame, Dead
+<span id="fn_9"></span>[235:1](ctdi05.htm#fr_8.md) Mohave Avikwame, Dead
 Mountain, in southern Nevada.
 
-<span id="fn_10"></span>[235:2](ctdi05.htm#fr_9) Compare the Mohave myth
+<span id="fn_10"></span>[235:2](ctdi05.htm#fr_9.md) Compare the Mohave myth
 summarized in *Journal of American Folk-Lore*, 1906, vol. xix, p. 315.
 See, also, *American Anthropologist*, 1905, vol. vii, p. 627.
 
-<span id="fn_11"></span>[236:1](ctdi05.htm#fr_10) *Journal of American
+<span id="fn_11"></span>[236:1](ctdi05.htm#fr_10.md) *Journal of American
 Folk-Lore*, 1904, vol. xvii, p. 185.
 
 ------------------------------------------------------------------------
 
-[Next: Yuma Creation Myth, As Told By A Diegueño](ctdi06)
+[Next: Yuma Creation Myth, As Told By A Diegueño](ctdi06.md)

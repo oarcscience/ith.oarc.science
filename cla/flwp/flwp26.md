@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp25)  [Next](flwp27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp25)  [Next](flwp27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -21,12 +21,12 @@ Taylor, \[1825\], at Intangible Textual Heritage
 
 "<span class="smallcaps">It</span> is requisite to know that the divine
 Proclus, in his Commentaries on the Timæus <span
-id="fr_87"></span>[\*](#fn_87) of Plato, refers metals to the seven
+id="fr_87"></span>[\*](#fn_87.md) of Plato, refers metals to the seven
 planets, and says, that lead is ascribed to Saturn, through its weight,
 dulness, and coldness. But electrum \[or a metal composed of gold and
 silver\] is referred to Jupiter, through the well-tempered and vivific
 nature of the star. In a similar manner, also, with respect to the metal
-which is called *migma;* <span id="fr_88"></span>[†](#fn_88) but the
+which is called *migma;* <span id="fr_88"></span>[†](#fn_88.md) but the
 *migma* is more highly valued than gold, and is well tempered. Again,
 iron is ascribed to Mars, on account of its incisive power and
 sharpness; but gold to the sun, which is, as it were, the fountain of
@@ -47,11 +47,11 @@ splendid, in the same manner as the moon is illuminated by the sun."
 
 ### Footnotes
 
-<span id="fn_87"></span>[108:\*](flwp26.htm#fr_87) This extract probably
+<span id="fn_87"></span>[108:\*](flwp26.htm#fr_87.md) This extract probably
 formed a part of a Sixth Book of Proclus on the Timæus, which is lost,
 as it is not to be found in any of the Five Books that are now extant.
 
-<span id="fn_88"></span>[108:†](flwp26.htm#fr_88) From what Proclus says
+<span id="fn_88"></span>[108:†](flwp26.htm#fr_88.md) From what Proclus says
 of this metal, called *migma*, or, *a mixture*, it appears to be the
 same with *orichalcum*, which Plato, in the Critias or Atlanticus, says,
 "shines with a fiery splendour." Pliny, in list. Nat. lib. xxxiv. cap.
@@ -63,4 +63,4 @@ then existed.
 ------------------------------------------------------------------------
 
 [Next: From the MS. Commentary of Proclus on the Tenth Book of the
-Republic of Plato](flwp27)
+Republic of Plato](flwp27.md)

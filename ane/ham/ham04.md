@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](ham03)  [Next](ham05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](ham03)  [Next](ham05.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ well-being of the oppressed.
 
 ------------------------------------------------------------------------
 
-[Next: Paragraphs 1-65](ham05)
+[Next: Paragraphs 1-65](ham05.md)

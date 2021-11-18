@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs64)  [Next](mhs66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs64)  [Next](mhs66.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: I. Early Significance Of Numbers](mhs66)
+[Next: I. Early Significance Of Numbers](mhs66.md)

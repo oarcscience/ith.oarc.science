@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](eru03)  [Next](eru05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru03)  [Next](eru05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
 #### OF
 
-# VOLUME III.--TRACT ERUBIN <span id="fr_0"></span>[1](#fn_0)
+# VOLUME III.--TRACT ERUBIN <span id="fr_0"></span>[1](#fn_0.md)
 
 ### CHAPTER I.
 
@@ -40,7 +40,7 @@ the wall, perceptible from the inside or from the outside (with their
 illustrations). Whether an entry measuring twenty ells could be reduced
 to thirteen and a third if built as illustrated? What R. Jehudah taught
 to R. Hyya, the son of Rabh, and how Rabh corrected. How an apparent
-door is to be made, [1](eru05.htm#page_1)-[22](eru05.htm#page_22)
+door is to be made, [1](eru05.htm#page_1)-[22](eru05.htm#page_22.md)
 
 MISHNA II. What is required to legalize the carrying within an entry.
 Flow the sages were very lenient with all things pertaining to water.
@@ -50,14 +50,14 @@ side or cross beam. Why was Rabbi, or Rabh, more sagacious than his
 colleagues? Wily were the school of Hillel favored? Because modest. Two
 years the schools of Shammai and Hillel disputed whether it were better
 that man had not been created as he was,
-[22](eru05.htm#page_22)-[28](eru05.htm#page_28)
+[22](eru05.htm#page_22)-[28](eru05.htm#page_28.md)
 
 <span id="page_x">p. x</span>
 
 MISHNA III. The cross-beam must be wide enough to hold a half of a
 brick. About a cross-beam put up over an entry but not reaching the
 opposite wall. Anything measuring three spans in circumference is one
-hand in width, [28](eru05.htm#page_28)-[31](eru05.htm#page_31)
+hand in width, [28](eru05.htm#page_28)-[31](eru05.htm#page_31.md)
 
 MISHNAS IV., V., VI., and VII. The height and thickness of the side
 beam. How much is meant by thickness "whatever it may"? About a
@@ -72,7 +72,7 @@ shoot, whether it is a partition? I swear by the law of Moses, and by
 the prophets, and by the Hagiographa, that Rabh said this. It makes
 absolutely no difference, be it a caravan or an individual, in an
 inhabited place or in the desert. The four privileges granted to
-warriors in the camp, [31](eru05.htm#page_31)-[39](eru05.htm#page_39)
+warriors in the camp, [31](eru05.htm#page_31)-[39](eru05.htm#page_39.md)
 
 ### CHAPTER II.
 
@@ -92,7 +92,7 @@ commandments are to be fulfilled to-day, and the rewards will be in the
 world to come. If a public thoroughfare passes through an enclosure. The
 paths by which the mountains of Palestine are ascended do not come under
 the head of public ground,
-[40](eru06.htm#page_40)-[55](eru06.htm#page_55)
+[40](eru06.htm#page_40)-[55](eru06.htm#page_55.md)
 
 MISHNAS II. and III. An enclosure of boards must be made only for a
 public well. The difference in the opinions of R. Jehudah b. Babah, R.
@@ -104,7 +104,7 @@ saahs' capacity was fenced in for a dwelling. In a bleaching-ground
 four ells. What was done by R. Huna bar Hinana, R. Papa, and R. Huna,
 the son of R. Joshua in reference to a garden on the estate of the
 Exilarch containing a pavilion,
-[55](eru06.htm#page_55)-[61](eru06.htm#page_61)
+[55](eru06.htm#page_55)-[61](eru06.htm#page_61.md)
 
 ### CHAPTER III.
 
@@ -123,7 +123,7 @@ mother told me that roasted cars are good for the heart, and drive away
 care, etc. An Erub must not be made with consecrated things. There are
 sages who hold that the prescribed quantities which are dependent upon
 the size of man should be measured accordingly,
-[62](eru07.htm#page_62)-[70](eru07.htm#page_70)
+[62](eru07.htm#page_62)-[70](eru07.htm#page_70.md)
 
 MISHNAS II., III., IV., and V. Whether an Erub may be made of things
 consecrated, or from which heave-offering, etc., has not been separated.
@@ -147,7 +147,7 @@ than for his teacher. Why can he not make it conditional upon the
 arrival of sages from opposite directions? R. Jehudah does not admit of
 the theory of premeditated choice. Who is the Tana who holds that the
 sages also discountenance the theory of premeditated choice?
-[71](eru07.htm#page_71)-[82](eru07.htm#page_82)
+[71](eru07.htm#page_71)-[82](eru07.htm#page_82.md)
 
 MISHNAS VI., VII., VIII. If a festival precedes or succeeds a Sabbath,
 how must it be done? Have two days of the festival each a separate
@@ -159,7 +159,7 @@ townsmen. What was said to the men who prepared baldachins for
 marriages. How is it with the benediction of the time on the days of New
 Year and the Day of Atonement? How the rabbis sent a man to R. Hisda to
 see his custom about the benediction of time. Must a fast be completed
-on a Friday? [82](eru07.htm#page_82)-[92](eru07.htm#page_92)
+on a Friday? [82](eru07.htm#page_82)-[92](eru07.htm#page_92.md)
 
 ### CHAPTER IV.
 
@@ -177,7 +177,7 @@ Sura, and in the evening in Pumbaditha, were through Elijah the prophet.
 How a partition with men can be made. It once happened that flasks of
 wine were thrown out of Rabba's house on the road in the city of
 Mehuzza, and what was done with them
-[93](eru08.htm#page_93)-[100](eru08.htm#page_100)
+[93](eru08.htm#page_93)-[100](eru08.htm#page_100.md)
 
 MISHNA II. All those who go forth on an errand of safety are permitted
 to return to their homes on Sabbath. Besieged cities and those near a
@@ -190,7 +190,7 @@ Mesharshia. It once happened that rams were brought into the city of
 Mabrakhta on a festival. Whence do we derive the four ells? If we were
 to learn the Talmud in this manner, we would never be able to learn
 anything. An Erub divided by a man in two parts or deposited in two
-separate vessels, [100](eru08.htm#page_100)-[111](eru08.htm#page_111)
+separate vessels, [100](eru08.htm#page_100)-[111](eru08.htm#page_111.md)
 
 MISHNAS III., IV. Should a man overtaken by dusk on the road single out
 a tree or hedge? What is meant by "legally he has said nothing"? If a
@@ -202,7 +202,7 @@ driving an ass and leading a camel. R. Jehudah. bar Isht'tha brought a
 basket of fruit to R. Nathan bar Oshiya on the eve of Sabbath. If one
 went beyond the legal limit even a single ell. Opinions of R. Simeon and
 the sages about one overtaken by dusk,
-[111](eru08.htm#page_111)-[118](eru08.htm#page_118).
+[111](eru08.htm#page_111)-[118](eru08.htm#page_118.md).
 
 ### CHAPTER V.
 
@@ -220,7 +220,7 @@ would teach a disciple a thing four hundred times, and once twice four
 hundred times: his reward for this from heaven. If a town is in the form
 of an arch. If one comes to make a town square. The equinoxes. Note
 about the seven planets of ancient astronomy,
-[119](eru09.htm#page_119)-[131](eru09.htm#page_131)
+[119](eru09.htm#page_119)-[131](eru09.htm#page_131.md)
 
 MISHNAS II., III., IV., V. An allowance of seventy and two-thirds ells
 of space must be made to the town. The difference of opinions whether to
@@ -235,7 +235,7 @@ by an expert. If a town belonging to an individual becomes public
 property. If a town that is public property becomes the property of an
 individual. The inhabitants of Kakunai came before R. Joseph and asked
 him to give them a man to effect an Erub for them in their city,
-[131](eru09.htm#page_131)-[140](eru09.htm#page_140)
+[131](eru09.htm#page_131)-[140](eru09.htm#page_140.md)
 
 MISHNA VI., VII. A man who is at the east of his domicile, telling his
 son to place his Erub towards the west, or *vice versa*. What is meant
@@ -245,7 +245,7 @@ Hamtan and Gadar to carry or go. The inhabitants of a large town may
 traverse the whole of a small town (but not *vice versa*). Mar Jehudah
 observed that the inhabitants of Mabrakhta placed their Erub in the
 synagogue of the city of Agubar,
-[140](eru09.htm#page_140)-[144](eru09.htm#page_144)
+[140](eru09.htm#page_140)-[144](eru09.htm#page_144.md)
 
 ### CHAPTER VI.
 
@@ -272,7 +272,7 @@ trembled when he met R. Hisda, because of his sagacity. The discussion
 about warm water for a new-born child. How is it possible that two such
 great men made no Erub. Whether a Sadducee is considered the same as a
 Gentile, R. Gamaliel and the sages differ. There are two kinds of
-Sadducees, [145](eru10.htm#page_145)-[162](eru10.htm#page_162)
+Sadducees, [145](eru10.htm#page_145)-[162](eru10.htm#page_162.md)
 
 MISHNAS II., III., and IV. If one of the householders of a court
 forgets, and does not join in the Erub. From what time is the right to
@@ -294,7 +294,7 @@ happened that an inhabitant of Naph'ha, who had five courts in Uqba, did
 not join in the Erub with the inmates of the courts. What about the
 disciples of the college, eating in the inns of the valley and passing
 the night at the college?
-[162](eru10.htm#page_162)-[169](eru10.htm#page_169)
+[162](eru10.htm#page_162)-[169](eru10.htm#page_169.md)
 
 MISHNAS V., VI., and VII. If five courts open into each other and an
 alley, if they combined both the courts and the alley, or only one of
@@ -306,7 +306,7 @@ court and one of the inmates either of the outer or inner forgot to join
 in an Erub, carrying is prohibited; and how if it was placed in one of
 the inner courts? If there was a third court between the two, also
 belonging to an individual, is it permitted to carry in any of the
-three? [170](eru10.htm#page_170)-[178](eru10.htm#page_178)
+three? [170](eru10.htm#page_170)-[178](eru10.htm#page_178.md)
 
 ### CHAPTER VII.
 
@@ -325,7 +325,7 @@ courts are separated by a ditch, ten spans deep and four wide. "Thou
 wouldst prove a contradiction from a law pertaining to uncleanness to a
 Sabbath-law?" If there be between two courts a straw-rick, ten spans
 high. If a house which was filled with straw stand between two courts?
-[179](eru11.htm#page_179)-[189](eru11.htm#page_189)
+[179](eru11.htm#page_179)-[189](eru11.htm#page_189.md)
 
 MISHNAS V., VI., VII., and VIII. How are alleys to be combined? If
 alleys or legal limits are combined. Whether a transfer of ownership is
@@ -340,7 +340,7 @@ Erub with bread made of rice or millet? A man may give money to the
 wine-seller or baker in order to acquire the right to join in the Erub.
 About a Meshikha to a sale and its explanation. If additional
 inhabitants came into the alley, the right of possession must be
-transferred to them, [189](eru11.htm#page_189)-[197](eru11.htm#page_197)
+transferred to them, [189](eru11.htm#page_189)-[197](eru11.htm#page_197.md)
 
 <span id="page_xv">p. xv</span>
 
@@ -354,7 +354,7 @@ measures mentioned in the Tract. If the inhabitants of a court and
 balcony should have forgotten to combine an Erub. If there were three
 ruins between two houses, each house may use the adjoining ruin by
 throwing therein, except the middle one (with illustrations),
-[198](eru12.htm#page_198)-[204](eru12.htm#page_204)
+[198](eru12.htm#page_198)-[204](eru12.htm#page_204.md)
 
 MISHNAS IV., V., VI., and VII. If a man deposit his Erub for the
 combination of courts in a vestibule, gallery, or balcony. If a company
@@ -364,14 +364,14 @@ take his Sabbath-rest in another town (without previously joining in the
 Erub). If there be a well between two courts it is not lawful to draw
 water. if a canal runs through a court it is not lawful to draw water,
 unless there be a partition. If a canal flows between two walls which
-contain apertures, [204](eru12.htm#page_204)-[209](eru12.htm#page_209)
+contain apertures, [204](eru12.htm#page_204)-[209](eru12.htm#page_209.md)
 
 MISHNAS VIII. and IX. If there be a balcony above the water. The law
 concerning robbery is applicable also on Sabbath. If the court be less
 than four ells square it is not permitted to pour water therein on
 Sabbath, unless a sewer is made. All these regulations concerning the
 pouring of water apply only to summer,
-[209](eru12.htm#page_209)-[213](eru12.htm#page_213)
+[209](eru12.htm#page_209)-[213](eru12.htm#page_213.md)
 
 ### CHAPTER IX.
 
@@ -384,14 +384,14 @@ happened in a time of danger that we brought up the sacred scrolls from
 a court to a roof." If a large roof adjoins a small one. If there are
 three woodsheds opening into each other, of which the two outer are
 enclosed while the middle one is not (with illustrations),
-[214](eru13.htm#page_214)-[223](eru13.htm#page_223)
+[214](eru13.htm#page_214)-[223](eru13.htm#page_223.md)
 
 MISHNAS ITT., IV., and V. If a court (through an incavation of its
 walls) is laid open to public ground. In a court (the corner walls of
 which had fallen in on Sabbath so) that it has been laid open to public
 ground on two sides. If an attic be built over two houses, also if
 bridges are open at both ends,
-[223](eru13.htm#page_223)-[226](eru13.htm#page_226)
+[223](eru13.htm#page_223)-[226](eru13.htm#page_226.md)
 
 ### CHAPTER X.
 
@@ -406,7 +406,7 @@ threshold of the house and it
 <span id="page_xvi">p. xvi</span>
 
 slips out of his hand. On a ledge outside a window it is permitted to
-place vessels, [227](eru14.htm#page_227)-[235](eru14.htm#page_235)
+place vessels, [227](eru14.htm#page_227)-[235](eru14.htm#page_235.md)
 
 MISHNAS IV., V., VI., VII., VIII., and IX. A man may stand in private
 ground and move things that are in public ground. A man must not,
@@ -414,7 +414,7 @@ standing in private ground, drink in public ground. A man may catch
 water dropping from a spout on the roof. If a well, standing in public
 ground, have an enclosure ten spans high. Beneath a tree, the branches
 of which droop and cover the ground. The shutters of a bleaching ground
-or thorn bushes, [235](eru14.htm#page_235)-[240](eru14.htm#page_240)
+or thorn bushes, [235](eru14.htm#page_235)-[240](eru14.htm#page_240.md)
 
 MISHNAS X. to XVIII. A man must not, standing in private ground, unlock
 with a key something in public ground. A loose bolt, with a knob to it,
@@ -428,15 +428,15 @@ bind it up with reeds in the Temple. Should the carcass of a dead
 reptile be found in the Temple on the Sabbath the priest shall move it
 out with his belt. From which parts of the Temple should it be removed?
 It is permitted for anyone to enter the Temple for the purpose of
-building, [240](eru14.htm#page_240)-[251](eru14.htm#page_251)
+building, [240](eru14.htm#page_240)-[251](eru14.htm#page_251.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[ix:1](eru04.htm#fr_0) See introduction to
+<span id="fn_0"></span>[ix:1](eru04.htm#fr_0.md) See introduction to
 synopsis in Tract Sabbath, Vol. I., p. xxix.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Size of Erubin](eru05)
+[Next: Chapter I: Size of Erubin](eru05.md)

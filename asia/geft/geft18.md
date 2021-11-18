@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft17)  [Next](geft19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft17)  [Next](geft19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 ### XVI
 
-### The King and the Apple <span id="fr_22"></span>[1](#fn_21)
+### The King and the Apple <span id="fr_22"></span>[1](#fn_21.md)
 
 THERE was and there was not at all (of God's best may it be!), there was
 a king. When the day of his death was drawing nigh, he called his son to
@@ -126,9 +126,9 @@ might be restored to life, and they all went away with rich presents.
 
 ### Footnotes
 
-<span id="fn_21"></span>[104:1](geft18.htm#fr_22) From *Karthuli
+<span id="fn_21"></span>[104:1](geft18.htm#fr_22.md) From *Karthuli
 Kristomatia* (Tiflis, 1885), p. 85.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Three Precepts](geft19)
+[Next: I. The Three Precepts](geft19.md)

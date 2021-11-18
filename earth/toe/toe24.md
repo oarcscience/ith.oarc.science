@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe23)  [Next](toe25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe23)  [Next](toe25.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ the phenomena in question.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Facts in confirmation of the Theory of Elevating Land
-above the Surface of the Sea](toe25)
+above the Surface of the Sea](toe25.md)

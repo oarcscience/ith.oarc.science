@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tha06)  [Next](tha08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tha06)  [Next](tha08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ so that its colour is changed to a lighter or darker shade or its hue
 altered under certain conditions. It is needless to say that the whole
 topic is difficult and complicated, but the explanations that seem most
 useful will be given. Some of the theories put forward may appear
-far-fetched or even [heterodox](errata.htm#4); nevertheless they are
+far-fetched or even [heterodox](errata.htm#4.md); nevertheless they are
 advanced for want of better hypotheses. As the subject is entirely
 dependent upon colour vision, a few preliminary remarks will not be
 superfluous.
@@ -73,7 +73,7 @@ are usually unequally stimulated.
 The writer has for many years considered that each person has their own
 proper primary colours, and accordingly sees a coloured object
 differently to any one else, but as a result of education every one
-calls the colour <span id="fr_11"></span>[\*](#fn_11) by the same name.
+calls the colour <span id="fr_11"></span>[\*](#fn_11.md) by the same name.
 For instance, let two persons A and B look at an object of a colour
 usually designated as a shade of yellow. This colour might
 
@@ -135,14 +135,14 @@ contains more yellow than during good health, and this colour is
 especially pronounced in circumscribed areas from local disturbances.
 These patches are usually seen as yellow places in the midst of the blue
 complementary coloured band. The rationale of this
-[phenomenon](errata.htm#5) is probably as follows: when the eyes have
+[phenomenon](errata.htm#5.md) is probably as follows: when the eyes have
 become sufficiently fatigued for the successful induction of the blue
 complementary coloured band, the yellow-sensitive nerves are only able
 to convey to the brain sensations of that colour to a limited extent,
 while they still retain their power intact for the shorter wave lengths
 of the ultra-violet yellow. Possibly these latter exert a greater
 influence from not being obscured by the more easily
-[perceived](errata.htm#6) yellow of the ordinary visible solar spectrum.
+[perceived](errata.htm#6.md) yellow of the ordinary visible solar spectrum.
 Another
 
 <span id="page_145">p. 145</span>
@@ -151,7 +151,7 @@ factor which very likely assists in the perception of the auric colours,
 but to which too much importance must not be attached, is that the body
 assumes as a whole the hues of the complementary coloured band and thus
 affords a better contrast to the yellow or other colours the aura may
-locally possess. (Page [170](tha08.htm#page_170).)
+locally possess. (Page [170](tha08.htm#page_170)..md)
 
 Every one knows that if he gazes intently for a short time at a coloured
 object and then looks at the ceiling, or at a white screen, etc., he
@@ -263,7 +263,7 @@ correct for emmetropic sight, but for presbyopia and myopia the reading
 glasses worn by the observer will be needed. The writer's personal
 apparatus has a removable diaphragm with lenses of the same focal length
 as the spectacles he usually employs. <span
-id="fr_12"></span>[\*](#fn_12)
+id="fr_12"></span>[\*](#fn_12.md)
 
 To use the apparatus, it is only necessary to hold it in front of and
 close to the face, and to gaze at the light, keeping the eyes fixed on
@@ -503,7 +503,7 @@ the other hand, should one of the
 
 bands show a light patch which appears dark with the rest of the bands,
 then it is likely that there is some other change. (See page
-[155](#page_155).) It is quite on the *tapis* that two of the bands may
+[155](#page_155)..md) It is quite on the *tapis* that two of the bands may
 disclose a light patch which others show dark. This probably means that
 the patch is caused by two auric colours, which primarily due to
 ultra-violet radiations, for some reason do not blend in the ordinary
@@ -591,7 +591,7 @@ there are a number of hues that defy description, as they are evidently
 mixtures of ultra-violet colours. If these colours are naturally but
 merely locally present in the aura, an explanation is needed why they
 cannot be perceived except during the use of the c.c. bands. This has
-been partially given on page [151](#page_151). On rare occasions it has
+been partially given on page [151](#page_151.md). On rare occasions it has
 been possible to detect them in the aura over (not by the side of), the
 body, but never as yet sufficiently distinct to describe. It is quite
 possible that better trained or more peculiarly adapted eyes may have
@@ -600,7 +600,7 @@ the use of coloured screens might have revealed these patches without
 having to resort to the tedious process of partially colour-blinding the
 eyes. There was nothing but failure for reasons given a little later on.
 
-In [chapter iv](tha05.htm#chap04)., when discussing the likelihood of a
+In [chapter iv](tha05.htm#chap04.md)., when discussing the likelihood of a
 secondary spectrum, an account was given of the inspection of the aura
 in the interspaces between the
 
@@ -660,7 +660,7 @@ conditions are by no means as favourable, because the body makes an
 inferior background, so that a yellow patch is harder to see, and
 consequently can only be detected by sensitive processes. This is the
 reason why too much importance should not be attached to the hue the
-body takes from the c.c. band. (See page [144](#page_144)).
+body takes from the c.c. band. (See page [144](#page_144).md).
 
 On various occasions when using the transparent screens for the
 inspection with the complementary colours, the band instead of being
@@ -690,7 +690,7 @@ can possibly be, viz., the aura.
 
 ### Footnotes
 
-<span id="fn_11"></span>[142:\*](tha07.htm#fr_11) A simple test for
+<span id="fn_11"></span>[142:\*](tha07.htm#fr_11.md) A simple test for
 obtaining one's own personal primary colours is to press the closed eye,
 when there will be generally seen small yellow dots covering the whole
 field of vision. Intermingling with these are much larger discs of blue,
@@ -698,11 +698,11 @@ and lastly red points intermediate in size between the yellow and blue
 discs. The yellow are the most numerous, the blue next in number, and
 the red fewer and far more difficult to obtain.
 
-<span id="fn_12"></span>[148:\*](tha07.htm#fr_12) The distance between
+<span id="fn_12"></span>[148:\*](tha07.htm#fr_12.md) The distance between
 the eyes and the screen is rather less than the ordinary reading
 distance, producing a slight strain of the eyes which has been found
 beneficial in practice.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Outer Aura In Disease](tha08)
+[Next: Chapter VII. The Outer Aura In Disease](tha08.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](dol04)  [Next](dol06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](dol04)  [Next](dol06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Devils of Loudun*, by Edmund Goldsmid, \[1887\], at Intangible
 Textual Heritage
 
@@ -155,7 +155,7 @@ years. At my coming to Worcester, 1651, I spoke with the gentleman,
 extraordinary relations consisting in his own knowledge; and I carried
 him to my master, to whom he made the same relations,—noises and
 apparitions, drums and trumpets heard before the last war, yea, he said
-that some English soldiers [quartered](errata.htm#15) in his house were
+that some English soldiers [quartered](errata.htm#15.md) in his house were
 soundly beaten by that irresistible inhabitant; (this last I wondered
 at, for l rather expected he should have been a remonstrater, and
 opposed the resistance,) and within this fortnight Mr. James Sharp was
@@ -268,4 +268,4 @@ Your most faithful Friend and Servant,
 
 ------------------------------------------------------------------------
 
-[Next: Appendix II](dol06)
+[Next: Appendix II](dol06.md)

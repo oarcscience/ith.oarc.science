@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet04)  [Next](tet06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet04)  [Next](tet06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1548,4 +1548,4 @@ Australia, or perhaps it is really an infrequent thing among the tribes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Medicine Men](tet06)
+[Next: Chapter IV. The Medicine Men](tet06.md)

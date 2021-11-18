@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa47)  [Next](psa49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa47)  [Next](psa49.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 ### CHAPTER XLVII.
 
 SHREE SHOOKDEO JEE said,--O lord of the earth! I will give an account
-now how Shree [Krishnù](errata.htm#5) Chund brought Brindabun to mind;
+now how Shree [Krishnù](errata.htm#5.md) Chund brought Brindabun to mind;
 listen attentively. One day Huri said to Bulram Jee, "Brother! all the
 inhabitants of Brindabun must be very much grieved on thinking of me,
 because the time has elapsed, in which I promised to return. We ought
@@ -154,4 +154,4 @@ Krishnù.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLVIII](psa49)
+[Next: Chapter XLVIII](psa49.md)

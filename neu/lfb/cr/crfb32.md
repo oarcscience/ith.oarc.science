@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb31)  [Next](crfb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb31)  [Next](crfb33.md) 
 
 </div>
 
@@ -106,6 +106,6 @@ for many years, and at length died in peace under her own kaki tree.
 
 ------------------------------------------------------------------------
 
-[Next: The Horse Gullfaxi and the Sword Gunnfoder](crfb33)
+[Next: The Horse Gullfaxi and the Sword Gunnfoder](crfb33.md)
 
 </div>

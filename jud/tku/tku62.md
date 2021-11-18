@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku61)  [Next](tku63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku61)  [Next](tku63.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ God*).
 to reveal certain things before God the Most Holy--may He be
 blessed!--and all these things crown mine head.
 
-345\. And this day <span id="fr_259"></span>[1](#fn_256) suffereth not
+345\. And this day <span id="fr_259"></span>[1](#fn_256.md) suffereth not
 increase, neither can it pass on into the place of another day, for this
 whole day hath been yielded unto my power.
 
@@ -111,7 +111,7 @@ are united, and the worlds all and several exist in love and in joy.
 
 367\. But whensoever sins are multiplied in the world, and the sanctuary
 is polluted, and the Male and Female are separated. <span
-id="fr_260"></span>[1](#fn_257)
+id="fr_260"></span>[1](#fn_257.md)
 
 368\. And when that strong Serpent beginneth to arise, Woe, then, unto
 thee, O World! who in that time art nourished by this Tzedeq. For then
@@ -175,7 +175,7 @@ destroyed through
 <span id="page_297">p. 297</span>
 
 \[paragraph continues\] Tzedeq, seeing that I can maintain myself in its
-severities. <span id="fr_261"></span>[1](#fn_258)
+severities. <span id="fr_261"></span>[1](#fn_258.md)
 
 381\. But after that he had sinned, he was even ready to be consumed by
 that Meshephat, Judgment. Whence it is written, Ps. cxliii. 2: "And
@@ -210,17 +210,17 @@ desire to rush upon us).
 
 ### Footnotes
 
-<span id="fn_256"></span>[293:1](tku62.htm#fr_259) Meaning the period of
+<span id="fn_256"></span>[293:1](tku62.htm#fr_259.md) Meaning the period of
 revealing these matters, not exactly a day of twenty-four hours: day in
 the Scriptural and qabalistical sense.
 
-<span id="fn_257"></span>[295:1](tku62.htm#fr_260) In other words, whom
+<span id="fn_257"></span>[295:1](tku62.htm#fr_260.md) In other words, whom
 there is unbalanced force, there is the origin of evil.
 
-<span id="fn_258"></span>[297:1](tku62.htm#fr_261) Because in those
+<span id="fn_258"></span>[297:1](tku62.htm#fr_261.md) Because in those
 severities, and behind them, he can see the Countenance of God.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter X: Concerning Microprosopus in Especial, with Certain
-Digressions, and Concerning the Edomite Kings](tku63)
+Digressions, and Concerning the Edomite Kings](tku63.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](amu05)  [Next](amu07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](amu05)  [Next](amu07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ Lion, equal to "twaindy" bronze Crosses. Unless the ratio of metals is
 very different here, this latter must be a token coin, and therefore
 legal tender for but a small amount. (That would be pain and pleasure to
 Mr. Wordsworth Donisthorpe if he were to chance to join us, for once he
-planned a Utopian coinage,  <span id="fr_5"></span>[6](#fn_5) and the
+planned a Utopian coinage,  <span id="fr_5"></span>[6](#fn_5.md) and the
 words Lion and Cross are his. But a token coinage and "legal tender" he
 cannot abide. They make him argue.) And being in Utopia, that unfamiliar
 "twaindy" suggests at once we have come upon that most Utopian of all
@@ -101,8 +101,8 @@ effort? The economic history of the world, where it is not the history
 of the theory of property, is very largely the record of the abuse, not
 so much of money as (if credit devices to supplement money, to amplify
 the scope of this most precious invention; and no device of labour
-credits  <span id="fr_6"></span>[7](#fn_6) or free demand of commodities
-from a central store  <span id="fr_7"></span>[8](#fn_7) or the like has
+credits  <span id="fr_6"></span>[7](#fn_6.md) or free demand of commodities
+from a central store  <span id="fr_7"></span>[8](#fn_7.md) or the like has
 ever been suggested that does not give ten thousand times more scope for
 that inherent moral dross in man that must be reckoned with in any sane
 Utopia we may design and plan. . . . Heaven knows where progress may not
@@ -295,7 +295,7 @@ the general conception of the economic nature of the Utopian State.
 ### SECTION 3
 
 The difference between the social and economic sciences as they exist in
-our world  <span id="fr_8"></span>[9](#fn_8) and in this Utopia deserves
+our world  <span id="fr_8"></span>[9](#fn_8.md) and in this Utopia deserves
 perhaps a word or so more. I write with the utmost diffidence, because
 upon earth economic science has been raised to a very high level of
 tortuous abstraction by the industry of its professors, and I can claim
@@ -551,7 +551,7 @@ bankruptcy—for himself and for those who belong to him. Moreover, a man
 may in his lifetime set aside sums to ensure special advantages of
 education and care for the immature children of himself and others, and
 in this manner also exercise a posthumous right.  <span
-id="fr_9"></span>[10](#fn_9)
+id="fr_9"></span>[10](#fn_9.md)
 
 For all other property, the Utopians will have a scantier respect; even
 money unspent by a man, and debts to him that bear no interest, will at
@@ -651,7 +651,7 @@ the invasion of life by the machine.
 Now it is only in the last three hundred years that any human being
 seems to have anticipated this. It stimulates the imagination to remark
 how entirely it was overlooked as a modifying cause in human
-development.  <span id="fr_10"></span>[11](#fn_10) Plato clearly had no
+development.  <span id="fr_10"></span>[11](#fn_10.md) Plato clearly had no
 ideas about machines at all as a force affecting social organisation.
 There was nothing in his world to suggest them to him. I suppose there
 arose no invention, no new mechanical appliance or method of the
@@ -661,7 +661,7 @@ just as he never thought of a State that was not primarily organised for
 warfare hand to hand. Political and moral inventions he saw enough of
 and to spare, and in that direction lie still stimulates the
 imagination. But in regard to all material possibilities he deadens
-rather than stimulates.  <span id="fr_11"></span>[12](#fn_11) An
+rather than stimulates.  <span id="fr_11"></span>[12](#fn_11.md) An
 infinitude of nonsense about the Greek mind would never have been
 written if the distinctive intellectual and artistic quality of Plato's
 time, its extraordinarily clear definition of certain material
@@ -683,11 +683,11 @@ his *News from Nowhere*. There are some foreshadowings of mechanical
 possibilities in the *New Atlantis*, but it is only in the nineteenth
 century that Utopias appeared in which the fact is clearly recognised
 that the social fabric rests no longer upon human labour. It was, I
-believe, Cabet  <span id="fr_12"></span>[13](#fn_12) who first in a
+believe, Cabet  <span id="fr_12"></span>[13](#fn_12.md) who first in a
 Utopian work insisted upon the escape of man from irksome labours
 through the use of machinery. He is the great primitive of modern
 Utopias, and Bellamy is his American equivalent. Hitherto, either slave
-labour (Phaleas),  <span id="fr_13"></span>[14](#fn_13) or at least
+labour (Phaleas),  <span id="fr_13"></span>[14](#fn_13.md) or at least
 class distinctions involving unavoidable labour in the lower class, have
 been assumed—as Plato does, and as Bacon in the *New Atlantis* probably
 intended to do (More gave his Utopians bonds men *sans phrase* for their
@@ -701,7 +701,7 @@ playing at life, to imagine as much. Road-making under Mr. Ruskin's
 auspices was a joy at Oxford no doubt, and a distinction, and it still
 remains a distinction; it proved the least contagious of practices. And
 Hawthorne did not find bodily toil anything more than the curse the
-Bible says it is, at Brook Farm.  <span id="fr_14"></span>[15](#fn_14)
+Bible says it is, at Brook Farm.  <span id="fr_14"></span>[15](#fn_14.md)
 
 If toil is a blessing, never was blessing so effectually disguised, and
 the very people who tell us that, hesitate to suggest more than a
@@ -735,7 +735,7 @@ pain, the fear, and the anxiety that now makes human life so doubtful in
 its value. There is more than enough for every one alive. Science
 stands, a too competent servant, behind her wrangling underbred masters,
 holding out resources, devices, and remedies they are too stupid to use.
- <span id="fr_15"></span>[16](#fn_15) And on its material side a modern
+ <span id="fr_15"></span>[16](#fn_15.md) And on its material side a modern
 Utopia must needs present these gifts as taken, and show a world that is
 really abolishing the need of labour, abolishing the last base reason
 for any one's servitude or inferiority.
@@ -749,7 +749,7 @@ on the morning after our arrival. I shall lie for a minute or so with my
 nose peeping over the coverlet, agreeably and gently coming awake, and
 with some vague nightmare of sitting at a common table with an
 unavoidable dustman in green and gold called Boffin,  <span
-id="fr_16"></span>[17](#fn_16) fading out of my mind. Then I should
+id="fr_16"></span>[17](#fn_16.md) fading out of my mind. Then I should
 start up. You figure my apprehension, startled inspection of my chamber.
 "Where am I?" that classic phrase, recurs. Then I perceive quite clearly
 that I am in bed in Utopia.
@@ -1005,49 +1005,49 @@ doubt.
 
 ### Footnotes
 
-<span id="fn_5"></span>[6](amu06.htm#fr_5) *A System of Measures*, by
+<span id="fn_5"></span>[6](amu06.htm#fr_5.md) *A System of Measures*, by
 Wordsworth Donisthorpe.
 
-<span id="fn_6"></span>[7](amu06.htm#fr_6) Edward Bellamy's *Looking
+<span id="fn_6"></span>[7](amu06.htm#fr_6.md) Edward Bellamy's *Looking
 Backward*, ch. ix.
 
-<span id="fn_7"></span>[8](amu06.htm#fr_7) More's *Utopia* and Cabet's
+<span id="fn_7"></span>[8](amu06.htm#fr_7.md) More's *Utopia* and Cabet's
 *Icaria*.
 
-<span id="fn_8"></span>[9](amu06.htm#fr_8) But see Gidding's *Principles
+<span id="fn_8"></span>[9](amu06.htm#fr_8.md) But see Gidding's *Principles
 of Sociology*, a modern and richly suggestive American work, imperfectly
 appreciated by the British student. See also Walter Bagehot's *Economic
 Studies*.
 
-<span id="fn_9"></span>[10](amu06.htm#fr_9) But a Statute of Mortmain
+<span id="fn_9"></span>[10](amu06.htm#fr_9.md) But a Statute of Mortmain
 will set a distinct time limit to the continuance of such benefactions.
 A periodic revision of endowments is a necessary feature in any modern
 Utopia.
 
-<span id="fn_10"></span>[11](amu06.htm#fr_10) It is interesting to note
+<span id="fn_10"></span>[11](amu06.htm#fr_10.md) It is interesting to note
 how little even Bacon seems to see of this in his *New Atlantis*.
 
-<span id="fn_11"></span>[12](amu06.htm#fr_11) The lost Utopia of
+<span id="fn_11"></span>[12](amu06.htm#fr_11.md) The lost Utopia of
 Hippodamus provided rewards for inventors, but unless Aristotle
 misunderstood him, and it is certainly the fate of all Utopias to be
 more or less misread, the inventions contemplated were political
 devices.
 
-<span id="fn_12"></span>[13](amu06.htm#fr_12) Cabet, *Voyage en Icarie*,
+<span id="fn_12"></span>[13](amu06.htm#fr_12.md) Cabet, *Voyage en Icarie*,
 1848.
 
-<span id="fn_13"></span>[14](amu06.htm#fr_13) Aristotle's *Politics*,
+<span id="fn_13"></span>[14](amu06.htm#fr_13.md) Aristotle's *Politics*,
 bk. ii., ch. viii.
 
-<span id="fn_14"></span>[15](amu06.htm#fr_14) *The Blythedale
+<span id="fn_14"></span>[15](amu06.htm#fr_14.md) *The Blythedale
 Experiment*, and see also his Notebook.
 
-<span id="fn_15"></span>[16](amu06.htm#fr_15) See that most suggestive
+<span id="fn_15"></span>[16](amu06.htm#fr_15.md) See that most suggestive
 little book, *Twentieth Century Inventions*, by Mr. George Sutherland.
 
-<span id="fn_16"></span>[17](amu06.htm#fr_16) *Vide* William Morris's
+<span id="fn_16"></span>[17](amu06.htm#fr_16.md) *Vide* William Morris's
 *News from Nowhere*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four](amu07)
+[Next: Chapter Four](amu07.md)

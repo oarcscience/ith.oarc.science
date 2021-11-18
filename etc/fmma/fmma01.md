@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma00)  [Next](fmma02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma00)  [Next](fmma02.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ generally affixed.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](fmma02)
+[Next: Contents](fmma02.md)

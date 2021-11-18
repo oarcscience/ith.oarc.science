@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod05)  [Next](eod07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod05)  [Next](eod07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ Textual Heritage
 During the last few years I have repeatedly had occasion to point out
 the fundamental fallacy underlying much of the modern speculation in
 ethnology, and I have no intention of repeating these strictures
-here. <span id="fr_16"></span>[2](#fn_16) But it is a significant fact
+here. <span id="fr_16"></span>[2](#fn_16.md) But it is a significant fact
 that, when one leaves the writings of professed ethnologists and turns
 to the histories of their special subjects written by scholars in
 kindred fields of investigation, views such
@@ -76,7 +76,7 @@ and of the fortified town must have spread from the East, the
 square-roomed house, columnar orders, fine masonry, were all
 Egyptian.</span>
 
-Elsewhere <span id="fr_17"></span>[1](#fn_17) I have pointed out that it
+Elsewhere <span id="fr_17"></span>[1](#fn_17.md) I have pointed out that it
 was the importance which
 
 <span id="page_12">p. 12</span>
@@ -84,7 +84,7 @@ was the importance which
 the Egyptian came to attach to the preservation of the dead and to the
 making of adequate provision for the deceased's welfare that gradually
 led to the aggrandisement of the tomb. In course of time this impelled
-him to cut into the rock, <span id="fr_18"></span>[1](#fn_18) and, later
+him to cut into the rock, <span id="fr_18"></span>[1](#fn_18.md) and, later
 still, suggested the substitution of stone for brick in erecting the
 chapel of offerings above ground. The Egyptian burial customs were thus
 intimately related to the conceptions that grew up with the invention of
@@ -128,7 +128,7 @@ of new devices in architecture. From time to time methods of building
 which developed in Egypt were adopted by her neighbours and spread far
 and wide. The shaft-tombs and *mastabas* of the Egyptian Pyramid Age
 were adopted in various localities in the region of the Eastern
-Mediterranean, <span id="fr_19"></span>[1](#fn_19) with certain
+Mediterranean, <span id="fr_19"></span>[1](#fn_19.md) with certain
 modifications in each place, and in turn became the models which were
 roughly copied in later ages by the wandering dolmen-builders. The round
 tombs of Crete and Mycenae were clearly only local modifications of
@@ -138,7 +138,7 @@ passed on its ideals to the north and west of Europe, where the
 productions of the Bronze Age clearly show its influence" (Lethaby, p.
 78) in the chambered mounds of the Iberian peninsula and Brittany, of
 New Grange in Ireland and of Maes Howe in the Orkneys. <span
-id="fr_20"></span>[2](#fn_20) In the East the influence of these Ægean
+id="fr_20"></span>[2](#fn_20.md) In the East the influence of these Ægean
 modifications may possibly be seen in the Indian *stupas* and the
 *dagabas* of Ceylon, just as the stone stepped pyramids there reveal the
 effects of contact with the civilizations of Babylonia and Egypt.
@@ -201,7 +201,7 @@ their first appearance along with the peculiarly distinctive form
 <span id="page_15">p. 15</span>
 
 of agriculture and irrigation so intimately associated with early
-Baby-Ionia and Egypt. <span id="fr_21"></span>[1](#fn_21)
+Baby-Ionia and Egypt. <span id="fr_21"></span>[1](#fn_21.md)
 
 But agriculture also exerted a most profound influence in shaping the
 early Egyptian body of beliefs.
@@ -215,21 +215,21 @@ and the mutual influence they exerted one upon the other.
 
 ### Footnotes
 
-<span id="fn_16"></span>[10:2](eod06.htm#fr_16) See, however, *op. cit.
+<span id="fn_16"></span>[10:2](eod06.htm#fr_16.md) See, however, *op. cit.
 supra*; also "The Origin of the Pre-Columbian Civilization of America,"
 *Science*, N.S., Vol. XLV, No. 1158, pp. 241-246, 9 March, 1917.
 
-<span id="fn_17"></span>[11:1](eod06.htm#fr_17) *Op. cit. supra*.
+<span id="fn_17"></span>[11:1](eod06.htm#fr_17.md) *Op. cit. supra*.
 
-<span id="fn_18"></span>[12:1](eod06.htm#fr_18) For the earliest
+<span id="fn_18"></span>[12:1](eod06.htm#fr_18.md) For the earliest
 evidence of the cutting of stone for architectural purposes, see my
 statement in the *Report of the British Association for* 1914, p. 212.
 
-<span id="fn_19"></span>[13:1](eod06.htm#fr_19) Especially in Crete,
+<span id="fn_19"></span>[13:1](eod06.htm#fr_19.md) Especially in Crete,
 Palestine, Syria, Asia Minor, Southern Russia, and the North African
 Littoral.
 
-<span id="fn_20"></span>[13:2](eod06.htm#fr_20) For an account of the
+<span id="fn_20"></span>[13:2](eod06.htm#fr_20.md) For an account of the
 evidence relating to these monuments, with full bibliographical
 references, see Déchelette, "Manuel d’Archéologie préhistorique Celtique
 et Gallo-Romaine," T. 1, 1912, pp. 390 *et seq*.; also Sophus Müller,
@@ -237,10 +237,10 @@ et Gallo-Romaine," T. 1, 1912, pp. 390 *et seq*.; also Sophus Müller,
 Cassitérides et l’Empire Colonial des Phéniciens," *L’Anthropologie*, T.
 20, 1909, p. 313.
 
-<span id="fn_21"></span>[15:1](eod06.htm#fr_21) W. J. Perry, "The
+<span id="fn_21"></span>[15:1](eod06.htm#fr_21.md) W. J. Perry, "The
 Geographical Distribution of Terraced Cultivation and Irrigation,"
 *Memoirs and Proc. Manch. Lit. and Phil. Soc.*, Vol. 60, 1916.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of Embalming](eod07)
+[Next: The Origin of Embalming](eod07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb22)  [Next](ptb24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb22)  [Next](ptb24.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ a superior orbit most remote from the luminaries, occupies the signs
 opposite to Cancer and Leo: these are Aquarius and Capricorn; and they
 are assigned to him in consideration of their cold and wintry nature;
 and because the configuration by opposition does not co-operate towards
-the production of good. <span id="fr_59"></span>[1](#fn_59)
+the production of good. <span id="fr_59"></span>[1](#fn_59.md)
 
 Jupiter has a favourable temperament, and is situated beneath the sphere
 of Saturn; he therefore occupies the next two signs, Sagittarius
@@ -58,16 +58,16 @@ this planet is never more than two signs distant from the Sun.
 Mercury never has greater distance from the Sun than the space of one
 sign, and is beneath all the other planets: hence he is placed nearest
 to both luminaries, and the remaining two signs, Gemini and Virgo, are
-allotted to him. <span id="fr_60"></span>[1](#fn_60)
+allotted to him. <span id="fr_60"></span>[1](#fn_60.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_59"></span>[28:1](ptb23.htm#fr_59) Saturn being also
+<span id="fn_59"></span>[28:1](ptb23.htm#fr_59.md) Saturn being also
 malefic in his nature.
 
-<span id="fn_60"></span>[29:1](ptb23.htm#fr_60) The planets, having two
+<span id="fn_60"></span>[29:1](ptb23.htm#fr_60.md) The planets, having two
 houses, are said to be more powerful in one by day and in the other by
 night: thus,
 
@@ -88,4 +88,4 @@ disposition is to be found in all modern astrological writers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. The Triplicities](ptb24)
+[Next: Chapter XXI. The Triplicities](ptb24.md)

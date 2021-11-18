@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil59)  [Next](egil61) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil59)  [Next](egil61.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ drink.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER LX. The slaying of Bergonund and Rognvald the king's
-son.](egil61)
+son.](egil61.md)

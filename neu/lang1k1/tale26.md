@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale25)  [Next](tale27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale25)  [Next](tale27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -209,7 +209,7 @@ have seen and done to-night."
 <span id="img_22100"></span>
 
 [![SHE COULD NOT WEARY GAZING AT CAMARALZAMAN](tn/22100.jpg)  
-Click to enlarge](img/22100.jpg)  
+Click to enlarge](img/22100.jpg.md)  
 SHE COULD NOT WEARY GAZING AT CAMARALZAMAN  
 
 "Fair lady," said Danhasch, "you meet me at the right moment to hear
@@ -418,7 +418,7 @@ Then Maimoune turning to the genie said: "Well,
 <span id="img_22700"></span>
 
 [![CASCHCASCH IS UNABLE TO DECIDE WHICH IS THE FAIRER](tn/22700.jpg)  
-Click to enlarge](img/22700.jpg)  
+Click to enlarge](img/22700.jpg.md)  
 CASCHCASCH IS UNABLE TO DECIDE WHICH IS THE FAIRER  
 
 <span id="page_228">p. 228</span> <span id="page_229">p. 229</span>
@@ -515,7 +515,7 @@ ordering the vizir to follow him, set out to visit his son.
 <span id="img_23100"></span>
 
 [![CAMARALZAMAN ILL-TREATS THE GRAND-VIZIR](tn/23100.jpg)  
-Click to enlarge](img/23100.jpg)  
+Click to enlarge](img/23100.jpg.md)  
 CAMARALZAMAN ILL-TREATS THE GRAND-VIZIR  
 
 The prince received his father with profound respect, and the king,
@@ -659,7 +659,7 @@ disposal, on
 
 [![THE KING OF CHINA LOOKS AT THE RING ON THE PRINCESS'S
 FINGER](tn/23500.jpg)  
-Click to enlarge](img/23500.jpg)  
+Click to enlarge](img/23500.jpg.md)  
 THE KING OF CHINA LOOKS AT THE RING ON THE PRINCESS'S FINGER  
 
 which the justly irritated monarch promptly had it cut off.
@@ -880,7 +880,7 @@ be equally great."
 <span id="img_24100"></span>
 
 [![BADOURA RECOGNISES CAMARALZAMAN](tn/24100.jpg)  
-Click to enlarge](img/24100.jpg)  
+Click to enlarge](img/24100.jpg.md)  
 BADOURA RECOGNISES CAMARALZAMAN  
 
 <span id="page_242">p. 242</span> <span id="page_243">p. 243</span>
@@ -1046,7 +1046,7 @@ in the dark, even if my strength held out." Overwhelmed by
 <span id="img_24700"></span>
 
 [![THE BIRD FLIES OFF WITH THE TALISMAN](tn/24700.jpg)  
-Click to enlarge](img/24700.jpg)  
+Click to enlarge](img/24700.jpg.md)  
 THE BIRD FLIES OFF WITH THE TALISMAN  
 
 <span id="page_248">p. 248</span> <span id="page_249">p. 249</span>
@@ -1305,7 +1305,7 @@ stored up there, said how happy
 <span id="img_25500"></span>
 
 [![CAMARALZAMAN WATCHES THE BIRDS](tn/25500.jpg)  
-Click to enlarge](img/25500.jpg)  
+Click to enlarge](img/25500.jpg.md)  
 CAMARALZAMAN WATCHES THE BIRDS  
 
 it made him that Heaven should in this way reward his kind host's many
@@ -1444,7 +1444,7 @@ some into a dish, she found them
 <span id="img_25900"></span>
 
 [![THE TALISMAN IS DISCOVERED IN ONE OF THE JARS](tn/25900.jpg)  
-Click to enlarge](img/25900.jpg)  
+Click to enlarge](img/25900.jpg.md)  
 THE TALISMAN IS DISCOVERED IN ONE OF THE JARS  
 
 <span id="page_260">p. 260</span> <span id="page_261">p. 261</span>
@@ -1667,4 +1667,4 @@ celebrated throughout the kingdom with the utmost rejoicing.
 
 ------------------------------------------------------------------------
 
-[Next: Noureddin and the Fair Persian](tale27)
+[Next: Noureddin and the Fair Persian](tale27.md)

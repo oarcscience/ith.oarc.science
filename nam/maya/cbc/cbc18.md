@@ -1,18 +1,18 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](cbc17)  [Next](cbc19) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](cbc17)  [Next](cbc19.md) 
 
 ------------------------------------------------------------------------
 
 # XIII
 
-### (THE CREATION OF THE UINAL) <span id="fr_465"></span>[5](#fn_463)
+### (THE CREATION OF THE UINAL) <span id="fr_465"></span>[5](#fn_463.md)
 
 Thus it was recorded &lt;by&gt; the first sage,
-Melchise&lt;dek&gt;, <span id="fr_466"></span>[6](#fn_464) the first
-prophet, Napuc Tun, <span id="fr_467"></span>[7](#fn_465) the priest,
+Melchise&lt;dek&gt;, <span id="fr_466"></span>[6](#fn_464.md) the first
+prophet, Napuc Tun, <span id="fr_467"></span>[7](#fn_465.md) the priest,
 the first priest. This is a song of how the *uinal* came to be created
-before the creation of the world. <span id="fr_468"></span>[8](#fn_466)
+before the creation of the world. <span id="fr_468"></span>[8](#fn_466.md)
 Then he began to march by his own effort alone. Then said his maternal
 grandmother, then said his maternal aunt, then said his paternal
 grandmother, then said his sister-in-law: "What shall we say when we see
@@ -20,10 +20,10 @@ man on the road?" These were their words as they marched along, when
 there was no man &lt;as yet&gt;. Then they arrived there in the east and
 began to speak. "Who has passed here? Here are footprints. Measure it
 off with your foot." So spoke the mistress of the world. <span
-id="fr_469"></span>[9](#fn_467) Then he measured the footstep of our
-Lord, God <span id="fr_470"></span>[10](#fn_468) the Father. This was
+id="fr_469"></span>[9](#fn_467.md) Then he measured the footstep of our
+Lord, God <span id="fr_470"></span>[10](#fn_468.md) the Father. This was
 the reason it was called counting off the whole earth, *lahca* (12)
-Oc. <span id="fr_471"></span>[11](#fn_469) This was the count, after it
+Oc. <span id="fr_471"></span>[11](#fn_469.md) This was the count, after it
 had been created by &lt;the day&gt; 13 Oc, after his feet were joined
 evenly, after they had departed there in the east. Then he spoke
 
@@ -33,7 +33,7 @@ its name when the day had no name, after he had marched along with his
 maternal grandmother, his maternal aunt, his paternal grandmother and
 his sister-in-law. The uinal was created, the day, as it was called, was
 created, heaven and earth were created, the stairway <span
-id="fr_472"></span>[1](#fn_470) of water, the earth, rocks and trees;
+id="fr_472"></span>[1](#fn_470.md) of water, the earth, rocks and trees;
 the things of the sea and the things of the land were created.
 
 On 1 Chuen he raised himself to his divinity, after he had made heaven
@@ -50,14 +50,14 @@ heavens, the things of the sea and the things of the earth. /
 |----------|
 | p\. 61 C |
 
-On 4 Ix sky and earth were tilted. <span id="fr_473"></span>[2](#fn_471)
+On 4 Ix sky and earth were tilted. <span id="fr_473"></span>[2](#fn_471.md)
 
 On 5 Men he made everything.
 
-On 6 Cib the first candle <span id="fr_474"></span>[3](#fn_472) was
+On 6 Cib the first candle <span id="fr_474"></span>[3](#fn_472.md) was
 made; it became light when there was neither sun nor moon.
 
-On 7 Caban honey <span id="fr_475"></span>[4](#fn_473) was first
+On 7 Caban honey <span id="fr_475"></span>[4](#fn_473.md) was first
 created, when we had none.
 
 On 8 E¢nab his hand and foot were firmly set, then he picked up small
@@ -70,7 +70,7 @@ might not be noticed.
 
 On 11 Imix rocks and trees were formed; this he did within the day.
 
-On 12 Ik the breath of life <span id="fr_476"></span>[5](#fn_474) was
+On 12 Ik the breath of life <span id="fr_476"></span>[5](#fn_474.md) was
 created. The reason it was called Ik was because there was no death in
 it.
 
@@ -85,12 +85,12 @@ town.
 <span id="page_118">p. 118</span>
 
 On 3 Cimi he invented death; it happened that our Lord God invented the
-first death. <span id="fr_477"></span>[1](#fn_475)
+first death. <span id="fr_477"></span>[1](#fn_475.md)
 
 On 5 Lamat he established the seven great waters of the sea.
 
 On 6 Muluc all valleys were submerged, when the world was not yet
-created. <span id="fr_478"></span>[2](#fn_476) Then occurred the
+created. <span id="fr_478"></span>[2](#fn_476.md) Then occurred the
 invention of the word of our Lord God, when there was no word in heaven,
 when there were neither rocks nor trees.
 
@@ -102,10 +102,10 @@ spoke as follows: /
 | p\. 62 C |
 
 "Thirteen entities, seven entities, one." <span
-id="fr_479"></span>[3](#fn_477) So it spoke when the word came forth, at
+id="fr_479"></span>[3](#fn_477.md) So it spoke when the word came forth, at
 the time when there was no word. Then the reason was sought by the first
 ruling day (the first day Ahau) why the meaning of the word to them was
-not revealed <span id="fr_480"></span>[4](#fn_478) so that they could
+not revealed <span id="fr_480"></span>[4](#fn_478.md) so that they could
 declare themselves. Then they went to the center of heaven and joined
 hands. Then the following were set up in the middle of the land: the
 Burners, four of them:
@@ -132,7 +132,7 @@ These are the four Rulers.
 | 1 Men    | 6   | 11 Chicchen                                    |
 | 2 Cib    |     | 12 Cimi                                        |
 | 3 Caban  | 7   | 13 Manik                                       |
-| 4 E¢nab  |     | 1 Lamat <span id="fr_481"></span>[5](#fn_479), |
+| 4 E¢nab  |     | 1 Lamat <span id="fr_481"></span>[5](#fn_479.md), |
 
  
 
@@ -167,42 +167,42 @@ Father. /
 Thus he was there in his divinity, in the clouds, alone and by his own
 effort, when he created the entire world, when he moved in the heavens
 in his divinity. Thus he ruled in his great power. <span
-id="fr_482"></span>[1](#fn_480) Every day is set in order according to
+id="fr_482"></span>[1](#fn_480.md) Every day is set in order according to
 the count, beginning in the east, as it is arranged.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_463"></span>[116:5](cbc18.htm#fr_465) The Maya *uinal* was
+<span id="fn_463"></span>[116:5](cbc18.htm#fr_465.md) The Maya *uinal* was
 a period of twenty days, each with a different name. The Maya year, or
 *haab*, was composed of eighteen such uinals and a closing period of
 five days known as *xma kaba kin*, or nameless days.
 
-<span id="fn_464"></span>[116:6](cbc18.htm#fr_466) Written *Merchise* in
+<span id="fn_464"></span>[116:6](cbc18.htm#fr_466.md) Written *Merchise* in
 the Maya text. The presence of an r indicates a European word or name,
 but it does not follow that it was an r in Spanish. R and l sounded
 alike to the Maya ear, and in native documents we find the name Melchor
 written Merchor. We have already seen Bible names piously interpolated
 in native legends. The last syllable is here supplied by the translator.
 
-<span id="fn_465"></span>[116:7](cbc18.htm#fr_467) A famous Maya prophet
+<span id="fn_465"></span>[116:7](cbc18.htm#fr_467.md) A famous Maya prophet
 who foretold the coming of the Spaniards. See Appendix D.
 
-<span id="fn_466"></span>[116:8](cbc18.htm#fr_468) *Tima to ahac cab*;
+<span id="fn_466"></span>[116:8](cbc18.htm#fr_468.md) *Tima to ahac cab*;
 this could also be translated: before it dawned.
 
-<span id="fn_467"></span>[116:9](cbc18.htm#fr_469) The mistress of the
-world. *Cf.* 114, note  [6](cbc17.htm#fn_437).
+<span id="fn_467"></span>[116:9](cbc18.htm#fr_469.md) The mistress of the
+world. *Cf.* 114, note  [6](cbc17.htm#fn_437.md).
 
-<span id="fn_468"></span>[116:10](cbc18.htm#fr_470) Alternative
+<span id="fn_468"></span>[116:10](cbc18.htm#fr_470.md) Alternative
 translation: Then our Lord, God the Father, measured his footstep.
 
-<span id="fn_469"></span>[116:11](cbc18.htm#fr_471) In other words, the
+<span id="fn_469"></span>[116:11](cbc18.htm#fr_471.md) In other words, the
 day 12 Oc (*lahca Oc*) is derived from the phrase, *xoc lah cab oc*,
 which means counting off the whole world by footsteps.
 
-<span id="fn_470"></span>[117:1](cbc18.htm#fr_472) Maya *eb* is the name
+<span id="fn_470"></span>[117:1](cbc18.htm#fr_472.md) Maya *eb* is the name
 of one of the days, and also means stairway. It is probably derived from
 *e*, a point, and refers to a series of points or indentations (Seler
 1902, p. 482). Why it is connected with water is uncertain, but the fact
@@ -210,42 +210,42 @@ is confirmed on page 74 of the Dresden Codex. Here we see the old
 goddess with the jaguar claws emptying a jar of water upon the earth,
 and in the descending stream of water is pictured the day-sign Eb.
 
-<span id="fn_471"></span>[117:2](cbc18.htm#fr_473) Possibly a reference
+<span id="fn_471"></span>[117:2](cbc18.htm#fr_473.md) Possibly a reference
 to the horizon where earth and sky meet.
 
-<span id="fn_472"></span>[117:3](cbc18.htm#fr_474) *Cib*, which has
+<span id="fn_472"></span>[117:3](cbc18.htm#fr_474.md) *Cib*, which has
 meant candle since the Spanish occupation, appears to have always been
 the word for wax. We can find no evidence of the use of candles before
 the Conquest, but according to the reports of the Sixteenth Century
 settlers there was such an extensive trade in beeswax that it is
 difficult to believe that it dated only from the Spanish occupation of
 the country (Relaciones de Yucatan). *Cf.* p. 101, note
- [6](cbc15.htm#fn_325).
+ [6](cbc15.htm#fn_325.md).
 
-<span id="fn_473"></span>[117:4](cbc18.htm#fr_475) *Cab*, here
+<span id="fn_473"></span>[117:4](cbc18.htm#fr_475.md) *Cab*, here
 translated as honey, could also mean the earth.
 
-<span id="fn_474"></span>[117:5](cbc18.htm#fr_476) *Ik* can mean either
+<span id="fn_474"></span>[117:5](cbc18.htm#fr_476.md) *Ik* can mean either
 wind or the breath of life. The context appears to call for the latter
 rendering.
 
-<span id="fn_475"></span>[118:1](cbc18.htm#fr_477) Following the day 3
+<span id="fn_475"></span>[118:1](cbc18.htm#fr_477.md) Following the day 3
 Cimi, 4 Manik is omitted.
 
-<span id="fn_476"></span>[118:2](cbc18.htm#fr_478) Possibly a reference
+<span id="fn_476"></span>[118:2](cbc18.htm#fr_478.md) Possibly a reference
 to the belief in a previous creation which was destroyed by water.
 Throughout this passage everything that occurred is told in language
 which is a play of words on the name of the day.
 
-<span id="fn_477"></span>[118:3](cbc18.htm#fr_479) The twenty day-names
+<span id="fn_477"></span>[118:3](cbc18.htm#fr_479.md) The twenty day-names
 were combined with the numbers one to thirteen. When the numerical
 series of thirteen was completed, it began over again and was repeated
 for seven days more. Consequently we have 13 days + 7 days = 1 *uinal*.
 
-<span id="fn_478"></span>[118:4](cbc18.htm#fr_480) *Hepahac*, here
+<span id="fn_478"></span>[118:4](cbc18.htm#fr_480.md) *Hepahac*, here
 translated as revealed, literally means opened, like a door.
 
-<span id="fn_479"></span>[118:5](cbc18.htm#fr_481) This series of twenty
+<span id="fn_479"></span>[118:5](cbc18.htm#fr_481.md) This series of twenty
 days could be the first *uinal* of a Year 8 Muluc which recurred every
 52 years. From the time of the Conquest down to the compilation of the
 Chumayel, this year could have fallen in 1562, 1614, 1666, 1718 and
@@ -253,11 +253,11 @@ Chumayel, this year could have fallen in 1562, 1614, 1666, 1718 and
 clear. If it is a secondary count beginning on the day 6 Ahau, then 13
 Manik is wrongly numbered 7.
 
-<span id="fn_480"></span>[119:1](cbc18.htm#fr_482) Among the modern
+<span id="fn_480"></span>[119:1](cbc18.htm#fr_482.md) Among the modern
 Jacalteca Indians it is still believed that the days were once men who
 lived on the earth. They were rulers who protected the village or
 divided the land (Lafarge and Byers 1931, p. 159).
 
 ------------------------------------------------------------------------
 
-[Next: XIV: A History of the Spanish Conquest](cbc19)
+[Next: XIV: A History of the Spanish Conquest](cbc19.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig05)  [Next](vig07) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig05)  [Next](vig07.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ kinsmen, will suffer." "It was a bad voyage of yours to Iceland," said
 Ivar, "if we on that account are to be dependent on Icelanders, or cast
 off our own friends and kindred: nor do I know why you chose to visit
 that most hateful people; and then too you have escaped telling me what
-has happened to you."  <span id="fr_3"></span>[1](#fn_3) "It is very
+has happened to you."  <span id="fr_3"></span>[1](#fn_3.md) "It is very
 different from what you suppose," said Hreidar; "there are many good
 fellows there." "Well," replied Ivar, "at any rate that rough and shaggy
 beast does not look particularly well on the high seat." But when he saw
@@ -96,7 +96,7 @@ on.
 
 ### Footnotes
 
-<span id="fn_3"></span>[1](vig06.htm#fr_3) Ivar considers it an
+<span id="fn_3"></span>[1](vig06.htm#fr_3.md) Ivar considers it an
 aggravation of the annoyance caused by Eyiolf that his brother had
 visited a place which he hated and which he had no wish to hear anything
 about, and so they had not the pleasure of telling one another how they
@@ -104,4 +104,4 @@ had fared during their absence.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](vig07)
+[Next: Chapter IV](vig07.md)

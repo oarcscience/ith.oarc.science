@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai06)  [Next](iai08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai06)  [Next](iai08.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,8 +19,8 @@ His coming; oft in ecstacies they prate
 O'er his surprise, and softly sport and splash  
 The limpid waves around, that glowing flash  
 Like heaps of snowy pearls flung to the light  
-By Hea's <span id="fr_67"></span>[1](#fn_67) hands, his Zir-ri <span
-id="fr_68"></span>[2](#fn_68) to delight.  
+By Hea's <span id="fr_67"></span>[1](#fn_67.md) hands, his Zir-ri <span
+id="fr_68"></span>[2](#fn_68.md) to delight.  
 And now upon the rock each maid reclines,  
 While Ishtar's form beneath them brightly shines;  
 Beside the fountain stands the lovely god,  
@@ -70,7 +70,7 @@ The earth, then scorching drinks the rising dews;
 Till he at last no longer can refuse,  
 And love directs while he the goddess greets:  
 "Such wondrous beauty here no mortal meets;  
-But come, thou Zir-ru, <span id="fr_69"></span>[3](#fn_69) with me
+But come, thou Zir-ru, <span id="fr_69"></span>[3](#fn_69.md) with me
 sweetly rest;  
 Primroses, gentians, with their charms invest  
 My mossy couch, with odorous citron-trees  
@@ -83,11 +83,11 @@ On earth, is sweeter bliss than gods enjoy;
 Their shadowy forms with love cannot employ  
 Such pleasure as a mortal's sweet caress.  
 Come, Zi-ru, and thy spirit I will bless;  
-The Mandrake <span id="fr_70"></span>[4](#fn_70) ripened golden, glows
+The Mandrake <span id="fr_70"></span>[4](#fn_70.md) ripened golden, glows
 around;  
 The fruit of Love is fragrant on the ground."
 
-Amid the Dud'im <span id="fr_71"></span>[5](#fn_71) plants he now
+Amid the Dud'im <span id="fr_71"></span>[5](#fn_71.md) plants he now
 reclines,  
 And to his welcome fate himself resigns;
 
@@ -112,7 +112,7 @@ Till she reclined upon his breast, embraced,
 Their lips in one long thrilling rapture meet.  
 But hark! what are these strains above so sweet  
 That float around, above, their love surround?  
-An-nu-na-ci <span id="fr_72"></span>[6](#fn_72) from forests, mounts
+An-nu-na-ci <span id="fr_72"></span>[6](#fn_72.md) from forests, mounts
 around,  
 And from the streams and lakes, and ocean, trees,  
 And all that haunt the godly place, to please  
@@ -159,27 +159,27 @@ Alas! for me, is this unfruitful day!"
 
 ### Footnotes
 
-<span id="fn_67"></span>[23:1](iai07.htm#fr_67) "Hea," god of the ocean.
+<span id="fn_67"></span>[23:1](iai07.htm#fr_67.md) "Hea," god of the ocean.
 
-<span id="fn_68"></span>[23:2](iai07.htm#fr_68) "Zir-ri," spirits of the
+<span id="fn_68"></span>[23:2](iai07.htm#fr_68.md) "Zir-ri," spirits of the
 river, the sea-daughters of Hea.
 
-<span id="fn_69"></span>[24:3](iai07.htm#fr_69) "Zir-ru" water-nymph.
+<span id="fn_69"></span>[24:3](iai07.htm#fr_69.md) "Zir-ru" water-nymph.
 
-<span id="fn_70"></span>[24:4](iai07.htm#fr_70) "Mandrake," the
+<span id="fn_70"></span>[24:4](iai07.htm#fr_70.md) "Mandrake," the
 "love-plant."
 
-<span id="fn_71"></span>[24:5](iai07.htm#fr_71) "Dud'im" or Chald.
+<span id="fn_71"></span>[24:5](iai07.htm#fr_71.md) "Dud'im" or Chald.
 דודאים, and Syr. יברוחין, the "love-plant" or mandrake: perhaps also
 originally from "du-du" ("love") or ex. <span id="page_25">p. 25</span>
 רוּ ("particula"), Arab. "possessorem designante," et e) rad. Arab. דדי
 ("aegrotatvit"),or דוּד or "amare." See Simoni's Lex. Man. Heb. et
 Chald. et Lat., pp. 204-206, and Park's Heb. Lex., p. 113, note †.
 
-<span id="fn_72"></span>[25:6](iai07.htm#fr_72) "An-nu-na-ci," spirits
+<span id="fn_72"></span>[25:6](iai07.htm#fr_72.md) "An-nu-na-ci," spirits
 of the earth.
 
 ------------------------------------------------------------------------
 
 [Next: Tablet II--Column I. Ishtar's Midnight Courtship in the Palace of
-Izdubar](iai08)
+Izdubar](iai08.md)

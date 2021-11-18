@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei16)  [Next](jei18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei16)  [Next](jei18.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ minutest detail how it all came to be?"
 The reader will notice that Nansen does not commit himself to the
 popular view that the aurora is caused by electricity. In that he shows
 his wisdom, for we shall now deduce evidence to show that
-[electricity](errata.htm#73) has nothing whatever to do with the aurora.
+[electricity](errata.htm#73.md) has nothing whatever to do with the aurora.
 
 If, as some people think, the earth's magnetism or electricity at the
 polar regions or around the earth's magnetic poles were the cause of the
@@ -361,7 +361,7 @@ Antarctic Expedition to the effect that:
 [![The central sun as it would appear to an explorer when he had reached
 the spot indicated by the letter ''D'' on the diagram, if the
 atmospheric conditions were favorable.](tn/28400.jpg)  
-Click to enlarge](img/28400.jpg)  
+Click to enlarge](img/28400.jpg.md)  
 The central sun as it would appear to an explorer when he had reached
 the spot indicated by the letter ''D'' on the diagram, if the
 atmospheric conditions were favorable.  
@@ -399,7 +399,7 @@ the shadow of what is to be seen in the polar regions."
 And in "Earth, Sea, and Sky," by H. D. Northrop, we read:
 
 "As we retire from the pole, the phenomenon becomes a rare
-[occurrence](errata.htm#74), and is less perfectly and distinctly
+[occurrence](errata.htm#74.md), and is less perfectly and distinctly
 developed."
 
 Regarding the two quotations just made a word of explanation is
@@ -546,11 +546,11 @@ central sun. And our next task is to see if there are not evidences of
 life in the land that is warmed by that sun. For if it warms continents
 and waters in the interior of the earth, if, as we have seen, birds have
 their feeding and breeding grounds there, if an
-[occasional](errata.htm#75) log or seed or pollen like dust is seen in
+[occasional](errata.htm#75.md) log or seed or pollen like dust is seen in
 the Arctic that come from some such unknown place as we have described,
 it ought to be possible to obtain enough evidence of such life as would
 prove up to the hilt the contention of this book.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. The Eskimo](jei18)
+[Next: Chapter XV. The Eskimo](jei18.md)

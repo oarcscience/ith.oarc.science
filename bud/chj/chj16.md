@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj15)  [Next](chj17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj15)  [Next](chj17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 ### CHAPTER XIV
 
 <span class="smallcaps">Dharmagupta</span> <span
-id="fr_175"></span>[1](#fn_174)
+id="fr_175"></span>[1](#fn_174.md)
 
 <span class="smallcaps">One</span> of the most important services that
 S’akyamuni rendered to his immediate disciples, as well as to posterity,
@@ -80,7 +80,7 @@ were beginning to form cliques and
 schisms and to withdraw from communion with their brethren. Dharmagupta,
 Upagupta's successor, whom we place, therefore, somewhere about B.C. 240
 or a little later, reformed the Vinaya by a new recitation, <span
-id="fr_176"></span>[1](#fn_175) and thus withdrew his followers formally
+id="fr_176"></span>[1](#fn_175.md) and thus withdrew his followers formally
 from communion with the others. This, says Gyōnen (p. 343), was the
 first schism.
 
@@ -92,12 +92,12 @@ originally there had been but one.
 We need not stay to inquire what these twenty disciplines were. Only
 four of them reached China, and these four were ultimately merged into
 one, the survivor being a reformed edition of Dharmagupta's reformed
-code. <span id="fr_177"></span>[2](#fn_176)
+code. <span id="fr_177"></span>[2](#fn_176.md)
 
 According to the Dharmagupta system of discipline, a system which is
 still largely in vogue in Japan, though the old Vinaya or Ritsu sect has
 long ceased to have a separate corporate existence of its own, <span
-id="fr_178"></span>[3](#fn_177) the faithful here on earth are divided
+id="fr_178"></span>[3](#fn_177.md) the faithful here on earth are divided
 into seven classes. At the bottom of the scale come (i) the *Ubasoku*,
 and (ii) the *Ubai*, laymen and laywomen, who, without leaving their
 homes, desire to lead a life of religion. Of these persons it was
@@ -107,7 +107,7 @@ steal, not to be guilty of any form of
 <span id="page_134">p. 134</span>
 
 lewdness, not to lie, to abstain from intoxicants. Further, on the
-sabbath day, <span id="fr_179"></span>[1](#fn_178) the prohibition of
+sabbath day, <span id="fr_179"></span>[1](#fn_178.md) the prohibition of
 lewdness became the prohibition of even lawful sexual intercourse, and
 there were added a prohibition of the use of perfumes and oils, of
 dances and spectacular shows, of luxurious couches—of all things, in
@@ -116,7 +116,7 @@ added as a counsel of perfection, not to eat at odd hours.
 
 Above the Ubasoku and Ubai came (iii) the *Shami*, and (iv) *Shamini*,
 whom we may call the Buddhist Endeavourers. <span
-id="fr_180"></span>[2](#fn_179) These persons undertook to keep all the
+id="fr_180"></span>[2](#fn_179.md) These persons undertook to keep all the
 above rules permanently. They further added a rule which forbade them to
 receive gold, silver, or precious objects of any kind; they made a vow,
 that is, of Perpetual Poverty. Higher up in the scale came (v) the
@@ -146,11 +146,11 @@ his fellow-creatures, he deliberately chooses a continuance of his
 earthly existence in order that he may live for others and not for
 himself. Such is the by no means unworthy aim that is set before the
 Buddhist follower of the Mahāyāna Discipline. <span
-id="fr_181"></span>[1](#fn_180)
+id="fr_181"></span>[1](#fn_180.md)
 
 In order to reach to that end the candidate for Bodhisattvaship must
 observe a multitude of rules (250 for a man, 348 for a woman), <span
-id="fr_182"></span>[2](#fn_181) of which we may give the following
+id="fr_182"></span>[2](#fn_181.md) of which we may give the following
 summary account, taken, however, from sources posterior to the Wei
 period, and representing the system in its fuller developments.
 
@@ -190,7 +190,7 @@ Then followed minute rules for the deportment of the monks and nuns. The
 Vinaya sects laid great stress on the observation of these rules, for
 they said, again with a certain amount of truth, that if a man would
 follow the discipline of Buddha he would come to know of his
-doctrine. <span id="fr_183"></span>[1](#fn_182)
+doctrine. <span id="fr_183"></span>[1](#fn_182.md)
 
 The Han translators had spoken only on *Sila*, or
 
@@ -199,11 +199,11 @@ The Han translators had spoken only on *Sila*, or
 <span class="contnote">\[paragraph continues\]</span> Morality. Anshikao
 had translated a Sūtra, said to have been spoken by the Buddha himself,
 on "the lightness and heaviness of the sin of transgressing the
-*Sila;*" <span id="fr_184"></span>[1](#fn_183) and Ch’ Huen had
+*Sila;*" <span id="fr_184"></span>[1](#fn_183.md) and Ch’ Huen had
 translated another which illustrated the Mahāyāna conception of the Sila
 by showing how the Bodhisattva (*i.e.* S’akyamuni in his earthly
 ministry) had kept the Six Parāmitās, or Cardinal Virtues of the
-Mahāyāna. <span id="fr_185"></span>[2](#fn_184) He, whose life was a
+Mahāyāna. <span id="fr_185"></span>[2](#fn_184.md) He, whose life was a
 pattern for the Buddhist monk, had shown (i) liberality and generosity;
 (ii) the morality of self-restraint and chastity; (iii) patience; (iv)
 steadfastness of purpose and energy in the pursuit of Truth; (v)
@@ -219,7 +219,7 @@ had made no attempt to introduce into China the order of monks.
 
 The great Han dynasty came to an end in A.D. 214, having held China in
 one way or another under its continuous sway ever since B.C. 206. <span
-id="fr_186"></span>[3](#fn_185) The assassination of the last Han ruler
+id="fr_186"></span>[3](#fn_185.md) The assassination of the last Han ruler
 led to a prolonged civil war, at the conclusion of which we find China
 divided into the kingdoms of the Wei, the Wu, and the Shū. Buddhism had
 been before the people for several years now—fully seventy, if we reckon
@@ -241,7 +241,7 @@ Kushans in India, were equally concerned in defending their territories
 against these dreaded invaders, and many embassies passed between them
 during the last half of the second era. It was the age which saw Pao
 Chao's noble sacrifice and his victory over his barbarous foes. <span
-id="fr_187"></span>[1](#fn_186)
+id="fr_187"></span>[1](#fn_186.md)
 
 After the fall of the Han dynasty and the division of China into three
 hostile camps, the Kushans sent no more embassies. It was useless to
@@ -262,7 +262,7 @@ The short-lived Chinese kingdom of Shū has no
 importance for the Buddhist historian. It contained within its
 boundaries no already established centre of Buddhist teaching, and
 apparently attracted no missionaries. The southern kingdom of Wu will
-require a special note; <span id="fr_188"></span>[1](#fn_187) to the
+require a special note; <span id="fr_188"></span>[1](#fn_187.md) to the
 translators of the Wei dynasty (A.D. 220–265) I will devote a few words
 as a fitting conclusion to this chapter.
 
@@ -290,7 +290,7 @@ the true representative of the
 <span id="page_140">p. 140</span>
 
 <span class="contnote">\[paragraph continues\]</span> Japanese
-Mahāyāna. <span id="fr_189"></span>[1](#fn_188) We have already seen it
+Mahāyāna. <span id="fr_189"></span>[1](#fn_188.md) We have already seen it
 dimly in As’vaghosha; we have seen Nāgārjuna learning it from the Nāga
 chieftain. In A.D. 147 the book containing that doctrine is taken to
 China; before A.D. 250 *five* versions of that book had been made. It
@@ -358,7 +358,7 @@ Kharachar, Central Asia—one of them a descendant of S’akyamuni's
 uncle—and some translate works of a practical rather than a religious
 character: spells for relieving toothache, bad eyes, crying babies, and
 people suffering from summer sickness. <span
-id="fr_190"></span>[1](#fn_189) The Lian (502–557) at Nanking have
+id="fr_190"></span>[1](#fn_189) The Lian (502–557.md) at Nanking have
 translators who come by sea from Siam. It would be unprofitable to
 continue this list any further. Suffice it to say that books came in by
 the thousand, representing all the conflicting schools of Buddhist
@@ -370,7 +370,7 @@ from India.
 Several practical reforms ought to be noticed. In A.D. 335 a monk named
 Buddhoganga persuaded King She-hu of the Posterior Chow dynasty to
 institute ordinations and allow Chinese natives to take monastic
-vows. <span id="fr_191"></span>[2](#fn_190) This permission greatly
+vows. <span id="fr_191"></span>[2](#fn_190.md) This permission greatly
 changed the nature of Chinese Buddhism. In India it had been the custom
 for kings to support the Order by their royal bounty, and the custom
 obtained at first in China also, thus keeping the Order as an exotic and
@@ -402,7 +402,7 @@ the Huns was Attila (A.D. 445), whose word was law from the frontiers of
 Gaul to those of China. How much of Buddhist teaching came into
 Christian folklore and superstition through Hunnish soldiers in the
 regiments of Attila, it would require a large treatise to
-investigate. <span id="fr_192"></span>[1](#fn_191)
+investigate. <span id="fr_192"></span>[1](#fn_191.md)
 
 In 372 a Chinese monk preached Buddhism in the
 
@@ -416,34 +416,34 @@ the Way was brought to Japan in the year 545 A.D.
 
 ### Footnotes
 
-<span id="fn_174"></span>[131:1](chj16.htm#fr_175) I take this chapter
+<span id="fn_174"></span>[131:1](chj16.htm#fr_175.md) I take this chapter
 mainly from Gyōnen's sketch of the Eight Buddhist Sects in Japan
 ("*Revue de l’Histoire des Religions*," vol. xxv. p. 341).
 
-<span id="fn_175"></span>[133:1](chj16.htm#fr_176) The Sacred Books had
+<span id="fn_175"></span>[133:1](chj16.htm#fr_176.md) The Sacred Books had
 possibly not yet been committed to writing; they were orally recited,
 and the oral recitation must have been a frequent cause of inadvertent
 error.
 
-<span id="fn_176"></span>[133:2](chj16.htm#fr_177) These four were: (a)
+<span id="fn_176"></span>[133:2](chj16.htm#fr_177) These four were: (a.md)
 *Jūbunritsu*, the Vinaya (in Ten Recitations) of the Sarvāstivadins; (b)
 *Shibunritsu* (Four Recitations), of the Dharmaguptas: (c) *Gobunritsu*
 (Five Recitations), of the Mahis’akas; and (d) *Sōritsu*, the Vinaya of
 the clergy.
 
-<span id="fn_177"></span>[133:3](chj16.htm#fr_178) Early in the Meiji
+<span id="fn_177"></span>[133:3](chj16.htm#fr_178.md) Early in the Meiji
 era the Government forced the Ritsu sect to amalgamate itself with the
 Shingon.
 
-<span id="fn_178"></span>[134:1](chj16.htm#fr_179) The observance of the
+<span id="fn_178"></span>[134:1](chj16.htm#fr_179.md) The observance of the
 weekly sabbath was one of the primitive features of Buddhism. The
 Buddhists of Japan are beginning to observe the day; perhaps in time to
 come they will do so still more.
 
-<span id="fn_179"></span>[134:2](chj16.htm#fr_180) The Sanskrit word
+<span id="fn_179"></span>[134:2](chj16.htm#fr_180.md) The Sanskrit word
 *S’ramana* has the idea of "endeavouring."
 
-<span id="fn_180"></span>[135:1](chj16.htm#fr_181) It must be remembered
+<span id="fn_180"></span>[135:1](chj16.htm#fr_181.md) It must be remembered
 that there are two kinds of Bodhisattvas and Buddhas—human and
 superhuman. *Ningen no uchi ni mo Hotoke ga ari, Bosatsu ga aru. Ningen
 igwai ni ni mo Hotoke ga ari, Bosatsu ga arimasu*. The superhuman
@@ -460,29 +460,29 @@ the phrase sokushinjōbutsu, "'attainment of Buddhahood in the present
 body," to describe the state of the Bodhisattva who "need not return
 again" (*fu tai ten*).
 
-<span id="fn_181"></span>[135:2](chj16.htm#fr_182) The 250 *Bosatsu Kai*
+<span id="fn_181"></span>[135:2](chj16.htm#fr_182.md) The 250 *Bosatsu Kai*
 are explained in the Bommūkyō (Brahmajālasutra).
 
-<span id="fn_182"></span>[136:1](chj16.htm#fr_183) See Nanjo, "Twelve
+<span id="fn_182"></span>[136:1](chj16.htm#fr_183.md) See Nanjo, "Twelve
 Buddhist Sects," p. 20.
 
-<span id="fn_183"></span>[137:1](chj16.htm#fr_184) Nanjo, "Cat. Trip.,"
+<span id="fn_183"></span>[137:1](chj16.htm#fr_184.md) Nanjo, "Cat. Trip.,"
 No. 1112.
 
-<span id="fn_184"></span>[137:2](chj16.htm#fr_185) *Ibid*., No. 435.
+<span id="fn_184"></span>[137:2](chj16.htm#fr_185.md) *Ibid*., No. 435.
 
-<span id="fn_185"></span>[137:3](chj16.htm#fr_186) The Former or Western
+<span id="fn_185"></span>[137:3](chj16.htm#fr_186.md) The Former or Western
 Han were in power from B.C. 206 to A.D. 25; the Latter or Eastern Han
 from A.D. 25 to A.D. 214.
 
-<span id="fn_186"></span>[138:1](chj16.htm#fr_187) Pao Chao's wife and
+<span id="fn_186"></span>[138:1](chj16.htm#fr_187.md) Pao Chao's wife and
 mother fell into the hands of the barbarians, who placed them in the van
 of their army, and threatened to put them cruelly to death unless Pao
 Chao withdrew his forces. Pao Chao was in great distress, but the
 exhortations of his wife and mother prevailed, and he resolved to do his
 duty by his country.
 
-<span id="fn_187"></span>[139:1](chj16.htm#fr_188) It was from the
+<span id="fn_187"></span>[139:1](chj16.htm#fr_188.md) It was from the
 kingdom of Wu that Japan obtained its first acquaintance with Chinese
 letters, and especially with Confucianism. To this day the ordinary
 pronunciation of Chinese words in Japan is called *Go-on*, the *Wu
@@ -490,7 +490,7 @@ pronunciation*. The Buddhists have a pronunciation of their own, known
 as *Kan-on*, "the pronunciation of Han," *i.e.* Northern China. The
 numbers are from Nanjo's Catalogue.
 
-<span id="fn_188"></span>[140:1](chj16.htm#fr_189) The Japanese and
+<span id="fn_188"></span>[140:1](chj16.htm#fr_189.md) The Japanese and
 Chinese Vinaya sects afterwards adopted Vairoc’ana as their central
 deity, and it was for this reason that they were forced to join
 themselves with the Shingon. But Vairoc’ana and Amitābha are in idea
@@ -498,14 +498,14 @@ identical. They both represent, in idea at least, the "Son of
 Righteousness with healing in His wings," preached to the Far East by
 Gnostics who used Buddhist terminology.
 
-<span id="fn_189"></span>[142:1](chj16.htm#fr_190) In the popular
+<span id="fn_189"></span>[142:1](chj16.htm#fr_190.md) In the popular
 *Buukkyōgimon Kaitōshū*, vol. iii., there is an exposition of several of
 these short "spell-sūtras."
 
-<span id="fn_190"></span>[142:2](chj16.htm#fr_191) This I touch on again
+<span id="fn_190"></span>[142:2](chj16.htm#fr_191.md) This I touch on again
 in my chapter on Heian Buddhism.
 
-<span id="fn_191"></span>[143:1](chj16.htm#fr_192) The annexed quotation
+<span id="fn_191"></span>[143:1](chj16.htm#fr_192.md) The annexed quotation
 may possibly throw some light on these Buddhist ordinations. The reader
 will remember that the period with which we are now dealing was the
 period when Europe was being overrun by barbarian hordes from Central
@@ -532,4 +532,4 @@ its influence, and his institutions could not be described as being
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Manichæism](chj17)
+[Next: Chapter XV. Manichæism](chj17.md)

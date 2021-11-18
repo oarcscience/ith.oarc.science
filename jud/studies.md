@@ -11,12 +11,12 @@ Note: Scanned in and uncorrected text.
 
 #### Index to this essay
 
-[\[Introductory material\]](#intro) [\[The Bible: Are we commanded to
-believe?\]](#bible) [\[The Mishnah - Sanhedrin as source for
-dogma\]](#mishnah) [\[Caraite belief\]](#caraites) [\[Saadiah and the
-beginning of Jewish dogma\]](#saadiah) [\[Maimonides and the 13
-Articles\]](#maimonides) [\[The Anti-Maimonists\]](#anti) [\[Chasdai Ibn
-Crescas\]](#chasdai) [\[Albo\]](#albo)
+[\[Introductory material\]](#intro.md) [\[The Bible: Are we commanded to
+believe?\]](#bible.md) [\[The Mishnah - Sanhedrin as source for
+dogma\]](#mishnah) [\[Caraite belief\]](#caraites.md) [\[Saadiah and the
+beginning of Jewish dogma\]](#saadiah.md) [\[Maimonides and the 13
+Articles\]](#maimonides) [\[The Anti-Maimonists\]](#anti.md) [\[Chasdai Ibn
+Crescas\]](#chasdai) [\[Albo\]](#albo.md)
 
 ------------------------------------------------------------------------
 

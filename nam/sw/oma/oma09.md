@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma08)  [Next](oma10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma08)  [Next](oma10.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ blood of the lion (or whatever it has been named)."
 
 In the kiva is one large, fetish representing each of the four beasts of
 prey: múkaiĭtchă, "lion" (n); kakan, "wolf" (w); shohóna, <span
-id="fr_56"></span>[57](#fn_56) "lynx" (s); gyat "wildcat" (e). These
+id="fr_56"></span>[57](#fn_56) "lynx" (s); gyat "wildcat" (e.md). These
 names are preceded by Shaiyaika (Hunters' society) to indicate that they
 are fetishes. Each fetish is placed in its proper direction in front of
 the altar. The fetish to be given life is placed alongside the one for
@@ -68,10 +68,10 @@ with the one on the altar. It may be recalled from the owner if the
 society wants to use it. This is often done when the owner has been
 lucky in the hunt. When the society finishes with it, it is returned to
 the owner. These fetishes are handed down in the family. <span
-id="fr_57"></span>[58](#fn_57)
+id="fr_57"></span>[58](#fn_57.md)
 
 When a hunter kills an antelope or a deer he brings it into the
-[pueblo](errata.htm#0). The father or mother of the \[hunter's\] house
+[pueblo](errata.htm#0.md). The father or mother of the \[hunter's\] house
 comes out with some corn meal in her hand with which she makes a "road"
 into the house and up the ladder, if they live above. Then they help the
 hunter with his pack, and lay the deer on the floor with its head toward
@@ -107,7 +107,7 @@ painted as the deer was originally. A black line is painted down the
 middle of the face; under the jaw is white. Balls of cotton are stuffed
 in the eye sockets and the centers painted black. Then a string is tied
 across the antlers and to this feathers are attached. <span
-id="fr_58"></span>[59](#fn_58)
+id="fr_58"></span>[59](#fn_58.md)
 
 <span id="page_25">p. 25</span>
 
@@ -122,7 +122,7 @@ This is the way Iatiku made the first hunting society.
 
 ### Footnotes
 
-<span id="fn_56"></span>[23:57](oma09.htm#fr_56) The word co·ho·'nα
+<span id="fn_56"></span>[23:57](oma09.htm#fr_56.md) The word co·ho·'nα
 (Boas, 1928, pt. 2, p. 42, l. 2), eastern Keres: ro'hona, is difficult
 to identify; it has been rendered lynx, weasel, jaguar. I am strongly
 inclined to believe that this animal is the jaguar. In a Santa Aria myth
@@ -142,14 +142,14 @@ Indian country although his customary haunts are farther south. On April
 10, it is reported that a jaguar killed four men in a convent at Peña
 Blanca (Seton, 1929, vol. 1, pt. 1, pp. 28-29
 
-<span id="fn_57"></span>[24:58](oma09.htm#fr_57) Cf. Laguna (Parsons,
+<span id="fn_57"></span>[24:58](oma09.htm#fr_57.md) Cf. Laguna (Parsons,
 1920, p. 127, fig. 20).
 
-<span id="fn_58"></span>[24:59](oma09.htm#fr_58) This corresponds
+<span id="fn_58"></span>[24:59](oma09.htm#fr_58.md) This corresponds
 closely with a recent account from Santa Ana (White, ms). Deer skulls
 and horns, with feathers attached to the antlers, could be seen in great
 numbers on the roofs of houses at Sia a few years ago.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part I](oma10)
+[Next: Wanderings, Part I](oma10.md)

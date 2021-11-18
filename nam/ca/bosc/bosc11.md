@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc10)  [Next](bosc12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc10)  [Next](bosc12.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ herself, danced in presence of the multitude.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Of Many of Their Extravagances](bosc12)
+[Next: Chapter X. Of Many of Their Extravagances](bosc12.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp53)  [Next](prp55) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp53)  [Next](prp55.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ itself. The D (Te) stands for the anus to be cleaved by the mentule.\]
 ------------------------------------------------------------------------
 
 [Next: 55. Who could believe my words? 'Tis shame to confess that the
-sickle](prp55)
+sickle](prp55.md)

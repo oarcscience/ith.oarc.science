@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey25.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,10 +27,10 @@ mere tame every-day discourse; and this modification of voice we may
 call, in a wide sense, *natural music*.
 
 But as the highest art is to conceal the art, <span
-id="fr_24"></span>[1](#fn_24) and to imitate nature, that mighty nation,
+id="fr_24"></span>[1](#fn_24.md) and to imitate nature, that mighty nation,
 the Greeks, with an art almost peculiarly their own, having observed
 these expressions of sentiment, thence deduced certain laws <span
-id="fr_25"></span>[2](#fn_25) of interval, by which, while they kept
+id="fr_25"></span>[2](#fn_25.md) of interval, by which, while they kept
 within the limits of art, they took care not to transgress those of
 nature, but judiciously to
 
@@ -63,7 +63,7 @@ introduction of one or more semitones, we make what is called the
 chromatic.
 
 Whereas, the Greeks had three scales, comprising five genera, or,
-according to some, nine <span id="fr_26"></span>[1](#fn_26), all
+according to some, nine <span id="fr_26"></span>[1](#fn_26.md), all
 differing not only, as ours do, in the position of intervals, but in the
 intervals themselves; this difference of interval (rather than position
 of interval) gave rise to the expression '*genera of a*
@@ -103,8 +103,8 @@ Writers of the present day, greatly differ as to the existence or use of
 these χρόαι {Greek *xróai*}, or shades of distinction, some wishing to
 modify them by a modern application of the term, amounting to those
 shades, 'nuances' or slurs, which the best vocalists or performers are
-sometimes heard to introduce <span id="fr_27"></span>[1](#fn_27); others
-again <span id="fr_28"></span>[2](#fn_28) declaring them to be in
+sometimes heard to introduce <span id="fr_27"></span>[1](#fn_27.md); others
+again <span id="fr_28"></span>[2](#fn_28.md) declaring them to be in
 practice
 
 <span id="page_230">p. 230</span>
@@ -149,7 +149,7 @@ citharoedist mistook the smallest interval (presumed to
 
 be the enharmonic diesis), he was hissed off the stage.
 
-Isaac Vossius <span id="fr_29"></span>[1](#fn_29), from a multitude of
+Isaac Vossius <span id="fr_29"></span>[1](#fn_29.md), from a multitude of
 authorities, has established, that transitions were made by ancient
 singers and performers, from the diatonic to the chromatic and
 enharmonic, with the greatest facility; and he adds: '*which, because
@@ -175,7 +175,7 @@ In *Plutarch's* time (*De Musica*) he bitterly complains that certain
 people '*affirmed the enharmonic diesis to be absolutely
 undistinguishable*,' and that, therefore, it had no place in the scales
 of nature, and that those who attempted to prove it were mere triflers
-(pefluarhké?nai)  <span id="fr_30"></span>[2](#fn_30)
+(pefluarhké?nai)  <span id="fr_30"></span>[2](#fn_30.md)
 
 <span id="page_232">p. 232</span>
 
@@ -231,7 +231,7 @@ scale* contained 24, *for all of which they had particular
 denominations*.
 
 This latter observation would seem to tally very well with what Mr
-Lane <span id="fr_31"></span>[1](#fn_31) says of the canoon (κάνων
+Lane <span id="fr_31"></span>[1](#fn_31.md) says of the canoon (κάνων
 {Greek *kánwn*}) of the present Arabs, which, he says, has 24 treble
 notes. Only, that he adds, each note has *three* strings to it, which
 (later, as we shall see) he affirms to have been *thirds of tones*. If
@@ -240,19 +240,19 @@ he gives a drawing of the instrument), Dr Russell must err, or speak of
 another instrument. I should be inclined to give preference to Lane,
 because of the great pains he has taken in describing the instrument.
 
-Mr Lay Tradescant <span id="fr_32"></span>[2](#fn_32), speaking of the
+Mr Lay Tradescant <span id="fr_32"></span>[2](#fn_32.md), speaking of the
 Chinese intervals, says that 'it is impossible to obtain the intervals
 of their scale on our keyed instruments, but they may be perfectly
 effected on the violin.'
 
 <span id="page_234">p. 234</span>
 
-Mr Vincent <span id="fr_33"></span>[1](#fn_33) gives a most scientific
+Mr Vincent <span id="fr_33"></span>[1](#fn_33.md) gives a most scientific
 description of an elaborate instrument made at Paris, exhibited at the
 Institut, on which the quarter tones were most correctly illustrated,
 and observes, that a much less interval than the quarter-tone, perhaps
 eight or ten times less, is discernible, as proved by a M.
-Delezenne <span id="fr_34"></span>[2](#fn_34), 1827; and our own ears
+Delezenne <span id="fr_34"></span>[2](#fn_34.md), 1827; and our own ears
 attest that universally in the modulations of the voice of the so-called
 savage tribes, and in the refined and anomalously-studied Chinese, there
 are intervals which do not correspond to any notes on our keyed
@@ -260,7 +260,7 @@ instruments, and which to an untrained ear appear almost monotonous.
 
 There is another matter with which incidentally we have to do, namely,
 an apparent difference of opinion between ancient authors themselves
-about the enharmonic. Plutarch <span id="fr_35"></span>[3](#fn_35) says
+about the enharmonic. Plutarch <span id="fr_35"></span>[3](#fn_35.md) says
 that Aristoxenus (in a book not now extant) informs us that Olympus was
 the inventor of an enharmonic, but of a kind consisting of a scale in
 which certain notes, the 'lichani' or 'indicatrices', were omitted, and
@@ -274,7 +274,7 @@ nothing like them.
  
 
 This Scale would approximate to the Scotch, or rather to that given as
-Chinese by Dr Russell. <span id="fr_36"></span>[4](#fn_36) But there is
+Chinese by Dr Russell. <span id="fr_36"></span>[4](#fn_36.md) But there is
 nothing repugnant in this, to the division of the intermediate half-note
 between this saltus; and, as here, it is the division of the halfnote
 interval with which we have to do;
@@ -360,7 +360,7 @@ First, that an enharmonic modulation might; exist is admitted by many
 modern writers. Mr Donkin, for instance, author of the able article on
 Ancient Music in Dr W. Smith's *Dictionary of Greek and Roman
 Antiquities*, observes (under the title of Music) of the different
-genera less frequently named <span id="fr_37"></span>[1](#fn_37), 'that
+genera less frequently named <span id="fr_37"></span>[1](#fn_37.md), 'that
 it would be wrong to conclude hastily, that the others would he
 *impossible* in practice, or *necessarily* unpleasing'; and of the
 enharmonic he says: 'but it is impossible to form a judgment of its
@@ -385,7 +385,7 @@ peculiarity when played upon the violin.
 
 'The reason of this defect seems to have been that the *intervals* of
 the Indian music did not agree with those of Europe.' <span
-id="fr_38"></span>[1](#fn_38)
+id="fr_38"></span>[1](#fn_38.md)
 
 Mr Tradescant might have added, that there will always be some
 difference in an air played on the guitar and on the violin, though the
@@ -533,7 +533,7 @@ the book, taking it for granted that the learned author, who has given
 himself so much pains about the matter, will have chosen the most
 authentic.
 
-James A. DAVIES  <span id="fr_39"></span>[1](#fn_39)
+James A. DAVIES  <span id="fr_39"></span>[1](#fn_39.md)
 
 Formerly of Trin. Coll., Camb.
 
@@ -589,7 +589,7 @@ No. 1
 
 THE WAIATA AROHA: OR, THE BRIDE'S COMPLAINT
 
-*Reduced by James Davies*. Page 30  <span id="fr_40"></span>[1](#fn_40)
+*Reduced by James Davies*. Page 30  <span id="fr_40"></span>[1](#fn_40.md)
 
  
 
@@ -651,49 +651,49 @@ CHILD'S SONG, TO TEACH SINGING
 
 ### Footnotes
 
-<span id="fn_24"></span>[227:1](grey26.htm#fr_24) Cicero.
+<span id="fn_24"></span>[227:1](grey26.htm#fr_24.md) Cicero.
 
-<span id="fn_25"></span>[227:2](grey26.htm#fr_25) Cicero, *Orat*.
+<span id="fn_25"></span>[227:2](grey26.htm#fr_25.md) Cicero, *Orat*.
 
-<span id="fn_26"></span>[228:1](grey26.htm#fr_26) Ptolomæus the Magian,
+<span id="fn_26"></span>[228:1](grey26.htm#fr_26.md) Ptolomæus the Magian,
 Mr. Vincent's paper in *Notices et Extraits des MSS.*, tom. xvi, Paris.
 
-<span id="fn_27"></span>[229:1](grey26.htm#fr_27) Smith.
+<span id="fn_27"></span>[229:1](grey26.htm#fr_27.md) Smith.
 
-<span id="fn_28"></span>[229:2](grey26.htm#fr_28) Burney.
+<span id="fn_28"></span>[229:2](grey26.htm#fr_28.md) Burney.
 
-<span id="fn_29"></span>[231:1](grey26.htm#fr_29) *De Poematum Cantu*.
+<span id="fn_29"></span>[231:1](grey26.htm#fr_29.md) *De Poematum Cantu*.
 
-<span id="fn_30"></span>[231:2](grey26.htm#fr_30) That the enharmonic
+<span id="fn_30"></span>[231:2](grey26.htm#fr_30.md) That the enharmonic
 has no foundation in nature is false, for what tree tapers 'per
 saltum?'--'what river flows in heaps?--this gradation is <span
 id="page_232">p. 232</span> nature's life-stream; the other scales may
 be compared to the proportional parts, the enharmonic to the continuous
 procession.
 
-<span id="fn_31"></span>[233:1](grey26.htm#fr_31) Lane's *Modern Egypt*.
+<span id="fn_31"></span>[233:1](grey26.htm#fr_31.md) Lane's *Modern Egypt*.
 
-<span id="fn_32"></span>[233:2](grey26.htm#fr_32) Lay Tradescant's
+<span id="fn_32"></span>[233:2](grey26.htm#fr_32.md) Lay Tradescant's
 *Chinese as they Are*.
 
-<span id="fn_33"></span>[234:1](grey26.htm#fr_33) *Notices et Extraits
+<span id="fn_33"></span>[234:1](grey26.htm#fr_33.md) *Notices et Extraits
 des MSS*., tom. xvi.
 
-<span id="fn_34"></span>[234:2](grey26.htm#fr_34) Memoire de la Societe
+<span id="fn_34"></span>[234:2](grey26.htm#fr_34.md) Memoire de la Societe
 Royale de Lille.
 
-<span id="fn_35"></span>[234:3](grey26.htm#fr_35) Περὶ Μουσικῆσ {Greek
+<span id="fn_35"></span>[234:3](grey26.htm#fr_35.md) Περὶ Μουσικῆσ {Greek
 *Perì Mousikh^s*}.
 
-<span id="fn_36"></span>[234:4](grey26.htm#fr_36) Burney, vol. i.
+<span id="fn_36"></span>[234:4](grey26.htm#fr_36.md) Burney, vol. i.
 
-<span id="fn_37"></span>[237:1](grey26.htm#fr_37) As the soft diatonic,
+<span id="fn_37"></span>[237:1](grey26.htm#fr_37.md) As the soft diatonic,
 the hemiolion chromatic, the soft chromatic.
 
-<span id="fn_38"></span>[238:1](grey26.htm#fr_38) Lay Tradescant's
+<span id="fn_38"></span>[238:1](grey26.htm#fr_38.md) Lay Tradescant's
 *Chinese as they Are*.
 
-<span id="fn_39"></span>[241:1](grey26.htm#fr_39) Author of the Papers
+<span id="fn_39"></span>[241:1](grey26.htm#fr_39.md) Author of the Papers
 on the Rhythm of the <span id="page_242">p. 242</span> Ancient Greek
 Orators of the Psalms, Selah, the Evil Eye, read before the Royal
 Society Of Literature; and of Papers on Accent and Quantity, discovering
@@ -701,6 +701,6 @@ their true and real difference, from authentic sources. See *English
 Journal of education*, February, March, April, June, July, and August;
 G. Bell, 186, Fleet Street.
 
-<span id="fn_40"></span>[243:1](grey26.htm#fr_40) The pages refer to Sir
+<span id="fn_40"></span>[243:1](grey26.htm#fr_40.md) The pages refer to Sir
 George Grey's collection of New Zealand Songs, Mau Konga moteatea, me
 nga Haki rara.

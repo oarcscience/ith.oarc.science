@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Next](cha01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Next](cha01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Works of Stephen Charnock*, \[1628-1680\] at Intangible Textual
 Heritage
 
@@ -22,6 +22,6 @@ Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Discourse of the Nature of Regeneneration](cha01)
+[Next: Discourse of the Nature of Regeneneration](cha01.md)
 
 </div>

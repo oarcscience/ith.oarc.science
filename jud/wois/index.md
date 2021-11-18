@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@ of the East](../../woe/index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wois00)    [Page
-Index](pageidx)    [Text \[Zipped\]](wois.txt.gz)
+[Contents](#contents)    [Start Reading](wois00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](wois.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -38,50 +38,50 @@ rather than reusing existing English renderings.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](wois00)  
-[Contents](wois01)  
-[Editorial Note](wois02)  
-[Introduction](wois03)  
-[Why God Permits Idolatry](wois04)  
+<span id="contents"></span> [Title Page](wois00.md)  
+[Contents](wois01.md)  
+[Editorial Note](wois02.md)  
+[Introduction](wois03.md)  
+[Why God Permits Idolatry](wois04.md)  
 [The Lamp that Goes Out when its Light is Done, and the Figs that are
-Gathered in their Due Season](wois05)  
-[The Labourers in the Vineyard](wois06)  
-[The Likeness of a Palm-Tree](wois07)  
-[The Tutor and the Naughty Princeling](wois08)  
-[Those Nearest](wois09)  
-[The Heritage of the Unborn Prince](wois10)  
-[The Traveller and the Tree in the Desert](wois11)  
-[Better Feed the Poor than Entertain the Angels](wois12)  
-[The Sand, and the Furnace that Purifies](wois13)  
-[The Stars are not envious!](wois14)  
-[The King Talks with all His Servants, Small and Great](wois15)  
-[The Pavilion of the King's Daughter](wois16)  
-[The Greedy Prince: The Vine is not Watered with Wine](wois17)  
-[The Potter and his Wares: The Trials of the Righteous](wois18)  
-[The Education of the Prince](wois19)  
-[The Induction Robe of the Elder](wois20)  
+Gathered in their Due Season](wois05.md)  
+[The Labourers in the Vineyard](wois06.md)  
+[The Likeness of a Palm-Tree](wois07.md)  
+[The Tutor and the Naughty Princeling](wois08.md)  
+[Those Nearest](wois09.md)  
+[The Heritage of the Unborn Prince](wois10.md)  
+[The Traveller and the Tree in the Desert](wois11.md)  
+[Better Feed the Poor than Entertain the Angels](wois12.md)  
+[The Sand, and the Furnace that Purifies](wois13.md)  
+[The Stars are not envious!](wois14.md)  
+[The King Talks with all His Servants, Small and Great](wois15.md)  
+[The Pavilion of the King's Daughter](wois16.md)  
+[The Greedy Prince: The Vine is not Watered with Wine](wois17.md)  
+[The Potter and his Wares: The Trials of the Righteous](wois18.md)  
+[The Education of the Prince](wois19.md)  
+[The Induction Robe of the Elder](wois20.md)  
 [The King and the Weary Travellers: The Righteous know what is in
-Store](wois21)  
+Store](wois21.md)  
 [Equality of all Before God: and the Parable of a Princess Attacked by
-Robbers](wois22)  
-[The Father and his Son: The Bath and the Ocean](wois23)  
-[The Tutor who Corrupted the King's Son](wois24)  
-[The After-Life, and the Banquet of the King](wois25)  
-[Many Mansions in the Life to Come](wois26)  
-[The Labourers in the Garden](wois27)  
-[The Old Man and the Acorn](wois28)  
-[The Wise and the Foolish Guests at the King's Feast](wois29)  
-[The Briar Rose that Saved the Trees](wois30)  
-[The Two Pilots](wois31)  
-[R. Judah as Prototype of the Ancient Mariner](wois32)  
-[The Likeness of the King](wois33)  
-[Revelations of Mercy and of Punishment](wois34)  
-[The Citizen Married to the King's Daughter](wois35)  
-[The Father's Voice](wois36)  
-[The Parable of the Two Ships](wois37)  
-[The Child who Questioned though Carried by his Father](wois38)  
-[The King's Son without Rations](wois39)  
-[The Poor Woman's Mite](wois40)  
-[He who Reproacheth the Poor Insults his Maker](wois41)  
+Robbers](wois22.md)  
+[The Father and his Son: The Bath and the Ocean](wois23.md)  
+[The Tutor who Corrupted the King's Son](wois24.md)  
+[The After-Life, and the Banquet of the King](wois25.md)  
+[Many Mansions in the Life to Come](wois26.md)  
+[The Labourers in the Garden](wois27.md)  
+[The Old Man and the Acorn](wois28.md)  
+[The Wise and the Foolish Guests at the King's Feast](wois29.md)  
+[The Briar Rose that Saved the Trees](wois30.md)  
+[The Two Pilots](wois31.md)  
+[R. Judah as Prototype of the Ancient Mariner](wois32.md)  
+[The Likeness of the King](wois33.md)  
+[Revelations of Mercy and of Punishment](wois34.md)  
+[The Citizen Married to the King's Daughter](wois35.md)  
+[The Father's Voice](wois36.md)  
+[The Parable of the Two Ships](wois37.md)  
+[The Child who Questioned though Carried by his Father](wois38.md)  
+[The King's Son without Rations](wois39.md)  
+[The Poor Woman's Mite](wois40.md)  
+[He who Reproacheth the Poor Insults his Maker](wois41.md)  
 [The Voiceless Deeps that Praise the Lord: The Parable of the Mutes who
-Praised the King](wois42)  
+Praised the King](wois42.md)  

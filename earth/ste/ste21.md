@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste20)  [Next](ste22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste20)  [Next](ste22.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ Air.
 <span id="img_16600"></span>
 
 [![Fig. 1](tn/16600.jpg)  
-Click to enlarge](img/16600.jpg)  
+Click to enlarge](img/16600.jpg.md)  
 Fig. 1  
 
  
@@ -174,7 +174,7 @@ still towards the middle parts of it.
 <span id="img_16700"></span>
 
 [![Fig. 2](tn/16700.jpg)  
-Click to enlarge](img/16700.jpg)  
+Click to enlarge](img/16700.jpg.md)  
 Fig. 2  
 
 ’Tis true, these derivations of the Waters at first would be very
@@ -252,7 +252,7 @@ different, and in some contrary to ours; and if you could turn
 <span id="img_16900"></span>
 
 [![Fig. 3](tn/16900.jpg)  
-Click to enlarge](img/16900.jpg)  
+Click to enlarge](img/16900.jpg.md)  
 Fig. 3  
 
 our Rivers backwards, to run from the Sea towards their Fountain-heads,
@@ -540,4 +540,4 @@ one *Paradise* there, as not to find more than one.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](ste22)
+[Next: Chapter VI](ste22.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt28)  [Next](pyt30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt28)  [Next](pyt30.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ pyramid, this temple of N. and of his *ka*;
 
 ------------------------------------------------------------------------
 
-[Next: 27. Texts of Miscellaneous Contents, Utterances 535-538](pyt30)
+[Next: 27. Texts of Miscellaneous Contents, Utterances 535-538](pyt30.md)

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,34 +20,34 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ael00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ael.txt.gz)
+[Contents](#contents)    [Start Reading](ael00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ael.txt.gz.md)
 
 ------------------------------------------------------------------------
 
-This entry in the [Wisdom of the East](../../woe/index) series covers
+This entry in the [Wisdom of the East](../../woe/index.md) series covers
 the mythology of the Egyptian gods and godesses. The author, Margaret
 Alice Murray, wrote other books about Ancient Egypt, as well as [The
-Witch Cult in Western Europe](../../pag/wcwe/index), an early study of
+Witch Cult in Western Europe](../../pag/wcwe/index.md), an early study of
 whether the witch trials had any underlying reality.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ael00)  
-[Preface](ael01)  
-[Table of Contents](ael02)  
-[Editorial Note](ael03)  
-[I: The Princess and the Demon](ael04)  
-[II: The King's Dream](ael05)  
-[III: The Coming of the Great Queen](ael06)  
-[IV: The Book of Thoth](ael07)  
-[V: Osiris](ael08)  
-[VI: The Scorpions of Isis](ael09)  
-[VII: The Black Pig](ael10)  
-[VIII: The Battles of Horus](ael11)  
-[IX: The Beer of Heliopolis](ael12)  
-[X: The Name of Ra](ael13)  
-[XI: The Regions of Night and Thick Darkness](ael14)  
-[Notes](ael15)  
-[Index of Names of Gods](ael16)  
-[Advertisements](ael17)  
+<span id="contents"></span> [Title Page](ael00.md)  
+[Preface](ael01.md)  
+[Table of Contents](ael02.md)  
+[Editorial Note](ael03.md)  
+[I: The Princess and the Demon](ael04.md)  
+[II: The King's Dream](ael05.md)  
+[III: The Coming of the Great Queen](ael06.md)  
+[IV: The Book of Thoth](ael07.md)  
+[V: Osiris](ael08.md)  
+[VI: The Scorpions of Isis](ael09.md)  
+[VII: The Black Pig](ael10.md)  
+[VIII: The Battles of Horus](ael11.md)  
+[IX: The Beer of Heliopolis](ael12.md)  
+[X: The Name of Ra](ael13.md)  
+[XI: The Regions of Night and Thick Darkness](ael14.md)  
+[Notes](ael15.md)  
+[Index of Names of Gods](ael16.md)  
+[Advertisements](ael17.md)  

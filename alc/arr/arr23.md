@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr22)  [Next](arr24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr22)  [Next](arr24.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ will appear, and on either side it is a signal of Art."
 
 ------------------------------------------------------------------------
 
-[Next: Section V](arr24)
+[Next: Section V](arr24.md)

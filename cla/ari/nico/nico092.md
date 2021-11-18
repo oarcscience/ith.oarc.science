@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico091) 
-[Next](nico093) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico091.md) 
+[Next](nico093.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ equal they have much in common.
 ------------------------------------------------------------------------
 
 [Next: Chapter 12. Various forms of friendship between
-relations](nico093)
+relations](nico093.md)

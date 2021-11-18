@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob29) 
-[Next](tob31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob29.md) 
+[Next](tob31.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob29) 
 
 <span id="img_wiar14"></span>
 
-![TEMPERANCE.](img/wiar14.jpg)  
+![TEMPERANCE.](img/wiar14.jpg.md)  
 TEMPERANCE.
 
    <span id="img_msar14"></span>
 
-![TEMPERANCE.](img/msar14.jpg)  
+![TEMPERANCE.](img/msar14.jpg.md)  
 TEMPERANCE.
 
 14\. נ
@@ -120,4 +120,4 @@ Temperance.
 
 ------------------------------------------------------------------------
 
-[Next: 15. The Devil](tob31)
+[Next: 15. The Devil](tob31.md)

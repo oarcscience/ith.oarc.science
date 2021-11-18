@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](ath03)  [Next](ath05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](ath03)  [Next](ath05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -131,7 +131,7 @@ Arabia, and amongst his subjects were Arab tribes closely akin to those
 of the Hijaz.
 
 Islam became a militant religion because it spread amongst the Arabs at
-a time when they were [beginning](errata.htm#7) to enter upon a career
+a time when they were [beginning](errata.htm#7.md) to enter upon a career
 of expansion and conquest, and this career had already commenced before
 Muhammad had got beyond the first—the purely spiritual—stage of his
 work. The only reason why the earlier Arab efforts were not followed up
@@ -569,7 +569,7 @@ the admission of *istihsan* and the recognition thereby given to
 expediency," allowing analogy to be set aside only when its logical
 conclusion would be detrimental to the community. The difference seems
 to be more a verbal correction than a material change, but the
-[underlying](errata.htm#8) motive is clear and indicates an orthodox
+[underlying](errata.htm#8.md) motive is clear and indicates an orthodox
 reaction. At the same time he attached much greater weight to the
 evidence of tradition, adding to it also the principle of *ijma* or
 "consensus,"
@@ -797,7 +797,7 @@ which hath gone forth from me,—I shall surely fill hell with jinn and
 men together." (Qur. 32. 13). Yet the appeal for moral conduct implies a
 certain responsibility, and consequently freedom, on man's part. In the
 mind of the Prophet, no doubt, the inconsistency between moral
-obligations and [responsibility](errata.htm#9) on the one hand, and the
+obligations and [responsibility](errata.htm#9.md) on the one hand, and the
 unlimited power of God on the other, had not been perceived, but towards
 the end of the ‘Umayyad period these were pressed to their logical
 conclusions. On the one side were the *Qadarites* (*qadr* "power"), the
@@ -826,7 +826,7 @@ solvent force of Hellenistic philosophy acting on Muslim theology. Wasil
 was the pupil of the Qadarite Hasan ibn Abi l-Hasan (d. 110) but he
 "seceded" from his teacher and this is given as the traditional reason
 for calling him and his followers the *Mu’tazila* or "secession," and
-did so on the ground of the [apparent](errata.htm#10) injustice imputed
+did so on the ground of the [apparent](errata.htm#10.md) injustice imputed
 to God in his apportionment of rewards and penalties. The details of the
 controversy are quite secondary, the important point is that the
 Mu‘tazilites claimed to be "the people of Unity and Justice," this
@@ -852,7 +852,7 @@ influence; there is no indication, save in a few instances in the study
 of natural science and medicine, of Muslim teachers or students availing
 themselves directly of Greek material, but only that they were in
 contact with those who were familiar with the work of Greek philosophers
-and jurists. It was a period of [suspended](errata.htm#11) animation, to
+and jurists. It was a period of [suspended](errata.htm#11.md) animation, to
 some extent, during which a new language and a new religion were being
 assimilated by the very diverse elements now comprised in the Khalifate,
 and those elements were being welded together in a common life. However
@@ -889,4 +889,4 @@ another.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Coming of the ‘Abbasids](ath05)
+[Next: Chapter III. The Coming of the ‘Abbasids](ath05.md)

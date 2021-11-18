@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp06) 
-[Next](alp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp06.md) 
+[Next](alp08.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ At midnight, "Is He deaf and blind, our God?"
 
 ------------------------------------------------------------------------
 
-[Next: The Exile's Song](alp08)
+[Next: The Exile's Song](alp08.md)

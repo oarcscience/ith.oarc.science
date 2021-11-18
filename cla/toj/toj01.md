@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](toj00)  [Next](toj02) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](toj00)  [Next](toj02.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ as a vacuum either in incorporeal or corporeal natures, and if in every
 well-ordered progression the similar precedes the dissimilar, and this,
 so as to cause the whole series to be united in the most perfect degree,
 it is necessary that the first progeny of the first god should be no
-other than gods. <span id="fr_0"></span>[1](#fn_0)
+other than gods. <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_9">p. 9</span>
 
@@ -218,7 +218,7 @@ these there is, indeed, a mutual mixture of forms, similitude and
 friendship, and a participation of each other; but the union of the
 gods, as being a union of unities, is much more uniform, ineffable, and
 transcendent: for here *all are in all* which does not take place in
-forms or ideas; <span id="fr_1"></span>[1](#fn_1) and their
+forms or ideas; <span id="fr_1"></span>[1](#fn_1.md) and their
 
 <span id="page_15">p. 15</span>
 
@@ -248,7 +248,7 @@ variety of incorporeal essences we are enabled
 to know something of the unmingled distinction of the first and
 superessential unities, and of the characteristics of each; for each
 unity has a multitude suspended from its nature, which is either
-intelligible <span id="fr_2"></span>[1](#fn_2) alone, or, at the same
+intelligible <span id="fr_2"></span>[1](#fn_2.md) alone, or, at the same
 time, intelligible and intellectual, or intellectual alone; and this
 last is either participated or not participated, and this again is
 either supermundane or mundane: and thus far does the progression of the
@@ -277,7 +277,7 @@ account of the nature of the Sun, extracted from Proclus on Plato's
 Theology, from his Commentaries on the Timæus, and from his Scholia on
 the Cratylus, in which he will find the most arcane and perfect
 information concerning this mighty divinity which can perhaps at present
-be obtained. <span id="fr_3"></span>[1](#fn_3)
+be obtained. <span id="fr_3"></span>[1](#fn_3.md)
 
 The fontal sun, then, subsists in Jupiter, the perfect artificer of the
 world, who produced the hypostasis of, the sun from his own essence.
@@ -322,14 +322,14 @@ inordinate, wandering, and immoderate in the world. But his revolution
 is the symbol of the harmonic motion of the universe, collecting all
 things into union and consent. And these four powers of the god may be
 accommodated to the three solar monads, which he contains. The first
-monad <span id="fr_4"></span>[1](#fn_4), therefore, of this god is
+monad <span id="fr_4"></span>[1](#fn_4.md), therefore, of this god is
 enunciative of truth, and of the intellectual light which subsists
-occultly in the gods. But the second <span id="fr_5"></span>[2](#fn_5)
+occultly in the gods. But the second <span id="fr_5"></span>[2](#fn_5.md)
 is destructive of every thing wandering and confused:
 
 <span id="page_20">p. 20</span>
 
-but the third <span id="fr_6"></span>[1](#fn_6) causes all things to
+but the third <span id="fr_6"></span>[1](#fn_6.md) causes all things to
 subsist in symmetry and familiarity with each other, through harmonic
 reasons. And the unpolluted and most pure cause, which he comprehends in
 himself, obtains the principality, illuminating all things with
@@ -361,7 +361,7 @@ similar manner, likewise, it illuminates progressions with a perfect and
 intellectual measure of a blessed life, by those purifying and pæonian
 powers of the king Apollo, which obtain an analogous principality in the
 sun.--The sun is allotted a supermundane <span
-id="fr_7"></span>[1](#fn_7) order
+id="fr_7"></span>[1](#fn_7.md) order
 
 <span id="page_22">p. 22</span>
 
@@ -391,7 +391,7 @@ and this light is a monad prior to the empyrean, ætherial, and material
 
 <span id="page_24">p. 24</span>
 
-worlds <span id="fr_8"></span>[1](#fn_8). And thus much for an account
+worlds <span id="fr_8"></span>[1](#fn_8.md). And thus much for an account
 of the sun, from Proclus, *On the Timæus and Theology of Plato*: the
 following is from his Scholia on the Cratylus.
 
@@ -433,7 +433,7 @@ for instance, the *medicinal* power of Apollo is most apparent in the
 sublunary region, for
 
 There slaughter, rage, and countless Ills beside,  
-Disease, decay, and rottenness reside. <span id="fr_9"></span>[1](#fn_9)
+Disease, decay, and rottenness reside. <span id="fr_9"></span>[1](#fn_9.md)
 
 And as these are moved in an inordinate
 
@@ -449,8 +449,8 @@ goods to celestial natures, and on this account he revolves together
 with the sun, with whom he participates the same intellect in common;
 since the sun also illuminates whatever heaven contains, and extends a
 unifying power to all its parts. But his *arrow-darting* energy mostly
-prevails among *the liberated* <span id="fr_10"></span>[1](#fn_10) gods;
-for there ruling over *the wholes* <span id="fr_11"></span>[2](#fn_11)
+prevails among *the liberated* <span id="fr_10"></span>[1](#fn_10.md) gods;
+for there ruling over *the wholes* <span id="fr_11"></span>[2](#fn_11.md)
 which the universe contains, he excites their motions by his rays, which
 are always assimilated to arrows, extirpates every thing inordinate, and
 fills all things with demiurgic gifts. And though he has a separate and
@@ -465,7 +465,7 @@ harmonizing the universe, establishes about himself according to one
 union the choir of the Muses, and produces by this means, as a certain
 Theurgist says, "*the harmony of exulting light*." Apollo, therefore, as
 we have shewn, is *harmonic*, and this is likewise the case with the
-other Apollos <span id="fr_12"></span>[1](#fn_12) which are contained in
+other Apollos <span id="fr_12"></span>[1](#fn_12.md) which are contained in
 the earth, and the other spheres; but this power appears in some places
 more and in others less. These powers too, subsist in the god himself in
 an united manner, and exempt from other natures, but in those attendants
@@ -507,7 +507,7 @@ rythm and harmony, places a bond, friendship and union in *wholes*, and
 subdues the contraries of these.
 
 And all these powers, indeed, subsist primarily in an exempt manner and
-uniformly in the demiurgus <span id="fr_13"></span>[1](#fn_13) of
+uniformly in the demiurgus <span id="fr_13"></span>[1](#fn_13.md) of
 wholes, but secondarily and separately in Apollo. Hence Apollo is not
 the same with the demiurgic intellect; for this comprehends these powers
 totally and paternally, but Apollo, with subjection, imitating his
@@ -524,7 +524,7 @@ powers.
 Thus far the truly admirable Proclus, who certainly merited the
 appellation of *Coryphæus* which is given him by Damascius, in the most
 eminent degree; for he was beyond all doubt the man who, in the language
-of Ammonius Hermeas <span id="fr_14"></span>[1](#fn_14), possessed the
+of Ammonius Hermeas <span id="fr_14"></span>[1](#fn_14.md), possessed the
 ability of interpreting the doctrines of the ancients, and a scientific
 judgment of the nature of things, in the greatest perfection possible to
 man. For my own part, indeed, the whole of time would not be sufficient
@@ -552,7 +552,7 @@ subordinate to each. So that this vivific series, or luminous chain,
 commences from the occult goddess Night, and extends to the utmost
 extremities of animated being. Indeed, the various orders of the gods
 are in reality no other than the golden chain of Homer <span
-id="fr_15"></span>[1](#fn_15), the topmost link of which is suspended,
+id="fr_15"></span>[1](#fn_15.md), the topmost link of which is suspended,
 from the ineffable principle of all things, and whose series is
 terminated only
 
@@ -574,27 +574,27 @@ has been already delivered.
 
 ### Footnotes
 
-<span id="fn_0"></span>[8:1](toj01.htm#fr_0) See this most important
+<span id="fn_0"></span>[8:1](toj01.htm#fr_0.md) See this most important
 subject more largely discussed in my Introduction to the Parmenides.
 
-<span id="fn_1"></span>[14:1](toj01.htm#fr_1) For in these all are in
+<span id="fn_1"></span>[14:1](toj01.htm#fr_1.md) For in these all are in
 each, but not all in all.
 
-<span id="fn_2"></span>[16:1](toj01.htm#fr_2) For an account of the
+<span id="fn_2"></span>[16:1](toj01.htm#fr_2.md) For an account of the
 *Intelligible Gods*, see my Introduction to the Parmenides.
 
-<span id="fn_3"></span>[17:1](toj01.htm#fr_3) The first part of this
+<span id="fn_3"></span>[17:1](toj01.htm#fr_3.md) The first part of this
 account is already published, and forms a part of one of the notes to my
 translation of the Cratylus: but the latter part from Proclus on the
 Cratylus was never before this made public.
 
-<span id="fn_4"></span>[19:1](toj01.htm#fr_4) *i.e.* Mercury.
+<span id="fn_4"></span>[19:1](toj01.htm#fr_4.md) *i.e.* Mercury.
 
-<span id="fn_5"></span>[19:2](toj01.htm#fr_5) Venus.
+<span id="fn_5"></span>[19:2](toj01.htm#fr_5.md) Venus.
 
-<span id="fn_6"></span>[20:1](toj01.htm#fr_6) Apollo.
+<span id="fn_6"></span>[20:1](toj01.htm#fr_6.md) Apollo.
 
-<span id="fn_7"></span>[21:1](toj01.htm#fr_7) That the Platonic reader
+<span id="fn_7"></span>[21:1](toj01.htm#fr_7.md) That the Platonic reader
 may be demonstratively convinced that the Sun ranks in the
 *supermundane* order of gods, let him attend to the following
 observations, which belong to the greatest arcana of the ancient
@@ -644,7 +644,7 @@ entertain an opinion so stupid and arrogant, is not only *ignorant* in
 matters of the highest importance, but is even *ignorant of his
 ignorance*!
 
-<span id="fn_8"></span>[24:1](toj01.htm#fr_8) have already shewn in my
+<span id="fn_8"></span>[24:1](toj01.htm#fr_8.md) have already shewn in my
 notes on the Cratylus, that the celebrated seven worlds of the Chaldæans
 are to be distributed as follows: One empyrean; three ætherial, situated
 above the inerratic sphere; and three material, consisting of the
@@ -653,20 +653,20 @@ Emperor, therefore, In this Hymn informs us that, according to the
 Assyrians, the sun moves in the middle of these seven worlds, he must
 consequently revolve in the last of the ætherial worlds.
 
-<span id="fn_9"></span>[25:1](toj01.htm#fr_9) These lines from
+<span id="fn_9"></span>[25:1](toj01.htm#fr_9.md) These lines from
 Empedocles are as follow in the original:
 
 Ενθα κοτος τε φονος τε, και αλλων εθνεα κηρων,  
 Αυχμησαι τε νοσοι, και σηψιες, εργα τε ρευστα.
 
-<span id="fn_10"></span>[26:1](toj01.htm#fr_10) For an account of this
+<span id="fn_10"></span>[26:1](toj01.htm#fr_10.md) For an account of this
 and the following order of gods, viz. the *supermundane*, see my
 Introduction to the Parmenides, and notes on the Cratylus.
 
-<span id="fn_11"></span>[26:2](toj01.htm#fr_11) See my Introduction to
+<span id="fn_11"></span>[26:2](toj01.htm#fr_11.md) See my Introduction to
 the Timæus for an account of these wholes.
 
-<span id="fn_12"></span>[27:1](toj01.htm#fr_12) In my Introduction to
+<span id="fn_12"></span>[27:1](toj01.htm#fr_12.md) In my Introduction to
 the Timæus, I have shewn that, according to the ancient Theology, every
 sphere in the universe is surrounded with a multitude of gods in
 splendid orbicular bodies analogus to the number of the fixed stars;
@@ -676,12 +676,12 @@ several spheres; and that they are distributed from all the various
 orders of the gods: so that, for instance, about the sphere of the sun,
 there is a solar Jupiter, Neptune, Vulcan, etc., and so of the rest.
 
-<span id="fn_13"></span>[29:1](toj01.htm#fr_13) *i.e.* In Jupiter.
+<span id="fn_13"></span>[29:1](toj01.htm#fr_13.md) *i.e.* In Jupiter.
 
-<span id="fn_14"></span>[30:1](toj01.htm#fr_14) In Aristot, de
+<span id="fn_14"></span>[30:1](toj01.htm#fr_14.md) In Aristot, de
 Interpretatione.
 
-<span id="fn_15"></span>[31:1](toj01.htm#fr_15) A reader unskilled in
+<span id="fn_15"></span>[31:1](toj01.htm#fr_15.md) A reader unskilled in
 the ancient theology will doubtless imagine from this, that as Homer's
 chain commences from Jupiter, hence Jupiter is no other than the first
 cause: to such it is necessary to observe, that Homer's chain, of which
@@ -691,4 +691,4 @@ gods superior to Jupiter, the demiurgus of the world.
 
 ------------------------------------------------------------------------
 
-[Next: To Apollo and the Sun](toj02)
+[Next: To Apollo and the Sun](toj02.md)

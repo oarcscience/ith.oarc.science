@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs13)  [Next](mhs15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs13)  [Next](mhs15.md) 
 
 ------------------------------------------------------------------------
 
@@ -254,4 +254,4 @@ itself to a fastidious horse-owner.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Horses' Heads As Talismans](mhs15)
+[Next: XII. Horses' Heads As Talismans](mhs15.md)

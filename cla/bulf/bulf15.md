@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf14) [Next](bulf16) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf14) [Next](bulf16.md) 
 
 # CHAPTER XVI.
 
@@ -267,4 +267,4 @@ Milton borrows a simile from the Griffins, "Paradise Lose," Book II.:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XVII. The Golden Fleece- Medea](bulf16)
+Next: [CHAPTER XVII. The Golden Fleece- Medea](bulf16.md)

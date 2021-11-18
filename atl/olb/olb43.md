@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb42)  [Next](olb44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb42)  [Next](olb44.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -40,10 +40,10 @@ drank their blood, and that blood produced corn and fruits that inspired
 with wisdom those who ate them.
 
 Sixteen hundred years ago (she writes, 593 B.C. <span
-id="fr_70"></span>[\*](#fn_70)), Atland was submerged; and at that time
+id="fr_70"></span>[\*](#fn_70).md), Atland was submerged; and at that time
 something happened which nobody had reckoned upon. In the heart of
 Findasland, upon a mountain, lies a plain called Kasamyr <span
-id="fr_71"></span>[†](#fn_71) (Cashmere) that is "extraordinary." There
+id="fr_71"></span>[†](#fn_71) (Cashmere.md) that is "extraordinary." There
 was a child born whose mother was the daughter of a king, and whose
 father was a high-priest. In order to hide the shame they were obliged
 to renounce their own blood. Therefore it was taken out of the town to
@@ -75,7 +75,7 @@ make each other as equally rich and as happy as possible. Men should not
 despise any knowledge; but justice is the greatest knowledge that time
 can teach, because she wards off offences and promotes love.
 
-His first name was Jessos <span id="fr_72"></span>[\*](#fn_72), but the
+His first name was Jessos <span id="fr_72"></span>[\*](#fn_72.md), but the
 priests, who hated him, called him Fo, that is, false; the people called
 him Krishna, that is, shepherd; and his Frisian friend called him Buddha
 (purse), because he had in his head a treasure of wisdom, and in his
@@ -175,14 +175,14 @@ storm-wind, and all deceit will cease to have any more power. Gosa.
 
 ### Footnotes
 
-<span id="fn_70"></span>[185:\*](olb43.htm#fr_70) 4193–1600 is 593 years
+<span id="fn_70"></span>[185:\*](olb43.htm#fr_70.md) 4193–1600 is 593 years
 before Christ.
 
-<span id="fn_71"></span>[185:†](olb43.htm#fr_71) *Kasamyr* is Cashmere.
+<span id="fn_71"></span>[185:†](olb43.htm#fr_71.md) *Kasamyr* is Cashmere.
 
-<span id="fn_72"></span>[187:\*](olb43.htm#fr_72) *Jes-us*—not to be
+<span id="fn_72"></span>[187:\*](olb43.htm#fr_72.md) *Jes-us*—not to be
 confounded with Jesus any more than Krisen (Krishna) with Christ.
 
 ------------------------------------------------------------------------
 
-[Next: The Writing of Konerêd](olb44)
+[Next: The Writing of Konerêd](olb44.md)

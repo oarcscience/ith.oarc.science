@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa12)  [Next](soa14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa12)  [Next](soa14.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ subject under the following headings:
 
 ------------------------------------------------------------------------
 
-[Next: The Sub-Races](soa14)
+[Next: The Sub-Races](soa14.md)

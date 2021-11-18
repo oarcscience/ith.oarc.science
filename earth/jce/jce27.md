@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce26)  [Next](jce28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce26)  [Next](jce28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ I therefore awoke next day relieved from the preoccupation of an
 immediate start. Although we were in the very deepest of known depths,
 there was something not unpleasant about it. And, besides, we were
 beginning to get accustomed to this troglodyte  <span
-id="fr_8"></span>[9](#fn_8) life. I no longer thought of sun, moon, and
+id="fr_8"></span>[9](#fn_8.md) life. I no longer thought of sun, moon, and
 stars, trees, houses, and towns, nor of any of those terrestrial
 superfluities which are necessaries of men who live upon the earth's
 surface. Being fossils, we looked upon all those things as mere jokes.
@@ -221,10 +221,10 @@ guided him.
 
 ### Footnotes
 
-<span id="fn_8"></span>[9](jce27.htm#fr_8) tpwgln, a hole; dnw, to creep
+<span id="fn_8"></span>[9](jce27.htm#fr_8.md) tpwgln, a hole; dnw, to creep
 into. The name of an Ethiopian tribe who lived in caves and holes.
 ??????, a hole, and ???, to creep into.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI. The Worst Peril of All](jce28)
+[Next: Chapter XXVI. The Worst Peril of All](jce28.md)

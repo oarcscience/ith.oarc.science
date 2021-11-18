@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff06)  [Next](fff08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff06)  [Next](fff08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ the centre of all learning and culture and their own forbears as of no
 account in such matters. The rhapsodists of the Homeric poems flattered
 their vanity by singing of the prowess of their ancient heroes, but
 could tell the intelligent nothing of religion; as for Hesiod and his
-[theogony](errata.htm#3) and the rest, they could make but little of
+[theogony](errata.htm#3.md) and the rest, they could make but little of
 them. He was doubtless more intelligible than the archaic fragments of
 the Orphic poems which enshrined the most ancient elements of the
 religious tradition of Hellas. But he fell far short of the wisdom of
@@ -381,7 +381,7 @@ substitute symbols and devices, dramas and scenic representations, of
 what had previously been revealed by higher means.
 
 Then it was that corruption crept in, and man was left to win his own
-[divinity](errata.htm#4) by self-conquest and persistent struggling
+[divinity](errata.htm#4.md) by self-conquest and persistent struggling
 against the lower elements in his nature. The teachers remained unseen,
 ever ready to help, but no longer moving visibly among men, to compel
 their reverence and worship. So runs the tradition.
@@ -500,7 +500,7 @@ It is a mistake to suppose that Plato formulated a distinctly new system
 of philosophy; his main conceptions are part and parcel of the old
 wisdom handed down by the seers of the Mysteries; but he does not
 formulate them so much as clear the ground by his
-[dialectical](errata.htm#5) method, so that the mind may be brought into
+[dialectical](errata.htm#5.md) method, so that the mind may be brought into
 a fit state to receive them.
 
 Therefore are the conclusions of his dialogues nearly always negative,
@@ -537,7 +537,7 @@ warring with each other, and the spectacle it offers us is very similar
 to the spectacle of modern Europe during the last three hundred years.
 
 We see there at work, though on a smaller scale--in germ as it were--the
-same intellectual activity which has [characterized](errata.htm#6) the
+same intellectual activity which has [characterized](errata.htm#6.md) the
 rise of the modern scientific method, and with it the same breaking down
 of old views, the same unrest, the same spirit of scepticism.
 
@@ -642,4 +642,4 @@ Western world.
 
 ------------------------------------------------------------------------
 
-[Next: Egypt](fff08)
+[Next: Egypt](fff08.md)

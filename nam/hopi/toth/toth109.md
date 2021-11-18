@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth108)  [Next](toth110) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth108)  [Next](toth110.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 106. A KATCINA RACE CONTEST BETWEEN THE WÁLPI AND THE ORAÍBI. <span id="fr_195"></span>[1](#fn_193)
+## 106. A KATCINA RACE CONTEST BETWEEN THE WÁLPI AND THE ORAÍBI. <span id="fr_195"></span>[1](#fn_193.md)
 
 Halíksai! In Wálpi the people were living, but at the place where the
 old village stood before the people had moved on the mesa. And in Oraíbi
@@ -118,9 +118,9 @@ again.
 
 ### Footnotes
 
-<span id="fn_193"></span>[256:1](toth109.htm#fr_195) Told by Kwáyeshva
+<span id="fn_193"></span>[256:1](toth109.htm#fr_195.md) Told by Kwáyeshva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 107. The Last Fight With the Navaho](toth110)
+[Next: 107. The Last Fight With the Navaho](toth110.md)

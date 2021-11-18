@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ The Author and her sons.<br />
 </tbody>
 </table>
 
-[Contents](#contents)          [Start Reading](wnr00)
+[Contents](#contents)          [Start Reading](wnr00.md)
 
 ------------------------------------------------------------------------
 
@@ -77,25 +77,25 @@ book. *-- jbh*
 
 ------------------------------------------------------------------------
 
-[Title page](wnr00)  
-[Preface](wnr01)  
-[Contents](wnr02)  
-[I. Woman's Error And Her Debt](wnr03)  
-[II. Woman's Struggle For Freedom](wnr04)  
-[III. The Material Of The New Race](wnr05)  
-[IV. Two Classes Of Women](wnr06)  
-[V. The Wickedness Of Creating Large Families](wnr07)  
-[VI. Cries Of Despair](wnr08)  
-[VII. When Should a Woman Avoid Having Children?](wnr09)  
-[VIII. Birth Control--A Parents' Problem Or Woman's?](wnr10)  
-[IX. Continence--Is It Practicable Or Desirable?](wnr11)  
-[X. Contraceptives Or Abortion?](wnr12)  
-[XI. Are Preventive Means Certain?](wnr13)  
-[XII. Will Birth Control Help The Cause Of Labor?](wnr14)  
-[XIII. Battalions Of Unwanted Babies The Cause Of War](wnr15)  
-[XIV. Woman And The New Morality](wnr16)  
-[XV. Legislating Woman's Morals](wnr17)  
-[XVI. Why Not Birth Control Clinics in America?](wnr18)  
-[XVII. Progress We Have Made](wnr19)  
-[XVIII. The Goal](wnr20)  
-[Advertisements from first edition](wnr21)  
+[Title page](wnr00.md)  
+[Preface](wnr01.md)  
+[Contents](wnr02.md)  
+[I. Woman's Error And Her Debt](wnr03.md)  
+[II. Woman's Struggle For Freedom](wnr04.md)  
+[III. The Material Of The New Race](wnr05.md)  
+[IV. Two Classes Of Women](wnr06.md)  
+[V. The Wickedness Of Creating Large Families](wnr07.md)  
+[VI. Cries Of Despair](wnr08.md)  
+[VII. When Should a Woman Avoid Having Children?](wnr09.md)  
+[VIII. Birth Control--A Parents' Problem Or Woman's?](wnr10.md)  
+[IX. Continence--Is It Practicable Or Desirable?](wnr11.md)  
+[X. Contraceptives Or Abortion?](wnr12.md)  
+[XI. Are Preventive Means Certain?](wnr13.md)  
+[XII. Will Birth Control Help The Cause Of Labor?](wnr14.md)  
+[XIII. Battalions Of Unwanted Babies The Cause Of War](wnr15.md)  
+[XIV. Woman And The New Morality](wnr16.md)  
+[XV. Legislating Woman's Morals](wnr17.md)  
+[XVI. Why Not Birth Control Clinics in America?](wnr18.md)  
+[XVII. Progress We Have Made](wnr19.md)  
+[XVIII. The Goal](wnr20.md)  
+[Advertisements from first edition](wnr21.md)  

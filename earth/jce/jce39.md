@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce38)  [Next](jce40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce38)  [Next](jce40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -99,7 +99,7 @@ earliest ages of the world. I also saw immense carapaces more than
 fifteen feet in diameter. They had been the coverings of those gigantic
 glyptodons or armadilloes of the pleiocene period, of which the modern
 tortoise is but a miniature representative.  <span
-id="fr_13"></span>[14](#fn_13) The soil was besides this scattered with
+id="fr_13"></span>[14](#fn_13.md) The soil was besides this scattered with
 stony fragments, boulders rounded by water action, and ridged up in
 successive lines. I was therefore led to the conclusion that at one time
 the sea must have covered the ground on which we were treading. On the
@@ -179,11 +179,11 @@ you were standing here at the side of Otto Liedenbrock!"
 
 ### Footnotes
 
-<span id="fn_13"></span>[14](jce39.htm#fr_13) The glyptodon and
+<span id="fn_13"></span>[14](jce39.htm#fr_13.md) The glyptodon and
 armadillo are mammalian; the tortoise is a chelonian, a reptile,
 distinct classes of the animal kingdom; therefore the latter cannot be a
 representative of the former. (Trans.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVIII. The Professor in His Chair Again](jce40)
+[Next: Chapter XXXVIII. The Professor in His Chair Again](jce40.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt18)  [Next](crt20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt18)  [Next](crt20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,10 +30,10 @@ find that most of its customs have been anticipated at earlier
 festivals; the Roman Kalends practices have often been shifted to
 Christmas, while old Celtic and Teutonic New Year practices have
 frequently been transferred to the Roman
-date.﻿ [113](crt24.htm#Footnote_113)<span id="FNanchor_113"></span>
+date.﻿ [113](crt24.htm#Footnote_113.md)<span id="FNanchor_113"></span>
 
 The observances of New Year's Day mainly rest, as was said in
- [VI](crt10.htm#Chapter_VI), on the principle that “a good beginning
+ [VI](crt10.htm#Chapter_VI.md), on the principle that “a good beginning
 makes a good ending,” that as the first day is so will the rest be. If
 you would have plenty to eat during the year, dine lavishly on New
 Year's Day, if you would be rich see that your pockets are not empty at
@@ -46,7 +46,7 @@ his hand some eatable; he will be doubly welcome if he carries in a hot
 stoup or ‘plotie.’ Everybody <span id="page_322">p. 322</span> <span
 id="Page_322"></span>should wear a new dress on New Year's Day, and if
 its pockets contain money of every description they will be certain not
-to be empty throughout the year.”﻿ [16-2](crt22.htm#Note_16-2)<span
+to be empty throughout the year.”﻿ [16-2](crt22.htm#Note_16-2.md)<span
 id="Nanchor_16-2"></span>
 
 The laying of stress on what happens on New Year's Day is by no means
@@ -55,7 +55,7 @@ us, “are very particular about catching sight of some auspicious object
 on the morning of New Year's Day, as the effects of omens seen on that
 occasion are believed to last throughout the year.” It is thought that a
 man's whole prosperity depends upon the things that he then happens to
-fix his eyes upon.﻿ [16-3](crt22.htm#Note_16-3)<span
+fix his eyes upon.﻿ [16-3](crt22.htm#Note_16-3.md)<span
 id="Nanchor_16-3"></span>
 
 Charms, omens, and good wishes are naturally the most prominent customs
@@ -75,7 +75,7 @@ morning children find their stockings filled with gifts, and then rush
 off to offer good wishes to their parents. In the afternoon the younger
 people call upon their older relations, and in the evening all meet for
 dinner at the home of the head of the
-family.﻿ [16-4](crt22.htm#Note_16-4)<span id="Nanchor_16-4"></span>
+family.﻿ [16-4](crt22.htm#Note_16-4.md)<span id="Nanchor_16-4"></span>
 
 In Germany the New Year is a time of great importance. Cards are far
 more numerous than at Christmas, and “New Year boxes” are given to the
@@ -83,7 +83,7 @@ tradespeople, while on the Eve (*Sylvesterabend*) there are dances or
 parties, the custom of forecasting the future by lead-pouring is
 practised, and at the stroke of midnight there is a general cry of
 “Prosit Neu Jahr!”, a drinking of healths, and a shaking of
-hands.﻿ [16-5](crt22.htm#Note_16-5)<span id="Nanchor_16-5"></span>
+hands.﻿ [16-5](crt22.htm#Note_16-5.md)<span id="Nanchor_16-5"></span>
 
 New Year wishes and “compliments of the season” are <span
 id="page_323">p. 323</span> <span id="Page_323"></span>familiar to us
@@ -92,13 +92,13 @@ in France is so characteristic of January 1, when not only relations and
 personal friends, but people whose connection is purely official are
 expected to visit one another. In devout Brittany the wish exchanged
 takes a beautiful religious form﻿—“I wish you a good year and Paradise
-at the end of your days.”﻿ [16-6](crt22.htm#Note_16-6)<span
+at the end of your days.”﻿ [16-6](crt22.htm#Note_16-6.md)<span
 id="Nanchor_16-6"></span>
 
 New Year calling is by no means confined to France. In the United States
 it is one of the few traces left by the early Dutch settlers on American
 manners. The custom is now rapidly falling into
-disuse,﻿ [16-7](crt22.htm#Note_16-7)<span id="Nanchor_16-7"></span> but
+disuse,﻿ [16-7](crt22.htm#Note_16-7.md)<span id="Nanchor_16-7"></span> but
 in New York up to the middle of the nineteenth century “New Year's Day
 was devoted to the universal interchange of visits. Every door was
 thrown wide open. It was a breach of etiquette to omit any acquaintance
@@ -111,7 +111,7 @@ house to another all day long. “The ceremony of calling was a burlesque.
 There was a noisy and hilarious greeting, a glass of wine was swallowed
 hurriedly, everybody shook hands all round, and the callers dashed out
 and rushed into the carriage and were driven rapidly to the next
-house.”﻿ [16-8](crt22.htm#Note_16-8)<span id="Nanchor_16-8"></span>
+house.”﻿ [16-8](crt22.htm#Note_16-8.md)<span id="Nanchor_16-8"></span>
 
 The New Year calling to offer good wishes resembles in some respects the
 widespread custom of “first-footing,” based on the belief that the
@@ -123,7 +123,7 @@ highlanders whose customs are described by Sir Arthur Evans, Christmas
 is essentially the festival of the New Year: New Year's Day is not
 spoken of at all, its name and ceremonies being completely absorbed by
 the feasts of “Great” and “Little”
-Christmas.﻿ [16-9](crt22.htm#Note_16-9)<span id="Nanchor_16-9"></span>
+Christmas.﻿ [16-9](crt22.htm#Note_16-9.md)<span id="Nanchor_16-9"></span>
 
 The “first-foot” superstition is found in countries as far apart as
 <span id="page_324">p. 324</span> <span id="Page_324"></span>Scotland
@@ -134,11 +134,11 @@ unlucky accident as that a woman should call first, people often engage
 a friendly man or boy to pay them an early visit. It is particularly
 interesting to find a Shropshire parallel to the *polaznik's* action in
 going straight to the hearth and striking sparks from the Christmas
-log,﻿ [114](crt24.htm#Footnote_114)<span id="FNanchor_114"></span> when
+log,﻿ [114](crt24.htm#Footnote_114.md)<span id="FNanchor_114"></span> when
 Miss Burne tells us that one old man who used to “let the New Year in”
 “always entered without knocking or speaking, and silently stirred the
 fire before he offered any greeting to the
-family.”﻿ [16-10](crt22.htm#Note_16-10)<span id="Nanchor_16-10"></span>
+family.”﻿ [16-10](crt22.htm#Note_16-10.md)<span id="Nanchor_16-10"></span>
 
 In the villages of the Teme valley, Worcestershire and Herefordshire,
 “in the old climbing-boy days, chimneys used to be swept on New Year's
@@ -150,7 +150,7 @@ practised; and at some of the farmhouses, if washing-day chanced to fall
 on the first day of the year, it was either put off, or to make sure,
 before the women could come, the waggoner's lad was called up early that
 he might be let out and let in
-again.﻿ [16-11](crt22.htm#Note_16-11)<span id="Nanchor_16-11"></span>
+again.﻿ [16-11](crt22.htm#Note_16-11.md)<span id="Nanchor_16-11"></span>
 
 The idea of the unluckiness of a woman's being the “first-foot” is
 extraordinarily widespread; the present writer has met with it in an
@@ -158,16 +158,16 @@ ordinary London restaurant, where great stress was laid upon a man's
 opening the place on New Year's morning before the waitresses arrived. A
 similar belief is found even in far-away China: it is there unlucky on
 New Year's Day to meet a woman on first going
-out.﻿ [16-12](crt22.htm#Note_16-12)<span id="Nanchor_16-12"></span> Can
+out.﻿ [16-12](crt22.htm#Note_16-12.md)<span id="Nanchor_16-12"></span> Can
 the belief be connected with such ideas about dangerous influences
 proceeding from women as have been described by Dr. Frazer in Vol. III.
-of “The Golden Bough,”﻿ [16-13](crt22.htm#Note_16-13)<span
+of “The Golden Bough,”﻿ [16-13](crt22.htm#Note_16-13.md)<span
 id="Nanchor_16-13"></span> or does it rest merely on a view of woman as
 the inferior sex? The unluckiness of first meeting a woman is, we may
 note, not confined to, but merely intensified on New Year's Day; in
-Shropshire﻿ [16-14](crt22.htm#Note_16-14)<span
+Shropshire﻿ [16-14](crt22.htm#Note_16-14.md)<span
 id="Nanchor_16-14"></span> and in
-Germany﻿ [16-15](crt22.htm#Note_16-15)<span id="Nanchor_16-15"></span>
+Germany﻿ [16-15](crt22.htm#Note_16-15.md)<span id="Nanchor_16-15"></span>
 it belongs to any ordinary day.
 
 <span id="page_325">p. 325</span> <span id="Page_325"></span>As to the
@@ -179,23 +179,23 @@ powers only half understood, forces of attraction, but also of danger
 and repulsion, forces that all over the world seem to fill him with dim
 terror. The attitude of man to woman, and, though perhaps in a less
 degree, of woman to man, is still to-day essentially
-magical.”﻿ [16-16](crt22.htm#Note_16-16)<span id="Nanchor_16-16"></span>
+magical.”﻿ [16-16](crt22.htm#Note_16-16.md)<span id="Nanchor_16-16"></span>
 
 “First-foot” superstitions flourish in the north of England and in
 Scotland. In the northern counties a man is often specially retained as
 “first-foot” or “lucky bird”; in some parts he must be a bachelor, and
 he is often expected to bring a present with him﻿—a shovelful of coals,
-or some eatable, or whisky.﻿ [16-17](crt22.htm#Note_16-17)<span
+or some eatable, or whisky.﻿ [16-17](crt22.htm#Note_16-17.md)<span
 id="Nanchor_16-17"></span> In the East Riding of Yorkshire a boy called
 the “lucky bird” used to come at dawn on Christmas morning as well as on
 New Year's Day, and bring a sprig of
-evergreens﻿ [16-18](crt22.htm#Note_16-18)<span
+evergreens﻿ [16-18](crt22.htm#Note_16-18.md)<span
 id="Nanchor_16-18"></span> ﻿—an offering by now thoroughly familiar to
 us. In Scotland, especially in Edinburgh, it is customary for domestic
 servants to invite their sweethearts to be their “first-foots.” The old
 Scotch families who preserve ancient customs encourage their servants to
 “first-foot” them, and grandparents like their grandchildren to perform
-for them the same service.﻿ [16-19](crt22.htm#Note_16-19)<span
+for them the same service.﻿ [16-19](crt22.htm#Note_16-19.md)<span
 id="Nanchor_16-19"></span> In Aberdeenshire it is considered most
 important that the “first-foot” should not come empty-handed. Formerly
 he carried spiced ale; now he brings a whisky-bottle. Shortbread,
@@ -203,25 +203,25 @@ oat-cakes, “sweeties,” or sowens, were also sometimes brought by the
 “first-foot,” and occasionally the sowens were sprinkled on the doors
 and windows of the houses visited﻿—a custom strongly suggesting a
 sacramental significance of some
-sort.﻿ [16-20](crt22.htm#Note_16-20)<span id="Nanchor_16-20"></span>
+sort.﻿ [16-20](crt22.htm#Note_16-20.md)<span id="Nanchor_16-20"></span>
 
 Before we leave the subject of British “first-footing” we may notice one
 or two things that have possibly a racial significance. Not only must
 the “first-foot” be a man or boy, he is often required to be
 dark-haired; it is unlucky for a fair- or red-haired person to “let in”
-the New Year.﻿ [16-21](crt22.htm#Note_16-21)<span
+the New Year.﻿ [16-21](crt22.htm#Note_16-21.md)<span
 id="Nanchor_16-21"></span> It has been suggested by Sir John Rhys that
 this idea rested in the first instance upon <span id="page_326">p.
 326</span> <span id="Page_326"></span>racial antipathy﻿—the natural
 antagonism of an indigenous dark-haired people to a race of blonde
-invaders.﻿ [16-22](crt22.htm#Note_16-22)<span id="Nanchor_16-22"></span>
+invaders.﻿ [16-22](crt22.htm#Note_16-22.md)<span id="Nanchor_16-22"></span>
 Another curious requirement﻿—in the Isle of Man and Northumberland﻿—is
 that the “first-foot” shall not be flat-footed: he should be a person
 with a high-arched instep, a foot that “water runs under.” Sir John Rhys
 is inclined to connect this also with some racial contrast. He remarks,
 by way of illustration, that English shoes do not as a rule fit Welsh
 feet, being made too low in the
-instep.﻿ [16-23](crt22.htm#Note_16-23)<span id="Nanchor_16-23"></span>
+instep.﻿ [16-23](crt22.htm#Note_16-23.md)<span id="Nanchor_16-23"></span>
 
 Some reference has already been made to Scottish New Year customs. In
 Scotland, the most Protestant region of Europe, the country in which
@@ -233,10 +233,10 @@ example of Anglicanism is affecting the country to a considerable
 extent, and Christmas Day is becoming observed in the churches. The New
 Year, however, is still the national holiday, and January 1 a great day
 for visiting and feasting, the chief, in fact, of all
-festivals.﻿ [16-24](crt22.htm#Note_16-24)<span
+festivals.﻿ [16-24](crt22.htm#Note_16-24.md)<span
 id="Nanchor_16-24"></span> New Year's Day and its Eve are often called
 the “Daft Days”; cakes and pastry of all kinds are eaten, healths are
-drunk, and calls are paid.﻿ [16-25](crt22.htm#Note_16-25)<span
+drunk, and calls are paid.﻿ [16-25](crt22.htm#Note_16-25.md)<span
 id="Nanchor_16-25"></span>
 
 In Edinburgh there are striking scenes on New Year's Eve. “Towards
@@ -252,7 +252,7 @@ The crowds slowly disperse, the much-intoxicated and helpless ones being
 hustled about a good deal, the police urging them on out of harm's way.
 The first-footers are off and away, flying in every direction through
 the city, singing, cheering, and shaking hands with all and
-sundry.”﻿ [16-26](crt22.htm#Note_16-26)<span id="Nanchor_16-26"></span>
+sundry.”﻿ [16-26](crt22.htm#Note_16-26.md)<span id="Nanchor_16-26"></span>
 
 <span id="page_327">p. 327</span> <span id="Page_327"></span>One need
 hardly allude to the gathering of London Scots around St. Paul's to hear
@@ -268,14 +268,14 @@ year, each member of the family drank of this mixture ‘A good health and
 a happy New Year and many of them’ to all the rest, with a general
 hand-shaking.” The elders of the family would then sally out to visit
 their neighbours, and exchange
-greetings.﻿ [16-27](crt22.htm#Note_16-27)<span
+greetings.﻿ [16-27](crt22.htm#Note_16-27.md)<span
 id="Nanchor_16-27"></span>
 
 At Biggar in Lanarkshire it was customary to “burn out the old year”
 with bonfires, while at Burghead in Morayshire a tar-barrel called the
 “Clavie” was set on fire and carried about the village and the fishing
 boats. Its embers were scrambled for by the people and carefully kept as
-charms against witchcraft.﻿ [16-28](crt22.htm#Note_16-28)<span
+charms against witchcraft.﻿ [16-28](crt22.htm#Note_16-28.md)<span
 id="Nanchor_16-28"></span> These fire-customs may be compared with those
 on Hallowe'en, which, as we have seen, is probably an old New Year's
 Eve.
@@ -288,10 +288,10 @@ smoke might produce a thorough fumigation. Not only human beings had to
 stand this, but horses and other animals were treated in the same way to
 preserve them from harm throughout the year. Moreover, first thing on
 New Year's morning, everybody, while still in bed, was asperged with a
-large brush.﻿ [16-29](crt22.htm#Note_16-29)<span
+large brush.﻿ [16-29](crt22.htm#Note_16-29.md)<span
 id="Nanchor_16-29"></span> There is a great resemblance here to the
 Catholic use of incense and holy water in southern Germany and Austria
-on the *Rauchnächte* (see also  [VIII](crt12.htm#Chapter_VIII)). In
+on the *Rauchnächte* (see also  [VIII](crt12.htm#Chapter_VIII).md). In
 Tyrol these nights are Christmas, New Year's, and Epiphany Eves. When
 night falls the Tyrolese peasant goes with all his household through
 each room and outhouse, his wife bearing the holy water vessel and the
@@ -301,7 +301,7 @@ is purified with the sacred smoke and the holy sprinkling, and even the
 Christmas pie must be hallowed in this way. In Orthodox Greek countries
 something of the same kind takes place, as we shall see, at the
 Epiphany. To drive away evil spirits is no doubt the object of all these
-rites.﻿ [16-30](crt22.htm#Note_16-30)<span id="Nanchor_16-30"></span>
+rites.﻿ [16-30](crt22.htm#Note_16-30.md)<span id="Nanchor_16-30"></span>
 
 The most interesting of Scottish New Year customs, considered as
 religious survivals, is a practice found in the Highlands on New Year's
@@ -315,7 +315,7 @@ and shouting on coming to a door a rhyme demanding admission. On
 entering, each member of the party was offered refreshments, and their
 leader gave to the goodman of the house the “breast-stripe” of a sheep,
 deer, or goat, wrapped round the point of a shinty
-stick.﻿ [16-31](crt22.htm#Note_16-31)<span id="Nanchor_16-31"></span>
+stick.﻿ [16-31](crt22.htm#Note_16-31.md)<span id="Nanchor_16-31"></span>
 
 We have here another survival of that oft-noted custom of skin-wearing,
 which, as has been seen, originated apparently in a desire for contact
@@ -330,7 +330,7 @@ account, each person seizes hold of it as it burns, making the sign of
 the cross, if he be a Catholic, in the name of the Trinity, and it is
 put thrice sun-wise about the heads of those present. If it should be
 extinguished it is a bad omen for the New
-Year.﻿ [16-32](crt22.htm#Note_16-32)<span id="Nanchor_16-32"></span>
+Year.﻿ [16-32](crt22.htm#Note_16-32.md)<span id="Nanchor_16-32"></span>
 
 The writer of the last account speaks of the “breast-strip” as the
 “Hogmanay,” and it is just possible that the well-known Hogmanay
@@ -352,7 +352,7 @@ called the “Hogmanay.” Here is one of the rhymes they sing:﻿—
 <span class="i2">And dinna think that we are beggars;</span>  
 <span class="i2">For we are bairns come out to play,</span>  
 <span class="i2">Get up and gie's our
-hogmanay!”﻿ [16-33](crt22.htm#Note_16-33)<span
+hogmanay!”﻿ [16-33](crt22.htm#Note_16-33.md)<span
 id="Nanchor_16-33"></span> </span>  
 
 </div>
@@ -371,7 +371,7 @@ moreover, a Spanish word *aguinaldo* (formerly *aguilando*) =
 Christmas-box. The popular explanation of the French term as
 *au-guy-l'an-neuf* (to the mistletoe the New Year) is now rejected by
 scholars, and it seems likely that the word is a corruption of the Latin
-*Kalendae*.﻿ [16-34](crt22.htm#Note_16-34)<span
+*Kalendae*.﻿ [16-34](crt22.htm#Note_16-34.md)<span
 id="Nanchor_16-34"></span>
 
 A few instances of *aguillanneuf* customs may be given. Here are
@@ -396,7 +396,7 @@ specimens of rhymes sung by the New Year *quêteurs*:﻿—
 <span class="i2">Je l'achetai samedy</span>  
 <span class="i2">D'un bon homme de dehors;</span>  
 <span class="i2">Mais il est encore à payer.</span>  
-<span class="i6">Hoguinano.”﻿ [16-35](crt22.htm#Note_16-35)<span
+<span class="i6">Hoguinano.”﻿ [16-35](crt22.htm#Note_16-35.md)<span
 id="Nanchor_16-35"></span> </span>  
 
 </div>
@@ -410,10 +410,10 @@ When the inmates called out, “Who's there?” they would answer, “The
 *hoguihanneu*,” and after singing something they were given a piece of
 lard. This was put on a pointed stick carried by one of the boys, and
 was kept for a feast called the
-*bouriho*.﻿ [16-36](crt22.htm#Note_16-36)<span
+*bouriho*.﻿ [16-36](crt22.htm#Note_16-36.md)<span
 id="Nanchor_16-36"></span> Elsewhere in Brittany poor children went
 round crying “*au guyané*,” and were given pieces of lard or salt beef,
-which they stuck on a long spit.﻿ [16-37](crt22.htm#Note_16-37)<span
+which they stuck on a long spit.﻿ [16-37](crt22.htm#Note_16-37.md)<span
 id="Nanchor_16-37"></span> In Guernsey the children's quest at the New
 Year was called *oguinane*. They chanted the following rhyme:﻿—
 
@@ -423,8 +423,8 @@ Year was called *oguinane*. They chanted the following rhyme:﻿—
 
 <span class="i15">“Oguinâni! Oguinâno!</span>  
 <span class="i2">Ouvre ta pouque, et pis la
-recclios.”﻿ [115](crt24.htm#Footnote_115)<span
-id="FNanchor_115"></span>﻿ [16-38](crt22.htm#Note_16-38)<span
+recclios.”﻿ [115](crt24.htm#Footnote_115.md)<span
+id="FNanchor_115"></span>﻿ [16-38](crt22.htm#Note_16-38.md)<span
 id="Nanchor_16-38"></span> </span>  
 
 </div>
@@ -437,7 +437,7 @@ noise with bells. In other districts, early on New Year's morning, lads
 run about with sticks or clubs, knock people up, cry out good wishes,
 and expect to be rewarded with something to eat. Elsewhere again they
 carry green olive- or cornel-boughs, and touch with them everyone they
-meet.﻿ [16-39](crt22.htm#Note_16-39)<span id="Nanchor_16-39"></span> We
+meet.﻿ [16-39](crt22.htm#Note_16-39.md)<span id="Nanchor_16-39"></span> We
 have already considered various similar customs, the noise and knocking
 being apparently intended to drive away evil spirits, and the green
 boughs to bring folks into contact with the spirit of growth therein
@@ -468,23 +468,23 @@ appropriate greeting, such as:﻿—
 
 Generally this greeting is from the young to the old or from the poor to
 the rich, and a present in return is
-expected.﻿ [16-40](crt22.htm#Note_16-40)<span id="Nanchor_16-40"></span>
+expected.﻿ [16-40](crt22.htm#Note_16-40.md)<span id="Nanchor_16-40"></span>
 
 In Athens models of war-ships are carried round by waits, who make a
 collection of money in them. “St. Basil's ships” they are called, and
 they are supposed to represent the vessel on which St. Basil, whose
 feast is kept on January 1, sailed from
-Caesarea.﻿ [16-41](crt22.htm#Note_16-41)<span id="Nanchor_16-41"></span>
+Caesarea.﻿ [16-41](crt22.htm#Note_16-41.md)<span id="Nanchor_16-41"></span>
 It is probable that this is but a Christian gloss on a pagan custom.
 Possibly there may be here a survival of an old Greek practice of
 bearing a ship in procession in honour of
-Dionysus,﻿ [16-42](crt22.htm#Note_16-42)<span id="Nanchor_16-42"></span>
+Dionysus,﻿ [16-42](crt22.htm#Note_16-42.md)<span id="Nanchor_16-42"></span>
 but it is to be noted that similar observances are found at various
 seasons in countries like Germany and Belgium where no Greek influence
 can be traced. The custom is widespread, and it has been suggested by
 Mannhardt that it was originally intended either to promote the success
 of navigation or to carry evil spirits out to
-sea.﻿ [16-43](crt22.htm#Note_16-43)<span id="Nanchor_16-43"></span>
+sea.﻿ [16-43](crt22.htm#Note_16-43.md)<span id="Nanchor_16-43"></span>
 
 It is interesting, lastly, to read a mediaeval account of a New Year
 *quête* in Rome. “The following,” says the writer, “are common Roman
@@ -500,7 +500,7 @@ with the words, ‘Joy and gladness be in the house, so many sons, so many
 little pigs, so many lambs,’ and they wish him all good things. And
 before the sun rises they eat either a piece of honeycomb or something
 sweet, that the whole year may pass sweetly, without strife and great
-trouble.”﻿ [16-44](crt22.htm#Note_16-44)<span id="Nanchor_16-44"></span>
+trouble.”﻿ [16-44](crt22.htm#Note_16-44.md)<span id="Nanchor_16-44"></span>
 
 Various methods of peering into the future, more or less like <span
 id="page_332">p. 332</span> <span id="Page_332"></span>those described
@@ -512,7 +512,7 @@ into the basin of water which is held ready. According to the form which
 the lead takes so will his future be in the coming year ... ships (which
 indicate a journey), or hearts (which have, of course, only one
 meaning), or some other equally significant shape is usually
-discerned.”﻿ [16-45](crt22.htm#Note_16-45)<span
+discerned.”﻿ [16-45](crt22.htm#Note_16-45.md)<span
 id="Nanchor_16-45"></span>
 
 In Macedonia St. Basil's Eve (December 31) is a common time for
@@ -521,18 +521,18 @@ wild-olive-leaves to represent a youth and a maid. If the leaves crumple
 up and draw near each other, it is concluded that the young people love
 one another dearly, but if they recoil apart the opposite is the case.
 If they flare up and burn, it is a sign of excessive
-passion.﻿ [16-46](crt22.htm#Note_16-46)<span id="Nanchor_16-46"></span>
+passion.﻿ [16-46](crt22.htm#Note_16-46.md)<span id="Nanchor_16-46"></span>
 
 In Lithuania on New Year's Eve nine sorts of things﻿—money, cradle,
 bread, ring, death's head, old man, old woman, ladder, and key﻿—are
 baked of dough, and laid under nine plates, and every one has three
 grabs at them. What he gets will fall to his lot during the
-year.﻿ [16-47](crt22.htm#Note_16-47)<span id="Nanchor_16-47"></span>
+year.﻿ [16-47](crt22.htm#Note_16-47.md)<span id="Nanchor_16-47"></span>
 
 Lastly, in Brittany it is supposed that the wind which prevails on the
 first twelve days of the year will blow during each of the twelve
 months, the first day corresponding to January, the second to February,
-and so on.﻿ [16-48](crt22.htm#Note_16-48)<span
+and so on.﻿ [16-48](crt22.htm#Note_16-48.md)<span
 id="Nanchor_16-48"></span> Similar ideas of the prophetic character of
 Christmastide weather are common in our own and other countries.
 
@@ -544,32 +544,32 @@ There are curious superstitions about New Year water. At Bromyard in
 Herefordshire it was the custom, at midnight on New Year's Eve, to rush
 to the nearest spring to snatch the “cream of the well”﻿—the first
 pitcherful of water﻿—and with it the prospect of the best
-luck.﻿ [16-49](crt22.htm#Note_16-49)<span id="Nanchor_16-49"></span> A
+luck.﻿ [16-49](crt22.htm#Note_16-49.md)<span id="Nanchor_16-49"></span> A
 Highland practice was to send <span id="page_333">p. 333</span> <span
 id="Page_333"></span>some one on the last night of the year to draw a
 pitcherful of water in silence, and without the vessel touching the
 ground. The water was drunk on New Year's morning as a charm against
-witchcraft and the evil eye.﻿ [16-50](crt22.htm#Note_16-50)<span
+witchcraft and the evil eye.﻿ [16-50](crt22.htm#Note_16-50.md)<span
 id="Nanchor_16-50"></span> A similar belief about the luckiness of “new
 water” exists at Canzano Peligno in the Abruzzi. “On New Year's Eve, the
 fountain is decked with leaves and bits of coloured stuff, and fires are
 kindled round it. As soon as it is light, the girls come as usual with
 their copper pots on their head; but the youths are on this morning
 guardians of the well, and sell the ‘new water’ for nuts and fruits﻿—and
-other sweet things.”﻿ [16-51](crt22.htm#Note_16-51)<span
+other sweet things.”﻿ [16-51](crt22.htm#Note_16-51.md)<span
 id="Nanchor_16-51"></span>
 
 In some of the Aegean islands when the family return from church on New
 Year's Day, the father picks up a stone and leaves it in the yard, with
 the wish that the New Year may bring with it “as much gold as is the
-weight of the stone.”﻿ [16-52](crt22.htm#Note_16-52)<span
+weight of the stone.”﻿ [16-52](crt22.htm#Note_16-52.md)<span
 id="Nanchor_16-52"></span> Finally, in Little Russia “corn sheaves are
 piled upon a table, and in the midst of them is set a large pie. The
 father of the family takes his seat behind them, and asks his children
 if they can see him. ‘We cannot see you,’ they reply. On which he
 proceeds to express what seems to be a hope that the corn will grow so
 high in his fields that he may be invisible to his children when he
-walks there at harvest-time.”﻿ [16-53](crt22.htm#Note_16-53)<span
+walks there at harvest-time.”﻿ [16-53](crt22.htm#Note_16-53.md)<span
 id="Nanchor_16-53"></span>
 
 With a curious and beautiful old carol from South Wales I must bring
@@ -608,7 +608,7 @@ and are a fascinating puzzle for folk-lorists:﻿—
 <span class="i3">With gold upon her chin,﻿—</span>  
 <span class="i2">Open you the East Door,</span>  
 <span class="i3">And let the New Year
-in.”﻿ [16-54](crt22.htm#Note_16-54)<span id="Nanchor_16-54"></span>
+in.”﻿ [16-54](crt22.htm#Note_16-54.md)<span id="Nanchor_16-54"></span>
 </span>  
 
 </div>
@@ -623,4 +623,4 @@ id="page_337">p. 337</span> <span id="Page_337"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Epiphany to Candlemas](crt20)
+[Next: Chapter XVI. Epiphany to Candlemas](crt20.md)

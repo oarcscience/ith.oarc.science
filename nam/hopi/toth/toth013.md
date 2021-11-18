@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth012)  [Next](toth014) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth012)  [Next](toth014.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 10. THE ORIGIN OF THE YÁYAATU SOCIETY. <span id="fr_35"></span>[1](#fn_35)
+## 10. THE ORIGIN OF THE YÁYAATU SOCIETY. <span id="fr_35"></span>[1](#fn_35.md)
 
 Ishyaoí! In Oraíbi they were living. In the home of the Reed clan lived
 the Yáyaa-mongwi. This Fraternity has now died out, but its altar
@@ -289,9 +289,9 @@ initiated.
 
 ### Footnotes
 
-<span id="fn_35"></span>[41:1](toth013.htm#fr_35) Told by Wikvaya
+<span id="fn_35"></span>[41:1](toth013.htm#fr_35.md) Told by Wikvaya
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 11. The Origin of Some Mishóngnovi Clans](toth014)
+[Next: 11. The Origin of Some Mishóngnovi Clans](toth014.md)

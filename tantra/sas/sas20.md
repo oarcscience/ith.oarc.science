@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas19)  [Next](sas21)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas19)  [Next](sas21.md)  
 
 ------------------------------------------------------------------------
 
@@ -814,4 +814,4 @@ some new World.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Twenty-one: Hindu Ritual](sas21)
+Next: [Chapter Twenty-one: Hindu Ritual](sas21.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc12)  [Next](sfoc14) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc12)  [Next](sfoc14.md) 
 
 ------------------------------------------------------------------------
 
@@ -287,4 +287,4 @@ the reasoning by which they have arrived at this result.
 
 ------------------------------------------------------------------------
 
-[Next: Medical Practice](sfoc14)
+[Next: Medical Practice](sfoc14.md)

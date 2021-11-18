@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob52) 
-[Next](tob54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob52.md) 
+[Next](tob54.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ We will now give the signification of these 22 cards of our Tarot--
 ------------------------------------------------------------------------
 
 [Next: Fourth Lesson. Basis of the Application of These Data.
-Arrangement of the Cards](tob54)
+Arrangement of the Cards](tob54.md)

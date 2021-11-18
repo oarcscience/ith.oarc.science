@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag00)  [Next](rag02) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag00)  [Next](rag02.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ VIII.--THE AFTER-WORD 437
 
 ------------------------------------------------------------------------
 
-[Next: List Of Illustrations](rag02)
+[Next: List Of Illustrations](rag02.md)

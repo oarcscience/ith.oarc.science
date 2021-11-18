@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale30)  [Next](tale32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale30)  [Next](tale32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ appear, I ordered a servant to call
 <span id="img_33300"></span>
 
 [![AMINA EATING THE RICE](tn/33300.jpg)  
-Click to enlarge](img/33300.jpg)  
+Click to enlarge](img/33300.jpg.md)  
 AMINA EATING THE RICE  
 
 her. Still she did not come, and I waited impatiently for some time. At
@@ -224,7 +224,7 @@ that stood at hand,
 
 [![SHE OPENED THE GATE, INTENDING TO CRUSH ME AS I PASSED
 THROUGH](tn/33700.jpg)  
-Click to enlarge](img/33700.jpg)  
+Click to enlarge](img/33700.jpg.md)  
 SHE OPENED THE GATE, INTENDING TO CRUSH ME AS I PASSED THROUGH  
 
 <span id="page_338">p. 338</span> <span id="page_339">p. 339</span>
@@ -420,7 +420,7 @@ entered with a small bottle in her hand.
 <span id="img_34400"></span>
 
 [![AMINA IS TRANSFORMED INTO A HORSE](tn/34400.jpg)  
-Click to enlarge](img/34400.jpg)  
+Click to enlarge](img/34400.jpg.md)  
 AMINA IS TRANSFORMED INTO A HORSE  
 
 "Sidi-Nouman," she said, "the books I have just consulted tell me that
@@ -464,4 +464,4 @@ far worse than the one you have undergone already."
 
 ------------------------------------------------------------------------
 
-[Next: Story of Ali Colia, Merchant of Bagdad](tale32)
+[Next: Story of Ali Colia, Merchant of Bagdad](tale32.md)

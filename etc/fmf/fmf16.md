@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf15)  [Next](fmf17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf15)  [Next](fmf17.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ MORAL: Never talk Shop to a Man when he is on his Vacation.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Horse Maniac and What Caused the Filing of the
-Suit](fmf17)
+Suit](fmf17.md)

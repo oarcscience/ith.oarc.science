@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inuit](../index)  
-[Index](index) [Previous](tte1-3) [Next](tte1-5)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inuit](../index.md)  
+[Index](index) [Previous](tte1-3) [Next](tte1-5.md)
 
 ------------------------------------------------------------------------
 
@@ -992,7 +992,7 @@ heap of stones, or in a kind of stone cell.
 
 ------------------------------------------------------------------------
 
-[Next](tte1-5)
+[Next](tte1-5.md)
 
  
 

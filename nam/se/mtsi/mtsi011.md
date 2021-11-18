@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi010)  [Next](mtsi012) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi010)  [Next](mtsi012.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ wild melody.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Origin of Tobacco](mtsi012)
+[Next: 10. The Origin of Tobacco](mtsi012.md)

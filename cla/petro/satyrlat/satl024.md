@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat05.htm#XXIV) 
-[Previous](satl023)  [Next](satl025) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat05.htm#XXIV.md) 
+[Previous](satl023)  [Next](satl025.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ nostrae militabit; hodie enim post asellum diaria non sumo".
 
 ------------------------------------------------------------------------
 
-[Next: XXV](satl025)
+[Next: XXV](satl025.md)

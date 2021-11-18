@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh27)  [Next](ehh29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh27)  [Next](ehh29.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ Osiris, and who came into being with him the first time."
 ------------------------------------------------------------------------
 
 [Next: Twelfth Division of the Tuat. II. Eastern Vestibule of the Tuat
-According to the Book of Gates](ehh29)
+According to the Book of Gates](ehh29.md)

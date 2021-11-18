@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu12)  [Next](tmu14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu12)  [Next](tmu14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -30,28 +30,28 @@ Intangible Textual Heritage
 ##### <span class="smallcaps">Khaṇda</span> I
 
 <span class="smallcaps">Then</span> he (Raikva <span
-id="fr_36"></span>[1](#fn_36)) asked: "What was at first?" To which (He
+id="fr_36"></span>[1](#fn_36).md) asked: "What was at first?" To which (He
 the Lord) replied:
 
-"There was neither Saṭ <span id="fr_37"></span>[2](#fn_37) nor asaṭ nor
+"There was neither Saṭ <span id="fr_37"></span>[2](#fn_37.md) nor asaṭ nor
 Saṭ-asaṭ. From it, ṭamas (darkness) was evolved. From ṭamas came
-bhūṭāḍi; <span id="fr_38"></span>[3](#fn_38)from bhūṭāḍi came ākāś, from
+bhūṭāḍi; <span id="fr_38"></span>[3](#fn_38.md)from bhūṭāḍi came ākāś, from
 ākāś, vāyu; from vāyu, agni (fire); from agni, āpas (water); and from
 āpas, pṛṭhivī (earth). Then it became an egg. After remaining so for one
 (divine) year, it split into two and became earth below, <span
-id="fr_39"></span>[4](#fn_39) the ākāś above and in the midst, the
+id="fr_39"></span>[4](#fn_39.md) the ākāś above and in the midst, the
 infinite Purusha of a divine form of myriads of heads, eyes, feet and
 hands. Prior to the bhūṭas (elements), he had evolved Mṛṭyu (time or
-death) of three letters <span id="fr_40"></span>[5](#fn_40), three
+death) of three letters <span id="fr_40"></span>[5](#fn_40.md), three
 heads, and three feet, and having a khaṇda-paraśu <span
-id="fr_41"></span>[6](#fn_41) (broken
+id="fr_41"></span>[6](#fn_41.md) (broken
 
 <span id="page_62">p. 62</span>
 
 axe). To him, Brahma (the Purusha) spoke. He entered Brahma himself and
-evolved mentally the seven sons <span id="fr_42"></span>[1](#fn_42) and
+evolved mentally the seven sons <span id="fr_42"></span>[1](#fn_42.md) and
 these Havirāts (or sons) as well as the seven prajāpaṭis (progenitors).
-Brāhmaṇas <span id="fr_43"></span>[2](#fn_43) were born from His mouth,
+Brāhmaṇas <span id="fr_43"></span>[2](#fn_43.md) were born from His mouth,
 Kshaṭṭriyas from His hands, Vaiśyas from His thighs, and from the feet
 were born the Śuḍras. The moon was born from His manas (mind), the sun
 from His eyes, vāyu from (His) ears and prāṇas from (His) heart. Thus
@@ -103,7 +103,7 @@ having neither inside nor outside, neither eating anything nor being
 eaten by others. Some one (out of many) attains to this (Āṭmā) by the
 six means of saṭya (truth), ḍāna (charity), ṭapas (religious
 austerities), non-injury to any creature, celibacy and complete
-indifference to worldy objects; <span id="fr_44"></span>[1](#fn_44) and
+indifference to worldy objects; <span id="fr_44"></span>[1](#fn_44.md) and
 there are no other means. Whoever feels happy with the thought 'I know
 That', that learned person's prāṇa will never get out of his body at the
 moment of death, but will become absorbed in Brahman; and being absorbed
@@ -143,9 +143,9 @@ or no Brahman-slayer. Its body is ṭejas (resplendent effulgence) and of
 the nature of nectar (or the immortal). It is as if in sport, a
 water-lotus. When he returns again to the waking state by the same way
 (he quitted or went in before to the heart), he is Samrāt <span
-id="fr_45"></span>[1](#fn_45). Thus says he."
+id="fr_45"></span>[1](#fn_45.md). Thus says he."
 
-##### <span class="smallcaps">Khaṇda</span> V <span id="fr_46"></span>[2](#fn_46)
+##### <span class="smallcaps">Khaṇda</span> V <span id="fr_46"></span>[2](#fn_46.md)
 
 "That which joins one place (or centre) with another is the nādis which
 bind them. The eye is aḍhyāṭmā, (pertaining to the body); the visible
@@ -156,7 +156,7 @@ objects are āḍhibhūṭa (pertaining to the
 elements) and the sun is aḍhidaivaṭa (spiritual). The nādis form their
 bond (or connect them). He who moves in the eye, in the visible, in the
 sun, in the midis, in prāṇa, in vijñāna, <span
-id="fr_47"></span>[1](#fn_47) in ānanḍa, in the ākāś of the heart, and
+id="fr_47"></span>[1](#fn_47.md) in ānanḍa, in the ākāś of the heart, and
 within all else—That is Āṭmā. It is that which should be worshipped. It
 is without old age, death, fear, sorrow, or end.
 
@@ -219,7 +219,7 @@ secretion, Prajāpaṭi, the nādis, prāṇa, vijñāna, ānanḍa, the ākāś
 heart, and within all else—That is Āṭmā. It is that which should be
 worshipped. It is without old age, death, fear, sorrow, or end.
 
- <span id="fr_48"></span>[1](#fn_48)"Manas is aḍhyāṭma, the thinkable is
+ <span id="fr_48"></span>[1](#fn_48.md)"Manas is aḍhyāṭma, the thinkable is
 aḍhibhūṭa, and the moon is Aḍhiḍaivaṭa. The nādis bind them. He who
 moves in the manas, the thinkable, the moon, the nādis, prāṇa, vijñāna,
 ānanḍa, the ākāś of the heart, and within all else—That is Āṭmā. It is
@@ -269,7 +269,7 @@ thus is the exposition of the Veḍas."
 
 "At first there was not anything in the least. These creatures were born
 through no root, no support but the Divine Ḍeva, the one Nārāyaṇa. <span
-id="fr_49"></span>[1](#fn_49) The eye and the visible are Nārāyaṇa;
+id="fr_49"></span>[1](#fn_49.md) The eye and the visible are Nārāyaṇa;
 
 <span id="page_68">p. 68</span>
 
@@ -414,7 +414,7 @@ that which is lifted by the hand; that which disappears in Inḍra becomes
 Inḍra only; that which disappears in the nectar becomes the nectar only;
 that which disappears in mukhya becomes mukhya only; that which
 disappears in vijñāna becomes vijñāna only; that which disappears in
-[bliss](errata.htm#5) becomes bliss only; that which disappears in ṭurya
+[bliss](errata.htm#5.md) becomes bliss only; that which disappears in ṭurya
 becomes ṭurya only—(all these) attain, that which is deathless,
 fearless, sorrowless, endless, and seedless."
 
@@ -487,10 +487,10 @@ Then He continued: "That which disappears in chiṭṭa becomes chiṭṭa
 itself; that which disappears in that which is acted upon by chiṭṭa
 becomes that itself; that which disappears in Ksheṭrajña becomes
 Ksheṭrajña itself; that which disappears in bhāsvatī becomes bhāsvatī
-itself; that [which](errata.htm#6) disappears in nāga becomes nāga
+itself; that [which](errata.htm#6.md) disappears in nāga becomes nāga
 itself; that which disappears in vijñāna becomes vijñāna itself; that
 which disappears in ānanḍa becomes ānanḍa itself; that which disappears
-in ṭurya [becomes](errata.htm#7) ṭurya itself—(all these) attain that
+in ṭurya [becomes](errata.htm#7) ṭurya itself—(all these.md) attain that
 which is deathless, fearless, sorrowless, endless, and seedless."
 
 "He who knows this as seedless in this manner becomes himself seedless.
@@ -564,8 +564,8 @@ replete with vijñāna? and how does it leave the body and pervade the
 universe?" To this He replied: "There is a mass of red flesh in the
 middle of the heart. In it, there is a lotus called ḍahara. It buds
 forth in many petals like a water-lily. In the middle of it is an ocean
-(samuḍra). <span id="fr_50"></span>[1](#fn_50) In its midst is a
-koka <span id="fr_51"></span>[2](#fn_51) (bird). In it there are four
+(samuḍra). <span id="fr_50"></span>[1](#fn_50.md) In its midst is a
+koka <span id="fr_51"></span>[2](#fn_51) (bird.md). In it there are four
 nādis. They are ramā, aramā, Ichchhā and punarbhava. Of these, ramā
 leads a man of virtue to a happy world. Aramā leads one of sins into the
 world of sins. (Passing) through Ichchhā (nādi), one gets whatever he
@@ -578,7 +578,7 @@ supreme God. Beyond this, there is neither Saṭ nor asaṭ, nor Saṭ-asaṭ.
 Thus is the exposition of Nirvāṇa; and thus is the exposition of the
 Veḍas; yea, thus is the exposition of the Veḍas."
 
-##### <span class="smallcaps">Khaṇda</span> XII <span id="fr_52"></span>[3](#fn_52)
+##### <span class="smallcaps">Khaṇda</span> XII <span id="fr_52"></span>[3](#fn_52.md)
 
 "Anna (food) came from Nārāyaṇa. It was first cooked in Brahmaloka in
 the Mahā-samvarṭaka fire. Again it was cooked in the sun; again it was
@@ -614,7 +614,7 @@ with the Supreme. And beyond Him, there is neither Saṭ nor asaṭ, nor
 Saṭ-asaṭ. Thus is the exposition of Nirvāṇa; thus is the exposition of
 the Veḍas; yea, thus is the exposition of the Veḍas."
 
-##### <span class="smallcaps">Khaṇda</span> XIV <span id="fr_53"></span>[1](#fn_53)
+##### <span class="smallcaps">Khaṇda</span> XIV <span id="fr_53"></span>[1](#fn_53.md)
 
 "Pṛṭhivī is the food, and āpas is the eater; āpas is the food, and
 jyoṭis (or fire) is the eater; jyoṭis is the food, and vāyu is the
@@ -663,75 +663,75 @@ thus is the exposition of the Veḍas."
 
 ### Footnotes
 
-<span id="fn_36"></span>[61:1](tmu13.htm#fr_36) In the Chhānḍogya
+<span id="fn_36"></span>[61:1](tmu13.htm#fr_36.md) In the Chhānḍogya
 Upanishaḍ, Raikva is said to be the imparter of Samvargaviḍyā.
 
-<span id="fn_37"></span>[61:2](tmu13.htm#fr_37) The absolute
+<span id="fn_37"></span>[61:2](tmu13.htm#fr_37.md) The absolute
 (Parabrahman) is neither Saṭ (Be-ness) nor asaṭ (not-Be-ness) nor a
 commingling of both. It is neither spirit nor matter nor a commingling
 of both.
 
-<span id="fn_38"></span>[61:3](tmu13.htm#fr_38) Bhūṭāḍi is ṭāmasa
+<span id="fn_38"></span>[61:3](tmu13.htm#fr_38.md) Bhūṭāḍi is ṭāmasa
 ahaṅkāra according to Vishṇu Purāṇa.
 
-<span id="fn_39"></span>[61:4](tmu13.htm#fr_39) "Above and below" refers
+<span id="fn_39"></span>[61:4](tmu13.htm#fr_39.md) "Above and below" refers
 not to the position but only to the state, of matter, gross or subtle.
 "In the midst" implies that ākāś and earth are soaked in and with
 spirit.
 
-<span id="fn_40"></span>[61:5](tmu13.htm#fr_40) This refers to the first
+<span id="fn_40"></span>[61:5](tmu13.htm#fr_40.md) This refers to the first
 triune manifestation of Purusha or spirit through time when only there
 is activity, Mṛṭyu or Kāla is the first manifestation whereas Yama (or
 the God of death) is the secondary one dealing with the death of
 creatures lower down.
 
-<span id="fn_41"></span>[61:6](tmu13.htm#fr_41) Khaṇda means divided or
+<span id="fn_41"></span>[61:6](tmu13.htm#fr_41.md) Khaṇda means divided or
 with parts. Parasu literally injuring another. Hence Mṛṭyu with his
 khaṇda-parasu divided eternal time into its parts and conditions the
 absolute through primordial matter. In the Purāṇas and other books,
 Mṛṭyu and Yama are represented as having an axe broken in a conflict.
 
-<span id="fn_42"></span>[62:1](tmu13.htm#fr_42) This refers to the
+<span id="fn_42"></span>[62:1](tmu13.htm#fr_42.md) This refers to the
 septenary manifestation from the triune one; also to the sub-septenary
 ones.
 
-<span id="fn_43"></span>[62:2](tmu13.htm#fr_43) In other words beings of
+<span id="fn_43"></span>[62:2](tmu13.htm#fr_43.md) In other words beings of
 Saṭṭva, Rajas and Ṭamas and an admixture of these were born.
 
-<span id="fn_44"></span>[63:1](tmu13.htm#fr_44) The word anāsakena
+<span id="fn_44"></span>[63:1](tmu13.htm#fr_44.md) The word anāsakena
 (non-injury) is repeated in the text which is wrong.
 
-<span id="fn_45"></span>[64:1](tmu13.htm#fr_45) Lit., one producing
+<span id="fn_45"></span>[64:1](tmu13.htm#fr_45.md) Lit., one producing
 sound.
 
-<span id="fn_46"></span>[64:2](tmu13.htm#fr_46) In this chapter are
+<span id="fn_46"></span>[64:2](tmu13.htm#fr_46.md) In this chapter are
 given out the several correspondences of the ḍevas (or the presiding
 spiritual deities) and of the objects to the five organs of sense, the
 five organs of action, and the antaḥkaraṇa (or lower mind) composed of
 manas, buḍḍhi, ahaṅkāra, and chiṭṭa.
 
-<span id="fn_47"></span>[65:1](tmu13.htm#fr_47) Probably prāṇa, vijñāna,
+<span id="fn_47"></span>[65:1](tmu13.htm#fr_47.md) Probably prāṇa, vijñāna,
 and ānanḍa refer to the sheaths formed by them.
 
-<span id="fn_48"></span>[66:1](tmu13.htm#fr_48) Although in the original
+<span id="fn_48"></span>[66:1](tmu13.htm#fr_48.md) Although in the original
 manas, buḍḍhi, etc., are in the middle, yet they are inserted here after
 the karmenḍriyas.
 
-<span id="fn_49"></span>[67:1](tmu13.htm#fr_49) Nārāyaṇa is the
+<span id="fn_49"></span>[67:1](tmu13.htm#fr_49.md) Nārāyaṇa is the
 Universal Self. This chapter gives out the pantheistic theory that the
 whole universe is nothing but God Nārāyaṇa.
 
-<span id="fn_50"></span>[75:1](tmu13.htm#fr_50) The ocean probably
+<span id="fn_50"></span>[75:1](tmu13.htm#fr_50.md) The ocean probably
 refers to ākāsic space.
 
-<span id="fn_51"></span>[75:2](tmu13.htm#fr_51) Koka probably refers to
+<span id="fn_51"></span>[75:2](tmu13.htm#fr_51.md) Koka probably refers to
 Hamsa.
 
-<span id="fn_52"></span>[75:3](tmu13.htm#fr_52) In this chapter are
+<span id="fn_52"></span>[75:3](tmu13.htm#fr_52.md) In this chapter are
 related the different fires, the first or primordial anna or
 food-substance has to pass through in order to become the gross food.
 
-<span id="fn_53"></span>[76:1](tmu13.htm#fr_53) The causes and effects
+<span id="fn_53"></span>[76:1](tmu13.htm#fr_53.md) The causes and effects
 are herein given out, the cause of an effect becoming itself the effect
 of a higher cause.
 
@@ -739,6 +739,6 @@ of a higher cause.
 
 ------------------------------------------------------------------------
 
-[Next: 12. Ṭejobinḍu-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu14)
+[Next: 12. Ṭejobinḍu-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu14.md)
 
 </div>

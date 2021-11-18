@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Next](cig01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Next](cig01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Coffee in the Gourd*, ed. J. Frank Dobie \[1923\], at Intangible
 Textual Heritage
 
@@ -32,6 +32,6 @@ Office.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](cig01)
+[Next: Contents](cig01.md)
 
 </div>

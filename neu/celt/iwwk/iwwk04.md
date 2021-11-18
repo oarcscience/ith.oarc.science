@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](iwwk03)  [Next](iwwk05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](iwwk03)  [Next](iwwk05.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,4 +130,4 @@ narrow pathway through the bogs.
 
 ------------------------------------------------------------------------
 
-[Next: The People of the Glens](iwwk05)
+[Next: The People of the Glens](iwwk05.md)

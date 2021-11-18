@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow25)  [Next](wow27) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow25)  [Next](wow27.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,4 +179,4 @@ caught her in my arms.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Ten: The Epilogue](wow27)
+[Next: Chapter Ten: The Epilogue](wow27.md)

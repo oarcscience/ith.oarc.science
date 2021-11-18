@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat10)  [Next](aat12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat10)  [Next](aat12.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ winter-time.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Creation Myth (Atsugewi)](aat12)
+[Next: 11. Creation Myth (Atsugewi)](aat12.md)

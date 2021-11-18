@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar44)  [Next](gar46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar44)  [Next](gar46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ and may be read as **ΙΑΗΟ** (*Iaho*) (that is in *Latin* characters),
 which is held by the Jews for unutterable. The author of the 'Treatise
 on Interpretations' says, "The Egyptians express the name of the Supreme
 Being by the seven Greek vowels **ΙΕΗΩΟϒΑ**": <span
-id="fr_190"></span>[\*](#fn_188) which sufficiently explains the mighty
+id="fr_190"></span>[\*](#fn_188.md) which sufficiently explains the mighty
 potency ascribed to this formula by the inspired author of the
 'Pistis-Sophia,' and equally so its frequent appearance upon the
 talismans now under consideration.
@@ -86,7 +86,7 @@ returneth within;* **Ω**, *There shall be an end of* 
 
 *ends*": thus expressing the grand doctrines of the *Emanation*, the
 *Return*, and the *Annihilation*, or rather reabsorption, of the
-Universe. <span id="fr_191"></span>[\*](#fn_189)
+Universe. <span id="fr_191"></span>[\*](#fn_189.md)
 
 To turn now to Greece--in the same way as *Abraxas* is no other than a
 numerical title of the Solar god, so does *Iao* actually make its
@@ -103,7 +103,7 @@ response:--
  In winter Pluto, in spring's opening Jove,  
  Phœbus through blazing summer rules the day,  
  Whilst autumn owns the mild *Iaos’* <span
-id="fr_192"></span>[†](#fn_190) sway."
+id="fr_192"></span>[†](#fn_190.md) sway."
 
 Here we find Iao expressly recognised as the title of the Supreme God
 whose physical representative is the Sun. Again we have Dionysos or
@@ -289,7 +289,7 @@ these
 words accompany. What else would be the motive for their collocation in
 a prayer like this (on a gem published by Matter himself)--"Iao,
 Abraxas, Adonai, Holy Name, Holy Powers, <span
-id="fr_193"></span>[\*](#fn_191) defend Vibia Paulina from every evil
+id="fr_193"></span>[\*](#fn_191.md) defend Vibia Paulina from every evil
 spirit"? And, again, these same names perpetually occur united together,
 and followed by the address **ΑΒΛΑΝΑΘΑΝΑΛΒΑ**, "Thou art our Father";
 **CΕΜΕC ΕΙΛΑΜ**, "Eternal Sun"; a mode of adoration that could not
@@ -331,14 +331,14 @@ interpolated by a Gnostic hand upon works of a better period and creed,
 but whose subjects were fancied analogous to the ideas conveyed by the
 Iao Pantheus: such as Phœbus in his car, the Lion--House of the Sun, the
 Sphinx emblem of royalty, and the Gorgon's Head of the Destructive
-Force, or of Providence. <span id="fr_194"></span>[\*](#fn_192) But the
+Force, or of Providence. <span id="fr_194"></span>[\*](#fn_192.md) But the
 most interesting of such *adopted* types that has come to my knowledge,
 as unmistakably pointing out the deity really understood by the name
 Abraxas, is a work discovered by myself amongst the miscellanea of a
 small private collection (Bosanquet). In this we behold the familiar
 Pantheus with head of cock, cuirassed body, and serpent-legs brandishing
 the whip and driving the car of Sol, <span
-id="fr_195"></span>[†](#fn_193) in the exact attitude of its proper
+id="fr_195"></span>[†](#fn_193.md) in the exact attitude of its proper
 occupant, Phœbus. In the exergue is the salutation **CΑΒΑΩ**, "Glory
 unto thee": on the reverse, in a cartouche formed by a coiled
 asp--precisely as the Hindoos write the Ineffable Name **AUM**--are
@@ -349,7 +349,7 @@ meant, and that one to be the Ruler of the Sun.
 
 ### Footnotes
 
-<span id="fn_188"></span>[319:\*](gar45.htm#fr_190) According to the
+<span id="fn_188"></span>[319:\*](gar45.htm#fr_190.md) According to the
 Talmud, the Name of God, which was communicated only to the most pious
 of the priesthood, was composed of twelve letters. And upon our
 talismans the vowels inclosing **ΙΑΩ** are often found repeated so as to
@@ -370,16 +370,16 @@ Adam, was I, which succeeding times changed into *Eli*:--
    In ramo, che sen va, ed altra viens."  
              ('Parad.' xxvi. 133).
 
-<span id="fn_189"></span>[321:\*](gar45.htm#fr_191) This has a
+<span id="fn_189"></span>[321:\*](gar45.htm#fr_191.md) This has a
 remarkable analogy with the Brahminical definition of God as "the
 Self-existing, Eternal, Supreme Being, who is the Cause of everything,
 and into whom everything is finally absorbed"?
 
-<span id="fn_190"></span>[321:†](gar45.htm#fr_192) ἀβρὸν Ἰαὼ, where the
+<span id="fn_190"></span>[321:†](gar45.htm#fr_192.md) ἀβρὸν Ἰαὼ, where the
 epithet seems suggested by the name Abraxas so generally coupled with
 it.
 
-<span id="fn_191"></span>[326:\*](gar45.htm#fr_193) A parallel to this
+<span id="fn_191"></span>[326:\*](gar45.htm#fr_193.md) A parallel to this
 form still exists in the Turkish amulet composed of the ninety-and-nine
 epithets of Allah written on a paper, and believed to possess wondrous
 protective power. The spirit of all Oriental religions is to glorify the
@@ -387,12 +387,12 @@ one object of adoration by heaping upon him a multitude of honorific
 titles expressive of his various attributes. Amulets of this and various
 other kinds are regularly sold at the mosques.
 
-<span id="fn_192"></span>[327:\*](gar45.htm#fr_194) The holy name has
+<span id="fn_192"></span>[327:\*](gar45.htm#fr_194.md) The holy name has
 often been added to intagli of a foreign nature merely for the sake of
 turning them into talismans: for example, on the reverse of a heliotrope
 with Victory, inscribing a shield (R. S. Williams, Utica, U.S.).
 
-<span id="fn_193"></span>[327:†](gar45.htm#fr_195) Exactly as Serapis
+<span id="fn_193"></span>[327:†](gar45.htm#fr_195.md) Exactly as Serapis
 (also a type of the Sun-god) makes his appearance upon an Alexandrian
 coin of Hadrian's, which has been already cited (section "Abraxas
 gems"). The god is giving the benediction with his right hand, and holds
@@ -402,4 +402,4 @@ having no deeper meaning than the date of the month when, coined.
 
 ------------------------------------------------------------------------
 
-[Next: Abraxas, New Type of](gar46)
+[Next: Abraxas, New Type of](gar46.md)

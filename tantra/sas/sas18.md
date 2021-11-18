@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas17)  [Next](sas19)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas17)  [Next](sas19.md)  
 
 ------------------------------------------------------------------------
 
@@ -392,4 +392,4 @@ worlds, arise.
 ------------------------------------------------------------------------
 
 Next: [Chapter Nineteen: Creation as Explained in the Non-dualist
-Tantras](sas19)
+Tantras](sas19.md)

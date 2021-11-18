@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs11) [Next](hbs13)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs11) [Next](hbs13.md)
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ All gallant Serbs, and their pure blood was dear unto their God.
 
 ------------------------------------------------------------------------
 
-[Next](hbs13)
+[Next](hbs13.md)
 
  
 

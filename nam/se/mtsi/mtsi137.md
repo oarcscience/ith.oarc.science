@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi136)  [Next](mtsi138) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi136)  [Next](mtsi138.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ out and find a good place on the firm ground in which to camp.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Origin of the Alabama Indians](mtsi138)
+[Next: 2. Origin of the Alabama Indians](mtsi138.md)

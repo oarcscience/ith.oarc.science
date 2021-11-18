@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont35)  [Next](ont37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont35)  [Next](ont37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -107,11 +107,11 @@ fell, misfortune would be sure to overtake the man who made the vow.
 
 "I have followed the Old North Trail so often, that I know every
 mountain stream and river far to the south, as well as towards the
-distant north. We call the Three Tetons in [the](errata.htm#4) south
+distant north. We call the Three Tetons in [the](errata.htm#4.md) south
 (Wyoming), Teat Buttes, because of their shape. North of the Mud Head
 Creek is a stream along whose banks many berries grow, so we named it
 Sweet Creek. North of it is another stream we call the Ghost
-Piskun <span id="fr_41"></span>[1](#fn_37) Creek. On its shore is a
+Piskun <span id="fr_41"></span>[1](#fn_37.md) Creek. On its shore is a
 miniature cliff about three feet high. At the base of the cliff are
 small circles of stones, similar to those made by the Indians for their
 lodge fires. It looks to us as if, at one time, there must have been a
@@ -142,7 +142,7 @@ thickets near that stream. Mud Head River was named, because of the
 
 <span id="img_43800"></span> <span align="CENTER"> [![PISKUN NEAR TWO
 MEDICINE RIVER.&lt;br&gt; (Top of cliff.)](tn/43800.jpg)  
-Click to enlarge](img/43800.jpg)  
+Click to enlarge](img/43800.jpg.md)  
 PISKUN NEAR TWO MEDICINE RIVER.  
 (Top of cliff.)  
 </span>
@@ -166,7 +166,7 @@ lakes. We cal\] them the In Lakes,
 
 <span id="img_43900"></span> <span align="CENTER"> [![PISKUN NEAR TWO
 MEDICINE RIVER.&lt;br&gt; (Base of cliff.)](tn/43900.jpg)  
-Click to enlarge](img/43900.jpg)  
+Click to enlarge](img/43900.jpg.md)  
 PISKUN NEAR TWO MEDICINE RIVER.  
 (Base of cliff.)  
 </span>
@@ -206,9 +206,9 @@ to have started our living together in families."
 
 ### Footnotes
 
-<span id="fn_37"></span>[437:1](ont36.htm#fr_41) See
-[Appendix](ont44.htm#an_437).
+<span id="fn_37"></span>[437:1](ont36.htm#fr_41.md) See
+[Appendix](ont44.htm#an_437.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIV. Blackfeet Societies](ont37)
+[Next: Chapter XXXIV. Blackfeet Societies](ont37.md)

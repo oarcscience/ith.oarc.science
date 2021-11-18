@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb23)  [Next](olb25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb23)  [Next](olb25.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ mother had ordered, nor was he to land at Flyland nor anywhere about
 there. In this way he would have lost all his people by want and
 hardship, so he landed at night to steal and sailed on by day. Thus
 coasting along, he at length arrived at the colony of Kadik <span
-id="fr_23"></span>[\*](#fn_23) (Cadiz), so called because it was built
+id="fr_23"></span>[\*](#fn_23) (Cadiz.md), so called because it was built
 with a stone quay. Here they bought all kinds of stores, but Tuntia the
 Burgtmaagd would not allow them to settle there. When they were ready
 they began to disagree. Teunis wished to sail through the straits to the
@@ -52,15 +52,15 @@ his fleet and his people had such a shattered appearance, the
 inhabitants on the coasts thought that they were pirates, and drove them
 away. At last they arrived at the Phœnician coast, one hundred and
 ninety-three years after Atland was submerged <span
-id="fr_24"></span>[\*](#fn_24). Near the coast they found an island with
+id="fr_24"></span>[\*](#fn_24.md). Near the coast they found an island with
 two deep bays, so that there appeared to be three islands. In the middle
 one they established themselves, and afterwards built a city wall round
 the place. Then they wanted to give it a name, but disagreed about it.
 Some wanted to call it Fryasburgt, others Neeftunia; but the Magyars and
 Finns begged that it might be called Thyrhisburgt <span
-id="fr_25"></span>[†](#fn_25).
+id="fr_25"></span>[†](#fn_25.md).
 
-Thyr <span id="fr_26"></span>[‡](#fn_26) was the name of one of their
+Thyr <span id="fr_26"></span>[‡](#fn_26.md) was the name of one of their
 idols, and it was upon his feast-day that they had landed there; and in
 return they offered to recognise Teunis as their perpetual king. Teunis
 let himself be persuaded, and the others would not make any quarrel
@@ -84,8 +84,8 @@ the Grevetman of Westflyland that he induced
 
 <span class="contnote">\[paragraph continues\]</span> Teunis to build a
 warehouse at the mouth of the Flymeer. Afterwards this place was called
-Almanaland <span id="fr_27"></span>[\*](#fn_27), and the market where
-they traded at Wyringen <span id="fr_28"></span>[†](#fn_28) was called
+Almanaland <span id="fr_27"></span>[\*](#fn_27.md), and the market where
+they traded at Wyringen <span id="fr_28"></span>[†](#fn_28.md) was called
 Toelaatmarkt. The mother advised that they should sell everything except
 iron weapons, but no attention was paid to what she said. As the
 Thyriers had thus free play, they came from far and near to take away
@@ -97,19 +97,19 @@ more in a year.
 
 ### Footnotes
 
-<span id="fn_23"></span>[81:\*](olb24.htm#fr_23) Kâdik is Cadiz.
+<span id="fn_23"></span>[81:\*](olb24.htm#fr_23.md) Kâdik is Cadiz.
 
-<span id="fn_24"></span>[83:\*](olb24.htm#fr_24) 2193-193 is 2000 years
+<span id="fn_24"></span>[83:\*](olb24.htm#fr_24.md) 2193-193 is 2000 years
 before Christ.
 
-<span id="fn_25"></span>[83:†](olb24.htm#fr_25) Thyrhisburch is Tyre.
+<span id="fn_25"></span>[83:†](olb24.htm#fr_25.md) Thyrhisburch is Tyre.
 
-<span id="fn_26"></span>[83:‡](olb24.htm#fr_26) Thyr is the son of Odin.
+<span id="fn_26"></span>[83:‡](olb24.htm#fr_26.md) Thyr is the son of Odin.
 
-<span id="fn_27"></span>[85:\*](olb24.htm#fr_27) Almanaland is Ameland.
+<span id="fn_27"></span>[85:\*](olb24.htm#fr_27.md) Almanaland is Ameland.
 
-<span id="fn_28"></span>[85:†](olb24.htm#fr_28) Wyringâ is Wieringen.
+<span id="fn_28"></span>[85:†](olb24.htm#fr_28.md) Wyringâ is Wieringen.
 
 ------------------------------------------------------------------------
 
-[Next: What the Consequence of this was](olb25)
+[Next: What the Consequence of this was](olb25.md)

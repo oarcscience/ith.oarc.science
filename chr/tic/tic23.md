@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic22)  [Next](tic24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic22)  [Next](tic24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ Saint's delight in this jubilee*.
 Him Who has bestowed them that life becomes a painful though delicious
 torture, and death is ardently longed for. Such a one often implores God
 with tears to take her from this exile where everything she sees wearies
-her. <span id="fr_305"></span>[1](#fn_305) Solitude alone brings great
+her. <span id="fr_305"></span>[1](#fn_305.md) Solitude alone brings great
 alleviation for a time, but soon her grief returns and yet she cannot
 bear to be without it. In short, this poor little butterfly can find no
 lasting rest. So tender is her love that at the slightest provocation it
@@ -43,7 +43,7 @@ flames forth and the soul takes flight. Thus in this mansion raptures
 <span id="page_207">p. 207</span>
 
 occur very frequently, nor can they be resisted even in public.
-Persecutions and slanders ensue; <span id="fr_306"></span>[2](#fn_306)
+Persecutions and slanders ensue; <span id="fr_306"></span>[2](#fn_306.md)
 however she may try, she cannot keep free from the fears suggested to
 her by so many people, especially by her confessors.
 
@@ -53,11 +53,11 @@ troubled by misgivings lest she is deceived by the devil and so should
 offend Him Whom she deeply loves. She cares little for blame, except
 when her confessor finds fault with her as if she could help what
 happens. She asks every one to pray for her <span
-id="fr_307"></span>[3](#fn_307) since she has been told to do so, and
+id="fr_307"></span>[3](#fn_307.md) since she has been told to do so, and
 begs His Majesty to direct her by some other way than this which is so
 full of danger. Nevertheless, so great are the benefits left by these
 favours that she cannot but see that they lead her on the way to
-heaven, <span id="fr_308"></span>[4](#fn_308) of which she has read and
+heaven, <span id="fr_308"></span>[4](#fn_308.md) of which she has read and
 heard and learnt in the law of God. As, strive how she may, she cannot
 resist desiring to receive these graces, she resigns herself into God's
 hands. Yet she is grieved at finding herself forced to wish for these
@@ -74,13 +74,13 @@ a great number.
 such people so intense a desire neither ever to displease Him in however
 small a matter, nor to commit any avoidable imperfection, that, were
 there no other reason, they would try to avoid society and they greatly
-envy those who live in deserts. <span id="fr_309"></span>[5](#fn_309) On
+envy those who live in deserts. <span id="fr_309"></span>[5](#fn_309.md) On
 the other hand, they seek to live amidst men in the hopes of helping if
-but one soul to praise God better. <span id="fr_310"></span>[6](#fn_310)
+but one soul to praise God better. <span id="fr_310"></span>[6](#fn_310.md)
 In the case of a woman, she grieves over the impediment offered by her
-sex <span id="fr_311"></span>[7](#fn_311) and envies those who are free
+sex <span id="fr_311"></span>[7](#fn_311.md) and envies those who are free
 to proclaim aloud to all Who is this mighty God of hosts. <span
-id="fr_312"></span>[8](#fn_312)
+id="fr_312"></span>[8](#fn_312.md)
 
 3\. O poor little butterfly! chained by so many fetters that stop thee
 from flying where thou wouldst! Have pity on her, O my God, and so
@@ -89,7 +89,7 @@ for Thy honour and glory! Take no account of the poverty of her merits,
 nor of the vileness of her nature, Lord, Thou Who hast the power to
 compel the vast ocean to retire, and didst force the wide river Jordan
 to draw back so that the Children of Israel might pass through! <span
-id="fr_313"></span>[9](#fn_313) Yet spare her not, for aided by Thy
+id="fr_313"></span>[9](#fn_313.md) Yet spare her not, for aided by Thy
 strength she can endure many trials. She is resolved to do so--she
 desires to suffer them. Stretch forth Thine arm, O Lord, to help her
 lest she waste her life on trifles! Let Thy greatness appear in this Thy
@@ -129,7 +129,7 @@ for the reason is at liberty
 <span id="page_210">p. 210</span>
 
 to conform to the will of God and can quote the words of St.
-Martin; <span id="fr_314"></span>[10](#fn_314) should these desires
+Martin; <span id="fr_314"></span>[10](#fn_314.md) should these desires
 become very oppressive, the thoughts may be turned to some other matter.
 As such longings are generally found in persons far advanced in
 perfection, the devil may excite them in order to make us think we are
@@ -144,7 +144,7 @@ very frequent.
 
 7\. You must also notice that bodily weakness may cause such pain,
 especially with people of sensitive characters who cry over every
-trifling trouble. <span id="fr_315"></span>[11](#fn_315) Times without
+trifling trouble. <span id="fr_315"></span>[11](#fn_315.md) Times without
 number do they imagine they are mourning for God's sake when they are
 doing no such thing. If for a considerable space of time, whenever such
 a person hears the least mention of God or thinks of Him at all, these
@@ -152,7 +152,7 @@ fits of uncontrollable
 
 <span id="page_211">p. 211</span>
 
-weeping occur, <span id="fr_316"></span>[12](#fn_316) the cause may be
+weeping occur, <span id="fr_316"></span>[12](#fn_316.md) the cause may be
 an accumulation of humour round the heart, which has a great deal more
 to do with such tears than has the love of God. Such persons seem as if
 they would never stop crying: believing that tears are beneficial, they
@@ -167,9 +167,9 @@ delusions in so good a thing as tears, perhaps I myself am deluded, and
 may be I am! But believe me, I do not say this without having witnessed
 it in other people although not in my own case, for there is nothing
 tender about me and my heart is so hard as often to grieve me. <span
-id="fr_317"></span>[13](#fn_317) However, when the fire burns fiercely
+id="fr_317"></span>[13](#fn_317.md) However, when the fire burns fiercely
 within, stony as my heart may be, it distils like an alembic. <span
-id="fr_318"></span>[14](#fn_318) It is easy to know when tears come from
+id="fr_318"></span>[14](#fn_318.md) It is easy to know when tears come from
 this source, for they are soothing and gentle rather than stormy and
 rarely do any harm. This delusion, when it is one, has the advantage,
 with a humble person, of only injuring the body and not the soul. But if
@@ -185,7 +185,7 @@ to fall when God sends them, without trying to force ourselves to shed
 them. Then, if we do not take too much notice of them, they will leave
 the parched soil of our souls well watered, making it fertile in good
 fruit; for this is the water which falls from heaven. <span
-id="fr_319"></span>[15](#fn_319) However we may tire ourselves in
+id="fr_319"></span>[15](#fn_319.md) However we may tire ourselves in
 digging to reach it, we shall never get any water like this; indeed, we
 may often work and search until we are exhausted without finding as much
 as a pool, much less a springing well!
@@ -198,7 +198,7 @@ the devil will have less chance to deceive us.
 
 11\. Amongst these favours, at once painful and pleasant, Our Lord
 sometimes causes in the soul a certain jubilation <span
-id="fr_320"></span>[16](#fn_320) and a strange and mysterious kind of
+id="fr_320"></span>[16](#fn_320.md) and a strange and mysterious kind of
 prayer. If He bestows this grace on you, praise Him fervently for it; I
 describe it so that you may know that it is something real. I believe
 that the faculties of the soul are closely united to God but that He
@@ -210,13 +210,13 @@ so. This may sound nonsense but it really
 
 happens. So excessive is its jubilee that the soul will not enjoy it
 alone but speaks of it to all around so that they may help it to praise
-God, which is its one desire. <span id="fr_321"></span>[17](#fn_321)
+God, which is its one desire. <span id="fr_321"></span>[17](#fn_321.md)
 
 12\. Oh, what rejoicings would this person utter and what demonstrations
 would she make, if possible, so that all might know her happiness! She
 seems to have found herself again and wishes, like the father of the
 prodigal son, to invite all her friends to feast with her <span
-id="fr_322"></span>[18](#fn_322) and to see her soul in its rightful
+id="fr_322"></span>[18](#fn_322.md) and to see her soul in its rightful
 place, because (at least for the time being) she cannot doubt its
 security. I believe she is right, for the devil could not possibly
 infuse a joy and peace into the very centre of her being which make her
@@ -225,7 +225,7 @@ painful effort to keep silent and to dissemble such impulsive happiness.
 St. Francis must have experienced this when, as the robbers met him
 rushing through the fields crying aloud, he told them in answer to their
 questions that he was the 'herald of the great King.' <span
-id="fr_323"></span>[19](#fn_323) So felt other saints who retired into
+id="fr_323"></span>[19](#fn_323.md) So felt other saints who retired into
 the deserts so that, like St. Francis, they might proclaim the praises
 of their God.
 
@@ -233,7 +233,7 @@ of their God.
 
 13\. I knew Fray Peter of Alcantara who used to do this. I believe he
 was a saint on account of the life he led, yet people often took him for
-a fool when they heard him. <span id="fr_324"></span>[20](#fn_324) Oh
+a fool when they heard him. <span id="fr_324"></span>[20](#fn_324.md) Oh
 happy folly, sisters! Would that God might let us all share it! What
 mercy He has shown you in placing you where, if He gave you this grace
 and it were perceived by others, it would rather turn to your advantage
@@ -242,7 +242,7 @@ rarely hear God praised that it is no wonder they take scandal at it.
 
 14\. Oh miserable times and wretched life spent in the world! How blest
 are those whose happy lot it is to be freed from them! <span
-id="fr_325"></span>[21](#fn_325) It often delights me, when in my
+id="fr_325"></span>[21](#fn_325.md) It often delights me, when in my
 sisters' company to see how the joy of their hearts is so great that
 they vie with one another in praising our Lord for placing them in this
 convent: it is evident that their praises come from the very depths of
@@ -259,9 +259,9 @@ supernatural.
 
 <span class="contnote">\[paragraph continues\]</span> Sometimes it lasts
 for a whole day and the soul is like one inebriated, although not
-deprived of the senses; <span id="fr_326"></span>[22](#fn_326) nor like
+deprived of the senses; <span id="fr_326"></span>[22](#fn_326.md) nor like
 a person afflicted with melancholia, <span
-id="fr_327"></span>[23](#fn_327) in which, though the reason is not
+id="fr_327"></span>[23](#fn_327.md) in which, though the reason is not
 entirely lost, the imagination continually dwells on some subject which
 possesses it and from which it cannot be freed. These are coarse
 comparisons to make in connection with such a precious gift, yet nothing
@@ -277,31 +277,31 @@ amen!
 
 ### Footnotes
 
-<span id="fn_305"></span>[206:1](tic23.htm#fr_305) *Excl*. ii. See poem
+<span id="fn_305"></span>[206:1](tic23.htm#fr_305.md) *Excl*. ii. See poem
 4, 'Cuan triste es, Dios mio'; and the two versions of 'Vivir sin vivir
 en mi.' (Poems 3 and 4. *Minor Works*.)
 
-<span id="fn_306"></span>[207:2](tic23.htm#fr_306) *Life*, ch. xxv. 18.
+<span id="fn_306"></span>[207:2](tic23.htm#fr_306.md) *Life*, ch. xxv. 18.
 
-<span id="fn_307"></span>[207:3](tic23.htm#fr_307) *Ibid*. ch. xxv. 20.
+<span id="fn_307"></span>[207:3](tic23.htm#fr_307.md) *Ibid*. ch. xxv. 20.
 *Rel*. vii. 7.
 
-<span id="fn_308"></span>[207:4](tic23.htm#fr_308) *Ibid*. ch. xxvii. 1,
+<span id="fn_308"></span>[207:4](tic23.htm#fr_308.md) *Ibid*. ch. xxvii. 1,
 2.
 
-<span id="fn_309"></span>[208:5](tic23.htm#fr_309) *Rel*. i. 6.
+<span id="fn_309"></span>[208:5](tic23.htm#fr_309.md) *Rel*. i. 6.
 
-<span id="fn_310"></span>[208:6](tic23.htm#fr_310) *Life*, ch. xxxii.
+<span id="fn_310"></span>[208:6](tic23.htm#fr_310.md) *Life*, ch. xxxii.
 14; xxxv. 13. *Castle*, M. vii. ch. iv. 21 . *Found*. ch. i. 6, 7.
 
-<span id="fn_311"></span>[208:7](tic23.htm#fr_311) *Way of Perf*. ch. i.
+<span id="fn_311"></span>[208:7](tic23.htm#fr_311.md) *Way of Perf*. ch. i.
 
-<span id="fn_312"></span>[208:8](tic23.htm#fr_312) III Reg. xix. 10.
+<span id="fn_312"></span>[208:8](tic23.htm#fr_312.md) III Reg. xix. 10.
 
-<span id="fn_313"></span>[208:9](tic23.htm#fr_313) Ps. cxiii. 3; Exod.
+<span id="fn_313"></span>[208:9](tic23.htm#fr_313.md) Ps. cxiii. 3; Exod.
 xiv. and Jos. iii.
 
-<span id="fn_314"></span>[210:10](tic23.htm#fr_314) 'When St. Martin was
+<span id="fn_314"></span>[210:10](tic23.htm#fr_314.md) 'When St. Martin was
 dying, his brethren said to him: 'Why, dear Father, will you leave us?
 Or to whom can you commit us in our desolation? We know, indeed, that
 you desire to be with Christ, but your reward above is safe and will not
@@ -312,31 +312,31 @@ mourners around him only by crying: 'O Lord, if I am still necessary to
 Thy people, I do not shrink from toil; Thy will be done.' (Sulpitius
 Severus, *Life of St. Martin*, letter 3.)
 
-<span id="fn_315"></span>[210:11](tic23.htm#fr_315) *Way of Perf.*. ch.
+<span id="fn_315"></span>[210:11](tic23.htm#fr_315.md) *Way of Perf.*. ch.
 xvii. 4; xix. 6.
 
-<span id="fn_316"></span>[211:12](tic23.htm#fr_316) *Life*, ch. xxix.
+<span id="fn_316"></span>[211:12](tic23.htm#fr_316.md) *Life*, ch. xxix.
 12.
 
-<span id="fn_317"></span>[211:13](tic23.htm#fr_317) Compare with this
+<span id="fn_317"></span>[211:13](tic23.htm#fr_317.md) Compare with this
 what we have said in note 1 to the second chapter of the Fourth
 Mansions. *Rel*. ii. 12.
 
-<span id="fn_318"></span>[211:14](tic23.htm#fr_318) *Life*, ch. xix.
+<span id="fn_318"></span>[211:14](tic23.htm#fr_318.md) *Life*, ch. xix.
 1-3.
 
-<span id="fn_319"></span>[212:15](tic23.htm#fr_319) *Way of Perf*. ch.
+<span id="fn_319"></span>[212:15](tic23.htm#fr_319.md) *Way of Perf*. ch.
 xix. 6. *Life*, ch. xviii. 12 *sqq*.
 
-<span id="fn_320"></span>[212:16](tic23.htm#fr_320) Philippus a SS.
+<span id="fn_320"></span>[212:16](tic23.htm#fr_320.md) Philippus a SS.
 Trinit. *l.c.* p. iii. tr. i. disc. iv. art. 5. Antonius a Sp. S. *l.c.*
 tr. iv. n.156.
 
-<span id="fn_321"></span>[213:17](tic23.htm#fr_321) *Rel*. ii. 12.
+<span id="fn_321"></span>[213:17](tic23.htm#fr_321.md) *Rel*. ii. 12.
 
-<span id="fn_322"></span>[213:18](tic23.htm#fr_322) St. Luke xv. 23.
+<span id="fn_322"></span>[213:18](tic23.htm#fr_322.md) St. Luke xv. 23.
 
-<span id="fn_323"></span>[213:19](tic23.htm#fr_323) 'He plunged into a
+<span id="fn_323"></span>[213:19](tic23.htm#fr_323.md) 'He plunged into a
 large forest, and there in a loud voice and in French, he made the
 echoes resound with the praises of God. Some robbers, attracted by his
 singing, rushed out upon him. But the sight of so poor a man destroyed
@@ -349,7 +349,7 @@ fire to the zeal of Francis. He sang his holy canticles with greater
 love than before.' (Rev. Father Léon, *Lives of the Saints of the Order
 of St. Francis*, vol. 1, ch, i,)
 
-<span id="fn_324"></span>[214:20](tic23.htm#fr_324) 'St. Peter of
+<span id="fn_324"></span>[214:20](tic23.htm#fr_324.md) 'St. Peter of
 Alcantara, in the jubilation of his soul through the impetuosity of
 divine love, was occasionally unable to refrain from singing the divine
 praises aloud in a wonderful manner. To do this more freely, he
@@ -357,15 +357,15 @@ sometimes went into the woods where the peasants who heard him sing took
 him for one who was beside himself.' (Rev. Alban Butler, *Lives of the
 Saints*.)
 
-<span id="fn_325"></span>[214:21](tic23.htm#fr_325) *Way of Perf.* ch.
+<span id="fn_325"></span>[214:21](tic23.htm#fr_325.md) *Way of Perf.* ch.
 ii. 8; iii. i; viii. 1.
 
-<span id="fn_326"></span>[215:22](tic23.htm#fr_326) Compare with this
+<span id="fn_326"></span>[215:22](tic23.htm#fr_326.md) Compare with this
 what has been said in the fourth chapter of this Mansion, § 17, note 17.
 
-<span id="fn_327"></span>[215:23](tic23.htm#fr_327) Melancholia here as
+<span id="fn_327"></span>[215:23](tic23.htm#fr_327.md) Melancholia here as
 elsewhere means hysteria.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Humanity of Our Lord](tic24)
+[Next: Chapter VII. The Humanity of Our Lord](tic24.md)

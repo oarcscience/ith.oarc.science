@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti34)  [Next](eti36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti34)  [Next](eti36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -128,7 +128,7 @@ dropped that end of the tube into the cylinder.
 
 "The muslin simply prevents the tube from filling with sand," he
 explained. Then he poured sand into the cylinder until it reached the
-surface of the water. (See [Figure 23](#img_18200).)
+surface of the water. (See [Figure 23](#img_18200)..md)
 
 "Your apparatus is simple enough," I remarked, I am afraid with some
 sarcasm.
@@ -140,14 +140,14 @@ Then he dissolved the salt in a portion of water that he drew from the
 hydrant into my wash bowl, making a strong brine, and stirred sand into
 the brine to make a thick mush. This mixture of sand and brine he then
 poured into the cylinder, filling it nearly to the top. (See [Figure
-23](#img_18200), B. The sand settling soon left a layer of brine above
+23](#img_18200.md), B. The sand settling soon left a layer of brine above
 it, as shown by A.) I had previously noticed that the upper end of the
 glass tube was curved, and my surprise can be imagined when I saw that
 at once water began to flow through the tube, dropping quite rapidly
 into the cylinder. The lower end of the curve of the glass tube was
 fully half an inch above the surface of the liquid in the cylinder.
 
-I here present a figure of the apparatus. ([Figure 23](#img_18200).)
+I here present a figure of the apparatus. ([Figure 23](#img_18200)..md)
 
 The strange man, or man image, I do not know which, sat before me, and
 in silence we watched the steady flow of water, water rising above its
@@ -346,4 +346,4 @@ flows unceasingly."
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIX. Beware of Biology, the Science of the Life of
-Man](eti36)
+Man](eti36.md)

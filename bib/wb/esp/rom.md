@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](act)  [Next](co1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](act)  [Next](co1.md) 
 
 ------------------------------------------------------------------------
 
@@ -1495,4 +1495,4 @@ estu la gloro por cxiam kaj eterne. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Corinthians](co1)
+[Next: 1 Corinthians](co1.md)

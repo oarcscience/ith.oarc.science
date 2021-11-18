@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep23)  [Next](nep25) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep23)  [Next](nep25.md) 
 
 ------------------------------------------------------------------------
 
@@ -718,4 +718,4 @@ testimony to our desire and as surance to be heard, we say, Amen.
 
 ------------------------------------------------------------------------
 
-[Next: A Dialogue Between Christ, A Youth and the Devil](nep25)
+[Next: A Dialogue Between Christ, A Youth and the Devil](nep25.md)

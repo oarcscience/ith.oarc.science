@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp47)  [Next](hmvp49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp47)  [Next](hmvp49.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -61,7 +61,7 @@ the Gandharvas, and are not prudish in the dispensation of their
 favours. Their amours upon earth have been numerous, and they are the
 rewards in Indra's heaven held out to heroes who fall in battle. They
 have the power of changing their forms, and give good luck to whom they
-favour." <span id="fr_448"></span>[\*](#fn_448)
+favour." <span id="fr_448"></span>[\*](#fn_448.md)
 
 In the Satapatha Brāhmana is a story, which has been copied into the
 Purānas, concerning Purūravas and the Apsaras Urvasi which will give
@@ -91,8 +91,8 @@ obtained eternal possession of his strange bride.
 The Gandharvas, according to the Vishnu Purāna, were sons of Brahmā.
 "The Gandharvas were next born, imbibing melody; drinking of the goddess
 of speech, they were born, and thence their appellation. (gām dhayantah,
-'drinking speech')." <span id="fr_449"></span>[\*](#fn_449) In another
-place the same Purāna <span id="fr_450"></span>[†](#fn_450) makes them
+'drinking speech')." <span id="fr_449"></span>[\*](#fn_449.md) In another
+place the same Purāna <span id="fr_450"></span>[†](#fn_450.md) makes them
 the offspring of Kasyapa and Arishtā, and therefore grandchildren of
 Brahmā. The Padma Purāna speaks of them as the children of Vach. They
 are said to be sixty millions in number. They defeated the Nāgas, or
@@ -172,7 +172,7 @@ What can be represented by these monsters? In
 <span id="page_487">p. 487</span>
 
 <span class="contnote">\[paragraph continues\]</span> Manu, <span
-id="fr_451"></span>[\*](#fn_451) amongst instructions concerning
+id="fr_451"></span>[\*](#fn_451.md) amongst instructions concerning
 sacrifice, we read: "As a preservative of the oblation to the
 patriarchs, let the housekeeper begin with an offering to the gods; for
 the Rākshasas rend in pieces an oblation which has no such
@@ -296,14 +296,14 @@ last Jain occurred two thousand four hundred years ago.
 
 ### Footnotes
 
-<span id="fn_448"></span>[483:\*](hmvp48.htm#fr_448) Dowson, *s.v.*
+<span id="fn_448"></span>[483:\*](hmvp48.htm#fr_448.md) Dowson, *s.v.*
 
-<span id="fn_449"></span>[484:\*](hmvp48.htm#fr_449) Page 41.
+<span id="fn_449"></span>[484:\*](hmvp48.htm#fr_449.md) Page 41.
 
-<span id="fn_450"></span>[484:†](hmvp48.htm#fr_450) Page 150.
+<span id="fn_450"></span>[484:†](hmvp48.htm#fr_450.md) Page 150.
 
-<span id="fn_451"></span>[487:\*](hmvp48.htm#fr_451) Manu, bk. iii.
+<span id="fn_451"></span>[487:\*](hmvp48.htm#fr_451.md) Manu, bk. iii.
 
 ------------------------------------------------------------------------
 
-[Next: Index](hmvp49)
+[Next: Index](hmvp49.md)

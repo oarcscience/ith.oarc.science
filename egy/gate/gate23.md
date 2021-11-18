@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate22)  [Next](gate24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate22)  [Next](gate24.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,13 +31,13 @@ places, open the holy pylons, and unfold the hidden portals." The
 monster serpent which stands on his tail and guards the gateway is
 called AKHA-EN-MAAT, and the two lines of text which refer to his
 admission of Ra read, "He who is over this door openeth to Ra. SA saith
-to AKHA-EN-MAAT <span id="fr_25"></span>[1](#fn_24):--'Open thy gate to
+to AKHA-EN-MAAT <span id="fr_25"></span>[1](#fn_24.md):--'Open thy gate to
 Ra, unfold thy doors to KHUTI, that he may send light into the thick
 darkness and may make his radiance illumine the hidden habitation! This
 door is shut after the great god hath passed through it, and there is
 lamentation to those who are in this gateway when they hear this door
 close upon them." A portion of the text is mutilated, but it can be
-restored with certainty. <span id="fr_26"></span>[2](#fn_25)
+restored with certainty. <span id="fr_26"></span>[2](#fn_25.md)
 
 In the middle of this Division we see the boat of Ra being towed on its
 way by four gods of the Tuat; the god is in the same form as before, and
@@ -49,7 +49,7 @@ the stern. The text relating to the god reads:--
  
 
 <span id="img_19200"></span> [![](tn/generic.jpg)  
-Click to view](img/19200.jpg)  
+Click to view](img/19200.jpg.md)  
 Fragment of the Seventh Division of the Tuat, from the Cover of the
 Sarcophagus of Seti I.
 
@@ -60,7 +60,7 @@ Sarcophagus of Seti I.
  
 
 <span id="img_19300"></span> [![](tn/generic.jpg)  
-Click to view](img/19300.jpg)  
+Click to view](img/19300.jpg.md)  
 Fragments of the Scenes and Texts of the Seventh Division of the Tuat,
 from the Sarcophagus of Seti I.
 
@@ -71,7 +71,7 @@ from the Sarcophagus of Seti I.
  
 
 <span id="img_19400"></span> [![](tn/generic.jpg)  
-Click to view](img/19400.jpg)  
+Click to view](img/19400.jpg.md)  
 The Boat of Ra being towed through the Seventh Division of the Tuat by
 the gods thereof.
 
@@ -120,7 +120,7 @@ them upon earth by reason of the sight of the light in the 'Tuat."
  
 
 <span id="img_19700"></span> [![](tn/generic.jpg)  
-Click to view](img/19700.jpg)  
+Click to view](img/19700.jpg.md)  
 The Twelve Gods whose hands and arms are hidden.
 
  
@@ -137,11 +137,11 @@ distance from their bodies. The text which refers to them reads:--
  
 
 <span id="img_19900"></span> [![](tn/generic.jpg)  
-Click to view](img/19900.jpg)  
+Click to view](img/19900.jpg.md)  
 The Eight Neteru-heti.
 
 <span id="img_19901"></span> [![](tn/generic.jpg)  
-Click to view](img/19901.jpg)  
+Click to view](img/19901.jpg.md)  
 Four of the Sennu Gods.
 
  
@@ -189,7 +189,7 @@ travel through the Tuat. It is their duty to
  
 
 <span id="img_20200"></span> [![](tn/generic.jpg)  
-Click to view](img/20200.jpg)  
+Click to view](img/20200.jpg.md)  
 The Kheru-Metauh Gods.
 
  
@@ -208,7 +208,7 @@ SEBA-APEP, the body of which is held
  
 
 <span id="img_20300"></span> [![](tn/generic.jpg)  
-Click to view](img/20300.jpg)  
+Click to view](img/20300.jpg.md)  
 The Kheru-Metauh Gods.
 
  
@@ -220,7 +220,7 @@ grow out from his body,
  
 
 <span id="img_20301"></span> [![](tn/generic.jpg)  
-Click to view](img/20301.jpg)  
+Click to view](img/20301.jpg.md)  
 The Kheru-Metauh Gods.
 
  
@@ -262,9 +262,9 @@ The text reads:--
  
 
 <span id="img_20600"></span> [![](tn/generic.jpg)  
-Click to view](img/20600.jpg)  
+Click to view](img/20600.jpg.md)  
 <span id="img_20601"></span> [![](tn/generic.jpg)  
-Click to view](img/20601.jpg)  
+Click to view](img/20601.jpg.md)  
 The Serpent Seba-Apep, with the twelve human heads which grow out of his
 body and his twelve attendant gods.
 
@@ -275,9 +275,9 @@ body and his twelve attendant gods.
  
 
 <span id="img_20700"></span> [![](tn/generic.jpg)  
-Click to view](img/20700.jpg)  
+Click to view](img/20700.jpg.md)  
 <span id="img_20701"></span> [![](tn/generic.jpg)  
-Click to view](img/20701.jpg)  
+Click to view](img/20701.jpg.md)  
 The Serpent Seba-Apep, with the twelve human heads which grow out of his
 body and his twelve attendant gods.
 
@@ -288,7 +288,7 @@ body and his twelve attendant gods.
  
 
 <span id="img_20800"></span> [![](tn/generic.jpg)  
-Click to view](img/20800.jpg)  
+Click to view](img/20800.jpg.md)  
 The god Qena, and the gods who hold the rope.
 
  
@@ -302,7 +302,7 @@ rope, and tie ye
  
 
 <span id="img_20900"></span> [![](tn/generic.jpg)  
-Click to view](img/20900.jpg)  
+Click to view](img/20900.jpg.md)  
 The gods who hold the rope.
 
  
@@ -314,7 +314,7 @@ into the mouth of the god AQEN when he cometh to the place
  
 
 <span id="img_20901"></span> [![](tn/generic.jpg)  
-Click to view](img/20901.jpg)  
+Click to view](img/20901.jpg.md)  
 The gods who hold the rope.
 
  
@@ -331,7 +331,7 @@ cool water, and offerings are made to them upon earth."
  
 
 <span id="img_21000"></span> [![](tn/generic.jpg)  
-Click to view](img/21000.jpg)  
+Click to view](img/21000.jpg.md)  
 The god Tuati.
 
  
@@ -354,11 +354,11 @@ at an acute angle with his body. The legend reads, *khast-ta-rut*.
  
 
 <span id="img_21100"></span> [![](tn/generic.jpg)  
-Click to view](img/21100.jpg)  
+Click to view](img/21100.jpg.md)  
 <span id="img_21101"></span> [![](tn/generic.jpg)  
-Click to view](img/21101.jpg)  
+Click to view](img/21101.jpg.md)  
 <span id="img_21102"></span> [![](tn/generic.jpg)  
-Click to view](img/21102.jpg)  
+Click to view](img/21102.jpg.md)  
 The gods who are asleep in the body of Osiris.
 
  
@@ -368,11 +368,11 @@ The gods who are asleep in the body of Osiris.
  
 
 <span id="img_21200"></span> [![](tn/generic.jpg)  
-Click to view](img/21200.jpg)  
+Click to view](img/21200.jpg.md)  
 <span id="img_21201"></span> [![](tn/generic.jpg)  
-Click to view](img/21201.jpg)  
+Click to view](img/21201.jpg.md)  
 <span id="img_21202"></span> [![](tn/generic.jpg)  
-Click to view](img/21202.jpg)  
+Click to view](img/21202.jpg.md)  
 The gods who are asleep in the body of Osiris.
 
  
@@ -382,11 +382,11 @@ The gods who are asleep in the body of Osiris.
  
 
 <span id="img_21300"></span> [![](tn/generic.jpg)  
-Click to view](img/21300.jpg)  
+Click to view](img/21300.jpg.md)  
 Four Khast-ta-rut Gods.
 
 <span id="img_21301"></span> [![](tn/generic.jpg)  
-Click to view](img/21301.jpg)  
+Click to view](img/21301.jpg.md)  
 (*Left*) A god in mummied form. (*Center*) The serpent in the round pool
 of fire. (*Right*) Four Khast-ta-rut Gods.
 
@@ -462,12 +462,12 @@ living . . . . . ."
 
 ### Footnotes
 
-<span id="fn_24"></span>[191:1](gate23.htm#fr_25) Var., AKHA-HRA.
+<span id="fn_24"></span>[191:1](gate23.htm#fr_25.md) Var., AKHA-HRA.
 
-<span id="fn_25"></span>[191:2](gate23.htm#fr_26) See Lefébure,
+<span id="fn_25"></span>[191:2](gate23.htm#fr_26.md) See Lefébure,
 *Mémoires*, tom. ii., part ii., pl. 11 ff.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter X. The Gate of Set-hra. The Eighth Division of the
-Tuat.](gate24)
+Tuat.](gate24.md)

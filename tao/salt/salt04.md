@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](salt03)  [Next](salt05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](salt03)  [Next](salt05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sayings of Lao-Tzu*, Lionel Giles translation \[1905\], at
 Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ It is the gate of all spirituality.
 How unfathomable is Tao! It seems to be the ancestral progenitor of all
 things. How pure and clear is Tao! It would seem to be everlasting. I
 know not of whom it is the offspring. It appears to have been anterior
-to any Sovereign Power. <span id="fr_1"></span>[\*](#fn_1)
+to any Sovereign Power. <span id="fr_1"></span>[\*](#fn_1.md)
 
 <span id="page_20">p. 20</span>
 
@@ -177,7 +177,7 @@ contrary to Tao soon perishes.
 
 ### Footnotes
 
-<span id="fn_1"></span>[19:\*](salt04.htm#fr_1) This sentence is
+<span id="fn_1"></span>[19:\*](salt04.htm#fr_1.md) This sentence is
 admittedly obscure, and it may be an interpolation. Lao Tzŭ's system of
 cosmogony has no place for any Divine Being independent of Tao. On the
 other hand, to translate *ti* by "Emperor," as some have done,
@@ -185,4 +185,4 @@ necessarily involves us in an absurd anti-climax.
 
 ------------------------------------------------------------------------
 
-[Next: Tao As A Moral Principle, Or ''Virtue''](salt05)
+[Next: Tao As A Moral Principle, Or ''Virtue''](salt05.md)

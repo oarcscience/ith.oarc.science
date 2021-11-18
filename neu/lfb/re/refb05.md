@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb04)  [Next](refb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb04)  [Next](refb06.md) 
 
 </div>
 
@@ -450,6 +450,6 @@ wedding with Halvor.\[2\]
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Koshchei the Deathless](refb06)
+[Next: The Death of Koshchei the Deathless](refb06.md)
 
 </div>

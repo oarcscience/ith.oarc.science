@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft25)  [Next](ftft27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft25)  [Next](ftft27.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_198">p. 198</span>
 
-<span id="img_19800"></span> ![The Magic Mirror](img/19800.jpg)
+<span id="img_19800"></span> ![The Magic Mirror](img/19800.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 ERE was once a Padishah who had three sons. He also possessed a mirror,
 in which he looked every morning on rising, seeing therein everything
@@ -57,7 +57,7 @@ embraced her, calling her "Mother."<span id="img_19900"></span>
 
 |                                                          |
 |----------------------------------------------------------|
-| ![The Dew-Mother was about to make Helwa](img/19900.jpg) |
+| ![The Dew-Mother was about to make Helwa](img/19900.jpg.md) |
 
 "Oh, little son," said the Dew-woman kindly, "if you had not called me
 'Mother' I should have torn you asunder." "And if you had not called me
@@ -121,7 +121,7 @@ palace.<span id="img_20100"></span>
 
 |                                                                         |
 |-------------------------------------------------------------------------|
-| ![He suddenly found himself in the hands of Arab-Uzengi](img/20100.jpg) |
+| ![He suddenly found himself in the hands of Arab-Uzengi](img/20100.jpg.md) |
 
 The Dew-woman had prepared the youth for what he might expect if he
 should have the misfortune to be taken prisoner by Arab-Uzengi. Every
@@ -178,7 +178,7 @@ belong to you entirely." Upon this the bird shook himself
 <span id="img_20200"></span>
 
 [![](tn/20200.jpg)  
-Click to enlarge](img/20200.jpg)
+Click to enlarge](img/20200.jpg.md)
 
 <span id="page_203">p. 203</span>
 
@@ -194,7 +194,7 @@ maiden with him.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 S they came nigh to the palace of Arab-Uzengi, the Princess divined the
 youth's intention and began to weep bitterly. He calmed her, however,
@@ -239,7 +239,7 @@ They left behind his horse, but took the maiden with them, saying to her
 that their brother would follow a little later.
 
 <span id="img_20400"></span> ![The horse stamped continually with his
-hoofs on the lid](img/20400.jpg)
+hoofs on the lid](img/20400.jpg.md)
 
 When the youth realised that his brothers had forsaken him he wept and
 lamented bitterly. The elders in due course arrived at their royal
@@ -271,4 +271,4 @@ happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Imp of the Well](ftft27)
+[Next: The Imp of the Well](ftft27.md)

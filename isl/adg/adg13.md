@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg12)  [Next](adg14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg12)  [Next](adg14.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ of the rich man. \[A dinar is equal to 10 dirhams\].
 
 ------------------------------------------------------------------------
 
-[Next: Potic Adages](adg14)
+[Next: Potic Adages](adg14.md)

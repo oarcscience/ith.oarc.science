@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe185)  [Next](prwe187) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe185)  [Next](prwe187.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ deeply skilled in witchcraft than I am may perhaps tell.
 
 ------------------------------------------------------------------------
 
-[Next: The Sailor Wizard](prwe187)
+[Next: The Sailor Wizard](prwe187.md)

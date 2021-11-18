@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tha00)
+[Contents](#contents)    [Start Reading](tha00.md)
 
 ------------------------------------------------------------------------
 
@@ -74,16 +74,16 @@ body, and if so, it might be used for medical purposes.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tha00)  
-[Contents](tha01)  
-[Chapter I. The Aura of Healthy Persons](tha02)  
-[Chapter II. The Etheric Double](tha03)  
-[Chapter III. The Inner Aura](tha04)  
-[Chapter IV. Optical Problems](tha05)  
-[Chapter V. The Effects of the Different Forces Upon the Aura](tha06)  
-[Chapter VI. Complementary Colours](tha07)  
-[Chapter VII. The Outer Aura In Disease](tha08)  
-[Chapter VIII. The Inner Aura in Disease](tha09)  
+<span id="contents"></span> [Title Page](tha00.md)  
+[Contents](tha01.md)  
+[Chapter I. The Aura of Healthy Persons](tha02.md)  
+[Chapter II. The Etheric Double](tha03.md)  
+[Chapter III. The Inner Aura](tha04.md)  
+[Chapter IV. Optical Problems](tha05.md)  
+[Chapter V. The Effects of the Different Forces Upon the Aura](tha06.md)  
+[Chapter VI. Complementary Colours](tha07.md)  
+[Chapter VII. The Outer Aura In Disease](tha08.md)  
+[Chapter VIII. The Inner Aura in Disease](tha09.md)  
 [Chapter IX. The Use of the Complementary Coloured Bands in
-Disease](tha10)  
-[Chapter X. The Aura During Pregnancy](tha11)  
+Disease](tha10.md)  
+[Chapter X. The Aura During Pregnancy](tha11.md)  

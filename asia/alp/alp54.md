@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp53) 
-[Next](alp55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp53.md) 
+[Next](alp55.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 <span id="img_07500"></span>
 
 [![CHRIST'S LETTER TO ABGARUS](tn/07500.jpg)  
-Click to enlarge](img/07500.jpg)  
+Click to enlarge](img/07500.jpg.md)  
 CHRIST'S LETTER TO ABGARUS  
 
 ### CHRIST AND ABGARUS
@@ -112,4 +112,4 @@ the Saviour, which remaineth in the city of Edessa until this day.
 
 ------------------------------------------------------------------------
 
-[Next: Araxes Came Devouringly](alp55)
+[Next: Araxes Came Devouringly](alp55.md)

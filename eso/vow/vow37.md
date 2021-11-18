@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow36)  [Next](vow38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow36)  [Next](vow38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ Providence and to Necessity; and to Destiny are subject the stars.
 Therefore, no man can escape from Destiny, nor arm himself against the
 action of the stars. For they are the instruments of Destiny; by their
 means the will of Destiny is accomplished throughout all Nature and in
-human existence. <span id="fr_49"></span>[1](#fn_49)
+human existence. <span id="fr_49"></span>[1](#fn_49.md)
 
 \[The
 
@@ -35,7 +35,7 @@ human existence. <span id="fr_49"></span>[1](#fn_49)
 
 ### Footnotes
 
-<span id="fn_49"></span>[142:1](vow37.htm#fr_49) I commend the above
+<span id="fn_49"></span>[142:1](vow37.htm#fr_49.md) I commend the above
 fragments to the careful consideration of Hermetists. Many persons find
 it difficult to reconcile belief in the "ruling of the stars" with
 belief in free will. At first sight it appears unjust and arbitrary that
@@ -88,4 +88,4 @@ A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](vow38)
+[Next: Part III](vow38.md)

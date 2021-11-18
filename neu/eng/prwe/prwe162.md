@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe161)  [Next](prwe163) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe161)  [Next](prwe163.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ a Chough, for Arthur was transformed into one of these birds.
 
 ------------------------------------------------------------------------
 
-[Next: The Cornish Chough](prwe163)
+[Next: The Cornish Chough](prwe163.md)

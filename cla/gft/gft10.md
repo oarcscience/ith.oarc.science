@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft09)  [Next](gft11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft09)  [Next](gft11.md) 
 
 ------------------------------------------------------------------------
 
@@ -260,7 +260,7 @@ for, though you are young, I see in you a wisdom
 <span id="img_07000"></span>
 
 [![Why do you look so sad, my uncle?](tn/07000.jpg)  
-Click to enlarge](img/07000.jpg)  
+Click to enlarge](img/07000.jpg.md)  
 Why do you look so sad, my uncle?  
 
  
@@ -347,4 +347,4 @@ greatest king in Hellas."
 
 ------------------------------------------------------------------------
 
-[Next: Part Three: How They Built the Ship Argo in Iolcos](gft11)
+[Next: Part Three: How They Built the Ship Argo in Iolcos](gft11.md)

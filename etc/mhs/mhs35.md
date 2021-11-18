@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs34)  [Next](mhs36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs34)  [Next](mhs36.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ Wallner Inn, where the meeting was held.
 
 ------------------------------------------------------------------------
 
-[Next: V. Salt-spilling As An Omen](mhs36)
+[Next: V. Salt-spilling As An Omen](mhs36.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr40)  [Next](corr42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr40)  [Next](corr42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER XLI.A.
 
-#### SPINOZA TO \* \* \* \* \* <span id="fr_52"></span>[1](#fn_51) (May or June, 1665).
+#### SPINOZA TO \* \* \* \* \* <span id="fr_52"></span>[1](#fn_51) (May or June, 1665.md).
 
 \[*Spinoza urges his correspondent to be diligent in studying
 philosophy, promises to send part of the Ethics, and adds some personal
@@ -27,7 +27,7 @@ details*.\]
 <span class="smallcaps">Dear Friend</span>,—I do not know whether you
 have quite forgotten me; but there are many circumstances which lead me
 to suspect it. First, when I was setting out on. my journey, <span
-id="fr_53"></span>[2](#fn_52) I wished to bid you good-bye; and, after
+id="fr_53"></span>[2](#fn_52.md) I wished to bid you good-bye; and, after
 your own invitation, thinking I should certainly find you at home, heard
 that you had gone to the Hague. I return to Voorburg, nothing doubting
 but that you would at least have visited me in passing; but you,
@@ -72,7 +72,7 @@ if you wish to be its transmitter, or to our friend De Vries; and,
 although I had settled not to send any of it, till it was finished, yet,
 as it takes longer than I thought, I am unwilling to keep you waiting. I
 will send up to the eightieth proposition, or thereabouts. <span
-id="fr_54"></span>[1](#fn_53)
+id="fr_54"></span>[1](#fn_53.md)
 
 Of English affairs I hear a good deal, but nothing for certain. The
 people continue to be apprehensive, and can
@@ -90,16 +90,16 @@ but, above all things, I want you to believe me, &c.
 
 ### Footnotes
 
-<span id="fn_51"></span>[358:1](corr41.htm#fr_52) Probably J. Bresser, a
+<span id="fn_51"></span>[358:1](corr41.htm#fr_52.md) Probably J. Bresser, a
 member of the Spinozistic Society formed at Amsterdam. See note to
 Letter XLII.
 
-<span id="fn_52"></span>[358:2](corr41.htm#fr_53) See Letter XXXVIII.,
+<span id="fn_52"></span>[358:2](corr41.htm#fr_53.md) See Letter XXXVIII.,
 which fixes approximately the date of this.
 
-<span id="fn_53"></span>[359:1](corr41.htm#fr_54) The third and fourth
+<span id="fn_53"></span>[359:1](corr41.htm#fr_54.md) The third and fourth
 part of the Ethics were probably originally united
 
 ------------------------------------------------------------------------
 
-[Next: Letter XLII. To I. B.](corr42)
+[Next: Letter XLII. To I. B.](corr42.md)

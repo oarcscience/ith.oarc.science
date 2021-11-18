@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl19)  [Next](hpl21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl19)  [Next](hpl21.md) 
 
 ------------------------------------------------------------------------
 
@@ -393,4 +393,4 @@ promised me I shall be buried.
 
 ------------------------------------------------------------------------
 
-[Next: Hypnos (1923)](hpl21)
+[Next: Hypnos (1923)](hpl21.md)

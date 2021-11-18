@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft41)  [Next](ftft43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft41)  [Next](ftft43.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_327">p. 327</span>
 
-<span id="img_32700"></span> ![''Madjun''](img/32700.jpg)
+<span id="img_32700"></span> ![''Madjun''](img/32700.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a bald-headed young man whose mother was very old. The
 woman wished her son to learn a trade, but no matter where she put him
@@ -50,7 +50,7 @@ me," and dismissed her.
 
 |                                                  |
 |--------------------------------------------------|
-| ![The Dervish listened patiently](img/32800.jpg) |
+| ![The Dervish listened patiently](img/32800.jpg.md) |
 
 She went home and informed her son that he was summoned to the presence
 of the Padishah. When the youth arrived at the palace the Padishah saw
@@ -79,13 +79,13 @@ Collecting them, he returned home and
 
 [![He waited until all the birds in the world had
 alighted](tn/32900.jpg)  
-Click to enlarge](img/32900.jpg)  
+Click to enlarge](img/32900.jpg.md)  
 He waited until all the birds in the world had alighted  
 
 <span id="page_330">p. 330</span>
 
 <span id="img_33000"></span> ![All of them were unable to move head
-(sic) or foot](img/33000.jpg)
+(sic) or foot](img/33000.jpg.md)
 
 next morning carried his captives into the presence of the Padishah. The
 monarch, not at all pleased that the apparently impossible task he
@@ -108,7 +108,7 @@ the door of their room, endeavoured to discover if anything
 <span id="page_331">p. 331</span>
 
 <span id="img_33100"></span> ![''O merciful Allah what is this?'' cried
-the Padishah](img/33100.jpg)
+the Padishah](img/33100.jpg.md)
 
 was the matter. The bald headed one above, seeing this, cried "Madjun!"
 and the slave found himself unable to stir from the spot.
@@ -183,4 +183,4 @@ lived happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Forlorn Princess](ftft43)
+[Next: The Forlorn Princess](ftft43.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl29)  [Next](isl31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl29)  [Next](isl31.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ the earth, is an infidel.
 
 Article 10. Whoso sayeth, I do not know (about) the punishment in the
 tomb, belongeth to the sect of the Jahmites, which goeth to
-perdition. <span id="fr_136"></span>[1](#fn_136)
+perdition. <span id="fr_136"></span>[1](#fn_136.md)
 
 *The Epistle of Abū Hanifa to ‘Uthmān al-Battī*
 
@@ -202,18 +202,18 @@ of God: God knows best. And I do not think
 that this is any different from your own opinion about the People of the
 *Qibla*, for their affair is that of the Companions of the Messenger of
 God, a matter decided by *Sunna* and *Fiqh*. <span
-id="fr_137"></span>[2](#fn_137)
+id="fr_137"></span>[2](#fn_137.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_136"></span>[179:1](isl30.htm#fr_136) Wensinck, trans.,
+<span id="fn_136"></span>[179:1](isl30.htm#fr_136.md) Wensinck, trans.,
 *The Muslim Creed* (Cambridge, 1932), pp 103, 104.
 
-<span id="fn_137"></span>[179:2](isl30.htm#fr_137) *Kitāb al-’Alim wa
+<span id="fn_137"></span>[179:2](isl30.htm#fr_137.md) *Kitāb al-’Alim wa
 al-Muta’allim* (Cairo, 1949).
 
 ------------------------------------------------------------------------
 
-[Next: 2. Al-Māturīdī](isl31)
+[Next: 2. Al-Māturīdī](isl31.md)

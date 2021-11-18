@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl18)  [Next](jftl20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl18)  [Next](jftl20.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ live again."
 <span id="img_18800"></span> <span align="CENTER"> [![The sun was
 shining on a noble city of pinnacles and minarets. (&lt;i&gt;P.
 191&lt;/i&gt;).](tn/18800.jpg)  
-Click to enlarge](img/18800.jpg)  
+Click to enlarge](img/18800.jpg.md)  
 The sun was shining on a noble city of pinnacles and minarets. (*P.
 191*).  
 </span>
@@ -185,4 +185,4 @@ will he awaken.
 
 ------------------------------------------------------------------------
 
-[Next: King for Three Days](jftl20)
+[Next: King for Three Days](jftl20.md)

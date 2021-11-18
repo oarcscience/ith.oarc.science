@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](yom03)  [Next](yom05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](yom03)  [Next](yom05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ Atonement, however, is not mentioned in the entire Scriptures, with the
 exception of Lev. xvi., and among the prescription of the various
 sacrifices; but even then we see something unusual among the
 commandments of the Scriptures; namely, the remark that he (Aaron) did
-as the Lord had commanded Moses. <span id="fr_4"></span>[1](#fn_4)
+as the Lord had commanded Moses. <span id="fr_4"></span>[1](#fn_4.md)
 
 <span id="page_xiv">p. xiv</span>
 
@@ -174,7 +174,7 @@ NEW YORK, *January*, 1899.
 
 ### Footnotes
 
-<span id="fn_4"></span>[xiii:1](yom04.htm#fr_4) Reading the Scriptures
+<span id="fn_4"></span>[xiii:1](yom04.htm#fr_4.md) Reading the Scriptures
 critically, we deem that Lev. xvi. is merely a continuation of Lev. x.,
 where the death of the two sons of Aaron is related when they entered
 the sanctuary; and after that Aaron is instructed as to the manner in
@@ -198,4 +198,4 @@ be found in the Talmud.
 
 ------------------------------------------------------------------------
 
-[Next: Synopsis of Subjects, Tract Yomah](yom05)
+[Next: Synopsis of Subjects, Tract Yomah](yom05.md)

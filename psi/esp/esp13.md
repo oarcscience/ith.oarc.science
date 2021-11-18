@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp12)  [Next](esp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp12)  [Next](esp14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -73,7 +73,7 @@ deviation to the p.e. rises to 13.5 (and, if computed by sections, as is
 fully legitimate in so long an experiment under necessarily changing
 conditions, we get a still higher value, since the first 500 trials
 alone give a value of X 13.3). The average per 25 for the 7,500 was
-6.05. [Table XV](esp13.htm#an_tab15) will show these results in details
+6.05. [Table XV](esp13.htm#an_tab15.md) will show these results in details
 of 500's. In his procedure Stuart
 
 <span id="page_69">p. 69</span>
@@ -282,7 +282,7 @@ per 25</p></td>
 
 </div>
 
-The most remarkable feature of this table ([XV](esp13.htm#an_tab15)),
+The most remarkable feature of this table ([XV](esp13.htm#an_tab15).md),
 aside from its high significance in terms of X ("anti-chance value") is
 the relatively gradual decline of the rate of scoring. Taken, however,
 by 500's there is a peculiarly low drop in the 9th with a "comeback" for
@@ -305,7 +305,7 @@ scoring level, averaging 6.9 per 25 trials. They alone have a value of
 
 But again the decline set in as before and, at the end of the 2,100,
 Stuart's scoring had fallen down almost to chance average. This effect
-can be shown best in the following table, [XVI](esp13.htm#an_tab16), in
+can be shown best in the following table, [XVI](esp13.htm#an_tab16.md), in
 which the data are grouped in 400's in order to spread the decline
 effect out over more points.
 
@@ -418,7 +418,7 @@ the first, but the better scoring period is longer (in point of number
 of trials) and more consistent scoring characterizes it.
 
 Stuart introduced an interesting technique into the tests reported in
-[Table XVI](esp13.htm#an_tab16). He began on July 21 to make 2 calls for
+[Table XVI](esp13.htm#an_tab16.md). He began on July 21 to make 2 calls for
 each card, one for "correct" and another that he thought was
 "incorrect". The two records were appropriately labelled and kept
 distinct. Pearce had been calling whole series with the deliberate
@@ -428,7 +428,7 @@ Stuart found no difficulty, and, as one would expect, in general, his
 positive deviation on the High-Scoring and negative deviation on the
 voluntary Low-Scoring are about equal. They likewise decline together at
 about the same rate, as would naturally follow. Comparison of the two is
-made in Table [XVII-A](esp13.htm#an_tab17a) with the data grouped in
+made in Table [XVII-A](esp13.htm#an_tab17a.md) with the data grouped in
 400's for the purpose of comparing the decline.
 
 TABLE XVII-A<span id="an_tab17a"></span>
@@ -572,7 +572,7 @@ Pearce comes third with 900, for straight record. No one seems to have
 suffered, or have become fatigued especially. In all cases the scoring
 was up to par, even to the last. This evidence is directly contrary to
 the "fatigue-theory" as proposed by Miss Jephson. <span
-id="fr_73"></span>[1](#fn_73)
+id="fr_73"></span>[1](#fn_73.md)
 
 At present the most interesting phase of Stuart's work is his
 development of P.T. scoring; *i.e.*, pure telepathy. He has only
@@ -580,7 +580,7 @@ relatively lately got started at it and he does it with just about the
 same level of ability as he now shows on the P.C. work. (His late work
 on the clairvoyance has, however, been low.) On the 500 trials of P.T.
 he averaged 5.8 hits per 25. His regular B.T. trials, the 950 made since
-the work of [Table XVII](esp13.htm#an_tab17a), gave only 5.7 hits per
+the work of [Table XVII](esp13.htm#an_tab17a.md), gave only 5.7 hits per
 25. This is quite naturally a most interesting comparison to follow up.
 
 Stuart has tried D.T. clairvoyance but has not done it very successfully
@@ -621,7 +621,7 @@ that goes beyond 24. This is in itself much in excess of the requirement
 for the thorough exclusion of the "chance" theory for these results.
 Stuart's results alone, then, would be an adequate basis for the
 dropping of the hypothesis of accidental or random distribution. They
-are summarized in [Table XVII-B](esp13.htm#an_tab17b).
+are summarized in [Table XVII-B](esp13.htm#an_tab17b.md).
 
 TABLE XVII-B<span id="an_tab17b"></span>
 
@@ -758,10 +758,10 @@ scores still to come.
 
 ### Footnotes
 
-<span id="fn_73"></span>[71:1](esp13.htm#fr_73) Jephson, Miss Ina,
+<span id="fn_73"></span>[71:1](esp13.htm#fr_73.md) Jephson, Miss Ina,
 *Evidence for Clairvoyance in Card-guessing*. *Proc*. S.P.R., 38: pp.
 223-271, 1928.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7. Hubert E. Pearce, Jr.](esp14)
+[Next: Chapter 7. Hubert E. Pearce, Jr.](esp14.md)

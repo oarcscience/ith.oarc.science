@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi088)  [Next](mtsi090) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi088)  [Next](mtsi090.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ tied him again and laid him on the bank of the creek. By and by the
 little Fishes he had fed came and said, "My friend, what is the matter
 with you?" He told them, and they went down and brought all the money to
 land, but they said that they could not get the horse for the snakes
-(hotisågi) <span id="fr_20"></span>[1](#fn_20) alone could do that, and
+(hotisågi) <span id="fr_20"></span>[1](#fn_20.md) alone could do that, and
 they were only orderlies (hola\`tålgi). They made a pillow of the sack
 of gold under his head. The town people paid him for all the work he had
 done, and he went home a rich man.
@@ -49,10 +49,10 @@ done, and he went home a rich man.
 
 ### Footnotes
 
-<span id="fn_20"></span>[82:1](mtsi089.htm#fr_20) This seems to be a
+<span id="fn_20"></span>[82:1](mtsi089.htm#fr_20.md) This seems to be a
 metaphorical term meaning "those one is afraid of." Tcitto is the usual
 word for snake.
 
 ------------------------------------------------------------------------
 
-[Next: 88. A Bear Drive](mtsi090)
+[Next: 88. A Bear Drive](mtsi090.md)

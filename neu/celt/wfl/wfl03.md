@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfl02)  [Next](wfl04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfl02)  [Next](wfl04.md) 
 
 ------------------------------------------------------------------------
 
@@ -408,4 +408,4 @@ disappears.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Mountain Fairies](wfl04)
+[Next: Chapter IV: Mountain Fairies](wfl04.md)

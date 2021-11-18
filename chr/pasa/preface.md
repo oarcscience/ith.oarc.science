@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](title)  [Next](chap01) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](title)  [Next](chap01.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ style="font-family: Times New Roman; mso-fareast-font-family: Times New Roman; c
 
 ------------------------------------------------------------------------
 
-[Next: General Scope of the 'De Civitate Dei'](chap01)
+[Next: General Scope of the 'De Civitate Dei'](chap01.md)

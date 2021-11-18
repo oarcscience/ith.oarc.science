@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt11)  [Next](egt13) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt11)  [Next](egt13.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ Eternal, they cleave '*behold*' and '*He*' in two through the middle.
 
 ------------------------------------------------------------------------
 
-[Next: ON GOD AS FIRST CAUSE.](egt13)
+[Next: ON GOD AS FIRST CAUSE.](egt13.md)

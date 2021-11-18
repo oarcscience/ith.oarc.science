@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Next](sfq01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Next](sfq01.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,13 +44,13 @@ That had atchievde so great a conquest by his might.''<br />
 <span id="img_title"></span>
 
 [![Image of Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Image of Title Page  
 
 <span id="img_fcover"></span>
 
 [![Image of Front Cover](tn/fcover.jpg)  
-Click to enlarge](img/fcover.jpg)  
+Click to enlarge](img/fcover.jpg.md)  
 Image of Front Cover  
 
 <span id="page_vi">p. vi</span>
@@ -58,7 +58,7 @@ Image of Front Cover
 <span id="img_vi00"></span>
 
 [![](tn/vi00.jpg)  
-Click to enlarge](img/vi00.jpg)
+Click to enlarge](img/vi00.jpg.md)
 
 First Edition, September 1897  
 *Second Edition, April* 1900  
@@ -70,4 +70,4 @@ First Edition, September 1897
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sfq01)
+[Next: Introduction](sfq01.md)

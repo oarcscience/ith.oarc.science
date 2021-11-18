@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb07)  [Next](lrb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb07)  [Next](lrb09.md) 
 
 ------------------------------------------------------------------------
 
@@ -261,7 +261,7 @@ Summoning N’Oun Doare, the King charged him with
 <span id="img_11200"></span>
 
 [![NOUN DOARE AND THE PRINCESS GOLDEN BELL](tn/11200.jpg)  
-Click to enlarge](img/11200.jpg)  
+Click to enlarge](img/11200.jpg.md)  
 N’OUN DOARE AND THE PRINCESS GOLDEN BELL  
 
  
@@ -586,7 +586,7 @@ the lady came graciously forward to him, saying:
 "Fear not, my brave fellow, for know that I have been enchanted these
 many years under the form of a wild duck, because of the enmity of three
 malicious demons. You can restore me permanently to my human shape if
-you choose to show only a [little](errata.htm#0) perseverance and
+you choose to show only a [little](errata.htm#0.md) perseverance and
 courage."
 
 "Why, what do you desire me to do, madam?"
@@ -1399,7 +1399,7 @@ Scottish ballad of *The Demon Lover*, which inspired
 <span id="img_14400"></span>
 
 [![THE BRIDE OF SATAN](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 THE BRIDE OF SATAN  
 
  
@@ -1757,4 +1757,4 @@ King died Iouenn, the man of his word, was made King in his place.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Breton Folk-Tales](lrb09)
+[Next: Chapter VI: Breton Folk-Tales](lrb09.md)

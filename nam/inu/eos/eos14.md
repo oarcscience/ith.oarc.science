@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index) 
-[Siberian](../../../asia/index.htm#siberia)  [Index](index) 
-[Previous](eos13)  [Next](eos15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index.md) 
+[Siberian](../../../asia/index.htm#siberia)  [Index](index.md) 
+[Previous](eos13)  [Next](eos15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eskimo of Siberia*, by Waldemar Bogoras, \[1913\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 ### 13. The Woman and the Doer of Violence.
 
-   In the village of Kuku´lik <span id="fr_7"></span>[1](#fn_7) there
+   In the village of Kuku´lik <span id="fr_7"></span>[1](#fn_7.md) there
 was a man stronger than all his neighbors. Therefore he took the food
 from everybody by force. If a man had killed a walrus and hauled home a
 sled filled with meat, the strong man would take possession of the
@@ -46,7 +46,7 @@ bring such shame upon me! I have plenty of meat and peltries. I will
 give you everything. Let me escape with just my bare life!" And, indeed,
 she did not tell what had happened. He gave her everything he had, and
 they lived in wealth and joy. From that stock came the family of
-Kuva´r. <span id="fr_8"></span>[1](#fn_8)
+Kuva´r. <span id="fr_8"></span>[1](#fn_8.md)
 
 Told by Milu´taṛak, an Asiatic Eskimo man, on St. Lalwrence Island, May,
 1901.
@@ -55,13 +55,13 @@ Told by Milu´taṛak, an Asiatic Eskimo man, on St. Lalwrence Island, May,
 
 ### Footnotes
 
-<span id="fn_7"></span>[432:1](eos14.htm#fr_7) Now wholly starved out,
+<span id="fn_7"></span>[432:1](eos14.htm#fr_7.md) Now wholly starved out,
 as well as several other villages.
 
-<span id="fn_8"></span>[433:1](eos14.htm#fr_8) A rich Eskimo of the
+<span id="fn_8"></span>[433:1](eos14.htm#fr_8.md) A rich Eskimo of the
 village of Čibu´kak, on St. Lawence Island. There was another Kuva´r
 much richer, in the village Uñi´sak, on the mainland of Asia.
 
 ------------------------------------------------------------------------
 
-[Next: 14. Creation of St. Lawrence Island.](eos15)
+[Next: 14. Creation of St. Lawrence Island.](eos15.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](aenl03)  [Previous](aen02) 
-[Next](aen04) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](aenl03)  [Previous](aen02.md) 
+[Next](aen04.md) 
 
 ------------------------------------------------------------------------
 
@@ -987,4 +987,4 @@ And here concluding, he retir'd to rest.
 
 ------------------------------------------------------------------------
 
-[Next: Book IV](aen04)
+[Next: Book IV](aen04.md)

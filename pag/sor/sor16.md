@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor15)  [Next](sor17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor15)  [Next](sor17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -333,7 +333,7 @@ common as blackberries. Besides, the *Directorium* is an old-fashioned
 book, a century behind date. In this fifteenth century, an age of such
 enlightenment, everything is improved. If no witnesses are forthcoming,
 the *public voice* is enough, the general cry of popular
-indignation! <span id="fr_60"></span>[1](#fn_60)
+indignation! <span id="fr_60"></span>[1](#fn_60.md)
 
  
 
@@ -517,13 +517,13 @@ bright, light-bringing renaissance. No! from the point of view of the
 old darksome spirit of Sorcery. The diabolic legends, in the sixteenth
 century, both more numerous and more widely diffused than ever, show a
 marked tendency towards the grotesque. Men tremble, but they laugh at
-one and the same time. <span id="fr_61"></span>[2](#fn_61)
+one and the same time. <span id="fr_61"></span>[2](#fn_61.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_60"></span>[137:1](sor16.htm#fr_60) Faustin Hélie, in his
+<span id="fn_60"></span>[137:1](sor16.htm#fr_60.md) Faustin Hélie, in his
 learned and instructive *Traité de l’instruction criminelle* (vol. i.
 398), has explained with perfect lucidity the way in which Innocent
 III., about 1200, abolished the safeguards of accusation, till then held
@@ -533,9 +533,9 @@ subterranean modes of procedure, *Denunciation*, *Inquisition*, etc. See
 Soldan for instances of the appalling ease with which these latter
 methods were applied. Verily blood was poured out like water.
 
-<span id="fn_61"></span>[142:2](sor16.htm#fr_61) See my *Mémoires de
+<span id="fn_61"></span>[142:2](sor16.htm#fr_61.md) See my *Mémoires de
 Luther*, for the Kilcrops and the like.
 
 ------------------------------------------------------------------------
 
-[Next: 15. A Hundred Years’ Toleration in France](sor17)
+[Next: 15. A Hundred Years’ Toleration in France](sor17.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb16)  [Next](yefb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb16)  [Next](yefb18.md) 
 
 </div>
 
@@ -235,6 +235,6 @@ themselves, and lived contentedly till the end of their days.
 
 ------------------------------------------------------------------------
 
-[Next: The Wizard King](yefb18)
+[Next: The Wizard King](yefb18.md)
 
 </div>

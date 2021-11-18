@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr11)  [Next](lot00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr11)  [Next](lot00.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ creations, and He knows everything.
 
 ------------------------------------------------------------------------
 
-[Next: The Prophet Lot (PUH)](lot00)
+[Next: The Prophet Lot (PUH)](lot00.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio06)  [Next](dio08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio06)  [Next](dio08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ things.
 midst of our discourse, the Good is Cause of the celestial movements in
 their commencements and terminations, of their not increasing, not
 diminishing, and completely changeless, course <span
-id="fr_30"></span>[31](#fn_30) , and of the noiseless movements, if one
+id="fr_30"></span>[31](#fn_30.md) , and of the noiseless movements, if one
 may so speak, of the vast celestial transit, and of the astral orders,
 and the beauties and <span id="page_36">p. 36</span> <span
 id="ii.ii.ii.iv-Page_36"></span> lights, and stabilities, and the
@@ -146,7 +146,7 @@ sensible bodies, and moves them to life, and nourishes, and increases,
 and perfects, and purifies and renews; and the light is both measure and
 number of hours, days, and all our time. For it is the light itself,
 even though it was then without form, which the divine Moses declared to
-have fixed that first Triad <span id="fr_31"></span>[32](#fn_31) of our
+have fixed that first Triad <span id="fr_31"></span>[32](#fn_31.md) of our
 days. And, just as Goodness turns all things to Itself, and is chief
 collector of things scattered, as One-springing and One-making Deity,
 and all things aspire to It, as Source and Bond and End, and it is the
@@ -179,7 +179,7 @@ eternal power and Deity.
 <span id="ii.ii.ii.iv-p12"></span>But we have spoken of these things in
 our *Symbolical Theology.* Let us now then celebrate the spiritual Name
 of Light, under Which we contemplate the Good, and declare that He, the
-Good, is called spiritual <span id="fr_32"></span>[33](#fn_32) Light, on
+Good, is called spiritual <span id="fr_32"></span>[33](#fn_32.md) Light, on
 the ground that He fills every supercelestial mind with spiritual light,
 and expels all ignorance and error from all souls in which they may be,
 and imparts to them all sacred light, and cleanses their mental vision
@@ -197,7 +197,7 @@ analogy of each for aspiration.
 <span id="ii.ii.ii.iv-p14"></span>The Good then above every light is
 called spiritual Light, as fontal ray, and stream of light welling over,
 shining upon every mind, above, around <span
-id="fr_33"></span>[34](#fn_33) , and in the world, from its fulness, and
+id="fr_33"></span>[34](#fn_33.md) , and in the world, from its fulness, and
 renewing their whole mental powers, and embracing them all by its
 over-shadowing; and being above all by its exaltation; and in one word,
 by embracing and having previously and pre-eminently the whole
@@ -277,7 +277,7 @@ movement, is a rest and movement to all.
 <span id="ii.ii.ii.iv-p17"></span>SECTION VIII.
 
 <span id="ii.ii.ii.iv-p18"></span>Now, the divine minds <span
-id="fr_34"></span>[35](#fn_34) are said to be moved circularly indeed,
+id="fr_34"></span>[35](#fn_34.md) are said to be moved circularly indeed,
 by being united to the illuminations of the Beautiful and Good, without
 beginning and without end; but in a direct line, whenever they advance
 to the succour of a subordinate, by accomplishing all things directly;
@@ -353,7 +353,7 @@ sustains all, attracts all; and even the Divine Love is Good of Good, by
 reason of the Good. For Love itself, the benefactor of things that be,
 pre-existing overflowingly in the Good, did not permit itself to remain
 unproductive in itself, but moved itself to creation <span
-id="fr_35"></span>[36](#fn_35) , as befits the overflow which is
+id="fr_35"></span>[36](#fn_35.md) , as befits the overflow which is
 generative of all.
 
 <span id="ii.ii.ii.iv-p25"></span>SECTION XI.
@@ -403,7 +403,7 @@ sacred expounders that the Name of Love is more Divine than that of
 loving-kindness (<span id="ii.ii.ii.iv-p29.1"></span>ἀγάπης). But even
 the <span id="page_47">p. 47</span> <span
 id="ii.ii.ii.iv-Page_47"></span> Divine Ignatius <span
-id="fr_36"></span>[37](#fn_36) writes, "my own Love (<span
+id="fr_36"></span>[37](#fn_36.md) writes, "my own Love (<span
 id="ii.ii.ii.iv-p29.3"></span>ἔρως) is crucified;" and in the
 introductions to the Oracles you will find a certain One saying of the
 Divine Wisdom, "1 became enamoured of her Beauty." So that we,
@@ -512,7 +512,7 @@ id="page_51">p. 51</span> <span id="ii.ii.ii.iv-Page_51"></span> kinds
 of knowledge and powers of the mundane and supermundane loves; over
 which, according to the defined purpose of the discourse, the orders and
 ranks of the mental and intelligible loves preside; next after <span
-id="fr_37"></span>[38](#fn_37) which are placed the self-existent
+id="fr_37"></span>[38](#fn_37.md) which are placed the self-existent
 intelligible and divine, over the really beautiful loves there which
 have been appropriately celebrated by us; now, on the other hand, by
 restoring all back to the One and enfolded Love, and Father of them all,
@@ -559,7 +559,7 @@ coming into existence at all, or not destroyed? And how does any
 existing thing desire it, in comparison with the Good?
 
 <span id="ii.ii.ii.iv-p45"></span>SECTION XIX. <span
-id="fr_38"></span>[39](#fn_38)
+id="fr_38"></span>[39](#fn_38.md)
 
 <span id="ii.ii.ii.iv-p46"></span>Such a statement as this might be
 alleged by way of objection. We, however, on our part, will <span
@@ -602,7 +602,7 @@ some evil contrary to the Good. For the Good is not contrary to Itself,
 but as the product from one Source and one Cause, It rejoices in
 fellowship and unity and friendship. Nor yet is the lesser good opposed
 to the greater, for neither is the less heat or cold opposed to the
-greater. The Evil <span id="fr_39"></span>[40](#fn_39) then is in things
+greater. The Evil <span id="fr_39"></span>[40](#fn_39.md) then is in things
 existing, and is existing, and is opposed, and is in opposition to, the
 Good; and if it is the destruction of things existing, this does not
 expel the Evil from existence; but it will be, both itself existing, and
@@ -903,7 +903,7 @@ even the Good, as from the Evil, is evil; or further, there are two
 first principles, and these suspended from another one head. And, if
 they say that matter is necessary, for a completion of the whole Cosmos,
 how is matter an evil? For the Evil is one thing, and the
-necessary <span id="fr_40"></span>[41](#fn_40) is another. But, how does
+necessary <span id="fr_40"></span>[41](#fn_40.md) is another. But, how does
 He, Who is Good, bring anything to birth from the Evil? or, how is that,
 which needs the Good, evil? For the Evil shuns the nature of the Good.
 And how does matter, being evil, generate and nourish nature? For the
@@ -925,7 +925,7 @@ necessary an evil?
 
 <span id="ii.ii.ii.iv-p68"></span>But neither is it this which we
 affirm--the "privation fights against the Good by its own power <span
-id="fr_41"></span>[42](#fn_41) "; for the complete privation is
+id="fr_41"></span>[42](#fn_41.md) "; for the complete privation is
 altogether powerless, and the partial has the power, not in respect of
 privation, but in so far as it is not a complete privation. For, whilst
 privation of good is partial, it is not, as yet, an evil, and when, it
@@ -938,7 +938,7 @@ also.
 from the one and the whole Cause, but the Evil is from many and partial
 defects. Almighty God knows the Evil *qua* good; and, with Him, the
 causes of the evils are powers producing good <span
-id="fr_42"></span>[43](#fn_42) . But, if the Evil is eternal, and
+id="fr_42"></span>[43](#fn_42.md) . But, if the Evil is eternal, and
 creates, and has power, and is, and does, whence do these come to it? Is
 it either from the Good, or by the Good from the Evil, or by both from
 another cause? Everything that is according to nature comes into being
@@ -1078,48 +1078,48 @@ else, the true statement, as I deem, has demonstrated in the preceding.
 
 ### Footnotes
 
-<span id="fn_30"></span>[35:31](dio07.htm#fr_30) <span
+<span id="fn_30"></span>[35:31](dio07.htm#fr_30.md) <span
 id="ii.ii.ii.iv-p10.1"></span><span
 id="ii.ii.ii.iv-p10.2"></span>ευροίας.
 
-<span id="fn_31"></span>[37:32](dio07.htm#fr_31) <span
+<span id="fn_31"></span>[37:32](dio07.htm#fr_31.md) <span
 id="ii.ii.ii.iv-p10.3"></span>See Dulac, Theology anticipates Science.
 
-<span id="fn_32"></span>[38:33](dio07.htm#fr_32) <span
+<span id="fn_32"></span>[38:33](dio07.htm#fr_32.md) <span
 id="ii.ii.ii.iv-p12.1"></span>The Greek word is <span
 id="ii.ii.ii.iv-p12.2"></span>νοητὸν, which in connection with <span
 id="ii.ii.ii.iv-p12.3"></span>φῶς is rendered here "spiritual light."
 
-<span id="fn_33"></span>[39:34](dio07.htm#fr_33) <span
+<span id="fn_33"></span>[39:34](dio07.htm#fr_33.md) <span
 id="ii.ii.ii.iv-p14.1"></span>See Book of Hierotheus, c. 2.
 
-<span id="fn_34"></span>[42:35](dio07.htm#fr_34) <span
+<span id="fn_34"></span>[42:35](dio07.htm#fr_34.md) <span
 id="ii.ii.ii.iv-p18.1"></span>Angels.
 
-<span id="fn_35"></span>[45:36](dio07.htm#fr_35) <span
+<span id="fn_35"></span>[45:36](dio07.htm#fr_35.md) <span
 id="ii.ii.ii.iv-p24.1"></span>Creation through Goodness not necessity.
 
-<span id="fn_36"></span>[47:37](dio07.htm#fr_36) <span
+<span id="fn_36"></span>[47:37](dio07.htm#fr_36.md) <span
 id="ii.ii.ii.iv-p29.2"></span>See note, p. 128.
 
-<span id="fn_37"></span>[51:38](dio07.htm#fr_37) <span
+<span id="fn_37"></span>[51:38](dio07.htm#fr_37.md) <span
 id="ii.ii.ii.iv-p39.1"></span>i.e. in ascending order.
 
-<span id="fn_38"></span>[52:39](dio07.htm#fr_38) <span
+<span id="fn_38"></span>[52:39](dio07.htm#fr_38.md) <span
 id="ii.ii.ii.iv-p45.1"></span>Plato, Theaet.
 
-<span id="fn_39"></span>[54:40](dio07.htm#fr_39) <span
+<span id="fn_39"></span>[54:40](dio07.htm#fr_39.md) <span
 id="ii.ii.ii.iv-p46.1"></span>Theaet., 1763.
 
-<span id="fn_40"></span>[66:41](dio07.htm#fr_40) <span
+<span id="fn_40"></span>[66:41](dio07.htm#fr_40.md) <span
 id="ii.ii.ii.iv-p65.1"></span>Jahn, p. 66.
 
-<span id="fn_41"></span>[67:42](dio07.htm#fr_41) <span
+<span id="fn_41"></span>[67:42](dio07.htm#fr_41.md) <span
 id="ii.ii.ii.iv-p68.1"></span>Jahn, p, 67.
 
-<span id="fn_42"></span>[67:43](dio07.htm#fr_42) <span
+<span id="fn_42"></span>[67:43](dio07.htm#fr_42.md) <span
 id="ii.ii.ii.iv-p70.1"></span>Out of evil forth producing good.
 
 ------------------------------------------------------------------------
 
-[Next: Caput V.](dio08)
+[Next: Caput V.](dio08.md)

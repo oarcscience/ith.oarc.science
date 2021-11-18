@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp09)  [Next](prp11) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp09)  [Next](prp11.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ stretched that thou wilt drink thy anus never had any wrinkles.
 
 ------------------------------------------------------------------------
 
-[Next: 11. A she (than Hector's parent longer aged,](prp11)
+[Next: 11. A she (than Hector's parent longer aged,](prp11.md)

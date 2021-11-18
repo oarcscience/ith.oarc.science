@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll07)  [Next](oll09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll07)  [Next](oll09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -45,7 +45,7 @@ Swift as the wind, and behold me.
   *Chasqui*. This *quipu* will tell thee, O King.  
   *Pachacuti*. Examine it, O Rumi-ñaui.  
   *Rumi-ñaui*. Behold the *llanta*, and the knots <span
-id="fr_35"></span>[1](#fn_35)  
+id="fr_35"></span>[1](#fn_35.md)  
 Announce the number of his men.  
   *Pachacuti* (*to* Chasqui). And thou, what hast thou seen?  
   *Chasqui*. 'Tis said that all the Anti host  
@@ -80,7 +80,7 @@ END OF ACT I.
 
 ### Footnotes
 
-<span id="fn_35"></span>[366:1](oll08.htm#fr_35) The *llanta* is the
+<span id="fn_35"></span>[366:1](oll08.htm#fr_35.md) The *llanta* is the
 main rope of the *quipu*, about a yard long. The small cords of llama
 wool, of various colours, denoting different subjects, each with various
 kinds of knots, recording numbers.
@@ -89,6 +89,6 @@ kinds of knots, recording numbers.
 
 ------------------------------------------------------------------------
 
-[Next: Scene 1](oll09)
+[Next: Scene 1](oll09.md)
 
 </div>

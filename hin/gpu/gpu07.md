@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu06)  [Next](gpu08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu06)  [Next](gpu08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ epileptic; who despises the Vedas and the Śāstras certainly becomes
 jaundiced.
 
 8\. Who bears false witness becomes dumb; who breaks the meal-row <span
-id="fr_55"></span>[1](#fn_54) becomes one-eyed; who interferes with
+id="fr_55"></span>[1](#fn_54.md) becomes one-eyed; who interferes with
 marriage becomes lipless; who steals a book-is born blind.
 
 9\. Who strikes a cow or a Brāhmaṇ with his foot is born lame and
@@ -71,7 +71,7 @@ diseased nails; who steals any metal becomes poverty-stricken.
 
 12\. Who steals food becomes a rat; who steals grain becomes a locust;
 who steals water becomes a Chātaka-bird <span
-id="fr_56"></span>[2](#fn_55); and who steals poison, a scorpion.
+id="fr_56"></span>[2](#fn_55.md); and who steals poison, a scorpion.
 
 13\. Who steals vegetables and leaves becomes a peacock; perfumes, a
 musk-rat; honey, a gad-fly; flesh, a vulture; and salt, an ant.
@@ -92,7 +92,7 @@ who eat all foods without consideration, become tigers in a desolate
 forest.
 
 18\. The Brāhmiṇ who does not recite the Gāyatrī <span
-id="fr_57"></span>[1](#fn_56), who does not meditate at twilight, who is
+id="fr_57"></span>[1](#fn_56.md), who does not meditate at twilight, who is
 inwardly wicked while outwardly pious, becomes a crane.
 
 19\. The Brāhmiṇ who officiates for one unfit to perform sacrifice
@@ -108,7 +108,7 @@ born as a Brāhmiṇ-fiend in a waterless wilderness.
 
 22\. Who does not give to a twice-born according to his promise becomes
 a jackal; who is not hospitable to the goody becomes a howling
-Fire-face. <span id="fr_58"></span>[2](#fn_57)
+Fire-face. <span id="fr_58"></span>[2](#fn_57.md)
 
 <span id="page_41">p. 41</span>
 
@@ -248,23 +248,23 @@ of ages.
 
 ### Footnotes
 
-<span id="fn_54"></span>[39:1](gpu07.htm#fr_55) This refers to the
+<span id="fn_54"></span>[39:1](gpu07.htm#fr_55.md) This refers to the
 custom among Brāhmiṇs of sitting in a row at meals, and rising together.
 Whoever gives different food to one than to another is said to break the
 row also.
 
-<span id="fn_55"></span>[39:2](gpu07.htm#fr_56) A bird fabled to live
+<span id="fn_55"></span>[39:2](gpu07.htm#fr_56.md) A bird fabled to live
 only on rain-drops.
 
-<span id="fn_56"></span>[40:1](gpu07.htm#fr_57) A sacred mantra repeated
+<span id="fn_56"></span>[40:1](gpu07.htm#fr_57.md) A sacred mantra repeated
 every day by the twice-born caste.
 
-<span id="fn_57"></span>[40:2](gpu07.htm#fr_58) A class of evil spirits.
+<span id="fn_57"></span>[40:2](gpu07.htm#fr_58.md) A class of evil spirits.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Miseries of Birth of the Sinful](gpu08)
+[Next: Chapter VI. The Miseries of Birth of the Sinful](gpu08.md)
 
 </div>

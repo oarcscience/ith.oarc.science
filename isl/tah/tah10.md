@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](tah09)  [Next](tah11) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](tah09)  [Next](tah11.md) 
 
 ------------------------------------------------------------------------
 
@@ -314,4 +314,4 @@ thee?"
 ------------------------------------------------------------------------
 
 [Next: Chapter VII: Marriage As A Help Or Hindrance To The Religious
-Life](tah11)
+Life](tah11.md)

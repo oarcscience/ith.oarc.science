@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb14)  [Next](isb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb14)  [Next](isb16.md) 
 
 ------------------------------------------------------------------------
 
@@ -719,4 +719,4 @@ the rest, hangs at the beam before Kilkenny jail.
 ------------------------------------------------------------------------
 
 [Next: More rain in Galway--A walk there--and the second Galway Night's
-Entertainment](isb16)
+Entertainment](isb16.md)

@@ -1,6 +1,6 @@
-<span class="small">[Intangible Textual Heritage](../../index) 
-[European Texts](../index)  [Index](erec)  [Previous](erecintr) 
-[Next](erec2) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md) 
+[European Texts](../index)  [Index](erec)  [Previous](erecintr.md) 
+[Next](erec2.md) </span>
 
 ------------------------------------------------------------------------
 

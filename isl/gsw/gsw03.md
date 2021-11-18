@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw02)  [Next](gsw04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw02)  [Next](gsw04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_vii">p. vii</span>
 
-<span id="img__00700"></span> ![FROM A KERMAN SHAWL](img/_00700.jpg)
+<span id="img__00700"></span> ![FROM A KERMAN SHAWL](img/_00700.jpg.md)
 
 ### ILLUSTRATIONS
 
@@ -387,8 +387,8 @@ IN BLACK AND WHITE</p></td>
 from objects in Major SYKES'S collection.
 
 <span id="img__01000"></span> ![FROM AN EARTHENWARE WATER
-PIPE](img/_01000.jpg)
+PIPE](img/_01000.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Prologue](gsw04)
+[Next: Prologue](gsw04.md)

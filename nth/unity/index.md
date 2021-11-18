@@ -24,67 +24,67 @@ date of original publication.
 ------------------------------------------------------------------------
 
 <span class="c_e"> <span class="c_t">[Lessons in
-Truth](lit/index)</span>   by <span class="c_a">H. Emilie Cady</span>
+Truth](lit/index.md)</span>   by <span class="c_a">H. Emilie Cady</span>
 \[<span class="c_d">1894</span>\]   <span class="c_b">The author, a
 former homeopathic healer, planted the seeds of Unity in this late 19th
 century classic of New Thought exposition.</span> </span>
 
-<span class="c_e"> <span class="c_t">[Talks on Truth](tot/index)</span>
+<span class="c_e"> <span class="c_t">[Talks on Truth](tot/index.md)</span>
   by <span class="c_a">Charles Fillmore</span> \[<span
 class="c_d">1912</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[Christian Healing, The Science of
-Being](chl/index)</span>   by <span class="c_a">Charles Fillmore</span>
+Being](chl/index.md)</span>   by <span class="c_a">Charles Fillmore</span>
 \[<span class="c_d">1926</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[Twelve Powers of
-Man](tpm/index)</span>   by <span class="c_a">Charles Fillmore</span>
+Man](tpm/index.md)</span>   by <span class="c_a">Charles Fillmore</span>
 \[<span class="c_d">1930</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[Mysteries of
-Genesis](mog/index)</span>   by <span class="c_a">Charles
+Genesis](mog/index.md)</span>   by <span class="c_a">Charles
 Fillmore</span> \[<span class="c_d">1936</span>\]  
 </span>
 
-<span class="c_e"> <span class="c_t">[Prosperity](prsp/index)</span>  
+<span class="c_e"> <span class="c_t">[Prosperity](prsp/index.md)</span>  
 by <span class="c_a">Charles Fillmore</span> \[<span
 class="c_d">1936</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[Letters of Myrtle
-Fillmore](lmf/index)</span>   by <span class="c_a">Myrtle
+Fillmore](lmf/index.md)</span>   by <span class="c_a">Myrtle
 Fillmore</span> \[<span class="c_d">1936</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[Jesus Christ
-Heals](jch/index)</span>   by <span class="c_a">Charles Fillmore</span>
+Heals](jch/index.md)</span>   by <span class="c_a">Charles Fillmore</span>
 \[<span class="c_d">1939</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[Teach Us to
-Pray](tup/index)</span>   by <span class="c_a">Charles Fillmore</span>
+Pray](tup/index.md)</span>   by <span class="c_a">Charles Fillmore</span>
 \[<span class="c_d">1941</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[Mysteries of
-John](moj/index)</span>   by <span class="c_a">Charles Fillmore</span>
+John](moj/index.md)</span>   by <span class="c_a">Charles Fillmore</span>
 \[<span class="c_d">1946</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[Atom-Smashing Power of
-Mind](atom/index)</span>   by <span class="c_a">Charles Fillmore</span>
+Mind](atom/index.md)</span>   by <span class="c_a">Charles Fillmore</span>
 \[<span class="c_d">1949</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[Keep a True
-Lent](ktl/index)</span>   by <span class="c_a">Charles Fillmore</span>
+Lent](ktl/index.md)</span>   by <span class="c_a">Charles Fillmore</span>
 \[<span class="c_d">1953</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[The Revealing
-Word](trw/index)</span>   by <span class="c_a">Charles Fillmore</span>
+Word](trw/index.md)</span>   by <span class="c_a">Charles Fillmore</span>
 \[<span class="c_d">1959</span>\]  
 </span>

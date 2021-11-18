@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft13)  [Next](meft15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft13)  [Next](meft15.md) 
 
 ------------------------------------------------------------------------
 
 # Tattercoats
 
 <span id="img_015"></span> [![](tn/015.jpg)  
-Click to enlarge](img/015.jpg)
+Click to enlarge](img/015.jpg.md)
 
 IN a great palace by the sea there once dwelt a very rich old lord, who
 had neither wife nor children living, only one little granddaughter,
@@ -144,4 +144,4 @@ sea.
 
 ------------------------------------------------------------------------
 
-[Next: The Wee Bannock](meft15)
+[Next: The Wee Bannock](meft15.md)

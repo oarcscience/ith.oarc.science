@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc10)  [Next](sfoc12) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc10)  [Next](sfoc12.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ proper remedy.
 
 ------------------------------------------------------------------------
 
-[Next: Theory of Disease--Animals, Ghosts, Witches](sfoc12)
+[Next: Theory of Disease--Animals, Ghosts, Witches](sfoc12.md)

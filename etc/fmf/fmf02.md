@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf01)  [Next](fmf03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf01)  [Next](fmf03.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ Marriage.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Boston Biologist and The Native with the Blue
-Hardware](fmf03)
+Hardware](fmf03.md)

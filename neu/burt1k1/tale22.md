@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale21)  [Next](tale23) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale21)  [Next](tale23.md) 
 
 ------------------------------------------------------------------------
 
@@ -303,4 +303,4 @@ the servants spread the table, and when they had well eaten and drunken
 and were mirthful and merry, Sindbad the Seaman began in these words the
 narrative of
 
-(*Next*) [THE SIXTH VOYAGE OF SINDBAD THE SEAMAN](tale23)  
+(*Next*) [THE SIXTH VOYAGE OF SINDBAD THE SEAMAN](tale23.md)  

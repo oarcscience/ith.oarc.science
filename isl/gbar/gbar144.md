@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar143) [Next](gbar145)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar143) [Next](gbar145.md)
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ for love of God.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar145)
+[Next](gbar145.md)

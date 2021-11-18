@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb13)  [Next](lifb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb13)  [Next](lifb15.md) 
 
 </div>
 
@@ -311,6 +311,6 @@ From 'West Highland Tales.'
 
 ------------------------------------------------------------------------
 
-[Next: Little Lasse](lifb15)
+[Next: Little Lasse](lifb15.md)
 
 </div>

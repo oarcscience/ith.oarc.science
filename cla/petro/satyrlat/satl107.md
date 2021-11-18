@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat14.htm#CVII) 
-[Previous](satl106)  [Next](satl108) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat14.htm#CVII.md) 
+[Previous](satl106)  [Next](satl108.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ crinem vovisti? Pharmace, responde."
 
 ------------------------------------------------------------------------
 
-[Next: CVIII](satl108)
+[Next: CVIII](satl108.md)

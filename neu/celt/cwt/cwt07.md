@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cwt06)  [Next](cwt08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cwt06)  [Next](cwt08.md) 
 
 ------------------------------------------------------------------------
 
@@ -297,4 +297,4 @@ carried his message to Balor of the Evil Eye, King of the Fomorians.
 
 ------------------------------------------------------------------------
 
-[Next: The Eric-Fine of Lugh](cwt08)
+[Next: The Eric-Fine of Lugh](cwt08.md)

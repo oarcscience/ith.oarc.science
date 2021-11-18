@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap06) [Next](chap08)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap06) [Next](chap08.md)
 
 ------------------------------------------------------------------------
 
@@ -224,4 +224,4 @@ autonomy and monotony.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII: Through Spanish Fork Canyon and Thistle
-Valley](chap08)
+Valley](chap08.md)

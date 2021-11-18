@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk20)  [Next](wyvbk22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk20)  [Next](wyvbk22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -282,7 +282,7 @@ Physicians and
 Sarasvatî with Vashat-calls, with the two Hotars have  
 bestowed on Indra brilliant light and power, and planted  
 wisdom in his heart.  
-For gain of [wealth](errata.htm#14), etc.  
+For gain of [wealth](errata.htm#14.md), etc.  
 54 Goddesses three, three Goddesses—Asvins, Idâ, Sarasvatî  
 In Indra's midmost navel have laid store of energy and  
 power.  
@@ -333,4 +333,4 @@ benediction, for good speech, Speak thou good words.
 
 ------------------------------------------------------------------------
 
-[Next: Book XXII](wyvbk22)
+[Next: Book XXII](wyvbk22.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth09) 
-[Next](dth11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth09.md) 
+[Next](dth11.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ atmosphere of success.
 A negative man is, of course, the antithesis of this type. He is
 fearful, given to worry, apt to look on the dark side of things. Is
 afraid to act too much on his own responsibility and seeks the help and
-advice of other people. Has [difficulty](errata.htm#17) in making up his
+advice of other people. Has [difficulty](errata.htm#17.md) in making up his
 mind, and when he has made it up he often changes it. He lets others
 pass him in the race of life and then worries because
 
@@ -202,7 +202,7 @@ Infinite are his, therefore he can never fail." And then affirm:
 
 Then visualize yourself successful in that which you have attempted, the
 examination passed, the interview successfully ended, the rent paid. See
-yourself radiant with success, feel [yourself](errata.htm#18) lifted up
+yourself radiant with success, feel [yourself](errata.htm#18.md) lifted up
 by the power
 
 <span id="page_202">p. 202</span>
@@ -275,7 +275,7 @@ realizes for the first time that success is not something that is
 outside himself, or that has to be searched for or chased. He realizes
 that not only is success within him, but that he himself is Success. I
 cannot explain it further. I am dealing with a state of mind which
-cannot be described, but which can be [experienced](errata.htm#19). When
+cannot be described, but which can be [experienced](errata.htm#19.md). When
 the student has attained to this stage
 
 <span id="page_205">p. 205</span>
@@ -508,4 +508,4 @@ because it is lived in obedience to Universal Law.
 
 ------------------------------------------------------------------------
 
-[Next: Part X](dth11)
+[Next: Part X](dth11.md)

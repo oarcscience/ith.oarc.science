@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](harcanum)  [Next](kellystn) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](harcanum)  [Next](kellystn.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,6 +250,6 @@ Hermes, the father of Philosophers.
 
 ------------------------------------------------------------------------
 
-[Next: The Stone of the Philosophers by Edward Kelly](kellystn)
+[Next: The Stone of the Philosophers by Edward Kelly](kellystn.md)
 
   

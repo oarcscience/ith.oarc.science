@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao47)   
-[Previous](tao46)  [Next](tao48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao47.md)   
+[Previous](tao46)  [Next](tao48.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ and, therefore succeeds in whatever he undertakes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 48](tao48)
+[Next: Chapter 48](tao48.md)

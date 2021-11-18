@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ift02)  [Next](ift04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ift02)  [Next](ift04.md) 
 
 ------------------------------------------------------------------------
 
@@ -489,4 +489,4 @@ Heart, so that he got well again, and he also lived happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: Oisin's Mother](ift04)
+[Next: Oisin's Mother](ift04.md)

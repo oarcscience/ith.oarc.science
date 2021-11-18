@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx09)  [Next](omtx11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx09)  [Next](omtx11.md) 
 
 ------------------------------------------------------------------------
 
@@ -385,4 +385,4 @@ W. Master.
 
 ------------------------------------------------------------------------
 
-[Next: Constituting A Lodge](omtx11)
+[Next: Constituting A Lodge](omtx11.md)

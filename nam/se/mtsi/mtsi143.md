@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi142)  [Next](mtsi144) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi142)  [Next](mtsi144.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ every morning and so you will never be sick."
 
 ------------------------------------------------------------------------
 
-[Next: 8. How Water Was Lost and Recovered](mtsi144)
+[Next: 8. How Water Was Lost and Recovered](mtsi144.md)

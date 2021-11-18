@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft06)  [Next](sfft08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft06)  [Next](sfft08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE CATTIE SITS IN THE KILN-RING SPINNING. <span id="fr_11"></span>[1](#fn_11)
+### THE CATTIE SITS IN THE KILN-RING SPINNING. <span id="fr_11"></span>[1](#fn_11.md)
 
 THE cattie sits in the kiln-ring,  
              Spinning, spinning;  
@@ -30,7 +30,7 @@ Oh, what's that you're spinning, my loesome,
 
 <span id="page_76">p. 76</span>
 
-"I'm spinning a sark <span id="fr_12"></span>[1](#fn_12) to my young
+"I'm spinning a sark <span id="fr_12"></span>[1](#fn_12.md) to my young
 son,"  
              Said she, said she.
 
@@ -39,14 +39,14 @@ son,"
 "Gif he dinna brook it weel, he may brook it ill,"  
              Said she, said she.
 
-"I soopit <span id="fr_13"></span>[2](#fn_13) my house, my loesome,  
+"I soopit <span id="fr_13"></span>[2](#fn_13.md) my house, my loesome,  
              Loesome lady."  
 "'Twas a sign ye didna sit amang dirt then,"  
              Said she, said she.
 
 "I fand twall pennies, my winsome,  
              Winsome lady."  
-"'Twas a sign ye warna sillerless, <span id="fr_14"></span>[3](#fn_14)  
+"'Twas a sign ye warna sillerless, <span id="fr_14"></span>[3](#fn_14.md)  
              Said she, said she.
 
 "I gaed to the market, my loesome,  
@@ -54,7 +54,7 @@ son,"
 "'Twas a sign ye didna sit at hame then,"  
              Said she, said she.
 
-"I coft <span id="fr_15"></span>[4](#fn_15) a sheepie's head, my
+"I coft <span id="fr_15"></span>[4](#fn_15.md) a sheepie's head, my
 winsome,  
              Winsome lady."  
 "'Twas a sign ye warna kitchenless,"  
@@ -71,11 +71,11 @@ winsome,
 didna eat it raw,"  
              Said she, said she.
 
-"I put it in my winnock <span id="fr_16"></span>[1](#fn_16) to cool, my
+"I put it in my winnock <span id="fr_16"></span>[1](#fn_16.md) to cool, my
 winsome,  
              Winsome lady."  
 "'Twas a sign ye didna burn your chafts <span
-id="fr_17"></span>[2](#fn_17) then,"  
+id="fr_17"></span>[2](#fn_17.md) then,"  
              Said she, said she.
 
 "By came a cattie, and ate it a' up, my loesome,  
@@ -89,21 +89,21 @@ id="fr_17"></span>[2](#fn_17) then,"
 
 ### Footnotes
 
-<span id="fn_11"></span>[75:1](sfft07.htm#fr_11) Chambers, *Popular
+<span id="fn_11"></span>[75:1](sfft07.htm#fr_11.md) Chambers, *Popular
 Rhymes of Scotland*.
 
-<span id="fn_12"></span>[76:1](sfft07.htm#fr_12) Shirt.
+<span id="fn_12"></span>[76:1](sfft07.htm#fr_12.md) Shirt.
 
-<span id="fn_13"></span>[76:2](sfft07.htm#fr_13) swept.
+<span id="fn_13"></span>[76:2](sfft07.htm#fr_13.md) swept.
 
-<span id="fn_14"></span>[76:3](sfft07.htm#fr_14) Without money.
+<span id="fn_14"></span>[76:3](sfft07.htm#fr_14.md) Without money.
 
-<span id="fn_15"></span>[76:4](sfft07.htm#fr_15) Bought.
+<span id="fn_15"></span>[76:4](sfft07.htm#fr_15.md) Bought.
 
-<span id="fn_16"></span>[77:1](sfft07.htm#fr_16) Window.
+<span id="fn_16"></span>[77:1](sfft07.htm#fr_16.md) Window.
 
-<span id="fn_17"></span>[77:2](sfft07.htm#fr_17) Chaps, mouth.
+<span id="fn_17"></span>[77:2](sfft07.htm#fr_17.md) Chaps, mouth.
 
 ------------------------------------------------------------------------
 
-[Next: Marriage of Robin Redbreast and the Wren](sfft08)
+[Next: Marriage of Robin Redbreast and the Wren](sfft08.md)

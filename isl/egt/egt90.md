@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt89)  [Next](egt91) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt89)  [Next](egt91.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Qur'ân to the impure?
 
 ------------------------------------------------------------------------
 
-[Next: ON THE SWEETNESS. OF THE QUR'ÂN.](egt91)
+[Next: ON THE SWEETNESS. OF THE QUR'ÂN.](egt91.md)

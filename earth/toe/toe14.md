@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe13)  [Next](toe15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe13)  [Next](toe15.md) 
 
 ------------------------------------------------------------------------
 
@@ -760,4 +760,4 @@ in the order in which they occurred, or had been written.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. The Supposition of Primitive Mountains
-refuted](toe15)
+refuted](toe15.md)

@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-03tx) [Next](dob-04tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-03tx) [Next](dob-04tx.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ the universe are clearly seen, and firmly grasped, and cheerfully
 acquiesced in.
 
 <span class="small">{1. See the summary above, [pp.
-57-59](dob-02in.htm#p.%2057), in the Introduction to the
+57-59](dob-02in.htm#p.%2057.md), in the Introduction to the
 Sâma*ññ*a-phala.}</span>
 
 <span id="p. 138">{p. 138}</span>
@@ -142,7 +142,7 @@ Death, who
    A sage, perfect in insight, Arahat,  
    In these three modes of knowledge threefold wise.
 
-<span class="small">{1. See below in the [Introduction](dob-05in) to the
+<span class="small">{1. See below in the [Introduction](dob-05in.md) to the
 next Sutta.}</span>
 
 <span id="p. 140">{p. 140}</span>
@@ -294,4 +294,4 @@ character and wisdom.
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: IV. The So*n*ada*nd*a Sutta](dob-04tx)
+[Return to top](#top)   [Next: IV. The So*n*ada*nd*a Sutta](dob-04tx.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](cen2eng)  [Next](cen4eng) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](cen2eng)  [Next](cen4eng.md) 
 
 ------------------------------------------------------------------------
 
@@ -607,6 +607,6 @@ When the envious one will die from an arrow shot.
 
 ------------------------------------------------------------------------
 
-[Next: Century IV](cen4eng)
+[Next: Century IV](cen4eng.md)
 
   

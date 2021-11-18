@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe17)  [Next](poe19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe17)  [Next](poe19.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ rest is episode.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. Further rules for the Tragic Poet](poe19)
+[Next: XVIII. Further rules for the Tragic Poet](poe19.md)

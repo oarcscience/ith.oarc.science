@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo34)  [Next](sdo36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo34)  [Next](sdo36.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ elaborate event.
 
 ------------------------------------------------------------------------
 
-[Next: Order of Ceremony](sdo36)
+[Next: Order of Ceremony](sdo36.md)

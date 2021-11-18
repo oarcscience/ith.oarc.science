@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](aww05)  [Next](aww07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](aww05)  [Next](aww07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of Worldly Wisdom*, by Balthasar Gracian, tr. by Joseph Jacobs,
 \[1892\], at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ a
 
 <span id="page_xxxvi">p. xxxvi</span>
 
-sufficient instance of this. <span id="fr_11"></span>[1](#fn_11)
+sufficient instance of this. <span id="fr_11"></span>[1](#fn_11.md)
 Curiously enough, Dr. Smiles's book has had its greatest success in
 Italy, where it has given rise to quite a *letteratura selfelpista*, as
 the Italians themselves call it. Or rather not curiously, for if you
@@ -100,7 +100,7 @@ but their advantage in him and by him" (cclii).
 "Never have a companion who casts you in the shade" (clii).
 
 "Never become paradoxical in order to avoid the trite" (cxliii). <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 "Do not show your wounded finger" (cxlv).
 
@@ -126,7 +126,7 @@ friend Lastanosa. For Gracian had written at least two series of works
 in which this contrast was represented by separate books. Two of these
 describing the qualities of the Hero and the Prudent Man (*El Heroe* and
 *El Discreto*) were published and are represented in the
-*Oráculo*. <span id="fr_13"></span>[1](#fn_13) Two others dealing with
+*Oráculo*. <span id="fr_13"></span>[1](#fn_13.md) Two others dealing with
 the Gallant and the Cautious Man (*El Galante* and *El Varon Atento*)
 are referred to by Lastanosa in the preface to *El Discreto*, and are
 also doubtless represented in the book before us. One may guess that the
@@ -185,7 +185,7 @@ anecdotage). Among them is a book of *Aforismos* by Antonio Perez, whose
 
 <span id="page_xlii">p. xlii</span>
 
-character. <span id="fr_14"></span>[1](#fn_14) The former are
+character. <span id="fr_14"></span>[1](#fn_14.md) The former are
 undoubtedly of the same style as Gracian, and probably influenced him,
 though, as they are aphorisms and not maxims, I have not been able to
 quote parallels in the Notes. Thus "Una obra vale millares de graçias"
@@ -195,7 +195,7 @@ see Lytton's "The pen is mightier than the sword" anticipated by Perez'
 "Speech was given us to conceal our thoughts" in Perez' "Las palabras,
 vestido de los conçeptos" (ii. 130). This last example has all Gracian's
 terseness, while Perez' "Amigos deste Siglo, rostros humanos, coraçones
-de fieras" <span id="fr_15"></span>[2](#fn_15) (ii. 71) has both
+de fieras" <span id="fr_15"></span>[2](#fn_15) (ii. 71.md) has both
 terseness and cynicism. Certainly the only other work in Spanish or any
 other literature preceding Gracian on anything like the same lines is
 this book of *Aforismos* by Antonio Perez.
@@ -224,7 +224,7 @@ even his novels.
 
 Perhaps, after all, the weariness to which I refer may be due to the
 cautious tone of the book. To succeed one must be prudent; <span
-id="fr_16"></span>[1](#fn_16) that is the great moral of the book, and
+id="fr_16"></span>[1](#fn_16.md) that is the great moral of the book, and
 if so, does it seem worth while to succeed? If life is to be
 
 <span id="page_xliv">p. xliv</span>
@@ -236,7 +236,7 @@ your luck, know your unlucky days, and so forth. Is all this a
 confession that after all life is too complex a game for any rules to be
 of much use? Granted, but there is one thing certain about life, and
 that is put by Goethe in the lines which I, following
-Schopenhauer, <span id="fr_17"></span>[1](#fn_17) have placed at the
+Schopenhauer, <span id="fr_17"></span>[1](#fn_17.md) have placed at the
 head of my translation. One must be either hammer or anvil in this
 world, and too great an excess of idealism only means that the unideal
 people shall rule the world. To guard against both extremes we have the
@@ -274,31 +274,31 @@ Manual* has much wisdom in small compass and well put.
 
 ### Footnotes
 
-<span id="fn_11"></span>[xxxvi:1](aww06.htm#fr_11) One of our public
+<span id="fn_11"></span>[xxxvi:1](aww06.htm#fr_11.md) One of our public
 men, I have been told, is known among his friends by the sobriquet of
 "Self-help by smiles."
 
-<span id="fn_12"></span>[xxxviii:1](aww06.htm#fr_12) Mr. Oscar Wilde's
+<span id="fn_12"></span>[xxxviii:1](aww06.htm#fr_12.md) Mr. Oscar Wilde's
 attention may be respectfully called to this maxim.
 
-<span id="fn_13"></span>[xxxix:1](aww06.htm#fr_13) See *supra*, [p.
-xxi](aww04.htm#page_xxi). and notes.
+<span id="fn_13"></span>[xxxix:1](aww06.htm#fr_13.md) See *supra*, [p.
+xxi](aww04.htm#page_xxi.md). and notes.
 
-<span id="fn_14"></span>[xlii:1](aww06.htm#fr_14) On Perez see Mr.
+<span id="fn_14"></span>[xlii:1](aww06.htm#fr_14.md) On Perez see Mr.
 Froude's paper in his *Spanish Story of the Armada*. Perez was over in
 England and was of the Sidney set.
 
-<span id="fn_15"></span>[xlii:2](aww06.htm#fr_15) "Friends nowadays,
+<span id="fn_15"></span>[xlii:2](aww06.htm#fr_15.md) "Friends nowadays,
 human faces, hearts of brutes."
 
-<span id="fn_16"></span>[xliii:1](aww06.htm#fr_16) The second title of
+<span id="fn_16"></span>[xliii:1](aww06.htm#fr_16.md) The second title of
 the book is *Arte de Prudencia*, which I have adopted as the main title
 of my version.
 
-<span id="fn_17"></span>[xliv:1](aww06.htm#fr_17) Gracian was his
+<span id="fn_17"></span>[xliv:1](aww06.htm#fr_17.md) Gracian was his
 favourite author; "Mein Gracian" he called him on one occasion
 (*Memorabilien*, p. 505).
 
 ------------------------------------------------------------------------
 
-[Next: Bibliographical Appendix](aww07)
+[Next: Bibliographical Appendix](aww07.md)

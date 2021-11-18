@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err09)  [Next](err11) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err09)  [Next](err11.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ of the silk-worms shall have passed he will go forth among the
 noted down as to Tit'uno the following:--
 
 "This spirit did marvellous things in the ancient time when
-Jupiter <span id="fr_15"></span>[1](#fn_15) was wont to let loose his
+Jupiter <span id="fr_15"></span>[1](#fn_15.md) was wont to let loose his
 thunderbolts over great plains, destroying everything. Then the people
 invoked this spirit, saying:--
 
@@ -458,7 +458,7 @@ spirits who came flying in late after the rest. The first of these is
 
 "JANO is a spirit with two heads, one of a Christian (*i.e.*, human),
 and one of an animal, and yet he hath a good heart, especially that of
-the animal, <span id="fr_16"></span>[1](#fn_16) and whoever desires a
+the animal, <span id="fr_16"></span>[1](#fn_16.md) and whoever desires a
 favour from them should invoke (*deve pregarle*) both, and to do this he
 must take two cards of a *tarocco* pack, generally the wheel of fortune
 and the *diavolo indiavolato*, and put them on the iron (frame) of the
@@ -665,7 +665,7 @@ thus described:--
  
 
 "Talena is a female spirit which causes terror in the night. She is clad
-in white." <span id="fr_17"></span>[1](#fn_17)
+in white." <span id="fr_17"></span>[1](#fn_17.md)
 
  
 
@@ -738,16 +738,16 @@ one hundred and fifty pages.
 
 ### Footnotes
 
-<span id="fn_15"></span>[122:1](err10.htm#fr_15) This was written by a
+<span id="fn_15"></span>[122:1](err10.htm#fr_15.md) This was written by a
 youth who had received some education, hence the association with
 *Giove* or Jove. Here the latter is *deus ex machina*.
 
-<span id="fn_16"></span>[130:1](err10.htm#fr_16) There is manifest
+<span id="fn_16"></span>[130:1](err10.htm#fr_16.md) There is manifest
 confusion here.
 
-<span id="fn_17"></span>[133:1](err10.htm#fr_17) The manuscript being
+<span id="fn_17"></span>[133:1](err10.htm#fr_17.md) The manuscript being
 here illegible it was mislaid, hence a portion is wanting.
 
 ------------------------------------------------------------------------
 
-[Next: Part One: Chapter VIII--FLORIA](err11)
+[Next: Part One: Chapter VIII--FLORIA](err11.md)

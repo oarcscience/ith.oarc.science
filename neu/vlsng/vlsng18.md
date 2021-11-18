@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng17)  [Next](vlsng19) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng17)  [Next](vlsng19.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ ENDNOTES:
 ------------------------------------------------------------------------
 
 [Next: Chapter XVII: Of Sigurd's Avenging of Sigmund his
-Father.](vlsng19)
+Father.](vlsng19.md)

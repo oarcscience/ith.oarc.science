@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn50)  [Next](rmn52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn50)  [Next](rmn52.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ interpretation the crown of leaves which may be observed, though not
 without some difficulty, on the head of the supposed Bacchus, as if it
 were not notorious that in erotic subjects the ancients usually
 represented their actors crowned with flowers and leaves. <span
-id="fr_48"></span>[1](#fn_48) The third person seen in the background
+id="fr_48"></span>[1](#fn_48.md) The third person seen in the background
 seems to us triumphantly to refute the assertion, seeing that Bacchus
 surprised Ariadne alone in a desert island. We look upon the following
 explanation as a more probable one:--
@@ -48,7 +48,7 @@ Nor could my kindness your compassion move,
 Nor plighted vows, nor dearer bonds of love?  
 Or is the death of a despairing queen  
 Not worth preventing, though too well foreseen?" <span
-id="fr_49"></span>[1](#fn_49)
+id="fr_49"></span>[1](#fn_49.md)
 
 However the case may be, and if we take this to be merely a domestic
 scene, the third personage may be supposed to be a female musician,
@@ -59,7 +59,7 @@ Epithalamium.
 
 ### Footnotes
 
-<span id="fn_48"></span>[98:1](rmn51.htm#fr_48) The Greeks and Romans,
+<span id="fn_48"></span>[98:1](rmn51.htm#fr_48.md) The Greeks and Romans,
 in their pleasure parties, crowned each other with the flowers which the
 season produced, especially with roses, to temper or dissipate the fumes
 of wine. They were first fastened to a linen or flaxen fillet, with
@@ -68,9 +68,9 @@ consequence of drunkenness. A crown, interwoven with roses, violets, and
 ivy, was held to be the most salutary remedy against the heat of
 wine."-(J. B. LEVEE, *in Plauto*.)
 
-<span id="fn_49"></span>[99:1](rmn51.htm#fr_49) ÆN. iv. (*Dryden's
+<span id="fn_49"></span>[99:1](rmn51.htm#fr_49.md) ÆN. iv. (*Dryden's
 Translation*).
 
 ------------------------------------------------------------------------
 
-[Next: Plate LI: Spinthria](rmn52)
+[Next: Plate LI: Spinthria](rmn52.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa04)  [Next](fiwa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa04)  [Next](fiwa06.md) 
 
 ------------------------------------------------------------------------
 
@@ -296,4 +296,4 @@ will be considered in the following chapters.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV :Spiritual Beings in African Religion](fiwa06)
+[Next: Chapter IV :Spiritual Beings in African Religion](fiwa06.md)

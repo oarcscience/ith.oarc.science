@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku47)  [Next](tku49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku47)  [Next](tku49.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ Judgment; and thus also are Her internal parts disposed.
 
 962\. We have learned that the Male hath been conformed on His side
 (otherwise, from His heart), in 248  <span
-id="fr_170"></span>[1](#fn_169) members; of which some are within, some
+id="fr_170"></span>[1](#fn_169.md) members; of which some are within, some
 without; some Mercies, some Judgments.
 
 963\. All which pertain unto Judgment, cohere in Judgment around the
@@ -86,11 +86,11 @@ side, which are the five judgments
 <span id="page_231">p. 231</span>
 
 and these five judgments are extended into 248 paths. <span
-id="fr_171"></span>[1](#fn_170)
+id="fr_171"></span>[1](#fn_170.md)
 
 965\. And thus have we learned: the voice in the Woman is uncovered; the
 hair in the Woman is uncovered; the leg <span
-id="fr_172"></span>[2](#fn_171) in the Woman is uncovered; the hand in
+id="fr_172"></span>[2](#fn_171.md) in the Woman is uncovered; the hand in
 the Woman is uncovered; the foot in the Woman is uncovered.
 
 966\. And also, furthermore, concerning these two our companions have
@@ -104,7 +104,7 @@ Him forma partis tegandæ puræ, at illud est membrum purum.
 pendent in orificio membri hujus quad dicitur, I, *Yod*.
 
 969\. Et cum detegitur Yod, orificium membri; detegitur Benignitas
-superna. <span id="fr_173"></span>[3](#fn_172)"
+superna. <span id="fr_173"></span>[3](#fn_172.md)"
 
 970\. And this member is the Benignity, quo nomine
 
@@ -115,7 +115,7 @@ until I, *Yod*, orificii membri, is uncovered.
 
 971\. And come, behold, Abraham is not called perfect in that Benignity,
 until I, *Yod*, of the member is uncovered; but when that is uncovered
-he is called perfect. <span id="fr_174"></span>[1](#fn_173)
+he is called perfect. <span id="fr_174"></span>[1](#fn_173.md)
 
 972\. This is that which is written: "Walk before Me and be thou
 perfect; really and truly perfect," Gen. xvii. i.
@@ -158,10 +158,10 @@ consisting in both aspects.
 
 982\. And therefore in all the crowns (*the former state of things*) was
 not permanent, before that the conformations of the King <span
-id="fr_175"></span>[1](#fn_174) were prepared by the Ancient of the
+id="fr_175"></span>[1](#fn_174.md) were prepared by the Ancient of the
 Ancient Ones, so that He might construct the worlds, and form (*their*)
 conformations, for the purpose of establishing that Woman, <span
-id="fr_176"></span>[2](#fn_175) so that She might be mitigated.
+id="fr_176"></span>[2](#fn_175.md) so that She might be mitigated.
 
 983\. Until the supernal Benignity could descend, and then the
 conformations of the Woman became permanent, and were mitigated by this
@@ -176,7 +176,7 @@ were not mitigated until all were formed, and that Benignity went forth.
 
 986\. Therefore is it said, "And he died," because they were not
 permanent, neither was Judgment mitigated through Judgment <span
-id="fr_177"></span>[3](#fn_176)
+id="fr_177"></span>[3](#fn_176.md)
 
 987\. But, and if thou sayest: "That if it be thus that all are
 judgments, wherefore is it written, Gen. xxxvi. 37:
@@ -184,7 +184,7 @@ judgments, wherefore is it written, Gen. xxxvi. 37:
 <span id="page_234">p. 234</span>
 
 \[paragraph continues\] 'And Saul of Rechoboth <span
-id="fr_178"></span>[1](#fn_177) by the waters reigned in his stead,' for
+id="fr_178"></span>[1](#fn_177.md) by the waters reigned in his stead,' for
 this man truly doth not appear (*to symbolize*) a judgment? "
 
 988\. We have learned that all denote judgment, excepting one, which
@@ -195,7 +195,7 @@ one side or aspect), an order which is expanded, and goeth forth from
 Rechoboth by the waters.
 
 990\. And this is Binah, wherefrom are opened the fifty gates <span
-id="fr_179"></span>[2](#fn_178) in the aspects of the world of lights
+id="fr_179"></span>[2](#fn_178.md) in the aspects of the world of lights
 and luminaries.
 
 991\. This is what is said concerning Rechoboth by the waters. And they
@@ -207,7 +207,7 @@ the Woman.
 concerning whom it is said: "And *Hadar*, HDR, reigned after him."
 
 993\. Who is Hadar? The Supernal Benignity. <span
-id="fr_180"></span>[3](#fn_179)
+id="fr_180"></span>[3](#fn_179.md)
 
 994\. "And the name of his city was POV, *Paau* (*crying aloud*)." What
 is Paau? Through this the man prayeth who is worthy of the Holy Spirit.
@@ -226,27 +226,27 @@ EL, MChI TB AL") mitigation of the one by the other.
 996\. "The daughter of MTRD, *Matred*," the elaborations, on the side of
 Severity: "the daughter of MIZHB, *Mezahab*;" that is they have been
 firmly contempered and intertwined together--namely MI, *Me*,
-Mercury, <span id="fr_181"></span>[1](tku49.htm#fn_180) and ZHB,
+Mercury, <span id="fr_181"></span>[1](tku49.htm#fn_180.md) and ZHB,
 *Zahab*, Gold, Mercy, and Judgment.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_169"></span>[230:1](tku48.htm#fr_170) The number of 248 =
+<span id="fn_169"></span>[230:1](tku48.htm#fr_170.md) The number of 248 =
 RChM, *Rechem* = Mercy + 248; thus conveying this idea in the number.
 
-<span id="fn_170"></span>[231:1](tku48.htm#fr_171)
+<span id="fn_170"></span>[231:1](tku48.htm#fr_171.md)
 
 <span id="img_23100"></span> ![](img/23100.jpg)
 
 For five is H, *He*, the number of the feminine letter in the
 Tetragrammaton, the number also of the Microcosm or Lesser World, the
-symbol or sign of which is the [Pentagram](errata.htm#8). The 248 paths
+symbol or sign of which is the [Pentagram](errata.htm#8.md). The 248 paths
 into which the five judgments are extended are the correlates of those
 of mercy.
 
-<span id="fn_171"></span>[231:2](tku48.htm#fr_172) This word is ShVQ,
+<span id="fn_171"></span>[231:2](tku48.htm#fr_172.md) This word is ShVQ,
 *Shoq*, in the original. Fuerst translates it Leg, especially the part
 from knee to ankle. So does Gesenius in his Lexicon; but in his large
 Hebrew and Chaldee Thesaurus it is, apparently by an oversight, omitted.
@@ -256,13 +256,13 @@ crura nuda. Hinc in more positum apud Judæos est, ut ipsorum mulieres,
 et puellæ demissis ad talos vestibus verecundiæ caussa utantur, ne viros
 ad libidinem excitent." ("Lexicon Chaldæo-Rabbinicum," art. ShVQ.)
 
-<span id="fn_172"></span>[231:3](tku48.htm#fr_173) I have thought it
+<span id="fn_172"></span>[231:3](tku48.htm#fr_173.md) I have thought it
 advisable to retain this piece in the Latin, as it will be equally
 intelligible in that language to the ordinary student; and it is not so
 well fitted for expression in English. It contains the symbolism of the
 genitalia.
 
-<span id="fn_173"></span>[232:1](tku48.htm#fr_174) This apparently
+<span id="fn_173"></span>[232:1](tku48.htm#fr_174.md) This apparently
 refers to the qabalistical symbolism of the changing of the names of
 Abram and Sarai into Abraham and Sarah; ABRM and ShRI into ABRHM and
 ShRH; ABRM = 243 is made into ABRHM = 248 by addition of the number 5,
@@ -273,18 +273,18 @@ numbers of Abram and Sarai, 243+510 = 753. which number is also obtained
 by the addition of Abraham and Sarah, 248+505 = 753; so that the total
 numeration of the two names remains unchanged.
 
-<span id="fn_174"></span>[233:1](tku48.htm#fr_175) Microprosopus.
+<span id="fn_174"></span>[233:1](tku48.htm#fr_175.md) Microprosopus.
 
-<span id="fn_175"></span>[233:2](tku48.htm#fr_176) Malkuth, the tenth
+<span id="fn_175"></span>[233:2](tku48.htm#fr_176.md) Malkuth, the tenth
 Sephira, the Kingdom, the Queen, the Bride of Microprosopus; the Isis.
 Rhea, Ceridwen, Hertha, &c., of other religions; Nature, the Great
 Mother of us all.
 
-<span id="fn_176"></span>[233:3](tku48.htm#fr_177) Compare with this the
+<span id="fn_176"></span>[233:3](tku48.htm#fr_177.md) Compare with this the
 meaning of the names of the two Pillars at the entrance to King
 Solomon's Temple.
 
-<span id="fn_177"></span>[234:1](tku48.htm#fr_178) It is not at first
+<span id="fn_177"></span>[234:1](tku48.htm#fr_178.md) It is not at first
 sight clear why Saul of Rechoboth should be taken exception to as
 symbolizing judgment. But if we examine the word RChVBVTh, *Rechoboth*,
 by Gematria, we shall find a reason. For R + Ch +V+ B + V + Th = 200 + 9
@@ -292,10 +292,10 @@ by Gematria, we shall find a reason. For R + Ch +V+ B + V + Th = 200 + 9
 of water," which is also "Rechoboth by the waters." And "the waters" are
 Binah, the third Sephira.
 
-<span id="fn_178"></span>[234:2](tku48.htm#fr_179) *Vide ante* in the
+<span id="fn_178"></span>[234:2](tku48.htm#fr_179.md) *Vide ante* in the
 "Book of Concealed Mystery."
 
-<span id="fn_179"></span>[234:3](tku48.htm#fr_180) For HDR = 213. which
+<span id="fn_179"></span>[234:3](tku48.htm#fr_180.md) For HDR = 213. which
 = ChSD OLAH DAL, *Chesed Aulaeh Da-El*, the Supernal Mercy of El = 213
 also. And Chesed is the fourth Sephira, which succeeds Binah the third,
 as Hadar succeeds Saul of Rechoboth by the waters.
@@ -304,4 +304,4 @@ as Hadar succeeds Saul of Rechoboth by the waters.
 
 [Next: Chapter XLI: Concerning the Separate Members of Each
 Personification, and Especially Concerning the arms of
-Microprosopus](tku49)
+Microprosopus](tku49.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp19)  [Next](dtp21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp19)  [Next](dtp21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -60,7 +60,7 @@ looking back-wards gazed upon a dissolving view. As an aside, the
 currents derived from the Night-Side of Nature permitted the attainment
 of the same speed as that of the diurnal rotation of the earth, *e. g.*:
 supposing we were at an altitude of ten miles, and the time the instant
-of the sun's meridian; at that [meridian](errata.htm#8) moment we could
+of the sun's meridian; at that [meridian](errata.htm#8.md) moment we could
 remain indefinitely, bows on, while the earth revolved beneath, at
 approximately seventeen miles every minute. Or, the reverse direction
 keys could be set, and our vailx would speed away from where it was
@@ -762,4 +762,4 @@ it so that comparison was impossible--
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: Rai Ni Incal--Ashes To Ashes](dtp21)
+[Next: Chapter XVII: Rai Ni Incal--Ashes To Ashes](dtp21.md)

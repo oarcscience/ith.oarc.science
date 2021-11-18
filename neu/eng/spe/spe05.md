@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe04)  [Next](spe06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe04)  [Next](spe06.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,14 +102,14 @@ indulged in it, two years for a deacon, and three years for a priest.
 Archbishop Egbert, of York, improved on this by assigning seven years of
 penance for the like offence on an episcopal offender. King Edgar's
 canons forbade a priest to hunt, hawk, or dice, but to study books as
-becometh his order. <span id="fr_97"></span>[1](#fn_97)
+becometh his order. <span id="fr_97"></span>[1](#fn_97.md)
 
  
 
 <span id="img_pl01"></span>
 
 [![Hunting (1)](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 Hunting (1)  
 
  
@@ -126,7 +126,7 @@ but seem to have been altogether unprecedented; and these may be deemed
 a sufficient proof of his strong attachment to his favourite pastime,
 for, in other respects, his edicts breathed an appearance of mildness
 and regard for the comforts of the people. <span
-id="fr_98"></span>[1](#fn_98)
+id="fr_98"></span>[1](#fn_98.md)
 
 HUNTING DURING THE RESTORATION OF THE SAXONS.--After the expulsion of
 the Danes, and during the short restoration of the Saxon monarchy, the
@@ -141,20 +141,20 @@ who succeeded him, was so fond of his hawk and his hounds, that he
 rarely travelled without them. He is so represented upon the famous
 tapestry of Bayeux, with his hounds by his side and a hawk upon his
 hand, when brought before William duke of Normandy. <span
-id="fr_99"></span>[2](#fn_99) Travelling thus accompanied, was not a
+id="fr_99"></span>[2](#fn_99.md) Travelling thus accompanied, was not a
 singular trait in the character of a nobleman at this period.
 
 The representation in the centre of the first plate of a Saxon
 chieftain, attended by his huntsman and a couple of hounds, pursuing the
 wild swine in a forest, is taken from a painting of the ninth century in
-the Cotton Library. <span id="fr_100"></span>[3](#fn_100)
+the Cotton Library. <span id="fr_100"></span>[3](#fn_100.md)
 
 At the top of the same plate is a representation of the manner of
 attacking the wild boar, from a manuscript written about the
 commencement of the fourteenth century, in the possession of Mr Francis
 Douce; whilst the unearthing of a fox, at the bottom of the plate, is
 from a manuscript in the Royal Library, <span
-id="fr_101"></span>[4](#fn_101) written about the same time as the
+id="fr_101"></span>[4](#fn_101.md) written about the same time as the
 latter.
 
 HUNTING AMONG THE NORMANS OPPRESSIVELY EXERCISED.--During the tyrannical
@@ -169,7 +169,7 @@ least regard being
 <span id="page_4">p. 4</span>
 
 paid to the miseries of the suffering inhabitants, or the cause of
-religion. <span id="fr_102"></span>[1](#fn_102) These despotic
+religion. <span id="fr_102"></span>[1](#fn_102.md) These despotic
 proceedings were not confined to royalty, as may be proved from good
 authority. I need not mention the New Forest, in Hampshire, made by the
 elder William, or the park at Woodstock in Oxfordshire, seven miles in
@@ -198,7 +198,7 @@ addressing himself to his unfortunate countrymen, "If one of these great
 and merciless hunters shall pass by your habitation, bring forth hastily
 all the refreshment you have in your house, or that you can readily buy,
 or borrow from your neighbour; that you may not be involved in ruin, or
-even accused of treason." <span id="fr_103"></span>[2](#fn_103) If this
+even accused of treason." <span id="fr_103"></span>[2](#fn_103.md) If this
 picture of Norman tyranny be correct, it exhibits a melancholy view of
 the sufferings to which the lower classes of the people were exposed; in
 short, it appears that these haughty Nimrods considered the murder of a
@@ -210,7 +210,7 @@ attached to the sports of the field; and his partiality for fine horses,
 hounds, and hawks, is evident, from his frequently receiving such
 animals, by way of payment, instead of money, for the renewal of grants,
 fines, and forfeitures, belonging to the crown. <span
-id="fr_104"></span>[3](#fn_104)
+id="fr_104"></span>[3](#fn_104.md)
 
 In the reign of Edward I. this favourite amusement was reduced to a
 perfect science, and regular rules established for its practice; these
@@ -226,7 +226,7 @@ fuller concerning them in the course of this chapter.
 Edward III. took so much delight in hunting, that even at the time he
 was engaged in war with France, and resident in that country, he had
 with him in his army sixty couple of stag hounds, and as many hare
-hounds, <span id="fr_105"></span>[1](#fn_105) and every day he amused
+hounds, <span id="fr_105"></span>[1](#fn_105.md) and every day he amused
 himself with hunting or hawking.
 
 It also appears that many of the great lords in the English army had
@@ -236,13 +236,13 @@ the fact, that Gaston earl of Foix, a foreign nobleman contemporary with
 king Edward, kept upwards of six hundred dogs in his castle for the
 purpose of hunting. He had four greyhounds called by the romantic names
 of Tristram, Hector, Brute, and Roland. <span
-id="fr_106"></span>[2](#fn_106)
+id="fr_106"></span>[2](#fn_106.md)
 
 \* James I. preferred the amusement of hunting to hawking or shooting.
 It is said of this monarch that he divided his time betwixt his
 standish, his bottle, and his hunting; the last had his fair weather,
 the two former his dull and cloudy. <span
-id="fr_107"></span>[3](#fn_107) In "The King's Christian Duties," which
+id="fr_107"></span>[3](#fn_107.md) In "The King's Christian Duties," which
 James wrote for his son, he says: "I cannot omit hare hunting, namely
 with running hounds, which is the most honourable and noblest thereof;
 for it is a thievish form of hunting to shoot with guns or bows, and
@@ -253,7 +253,7 @@ his favourite amusement; in 1619, when only able to be carried in a
 chair or litter, he came to Theobalds, and would have the deer mustered
 before him; and in 1624, contrary to the order of his physicians, he
 left Royston to see some hawks fly at Newmarket. <span
-id="fr_108"></span>[4](#fn_108)
+id="fr_108"></span>[4](#fn_108.md)
 
 It would be an endless, as well as a needless task, to quote all the
 passages that occur in the poetical and prose writings of the last three
@@ -266,7 +266,7 @@ Man-hod I am, therefore I me delyght
 To hunt and hawke, to nourishe up and fede  
 The greyhounde to the course, the hawke to th’ flight,  
 And to bestryde a good and lusty stede. <span
-id="fr_109"></span>[5](#fn_109)
+id="fr_109"></span>[5](#fn_109.md)
 
 These pursuits are said by later writers to have been destructive to the
 fortunes of many inconsiderate young heirs, who, desirous of emulating
@@ -294,7 +294,7 @@ deer;--but, if he was taken in the fact of stealing venison belonging to
 the king, he should be subjected to a heavy fine; and, in default of
 payment, be imprisoned for one year and one day; and after the
 expiration of that time, find surety for his good behaviour, or be
-banished the land. <span id="fr_110"></span>[1](#fn_110) This charter
+banished the land. <span id="fr_110"></span>[1](#fn_110.md) This charter
 was afterwards confirmed by his son Henry III. and the succeeding
 monarchs.
 
@@ -313,7 +313,7 @@ could not however, at any rate, adds he, mean, "that the ecclesiastics
 are to hunt the deer themselves, for they suppose them to be no hunters,
 as the earls and barons might be; and therefore it is not said, that he
 who claims the venison shall blow the horn, but only that he shall cause
-it to be sounded. <span id="fr_111"></span>[2](#fn_111)
+it to be sounded. <span id="fr_111"></span>[2](#fn_111.md)
 
 The propensity of the clergy to follow the secular pastimes, and
 especially those of hunting and hawking, is frequently reprobated by the
@@ -324,7 +324,7 @@ monks of pride, because they rode on coursers like knights, having their
 hawks and hounds with them. In the same tale he severely reproaches the
 priests for their dissolute manners, saying that many of them thought
 more upon hunting with their dogs, and blowing the horn, than of the
-service they owed to God. <span id="fr_112"></span>[3](#fn_112)
+service they owed to God. <span id="fr_112"></span>[3](#fn_112.md)
 
 The prevalence of these excesses occasioned the restrictions, contained
 in an edict established in the thirteenth year of Richard II., which
@@ -337,7 +337,7 @@ pounds, from keeping a greyhound, or any other dog for the purpose of
 hunting; neither might they use ferrits, hayes, nets, hare-pipes, cords,
 or other engines to take or destroy the deer, hares, or rabbits, under
 the penalty of one year's imprisonment. <span
-id="fr_113"></span>[1](#fn_113) The dignified clergy were not affected
+id="fr_113"></span>[1](#fn_113.md) The dignified clergy were not affected
 by this statute, but retained their ancient privileges, which appear to
 have been very extensive. By the game law of Cnut the Dane they were
 permitted to hunt in the forests belonging to the crown; and these
@@ -348,7 +348,7 @@ force the canon law, which strictly forbade the clergy to spend their
 time in hunting and hawking; and for this purpose, having obtained
 permission from Hugo Pertroleonis, the Pope's legate, he caused a law to
 be made, authorising him to convene the offenders before the secular
-judges, and there to punish them. <span id="fr_114"></span>[2](#fn_114)
+judges, and there to punish them. <span id="fr_114"></span>[2](#fn_114.md)
 The establishment of this edict was probably more to show his power,
 than really to restrain them from hunting.
 
@@ -359,15 +359,15 @@ in this fashionable pursuit. Walter, bishop of Rochester, who lived in
 the thirteenth century, was an excellent hunter, and so fond of the
 sport, that at the age of fourscore he made hunting his sole employment,
 to the total neglect of the duties of his office. <span
-id="fr_115"></span>[3](#fn_115) In the succeeding century an abbot of
+id="fr_115"></span>[3](#fn_115.md) In the succeeding century an abbot of
 Leicester surpassed all the sportsmen of the time in the art of hare
-hunting; <span id="fr_116"></span>[4](#fn_116) and even when these
+hunting; <span id="fr_116"></span>[4](#fn_116.md) and even when these
 dignitaries were travelling from place to place, upon affairs of
 business, they usually had both hounds and hawks in their train.
 Fitzstephen assures us that Thomas à Becket, being sent as ambassador
 from Henry II. to the court of France, assumed the state of a secular
 potentate; and took with him dogs and hawks of various sorts, such as
-were used by kings and princes. <span id="fr_117"></span>[5](#fn_117)
+were used by kings and princes. <span id="fr_117"></span>[5](#fn_117.md)
 
 The clergy of rank, at all times, had the privilege of hunting in their
 own parks and inclosures; and therefore, that they might not be
@@ -375,9 +375,9 @@ prevented from following this favourite pastime, they took care to have
 such receptacles for game belonging to their houses. At the time of the
 Reformation, the See of Norwich, only, was in the possession of no less
 than thirteen parks, well stocked with deer and other animals for the
-chase. <span id="fr_118"></span>[6](#fn_118) At the end of a book of
+chase. <span id="fr_118"></span>[6](#fn_118.md) At the end of a book of
 Homilies in MS., in the Cotton Library, <span
-id="fr_119"></span>[7](#fn_119) written about the reign of Henry VI., is
+id="fr_119"></span>[7](#fn_119.md) written about the reign of Henry VI., is
 a poem containing instructions to priests in general, and requiring
 them, among other things, not to engage in "hawkynge, huntynge, and
 dawnsynge."
@@ -394,7 +394,7 @@ they joined in it, and shot at the animals as they passed by them, with
 arrows. Agreeable to these manners, which custom reconciled to the fair
 sex, most of the heroines of romance are said to be fond of the sports
 of the field. In an old poem entitled the "Squyer of lowe degre," <span
-id="fr_120"></span>[1](#fn_120) the king of Hungary promises his
+id="fr_120"></span>[1](#fn_120.md) the king of Hungary promises his
 daughter that in the morning she shall go with him on a hunting party,
 arrayed most gorgeously, and riding in a chariot covered with red
 velvet, drawn by
@@ -423,7 +423,7 @@ The harehound, or greyhound, was considered as a very valuable present
 in former times, and especially among the ladies, with whom it appears
 to have been a peculiar favourite; and therefore in another metrical
 romance, probably more ancient than the former, called "Sir
-Eglamore," <span id="fr_121"></span>[2](#fn_121) a princess tells the
+Eglamore," <span id="fr_121"></span>[2](#fn_121.md) a princess tells the
 knight that if he was inclined to hunt, she would, as an especial mark
 of her favour, give him an excellent greyhound, so swift that no deer
 could escape from his pursuit--
@@ -439,7 +439,7 @@ It is evident, however, that the ladies had hunting parties by
 themselves. An illustration in a manuscript of the early part of the
 fourteenth century reproduced on the second plate depicts them in the
 open fields winding the horn, rousing the game, and pursuing it, without
-any other assistance. <span id="fr_122"></span>[3](#fn_122) We may also
+any other assistance. <span id="fr_122"></span>[3](#fn_122.md) We may also
 observe, that, upon these occasions, the female Nimrods dispensed with
 the method of riding best suited to the modesty of the sex, and sat
 astride on the saddle like the men; but this indecorous custom, I trust,
@@ -451,7 +451,7 @@ were most delighted with these
 <span id="img_pl02"></span>
 
 [![Hunting (2)](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 Hunting (2)  
 
  
@@ -466,11 +466,11 @@ rise to many severe and ludicrous sarcasms. The only argument in favour
 of this habit, was decency in case of an accident. But it was observed
 that such accidents ought to be prevented, in a manner more consistent
 with the delicacy of the sex, that is, by refraining from those
-dangerous recreations. <span id="fr_123"></span>[1](#fn_123)
+dangerous recreations. <span id="fr_123"></span>[1](#fn_123.md)
 
 The hunting dresses, as they appeared at the commencement of the
 fifteenth century, are given from a manuscript of that time in the
-Harleian Collection, <span id="fr_124"></span>[2](#fn_124) at the top of
+Harleian Collection, <span id="fr_124"></span>[2](#fn_124.md) at the top of
 the second plate.
 
 Queen Elizabeth was extremely fond of the chase, and the nobility who
@@ -480,14 +480,14 @@ frequently indulged herself in following of the hounds, and hunted the
 red and fallow deer, the hare, and the otter. "Her majesty," says a
 courtier, writing to Sir Robert Sidney, "is well and excellently
 disposed to hunting, for every second day she is on horseback and
-continues the sport long." <span id="fr_125"></span>[3](#fn_125) At this
+continues the sport long." <span id="fr_125"></span>[3](#fn_125.md) At this
 time her majesty had just entered the seventy-seventh year of her age,
 and she was then at her palace at Outlands. Often, when she was not
 disposed to hunt herself, she was entertained with the sight of the
 pastime. At Cowdrey, in Sussex, the seat of Lord Moritecute, A.D. 1591,
 one day after dinner her grace saw from a turret, "sixteen bucks all
 having fayre lawe, pulled downe with greyhounds in a laund or
-lawn." <span id="fr_126"></span>[4](#fn_126)
+lawn." <span id="fr_126"></span>[4](#fn_126.md)
 
 \* At the close of the eighteenth century Hertfordshire knew a
 distinguished lady huntress who rivalled Queen Elizabeth in her keenness
@@ -497,14 +497,14 @@ hounds, which were called during her reign the Hatfield hounds. It was
 not until Lady Salisbury was seventy-eight years of age that she gave up
 the mistresship and ceased to follow the foxhounds; even then she said
 that she thought she was good enough to hunt with the harriers. <span
-id="fr_127"></span>[5](#fn_127)
+id="fr_127"></span>[5](#fn_127.md)
 
 PRIVILEGES OF THE CITIZENS OF LONDON TO HUNT AND HAWK.--The citizens of
 London were permitted to hunt and hawk in certain districts. And one of
 the clauses, in the royal charter granted to them by Henry I., runs to
 this purport: "The citizens of London may have chases, and hunt as well,
 and as fully, as their ancestors have had; that is to say, in the
-Chiltre, in Middlesex, and Surry." <span id="fr_128"></span>[6](#fn_128)
+Chiltre, in Middlesex, and Surry." <span id="fr_128"></span>[6](#fn_128.md)
 Hence we find, that these privileges were of ancient standing. They were
 also confirmed by the succeeding charters. Fitzstephen, who wrote
 towards the close of the reign of Henry II., says, that the Londoners
@@ -514,18 +514,18 @@ delight
 
 themselves with hawks and hounds, for they have the liberty of hunting
 in Middlesex, Hertfordshire, all Chilton, and in Kent to the waters of
-Grey, <span id="fr_129"></span>[1](#fn_129) which differs somewhat from
+Grey, <span id="fr_129"></span>[1](#fn_129.md) which differs somewhat from
 the statement in the charter. These exercises were not much followed by
 the citizens of London at the close of the sixteenth century, not for
 want of taste for the amusement, says Stow, but for leisure to pursue
-it. <span id="fr_130"></span>[2](#fn_130) Strype, however, so late as
+it. <span id="fr_130"></span>[2](#fn_130.md) Strype, however, so late as
 the reign of George I., reckons among the modern amusements of the
 Londoners, "Riding on horseback and hunting with my Lord Mayor's hounds,
 when the common-hunt goes out."
 
 This common-hunt of the citizens is ridiculed in an old ballad called
 the "London Customs," published in D’Urfey's Collection, <span
-id="fr_131"></span>[3](#fn_131) I shall select the three following
+id="fr_131"></span>[3](#fn_131.md) I shall select the three following
 stanzas only.
 
 Next once a year into Essex a hunting they go;  
@@ -552,16 +552,16 @@ Richard I. gave to Henry de Grey, of Codnor, the manor of Turroe, in
 Essex, with permission to hunt the hare and the fox, in any lands
 belonging to the crown, excepting only the king's own demesne parks; and
 this special mark of the royal favour was confirmed by his brother John,
-when he succeeded to the throne. <span id="fr_132"></span>[4](#fn_132)
+when he succeeded to the throne. <span id="fr_132"></span>[4](#fn_132.md)
 
 Others obtained grants of land, on condition of their paying an annual
 tribute in horses, hawks, and hounds. And here I cannot help noticing a
 curious tenure, by which Bertram de Criol held the manor of Setene, or
 Seaton, in Kent, from Edward I.; he was to provide a man, called
-*veltarius*, or huntsman, <span id="fr_133"></span>[5](#fn_133) to lead
+*veltarius*, or huntsman, <span id="fr_133"></span>[5](#fn_133.md) to lead
 three greyhounds when the king went into Gascony, so long as a pair of
 shoes, valued at fourpence, should last him. <span
-id="fr_134"></span>[6](#fn_134)
+id="fr_134"></span>[6](#fn_134.md)
 
 Two EARLY TREATISES ON HUNTING.--The earliest known English treatise on
 hunting dates from early in the fourteenth century; it was originally
@@ -570,15 +570,15 @@ written
 <span id="page_11">p. 11</span>
 
 in French, by William Twici, or Twety, grand huntsman to king Edward
-II. <span id="fr_135"></span>[1](#fn_135) There is an English version of
+II. <span id="fr_135"></span>[1](#fn_135.md) There is an English version of
 this, nearly coeval with the original in the Cotton collection, but in
 that copy the name of John Gyfford is joined to that of Twety, and both
 of them are said to be "maisters of the game" to king Edward, and to
 have composed this treatise upon "the crafte of huntynge." <span
-id="fr_136"></span>[2](#fn_136) In the same volume of the Cotton
+id="fr_136"></span>[2](#fn_136.md) In the same volume of the Cotton
 collection is a treatise written by the Master of the Game to Henry IV.
 for the use of prince Henry his son; it is little more than an
-enlargement of the former tract. <span id="fr_137"></span>[3](#fn_137)
+enlargement of the former tract. <span id="fr_137"></span>[3](#fn_137.md)
 The Book of St Albans, so called because it was printed there, contains
 the first treatise upon the subject of hunting that ever appeared from
 the press. It is however evidently compiled from the two tracts above
@@ -589,7 +589,7 @@ prioress of the nunnery of Sopewell, about the year 1481, and was
 printed soon afterwards. This book contains two other tracts, the one on
 hawking, and the other on heraldry. It has been reprinted several times,
 and under different titles, with some additions and amendments, but the
-general information is the same. <span id="fr_138"></span>[4](#fn_138)
+general information is the same. <span id="fr_138"></span>[4](#fn_138.md)
 
 NAMES OF BEASTS OF SPORT.--Twici introduces the subject with a kind of
 poetical prologue, in which he gives us the names of the animals to be
@@ -645,7 +645,7 @@ to this purport. "He, Edgar, imposed a tribute upon the king of Wales
 exacting yearly three hundred wolves. This tribute continued to be paid
 for three years, but ceased upon the fourth, because *nullum se ulterius
 posse invenire professus*; it was said that he could not find any
-more"; <span id="fr_139"></span>[1](#fn_139) that is, in Wales, for it
+more"; <span id="fr_139"></span>[1](#fn_139.md) that is, in Wales, for it
 can hardly be supposed that he was permitted to hunt them out of his own
 dominions.
 
@@ -667,7 +667,7 @@ among the last retreats of the wolf. It has been confidently stated that
 entries of payments for the destruction of wolves in the account books
 of certain parishes of the East Riding, presumably of the sixteenth or
 seventeenth century date, are still extant, <span
-id="fr_140"></span>[2](#fn_140) but this appears to be an error. Wolves
+id="fr_140"></span>[2](#fn_140.md) but this appears to be an error. Wolves
 were common in Scotland in
 
 <span id="page_13">p. 13</span>
@@ -676,7 +676,7 @@ the seventeenth century, and they lingered on in exceptional cases until
 about the middle of the eighteenth century; the last recorded instance
 of one being killed was in 1743. The packs of Irish wolves were
 extirpated in 1710, but the last one was not killed in Ireland until
-1770. <span id="fr_141"></span>[1](#fn_141)
+1770. <span id="fr_141"></span>[1](#fn_141.md)
 
 \* The wolves of England in historic times were probably more often
 trapped than hunted. The family of Wolfhunt who held land of the king in
@@ -687,7 +687,7 @@ Folejambe then held a bovate of land, which was formerly one serjeanty
 assigned for taking the forest wolves. They stated that twice each year,
 namely, in March and September, they had to go through the midst of the
 forest to place pitch to take the wolves <span
-id="fr_142"></span>[2](#fn_142) in the places they frequented, because
+id="fr_142"></span>[2](#fn_142.md) in the places they frequented, because
 at those seasons of the year the wolves were not able to smell disturbed
 soil as at others. In dry summers they also went at the feast of St
 Barnabas (June 11th), when the wolves had whelps, to take and destroy
@@ -695,16 +695,16 @@ them; and then they had with them a servant to carry their traps
 (*ingenia*), and they carried an axe and a spear, with a cutlass or
 hunting knife attached to their girdle, but neither bow nor arrows. They
 had also with them a mastiff, not lawed, and trained for this
-work. <span id="fr_143"></span>[3](#fn_143)
+work. <span id="fr_143"></span>[3](#fn_143.md)
 
 \* WILD BOARS.--The wild boar is one of the oldest and most renowned of
 the animals of the British forests. It appears on ancient British coins,
 and was figured in various works of art pertaining to the later Celtic
-period. <span id="fr_144"></span>[4](#fn_144) The wild boar graces more
+period. <span id="fr_144"></span>[4](#fn_144.md) The wild boar graces more
 than one piece of sculpture of the time of the Roman occupation, and two
 altars have been found in the north of England dedicated to the god
 Sylvanus by grateful hunters who had succeeded in killing enormous
-boars. <span id="fr_145"></span>[5](#fn_145) The story of Edward the
+boars. <span id="fr_145"></span>[5](#fn_145.md) The story of Edward the
 Confessor rewarding the huntsman Nigell for slaying a fierce wild boar
 in the royal forest of Bernwood, Bucks, by granting him an estate and
 the custody of that forest has often been told. The hunting of the wild
@@ -712,7 +712,7 @@ boar was assiduously followed up by the Norman conquerors. The wild boar
 not infrequently occurs in their ecclesiastical sculpture, as on the
 tympana of church doorways at Hognaston, Parwich, and Ashford,
 Derbyshire; Little Longford, Wilts; and St Nicholas’, Ipswich. <span
-id="fr_146"></span>[6](#fn_146)
+id="fr_146"></span>[6](#fn_146.md)
 
 \* Holinshed states that Henry I. was specially devoted to boar hunting,
 which he describes as "a very dangerous exercise." The boar was one of
@@ -737,7 +737,7 @@ doubtless for parade and possibly for warlike use if the necessity
 arose; but those that were simply knotted and leathered (to secure a
 firmer grip) were probably genuine and serviceable boar spears. In the
 same inventory are vast numbers of Moorish pikes, bills, halberds,
-partisans, and javelins. <span id="fr_147"></span>[1](#fn_147) The chief
+partisans, and javelins. <span id="fr_147"></span>[1](#fn_147.md) The chief
 distinction between the boar spear and other spears was its broad head
 and the cross-bar just below the head to prevent the weapon entering too
 deeply. It is not generally remembered that the javelin, as its name
@@ -750,12 +750,12 @@ hunted in all the great forests of England. As forests lessened in
 extent the wild swine decreased in numbers, but there are abundant
 proofs of their thriving in Durham, Lancashire, Staffordshire, and
 Wiltshire in the sixteenth century. James I. hunted the wild boar at
-Windsor in 1617. <span id="fr_148"></span>[2](#fn_148) They were still
+Windsor in 1617. <span id="fr_148"></span>[2](#fn_148.md) They were still
 wild at Chartley, Staffordshire, in 1683. Charles II.'s reign is the
 latest time at which this animal is known to have been found in England
 in a really wild state. Various vain efforts were made to reintroduce
 them into England during the nineteenth century. <span
-id="fr_149"></span>[3](#fn_149)
+id="fr_149"></span>[3](#fn_149.md)
 
 \* The best account of the old English hunting of the wild boar is given
 in George Turbervile's liberally illustrated "Noble Art of Venerie or
@@ -809,10 +809,10 @@ about the close of the seventeenth century, and these packs hunted the
 stag, the fox, and the hare, indiscriminately. One of the first packs of
 hounds kept solely for fox hunting was the Hertfordshire; it was started
 in 1725 with Mr John Calvert as the first master, the kennels being at
-Cheshunt and Redbourne. <span id="fr_150"></span>[1](#fn_150) The first
+Cheshunt and Redbourne. <span id="fr_150"></span>[1](#fn_150.md) The first
 real steady pack of foxhounds in the West of England was that hunted by
 Mr Thomas Fownes, of Stapleton, Dorset, which was started in 1730. <span
-id="fr_151"></span>[2](#fn_151)
+id="fr_151"></span>[2](#fn_151.md)
 
 \* WILD CATS AND MARTINS.--The wild cat is named by Turbervile, in 1575,
 in connection with the martin, as vermin which used to be commonly
@@ -832,11 +832,11 @@ animal, the
 
 martin, once so common in England's forests, is now rapidly
 disappearing. It is supposed to still linger in the Somersetshire and
-Devonshire confines of Exmoor. <span id="fr_152"></span>[1](#fn_152) Mr
+Devonshire confines of Exmoor. <span id="fr_152"></span>[1](#fn_152.md) Mr
 Harting, writing in 1883, says that the martin still holds its own in
 the mountainous parts of Cumberland and Westmoreland, where it is
 occasionally hunted with foxhounds. <span
-id="fr_153"></span>[2](#fn_153)
+id="fr_153"></span>[2](#fn_153.md)
 
 \* The Rev. H. A. Macpherson, writing in 1901, says that "the marten
 continues to preserve a precarious footing among the mountain tops in
@@ -844,9 +844,9 @@ the centre and west of Cumberland. . . . As long as these animals were
 fairly numerous they used to be hunted by the dalesmen, and many a
 spirited chase has been described to me by venerable sportsmen." The
 last wild cat of this county was killed on Great Mell Fell early in the
-nineteenth century. <span id="fr_154"></span>[3](#fn_154) The martin has
+nineteenth century. <span id="fr_154"></span>[3](#fn_154.md) The martin has
 become extinct in Derbyshire and Staffordshire within the last fifty
-years. <span id="fr_155"></span>[4](#fn_155)
+years. <span id="fr_155"></span>[4](#fn_155.md)
 
 \* OTTERS.--The directions given for hunting the otter in the earliest
 known treatises and books correspond so closely to the customs still
@@ -858,13 +858,13 @@ rivers for the king's diversions; millers were at the same time ordered
 to stop their watercourses during the hunting. In 1607 the king made a
 grant of hounds and beagles, spaniels, and mongrels to Henry Mynours,
 master of the otter hounds at Theobalds, for his majesty's
-disport. <span id="fr_156"></span>[5](#fn_156)
+disport. <span id="fr_156"></span>[5](#fn_156.md)
 
 \* DOGS OF THE CHASE.--General Pitt-Rivers, in his recent series of
 painstaking excavations at Rushmore, Rotherley, etc., has established
 the fact that a great variety of dogs were known and domesticated in
 Romano-British days, from the mastiff and greyhound down to small
-terriers and lapdogs. <span id="fr_157"></span>[6](#fn_157)
+terriers and lapdogs. <span id="fr_157"></span>[6](#fn_157.md)
 
 In the manuscripts before mentioned we find the following names for the
 dogs employed in the sports of the field; that is to say, raches, or
@@ -911,10 +911,10 @@ the duty of the sheriff of the county, wherein the hunting was to be
 performed, to furnish fit stabling for the king's horses, and carts to
 take away the dead game. The hunters and officers under the forester,
 with their assistants, were commanded to erect a sufficient number of
-temporary buildings <span id="fr_158"></span>[1](#fn_158) for the
+temporary buildings <span id="fr_158"></span>[1](#fn_158.md) for the
 reception of the royal family and their train; and, if I understand my
 author clearly, these buildings were directed to be covered with green
-boughs, <span id="fr_159"></span>[2](#fn_159) to answer the double
+boughs, <span id="fr_159"></span>[2](#fn_159.md) to answer the double
 purpose of shading the company and the hounds from the heat of the sun,
 and to protect them from any inconveniency in case of foul weather.
 Early in the morning, upon the day appointed for the sport, the master
@@ -950,7 +950,7 @@ made upon like occasions for the sport of the great barons and dignified
 clergy. Their tenants sometimes held lands of them by the service of
 finding men to enclose the grounds, and drive the deer to the stands
 whenever it pleased their lords to hunt them. <span
-id="fr_160"></span>[1](#fn_160)
+id="fr_160"></span>[1](#fn_160.md)
 
 \* In the first edition of Turbervile's "Noble Art of Venerie," issued
 in 1575, there is a woodcut representing Queen Elizabeth being
@@ -989,7 +989,7 @@ eyther a painful pastime, or a pleasant payne."
 <span id="img_pl03"></span>
 
 [![Royalty Hunting](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 Royalty Hunting  
 
  
@@ -1002,7 +1002,7 @@ stationed themselves on surrounding hills to judge which dog did best.
 It was in Elizabeth's reign that certain "laws of the Leash or Coursing"
 were drawn up to regulate hare coursing matches, which were allowed and
 subscribed by Thomas, Duke of Norfolk. <span
-id="fr_161"></span>[1](#fn_161)
+id="fr_161"></span>[1](#fn_161.md)
 
 HUNTING TERMS.--There was a peculiar kind of language invented by the
 sportsmen of the middle ages, which it was necessary for every lover of
@@ -1112,143 +1112,143 @@ County Histories now in course of publication.
 
 ### Footnotes
 
-<span id="fn_97"></span>[2:1](spe05.htm#fr_97) *Ancient Laws and
+<span id="fn_97"></span>[2:1](spe05.htm#fr_97.md) *Ancient Laws and
 Institutes* of England (1840), passim.
 
-<span id="fn_98"></span>[3:1](spe05.htm#fr_98) \* Cnut allowed every
+<span id="fn_98"></span>[3:1](spe05.htm#fr_98.md) \* Cnut allowed every
 freeman to hunt in wood and field on his own lands; but the laws
 pertaining to the royal forests were terribly severe. For a first
 offence a freeman lost his liberty, and a villain his right hand; for a
 second offence the common punishment was death.
 
-<span id="fn_99"></span>[3:2](spe05.htm#fr_99) Montfaucon, *Monarch.
+<span id="fn_99"></span>[3:2](spe05.htm#fr_99.md) Montfaucon, *Monarch.
 Fran.*, and Ducarel's *Anglo-Norman Antiquities*.
 
-<span id="fn_100"></span>[3:3](spe05.htm#fr_100) Tiberius, B. v.
+<span id="fn_100"></span>[3:3](spe05.htm#fr_100.md) Tiberius, B. v.
 
-<span id="fn_101"></span>[3:4](spe05.htm#fr_101) No. 2, B. vii.
+<span id="fn_101"></span>[3:4](spe05.htm#fr_101.md) No. 2, B. vii.
 
-<span id="fn_102"></span>[4:1](spe05.htm#fr_102) \* Domesday Survey
+<span id="fn_102"></span>[4:1](spe05.htm#fr_102.md) \* Domesday Survey
 proves that this oft repeated statement as to the New Forest, and the
 overthrow of churches by the Conqueror, requires considerable
 qualification. See Round's introduction to the Hampshire Domesday,
 *Victoria County Histories*, Hants, vol. i.
 
-<span id="fn_103"></span>[4:2](spe05.htm#fr_103) *De Nugis Cuiralium*,
+<span id="fn_103"></span>[4:2](spe05.htm#fr_103.md) *De Nugis Cuiralium*,
 lib. i. cap. 4.
 
-<span id="fn_104"></span>[4:3](spe05.htm#fr_104) Blount's *Ancient
+<span id="fn_104"></span>[4:3](spe05.htm#fr_104.md) Blount's *Ancient
 Tenures*, p. 135.
 
-<span id="fn_105"></span>[5:1](spe05.htm#fr_105) "Fort chiens et chiens
+<span id="fn_105"></span>[5:1](spe05.htm#fr_105.md) "Fort chiens et chiens
 de levries," Froissart, *Chron*. vol. i. cap. 2,0.
 
-<span id="fn_106"></span>[5:2](spe05.htm#fr_106) Froissart, vol. iv.
+<span id="fn_106"></span>[5:2](spe05.htm#fr_106.md) Froissart, vol. iv.
 
-<span id="fn_107"></span>[5:3](spe05.htm#fr_107) Wellwood's *Memoirs*,
+<span id="fn_107"></span>[5:3](spe05.htm#fr_107.md) Wellwood's *Memoirs*,
 p. 35.
 
-<span id="fn_108"></span>[5:4](spe05.htm#fr_108) *Victoria County
+<span id="fn_108"></span>[5:4](spe05.htm#fr_108.md) *Victoria County
 Histories, Hertfordshire*, i. 347-8.
 
-<span id="fn_109"></span>[5:5](spe05.htm#fr_109) Sir Thomas More's
+<span id="fn_109"></span>[5:5](spe05.htm#fr_109.md) Sir Thomas More's
 Poems. See also Watson's *History of English Poetry*, 4to vol. iii. p.
 101.
 
-<span id="fn_110"></span>[6:1](spe05.htm#fr_110) Carta de Foresta, cap.
+<span id="fn_110"></span>[6:1](spe05.htm#fr_110.md) Carta de Foresta, cap.
 11.
 
-<span id="fn_111"></span>[6:2](spe05.htm#fr_111) Spelman's *Answer to
+<span id="fn_111"></span>[6:2](spe05.htm#fr_111.md) Spelman's *Answer to
 the Apology for Archbishop Abbot*.
 
-<span id="fn_112"></span>[6:3](spe05.htm#fr_112) *Canterbury Tales* by
+<span id="fn_112"></span>[6:3](spe05.htm#fr_112.md) *Canterbury Tales* by
 Chaucer. Numerous quotations might be made from other writers in
 addition to those above; but they are sufficient for my purpose.
 
-<span id="fn_113"></span>[7:1](spe05.htm#fr_113) Stat. 13 Rich. II.
+<span id="fn_113"></span>[7:1](spe05.htm#fr_113.md) Stat. 13 Rich. II.
 
-<span id="fn_114"></span>[7:2](spe05.htm#fr_114) An. 21 Hen. II. A. D.
+<span id="fn_114"></span>[7:2](spe05.htm#fr_114.md) An. 21 Hen. II. A. D.
 1157. *Vide* Spelman's *Answer to the Apology for Archbishop Abbot*.
 
-<span id="fn_115"></span>[7:3](spe05.htm#fr_115) P. Blensens. epist.
+<span id="fn_115"></span>[7:3](spe05.htm#fr_115.md) P. Blensens. epist.
 lvi. p. 81.
 
-<span id="fn_116"></span>[7:4](spe05.htm#fr_116) Knyghton, *apud Decem
+<span id="fn_116"></span>[7:4](spe05.htm#fr_116.md) Knyghton, *apud Decem
 Script*. p. 263.
 
-<span id="fn_117"></span>[7:5](spe05.htm#fr_117) Stephanid. vit. S.
+<span id="fn_117"></span>[7:5](spe05.htm#fr_117.md) Stephanid. vit. S.
 Thom.
 
-<span id="fn_118"></span>[7:6](spe05.htm#fr_118) *Vide* Spelman, *ut
+<span id="fn_118"></span>[7:6](spe05.htm#fr_118.md) *Vide* Spelman, *ut
 supra*.
 
-<span id="fn_119"></span>[7:7](spe05.htm#fr_119) Claudius, A. 2.
+<span id="fn_119"></span>[7:7](spe05.htm#fr_119.md) Claudius, A. 2.
 
-<span id="fn_120"></span>[8:1](spe05.htm#fr_120) Garrick's *Collection
+<span id="fn_120"></span>[8:1](spe05.htm#fr_120.md) Garrick's *Collection
 of Old Plays*, K. vol. ix.
 
-<span id="fn_121"></span>[8:2](spe05.htm#fr_121) Garrick's Collec. K.
+<span id="fn_121"></span>[8:2](spe05.htm#fr_121.md) Garrick's Collec. K.
 vol. x.
 
-<span id="fn_122"></span>[8:3](spe05.htm#fr_122) Royal Library, 2 B.
+<span id="fn_122"></span>[8:3](spe05.htm#fr_122.md) Royal Library, 2 B.
 vii.
 
-<span id="fn_123"></span>[9:1](spe05.htm#fr_123) MS. Harl. 6395. *Merry
+<span id="fn_123"></span>[9:1](spe05.htm#fr_123.md) MS. Harl. 6395. *Merry
 Passages and Jeasts*, art. 345. ''It is said that Anne of Bohemia,
 consort of Richard II., was the first to introduce the side-saddle into
 England; but ladies usually rode like men for at least two more
 centuries, and peasant-women until comparatively recent times.
 
-<span id="fn_124"></span>[9:2](spe05.htm#fr_124) No. 4431.
+<span id="fn_124"></span>[9:2](spe05.htm#fr_124.md) No. 4431.
 
-<span id="fn_125"></span>[9:3](spe05.htm#fr_125) Rowland Whyte to Sir
+<span id="fn_125"></span>[9:3](spe05.htm#fr_125.md) Rowland Whyte to Sir
 Robert Sidney, dated September 12, A.D. 1600.
 
-<span id="fn_126"></span>[9:4](spe05.htm#fr_126) Nichols's *Progresses*,
+<span id="fn_126"></span>[9:4](spe05.htm#fr_126.md) Nichols's *Progresses*,
 vol. ii.
 
-<span id="fn_127"></span>[9:5](spe05.htm#fr_127) *Vict. Co, Histories*,
+<span id="fn_127"></span>[9:5](spe05.htm#fr_127.md) *Vict. Co, Histories*,
 Hertfordshire, i. 349.
 
-<span id="fn_128"></span>[9:6](spe05.htm#fr_128) Maitland's *Hist.
+<span id="fn_128"></span>[9:6](spe05.htm#fr_128.md) Maitland's *Hist.
 Landon*, book i. chap. 6.
 
-<span id="fn_129"></span>[10:1](spe05.htm#fr_129) Stephanides *Descript.
+<span id="fn_129"></span>[10:1](spe05.htm#fr_129.md) Stephanides *Descript.
 London*.
 
-<span id="fn_130"></span>[10:2](spe05.htm#fr_130) Stow's *Survey of
+<span id="fn_130"></span>[10:2](spe05.htm#fr_130.md) Stow's *Survey of
 London*, vol. i. p. 157.
 
-<span id="fn_131"></span>[10:3](spe05.htm#fr_131) *Pills to Purge
+<span id="fn_131"></span>[10:3](spe05.htm#fr_131.md) *Pills to Purge
 Melancholy*, 1719, vol. iv. p. 42.
 
-<span id="fn_132"></span>[10:4](spe05.htm#fr_132) Blount's *Ancient
+<span id="fn_132"></span>[10:4](spe05.htm#fr_132.md) Blount's *Ancient
 Tenures*.
 
-<span id="fn_133"></span>[10:5](spe05.htm#fr_133) Or *vautrarius*, which
+<span id="fn_133"></span>[10:5](spe05.htm#fr_133.md) Or *vautrarius*, which
 Blount derives from the French *vaultre*, a mongrel hound, and supposes
 the name to signify an inferior huntsman; and this opinion I have
 adopted.
 
-<span id="fn_134"></span>[10:6](spe05.htm#fr_134) E. c. An. 34 Edward I.
+<span id="fn_134"></span>[10:6](spe05.htm#fr_134.md) E. c. An. 34 Edward I.
 No. 37. Richard Rockesley held the same land by the same tenure, in the
 second year of Edward II. Blount, *ut supra*.
 
-<span id="fn_135"></span>[11:1](spe05.htm#fr_135) Entitled "Art de
+<span id="fn_135"></span>[11:1](spe05.htm#fr_135.md) Entitled "Art de
 Venerie le quel Maistre Guillame Twici venour le Roy dangleterre fist en
 son temps per aprandre Autres." See Warton's *Hist. Eng. Poetry*, vol.
 ii. p. 221.
 
-<span id="fn_136"></span>[11:2](spe05.htm#fr_136) Cotton MSS. Vespasian,
+<span id="fn_136"></span>[11:2](spe05.htm#fr_136.md) Cotton MSS. Vespasian,
 B. xii.
 
-<span id="fn_137"></span>[11:3](spe05.htm#fr_137) There is a copy on
+<span id="fn_137"></span>[11:3](spe05.htm#fr_137.md) There is a copy on
 paper of this treatise among the Harl. MSS. (No. 5086), where it is
 entitled *The Book of Venerye callyd the Maistre of Game*. No. 6824 of
 the same collection contains the prologue and first six chapters of this
 work, written on vellum.
 
-<span id="fn_138"></span>[11:4](spe05.htm#fr_138) \* There was, however,
+<span id="fn_138"></span>[11:4](spe05.htm#fr_138.md) \* There was, however,
 no such prioress of Sopewell nunnery, and the story of "Dam Julyano
 Barnes" being a sister of Lord Berners was an invention of Chauncy in
 his *Hist. of Herts* (1700). This compilation was first printed in 1486
@@ -1257,81 +1257,81 @@ Wynken de Worde in 1496. There were about fifteen editions, under
 various titles, issued in the sixteenth century. See Blades' edition and
 introduction, printed by Elliot Stock in 1881.
 
-<span id="fn_139"></span>[12:1](spe05.htm#fr_139) *Hist. Reg. Angl.*
+<span id="fn_139"></span>[12:1](spe05.htm#fr_139.md) *Hist. Reg. Angl.*
 lib. ii. cap. 8.
 
-<span id="fn_140"></span>[12:2](spe05.htm#fr_140) Blaine's *Encyclop.
+<span id="fn_140"></span>[12:2](spe05.htm#fr_140.md) Blaine's *Encyclop.
 Rural Sports* (1858), p. 105.
 
-<span id="fn_141"></span>[13:1](spe05.htm#fr_141) Harting's *Extinct
+<span id="fn_141"></span>[13:1](spe05.htm#fr_141.md) Harting's *Extinct
 British Animals*, pp. 115-205; *Notes and Queries*, Ser. VI. iii.
 
-<span id="fn_142"></span>[13:2](spe05.htm#fr_142) *Ad ponendam pegas ad
+<span id="fn_142"></span>[13:2](spe05.htm#fr_142.md) *Ad ponendam pegas ad
 lupos capiendos*.
 
-<span id="fn_143"></span>[13:3](spe05.htm#fr_143) *Journal of Derbyshire
+<span id="fn_143"></span>[13:3](spe05.htm#fr_143.md) *Journal of Derbyshire
 Archæological Society*, xv. 82.
 
-<span id="fn_144"></span>[13:4](spe05.htm#fr_144) Evans' *British
+<span id="fn_144"></span>[13:4](spe05.htm#fr_144.md) Evans' *British
 Coins*, pls. vi., viii., xi., xii., xiii.; Stephen's *Literature of the
 Kymry*, p. 250; *Horæ Ferales*, pl. xiv.
 
-<span id="fn_145"></span>[13:5](spe05.htm#fr_145) Wright's *Celt, Roman,
+<span id="fn_145"></span>[13:5](spe05.htm#fr_145.md) Wright's *Celt, Roman,
 and Saxon*, pp. 207, 267.
 
-<span id="fn_146"></span>[13:6](spe05.htm#fr_146) \* Romilly Allan's
+<span id="fn_146"></span>[13:6](spe05.htm#fr_146.md) \* Romilly Allan's
 *Christian Symbolism*, passim.
 
-<span id="fn_147"></span>[14:1](spe05.htm#fr_147) *Archæologia*, li.
+<span id="fn_147"></span>[14:1](spe05.htm#fr_147.md) *Archæologia*, li.
 219-280.
 
-<span id="fn_148"></span>[14:2](spe05.htm#fr_148) *Court and Times of
+<span id="fn_148"></span>[14:2](spe05.htm#fr_148.md) *Court and Times of
 James I.*, ii. 34.
 
-<span id="fn_149"></span>[14:3](spe05.htm#fr_149) Harting's *Extinct
+<span id="fn_149"></span>[14:3](spe05.htm#fr_149.md) Harting's *Extinct
 British Animals*, 77-114.
 
-<span id="fn_150"></span>[15:1](spe05.htm#fr_150) *Vict. Co. Histories,
+<span id="fn_150"></span>[15:1](spe05.htm#fr_150.md) *Vict. Co. Histories,
 Hertfordshire*, i. 349.
 
-<span id="fn_151"></span>[15:2](spe05.htm#fr_151) Blaine's *Encyclop. of
+<span id="fn_151"></span>[15:2](spe05.htm#fr_151.md) Blaine's *Encyclop. of
 Rural Sports*, p. 383.
 
-<span id="fn_152"></span>[16:1](spe05.htm#fr_152) I several times saw
+<span id="fn_152"></span>[16:1](spe05.htm#fr_152.md) I several times saw
 specimens in the "fifties" and "sixties" of last century that had been
 shot by the keepers of Sir Thomas Acland and Mr Knight on the
 Somersetshire side of Exmoor; I once saw one wild in the Horner Woods,
 below Cloutsham, I think in the year 1860, when it had been disturbed by
 the "milers" of the Devon and Somerset staghounds.--J. CHARLES COX.
 
-<span id="fn_153"></span>[16:2](spe05.htm#fr_153) Harting's *Sport and
+<span id="fn_153"></span>[16:2](spe05.htm#fr_153.md) Harting's *Sport and
 Natural History*, *ibid*. 27-29.
 
-<span id="fn_154"></span>[16:3](spe05.htm#fr_154) *Vict. Co. Histories,
+<span id="fn_154"></span>[16:3](spe05.htm#fr_154.md) *Vict. Co. Histories,
 Cumberland*, i. 219-220.
 
-<span id="fn_155"></span>[16:4](spe05.htm#fr_155) *Ibid*. *Derbyshire*,
+<span id="fn_155"></span>[16:4](spe05.htm#fr_155.md) *Ibid*. *Derbyshire*,
 vol. i.
 
-<span id="fn_156"></span>[16:5](spe05.htm#fr_156) *Ibid*.
+<span id="fn_156"></span>[16:5](spe05.htm#fr_156.md) *Ibid*.
 *Hertfordshire*, i. 347.
 
-<span id="fn_157"></span>[16:6](spe05.htm#fr_157) *Excavations*, i. 174,
+<span id="fn_157"></span>[16:6](spe05.htm#fr_157.md) *Excavations*, i. 174,
 ii. 223-4, iii. 235, iv. 124, 128, 131, 133.
 
-<span id="fn_158"></span>[17:1](spe05.htm#fr_158) They are called
+<span id="fn_158"></span>[17:1](spe05.htm#fr_158.md) They are called
 "trists" or "trestes" in the MS. and might possibly be temporary stages.
 
-<span id="fn_159"></span>[17:2](spe05.htm#fr_159) The passage runs thus
+<span id="fn_159"></span>[17:2](spe05.htm#fr_159.md) The passage runs thus
 in the MS.: "the fewtrerers ought to make fayre logges of grene boughes
 at their trestes," etc.
 
-<span id="fn_160"></span>[18:1](spe05.htm#fr_160) See Blount's *Ancient
+<span id="fn_160"></span>[18:1](spe05.htm#fr_160.md) See Blount's *Ancient
 Tenures*.
 
-<span id="fn_161"></span>[19:1](spe05.htm#fr_161) Badminton Library:
+<span id="fn_161"></span>[19:1](spe05.htm#fr_161.md) Badminton Library:
 *Coursing*, pp. 4-6.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](spe06)
+[Next: Chapter II](spe06.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal031)  [Next](njal033) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal031)  [Next](njal033.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ thing with them.
 
 ------------------------------------------------------------------------
 
-[Next: 33. Gunnar's Wooing](njal033)
+[Next: 33. Gunnar's Wooing](njal033.md)

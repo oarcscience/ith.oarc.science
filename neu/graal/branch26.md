@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch25) 
-[Next](branch27) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch25.md) 
+[Next](branch27.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -231,5 +231,5 @@ him not into prison.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XXVII](branch27)  
+XXVII](branch27.md)  
 </span>

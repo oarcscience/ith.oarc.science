@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic083)  [Next](lfic085) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic083)  [Next](lfic085.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,4 +201,4 @@ former friends or their own brave descendants.
 
 ------------------------------------------------------------------------
 
-[Next: The Firbolgs and Danaans](lfic085)
+[Next: The Firbolgs and Danaans](lfic085.md)

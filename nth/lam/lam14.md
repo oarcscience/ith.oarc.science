@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam13)  [Next](lam15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam13)  [Next](lam15.md) 
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ it was to come into this one*.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Future Life of Animals](lam15)
+[Next: XIII. Future Life of Animals](lam15.md)

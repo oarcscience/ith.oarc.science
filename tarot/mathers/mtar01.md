@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](mtar00) 
-[Next](mtar02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](mtar00.md) 
+[Next](mtar02.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ the amusement of his numerous concubines.
 J. F. Vaillant, in "*Les Romes, histoire vraie des vraies Bohémiens*,"
 Paris, 1857, says that the Chinese have a drawing divided into
 compartments or series, based on combinations of the number 7. <span
-id="fr_0"></span>[1](#fn_0) "It so closely resembles the Tarot, that the
+id="fr_0"></span>[1](#fn_0.md) "It so closely resembles the Tarot, that the
 four suits of the latter occupy its first four columns; of the
 twenty-one *atouts* fourteen occupy the fifth column, and the seven
 other *atouts* the sixth column. This sixth column of seven *atouts* is
@@ -454,9 +454,9 @@ inclusive. (See Table).
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](mtar01.htm#fr_0) This is partly taken by
+<span id="fn_0"></span>[1](mtar01.htm#fr_0.md) This is partly taken by
 Vaillant from Court de Gèbelin's "*Monde Primitif"* vol. 8, p. 387.
 
 ------------------------------------------------------------------------
 
-[Next: Symbolism of Each of the Keys](mtar02)
+[Next: Symbolism of Each of the Keys](mtar02.md)

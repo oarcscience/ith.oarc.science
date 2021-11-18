@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge17) 
-[Next](pge19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge17.md) 
+[Next](pge19.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,14 +36,14 @@ bears the stamp of an unwholesome rhetoric. Why, indeed, should we pity
 this suicide, and why should the statue of Love have fallen on the
 object of his admiration? Maximus Tyrius showed more sense when he
 contemptuously wrote about those men who killed themselves for love of a
-beautiful lad in Locri: <span id="fr_166"></span>[1](#fn_166) "And in
+beautiful lad in Locri: <span id="fr_166"></span>[1](#fn_166.md) "And in
 good sooth they deserved to die."
 
 The dialogue entitled *Erotes*, attributed to Lucian, deserves a
 paragraph. More than any other composition of the rhetorical age of
 Greek literature, it attempts a comprehensive treatment of erotic
 passion, and sums up the teaching of the doctors and the predilections
-of the vulgar in one treatise. <span id="fr_167"></span>[2](#fn_167)
+of the vulgar in one treatise. <span id="fr_167"></span>[2](#fn_167.md)
 Like many of Lucian's compositions, it has what may be termed a
 retrospective and resumptive value. That is to say, it represents less
 the actual feeling of the author and his age than the result of his
@@ -115,10 +115,10 @@ poems, consisting in a great measure of his own and Meleager's
 compositions, which now forms the twelfth section of the *Palatine
 Anthology*. This book he dedicated, not to the Muse, but to Zeus; for
 Zeus was the boy-lover among deities; <span
-id="fr_168"></span>[1](#fn_168) he bade it carry forth his message to
-fair youths throughout the world; <span id="fr_169"></span>[2](#fn_169)
+id="fr_168"></span>[1](#fn_168.md) he bade it carry forth his message to
+fair youths throughout the world; <span id="fr_169"></span>[2](#fn_169.md)
 and he claimed a special inspiration from heaven for singing of one sole
-subject, paiderastia. <span id="fr_170"></span>[3](#fn_170) It may be
+subject, paiderastia. <span id="fr_170"></span>[3](#fn_170.md) It may be
 said with truth that Straton understood the bent of his own genius. We
 trace a blunt earnestness of intention in his epigrams, a certainty of
 feeling and directness of artistic treatment, which show that he had
@@ -130,25 +130,25 @@ sentimentalist. The so-called *Mousa Paidiké*, "Muse of Boyhood," is a
 collection of two hundred and fifty-eight short poems, some of them of
 great artistic merit, in praise of boys and boy-love. The common-places
 of these epigrams are Ganymede and Erôs; <span
-id="fr_171"></span>[4](#fn_171) we hear but little of Aphrodite-her
+id="fr_171"></span>[4](#fn_171.md) we hear but little of Aphrodite-her
 domain is the other section of the *Anthology*, called Erotika. A very
 small percentage of these compositions can be described as
-obscene; <span id="fr_172"></span>[5](#fn_172) none are nasty in the
+obscene; <span id="fr_172"></span>[5](#fn_172.md) none are nasty in the
 style of Martial or Ausonius; some are exceedingly picturesque; <span
-id="fr_173"></span>[6](#fn_173) a few are written in a strain of lofty
-or of lovely music; <span id="fr_174"></span>[7](#fn_174) one or two are
+id="fr_173"></span>[6](#fn_173.md) a few are written in a strain of lofty
+or of lovely music; <span id="fr_174"></span>[7](#fn_174.md) one or two are
 delicate and subtle in their humour. <span
-id="fr_175"></span>[8](#fn_175) The whole collection supplies good means
+id="fr_175"></span>[8](#fn_175.md) The whole collection supplies good means
 
 <span id="page_59">p. 59</span>
 
 of judging how the Greeks of the decadence felt about this form of love.
 *Malakia* is the real condemnation of this poetry, rather than brutality
 or coarseness. A favourite topic is the superiority of boys over girls.
-This sometimes takes a gross form; <span id="fr_176"></span>[1](#fn_176)
+This sometimes takes a gross form; <span id="fr_176"></span>[1](#fn_176.md)
 but once or twice the treatment of the subject touches a real
 psychological distinction, as in the following epigram: <span
-id="fr_177"></span>[2](#fn_177)--
+id="fr_177"></span>[2](#fn_177.md)--
 
 "The love of women is not after my heart's desire; but the fires of male
 desire have placed me under inextinguishable coals of burning. The heat
@@ -162,10 +162,10 @@ absorbent of the whole nature, than the love of the female. It is, to
 use another kind of phraseology, more of a mania and more of a disease.
 
 With the *Anthology* we might compare the curious *Epistolai Erotikai*
-of Philostratus. <span id="fr_178"></span>[3](#fn_178) They were in all
+of Philostratus. <span id="fr_178"></span>[3](#fn_178.md) They were in all
 probability rhetorical compositions, not intended for particular
 persons; yet they indicate the kind of wooing to which youths were
-subjected in later Hellas. <span id="fr_179"></span>[4](#fn_179) The
+subjected in later Hellas. <span id="fr_179"></span>[4](#fn_179.md) The
 discrepancy between the triviality of their subject-matter and the
 exquisiteness of their diction is striking. The second of these
 qualities has made them a mine for poets. Ben Jonson, for example,
@@ -182,7 +182,7 @@ While the paiderastia of the Greeks was sinking into grossness,
 effeminacy, and aesthetic prettiness, the moral instincts of humanity
 began to assert themselves in earnest. It became part of the higher
 doctrine of the Roman Stoics to suppress this form of passion. <span
-id="fr_180"></span>[5](#fn_180) The Christians, from St. Paul onwards,
+id="fr_180"></span>[5](#fn_180.md) The Christians, from St. Paul onwards,
 
 <span id="page_60">p. 60</span>
 
@@ -192,7 +192,7 @@ fought with all the forces of their manhood, with the sword of the Lord
 and with the excommunications of the Church, to suppress what seemed to
 them an unutterable scandal. Dio Chrysostom, Clemens Alexandrinus, and
 Athanasius, are our best authorities for the vices which prevailed in
-Hellas during the Empire; <span id="fr_181"></span>[1](pge19.htm#fn_181)
+Hellas during the Empire; <span id="fr_181"></span>[1](pge19.htm#fn_181.md)
 the Roman law, moreover, proves that the civil governors aided the
 Church in its attempt to moralise the people on this point.
 
@@ -200,18 +200,18 @@ Church in its attempt to moralise the people on this point.
 
 ### Footnotes
 
-<span id="fn_160"></span>[55:1](pge17.htm#fr_160) Tusc., iv. 33; Decline
+<span id="fn_160"></span>[55:1](pge17.htm#fr_160.md) Tusc., iv. 33; Decline
 and Fall, cap. xliv. note 192.
 
-<span id="fn_161"></span>[55:2](pge17.htm#fr_161) See Meier, cap. 15.
+<span id="fn_161"></span>[55:2](pge17.htm#fr_161.md) See Meier, cap. 15.
 
-<span id="fn_162"></span>[55:3](pge17.htm#fr_162) Cap. 23.
+<span id="fn_162"></span>[55:3](pge17.htm#fr_162.md) Cap. 23.
 
-<span id="fn_163"></span>[55:4](pge17.htm#fr_163) Cap. 54.
+<span id="fn_163"></span>[55:4](pge17.htm#fr_163.md) Cap. 54.
 
-<span id="fn_164"></span>[55:5](pge17.htm#fr_164) Page 4.
+<span id="fn_164"></span>[55:5](pge17.htm#fr_164.md) Page 4.
 
-<span id="fn_165"></span>[55:6](pge17.htm#fr_165) It is noticeable that
+<span id="fn_165"></span>[55:6](pge17.htm#fr_165.md) It is noticeable that
 in all ages men of learning have been obnoxious to paiderastic passions.
 Dante says (Inferno, xv. 106):--
 
@@ -221,47 +221,47 @@ D' un medesmo peccato al mondo lerci."
 
 Compare Ariosto, *Satire*, vii.
 
-<span id="fn_166"></span>[56:1](pge18.htm#fr_166) *Dissert*., xxvi. 9.
+<span id="fn_166"></span>[56:1](pge18.htm#fr_166.md) *Dissert*., xxvi. 9.
 
-<span id="fn_167"></span>[56:2](pge18.htm#fr_167) I am aware that the
+<span id="fn_167"></span>[56:2](pge18.htm#fr_167.md) I am aware that the
 genuineness of the essay has been questioned.
 
-<span id="fn_168"></span>[58:1](pge18.htm#fr_168) *Mousa Paidiké*, i.
+<span id="fn_168"></span>[58:1](pge18.htm#fr_168.md) *Mousa Paidiké*, i.
 
-<span id="fn_169"></span>[58:2](pge18.htm#fr_169) *Ibid*., 208.
+<span id="fn_169"></span>[58:2](pge18.htm#fr_169.md) *Ibid*., 208.
 
-<span id="fn_170"></span>[58:3](pge18.htm#fr_170) *Ibid*., 258, 2.
+<span id="fn_170"></span>[58:3](pge18.htm#fr_170.md) *Ibid*., 258, 2.
 
-<span id="fn_171"></span>[58:4](pge18.htm#fr_171) *Ibid*., 70, 65, 69,
+<span id="fn_171"></span>[58:4](pge18.htm#fr_171.md) *Ibid*., 70, 65, 69,
 194, 220, 221, 67, 68, 78, and others.
 
-<span id="fn_172"></span>[58:5](pge18.htm#fr_172) Perhaps ten are of
+<span id="fn_172"></span>[58:5](pge18.htm#fr_172.md) Perhaps ten are of
 this sort.
 
-<span id="fn_173"></span>[58:6](pge18.htm#fr_173) 8, 125, for example.
+<span id="fn_173"></span>[58:6](pge18.htm#fr_173.md) 8, 125, for example.
 
-<span id="fn_174"></span>[58:7](pge18.htm#fr_174) 132, 256, 221.
+<span id="fn_174"></span>[58:7](pge18.htm#fr_174.md) 132, 256, 221.
 
-<span id="fn_175"></span>[58:8](pge18.htm#fr_175) 219.
+<span id="fn_175"></span>[58:8](pge18.htm#fr_175.md) 219.
 
-<span id="fn_176"></span>[59:1](pge18.htm#fr_176) 7.
+<span id="fn_176"></span>[59:1](pge18.htm#fr_176.md) 7.
 
-<span id="fn_177"></span>[59:2](pge18.htm#fr_177) 17. Compare 86.
+<span id="fn_177"></span>[59:2](pge18.htm#fr_177.md) 17. Compare 86.
 
-<span id="fn_178"></span>[59:3](pge18.htm#fr_178) Ed. Kayser, pp.
+<span id="fn_178"></span>[59:3](pge18.htm#fr_178.md) Ed. Kayser, pp.
 343-366.
 
-<span id="fn_179"></span>[59:4](pge18.htm#fr_179) It is worth comparing
+<span id="fn_179"></span>[59:4](pge18.htm#fr_179.md) It is worth comparing
 the letters of Philostratus with those of Alciphron, a contemporary of
 Lucian. In the latter there is no hint of paiderastia. The life of
 parasites, grisettes, lorettes, and young men about town at Athens is
 set forth in imitation probably of the later comedy Athens is shown to
 have been a Paris *à la Murger*.
 
-<span id="fn_180"></span>[59:5](pge18.htm#fr_180) See the introduction
+<span id="fn_180"></span>[59:5](pge18.htm#fr_180.md) See the introduction
 by Marcus Aurelius to his *Meditations*.
 
 ------------------------------------------------------------------------
 
 [Next: XVII. The deep root struck by paiderastia in Greece--Position of
-Women](pge19)
+Women](pge19.md)

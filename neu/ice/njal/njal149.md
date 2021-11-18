@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal148)  [Next](njal150) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal148)  [Next](njal150.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ Then Kari and Bjorn ride away from the house.
 
 ------------------------------------------------------------------------
 
-[Next: 150. More Of Kari And Bjorn](njal150)
+[Next: 150. More Of Kari And Bjorn](njal150.md)

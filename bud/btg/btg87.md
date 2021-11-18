@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg86)  [Next](btg88) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg86)  [Next](btg88.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ from error did reverence unto the Lord.
 
 ------------------------------------------------------------------------
 
-[Next: The Patient Elephant](btg88)
+[Next: The Patient Elephant](btg88.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim02)  [Next](sim04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim02)  [Next](sim04.md) 
 
 ------------------------------------------------------------------------
 
@@ -301,4 +301,4 @@ This was a battle between Winter and Summer. Summer conquered.
 
 ------------------------------------------------------------------------
 
-[Next: Skagédi And The Man-Eater](sim04)
+[Next: Skagédi And The Man-Eater](sim04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut27)  [Next](hut29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut27)  [Next](hut29.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXV.
 
-### Origin of the KinaLdûñ Dance. <span id="fr_62"></span>[1](#fn_62)
+### Origin of the KinaLdûñ Dance. <span id="fr_62"></span>[1](#fn_62.md)
 
 <span id="page_239">p. 239</span>
 
@@ -20,7 +20,7 @@ them Yīmantūwiñyai would take the house on his head and, by following a
 trail higher up on the mountain, run ahead and place it where the
 imaginary uncle was supposed to live. He would also bring the
 sweathouse. He used to eat the eels himself. <span
-id="fr_63"></span>[1](#fn_63) After his daughter had started back he
+id="fr_63"></span>[1](#fn_63.md) After his daughter had started back he
 would take the house on his head again and run back, so that on her
 arrival she found it as she had left it.
 
@@ -54,7 +54,7 @@ always dance there; only when the Hupa dance here they stop up there.
 
 ### Footnotes
 
-<span id="fn_62"></span>[237:1](hut28.htm#fr_62) Told at Hupa, June
+<span id="fn_62"></span>[237:1](hut28.htm#fr_62.md) Told at Hupa, June
 1901, by Robinson Shoemaker, a man about 30 years of age. His father and
 mother, both quite old, are unusually well supplied with myths and
 formulas.
@@ -64,10 +64,10 @@ Culture of the Hupa, p. 53.
 
 A story similar to this is told of Coyote.
 
-<span id="fn_63"></span>[239:1](hut28.htm#fr_63) For other devices
+<span id="fn_63"></span>[239:1](hut28.htm#fr_63.md) For other devices
 employed by Yīmantūwiñyai to gratify his greed, compare pp.
-[129](hut04.htm#page_129), [130](hut04.htm#page_130).
+[129](hut04.htm#page_129), [130](hut04.htm#page_130.md).
 
 ------------------------------------------------------------------------
 
-[Next: XXVI. Directions and Formula for the Brush Dance](hut29)
+[Next: XXVI. Directions and Formula for the Brush Dance](hut29.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat16.htm#CXXX) 
-[Previous](satl129)  [Next](satl131) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat16.htm#CXXX.md) 
+[Previous](satl129)  [Next](satl131.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ latus meum frater convelleret.
 
 ------------------------------------------------------------------------
 
-[Next: CXXXI](satl131)
+[Next: CXXXI](satl131.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce02)  [Next](sce04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce02)  [Next](sce04.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ Platonists, More, Glanvill, Sinclair, and others, and in the rare tracts
 such as *The Devil in Glen Luce* and *The Just Devil of Woodstock*, not
 to mention Lavater, Wierus, Thyræus, Reginald Scott, and so on, is as
 necessary to the psychologist as to the folklorist. <span
-id="fr_0"></span>[1](#fn_0) If there be an element of fact
+id="fr_0"></span>[1](#fn_0.md) If there be an element of fact
 
 <span id="page_xvii">p. xvii</span>
 
@@ -99,9 +99,9 @@ Secret Commonwealth* as folk-lorists.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xvi:1](sce03.htm#fr_0) Note
-( [a](sce29.htm#xref_a)), p. 81.
+<span id="fn_0"></span>[xvi:1](sce03.htm#fr_0.md) Note
+( [a](sce29.htm#xref_a).md), p. 81.
 
 ------------------------------------------------------------------------
 
-[Next: The Subterranean Inhabitants](sce04)
+[Next: The Subterranean Inhabitants](sce04.md)

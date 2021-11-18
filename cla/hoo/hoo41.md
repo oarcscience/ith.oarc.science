@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo40)  [Next](hoo42) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo40)  [Next](hoo42.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 ###### XXXVI.
 
-### TO THE TITANS  <span id="fr_98"></span>[\*](#fn_98)
+### TO THE TITANS  <span id="fr_98"></span>[\*](#fn_98.md)
 
 ###### The FUMIGATION from FRANKINCENSE.
 
@@ -28,9 +28,9 @@ One of your tribe should visit our retreats.
 
 ### Footnotes
 
-<span id="fn_98"></span>[167:\*](hoo41.htm#fr_98) See note to Hymn xxxi.
+<span id="fn_98"></span>[167:\*](hoo41.htm#fr_98.md) See note to Hymn xxxi.
 to Pallas.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVII: To the Curetes](hoo42)
+[Next: XXXVII: To the Curetes](hoo42.md)

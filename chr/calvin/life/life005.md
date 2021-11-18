@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](life004)  [Next](life006) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](life004)  [Next](life006.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ to eternity, we must carefully strive to disencumber ourselves of these
 fetters. Moreover, since the present life has many enticements to allure
 us, and great semblance of delight, grace, and sweetness to soothe us,
 it is of great consequence to us to be now and then called off from its
-fascinations. <span id="fr_11"></span>[12](#fn_11) For what, pray, would
+fascinations. <span id="fr_11"></span>[12](#fn_11.md) For what, pray, would
 happen, if we here enjoyed an uninterrupted course of honour and
 felicity, when even the constant stimulus of affliction cannot arouse us
 to a due sense of our misery? That human life is like smoke or a shadow,
@@ -93,7 +93,7 @@ a theatre at some pleasant spectacle. Forgetful not only of death, but
 also of mortality itself, as if no rumour of it had ever reached us, we
 indulge in supine security as expecting a terrestrial immortality.
 Meanwhile, if any one breaks in with the proverb, that man is the
-creature of a day, <span id="fr_12"></span>[13](#fn_12) we indeed
+creature of a day, <span id="fr_12"></span>[13](#fn_12.md) we indeed
 acknowledge its truth, but, so far from giving heed to it, the thought
 of perpetuity still keeps hold of our minds. Who then can deny that it
 is of the highest importance to us all, I say not, to be admonished by
@@ -144,7 +144,7 @@ indeed, that a most accurate opinion was formed by those who thought,
 that the best thing was not to be born, the next best to die early. For,
 being destitute of the light of God and of true religion, what could
 they see in it that was not of dire and evil omen? Nor was it
-unreasonable for those <span id="fr_13"></span>[14](#fn_13) who felt
+unreasonable for those <span id="fr_13"></span>[14](#fn_13.md) who felt
 sorrow and shed tears at the birth of their kindred, to keep holiday at
 their deaths. But this they did without profit; because, devoid of the
 true doctrine of faith, they saw not how that which in itself is neither
@@ -162,7 +162,7 @@ freed from the body is to gain full possession of freedom, what is the
 body but a prison? If it is the very summit of happiness to enjoy the
 presence of God, is it not miserable to want it? But “whilst we are at
 home in the body, we are absent from the Lord,” (<span
-id="vi-p5.3"></span>[2 Cor. v. 6](../../../bib/kjv/co2005.htm#006)<span
+id="vi-p5.3"></span>[2 Cor. v. 6](../../../bib/kjv/co2005.htm#006.md)<span
 id="vi-p5.3"></span>.) Thus when the earthly is compared with the
 heavenly life, it may undoubtedly be despised and trampled under foot.
 We ought never, indeed, to regard it with hatred, except in so far as it
@@ -174,13 +174,13 @@ everything like murmuring and impatience. For it is as if the Lord had
 assigned us a post, which we must maintain till he recalls us. Paul,
 indeed, laments his condition, in being still bound with the fetters of
 the body, and sighs earnestly for redemption, (<span
-id="vi-p5.4"></span>[Rom. vii. 24](../../../bib/kjv/rom007.htm#024)<span
+id="vi-p5.4"></span>[Rom. vii. 24](../../../bib/kjv/rom007.htm#024.md)<span
 id="vi-p5.4"></span>;) nevertheless, he declared that, in obedience to
 the command of Gods he was prepared for both courses, because he
 acknowledges it as his duty to God to glorify his name whether by life
 or by death, while it belongs to God to determine what is most conducive
 to His glory, (<span id="vi-p5.5"></span>[Philippians
-1:20-24](../../../bib/kjv/phi001.htm#020)<span id="vi-p5.5"></span>.)
+1:20-24](../../../bib/kjv/phi001.htm#020)<span id="vi-p5.5"></span>..md)
 Wherefore, if it becomes us to live and die to the Lord, let us leave
 the period of our life and death at his disposal. Still let us ardently
 long for death, and constantly meditate upon it, and in comparison with
@@ -205,12 +205,12 @@ this, and therefore contend that we ought to look to future immortality,
 where we may obtain that fixed condition which nowhere appears on the
 earth. For Paul admirably enjoins believers to hasten cheerfully to
 death, not because they a would be unclothed, but clothed upon,” (<span
-id="vi-p6.1"></span>[2 Cor. v. 2](../../../bib/kjv/co2005.htm#002)<span
+id="vi-p6.1"></span>[2 Cor. v. 2](../../../bib/kjv/co2005.htm#002.md)<span
 id="vi-p6.1"></span>.) Shall the lower animals, and inanimate creatures
 themselves even wood and stone, as conscious of their present vanity,
 long for the final resurrection, that they may with the sons of God be
 delivered from vanity, (<span id="vi-p6.2"></span>[Rom. viii.
-19](../../../bib/kjv/rom008.htm#019)<span id="vi-p6.2"></span>;) and
+19](../../../bib/kjv/rom008.htm#019)<span id="vi-p6.2"></span>;.md) and
 shall we, endued with the light of intellect, and more than intellect,
 enlightened by the Spirit of God, when our essence is in question, rise
 no higher than the corruption of this earth? But it is not my purpose,
@@ -223,14 +223,14 @@ inspecting what they say on the contempt of death, they may begin to
 blush. This, however let us hold as fixed, that no man has made much
 progress in the school of Christ who does not look forward with joy to
 the day of death and final resurrection, (<span id="vi-p6.3"></span>[2
-Tim. iv. 18](../../../bib/kjv/ti2004.htm#018)<span id="vi-p6.3"></span>;
+Tim. iv. 18](../../../bib/kjv/ti2004.htm#018.md)<span id="vi-p6.3"></span>;
 <span id="vi-p6.4"></span>[Tit. ii.
-13](../../../bib/kjv/tit002.htm#013)<span id="vi-p6.4"></span>:) for
+13](../../../bib/kjv/tit002.htm#013)<span id="vi-p6.4"></span>:.md) for
 Paul distinguishes all believers by this mark; and the usual course of
 Scripture is to direct us thither whenever it would furnish us with an
 argument for substantial joy. “Look up,” says our Lord, “and lift up
 your heads: for your redemption draweth nigh,” (<span
-id="vi-p6.5"></span>[Luke xxi. 28](../../../bib/kjv/luk021.htm#028)<span
+id="vi-p6.5"></span>[Luke xxi. 28](../../../bib/kjv/luk021.htm#028.md)<span
 id="vi-p6.5"></span>.) Is it reasonable, I ask, that what he intended to
 have a powerful effect in stirring us up to alacrity and exultation
 should produce nothing but sadness and consternation? If it is so, why
@@ -246,7 +246,7 @@ and glory.
 faithful, so long as they live on the earth, must be like sheep for the
 slaughter, in order that they may be conformed to Christ their head,
 (<span id="vi-p7.1"></span>[Rom. viii.
-36](../../../bib/kjv/rom008.htm#036)<span id="vi-p7.1"></span>.) Most
+36](../../../bib/kjv/rom008.htm#036)<span id="vi-p7.1"></span>..md) Most
 deplorable, therefore, would their situation be did they not, by raising
 their mind to heaven, become superior to all that is in the world, and
 rise above the present aspect of affairs, (<span id="vi-p7.2"></span>1
@@ -258,8 +258,8 @@ moreover be wickedly assailed by them, suffer insult from their pride,
 be robbed by their avarice, or assailed by any other passion, they will
 have no difficulty in bearing up under these evils. They will turn their
 eye to that day, (<span id="vi-p7.3"></span>[Isaiah xxv.
-8](../../../bib/kjv/isa025.htm#008)<span id="vi-p7.3"></span>; <span
-id="vi-p7.4"></span>[Rev. vii. 17](../../../bib/kjv/rev007.htm#017)<span
+8](../../../bib/kjv/isa025.htm#008.md)<span id="vi-p7.3"></span>; <span
+id="vi-p7.4"></span>[Rev. vii. 17](../../../bib/kjv/rev007.htm#017.md)<span
 id="vi-p7.4"></span>,) on which the Lord will receive his faithful
 servants, wipe away all tears from their eyes, clothe them in a robe of
 glory and joy, feed them with the ineffable sweetness of his pleasures,
@@ -273,15 +273,15 @@ feet of the godly, whose patience they abused. For, as Paul declares,
 “it is a righteous thing with God to recompense tribulation to them that
 trouble you; and to you who are troubled rest with us, when the Lord
 Jesus shall be revealed from heaven,” (<span id="vi-p7.5"></span>[2
-Thess. 1:6](../../../bib/kjv/th2001.htm#006),
-[7](../../../bib/kjv/th2001.htm#007)<span id="vi-p7.5"></span>.) This,
+Thess. 1:6](../../../bib/kjv/th2001.htm#006.md),
+[7](../../../bib/kjv/th2001.htm#007)<span id="vi-p7.5"></span>..md) This,
 indeed, is our only consolation; deprived of it, we must either give way
 to despondency, or resort to our destruction to the vain solace of the
 world. The Psalmist confesses, “My feet were almost gone: my steps had
 well nigh slipt: for I was envious at the foolish when I saw the
 prosperity of the wicked,” (<span id="vi-p7.6"></span>[Ps.
-73:3](../../../bib/kjv/psa073.htm#003),
-[4](../../../bib/kjv/psa073.htm#004)<span id="vi-p7.6"></span>;) and he
+73:3](../../../bib/kjv/psa073.htm#003.md),
+[4](../../../bib/kjv/psa073.htm#004)<span id="vi-p7.6"></span>;.md) and he
 found no resting-place until he entered the sanctuary, and considered
 the latter end of the righteous and the wicked. To conclude in one word,
 the cross of Christ then only triumphs in the breasts of believers over
@@ -292,7 +292,7 @@ to the power of his resurrection.
 
 ### Footnotes
 
-<span id="fn_11"></span>[12](life005.htm#fr_11) <span
+<span id="fn_11"></span>[12](life005.htm#fr_11.md) <span
 id="vi-p3.1"></span>French, “<span id="vi-p3.2"></span>Or pource que la
 vie presente a tousiours force de delices pour nous attraire, et a
 grande apparence d’amenité, de grace et de douceur pour nous amieller,
@@ -304,14 +304,14 @@ to entice us, it is of great importance to us to be hourly withdrawn, in
 order that we may not be deceived, and, as it were, bewitched with such
 flattery.
 
-<span id="fn_12"></span>[13](life005.htm#fr_12) <span
+<span id="fn_12"></span>[13](life005.htm#fr_12.md) <span
 id="vi-p3.3"></span>Latin, “Animal esse;”—is an ephemereal animal.
 
-<span id="fn_13"></span>[14](life005.htm#fr_13) <span
+<span id="fn_13"></span>[14](life005.htm#fr_13.md) <span
 id="vi-p5.1"></span>French, “<span id="vi-p5.2"></span>Le peuple des
 Scythes;”—the Scythians.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter V. How to Use the Present Life, and the Comforts of
-It.](life006)
+It.](life006.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sbg23)  [Next](sbg25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sbg23)  [Next](sbg25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103498/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103498/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Srimad-Bhagavad-Gita*, English translation and commentary by Swami
 Swarupananda, \[1909\], at Intangible Textual Heritage
 
@@ -25,13 +25,13 @@ Swarupananda, \[1909\], at Intangible Textual Heritage
 
 Salutation to Sri Ganesha!
 
-Salutation to Sri Râdhâramana! <span id="fr_399"></span>[\*](#fn_399)
+Salutation to Sri Râdhâramana! <span id="fr_399"></span>[\*](#fn_399.md)
 
 Dharâ (the Earth) said:
 
 1\. O Blessed Lord, O Supreme Ruler, how may one, who is held back by
 his Prârabdha Karma, obtain unswerving devotion? <span
-id="fr_400"></span>[1](#fn_400)
+id="fr_400"></span>[1](#fn_400.md)
 
 <span id="page_407">p. 407</span>
 
@@ -67,7 +67,7 @@ essence of My inexpressible State, the Knowledge comprising the whole of
 the three Vedas, supremely blissful and consisting of the realisation of
 the true nature of the Self,—declared by the All-knowing and Blessed
 Krishna, through his own lips, to Arjuna. <span
-id="fr_401"></span>[8](#fn_401)
+id="fr_401"></span>[8](#fn_401.md)
 
 10\. That man who with steady mind recites the eighteen chapters daily,
 attains the perfection of knowledge and thus reaches the highest plane.
@@ -86,11 +86,11 @@ the fruit of the Soma-sacrifice.
 
 13\. He who reads, full of devotion, even one chapter daily, attains to
 the Rudraloka, and lives there for a long time, having become one of
-those who wait on Shiva. <span id="fr_402"></span>[13](#fn_402)
+those who wait on Shiva. <span id="fr_402"></span>[13](#fn_402.md)
 
 14\. The man who daily reads a quarter of a chapter, or of a Sloka, O
 Earth, attains to human birth throughout the duration of a Manu. <span
-id="fr_403"></span>[11](#fn_403)
+id="fr_403"></span>[11](#fn_403.md)
 
 <span id="page_411">p. 411</span>
 
@@ -132,7 +132,7 @@ Suta said:
 
 23\. He who will read this eternal greatness of the Gita, declared by
 me, after having finished the reading of the Gita itself, will obtain
-the fruit described herein. <span id="fr_404"></span>[23](#fn_404)
+the fruit described herein. <span id="fr_404"></span>[23](#fn_404.md)
 
 <span id="page_414">p. 414</span>
 
@@ -143,12 +143,12 @@ class="smallcaps">The Greatness of the Gita</span>.
 
 ### Footnotes
 
-<span id="fn_399"></span>[406:\*](sbg24.htm#fr_399) Ganesha is the god
+<span id="fn_399"></span>[406:\*](sbg24.htm#fr_399.md) Ganesha is the god
 of wisdom and remover of obstacles; hence he is invoked and worshipped
 at the commencement of every important undertaking. Râdhâramana—the
 Lover of Râdhâ,—Sri Krishna.
 
-<span id="fn_400"></span>[406:1](sbg24.htm#fr_400) *Prârabdha
+<span id="fn_400"></span>[406:1](sbg24.htm#fr_400.md) *Prârabdha
 Karma*—There are three kinds of Karma: (1) Sanchita or accumulated and
 stored up in past lives; (2) Agâmi or that which is yet to be done; (3)
 Prârabdha or that which is already bearing fruit. This last is that part
@@ -159,18 +159,18 @@ the current work abortive. But the Prârabdha Karma must run out its
 course, though the balanced mind of a liberated man is not affected by
 it.
 
-<span id="fn_401"></span>[409:8](sbg24.htm#fr_401) *Ardhamâtrâ*—lit. the
+<span id="fn_401"></span>[409:8](sbg24.htm#fr_401.md) *Ardhamâtrâ*—lit. the
 half-syllable, and refers to the dot on the <span id="img_40900"></span>
 ![](img/40900.jpg); symbolically, it stands for the Turiya state, hence
 the Absolute.
 
-<span id="fn_402"></span>[410:13](sbg24.htm#fr_402) *Become &c.*—lit.,
+<span id="fn_402"></span>[410:13](sbg24.htm#fr_402.md) *Become &c.*—lit.,
 attained to Ganahood.
 
-<span id="fn_403"></span>[410:11](sbg24.htm#fr_403) *Attains to
+<span id="fn_403"></span>[410:11](sbg24.htm#fr_403.md) *Attains to
 Manhood:* is born every time in a man-body.
 
-<span id="fn_404"></span>[413:23](sbg24.htm#fr_404) These declarations
+<span id="fn_404"></span>[413:23](sbg24.htm#fr_404.md) These declarations
 will, no doubt, seem to be mere flights of extravagant fancy, if they
 are taken in their literal sense. They may be explained either (1) as
 mere Arthavâda or a statement of glorification meant to stimulate a
@@ -192,6 +192,6 @@ of evolution and finally obtain Mukti?
 
 ------------------------------------------------------------------------
 
-[Next: Index](sbg25)
+[Next: Index](sbg25.md)
 
 </div>

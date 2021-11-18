@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet07)  [Next](tet09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet07)  [Next](tet09.md) 
 
 ------------------------------------------------------------------------
 
@@ -304,4 +304,4 @@ totem wizard-stick guarding the front of their camps.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Birth--Betrothal--An Aboriginal Girl From Infancy To
-Womanhood](tet09)
+Womanhood](tet09.md)

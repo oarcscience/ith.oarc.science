@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray049)  [Next](pray051) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray049)  [Next](pray051.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,13 +19,13 @@ that we are able, to ask of God, are contained in this formula, and as
 it were rule, of prayer delivered by Christ, our divine Master, whom the
 Father has appointed to be our teacher, and to whom alone he would have
 us to listen (<span id="iii.xlviii-p1.1"></span>[Matthew
-17:5](../../../bib/kjv/mat017.htm#005)<span
+17:5](../../../bib/kjv/mat017.htm#005.md)<span
 id="iii.xlviii-p1.1"></span>). For he ever was the eternal wisdom of the
 Father, and being made man, was manifested as the Wonderful, the
 Counsellor (<span id="iii.xlviii-p1.2"></span>[Isaiah
-11:2](../../../bib/kjv/isa011.htm#002)<span
+11:2](../../../bib/kjv/isa011.htm#002.md)<span
 id="iii.xlviii-p1.2"></span>; <span id="iii.xlviii-p1.3"></span>[Isaiah
-9:6](../../../bib/kjv/isa009.htm#006)<span
+9:6](../../../bib/kjv/isa009.htm#006.md)<span
 id="iii.xlviii-p1.3"></span>). Accordingly, this prayer is complete in
 all its parts, so complete, that whatever is extraneous and foreign to
 it, whatever cannot be referred to it, is impious and unworthy of the
@@ -47,4 +47,4 @@ other prayers are lawless and illicit.
 
 ------------------------------------------------------------------------
 
-[Next: 49.](pray051)
+[Next: 49.](pray051.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta10)  [Next](sta12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta10)  [Next](sta12.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ skin of a lion for a girdle. Samson, the Hebrew hero, as his
 <span id="img_04900"></span>
 
 [![THE LION OF THE SUN.](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)  
+Click to enlarge](img/04900.jpg.md)  
 THE LION OF THE SUN.  
 
 From *Maurice's Indian Antiquities*.
@@ -144,7 +144,7 @@ and the eagles of Cæsar and Napoleon.
 <span id="img_04901"></span>
 
 [![THE WINGED GLOBE OF EGYPT.](tn/04901.jpg)  
-Click to enlarge](img/04901.jpg)  
+Click to enlarge](img/04901.jpg.md)  
 THE WINGED GLOBE OF EGYPT.  
 
 From *Maurice's Indian Antiquities*.
@@ -314,7 +314,7 @@ Virgin to her Son. This feast
 <span id="img_05000"></span>
 
 [![THE THREE SUNS.](tn/05000.jpg)  
-Click to enlarge](img/05000.jpg)  
+Click to enlarge](img/05000.jpg.md)  
 THE THREE SUNS.  
 
 From Lilly's *Astrological Predictions for 1648, 1649, and 1650*.)
@@ -499,7 +499,7 @@ flora and fauna. One philosophical
 <span id="img_05100"></span>
 
 [![SURYA, THE REGENT OF THE SUN.](tn/05100.jpg)  
-Click to enlarge](img/05100.jpg)  
+Click to enlarge](img/05100.jpg.md)  
 SURYA, THE REGENT OF THE SUN.  
 
 From Moor's *Hindu Pantheon*.
@@ -682,7 +682,7 @@ little known fastnesses of light, color, sound, and consciousness.
 <span id="img_05200"></span>
 
 [![THE SOLAR FACE.](tn/05200.jpg)  
-Click to enlarge](img/05200.jpg)  
+Click to enlarge](img/05200.jpg.md)  
 THE SOLAR FACE.  
 
 From Montfaucon's *Antiquities*.
@@ -693,4 +693,4 @@ took place in the sign of Leo, the Celestial Lion.
 
 ------------------------------------------------------------------------
 
-[Next: The Zodiac and Its Signs](sta12)
+[Next: The Zodiac and Its Signs](sta12.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb34)  [Next](ptb36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb34)  [Next](ptb36.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ character of the coming event.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. The Regions or Countries to be Considered as Liable
-to be Comprehended in the Event](ptb36)
+to be Comprehended in the Event](ptb36.md)

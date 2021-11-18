@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort03)  [Next](kort05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort03)  [Next](kort05.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,12 +35,12 @@ journey bring made by reindeer or dog sledge and on
 
 <span id="page_2">p. 2</span>
 
-[snowshoes](errata.htm#0). Some parts of this territory had never been
+[snowshoes](errata.htm#0.md). Some parts of this territory had never been
 visited by any white man, not even by a single Russian trader, and I met
 camps and villages the inhabitants of which did not even know the taste
 of brandy,--in these countries, the foremost product of civilization,
 and the first to arrive. The last fifteen days of the journey between
-the Ke'rek region and Anadyr Bay <span id="fr_0"></span>[1](#fn_0) were
+the Ke'rek region and Anadyr Bay <span id="fr_0"></span>[1](#fn_0.md) were
 spent in going without a guide through a country wholly uninhabited; for
 the Kerek, who have but few dogs, do not go very far from their villages
 on the coast, and are unfamiliar with the hills of the interior.
@@ -172,7 +172,7 @@ pair of vowels is excluded from the action of the vocalic harmony just
 described, and both *a* and *e* are considered as neutral. Thus, in the
 dialect of Kamenskoye, *nu'tanut* (EARTH) changes in the dative to
 *notaï'tIñ*. The two remaining pairs (*i*-*ê*, <span
-id="fr_1"></span>[1](#fn_1) *u*-*o*) also admit many exceptions, in
+id="fr_1"></span>[1](#fn_1) *u*-*o*.md) also admit many exceptions, in
 contrast to the strictness of the rule of harmony prevailing in
 Chukchee. Owing to the intermarriage between the people of different
 villages, *a*, *e*, *ä*, *i*, may also be used in the same place by
@@ -190,7 +190,7 @@ replaced by *s*, *s\**, *t*. Chukchee has for this sound two different
 pronunciations, *č* by men, and *š* by women. A slight difference in the
 pronunciation by the sexes exists among the Koryak, but much less strict
 and regular than in Chukchee. Men use the pronunciation *č*, while women
-employ *s\** or *t* <span id="fr_2"></span>[2](#fn_2). The sound-group
+employ *s\** or *t* <span id="fr_2"></span>[2](#fn_2.md). The sound-group
 *nñI* is replaced individually by *nni*; *q*, by *k*; *wġ*, by *ww* or
 *wx*; *y*, by *ġ*; etc.
 
@@ -212,8 +212,8 @@ Kamenskoye from the words of Nicholas Vilkhin, a native of Paren, Mr.
 Jochelson's interpreter.
 
 Text No. 23 is in six languages,--in Chukchee; in Koryak of Kamenskoye,
-Qare'ñIn, <span id="fr_3"></span>[1](#fn_3) and Lesna; <span
-id="fr_4"></span>[2](#fn_4) and in Kamchadal of the Okhotsk shore and of
+Qare'ñIn, <span id="fr_3"></span>[1](#fn_3.md) and Lesna; <span
+id="fr_4"></span>[2](#fn_4.md) and in Kamchadal of the Okhotsk shore and of
 the village Sedanka (Kamchadal, E'sxlin) in the mountains, the dialect
 of which has undergone a great change through Koryak influences. The
 original text is from Kamenskoye, and was dictated by Anne, a Koryak
@@ -274,7 +274,7 @@ enclosed in brackets.
 The Koryak here given may be compared with the Chukchee texts published
 by me in Vol. VIII of the "Publications of the Jesup North Pacific
 Expedition" and in the "Publications of the Russian Imperial Academy of
-Sciences." <span id="fr_5"></span>[1](#fn_5)
+Sciences." <span id="fr_5"></span>[1](#fn_5.md)
 
 Few Koryak or Chukchee tales are known under definite names. Titles
 indicating the contents have been added by me. I have transcribed the
@@ -637,9 +637,9 @@ In Kamchadal, the Chukchee *r* is replaced by *j*. This *j* sound is
 often pronounced with a light *r* trill, somewhat like the Polish sound
 *rz*.
 
-In the second Kamchadal dialect, <span id="fr_6"></span>[1](#fn_6) I
+In the second Kamchadal dialect, <span id="fr_6"></span>[1](#fn_6.md) I
 sometimes has a slight nasal sound. This nasal *ł* replaces the usual
-*n* of the first Kamchadal dialect. <span id="fr_7"></span>[2](#fn_7) No
+*n* of the first Kamchadal dialect. <span id="fr_7"></span>[2](#fn_7.md) No
 special symbol was adopted for this nasal *ł* sound.
 
 The Koryak as well as the Chukchee, in order to express a strong
@@ -652,35 +652,35 @@ becomes *ñawako'k*. At the end of tales, *a'ččIč* becomes *aččo'č*.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](kort04.htm#fr_0) See map, Publications of
+<span id="fn_0"></span>[2:1](kort04.htm#fr_0.md) See map, Publications of
 the Jesup North Pacific Expedition, vol. vii.
 
-<span id="fn_1"></span>[5:1](kort04.htm#fr_1) I use in Koryak, instead
+<span id="fn_1"></span>[5:1](kort04.htm#fr_1.md) I use in Koryak, instead
 of this *ê*, simply *e*.
 
-<span id="fn_2"></span>[5:2](kort04.htm#fr_2) It is interesting to note
+<span id="fn_2"></span>[5:2](kort04.htm#fr_2.md) It is interesting to note
 that the possessive adjective QuyqInn\*a'qučhin, BIG RAVEN'S (literally,
 RAVEN-BIG-HIS), has *č*; and Miti's\*hin, MITI'S (literally, MITI'-HER),
 has the corresponding s\*.
 
-<span id="fn_3"></span>[6:1](kort04.htm#fr_3) Russian, Карага, a large
+<span id="fn_3"></span>[6:1](kort04.htm#fr_3.md) Russian, Карага, a large
 village in northern Kamchatka on the Pacific coast.
 
-<span id="fn_4"></span>[6:2](kort04.htm#fr_4) A village of northern
+<span id="fn_4"></span>[6:2](kort04.htm#fr_4.md) A village of northern
 Kamchatka, on the Sea of Okhotsk, called in Koryak Vei'emłIn (THAT OF
 THE RIVER).
 
-<span id="fn_5"></span>[8:1](kort04.htm#fr_5) В. Г. Богоразъ. Матеріалы
+<span id="fn_5"></span>[8:1](kort04.htm#fr_5.md) В. Г. Богоразъ. Матеріалы
 по изученію чукотскаго Языка и фольклора, собранные въ Колымскомъ
 Округѣ. Изданіе Императорской Академіи Наукъ. Вып. І. С.-Петербургъ
 1906.
 
-<span id="fn_6"></span>[11:1](kort04.htm#fr_6) That of the village
+<span id="fn_6"></span>[11:1](kort04.htm#fr_6.md) That of the village
 Sedanka.
 
-<span id="fn_7"></span>[11:2](kort04.htm#fr_7) That of the Okhotsk
+<span id="fn_7"></span>[11:2](kort04.htm#fr_7.md) That of the Okhotsk
 shore.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Little-Bird-Man and Raven-Man](kort05)
+[Next: 1. Little-Bird-Man and Raven-Man](kort05.md)

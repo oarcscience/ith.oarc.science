@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks39)  [Next](lks41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks39)  [Next](lks41.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ Lord.
 
 ------------------------------------------------------------------------
 
-[Next: Ye Welcome Unto Ye Spirit Dygnytie](lks41)
+[Next: Ye Welcome Unto Ye Spirit Dygnytie](lks41.md)

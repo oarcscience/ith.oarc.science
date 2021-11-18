@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst088)  [Next](inst090) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst088)  [Next](inst090.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Beveridge \[1845\], at Intangible Textual Heritage
 ### <span id="iv.iv.x-p0.1"></span>CHAPTER 9.
 
 <span id="iv.iv.x-p1"></span>OF COUNCILS AND THEIR AUTHORITY.56  <span
-id="fr_574"></span>[575](#fn_574)
+id="fr_574"></span>[575](#fn_574.md)
 
 <span id="iv.iv.x-p3"></span>Since Papists regard their Councils as
 expressing the sentiment and consent of the Church, particularly as
@@ -95,7 +95,7 @@ conclave. Before I begin to discuss this question, two points must be
 briefly premised. First, though I mean to be more rigid in discussing
 this subject, it is not because I set less value than I ought on ancient
 councils. I venerate them from my heart, and would have all to hold them
-in due honour.56  <span id="fr_575"></span>[576](#fn_575) But there must
+in due honour.56  <span id="fr_575"></span>[576](#fn_575.md) But there must
 be some limitation, there must be nothing derogatory to Christ.
 Moreover, it is the right of Christ to preside over all councils, and
 not share the honour with any man. Now, I hold that he presides only
@@ -132,16 +132,16 @@ word of God or taken from it, determine everything at their own
 pleasure, who, not contented with the oracles of Scripture, that is,
 with the only rule of perfect wisdom, devise some novelty out of their
 own head (<span id="iv.iv.x-p21.1"></span>[Deut.
-4:2](../../../bib/kjv/deu004.htm#002)<span id="iv.iv.x-p21.1"></span>;
+4:2](../../../bib/kjv/deu004.htm#002.md)<span id="iv.iv.x-p21.1"></span>;
 <span id="iv.iv.x-p21.2"></span>[Rev.
-22:18](../../../bib/kjv/rev022.htm#018)<span
+22:18](../../../bib/kjv/rev022.htm#018.md)<span
 id="iv.iv.x-p21.2"></span>). Certainly, since our Saviour has not
 promised to be present with all councils of whatever description, but
 has given a peculiar mark for distinguishing true and lawful councils
 from others, we ought not by any means to lose sight of the distinction.
 The covenant which God anciently made with the Levitical priests was to
 teach at his mouth (<span id="iv.iv.x-p21.3"></span>[Mal.
-2:7](../../../bib/kjv/mal002.htm#007)<span id="iv.iv.x-p21.3"></span>).
+2:7](../../../bib/kjv/mal002.htm#007)<span id="iv.iv.x-p21.3"></span>.md).
 This he always required of the prophets, and we see also that it was the
 law given to the apostles. On those who violate this covenant God
 bestows neither the honour of the priesthood nor any authority. Let my
@@ -158,27 +158,27 @@ watchmen are blind; they are all ignorant, they are all dumb dogs, they
 cannot bark; sleeping, lying down, loving to slumber. Yea, they are
 greedy dogs which never have enough, and they are shepherds that cannot
 understand: they all look to their own way” (<span
-id="iv.iv.x-p22.1"></span>[Isa. 56:10](../../../bib/kjv/isa056.htm#010),
-[11](../../../bib/kjv/isa056.htm#011)<span id="iv.iv.x-p22.1"></span>).
+id="iv.iv.x-p22.1"></span>[Isa. 56:10](../../../bib/kjv/isa056.htm#010.md),
+[11](../../../bib/kjv/isa056.htm#011)<span id="iv.iv.x-p22.1"></span>.md).
 In the same way Hosea says, “The watchman of Ephraim was with my God:
 but the prophet is a snare of a fowler in all his ways, and hatred in
 the house of his God” (<span id="iv.iv.x-p22.2"></span>[Hosea
-9:8](../../../bib/kjv/hos009.htm#008)<span id="iv.iv.x-p22.2"></span>).
+9:8](../../../bib/kjv/hos009.htm#008)<span id="iv.iv.x-p22.2"></span>.md).
 Here, by ironically connecting them with God, he shows that the pretext
 of the priesthood was vain. There was also a Church in the time of
 Jeremiah. Let us hear what he says of pastors: “From the prophet even
 unto the priest, every one dealeth falsely.” Again, “The prophets
 prophesy lies in my name: I sent them not, neither have I commanded
 them, neither spake unto them” (<span id="iv.iv.x-p22.3"></span>[Jer.
-6:13](../../../bib/kjv/jer006.htm#013)<span id="iv.iv.x-p22.3"></span>;
+6:13](../../../bib/kjv/jer006.htm#013.md)<span id="iv.iv.x-p22.3"></span>;
 14:14). And not to be prolix with quotations, read the whole of his
 thirty-third and fortieth chapters. Then, on the other hand, Ezekiel
 inveighs against them in no milder terms. “There is a conspiracy of her
 prophets in the midst thereof, like a roaring lion ravening the prey;
 they have devoured souls.” “Her priests have violated my law, and
 profaned mine holy things” (<span id="iv.iv.x-p22.4"></span>[Ezek.
-22:25](../../../bib/kjv/eze022.htm#025),
-[26](../../../bib/kjv/eze022.htm#026)<span id="iv.iv.x-p22.4"></span>).
+22:25](../../../bib/kjv/eze022.htm#025.md),
+[26](../../../bib/kjv/eze022.htm#026)<span id="iv.iv.x-p22.4"></span>.md).
 There is more to the same purpose. Similar complaints abound throughout
 the prophets; nothing is of more frequent recurrence.
 
@@ -188,17 +188,17 @@ so; but the Holy Spirit declared that it would be otherwise. For Peter’s
 words are clear, “But there were false prophets among the people, even
 as there shall be false teachers among you, who privily will bring in
 damnable heresies” (<span id="iv.iv.x-p23.1"></span>[2 Peter
-2:1](../../../bib/kjv/pe2002.htm#001)<span id="iv.iv.x-p23.1"></span>).
+2:1](../../../bib/kjv/pe2002.htm#001)<span id="iv.iv.x-p23.1"></span>.md).
 See how he predicts impending danger, not from ordinary believers, but
 from those who should plume themselves on the name of pastors and
 teachers. Besides, how often did Christ and his apostles foretell that
 the greatest dangers with which the Church was threatened would come
 from pastors? (<span id="iv.iv.x-p23.2"></span>[Matt.
-24:11](../../../bib/kjv/mat024.htm#011),
-[24](../../../bib/kjv/mat024.htm#024)<span id="iv.iv.x-p23.2"></span>).
+24:11](../../../bib/kjv/mat024.htm#011.md),
+[24](../../../bib/kjv/mat024.htm#024)<span id="iv.iv.x-p23.2"></span>.md).
 Nay, Paul openly declares, that Antichrist would have his seat in the
 temple of God (<span id="iv.iv.x-p23.3"></span>[2 Thess.
-2:4](../../../bib/kjv/th2002.htm#004)<span id="iv.iv.x-p23.3"></span>);
+2:4](../../../bib/kjv/th2002.htm#004)<span id="iv.iv.x-p23.3"></span>.md);
 thereby intimating, that the fearful calamity of which he was speaking
 would come only from those who should have their seat in the Church as
 pastors. And in another passage he shows that the introduction of this
@@ -207,8 +207,8 @@ he says, “I know this, that after my departing shall grievous wolves
 enter in among you, not sparing the flock. Also of your own selves shall
 men arise, speaking perverse things, to draw away disciples after them”
 (<span id="iv.iv.x-p23.4"></span>[Acts
-20:29](../../../bib/kjv/act020.htm#029),
-[30](../../../bib/kjv/act020.htm#030)<span id="iv.iv.x-p23.4"></span>).
+20:29](../../../bib/kjv/act020.htm#029.md),
+[30](../../../bib/kjv/act020.htm#030)<span id="iv.iv.x-p23.4"></span>.md).
 How great corruption might a long series of years introduce among
 pastors, when they could degenerate so much within so short a time? And
 not to fill my pages with details, we are reminded by the examples of
@@ -221,7 +221,7 @@ perform.
 
 <span id="iv.iv.x-p24"></span>5. Let no man, however, understand me as
 if I were desirous in everything rashly and unreservedly to overthrow
-the authority of pastors.56  <span id="fr_576"></span>[577](#fn_576) All
+the authority of pastors.56  <span id="fr_576"></span>[577](#fn_576.md) All
 I advise is, to exercise discrimination, and not suppose, as a matter of
 course, that all who call themselves pastors are so in reality. But the
 Pope, with the whole crew of his bishops, for no other reason but
@@ -234,14 +234,14 @@ still inflict his judgments, and in the present day punish the world for
 its wickedness, in the same way in which he punished the ingratitude of
 the ancient people—namely, by smiting pastors with astonishment and
 blindness (<span id="iv.iv.x-p25.1"></span>[Zech.
-12:4](../../../bib/kjv/zac012.htm#004)<span id="iv.iv.x-p25.1"></span>).
+12:4](../../../bib/kjv/zac012.htm#004)<span id="iv.iv.x-p25.1"></span>.md).
 These stupid men understand not that they are just chiming in with those
 of ancient times who warred with the word of God. For the enemies of
 Jeremiah thus set themselves against the truth, “Come, and let us devise
 devices against Jeremiah; for the law shall not perish from the priest,
 nor counsel from the wise, nor the word from the prophet” (<span
 id="iv.iv.x-p25.2"></span>[Jer.
-18:18](../../../bib/kjv/jer018.htm#018)<span
+18:18](../../../bib/kjv/jer018.htm#018.md)<span
 id="iv.iv.x-p25.2"></span>).
 
 <span id="iv.iv.x-p26"></span>6. Hence it is easy to reply to their
@@ -251,21 +251,21 @@ then been composed of the priests, what kind of appearance would the
 Church have had? We hear the Lord denouncing not against one or two of
 them, but the whole order: “The priests shall be astonished, and the
 prophets shall wonder” (<span id="iv.iv.x-p26.1"></span>[Jer.
-4:9](../../../bib/kjv/jer004.htm#009)<span id="iv.iv.x-p26.1"></span>).
+4:9](../../../bib/kjv/jer004.htm#009)<span id="iv.iv.x-p26.1"></span>.md).
 Again, “The law shall perish from the priest, and counsel from the
 ancients” (<span id="iv.iv.x-p26.2"></span>[Ezek.
-7:26](../../../bib/kjv/eze007.htm#026)<span id="iv.iv.x-p26.2"></span>).
+7:26](../../../bib/kjv/eze007.htm#026)<span id="iv.iv.x-p26.2"></span>.md).
 Again, “Therefore night shall be unto you, that ye shall not have a
 vision; and it shall be dark unto you, that ye shall not divine; and the
 sun shall go down over the prophets, and the day shall be dark over
 them,” &c. (<span id="iv.iv.x-p26.3"></span>[Micah
-3:6](../../../bib/kjv/mic003.htm#006)<span id="iv.iv.x-p26.3"></span>).
+3:6](../../../bib/kjv/mic003.htm#006)<span id="iv.iv.x-p26.3"></span>.md).
 Now, had all men of this description been collected together, what
 spirit would have presided over their meeting? Of this we have a notable
 instance in the council which Ahab convened (<span
 id="iv.iv.x-p26.4"></span>[1 Kings
-22:6](../../../bib/kjv/kg1022.htm#006),
-[22](../../../bib/kjv/kg1022.htm#022)<span id="iv.iv.x-p26.4"></span>).
+22:6](../../../bib/kjv/kg1022.htm#006.md),
+[22](../../../bib/kjv/kg1022.htm#022)<span id="iv.iv.x-p26.4"></span>.md).
 Four hundred prophets were present. But because they had met with no
 other intention than to flatter the impious king, Satan is sent by the
 Lord to be a lying spirit in all their mouths. The truth is there
@@ -276,7 +276,7 @@ into prison. So was it done to Jeremiah, and so to the other prophets.
 which may suffice for all. In the council which the priests and
 Pharisees assembled at Jerusalem against Christ (<span
 id="iv.iv.x-p27.1"></span>[John
-11:47](../../../bib/kjv/joh011.htm#047)<span
+11:47](../../../bib/kjv/joh011.htm#047.md)<span
 id="iv.iv.x-p27.1"></span>), what is wanting, in so far as external
 appearance is concerned? Had there been no Church then at Jerusalem,
 Christ would never have joined in the sacrifices and other ceremonies. A
@@ -289,7 +289,7 @@ matter of so great importance lies open to the charge of sluggishness.
 Nay, when the Spirit, by the mouth of Paul, foretells, in distinct
 terms, that a defection will take place, a defection which cannot come
 until pastors first forsake God (<span id="iv.iv.x-p27.2"></span>[2
-Thess. 2:3](../../../bib/kjv/th2002.htm#003)<span
+Thess. 2:3](../../../bib/kjv/th2002.htm#003.md)<span
 id="iv.iv.x-p27.2"></span>), why do we spontaneously walk blindfold to
 our own destruction? Wherefore, we cannot on any account admit that the
 Church consists in a meeting of pastors, as to whom the Lord has nowhere
@@ -432,7 +432,7 @@ betake themselves to a last miserable subterfuge. Although they should
 be dull in intellect and counsel, and most depraved in heart and will,
 still the word of the Lord remains, which commands us to obey those who
 have the rule over us (<span id="iv.iv.x-p32.1"></span>[Heb.
-13:17](../../../bib/kjv/heb013.htm#017)<span
+13:17](../../../bib/kjv/heb013.htm#017.md)<span
 id="iv.iv.x-p32.1"></span>). Is it indeed so? What if I should deny that
 those who act thus have the rule over us? They ought not to claim for
 themselves more than Joshua had, who was both a prophet of the Lord and
@@ -441,8 +441,8 @@ him to his office. “This book of the law shall not depart out of thy
 mouth; but thou shalt meditate therein day and night, that thou mayest
 observe to do according to all that is written therein: for then shalt
 thou make thy way prosperous, and thou shalt have good success” (<span
-id="iv.iv.x-p32.2"></span>[Josh. 1:7](../../../bib/kjv/jos001.htm#007),
-[8](../../../bib/kjv/jos001.htm#008)<span id="iv.iv.x-p32.2"></span>).
+id="iv.iv.x-p32.2"></span>[Josh. 1:7](../../../bib/kjv/jos001.htm#007.md),
+[8](../../../bib/kjv/jos001.htm#008)<span id="iv.iv.x-p32.2"></span>.md).
 Our spiritual rulers, therefore, will be those who turn not from the law
 of the Lord to the right hand or the left. But if the doctrine of all
 pastors is to be received without hesitation, why are we so often and so
@@ -451,21 +451,21 @@ anxiously admonished by the Lord not to give heed to false prophets?
 prophets that prophesy unto you; they make you vain: they speak a vision
 of their own heart, and not out of the mouth of the Lord” (<span
 id="iv.iv.x-p32.3"></span>[Jer.
-23:16](../../../bib/kjv/jer023.htm#016)<span
+23:16](../../../bib/kjv/jer023.htm#016.md)<span
 id="iv.iv.x-p32.3"></span>). Again, “Beware of false prophets, which
 come to you in sheep’s clothing but inwardly they are ravening wolves”
 (<span id="iv.iv.x-p32.4"></span>[Mt.
-7:15](../../../bib/kjv/mat007.htm#015)<span id="iv.iv.x-p32.4"></span>).
+7:15](../../../bib/kjv/mat007.htm#015)<span id="iv.iv.x-p32.4"></span>.md).
 In vain also would John exhort us to try the spirits whether they be of
 God (<span id="iv.iv.x-p32.5"></span>[1 John
-4:1](../../../bib/kjv/jo1004.htm#001)<span id="iv.iv.x-p32.5"></span>).
+4:1](../../../bib/kjv/jo1004.htm#001)<span id="iv.iv.x-p32.5"></span>.md).
 From this judgment not even angels are exempted (<span
 id="iv.iv.x-p32.6"></span>[Gal.
-1:8](../../../bib/kjv/gal001.htm#008)<span id="iv.iv.x-p32.6"></span>);
+1:8](../../../bib/kjv/gal001.htm#008)<span id="iv.iv.x-p32.6"></span>.md);
 far less Satan with his lies. And what is meant by the expression, “If
 the blind lead the blind, both shall fall into the ditch”? (<span
 id="iv.iv.x-p32.7"></span>[Mt.
-15:14](../../../bib/kjv/mat015.htm#014)<span id="iv.iv.x-p32.7"></span>)
+15:14](../../../bib/kjv/mat015.htm#014)<span id="iv.iv.x-p32.7"></span>.md)
 Does it not sufficiently declare that there is a great difference among
 the pastors who are to be heard, that all are not to be heard
 indiscriminately? Wherefore they have no ground for deterring us by
@@ -542,15 +542,15 @@ Council of Constance prohibited the giving of it to the people, and
 determined that the priest alone should drink. Though this is
 diametrically opposed to the institution of Christ (<span
 id="iv.iv.x-p34.1"></span>[Mt.
-26:26](../../../bib/kjv/mat026.htm#026)<span
+26:26](../../../bib/kjv/mat026.htm#026.md)<span
 id="iv.iv.x-p34.1"></span>), they will have it to be regarded as his
 interpretation. Paul terms the prohibition of marriage a doctrine of
 devils (<span id="iv.iv.x-p34.2"></span>[1 Tim.
-4:1](../../../bib/kjv/ti1004.htm#001),
-[3](../../../bib/kjv/ti1004.htm#003)<span id="iv.iv.x-p34.2"></span>);
+4:1](../../../bib/kjv/ti1004.htm#001.md),
+[3](../../../bib/kjv/ti1004.htm#003)<span id="iv.iv.x-p34.2"></span>.md);
 and the Spirit elsewhere declares that “marriage is honourable in all”
 (<span id="iv.iv.x-p34.3"></span>[Heb.
-13:4](../../../bib/kjv/heb013.htm#004)<span id="iv.iv.x-p34.3"></span>).
+13:4](../../../bib/kjv/heb013.htm#004)<span id="iv.iv.x-p34.3"></span>.md).
 Having afterwards interdicted their priests from marriage, they insist
 on this as a true and genuine interpretation of Scripture, though
 nothing can be imagined more alien to it. Should any one venture to open
@@ -582,7 +582,7 @@ on any account.
 
 ### Footnotes
 
-<span id="fn_574"></span>[575](inst089.htm#fr_574) <span
+<span id="fn_574"></span>[575](inst089.htm#fr_574.md) <span
 id="iv.iv.x-p1.1"></span>
 
 <span id="iv.iv.x-p2"></span>61 561 See Calvin’s Antidote to the
@@ -590,7 +590,7 @@ Articles of Sorbonne; Letter to Sadolet; Necessity of Reforming the
 Church; Antidote to the Council of Trent; Remarks on the Paternal
 Admonition of the Pope.
 
-<span id="fn_575"></span>[576](inst089.htm#fr_575) <span
+<span id="fn_575"></span>[576](inst089.htm#fr_575.md) <span
 id="iv.iv.x-p19.1"></span>
 
 <span id="iv.iv.x-p20"></span>62 562 French , “Si je tien ici la bride
@@ -602,7 +602,7 @@ yield anything to our opponents, it is not because I prize ancient
 councils less than I ought. For I honour them sincerely and desire that
 every man esteem them, and hold them in reverence.
 
-<span id="fn_576"></span>[577](inst089.htm#fr_576) <span
+<span id="fn_576"></span>[577](inst089.htm#fr_576.md) <span
 id="iv.iv.x-p24.1"></span>
 
 <span id="iv.iv.x-p25"></span>63 563 French, “Toutesfois je ne veux
@@ -616,4 +616,4 @@ lightly to despise it.
 
 [Next: CHAPTER 10. - OF THE POWER OF MAKING LAWS. THE CRUELTY OF THE
 POPE AND HIS ADHERENTS, IN THIS RESPECT, IN TYRANNICALLY OPPRESSING AND
-DESTROYING SOULS.](inst090)
+DESTROYING SOULS.](inst090.md)

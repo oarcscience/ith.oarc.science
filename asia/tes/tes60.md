@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes59)  [Next](tes61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes59)  [Next](tes61.md) 
 
 ------------------------------------------------------------------------
 
-### 6. STORY ABOUT A CRAZY OLD MAN. <span id="fr_91"></span>[1](#fn_91)
+### 6. STORY ABOUT A CRAZY OLD MAN. <span id="fr_91"></span>[1](#fn_91.md)
 
 There was an old man and an old woman. The old man was a good hunter: so
 he filled three large storehouses with the game he killed. One
@@ -45,9 +45,9 @@ Pokhotsk, the Kolyma country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_91"></span>[116:1](tes60.htm#fr_91) This story is based on
+<span id="fn_91"></span>[116:1](tes60.htm#fr_91.md) This story is based on
 one of the episodes of the well-known story of the Raven Kutq.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Story About Two Girls](tes61)
+[Next: 7. Story About Two Girls](tes61.md)

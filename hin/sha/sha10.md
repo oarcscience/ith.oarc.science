@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha09)  [Next](sha11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha09)  [Next](sha11.md) 
 
 ------------------------------------------------------------------------
 
@@ -945,4 +945,4 @@ My bow is strung; a distant goal
 
 ------------------------------------------------------------------------
 
-[Next: Act VII](sha11)
+[Next: Act VII](sha11.md)

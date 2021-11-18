@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad07)  [Next](mrad09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad07)  [Next](mrad09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -56,11 +56,11 @@ degree affected in manners, morals, or convictions. Here is his first
 drawing, done on a half sheet of green paper. The word "CHAIR"
 underneath, and the date, were written by Bob, while the words "drawn by
 Bob Irwin" were added for purposes of record by Craig ([fig.
-16](#img_fig016)):
+16](#img_fig016).md):
 
 <span id="page_56">p. 56</span>
 
-<span id="img_fig016"></span> ![Fig. 16](img/fig016.jpg)
+<span id="img_fig016"></span> ![Fig. 16](img/fig016.jpg.md)
 
 And now for Craig's results. I give her report verbatim, with the two
 drawings which are part of her text:
@@ -79,9 +79,9 @@ drawing. I try hard to see what
 he has drawn—try to see a paper with a drawing on it, and see a straight
 chair. Am not sure of second drawing. It does not seem to be on his
 paper. It may his bed-foot. I distinctly see a chair like 1st on his
-paper." ([fig. 16a](#img_fig016a)):
+paper." ([fig. 16a](#img_fig016a).md):
 
-<span id="img_fig016a"></span> ![Fig. 16a](img/fig016a.jpg)
+<span id="img_fig016a"></span> ![Fig. 16a](img/fig016a.jpg.md)
 
 When Bob and my wife discussed the above test, she learned that he had
 sat at the northeast corner of the table, trying to decide what to draw,
@@ -100,14 +100,14 @@ horizontal parallel lines, as in the back of the chair. The back of the
 chair Bob had looked at had a carved star upon it.
 
 The second attempt was the next day, and Bob drew his watch ([fig.
-17](#img_fig017)). Craig first drew a chair, and then wrote, "But do not
+17](#img_fig017).md). Craig first drew a chair, and then wrote, "But do not
 feel it is correct." Then she drew the following ([fig.
-17a](#img_fig017)):
+17a](#img_fig017).md):
 
 The comment was: "I see this picture. Later I think it is not flower but
 wire (metal, shining). The 'petals' are not petals but wire, and should
 
-<span id="img_fig017"></span> ![Fig. 17 Fig. 17a](img/fig017.jpg)
+<span id="img_fig017"></span> ![Fig. 17 Fig. 17a](img/fig017.jpg.md)
 
 <span id="page_59">p. 59</span>
 
@@ -120,20 +120,20 @@ Drawings then show an ellipse, and then a drinking glass and a glass
 pitcher. It is interesting to note that Bob had in front of him a glass
 bowl with gold-fish.
 
-The next day Bob drew a pair of scissors ([fig. 18](#img_fig018)):
+The next day Bob drew a pair of scissors ([fig. 18](#img_fig018).md):
 
-<span id="img_fig018"></span> ![Fig. 18](img/fig018.jpg)
+<span id="img_fig018"></span> ![Fig. 18](img/fig018.jpg.md)
 
 <span id="page_60">p. 60</span>
 
 The drawings of Craig follow without comment ([figs. 18a,
-18b](#img_fig018a)):
+18b](#img_fig018a).md):
 
-<span id="img_fig018a"></span> ![Fig. 18a Fig. 18b](img/fig018a.jpg)
+<span id="img_fig018a"></span> ![Fig. 18a Fig. 18b](img/fig018a.jpg.md)
 
 Three days later Bob drew the table fork, which has already been
-reproduced ([fig. 1](mrad03.htm#img_fig001)), and Craig made the report
-which has been given in facsimile ([fig. 1a](mrad03.htm#img_fig001a)):
+reproduced ([fig. 1](mrad03.htm#img_fig001).md), and Craig made the report
+which has been given in facsimile ([fig. 1a](mrad03.htm#img_fig001a).md):
 "See a table fork. Nothing else."
 
 One more test between Bob and Craig, the most sensational of all. It is
@@ -158,9 +158,9 @@ in the center. Then she saw another and much larger spot, and this began
 to spread and cover the sheet of paper. At the same time came a feeling
 of intense depression, and Craig decided that the black spot was blood,
 and that Bob had had a hemorrhage. Here is her drawing ([fig.
-19a](#img_fig019))
+19a](#img_fig019).md)
 
-<span id="img_fig019"></span> ![Fig. 19a](img/fig019.jpg)
+<span id="img_fig019"></span> ![Fig. 19a](img/fig019.jpg.md)
 
 <span id="page_62">p. 62</span>
 
@@ -197,4 +197,4 @@ blood; that Bob is ill—more than usual."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](mrad09)
+[Next: Chapter VIII](mrad09.md)

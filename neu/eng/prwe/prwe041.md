@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe040)  [Next](prwe042) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe040)  [Next](prwe042.md) 
 
 ------------------------------------------------------------------------
 
@@ -170,4 +170,4 @@ less, and lived happier, for ever afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: The Four-leaved Clover](prwe042)
+[Next: The Four-leaved Clover](prwe042.md)

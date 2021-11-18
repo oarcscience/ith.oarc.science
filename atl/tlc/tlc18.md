@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tlc17)  [Next](tlc19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tlc17)  [Next](tlc19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Continent*, by Cutcliffe Hyne, \[1900\], at Intangible Textual
 Heritage
 
@@ -62,7 +62,7 @@ of them a man can contend with prospect of success. But there are others
 whose hugeness no human force can battle against. One I saw, as it came
 up out of a lake after gaining its day's food, that made the wet land
 shake and pulse as it trod. It could have taken Phorenice's mammoth into
-its belly, <span id="fr_0"></span>[\*](#fn_0) and even a mammoth in full
+its belly, <span id="fr_0"></span>[\*](#fn_0.md) and even a mammoth in full
 charge could not have harmed it. Great horny plates covered its head and
 body, and on the ridge of its back
 
@@ -362,7 +362,7 @@ serve her first and foremost of all.
 
 ### Footnotes
 
-<span id="fn_0"></span>[262:\*](tlc18.htm#fr_0) *Translator's note:*
+<span id="fn_0"></span>[262:\*](tlc18.htm#fr_0.md) *Translator's note:*
 Professor Reeder of the Wyoming State University has recently unearthed
 the skeleton of a Brontosaurus, 130 feet in length, which would have
 weighed 50 tons when alive. It was 35 feet in height at the hips, and 25
@@ -372,4 +372,4 @@ series of these colossal lizards have been found.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Siege of the Sacred Mountain](tlc19)
+[Next: Chapter XVI. Siege of the Sacred Mountain](tlc19.md)

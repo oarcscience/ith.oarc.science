@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flo15)  [Next](flo17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flo15)  [Next](flo17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folklore and Legends: Oriental*, by Charles John Tibbitts, \[1889\], at
 Intangible Textual Heritage
 
@@ -154,4 +154,4 @@ Thus Ssidi's ninth relation treats of the Stealing of the Heart.
 
 ------------------------------------------------------------------------
 
-[Next: The Man and His Wife](flo17)
+[Next: The Man and His Wife](flo17.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis22)  [Next](kis24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis22)  [Next](kis24.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ not to be found.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](kis24)
+[Next: Part III](kis24.md)

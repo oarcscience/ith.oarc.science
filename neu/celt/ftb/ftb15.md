@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb14)  [Next](ftb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb14)  [Next](ftb16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -24,20 +24,20 @@ Textual Heritage
 
 <span id="img_15200"></span> <span align="CENTER"> [![Jegu Loved Barbaïk
 with all his heart](tn/15200.jpg)  
-Click to enlarge](img/15200.jpg)  
+Click to enlarge](img/15200.jpg.md)  
 Jegu Loved Barbaïk with all his heart  
 </span>
 
 <span id="page_153">p. 153</span>
 
 <span id="img_15300"></span> ![The Country Bumpkin and the
-Hobgoblin](img/15300.jpg)
+Hobgoblin](img/15300.jpg.md)
 
 <span id="img_15301"></span>
 
 |                     |
 |---------------------|
-| ![B](img/15301.jpg) |
+| ![B](img/15301.jpg.md) |
 
 EHIND the town of Morlaix there is a beautiful glen which shelters many
 fine farms where cattle are bred and corn is grown. Here, long ago, one
@@ -388,4 +388,4 @@ thumbs!
 
 ------------------------------------------------------------------------
 
-[Next: The Wasp, the Winged Needle and the Spider](ftb16)
+[Next: The Wasp, the Winged Needle and the Spider](ftb16.md)

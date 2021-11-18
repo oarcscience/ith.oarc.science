@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm13)  [Next](tsm15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm13)  [Next](tsm15.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ forests of sea-tangle
 
 [![SEAL-FOLK LISTENING TO A MERMAID'S SONG&lt;BR&gt; &lt;I&gt;From a
 drawing by John Duncan, A.R.S.A&lt;/I&gt;.](tn/13800.jpg)  
-Click to enlarge](img/13800.jpg)  
+Click to enlarge](img/13800.jpg.md)  
 SEAL-FOLK LISTENING TO A MERMAID'S SONG  
 *From a drawing by John Duncan, A.R.S.A*.  
 
@@ -257,4 +257,4 @@ prospered, and lived happily until the day of his death.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Story of Thomas the Rhymer](tsm15)
+[Next: Chapter XII. Story of Thomas the Rhymer](tsm15.md)

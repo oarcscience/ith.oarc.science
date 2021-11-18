@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf24) [Next](bulf26) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf24) [Next](bulf26.md) 
 
 # CHAPTER XXVI.
 
@@ -271,4 +271,4 @@ traces of kindred to the old story of Galatea and the Cyclops.
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XXVII. The Trojan War.](bulf26)
+Next: [CHAPTER XXVII. The Trojan War.](bulf26.md)

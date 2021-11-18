@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe227)  [Next](prwe229) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe227)  [Next](prwe229.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ In some localities apples are blessed on St James's Day, July 25.
 
 ------------------------------------------------------------------------
 
-[Next: Allhallows-Eve at St Ives](prwe229)
+[Next: Allhallows-Eve at St Ives](prwe229.md)

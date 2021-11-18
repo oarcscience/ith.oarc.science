@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](toz03)  [Next](toz05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](toz03)  [Next](toz05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Teachings of Zoroaster*, by S.A. Kapadia, \[1905\], at Intangible
 Textual Heritage
 
@@ -28,8 +28,8 @@ Textual Heritage
 ### INTRODUCTION
 
 "I WILL now tell you who are assembled here the wise sayings of
-Mazda, <span id="fr_0"></span>[\*](#fn_0) the praises of Ahura, <span
-id="fr_1"></span>[†](#fn_1) and the hymns of the Good Spirit, the
+Mazda, <span id="fr_0"></span>[\*](#fn_0.md) the praises of Ahura, <span
+id="fr_1"></span>[†](#fn_1.md) and the hymns of the Good Spirit, the
 sublime truth which I see rising out of these flames. You shall
 therefore <span class="smallcaps">hearken to the Soul of Nature</span>.
 Contemplate the beams of fire with a most pious mind! Every one, both
@@ -46,10 +46,10 @@ ancient prophet of Bactria derived his holy inspiration after thirty
 years of divine meditation on a secluded and inaccessible mountain-top
 of "Ushidarena." Thus fortified in communion with Ahura-Mazda, "Spitama
 Zarathustra" proceeded to the city of Balkh, at the time the capital of
-the King of Iran, Kava Vishtaçpa. <span id="fr_2"></span>[\*](#fn_2)
+the King of Iran, Kava Vishtaçpa. <span id="fr_2"></span>[\*](#fn_2.md)
 
 Clothed in pure white flowing vestments, bearing with him the sacred
-fire, <span id="fr_3"></span>[†](#fn_3) "Adar Burzin Mehr," and a staff
+fire, <span id="fr_3"></span>[†](#fn_3.md) "Adar Burzin Mehr," and a staff
 or sceptre made of a cypress tree, this sage of antiquity appeared
 before the court of Kava Vishtaçpa. By persuasion and argument he
 unfolded his religious mission; and proclaimed the mandate of Ahura, in
@@ -184,7 +184,7 @@ The answer came:
 
 "As high as Heaven is above the earth, which it encompasses, so high
 above all other utterances the law of Mazdeism stands." <span
-id="fr_4"></span>[\*](#fn_4)
+id="fr_4"></span>[\*](#fn_4.md)
 
 "<span class="smallcaps">You shall therefore hearken to  
 the Soul of Nature</span>"
@@ -231,7 +231,7 @@ deceived; He who destroys malice; He who conquers everything; He who has
 shaped everything; All Weal; Full Weal; Master of Weal; He who can
 benefit at His wish; the Beneficent One; the Energetic One; Holiness;
 the Great One; the Best of Sovereigns; the Wise One." <span
-id="fr_5"></span>[\*](#fn_5)
+id="fr_5"></span>[\*](#fn_5.md)
 
 "He is the Light and Source of Light; He is the Wisdom and Intellect. He
 is in possession of all good things, spiritual and worldly, such as
@@ -244,7 +244,7 @@ good mind \[*vohumano*\], immortality \[*ameretad*\], health
 vairya*\]. All these gifts He grants to the righteous man who is upright
 in thoughts, words, and deeds. As the ruler of the whole universe, He
 not only rewards the good, but He is a punisher of the wicked at the
-same time." <span id="fr_6"></span>[\*](#fn_6)
+same time." <span id="fr_6"></span>[\*](#fn_6.md)
 
 In the Zoroastrian Liturgy (Yaçna I.), Zarathustra describes God as
 
@@ -254,7 +254,7 @@ Most Beautiful.
      .     .     .     .     .
 
 \(4\) "who created us, who formed us, who keeps us, the Holiest among
-the heavenly." <span id="fr_7"></span>[†](#fn_7)
+the heavenly." <span id="fr_7"></span>[†](#fn_7.md)
 
 The scope of this work does not permit me to discuss comparative
 theology; but this I will say, that ancient as the Zoroastrian religion
@@ -316,7 +316,7 @@ the earth; fourth, plants; fifth, lower animals; and sixth and last,
 man. Man is created free to act after his own heart and understanding.
 
 "I have made every land dear to its dwellers, even though it had no
-charms whatever in it," <span id="fr_8"></span>[\*](#fn_8) said
+charms whatever in it," <span id="fr_8"></span>[\*](#fn_8.md) said
 Ahura-Mazda to Zoroaster.
 
 Sixteen different regions and countries created by Ahura-Mazda are
@@ -387,7 +387,7 @@ of the foreign notion that Mazda-worship is decidedly more dualistic
 than Christianity is usually shown to be by orthodox writers, or for any
 allusion to the descent of the good and evil spirits from a
 personification of 'boundless time' as asserted by strangers to the
-faith." <span id="fr_9"></span>[\*](#fn_9)
+faith." <span id="fr_9"></span>[\*](#fn_9.md)
 
  
 
@@ -483,7 +483,7 @@ wicked accomplices.
 "That one wish which Ahura-Mazda, the Lord, contemplates, as regards
 men, is this, that 'Ye shall fully understand Me; for every one who
 fully understands Me, comes after Me and strives for My
-satisfaction.'" <span id="fr_10"></span>[\*](#fn_10)
+satisfaction.'" <span id="fr_10"></span>[\*](#fn_10.md)
 
 Zoroaster, in order to stem the tide of destruction, went to the root of
 the evil and laid the foundation-stone of his great moral philosophy,
@@ -572,7 +572,7 @@ body and prevention of infectious diseases by contact.
 every one in this corporeal world for his own state,
 
 "When he keeps himself pure by good thoughts, words, and works." <span
-id="fr_11"></span>[\*](#fn_11)
+id="fr_11"></span>[\*](#fn_11.md)
 
 Having made men invulnerable to diseases, Zoroaster proceeded to look
 after their morals. His moral philosophy deals with two attributes
@@ -633,7 +633,7 @@ and brighten the homes of our less fortunate brethren.
 well-performed action.
 
 "I praise the good Mazdayasnian law, the free from doubt, removing
-strife." <span id="fr_12"></span>[\*](#fn_12)
+strife." <span id="fr_12"></span>[\*](#fn_12.md)
 
 One can picture to himself the properly ordained household of a
 Zoroastrian, who has carefully imbibed the abstract principles of
@@ -681,7 +681,7 @@ reputation of his family and the honour of his community.
 <span id="page_39">p. 39</span>
 
 "May the desirable obedience come hither, for joy to the men and women
-of Zarathustra." <span id="fr_13"></span>[\*](#fn_13)
+of Zarathustra." <span id="fr_13"></span>[\*](#fn_13.md)
 
 Tolerance is another great feature of the Parsi faith. Though taught to
 revere his own religion and despise and destroy idols and images, he is
@@ -691,7 +691,7 @@ set the example of this excellent precept, whilst praising the soul
 ("Fravashi").
 
 "The Fravashis of the pure men in all regions praise we." <span
-id="fr_14"></span>[†](#fn_14)
+id="fr_14"></span>[†](#fn_14.md)
 
 It is evident that he prayed for all wise and holy men and women who
 believed in God. That the same spirit exists to the present day, is
@@ -814,7 +814,7 @@ sharp-edged sword of the best tempered steel and more effective in their
 purpose than the brute force of a salient blow.
 
 As to kindness to dumb animals, the following passage from Patet
-Erani <span id="fr_15"></span>[\*](#fn_15) (Khordah-Avesta) will show
+Erani <span id="fr_15"></span>[\*](#fn_15) (Khordah-Avesta.md) will show
 what the Zoroastrians think:
 
 "Of all kinds of sins which I have committed with reference to Heaven
@@ -849,7 +849,7 @@ body.
 
 "No one who does not eat, has strength to do works of holiness, strength
 to do works of husbandry. By eating, every material creature lives; by
-not eating, it dies away." <span id="fr_16"></span>[\*](#fn_16)
+not eating, it dies away." <span id="fr_16"></span>[\*](#fn_16.md)
 
 "With us the keeping of fast is this, that we keep fast from committing
 sin with our eyes, and tongue, and ears, and hands, and feet. . . .
@@ -861,14 +861,14 @@ sin with our eyes, and tongue, and ears, and hands, and feet. . . .
 brought forward the fasting of the seven members of the body, that
 which, in other religions, is fasting owing to not eating, is, in our
 religion, fasting owing to not committing sin \[excess\]." <span
-id="fr_17"></span>[\*](#fn_17)
+id="fr_17"></span>[\*](#fn_17.md)
 
 Readers, such are a few salient principles of the Zoroastrian theology
 of the Life on the Earth, which I now close by quoting from the
 Vendidad:
 
 "<span class="smallcaps">Increase, live the whole Time of thy Life,  
-as long as thou wilt live.</span>" <span id="fr_18"></span>[†](#fn_18)
+as long as thou wilt live.</span>" <span id="fr_18"></span>[†](#fn_18.md)
 
 "<span class="smallcaps">Of the Life Hereafter</span>"
 
@@ -1039,7 +1039,7 @@ Then the nation will be rewarded by the sight of the sons of the soil,
 marching in distant climes for the glory and honour of the British flag,
 as soldiers of God and the King, and pioneers of the ever-extending
 British Empire, as did their heroic brethren in Persia of old under the
-victorious flag of illustrious Gāo. <span id="fr_19"></span>[\*](#fn_19)
+victorious flag of illustrious Gāo. <span id="fr_19"></span>[\*](#fn_19.md)
 
 <span id="page_52">p. 52</span>
 
@@ -1060,11 +1060,11 @@ it; when by Me the sun and moon and stars are conducted in the firmament
 of luminous bodies; when by Me corn was created so that, scattered about
 in the earth, it grew again and returned with increase; when by Me
 colour of various kinds was created in plants; when by Me fire <span
-id="fr_20"></span>[\*](#fn_20) was created in plants and other things
+id="fr_20"></span>[\*](#fn_20.md) was created in plants and other things
 without combustion; when by Me a son was created and fashioned in the
 womb of a mother, and the structure severally of the skin, nails, blood,
 feet, eyes, ears, and other things was produced; when by Me legs <span
-id="fr_21"></span>[†](#fn_21) were created for the water, so that it
+id="fr_21"></span>[†](#fn_21.md) were created for the water, so that it
 flows away, and the cloud was created which carries the water of the
 world and rains there where it has a
 
@@ -1079,7 +1079,7 @@ resurrection that they exist, but when they were formed it was not
 forming the future out of the past."
 
 According to the ancient "Bundahis," <span
-id="fr_22"></span>[\*](#fn_22) at the time of the resurrection, the soul
+id="fr_22"></span>[\*](#fn_22.md) at the time of the resurrection, the soul
 will demand its original body out of the custody of the three known
 elements the Earth, the Water, and the Fire. All the dead will rise with
 consciousness of their good and evil deeds. At the Great Assembly, in
@@ -1091,7 +1091,7 @@ wicked for three nights and days the wicked,
 
 <span class="small">"Full in the sight of Paradise,  
  Beholding Heaven and feeling Hell." <span
-id="fr_23"></span>[†](#fn_23)</span>
+id="fr_23"></span>[†](#fn_23.md)</span>
 
 </div>
 
@@ -1135,7 +1135,7 @@ of those whom we have loved, respected, and adored—fathers and mothers,
 wives, brothers and sisters, relations and friends—who have done their
 duty and have gone before us, in accordance with the law, and with whom
 we hope to mingle—the body, dust to dust, the soul, in eternal bliss of
-"Garodemana." <span id="fr_24"></span>[\*](#fn_24)
+"Garodemana." <span id="fr_24"></span>[\*](#fn_24.md)
 
 S. A. KAPADIA.
 
@@ -1146,73 +1146,73 @@ S. A. KAPADIA.
 
 ### Footnotes
 
-<span id="fn_0"></span>[15:\*](toz04.htm#fr_0) All-Knowing.
+<span id="fn_0"></span>[15:\*](toz04.htm#fr_0.md) All-Knowing.
 
-<span id="fn_1"></span>[15:†](toz04.htm#fr_1) The Lord.
+<span id="fn_1"></span>[15:†](toz04.htm#fr_1.md) The Lord.
 
-<span id="fn_2"></span>[16:\*](toz04.htm#fr_2) King Gushtasp.
+<span id="fn_2"></span>[16:\*](toz04.htm#fr_2.md) King Gushtasp.
 
-<span id="fn_3"></span>[16:†](toz04.htm#fr_3) Symbol of Life.
+<span id="fn_3"></span>[16:†](toz04.htm#fr_3.md) Symbol of Life.
 
-<span id="fn_4"></span>[21:\*](toz04.htm#fr_4) Free translation of
+<span id="fn_4"></span>[21:\*](toz04.htm#fr_4.md) Free translation of
 Fargard V. of the Vendidad.
 
-<span id="fn_5"></span>[22:\*](toz04.htm#fr_5) Ormuzd Yast. Tr. by
+<span id="fn_5"></span>[22:\*](toz04.htm#fr_5.md) Ormuzd Yast. Tr. by
 Darmesteter.
 
-<span id="fn_6"></span>[23:\*](toz04.htm#fr_6) Dr. Haug.
+<span id="fn_6"></span>[23:\*](toz04.htm#fr_6.md) Dr. Haug.
 
-<span id="fn_7"></span>[23:†](toz04.htm#fr_7) For further information on
+<span id="fn_7"></span>[23:†](toz04.htm#fr_7.md) For further information on
 this subject see extracts Yaçna XLIV.
 
-<span id="fn_8"></span>[25:\*](toz04.htm#fr_8) Fargard I. of the
+<span id="fn_8"></span>[25:\*](toz04.htm#fr_8.md) Fargard I. of the
 Vendidad.
 
-<span id="fn_9"></span>[28:\*](toz04.htm#fr_9) Dr. E. W. West's
+<span id="fn_9"></span>[28:\*](toz04.htm#fr_9.md) Dr. E. W. West's
 "Introduction to the Sacred Books of the East," Vol. 18.
 
-<span id="fn_10"></span>[31:\*](toz04.htm#fr_10) Dinâ-î Maînôg-î Khirad.
+<span id="fn_10"></span>[31:\*](toz04.htm#fr_10.md) Dinâ-î Maînôg-î Khirad.
 
-<span id="fn_11"></span>[35:\*](toz04.htm#fr_11) Fargard X. of the
+<span id="fn_11"></span>[35:\*](toz04.htm#fr_11.md) Fargard X. of the
 Vendidad.
 
-<span id="fn_12"></span>[37:\*](toz04.htm#fr_12) Yaçna XIV.
+<span id="fn_12"></span>[37:\*](toz04.htm#fr_12.md) Yaçna XIV.
 
-<span id="fn_13"></span>[39:\*](toz04.htm#fr_13) Yaçna LIII.
+<span id="fn_13"></span>[39:\*](toz04.htm#fr_13.md) Yaçna LIII.
 
-<span id="fn_14"></span>[39:†](toz04.htm#fr_14) Farvardin-Yasht.
+<span id="fn_14"></span>[39:†](toz04.htm#fr_14.md) Farvardin-Yasht.
 
-<span id="fn_15"></span>[43:\*](toz04.htm#fr_15) A prayer of repentance
+<span id="fn_15"></span>[43:\*](toz04.htm#fr_15.md) A prayer of repentance
 for sin.
 
-<span id="fn_16"></span>[44:\*](toz04.htm#fr_16) Fargard III. of the
+<span id="fn_16"></span>[44:\*](toz04.htm#fr_16.md) Fargard III. of the
 Vendidad (Darmesteter).
 
-<span id="fn_17"></span>[45:\*](toz04.htm#fr_17) Sad Dar LXXXIII.
+<span id="fn_17"></span>[45:\*](toz04.htm#fr_17.md) Sad Dar LXXXIII.
 
-<span id="fn_18"></span>[45:†](toz04.htm#fr_18) Fargard XVIII. (Bleeck's
+<span id="fn_18"></span>[45:†](toz04.htm#fr_18.md) Fargard XVIII. (Bleeck's
 Translation).
 
-<span id="fn_19"></span>[51:\*](toz04.htm#fr_19) See *Notes*.
+<span id="fn_19"></span>[51:\*](toz04.htm#fr_19.md) See *Notes*.
 
-<span id="fn_20"></span>[52:\*](toz04.htm#fr_20) Means life or vitality.
+<span id="fn_20"></span>[52:\*](toz04.htm#fr_20.md) Means life or vitality.
 
-<span id="fn_21"></span>[52:†](toz04.htm#fr_21) Conduit, canal or water
+<span id="fn_21"></span>[52:†](toz04.htm#fr_21.md) Conduit, canal or water
 ways.
 
-<span id="fn_22"></span>[53:\*](toz04.htm#fr_22) "Original Creation" (a
+<span id="fn_22"></span>[53:\*](toz04.htm#fr_22.md) "Original Creation" (a
 book).
 
-<span id="fn_23"></span>[53:†](toz04.htm#fr_23) "Lalla Rookh" (Thomas
+<span id="fn_23"></span>[53:†](toz04.htm#fr_23.md) "Lalla Rookh" (Thomas
 Moore).
 
-<span id="fn_24"></span>[55:\*](toz04.htm#fr_24) "House of hymns"—the
+<span id="fn_24"></span>[55:\*](toz04.htm#fr_24.md) "House of hymns"—the
 highest Heaven.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Extracts](toz05)
+[Next: Extracts](toz05.md)
 
 </div>

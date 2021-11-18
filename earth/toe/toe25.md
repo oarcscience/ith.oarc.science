@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe24)  [Next](toe26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe24)  [Next](toe26.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ couches d'une des faces de celles de la face opposée.
 
 «J'ai observé plusieurs montagnes secondaires, et du Jura et d'ailleurs,
 et surtout un grande nombre de montagne primitive, dont la structure est
-la même <span id="fr_51"></span>[1](#fn_51).»
+la même <span id="fr_51"></span>[1](#fn_51.md).»
 
 «§ 340. Les couches perpendiculaires à l'horizon, que l'on rencontre
 fréquemment dans le Jura ont presque toutes leurs plans dirigés du
@@ -520,7 +520,7 @@ bizarreries; nous voyons, comme je l'ai déjà dit, des albâtres formés
 pour ainsi dire sous nos yeux par de vrayes crystallizations dans les
 crevasses, et dans les cavernes des montagnes, presenter des couches
 dans lesquelles on observe des jeux tout aussi singuliers <span
-id="fr_52"></span>[2](#fn_52).»
+id="fr_52"></span>[2](#fn_52.md).»
 
 «Je ne repugnerois donc pas à croire que le rocher de la cascade a pu
 être formé dans la situation dans laquelle il se presente; si ce vuide à
@@ -793,14 +793,14 @@ of its truth.
 
 ### Footnotes
 
-<span id="fn_51"></span>[v2:1](toe25.htm#fr_51) This correspondency in
+<span id="fn_51"></span>[v2:1](toe25.htm#fr_51.md) This correspondency in
 the shape of the primitive and secondary mountains of our author, of
 which the structure is the same, is an important observation for our
 theory, which makes the origin of those two different things to be
 similar; it is inconsistent, however, with the notion of primitive
 parts, which some philosophers have entertained.
 
-<span id="fn_52"></span>[v2:2](toe25.htm#fr_52) M. de Saussure would
+<span id="fn_52"></span>[v2:2](toe25.htm#fr_52.md) M. de Saussure would
 explain the various shape and contortions of strata upon the principles
 of crystallization; but surely he has not adverted to the distinction of
 crystallization as an operation giving form or shape, and as giving only
@@ -829,4 +829,4 @@ the marine bodies contained in some of the strata sufficiently attest.
 ------------------------------------------------------------------------
 
 [Next: Chapter II. The same Subject continued, with examples from
-different Countries](toe26)
+different Countries](toe26.md)

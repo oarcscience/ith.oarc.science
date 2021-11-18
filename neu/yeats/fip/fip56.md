@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip55)  [Next](fip57) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip55)  [Next](fip57.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ And he died on the waters, away, far away!
 
 ------------------------------------------------------------------------
 
-[Next: The Phantom Isle, by Giraldus Cambrensis](fip57)
+[Next: The Phantom Isle, by Giraldus Cambrensis](fip57.md)

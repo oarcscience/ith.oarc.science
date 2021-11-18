@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ptn70)  [Next](ptn72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn70)  [Next](ptn72.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
 Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ Better still Zimmermann,
 <span class="small">"Ananu (Oji ananse) n. *spider*. This animal is the
 subject of many superstitions; for instance, that it has a bad influence
 upon children sleeping in the same room; it plays, moreover, a
-[principal](errata.htm#1) [role](errata.htm#2) in their fables, in which
+[principal](errata.htm#1) [role](errata.htm#2.md) in their fables, in which
 the acting personages are mostly animals; whence these fables are called
 in Oji *spider stories*, anansesem. The spider is represented as
 speaking through the nose, and its hobbling walk and other peculiarities
@@ -73,4 +73,4 @@ evident to philologists.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Jack-Spaniard's Waist is Small](ptn72)
+[Next: Why The Jack-Spaniard's Waist is Small](ptn72.md)

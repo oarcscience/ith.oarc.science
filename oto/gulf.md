@@ -1,5 +1,5 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Sacred texts](../index)  [Thelema](index) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Sacred texts](../index)  [Thelema](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,22 +7,22 @@
 
 ### <span id="Index">Index</span>
 
-> -   [**Chapter I**](#1)
-> -   [**Chapter II**](#2)
-> -   [**Chapter III**](#3)
-> -   [**Chapter IV**](#4)
-> -   [**Chapter V**](#5)
-> -   [**Chapter VI**](#6)
-> -   [**Chapter VII**](#7)
-> -   [**Chapter VIII**](#8)
-> -   [**Chapter IX**](#9)
-> -   [**Chapter X**](#10)
+> -   [**Chapter I**](#1.md)
+> -   [**Chapter II**](#2.md)
+> -   [**Chapter III**](#3.md)
+> -   [**Chapter IV**](#4.md)
+> -   [**Chapter V**](#5.md)
+> -   [**Chapter VI**](#6.md)
+> -   [**Chapter VII**](#7.md)
+> -   [**Chapter VIII**](#8.md)
+> -   [**Chapter IX**](#9.md)
+> -   [**Chapter X**](#10.md)
 
 ------------------------------------------------------------------------
 
 ### <span id="1">CHAPTER I</span>
 
-#### [Top](#Index)
+#### [Top](#Index.md)
 
 AT last the matter comes back into my mind.
 
@@ -193,7 +193,7 @@ of the earth in her course.
 
 ### <span id="2">CHAPTER II</span>
 
-#### [Top](#Index)
+#### [Top](#Index.md)
 
 SO for many years I grew sleek and subtle in my womans attire. And the
 old eunuch (who was very wise) instructed me in the Art of Magic and in
@@ -328,7 +328,7 @@ the Veiled One it shall next be related.
 
 ### <span id="3">CHAPTER III</span>
 
-#### [Top](#Index)
+#### [Top](#Index.md)
 
 IT was the Equinox of Spring, and all my life stirred in me. They led me
 down cool colonnades of mighty stone clad in robes of white broidered
@@ -551,7 +551,7 @@ Now of what further befell I will write anon.
 
 ### <span id="4">CHAPTER IV</span>
 
-#### [Top](#Index)
+#### [Top](#Index.md)
 
 SO it came to pass that I no longer went out at all from the presence of
 the goddess, save only to eat and to sleep. And the favour of her was
@@ -775,7 +775,7 @@ verily, I was alone!
 
 ### <span id="5">CHAPTER V</span>
 
-#### [Top](#Index)
+#### [Top](#Index.md)
 
 NOW then the great exhaustion took hold upon me, and I fell at the feet
 of the Osiris as one dead. All knowledge of terrestrial things was gone
@@ -956,7 +956,7 @@ of Nilus new life began to dawn in me.
 
 ### <span id="6">CHAPTER VI</span>
 
-#### [Top](#Index)
+#### [Top](#Index.md)
 
 WITHOUT any long delay I descended the slopes and entered the city. Not
 knowing what might have taken place in Thebai and what news might have
@@ -1108,7 +1108,7 @@ verily, I laughed, and laughed -- and laughed --
 
 ### <span id="7">CHAPTER VII</span>
 
-#### [Top](#Index)
+#### [Top](#Index.md)
 
 THEN being healed of my madness I took all the treasure of that old
 Magus which he had laid up for many years -- and none gainsaid me. Great
@@ -1343,7 +1343,7 @@ But of this more anon, in its due place.
 
 ### <span id="8">CHAPTER VIII</span>
 
-#### [Top](#Index)
+#### [Top](#Index.md)
 
 BEHOLD me then returned to Thebai! So scarred and altered was I, though
 not yet thirty years of age, that they knew me not. so I offered myself
@@ -1555,7 +1555,7 @@ Yea! bitterly would I avenge him on the morrow.
 
 ### <span id="9">CHAPTER IX</span>
 
-#### [Top](#Index)
+#### [Top](#Index.md)
 
 NOW this was the manner of my working, that I inspired the High
 Priestess to an Oracle, so that she prophesied, saying that Osiris
@@ -1718,7 +1718,7 @@ encircleth the world, so that they who fear may be comforted.
 
 ### <span id="10">CHAPTER X</span>
 
-#### [Top](#Index)
+#### [Top](#Index.md)
 
 BUT of these matters I am warned that I shall not now become aware, for
 that there be great mysteries therein contained, pertaining to a degree

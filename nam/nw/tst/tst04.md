@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](tst03)  [Next](tst05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](tst03)  [Next](tst05.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,7 +250,7 @@ daughter of <u>G</u>auô'?" Then the Land-Otter came, and said, "I am the
 one who will marry your daughter, <u>G</u>auô'." Then she asked him,
 "What can you, on your part, do, son-in-law?" and the Otter said, "I
 dive with my enemy until he is drowned." Then the chieftainess said,
-"Let me see [what](errata.htm#1) you are talking about!" Then the Otter
+"Let me see [what](errata.htm#1.md) you are talking about!" Then the Otter
 took a marten and dived with it in the water. It was not long before the
 marten was drowned. Then <u>G</u>auô' said, "Finish what you are talking
 about, son-in-law! Go!" Then the Otter went away slowly.
@@ -325,7 +325,7 @@ Then he advised them strongly that they should not look out. She
 disobeyed a fourth time, therefore the young man became angry. Then he
 went up to the top of a tree, pulled out a branch, and that was where he
 put the woman in. Then the young man said, "Travellers shall always
-listen to you." <span id="fr_7"></span>[1](#fn_7)
+listen to you." <span id="fr_7"></span>[1](#fn_7.md)
 
 Then he flew up to the sky, and he arrived up above
 
@@ -355,7 +355,7 @@ destroyed, like thunder from the sky. Four times they heard the noise.
 Four times it did so. Then suddenly one of the young men said, "Hurrah!
 There is just a noise in the village of the silly people, of the brave
 people without minds, in the old town." <span
-id="fr_8"></span>[1](#fn_8) Then the old people forbade the young people
+id="fr_8"></span>[1](#fn_8.md) Then the old people forbade the young people
 to say so, lest something strange might happen. Much fog always
 remained.
 
@@ -490,7 +490,7 @@ their wealth to get back their song.
 And if one clan uses their crest, they fight, or then also they scatter
 their goods to get back their crest; and also when a foreign clan uses
 their name. Each clan has its names. A foreign clan cannot use the names
-of another family. My <span id="fr_9"></span>[2](#fn_9) child is not
+of another family. My <span id="fr_9"></span>[2](#fn_9.md) child is not
 named from the names of my relatives. Its name is (that of) one of the
 relatives of its mother, and so are the other names.
 
@@ -536,17 +536,17 @@ the Tsimshian.
 
 ### Footnotes
 
-<span id="fn_7"></span>[211:1](tst04.htm#fr_7) This is the reason why
+<span id="fn_7"></span>[211:1](tst04.htm#fr_7.md) This is the reason why
 the branches of trees creak.
 
-<span id="fn_8"></span>[213:1](tst04.htm#fr_8) This sentence is
+<span id="fn_8"></span>[213:1](tst04.htm#fr_8.md) This sentence is
 evidently wrong. The word doi~~l~~gis~~l~~ (Tate, doilthgishlth) and the
 end of the sentence are quite obscure, and the syntactic form does not
 seem to give good sense.
 
-<span id="fn_9"></span>[223:2](tst04.htm#fr_9) It will be remembered
+<span id="fn_9"></span>[223:2](tst04.htm#fr_9.md) It will be remembered
 that this text was written by a man.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Story of Porcupine and Beaver](tst05)
+[Next: 4. Story of Porcupine and Beaver](tst05.md)

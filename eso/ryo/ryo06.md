@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo05) 
-[Next](ryo07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo05.md) 
+[Next](ryo07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Raja Yoga*, by Yogi Ramacharaka (William Walker Atkinson), \[1906\], at
 Intangible Textual Heritage
 
@@ -257,7 +257,7 @@ Prof. Elmer Gates, of Washington, D. C., whose mind has unfolded many
 wonderful discoveries and inventions, is also a practical Yogi although
 he may repudiate the assertion vigorously, and may not have familiarized
 himself with the principles of this science, which he has "dropped into"
-[unconsciously](errata.htm#2). Those who have reported upon Prof. Gates’
+[unconsciously](errata.htm#2.md). Those who have reported upon Prof. Gates’
 methods, say that he fairly "digs out" the inventions and discoveries
 from his mind, after going
 
@@ -669,4 +669,4 @@ birthright.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson V. The Cultivation of Attention](ryo07)
+[Next: Lesson V. The Cultivation of Attention](ryo07.md)

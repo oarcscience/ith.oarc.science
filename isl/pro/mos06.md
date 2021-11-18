@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos05)  [Next](mos07) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos05)  [Next](mos07.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ than the pharaoh.
 
 ------------------------------------------------------------------------
 
-[Next: Taking Off The Shoes in The Valley of Tuwa](mos07)
+[Next: Taking Off The Shoes in The Valley of Tuwa](mos07.md)

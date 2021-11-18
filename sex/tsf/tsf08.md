@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf07)  [Next](tsf09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf07)  [Next](tsf09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ Was the mystery of life and the joy of living</em>.</p></td>
 
 #### I
 
-LET us raise our anchor in the [calendar](errata.htm#0) and recklessly
+LET us raise our anchor in the [calendar](errata.htm#0.md) and recklessly
 sail out into the infinity of time. It is high noon and before the chain
 is pulled in we are already at the French Revolution. We witness an
 ill-humored mob angered by hunger and blinded by the sudden glare of
@@ -366,7 +366,7 @@ wines, grapes
 <span id="img_15300"></span>
 
 [![At a Baalic festival](tn/15300.jpg)  
-Click to enlarge](img/15300.jpg)  
+Click to enlarge](img/15300.jpg.md)  
 At a Baalic festival  
 
 and pomegranates, for all these things were equally sacred to the god.
@@ -524,9 +524,9 @@ him blindly into a tent, where both priestess and worshipper consummate
 the final crying prayer to Baal, the prayer of love.
 
 <span id="img_15800"></span> ![Anubis as the guardian of the
-Dead](img/15800.jpg)  
+Dead](img/15800.jpg.md)  
 Anubis as the guardian of the Dead
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. A Night With Aphrodite](tsf09)
+[Next: Chapter II. A Night With Aphrodite](tsf09.md)

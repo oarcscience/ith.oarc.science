@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](lodw02)  [Next](lodw04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](lodw02)  [Next](lodw04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ observance, and the cake, which was then baken with scrupulous attention
 to certain rites and forms, was divided into fragments, which were
 formally dedicated to birds or beasts of prey that they, or rather the
 being whose agents they were, might spare the flocks and herds. <span
-id="fr_8"></span>[9](#fn_8)
+id="fr_8"></span>[9](#fn_8.md)
 
      Another custom of similar origin lingered late among us. In many
 parishes of Scotland there was suffered to exist a certain portion of
@@ -94,7 +94,7 @@ a veneration for greybearded superstition has suffered any one of them
 to remain undesecrated. For the same reason the mounts called Sith
 Bhruaith were respected, and it was deemed unlawful and dangerous to cut
 wood, dig earth and stones, or otherwise disturb them. <span
-id="fr_9"></span>[10](#fn_9)
+id="fr_9"></span>[10](#fn_9.md)
 
       Now, it may at first sight seem strange that the Christian
 religion should have permitted the existence of such gross and impious
@@ -153,7 +153,7 @@ in the same light in which it was viewed in the law of Moses, had
 denounced death against any who used these unlawful enquiries into
 futurity. " Let the unlawful curiosity of prying into futurity," says
 the law, " be silent in every one henceforth and for ever. <span
-id="fr_10"></span>[11](#fn_10) For, subjected to the avenging sword of
+id="fr_10"></span>[11](#fn_10.md) For, subjected to the avenging sword of
 the law, he shall be punished capitally who disobeys our commands in
 this matter."
 
@@ -178,7 +178,7 @@ often the dethronement or death of the sovereign was produced by
 conspiracies or mutinies which took their rise from pretended
 prophecies. In this mode of viewing the crime, the lawyers of the lower
 empire acted upon the example of those who had compiled the laws of the
-twelve tables. <span id="fr_11"></span>[12](#fn_11) The mistaken and
+twelve tables. <span id="fr_11"></span>[12](#fn_11.md) The mistaken and
 misplaced devotion which Horace recommends to the rural nymph, Phidyle,
 would have been a crime of a deep dye in a Christian convert, and must
 have subjected him to excommunication, as one relapsed to the rites of
@@ -241,7 +241,7 @@ season for courtship, is also borrowed from the Roman pagans, which, had
 these fanatics been aware of it, would have been an additional reason
 for their anathema against the practice. The ancients have given us as a
 maxim, that it is only had women who marry in that month. <span
-id="fr_12"></span>[13](#fn_12)
+id="fr_12"></span>[13](#fn_12.md)
 
       The custom of saying God bless you, when a person in company
 sneezes, is, in like manner, derived from sternutation being considered
@@ -277,7 +277,7 @@ particular spot under various forms -- is a deity, as his name implies,
 of Teutonic descent; and if it be true, as the author has been informed,
 that some families bearing the name of Dobie carry a phantom or spectre,
 passant, in their armorial bearings, <span
-id="fr_13"></span>[14](#fn_13) it plainly implies that, however the word
+id="fr_13"></span>[14](#fn_13.md) it plainly implies that, however the word
 may have been selected for a proper name, its original derivation had
 not then been forgotten.
 
@@ -342,7 +342,7 @@ watch, informed her mistress, by one in a blue mantle. " Alas !" said
 Katla, " it is the sorceress Geirada, against whom spells avail not."
 Accordingly, the hostile party, entering for the fourth time, seized on
 the object of their animosity, and put him to death. <span
-id="fr_14"></span>[15](#fn_14) This species of witchcraft is well known
+id="fr_14"></span>[15](#fn_14.md) This species of witchcraft is well known
 in Scotland as the *glamour*, or *deceptio visus*, and was supposed to
 be a special attribute of the race of Gipsies.
 
@@ -358,7 +358,7 @@ comes the word *Hexe,* now universally used for a witch; a circumstance
 which plainly shows that the mythological system of the ancient natives
 of the North had given to the modern language an appropriate word for
 distinguishing those females who had intercourse with the spiritual
-world. <span id="fr_15"></span>[16](#fn_15)
+world. <span id="fr_15"></span>[16](#fn_15.md)
 
       It is undeniable that these Pythonesses were held in high respect
 while the pagan religion lasted; but for that very reason they became
@@ -385,7 +385,7 @@ Sagas concerning bold champions, who had fought, not only with the
 sorcerers, but with the demigods of the system, and come off unharmed,
 if not victorious, in the contest. Hother, for example, encountered the
 god Thor in battle, as Diomede, in the Iliad, engages with Mars, and
-with like success. Bartholsine <span id="fr_16"></span>[17](#fn_16)
+with like success. Bartholsine <span id="fr_16"></span>[17](#fn_16.md)
 gives us repeated examples of the same kind. " Know this," said Kiartan
 to Olaus Trigguasen, " that I believe neither in idols nor demons. I
 have travelled through various strange countries, and have encountered
@@ -399,7 +399,7 @@ of Mezentius --
 
       " Dextra: mihi Deus, et telum, quod missile libro,
 
-      Nunc adsint!" <span id="fr_17"></span>[18](#fn_17)
+      Nunc adsint!" <span id="fr_17"></span>[18](#fn_17.md)
 
      And we cannot wonder that champions of such a character, careless
 oftheir gods while yet acknowledged as such, readily regarded them
@@ -487,7 +487,7 @@ contest and victory, thismangled conqueror fell dead before them. The
 body of Assueit was takenout of the tomb, burnt, and the ashes dispersed
 to heaven; whilst thatof the victor, now lifeless and without a
 companion, was depositedthere, so that it was hoped his slumbers might
-remain undisturbed.  <span id="fr_18"></span>[19](#fn_18) The
+remain undisturbed.  <span id="fr_18"></span>[19](#fn_18.md) The
 precautions taken against Assueit's reviving asecond time, remind us of
 those adopted in the Greek islands and in theTurkish provinces against
 the vampire. It affords also a derivation ofthe ancient English law in
@@ -536,7 +536,7 @@ abandon their dwelling, departed, or vanished, from the astonished
 inquest. Judgment then went against the ghosts by default; and the trial
 by jury, of which we here can trace the origin, obtained a triumph
 unknown to any of the great writers who have made it the subject of
-eulogy. <span id="fr_19"></span>[20](#fn_19)
+eulogy. <span id="fr_19"></span>[20](#fn_19.md)
 
       It was not only with the spirits of the dead that the warlike
 people of the North made war without timidity, and successfully entered
@@ -694,7 +694,7 @@ with the recusant smith who fled before Fingal from Ireland to the
 Orkneys, and being there overtaken, was compelled to forge the sword
 which Fingal afterwards wore in all his battles, and which was called
 the Son of the dark brown Luno, from the name of the armourer who forged
-it. <span id="fr_20"></span>[21](#fn_20)
+it. <span id="fr_20"></span>[21](#fn_20.md)
 
       From this it will appear that there were originals enough in the
 mythology of the Goths, as well as Celts, to furnish the modern
@@ -760,17 +760,17 @@ by moonlight.
 
 ### Footnotes
 
-<span id="fn_8"></span>[9](lodw03.htm#fr_8) See Pennant's "Scottish
+<span id="fn_8"></span>[9](lodw03.htm#fr_8.md) See Pennant's "Scottish
 Tour," vol. i. p. III. The traveller mentions that some festival of the
 same kind was in his time observed in Gloucestershire.
 
-<span id="fn_9"></span>[10](lodw03.htm#fr_9) See "Essay on the
+<span id="fn_9"></span>[10](lodw03.htm#fr_9.md) See "Essay on the
 Subterranean Commonwealth," by Mr. Robert Kirke. minister of Aberfoyle.
 
-<span id="fn_10"></span>[11](lodw03.htm#fr_10) "Codex," lib. ix. tit.
+<span id="fn_10"></span>[11](lodw03.htm#fr_10.md) "Codex," lib. ix. tit.
 18, cap. 1, 2, 3, 5, 6, 7, 8.
 
-<span id="fn_11"></span>[12](lodw03.htm#fr_11) By this more ancient
+<span id="fn_11"></span>[12](lodw03.htm#fr_11.md) By this more ancient
 code, the punishment of death was indeed denounced against those who
 destroyed crops, awakened storms, or brought over to their barns and
 garners the fruits of the earth; but, by good fortune, it left the
@@ -785,19 +785,19 @@ the return of his farm to be the produce of his own hard and unremitting
 labour, as well as superior skill, was dismissed with the highest
 honours.
 
-<span id="fn_12"></span>[13](lodw03.htm#fr_12) "Malæ nubent Maria."
+<span id="fn_12"></span>[13](lodw03.htm#fr_12.md) "Malæ nubent Maria."
 
-<span id="fn_13"></span>[14](lodw03.htm#fr_13) A similar bearing has
+<span id="fn_13"></span>[14](lodw03.htm#fr_13.md) A similar bearing has
 been ascribed, for the same reason, to those of the name of Fantome, who
 carried of old a goblin, or phantom, in a shroud sable passant, on a
 field azure. Both bearings are founded on what is called canting
 heraldry, a species of art disowned by the writers on the science, yet
 universally made use of by those who practise the art of blazonry.
 
-<span id="fn_14"></span>[15](lodw03.htm#fr_14) Eyrbiggia Saga, in "
+<span id="fn_14"></span>[15](lodw03.htm#fr_14.md) Eyrbiggia Saga, in "
 Northern Antiquities."
 
-<span id="fn_15"></span>[16](lodw03.htm#fr_15) It may be worth while to
+<span id="fn_15"></span>[16](lodw03.htm#fr_15.md) It may be worth while to
 notice that the word Haxa is still used in Scotland in its sense of a
 druidess, or chief priestess, to distinguish the places where such
 females exercised their ritual. There is a species of small intrenchment
@@ -812,23 +812,23 @@ discernible, called the *Haxell-gate;* leading to a small glen or narrow
 valley called the *HaxelleIeuch*-both which words are probably derived
 from the Haxa or chief priestess of the pagans.
 
-<span id="fn_16"></span>[17](lodw03.htm#fr_16) "De causis contemptæ
+<span id="fn_16"></span>[17](lodw03.htm#fr_16.md) "De causis contemptæ
 necis," lib. i. cap 6.
 
-<span id="fn_17"></span>[18](lodw03.htm#fr_17) "Æneid," lib. x. line
+<span id="fn_17"></span>[18](lodw03.htm#fr_17.md) "Æneid," lib. x. line
 773&gt;
 
-<span id="fn_18"></span>[19](lodw03.htm#fr_18) See Saxo Grammaticus,
+<span id="fn_18"></span>[19](lodw03.htm#fr_18.md) See Saxo Grammaticus,
 "Hist. Dan.," lib. v.
 
-<span id="fn_19"></span>[20](lodw03.htm#fr_19) Eyrbiggia Saga. See
+<span id="fn_19"></span>[20](lodw03.htm#fr_19.md) Eyrbiggia Saga. See
 "Northern Antiquities."
 
-<span id="fn_20"></span>[21](lodw03.htm#fr_20) The weapon is often
+<span id="fn_20"></span>[21](lodw03.htm#fr_20.md) The weapon is often
 mentioned in Mr. MacPherson's paraphrases; but the Irish ballad, which
 gives a spirited account of the debate between the champion and the
 armourer, is nowhere introduced.
 
 ------------------------------------------------------------------------
 
-[Next: Letter 4](lodw04)
+[Next: Letter 4](lodw04.md)

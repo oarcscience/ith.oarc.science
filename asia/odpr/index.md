@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](odpr00)
+[Contents](#contents)    [Start Reading](odpr00.md)
 
 ------------------------------------------------------------------------
 
@@ -42,37 +42,37 @@ and includes a few samples of their sacred literature.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](odpr00)  
-[Plates](odpr01)  
-[Foreword](odpr02)  
-[Preface](odpr03)  
-[Table of Contents](odpr04)  
-[Chapter I. A Unique and Secret Sect](odpr05)  
-[Chapter II. Social and Historical Development](odpr06)  
-[Chapter III. Racial Origins](odpr07)  
-[Chapter IV. The Persian Origin of the Druzes](odpr08)  
-[Chapter V. Druze Theology and Its Sources](odpr09)  
-[Chapter VI. Dogmas and Precepts](odpr10)  
-[Chapter VII. Folklore](odpr11)  
+<span id="contents"></span> [Title Page](odpr00.md)  
+[Plates](odpr01.md)  
+[Foreword](odpr02.md)  
+[Preface](odpr03.md)  
+[Table of Contents](odpr04.md)  
+[Chapter I. A Unique and Secret Sect](odpr05.md)  
+[Chapter II. Social and Historical Development](odpr06.md)  
+[Chapter III. Racial Origins](odpr07.md)  
+[Chapter IV. The Persian Origin of the Druzes](odpr08.md)  
+[Chapter V. Druze Theology and Its Sources](odpr09.md)  
+[Chapter VI. Dogmas and Precepts](odpr10.md)  
+[Chapter VII. Folklore](odpr11.md)  
 <span id="section_000"></span>
 
 ### Appendices: Druze Sacred Writings
 
 [Appendix A. Covenant of Induction Into the Religion of the Ruler of the
-Age](odpr12)  
-[Appendix B. Al-Ḥākim's Ordinance Prohibiting the Use of Wine](odpr13)  
+Age](odpr12.md)  
+[Appendix B. Al-Ḥākim's Ordinance Prohibiting the Use of Wine](odpr13.md)  
 [Appendix C: Excerpt From the Charter Found Posted on the Walls of the
 Mosques on the Occasion of the Disappearance of Our Lord Al-Imām
-Al-Ḥākim](odpr14)  
+Al-Ḥākim](odpr14.md)  
 [Appendix D. Excerpt From the Epistle Entitled Al-Qusṭanṭīniyyah
 Addressed by Bahā’-al-Dīn to the Byzantine Emperor
-Constantine](odpr15)  
+Constantine](odpr15.md)  
 [Appendix E: Excerpt From Bahā’-al-Dīn's Epistle Entitled
-Christianity](odpr16)  
+Christianity](odpr16.md)  
 [Appendix F. Exhortations And Prayers By Al-Sayyid ‘Abdullāh
-Al-Tanūkhi](odpr17)  
+Al-Tanūkhi](odpr17.md)  
 
  
 
-[Index](odpr18)  
-[Map](odpr19)  
+[Index](odpr18.md)  
+[Map](odpr19.md)  

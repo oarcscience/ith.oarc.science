@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh16)  [Next](lsbh18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh16)  [Next](lsbh18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -90,7 +90,7 @@ her his beast to ride, "She shall be thine, and she shall go with thee
 to thine house." And the soldier being bashful and hardly liking to
 accept her, her master swore that neither the maid nor the price thereof
 should come into his possession; and, thus he made a gift \[worth\]
-sixty thousand *zûzê* in a moment <span id="fr_96"></span>[1](#fn_96).
+sixty thousand *zûzê* in a moment <span id="fr_96"></span>[1](#fn_96.md).
 
 CCCCXX\. Another man brought a gift to a certain king, and having
 accepted it the king was sad. And when he was asked why he was sad, he
@@ -187,13 +187,13 @@ they are begging for alms."
 
 ### Footnotes
 
-<span id="fn_96"></span>[107:1](lsbh17.htm#fr_96) *I.e.*, £ 1500, if we
+<span id="fn_96"></span>[107:1](lsbh17.htm#fr_96.md) *I.e.*, £ 1500, if we
 reckon the zûzâ at sixpence.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Thirteenth Chapter: Stories of Misers](lsbh18)
+[Next: The Thirteenth Chapter: Stories of Misers](lsbh18.md)
 
 </div>

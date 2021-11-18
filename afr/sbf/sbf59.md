@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf58)  [Next](sbf60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf58)  [Next](sbf60.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -49,6 +49,6 @@ ugly; the other woman who has had her nose pierced, is handsome.
 
 ------------------------------------------------------------------------
 
-[Next: Cutting Off The Top Of The Little Finger. Second Account](sbf60)
+[Next: Cutting Off The Top Of The Little Finger. Second Account](sbf60.md)
 
 </div>

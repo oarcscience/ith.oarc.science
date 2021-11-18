@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp09)  [Next](dmp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp09)  [Next](dmp11.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ Peteri, Pater, Enphe, Enphe, the god who is above heaven, in
 
 whose hand is the beautiful staff, (14) who created deity, deity not
 having created him, come into the midst of this fire that is here before
-thee, he of Boel, Aniel <span id="fr_4"></span>[1](#fn_4)
+thee, he of Boel, Aniel <span id="fr_4"></span>[1](#fn_4.md)
 
 |                                                                                                        |                                                                                                                                              |
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -86,9 +86,9 @@ Abit, Thatlat, Maribal.'
 
 ### Footnotes
 
-<span id="fn_4"></span>[61:1](dmp10.htm#fr_4) These interlineations are
+<span id="fn_4"></span>[61:1](dmp10.htm#fr_4.md) These interlineations are
 words to be substituted in the case of no medium being employed.
 
 ------------------------------------------------------------------------
 
-[Next: Col. VII](dmp11)
+[Next: Col. VII](dmp11.md)

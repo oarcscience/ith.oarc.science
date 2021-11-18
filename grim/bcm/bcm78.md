@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm77)  [Next](bcm79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm77)  [Next](bcm79.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ preceding sections. It is scarcely a complete process and is not
 intelligible as it stands in the *Grimorium Verum*, where the characters
 on which it depends are omitted. The scheme presupposes that the
 operator is in possession of a talisman inscribed with the Pentacles of
-Solomon, <span id="fr_277"></span>[1](#fn_276) when it is open to him to
+Solomon, <span id="fr_277"></span>[1](#fn_276.md) when it is open to him to
 proceed in accordance with the following directions:--
 
 Compose your circle, but before entering therein, perfume it with musk,
@@ -25,8 +25,8 @@ you have fire whensoever you make invocation, and fumigate only in the
 name of the Spirit whom you would call. When placing perfume on the
 fire, say: *I burn this N. in the name and to the honour of N*. When
 invoking, see that you hold the invocation in the left hand, having the
-rod of elder <span id="fr_278"></span>[1](#fn_277) in your right, while
-the ladle <span id="fr_279"></span>[2](#fn_278) and knife should be at
+rod of elder <span id="fr_278"></span>[1](#fn_277.md) in your right, while
+the ladle <span id="fr_279"></span>[2](#fn_278.md) and knife should be at
 your feet. These things being arranged, place yourself within the
 circle; if accompanied, your companions should hold each other by one
 hand. When within, trace the circle with the Knife of the Art, and take
@@ -45,17 +45,17 @@ until you return at my call. In the name, &c. Amen*.
 
 ### Footnotes
 
-<span id="fn_276"></span>[321:1](bcm78.htm#fr_277) The grand pentacle,
+<span id="fn_276"></span>[321:1](bcm78.htm#fr_277.md) The grand pentacle,
 as given by the *Grimoire of Honorius*, will be found on [p.
-277](bcm66.htm#page_277).
+277](bcm66.htm#page_277.md).
 
-<span id="fn_277"></span>[322:1](bcm78.htm#fr_278) See the method for
+<span id="fn_277"></span>[322:1](bcm78.htm#fr_278.md) See the method for
 the composition of the Magic Rod according to the *Grimorium Verum* in
 the second chapter of this part.
 
-<span id="fn_278"></span>[322:2](bcm78.htm#fr_279) Not previously
+<span id="fn_278"></span>[322:2](bcm78.htm#fr_279.md) Not previously
 mentioned under this name.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Concerning Infernal Necromancy](bcm79)
+[Next: Chapter IX: Concerning Infernal Necromancy](bcm79.md)

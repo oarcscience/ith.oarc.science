@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vob07)  [Next](vob09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vob07)  [Next](vob09.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ kingship of Lochlann and of
 <span id="page_73">p. 73</span>
 
 the Saxons and Britons.' Then the warrior took a venomous hound <span
-id="fr_142"></span>[1](#fn_142) out of his cloak, and a chain upon it,
+id="fr_142"></span>[1](#fn_142.md) out of his cloak, and a chain upon it,
 and said: 'By my word, not a single sheep shall carry its head from her
 to the fortress of the king of Lochlann, and she will kill three hundred
 of the hosts of Lochlann, and thou shalt have what'will come of \[5\]
@@ -120,8 +120,8 @@ night his wife brought forth a son, and they were christened together,
 and the son of Fiachna was named Mongan, and the son of the attendant
 was named Mac an Daimh. And there was another warrior reigning together
 with Fiachna the Fair, to wit Fiachna the Black, \[20\] son of
-Deman, <span id="fr_143"></span>[2](#fn_143) who lay heavily on
-his <span id="fr_144"></span>[3](#fn_144) rule. And to him in the same
+Deman, <span id="fr_143"></span>[2](#fn_143.md) who lay heavily on
+his <span id="fr_144"></span>[3](#fn_144.md) rule. And to him in the same
 night a daughter was born, to whom the name Dubh-Lacha (Black Duck)
 White-hand was given, and Mongan and Dubh-Lacha were affianced to each
 other. When Mongan was three nights old, Manannan came for him and took
@@ -137,7 +137,7 @@ stronghold, and burnt and destroyed it, and killed
 <span id="page_74">p. 74</span>
 
 Fiachna himself, and seized the kingship of Ulster by force. <span
-id="fr_145"></span>[1](#fn_145) And all the men of Ulster desired Mongan
+id="fr_145"></span>[1](#fn_145.md) And all the men of Ulster desired Mongan
 to be brought to them when he was six years old, but Manannan did not
 bring him to Ulster till he had completed sixteen years. And then \[5\]
 he came to Ulster, and the men of Ulster made peace between themselves
@@ -147,22 +147,22 @@ it was done so.
 
 7\. One day while Mongan and his wife were playing *fidchell*, \[10\]
 they saw a dark black-tufted little cleric at the door-post, who said:
-'This inactivity <span id="fr_146"></span>[2](#fn_146) in which thou
+'This inactivity <span id="fr_146"></span>[2](#fn_146.md) in which thou
 art, O Mongan, is not an inactivity becoming a king of Ulster, not to go
 to avenge thy father on Fiachna the Black, son of Deman, though
 Dubh-Lacha may think it wrong to tell thee so. For he has now but \[15\]
 a small host and force with him; and come with me thither, and let us
 burn the fortress, and let us kill Fiachna.' 'There is no knowing what
-luck <span id="fr_147"></span>[3](#fn_147) there may be on that saying,
+luck <span id="fr_147"></span>[3](#fn_147.md) there may be on that saying,
 O cleric,' said Mongan, 'and we shall go with thee.' And thus it was
 done, for Fiachna the Black was killed by them. <span
-id="fr_148"></span>[4](#fn_148) Mongan seized \[20\] the kingship of
+id="fr_148"></span>[4](#fn_148.md) Mongan seized \[20\] the kingship of
 Ulster, and the little cleric who had done the treason was Manannan the
 great and mighty.
 
 8\. And the nobles of Ulster were gathered to Mongan, and he said to
 them: 'I desire to go to seek boons <span
-id="fr_149"></span>[5](#fn_149) from the provincial kings of Ireland,
+id="fr_149"></span>[5](#fn_149.md) from the provincial kings of Ireland,
 that I may get gold and silver and \[25\] wealth to give away.' 'That is
 a good plan,' said they. And he went forth into the provinces of
 Ireland, until he came to Leinster. And the king of Leinster at that
@@ -208,7 +208,7 @@ my word! I shall not go with thee until thou grant me the sentence of my
 
 <span class="contnote">\[paragraph continues\]</span> 'Thy word to
 fulfil it!' saith she. The king of Leinster gave his word, with the
-exception of his being left . . . <span id="fr_150"></span>[1](#fn_150)
+exception of his being left . . . <span id="fr_150"></span>[1](#fn_150.md)
 'Then, said Dubh-Lacha, 'I desire that until the end of one year we be
 not brought for one night into the same house, and if in the \[5\]
 course of a day thou comest into the same house with me, that thou
@@ -225,7 +225,7 @@ which Mongan had taken Duhh-Lacha, Mac an Daimh had taken her
 foster-sister, who was her trusty attendant, and who had gone into
 Leinster with Dubh-Lacha. So one day Mac an Daimh came into the house
 where Mongan was, and said: 'Things are in a \[20\] bad way with
-thee, <span id="fr_151"></span>[2](#fn_151) O Mongan,' saith he, 'and
+thee, <span id="fr_151"></span>[2](#fn_151.md) O Mongan,' saith he, 'and
 evil was thy journey into the Land of Promise to the house of Manannan,
 since thou hast learnt nothing there, except consuming food and
 practising foolish things, and it is hard on me that my wife has been
@@ -236,7 +236,7 @@ that worse than I myself,' said Mongan.
 
 12\. And Mongan said to Mac an Daimh: 'Go,' saith he, \[30\] 'to the
 cave of the door, in which we left the basket of . . ., <span
-id="fr_152"></span>[3](#fn_152) and a sod from Ireland and another from
+id="fr_152"></span>[3](#fn_152.md) and a sod from Ireland and another from
 Scotland in it, that I may go with thee on thy back; for the king of
 Leinster will
 
@@ -254,7 +254,7 @@ and they recognised him. 'That is sad, O Mac an Daimh,' said Mongan,
 'evil is the journey on which we have come.' And they saw the holy
 cleric going so past them, even Tibraide, the priest of Cell Charnain,
 with his four gospels in his own hand, and the . . . <span
-id="fr_153"></span>[1](#fn_153) upon the back of a cleric by his side,
+id="fr_153"></span>[1](#fn_153.md) upon the back of a cleric by his side,
 and they reading their offices. And wonder seized Mac an Daimh as to
 what the cleric said, and he kept asking Mongan: 'What did he say?'
 Mongan said \[15\] it was reading, and he asked Mac an Daimh whether he
@@ -269,7 +269,7 @@ river here. But as the river has got there, it is well there is a bridge
 across it.' They proceeded to the bridge, and when they had reached
 \[25\] its middle, it fell under them, and Mongan snatched the gospels
 out of Tibraide's hand, and sent them <span
-id="fr_154"></span>[2](#fn_154) down the river. And he asked Mac an
+id="fr_154"></span>[2](#fn_154.md) down the river. And he asked Mac an
 Daimh whether he should drown them. 'Certainly, let them be drowned!'
 said Mac an Daimh 'We will not do it,' said Mangan. 'We will let them
 down the \[30\] river the length of a mile, till we have done our task
@@ -321,7 +321,7 @@ to have killed the woman, for she would have told what we have done.'
 even Tibraide, and three times nine men with him. The doorkeepers said:
 'We never saw a year in \[5\] which Tibraides were more plentiful than
 this year. Ye have a Tibraide within and a Tibraide without' '’Tis
-true,' said Mongan. <span id="fr_155"></span>[1](#fn_155) 'Mongan has
+true,' said Mongan. <span id="fr_155"></span>[1](#fn_155.md) 'Mongan has
 come in my shape. Come out,' said he, 'and I will reward you, and let
 yonder clerics be killed, for they are noblemen of Mongan's that have
 been \[10\] put into the shape of clerics.' And the men of the household
@@ -337,7 +337,7 @@ departed. And the king asked: 'Where is Tibraide?' \[20\] saith he. 'It
 was not Tibraide that was here,' said the woman, 'but Mongan, since you
 will hear it.' 'Were you with Mongan, girl?' said he. 'I was,' said she,
 'for he has the greatest claim on me.' 'Send for Tibraide,' said the
-king, 'for . . . <span id="fr_156"></span>[2](#fn_156) we have chanced
+king, 'for . . . <span id="fr_156"></span>[2](#fn_156.md) we have chanced
 to kill his people.' And Tibraide was brought to them, and Mongan went
 home and did not come again until the end of a quarter, and during that
 time he was in a wasting sickness.
@@ -351,12 +351,12 @@ not myself
 
 <span id="page_80">p. 80</span>
 
-able to go.' <span id="fr_157"></span>[1](#fn_157) Thereafter Dubh-Lacha
+able to go.' <span id="fr_157"></span>[1](#fn_157.md) Thereafter Dubh-Lacha
 said: 'Let Mongan come to me,' said she, 'for the king of Leinster is on
 a journey around Leinster, and Ceibhin Cochlach, the attendant of the
 king's chariot, is with me and keeps telling me to escape, and \[5\]
 that he himself would come with me. And Mongan behaves in a weak
-manner,' <span id="fr_158"></span>[2](#fn_158) said she. And Mac an
+manner,' <span id="fr_158"></span>[2](#fn_158.md) said she. And Mac an
 Daimh went to incite Mongan.
 
 20\. Thereupon Mongan set out to Raith Descirt of Bregia, and he sat
@@ -391,12 +391,12 @@ bring her with me.'
 22\. And in that way the year passed by, and Mongan and Mac an Daimb set
 out to the king of Leinster's house. There were the nobles of Leinster
 going into the place. and a great \[5\] feast was being prepared towards
-the marriage of Dubh-Lacha. And he <span id="fr_159"></span>[1](#fn_159)
+the marriage of Dubh-Lacha. And he <span id="fr_159"></span>[1](#fn_159.md)
 vowed he would marry her. And they came to the green outside. 'O
 Mongan,' said Mac an Daimh, 'in what shape shall we go?' And as they
 were there, they see the hag of the mill, to wit, Cuimne. And she was a
 hag as tall as a \[10\] weaver's beam, <span
-id="fr_160"></span>[2](#fn_160) and a large chain-dog with her licking
+id="fr_160"></span>[2](#fn_160.md) and a large chain-dog with her licking
 the mill-stones, with a twisted rope around his neck, and Brothar was
 his name. And they saw a hack mare with an old pack-saddle upon her,
 carrying corn and flour from the mill.
@@ -414,7 +414,7 @@ me or with the King of Leinster.' 'I \[25\] will do that certainly,'
 said Cuimne. And with the magic wand he gave a stroke to the dog, which
 became a sleek white lap-dog, the fairest that was in the world, with a
 silver chain around its neck and a little bell of gold on it, so that
-it <span id="fr_161"></span>[3](#fn_161) would have fitted into the palm
+it <span id="fr_161"></span>[3](#fn_161.md) would have fitted into the palm
 of a man. And he gage a stroke to \[30\] the hag, who became a young
 girl, the fairest of form and make of the daughters of theworld,to wit,
 Ibbell of the Shining Cheeks,
@@ -442,7 +442,7 @@ man in the palace, and \[20\] next to thee I am the second best in the
 house, and by the side of the king I will be.'
 
 25\. And the drinking-house was put in order. And Mongan put a
-love-charm <span id="fr_162"></span>[1](#fn_162) into the cheeks of the
+love-charm <span id="fr_162"></span>[1](#fn_162.md) into the cheeks of the
 hag, and from the look which the king of Leinster cast on her he was
 filled with her \[25\] love, so that there was not a bone of his of the
 size of an inch, but was filled with love of the girl. And he called his
@@ -456,7 +456,7 @@ my advice, thou wouldst not be with a worse man than myself or the king
 
 <span id="page_83">p. 83</span>
 
-of Leinster.' 'I have no choice <span id="fr_163"></span>[1](#fn_163) of
+of Leinster.' 'I have no choice <span id="fr_163"></span>[1](#fn_163.md) of
 bridegroom, whichever of you will be husband to me.' 'If that be so,'
 said Morgan, 'when he comes to thee, say that by his gifts and precious
 things thou wilt know him who loves thee, and ask him, for the
@@ -483,7 +483,7 @@ said they. 'You know this woman by my side, to wit, \[25\] Dubh-Lacba of
 the White Hands, daughter of Fiachna Dubh son of Deman. I took her from
 him on terms of "friendship without refusal," and if thou Iike, I would
 exchange with thee.' And great anger and ferocity seized him, <span
-id="fr_164"></span>[2](#fn_164) and he said: 'If I had brought steeds
+id="fr_164"></span>[2](#fn_164.md) and he said: 'If I had brought steeds
 and studs with me, it would be right to ask \[30\] them of me. However,
 it is not right to refuse a lord . . ., though I am loath it should be
 so, take her to thee.' And as they made the exchange, Mongan gave three
@@ -512,73 +512,73 @@ she. 'Pity that I should have slept with thee, O Cuimne!'
 
 ### Footnotes
 
-<span id="fn_142"></span>[73:1](vob08.htm#fr_142) *brot-chú*, perhaps a
+<span id="fn_142"></span>[73:1](vob08.htm#fr_142.md) *brot-chú*, perhaps a
 mastiff. See Glossary.
 
-<span id="fn_143"></span>[73:2](vob08.htm#fr_143) He was ruler of the
+<span id="fn_143"></span>[73:2](vob08.htm#fr_143.md) He was ruler of the
 *Dál Fiatach*. See the Four Masters, A.D. 597 and 622.
 
-<span id="fn_144"></span>[73:3](vob08.htm#fr_144) *i.e.* Fiachna Finn's.
+<span id="fn_144"></span>[73:3](vob08.htm#fr_144.md) *i.e.* Fiachna Finn's.
 
-<span id="fn_145"></span>[74:1](vob08.htm#fr_145) I can make nothing of
+<span id="fn_145"></span>[74:1](vob08.htm#fr_145.md) I can make nothing of
 *ulagh* in the phrase *don ulagh sin*. As to this final battle between
 the two Fíachnas, see the Four Masters, A.D. 622.
 
-<span id="fn_146"></span>[74:2](vob08.htm#fr_146) lit. silence
+<span id="fn_146"></span>[74:2](vob08.htm#fr_146.md) lit. silence
 (*tocht*).
 
-<span id="fn_147"></span>[74:3](vob08.htm#fr_147) I read *ca ṡén*.
+<span id="fn_147"></span>[74:3](vob08.htm#fr_147.md) I read *ca ṡén*.
 
-<span id="fn_148"></span>[74:4](vob08.htm#fr_148) According to the Four
+<span id="fn_148"></span>[74:4](vob08.htm#fr_148.md) According to the Four
 Masters Fiachna the Black was slain A.D. 624 by Condad Cerr, lord of the
 Scotch Dál Riada in the battle of Ard Corainn.
 
-<span id="fn_149"></span>[74:5](vob08.htm#fr_149) *faighdhe*, O. Ir.
+<span id="fn_149"></span>[74:5](vob08.htm#fr_149.md) *faighdhe*, O. Ir.
 *foigde* ex \**fo-guide*.
 
-<span id="fn_150"></span>[76:1](vob08.htm#fr_150) I doubt whether to
+<span id="fn_150"></span>[76:1](vob08.htm#fr_150.md) I doubt whether to
 read *co tibhradh* or *co tí bráth* 'till judgment.'
 
-<span id="fn_151"></span>[76:2](vob08.htm#fr_151) Cf. '*Cindus atáthar
+<span id="fn_151"></span>[76:2](vob08.htm#fr_151.md) Cf. '*Cindus atáthar
 annsin indiú?*' 'How are things with thee (lit. over there) to-day?'
 Aislinge MeicConglinne, p. 61, 1.
 
-<span id="fn_152"></span>[76:3](vob08.htm#fr_152) *gualaigh*, perhaps
+<span id="fn_152"></span>[76:3](vob08.htm#fr_152.md) *gualaigh*, perhaps
 from *gúala*, a shoulder-basket?
 
-<span id="fn_153"></span>[77:1](vob08.htm#fr_153) I cannot translate
+<span id="fn_153"></span>[77:1](vob08.htm#fr_153.md) I cannot translate
 *sceota na n-aidhbheagh* or *aidhbheadh*.
 
-<span id="fn_154"></span>[77:2](vob08.htm#fr_154) *i.e.* Tibraide and
+<span id="fn_154"></span>[77:2](vob08.htm#fr_154.md) *i.e.* Tibraide and
 his attendant.
 
-<span id="fn_155"></span>[79:1](vob08.htm#fr_155) The MS. has Tibraide.
+<span id="fn_155"></span>[79:1](vob08.htm#fr_155.md) The MS. has Tibraide.
 
-<span id="fn_156"></span>[79:2](vob08.htm#fr_156) I do not understand
+<span id="fn_156"></span>[79:2](vob08.htm#fr_156.md) I do not understand
 *mur aith*.
 
-<span id="fn_157"></span>[80:1](vob08.htm#fr_157) The MS. has
+<span id="fn_157"></span>[80:1](vob08.htm#fr_157.md) The MS. has
 *ṡinṡiubhail*, the dot over the first *s* being a punctum delens.
 
-<span id="fn_158"></span>[80:2](vob08.htm#fr_158) *lit*. it is weak what
+<span id="fn_158"></span>[80:2](vob08.htm#fr_158.md) *lit*. it is weak what
 M. does.
 
-<span id="fn_159"></span>[81:1](vob08.htm#fr_159) *i.e.* the king of
+<span id="fn_159"></span>[81:1](vob08.htm#fr_159.md) *i.e.* the king of
 Leinster.
 
-<span id="fn_160"></span>[81:2](vob08.htm#fr_160) *lit*. a weaver's beam
+<span id="fn_160"></span>[81:2](vob08.htm#fr_160.md) *lit*. a weaver's beam
 (*garmnach*) of a tall hag.
 
-<span id="fn_161"></span>[81:3](vob08.htm#fr_161) viz. the dog.
+<span id="fn_161"></span>[81:3](vob08.htm#fr_161.md) viz. the dog.
 
-<span id="fn_162"></span>[82:1](vob08.htm#fr_162) Instead of *blicht* I
+<span id="fn_162"></span>[82:1](vob08.htm#fr_162.md) Instead of *blicht* I
 read *bricht*.
 
-<span id="fn_163"></span>[83:1](vob08.htm#fr_163) For *túgha* Father
+<span id="fn_163"></span>[83:1](vob08.htm#fr_163.md) For *túgha* Father
 Henebry conjectures *togha*.
 
-<span id="fn_164"></span>[83:2](vob08.htm#fr_164) viz. Mongan.
+<span id="fn_164"></span>[83:2](vob08.htm#fr_164.md) viz. Mongan.
 
 ------------------------------------------------------------------------
 
-[Next: VI. From the Annals](vob09)
+[Next: VI. From the Annals](vob09.md)

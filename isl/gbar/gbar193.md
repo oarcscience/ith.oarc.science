@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar192) [Next](gbar194)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar192) [Next](gbar194.md)
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ the word of God which Jesus preached.
 
 ------------------------------------------------------------------------
 
-[Next](gbar194)
+[Next](gbar194.md)

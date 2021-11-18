@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap53) 
-[Next](bap55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap53.md) 
+[Next](bap55.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ hand or to the left, but attend unto the law of the Lord day and night.
 Now therefore why dost thou corrupt the people of the Lord and deceive
 them, saying: Baal is God, let us worship him? And now if he be God as
 thou sayest, let him speak as a God, and then we will sacrifice unto
-him. 3. And Jair <span id="fr_131"></span>[1](#fn_131) said: Burn them
+him. 3. And Jair <span id="fr_131"></span>[1](#fn_131.md) said: Burn them
 with fire, for they have blasphemed Baal. And his servants took them to
 burn them with fire. And when they cast them upon the fire there went
 forth Nathaniel, the angel which is over fire, and quenched the fire and
@@ -51,11 +51,11 @@ stood by, even 1000 men.
 
 ### Footnotes
 
-<span id="fn_131"></span>[187:1](bap54.htm#fr_131) XXXVIII. it is not
+<span id="fn_131"></span>[187:1](bap54.htm#fr_131.md) XXXVIII. it is not
 clear why Jair is selected for the part of an apostate and idolatrous
 judge. The story of the Three Children (Dan. 3), and perhaps also those
 of the Maccabaean martyrs, have been in the writer's mind.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIX](bap55)
+[Next: Chapter XXXIX](bap55.md)

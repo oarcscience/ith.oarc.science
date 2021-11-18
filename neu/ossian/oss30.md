@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss29)  [Next](oss31) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss29)  [Next](oss31.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ course be with Gaul in the strife; but depart not from the side of
 Fingal, lest the foe should find you alone, and your fame fail in my
 presence."
 
-" <span id="fr_84"></span>[1](#fn_84) I saw Gaul in his arms; my soul
+" <span id="fr_84"></span>[1](#fn_84.md) I saw Gaul in his arms; my soul
 was mixed with his. The fire of the battle was in his eyes! he looked to
 the foe with joy. We spoke the words of friendship in secret; the
 lightning of our swords poured together; for we drew them behind the
@@ -253,9 +253,9 @@ and I spoke to Morni's son.
 
 "Car-borne chief of Strumon, dost thou behold the foe? 'They gather on
 the hill in their wrath. Let our steps be toward the king.  <span
-id="fr_85"></span>[1](#fn_85) He shall rise in his strength, and the
+id="fr_85"></span>[1](#fn_85.md) He shall rise in his strength, and the
 host of Lathmon vanish. Our fame is around us, warrior; the eyes of the
-aged  <span id="fr_86"></span>[2](#fn_86) will rejoice. But let us fly,
+aged  <span id="fr_86"></span>[2](#fn_86.md) will rejoice. But let us fly,
 son of Morni, Lathmon descends the hill." "Then let our steps be slow,"
 replied the fair-haired Gaul;" lest the foe say with a smile, 'Behold
 the warriors of night! They are, like ghosts, terrible in darkness; they
@@ -356,12 +356,12 @@ their foes are the sons of the unhappy."
 
 ### Footnotes
 
-<span id="fn_84"></span>[361:1](oss30.htm#fr_84) Ossian speaks.
+<span id="fn_84"></span>[361:1](oss30.htm#fr_84.md) Ossian speaks.
 
-<span id="fn_85"></span>[365:1](oss30.htm#fr_85) Fingal.
+<span id="fn_85"></span>[365:1](oss30.htm#fr_85.md) Fingal.
 
-<span id="fn_86"></span>[365:2](oss30.htm#fr_86) Fingal and Morni.
+<span id="fn_86"></span>[365:2](oss30.htm#fr_86.md) Fingal and Morni.
 
 ------------------------------------------------------------------------
 
-[Next: Dar-thula](oss31)
+[Next: Dar-thula](oss31.md)

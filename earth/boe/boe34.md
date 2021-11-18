@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe33)  [Next](boe35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe33)  [Next](boe35.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 THE LAST FIGURE OF EARTH in this collecting of its endlessly changing
 forms is, so far as I know, the latest figure of Earth to be drawn; it
 differs in all ways from any other world-picture we have here. [Plate
-XLVIII](#img_pl48) is a drawing of the Earth as a Tetrahedron or
+XLVIII](#img_pl48.md) is a drawing of the Earth as a Tetrahedron or
 three-sided pyramid; it appeared in the New York *World*, October 24,
 1926, as an illustration to a review of Théophile Moreux's *Astronomy
 To-day*. It is not "scientific"; it is just an example of how a "guess"
@@ -30,7 +30,7 @@ later Clarence Dutton, American
 
 [![PLATE XLVII. (&lt;i&gt;From Vestiges of the Molten Globe&lt;/i&gt;;
 William Lowthian Green, 1875)](tn/pl47.jpg)  
-Click to enlarge](img/pl47.jpg)  
+Click to enlarge](img/pl47.jpg.md)  
 PLATE XLVII. (*From Vestiges of the Molten Globe*; William Lowthian
 Green, 1875)  
 
@@ -63,12 +63,12 @@ in the southern hemisphere," the assumed spheroid form of the Earth
 (giving a minimum of surface for a given volume) tended to develop into
 a tetrahedron (giving a maximum of surface for a given volume), with the
 continents as the edges and the ocean beds as the sides. "Thus," says
-Green, <span id="fr_19"></span>[1](#fn_19) "a general view of the
+Green, <span id="fr_19"></span>[1](#fn_19.md) "a general view of the
 crystal, the six-
 
 <span id="page_258">p. 258</span>
 
-faced tetrahedron \[[Fig. 20](boe06.htm#img_fig020)\], supposed to be
+faced tetrahedron \[[Fig. 20](boe06.htm#img_fig020.md)\], supposed to be
 three-fourths covered by water attracted towards the centre of gravity
 of the figure, represents generally all the continents and oceans on the
 globe in their actual relative positions. As there are four acute solid
@@ -111,7 +111,7 @@ latitudes, meridian arcs are not all of equal lengths, and dissymmetry
 is everywhere; it becomes more pronounced still when the two hemispheres
 are compared; and the equator itself, instead of being accurately a
 circle, like the largest circle of a spheroid, has different radii of
-curvature at different longitudes." <span id="fr_20"></span>[1](#fn_20)
+curvature at different longitudes." <span id="fr_20"></span>[1](#fn_20.md)
 
 Since astronomers must, in all their practical calculations, make use of
 the mathematical elements of this globe so-called, they have, for
@@ -143,7 +143,7 @@ ramifications extend more or less uninterruptedly as far as the South
 Pole. The opposite faces consist of the Southern Atlantic, the Indian
 and the Pacific Oceans. Lastly, the fourth corner forms the Antarctic
 continent, to which there corresponds, on the opposite face, the frozen
-Arctic Ocean." <span id="fr_21"></span>[1](#fn_21)
+Arctic Ocean." <span id="fr_21"></span>[1](#fn_21.md)
 
 These are the words that gave the image that produced this latest figure
 to be drawn of the Earth, a tetrahedron or three-sided pyramid, with
@@ -164,7 +164,7 @@ Without committing himself at all to the tetrahedral
 [![PLATE XLVIII. THE TETRAHEDRAL EARTH&lt;br&gt; (From &lt;i&gt;The
 Sunday Magazine&lt;/i&gt;, New York World, Oct. 24,
 1926)](tn/pl48.jpg)  
-Click to enlarge](img/pl48.jpg)  
+Click to enlarge](img/pl48.jpg.md)  
 PLATE XLVIII. THE TETRAHEDRAL EARTH  
 (From *The Sunday Magazine*, New York World, Oct. 24, 1926)  
 
@@ -221,15 +221,15 @@ What is Earth?
 
 ### Footnotes
 
-<span id="fn_19"></span>[257:1](boe34.htm#fr_19) *Vestiges of the Molten
+<span id="fn_19"></span>[257:1](boe34.htm#fr_19.md) *Vestiges of the Molten
 Globe*; William Lowthian Green, 1875, p. 5.
 
-<span id="fn_20"></span>[259:1](boe34.htm#fr_20) *Astronomy To-day*;
+<span id="fn_20"></span>[259:1](boe34.htm#fr_20.md) *Astronomy To-day*;
 Théophile Moreux, 1926, p. 65. 259
 
-<span id="fn_21"></span>[260:1](boe34.htm#fr_21) *Astronomy To-day*;
+<span id="fn_21"></span>[260:1](boe34.htm#fr_21.md) *Astronomy To-day*;
 Théophile Moreux, 1926, p. 66.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](boe35)
+[Next: Bibliography](boe35.md)

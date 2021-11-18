@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb28)  [Next](olfb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb28)  [Next](olfb30.md) 
 
 </div>
 
@@ -148,6 +148,6 @@ lasting still.
 
 ------------------------------------------------------------------------
 
-[Next: The Punishment of the Fairy Gangana](olfb30)
+[Next: The Punishment of the Fairy Gangana](olfb30.md)
 
 </div>

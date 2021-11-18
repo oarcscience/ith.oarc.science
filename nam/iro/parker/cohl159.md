@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl158)  [Next](cohl160) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl158)  [Next](cohl160.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ rattles and water drums are used.
 
 ------------------------------------------------------------------------
 
-[Next: Sisters Of The Dio\`he:'ko](cohl160)
+[Next: Sisters Of The Dio\`he:'ko](cohl160.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Next](life001) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Next](life001.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ end, how we are to use this life and its comforts without abusing them.
 
 ------------------------------------------------------------------------
 
-[Next: Outline](life001)
+[Next: Outline](life001.md)

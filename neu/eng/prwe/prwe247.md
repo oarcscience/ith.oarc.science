@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe246)  [Next](prwe248) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe246)  [Next](prwe248.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ time, it did so.
 
 ------------------------------------------------------------------------
 
-[Next: A Cure for Paralysis](prwe248)
+[Next: A Cure for Paralysis](prwe248.md)

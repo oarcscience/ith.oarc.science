@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc17)  [Next](ogc19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc17)  [Next](ogc19.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ the ‘simple’ bodies.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9](ogc19)
+[Next: Chapter 9](ogc19.md)

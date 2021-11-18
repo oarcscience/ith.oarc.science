@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[Intangible Textual Heritage](../index)  [Index](index)   
-[Title List](tlsidx) 
+[Intangible Textual Heritage](../index)  [Index](index.md)   
+[Title List](tlsidx.md) 
 
 </div>
 
@@ -13,32 +13,32 @@
 
 ------------------------------------------------------------------------
 
-[Author List: ,](als_,)  
-[Author List: A](als_a)  
-[Author List: B](als_b)  
-[Author List: C](als_c)  
-[Author List: D](als_d)  
-[Author List: E](als_e)  
-[Author List: F](als_f)  
-[Author List: G](als_g)  
-[Author List: H](als_h)  
-[Author List: I](als_i)  
-[Author List: J](als_j)  
-[Author List: K](als_k)  
-[Author List: L](als_l)  
-[Author List: M](als_m)  
-[Author List: N](als_n)  
-[Author List: O](als_o)  
-[Author List: P](als_p)  
-[Author List: Q](als_q)  
-[Author List: R](als_r)  
-[Author List: S](als_s)  
-[Author List: T](als_t)  
-[Author List: U](als_u)  
-[Author List: V](als_v)  
-[Author List: W](als_w)  
-[Author List: Y](als_y)  
-[Author List: Z](als_z)  
+[Author List: ,](als_,.md)  
+[Author List: A](als_a.md)  
+[Author List: B](als_b.md)  
+[Author List: C](als_c.md)  
+[Author List: D](als_d.md)  
+[Author List: E](als_e.md)  
+[Author List: F](als_f.md)  
+[Author List: G](als_g.md)  
+[Author List: H](als_h.md)  
+[Author List: I](als_i.md)  
+[Author List: J](als_j.md)  
+[Author List: K](als_k.md)  
+[Author List: L](als_l.md)  
+[Author List: M](als_m.md)  
+[Author List: N](als_n.md)  
+[Author List: O](als_o.md)  
+[Author List: P](als_p.md)  
+[Author List: Q](als_q.md)  
+[Author List: R](als_r.md)  
+[Author List: S](als_s.md)  
+[Author List: T](als_t.md)  
+[Author List: U](als_u.md)  
+[Author List: V](als_v.md)  
+[Author List: W](als_w.md)  
+[Author List: Y](als_y.md)  
+[Author List: Z](als_z.md)  
 
 ------------------------------------------------------------------------
 
@@ -52,10 +52,10 @@ listed in this catalog is no indication of its copyright status, or lack
 thereof: some copyrighted items are listed here, and some files based on
 public domain material have specific restrictions on reuse. For more
 information on copyrights, please refer to the site [Terms of
-Service](../tos) and [Copyright](../cnote) pages.
+Service](../tos) and [Copyright](../cnote.md) pages.
 
 If you notice anything *at this site* that hasn't been cataloged here
-but should, please feel free to [contact us](../contact). (If so, please
+but should, please feel free to [contact us](../contact.md). (If so, please
 indicate which file you think should be cataloged by specifying its URL:
 there are tens of thousands of files at the site and we may or may not
 be able to guess which one you are referring to).
@@ -79,7 +79,7 @@ or know the exact title of a book.
 Note that the subject keywords are extracted from data manually supplied
 by the etext preparer. It is not a comprehensive listing of keywords,
 nor is it a full-text index of the site. To search the full text of the
-site, you will need to use [the search page](../search), (or the box at
+site, you will need to use [the search page](../search.md), (or the box at
 the upper right hand corner of this page).
 
 The term 'Author' here, for convenience, includes principal authors,

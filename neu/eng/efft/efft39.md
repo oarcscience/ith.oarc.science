@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft38)  [Next](efft40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft38)  [Next](efft40.md) 
 
 ------------------------------------------------------------------------
 
-# THE BOGGART  <span id="fr_45"></span>[1](#fn_45)
+# THE BOGGART  <span id="fr_45"></span>[1](#fn_45.md)
 
 IN the house of an honest farmer in Yorkshire, named George Gilbertson,
 a Boggart had taken up his abode. He here caused a good deal of
@@ -45,9 +45,9 @@ another' that's not so convenient"
 
 ### Footnotes
 
-<span id="fn_45"></span>[1](efft39.htm#fr_45) T . Keightley, *The Fairy
+<span id="fn_45"></span>[1](efft39.htm#fr_45.md) T . Keightley, *The Fairy
 Mythology*, p. 307, quoting the *Literary Gazette* for 1825.
 
 ------------------------------------------------------------------------
 
-[Next: Ainsel](efft40)
+[Next: Ainsel](efft40.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](tku01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](tku01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](tku01)
+[Next: Dedication](tku01.md)

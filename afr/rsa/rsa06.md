@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa05) [Next](rsa07)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa05) [Next](rsa07.md)
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 > M<span class="small">EN</span> say they possessed Amatongo as soon as
 > they came into being.<span
-> id="page_129_fr_1"></span>[1](#page_129_note_1) When they came into
+> id="page_129_fr_1"></span>[1](#page_129_note_1.md) When they came into
 > being, men already spoke of there being Amatongo; and hence they too
 > knew that they existed. It is not something which as soon as they were
 > born they saw to be Amatongo.
@@ -21,7 +21,7 @@
 > which when they saw they said, "Those are Amatongo." They saw cattle
 > indeed, which came into being, and said, "Those are cattle," they
 > having come into being immediately<span
-> id="page_129_fr_2"></span>[2](#page_129_note_2) after themselves. It
+> id="page_129_fr_2"></span>[2](#page_129_note_2.md) after themselves. It
 > is evident that we are not speaking of the origin of the first <span
 > id="page_130">p. 130</span> man: when we say the origin of men we
 > speak of those who came after him, for the standing of the first man
@@ -33,9 +33,9 @@
 > who came into being after them, as soon as they came into being, that
 > there are Amatongo. And further in the beginning, as soon as they came
 > into being, they had doctors<span
-> id="page_130_fr_3"></span>[3](#page_130_note_3) who taught them that
+> id="page_130_fr_3"></span>[3](#page_130_note_3.md) who taught them that
 > there are Amatongo. And so they said that the Amatongo were
-> created<span id="page_130_fr_4"></span>[4](#page_130_note_4) by the
+> created<span id="page_130_fr_4"></span>[4](#page_130_note_4.md) by the
 > first man, who said, "There are Amatongo who are snakes." The first
 > man is Umvelinqangi, Unkulunkulu. And thus all nations knew of the
 > Amatongo. There was not a single nation which said, "We people of such
@@ -43,10 +43,10 @@
 >
 >  All nations worshipped the Amatongo, because Umvelinqangi <span
 > id="page_131">p. 131</span> commanded them to do so, saying, "You see,
-> then,<span id="page_131_fr_5"></span>[5](#page_131_note_5) I tell you
+> then,<span id="page_131_fr_5"></span>[5](#page_131_note_5.md) I tell you
 > about the Amatongo, that you may worship them. I tell you about
 > divining Izinyanga,<span
-> id="page_131_fr_6"></span>[6](#page_131_note_6) that you may enquire
+> id="page_131_fr_6"></span>[6](#page_131_note_6.md) that you may enquire
 > of them, and they tell you when a man has been made ill by the
 > Amatongo; they shall hear the Itongo declaring that he has been made
 > ill by the Amatongo."
@@ -60,7 +60,7 @@
 >
 >  If there is one who has escaped, he says, "As for me I escaped I know
 > not how. The Amatongo had decreed that we should all die; one man<span
-> id="page_131_fr_7"></span>[7](#page_131_note_7) would not assent; when
+> id="page_131_fr_7"></span>[7](#page_131_note_7.md) would not assent; when
 > we were destroyed by the enemy, where was he I wonder? I escaped I
 > know not how; I no longer expected to be saved, when I saw all our
 > people destroyed."
@@ -171,7 +171,7 @@
 > made by Unkulunkulu, Umvelinqangi. He is called Umvelinqangi for no
 > other reason but because he came into being first <span
 > id="page_137">p. 137</span> immediately before men.<span
-> id="page_137_fr_8"></span>[8](#page_137_note_8) So they say, "He
+> id="page_137_fr_8"></span>[8](#page_137_note_8.md) So they say, "He
 > shouted saying, 'Let men come forth; let all things come forth,—both
 > dogs and cattle, and grasshoppers, and trees and grass.'" But we could
 > never understand in our hearts when we heard them say that all things
@@ -219,7 +219,7 @@
 > where Unkulunkulu created men; and they too want to be told about the
 > creation of the nations by Unkulunkulu. Other Onkulunkulu of those
 > nations are not heard of, whom their own Unkulunkulu did not
-> create.<span id="page_139_fr_9"></span>[9](#page_139_note_9) And if we
+> create.<span id="page_139_fr_9"></span>[9](#page_139_note_9.md) And if we
 > say to them, "Just tell us about Unkulunkulu, that we may understand,"
 > they reply, "We do not know." We say, "How did you hear that there was
 > Unkulunkulu?" They reply, "We heard it of old men who were before us."
@@ -285,7 +285,7 @@
 > him, though the snake has come home, they are troubled and ask, "How
 > did this man die? we do not see him; his Itongo is dark." They go to a
 > doctor of ubulawo,<span
-> id="page_142_fr_10"></span>[10](#page_142_note_10) if it is the chief
+> id="page_142_fr_10"></span>[10](#page_142_note_10.md) if it is the chief
 > man <span id="page_143">p. 143</span> of a large village; but nothing
 > is done as to the poor. The doctor comes and mixes ubulawo, and a goat
 > is killed, it being an animal which makes a great noise and cries; but
@@ -338,7 +338,7 @@
 > Amatongo; the son reproves the father, saying, "We for our parts may
 > just die. Who are you looking after? Let us die all of us, that we may
 > see into whose house you will enter.<span
-> id="page_145_fr_11"></span>[11](#page_145_note_11) You will eat
+> id="page_145_fr_11"></span>[11](#page_145_note_11.md) You will eat
 > grasshoppers; you will no longer be invited to go any where, if you
 > destroy your own village."
 >
@@ -361,7 +361,7 @@
 > ------------------------------------------------------------------------
 >
 > I<span class="small">T</span> is said that there is the Itongo,<span
-> id="page_146_fr_12"></span>[12](#page_146_note_12) which is a snake.
+> id="page_146_fr_12"></span>[12](#page_146_note_12.md) which is a snake.
 > Men dream. A man dreams perhaps, and is then ill; he says, "I am ill
 > for no other reason than because I have dreamed." Others ask him what
 > he has dreamed. He tells them he has dreamed of a man. If his brother
@@ -381,13 +381,13 @@
 > breathe, I could not; my breath was short; when I tried to speak, I
 > could not; my breath was short."
 >
->  The man<span id="page_147_fr_13"></span>[13](#page_147_note_13) was
+>  The man<span id="page_147_fr_13"></span>[13](#page_147_note_13.md) was
 > obstinate, and would not agree to kill a bullock. He was very ill. He
 > said, "I am really ill, and I know the disease with which I am
 > affected." The people said, "If you know it, why do you not get rid of
 > it? Can a man purposely cause the disease which affects him; when he
 > knows what it is, does he wish to die? For when the Itongo<span
-> id="page_147_fr_14"></span>[14](#page_147_note_14) is angry with a
+> id="page_147_fr_14"></span>[14](#page_147_note_14.md) is angry with a
 > man, it destroys him."
 >
 > <span id="page_148">p. 148</span>
@@ -407,7 +407,7 @@
 > <span id="page_149">p. 149</span>
 >
 >  The people who see him when he is ill say, "Au! Do you mean to say
-> that the man<span id="page_149_fr_15"></span>[15](#page_149_note_15)
+> that the man<span id="page_149_fr_15"></span>[15](#page_149_note_15.md)
 > still understands how to speak? We speak with you now; where is he,
 > that we too might take him to task? For we too were present at all
 > times when you slaughtered cattle; and when you lauded, you lauded
@@ -422,7 +422,7 @@
 >  The sick man replies, "Eh! My brother acts in this boastful way
 > because he says he is oldest; for I am younger than he. I wonder when
 > he tells me just to destroy all the cattle. Did he die and leave none
-> behind?"<span id="page_149_fr_16"></span>[16](#page_149_note_16)
+> behind?"<span id="page_149_fr_16"></span>[16](#page_149_note_16.md)
 >
 >  They say, "Au, the man died, Son of So-and-so. For our parts we say,
 > when we are really speaking with you, and your eyes are <span
@@ -476,7 +476,7 @@
 > fight with these people;' but he started up and wished to injure the
 > people. And his spirit is like him; it is wicked; it is constantly
 > angry; and when it is angry it sends animals.<span
-> id="page_152_fr_17"></span>[17](#page_152_note_17) But I will give him
+> id="page_152_fr_17"></span>[17](#page_152_note_17.md) But I will give him
 > his flesh which he demands of me. I sleep, and when I awake find that
 > he has affected my body with disease. I will give him; if I see that
 > he leaves me and I am well, I will kill some cattle in the morning; if
@@ -498,7 +498,7 @@
 > say?" They said, "We hear you asking for food."
 >
 >  He replied, "I don't know, my children; even I<span
-> id="page_154_fr_18"></span>[18](#page_154_note_18) feel an inclination
+> id="page_154_fr_18"></span>[18](#page_154_note_18.md) feel an inclination
 > for food; it is as though you might give me a little; do not give me
 > much; give me a little; let me just try."
 >
@@ -537,7 +537,7 @@
 >
 >  He replied, "Yes, yes, I say it with reason, when I wish for flesh. I
 > indeed died, and left you with a village;<span
-> id="page_156_fr_19"></span>[19](#page_156_note_19) you had a large
+> id="page_156_fr_19"></span>[19](#page_156_note_19.md) you had a large
 > village."
 >
 >  He said, "Yes, yes, my brother, you left me with a village; but when
@@ -639,7 +639,7 @@
 >
 > A <span class="small">DOCTOR</span> is summoned when a man is ill, he
 > being troubled by one man.<span
-> id="page_160_fr_20"></span>[20](#page_160_note_20) He dreams perhaps
+> id="page_160_fr_20"></span>[20](#page_160_note_20.md) He dreams perhaps
 > of the dead man, and then has pain in his body; in the morning he
 > tells others his dreams. He says, "I am troubled. When So-and-so comes
 > to me by night, my body is in pain. I cannot tell what to do."
@@ -702,7 +702,7 @@
 >
 >  And Undayeni was not alone in this respect. There are many like him.
 > I have seen my father also, Unkomidhlilale;<span
-> id="page_162_fr_21"></span>[21](#page_162_note_21) for he was a great
+> id="page_162_fr_21"></span>[21](#page_162_note_21.md) for he was a great
 > cattle doctor; and he also had many medicines for men. I used to go
 > with him when he was called by any one whose cattle were ill. I heard
 > him say as we were digging up medicines, "Dig up that; I had that
@@ -759,12 +759,12 @@
 >
 > U<span class="small">NJIKIZA</span>, the son of Ukcuba,
 > Undhlebekazizwa,<span
-> id="page_165_fr_22"></span>[22](#page_165_note_22)
+> id="page_165_fr_22"></span>[22](#page_165_note_22.md)
 > Unotshelwaezitshela,<span
-> id="page_165_fr_23"></span>[23](#page_165_note_23) was a celebrated
+> id="page_165_fr_23"></span>[23](#page_165_note_23.md) was a celebrated
 > brave, of great strength, and huge body; all his muscles were
 > prominent and hard; and his head was high above the ground.<span
-> id="page_165_fr_24"></span>[24](#page_165_note_24)
+> id="page_165_fr_24"></span>[24](#page_165_note_24.md)
 >
 >  It happened among the Amancolosi with whom he was living, that there
 > came the Amazulu going and killing wherever they were sent. But they
@@ -774,7 +774,7 @@
 > are the people of the chief, the rustics will fly as soon as they see
 > us. Who among them will lay a charge against us before the chief? We
 > will do just as we like, and set ourselves our own limit."<span
-> id="page_165_fr_25"></span>[25](#page_165_note_25) And <span
+> id="page_165_fr_25"></span>[25](#page_165_note_25.md) And <span
 > id="page_166">p. 166</span> indeed they acted thus, until they came to
 > our village, When they came, there were none there but women; there
 > was not a single man there. They did as they liked with the food; they
@@ -785,7 +785,7 @@
 >  And indeed after a time he came, and heard the noise of crying whilst
 > he was at the gateway. He smote the ground with his huge club, saying,
 > "Unothlolamazibuko is hungry.<span
-> id="page_166_fr_26"></span>[26](#page_166_note_26) It shall have its
+> id="page_166_fr_26"></span>[26](#page_166_note_26.md) It shall have its
 > fill to-day."
 >
 > <span id="page_167">p. 167</span>
@@ -799,7 +799,7 @@
 > their shields, and drove the smoke into the cave. They were unable to
 > breathe, and all died. And it is not known to this day by the Amazulu
 > what became of them.<span
-> id="page_167_fr_27"></span>[27](#page_167_note_27)
+> id="page_167_fr_27"></span>[27](#page_167_note_27.md)
 >
 >  It happened when the land was desolated by the Amazulu, the people
 > fled into the forests with their cattle. The Amazulu found ours. We
@@ -830,7 +830,7 @@
 > our village. If any one mentions him, he is at once sileneed, and told
 > not to mention his name in the village, for he might destroy it. He is
 > mentioned only when any cattle are killed. He is not mentioned at
-> other times.<span id="page_168_fr_28"></span>[28](#page_168_note_28)
+> other times.<span id="page_168_fr_28"></span>[28](#page_168_note_28.md)
 >
 > U<span class="small">MPENGULA</span> M<span
 > class="small">BANDA.</span> 
@@ -856,13 +856,13 @@
 > and said to him, "Usigwili, I come to you because the Itongo told me
 > to come and treat you." That Usigwili is a great man here among the
 > Amakuza; among his own people, the house of Umbanjwa,<span
-> id="page_169_fr_29"></span>[29](#page_169_note_29) he is a petty
+> id="page_169_fr_29"></span>[29](#page_169_note_29.md) he is a petty
 > chief, the elder brother of Utoi among the descendants of Umbanjwa.
 >
 > <span id="page_170">p. 170</span>
 >
 >  Usigwili too knew what the Itongo had said,<span
-> id="page_170_fr_30"></span>[30](#page_170_note_30) and believed; and
+> id="page_170_fr_30"></span>[30](#page_170_note_30.md) and believed; and
 > so did not ask, "How is it that the Itongo comes to you, Unqanqaza,
 > without telling me that I am about to be ill, and it is proper that I
 > at once put myself under your care?" He asked no question at the time
@@ -881,11 +881,11 @@
 >  The people now began to stare, and said, "Unqanqaza, correct the
 > effects of your medicine; is the man dead whilst you are looking <span
 > id="page_171">p. 171</span> at him?"<span
-> id="page_171_fr_31"></span>[31](#page_171_note_31) But he was now
+> id="page_171_fr_31"></span>[31](#page_171_note_31.md) But he was now
 > unable to regulate the action of his medicine; he was quite beaten;
 > and acted without reason, no longer knowing what to do. The medicine
 > became poison, and now wished to take away the dead body.<span
-> id="page_171_fr_32"></span>[32](#page_171_note_32)
+> id="page_171_fr_32"></span>[32](#page_171_note_32.md)
 >
 >  People began to wonder at what Unqanqaza had done. And now the word
 > which pronounced him a sorcerer is heard every where, and people say,
@@ -893,7 +893,7 @@
 > of his own accord to treat him for disease? He is indeed a sorcerer."
 >
 >  Thus the matter stands at present. We do not know what the result
-> will be.<span id="page_171_fr_33"></span>[33](#page_171_note_33)
+> will be.<span id="page_171_fr_33"></span>[33](#page_171_note_33.md)
 >
 > U<span class="small">MPENGULA</span> M<span
 > class="small">BANDA.</span> 
@@ -908,7 +908,7 @@
 > ask him, "So-and-so, since you are in such a state, what is the matter
 > with you?" He <span id="page_172">p. 172</span> replies, "O, to-day I
 > am not happy, having woke with my body well in one part and unwell in
-> another;<span id="page_172_fr_34"></span>[34](#page_172_note_34) it is
+> another;<span id="page_172_fr_34"></span>[34](#page_172_note_34.md) it is
 > very painful in this place." And it is clear that he is ill, though he
 > makes the best of it, and they say, "No, the man, though he makes the
 > best of it, is ill; we see that he is not well."
@@ -922,7 +922,7 @@
 > more common than formerly, on the ground that the Idhlozi has demanded
 > them; but they make reply to one who says so, "No! since a bullock has
 > just been slaughtered, what does the Itongo say?<span
-> id="page_172_fr_35"></span>[35](#page_172_note_35) O, people are <span
+> id="page_172_fr_35"></span>[35](#page_172_note_35.md) O, people are <span
 > id="page_173">p. 173</span> now very fond of meat, and a man says he
 > has dreamed of the Idhlozi, and forsooth he says so because he would
 > eat meat." But this is not said openly, but secretly. Therefore a man
@@ -973,7 +973,7 @@
 > proper if you demand food, that I should not refuse it. There then is
 > your food. All ye spirits of our tribe, summon one another. I am not
 > going to say, 'So-and-so, there is thy food,' for you are
-> jealous.<span id="page_175_fr_36"></span>[36](#page_175_note_36) But
+> jealous.<span id="page_175_fr_36"></span>[36](#page_175_note_36.md) But
 > thou, So-and-so, who art making this man ill, call all the spirits;
 > come all of you to eat this food. If it is you I shall then see by the
 > recovery of this man whom, it is said, you have made ill. I now no
@@ -988,7 +988,7 @@
 > me stealthily be at an end. Go openly, that I may see you, for that
 > which you ask for I will not refuse; for you gave it all to me,—the
 > cattle, the children, and the corn. And thou, old woman<span
-> id="page_176_fr_37"></span>[37](#page_176_note_37) of our tribe, we
+> id="page_176_fr_37"></span>[37](#page_176_note_37.md) of our tribe, we
 > call you to come and eat; and the infant which is dead, let it come
 > and eat; that we may rejoice."
 >
@@ -1012,7 +1012,7 @@
 >  Such then is the manner in which people worship the Amatongo; and
 > then the bullock is killed. And if when another appointed for the
 > purpose stabs it, the bullock cries,<span
-> id="page_177_fr_39"></span>[39](#page_177_note_39) the head of the
+> id="page_177_fr_39"></span>[39](#page_177_note_39.md) the head of the
 > village again worships, saying, "Cry, bullock of our people," and he
 > then accounts the valorous deeds of the dead, mentioning the names of
 > the Amatongo of their tribe. The bullock drops.
@@ -1049,7 +1049,7 @@
 > be commanded to make a great deal of beer; and so they made it, and
 > said, "The Idhlozi says, 'I will give you corn.'" If they obtain it
 > that year they bless the Amatongo; and at the end of the year<span
-> id="page_179_fr_40"></span>[40](#page_179_note_40) they return thanks
+> id="page_179_fr_40"></span>[40](#page_179_note_40.md) they return thanks
 > for the corn, which they were promised. It is this which blinds them,
 > and they say, "But do they not speak with us, and we do what they tell
 > us to do and obtain health? Do they not demand a certain bullock of a
@@ -1070,7 +1070,7 @@
 > cut them <span id="page_180">p. 180</span> off they throw continually
 > small pieces of flesh to them, and they shout even with their mouths
 > full, "We are burnt."<span
-> id="page_180_fr_41"></span>[41](#page_180_note_41) And each one has
+> id="page_180_fr_41"></span>[41](#page_180_note_41.md) And each one has
 > his assagai and eats standing, until the bullock is opened.
 >
 >  And each one that skins the bullock has his own pot, that he may pour
@@ -1087,9 +1087,9 @@
 > place; it is not cooked on the day it is killed, but the blood is
 > eaten; on the following morning it is cut up when it is going to be
 > cooked; they separate the legs and the ribs,<span
-> id="page_180_fr_42"></span>[42](#page_180_note_42) and the <span
+> id="page_180_fr_42"></span>[42](#page_180_note_42.md) and the <span
 > id="page_181">p. 181</span> insonyama;<span
-> id="page_181_fr_43"></span>[43](#page_181_note_43) and give to those
+> id="page_181_fr_43"></span>[43](#page_181_note_43.md) and give to those
 > who are of their house. For this is the custom with black men: the
 > insonyama is taken to the eldest; the ribs are given to the next, or
 > the shoulder; and the leg is given to the officer.
@@ -1164,7 +1164,7 @@
 >
 >  If he wishes to be a diviner, he goes to a diviner; the diviner
 > prepares for him white ubulawo,<span
-> id="page_184_fr_44"></span>[44](#page_184_note_44) and makes him
+> id="page_184_fr_44"></span>[44](#page_184_note_44.md) and makes him
 > white, that his dreams may be clear, and no longer uncertain.
 >
 >  If he does not wish to be a diviner, nor his friends, they take a
@@ -1173,7 +1173,7 @@
 > purpose of barring the way. When he has dreamed a great deal of the
 > spirits, and they initiate him into the knowledge proper to doctors,
 > the doctor is called, and comes with black medicines;<span
-> id="page_184_fr_45"></span>[45](#page_184_note_45) a sheep is killed,
+> id="page_184_fr_45"></span>[45](#page_184_note_45.md) a sheep is killed,
 > and the contents of the paunch are taken, and the black medicines
 > bruised, and the man is made to drink them; he throws the contents of
 > his stomach into a vessel, and the contents of the sheep's stomach are
@@ -1274,7 +1274,7 @@ practising deceit on others, and probably too on himself.
 > alone has now the dominion over me."
 >
 >  I said, "Do you rernember that old dream<span
-> id="page_188_fr_46"></span>[46](#page_188_note_46) of yours?"
+> id="page_188_fr_46"></span>[46](#page_188_note_46.md) of yours?"
 >
 >  He said, "Do you speak of that of the boats?"
 >
@@ -1289,17 +1289,17 @@ practising deceit on others, and probably too on himself.
 >  He replied, "No. I am now dead altogether. I do not think that I am
 > still a man who can enter into a new position, which I do not in the
 > least understand.<span
-> id="page_189_fr_47"></span>[47](#page_189_note_47) I do not know what
+> id="page_189_fr_47"></span>[47](#page_189_note_47.md) I do not know what
 > I am. Attend, for I am a man who loves my children dearly. But now I
 > do not care whether they are alive or not. The great thing is this
 > disease alone."
 >
 >  He continued, "And now I begin to go out by night, having an internal
 > intimation about medicine;<span
-> id="page_189_fr_48"></span>[48](#page_189_note_48) it is said, 'The
+> id="page_189_fr_48"></span>[48](#page_189_note_48.md) it is said, 'The
 > medicine is in such a place; go and dig it up.' I go out and reach the
 > place, but do not find the medicine;<span
-> id="page_189_fr_49"></span>[49](#page_189_note_49) I merely walk up
+> id="page_189_fr_49"></span>[49](#page_189_note_49.md) I merely walk up
 > and down, and at length return. This is my present state.
 >
 > <span id="page_190">p. 190</span>
@@ -1315,7 +1315,7 @@ practising deceit on others, and probably too on himself.
 > Isithlutankungu. I refused, and I have not been to this day.
 >
 >  "But the great thing is meat; it is said constantly, 'Let a bullock
-> be killed.'<span id="page_190_fr_50"></span>[50](#page_190_note_50) It
+> be killed.'<span id="page_190_fr_50"></span>[50](#page_190_note_50.md) It
 > is as though I could eat meat daily. This disease longs for meat; but
 > I will not kill cattle.
 >
@@ -1354,7 +1354,7 @@ practising deceit on others, and probably too on himself.
 > before you came I saw you coming to me, but you were white men. A
 > white man hurt me; he came in here and struck me on the thigh which
 > was broken and broke it again. I arose and threw ashes over him.<span
-> id="page_192_fr_51"></span>[51](#page_192_note_51) I am ill from that
+> id="page_192_fr_51"></span>[51](#page_192_note_51.md) I am ill from that
 > then. I cannot tell you the day.
 >
 >  "I am not ill every day. Some days I am quite well, especially on
@@ -1436,7 +1436,7 @@ practising deceit on others, and probably too on himself.
 > the black sheep made the Itongo indistinct, and no longer bright; the
 > white goat made the Itongo white and bright, that it might make her
 > see <span id="page_196">p. 196</span> clearly.<span
-> id="page_196_fr_52"></span>[52](#page_196_note_52) So he laid the
+> id="page_196_fr_52"></span>[52](#page_196_note_52.md) So he laid the
 > Itongo, and she went home; he caused her to live at home. And she is
 > now a human being. It is said, for a long time she lived in the
 > mountains. But it is now no longer apparent that she ever did so.
@@ -1493,9 +1493,9 @@ practising deceit on others, and probably too on himself.
 >
 >  A snake is also known by its mere appearance to be an animal, even
 > though it does not look from side to side, because it is neither an
-> Imamba<span id="page_198_fr_53"></span>[53](#page_198_note_53) that is
+> Imamba<span id="page_198_fr_53"></span>[53](#page_198_note_53.md) that is
 > a man, nor the Inyandezulu,<span
-> id="page_198_fr_54"></span>[54](#page_198_note_54) which is known to
+> id="page_198_fr_54"></span>[54](#page_198_note_54.md) which is known to
 > be a man. Those which are men and those which are not, are
 > distinguished by their colour. The Puffadder, the Ivuzamanzi, the
 > Inthlangwana, and the grey and spotted Imamba, are known to be mere
@@ -1542,7 +1542,7 @@ practising deceit on others, and probably too on himself.
 > it, the people bring a sacrifice and worship, and it goes away.
 >
 >  And if a snake which is an Itongo enters a house rapidly,<span
-> id="page_200_fr_55"></span>[55](#page_200_note_55) it is known to be
+> id="page_200_fr_55"></span>[55](#page_200_note_55.md) it is known to be
 > the Itongo of a man who was a liar whilst he lived. And he is still a
 > liar. They sacrifice something to such an Itongo.
 >
@@ -1557,12 +1557,12 @@ practising deceit on others, and probably too on himself.
 >
 > I<span class="small">T</span> is said that men turn into many kinds of
 > animals. It is said that one becomes a wasp; another an
-> isalukazana;<span id="page_200_fr_56"></span>[56](#page_200_note_56)
+> isalukazana;<span id="page_200_fr_56"></span>[56](#page_200_note_56.md)
 > another an imamba;<span
-> id="page_200_fr_57"></span>[57](#page_200_note_57) another an
-> inyandezulu;<span id="page_200_fr_58"></span>[58](#page_200_note_58)
+> id="page_200_fr_57"></span>[57](#page_200_note_57.md) another an
+> inyandezulu;<span id="page_200_fr_58"></span>[58](#page_200_note_58.md)
 > but the greater number turn into <span id="page_201">p. 201</span> the
-> umthlwazi,<span id="page_201_fr_59"></span>[59](#page_201_note_59)
+> umthlwazi,<span id="page_201_fr_59"></span>[59](#page_201_note_59.md)
 > which may be green or brown. As regards the two kinds of umthlwazi, a
 > person may allow that they are men, because they do not stare fiercely
 > like the other four. The umthlwazi is not afraid of a man, it moves
@@ -1576,7 +1576,7 @@ practising deceit on others, and probably too on himself.
 >
 >  And the others, although they are called Amatongo, yet the eyes do
 > not get accustomed to them,<span
-> id="page_201_fr_60"></span>[60](#page_201_note_60) for they belong to
+> id="page_201_fr_60"></span>[60](#page_201_note_60.md) for they belong to
 > a kind of animal which bites. The imamba which frequents open places,
 > and those which frequent houses, are not distinguishable by colour;
 > their colour is the same, their eyes are alike; and when they are in
@@ -1648,7 +1648,7 @@ practising deceit on others, and probably too on himself.
 >
 > T<span class="small">HE</span> account of the Imamba which is the
 > Itongo of our people among the Amapepete. The chief of that nation was
-> Umaziya.<span id="page_204_fr_61"></span>[61](#page_204_note_61) That
+> Umaziya.<span id="page_204_fr_61"></span>[61](#page_204_note_61.md) That
 > chief became an Imamba when he went out of his human body. He was
 > killed by the Abambo. When the people were scattered from the country
 > of the Amazulu, they wished to come here to the English. But he had
@@ -1689,19 +1689,19 @@ practising deceit on others, and probably too on himself.
 > constantly; until they reached Table Mountain, where it still was when
 > his son, Umyeka, went down to the Inanda, flying from the Dutch.
 >
->  But the chief<span id="page_206_fr_62"></span>[62](#page_206_note_62)
+>  But the chief<span id="page_206_fr_62"></span>[62](#page_206_note_62.md)
 > refused, saying, "I will not go to a country by the sea. I shall stay
 > here, and eat grasshoppers."<span
-> id="page_206_fr_63"></span>[63](#page_206_note_63) And so indeed it
+> id="page_206_fr_63"></span>[63](#page_206_note_63.md) And so indeed it
 > was. At length Umyeka was very ill, and it was said to him in a dream,
 > "Why did you forsake your father?<span
-> id="page_206_fr_64"></span>[64](#page_206_note_64) He is calling the
+> id="page_206_fr_64"></span>[64](#page_206_note_64.md) He is calling the
 > people; let them return." But they would not agree, fearing their feud
 > with the Dutch, for Umyeka had stolen their cattle.<span
-> id="page_206_fr_65"></span>[65](#page_206_note_65)
+> id="page_206_fr_65"></span>[65](#page_206_note_65.md)
 >
 >  So it was until our eldest uncle went up to our father,<span
-> id="page_206_fr_66"></span>[66](#page_206_note_66) who was younger
+> id="page_206_fr_66"></span>[66](#page_206_note_66.md) who was younger
 > than our own father. Our father departed, leaving our eldest uncle,
 > and returned <span id="page_207">p. 207</span> to the old site of our
 > chief's great kraal. But he was on the other side of the stream to it;
@@ -1765,16 +1765,16 @@ practising deceit on others, and probably too on himself.
 > truly in trouble because he was not among them. This is the song which
 > was sung:—
 >
->  "Dig for<span id="page_209_fr_68"></span>[68](#page_209_note_68) the
+>  "Dig for<span id="page_209_fr_68"></span>[68](#page_209_note_68.md) the
 > chief, and watch our gardens which are at Isiwandiye.<span
-> id="page_209_fr_69"></span>[69](#page_209_note_69)  
+> id="page_209_fr_69"></span>[69](#page_209_note_69.md)  
 >   <span id="page_210">p. 210</span>  
 >  "Those words are naught.<span
-> id="page_210_fr_70"></span>[70](#page_210_note_70)  
+> id="page_210_fr_70"></span>[70](#page_210_note_70.md)  
 >  Dig for the chief, and watch our gardens which are at Isiwandiye.  
 >  Those words are naught.  
 >  Which are at Isiwandiye, I-i-i-zi<span
-> id="page_210_fr_71"></span>[71](#page_210_note_71)—which are at
+> id="page_210_fr_71"></span>[71](#page_210_note_71.md)—which are at
 > Isiwandiye.  
 >  Those words are naught."
 >
@@ -1783,7 +1783,7 @@ practising deceit on others, and probably too on himself.
 > they separated when the sun was going down and it was raining, and
 > they went home to our village, for the abundance of beer was fearful;
 > so they consumed beer and meat, and sang hut-songs.<span
-> id="page_210_fr_72"></span>[72](#page_210_note_72)
+> id="page_210_fr_72"></span>[72](#page_210_note_72.md)
 >
 >  In the midst of these doings, one of the young men, named Umathlati,
 > went out; on his return he said, "The chief has come, even whilst we
@@ -1884,11 +1884,11 @@ practising deceit on others, and probably too on himself.
 > number went out to see the fight. It is said Umpande wished to help
 > Utshaka and kill Udingane, because Udingane had wished to kill
 > Umpande, but Undhlela<span
-> id="page_214_fr_73"></span>[73](#page_214_note_73) saved him.
+> id="page_214_fr_73"></span>[73](#page_214_note_73.md) saved him.
 >
 >  The Amanxusa remain in the <span id="page_215">p. 215</span> chief
 > house of our chief among the Amapepete. The Amanxusa used to remain in
-> Usokane's<span id="page_215_fr_74"></span>[74](#page_215_note_74)
+> Usokane's<span id="page_215_fr_74"></span>[74](#page_215_note_74.md)
 > house, a great man. One day a woman said, "I am troubled. I am
 > sometimes unable even to put down a vessel, there being always snakes
 > in the way." Those who knew them said, "They are Amanxusa of the
@@ -2099,7 +2099,7 @@ practising deceit on others, and probably too on himself.
 >  The Amakxosa say, "Utikxo of our people, look upon me, and be ever
 > with me, that I may live in prosperity." It is not known what they
 > used to say before they used the word Utikxo, who is the Itongo of the
-> Amakxosa.<span id="page_224_fr_75"></span>[75](#page_224_note_75) And
+> Amakxosa.<span id="page_224_fr_75"></span>[75](#page_224_note_75.md) And
 > now among the Amakxosa believers when they sneeze no longer say to the
 > Itongo "Father," but, "Preserver, look upon me," or, "Creator of
 > heaven and earth." Thus a change has taken place.
@@ -2121,7 +2121,7 @@ practising deceit on others, and probably too on himself.
 > and you will be in trouble when you have to eat grasshoppers; for at
 > the time of my death my village will come to an end, and you will have
 > no place into which you can enter; you will die<span
-> id="page_225_fr_76"></span>[76](#page_225_note_76) of cold on the
+> id="page_225_fr_76"></span>[76](#page_225_note_76.md) of cold on the
 > mountains. Other Amadhlozi bless their people. And I too say, "Give me
 > abundantly; do not forget me. Why are you unable to give me, I being
 > alone? If we were many, how would it be?'"
@@ -2164,27 +2164,27 @@ Amatongo: and in the funeral processions of the "good people," which
 some have professed to see, are recognised the forms of those who have
 just died; as Umkatshana <span id="page_227">p. 227</span> saw his
 relatives among the Abapansi.<span
-id="page_227_fr_77"></span>[77](#page_227_note_77) And the power of
+id="page_227_fr_77"></span>[77](#page_227_note_77.md) And the power of
 holding communion with the "good people" is consequent on an illness,
 just as the power to divine among the natives of this country.<span
-id="page_227_fr_78"></span>[78](#page_227_note_78)
+id="page_227_fr_78"></span>[78](#page_227_note_78.md)
 
  So also in the Highland Tales, a boy who had been carried away by the
 fairies, on his return to his home speaks of them as "our folks," which
 is equivalent to *abakwetu*, applied to the Amatongo.<span
-id="page_227_fr_79"></span>[79](#page_227_note_79) And among the
+id="page_227_fr_79"></span>[79](#page_227_note_79.md) And among the
 Highlanders they are called "the good people," "the folk." They are also
 said to "live underground," and are therefore Abapansi, or
-Subterraneans.<span id="page_227_fr_80"></span>[80](#page_227_note_80)
+Subterraneans.<span id="page_227_fr_80"></span>[80](#page_227_note_80.md)
 
  They are also, like the Abapansi, called ancestors. Thus "the Red Book
 of Clanrannald is said not to have been dug up, but to have been found
 *on* the moss. It seemed as if the ancestors sent it."<span
-id="page_227_fr_81"></span>[81](#page_227_note_81)
+id="page_227_fr_81"></span>[81](#page_227_note_81.md)
 
 ------------------------------------------------------------------------
 
-[Next](rsa07)
+[Next](rsa07.md)
 
 ------------------------------------------------------------------------
 
@@ -2192,22 +2192,22 @@ id="page_227_fr_81"></span>[81](#page_227_note_81)
 
 <span id="footnotes_page_129">p. 129</span>
 
- <span id="page_129_note_1"></span>[1](#page_129_fr_1) Not at the time
+ <span id="page_129_note_1"></span>[1](#page_129_fr_1.md) Not at the time
 of the creation, but of their own birth. There is no one now who can
 remember when the Amatongo were first spoken of. As soon as he came to
 years capable of understanding, he heard others speak of the Amatongo,
 as they had heard others who were older than themselves.
 
- <span id="page_129_note_2"></span>[2](#page_129_fr_2) Note the
+ <span id="page_129_note_2"></span>[2](#page_129_fr_2.md) Note the
 distinction between *ngasemva* and *emva*.
 
 <span id="footnotes_page_130">p. 130</span>
 
- <span id="page_130_note_3"></span>[3](#page_130_fr_3) The izinyanga or
+ <span id="page_130_note_3"></span>[3](#page_130_fr_3.md) The izinyanga or
 doctors are thus represented as the appointed teachers of the people.
 They are, no doubt, the relic of an ancient priesthood.
 
- <span id="page_130_note_4"></span>[4](#page_130_fr_4) The native who
+ <span id="page_130_note_4"></span>[4](#page_130_fr_4.md) The native who
 relates this does not, he says, mean that when Unkulunkulu was speaking
 to primitive men, Amatongo were already in existence; but speaking of
 the future as already present, he appointed the spirits of the dead to
@@ -2219,10 +2219,10 @@ snakes; and sacrificed to them.
 
 <span id="footnotes_page_131">p. 131</span>
 
- <span id="page_131_note_5"></span>[5](#page_131_fr_5) A mode of
+ <span id="page_131_note_5"></span>[5](#page_131_fr_5.md) A mode of
 claiming attention, or commanding silence.
 
- <span id="page_131_note_6"></span>[6](#page_131_fr_6) *Izinyanga*.—It
+ <span id="page_131_note_6"></span>[6](#page_131_fr_6.md) *Izinyanga*.—It
 is, perhaps, better to retain the native word than to translate it by a
 word which does not fairly represent it. Inyanga, generally rendered
 *doctor*, means a man skilled in any particular matter = *magus*. Thus,
@@ -2230,24 +2230,24 @@ an inyanga yokubula is a doctor or wise man of smiting, that is, with
 divining rods—a diviner. Inyanga yemiti, a doctor of medicines. Inyanga
 yensimbi, a smith, &c.
 
- <span id="page_131_note_7"></span>[7](#page_131_fr_7) That is, one man
+ <span id="page_131_note_7"></span>[7](#page_131_fr_7.md) That is, one man
 among the Amatongo—one of the Amatongo.
 
 <span id="footnotes_page_137">p. 137</span>
 
- <span id="page_137_note_8"></span>[8](#page_137_fr_8) Note again the
+ <span id="page_137_note_8"></span>[8](#page_137_fr_8.md) Note again the
 force of *nga* before *pambili*: *pambili*, before—any indefinite time
 before; *ngapambili*, just before, immediately or a short time before.
 
 <span id="footnotes_page_139">p. 139</span>
 
- <span id="page_139_note_9"></span>[9](#page_139_fr_9) He means that
+ <span id="page_139_note_9"></span>[9](#page_139_fr_9.md) He means that
 there is one supreme Unkulunkulu, from whom all other Onkulunkulu
 sprang.
 
 <span id="footnotes_page_142">p. 142</span>
 
- <span id="page_142_note_10"></span>[10](#page_142_fr_10) *Ubulawo*, A
+ <span id="page_142_note_10"></span>[10](#page_142_fr_10.md) *Ubulawo*, A
 class of medicines, used for cleansing and brightening. Medicines used
 with the view of removing from the system something that causes dislike,
 and introducing into it something that will cause love.
@@ -2296,7 +2296,7 @@ ubulawo only is used.
 
 <span id="footnotes_page_145">p. 145</span>
 
- <span id="page_145_note_11"></span>[11](#page_145_fr_11) That is, they
+ <span id="page_145_note_11"></span>[11](#page_145_fr_11.md) That is, they
 suggest to the Itongo, by whose ill-will or want of care they are
 afflicted, that if they should all die in consequence, and thus his
 worshippers come to an end, he would have none to worship him; and
@@ -2306,17 +2306,17 @@ meat of the sacrifices for him to eat.
 
 <span id="footnotes_page_146">p. 146</span>
 
- <span id="page_146_note_12"></span>[12](#page_146_fr_12) The
+ <span id="page_146_note_12"></span>[12](#page_146_fr_12.md) The
 *Itongo*,—a collective term meaning the inhabitants of the spirit-world,
 or abapansi.
 
 <span id="footnotes_page_147">p. 147</span>
 
- <span id="page_147_note_13"></span>[13](#page_147_fr_13) The narrator
+ <span id="page_147_note_13"></span>[13](#page_147_fr_13.md) The narrator
 from this point appears to relate something he has actually known, and
 not any hypothetical case.
 
- <span id="page_147_note_14"></span>[14](#page_147_fr_14) *Umhlaba*, the
+ <span id="page_147_note_14"></span>[14](#page_147_fr_14.md) *Umhlaba*, the
 earth, is a name given to the Amatongo, that is, <span
 id="footnotes_page_148">p. 148</span> the Abapansi, or Subterraneans. We
 find such expressious as these:—"U guliswa umhlaba," The Itongo has made
@@ -2331,7 +2331,7 @@ have Izinkomo zomzimu. Among the Amazulu, Umzimu is a word used only in
 this connection, and appears to be a collective term for the Amatongo.
 But on the Zambesi, Azimo or Bazimo is used for the good spirits of the
 departed. (*The Zambesi and its Tributaries. Livingstone, p.* 520.)
-Compare also [Note above, p. 93](rsa01.htm#page_93_note_67). There is
+Compare also [Note above, p. 93](rsa01.htm#page_93_note_67.md). There is
 also another word, Unyanya, which is used in the same way as Itongo.
 Thus a man who has been fortunate says, "Ngi bhekwe Unyanya," I have
 been regarded by Unyanya. Among the Amalala, we meet with another word,
@@ -2344,10 +2344,10 @@ whilst living.
 
 <span id="footnotes_page_149">p. 149</span>
 
- <span id="page_149_note_15"></span>[15](#page_149_fr_15) That is, he
+ <span id="page_149_note_15"></span>[15](#page_149_fr_15.md) That is, he
 who is dead.
 
- <span id="page_149_note_16"></span>[16](#page_149_fr_16) "Did he die
+ <span id="page_149_note_16"></span>[16](#page_149_fr_16.md) "Did he die
 and leave no cattle behind?"—Since he did not sacrifice all his cattle
 to the Amatongo, but left some when he died, why should he be so
 unreasonable now he is an Itongo as to demand that I should sacrifice
@@ -2355,7 +2355,7 @@ all mine?
 
 <span id="footnotes_page_152">p. 152</span>
 
- <span id="page_152_note_17"></span>[17](#page_152_fr_17)
+ <span id="page_152_note_17"></span>[17](#page_152_fr_17.md)
 
 >  *They bring Animals*.—As regards bringing animals, sometimes the
 > Amatongo manifest themselves by signs, and animals enter the village;
@@ -2385,23 +2385,23 @@ all mine?
 
 <span id="footnotes_page_154">p. 154</span>
 
- <span id="page_154_note_18"></span>[18](#page_154_fr_18) *Nami*, even I
+ <span id="page_154_note_18"></span>[18](#page_154_fr_18.md) *Nami*, even I
 who have been so ill.
 
 <span id="footnotes_page_156">p. 156</span>
 
- <span id="page_156_note_19"></span>[19](#page_156_fr_19) *Nga ku shiya
+ <span id="page_156_note_19"></span>[19](#page_156_fr_19.md) *Nga ku shiya
 nomuzi*, I left you with a village, that is, I died, leaving you to
 inherit the property which I possessed.
 
 <span id="footnotes_page_160">p. 160</span>
 
- <span id="page_160_note_20"></span>[20](#page_160_fr_20) That is, one
+ <span id="page_160_note_20"></span>[20](#page_160_fr_20.md) That is, one
 of the Amatongo.
 
 <span id="footnotes_page_162">p. 162</span>
 
- <span id="page_162_note_21"></span>[21](#page_162_fr_21)
+ <span id="page_162_note_21"></span>[21](#page_162_fr_21.md)
 *U-nkom’-i-dhl’-i-lale*, The-bullock-which-eats-and-lies-down. Implying
 that as a bullock in abundant pastures eats and lies down, so he shall
 have abundance of food and freedom from care,—that he shall "dwell in a
@@ -2409,29 +2409,29 @@ large pasture."
 
 <span id="footnotes_page_165">p. 165</span>
 
- <span id="page_165_note_22"></span>[22](#page_165_fr_22)
+ <span id="page_165_note_22"></span>[22](#page_165_fr_22.md)
 *U-ndhlebe-ka-zi-zwa*, He-is-ears-which-hear-not, or
 The-ears-which-hear-not-man. Implying a man who refuses to listen to any
 counsel or explanation, but at once attempts to conclude a matter by
 fighting.
 
- <span id="page_165_note_23"></span>[23](#page_165_fr_23)
+ <span id="page_165_note_23"></span>[23](#page_165_fr_23.md)
 *U-notshelwa-e-zi-tshela*, When-he-has-been-told-he-tells-the-news. That
 is, he pays no attention whatever to what is said to him, but at once
 gives his own account of the matter, and insists upon his own
 opinion.—These two names are izibongo given to him on account of his
 character.
 
- <span id="page_165_note_24"></span>[24](#page_165_fr_24) That is, he
+ <span id="page_165_note_24"></span>[24](#page_165_fr_24.md) That is, he
 was very tall.
 
- <span id="page_165_note_25"></span>[25](#page_165_fr_25) This is a
+ <span id="page_165_note_25"></span>[25](#page_165_fr_25.md) This is a
 proverbial saying. "You shall set for yourself your own limit at my
 village,"—that is, you shall do just as you like.
 
 <span id="footnotes_page_166">p. 166</span>
 
- <span id="page_166_note_26"></span>[26](#page_166_fr_26)
+ <span id="page_166_note_26"></span>[26](#page_166_fr_26.md)
 *U-nothlola-mazibuko*. The name of his club. It means,
 He-who-watches-the-fords, that is, to prevent an enemy crossing to do
 damage.—There is a terrible threat in his words.—It is common for braves
@@ -2466,50 +2466,50 @@ slaughter." (*Id., p.* 60.)—Roland had his terrible sword Durindale.
 Corrouge. (*Id., p.* 317.) Charlemagne had his good sword Joyeuse.
 (*Id., p.* 346.)
 
- <span id="page_167_note_27"></span>[27](#page_167_fr_27) That is, the
+ <span id="page_167_note_27"></span>[27](#page_167_fr_27.md) That is, the
 matter was kept a secret, and the Amazulu did not know what had become
 of their soldiers.
 
 <span id="footnotes_page_168">p. 168</span>
 
- <span id="page_168_note_28"></span>[28](#page_168_fr_28) This modern
+ <span id="page_168_note_28"></span>[28](#page_168_fr_28.md) This modern
 Samson has all the characteristics of the champions <span
 id="footnotes_page_169">p. 169</span> of old legends. It is difficult to
 conceive such a description as is here given to refer to a man of a
 generation just passed away. He was the uncle of the narrator.
 
- <span id="page_169_note_29"></span>[29](#page_169_fr_29) Umbanjwa, the
+ <span id="page_169_note_29"></span>[29](#page_169_fr_29.md) Umbanjwa, the
 Unkulunkulu of that family.
 
 <span id="footnotes_page_170">p. 170</span>
 
- <span id="page_170_note_30"></span>[30](#page_170_fr_30) He knew
+ <span id="page_170_note_30"></span>[30](#page_170_fr_30.md) He knew
 because he too had dreamed a dream similar to that of Unqanqaza.
 
 <span id="footnotes_page_171">p. 171</span>
 
- <span id="page_171_note_31"></span>[31](#page_171_fr_31) "Umuntu wa fa
+ <span id="page_171_note_31"></span>[31](#page_171_fr_31.md) "Umuntu wa fa
 na?"—We cannot render this literally. The saying casts the
 responsibility of death, if it takes place, on Unqanqaza.
 
- <span id="page_171_note_32"></span>[32](#page_171_fr_32) Medicine is
+ <span id="page_171_note_32"></span>[32](#page_171_fr_32.md) Medicine is
 here personified. The medicine is now Death; and is working for the
 purpose of getting a corpse.
 
- <span id="page_171_note_33"></span>[33](#page_171_fr_33) Lit., It is
+ <span id="page_171_note_33"></span>[33](#page_171_fr_33.md) Lit., It is
 not yet known what calf the cow will bring forth. A proverbial
 saying.—This account was given to me in 1865. Usigwili died. And
 Unqanqaza died soon after, probably privately murdered.
 
 <span id="footnotes_page_172">p. 172</span>
 
- <span id="page_172_note_34"></span>[34](#page_172_fr_34) "Umzimba wami
+ <span id="page_172_note_34"></span>[34](#page_172_fr_34.md) "Umzimba wami
 u shiyene."—Lit., My body has left itself,—is affected differently in
 different parts. "Amasimu a ya shiyana," The fields are not all ripe at
 the same time. "Obani ba shiyene," Those men have gone one farther than
 the other.
 
- <span id="page_172_note_35"></span>[35](#page_172_fr_35) "Idhlozi eli
+ <span id="page_172_note_35"></span>[35](#page_172_fr_35.md) "Idhlozi eli
 ti ni na?"—This Zulu idiom, which places the relative in the
 interrogative sentence, implies what cannot be expressed in a
 translation, that the person who asks the question does not believe that
@@ -2524,13 +2524,13 @@ mentions the person or persons not yet come.
 
 <span id="footnotes_page_175">p. 175</span>
 
- <span id="page_175_note_36"></span>[36](#page_175_fr_36) So other
+ <span id="page_175_note_36"></span>[36](#page_175_fr_36.md) So other
 heathens represent their gods as jealous. The Iliad is but a history of
 the results of the jealousy of two goddesses.
 
 <span id="footnotes_page_176">p. 176</span>
 
- <span id="page_176_note_37"></span>[37](#page_176_fr_37) The old woman
+ <span id="page_176_note_37"></span>[37](#page_176_fr_37.md) The old woman
 and the infant are mentioned in conclusion because he wishes to include
 all. The old woman and the infant are not regarded in the affairs of the
 village, but when they have become members of the spirit-world they are
@@ -2541,24 +2541,24 @@ infants.
 
 <span id="footnotes_page_177">p. 177</span>
 
- <span id="page_177_note_39"></span>[39](#page_177_fr_39) If the bullock
+ <span id="page_177_note_39"></span>[39](#page_177_fr_39.md) If the bullock
 cries it is considered a good omen, and the man is expected to get well.
 But if it makes no noise they doubt whether the sacrifice is accepted
 and expect death.
 
 <span id="footnotes_page_179">p. 179</span>
 
- <span id="page_179_note_40"></span>[40](#page_179_fr_40) That is, at
+ <span id="page_179_note_40"></span>[40](#page_179_fr_40.md) That is, at
 the end of harvest.
 
 <span id="footnotes_page_180">p. 180</span>
 
- <span id="page_180_note_41"></span>[41](#page_180_fr_41) *We are
+ <span id="page_180_note_41"></span>[41](#page_180_fr_41.md) *We are
 scorched or burnt*.—Meaning by this they are standing before a fire with
 nothing between them and the flame. They wish for meat to put on the
 fire.
 
- <span id="page_180_note_42"></span>[42](#page_180_fr_42) The
+ <span id="page_180_note_42"></span>[42](#page_180_fr_42.md) The
 *umthlubulo* is that portion of the ribs which is left after cutting
 away the breast or brisket, and includes the flesh down to the hip. The
 flesh of the flank which forms a part of the *umthlubulo* is called
@@ -2566,22 +2566,22 @@ flesh of the flank which forms a part of the *umthlubulo* is called
 
 <span id="footnotes_page_181">p. 181</span>
 
- <span id="page_181_note_43"></span>[43](#page_181_fr_43) The
+ <span id="page_181_note_43"></span>[43](#page_181_fr_43.md) The
 *insonyama* is the superficial layer of flesh from the hip to the ear,
 including the pectoral muscles.
 
 <span id="footnotes_page_184">p. 184</span>
 
- <span id="page_184_note_44"></span>[44](#page_184_fr_44) See [Note
-above, p. 142](#page_142_note_10).
+ <span id="page_184_note_44"></span>[44](#page_184_fr_44.md) See [Note
+above, p. 142](#page_142_note_10.md).
 
- <span id="page_184_note_45"></span>[45](#page_184_fr_45) Black
+ <span id="page_184_note_45"></span>[45](#page_184_fr_45.md) Black
 medicines, that is, medicines which have the power of rendering the
 Itongo dark or indistinct.
 
 <span id="footnotes_page_188">p. 188</span>
 
- <span id="page_188_note_46"></span>[46](#page_188_fr_46) This dream was
+ <span id="page_188_note_46"></span>[46](#page_188_fr_46.md) This dream was
 recorded at the time. He dreamt that he was crossing a river with
 Umpengula in a boat. When they were in the middle of the river, without
 any apparent cause, the bottom of the boat opened and let him through,
@@ -2598,23 +2598,23 @@ a man by his own thoughts and wishes, and which help on its own
 fulfilment by placing before his mind during sleep a distinct tableau of
 the future such as whilst awake he would be afraid to form for himself.
 
- <span id="page_189_note_47"></span>[47](#page_189_fr_47) That is, he no
+ <span id="page_189_note_47"></span>[47](#page_189_fr_47.md) That is, he no
 longer understands the Christian faith, and does not believe it can
 again enter him; or that he can change again.
 
- <span id="page_189_note_48"></span>[48](#page_189_fr_48) Lit., Having
+ <span id="page_189_note_48"></span>[48](#page_189_fr_48.md) Lit., Having
 had a charge given me respecting a medicine, or plant possessed of
 medical properties. The charge, of course, being supposed to be given by
 the Itongo.
 
- <span id="page_189_note_49"></span>[49](#page_189_fr_49) It is said to
+ <span id="page_189_note_49"></span>[49](#page_189_fr_49.md) It is said to
 be thus with those who are about to be diviners; they are often deceived
 before they learn to comprehend the voices of the Itongo by which they
 are called.
 
 <span id="footnotes_page_190">p. 190</span>
 
- <span id="page_190_note_50"></span>[50](#page_190_fr_50) Not that he
+ <span id="page_190_note_50"></span>[50](#page_190_fr_50.md) Not that he
 likes meat; he eats only a small quantity; but it is the custom with
 such people to ask to have sacrifices continually made to the Amatongo.
 It is therefore common when these symptoms first manifest themselves to
@@ -2623,12 +2623,12 @@ should impoverish them.
 
 <span id="footnotes_page_192">p. 192</span>
 
- <span id="page_192_note_51"></span>[51](#page_192_fr_51) That is, in a
+ <span id="page_192_note_51"></span>[51](#page_192_fr_51.md) That is, in a
 dream.
 
 <span id="footnotes_page_196">p. 196</span>
 
- <span id="page_196_note_52"></span>[52](#page_196_fr_52) This, as it is
+ <span id="page_196_note_52"></span>[52](#page_196_fr_52.md) This, as it is
 told in the text, is not clear. It appears that the doctor pursued two
 systems of treatment, with opposite objects. And this was really the
 case. He first tried the "darkening" system, by using together with the
@@ -2641,57 +2641,57 @@ was laid," and has never appeared since.
 
 <span id="footnotes_page_198">p. 198</span>
 
- <span id="page_198_note_53"></span>[53](#page_198_fr_53) That is, the
+ <span id="page_198_note_53"></span>[53](#page_198_fr_53.md) That is, the
 black imamba.
 
- <span id="page_198_note_54"></span>[54](#page_198_fr_54) Or green
+ <span id="page_198_note_54"></span>[54](#page_198_fr_54.md) Or green
 imamba. There is besides a spotted green, and grey Imamba.
 
 <span id="footnotes_page_200">p. 200</span>
 
- <span id="page_200_note_55"></span>[55](#page_200_fr_55) Rapidly, or
+ <span id="page_200_note_55"></span>[55](#page_200_fr_55.md) Rapidly, or
 rather, without any shame,—arbitrarily, as one that has a right to do as
 he likes, whose will is his law.
 
- <span id="page_200_note_56"></span>[56](#page_200_fr_56) *Isalukazana*,
+ <span id="page_200_note_56"></span>[56](#page_200_fr_56.md) *Isalukazana*,
 a kind of lizard.
 
- <span id="page_200_note_57"></span>[57](#page_200_fr_57) *Imamba*, a
+ <span id="page_200_note_57"></span>[57](#page_200_fr_57.md) *Imamba*, a
 poisonous snake.
 
- <span id="page_200_note_58"></span>[58](#page_200_fr_58) *Inyandezulu*,
+ <span id="page_200_note_58"></span>[58](#page_200_fr_58.md) *Inyandezulu*,
 a poisonous snake, the green imamba.
 
 <span id="footnotes_page_201">p. 201</span>
 
- <span id="page_201_note_59"></span>[59](#page_201_fr_59) *Umhlwazi*, a
+ <span id="page_201_note_59"></span>[59](#page_201_fr_59.md) *Umhlwazi*, a
 harmless snake.
 
- <span id="page_201_note_60"></span>[60](#page_201_fr_60) They do not
+ <span id="page_201_note_60"></span>[60](#page_201_fr_60.md) They do not
 become common in the eyes, that is, so as to be approached
 familiarly,—the eyes do not get accustomed to them.
 
 <span id="footnotes_page_204">p. 204</span>
 
- <span id="page_204_note_61"></span>[61](#page_204_fr_61) *Umaziya*.—The
+ <span id="page_204_note_61"></span>[61](#page_204_fr_61.md) *Umaziya*.—The
 z pronounced like z in azure.
 
 <span id="footnotes_page_206">p. 206</span>
 
- <span id="page_206_note_62"></span>[62](#page_206_fr_62) That is, the
+ <span id="page_206_note_62"></span>[62](#page_206_fr_62.md) That is, the
 imamba,—the dead chief.
 
- <span id="page_206_note_63"></span>[63](#page_206_fr_63) It is to be
+ <span id="page_206_note_63"></span>[63](#page_206_fr_63.md) It is to be
 understood that this was said to the son in a dream.
 
- <span id="page_206_note_64"></span>[64](#page_206_fr_64) That is,
+ <span id="page_206_note_64"></span>[64](#page_206_fr_64.md) That is,
 forsake the place whore his Itongo revealed itself.
 
- <span id="page_206_note_65"></span>[65](#page_206_fr_65) It is supposed
+ <span id="page_206_note_65"></span>[65](#page_206_fr_65.md) It is supposed
 by the narrator that this tribe stole at least a thousand head of cattle
 from the Dutch.
 
- <span id="page_206_note_66"></span>[66](#page_206_fr_66) Both the
+ <span id="page_206_note_66"></span>[66](#page_206_fr_66.md) Both the
 Ubabakazi, eldest uncle, and the Ubaba, father, were uncles. There were
 three brothers. The eldest is here called Ubabakazi; the second, the
 father, was dead; the youngest, here called father, had charge of the
@@ -2699,39 +2699,39 @@ family of the second.
 
 <span id="footnotes_page_209">p. 209</span>
 
- <span id="page_209_note_68"></span>[68](#page_209_fr_68) *Limel’*—dig
+ <span id="page_209_note_68"></span>[68](#page_209_fr_68.md) *Limel’*—dig
 for, not known for whom, but probably, as here translated, the chief.
 
- <span id="page_209_note_69"></span>[69](#page_209_fr_69)
+ <span id="page_209_note_69"></span>[69](#page_209_fr_69.md)
 *Asesiwandiye*—Isiwandiye *for* Isiwandile. The name of a place, as if
 of a place where there were many gardens.
 
 <span id="footnotes_page_210">p. 210</span>
 
- <span id="page_210_note_70"></span>[70](#page_210_fr_70) *Those words
+ <span id="page_210_note_70"></span>[70](#page_210_fr_70.md) *Those words
 are naught,*—that is, we object to dig at Isiwandile.
 
- <span id="page_210_note_71"></span>[71](#page_210_fr_71) *I-i-i-zi*.—Z
+ <span id="page_210_note_71"></span>[71](#page_210_fr_71.md) *I-i-i-zi*.—Z
 in zi pronounced as in azure. This chorus is used for the purpose of
 emphatically asserting the subject of the song.
 
- <span id="page_210_note_72"></span>[72](#page_210_fr_72) The *umkcwayo*
+ <span id="page_210_note_72"></span>[72](#page_210_fr_72.md) The *umkcwayo*
 is a song which is sung in the hut, the singers sitting and accomanying
 the song with regulated motions of the body.
 
 <span id="footnotes_page_214">p. 214</span>
 
- <span id="page_214_note_73"></span>[73](#page_214_fr_73) An officer
+ <span id="page_214_note_73"></span>[73](#page_214_fr_73.md) An officer
 under Udingane.
 
 <span id="footnotes_page_216">p. 216</span>
 
- <span id="page_215_note_74"></span>[74](#page_215_fr_74) A very old
+ <span id="page_215_note_74"></span>[74](#page_215_fr_74.md) A very old
 man, who had grown up with Umaziya, the king.
 
 <span id="footnotes_page_224">p. 224</span>
 
- <span id="page_224_note_75"></span>[75](#page_224_fr_75) Utikxo is
+ <span id="page_224_note_75"></span>[75](#page_224_fr_75.md) Utikxo is
 supposed to be a word not originally used by the nations who speak the
 alliterative class of language; but to be derived from the Hottentot
 Tikqwa. It is now, however, used by the Amakxosa generally, whether
@@ -2741,7 +2741,7 @@ adopted.
 
 <span id="footnotes_page_225">p. 225</span>
 
- <span id="page_225_note_76"></span>[76](#page_225_fr_76) He does not
+ <span id="page_225_note_76"></span>[76](#page_225_fr_76.md) He does not
 speak of the actual death of the Amatongo; for the people believe that
 the Amatongo do not die, but of their suffering from cold. In another
 place we read of killing an imamba which was the Itongo of Udingane.
@@ -2752,19 +2752,19 @@ have the mark of the wound on its body.
 
 <span id="footnotes_page_227">p. 227</span>
 
- <span id="page_227_note_77"></span>[77](#page_227_fr_77) See Nursery
+ <span id="page_227_note_77"></span>[77](#page_227_fr_77.md) See Nursery
 Tales of the Zulus, p. 317.
 
- <span id="page_227_note_78"></span>[78](#page_227_fr_78) See Croker's
+ <span id="page_227_note_78"></span>[78](#page_227_fr_78.md) See Croker's
 Fairy Legends, especially "The Confessions of Tom Bourke," p. 46.
 
- <span id="page_227_note_79"></span>[79](#page_227_fr_79) Campbell. Vol
+ <span id="page_227_note_79"></span>[79](#page_227_fr_79.md) Campbell. Vol
 II., p. 56.
 
- <span id="page_227_note_80"></span>[80](#page_227_fr_80) Id., p. 65,
+ <span id="page_227_note_80"></span>[80](#page_227_fr_80.md) Id., p. 65,
 66.
 
- <span id="page_227_note_81"></span>[81](#page_227_fr_81) Id., Vol II.,
+ <span id="page_227_note_81"></span>[81](#page_227_fr_81.md) Id., Vol II.,
 p. 106.
 
  

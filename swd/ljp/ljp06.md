@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ljp05)  [Next](ljp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ljp05)  [Next](ljp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ that, mystically, that is, spiritually, this is also true, because gold
 signifies the good of love, and they who are in that mystical or
 spiritual sense of the Word, receive this love. But they wanted gold,
 not love, saying that the possession of gold is love. <span
-id="fr_42"></span>[254-1](#fn_42)
+id="fr_42"></span>[254-1](#fn_42.md)
 
 <span class="margnote"><span id="255.">255.</span></span>
 
@@ -606,9 +606,9 @@ know where they went, some said that they saw some in the hells.
 
 ### Footnotes
 
-<span id="fn_42"></span>[254-1](ljp06.htm#fr_42) See T 845; SE 2256,
+<span id="fn_42"></span>[254-1](ljp06.htm#fr_42.md) See T 845; SE 2256,
 2257, 4388.
 
 ------------------------------------------------------------------------
 
-[Next: 301-350](ljp07)
+[Next: 301-350](ljp07.md)

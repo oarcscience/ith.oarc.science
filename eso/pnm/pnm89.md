@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm88)  [Next](pnm90) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm88)  [Next](pnm90.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ age reasoned eagerly, would alone account sufficiently for the attention
 paid to the young German by the university of Dole. Moreover, while
 fulfilling his own private purpose, he appeared also to the loyalty of
 the Burgundians, by delivering his orations to all corners
-[gratuitously](errata.htm#7), for the honor of the Princess Margaret,
+[gratuitously](errata.htm#7.md), for the honor of the Princess Margaret,
 their ruler, and opening them with her panegyric. The young orator being
 also remarkable for an effective manner of delivery, the grave and
 learned men who came to his prelections honored him by diligent
@@ -108,4 +108,4 @@ once the degree of doctor of divinity, together with a stipend.
 
 ------------------------------------------------------------------------
 
-[Next: The Nobility of Woman](pnm90)
+[Next: The Nobility of Woman](pnm90.md)

@@ -24,23 +24,23 @@ Days](smd/index.md)</span>   by <span class="c_a">Reginald C.
 Couzens</span> \[<span class="c_d">1923</span>\] </span>
 
 <span class="c_e"> <span class="c_t">[Christmas in Ritual and
-Tradition](crt/index)</span>   by <span class="c_a">Clement A.
+Tradition](crt/index.md)</span>   by <span class="c_a">Clement A.
 Miles</span> \[<span class="c_d">1912</span>\] </span>
 
 <span class="c_e"> <span class="c_t">[Fifty Christmas Poems for
-Children](50x/index)</span>   by <span class="c_a">Florence B.
+Children](50x/index.md)</span>   by <span class="c_a">Florence B.
 Hyett</span> \[<span class="c_d">1923</span>\] </span>
 
 ### Timelines
 
 <span class="c_e"> <span class="c_t">[Sacred Texts
-Timeline](timeline)</span>   by <span class="c_a">John Bruno Hare</span>
+Timeline](timeline.md)</span>   by <span class="c_a">John Bruno Hare</span>
 \[<span class="c_d">1999</span>\]   <span class="c_b">The chronology of
 sacred texts from the origin of the universe to the present.</span>
 </span>
 
 <span class="c_e"> <span class="c_t">[Timeline: Origin of Major
-Religions](origtime)</span>   by <span class="c_a">John Bruno
+Religions](origtime.md)</span>   by <span class="c_a">John Bruno
 Hare</span> \[<span class="c_d">1999</span>\]   <span class="c_b">A
 chart of the origin of the twelve major world religions.</span> </span>
 
@@ -48,9 +48,9 @@ chart of the origin of the twelve major world religions.</span> </span>
 
 ### Calendars and Orreries
 
-[Calendar systems index](cal/index) Includes:  
-[Positions of the Planets](cal/astro)  
-[Phase of the Moon](cal/pom)  
-[Islamic Date](cal/isldate)  
-[Jewish Date](cal/jdate)  
-[Mayan Calendar](cal/mayacal)  
+[Calendar systems index](cal/index.md) Includes:  
+[Positions of the Planets](cal/astro.md)  
+[Phase of the Moon](cal/pom.md)  
+[Islamic Date](cal/isldate.md)  
+[Jewish Date](cal/jdate.md)  
+[Mayan Calendar](cal/mayacal.md)  

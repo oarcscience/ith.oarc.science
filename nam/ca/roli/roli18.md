@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli17)  [Next](roli19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli17)  [Next](roli19.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### A CHUNGICHNISH STORY. <span id="fr_273"></span>[258](#fn_268)
+### A CHUNGICHNISH STORY. <span id="fr_273"></span>[258](#fn_268.md)
 
 Among the people living near El Toro, there was a boy who was always
 hunting rabbits, quail, and the like with bow and arrows. One day, near
@@ -32,7 +32,7 @@ jump, and dance moving about, jump into the fire and stand in the middle
 of it, the flames going up above their heads. All took turns in doing
 this; then they said to the boy: "It is your turn now." He was
 frightened, but he sang a song, a sort of invocation, <span
-id="fr_274"></span>[259](#fn_269) and then jumped into the fire. He felt
+id="fr_274"></span>[259](#fn_269.md) and then jumped into the fire. He felt
 
 <span id="page_151">p. 151</span>
 
@@ -45,12 +45,12 @@ This is the reason people dance in that way, jumping and moving about.
 
 ### Footnotes
 
-<span id="fn_268"></span>[150:258](roli18.htm#fr_273) Told by Salvador
+<span id="fn_268"></span>[150:258](roli18.htm#fr_273.md) Told by Salvador
 Cuevas.
 
-<span id="fn_269"></span>[150:259](roli18.htm#fr_274) See song record
+<span id="fn_269"></span>[150:259](roli18.htm#fr_274.md) See song record
 405 given above.
 
 ------------------------------------------------------------------------
 
-[Next: Nahachish](roli19)
+[Next: Nahachish](roli19.md)

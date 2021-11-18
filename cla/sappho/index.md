@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [The Classics](../index)  [Sacred
-Sexuality](../../sex/index)  [Neo-Paganism](../../pag/index) 
+[Sacred-Texts](../../index)  [The Classics](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Neo-Paganism](../../pag/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,20 +21,20 @@ Sexuality](../../sex/index)  [Neo-Paganism](../../pag/index) 
 
 ------------------------------------------------------------------------
 
-[Introduction by J.B. Hare](saphintr)  
-[System of Greek Transliteration](saphxlit)  
-[Part I](sappho0)  
-[Part II](sappho1)  
-[Part III](sappho2)  
-[Part IV](sappho3)  
-[Index of First Lines](first)  
+[Introduction by J.B. Hare](saphintr.md)  
+[System of Greek Transliteration](saphxlit.md)  
+[Part I](sappho0.md)  
+[Part II](sappho1.md)  
+[Part III](sappho2.md)  
+[Part IV](sappho3.md)  
+[Index of First Lines](first.md)  
 
 ------------------------------------------------------------------------
 
 **Related Material**  
-[Sappho in Unicode](../usappho/index)  
-[The Songs of Bilitis](../sob/index)  
-[H.T. Wharton's Sappho](https://classicpersuasion.org/pw/sappho/index)
+[Sappho in Unicode](../usappho/index.md)  
+[The Songs of Bilitis](../sob/index.md)  
+[H.T. Wharton's Sappho](https://classicpersuasion.org/pw/sappho/index.md)
 \[external site\]
 
 ------------------------------------------------------------------------

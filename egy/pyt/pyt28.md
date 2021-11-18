@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt27)  [Next](pyt29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt27)  [Next](pyt29.md) 
 
 ------------------------------------------------------------------------
 
@@ -314,4 +314,4 @@ forth from Isis.
 ------------------------------------------------------------------------
 
 [Next: 26. For The Protection of the Pyramid Enclosure Against Osiris
-and His Cycle, Utterance 534](pyt29)
+and His Cycle, Utterance 534](pyt29.md)

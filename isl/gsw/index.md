@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,8 +21,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gsw00)    [Page
-Index](pageidx)    [Text](gsw.txt)
+[Contents](#contents)    [Start Reading](gsw00.md)    [Page
+Index](pageidx)    [Text](gsw.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -54,24 +54,24 @@ Iran.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gsw00)  
-[Prefatory Note](gsw01)  
-[Contents](gsw02)  
-[Illustrations](gsw03)  
-[Prologue](gsw04)  
-[Chapter I. My Parentage And Birth](gsw05)  
-[Chapter II. A Campaign In Baluchistan](gsw06)  
-[Chapter III. A Persian Entertainment](gsw07)  
-[Chapter IV. An Awful Tragedy](gsw08)  
-[Chapter V. My Betrothal And Marriage](gsw09)  
-[Chapter VI. Kerman, the Heart of the World](gsw10)  
-[Chapter VII. The Death of *Mirza* Hasan Khan, *Mustaufi*](gsw11)  
-[Chapter VIII. My First *Mamuriat*](gsw12)  
-[Chapter IX. The Persian New Year](gsw13)  
-[Chapter X. The Pilgrimage Is Vowed](gsw14)  
-[Chapter XI. Yezd, the Prison of Alexander](gsw15)  
-[Chapter XII. Robbed In the Lut](gsw16)  
-[Chapter XIII. The Arrival at the Sacred Threshold](gsw17)  
-[Chapter XIV. The Sacred Shrine of the *Imam* Riza](gsw18)  
-[Chapter XV. The Pilgrimage Is Accepted](gsw19)  
-[Epilogue](gsw20)  
+<span id="contents"></span> [Title Page](gsw00.md)  
+[Prefatory Note](gsw01.md)  
+[Contents](gsw02.md)  
+[Illustrations](gsw03.md)  
+[Prologue](gsw04.md)  
+[Chapter I. My Parentage And Birth](gsw05.md)  
+[Chapter II. A Campaign In Baluchistan](gsw06.md)  
+[Chapter III. A Persian Entertainment](gsw07.md)  
+[Chapter IV. An Awful Tragedy](gsw08.md)  
+[Chapter V. My Betrothal And Marriage](gsw09.md)  
+[Chapter VI. Kerman, the Heart of the World](gsw10.md)  
+[Chapter VII. The Death of *Mirza* Hasan Khan, *Mustaufi*](gsw11.md)  
+[Chapter VIII. My First *Mamuriat*](gsw12.md)  
+[Chapter IX. The Persian New Year](gsw13.md)  
+[Chapter X. The Pilgrimage Is Vowed](gsw14.md)  
+[Chapter XI. Yezd, the Prison of Alexander](gsw15.md)  
+[Chapter XII. Robbed In the Lut](gsw16.md)  
+[Chapter XIII. The Arrival at the Sacred Threshold](gsw17.md)  
+[Chapter XIV. The Sacred Shrine of the *Imam* Riza](gsw18.md)  
+[Chapter XV. The Pilgrimage Is Accepted](gsw19.md)  
+[Epilogue](gsw20.md)  

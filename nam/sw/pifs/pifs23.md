@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs22)  [Next](pifs24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs22)  [Next](pifs24.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ back to Isleta).
 The Coyote started off, still weeping; and the two wicked sisters went
 home rejoicing at their success. The Coyote roamed away to the west, and
 at last turned south. After a time he came across a party of
-Isleteños <span id="fr_74"></span>[1](#fn_74) returning from a
+Isleteños <span id="fr_74"></span>[1](#fn_74.md) returning from a
 trading-trip to the Apache country. He sneaked about their camp,
 snapping up odd scraps--for he was nearly starved. In the morning the
 Indians spied this Coyote sitting and watching them at a little
@@ -205,9 +205,9 @@ when people came near them.
 
 ### Footnotes
 
-<span id="fn_74"></span>[133:1](pifs23.htm#fr_74) Pronounced
+<span id="fn_74"></span>[133:1](pifs23.htm#fr_74.md) Pronounced
 Eez-lay-táyn-yos.
 
 ------------------------------------------------------------------------
 
-[Next: XXI. The Drowning of Pecos](pifs24)
+[Next: XXI. The Drowning of Pecos](pifs24.md)

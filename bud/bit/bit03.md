@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit02)  [Next](bit04) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit02)  [Next](bit04.md) 
 
 ------------------------------------------------------------------------
 
@@ -721,4 +721,4 @@ Page 7, line 3; *for* glu-ru-len *read* glu-rum-len.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Sketch of the Life of Sakyamuni, The Founder of
-Buddhism](bit04)
+Buddhism](bit04.md)

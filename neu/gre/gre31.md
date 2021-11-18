@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre30)  [Next](gre32) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre30)  [Next](gre32.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ Liarskogar many nights.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVII: The Suit for the Slaying of Thorgils
-Makson](gre32)
+Makson](gre32.md)

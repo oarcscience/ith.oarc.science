@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](rac21)  [Next](rac23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](rac21)  [Next](rac23.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,22 +31,22 @@ yews reviving, trees surrounded with flame yet not consumed, and huge
 serpents twining round the oaks. The people feared to approach the
 grove, and even the priest would not walk there at midday or midnight
 lest he should then meet its divine guardian. <span
-id="fr_953"></span>[1](#fn_951) Dio speaks of human sacrifices offered
+id="fr_953"></span>[1](#fn_951.md) Dio speaks of human sacrifices offered
 to Andrasta in a British grove, and in 61 A.D. the woods of Mona,
 devoted to strange rites, were cut down by
 
 <span id="page_280">p. 280</span>
 
 \[paragraph continues\] Roman soldiers. <span
-id="fr_954"></span>[1](#fn_952) The sacred *Dru-nemeton* of the Galatian
-Celts may have been a grove. <span id="fr_955"></span>[2](#fn_953)
+id="fr_954"></span>[1](#fn_952.md) The sacred *Dru-nemeton* of the Galatian
+Celts may have been a grove. <span id="fr_955"></span>[2](#fn_953.md)
 Place-names also point to the widespread existence of such groves, since
 the word *nemeton*, "grove," occurs in many of them, showing that the
 places so called had been sites of a cult. In Ireland, *fid-nemed* stood
-for "sacred grove." <span id="fr_956"></span>[3](#fn_954) The ancient
+for "sacred grove." <span id="fr_956"></span>[3](#fn_954.md) The ancient
 groves were still the objects of veneration in Christian times, though
 fines were levied against those who still clung to the old ways. <span
-id="fr_957"></span>[4](#fn_955)
+id="fr_957"></span>[4](#fn_955.md)
 
 Sacred groves were still used in Gallo-Roman times, and the Druids may
 have had a preference for them, a preference which may underlie the
@@ -55,14 +55,14 @@ without temples in woods." But probably more elaborate temples, great
 tribal sanctuaries, existed side by side with these local groves,
 especially in Cisalpine Gaul, where the Boii had a temple in which were
 stored the spoils of war, while the Insubri had a similar temple. <span
-id="fr_958"></span>[5](#fn_956) These were certainly buildings. The
+id="fr_958"></span>[5](#fn_956.md) These were certainly buildings. The
 "consecrated place" in Transalpine Gaul, which Cæsar mentions, and where
 at fixed periods judgments were given, might be either a grove or a
 temple. Cæsar uses the same phrase for sacred places where the spoils of
 war were heaped; these may have been groves, but Diodorus speaks of
 treasure collected in "temples and sacred places" (ἐν τοῖς ἱεροῖς καὶ
 τεμένεσιν), and Plutarch speaks of the "temple" where the Arverni hung
-Cæsar's sword. <span id="fr_959"></span>[6](#fn_957) The "temple" of the
+Cæsar's sword. <span id="fr_959"></span>[6](#fn_957.md) The "temple" of the
 Namnite women, unroofed and re-roofed in a day, must have been a
 building. There is no evidence that the insular Celts had temples. In
 
@@ -72,7 +72,7 @@ building. There is no evidence that the insular Celts had temples. In
 occupying sites of earlier groves or temples, sprang up over the
 Romano-Celtic area. They were built on Roman models, many of them were
 of great size, and they were dedicated to Roman or Gallo-Roman
-divinities. <span id="fr_960"></span>[1](#fn_958) Smaller shrines were
+divinities. <span id="fr_960"></span>[1](#fn_958.md) Smaller shrines were
 built by grateful worshippers at sacred springs to their presiding
 divinity, as many inscriptions show. In the temples stood images of the
 gods, and here were stored sacred vessels, sometimes made of the skulls
@@ -95,7 +95,7 @@ ghost-worship was ever transmuted into the cult of a god at the circles
 is uncertain and, indeed, unlikely. The Celts would naturally regard
 these places as sacred, since the ghosts of the dead, even those of a
 vanquished people, are always dangerous, and they also took over the
-myths and legends <span id="fr_961"></span>[2](#fn_959) associated with
+myths and legends <span id="fr_961"></span>[2](#fn_959.md) associated with
 
 <span id="page_282">p. 282</span>
 
@@ -117,15 +117,15 @@ carried on.
 Professor Rhŷs is disposed to accept the old idea that Stonehenge was
 the temple of Apollo in the island of the Hyperboreans, mentioned by
 Diodorus, where the sun-god was worshipped. <span
-id="fr_962"></span>[1](#fn_960) But though that temple was circular, it
+id="fr_962"></span>[1](#fn_960.md) But though that temple was circular, it
 had walls adorned with votive offerings. Nor does the temple unroofed
 yearly by the Namnite women imply a stone circle, for there is not the
 slightest particle of evidence that the circles were ever roofed in any
-way. <span id="fr_963"></span>[2](#fn_961) Stone circles with mystic
+way. <span id="fr_963"></span>[2](#fn_961.md) Stone circles with mystic
 trees growing in them, one of them with a well by which entrance was
 gained to *Tír fa Tonn*, are mentioned in Irish tales. They were
 connected with magic rites, but are not spoken of as temples. <span
-id="fr_964"></span>[3](#fn_962)
+id="fr_964"></span>[3](#fn_962.md)
 
 ### ALTARS.
 
@@ -135,12 +135,12 @@ altars not a whit milder than those of Diana,
 <span id="page_283">p. 283</span>
 
 and he speaks of "altars piled with offerings" in the sacred grove at
-Marseilles. <span id="fr_965"></span>[1](#fn_963) Cicero says that human
+Marseilles. <span id="fr_965"></span>[1](#fn_963.md) Cicero says that human
 victims were sacrificed on altars, and Tacitus describes the altars of
-Mona smeared with human blood. <span id="fr_966"></span>[2](#fn_964)
+Mona smeared with human blood. <span id="fr_966"></span>[2](#fn_964.md)
 "Druids' altars" are mentioned in the Irish "Expedition of Dathi," and
 Cormac speaks of *indelba*, or altars adorned with emblems. <span
-id="fr_967"></span>[3](#fn_965) Probably many of these altars were mere
+id="fr_967"></span>[3](#fn_965.md) Probably many of these altars were mere
 heaps of stone like the Norse *horg*, or a great block of stone. Some
 sacrifices, however, were too extensive to be offered on an altar, but
 in such cases the blood would be sprinkled upon it. Under Roman
@@ -176,7 +176,7 @@ tree-trunk or stone pillar. Maximus of Tyre says that the Celtic image
 of Zeus was a lofty oak, perhaps a rough-hewn trunk rather than a
 growing tree, and such roughly carved tree-trunks, images of gods, are
 referred to by Lucan in his description of the Massilian grove. <span
-id="fr_968"></span>[1](#fn_966) Pillar stones set up over the graves of
+id="fr_968"></span>[1](#fn_966.md) Pillar stones set up over the graves of
 the dead are often mentioned in Irish texts. These would certainly be
 associated with the dead; indeed, existing legends show that they were
 believed to be tenanted by the ghosts and to have the power of motion.
@@ -185,7 +185,7 @@ stones honoured in Ireland were the *cloch labrais*, an oracular stone;
 the *lia fail*, or coronation stone, which shouted when a king of the
 Milesian race seated himself upon it; and the *lia adrada*, or stone of
 adoration, apparently a boundary stone. <span
-id="fr_969"></span>[2](#fn_967) The *plurima simulacra* of the Gaulish
+id="fr_969"></span>[2](#fn_967.md) The *plurima simulacra* of the Gaulish
 Mercury may have been boundary stones like those dedicated to Mercury or
 Hermes among the Romans and Greeks. Did Cæsar conclude, or was it
 actually the case, that the Gauls dedicated such stones to a god of
@@ -202,21 +202,21 @@ if they did not already regard them as symbols of a god, acquiesced in
 the resemblance. Thus, on the menhir of Kervadel are sculptured four
 figures, one being that of Mercury, dating from Gallo-Roman times.
 Beneath another, near Peronne, a bronze statuette of Mercury was
-discovered. <span id="fr_970"></span>[1](#fn_968) This would seem to
+discovered. <span id="fr_970"></span>[1](#fn_968.md) This would seem to
 show that the Gauls had a cult of pillar stones associated with a god of
 boundaries. Cæsar probably uses the word *simulacrum* in the sense of
 "symbol" rather than "image," though he may have meant native images not
 fully carved in human shape, like the Irish *cérmand cerstach*,
 ornamented with gold and silver, the "chief idol" of north Ireland, or
 like the similarly ornamented "images" of Cromm Cruaich and his
-satellites. <span id="fr_971"></span>[2](#fn_969) The adoration of
+satellites. <span id="fr_971"></span>[2](#fn_969.md) The adoration of
 sacred stones continued into Christian times and was much opposed by the
-Church. <span id="fr_972"></span>[3](#fn_970) S. Samson of Dol (sixth
+Church. <span id="fr_972"></span>[3](#fn_970.md) S. Samson of Dol (sixth
 century) found men dancing round a *simulacrum abominabile*, which seems
 to have been a kind of standing stone, and having besought them to
-desist, he carved a cross upon it. <span id="fr_973"></span>[4](#fn_971)
+desist, he carved a cross upon it. <span id="fr_973"></span>[4](#fn_971.md)
 Several *menhirion* in France are now similarly ornamented. <span
-id="fr_974"></span>[5](#fn_972)
+id="fr_974"></span>[5](#fn_972.md)
 
 The number of existing Gallo-Roman images shows that the Celts had not
 adopted a custom which was foreign to them, and they must have already
@@ -229,42 +229,42 @@ earlier images of wood. We also find
 
 <span id="page_286">p. 286</span>
 
-divine figures on pre-Roman coins. <span id="fr_975"></span>[1](#fn_973)
+divine figures on pre-Roman coins. <span id="fr_975"></span>[1](#fn_973.md)
 Certain passages in classical writings point to the existence of native
 images. A statue of a goddess existed in a temple at Marseilles,
 according to Justin, and the Galatian Celts had images of the native
 Juppiter and Artemis, while the conquering Celts who entered Rome bowed
 to the seated senators as to statues of the gods. <span
-id="fr_976"></span>[2](#fn_974) The Gauls placed rich ornaments on the
+id="fr_976"></span>[2](#fn_974.md) The Gauls placed rich ornaments on the
 images of the gods, and presumably these were native "idols."
 
 "Idols" are frequently mentioned in Irish texts, and there is no doubt
-that these mean images. <span id="fr_977"></span>[3](#fn_975) Cormac mac
+that these mean images. <span id="fr_977"></span>[3](#fn_975.md) Cormac mac
 Art refused to worship "idols," and was punished by the Druids. <span
-id="fr_978"></span>[4](#fn_976) The idols of Cromm Cruaich and his
+id="fr_978"></span>[4](#fn_976.md) The idols of Cromm Cruaich and his
 satellites, referred to in the *Dindsenchas*, were carved to represent
 the human form; the chief one was of gold, the others of stone. These
 were miraculously overthrown by S. Patrick; but in the account of the
 miracle the chief idol was of stone adorned with gold and silver, the
 others, numbering twelve, were ornamented with bronze. <span
-id="fr_979"></span>[5](#fn_977) They stood in Mag Slecht, and similar
+id="fr_979"></span>[5](#fn_977.md) They stood in Mag Slecht, and similar
 sacred places with groups of images evidently existed elsewhere, *e.g.*
 at Rath Archaill, "where the Druid's altars and images are." <span
-id="fr_980"></span>[6](#fn_978) The lady Cessair, before coming to
+id="fr_980"></span>[6](#fn_978.md) The lady Cessair, before coming to
 Ireland, is said to have taken advice of her *laimh-dhia*, or "hand
 gods," perhaps small images used for divination. <span
-id="fr_981"></span>[7](#fn_979)
+id="fr_981"></span>[7](#fn_979.md)
 
 For the British Celts the evidence is slender, but idolatry in the sense
 of "image-worship" is frequently mentioned in the lives of early
-saints. <span id="fr_982"></span>[8](#fn_980) Gildas also speaks of
+saints. <span id="fr_982"></span>[8](#fn_980.md) Gildas also speaks of
 images
 
 <span id="page_287">p. 287</span>
 
 \[paragraph continues\] "mouldering away within and without the deserted
 temples, with stiff and deformed features." <span
-id="fr_983"></span>[1](#fn_981) This pathetic picture of the forsaken
+id="fr_983"></span>[1](#fn_981.md) This pathetic picture of the forsaken
 shrines of forgotten gods may refer to Romano-Celtic images, but the
 "stiff and deformed features" suggest rather native art, the art of a
 people unskilful at reproducing the human form, however artistic they
@@ -288,7 +288,7 @@ argues that the Druids caused the erection of the megalithic monuments
 in Gaul, symbols not images. They are thus Druidic, though not Celtic.
 The monuments argue a powerful priesthood; the Druids were a powerful
 priesthood; therefore the Druids caused the monuments to be built. This
-is not a powerful argument! <span id="fr_984"></span>[2](#fn_982)
+is not a powerful argument! <span id="fr_984"></span>[2](#fn_982.md)
 
 <span id="page_288">p. 288</span>
 
@@ -304,7 +304,7 @@ text shows that the Druids had any antipathy to images, while the Gauls
 certainly had images of worshipful animals. Further, even if the Druids
 were priests of a pre-Celtic folk, they must have permitted the making
 of images, since many "menhir-statues" exist on French soil, at Aveyron,
-Tarn, and elsewhere. <span id="fr_985"></span>[1](#fn_983) The Celts
+Tarn, and elsewhere. <span id="fr_985"></span>[1](#fn_983.md) The Celts
 were in constant contact with image-worshipping peoples, and could
 hardly have failed to be influenced by them, even if such a priestly
 prohibition existed, just as Israel succumbed to images in spite of
@@ -317,7 +317,7 @@ ecclesiastical writings and in late survivals. The procession of the
 image of Berecynthia has already been described, and such processions
 were common in Gaul, and imply a regular folk-custom. S. Martin of Tours
 stopped a funeral procession believing it to be such a pagan rite. <span
-id="fr_986"></span>[2](#fn_984) Councils and edicts prohibited these
+id="fr_986"></span>[2](#fn_984.md) Councils and edicts prohibited these
 processions in Gaul, but a more effectual way was to Christianise them.
 The Rogation
 
@@ -329,11 +329,11 @@ the older practices. Images were often broken by Christian saints in
 Gaul, as they had been overturned by S. Patrick in Ireland. "Stiff and
 deformed" many of them must have been, if one may judge from the
 *Groahgoard*, or "Venus of Quinipily," for centuries the object of
-superstitious rites in Brittany. <span id="fr_987"></span>[1](#fn_985)
+superstitious rites in Brittany. <span id="fr_987"></span>[1](#fn_985.md)
 With it may be compared the fetich-stone or image of which an old woman
 in the island of Inniskea, the guardian of a sacred well, had charge. It
 was kept wrapped up to hide it from profane eyes, but at certain periods
-it was brought out for adoration. <span id="fr_988"></span>[2](#fn_986)
+it was brought out for adoration. <span id="fr_988"></span>[2](#fn_986.md)
 
 The images and bas-reliefs of the Gallo-Roman period fall mainly into
 two classes. In the first class are those representing native
@@ -346,7 +346,7 @@ frequently figured, usually as three seated figures with baskets of
 fruit or flowers, or with one or more infants, like the Madonna. Images
 of triple-headed gods, supposed to be Cernunnos, have been found, but
 are difficult to place in any category. <span
-id="fr_989"></span>[3](#fn_987)
+id="fr_989"></span>[3](#fn_987.md)
 
 <span id="page_290">p. 290</span>
 
@@ -358,7 +358,7 @@ to the fact that Cæsar's *simulacra* of the native Mercury were images,
 and that the old preference for representing this god continued in Roman
 times. Small figures of divinities in white clay have been found in
 large numbers, and may have been *ex votos* or images of household
-*lararia*. <span id="fr_990"></span>[1](#fn_988)
+*lararia*. <span id="fr_990"></span>[1](#fn_988.md)
 
 ### SYMBOLS.
 
@@ -367,8 +367,8 @@ symbols--the mallet and cup (a symbol of plenty) borne by the god with
 the hammer, the wheel of the sun-god, the cornucopia and torque carried
 by Cernunnos. Other symbols occur on images, altars, monuments, and
 coins. These are the swastika and triskele, probably symbols of the
-sun; <span id="fr_991"></span>[2](#fn_989) single or concentric circles,
-sometimes with rays; <span id="fr_992"></span>[3](#fn_990) crosses; and
+sun; <span id="fr_991"></span>[2](#fn_989.md) single or concentric circles,
+sometimes with rays; <span id="fr_992"></span>[3](#fn_990.md) crosses; and
 a curious **S** figure. The triskele and the circles are sometimes found
 on faces figured on coins. They may therefore have been tattoo markings
 of a symbolic character. The circle and cross are often incised on
@@ -376,7 +376,7 @@ bronze images of Dispater. Much speculation has been aroused by the
 **S** figure, which occurs on coins, while nine models of this symbol
 hang from a ring carried by the god with the wheel, but the most
 probable is that which sees in it a thunderbolt. <span
-id="fr_993"></span>[4](#fn_991) But lacking any old text interpreting
+id="fr_993"></span>[4](#fn_991.md) But lacking any old text interpreting
 
 <span id="page_291">p. 291</span>
 
@@ -390,36 +390,36 @@ been seen, a hammer is the symbol of one god, and it is not unlikely
 that a cult of the hammer had preceded that of the god to whom the
 hammer was given as a symbol. Esus is also represented with an axe. We
 need not repeat what has already been said regarding the primitive and
-universal cult of hammer or axe, <span id="fr_994"></span>[1](#fn_992)
+universal cult of hammer or axe, <span id="fr_994"></span>[1](#fn_992.md)
 but it is interesting to notice, in connection with other evidence for a
 Celtic cult of weapons, that there is every reason to believe that the
 phrase *sub ascia dedicare*, which occurs in inscriptions on tombs from
 Gallia Lugdunensis, usually with the figure of an axe incised on the
 stone, points to the cult of the axe, or of a god whose symbol the axe
-was. <span id="fr_995"></span>[2](#fn_993) In Irish texts the power of
+was. <span id="fr_995"></span>[2](#fn_993.md) In Irish texts the power of
 speech is attributed to weapons, but, according to the Christian scribe,
 this was because demons spoke from them, for the people worshipped arms
-in those days. <span id="fr_996"></span>[3](#fn_994) Thus it may have
+in those days. <span id="fr_996"></span>[3](#fn_994.md) Thus it may have
 been believed that spirits tenanted weapons, or that weapons had souls.
 Evidence of the cult itself is found in the fact that on Gaulish coins a
 sword is figured, stuck in the ground, or driving a chariot, or with a
 warrior dancing before it, or held in the hand of a dancing
-warrior. <span id="fr_997"></span>[4](#fn_995) The latter are ritual
+warrior. <span id="fr_997"></span>[4](#fn_995.md) The latter are ritual
 acts, and resemble that described by Spenser as performed by Irish
 warriors in his day, who said prayers or incantations before a sword
-stuck in the earth. <span id="fr_998"></span>[5](#fn_996) Swords were
+stuck in the earth. <span id="fr_998"></span>[5](#fn_996.md) Swords were
 also addressed in songs composed
 
 <span id="page_292">p. 292</span>
 
 by Irish bards, and traditional remains of such songs are found in
-Brittany. <span id="fr_999"></span>[1](#fn_997) They represent the
+Brittany. <span id="fr_999"></span>[1](#fn_997.md) They represent the
 chants of the ancient cult. Oaths were taken by weapons, and the weapons
 were believed to turn against those who lied. <span
-id="fr_1000"></span>[2](#fn_998) The magical power of weapons,
+id="fr_1000"></span>[2](#fn_998.md) The magical power of weapons,
 especially of those over which incantations had been said, is frequently
 referred to in traditional tales and Irish texts. <span
-id="fr_1001"></span>[3](#fn_999) A reminiscence of the cult or of the
+id="fr_1001"></span>[3](#fn_999.md) A reminiscence of the cult or of the
 magical power of weapons may be found in the wonderful "glaives of
 light" of Celtic folk-tales, and the similar mystical weapon of the
 Arthurian romances.
@@ -428,114 +428,114 @@ Arthurian romances.
 
 ### Footnotes
 
-<span id="fn_951"></span>[279:1](rac22.htm#fr_953) Lucan, *Pharsalia*,
+<span id="fn_951"></span>[279:1](rac22.htm#fr_953.md) Lucan, *Pharsalia*,
 iii. 399 f.
 
-<span id="fn_952"></span>[280:1](rac22.htm#fr_954) Dio Cass. lxii. 7;
+<span id="fn_952"></span>[280:1](rac22.htm#fr_954.md) Dio Cass. lxii. 7;
 Tac. *Ann.* xiv. 30.
 
-<span id="fn_953"></span>[280:2](rac22.htm#fr_955) Strabo, xii. 51.
+<span id="fn_953"></span>[280:2](rac22.htm#fr_955.md) Strabo, xii. 51.
 *Drunemeton* may mean "great temple" (D'Arbois, Les Celtes, 203).
 
-<span id="fn_954"></span>[280:3](rac22.htm#fr_956) *Antient Laws of
+<span id="fn_954"></span>[280:3](rac22.htm#fr_956.md) *Antient Laws of
 Ireland*, i. 164.
 
-<span id="fn_955"></span>[280:4](rac22.htm#fr_957) Holder, ii. 712. Cf.
+<span id="fn_955"></span>[280:4](rac22.htm#fr_957.md) Holder, ii. 712. Cf.
 "Indiculus" in Grimm, *Teut. Myth.* 1739, "de sacris silvarum, quas
 nimidas (= nemeta) vocant."
 
-<span id="fn_956"></span>[280:5](rac22.htm#fr_958) Livy, xxiii. 24;
+<span id="fn_956"></span>[280:5](rac22.htm#fr_958.md) Livy, xxiii. 24;
 Polyb. ii. 32.
 
-<span id="fn_957"></span>[280:6](rac22.htm#fr_959) Cæsar, vi. 13, 17;
+<span id="fn_957"></span>[280:6](rac22.htm#fr_959.md) Cæsar, vi. 13, 17;
 Diod. Sic. v. 27; Plutarch, *Cæsar*, 26.
 
-<span id="fn_958"></span>[281:1](rac22.htm#fr_960) See examples in Dom
+<span id="fn_958"></span>[281:1](rac22.htm#fr_960.md) See examples in Dom
 Martin, i. 134 f.; cf. Greg. Tours, *Hist. Franc.* i. 30.
 
-<span id="fn_959"></span>[281:2](rac22.htm#fr_961) See Reinach, "Les
+<span id="fn_959"></span>[281:2](rac22.htm#fr_961.md) See Reinach, "Les
 monuments de pierre brute dans le langage et les croyances populaires,"
 *Rev. Arch.* 1893, i. 339; Evans, "The Roll-Right Stones," *Folk-Lore*,
 vi. 20 f.
 
-<span id="fn_960"></span>[282:1](rac22.htm#fr_962) Rhŷs, *HL* 194; Diod.
+<span id="fn_960"></span>[282:1](rac22.htm#fr_962.md) Rhŷs, *HL* 194; Diod.
 Sic. ii. 47.
 
-<span id="fn_961"></span>[282:2](rac22.htm#fr_963) Rhŷs, 197.
+<span id="fn_961"></span>[282:2](rac22.htm#fr_963.md) Rhŷs, 197.
 
-<span id="fn_962"></span>[282:3](rac22.htm#fr_964) Joyce, *OCR* 246;
+<span id="fn_962"></span>[282:3](rac22.htm#fr_964.md) Joyce, *OCR* 246;
 Kennedy, 271.
 
-<span id="fn_963"></span>[283:1](rac22.htm#fr_965) Lucan, i. 443, iii.
+<span id="fn_963"></span>[283:1](rac22.htm#fr_965.md) Lucan, i. 443, iii.
 399f.
 
-<span id="fn_964"></span>[283:2](rac22.htm#fr_966) Cicero, *pro
+<span id="fn_964"></span>[283:2](rac22.htm#fr_966.md) Cicero, *pro
 Fonteio*, x. 21; Tac. Ann. xiv. 30. Cf. Pomp. Mela, iii. 2. 18.
 
-<span id="fn_965"></span>[283:3](rac22.htm#fr_967) O'Curry, *MS. Mat.*
+<span id="fn_965"></span>[283:3](rac22.htm#fr_967.md) O'Curry, *MS. Mat.*
 284; Cormac, 94. Cf. *IT* iii. 211, for the practice of circumambulating
 altars.
 
-<span id="fn_966"></span>[284:1](rac22.htm#fr_968) Max. Tyr. *Dissert.*
+<span id="fn_966"></span>[284:1](rac22.htm#fr_968.md) Max. Tyr. *Dissert.*
 viii. 8; Lucan, iii. 412 f.
 
-<span id="fn_967"></span>[284:2](rac22.htm#fr_969) *Antient Laws of
+<span id="fn_967"></span>[284:2](rac22.htm#fr_969.md) *Antient Laws of
 Ireland*, iv. 142.
 
-<span id="fn_968"></span>[285:1](rac22.htm#fr_970) *Rev. Arch.* i. pl.
+<span id="fn_968"></span>[285:1](rac22.htm#fr_970.md) *Rev. Arch.* i. pl.
 iii-v; Reinach, *RC* xi. 224, xiii. 190.
 
-<span id="fn_969"></span>[285:2](rac22.htm#fr_971) Stokes, *Martyr. of
+<span id="fn_969"></span>[285:2](rac22.htm#fr_971.md) Stokes, *Martyr. of
 Oengus*, 186-187.
 
-<span id="fn_970"></span>[285:3](rac22.htm#fr_972) See the Twenty-third
+<span id="fn_970"></span>[285:3](rac22.htm#fr_972.md) See the Twenty-third
 Canon of Council of Arles, the Twenty-third of the Council of Tours,
 567, and ch. 65 of the *Capitularia*, 789.
 
-<span id="fn_971"></span>[285:4](rac22.htm#fr_973) Mabillon, *Acta*, i.
+<span id="fn_971"></span>[285:4](rac22.htm#fr_973.md) Mabillon, *Acta*, i.
 177.
 
-<span id="fn_972"></span>[285:5](rac22.htm#fr_974) Reinach, *Rev. Arch.*
+<span id="fn_972"></span>[285:5](rac22.htm#fr_974.md) Reinach, *Rev. Arch.*
 1893, xxi. 335.
 
-<span id="fn_973"></span>[286:1](rac22.htm#fr_975) Blanchet, i. 152-153,
+<span id="fn_973"></span>[286:1](rac22.htm#fr_975.md) Blanchet, i. 152-153,
 386.
 
-<span id="fn_974"></span>[286:2](rac22.htm#fr_976) Justin, xliii. 5;
+<span id="fn_974"></span>[286:2](rac22.htm#fr_976.md) Justin, xliii. 5;
 Strabo, xii. 5. 2; Plutarch, *de Virt. Mul.* xx.; Livy, V. 41.
 
-<span id="fn_975"></span>[286:3](rac22.htm#fr_977) Cormac, 94.
+<span id="fn_975"></span>[286:3](rac22.htm#fr_977.md) Cormac, 94.
 
-<span id="fn_976"></span>[286:4](rac22.htm#fr_978) Keating, 356. See
+<span id="fn_976"></span>[286:4](rac22.htm#fr_978.md) Keating, 356. See
 also Stokes, *Martyr. of Oengus*, 186; *RC* xii. 427, § 15 Joyce, *SH*
 274 f.
 
-<span id="fn_977"></span>[286:5](rac22.htm#fr_979) *LL* 213*b*; *Trip.
+<span id="fn_977"></span>[286:5](rac22.htm#fr_979.md) *LL* 213*b*; *Trip.
 Life*, i. 90, 93.
 
-<span id="fn_978"></span>[286:6](rac22.htm#fr_980) O'Curry, *MS. Mat.*
+<span id="fn_978"></span>[286:6](rac22.htm#fr_980.md) O'Curry, *MS. Mat.*
 284.
 
-<span id="fn_979"></span>[286:7](rac22.htm#fr_981) Keating, 49.
+<span id="fn_979"></span>[286:7](rac22.htm#fr_981.md) Keating, 49.
 
-<span id="fn_980"></span>[286:8](rac22.htm#fr_982) Jocelyn, *Vita S.
+<span id="fn_980"></span>[286:8](rac22.htm#fr_982.md) Jocelyn, *Vita S.
 Kentig.* 27, 32, 34; Ailred, *Vita S. Ninian.* 6.
 
-<span id="fn_981"></span>[287:1](rac22.htm#fr_983) Gildas, § 4.
+<span id="fn_981"></span>[287:1](rac22.htm#fr_983.md) Gildas, § 4.
 
-<span id="fn_982"></span>[287:2](rac22.htm#fr_984) For the whole
+<span id="fn_982"></span>[287:2](rac22.htm#fr_984.md) For the whole
 argument see Reinach, *RC* xiii. 189 f. Bertrand, *Rev. Arch.* xv. 345,
 supports a similar theory, and, according to both writers, Gallo-Roman
 art was the result of the weakening of Druidic power by the Romans.
 
-<span id="fn_983"></span>[288:1](rac22.htm#fr_985) L'Abbé Hermet, Assoc.
+<span id="fn_983"></span>[288:1](rac22.htm#fr_985.md) L'Abbé Hermet, Assoc.
 pour l'avancement des Sciences, *Compte Rendu*, 1900, ii. 747;
 *L'Anthropologie*, v. 147.
 
-<span id="fn_984"></span>[288:2](rac22.htm#fr_986) *Corp. Scrip. Eccl.
+<span id="fn_984"></span>[288:2](rac22.htm#fr_986.md) *Corp. Scrip. Eccl.
 Lat.* i. 122.
 
-<span id="fn_985"></span>[289:1](rac22.htm#fr_987) Monnier, 362. The
+<span id="fn_985"></span>[289:1](rac22.htm#fr_987.md) Monnier, 362. The
 image bears part of an inscription. . . . LIT . . ., and it has been
 thought that this read ILITHYIA originally. The name is in keeping with
 the rites still in use before the image. This would make it, date from
@@ -543,53 +543,53 @@ Roman times. if so, it is a poor specimen of the art of the period. But
 it may be an old native image to which later the name of the Roman
 goddess was given.
 
-<span id="fn_986"></span>[289:2](rac22.htm#fr_988) Roden, *Progress of
+<span id="fn_986"></span>[289:2](rac22.htm#fr_988.md) Roden, *Progress of
 the Reformation in Ireland*, 51. The image was still existing in 1851.
 
-<span id="fn_987"></span>[289:3](rac22.htm#fr_989) For figures of most
+<span id="fn_987"></span>[289:3](rac22.htm#fr_989.md) For figures of most
 of these, see *Rev. Arch.* vols. xvi,, xviii., xix., xxxvi.; *RC* xvii.
 45, xviii. 254, xx. 309, xxii. 159, xxiv. 221; Bertrand, *passim*;
 Courcelle-Seneuil, *Les Dieux Gaulois d'apres les Monuments Figurés*,
 Paris, 1910.
 
-<span id="fn_988"></span>[290:1](rac22.htm#fr_990) See
+<span id="fn_988"></span>[290:1](rac22.htm#fr_990.md) See
 Courcelle-Seneuil, *op. cit.*; Reinach, *BF* passim, *Catalogue Sommaire
 du Musée des Ant. nat.*<sup>4</sup> 115-116.
 
-<span id="fn_989"></span>[290:2](rac22.htm#fr_991) Reinach, *Catal.* 29,
+<span id="fn_989"></span>[290:2](rac22.htm#fr_991.md) Reinach, *Catal.* 29,
 87; *Rev. Arch.* xvi. 17; Blanchet, i. 169, 316; Huchet, *L'art
 gaulois*, ii. 8.
 
-<span id="fn_990"></span>[290:3](rac22.htm#fr_992) Blanchet, i. 158;
+<span id="fn_990"></span>[290:3](rac22.htm#fr_992.md) Blanchet, i. 158;
 Reinach, *BF* 143, 150, 152.
 
-<span id="fn_991"></span>[290:4](rac22.htm#fr_993) Blanchet, i. 17;
+<span id="fn_991"></span>[290:4](rac22.htm#fr_993.md) Blanchet, i. 17;
 Flouest, *Deux Stèles* (Append.), Paris, 1885; Reinach, *BF* 33.
 
-<span id="fn_992"></span>[291:1](rac22.htm#fr_994) P.
-[30](rac06.htm#page_30), *supra*.
+<span id="fn_992"></span>[291:1](rac22.htm#fr_994.md) P.
+[30](rac06.htm#page_30.md), *supra*.
 
-<span id="fn_993"></span>[291:2](rac22.htm#fr_995) Hirschfeld in *CIL*
+<span id="fn_993"></span>[291:2](rac22.htm#fr_995.md) Hirschfeld in *CIL*
 xiii. 256.
 
-<span id="fn_994"></span>[291:3](rac22.htm#fr_996) *RC* xii. 107; Joyce,
+<span id="fn_994"></span>[291:3](rac22.htm#fr_996.md) *RC* xii. 107; Joyce,
 *SH* i. 131.
 
-<span id="fn_995"></span>[291:4](rac22.htm#fr_997) Blanchet, i. 160 f.;
+<span id="fn_995"></span>[291:4](rac22.htm#fr_997.md) Blanchet, i. 160 f.;
 Muret de la Tour, *Catalogue*, 6922, 6941, etc.
 
-<span id="fn_996"></span>[291:5](rac22.htm#fr_998) *View of the State of
+<span id="fn_996"></span>[291:5](rac22.htm#fr_998.md) *View of the State of
 Ireland*, 57.
 
-<span id="fn_997"></span>[292:1](rac22.htm#fr_999) *RC* xx. 7; Martin,
+<span id="fn_997"></span>[292:1](rac22.htm#fr_999.md) *RC* xx. 7; Martin,
 *Études de la Myth. Celt.* 164.
 
-<span id="fn_998"></span>[292:2](rac22.htm#fr_1000) *IT* i. 206; *RC*
+<span id="fn_998"></span>[292:2](rac22.htm#fr_1000.md) *IT* i. 206; *RC*
 ix. 144.
 
-<span id="fn_999"></span>[292:3](rac22.htm#fr_1001) *CM* xiii. 168 f.;
+<span id="fn_999"></span>[292:3](rac22.htm#fr_1001.md) *CM* xiii. 168 f.;
 Miss Hull, 44, 221, 223.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. The Druids](rac23)
+[Next: Chapter XX. The Druids](rac23.md)

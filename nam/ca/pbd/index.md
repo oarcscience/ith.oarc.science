@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ American](../../index)  [California](../index) 
 
 ##### UCPAAE 12:11 pp. 443-465.
 
-[Contents](#contents)    [Start Reading](pbd00)
+[Contents](#contents)    [Start Reading](pbd00.md)
 
 ------------------------------------------------------------------------
 
@@ -26,18 +26,18 @@ and comparisons with other Northern Californian groups.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pbd00)  
-[Contents](pbd01)  
-[Introduction](pbd02)  
-[Origin Account](pbd03)  
-[Acquisition of Power](pbd04)  
-[Assistants](pbd05)  
-[Hiding Places](pbd06)  
-[The Magic Suit](pbd07)  
-[Weapons and Their Use](pbd08)  
-[Rites Over the Suit](pbd09)  
-[Communication Between Bear Doctors](pbd10)  
-[Panther Doctors](pbd11)  
-[Comparison With Yuki Beliefs](pbd12)  
-[Comparison With Miwok Beliefs](pbd13)  
-[Summary](pbd14)  
+<span id="contents"></span> [Title Page](pbd00.md)  
+[Contents](pbd01.md)  
+[Introduction](pbd02.md)  
+[Origin Account](pbd03.md)  
+[Acquisition of Power](pbd04.md)  
+[Assistants](pbd05.md)  
+[Hiding Places](pbd06.md)  
+[The Magic Suit](pbd07.md)  
+[Weapons and Their Use](pbd08.md)  
+[Rites Over the Suit](pbd09.md)  
+[Communication Between Bear Doctors](pbd10.md)  
+[Panther Doctors](pbd11.md)  
+[Comparison With Yuki Beliefs](pbd12.md)  
+[Comparison With Miwok Beliefs](pbd13.md)  
+[Summary](pbd14.md)  

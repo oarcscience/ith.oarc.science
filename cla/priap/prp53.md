@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp52)  [Next](prp54) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp52)  [Next](prp54.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ it in good part.
 
 ------------------------------------------------------------------------
 
-[Next: 54. E, D, an thou write, conjoining the two with a hyphen](prp54)
+[Next: 54. E, D, an thou write, conjoining the two with a hyphen](prp54.md)

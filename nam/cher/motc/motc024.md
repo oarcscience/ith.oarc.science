@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc023) 
-[Next](motc025) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc023.md) 
+[Next](motc025.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ away, with the Rabbit still in the stump.
 
 ------------------------------------------------------------------------
 
-[Next: 25. Flint Visits The Rabbit](motc025)
+[Next: 25. Flint Visits The Rabbit](motc025.md)

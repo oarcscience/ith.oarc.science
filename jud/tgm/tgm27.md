@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm26)  [Next](tgm28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm26)  [Next](tgm28.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Again he said:
 <span id="img_13300"></span>
 
 [![](tn/13300.jpg)  
-Click to enlarge](img/13300.jpg)
+Click to enlarge](img/13300.jpg.md)
 
  
 
@@ -163,4 +163,4 @@ of Spain to become greater and greater.
 
 ------------------------------------------------------------------------
 
-[Next: 25. The Slave Rabbi](tgm28)
+[Next: 25. The Slave Rabbi](tgm28.md)

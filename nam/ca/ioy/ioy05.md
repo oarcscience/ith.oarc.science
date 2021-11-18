@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ioy04)  [Next](ioy06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ioy04)  [Next](ioy06.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ through the winter fairly well.
 [![CAPTAIN PAUL.&lt;BR&gt; One of the characters of the Valley. Supposed
 to be at least 105 years old, and a survivor of Teneiya's
 band.](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 CAPTAIN PAUL.  
 One of the characters of the Valley. Supposed to be at least 105 years
 old, and a survivor of Teneiya's band.  
@@ -126,4 +126,4 @@ correspondingly reduced.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three: Customs and Characteristics](ioy06)
+[Next: Chapter Three: Customs and Characteristics](ioy06.md)

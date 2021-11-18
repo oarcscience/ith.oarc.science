@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,14 +14,14 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](sbe1100)  
-[Contents](sbe1101)  
-[General Introduction](sbe1102)  
-[Mahâ-Parinibbâna-Suttanta: The Book of the Great Decease](sbe1103)  
+[Title Page](sbe1100.md)  
+[Contents](sbe1101.md)  
+[General Introduction](sbe1102.md)  
+[Mahâ-Parinibbâna-Suttanta: The Book of the Great Decease](sbe1103.md)  
 [Dhamma-Kakka-Ppavattana Sutta: Foundation of the Kingdon of
-Righteousness](sbe1104)  
-[Tevigga-Suttanta: On Knowledge of the Vedas](sbe1105)  
-[Âkankheyya Sutta: If He Should Desire](sbe1106)  
-[Ketokhila-Sutta: Barreness And Bondage](sbe1107)  
-[Mahâ-Sudassana Sutta: Legend of the Great King of Glory](sbe1108)  
-[Sabbasâva Sutta: All the Âsavas](sbe1109)  
+Righteousness](sbe1104.md)  
+[Tevigga-Suttanta: On Knowledge of the Vedas](sbe1105.md)  
+[Âkankheyya Sutta: If He Should Desire](sbe1106.md)  
+[Ketokhila-Sutta: Barreness And Bondage](sbe1107.md)  
+[Mahâ-Sudassana Sutta: Legend of the Great King of Glory](sbe1108.md)  
+[Sabbasâva Sutta: All the Âsavas](sbe1109.md)  

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp93)  [Next](prp95) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp93)  [Next](prp95.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ thou mayst munch even its privities, thou wilt still be pure.
 ------------------------------------------------------------------------
 
 [Next: 95. First a wild-fig-tree trunk was I, not useful as
-timber](prp95)
+timber](prp95.md)

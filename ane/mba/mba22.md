@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba21)  [Next](mba23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba21)  [Next](mba23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -76,16 +76,16 @@ had achieved the conquest of Greece, and contributed to the overthrow of
 the dynasty of King Minos of Crete. Professor Ridgeway identifies this
 stock, which had been filtering southward for several centuries, with
 the tall, fair-haired, and grey-eyed "Keltoi" (Celts), <span
-id="fr_414"></span>[1](#fn_412) who, Dr. Haddon believes, were
+id="fr_414"></span>[1](#fn_412.md) who, Dr. Haddon believes, were
 representatives of "the mixed peoples of northern and Alpine
-descent". <span id="fr_415"></span>[2](#fn_413) Mr. Hawes, following
+descent". <span id="fr_415"></span>[2](#fn_413.md) Mr. Hawes, following
 Professor Sergi, holds, on the other hand, that the Achæans were
 
 <span id="page_378">p. 378</span>
 
 <span class="contnote">\[paragraph continues\]</span> "fair in
 comparison with the native (Pelasgian-Mediterranean) stock, but not
-necessarily blonde". <span id="fr_416"></span>[1](#fn_414) The earliest
+necessarily blonde". <span id="fr_416"></span>[1](#fn_414.md) The earliest
 Achæans were rude, uncultured barbarians, but the last wave came from
 some unknown centre of civilization, and probably used iron as well as
 bronze weapons.
@@ -105,7 +105,7 @@ mercenaries like the Dardanui and Masa, who represented the
 Thraco-Phrygian peoples who had overrun the Balkans, occupied Thrace and
 Macedonia, and crossed into Asia Minor. In time the Hittite confederacy
 was broken up by the migrating Europeans, and their dominant tribe, the
-Muski <span id="fr_417"></span>[2](#fn_415)--the Moschoi of the Greeks
+Muski <span id="fr_417"></span>[2](#fn_415.md)--the Moschoi of the Greeks
 and the Meshech of the Old Testament--came into conflict with the
 Assyrians. The Muski were fore-runners of the Phrygians, and were
 probably of allied stock.
@@ -131,7 +131,7 @@ occurred at the beginning of the Homeric Age, and were followed by the
 siege of Troy, which, according to the Greeks, began about 1194 B.C.
 
 The land raiders who were thwarted by Rameses III were the Philistines,
-a people from Crete. <span id="fr_418"></span>[1](#fn_416) When the
+a people from Crete. <span id="fr_418"></span>[1](#fn_416.md) When the
 prestige of Egypt suffered decline they overran the coast-line of
 Canaan, and that country was then called Palestine, "the land of the
 Philistines", while the Egyptian overland trade route to Phoenicia
@@ -154,7 +154,7 @@ to be withstood. Whatsoever things raised life in the country above the
 dull animal existence of fellahin were due to this people. . . . The
 peasantry of the modern villages . . . still tell of the great days of
 old when it (Palestine) was inhabited by the mighty race of the
-'Fenish'." <span id="fr_419"></span>[1](#fn_417)
+'Fenish'." <span id="fr_419"></span>[1](#fn_417.md)
 
 When the Kassite Dynasty of Babylonia was extinguished, about 1140 B.C.,
 the Amorites were being displaced in Palestine by the Philistines and
@@ -293,7 +293,7 @@ While operating in this district, Tiglath-pileser engaged in big-game
 hunting. He recorded: "Ten powerful bull elephants in the land of Haran
 and on the banks of the Khabour I killed; four elephants alive I took.
 Their skins, their teeth, with the living elephants, I brought to my
-city of Asshur." <span id="fr_420"></span>[1](#fn_418) He also claimed
+city of Asshur." <span id="fr_420"></span>[1](#fn_418.md) He also claimed
 to have slain 920 lions, as well as a number of wild oxen, apparently
 including in his record the "bags" of his officers and men. A later king
 credited him with having penetrated to the Phœnician coast, where he put
@@ -317,7 +317,7 @@ Thus once again the Assyrian Empire came into being
 
 <span id="img_38400"></span> <span align="CENTER"> [![ASSYRIAN KING
 HUNTING LIONS&lt;br&gt; Photo. Mansell.](tn/38400.jpg)  
-Click to enlarge](img/38400.jpg)  
+Click to enlarge](img/38400.jpg.md)  
 ASSYRIAN KING HUNTING LIONS  
 Photo. Mansell.  
 </span>
@@ -399,7 +399,7 @@ Biblical narrative sets forth, "there was no smith found throughout all
 the land of Israel; for the Philistines said, Lest the Hebrews make them
 swords and spears; but all the Israelites went down to the Philistines,
 to sharpen every man his share, and his coulter, and his axe, and his
-mattock". <span id="fr_421"></span>[1](#fn_419) "We are inclined", says
+mattock". <span id="fr_421"></span>[1](#fn_419.md) "We are inclined", says
 Professor Macalister, "to picture the West as a thing of yesterday, new
 fangled with its inventions and its progressive civilization, and the
 East as an embodiment of hoary and unchanging traditions. But when West
@@ -408,7 +408,7 @@ represented the magnificent traditions of the past, and the latter which
 looked forward to the future. The Philistines were of the remnant of the
 dying glories of Crete; the Hebrews had no past to speak of, but were
 entering on the heritage they regarded as theirs, by right of a recently
-ratified divine covenant." <span id="fr_422"></span>[2](#fn_420)
+ratified divine covenant." <span id="fr_422"></span>[2](#fn_420.md)
 
 Saul was the leader of a revolt against the Philistines in northern
 Palestine, and became the ruler of the kingdom of Israel. Then David,
@@ -431,9 +431,9 @@ into Syria. The ancient land of the Pharaohs had been overshadowed
 meantime by a cloud of anarchy, and piratical and robber bands settled
 freely on its coast line. At length a Libyan general named Sheshonk
 (Shishak) seized the throne from the Tanite Dynasty. He was the Pharaoh
-with whom Solomon "made affinity", <span id="fr_423"></span>[1](#fn_421)
+with whom Solomon "made affinity", <span id="fr_423"></span>[1](#fn_421.md)
 and from whom he received the city of Gezer, which an Egyptian army had
-captured. <span id="fr_424"></span>[2](#fn_422) Solomon had previously
+captured. <span id="fr_424"></span>[2](#fn_422.md) Solomon had previously
 married a daughter of Sheshonk's.
 
 Phoenicia was also flourishing. Freed from Egyptian, Hittite, and
@@ -463,7 +463,7 @@ he shall build an house unto my name. Now therefore command</span>
 PUTTING OUT TO SEA&lt;br&gt; &lt;i&gt;Marble slab from Kouyunjik
 (Nineveh): now in the British Museum&lt;/i&gt;.&lt;br&gt; Photo.
 Mansell](tn/38800.jpg)  
-Click to enlarge](img/38800.jpg)  
+Click to enlarge](img/38800.jpg.md)  
 TYRIAN GALLEY PUTTING OUT TO SEA  
 *Marble slab from Kouyunjik (Nineveh): now in the British Museum*.  
 Photo. Mansell  
@@ -495,26 +495,26 @@ And Solomon gave Hiram twenty thousand measures of wheat for food to his
 household, and twenty measures of pure oil: thus gave Solomon to Hiram
 year by year. And the Lord gave Solomon wisdom, as he promised him: and
 there was peace between Hiram and Solomon; and they two made a league
-together. <span id="fr_425"></span>[1](#fn_423)
+together. <span id="fr_425"></span>[1](#fn_423.md)
 
 Hiram also sent skilled workers to Jerusalem to assist in the work of
 building the temple and Solomon's palace, including his famous namesake,
 "a widow's son of the (Hebrew) tribe of Naphtali", who, like his father,
 "a man of Tyre", had "understanding and cunning to work all works in
-brass". <span id="fr_426"></span>[2](#fn_424)
+brass". <span id="fr_426"></span>[2](#fn_424.md)
 
 Solomon must have cultivated good relations with the Chaldæans, for he
 had a fleet of trading ships on the Persian Gulf which was manned by
 Phœnician sailors. "Once in three years", the narrative runs, "came the
 navy of Tharshish, bringing gold, and silver, ivory, and apes, and
-peacocks." <span id="fr_427"></span>[3](#fn_425) Apparently he traded
+peacocks." <span id="fr_427"></span>[3](#fn_425.md) Apparently he traded
 with India, the land of peacocks, during the Brahmanical period, when
 
 <span id="page_390">p. 390</span>
 
 the Sanskrit name "Samudra", which formerly signified the "collected
 waters" of the broadening Indus, was applied to the Indian Ocean. <span
-id="fr_428"></span>[1](#fn_426)
+id="fr_428"></span>[1](#fn_426.md)
 
 The Aramæans of the Third Semitic migration were not slow to take
 advantage of the weakness of Assyria and Babylon. They overran the whole
@@ -635,45 +635,45 @@ physical, and intellectual life of Greece.
 
 ### Footnotes
 
-<span id="fn_412"></span>[377:1](mba22.htm#fr_414) Article "Celts" in
+<span id="fn_412"></span>[377:1](mba22.htm#fr_414.md) Article "Celts" in
 *Encyclopædia Britannica*, eleventh ed.
 
-<span id="fn_413"></span>[377:2](mba22.htm#fr_415) *The Wanderings of
+<span id="fn_413"></span>[377:2](mba22.htm#fr_415.md) *The Wanderings of
 Peoples*, p.41.
 
-<span id="fn_414"></span>[378:1](mba22.htm#fr_416) *Crete, the
+<span id="fn_414"></span>[378:1](mba22.htm#fr_416.md) *Crete, the
 Forerunner of Greece*, p. 146.
 
-<span id="fn_415"></span>[378:2](mba22.htm#fr_417) *Pr*. Moosh´kee.
+<span id="fn_415"></span>[378:2](mba22.htm#fr_417.md) *Pr*. Moosh´kee.
 
-<span id="fn_416"></span>[379:1](mba22.htm#fr_418) "Have I not brought
+<span id="fn_416"></span>[379:1](mba22.htm#fr_418.md) "Have I not brought
 up Israel out of the land of Egypt and the Philistines from Caphtor
 (Crete)?" *Amos*, viii, 7.
 
-<span id="fn_417"></span>[380:1](mba22.htm#fr_419) *A History of
+<span id="fn_417"></span>[380:1](mba22.htm#fr_419.md) *A History of
 Civilization in Palestine*, p. 58.
 
-<span id="fn_418"></span>[384:1](mba22.htm#fr_420) Pinches' translation.
+<span id="fn_418"></span>[384:1](mba22.htm#fr_420.md) Pinches' translation.
 
-<span id="fn_419"></span>[387:1](mba22.htm#fr_421) *Samuel*, xiii, 19.
+<span id="fn_419"></span>[387:1](mba22.htm#fr_421.md) *Samuel*, xiii, 19.
 
-<span id="fn_420"></span>[387:2](mba22.htm#fr_422) *A History of
+<span id="fn_420"></span>[387:2](mba22.htm#fr_422.md) *A History of
 Civilisation in Palestine*, p. 54.
 
-<span id="fn_421"></span>[388:1](mba22.htm#fr_423) *1 Kings*, iii, i.
+<span id="fn_421"></span>[388:1](mba22.htm#fr_423.md) *1 Kings*, iii, i.
 
-<span id="fn_422"></span>[388:2](mba22.htm#fr_424) *Ibid*., ix, 16.
+<span id="fn_422"></span>[388:2](mba22.htm#fr_424.md) *Ibid*., ix, 16.
 
-<span id="fn_423"></span>[389:1](mba22.htm#fr_425) *1 Kings*, v, 1-12.
+<span id="fn_423"></span>[389:1](mba22.htm#fr_425.md) *1 Kings*, v, 1-12.
 
-<span id="fn_424"></span>[389:2](mba22.htm#fr_426) *Ibid*., vii, 14 *et
+<span id="fn_424"></span>[389:2](mba22.htm#fr_426.md) *Ibid*., vii, 14 *et
 seq*.
 
-<span id="fn_425"></span>[389:3](mba22.htm#fr_427) *Ibid*., x, 22-3.
+<span id="fn_425"></span>[389:3](mba22.htm#fr_427.md) *Ibid*., x, 22-3.
 
-<span id="fn_426"></span>[390:1](mba22.htm#fr_428) *Indian Myth and
+<span id="fn_426"></span>[390:1](mba22.htm#fr_428.md) *Indian Myth and
 Legend*, pp. 83-4.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. The Hebrews in Assyrian History](mba23)
+[Next: Chapter XVII. The Hebrews in Assyrian History](mba23.md)

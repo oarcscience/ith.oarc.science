@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic081)  [Next](lfic083) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic081)  [Next](lfic083.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ after making their meal, made their way into the Shannon.
 
 ------------------------------------------------------------------------
 
-[Next: The Isle of the Living](lfic083)
+[Next: The Isle of the Living](lfic083.md)

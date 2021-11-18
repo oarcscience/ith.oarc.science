@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ams03)  [Next](ams05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ams03)  [Next](ams05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Miracle in Stone: The Great Pyramid*, by Joesph A. Seiss, \[1877\],
 at Intangible Textual Heritage
 
@@ -19,13 +19,13 @@ at Intangible Textual Heritage
 
 <span id="img_01000"></span> <span align="CENTER"> [![The Great
 Pyramid](tn/01000.jpg)  
-Click to enlarge](img/01000.jpg)  
+Click to enlarge](img/01000.jpg.md)  
 The Great Pyramid  
 </span>
 
 <span id="img_pyrdet"></span> <span align="CENTER"> [![Detail of The
 Great Pyramid](tn/pyrdet.jpg)  
-Click to enlarge](img/pyrdet.jpg)  
+Click to enlarge](img/pyrdet.jpg.md)  
 Detail of The Great Pyramid  
 </span>
 
@@ -104,4 +104,4 @@ eye. The print is reduced photographically from a drawing of large size.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture First. General Facts and Scientific Features](ams05)
+[Next: Lecture First. General Facts and Scientific Features](ams05.md)

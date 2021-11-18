@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil45)  [Next](egil47) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil45)  [Next](egil47.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ Thorir paid it all and went home.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XLVI. Of Thorolf's and Egil's harrying.](egil47)
+[Next: CHAPTER XLVI. Of Thorolf's and Egil's harrying.](egil47.md)

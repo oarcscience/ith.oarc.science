@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb34)  [Next](blfb36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb34)  [Next](blfb36.md) 
 
 </div>
 
@@ -1084,6 +1084,6 @@ retired in the place he had made choice of for his retreat.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: The History of Jack the Giant-Killer](blfb36)
+[Next: The History of Jack the Giant-Killer](blfb36.md)
 
 </div>

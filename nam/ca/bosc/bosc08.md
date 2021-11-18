@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc07)  [Next](bosc09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc07)  [Next](bosc09.md) 
 
 ------------------------------------------------------------------------
 
@@ -211,4 +211,4 @@ day.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. On Matrimony](bosc09)
+[Next: Chapter VII. On Matrimony](bosc09.md)

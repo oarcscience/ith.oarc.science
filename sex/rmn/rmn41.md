@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn40)  [Next](rmn42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn40)  [Next](rmn42.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ This fresco was among the excavations of Pompeii.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XLI: An Hermaphrodite and Faun](rmn42)
+[Next: Plate XLI: An Hermaphrodite and Faun](rmn42.md)

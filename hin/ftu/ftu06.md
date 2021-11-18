@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ftu05)  [Next](ftu07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ftu05)  [Next](ftu07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_hin.jpg)](index)  
+[![](../img/tn_hin.jpg)](index.md)  
 *From the Upanishads*, by Charles Johnston, \[1899\], at Intangible
 Textual Heritage
 
@@ -386,4 +386,4 @@ further shore of unwisdom, said they, honouring him.
 
 ------------------------------------------------------------------------
 
-[Next: III. That Thou Art](ftu07)
+[Next: III. That Thou Art](ftu07.md)

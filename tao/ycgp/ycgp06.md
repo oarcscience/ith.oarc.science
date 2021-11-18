@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp05) [Next](ycgp07)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp05) [Next](ycgp07.md)
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 Y<span class="small">ANG</span> C<span class="small">HU</span> said:
 
    "Yuan Hsie lived in mean circumstances in Lu, while Tse Kung<span
-id="page_42_fr_1"></span>[1](#page_42_note_1) amassed wealth in Wei.
+id="page_42_fr_1"></span>[1](#page_42_note_1.md) amassed wealth in Wei.
 
    "Poverty galled the one, and riches caused uneasiness to the other.
 
@@ -22,7 +22,7 @@ enjoy life are not poor, and he that lives at ease requires no riches."
 
 ------------------------------------------------------------------------
 
-[Next](ycgp07)
+[Next](ycgp07.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ enjoy life are not poor, and he that lives at ease requires no riches."
 
 <span id="footnotes_page_42">p. 42</span>
 
-<span id="page_42_note_1"></span>[1](#page_42_fr_1) Tse Kung was a
+<span id="page_42_note_1"></span>[1](#page_42_fr_1.md) Tse Kung was a
 disciple of Confucius.
 
  

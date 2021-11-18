@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic053)  [Next](lfic055) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic053)  [Next](lfic055.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ Scotch men of might, laid down to facilitate their mutual visits.
 
 ------------------------------------------------------------------------
 
-[Next: How Fann Mac Cuil and his Men were Bewitched](lfic055)
+[Next: How Fann Mac Cuil and his Men were Bewitched](lfic055.md)

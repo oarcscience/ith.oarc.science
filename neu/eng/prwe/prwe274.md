@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe273)  [Next](prwe275) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe273)  [Next](prwe275.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ character.
 
 ------------------------------------------------------------------------
 
-[Next: The Robin and the Wren](prwe275)
+[Next: The Robin and the Wren](prwe275.md)

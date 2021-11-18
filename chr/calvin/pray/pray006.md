@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray005)  [Next](pray007) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray005)  [Next](pray007.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ measure of its own vanity, but rise to a purity worthy of God.
 
 ------------------------------------------------------------------------
 
-[Next: 5.](pray007)
+[Next: 5.](pray007.md)

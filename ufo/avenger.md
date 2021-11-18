@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](aufoct27)  [Next](b2bomber) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](aufoct27)  [Next](b2bomber.md) 
 
 ### Avenger Bomber Wing Disappearance in Bermuda Triangle in 1945
 
@@ -83,4 +83,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 ------------------------------------------------------------------------
 
 [Next: The B2 Bomber: Could it be Responsible For Boomerang UFO
-Sightings?](b2bomber)
+Sightings?](b2bomber.md)

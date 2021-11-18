@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Next](trs01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Next](trs01.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ of attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: The Rosetta Stone](trs01)
+[Next: The Rosetta Stone](trs01.md)

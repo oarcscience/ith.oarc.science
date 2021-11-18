@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb12)  [Next](lrb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb12)  [Next](lrb14.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Arthurian legend in Brittany, we are, perhaps, a little alarmed at the
 outset to find that our manuscript sources are scanty. "It had to be
 acknowledged," says Professor Saintsbury, "that Brittany could supply
 *no ancient texts whatever*, and hardly any ancient traditions." <span
-id="fr_52"></span>[1](#fn_52) But are either of these conditions
+id="fr_52"></span>[1](#fn_52.md) But are either of these conditions
 essential to a belief in the Breton origin of Arthurian romance?
 
 The two great hypotheses regarding Arthurian origins have been dubbed
@@ -81,7 +81,7 @@ sword in two pieces in a combat with Sir Pellinore of Wales, and had
 been saved by Merlin, who threw Sir Pellinore into an enchanted sleep.
 
 "And so Merlin and Arthur departed, and as they rode along King Arthur
-said, 'I have no sword.' 'No force,' <span id="fr_53"></span>[1](#fn_53)
+said, 'I have no sword.' 'No force,' <span id="fr_53"></span>[1](#fn_53.md)
 said Merlin; 'here is a sword that shall be yours, an I may.' So they
 rode till they came to a lake, which was a fair water and a broad; and
 in the midst of the lake King Arthur was aware of an arm clothed in
@@ -100,7 +100,7 @@ that which the arm holdeth yonder above the water? I would it were
 <span id="img_25600"></span>
 
 [![KING ARTHUR AND MERLIN AT THE LAKE](tn/25600.jpg)  
-Click to enlarge](img/25600.jpg)  
+Click to enlarge](img/25600.jpg.md)  
 KING ARTHUR AND MERLIN AT THE LAKE  
 
  
@@ -329,7 +329,7 @@ to assume once more the name of Tremtris.
 
 Soon his fame as a minstrel reached the ears of the Queen of Ireland, a
 lady deeply versed in the art of healing. She was, indeed, "the best
-Couthe of Medicine" <span id="fr_54"></span>[1](#fn_54) Tristrem had
+Couthe of Medicine" <span id="fr_54"></span>[1](#fn_54.md) Tristrem had
 seen, and in order to heal his wound she applied to it "a plaster kene."
 Later she invited him to the Court, where his skill in chess and games
 astonished every one. So interested in him did the royal lady become at
@@ -425,7 +425,7 @@ potion. Both Tristrem and Ysonde unwittingly partook of this, and a
 favourite dog, Hodain,
 
 That many a forest day of fiery mirth  
-Had plied his craft before them, <span id="fr_55"></span>[1](#fn_55)
+Had plied his craft before them, <span id="fr_55"></span>[1](#fn_55.md)
 
 licked the cup. The consequence of this mistake was, of course, the
 awakening of a consuming passion each for the other in Tristrem and
@@ -450,7 +450,7 @@ workmanship, the appearance of which excited the curiosity of King Mark,
 who requested him to perform upon it. The visitor demanded that the King
 should first promise to grant him a boon, and the King having pledged
 his royal word, the minstrel sang to the harp a lay in which he claimed
-Ysonde as the promised gift. <span id="fr_56"></span>[1](#fn_56) Mark,
+Ysonde as the promised gift. <span id="fr_56"></span>[1](#fn_56.md) Mark,
 having pledged his honour, had no alternative but to become forsworn or
 to deliver his wife to the harper, and he reluctantly complied with the
 minstrel's demand. Tristrem, who had been away hunting, returned
@@ -472,7 +472,7 @@ week, after which Tristrem restored Ysonde to her husband.
 <span id="img_26800"></span>
 
 [![TRISTREM AND YSONDE](tn/26800.jpg)  
-Click to enlarge](img/26800.jpg)  
+Click to enlarge](img/26800.jpg.md)  
 TRISTREM AND YSONDE  
 
  
@@ -665,7 +665,7 @@ circumstances of their lives and adventures have been adapted to the
 <span id="page_275">p. 275</span>
 
 old world-wide myth of the progress of the sun from dawn to
-darkness. <span id="fr_57"></span>[1](#fn_57) The evidence seems very
+darkness. <span id="fr_57"></span>[1](#fn_57.md) The evidence seems very
 complete, and the theory is probably well founded. The circumstances of
 the great epic of the sun-god fits most hero-tales. And it is well to
 recollect that even if romance-makers seized upon the plot of the old
@@ -734,7 +734,7 @@ the
 <span id="img_27600"></span>
 
 [![KING ARTHUR AND TIM GIANT OF MONT-SAINT-MICHEL](tn/27600.jpg)  
-Click to enlarge](img/27600.jpg)  
+Click to enlarge](img/27600.jpg.md)  
 KING ARTHUR AND TIM GIANT OF MONT-SAINT-MICHEL  
 
  
@@ -784,7 +784,7 @@ the Britons." They passed on to Cornwall, and when, in the church, at
 Bodmin, one of their servants dared to question the statement of a
 certain Cornishman that Arthur still lived, he received such a buffet
 for his temerity that a small riot ensued. <span
-id="fr_58"></span>[1](#fn_58) Does not this seem to be evidence that the
+id="fr_58"></span>[1](#fn_58.md) Does not this seem to be evidence that the
 legend was more whole-heartedly believed in in the Celtic parts of
 England, and was therefore more exclusively native to those parts than
 to Continental Brittany? The Cornish allegiance to the memory of Arthur
@@ -923,27 +923,27 @@ the world of men and right the great wrongs which afflict humanity.
 
 ### Footnotes
 
-<span id="fn_52"></span>[254:1](lrb13.htm#fr_52) *The Flourishing of
+<span id="fn_52"></span>[254:1](lrb13.htm#fr_52.md) *The Flourishing of
 Romance and the Rise of Allegory*, p. 135.
 
-<span id="fn_53"></span>[256:1](lrb13.htm#fr_53) No matter.
+<span id="fn_53"></span>[256:1](lrb13.htm#fr_53.md) No matter.
 
-<span id="fn_54"></span>[264:1](lrb13.htm#fr_54) *I.e.* had the best
+<span id="fn_54"></span>[264:1](lrb13.htm#fr_54.md) *I.e.* had the best
 knowledge of medicine. *Couthe*, from A.S. *cunnan* to know.
 
-<span id="fn_55"></span>[267:1](lrb13.htm#fr_55) Swinburne, *Tristram of
+<span id="fn_55"></span>[267:1](lrb13.htm#fr_55.md) Swinburne, *Tristram of
 Lyonesse*.
 
-<span id="fn_56"></span>[268:1](lrb13.htm#fr_56) This incident is common
+<span id="fn_56"></span>[268:1](lrb13.htm#fr_56.md) This incident is common
 in Celtic romance, and seems to have been widely used in nearly all
 medieval literatures.
 
-<span id="fn_57"></span>[275:1](lrb13.htm#fr_57) See Rev. Sir G. W. Cox,
+<span id="fn_57"></span>[275:1](lrb13.htm#fr_57.md) See Rev. Sir G. W. Cox,
 *Introduction to Mythology*, p. 326 ff.
 
-<span id="fn_58"></span>[278:1](lrb13.htm#fr_58) See Zimmer,
+<span id="fn_58"></span>[278:1](lrb13.htm#fr_58.md) See Zimmer,
 *Zeitschrift für Französische Sprache und Literatur*, xii, pp. 106 ff.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: The Breton Lays of Marie De France](lrb14)
+[Next: Chapter XI: The Breton Lays of Marie De France](lrb14.md)

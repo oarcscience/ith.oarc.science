@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst07)  [Next](mst09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst07)  [Next](mst09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -668,7 +668,7 @@ destroyed them, to protect the child he loved from possible harm.
 Grandfather de Rémy, too, was too wise for anything else.
 
 Europe was full of ancient books on magic; some were spurious and some
-authentic. When [Constantinople](errata.htm#6) fell in 1540, many Greeks
+authentic. When [Constantinople](errata.htm#6.md) fell in 1540, many Greeks
 fled to Italy and France. They brought with them all they could rescue
 of their written works. It was said that invariably beneath the rags of
 the refugee could be seen the parchment edges of some treasured rarity
@@ -835,4 +835,4 @@ low in mystery.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven: Purpose](mst09)
+[Next: Chapter Seven: Purpose](mst09.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng41)  [Next](vlsng43) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng41)  [Next](vlsng43.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ Swanhild nourished withal.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLI: Of the Wedding and Slaying of Swanhild.](vlsng43)
+[Next: Chapter XLI: Of the Wedding and Slaying of Swanhild.](vlsng43.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas143n)  [Next](jas146n)   
- \[[145. Fowl and Pretty Poll.](jas145)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas143n)  [Next](jas146n.md)   
+ \[[145. Fowl and Pretty Poll.](jas145.md)\]
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ spite of this peelhead). Compare the witticism vi.
 
 ------------------------------------------------------------------------
 
-[Next: Note 146. The Cumbalo.](jas146n)
+[Next: Note 146. The Cumbalo.](jas146n.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar189) [Next](gbar191)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar189) [Next](gbar191.md)
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ are sands in the sea, and more.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar191)
+[Next](gbar191.md)

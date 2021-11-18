@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp15) [Next](onp17)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp15) [Next](onp17.md)
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ elements in common with poetry. Especially is this the case when the law
 seeks to instance, or motivate, or elaborate, sanctions or punishments.
 Thus we find embedded in the Icelandic laws, following a treatment of
 weregild or composition for manslaughter, etc., a formula of peace<span
-id="fr_1"></span>[1](#note_1) which both in form and spirit is
+id="fr_1"></span>[1](#note_1.md) which both in form and spirit is
 essentially poetic. Indeed, when passion infuses itself—as where a
 mighty curse is called down on the violator of these oaths—heights of
 truly great poetry are reached: for the benefit of both witnesses and
@@ -26,7 +26,7 @@ of man, the boundless earth, the sky and the sea.
 instructive to the student of Old Germanic poetry in showing a more
 primitive stage of alliterative verse than that seen in epic or lay.
 There is as yet no regularity of metrical line, though a few normal
-long-lines do occur;<span id="fr_2"></span>[2](#note_2) far less, any
+long-lines do occur;<span id="fr_2"></span>[2](#note_2.md) far less, any
 strophic structure. Still, alliteration has here its basic function of
 marking and reinforcing the natural stress, variation (parallelism)
 shows the instinctive fondness of the race for dwelling on favorite
@@ -37,12 +37,12 @@ elements of Old Germanic poetry.
 
  It is reasonable to suppose that these oaths are age-old and were
 brought over to Iceland from the common home in <span id="page_81">p.
-81</span> Norway.<span id="fr_3"></span>[3](#note_3) Certainly the
+81</span> Norway.<span id="fr_3"></span>[3](#note_3.md) Certainly the
 groundstock is heathen; the references to Christian belief and practices
 are but natural later accretions.
 
  The version here translated is that of the so-called *Konungabók* or
-“Kings’ Book” MS of the *Grágás*,<span id="fr_4"></span>[4](#note_4) a
+“Kings’ Book” MS of the *Grágás*,<span id="fr_4"></span>[4](#note_4.md) a
 twelfth-century compilation of Icelandic laws. A shorter version exists
 also in the so-called *Statharhólsbók,* or “Book of Statharhól
 Bishopric” MS of the *Grágás*. Besides, we have versions with important
@@ -58,7 +58,7 @@ made between them,
   Hath the offer been taken  
   as even-handed,  
   with full fees  
-  and forth-paid ounces,<span id="fr_5"></span>[5](#note_5)  
+  and forth-paid ounces,<span id="fr_5"></span>[5](#note_5.md)  
   to them handseled  
   who were to have them.  
 Ye shall henceforth be men  
@@ -72,7 +72,7 @@ this matter had never come between you. Ye shall share
   both steel and steaks  
   and all the things  
    <span id="page_82">p. 82</span> that are betwixt you,  
-  like friends<span id="fr_7"></span>[7](#note_7) and not like foes.  
+  like friends<span id="fr_7"></span>[7](#note_7.md) and not like foes.  
 And if, later, strife arise between you twain and things be not in good
 case, then shall it  
   be settled by fees,  
@@ -98,10 +98,10 @@ he shall be
   and shields are borne,  
   as the sun shineth,  
   snow drifteth,  
-  Finn glideth,<span id="fr_8"></span>[8](#note_8)  
+  Finn glideth,<span id="fr_8"></span>[8](#note_8.md)  
   fir-tree groweth,  
   as falcon flie’th  
-  on a fair summer-day<span id="fr_9"></span>[9](#note_9)  
+  on a fair summer-day<span id="fr_9"></span>[9](#note_9.md)  
   with a brisk-blowing breeze  
   under both his wings,  
    <span id="page_83">p. 83</span> as the sky arches  
@@ -114,7 +114,7 @@ he shall be
   God’s house and men’s homes—  
   every abode  
   but hell only.  
-Now hold ye both this book<span id="fr_10"></span>[10](#note_10) on
+Now hold ye both this book<span id="fr_10"></span>[10](#note_10.md) on
 which lies also the money which N. N. offers as redress for himself and
 his heir.  
   born or unborn,  
@@ -152,7 +152,7 @@ Be ye now happy and at peace!
 
 ------------------------------------------------------------------------
 
-[Next](onp17)
+[Next](onp17.md)
 
 ------------------------------------------------------------------------
 
@@ -160,40 +160,40 @@ Be ye now happy and at peace!
 
 <span id="footnotes_page_80">p. 80</span>
 
-<span id="note_1"></span>[1](#fr_1) It is there called Tryggthamól or
+<span id="note_1"></span>[1](#fr_1.md) It is there called Tryggthamól or
 “Oaths of Peace.” They are to be repeated, after the judge or umpire, by
 both parties to the suit.
 
-<span id="note_2"></span>[2](#fr_2) I have therefore printed the whole
+<span id="note_2"></span>[2](#fr_2.md) I have therefore printed the whole
 in half-lines.
 
 <span id="footnotes_page_81">p. 81</span>
 
-<span id="note_3"></span>[3](#fr_3) A few lines of the beginning, found
+<span id="note_3"></span>[3](#fr_3.md) A few lines of the beginning, found
 in the fragmentary MS of the *Older Gulathingslóg* or “Laws of the Gula
 (legal) district” of Norway prove it.
 
-<span id="note_4"></span>[4](#fr_4) Literally. “Grey Goose”—from the MS
+<span id="note_4"></span>[4](#fr_4.md) Literally. “Grey Goose”—from the MS
 covers of grey fur.
 
-<span id="note_5"></span>[5](#fr_5) *I.e.*, of silver.
+<span id="note_5"></span>[5](#fr_5.md) *I.e.*, of silver.
 
-<span id="note_6"></span>[6](#fr_6) In the original: “knife and
+<span id="note_6"></span>[6](#fr_6.md) In the original: “knife and
 meat-piece.“
 
 <span id="footnotes_page_82">p. 82</span>
 
-<span id="note_7"></span>[7](#fr_7) In the original: “like kinsmen.“the
+<span id="note_7"></span>[7](#fr_7.md) In the original: “like kinsmen.“the
 closest bond between persons being that of the clan.
 
-<span id="note_8"></span>[8](#fr_8) Viz., on skis.
+<span id="note_8"></span>[8](#fr_8.md) Viz., on skis.
 
-<span id="note_9"></span>[9](#fr_9) Which, it will be remembered, in the
+<span id="note_9"></span>[9](#fr_9.md) Which, it will be remembered, in the
 Northland lasts most of the twenty-four hours.
 
 <span id="footnotes_page_83">p. 83</span>
 
-<span id="note_10"></span>[10](#fr_10) The Bible, of course.
+<span id="note_10"></span>[10](#fr_10.md) The Bible, of course.
 
  
 

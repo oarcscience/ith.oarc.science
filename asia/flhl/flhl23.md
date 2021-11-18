@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl22)  [Next](flhl24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl22)  [Next](flhl24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Hanauer \[1907\], at Intangible Textual Heritage
 ON the southern wall inside the great Mesjid El Aksa at Jerusalem, which
 stands on the site of Justinian's famous Church of St Mary, there hangs
 in a gilt frame a specimen of ornamental Arabic
-[calligraphy](errata.htm#2). It is the well-known koranic text
+[calligraphy](errata.htm#2.md). It is the well-known koranic text
 concerning Mohammed's night-journey from Mecca to Jerusalem, and the
 guardians of the sanctuary state that it was penned by Sultan Mahmûd,
 father of Sultan Abd
@@ -42,4 +42,4 @@ sent the text which he had written to the Mosque El Aksa.
 
 ------------------------------------------------------------------------
 
-[Next: X. The Right Answer](flhl24)
+[Next: X. The Right Answer](flhl24.md)

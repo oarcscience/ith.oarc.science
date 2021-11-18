@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto29) 
-[Next](aoto31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto29.md) 
+[Next](aoto31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -76,7 +76,7 @@ seriously.
 
 Shelley, again, speaking of the "perpetually increasing magnificence of
 the last seven books" of the "Iliad," says, "The 'Odyssey' is sweet, but
-there is nothing like this." <span id="fr_47"></span>[\*](#fn_47) The
+there is nothing like this." <span id="fr_47"></span>[\*](#fn_47.md) The
 writer of the "Odyssey" is fierce as a tigress at times, but the feeling
 of the poem is on the whole exactly what Shelley says it is. Strength is
 felt everywhere, even in the tenderest passages of the "Iliad," but it
@@ -195,7 +195,7 @@ that the writer was tempted by the lovely passage of "Il." xxiv., where
 Mercury meets Priam to conduct him to the Achæan camp; one pretty line,
 indeed (and rather more), of the Iliadic passage above referred to is
 taken bodily by the writer of the "Odyssey" to describe the youth and
-beauty of the god. <span id="fr_48"></span>[\*](#fn_48) With these
+beauty of the god. <span id="fr_48"></span>[\*](#fn_48.md) With these
 exceptions, throughout the poem Andromeda rescues Perseus, not Perseus
 Andromeda—Christiana is guide and guardian to Mr. Greatheart, not Mr.
 Greatheart to Christiana.
@@ -221,7 +221,7 @@ comrade
 
 <span class="contnote">\[paragraph continues\]</span> Elpenor, who had
 got drunk and fallen off the roof of Circe's house just as Ulysses and
-his men were about to set sail. We are [expressly](errata.htm#2) told
+his men were about to set sail. We are [expressly](errata.htm#2.md) told
 that he was a person of no importance, being remarkable neither for
 sense nor courage, so that it does not matter about killing him, and it
 is transparent that the accident is only allowed to happen in order to
@@ -393,7 +393,7 @@ line is given to
 
 <span class="contnote">\[paragraph continues\]</span> Sappho, who we are
 told was singing to the accompaniment of Orpheus. Then we go on to
-Homer, <span id="fr_49"></span>[\*](#fn_49) Virgil, Addison,
+Homer, <span id="fr_49"></span>[\*](#fn_49.md) Virgil, Addison,
 Shakespeare, Betterton, Booth, and Milton.
 
 Defoe, again, being an elderly married man, and wanting to comfort
@@ -426,14 +426,14 @@ the hands not of a man but of a woman.
 
 ### Footnotes
 
-<span id="fn_47"></span>[106:\*](aoto30.htm#fr_47) *Select Letters of
+<span id="fn_47"></span>[106:\*](aoto30.htm#fr_47.md) *Select Letters of
 Percy Bysshe Shelley*, edited by Richard Garnett. Kegan Paul Trench &
 Co., 1882, p. 149.
 
-<span id="fn_48"></span>[109:\*](aoto30.htm#fr_48) "Od." x. 278, 299;
+<span id="fn_48"></span>[109:\*](aoto30.htm#fr_48.md) "Od." x. 278, 299;
 *cf*. "Il." xxiv. 347, 348.
 
-<span id="fn_49"></span>[114:\*](aoto30.htm#fr_49) Talking of Homer
+<span id="fn_49"></span>[114:\*](aoto30.htm#fr_49.md) Talking of Homer
 Fielding says, "I had the curiosity to ask him whether he had really
 writ that poem \[the "Iliad"\] in detached pieces and flung it about all
 over Greece, according to the report that went of him. He smiled at my
@@ -444,4 +444,4 @@ See Jebb's *Introduction to Homer*, ed. 1888, note 1 on p. 106.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Jealousy for the Honour and Dignity of Woman](aoto31)
+[Next: Chapter IV. Jealousy for the Honour and Dignity of Woman](aoto31.md)

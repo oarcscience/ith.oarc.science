@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb03)  [Next](blfb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb03)  [Next](blfb05.md) 
 
 </div>
 
@@ -383,6 +383,6 @@ moon.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: The Yellow Dwarf](blfb05)
+[Next: The Yellow Dwarf](blfb05.md)
 
 </div>

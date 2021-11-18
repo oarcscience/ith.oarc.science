@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](mar)  [Next](joh) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](mar)  [Next](joh.md) 
 
 ------------------------------------------------------------------------
 
@@ -4245,4 +4245,4 @@ te whakapai ki te Atua. Amine.
 
 ------------------------------------------------------------------------
 
-[Next: John](joh)
+[Next: John](joh.md)

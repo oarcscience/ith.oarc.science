@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte.md)
 
 </div>
 
@@ -29,8 +29,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ftc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ftc.txt.gz)
+[Contents](#contents)    [Start Reading](ftc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ftc.txt.gz.md)
 
 |                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------|
@@ -44,27 +44,27 @@ Etteilla's Tarot spread.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ftc00)  
-[Contents](ftc01)  
-[Introduction](ftc02)  
-[Chapter I](ftc03)  
-[Chapter II](ftc04)  
-[Chapter III. The Selected Pack of Thirty-two Cards](ftc05)  
+<span id="contents"></span> [Title Page](ftc00.md)  
+[Contents](ftc01.md)  
+[Introduction](ftc02.md)  
+[Chapter I](ftc03.md)  
+[Chapter II](ftc04.md)  
+[Chapter III. The Selected Pack of Thirty-two Cards](ftc05.md)  
 [Chapter IV. The Signification of Quartettes, Triplets, and
-Pairs](ftc06)  
+Pairs](ftc06.md)  
 [Chapter V. What the Cards can Tell of the Past, the Present, and the
-Future](ftc07)  
-[Chapter VI. Your Fortune in Twenty-one Cards](ftc08)  
-[Chapter VII. Combination of Sevens](ftc09)  
-[Chapter VIII. Another Method](ftc10)  
-[Chapter IX. A French Method](ftc11)  
-[Chapter X. The Grand Star](ftc12)  
-[Chapter XI. Important Questions](ftc13)  
-[Chapter XII. How They Tell Fortunes in Italy](ftc14)  
-[Chapter XIII. The Master Method](ftc15)  
-[Chapter XIV. Signification of Suits in the Master Method](ftc16)  
-[Chapter XV. Combination of Nines](ftc17)  
-[Chapter XVI. Your Heart's Desire](ftc18)  
-[Chapter XVII. A Rhyming Divination](ftc19)  
-[Chapter XVIII. The Tarots](ftc20)  
-[Chapter XIX. Etteilla's Method](ftc21)  
+Future](ftc07.md)  
+[Chapter VI. Your Fortune in Twenty-one Cards](ftc08.md)  
+[Chapter VII. Combination of Sevens](ftc09.md)  
+[Chapter VIII. Another Method](ftc10.md)  
+[Chapter IX. A French Method](ftc11.md)  
+[Chapter X. The Grand Star](ftc12.md)  
+[Chapter XI. Important Questions](ftc13.md)  
+[Chapter XII. How They Tell Fortunes in Italy](ftc14.md)  
+[Chapter XIII. The Master Method](ftc15.md)  
+[Chapter XIV. Signification of Suits in the Master Method](ftc16.md)  
+[Chapter XV. Combination of Nines](ftc17.md)  
+[Chapter XVI. Your Heart's Desire](ftc18.md)  
+[Chapter XVII. A Rhyming Divination](ftc19.md)  
+[Chapter XVIII. The Tarots](ftc20.md)  
+[Chapter XIX. Etteilla's Method](ftc21.md)  

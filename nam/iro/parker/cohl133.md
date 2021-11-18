@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl132)  [Next](cohl134) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl132)  [Next](cohl134.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Great Spirit of the worlds.
 "Now the first words that they spoke were these, 'They have stretched
 out their hands pleading for you to come and they are your own people at
 Onondaga. Let this be the way, prepare yourself and cleanse your body
-with medicine. <span id="fr_91"></span>[1](#fn_91) It is necessary
+with medicine. <span id="fr_91"></span>[1](#fn_91.md) It is necessary
 moreover for you to secrete yourself in some hidden spot and await our
 call to start.'"
 
@@ -25,7 +25,7 @@ So they said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_91"></span>[77:1](cohl133.htm#fr_91) Purification. The herb
+<span id="fn_91"></span>[77:1](cohl133.htm#fr_91.md) Purification. The herb
 used most extensively by the Iroquois for "purification" was witch
 hopple, the bark of which was used both as an emetic and a purgative.
 For an emetic the bark was peeled upward and for a purgative downward.
@@ -47,4 +47,4 @@ ceremonial purposes. The process was again repeated in the autumn.
 
 ------------------------------------------------------------------------
 
-[Next: Section 123](cohl134)
+[Next: Section 123](cohl134.md)

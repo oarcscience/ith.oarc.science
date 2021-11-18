@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc084) 
-[Next](motc086) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc084.md) 
+[Next](motc086.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ him the swift current caught him and took him out of their reach.
 
 ------------------------------------------------------------------------
 
-[Next: 86. Yahula](motc086)
+[Next: 86. Yahula](motc086.md)

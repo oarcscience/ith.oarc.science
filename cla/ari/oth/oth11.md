@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth10)  [Next](oth12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth10)  [Next](oth12.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ of the greater body.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 12](oth12)
+[Next: Chapter 12](oth12.md)

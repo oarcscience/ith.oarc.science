@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg54)  [Next](btg56) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg54)  [Next](btg56.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ truth has been preached by the Blessed One."
 
 ------------------------------------------------------------------------
 
-[Next: One Essence, One Law, One Aim](btg56)
+[Next: One Essence, One Law, One Aim](btg56.md)

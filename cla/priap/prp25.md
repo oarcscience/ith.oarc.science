@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp24)  [Next](prp26) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp24)  [Next](prp26.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ anus of Encolpius as an aphrodisiac.\]
 ------------------------------------------------------------------------
 
 [Next: 26. Well-known darling of folk in the Circus Maximus far
-famed,](prp26)
+famed,](prp26.md)

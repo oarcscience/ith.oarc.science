@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb28)  [Next](yefb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb28)  [Next](yefb30.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_161">p. 161</span>
 
-THE WITCH AND HER SERVANTS <span id="fr_21"></span>[1](#fn_21)
+THE WITCH AND HER SERVANTS <span id="fr_21"></span>[1](#fn_21.md)
 
 Long time ago there lived a King who had three sons; the eldest was
 called Szabo, the second Warza, and the youngest Iwanich.
@@ -741,13 +741,13 @@ till the end of their lives.
 
 ### Footnotes
 
-<span id="fn_21"></span>[161:1](yefb29.htm#fr_21) From the Russian.
+<span id="fn_21"></span>[161:1](yefb29.htm#fr_21.md) From the Russian.
 Kletke.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Ring](yefb30)
+[Next: The Magic Ring](yefb30.md)
 
 </div>

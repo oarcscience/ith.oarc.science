@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck27)  [Next](peck29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck27)  [Next](peck29.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ to correspond with the clay marks.
 
 ------------------------------------------------------------------------
 
-[Next: The Smilax](peck29)
+[Next: The Smilax](peck29.md)

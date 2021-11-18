@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof36.md) 
 
 ------------------------------------------------------------------------
 
@@ -1166,7 +1166,7 @@ philosophers to these terms.
 <span id="xref_156">156</span>. Such a talisman was the following
 figure:--
 
-<span id="img_illus05.png"></span> ![matrix](img/illus05.png)  
+<span id="img_illus05.png"></span> ![matrix](img/illus05.png.md)  
 matrix
 
 <span id="xref_157">157</span>. Anderson's Constitutions, 2d ed. 1738,

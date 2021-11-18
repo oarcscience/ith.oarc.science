@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ of little benefit; but those who have some spiritual knowledge of
 Alchemy, perhaps having studied it in some former incarnation, may
 receive some benefit from a perusal of this chapter, as it may serve to
 bring that which they already spiritually know to the understanding of
-their mind. <span id="fr_13"></span>[\*](#fn_13)
+their mind. <span id="fr_13"></span>[\*](#fn_13.md)
 
 It is a mistake to confound Alchemy with Chemistry. Modern Chemistry is
 a science which deals merely with the external forms in which the
@@ -153,7 +153,7 @@ father; and ‏ד‎ means "Ruach," or spirit. This, then, is a trinity of
 father, son, and spirit, and its quality is indicated by the following
 syllable ‏איח‎, indicating the true generation, for the ‏ש‎ is the
 letter symbolizing the fire, and the ‏י‎ the light. The
-[pronunciation](errata.htm#22) of the former is like the hissing of the
+[pronunciation](errata.htm#22.md) of the former is like the hissing of the
 flame, but the latter issues mildly from the fire, as it is likewise
 born mildly and humbly within the human soul while the ‏כ‎ symbolizes
 the spirit and the power of the outspoken word.
@@ -246,7 +246,7 @@ which its character destines it to be.
 
 *Without which no alchemical experiment will succeed*.
 
-*Johannes Tritheim*, an [abbot](errata.htm#23) and alchemist, whose
+*Johannes Tritheim*, an [abbot](errata.htm#23.md) and alchemist, whose
 writings are plainer and more comprehensible than any other alchemical
 book, says:
 
@@ -362,7 +362,7 @@ Use only one vessel, one fire, one instrument.
 The door to success lies in the unity of will and purpose and the proper
 adaptation of the means to the end. There are many roads leading to the
 celestial centre. He who follows the chosen path may succeed, while he
-who [attempts](errata.htm#24) to walk on many paths will be delayed.
+who [attempts](errata.htm#24.md) to walk on many paths will be delayed.
 
 4\. *Keep the fire constantly burning*.
 
@@ -725,7 +725,7 @@ THE END.
 
 ### Footnotes
 
-<span id="fn_13"></span>[86:\*](ptw10.htm#fr_13) There are two kinds of
+<span id="fn_13"></span>[86:\*](ptw10.htm#fr_13.md) There are two kinds of
 knowledge in man, namely, that which belongs to his spirit (*Budhi*),
 and that which belongs to his mind (*Manas*). The former is, so to say,
 the quintessence of what man has learned in previous incarnations; the

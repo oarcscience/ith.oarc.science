@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw18)  [Next](cjw20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw18)  [Next](cjw20.md) 
 
 ------------------------------------------------------------------------
 
@@ -236,4 +236,4 @@ they return to the Self supreme, the witness of all.
 
 ------------------------------------------------------------------------
 
-[Next: The Teachings of Śankara](cjw20)
+[Next: The Teachings of Śankara](cjw20.md)

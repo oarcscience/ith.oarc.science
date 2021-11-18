@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey05)  [Next](grey07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey05)  [Next](grey07.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 # Rupe's Ascent into Heaven
 
 WE left Hinauri floating out into the ocean <span
-id="fr_8"></span>[1](#fn_8); we now return to her adventures: for many
+id="fr_8"></span>[1](#fn_8.md); we now return to her adventures: for many
 months she floated through the sea, and was at last thrown up by the
 surf on the beach at a place named Wairarawa; she was there found, lying
 as if dead, upon the sandy shore, by two brothers named Ihuatamai and
@@ -203,18 +203,18 @@ stained the heavens with his blood.'
 <span id="page_64">p. 64</span>
 
 Rupe's first name was Maui-mua; it was after he was transformed into a
-bird that he took the name of Rupe. <span id="fr_9"></span>[1](#fn_9)
+bird that he took the name of Rupe. <span id="fr_9"></span>[1](#fn_9.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_8"></span>[58:1](grey06.htm#fr_8) See .
+<span id="fn_8"></span>[58:1](grey06.htm#fr_8.md) See .
 
-<span id="fn_9"></span>[64:1](grey06.htm#fr_9) The part of the tradition
+<span id="fn_9"></span>[64:1](grey06.htm#fr_9.md) The part of the tradition
 which relates to the death of Kaitangata is considerably shortened in
 the translation, as not being likely to interest the European reader.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Kae's Theft of the Whale](grey07)
+[Next: The Legend of Kae's Theft of the Whale](grey07.md)

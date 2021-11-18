@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](msj08) 
-[Next](msj10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](msj08.md) 
+[Next](msj10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master-Singers of Japan*, by Clara A. Walsh, \[1914\], at
 Intangible Textual Heritage
 
@@ -134,7 +134,7 @@ Your name and dwelling would divine.
 
 <span id="page_54">p. 54</span>
 
-### IN AZUMA <span id="fr_1"></span>[\*](#fn_1)
+### IN AZUMA <span id="fr_1"></span>[\*](#fn_1.md)
 
 (From the "Manyôshiu"—8th Century)
 
@@ -227,13 +227,13 @@ Their fragrance of the Spring!
 
 ### Footnotes
 
-<span id="fn_1"></span>[54:\*](msj09.htm#fr_1) Azuma,—an eastern
+<span id="fn_1"></span>[54:\*](msj09.htm#fr_1.md) Azuma,—an eastern
 Province of Japan whose mountains contain gold and mica.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: VII.](msj10)
+[Next: VII.](msj10.md)
 
 </div>

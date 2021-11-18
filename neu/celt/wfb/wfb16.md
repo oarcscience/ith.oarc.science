@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb15)  [Next](wfb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb15)  [Next](wfb17.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ There is a moral to this story, but it does not signify.
 
 ------------------------------------------------------------------------
 
-[Next: The Green Isles of the Ocean](wfb17)
+[Next: The Green Isles of the Ocean](wfb17.md)

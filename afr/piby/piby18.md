@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby17)  [Next](piby19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby17)  [Next](piby19.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ Then came forth the Shepherdmiss Muriel, daughter of Athlyi, who fell
 upon her knees saying, "Let thy blood fall upon me that I bear it
 through the ages." The shepherd let his blood fall upon her.
 
-Then came forward also Sister Mary Howard, [Stear](errata.htm#4) of the
+Then came forward also Sister Mary Howard, [Stear](errata.htm#4.md) of the
 Nourishers and Saints. She bound up the Shepherd's wound.
 
 "I am a witness of this blood," the Stear uttered, but the Shepherd
@@ -73,8 +73,8 @@ oppression at the hands of Europe all the days of his unbelief.
 father, who sent me."
 
 "For thus saith the Lord our God, I shall not send
-[Japheth](errata.htm#5) to Ham, neither will I send to Shem,
-[Japheth](errata.htm#6). But in time of peril I shall appoint from among
+[Japheth](errata.htm#5.md) to Ham, neither will I send to Shem,
+[Japheth](errata.htm#6.md). But in time of peril I shall appoint from among
 them a savior whose word shall reign forever."
 
 "They that refuseth their own in me, shall find no other. But slavery
@@ -92,4 +92,4 @@ therefore thou shalt be an everlasting light and power upon the earth."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 14. Heaven and Hell](piby19)
+[Next: Chapter 14. Heaven and Hell](piby19.md)

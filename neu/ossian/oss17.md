@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss16)  [Next](oss18) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss16)  [Next](oss18.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ maid! He remembers the days of his youth!
 
 The king commanded; I raised my sails, and rushed into the bay of Croma;
 into Croma's sounding bay in lovely Inisfail. <span
-id="fr_54"></span>[1](#fn_54) High on the coast arose the towers of
+id="fr_54"></span>[1](#fn_54.md) High on the coast arose the towers of
 Crothar king of spears; Crothar renowned in the battles of his youth;
 but age dwelt then around the
 
@@ -168,9 +168,9 @@ them!"
 
 ### Footnotes
 
-<span id="fn_54"></span>[250:1](oss17.htm#fr_54) Inisfail: one of the
+<span id="fn_54"></span>[250:1](oss17.htm#fr_54.md) Inisfail: one of the
 ancient names of Ireland.
 
 ------------------------------------------------------------------------
 
-[Next: Calthon And Colmal](oss18)
+[Next: Calthon And Colmal](oss18.md)

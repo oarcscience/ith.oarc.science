@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](pre02)  [Next](pre04) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](pre02)  [Next](pre04.md) 
 
 ------------------------------------------------------------------------
 
@@ -214,4 +214,4 @@ another tongue than this.
 
 ------------------------------------------------------------------------
 
-[Next: Gylfaginning](pre04)
+[Next: Gylfaginning](pre04.md)

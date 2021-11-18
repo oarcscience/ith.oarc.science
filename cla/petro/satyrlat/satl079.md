@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat12.htm#LXXIX) 
-[Previous](satl078)  [Next](satl080) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#LXXIX.md) 
+[Previous](satl078)  [Next](satl080.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ puerum dividamus".
 
 ------------------------------------------------------------------------
 
-[Next: LXXX](satl080)
+[Next: LXXX](satl080.md)

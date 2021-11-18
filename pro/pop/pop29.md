@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop28)  [Next](pop30) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop28)  [Next](pop30.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ time, thus is your council destroyed.'
 
 ------------------------------------------------------------------------
 
-[Next: The Twenty-Fifth Figure](pop30)
+[Next: The Twenty-Fifth Figure](pop30.md)

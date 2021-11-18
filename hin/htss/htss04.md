@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](htss03)  [Next](htss05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](htss03)  [Next](htss05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Tamil Saivite Saints*, by F. Kingsbury and G.P. Phillips,
 \[1921\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_03400"></span> <span align="CENTER">
 [![Apparswāmī](tn/03400.jpg)  
-Click to enlarge](img/03400.jpg)  
+Click to enlarge](img/03400.jpg.md)  
 Apparswāmī  
 </span>
 
@@ -713,6 +713,6 @@ Or watch it, bubble-like, appear,
 
 ------------------------------------------------------------------------
 
-[Next: Sundaramūrti Swāmi and his Hymns](htss05)
+[Next: Sundaramūrti Swāmi and his Hymns](htss05.md)
 
 </div>

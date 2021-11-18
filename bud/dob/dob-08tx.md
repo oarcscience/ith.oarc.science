@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-08in) [Next](dob-09in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-08in) [Next](dob-09in.md)
 
 ------------------------------------------------------------------------
 
@@ -200,7 +200,7 @@ same. The differences are just such as would arise when two authors are
 drawing upon ope uniform tradition.
 
 It would seem from M. I, 238, if compared with I, 524, that it was the
-Â*g*îvakas (see note above on [p. 71](dob-02tx.htm#p.%2071)) who were
+Â*g*îvakas (see note above on [p. 71](dob-02tx.htm#p.%2071).md) who were
 more especially known for the practice of these forms of asceticism: and
 from M. I, 167 that it was these forms that had been followed by Gotama
 himself before his eyes were opened, before he attained to Nirvâ*n*a.
@@ -478,7 +478,7 @@ not in the ordinary sense, but of the ideal *religieux*. Gotama, in his
 answer, keeps the word; but he means. something quite different, he
 means an Arahat. On the persistent way in which the Pi*t*aka texts try
 to put this new meaning into the word, see above, in the [Introduction
-to the Kû*t*adanta](dob-05in).}
+to the Kû*t*adanta](dob-05in.md).}
 
 <span id="p. 233">{p. 233}</span>
 
@@ -590,40 +590,40 @@ Under Conduct (Sila).
 
    1. The paragraphs on the appearance of a Buddha, the conversion of a
 layman, his entry into the Order (§§ 40-42 above, [pp.
-78-79](dob-02tx.htm#p.%2078)).
+78-79](dob-02tx.htm#p.%2078).md).
 
 <span id="p. 236">{p. 236}</span>
 
    2. The Sîlas, as in the Brahma-*g*âla, [§§
-8-27](dob-01tx.htm#text%20p.%204). See above, [pp. 57,
-58](dob-02in.htm#p.%2057).
+8-27](dob-01tx.htm#text%20p.%204.md). See above, [pp. 57,
+58](dob-02in.htm#p.%2057.md).
 
    3. The paragraph on Confidence (§ 63 above, [p.
-79](dob-02tx.htm#p.%2079)).
+79](dob-02tx.htm#p.%2079).md).
 
  
 
 Under the heart (*K*itta).
 
    4. The paragraph on 'Guarded is the door of his senses' (§ 64 above,
-[pp. 79, 80](dob-02tx.htm#p.%2079)).
+[pp. 79, 80](dob-02tx.htm#p.%2079).md).
 
    5. The paragraph on 'Mindful and Self-possessed' (§ 65 above, [pp.
-80, 81](dob-02tx.htm#p.%2080)).
+80, 81](dob-02tx.htm#p.%2080).md).
 
    6. The paragraph on Simplicity of Life, being content with little (§
-66 above, [p. 81](dob-02tx.htm#p.%2081)).
+66 above, [p. 81](dob-02tx.htm#p.%2081).md).
 
    7. The paragraphs on Emancipation from the Five
 Hindrances--covetousness, ill-temper, laziness, worry, and perplexity
-(§§ 67-74 above, [pp. 82-84](dob-02tx.htm#p.%2082)).
+(§§ 67-74 above, [pp. 82-84](dob-02tx.htm#p.%2082).md).
 
    8. The paragraph on the Joy and Peace, that, as a result of this
 emancipation, fills his whole being (§ 75 above, [p.
-84](dob-02tx.htm#p.%2084)).
+84](dob-02tx.htm#p.%2084).md).
 
    9. The paragraphs on the Four Ecstasies (*Gh*ânas,--§§ 75-82 above,
-[pp. 84-86](dob-02tx.htm#p.%2084)).
+[pp. 84-86](dob-02tx.htm#p.%2084).md).
 
  
 
@@ -631,10 +631,10 @@ Under Intelligence (Pa*ññ*â).
 
    10. The paragraphs on the Insight arising from Knowledge
 (*Ñ*â*n*a-dassana,--§§ 83, 84 above, [pp. 86,
-87](dob-02tx.htm#p.%2086).)
+87](dob-02tx.htm#p.%2086)..md)
 
    11. The paragraphs on the power of projecting mental images (§§ 85,
-86 above, [p. 87](dob-02tx.htm#p.%2087)).
+86 above, [p. 87](dob-02tx.htm#p.%2087).md).
 
    12. The paragraphs on the five modes of special intuition
 (abhi*ññ*â):--
@@ -835,5 +835,5 @@ is evident that the titles were considered a very secondary matter.}
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the Po*tth*apâda
-Sutta](dob-09in)
+[Return to top](#top.md)   [Next: Introduction to the Po*tth*apâda
+Sutta](dob-09in.md)

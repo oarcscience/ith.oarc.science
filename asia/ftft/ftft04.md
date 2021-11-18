@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft03)  [Next](ftft05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft03)  [Next](ftft05.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_3">p. 3</span>
 
-<span id="img_00300"></span> ![The Brother and Sister](img/00300.jpg)
+<span id="img_00300"></span> ![The Brother and Sister](img/00300.jpg.md)
 
 <span id="img_oinit"></span>
 
 |                     |
 |---------------------|
-| ![O](img/oinit.jpg) |
+| ![O](img/oinit.jpg.md) |
 
 NCE UPON A TIME there was an old Padishah who had a son and a daughter.
 In due time he died and his son reigned in his stead, and it was not
@@ -88,7 +88,7 @@ courage to do so and the Padishah, aroused to anger, gave orders to
 <span id="img_00500"></span>
 
 [![The Padishah gave orders to fell the tree](tn/00500.jpg)  
-Click to enlarge](img/00500.jpg)  
+Click to enlarge](img/00500.jpg.md)  
 The Padishah gave orders to fell the tree  
 
 <span id="page_6">p. 6</span>
@@ -107,7 +107,7 @@ it, and lo! the trunk became thicker than it was before.
 
 |                                                           |
 |-----------------------------------------------------------|
-| ![She poured the water beside the vessel.](img/00600.jpg) |
+| ![She poured the water beside the vessel.](img/00600.jpg.md) |
 
 Next morning the stag went into the forest again, and when the
 Padishah's people came, great was their surprise to see that not only
@@ -173,7 +173,7 @@ saying "This is the brother-in-law's bone; this is the sister's bone."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 ime comes and goes, storytime more quickly, and with lovers the most
 quickly of all. Ours would have lived altogether happily but for a black
@@ -214,7 +214,7 @@ The Padishah
 <span id="img_00900"></span>
 
 [![The Padishah recovers his wife](tn/00900.jpg)  
-Click to enlarge](img/00900.jpg)  
+Click to enlarge](img/00900.jpg.md)  
 The Padishah recovers his wife  
 
 <span id="page_10">p. 10</span>
@@ -225,7 +225,7 @@ thereupon gave orders to sharpen the knife and heat water in the boiler.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE poor stag perceived the hurrying to and fro, and understood full well
 its dire significance. He fled to the pond in the garden and called
@@ -279,4 +279,4 @@ out to do.
 
 ------------------------------------------------------------------------
 
-[Next: Fear](ftft05)
+[Next: Fear](ftft05.md)

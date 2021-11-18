@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hft05)  [Next](hft07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hft05)  [Next](hft07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hawaiian Folk Tales*, by Thomas G. Thrum, \[1907\], at Intangible
 Textual Heritage
 
@@ -70,9 +70,9 @@ land of Hapakuela and have dwelt in Hawaii-nei, Pele coming first and
 the rest following at a later time.
 
 On her first arrival at Hawaii-nei, Pele dwelt on the island of Kauai.
-From there she went to Kalaupapa, <span id="fr_0"></span>[1](#fn_0) on
+From there she went to Kalaupapa, <span id="fr_0"></span>[1](#fn_0.md) on
 the island of Molokai, and dwelt in the crater of Kauhako at that place;
-thence she departed to Puulaina, <span id="fr_1"></span>[2](#fn_1) near
+thence she departed to Puulaina, <span id="fr_1"></span>[2](#fn_1.md) near
 Lahainaluna, where she dug out that crater. Afterward she moved still
 further to Haleakala,
 
@@ -80,18 +80,18 @@ further to Haleakala,
 
 where she stayed until she hollowed out that great crater; and finally
 she settled at Kilauea, on the island of Hawaii, where she has remained
-ever since. <span id="fr_2"></span>[1](#fn_2)
+ever since. <span id="fr_2"></span>[1](#fn_2.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[37:1](hft06.htm#fr_0) Now the Leper Settlement.
+<span id="fn_0"></span>[37:1](hft06.htm#fr_0.md) Now the Leper Settlement.
 
-<span id="fn_1"></span>[37:2](hft06.htm#fr_1) The hill visible from the
+<span id="fn_1"></span>[37:2](hft06.htm#fr_1.md) The hill visible from the
 Lahaina anchorage to the north of Lahainaluna School, and near to it.
 
-<span id="fn_2"></span>[38:1](hft06.htm#fr_2) It is not a little
+<span id="fn_2"></span>[38:1](hft06.htm#fr_2.md) It is not a little
 remarkable that the progress of Pele, as stated in this tradition,
 agrees with geological observation in locating the earliest volcanic
 action in this group, on the island of Kauai, and the latest, on the
@@ -99,4 +99,4 @@ island of Hawaii.--*Translator*.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Pele And Kahawali](hft07)
+[Next: IV. Pele And Kahawali](hft07.md)

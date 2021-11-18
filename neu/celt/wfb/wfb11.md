@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb10)  [Next](wfb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb10)  [Next](wfb12.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ as his foot touches it.
 
 ------------------------------------------------------------------------
 
-[Next: Lyn Cwm Llwch](wfb12)
+[Next: Lyn Cwm Llwch](wfb12.md)

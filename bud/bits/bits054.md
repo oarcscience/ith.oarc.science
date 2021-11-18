@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits053) [Next](bits055)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits053) [Next](bits055.md)
 
 ------------------------------------------------------------------------
 
@@ -128,7 +128,7 @@ The Sâketa Birth-Story.
 
 ------------------------------------------------------------------------
 
-[Next: § 55. Virtue Is Its Own Reward](bits055)
+[Next: § 55. Virtue Is Its Own Reward](bits055.md)
 
  
 

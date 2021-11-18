@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb18)  [Next](boeb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb18)  [Next](boeb20.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Sae we may mak' our dinner sweet.
  
 
 <span id="img_12401"></span> [![](tn/12401.jpg)  
-Click to enlarge](img/12401.jpg)
+Click to enlarge](img/12401.jpg.md)
 
  
 
@@ -49,4 +49,4 @@ The wind shall blaw for evermair."
 
 ------------------------------------------------------------------------
 
-[Next: Waly, Waly, Love be Bonny](boeb20)
+[Next: Waly, Waly, Love be Bonny](boeb20.md)

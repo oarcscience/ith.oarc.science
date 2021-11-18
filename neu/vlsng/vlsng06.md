@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng05)  [Next](vlsng07) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng05)  [Next](vlsng07.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Of the Slaying of King Volsung.](vlsng07)
+[Next: Chapter V: Of the Slaying of King Volsung.](vlsng07.md)

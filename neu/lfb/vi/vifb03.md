@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb02)  [Next](vifb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb02)  [Next](vifb04.md) 
 
 </div>
 
@@ -427,6 +427,6 @@ was the last that was ever heard of the Tontlawald.
 
 ------------------------------------------------------------------------
 
-[Next: The Finest Liar in the World](vifb04)
+[Next: The Finest Liar in the World](vifb04.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml09)  [Next](tml11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml09)  [Next](tml11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -164,7 +164,7 @@ Then it came about that Halfdan caused Orvandel to make trial of his
 skill, for hearing he had boasted that he could with the first arrow
 from his bow hit a small apple placed upon a stick at a great distance,
 he ordered Svipdag to stand with an apple upon his head. <span
-id="fr_17"></span>[1](#fn_17) Then he commanded Orvandel to perform the
+id="fr_17"></span>[1](#fn_17.md) Then he commanded Orvandel to perform the
 deed of which he had boasted on penalty of his life, but promised him
 his freedom if he achieved success.
 
@@ -196,7 +196,7 @@ she, with
 <span id="img_04800"></span> <span align="CENTER"> [![A
 VALKYRIE&lt;br&gt; From the sculpture by Sinding&lt;br&gt; Photographed
 by Vilhelm Tryde](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)  
+Click to enlarge](img/04800.jpg.md)  
 A VALKYRIE  
 From the sculpture by Sinding  
 Photographed by Vilhelm Tryde  
@@ -348,9 +348,9 @@ waste.
 
 ### Footnotes
 
-<span id="fn_17"></span>[48:1](tml10.htm#fr_17) Saga version of William
+<span id="fn_17"></span>[48:1](tml10.htm#fr_17.md) Saga version of William
 Tell myth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Triumph of Love](tml11)
+[Next: Chapter VI. Triumph of Love](tml11.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft15)  [Next](efft17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft15)  [Next](efft17.md) 
 
 ------------------------------------------------------------------------
 
-# BOMERE POOL.  <span id="fr_17"></span>[1](#fn_17)
+# BOMERE POOL.  <span id="fr_17"></span>[1](#fn_17.md)
 
 MANY years ago a village stood in the hollow which is now filled up by
 the mere. But the inhabitants were a wicked race, who mocked at God and
@@ -51,9 +51,9 @@ the Sanctus bell tolling.
 
 ### Footnotes
 
-<span id="fn_17"></span>[1](efft16.htm#fr_17) Miss C. S. Burne,
+<span id="fn_17"></span>[1](efft16.htm#fr_17.md) Miss C. S. Burne,
 *Shropshire Folk-Lore*, p. 64.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of the Wrekin](efft17)
+[Next: The Origin of the Wrekin](efft17.md)

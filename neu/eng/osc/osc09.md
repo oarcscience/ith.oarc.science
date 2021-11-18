@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc08)  [Next](osc10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc08)  [Next](osc10.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ ecclesiastical remainder which has become a social habit.
 
 ------------------------------------------------------------------------
 
-[Next: (7) Good Friday Loaves](osc10)
+[Next: (7) Good Friday Loaves](osc10.md)

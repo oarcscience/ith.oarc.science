@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl02)  [Next](hhl04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl02)  [Next](hhl04.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ W. D. W.
 
 ------------------------------------------------------------------------
 
-[Next: Pronunciation](hhl04)
+[Next: Pronunciation](hhl04.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww10)  [Next](lww12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww10)  [Next](lww12.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ word.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII--The Chest Opened](lww12)
+[Next: Chapter XII--The Chest Opened](lww12.md)

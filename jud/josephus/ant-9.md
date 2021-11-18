@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ himself instructed them thus, and gone over every city of the two
 tribes, he returned to Jerusalem. He there also constituted judges out
 of the priests and the Levites, and principal persons of the multitude,
 and admonished them to pass all their sentences with care and justice
-<span id="EndNote Ant 9.1a"></span>[(1)](#EndNote%20Ant%209.1b) And that
+<span id="EndNote Ant 9.1a"></span>[(1)](#EndNote%20Ant%209.1b.md) And that
 if any of the people of his country had differences of great
 consequence, they should send them out of the other cities to these
 judges, who would be obliged to give righteous sentences concerning such
@@ -50,7 +50,7 @@ against Jehoshaphat, ,and took with them a great body of Arabians, and
 pitched their camp at Engedi, a city that is situate at the lake
 Asphaltiris, and distant three hundred furlongs from Jerusalem. In that
 place grows the best kind of palm trees, and the opobalsamum. <span
-id="EndNote Ant 9.2a"></span>[(2)](#EndNote%20Ant%209.2b) Now
+id="EndNote Ant 9.2a"></span>[(2)](#EndNote%20Ant%209.2b.md) Now
 Jehoshaphat heard that the enemies had passed over the lake, and had
 made an irruption into that country which belonged to his kingdom; at
 which news he was aftrighted, and called the people of Jerusalem to a
@@ -105,7 +105,7 @@ account of his righteousness and his piety towards God. He was also in
 friendship with Ahab's son, who was king of Israel; and he joined with
 him in the building of ships that were to sail to Pontus, and the
 traffic cities of Thrace <span
-id="EndNote Ant 9.3a"></span>[(3)](#EndNote%20Ant%209.3b) but he failed
+id="EndNote Ant 9.3a"></span>[(3)](#EndNote%20Ant%209.3b.md) but he failed
 of his gains, for the ships were destroyed by being so great \[and
 unwieldy\]; on which account he was no longer concerned about shipping.
 And this is the history of Jehoshaphat, the king of Jerusalem.
@@ -124,7 +124,7 @@ before paid to his father Ahab. Now it happened that Ahaziah, as he was
 coming down from the top of his house, fell down from it, and in his
 sickness sent to the Fly, which was the god of Ekron, for that was this
 god's name, to inquire about his recovery <span
-id="EndNote Ant 9.4a"></span>[(4)](#EndNote%20Ant%209.4b) but the God of
+id="EndNote Ant 9.4a"></span>[(4)](#EndNote%20Ant%209.4b.md) but the God of
 the Hebrews appeared to Elijah the prophet, and commanded him to go and
 meet the messengers that were sent, and to ask them, whether the people
 of Israel had pot a God of their own, that the king sent to a foreign
@@ -146,7 +146,7 @@ come down, and to come to the king, for so had he enjoined; but that in
 case he refused, they would carry him by force. Elijah said to him,
 "That you may have a trial whether I be a true prophet, I will pray that
 fire may fall from heaven, and destroy both the soldiers and yourself.”
-<span id="EndNote Ant 9.5a"></span>[(5)](#EndNote%20Ant%209.5b) So he
+<span id="EndNote Ant 9.5a"></span>[(5)](#EndNote%20Ant%209.5b.md) So he
 prayed, and a whirlwind of fire fell \[from heaven\], and destroyed the
 captain, and those that were with him. And when the king was informed of
 the destruction of these men, he was very angry, and sent another
@@ -230,7 +230,7 @@ cattle be saved for you by drinking of it. Nor will this be all the
 favor that you shall receive from God, but you shall also overcome your
 enemies, and take the best and strongest cities of the Moabites, and you
 shall cut down their fruit trees, <span
-id="EndNote Ant 9.6a"></span>[(6)](#EndNote%20Ant%209.6b) and lay waste
+id="EndNote Ant 9.6a"></span>[(6)](#EndNote%20Ant%209.6b.md) and lay waste
 their country, and stop up their fountains and rivers."
 
 2\. When the prophet had said this, the next day, before the sun-rising,
@@ -290,7 +290,7 @@ particularly, for they were illustrious, and worthy to be related, as we
 have them set down in the sacred books.
 
 2\. For they say that the widow of Obadiah <span
-id="EndNote Ant 9.7a"></span>[(7)](#EndNote%20Ant%209.7b) Ahab's
+id="EndNote Ant 9.7a"></span>[(7)](#EndNote%20Ant%209.7b.md) Ahab's
 steward, came to him, and said, that he was not ignorant how her husband
 had preserved the prophets that were to be slain by Jezebel, the wife of
 Ahab; for she said that he hid a hundred of them, and had borrowed money
@@ -312,7 +312,7 @@ her children. And thus did Elisha discharge the woman's debts, and free
 her from the vexation of her creditors.
 
 3\. Elisha also sent a hasty message to Joram, <span
-id="EndNote Ant 9.8a"></span>[(8)](#EndNote%20Ant%209.8b) and exhorted
+id="EndNote Ant 9.8a"></span>[(8)](#EndNote%20Ant%209.8b.md) and exhorted
 him to take care of that place, for that therein were some Syrians lying
 in ambush to kill him. So the king did as the prophet exhorted him, and
 avoided his going a hunting. And when Benhadad missed of the success of
@@ -360,7 +360,7 @@ those that are taken in battle, but that these men had done the country
 no harm, but, without knowing it, were come thither by the Divine
 Power:" — so that his counsel was to treat them in a hospitable manner
 at his table, and then send them away without hurting them. <span
-id="EndNote Ant 9.9a"></span>[(9)](#EndNote%20Ant%209.9b) Wherefore
+id="EndNote Ant 9.9a"></span>[(9)](#EndNote%20Ant%209.9b.md) Wherefore
 Joram obeyed the prophet; and when he had feasted the Syrians in a
 splendid and magnificent manner, he let them go to Benhadad their king.
 
@@ -408,7 +408,7 @@ they were surrounded; and sent one away immediately to cut off his head,
 who made haste to kill the prophet. But Elisha was not unacquainted with
 the wrath of the king against him; for as he sat in his house by
 himself, with none but his disciples about him, he told them that Joram,
-<span id="EndNote Ant 9.10a"></span>[(10)](#EndNote%20Ant%209.10b) who
+<span id="EndNote Ant 9.10a"></span>[(10)](#EndNote%20Ant%209.10b.md) who
 was the son of a murderer, had sent one to take away his head; "but,"
 said he, "when he that is commanded to do this comes, take care that you
 do not let him come in, but press the door against him, and hold him
@@ -439,7 +439,7 @@ them."
 
 5\. Now what Elisha had thus foretold came to pass in the manner
 following: There was a law at Samaria <span
-id="EndNote Ant 9.11a"></span>[(11)](#EndNote%20Ant%209.11b) that those
+id="EndNote Ant 9.11a"></span>[(11)](#EndNote%20Ant%209.11b.md) that those
 that had the leprosy, and whose bodies were not cleansed from it, should
 abide without the city: and there were four men that on this account
 abode before the gates, while nobody gave them any food, by reason of
@@ -542,7 +542,7 @@ stones, and wilt rip up their women with child." And when Hazael said,
 prophet replied, that God had informed him that he should be king of
 Syria. So when Hazael was come to Benhadad, he told him good news
 concerning his distemper <span
-id="EndNote Ant 9.12a"></span>[(12)](#EndNote%20Ant%209.12b) but on the
+id="EndNote Ant 9.12a"></span>[(12)](#EndNote%20Ant%209.12b.md) but on the
 next day he spread a wet cloth, in the nature of a net, over him, and
 strangled him, and took his dominion. He was an active man, and had the
 good-will of the Syrians, and of the people of Damascus, to a great
@@ -551,7 +551,7 @@ are honored to this day as gods, by reason of their benefactions, and
 their building them temples by which they adorned the city of the
 Damascenes. They also every day do with great pomp pay their worship to
 these kings, <span
-id="EndNote Ant 9.13a"></span>[(13)](#EndNote%20Ant%209.13b) and value
+id="EndNote Ant 9.13a"></span>[(13)](#EndNote%20Ant%209.13b.md) and value
 themselves upon their antiquity; nor do they know that these kings are
 much later than they imagine, and that they are not yet eleven hundred
 years old. Now when Joram, the king of Israel, heard that Berthadad was
@@ -588,7 +588,7 @@ worship foreign gods.
 
 2\. As he was doing this, and had entirely cast his own country laws out
 of his mind, there was brought him an epistle from Elijah the prophet
-<span id="EndNote Ant 9.14a"></span>[(14)](#EndNote%20Ant%209.14b) which
+<span id="EndNote Ant 9.14a"></span>[(14)](#EndNote%20Ant%209.14b.md) which
 declared that God would execute great judgments upon him, because he had
 not imitated his own fathers, but had followed the wicked courses of the
 kings of Israel; and had compelled the tribe of Judah, and the citizens
@@ -659,7 +659,7 @@ the words of a madman;" and when they were eager about the matter, and
 desired he would tell them, he answered, that God had said he had chosen
 him to be king over the multitude. When he had said this, every one of
 them put off his garment, <span
-id="EndNote Ant 9.15a"></span>[(15)](#EndNote%20Ant%209.15b) and strewed
+id="EndNote Ant 9.15a"></span>[(15)](#EndNote%20Ant%209.15b.md) and strewed
 it under him, and blew with trumpets, and gave notice that Jehu was
 king. So when he had gotten the army together, he was preparing to set
 out immediately against Joram, at the city Jezreel, in which city, as we
@@ -691,7 +691,7 @@ this also to Joram, he at last got upon his chariot himself, together
 with Ahaziah, the king of Jerusalem; for, as we said before, he was
 there to see how Joram did, after he had been wounded, as being his
 relation. So he went out to meet Jehu, who marched slowly, <span
-id="EndNote Ant 9.16a"></span>[(16)](#EndNote%20Ant%209.16b) and in good
+id="EndNote Ant 9.16a"></span>[(16)](#EndNote%20Ant%209.16b.md) and in good
 order; and when Joram met him in the field of Naboth, he asked him if
 all things were well in the camp; but Jehu reproached him bitterly, and
 ventured to call his mother a witch and a harlot. Upon this the king,
@@ -1030,7 +1030,7 @@ the thirty-seventh year of Jehoash, the king of the tribe of Judah. This
 Joash then took the kingdom of Israel in Samaria, for he had the same
 name with the king of Jerusalem, and he retained the kingdom sixteen
 years. He was a good man, <span
-id="EndNote Ant 9.17a"></span>[(17)](#EndNote%20Ant%209.17b) and in his
+id="EndNote Ant 9.17a"></span>[(17)](#EndNote%20Ant%209.17b.md) and in his
 disposition was not at all like his father. Now at this time it was that
 when Elisha the prophet, who was already very old, and was now fallen
 into a disease, the king of Israel came to visit him; and when he found
@@ -1183,7 +1183,7 @@ HIM; AND WHAT BEFELL HIM WHEN HE ATTEMPTED TO OFFER INCENSE TO GOD.**
 1\. IN the fifteenth year of the reign of Amaziah, Jeroboam the son of
 Joash reigned over Israel in Samaria forty years. This king was guilty
 of contumely against God, <span
-id="EndNote Ant 9.18a"></span>[(18)](#EndNote%20Ant%209.18b) and became
+id="EndNote Ant 9.18a"></span>[(18)](#EndNote%20Ant%209.18b.md) and became
 very wicked in worshipping of idols, and in many undertakings that were
 absurd and foreign. He was also the cause of ten thousand misfortunes to
 the people of Israel. Now one Jonah, a prophet, foretold to him that he
@@ -1202,7 +1202,7 @@ when he was there, to publish it in that city, how it should lose the
 dominion it had over the nations. But he went not, out of fear; nay, he
 ran away from God to the city of Joppa, and finding a ship there, he
 went into it, and sailed to Tarsus, in Cilicia <span
-id="EndNote Ant 9.19a"></span>[(19)](#EndNote%20Ant%209.19b) and upon
+id="EndNote Ant 9.19a"></span>[(19)](#EndNote%20Ant%209.19b.md) and upon
 the rise of a most terrible storm, which was so great that the ship was
 in danger of sinking, the mariners, the master, and the pilot himself,
 made prayers and vows, in case they escaped the sea: but Jonah lay still
@@ -1211,7 +1211,7 @@ did; but as the waves grew greater, and the sea became more violent by
 the winds, they suspected, as is usual in such cases, that some one of
 the persons that sailed with them was the occasion of this storm, and
 agreed to discover by lot which of them it was. When they had cast lots,
-<span id="EndNote Ant 9.20a"></span>[(20)](#EndNote%20Ant%209.20b) the
+<span id="EndNote Ant 9.20a"></span>[(20)](#EndNote%20Ant%209.20b.md) the
 lot fell upon the prophet; and when they asked him whence he came, and
 what he had done? he replied, that he was a Hebrew by nation, and a
 prophet of Almighty God; and he persuaded them to cast him into the sea,
@@ -1286,7 +1286,7 @@ when they cried out that he must go out of the temple, and not
 transgress against God, he was wroth at them, and threatened to kill
 them, unless they would hold their peace. In the mean time a great
 earthquake shook the ground <span
-id="EndNote Ant 9.21a"></span>[(21)](#EndNote%20Ant%209.21b) and a rent
+id="EndNote Ant 9.21a"></span>[(21)](#EndNote%20Ant%209.21b.md) and a rent
 was made in the temple, and the bright rays of the sun shone through it,
 and fell upon the king's face, insomuch that the leprosy seized upon him
 immediately. And before the city, at a place called Eroge, half the
@@ -1337,7 +1337,7 @@ Assyrians, but he persuaded him to accept of a thousand talents of
 silver, and to go away, and so put an end to the war. This sum the
 multitude collected for Menahem, by exacting fifty drachme as poll-money
 for every head; <span
-id="EndNote Ant 9.22a"></span>[(22)](#EndNote%20Ant%209.22b) after which
+id="EndNote Ant 9.22a"></span>[(22)](#EndNote%20Ant%209.22b.md) after which
 he died, and was buried in Samaria, and left his son Pekahiah his
 successor in the kingdom, who followed the barbarity of his father, and
 so ruled but two years only, after which he was slain with his friends
@@ -1369,7 +1369,7 @@ it, and his own people lived happily.
 3\. Now there was at that time a prophet, whose name was Nahum, who
 spake after this manner concerning the overthrow of the Assyrians and of
 Nineveh: "Nineveh shall be a pool of water in motion <span
-id="EndNote Ant 9.23a"></span>[(23)](#EndNote%20Ant%209.23b) so shall
+id="EndNote Ant 9.23a"></span>[(23)](#EndNote%20Ant%209.23b.md) so shall
 all her people be troubled, and tossed, and go away by flight, while
 they say one to another, Stand, stand still, seize their gold and
 silver, for there shall be no one to wish them well, for they will
@@ -1589,7 +1589,7 @@ COUNTRY \[IN THEIR ROOM\].**
 Egypt, desiring his assistance against him, he was very angry, and made
 an expedition against Samaria, in the seventh year of the reign of
 Hoshea; but when he was not admitted \[into the city\] by the king,
-<span id="EndNote Ant 9.24a"></span>[(24)](#EndNote%20Ant%209.24b) he
+<span id="EndNote Ant 9.24a"></span>[(24)](#EndNote%20Ant%209.24b.md) he
 besieged Samaria three years, and took it by force in the ninth year of
 the reign of Hoshea, and in the seventh year of Hezekiah, king of
 Jerusalem, and quite demolished the government of the Israelites, and
@@ -1667,17 +1667,17 @@ discourse hereafter.
 
 ENDNOTE
 
-<span id="EndNote Ant 9.1b"></span>[(1)](#EndNote%20Ant%209.1a) These
+<span id="EndNote Ant 9.1b"></span>[(1)](#EndNote%20Ant%209.1a.md) These
 judges constituted by Jehoshaphat were a kind of Jerusalem Sanhedrim,
 out of the priests, the Levites, and the principal of the people, both
 here and 2 Chronicles 19:8; much like the old Christian judicatures of
 the bishop, the presbyters, the deacons, and the people.
 
-<span id="EndNote Ant 9.2b"></span>[(2)](#EndNote%20Ant%209.2a)
+<span id="EndNote Ant 9.2b"></span>[(2)](#EndNote%20Ant%209.2a.md)
 Concerning this precious balsam, see the note on Atiq. B. VIII. ch. 6.
 sect. 6.
 
-<span id="EndNote Ant 9.3b"></span>[(3)](#EndNote%20Ant%209.3a) What are
+<span id="EndNote Ant 9.3b"></span>[(3)](#EndNote%20Ant%209.3a.md) What are
 here Pontus and Thrace, as the places whither Jehoshaphat's fleet
 sailed, are in our other copies Ophir and Tarshish, and the place whence
 it sailed is in them Eziongeber, which lay on the Red Sea, whence it was
@@ -1690,13 +1690,13 @@ and not in the South Sea, though perhaps there might be another Ophir in
 that South Sea also, and that fleets might then sail both from Phoenicia
 and from the Red Sea to fetch the gold of Ophir.
 
-<span id="EndNote Ant 9.4b"></span>[(4)](#EndNote%20Ant%209.4a) This god
+<span id="EndNote Ant 9.4b"></span>[(4)](#EndNote%20Ant%209.4a.md) This god
 of flies seems to have been so called, as was the like god among the
 Greeks, from his supposed power over flies, in driving them away from
 the flesh of their sacrifices, which otherwise would have been very
 troublesome to them.
 
-<span id="EndNote Ant 9.5b"></span>[(5)](#EndNote%20Ant%209.5a) It is
+<span id="EndNote Ant 9.5b"></span>[(5)](#EndNote%20Ant%209.5a.md) It is
 commonly esteemed a very cruel action of Elijah, when he called for fire
 from heaven, and consumed no fewer than two captains and a hundred
 soldiers, and this for no other crime than obeying the orders of their
@@ -1719,7 +1719,7 @@ commands of their leaders or kings cannot justify or excuse them in
 doing what is wicked in the sight of God, or in fighting in an unjust
 cause, when they know it so to be.
 
-<span id="EndNote Ant 9.6b"></span>[(6)](#EndNote%20Ant%209.6a) This
+<span id="EndNote Ant 9.6b"></span>[(6)](#EndNote%20Ant%209.6a.md) This
 practice of cutting down, or plucking up by the roots, the fruit trees
 was forbidden, even in ordinary wars, by the law of Moses, Deuteronomy
 20:19, 20, and only allowed by God in this particular case, when the
@@ -1730,7 +1730,7 @@ particular commission from God by his prophet, as in the present case,
 which was ever a sufficient warrant for breaking any such ritual or
 ceremonial law whatsoever.
 
-<span id="EndNote Ant 9.7b"></span>[(7)](#EndNote%20Ant%209.7a) That
+<span id="EndNote Ant 9.7b"></span>[(7)](#EndNote%20Ant%209.7a.md) That
 this woman who cried to Elisha, and who in our Bible is styled "the wife
 of one of the sons of the prophets," 2 Kings 4:1, was no other than the
 widow of Obadiah, the good steward of Ahab, is confirmed by the Chaldee
@@ -1744,7 +1744,7 @@ the fear of that slavery which insolvent debtors were liable to by the
 law of Moses, Leviticus 25:39; Matthew 18:25; which he did accordingly,
 with God's help, at the expense of a miracle.
 
-<span id="EndNote Ant 9.8b"></span>[(8)](#EndNote%20Ant%209.8a) Dr.
+<span id="EndNote Ant 9.8b"></span>[(8)](#EndNote%20Ant%209.8a.md) Dr.
 Hudson, with very good reason, suspects that there is no small defect in
 our present copies of Josephus, just before the beginning of this
 section, and that chiefly as to that distinct account which he had given
@@ -1773,7 +1773,7 @@ thing. And Elisha said, Go in peace." This looks like a prophet's
 permission for being partaker in idolatry itself, out of compliance with
 an idolatrous court.
 
-<span id="EndNote Ant 9.9b"></span>[(9)](#EndNote%20Ant%209.9a) Upon
+<span id="EndNote Ant 9.9b"></span>[(9)](#EndNote%20Ant%209.9a.md) Upon
 occasion of this stratagem of Elisha, in Josephus, we may take notice,
 that although Josephus was one of the greatest lovers of truth in the
 world, yet in a just war he seems to have had no manner of scruple upon
@@ -1781,7 +1781,7 @@ him by all such stratagems possible to deceive public enemies. See this
 Josephus's account of Jeremiah's imposition on the great men of the Jews
 in somewhat like case, Antiq. B. X. ch. 7. sect. 6; 2 Samuel 16:16, &c.
 
-<span id="EndNote Ant 9.10b"></span>[(10)](#EndNote%20Ant%209.10a) This
+<span id="EndNote Ant 9.10b"></span>[(10)](#EndNote%20Ant%209.10a.md) This
 son of a murderer was Joram, the son of Ahab, which Ahab slew, or
 permitted his wife Jezebel to slay, the Lord's prophets, and Naboth, 1
 Kings 18:4; 21:19; and he is here called by this name, I suppose,
@@ -1790,12 +1790,12 @@ Josephus's account of Joram's coming himself at last. as repenting of
 his intended cruelty, much more probable than that in our copies, 2
 Kings 6:33, which rather implies the contrary.
 
-<span id="EndNote Ant 9.11b"></span>[(11)](#EndNote%20Ant%209.11a) This
+<span id="EndNote Ant 9.11b"></span>[(11)](#EndNote%20Ant%209.11a.md) This
 law of the Jews, for the exclusion of lepers out of the camp in the
 wilderness, and out of the cities in Judea, is a known one, Leviticus
 13:46; Numbers 5:14.
 
-<span id="EndNote Ant 9.12b"></span>[(12)](#EndNote%20Ant%209.12a) Since
+<span id="EndNote Ant 9.12b"></span>[(12)](#EndNote%20Ant%209.12a.md) Since
 Elijah did not live to anoint Hazael king of Syria himself, as he was
 empowered to do, 1 Kings 19:15, it was most probably now done, in his
 name, by his servant and successor Elisha. Nor does it seem to me
@@ -1806,7 +1806,7 @@ or some other way of Divine punishment, as did David for many years in
 the like case, was too impatient, and the very next day smothered or
 strangled him, in order to come directly to the succession.
 
-<span id="EndNote Ant 9.13b"></span>[(13)](#EndNote%20Ant%209.13a) What
+<span id="EndNote Ant 9.13b"></span>[(13)](#EndNote%20Ant%209.13a.md) What
 Mr. Le Clerc pretends here, that it is more probable that Hazael and his
 son were worshipped by the Syrians and people of Damascus till the days
 of Josephus, than Benhadad and Hazael, because under Benhadad they had
@@ -1821,7 +1821,7 @@ them temples, is too remote from the political suspicions of Le Clerc;
 nor ought such weak suspicions to be deemed of any force against
 authentic testimonies of antiquity.
 
-<span id="EndNote Ant 9.14b"></span>[(14)](#EndNote%20Ant%209.14a) This
+<span id="EndNote Ant 9.14b"></span>[(14)](#EndNote%20Ant%209.14a.md) This
 epistle, in some copies of Josephus, is said to come to Jotare from
 Elijah, with this addition," for he was yet upon earth," which could not
 be true of Elijah, who, as all agree, was gone from the earth about four
@@ -1830,12 +1830,12 @@ more mystery here, than that the name of Elijah has very anciently crept
 into the text instead of Elisha, by the copiers, there being nothing in
 any copy of that epistle peculiar to Elijah.
 
-<span id="EndNote Ant 9.15b"></span>[(15)](#EndNote%20Ant%209.15a)
+<span id="EndNote Ant 9.15b"></span>[(15)](#EndNote%20Ant%209.15a.md)
 Spanheim here notes, that this putting off men's garments, and strewing
 them under a king, was an Eastern custom, which he had elsewhere
 explained.
 
-<span id="EndNote Ant 9.16b"></span>[(16)](#EndNote%20Ant%209.16a) Our
+<span id="EndNote Ant 9.16b"></span>[(16)](#EndNote%20Ant%209.16a.md) Our
 copies say that this "driving of the chariots was like the driving of
 Jehu the son of Nimshi; for he driveth furiously," 2 Kings 9:20; whereas
 Josephus's copy, as he understood it, was this, that, on the contrary,
@@ -1846,7 +1846,7 @@ meet him, and all this after he was come within sight of the watchman,
 and before he was come to Jezreel, the probability is greatly on the
 side of Josephus's copy or interpretation.
 
-<span id="EndNote Ant 9.17b"></span>[(17)](#EndNote%20Ant%209.17a) This
+<span id="EndNote Ant 9.17b"></span>[(17)](#EndNote%20Ant%209.17a.md) This
 character of Joash, the son of Jehoahaz, that "he was a good man, and in
 his disposition not at all like to his father," seems a direct
 contradiction to our ordinary copies, which say (2 Kings 13:11) that "he
@@ -1868,7 +1868,7 @@ Joash suited the different parts of his reign, and that, according to
 our common copies, he was at first a wicked king, and afterwards was
 reclaimed, and became a good one, according to Josephus.
 
-<span id="EndNote Ant 9.18b"></span>[(18)](#EndNote%20Ant%209.18a) What
+<span id="EndNote Ant 9.18b"></span>[(18)](#EndNote%20Ant%209.18a.md) What
 I have above noted concerning Jehoash, seems to me to have been true
 also concerning his son Jeroboam II., viz. that although he began
 wickedly, as Josephus agrees with our other copies, and, as he adds,
@@ -1881,7 +1881,7 @@ saved the Israelites by the hand of Jeroboam, the son of Joash," 2 Kings
 14:27; which encouragement by Jonah, and great successes, are equally
 observable in Josephus, and in the other copies.
 
-<span id="EndNote Ant 9.19b"></span>[(19)](#EndNote%20Ant%209.19a) When
+<span id="EndNote Ant 9.19b"></span>[(19)](#EndNote%20Ant%209.19a.md) When
 Jonah is said in our Bibles to have gone to Tarshish, Jonah 1:3,
 Josephus understood it that he went to Tarsus in Cilicia, or to the
 Mediterranean Sea, upon which Tarsus lay; so that he does not appear to
@@ -1891,7 +1891,7 @@ Josephus's assertion, that Jonah's fish was carried by the strength of
 the current, upon a nean, it is by no means an improbable determination
 in Josephus.
 
-<span id="EndNote Ant 9.20b"></span>[(20)](#EndNote%20Ant%209.20a) This
+<span id="EndNote Ant 9.20b"></span>[(20)](#EndNote%20Ant%209.20a.md) This
 ancient piece of religion, of supposing there was great sin where there
 was great misery, and of casting lots to discover great sinners, not
 only among the Israelites, but among these heathen mariners, seems a
@@ -1908,7 +1908,7 @@ coast could bring him former three thousand years of the world, till the
 days of Job nearer to Nineveh than could any coast of the Mediterranian
 and Moses.
 
-<span id="EndNote Ant 9.21b"></span>[(21)](#EndNote%20Ant%209.21a) This
+<span id="EndNote Ant 9.21b"></span>[(21)](#EndNote%20Ant%209.21a.md) This
 account of an earthquake at Jerusalem at the very same time when Uzziah
 usurped the priest's office, and went into the sanctuary to burn
 incense, and of the consequences of the earthquake, is entirely wanting
@@ -1919,7 +1919,7 @@ days of Uzziah king of Judah;" so that there seems to have been some
 considerable resemblance between these historical and prophetical
 earthquakes.
 
-<span id="EndNote Ant 9.22b"></span>[(22)](#EndNote%20Ant%209.22a) Dr.
+<span id="EndNote Ant 9.22b"></span>[(22)](#EndNote%20Ant%209.22a.md) Dr.
 Wall, in his critical notes on 2 Kings 15:20, observes, "that when this
 Menahem is said to have exacted the money of Israel of all the mighty
 men of wealth, of each man fifty shekels of silver, to give Pul, the
@@ -1932,7 +1932,7 @@ the rate of £6 or £7 per head; and that God commanded, by Ezekiel, ch.
 45:8; 46:18, that no such thing should be done \[at the Jews'
 restoration\], but the king should have land of his own."
 
-<span id="EndNote Ant 9.23b"></span>[(23)](#EndNote%20Ant%209.23a) This
+<span id="EndNote Ant 9.23b"></span>[(23)](#EndNote%20Ant%209.23a.md) This
 passage is taken out of the prophet Nahum, ch. 2:8-13, and is the
 principal, or rather the only, one that is given us almost verbatim, but
 a little abridged, in all Josephus's known writings: by which quotation
@@ -1942,7 +1942,7 @@ his Hebrew copy considerably differed from ours. See all three texts
 particularly set down and compared together in the Essay on the Old
 Testament, page 187.
 
-<span id="EndNote Ant 9.24b"></span>[(24)](#EndNote%20Ant%209.24a) This
+<span id="EndNote Ant 9.24b"></span>[(24)](#EndNote%20Ant%209.24a.md) This
 siege of Samaria, though not given a particular account of, either in
 our Hebrew or Greek Bibles, or in Josephus, was so very long, no less
 than three years, that it was no way improbable but that parents, and
@@ -1953,4 +1953,4 @@ other shorter sieges of both the capital cities, Jerusalem and Samaria;
 the former mentioned Jeremiah 19:9; Antiq. B. IX. ch. 4. sect. 4, and
 the latter, 2 Kings 6:26-29.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

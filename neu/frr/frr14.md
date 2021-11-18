@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr13) 
-[Next](frr15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr13.md) 
+[Next](frr15.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ the Eastern religions had diffused, first anterior to, then parallel
 with, Christianity, doctrines which acquired with this latter a
 universal authority in the decline of the ancient world. The preaching
 of Asiatic priests prepared in their own despite the triumph of the
-Church <span id="fr_226"></span>[1](#fn_226)."
+Church <span id="fr_226"></span>[1](#fn_226.md)."
 
 But the triumph of the new Faith once assured the organizing,
 dominating, influence of Imperial Rome speedily came into play.
@@ -135,7 +135,7 @@ holds to have been a contemporary of Philo.
 (Naassene), in the middle of the second century A. D. Finally the text
 was edited by Hippolytus, in the *Refutation*, about 222 A. D. Thus the
 ground covered is roughly from 50 B. C. to 220 A. D. <span
-id="fr_227"></span>[1](#fn_227)
+id="fr_227"></span>[1](#fn_227.md)
 
 In the translation given by Mr Mead these successive layers are
 distinguished by initial letters and difference of type, but these
@@ -150,7 +150,7 @@ these Gnostics was practically that Christianity, or rather the Good
 News of The Christ, was precisely the consummation of the inner doctrine
 of the Mystery-institutions of all the nations: the end of them all was
 the revelation of the Mystery of Man <span
-id="fr_228"></span>[1](#fn_228)." In other words the teaching of these
+id="fr_228"></span>[1](#fn_228.md)." In other words the teaching of these
 Naassenes was practically a synthesis of all the Mystery-religions, and
 although Hippolytus regards them as nothing more than devotees of the
 cult of the *Magna Mater*, we shall see that, while their doctrine and
@@ -163,7 +163,7 @@ Mr Mead draws attention to the fact that Hippolytus places these
 Naassenes in the fore-front of his *Refutation*; they are the first
 group of Heretics with whom he deals, and we may therefore conclude that
 he considered them, if not the most important, at least the oldest, of
-such sectaries <span id="fr_229"></span>[2](#fn_229).
+such sectaries <span id="fr_229"></span>[2](#fn_229.md).
 
 With these prefatory remarks it will be well to let the document speak
 for itself. It is of considerable length, and, as we have seen, of
@@ -171,7 +171,7 @@ intricate construction. I shall therefore quote only those sections
 which bear directly upon the subject of our investigation; any reader
 desirous of fuller information can refer to Mr Mead's work, or to the
 original text published by Reitzenstein <span
-id="fr_230"></span>[3](#fn_230).
+id="fr_230"></span>[3](#fn_230.md).
 
 At the outset it will be well to understand that the central doctrine of
 all these Mysteries is what Reitzenstein sums up as "the doctrine of the
@@ -185,7 +185,7 @@ with all power, descends into weakness and bondage, and has to win his
 own freedom, and regain his original state. This doctrine is not
 Egyptian, but seems to have been in its origin part and parcel of the
 Chaldean Mystery-tradition and was widely spread in Hellenistic
-circles <span id="fr_231"></span>[1](#fn_231)."
+circles <span id="fr_231"></span>[1](#fn_231.md)."
 
 Thus, in the introductory remarks prefixed by Hippolytus to the document
 he is quoting he asserts that the Naassenes honour as the Logos of all
@@ -195,7 +195,7 @@ the Gnosis of this Man is the beginning of the possibility of knowing
 God, saying, 'The beginning of Perfection is the Gnosis of Man, but the
 Gnosis of God is perfected Perfection.' All these, mental, psychic, and
 earthy, descended together into one Man, Jesus, the Son of Mary <span
-id="fr_232"></span>[2](#fn_232)."
+id="fr_232"></span>[2](#fn_232.md)."
 
 Thus the *Myth of Man*, the Mystery of Generation, is the subject matter
 of the document in question, and this myth is set forth with reference
@@ -204,14 +204,14 @@ to all the Mysteries, beginning with the Assyrian.
 Paragraph 5 runs: "Now the Assyrians call this Mystery Adonis, and
 whenever it is called Adonis it is Aphrodite who is in love with and
 desires Soul so-called, and Aphrodite is Genesis according to them <span
-id="fr_233"></span>[3](#fn_233)."
+id="fr_233"></span>[3](#fn_233.md)."
 
 But in the next section the writer jumps from the Assyrian to the
 Phrygian Mysteries, saying, "But if the Mother of the Gods emasculates
 Attis, she too regarding him as the object of her love, it is the
 Blessed Nature above of the super-Cosmic, and Aeonian spaces which calls
 back the masculine power of Soul to herself <span
-id="fr_234"></span>[4](#fn_234)."
+id="fr_234"></span>[4](#fn_234.md)."
 
 <span id="page_147">p. 147</span>
 
@@ -231,7 +231,7 @@ Fleshly Generation, and after men have been initiated into them they
 should cease for a while and become initiated in the Great, Heavenly,
 Mysteries--for this is the Gate of Heaven, and this is the House of God,
 where the Good God dwells alone, into which House no impure man shall
-come <span id="fr_235"></span>[1](#fn_235)." Hippolytus remarks that
+come <span id="fr_235"></span>[1](#fn_235.md)." Hippolytus remarks that
 "these Naassenes say that the performers in theatres, they too, neither
 say nor do anything without design--for example, when the people
 assemble in the theatre, and a man comes on the stage clad in a robe
@@ -258,7 +258,7 @@ Not with the booming of bells,
 Nor with the deep-toned pipe of Idaean Kuretes;  
 But I will blend my song with Phoebus' music of the lyre;  
 Evoi, Evan,--for thou art Pan, thou Bacchus art, and Shepherd of bright
-stars <span id="fr_236"></span>[1](#fn_236)!'"
+stars <span id="fr_236"></span>[1](#fn_236.md)!'"
 
 On this Hippolytus comments: "For these and suchlike reasons these
 Naassenes frequent what are called the Mysteries of the Great Mother,
@@ -271,7 +271,7 @@ Adonis-Attis, we are confronted in the concluding paragraph, after
 stating that "the True Gate is Jesus the Blessed," with this astounding
 claim, from the pen of the latest redactor, "And of all men we alone are
 Christians, accomplishing the Mystery at the Third Gate <span
-id="fr_237"></span>[2](#fn_237)."
+id="fr_237"></span>[2](#fn_237.md)."
 
 Now what conclusions are to be drawn from this document which, in its
 entirety, Mr Mead regards as "the most
@@ -309,7 +309,7 @@ I would also recall to the memory of the reader the passage previously
 quoted from Cumont, in which he refers to the use made by the
 Neo-Platonist philosophers of the Attis legend, as the mould into which
 they poured their special theories of the universe, and of
-generation <span id="fr_238"></span>[1](#fn_238). Can the
+generation <span id="fr_238"></span>[1](#fn_238.md). Can the
 
 <span id="page_150">p. 150</span>
 
@@ -334,7 +334,7 @@ At the same time it should be pointed out that the acceptance of this
 theory of the origin of the story in no way excludes the possibility of
 the introduction of other elements during the period of romantic
 evolution. As I have previously insisted <span
-id="fr_239"></span>[1](#fn_239), not all of those who handled the theme
+id="fr_239"></span>[1](#fn_239.md), not all of those who handled the theme
 knew the real character of the material with which they were dealing,
 while even among those who did know there were some who allowed
 themselves considerable latitude in their methods of composition; who
@@ -357,12 +357,12 @@ The fellowship, it may even be, the rivalry, between the two great
 Benedictine houses of Fescamp and Glastonbury, led to the redaction, in
 the interests of the latter, of a *Saint-Sang* legend, parallel to that
 which was the genuine possession of the French house <span
-id="fr_240"></span>[1](#fn_240). For we must emphasize the fact that the
+id="fr_240"></span>[1](#fn_240.md). For we must emphasize the fact that the
 original Joseph-Glastonbury story is a *Saint-Sang*, and not a *Grail*
 legend. A phial containing the Blood of Our Lord was said to have been
 buried in the tomb of Joseph--surely a curious fate for so precious a
 relic--and the Abbey never laid claim to the possession of the Vessel of
-the Last Supper <span id="fr_241"></span>[2](#fn_241). Had it done so it
+the Last Supper <span id="fr_241"></span>[2](#fn_241.md). Had it done so it
 would certainly have become a noted centre of pilgrimage--as Dr Brugger
 acutely remarks such relics are *besucht*, not *gesucht*.
 
@@ -477,37 +477,37 @@ sign-posts towards the goal.
 
 ### Footnotes
 
-<span id="fn_226"></span>[142:1](frr14.htm#fr_226) Cumont, *op. cit.*
+<span id="fn_226"></span>[142:1](frr14.htm#fr_226.md) Cumont, *op. cit.*
 Introd. pp. xx and xxi.
 
-<span id="fn_227"></span>[144:1](frr14.htm#fr_227) *Thrice-Greatest
+<span id="fn_227"></span>[144:1](frr14.htm#fr_227.md) *Thrice-Greatest
 Hermes*, Vol. I, p. 195.
 
-<span id="fn_228"></span>[145:1](frr14.htm#fr_228) *Op. cit.* p. 141.
+<span id="fn_228"></span>[145:1](frr14.htm#fr_228.md) *Op. cit.* p. 141.
 
-<span id="fn_229"></span>[145:2](frr14.htm#fr_229) *Op. cit.* p. 142.
+<span id="fn_229"></span>[145:2](frr14.htm#fr_229.md) *Op. cit.* p. 142.
 
-<span id="fn_230"></span>[145:3](frr14.htm#fr_230) *Op. cit.* pp. 146
+<span id="fn_230"></span>[145:3](frr14.htm#fr_230.md) *Op. cit.* pp. 146
 *et seq*. Reitzenstein, *Die Hellenistischen Mysterien Religionen*,
 Leipzig, 1910, gives the document in the original. There is also a
 translation of Hippolytus in the *Ante-Nicene Library*.
 
-<span id="fn_231"></span>[146:1](frr14.htm#fr_231) Quoted by Mead, *op.
+<span id="fn_231"></span>[146:1](frr14.htm#fr_231.md) Quoted by Mead, *op.
 cit.* p. 138.
 
-<span id="fn_232"></span>[146:2](frr14.htm#fr_232) *Op. cit.* pp. 146,
+<span id="fn_232"></span>[146:2](frr14.htm#fr_232.md) *Op. cit.* pp. 146,
 147.
 
-<span id="fn_233"></span>[146:3](frr14.htm#fr_233) *Op. cit.* p. 151.
+<span id="fn_233"></span>[146:3](frr14.htm#fr_233.md) *Op. cit.* p. 151.
 
-<span id="fn_234"></span>[146:4](frr14.htm#fr_234) *Op. cit.* p. 152. Mr
+<span id="fn_234"></span>[146:4](frr14.htm#fr_234.md) *Op. cit.* p. 152. Mr
 Mead concludes that there is here a lacuna of the original.
 
-<span id="fn_235"></span>[147:1](frr14.htm#fr_235) *Op. cit.* p. 181. In
+<span id="fn_235"></span>[147:1](frr14.htm#fr_235.md) *Op. cit.* p. 181. In
 a note Mr Mead says of the Greater Mysteries, "presumably the candidate
 went through some symbolic rite of death and resurrection."
 
-<span id="fn_236"></span>[148:1](frr14.htm#fr_236) *Op. cit.* pp. 185,
+<span id="fn_236"></span>[148:1](frr14.htm#fr_236.md) *Op. cit.* pp. 185,
 186. I would draw especial attention to this passage in view of the
 present controversy as to the Origin of Drama. It looks as if the
 original writer of the document (and this section is in the Pagan
@@ -515,20 +515,20 @@ Source) would have inclined to the views of Sir Gilbert Murray, Miss
 Harrison, and Mr Cornford rather than to those championed by their
 sarcastic critic, Sir W. Ridgeway.
 
-<span id="fn_237"></span>[148:2](frr14.htm#fr_237) *Op. cit.* p. 190.
+<span id="fn_237"></span>[148:2](frr14.htm#fr_237.md) *Op. cit.* p. 190.
 
-<span id="fn_238"></span>[149:1](frr14.htm#fr_238) *Vide supra*, [p.
-137](frr13.htm#page_137).
+<span id="fn_238"></span>[149:1](frr14.htm#fr_238.md) *Vide supra*, [p.
+137](frr13.htm#page_137.md).
 
-<span id="fn_239"></span>[150:1](frr14.htm#fr_239) Cf. *Legend of Sir
+<span id="fn_239"></span>[150:1](frr14.htm#fr_239.md) Cf. *Legend of Sir
 Perceval*, Vol. II. Chapters 10 and 11.
 
-<span id="fn_240"></span>[151:1](frr14.htm#fr_240) Cf. my *Quest of the
+<span id="fn_240"></span>[151:1](frr14.htm#fr_240.md) Cf. my *Quest of the
 Holy Grail*, Bell, 1913, Chap. 4, for summary of evidence on this point.
 
-<span id="fn_241"></span>[151:2](frr14.htm#fr_241) Cf. Heinzel,
+<span id="fn_241"></span>[151:2](frr14.htm#fr_241.md) Cf. Heinzel,
 *Alt-Franz. Gral-Romanen*, p. 72.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Mithra and Attis](frr15)
+[Next: Chapter XII. Mithra and Attis](frr15.md)

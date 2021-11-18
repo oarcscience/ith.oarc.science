@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst038)  [Next](inst040) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst038)  [Next](inst040.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,12 +179,12 @@ impious to acknowledge. Thus he asks, “What is human merit? He who came
 to bestow not due recompense but free grace, though himself free from
 sin, and the giver of freedom, found all men sinners,” (Augustin. in
 <span id="iv.ii.vi-p25.1"></span>[Psal.
-31](../../../bib/kjv/psa031.htm#000)<span id="iv.ii.vi-p25.1"></span>).
+31](../../../bib/kjv/psa031.htm#000)<span id="iv.ii.vi-p25.1"></span>.md).
 Again, “If you are to receive your due, you must be punished. What then
 is done? God has not rendered you due punishment, but bestows upon you
 unmerited grace. If you wish to be an alien from grace, boast your
 merits,” (in <span id="iv.ii.vi-p25.2"></span>[Psal.
-70](../../../bib/kjv/psa070.htm#000)<span id="iv.ii.vi-p25.2"></span>).
+70](../../../bib/kjv/psa070.htm#000)<span id="iv.ii.vi-p25.2"></span>.md).
 Again, “You are nothing in yourself, sin is yours, merit God’s.
 Punishment is your due; and when the reward shall come, God shall crown
 his own gifts, not your merits,” (<span id="iv.ii.vi-p25.3"></span>Ep.
@@ -200,17 +200,17 @@ they would attend to the source from which the apostle derives the glory
 of the saints,—“Moreover, whom he did predestinate, them he also called;
 and whom he called, them he also justified; and whom he justified, them
 he also glorified,” (<span id="iv.ii.vi-p25.4"></span>[Rom.
-8:30](../../../bib/kjv/rom008.htm#030)<span
+8:30](../../../bib/kjv/rom008.htm#030.md)<span
 id="iv.ii.vi-p25.4"></span>). On what ground, then, the apostle being
 judge (<span id="iv.ii.vi-p25.5"></span>[2 Tim.
-4:8](../../../bib/kjv/ti2004.htm#008)<span id="iv.ii.vi-p25.5"></span>),
+4:8](../../../bib/kjv/ti2004.htm#008)<span id="iv.ii.vi-p25.5"></span>.md),
 are believers crowned? Because by the mercy of God, not their own
 exertions, they are predestinated, called, and justified. Away, then,
 with the vain fear, that unless free will stand, there will no longer be
 any merit! It is most foolish to take alarm, and recoil from that which
 Scripture inculcates. “If thou didst receive it, why dost thou glory as
 if thou hadst not received it?” (<span id="iv.ii.vi-p25.6"></span>[1
-Cor. 4:7](../../../bib/kjv/co1004.htm#007)<span
+Cor. 4:7](../../../bib/kjv/co1004.htm#007.md)<span
 id="iv.ii.vi-p25.6"></span>). You see how every thing is denied to free
 will, for the very purpose of leaving no room for merit. And yet, as the
 beneficence and liberality of God are manifold and inexhaustible, the
@@ -260,17 +260,17 @@ singular in our doctrine, but have Christ and all his apostles with us.
 Let our opponents, then, consider how they are to come off victorious in
 a contest which they wage with such antagonists. Christ declares,
 “without me ye can do nothing,” (<span id="iv.ii.vi-p27.1"></span>[John
-20:5](../../../bib/kjv/joh020.htm#005)<span
+20:5](../../../bib/kjv/joh020.htm#005.md)<span
 id="iv.ii.vi-p27.1"></span>). Does he the less censure and chastise
 those who, without him, did wickedly? Does he the less exhort every man
 to be intent on good works? How severely does Paul inveigh against the
 Corinthians for want of charity (<span id="iv.ii.vi-p27.2"></span>[1
-Cor. 3:3](../../../bib/kjv/co1003.htm#003)<span
+Cor. 3:3](../../../bib/kjv/co1003.htm#003.md)<span
 id="iv.ii.vi-p27.2"></span>); and yet at the same time, he prays that
 charity may be given them by the Lord. In the Epistle to the Romans, he
 declares that “it is not of him that willeth, nor of him that runneth,
 but of God that showeth mercy,” (<span id="iv.ii.vi-p27.3"></span>[Rom.
-9:16](../../../bib/kjv/rom009.htm#016)<span
+9:16](../../../bib/kjv/rom009.htm#016.md)<span
 id="iv.ii.vi-p27.3"></span>). Still he ceases not to warn, exhort, and
 rebuke them. Why then do they not expostulate with God for making sport
 with men, by demanding of them things which he alone can give, and
@@ -283,7 +283,7 @@ to which doctrine, and exhortation, and rebuke, are in themselves able
 to change the mind, is indicated by Paul when he says, “Neither is he
 that planteth any thing, neither he that watereth; but God that giveth
 the increase,” (<span id="iv.ii.vi-p27.4"></span>[1 Cor
-3:7](../../../bib/kjv/co1003.htm#007)<span id="iv.ii.vi-p27.4"></span>)
+3:7](../../../bib/kjv/co1003.htm#007)<span id="iv.ii.vi-p27.4"></span>.md)
 in like manner, we see that Moses delivers the precepts of the Law under
 a heavy sanction, and that the prophets strongly urge and threaten
 transgressors though they at the same time confess, that men are wise
@@ -311,8 +311,8 @@ the words of the prophet, “I will give them one heart, and I will put a
 new spirit within you; and I will take the stony heart out of their
 flesh, and will give them an heart of flesh, that they may walk in my
 statutes,” (<span id="iv.ii.vi-p28.1"></span>[Ezek.
-11:19](../../../bib/kjv/eze011.htm#019),
-[20](../../../bib/kjv/eze011.htm#020)<span id="iv.ii.vi-p28.1"></span>).
+11:19](../../../bib/kjv/eze011.htm#019.md),
+[20](../../../bib/kjv/eze011.htm#020)<span id="iv.ii.vi-p28.1"></span>.md).
 But it will be asked, why are they now admonished of their duty, and not
 rather left to the guidance of the Spirit? Why are they urged with
 exhortations when they cannot hasten any faster than the Spirit impels
@@ -342,15 +342,15 @@ more inexcusable on the day of judgment. Thus, our Saviour, while
 declaring that none can come to him but those whom the Father draws, and
 that the elect come after they have heard and learned of the Father
 (<span id="iv.ii.vi-p29.1"></span>[John
-6:44](../../../bib/kjv/joh006.htm#044),
-[45](../../../bib/kjv/joh006.htm#045)<span id="iv.ii.vi-p29.1"></span>),
+6:44](../../../bib/kjv/joh006.htm#044.md),
+[45](../../../bib/kjv/joh006.htm#045)<span id="iv.ii.vi-p29.1"></span>.md),
 does not lay aside the office of teacher, but carefully invites those
 who must be taught inwardly by the Spirit before they can make any
 profit. The reprobate, again, are admonished by Paul, that the doctrine
 is not in vain; because, while it is in them a savour of death unto
 death, it is still a sweet savour unto God (<span
 id="iv.ii.vi-p29.2"></span>[2 Cor.
-2:16](../../../bib/kjv/co2002.htm#016)<span
+2:16](../../../bib/kjv/co2002.htm#016.md)<span
 id="iv.ii.vi-p29.2"></span>).
 
 <span id="iv.ii.vi-p30"></span>6. The enemies of this doctrine are at
@@ -359,7 +359,7 @@ accomplish any thing by their weight, they were to overwhelm us by their
 number. But as in battle, when it is come to close quarters, an
 unwarlike multitude, how great soever the pomp and show they make, give
 way after a few blows, and take to flight,18  <span
-id="fr_173"></span>[174](#fn_173) so we shall have little difficulty
+id="fr_173"></span>[174](#fn_173.md) so we shall have little difficulty
 here in disposing of our opponents and their host. All the passages
 which they pervert in opposing us are very similar in their import; and
 hence, when they are arranged under their proper heads, one answer will
@@ -389,20 +389,20 @@ about the Law. But what, pray, is meant by saying, that the Law “was
 added because of transgressions;” “by the law is the knowledge of sin;”
 “I had not known sin but by the law;” “the law entered that the offence
 might abound?” (<span id="iv.ii.vi-p32.1"></span>[Gal.
-3:19](../../../bib/kjv/gal003.htm#019)<span id="iv.ii.vi-p32.1"></span>;
+3:19](../../../bib/kjv/gal003.htm#019.md)<span id="iv.ii.vi-p32.1"></span>;
 <span id="iv.ii.vi-p32.2"></span>[Rom.
-3:20](../../../bib/kjv/rom003.htm#020)<span id="iv.ii.vi-p32.2"></span>;
+3:20](../../../bib/kjv/rom003.htm#020.md)<span id="iv.ii.vi-p32.2"></span>;
 7:7; 5:20). Is it meant that the Law was to be limited to our strength,
 lest it should be given in vain? Is it not rather meant that it was
 placed far above us, in order to convince us of our utter feebleness?
 Paul indeed declares, that charity is the end and fulfilling of the Law
 (<span id="iv.ii.vi-p32.3"></span>[1 Tim.
-1:5](../../../bib/kjv/ti1001.htm#005)<span id="iv.ii.vi-p32.3"></span>).
+1:5](../../../bib/kjv/ti1001.htm#005)<span id="iv.ii.vi-p32.3"></span>.md).
 But when he prays that the minds of the Thessalonians may be filled with
 it, he clearly enough acknowledges that the Law sounds in our ears
 without profit, if God do not implant it thoroughly in our hearts (<span
 id="iv.ii.vi-p32.4"></span>[1 Thess.
-3:12](../../../bib/kjv/th1003.htm#012)<span
+3:12](../../../bib/kjv/th1003.htm#012.md)<span
 id="iv.ii.vi-p32.4"></span>).
 
 <span id="iv.ii.vi-p33"></span>7. I admit, indeed, that if the Scripture
@@ -438,12 +438,12 @@ faith may acquire what is thus required; nay, more, God demands of us
 faith itself, and finds not what he thus demands, until by giving he
 makes it possible to find it.” Again, he says, “Let God give what he
 orders, and order what he wills.”18  <span
-id="fr_174"></span>[175](#fn_174)
+id="fr_174"></span>[175](#fn_174.md)
 
 <span id="iv.ii.vi-p35"></span>8. This will be more clearly seen by
 again attending to the three classes of precepts to which we above
 referred. Both in the Law and in the Prophets, God repeatedly calls upon
-us to turn to him.18  <span id="fr_175"></span>[176](#fn_175) But, on
+us to turn to him.18  <span id="fr_175"></span>[176](#fn_175.md) But, on
 the other hand, a prophet exclaims, “Turn thou me, and I shall be
 turned; for thou art the Lord my God. Surely after that I was turned, I
 repented.” He orders us to circumcise the foreskins of our hearts; but
@@ -464,30 +464,30 @@ holiness, and justices which we possess, is his gift. Of the third class
 of precepts is the exhortation of Paul and Barnabas to the proselytes,
 as recorded by Luke; they “persuaded them to continue in the grace of
 God,” (<span id="iv.ii.vi-p36.6"></span>[Acts
-13:43](../../../bib/kjv/act013.htm#043)<span
+13:43](../../../bib/kjv/act013.htm#043.md)<span
 id="iv.ii.vi-p36.6"></span>). But the source from which this power of
 continuance must be sought is elsewhere explained by Paul, when he says,
 “Finally, my brethren, be strong in the Lord,” (<span
 id="iv.ii.vi-p36.7"></span>[Eph.
-6:10](../../../bib/kjv/eph006.htm#010)<span
+6:10](../../../bib/kjv/eph006.htm#010.md)<span
 id="iv.ii.vi-p36.7"></span>). In another passage he says, “Grieve not
 the Holy Spirit of God, whereby ye are sealed unto the day of
 redemption,” (<span id="iv.ii.vi-p36.8"></span>[Eph.
-4:30](../../../bib/kjv/eph004.htm#030)<span
+4:30](../../../bib/kjv/eph004.htm#030.md)<span
 id="iv.ii.vi-p36.8"></span>). But as the thing here enjoined could not
 be performed by man, he prays in behalf of the Thessalonians, that God
 would count them “worthy of this calling, and fulfil all the good
 pleasure of his goodness, and the work of faith with power,” (<span
 id="iv.ii.vi-p36.9"></span>[2 Thess.
-1:11](../../../bib/kjv/th2001.htm#011)<span
+1:11](../../../bib/kjv/th2001.htm#011.md)<span
 id="iv.ii.vi-p36.9"></span>). In the same way, in the Second Epistle to
 the Corinthians, when treating of alms, he repeatedly commends their
 good and pious inclination. A little farther on, however, he exclaims,
 “Thanks be to God, which put the same earnest care into the heart of
 Titus for you. For indeed he accepted the exhortation,” (<span
 id="iv.ii.vi-p36.10"></span>[2 Cor.
-8:16](../../../bib/kjv/co2008.htm#016),
-[17](../../../bib/kjv/co2008.htm#017)<span
+8:16](../../../bib/kjv/co2008.htm#016.md),
+[17](../../../bib/kjv/co2008.htm#017.md)<span
 id="iv.ii.vi-p36.10"></span>). If Titus could not even perform the
 office of being a mouth to exhort others, except in so far as God
 suggested, how could the others have been voluntary agents in acting, if
@@ -501,7 +501,7 @@ the Prophets, in which the work of our conversion seems to be shared
 between God and ourselves; “Turn ye unto me, saith the Lord of hosts,
 and I will turn unto you, saith the Lord of hosts,” (<span
 id="iv.ii.vi-p37.1"></span>[Zech.
-1:3](../../../bib/kjv/zac001.htm#003)<span id="iv.ii.vi-p37.1"></span>).
+1:3](../../../bib/kjv/zac001.htm#003)<span id="iv.ii.vi-p37.1"></span>.md).
 The kind of assistance which God gives us has been shown above (sect. 7,
 8), and need not now be repeated. One thing only I ask to be conceded to
 me, that it is vain to think we have a power of fulfilling the Law,
@@ -513,7 +513,7 @@ evade the declaration in Jeremiah, that the covenant which God made with
 his ancient people was broken, because it was only of the letter—that to
 make it effectual, it was necessary for the Spirit to interpose and
 train the heart to obedience (<span id="iv.ii.vi-p37.2"></span>[Jer.
-31:32](../../../bib/kjv/jer031.htm#032)<span
+31:32](../../../bib/kjv/jer031.htm#032.md)<span
 id="iv.ii.vi-p37.2"></span>). The opinion we now combat is not aided by
 the words, “Turn unto me, and I will turn unto you.” The turning there
 spoken of is not that by which God renews the heart unto repentance; but
@@ -533,29 +533,29 @@ the Law (Chap. 7 sec. 2 and 3).
 akin to the former. They allege the promises in which the Lord makes a
 paction with our will. Such are the following: “Seek good, and not evil,
 that ye may live,” (<span id="iv.ii.vi-p38.1"></span>[Amos
-5:14](../../../bib/kjv/amo005.htm#014)<span
+5:14](../../../bib/kjv/amo005.htm#014.md)<span
 id="iv.ii.vi-p38.1"></span>). “If ye be willing and obedient, ye shall
 eat the good of the land: but if ye refuse and rebel, ye shall be
 devoured with the sword; for the mouth of the Lord has spoken it,”
 (<span id="iv.ii.vi-p38.2"></span>[Isa.
-1:19](../../../bib/kjv/isa001.htm#019),
-[20](../../../bib/kjv/isa001.htm#020)<span id="iv.ii.vi-p38.2"></span>).
+1:19](../../../bib/kjv/isa001.htm#019.md),
+[20](../../../bib/kjv/isa001.htm#020)<span id="iv.ii.vi-p38.2"></span>.md).
 “If thou wilt put away thine abominations out of my sight, then thou
 shalt not remove,” (<span id="iv.ii.vi-p38.3"></span>[Jer.
-4:1](../../../bib/kjv/jer004.htm#001)<span id="iv.ii.vi-p38.3"></span>).
+4:1](../../../bib/kjv/jer004.htm#001)<span id="iv.ii.vi-p38.3"></span>.md).
 “It shall come to pass, if thou shalt hearken diligently unto the voice
 of the Lord thy God, to observe and do all the commandments which I
 command thee this days that the Lord thy God will set thee on high above
 all nations of the earth,” (<span id="iv.ii.vi-p38.4"></span>[Deut.
-28:1](../../../bib/kjv/deu028.htm#001)<span
+28:1](../../../bib/kjv/deu028.htm#001.md)<span
 id="iv.ii.vi-p38.4"></span>). There are other similar passages (<span
 id="iv.ii.vi-p38.5"></span>[Lev.
-26:3](../../../bib/kjv/lev026.htm#003)<span id="iv.ii.vi-p38.5"></span>,
+26:3](../../../bib/kjv/lev026.htm#003.md)<span id="iv.ii.vi-p38.5"></span>,
 &c). They think that the blessings contained in these promises are
 offered to our will absurdly and in mockery, if it is not in our power
 to secure or reject them. It is, indeed, an easy matter to indulge in
 declamatory complaint on this subject, to say that we are cruelly
-mocked18  <span id="fr_176"></span>[177](#fn_176) by the Lord, when he
+mocked18  <span id="fr_176"></span>[177](#fn_176.md) by the Lord, when he
 declares that his kindness depends on our wills if we are not masters of
 our wills—that it would be a strange liberality on the part of God to
 set his blessings before us, while we have no power of enjoying them,—a
@@ -592,7 +592,7 @@ righteousness, the greater will be our earnestness to obtain the grace
 of God. And thus it is, that in the protestations, *if we be willing*,
 *if thou shalt hearken*, the Lord neither attributes to us a full power
 of willing and hearkening, nor yet mocks us for our impotence.18  <span
-id="fr_177"></span>[178](#fn_177)
+id="fr_177"></span>[178](#fn_177.md)
 
 <span id="iv.ii.vi-p41"></span>11. The third class of objections is not
 unlike the other two. For they produce passages in which God upbraids
@@ -602,20 +602,20 @@ such passages, the following are examples: “The Amalekites and the
 Canaanites are before you, and ye shall fall by the sword: because ye
 are turned away from the Lord, therefore the Lord will not be with you,”
 (<span id="iv.ii.vi-p41.1"></span>[Num.
-14:43](../../../bib/kjv/num014.htm#043)<span
+14:43](../../../bib/kjv/num014.htm#043.md)<span
 id="iv.ii.vi-p41.1"></span>). “Because ye have done all these works,
 saith the Lord, and I spake unto you, rising up early and speaking, but
 ye heard not; and I called you, but ye answered not; therefore will I do
 unto this house, which is called by my name, wherein ye trust, and unto
 the place which I gave to you and to your fathers, as I have done to
 Shiloh,” (<span id="iv.ii.vi-p41.2"></span>[Jer.
-7:13](../../../bib/kjv/jer007.htm#013),
-[14](../../../bib/kjv/jer007.htm#014)<span id="iv.ii.vi-p41.2"></span>).
+7:13](../../../bib/kjv/jer007.htm#013.md),
+[14](../../../bib/kjv/jer007.htm#014)<span id="iv.ii.vi-p41.2"></span>.md).
 “They obeyed not thy voice, neither walked in thy law; they have done
 nothing of all that thou commandedst them to do: therefore thou hast
 caused all this evil to come upon them,” (<span
 id="iv.ii.vi-p41.3"></span>[Jer.
-32:23](../../../bib/kjv/jer032.htm#023)<span
+32:23](../../../bib/kjv/jer032.htm#023.md)<span
 id="iv.ii.vi-p41.3"></span>). How, they ask, can such upbraiding be
 directed against those who have it in their power immediately to
 reply,—Prosperity was dear to us: we feared adversity; that we did not,
@@ -650,7 +650,7 @@ otherwise than the Lord had foretold. “Therefore thou shalt speak these
 words unto them; but they will not hearken unto thee: thou shalt also
 call unto them; but they will not answer thee,” (<span
 id="iv.ii.vi-p41.4"></span>[Jer.
-7:27](../../../bib/kjv/jer007.htm#027)<span
+7:27](../../../bib/kjv/jer007.htm#027.md)<span
 id="iv.ii.vi-p41.4"></span>). Of what use, then, was it to talk to the
 deaf? It was, that even against their will they might understand that
 what they heard was true, and that it was impious blasphemy to transfer
@@ -663,18 +663,18 @@ divine grace are in the habit of piling up, that they may thereon erect
 their statue of free will. The Psalmist upbraids the Jews as “a stubborn
 and rebellious generation; a generation that set not their heart
 aright,” (<span id="iv.ii.vi-p42.1"></span>[Psalm
-78:8](../../../bib/kjv/psa078.htm#008)<span
+78:8](../../../bib/kjv/psa078.htm#008.md)<span
 id="iv.ii.vi-p42.1"></span>); and in another passage, he exhorts the men
 of his time, “Harden not your heart,” (<span
 id="iv.ii.vi-p42.2"></span>[Psalm
-95:8](../../../bib/kjv/psa095.htm#008)<span
+95:8](../../../bib/kjv/psa095.htm#008.md)<span
 id="iv.ii.vi-p42.2"></span>). This implies that the whole blame of the
 rebellion lies in human depravity. But it is foolish thence to infer,
 that the heart, the preparation of which is from the Lord, may be
 equally bent in either direction. The Psalmist says, “I have inclined my
 heart to perform thy statutes alway,” (<span
 id="iv.ii.vi-p42.3"></span>[Psalm
-119:112](../../../bib/kjv/psa119.htm#112)<span
+119:112](../../../bib/kjv/psa119.htm#112.md)<span
 id="iv.ii.vi-p42.3"></span>); meaning, that with willing and cheerful
 readiness of mind he had devoted himself to God. He does not boast,
 however, that he was the author of that disposition, for in the same
@@ -683,8 +683,8 @@ attend to the admonition of Paul, when he thus addresses believers,
 “Work out your own salvation with fear and trembling. For it is God
 which worketh in you both to will and to do of his good pleasure,”
 (<span id="iv.ii.vi-p42.4"></span>[Phil.
-2:12](../../../bib/kjv/phi002.htm#012),
-[13](../../../bib/kjv/phi002.htm#013)<span id="iv.ii.vi-p42.4"></span>).
+2:12](../../../bib/kjv/phi002.htm#012.md),
+[13](../../../bib/kjv/phi002.htm#013)<span id="iv.ii.vi-p42.4"></span>.md).
 He ascribes to them a part in acting that they may not indulge in carnal
 sloth, but by enjoining fear and trembling, he humbles them so as to
 keep them in remembrance, that the very thing which they are ordered to
@@ -693,47 +693,47 @@ do is the proper work of God—distinctly intimating, that believers act
 from heaven, and cannot in any way be arrogated to themselves.
 Accordingly, when Peter exhorts us to “add to faith virtue,” (<span
 id="iv.ii.vi-p42.5"></span>[2 Pet.
-1:5](../../../bib/kjv/pe2001.htm#005)<span id="iv.ii.vi-p42.5"></span>),
+1:5](../../../bib/kjv/pe2001.htm#005)<span id="iv.ii.vi-p42.5"></span>.md),
 he does not concede to us the possession of a second place, as if we
 could do anything separately. He only arouses the sluggishness of our
 flesh, by which faith itself is frequently stifled. To the same effect
 are the words of Paul. He says, “Quench not the Spirit,” (<span
 id="iv.ii.vi-p42.6"></span>[1 Thess.
-5:19](../../../bib/kjv/th1005.htm#019)<span
+5:19](../../../bib/kjv/th1005.htm#019.md)<span
 id="iv.ii.vi-p42.6"></span>); because a spirit of sloth, if not guarded
 against, is ever and anon creeping in upon believers. But should any
 thence infer that it is entirely in their own power to foster the
 offered light, his ignorance will easily be refuted by the fact, that
 the very diligence which Paul enjoins is derived only from God (<span
 id="iv.ii.vi-p42.7"></span>[2 Cor.
-7:1](../../../bib/kjv/co2007.htm#001)<span id="iv.ii.vi-p42.7"></span>).
+7:1](../../../bib/kjv/co2007.htm#001)<span id="iv.ii.vi-p42.7"></span>.md).
 We are often commanded to purge ourselves of all impurity, though the
 Spirit claims this as his peculiar office. In fine, that what properly
 belongs to God is transferred to us only by way of concession, is plain
 from the words of John, “He that is begotten of God keepeth himself,”
 (<span id="iv.ii.vi-p42.8"></span>[1 John
-5:18](../../../bib/kjv/jo1005.htm#018)<span
+5:18](../../../bib/kjv/jo1005.htm#018.md)<span
 id="iv.ii.vi-p42.8"></span>). The advocates of free will fasten upon the
 expression as if it implied, that we are kept partly by the power of
 God, partly by our own, whereas the very keeping of which the Apostle
 speaks is itself from heaven. Hence, Christ prays his Father to keep us
 from evil (<span id="iv.ii.vi-p42.9"></span>[John
-17:15](../../../bib/kjv/joh017.htm#015)<span
+17:15](../../../bib/kjv/joh017.htm#015.md)<span
 id="iv.ii.vi-p42.9"></span>), and we know that believers, in their
 warfare against Satan, owe their victory to the armour of God.
 Accordingly, Peter, after saying, “Ye have purified your souls in
 obeying the truth,” immediately adds by way of correction, “through the
 Spirit,” (<span id="iv.ii.vi-p42.10"></span>[1 Pet.
-1:22](../../../bib/kjv/pe1001.htm#022)<span
+1:22](../../../bib/kjv/pe1001.htm#022.md)<span
 id="iv.ii.vi-p42.10"></span>). In fine, the nothingness of human
 strength in the spiritual contest is briefly shown by John, when he
 says, that “Whosoever is born of God does not commit sin; for his seed
 remaineth in him” (<span id="iv.ii.vi-p42.11"></span>[1 John
-3:9](../../../bib/kjv/jo1003.htm#009)<span
+3:9](../../../bib/kjv/jo1003.htm#009.md)<span
 id="iv.ii.vi-p42.11"></span>). He elsewhere gives the reasons “This is
 the victory that overcometh the world, even our faith,” (<span
 id="iv.ii.vi-p42.12"></span>[1 John
-5:4](../../../bib/kjv/jo1005.htm#004)<span
+5:4](../../../bib/kjv/jo1005.htm#004.md)<span
 id="iv.ii.vi-p42.12"></span>).
 
 <span id="iv.ii.vi-p43"></span>12. But a passage is produced from the
@@ -745,9 +745,9 @@ say, Who shall go up for us to heaven, and bring it unto us, that we may
 hear it, and do it? But the word is very nigh unto thee, in thy mouth,
 and in thy heart, that thou mayest do it,” (<span
 id="iv.ii.vi-p43.1"></span>[Deut.
-30:11](../../../bib/kjv/deu030.htm#011),
-[12](../../../bib/kjv/deu030.htm#012),
-[14](../../../bib/kjv/deu030.htm#014)<span id="iv.ii.vi-p43.1"></span>).
+30:11](../../../bib/kjv/deu030.htm#011.md),
+[12](../../../bib/kjv/deu030.htm#012.md),
+[14](../../../bib/kjv/deu030.htm#014)<span id="iv.ii.vi-p43.1"></span>.md).
 Certainly, if this is to be understood of mere precepts, I admit that it
 is of no little importance to the matter in hand. For, though it were
 easy to evade the difficulty by saying, that the thing here treated of
@@ -756,7 +756,7 @@ becoming acquainted with it, some scruple, perhaps, would still remain.
 The Apostle Paul, however, no mean interpreter, removes all doubt when
 he affirms, that Moses here spoke of the doctrine of the Gospel (<span
 id="iv.ii.vi-p43.2"></span>[Rom.
-10:8](../../../bib/kjv/rom010.htm#008)<span
+10:8](../../../bib/kjv/rom010.htm#008.md)<span
 id="iv.ii.vi-p43.2"></span>). If any one is so refractory as to contend
 that Paul violently wrested the words in applying them to the Gospel,
 though his hardihood is chargeable with impiety, we are still able,
@@ -767,14 +767,14 @@ their own strength, as a matter in which they should find no difficulty,
 what else could have been the result than to throw them headlong? Where,
 then, was that easy means of observing the law, when the only access to
 it was over a fatal precipice?18  <span
-id="fr_178"></span>[179](#fn_178) Accordingly, nothing is more certain
+id="fr_178"></span>[179](#fn_178.md) Accordingly, nothing is more certain
 than that under these words is comprehended the covenant of mercy, which
 had been promulgated along with the demands of the law. A few verses
 before, he had said, “The Lord thy God will circumcise thine heart, and
 the heart of thy seed, to love the Lord thy God with all thine heart,
 and with all thy soul, that thou mayest live,” (<span
 id="iv.ii.vi-p44.1"></span>[Deut.
-30:6](../../../bib/kjv/deu030.htm#006)<span
+30:6](../../../bib/kjv/deu030.htm#006.md)<span
 id="iv.ii.vi-p44.1"></span>). Therefore, the readiness of which he
 immediately after speaks was placed not in the power of man, but in the
 protection and help of the Holy Spirit, who mightily performs his own
@@ -793,7 +793,7 @@ passages in which God is said occasionally to try men, by withdrawing
 the assistance of his grace, and to wait until they turn to him, as in
 Hosea, “I will go and return to my place, till they acknowledge their
 offence, and seek my face,” (<span id="iv.ii.vi-p45.1"></span>[Hosea
-5:15](../../../bib/kjv/hos005.htm#015)<span
+5:15](../../../bib/kjv/hos005.htm#015.md)<span
 id="iv.ii.vi-p45.1"></span>). It were absurd (say they), that the Lord
 should wait till Israel should seek his face, if their minds were not
 flexible, so as to turn in either direction of their own accord. As if
@@ -927,7 +927,7 @@ person of tolerable understanding, who pays due attention to the
 explanations already given. They adduce the passage of Genesis, “Unto
 thee shall be his desire, and thou shalt rule over him,” (<span
 id="iv.ii.vi-p48.1"></span>[Gen.
-4:7](../../../bib/kjv/gen004.htm#007)<span id="iv.ii.vi-p48.1"></span>).
+4:7](../../../bib/kjv/gen004.htm#007)<span id="iv.ii.vi-p48.1"></span>.md).
 This they interpret of sin, as if the Lord were promising Cain that the
 dominion of sin should not prevail over his mind, if he would labour in
 subduing it. We, however, maintain that it is much more agreeable to the
@@ -959,14 +959,14 @@ himself inferior by his own wickedness.
 testimony of the Apostle Paul, because he says, “It is not of him that
 willeth, nor of him that runneth, but of God that showeth mercy,” (<span
 id="iv.ii.vi-p49.1"></span>[Rom.
-9:15](../../../bib/kjv/rom009.htm#015)<span
+9:15](../../../bib/kjv/rom009.htm#015.md)<span
 id="iv.ii.vi-p49.1"></span>). From this they infer, that there is
 something in will and endeavour, which, though weak in themselves,
 still, being mercifully aided by God, are not without some measure of
 success. But if they would attend in sober earnest to the subject there
 handled by Paul, they would not so rashly pervert his meaning. I am
 aware they can quote Origin and Jerome18  <span
-id="fr_179"></span>[180](#fn_179) in support of this exposition. To
+id="fr_179"></span>[180](#fn_179.md) in support of this exposition. To
 these I might, in my turn, oppose Augustine. But it is of no consequence
 what they thought, if it is clear what Paul meant. He teaches that
 salvation is prepared for those only on whom the Lord is pleased to
@@ -986,8 +986,8 @@ divine mercy. He indeed says nothing more than he says to Titus, when he
 writes, “After that the kindness and love of God our Saviour toward man
 appeared, not by works of righteousness which we have done, but
 according to his mercy he saved us,” (<span
-id="iv.ii.vi-p50.1"></span>[Titus 3:4](../../../bib/kjv/tit003.htm#004),
-[5](../../../bib/kjv/tit003.htm#005)<span id="iv.ii.vi-p50.1"></span>).
+id="iv.ii.vi-p50.1"></span>[Titus 3:4](../../../bib/kjv/tit003.htm#004.md),
+[5](../../../bib/kjv/tit003.htm#005)<span id="iv.ii.vi-p50.1"></span>.md).
 Those who argue that Paul insinuated there was some will and some
 running when he said, “It is not of him that willeth, nor of him that
 runneth,” would not allow me to argue after the same fashion, that we
@@ -1007,7 +1007,7 @@ man until it is prepared by the Lord; not that we ought not to will and
 run, but that both are produced in us by God. Some, with equal
 unskilfulness, wrest the saying of Paul, “We are labourers together with
 God,” (<span id="iv.ii.vi-p50.3"></span>[1 Cor.
-3:9](../../../bib/kjv/co1003.htm#009)<span id="iv.ii.vi-p50.3"></span>).
+3:9](../../../bib/kjv/co1003.htm#009)<span id="iv.ii.vi-p50.3"></span>.md).
 There cannot be a doubt that these words apply to ministers only, who
 are called “labourers with God,” not from bringing any thing of their
 own, but because God makes use of their instrumentality after he has
@@ -1022,14 +1022,14 @@ commandments, and perform acceptable faithfulness. He has set fire and
 water before thee: stretch forth thy hand unto whether thou wilt. Before
 man is life and death; and whether him liketh shall be given him,”
 (<span id="iv.ii.vi-p51.1"></span>[Ecclesiasticus
-15:14-17](../../../bib/apo/sir015.htm#014)<span
+15:14-17](../../../bib/apo/sir015.htm#014.md)<span
 id="iv.ii.vi-p51.1"></span>). Grant that man received at his creation a
 power of acquiring life or death; what, then, if we, on the other hand,
 can reply that he has lost it? Assuredly I have no intention to
 contradict Solomon, who asserts that “God has made man upright;” that
 “they have sought out many inventions,” (<span
 id="iv.ii.vi-p51.2"></span>[Eccl.
-7:29](../../../bib/kjv/ecc007.htm#029)<span
+7:29](../../../bib/kjv/ecc007.htm#029.md)<span
 id="iv.ii.vi-p51.2"></span>). But since man, by degenerating, has made
 shipwreck of himself and all his blessings, it certainly does not
 follow, that every thing attributed to his nature, as originally
@@ -1050,7 +1050,7 @@ now wants is a physician, and not a defender.
 <span id="iv.ii.vi-p52"></span>19. There is nothing more frequent in
 their mouths than the parable of the traveller who fell among thieves,
 and was left half dead (<span id="iv.ii.vi-p52.1"></span>[Luke
-10:32](../../../bib/kjv/luk010.htm#032)<span
+10:32](../../../bib/kjv/luk010.htm#032.md)<span
 id="iv.ii.vi-p52.1"></span>). I am aware that it is a common idea with
 almost all writers, that under the figure of the traveller is
 represented the calamity of the human race. Hence our opponents argue
@@ -1067,14 +1067,14 @@ tearing up this fiction by the roots. The Word of God leaves no half
 life to man, but teaches, that, in regard to life and happiness, he has
 utterly perished. Paul, when he speaks of our redemption, says not that
 the half dead are cured (<span id="iv.ii.vi-p52.2"></span>[Eph.
-2:5](../../../bib/kjv/eph002.htm#005),
-[6](../../../bib/kjv/eph002.htm#006)<span id="iv.ii.vi-p52.2"></span>;
+2:5](../../../bib/kjv/eph002.htm#005.md),
+[6](../../../bib/kjv/eph002.htm#006.md)<span id="iv.ii.vi-p52.2"></span>;
 5:14) but that those who were dead are raised up. He does not call upon
 the half dead to receive the illumination of Christ, but upon those who
 are asleep and buried. In the same way our Lord himself says, “The hour
 is coming, and now is, when the dead shall hear the voice of the Son of
 God,” (<span id="iv.ii.vi-p52.3"></span>[John
-5:25](../../../bib/kjv/joh005.htm#025)<span
+5:25](../../../bib/kjv/joh005.htm#025.md)<span
 id="iv.ii.vi-p52.3"></span>). How can they presume to set up a flimsy
 allegory in opposition to so many clear statements? But be it that this
 allegory is good evidence, what can they extort out of it? Man is half
@@ -1100,7 +1100,7 @@ wickedness.
 
 ### Footnotes
 
-<span id="fn_173"></span>[174](inst039.htm#fr_173) <span
+<span id="fn_173"></span>[174](inst039.htm#fr_173.md) <span
 id="iv.ii.vi-p30.1"></span>
 
 <span id="iv.ii.vi-p31"></span>80 180 The French is, “Mais c’est comme
@@ -1113,31 +1113,31 @@ war, to astonish the enemy. Before coming into action they would make a
 great show; but if they were to go into battle, and come to close
 quarters with the enemy, the first stroke would make them fly.
 
-<span id="fn_174"></span>[175](inst039.htm#fr_174) <span
+<span id="fn_174"></span>[175](inst039.htm#fr_174.md) <span
 id="iv.ii.vi-p33.1"></span>
 
 <span id="iv.ii.vi-p34"></span>81 181 August. Enchir. ad Laurent. de
 Gratia et Liber. Arbit. cap. 16. Homil 29, in Joann. <span
 id="iv.ii.vi-p34.1"></span>Ep. 24<span id="iv.ii.vi-p34.1"></span>.
 
-<span id="fn_175"></span>[176](inst039.htm#fr_175) <span
+<span id="fn_175"></span>[176](inst039.htm#fr_175.md) <span
 id="iv.ii.vi-p35.1"></span>
 
 <span id="iv.ii.vi-p36"></span>82 182 <span
 id="iv.ii.vi-p36.1"></span>[Joel
-2:12](../../../bib/kjv/joe002.htm#012)<span id="iv.ii.vi-p36.1"></span>;
+2:12](../../../bib/kjv/joe002.htm#012.md)<span id="iv.ii.vi-p36.1"></span>;
 <span id="iv.ii.vi-p36.2"></span>[Jer.
-31:18](../../../bib/kjv/jer031.htm#018)<span
+31:18](../../../bib/kjv/jer031.htm#018.md)<span
 id="iv.ii.vi-p36.2"></span>; <span id="iv.ii.vi-p36.3"></span>[Deut.
-10:16](../../../bib/kjv/deu010.htm#016)<span
+10:16](../../../bib/kjv/deu010.htm#016.md)<span
 id="iv.ii.vi-p36.3"></span>; 30:6; <span
 id="iv.ii.vi-p36.4"></span>[Ezek.
-36:26](../../../bib/kjv/eze036.htm#026)<span
+36:26](../../../bib/kjv/eze036.htm#026.md)<span
 id="iv.ii.vi-p36.4"></span>; <span id="iv.ii.vi-p36.5"></span>[Jer.
-31:18](../../../bib/kjv/jer031.htm#018)<span
+31:18](../../../bib/kjv/jer031.htm#018.md)<span
 id="iv.ii.vi-p36.5"></span>. Vid. Calvin. adv. Pighium.
 
-<span id="fn_176"></span>[177](inst039.htm#fr_176) <span
+<span id="fn_176"></span>[177](inst039.htm#fr_176.md) <span
 id="iv.ii.vi-p38.6"></span>
 
 <span id="iv.ii.vi-p39"></span>83 183 The French is, “Et de fait cette
@@ -1146,7 +1146,7 @@ une cruauté de Dieu,”&c.—And, in fact, humanly speaking, there is great
 plausibility in this argument. For, it may be maintained, that it would
 be cruelty in God, &c.
 
-<span id="fn_177"></span>[178](inst039.htm#fr_177) <span
+<span id="fn_177"></span>[178](inst039.htm#fr_177.md) <span
 id="iv.ii.vi-p39.1"></span>
 
 <span id="iv.ii.vi-p40"></span>84 184 The French adds, “Veu qu’en cela
@@ -1154,7 +1154,7 @@ il fait le profit de ses serviteurs et rend les iniques plus damnables;”
 seeing that by this he promotes the good of his servants, and renders
 the wicked more deserving of condemnation.
 
-<span id="fn_178"></span>[179](inst039.htm#fr_178) <span
+<span id="fn_178"></span>[179](inst039.htm#fr_178.md) <span
 id="iv.ii.vi-p43.3"></span>
 
 <span id="iv.ii.vi-p44"></span>85 185 The French is “Où est-ce que sera
@@ -1163,7 +1163,7 @@ celui qui ne trebusche voulant marcher?” Where is this facility, seeing
 that our nature here gives way, and there is not a man who in wishing to
 walk does not tumble?
 
-<span id="fn_179"></span>[180](inst039.htm#fr_179) <span
+<span id="fn_179"></span>[180](inst039.htm#fr_179.md) <span
 id="iv.ii.vi-p49.2"></span>
 
 <span id="iv.ii.vi-p50"></span>86 186 Orig. Lig. 7 in Epist. ad
@@ -1173,4 +1173,4 @@ extract in Book 3. chap. 24 sec. 1.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 6. - REDEMPTION FOR MAN LOST TO BE SOUGHT IN
-CHRIST.](inst040)
+CHRIST.](inst040.md)

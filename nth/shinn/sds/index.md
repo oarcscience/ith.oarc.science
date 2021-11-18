@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Shinn](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Shinn](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sds00)    [Text](sds.txt)
+[Contents](#contents)    [Start Reading](sds00)    [Text](sds.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -34,18 +34,18 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sds00)  
-[The Secret Door To Success](sds01)  
-[Bricks Without Straw](sds02)  
-[“And Five of Them Were Wise”](sds03)  
-[What Do You Expect?](sds04)  
-[The Long Arm of God](sds05)  
-[The Fork In the Road](sds06)  
-[Crossing Your Red Sea](sds07)  
-[The Watchman At the Gate](sds08)  
-[The Way of Abundance](sds09)  
-[I Shall Never Want](sds10)  
-[Look With Wonder](sds11)  
-[Catch Up With Your Good](sds12)  
-[Rivers In The Desert](sds13)  
-[The Inner Meaning of Snow White and the Seven Dwarfs](sds14)  
+<span id="contents"></span> [Title Page](sds00.md)  
+[The Secret Door To Success](sds01.md)  
+[Bricks Without Straw](sds02.md)  
+[“And Five of Them Were Wise”](sds03.md)  
+[What Do You Expect?](sds04.md)  
+[The Long Arm of God](sds05.md)  
+[The Fork In the Road](sds06.md)  
+[Crossing Your Red Sea](sds07.md)  
+[The Watchman At the Gate](sds08.md)  
+[The Way of Abundance](sds09.md)  
+[I Shall Never Want](sds10.md)  
+[Look With Wonder](sds11.md)  
+[Catch Up With Your Good](sds12.md)  
+[Rivers In The Desert](sds13.md)  
+[The Inner Meaning of Snow White and the Seven Dwarfs](sds14.md)  

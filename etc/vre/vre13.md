@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre12)  [Next](vre14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre12)  [Next](vre14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -142,9 +142,9 @@ fellow-monk," said Luther, "one day repeated the words of the Creed: 'I
 believe in the forgiveness of sins,' I saw the Scripture in an entirely
 new light; and straightway I felt as if I were born anew. It was as if I
 had found the door of paradise thrown wide open." <span
-id="fr_222"></span>[1](#fn_222) This sense of deeper significance is not
+id="fr_222"></span>[1](#fn_222.md) This sense of deeper significance is not
 confined to rational propositions. Single words, <span
-id="fr_223"></span>[2](#fn_223) and
+id="fr_223"></span>[2](#fn_223.md) and
 
 <span id="page_374">p. 374</span>
 
@@ -174,7 +174,7 @@ were already saying just these things. As Tennyson writes:
 
 "Of something felt, like something here;  
  Of something done, I know not where;  
- Such as no language may declare." <span id="fr_224"></span>[1](#fn_224)
+ Such as no language may declare." <span id="fr_224"></span>[1](#fn_224.md)
 
 </div>
 
@@ -183,7 +183,7 @@ were already saying just these things. As Tennyson writes:
 <span class="contnote">\[paragraph continues\]</span> Sir James
 Crichton-Browne has given the technical name of "dreamy states" to these
 sudden invasions of vaguely reminiscent consciousness. <span
-id="fr_225"></span>[1](#fn_225) They bring a sense of mystery and of the
+id="fr_225"></span>[1](#fn_225.md) They bring a sense of mystery and of the
 metaphysical duality of things, and the feeling of an enlargement of
 perception which seems imminent but which never completes itself. In Dr.
 Crichton-Browne's opinion they connect themselves with the perplexed and
@@ -209,7 +209,7 @@ which I cannot grasp amounts to indescribable awe sometimes.</span>
 <span class="contnote">\[paragraph continues\]</span> <span
 class="small">. . . Have you not felt that your real soul was
 imperceptible to your mental vision, except in a few hallowed
-moments?" <span id="fr_226"></span>[1](#fn_226)</span>
+moments?" <span id="fr_226"></span>[1](#fn_226.md)</span>
 
 A much more extreme state of mystical consciousness is described by J.
 A. Symonds; and probably more persons than we suspect could give
@@ -258,10 +258,10 @@ habits which veil that inner Self and build a self of flesh-and-blood
 conventionality? Again, are men the factors of some dream, the
 dream-like unsubstantiality of which they comprehend at such eventful
 moments? What would happen if the final stage of the trance were
-reached?" <span id="fr_227"></span>[1](#fn_227)
+reached?" <span id="fr_227"></span>[1](#fn_227.md)
 
 In a recital like this there is certainly something suggestive of
-pathology. <span id="fr_228"></span>[2](#fn_228) The next step into
+pathology. <span id="fr_228"></span>[2](#fn_228.md) The next step into
 mystical states carries us into a realm that public opinion and ethical
 philosophy have long since branded as pathological, though private
 practice and certain lyric strains of poetry seem still to bear witness
@@ -329,7 +329,7 @@ escape from its authority. I feel as if it must mean something,
 something like what the hegelian philosophy means, if one could only lay
 hold of it more clearly. Those who have ears to hear, let them hear; to
 me the living sense of its reality only comes in the artificial mystic
-state of mind. <span id="fr_229"></span>[1](#fn_229)
+state of mind. <span id="fr_229"></span>[1](#fn_229.md)
 
 I just now spoke of friends who believe in the anæsthetic revelation.
 For them too it is a monistic insight, in which the *other* in its
@@ -344,7 +344,7 @@ remains, the many change and pass;' and each and every one of us *is*
 the One that remains. . . . This is the ultimatum. . . . As sure as
 being—whence is all our care—so sure is content, beyond duplexity,
 antithesis, or trouble, where I have triumphed in a solitude that God is
-not above." <span id="fr_230"></span>[1](#fn_230)
+not above." <span id="fr_230"></span>[1](#fn_230.md)
 
 <span id="page_381">p. 381</span>
 
@@ -385,7 +385,7 @@ reality which succeeded, when my flesh was dead to impressions
 relations, was not a delusion but an actual experience? Is it possible
 that I, in that moment, felt what some of the saints have said they
 always felt, the undemonstrable but irrefragable certainty of
-God?" <span id="fr_231"></span>[1](#fn_231)</span>
+God?" <span id="fr_231"></span>[1](#fn_231.md)</span>
 
 <span id="page_384">p. 384</span>
 
@@ -403,10 +403,10 @@ there comes to him such a vivid and vital realization of his oneness
 with this Infinite Power, and this Spirit of Infinite Peace so takes
 hold of and so fills him, that it seems as if his feet could hardly keep
 to the pavement, so buoyant and so exhilarated does he become by reason
-of this inflowing tide." <span id="fr_232"></span>[1](#fn_232)
+of this inflowing tide." <span id="fr_232"></span>[1](#fn_232.md)
 
 Certain aspects of nature seem to have a peculiar power of awakening
-such mystical moods. <span id="fr_233"></span>[2](#fn_233) Most of the
+such mystical moods. <span id="fr_233"></span>[2](#fn_233.md) Most of the
 striking
 
 <span id="page_386">p. 386</span>
@@ -431,7 +431,7 @@ irresistible intuition in which one feels one's self great as the
 universe, and calm as a god. . . . What hours, what memories! The
 vestiges they leave behind are enough to fill us with belief and
 enthusiasm, as if they were visits of the Holy Ghost." <span
-id="fr_234"></span>[1](#fn_234)</span>
+id="fr_234"></span>[1](#fn_234.md)</span>
 
 Here is a similar record from the memoirs of that interesting German
 idealist, Malwida von Meysenbug:—
@@ -453,7 +453,7 @@ world-encircling harmony. It was as if the chorus of all the great who
 had ever lived were about me. I felt myself one with them, and it
 appeared as if I heard their greeting: 'Thou too belongest to the
 company of those who overcome.'" <span
-id="fr_235"></span>[1](#fn_235)</span>
+id="fr_235"></span>[1](#fn_235.md)</span>
 
 The well known passage from Walt Whitman is a classical expression of
 this sporadic type of mystical experience.
@@ -471,12 +471,12 @@ all the argument of the earth,
  And that all the men ever born are also my brothers and the women my
 sisters and lovers,  
  And that a kelson of the creation is love." <span
-id="fr_236"></span>[2](#fn_236)</span>
+id="fr_236"></span>[2](#fn_236.md)</span>
 
 </div>
 
 I could easily give more instances, but one will suffice. I take it from
-the Autobiography of J. Trevor. <span id="fr_237"></span>[3](#fn_237)
+the Autobiography of J. Trevor. <span id="fr_237"></span>[3](#fn_237.md)
 
 <span id="page_388">p. 388</span>
 
@@ -530,7 +530,7 @@ was not seeking them. What I was seeking, with resolute determination,
 was to live more intensely my own life, as against what I knew would be
 the adverse judgment of the world. It was in the most real seasons that
 the Real Presence came, and I was aware that I was immersed in the
-infinite ocean of God." <span id="fr_238"></span>[1](#fn_238)</span>
+infinite ocean of God." <span id="fr_238"></span>[1](#fn_238.md)</span>
 
 Even the least mystical of you must by this time be convinced of the
 existence of mystical moments as states of consciousness of an entirely
@@ -559,7 +559,7 @@ sense, which is</span>
 enhanced intellectual power. With these come what may be called a sense
 of immortality, a consciousness of eternal life, not a conviction that
 he shall have this, but the consciousness that he has it already." <span
-id="fr_239"></span>[1](#fn_239)</span>
+id="fr_239"></span>[1](#fn_239.md)</span>
 
 It was Dr. Bucke's own experience of a typical onset of cosmic
 consciousness in his own person which led him to investigate it in
@@ -598,7 +598,7 @@ elapsed. I knew that what the vision showed was true. I had attained to
 a point of view from which I saw that it must be true. That view, that
 conviction, I may say that consciousness, has never, even during periods
 of the deepest depression, been lost." <span
-id="fr_240"></span>[1](#fn_240)</span>
+id="fr_240"></span>[1](#fn_240.md)</span>
 
 We have now seen enough of this cosmic or mystic consciousness, as it
 comes sporadically. We must next pass to its methodical cultivation as
@@ -632,7 +632,7 @@ full effulgence, and we know ourselves—for Samâdhi lies potential in us
 all—for what we truly are, free, immortal, omnipotent, loosed from the
 finite, and its contrasts of good and evil altogether, and identical
 with the Atman or Universal Soul." <span
-id="fr_241"></span>[1](#fn_241)</span>
+id="fr_241"></span>[1](#fn_241.md)</span>
 
 The Vedantists say that one may stumble into superconsciousness
 sporadically, without the previous discipline, but it is then impure.
@@ -640,7 +640,7 @@ Their test of its purity, like our test of religion's value, is
 empirical: its fruits must be good for life. When a man comes out of
 Samâdhi, they assure us that he remains "enlightened, a sage, a prophet,
 a saint, his whole character changed, his life changed,
-illumined." <span id="fr_242"></span>[2](#fn_242)
+illumined." <span id="fr_242"></span>[2](#fn_242.md)
 
 The Buddhists used the word "samâdhi" as well as the Hindus; but
 "dhyâna" is their special word for higher states of contemplation. There
@@ -663,7 +663,7 @@ Then he reaches another region where he says: "There are neither ideas
 nor absence of ideas," and stops again. Then another region where,
 "having reached the end of both idea and perception, he stops finally."
 This would seem to be, not yet Nirvâna, but as close an approach to it
-as this life affords. <span id="fr_243"></span>[1](#fn_243)
+as this life affords. <span id="fr_243"></span>[1](#fn_243.md)
 
 In the Mohammedan world the Sufi sect and various dervish bodies are the
 possessors of the mystical tradition. The Sufis have existed in Persia
@@ -686,7 +686,7 @@ of religions other than the Christian.
 <span id="page_394">p. 394</span>
 
 M. Schmölders has translated a part of Al-Ghazzali's autobiography into
-French: <span id="fr_244"></span>[1](#fn_244)—
+French: <span id="fr_244"></span>[1](#fn_244.md)—
 
 "The Science of the Sufis," says the Moslem author, "aims at detaching
 the heart from all that is not God, and at giving to it for sole
@@ -786,7 +786,7 @@ possibly understand. How should you know their true nature, since one
 knows only what one can comprehend? But the transport which one attains
 by the method of the Sufis is like an immediate perception, as if one
 touched the objects with one's hand." <span
-id="fr_245"></span>[1](#fn_245)</span>
+id="fr_245"></span>[1](#fn_245.md)</span>
 
 This incommunicableness of the transport is the keynote of all
 mysticism. Mystical truth exists for the individual who has the
@@ -815,7 +815,7 @@ them have been viewed with suspicion, some have gained favor in the eyes
 of the authorities. The experiences of these have been treated as
 precedents, and a codified system of mystical theology has been based
 upon them, in which everything legitimate finds its place. <span
-id="fr_246"></span>[1](#fn_246) The basis of the system is "orison" or
+id="fr_246"></span>[1](#fn_246.md) The basis of the system is "orison" or
 meditation, the methodical elevation of the soul towards God. Through
 the practice of orison the higher levels of mystical experience may be
 attained. It is odd that Protestantism, especially evangelical
@@ -837,7 +837,7 @@ The acme of this kind of discipline would be a semi-hallucinatory
 mono-ideism—an imaginary figure of Christ, for example, coming fully to
 occupy the mind. Sensorial images of this sort, whether literal or
 symbolic, play an enormous part in mysticism. <span
-id="fr_247"></span>[1](#fn_247) But in certain cases imagery may fall
+id="fr_247"></span>[1](#fn_247.md) But in certain cases imagery may fall
 away entirely, and in the very highest raptures it tends to do so. The
 state of consciousness becomes then insusceptible of any verbal
 description. Mystical teachers are unanimous as to this. Saint John of
@@ -874,10 +874,10 @@ well-springs of the comprehension of love, . . . and recognizes, however
 sublime and learned may be the terms we employ, how utterly vile,
 insignificant, and improper they are, when we seek to discourse of
 divine things by their means." <span
-id="fr_248"></span>[1](#fn_248)</span>
+id="fr_248"></span>[1](#fn_248.md)</span>
 
 I cannot pretend to detail to you the sundry stages of the Christian
-mystical life. <span id="fr_249"></span>[2](#fn_249) Our time would not
+mystical life. <span id="fr_249"></span>[2](#fn_249.md) Our time would not
 suffice, for one thing; and moreover, I confess that the subdivisions
 and names which we find in the Catholic books seem to me to represent
 nothing objectively distinct. So many men, so many minds: I imagine that
@@ -942,7 +942,7 @@ what one does not see? This question, I am powerless to answer. These
 are secrets of God's omnipotence which it does not appertain to me to
 penetrate. All that I know is that I tell the truth; and I shall never
 believe that any soul who does not possess this certainty has ever been
-really united to God." <span id="fr_250"></span>[1](#fn_250)
+really united to God." <span id="fr_250"></span>[1](#fn_250.md)
 
 The kinds of truth communicable in mystical ways, whether these be
 sensible or supersensible, are various. Some of them relate to this
@@ -961,7 +961,7 @@ him to contemplate, in a form and images fitted to the weak
 understanding of a dweller on the earth, the deep mystery of the holy
 Trinity. This last vision flooded his heart with such sweetness, that
 the mere memory of it in after times made him shed abundant
-tears." <span id="fr_251"></span>[2](#fn_251)</span>
+tears." <span id="fr_251"></span>[2](#fn_251.md)</span>
 
 <span id="page_402">p. 402</span>
 
@@ -972,7 +972,7 @@ their proper form, and nevertheless the view I had of them was of a
 sovereign clearness, and has remained vividly impressed upon my soul. It
 is one of the most signal of all the graces which the Lord has granted
 me. . . . The view was so subtile and delicate that the understanding
-cannot grasp it." <span id="fr_252"></span>[1](#fn_252)</span>
+cannot grasp it." <span id="fr_252"></span>[1](#fn_252.md)</span>
 
 She goes on to tell how it was as if the Deity were an enormous and
 sovereignly limpid diamond, in which all our actions were contained in
@@ -992,12 +992,12 @@ happiness."</span>
 
 On still another occasion, it was given to Saint Teresa to see and
 understand in what wise the Mother of God had been assumed into her
-place in Heaven. <span id="fr_253"></span>[1](#fn_253)
+place in Heaven. <span id="fr_253"></span>[1](#fn_253.md)
 
 The deliciousness of some of these states seems to be beyond anything
 known in ordinary consciousness. It evidently involves organic
 sensibilities, for it is spoken of as something too extreme to be borne,
-and as verging on bodily pain. <span id="fr_254"></span>[2](#fn_254) But
+and as verging on bodily pain. <span id="fr_254"></span>[2](#fn_254.md) But
 it is too subtle and piercing a delight for ordinary words to denote.
 God's touches, the wounds of his spear, references to ebriety and to
 nuptial union have to figure in the phraseology by which it is shadowed
@@ -1007,7 +1007,7 @@ in a mode which remains unknown to it, and it can understand nothing of
 what it comprehends. For my own part, I do not believe that it does
 comprehend, because, as I said, it does not understand itself to do so.
 I confess that it is all a mystery in which I am lost." <span
-id="fr_255"></span>[3](#fn_255) In the condition called *raptus* or
+id="fr_255"></span>[3](#fn_255.md) In the condition called *raptus* or
 ravishment by theologians, breathing and
 
 <span id="page_404">p. 404</span>
@@ -1059,11 +1059,11 @@ single one of these intoxicating consolations may reward it for all the
 labors undergone in its life—even were they numberless. Invested with an
 invincible courage, filled with an impassioned desire to suffer for its
 God, the soul then is seized with a strange torment—that of not being
-allowed to suffer enough." <span id="fr_256"></span>[1](#fn_256)</span>
+allowed to suffer enough." <span id="fr_256"></span>[1](#fn_256.md)</span>
 
 Saint Teresa is as emphatic, and much more detailed. You may perhaps
 remember a passage I quoted from her in my first lecture. <span
-id="fr_257"></span>[2](#fn_257) There are many similar pages in her
+id="fr_257"></span>[2](#fn_257.md) There are many similar pages in her
 autobiography. Where in literature is a more evidently veracious account
 of the formation of a new centre of spiritual energy, than is given in
 her description of the effects of certain ecstasies which in departing
@@ -1108,7 +1108,7 @@ agree together to regard it as so much useless mud, what harmony would
 then reign in the world! With what friendship we would all treat each
 other if our interest in honor and in money could but disappear from
 earth! For my own part, I feel as if it would be a remedy for all our
-ills." <span id="fr_258"></span>[1](#fn_258)</span>
+ills." <span id="fr_258"></span>[1](#fn_258.md)</span>
 
 Mystical conditions may, therefore, render the soul more energetic in
 the lines which their inspiration favors. But this could be reckoned an
@@ -1135,7 +1135,7 @@ yes-function more than to the no-function in us. In them the unlimited
 absorbs the limits and peacefully closes the account. Their very denial
 of every adjective you may propose as applicable to the ultimate
 truth—He, the Self, the Atman, is to be described by "No! no!" only, say
-the Upanishads <span id="fr_259"></span>[1](#fn_259)—though it seems on
+the Upanishads <span id="fr_259"></span>[1](#fn_259.md)—though it seems on
 the surface to be a no-function, is a denial made on behalf of a deeper
 yes. Whoso calls the Absolute anything in particular, or says that it is
 *this*, seems implicitly to shut it off from being *that*—it is as if he
@@ -1158,7 +1158,7 @@ nor moves, nor rests. . . . It is neither essence, nor</span>
 not belong to it. It is neither science nor truth. It is not even
 royalty or wisdom; not one; not unity; not divinity or goodness; nor
 even spirit as we know it," etc., *ad libitum*. <span
-id="fr_260"></span>[1](#fn_260)</span>
+id="fr_260"></span>[1](#fn_260.md)</span>
 
 But these qualifications are denied by Dionysius, not because the truth
 falls short of them, but because it so infinitely excels them. It is
@@ -1166,27 +1166,27 @@ above them. It is *super*-lucent, *super*-splendent, *super*-essential,
 *super*-sublime, *super everything* that can be named. Like Hegel in his
 logic, mystics journey towards the positive pole of truth only by the
 "Methode der Absoluten Negativitat." <span
-id="fr_261"></span>[2](#fn_261)
+id="fr_261"></span>[2](#fn_261.md)
 
 Thus come the paradoxical expressions that so abound in mystical
 writings. As when Eckhart tells of the still desert of the Godhead,
 "where never was seen difference, neither Father, Son, nor Holy Ghost,
 where there is no one at home, yet where the spark of the soul is more
-at peace than in itself." <span id="fr_262"></span>[3](#fn_262) As when
+at peace than in itself." <span id="fr_262"></span>[3](#fn_262.md) As when
 Boehme writes of the Primal Love, that "it may fitly be compared to
 Nothing, for it is deeper than any Thing, and is as nothing with respect
 to all things, forasmuch as it is not comprehensible by any of them. And
 because it is nothing respectively, it is therefore free from all
 things, and is that only good, which a man cannot express or utter what
 it is, there being nothing to which it may be compared, to express it
-by." <span id="fr_263"></span>[4](#fn_263) Or as when Angelus Silesius
+by." <span id="fr_263"></span>[4](#fn_263.md) Or as when Angelus Silesius
 sings:—
 
 <div style="margin-left: 32px">
 
 "Gott ist ein lauter Nichts, ihn rührt kein Nun noch Hier;  
  Je mehr du nach ihm greiffst, je mehr entwind er dir." <span
-id="fr_264"></span>[5](#fn_264)
+id="fr_264"></span>[5](#fn_264.md)
 
 </div>
 
@@ -1213,11 +1213,11 @@ all that I am is no more than an image of Being, and only God is to me I
 AM; and so, sitting down in my own Nothingness, I give glory to the
 eternal Being, and *will nothing* of myself, that so God may will all in
 me, being unto me my God and all things." <span
-id="fr_265"></span>[1](#fn_265)</span>
+id="fr_265"></span>[1](#fn_265.md)</span>
 
 In Paul's language, I live, yet not I, but Christ liveth in me. Only
 when I become as nothing can God enter in and no difference between his
-life and mine remain outstanding. <span id="fr_266"></span>[2](#fn_266)
+life and mine remain outstanding. <span id="fr_266"></span>[2](#fn_266.md)
 
 <span id="page_410">p. 410</span>
 
@@ -1232,7 +1232,7 @@ ought to make a critic stop and think, and which brings it about that
 the mystical classics have, as has been said, neither birthday nor
 native land. Perpetually telling of the unity of man with God, their
 speech antedates languages, and they do not grow old. <span
-id="fr_267"></span>[1](#fn_267)
+id="fr_267"></span>[1](#fn_267.md)
 
 "That art Thou!" say the Upanishads, and the Vedantists add: "Not a
 part, not a mode of That, but identically That, that absolute Spirit of
@@ -1243,27 +1243,27 @@ the World." "As pure water poured
 into pure water remains the same, thus, O Gautama, is the Self of a
 thinker who knows. Water in water, fire in fire, ether in ether, no one
 can distinguish them: likewise a man whose mind has entered into the
-Self." <span id="fr_268"></span>[1](#fn_268) "'Every man,' says the Sufi
+Self." <span id="fr_268"></span>[1](#fn_268.md) "'Every man,' says the Sufi
 Gulshan-Râz, whose heart is no longer shaken by any doubt, knows with
 certainty that there is no being save only One. . . . In his divine
 majesty the *me*, and *we*, the *thou*, are not found, for in the One
 there can be no distinction. Every being who is annulled and entirely
 separated from himself, hears resound outside of him this voice and this
 echo: *I am God:* he has an eternal way of existing, and is no longer
-subject to death.'" <span id="fr_269"></span>[2](#fn_269) In the vision
+subject to death.'" <span id="fr_269"></span>[2](#fn_269.md) In the vision
 of God, says Plotinus, "what sees is not our reason, but something prior
 and superior to our reason. . . . He who thus sees does not properly
 see, does not distinguish or imagine two things. He changes, he ceases
 to be himself, preserves nothing of himself. Absorbed in God, he makes
 but one with him, like a centre of a circle coinciding with another
-centre." <span id="fr_270"></span>[3](#fn_270) "Here," writes Suso, "the
+centre." <span id="fr_270"></span>[3](#fn_270.md) "Here," writes Suso, "the
 spirit dies, and yet is all alive in the marvels of the Godhead . . .
 and is lost in the stillness of the glorious dazzling obscurity and of
 the naked simple unity. It is in this modeless *where* that the highest
-bliss is to be found." <span id="fr_271"></span>[4](#fn_271) "Ich bin so
+bliss is to be found." <span id="fr_271"></span>[4](#fn_271.md) "Ich bin so
 gross als Gott," sings Angelus Silesius again, "Er ist als ich so klein;
 Er kann nicht über mich, ich unter ihm nicht sein." <span
-id="fr_272"></span>[5](#fn_272)
+id="fr_272"></span>[5](#fn_272.md)
 
 In mystical literature such self-contradictory phrases as "dazzling
 obscurity," "whispering silence," "teeming desert," are continually met
@@ -1291,7 +1291,7 @@ the object of thy search: the <span class="smallcaps">voice</span>
 unbroken, that resounds throughout eternities, exempt from change, from
 sin exempt, the seven sounds in one, the <span class="smallcaps">voice
 of the silence</span>. *Om tat Sat*." <span
-id="fr_273"></span>[1](#fn_273)</span>
+id="fr_273"></span>[1](#fn_273.md)</span>
 
 These words, if they do not awaken laughter as you receive them,
 probably stir chords within you which music and language touch in
@@ -1313,7 +1313,7 @@ We should know what never man hath known, nor eye of man hath scanned. .
 Ah, but here man's heart leaps, yearning towards the gloom with
 venturous glee,  
 From the shore that hath no shore beyond it, set in all the sea." <span
-id="fr_274"></span>[1](#fn_274)
+id="fr_274"></span>[1](#fn_274.md)
 
 </div>
 
@@ -1322,10 +1322,10 @@ That doctrine, for example, that eternity is timeless, that our
 already now and here, which we find so often expressed to-day in certain
 philosophic circles, finds its support in a "hear, hear!" or an "amen,"
 which floats up from that mysteriously deeper level. <span
-id="fr_275"></span>[2](#fn_275) We recognize the passwords to the
+id="fr_275"></span>[2](#fn_275.md) We recognize the passwords to the
 mystical region as we hear them, but we cannot use them ourselves; it
 alone has the keeping of "the password primeval." <span
-id="fr_276"></span>[3](#fn_276)
+id="fr_276"></span>[3](#fn_276.md)
 
 I have now sketched with extreme brevity and insufficiency, but as
 fairly as I am able in the time allowed, the general traits of the
@@ -1365,13 +1365,13 @@ I will take up these points one by one.
 
 As a matter of psychological fact, mystical states of a well-pronounced
 and emphatic sort *are* usually authoritative over those who have
-them. <span id="fr_277"></span>[1](#fn_277) They have been "there," and
+them. <span id="fr_277"></span>[1](#fn_277.md) They have been "there," and
 know. It is vain for rationalism to grumble about this. If the mystical
 truth that comes to a man proves to be a force that he can live by, what
 mandate have we of the majority to order him to live in another way? We
 can throw him into a prison or a madhouse, but we cannot change his
 mind—we commonly attach it only the more stubbornly to its
-beliefs. <span id="fr_278"></span>[2](#fn_278) It mocks our utmost
+beliefs. <span id="fr_278"></span>[2](#fn_278.md) It mocks our utmost
 efforts, as a matter of fact,
 
 <span id="page_415">p. 415</span>
@@ -1420,17 +1420,17 @@ find that the supposed unanimity largely disappears. To begin with, even
 religious mysticism itself, the kind that accumulates traditions and
 makes schools, is much less unanimous than I have allowed. It has been
 both ascetic and antinomianly self-indulgent within the Christian
-church. <span id="fr_279"></span>[1](#fn_279) It is dualistic in
+church. <span id="fr_279"></span>[1](#fn_279.md) It is dualistic in
 Sankhya, and monistic in Vedanta philosophy. I called it pantheistic;
 but the great Spanish mystics are anything but pantheists. They are with
 few exceptions non-metaphysical minds, for whom "the category of
 personality" is absolute. The "union" of man with God is for them much
 more like an occasional miracle than like an original identity. <span
-id="fr_280"></span>[2](#fn_280) How different again, apart from the
+id="fr_280"></span>[2](#fn_280.md) How different again, apart from the
 happiness common to all, is the mysticism of Walt Whitman, Edward
 Carpenter, Richard Jefferies, and other naturalistic pantheists, from
 the more distinctively Christian sort. <span
-id="fr_281"></span>[3](#fn_281) The fact is that the mystical feeling of
+id="fr_281"></span>[3](#fn_281.md) The fact is that the mystical feeling of
 enlargement,
 
 <span id="page_417">p. 417</span>
@@ -1476,7 +1476,7 @@ methods, so long as we are not mystics ourselves.
 
 Once more, then, I repeat that non-mystics are under no obligation to
 acknowledge in mystical states a superior authority conferred on them by
-their intrinsic nature. <span id="fr_282"></span>[1](#fn_282)
+their intrinsic nature. <span id="fr_282"></span>[1](#fn_282.md)
 
 #### 3.
 
@@ -1492,7 +1492,7 @@ such, or deny anything that our senses have immediately
 
 <span id="page_419">p. 419</span>
 
-seized. <span id="fr_283"></span>[1](#fn_283) It is the rationalistic
+seized. <span id="fr_283"></span>[1](#fn_283.md) It is the rationalistic
 critic rather who plays the part of denier in the controversy, and his
 denials have no strength, for there never can be a state of facts to
 which new meaning may not truthfully be added, provided the mind ascend
@@ -1545,10 +1545,10 @@ glance at it which my limits will allow.
 
 ### Footnotes
 
-<span id="fn_222"></span>[373:1](vre13.htm#fr_222) Newman's *Securus
+<span id="fn_222"></span>[373:1](vre13.htm#fr_222.md) Newman's *Securus
 judicat orbis terrarum* is another instance.
 
-<span id="fn_223"></span>[373:2](vre13.htm#fr_223) "Mesopotamia" is the
+<span id="fn_223"></span>[373:2](vre13.htm#fr_223.md) "Mesopotamia" is the
 stock comic instance.—An excellent Old German lady, who had done some
 traveling in her day, used to describe to me her *Sehnsucht* that she
 might yet visit "Philadelphia," whose wondrous name had always haunted
@@ -1559,7 +1559,7 @@ The words *woods* and *forests* would produce the most powerful
 emotion." Foster's Life, by <span class="smallcaps">Ryland</span>, New
 York, 1846, p. 3.
 
-<span id="fn_224"></span>[374:1](vre13.htm#fr_224) The Two Voices. In a
+<span id="fn_224"></span>[374:1](vre13.htm#fr_224.md) The Two Voices. In a
 letter to Mr. B. P. Blood, Tennyson reports of himself as follows:—
 
 "I have never had any revelations through anæsthetics, but a kind of
@@ -1580,22 +1580,22 @@ condition: "By God Almighty! there is no delusion in the matter! It is
 no nebulous ecstasy, but a state of transcendent wonder, associated with
 absolute clearness of mind." Memoirs of Alfred Tennyson, ii. 473.
 
-<span id="fn_225"></span>[375:1](vre13.htm#fr_225) The Lancet, July 6
+<span id="fn_225"></span>[375:1](vre13.htm#fr_225.md) The Lancet, July 6
 and 13, 1895, reprinted as the Cavendish Lecture, on Dreamy Mental
 States, London, Baillière, 1895. They have been a good deal discussed of
 late by psychologists. See, for example, <span
 class="smallcaps">Bernard-Leroy</span>: L’Illusion de Fausse
 Reconnaissance, Paris, 1898.
 
-<span id="fn_226"></span>[376:1](vre13.htm#fr_226) Charles Kingsley's
+<span id="fn_226"></span>[376:1](vre13.htm#fr_226.md) Charles Kingsley's
 Life, i. 55, quoted by <span class="smallcaps">Inge</span>: Christian
 Mysticism, London, 1899, p. 341.
 
-<span id="fn_227"></span>[377:1](vre13.htm#fr_227) <span
+<span id="fn_227"></span>[377:1](vre13.htm#fr_227.md) <span
 class="smallcaps">H. F. Brown</span>: J. A. Symonds. a Biography,
 London, 1895, pp. 29-31, abridged.
 
-<span id="fn_228"></span>[377:2](vre13.htm#fr_228) Crichton-Browne
+<span id="fn_228"></span>[377:2](vre13.htm#fr_228.md) Crichton-Browne
 expressly says that Symonds's "highest nerve centres were in some degree
 enfeebled or damaged by these dreamy mental states which afflicted him
 so grievously."  Symonds was, however, a perfect monster of many-sided
@@ -1604,7 +1604,7 @@ for his strange opinion, save that Symonds complained occasionally, as
 all susceptible and ambitious men complain, of lassitude and uncertainty
 as to his life's mission.
 
-<span id="fn_229"></span>[379:1](vre13.htm#fr_229) What reader of Hegel
+<span id="fn_229"></span>[379:1](vre13.htm#fr_229.md) What reader of Hegel
 can doubt that that sense of a perfected Being with all its otherness
 soaked up into itself, which dominates his whole philosophy, must have
 come from the prominence in his consciousness of mystical moods like
@@ -1612,7 +1612,7 @@ this, in most persons kept subliminal? The notion is thoroughly
 characteristic of the mystical level and the *Aufgabe* of making it
 articulate was surely set to Hegel's intellect by mystical feeling.
 
-<span id="fn_230"></span>[380:1](vre13.htm#fr_230) <span
+<span id="fn_230"></span>[380:1](vre13.htm#fr_230.md) <span
 class="smallcaps">Benjamin Paul Blood</span>: The Anæsthetic Revelation
 and the Gist of Philosophy, Amsterdam, N. Y., 1874, pp. 35, 36. Mr.
 Blood has made several attempts to adumbrate the anæsthetic revelation,
@@ -1706,7 +1706,7 @@ assurance of the soul—for which the speech of reason has as yet no name
 but the Anæsthetic Revelation."—I have considerably abridged the
 quotation.
 
-<span id="fn_231"></span>[383:1](vre13.htm#fr_231) Op. cit., pp. 78-80,
+<span id="fn_231"></span>[383:1](vre13.htm#fr_231.md) Op. cit., pp. 78-80,
 abridged. I subjoin, also abridging it, another interesting anæsthetic
 revelation communicated to me in manuscript by a friend in England. The
 subject, a gifted woman, was taking ether for a surgical operation.
@@ -1784,10 +1784,10 @@ of what we see over what we can demonstrate.
 me they are dark truths, and the power to put them into even such words
 as these has been given me by an ether dream."
 
-<span id="fn_232"></span>[385:1](vre13.htm#fr_232) In Tune with the
+<span id="fn_232"></span>[385:1](vre13.htm#fr_232.md) In Tune with the
 Infinite, p. 137.
 
-<span id="fn_233"></span>[385:2](vre13.htm#fr_233) The larger God may
+<span id="fn_233"></span>[385:2](vre13.htm#fr_233.md) The larger God may
 then swallow up the smaller one. I take this from Starbuck's manuscript
 collection:—
 
@@ -1822,13 +1822,13 @@ highly instructive article, which seems to me to throw light upon the
 psychological conditions, though it fails to account for the rapture or
 the revelation-value of the experience in the Subject's eyes.
 
-<span id="fn_234"></span>[386:1](vre13.htm#fr_234) Op cit., i. 43-44.
+<span id="fn_234"></span>[386:1](vre13.htm#fr_234.md) Op cit., i. 43-44.
 
-<span id="fn_235"></span>[387:1](vre13.htm#fr_235) Memoiren einer
+<span id="fn_235"></span>[387:1](vre13.htm#fr_235.md) Memoiren einer
 Idealistin, 5te Auflage, 1900, iii. 166. For years she had been unable
 to pray, owing to materialistic belief.
 
-<span id="fn_236"></span>[387:2](vre13.htm#fr_236) Whitman in another
+<span id="fn_236"></span>[387:2](vre13.htm#fr_236.md) Whitman in another
 place expresses in a quieter way what was probably with him a chronic
 mystical perception: "There is," he writes, "apart from mere intellect,
 in the make-up of every superior human identity, a wondrous something
@@ -1845,27 +1845,27 @@ optimism explains only the surface." Whitman charges it against Carlyle
 that he lacked this perception. Specimen Days and Collect, Philadelphia,
 1882, p. 174.
 
-<span id="fn_237"></span>[387:3](vre13.htm#fr_237) My Quest for God,
+<span id="fn_237"></span>[387:3](vre13.htm#fr_237.md) My Quest for God,
 London, 1897, pp. 268, 269, abridged.
 
-<span id="fn_238"></span>[389:1](vre13.htm#fr_238) Op. cit., pp. 256,
+<span id="fn_238"></span>[389:1](vre13.htm#fr_238.md) Op. cit., pp. 256,
 257, abridged.
 
-<span id="fn_239"></span>[390:1](vre13.htm#fr_239) Cosmic Consciousness:
+<span id="fn_239"></span>[390:1](vre13.htm#fr_239.md) Cosmic Consciousness:
 a study in the evolution of the human Mind, Philadelphia, 1901, p. 2.
 
-<span id="fn_240"></span>[391:1](vre13.htm#fr_240) Loc. cit., pp. 7, 8.
+<span id="fn_240"></span>[391:1](vre13.htm#fr_240.md) Loc. cit., pp. 7, 8.
 My quotation follows the privately printed pamphlet which preceded Dr.
 Bucke's larger work, and differs verbally a little from the text of the
 latter.
 
-<span id="fn_241"></span>[392:1](vre13.htm#fr_241) My quotations are
+<span id="fn_241"></span>[392:1](vre13.htm#fr_241.md) My quotations are
 from <span class="smallcaps">Vivekananda</span>, Raja Yoga, London,
 1896. The completest source of information on Yoga is the work
 translated by <span class="smallcaps">Vihari Lala Mitra</span>: Yoga
 Vasishta Maha Ramayana. 4 vols. Calcutta, 1891-99.
 
-<span id="fn_242"></span>[392:2](vre13.htm#fr_242) A European witness,
+<span id="fn_242"></span>[392:2](vre13.htm#fr_242.md) A European witness,
 after carefully comparing the results of Yoga with those of the hypnotic
 or dreamy states artificially producible by us, says: "It makes of its
 true disciples good, healthy, and happy men. . . . Through the mastery
@@ -1877,40 +1877,40 @@ opposite of what we usually imagine a medium so-called, or psychic
 subject to be. <span class="smallcaps">Karl Kellner</span>: Yoga: Eine
 Skizze, München, 1896, p. 21.
 
-<span id="fn_243"></span>[393:1](vre13.htm#fr_243) I follow the account
+<span id="fn_243"></span>[393:1](vre13.htm#fr_243.md) I follow the account
 in <span class="smallcaps">C. F. Koeppen</span>: Die Religion des
 Buddha, Berlin, 1857, i. 585 ff.
 
-<span id="fn_244"></span>[394:1](vre13.htm#fr_244) For a full account of
+<span id="fn_244"></span>[394:1](vre13.htm#fr_244.md) For a full account of
 him, see <span class="smallcaps">D. B. Macdonald</span>: The Life Of
 Al-Ghazzali, in the Journal of the American Oriental Society, 1899, vol.
 xx., p. 71.
 
-<span id="fn_245"></span>[396:1](vre13.htm#fr_245) <span
+<span id="fn_245"></span>[396:1](vre13.htm#fr_245.md) <span
 class="smallcaps">A. Schmölders</span>: Essai sur les écoles
 philosophiques chez les Arabes, Paris, 1842, pp. 54-68, abridged.
 
-<span id="fn_246"></span>[397:1](vre13.htm#fr_246) <span
+<span id="fn_246"></span>[397:1](vre13.htm#fr_246.md) <span
 class="smallcaps">Görres's</span> Christliche Mystik gives a full
 account of the facts. So does <span class="smallcaps">Ribet's</span>
 Mystique Divine, 2 vols., Paris, 1890. A still more methodical modern
 work is the Mystica Theologia of <span
 class="smallcaps">Vallgornera</span>, 2 vols., Turin, 1890.
 
-<span id="fn_247"></span>[398:1](vre13.htm#fr_247) <span
+<span id="fn_247"></span>[398:1](vre13.htm#fr_247.md) <span
 class="smallcaps">M. Récéjac</span>, in a recent volume, makes them
 essential. Mysticism he defines as "the tendency to draw near to the
 Absolute morally *and by the aid of Symbols*." See his Fondements de la
 Connaissance mystique, Paris, 1897, p. 66. But there are unquestionably
 mystical conditions in which sensible symbols play no part.
 
-<span id="fn_248"></span>[399:1](vre13.htm#fr_248) Saint John of the
+<span id="fn_248"></span>[399:1](vre13.htm#fr_248.md) Saint John of the
 Cross: The Dark Night of the Soul, book ii. ch. xvii., in Vie et Œuvres,
 3me édition, Paris, 1893, iii. 428-432. Chapter xi. of book ii. of Saint
 John's Ascent of Carmel is devoted to showing the harmfulness for the
 mystical life of the use of sensible imagery.
 
-<span id="fn_249"></span>[399:2](vre13.htm#fr_249) In particular I omit
+<span id="fn_249"></span>[399:2](vre13.htm#fr_249.md) In particular I omit
 mention of visual and auditory hallucinations, verbal and graphic
 automatisms, and such marvels as "levitation," stigmatization, and the
 healing of disease. These phenomena, which mystics have often presented
@@ -1920,11 +1920,11 @@ whatever, when they occur, as they often do, in persons of non-mystical
 mind. Consciousness of illumination is for us the essential mark of
 "mystical" states.
 
-<span id="fn_250"></span>[401:1](vre13.htm#fr_250) The Interior Castle,
+<span id="fn_250"></span>[401:1](vre13.htm#fr_250.md) The Interior Castle,
 Fifth Abode, Ch. i., in Œuvres, translated by <span
 class="smallcaps">Bouix</span>, iii. 421-424.
 
-<span id="fn_251"></span>[401:2](vre13.htm#fr_251) <span
+<span id="fn_251"></span>[401:2](vre13.htm#fr_251.md) <span
 class="smallcaps">Bartoli-Michel</span>: vie de Saint Ignace de Loyola,
 i. 34-36. Others have had illuminations about the created world, Jacob
 Boehme for instance. At the age of twenty-five he was "surrounded by the
@@ -1961,11 +1961,11 @@ cosmogonies, for example, or certain experiences related in the
 delectable "Reminiscences and Memories of Henry Thomas Butterworth,"
 Lebanon, Ohio, 1886.
 
-<span id="fn_252"></span>[402:1](vre13.htm#fr_252) Vie, pp. 581, 582.
+<span id="fn_252"></span>[402:1](vre13.htm#fr_252.md) Vie, pp. 581, 582.
 
-<span id="fn_253"></span>[403:1](vre13.htm#fr_253) Loc. cit., p. 574.
+<span id="fn_253"></span>[403:1](vre13.htm#fr_253.md) Loc. cit., p. 574.
 
-<span id="fn_254"></span>[403:2](vre13.htm#fr_254) Saint Teresa
+<span id="fn_254"></span>[403:2](vre13.htm#fr_254.md) Saint Teresa
 discriminates between pain in which the body has a part and pure
 spiritual pain (Interior Castle, 6th Abode, ch. xi.). As for the bodily
 part in these celestial joys, she speaks of it as "penetrating to the
@@ -1973,42 +1973,42 @@ marrow of the bones, whilst earthly pleasures affect only the surface of
 the senses. I think," she adds, "that this is a just description, and I
 cannot make it better." Ibid., 5th Abode, ch. i.
 
-<span id="fn_255"></span>[403:3](vre13.htm#fr_255) Vie, p. 198.
+<span id="fn_255"></span>[403:3](vre13.htm#fr_255.md) Vie, p. 198.
 
-<span id="fn_256"></span>[405:1](vre13.htm#fr_256) Œuvres, ii. 320.
+<span id="fn_256"></span>[405:1](vre13.htm#fr_256.md) Œuvres, ii. 320.
 
-<span id="fn_257"></span>[405:2](vre13.htm#fr_257) Above, [p.
-22](vre03.htm#page_22).
+<span id="fn_257"></span>[405:2](vre13.htm#fr_257.md) Above, [p.
+22](vre03.htm#page_22.md).
 
-<span id="fn_258"></span>[406:1](vre13.htm#fr_258) Vie, pp. 229, 230,
+<span id="fn_258"></span>[406:1](vre13.htm#fr_258.md) Vie, pp. 229, 230,
 231-233, 243.
 
-<span id="fn_259"></span>[407:1](vre13.htm#fr_259) <span
+<span id="fn_259"></span>[407:1](vre13.htm#fr_259.md) <span
 class="smallcaps">Müller's</span> translation, part ii. p. 180.
 
-<span id="fn_260"></span>[408:1](vre13.htm#fr_260) <span
+<span id="fn_260"></span>[408:1](vre13.htm#fr_260.md) <span
 class="smallcaps">T. Davidson's</span> translation, in Journal of
 Speculative Philosophy, 1893, vol. xxii., p. 399.
 
-<span id="fn_261"></span>[408:2](vre13.htm#fr_261) "Deus propter
+<span id="fn_261"></span>[408:2](vre13.htm#fr_261.md) "Deus propter
 excellentiam non immerito Nihil vocatur." Scotus Erigena, quoted by
 <span class="smallcaps">Andrew Seth</span>: Two Lectures on Theism, New
 York, 1897, p. 55.
 
-<span id="fn_262"></span>[408:3](vre13.htm#fr_262) <span
+<span id="fn_262"></span>[408:3](vre13.htm#fr_262.md) <span
 class="smallcaps">J. Royce</span>: Studies in Good and Evil, p. 282.
 
-<span id="fn_263"></span>[408:4](vre13.htm#fr_263) Jacob Bellmen's
+<span id="fn_263"></span>[408:4](vre13.htm#fr_263.md) Jacob Bellmen's
 Dialogues on the Supersensual Life, translated by <span
 class="smallcaps">Bernard Holland</span>, London, 1901, p. 48.
 
-<span id="fn_264"></span>[408:5](vre13.htm#fr_264) Cherubinischer
+<span id="fn_264"></span>[408:5](vre13.htm#fr_264.md) Cherubinischer
 Wandersmann, Strophe 25.
 
-<span id="fn_265"></span>[409:1](vre13.htm#fr_265) Op. cit., pp. 42, 74,
+<span id="fn_265"></span>[409:1](vre13.htm#fr_265.md) Op. cit., pp. 42, 74,
 abridged.
 
-<span id="fn_266"></span>[409:2](vre13.htm#fr_266) From a French book I
+<span id="fn_266"></span>[409:2](vre13.htm#fr_266.md) From a French book I
 take this mystical expression of happiness in God's indwelling
 presence:—
 
@@ -2039,46 +2039,46 @@ modification of my nature, a new manner of my being." Quoted from the
 MS. of an old man by <span class="smallcaps">Wilfred Monod</span>: Il
 Vit: six méditations sur le mystère chrétien, pp. 280-283.
 
-<span id="fn_267"></span>[410:1](vre13.htm#fr_267) Compare <span
+<span id="fn_267"></span>[410:1](vre13.htm#fr_267.md) Compare <span
 class="smallcaps">M. Maeterlinck</span>: L’Ornement des Noces
 spirituelles de Ruysbroeck, Bruxelles, 1891, Introduction, p. xix.
 
-<span id="fn_268"></span>[411:1](vre13.htm#fr_268) Upanishads, <span
+<span id="fn_268"></span>[411:1](vre13.htm#fr_268.md) Upanishads, <span
 class="smallcaps">M. Müller's</span> translation, ii. 17, 334.
 
-<span id="fn_269"></span>[411:2](vre13.htm#fr_269) <span
+<span id="fn_269"></span>[411:2](vre13.htm#fr_269.md) <span
 class="smallcaps">Schmölders:</span> Op. cit., p. 210.
 
-<span id="fn_270"></span>[411:3](vre13.htm#fr_270) Enneads, <span
+<span id="fn_270"></span>[411:3](vre13.htm#fr_270.md) Enneads, <span
 class="smallcaps">Bouillier's</span> translation. Paris, 1861, iii. 561.
 Compare pp. 473-477, and vol. i. p. 27.
 
-<span id="fn_271"></span>[411:4](vre13.htm#fr_271) Autobiography, pp.
+<span id="fn_271"></span>[411:4](vre13.htm#fr_271.md) Autobiography, pp.
 309, 310.
 
-<span id="fn_272"></span>[411:5](vre13.htm#fr_272) Op. cit., Strophe 10.
+<span id="fn_272"></span>[411:5](vre13.htm#fr_272.md) Op. cit., Strophe 10.
 
-<span id="fn_273"></span>[412:1](vre13.htm#fr_273) <span
+<span id="fn_273"></span>[412:1](vre13.htm#fr_273.md) <span
 class="smallcaps">H. P. Blavatsky</span>: The voice of the Silence.
 
-<span id="fn_274"></span>[413:1](vre13.htm#fr_274) <span
+<span id="fn_274"></span>[413:1](vre13.htm#fr_274.md) <span
 class="smallcaps">Swinburne</span>: On the Verge, in "A Midsummer
 vacation."
 
-<span id="fn_275"></span>[413:2](vre13.htm#fr_275) Compare the extracts
+<span id="fn_275"></span>[413:2](vre13.htm#fr_275.md) Compare the extracts
 from Dr. Bucke, quoted on pp. 398, 399.
 
-<span id="fn_276"></span>[413:3](vre13.htm#fr_276) As serious an attempt
+<span id="fn_276"></span>[413:3](vre13.htm#fr_276.md) As serious an attempt
 as I know to mediate between the mystical region and the discursive life
 is contained in an article on Aristotle's Unmoved Mover, by <span
 class="smallcaps">F. C. S. Schiller</span>, in Mind, vol. ix., 1900.
 
-<span id="fn_277"></span>[414:1](vre13.htm#fr_277) I abstract from
+<span id="fn_277"></span>[414:1](vre13.htm#fr_277.md) I abstract from
 weaker states, and from those cases of which the books are full, where
 the director (but usually not the subject) remains in doubt whether the
 experience may not have proceeded from the demon.
 
-<span id="fn_278"></span>[414:2](vre13.htm#fr_278) Example: Mr. John
+<span id="fn_278"></span>[414:2](vre13.htm#fr_278.md) Example: Mr. John
 Nelson writes of his imprisonment for preaching Methodism: "My soul was
 as a watered garden, and I could sing praises to God all day long; for
 he turned my captivity into joy, and gave me to rest as well on the
@@ -2088,7 +2088,7 @@ carried out much in prayer that my enemies might drink of the same river
 of peace which my God gave so largely to me." Journal, London, no date,
 p. 172.
 
-<span id="fn_279"></span>[416:1](vre13.htm#fr_279) <span
+<span id="fn_279"></span>[416:1](vre13.htm#fr_279.md) <span
 class="smallcaps">Ruysbroeck</span>, in the work which Maeterlinck has
 translated, has a chapter against the antinomianism of disciples. <span
 class="smallcaps">H. Delacroix's</span> book (Essai sur le mysticisme
@@ -2096,16 +2096,16 @@ spéculatif en Allemagne au XIVme Siècle, Paris, 1900) is full of
 antinomian material. compare also <span class="smallcaps">A.
 Jundt</span>: Les Amis de Dieu au XIV Siécle, These de Strasbourg, 1879.
 
-<span id="fn_280"></span>[416:2](vre13.htm#fr_280) Compare <span
+<span id="fn_280"></span>[416:2](vre13.htm#fr_280.md) Compare <span
 class="smallcaps">Paul Rousselot</span>: Les Mystiques Espagnols, Paris,
 1869, ch. xii.
 
-<span id="fn_281"></span>[416:3](vre13.htm#fr_281) see <span
+<span id="fn_281"></span>[416:3](vre13.htm#fr_281.md) see <span
 class="smallcaps">Carpenter's</span> Towards Democracy, especially the
 latter parts, and <span class="smallcaps">Jefferies's</span> wonderful
 and splendid mystic rhapsody, The Story of my Heart.
 
-<span id="fn_282"></span>[418:1](vre13.htm#fr_282) In chapter i. of book
+<span id="fn_282"></span>[418:1](vre13.htm#fr_282.md) In chapter i. of book
 ii. of his work Degeneration, "<span class="smallcaps">Max
 Nordau</span>" seeks to undermine all mysticism by exposing the weakness
 of the lower kinds. Mysticism for him means any sudden perception of
@@ -2123,11 +2123,11 @@ no such merely negative condition. It seems far more reasonable to
 ascribe them to inroads from the subconscious life, of the cerebral
 activity correlative to which we as yet know nothing.
 
-<span id="fn_283"></span>[419:1](vre13.htm#fr_283) They sometimes add
+<span id="fn_283"></span>[419:1](vre13.htm#fr_283.md) They sometimes add
 subjective *audita et visa* to the facts, but as these are usually
 interpreted as transmundane, they oblige no alteration in the facts of
 sense.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture XVIII. Philosophy](vre14)
+[Next: Lecture XVIII. Philosophy](vre14.md)

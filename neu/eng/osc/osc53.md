@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc52)  [Next](osc54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc52)  [Next](osc54.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ crystal gazing.
 
 ------------------------------------------------------------------------
 
-[Next: (13) Stumbling and Falling](osc54)
+[Next: (13) Stumbling and Falling](osc54.md)

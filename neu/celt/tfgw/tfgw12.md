@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw11)  [Next](tfgw13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw11)  [Next](tfgw13.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,4 +179,4 @@ The Two Gamblers and the Fairies
 
 ------------------------------------------------------------------------
 
-[Next: The Girl and the Robber](tfgw13)
+[Next: The Girl and the Robber](tfgw13.md)

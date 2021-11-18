@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl16)  [Next](irl18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl16)  [Next](irl18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -84,7 +84,7 @@ the notice and supervision of the Elder
 
 <span class="contnote">\[paragraph continues\]</span> Race, and they use
 for evil purposes the ancient mech of the Gods—mech designed and built
-for good, not evi1. <span id="fr_51"></span>[15](#fn_51)
+for good, not evi1. <span id="fr_51"></span>[15](#fn_51.md)
 
 Such a race were the Jotuns—offsprings of what unknown evil life? Evil
 life walking upright in a parody of the dignity and good that is man,
@@ -112,7 +112,7 @@ even they could make an occasional mistake—a mistake like leaving
 equipment for the Jotun fleet heading toward us right now.
 
 It was a motley array—the Jotun fleet. The black shape of Sathanas’
-space monster <span id="fr_52"></span>[16](#fn_52) rose in the
+space monster <span id="fr_52"></span>[16](#fn_52.md) rose in the
 background, ready to come in when the time and place looked
 inviting—poised for a crushing decisive blow.
 
@@ -420,7 +420,7 @@ good look I would take at that lovely face.
 
 ### Footnotes
 
-<span id="fn_51"></span>[145:15](irl17.htm#fr_51) GOD-BUILT MECH: In the
+<span id="fn_51"></span>[145:15](irl17.htm#fr_51.md) GOD-BUILT MECH: In the
 ancient world wide caverns that some old, old race built and then
 deserted. they had many marvelous mechanisms. When they left this
 planet, Mother Mu or Lemuria (See previous issues of Amazing Stories),
@@ -441,7 +441,7 @@ to stop for several reasons. First, surface men doubt the existence of
 these things, and, secondly, their mech makes them infinitely more
 potent and powerful than surface men.—R. S. Shaver.
 
-<span id="fn_52"></span>[146:16](irl17.htm#fr_52) SATHANAS' SPACE
+<span id="fn_52"></span>[146:16](irl17.htm#fr_52.md) SATHANAS' SPACE
 MONSTER: These untellably ancient space ships are huge beyond belief . .
 . as large as the rigid, lighter-than-air Zeppelins of Earth were before
 the war—the Los Angeles, the Akron, the Hindenburg, etc. They were small
@@ -493,4 +493,4 @@ breathtaking in its immensity, and unbelievable, in fact.—Author.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. In the Hands of Sathanas](irl18)
+[Next: Chapter VI. In the Hands of Sathanas](irl18.md)

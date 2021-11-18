@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb07)  [Next](olb09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb07)  [Next](olb09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -45,7 +45,7 @@ the forests are general property, and no man can appropriate them.
 8\. The market charges shall not exceed one-twelfth of the value of the
 goods either to natives or strangers. The portion taken for the charges
 shall not be sold before the other goods. <span
-id="fr_5"></span>[\*](#fn_5)
+id="fr_5"></span>[\*](#fn_5.md)
 
 9\. All the market receipts must be divided yearly into a hundred parts
 three days before the Juul-day.
@@ -81,9 +81,9 @@ regulations came fixed laws.
 
 ### Footnotes
 
-<span id="fn_5"></span>[33:\*](olb08.htm#fr_5) The market dues were paid
+<span id="fn_5"></span>[33:\*](olb08.htm#fr_5.md) The market dues were paid
 in kind.
 
 ------------------------------------------------------------------------
 
-[Next: Here Follow the Laws which were thus Established](olb09)
+[Next: Here Follow the Laws which were thus Established](olb09.md)

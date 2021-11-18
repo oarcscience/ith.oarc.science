@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai15)  [Next](kwai17) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai15)  [Next](kwai17.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ former birth."...
 
 ------------------------------------------------------------------------
 
-[Next: Hi-Mawari](kwai17)
+[Next: Hi-Mawari](kwai17.md)

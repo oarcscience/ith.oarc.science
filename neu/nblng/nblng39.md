@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng38)  [Next](nblng40) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng38)  [Next](nblng40.md) 
 
 ------------------------------------------------------------------------
 
@@ -379,4 +379,4 @@ See Adventure V, note 2.
 ------------------------------------------------------------------------
 
 [Next: Adventure XXXVIII: How All Sir Dietrich's Warriors Were
-Slain.](nblng40)
+Slain.](nblng40.md)

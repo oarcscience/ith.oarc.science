@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp00)  [Next](wgp02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp00)  [Next](wgp02.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_pl01"></span> [![](tn/generic.jpg)  
-Click to view](img/pl01.jpg)  
+Click to view](img/pl01.jpg.md)  
 PLATE I
 
  
@@ -22,7 +22,7 @@ RICHARD PAYNE KNIGHT has written with great learning on the origin and
 history of the worship of Priapus among the ancients. This worship,
 which was but a part of that of the generative powers, appears to have
 been the most ancient of the superstitions of the human race, <span
-id="fr_0"></span>[1](#fn_0) has prevailed more or less among all known
+id="fr_0"></span>[1](#fn_0.md) has prevailed more or less among all known
 peoples before the introduction of Christianity, and, singularly enough,
 so deeply it seems to have been implanted in human nature, that even the
 promulgation of the Gospel did not abolish it, for it continued to
@@ -54,7 +54,7 @@ differens Cultes*,
 
 <span id="page_9">p. 9</span>
 
-by the same author. <span id="fr_1"></span>[2](#fn_1) This book,
+by the same author. <span id="fr_1"></span>[2](#fn_1.md) This book,
 however, is still very imperfect; and it is the design of the following
 pages to give, with the most interesting of the facts already collected
 by Dulaure, other facts and a description and explanation of monuments,
@@ -97,14 +97,14 @@ the city of Nîmes in the south of France, where the symbol of this
 worship appeared in sculpture on the walls of its amphitheatre and on
 other buildings, in forms some of which we can hardly help regarding as
 fanciful, or even playful. Some of the more remarkable of these are
-figured in our plates, [II](#img_pl02) and [III](#img_pl03).
+figured in our plates, [II](#img_pl02) and [III](#img_pl03.md).
 
 <span id="page_11">p. 11</span>
 
  
 
 <span id="img_pl02"></span> [![](tn/generic.jpg)  
-Click to view](img/pl02.jpg)  
+Click to view](img/pl02.jpg.md)  
 PLATE II  
 ROMAN SCULPTURE FROM NIMES
 
@@ -112,7 +112,7 @@ ROMAN SCULPTURE FROM NIMES
 
 <span id="page_13">p. 13</span>
 
-The first of these, <span id="fr_2"></span>[3](#fn_2) is the figure of a
+The first of these, <span id="fr_2"></span>[3](#fn_2.md) is the figure of a
 double phallus. It is sculptured on the lintel of one of the vomitories,
 or issues, of the second range of seats of the Roman amphitheatre, near
 the entrance-gate which looks to the south. The double and the triple
@@ -122,7 +122,7 @@ one phallus usually serves as the body, and is furnished with legs,
 generally those of the goat; a second occupies the usual place of this
 organ; and a third appears in that of a tail. On a pilaster of the
 amphitheatre of Nîmes we see a triple phallus of this description, <span
-id="fr_3"></span>[4](#fn_3) with goat's legs and feet. A small bell is
+id="fr_3"></span>[4](#fn_3.md) with goat's legs and feet. A small bell is
 suspended to the smaller phallus in front; and the larger organ which
 forms the body is furnished with wings. The picture is completed by the
 introduction of three birds, two of which are pecking the unveiled head
@@ -135,20 +135,20 @@ that work, the hind part of the main phallus assumes clearly
 
 <span id="page_14">p. 14</span>
 
-the form of a dog; <span id="fr_4"></span>[5](#fn_4) and to most of them
+the form of a dog; <span id="fr_4"></span>[5](#fn_4.md) and to most of them
 are attached small bells, the explanation of which appears as yet to be
 very unsatisfactory. The wings also are common attributes of the phallus
 in these monuments. Plutarch is quoted as an authority for the
 explanation of the triple phallus as intended to signify multiplication
-of its productive faculty. <span id="fr_5"></span>[6](#fn_5)
+of its productive faculty. <span id="fr_5"></span>[6](#fn_5.md)
 
 On the top of another pilaster of the amphitheatre at Nîmes, to the
 right of the principal western entrance, was a bas-relief, also
 representing a triple phallus, with legs of dog, and winged, but with a
-further accompaniment. <span id="fr_6"></span>[7](#fn_6) A female,
+further accompaniment. <span id="fr_6"></span>[7](#fn_6.md) A female,
 dressed in the Roman stola, stands upon the phallus forming the tail,
 and holds both it and the one forming the body with a bridle. <span
-id="fr_7"></span>[8](#fn_7) This bas-relief was taken down in 1829, and
+id="fr_7"></span>[8](#fn_7.md) This bas-relief was taken down in 1829, and
 is now preserved in the museum of Nîmes.
 
 A still more remarkable monument of this class was found in the course
@@ -159,7 +159,7 @@ of excavations made at
  
 
 <span id="img_pl03"></span> [![](tn/generic.jpg)  
-Click to view](img/pl03.jpg)  
+Click to view](img/pl03.jpg.md)  
 MONUMENT FOUND AT NIMES IN 1825
 
  
@@ -175,7 +175,7 @@ but it may perhaps be more rightly regarded as a playful conception of
 the imagination. A similar design, with some modifications, occurs not
 unfrequently among Gallo-Roman antiquities. We have engraved a figure of
 the triple phallus governed, or guided, by the female, <span
-id="fr_8"></span>[9](#fn_8) from a small bronze plate, on which it
+id="fr_8"></span>[9](#fn_8.md) from a small bronze plate, on which it
 appears in bas-relief; it is now preserved in a private collection in
 London, with a duplicate, which appears to have been cast from the same
 mould, though the plate is cut through, and they were evidently intended
@@ -195,7 +195,7 @@ was found there during some excavations on the site of the Roman baths.
 It is a squared mass of stone, the four sides of which, like the one
 represented in our engraving, are covered with similar figures of the
 sexual characteristics of the female, arranged in rows. <span
-id="fr_9"></span>[10](#fn_9) It has evidently served as a base, probably
+id="fr_9"></span>[10](#fn_9.md) It has evidently served as a base, probably
 to a statue, or possibly to an altar. This curious monument is now
 preserved in the museum at Nîmes.
 
@@ -206,7 +206,7 @@ province, even to the other side of the Rhine. On the site of Roman
 settlements near Xanten, in lower Hesse, a large quantity of pottery and
 other objects have been found, of a character to leave no doubt as to
 the prevalence of this worship in that quarter. <span
-id="fr_10"></span>[11](#fn_10) But the Roman settlement which occupied
+id="fr_10"></span>[11](#fn_10.md) But the Roman settlement which occupied
 the site of the modern city of Antwerp appears to have been one of the
 most remarkable seats of the worship of
 
@@ -224,12 +224,12 @@ perfectly identical in character with those which occur in France and
 Italy. In illustration of this fact, we give two examples of the triple
 phallus, which appears to have been, perhaps in accordance with the
 explanation given by Plutarch, an amulet in great favour. The first was
-found in London in 1842. <span id="fr_11"></span>[12](#fn_11) As in the
+found in London in 1842. <span id="fr_11"></span>[12](#fn_11.md) As in the
 examples found on the continent, a principal phallus forms the body,
 having the hinder parts of apparently a dog, with wings of a peculiar
 form, perhaps intended for those of a dragon. Several small rings are
 attached, no doubt for the purpose of suspending bells. Our second
-example  <span id="fr_12"></span>[13](#fn_12) was found at York in 1844.
+example  <span id="fr_12"></span>[13](#fn_12.md) was found at York in 1844.
 It displays a peculiarity of action which, in this case at least, leaves
 no doubt that the hinder parts were intended to be those of a dog. All
 antiquaries of any experience know the great number
@@ -243,11 +243,11 @@ promiscuous intercourse between the sexes, even vices contrary to
 nature, with figures of Priapus, and phallic emblems. We give as an
 example one of the less exceptional scenes of this description, copied
 from a Samian bowl found in Cannon Street, London, in 1828. <span
-id="fr_13"></span>[14](#fn_13) The lamps, chiefly of earthenware, form
+id="fr_13"></span>[14](#fn_13.md) The lamps, chiefly of earthenware, form
 another class of objects on which such scenes are frequently portrayed,
 and to which broadly phallic forms are sometimes given. One of these
 phallic lamps is here represented, on the same plate with the bowl of
-Samian ware just described. <span id="fr_14"></span>[15](#fn_14) It is
+Samian ware just described. <span id="fr_14"></span>[15](#fn_14.md) It is
 hardly necessary to explain the subject represented by this lamp, which
 was found in London a few years ago.
 
@@ -272,7 +272,7 @@ altars, and other stones with inscriptions, which, after being long
 preserved in an outhouse of the rectory at Adel, are now deposited in
 the museum of the Philosophical Society at Leeds. One of the most
 curious of these, which we have here engraved for the first time, <span
-id="fr_15"></span>[16](#fn_15) appears to be a votive offering to
+id="fr_15"></span>[16](#fn_15.md) appears to be a votive offering to
 Priapus, who seems to be addressed under the name of Mentula. It is a
 rough, unsquared stone, which has been selected for possessing a
 tolerably flat and smooth surface; and the figure and letters were made
@@ -302,7 +302,7 @@ these interpretations seems, however, to be the most probable. This
 monument belongs probably to rather a late date in the Roman period.
 Another *ex voto* of the same class was found at Westerwood Fort in
 Scotland, one of the Roman fortresses on the wall of Antoninus. This
-monument  <span id="fr_16"></span>[17](#fn_16) consisted of a square
+monument  <span id="fr_16"></span>[17](#fn_16.md) consisted of a square
 slab of stone, in the middle of which was a phallus, and under it the
 words EX : VOTO. Above were the letters
 
@@ -311,7 +311,7 @@ words EX : VOTO. Above were the letters
  
 
 <span id="img_pl04"></span> [![](tn/generic.jpg)  
-Click to view](img/pl04.jpg)  
+Click to view](img/pl04.jpg.md)  
 PLATE IV  
 PHALLIC MONUMENTS FOUND IN SCOTLAND
 
@@ -327,7 +327,7 @@ seen the extensive and imposing remains of one of the Roman stations on
 the Wall of Hadrian named Borcovicus. The walls of the entrance gateways
 are especially well preserved, and on that of the guard-house attached
 to one of them, is a slab of stone presenting the figure given in our
-[plate IV, fig. 3](#img_pl04). It is a rude delineation of a phallus
+[plate IV, fig. 3](#img_pl04.md). It is a rude delineation of a phallus
 with the legs of a fowl, and reminds us of some of the monuments in
 France and Italy previously described. These phallic images were no
 doubt exposed in such situations because they were supposed to exercise
@@ -380,7 +380,7 @@ worship, the need-fires, and the procession of the boar's head at the
 Christmas festivities. The former were fires kindled at the period of
 the summer solstice, and were certainly in their origin religious
 observances. The boar was intimately connected with the worship of
-Frea. <span id="fr_17"></span>[18](#fn_17)
+Frea. <span id="fr_17"></span>[18](#fn_17.md)
 
 From our want of a more intimate knowledge of this part of Teutonic
 paganism, we are unable to decide whether some of the superstitious
@@ -427,7 +427,7 @@ Creed or the Lord's Prayer, let him do penance on bread and water during
 three lents." An act of the council of Châlons, held in the ninth
 century, prohibits the same practice almost in the same words; and
 Burchardus repeats it again in the twelfth century, <span
-id="fr_18"></span>[19](#fn_18) a proof of the continued existence of
+id="fr_18"></span>[19](#fn_18.md) a proof of the continued existence of
 this worship. That it was in full force long after this is proved by the
 statutes of the synod of Mans, held in 1247, which enjoin similarly the
 punishment for him "who has sinned to the fascinum, or has performed
@@ -445,7 +445,7 @@ more than a small amulet.
 
 ### Footnotes
 
-<span id="fn_0"></span>[7:1](wgp01.htm#fr_0) There appears to be a
+<span id="fn_0"></span>[7:1](wgp01.htm#fr_0.md) There appears to be a
 chance of this worship being claimed for a very early period in the
 history of the human race. It has been recently stated in the
 "Moniteur," that, in the province of Venice, in Italy, excavations in a
@@ -455,41 +455,41 @@ places, flint implements, with a needle of bone having an eye and point,
 and a plate of an argillaceous compound, on which was scratched a rude
 drawing of a phallus.--*Moniteur*, Jan. 1865.
 
-<span id="fn_1"></span>[9:2](wgp01.htm#fr_1) The second edition of this
+<span id="fn_1"></span>[9:2](wgp01.htm#fr_1.md) The second edition of this
 work, published in 1825, is by much the best, and is considerably
 enlarged from the first.
 
-<span id="fn_2"></span>[13:3](wgp01.htm#fr_2) [Plate II, Fig.
-1](#img_pl02).
+<span id="fn_2"></span>[13:3](wgp01.htm#fr_2.md) [Plate II, Fig.
+1](#img_pl02.md).
 
-<span id="fn_3"></span>[13:4](wgp01.htm#fr_3) See our [Plate II, Fig.
-2](#img_pl02).
+<span id="fn_3"></span>[13:4](wgp01.htm#fr_3.md) See our [Plate II, Fig.
+2](#img_pl02.md).
 
-<span id="fn_4"></span>[14:5](wgp01.htm#fr_4) The writer of the text to
+<span id="fn_4"></span>[14:5](wgp01.htm#fr_4.md) The writer of the text to
 the *Musée Secret* supposes that this circumstance has some reference to
 the double meaning given to the Greek word κύων, which was used for the
 generative organ.
 
-<span id="fn_5"></span>[14:6](wgp01.htm#fr_5) See Auguste Pelet,
+<span id="fn_5"></span>[14:6](wgp01.htm#fr_5.md) See Auguste Pelet,
 *Catalogue du Musée de Nîmes*.
 
-<span id="fn_6"></span>[14:7](wgp01.htm#fr_6) [Plate II, Fig.
-3](#img_pl02).
+<span id="fn_6"></span>[14:7](wgp01.htm#fr_6.md) [Plate II, Fig.
+3](#img_pl02.md).
 
-<span id="fn_7"></span>[14:8](wgp01.htm#fr_7) A French antiquary has
+<span id="fn_7"></span>[14:8](wgp01.htm#fr_7.md) A French antiquary has
 given an emblematical interpretation of this figure. "Perhaps," he says,
 "it signifies the empire of woman extending over the three ages of man;
 on youth, characterized by the bell; on the age of vigour, the ardour of
 which she restrains; and on old age, which she sustains." This is
 perhaps more ingenious than convincing.
 
-<span id="fn_8"></span>[17:9](wgp01.htm#fr_8) See our [Plate III, Fig.
-3](#img_pl03).
+<span id="fn_8"></span>[17:9](wgp01.htm#fr_8.md) See our [Plate III, Fig.
+3](#img_pl03.md).
 
-<span id="fn_9"></span>[18:10](wgp01.htm#fr_9) See [Plate II, Fig.
-4](#img_pl02).
+<span id="fn_9"></span>[18:10](wgp01.htm#fr_9.md) See [Plate II, Fig.
+4](#img_pl02.md).
 
-<span id="fn_10"></span>[18:11](wgp01.htm#fr_10) Two Roman towns, Castra
+<span id="fn_10"></span>[18:11](wgp01.htm#fr_10.md) Two Roman towns, Castra
 Vetera and Colonia Trajana, stood within no great distance of Xanten,
 and Ph. Houben, a "notartius" of this town, formed a private museum of
 antiquities found there, and in 1839, published engravings of them, with
@@ -497,34 +497,34 @@ a text by Dr. Franz Fiedler. The erotic objects form a separate work
 under the title, *Antike erotische Bildwerke in Houbens Antiquarium zu
 Xanten*.
 
-<span id="fn_11"></span>[19:12](wgp01.htm#fr_11) See [Plate I, Fig.
-3](#img_pl01).
+<span id="fn_11"></span>[19:12](wgp01.htm#fr_11.md) See [Plate I, Fig.
+3](#img_pl01.md).
 
-<span id="fn_12"></span>[19:13](wgp01.htm#fr_12) [Plate I, Fig.
-4](#img_pl01).
+<span id="fn_12"></span>[19:13](wgp01.htm#fr_12.md) [Plate I, Fig.
+4](#img_pl01.md).
 
-<span id="fn_13"></span>[20:14](wgp01.htm#fr_13) [Plate I, Fig.
-1](#img_pl01).
+<span id="fn_13"></span>[20:14](wgp01.htm#fr_13.md) [Plate I, Fig.
+1](#img_pl01.md).
 
-<span id="fn_14"></span>[20:15](wgp01.htm#fr_14) [Plate I, Fig.
-2](#img_pl01).
+<span id="fn_14"></span>[20:15](wgp01.htm#fr_14.md) [Plate I, Fig.
+2](#img_pl01.md).
 
-<span id="fn_15"></span>[21:16](wgp01.htm#fr_15) [Plate IV, Fig.
-1](#img_pl04).
+<span id="fn_15"></span>[21:16](wgp01.htm#fr_15.md) [Plate IV, Fig.
+1](#img_pl04.md).
 
-<span id="fn_16"></span>[22:17](wgp01.htm#fr_16) See [Plate IV, Fig.
-2](#img_pl04). Horseley, who engraved this monument in his *Brittania
+<span id="fn_16"></span>[22:17](wgp01.htm#fr_16.md) See [Plate IV, Fig.
+2](#img_pl04.md). Horseley, who engraved this monument in his *Brittania
 Romana*, Scotland, fig. xix. has inserted a fig-leaf in place of the
 phallus, but with slight indications of the form of the object it was
 intended to conceal. We are not aware if this monument is still in
 existence.
 
-<span id="fn_17"></span>[27:18](wgp01.htm#fr_17) See Grimm's Deutsche
+<span id="fn_17"></span>[27:18](wgp01.htm#fr_17.md) See Grimm's Deutsche
 Mythologie, p. 139, first edition.
 
-<span id="fn_18"></span>[28:19](wgp01.htm#fr_18) D. Burchardi
+<span id="fn_18"></span>[28:19](wgp01.htm#fr_18.md) D. Burchardi
 *Decretorum libri*, lib. x, c 49.
 
 ------------------------------------------------------------------------
 
-[Next: Middle Ages and Renaissance](wgp02)
+[Next: Middle Ages and Renaissance](wgp02.md)

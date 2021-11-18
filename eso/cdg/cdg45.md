@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg44)  [Next](cdg46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg44)  [Next](cdg46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,10 +28,10 @@ reign of Ptolemy, who makes the following statement, "It is said also
 that the priest, who ordained their polity and laws, was by birth of
 Heliopolis, and his name Osarsiph, from Osiris the god of Heliopolis:
 but that when he went over to these people his name was changed, and he
-was called Moyses." <span id="fr_209"></span>[†](#fn_210) In the
+was called Moyses." <span id="fr_209"></span>[†](#fn_210.md) In the
 Egyptian language the word Moses is spelled MSS, and means child, which
 word is not infrequently used in sacred writings with the meaning of
-Child of God or Initiate. <span id="fr_210"></span>[\*](#fn_209)
+Child of God or Initiate. <span id="fr_210"></span>[\*](#fn_209.md)
 Accurately speaking, Moses is neither a surname nor a patronymic, but a
 
 <span id="page_285">p. 285</span>
@@ -70,7 +70,7 @@ carnal nature.
 
 6\. And the Lord sent fiery serpents among the people, "The Hebrew word
 here used for serpent is Saraph, which properly signifies to
-burn," <span id="fr_211"></span>[\*](#fn_211) and may he literally
+burn," <span id="fr_211"></span>[\*](#fn_211.md) and may he literally
 translated as Serpent Fire, Solar Force. And the Lord sent the Serpent
 Fire among the people, and because they had given way to their lower
 natures, the manifestations of this Force "bit (burned) the people, and
@@ -95,11 +95,11 @@ came to pass, that if a serpent had bitten
 <span id="page_287">p. 287</span>
 
 any man, when he beheld the serpent of brass, he lived. In the Gospel of
-St. John, <span id="fr_212"></span>[§](#fn_212) iii, 14, we read "and
+St. John, <span id="fr_212"></span>[§](#fn_212.md) iii, 14, we read "and
 just as Moses lifted high the serpent in the Desert, so must the Son of
 Man be. lifted up in order that every one who trusts in him may have the
 Life of the Ages" (literally of the Solar Force). <span
-id="fr_213"></span>[†](#fn_213) This verse intimates that the serpent
+id="fr_213"></span>[†](#fn_213.md) This verse intimates that the serpent
 and the Son of Man or Messiah are manifestations of the same Divine
 Force, a fact which their identity of numerical value indicates and
 which Masonry confirms, "In the Templar and Philosophical degrees, the
@@ -112,21 +112,21 @@ Cyclopædia, page 663*</span>.
 
 ### Footnotes
 
-<span id="fn_209"></span>[284:\*](cdg45.htm#fr_210) COMPARE *Isaiah
+<span id="fn_209"></span>[284:\*](cdg45.htm#fr_210.md) COMPARE *Isaiah
 lxv., 20, Luke xviii., 17*.
 
-<span id="fn_210"></span>[284:†](cdg45.htm#fr_209) I. P. CORY, "ANCIENT
+<span id="fn_210"></span>[284:†](cdg45.htm#fr_209.md) I. P. CORY, "ANCIENT
 FRAGMENTS," PAGE 181.
 
-<span id="fn_211"></span>[286:\*](cdg45.htm#fr_211) *Cruden's
+<span id="fn_211"></span>[286:\*](cdg45.htm#fr_211.md) *Cruden's
 Concordance, Page 628, Ed. 1855*.
 
-<span id="fn_212"></span>[287:§](cdg45.htm#fr_212) *Testament in Modern
+<span id="fn_212"></span>[287:§](cdg45.htm#fr_212.md) *Testament in Modern
 Speech*.
 
-<span id="fn_213"></span>[287:†](cdg45.htm#fr_213) *Compare Saint Paul
-an Initiate, Page [213](cdg16.htm#page_213) Commentary Continued*.
+<span id="fn_213"></span>[287:†](cdg45.htm#fr_213.md) *Compare Saint Paul
+an Initiate, Page [213](cdg16.htm#page_213.md) Commentary Continued*.
 
 ------------------------------------------------------------------------
 
-[Next: II. Book of the Wars of the Lord](cdg46)
+[Next: II. Book of the Wars of the Lord](cdg46.md)

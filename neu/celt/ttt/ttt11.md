@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ttt10)  [Next](ttt12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ttt10)  [Next](ttt12.md) 
 
 ------------------------------------------------------------------------
 
@@ -810,4 +810,4 @@ WORDS OF POWER
 
 ------------------------------------------------------------------------
 
-[Next: The Name and the Soul](ttt12)
+[Next: The Name and the Soul](ttt12.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph18)  [Next](aph20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph18)  [Next](aph20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ the flute-player was put upon her feet and they saw her
 <span id="page_155">p. 155</span>
 
 <span id="img_15500"></span> <span align="CENTER"> [![](tn/15500.jpg)  
-Click to enlarge](img/15500.jpg)</span>
+Click to enlarge](img/15500.jpg.md)</span>
 
 <span id="page_156">p. 156</span> <span id="page_157">p. 157</span>
 
@@ -161,4 +161,4 @@ And they dragged before Bacchis their sister, who had just swooned.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five. The Crucifixion](aph20)
+[Next: Chapter Five. The Crucifixion](aph20.md)

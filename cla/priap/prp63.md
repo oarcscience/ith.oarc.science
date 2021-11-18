@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp62)  [Next](prp64) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp62)  [Next](prp64.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ raging with unsated lust.
 
 ------------------------------------------------------------------------
 
-[Next: 64. One than a goose's marrow softer far](prp64)
+[Next: 64. One than a goose's marrow softer far](prp64.md)

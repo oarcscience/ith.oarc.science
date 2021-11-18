@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](emec01)  [Next](emec03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](emec01)  [Next](emec03.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 # THE EGYPTIAN MYTHOLOGY.
 
 <span id="img_1"></span> [![](tn/generic.jpg)  
-Click to view](img/00100.jpg)
+Click to view](img/00100.jpg.md)
 
 Fig. 1.--The Winged Sun of Thebes.
 
@@ -51,4 +51,4 @@ of the kingdom in which each was more particularly worshipped.
 
 ------------------------------------------------------------------------
 
-[Next: The Religion of Upper Egypt](emec03)
+[Next: The Religion of Upper Egypt](emec03.md)

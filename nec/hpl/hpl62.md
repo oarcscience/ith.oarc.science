@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl61)  [Next](hpl63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl61)  [Next](hpl63.md) 
 
 ------------------------------------------------------------------------
 
@@ -384,4 +384,4 @@ opened up those black vistas whose end was deeper than the pit.
 
 ------------------------------------------------------------------------
 
-[Next: II. An Antecedent and a Horror](hpl63)
+[Next: II. An Antecedent and a Horror](hpl63.md)

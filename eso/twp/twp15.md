@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp14)  [Next](twp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp14)  [Next](twp16.md) 
 
 ------------------------------------------------------------------------
 
@@ -406,4 +406,4 @@ they have been met as they have, with alternate incredulity and fear.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](twp16)
+[Next: Chapter XIV](twp16.md)

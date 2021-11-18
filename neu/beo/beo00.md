@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Next](beo01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Next](beo01.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ Legends](../index)  [Index](index)  [Next](beo01) 
 
 ------------------------------------------------------------------------
 
-[Next: Prelude](beo01)
+[Next: Prelude](beo01.md)

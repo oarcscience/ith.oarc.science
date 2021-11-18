@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe03) 
-[Next](ioe05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe03.md) 
+[Next](ioe05.md) 
 
 ------------------------------------------------------------------------
 
@@ -186,4 +186,4 @@ aggressive policy towards Japan.
 
 ------------------------------------------------------------------------
 
-[Next: Confucianism--Northern China](ioe05)
+[Next: Confucianism--Northern China](ioe05.md)

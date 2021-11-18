@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg25)  [Next](btg27) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg25)  [Next](btg27.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ Buddha in his heart.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Characteristics And The Uncreated](btg27)
+[Next: The Three Characteristics And The Uncreated](btg27.md)

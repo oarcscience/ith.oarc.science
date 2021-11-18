@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar160) [Next](gbar162)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar160) [Next](gbar162.md)
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ speak the Hebrew tongue.
 
 ------------------------------------------------------------------------
 
-[Next](gbar162)
+[Next](gbar162.md)

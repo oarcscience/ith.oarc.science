@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl12)  [Next](hhl14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl12)  [Next](hhl14.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 WHEN history is told by genealogies, rather than by cycles of years, the
 time-problem is difficult to solve. But in the story of
-Laa-mai-Kahiki <span id="fr_1"></span>[1](#fn_1) the stories and
+Laa-mai-Kahiki <span id="fr_1"></span>[1](#fn_1.md) the stories and
 genealogies of two widely separated groups of Pacific islands produce a
 certain degree of apparent accuracy. The Society Islands have the story
 of Raa who became a ruler and established a line of rulers which has
@@ -83,7 +83,7 @@ mountains of the island Hawaii and
 
 [![CHIEFS IN FEATHER CLOAKS AND HELMETS&lt;br&gt; &lt;i&gt;By courtesy
 Paradise of the Pacific&lt;/i&gt;.](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)  
+Click to enlarge](img/08800.jpg.md)  
 CHIEFS IN FEATHER CLOAKS AND HELMETS  
 *By courtesy Paradise of the Pacific*.  
 
@@ -184,7 +184,7 @@ among men. It has been better to tell of victories.
 
 ### Footnotes
 
-<span id="fn_1"></span>[86:1](hhl13.htm#fr_1) Laa-mai-Kahiki means
+<span id="fn_1"></span>[86:1](hhl13.htm#fr_1.md) Laa-mai-Kahiki means
 Laa-from-Kahiki in the Hawaiian language, or Raa-from-Tahiti in the
 Tahitian dialect. In the Hawaiian stories he was always known as
 Laa-mai-Kahiki. He was a very high chief from Hawaii absorbed in the
@@ -194,4 +194,4 @@ Tahiti. This is simply such a change as is found in dialects everywhere.
 
 ------------------------------------------------------------------------
 
-[Next: X. First Foreigners](hhl14)
+[Next: X. First Foreigners](hhl14.md)

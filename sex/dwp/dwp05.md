@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](dwp04)  [Next](dwp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](dwp04)  [Next](dwp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ as upon the nymphs, the passive agents of procreation:
  
 
 <span id="img_pl10"></span> [![](tn/generic.jpg)  
-Click to view](img/pl10.jpg)  
+Click to view](img/pl10.jpg.md)  
 PLATE X  
 SYSTRUM, WITH VARIOUS MEDALS
 
@@ -32,9 +32,9 @@ procreation. But a learned author, who has thrown infinite light upon
 these subjects, has effectually cleared them from this suspicion, by
 showing that they only took the most convenient way to get at the female
 organs of generation, in those mixed beings who possessed both. <span
-id="fr_97"></span>[1](#fn_97) This is confirmed by Lucretius, who
+id="fr_97"></span>[1](#fn_97.md) This is confirmed by Lucretius, who
 asserts, that this attitude is better adapted to the purposes of
-generation than any other. <span id="fr_98"></span>[2](#fn_98) We may
+generation than any other. <span id="fr_98"></span>[2](#fn_98.md) We may
 therefore conclude, that instead of representing them in the act of
 gratifying any disorderly appetites, the artists meant to show their
 modesty in not indulging their concupiscence, but in doing their duty in
@@ -42,7 +42,7 @@ the way best adapted to answer the ends proposed by the Creator.
 
 On the Greek medals, where the cow is the symbol of the deity, she is
 frequently represented licking a calf, which is sucking her. <span
-id="fr_99"></span>[3](#fn_99) This is probably meant to show that the
+id="fr_99"></span>[3](#fn_99.md) This is probably meant to show that the
 creative power cherishes and nourishes,
 
 <span id="page_90">p. 90</span>
@@ -52,20 +52,20 @@ refresh and invigorate them immediately after birth, it is natural to
 suppose, according to the general system of symbolical writing, that
 this action should be taken as an emblem of the effect it was thought to
 produce. On other medals the bull or cow is represented licking
-itself; <span id="fr_100"></span>[1](#fn_100) which, upon the same
+itself; <span id="fr_100"></span>[1](#fn_100.md) which, upon the same
 principle, must represent the strength of the deity refreshed and
 invigorated by the exertion of its own nutritive and plastic power upon
 its own being. On others again is a human head of an androgynous
 character, like that of the Bacchus διφυης, with the tongue extended
 over the lower lip, as if to lick something. <span
-id="fr_101"></span>[2](#fn_101) This was probably the same symbol,
+id="fr_101"></span>[2](#fn_101.md) This was probably the same symbol,
 expressed in a less explicit manner; it being the common practice of the
 Greek artists to make a part of a composition signify the whole, of
 which I shall soon have occasion to give some incontestable examples. On
 a Parian medal published by Goltzius, the bull licking himself is
 represented on one side, accompanied by the asterisk of the sun, and on
 the other, the head with the tongue extended, having serpents, the
-emblems of life, for hair. <span id="fr_102"></span>[3](#fn_102) The
+emblems of life, for hair. <span id="fr_102"></span>[3](#fn_102.md) The
 same medal is in
 
 <span id="page_91">p. 91</span>
@@ -76,7 +76,7 @@ is a female accompanied by the initial of the word Θεος, instead of the
 asterisk of the sun. Antiquarians have called this head a Medusa; but,
 had they examined it attentively on any well-preserved coin, they would
 have found that the expression of the features means lust, and not rage
-or horror. <span id="fr_103"></span>[1](#fn_103) The case is, that
+or horror. <span id="fr_103"></span>[1](#fn_103.md) The case is, that
 antiquarians have been continually led into error, by seeking for
 explanations of the devices on the Greek medals in the wild and
 capricious stories of Ovid's *Metamorphoses*, instead of examining the
@@ -101,7 +101,7 @@ caverns are ancient places of worship, hewn in the solid rock with
 immense labour and difficulty. That from which the fragment in question
 was brought, is 130 feet long by 110 wide, adorned with columns and
 sculptures finished in a style very different from that of the Indian
-artists. <span id="fr_104"></span>[1](#fn_104) It is now neglected; but
+artists. <span id="fr_104"></span>[1](#fn_104.md) It is now neglected; but
 others of the same kind are still used as places of worship by the
 Hindoos, who can give no account of the antiquity of them, which must
 necessarily be very remote, for the Hindoos are a very ancient people;
@@ -116,19 +116,19 @@ invigoration, is mutually applied by both to their respective organs of
 
 <span id="page_93">p. 93</span>
 
-generation, <span id="fr_105"></span>[1](#fn_105) the emblems of the
+generation, <span id="fr_105"></span>[1](#fn_105.md) the emblems of the
 active and passive powers of procreation, which mutually cherish and
 invigorate each other.
 
 The Hindoos still represent the creative powers of the deity by these
 ancient symbols, the male and female organs of generation; and worship
 them with the same pious reverence as the Greeks and Egyptians
-did. <span id="fr_106"></span>[2](#fn_106) Like them too they have
+did. <span id="fr_106"></span>[2](#fn_106.md) Like them too they have
 buried the original principles of their theology under a mass of
 poetical mythology, so that few of them can give any more perfect
 account of their faith, than that they mean to worship one first cause,
 to whom the subordinate deities are merely agents, or more properly
-personified modes of action. <span id="fr_107"></span>[3](#fn_107) This
+personified modes of action. <span id="fr_107"></span>[3](#fn_107.md) This
 is the doctrine inculcated, and very fully explained, in the *Bagvat
 Geeta*; a moral and metaphysical work lately translated from the
 Sanscrit language, and said to have been written upwards of four
@@ -156,7 +156,7 @@ gods are not excluded from the benefits awarded to every moral virtue;
 for, as the divine Teacher says, *If they do it with a firm belief, in
 so doing they involuntarily worship even me. I am he who partaketh of
 all worship, and I am their reward*. <span
-id="fr_108"></span>[1](#fn_108) This universal deity, being the cause of
+id="fr_108"></span>[1](#fn_108.md) This universal deity, being the cause of
 all motion, is alike the cause of creation, preservation, and
 destruction; which three attributes are all expressed in the mystic
 syllable *om*. To repeat this in silence, with firm
@@ -166,7 +166,7 @@ syllable *om*. To repeat this in silence, with firm
  
 
 <span id="img_pl11"></span> [![](tn/generic.jpg)  
-Click to view](img/pl11.jpg)  
+Click to view](img/pl11.jpg.md)  
 PLATE XI  
 SCULPTURE FROM ELEPHANTA
 
@@ -175,7 +175,7 @@ SCULPTURE FROM ELEPHANTA
 <span id="page_97">p. 97</span>
 
 devotion, and immoveable attention, is the surest means of
-perfection, <span id="fr_109"></span>[1](#fn_109) and consequent
+perfection, <span id="fr_109"></span>[1](#fn_109.md) and consequent
 reabsorption, since it leads to the contemplation of the Deity, in his
 three great characteristic attributes.
 
@@ -184,11 +184,11 @@ seems to have been originally represented by the union of the male and
 female organs of generation, which, under the title of the *Lingam*,
 still occupies the central and most interior recesses of their temples
 or pagodas; and is also worn, attached to bracelets, round their necks
-and arms. <span id="fr_110"></span>[2](#fn_110) In a little portable
+and arms. <span id="fr_110"></span>[2](#fn_110.md) In a little portable
 temple brought from the Rohilla country during the late war, and now in
 the British Museum, this composition appears mounted on a pedestal, in
 the midst of a square area, sunk in a block of white alabaster. <span
-id="fr_111"></span>[3](#fn_111) Round the pedestal is a serpent, the
+id="fr_111"></span>[3](#fn_111.md) Round the pedestal is a serpent, the
 emblem of life, with his head rested upon his tail, to denote eternity,
 or the constant return of time upon itself, whilst it flows through
 perpetual duration, in regular revolutions and stated periods. From
@@ -201,7 +201,7 @@ by the figures at the corners. This plant grows
 in the water, and, amongst its broad leaves, puts forth a flower, in the
 center of which is formed the seed-vessel, shaped like a bell or
 inverted cone, and punctuated on the top with little cavities or cells,
-in which the seeds grow. <span id="fr_112"></span>[1](#fn_112) The
+in which the seeds grow. <span id="fr_112"></span>[1](#fn_112.md) The
 orifices of these cells being too small to let the seeds drop out when
 ripe, they shoot forth into new plants, in the places where they were
 formed; the bulb of the vessel serving as a matrice to nourish them,
@@ -224,17 +224,17 @@ part of the
 base of the *Lingam* also consists of this flower, blended and composed
 with the female organ of generation which it supports: and the ancient
 author of the *Bagvat Geeta* speaks of the creator Brahma as sitting
-upon his lotus throne. <span id="fr_113"></span>[1](#fn_113) The figures
+upon his lotus throne. <span id="fr_113"></span>[1](#fn_113.md) The figures
 of Isis, upon the Isiac Table, hold the stem of this plant, surmounted
 by the seed-vessel in one hand, and the cross, <span
-id="fr_114"></span>[2](#fn_114) representing the male organs of
+id="fr_114"></span>[2](#fn_114.md) representing the male organs of
 generation, in the other; thus signifying the universal power, both
 active and passive, attributed to that goddess. On the same Isiac Table
 is also the representation of an Egyptian temple, the columns of which
 are exactly like the plant which Isis holds in her hand, except that the
 stem is made larger, in order to give it that stability which is
 necessary to support a roof and entablature. <span
-id="fr_115"></span>[3](#fn_115) Columns and capitals of the same kind
+id="fr_115"></span>[3](#fn_115.md) Columns and capitals of the same kind
 are still existing, in great numbers, among the ruins of Thebes, in
 Egypt; and more particularly upon those very curious ones in the island
 of Philæ, on the borders of Ethiopia, which are, probably, the most
@@ -244,7 +244,7 @@ was the seat of wealth and empire, which it was, even to a
 
 <span id="page_100">p. 100</span>
 
-proverb, during the Trojan war. <span id="fr_116"></span>[1](#fn_116)
+proverb, during the Trojan war. <span id="fr_116"></span>[1](#fn_116.md)
 How long it had then been so, we can form no conjecture; but that it
 soon after declined, there can be little doubt; for, when the Greeks, in
 the reign of Psammeticus (generally computed to have been about 530
@@ -283,7 +283,7 @@ when applied to events of this remote antiquity. The Egyptian priests of
 the Augustan age had a tradition, which they pretended to confirm by
 records written in hieroglyphics, that their country had once possest
 the dominion of all Asia and Ethiopia, which their king Ramses, or
-Rameses, had conquered. <span id="fr_117"></span>[1](#fn_117) Though
+Rameses, had conquered. <span id="fr_117"></span>[1](#fn_117.md) Though
 this account may be exaggerated,
 
 <span id="page_102">p. 102</span>
@@ -308,62 +308,62 @@ sovereigns in the world.
 
 ### Footnotes
 
-<span id="fn_97"></span>[89:1](dwp05.htm#fr_97) *Recherches sur les
+<span id="fn_97"></span>[89:1](dwp05.htm#fr_97.md) *Recherches sur les
 Arts*, iv. i. c. 3.
 
-<span id="fn_98"></span>[89:2](dwp05.htm#fr_98) Lib. iv. v. 1260.
+<span id="fn_98"></span>[89:2](dwp05.htm#fr_98.md) Lib. iv. v. 1260.
 
-<span id="fn_99"></span>[89:3](dwp05.htm#fr_99) See Plate IV. Fig. 3,
+<span id="fn_99"></span>[89:3](dwp05.htm#fr_99.md) See Plate IV. Fig. 3,
 from a medal of Dyrrachium, belonging to me.
 
-<span id="fn_100"></span>[90:1](dwp05.htm#fr_100) See Plate III. Fig. 5,
+<span id="fn_100"></span>[90:1](dwp05.htm#fr_100.md) See Plate III. Fig. 5,
 from one of Gortyna, in the Hunter Collection; and Plate III. Fig. 4,
 from one of Parium, belonging to me.
 
-<span id="fn_101"></span>[90:2](dwp05.htm#fr_101) See Plate III. Fig. 4,
+<span id="fn_101"></span>[90:2](dwp05.htm#fr_101.md) See Plate III. Fig. 4,
 and Plate III. Fig. 6, from Pellerin.
 
-<span id="fn_102"></span>[90:3](dwp05.htm#fr_102) Goltz. *Insul*. Tab.
+<span id="fn_102"></span>[90:3](dwp05.htm#fr_102.md) Goltz. *Insul*. Tab.
 xix. Fig. 8.
 
-<span id="fn_103"></span>[91:1](dwp05.htm#fr_103) See Plate III. Fig. 4.
+<span id="fn_103"></span>[91:1](dwp05.htm#fr_103.md) See Plate III. Fig. 4.
 
-<span id="fn_104"></span>[92:1](dwp05.htm#fr_104) *Archoel*. Vol. viii.
+<span id="fn_104"></span>[92:1](dwp05.htm#fr_104.md) *Archoel*. Vol. viii.
 p. 289.
 
-<span id="fn_105"></span>[93:1](dwp05.htm#fr_105) See Plate xi.
+<span id="fn_105"></span>[93:1](dwp05.htm#fr_105.md) See Plate xi.
 
-<span id="fn_106"></span>[93:2](dwp05.htm#fr_106) Sonnerat, *Voyage aux
+<span id="fn_106"></span>[93:2](dwp05.htm#fr_106.md) Sonnerat, *Voyage aux
 Ines*. T. 1. p. 180.
 
-<span id="fn_107"></span>[93:3](dwp05.htm#fr_107) Niebuhr, *Voyages*,
+<span id="fn_107"></span>[93:3](dwp05.htm#fr_107.md) Niebuhr, *Voyages*,
 Vol. II. p. 17.
 
-<span id="fn_108"></span>[94:1](dwp05.htm#fr_108) Bagvat Geeta, p. 81.
+<span id="fn_108"></span>[94:1](dwp05.htm#fr_108.md) Bagvat Geeta, p. 81.
 
-<span id="fn_109"></span>[97:1](dwp05.htm#fr_109) Bagvat Geeta p. 74.
+<span id="fn_109"></span>[97:1](dwp05.htm#fr_109.md) Bagvat Geeta p. 74.
 
-<span id="fn_110"></span>[97:2](dwp05.htm#fr_110) Sonnerat, *Voyage aux
+<span id="fn_110"></span>[97:2](dwp05.htm#fr_110.md) Sonnerat, *Voyage aux
 Indes*, liv. ii. p. 180. Planche. LIV.
 
-<span id="fn_111"></span>[97:3](dwp05.htm#fr_111) See Plate XII.
+<span id="fn_111"></span>[97:3](dwp05.htm#fr_111.md) See Plate XII.
 
-<span id="fn_112"></span>[98:1](dwp05.htm#fr_112) see Plate XX. Fig. 1.
+<span id="fn_112"></span>[98:1](dwp05.htm#fr_112.md) see Plate XX. Fig. 1.
 
-<span id="fn_113"></span>[99:1](dwp05.htm#fr_113) Page 91.
+<span id="fn_113"></span>[99:1](dwp05.htm#fr_113.md) Page 91.
 
-<span id="fn_114"></span>[99:2](dwp05.htm#fr_114) See Plate XVIII. Fig.
+<span id="fn_114"></span>[99:2](dwp05.htm#fr_114.md) See Plate XVIII. Fig.
 2, from Pignorius.
 
-<span id="fn_115"></span>[99:3](dwp05.htm#fr_115) See Plate XVIII. Fig.
+<span id="fn_115"></span>[99:3](dwp05.htm#fr_115.md) See Plate XVIII. Fig.
 1, from Pignorius.
 
-<span id="fn_116"></span>[100:1](dwp05.htm#fr_116) Hom. *Iliad. i*, ver.
+<span id="fn_116"></span>[100:1](dwp05.htm#fr_116.md) Hom. *Iliad. i*, ver.
 381.
 
-<span id="fn_117"></span>[101:1](dwp05.htm#fr_117) Tacit, *Ann*. lib.
+<span id="fn_117"></span>[101:1](dwp05.htm#fr_117.md) Tacit, *Ann*. lib.
 it. C. 60.
 
 ------------------------------------------------------------------------
 
-[Next: Part V](dwp06)
+[Next: Part V](dwp06.md)

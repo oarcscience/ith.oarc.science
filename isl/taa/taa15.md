@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa14)  [Next](taa16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa14)  [Next](taa16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -71,7 +71,7 @@ the soul.
 them manifold Divine influences and sciences. Although the spiritual
 experiences vary, the Divine substance (\#\#\#) remains one. This is the
 'transformation' (\#\#\#) of which Muslim speaks in the chapter on
-Faith[.](errata.htm#0) Those who worship God in the sun behold a sun,
+Faith[.](errata.htm#0.md) Those who worship God in the sun behold a sun,
 and those who worship Him in living things see a living thing, and those
 who worship Him in inanimate objects see an inanimate object, and those
 who worship Him as a Being unique and unparalleled see that which has no
@@ -118,6 +118,6 @@ repentance of His servant, or to laugh (\#\#\#).
 
 ------------------------------------------------------------------------
 
-[Next: XIII](taa16)
+[Next: XIII](taa16.md)
 
 </div>

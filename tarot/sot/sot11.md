@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot10) 
-[Next](sot12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot10.md) 
+[Next](sot12.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ to look back.
 
 ------------------------------------------------------------------------
 
-[Next: Card VI. The Lovers](sot12)
+[Next: Card VI. The Lovers](sot12.md)

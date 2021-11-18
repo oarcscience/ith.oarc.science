@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt00)  [Next](egt02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt00)  [Next](egt02.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ GOVERNMENT COLLEGE,
 
 ------------------------------------------------------------------------
 
-[Next: Abbreviations.](egt02)
+[Next: Abbreviations.](egt02.md)

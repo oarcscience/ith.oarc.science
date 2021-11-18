@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](mmm02)  [Next](mmm04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](mmm02)  [Next](mmm04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Traces of a Hidden Tradition in Masonry and Medieval Mysticism*, by
 Isabel Cooper-Oakley, \[1900\], at Intangible Textual Heritage
 
@@ -65,7 +65,7 @@ our planet. Masonry was ever more or less connected with priesthoods
 till about the thirteenth century of our era, when Masons declared
 themselves *Freimaurer* (Freemasons). Since about that period
 priesthoods have ever denounced and persecuted Freemasonry. <span
-id="fr_22"></span>[\*](#fn_22)</span>
+id="fr_22"></span>[\*](#fn_22.md)</span>
 
 <span id="page_33">p. 33</span>
 
@@ -117,12 +117,12 @@ Down the centuries we find enrolled the names of philosophic teachers
 who veiled their doctrines in figures similar to those in vogue among
 the Rosicrucians and still more recent students, and often identical
 with the signs we blazon on the walls of our Lodges and Chapters. <span
-id="fr_23"></span>[\*](#fn_23)
+id="fr_23"></span>[\*](#fn_23.md)
 
 Many Theosophical students will find such utterances of immense value,
 as showing the view held by a Masonic authority of such well-known
 repute as Mr. E. Macbean, I.G., with regard to some, at any rate, of the
-Eastern links with modern Masonry. <span id="fr_24"></span>[†](#fn_24)
+Eastern links with modern Masonry. <span id="fr_24"></span>[†](#fn_24.md)
 Mr. Gould, the lecturer, also made the following suggestive remarks:
 
 <span id="page_35">p. 35</span>
@@ -153,7 +153,7 @@ Widow" we must look for help in revivifying the ancient spiritual truths
 of a once esoteric Masonry. The writer from whom we quote believed
 profoundly in Masonry and writes of it as one who knows that it was a
 vehicle for conveying spiritual mysteries to the people: Thus he
-writes <span id="fr_25"></span>[\*](#fn_25) of the early history of
+writes <span id="fr_25"></span>[\*](#fn_25.md) of the early history of
 Masonry:
 
 Three centuries had passed since the origin of Christianity when at this
@@ -247,7 +247,7 @@ Egypt, more especially, however, in the neighbourhood of Thebes; for
 here the Christians and Coptic priests preserved, in the lap of their
 solitude, the teachings communicated to them by Hesman, the pupil of
 Manes, a teaching which later passed over into Europe. <span
-id="fr_26"></span>[\*](#fn_26)</span>
+id="fr_26"></span>[\*](#fn_26.md)</span>
 
 Passing on from these important and interesting indications to the more
 detailed aspect of our subject we find that at a later period many of
@@ -322,7 +322,7 @@ from Egyptian bondage and lead them to the service of the true God. It
 is well known that Moses prescribed certain probation for his Levites,
 and that the secrets of the Priesthood were inaccessible to the rest of
 the Israelites, and this principle ruled till the time of Solomon. <span
-id="fr_27"></span>[\*](#fn_27)</span>
+id="fr_27"></span>[\*](#fn_27.md)</span>
 
 And this policy of silence was a wise one, for the bitter vituperations
 which were showered on the heads of the few who were the exoteric
@@ -334,7 +334,7 @@ personalities of the real leaders. Such
 work was better done by small groups, and this appears to have been the
 view held by those leaders with whom the student does come into contact.
 Some few of these groups in the last century have already been
-cited, <span id="fr_28"></span>[\*](#fn_28) but it will be as well to
+cited, <span id="fr_28"></span>[\*](#fn_28.md) but it will be as well to
 repeat their titles, which run as follows:
 
 The Canons of the Holy Sepulchre.
@@ -368,7 +368,7 @@ on.
 <span id="page_43">p. 43</span>
 
 Says *Ludwig Abafi, in his Introduction to Pre-Historic Freemasonry in
-Austria and Hungary*: <span id="fr_29"></span>[\*](#fn_29)
+Austria and Hungary*: <span id="fr_29"></span>[\*](#fn_29.md)
 
 <span class="small">It is proved that the Emperor Rudolph I., even in
 the year 1275, authorized an Order of Masons, whilst Pope Nicholas III.,
@@ -386,7 +386,7 @@ efforts to retain a hold upon these Masons, but without tangible result.
 For the forces at the back of these movements prevented the destruction
 of a new free spiritual growth by the Roman power. At this period also
 came those great souls, burning for freedom, who worked the
-Reformation, <span id="fr_30"></span>[†](#fn_30) and although that work
+Reformation, <span id="fr_30"></span>[†](#fn_30.md) and although that work
 and those reforms were
 
 <span id="page_44">p. 44</span>
@@ -423,9 +423,9 @@ Kreuz," or the "Friends of the Cross." This last
 
 society spread into the Netherlands, and had its greatest success in the
 latter part of the 17th Century. The "Brothers of the Cross" <span
-id="fr_31"></span>[\*](#fn_31) were still holding their meetings in
+id="fr_31"></span>[\*](#fn_31.md) were still holding their meetings in
 1785: they had many members in Wallachia, and still more in
-Transylvania. <span id="fr_32"></span>[†](#fn_32) Brabbée in his Masonic
+Transylvania. <span id="fr_32"></span>[†](#fn_32.md) Brabbée in his Masonic
 studies says: It consisted principally of
 
 <span class="small">Older men and those who were generally reputed wise,
@@ -453,7 +453,7 @@ invited to Hungary and Transylvania by the Prince Ragozcy, where he
 stayed four years. It is doubtless partly owing to his influence that
 the Rosicrucian movement spread so widely in these countries. His
 philosophical and metaphysical views were so widely spread, that when
-Anderson <span id="fr_33"></span>[\*](#fn_33) wrote his book on
+Anderson <span id="fr_33"></span>[\*](#fn_33.md) wrote his book on
 Freemasonry, he, according to Abafi, incorporated in his work a
 compilation of the most essential portions of the plans of Komensky. As
 Abafi phrases it:
@@ -468,7 +468,7 @@ ordained to influence the whole of humanity.</span>
 
 The spread of mysticism in Austria and Hungary during the last century
 was astoundingly rapid; according to one authority <span
-id="fr_34"></span>[†](#fn_34) about five per cent. of the entire
+id="fr_34"></span>[†](#fn_34.md) about five per cent. of the entire
 population belonged to the Freemasons, Rosicrucians, and other allied
 societies.
 
@@ -478,10 +478,10 @@ at the death of the
 <span id="page_47">p. 47</span>
 
 <span class="contnote">\[paragraph continues\]</span> Empress <span
-id="fr_35"></span>[\*](#fn_35) only three legitimate and perfect Lodges
+id="fr_35"></span>[\*](#fn_35.md) only three legitimate and perfect Lodges
 existed. That is to say, only three Lodges in which Freemasonry as such
 existed without any more extended search into occultism. Another
-authority, Dr. Otto Henne-am-Rhyn, <span id="fr_36"></span>[†](#fn_36)
+authority, Dr. Otto Henne-am-Rhyn, <span id="fr_36"></span>[†](#fn_36.md)
 promptly doubles this number, saying that there were 20,000 mystic
 students in Vienna. As this writer was an avowed enemy of mysticism, his
 views may be taken as not likely to exaggerate the numerical value of
@@ -494,7 +494,7 @@ had an alchemical laboratory at Rodaun, a small village about a mile
 from Vienna. This man was loved and respected by the whole neighbourhood
 for his kindliness, as well as feared for his powers, which were most
 remarkable. Seefels is mentioned by Schmieder in his valuable History of
-Alchemy, <span id="fr_37"></span>[‡](#fn_37) as one of the "Seven true
+Alchemy, <span id="fr_37"></span>[‡](#fn_37.md) as one of the "Seven true
 Adepts" who should appear in Europe in the course of the century.
 Schmieder also gives some very interesting proofs of his powers. But in
 spite of the Emperor's protection he was seized by
@@ -505,7 +505,7 @@ the police and placed in the fortress at Temeswar in Hungary. A careful
 study of Schmieder's work would more than repay any student who desires
 to have evidences for occult powers made certain by history.
 
-The following interesting notes <span id="fr_38"></span>[\*](#fn_38) are
+The following interesting notes <span id="fr_38"></span>[\*](#fn_38.md) are
 quoted as showing the connecting link between the Continental mystic
 Masonry and England, of which but little has been heard in the outer
 world.
@@ -551,7 +551,7 @@ a member of such a secret society, and it is further asserted that when
 he was in London he established a branch of it in that city. Fludd, as
 showing that secret societies existed in the Universities, has the
 passage "notwithstanding any allegiance which I may have vowed by a
-ceremonial Rite to Aristotle <span id="fr_39"></span>[\*](#fn_39) in my
+ceremonial Rite to Aristotle <span id="fr_39"></span>[\*](#fn_39.md) in my
 youth." These societies used the double Triangles, or Seal of Solomon,
 and in the ruins of one of the old Temple Preceptories in France was
 found a copper medallion with the Lamb surmounted by this Cabalistic
@@ -592,7 +592,7 @@ they met, or what they did.
 14\. But they had also secret sciences known only to the highest among
 them—called Magos, Mage, or the Wise Master, who taught the people of
 Divine things. He could do things which appeared quite
-supernatural. <span id="fr_40"></span>[\*](#fn_40)
+supernatural. <span id="fr_40"></span>[\*](#fn_40.md)
 
 The author, speaking of the relation of Masonry to this older and more
 secret body, says:
@@ -601,7 +601,7 @@ secret body, says:
 that they owed their brotherhood to the Initiations of the old Wise-Men;
 that the great part of their (the Masons') knowledge came from Them, and
 that without Their help they could do nothing. <span
-id="fr_41"></span>[†](#fn_41)</span>
+id="fr_41"></span>[†](#fn_41.md)</span>
 
 In another passage he says:
 
@@ -629,7 +629,7 @@ an entirely different organization into the community, in order to bring
 it into line with Christianity.
 
 Those associates who still remained over from the collapse <span
-id="fr_42"></span>[\*](#fn_42) of the community of Initiates, and who
+id="fr_42"></span>[\*](#fn_42.md) of the community of Initiates, and who
 were scattered about the world, began to make fresh projects for a
 general union. They took the laws of their community and the laws of the
 Christians, which are known under the name of the Bible, into a real
@@ -685,7 +685,7 @@ name of the "Brotherhood of St. John," and since then, and up to 1535,
 under the title, the "St. John's Order of Freemasonry" or "Masonic
 Brotherhood."
 
-This Society <span id="fr_43"></span>[\*](#fn_43) was reformed and
+This Society <span id="fr_43"></span>[\*](#fn_43.md) was reformed and
 re-arranged in the year 1717, the generally accepted modern date of the
 materialistic and non-mystic Masons. It became more atheistic in its
 views, and more democratic in its tendencies. Amongst other deeply
@@ -705,13 +705,13 @@ small number of the initiated—entrusted with the true</span>
 
 teaching of virtue, and the sensible exposition of the secret
 teaching—separated themselves from the mass. <span
-id="fr_44"></span>[\*](#fn_44)
+id="fr_44"></span>[\*](#fn_44.md)
 
 According to the record, the following reason was given for the adoption
 of the name: The Masters of this confederation were called the St.
 John's Brethren, as they had chosen John the Baptist, the forerunner of
 the Light of the World . . . as their original and example. <span
-id="fr_45"></span>[†](#fn_45)
+id="fr_45"></span>[†](#fn_45.md)
 
 There is a curious similarity between this document in its phrasing and
 style, and the remarks made in the book by Weisse, in his *Der
@@ -729,7 +729,7 @@ the register of the Lodge at the Hague is written is of the same kind as
 that used in Holland in the beginning of the seventeenth century. Now
 this register refers to the Charter of Cologne as being in existence, so
 that the fraud, if a fraud, is two centuries old. <span
-id="fr_46"></span>[‡](#fn_46)</span>
+id="fr_46"></span>[‡](#fn_46.md)</span>
 
 Our chief interest in all this detailed evidence lies in the
 ever-recurring testimony that it bears to that older Fraternity, which
@@ -770,7 +770,7 @@ Their first degree was symbolically called the Architect or Apprentice
 of Egyptian secrets.
 
 They called themselves the Africans, <span
-id="fr_47"></span>[\*](#fn_47) because their
+id="fr_47"></span>[\*](#fn_47.md) because their
 
 <span id="page_56">p. 56</span>
 
@@ -879,7 +879,7 @@ Lichtenstein at Vienna, some real treasures of manuscripts and
 documents, which no Masonic branch can boast. (*Découverte sur le
 Systéme de l’Ordre des Architectes Africains, Constantinople*. Berlin;
 in 8vo, 51 pp., 1806.) This article is taken from the Masonic library of
-the very kind brother, Th. Juge. <span id="fr_48"></span>[\*](#fn_48)
+the very kind brother, Th. Juge. <span id="fr_48"></span>[\*](#fn_48.md)
 
 Few monarchs have more thoroughly protected the Mystic Schools within
 the Masonic body than Frederick II., King of Prussia, well named "The
@@ -907,7 +907,7 @@ were beyond him.
 His sympathy with mystics is evidenced by his selection of a librarian,
 for he gave that post at the Royal Public Library in Berlin, with the
 title of Academician, to Dom Antoine Joseph Pernetty (or Pernety), a man
-who had been a Benedictine monk, <span id="fr_49"></span>[\*](#fn_49)
+who had been a Benedictine monk, <span id="fr_49"></span>[\*](#fn_49.md)
 but having become—like many others—dissatisfied with the Order, he
 applied to the Pope for a dispensation from his vows. This was no
 obstacle in the eyes of the King, deeply interested as he was in the
@@ -928,7 +928,7 @@ beloved by everyone, and the more as, to his other excellent qualities,
 he joined that of the most perfect discretion in regard to such affairs
 as were at any time confided to his secrecy; never did a word from his
 lips give room for the smallest explanation or disagreement. <span
-id="fr_50"></span>[\*](#fn_50)</span>
+id="fr_50"></span>[\*](#fn_50.md)</span>
 
 Such is the comment on this mystic's character by one who, while adverse
 to his opinions, nevertheless renders justice to a personality which
@@ -962,9 +962,9 @@ the whole Masonic body with true spiritual, mental and moral mystic
 knowledge. Says Findel:
 
 <span class="small">The Grand Lodge of Germany <span
-id="fr_51"></span>[\*](#fn_51) further assumes, <span
-id="fr_52"></span>[†](#fn_52) that in the Building Fraternities <span
-id="fr_53"></span>[‡](#fn_53) of the Middle Ages, besides</span>
+id="fr_51"></span>[\*](#fn_51.md) further assumes, <span
+id="fr_52"></span>[†](#fn_52.md) that in the Building Fraternities <span
+id="fr_53"></span>[‡](#fn_53.md) of the Middle Ages, besides</span>
 
 <span id="page_62">p. 62</span>
 
@@ -1004,7 +1004,7 @@ been instructed by
 
 him in a more perfect knowledge of holy things, they had amidst
 persecution taught in silence that which had been committed to their
-keeping. <span id="fr_54"></span>[\*](#fn_54) At the period of the
+keeping. <span id="fr_54"></span>[\*](#fn_54.md) At the period of the
 Saracens and the Crusades they were so greatly oppressed that they must
 ultimately have sought for protection from without. As fate, however,
 would have it, seven of them, Syriac Christians, pursued by unbelievers
@@ -1028,7 +1028,7 @@ sought refuge in Scotland, they founded a chapter at Aberdeen, the first
 Prior of which was Petrus de Bononia. The science was disseminated from
 this place, but very cautiously, first to Italy, then to the extreme
 North (Sweden and Russia) and France. In Italy Abbot Severin had been
-the guardian of the True Science. <span id="fr_55"></span>[†](#fn_55)
+the guardian of the True Science. <span id="fr_55"></span>[†](#fn_55.md)
 
 <span id="page_64">p. 64</span>
 
@@ -1067,7 +1067,7 @@ secrets of Freemasonry, because many of their symbols .are derived from
 the art of building, and because they are believed to have been invented
 by an association of architects, who were anxious to preserve, among
 themselves, the knowledge which they had acquired. <span
-id="fr_56"></span>[\*](#fn_56)
+id="fr_56"></span>[\*](#fn_56.md)
 
 The Dionysia, or Mysteries of Bacchus, were intimately connected with
 those of Ceres and perhaps still more with Freemasonry, says Mr. Lawrie;
@@ -1110,7 +1110,7 @@ pregnant with absurdity, as some men would wish us to believe.
 
 We have already shown, from authentic sources of information, that the
 mysteries of Ceres and Bacchus were instituted about four hundred years
-before the reign of Solomon; <span id="fr_57"></span>[\*](#fn_57) and
+before the reign of Solomon; <span id="fr_57"></span>[\*](#fn_57.md) and
 there are strong reasons for believing that even the association of the
 Dionysian architects existed before the building of the Temple.
 
@@ -1138,11 +1138,11 @@ It cannot be supposed that the rites of the Egyptian, Jewish, and
 Grecian religions should be observed by those who profess only the
 religion of Christ; or that we should pour out libations to Ceres and
 Bacchus, who acknowledge no heavenly superior, but the true and the
-living God. <span id="fr_58"></span>[\*](#fn_58)</span>
+living God. <span id="fr_58"></span>[\*](#fn_58.md)</span>
 
-The connection <span id="fr_59"></span>[†](#fn_59) of the Afrikanische
+The connection <span id="fr_59"></span>[†](#fn_59.md) of the Afrikanische
 Bauherren with the Templars and their secret traditions is common to all
-those mystic associations <span id="fr_60"></span>[‡](#fn_60) who
+those mystic associations <span id="fr_60"></span>[‡](#fn_60.md) who
 
 <span id="page_68">p. 68</span>
 
@@ -1163,7 +1163,7 @@ The double character of the Order confirms what we know about the
 tendency and ritual of the first four grades. They are as follows:
 
 Grade I. Pupil of the Egyptian secrets (Menes Musæ). <span
-id="fr_61"></span>[\*](#fn_61) Here the doctrines of the true Religion,
+id="fr_61"></span>[\*](#fn_61.md) Here the doctrines of the true Religion,
 as concealed under the hieroglyphs which were already in the Egyptian
 Mysteries, were brought forward for the pupil. The first degree shows
 already that Moses was held as an important teacher of these doctrines
@@ -1203,7 +1203,7 @@ that period. It appears to have had its Lodges in Berlin, and also in
 Oberlavsitz; there were some of the same Lodges in Cologne, Worms, and
 also in Paris under the guidance of a certain Kühn. He came into contact
 with Baron von Hund and his system of 'The Strict Observance' of which
-Von Köppen was a devoted member. <span id="fr_62"></span>[\*](#fn_62)
+Von Köppen was a devoted member. <span id="fr_62"></span>[\*](#fn_62.md)
 
 The brief mention of the highest grade, the Knights of Silence, or
 Everlasting Silence, is
@@ -1221,7 +1221,7 @@ celebrated mystic in the last century.
 
 Von Köppen and von Hymmen published the well-known work, *Crata Repoa,
 or Initiation in the Ancient Secret Society of the Egyptian
-Priests*. <span id="fr_63"></span>[\*](#fn_63)
+Priests*. <span id="fr_63"></span>[\*](#fn_63.md)
 
 Another leader of this confraternity was Karl du Bosc, one of the
 chamberlains at the Prussian Court. He was also connected with the
@@ -1274,10 +1274,10 @@ favourable</span>
 <span class="small">wind swelled our sails. I asked this Almousseri to
 explain his secret, but he answered that if he revealed it his brethren
 would infallibly destroy him." <span
-id="fr_64"></span>[\*](#fn_64)</span>
+id="fr_64"></span>[\*](#fn_64.md)</span>
 
 From many sources it is evident that scattered communities <span
-id="fr_65"></span>[†](#fn_65) with mystic knowledge, existed in various
+id="fr_65"></span>[†](#fn_65.md) with mystic knowledge, existed in various
 parts of Northern Africa. Such communities having nothing to do, of
 course, with the fetish-worship of the negro tribes, but adhere to the
 Egyptian tradition of mystic teaching, for they are off-shoots of the
@@ -1290,7 +1290,7 @@ was in Northern Africa.
 Some reference has been made to the fifth grade of the African Bauherren
 system, namely the "Master of the Egyptian Secrets"; "Alethophilote" or
 "Friend of Truth." This grade is given as the eighth by Ragon, <span
-id="fr_66"></span>[‡](#fn_66) and Lenning in his encyclopædia says:
+id="fr_66"></span>[‡](#fn_66.md) and Lenning in his encyclopædia says:
 
 <span class="small">There appears to have been some connection between
 this grade and the little known society of the "Alethophilotes" in
@@ -1299,7 +1299,7 @@ Berlin. This is probably the earlier sect which</span>
 <span id="page_73">p. 73</span>
 
 is alluded to sometimes, and it was founded, so far as is known, by the
-Graf von Manteuffel in 1736. <span id="fr_67"></span>[\*](#fn_67)
+Graf von Manteuffel in 1736. <span id="fr_67"></span>[\*](#fn_67.md)
 
 The details of this system will be of interest to students, as it throws
 some light upon the older association, of which very little is told;
@@ -1338,7 +1338,7 @@ the right way solely by the strength of your arguments and by no other
 way. You would disgrace the Truth and make it appear suspicious if you
 were to fight for it and defend it with any other weapons but those
 which Reason gives into your hand. <span
-id="fr_68"></span>[\*](#fn_68)</span>
+id="fr_68"></span>[\*](#fn_68.md)</span>
 
 It is an interesting, but somewhat difficult, matter to understand the
 reason why such bitter war was carried on against bodies of men with
@@ -1368,7 +1368,7 @@ man truly born of the seed of Joseph, though better than other men in
 integrity of Life. . . Virtue was given Him by the Great First Cause
 whereby He retained the recollection of things seen in a former state of
 existence. . . . Metempsychosis and the pre-existence of the soul was an
-integral part of the system. <span id="fr_69"></span>[\*](#fn_69)</span>
+integral part of the system. <span id="fr_69"></span>[\*](#fn_69.md)</span>
 
 There is much more of interest in the summary given for the student of
 Modern Gnosticism or Theosophia, and it can also be readily seen that if
@@ -1383,14 +1383,14 @@ authorities.
 
 ### Footnotes
 
-<span id="fn_22"></span>[32:\*](mmm03.htm#fr_22) Weisse, M.D. (John A.),
+<span id="fn_22"></span>[32:\*](mmm03.htm#fr_22) Weisse, M.D. (John A..md),
 *Obelisk and Freemasonry*, p.p. 94, 95. New York; 1880.
 
-<span id="fn_23"></span>[34:\*](mmm03.htm#fr_23) *Ars Quatuor
+<span id="fn_23"></span>[34:\*](mmm03.htm#fr_23.md) *Ars Quatuor
 Coronatorum*. Transactions of the Lodge Quatuor Coronati, No. 2076.
 III., Part i., p. 31. London; 1890.
 
-<span id="fn_24"></span>[34:†](mmm03.htm#fr_24) Another Masonic
+<span id="fn_24"></span>[34:†](mmm03.htm#fr_24.md) Another Masonic
 authority says:—"A little later, or about the year 200 A.D., the most
 noteworthy Gnostic sect was a Persian branch, the Manichees; it was
 divided into three classes—Auditors, Elect, and Perfect, and the sect
@@ -1418,7 +1418,7 @@ Baptist and the Codex Nazareus." *The Kneph*, Vol. V., No. 4, 1885.
 society," by John Yarker, P.M., P.M.M.K., P.Z., P.E.C., P.R.G.C., &c.
 Chapter IV.—"Secret Theosophical Societies." (Continued from Page 41.)
 
-<span id="fn_25"></span>[36:\*](mmm03.htm#fr_25) The quotations are
+<span id="fn_25"></span>[36:\*](mmm03.htm#fr_25.md) The quotations are
 taken from the German edition of the work of Reghellini da Schio, *La
 Maçonnerie considérée comme le Résultat des Religions Égyptienne, Juive
 et Chrétienne*. Paris, 1883.
@@ -1435,11 +1435,11 @@ them also to the German Building Corporations and Societies.
 Chap. vii., 307. In this chapter he links them by their signs and
 symbols to the Cologne Masonic body of 1535.
 
-<span id="fn_26"></span>[39:\*](mmm03.htm#fr_26) "Acerrellos" Rössler
+<span id="fn_26"></span>[39:\*](mmm03.htm#fr_26.md) "Acerrellos" Rössler
 (Karl) *Die Freimaurerei in ihrem Zusammenhange mit den Religionen der
 alter Aegypter, der Juden, and der Christen:* II., p. H. Leipzig, 1836.
 
-<span id="fn_27"></span>[41:\*](mmm03.htm#fr_27) *Sarsena, oder der
+<span id="fn_27"></span>[41:\*](mmm03.htm#fr_27.md) *Sarsena, oder der
 Volkommene Baumeister, enthaltend die Geschichte and Entstehung des
 Frei-Maurerordens*. Bamberg, 1816. The author of this work is not
 definitely known, but another Mason, Herr Z. Funck, wrote, in 1838, the
@@ -1452,14 +1452,14 @@ a miniature Masonic warfare. Written by one who knew what Freemasonry
 should be, it naturally raised the violent opposition of those who
 wished to drag it away from its mystical standpoint.
 
-<span id="fn_28"></span>[42:\*](mmm03.htm#fr_28) *The Theosophical
+<span id="fn_28"></span>[42:\*](mmm03.htm#fr_28.md) *The Theosophical
 Review*, xxii. 311.
 
-<span id="fn_29"></span>[43:\*](mmm03.htm#fr_29) *Geschichte der
+<span id="fn_29"></span>[43:\*](mmm03.htm#fr_29.md) *Geschichte der
 Freimaurerei in Oesterreich tend Ungarn*. Buda-Pest, 1890-1891. Pt. I.,
 p. S.
 
-<span id="fn_30"></span>[43:†](mmm03.htm#fr_30) Such, for instance, as
+<span id="fn_30"></span>[43:†](mmm03.htm#fr_30.md) Such, for instance, as
 John Tauler, the famous Dominican (born 1290, died 1361), who formed a
 mystical fraternity, the members of which recognized each other by
 secret signs. Then we have Nicholas of Basle, with his four disciples,
@@ -1470,64 +1470,64 @@ burned as a heretic. Much information concerning this sect is given in a
 MS. called *The Book of the Five Men*. (1377). See for details, Jundt
 (A.), *Les Amis de Dieu au XIV<sup>me</sup> Siécle*. Paris 1879.
 
-<span id="fn_31"></span>[45:\*](mmm03.htm#fr_31) Sometimes called
+<span id="fn_31"></span>[45:\*](mmm03.htm#fr_31.md) Sometimes called
 Fratres de Cruce.
 
-<span id="fn_32"></span>[45:†](mmm03.htm#fr_32) Brabbée (Gustav),
+<span id="fn_32"></span>[45:†](mmm03.htm#fr_32) Brabbée (Gustav.md),
 *Sub-Rosa Vertrauliche Mittheilungen aus dem Maurerischen Leben unserer
 Grossväter,* p. 25. Wien, 1879.
 
-<span id="fn_33"></span>[46:\*](mmm03.htm#fr_33) James Anderson, D.D„
+<span id="fn_33"></span>[46:\*](mmm03.htm#fr_33.md) James Anderson, D.D„
 whose work was published in 1723, under the title *The Constitutions of
 the Freemasons; containing the History, Charges, Regulations, etc., of
 that Most Ancient and Right Worshipful Fraternity, for the use of the
 Lodges*. A second edition, revised, was published in 1738.
 
-<span id="fn_34"></span>[46:†](mmm03.htm#fr_34) *Freimaurer;* Heft. I.,
+<span id="fn_34"></span>[46:†](mmm03.htm#fr_34.md) *Freimaurer;* Heft. I.,
 p. Jo, ed. by von Andrée. Gotha, 1789.
 
-<span id="fn_35"></span>[47:\*](mmm03.htm#fr_35) Maria Theresa, wife of
+<span id="fn_35"></span>[47:\*](mmm03.htm#fr_35.md) Maria Theresa, wife of
 Franz I., and the mother of Joseph II. of Austria.
 
-<span id="fn_36"></span>[47:†](mmm03.htm#fr_36) Henne-am-Rhyn (Otto),
+<span id="fn_36"></span>[47:†](mmm03.htm#fr_36) Henne-am-Rhyn (Otto.md),
 *Kulturgeschichte des Zeitalters der Aufklärung*, v., p. 244. Leipzig,
 1878.
 
-<span id="fn_37"></span>[47:‡](mmm03.htm#fr_37) Schmieder (C. C.),
+<span id="fn_37"></span>[47:‡](mmm03.htm#fr_37) Schmieder (C. C..md),
 *Geschichte der Alchemie*, pp. 527-542, 1832.
 
-<span id="fn_38"></span>[48:\*](mmm03.htm#fr_38) See *The Kneph*, vol.
+<span id="fn_38"></span>[48:\*](mmm03.htm#fr_38.md) See *The Kneph*, vol.
 iv., 3. August, 1884. "Masonic Notes."
 
-<span id="fn_39"></span>[49:\*](mmm03.htm#fr_39) Says Accelleros (Dr.
+<span id="fn_39"></span>[49:\*](mmm03.htm#fr_39.md) Says Accelleros (Dr.
 Karl Rössler): ''The Gnostic principles were spread under the form of
 Aristotelean Philosophy at Paris and elsewhere."—*Die Freimaurerei in
 ihrem Zusammenhange mit den Religionen der alten Aegypter, der Juden and
 der Christen*, II., p. 63. Leipzig, 1836.
 
-<span id="fn_40"></span>[50:\*](mmm03.htm#fr_40) *Op. cit.*, pp. 28,
+<span id="fn_40"></span>[50:\*](mmm03.htm#fr_40.md) *Op. cit.*, pp. 28,
 30-32.
 
-<span id="fn_41"></span>[50:†](mmm03.htm#fr_41) *Op. cit.*, p. 54.
+<span id="fn_41"></span>[50:†](mmm03.htm#fr_41.md) *Op. cit.*, p. 54.
 
-<span id="fn_42"></span>[51:\*](mmm03.htm#fr_42) The writer is referring
+<span id="fn_42"></span>[51:\*](mmm03.htm#fr_42.md) The writer is referring
 to the persecutions of the "Magian Brothers," who followed Manes the
 reformer.
 
-<span id="fn_43"></span>[53:\*](mmm03.htm#fr_43) The present Freemason
+<span id="fn_43"></span>[53:\*](mmm03.htm#fr_43.md) The present Freemason
 body.
 
-<span id="fn_44"></span>[54:\*](mmm03.htm#fr_44) *Freimaurer Lexicon*,
+<span id="fn_44"></span>[54:\*](mmm03.htm#fr_44.md) *Freimaurer Lexicon*,
 Gädicke (J. C.). Berlin; 1818.
 
-<span id="fn_45"></span>[54:†](mmm03.htm#fr_45) J. G. Findel's *History
+<span id="fn_45"></span>[54:†](mmm03.htm#fr_45.md) J. G. Findel's *History
 of Freemasonry*, p. 721. Translated from 2nd German ed. with preface by
 G. von Dalen. London; 1866.
 
-<span id="fn_46"></span>[54:‡](mmm03.htm#fr_46) *The Royal Masonic
+<span id="fn_46"></span>[54:‡](mmm03.htm#fr_46.md) *The Royal Masonic
 Cyclopædia*, p. 126. London; 1877.
 
-<span id="fn_47"></span>[55:\*](mmm03.htm#fr_47) This tradition came
+<span id="fn_47"></span>[55:\*](mmm03.htm#fr_47.md) This tradition came
 from Egypt and passing along North Africa, swept over into Spain, and
 was at the foundation of the great Arabic mystic development which has
 made Spain immortal. The true name <span id="page_56">p. 56</span> of
@@ -1535,31 +1535,31 @@ this African tradition is Manichaeism, and in the Church of North Africa
 the Gnostic teaching lived for many a century: and among the Copts the
 tradition yet endures.
 
-<span id="fn_48"></span>[58:\*](mmm03.htm#fr_48) Ragon, *op. cit.*, pp.
+<span id="fn_48"></span>[58:\*](mmm03.htm#fr_48.md) Ragon, *op. cit.*, pp.
 239, *et seq*.
 
-<span id="fn_49"></span>[59:\*](mmm03.htm#fr_49) Benedictine Monk of the
+<span id="fn_49"></span>[59:\*](mmm03.htm#fr_49.md) Benedictine Monk of the
 Congregation of Saint-Maur, Abbot of Burgel in Thuringia, Librarian of
 the King of Prussia: author of *Les Fables égyptiennes et grēcques
 devoileés et réduites au même Principe, Le Dictionnaire
 Mytho-Hermétique*, and other treatises on Alchemy.
 
-<span id="fn_50"></span>[60:\*](mmm03.htm#fr_50) *Original Anecdotes of
+<span id="fn_50"></span>[60:\*](mmm03.htm#fr_50.md) *Original Anecdotes of
 Frederic II., King of Prussia*, translated from the French of Dieudonné
 Thiébault, Professor of Belles-Lettres in the Royal Academy of Berlin,
 II., p. 383. London, 1805.
 
-<span id="fn_51"></span>[61:\*](mmm03.htm#fr_51) This Lodge "Zu den drei
+<span id="fn_51"></span>[61:\*](mmm03.htm#fr_51.md) This Lodge "Zu den drei
 Weltkugeln" (The Three Globes) was established by Frederick II., who was
 its first Grand Master. It became the Grand Mother Lodge of Germany in
 1744. It was also the protectress of the mystic element in Masonry for
 many years.
 
-<span id="fn_52"></span>[61:†](mmm03.htm#fr_52) Findel had been
+<span id="fn_52"></span>[61:†](mmm03.htm#fr_52.md) Findel had been
 disputing the point held by the "Grand Lodge," *viz*., that the links of
 true Masonry are to be found not in England, but in Scotland.
 
-<span id="fn_53"></span>[61:‡](mmm03.htm#fr_53) "It has been argued with
+<span id="fn_53"></span>[61:‡](mmm03.htm#fr_53.md) "It has been argued with
 much force and apparent truth, that the building art was, in times of
 remotest antiquity, regarded as sacred, and existed under special
 concession and care of the native priesthood where it was practised, but
@@ -1574,38 +1574,38 @@ say " the secret arts thus obtained by the Teutonic races were
 perpetuated in fraternities or Guilds, whose existence ascends to the
 oldest forms of Germanic government."
 
-<span id="fn_54"></span>[63:\*](mmm03.htm#fr_54) Compare with this
+<span id="fn_54"></span>[63:\*](mmm03.htm#fr_54.md) Compare with this
 statement, that a comparatively small body of men had received the inner
 teaching, and had a mission to hand it on, what was quoted about the
 "World-Wise Men" in the *Theosophical Review*, xxiii. 354.
 
-<span id="fn_55"></span>[63:†](mmm03.htm#fr_55) Findel (J. G.), *History
+<span id="fn_55"></span>[63:†](mmm03.htm#fr_55) Findel (J. G..md), *History
 of Freemasonry*, translated from the second German edition, by C. von
 Dalen, pp. 316-318. London, 1866.
 
-<span id="fn_56"></span>[65:\*](mmm03.htm#fr_56) Symbols derived from
+<span id="fn_56"></span>[65:\*](mmm03.htm#fr_56.md) Symbols derived from
 the art of building, were also employed by the Pythagoreans, for
 conveying instruction to those who were initiated into their fraternity.
 See Proclus in Eucl. lib. XI. def. 2, etc.
 
-<span id="fn_57"></span>[66:\*](mmm03.htm#fr_57) According to Playfair's
+<span id="fn_57"></span>[66:\*](mmm03.htm#fr_57.md) According to Playfair's
 Chronology, the Temple of Solomon was begun in 1016 and finished in
 1008, B.C. The Eleusinian mysteries were introduced into Athens in 1356,
 B.C., a considerable time after their institution.
 
-<span id="fn_58"></span>[67:\*](mmm03.htm#fr_58) Lawrie, (Alexander),
+<span id="fn_58"></span>[67:\*](mmm03.htm#fr_58) Lawrie, (Alexander.md),
 *The History of Freemasonry, drawn from authentic sources of
 information, with an account of the Grand Lodge of Scotland*, p. 28 *et
 seq*. Edinburgh, 1804.
 
-<span id="fn_59"></span>[67:†](mmm03.htm#fr_59) They have both a common
+<span id="fn_59"></span>[67:†](mmm03.htm#fr_59.md) They have both a common
 bond in Manichæism, the Templars were "Sons of the Widow" in the earlier
 times, as well as the African Brothers. Both bodies again hold the
 Egyptian line of tradition, and were versed in its grand symbology and
 hieroglyph.—Lenning (C.). *Allgemeines Handbuch der Freimaurerei*, I.,
 p. 7. Leipzig, 1863.
 
-<span id="fn_60"></span>[67:‡](mmm03.htm#fr_60) "There is no portion of
+<span id="fn_60"></span>[67:‡](mmm03.htm#fr_60.md) "There is no portion of
 our annals so worthy of investigation as that which is embraced by the
 middle ages of Christendom when the whole of Europe was perambulated by
 our Brethren, in associations of travelling artizans, under the name of
@@ -1633,34 +1633,34 @@ of masonry, and they were in possession of a secret mode of
 recognition."—Mackey's *Lexicon of Freemasonry*. Charleston, 1845, p.
 316.
 
-<span id="fn_61"></span>[68:\*](mmm03.htm#fr_61) Ragon gives "Manes"
+<span id="fn_61"></span>[68:\*](mmm03.htm#fr_61.md) Ragon gives "Manes"
 where Lenning uses "Menes."
 
-<span id="fn_62"></span>[69:\*](mmm03.htm#fr_62) Lenning (C.),
+<span id="fn_62"></span>[69:\*](mmm03.htm#fr_62) Lenning (C..md),
 *Allgemeines Handbuch der Freimaurerei*, pp. 7-8. Leipzig, 1863.
 
-<span id="fn_63"></span>[70:\*](mmm03.htm#fr_63) *Crata Repoa, oder
+<span id="fn_63"></span>[70:\*](mmm03.htm#fr_63.md) *Crata Repoa, oder
 Einweihungen in der alten geheimen Gesellschaft der Aegyptien Priester*.
 Berlin, 1770.
 
-<span id="fn_64"></span>[72:\*](mmm03.htm#fr_64) Mollien (G.), *Travels
+<span id="fn_64"></span>[72:\*](mmm03.htm#fr_64) Mollien (G..md), *Travels
 in the Interior of Africa*, translated from the French, edited by T. E.
 Bowdich, p. 161. London, 1820.
 
-<span id="fn_65"></span>[72:†](mmm03.htm#fr_65) These communities were
+<span id="fn_65"></span>[72:†](mmm03.htm#fr_65.md) These communities were
 chiefly Moors and Arabians, and we touch the Sufite mystic tradition
 along this line.
 
-<span id="fn_66"></span>[72:‡](mmm03.htm#fr_66) See *The Theosophical
+<span id="fn_66"></span>[72:‡](mmm03.htm#fr_66.md) See *The Theosophical
 Review*, xxiii., 358.
 
-<span id="fn_67"></span>[73:\*](mmm03.htm#fr_67) Lenning (C.),
+<span id="fn_67"></span>[73:\*](mmm03.htm#fr_67) Lenning (C..md),
 *Allgemeines Handbuch der Freimaurerei*, i., 15. Leipzig, 1863.
 
-<span id="fn_68"></span>[74:\*](mmm03.htm#fr_68) Kundmann, *Die höhen
+<span id="fn_68"></span>[74:\*](mmm03.htm#fr_68.md) Kundmann, *Die höhen
 and niedern Schulen Deutschlands*, p. 769. Breslau, 1741.
 
-<span id="fn_69"></span>[75:\*](mmm03.htm#fr_69) Blunt (John Henry,
+<span id="fn_69"></span>[75:\*](mmm03.htm#fr_69.md) Blunt (John Henry,
 D.D.), *Dictionary of Sects and Heresies*, p. 102. London, 1891. See
 also Mead (G. R. S.), "Among the Gnostics of the First Two Centuries,"
 *Lucifer*, xx. 207.
@@ -1669,6 +1669,6 @@ also Mead (G. R. S.), "Among the Gnostics of the First Two Centuries,"
 
 ------------------------------------------------------------------------
 
-[Next: The Traditions of the Templars Revived in Masonry](mmm04)
+[Next: The Traditions of the Templars Revived in Masonry](mmm04.md)
 
 </div>

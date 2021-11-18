@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb43)  [Next](wfb45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb43)  [Next](wfb45.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ and it immediately shot out half a yard.
 
 ------------------------------------------------------------------------
 
-[Next: Treasure Seeking](wfb45)
+[Next: Treasure Seeking](wfb45.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](aenl02)  [Previous](aen01) 
-[Next](aen03) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](aenl02)  [Previous](aen01.md) 
+[Next](aen03.md) 
 
 ------------------------------------------------------------------------
 
@@ -1129,4 +1129,4 @@ And, loaded, up the hill convey my sire."
 
 ------------------------------------------------------------------------
 
-[Next: Book III](aen03)
+[Next: Book III](aen03.md)

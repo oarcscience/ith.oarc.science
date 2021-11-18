@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had28)  [Next](had30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had28)  [Next](had30.md) 
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ common form which a Muslim thanks another.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI: Wills and Inheritance](had30)
+[Next: Chapter XXVI: Wills and Inheritance](had30.md)

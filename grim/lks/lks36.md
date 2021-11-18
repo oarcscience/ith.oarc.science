@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks35)  [Next](lks37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks35)  [Next](lks37.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ firmament, earth, and the dwelling of darkness.
 ------------------------------------------------------------------------
 
 [Next: Ye Generall Curse Yclept Ye Spirits' Chayne, Against All Spirits
-Yt Rebelle](lks37)
+Yt Rebelle](lks37.md)

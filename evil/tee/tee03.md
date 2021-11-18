@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](tee02)  [Next](tee04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](tee02)  [Next](tee04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Evil Eye*, by Frederick Thomas Elworthy, \[1895\], at Intangible
 Textual Heritage
 
@@ -29,7 +29,7 @@ themselves readily into imaginations and suggestions, and they come
 easily into the eye, especially upon the presence of the objects which
 are the points that conduce to fascination, if any such there be. We see
 likewise the Scripture calleth envy an evil eye." <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 So wrote one of our greatest philosophers, and on the same subject he
 says: "Of all other affections, it is the most importunate and
@@ -80,11 +80,11 @@ in all countries. It was adopted and sanctioned alike by the Fathers of
 the Church, by mediæval physicians, and all writers on occult science;
 while in our own day it still exists among all savage nations, and even
 here in England in our very midst. Heliodorus <span
-id="fr_1"></span>[2](#fn_1) makes Charicles say of his host: "I fancy an
+id="fr_1"></span>[2](#fn_1.md) makes Charicles say of his host: "I fancy an
 envious eye has looked upon this man also; he seems to be affected much
 in the same manner as Chariclea. Indeed I think so too, I replied; and
 it is probable enough, for he went directly after her in the
-procession." <span id="fr_2"></span>[3](#fn_2)
+procession." <span id="fr_2"></span>[3](#fn_2.md)
 
 The origin of the belief is lost in the obscurity of prehistoric ages.
 The enlightened call it superstition; but it holds its sway over the
@@ -137,7 +137,7 @@ certainly did not bear the
 best of characters. The whole family devoutly believed that the girl's
 death, which happened very soon, was brought about by this old woman. No
 doubt a century or two ago she would have been burnt as a witch. <span
-id="fr_3"></span>[4](#fn_3)
+id="fr_3"></span>[4](#fn_3.md)
 
 Several cases of precisely the same kind are well known to the writer
 and his family--especially relating to children. Visits have been often
@@ -152,11 +152,11 @@ One half of me is yours, the other half yours.
                    *Merchant of Venice*, Act iii. Sc. 2.
 
 The imputation by St. Paul, that the foolish Galatians <span
-id="fr_4"></span>[5](#fn_4) had been spellbound, meant that some evil
+id="fr_4"></span>[5](#fn_4.md) had been spellbound, meant that some evil
 eye had "overlooked" them and worked in them a blighting influence. It
 was an apt allusion to the then, and still, universally prevalent belief
 in that power of "dread fascination" which the writer of the
-Epistle <span id="fr_5"></span>[6](#fn_5) so well knew they would
+Epistle <span id="fr_5"></span>[6](#fn_5.md) so well knew they would
 comprehend, and he therefore used it as a striking metaphor.
 
 <span id="page_6">p. 6</span>
@@ -169,14 +169,14 @@ the most constant and elaborate of any, of which we can now decipher the
 traces.
 
 We see evidence of this in the very beginning of Egyptian mythology.
-Ptah, the Opener, <span id="fr_6"></span>[7](#fn_6) is said to be the
+Ptah, the Opener, <span id="fr_6"></span>[7](#fn_6.md) is said to be the
 father of the gods and of men. He brought forth all the other gods from
 his eye, and men from his mouth--a piece of implied evidence of the
 ancient belief that of all emanations those from the eye were the most
 potent.
 
 How strong the feeling was among contemporary Orientals, the many
-passages in Scripture <span id="fr_7"></span>[7a](#fn_7) referring to it
+passages in Scripture <span id="fr_7"></span>[7a](#fn_7.md) referring to it
 distinctly prove. Indeed it is found in the literature of every people,
 in every land since history began to be written. No science, no
 religion, no laws have been able to root out this fixed belief; and no
@@ -195,7 +195,7 @@ that in our innermost
 soul there lurks a something, a feeling, a superstition if you will,
 which all our culture, all our boasted superiority to vulgar beliefs,
 cannot stifle, and which may well be held to be a kind of hereditary
-instinct. <span id="fr_8"></span>[8](#fn_8)
+instinct. <span id="fr_8"></span>[8](#fn_8.md)
 
 Not only do the pages of Brand's *Popular Antiquities*, Brewster's
 *Magic*, and Hone's *Everyday Book*, as well as the local press, provide
@@ -207,8 +207,8 @@ quasi-scientific investigation.
 Among the Greeks, who got their art and many of their customs from
 Egypt, the belief was so universal that they had a special word to
 express this mysterious power, βασκανία, <span
-id="fr_9"></span>[9](#fn_9) whence, all authorities say, <span
-id="fr_10"></span>[10](#fn_10) comes the Latin word *fascinatio*.
+id="fr_9"></span>[9](#fn_9.md) whence, all authorities say, <span
+id="fr_10"></span>[10](#fn_10.md) comes the Latin word *fascinatio*.
 
 This latter word Cicero himself discusses, and explains as *invidere*,
 to look too closely at: hence *invidia*, envy, or evil eye, the
@@ -216,7 +216,7 @@ instigator of most deadly sins--the vice which is even now most
 frequently named in connection with its sequences, "hatred, and malice,
 and all uncharitableness."
 
-Delrio <span id="fr_11"></span>[11](#fn_11) and Frommannd trace the
+Delrio <span id="fr_11"></span>[11](#fn_11.md) and Frommannd trace the
 Greek word to Chaldean, and discourse upon the etymology as
 
 <span id="page_8">p. 8</span>
@@ -228,7 +228,7 @@ light upon the ancient ideas connected with the evil eye, and with the
 means taken to baffle it, backed up by an array of authorities such as
 no other writer on the subject has brought together, but of such a
 nature that we can only here direct the student to the book
-itself. <span id="fr_12"></span>[12](#fn_12) Many objects to be seen in
+itself. <span id="fr_12"></span>[12](#fn_12.md) Many objects to be seen in
 Egypt, Greece, and Italy, especially at Pompeii, are by this
 extraordinary treatise made to assume an entirely different shape and
 signification from those given them by the guidebooks or the *ciceroni*.
@@ -239,7 +239,7 @@ air as to penetrate and corrupt the bodies of both living creatures and
 inanimate objects. "When any one looks at what is excellent with an
 envious eye he fills the surrounding atmosphere with a pernicious
 quality, and transmits his own envenomed exhalations into whatever is
-nearest to him." <span id="fr_13"></span>[13](#fn_13)
+nearest to him." <span id="fr_13"></span>[13](#fn_13.md)
 
 It has also been fully believed, both in ancient and modern times, that
 many persons by the glance of their eye have caused injurious effects,
@@ -247,11 +247,11 @@ without their consent and even against their will, so that
 
 <span id="page_9">p. 9</span>
 
-in some cases mothers <span id="fr_14"></span>[14](#fn_14) would not
+in some cases mothers <span id="fr_14"></span>[14](#fn_14.md) would not
 venture to expose their infants to the look of their own fathers.
 
 A story is related of an unhappy Slav, <span
-id="fr_15"></span>[15](#fn_15) who with the most loving heart was
+id="fr_15"></span>[15](#fn_15.md) who with the most loving heart was
 afflicted with the evil eye, and at last blinded himself in order that
 he might not be the means of injury to his children.
 
@@ -259,18 +259,18 @@ Frommannd (p. 10) draws attention to the very remarkable passage in
 Deut. xxviii. 54, in confirmation of the possession of this terrible
 power acting against the will of the possessor.
 
-Jahn <span id="fr_16"></span>[16](#fn_16) remarks upon this, that as
+Jahn <span id="fr_16"></span>[16](#fn_16.md) remarks upon this, that as
 smell, speech, bodily presence and breath work their influence upon
 those with whom they come in contact, so in a yet higher degree does the
 glance from the eye, which, as all know, affects so much in love. <span
-id="fr_17"></span>[17](#fn_17)
+id="fr_17"></span>[17](#fn_17.md)
 
 Domestic animals, such as horses, camels, cows, have always been thought
 in special danger. In the Scotch Highlands if a stranger looks
 admiringly on a cow the people still believe she will waste away from
 the evil eye, and they offer him some of her milk to drink, in the
 belief that by so doing the spell will be broken and the consequences
-averted. <span id="fr_18"></span>[18](#fn_18) The Turk and the Arab
+averted. <span id="fr_18"></span>[18](#fn_18.md) The Turk and the Arab
 think the same of their horses and camels. Above all the Neapolitan
 cabman of to-day believes in the great danger to his horse from the eye
 of the *jettatore*.
@@ -278,12 +278,12 @@ of the *jettatore*.
 <span id="page_10">p. 10</span>
 
 Camden says the Irish believe some men's eyes have the power of
-bewitching horses. <span id="fr_19"></span>[19](#fn_19)
+bewitching horses. <span id="fr_19"></span>[19](#fn_19.md)
 
 Young animals of all kinds were, and are, thought to be peculiarly
 susceptible. Virgil (*Ec.* iii. 103) puts into the mouth of a shepherd,
 what everybody quotes: "Nescio quis teneros oculus mihi fascinat agnos."
-Plutarch <span id="fr_20"></span>[20](#fn_20) also says that certain
+Plutarch <span id="fr_20"></span>[20](#fn_20.md) also says that certain
 men's eyes are destructive to infants and young animals because of the
 weak and tender constitution of their bodies, but have not so much power
 over men of strong frames. . . . He says, however, the Thebans had this
@@ -298,7 +298,7 @@ The special dread of fascination for domestic animals is implied by the
 author of the Book of Judges (viii. 21), for the word translated
 *ornaments* in the A.V. is given in the margin as "ornaments like the
 moon" that were on their camels' necks. <span
-id="fr_21"></span>[20a](#fn_21)
+id="fr_21"></span>[20a](#fn_21.md)
 
 Who can doubt that those ornaments were the exact prototypes of the
 identical half-moons we now put upon our harness? We shall see later
@@ -310,20 +310,20 @@ abound, but above all in Italy.
 
 <span id="page_11">p. 11</span>
 
-In Scotland <span id="fr_22"></span>[21](#fn_22) and in England all
+In Scotland <span id="fr_22"></span>[21](#fn_22.md) and in England all
 kinds of cattle are thought liable to its malignity. To this day any
 ailment or misfortune to a domestic animal is at once set down to its
-being "overlooked." <span id="fr_23"></span>[22](#fn_23) In Ireland in
+being "overlooked." <span id="fr_23"></span>[22](#fn_23.md) In Ireland in
 Elizabeth's time they used to execute eye-biting witches for causing
 diseases among cattle. Cows are particularly subject to fascination in
 Scotland, and the various preventive remedies are enumerated by Pennant
-in his *Voyage to the Hebrides*. <span id="fr_24"></span>[23](#fn_24) In
+in his *Voyage to the Hebrides*. <span id="fr_24"></span>[23](#fn_24.md) In
 England, of all animals the pig is oftenest "overlooked." This may be
 because he has more owners of the peasantry class, or perhaps because of
 the difficulty of administering physic; and hence his frequent maladies
 have become mysterious. It is the common saying that "there idn no
 drenchin' a pig when he's a-tookt bad; there idn no cure vor'n but cold
-steel." <span id="fr_25"></span>[24](#fn_25)
+steel." <span id="fr_25"></span>[24](#fn_25.md)
 
 Pliny also says that the Thibii in Pontus, and many other persons as
 well, have a double pupil in one eye, and in the other the figure of a
@@ -332,14 +332,14 @@ horse, and
 <span id="page_12">p. 12</span>
 
 that these people will not sink in water even if weighed down with
-clothes. <span id="fr_26"></span>[25](#fn_26)
+clothes. <span id="fr_26"></span>[25](#fn_26.md)
 
 It is thus easy to see from Pliny, whence the idea came which led people
 in the Middle Ages, and even later, to put reputed witches to the water
 ordeal. If they sank they were innocent, but of course then they were
 drowned, and spite was appeased; while if they floated they were, as in
 Pliny's time, accounted guilty and then burnt. <span
-id="fr_27"></span>[26](#fn_27)
+id="fr_27"></span>[26](#fn_27.md)
 
 Those who were under the influence of anger or of envy were most
 dangerous in this terrible faculty, while those who were in the
@@ -372,12 +372,12 @@ Even the most enlightened of us has constantly heard and perhaps said:
 now I have let fall this old glass that belonged to my grandmother!"
 
 A story upon this question is told by Plutarch <span
-id="fr_28"></span>[28](#fn_28) which he puts into the mouth of his
+id="fr_28"></span>[28](#fn_28.md) which he puts into the mouth of his
 friend Soclarus at a supper in the house of a certain Metrius Florus.
 There had been a discussion on the evil eye, and some one having
 asserted that fascination was all nonsense, the host insisted that the
 power was undoubted, and called on his friends to testify that "we
-[ourselves](errata.htm#0) have known men who could inflict potent injury
+[ourselves](errata.htm#0.md) have known men who could inflict potent injury
 upon our children by merely looking at them." Plutarch then explains
 that the voice, the odour, the breath, are emanations which may easily
 injure those susceptible of them, and particularly is this true of the
@@ -407,13 +407,13 @@ of the impression his own beauty had made upon him when he had seen his
 image reflected in the water. He, however, seemed well aware of what
 might be the consequence, for he adopted a well-known remedy against
 fascination, by spitting three times on his breast. This will be
-referred to later on. <span id="fr_29"></span>[29](#fn_29)
+referred to later on. <span id="fr_29"></span>[29](#fn_29.md)
 
 Further, among the Greeks and Romans, statues of Nemesis were erected,
 which were adored and invoked to save their worshippers from
 fascination.
 
-Few of the old classic writers <span id="fr_30"></span>[30](#fn_30) fail
+Few of the old classic writers <span id="fr_30"></span>[30](#fn_30.md) fail
 to give an account of the dread power which some individuals exercised
 over others. Women and children seem to have been accounted by all as
 the most liable to injury, while also some women were held to be the
@@ -426,7 +426,7 @@ a fascinator called Elzarian
 <span id="page_15">p. 15</span>
 
 killed by his evil art no less than eighty persons in two years. <span
-id="fr_31"></span>[31](#fn_31)
+id="fr_31"></span>[31](#fn_31.md)
 
 In Rome the faculty of fascination was so well recognised that,
 according to Pliny, special laws were enacted against injury to crops by
@@ -434,7 +434,7 @@ incantation, excantation, or fascination. The belief in those days was
 so universal that when a person was ill without apparent cause the
 people cried: "Mantis te vidit"--"some fascinator (lit. *grillo*,
 grasshopper) has looked on thee"; just as would now be said, "Thou art
-overlooked." <span id="fr_32"></span>[32](#fn_32)
+overlooked." <span id="fr_32"></span>[32](#fn_32.md)
 
 It was believed anciently that even the gods also looked enviously upon
 man's good fortune, and often with malicious joy destroyed it for him.
@@ -462,11 +462,11 @@ the envious malignity of some person by whom the sufferer has been
 "overlooked," by whom the maleficent glance has been cast. The word is
 so common, and of such regular use, that it would be uttered by many,
 who would repudiate any such superstitious belief as that of the evil
-eye. <span id="fr_33"></span>[34](#fn_33)
+eye. <span id="fr_33"></span>[34](#fn_33.md)
 
 In connection with envy, it was customary amongst the Romans when
 praising any person or thing to add, *præfiscini dixerim*, <span
-id="fr_34"></span>[35](#fn_34) which may be freely
+id="fr_34"></span>[35](#fn_34.md) which may be freely
 
 <span id="page_17">p. 17</span>
 
@@ -542,13 +542,13 @@ happen; my case was adjourned *sine die*."
 It may be mentioned *en passant*, that in Tuscany the influence is
 called *affascinamento*, or *mal d'occhio*; while in Southern Italy
 *jettatura* is the common term. In Corsica, <span
-id="fr_35"></span>[36](#fn_35) however, where the belief is universal,
+id="fr_35"></span>[36](#fn_35.md) however, where the belief is universal,
 it is called *Innocchiatura*. In other parts of Northern Italy it is
 known by several names, which seem to include all the varied influences
 of fascination, as well as those of the evil eye especially. <span
-id="fr_36"></span>[37](#fn_36)
+id="fr_36"></span>[37](#fn_36.md)
 
-Valletta records <span id="fr_37"></span>[38](#fn_37) that a servant of
+Valletta records <span id="fr_37"></span>[38](#fn_37.md) that a servant of
 the Duke of Briganzio caused a falcon to drop down dead, *con occhi
 jettatori*. Also that it is registered in the Acts of the Academy of
 Paris that a dirty old hag (*vecchiaccia*) in 1739 went near and paused
@@ -576,7 +576,7 @@ had carefully placed it! The worst of all was that *quel maledetto
 jettatore* laughingly reminded him every day of the occurrence and of
 his blighted hopes.
 
-The professor concludes: <span id="fr_38"></span>[39](#fn_38) "Every
+The professor concludes: <span id="fr_38"></span>[39](#fn_38.md) "Every
 people, every race, believes, and hopes to avoid sinister events and *la
 jettatura*, by benedictions, by happy auguries, by those precautions and
 remedies which experience shows to be most valuable and opportune." He
@@ -599,7 +599,7 @@ roots, a wolf's tail, the skin of a hyena's forehead (*fronte della
 iene*), the onion, which they say the devil respects because the
 ancients adored it equally with himself; and that herb with
 strong-smelling root called *Baccharis*, *Baccari*, <span
-id="fr_39"></span>[40](#fn_39) vulgarly called *Guanto di nostra
+id="fr_39"></span>[40](#fn_39.md) vulgarly called *Guanto di nostra
 signora* (Our Lady's glove), because it constipates the passages, and
 restrains the overflow of the spirits which excessive praise produces;
 whence it closes the door to fascination."
@@ -629,11 +629,11 @@ ought to recite to preserve oneself from the *jettatura* of monks
 (*Frati*)? 12. What words in general ought one to repeat to escape the
 evil eye (*si debban dire per evitare la jettatura*)? 13. What power
 therefore have the horn, or other things? <span
-id="fr_41"></span>[41](#fn_41)
+id="fr_41"></span>[41](#fn_41.md)
 
 It was anciently believed that women have more power of fascination than
 men. Varro accounts for their increased evil influence as the result of
-their unbridled passions, <span id="fr_42"></span>[42](#fn_42) and he
+their unbridled passions, <span id="fr_42"></span>[42](#fn_42.md) and he
 fully describes how to discern between those who have greater or less
 dangerous
 
@@ -641,7 +641,7 @@ dangerous
 
 power. In modern times, however, it has generally come to be believed
 that the evil eye is possessed more by men than women. <span
-id="fr_43"></span>[43](#fn_43)
+id="fr_43"></span>[43](#fn_43.md)
 
 Ever since the establishment of the religious orders, monks have had the
 special reputation of possessing the fatal influence.
@@ -649,13 +649,13 @@ special reputation of possessing the fatal influence.
 In 842, Erchempert, a monk of Monte Cassino, the most famous convent in
 Italy, wrote that Landulf, Bishop of Capua, used to say that whenever he
 met a monk, something unlucky always happened to him during the
-day. <span id="fr_44"></span>[44](#fn_44) To this day there are many
+day. <span id="fr_44"></span>[44](#fn_44.md) To this day there are many
 persons who, if they meet a monk or priest, on first going out in the
 morning, will not proceed upon their errand or business until they have
 returned to their houses and waited a while, so as to be able to make a
 fresh start.
 
-In Rome are many noted *jettatori*: <span id="fr_45"></span>[45](#fn_45)
+In Rome are many noted *jettatori*: <span id="fr_45"></span>[45](#fn_45.md)
 one of them is a most pleasant and handsome man, attached to the Church,
 and yet, by odd coincidence, wherever he goes he carries ill-luck. If he
 goes to a party, the ices do not arrive, the music is late, the lamps go
@@ -773,7 +773,7 @@ Who knows that our friend is not right?"
 
 Dumas in *Le Corricolo*, which is mostly about Naples, has a short
 chapter on *La Jettatura*. He says that it is an incurable malady, <span
-id="fr_46"></span>[46](#fn_46) one is born a *jettatore* and so dies;
+id="fr_46"></span>[46](#fn_46.md) one is born a *jettatore* and so dies;
 one is compelled to become such, and when once begun there is no power
 to throw it off. Generally they are unaware of their fatal influence;
 hence it is the worst possible compliment to tell a man that he has it.
@@ -791,7 +791,7 @@ Dumas finishes his chapter with a citation of
 
 <span id="page_28">p. 28</span>
 
-the same questions put by Valletta (see [p. 22](#page_22)), but they are
+the same questions put by Valletta (see [p. 22](#page_22).md), but they are
 taken from a different edition of the *Cicalata* from either that used
 by Mr. Story, or that in possession of the writer.
 
@@ -816,7 +816,7 @@ The true cause was that this audience had given an evil chance to Canon
 Ojori, who was known as one of the most terrible *jettatori* in Naples.
 
 In Abyssinia potters and ironworkers called *Budas* <span
-id="fr_47"></span>[46a](#fn_47) were believed to have been specially
+id="fr_47"></span>[46a](#fn_47.md) were believed to have been specially
 endowed with the maleficent faculty, hence, in that so-
 
 <span id="page_29">p. 29</span>
@@ -839,13 +839,13 @@ in every year changed themselves into wolves; but he himself did not
 believe it.
 
 The belief in the power of transformation <span
-id="fr_48"></span>[47](#fn_48) seems in all countries to have been
+id="fr_48"></span>[47](#fn_48.md) seems in all countries to have been
 closely allied with witches and with those possessed of the evil eye.
 The idea is very common in the stories of ancient mythology, and from
 the Middle Ages down to the present time it has possessed the popular
 mind. The hare, the wolf, the cat, and the sow seem nowadays to be the
 favourite animals whose shape is assumed, though many others are
-believed in. <span id="fr_49"></span>[48](#fn_49)
+believed in. <span id="fr_49"></span>[48](#fn_49.md)
 
 <span id="page_30">p. 30</span>
 
@@ -878,10 +878,10 @@ One little fearful *lepus*,
 That certain sign, as some divine,  
 Of fortune bad to keep us.
 
-Even so serious a writer as Burton <span id="fr_50"></span>[49](#fn_50)
+Even so serious a writer as Burton <span id="fr_50"></span>[49](#fn_50.md)
 mentions the fear of accident or of prodigies which trouble us "as if a
 hare cross the way at our going forth." <span
-id="fr_51"></span>[50](#fn_51)
+id="fr_51"></span>[50](#fn_51.md)
 
 In Scotland it is most unlucky to see a hare or a pig cross the path,
 and the fisher folk turn their backs if they see either. In Somerset, a
@@ -901,13 +901,13 @@ though there does not seem to be any record of witches assuming its
 shape. "I have known people who have been put into such terrible
 apprehensions of death by the squeaking of a weasel, as have been very
 near bringing on them the fate they dreaded." <span
-id="fr_52"></span>[51](#fn_52)
+id="fr_52"></span>[51](#fn_52.md)
 
 <span id="page_32">p. 32</span>
 
 On the other hand a frog was considered a good omen. Many other objects
 are still considered, when met, to be the forerunners of misfortune,
-such as a deformed person, <span id="fr_53"></span>[52](#fn_53) a black
+such as a deformed person, <span id="fr_53"></span>[52](#fn_53.md) a black
 cat, a shaggy dog, a barefooted woman; but above all to meet a person
 who squints, is here in England thought to be as unlucky as in Italy it
 is to meet a *jettatore sospensivo*. In fact there are still living
@@ -945,7 +945,7 @@ the conventional exclamation before referred to, *præfiscini dixerim*,
 which put the hearer on his guard to use some antidotal formula for
 himself.
 
-Heliodorus narrates <span id="fr_54"></span>[53](#fn_54) that a Greek
+Heliodorus narrates <span id="fr_54"></span>[53](#fn_54.md) that a Greek
 girl, daughter of Calasaris, fell ill, and that in reply to the question
 what was the matter, it was said that it was no wonder, seeing that she
 had been seen by so great a crowd of people--and of course among so
@@ -977,13 +977,13 @@ malignant will is added to the force of nature.
 It was currently believed in England at the time of the Black Death,
 that even a glance from the sick man's distorted eyes was sufficient to
 give the infection to those on whom it fell. <span
-id="fr_55"></span>[54](#fn_55) No doubt it was to this belief that
+id="fr_55"></span>[54](#fn_55.md) No doubt it was to this belief that
 Shakespeare refers in
 
 Write "Lord have mercy on us" on those three;  
 They are infected; in their hearts it lies;  
 They have the plague, and caught it of your eyes. <span
-id="fr_56"></span>[55](#fn_56)
+id="fr_56"></span>[55](#fn_56.md)
 
 <span class="contnote">\[paragraph continues\]</span> The same speaker,
 Biron, had just before in the same scene called attention very
@@ -1004,7 +1004,7 @@ exhaustive treatise of Christian Frommannd.
 
 <span id="page_35">p. 35</span>
 
-Another remarkable book is <span id="fr_57"></span>[56](#fn_57) that of
+Another remarkable book is <span id="fr_57"></span>[56](#fn_57.md) that of
 Martin Delrio, a Jesuit of Louvain, who published in 1603 six books
 folio, in which he also quotes a great number of authorities both
 ancient and modern. He says he will not argue whether *maleficium*
@@ -1073,7 +1073,7 @@ also the son of a seventh son. The familiar name comes from the firm
 belief that his touch alone has healing power. The touch of the king for
 the cure of scrofula, even within the last two centuries, has given to
 that particular kind the name of the King's Evil. <span
-id="fr_59"></span>[57](#fn_59)
+id="fr_59"></span>[57](#fn_59.md)
 
 Our dialectal word to *bless* signifies to touch by making the sign of
 the cross on the part affected. Here in the west, goitre is a rather
@@ -1093,7 +1093,7 @@ upon the eye of savage beasts. Without admitting
 
 the truth of what Virgil and Pliny refer to as to the fact that he whom
 the wolf sees before he is himself seen loses his voice, <span
-id="fr_60"></span>[58](#fn_60) yet we believe, and it is generally
+id="fr_60"></span>[58](#fn_60.md) yet we believe, and it is generally
 maintained, that no animal can retain his fierceness under, nor endure,
 the steady gaze of man. Moreover the experience recorded by Dr.
 Livingstone when being actually torn by a lion, goes to prove that the
@@ -1106,11 +1106,11 @@ It is but reasonable, at least, to hope that some such feeling is
 mercifully provided for animals in general, and that the daily slaughter
 which is going on everlastingly in nature, may not be attended with all
 the nervous and physical pain with which, judging by our human feelings,
-we usually associate it. <span id="fr_61"></span>[59](#fn_61)
+we usually associate it. <span id="fr_61"></span>[59](#fn_61.md)
 
 It is certain that some animals can and do exercise a great and
 mysterious influence over others, fables notwithstanding. <span
-id="fr_62"></span>[60](#fn_62) Snakes especially seem to have
+id="fr_62"></span>[60](#fn_62.md) Snakes especially seem to have
 
 <span id="page_40">p. 40</span>
 
@@ -1122,7 +1122,7 @@ This feeling is strikingly illustrated by the action of the frog when
 chased by a snake; for he utters a piteous cry while trying to escape
 from the creature of which he has an instinctive terror. "When fairly
 seized, however, it gives itself up to its fate, and seldom attempts to
-struggle." <span id="fr_63"></span>[61](#fn_63)
+struggle." <span id="fr_63"></span>[61](#fn_63.md)
 
 One species, *Bucephalus Capensis*, is generally found upon trees, to
 which it resorts for the purpose of catching birds. The presence of one
@@ -1150,7 +1150,7 @@ heard of instances equally curious, in which antelopes and other
 quadrupeds have been so bewildered by the sudden appearance of
 crocodiles, and by the grimaces and contortions they practised, as to be
 unable to fly or even to move from the spot, towards which they were
-approaching to seize them." <span id="fr_64"></span>[62](#fn_64)
+approaching to seize them." <span id="fr_64"></span>[62](#fn_64.md)
 
 A remarkable snake story is recorded in *Household Words* (vol. xvii. p.
 139) of a cobra and an old soldier in India, who became quite good
@@ -1231,19 +1231,19 @@ fact, but he has often heard it asserted.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](tee03.htm#fr_0) Bacon, Essay IX. "Of Envy."
+<span id="fn_0"></span>[1:1](tee03.htm#fr_0.md) Bacon, Essay IX. "Of Envy."
 
-<span id="fn_1"></span>[3:2](tee03.htm#fr_1) *Theagenes and Chariclea*
+<span id="fn_1"></span>[3:2](tee03.htm#fr_1.md) *Theagenes and Chariclea*
 (Trans. 1789), vol. i. p. 145. Heliodorus, Bishop of Tricca in Thessaly,
 about A.D. 380, was a very firm believer in the evil eye, and frequently
 refers to it in his works, no doubt faithfully reflecting the opinions
 of his day.
 
-<span id="fn_2"></span>[3:3](tee03.htm#fr_2) See an article on the "Evil
+<span id="fn_2"></span>[3:3](tee03.htm#fr_2.md) See an article on the "Evil
 Eye" in Chambers's *Encyclopædia*. For numerous quotations on the
 subject see *New Eng. Dict.* s. v. "Evil Eye."
 
-<span id="fn_3"></span>[5:4](tee03.htm#fr_3) A long account of a
+<span id="fn_3"></span>[5:4](tee03.htm#fr_3.md) A long account of a
 prosecution of a white witch, who pretended that a woman was ill of a
 "bad wish" in a case much like the foregoing, is given in Pulman's
 *Weekly News*, June 14, 1892. Similar reports are frequently appearing
@@ -1251,26 +1251,26 @@ in the local press. At this moment (October 1894) two persons are dying
 in Wellington parish (one of phthisis!) who firmly believe, and are
 believed, to be suffering solely from having been "overlooked."
 
-<span id="fn_4"></span>[5:5](tee03.htm#fr_4) See Lightfoot, *Epistle to
+<span id="fn_4"></span>[5:5](tee03.htm#fr_4.md) See Lightfoot, *Epistle to
 the Galatians*, iii. 1, p. 133.
 
-<span id="fn_5"></span>[5:6](tee03.htm#fr_5) The expression of St. Paul,
+<span id="fn_5"></span>[5:6](tee03.htm#fr_5.md) The expression of St. Paul,
 though translated "bewitched" in our A. V., is in the Vulgate
 *fascinavit*, precisely the same as that used by Virgil (*post*, [p.
-10](#page_10)). In the Septuagint also the sense of the passage is
+10](#page_10).md). In the Septuagint also the sense of the passage is
 identical, referring to the influence, so well understood, of the evil
 eye, On this see Frommannd, *Tract. de Fasc*. p. 11.
 
-<span id="fn_6"></span>[6:7](tee03.htm#fr_6) E. Wallis Budge, *The
+<span id="fn_6"></span>[6:7](tee03.htm#fr_6.md) E. Wallis Budge, *The
 Nile-Notes for Travellers in Egypt*, p. 77.
 
-<span id="fn_7"></span>[6:7a](tee03.htm#fr_7) *e.g.* Deut. xxviii. 54,
+<span id="fn_7"></span>[6:7a](tee03.htm#fr_7.md) *e.g.* Deut. xxviii. 54,
 56; Job vii. 8; Psa. xxxv. 21; Prov. vi. 13; Isa. xiii. 18; Lam. ii. 4;
 Ezek. ix, 5. Especially also Prov. xxiii. 6, xxviii. 22; Matt. vi. 22,
 23, xx. 15; Luke xi. 34; Mark vii. 22; Psa. liv. 7, lix. 10, xcii. 11,
 with many others.
 
-<span id="fn_8"></span>[7:8](tee03.htm#fr_8) "In spite of the
+<span id="fn_8"></span>[7:8](tee03.htm#fr_8.md) "In spite of the
 schoolmaster we are still as firm believers in witchcraft and the evil
 eye as were the shepherd swains of Theocritus and Virgil, and many who,
 if directly questioned on the subject, would indignantly deny the
@@ -1278,73 +1278,73 @@ impeachment, are none the less devout believers in such occult
 powers."--W. F. Rose, *Somerset and Dorset Notes and Queries*, vol. iv.
 June 1894, p. 76.
 
-<span id="fn_9"></span>[7:9](tee03.htm#fr_9) In Modern Greek this is
+<span id="fn_9"></span>[7:9](tee03.htm#fr_9.md) In Modern Greek this is
 κακὸ ματί.
 
-<span id="fn_10"></span>[7:10](tee03.htm#fr_10) *Tractatus de
+<span id="fn_10"></span>[7:10](tee03.htm#fr_10.md) *Tractatus de
 Fascinatione*, Christian Frommannd, Nuremberg, 1674, p. 4; Nicolo
 Valletta, *Cicalata sul Fascino*, Napoli, 1787, p. 12; Potter,
 *Archæologia Græca*, 1824, i. 414; Lightfoot, *Ep. to Gal.* 1890, p.
 133, who all give long lists of authors and quotations in support of
 this etymology.
 
-<span id="fn_11"></span>[7:11](tee03.htm#fr_11) *Disquisitionum
+<span id="fn_11"></span>[7:11](tee03.htm#fr_11.md) *Disquisitionum
 Magicarum libri sex*, Auctore Martino Delrio, Societatis Jesu
 presbytero. Moguntiæ, apud Johannem Albinum, 1603.
 
-<span id="fn_12"></span>[8:12](tee03.htm#fr_12) Potter's *Archæologia
+<span id="fn_12"></span>[8:12](tee03.htm#fr_12.md) Potter's *Archæologia
 Græca* will be found a mine of information; indeed it would be easy to
 load our pages with references to authors classical and mediæval, but
 sufficient indication is here given for the student to find all that has
 been written on the subject.
 
-<span id="fn_13"></span>[8:13](tee03.htm#fr_13) Heliodorus, *Thea. and
+<span id="fn_13"></span>[8:13](tee03.htm#fr_13.md) Heliodorus, *Thea. and
 Char.* i. 140. There can be no doubt that Saul was believed to have the
 evil eye when we read: "And Saul eyed David from that day and forward"
 (1 Sam. xviii. 9). In the context we see all the circumstances we have
 been describing--envy and its consequences.
 
-<span id="fn_14"></span>[9:14](tee03.htm#fr_14) Jahn, "Ueber den
+<span id="fn_14"></span>[9:14](tee03.htm#fr_14.md) Jahn, "Ueber den
 Aberglauben des bösen Blicks bei den Alten": *Berichte der Gesellschaft
 der Wissenschaften zu Leipzig*, 1855, p. 35.
 
-<span id="fn_15"></span>[9:15](tee03.htm#fr_15) Woyciki, *Polish Folk
+<span id="fn_15"></span>[9:15](tee03.htm#fr_15.md) Woyciki, *Polish Folk
 Lore* (Trs. by Lewestein), p. 25.
 
-<span id="fn_16"></span>[9:16](tee03.htm#fr_16) Ut supra, p. 33.
+<span id="fn_16"></span>[9:16](tee03.htm#fr_16.md) Ut supra, p. 33.
 
-<span id="fn_17"></span>[9:17](tee03.htm#fr_17) In Ireland the belief
+<span id="fn_17"></span>[9:17](tee03.htm#fr_17.md) In Ireland the belief
 has always existed, and in old legends we are told of King Miada of the
 silver hand, who possessed a magic sword, but who nevertheless fell
 before "Balor of the Evil Eye" (Elton, *Origins of Eng. Hist.* 2nd ed.
 p. 279).
 
-<span id="fn_18"></span>[9:18](tee03.htm#fr_18) *Notes and Queries*, 1st
+<span id="fn_18"></span>[9:18](tee03.htm#fr_18.md) *Notes and Queries*, 1st
 ser. vi. p. 409.
 
-<span id="fn_19"></span>[10:19](tee03.htm#fr_19) *Ancient and Modern
+<span id="fn_19"></span>[10:19](tee03.htm#fr_19.md) *Ancient and Modern
 Manners of the Irish*, quoted by Brand, iii. 304.
 
-<span id="fn_20"></span>[10:20](tee03.htm#fr_20) *Sympos.* lib. v. quæs.
+<span id="fn_20"></span>[10:20](tee03.htm#fr_20.md) *Sympos.* lib. v. quæs.
 7.
 
-<span id="fn_21"></span>[10:20a](tee03.htm#fr_21) The R. V. has "the
+<span id="fn_21"></span>[10:20a](tee03.htm#fr_21.md) The R. V. has "the
 crescents that were on their camels' necks."
 
-<span id="fn_22"></span>[11:21](tee03.htm#fr_22) See Brand, vol. iii. p.
+<span id="fn_22"></span>[11:21](tee03.htm#fr_22.md) See Brand, vol. iii. p.
 46 (Bohn).
 
-<span id="fn_23"></span>[11:22](tee03.htm#fr_23) *Spectator*, "Somerset
+<span id="fn_23"></span>[11:22](tee03.htm#fr_23.md) *Spectator*, "Somerset
 Superstitions," March 24, 1894. Last week (October 1894) a man much
 wanted to buy a heifer from an unwilling seller. "Nif he do want'n, I
 tell ee, you'd better let'n have'n," said a neighbour. There was no
 question of price, but the reason was obvious.
 
-<span id="fn_24"></span>[11:23](tee03.htm#fr_24) Dodwell, *Classical
+<span id="fn_24"></span>[11:23](tee03.htm#fr_24.md) Dodwell, *Classical
 Tour*, vol. ii. p. 37. I cannot find what Pennant says, if anything;
 indeed Dodwell's references are very untrustworthy.
 
-<span id="fn_25"></span>[11:24](tee03.htm#fr_25) Pliny says (*Nat.
+<span id="fn_25"></span>[11:24](tee03.htm#fr_25.md) Pliny says (*Nat.
 Hist.* vii. 2; vol. ii. pp. 126, 127, Bohn) that in Africa there are
 families of enchanters who can cause cattle to perish, trees to wither,
 and infants to die. That among the Triballi and Illyrii are some who
@@ -1362,7 +1362,7 @@ Limat, non odio obscuro morsuque venenat."
 <span class="contnote">\[paragraph continues\]</span> See also Bacon,
 Essay IX. p. 78, and Frommannd, *Tractatus*, p. 11.
 
-<span id="fn_26"></span>[12:25](tee03.htm#fr_26) Ovid says (*Amores* i.
+<span id="fn_26"></span>[12:25](tee03.htm#fr_26.md) Ovid says (*Amores* i.
 Eleg. 8. 15):--
 
            "Oculis quoque pupula duplex  
@@ -1373,7 +1373,7 @@ Fulminat et gerninum lumen ab orbe venit."
 Telchinas injured everything by looking at it, See also Frommannd, p.
 12.
 
-<span id="fn_27"></span>[12:26](tee03.htm#fr_27) On this swimming of
+<span id="fn_27"></span>[12:26](tee03.htm#fr_27.md) On this swimming of
 witches, see Brand, vol. iii. p. 21 (Bohn). "Nature has thought fit to
 produce poisons as well in every part of his body, and in the eyes even
 of some persons, taking care that there should be no evil in existence,
@@ -1381,28 +1381,28 @@ which was not to be found in the human body" (Pliny, *Nat. Hist.* Vii.
 2; Bohn, vol. ii. p. 128). This chapter of Pliny is well worth careful
 reading; also Dr. Bostock's notes.
 
-<span id="fn_28"></span>[13:28](tee03.htm#fr_28) *Sympos*. v. prob. 7.
+<span id="fn_28"></span>[13:28](tee03.htm#fr_28.md) *Sympos*. v. prob. 7.
 
-<span id="fn_29"></span>[14:29](tee03.htm#fr_29) Theocritus, *Idyll*.
+<span id="fn_29"></span>[14:29](tee03.htm#fr_29.md) Theocritus, *Idyll*.
 vi. 39.
 
-<span id="fn_30"></span>[14:30](tee03.htm#fr_30) A long list of these
+<span id="fn_30"></span>[14:30](tee03.htm#fr_30.md) A long list of these
 with quotations is given in Dodwell, vol. ii. p. 35. Delrio and
 Frommannd also give endless references.
 
-<span id="fn_31"></span>[15:31](tee03.htm#fr_31) Story, *Castle of S.
+<span id="fn_31"></span>[15:31](tee03.htm#fr_31.md) Story, *Castle of S.
 Angelo*, p. 149, quotes Andreas Thuetas.
 
-<span id="fn_32"></span>[15:32](tee03.htm#fr_32) Mantis, locustæ genus,
+<span id="fn_32"></span>[15:32](tee03.htm#fr_32.md) Mantis, locustæ genus,
 quæ in stipulis enascitur, si quod inspexerit animal protinus illi
 quippiam producit mali. Hinc Proverbium: Mantis te vidit."--Frommannd,
 Tract. p. 19.
 
-<span id="fn_33"></span>[16:34](tee03.htm#fr_33) See *West Somerset
+<span id="fn_33"></span>[16:34](tee03.htm#fr_33.md) See *West Somerset
 Word-Book*, pp. 365, 548, 835. Blackmore, *Perlycross*, p. 191, and
 elsewhere, wrongly writes "weist."
 
-<span id="fn_34"></span>[16:35](tee03.htm#fr_34) The full sentence, of
+<span id="fn_34"></span>[16:35](tee03.htm#fr_34.md) The full sentence, of
 which the foregoing was only the colloquial form, is given by Plautus:--
 
 "Præfiscini hoc nunc dixerim; nemo me etiam accusavit  
@@ -1450,10 +1450,10 @@ Story, *Castle of S. Angelo*, p. 200, speaks of this rare book, and of a
 portrait in it, as printed in 1819; the writer possesses an earlier
 edition, dated 1787, but there is no portrait in this latter.
 
-<span id="fn_35"></span>[19:36](tee03.htm#fr_35) Valletta, *Cicalata sul
+<span id="fn_35"></span>[19:36](tee03.htm#fr_35.md) Valletta, *Cicalata sul
 Fascino*, p. 9.
 
-<span id="fn_36"></span>[19:37](tee03.htm#fr_36) In a note to the
+<span id="fn_36"></span>[19:37](tee03.htm#fr_36.md) In a note to the
 preface of an edition in the writer's possession of *Capricci sulla
 Jettatura*, de Gian Leonardo Marugi, Napoli, 1815, is the
 following:--"Se questa Operetta capitasse nelle mani di un Italiano più
@@ -1463,24 +1463,24 @@ Napoletano è de buonissima lega, e l'etimologia n'è chiara. Viene dalla
 frase latina *jacere sortes*, gettar le sorti, incantare, ammaliare, e
 quindi i maliardi, o *Jettatori*."
 
-<span id="fn_37"></span>[19:38](tee03.htm#fr_37) Cicalata, c. 12, pp.
+<span id="fn_37"></span>[19:38](tee03.htm#fr_37.md) Cicalata, c. 12, pp.
 55, 59.
 
-<span id="fn_38"></span>[20:39](tee03.htm#fr_38) *Cicalata*, p. 61.
+<span id="fn_38"></span>[20:39](tee03.htm#fr_38.md) *Cicalata*, p. 61.
 
-<span id="fn_39"></span>[21:40](tee03.htm#fr_39) Valletta, *Cicalata*,
+<span id="fn_39"></span>[21:40](tee03.htm#fr_39.md) Valletta, *Cicalata*,
 p. 145.
 
 "La Damaccia, ch' à la schiena  
 Corta corta, e piena piena,  
 Se a jettar staravv 'intanto,  
-Voi prendetevi del *guanto*, <span id="fr_40"></span>[\*](#fn_40)  
+Voi prendetevi del *guanto*, <span id="fr_40"></span>[\*](#fn_40.md)  
 Ed in petto lo ponete,  
 O la fronte vi cingete."--Marugi, *Capricci*, p. 111.
 
  
 
-<span id="fn_40"></span>[21:\*](tee03.htm#fr_40) "This is a flower
+<span id="fn_40"></span>[21:\*](tee03.htm#fr_40.md) "This is a flower
 called *Guanto di nostra signora*, known to the ancients under the name
 of *Baccar*, which they bound to the foreheads of the sick" (note by
 Marugi, p. 111). He quotes Loyer as to its being *valevolissimo* against
@@ -1498,33 +1498,33 @@ astringent or binding," and generally he describes its "vertues" much
 the same as Professor Valletta. There does not appear to be any
 plant-name known in England at all like "Our Lady's glove."
 
-<span id="fn_41"></span>[22:41](tee03.htm#fr_41) A comparison of these
+<span id="fn_41"></span>[22:41](tee03.htm#fr_41.md) A comparison of these
 queries with those quoted by Story, *Castle of S. Angelo*, p. 200, Will
 show that the later edition of Valletta's book used by him had been
 considerably altered.
 
-<span id="fn_42"></span>[22:42](tee03.htm#fr_42) "Quia irascendi et
+<span id="fn_42"></span>[22:42](tee03.htm#fr_42.md) "Quia irascendi et
 concupiscendi animi vim adeo effrenatam habent."
 
-<span id="fn_43"></span>[23:43](tee03.htm#fr_43) "The fear of the evil
+<span id="fn_43"></span>[23:43](tee03.htm#fr_43.md) "The fear of the evil
 eye of a woman is very prevalent in Spain, but the panacea is to drink
 horn shavings."--Murray's Handbook to Spain, by Richard Ford, 3rd ed.
 1855, p. 632.
 
-<span id="fn_44"></span>[23:44](tee03.htm#fr_44) Valletta, p. 54.
+<span id="fn_44"></span>[23:44](tee03.htm#fr_44.md) Valletta, p. 54.
 
-<span id="fn_45"></span>[23:45](tee03.htm#fr_45) Story, p. 197
+<span id="fn_45"></span>[23:45](tee03.htm#fr_45.md) Story, p. 197
 
-<span id="fn_46"></span>[27:46](tee03.htm#fr_46) Vol. i. p. 183.
+<span id="fn_46"></span>[27:46](tee03.htm#fr_46.md) Vol. i. p. 183.
 
-<span id="fn_47"></span>[28:46a](tee03.htm#fr_47) I have read somewhere,
+<span id="fn_47"></span>[28:46a](tee03.htm#fr_47.md) I have read somewhere,
 quite recently, that there are Budas still in Abyssinia.
 
-<span id="fn_48"></span>[29:47](tee03.htm#fr_48) Story, p. 153, tells a
+<span id="fn_48"></span>[29:47](tee03.htm#fr_48.md) Story, p. 153, tells a
 very remarkable story from India by Major General Sleeman in 1849-50, of
 a boy who always seemed more than half wolf, and never could be tamed.
 
-<span id="fn_49"></span>[29:48](tee03.htm#fr_49) Old Higden tells us by
+<span id="fn_49"></span>[29:48](tee03.htm#fr_49.md) Old Higden tells us by
 Trevisa, his translator, that in Ireland and in Wales "olde wyfes and
 wymmen were i-woned, and beeþ ȍit (as me pleyneþ) ofte forto schape hem
 self in likness of hares . . . and ofte grehoundes renneth after hem and
@@ -1565,31 +1565,31 @@ into hares. . . . I suppose there was a vague idea that the witch and
 her double had passed away at the same moment" (Rev. W. F. Rose,
 *Somerset and Dorset Notes and Queries*, June 1894, p. 77).
 
-<span id="fn_50"></span>[31:49](tee03.htm#fr_50) *Anatomy of
+<span id="fn_50"></span>[31:49](tee03.htm#fr_50.md) *Anatomy of
 Melancholy*, 1621, 4th ed. p. 214.
 
-<span id="fn_51"></span>[31:50](tee03.htm#fr_51) Much on this subject is
+<span id="fn_51"></span>[31:50](tee03.htm#fr_51.md) Much on this subject is
 to be found in Brand, vol. iii. p. 201 *et seq*.
 
-<span id="fn_52"></span>[31:51](tee03.htm#fr_52) *Secret Memoirs of
+<span id="fn_52"></span>[31:51](tee03.htm#fr_52.md) *Secret Memoirs of
 Duncan Campbell*, 1732, p. 60. See Brand, iii. 203.
 
-<span id="fn_53"></span>[32:52](tee03.htm#fr_53) In Italy, and generally
+<span id="fn_53"></span>[32:52](tee03.htm#fr_53.md) In Italy, and generally
 in Southern Europe, a hunchback is a good omen. At Monte Carlo,
 gamesters believe that if they can but touch a *gobbo* when going to
 play, good luck is certain. We have more to say on the *Gobbo* later.
 
-<span id="fn_54"></span>[33:53](tee03.htm#fr_54) *Theagenes and
+<span id="fn_54"></span>[33:53](tee03.htm#fr_54.md) *Theagenes and
 Chariclea* (Trans. 1789), vol. i. p. 141. See also Jahn, *Aberglauben*,
 etc., p. 33.
 
-<span id="fn_55"></span>[34:54](tee03.htm#fr_55) W. J. Loftie, *London*,
+<span id="fn_55"></span>[34:54](tee03.htm#fr_55.md) W. J. Loftie, *London*,
 vol. i. p. 353.
 
-<span id="fn_56"></span>[34:55](tee03.htm#fr_56) *Love's Labour's Lost*,
+<span id="fn_56"></span>[34:55](tee03.htm#fr_56.md) *Love's Labour's Lost*,
 Act v. Sc. 2.
 
-<span id="fn_57"></span>[35:56](tee03.htm#fr_57) The full title of the
+<span id="fn_57"></span>[35:56](tee03.htm#fr_57.md) The full title of the
 author's copy is *Disquisitionum Magicarum liberi sex in tres tomos
 partiti*, Auctore Martino Delrio, etc. Moguntiæ, apud Johannem Albinum,
 1603.
@@ -1627,7 +1627,7 @@ makes reference to the evil eye of the tender and delicate woman
 mentioned so plainly in Deuteronomy xxviii. 56, 57. In his final chapter
 (p. 94) he treats at inordinate length of the many means "malis
 depellendis et morbis sanandis," such as the offering of money obtained
-in charity, <span id="fr_58"></span>[\*](#fn_58) which is thought
+in charity, <span id="fr_58"></span>[\*](#fn_58.md) which is thought
 specially efficacious; crosses made or bought by alms; wax or other
 matters offered to saints; mixing hair of men and sick animals plunging
 images in water; certain ligatures against depriving cows of milk; "qui
@@ -1666,11 +1666,11 @@ vastly, inferior to the later work of Frommannd, 1674, which goes into
 the details of the evil eye as exhaustively, though not quite at such
 length, as Delrio does into magic.
 
-<span id="fn_58"></span>[35:\*](tee03.htm#fr_58) In Berkshire it is
+<span id="fn_58"></span>[35:\*](tee03.htm#fr_58.md) In Berkshire it is
 thought that a ring made from a piece of silver collected at the
 Communion is a cure for convulsions and fits (Brand, vol. iii. p. 300).
 
-<span id="fn_59"></span>[38:57](tee03.htm#fr_59) See W. Beckett,
+<span id="fn_59"></span>[38:57](tee03.htm#fr_59.md) See W. Beckett,
 *Impartial Enquiry into the Antiquity and Efficacy of touching for the
 King's Evil*, 1722. T. Badger, *Collection of Remarkable Cures of the
 King's Evil by the Royal Touch*, 1748.
@@ -1683,7 +1683,7 @@ people for the evil during the month of May, and then give over till
 Michaelmas next, I am commanded to give notice thereof, that the people
 may not come up to the town in the interim and lose their labour."
 
-<span id="fn_60"></span>[39:58](tee03.htm#fr_60)
+<span id="fn_60"></span>[39:58](tee03.htm#fr_60.md)
 
                  "Vox quoque Mœrim  
 Jam fugit ipsa; lupi Mœrim videre priores."  
@@ -1695,7 +1695,7 @@ wolf) is the first to see him." A note says: "Hence the proverbial
 expression applied to a person who is suddenly silent upon the entrance
 of another, 'Lupus est tibi visus.'"
 
-<span id="fn_61"></span>[39:59](tee03.htm#fr_61) Pliny says that near
+<span id="fn_61"></span>[39:59](tee03.htm#fr_61.md) Pliny says that near
 the sources of the Nile is found a wild beast called the catoblepas; "an
 animal of moderate size . . . sluggish in the movement of its limbs, and
 its head is remarkably heavy. Were it not for this circumstance, it
@@ -1703,7 +1703,7 @@ would prove the destruction of the human race; for all who behold its
 eyes, fall dead upon the spot."--*Nat. Hist.* viii. 32 (vol. ii. p. 281,
 Bohn).
 
-<span id="fn_62"></span>[39:60](tee03.htm#fr_62) "The camel has a
+<span id="fn_62"></span>[39:60](tee03.htm#fr_62.md) "The camel has a
 natural antipathy to the horse" (Pliny, *Nat. Hist.* viii. 26; vol. ii.
 p. 276, Bohn: mentioned by Aristotle, *Hist. Anim.* vi. 17, also by
 Ælian). This feeling is on all hands believed to be mutual. George Eliot
@@ -1716,12 +1716,12 @@ have an antipathy to the pig, and especially to its squeal. The
 following shows how old is this notion: "Elephantes porcina vox terret"
 (Seneca, *De Ira*, ii. 12).
 
-<span id="fn_63"></span>[40:61](tee03.htm#fr_63) *Museum of Animated
+<span id="fn_63"></span>[40:61](tee03.htm#fr_63.md) *Museum of Animated
 Nature*, vol. ii. p. 107.
 
-<span id="fn_64"></span>[41:62](tee03.htm#fr_64) Smith, *Reptilia*,
+<span id="fn_64"></span>[41:62](tee03.htm#fr_64.md) Smith, *Reptilia*,
 quoted by Story.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Sympathetic Magic](tee04)
+[Next: Chapter II. Sympathetic Magic](tee04.md)

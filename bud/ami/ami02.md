@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ami01)  [Next](ami03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ami01)  [Next](ami03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Amitabha, A Story of Buddhist Theology*, by Paul Carus, \[1906\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ their truth and lofty morality. How delighted was he with the lines;
 "Earnestness leads to the State Immortal  
  Thoughtlessness is dreary Yama's portal.  
  Those who earnest are will never die,  
- While the thoughtless in death's clutches lie."[4](ami16.htm#an_4)
+ While the thoughtless in death's clutches lie."[4](ami16.htm#an_4.md)
 
 </div>
 
@@ -57,7 +57,7 @@ How powerfully was he affected by the following stanza:
 "With goodness meet an evil deed,  
  With lovingkindness conquer wrath,  
  With generosity quench greed,  
- And lies, by walking in truth's path."[5](ami16.htm#an_5)
+ And lies, by walking in truth's path."[5](ami16.htm#an_5.md)
 
 </div>
 
@@ -73,7 +73,7 @@ if the absolute obliteration of his activity were expected of him:
 "Only if like a broken gong  
  Thou utterest no sound:  
  Then hast thou reached Nirvana,  
- And the end of strife hast found."[6](ami16.htm#an_6)
+ And the end of strife hast found."[6](ami16.htm#an_6.md)
 
 </div>
 
@@ -86,7 +86,7 @@ weeds, not the wheat." For it is said:
 "What should be done, ye do it,  
  Nor let pass by the day:  
  With vigor do your duty,  
- And do it while you may."[7](ami16.htm#an_7)
+ And do it while you may."[7](ami16.htm#an_7.md)
 
 </div>
 
@@ -100,7 +100,7 @@ but vanity, anger, and sloth:
  As palaces are burned by fire,  
  The angry perish in their ire.  
  And as strong iron is gnawed by rust,  
- So fools are wrecked through sloth and lust."[8](ami16.htm#an_8)
+ So fools are wrecked through sloth and lust."[8](ami16.htm#an_8.md)
 
 </div>
 
@@ -125,7 +125,7 @@ In sacrificial rites.
 Throughout the world  
 Ambition is unfurled:  
 But from all vanity  
-Tathagatas are free."[9](ami16.htm#an_9)
+Tathagatas are free."[9](ami16.htm#an_9.md)
 
 </div>
 
@@ -155,4 +155,4 @@ life, or the holiness of the cloister is not the path of salvation."
 
 ------------------------------------------------------------------------
 
-[Next: The God Problem](ami03)
+[Next: The God Problem](ami03.md)

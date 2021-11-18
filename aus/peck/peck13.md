@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck12)  [Next](peck14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck12)  [Next](peck14.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ the seas to succour them.
 
 ------------------------------------------------------------------------
 
-[Next: The Second Kangaroo Story](peck14)
+[Next: The Second Kangaroo Story](peck14.md)

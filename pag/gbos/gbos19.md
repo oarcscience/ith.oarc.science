@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos18)  [Next](gbos20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos18)  [Next](gbos20.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ wonders ensued but of this I would not speak.
 
 ------------------------------------------------------------------------
 
-[Next: Properly Prepared](gbos20)
+[Next: Properly Prepared](gbos20.md)

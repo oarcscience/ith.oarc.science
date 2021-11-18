@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth080)  [Next](toth082) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth080)  [Next](toth082.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_211">p. 211</span>
 
-## 78. THE COYOTE AND THE GRASSHOPPERS. <span id="fr_151"></span>[1](#fn_149)
+## 78. THE COYOTE AND THE GRASSHOPPERS. <span id="fr_151"></span>[1](#fn_149.md)
 
 Alíksai! The people were living in Shongópavi. North of the village
 (about three miles), was a bluff in which a Sparrow-hawk had his house
@@ -61,9 +61,9 @@ teeth, and so finally he perished with hunger.
 
 ### Footnotes
 
-<span id="fn_149"></span>[211:1](toth081.htm#fr_151) Told by Lomávântiwa
+<span id="fn_149"></span>[211:1](toth081.htm#fr_151.md) Told by Lomávântiwa
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 79. The Coyote and the Grasshopper](toth082)
+[Next: 79. The Coyote and the Grasshopper](toth082.md)

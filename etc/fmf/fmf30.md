@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf29)  [Next](fmf31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf29)  [Next](fmf31.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ MORAL: Avoid Fruit.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Sure-Thing Crook and The Town of
-Nubbinville](fmf31)
+Nubbinville](fmf31.md)

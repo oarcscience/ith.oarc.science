@@ -1,4 +1,4 @@
-<span id="top"></span>[Sacred-Texts](../../index)   [Buddhism](../index)
+<span id="top"></span>[Sacred-Texts](../../index)   [Buddhism](../index.md)
 
 ------------------------------------------------------------------------
 

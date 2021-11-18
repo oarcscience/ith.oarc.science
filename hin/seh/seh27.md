@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh26)  [Next](seh28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh26)  [Next](seh28.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_189">p. 189</span>
 
-### THE NORTHERN PILGRIMAGE <span id="fr_5"></span>[1](#fn_5)
+### THE NORTHERN PILGRIMAGE <span id="fr_5"></span>[1](#fn_5.md)
 
 To Indians themselves, if they have never before been on pilgrimage, the
 life of the pilgrim-roads is likely to be a revelation. Who uttered a
@@ -441,9 +441,9 @@ Lord of Mountains lays His hand upon His own!
 
 ### Footnotes
 
-<span id="fn_5"></span>[189:1](seh27.htm#fr_5) See note, [p.
-207](seh28.htm#page_207).
+<span id="fn_5"></span>[189:1](seh27.htm#fr_5.md) See note, [p.
+207](seh28.htm#page_207.md).
 
 ------------------------------------------------------------------------
 
-[Next: Note to the Northern Pilgrimage](seh28)
+[Next: Note to the Northern Pilgrimage](seh28.md)

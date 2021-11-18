@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe258)  [Next](prwe260) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe258)  [Next](prwe260.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ this superstition.
 
 ------------------------------------------------------------------------
 
-[Next: Rhyme on the Even Ash](prwe260)
+[Next: Rhyme on the Even Ash](prwe260.md)

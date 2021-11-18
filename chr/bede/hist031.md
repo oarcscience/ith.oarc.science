@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist030) 
-[Next](hist032) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist030.md) 
+[Next](hist032.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ lord, and the fourth indiction."
 ------------------------------------------------------------------------
 
 [Next: XXX. A copy of the letter which Pope Gregory sent to the Abbot
-Mellitus, then going into Britain. \[601 A.D.\]](hist032)
+Mellitus, then going into Britain. \[601 A.D.\]](hist032.md)

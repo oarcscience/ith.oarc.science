@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby43)  [Next](sby45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby43)  [Next](sby45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ them. Consequently they must accept the faith or be killed. (2) Their
 ceremonies have given rise among their neighbors to fables confounding
 their practices with those of the Nuṣairi of Syria and ascribing to them
 certain midnight orgies, which obtained for them the name of cheraġ
-sanderañ <span id="fr_167"></span>[1](#fn_166), i.e., the extinguisher;
+sanderañ <span id="fr_167"></span>[1](#fn_166.md), i.e., the extinguisher;
 of light. (3) Their determined refusal to enter the military service.
 The Yezidis with the Christians have been exempt from the military
 service on the general law sanctioned by the Koran; namely, that none
@@ -113,7 +113,7 @@ Allah. But they answered not. When the Farik saw that his words failed
 to persuade them, he began to apply the weapon of cruelty. He cast them
 into prison; some died; others fled; and a few, through the fear of
 torture and painful death, pronounced al-šehâdah <span
-id="fr_168"></span>[2](#fn_167) with their lips but not from their
+id="fr_168"></span>[2](#fn_167.md) with their lips but not from their
 hearts. Then he sent an army to their villages, and commanded them to
 choose between Islam and the sword. ‘Omar Beg, his son, who was
 commanding the soldiers, directed them to slaughter the men, and take
@@ -153,17 +153,17 @@ religious convictions.
 
 ### Footnotes
 
-<span id="fn_166"></span>[205:1](sby44.htm#fr_167) Cherog sonderan is
+<span id="fn_166"></span>[205:1](sby44.htm#fr_167.md) Cherog sonderan is
 Turkish; sonderan is the participle of the infinitive of to put out, and
 cherag, literally lamp, is the object of sonderan. In Turkish the object
 precedes the verb; cf. Yani sarfi Otamani "the New Turkish Grammar" (in
 the Turkish language, ed. Ahmad Jaudat & Co., Constantinople, 1318 A.
 H.), p. 77.
 
-<span id="fn_167"></span>[208:2](sby44.htm#fr_168) Kalimatu, š-Šehâdah
+<span id="fn_167"></span>[208:2](sby44.htm#fr_168.md) Kalimatu, š-Šehâdah
 is as follows: "I testify that there is no deity but God and that
 Mohammed is apostle of God."
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](sby45)
+[Next: Bibliography](sby45.md)

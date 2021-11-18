@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](som04)  [Next](som06) 
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](som04)  [Next](som06.md) 
 
 ------------------------------------------------------------------------
 
@@ -375,4 +375,4 @@ President's most gracious pardon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](som06)
+[Next: Chapter V](som06.md)

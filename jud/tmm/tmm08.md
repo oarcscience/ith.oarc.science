@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm07)  [Next](tmm09) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm07)  [Next](tmm09.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,7 +243,7 @@ are scarce. Here children of four or five years of age can work this
 sort of conjuring.' And he actually had some children brought out of
 school, and they and Pharaoh's wife performed similar works to those of
 Moses. 'Is he a wise man,' continued Pharaoh, 'who carries muria (a sort
-of salt) <span id="fr_18"></span>[1](#fn_18) to Spain or fish to Acco?'
+of salt) <span id="fr_18"></span>[1](#fn_18.md) to Spain or fish to Acco?'
 Moses refrained from controversy, but merely replied, 'Where there is
 the market of greenstuff there I take my greenstuff.'--Exod. Rabba 9.
 
@@ -843,10 +843,10 @@ where the righteous can rely on receiving it.'--Exod. Rabba 52.
 
 ### Footnotes
 
-<span id="fn_18"></span>[94:1](tmm08.htm#fr_18) See Dr. Sach's *Beiträge
+<span id="fn_18"></span>[94:1](tmm08.htm#fr_18.md) See Dr. Sach's *Beiträge
 zur Sprach und Alterthumsforschung aus jüdischen Quellen*, 2nd vol.,
 page 3, for the word Muria.
 
 ------------------------------------------------------------------------
 
-[Next: Leviticus Rabba](tmm09)
+[Next: Leviticus Rabba](tmm09.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss39)  [Next](oss41) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss39)  [Next](oss41.md) 
 
 ------------------------------------------------------------------------
 
@@ -242,7 +242,7 @@ Inis-huna's waves. Nor alone pleasant to Cathmor is the remembrance of
 wood-covered Lumon. Lumon of the streams, the dwelling of white-bosomed
 maids."
 
-"Lumon  <span id="fr_113"></span>[1](#fn_113) of the streams, thou
+"Lumon  <span id="fr_113"></span>[1](#fn_113.md) of the streams, thou
 risest on Fonar's soul! Thy sun is on thy side, on the rocks of thy
 bending trees. The dun roe is seen from thy furze; the deer lifts its
 branchy head; for he sees, at times, the hound on the half-covered
@@ -312,9 +312,9 @@ forth from his green-headed waves?
 
 ### Footnotes
 
-<span id="fn_113"></span>[466:1](oss40.htm#fr_113) Lumon: A hill in
+<span id="fn_113"></span>[466:1](oss40.htm#fr_113.md) Lumon: A hill in
 Inis-huna, near the residence of Sul-malla.
 
 ------------------------------------------------------------------------
 
-[Next: Book VIII](oss41)
+[Next: Book VIII](oss41.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits013) [Next](bits015)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits013) [Next](bits015.md)
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ keeper of the monastery grounds. Be not afraid!"
 
 ------------------------------------------------------------------------
 
-[Next: § 15. There Is No Ego](bits015)
+[Next: § 15. There Is No Ego](bits015.md)
 
  
 

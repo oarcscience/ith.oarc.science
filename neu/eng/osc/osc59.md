@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc58)  [Next](osc60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc58)  [Next](osc60.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ I will give them thanks for it."
 
 ------------------------------------------------------------------------
 
-[Next: (19) Sneezing](osc60)
+[Next: (19) Sneezing](osc60.md)

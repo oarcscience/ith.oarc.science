@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico082) 
-[Next](nico084) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico082.md) 
+[Next](nico084.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ reasons.
 ------------------------------------------------------------------------
 
 [Next: Chapter 3. Three corresponding kinds of friendship: superiority
-of friendship whose motive is the good](nico084)
+of friendship whose motive is the good](nico084.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb34)  [Next](olb36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb34)  [Next](olb36.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -16,7 +16,7 @@ Yes, departed friend, thousands are arrived, and more are coming. They
 wish to hear the wisdom of Adela. Truly, she was a princess, for she had
 always been the leader. O Sorrow, what good can you do!
 
-Her garments of linen and <span id="fr_51"></span>[\*](#fn_51) wool she
+Her garments of linen and <span id="fr_51"></span>[\*](#fn_51.md) wool she
 spun and wove herself. How could she add to her beauty? Not with pearls,
 for her teeth were more white; not with gold, for her tresses were more
 brilliant; not with precious stones, for her eyes, though soft as those
@@ -63,9 +63,9 @@ out of regard to my relations.
 
 ### Footnotes
 
-<span id="fn_51"></span>[133:\*](olb35.htm#fr_51) *To hnekka*, a high
+<span id="fn_51"></span>[133:\*](olb35.htm#fr_51.md) *To hnekka*, a high
 petticoat reaching up to the neck.
 
 ------------------------------------------------------------------------
 
-[Next: The Oldest Doctrine](olb36)
+[Next: The Oldest Doctrine](olb36.md)

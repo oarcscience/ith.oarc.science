@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](amm04)  [Next](amm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](amm04)  [Next](amm06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -315,7 +315,7 @@ Elsewhere we find full-blown flowers interspersed with buds or tied
 together with cords. . . . The ceiling was painted blue, and spangled
 with five pointed stars painted yellow, occasionally interspersed with
 the cartouches of the royal founder. The vultures of Nekheb and Uati,
-the [goddesses](errata.htm#0) of the south and north, crowned and armed
+the [goddesses](errata.htm#0.md) of the south and north, crowned and armed
 with divine emblems, hovered above the central nave of the hypostyle
 halls and on the underside of the lintels of the front doors, above the
 head of the Great King as he passed through on his way to the
@@ -496,7 +496,7 @@ The diagram
 <span id="page_46">p. 46</span>
 
 of the twelve heavenly houses used by astrologers is very similar (see
-[figures](#img_fig01)).
+[figures](#img_fig01).md).
 
 <span id="img_fig01"></span>
 
@@ -578,7 +578,7 @@ of these structures,
 <span id="img_fig02"></span>
 
 [![Figure 2. A Buddhist Tope (Stupa)](tn/fig02.jpg)  
-Click to enlarge](img/fig02.jpg)  
+Click to enlarge](img/fig02.jpg.md)  
   
 
 is of a chessboard pattern, as the enclosing walls of Paradise are
@@ -702,4 +702,4 @@ Lord.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Four Square](amm06)
+[Next: Chapter III. Four Square](amm06.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo80)  [Next](hoo82) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo80)  [Next](hoo82.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 ###### LXXVI.
 
-### To MNEMOSYNE, or the GODDESS of MEMORY <span id="fr_124"></span>[\*](#fn_124).
+### To MNEMOSYNE, or the GODDESS of MEMORY <span id="fr_124"></span>[\*](#fn_124.md).
 
 ###### The FUMIGATION from FRANKINCENSE.
 
@@ -31,7 +31,7 @@ To holy rites, and Lethe's fetters break.
 
 ### Footnotes
 
-<span id="fn_124"></span>[214:\*](hoo81.htm#fr_124) Memory, according to
+<span id="fn_124"></span>[214:\*](hoo81.htm#fr_124.md) Memory, according to
 the Platonic philosophy, is that power by which the soul is enabled to
 **profer** in some future period, some former energy: and the energy of
 this power is reminiscence. Now the very essence of intellect is energy,
@@ -74,4 +74,4 @@ the soul with intellect.
 
 ------------------------------------------------------------------------
 
-[Next: LXXVII: To Aurora](hoo82)
+[Next: LXXVII: To Aurora](hoo82.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou06)  [Next](hou08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou06)  [Next](hou08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -147,7 +147,7 @@ and thou shalt comfort thy husband, my servant Joseph, and shalt go with
 him, and be unto him as a scribe in the absence of my servant Oliver,
 and he shall support thee." Emma was also further directed to make a
 selection of hymns to be used in church. <span
-id="fr_66"></span>[1](#fn_66)
+id="fr_66"></span>[1](#fn_66.md)
 
 <span id="page_75">p. 75</span>
 
@@ -163,7 +163,7 @@ to the Lamanites, that is to say, to the Indians in the west, the
 remnant of the tribe of Joseph. Thomas B. Marsh was promised that he
 should begin to preach. Miracles were limited to casting out devils and
 healing the sick. Wine for sacramental purposes must not be bought, but
-made at home. <span id="fr_67"></span>[2](#fn_67)
+made at home. <span id="fr_67"></span>[2](#fn_67.md)
 
     Taking with them a copy of the revelation assigning to them this
 work, these first appointed missionaries set out, and continued their
@@ -173,7 +173,7 @@ they came to Kirtland, Ohio. There they remained some time, as many came
 forward and embraced their faith, among others Sidney Rigdon, a
 preaching elder in the reformed baptist church, who presided over a
 congregation there, a large portion of whom likewise became interested
-in the latter-day church. <span id="fr_68"></span>[3](#fn_68)
+in the latter-day church. <span id="fr_68"></span>[3](#fn_68.md)
 
 <span id="page_76">p. 76</span>
 
@@ -217,7 +217,7 @@ authority. In regard to the revival of the old dispensation, he argued
 thus: "If we have not familiarity enough with our creator to ask of him
 a sign, we are no Christians; if God will not give his creatures one, he
 is no better than Juggernaut." The result was, that he and others
-accepted the book and its teachings, <span id="fr_69"></span>[4](#fn_69)
+accepted the book and its teachings, <span id="fr_69"></span>[4](#fn_69.md)
 received baptism and the gift of the holy ghost, and were ordained to
 preach.
 
@@ -233,7 +233,7 @@ hundred and twenty-seven converts at once, the number
 <span id="page_78">p. 78</span>
 
 afterward increasing to a thousand, were here gathered into the
-fold. <span id="fr_70"></span>[5](#fn_70)
+fold. <span id="fr_70"></span>[5](#fn_70.md)
 
     After adding to their number one Frederic G. Williams, the
 missionaries continued on their way, arriving first at Sandusky, where
@@ -263,7 +263,7 @@ account of their ancestors, as contained in the wonderful book, a copy
 of which he left with the chief on taking his departure, which soon
 occurred; for when it was known upon the border settlements what the
 missionaries were doing, they were ordered out of the Indian country as
-disturbers of the peace. <span id="fr_71"></span>[6](#fn_71) After
+disturbers of the peace. <span id="fr_71"></span>[6](#fn_71.md) After
 preaching a short time in Missouri, the five brethren thought it best
 that one of their number should return east and report. The choice fell
 on Pratt. Starting out on foot, he reached St Louis, three hundred miles
@@ -277,7 +277,7 @@ being present.
     In December 1830 comes Sidney Rigdon to Joseph Smith at Manchester,
 and with him Edward Partridge, to inquire of the Lord; and they are told
 what they shall do; they shall preach thereabout, and also on the
-Ohio. <span id="fr_72"></span>[7](#fn_72)
+Ohio. <span id="fr_72"></span>[7](#fn_72.md)
 
 <span id="page_80">p. 80</span>
 
@@ -285,7 +285,7 @@ Ohio. <span id="fr_72"></span>[7](#fn_72)
 a conference is held at Fayette, attended by revelations and prophecy.
 James Colville, a baptist minister, accepts the faith, but shortly
 recants, being tempted of Satan, and in fear of persecution. <span
-id="fr_73"></span>[8](#fn_73) Smith and his wife go with Rigdon and
+id="fr_73"></span>[8](#fn_73.md) Smith and his wife go with Rigdon and
 
 <span id="page_81">p. 81</span>
 
@@ -297,9 +297,9 @@ in; these are quickly overcome, and a plan for community of goods which
 the family of saints had adopted is abolished. Commandment comes by
 revelation that a house shall be built for Joseph; that Sidney shall
 live as seems to him good, for his heart is pure; that Edward Partridge
-shall be ordained a bishop; <span id="fr_74"></span>[9](#fn_74) that all
+shall be ordained a bishop; <span id="fr_74"></span>[9](#fn_74.md) that all
 but Joseph and Sidney shall go forth, two by two, into the regions
-westward and preach the gospel. <span id="fr_75"></span>[10](#fn_75)
+westward and preach the gospel. <span id="fr_75"></span>[10](#fn_75.md)
 
     "And now, behold, I speak unto the church: thou shalt not kill; thou
 shalt not steal; thou shalt not lie; thou shalt love thy wife, cleaving
@@ -345,12 +345,12 @@ Revelations during March were frequent. In one of them John Whitmer was
 appointed church historian; and it was revealed that he should keep the
 church records, write and keep a regular history, and act as secretary
 to Joseph, as had Oliver Cowdery formerly. <span
-id="fr_76"></span>[11](#fn_76) Lands might be bought
+id="fr_76"></span>[11](#fn_76.md) Lands might be bought
 
 <span id="page_83">p. 83</span>
 
 for immediate necessity; but remember the city to be presently built,
-and be prudent. <span id="fr_77"></span>[12](#fn_77) And now from the
+and be prudent. <span id="fr_77"></span>[12](#fn_77.md) And now from the
 shaking quakers came one Lemon Copley and accepted the gospel, though
 not in its fullness, as he retained
 
@@ -383,7 +383,7 @@ Fuller and Jacob Scott, Levi Hancock and Zebedee Coltrin, Reynolds
 Cahoon and Samuel H. Smith, Wheeler Baldwin and William Carter, Joseph
 Wakefield and Solomon Humphrey. With Joseph and Sidney were to go Martin
 Harris and Edward Partridge, taking with them a letter of recommendation
-from the church. <span id="fr_78"></span>[13](#fn_78) "And thus, even as
+from the church. <span id="fr_78"></span>[13](#fn_78.md) "And thus, even as
 I have
 
 <span id="page_85">p. 85</span>
@@ -402,7 +402,7 @@ from Oliver Cowdery, reporting on his missionary work, and speaking of
 another tribe of Lamanites, living three hundred miles west of Santa Fé,
 called the Navarhoes (Navajoes), who had large flocks of sheep and
 cattle, and who made blankets. W. W. Phelps, <span
-id="fr_79"></span>[14](#fn_79) with his family joining the society, was
+id="fr_79"></span>[14](#fn_79.md) with his family joining the society, was
 commissioned to assist Oliver Cowdery in selecting, writing, and
 printing books for schools. Thus the move from Ohio to Missouri was
 begun, Joseph and his party starting from Kirtland the 19th of June,
@@ -451,20 +451,20 @@ branch of the church built a log house; the visible head of the church,
 on the 2d of August, laying the first log, brought thither by twelve
 men, in honor of the twelve tribes of Israel. Next day the ground for
 the temple, situated a little west of Independence, <span
-id="fr_80"></span>[15](#fn_80) was dedicated, and the day following was
+id="fr_80"></span>[15](#fn_80.md) was dedicated, and the day following was
 held the first conference in the land of Zion. <span
-id="fr_81"></span>[16](#fn_81)
+id="fr_81"></span>[16](#fn_81.md)
 
     It was now commanded that Smith, Rigdon, Cowdery, and others should
 return east, and make more proselytes, money for the purpose to be
 furnished them out of the general fund. <span
-id="fr_82"></span>[17](#fn_82) Accordingly on the
+id="fr_82"></span>[17](#fn_82.md) Accordingly on the
 
 <span id="page_88">p. 88</span>
 
 <span class="contnote">\[paragraph continues\]</span> 9th Joseph and ten
 elders started down the river in sixteen canoes, the leaders arriving at
-Kirtland the 27th, <span id="fr_83"></span>[18](#fn_83) after having
+Kirtland the 27th, <span id="fr_83"></span>[18](#fn_83.md) after having
 suffered hardship and mortification through disaffection among the
 elders. Titus Billings, who had charge of the church property there, was
 ordered to dispose of the lands, and prepare to remove to Missouri in
@@ -473,7 +473,7 @@ as could be raised. It was provided that those wishing to buy land in
 Zion could do so by forwarding the purchase-money. The account of the
 new country written by Sidney Rigdon did not please Joseph, and he was
 ordered to write another; if that should not prove satisfactory, he was
-to be deprived of office. <span id="fr_84"></span>[19](#fn_84)
+to be deprived of office. <span id="fr_84"></span>[19](#fn_84.md)
 
     On the 12th of September Joseph removed to the town of Hiram, thirty
 miles away, and prepared to begin again the translation of the bible,
@@ -486,7 +486,7 @@ footing at Kirtland yet for
 five years. The store kept by Newel K. Whitney and Sidney Gilbert should
 likewise be continued. A system of tithes should be established. Ezra
 Booth apostatized, and wrote letters against the church. <span
-id="fr_85"></span>[20](#fn_85) Orson Hyde, clerk in Gilbert and
+id="fr_85"></span>[20](#fn_85.md) Orson Hyde, clerk in Gilbert and
 Whitney's store, was baptized, and later make an elder. Phelps was told
 to buy at Cincinnati a printing-press and type, and start a monthly
 paper at Independence, to be called the *Evening and Morning Star*,
@@ -500,11 +500,11 @@ Whitney
 was appointed bishop, to receive and account for church funds collected
 by the various elders. Many of the eiders who went to Missouri were by
 this time at work in different parts of the east and the west. <span
-id="fr_86"></span>[21](#fn_86)
+id="fr_86"></span>[21](#fn_86.md)
 
     On the 16th of February, 1832, while Smith and Rigdon were
 translating the gospel of St John, they were favored by a glorious
-vision from the Lord, <span id="fr_87"></span>[22](#fn_87) which gave
+vision from the Lord, <span id="fr_87"></span>[22](#fn_87.md) which gave
 them great comfort and encouragement. The revelations about this time
 were frequent and lengthy, their purport being in great part to direct
 the movements of missionaries. Simonds Rider and Eli, Edward, and John
@@ -517,7 +517,7 @@ roughly treated, and expected to be killed; but after they had been
 stripped, beaten, and well covered with tar and feathers, they were
 released. Smith preached and baptized as usual the next day, Sunday, but
 Rigdon was delirious for some time afterward. <span
-id="fr_88"></span>[23](#fn_88) This broke up for the present the
+id="fr_88"></span>[23](#fn_88.md) This broke up for the present the
 translation
 
 <span id="page_91">p. 91</span>
@@ -531,8 +531,8 @@ whence the two proceeded to Cincinnati and St Louis by way of Wheeling,
 Virginia, a mob following them a good part of the way. The brethren at
 Independence and vicinity welcomed their leaders warmly, but the
 unbelievers there as elsewhere hourly threatened violence. <span
-id="fr_89"></span>[24](#fn_89) In May the first edition of the *Book of
-Commandments* <span id="fr_90"></span>[25](#fn_90) was ordered printed;
+id="fr_89"></span>[24](#fn_89.md) In May the first edition of the *Book of
+Commandments* <span id="fr_90"></span>[25](#fn_90.md) was ordered printed;
 the following month, published
 
 <span id="page_92">p. 92</span>
@@ -542,11 +542,11 @@ number of the *Evening and Morning Star*, under the auspices of W. W.
 Phelps, whose printing-press was the only one within a hundred and
 twenty miles of Independence. On the 6th of May Smith, Rigdon, and
 Whitney again set out on their return to Kirtland. <span
-id="fr_91"></span>[26](#fn_91) On the way Whitney broke his leg. Smith
+id="fr_91"></span>[26](#fn_91.md) On the way Whitney broke his leg. Smith
 was poisoned, and that so badly that he dislocated his jaw in vomiting,
 and the hair upon his head became loosened; Whitney, however, laid his
 hands on him, and administered in the name of the Lord, and he was
-healed in an instant. <span id="fr_92"></span>[27](#fn_92)
+healed in an instant. <span id="fr_92"></span>[27](#fn_92.md)
 
     Some three or four hundred saints being now gathered in Missouri,
 most of them settled on their own inheritances in this land of Zion,
@@ -560,7 +560,7 @@ was directed in September to leave his business in other hands, visit
 the churches, collect money, and administer to the wants of the poor.
 The new translation of the bible was again taken up and continued
 through the winter, the new testament being completed and sealed up, not
-to be opened till it reached Zion. <span id="fr_93"></span>[28](#fn_93)
+to be opened till it reached Zion. <span id="fr_93"></span>[28](#fn_93.md)
 
  
 
@@ -582,7 +582,7 @@ for the body or belly."
 and Frederick G. Williams being Smith's councillors. Money flows in, and
 a council of high priests, March 23d, orders the purchasing for $11,100
 of three farms at Kirtland, upon which the saints may build a stake, or
-support, in Zion, <span id="fr_94"></span>[29](#fn_94) and the
+support, in Zion, <span id="fr_94"></span>[29](#fn_94.md) and the
 foundations of the temple are laid, for here they will remain for five
 years and make money until the western Zion shall be made ready and a
 temple built there also. On the land is a valuable quarry of stone, and
@@ -607,7 +607,7 @@ the scriptures. A church is established in Medina county,
 Rigdon, who sometimes proves himself unruly. Dr Hurlbut is tried before
 the bishop's council of high priests on a charge of unchristian-like
 conduct with the female sex, and condemned, but on confession is
-pardoned. <span id="fr_95"></span>[30](#fn_95)
+pardoned. <span id="fr_95"></span>[30](#fn_95.md)
 
     Temples are ordered built in the city of Zion, in Missouri, as
 follow: a house of the Lord for the presidency of the high and most holy
@@ -623,7 +623,7 @@ of the Lord for the high priesthood after the order of Aaron; house of
 the Lord for the teachers in Zion; house of the Lord for the deacons in
 Zion; and others. There are also to be farms, barns, and dwellings. The
 ground secured for the purpose is a mile square, and will accommodate
-fifteen or twenty thousand people. <span id="fr_96"></span>[31](#fn_96)
+fifteen or twenty thousand people. <span id="fr_96"></span>[31](#fn_96.md)
 
  
 
@@ -654,10 +654,10 @@ latter days, and the coming of which were foretold by Joseph, are upon
 them; they shall be buffeted for five years, and the end is not yet.
 "Political demagogues were afraid we should rule the country," says
 Parley, "and religious priests and bigots felt that we were powerful
-rivals." <span id="fr_97"></span>[32](#fn_97) Moreover, there is no
+rivals." <span id="fr_97"></span>[32](#fn_97.md) Moreover, there is no
 doubt that they were indiscreet; they were blinded by their prosperity;
 already the kingdom of God and the kingdom of this world had come unto
-them; now let the gentiles tremble! <span id="fr_98"></span>[33](#fn_98)
+them; now let the gentiles tremble! <span id="fr_98"></span>[33](#fn_98.md)
 
 <span id="page_98">p. 98</span>
 
@@ -665,7 +665,7 @@ them; now let the gentiles tremble! <span id="fr_98"></span>[33](#fn_98)
 their unwelcome neighbors, whose compact organization gave them a
 strength disproportionate to their numbers. Since there was no law to
 stop their coming, they determined to face the issue without law. <span
-id="fr_99"></span>[34](#fn_99)
+id="fr_99"></span>[34](#fn_99.md)
 
     In April the people held consultations as to the best way of
 disposing of the Mormons; and again about the middle of July three
@@ -695,32 +695,32 @@ the county records will show. In regard to the lands of the Indians, no
 violence or injustice is contemplated; and if it were, what record of
 robbery, murder, and treacherous betrayal could excel that already made
 by the people of Missouri and others in the United States for our
-example? <span id="fr_100"></span>[35](#fn_100)
+example? <span id="fr_100"></span>[35](#fn_100.md)
 
     On the 20th the people again met according to appointment. The old
 charges were reiterated, and the old resolutions renewed, with some
-additions. <span id="fr_101"></span>[36](#fn_101) To put them into
+additions. <span id="fr_101"></span>[36](#fn_101.md) To put them into
 action the men of Jackson county
 
 <span id="page_100">p. 100</span>
 
 sallied forth for the office of the *Star*, <span
-id="fr_102"></span>[37](#fn_102) and demanded that the publication be
+id="fr_102"></span>[37](#fn_102.md) and demanded that the publication be
 discontinued. Compliance being refused, Phelps' house, containing the
 printing-office, was torn down, materials and paper destroyed, <span
-id="fr_103"></span>[38](#fn_103) and Bishop Partridge and Elder Allen
-were tarred and feathered. <span id="fr_104"></span>[39](#fn_104)
+id="fr_103"></span>[38](#fn_103.md) and Bishop Partridge and Elder Allen
+were tarred and feathered. <span id="fr_104"></span>[39](#fn_104.md)
 Meanwhile, clergymen of other denominations, and officers of the state
 and county, looked on, saying, "Mormons are the common enemies of
 mankind, and ought to be destroyed," and "You now know what our Jackson
 boys can do, and you must leave the country." <span
-id="fr_105"></span>[40](#fn_105)
+id="fr_105"></span>[40](#fn_105.md)
 
     Again the mob appeared on the morning of the 23d, bearing a red
 flag, and demanding the departure of the Mormons. Seeing no way of
 escape, the elders entered into treaty with the assailants, and promised
 to leave the county within a certain time. <span
-id="fr_106"></span>[41](#fn_106) Cowdery
+id="fr_106"></span>[41](#fn_106.md) Cowdery
 
 <span id="page_101">p. 101</span>
 
@@ -761,7 +761,7 @@ and effects to a point half a mile from town. Next day four of the
 brethren went to Lexington for a peace warrant, but the circuit judge
 refused to issue one through fear of the mob. "You had better fight it
 out and kill the outlaws if they come upon you," said the judge. <span
-id="fr_107"></span>[42](#fn_107) The saints then armed, and on the 4th
+id="fr_107"></span>[42](#fn_107.md) The saints then armed, and on the 4th
 there was a fight, in which two gentiles and one Mormon were killed, and
 several on both sides wounded. One of the store-breakers was brought
 before the court, and during the trial the populace became so furious
@@ -770,7 +770,7 @@ The morning of the 5th broke with signs of yet more bloody determination
 on both sides. The militia were called out to preserve the peace, but
 this only made matters worse. The lieutenant-governor, Boggs, pretending
 friendship, got possession of the Mormons’ arms, and seized a number to
-be tried for murder. <span id="fr_108"></span>[43](#fn_108) Further and
+be tried for murder. <span id="fr_108"></span>[43](#fn_108.md) Further and
 yet more violent attacks were made; hope was abandoned; the now
 defenceless saints were forced to fly in every direction, some out into
 the open prairie, some up and some down the river. "The struggle was
@@ -779,7 +779,7 @@ were lined with men, women, and children, with wagons, provisions, and
 personal effects. Cold weather came on with wind and rain, to which most
 of the fugitives were exposed, few of them having tents. Some took
 refuge in Clay county, some in Lafayette county, and elsewhere. <span
-id="fr_109"></span>[44](#fn_109)
+id="fr_109"></span>[44](#fn_109.md)
 
     Throughout all these trying scenes, Governor
 
@@ -798,12 +798,12 @@ proper means to insure the punishment due such offenders." In view of
 this advice from the state authorities, the saints resolved to return to
 their homes as soon as protection should be afforded them, and it was
 ordered by revelation that they should do so, but with circumspection
-and not in haste. <span id="fr_110"></span>[45](#fn_110)
+and not in haste. <span id="fr_110"></span>[45](#fn_110.md)
 
     All this time President Joseph Smith was at Kirtland, harassed with
 anxiety over affairs in Missouri, still pursuing the usual tenor of his
 way, and not knowing what moment like evils might befall him and his
-fold there. <span id="fr_111"></span>[46](#fn_111) It was resolved by
+fold there. <span id="fr_111"></span>[46](#fn_111.md) It was resolved by
 the first presidency that the *Star* should be published at Kirtland
 
 <span id="page_104">p. 104</span>
@@ -811,7 +811,7 @@ the first presidency that the *Star* should be published at Kirtland
 until it could be reinstated in Missouri; another journal, the
 *Latter-day Saints’ Messenger and Advocate*, was also established at
 Kirtland, and a mission organized for Canada. <span
-id="fr_112"></span>[47](#fn_112)
+id="fr_112"></span>[47](#fn_112.md)
 
  
 
@@ -842,11 +842,11 @@ court of inquiry was instituted, which decided, but to little purpose,
 that there was no insurrection on the 5th of November, 1833, and
 therefore the arms taken by the militia from the Mormons on that
 occasion must be restored to them. <span
-id="fr_113"></span>[48](#fn_113) "And now a commandment I give unto you
+id="fr_113"></span>[48](#fn_113.md) "And now a commandment I give unto you
 concerning Zion, that you shall no longer be bound as an united order to
 your brethren of Zion, only in this wise; after you are organized you
 shall be called the united order of this stake of Zion, the city of
-Shinehah, <span id="fr_114"></span>[49](#fn_114) and your brethren,
+Shinehah, <span id="fr_114"></span>[49](#fn_114.md) and your brethren,
 after they are organized, shall be called the united order of the city
 of Zion."
 
@@ -862,7 +862,7 @@ paymaster and Zerubbabel Snow commissary general. They had twenty wagons
 loaded with arms and effects, and next day set out for Missouri,
 President Smith joining them, leaving Rigdon and Cowdery to look after
 matters in Ohio. They passed through Ohio, Indiana, and Illinois,
-reaching Missouri <span id="fr_115"></span>[50](#fn_115) in June, Pratt
+reaching Missouri <span id="fr_115"></span>[50](#fn_115.md) in June, Pratt
 and others still continuing
 
 <span id="page_107">p. 107</span>
@@ -873,7 +873,7 @@ moreover, they would be incognito; and the better to accomplish all
 these purposes, three days before they started, Sidney Rigdon proposed
 in conference that the name by which hereafter they would call
 themselves should be The Church of Jesus Christ of Latter-day Saints,
-which proposal was adopted. <span id="fr_116"></span>[51](#fn_116) On
+which proposal was adopted. <span id="fr_116"></span>[51](#fn_116.md) On
 the way the brethren
 
 <span id="page_108">p. 108</span>
@@ -888,7 +888,7 @@ proposal in return: Let each side choose six men, and let the twelve
 determine the amount of damages due to the Mormons, and also the value
 of the possessions of all those who do not wish to live near them in
 peace, and the money shall be paid within a year. The offer was not
-accepted. <span id="fr_117"></span>[52](#fn_117)
+accepted. <span id="fr_117"></span>[52](#fn_117.md)
 
     On the 3d of July a high council of twelve was organized by the head
 of the church, with David Whitmer as president and W. W. Phelps and John
@@ -921,7 +921,7 @@ scriptures, the book of Mormon, and direct revelation from God."
 
     Thus far have I given the History of Joseph Smith, in substance as
 written by himself in his journal, <span
-id="fr_118"></span>[53](#fn_118) and
+id="fr_118"></span>[53](#fn_118.md) and
 
 <span id="page_110">p. 110</span>
 
@@ -933,7 +933,7 @@ continuing to the day of his death.
 
 ### Footnotes
 
-<span id="fn_66"></span>[74:1](hou07.htm#fr_66) The hymn-book of Emma
+<span id="fn_66"></span>[74:1](hou07.htm#fr_66.md) The hymn-book of Emma
 Smith does not appear to have been published, but a little book
 containing hymns selected by Brigham Young passed through eight editions
 up to 1849, the eighth being published in Liverpool in that year.
@@ -945,13 +945,13 @@ Franklin D. Richards, who states that 54,000 copies of the several
 editions have been sold in the European missions alone within eleven
 years. Several editions have since been published in Europe and America.
 
-<span id="fn_67"></span>[75:2](hou07.htm#fr_67) Smith says: 'In order to
+<span id="fn_67"></span>[75:2](hou07.htm#fr_67.md) Smith says: 'In order to
 prepare for this (confirmation) I set out to go to procure some wine for
 the occasion, but had gone only a short distance when I was met by a
 heavenly messenger, and received the revelation.' *Millennial Star*, iv.
 151; *Times and Seasons*, iv. 117-18.
 
-<span id="fn_68"></span>[75:3](hou07.htm#fr_68) At the town of Kirtland,
+<span id="fn_68"></span>[75:3](hou07.htm#fr_68.md) At the town of Kirtland,
 two miles from Rigdon's residence, was a number of the members of his
 church who lived together, and had all things in common, from which
 circumstance, Smith says, the idea arose that this was the case with the
@@ -967,7 +967,7 @@ gathering of the Israelites to receive the second coming, the literal
 reign of the saints on earth, and the use of miraculous gifts in the
 church. *Gunnison's Mormons*, 101.
 
-<span id="fn_69"></span>[77:4](hou07.htm#fr_69) Howe intimates that
+<span id="fn_69"></span>[77:4](hou07.htm#fr_69.md) Howe intimates that
 Rigdon knew more of the book and the people than he pretended. Of the
 proselytes made in his church he says: 'Near the residence of Rigdon, in
 Kirtland, there had been for some time previous a few families belonging
@@ -980,7 +980,7 @@ readily believed the whole story of Cowdery about the finding of the
 golden plates and the spectacles. They were all reimmersed in one night
 by Cowdery.' *Mormonism Unveiled,* 103.
 
-<span id="fn_70"></span>[78:5](hou07.htm#fr_70) Speaking of the doings
+<span id="fn_70"></span>[78:5](hou07.htm#fr_70.md) Speaking of the doings
 at Kirtland after the departure of the Lamanite mission, Mr Howe says:
 'Scenes of the most wild, frantic, and horrible fanaticism ensued. They
 pretended that the power of miracles was about to be given to all those
@@ -1009,13 +1009,13 @@ concerning the matter, and had been informed that it was all the work of
 the devil, as heretofore related. The disturbance therefore ceased.'
 *Mormonism Unveiled*, 104, 116.
 
-<span id="fn_71"></span>[79:6](hou07.htm#fr_71) 'One of their leading
+<span id="fn_71"></span>[79:6](hou07.htm#fr_71.md) 'One of their leading
 articles of faith is, that the Indians of North America, in a very few
 years, will be converted to Mormonism, and through rivers of blood will
 again take possession of their ancient inheritance.' *Howe's Mormonism
 Unveiled*, 145.
 
-<span id="fn_72"></span>[79:7](hou07.htm#fr_72) 'We before had Moses and
+<span id="fn_72"></span>[79:7](hou07.htm#fr_72.md) 'We before had Moses and
 Aaron in the persons of Smith and Cowdery, and we now have John the
 Baptist, in the person of Sidney Rigdon. Their plans of deception appear
 to have been more fully matured and developed after the meeting of Smith
@@ -1073,7 +1073,7 @@ hearing of it, wrote him from Mentor accepting, at the same time
 enclosing an outline of what his line of argument would be. There the
 matter dropped.
 
-<span id="fn_73"></span>[80:8](hou07.htm#fr_73) See *Millennial Star*,
+<span id="fn_73"></span>[80:8](hou07.htm#fr_73.md) See *Millennial Star*,
 v. 33-5; *Times and Seasons*, iv. 352-4. Mather, in *Lippincott's Mag*.,
 Aug. 1880, states that to escape persecution sixty believers <span
 id="page_81">p. 81</span> abandoned their homes in the Susquehanna
@@ -1085,20 +1085,20 @@ and reports that the train consisted of three baggage and eleven
 passenger wagons. The exodus was along the old state road, north of
 Binghamton, to Ithaca, and thence across Cayuga Lake to Palmra.'
 
-<span id="fn_74"></span>[81:9](hou07.htm#fr_74) 'Smith had appointed as
+<span id="fn_74"></span>[81:9](hou07.htm#fr_74.md) 'Smith had appointed as
 his bishop one Edward Partridge, a very honest and industrious hatter of
 Painesville, Ohio, who had withal a comfortable stock of the good things
 of the world. He was stationed at Independence, and had the sole control
 of all the temporal and spiritual affairs of the colony, always
 obedient, however, to the revelations promulgated by Smith.'
 
-<span id="fn_75"></span>[81:10](hou07.htm#fr_75) 'Some of the members
+<span id="fn_75"></span>[81:10](hou07.htm#fr_75.md) 'Some of the members
 pretended to receive parchment commissions miraculously, which vanished
 from their sight as soon as they had been copied.' For a copy of one of
 these, with seal attached, see *Howe's Mormonism Unveiled*, 107;
 *Kidder's Mormonism*, 73.
 
-<span id="fn_76"></span>[82:11](hou07.htm#fr_76) 'Since the organization
+<span id="fn_76"></span>[82:11](hou07.htm#fr_76.md) 'Since the organization
 of the church on the sixth day of April, 1830, there has been a record
 kept in our church of its general transactions, of its <span
 id="page_83">p. 83</span> persecutions and general history. The one in
@@ -1140,7 +1140,7 @@ after President Woodruff was appointed to the office, and in January
 *Times and Seasons*, v. 401; *Millennial Star*, v. 82; *Richards’
 Narrative*, MS., 94-8.
 
-<span id="fn_77"></span>[83:12](hou07.htm#fr_77) Of the future of this
+<span id="fn_77"></span>[83:12](hou07.htm#fr_77.md) Of the future of this
 city there were many revelations and many conjectures. 'It was said that
 it would in a few years exceed in splendor everything known in ancient
 times. Its streets were to be paved with gold; all that escaped the
@@ -1162,7 +1162,7 @@ the metropolis of Mormonism; it was selected as a temporary abiding
 place, to make money in reference to a removal farther west.' *Ferris’
 Utah and the Mormons*, 72.
 
-<span id="fn_78"></span>[84:13](hou07.htm#fr_78) 'From this point in the
+<span id="fn_78"></span>[84:13](hou07.htm#fr_78.md) 'From this point in the
 history of this delusion,' says Howe, 'it began to spread with
 considerable rapidity. Nearly all of their male converts, however
 ignorant and worthless, were forthwith transformed into elders, and sent
@@ -1180,7 +1180,7 @@ were privately told, would most probably be sunk, unless the people
 thereof believed in the pretensions of Smith.' *Mormonism Unveiled*,
 115-16.
 
-<span id="fn_79"></span>[85:14](hou07.htm#fr_79) Howe writes thus of
+<span id="fn_79"></span>[85:14](hou07.htm#fr_79.md) Howe writes thus of
 Phelps: 'Before the rise of Mormonism he was an avowed infidel; having a
 remarkable propensity for fame and eminence, he was supercilious,
 haughty, and egotistical. His great ambition was to embark in some
@@ -1197,7 +1197,7 @@ had not well calculated, until he was met by a revelation which informed
 him that he could rise no higher than a printer.' *Mormonism Unveiled*,
 274.
 
-<span id="fn_80"></span>[87:15](hou07.htm#fr_80) Of Independence one of
+<span id="fn_80"></span>[87:15](hou07.htm#fr_80.md) Of Independence one of
 them says: 'It is a new town, containing a court-house built of brick,
 two or three merchants' stores, and 15 or 20 dwelling-houses built
 mostly of logs hewed on both sides; and is situated on a handsome rise
@@ -1210,7 +1210,7 @@ dressed in skins, without any other clothing, including ladies young and
 old. Buildings were generally without glass windows, and the door open
 in winter for a light.'
 
-<span id="fn_81"></span>[87:16](hou07.htm#fr_81) Booth, in *Howe's
+<span id="fn_81"></span>[87:16](hou07.htm#fr_81.md) Booth, in *Howe's
 Mormonism Unveiled*, 196-9, says: 'The designation of the site where the
 city of Zion was to begin was attended with considerable parade and an
 ostentatious display of talents, both by Rigdon and Cowdery. And the
@@ -1241,14 +1241,14 @@ all to the bishop, and only drawing out of the office sufficient to live
 upon. This was found to be impracticable, and it was silently permitted
 to glide into the payment of tithing. *Hyde's Mormonism*, 37.
 
-<span id="fn_82"></span>[87:17](hou07.htm#fr_82) 'This year, 1831,
+<span id="fn_82"></span>[87:17](hou07.htm#fr_82.md) 'This year, 1831,
 passed off with a gradual increase, and considerable wealth was drawn
 in, so that they began to boast of a capital stock of ten or <span
 id="page_88">p. 88</span> fifteen thousand dollars. Their common-stock
 principles appear to be somewhat similar to those of the shakers.'
 *Howe's Mormonism Unveiled*, 128-9.
 
-<span id="fn_83"></span>[88:18](hou07.htm#fr_83) Booth intimates that
+<span id="fn_83"></span>[88:18](hou07.htm#fr_83.md) Booth intimates that
 Smith and Rigdon preferred living in Ohio to enduring the hardships of
 Missouri. 'Before they went to Missouri their language was, "We shall
 winter in Ohio but one winter more;" and when in Missouri, "It will be
@@ -1257,7 +1257,7 @@ do in Ohio." And the great work is to make a thorough alteration of the
 bible, and invent new revelations, and these are to be sent to Missouri
 in order to be printed.' Letter in *Howe's Mormonism Unveiled*, 199.
 
-<span id="fn_84"></span>[88:19](hou07.htm#fr_84) 'Some dispute, of which
+<span id="fn_84"></span>[88:19](hou07.htm#fr_84.md) 'Some dispute, of which
 the nature is not clearly known, appears to have arisen between Joseph
 and his friend Sidney Rigdon before their return. It is probable, from
 the course of subsequent events, that Sidney, even at this time, aspired
@@ -1278,7 +1278,7 @@ Wife*, 10-11, 15-24. For text of rebuke, where the name of the offender
 is given William E. M’Lellin, see *Millennial Star*, v. 185-6; *Times
 and Seasons*, v. 496.
 
-<span id="fn_85"></span>[89:20](hou07.htm#fr_85) Booth's letters were
+<span id="fn_85"></span>[89:20](hou07.htm#fr_85.md) Booth's letters were
 first printed at Ravenna, in the *Ohio Star*, and afterward by E. D.
 Howe in his book, *Mormonism Unveiled*, 175-221. They are nine in
 number, and are full of general denunciation and sorrow over his past
@@ -1320,7 +1320,7 @@ the government to dispose of them to the Indians in their own territory;
 at the Same time they are to disseminate the principles of Mormonism
 among them.'
 
-<span id="fn_86"></span>[90:21](hou07.htm#fr_86) 'Thirty or forty elders
+<span id="fn_86"></span>[90:21](hou07.htm#fr_86.md) 'Thirty or forty elders
 were sent off in various directlens in pursuit of proselytes, and the
 year passed off with a gradual increase.' *Howe's Mormonism Unveiled*,
 128-9. The men, after baptism, are elders, and are empowered to perform
@@ -1331,7 +1331,7 @@ see *Ward's Mormon Wife*, 42-81. Mackay erroneously states that the
 number of saints in Kirtland at this time, including women and children,
 was but 150. *The Mormons*, 71-2.
 
-<span id="fn_87"></span>[90:22](hou07.htm#fr_87) In January it was
+<span id="fn_87"></span>[90:22](hou07.htm#fr_87.md) In January it was
 revealed that the work of translating should be proceeded with by Smith
 and Rigdon until finished; and that several of the elders, among whom
 was Orson Hyde, a recent convert, should go forth in various directions
@@ -1344,7 +1344,7 @@ benefit of the poor, both at Kirtland and at Zion. More missionaries
 were sent out, and word was received that the emigrants had safely
 reached Missouri. *Times and Seasons*, v. 576-7, 592-6, 608-9.
 
-<span id="fn_88"></span>[90:23](hou07.htm#fr_88) *Times and Seasons*, v.
+<span id="fn_88"></span>[90:23](hou07.htm#fr_88.md) *Times and Seasons*, v.
 611-12. *Mackay, Mormons*, 68-71, erroneously dates the outrage Jan.
 25th. One account says aqua-fortis was poured into Smith's mouth.
 *Deseret News* Aug. 6, 1862. Smith says 'they tried to force a vial into
@@ -1361,7 +1361,7 @@ and was forgiven. He stated that as a punishment for his fault, the
 devil had three times thrown him out of his bed in one night. *Remy's
 Journey to Great Salt Lake*, i. 283 (note).
 
-<span id="fn_89"></span>[91:24](hou07.htm#fr_89) The 26th of April Smith
+<span id="fn_89"></span>[91:24](hou07.htm#fr_89.md) The 26th of April Smith
 called a general council, which acknowledged him as president of the
 high priesthood, to which he had been ordained at the Amherst conference
 in January, and Bishop Partridge and Rigdon, who had quarrelled, were
@@ -1371,7 +1371,7 @@ revelation, in which it was announced that the stakes must be
 strengthened, and all property was to be held in common. *Times and
 Seasons*, v. 624-5; *Mackay's The Mormons*, 71.
 
-<span id="fn_90"></span>[91:25](hou07.htm#fr_90) The first edition of
+<span id="fn_90"></span>[91:25](hou07.htm#fr_90.md) The first edition of
 *Doctrine and Covenants* presents the following title page: *A Book of
 Commandments for the Government of the Church of Christ organized
 according to law on the 6th of April, 1830. Zion: Published by W. W.
@@ -1402,7 +1402,7 @@ statement is made by Mather, *Lippincott's Mag*., Aug. 1880, to the
 effect that in 1835 'Rigdon's *Book of Doctrine and Covenants* and his
 *Lectures on Faith* were adopted.'
 
-<span id="fn_91"></span>[92:26](hou07.htm#fr_91) Arrangements were early
+<span id="fn_91"></span>[92:26](hou07.htm#fr_91.md) Arrangements were early
 made for the establishment of a store. *Ferris’ Utah and Mormons*, 75.
 When the printing press was bought—see *Deseret News*, June 30, 1869—a
 supply of goods was purchased; and arrangements were made at the May
@@ -1417,7 +1417,7 @@ supported by their parents, but after becoming of age 'they had claims
 upon the church, or in other words, the Lord's storehouse,' as was also
 the case with widows left destitute. *Times and Seasons*, v. 625-6.
 
-<span id="fn_92"></span>[92:27](hou07.htm#fr_92) On May 6th, leaving
+<span id="fn_92"></span>[92:27](hou07.htm#fr_92.md) On May 6th, leaving
 affairs as he supposed in a flourishing condition, Smith started for
 Kirtland to look after the mill, store, and farm in that neighborhood,
 but owing to an accident which resulted in the breaking of Whitney's
@@ -1427,7 +1427,7 @@ some time in June. The season was passed by Smith in his work of
 translating the scriptures, and in attending to business affairs. *Times
 and Seasons*, v. 626.
 
-<span id="fn_93"></span>[93:28](hou07.htm#fr_93) Hardly had President
+<span id="fn_93"></span>[93:28](hou07.htm#fr_93.md) Hardly had President
 Smith turned his back upon Zion, when dissensions broke out among the
 saints there. He corresponded regularly with the *Star*, giving advice
 and warning, but matters apparently grew worse, for in January 1833 a
@@ -1458,7 +1458,7 @@ was delivered 'over to the buffetings of Satan, in the name of the Lord,
 that he may learn not to transgress the commandments of God.' *Times and
 Seasons*, v. 801.
 
-<span id="fn_94"></span>[94:29](hou07.htm#fr_94) 'The church that was to
+<span id="fn_94"></span>[94:29](hou07.htm#fr_94.md) 'The church that was to
 be established in Jackson county was called Zion, the centre of
 gathering, and those established by revelation in other places were
 called stakes of Zion, or stakes; hence the stake at Kirtland, the stake
@@ -1478,7 +1478,7 @@ began to look rather dreary to the prophet and his head men, supposing
 that they could not enjoy their power there as well as in Ohio.' *Howe's
 Mormonism Unveiled*, 130.
 
-<span id="fn_95"></span>[95:30](hou07.htm#fr_95) Four years after the
+<span id="fn_95"></span>[95:30](hou07.htm#fr_95.md) Four years after the
 first printing of the *Book of Mormon*, at Palmyra, New York, was issued
 in Ohio the following work: *Mormonism Unveiled: or, A faithful account
 of that singular Imposition and Delusion, from its rise to the present
@@ -1528,7 +1528,7 @@ of Mormon was the work of Spaulding. On the whole, besides being the
 first book published in opposition to the Mormons, it is also one of the
 most ably written, the most original, and the most respectable.
 
-<span id="fn_96"></span>[96:31](hou07.htm#fr_96) A plan and
+<span id="fn_96"></span>[96:31](hou07.htm#fr_96.md) A plan and
 specifications for the new city of Zion were sent out from Kirtland. The
 plot was one mile square, drawn to a scale of 660 feet to one inch. Each
 square was to contain ten acres, or 660 feet fronts. Lots were to be
@@ -1571,9 +1571,9 @@ Enoch; and that it was translated because its inhabitants had become so
 far advanced that further earthly residence was unnecessary. Zion,
 Smith's ideal city, was finally to reach a like state of perfection.
 
-<span id="fn_97"></span>[97:32](hou07.htm#fr_97) *Autobiography*, 103.
+<span id="fn_97"></span>[97:32](hou07.htm#fr_97.md) *Autobiography*, 103.
 
-<span id="fn_98"></span>[97:33](hou07.htm#fr_98) 'Their prophet had
+<span id="fn_98"></span>[97:33](hou07.htm#fr_98.md) 'Their prophet had
 declared that Zion should be established, and should put down her
 enemies under her feet. Why, then, should they hesitate to proclaim
 their anticipations? They boasted openly that they should soon possess
@@ -1587,7 +1587,7 @@ their hands, everything will be performed by immediate revelations from
 God. We shall then have Pope Joseph the First and his hierarchy.'
 *Howe's Mormonism Unveiled*, 145.
 
-<span id="fn_99"></span>[98:34](hou07.htm#fr_99) 'So early as April
+<span id="fn_99"></span>[98:34](hou07.htm#fr_99.md) 'So early as April
 1832, the saints were made to feel themselves unwelcome sojourners in
 Jackson co. Stones and brickbats were thrown through the windows of
 their houses, and they were otherwise annoyed and insulted. Meetings
@@ -1597,7 +1597,7 @@ in a fight among its members; but nothing more serious resulted. Stoning
 houses, however, was resumed in the early summer of the last-mentioned
 year.' *Times and Season*, i. 17; vi. 851.
 
-<span id="fn_100"></span>[99:35](hou07.htm#fr_100) *Persecution of the
+<span id="fn_100"></span>[99:35](hou07.htm#fr_100.md) *Persecution of the
 Saints*, 21-8. Mackay, *The Mormons*, 72-4, says 'the manner in which
 the Mormons behaved in their Zion was not calculated to make friends.
 The superiority they assumed gave offense, and the rumors that were
@@ -1632,7 +1632,7 @@ exposed for sale, they will outbid others, and establish themselves as
 the most powerful body in the county.' Booth, in *Howe's Mormonism
 Unveiled*, 195.
 
-<span id="fn_101"></span>[99:36](hou07.htm#fr_101) It was further
+<span id="fn_101"></span>[99:36](hou07.htm#fr_101.md) It was further
 declared: '1st, That no Mormon shall in future move and settle in this
 county. 2d, That those nowhere, who shall give a definite pledge of
 their intention, within a reasonable time, to remove out of the county,
@@ -1652,7 +1652,7 @@ above requisitions be referred to those of their brethren who have the
 gift of tongues, to inform them of the lot that awaits them.' *Howe's
 Mormonism Unveiled*, 141.
 
-<span id="fn_102"></span>[100:37](hou07.htm#fr_102) 'Six of the
+<span id="fn_102"></span>[100:37](hou07.htm#fr_102.md) 'Six of the
 principal elders met the mob's committee. The latter demanded that the
 printing-office, the shops, and the store, be closed forthwith, and that
 the society leave the county immediately. The elders asked for three
@@ -1665,7 +1665,7 @@ commence immediately."' *Times and Seasons*, i. 18. Phelps, the editor,
 Partridge, the bishop, and Gilbert, the store-keeper, are mentioned.
 *Smucker's Hist. Mor*., 89.
 
-<span id="fn_103"></span>[100:38](hou07.htm#fr_103) 'In a short time
+<span id="fn_103"></span>[100:38](hou07.htm#fr_103.md) 'In a short time
 time hundreds of the mob gathered around the printing-office (a
 two-story brick building), which they soon threw down. The press was
 thrown from the upper story, and all the books, stock, and material
@@ -1675,29 +1675,29 @@ Gilbert agreeing to shut it, and box the goods soon, they concluded to
 let it alone.' *Times and Seasons*, i. 18; *Pratt's Persecution of the
 Saints*, 29.
 
-<span id="fn_104"></span>[100:39](hou07.htm#fr_104) 'A number more were
+<span id="fn_104"></span>[100:39](hou07.htm#fr_104.md) 'A number more were
 taken, but succeeded in escaping through the over-anxiety of their
 keepers, who crowded forward to enjoy the sport.' *Times and Seasons*,
 i. 18. Phelps the editor was one. *Smucker's Hist. Mor*., 89. Partridge
 says the mob was led by George Simpson. *Times and Seasons*, vi. 819.
 
-<span id="fn_105"></span>[100:40](hou07.htm#fr_105) Spoken by Lilburn W.
+<span id="fn_105"></span>[100:40](hou07.htm#fr_105.md) Spoken by Lilburn W.
 Boggs, lieutenant-governor, a man who thenceforward appears to have
 persecuted the Mormons with unrelenting hostility. He 'was in the
 immediate neighborhood of the riot, but declined to take any part in
 preserving the peace.' *Smucker's Hist. Mor*., 89-90; *Times and
 Seasons*, vi. 819.
 
-<span id="fn_106"></span>[100:41](hou07.htm#fr_106) Six persons signed
+<span id="fn_106"></span>[100:41](hou07.htm#fr_106.md) Six persons signed
 the agreement that one half of the Mormons should leave in January and
 one half in April 1834, the publication of the paper to be discontinued.
 *Mackay's The Mormons*, 76; *Pratt's Persecution*, 30.
 
-<span id="fn_107"></span>[102:42](hou07.htm#fr_107) *Pratt's
+<span id="fn_107"></span>[102:42](hou07.htm#fr_107.md) *Pratt's
 Autobiography*, 105; *Mackay's The Mormons*, 77-8; *Pratt's
 Persecution*, 31-6.
 
-<span id="fn_108"></span>[102:43](hou07.htm#fr_108) In a memorial to the
+<span id="fn_108"></span>[102:43](hou07.htm#fr_108.md) In a memorial to the
 legislature of Missouri, dated Far West, Dec. 10, 1838, and signed by
 nine prominent Mormons, is this statement: 'A battle took place in which
 some two or three of the mob and one of our people were killed. This
@@ -1706,14 +1706,14 @@ them but an immediate surrender of the arms of our people, and they
 forthwith had to leave the county. Fifty-one guns were given up, which
 have never been returned or paid for to this day.'
 
-<span id="fn_109"></span>[102:44](hou07.htm#fr_109) 'About 1,500 people
+<span id="fn_109"></span>[102:44](hou07.htm#fr_109.md) 'About 1,500 people
 were expelled from Jackson co. in Nov. 1833, and about 300 of their
 houses burned.' Geo. A. Smith, in *Deseret News*, June 30, 1869, 247.
 'Several women thus driven from their homes gave birth to children in
 the woods and on the prairies.' *Greene's Facts*, 18. Pratt says 203
 houses were burned, according to the estimate of the enemy.
 
-<span id="fn_110"></span>[103:45](hou07.htm#fr_110) On Dec. 15th, Phelps
+<span id="fn_110"></span>[103:45](hou07.htm#fr_110.md) On Dec. 15th, Phelps
 writes to Smith from Clay co.: 'The situation of the saints, as
 scattered, is dubious, and affords a gloomy prospect…We are in Clay,
 Ray, Lafayette, Jackson, Van Buren, etc. \[countres\], and cannot hear
@@ -1727,7 +1727,7 @@ a court-martial and court of inquiry etc., but we cannot attend a court
 of inquiry on account of the expense, until we are restored and
 protected.' *Times and Seasons*, vi. 944.
 
-<span id="fn_111"></span>[103:46](hou07.htm#fr_111) Smith wrote to the
+<span id="fn_111"></span>[103:46](hou07.htm#fr_111.md) Smith wrote to the
 saints about this time that he had heard they had surrendered their arms
 and fled across the river. If this report was true, he advised them not
 to recommence hostilities; but if they were still in possession, they
@@ -1738,7 +1738,7 @@ means in a flourishing condition. It was recommended that a tract of
 land be purchased in Clay co. for present necessaries. *Times and
 Seasons*, vi. 914-15.
 
-<span id="fn_112"></span>[104:47](hou07.htm#fr_112) 'Concerning our
+<span id="fn_112"></span>[104:47](hou07.htm#fr_112.md) 'Concerning our
 means of diffusing the principles we profess, we have used the art of
 printing almost from the beginning of our work. At Independence,
 Missouri in 1832-3-4 two volumes of the *Evening and Morning Star* were
@@ -1772,7 +1772,7 @@ number of saints in the Welsh mission was so reduced by emigration as to
 render its further publication impracticable.' *Richards’ Bibliography
 of Utah*, MS., 7-9.
 
-<span id="fn_113"></span>[105:48](hou07.htm#fr_113) 'About this time a
+<span id="fn_113"></span>[105:48](hou07.htm#fr_113.md) 'About this time a
 court of inquiry held at Liberty for the purpose of investigating the
 action of Col Pitcher in connection with the expulsion of the saints
 from Jackson co., found sufficient evidence against that officer to
@@ -1789,10 +1789,10 @@ See also *Tayler's Mormons*, xliii.-xlvi.; *Deseret News*, Dec. 27,
 xxv. 535-6, 550-2; *Gunnison's Mormons*, 104-14; *Ferris’ Utah and
 Mormons*, 87-8.
 
-<span id="fn_114"></span>[105:49](hou07.htm#fr_114) They 'called their
+<span id="fn_114"></span>[105:49](hou07.htm#fr_114.md) They 'called their
 Kirtland colony Shinahar.' *Gunnison's Mormons*, 167.
 
-<span id="fn_115"></span>[106:50](hou07.htm#fr_115) 'They were trying
+<span id="fn_115"></span>[106:50](hou07.htm#fr_115.md) 'They were trying
 times, requiring the combined wisdom of the prophet and his head men…But
 the prophet more readily discovered the new advantages that would
 ultimately accrue to his cause by a little perseverance. He well knew
@@ -1892,7 +1892,7 @@ prophet returned to Kirtland, in August, the council met and proeeeded
 to investigate charges against Smith and others on this march. *Deseret
 News*, Nov. 15 and 29, 1851.
 
-<span id="fn_116"></span>[107:51](hou07.htm#fr_116) The society never
+<span id="fn_116"></span>[107:51](hou07.htm#fr_116.md) The society never
 styled themselves Mormons; it is a name popularly attached to them. The
 true name is Latter-day Saints. *Pratt's Persecution*, 21. <span
 id="page_108">p. 108</span> Hyde, *Mormonism*, 202, states that the sect
@@ -1900,7 +1900,7 @@ was first called The Church of Jesus Christ of Latter-day Saints by
 Sidney Rigdon at a convention at Kirtland May 4, 1834. See chap. iii.,
 note 22.
 
-<span id="fn_117"></span>[108:52](hou07.htm#fr_117) When the camp
+<span id="fn_117"></span>[108:52](hou07.htm#fr_117.md) When the camp
 arrived near Salt River, Orson Hyde and Parley P. Pratt were despatched
 to Jefferson City to request military aid from Gov. Dunklin, in
 repossessing the saints of their lands in Jackson co., which aid was
@@ -1910,7 +1910,7 @@ Smith with proposals to buy all the Mormon property in the county. The
 offer was declined, and the Mormons in turn offered to buy out the
 Missourians. See correspondence in *Howe's Mormonism*, 164-76.
 
-<span id="fn_118"></span>[109:53](hou07.htm#fr_118) The most complete
+<span id="fn_118"></span>[109:53](hou07.htm#fr_118.md) The most complete
 history of the early Mormon church is the *Journal of Joseph Smith*,
 extracts from which were made by himself, so as to form a consecutive
 narrative, under title of *History of Joseph Smith*, and published in
@@ -1966,4 +1966,4 @@ consideration.' *Richards’ Bibliography of Utah*, MS., 2-6.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Story of Mormomism. 1835-1840.](hou08)
+[Next: Chapter V. The Story of Mormomism. 1835-1840.](hou08.md)

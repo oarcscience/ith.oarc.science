@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc59)  [Next](mtc61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc59)  [Next](mtc61.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -33,6 +33,6 @@ To watch from a pillow the beauty of Spring unfold?
 
 ------------------------------------------------------------------------
 
-[Next: Song of Past Feelings (With Preface)](mtc61)
+[Next: Song of Past Feelings (With Preface)](mtc61.md)
 
 </div>

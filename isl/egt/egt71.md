@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt70)  [Next](egt72) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt70)  [Next](egt72.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ mountain of the world.
 
 ------------------------------------------------------------------------
 
-[Next: ON LAUD AND PRAISE.](egt72)
+[Next: ON LAUD AND PRAISE.](egt72.md)

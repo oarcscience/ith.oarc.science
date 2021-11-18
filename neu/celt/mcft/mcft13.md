@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft12)  [Next](mcft14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft12)  [Next](mcft14.md) 
 
 ------------------------------------------------------------------------
 
@@ -679,4 +679,4 @@ So Smallhead married the King of Munster's son.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Knockgrafton](mcft14)
+[Next: The Legend of Knockgrafton](mcft14.md)

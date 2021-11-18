@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](sos12)  [Next](sos14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](sos12)  [Next](sos14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Saucers*, by Orfeo M. Angelucci, \[1955\], at
 Intangible Textual Heritage
 
@@ -156,7 +156,7 @@ tears of shame and remorse blinded my sight.
 "Do not weep, Orfeo," He said gently. "That is all in the past now. But
 I am with you today even as I was with you then. Tell mankind that I
 live and love them today even as I did two thousand years ago when I
-walked the shores of [Galilee](errata.htm#15). But tell men that to know
+walked the shores of [Galilee](errata.htm#15.md). But tell men that to know
 me today when soon I shall again appear publicly upon Earth they must
 find me first within their own hearts."
 
@@ -361,4 +361,4 @@ for every entity upon Earth and its adjoining planes of manifestation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. How to Know A Flying Saucer](sos14)
+[Next: Chapter XII. How to Know A Flying Saucer](sos14.md)

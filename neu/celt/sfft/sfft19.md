@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft18)  [Next](sfft20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft18)  [Next](sfft20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -48,15 +48,15 @@ eat up the children,--the wolf! the wolf!"
 Then the farmer and his wife came out with sticks to kill the wolf, but
 the wolf ran off leaving his tail behind him, and that's why the wolf is
 stumpy-tailed to this day, though the fox has a long brush. <span
-id="fr_43"></span>[1](#fn_43)
+id="fr_43"></span>[1](#fn_43.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_43"></span>[94:1](sfft19.htm#fr_43) The story errs in
+<span id="fn_43"></span>[94:1](sfft19.htm#fr_43.md) The story errs in
 ascribing a stumpy tail to the wolf.
 
 ------------------------------------------------------------------------
 
-[Next: Frog and Crow](sfft20)
+[Next: Frog and Crow](sfft20.md)

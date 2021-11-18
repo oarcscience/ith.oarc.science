@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm85)  [Next](pnm87) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm85)  [Next](pnm87.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -180,7 +180,7 @@ The theoretical Cabala contained, it was said by
 
 <span id="img_23900"></span> <span align="CENTER"> [![FIRST TO FOURTH
 SEPHIROTH.](tn/23900.jpg)  
-Click to enlarge](img/23900.jpg)  
+Click to enlarge](img/23900.jpg.md)  
 FIRST TO FOURTH SEPHIROTH.  
 </span>
 
@@ -224,7 +224,7 @@ Chesed, greatness or goodness, because God, as being great and good,
 
 <span id="img_24100"></span> <span align="CENTER"> [![FOURTH TO NINTH
 SEPHIROTH.](tn/24100.jpg)  
-Click to enlarge](img/24100.jpg)  
+Click to enlarge](img/24100.jpg.md)  
 FOURTH TO NINTH SEPHIROTH.  
 </span>
 
@@ -263,7 +263,7 @@ acquired. A stone may become a plant; a plant, a
 
 <span id="img_24300"></span> <span align="CENTER"> [![NINTH AND TENTH
 SEPHIROTH.](tn/24300.jpg)  
-Click to enlarge](img/24300.jpg)  
+Click to enlarge](img/24300.jpg.md)  
 NINTH AND TENTH SEPHIROTH.  
 </span>
 
@@ -314,13 +314,13 @@ either in their pure and spiritual or their gross form, enter into all
 things—is expansive, separates after death, so that the parts return
 each to its own place, but reunite to praise God on the Sabbaths and new
 moons. With each soul are sent into the world a guardian and an accusing
-angel. <span id="fr_34"></span>[\*](#fn_34)
+angel. <span id="fr_34"></span>[\*](#fn_34.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_34"></span>[245:\*](pnm86.htm#fr_34) <span
+<span id="fn_34"></span>[245:\*](pnm86.htm#fr_34.md) <span
 class="smallcaps">Note</span>: Mr. Morley's excellent summary of the
 Kabbala Denudate may be regarded as fully authentic although he writes
 from the standpoint of an unbeliever. The Tree of the Cabala (divided
@@ -333,4 +333,4 @@ continued under the title of "The Mirific Word."
 
 ------------------------------------------------------------------------
 
-[Next: The Mirific Word](pnm87)
+[Next: The Mirific Word](pnm87.md)

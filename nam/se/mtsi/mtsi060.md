@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi059)  [Next](mtsi061) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi059)  [Next](mtsi061.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ from the track and gave up the race.
 
 ------------------------------------------------------------------------
 
-[Next: 59. Terrapin Races (Fourth Version)](mtsi061)
+[Next: 59. Terrapin Races (Fourth Version)](mtsi061.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah12)  [Next](oah14) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah12)  [Next](oah14.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ the life that is in them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](oah14)
+[Next: Chapter VI](oah14.md)

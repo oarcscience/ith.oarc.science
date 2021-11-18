@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas022n)  [Next](jas024n)   
- \[[23. Cunnie-More-Than-Father.](jas023)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas022n)  [Next](jas024n.md)   
+ \[[23. Cunnie-More-Than-Father.](jas023.md)\]
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ pastures under sea, compare 107, 108.
 
 ------------------------------------------------------------------------
 
-[Next: Note 24. The Duckano Tree.](jas024n)
+[Next: Note 24. The Duckano Tree.](jas024n.md)

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,30 +18,30 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](fox101)    [Text
-\[Zipped\]](foxe.txt.gz)
+[Contents](#contents)    [Start Reading](fox101.md)    [Text
+\[Zipped\]](foxe.txt.gz.md)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Chapter I](fox101)  
-[Chapter II](fox102)  
-[Chapter III](fox103)  
-[Chapter IV](fox104)  
-[Chapter V](fox105)  
-[Chapter VI](fox106)  
-[Chapter VII](fox107)  
-[Chapter VIII](fox108)  
-[Chapter IX](fox109)  
-[Chapter X](fox110)  
-[Chapter XI](fox111)  
-[Chapter XII](fox112)  
-[Chapter XIII](fox113)  
-[Chapter XIV](fox114)  
-[Chapter XV](fox115)  
-[Chapter XVI](fox116)  
-[Chapter XVII](fox117)  
-[Chapter XVIII](fox118)  
-[Chapter XIX](fox119)  
-[Chapter XX](fox120)  
-[Chapter XXI](fox121)  
-[Chapter XXII](fox122)  
+<span id="contents"></span> [Chapter I](fox101.md)  
+[Chapter II](fox102.md)  
+[Chapter III](fox103.md)  
+[Chapter IV](fox104.md)  
+[Chapter V](fox105.md)  
+[Chapter VI](fox106.md)  
+[Chapter VII](fox107.md)  
+[Chapter VIII](fox108.md)  
+[Chapter IX](fox109.md)  
+[Chapter X](fox110.md)  
+[Chapter XI](fox111.md)  
+[Chapter XII](fox112.md)  
+[Chapter XIII](fox113.md)  
+[Chapter XIV](fox114.md)  
+[Chapter XV](fox115.md)  
+[Chapter XVI](fox116.md)  
+[Chapter XVII](fox117.md)  
+[Chapter XVIII](fox118.md)  
+[Chapter XIX](fox119.md)  
+[Chapter XX](fox120.md)  
+[Chapter XXI](fox121.md)  
+[Chapter XXII](fox122.md)  

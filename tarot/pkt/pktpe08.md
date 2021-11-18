@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktpe09)  [Next](pktpe07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktpe09)  [Next](pktpe07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Eight
 
 <span id="img_pe08"></span> <span align="CENTER"> [![](tn/pe08.jpg)  
-Click to enlarge](img/pe08.jpg)</span>
+Click to enlarge](img/pe08.jpg.md)</span>
 
 An artist in stone at his work, which he exhibits in the form of
 trophies. *Divinatory Meanings*: Work, employment, commission,
@@ -31,4 +31,4 @@ ingenious mind turned to cunning and intrigue.
 
 ------------------------------------------------------------------------
 
-[Next: Seven of Pentacles](pktpe07)
+[Next: Seven of Pentacles](pktpe07.md)

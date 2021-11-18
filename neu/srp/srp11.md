@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp10)  [Next](srp12) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp10)  [Next](srp12.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ influence of the imagination, as obedient to the impulse of a morbid
 
 fancy, as those benighted Orientals of whom Mr. Tylor tells us, who
 still believe in spirit-rappings, and planchette-writings, and
-wizard-elongations <span id="fr_259"></span>[1](#fn_259). Much time and
+wizard-elongations <span id="fr_259"></span>[1](#fn_259.md). Much time and
 space would be needed by any one who should undertake to describe the
 relies of the magical arts of their ancestors which the Russian peasants
 still preserve. At present I propose to give merely the briefest
@@ -67,7 +67,7 @@ illiterate peasantry have unconsciously preserved the views about "God's
 world" current among their remote ancestors, the questions which daring
 speculators in far-off ages had asked and had tried to answer with
 reference to the great forces of nature <span
-id="fr_260"></span>[2](#fn_260). It was on account of this close
+id="fr_260"></span>[2](#fn_260.md). It was on account of this close
 connexion between the *zagádka* and the myth, that the propounding of
 riddles was attributed by the Slavonians to such mythical beings as the
 Russian Rusalkas or the Servian Vilas; all of whom were supposed to be
@@ -93,7 +93,7 @@ for instance,--
 
 "There is inscribed a writing on blue velvet, and to read that writing
 is given neither to priests nor to deacons, nor to wise moujiks <span
-id="fr_261"></span>[3](#fn_261)."
+id="fr_261"></span>[3](#fn_261.md)."
 
 Equally poetic is that Slavonic version of "Humpty Dumpty," in which a
 golden ship \[the moon\], sailing across the \[heavenly\] sea, crumbles
@@ -165,7 +165,7 @@ The next is a poetic, though not a novel personification of day and
 night:--
 
 "A sister goes to pay a brother a visit. But he hides himself from his
-sister <span id="fr_262"></span>[4](#fn_262)."
+sister <span id="fr_262"></span>[4](#fn_262.md)."
 
 An idea closely akin with that of the dialogue in the Rig Veda, in which
 the Night implores her brother \[the Day\] to make her his wife, but he
@@ -188,7 +188,7 @@ The king in Lithuania,
 The elder in his cell,  
 The babe in his cradle.  
 And she has not eaten that  
-Which is wanting in the sea <span id="fr_263"></span>[5](#fn_263).
+Which is wanting in the sea <span id="fr_263"></span>[5](#fn_263.md).
 
 Of the *zagádki* which do not seem to have any claim to be considered
 mythological, many may appear, at first sight, nonsensical; but that is
@@ -244,7 +244,7 @@ substituted the like-sounding
 <span id="page_353">p. 353</span>
 
 but quite meaningless name of *Kostyantin*, (dim. *Kostya*)
-Constantine <span id="fr_264"></span>[6](#fn_264).
+Constantine <span id="fr_264"></span>[6](#fn_264.md).
 
 Among the Russian peasantry these riddles have always enjoyed great
 popularity. Khudyakof has printed a collection of them, 1705 in number,
@@ -284,7 +284,7 @@ Tsar is enabled to give the requisite answers, but he afterwards cheats
 his benefactor by filling two thirds of the barrel with sand. His device
 is at once seen through by the sage, who says to the dishonest monarch,
 "Thou hast introduced treason into orthodox Russia, and thou wilt never
-be able to root it out <span id="fr_265"></span>[7](#fn_265)."
+be able to root it out <span id="fr_265"></span>[7](#fn_265.md)."
 
 Still more interesting are the riddle-stories belonging to the class of
 old Slavonic skazkas, tales which have formed part of the heritage of
@@ -313,7 +313,7 @@ arrives, and Iván favours her with his second enigma.
 with a bad thing, and of what was bad the bad died."
 
 Whereupon the Princess accepts Iván <span
-id="fr_266"></span>[8](#fn_266).
+id="fr_266"></span>[8](#fn_266.md).
 
 In a manifestly mythical story a Slavonic Penelope \[the Earth?\] who is
 constantly annoyed "by suitors, is sitting at table with them one day,
@@ -339,7 +339,7 @@ exclaims, "Show thyself, my dear love!" and her husband doffs his cap;
 
 "Here is my riddle," then cries the Queen: "The casket am I, and the
 golden key is my true husband." So the suitors had to drive away
-home <span id="fr_267"></span>[9](#fn_267).
+home <span id="fr_267"></span>[9](#fn_267.md).
 
 By way of conclusion I will give one of the numerous songs, the theme of
 which is the *zagádka*.
@@ -375,7 +375,7 @@ And God's will is past all finding out."
 All the six wise riddles hast thou answered.  
 Therefore now to me shalt thou be wedded,  
 Therefore, maiden, shalt thou be the merchant's wife <span
-id="fr_268"></span>[1](#fn_268)."
+id="fr_268"></span>[1](#fn_268.md)."
 
 The *zagádka* has now completely lost the venerable character it once
 possessed, being degraded from the lofty realm of mythological
@@ -395,10 +395,10 @@ wording its pronouncer became as power--
 
 less to kill or to cure as was Groa when, in her joy at recovering her
 husband, she forgot the Runes which would have loosened the stone from
-Thor's head <span id="fr_269"></span>[2](#fn_269), or as the Finnish
+Thor's head <span id="fr_269"></span>[2](#fn_269.md), or as the Finnish
 deity in the Kalewala, Wäinamöinen, when he was unable to remember the
 magic words that would have stanched his flowing blood <span
-id="fr_270"></span>[3](#fn_270), and so was obliged to bleed on till an
+id="fr_270"></span>[3](#fn_270.md), and so was obliged to bleed on till an
 old wizard with a stronger memory came to his aid. In order not to be
 placed in so unpleasant a predicament the Russian sorcerers--of whom
 more will be said farther on--used frequently to commit their spells to
@@ -407,7 +407,7 @@ said, can be referred to an earlier period than the eighteenth century;
 for, until the time of Peter the Great, the Church and the State agreed
 in strongly objecting to sorcerers, and when they burnt them they
 unfortunately burnt their manuscripts also  <span
-id="fr_271"></span>[4](#fn_271).
+id="fr_271"></span>[4](#fn_271.md).
 
 Among the old Slavonians, as among all other peoples, spoken words were
 supposed to possess certain magical powers. In their figurative language
@@ -420,7 +420,7 @@ you will
 
 <span id="page_359">p. 359</span>
 
-never catch it again <span id="fr_272"></span>[5](#fn_272)." In olden
+never catch it again <span id="fr_272"></span>[5](#fn_272.md)." In olden
 times countless magical formulas, for good or for evil, seem to have
 been known to those persons who were originally styled "Wise Men" and
 "Wise Women," and afterwards wizards and witches. Many of these spells
@@ -432,7 +432,7 @@ careful gleaners in the field of folk-lore.
 The name under which these spells are generally known is that of
 *zagovórui*. As "*sprechen*, *singen*, become *besprechen*, *besingen*,
 *schwören* *beschwören*, jurare *conjurare*, cantare *incantare*,
-etc. <span id="fr_273"></span>[6](#fn_273)," so the Russian *govorít'*,
+etc. <span id="fr_273"></span>[6](#fn_273.md)," so the Russian *govorít'*,
 "to speak," becomes *zagovórít'*, one of the meanings of which is to
 conjure, to utter a spell or *zagovór*--a form of words in which, though
 now written as prose, there is always rhythm, and sometimes rhyme. In
@@ -441,7 +441,7 @@ to speak, *molítva* = a prayer\], which, as years went by, degenerated
 into spells. At first sacred hymns bless and implore the gods; at a
 later period they demand from them (*zaklinayut*) what their utterers
 desire, and are known as spells, *zaklinániya* or *zagovórui* <span
-id="fr_274"></span>[7](#fn_274).
+id="fr_274"></span>[7](#fn_274.md).
 
 These spells were no doubt originally preceded by
 
@@ -460,7 +460,7 @@ elements, asking the earth--Mother Earth, bright with flowers and full
 of vigorous life--to make his life bright and vigorous; asking the
 strong blue sea to strengthen him, and the wild winds to brace his
 courage, and the stars--the eyes of heaven--to make his eyesight
-keen <span id="fr_275"></span>[8](#fn_275).
+keen <span id="fr_275"></span>[8](#fn_275.md).
 
 As regards the world-wide custom of turning towards the east before
 praying, it will be enough to say that it still prevails in many parts
@@ -543,7 +543,7 @@ a day nor pass an hour!"
 The force of the *zagovór* sometimes depends upon the assistance of the
 heavenly and other bodies adjured, as may be seen from the following
 spell to prevent swarming bees from wandering afar <span
-id="fr_276"></span>[9](#fn_276).
+id="fr_276"></span>[9](#fn_276.md).
 
 "I take a bee, I place it in the hive. But it is not I who place thee
 there; the white stars place thee; the horned moon, the red sun, they
@@ -562,7 +562,7 @@ Christian; so that it has even found its way, under the heading
 <span id="page_364">p. 364</span>
 
 into the church books called *trebniki*, both Russian and Servian, of
-the 15th-17th centuries <span id="fr_277"></span>[1](#fn_277). This is a
+the 15th-17th centuries <span id="fr_277"></span>[1](#fn_277.md). This is a
 different case from that of the well-known poem of the Merseburg MS., in
 which a spell intended to cure a lame horse is preceded by an account of
 how, as Baldr rode through a wood in company with other Teutonic
@@ -576,7 +576,7 @@ Jesus reed sig til hede, *etc*.,
 or our own--
 
 The lord rade,  
-And the foal slade, *etc*. <span id="fr_278"></span>[2](#fn_278)
+And the foal slade, *etc*. <span id="fr_278"></span>[2](#fn_278.md)
 
 The copyist in the case of the Merseburg MS. may have wished to stand
 well with the old powers as well as with the new, but in many of the
@@ -598,7 +598,7 @@ Angels, Archangels, Cherubim and Seraphim, and all ye heavenly host!
 Forgive, O sky; forgive, O damp-mother-earth; forgive, O sun; forgive, O
 moon; forgive, ye stars; forgive, ye lakes, ye rivers and hills;
 forgive, all ye heavenly and earthly elements <span
-id="fr_279"></span>[3](#fn_279)!"
+id="fr_279"></span>[3](#fn_279.md)!"
 
 In this case it is easy to see that the alteration which has taken place
 is one of heterogeneous combination, not of corruption or decay.
@@ -613,7 +613,7 @@ pass away for ever!" or,--
 "May my words be sticky and tough, firmer than stone, stickier than glue
 or resin, salter than salt, sharper than a self-cutting sword, tougher
 than steel. What is meant, that shall be fulfilled <span
-id="fr_280"></span>[4](#fn_280)!"
+id="fr_280"></span>[4](#fn_280.md)!"
 
 It has already been mentioned that the mouth is defined in metaphorical
 language as a lock--the
@@ -629,21 +629,21 @@ thou lock in the mouth!"
 
 Here is one of a slightly different nature:--
 
-"I, the servant of God, <span id="fr_281"></span>[5](#fn_281) will make
+"I, the servant of God, <span id="fr_281"></span>[5](#fn_281.md) will make
 fast thrice nine locks. I take out from the thrice nine locks the thrice
 nine keys. I fling those keys into the clear ocean-sea; and from that
 sea will come out a golden-finned, copper-scaled pike, and will swallow
 my seven-and-twenty keys, and will sink into the depth of the sea. And
 no one shall catch that pike, or find out the seven-and-twenty keys, or
 open the locks, or do hurt to me the servant of God <span
-id="fr_282"></span>[6](#fn_282)!"
+id="fr_282"></span>[6](#fn_282.md)!"
 
 The range attributed to the force of the *zagovór* is as wide as that
 with which the *Lieder* and *Runen* used to be credited, and the Russian
 spell was supposed to be fully capable of performing most of, if not
 all, the actions of which, in speaking of its Teutonic equivalents,
 Jacob Grimm has given so long a list <span
-id="fr_283"></span>[7](#fn_283), or which
+id="fr_283"></span>[7](#fn_283.md), or which
 
 <span id="page_367">p. 367</span>
 
@@ -672,7 +672,7 @@ luminary, used to bear. In the second, his appeal to the stone of the
 church portal is supposed to be a reference to that of which in older
 days the stone was a symbol, the hammer of Thor or Perun, which could
 turn all things into stone-the hard-hitting thunderbolt <span
-id="fr_284"></span>[8](#fn_284). But all this seems very doubtful.
+id="fr_284"></span>[8](#fn_284.md). But all this seems very doubtful.
 
 <span id="page_368">p. 368</span>
 
@@ -692,7 +692,7 @@ burning stone Alatuir. On that stone Alatuir there sits a fair maiden, a
 masterful sewer. She holds a steel needle, threads it with a silken
 thread, of reddish-yellow hue, and sews together bloody wounds. I charm
 the servant So-and-so from cuts. Steel, stand aloof, and thou., blood,
-cease to flow <span id="fr_285"></span>[9](#fn_285)!"
+cease to flow <span id="fr_285"></span>[9](#fn_285.md)!"
 
 I will not dwell at present on the mystic stone, Alatuir, but it should
 be mentioned, in order that an allusion in the next *zagovór* may be
@@ -735,7 +735,7 @@ nor under the moon by night.
 
 Plunge thyself, O longing I gnaw thy way, O longing, into his breast,
 into his heart; grow and increase in all his veins, in all his bones,
-with pain and thirst for me <span id="fr_286"></span>[1](#fn_286)!
+with pain and thirst for me <span id="fr_286"></span>[1](#fn_286.md)!
 
 <span id="page_370">p. 370</span>
 
@@ -890,7 +890,7 @@ than heroes.
 shut up beyond the mountains of Ararat, in the lowest gulfs of hell, in
 boiling pitch, in burning flame. And may his spells be for him no
 spells, his deceit be no deceiving, and his guile lead to no
-beguiling <span id="fr_287"></span>[2](#fn_287)."
+beguiling <span id="fr_287"></span>[2](#fn_287.md)."
 
 We will now return for a time to the "Isle of Buyan," and the "White
 Stone Alatuir."
@@ -913,7 +913,7 @@ birds, with iron beak and copper claws, and the Mother of Bees, eldest
 among bees. That is to say, continues Afanasief, there lies the
 Lightning Snake, and broods the Tempest Bird, and swarm the Thunder Bees
 who bless the longing earth with the honey of rain <span
-id="fr_288"></span>[3](#fn_288).
+id="fr_288"></span>[3](#fn_288.md).
 
 On Buyán, also, stands a dripping oak, under which lies the snake
 Garafena \[perhaps a corruption of *Goruinich*, Son of the Mountain, the
@@ -933,7 +933,7 @@ which have been discussed at some length by various Slavonic scholars,
 who have not, however, entirely dispelled the mystery which hangs about
 them. The *zagovórs* generally describe it as lying on the Buyan isle,
 but sometimes they merely say, "On the sea, on the ocean, lies the fiery
-stone <span id="fr_289"></span>[4](#fn_289)." From under it flow rivers
+stone <span id="fr_289"></span>[4](#fn_289.md)." From under it flow rivers
 of healing. On it originally was wont to sit either a "fair maiden who
 sewed up bleeding wounds"--supposed to be the Dawn, or the bird Stratim,
 the meaning of whose name has not yet been discovered--or some other
@@ -965,7 +965,7 @@ something specially bright. The alabaster theory seems to have fallen to
 the ground, but the identity of the words *alatuir* and *yantar* seems
 to be generally admitted, though it is difficult to see, as Afanasief
 remarks, why such magical properties should have been attributed by the
-Old Slavonians to amber <span id="fr_290"></span>[5](#fn_290). It may be
+Old Slavonians to amber <span id="fr_290"></span>[5](#fn_290.md). It may be
 that, as Buyan seems to have been turned from an epithet into a proper
 name, so Alatuir may, in the course of time, have changed its meaning,
 which possibly was at first "amber-like."
@@ -993,7 +993,7 @@ the Ukraine that is not reported to keep its witch. In the vicinity of
 the great cities the supernatural, as revealed by the professors of the
 black art, may have lost its attractive hold upon the popular mind; but
 out in the open country the *Koldún* still holds his own, the *Vyéd'ma*
-still retains her power <span id="fr_291"></span>[6](#fn_291). To him
+still retains her power <span id="fr_291"></span>[6](#fn_291.md). To him
 and to her the rustics still have recourse in their troubles, still
 
 <span id="page_379">p. 379</span>
@@ -1029,7 +1029,7 @@ from a house by washing the lintels of its doorways, and by performing
 certain magical rites in the fields they prevent insects and other
 vermin from hurting the crops., For the success of a wedding, the
 presence of the wizard is in many places considered indispensable <span
-id="fr_292"></span>[7](#fn_292). His duty is to preserve the young
+id="fr_292"></span>[7](#fn_292.md). His duty is to preserve the young
 couple and their friends from the attacks of hostile magicians; and so,
 in the Government of Perm, the bride is always attended by a
 *znákharka*, and the bridegroom by a *znákhar'* who goes in front of the
@@ -1059,7 +1059,7 @@ a second horseman, "all white and on a white steed," and cries, "Let go,
 please do!" "No, I won't," replies the wizard. "Do let go; there's no
 holding out!" exclaims the white rider. At last the wizard sends him on
 to the other side of the corn-field, where in a little time a hail-storm
-comes pelting down <span id="fr_293"></span>[8](#fn_293).
+comes pelting down <span id="fr_293"></span>[8](#fn_293.md).
 
 With whirlwinds, also, the wizards have a great
 
@@ -1080,7 +1080,7 @@ hatchet. As the guest lay down to sleep, he caught sight of something
 gleaming under a bench, and recognized it as the hatchet he had lost.
 Immediately he knew that he had wounded a wizard, so in fear of his life
 he fled from the cottage into the darkness <span
-id="fr_294"></span>[9](#fn_294). When our sailors fire cannon at
+id="fr_294"></span>[9](#fn_294.md). When our sailors fire cannon at
 waterspouts they, of course, do so for purely philosophical reasons.
 
 In Little-Russia the witches are reported to steal from the sky its rain
@@ -1100,7 +1100,7 @@ the rain was coming down "just as if it were rushing out of a tub." The
 witch came running home, and closed the pitcher, when the rain stopped
 in a moment. "If the pitcher had stood open a little longer," she said
 to the girl, "the whole of the village would have been drowned <span
-id="fr_295"></span>[1](#fn_295)." In some versions of the same story the
+id="fr_295"></span>[1](#fn_295.md)." In some versions of the same story the
 witch forbids certain tubs to be touched. When they are opened by an
 inquisitive visitor they are found to be full of frogs, toads,
 water-snakes, and other vermin, which set up a strange croaking and
@@ -1124,7 +1124,7 @@ witches, and they went on clearing the sky of stars until there were
 none left "to light up our sinful world." Then God sent St. Andrew \[one
 of the Christian successors of Perun\], who struck with his mace, and
 that wicked village sank into the earth, the place it had occupied
-becoming a swamp <span id="fr_296"></span>[2](#fn_296). Akin to these
+becoming a swamp <span id="fr_296"></span>[2](#fn_296.md). Akin to these
 witches must have been the heroine of the following spell:--
 
 The maiden fair  
@@ -1135,7 +1135,7 @@ Roots she extracted,
 The moon she stole,  
 The sun she ate.  
 Aroynt her, hag!  
-Aroynt her, witch <span id="fr_297"></span>[3](#fn_297)!
+Aroynt her, witch <span id="fr_297"></span>[3](#fn_297.md)!
 
 In Russia, as elsewhere, the objects by means of which a sorceress flies
 through the air are those which are connected with the domestic
@@ -1192,7 +1192,7 @@ ravens, or rather of evil spirits in their forms, throng the roof and
 chimney of the house, seize the soul of the dying wizard or witch, and,
 with wild cries, bear it away to the other world.
 
-Among the defensive weapons employed against [witchcraft](errata.htm#5),
+Among the defensive weapons employed against [witchcraft](errata.htm#5.md),
 some of the most important are the different objects connected with the
 domestic hearth, or supposed to refer in some way to the lightning. Thus
 a *kochergá*, or stove-rake, if suspended at the door of a cottage, will
@@ -1208,7 +1208,7 @@ hammer, as, for instance, the sallow, the aspen-stake, and the fern. If
 any one takes a willow or aspen-twig with him to matins on Easter day,
 say the peasants in the Poltava Government, and looks at the
 congregation through it, he will see all the wizards and witches among
-them turned upside down <span id="fr_298"></span>[4](#fn_298). In the
+them turned upside down <span id="fr_298"></span>[4](#fn_298.md). In the
 Chernigof Government it is believed that if, on the last day of the
 *Máslyanitsa* any one takes a piece of cheese, wraps it up, and carries
 it about with him during the whole of Lent, then on Easter eve the
@@ -1244,7 +1244,7 @@ involve all warlike weapons, so that the shooters may not reach me with
 their arquebuses, nor may their arrows attain to me, nor their warlike
 weapons do me hurt. In my knots lies hid the mighty strength of
 snakes--from the twelve-headed snake <span
-id="fr_299"></span>[5](#fn_299)." With such a spell as this it was
+id="fr_299"></span>[5](#fn_299.md)." With such a spell as this it was
 supposed that the insurgent chief, Stenka Razín, had rendered himself
 proof against shot and steel.
 
@@ -1292,7 +1292,7 @@ is used:--
 "I see not."
 
 "God grant that the wolf may not see our cattle <span
-id="fr_300"></span>[6](#fn_300)!"
+id="fr_300"></span>[6](#fn_300.md)!"
 
 <span id="page_390">p. 390</span>
 
@@ -1309,7 +1309,7 @@ sympathy with its wearer, and therefore the peasants in some parts
 believe, that if a sick man's girdle be taken off, and thrown on the
 highway, whoever picks it up and puts it on will have its former
 wearer's diseases transferred to himself <span
-id="fr_301"></span>[7](#fn_301). The knotted surface of a harrow (made
+id="fr_301"></span>[7](#fn_301.md). The knotted surface of a harrow (made
 of interwoven branches) gives it great power against witchcraft. The
 best way to catch a witch is to hide under a harrow, and angle for her
 with a bridle.
@@ -1363,7 +1363,7 @@ string; or he twists them round toward the west, the quarter with which
 is connected the idea of death, and fastens them in that position. This
 ceremony, which is done only with malicious intent, is of course
 entirely different from the somewhat similar rite styled "the plaiting
-of the beard of Volos." \[See [p. 231](srp08.htm#page_231).\] The
+of the beard of Volos." \[See [p. 231](srp08.htm#page_231.md).\] The
 wizard's proceeding is called making a *zakrút*. \[*zakrutít'* = to
 twist\]. The old church books called *trebniki* contain prayers intended
 to be employed against the *zakrút*. After they had been said, it was
@@ -1374,7 +1374,7 @@ asunder, and pulls out the enchanted ears with it. Afterwards the
 *zakrút* is set on fire with a holy taper, and the aspen-stake is driven
 into the spot it had occupied, the latter proceeding giving rise to
 terrible pains inside the hostile wizard <span
-id="fr_302"></span>[8](#fn_302).
+id="fr_302"></span>[8](#fn_302.md).
 
 <span id="page_393">p. 393</span>
 
@@ -1431,7 +1431,7 @@ Faggots he piled in the midst of the court,
 And her body white he burnt,  
 Till nought but ashes remained.  
 Her dust he scattered across the plain;  
-No voice would he suffer to mourn <span id="fr_303"></span>[9](#fn_303).
+No voice would he suffer to mourn <span id="fr_303"></span>[9](#fn_303.md).
 
 Sometimes the poisoning is supposed to be effected on a large scale, as
 when an epidemic is introduced by means of unholy science. In that case
@@ -1518,7 +1518,7 @@ The old Elders fix
 A great curse.  
 The old Elders promise  
 Eternal life  
-To all the human race <span id="fr_304"></span>[1](#fn_304).
+To all the human race <span id="fr_304"></span>[1](#fn_304.md).
 
 The Three Elders, says Orest Miller, are evidently beneficent
 divinities, but it is not clear who the Twelve Sisters are. They are
@@ -1532,13 +1532,13 @@ Herod.
 
 <span id="page_398">p. 398</span>
 
-[Tereshchenko](errata.htm#6), in his description of the *Opakhivanie*,
+[Tereshchenko](errata.htm#6.md), in his description of the *Opakhivanie*,
 the ploughing rite to plough\] used as a preservative against the
 cattle-plague, gives a few additional details. In the villages of which
 he speaks, the procession is headed by a young girl who carries the
 image of St. Blasius--Vlas, the Christian representative of the old
 Slavonic deity Volos, the patron-god of cattle <span
-id="fr_305"></span>[2](#fn_305). Behind her walk the rest of the female
+id="fr_305"></span>[2](#fn_305.md). Behind her walk the rest of the female
 villagers, those in the front row carrying besoms and handfuls of hay
 and straw. Next comes an old woman, riding on a broomstick, her locks
 dishevelled, a single shift her only covering: around her are several
@@ -1570,7 +1570,7 @@ disease!" When she reaches the glowing heap at the other end, she flings
 the bird into it. While it is burning, the girls, after heaping dry
 leaves on the fire, take hands and dance round it, repeating "Perish,
 disappear, black disease!" The women then drag the plough three times
-round the village <span id="fr_306"></span>[3](#fn_306).
+round the village <span id="fr_306"></span>[3](#fn_306.md).
 
 Near Mtsensk, in the Government of Orel, the Cow Death procession is
 headed by three girls who carry a picture of St. Vlas, with a taper
@@ -1593,7 +1593,7 @@ We will rake thee with the stove-rake,
 We will sweep thee up with the broom,  
 And we will stuff thee with ashes.  
 Come not to our village!  
-Meddle not <span id="fr_307"></span>[4](#fn_307) with our cows,  
+Meddle not <span id="fr_307"></span>[4](#fn_307.md) with our cows,  
 Nut-brown, chestnut, star-browed,  
 White-teated, white uddered,  
 Crumpled-horned, one-horned!
@@ -1605,7 +1605,7 @@ proceedings resemble those which have already been described, but their
 narrator adds that "if a man falls in their way, they set upon him
 furiously. It has often occurred that the man thus met has not at a
 cheap rate made good his escape from them <span
-id="fr_308"></span>[5](#fn_308)."
+id="fr_308"></span>[5](#fn_308.md)."
 
 One of the stories about the Cow Death relates that--
 
@@ -1637,7 +1637,7 @@ crossed himself. In a moment there was no old woman to be seen!
 
 Turning into a black dog, she ran into the village. Next day three cows
 died in the outside farm; the peasant had brought the Cow Death
-there <span id="fr_309"></span>[6](#fn_309).
+there <span id="fr_309"></span>[6](#fn_309.md).
 
 Under such circumstances, according to Tereshchenko, instances of
 voluntary immolation have been known. In a village attacked by an
@@ -1676,7 +1676,7 @@ the sea," and that she is one of three sisters, all clad in white
 shrouds. Once a peasant, going into a town, gave a lift to two of the
 sisters in his cart, on which they sat, "holding on their knees bundles
 of bones. One of them was going to slay in Kharkof, and the other in
-Kief <span id="fr_310"></span>[7](#fn_310)."
+Kief <span id="fr_310"></span>[7](#fn_310.md)."
 
 One of the strangest superstitions about disease is that which is
 connected with small-pox. In some places the Russian peasants hold that
@@ -1706,12 +1706,12 @@ into various shapes is widely spread in Russia, and plays an important
 part in the popular mythology of the country. A person thus changed
 bears the name of *óboroten* \[*oborotít'* = to turn\], or, when changed
 into a wolf, of *volkodlák* \[*volk* = wolf, *dlaka* = a tuft of hair,
-and so a hide <span id="fr_311"></span>[8](#fn_311)\].
+and so a hide <span id="fr_311"></span>[8](#fn_311.md)\].
 
 <span id="page_404">p. 404</span>
 
 Werewolf stories are so well known among all nations <span
-id="fr_312"></span>[9](#fn_312), that it is unnecessary to give a
+id="fr_312"></span>[9](#fn_312.md), that it is unnecessary to give a
 detailed account of the proceedings of the Russian *volkodlaki*. But it
 may be as well to mention that the collection of laws, etc. called the
 *Kormchaya Kniga* states that in these transformed beings the people
@@ -1740,7 +1740,7 @@ was a well-known mythological synonym for a rain-cloud. Cats are
 generally thought uncanny in Slavonic countries, the Russian peasants
 believing that evil spirits enter into them during storms, and the
 Bohemians holding that a black cat at the end of seven years becomes
-either a witch or a devil <span id="fr_313"></span>[1](#fn_313). The owl
+either a witch or a devil <span id="fr_313"></span>[1](#fn_313.md). The owl
 is considered to be of a demoniacal nature, while the dove is so pure
 and holy that no witch is able to assume its form.
 
@@ -1770,9 +1770,9 @@ not roam. Moon, moon! golden horns! Melt the bullet, blunt the knife,
 rot the cudgel, strike fear into man, beast, and reptile, so that they
 may not seize the grey wolf, nor tear from him his warm hide. My word is
 firm, firmer than sleep or the strength of heroes <span
-id="fr_314"></span>[2](#fn_314)."
+id="fr_314"></span>[2](#fn_314.md)."
 
-In this spell, says Buslaef <span id="fr_315"></span>[3](#fn_315), the
+In this spell, says Buslaef <span id="fr_315"></span>[3](#fn_315.md), the
 aspen stump is mentioned because a buried werewolf or vampire has to be
 pierced with an aspen stake. The expression that the wolf has all the
 horned cattle in or under his teeth resembles the proverb now applied to
@@ -1833,7 +1833,7 @@ to whom it has attached itself take it to a wizard for relief. Acting
 upon his advice, they heat a bath as hot as possible, and scald the
 dog's skin off. No sooner is this done than the dog turns into a young
 man belonging to a neighbouring village, whom an old sorceress had
-bewitched <span id="fr_316"></span>[4](#fn_316).
+bewitched <span id="fr_316"></span>[4](#fn_316.md).
 
 Witches and wizards constantly metamorphose people by the touch of a
 magic wand, stick, or whip.
@@ -1851,7 +1851,7 @@ frighten the holy travellers, and had dressed themselves up in
 sheepskins turned inside out, ran at them, roaring like bears. "Then the
 Apostles said, 'Go on roaring from this time forward and for ever!' and
 at that very instant the mockers were turned into bears <span
-id="fr_317"></span>[5](#fn_317)."
+id="fr_317"></span>[5](#fn_317.md)."
 
 More terrible even than the werewolf, but closely connected with him, as
 well as with the wizard and the witch, is the dreaded Vampire. It is in
@@ -1936,7 +1936,7 @@ In a twinkling they found themselves at the graveyard. The vampire would
 have clasped the peasant in its arms, but luckily for him the cocks
 began to crow, and the corpse disappeared. The next morning, when folks
 came and looked, the old man and the lad were both dead <span
-id="fr_318"></span>[6](#fn_318).
+id="fr_318"></span>[6](#fn_318.md).
 
 According to the Servians and Bulgarians, unclean spirits enter into the
 corpses of malefactors and other evilly-disposed persons, who then
@@ -1947,7 +1947,7 @@ some places the jumping of a boy over the corpse is considered as fatal
 as that of a cat. The flight of a bird above the body may also be
 attended by the same terrible result; and so may--in the Ukraine--the
 mere breath of the wind from the Steppe <span
-id="fr_319"></span>[7](#fn_319).
+id="fr_319"></span>[7](#fn_319.md).
 
 The bodies of vampires, of wizards, and of witches, as well as those of
 outcasts from the Church, and of people cursed by their parents, are
@@ -1957,7 +1957,7 @@ mother who cursed her son, and after his death his body remained free
 from corruption for the space of a hundred years. "At last he was dug
 up, and his old mother, who was still alive, pronounced his pardon; and
 at that very moment the corpse crumbled into dust <span
-id="fr_320"></span>[8](#fn_320)."
+id="fr_320"></span>[8](#fn_320.md)."
 
 <span id="page_413">p. 413</span>
 
@@ -1966,7 +1966,7 @@ is found upon its body, its cheek being rosy and its skin soft; and that
 the best way to destroy the monster is to drive a stake through it, when
 the blood it has been sucking will pour forth from the wound. The
 Servian method of discovering its grave may not be so well known.
-According to Vuk Karadjic <span id="fr_321"></span>[9](#fn_321) it is
+According to Vuk Karadjic <span id="fr_321"></span>[9](#fn_321.md) it is
 customary to take an immaculately black colt, and drive it through the
 churchyard. Over the vampire's grave it will refuse to pass. The whole
 village then turns out, the vampire is dug up, pierced with a
@@ -1993,12 +1993,12 @@ place. The hero awoke a trembling coward, and remained one till the day
 of his death. Another Polish story of a similar nature tells how a witch
 substituted a cock's heart for that of a peasant. From that time forward
 the unfortunate man was always crowing <span
-id="fr_322"></span>[1](#fn_322). Sometimes the witches did not eat the
+id="fr_322"></span>[1](#fn_322.md). Sometimes the witches did not eat the
 hearts they stole, but merely exposed them to a magic fire so as to
 create love-longings in the breasts from which they had been taken. The
 idea still survives, as Jacob Grimm remarks, in our expressions of
 "giving" or "stealing one's heart <span
-id="fr_323"></span>[2](#fn_323)."
+id="fr_323"></span>[2](#fn_323.md)."
 
 A fondness for human flesh is attributed to ogrelike beings all over the
 world, so there is nothing remarkable in the depraved appetites of the
@@ -2025,7 +2025,7 @@ catch a cock, and carry it with him. At midnight, when the dead man
 leaped from his coffin, opened his jaws wide, and rushed at his victim,
 the sacristan gave the bird a pinch. The cock uttered his usual crow,
 and that very moment the dead man fell backwards to the ground a numb,
-motionless corpse <span id="fr_324"></span>[3](#fn_324)."
+motionless corpse <span id="fr_324"></span>[3](#fn_324.md)."
 
 It would be easy to quote many stories of this kind, for Slavonic
 folk-lore abounds in them, but I will not do so now, preferring to
@@ -2073,12 +2073,12 @@ often on mountain
 tops, and especially at those very times, the wizards and witches held
 unholy revels, characterized by just such music, dancing, and feasting
 as used to accompany the heathen festivals <span
-id="fr_325"></span>[4](#fn_325); as the smoke of other sacrifices
+id="fr_325"></span>[4](#fn_325.md); as the smoke of other sacrifices
 formerly rose to heaven from the domestic hearth, so witches came to be
 associated with the various implements connected with the hearth, and
 were supposed to ride on the broom or the oven-fork, and to soar into
 the air through the stovepipe or the chimney <span
-id="fr_326"></span>[5](#fn_326).
+id="fr_326"></span>[5](#fn_326.md).
 
 It has been mentioned already, that although the wizard and the wise
 woman were generally respected in heathen times, yet there were
@@ -2137,7 +2137,7 @@ hid an axe under his dress, and drew near to the wizard, and asked him--
 At this point of the argument the Prince drew out his axe, and struck
 the wizard with such force that he immediately fell dead. Whereupon the
 people gave up all faith in him, and went quietly home <span
-id="fr_327"></span>[6](#fn_327).
+id="fr_327"></span>[6](#fn_327.md).
 
 Even after the adherents of heathenism had given up what they saw was a
 hopeless struggle, and Christianity had become the recognized religion
@@ -2252,7 +2252,7 @@ the end of time! As this salt shall dry up, so may that man also dry
 up!" and the salt thus enchanted was to be scattered on the road along
 which the intended victim had to pass. The court sentenced Chukharef to
 undergo thirty-five blows of the knout, as well as "a public church
-penance <span id="fr_328"></span>[7](#fn_328)."
+penance <span id="fr_328"></span>[7](#fn_328.md)."
 
 In 1715 Peter the Great gave orders that in future *klikushi*, or
 "possessed people," should be subjected to an examination, so as to find
@@ -2274,7 +2274,7 @@ Senate. On examination these diabolical worms turned out to be simple
 maggots,--whereupon the Senate ordered the "possessed woman" to be
 flogged, turned the provincial judges out of their seats, and gave
 orders that in future similar complaints were not to be listened
-to <span id="fr_329"></span>[8](#fn_329).
+to <span id="fr_329"></span>[8](#fn_329.md).
 
 But though the law has long ceased to examine such charges, they still
 command attention among the peasantry. The belief in vampires, also,
@@ -2320,7 +2320,7 @@ Raskolnik, or Dissenter, who had died in the previous December, and had
 been buried in the village graveyard. Some of the party then beat it
 about the head, exclaiming, "Give us rain!" while others poured water
 upon it through a sieve. Then they put it back into the coffin and
-restored it to its resting-place <span id="fr_330"></span>[9](#fn_330).
+restored it to its resting-place <span id="fr_330"></span>[9](#fn_330.md).
 All that can be said in excuse of such a practice as this is, that it is
 not as bad as that which so long prevailed in England, as well as in
 other lands, of testing a woman suspected of witchcraft by flinging her
@@ -2351,7 +2351,7 @@ indulged, while endeavouring to account for the belief which gave rise
 to those trials; a belief of world-wide extent and of the most venerable
 antiquity. Disinclined to accept such theories as that supported by Mr.
 Tylor, who considers that "witchcraft is part and parcel of savage
-life <span id="fr_331"></span>[1](#fn_331)," and apparently looks upon
+life <span id="fr_331"></span>[1](#fn_331.md)," and apparently looks upon
 the belief in it rather as the rank growth of an untilled soil than as
 the decayed form of one of the results of ancient mythological
 culture--preferring to trace back such stories as those of witches who
@@ -2395,7 +2395,7 @@ mentioned in old Slavonic documents as
 
 \[*óblako* = cloud, *gonyát'* = to chase\], a word closely associated
 with the epithet of Zeus, *nephelêgeretês* <span
-id="fr_332"></span>[2](#fn_332).
+id="fr_332"></span>[2](#fn_332.md).
 
 The steeds on which wizards and witches make their aerial journeys are
 of a nature to suggest some connexion with the element of fire, either
@@ -2442,7 +2442,7 @@ nature represented in ancient mythical language; so at last it became
 usual to associate women rather than men with the idea of commanding the
 elements; and thus it was more usually a witch than a wizard who was
 supposed to be on terms of familiarity with the inhabitants of the
-invisible world <span id="fr_333"></span>[3](#fn_333).
+invisible world <span id="fr_333"></span>[3](#fn_333.md).
 
 <span id="page_431">p. 431</span>
 
@@ -2457,7 +2457,7 @@ hands round the starry sky, and eclipse the moon with clouds (or steal
 it); then, on the approach of a storm, they betake themselves to milking
 the cloud-cows themselves, and milk them so violently that from their
 teats, together with milk, there begins to flow blood (another metaphor
-for rain) <span id="fr_334"></span>[4](#fn_334)." In some villages,
+for rain) <span id="fr_334"></span>[4](#fn_334.md)." In some villages,
 also, the witches are said to chase the moon into a cow-shed, and there
 to milk cows by her light; and the Bulgarians have a tradition to the
 effect that sorceresses can take the moon (*luná*) out of the sky, which
@@ -2481,7 +2481,7 @@ tradition that a werewolf who is touched with a pitchfork or a flail
 immediately resumes his human form: this is explained as meaning that
 the thunder-god strikes a blow with his mace \[the lightning\], which
 tears the wolf's hide from his opponent \[or disperses the cloud\] <span
-id="fr_335"></span>[5](#fn_335).
+id="fr_335"></span>[5](#fn_335.md).
 
 In the case of vampires, their sucking of blood is explained by
 Afanasief in the same manner as the draining of milk by witches. When
@@ -2489,8 +2489,8 @@ winter condemns all nature to a temporary death, the thunder-god and the
 spirits of the storm sleep a sleep like that of death in their
 cloud-coffins. But with the return of spring they assume renewed life,
 and draw rain from the clouds, or, in mythical language, suck blood from
-sleepers <span id="fr_336"></span>[6](#fn_336). According to this
-[system](errata.htm#7) of interpretation, some glimmering may be
+sleepers <span id="fr_336"></span>[6](#fn_336.md). According to this
+[system](errata.htm#7.md) of interpretation, some glimmering may be
 obtained, he thinks, of the original meaning of what, if taken
 literally, seems a needlessly improbable story--that of the vampire
 father who eats all his daughters but one; her escape being effected by
@@ -2511,7 +2511,7 @@ our Aryan ancestors personified the powers of nature. But before
 indulging in the pleasure of a belief in such desirable transformations,
 it may be as well at least to remember the existence of very different
 hypotheses on the subject. Even if we do not altogether agree with Mr.
-Fergusson <span id="fr_337"></span>[7](#fn_337), that none of the
+Fergusson <span id="fr_337"></span>[7](#fn_337.md), that none of the
 serpents and dragons, none of the dwarfs and magicians and such like
 creatures, are of Aryan extraction,--that "all the fairy mythology, in
 fact, of the East and West, belongs to the Turanian races,"--yet we may
@@ -2590,107 +2590,107 @@ degrading than a physical servitude.
 
 ### Footnotes
 
-<span id="fn_259"></span>[346:1](srp11.htm#fr_259) "Primitive Culture,"
+<span id="fn_259"></span>[346:1](srp11.htm#fr_259.md) "Primitive Culture,"
 I. 131-141.
 
-<span id="fn_260"></span>[347:2](srp11.htm#fr_260) Afanasief, P. V. S.
+<span id="fn_260"></span>[347:2](srp11.htm#fr_260.md) Afanasief, P. V. S.
 I. 25.
 
-<span id="fn_261"></span>[348:3](srp11.htm#fr_261) Afanasief, P. V. S.
+<span id="fn_261"></span>[348:3](srp11.htm#fr_261.md) Afanasief, P. V. S.
 I. 52. An interesting account of the riddle among savages is given by
 Mr. E. B. Tylor, " Primitive Culture," I. pp. 81-85.
 
-<span id="fn_262"></span>[350:4](srp11.htm#fr_262) See Prof. Max
+<span id="fn_262"></span>[350:4](srp11.htm#fr_262.md) See Prof. Max
 Müller's " Lectures on the Science of Language," Second Series, p. 510.
 
-<span id="fn_263"></span>[351:5](srp11.htm#fr_263) Sakharof, I. ii. 91.
-For *Buyán*, see *infra*, [p. 374](#page_374).
+<span id="fn_263"></span>[351:5](srp11.htm#fr_263.md) Sakharof, I. ii. 91.
+For *Buyán*, see *infra*, [p. 374](#page_374.md).
 
-<span id="fn_264"></span>[353:6](srp11.htm#fr_264) Afanasief, P. V. S.
+<span id="fn_264"></span>[353:6](srp11.htm#fr_264.md) Afanasief, P. V. S.
 I. 23.
 
-<span id="fn_265"></span>[354:7](srp11.htm#fr_265) Afanasief, Skazki,
+<span id="fn_265"></span>[354:7](srp11.htm#fr_265.md) Afanasief, Skazki,
 VIII. 435-459.
 
-<span id="fn_266"></span>[355:8](srp11.htm#fr_266) Afanasief, *Skazki*,
+<span id="fn_266"></span>[355:8](srp11.htm#fr_266.md) Afanasief, *Skazki*,
 II. No. 20.
 
-<span id="fn_267"></span>[356:9](srp11.htm#fr_267) Afanasief, *Skazki*,
+<span id="fn_267"></span>[356:9](srp11.htm#fr_267.md) Afanasief, *Skazki*,
 VIII. 147.
 
-<span id="fn_268"></span>[357:1](srp11.htm#fr_268) Quoted by Prof.
+<span id="fn_268"></span>[357:1](srp11.htm#fr_268.md) Quoted by Prof.
 Buslaef as a song heard in Moscow.--*Istor. Ocherki*, I. 33.
 
-<span id="fn_269"></span>[358:2](srp11.htm#fr_269) *Deutsche
+<span id="fn_269"></span>[358:2](srp11.htm#fr_269.md) *Deutsche
 Mythologie*, 348, 1197.
 
-<span id="fn_270"></span>[358:3](srp11.htm#fr_270) *Castren, Finnische
+<span id="fn_270"></span>[358:3](srp11.htm#fr_270.md) *Castren, Finnische
 Mythologie*, p. 249.
 
-<span id="fn_271"></span>[358:4](srp11.htm#fr_271) Afanasief, P. V. S.
+<span id="fn_271"></span>[358:4](srp11.htm#fr_271.md) Afanasief, P. V. S.
 I. 45.
 
-<span id="fn_272"></span>[359:5](srp11.htm#fr_272) Afanasief, P. V. S.
+<span id="fn_272"></span>[359:5](srp11.htm#fr_272.md) Afanasief, P. V. S.
 I. 404.
 
-<span id="fn_273"></span>[359:6](srp11.htm#fr_273) *Deutsche
+<span id="fn_273"></span>[359:6](srp11.htm#fr_273.md) *Deutsche
 Mythologie*, 1173.
 
-<span id="fn_274"></span>[359:7](srp11.htm#fr_274) Afanasief, P. V. S.
+<span id="fn_274"></span>[359:7](srp11.htm#fr_274.md) Afanasief, P. V. S.
 I. 414, who refers to Prof. Kuhn's remarks, \[*Herabkunft des Feuers*,
 p. 147\], as to how the power of prayer as a personification in the
 Brahma<u>n</u>aspatis takes Indra's place, and the personified worship
 destroys dragons, etc.
 
-<span id="fn_275"></span>[360:8](srp11.htm#fr_275) Orest, Miller,
+<span id="fn_275"></span>[360:8](srp11.htm#fr_275.md) Orest, Miller,
 *Opuit*. I. 73.
 
-<span id="fn_276"></span>[363:9](srp11.htm#fr_276) Zagovórs about bees
+<span id="fn_276"></span>[363:9](srp11.htm#fr_276.md) Zagovórs about bees
 are very common. In the *Deutsche Mythologie*, 1190, J. Grimm says that
 as he has met with no German *Bienensegen*, he will quote a Latin one.
 
-<span id="fn_277"></span>[364:1](srp11.htm#fr_277) Afanasief, P. V. S.
+<span id="fn_277"></span>[364:1](srp11.htm#fr_277.md) Afanasief, P. V. S.
 I. 420, from whose pages the greater part of this account is condensed.
 
-<span id="fn_278"></span>[364:2](srp11.htm#fr_278) *Deutsche
+<span id="fn_278"></span>[364:2](srp11.htm#fr_278.md) *Deutsche
 Mythologie*. pp. 1180-1183.
 
-<span id="fn_279"></span>[365:3](srp11.htm#fr_279) Quoted by Afanasief
+<span id="fn_279"></span>[365:3](srp11.htm#fr_279.md) Quoted by Afanasief
 from Nadezhdin's *Report on the Skoptsui Heresy*, one of the many
 valuable documents, it may be worth remarking, reprinted in London by
 the late Alexander Hertsen at the "Free Russian Press."
 
-<span id="fn_280"></span>[365:4](srp11.htm#fr_280) Afanasief, P. V. S.
+<span id="fn_280"></span>[365:4](srp11.htm#fr_280.md) Afanasief, P. V. S.
 I. 120.
 
-<span id="fn_281"></span>[366:5](srp11.htm#fr_281) In these spells the
+<span id="fn_281"></span>[366:5](srp11.htm#fr_281.md) In these spells the
 words "servant of God" are intended to be followed by the name of the
 utterer, or of some other person.
 
-<span id="fn_282"></span>[366:6](srp11.htm#fr_282) *Loc. cit.* p. 422.
+<span id="fn_282"></span>[366:6](srp11.htm#fr_282.md) *Loc. cit.* p. 422.
 With these Zagovór-terminations may be compared the ending of a Parsee
 *Patet* from the Khordah-Avesta (Bleek's translation, p. 171)--"This
 heavenly Patet (or confession-formulary) shall be a fast brazen wall
 like as the earth is broad, the mountains high, the heavens strong, that
 it may keep the gate of hell fast in bonds," *etc*.
 
-<span id="fn_283"></span>[366:7](srp11.htm#fr_283) *Deutsche
+<span id="fn_283"></span>[366:7](srp11.htm#fr_283.md) *Deutsche
 Mythologie*, p. 1176.
 
-<span id="fn_284"></span>[367:8](srp11.htm#fr_284) P. V. S. I. 426.
+<span id="fn_284"></span>[367:8](srp11.htm#fr_284.md) P. V. S. I. 426.
 
-<span id="fn_285"></span>[368:9](srp11.htm#fr_285) Sakharof, I. ii. 27.
+<span id="fn_285"></span>[368:9](srp11.htm#fr_285.md) Sakharof, I. ii. 27.
 
-<span id="fn_286"></span>[369:1](srp11.htm#fr_286) Sakharof, I. ii. p.
+<span id="fn_286"></span>[369:1](srp11.htm#fr_286.md) Sakharof, I. ii. p.
 34, No. 62.
 
-<span id="fn_287"></span>[374:2](srp11.htm#fr_287) Sakharof, I. ii. 19.
+<span id="fn_287"></span>[374:2](srp11.htm#fr_287.md) Sakharof, I. ii. 19.
 Every one who is interested in the subject of spells should read
 Professor Kuhn's excellent article on *Indische und germanische
 Segenssprüche* in the 13th vol. of the *Zeitschrift für vergleichende
 Sprachfarschung*.
 
-<span id="fn_288"></span>[375:3](srp11.htm#fr_288) The word Buyán was
+<span id="fn_288"></span>[375:3](srp11.htm#fr_288.md) The word Buyán was
 originally, says Afanasief, an epithet only of the fabled isle, but
 afterwards it became looked upon as its name. Even now, instead of
 *Buyán-ostrof* is written *buevoi-ostrof*. The root *bui* is synonymous
@@ -2704,10 +2704,10 @@ from the fact that *bui* and *buivishche* mean the fenced-in ground
 around a church, in which the dead used to be buried, and *buevo* is a
 name for a cemetery. \[P. V. S. II. 140.\]
 
-<span id="fn_289"></span>[376:4](srp11.htm#fr_289) The epithet *goryuch*
+<span id="fn_289"></span>[376:4](srp11.htm#fr_289.md) The epithet *goryuch*
 means inflammable, easily set on fire.
 
-<span id="fn_290"></span>[377:5](srp11.htm#fr_290) P. V. S. II. 148,
+<span id="fn_290"></span>[377:5](srp11.htm#fr_290.md) P. V. S. II. 148,
 149. In a note to this passage (III. 800, 801) Afanasief remarks, "The
 Russian alatuir and the Greek ἤλεκτρον are derived from a root which in
 Sanskrit is found under the form *ark* ( = αλκ), to flash, to emit rays
@@ -2716,7 +2716,7 @@ e. the Shining One, ἤλεκτρον = shining metal (a mixture of gold and
 silver)"--and so = *Alatuir* in its form *latuir* or *lak-tuir*. Dahl in
 his great dictionary looks on *yantar* as a Tartar form of *êlektron*.
 
-<span id="fn_291"></span>[378:6](srp11.htm#fr_291) Of the numerous names
+<span id="fn_291"></span>[378:6](srp11.htm#fr_291.md) Of the numerous names
 for the wizard and the witch, those of *Vyédun* and *Vyéd'ma*, springing
 as they do from a root *vyed*, answering to the Sanskrit *vid*, mean
 people who know, having exactly the same primary signification as two
@@ -2739,69 +2739,69 @@ comparing *Vlkhva* with the like-meaning Scandinavian name of *völva*,
 *völa*, *vala*.--See Afanasief, P. V. S. I. 405-409, III. 423-426; and
 Buslaef, O Vliyanii Khristianstva, pp. 21-24.
 
-<span id="fn_292"></span>[380:7](srp11.htm#fr_292) By the peasantry, of
+<span id="fn_292"></span>[380:7](srp11.htm#fr_292.md) By the peasantry, of
 course. Their superiors in social rank are said to have been wont in
 former days to lay equal stress on the presence of a general. Satirists
 declared that the confectioner who contracted for the wedding-breakfast
 always asked his customers whether they supplied "their own generals."
 
-<span id="fn_293"></span>[381:8](srp11.htm#fr_293) A Bohemian version of
+<span id="fn_293"></span>[381:8](srp11.htm#fr_293.md) A Bohemian version of
 this story is given by Grohmann, *Aberglauben ... aus Böhmen, etc*., p.
 31.
 
-<span id="fn_294"></span>[382:9](srp11.htm#fr_294) Afanasief, P. V. S.
+<span id="fn_294"></span>[382:9](srp11.htm#fr_294.md) Afanasief, P. V. S.
 III. 448.
 
-<span id="fn_295"></span>[383:1](srp11.htm#fr_295) Afanasief, P. V. S.
+<span id="fn_295"></span>[383:1](srp11.htm#fr_295.md) Afanasief, P. V. S.
 III. 450.
 
-<span id="fn_296"></span>[384:2](srp11.htm#fr_296) Afanasief, P. V. S.
+<span id="fn_296"></span>[384:2](srp11.htm#fr_296.md) Afanasief, P. V. S.
 III. 455.
 
-<span id="fn_297"></span>[384:3](srp11.htm#fr_297) Afanasief, P. V. S.
+<span id="fn_297"></span>[384:3](srp11.htm#fr_297.md) Afanasief, P. V. S.
 III. 456.
 
-<span id="fn_298"></span>[387:4](srp11.htm#fr_298) Afanasief, P. V. S.
+<span id="fn_298"></span>[387:4](srp11.htm#fr_298.md) Afanasief, P. V. S.
 III. 497.
 
-<span id="fn_299"></span>[388:5](srp11.htm#fr_299) Afanasief, P. V. S.
+<span id="fn_299"></span>[388:5](srp11.htm#fr_299.md) Afanasief, P. V. S.
 III. 434.
 
-<span id="fn_300"></span>[389:6](srp11.htm#fr_300) Afanasief, P. V. S.
+<span id="fn_300"></span>[389:6](srp11.htm#fr_300.md) Afanasief, P. V. S.
 III. 437.
 
-<span id="fn_301"></span>[390:7](srp11.htm#fr_301) A similar belief is
+<span id="fn_301"></span>[390:7](srp11.htm#fr_301.md) A similar belief is
 said to be still prevalent in England.
 
-<span id="fn_302"></span>[392:8](srp11.htm#fr_302) Afanasief, P. V. S.
+<span id="fn_302"></span>[392:8](srp11.htm#fr_302.md) Afanasief, P. V. S.
 III. 516.
 
-<span id="fn_303"></span>[394:9](srp11.htm#fr_303) Sakharof, I. iii.
-202.--See also *supra*, [p. 23](srp04.htm#page_23).
+<span id="fn_303"></span>[394:9](srp11.htm#fr_303.md) Sakharof, I. iii.
+202.--See also *supra*, [p. 23](srp04.htm#page_23.md).
 
-<span id="fn_304"></span>[397:1](srp11.htm#fr_304) Orest Miller,
+<span id="fn_304"></span>[397:1](srp11.htm#fr_304.md) Orest Miller,
 *Opuit*, I. 10.
 
-<span id="fn_305"></span>[398:2](srp11.htm#fr_305) See *supra*, [p.
-251](srp08.htm#page_251).
+<span id="fn_305"></span>[398:2](srp11.htm#fr_305.md) See *supra*, [p.
+251](srp08.htm#page_251.md).
 
-<span id="fn_306"></span>[399:3](srp11.htm#fr_306) Tereshchenko, VI. 41.
+<span id="fn_306"></span>[399:3](srp11.htm#fr_306.md) Tereshchenko, VI. 41.
 
-<span id="fn_307"></span>[400:4](srp11.htm#fr_307) *Chur*--here
+<span id="fn_307"></span>[400:4](srp11.htm#fr_307.md) *Chur*--here
 translated "meddle not is now an exclamation, or a word meaning a border
 or boundary, but was once the name of a friendly deity resembling the
 Roman Terminus.
 
-<span id="fn_308"></span>[400:5](srp11.htm#fr_308) *Ethnograf. Sbornik*,
+<span id="fn_308"></span>[400:5](srp11.htm#fr_308.md) *Ethnograf. Sbornik*,
 VI. Mezhof's article, pp. 63-65.
 
-<span id="fn_309"></span>[401:6](srp11.htm#fr_309) Tereshchenko, VI. 42.
+<span id="fn_309"></span>[401:6](srp11.htm#fr_309.md) Tereshchenko, VI. 42.
 
-<span id="fn_310"></span>[402:7](srp11.htm#fr_310) Afanasief, P. V. S
+<span id="fn_310"></span>[402:7](srp11.htm#fr_310.md) Afanasief, P. V. S
 III. 114-116. A number of similar superstitions are given in the
 *Deutsche Mythologie*, art. *Pest*, pp. 1133-1141.
 
-<span id="fn_311"></span>[403:8](srp11.htm#fr_311) This is Afanasief's
+<span id="fn_311"></span>[403:8](srp11.htm#fr_311.md) This is Afanasief's
 explanation (P. V. S. III. 527). Dahl suggests *volk* and *kúdla*, the
 latter word signifying something shaggy, <span id="page_404">p.
 404</span> a hide, etc. The Great-Russian *volkodlák* becomes, says
@@ -2809,84 +2809,84 @@ Afanasief, in Little-Russian *vovkulak*, in Bohemian *wlkodlak*, in
 Servian *vukodlak* in Dalmatian *vakudluk*, in Bulgarian *vrkodlak*, in
 Lett *wilkats*.
 
-<span id="fn_312"></span>[404:9](srp11.htm#fr_312) A long list of
+<span id="fn_312"></span>[404:9](srp11.htm#fr_312.md) A long list of
 references is given by Mr. Tylor in his "Primitive Culture," I. 279-284.
 
-<span id="fn_313"></span>[405:1](srp11.htm#fr_313) There is a Bohemian
+<span id="fn_313"></span>[405:1](srp11.htm#fr_313.md) There is a Bohemian
 tradition, however, that the devil invented mice in order to destroy
 "God's corn," whereupon God created the cat.
 
-<span id="fn_314"></span>[406:2](srp11.htm#fr_314) Sakharof, I. ii. 28.
+<span id="fn_314"></span>[406:2](srp11.htm#fr_314.md) Sakharof, I. ii. 28.
 
-<span id="fn_315"></span>[406:3](srp11.htm#fr_315) *Istor. Ocherki*, I.
+<span id="fn_315"></span>[406:3](srp11.htm#fr_315.md) *Istor. Ocherki*, I.
 36.
 
-<span id="fn_316"></span>[408:4](srp11.htm#fr_316) Afanasief, P. V. S.
+<span id="fn_316"></span>[408:4](srp11.htm#fr_316.md) Afanasief, P. V. S.
 III. 549-553.
 
-<span id="fn_317"></span>[409:5](srp11.htm#fr_317) Afanasief, P. V. S.
+<span id="fn_317"></span>[409:5](srp11.htm#fr_317.md) Afanasief, P. V. S.
 III. 552.
 
-<span id="fn_318"></span>[412:6](srp11.htm#fr_318) Afanasief, P. V. S.
+<span id="fn_318"></span>[412:6](srp11.htm#fr_318.md) Afanasief, P. V. S.
 III. 558.
 
-<span id="fn_319"></span>[412:7](srp11.htm#fr_319) Afanasief, P. V. S.
+<span id="fn_319"></span>[412:7](srp11.htm#fr_319.md) Afanasief, P. V. S.
 in. 559-568.
 
-<span id="fn_320"></span>[412:8](srp11.htm#fr_320) Afanasief, P. V. S.
+<span id="fn_320"></span>[412:8](srp11.htm#fr_320.md) Afanasief, P. V. S.
 III. 565.
 
-<span id="fn_321"></span>[413:9](srp11.htm#fr_321) Quoted by Afanasief,
+<span id="fn_321"></span>[413:9](srp11.htm#fr_321.md) Quoted by Afanasief,
 P. V. S. III. 576.
 
-<span id="fn_322"></span>[414:1](srp11.htm#fr_322) Afanasief, P. V. S.
+<span id="fn_322"></span>[414:1](srp11.htm#fr_322.md) Afanasief, P. V. S.
 III. 571.
 
-<span id="fn_323"></span>[414:2](srp11.htm#fr_323) *Deutsche
+<span id="fn_323"></span>[414:2](srp11.htm#fr_323.md) *Deutsche
 Mythologie*, 1035.
 
-<span id="fn_324"></span>[415:3](srp11.htm#fr_324) Afanasief, P. V. S.
+<span id="fn_324"></span>[415:3](srp11.htm#fr_324.md) Afanasief, P. V. S.
 III. 584.
 
-<span id="fn_325"></span>[417:4](srp11.htm#fr_325) Afanasief, P. V. S.
+<span id="fn_325"></span>[417:4](srp11.htm#fr_325.md) Afanasief, P. V. S.
 483.
 
-<span id="fn_326"></span>[417:5](srp11.htm#fr_326) Orest Miller,
+<span id="fn_326"></span>[417:5](srp11.htm#fr_326.md) Orest Miller,
 *Opuit*, etc. I. 67-69.
 
-<span id="fn_327"></span>[419:6](srp11.htm#fr_327) Afanasief, P. V. S.
+<span id="fn_327"></span>[419:6](srp11.htm#fr_327.md) Afanasief, P. V. S.
 III. 596-599.
 
-<span id="fn_328"></span>[423:7](srp11.htm#fr_328) Quoted from
+<span id="fn_328"></span>[423:7](srp11.htm#fr_328.md) Quoted from
 Maksimof's "Year in Siberia," by Afanasief, P. V. S. III. 66.
 
-<span id="fn_329"></span>[424:8](srp11.htm#fr_329) Afanasief, P. V. S.
+<span id="fn_329"></span>[424:8](srp11.htm#fr_329.md) Afanasief, P. V. S.
 III. 637.
 
-<span id="fn_330"></span>[426:9](srp11.htm#fr_330) Afanasief, P. V. S.
+<span id="fn_330"></span>[426:9](srp11.htm#fr_330.md) Afanasief, P. V. S.
 III. 572-574.
 
-<span id="fn_331"></span>[427:1](srp11.htm#fr_331) " Primitive Culture,"
+<span id="fn_331"></span>[427:1](srp11.htm#fr_331.md) " Primitive Culture,"
 I. 125.
 
-<span id="fn_332"></span>[429:2](srp11.htm#fr_332) The word occurs in
+<span id="fn_332"></span>[429:2](srp11.htm#fr_332.md) The word occurs in
 the *Kormchaya Kniga*--in a copy dated A.D. 1282--and in the
 *Domostroi*.
 
-<span id="fn_333"></span>[430:3](srp11.htm#fr_333) Afanasief, P. V. S.
+<span id="fn_333"></span>[430:3](srp11.htm#fr_333.md) Afanasief, P. V. S.
 III. 466-469.
 
-<span id="fn_334"></span>[431:4](srp11.htm#fr_334) P. V. S. II. 488.
+<span id="fn_334"></span>[431:4](srp11.htm#fr_334.md) P. V. S. II. 488.
 
-<span id="fn_335"></span>[432:5](srp11.htm#fr_335) Afanasief, P. V. S.
+<span id="fn_335"></span>[432:5](srp11.htm#fr_335.md) Afanasief, P. V. S.
 III. 556.
 
-<span id="fn_336"></span>[432:6](srp11.htm#fr_336) Afanasief, P. V. S.
+<span id="fn_336"></span>[432:6](srp11.htm#fr_336.md) Afanasief, P. V. S.
 III. 564.
 
-<span id="fn_337"></span>[433:7](srp11.htm#fr_337) Tree and Serpent
+<span id="fn_337"></span>[433:7](srp11.htm#fr_337.md) Tree and Serpent
 Worship, p 73.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix A: Bibliography](srp12)
+[Next: Appendix A: Bibliography](srp12.md)

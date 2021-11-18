@@ -8,16 +8,16 @@ THE JEWISH ENCYCLOPEDIA
 
 ##### INDEX TO SECTION HEADINGS
 
--   [No Fixed Dogmas](#no_fixed)
--   [No Need for Creeds in Judaism](#no_need)
--   [Evolution of Judaism](#evolution)
--   [Discussions and Dogmatism Disfavored](#discussion)
--   [The Decalogue as a Summary](#decalogue)
--   [Saadia's, Judah ha-Levi's and Bahya's Creed](#saadia)
--   [Ibn Daud and Hananel ben Hushiel](#ibn_daud)
--   [The Thirteen Articles of Maimonides](#thirteen)
--   [Modern Catechisms](#modern)
--   [Bibliography](#bibliogaphy)
+-   [No Fixed Dogmas](#no_fixed.md)
+-   [No Need for Creeds in Judaism](#no_need.md)
+-   [Evolution of Judaism](#evolution.md)
+-   [Discussions and Dogmatism Disfavored](#discussion.md)
+-   [The Decalogue as a Summary](#decalogue.md)
+-   [Saadia's, Judah ha-Levi's and Bahya's Creed](#saadia.md)
+-   [Ibn Daud and Hananel ben Hushiel](#ibn_daud.md)
+-   [The Thirteen Articles of Maimonides](#thirteen.md)
+-   [Modern Catechisms](#modern.md)
+-   [Bibliography](#bibliogaphy.md)
 
   
   

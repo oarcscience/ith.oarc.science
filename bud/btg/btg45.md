@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg44)  [Next](btg46) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg44)  [Next](btg46.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ world and cannot be hidden. There is no secrecy about them."
 
 ------------------------------------------------------------------------
 
-[Next: The Annihilation Of Suffering](btg46)
+[Next: The Annihilation Of Suffering](btg46.md)

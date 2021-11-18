@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/ham)  [Previous](../cym/cym) 
-[Next](../jc/jc) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/ham)  [Previous](../cym/cym.md) 
+[Next](../jc/jc.md) 
 
 ------------------------------------------------------------------------
 
@@ -6056,4 +6056,4 @@ Index](../index)  [First Folio](../ff/ham)  [Previous](../cym/cym) 
 
 ------------------------------------------------------------------------
 
-[Next: Julius Caeser](../jc/jc) 
+[Next: Julius Caeser](../jc/jc.md) 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc06)  [Next](moc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc06)  [Next](moc08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -152,13 +152,13 @@ was to exaggerate sexual characteristics for some special reason.
 The evidence derived in this connection from other cultural areas is of
 undoubted value and interest. In Babylonia terra-cotta figurines, "with
 accentuation of the female parts", represented Ishtar in her character
-as the goddess of love and passion. <span id="fr_58"></span>[1](#fn_58)
+as the goddess of love and passion. <span id="fr_58"></span>[1](#fn_58.md)
 The steatopygous figurines which have been found in the prehistoric
 "sanctuaries" of Malta were associated with perforated axe amulets and
 other magical or religious ornaments. In some of the pre-Dynastic graves
 of Egypt occur figurines of two types: those of slim-waisted women and
 those of steatopygous females with short beards. <span
-id="fr_59"></span>[2](#fn_59) It is not improbable that the Aurignacian,
+id="fr_59"></span>[2](#fn_59.md) It is not improbable that the Aurignacian,
 like the early Egyptian figurines, were tribal forms of the ancient love
 goddess and that the original "bearded Aphrodite" had a racial
 significance.
@@ -198,7 +198,7 @@ burial customs and the ravages of disease. Bush women sacrificed a joint
 of the little finger when a near relation died, and Canadian natives
 acted similarly during times of pestilence "to cut off deaths". Finger
 mutilation in Australia was, among other things, occasionally a mark of
-caste. <span id="fr_60"></span>[1](#fn_60)
+caste. <span id="fr_60"></span>[1](#fn_60.md)
 
 References are made to finger-mutilation in Gaelic stories. After or
 before great heroes performed deeds of valour, fighting against monsters
@@ -208,7 +208,7 @@ portion of skin from the top of the head. In the story of Conall Gulban
 a "great man" came to carry off the lady called "Breast of Light", while
 Conall, her lover, lay asleep. "Fear would not let her cut off the
 little finger," it is stated, "and she could not awaken Conall." <span
-id="fr_61"></span>[2](#fn_61) This savage practice had evidently a
+id="fr_61"></span>[2](#fn_61.md) This savage practice had evidently a
 magical significance. It may have been intended to renew strength and
 prolong life, and perhaps also to ward off threatened perils. In the
 latter case it may have been associated with the ceremony of
@@ -227,7 +227,7 @@ English writer, "to avoid approaching danger, are taught to double the
 thumb within the hand. This was much practised whilst the terrors of
 witchcraft remained. . . . It was the custom to fold the thumbs of dead
 persons within the hand, to prevent the power of evil spirits over the
-deceased." <span id="fr_62"></span>[1](#fn_62) In India the upper
+deceased." <span id="fr_62"></span>[1](#fn_62.md) In India the upper
 finger-joints are lucky, and the lower unlucky. Consequently the former
 only are used at prayer-counting. Throughout Europe much attention was
 paid to the fingers. The small finger was spat over for luck, and the
@@ -265,7 +265,7 @@ made, one on each side of the door, with oil and charcoal, for the same
 purpose. At Kadur, in the Mysore Province, I once saw impressions of the
 hand on the walls of Brahman houses. Impressions in red paint of a hand
 with outspread fingers may be seen on the walls of mosques and
-Mohammedan buildings." <span id="fr_63"></span>[1](#fn_63) In many
+Mohammedan buildings." <span id="fr_63"></span>[1](#fn_63.md) In many
 Eur-Asian folk-tales the "Great Hand" is the only visible part of a
 destructive demon.
 
@@ -326,14 +326,14 @@ was shown for the wonderful skimming flies which were supposed to
 cleanse it of mud after it was disturbed. Luck-drinking was not uncommon
 in other days. Grose says: "There is a kind of beverage called 'foot
 ale' required from one entering on a new occupation". <span
-id="fr_64"></span>[1](#fn_64) The "first-footing" ceremonies in Scotland
+id="fr_64"></span>[1](#fn_64.md) The "first-footing" ceremonies in Scotland
 and elsewhere on New Year's Day are the occasion for much eating and
 drinking. The familiar phrase, "putting one's foot in it", appears to
 have an interesting history.
 
 "It is a world-wide superstition", says Professor Frazer, "that by
 injuring footprints you injure the feet that made them." <span
-id="fr_65"></span>[2](#fn_65) If, then, these line-surrounded footprints
+id="fr_65"></span>[2](#fn_65.md) If, then, these line-surrounded footprints
 on the Brittany stones were not intended to protect individuals who
 visited them to perform magical ceremonies, they may have been inscribed
 to restrict the wanderings of the ghosts of heroes buried underneath.
@@ -344,7 +344,7 @@ living.
 A naked human footprint, which is not surrounded by these meandering and
 interlacing lines, survives on fine undisturbed sand on the floor of an
 Aurignacian cave (Altamira), near drawings of panting trout and a
-wounded bison. <span id="fr_66"></span>[3](#fn_66) In this case the
+wounded bison. <span id="fr_66"></span>[3](#fn_66.md) In this case the
 Palæolithic cave-dweller may
 
 <span id="page_36">p. 36</span>
@@ -367,14 +367,14 @@ Palæolithic artists, in caves and elsewhere, were tribal or family
 totems. The following view is highly suggestive. "All the beasts thus
 represented (in caves)," says Professor Frazer, "appear to be edible,
 and none of them to be fierce carnivorous creatures. <span
-id="fr_67"></span>[1](#fn_67) Hence it has been ingeniously suggested by
+id="fr_67"></span>[1](#fn_67.md) Hence it has been ingeniously suggested by
 M. S. Reinach that the intention of these works of art may have been to
 multiply by magic the animals so represented. . . . He infers that the
 comparatively high development of prehistoric art in Europe . . . may
 have been due in large measure to the practice of sympathetic magic."
 
 Professor Frazer, quoting from Messrs. Spencer and Gillen, <span
-id="fr_68"></span>[2](#fn_68) shows that the native Australians perform
+id="fr_68"></span>[2](#fn_68.md) shows that the native Australians perform
 magical ceremonies "to multiply the kangaroos and emus". "The men of the
 emu totem in the Arunta tribe proceed as follows. They clear a small
 spot of level ground, and,
@@ -393,7 +393,7 @@ figures of kangaroos on a rocky ledge, which they also decorate with
 white bones of the kangaroo." The rock is reputed to be inhabited by
 kangaroo spirits which are waiting for mothers, and they are supposed to
 be driven out when human blood is poured over the ledge. <span
-id="fr_69"></span>[1](#fn_69)
+id="fr_69"></span>[1](#fn_69.md)
 
 M. S. Reinach's theory regarding the magical significance of Aurignacian
 art seems to be confirmed by a piece of chance evidence which has been
@@ -436,7 +436,7 @@ depicted. Magical images were also made in Greece and Rome, and they are
 still being produced in various parts of the world. The Scottish
 Highland *corp chreadh* ("clay body") was an image of an individual whom
 the maker desired to afflict or slay magically. <span
-id="fr_70"></span>[1](#fn_70) Pins or nails were stuck into it so that
+id="fr_70"></span>[1](#fn_70.md) Pins or nails were stuck into it so that
 the victim might suffer pain, and it was placed in running water so that
 he might "waste away". Images of fish, turtle, and dugong
 
@@ -446,7 +446,7 @@ were made by the islanders of Torres Straits and taken with them when
 they went fishing, with the idea that the image lured the real animal to
 its destruction; and men of the dugong clan, who were symbolically
 decorated, made mimetic movements with a dead dugong to constrain others
-to come and be caught." <span id="fr_71"></span>[1](#fn_71) The
+to come and be caught." <span id="fr_71"></span>[1](#fn_71.md) The
 Palæolithic artists may have utilized the fragments of slate, stone,
 &c., on which animals were depicted for a similar purpose.
 
@@ -477,7 +477,7 @@ wild animals, which
 
 were skilfully posed so as to combine utility with artistic excellence.
 Decoration was evidently, as M. Piette has insisted, generated primarily
-by the imitative instinct. <span id="fr_72"></span>[1](#fn_72)
+by the imitative instinct. <span id="fr_72"></span>[1](#fn_72.md)
 
 Magdalenian art, like the Aurignacian, appears also to have derived
 inspiration from custom and belief. "Every weapon has its demon," runs
@@ -532,7 +532,7 @@ was supposed to pass to the warriors who charmed their heads with them,
 just as the virtue of the crawfish toe with which Cherokee women have
 been wont to scratch their babies' hands was supposed to pass to the
 child thus treated, and give him in after life a powerful grip. <span
-id="fr_73"></span>[1](#fn_73) It appears to have been believed that the
+id="fr_73"></span>[1](#fn_73.md) It appears to have been believed that the
 
 <span id="page_42">p. 42</span>
 
@@ -667,7 +667,7 @@ comfort. . . . The courage involved
 <span id="page_46">p. 46</span>
 
 in all live religion normally co-exists with a certain modesty or
-humility." <span id="fr_74"></span>[1](#fn_74)
+humility." <span id="fr_74"></span>[1](#fn_74.md)
 
 This religious feeling necessitated the recognition of supernatural
 will. It brought to the stricken heart a dim conception of a divine
@@ -718,7 +718,7 @@ have the title of Olympians; those whose department is that of
 calamities and punishments have harsher titles; to the first class both
 private persons and states erect altars and temples; the second is not
 worshipped either with prayers or burnt sacrifices, but in their case we
-perform ceremonies of riddance." <span id="fr_75"></span>[1](#fn_75) In
+perform ceremonies of riddance." <span id="fr_75"></span>[1](#fn_75.md) In
 India the ritualistic Brahmans performed magical acts to prevent the
 demons intercepting sacrifices intended for the gods. Egyptian priests
 practised magic to influence the gods, although they also made offerings
@@ -796,7 +796,7 @@ civilization, are displayed in Aurignacian cave-paintings. Even the
 Assyrian goddess's postures are earlier than Assyrian civilization. An
 ivory carving of Ishtar as an Egyptian goddess has been discovered at
 Kuyunjik. "The Egyptian character of the figure", writes Mr. L. W.
-King, <span id="fr_76"></span>[1](#fn_76) "leaps to the eye. . . . In
+King, <span id="fr_76"></span>[1](#fn_76.md) "leaps to the eye. . . . In
 fact, everything about the figure is Egyptian with one exception-the
 position of the hands. The fact that the goddess holds her breasts at
 once betrays her Asiatic character. . . . The type, in fact, is
@@ -821,74 +821,74 @@ Race.
 
 ### Footnotes
 
-<span id="fn_58"></span>[30:1](moc07.htm#fr_58) *Religious Belief in
+<span id="fn_58"></span>[30:1](moc07.htm#fr_58.md) *Religious Belief in
 Babylonia and Assyria*, Morris Jastrow, pp. 136 *et seq*.
 
-<span id="fn_59"></span>[30:2](moc07.htm#fr_59) The female beards
+<span id="fn_59"></span>[30:2](moc07.htm#fr_59.md) The female beards
 suggest that this race's area of characterization was a cold country. On
 the other hind, it may be held that we have here the earliest evidence
 of belief in "intermediate types" among the ancient Egyptians.
 
-<span id="fn_60"></span>[31:1](moc07.htm#fr_60) See *Travels in the
+<span id="fn_60"></span>[31:1](moc07.htm#fr_60.md) See *Travels in the
 Interior of Southern Africa*, W. J. Burchell, Vol. II., p. 61 (1824);
 The Native Races of South Africa, G. W. Stow, p. 129 (1905); *Report on
 the North-Western Tribes of Canada*, Representative of the British
 Association (1889); p. 837; and *Ancient Hunters*, W. J. Sollas, pp. 238
 *et seq*. (1911).
 
-<span id="fn_61"></span>[31:2](moc07.htm#fr_61) Campbell's *West
+<span id="fn_61"></span>[31:2](moc07.htm#fr_61.md) Campbell's *West
 Highland Tales*, Vol. III, p. 225.
 
-<span id="fn_62"></span>[32:1](moc07.htm#fr_62) Hutchinson's *History of
+<span id="fn_62"></span>[32:1](moc07.htm#fr_62.md) Hutchinson's *History of
 Northumberland*, Vol. 14 p. 4.
 
-<span id="fn_63"></span>[33:1](moc07.htm#fr_63) *Omens and Superstitions
+<span id="fn_63"></span>[33:1](moc07.htm#fr_63.md) *Omens and Superstitions
 of Southern India*, p. 119 (1912), and *Journal of Anthropological
 Institute*, XIX, p. 56 (1890).
 
-<span id="fn_64"></span>[35:1](moc07.htm#fr_64) Brand's Antiquities,
+<span id="fn_64"></span>[35:1](moc07.htm#fr_64.md) Brand's Antiquities,
 Vol. II, p. 333.
 
-<span id="fn_65"></span>[35:2](moc07.htm#fr_65) *The Golden Bough* (The
+<span id="fn_65"></span>[35:2](moc07.htm#fr_65.md) *The Golden Bough* (The
 Magic Art), Vol. I., pp. 207 *et seq*. Professor Frazer gives numerous
 illustrations of this belief.
 
-<span id="fn_66"></span>[35:3](moc07.htm#fr_66) *Ancient Hunters*, W. J.
+<span id="fn_66"></span>[35:3](moc07.htm#fr_66.md) *Ancient Hunters*, W. J.
 Sollas, p. 235.
 
-<span id="fn_67"></span>[36:1](moc07.htm#fr_67) Bears are depicted on
+<span id="fn_67"></span>[36:1](moc07.htm#fr_67.md) Bears are depicted on
 stones, &c., but evidence has been forthcoming that these were eaten. It
 is possible that the primitive hunters feasted also on the flesh of the
 mammoth and woolly rhinoceros.
 
-<span id="fn_68"></span>[36:2](moc07.htm#fr_68) *Native Tribes of
+<span id="fn_68"></span>[36:2](moc07.htm#fr_68.md) *Native Tribes of
 Central Australia*, p. 176.
 
-<span id="fn_69"></span>[37:1](moc07.htm#fr_69) *The Golden Bough* ("The
+<span id="fn_69"></span>[37:1](moc07.htm#fr_69.md) *The Golden Bough* ("The
 Magic Art"), Vol. I., pp. 85-8, third edition.
 
-<span id="fn_70"></span>[38:1](moc07.htm#fr_70) J. G. Campbell's
+<span id="fn_70"></span>[38:1](moc07.htm#fr_70.md) J. G. Campbell's
 *Witchcraft and Second Sight in the Highlands and Islands of Scotland*
 (1902), pp. 46-8. The custom is not yet obsolete.
 
-<span id="fn_71"></span>[39:1](moc07.htm#fr_71) *Magic and Fetishism*,
+<span id="fn_71"></span>[39:1](moc07.htm#fr_71.md) *Magic and Fetishism*,
 A. C. Haddon, p. 19 (London, 1906).
 
-<span id="fn_72"></span>[40:1](moc07.htm#fr_72) L'Art pendant l'Age du
+<span id="fn_72"></span>[40:1](moc07.htm#fr_72.md) L'Art pendant l'Age du
 Renne.
 
-<span id="fn_73"></span>[41:1](moc07.htm#fr_73) *Nineteenth Annual
+<span id="fn_73"></span>[41:1](moc07.htm#fr_73.md) *Nineteenth Annual
 Report of the Bureau of American Ethnology*, p. 308, (Washington, 1900.)
 
-<span id="fn_74"></span>[46:1](moc07.htm#fr_74) *The Birth of Humility
+<span id="fn_74"></span>[46:1](moc07.htm#fr_74.md) *The Birth of Humility
 and Anthropology*, p. 212.
 
-<span id="fn_75"></span>[47:1](moc07.htm#fr_75) Isocrates, *Orations*,
+<span id="fn_75"></span>[47:1](moc07.htm#fr_75.md) Isocrates, *Orations*,
 V, p. 117.
 
-<span id="fn_76"></span>[49:1](moc07.htm#fr_76) The Journal of Egyptian
+<span id="fn_76"></span>[49:1](moc07.htm#fr_76.md) The Journal of Egyptian
 Archæology, Vol. I, Part II, pp. 107 *et seq*. (1914).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Ancient Peoples of the Goddess Cult](moc08)
+[Next: Chapter III. Ancient Peoples of the Goddess Cult](moc08.md)

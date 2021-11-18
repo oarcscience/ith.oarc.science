@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](sym09) 
-[Next](sym11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](sym09.md) 
+[Next](sym11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symzonia; Voyage of Discovery*, by Adam Seaborn (pseud. John Cleves
 Symmes?), \[1820\], at Intangible Textual Heritage
 
@@ -70,7 +70,7 @@ sublime theory, I immediately named <span
 class="smallcaps">Symzonia</span>. The coast lay about S. S. W. and N.
 N. E. In the roadstead we were sheltered from all winds except those
 which blew directly along shore. These were not much to be feared, for
-we had found the [prevailing](errata.htm#3) W. S. W. winds to blow as
+we had found the [prevailing](errata.htm#3.md) W. S. W. winds to blow as
 steady as a trade wind for several days without any gales or stormy
 weather.
 
@@ -397,4 +397,4 @@ where she was, and none of the people be permitted to go out of her.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](sym11)
+[Next: Chapter VIII](sym11.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb41)  [Next](wfb43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb41)  [Next](wfb43.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ Banditti, who had robbed his mother, on the trees of their forest lair.
 
 ------------------------------------------------------------------------
 
-[Next: Another Changeling](wfb43)
+[Next: Another Changeling](wfb43.md)

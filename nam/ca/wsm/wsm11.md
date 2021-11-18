@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm10)  [Next](wsm12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm10)  [Next](wsm12.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ She said to Coyote and the girl, "You go and make a bed outside." Coyote
 
 In the morning the old woman said to Coyote, "You go and hunt ducks.
 There are a lot of arrows out there. Take them with you. Hunt all day
-and kill many ducks." <span id="fr_13"></span>[14](#fn_13)
+and kill many ducks." <span id="fr_13"></span>[14](#fn_13.md)
 
 Coyote hunted all day and brought back a great many ducks. The old woman
 plucked them and boiled them in a pot. She and her daughter ate the
@@ -90,12 +90,12 @@ in it." He decided to open it. He took a rock and hammered open the
 stopper. At once people jumped out. Many people jumped out. Nearly all
 the people jumped out. There were young men and young women. These were
 fine looking men and women. This happened near Saline Valley. <span
-id="fr_14"></span>[15](#fn_14)
+id="fr_14"></span>[15](#fn_14.md)
 
 When only a few people remained in the jug, Coyote put the stopper back
 in. He carried the jug on his back and went on toward his own country.
 When he had gone half way, he opened it again. This was at Owens
-River. <span id="fr_15"></span>[16](#fn_15) Old and homely people came
+River. <span id="fr_15"></span>[16](#fn_15.md) Old and homely people came
 out. A great many people came out. Then Coyote threw away the jug.
 
 That is how men and women were made.
@@ -104,14 +104,14 @@ That is how men and women were made.
 
 ### Footnotes
 
-<span id="fn_13"></span>[264:14](wsm11.htm#fr_13) T. 8. did not know the
+<span id="fn_13"></span>[264:14](wsm11.htm#fr_13.md) T. 8. did not know the
 source of these arrows, but supposed that the old woman had made them.
 
-<span id="fn_14"></span>[265:15](wsm11.htm#fr_14) These are Shoshoni.
+<span id="fn_14"></span>[265:15](wsm11.htm#fr_14.md) These are Shoshoni.
 
-<span id="fn_15"></span>[265:16](wsm11.htm#fr_15) These are Northern
+<span id="fn_15"></span>[265:16](wsm11.htm#fr_15.md) These are Northern
 Paiute.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of People (Ash Meadows, Nevada. Shoshoni)](wsm12)
+[Next: The Origin of People (Ash Meadows, Nevada. Shoshoni)](wsm12.md)

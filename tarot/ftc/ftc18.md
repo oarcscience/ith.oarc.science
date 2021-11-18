@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](ftc17)  [Next](ftc19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](ftc17)  [Next](ftc19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte.md)
 
 </div>
 
@@ -165,6 +165,6 @@ wishes and good will, whilst spades carry a sinister import.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. A Rhyming Divination](ftc19)
+[Next: Chapter XVII. A Rhyming Divination](ftc19.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh11)  [Next](ulh13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh11)  [Next](ulh13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 The costume of the hula dancer was much the same for both sexes, its
 chief article a simple short skirt about the waist, the pa-ú. ([Pl.
-I.](ulh00.htm#img_pl01))
+I.](ulh00.htm#img_pl01).md)
 
 When the time has come for a dance, the halau becomes one common
 dressing room. At a signal from the kumu the work begins. The putting on
@@ -35,13 +35,13 @@ chant the song of the anklet:
 
 <div style="margin-left: 32px">
 
-Aala kupukupu <span id="fr_87"></span>[a](#fn_86) ka uka o
-Kane-hoa. <span id="fr_88"></span>[b](#fn_87)  
-E ho-a! <span id="fr_89"></span>[c](#fn_88)  
+Aala kupukupu <span id="fr_87"></span>[a](#fn_86.md) ka uka o
+Kane-hoa. <span id="fr_88"></span>[b](#fn_87.md)  
+E ho-a! <span id="fr_89"></span>[c](#fn_88.md)  
 Hoa na lima o ka makani, he Wai-kaloa. <span
-id="fr_90"></span>[d](#fn_89)  
+id="fr_90"></span>[d](#fn_89.md)  
 He Wai-kaloa ka makani anu Lihue.  
-5 Alina <span id="fr_91"></span>[e](#fn_90) lehua i kau ka opua--  
+5 Alina <span id="fr_91"></span>[e](#fn_90.md) lehua i kau ka opua--  
 Ku’u pua,  
 Ku’u pua i’ini e ku-i a lei.  
 Ina ia oe ke lei ’a mai la.
@@ -132,23 +132,23 @@ that sets forth in grandiloquent imagery the praise of the pa-ú.
 
 <div style="margin-left: 32px">
 
-Kakua pa-ú, ahu na kikepa! <span id="fr_92"></span>[a](#fn_91)  
+Kakua pa-ú, ahu na kikepa! <span id="fr_92"></span>[a](#fn_91.md)  
 I ka pa-ú noenoe i hooluu’a,  
 I hookakua ia a paa iluna o ka imu. <span
-id="fr_93"></span>[b](#fn_92)  
-Ku ka hu’a <span id="fr_94"></span>[c](#fn_93) o ka pali o ka wai
+id="fr_93"></span>[b](#fn_92.md)  
+Ku ka hu’a <span id="fr_94"></span>[c](#fn_93.md) o ka pali o ka wai
 kapu,  
-5 He kuina <span id="fr_95"></span>[d](#fn_94) pa-ú pali <span
-id="fr_96"></span>[e](#fn_95) no Kupe-hau,  
-I holo a paa ia, paa e Hono-kane. <span id="fr_97"></span>[f](#fn_96)
+5 He kuina <span id="fr_95"></span>[d](#fn_94.md) pa-ú pali <span
+id="fr_96"></span>[e](#fn_95.md) no Kupe-hau,  
+I holo a paa ia, paa e Hono-kane. <span id="fr_97"></span>[f](#fn_96.md)
 
 Málama o lilo i ka pa-ú.  
-Holo iho la ke ála ka Manú <span id="fr_98"></span>[g](#fn_97) i na
+Holo iho la ke ála ka Manú <span id="fr_98"></span>[g](#fn_97.md) i na
 pali;  
 Pali ku kahakó haka a-í,  
 10 I ke keiki pa-ú pali a Kau-kini, <span
-id="fr_99"></span>[h](#fn_98)  
-I hoonu’anu’a iluna o ka Auwana. <span id="fr_100"></span>[i](#fn_99)
+id="fr_99"></span>[h](#fn_98.md)  
+I hoonu’anu’a iluna o ka Auwana. <span id="fr_100"></span>[i](#fn_99.md)
 
 </div>
 
@@ -158,35 +158,35 @@ I hoonu’anu’a iluna o ka Auwana. <span id="fr_100"></span>[i](#fn_99)
 
 Akahi ke ana, ka luhi i ka pa-ú:  
 Ka ho-oio i ke kapa-wai,  
-I na kikepa wai o Apua, <span id="fr_101"></span>[a](#fn_100)  
+I na kikepa wai o Apua, <span id="fr_101"></span>[a](#fn_100.md)  
 15 I hopu ’a i ka ua noe holo poo-poo,  
 Me he pa-ú elehiwa wale i na pali.
 
 Ohiohi ka pali, ki ka liko o ka lama,  
-Mama ula <span id="fr_102"></span>[b](#fn_101) ia ka malua ula,  
+Mama ula <span id="fr_102"></span>[b](#fn_101.md) ia ka malua ula,  
 I hopu a omau ia e ka maino.  
-20 I <span id="fr_103"></span>[c](#fn_102) ka malo o Umi ku huná mai.  
-Ike’a ai na maawe wai oloná, <span id="fr_104"></span>[d](#fn_103)  
-E makili ia nei i Waihilau. <span id="fr_105"></span>[e](#fn_104)  
+20 I <span id="fr_103"></span>[c](#fn_102.md) ka malo o Umi ku huná mai.  
+Ike’a ai na maawe wai oloná, <span id="fr_104"></span>[d](#fn_103.md)  
+E makili ia nei i Waihilau. <span id="fr_105"></span>[e](#fn_104.md)  
 Holo ke oloná, paa ke kapa.
 
 Hu’a lepo ole ka pa-ú;  
 25 Nani ka o-iwi ma ka maka kilo-hana. <span
-id="fr_106"></span>[f](#fn_105)  
-Makalii ka ohe, <span id="fr_107"></span>[g](#fn_106) paa ke kapa.
+id="fr_106"></span>[f](#fn_105.md)  
+Makalii ka ohe, <span id="fr_107"></span>[g](#fn_106.md) paa ke kapa.
 
 Opua ke ahi i na pali,  
 I hookau kalena ia e ka makani,  
 I kaomi pohaku ia i Wai-manu,  
-30 I na alá <span id="fr_108"></span>[h](#fn_107) ki-óla-óla.  
+30 I na alá <span id="fr_108"></span>[h](#fn_107.md) ki-óla-óla.  
 I na alá, i alá lele  
-Ia Kane-poha-ka’a. <span id="fr_109"></span>[i](#fn_108)
+Ia Kane-poha-ka’a. <span id="fr_109"></span>[i](#fn_108.md)
 
-Paa ia Wai-manu, <span id="fr_110"></span>[j](#fn_109) o-oki Wai-pi’o;  
+Paa ia Wai-manu, <span id="fr_110"></span>[j](#fn_109.md) o-oki Wai-pi’o;  
 Lalau o Ha’i i ka ohe,  
-35 In Koa’e-kea, <span id="fr_111"></span>[k](#fn_110)  
+35 In Koa’e-kea, <span id="fr_111"></span>[k](#fn_110.md)  
 I kahuihi ia ia ohe laulii, in ohe.  
-Oki’a a moku, mo’ ke kihi, <span id="fr_112"></span>[l](#fn_111)
+Oki’a a moku, mo’ ke kihi, <span id="fr_112"></span>[l](#fn_111.md)
 
 </div>
 
@@ -194,25 +194,25 @@ Oki’a a moku, mo’ ke kihi, <span id="fr_112"></span>[l](#fn_111)
 
 <div style="margin-left: 32px">
 
-Mo’ ke kihi, ka maláma ka Hoaka, <span id="fr_113"></span>[a](#fn_112)  
+Mo’ ke kihi, ka maláma ka Hoaka, <span id="fr_113"></span>[a](#fn_112.md)  
 I apahu ia a poe,  
-40 O awili <span id="fr_114"></span>[b](#fn_113) o Malu-ó.
+40 O awili <span id="fr_114"></span>[b](#fn_113.md) o Malu-ó.
 
 He pola ia no ka pa-ú;  
 E hii ana e Ka-holo-kua-iwa,  
 Ke amo la e Pa-wili-wili  
-I ka pa-ú poo kau-poku-- <span id="fr_115"></span>[c](#fn_114)  
+I ka pa-ú poo kau-poku-- <span id="fr_115"></span>[c](#fn_114.md)  
 45 Kau poku a hana ke no,  
 Kau iluna o Hala’a-wili,  
 I owili hana haawe.
 
 Ku-ka’a, olo-ka’a wahie;  
-Ka’a ka opeope, ula ka pali; <span id="fr_116"></span>[d](#fn_115)  
+Ka’a ka opeope, ula ka pali; <span id="fr_116"></span>[d](#fn_115.md)  
 50 Uwá kamalii, hookani ka pihe,  
-Hookani ka a’o, <span id="fr_117"></span>[e](#fn_116) a hana pilo ka
+Hookani ka a’o, <span id="fr_117"></span>[e](#fn_116.md) a hana pilo ka
 leo,  
 I ka mahalo i ka pa-ú,  
-I ka pa-ú wai-lehua a Hi’i-lawe <span id="fr_118"></span>[f](#fn_117)
+I ka pa-ú wai-lehua a Hi’i-lawe <span id="fr_118"></span>[f](#fn_117.md)
 iluna,  
 Pi’o anuenue a ka ua e us nei.
 
@@ -256,7 +256,7 @@ The tinted gown illumines the pali--
 The sheeny steep shot with buds of lama--  
 Outshining the comely malua-ula,  
 Which one may seize and gird with a strong hand.  
-20 Leaf of ti for his malo, Umi <span id="fr_121"></span>[a](#fn_120)
+20 Leaf of ti for his malo, Umi <span id="fr_121"></span>[a](#fn_120.md)
 stood covered.
 
 Look at the oloná fibers inwrought,  
@@ -321,7 +321,7 @@ Hele ke ehu-kai, uhi i ka aina;
 Olapa ka uila, noho i Kahiki.  
 Uina, nakolo,  
 5 Uwá ka pihe,  
-Lau <span id="fr_122"></span>[a](#fn_121) kánaka ka hula.  
+Lau <span id="fr_122"></span>[a](#fn_121.md) kánaka ka hula.  
 E Laka, e!
 
 </div>
@@ -350,8 +350,8 @@ The answering song, led by the kumu, is in the same flamboyant strain:
 
 <div style="margin-left: 32px">
 
-Lele Mahu’ilani <span id="fr_123"></span>[a](#fn_122) a luna,  
-Lewa ia Kauna-lewa! <span id="fr_124"></span>[b](#fn_123)
+Lele Mahu’ilani <span id="fr_123"></span>[a](#fn_122.md) a luna,  
+Lewa ia Kauna-lewa! <span id="fr_124"></span>[b](#fn_123.md)
 
 </div>
 
@@ -372,8 +372,8 @@ in the old times to overwhelm the body with floral decorations and to
 blur the outlines of the figure to the point of disfigurement; nor was
 every flower that blows acceptable as an offering. The gods were jealous
 and nice in their tastes, pleased only with flowers indigenous to the
-soil--the ilima ([pl. VI](#img_pl06)), the lehua, the maile, the ie-ie,
-and the like (see pp. [19](ulh06.htm#page_19), [20](ulh06.htm#page_20)).
+soil--the ilima ([pl. VI](#img_pl06).md), the lehua, the maile, the ie-ie,
+and the like (see pp. [19](ulh06.htm#page_19), [20](ulh06.htm#page_20).md).
 The ceremony was quickly accomplished. As the company knotted the
 garlands about head or neck, they sang:
 
@@ -386,7 +386,7 @@ Ke malamalama o Niihau, ua malie.
 A maile, pa ka Inu-wai.  
 Ke inu mai la na hala o Naue i ke kai.  
 5 No Naue, ka hala, no Puna ka wahine. <span
-id="fr_125"></span>[c](#fn_124)  
+id="fr_125"></span>[c](#fn_124.md)  
 No ka lua no i Kilauea.
 
 </div>
@@ -406,7 +406,7 @@ Aye, from the pit, Kilauea.
 
 </div>
 
-Tradition tells a pathetic story ([p. 212](ulh32.htm#page_212)) in
+Tradition tells a pathetic story ([p. 212](ulh32.htm#page_212).md) in
 narrating an incident touching the occasion on which this song first was
 sung.
 
@@ -414,7 +414,7 @@ sung.
 
 <span id="img_pl06"></span> <span align="CENTER"> [![PLATE VI&lt;br&gt;
 ILIMA (SIDA FALLAX) LEI AND FLOWERS](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 PLATE VI  
 ILIMA (SIDA FALLAX) LEI AND FLOWERS  
 </span>
@@ -425,49 +425,49 @@ ILIMA (SIDA FALLAX) LEI AND FLOWERS
 
 ### Footnotes
 
-<span id="fn_86"></span>[49:a](ulh12.htm#fr_87) *Kupukupu*. Said to be a
+<span id="fn_86"></span>[49:a](ulh12.htm#fr_87.md) *Kupukupu*. Said to be a
 fragrant grass.
 
-<span id="fn_87"></span>[49:b](ulh12.htm#fr_88) *Kane-hoa*. Said to be a
+<span id="fn_87"></span>[49:b](ulh12.htm#fr_88.md) *Kane-hoa*. Said to be a
 hill at Kaupo, Maui. Another person says it is a hill at Lihue, on Oahu.
 The same name is often repeated.
 
-<span id="fn_88"></span>[49:c](ulh12.htm#fr_89) *Hó-a*. To bind. An
+<span id="fn_88"></span>[49:c](ulh12.htm#fr_89.md) *Hó-a*. To bind. An
 instance of word-repetition, common in Hawaiian poetry.
 
-<span id="fn_89"></span>[49:d](ulh12.htm#fr_90) *Wai-kaloa*. A cool wind
+<span id="fn_89"></span>[49:d](ulh12.htm#fr_90.md) *Wai-kaloa*. A cool wind
 that blows at Lihue, Kauai.
 
-<span id="fn_90"></span>[49:e](ulh12.htm#fr_91) *Alina*. A scar, or
+<span id="fn_90"></span>[49:e](ulh12.htm#fr_91.md) *Alina*. A scar, or
 other mark of disfigurement, a moral blemish. In ancient times lovers
 inflicted injuries on themselves to prove devotion.
 
-<span id="fn_91"></span>[51:a](ulh12.htm#fr_92) *Kikepa*. The bias, the
+<span id="fn_91"></span>[51:a](ulh12.htm#fr_92.md) *Kikepa*. The bias, the
 one-sided slant given the pa-ú by tucking it in at one side, as
 previously described.
 
-<span id="fn_92"></span>[51:b](ulh12.htm#fr_93) *Imu*. An oven; an
+<span id="fn_92"></span>[51:b](ulh12.htm#fr_93.md) *Imu*. An oven; an
 allusion to the heat and passion of the part covered by the pa-ú.
 
-<span id="fn_93"></span>[51:c](ulh12.htm#fr_94) *Hu’a*. Foam; figurative
+<span id="fn_93"></span>[51:c](ulh12.htm#fr_94.md) *Hu’a*. Foam; figurative
 of the fringe at the border of the pa-ú.
 
-<span id="fn_94"></span>[51:d](ulh12.htm#fr_95) *Kuina*. A term applied
+<span id="fn_94"></span>[51:d](ulh12.htm#fr_95.md) *Kuina*. A term applied
 to the five sheets that were stitched together (*kui*) to make a set of
 bed-clothes. Five turns also, It is said, complete a pa-ú.
 
-<span id="fn_95"></span>[51:e](ulh12.htm#fr_96) *Pali no Kupe-hau*.
+<span id="fn_95"></span>[51:e](ulh12.htm#fr_96.md) *Pali no Kupe-hau*.
 Throughout the poem the pa-ú is compared to a *pali*, a mountain wall.
 Kupe-hau is a precipitous part of Wai-pi’o valley.
 
-<span id="fn_96"></span>[51:f](ulh12.htm#fr_97) *Hono-kane*. A valley
+<span id="fn_96"></span>[51:f](ulh12.htm#fr_97.md) *Hono-kane*. A valley
 near Wai-pi’o. Here it is personified and said to do the work on the
 pa-ú.
 
-<span id="fn_97"></span>[51:g](ulh12.htm#fr_98) *Manú*. A proper name
+<span id="fn_97"></span>[51:g](ulh12.htm#fr_98.md) *Manú*. A proper name
 given to this pa-ú.
 
-<span id="fn_98"></span>[51:h](ulh12.htm#fr_99) *Kau-kini*. The name of
+<span id="fn_98"></span>[51:h](ulh12.htm#fr_99.md) *Kau-kini*. The name of
 a hill back of Lahaina-luna, the traditional residence of a kahuna named
 *Lua-hoo-moe*, whose two sons were celebrated for their manly beauty.
 Ole-pau, the king of the island Maui, ordered his retainer, Lua-hoo-moe,
@@ -509,68 +509,68 @@ But stay now--I doubt.
 
 </div>
 
-<span id="fn_99"></span>[51:i](ulh12.htm#fr_100) *Auwana*. Said to be an
+<span id="fn_99"></span>[51:i](ulh12.htm#fr_100.md) *Auwana*. Said to be an
 eminence on the flank of Haleakala, back of Ulupalakua.
 
-<span id="fn_100"></span>[52:a](ulh12.htm#fr_101) *Apua*. A place on
+<span id="fn_100"></span>[52:a](ulh12.htm#fr_101.md) *Apua*. A place on
 Hawaii, on Maui, on Oahu, on Kauai. and on Molokai.
 
-<span id="fn_101"></span>[52:b](ulh12.htm#fr_102) *Mama ula ia ka malua
+<span id="fn_101"></span>[52:b](ulh12.htm#fr_102.md) *Mama ula ia ka malua
 ula*. The malua-ula was a variety of tapa that was stained with *hili
 kukui* (the root-bark of the kukui tree). The ripe kukui nut was chewed
 into a paste and mingled with this stain. *Mama ula* refers to this
 chewing. The *malua ula* is mentioned as a foil to the pa-ú, being a
 cheap tapa.
 
-<span id="fn_102"></span>[52:c](ulh12.htm#fr_103) A contracted form of
+<span id="fn_102"></span>[52:c](ulh12.htm#fr_103.md) A contracted form of
 *ti* or *ki*, the plant or, as in this case, the leaf of the *ti*, the
-Dracæna ([pl. v](ulh11.htm#img_pl05)). Liloa, the father of Umi, used it
+Dracæna ([pl. v](ulh11.htm#img_pl05).md). Liloa, the father of Umi, used it
 to cover himself after his amour with the mother of Umi, having given
 his malo in pledge to the woman. Umi may have used this same leaf as a
 substitute for the malo while in the wilderness of Laupahoehoe, hiding
 away from his brother, King Hakau.
 
-<span id="fn_103"></span>[52:d](ulh12.htm#fr_104) *Oloná*. A strong
+<span id="fn_103"></span>[52:d](ulh12.htm#fr_104.md) *Oloná*. A strong
 vegetable fiber sometimes added to tapa to give it strength. The fibers
 of olona in the fabric of the pa-ú are compared to the runnels and
 brooklets of *Waihilau*.
 
-<span id="fn_104"></span>[52:e](ulh12.htm#fr_105) *Wai-hilau*. Name
+<span id="fn_104"></span>[52:e](ulh12.htm#fr_105.md) *Wai-hilau*. Name
 applied to the water that drips in a cave in Puna. It is also the name
 of a stream in Wai-pi’o valley, Hawaii.
 
-<span id="fn_105"></span>[52:f](ulh12.htm#fr_106) *Kilo-hana*. The name
+<span id="fn_105"></span>[52:f](ulh12.htm#fr_106.md) *Kilo-hana*. The name
 given the outside, ornamented, sheet of a set (*kuina*) of five tapas
 used as bed-clothing. It was also applied to that part of a pa-ú which
 was decorated with figures. The word comes from *kilohi*, to examine
 critically, and *hana*, to work and therefore means an ornamental work.
 
-<span id="fn_106"></span>[52:g](ulh12.htm#fr_107) *Ohe*. Bamboo. In this
+<span id="fn_106"></span>[52:g](ulh12.htm#fr_107.md) *Ohe*. Bamboo. In this
 case the stamp, made from bamboo, used to print the tapa.
 
-<span id="fn_107"></span>[52:h](ulh12.htm#fr_108) *Alá*. The hard, dark
+<span id="fn_107"></span>[52:h](ulh12.htm#fr_108.md) *Alá*. The hard, dark
 basalt of which the Hawaiian *ko’i*, adz, is made; any pebble, or small
 water-worn stone, such as would be used to hold in place the pa-ú while
 spread out to dry.
 
-<span id="fn_108"></span>[52:i](ulh12.htm#fr_109) *Kane-poha-ka’a*.
+<span id="fn_108"></span>[52:i](ulh12.htm#fr_109.md) *Kane-poha-ka’a*.
 Kane-the-hail-sender. The great god Kane was also conceived of as
 Kane-hekili, the thunderer; Kane-lulu-honua, the earthquake-sender, etc.
 
-<span id="fn_109"></span>[52:j](ulh12.htm#fr_110) *Wai-manu* and
+<span id="fn_109"></span>[52:j](ulh12.htm#fr_110.md) *Wai-manu* and
 *Wai-pi’o* are neighboring valleys.
 
-<span id="fn_110"></span>[52:k](ulh12.htm#fr_111) *Ko-a’e-kea*. A land
+<span id="fn_110"></span>[52:k](ulh12.htm#fr_111.md) *Ko-a’e-kea*. A land
 in Wai-pi’o valley.
 
-<span id="fn_111"></span>[52:l](ulh12.htm#fr_112) *Mo’ ke kihi*. *Mo’*
+<span id="fn_111"></span>[52:l](ulh12.htm#fr_112.md) *Mo’ ke kihi*. *Mo’*
 is a contracted form of *moku*.
 
-<span id="fn_112"></span>[53:a](ulh12.htm#fr_113) *Hoaka*. The name of
+<span id="fn_112"></span>[53:a](ulh12.htm#fr_113.md) *Hoaka*. The name of
 the moon in its second day, or of the second day of the Hawaiian month;
 a crescent.
 
-<span id="fn_113"></span>[53:b](ulh12.htm#fr_114) *O awili a Malu-ó*.
+<span id="fn_113"></span>[53:b](ulh12.htm#fr_114.md) *O awili a Malu-ó*.
 The most direct and evident sense of the word *awili* is to wrap. It
 probably means the wrapping of the pa-ú about the loins; or it may mean
 the movable, shifty action of the pa-ú caused by the lively actions of
@@ -584,10 +584,10 @@ fondness of his people for endless repetitions and play upon words:
 
 <div style="margin-left: 32px">
 
-Awiliwili i ka hale <span id="fr_119"></span>[1](#fn_118) o ka lauwili,
+Awiliwili i ka hale <span id="fr_119"></span>[1](#fn_118.md) o ka lauwili,
 e.  
 He lauwili ka makani, he Kaua-ula, <span
-id="fr_120"></span>[2](#fn_119)  
+id="fr_120"></span>[2](#fn_119.md)  
 I hoapaapa i ka hale o ka lauwili, e:
 
 </div>
@@ -602,27 +602,27 @@ Treachery lurks in the house of Unstable.
 
 </div>
 
-<span id="fn_114"></span>[53:c](ulh12.htm#fr_115) *Kaupoka*. A variant
+<span id="fn_114"></span>[53:c](ulh12.htm#fr_115.md) *Kaupoka*. A variant
 of the usual form, which is *kaupaku*, the ridgepole of a house, its
 apex. The pa-ú when worn takes the shape of a grass house, which has the
 form of a haystack.
 
-<span id="fn_115"></span>[53:d](ulh12.htm#fr_116) *Ula ka pali*. Red
+<span id="fn_115"></span>[53:d](ulh12.htm#fr_116.md) *Ula ka pali*. Red
 shows the pali, i. e., the side hill. This is a euphemism for some
 accident by which the pa-ú has been displaced, and an exposure of the
 person has taken place, as a result of which the boys scream and even
 the sea-bird, the *a’o*, shrieks itself hoarse.
 
-<span id="fn_116"></span>[53:e](ulh12.htm#fr_117) *A’o*. A sea-bird,
+<span id="fn_116"></span>[53:e](ulh12.htm#fr_117.md) *A’o*. A sea-bird,
 whose raucous voice is heard in the air at night at certain seasons.
 
-<span id="fn_117"></span>[53:f](ulh12.htm#fr_118) *Hi’i-lawe*. A
+<span id="fn_117"></span>[53:f](ulh12.htm#fr_118.md) *Hi’i-lawe*. A
 celebrated waterfall in Wai-pi’o valley, Hawaii.
 
-<span id="fn_118"></span>[53:1](ulh12.htm#fr_119) Primitive meaning,
+<span id="fn_118"></span>[53:1](ulh12.htm#fr_119.md) Primitive meaning,
 house; second, the body as the house of the soul.
 
-<span id="fn_119"></span>[53:2](ulh12.htm#fr_120) *Kaua-ula*. A strong
+<span id="fn_119"></span>[53:2](ulh12.htm#fr_120.md) *Kaua-ula*. A strong
 wind that shifted from one point to another, and that blew, often with
 great violence, at Lahaina, Maui. The above triplet was often quoted by
 the chiefs of olden time apropos of a person who was fickle in love or
@@ -630,26 +630,26 @@ residence,. As the old book has it, "The double-minded man Is unstable
 in all his ways," (*O ke kanáka lolilua ka manao lauwili kona mau aoao a
 pau*.)
 
-<span id="fn_120"></span>[54:a](ulh12.htm#fr_121) *Umi*. It was Liloa,
+<span id="fn_120"></span>[54:a](ulh12.htm#fr_121.md) *Umi*. It was Liloa,
 the father of Umi, who covered himself with a ti leaf instead of a malo
 after the amour that resulted in the birth of Umi. His malo he had given
 as a pledge to the woman who became the mother of Umi.
 
-<span id="fn_121"></span>[55:a](ulh12.htm#fr_122) *Lau* (archaic). Four
+<span id="fn_121"></span>[55:a](ulh12.htm#fr_122) *Lau* (archaic.md). Four
 hundred.
 
-<span id="fn_122"></span>[56:a](ulh12.htm#fr_123) *Mahu’ilani*. A
+<span id="fn_122"></span>[56:a](ulh12.htm#fr_123.md) *Mahu’ilani*. A
 poetical name for the right hand; this the *olopa*, the dancing girls,
 lifted in extension as they entered the halau from the dressing room.
 The left hand was termed *Kaohi-lani*.
 
-<span id="fn_123"></span>[56:b](ulh12.htm#fr_124) *Kauna-lewa*. The name
+<span id="fn_123"></span>[56:b](ulh12.htm#fr_124.md) *Kauna-lewa*. The name
 of a celebrated grove of coconuts at Kekaha, Kauai, near the residence
 of the late Mr. Knudsen.
 
-<span id="fn_124"></span>[56:c](ulh12.htm#fr_125) *Wahine*. The woman,
+<span id="fn_124"></span>[56:c](ulh12.htm#fr_125.md) *Wahine*. The woman,
 Pele.
 
 ------------------------------------------------------------------------
 
-[Next: IX.--The Hula Ala’a-Papa](ulh13)
+[Next: IX.--The Hula Ala’a-Papa](ulh13.md)

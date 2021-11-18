@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar209) [Next](gbar211)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar209) [Next](gbar211.md)
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ Jerusalem.
 
 ------------------------------------------------------------------------
 
-[Next](gbar211)
+[Next](gbar211.md)

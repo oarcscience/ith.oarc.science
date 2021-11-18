@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mmi07)  [Next](mmi09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mmi07)  [Next](mmi09.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_59">p. 59</span>
 
-### 4. THE STORY OF OUIOT. <span id="fr_13"></span>[1](#fn_13)
+### 4. THE STORY OF OUIOT. <span id="fr_13"></span>[1](#fn_13.md)
 
 There was a village and all the people were together there, and Ouiot
 was living there with the people. This man became a great teacher and
@@ -33,7 +33,7 @@ were people then. They came to see him and to doctor him. They knew what
 was the matter with him, but they could do nothing to help him.
 
 So then he sent east for some others. They are the stars, Nu-kú-lish,
-and Yung-á-vish, <span id="fr_14"></span>[2](#fn_14) people then. They
+and Yung-á-vish, <span id="fr_14"></span>[2](#fn_14.md) people then. They
 came to see what was the matter with him, but they could not help him.
 
 Then he sent south, and some people came from the south (now the oak and
@@ -44,7 +44,7 @@ cure him, but in vain.
 He was sick for a long time, and he called all these people, and all who
 were then living around him. He did not know in which month he should
 die, but he lingered through all the months. <span
-id="fr_15"></span>[3](#fn_15) In the eighth month he called them all
+id="fr_15"></span>[3](#fn_15.md) In the eighth month he called them all
 about him, and told them that he was the one who made death. No one had
 ever died before, but after his death all would die too. Death would
 come for all. So the month was called Soym'-a-mul (or Som'-o-y-mal),
@@ -71,7 +71,7 @@ the deer. They had never killed anything before this time. And when they
 had killed the deer, they must take the small bones of the leg for awls
 to make baskets with. This was the beginning of basket-making. Spider
 was a woman, and it was she who must make the baskets. <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 So they made awls out of the bones, and gave them to Spider, and she
 made a basket. The first basket was made to put the bones of Ouiot in,
@@ -86,7 +86,7 @@ then begin to sing.
 
 Before Ouiot died, he commanded that when they sing they should use a
 rattle made out of shells of turtles. <span
-id="fr_17"></span>[2](#fn_17)
+id="fr_17"></span>[2](#fn_17.md)
 
 A man (now the kingbird) was his best friend, and a very good man, and
 before he died Ouiot told him that he would soon return.
@@ -110,19 +110,19 @@ WATERBURY, CONN.
 
 ### Footnotes
 
-<span id="fn_13"></span>[59:1](mmi08.htm#fr_13) Another version, told by
+<span id="fn_13"></span>[59:1](mmi08.htm#fr_13.md) Another version, told by
 another old man.
 
-<span id="fn_14"></span>[59:2](mmi08.htm#fr_14) Antares and Altair.
+<span id="fn_14"></span>[59:2](mmi08.htm#fr_14.md) Antares and Altair.
 
-<span id="fn_15"></span>[59:3](mmi08.htm#fr_15) The series is given as
+<span id="fn_15"></span>[59:3](mmi08.htm#fr_15.md) The series is given as
 above.
 
-<span id="fn_16"></span>[60:1](mmi08.htm#fr_16) Others say that a
+<span id="fn_16"></span>[60:1](mmi08.htm#fr_16.md) Others say that a
 cicada-like insect that sings on summer evenings was the first
 basket-maker.
 
-<span id="fn_17"></span>[60:2](mmi08.htm#fr_17) This most primitive form
+<span id="fn_17"></span>[60:2](mmi08.htm#fr_17.md) This most primitive form
 of rattle, mentioned by Boscana, is still in use. It is made of two
 hollow land-turtle shells, the top and bottom of which are joined by
 finely woven milkweed twine, the two shells being fastened upon a stick
@@ -130,4 +130,4 @@ for handle, and having small pebbles within.
 
 ------------------------------------------------------------------------
 
-[Next: Luiseño Creation Myth](mmi09)
+[Next: Luiseño Creation Myth](mmi09.md)

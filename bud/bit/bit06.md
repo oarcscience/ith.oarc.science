@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit05)  [Next](bit07) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit05)  [Next](bit07.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ allusion to their moral virtues as well as their general conduct.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Hinayana System](bit07)
+[Next: Chapter IV. The Hinayana System](bit07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srf06)  [Next](srf08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srf06)  [Next](srf08.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ will give you instead
 
 [![''ONE GOLDEN EGG EACH MORNING,'' SAID LITTLE IVAN'S
 MOTHER](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)  
+Click to enlarge](img/09700.jpg.md)  
 ''ONE GOLDEN EGG EACH MORNING,'' SAID LITTLE IVAN'S MOTHER  
 
  
@@ -401,4 +401,4 @@ His name will live for ever.
 
 ------------------------------------------------------------------------
 
-[Next: Tsar Ivan and the Scots Soldiers](srf08)
+[Next: Tsar Ivan and the Scots Soldiers](srf08.md)

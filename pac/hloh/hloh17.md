@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh16)  [Next](hloh18) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh16)  [Next](hloh18.md) 
 
 ------------------------------------------------------------------------
 
@@ -183,4 +183,4 @@ read the signs of sky and sea and land.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. The Canoe of the Dragon](hloh18)
+[Next: XIV. The Canoe of the Dragon](hloh18.md)

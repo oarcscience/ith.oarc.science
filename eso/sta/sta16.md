@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta15)  [Next](sta17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta15)  [Next](sta17.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,7 +145,7 @@ with
 
 [![THE NUMERICAL VALUES OF THE HEBREW, GREEK, AND SAMARITAN
 ALPHABETS.](tn/06900.jpg)  
-Click to enlarge](img/06900.jpg)  
+Click to enlarge](img/06900.jpg.md)  
 THE NUMERICAL VALUES OF THE HEBREW, GREEK, AND SAMARITAN ALPHABETS.  
 
 From Higgins' *Celtic Druids*.
@@ -187,7 +187,7 @@ those given by the Pythagorean system.
 
  
 
-### AN [INTRODUCTION](errata.htm#2) TO THE PYTHAGOREAN THEORY OF NUMBERS
+### AN [INTRODUCTION](errata.htm#2.md) TO THE PYTHAGOREAN THEORY OF NUMBERS
 
 (The following outline of Pythagorean mathematics is a paraphrase of the
 opening chapters of Thomas Taylor's *Theoretic Arithmetic*, the rarest
@@ -364,7 +364,7 @@ continues\]
 <span id="img_07100"></span>
 
 [![THE SIEVE OF ERATOSTHENES.](tn/07100.jpg)  
-Click to enlarge](img/07100.jpg)  
+Click to enlarge](img/07100.jpg.md)  
 THE SIEVE OF ERATOSTHENES.  
 
 Redrawn from Taylor's *Theoretic Arithmetic*.
@@ -790,4 +790,4 @@ of calculating devices and still in use among many aboriginal peoples.
 
 ------------------------------------------------------------------------
 
-[Next: The Human Body in Symbolism](sta17)
+[Next: The Human Body in Symbolism](sta17.md)

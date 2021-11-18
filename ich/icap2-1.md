@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](icap1-2)  [Next](icap2-2) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](icap1-2)  [Next](icap2-2.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,11 +9,11 @@
 # APPENDIX II
 
 Treatise on the Symbolism of the Hexagrams, and of the duke of *K*âu's
-Explanations of the several Lines <span id="fr_189"></span>[1](#fn_189)
+Explanations of the several Lines <span id="fr_189"></span>[1](#fn_189.md)
 
 ### SECTION I
 
- <span id="fr_190"></span>[I](#fn_190). Heaven, in its motion, (gives
+ <span id="fr_190"></span>[I](#fn_190.md). Heaven, in its motion, (gives
 the idea of) strength. The superior man, in accordance with this, nerves
 himself to ceaseless activity.
 
@@ -43,7 +43,7 @@ hexagram), but the attribute of heaven (thereby denoted) should not
 
 <span id="page_268">p. 268</span>
 
- <span id="fr_191"></span>[II](#fn_191). The (capacity and sustaining)
+ <span id="fr_191"></span>[II](#fn_191). The (capacity and sustaining.md)
 power of the earth is what is denoted by Khwăn. The superior man, in
 accordance with this, with his large virtue supports (men and) things.
 
@@ -79,7 +79,7 @@ consummation.
 
 <span id="page_270">p. 270</span>
 
- <span id="fr_192"></span>[III](#fn_192). (The trigram representing)
+ <span id="fr_192"></span>[III](#fn_192). (The trigram representing.md)
 clouds and (that representing) thunder form *K*un. The superior man, in
 accordance with this, (adjusts his measures of government) as in sorting
 the threads of the warp and woof.
@@ -109,7 +109,7 @@ emblemed) continue long?
 
 <span id="page_271">p. 271</span>
 
- <span id="fr_193"></span>[IV](#fn_193). (The trigram representing) a
+ <span id="fr_193"></span>[IV](#fn_193). (The trigram representing.md) a
 mountain, and beneath it that for a spring issuing forth form Măng. The
 superior man, in accordance with this, strives to be resolute in his
 conduct and nourishes his virtue.
@@ -136,7 +136,7 @@ comes from his docility going on to humility.
 line) above and (the ignorant) below, all do and are done to in
 accordance with their nature.
 
- <span id="fr_194"></span>[V](#fn_194). (The trigram for) clouds
+ <span id="fr_194"></span>[V](#fn_194). (The trigram for.md) clouds
 ascending over that
 
 <span id="page_273">p. 273</span>
@@ -173,7 +173,7 @@ there has been no great failure (in what has been done).
 
 <span id="page_274">p. 274</span>
 
- <span id="fr_195"></span>[VI](#fn_195). (The trigram representing)
+ <span id="fr_195"></span>[VI](#fn_195). (The trigram representing.md)
 heaven and (that representing) water, moving away from each other, form
 Sung. The superior man, in accordance with this, in the transaction of
 affairs takes good counsel about his first steps.
@@ -204,7 +204,7 @@ holding the due mean and being in the correct place.
 6\. 'He receives the robe through his contention:'--but still be is not
 deserving of respect.
 
- <span id="fr_196"></span>[VII](#fn_196). (The trigram representing) the
+ <span id="fr_196"></span>[VII](#fn_196). (The trigram representing.md) the
 earth and in the midst of it that representing water, form Sze. The
 superior man, in accordance with this, nourishes and educates the
 people, and collects (from among them) the multitudes (of the hosts).
@@ -235,7 +235,7 @@ throw the states into confusion.
 
 <span id="page_277">p. 277</span>
 
- <span id="fr_197"></span>[VIII](#fn_197). (The trigram representing)
+ <span id="fr_197"></span>[VIII](#fn_197). (The trigram representing.md)
 the earth, and over it (that representing) water, form Pî. The ancient
 kings, in accordance with this, established the various states and
 maintained an affectionate relation to their princes.
@@ -272,7 +272,7 @@ the due course.
 6\. 'He seeks union and attachment without taking the first (step to
 such an end):'--there is no possibility of a (good) issue.
 
- <span id="fr_198"></span>[IX](#fn_198). (The trigram representing) the
+ <span id="fr_198"></span>[IX](#fn_198). (The trigram representing.md) the
 sky, and that representing wind moving above it, form Hsiâo *Kh*û The
 superior man, in accordance with this, adorns the outward manifestation
 of his virtue.
@@ -304,7 +304,7 @@ himself obstructed.
 
 <span id="page_280">p. 280</span>
 
- <span id="fr_199"></span>[X](#fn_199). (The trigram representing) the
+ <span id="fr_199"></span>[X](#fn_199). (The trigram representing.md) the
 sky above, and below it (that representing the waters of) a marsh, form
 Lî. The superior man, in accordance with this, discriminates between
 high and low, and gives settlement to the aims of the people.
@@ -334,7 +334,7 @@ appropriate to him.
 6\. 'There will be great good fortune,' and that in the occupancy of the
 topmost line:--this is great matter for congratulation.
 
- <span id="fr_200"></span>[XI](#fn_200). (The trigrams for) heaven and
+ <span id="fr_200"></span>[XI](#fn_200). (The trigrams for.md) heaven and
 earth in communication together form Thâi. The (sage) sovereign, in
 harmony with this, fashions and completes (his regulations) after the
 courses of heaven and earth, and assists the application of the
@@ -368,7 +368,7 @@ central position to carry his wishes into effect.
 6\. 'The city wall returned back into the moat' shows how the
 (governmental) orders have (long) been in disorder.
 
- <span id="fr_201"></span>[XII](#fn_201). (The trigrams of) heaven and
+ <span id="fr_201"></span>[XII](#fn_201). (The trigrams of.md) heaven and
 earth, not in intercommunication, form Phî. The superior man, in
 accordance with this, restrains (the manifestation) of) his virtue, and
 avoids the calamities (that threaten him). There is no opportunity of
@@ -398,7 +398,7 @@ overthrown and removed:'--how could it be prolonged?
 
 <span id="page_284">p. 284</span>
 
- <span id="fr_202"></span>[XIII](#fn_202). (The trigrams for) heaven and
+ <span id="fr_202"></span>[XIII](#fn_202). (The trigrams for.md) heaven and
 fire form Thung *Z*ăn. The superior man, in accordance with this),
 distinguishes things according to their kinds and classes.
 
@@ -427,7 +427,7 @@ suburbs:'--his object has not yet been attained.
 
 <span id="page_285">p. 285</span>
 
- <span id="fr_203"></span>[XIV](#fn_203). (The trigram for) heaven and
+ <span id="fr_203"></span>[XIV](#fn_203). (The trigram for.md) heaven and
 (that of) fire above it form Tâ Yû The superior man, in accordance with
 this, represses what is evil and gives distinction to what is good, in
 sympathy with the excellent Heaven-conferred (nature).
@@ -455,7 +455,7 @@ springing from a display of proper majesty' shows how they might
 6\. 'The good fortune attached to the topmost line of Tâ Yû' arises from
 the help of Heaven.
 
- <span id="fr_204"></span>[XV](#fn_204). (The trigram for) the earth and
+ <span id="fr_204"></span>[XV](#fn_204). (The trigram for.md) the earth and
 (that of) a mountain in the midst of it form *Kh*ien. The superior man,
 in accordance with this, diminishes what is excessive (in himself), and
 increases where there is any defect, bringing about an equality,
@@ -485,7 +485,7 @@ those who do not submit.
 not yet been attained. He may employ the force of arms, (but only) in
 correcting (his own) towns and state.'
 
- <span id="fr_205"></span>[XVI](#fn_205). (The trigrams for) the earth
+ <span id="fr_205"></span>[XVI](#fn_205). (The trigrams for.md) the earth
 and thunder issuing from it with its crashing noise form Yü. The ancient
 kings, in accordance with this, composed their music and did honour to
 virtue, presenting it especially and most grandly to God,
@@ -521,7 +521,7 @@ continue long?
 
 <span id="page_289">p. 289</span>
 
- <span id="fr_206"></span>[XVII](#fn_206). (The trigram for the waters
+ <span id="fr_206"></span>[XVII](#fn_206.md). (The trigram for the waters
 of) a marsh and (that for) thunder (hidden) in the midst of it form Sui.
 The superior man in accordance with this, when it is getting towards
 dark, enters (his house) and rests.
@@ -548,7 +548,7 @@ correct and in the centre.
 6\. 'The sincerity is firmly held and clung to, as shown in the topmost
 line:'--(the idea of the hexagram) has reached its extreme development.
 
- <span id="fr_207"></span>[XVIII](#fn_207). (The trigram for) a
+ <span id="fr_207"></span>[XVIII](#fn_207). (The trigram for.md) a
 mountain, and below it that for wind, form Kû. The superior man, in
 accordance with this, (addresses himself to) help the people and nourish
 his own virtue.
@@ -574,7 +574,7 @@ virtue.
 6\. 'He does not serve either king or feudal lord:'--but his aim may be
 a model (to others).
 
- <span id="fr_208"></span>[XIX](#fn_208) (The trigram for) the waters of
+ <span id="fr_208"></span>[XIX](#fn_208) (The trigram for.md) the waters of
 a marsh and that for the earth above it form Lin. The superior man, in
 accordance with this, has his purposes of instruction that are
 inexhaustible, and nourishes and supports the people without limit.
@@ -606,7 +606,7 @@ due mean.
 generosity' is due to the will (of the subject of the line) being set on
 the subjects of (the first two lines of) the inner (trigram).
 
- <span id="fr_209"></span>[XX](#fn_209). (The trigram representing) the
+ <span id="fr_209"></span>[XX](#fn_209). (The trigram representing.md) the
 earth, and that for wind moving above it, form Kwan. The ancient kings,
 in accordance with this, examined the (different) regions (of the
 kingdom), to see the (ways of the) people, and set forth their
@@ -632,7 +632,7 @@ purpose) contemplate (the condition of) the people.
 6\. 'He contemplates his own character:'--he cannot even yet let his
 mind be at rest.
 
- <span id="fr_210"></span>[XXI](#fn_210). (The trigrams representing)
+ <span id="fr_210"></span>[XXI](#fn_210). (The trigrams representing.md)
 thunder and lightning form Shih Ho. The ancient kings, in accordance
 with this, framed their penalties with intelligence, and promulgated
 their laws.
@@ -661,7 +661,7 @@ and there will be no error:'--he will possess every quality appropriate
 6\. 'He wears the cangue and is deprived of his ears:'--he hears, but
 will not understand.
 
- <span id="fr_211"></span>[XXII](#fn_211). (The trigram representing) a
+ <span id="fr_211"></span>[XXII](#fn_211). (The trigram representing.md) a
 mountain and that for fire under it form Pî. The superior man, in
 accordance with this, throws a brilliancy around his various processes
 of government, but does not dare (in a similar way) to decide cases of
@@ -692,7 +692,7 @@ attained his aim.
 
 <span id="page_296">p. 296</span>
 
- <span id="fr_212"></span>[XXIII](#fn_212). (The trigrams representing)
+ <span id="fr_212"></span>[XXIII](#fn_212). (The trigrams representing.md)
 the earth, and (above it) that for a mountain, which adheres to the
 earth, form Po. Superiors, in accordance with this, seek to strengthen
 those below them, to secure the peace and stability of their own
@@ -720,7 +720,7 @@ dwellings:'--they can. never again be of use to them.
 
 <span id="page_297">p. 297</span>
 
- <span id="fr_213"></span>[XXIV](#fn_213). (The trigram representing)
+ <span id="fr_213"></span>[XXIV](#fn_213). (The trigram representing.md)
 the earth and that for thunder in the midst of it form Fû. The ancient
 kings, in accordance with this, on the day. of the (winter) solstice,
 shut the gates of the passes (from one state to another), so that the
@@ -755,7 +755,7 @@ course for a ruler.
 
 <span id="page_299">p. 299</span>
 
- <span id="fr_214"></span>[XXV](#fn_214). The thunder rolls all under
+ <span id="fr_214"></span>[XXV](#fn_214.md). The thunder rolls all under
 the sky, and to (every)thing there is given (its nature), free from all
 insincerity. The ancient kings, in accordance with this, (made their
 regulations) in complete accordance with the seasons, thereby nourishing
@@ -782,7 +782,7 @@ exhausted.
 
 <span id="page_300">p. 300</span>
 
- <span id="fr_215"></span>[XXVI](#fn_215). (The trigram representing) a
+ <span id="fr_215"></span>[XXVI](#fn_215). (The trigram representing.md) a
 mountain, and in the midst of it that (representing) heaven, form Tâ
 *Kh*û. The superior man, in accordance with this, stores largely in his
 memory the words and deeds of former men, to subserve the accumulation
@@ -809,7 +809,7 @@ for movement.
 
 <span id="page_301">p. 301</span>
 
- <span id="fr_216"></span>[XXVII](#fn_216). (The trigram representing) a
+ <span id="fr_216"></span>[XXVII](#fn_216). (The trigram representing.md) a
 mountain and under it that for thunder form Î. The superior man, in
 accordance with this, (enjoins) watchfulness over our words, and the
 temperate regulation of our eating and drinking.
@@ -838,7 +838,7 @@ above.
 of his position, of him from whom comes the nourishing,' affords great
 cause for congratulation.
 
- <span id="fr_217"></span>[XXVIII](#fn_217). (The trigram representing)
+ <span id="fr_217"></span>[XXVIII](#fn_217). (The trigram representing.md)
 trees hidden beneath that for the waters of a marsh forms Tâ Kwo. The
 superior man, in accordance with this, stands up alone and has no fear,
 and keeps retired from the world without regret.
@@ -866,7 +866,7 @@ wife and a young husband:'--this also is a thing to be ashamed of.
 6\. 'Evil follows wading with (extraordinary) boldness (through the
 stream):'--but (the act) affords no ground for blame.
 
- <span id="fr_218"></span>[XXIX](#fn_218). (The representation of) water
+ <span id="fr_218"></span>[XXIX](#fn_218). (The representation of.md) water
 flowing on continuously forms the repeated Khan. The superior man, in
 accordance with this, maintains constantly the virtue (of his heart) and
 (the integrity of) his conduct, and practises the business of
@@ -894,7 +894,7 @@ great.
 6\. 'The sixth line, divided, shows its subject missing his (proper)
 course:'--'there will be evil for three years.'
 
- <span id="fr_219"></span>[XXX](#fn_219). (The trigram for) brightness,
+ <span id="fr_219"></span>[XXX](#fn_219). (The trigram for.md) brightness,
 repeated, forms Lî. The great man, in accordance with this, cultivates
 more and more his brilliant (virtue), and diffuses its brightness over
 the four quarters (of the land).
@@ -924,7 +924,7 @@ to bring the regions to a correct state.
 
 ### Footnotes
 
-<span id="fn_189"></span>[267:1](icap2-1.htm#fr_189) Like the Text under
+<span id="fn_189"></span>[267:1](icap2-1.htm#fr_189.md) Like the Text under
 each hexagram, what is said under each in this treatise on its symbolism
 is divided into two portions. The <span id="page_267">p. 267</span>
 first is called 'the Great Symbolism,' and is occupied with the
@@ -939,7 +939,7 @@ the connexion between his premiss and conclusion. This portion of the
 treatise will be separated by a double space from what follows,--'the
 Lesser Symbolism,' in the explanations of the several lines.
 
-<span id="fn_190"></span>[268:I](icap2-1.htm#fr_190) *Kh*ien is formed
+<span id="fn_190"></span>[268:I](icap2-1.htm#fr_190.md) *Kh*ien is formed
 by redoubling the trigram of the same name. In the case of other
 hexagrams of similar formation, the repetition of the trigram is pointed
 out. That is not done here, according to *K*û Hsî, 'because there is but
@@ -947,7 +947,7 @@ one heaven.' But the motion of heaven is a complete revolution every
 day, resumed again the next; so moves 'the unwearied sun from day to
 day,' making it a good symbol of renewed, untiring effort.
 
-<span id="fn_191"></span>[269:II](icap2-1.htm#fr_191) Khwăn is formed by
+<span id="fn_191"></span>[269:II](icap2-1.htm#fr_191.md) Khwăn is formed by
 redoubling the trigram of the same name and having 'the earth for its
 symbol.' As in the former hexagram, the repetition is emphatic, not
 otherwise affecting the meaning of the hexagram. 'As there is but one
@@ -974,7 +974,7 @@ vain.'
 'The Smaller Symbolism' is sufficiently dealt with in the notes on the
 Text.
 
-<span id="fn_192"></span>[270:III](icap2-1.htm#fr_192) Khan represents
+<span id="fn_192"></span>[270:III](icap2-1.htm#fr_192.md) Khan represents
 water, especially in the form of rain. Here its symbol is a cloud. The
 whole hexagram seems to place us in the atmosphere of a thunderous sky
 overhung with thick and gloomy clouds, when we feel oppressed and
@@ -998,7 +998,7 @@ corresponding lilies of the trigrams, are correlates.
 The subject of line 4 naturally recurs to the correlate in line 1. He is
 the natural helper in the case, and he has the ability.
 
-<span id="fn_193"></span>[272:IV](icap2-1.htm#fr_193) 'The spring here
+<span id="fn_193"></span>[272:IV](icap2-1.htm#fr_193.md) 'The spring here
 issuing forth' is different from the defile with a stream in it, in the
 explanation of the Thwan; different moreover from 'rain,' mentioned also
 as the phenomenon which is the natural symbol of Khan. The presence of
@@ -1038,7 +1038,7 @@ keep them ignorant, or increase their ignorance. The subject of this
 line, therefore, acts according to his nature, and the subjects of all
 the weak lines below are cared for as is best for them.
 
-<span id="fn_194"></span>[273:V](icap2-1.htm#fr_194) 'The cloud,' it is
+<span id="fn_194"></span>[273:V](icap2-1.htm#fr_194.md) 'The cloud,' it is
 said, 'that has risen to the top of the sky, has nothing more to do till
 it is called on, in the harmony of heaven <span id="page_274">p.
 274</span> and earth, to discharge its store of rain.' This gives to the
@@ -1065,7 +1065,7 @@ being in the sixth, an even place, seems to be where it ought to be. We
 are only surprised that cases of inconsistency in these explanations are
 not more numerous.
 
-<span id="fn_195"></span>[275:VI](icap2-1.htm#fr_195) The symbolism here
+<span id="fn_195"></span>[275:VI](icap2-1.htm#fr_195.md) The symbolism here
 is different from that in the Text of the Thwan. We have the visible sky
 ascending and water or rain descending, which indicate, one hardly sees
 how, opposition and contention. The lesson as to the course of the
@@ -1085,7 +1085,7 @@ abandoned.
 'The robe' takes the place of 'the leathern sash' in paragraph 6; but
 the sash was merely an appendage of the robe.
 
-<span id="fn_196"></span>[276:VII](icap2-1.htm#fr_196) 'The Great
+<span id="fn_196"></span>[276:VII](icap2-1.htm#fr_196.md) 'The Great
 Symbolism' here is not more satisfactory than in other paragraphs of it
 which have already come before us. *K*û Hsî says:--'As the water is not
 outside the earth, so soldiers are not outside the people. Therefore if
@@ -1113,7 +1113,7 @@ the regular course to pursue.
 Other ways can be found to reward small men. They ought not to be placed
 in situations where the condition of others will depend on them.
 
-<span id="fn_197"></span>[278:VIII](icap2-1.htm#fr_197) 'Water upon the
+<span id="fn_197"></span>[278:VIII](icap2-1.htm#fr_197.md) 'Water upon the
 face of the earth' is supposed to be an emblem of close union. Of the
 mere fact of close union this may be accepted as a fair illustration,
 and of its completeness. Some other symbolism might set forth better the
@@ -1131,7 +1131,7 @@ duke of *K*âu's text. I suspect that there is some corruption of the
 text. The two verbs 'neglecting' and 'taking' seem to be used, the one
 for the other.
 
-<span id="fn_198"></span>[279:IX](icap2-1.htm#fr_198) The suitability of
+<span id="fn_198"></span>[279:IX](icap2-1.htm#fr_198.md) The suitability of
 the symbolism here is made all to turn on the wind. 'Wind,' says *K*û,
 'is simply the air, without solid substance; it can restrain, but not
 for long.' The wind moves in the sky for a time, and then ceases. The
@@ -1172,7 +1172,7 @@ Good man! hold hard. Obstructions rule.'
 
  
 
-<span id="fn_199"></span>[281:X](icap2-1.htm#fr_199) 'The sky above and
+<span id="fn_199"></span>[281:X](icap2-1.htm#fr_199.md) 'The sky above and
 a marsh lying below it is true,' says *Kh*ăng-žze, 'in nature and
 reason; and so should be the rules of propriety on which men tread.'
 This symbolism is far-fetched; and so is the application of it, if in
@@ -1188,7 +1188,7 @@ more clear, though still the assumption which I have pointed out on the
 Text would underlie the statement; and as evidently as there, what is
 said under line 6 is but a truism.
 
-<span id="fn_200"></span>[282:XI](icap2-1.htm#fr_200) It is difficult to
+<span id="fn_200"></span>[282:XI](icap2-1.htm#fr_200.md) It is difficult to
 translate the application of 'the Great Symbolism' here, so that it
 shall be intelligible to a reader. *Kh*ăng-žze says:--'A ruler should
 frame his laws; and regulations so that the people may avail themselves
@@ -1208,7 +1208,7 @@ substantiality,' by the remark that 'their proper place, as being weak
 lines, is below.' The editors of the imperial edition prefer another
 explanation, on which I need not enter.
 
-<span id="fn_201"></span>[283:XII](icap2-1.htm#fr_201) 'The Great
+<span id="fn_201"></span>[283:XII](icap2-1.htm#fr_201.md) 'The Great
 Symbolism' here is sufficiently explained in the first Appendix. The
 application, however, is here again difficult, though we may try to find
 in it a particular instance of the interruption of communication,--in
@@ -1232,7 +1232,7 @@ place. Hence he is successful, and in the last line, we see <span
 id="page_284">p. 284</span> how the distress and obstruction are come to
 an end. It was in the order of change that they should do so.
 
-<span id="fn_202"></span>[284:XIII](icap2-1.htm#fr_202) The style of
+<span id="fn_202"></span>[284:XIII](icap2-1.htm#fr_202.md) The style of
 'heaven and fire form Thung *Z*ăn' is such as to suggest the appearance
 of fire ascending up, blazing to the sky, and uniting with it. The
 application of the symbolism is again perplexing.
@@ -1257,7 +1257,7 @@ hexagram was not attained. We may truly say that Confucius was a skilful
 reader of the duke of *K*âu.' Of course the editors did not doubt
 Confucius' authorship of all the Appendixes.
 
-<span id="fn_203"></span>[286:XIV](icap2-1.htm#fr_203) 'Fire above the
+<span id="fn_203"></span>[286:XIV](icap2-1.htm#fr_203.md) 'Fire above the
 sky' will shine far; and this is supposed to symbolise the vastness of
 the territory or of the wealth implied in the possession of what is
 great. The superior man, in governing men, especially in a time of
@@ -1268,7 +1268,7 @@ will of Heaven, which has given to all men a nature fitted for goodness.
 All the comment that is necessary on the symbolism of the several lines
 may be gathered from the comments on the Text.
 
-<span id="fn_204"></span>[287:XV](icap2-1.htm#fr_204) The earth is low,
+<span id="fn_204"></span>[287:XV](icap2-1.htm#fr_204.md) The earth is low,
 and in the midst of it is a high mountain; but I fail to see how this
 can symbolise humility. Nor does Regis' representation of it much
 improve the case:--'Monte' (ait glossa) 'nihil est altius in terra, quae
@@ -1300,7 +1300,7 @@ that the humble ruler is unable even at the close of the action
 described in the figure to accomplish all his objects, and must limit
 his field even in appealing to arms.
 
-<span id="fn_205"></span>[288:XVI](icap2-1.htm#fr_205) 'The Great
+<span id="fn_205"></span>[288:XVI](icap2-1.htm#fr_205.md) 'The Great
 Symbolism' here is more obscure than usual. A thunderstorm clears the
 air and removes the feeling of oppression, of which one is conscious
 before its occurrence. Is this all that is meant by making the trigrams
@@ -1328,7 +1328,7 @@ Section i, chap. 1. 6-13.
 In line 6 the action of the hexagram is over. If one puts off changing
 his evil way any longer, there remains no more hope for him.
 
-<span id="fn_206"></span>[290:XVII](icap2-1.htm#fr_206) An explosion of
+<span id="fn_206"></span>[290:XVII](icap2-1.htm#fr_206.md) An explosion of
 thunder amidst the waters of a marsh would be succeeded by a tremulous
 agitation of those waters; so far there would be a following of the
 movement of the lower trigram by the upper. Then in the application of
@@ -1344,7 +1344,7 @@ paragraphs is sufficiently explained in the notes on the Text. Some
 peculiarities in their style (in Chinese) are owing to the bonds of the
 rhyme.
 
-<span id="fn_207"></span>[291:XVIII](icap2-1.htm#fr_207) 'When the
+<span id="fn_207"></span>[291:XVIII](icap2-1.htm#fr_207.md) 'When the
 wind,' says *Kh*ăng-žze, 'encounters the mountain, it is driven back,
 and the things about are all scattered in disorder; such is the emblem
 of the state denoted by Kû.'
@@ -1358,7 +1358,7 @@ mean' of line 2 is according to the caution in the Text. The Khang-hsî
 editors interpret the explanation of line 5 as = 'he takes up (the
 course of his father) with all his virtue.' I think they are wrong.
 
-<span id="fn_208"></span>[292:XIX](icap2-1.htm#fr_208) 'The earth
+<span id="fn_208"></span>[292:XIX](icap2-1.htm#fr_208.md) 'The earth
 descending or approaching the marsh' is, according to *K*û Hsî,
 symbolical of the approach of superiors to the inferior people, and then
 the two predicates about the superior man are descriptive of him in that
@@ -1382,7 +1382,7 @@ standpoints from which they are made. The view in the translation is
 that of *K*û Hsî. It is difficult to hold the balance between them. The
 newer view, perhaps, is the preferable.
 
-<span id="fn_209"></span>[293:XX](icap2-1.htm#fr_209) Wind moving above
+<span id="fn_209"></span>[293:XX](icap2-1.htm#fr_209.md) Wind moving above
 the earth has the widest sweep, and nothing escapes its influence; it
 penetrates everywhere. This symbolism is more appropriate to the subject
 in hand than that of many other hexagrams. Personal influence in a ruler
@@ -1400,7 +1400,7 @@ Line 4. 'The glory of the kingdom' is the virtue of the sovereign and
 the character of his administration. With the sentiment compare Mencius,
 VII, i, chap. 21. 2.
 
-<span id="fn_210"></span>[294:XXI](icap2-1.htm#fr_210) *Kh*ăng-žze says
+<span id="fn_210"></span>[294:XXI](icap2-1.htm#fr_210.md) *Kh*ăng-žze says
 that thunder and lightning are always found together, and hence their
 trigrams go together to give the idea of union intended in Shih Ho. The
 one trigram symbolising majesty and the other brightness or
@@ -1418,7 +1418,7 @@ denoted by the central position of the line.'
 still something for him to do:--he has to realise the difficulty of his
 position and be firm.
 
-<span id="fn_211"></span>[295:XXII](icap2-1.htm#fr_211) 'A mountain,'
+<span id="fn_211"></span>[295:XXII](icap2-1.htm#fr_211.md) 'A mountain,'
 says *Kh*ăng-žze, 'is a place where we find grass, trees, and a hundred
 other things. A fire burning below it throws up its light, and brings
 them all Out in beauty; and this gives the idea of ornament, or being
@@ -1447,7 +1447,7 @@ The subject of line 6 has more of the spirit of the hexagram than in
 most hexagrams. His being clothed in simple white crowns the lesson that
 ornament must be kept in a secondary place.
 
-<span id="fn_212"></span>[296:XXIII](icap2-1.htm#fr_212) A mountain,'
+<span id="fn_212"></span>[296:XXIII](icap2-1.htm#fr_212.md) A mountain,'
 says Yü Fan (towards the end of the Han dynasty), 'stands out high above
 the earth; here it appears as lying on the earth:--plainly it has been
 overturned.' On the <span id="page_297">p. 297</span> other hand, Liû Mû
@@ -1476,7 +1476,7 @@ Paragraph 6 shows the ruler restored to the favour of the people, and
 the restoration of concord in the state. The small men have done their
 worst, and there is an end of their attempts for a time.
 
-<span id="fn_213"></span>[298:XXIV](icap2-1.htm#fr_213) 'Thunder in the
+<span id="fn_213"></span>[298:XXIV](icap2-1.htm#fr_213.md) 'Thunder in the
 midst of the earth' is thunder shut up and silent, just able to make its
 presence felt. So is it with the first genial stirrings of life after
 the winter solstice; so is it with the first returning steps of the
@@ -1504,7 +1504,7 @@ for 'humanity,' man in his ideal.
 The other paragraphs present nothing for remark beyond what has been
 said on the Text of the duke of *K*âu.
 
-<span id="fn_214"></span>[299:XXV](icap2-1.htm#fr_214) The composition
+<span id="fn_214"></span>[299:XXV](icap2-1.htm#fr_214.md) The composition
 of the hexagram is given here in a manner different from what we have
 met with in the account of any of the preceding figures; and as the text
 is not called in question, I have made the best I could in the
@@ -1531,8 +1531,8 @@ afflicted, so it will cure.'
 Paragraph 6. 'When a thing is over and done, submission and acquiescence
 are what are required, and not renewed attempts at action.'
 
-<span id="fn_215"></span>[300:XXVI](icap2-1.htm#fr_215) I have quoted,
-in the Introduction, [p. 37](icintr03.htm#page_37), *K*û Hsî's remark on
+<span id="fn_215"></span>[300:XXVI](icap2-1.htm#fr_215.md) I have quoted,
+in the Introduction, [p. 37](icintr03.htm#page_37.md), *K*û Hsî's remark on
 the Great Symbolism here. *Kh*ăng-žze says:--'Heaven is the greatest of
 all things, and its being in the midst of a mountain gives us the idea
 of a very large accumulation. And so great <span id="page_301">p.
@@ -1552,7 +1552,7 @@ them, without any trouble he has repressed evil. The 'joy' gives place
 in paragraph 5 to 'congratulation,' the people being all interested in
 the action of the ruler.
 
-<span id="fn_216"></span>[302:XXVII](icap2-1.htm#fr_216) I do not think
+<span id="fn_216"></span>[302:XXVII](icap2-1.htm#fr_216.md) I do not think
 that the Great Symbolism here is anything but that of a thunderstorm,
 dispersing the oppression that bangs over nature, and followed by genial
 airs, and the reviving of all vegetation. But there is nothing analogous
@@ -1568,7 +1568,7 @@ associate of 2.
 The other paragraphs are sufficiently illustrated in the notes on the
 Text.
 
-<span id="fn_217"></span>[303:XXVIII](icap2-1.htm#fr_217) *Kh*ăng-žze
+<span id="fn_217"></span>[303:XXVIII](icap2-1.htm#fr_217.md) *Kh*ăng-žze
 says on the Great Symbolism:--'The waters of a marsh moisten and nourish
 the trees. When here it is said that they destroy and extinguish the
 trees, their action is very extraordinary.' This explanation is very
@@ -1587,7 +1587,7 @@ vigorous tree. The flowers here will soon decay, and the withered trunk
 continue the same. For what will a young man marry an old woman? There
 will be no children;--it can only be from some mercenary object.
 
-<span id="fn_218"></span>[304:XXIX](icap2-1.htm#fr_218) The application
+<span id="fn_218"></span>[304:XXIX](icap2-1.htm#fr_218.md) The application
 of the Great Symbolism is here more perplexing even than usual. What is
 said of the superior man is good, but there is no reference in it to the
 subject of danger.
@@ -1599,7 +1599,7 @@ from the danger.
 Those represented in line 4 by the strong and weak lines are the ruler
 and his minister.
 
-<span id="fn_219"></span>[305:XXX](icap2-1.htm#fr_219) In the Great
+<span id="fn_219"></span>[305:XXX](icap2-1.htm#fr_219.md) In the Great
 Symbolism Lî is used in the sense of brightness. There was no occasion
 to refer to its other meaning. 'The great man' rather confirms the
 interpretation of the 'double brightness' in the treatise on the Thwan
@@ -1616,4 +1616,4 @@ symbolism of the line, which is not given here.
 
 ------------------------------------------------------------------------
 
-[Next: Section II](icap2-2)
+[Next: Section II](icap2-2.md)

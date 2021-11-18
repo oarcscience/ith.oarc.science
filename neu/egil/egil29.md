@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil28)  [Next](egil30) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil28)  [Next](egil30.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ they returned to Borg.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXIX. Of Skallagrim's industry.](egil30)
+[Next: CHAPTER XXIX. Of Skallagrim's industry.](egil30.md)

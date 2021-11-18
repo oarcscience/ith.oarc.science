@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Next](lku01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Next](lku01.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@
 <span id="img_title"></span>
 
 [![Title page and Frontispiece (Best Available Image)](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title page and Frontispiece (Best Available Image)  
 
  
@@ -59,4 +59,4 @@ intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](lku01)
+[Next: Introduction](lku01.md)

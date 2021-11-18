@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt92)  [Next](egt94) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt92)  [Next](egt94.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ thee.
 ------------------------------------------------------------------------
 
 [Next: TO COMMEMORATE THE PROPHETS IS BETTER THAN SPEAKING OF
-FOOLS.](egt94)
+FOOLS.](egt94.md)

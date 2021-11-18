@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp02)  [Next](dmp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp02)  [Next](dmp04.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ script by the help of the numerous glosses in Graeco-Coptic characters
 was at once perceived by the distinguished scholar Reuvens, at that time
 Director of the Leiden Museum of Antiquities, who proceeded to study it
 carefully, and in 1830 published an admirable essay <span
-id="fr_0"></span>[1](#fn_0) in which he sketched the principal contents
+id="fr_0"></span>[1](#fn_0.md) in which he sketched the principal contents
 of the MS. and indicated its value for the progress of demotic
 
 <span id="page_2">p. 2</span>
@@ -38,7 +38,7 @@ lithographed in facsimile under his direction, and he had corrected the
 proofs of the first plate when he was cut off by a premature death in
 1835; his work was carried to completion and published by his successor
 in the Directorship of the Museum, Leemans, in 1839 <span
-id="fr_1"></span>[1](#fn_1). Heinrich Brugsch studied it closely, and
+id="fr_1"></span>[1](#fn_1.md). Heinrich Brugsch studied it closely, and
 drew from it most of the examples quoted in his Demotic Grammar
 published in 1855; but, although later scholars have frequently quoted
 from it and translated fragments of it, the MS. has hitherto remained
@@ -54,7 +54,7 @@ working in Leiden on the MS. there. Professor Hess went on to London,
 and, having fully confirmed Dr. Pleyte's statement, published in 1892 a
 reproduction of the British Museum MS. with an introduction, including
 the translation of one column, and a glossary <span
-id="fr_2"></span>[2](#fn_2).
+id="fr_2"></span>[2](#fn_2.md).
 
 Reuvens in his essay dwelt at some length on the 'gnostic' character of
 the MS. He devoted his attention mainly to the parts which contain the
@@ -136,7 +136,7 @@ on the
 
 recto, while on the verso are thirty-three small columns or portions of
 columns; but these are not marked off, as are the recto columns, by
-vertical and horizontal framing lines <span id="fr_3"></span>[1](#fn_3),
+vertical and horizontal framing lines <span id="fr_3"></span>[1](#fn_3.md),
 nor are they written continuously, but they seem to have been jotted
 down there on account of their brevity and discontinuous character.
 
@@ -351,7 +351,7 @@ scarcely be a matter of doubt to any one who has studied closely the
 handwriting of the original MSS. It must be stated, however, that
 Reuvens and Leemans were of opinion that the glosses were written by a
 later hand than that of the body of the text: but this question has been
-discussed above ([p. 9](#page_9)), and apart from the identity of ink,
+discussed above ([p. 9](#page_9).md), and apart from the identity of ink,
 and the material proof given there, it may be added that the hieratic
 glosses in 27/8 are certainly written by the same hand as the numerous
 hieratic passages scattered through the text.
@@ -664,22 +664,22 @@ quoted as 1/1 and verso, Col. II. I. 3 as V. 2/3, &c.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](dmp03.htm#fr_0) Lettres à M. Letronne sur
+<span id="fn_0"></span>[1:1](dmp03.htm#fr_0.md) Lettres à M. Letronne sur
 les papyrus bilingues et grecs, par C. J. C. REUVENS. Leide, 1830.
 (Première lettre, Papyrus bilingues.)
 
-<span id="fn_1"></span>[2:1](dmp03.htm#fr_1) Monuments égyptiens du
+<span id="fn_1"></span>[2:1](dmp03.htm#fr_1.md) Monuments égyptiens du
 Musée d’Antiquités des Pays-Bas à Leide: papyrus égyptien démotique à
 transcriptions grecques I. 383, publié par le Dr. CONRAD LEEMANS. Leide,
 1839.
 
-<span id="fn_2"></span>[2:2](dmp03.htm#fr_2) Der gnostische Papyrus von
+<span id="fn_2"></span>[2:2](dmp03.htm#fr_2.md) Der gnostische Papyrus von
 London, Einleitung, Text u. Demotisch-deutsches Glossar von J. J. HESS.
 Freiburg, 1892.
 
-<span id="fn_3"></span>[5:1](dmp03.htm#fr_3) The horizontal lines on the
+<span id="fn_3"></span>[5:1](dmp03.htm#fr_3.md) The horizontal lines on the
 recto are continuous for the whole length of the papyrus.
 
 ------------------------------------------------------------------------
 
-[Next: Col. I](dmp04)
+[Next: Col. I](dmp04.md)

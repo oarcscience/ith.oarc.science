@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Next](nep01) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Next](nep01.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ place.
 
 ------------------------------------------------------------------------
 
-[Next: Frontispiece](nep01)
+[Next: Frontispiece](nep01.md)

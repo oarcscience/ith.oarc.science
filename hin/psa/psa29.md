@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa28)  [Next](psa30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa28)  [Next](psa30.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ substance, desire and deliverance are obtained in the world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX](psa30)
+[Next: Chapter XXIX](psa30.md)

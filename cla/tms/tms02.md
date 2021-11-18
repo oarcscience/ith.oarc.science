@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](tms01)  [Next](tms03) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](tms01)  [Next](tms03.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ INDEX \[NOT INCLUDED--e.f.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Mana, Magic and Animism](tms03)
+[Next: Chapter I: Mana, Magic and Animism](tms03.md)

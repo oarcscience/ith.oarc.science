@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls22)  [Next](rls24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls22)  [Next](rls24.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ distinguishes very clearly between philosophy or *Gñ*âna (knowledge) and
 <span id="page_94">p. 94</span>
 
 devotion or Bhakti, and he himself was a Bhakta, a worshipper <span
-id="fr_13"></span>[1](#fn_13) or lover of the deity, much more than a
+id="fr_13"></span>[1](#fn_13.md) or lover of the deity, much more than a
 *Gñ*ânin or a knower. It was in order to show the background from which
 Râmak*ri*sh*n*a emerges, and the lights and shades of the atmosphere in
 which he moved, that I thought it useful to add a short sketch of
@@ -138,7 +138,7 @@ of individuality, personality, and of the whole phenomenal world.
 
 ### Footnotes
 
-<span id="fn_13"></span>[94:1](rls23.htm#fr_13) This difference between
+<span id="fn_13"></span>[94:1](rls23.htm#fr_13.md) This difference between
 Bhakti, devotion, and *Gñ*âna, knowledge, is fully treated by Kishori
 Lal Sarkar in his interesting little book, The Hindu System of Religious
 Science and Art, or the Revelations of Rationalism and Emotionalism,
@@ -149,4 +149,4 @@ reciprocates the Supreme Loving Will.'
 
 ------------------------------------------------------------------------
 
-[Next: The Sayings of Râmak*ri*sh*n*a](rls24)
+[Next: The Sayings of Râmak*ri*sh*n*a](rls24.md)

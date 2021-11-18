@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp10)  [Next](esp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp10)  [Next](esp12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -316,7 +316,7 @@ fact, they even lowered it slightly (to 3.6).
 In the three further experiments, conducted in much the same way, the
 symbols used were 5 simple designs: circle, rectangle, plus sign, wavy
 lines and star (<span id="img_05000"></span> ![Zener card
-symbols](img/05000.jpg)). These were mainly chosen by Dr. Zener, with a
+symbols](img/05000.jpg).md). These were mainly chosen by Dr. Zener, with a
 view to avoiding undue overlapping, complication and difference in
 familiarity. They are still in use. (We have once since substituted a
 "heart" for the "waves" figure but later returned to the latter. I shall
@@ -655,7 +655,7 @@ exploratory tests, using at first the hypnotic trance and the undefined
 telepathy-clairvoyance technique used by Dr. Lundholm and myself. Later
 he adopted the waking condition and pure clairvoyance conditions we had
 come to use exclusively. At first, he used a set of symbols of his own
-(<span id="img_05301"></span> ![Original Zener symbols](img/05301.jpg))
+(<span id="img_05301"></span> ![Original Zener symbols](img/05301.jpg).md)
 but he changed later on to the Zener cards. It is especially interesting
 to note that Stuart obtained better results than did Dr. Lundholm and
 I—not with the same subjects, it is true, and any comparison is based on
@@ -664,7 +664,7 @@ now that Stuart, himself a student, working with fellow students who
 knew him well, did not induce the restraint and self-consciousness which
 Dr. Lundholm and I undoubtedly did with many student subjects. Stuart's
 results also warrant the detail of a tabular statement. (See [Table
-IV](esp11.htm#an_tab04)). For a description of the technique of the
+IV](esp11.htm#an_tab04).md). For a description of the technique of the
 three procedures used see the experiments of Dr. Lundholm and myself
 above. Instead of the circle-8 test Stuart used the 5-drawings test
 mentioned above. It will be noted that the best results were obtained
@@ -822,7 +822,7 @@ np.</p></td>
 
 <span id="page_54">p. 54</span>
 
-Following the experiments of [Table IV](esp11.htm#an_tab04) Stuart went
+Following the experiments of [Table IV](esp11.htm#an_tab04.md) Stuart went
 over to the pure clairvoyance tests, using the Zener Cards. The
 procedure was essentially the same as that used by me in the exploratory
 tests for clairvoyance, except that Stuart used to shuffle the deck
@@ -833,7 +833,7 @@ all of a given symbol drawn. At worst, however, the probability would
 very occasionally be increased to % for the last 5 calls. It was,
 however, a point in favor of Stuart's caution. He, himself, in running
 did not look at the cards; he held them behind his back in his own
-calling. See [Table V](esp11.htm#an_tab05) for the results up to the
+calling. See [Table V](esp11.htm#an_tab05.md) for the results up to the
 fall semester, 1931.
 
 TABLE V<span id="an_tab05"></span>
@@ -939,7 +939,7 @@ from np.</p></td>
 
 The last figure given for the combined value of the ratio of positive
 deviation to p.e. was 11.5. Stuart's results in [Table
-V](esp11.htm#an_tab05) alone contribute a value for X of 11.1. Combining
+V](esp11.htm#an_tab05.md) alone contribute a value for X of 11.1. Combining
 these, then, in the proper manner, we arrive at 16.1, a value that
 renders the alternate theory of "random distribution" or "chance" still
 more hopelessly unacceptable.
@@ -950,9 +950,9 @@ Cognition", in which he presented evidence from telepathic and
 clairvoyant drawing-tests carried out with considerable distance between
 the agent and himself as percipient. He undertook, then, to do some pure
 clairvoyant work as well. He was interested in the decline curve
-suggested by the work of Richet, <span id="fr_69"></span>[1](#fn_69)
-Jephson, <span id="fr_70"></span>[2](#fn_70) and Estabrooks, <span
-id="fr_71"></span>[3](#fn_71) and decided to run 100 clairvoyant trials
+suggested by the work of Richet, <span id="fr_69"></span>[1](#fn_69.md)
+Jephson, <span id="fr_70"></span>[2](#fn_70.md) and Estabrooks, <span
+id="fr_71"></span>[3](#fn_71.md) and decided to run 100 clairvoyant trials
 per day for a time, calling suits on playing cards, and then total the
 results in order of 20's in the hundred. That is, he added up the
 results by the various 20's for all the runs made. He totalled after 9
@@ -980,7 +980,7 @@ surprised at the changes. In any case Frick's work contains an
 interesting suggestion. He ran a total of 3,120 trials, with a total
 positive deviation of 49 suits. This is only 3 times the p.e. But the
 internal comparisons are somewhat more significant. They can best be
-displayed in a table. See [Table VI](esp11.htm#an_tab06). Frick's 3,120
+displayed in a table. See [Table VI](esp11.htm#an_tab06.md). Frick's 3,120
 trials in clairvoyant card-guessing, interesting though they are in
 their decline relationship, raise the ratio of positive deviation to
 p.e. only slightly, from 16.1 to 16.4.
@@ -1220,7 +1220,7 @@ fact that Pratt himself declined in his capacity for clairvoyant
 perception, as did Miss Weckesser. Both of these worked alone. Both,
 also, had strong interest in continuing and even in raising their
 scores. Pratt's results are partly itemized in [Table
-VIII](esp11.htm#an_tab08).
+VIII](esp11.htm#an_tab08.md).
 
 TABLE VIII<span id="an_tab08"></span>
 
@@ -1345,7 +1345,7 @@ directing these 90,000 tests such lapses as these. But I am fully
 confident that there is no batch of forgotten and unreported data that
 would alter the final "anti-chance" value (D/p.e.) by so much as half a
 unit. That is safe, and there we will leave it. The remnants are given
-in [Table IX](esp11.htm#an_tab09).
+in [Table IX](esp11.htm#an_tab09.md).
 
 TABLE IX<span id="an_tab09"></span>
 
@@ -1454,16 +1454,16 @@ these tests.
 
 ### Footnotes
 
-<span id="fn_69"></span>[54:1](esp11.htm#fr_69) Richet, Charles, *La
+<span id="fn_69"></span>[54:1](esp11.htm#fr_69.md) Richet, Charles, *La
 Suggestion Mentale et la Calcul des Probabilités*, XVIII, 1884.
 
-<span id="fn_70"></span>[54:2](esp11.htm#fr_70) Jephson, Miss Ina,
+<span id="fn_70"></span>[54:2](esp11.htm#fr_70.md) Jephson, Miss Ina,
 *Evidence for Clairvoyance in Card-guessing*, *Proc*. S.P.R. 38: pp.
 223-271, 1928.
 
-<span id="fn_71"></span>[54:3](esp11.htm#fr_71) Estabrooks, G. H., *A
+<span id="fn_71"></span>[54:3](esp11.htm#fr_71.md) Estabrooks, G. H., *A
 Contribution to Experimental Telepathy*, B.S.P.R., Bulletin V, 1927.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5. A. J. Linzmayer](esp12)
+[Next: Chapter 5. A. J. Linzmayer](esp12.md)

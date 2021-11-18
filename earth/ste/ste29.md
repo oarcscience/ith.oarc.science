@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste28)  [Next](ste30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste28)  [Next](ste30.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ future Happiness, shall be always Dutifully paid, by*
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Reader](ste30)
+[Next: Preface to the Reader](ste30.md)

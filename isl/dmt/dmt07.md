@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt06)  [Next](dmt08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt06)  [Next](dmt08.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,7 +202,7 @@ accepted traditions from the Prophet assert that the Khalifa must be of
 the family of Quraysh; so long as there are two left of that tribe, one
 must be Khalifa and the other his helper. Still, here, as everywhere,
 the principal of Ijma, Agreement of the Muslim people, (see [p.
-105](dmt09.htm#page_105)) comes in and must be reckoned with. These very
+105](dmt09.htm#page_105).md) comes in and must be reckoned with. These very
 traditions are probably an expression in concrete form of popular
 agreement. The Khalifate itself is confessedly based upon agreement. The
 canon lawyers state the case thus: The Imamites and Isma‘ilians hold
@@ -375,4 +375,4 @@ Successorship and the People of Muhammad to join the civilized world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](dmt08)
+[Next: Chapter I](dmt08.md)

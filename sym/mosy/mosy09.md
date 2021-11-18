@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Index](index)  [Previous](mosy08)  [Next](mosy10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Index](index)  [Previous](mosy08)  [Next](mosy10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Migration of Symbols*, by Goblet d'Alviella, \[1894\], at
 Intangible Textual Heritage
 
@@ -77,7 +77,7 @@ a still higher signification; if, for example, the Greeks, "following
 the Pelasgians," did not employ it to symbolize a god elevated above the
 Olympians, or even the One and Supreme Being of philosophy arid
 religious tradition, "the unknown God, to whom, according to Saint Paul,
-an altar was dedicated at Athens"? <span id="fr_172"></span>[1](#fn_172)
+an altar was dedicated at Athens"? <span id="fr_172"></span>[1](#fn_172.md)
 
 This is doing great honour to the *gammadion*. To reduce these theories
 to their real value it is only necessary to show that they are
@@ -118,7 +118,7 @@ an undeniable fact that the *gammadion* figures amongst the geometric
 ornaments on certain pottery styled *Pelasgic*, because, in the bronze
 period, or the first iron age, it is found amongst all the Aryan
 peoples, from Asia Minor to the shores of the Atlantic. <span
-id="fr_173"></span>[1](#fn_173) But, to
+id="fr_173"></span>[1](#fn_173.md) But, to
 
 <span id="page_76">p. 76</span>
 
@@ -165,7 +165,7 @@ this latter region that we must look for the first home of the
 reproduces the types and symbols of the local religions, the countries
 nearest the Danube, such as Macedon and Thrace, are amongst those whose
 coins frequently exhibit the *gammadion*, the *tétrascèle*, and the
-*triscèle*. <span id="fr_174"></span>[1](#fn_174) Besides, it is
+*triscèle*. <span id="fr_174"></span>[1](#fn_174.md) Besides, it is
 especially at Athens that it is found on the pottery of Greece proper,
 and we know that Attica is supposed to have been primitively colonized
 by the Thracians.
@@ -181,7 +181,7 @@ Asia, and transported there most of the names which they had already
 introduced into their European home. There were Dardanians in Macedon,
 on the borders of the Axios, as in the Troad, on the borders of the Ida,
 Kebrenes at the foot of the Balkans, and a town, Kebrene, near
-Ilium." <span id="fr_175"></span>[2](#fn_175) Who will be astonished
+Ilium." <span id="fr_175"></span>[2](#fn_175.md) Who will be astonished
 that these, emigrants
 
 <span id="page_78">p. 78</span>
@@ -198,14 +198,14 @@ Mr. Sayce, it is true, having met with it in Lycaonia, on the bas-relief
 of Ibriz, maintains the impossibility of deciding if it is a symbol
 imported from the Trojans amongst the Hittites, or if, on the contrary,
 it is to be attributed to the latter. <span
-id="fr_176"></span>[1](#fn_176) Yet, whilst the oldest "whorls" of
+id="fr_176"></span>[1](#fn_176.md) Yet, whilst the oldest "whorls" of
 Hissarlik go back *at least* to the fourteenth or fifteenth century
 B.C., the bas-relief of Ibriz reveals an influence of Phrygian, and even
 Assyrian art, which is, perhaps, contemporaneous with King Midas, and
 which, in any case, cannot have risen long before the accession of the
 Sargonidæ; that is to say, in order to determine the age of the monument
 we must come down to the ninth or eighth century before our era. <span
-id="fr_177"></span>[2](#fn_177)
+id="fr_177"></span>[2](#fn_177.md)
 
 It is therefore not difficult, here, as everywhere else, to connect the
 origins of the *gammadion* with the early centres which we have assigned
@@ -231,7 +231,7 @@ Southern Italy. It must be observed that even at Rome it seems to have
 always been connected with the traditions of the East. The only
 tombstone in the open air on which it has, so far, been noticed in the
 vicinity of the Eternal City is that of a Syrian. <span
-id="fr_178"></span>[1](#fn_178) We must not forget that the Christianity
+id="fr_178"></span>[1](#fn_178.md) We must not forget that the Christianity
 of the Catacombs was likewise a religion of Oriental origin.
 
 In the extreme East, the origins of the *gammadion* can be traced
@@ -255,11 +255,11 @@ Here, however, occurs a difficulty, which we must not conceal. The
 India, by Alexander and his Indo-Greek successors. Even amongst the
 Indo-Scythians, whose coinage copies the Greek types, it is only visible
 on barbarous imitations of the coins of Basu Deva. <span
-id="fr_179"></span>[1](#fn_179) On the other hand, as we have shown, it
+id="fr_179"></span>[1](#fn_179.md) On the other hand, as we have shown, it
 adorns the coins of Krananda, and the most ancient monetary ingots of
 India. Moreover, Panini, who already makes mention of the *swastika*, is
 sometimes considered to have lived in the middle of the fourth century
-B.C. <span id="fr_180"></span>[2](#fn_180) It might therefore be
+B.C. <span id="fr_180"></span>[2](#fn_180.md) It might therefore be
 possible that the Hindus had known the *swastika* before feeling in
 their arts, and even in their symbolism, the influence of the Greek
 invasion. Yet, for the best of reasons, it is neither the Chaldæans, the
@@ -268,12 +268,12 @@ the *gammadion* to Hindustan. There only remain, then, the Persians,
 whose influence on the nascent arts of India was certainly felt before
 Alexander. But in Persia itself the *gammadion* only appears as an
 exception, on a few rare coins approaching our era. <span
-id="fr_181"></span>[3](#fn_181)—Perhaps we would do well to look towards
+id="fr_181"></span>[3](#fn_181.md)—Perhaps we would do well to look towards
 the Caucasus, where the antique ornaments with *gammadions*, collected
 by M. Chantre, lead us
 
 <span id="img_pl03"></span> <span align="CENTER"> [![](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)</span>
+Click to enlarge](img/pl03.jpg.md)</span>
 
 <span class="small"><span class="smallcaps">Plate III.—Table
 Illustrating the Migrations of the Gammadion</span></span>
@@ -291,7 +291,7 @@ ancient Persians.—It is right, too, to call attention to its absence on
 the most ancient pottery of Greece and the Archipelago, where it only
 appears with geometric decoration.—In reality, the problem is less a
 question of ethnography than of archæology, or rather of comparative
-art. <span id="fr_182"></span>[1](#fn_182)
+art. <span id="fr_182"></span>[1](#fn_182.md)
 
 If the *gammadion* is found amongst none of the nations composing the
 Egypto-Semitic group, if, amongst the Aryans of Persia, it never played
@@ -314,7 +314,7 @@ have never succeeded in establishing themselves in good earnest. Even in
 India, granting that these two last figures really crossed the Indus
 with the Greek, or the Iranian symbolism, they are only met with in an
 altered form, and with a new meaning. <span
-id="fr_183"></span>[1](#fn_183)
+id="fr_183"></span>[1](#fn_183.md)
 
 In brief, the ancient world might be divided into two zones,
 characterized, one by the presence of the *gammadion*, the other by that
@@ -331,7 +331,7 @@ prevails amongst a great part of the Mongolian races, whilst, with the
 exception of a few isolated and insignificant cases which still survive
 amongst the actual populations of Hindustan, and, perhaps, of Iceland,
 it has completely disappeared from Aryan symbolism and even
-folk-lore. <span id="fr_184"></span>[2](#fn_184)
+folk-lore. <span id="fr_184"></span>[2](#fn_184.md)
 
 <span id="page_83">p. 83</span>
 
@@ -339,10 +339,10 @@ folk-lore. <span id="fr_184"></span>[2](#fn_184)
 
 ### Footnotes
 
-<span id="fn_171"></span>[72:1](mosy08.htm#fr_171) <span
+<span id="fn_171"></span>[72:1](mosy08.htm#fr_171.md) <span
 class="smallcaps">Greg</span>. *Archæologia*, 1885, p. 304.
 
-<span id="fn_172"></span>[74:1](mosy09.htm#fr_172) <span
+<span id="fn_172"></span>[74:1](mosy09.htm#fr_172.md) <span
 class="smallcaps">Lud. Müller</span>. *Op. cit.*, p. 107.—M. Alexandre
 Bertrand, for whose long-promised study on the *gammadion* we are
 waiting with justifiable impatience, makes it, with the Gauls at least,
@@ -352,23 +352,23 @@ divinity whose name we are ignorant of, no one will gainsay the fact.
 But if he alludes to a divinity who had no name, this is quite another
 matter.
 
-<span id="fn_173"></span>[75:1](mosy09.htm#fr_173) <span
+<span id="fn_173"></span>[75:1](mosy09.htm#fr_173.md) <span
 class="smallcaps">Max Collignon</span>. *Archéologie grecque*, p. 276.
 
-<span id="fn_174"></span>[77:1](mosy09.htm#fr_174) <span
+<span id="fn_174"></span>[77:1](mosy09.htm#fr_174.md) <span
 class="smallcaps">Percy Gardner</span>. *Solar Symbols on the Coins of
 Macedon and Thrace*, in the *Numismatic Chronicle*, vol. xx. (N. S.), p.
 49 *et seq.*
 
-<span id="fn_175"></span>[77:2](mosy09.htm#fr_175) <span
+<span id="fn_175"></span>[77:2](mosy09.htm#fr_175.md) <span
 class="smallcaps">G. Maspero</span>. *Histoire ancienne des peuples de
 l’Orient*. Paris, 1886, p. 241.
 
-<span id="fn_176"></span>[78:1](mosy09.htm#fr_176) <span
+<span id="fn_176"></span>[78:1](mosy09.htm#fr_176.md) <span
 class="smallcaps">A. H. Sayce</span>. *The Hittites, the Story of a
 forgotten Empire*. London, 1888, p. 142.
 
-<span id="fn_177"></span>[78:2](mosy09.htm#fr_177) <span
+<span id="fn_177"></span>[78:2](mosy09.htm#fr_177.md) <span
 class="smallcaps">Perrot</span> et <span
 class="smallcaps">Chipiez</span>. *Histoire de l’art dans l’antiquitié*,
 vol. iv., pp. 728 and 794, note 1.—With the exception of the bas-relief
@@ -376,26 +376,26 @@ of Ibriz, the *gammadion* has only been remarked on a single Hittite
 monument; it is a cylinder, probably of uncertain date. (<span
 class="smallcaps">Schliemann</span>. *Troja*, p. 125.)
 
-<span id="fn_178"></span>[79:1](mosy09.htm#fr_178) <span
+<span id="fn_178"></span>[79:1](mosy09.htm#fr_178.md) <span
 class="smallcaps">Lud. Müller</span>. Op. Cit., p. 62.
 
-<span id="fn_179"></span>[80:1](mosy09.htm#fr_179) <span
+<span id="fn_179"></span>[80:1](mosy09.htm#fr_179.md) <span
 class="smallcaps">Percy Gardner</span>. *Coins of Greek and Scythic
 Kings of India and Bactria*. London, 1886, p. 160.
 
-<span id="fn_180"></span>[80:2](mosy09.htm#fr_180) <span
+<span id="fn_180"></span>[80:2](mosy09.htm#fr_180.md) <span
 class="smallcaps">Monier Williams</span>. *Indian Wisdom*. London, 1876,
 p. 173.
 
-<span id="fn_181"></span>[80:3](mosy09.htm#fr_181) <span
+<span id="fn_181"></span>[80:3](mosy09.htm#fr_181.md) <span
 class="smallcaps">M. Ludw. Müller</span> draws attention to a coin of
 the Achæmenidæ in the *British Museum*, which would seem to bear the
 *gammadion;* but it is there a countermark which must belong to a much
 later period.—In the coinage prior to Alexander, the western *gammadion*
 does not seem to have advanced towards the east further than Asia Minor.
 
-<span id="fn_182"></span>[81:1](mosy09.htm#fr_182) See the table on
-[plate iii.](#img_pl03), where I have endeavoured to trace, in a manner,
+<span id="fn_182"></span>[81:1](mosy09.htm#fr_182.md) See the table on
+[plate iii.](#img_pl03.md), where I have endeavoured to trace, in a manner,
 the genealogy of the *gammadion* in the Ancient World. Supposing it be
 necessary to change certain approximate dates, those, for example, of
 the centuries in which the civilizations of Mycenæ and Villanova
@@ -410,9 +410,9 @@ of these two successive currents the cause of the variations which M.
 Lud. Müller points out, amongst the Germanic nations, between the forms
 of the *gammadion* in the bronze period and in the iron age.
 
-<span id="fn_183"></span>[82:1](mosy09.htm#fr_183) See chap. vi.
+<span id="fn_183"></span>[82:1](mosy09.htm#fr_183.md) See chap. vi.
 
-<span id="fn_184"></span>[82:2](mosy09.htm#fr_184) Some mention might be
+<span id="fn_184"></span>[82:2](mosy09.htm#fr_184.md) Some mention might be
 made of the *gammadions* which have been discovered in other parts of
 the world. In what mysterious way did this combination of lines come to
 be <span id="page_83">p. 83</span> stranded amongst the Ashantees? There
@@ -439,4 +439,4 @@ Mexico*, in *Archæologia*, vol. xlvii., pp. 157–160.)
 ------------------------------------------------------------------------
 
 [Next: Chapter III. On the Causes of Alteration in the Meaning and Form
-of Symbols](mosy10)
+of Symbols](mosy10.md)

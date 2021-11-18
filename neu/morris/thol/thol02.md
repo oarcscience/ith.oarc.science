@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](thol01)  [Next](thol03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](thol01)  [Next](thol03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Hollow Land*, by William Morris, \[1856\], at Intangible Textual
 Heritage
 
@@ -545,6 +545,6 @@ And truly, no man dared to stop us, and we went.
 
 ------------------------------------------------------------------------
 
-[Next: Failing in the World](thol03)
+[Next: Failing in the World](thol03.md)
 
 </div>

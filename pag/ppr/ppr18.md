@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr17)  [Next](ppr19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr17)  [Next](ppr19.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ Let it rest every evening!
 
 ------------------------------------------------------------------------
 
-[Next: The Salutation of the Dawn (Hindu)](ppr19)
+[Next: The Salutation of the Dawn (Hindu)](ppr19.md)

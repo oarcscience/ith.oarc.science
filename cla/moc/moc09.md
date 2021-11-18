@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc08)  [Next](moc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc08)  [Next](moc10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -92,7 +92,7 @@ were the Ægeans of Mediterranean race, and another that they were a late
 "wave" of pre-Hellenic conquerors. Grote insisted that all Herodotus
 knew about the Pelasgians was that they occupied a few scattered and
 inconsiderable townships in historical Greece and spoke a barbarous
-language. <span id="fr_102"></span>[1](#fn_102) He pointed out, however,
+language. <span id="fr_102"></span>[1](#fn_102.md) He pointed out, however,
 that our term "barbarian" does not express the same idea as the Hellenic
 word, "which involved associations of repugnance", although derived from
 it. "The Greeks", he explained, "spoke indiscriminately of the
@@ -134,14 +134,14 @@ legends. Grote, however, was frankly sceptical. "That which I note as
 Terra Incognita", he said, "is in his (Thirlwall's) view a land which
 may be known up to a certain point, but the map which he draws of it
 contains so few ascertained places as to differ very little from
-absolute vacuity." <span id="fr_103"></span>[1](#fn_103) Dealing with
+absolute vacuity." <span id="fr_103"></span>[1](#fn_103.md) Dealing with
 the Trojan war, he declared that, "though literally believed,
 reverentially cherished, and numbered among the gigantic phenomena of
 the past by the Grecian public, it is in the eyes of modern enquiry
 essentially a legend and nothing more". His answer to the question as to
 whether the war ever took place was: "As the possibility of it cannot be
 denied, so neither can the reality of it be affirmed". <span
-id="fr_104"></span>[2](#fn_104) We who are "wise after the event" may
+id="fr_104"></span>[2](#fn_104.md) We who are "wise after the event" may
 rail at Grote, but it must be remembered that he wrote at
 
 <span id="page_77">p. 77</span>
@@ -158,7 +158,7 @@ certifiable history. There are good reasons for pursuing the second
 method in reference to the Grecian myths, and when so considered they
 constitute an important chapter in the history of the Grecian mind, and,
 indeed, in that of the human race generally." <span
-id="fr_105"></span>[1](#fn_105) He did not agree with those, however,
+id="fr_105"></span>[1](#fn_105.md) He did not agree with those, however,
 who believed that the Homeric picture of life was wholly fictitious.
 Indeed, he drew, like others, upon the epics for evidence regarding
 customs and manners of life in early Greek times, although he held they
@@ -168,7 +168,7 @@ It was generally recognized that the petty states of Greece were ruled
 over by hereditary chiefs, whose power was limited by a military
 aristocracy. "Piracy was an honourable occupation," as one writer put
 it, "and war the delight of noble souls." Some historians added, on the
-authority of Thucydides, <span id="fr_106"></span>[2](#fn_106) that the
+authority of Thucydides, <span id="fr_106"></span>[2](#fn_106.md) that the
 commencement of Grecian civilization might be dated from the reign of
 King Minos of Crete, who had cleared the Ægean Sea of pirates. Grote
 could not, on the other hand, believe that the Minos legends had any
@@ -179,7 +179,7 @@ substituted
 <span id="page_78">p. 78</span>
 
 in place of the fabulous incidents and attached to the name of
-Minos." <span id="fr_107"></span>[1](#fn_107)
+Minos." <span id="fr_107"></span>[1](#fn_107.md)
 
 It should not surprise us that the so-called "doubting Thomases" among
 the historians hesitated to make use of myths and legends. Grote held
@@ -270,7 +270,7 @@ vainly endeavoured to find the origin in the Vedas. But in all antiquity
 the siege and conquest of Ilium by the Greek army under Agamemnon was
 considered as an undoubted historical fact, and as such it is accepted
 by the great authority of Thucydides. <span
-id="fr_108"></span>[1](#fn_108) The tradition has
+id="fr_108"></span>[1](#fn_108.md) The tradition has
 
 <span id="page_81">p. 81</span>
 
@@ -279,7 +279,7 @@ omitted by Homer. For my part, I have always firmly believed in the
 Trojan War; my full faith in Homer and in the tradition has never been
 shaken by modern criticism, and to this faith of mine I am indebted for
 the discovery of Troy and its treasure." <span
-id="fr_109"></span>[1](#fn_109)
+id="fr_109"></span>[1](#fn_109.md)
 
 The story of Heinrich Schliemann's life is a fitting prelude to an
 account of his epoch-making discoveries in Asia Minor and Greece which
@@ -310,7 +310,7 @@ under a round tower in the local land-proprietor's garden. "My faith in
 these treasures was so great", Schliemann wrote in after years, "that
 whenever I heard my father complain of his poverty, I expressed my
 astonishment that he did not dig up the silver bowl or the golden cradle
-and so become rich." <span id="fr_110"></span>[1](#fn_110)
+and so become rich." <span id="fr_110"></span>[1](#fn_110.md)
 
 An ancient castle also made a strong appeal to the boy's imagination. It
 was supposed to have the usual long underground passage leading to
@@ -330,7 +330,7 @@ classic narratives, had been buried with their armour and rich
 ornaments. "My firm faith in the traditions", he wrote in 1877, "made me
 undertake my late excavations in the Acropolis (of Mycenæ) and led to
 the discovery of the five tombs, with their immense treasures." <span
-id="fr_111"></span>[2](#fn_111) So the boy was "father of the man".
+id="fr_111"></span>[2](#fn_111.md) So the boy was "father of the man".
 
 The impecunious clergyman of Ankershagen cast over the mind of his son,
 Heinrich, the romantic glamour of classic myth and legend. The nursery
@@ -479,7 +479,7 @@ scales the other way. . . . I find, upon perusing the volume of Dr.
 Schliemann, that the items of evidence, which connect his discoveries
 generally with the Homeric poems, are more numerous than I had surmised
 from the brief outline with which he favoured us upon his visit to
-England in the spring." <span id="fr_112"></span>[1](#fn_112)
+England in the spring." <span id="fr_112"></span>[1](#fn_112.md)
 
 Tiryns, now called Palæocastron, was, according to Pausanias, named
 after Tiryns, a son of Argos. It was the reputed birthplace of Hercules,
@@ -488,7 +488,7 @@ and famed for its Cyclopean walls. "The circuit wall," wrote Pausanias,
 composed of unwrought stones, each of which is so large that a team of
 mules cannot even shake the smallest one: small stones have been
 interposed in order to consolidate the large blocks." <span
-id="fr_113"></span>[2](#fn_113)
+id="fr_113"></span>[2](#fn_113.md)
 
 Mycenæ was also reputed to have been built by these giant artisans, who
 numbered seven, and came from Lycia. It was probably on account of this
@@ -550,7 +550,7 @@ stones of the ancient Cyclopean wall measured about 7 feet long and 3
 feet thick in most cases, but some were of even greater dimensions.
 
 At Mycenæ, "situated in the depth of the horse-feeding Argos", as Homer
-sang, <span id="fr_114"></span>[1](#fn_114) Schliemann's early
+sang, <span id="fr_114"></span>[1](#fn_114.md) Schliemann's early
 researches were more productive. Here he set out to prove his theory
 that the graves of the Atreidæ were situated not outside but inside the
 citadel wall. He found that the wall revealed three different methods of
@@ -589,10 +589,10 @@ heraldic type to represent the idea. . . . In the interchange of
 artistic forms and improvements in civilization which obtained between
 Phrygia and the Greeks, the lion type passed into Mycenæ during the
 ninth, or more probably the eighth century B.C." <span
-id="fr_115"></span>[1](#fn_115)
+id="fr_115"></span>[1](#fn_115.md)
 
 Schliemann's guide to Mycenæ was Pausanias, who wrote <span
-id="fr_116"></span>[2](#fn_116): "Amongst other remains of the wall is
+id="fr_116"></span>[2](#fn_116.md): "Amongst other remains of the wall is
 the gate on which stand lions. They (the walls and the gate) are said to
 be the work of the Cyclopes, who built the wall for Proteus at Tiryns.
 In the ruins of Mycenæ is the fountain called Perseia, and the
@@ -626,8 +626,8 @@ undertaking extensive excavations. When he had cleared away the debris
 from the Lion's Gate, some of which had been cast there when the Argives
 captured the Acropolis in the fifth century B.C., he found evidence that
 the city had been partially reoccupied after its fall, although Diodorus
-Siculus <span id="fr_117"></span>[1](#fn_117) and Strabo <span
-id="fr_118"></span>[2](#fn_118) had made statements to the contrary.
+Siculus <span id="fr_117"></span>[1](#fn_117.md) and Strabo <span
+id="fr_118"></span>[2](#fn_118.md) had made statements to the contrary.
 
 Schliemann penetrated to the lower and earlier city of
 
@@ -761,7 +761,7 @@ and love of enterprise show no signs of decay. We may still look to him
 for many additions to science, and we hope to thank him for disclosing
 the heroic age of Greece in the periods of its prime and of its
 decadence, which may perhaps be found in Crete, the land of
-Minos." <span id="fr_119"></span>[1](#fn_119)
+Minos." <span id="fr_119"></span>[1](#fn_119.md)
 
 On 26th December in the same year, however, Schliemann expired suddenly
 in Naples. His body was taken to Athens and buried in the Greek cemetery
@@ -787,55 +787,55 @@ he was a naturalized American citizen.
 
 ### Footnotes
 
-<span id="fn_102"></span>[75:1](moc09.htm#fr_102) History of Greece,
+<span id="fn_102"></span>[75:1](moc09.htm#fr_102.md) History of Greece,
 Vol. II, pp. 350 *et seq*.
 
-<span id="fn_103"></span>[76:1](moc09.htm#fr_103) *History of Greece*,
+<span id="fn_103"></span>[76:1](moc09.htm#fr_103.md) *History of Greece*,
 Vol. II, p. 358.
 
-<span id="fn_104"></span>[76:2](moc09.htm#fr_104) *Ibid*., Vol. I, pp.
+<span id="fn_104"></span>[76:2](moc09.htm#fr_104.md) *Ibid*., Vol. I, pp.
 434-5.
 
-<span id="fn_105"></span>[77:1](moc09.htm#fr_105) *History of Greece*,
+<span id="fn_105"></span>[77:1](moc09.htm#fr_105.md) *History of Greece*,
 Vol. I, pp. 65
 
-<span id="fn_106"></span>[77:2](moc09.htm#fr_106) *History of the
+<span id="fn_106"></span>[77:2](moc09.htm#fr_106.md) *History of the
 Peloponnesian War*, I, 3-4.
 
-<span id="fn_107"></span>[78:1](moc09.htm#fr_107) *History of Greece*,
+<span id="fn_107"></span>[78:1](moc09.htm#fr_107.md) *History of Greece*,
 Vol. I, p. 311.
 
-<span id="fn_108"></span>[80:1](moc09.htm#fr_108) *Thucydides*, I, 8,
+<span id="fn_108"></span>[80:1](moc09.htm#fr_108.md) *Thucydides*, I, 8,
 10.
 
-<span id="fn_109"></span>[81:1](moc09.htm#fr_109) *Mycenæ*, p. 334.
+<span id="fn_109"></span>[81:1](moc09.htm#fr_109.md) *Mycenæ*, p. 334.
 
-<span id="fn_110"></span>[82:1](moc09.htm#fr_110) *Ilios*, pp. 1 *et
+<span id="fn_110"></span>[82:1](moc09.htm#fr_110.md) *Ilios*, pp. 1 *et
 seq*.
 
-<span id="fn_111"></span>[82:2](moc09.htm#fr_111) *Mycenæ* pp. 335.
+<span id="fn_111"></span>[82:2](moc09.htm#fr_111.md) *Mycenæ* pp. 335.
 
-<span id="fn_112"></span>[87:1](moc09.htm#fr_112) *Mycenæ*, Preface, p,
+<span id="fn_112"></span>[87:1](moc09.htm#fr_112.md) *Mycenæ*, Preface, p,
 vi.
 
-<span id="fn_113"></span>[87:2](moc09.htm#fr_113) *Pausanias*, II, 25,
+<span id="fn_113"></span>[87:2](moc09.htm#fr_113.md) *Pausanias*, II, 25,
 8, and *Mycenæ*, pp. 2-3.
 
-<span id="fn_114"></span>[89:1](moc09.htm#fr_114) Odyssey, III, 163.
+<span id="fn_114"></span>[89:1](moc09.htm#fr_114.md) Odyssey, III, 163.
 
-<span id="fn_115"></span>[90:1](moc09.htm#fr_115) *Journal of the
+<span id="fn_115"></span>[90:1](moc09.htm#fr_115.md) *Journal of the
 Hellenic Society*, Vol. V, p. 242.
 
-<span id="fn_116"></span>[90:2](moc09.htm#fr_116) *Pausanias*, II, 16,
+<span id="fn_116"></span>[90:2](moc09.htm#fr_116.md) *Pausanias*, II, 16,
 6, and *Mycenæ*, pp. 59, 60.
 
-<span id="fn_117"></span>[91:1](moc09.htm#fr_117) XI, 65.
+<span id="fn_117"></span>[91:1](moc09.htm#fr_117.md) XI, 65.
 
-<span id="fn_118"></span>[91:2](moc09.htm#fr_118) VIII, p. 372.
+<span id="fn_118"></span>[91:2](moc09.htm#fr_118.md) VIII, p. 372.
 
-<span id="fn_119"></span>[95:1](moc09.htm#fr_119) *Schliemann's
+<span id="fn_119"></span>[95:1](moc09.htm#fr_119.md) *Schliemann's
 Excavations*, translated by E. Sellers, p. 16.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Crete as the Lost Atlantis](moc10)
+[Next: Chapter V. Crete as the Lost Atlantis](moc10.md)

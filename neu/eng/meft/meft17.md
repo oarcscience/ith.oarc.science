@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft16)  [Next](meft18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft16)  [Next](meft18.md) 
 
 ------------------------------------------------------------------------
 
 # Coat o' Clay
 
 <span id="img_018"></span> [![](tn/018.jpg)  
-Click to enlarge](img/018.jpg)
+Click to enlarge](img/018.jpg.md)
 
 ONCE on a time, in the parts of Lindsey, there lived a wise woman. Some
 said she was a witch, but they said it in a whisper, lest she should
@@ -240,4 +240,4 @@ And he went off home.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Cows](meft18)
+[Next: The Three Cows](meft18.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dav00)  [Next](dav02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dav00)  [Next](dav02.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ was mentioned in Safinat Al-Bihâr for Al-Muhaddiþ Al-Qummi.
 ------------------------------------------------------------------------
 
 [Next: Climbing Into The Champer and Straying of Sheeps Into The
-Farm](dav02)
+Farm](dav02.md)

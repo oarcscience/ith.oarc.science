@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](pps02)  [Next](pps04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](pps02)  [Next](pps04.md) 
 
 ------------------------------------------------------------------------
 
@@ -654,4 +654,4 @@ it is the countenance of hell. 2
 
 ------------------------------------------------------------------------
 
-[Next: 151-200](pps04)
+[Next: 151-200](pps04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp02)  [Next](lbp04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp02)  [Next](lbp04.md) 
 
 ------------------------------------------------------------------------
 
@@ -489,4 +489,4 @@ M. M.
 
 ------------------------------------------------------------------------
 
-[Next: Aquelarre](lbp04)
+[Next: Aquelarre](lbp04.md)

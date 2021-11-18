@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](more06)  [Next](more08) 
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](more06)  [Next](more08.md) 
 
 ------------------------------------------------------------------------
 
@@ -665,4 +665,4 @@ which cannot be maintained but by much practice.
 
 ------------------------------------------------------------------------
 
-[Next: Of Their Slaves, And Of Their Marriages](more08)
+[Next: Of Their Slaves, And Of Their Marriages](more08.md)

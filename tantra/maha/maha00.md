@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Next](maha01) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Next](maha01.md) 
 
 ------------------------------------------------------------------------
 
@@ -3771,6 +3771,6 @@ A. A.
 ------------------------------------------------------------------------
 
 [Next: Chapter 1 - Questions relating to the Liberation of
-Beings](maha01)
+Beings](maha01.md)
 
   

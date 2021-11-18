@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli03)  [Next](roli05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli03)  [Next](roli05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -15,11 +15,11 @@ Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
 ## INITIATION CEREMONIES.
 
-### THE TOLOACHE CEREMONY. <span id="fr_6"></span>[7](#fn_6)
+### THE TOLOACHE CEREMONY. <span id="fr_6"></span>[7](#fn_6.md)
 
 The jimson-weed, *Datura meteloides*, in Spanish toloache, Luiseño
-naktamush, <span id="fr_7"></span>[7a](#fn_7)  <span
-id="fr_8"></span>[8](#fn_8) is one of the most imposing plants of
+naktamush, <span id="fr_7"></span>[7a](#fn_7.md)  <span
+id="fr_8"></span>[8](#fn_8.md) is one of the most imposing plants of
 Southern California. Its gigantic bluish-white bell-shaped flowers,
 opening towards evening and fading when the sun of the following day
 becomes intense, contrasted with the dull green leaves, attract the most
@@ -35,7 +35,7 @@ important ceremony. It is fifty years or more since the toloache ritual
 has been celebrated by the Luiseños; but for convenience the present
 tense is used.
 
-At the time of the Mani, <span id="fr_9"></span>[9](#fn_9) the toloache
+At the time of the Mani, <span id="fr_9"></span>[9](#fn_9.md) the toloache
 ceremony, a big fire is lighted at the main place of gathering. They
 have two places, and the one where they actually give the toloache is at
 a distance from the other. The places are made ready in the day time,
@@ -53,7 +53,7 @@ The tamyush, which since the last celebration of the ceremony have been
 buried in the ground, in a place known only to the chief, are taken out
 in good time and freshly painted so that they look nice. They are
 painted red, white, and black. Of the sacred ceremonial objects the
-tukmul <span id="fr_10"></span>[10](#fn_10) is not in the main enclosure
+tukmul <span id="fr_10"></span>[10](#fn_10.md) is not in the main enclosure
 but at the other place. The tukmul is a flat winnowing basket sacred to
 the Chungichnish rites. It belongs to the men, that is, is possessed by
 every initiate, and during every ceremony is placed on the ground
@@ -63,7 +63,7 @@ When it grows dark the people gather at the main place. The chief has
 charge of the religious conduct of the ceremony; but to see to the
 correct performance of every part of it during the four or five days of
 its continuance, two officers, Paha, <span
-id="fr_11"></span>[11](#fn_11) are selected, with varied functions.
+id="fr_11"></span>[11](#fn_11.md) are selected, with varied functions.
 
 They must go around to the different houses to collect the candidates
 for the Mani, carrying some of the little boys who may be found asleep.
@@ -77,11 +77,11 @@ ceremony who was unclean, unchaste, or menstruating.
 It is dark in the place where they take toloache. The large tamyush
 selected for the purpose is placed on the ground before the chief. It
 contains the root, previously prepared and dried, perhaps a year
-before. <span id="fr_12"></span>[12](#fn_12) The chief pounds the dry
+before. <span id="fr_12"></span>[12](#fn_12.md) The chief pounds the dry
 scraped bark with the stone mano (muller or pestle) to the accompaniment
 of a curious recitative, not a song: "Chanyoko, yoko," while the boys
 stand waiting in the darkness. The powder is then placed in a small
-twined sifting basket <span id="fr_13"></span>[13](#fn_13) and sifted
+twined sifting basket <span id="fr_13"></span>[13](#fn_13.md) and sifted
 again into the tamyush,
 
 <span id="page_79">p. 79</span>
@@ -106,16 +106,16 @@ start, each man takes charge of one of the boys who have partaken of the
 drink, and they stand and get ready. Now begins the marching song or
 recitative as they march to the main place, taking the boys along. The
 words of this recitative are: "Tamyush noya kwoya, Tamyush walks by
-twisting." <span id="fr_14"></span>[14](#fn_14) In the early days this
+twisting." <span id="fr_14"></span>[14](#fn_14.md) In the early days this
 tamyush, finely painted, out of which they drank toloache, when it was
 time to march to the main place, would walk along by itself. This was
 done with a twisting motion from side to side,—as a heavy barrel is
 moved.
 
 Tukmul, the sacred winnowing basket, <span
-id="fr_15"></span>[15](#fn_15) would do the same thing. He would run by
+id="fr_15"></span>[15](#fn_15.md) would do the same thing. He would run by
 himself to the main place; so would the other sacred basket,
-piavala, <span id="fr_16"></span>[16](#fn_16) a small basket in the
+piavala, <span id="fr_16"></span>[16](#fn_16.md) a small basket in the
 shape of an olla. These three, tamyush, tukmul, and piyevala, would have
 to stop three times on their way to the main place.
 
@@ -126,7 +126,7 @@ and could talk in the language of these birds
 <span id="page_80">p. 80</span>
 
 and animals, hawks and owls, and ravens and weasels. One could hear this
-but could see nothing. <span id="fr_17"></span>[17](#fn_17)
+but could see nothing. <span id="fr_17"></span>[17](#fn_17.md)
 
 Then they march around the fire, and dance singing the toloache song.
 The boys soon grow dizzy and fall down, and they carry them to the other
@@ -136,7 +136,7 @@ until the toloache intoxication wears off.
 After this come the dances and the Chungichnish songs, and sometimes new
 songs are composed at this time. Some of the old men have composed them
 to teach to the boys, and they dance all night long. At daylight they
-sing the song: "Tukaina wonipa," <span id="fr_18"></span>[18](#fn_18)
+sing the song: "Tukaina wonipa," <span id="fr_18"></span>[18](#fn_18.md)
 which means to go off; and they march to the other place where they took
 toloache, where they remain during the day.
 
@@ -145,7 +145,7 @@ eat more than two or three spoonfuls at most; but the others eat.
 
 When night comes each man takes one of the boys to the main place; and
 before all the people these old men do magic tricks ([Pl.
-1](roli32.htm#img_pl01)) to teach the boys how to perform them. In the
+1](roli32.htm#img_pl01).md) to teach the boys how to perform them. In the
 old days when they took Mani these people could do anything. They
 
 <span id="page_81">p. 81</span>
@@ -198,7 +198,7 @@ come near with water, as the hot steam
 
 would burn. They would tramp with hands and feet, and had the
 Chungichnish sticks. In the early days they would not feel fire. <span
-id="fr_19"></span>[19](#fn_19)
+id="fr_19"></span>[19](#fn_19.md)
 
 It is the men of the same village where the boys live who give them
 toloache; but the next day, perhaps, the people from another village
@@ -290,7 +290,7 @@ notifying his people when it is time to burn the sacred enclosure, which
 is done four or five weeks later to end the Mani.
 
 The sacred enclosure (Luiseño, wamkish or hotahish; <span
-id="fr_20"></span>[20](#fn_20) Spanish, casa grande) is made in a
+id="fr_20"></span>[20](#fn_20) Spanish, casa grande.md) is made in a
 circular form of willow and other brush. The ceremony of burning it is
 performed in the day time. First the Paha takes the food collected by
 the chief and distributes it among the different houses to be prepared
@@ -321,33 +321,33 @@ should give it to the white people.
 
 ### Footnotes
 
-<span id="fn_6"></span>[77:7](roli04.htm#fr_6) Based on an account given
+<span id="fn_6"></span>[77:7](roli04.htm#fr_6.md) Based on an account given
 by the Luiseño informant Lucario Cuevish.
 
-<span id="fn_7"></span>[77:7a](roli04.htm#fr_7) Vowels have the
+<span id="fn_7"></span>[77:7a](roli04.htm#fr_7.md) Vowels have the
 continental sounds, ai, au, ä, and ü being as in German. The letter x
 represents the sound of German ch or Spanish j. V, being bilabial in
 Luiseño, is much more like w than in English.—Ed.
 
-<span id="fn_8"></span>[77:8](roli04.htm#fr_8) Naktomush.—S.
+<span id="fn_8"></span>[77:8](roli04.htm#fr_8.md) Naktomush.—S.
 
-<span id="fn_9"></span>[77:9](roli04.htm#fr_9) Mani or pa’nish mani.—S.
+<span id="fn_9"></span>[77:9](roli04.htm#fr_9.md) Mani or pa’nish mani.—S.
 
-<span id="fn_10"></span>[78:10](roli04.htm#fr_10) Tukmul is given by
+<span id="fn_10"></span>[78:10](roli04.htm#fr_10.md) Tukmul is given by
 Boscana as tucmel.—Tukmal.—S.
 
-<span id="fn_11"></span>[78:11](roli04.htm#fr_11) Paha’, manager of
+<span id="fn_11"></span>[78:11](roli04.htm#fr_11.md) Paha’, manager of
 morahash dance and of mani.—S.
 
-<span id="fn_12"></span>[78:12](roli04.htm#fr_12) Among the Diegueños
+<span id="fn_12"></span>[78:12](roli04.htm#fr_12.md) Among the Diegueños
 the juice is said to be expressed from the fresh root and mixed with
 water. Only a root growing towards the north is selected. The song used
 in this connection in Diegueño begins: "Choki, choki. "
 
-<span id="fn_13"></span>[78:13](roli04.htm#fr_13) University of
+<span id="fn_13"></span>[78:13](roli04.htm#fr_13.md) University of
 California, Department of Anthropology, Museum number 1-10619.
 
-<span id="fn_14"></span>[79:14](roli04.htm#fr_14) University of
+<span id="fn_14"></span>[79:14](roli04.htm#fr_14.md) University of
 California, Department of Anthropology, phonograph record 394.—Tamyush
 ngoxya (x German ch) kwoya, tamyush walked twisting.—S.—Dr. R. B. Dixon,
 in the Northern Maidu, Bulletin American Museum of Natural History,
@@ -355,13 +355,13 @@ XVII, 137, 1905, says that the Shasta Indians of Northern California
 believe that certain mortars move of themselves, and describes their
 ceremonial use by the Maidu.—Ed.
 
-<span id="fn_15"></span>[79:15](roli04.htm#fr_15) University of
+<span id="fn_15"></span>[79:15](roli04.htm#fr_15.md) University of
 California, Department of Anthropology, Museum number 1-10620.
 
-<span id="fn_16"></span>[79:16](roli04.htm#fr_16) Peyevmal; peyevla, a
+<span id="fn_16"></span>[79:16](roli04.htm#fr_16.md) Peyevmal; peyevla, a
 large storage basket.—S.
 
-<span id="fn_17"></span>[80:17](roli04.htm#fr_17) Lucario knows nothing
+<span id="fn_17"></span>[80:17](roli04.htm#fr_17.md) Lucario knows nothing
 about personal "totem animals" or guardian spirits with which this part
 of the ceremony was probably connected. Boscana's account of the
 connection of the guardian spirit animal with the toloache ceremony is
@@ -389,11 +389,11 @@ observances required of him, then they gave him to eat and drink, and
 made a grand feast; at the same time advising him to be particular in
 obeying the commands of the mysterious apparition." (Op. cit., 270-1).
 
-<span id="fn_18"></span>[80:18](roli04.htm#fr_18) Tekaia wenepa: said to
+<span id="fn_18"></span>[80:18](roli04.htm#fr_18.md) Tekaia wenepa: said to
 refer to the placing of the bones of Ouiot in a receptacle and pouring
 them into a hole in the ground.—S.
 
-<span id="fn_19"></span>[82:19](roli04.htm#fr_19) The Diegueños of Mesa
+<span id="fn_19"></span>[82:19](roli04.htm#fr_19.md) The Diegueños of Mesa
 Grande had a very wonderful stone, which was used in this ceremony of
 putting out the fire in the toloache fiesta. It was worn by the chief
 about his neck, and was placed upon the fire at the proper time to put
@@ -401,7 +401,7 @@ it out by magic power. It was also used when red hot by the medicine men
 among their other deeds of wonder. They would hold it in their hands,
 lick it with the tongue, and so on.
 
-<span id="fn_20"></span>[84:20](roli04.htm#fr_20) Vanquech as given by
+<span id="fn_20"></span>[84:20](roli04.htm#fr_20.md) Vanquech as given by
 Boscana, pronounced Vankesh, is closely allied to Luiseño wamkish, v and
 w being more nearly alike than in English. The Diegueño name is awa-iku.
 
@@ -409,4 +409,4 @@ Hotahish, brush enclosure at mani; wamkish, the space enclosed.—S.
 
 ------------------------------------------------------------------------
 
-[Next: Wanawut, the Sacred Net](roli05)
+[Next: Wanawut, the Sacred Net](roli05.md)

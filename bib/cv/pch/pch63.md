@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch62) 
-[Next](pch64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch62.md) 
+[Next](pch64.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -33,10 +33,10 @@ suffice, therefore, to give only the briefest sketch of origins.
 
 We trace the cult specifically in the earliest Aryan documents—in the
 Vedas, in which the deity Mitra or Mithra is one of the prominent
-figures. <span id="fr_1411"></span>[1](#fn_1411) Seeing that there
+figures. <span id="fr_1411"></span>[1](#fn_1411.md) Seeing that there
 already he duplicates with other deities, it may be that, to begin with,
 the name was only a special epithet of the sun, <span
-id="fr_1412"></span>[2](#fn_1412) the central force in later myth as in
+id="fr_1412"></span>[2](#fn_1412.md) the central force in later myth as in
 our planetary system; and that it lay with the priests and their royal
 patrons to determine which Name should be the most popular God, since
 the whole evolution was one of words. In any case, it is in Aryan Persia
@@ -44,11 +44,11 @@ that the name of Mithra makes its fortune: in India it passes into the
 background of the verbal host.
 
 In the Rig-Veda it is frequently associated with Varuna <span
-id="fr_1413"></span>[3](#fn_1413) and Agni; and in the Atharva-Veda
+id="fr_1413"></span>[3](#fn_1413.md) and Agni; and in the Atharva-Veda
 Mitra is so defined as to make his solar character certain. Of a deity
 who stands in general for the principle of light, it is there said that
 "In the evening he becomes Varuna Agni; in the morning he becomes Mitra
-going forth," <span id="fr_1414"></span>[4](#fn_1414) an expression
+going forth," <span id="fr_1414"></span>[4](#fn_1414.md) an expression
 which plainly points to the Sun-God. That Mithra was not developed into
 a pre-eminent Vedic deity is to be proximately explained by the fact
 that Agni, who as fire-God and light-God had similar attributes, was
@@ -57,7 +57,7 @@ built up the Vedas. The God of the sacrificial fire was eminently
 adapted to sacerdotal ends; and it is in that respect that Agni is
 oftenest presented. It may have been, indeed, that the Aryan invaders of
 India had thus early assimilated in the case of Agni a popular pre-Aryan
-(though not Hindu) worship, <span id="fr_1415"></span>[5](#fn_1415) as
+(though not Hindu) worship, <span id="fr_1415"></span>[5](#fn_1415.md) as
 they did later with the Hindu cult of Krishna; while in Persia the Aryan
 Gods may have had a simpler course of development. On the other hand, it
 seems probable that the Ahura Mazda
@@ -67,9 +67,9 @@ seems probable that the Ahura Mazda
 <span class="contnote">\[paragraph continues\]</span> (Ormazd) of the
 Persians is a variant of the Assyrian God-name Assara Mazas, and at
 bottom identical with the God Assur or Asshur. <span
-id="fr_1416"></span>[1](#fn_1416) On that view it is more likely that
+id="fr_1416"></span>[1](#fn_1416.md) On that view it is more likely that
 the Aryans were influenced by the ancient Mesopotamian cults than *vice
-versa*. <span id="fr_1417"></span>[2](#fn_1417) However that may be,
+versa*. <span id="fr_1417"></span>[2](#fn_1417.md) However that may be,
 though we find the sacramental Vedic beverage the Soma preserved in the
 Persian cult as the Haoma, that principle did not predominate; and
 Mithra, in the character of Sun-God and War-God, grew in popular
@@ -100,7 +100,7 @@ In the opinion of the late M. James Darmesteter, one of the highest
 authorities, certain quasi-scientific sections (*Nasks*) of the Avesta
 were written as late as the middle of the third century of our era, in
 imitation of Greek and Sanskrit scientific treatises; <span
-id="fr_1418"></span>[3](#fn_1418) and the same scholar places the
+id="fr_1418"></span>[3](#fn_1418.md) and the same scholar places the
 important Hôm Yasht late in the second century. Much of the Vendidâd,
 however, is reckoned pre-Alexandrian; and while M. Darmesteter held the
 Gâthas to be post-Alexandrian, and very late in spirit albeit the oldest
@@ -110,17 +110,17 @@ texts in the
 
 <span class="contnote">\[paragraph continues\]</span> Avesta, other
 students count them among the earliest items of all. <span
-id="fr_1419"></span>[1](#fn_1419) Broadly speaking, the religion of the
+id="fr_1419"></span>[1](#fn_1419.md) Broadly speaking, the religion of the
 Avesta, commonly called the Mazdean, from the God-name Ahura Mazda, is a
 highly composite one; but "there are few instances of foreign elements
 and concepts so freely borrowed by a religion and so harmoniously
-blended in the original mould." <span id="fr_1420"></span>[2](#fn_1420)
+blended in the original mould." <span id="fr_1420"></span>[2](#fn_1420.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1411"></span>[284:1](pch63.htm#fr_1411) "Mitra is greater
+<span id="fn_1411"></span>[284:1](pch63.htm#fr_1411.md) "Mitra is greater
 than the earth and the sky: he supports even all the Gods" (*Rig Veda*,
 iii, 59, 7-8; cited by Max Müller, Hibbert Lectures on *Religion in
 India*, 2nd ed. p. 275). Two of his doubles, Pushan and Savitri, are
@@ -128,34 +128,34 @@ all-seeing, and leaders of souls to the abode of the blest. (*Id*.).
 Mitra is further the eldest of the eight sons of Aditi (Muir, *Sanskrit
 Texts*, iv, 14).
 
-<span id="fn_1412"></span>[284:2](pch63.htm#fr_1412) "Obwohl Mitra
+<span id="fn_1412"></span>[284:2](pch63.htm#fr_1412.md) "Obwohl Mitra
 ursprünglich ein Sonnengott ist, wird die Sonne zu Mitra-Varunas Auge"
 (A. Hillebrandt, *Vedische Mythologie*, Kl. Ausg. 1910, p. 40).
 
-<span id="fn_1413"></span>[284:3](pch63.htm#fr_1413) Muir, as cited, p.
+<span id="fn_1413"></span>[284:3](pch63.htm#fr_1413.md) Muir, as cited, p.
 219.
 
-<span id="fn_1414"></span>[284:4](pch63.htm#fr_1414) Oldenberg, *Die
+<span id="fn_1414"></span>[284:4](pch63.htm#fr_1414.md) Oldenberg, *Die
 Religion des Veda*, 1894, pp. 190-1, citing Atharva-Veda, xiii, 3, 13;
 Max Müller, Hibbert Lectures, 2nd ed. p. 297.
 
-<span id="fn_1415"></span>[284:5](pch63.htm#fr_1415) Cp. Tiele,
+<span id="fn_1415"></span>[284:5](pch63.htm#fr_1415.md) Cp. Tiele,
 *Outlines*, pp. 109-110; Fischer, *Heidenthum und Offenbarung*, 1878, p.
 59; Justi, *Gesch. d. oriental. Völker im Altertum*, pp. 397-8, where
 fire-worship is traced to the natural "fire-wells" of the East. Such
 fire was termed "Son of Ahuramazda."
 
-<span id="fn_1416"></span>[285:1](pch63.htm#fr_1416) Miss Plunkett,
+<span id="fn_1416"></span>[285:1](pch63.htm#fr_1416.md) Miss Plunkett,
 *Ancient Calendars and Constellations*, 1903, pp. 72 *sq*., 149 *sq*.
 
-<span id="fn_1417"></span>[285:2](pch63.htm#fr_1417) Miss Plunkett
+<span id="fn_1417"></span>[285:2](pch63.htm#fr_1417.md) Miss Plunkett
 argues (p. 75) for Assyrian borrowings from the ancestors of the Medes.
 May there not have been both an early and a late assimilation?
 
-<span id="fn_1418"></span>[285:3](pch63.htm#fr_1418) Introduction to the
+<span id="fn_1418"></span>[285:3](pch63.htm#fr_1418.md) Introduction to the
 *Zendavesta*, 2nd ed. p. xlvi.
 
-<span id="fn_1419"></span>[286:1](pch63.htm#fr_1419) This is the view of
+<span id="fn_1419"></span>[286:1](pch63.htm#fr_1419.md) This is the view of
 Mr. L. H. Mills, as it was that of Haug. The latter, however (*Essays on
 the Parsis*, 3rd ed. pp. 257-260, 287), leaves his position somewhat
 obscure, arguing as he does on the one hand that the Gâthas are the
@@ -172,9 +172,9 @@ referring to Alexander the Great, (*b*) that the Yasht is a "coherent
 whole," and (*e*) that it is therefore as a whole post-Alexandrian. He
 thus makes no allowance at this point for redactions or interpolations.
 
-<span id="fn_1420"></span>[286:2](pch63.htm#fr_1420) Darmesteter, p.
+<span id="fn_1420"></span>[286:2](pch63.htm#fr_1420.md) Darmesteter, p.
 lxix.
 
 ------------------------------------------------------------------------
 
-[Next: § 3. Zoroastrianism](pch64)
+[Next: § 3. Zoroastrianism](pch64.md)

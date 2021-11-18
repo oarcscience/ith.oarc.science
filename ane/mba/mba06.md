@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba05)  [Next](mba07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba05)  [Next](mba07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -76,7 +76,7 @@ For thy merchants were the great men of the earth;
 For by thy sorceries were all nations deceived.  
 *And in her was found the blood of prophets, and of saints,  
 And of all that were slain upon the earth*. <span
-id="fr_2"></span>[1](#fn_2)</span>
+id="fr_2"></span>[1](#fn_2.md)</span>
 
 </div>
 
@@ -105,7 +105,7 @@ nineteenth century, and a few relics found their way to Europe. But
 before Sir A. H. Layard set to work as an excavator in the "forties", "a
 case scarcely three feet square", as he himself wrote, "enclosed all
 that remained not only of the great city of Nineveh, but of Babylon
-itself". <span id="fr_3"></span>[1](#fn_3)
+itself". <span id="fr_3"></span>[1](#fn_3.md)
 
 Layard, the distinguished pioneer Assyriologist, was an Englishman of
 Huguenot descent, who was born in Paris. Through his mother he inherited
@@ -210,12 +210,12 @@ performed a memorable service to modern scholarship by dispatching
 Smith, on behalf of his paper, to Nineveh to search for other fragments
 of the Ancient Babylonian epic. Rassam had obtained the tablets from the
 great library of the cultured Emperor Ashur-bani-pal, "the great and
-noble Asnapper" of the Bible, <span id="fr_4"></span>[1](#fn_4) who took
+noble Asnapper" of the Bible, <span id="fr_4"></span>[1](#fn_4.md) who took
 delight, as he himself recorded, in
 
 <div style="margin-left: 32px">
 
-<span class="small">The wisdom of Ea, <span id="fr_5"></span>[2](#fn_5)
+<span class="small">The wisdom of Ea, <span id="fr_5"></span>[2](#fn_5.md)
 the art of song, the treasures of science.</span>
 
 </div>
@@ -235,7 +235,7 @@ The Emperor invoked Nebo, god of wisdom and learning, to bless his
 <span class="small">Forever, O Nebo, King of all heaven and earth,  
 Look gladly upon this Library  
 Of Ashur-bani-pal, his (thy) shepherd, reverencer of thy divinity. <span
-id="fr_6"></span>[1](#fn_6)</span>
+id="fr_6"></span>[1](#fn_6.md)</span>
 
 </div>
 
@@ -314,7 +314,7 @@ Recent discoveries appear to support the new chronological system.
 evidence, especially in the eastern part of the island, favours the
 minimum (Berlin) system of Egyptian chronology, according to which the
 Sixth (Egyptian) Dynasty began at *c*. 2540 B.C. and the Twelfth at *c*.
-2000 B.C. <span id="fr_7"></span>[1](#fn_7) Petrie dates the beginning
+2000 B.C. <span id="fr_7"></span>[1](#fn_7.md) Petrie dates the beginning
 of the Twelfth Dynasty at *c*. 3400 B.C.
 
 To students of comparative folklore and mythology the myths and legends
@@ -336,9 +336,9 @@ they may be due to "a remarkable homogeneity of civilization throughout
 Southern Europe and Western Asia in prehistoric times. How far", he
 adds, "such homogeneity of civilization may be taken as evidence of
 homogeneity of race is a question for the ethnologist." <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
-In [Chapter I](mba07.htm#an_ch-01) the reader is introduced to the
+In [Chapter I](mba07.htm#an_ch-01.md) the reader is introduced to the
 ethnological problem, and it is shown that the results of modern
 research tend to establish a remote racial connection between the
 Sumerians of Babylonia, the prehistoric Egyptians, and the Neolithic
@@ -446,7 +446,7 @@ beliefs:
 When the great gods dug thee out,  
 They set prosperity upon thy banks,  
 Within thee Ea, the king of the Deep, created his dwelling. <span
-id="fr_9"></span>[1](#fn_9)</span>
+id="fr_9"></span>[1](#fn_9.md)</span>
 
 </div>
 
@@ -461,7 +461,7 @@ the first human beings were created by a similar process:
 <span class="small">Marduk (son of Ea) laid a reed upon the face of the
 waters,  
 He formed dust and poured it out beside the reed . . .  
-He formed mankind. <span id="fr_10"></span>[2](#fn_10)</span>
+He formed mankind. <span id="fr_10"></span>[2](#fn_10.md)</span>
 
 </div>
 
@@ -673,31 +673,31 @@ how incalculable is the debt which the modern world owes to them.
 
 ### Footnotes
 
-<span id="fn_2"></span>[xxii:1](mba06.htm#fr_2) *Revelation*, xviii. The
+<span id="fn_2"></span>[xxii:1](mba06.htm#fr_2.md) *Revelation*, xviii. The
 Babylon of the Apocalypse is generally believed to symbolize or be a
 mystic designation of Rome.
 
-<span id="fn_3"></span>[xxiii:1](mba06.htm#fr_3) *Nineveh and Its
+<span id="fn_3"></span>[xxiii:1](mba06.htm#fr_3.md) *Nineveh and Its
 Remains*, vol. i, p. 17.
 
-<span id="fn_4"></span>[xxvi:1](mba06.htm#fr_4) *Ezra*, iv, 10.
+<span id="fn_4"></span>[xxvi:1](mba06.htm#fr_4.md) *Ezra*, iv, 10.
 
-<span id="fn_5"></span>[xxvi:2](mba06.htm#fr_5) The culture god.
+<span id="fn_5"></span>[xxvi:2](mba06.htm#fr_5.md) The culture god.
 
-<span id="fn_6"></span>[xxvii:1](mba06.htm#fr_6) Langdon's *Sumerian and
+<span id="fn_6"></span>[xxvii:1](mba06.htm#fr_6.md) Langdon's *Sumerian and
 Babylonian Psalms*, p. 179.
 
-<span id="fn_7"></span>[xxix:1](mba06.htm#fr_7) *Crete the Forerunner of
+<span id="fn_7"></span>[xxix:1](mba06.htm#fr_7.md) *Crete the Forerunner of
 Greece*, p. 18.
 
-<span id="fn_8"></span>[xxx:1](mba06.htm#fr_8) *The Scapegoat vol*., p.
+<span id="fn_8"></span>[xxx:1](mba06.htm#fr_8.md) *The Scapegoat vol*., p.
 409 (3rd edition).
 
-<span id="fn_9"></span>[xxxiii:1](mba06.htm#fr_9) *The Seven Tablets of
+<span id="fn_9"></span>[xxxiii:1](mba06.htm#fr_9.md) *The Seven Tablets of
 Creation*, L. W. King, p. 129.
 
-<span id="fn_10"></span>[xxxiii:2](mba06.htm#fr_10) *Ibid*. pp. 133-4.
+<span id="fn_10"></span>[xxxiii:2](mba06.htm#fr_10.md) *Ibid*. pp. 133-4.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Races and Early Civilization of Babylonia](mba07)
+[Next: Chapter I. The Races and Early Civilization of Babylonia](mba07.md)

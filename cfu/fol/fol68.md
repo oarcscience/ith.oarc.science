@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](fol67)  [Next](fol69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](fol67)  [Next](fol69.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Feast of Lanterns*, by L. Cranmer-Byng, \[1916\], at Intangible
 Textual Heritage
 
@@ -24,7 +24,7 @@ As though she fears its cadences unheard
 May lapse into the night. Oh! I am stirred  
 By some some rare tone afar  
 Caught from the drifting Palaces of Cold, <span
-id="fr_3"></span>[1](fol69.htm#fn_3)  
+id="fr_3"></span>[1](fol69.htm#fn_3.md)  
 Where pale musicians through the moon-mists peer,  
 And challenged into song. Of waters rolled  
 Seaward I sing. Now clear  
@@ -35,4 +35,4 @@ That night and dawn on the long grey line have met.
 
 ------------------------------------------------------------------------
 
-[Next: After the Rain](fol69)
+[Next: After the Rain](fol69.md)

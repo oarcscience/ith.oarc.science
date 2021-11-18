@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jdt)  [Next](wis) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jdt)  [Next](wis.md) 
 
 ------------------------------------------------------------------------
 
@@ -1033,4 +1033,4 @@ ga je preveo Lizimah, sin Ptolemejev, iz Jeruzalema.
 
 ------------------------------------------------------------------------
 
-[Next: Wisdom](wis)
+[Next: Wisdom](wis.md)

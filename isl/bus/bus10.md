@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](bus09)  [Next](bus11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](bus09)  [Next](bus11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Bustan of Sadi*, tr. by A. Hart Edwards, \[1911\], at Intangible
 Textual Heritage
 
@@ -37,7 +37,7 @@ Happy is that fortunate man who, in meditation, prepares for the last
 journey by means of the knowledge of God.
 
 To him who knows not the darkness from the light the face of a demon is
-as that of a Houri.[26](bus15.htm#an_26)
+as that of a Houri.[26](bus15.htm#an_26.md)
 
 <span id="page_101">p. 101</span>
 
@@ -54,10 +54,10 @@ breathe by reason of his gluttony?
 He whose stomach is full is void of wisdom. The prey is entrapped in the
 snare because of its greed.
 
-#### STORY OF THE KING OF KHWARAZM [27](bus15.htm#an_27)
+#### STORY OF THE KING OF KHWARAZM [27](bus15.htm#an_27.md)
 
 A covetous man paid an early morning visit to the king of Khwarazm, and
-twice prostrated [himself](errata.htm#2) to the ground before him.
+twice prostrated [himself](errata.htm#2.md) to the ground before him.
 
 "Tell me, O father," his son inquired, "didst thou not say that Mecca
 was thy place of worship? Why didst thou to-day repeat thy prayers
@@ -202,7 +202,7 @@ built is high
 
 enough for a dwelling which I must leave at death."
 
-Set not thy house in the path of a flood,[28](bus15.htm#an_28) O slave,
+Set not thy house in the path of a flood,[28](bus15.htm#an_28.md) O slave,
 for never will it be perfected.
 
 #### STORY OF A SHEIKH WHO BECAME KING
@@ -220,7 +220,7 @@ the sword and arrow do not avail."
 
 The devotee laughed and said: Why did he not content himself with half a
 loaf and his vigils? Did not the wealth-worshipping Korah
-[29](bus15.htm#an_29) know that the treasure of safety lies in the
+[29](bus15.htm#an_29.md) know that the treasure of safety lies in the
 corner of retirement?"
 
 <span id="page_108">p. 108</span>
@@ -245,11 +245,11 @@ becomes a flood.
 The miser who falls from position and wealth but seldom stands a second
 time upon. his feet.
 
-If thou be a precious jewel, [30](bus15.htm#an_30) grieve not, for Time
+If thou be a precious jewel, [30](bus15.htm#an_30.md) grieve not, for Time
 will not pass thee by; it is the brickbat by the wayside that goes
 unheeded. Shavings of gold that fall from the scissors are searched, fog
 with a candle.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Concerning Education](bus11)
+[Next: Chapter VII. Concerning Education](bus11.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms30)  [Next](jms32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms30)  [Next](jms32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -162,7 +162,7 @@ Mezuzah); Lipez, 72; Yoffie, *Journal of American Folklore*, XXXVIII
 (1927), 376.
 
 <span id="an_10_21">21</span>. Rashi, *Yoma* 11a. See [p.
-4](jms03.htm#page_4) above.
+4](jms03.htm#page_4.md) above.
 
 <span id="an_10_22">22</span>. Aptowitzer has assembled the information
 concerning the *mezuzah* in his very interesting articles in *REJ*, LX
@@ -197,4 +197,4 @@ the dead was also attributed to this name of 14 letters; cf. Caster,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](jms32)
+[Next: Chapter XI](jms32.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srf03)  [Next](srf05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srf03)  [Next](srf05.md) 
 
 ------------------------------------------------------------------------
 
@@ -617,7 +617,7 @@ seemed
 <span id="img_04900"></span>
 
 [![MAKSIM FELT HIMSELF BEING LIFTED AND CARRIED AWAY](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)  
+Click to enlarge](img/04900.jpg.md)  
 MAKSIM FELT HIMSELF BEING LIFTED AND CARRIED AWAY  
 
  
@@ -668,4 +668,4 @@ Maksim wept, and Leo went out into the darkness.
 
 ------------------------------------------------------------------------
 
-[Next: The Lady of Moscow](srf05)
+[Next: The Lady of Moscow](srf05.md)

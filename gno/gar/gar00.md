@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Next](gar01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Next](gar01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,13 +17,13 @@ Intangible Textual Heritage
 
 <span id="img_front"></span> <span align="CENTER"> [![CERAUNIA OF GREEN
 JADE, CONVERTED INTO A GNOSTIC TALISMAN.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 CERAUNIA OF GREEN JADE, CONVERTED INTO A GNOSTIC TALISMAN.  
 </span>
 
-[(\*)](gar71.htm#an_front)
+[(\*)](gar71.htm#an_front.md)
 
-(*See page* [197](gar30.htm#page_197).)
+(*See page* [197](gar30.htm#page_197)..md)
 
 # THE GNOSTICS
 
@@ -39,7 +39,7 @@ CERAUNIA OF GREEN JADE, CONVERTED INTO A GNOSTIC TALISMAN.
 
 <span id="img_t00"></span> ![](img/t00.jpg)
 
-[(\*)](gar71.htm#an_t00)
+[(\*)](gar71.htm#an_t00.md)
 
 <div align="center">
 
@@ -73,10 +73,10 @@ United States because it was published prior to 1923.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Preface](gar01)
+[Next: Preface](gar01.md)

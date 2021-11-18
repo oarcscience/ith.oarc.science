@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico115) 
-[Next](nico117) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico115.md) 
+[Next](nico117.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ philosopher will more than any other be happy.
 ------------------------------------------------------------------------
 
 [Next: Chapter 9. Legislation is needed if the end is to be attained:
-transition to Politics](nico117)
+transition to Politics](nico117.md)

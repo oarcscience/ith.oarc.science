@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had21)  [Next](had23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had21)  [Next](had23.md) 
 
 ------------------------------------------------------------------------
 
@@ -441,4 +441,4 @@ fighting with them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: Marriage](had23)
+[Next: Chapter XX: Marriage](had23.md)

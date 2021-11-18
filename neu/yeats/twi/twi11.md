@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](twi10)  [Next](twi12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](twi10)  [Next](twi12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Twilight*, by William Butler Yeats, \[1893, 1902\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 # THE SORCERERS
 
 IN Ireland we hear but little of the darker powers, <span
-id="fr_3"></span>[1](#fn_3) and come across any who have seen them even
+id="fr_3"></span>[1](#fn_3.md) and come across any who have seen them even
 more rarely, for the imagination of the people dwells rather upon the
 fantastic and capricious, and fantasy and caprice would lose the freedom
 which is their breath of life, were they to unite them either with evil
@@ -151,11 +151,11 @@ shapes of ugliness and horror.
 
 ### Footnotes
 
-<span id="fn_3"></span>[61:1](twi11.htm#fr_3) I know better now. We have
+<span id="fn_3"></span>[61:1](twi11.htm#fr_3.md) I know better now. We have
 the dark powers much more than I thought, but not as much as the
 Scottish, and yet I think the imagination of the people does dwell
 chiefly upon the fantastic and capricious.
 
 ------------------------------------------------------------------------
 
-[Next: The Devil](twi12)
+[Next: The Devil](twi12.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](zun03)  [Next](zun05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](zun03)  [Next](zun05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q1Q2/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q1Q2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Diwan of Zeb-un-Nissa*, by Magan Lal and Jessie Duncan Westbrook,
 \[1913\], at Intangible Textual Heritage
 
@@ -2229,4 +2229,4 @@ Fairer than spoils of ocean or of mine.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](zun05)
+[Next: Notes](zun05.md)

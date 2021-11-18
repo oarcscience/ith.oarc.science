@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv21)  [Next](ogv23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv21)  [Next](ogv23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -61,23 +61,23 @@ with frankness they have nothing in their sacred books that cannot be
 found as forcibly expressed in the sacred books of other nations, and
 often even, in the opinion of impartial travellers, one has seen it much
 better practised. For example, the beautiful maxim touching upon the
-pardon of offences <span id="fr_363"></span>[a](#fn_362) is found
+pardon of offences <span id="fr_363"></span>[a](#fn_362.md) is found
 complete in the *Zend-Avesta*. It is written: "O God! greater than all
 that which is great! if a man provoke you by his thoughts, by his
 speech, or by his actions, if he humbles himself before you, pardon him;
 even so, if a man provoke me by his thoughts by his speech or by his
-actions may I pardon him." <span id="fr_364"></span>[b](#fn_363) One
+actions may I pardon him." <span id="fr_364"></span>[b](#fn_363.md) One
 finds in the same book, the precept on charity, such as is practised
 among the Mussulmans, and that of agriculture placed in the rank of
 virtues, as among the Chinese. "The King whom you love, what desire you
 that he shall do, Ormuzd? Do you desire that, like unto you, he shall
-nourish the poor?" <span id="fr_365"></span>[c](#fn_364) "The purest
+nourish the poor?" <span id="fr_365"></span>[c](#fn_364.md) "The purest
 point of the law is to sow the land. He who sows the grain and does it
 with purity is as great before me as he who celebrates ten thousand
-adorations. . . ." <span id="fr_366"></span>[d](#fn_365) "Render the
+adorations. . . ." <span id="fr_366"></span>[d](#fn_365.md) "Render the
 earth fertile, cover it with flowers and with fruits; multiply the
 springs in the places where there is no grass." <span
-id="fr_367"></span>[e](#fn_366) This same maxim of the pardon of
+id="fr_367"></span>[e](#fn_366.md) This same maxim of the pardon of
 offences and those which decree to return good for evil, and to do unto
 others what we would that they should do unto us, is found in many of
 the Oriental writings. One reads in the distichs of Hafiz this beautiful
@@ -94,7 +94,7 @@ refusing to heal the
 <span id="page_166">p. 166</span>
 
 hand which is wounded in striking him? To bless the one who offends
-him? <span id="fr_368"></span>[a](#fn_367)
+him? <span id="fr_368"></span>[a](#fn_367.md)
 
 The evangelical precept paraphrased by Hafiz is found in substance in a
 discourse of Lysias; it is clearly expressed by Thales and Pittacus;
@@ -109,7 +109,7 @@ as the Sandal-tree, in the instant of its overthrow sheds perfume on the
 ax which fells; and he would triumph in repeating the verse of Sadi who
 represents a return of good for good as a slight reciprocity, but says
 to the virtuous man, "confer benefits on him who has injured
-thee." <span id="fr_369"></span>[b](#fn_368)
+thee." <span id="fr_369"></span>[b](#fn_368.md)
 
 Interrogate the peoples from the Boreal pole to the extremities of Asia,
 and ask them what they think of virtue: they will respond to you, as
@@ -117,20 +117,20 @@ Zeno, that it is all that is good and beautiful; the Scandinavians,
 disciples of Odin, will show you the *Hâvamâl*, sublime discourse of
 their ancient legislator, wherein hospitality, charity, justice, and
 courage are expressly commended to them <span
-id="fr_370"></span>[c](#fn_369): You will know by tradition that the
+id="fr_370"></span>[c](#fn_369.md): You will know by tradition that the
 Celts had the sacred verses of their Druids, wherein piety, justice, and
 valour were celebrated as national virtues <span
-id="fr_371"></span>[d](#fn_370); you will see in the books preserved
+id="fr_371"></span>[d](#fn_370.md); you will see in the books preserved
 
 <span id="page_167">p. 167</span>
 
-under the name of Hermes <span id="fr_372"></span>[a](#fn_371) that the
+under the name of Hermes <span id="fr_372"></span>[a](#fn_371.md) that the
 Egyptians followed the same idea regarding morals as the Indians their
 ancient preceptors; and these ideas, preserved still in the
-*Dharma-Shastra*, <span id="fr_373"></span>[b](#fn_372) will strike you
+*Dharma-Shastra*, <span id="fr_373"></span>[b](#fn_372.md) will strike you
 in the *Kings* of the Chinese. It is there, in those sacred books whose
 origin is lost in the night of time, <span
-id="fr_374"></span>[c](#fn_373) that you will find at their source the
+id="fr_374"></span>[c](#fn_373.md) that you will find at their source the
 most sublime maxims of Fo-Hi, Krishna, Thoth, Zoroaster, Pythagoras,
 Socrates, and Jesus. Morals, I repeat, are everywhere the same;
 therefore it is not upon its written principles that one should judge of
@@ -145,25 +145,25 @@ of all religion.
 
 ### Footnotes
 
-<span id="fn_362"></span>[165:a](ogv22.htm#fr_363) *Evang. St. Math.*,
+<span id="fn_362"></span>[165:a](ogv22.htm#fr_363.md) *Evang. St. Math.*,
 ch. 18.
 
-<span id="fn_363"></span>[165:b](ogv22.htm#fr_364) *Vendidad Sadé*, p.
+<span id="fn_363"></span>[165:b](ogv22.htm#fr_364.md) *Vendidad Sadé*, p.
 89.
 
-<span id="fn_364"></span>[165:c](ogv22.htm#fr_365) 34<sup>e</sup> *hâ*,
+<span id="fn_364"></span>[165:c](ogv22.htm#fr_365.md) 34<sup>e</sup> *hâ*,
 p. 174.
 
-<span id="fn_365"></span>[165:d](ogv22.htm#fr_366) 3<sup>e</sup>
+<span id="fn_365"></span>[165:d](ogv22.htm#fr_366.md) 3<sup>e</sup>
 *fargard*., p. 284.
 
-<span id="fn_366"></span>[165:e](ogv22.htm#fr_367) *Jeshts Sadès*, p.
+<span id="fn_366"></span>[165:e](ogv22.htm#fr_367.md) *Jeshts Sadès*, p.
 151.
 
-<span id="fn_367"></span>[166:a](ogv22.htm#fr_368) Hafiz, cité par les
+<span id="fn_367"></span>[166:a](ogv22.htm#fr_368.md) Hafiz, cité par les
 auteurs *Des Recherches asiatiques*, t. iv., p. 167.
 
-<span id="fn_368"></span>[166:b](ogv22.htm#fr_369) *L' Arya*, cité comme
+<span id="fn_368"></span>[166:b](ogv22.htm#fr_369.md) *L' Arya*, cité comme
 ci-dessus:
 
 "L’homme de bien, paisable au moment qu’il expire,  
@@ -172,23 +172,23 @@ ci-dessus:
  Tel l’arbre de Sandal que frappe un furieux,  
  Couvre de ses parfums le fer qui le dechire."
 
-<span id="fn_369"></span>[166:c](ogv22.htm#fr_370) Edda Island;
+<span id="fn_369"></span>[166:c](ogv22.htm#fr_370.md) Edda Island;
 *Hâvamâl*.
 
-<span id="fn_370"></span>[166:d](ogv22.htm#fr_371) Diogen. Laërt., *In
+<span id="fn_370"></span>[166:d](ogv22.htm#fr_371.md) Diogen. Laërt., *In
 Prœm.*, p. 5.
 
-<span id="fn_371"></span>[167:a](ogv22.htm#fr_372) *Pœmander et
+<span id="fn_371"></span>[167:a](ogv22.htm#fr_372.md) *Pœmander et
 Asclepius*.
 
-<span id="fn_372"></span>[167:b](ogv22.htm#fr_373) This is the vast
+<span id="fn_372"></span>[167:b](ogv22.htm#fr_373.md) This is the vast
 collection of Brahmanic morals. One finds there many of the lines
 repeated word for word in the Sepher of Moses.
 
-<span id="fn_373"></span>[167:c](ogv22.htm#fr_374) In them, antiquity
+<span id="fn_373"></span>[167:c](ogv22.htm#fr_374.md) In them, antiquity
 goes back three thousand years before our era. There is mention of an
 eclipse of the sun, verified for the year 2155 B.C.
 
 ------------------------------------------------------------------------
 
-[Next: 12. As to the evils which Destiny involves](ogv23)
+[Next: 12. As to the evils which Destiny involves](ogv23.md)

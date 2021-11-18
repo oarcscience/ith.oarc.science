@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale22)  [Next](tale24) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale22)  [Next](tale24.md) 
 
 ------------------------------------------------------------------------
 
@@ -320,4 +320,4 @@ Landsman went home and slept as of wont. Next day he rose and prayed the
 dawn prayer and repaired to his namesake's house, where, after the
 company was all assembled, the host began to relate
 
-(*Next*) [THE SEVENTH VOYAGE OF SINDBAD THE SEAMAN](tale24)  
+(*Next*) [THE SEVENTH VOYAGE OF SINDBAD THE SEAMAN](tale24.md)  

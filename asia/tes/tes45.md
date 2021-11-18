@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes44)  [Next](tes46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes44)  [Next](tes46.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ boulder, which is there even now, and is called "Woman's Head." The
 canoe is also there; turned to stone. The double paddle is broken in
 two. Whoever passes by must give a sacrifice to the owner of the place,
 then he will be successful in love-suit not matrimonial. <span
-id="fr_76"></span>[1](#fn_76) The end.
+id="fr_76"></span>[1](#fn_76.md) The end.
 
 Told by Nicholas Rupatcheff, a Russianized Yukaghir man, in the village
 of Sukharnoye, the Kolyma country, winter of 1896.
@@ -141,7 +141,7 @@ of Sukharnoye, the Kolyma country, winter of 1896.
 
 ### Footnotes
 
-<span id="fn_76"></span>[99:1](tes45.htm#fr_76) The stone canoe and the
+<span id="fn_76"></span>[99:1](tes45.htm#fr_76.md) The stone canoe and the
 woman's head are said to lie on the Arctic shore somewhere near the
 mouth of the Baranikha River, east of the Kolyma River, in a part of the
 country at present uninhabited. The natives say that in former times,
@@ -150,4 +150,4 @@ but at present there are no visible traces of it.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 25. The Big Pike](tes46)
+[Next: 25. The Big Pike](tes46.md)

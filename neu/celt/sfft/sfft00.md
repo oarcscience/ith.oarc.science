@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](sfft01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](sfft01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -34,13 +34,13 @@ Intangible Textual Heritage
 ###### Scanned, proofed and formatted at Intangible Textual Heritage April, 2003, by J. B. Hare. This text is in the public domain in the US because it was published prior to 1923.
 
 <span id="img_front"></span> <span align="CENTER"> [![](tn/front.jpg)  
-Click to enlarge](img/front.jpg)</span>  
+Click to enlarge](img/front.jpg.md)</span>  
 So they turned Alexander Jones out, because he was stupid and said
-nothing.--Page [106](sfft27.htm#page_106).  
+nothing.--Page [106](sfft27.htm#page_106.md).  
 *Frontis.--Scottish Fairy Tales*.
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sfft01)
+[Next: Contents](sfft01.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar047) [Next](gbar049)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar047) [Next](gbar049.md)
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ together all the people to hear him speak.
 
 ------------------------------------------------------------------------
 
-[Next](gbar049)
+[Next](gbar049.md)

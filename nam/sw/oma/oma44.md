@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma43)  [Next](oma45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma43)  [Next](oma45.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ kiva wall to get power from Sun and Moon.)
 <span id="img_pl11a"></span>
 
 [![Plate 11, Figure 1](tn/pl11a.jpg)  
-Click to enlarge](img/pl11a.jpg)  
+Click to enlarge](img/pl11a.jpg.md)  
 Plate 11, Figure 1  
 
 FIGURE 1. The Sun. The face is red because the Sun is male and the giver
@@ -24,7 +24,7 @@ green and orange; projections (orange) represent beams of light.
 <span id="img_pl11b"></span>
 
 [![Plate 11, Figure 2](tn/pl11b.jpg)  
-Click to enlarge](img/pl11b.jpg)  
+Click to enlarge](img/pl11b.jpg.md)  
 Plate 11, Figure 2  
 
 FIGURE 2. The Moon. The face is yellow because the Moon is female, and
@@ -34,4 +34,4 @@ line) represents a squash blossom.
 
 ------------------------------------------------------------------------
 
-[Next: Plate 12](oma45)
+[Next: Plate 12](oma45.md)

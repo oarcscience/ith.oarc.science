@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb22)  [Next](lifb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb22)  [Next](lifb24.md) 
 
 </div>
 
@@ -120,7 +120,7 @@ dominion.'
 
 Matte did not understand. He had never read Kalevala and knew nothing of
 the sea gods of old, but the students proceeded to explain to him. <span
-id="fr_1"></span>[2](#fn_1)
+id="fr_1"></span>[2](#fn_1.md)
 
 'Ahti,' said they, 'is a mighty king who lives in his dominion of
 Ahtola, and has a rock at the bottom of the sea, and possesses besides a
@@ -470,13 +470,13 @@ From Z. Topelius.
 
 ### Footnotes
 
-<span id="fn_1"></span>[2](lifb23.htm#fr_1) Kalevala is a collection of
+<span id="fn_1"></span>[2](lifb23.htm#fr_1.md) Kalevala is a collection of
 old Finnish songs about gods and heroes.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Raspberry Worm](lifb24)
+[Next: The Raspberry Worm](lifb24.md)
 
 </div>

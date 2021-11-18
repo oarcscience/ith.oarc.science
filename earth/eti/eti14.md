@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti13)  [Next](eti15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti13)  [Next](eti15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -146,7 +146,7 @@ final strange blood-red hue,
 
 <span id="img_05800"></span> <span align="CENTER"> [![A MIRROR WAS
 THRUST BENEATH MY GAZE.](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 “A MIRROR WAS THRUST BENEATH MY GAZE.”  
 </span>
 
@@ -332,4 +332,4 @@ in a nightmare; I said to myself, "A dream! a dream!" and slept again.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. A Lesson In Mind Study](eti15)
+[Next: Chapter VIII. A Lesson In Mind Study](eti15.md)

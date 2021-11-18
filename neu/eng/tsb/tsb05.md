@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tsb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tsb04.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Wiglaf destroyed it, and how sleep came to Beowulf.
 <span id="img_illus26"></span>
 
 [![](tn/illus26.jpg)  
-Click to enlarge](img/illus26.jpg)
+Click to enlarge](img/illus26.jpg.md)
 
     MANY years passed, during which we know very little of what befell
 our hero Beowulf. He returned safely to Geatsland after his adventures
@@ -64,7 +64,7 @@ now many and he felt that a not long season remained to him on earth.
 <span id="img_illus27"></span>
 
 [![](tn/illus27.jpg)  
-Click to enlarge](img/illus27.jpg)
+Click to enlarge](img/illus27.jpg.md)
 
     ONE night, when the winter was at its deepest, and the king sat in
 his mead-hall with all his lords about him, there came a knocking at the
@@ -120,7 +120,7 @@ colors, and standing upon a base of purest gold, most delicately carved.
 <span id="img_illus28"></span>
 
 [![](tn/illus28.jpg)  
-Click to enlarge](img/illus28.jpg)
+Click to enlarge](img/illus28.jpg.md)
 
     "Lord," he replied simply, "I do not lie."
 
@@ -257,7 +257,7 @@ adventurers upon the crunching snow.
 <span id="img_illus29"></span>
 
 [![](tn/illus29.jpg)  
-Click to enlarge](img/illus29.jpg)
+Click to enlarge](img/illus29.jpg.md)
 
     It was quite dark now, as they neared the spot, and through the dim
 night they beheld in the distance a reddish glow. Nearer they came,
@@ -308,7 +308,7 @@ rushed from its lair.
 <span id="img_illus30"></span>
 
 [![](tn/illus30.jpg)  
-Click to enlarge](img/illus30.jpg)
+Click to enlarge](img/illus30.jpg.md)
 
     Over ten ells in length it measured, from the proud head to the
 poisoned tail-tip, and its vast body was covered with scales of brass as
@@ -405,7 +405,7 @@ legend.
 <span id="img_illus31"></span>
 
 [![](tn/illus31.jpg)  
-Click to enlarge](img/illus31.jpg)
+Click to enlarge](img/illus31.jpg.md)
 
  
 
@@ -419,7 +419,7 @@ the cowardly earls lifted his voice in protest against Wiglaf's order.
 <span id="img_illus32"></span>
 
 [![](tn/illus32.jpg)  
-Click to enlarge](img/illus32.jpg)
+Click to enlarge](img/illus32.jpg.md)
 
     From far and near the men and women of Geatsland gathered to honor
 and mourn their dead lord and marvel at the great bulk of the dragon.
@@ -440,7 +440,7 @@ the shoulders of six earls.
 <span id="img_illus33"></span>
 
 [![](tn/illus33.jpg)  
-Click to enlarge](img/illus33.jpg)
+Click to enlarge](img/illus33.jpg.md)
 
     Behind the bier walked fifty barons of Geatsland, the highest and
 mightiest in all the North; and following them, fifty musicians, with

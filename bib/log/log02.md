@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](log01)  [Next](log03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](log01)  [Next](log03.md) 
 
 ------------------------------------------------------------------------
 
@@ -219,7 +219,7 @@ Of the many etymologies in Genesis the majority are to be rejected
 according to the investigations of modern philology. The theory on which
 the legends of the patriarchs are based, that the nations of the earth
 originated from the expansion of a single family, in each case from a
-single ancestor, is quite infantile. <span id="fr_0"></span>[1](#fn_0)
+single ancestor, is quite infantile. <span id="fr_0"></span>[1](#fn_0.md)
 Any other conclusion is impossible from the point of view of our modern
 historical science, which is not a figment of imagination but is based
 upon the observation of facts. And however cautious the modern historian
@@ -349,9 +349,9 @@ be presented to them in the right spirit?
 
 ### Footnotes
 
-<span id="fn_0"></span>[8:1](log02.htm#fr_0) Compare my Commentary on
+<span id="fn_0"></span>[8:1](log02.htm#fr_0.md) Compare my Commentary on
 Genesis, pp. 78 ff.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Varieties of Legends in Genesis](log03)
+[Next: II. The Varieties of Legends in Genesis](log03.md)

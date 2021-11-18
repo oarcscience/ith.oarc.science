@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](mht09)  [Next](mht11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](mht09)  [Next](mht11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Textual Heritage
 <span id="img_06000"></span>
 
 [![](tn/06000.jpg)  
-Click to enlarge](img/06000.jpg)
+Click to enlarge](img/06000.jpg.md)
 
 <span id="page_61">p. 61</span>
 
@@ -65,11 +65,11 @@ Click to enlarge](img/06000.jpg)
 
 ### Footnotes
 
-<span id="fn_0"></span>[59:1](mht10.htm#fr_0) *deux cercles
+<span id="fn_0"></span>[59:1](mht10.htm#fr_0.md) *deux cercles
 qu’entourent*.
 
-<span id="fn_1"></span>[59:2](mht10.htm#fr_1) two circles which surround
+<span id="fn_1"></span>[59:2](mht10.htm#fr_1.md) two circles which surround
 
 ------------------------------------------------------------------------
 
-[Next: Section Eight](mht11)
+[Next: Section Eight](mht11.md)

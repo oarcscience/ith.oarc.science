@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku41)  [Next](tku43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku41)  [Next](tku43.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ cleave unto Tetragrammaton your God," &c.
 
 750\. What nation is so holy as Israel? for it is written concerning
 them, Deut. xxxiii. 29: "Blessed art thou, O Israel! <span
-id="fr_132"></span>[1](#fn_131) who is like unto thee?" Because that
+id="fr_132"></span>[1](#fn_131.md) who is like unto thee?" Because that
 they are applied unto God in this world through the holy name.
 
 751\. And in the world to come more than here, for therein shall we
@@ -33,7 +33,7 @@ beard of Microprosopus.
 
 754\. And if thou shalt say that this beard is not to be found, for that
 even Solomon only spake of the cheeks, <span
-id="fr_133"></span>[2](#fn_132) but not at all of the beard.
+id="fr_133"></span>[2](#fn_132.md) but not at all of the beard.
 
 755\. Truly thus have we learned (we make answer) in the "Book of
 Concealed Mystery." It is that which is hidden and recondite, and of
@@ -131,10 +131,10 @@ those inferiors.
 775\. Those nine conformations are found in form herein (otherwise, in
 this beard); and in the perfection of the conformation of this beard is
 the inferior son of man called the brave man. <span
-id="fr_134"></span>[1](#fn_133)
+id="fr_134"></span>[1](#fn_133.md)
 
 776\. For whosoever seeth (*in sleep*) that his beard existeth in proper
-form, <span id="fr_135"></span>[2](#fn_134) in him is found courage and
+form, <span id="fr_135"></span>[2](#fn_134.md) in him is found courage and
 strength.
 
 777\. Rabbi Schimeon spake unto Rabbi Eleazar, his son, and said:
@@ -172,12 +172,12 @@ destroy them.'
 783\. "Also this have we learned in the 'Book of Concealed Mystery.'
 David hath here enumerated the nine conformations; of which six consist
 in the holy name, for there are six names; <span
-id="fr_136"></span>[1](#fn_135) and there are three in the word ADM,
+id="fr_136"></span>[1](#fn_135.md) and there are three in the word ADM,
 *Adam*, or man.
 
 784\. "And if thou shalt say that there are only two (*in the word
 Adam*), assuredly there are three, because also the princes pertain unto
-the idea of the word Adam. <span id="fr_137"></span>[2](#fn_136)
+the idea of the word Adam. <span id="fr_137"></span>[2](#fn_136.md)
 
 785\. "This have we learned. These are the six names, because it is thus
 written: 'I called upon Yah in my distress.' The first.
@@ -215,7 +215,7 @@ because it is written, Gen. ii. 7: 'And IHVH ALHIM, *Tetragrammaton
 Elohim*, created ADM, *Adam*, Man,' with the full Name, which is IHVH
 ALHIM, analogous to him (*Adam*), seeing that IHVH, Tetragrammaton,
 denoteth the masculine, and ALHIM, *Elohim*, the feminine. <span
-id="fr_138"></span>[1](#fn_137)
+id="fr_138"></span>[1](#fn_137.md)
 
 796\. "And therefore in this passage there is no mention made of ADM,
 *Adam*, Man, without the Holy Name.
@@ -238,17 +238,17 @@ do unto me?' It is thus, as we have
 <span id="page_210">p. 210</span>
 
 learned by tradition: All those sacred diadems of the King, <span
-id="fr_139"></span>[1](#fn_138) when He is conformed in his dispositions
+id="fr_139"></span>[1](#fn_138.md) when He is conformed in his dispositions
 (*that is, when the letters of Tetragrammaton are all conjoined
 together*), are called ADM, *Adam*, Man, which is the Form <span
-id="fr_140"></span>[2](#fn_139) which comprehendeth all things.
+id="fr_140"></span>[2](#fn_139.md) which comprehendeth all things.
 
 800\. "But when any portion is taken away therefrom (*that is to say,
 when it is said IH, and not IHVH*), then is understood (*Microprosopus*)
 the Holy Name (*by the letter I, Yod*) and ThORA, *Tauara*, or the Gate
 (*that is, the Bride, to whom is attributed the name ADNI, Adonai, whose
 number when written in its Plenitude is* 671, <span
-id="fr_141"></span>[3](#fn_140) *as the word ThORA or ThROA exhibiteth
+id="fr_141"></span>[3](#fn_140.md) *as the word ThORA or ThROA exhibiteth
 it, summed up in the letter H, He, of the name IH*), and that which is
 therein.
 
@@ -261,7 +261,7 @@ Name (*by the Yod*), and the Gate and those which are therein (*by the
 He in the name IH*). But when it is called IHVH, it is called the man,
 ADM, and all the rest (*conjoined therewith*), namely, the gate and
 those (*paths*) which are therein.\] <span
-id="fr_142"></span>[4](#fn_141)
+id="fr_142"></span>[4](#fn_141.md)
 
 802\. "And therefore did David enumerate those nine conformations;
 because he unto whom it is allowed
@@ -275,7 +275,7 @@ hidden behind the beard, but the beard hath no place (*of concealment*)
 behind the body.
 
 804\. "But he in reckoning it proceedeth in a duplex manner <span
-id="fr_143"></span>[1](#fn_142)--once as we have given it; and next
+id="fr_143"></span>[1](#fn_142.md)--once as we have given it; and next
 thus, when he saith: 'I called upon *Yah* in my distress.' The first.
 
 805\. "'Yah heard me at large.' The second.
@@ -296,7 +296,7 @@ fifth.
 812\. "'It is better to trust in Tetragrammaton.' The ninth.
 
 813\. "'Than to put any confidence in princes.' The tenth. <span
-id="fr_144"></span>[2](#fn_143) (Otherwise: 'It is better to trust in
+id="fr_144"></span>[2](#fn_143.md) (Otherwise: 'It is better to trust in
 Tetragrammaton than to put any confidence in man.' The seventh. 'It is
 better to trust in Tetragrammaton.' The eighth. 'Than to put any
 confidence in princes.' The ninth.)
@@ -322,11 +322,11 @@ this is such a one who spareth not the wicked, and this was altogether
 necessary, &c.)
 
 817\. "Also we have learned this in the 'Book of Concealed
-Mystery' <span id="fr_145"></span>[1](#fn_144): Whosoever seeth in his
+Mystery' <span id="fr_145"></span>[1](#fn_144.md): Whosoever seeth in his
 sleep that he toucheth the beard or moustache of the supernal man with
 his hand, or extendeth his hand unto it, let him know that he is at
 peace with the supernals, and that those who afflict him are about to be
-subjected unto him." <span id="fr_146"></span>[2](#fn_145)
+subjected unto him." <span id="fr_146"></span>[2](#fn_145.md)
 
 818\. "We have learned that the supernal beard is disposed in nine
 conformations, and that it is the beard of Microprosopus..
@@ -335,65 +335,65 @@ conformations, and that it is the beard of Microprosopus..
 
 ### Footnotes
 
-<span id="fn_131"></span>[204:1](tku42.htm#fr_132) It must not be
+<span id="fn_131"></span>[204:1](tku42.htm#fr_132.md) It must not be
 forgotten that Israel is a mystical name which was substituted for
 Jacob.
 
-<span id="fn_132"></span>[204:2](tku42.htm#fr_133) Namely, in the
+<span id="fn_132"></span>[204:2](tku42.htm#fr_133.md) Namely, in the
 description in the Song of Solomon. ch. v.
 
-<span id="fn_133"></span>[207:1](tku42.htm#fr_134) Meaning, that as is
+<span id="fn_133"></span>[207:1](tku42.htm#fr_134.md) Meaning, that as is
 the Supernal Man so is the earthly man.
 
-<span id="fn_134"></span>[207:2](tku42.htm#fr_135) Meaning, if he dreams
+<span id="fn_134"></span>[207:2](tku42.htm#fr_135.md) Meaning, if he dreams
 that his beard is arranged like that of Microprosopus.
 
-<span id="fn_135"></span>[208:1](tku42.htm#fr_136) *I.e.*, then are six
+<span id="fn_135"></span>[208:1](tku42.htm#fr_136.md) *I.e.*, then are six
 repetitions of the name of the Deity in the verses under consideration.
 
-<span id="fn_136"></span>[208:2](tku42.htm#fr_137) Meaning, that the
+<span id="fn_136"></span>[208:2](tku42.htm#fr_137.md) Meaning, that the
 word princes, in the verse "than to put any confidence in princes."
 refers also to man.
 
-<span id="fn_137"></span>[209:1](tku42.htm#fr_138) For Elohim is from
+<span id="fn_137"></span>[209:1](tku42.htm#fr_138.md) For Elohim is from
 the *feminine* root ALH, and is really a FEMININE PLURAL, for while many
 masculines form their plural in VTh, many feminines conversely form
 theirs in IM. In both these cases. however, the gender of the singular
 is retained in the plural. (See Gesenius' Hebrew Grammar, § 86, art 4.)
 
-<span id="fn_138"></span>[210:1](tku42.htm#fr_139) The King--*i.e.*,
+<span id="fn_138"></span>[210:1](tku42.htm#fr_139.md) The King--*i.e.*,
 Microprosopus. (See Introduction.)
 
-<span id="fn_139"></span>[210:2](tku42.htm#fr_140) For it is said that
-the Tetragrammaton, written [vertically top to bottom](errata.htm#6) in
+<span id="fn_139"></span>[210:2](tku42.htm#fr_140.md) For it is said that
+the Tetragrammaton, written [vertically top to bottom](errata.htm#6.md) in
 the Hebrew letters, gives the figure of a man. For *Yod* = the head,
 *He* = the arms, *Vau* = the body, and *He* final = the legs, (See Table
 of Hebrew letters in the Introduction.)
 
-<span id="fn_140"></span>[210:3](tku42.htm#fr_141) That is to say, when
+<span id="fn_140"></span>[210:3](tku42.htm#fr_141.md) That is to say, when
 the letters of ADNI are spelt thus: ALP, DLTh, NVN, IVD, Aleph, Daleth,
 Nun, Yod; for A + L + P + D + L + Th + N + V + N + I + V + D = 1 + 30 +
 80 + 4 + 30 + 400 + 50 + 6 + 50 + 10 + 6 + 4 = 671. And ThORA or ThROA =
 400 + 70 + 200 + 1 = 671 also.
 
-<span id="fn_141"></span>[210:4](tku42.htm#fr_142) The long piece above
+<span id="fn_141"></span>[210:4](tku42.htm#fr_142.md) The long piece above
 in brackets, but in ordinary type, is from the Cremona Codex.
 
-<span id="fn_142"></span>[211:1](tku42.htm#fr_143) Referring to the
+<span id="fn_142"></span>[211:1](tku42.htm#fr_143.md) Referring to the
 order of the conformations, and the way in which in the passage those
 referring to IHVH and ADM are conjoined.
 
-<span id="fn_143"></span>[211:2](tku42.htm#fr_144) The reader will of
+<span id="fn_143"></span>[211:2](tku42.htm#fr_144.md) The reader will of
 course also observe that these answer to the ten Sephiroth.
 
-<span id="fn_144"></span>[212:1](tku42.htm#fr_145) See *ante*, "Book of
+<span id="fn_144"></span>[212:1](tku42.htm#fr_145.md) See *ante*, "Book of
 Concealed Mystery." ch. iii. § 17.
 
-<span id="fn_145"></span>[212:2](tku42.htm#fr_146) This is apparently
+<span id="fn_145"></span>[212:2](tku42.htm#fr_146.md) This is apparently
 the end of Rabbi Yehudah's short interpolation regarding the duplicated
 IH. Rabbi Eleazar now apparently resumes the discourse.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXV: Concerning the First Part of the Beard of
-Microprosopus](tku43)
+Microprosopus](tku43.md)

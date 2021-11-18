@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw08)  [Next](omw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw08)  [Next](omw10.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ of the pre-Christian mythology. Thanks to the fact that this mythology
 enters largely into the Arthurian romance, the literature of modern
 England has retained access to the fairy realm, and has been enabled to
 pluck in the old wonder-garden of unending joy fruits of imperishable
-beauty. <span id="fr_14"></span>[15](#fn_14)
+beauty. <span id="fr_14"></span>[15](#fn_14.md)
 
 In Ireland a learned class who took pride in preserving the relics of
 the national past, wrote down histories and romances that contained
@@ -51,7 +51,7 @@ Examination of the mythologies due to other Aryan races, or rather, to
 prejudge nothing, to peoples speaking Aryan tongues equally with the
 Greeks and Irish, reveals the remarkable fact that Greeks and Irish
 alone have preserved the early stage of the Happy Other. world
-conception in any fulness. <span id="fr_15"></span>[16](#fn_15)
+conception in any fulness. <span id="fr_15"></span>[16](#fn_15.md)
 
 The Celtic religion appears to have been the worship of the Powers of
 Life and Increase:
@@ -68,7 +68,7 @@ widely from their primitive form. . . . In the main that mythology had
 for its *dramatis personae* the agricultural Powers of Life and
 Increase, in the main it was made up of stories of which the ultimate
 essence and significance were agricultural. <span
-id="fr_16"></span>[17](#fn_16)
+id="fr_16"></span>[17](#fn_16.md)
 
 The same authority offers the following conclusions on the subject of
 Celtic mythology as it is revealed in the Irish romances:
@@ -82,7 +82,7 @@ Fragmentary as they may be in form and distorted as it may be by its
 transmission through Christian hands, we thus owe to Ireland the
 preservation of mythical conceptions and visions more archaic in
 substance if far later in record than the great mythologies of Greece
-and Vedic India. <span id="fr_17"></span>[18](#fn_17)
+and Vedic India. <span id="fr_17"></span>[18](#fn_17.md)
 
 The Celtic stories given here deal mainly with adventures in the Happy
 Otherworld, in the Divine Land. The Voyage of Prince Bran is a typical
@@ -100,16 +100,16 @@ the Welsh Mabinogion.
 
 ### Footnotes
 
-<span id="fn_14"></span>[xvii:15](omw09.htm#fr_14) Alfred Nutt: The
+<span id="fn_14"></span>[xvii:15](omw09.htm#fr_14.md) Alfred Nutt: The
 Voyage of Bran, Vol. 2, in the Grimm Library.
 
-<span id="fn_15"></span>[xvii:16](omw09.htm#fr_15) *Ibid*.
+<span id="fn_15"></span>[xvii:16](omw09.htm#fr_15.md) *Ibid*.
 
-<span id="fn_16"></span>[xviii:17](omw09.htm#fr_16) Alfred Nutt: The
+<span id="fn_16"></span>[xviii:17](omw09.htm#fr_16.md) Alfred Nutt: The
 Voyage of Bran, Vol. 2, in the Grimm Library.
 
-<span id="fn_17"></span>[xviii:18](omw09.htm#fr_17) *Ibid*.
+<span id="fn_17"></span>[xviii:18](omw09.htm#fr_17.md) *Ibid*.
 
 ------------------------------------------------------------------------
 
-[Next: Finnish](omw10)
+[Next: Finnish](omw10.md)

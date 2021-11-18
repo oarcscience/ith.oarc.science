@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta00)  [Next](sta02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta00)  [Next](sta02.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ Los Angeles, California
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](sta02)
+[Next: Table of Contents](sta02.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](tmmi02)  [Next](tmmi04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](tmmi02)  [Next](tmmi04.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Tamaiawot, the Earth, was a woman, the mother of all people. She
 <span id="img_31200"></span>
 
 ![FIGURE REPRESENTING TAMAIAWOT, THE EARTH, THE MOTHER OF ALL.&lt;BR&gt;
-Drawn by Pachito, Luiseño of Pauma.](img/31200.jpg)  
+Drawn by Pachito, Luiseño of Pauma.](img/31200.jpg.md)  
 FIGURE REPRESENTING TAMAIAWOT, THE EARTH, THE MOTHER OF ALL.  
 Drawn by Pachito, Luiseño of Pauma.
 
@@ -95,4 +95,4 @@ everything. The ocean is her urine. That is why it is salty.
 
 ------------------------------------------------------------------------
 
-[Next: The Mohave Account of Origins](tmmi04)
+[Next: The Mohave Account of Origins](tmmi04.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat12.htm#LXXXVII) 
-[Previous](satl086)  [Next](satl088) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#LXXXVII.md) 
+[Previous](satl086)  [Next](satl088.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ toties excitatus plane vehementer excandui et reddidi illi voces suas:
 
 ------------------------------------------------------------------------
 
-[Next: LXXXVIII](satl088)
+[Next: LXXXVIII](satl088.md)

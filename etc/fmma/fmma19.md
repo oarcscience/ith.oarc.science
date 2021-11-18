@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma18)  [Next](fmma20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma18)  [Next](fmma20.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,4 +162,4 @@ people have ever held his memory dear.
 
 ------------------------------------------------------------------------
 
-[Next: The Cid](fmma20)
+[Next: The Cid](fmma20.md)

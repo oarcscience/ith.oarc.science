@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg28)  [Next](leg30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg28)  [Next](leg30.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 ### WITH EXPLANATIONS OF THE SAME, COLLECTED BY PLUTARCH, AND SUPPLEMENTED BY HIS OWN VIEWS.
 
 I. Though it be the wise man's duty, O CLEA, <span
-id="fr_260"></span>[1](#fn_258) to apply to the gods for every good
+id="fr_260"></span>[1](#fn_258.md) to apply to the gods for every good
 thing which he hopes to enjoy, yet ought he more especially to pray to
 them for their assistance in his search after that knowledge which more
 immediately regards themselves, as far as such knowledge may be
@@ -42,9 +42,9 @@ properly styled an endless duration than an enjoyment of existence.
 
 ### Footnotes
 
-<span id="fn_258"></span>[198:1](leg29.htm#fr_260) She is said to have
+<span id="fn_258"></span>[198:1](leg29.htm#fr_260.md) She is said to have
 been a priestess of Isis and of Apollo Delphicus.
 
 ------------------------------------------------------------------------
 
-[Next: Section II](leg30)
+[Next: Section II](leg30.md)

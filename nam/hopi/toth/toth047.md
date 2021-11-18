@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth046)  [Next](toth048) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth046)  [Next](toth048.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -67,7 +67,7 @@ retired for the night.
 
 ### Footnotes
 
-<span id="fn_103"></span>[153:1](toth046.htm#fr_105) Told by Lománömtiwa
+<span id="fn_103"></span>[153:1](toth046.htm#fr_105.md) Told by Lománömtiwa
 (Oraíbi).
 
 2 Told by Tangákhoyoma (Oraíbi).
@@ -75,4 +75,4 @@ retired for the night.
 ------------------------------------------------------------------------
 
 [Next: 45. How the Children of Pivánhonk'api Obtained Permission To
-Catch Birds](toth048)
+Catch Birds](toth048.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cuts05)  [Next](cuts07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cuts05)  [Next](cuts07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud Upon the Sanctuary*, by Karl Eckartshausen, \[1909\], at
 Intangible Textual Heritage
 
@@ -90,7 +90,7 @@ end.
 This grand concept of re-union, on which all religious doctrine is
 concentrated, could never have been known to man *without* revelation.
 It has always been altogether outside the sphere of scientific
-knowledge, but this very [ignorance](errata.htm#1) of man has made
+knowledge, but this very [ignorance](errata.htm#1.md) of man has made
 revelation absolutely necessary to us, otherwise we could, unassisted,
 never have found the means of rising out of this state of ignorance.
 
@@ -518,7 +518,7 @@ object of the Bible and of all the desires, hopes, and efforts of the
 Christians. Have we not received from our Lord and Master while still He
 walked with His disciples, the profoundest solutions of the most hidden
 truths? Did not our Lord and Master when He was with them in His
-[glorified](errata.htm#2) Body after His resurrection give them the
+[glorified](errata.htm#2.md) Body after His resurrection give them the
 highest revelation with regard to His Person, and did He not lead them
 still more deeply into central knowledge of truth?
 
@@ -577,4 +577,4 @@ meanwhile the highest of your hopes!
 
 ------------------------------------------------------------------------
 
-[Next: Letter V](cuts07)
+[Next: Letter V](cuts07.md)

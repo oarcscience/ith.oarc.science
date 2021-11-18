@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag32)  [Next](rag34) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag32)  [Next](rag34.md) 
 
 ------------------------------------------------------------------------
 
@@ -281,4 +281,4 @@ not contemplate them without terror.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Earth Struck By Comets Many Times](rag34)
+[Next: Chapter VII. The Earth Struck By Comets Many Times](rag34.md)

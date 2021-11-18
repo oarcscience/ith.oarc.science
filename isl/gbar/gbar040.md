@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar039) [Next](gbar041)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar039) [Next](gbar041.md)
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ into his throat, where every man has the mark.
 
 ------------------------------------------------------------------------
 
-[Next](gbar041)
+[Next](gbar041.md)

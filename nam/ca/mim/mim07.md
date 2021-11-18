@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim06)  [Next](mim08) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim06)  [Next](mim08.md) 
 
 ------------------------------------------------------------------------
 
@@ -231,4 +231,4 @@ world.\]
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Flood](mim08)
+[Next: 6. The Flood](mim08.md)

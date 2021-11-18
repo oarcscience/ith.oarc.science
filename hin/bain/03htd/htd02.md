@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd01)  [Next](htd03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd01)  [Next](htd03.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,21 +13,21 @@
 |                            |                         |
 |----------------------------|-------------------------|
 |                            | PAGE                    |
-| A POLITICAL ALLIANCE       | [1](htd03.htm#page_1)   |
+| A POLITICAL ALLIANCE       | [1](htd03.htm#page_1.md)   |
 | THE WAX OF A NEW MOON.     |                         |
-|          MANGO             | [13](htd04.htm#page_13) |
-|          PÁTALÍ            | [17](htd04.htm#page_17) |
-|          JASMINE           | [21](htd05.htm#page_21) |
-|          A FLOWERLESS DAWN | [26](htd06.htm#page_26) |
-|          CHAMPAK           | [29](htd07.htm#page_29) |
-|          LOTUS             | [35](htd08.htm#page_35) |
-|          SHRÍPHALA         | [38](htd09.htm#page_38) |
-|          SHIRÍSHA          | [42](htd11.htm#page_42) |
-|          KADAMBA           | [45](htd11.htm#page_45) |
-|          AMARANTH          | [49](htd12.htm#page_49) |
-|          ASHÓKA            | [53](htd14.htm#page_53) |
-|          PALÁSHA           | [56](htd14.htm#page_56) |
-|          SHAMÍ             | [60](htd15.htm#page_60) |
+|          MANGO             | [13](htd04.htm#page_13.md) |
+|          PÁTALÍ            | [17](htd04.htm#page_17.md) |
+|          JASMINE           | [21](htd05.htm#page_21.md) |
+|          A FLOWERLESS DAWN | [26](htd06.htm#page_26.md) |
+|          CHAMPAK           | [29](htd07.htm#page_29.md) |
+|          LOTUS             | [35](htd08.htm#page_35.md) |
+|          SHRÍPHALA         | [38](htd09.htm#page_38.md) |
+|          SHIRÍSHA          | [42](htd11.htm#page_42.md) |
+|          KADAMBA           | [45](htd11.htm#page_45.md) |
+|          AMARANTH          | [49](htd12.htm#page_49.md) |
+|          ASHÓKA            | [53](htd14.htm#page_53.md) |
+|          PALÁSHA           | [56](htd14.htm#page_56.md) |
+|          SHAMÍ             | [60](htd15.htm#page_60.md) |
 
 </div>
 
@@ -40,4 +40,4 @@ bowstring, and MADHU, or Spring, is his *âme damnèe* and sworn ally.\]
 
 ------------------------------------------------------------------------
 
-[Next: A Political Alliance](htd03)
+[Next: A Political Alliance](htd03.md)

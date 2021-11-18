@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Next](ettt01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Next](ettt01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ Intangible Textual Heritage
 <span id="img_front"></span> <span align="CENTER"> [![FRONTISPIECE: Rare
 Tibetan tanka, now one of the last of its kind, acquired near the
 Indo-Tibetan Border by the editor in 1956.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 FRONTISPIECE: Rare Tibetan tanka, now one of the last of its kind,
 acquired near the Indo-Tibetan Border by the editor in 1956.  
 </span>
@@ -61,6 +61,6 @@ required by law at the time.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ettt01)
+[Next: Contents](ettt01.md)
 
 </div>

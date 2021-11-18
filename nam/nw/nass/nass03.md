@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass02)  [Next](nass04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass02)  [Next](nass04.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ skin. He sat down near the hole of the sky, while
 near the chief's house. Then the chief's daughter went out, carrying a
 small basket in which she was about to fetch water. She walked down to
 the spring in front of her father's house. <span
-id="fr_2"></span>[1](#fn_2) Then Sucking-intestines transformed himself
+id="fr_2"></span>[1](#fn_2.md) Then Sucking-intestines transformed himself
 into the leaf of a cedar, and floated on the water. The chief's daughter
 dipped it up into her basket and drank it. Then she returned. She
 entered her father's house. After a short time she was with child. Then
@@ -285,7 +285,7 @@ ghosts continued to catch olachen.
 
 ### Footnotes
 
-<span id="fn_2"></span>[12:1](nass03.htm#fr_2) From here on the relater
+<span id="fn_2"></span>[12:1](nass03.htm#fr_2.md) From here on the relater
 seems to have confounded the stories of the birth of Txä'msEm and of the
 origin of daylight. See the correct version in Franz Boas, Indianische
 Sagen von der nord-pacifischen Küste Amerikas, Berlin, 1895, p. 272 et
@@ -293,4 +293,4 @@ seq.
 
 ------------------------------------------------------------------------
 
-[Next: Txä'msEm](nass04)
+[Next: Txä'msEm](nass04.md)

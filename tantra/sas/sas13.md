@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas12)  [Next](sas14)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas12)  [Next](sas14.md)  
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ crust of mere historical fact.
 ------------------------------------------------------------------------
 
 Next: [Chapter Fourteen: Cit-Shakti (The Consciousness Aspect of the
-Universe)](sas14)
+Universe)](sas14.md)

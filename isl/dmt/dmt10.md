@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt09)  [Next](dmt11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt09)  [Next](dmt11.md) 
 
 ------------------------------------------------------------------------
 
@@ -244,7 +244,7 @@ by Abu Hanifa, who held that faith (*iman*) is acknowledgment with the
 tongue as well as the heart and that works are a necessary supplement.
 This is little different from the orthodox position which grew up, that
 persuasion, confession, and works made up faith. When
-[Murji’ism](errata.htm#1) dropped out of existence as a sect it left as
+[Murji’ism](errata.htm#1.md) dropped out of existence as a sect it left as
 its contribution to Islam a distinction between great and little sins
 (*kabiras*, *saghiras*), and the position that even great sins, if not
 involving polytheism (*shirk*), would not exclude the believer forever
@@ -955,4 +955,4 @@ orthodox.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](dmt11)
+[Next: Chapter II](dmt11.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal092)  [Next](njal094) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal092)  [Next](njal094.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ Njal's sons and Hauskuld were never apart, either in word or deed.
 
 ------------------------------------------------------------------------
 
-[Next: 94. Of Flosi Thord's Son](njal094)
+[Next: 94. Of Flosi Thord's Son](njal094.md)

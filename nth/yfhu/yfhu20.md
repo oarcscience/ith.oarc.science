@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu19)  [Next](yfhu21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu19)  [Next](yfhu21.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -75,7 +75,7 @@ shall begin to rise and continue to rise.
 
 The only thing that can cause the mind to rise is imagination. The only
 thing that can make the mind larger than it is, is
-[imagination](errata.htm#3). The only thing that can make the mind act
+[imagination](errata.htm#3.md). The only thing that can make the mind act
 along new lines is imagination. This being true, it is unwise to use the
 imagination for any other purpose than for the best that we can think or
 do.
@@ -390,4 +390,4 @@ marvelous indeed*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. The Higher Forces In Man](yfhu21)
+[Next: Chapter XIX. The Higher Forces In Man](yfhu21.md)

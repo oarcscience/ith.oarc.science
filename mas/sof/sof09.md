@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof08)  [Next](sof10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof08)  [Next](sof10.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head07.png"></span> ![Header Chapter VII.](img/head07.png)
+<span id="img_head07.png"></span> ![Header Chapter VII.](img/head07.png.md)
 
 ## VII.
 
@@ -98,6 +98,6 @@ organization, as a combined speculative and operative institution.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Travelling Freemasons of the Middle Ages](sof10)
+[Next: VIII. The Travelling Freemasons of the Middle Ages](sof10.md)
 
 </div>

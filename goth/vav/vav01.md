@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav00)  [Next](vav02) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav00)  [Next](vav02.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Conclusion
 
 ------------------------------------------------------------------------
 
-[Next: Preface](vav02)
+[Next: Preface](vav02.md)

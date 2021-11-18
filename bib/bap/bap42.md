@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap41) 
-[Next](bap43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap41.md) 
+[Next](bap43.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ sinned thereby, then he should deny him all these things, lest if he
 shewed them unto the race of men they should have the mastery over them.
 
 7\. And when he had so said, he took the books and the stones and laid
-them on the top of the mount <span id="fr_106"></span>[1](#fn_106) by
+them on the top of the mount <span id="fr_106"></span>[1](#fn_106.md) by
 the new altar as the Lord had commanded him, and took a peace-offering
 and burnt-offerings, and offered upon the new altar 2000, offering them
 all for a burnt sacrifice. And on that day they kept a great feast, he
@@ -97,7 +97,7 @@ top of the mount where himself had laid those seven. And the graving
 
 of them was so as if the form of eyes was portrayed upon them.
 
-10\.  <span id="fr_107"></span>[2](#fn_107) And the first stone, whereon
+10\.  <span id="fr_107"></span>[2](#fn_107.md) And the first stone, whereon
 was written
 
 |                      |
@@ -125,7 +125,7 @@ it were, *enclosed* the water of the deep, and therein was written the
 name of the tribe of Dan, which stone was like a ligure. But the eighth
 stone was cut out with adamant, and therein was written the name of the
 tribe of Neptalim, and it was like an amethyst. And of the ninth
-stone <span id="fr_108"></span>[1](#fn_108) the graving was pierced, and
+stone <span id="fr_108"></span>[1](#fn_108.md) the graving was pierced, and
 it *was* from Mount Ophir, and therein was written the tribe of Gad, and
 an agate stone was likened unto it. And of the tenth stone the graving
 was hollowed, and gave the likeness of a stone of Theman, and there was
@@ -136,13 +136,13 @@ the name of the tribe of Joseph, and a beryl was. likened to it. And the
 <span id="page_157">p. 157</span>
 
 twelfth stone was cut out of the height of Sion <span
-id="fr_109"></span>[1](#fn_109) (*or* the quarry), and upon it was
+id="fr_109"></span>[1](#fn_109) (*or* the quarry.md), and upon it was
 written the tribe of Benjamin; and the onyx stone was likened unto it.
 
 12\. And God said to Cenez: Take these stones and put them in the ark of
 the covenant of the Lord with the tables of the covenant which I gave
 unto Moses in Oreb, and they shall be there with them until Jahel
-arise <span id="fr_110"></span>[2](#fn_110) to build an house in my
+arise <span id="fr_110"></span>[2](#fn_110.md) to build an house in my
 name, and then he shall set them before me upon the two cherubim, and
 they shall be in my sight for a memorial of the house of Israel. 13. And
 it shall be when the sins of my people are filled up, and their enemies
@@ -151,7 +151,7 @@ former together with the tables, and lay them up in the place whence
 they were brought forth in the beginning, and they shall be there until
 I remember the world, and visit the dwellers upon earth. And then will I
 take them and many other better than they, from that *place* which *eye
-hath not seen* <span id="fr_111"></span>[3](#fn_111) *nor ear heard
+hath not seen* <span id="fr_111"></span>[3](#fn_111.md) *nor ear heard
 neither hath it come up into*
 
 |                 |
@@ -176,18 +176,18 @@ he took the stones from the place where they were laid, and as he took
 them there was as it were the light of the sun poured out upon them, and
 the earth shone with their light. And Cenez put them in the ark of the
 covenant of the Lord with the tables as it was commanded him, and there
-they are unto this day. <span id="fr_112"></span>[1](#fn_112)
+they are unto this day. <span id="fr_112"></span>[1](#fn_112.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_106"></span>[155:1](bap42.htm#fr_106) XXVI. 7.
+<span id="fn_106"></span>[155:1](bap42.htm#fr_106.md) XXVI. 7.
 *superponens* (*ea in holocaustum*). This is the word used in the old
 Latin of Lev. iv., etc, in the Würzburg palimpsest. The Lyons Pentateuch
 has inponens.
 
-<span id="fn_107"></span>[155:2](bap42.htm#fr_107) 10. *seq*. The order
+<span id="fn_107"></span>[155:2](bap42.htm#fr_107.md) 10. *seq*. The order
 of the stones agrees with that of Exod. 28:17 *sqq*., except that agate
 and amethyst are here transposed, and in the Hebrew carbuncle precedes
 emerald. The principle of the list seems to be that each of the new
@@ -196,14 +196,14 @@ id="page_156">p. 156</span> to" or "corresponds to"?) a stone already in
 the breastplate; but the new stones, being supernatural, have as a rule
 no names of their own.
 
-<span id="fn_108"></span>[156:1](bap42.htm#fr_108) 11. (The 9th stone)
+<span id="fn_108"></span>[156:1](bap42.htm#fr_108) 11. (The 9th stone.md)
 *pierced*. I read *terebrata*, with R, for *tenebrata*.
 
-<span id="fn_109"></span>[157:1](bap42.htm#fr_109) 11. (The 12th stone)
+<span id="fn_109"></span>[157:1](bap42.htm#fr_109) 11. (The 12th stone.md)
 *cut out of the height of Sion*. Again I prefer R's reading, *de excelso
 Syon*, to *de excisione* of AP.
 
-<span id="fn_110"></span>[157:2](bap42.htm#fr_110) 12. *until Jahel*
+<span id="fn_110"></span>[157:2](bap42.htm#fr_110.md) 12. *until Jahel*
 (*Jabel* R) shall arise. J substitutes *Solomon* in its paraphrase of
 the passage, and no doubt Solomon is meant; but I cannot find any other
 instance of this name being applied to him, or any reason for it. The
@@ -212,7 +212,7 @@ Jael of judges iv. means a gazelle: Jael is also found as a name of God
 hardly be a corruption of Ἰεδδεδί, the Greek form of Jedidiah (2 Sam.
 12:25).
 
-<span id="fn_111"></span>[157:3](bap42.htm#fr_111) 13. *from that place
+<span id="fn_111"></span>[157:3](bap42.htm#fr_111.md) 13. *from that place
 which eye hath not seen, nor ear heard, neither hath it come up into the
 heart of man*. This is a combination of phrases from Isa. 64:4; 65:16,
 65:17. It is quoted in this form by St. Paul in 1 Cor. 2:9. Mr.
@@ -223,9 +223,9 @@ believe rightly, that the combination was already <span id="page_158">p.
 commentators on the Epistle assigned to the *Secreta Eliae* (Origen),
 *Apocalypse of Elias*, or *Ascension of Isaiah*.
 
-<span id="fn_112"></span>[158:1](bap42.htm#fr_112) 15. there they are
-unto this day. See [p. 63](bap12.htm#page_63).
+<span id="fn_112"></span>[158:1](bap42.htm#fr_112.md) 15. there they are
+unto this day. See [p. 63](bap12.htm#page_63.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII](bap43)
+[Next: Chapter XXVII](bap43.md)

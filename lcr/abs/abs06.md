@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs05)  [Next](abs07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs05)  [Next](abs07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -38,11 +38,11 @@ straight historical chronology. Having briefly outlined these
 discoveries from that date up to this year, I landed up in the
 northwestern corner of North America. I now find that this is just the
 place where I have to commence my detailed reporting and for several
-reasons. By way of explanation I resort to a map [(Map I)](#img_map01);
+reasons. By way of explanation I resort to a map [(Map I)](#img_map01.md);
 a procedure that, I am afraid, you will discover I nearly always do.
 
 ABSMs have now been reported from several dozen areas scattered all over
-five of the continents. <span id="fr_5"></span>[\*](#fn_5) At first
+five of the continents. <span id="fr_5"></span>[\*](#fn_5.md) At first
 sight this distribution does not appear to make any sense at all. This
 is a misconception but to go into the whys and wherefore thereof at this
 juncture would not only be exhausting but more or less incomprehensible.
@@ -95,7 +95,7 @@ reporter for the duration of the forthcoming journey, the
 
 <span id="img_map01"></span> <span align="CENTER"> [![MAP I. CENTRAL
 WESTERN NORTH AMERICA](tn/map01.jpg)  
-Click to enlarge](img/map01.jpg)  
+Click to enlarge](img/map01.jpg.md)  
 MAP I. CENTRAL WESTERN NORTH AMERICA  
 </span>
 
@@ -323,7 +323,7 @@ Francisco) who had devoted a
 
 lifetime to the study of this business, unearthed an old Amerindian
 woman from Port Douglas at the head of Harrison Lake (see [Map
-II](abs07.htm#img_map02)) who alleged, and brought some seconders to
+II](abs07.htm#img_map02).md) who alleged, and brought some seconders to
 confirm, that she had been kidnapped by one of these creatures in the
 year 1871, kept by it for a year, but finally returned by it to her
 tribal homestead because she "aggravated it so much" (though, she said,
@@ -509,7 +509,7 @@ scrambling on all fours through scrub\]." King descended the
 
 slope and inspected the spoor left by the departed one, and noted that
 it was a distinctly "human foot but with phenomenally long and spreading
-toes." <span id="fr_6"></span>[\*](#fn_6)
+toes." <span id="fr_6"></span>[\*](#fn_6.md)
 
 On reading the original account from an old clipping to a company of
 easterners some years ago, I heard somebody murmur, "And so endeth the
@@ -801,7 +801,7 @@ place where
 
 banana trees have been grown. This sounds quite wacky but, if you pursue
 the matter diligently, you will learn that in the area of the junction
-of the Liard and South Nahanni Rivers (see [Map I](#img_map01)), lying
+of the Liard and South Nahanni Rivers (see [Map I](#img_map01).md), lying
 against the vast mountain barrier which cuts our entire continent from
 the mouth of the Mackenzie River on the Arctic Sea to Vera Cruz on the
 Gulf of Mexico, abutting on to the central plains like a monstrous wall,
@@ -856,7 +856,7 @@ Henderson, was to have met him there, but never found him.
 
 The "head-hunting mountain-men" are alleged locally \[and for a great
 distance around, stretching to the limits of the mountain forest toward
-Alaska, <span id="fr_7"></span>[\*](#fn_7) east to northern Manitoba,
+Alaska, <span id="fr_7"></span>[\*](#fn_7.md) east to northern Manitoba,
 and south all the way to the lower Fraser and beyond\], to be ABSMs of
 the *Sasquatch* type and with all its characteristics, such as
 winter-withdrawal, occasional bursts of carnivorousness, and so forth. I
@@ -933,17 +933,17 @@ opened up and is still being probed from all around.
 
 ### Footnotes
 
-<span id="fn_5"></span>[22:\*](abs06.htm#fr_5) For the definition of the
+<span id="fn_5"></span>[22:\*](abs06.htm#fr_5.md) For the definition of the
 continents and their delimitation in accordance with the distribution of
 land-masses, as well as an explanation of the misconceptions about their
 identity, see Chapter 18.
 
-<span id="fn_6"></span>[35:\*](abs06.htm#fr_6) This remark, and
+<span id="fn_6"></span>[35:\*](abs06.htm#fr_6.md) This remark, and
 particularly the word "*long*" used to describe the toes, rather than
 the whole foot, is most pertinent as we shall see when we come to
 examine the tracks of the *Oh-Mahs*.
 
-<span id="fn_7"></span>[43:\*](abs06.htm#fr_7) The dividing line between
+<span id="fn_7"></span>[43:\*](abs06.htm#fr_7.md) The dividing line between
 two major types of vegetation forms a great curve to the north close to
 this area, and then bends down to the south, and even southeast for a
 stretch, along the Pacific coast. The southernmost of these is a type of
@@ -953,4 +953,4 @@ the former in the mountains but not from the latter. (See Chapter 18.)
 
 ------------------------------------------------------------------------
 
-[Next: 3. Further Sasquatchery](abs07)
+[Next: 3. Further Sasquatchery](abs07.md)

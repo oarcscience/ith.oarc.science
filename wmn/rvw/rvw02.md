@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw01)  [Next](rvw03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw01)  [Next](rvw03.md) 
 
 ------------------------------------------------------------------------
 
 ### II
 
-Jane Roe, [4](rvw13.htm#xref_4) a single woman who was residing in
+Jane Roe, [4](rvw13.htm#xref_4.md) a single woman who was residing in
 Dallas County, Texas, instituted this federal action in March 1970
 against the District Attorney of the county. She sought a declaratory
 judgment that the Texas criminal abortion statutes were unconstitutional
@@ -40,7 +40,7 @@ rights to privacy in the doctor-patient relationship and his own right
 to practice medicine, rights he claimed were guaranteed by the First,
 Fourth, Fifth, Ninth, and Fourteenth Amendments.
 
-John and Mary Doe, [5](rvw13.htm#xref_5) a married couple, filed a
+John and Mary Doe, [5](rvw13.htm#xref_5.md) a married couple, filed a
 companion complaint to that of Roe. They also named the District
 Attorney as defendant, claimed like constitutional deprivations, and
 sought declaratory and injunctive relief. The Does alleged that they
@@ -90,4 +90,4 @@ hearing on the merits. 402 U.S. 941 (1971). \[410 U.S. 113, 123\]
 
 ------------------------------------------------------------------------
 
-[Next: Section III](rvw03)
+[Next: Section III](rvw03.md)

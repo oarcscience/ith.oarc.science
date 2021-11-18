@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar034) [Next](gbar036)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar034) [Next](gbar036.md)
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ now man has the navel in his belly.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar036)
+[Next](gbar036.md)

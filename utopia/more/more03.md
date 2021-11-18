@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](more02)  [Next](more04) 
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](more02)  [Next](more04.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ to the light.
 
 ------------------------------------------------------------------------
 
-[Next: Of Their Magistrates](more04)
+[Next: Of Their Magistrates](more04.md)

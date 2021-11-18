@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm07)  [Next](bnm09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm07)  [Next](bnm09.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ why man always looks upon the swallow as his friend.
 
 ------------------------------------------------------------------------
 
-[Next: Why The White Hares Have Black Ears.](bnm09)
+[Next: Why The White Hares Have Black Ears.](bnm09.md)

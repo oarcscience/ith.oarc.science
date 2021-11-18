@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe01)  [Next](poe03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe01)  [Next](poe03.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ of imitation.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Objects of Imitation](poe03)
+[Next: II. The Objects of Imitation](poe03.md)

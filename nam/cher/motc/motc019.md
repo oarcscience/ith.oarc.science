@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc018) 
-[Next](motc020) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc018.md) 
+[Next](motc020.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ the Gobbler.
 
 ------------------------------------------------------------------------
 
-[Next: 20. How The Terrapin Beat The Rabbit](motc020)
+[Next: 20. How The Terrapin Beat The Rabbit](motc020.md)

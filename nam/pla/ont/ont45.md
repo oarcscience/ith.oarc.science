@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont44)  [Next](ont46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont44)  [Next](ont46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### Appendix II (continued): Catalog of Botanical Collection
 
-Page [364](ont29.htm#page_364)<span id="an_364"></span>.—"My botanical
+Page [364](ont29.htm#page_364.md)<span id="an_364"></span>.—"My botanical
 collection."
 
 This collection of herbs and plants, with a description of their Indian
@@ -382,4 +382,4 @@ Lariat because it catches people and trips them up unexpectedly.
 ------------------------------------------------------------------------
 
 [Next: Appendix II (continued): Genealogical Table of
-Brings-down-the-Sun's Family](ont46)
+Brings-down-the-Sun's Family](ont46.md)

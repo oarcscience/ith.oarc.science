@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre39)  [Next](gre41) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre39)  [Next](gre41.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ home through the winter.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXVI: Of Thorbiorn Oxmain's Autumn-feast, and the mocks
-of Thorbiorn Tardy](gre41)
+of Thorbiorn Tardy](gre41.md)

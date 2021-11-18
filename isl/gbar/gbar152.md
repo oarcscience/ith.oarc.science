@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar151) [Next](gbar153)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar151) [Next](gbar153.md)
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ more seen in Judaea.
 
 ------------------------------------------------------------------------
 
-[Next](gbar153)
+[Next](gbar153.md)

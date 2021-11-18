@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](sa1)  [Next](kg1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](sa1)  [Next](kg1.md) 
 
 ------------------------------------------------------------------------
 
@@ -2808,4 +2808,4 @@ placato verso il paese, e la piaga cessò d’infierire sul popolo.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Kings](kg1)
+[Next: 1 Kings](kg1.md)

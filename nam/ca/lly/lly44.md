@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly43)  [Next](lly45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly43)  [Next](lly45.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ placing their ends in the ground around
 
 <span id="img_10400"></span> [![HALF DOME (TI-SA-ACK)&lt;BR&gt; Photo H.
 C. Tibbitts](tn/10400.jpg)  
-Click to enlarge](img/10400.jpg)  
+Click to enlarge](img/10400.jpg.md)  
 HALF DOME (TI-SA-ACK)  
 Photo H. C. Tibbitts  
 
@@ -50,4 +50,4 @@ and yet he was king of the forests and monarch of all he surveyed.
 
 ------------------------------------------------------------------------
 
-[Next: Bedding](lly45)
+[Next: Bedding](lly45.md)

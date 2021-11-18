@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat24)  [Next](jat26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat24)  [Next](jat26.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ pipe once.
 
 He went back to his little home. His turkey was afraid of him and would
 not come near him. "You smell, my father. You do not smell as you used
-to," the turkey said. <span id="fr_38"></span>[1](#fn_38) The man broke
+to," the turkey said. <span id="fr_38"></span>[1](#fn_38.md) The man broke
 off four ears of corn and gave them to the girl's father. He liked them
 very much. He passed his tobacco bag to him. He drew on the pipe but
 once.
@@ -52,7 +52,7 @@ by side. The young man ate the meat. He took some of the tobacco he had
 raised, rolled a cigarette with corn leaves, and gave it to the old man.
 "This is good," said the girl's father as he smoked it. "Why did he not
 bring a large quantity of it? When he comes again he must bring
-plenty." <span id="fr_39"></span>[1](#fn_39) It was the girl's father
+plenty." <span id="fr_39"></span>[1](#fn_39.md) It was the girl's father
 who said this. The next day he came to them again bringing a fawn-skin
 bag full of tobacco. "He has done very well," said the father as he
 received it.
@@ -63,14 +63,14 @@ too, have some property," said the father-in-law, "Go and hunt with
 him." His brother-in-law placed him by a black screen or blind.
 Something ran toward him and passed. It was a fox. Then he placed him by
 a blue blind and a wolf rain by him. "Do not shoot it," his monitor told
-him. <span id="fr_40"></span>[2](#fn_40) Then he sat by a yellow blind
+him. <span id="fr_40"></span>[2](#fn_40.md) Then he sat by a yellow blind
 and a large panther ran by him. Finally, he placed him by a variegated
 blind. "Now, make motions four times when it runs towards you." Then he
 made motions four times, and shot it. "It ran off that way," he said. It
 fell with its head backward. When he came to it he turned its head
 toward the sun and then he butchered it. He killed it for his
 brother-in-law to whom he gave the hide. His brother-in-law's wife
-carried it home. <span id="fr_41"></span>[3](#fn_41)
+carried it home. <span id="fr_41"></span>[3](#fn_41.md)
 
 Then the old man, his father-in-law, felt happy. "Now come with me and
 look at my property," he said. They two went in together where the tame
@@ -103,30 +103,30 @@ winter, and brown in the spring. I have made your hoofs and the ends of
 your noses black. I have made your horns, your ears, your face, your
 teeth, your gait, your tails, your white hips, all very pretty for you.
 I have made your eyes of coals, for you to see with. Now, all I have
-given you looks very well." <span id="fr_42"></span>[1](#fn_42)
+given you looks very well." <span id="fr_42"></span>[1](#fn_42.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_38"></span>[218:1](jat25.htm#fr_38) The man was unclean,
+<span id="fn_38"></span>[218:1](jat25.htm#fr_38.md) The man was unclean,
 ceremonially at least, from his contact with the girl.
 
-<span id="fn_39"></span>[219:1](jat25.htm#fr_39) In the third person
+<span id="fn_39"></span>[219:1](jat25.htm#fr_39.md) In the third person
 because men relations-in-law are not directly addressed.
 
-<span id="fn_40"></span>[219:2](jat25.htm#fr_40) It was explained that a
+<span id="fn_40"></span>[219:2](jat25.htm#fr_40.md) It was explained that a
 bug or fly on the man's head told him what to do. This is a common
 source of information in Southwestern myths.
 
-<span id="fn_41"></span>[219:3](jat25.htm#fr_41) The deer was placed on
+<span id="fn_41"></span>[219:3](jat25.htm#fr_41.md) The deer was placed on
 piñon, pine, oak and mixed bunches of limbs for butchering. The person
 for whom the hunting is done receives the hide and half the meat.
 
-<span id="fn_42"></span>[220:1](jat25.htm#fr_42) This myth is the
+<span id="fn_42"></span>[220:1](jat25.htm#fr_42.md) This myth is the
 foundation of the deer-hunting ceremony. The substance of it, embodied
 in songs, is sung before a hunt.
 
 ------------------------------------------------------------------------
 
-[Next: 24. The Supernatural Person in the Lake](jat26)
+[Next: 24. The Supernatural Person in the Lake](jat26.md)

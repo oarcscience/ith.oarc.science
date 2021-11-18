@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku32)  [Next](tku34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku32)  [Next](tku34.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,8 +35,8 @@ all forms. 'Like as the appearance of a man;' because He includeth all
 names. 'Like as the appearance of a man.' Because He includeth all
 secret things which have been said or propounded before the world was
 created, even although they have not been substituted herein." <span
-id="fr_89"></span>[1](tku34.htm#fn_88)
+id="fr_89"></span>[1](tku34.htm#fn_88.md)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI: Concerning the Edomite Kings](tku34)
+[Next: Chapter XXVI: Concerning the Edomite Kings](tku34.md)

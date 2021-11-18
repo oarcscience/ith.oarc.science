@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa03)  [Next](fiwa05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa03)  [Next](fiwa05.md) 
 
 ------------------------------------------------------------------------
 
@@ -581,4 +581,4 @@ sacrificial idea connected with cannibalism.--R. H. N.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Polytheism--Idolatry](fiwa05)
+[Next: Chapter III: Polytheism--Idolatry](fiwa05.md)

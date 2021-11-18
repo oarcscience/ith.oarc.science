@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg16)  [Next](leg18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg16)  [Next](leg18.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ in their bodies."
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of The Destruction Of Mankind, Chapter IV.](leg18)
+[Next: The Legend Of The Destruction Of Mankind, Chapter IV.](leg18.md)

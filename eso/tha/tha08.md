@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tha07)  [Next](tha09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tha07)  [Next](tha09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,8 +35,8 @@ forces, and in consequence the aura itself. If the ailment be only
 local, then probably there will be merely a circumscribed change in the
 aura; but should the patient suffer from a general disease, the whole
 aura is liable to become affected, but as recovery takes place, it may
-return to its pristine state. (See cases [18](tha04.htm#case18) and
-[48](tha08.htm#case48).) The alteration in the aura occasionally does
+return to its pristine state. (See cases [18](tha04.htm#case18.md) and
+[48](tha08.htm#case48)..md) The alteration in the aura occasionally does
 not seem nearly commensurate with the severity of the illness, as many
 of the modifications are far too subtle to be detected by the crude
 methods of observation at the present time available, but it must be
@@ -51,14 +51,14 @@ The auras of every one enjoying good health are
 
 invariably symmetrical when they are standing facing or with their backs
 to the observer. One case mentioned elsewhere ([case
-51](tha08.htm#case51)) is the only exception <span
-id="fr_13"></span>[\*](#fn_13). Down the front and the back of a person
+51](tha08.htm#case51).md) is the only exception <span
+id="fr_13"></span>[\*](#fn_13.md). Down the front and the back of a person
 standing sideways, there is no equality. When a patient in ill health is
 being inspected, it is impossible, as long as the proper shape of the
 aura is retained, to determine whether the measurements of the aura are
 the same as when the patient was in good health, unless by any chance an
 examination either before or afterwards had taken place. (See cases
-[18](tha04.htm#case18) and [48](tha08.htm#case48).) It must be
+[18](tha04.htm#case18) and [48](tha08.htm#case48)..md) It must be
 recollected that even it the patient had been inspected during health, a
 variation from the correct dimensions of his aura may be only apparent,
 consequent upon some change of texture, as it and visibility are closely
@@ -129,11 +129,11 @@ described by their relatives as "slightly hysterical," although they
 have never suffered seriously, show a tendency towards the spatulate
 aura. On the other hand women not naturally hysterical, who through
 grave anxiety or trouble, exhibit auras having this special feature. A
-well marked instance ([case 35](tha08.htm#case35)), that of a young lady
+well marked instance ([case 35](tha08.htm#case35).md), that of a young lady
 will be mentioned later on.
 
-<span id="case29">Case 29</span>. (Figs. [29](#img_fig29) and
-[30](#img_fig30)). D. X. was a girl two months under the age of
+<span id="case29">Case 29</span>. (Figs. [29](#img_fig29.md) and
+[30](#img_fig30).md). D. X. was a girl two months under the age of
 seventeen years when inspected, rather tall, a perfect skeleton who five
 months previously had been plump. Emaciation had gradually progressed
 without any obvious reason, as all her organs were healthy.
@@ -227,10 +227,10 @@ Whilst examining some children for the effects of heredity upon the
 sizes of the aura, an early instance of the spatulate aura was
 discovered.
 
-<span id="case30">Case 30</span>. (Figs. [31](#img_fig31) and
-[32](#img_fig32)). E. X., a girl not quite eight years old was inspected
+<span id="case30">Case 30</span>. (Figs. [31](#img_fig31.md) and
+[32](#img_fig32).md). E. X., a girl not quite eight years old was inspected
 in 1910. She was a bright and clever child, very excitable, but had a
-neurotic parentage on both sides. (See [Table I](tha02.htm#tab01).)
+neurotic parentage on both sides. (See [Table I](tha02.htm#tab01)..md)
 
 <span id="page_167">p. 167</span>
 
@@ -238,7 +238,7 @@ neurotic parentage on both sides. (See [Table I](tha02.htm#tab01).)
 bluish grey in colour. The inner was about one and a half inches wide
 displaying striation. On the left side over the whole of the trunk it
 was bright, being a good example of a pseudo-ray. (Page
-[52](tha04.htm#page_52)). In a short time this ray faded and the aura
+[52](tha04.htm#page_52).md). In a short time this ray faded and the aura
 assumed its natural condition. There were areas of local brightness
 which gave the impression that rays were being emitted from various
 parts of the body, but none were absolutely developed. Round the head
@@ -311,13 +311,13 @@ accidents, should develop these nervous symptoms, while the rest remain
 immune from them. This fact strongly points to there being a
 constitutional predisposition. The youngest child whose aura displayed a
 perfect spatulate shape coming under this heading, was a boy six years
-of age. ([Case 34](tha08.htm#case34)). The early appearance of this
+of age. ([Case 34](tha08.htm#case34).md). The early appearance of this
 condition after an accident, especially as it was accompanied by a rash
 of nervous origin, strengthens the argument for previous neurotic
 tendencies.
 
-<span id="case32">Case 32</span>. (Figs. [33](#img_fig33) to
-[35](#img_fig35)). N., a retired officer, was wounded during the South
+<span id="case32">Case 32</span>. (Figs. [33](#img_fig33.md) to
+[35](#img_fig35).md). N., a retired officer, was wounded during the South
 African war in the shoulder. The shock of this injury apparently induced
 functional heart derangement of a severe type, which necessitated a
 complete rest for a considerable time before he was able to return to
@@ -418,8 +418,8 @@ Traumatic hysteria.
 right leg was weaker than his left. Knee jerks were excessive and equal
 on the two sides.
 
-<span id="case33">Case 33</span>. (Figs. [36](#img_fig36) to
-[38](#img_fig38).) D, a thin spare woman, forty-five years of age, had
+<span id="case33">Case 33</span>. (Figs. [36](#img_fig36.md) to
+[38](#img_fig38)..md) D, a thin spare woman, forty-five years of age, had
 been a servant in one place for twenty-seven years. Her mistress
 considered that she was excitable, but not, as far as she knew,
 hysterical.
@@ -485,7 +485,7 @@ half, being on the whole a wide aura for a boy of his age. The c.c. band
 was even over the whole body, with the exception of one yellow patch
 over the back of the neck, between the third and seventh cervical
 vertebræ. Query, had this patch any connection with the rash? (Compare
-cases [77](tha10.htm#case77) and [78](tha10.htm#case78)).
+cases [77](tha10.htm#case77) and [78](tha10.htm#case78).md).
 
 Although in every instance of hysteria that has been examined the
 spatulate aura has been present, yet in some allied conditions where
@@ -550,7 +550,7 @@ extremely interesting aura, as the front view seemed normal, but the
 profile showed it wide in front, while at the back there was a well
 pronounced bulge of the hysterical type, which commenced a little below
 the shoulders and terminated a short distance beneath the buttocks.
-Reference to the diagram of a transverse section ([Fig. 40](#img_fig40),
+Reference to the diagram of a transverse section ([Fig. 40](#img_fig40.md),
 d.), will make evident the curious shape of this bulge, which was
 particularly prominent along the middle line.
 
@@ -659,7 +659,7 @@ the adult form. Up to the present time no diminution in the aura on a
 large scale, has been recognized either at the back or the front of the
 body, this condition, if it occurs, is rare.
 
-<span id="case37">Case 37</span>. ([Fig. 39](#img_fig39)). B., an
+<span id="case37">Case 37</span>. ([Fig. 39](#img_fig39).md). B., an
 unmarried woman forty-six years of age, who had been unwell for a long
 time came to have her aura inspected. This was found to have a grey blue
 colour, as she stood facing, was of an average shape and size, being
@@ -697,7 +697,7 @@ Although the aura can only be perceived for any particular position of
 the body as a lateral extension in the same plane, yet in health and in
 a considerable number of pathological states, it is not difficult to
 plot a diagrammatic transverse section. This has been done. [Fig.
-40](#img_fig40), a and b, are those of a healthy man and woman, and the
+40](#img_fig40.md), a and b, are those of a healthy man and woman, and the
 sections are supposed to be about the level of the second lumbar
 vertebræ. In other cases it is far from easy to draw the diagram. Take
 for example the spatulate aura at the waist of a patient, when the
@@ -711,21 +711,21 @@ many curves can be made from the sides of the trunk to the extreme point
 <span id="img_fig40"></span>
 
 [![Figure 40](tn/fig40.jpg)  
-Click to enlarge](img/fig40.jpg)  
+Click to enlarge](img/fig40.jpg.md)  
 Figure 40  
 
 <span id="page_181">p. 181</span>
 
-of the aura at the back. The most likely are [Fig. 40](#img_fig40), c
-and e, for a man, and [Fig. 40](#img_fig40), d and f, for a woman.
-Personally the writer thinks that the [Fig. 40](#img_fig40), c and d,
+of the aura at the back. The most likely are [Fig. 40](#img_fig40.md), c
+and e, for a man, and [Fig. 40](#img_fig40.md), d and f, for a woman.
+Personally the writer thinks that the [Fig. 40](#img_fig40.md), c and d,
 are correct for hysteria, and his opinion is founded upon a common
 aspect of the aura, which
 
 <span id="img_fig40b"></span>
 
 [![Figure 40 (continued)](tn/fig40b.jpg)  
-Click to enlarge](img/fig40b.jpg)  
+Click to enlarge](img/fig40b.jpg.md)  
 Figure 40 (continued)  
 
 does not look as dense at the outer projecting part as near the body,
@@ -739,11 +739,11 @@ In cases where the dorsal curve commences by the head and finishes by
 the feet, the writer has never noticed this apparent difference of the
 thickness of the aura near the body and at the edge of the bulge, and
 consequently imagines that the shape differs from the spatulate aura in
-horizontal as well as in vertical sections. ([Fig. 40](#img_fig40), e
+horizontal as well as in vertical sections. ([Fig. 40](#img_fig40.md), e
 and f). Of course future observations may prove this idea to be
 incorrect. There is a third distinct shape of the transverse section of
 the aura, most pronounced in epileptics, as will be seen below. ([Fig.
-40](#img_fig40b), g to k).
+40](#img_fig40b), g to k.md).
 
 Asymmetry of the aura on two sides of the body is not a particularly
 uncommon occurrence, and either the outer alone or both auras may be
@@ -804,7 +804,7 @@ the auras do not present any abnormality in front, but at the back a
 bulge may or may not be seen. The colour of the haze is usually grey
 with a deficiency of the usual blue tinge.
 
-<span id="case38">Case 38</span>. ([Fig. 41](#img_fig41).) N.W., a  man
+<span id="case38">Case 38</span>. ([Fig. 41](#img_fig41)..md) N.W., a  man
 aged forty-five years, had been strong and never had any serious illness
 until a few months previous to inspection, when he had an epileptic fit,
 and subsequently several others. None of his brothers or sisters have
@@ -836,7 +836,7 @@ Epileptic aura.<br />
 </table>
 
 on the right side was broader than on the left, and lineation could be
-easily seen, being normal; on the left side [striation](errata.htm#7)
+easily seen, being normal; on the left side [striation](errata.htm#7.md)
 was not only difficult to detect, but when seen was coarse. With the
 patient facing the observer, by the head the outer aura on the right
 side was ten inches against seven on the left; by the trunk on the right
@@ -850,7 +850,7 @@ disclose any abnormality, except that the aura showed a yellow colour
 through the dark blue screen. The hue was more marked and deeper on the
 left.
 
-<span id="case39">Case 39</span>. ([Fig. 42](#img_fig42).) I.E.,
+<span id="case39">Case 39</span>. ([Fig. 42](#img_fig42)..md) I.E.,
 thirty-nine years of age, had been an epileptic for over a quarter of a
 century, and the number of fits had gradually increased until now for
 months together they had been two or three
@@ -954,7 +954,7 @@ years, because apart from the shyness and the difficulty of keeping them
 still, their auras are narrow and slight differences in size are hard to
 detect.
 
-An instance ([case 44](tha08.htm#case44)), which rather militates
+An instance ([case 44](tha08.htm#case44).md), which rather militates
 against the theory of congenital asymmetry is that of a woman who had
 puerperal eclampsia. Subsequently to the seizure the auras were
 dissimilar on the two sides. She herself was strong and healthy before
@@ -1165,7 +1165,7 @@ on the left side of the body smaller than those on the right. All these
 cases had brain disturbances; one was suspected of masked epilepsy;
 another had puerperal eclampsia; a third was a man who had just been
 discharged from Bethlem Hospital; and the last was a healthy woman.
-([Case 51](tha08.htm#case51).)
+([Case 51](tha08.htm#case51)..md)
 
 <span id="case44">Case 44</span>. Fortunately, instances of puerperal
 eclampsia are by no means common, so that it was a long time before an
@@ -1409,8 +1409,8 @@ line of demarcation between the latter and the ordinary outer aura, the
 two not passing gradually into one another. Probably the distal portion
 would have vanished in another week's time.
 
-<span id="case49">Case 49</span>. (Figs. [43](#img_fig43) and
-[44](#img_fig44).) N.U., thirty-four years of age, a lady who had never
+<span id="case49">Case 49</span>. (Figs. [43](#img_fig43.md) and
+[44](#img_fig44)..md) N.U., thirty-four years of age, a lady who had never
 been robust nor had suffered from serious illness, had lately passed
 through a very trying time, which had affected her health, and made her
 depressed and thoroughly run down. She complained of pains in her head,
@@ -1515,7 +1515,7 @@ Hemiplegia.<br />
 cases that have been investigated slight variations have, of course,
 been detected. The following is a fairly typical instance.
 
-<span id="case50">Case 50</span>. ([Fig. 45](#img_fig45).) E., a rather
+<span id="case50">Case 50</span>. ([Fig. 45](#img_fig45)..md) E., a rather
 stout man, sixty-nine years of age, had an apoplectic fit in March,
 1916. He remained unconscious for some days but had no unusual symptoms.
 His right arm and leg were paralysed, and he was aphasic. In a
@@ -1663,10 +1663,10 @@ in all, when the aura is not symmetrical the inequality starts at the
 median lines of the body front and back. If a hypothetical section of an
 epileptic aura be made transversely, the median lines must be taken as
 the points where the contraction of the aura commences. [Fig.
-40](#img_fig40b), g and h (page [180](#page_180)), show the shapes of
+40](#img_fig40b), g and h (page [180](#page_180).md), show the shapes of
 the male and female epileptic auras as they usually appear. In some
-instances of epilepsy, as will be seen in cases [42](#img_fig42) and
-[43](#img_fig43), the aura on the contracted side has an exceedingly
+instances of epilepsy, as will be seen in cases [42](#img_fig42.md) and
+[43](#img_fig43.md), the aura on the contracted side has an exceedingly
 ill-defined margin, and occasionally gives the impression of extra width
 resembling in appearance an ultra-outer aura beyond the normal haze.
 From this circumstance and from want of sharpness of the edge, it seems
@@ -1676,16 +1676,16 @@ just, and only just, possible, that in some
 
 epileptics the outer aura may be equally wide on the two sides, and that
 on one side the aura may be so attenuated, as to produce the effect of
-contraction. Of this thin aura, [Fig. 40](#img_fig40b), i and k, are
+contraction. Of this thin aura, [Fig. 40](#img_fig40b.md), i and k, are
 suppositious transverse sections.
 
-<span id="case54">Case 54</span>. ([Fig. 46](#img_fig46).) H., a married
+<span id="case54">Case 54</span>. ([Fig. 46](#img_fig46)..md) H., a married
 woman, was
 
 <span id="img_fig46"></span>
 
 [![](tn/fig46.jpg)  
-Click to enlarge](img/fig46.jpg)
+Click to enlarge](img/fig46.jpg.md)
 
 Fig. 46.  
 Epileptic aura.
@@ -1746,7 +1746,7 @@ definition of the latter.
 Diminution of the aura, either when absolute or apparent only, must be
 produced by a lessening of the auric forces. If the decrease of these
 forces be merely quantitative, the aura will be only contracted or
-attenuated. ([Fig. 40](#img_fig40b), g to k.) But it is more likely than
+attenuated. ([Fig. 40](#img_fig40b), g to k..md) But it is more likely than
 not that changes in the auric forces involve some alteration in the
 character as well. This question will be discussed in the next chapter.
 
@@ -1756,32 +1756,32 @@ between the two sides might easily have escaped realization had not the
 question arisen as the direct consequences of the findings in certain
 pathological states.
 
-The following is a [résumé](errata.htm#8) of the facts which seem to
+The following is a [résumé](errata.htm#8.md) of the facts which seem to
 throw light upon the matter:—
 
 I. Asymmetry in size. During the consideration of the haze surrounding
 epileptics, mention has been made that both the outer and the inner
 auras were broader on one side than on the other (page
-[182](#page_182)), in every instance with the exception of the two cases
-[42](tha08.htm#case42) and [43](tha08.htm#case43), where the equality of
+[182](#page_182).md), in every instance with the exception of the two cases
+[42](tha08.htm#case42) and [43](tha08.htm#case43.md), where the equality of
 the outer is apparent, not real.
 
 2\. Asymmetry in texture. Accompanying the disparity in size, an
 alteration of the texture of the aura is usually present on the smaller
-side. (Page [182](#page_182).) The vertical median lines, anteriorly and
+side. (Page [182](#page_182)..md) The vertical median lines, anteriorly and
 posteriorly, have been shown to be the two most likely positions
 
 <span id="page_211">p. 211</span>
 
 for the meeting of the asymmetrical auras, which are usually well
-defined. (Cases [52](tha08.htm#case52) to [54](tha08.htm#case54).)
+defined. (Cases [52](tha08.htm#case52) to [54](tha08.htm#case54)..md)
 
 3\. Asymmetry in colour. Patients, even in perfect health, have
 occasionally been seen with colour differences on the two sides. In
 neurotics and people in indifferent health such differences are by no
 means uncommon, and whenever the lines of junction can be detected, they
 are the vertical median lines. Sometimes screens may be necessary to
-discover the difference. ([Case 42](tha08.htm#case42).) For this purpose
+discover the difference. ([Case 42](tha08.htm#case42)..md) For this purpose
 a blue screen is generally the most useful.
 
 4\. Asymmetry discovered by means of c.c. bands. Long before the
@@ -1895,11 +1895,11 @@ upon the origin of the spatulate type in hysterical people.
 
 ### Footnotes
 
-<span id="fn_13"></span>[162:\*](tha08.htm#fr_13) In the first edition
+<span id="fn_13"></span>[162:\*](tha08.htm#fr_13.md) In the first edition
 of this book two cases were quoted of symmetrical auras in persons
 enjoying good health, but one of them had previously had an epileptic
 fit, which was not at the time admitted.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Inner Aura in Disease](tha09)
+[Next: Chapter VIII. The Inner Aura in Disease](tha09.md)

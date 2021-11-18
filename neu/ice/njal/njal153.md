@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal152)  [Next](njal154) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal152)  [Next](njal154.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ for him to sit upon.
 
 ------------------------------------------------------------------------
 
-[Next: 154. Gunnar Lambi's Son's Slaying](njal154)
+[Next: 154. Gunnar Lambi's Son's Slaying](njal154.md)

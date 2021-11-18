@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg72)  [Next](btg74) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg72)  [Next](btg74.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ advice of good counselors is unable to deliver himself."
 
 ------------------------------------------------------------------------
 
-[Next: Rescue In The Desert](btg74)
+[Next: Rescue In The Desert](btg74.md)

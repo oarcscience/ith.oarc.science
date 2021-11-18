@@ -1,1 +1,1 @@
-[This feature has been moved here](ecf/index)
+[This feature has been moved here](ecf/index.md)

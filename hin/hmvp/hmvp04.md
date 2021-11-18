@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp03)  [Next](hmvp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp03)  [Next](hmvp05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 |                                                                                |                                                            |                                         |
 |--------------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------|
 |                                                                                |                                                            | <span class="small">PAGE</span>         |
-| <span class="smallcaps">Durgā and other Deities.</span>                        | From a native picture                                      | [(Frontispiece.)](hmvp00.htm#img_front) |
+| <span class="smallcaps">Durgā and other Deities.</span>                        | From a native picture                                      | [(Frontispiece.)](hmvp00.htm#img_front.md) |
 | <span class="smallcaps">Agni.</span>                                           | From Moor's "Hindu Pantheon"                               | 22                                      |
 | <span class="smallcaps">Surya.</span>                                          | „                                                          | 31                                      |
 | <span class="smallcaps">Varuna.</span>                                         | From a native picture                                      | 38                                      |
@@ -96,4 +96,4 @@ class="smallcaps">Fergusson</span>, *and others*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Vedas](hmvp05)
+[Next: Chapter I. The Vedas](hmvp05.md)

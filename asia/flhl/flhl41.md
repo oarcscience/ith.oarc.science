@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -249,7 +249,7 @@ Gabriel, Michael, Raphael, and Uriel.
 
 <span id="img_32300"></span> <span align="CENTER"> [![Jewish Amulet of
 Protection](tn/32300.jpg)  
-Click to enlarge](img/32300.jpg)  
+Click to enlarge](img/32300.jpg.md)  
 Jewish Amulet of Protection  
 </span>
 
@@ -318,7 +318,7 @@ Shaddai.
 
 Solemn Adjuration of the Evil Eye. (As this, though abbreviated, is
 almost identical with the Amulet translated on [p.
-318](flhl40.htm#page_318) ff, there is no need to reproduce it here.)
+318](flhl40.htm#page_318) ff, there is no need to reproduce it here..md)
 
 Picture of a hand, on the back of which is written "Shaddai" (Almighty)
 and "Adonai " (Lord)) with permutations of letters forming names of

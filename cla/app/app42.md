@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app41)  [Next](app43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app41)  [Next](app43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -74,7 +74,7 @@ greater force, but when it falls on the holes further away, a lower note
 results. Clearly swift motion produces a high-pitched sound, slow motion
 a low-pitched sound.
 
-Moreover, the 'whirlers' <span id="fr_70"></span>[1](#fn_65) which are
+Moreover, the 'whirlers' <span id="fr_70"></span>[1](#fn_65.md) which are
 swung round at the Mysteries: if they are whirled gently, they give out
 a low note, if vigorously, a high note. So too with the reed: if one
 stops its lower end and blows, it gives out a low kind of note; but if
@@ -94,14 +94,14 @@ which they call 'harmonic'. The arithmetic mean is when there are three
 terms showing successively the same excess: the second exceeds the third
 by the same amount as the first exceeds the second. In this proportion,
 the ratio of the larger numbers is less, that of the smaller numbers
-greater. <span id="fr_71"></span>[1](#fn_66) The geometric mean is when
+greater. <span id="fr_71"></span>[1](#fn_66.md) The geometric mean is when
 the second is to the third as the first is to the second; in this, the
 greater numbers have the same ratio as the smaller numbers. <span
-id="fr_72"></span>[2](#fn_67) The subcontrary, which we call harmonic,
+id="fr_72"></span>[2](#fn_67.md) The subcontrary, which we call harmonic,
 is as follows: by whatever part of itself the first term exceeds the
 second, the middle term exceeds the third by the same part of the third.
 In this proportion, the ratio of the larger numbers is larger, and of
-the lower numbers less. <span id="fr_73"></span>[3](#fn_68)
+the lower numbers less. <span id="fr_73"></span>[3](#fn_68.md)
 
 3\. In subjects of which one has no knowledge, one must obtain knowledge
 either by learning from someone else, or by discovering it for oneself.
@@ -121,7 +121,7 @@ and the deterrent of wrongdoers, it checks those who are able to reckon
 (*consequences*) before they do wrong, convincing them that they will
 not be able to avoid detection when they come against it; but when they
 are not able (*to reckon*) it shows them that in this <span
-id="fr_74"></span>[4](#fn_69) lies their wrongdoing, and so it prevents
+id="fr_74"></span>[4](#fn_69.md) lies their wrongdoing, and so it prevents
 them from committing the wrong deed.
 
 (*Attributed to a work entitled 'Conversations'*)
@@ -147,21 +147,21 @@ arithmetic treats of the forms also.
 
 ### Footnotes
 
-<span id="fn_65"></span>[79:1](app42.htm#fr_70) ῥόμβος, an instrument
+<span id="fn_65"></span>[79:1](app42.htm#fr_70.md) ῥόμβος, an instrument
 whirled round on a string at the Mysteries.
 
-<span id="fn_66"></span>[80:1](app42.htm#fr_71) *e.g.*, 6, 4, 2; 6 - 4 =
+<span id="fn_66"></span>[80:1](app42.htm#fr_71.md) *e.g.*, 6, 4, 2; 6 - 4 =
 4 - 2, and 6/4 &lt; 4/2.
 
-<span id="fn_67"></span>[80:2](app42.htm#fr_72) *e.g.*, 8, 4, 2; 2:4 =
+<span id="fn_67"></span>[80:2](app42.htm#fr_72.md) *e.g.*, 8, 4, 2; 2:4 =
 4:2, and 4/2 = 8/4.
 
-<span id="fn_68"></span>[80:3](app42.htm#fr_73) *e.g.*, 6, 4, 3; 6 - 4
+<span id="fn_68"></span>[80:3](app42.htm#fr_73.md) *e.g.*, 6, 4, 3; 6 - 4
 =2 ,4 - 3 = 1, and 2:6 = 1:3; 6/4 &gt; 4/3.
 
-<span id="fn_69"></span>[80:4](app42.htm#fr_74) *i.e.*, in their
+<span id="fn_69"></span>[80:4](app42.htm#fr_74.md) *i.e.*, in their
 inability to reckon consequences (Kranz).
 
 ------------------------------------------------------------------------
 
-[Next: 48. Occelus (or Ocellus) of Lucania](app43)
+[Next: 48. Occelus (or Ocellus) of Lucania](app43.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft34)  [Next](meft36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft34)  [Next](meft36.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ you about it; for I thought you would like to hear the news.
 
 ------------------------------------------------------------------------
 
-[Next: Puddock, Mousie and Ratton](meft36)
+[Next: Puddock, Mousie and Ratton](meft36.md)

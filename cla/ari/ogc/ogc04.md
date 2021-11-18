@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc03)  [Next](ogc05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc03)  [Next](ogc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ we have still to treat of growth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](ogc05)
+[Next: Chapter 5](ogc05.md)

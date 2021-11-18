@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto07)  [Next](gto09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto07)  [Next](gto09.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ eye.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Soursops in Iceland](gto09)
+[Next: Chapter IV. The Soursops in Iceland](gto09.md)

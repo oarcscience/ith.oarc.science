@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph19)  [Next](aph21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph19)  [Next](aph21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -154,7 +154,7 @@ meshes of bloody rivulets
 <span id="page_163">p. 163</span>
 
 <span id="img_16300"></span> <span align="CENTER"> [![](tn/16300.jpg)  
-Click to enlarge](img/16300.jpg)</span>
+Click to enlarge](img/16300.jpg.md)</span>
 
 <span id="page_164">p. 164</span> <span id="page_165">p. 165</span>
 
@@ -182,4 +182,4 @@ up her spirit.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six. Enthusiasm](aph21)
+[Next: Chapter Six. Enthusiasm](aph21.md)

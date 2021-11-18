@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma04)  [Next](oma06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma04)  [Next](oma06.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ M. W S.
 
 ------------------------------------------------------------------------
 
-[Next: Origin Myth](oma06)
+[Next: Origin Myth](oma06.md)

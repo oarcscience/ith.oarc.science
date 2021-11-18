@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap39) 
-[Next](bap41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap39.md) 
+[Next](bap41.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ with his fathers. And his sons *laid their hands*
 
 6\. And then all Israel gathered together to bury him, and they lamented
 him with a great lamentation, and thus said they in their
-[lamentation](errata.htm#1): Weep ye for the wing of this swift eagle,
+[lamentation](errata.htm#1.md): Weep ye for the wing of this swift eagle,
 for he hath flown away from us. And weep ye for the strength of this
 lion's whelp, for he is hidden from us. Who now will go and report unto
 Moses the righteous, that we have had forty years a leader like unto
@@ -77,4 +77,4 @@ after the death of Jesus the land of Israel was at rest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV](bap41)
+[Next: Chapter XXV](bap41.md)

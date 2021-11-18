@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh14)  [Next](lsbh16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh14)  [Next](lsbh16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ and capacity are witnesses that I am older than you both," so he ate the
 lamb.
 
 CCCLXXIII\. It was said to a fox, "Wilt thou accept one hundred
-*dinârs* <span id="fr_88"></span>[1](#fn_88) and take \[this\] letter
+*dinârs* <span id="fr_88"></span>[1](#fn_88.md) and take \[this\] letter
 addressed to a dog?" He replied, "The remuneration would be far too
 much, but I cannot travel along a road which droppeth with blood".
 
@@ -83,7 +83,7 @@ everything."
 
 CCCLXXVIII. A certain king was in company with one of his philosophers,
 and as they passed through a ruined village they saw there two owls; and
-he said to the [philosopher](errata.htm#1), "What are these birds saying
+he said to the [philosopher](errata.htm#1.md), "What are these birds saying
 to each other?" And the philosopher said, "I understand something of
 what they are saying, and if thou wilt swear unto me that thou wilt do
 me no harm, I will shew thee." And when the king had sworn to him, the
@@ -166,7 +166,7 @@ not be left out in the open, without keepers, by mankind."
 
 ### Footnotes
 
-<span id="fn_88"></span>[91:1](lsbh15.htm#fr_88) *I.e.*, about fifty
+<span id="fn_88"></span>[91:1](lsbh15.htm#fr_88.md) *I.e.*, about fifty
 shillings of our money.
 
 <div class="filenav">
@@ -174,6 +174,6 @@ shillings of our money.
 ------------------------------------------------------------------------
 
 [Next: The Eleventh Chapter: Stories of Those Whose Dreams and
-Divinations Have Come True](lsbh16)
+Divinations Have Come True](lsbh16.md)
 
 </div>

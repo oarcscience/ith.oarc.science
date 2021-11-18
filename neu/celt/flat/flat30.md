@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat29)  [Next](flat31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat29)  [Next](flat31.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ epithet signifying *the Great*.)\]
 
 ------------------------------------------------------------------------
 
-[Next: The Wonderful Tune](flat31)
+[Next: The Wonderful Tune](flat31.md)

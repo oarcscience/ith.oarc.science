@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma24)  [Next](oma26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma24)  [Next](oma26.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,9 +22,9 @@ around the thumb.
 <span id="page_79">p. 79</span>
 
 They traveled on and passed a place called Kawaíka <span
-id="fr_173"></span>[74](#fn_173) (lake), where Laguna stands. Here they
+id="fr_173"></span>[74](#fn_173) (lake.md), where Laguna stands. Here they
 stopped for the forgetting ceremonies. <span
-id="fr_174"></span>[75](#fn_174) There was no town here at that time.
+id="fr_174"></span>[75](#fn_174.md) There was no town here at that time.
 South of the lake they symbolically crossed the four mountains. When
 they got to a place which they called Kutsekatsa (place of antelope;
 antelope range), because there were very many antelope there--when they
@@ -35,7 +35,7 @@ There is a big rock about 10 miles northeast of Acoma of white
 sandstone; on the north side is a cave with water coming from it. While
 they camped here they had good luck killing antelope. They traveled
 around the region and found a place called Dyaptsiam <span
-id="fr_175"></span>[76](#fn_175) (dyap, a hardwood tree; tsiam, pass or
+id="fr_175"></span>[76](#fn_175.md) (dyap, a hardwood tree; tsiam, pass or
 gap). The people thought of moving there to build another village. Some
 of them said it must be Haako, as they found turkeys and antelope in
 plenty. So they broke camp and at Dyaptsiam built a new village.
@@ -52,7 +52,7 @@ furnish them protection. Some others did not agree that that was the
 right place, so they broke away from those who agreed with the Twins,
 saying, "We have seen another mesa that is more imposing, we will build
 our home there." This was further south. This was called Katsima (braced
-cliff, <span id="fr_176"></span>[77](#fn_176) talus cliff, the Enchanted
+cliff, <span id="fr_176"></span>[77](#fn_176.md) talus cliff, the Enchanted
 Mesa). A few families, very few, went up but they soon ran out of water
 and after a time rejoined those at the other village. They built a
 pretty village on the low mesa, Dyaptsiam. (The ruins are still there.)
@@ -100,7 +100,7 @@ brought their images, which they placed in front of the altar. They
 recalled some of the songs and they had a dance. This dance lasted all
 night. The men would dance in a circle (inside kiva) for a while, then
 they would rest and the women would dance. <span
-id="fr_177"></span>[78](#fn_177) This continued till nearly sunrise.
+id="fr_177"></span>[78](#fn_177.md) This continued till nearly sunrise.
 Then Antelope Man told them to come forward to the altar and get the
 images they had brought. He told them that their prayers in the dances
 were now with these images. They were to take these and again pray to
@@ -109,7 +109,7 @@ plant them. This was done and they found that it was good. They had
 abundant harvests,
 
 The twins Masewi and Oyoyewi were very helpful to the people, They were
-always up early <span id="fr_178"></span>[79](#fn_178) and they went out
+always up early <span id="fr_178"></span>[79](#fn_178.md) and they went out
 into the country and yelled to the clouds (katsina). It is not known how
 long they lived at this place. The Twins were always traveling. One time
 they went
@@ -120,7 +120,7 @@ to South Mountain, the home of Maiyochina, the Summer ruler, who is the
 spirit of the south direction. When the Twins got there they found that
 Maiyochina had a guard who was not to let anyone in. They asked him his
 name and he told them Gaukapuchume <span
-id="fr_179"></span>[80](#fn_179) (busybody? someone always wanting to do
+id="fr_179"></span>[80](#fn_179.md) (busybody? someone always wanting to do
 something). The Twins found him to be very skillful, a good gambler, a
 good stick runner, and quick witted. He challenged the Twins to
 different games and taught them a new game; how to win arrows from each
@@ -188,7 +188,7 @@ other is a crow egg. You are to choose the egg you think is the parrot
 egg." He told them to step up one at a time. He placed the two eggs on a
 piece of buckskin and told each person to stand on the side they chose
 as the one which was the parrot egg. (The one to choose was the head of
-the family, the father). <span id="fr_180"></span>[81](#fn_180) The
+the family, the father). <span id="fr_180"></span>[81](#fn_180.md) The
 chaianyi were the first to make their choice, then came the people.
 After this was done there was a woman just about to bear a child. She
 said, "When my baby comes she will belong to the Parrot clan."
@@ -204,7 +204,7 @@ stepped back, telling the people to watch very carefully. This egg was
 blue and was very pretty, while the other was a dull color. He started
 to count, one, two, three, four. On the fourth count he threw it against
 the rock. When it hit it broke and a number of crows flew out of it. The
-losers felt badly, <span id="fr_181"></span>[82](#fn_181) but they could
+losers felt badly, <span id="fr_181"></span>[82](#fn_181.md) but they could
 not retract, because Iatiku had told them if they did so they would
 never live happily there \[?anywhere\]. Country Chief told them, "This
 ends our journey,
@@ -236,40 +236,40 @@ were lucky and happy because they had come to their permanent home.
 
 ### Footnotes
 
-<span id="fn_172"></span>[78:73](oma24.htm#fr_172) Keresan informants
+<span id="fn_172"></span>[78:73](oma24.htm#fr_172.md) Keresan informants
 invariably use the English word "work" to designate the exercise, or
 manipulation of supernatural power.
 
-<span id="fn_173"></span>[79:74](oma25.htm#fr_173) The Keresan name for
+<span id="fn_173"></span>[79:74](oma25.htm#fr_173.md) The Keresan name for
 Laguna. The Informant is translating from Spanish, not from Keresan.
 
-<span id="fn_174"></span>[79:75](oma25.htm#fr_174) Actually at Laguna
+<span id="fn_174"></span>[79:75](oma25.htm#fr_174.md) Actually at Laguna
 there is a grooved rock for pebble pushing (Parsons, 1923, fig. 20). For
 Zuñi see Parsons, 1923, figs. 21, 22; Benedict, 1935, vol. 1, p. 117.
 
-<span id="fn_175"></span>[79:76](oma25.htm#fr_175) Cf. White, 1932, p.
+<span id="fn_175"></span>[79:76](oma25.htm#fr_175.md) Cf. White, 1932, p.
 145.
 
-<span id="fn_176"></span>[79:77](oma25.htm#fr_176) Cf. White, 1932, p.
+<span id="fn_176"></span>[79:77](oma25.htm#fr_176.md) Cf. White, 1932, p.
 26.
 
-<span id="fn_177"></span>[80:78](oma25.htm#fr_177) At Cochiti and Jemez
+<span id="fn_177"></span>[80:78](oma25.htm#fr_177.md) At Cochiti and Jemez
 the women in this dance form an inner circle.
 
-<span id="fn_178"></span>[80:79](oma25.htm#fr_178) A great virtue among
+<span id="fn_178"></span>[80:79](oma25.htm#fr_178.md) A great virtue among
 the Pueblos.
 
-<span id="fn_179"></span>[81:80](oma25.htm#fr_179) See White, 1942.
+<span id="fn_179"></span>[81:80](oma25.htm#fr_179.md) See White, 1942.
 
-<span id="fn_180"></span>[82:81](oma25.htm#fr_180) This is not a Pueblo
+<span id="fn_180"></span>[82:81](oma25.htm#fr_180.md) This is not a Pueblo
 Indian conception; the father is not "the head of the family." This
 informant, who had left Acoma and who wanted to adopt white man's ways.
 was, however, unquestionably the head of his family.
 
-<span id="fn_181"></span>[82:82](oma25.htm#fr_181) Apparently not
+<span id="fn_181"></span>[82:82](oma25.htm#fr_181.md) Apparently not
 because they cared about their destination but because they had lost the
 parrots.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part XVII](oma26)
+[Next: Wanderings, Part XVII](oma26.md)

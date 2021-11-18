@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas108n)  [Next](jas110n)   
- \[[109. The Fool and the Wise Brother.](jas109)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas108n)  [Next](jas110n.md)   
+ \[[109. The Fool and the Wise Brother.](jas109.md)\]
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ extracting hush money from her pretended murderers, as in number 135
 
 ------------------------------------------------------------------------
 
-[Next: Note 110. The Children and the Witch.](jas110n)
+[Next: Note 110. The Children and the Witch.](jas110n.md)

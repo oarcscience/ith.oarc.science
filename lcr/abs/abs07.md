@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs06)  [Next](abs08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs06)  [Next](abs08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -86,7 +86,7 @@ backward curl of longer hair all across the brow like that seen on
 certain Spider Monkeys (genus *Ateles*) . I reproduce a photograph of a
 sketch that I made under the direction of Mr. Ostman during our
 interview, that emphasizes this strange feature. ([See Fig.
-41.](abs04.htm#img_pl41))
+41.](abs04.htm#img_pl41).md)
 
 The growth and rearrangement of body hair with age is absolutely
 consistent with what is known among other mammals and notably primates
@@ -98,7 +98,7 @@ and some gibbons. Baby chimpanzees often start off with faces and
 
 <span id="img_map02"></span> <span align="CENTER"> [![MAP II. BRITISH
 COLUMBIA](tn/map02.jpg)  
-Click to enlarge](img/map02.jpg)  
+Click to enlarge](img/map02.jpg.md)  
 MAP II. BRITISH COLUMBIA  
 </span>
 
@@ -166,7 +166,7 @@ occurred in this area that is in many ways perhaps one of the most
 fantastic ABSM stories ever told. It only came to light in 1957 but
 concerns happenings alleged to have taken place in 1924 in the mountains
 behind Toba Inlet, which is on the coast of British Columbia (see [Map
-II](#img_map02)). It came to light through a letter (written to John
+II](#img_map02).md). It came to light through a letter (written to John
 Green, owner of *The Advance*, published in Agassiz, a small town near
 Harrison, some 70 miles from Vancouver) by a retired prospector and
 lumberman of Swedish origin named Mr. Albert Ostman. This letter was a
@@ -489,7 +489,7 @@ had wide jaws and a narrow, sloping forehead. The back of his head, as
 in all of them, apparently rose some four or five inches above the
 brow-line, and was pointed. Mr. Ostman went to great pains to explain
 this, and to get the shape just right, as shown in the sketch that I
-made under his direction (see [Fig. 41](abs04.htm#img_pl41)) The
+made under his direction (see [Fig. 41](abs04.htm#img_pl41).md) The
 head-hair was about six inches long; that on the body shorter but much
 thicker in some areas.
 
@@ -676,4 +676,4 @@ reported in use by ABSMs have been sticks.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Appearance of Bigfeet](abs08)
+[Next: 4. The Appearance of Bigfeet](abs08.md)

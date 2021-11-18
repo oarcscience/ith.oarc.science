@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs24) [Next](hbs26)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs24) [Next](hbs26.md)
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ Sagas](../index) [Index](index) [Previous](hbs24) [Next](hbs26)
 ## PRINCE MARKO AND ALIL AGA
 
 T<span class="small">HERE</span> once were two sworn brothers; through
-Tsárigrad<span id="page_145_fr_1"></span>[1](#page_145_note_1) rode
+Tsárigrad<span id="page_145_fr_1"></span>[1](#page_145_note_1.md) rode
 they:  
 The one is the Prince Marko, the other Kostádin the Bey.  
 
@@ -95,7 +95,7 @@ When they came to the lists spoke Alil, the aga of the tsar:
  “Shoot, captain, thyself that vauntest for a great man of war,  
 With thy brag in the tsar’s council that thy shooting is so strong  
 Thou canst hit an eagle of the cross,<span
-id="page_148_fr_1"></span>[1](#page_148_note_1) that leads the clouds
+id="page_148_fr_1"></span>[1](#page_148_note_1.md) that leads the clouds
 along.”  
 
 |               |                                               |
@@ -136,7 +136,7 @@ Only I prithee, brother, hang me not up this day!”
 If thou callest me brother, wherefore dost thou offer me thy wife?  
 Thy wife is not needful to me. We are not as the Turks in this;  
 With us the wife of a brother even as a sister is.<span
-id="page_150_fr_1"></span>[1](#page_150_note_1)  
+id="page_150_fr_1"></span>[1](#page_150_note_1.md)  
 
 <span id="page_151">p. 151</span>
 
@@ -155,7 +155,7 @@ Wherever fortresses were ta’en, they marshaled the attack.
 
 ------------------------------------------------------------------------
 
-[Next](hbs26)
+[Next](hbs26.md)
 
 ------------------------------------------------------------------------
 
@@ -163,18 +163,18 @@ Wherever fortresses were ta’en, they marshaled the attack.
 
 <span id="footnotes_page_145">p. 145</span>
 
-<span id="page_145_note_1"></span>[1](#page_145_fr_1) The *tsar’s city*,
+<span id="page_145_note_1"></span>[1](#page_145_fr_1.md) The *tsar’s city*,
 Constantinople.
 
 <span id="footnotes_page_148">p. 148</span>
 
-<span id="page_148_note_1"></span>[1](#page_148_fr_1) “*Aquila
+<span id="page_148_note_1"></span>[1](#page_148_fr_1.md) “*Aquila
 imperialis*, which has a sort of cross on its back.” Budmani, *Croatian*
 (*Servian*) *Dictionary*.
 
 <span id="footnotes_page_150">p. 150</span>
 
-<span id="page_150_note_1"></span>[1](#page_150_fr_1) “An old Servian
+<span id="page_150_note_1"></span>[1](#page_150_fr_1.md) “An old Servian
 custom still surviving in many districts is the adoption by two men or
 boys of each other as ‘brother,’ or by girls as ‘sister,’ or sometimes
 by two of different sex as brother and sister. The brother, in that

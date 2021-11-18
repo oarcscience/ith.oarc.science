@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy05) 
-[Next](gsoy07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy05.md) 
+[Next](gsoy07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -120,7 +120,7 @@ sake of attaining knowledge of the Self. Knowledge
 is not attained by any means other than thinking, just as objects are
 never seen without light. 'Who am I?' 'How is this world produced?' 'Who
 made it?' and 'What is the material?'—such is the enquiry." <span
-id="fr_44"></span>[1](#fn_44)
+id="fr_44"></span>[1](#fn_44.md)
 
 It is well known that we do not see things as they really are, because
 of our limited point of view, and yet there is in us the craving for
@@ -363,7 +363,7 @@ but only something
 unknown before, which, however, by universal testimony, is true being,
 pure consciousness and incredible joy. All the explanations given in
 this chapter and much more will be found in my book on Vedānta entitled
-*The Glorious Presence*. <span id="fr_45"></span>[2](#fn_45)
+*The Glorious Presence*. <span id="fr_45"></span>[2](#fn_45.md)
 
 It will be useful now to see that the same three means of self-guidance
 are employed in all the three schools we have studied so far—of
@@ -434,9 +434,9 @@ think it to be a man.
 
 It is necessary to know that *māyā* has two functions: "covering-up"
 (*āvarana*) and "throwing-out" (*vikshepa*). <span
-id="fr_46"></span>[3](#fn_46) The first is declared to be the effect of
+id="fr_46"></span>[3](#fn_46.md) The first is declared to be the effect of
 *tamas*, which hides or obstructs the life, and the second the result of
-*rajas*, or energy. <span id="fr_47"></span>[4](#fn_47) "Covering-up"
+*rajas*, or energy. <span id="fr_47"></span>[4](#fn_47.md) "Covering-up"
 implies that although we are—every one—universal in our essential
 nature, our attention is now given to less than the whole. Most of the
 reality is covered up, and since we see only the remainder, it must
@@ -504,7 +504,7 @@ when thick clouds swallow the sun, and they also are afflicted by sharp
 cold winds, so does the power of acute *vikshepa* annoy the man of
 confused intelligence with many troubles. By these two powers the man is
 bound; deluded by them he wanders about, thinking the body to be
-himself." <span id="fr_48"></span>[5](#fn_48)
+himself." <span id="fr_48"></span>[5](#fn_48.md)
 
 Then comes the question how to remove these two: "Unless the *āvarana*
 function ceases completely, vikshepa cannot be conquered. When subject
@@ -513,7 +513,7 @@ disappears on its own account in the Self. Perfect discrimination,
 arising from clear perception, having distinguished the subject and the
 object, cuts away the bondage of delusion made by *māyā*, and then for
 the free man there is no more wandering about." <span
-id="fr_49"></span>[6](#fn_49)
+id="fr_49"></span>[6](#fn_49.md)
 
 The substance of material things is called *sat*, or being.
 Consciousness, with its powers of will, love and thought, is called
@@ -651,27 +651,27 @@ directly, not by logic, is the high purpose of the Vedānta.
 
 ### Footnotes
 
-<span id="fn_44"></span>[67:1](gsoy06.htm#fr_44) *Op. cit*., 10-12,
+<span id="fn_44"></span>[67:1](gsoy06.htm#fr_44.md) *Op. cit*., 10-12,
 abridged translation.
 
-<span id="fn_45"></span>[75:2](gsoy06.htm#fr_45) Published by E. P.
+<span id="fn_45"></span>[75:2](gsoy06.htm#fr_45.md) Published by E. P.
 Dutton and Co., Inc., New York; Rider and Co., Ltd., London, England;
 Messrs Payot, Paris (in French), and Editorial Orion, Mexico City (in
 Spanish). It gives a clear and complete exposition of the entire
 subject.
 
-<span id="fn_46"></span>[76:3](gsoy06.htm#fr_46) See
+<span id="fn_46"></span>[76:3](gsoy06.htm#fr_46.md) See
 *Shrī-Vākhya-Sudhā*, 13-19, 35.
 
-<span id="fn_47"></span>[76:4](gsoy06.htm#fr_47) See *Viveka-Chudāmani*,
+<span id="fn_47"></span>[76:4](gsoy06.htm#fr_47.md) See *Viveka-Chudāmani*,
 113, 115.
 
-<span id="fn_48"></span>[79:5](gsoy06.htm#fr_48) *Vivekachūdāmani*,
+<span id="fn_48"></span>[79:5](gsoy06.htm#fr_48.md) *Vivekachūdāmani*,
 141-146, abridged translation.
 
-<span id="fn_49"></span>[79:6](gsoy06.htm#fr_49) *Ibid*., 345-348,
+<span id="fn_49"></span>[79:6](gsoy06.htm#fr_49.md) *Ibid*., 345-348,
 abridged translation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five. The Hatha and Laya Yogas](gsoy07)
+[Next: Chapter Five. The Hatha and Laya Yogas](gsoy07.md)

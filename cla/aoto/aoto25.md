@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto24) 
-[Next](aoto26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto24.md) 
+[Next](aoto26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -152,7 +152,7 @@ head.
 <span id="page_86">p. 86</span>
 
 <span class="margnote"><span id="an_20:302">302</span></span> Ulysses
-smiled with a grim Sardinian <span id="fr_41"></span>[\*](#fn_41) smile,
+smiled with a grim Sardinian <span id="fr_41"></span>[\*](#fn_41.md) smile,
 and bowed his head so that the heel passed over it and hit the wall.
 Telemachus rebuked Ctesippus very fiercely, and all were silent till
 Agelaus tried to calm them saying, "What Telemachus has said is just:
@@ -209,9 +209,9 @@ man were preparing for them.
 
 ### Footnotes
 
-<span id="fn_41"></span>[86:\*](aoto25.htm#fr_41) This is the only
+<span id="fn_41"></span>[86:\*](aoto25.htm#fr_41.md) This is the only
 reference to Sardinia in either "Iliad" or "Odyssey."
 
 ------------------------------------------------------------------------
 
-[Next: Book XXI. The Trial of the Bow and of the Axes](aoto26)
+[Next: Book XXI. The Trial of the Bow and of the Axes](aoto26.md)

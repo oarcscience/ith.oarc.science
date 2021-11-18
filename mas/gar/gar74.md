@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar73)  [Next](gar75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar73)  [Next](gar75.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ themselves, differing according to their various rites. The Masons in
 all parts of the world working in the York and French rites add 4000
 years to the Christian era, calling it ANNO LUCIS—*Year of Light;*
 abbreviated A∴ L∴; thus the year 1865 would be A∴ L∴ 5865. <span
-id="fr_43"></span>[\*](#fn_43)
+id="fr_43"></span>[\*](#fn_43.md)
 
 Masons practicing in the ANCIENT AND ACCEPTED RITE use the Jewish
 Calendar, which adds 3760 to the vulgar era, styled ANNO MUNDI—A∴
@@ -54,11 +54,11 @@ the FRENCH RITE it commences on the first of March.
 
 ### Footnotes
 
-<span id="fn_43"></span>[388:\*](gar74.htm#fr_43) This fact has a
+<span id="fn_43"></span>[388:\*](gar74.htm#fr_43.md) This fact has a
 symbolic reference, not because they believe Freemasonry is, but that
 the principles and light of the institution are, coeval with the
 creation.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix—Masonic Documents and Forms of Trials](gar75)
+[Next: Appendix—Masonic Documents and Forms of Trials](gar75.md)

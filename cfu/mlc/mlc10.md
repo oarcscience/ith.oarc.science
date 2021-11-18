@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc09)  [Next](mlc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc09)  [Next](mlc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -67,7 +67,7 @@ shroud of mist and dew, and the fire was extinguished by a heavy
 downpour of rain. All the mysterious mechanisms of Lo Hsüan lost their
 efficacy, and the magician took to his heels down the side of the
 mountain. There he was met by Li, the Pagoda-bearer,  <span
-id="fr_27"></span>[1](#fn_27) who threw his golden pagoda into the air.
+id="fr_27"></span>[1](#fn_27.md) who threw his golden pagoda into the air.
 The pagoda fell on Lo Hsüan’s head and broke his skull.
 
 ## C’ih Ching-tzŭ
@@ -150,12 +150,12 @@ symbol (*huo*) was added to his name, changing it from Huo Ti,
 
 ### Footnotes
 
-<span id="fn_27"></span>[240:1](mlc10.htm#fr_27) See Chapter XII.
+<span id="fn_27"></span>[240:1](mlc10.htm#fr_27.md) See Chapter XII.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Myths of Epidemics, Medicine, Exorcism, Etc.](mlc11)
+[Next: Chapter IX. Myths of Epidemics, Medicine, Exorcism, Etc.](mlc11.md)
 
 </div>

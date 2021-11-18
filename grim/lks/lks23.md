@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks22)  [Next](lks24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks22)  [Next](lks24.md) 
 
 ------------------------------------------------------------------------
 
-### THE GREATER CURSE. <span id="fr_36"></span>[1](#fn_36)
+### THE GREATER CURSE. <span id="fr_36"></span>[1](#fn_36.md)
 
 Now, O thou Spirit N., since thou art still pernicious and disobedient,
 and wilt not appear unto me to answer unto such things as I would have
@@ -43,10 +43,10 @@ your vesture covered with a linen cloth, saying:
 
 ### Footnotes
 
-<span id="fn_36"></span>[63:1](lks23.htm#fr_36) In some codices this is
+<span id="fn_36"></span>[63:1](lks23.htm#fr_36.md) In some codices this is
 called "the Curse" only; but in one or two the "Spirits' Chain" is
 called "the Lesser Curse," and this the "Greater Curse."
 
 ------------------------------------------------------------------------
 
-[Next: The Address Unto The Spirit Upon His Coming](lks24)
+[Next: The Address Unto The Spirit Upon His Coming](lks24.md)

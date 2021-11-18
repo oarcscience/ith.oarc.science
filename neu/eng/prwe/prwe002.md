@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe001)  [Next](prwe003) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe001)  [Next](prwe003.md) 
 
 ------------------------------------------------------------------------
 
@@ -540,4 +540,4 @@ really happened within the last five centuries."
 
 ------------------------------------------------------------------------
 
-[Next: The Age of the Giants](prwe003)
+[Next: The Age of the Giants](prwe003.md)

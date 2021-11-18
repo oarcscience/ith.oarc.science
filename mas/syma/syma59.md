@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](syma58)  [Next](syma60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](syma58)  [Next](syma60.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symbolical Masonry*, by H.L. Haywood, \[1923\], at Intangible Textual
 Heritage
 
@@ -505,7 +505,7 @@ is the "Harleian Manuscript"? What is meant by "Old Charges"?
 What do Old Testament writers seem to feel concerning the sea? When the
 sailors cast Jonah overboard did they suppose they were putting him out
 of reach of the God he had offended? Would you as soon be
-[buried](errata.htm#4) in the sea as on the land? What is meant by
+[buried](errata.htm#4.md) in the sea as on the land? What is meant by
 "consecrated ground"? What churches still bury their dead in consecrated
 ground? Why? Does the custom of setting apart a special tract of ground
 for burial add dignity to the thought of death? Would you as soon think
@@ -1853,4 +1853,4 @@ at that time, or did you have to study it out later?
 
 ------------------------------------------------------------------------
 
-[Next: Index](syma60)
+[Next: Index](syma60.md)

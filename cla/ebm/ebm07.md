@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ebm06)  [Next](ebm08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ebm06)  [Next](ebm08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eleusinian and Bacchic Mysteries*, by Thomas Taylor, \[1891\], at
 Intangible Textual Heritage
 
@@ -15,23 +15,23 @@ Intangible Textual Heritage
 > <span class="small">ΚΛΥΘΙ μευ αιγιοχοιο διος τεκος· ἡ γενετηρος  
 > Πηγης εκπροϑορουσα, και ακροτατης απο σειρας  
 > Αρσενοϑυμε· φερασπι· μεγασϑενες· οβριμοπατηρ, <span
-> id="fr_123"></span>[\*](#fn_123)  
+> id="fr_123"></span>[\*](#fn_123.md)  
 > Κεκλυϑι· δεχνυσο δ’ ὑμνον ευφρονι ποτνια ϑυμω  
-> Ἡ σοφιης πετασασα θεοστυβεας <span id="fr_124"></span>[†](#fn_124)
+> Ἡ σοφιης πετασασα θεοστυβεας <span id="fr_124"></span>[†](#fn_124.md)
 > πυλεωνας.  
 > Και χϑονιων δαμασασα θεωμαχα φυλα γιγαντων.  
-> Ἡ κραδιην εσαωσας αμυστιλευτον <span id="fr_125"></span>[‡](#fn_125)
+> Ἡ κραδιην εσαωσας αμυστιλευτον <span id="fr_125"></span>[‡](#fn_125.md)
 > ανακτος  
 > Αιϑερος εν γυαλοισι μεριζομενου ποτε Βακχου  
 > Τιτανων ὑπο χερσι, πορες δε ε πατρι φερουσα  
 > Οφρα νεος βουλησιν απ’ αρῥητοισι τοκηος,  
 > Εκ Σεμελης περι κοσμον ανηβηση Διονυσσος.  
-> Ἡς πελεκις <span id="fr_126"></span>[§](#fn_126) θηριων ταμνων
+> Ἡς πελεκις <span id="fr_126"></span>[§](#fn_126.md) θηριων ταμνων
 > προθελυμνα καρηνα  
 > Πανδερκους ἑκατης παϑεων ἡνυσε γενεϑλην·  
 > Ἡ κρατος Ἡρας σεμνον εγερσι βροτων αρετα·ων  
 > Η βιοτον κοσμησας ολον πολυειδεσι τεχναις,  
-> Δεμιουργικην οερην <span id="fr_127"></span>[‖](#fn_127) ψυχαισι
+> Δεμιουργικην οερην <span id="fr_127"></span>[‖](#fn_127.md) ψυχαισι
 > βαλλουσα·  
 > Ἡ λαχες αχροπολια . . . . . .  
 > Συμβολον ακροτατης μεγαλης σεο ποτνια σειρης·</span>
@@ -46,10 +46,10 @@ Intangible Textual Heritage
 > Και σοφιην· και ερωτα· μενος δ’ εμπνευσον ερωτι,   
 > Τοσσατιον, και τοιον, οσον χϑονιων απο κολπων   
 > Αψερνη προς Ολυμπον ες ηϑεα πατροσ εοιο,   
-> Ειδε τις αμπλακιημε <span id="fr_128"></span>[\*](#fn_128) κακη
+> Ειδε τις αμπλακιημε <span id="fr_128"></span>[\*](#fn_128.md) κακη
 > βιοτοιο δαμαζει.  
 > Ιλαϑι μειλιχοβουλε· σαομβρστε· μηδεμεασης <span
-> id="fr_129"></span>[†](#fn_129)   
+> id="fr_129"></span>[†](#fn_129.md)   
 > ῾Ριγεδαναις ποιναισιν ελωρ και κυρμα γενεσσα,   
 > Κειμενον εν δαπεδοισιν, ὁτι τεος ευχομαι ειναι·   
 > Κεκλυϑι κεκλυϑι· και μοι μειλισχιν ουας ὑποχες.</span>
@@ -124,13 +124,13 @@ Intangible Textual Heritage
 > And lock’d by hell’s tremendous iron doors.  
 > Hear me, and save (for power is all thine own)  
 > A soul desirous to be thine alone. <span
-> id="fr_130"></span>[\*](#fn_130)</span>
+> id="fr_130"></span>[\*](#fn_130.md)</span>
 
 It is very remarkable in this hymn, that the exploits of Minerva
 relative to cutting off the heads of wild beasts with an ax, etc., is
 mentioned by no writer whatever; nor can I find the least trace of a
 circumstance either in the history of Minerva or Hecate to which it
-alludes. <span id="fr_131"></span>[†](#fn_131) And from hence, I
+alludes. <span id="fr_131"></span>[†](#fn_131.md) And from hence, I
 
 <span id="page_228">p. 228</span>
 
@@ -139,34 +139,34 @@ narrations concerning these goddesses, which were consequently but
 rarely mentioned, and this but by a few, whose works, which might afford
 us some clearer information, are unfortunately lost.
 
-<span id="img_22801"></span> ![Musical Conference.](img/22801.png)  
+<span id="img_22801"></span> ![Musical Conference.](img/22801.png.md)  
 Musical Conference.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_123"></span>[224:\*](ebm07.htm#fr_123) Lege οβριμοπατρη.
+<span id="fn_123"></span>[224:\*](ebm07.htm#fr_123.md) Lege οβριμοπατρη.
 
-<span id="fn_124"></span>[224:†](ebm07.htm#fr_124) Lege θεοσεβειας.
+<span id="fn_124"></span>[224:†](ebm07.htm#fr_124.md) Lege θεοσεβειας.
 
-<span id="fn_125"></span>[224:‡](ebm07.htm#fr_125) Lege αμυσι λυτου.
+<span id="fn_125"></span>[224:‡](ebm07.htm#fr_125.md) Lege αμυσι λυτου.
 
-<span id="fn_126"></span>[224:§](ebm07.htm#fr_126) Lege πελεκυς.
+<span id="fn_126"></span>[224:§](ebm07.htm#fr_126.md) Lege πελεκυς.
 
-<span id="fn_127"></span>[224:‖](ebm07.htm#fr_127) Lege Ορμην.
+<span id="fn_127"></span>[224:‖](ebm07.htm#fr_127.md) Lege Ορμην.
 
-<span id="fn_128"></span>[225:\*](ebm07.htm#fr_128) Lege αμπλακημα.
+<span id="fn_128"></span>[225:\*](ebm07.htm#fr_128.md) Lege αμπλακημα.
 
-<span id="fn_129"></span>[225:†](ebm07.htm#fr_129) Lege μηδ’ εμ’ εασης.
+<span id="fn_129"></span>[225:†](ebm07.htm#fr_129.md) Lege μηδ’ εμ’ εασης.
 
-<span id="fn_130"></span>[227:\*](ebm07.htm#fr_130) If I should ever be
+<span id="fn_130"></span>[227:\*](ebm07.htm#fr_130.md) If I should ever be
 able to publish a second edition of my translation of the hymns of
 Orpheus, I shall add to it a translation of all those hymns of Proclus,
 which are fortunately extant; but which are nothing more than the wreck
 of a great multitude which he composed.
 
-<span id="fn_131"></span>[227:†](ebm07.htm#fr_131) If Mr. Taylor had
+<span id="fn_131"></span>[227:†](ebm07.htm#fr_131.md) If Mr. Taylor had
 been conversant with Hindu literature, he would have perceived that
 these exploits of Minerva-Athenè were taken from the buffalo-sacrifice
 of Durga or Bhavani. The whole Dionysiac legend is but a rendering of
@@ -174,4 +174,4 @@ the Sivaic and Buddhistic legends into a Grecian dress.—A. W.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](ebm08)
+[Next: Appendix](ebm08.md)

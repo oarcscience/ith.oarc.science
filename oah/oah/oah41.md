@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah40)  [Next](oah42) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah40)  [Next](oah42.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ otherwise gave evidence unto man of the Unseen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](oah42)
+[Next: Chapter III](oah42.md)

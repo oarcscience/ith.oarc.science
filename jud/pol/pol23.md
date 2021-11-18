@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol22)  [Next](pol24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol22)  [Next](pol24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -153,7 +153,7 @@ amount which thou didst receive as a dowry on thy wedding day?"
 <span id="page_235">p. 235</span>
 
 "Ah," she replied, "is there not a saying in Jerusalem, 'The salt was
-wanting to the money?'" <span id="fr_7"></span>[1](#fn_7)
+wanting to the money?'" <span id="fr_7"></span>[1](#fn_7.md)
 
 "And thy husband's money," continued the Rabbi; "what of that?"
 
@@ -237,10 +237,10 @@ help.
 
 ### Footnotes
 
-<span id="fn_7"></span>[235:1](pol23.htm#fr_7) Salt is used to preserve
+<span id="fn_7"></span>[235:1](pol23.htm#fr_7.md) Salt is used to preserve
 meat; without salt the meat rots. Charity is to money even as salt is to
 meat.
 
 ------------------------------------------------------------------------
 
-[Next: Meekness](pol24)
+[Next: Meekness](pol24.md)

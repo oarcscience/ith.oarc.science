@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist038) 
-[Next](hist040) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist038.md) 
+[Next](hist040.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ day of May, in the reign of the same king"
 
 [Next: IV. How Laurentius and his bishops admonished the Scots to
 observe the unity of the Holy Church, particularly in keeping of Easter,
-and how Mellitus went to Rome.](hist040)
+and how Mellitus went to Rome.](hist040.md)

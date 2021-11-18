@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama209) 
-[Next](kama301) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama209.md) 
+[Next](kama301.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ ointment of some other kind. He should then embrace her with his left
 arm, and with agreeable words should cause her to drink from a cup held
 in his own hand, or he may give her water to drink. They can then eat
 sweetmeats, or anything else, according to their likings and may drink
-fresh juice, <span id="fr_36"></span>[1](kama101.htm#fn_0) soup, gruel,
+fresh juice, <span id="fr_36"></span>[1](kama101.htm#fn_0.md) soup, gruel,
 extracts of meat, sherbet, the juice of mango fruits, the extract of the
 juice of the citron tree mixed with sugar, or anything that may be liked
 in different countries, and known to be sweet, soft, and pure. The
@@ -134,7 +134,7 @@ congress.
 When the woman is in her own house, and has quarrelled with her lover,
 she should go to him and show how angry she is, and leave him.
 Afterwards the citizen having sent the Vita, the Vidushaka or the
-Pithamarda <span id="fr_37"></span>[2](kama101.htm#fn_1) to pacify her,
+Pithamarda <span id="fr_37"></span>[2](kama101.htm#fn_1.md) to pacify her,
 she should accompany them back to the house, and spend the night with
 her lover.
 
@@ -149,7 +149,7 @@ divisions, no great respect is paid to him in the assembly of the
 learned. A man, devoid of other knowledge, but well acquainted with the
 sixty-four divisions, becomes a leader in any society of men and women.
 What man will not respect the sixty-four arts, <span
-id="fr_38"></span>[3](kama101.htm#fn_2) considering they are respected
+id="fr_38"></span>[3](kama101.htm#fn_2.md) considering they are respected
 by the learned, by the cunning, and by the courtesans. As the sixty-four
 arts are respected, are charming, and add to the talent of women, they
 are called by the Acharyas dear to women. A man skilled in the
@@ -160,17 +160,17 @@ of others, and by courtesans.
 
 ### Footnotes
 
-<span id="fn_36"></span>[1](#fr_-1) The fresh juice of the cocoa nut
+<span id="fn_36"></span>[1](#fr_-1.md) The fresh juice of the cocoa nut
 tree, the date tree, and other kinds of palm trees are drunk in India.
 It will keep fresh very long, but ferments rapidly, and is then
 distilled into liquor.
 
-<span id="fn_37"></span>[2](#fr_-1) The characteristics of these three
+<span id="fn_37"></span>[2](#fr_-1.md) The characteristics of these three
 individuals have been given in Part I, page 117.
 
-<span id="fn_38"></span>[3](#fr_-1) A definition of the sixty-four arts
+<span id="fn_38"></span>[3](#fr_-1.md) A definition of the sixty-four arts
 is given in Part I, Chapter III, pages 107-111.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Observations on Betrothal and Marriage](kama301)
+[Next: Chapter I. Observations on Betrothal and Marriage](kama301.md)

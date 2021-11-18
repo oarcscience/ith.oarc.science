@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg03)  [Next](leg05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg03)  [Next](leg05.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_xii">p. xii</span>
 
 <span id="img_i01200"></span> [![](tn/i01200.jpg)  
-Click to enlarge](img/i01200.jpg)  
+Click to enlarge](img/i01200.jpg.md)  
 THE HISTORY OF CREATION. (Brit. Mus. Papyrus No 10,188).
 
 <span id="page_xiii">p. xiii</span>
@@ -48,7 +48,7 @@ published transcripts of some important passages and the account of the
 Creation in the *Proceedings of the Society of Biblical Archaeology*,
 1886-7, pp. 11-26. The Legend of the Creation was considered by Dr. H.
 Brugsch to be of considerable value for the study of the Egyptian
-Religion, and encouraged by him <span id="fr_0"></span>[1](#fn_0) I made
+Religion, and encouraged by him <span id="fr_0"></span>[1](#fn_0.md) I made
 a full transcript of the papyrus, which was published in *Archaeologia*,
 (vol. lii., London, 1891), with transliterations
 
@@ -56,7 +56,7 @@ a full transcript of the papyrus, which was published in *Archaeologia*,
 
 and translations. In 1910 I edited for the Trustees of the British
 Museum the complete hieratic text with a revised translation. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 The papyrus is about 16 ft. 8 in. in length, and is 9¼ in. in width. It
 contains 21 columns of hieratic text which are written in short lines
@@ -155,7 +155,7 @@ by the goddess Maat, who is usually regarded as the goddess of law,
 order, and truth, and in late times was held to be the female
 counterpart of Thoth, "the heart of the god Ra." In this legend,
 however, she seems to play the part of Wisdom, as described in the Book
-of Proverbs, <span id="fr_2"></span>[1](#fn_2) for it was by Maat that
+of Proverbs, <span id="fr_2"></span>[1](#fn_2.md) for it was by Maat that
 he "laid the foundation."
 
 Having described the coming into being of Khepera and the place on which
@@ -164,7 +164,7 @@ Egyptian triad, or trinity, came into existence. Khepera had, in some
 form, union with his own shadow, and so begot offspring, who proceeded
 from his body under the forms of the gods Shu and Tefnut. According to a
 tradition preserved in the Pyramid Texts <span
-id="fr_3"></span>[2](#fn_3) this event took place at On (Heliopolis),
+id="fr_3"></span>[2](#fn_3) this event took place at On (Heliopolis.md),
 and the old form of the legend ascribes the production of Shu and Tefnut
 to an act of
 
@@ -259,7 +259,7 @@ the sun from rising and shining.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xiv:1](leg04.htm#fr_0) Ein in möglichst
+<span id="fn_0"></span>[xiv:1](leg04.htm#fr_0.md) Ein in möglichst
 wortgetreuer Uebersetzung vorglegter Papyrus-text soll den Schlussstein
 meines Werkes bilden. Er wird den Beweis für die Richtigkeit meiner
 eigenen Untersuchungen vollenden, indem er das wichtigste Zeugniss
@@ -271,10 +271,10 @@ misszuverstehen (Brugsch, *Religion*, p. 740). He gives a German
 translation of the Creation Legend on pp. 740, 741, and a
 transliteration on p. 756.
 
-<span id="fn_1"></span>[xv:1](leg04.htm#fr_1) *Egyptian Hieratic Papyri
+<span id="fn_1"></span>[xv:1](leg04.htm#fr_1.md) *Egyptian Hieratic Papyri
 in the British Museum*, London, 1910, folio.
 
-<span id="fn_2"></span>[xix:1](leg04.htm#fr_2) The Lord possessed me in
+<span id="fn_2"></span>[xix:1](leg04.htm#fr_2.md) The Lord possessed me in
 the beginning of his way, before his works of old. I was set up from
 everlasting, from the beginning, or ever the earth was. When there were
 no depths I was brought forth . . . . . . . Before the mountains were
@@ -287,8 +287,8 @@ decree, . . . . . . . when he appointed the foundations of the earth:
 then I was by him, as one brought up with him. . . . . . ." Proverbs,
 viii. 22 ff.
 
-<span id="fn_3"></span>[xix:2](leg04.htm#fr_3) Pepi I., l. 466.
+<span id="fn_3"></span>[xix:2](leg04.htm#fr_3.md) Pepi I., l. 466.
 
 ------------------------------------------------------------------------
 
-[Next: Summary: II. The Legend of the Destruction of Mankind](leg05)
+[Next: Summary: II. The Legend of the Destruction of Mankind](leg05.md)

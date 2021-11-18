@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf08) [Next](bulf10) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf08) [Next](bulf10.md) 
 
 # CHAPTER X.
 
@@ -145,4 +145,4 @@ is invoked by Thomson:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XI. Cupid And Psyche.](bulf10)
+Next: [CHAPTER XI. Cupid And Psyche.](bulf10.md)

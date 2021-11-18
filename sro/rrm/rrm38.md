@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm37)  [Next](rrm39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm37)  [Next](rrm39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -235,7 +235,7 @@ concentrate His presence--which 'no
 
 <span id="page_336">p. 336</span>
 
-man can be permitted to behold <span id="fr_14"></span>[1](#fn_14) and
+man can be permitted to behold <span id="fr_14"></span>[1](#fn_14.md) and
 live'--and to withdraw. For the Divinity to be seen by the profane eye
 is guilt and annihilation to the latter; therefore the gods and all
 spirits have, in every account of their appearance, been seen in some
@@ -287,9 +287,9 @@ senses.
 
 ### Footnotes
 
-<span id="fn_14"></span>[336:1](rrm38.htm#fr_14) Unless self-disclosed.
+<span id="fn_14"></span>[336:1](rrm38.htm#fr_14.md) Unless self-disclosed.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IX: Astro-Theosophical (Extra-Natural) System of the
-Rosicrucians--The Alchemic Magisterium or 'Stone'](rrm39)
+Rosicrucians--The Alchemic Magisterium or 'Stone'](rrm39.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico074) 
-[Next](nico076) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico074.md) 
+[Next](nico076.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ considerations that the latter is a good state and the former a bad one.
 ------------------------------------------------------------------------
 
 [Next: Chapter 9. Relation of continence to obstinancy, incontinence,
-'insensibility', temperence](nico076)
+'insensibility', temperence](nico076.md)

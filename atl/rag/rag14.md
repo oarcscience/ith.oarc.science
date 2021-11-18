@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag13)  [Next](rag15) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag13)  [Next](rag15.md) 
 
 ------------------------------------------------------------------------
 
@@ -725,4 +725,4 @@ in his myths and legends.
 
 ------------------------------------------------------------------------
 
-[Next: Part III. The Legends.--Chapter I. The Nature Of Myths](rag15)
+[Next: Part III. The Legends.--Chapter I. The Nature Of Myths](rag15.md)

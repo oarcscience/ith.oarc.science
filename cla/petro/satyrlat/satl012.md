@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat04.htm#XII)  [Previous](satl011) 
-[Next](satl013) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat04.htm#XII)  [Previous](satl011.md) 
+[Next](satl013.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ detraxitque umeris laciniam et diligentius temptavit.
 
 ------------------------------------------------------------------------
 
-[Next: XIII](satl013)
+[Next: XIII](satl013.md)

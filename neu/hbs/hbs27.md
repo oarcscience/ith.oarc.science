@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs26) [Next](hbs28)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs26) [Next](hbs28.md)
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ Neither is ever at thy board nor draineth first the wine.”
 
 ------------------------------------------------------------------------
 
-[Next](hbs28)
+[Next](hbs28.md)
 
  
 

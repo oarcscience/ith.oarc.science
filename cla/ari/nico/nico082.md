@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico081) 
-[Next](nico083) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico081.md) 
+[Next](nico083.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ have discussed this matter previously.
 ------------------------------------------------------------------------
 
 [Next: Chapter 2. Three objects of love: implications of
-friendship](nico083)
+friendship](nico083.md)

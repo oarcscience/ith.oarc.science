@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ftu01)  [Next](ftu03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ftu01)  [Next](ftu03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_hin.jpg)](index)  
+[![](../img/tn_hin.jpg)](index.md)  
 *From the Upanishads*, by Charles Johnston, \[1899\], at Intangible
 Textual Heritage
 
@@ -129,4 +129,4 @@ C. J.
 
 ------------------------------------------------------------------------
 
-[Next: To G. W. Russell](ftu03)
+[Next: To G. W. Russell](ftu03.md)

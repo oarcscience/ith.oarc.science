@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot25)  [Next](lot27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot25)  [Next](lot27.md) 
 
 ------------------------------------------------------------------------
 
@@ -191,4 +191,4 @@ to the sands of the river Ganges, acquired the talismanic spell Âvarta.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 27](lot27)
+[Next: Chapter 27](lot27.md)

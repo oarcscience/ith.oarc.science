@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos34)  [Next](kos36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos34)  [Next](kos36.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ be scattered; let them also who hate Him flee before Him.'
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[Figure 54](kos44.htm#img_kos13)--The Sixth and Last Pentacle of the
+[Figure 54](kos44.htm#img_kos13.md)--The Sixth and Last Pentacle of the
 Moon.--This is wonderfully good, and serveth excellently to excite and
 cause heavy rains, if it be engraved upon a plate of silver; and if it
 be placed under water,
@@ -85,4 +85,4 @@ a work of immense difficulty, and has extended over several years.}
 
 ------------------------------------------------------------------------
 
-[Next: Prefatory Note](kos36)
+[Next: Prefatory Note](kos36.md)

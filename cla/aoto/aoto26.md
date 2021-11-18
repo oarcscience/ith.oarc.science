@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto25) 
-[Next](aoto27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto25.md) 
+[Next](aoto27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -52,7 +52,7 @@ straight, set the
 axes in a line within it, and stamped the earth about them to keep them
 steady; every one was surprised to see how accurately he fixed them,
 considering that he had never seen anything of the kind before. <span
-id="fr_42"></span>[\*](#fn_42) Having set the axes duly, he stood on the
+id="fr_42"></span>[\*](#fn_42.md) Having set the axes duly, he stood on the
 stone pavement, and tried to string the bow, but failed three times. He
 would, however, have succeeded the fourth time, if Ulysses had not made
 him a sign that he was not to try any more. So he laid both bow and
@@ -163,7 +163,7 @@ armed beside his father's seat.
 
 ### Footnotes
 
-<span id="fn_42"></span>[88:\*](aoto26.htm#fr_42) If Telemachus had
+<span id="fn_42"></span>[88:\*](aoto26.htm#fr_42.md) If Telemachus had
 never seen anything of the kind before, so probably, neither had the
 writer of the "Odyssey"—at any rate no commentator has yet been able to
 understand her description, and I doubt whether she understood it
@@ -175,4 +175,4 @@ and accuracy of aim as regards shooting through a row of rings.
 
 ------------------------------------------------------------------------
 
-[Next: Book XXII. The Killing of the Suitors](aoto27)
+[Next: Book XXII. The Killing of the Suitors](aoto27.md)

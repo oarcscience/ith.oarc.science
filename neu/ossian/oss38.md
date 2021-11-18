@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss37)  [Next](oss39) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss37)  [Next](oss39.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Rothmar, the shield of warriors, stood between two chinky rocks. Two
 oaks, which winds had bent from high, spread their branches on either
 side. He rolls his darkening eyes on Fillan, and, silent, shades his
 friends. Fingal saw the approaching fight. The hero's soul arose. But as
-the stone of Loda  <span id="fr_106"></span>[1](#fn_106) falls, shook,
+the stone of Loda  <span id="fr_106"></span>[1](#fn_106.md) falls, shook,
 at once, from rocking Drumanard, when spirits heave the earth in their
 wrath; so fell blue-shielded Rothmar.
 
@@ -132,12 +132,12 @@ Wrathful he cut the wind, ere yet he mixed his strokes with Fillan. He
 had first bent the bow with Rothmar, at the rock of his own blue
 streams. There they had marked the place of the roe, as the sunbeam flew
 over the fern. Why, son of Cul-allin! why, Culmin, dost thou rush on
-that beam of light?  <span id="fr_107"></span>[2](#fn_107) It is a fire
+that beam of light?  <span id="fr_107"></span>[2](#fn_107.md) It is a fire
 that consumes. Son of Cul-allin, retire. Your fathers were not equal in
 the glittering strife of the field. The mother of Culmin remains in the
 hall. She looks forth on blue-rolling Strutha. A whirlwind rises, on the
 stream, dark-eddying round the ghost of her son. His dogs  <span
-id="fr_108"></span>[3](#fn_108) are howling in their place. His shield
+id="fr_108"></span>[3](#fn_108.md) are howling in their place. His shield
 is bloody in the hall. "Art thou fallen, my fair-haired son, in Erin's
 dismal war?"
 
@@ -213,7 +213,7 @@ calls forth all his steel.
 
 As meet two broad-winged eagles, in their sounding strife, in winds: so
 rush the two chiefs, on Moi-lena, into gloomy fight. By turns are the
-steps of the kings <span id="fr_109"></span>[1](#fn_109) forward on
+steps of the kings <span id="fr_109"></span>[1](#fn_109.md) forward on
 their rocks above; for now the dusky war seems to descend on their
 swords. Cathmor feels the joy of warriors!, on his mossy hill: their joy
 in secret, when dangers rise to match their souls. His eye is not turned
@@ -277,20 +277,20 @@ blue-eyed Clatho, leave thy hall!"
 
 ### Footnotes
 
-<span id="fn_106"></span>[446:1](oss38.htm#fr_106) By "the stone of
+<span id="fn_106"></span>[446:1](oss38.htm#fr_106.md) By "the stone of
 Loda" is meant a place of worship among the Scandinavians.
 
-<span id="fn_107"></span>[446:2](oss38.htm#fr_107) The poet
+<span id="fn_107"></span>[446:2](oss38.htm#fr_107.md) The poet
 metaphorically calls Fillan a beam of light.
 
-<span id="fn_108"></span>[446:3](oss38.htm#fr_108) Dogs were thought to
+<span id="fn_108"></span>[446:3](oss38.htm#fr_108.md) Dogs were thought to
 be sensible of the death of their master, let it happen at ever so great
 a distance. It was also the opinion of the times, that the arms, which
 warriors left at home, became bloody when they themselves fell in
 battle.
 
-<span id="fn_109"></span>[449:1](oss38.htm#fr_109) Fingal and Cathmor.
+<span id="fn_109"></span>[449:1](oss38.htm#fr_109.md) Fingal and Cathmor.
 
 ------------------------------------------------------------------------
 
-[Next: Book VI](oss39)
+[Next: Book VI](oss39.md)

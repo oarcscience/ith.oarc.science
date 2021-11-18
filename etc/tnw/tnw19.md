@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw18)  [Next](tnw20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw18)  [Next](tnw20.md) 
 
 ------------------------------------------------------------------------
 
@@ -530,4 +530,4 @@ brain of a good man.
 
 ------------------------------------------------------------------------
 
-[Next: 19. Astrology: The Eclipse](tnw20)
+[Next: 19. Astrology: The Eclipse](tnw20.md)

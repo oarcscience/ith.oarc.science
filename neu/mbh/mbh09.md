@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh08)  [Next](mbh10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh08)  [Next](mbh10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ Babylonia. If anyone regards this as a fable, I have nothing to say,
 although I have investigated the matter to the best of my ability. Also
 of Achaemenes, the Persian, from whom the nobility of the Persians is
 derived, I learn that he was the pupil of an eagle. <span
-id="fr_49"></span>[1](mbh10.htm#fn_49)
+id="fr_49"></span>[1](mbh10.htm#fn_49.md)
 
 </div>
 
@@ -57,14 +57,14 @@ id="fr_49"></span>[1](mbh10.htm#fn_49)
 
 ### Footnotes
 
-<span id="fn_47"></span>[26:1](mbh08.htm#fr_47) Simonides of Ceos speaks
+<span id="fn_47"></span>[26:1](mbh08.htm#fr_47.md) Simonides of Ceos speaks
 of a casement strong as ore, in which Danaë is said to have been
 exposed. Geibel: *Klassisches Liederbuch*, p. 52.
 
-<span id="fn_48"></span>[26:2](mbh08.htm#fr_48) According to Hüsing, the
+<span id="fn_48"></span>[26:2](mbh08.htm#fr_48.md) According to Hüsing, the
 Perseus myth in several versions is also demonstrable in Japan. Compare
 also Sydney Hartland: *Legend of Perseus*, 3 vols. (London, 1894-6).
 
 ------------------------------------------------------------------------
 
-[Next: Cyrus](mbh10)
+[Next: Cyrus](mbh10.md)

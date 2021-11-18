@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits076) [Next](bits078)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits076) [Next](bits078.md)
 
 ------------------------------------------------------------------------
 
@@ -243,7 +243,7 @@ the Elder.</span>
 
 ------------------------------------------------------------------------
 
-[Next: § 78. The Trance of Cessation](bits078)
+[Next: § 78. The Trance of Cessation](bits078.md)
 
  
 

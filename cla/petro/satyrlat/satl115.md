@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXV)  [Previous](satl114) 
-[Next](satl116) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXV)  [Previous](satl114.md) 
+[Next](satl116.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ mittit.
 
 ------------------------------------------------------------------------
 
-[Next: CXVI](satl116)
+[Next: CXVI](satl116.md)

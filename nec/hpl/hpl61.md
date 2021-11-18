@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl60)  [Next](hpl62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl60)  [Next](hpl62.md) 
 
 ------------------------------------------------------------------------
 
@@ -173,4 +173,4 @@ For all the rest of my life, in outward form, I was to be that man!
 
 ------------------------------------------------------------------------
 
-[Next: I. A Result and a Prologue](hpl62)
+[Next: I. A Result and a Prologue](hpl62.md)

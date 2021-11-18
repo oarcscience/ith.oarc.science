@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](iol06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](iol06.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@
 
 WITH the Renaissance, and the impetus it gave at that time to the study
 of Greek and Roman models, the exclusive domination of Christianity and
-the Church was broken. A [literature](errata.htm#1) of friendship along
+the Church was broken. A [literature](errata.htm#1.md) of friendship along
 classic lines began to spring up. Montaigne (b. 1533) was saturated with
 classic learning. His essays were doubtless largely formed upon the
 model of Plutarch. His friendship with Stephen de la Boëtie was
@@ -31,7 +31,7 @@ friendship which he there formed with Stephen de la Boëtie, an affection
 which makes a streak of light in modern biography almost as beautiful as
 that left us by Lord Brook and Sir Philip Sydney. Our essayist and his
 friend esteemed, before they saw, each other. La Boëtie had written a
-little work <span id="fr_7"></span>[1](#fn_7) in which
+little work <span id="fr_7"></span>[1](#fn_7.md) in which
 
 <span id="page_114">p. 114</span>
 
@@ -2149,7 +2149,7 @@ kind of ban; and now Whitman's attitude
 towards it suggests to us that it really is destined to pass into its
 third stage, to arise again, and become a recognized factor of modern
 life, and even in a more extended and perfect form than at first. <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 "It is to the development, identification, and general prevalence of
 that fervid comradeship (the adhesive love, at least rivalling the
@@ -2246,10 +2246,10 @@ The institution of the dear love of comrades."
 
 ### Footnotes
 
-<span id="fn_7"></span>[113:1](iol07.htm#fr_7) "De la Servitude
+<span id="fn_7"></span>[113:1](iol07.htm#fr_7.md) "De la Servitude
 Volontaire."
 
-<span id="fn_8"></span>[189:1](iol07.htm#fr_8) As Whitman in this
+<span id="fn_8"></span>[189:1](iol07.htm#fr_8.md) As Whitman in this
 connection (like Tennyson in connection with *In Memoriam*) is sure to
 be accused of morbidity, it may be worth while to insert the following
 note from *In re Walt Whitman*, p. 115, "Dr. Drinkard in 1870, when

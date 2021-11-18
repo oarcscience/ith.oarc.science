@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt14)  [Next](hkt16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt14)  [Next](hkt16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -100,7 +100,7 @@ Templars, and was the scene of their proud and sumptuous hospitality.
 Within its venerable walls they at different periods entertained king
 John, king Henry the Third, the haughty legates of Roman pontiffs, and
 the ambassadors of foreign powers. The old custom, alluded to by Matthew
-Paris, <span id="fr_541"></span>[\*](#fn_541) of hanging around the wall
+Paris, <span id="fr_541"></span>[\*](#fn_541.md) of hanging around the wall
 the shields and armorial devices of the antient knights, is still
 preserved, and each succeeding treasurer of the Temple still continues
 to hoist his coat of arms on the wall, as in the high and palmy days of
@@ -127,7 +127,7 @@ formerly connected with the church
 
 by means of a covered way or cloister, which ran at right angles with
 them over the site of the present cloister-chambers, and
-[communicated](errata.htm#8) with the upper and under story of the
+[communicated](errata.htm#8.md) with the upper and under story of the
 chapel of St. Anne, which formerly stood on the south side of the
 church. By means of this corridor and chapel the brethren of the Temple
 had private access to the church for the performance of their strict
@@ -149,7 +149,7 @@ Temple in the year 1681, William Whitlock, esq., being treasurer."
 
 The cloisters of the Templars formed the medium of communication between
 the hall, the church, and the cells of the serving brethren of the
-order. <span id="fr_542"></span>[\*](#fn_542)
+order. <span id="fr_542"></span>[\*](#fn_542.md)
 
 During the formation of the present new entrance into the Temple by the
 church, at the bottom of the Inner Temple-lane, a considerable portion
@@ -225,11 +225,11 @@ order in London, in common with the other property of the military
 monks, was seized into the king's hands, and was committed to the care
 of James le Botiller and William de Basing, who, on the 9th of December,
 A.D. 1311, were commanded to hand it over to the sheriffs of London, to
-be taken charge of by them. <span id="fr_543"></span>[\*](#fn_543) Two
+be taken charge of by them. <span id="fr_543"></span>[\*](#fn_543.md) Two
 years afterwards the Temple was granted to that powerful nobleman, Aymer
 de Valence, earl of Pembroke, who had been one of the leaders of the
 baronial conspiracy against Piers Gavaston. <span
-id="fr_544"></span>[†](#fn_544) <span id="fr_545"></span>[‡](#fn_545) As
+id="fr_544"></span>[†](#fn_544) <span id="fr_545"></span>[‡](#fn_545.md) As
 Thomas earl of Lancaster, however, claimed the Temple by escheat as the
 immediate lord of the fee, the earl of Pembroke, on the 3rd of Oct.,
 A.D. 1316, at
@@ -238,7 +238,7 @@ A.D. 1316, at
 
 the request of the king, and in consideration of other lands being
 granted to him by his sovereign, remised and released all his right and
-title therein to Lancaster. <span id="fr_546"></span>[\*](#fn_546) This
+title therein to Lancaster. <span id="fr_546"></span>[\*](#fn_546.md) This
 earl of Lancaster was cousin-german to the English monarch, and first
 prince of A the blood; he was the most powerful and opulent subject of
 the kingdom, being possessed of no less than six earldoms, with a
@@ -271,7 +271,7 @@ on his head, and in this miserable
 
 condition he was led through the town of Pontefract to the place of
 execution, in front of his own castle. <span
-id="fr_547"></span>[\*](#fn_547)
+id="fr_547"></span>[\*](#fn_547.md)
 
 A few days afterwards, the king, whilst he yet tarried at Ponfract,
 granted the Temple to Aymer de Valence, earl of Pembroke, by a royal
@@ -293,7 +293,7 @@ our heirs, and the other chief lords of the fee, by the same services as
 those formerly rendered; but if the said Aymer shall die without heirs
 of his body lawfully begotten, then the said mansion-house, messuage,
 &c. &c., shall revert to us and our heirs." <span
-id="fr_548"></span>[†](#fn_548)
+id="fr_548"></span>[†](#fn_548.md)
 
 Rather more than a year after the date of this grant, Aymer de Valence
 was murdered. He had accompanied queen Isabella to the court of her
@@ -308,12 +308,12 @@ believed to have compassed.
 brought over to England, and buried in Westminster Abbey at the head of
 Edmund Crouchback, earl of Lancaster. He left no issue, and the Temple,
 consequently, once more reverted to the crown. <span
-id="fr_549"></span>[\*](#fn_549)
+id="fr_549"></span>[\*](#fn_549.md)
 
 It was now granted to Hugh le Despenser the younger, the king's
 favourite, at the very time that the act of parliament (17 Edward II.)
 was passed, conferring all the lands of the Templars upon the
-Hospitaliers of St. John. <span id="fr_550"></span>[†](#fn_550) Hugh le
+Hospitaliers of St. John. <span id="fr_550"></span>[†](#fn_550.md) Hugh le
 Despenser, in common with the other barons, paid no attention to the
 parliament, and held the Temple till the day of his death, which
 happened soon after, for on the 24th of September, A.D. 1326, Queen
@@ -323,12 +323,12 @@ she seized the favourite, and caused him instantly to be condemned to
 death. On St. Andrew's Eve he was led out to execution; they put on him
 his surcoat of arms reversed, a crown of nettles was placed on his head,
 and on his vestment they wrote six verses of the psalm, beginning, *Quid
-gloriaris in malitiâ*. <span id="fr_551"></span>[‡](#fn_551) After which
+gloriaris in malitiâ*. <span id="fr_551"></span>[‡](#fn_551.md) After which
 be was hanged on a gallows eighty feet high, and was then beheaded,
 drawn, and quartered. His head was sent to London, and stuck upon the
 bridge; and of the four quarters of his body, one was sent to York,
 another to Bristol, another to Carlisle, and the fourth to Dover. <span
-id="fr_552"></span>[§](#fn_552)
+id="fr_552"></span>[§](#fn_552.md)
 
 Thus perished the last private possessor of the Temple at London.
 
@@ -349,7 +349,7 @@ Complaints were made to the king on the subject, who, on the 2nd day of
 November, in the third year of his reign, wrote as follows to the mayor:
 
 "The king to the mayor of London, his escheator <span
-id="fr_553"></span>[\*](#fn_553) in the same city.
+id="fr_553"></span>[\*](#fn_553.md) in the same city.
 
 "Since we have been given to understand that there ought to be a free
 passage through the court of the New Temple at London to the river
@@ -365,7 +365,7 @@ Westminster, may be able so to do by the way to which they have hitherto
 been accustomed.
 
 "Witness ourself at Kenilworth, the 2nd day of November, and third year
-of our reign." <span id="fr_554"></span>[†](#fn_554)
+of our reign." <span id="fr_554"></span>[†](#fn_554.md)
 
 <span id="page_352">p. 352</span>
 
@@ -383,7 +383,7 @@ have been informed of the things done in the matter, the expense shall
 be allowed you in your account of the same proceeds.
 
 "Witness ourself at Westminster, the 15th day of January, and fourth
-year of our reign." <span id="fr_555"></span>[\*](#fn_555)
+year of our reign." <span id="fr_555"></span>[\*](#fn_555.md)
 
 Two years afterwards (6 E. III, A.D. 1333) the king committed the
 custody of the Temple to "his beloved clerk," William de Langford, "and
@@ -391,7 +391,7 @@ farmed out the rents and proceeds thereof to him for the term of ten
 years, at a rent of 24*l*. per annum, the said William undertaking to
 keep all the houses and tenements in good order and repair, and so
 deliver them up at the end of the term." <span
-id="fr_556"></span>[†](#fn_556)
+id="fr_556"></span>[†](#fn_556.md)
 
 In the mean time, however, the pope, the bishops, and the Hospitaliers
 had been vigorously exerting themselves to obtain a transfer of the
@@ -430,7 +430,7 @@ and all the buildings erected thereon, together with the hall,
 cloisters, and St. Thomas's chapel, were sanctified places dedicated to
 God; that Hugh le Despenser occupied and detained them unjustly, and
 that through his attainder and forfeiture, and not otherwise, they came
-into the king's hands. <span id="fr_557"></span>[\*](#fn_557)
+into the king's hands. <span id="fr_557"></span>[\*](#fn_557.md)
 
 <span id="page_354">p. 354</span>
 
@@ -446,7 +446,7 @@ made in pursuance of this writ before John de Shorditch, a baron of the
 Exchequer, it further appears that on the said residue of the Temple
 upon the land then remaining in the custody of William de Langford, and
 withinside the great gate of the Temple, were another HALL <span
-id="fr_558"></span>[\*](#fn_558) and four chambers connected therewith,
+id="fr_558"></span>[\*](#fn_558.md) and four chambers connected therewith,
 a kitchen, a garden, a stable, and a chamber beyond the great gate; also
 eight shops, seven of which stood in Fleet Street, and the eighth in the
 suburb of London, without the bar of the New Temple; that the annual
@@ -462,7 +462,7 @@ annual revenue of the Temple then amounted to 73*l*. 6*s*. 11*d*.,
 
 equal to about 1,000*l*. of our present money, and that William de
 Langford was abated 12*l*. 4*s*. 2*d*. of his said rent. <span
-id="fr_559"></span>[\*](#fn_559)
+id="fr_559"></span>[\*](#fn_559.md)
 
 Three years after the taking of this inquisition, and in the thirteenth
 year of his reign, A.D. 1340, king Edward the Third in consideration of
@@ -472,7 +472,7 @@ the said prior all the residue of the Temple then remaining in the
 king's hands, to hold, together with the cemetery, cloisters, and the
 other sanctified places, to the said prior and his brethren, and their
 successors, of the king and his heirs, for charitable purposes, for
-ever. <span id="fr_560"></span>[†](#fn_560) From the above grant it
+ever. <span id="fr_560"></span>[†](#fn_560.md) From the above grant it
 appears that the porter of the Temple received sixty shillings and
 tenpence per annum, and twopence a day wages, which were to be paid him
 by the Hospitaliers.
@@ -485,11 +485,11 @@ the whole chapter of the Hospital, granted to Brother Hugh de Lichefeld,
 priest, and to his successors, guardians of the Temple Church, towards
 the improvement of the lights and the celebration of divine service
 therein, all the land called Ficketzfeld, and the garden called
-Cotterell Garden; <span id="fr_561"></span>[‡](#fn_561) a and two years
+Cotterell Garden; <span id="fr_561"></span>[‡](#fn_561.md) a and two years
 afterwards he made a further grant, to the said Hugh and his successors,
 of a thousand-fagots a year to be cut of the wood of Lilleston, and
 carried to the New Temple to keep up the fire in the said church. <span
-id="fr_562"></span>[§](#fn_562)
+id="fr_562"></span>[§](#fn_562.md)
 
 <span id="page_356">p. 356</span>
 
@@ -498,7 +498,7 @@ notwithstanding the grant of the Temple to the Hospitallers, exercised
 the right of appointing to the porter's office, and by his letters
 patent he promoted Roger Small to that post for the term of his life, in
 return for the good service rendered him by the said Roger Small. <span
-id="fr_563"></span>[\*](#fn_563)
+id="fr_563"></span>[\*](#fn_563.md)
 
 It is at this period that the first distinct mention of a society of
 lawyers in the Temple occurs.
@@ -531,7 +531,7 @@ Or live as scarsly, as him list desire;
 And able for to helpen all a shire,  
 In any cas that mighte fallen or happe;  
 And yet this manciple cette hir aller cappe." <span
-id="fr_564"></span>[\*](#fn_564)</span>
+id="fr_564"></span>[\*](#fn_564.md)</span>
 
 </div>
 
@@ -553,7 +553,7 @@ et jetteront les measons a la terre et avegheront tighles, issint que
 ils fairont coverture en mal array; et alleront en l’esglise, et
 pristeront touts les liveres et rolles de remembrances, que furont en
 leur huches deins LE TEMPLE DE APPRENTICES DE LA LEY; et porteront en le
-haut chimene et les arderont." <span id="fr_565"></span>[†](#fn_565))
+haut chimene et les arderont." <span id="fr_565"></span>[†](#fn_565).md)
 And Walsingham, who wrote in the reign of Henry the Sixth, about fifty
 years after the occurrence of these events, tells us that after the
 rebels, under Wat Tyler and Jack Straw, had burnt the Savoy, the noble
@@ -570,7 +570,7 @@ vocatur Temple Barre, in quo *apprenticii juris* morabantur
 *nobiliores*, diruerunt, ob iram quam conceperant contra Robertum de
 Hales Magistrum Hospitalis Sancti Johannis Jerusalem, ubi plura
 munimenta, quæ Juridici in custodiâ habuerunt, igne consumpta
-sunt." <span id="fr_566"></span>[\*](#fn_566)
+sunt." <span id="fr_566"></span>[\*](#fn_566.md)
 
 In a subsequent passage, however, he gives us a better clue to the
 attack upon the Temple, and the burning of the deeds and writings, for
@@ -607,12 +607,12 @@ the support of his boy, and five shillings a year for his wages.
 Geoffrey de Cave, clerk, and John de Shelton, were also, each of them,
 to receive from the same house, for their good services, an annual
 pension of forty shillings for the term of their lives. <span
-id="fr_567"></span>[\*](#fn_567) Some of these retainers, in addition to
+id="fr_567"></span>[\*](#fn_567.md) Some of these retainers, in addition to
 their various stipends, were to have a gown of the class of free-serving
 brethren of the order of the Temple <span
-id="fr_568"></span>[†](#fn_568) each year; one old garment out of the
+id="fr_568"></span>[†](#fn_568.md) each year; one old garment out of the
 stock of old garments belonging to the brethren; <span
-id="fr_569"></span>[‡](#fn_569) one mark a year for their shoes, &c.;
+id="fr_569"></span>[‡](#fn_569.md) one mark a year for their shoes, &c.;
 their sons also received so much *per diem*, on condition that they did
 the daily work of the house. These retainers were of the class of free
 servants of office; they held their posts for life, and not being
@@ -636,15 +636,15 @@ the rule of their order requiring "two and two to eat together," and
 "all the fragments to be given in brotherly charity to the domestics,"
 is observed to this day, and has been in force from time immemorial. The
 attendants at table, moreover, are still called *paniers*, as in the
-days of the Knights Templars. <span id="fr_570"></span>[\*](#fn_570) The
+days of the Knights Templars. <span id="fr_570"></span>[\*](#fn_570.md) The
 leading punishments of the Temple, too, remain the same as in the olden
 time. The antient Templar, for example, for a light fault, was
 "withdrawn from the companionship of his fellows," and not allowed "to
-eat with them at the same table," <span id="fr_571"></span>[†](#fn_571)
+eat with them at the same table," <span id="fr_571"></span>[†](#fn_571.md)
 and the modern Templar, for impropriety of conduct, is "expelled the
 hall" and "put out of commons." The brethren of the antient fraternity
 were, for grave offences, in addition to the above punishment, deprived
-of their lodgings, <span id="fr_572"></span>[‡](#fn_572) and were
+of their lodgings, <span id="fr_572"></span>[‡](#fn_572.md) and were
 compelled to sleep with the beasts in the open court; and the members of
 the modern fellowship have in bygone times, as a mode of punishment,
 been temporarily deprived of their chambers in the Temple for
@@ -663,7 +663,7 @@ readers of the Knights Templars read and expounded RELIGION.
 
 There has also been, in connexion with the modern fellowship, a class of
 *associates* similar to the associates of the antient Templars. <span
-id="fr_573"></span>[\*](#fn_573) These were illustrious persons who paid
+id="fr_573"></span>[\*](#fn_573.md) These were illustrious persons who paid
 large sums of money, and made presents of plate, to be admitted to the
 fellowship of the Masters of the Bench; they were allowed to dine at the
 Bench table, to be as it were honorary members of the society, but were
@@ -677,7 +677,7 @@ following manner.
 Both before, and for a very considerable period after, the Norman
 conquest, the study of the law was confined to the ecclesiastics, who
 engrossed all the learning and knowledge of the age. <span
-id="fr_574"></span>[†](#fn_574) In the reign of king Stephen, the
+id="fr_574"></span>[†](#fn_574.md) In the reign of king Stephen, the
 foreign clergy who had flocked over after the conquest, attempted to
 introduce the ancient civil law of Rome into this country, as calculated
 to promote the power and advantage of their order, but were resolutely
@@ -693,12 +693,12 @@ were published by the bishop of Salisbury, forbidding clerks and priests
 to practise as advocates in the common law courts. (*Nec advocati sint
 clerici vel sacerdotes in foro sæculari, nisi vel proprias causas vel
 miserabilium personarum prosequantur*. <span
-id="fr_575"></span>[\*](#fn_575)) Towards the close of the same reign,
+id="fr_575"></span>[\*](#fn_575).md) Towards the close of the same reign,
 (A.D. 1254,) Pope Innocent IV. forbade the reading of the common law by
 the clergy in the English universities and seminaries of learning,
 because its decrees were not founded on the *imperial constitutions*,
 but merely on the *customs of the laity*. <span
-id="fr_576"></span>[†](#fn_576)
+id="fr_576"></span>[†](#fn_576.md)
 
 As the common law consequently gradually ceased to be studied and taught
 by the clergy, who were the great depositaries of legal learning, as of
@@ -727,7 +727,7 @@ follow his court and transact the affairs therein, and no others; the
 king and his council deeming the number of fourscore to be sufficient
 for that employment; but it was left to the discretion of the said
 justices to add to that number, or to diminish it, as they should think
-fit. <span id="fr_577"></span>[\*](#fn_577)
+fit. <span id="fr_577"></span>[\*](#fn_577.md)
 
 At this period the Court of Common Pleas had been fixed at Westminster,
 which brought together the professors of the common law at London; and
@@ -748,7 +748,7 @@ the lawyers had just established themselves in the convent of the
 Temple, and had engrafted upon the old stock of Knights Templars their
 infant society for the study of the practice of the common law, the
 judges of the Court of Common Pleas were made KNIGHTS, <span
-id="fr_578"></span>[†](#fn_578) being the earliest instance on record
+id="fr_578"></span>[†](#fn_578.md) being the earliest instance on record
 
 <span id="page_364">p. 364</span>
 
@@ -763,13 +763,13 @@ It is true that the word *serviens*, *serjen*, or serjeant, was applied
 to the professors of the law long before the reign of Edward the Third,
 but not to denote a *privileged brotherhood*. It was applied to lawyers
 in common with all persons who did any description of work for another,
-from the *serviens domini regis [ad](errata.htm#11) legem*, who
+from the *serviens domini regis [ad](errata.htm#11.md) legem*, who
 prosecuted the pleas of the crown in the county court, to the *serviens*
 or *serjen* who walked with his cane before the concubine of the
 Patriarch in the streets of Jerusalem. <span
-id="fr_579"></span>[\*](#fn_579) The priest who worked for the Lord was
+id="fr_579"></span>[\*](#fn_579.md) The priest who worked for the Lord was
 called *serjens de Dieu*, and the lover who served the lady of his
-affections *serjens d’amour*. <span id="fr_580"></span>[\*](#fn_579) It
+affections *serjens d’amour*. <span id="fr_580"></span>[\*](#fn_579.md) It
 was in the order of the Temple that the word *freres* serjens or
 *fratres* servientes signified an honorary title or degree, and denoted
 a powerful privileged class of men. The *fratres servientes armigeri* or
@@ -777,9 +777,9 @@ a powerful privileged class of men. The *fratres servientes armigeri* or
 rank of gentlemen. They united in their own persons the monastic and the
 military character, they were allotted one horse each, they wore the red
 cross of the order of the Temple on their breasts, <span
-id="fr_581"></span>[†](#fn_580) they participated in all the privileges
+id="fr_581"></span>[†](#fn_580.md) they participated in all the privileges
 of the brotherhood, and were eligible to the dignity of Preceptor. Large
-sums of money were frequently given by [seculars](errata.htm#12) who had
+sums of money were frequently given by [seculars](errata.htm#12.md) who had
 not been advanced to the honour of knighthood,
 
 <span id="page_365">p. 365</span>
@@ -787,12 +787,12 @@ not been advanced to the honour of knighthood,
 to be admitted amongst this highly-esteemed order of men.
 
 The *freres serjens* of the Temple wore linen *coifs*, and red caps
-close over them. <span id="fr_582"></span>[\*](#fn_581) At the ceremony
+close over them. <span id="fr_582"></span>[\*](#fn_581.md) At the ceremony
 of their admission into the fraternity, the Master of the Temple placed
 the coif upon their heads, and threw over their shoulders the white
 mantle of the Temple; he then caused them to sit down on the ground, and
 gave them a solemn admonition concerning the duties and responsibilities
-of their profession. <span id="fr_583"></span>[†](#fn_582) They were
+of their profession. <span id="fr_583"></span>[†](#fn_582.md) They were
 warned that they must enter upon a new life, that they must keep
 themselves fair and free from stain, like the white garment that had
 been thrown around them, which was the emblem of purity and innocence;
@@ -810,7 +810,7 @@ reception into the fraternity of the Temple, are curious and remarkable.
 "Capitalis Justitiarius," says an antient MS. account of the creation of
 serjeants-at-law in the reign of Henry the Seventh, "monstrabat eis
 plura bona exempla de eorum prædecessoribus, et tunc posuit les
-*coyfes* <span id="fr_584"></span>[‡](#fn_583) super eorum capitibus, et
+*coyfes* <span id="fr_584"></span>[‡](#fn_583.md) super eorum capitibus, et
 induebat eos
 
 <span id="page_366">p. 366</span>
@@ -825,7 +825,7 @@ and he commences a portion of his discourse in the scriptural language
 used by the popes in the famous bull conceding to the Templars their
 vast spiritual and temporal privileges, "*Omne datum optimum et omne
 donum perfectum desursum est descendens a patre luminum, &c. &c.!* <span
-id="fr_585"></span>[\*](#fn_584)
+id="fr_585"></span>[\*](#fn_584.md)
 
 The *freres serjens* of the Temple were strictly enjoined to "eat their
 bread in silence," and "place a watch upon their mouths," and the
@@ -870,7 +870,7 @@ claim by several leases, but by one entire grant. And as they took their
 diet apart, so likewise were they stationed apart in the church, viz.
 those of the Middle Temple on the left hand side as you go therein, and
 those of the old house on the right hand side, and so it remains between
-them at this day." <span id="fr_586"></span>[\*](#fn_585)
+them at this day." <span id="fr_586"></span>[\*](#fn_585.md)
 
 Burton, the antiquary, who wrote in the reign of queen Elizabeth, speaks
 of this "old house" (the Inner Temple) as "the
@@ -880,7 +880,7 @@ of this "old house" (the Inner Temple) as "the
 mother and most antient of all the other houses of courts, to which,"
 says he, "I must acknowledge all due respect, being a fellow thereof,
 admitted into the same society on the 20th of May, 1593." <span
-id="fr_587"></span>[\*](#fn_586) The two societies of the Temple are of
+id="fr_587"></span>[\*](#fn_586.md) The two societies of the Temple are of
 *equal antiquity;* the members in the first instance dined together in
 one or other of the antient halls of the Templars as it suited their
 convenience and inclination; and to this day, in memory of the old
@@ -888,12 +888,12 @@ custom, the benchers or antients of the one society dine once every year
 in the hall of the other society. The period of the division has been
 generally referred to the commencement of the reign of Henry the Sixth,
 as at the close of that long reign the present four Inns of Court were
-all in [existence](errata.htm#13), and then contained about two thousand
+all in [existence](errata.htm#13.md), and then contained about two thousand
 students. The Court of King's Bench, the Court of Exchequer, and the
 Court of Chancery, had then encroached upon the jurisdiction of the
 Common Pleas, and had taken cognizance of civil causes between subject
 and subject, which were formerly decided in that court alone. <span
-id="fr_588"></span>[†](#fn_587) The legal business of the country had
+id="fr_588"></span>[†](#fn_587.md) The legal business of the country had
 consequently greatly increased, the profession of the law became highly
 honourable, and the gentry and the nobility considered the study of it a
 necessary part of education.
@@ -948,7 +948,7 @@ came to Thomas late duke of Norfolk, and was by him conveyed to Sir
 Robert Dudley, knight, earl of Leicester, who bequeathed the same to Sir
 Robert Dudley, knight, his son, and lastly, by purchase, came to Robert
 late earl of Essex, who died in the reign of the late queen Elizabeth,
-and is still called Essex-house." <span id="fr_589"></span>[\*](#fn_588)
+and is still called Essex-house." <span id="fr_589"></span>[\*](#fn_588.md)
 
 When the lawyers came into the Temple, they found engraved upon the
 antient buildings the armorial bearings of the Knights Templars, which
@@ -1026,45 +1026,45 @@ For you're the PRANCING HORSE; and they
 
 ### Footnotes
 
-<span id="fn_541"></span>[344:\*](hkt15.htm#fr_541) P. 899, 900.
+<span id="fn_541"></span>[344:\*](hkt15.htm#fr_541.md) P. 899, 900.
 
-<span id="fn_542"></span>[345:\*](hkt15.htm#fr_542) ante, p. 255.
+<span id="fn_542"></span>[345:\*](hkt15.htm#fr_542.md) ante, p. 255.
 
-<span id="fn_543"></span>[347:\*](hkt15.htm#fr_543) *Joan
+<span id="fn_543"></span>[347:\*](hkt15.htm#fr_543.md) *Joan
 Sariaburiensis*. Polycrat. lib. vi. cap. 1.
 
-<span id="fn_544"></span>[347:†](hkt15.htm#fr_544) Acta *Rymeri*, tom.
+<span id="fn_544"></span>[347:†](hkt15.htm#fr_544.md) Acta *Rymeri*, tom.
 iii. p. 296, 297.
 
-<span id="fn_545"></span>[347:‡](hkt15.htm#fr_545) (NOTE: *There is no
+<span id="fn_545"></span>[347:‡](hkt15.htm#fr_545.md) (NOTE: *There is no
 footnote reference for ‡ on this page--JBH*) Cart. vi. E. 2. n. 41.
 *Trivet*. cont., p. 4. *T. de la More*, p. 593.
 
-<span id="fn_546"></span>[348:\*](hkt15.htm#fr_546) Pat. 8. E. 2. in.
+<span id="fn_546"></span>[348:\*](hkt15.htm#fr_546.md) Pat. 8. E. 2. in.
 17. The Temple is described therein as "de feodo Thom æ Comitis
 Lancastriæ, et de honore Leicestric."
 
-<span id="fn_547"></span>[349:\*](hkt15.htm#fr_547) Processus contra
+<span id="fn_547"></span>[349:\*](hkt15.htm#fr_547.md) Processus contra
 comitem Lancastriæ. Acta *Rymeri*, tom. iii. p. 936. *Lel*. coll. vol.
 i. p. 668. *La More, Walsingham*.
 
-<span id="fn_548"></span>[349:†](hkt15.htm#fr_548) Cart. 15. E. II. m.
+<span id="fn_548"></span>[349:†](hkt15.htm#fr_548.md) Cart. 15. E. II. m.
 21. Acta *Rymeri*, tom. iii. p. 940.
 
-<span id="fn_549"></span>[350:\*](hkt15.htm#fr_549) Dugd. Baron., vol.
+<span id="fn_549"></span>[350:\*](hkt15.htm#fr_549.md) Dugd. Baron., vol.
 i. p. 777, 778.
 
-<span id="fn_550"></span>[350:†](hkt15.htm#fr_550) Rot. Escaet. 1. E.
+<span id="fn_550"></span>[350:†](hkt15.htm#fr_550.md) Rot. Escaet. 1. E.
 III.
 
-<span id="fn_551"></span>[350:‡](hkt15.htm#fr_551) H. Knyghton, apud [X
-script](errata.htm#9) col. 2546.7. *Lel*. Itin. vol. vi. p 86.
+<span id="fn_551"></span>[350:‡](hkt15.htm#fr_551.md) H. Knyghton, apud [X
+script](errata.htm#9.md) col. 2546.7. *Lel*. Itin. vol. vi. p 86.
 *Walsingham*, 106.
 
-<span id="fn_552"></span>[350:§](hkt15.htm#fr_552) Claus. 4. E. III. m.
+<span id="fn_552"></span>[350:§](hkt15.htm#fr_552.md) Claus. 4. E. III. m.
 9. Acta *Rymeri*, tom. iv. p. 461.
 
-<span id="fn_553"></span>[351:\*](hkt15.htm#fr_553) There was in those
+<span id="fn_553"></span>[351:\*](hkt15.htm#fr_553.md) There was in those
 days an *escheator* in each county, and in various large towns: it was
 the duty of this officer to seize into the king's hands all lands held
 *in capite* of the crown, on receiving a writ *De diem clausit
@@ -1072,19 +1072,19 @@ extremum*, commanding him to assemble a jury to take inquisition of the
 value of the lands, as to who was the next heir of the deceased, the
 rents and services by which they were holden, &c. &c.
 
-<span id="fn_554"></span>[351:†](hkt15.htm#fr_554) Claus 3. E. III. in.
+<span id="fn_554"></span>[351:†](hkt15.htm#fr_554.md) Claus 3. E. III. in.
 6. d. Acta *Rymeri*, tom. iv. p. 406.
 
-<span id="fn_555"></span>[352:\*](hkt15.htm#fr_555) Claus. 4. E. III. m.
+<span id="fn_555"></span>[352:\*](hkt15.htm#fr_555.md) Claus. 4. E. III. m.
 7. Acta *Rymeri*, tom. iv. p. 464.
 
-<span id="fn_556"></span>[352:†](hkt15.htm#fr_556) Pat. 6. E. III. p. 2.
+<span id="fn_556"></span>[352:†](hkt15.htm#fr_556.md) Pat. 6. E. III. p. 2.
 m. 22. in original, apud Rolls Garden ex parte Remembr. Thesaur.
 
-<span id="fn_557"></span>[353:\*](hkt15.htm#fr_557) Rot. Escaet. 10. E.
+<span id="fn_557"></span>[353:\*](hkt15.htm#fr_557.md) Rot. Escaet. 10. E.
 3. 66. Claus 11 E. 3. p. 1. m. 10.
 
-<span id="fn_558"></span>[354:\*](hkt15.htm#fr_558) Sunt etiam ibidem
+<span id="fn_558"></span>[354:\*](hkt15.htm#fr_558.md) Sunt etiam ibidem
 claustrum, capella Sancti Thomæ, et quædam platea terræ eidem capellæ
 annexata, cum *una aula* et camera supra edificata, quæ sunt loca
 sancta, et Deo dedicata, et dictæ ecclesiæ annexata, et eidem Priori per
@@ -1094,19 +1094,19 @@ in custodia Wilielmi de Langford infra Magnam Portam dicti Novi Templi,
 una coquina, unum gardinum, unum stabulum, et una camera ultra Magnam
 Portam prædictam, &c.
 
-<span id="fn_559"></span>[355:\*](hkt15.htm#fr_559) In memorandis Scacc.
+<span id="fn_559"></span>[355:\*](hkt15.htm#fr_559.md) In memorandis Scacc.
 inter recorda de Termino Sancti Hilarii, 11. E. 3. in officio
 Remembratoris Thesaurarii.
 
-<span id="fn_560"></span>[355:†](hkt15.htm#fr_560) Pat. 12. E. 3. p. 2.
+<span id="fn_560"></span>[355:†](hkt15.htm#fr_560.md) Pat. 12. E. 3. p. 2.
 m. 22. *Dugd*. Monasticon, vol. vii. p. 810, 811.
 
-<span id="fn_561"></span>[355:‡](hkt15.htm#fr_561) Ex registr. Sancti
+<span id="fn_561"></span>[355:‡](hkt15.htm#fr_561.md) Ex registr. Sancti
 Johannis Jerus. fol. 141. a. *Dugd. Monast.*, tom. vi. part 2, p. 832.
 
-<span id="fn_562"></span>[355:§](hkt15.htm#fr_562) Ibid. ad ann. 1341.
+<span id="fn_562"></span>[355:§](hkt15.htm#fr_562.md) Ibid. ad ann. 1341.
 
-<span id="fn_563"></span>[356:\*](hkt15.htm#fr_563) Rex omnibus ad quota
+<span id="fn_563"></span>[356:\*](hkt15.htm#fr_563.md) Rex omnibus ad quota
 &c. salutem. Sciatis quod de gratiâ nostrâ speciali, et pro bono
 servitio quod Rogerus Small nobis impendit et impendat in futuro,
 concessimus ei officium *Janitoris Novi Templi* London Habend. &c. pro
@@ -1115,32 +1115,32 @@ Robertus Petyt defunct. Qui officium illud ex concessione domini Edwardi
 nuper regis Angliæ patris nostri habuit . . . . Teste meipso apud
 Westin. 5 die Aprilis, anno regni nostri 35. Pat. 35. E. 3. p. 2. m. 33.
 
-<span id="fn_564"></span>[357:\*](hkt15.htm#fr_564) Prologue to the
+<span id="fn_564"></span>[357:\*](hkt15.htm#fr_564.md) Prologue to the
 Canterbury Tales. The wages of the Manciples of the Temple, temp. Hen.
 VIII. were xxxvis. viiid. per annum. Bib. *Cotton*. Vitellius, c. 9. f.
 320, a.
 
-<span id="fn_565"></span>[357:†](hkt15.htm#fr_565) Annal. Olim-Sanctæ
+<span id="fn_565"></span>[357:†](hkt15.htm#fr_565.md) Annal. Olim-Sanctæ
 Mariæ Ebor.
 
-<span id="fn_566"></span>[358:\*](hkt15.htm#fr_566) *Walsing*. 4 Ric. 2.
+<span id="fn_566"></span>[358:\*](hkt15.htm#fr_566.md) *Walsing*. 4 Ric. 2.
 ad ann. 1381. Hist. p. 249, ed. 1603.
 
-<span id="fn_567"></span>[359:\*](hkt15.htm#fr_567) Rot. claus b. E. 2.
+<span id="fn_567"></span>[359:\*](hkt15.htm#fr_567.md) Rot. claus b. E. 2.
 m. 19. Acta *Rymeri*, tom. iii. p. 292, 293, 294.
 
-<span id="fn_568"></span>[359:†](hkt15.htm#fr_568) Unam robam per annum
+<span id="fn_568"></span>[359:†](hkt15.htm#fr_568.md) Unam robam per annum
 de secta liberorum servientium, et quinque solidos per annum, et
 deserviat quamdiu poterit loco liberi servientis in domo prædictâ. Ib.
 m. 2. Acta *Rymeri*, tom. iii. p. 331, 332.
 
-<span id="fn_569"></span>[359:‡](hkt15.htm#fr_569) Quolibet anno ad
+<span id="fn_569"></span>[359:‡](hkt15.htm#fr_569.md) Quolibet anno ad
 Natale Domini unum vetus indumentum de veteribus indumentis fratrum, et
 quolibet die 2 denarios pro victu garcionis sui, et 5 solidos per annum
 per stipendiis ejusdem garcionis, sed idem garcio deserviet in domo
 illâ. Ib.
 
-<span id="fn_570"></span>[360:\*](hkt15.htm#fr_570) Thomas of Wothrope,
+<span id="fn_570"></span>[360:\*](hkt15.htm#fr_570.md) Thomas of Wothrope,
 at the trial of the Templars in England, was unable to give an account
 of the reception of some brethren into the order, quia erat *panetarius*
 et vacabat circa suum officium. *Concil. Mag. Brit.*, tom. ii. p. 355.
@@ -1148,58 +1148,58 @@ Tunc panetarius mittat comiti duos panes atque vini sextarium . . . Ita
 appellabant officialem domesticum, qui mensæ panem, mappas et manutergia
 subministrabat. *Ducange*, Gloss. verb. panetarius.
 
-<span id="fn_571"></span>[360:†](hkt15.htm#fr_571) *Regula
+<span id="fn_571"></span>[360:†](hkt15.htm#fr_571.md) *Regula
 Templariorum*, cap. lxvii. ante p. 25.
 
-<span id="fn_572"></span>[360:‡](hkt15.htm#fr_572) *Concil. Mag. Brit.*,
+<span id="fn_572"></span>[360:‡](hkt15.htm#fr_572.md) *Concil. Mag. Brit.*,
 tom. ii. p. 371 to 373, ante, p. 235.
 
-<span id="fn_573"></span>[361:\*](hkt15.htm#fr_573) *Dugd*. Orig.
+<span id="fn_573"></span>[361:\*](hkt15.htm#fr_573.md) *Dugd*. Orig.
 Jurid., p. 212.
 
-<span id="fn_574"></span>[361:†](hkt15.htm#fr_574) Nullus clericus nisi
+<span id="fn_574"></span>[361:†](hkt15.htm#fr_574.md) Nullus clericus nisi
 causidicus. Will. Malm., lib. iv. f. 69. *Radulph de Diceto*, apud Hist.
 Angl. Script. Antiq., lib. vii. col. 606, from whom it appears that the
 chief justitiary and justices itinerant were all *priests*.
 
-<span id="fn_575"></span>[362:\*](hkt15.htm#fr_575) *Spelm*. Concil.,
+<span id="fn_575"></span>[362:\*](hkt15.htm#fr_575.md) *Spelm*. Concil.,
 tom. ii. ad ann. 1217.
 
-<span id="fn_576"></span>[362:†](hkt15.htm#fr_576) INNOCENTIUS, &c. . .
+<span id="fn_576"></span>[362:†](hkt15.htm#fr_576.md) INNOCENTIUS, &c. . .
 . Præterea cum in Angliæ, Scotiæ, Walliæ regnis, causæ laicorum non
 imperatoriis legibus, sed laicorum consuetudinibus decidantur, fratrum
 nostrorum, et aliorum religiosorum consilio et rogatu, statuimus quod in
-prædictis regnis *leges* [*sæculares*](errata.htm#10) de cætero non
+prædictis regnis *leges* [*sæculares*](errata.htm#10.md) de cætero non
 legantur. *Matt. Par.*, p. 883, ad ann. 1254, et in additamentis, p.
 191.
 
-<span id="fn_577"></span>[363:\*](hkt15.htm#fr_577) Et quod ipsi quos ad
+<span id="fn_577"></span>[363:\*](hkt15.htm#fr_577.md) Et quod ipsi quos ad
 hoc elegerint, curiam sequantur, et se de negotiis in eadem curia
 intromittant, et *alii non*. Et videtur regi et ejus concilio, quod
 septies vigenti sufficere poterint, &c.--*Rolls of Parl.* 20. E. 1. vol.
 i. p. 84, No. 22.
 
-<span id="fn_578"></span>[363:†](hkt15.htm#fr_578) *Dugd*. Orig. Jurid.,
+<span id="fn_578"></span>[363:†](hkt15.htm#fr_578.md) *Dugd*. Orig. Jurid.,
 cap. xxxix. p. 102.
 
-<span id="fn_579"></span>[364:\*](hkt15.htm#fr_580) Ante, [p.
-118](hkt08.htm#page_118). Mace-bearers, bell-ringers, thief-takers,
+<span id="fn_579"></span>[364:\*](hkt15.htm#fr_580.md) Ante, [p.
+118](hkt08.htm#page_118.md). Mace-bearers, bell-ringers, thief-takers,
 gaolers, bailiffs, public executioners, and all persons who performed a
 specific task for another, were called servientes, serjens, or
 serjeants.--Ducange Gloss. *Pasquier's* Researches, liv. viii. cap. 19.
 
-<span id="fn_580"></span>[364:†](hkt15.htm#fr_581) *Will. Tyr.*, lib. i.
+<span id="fn_580"></span>[364:†](hkt15.htm#fr_581.md) *Will. Tyr.*, lib. i.
 p. 50, lib. xii. p. 814.
 
-<span id="fn_581"></span>[365:\*](hkt15.htm#fr_582) *Dugd*. Hist.
+<span id="fn_581"></span>[365:\*](hkt15.htm#fr_582.md) *Dugd*. Hist.
 Warwickshire, p. 704.
 
-<span id="fn_582"></span>[365:†](hkt15.htm#fr_583) Et tunc Magister
+<span id="fn_582"></span>[365:†](hkt15.htm#fr_583.md) Et tunc Magister
 Templi dedit sibi mantellum, et imposuit pileum capiti suo, et tunc
 fecit eum sedere ad terram, injungens sibi, &c.--*Acta contra
 Templarios*. *Concil. Mag. Brit.*, tom. ii. p. 380. See also p. 335.
 
-<span id="fn_583"></span>[365:‡](hkt15.htm#fr_584) It has been supposed
+<span id="fn_583"></span>[365:‡](hkt15.htm#fr_584.md) It has been supposed
 that the coif was first introduced by the clerical practitioners of the
 common law to hide the *tonsure* of those priests who practised in the
 Court of Common Pleas, notwithstanding the ecclesiastical prohibition.
@@ -1215,33 +1215,33 @@ imported into Europe by the Knights Templars, and became a
 distinguishing badge of their order. From the *freres serjens* of the
 Temple it passed to the *freres serjens* of the law.
 
-<span id="fn_584"></span>[366:\*](hkt15.htm#fr_585) Ex cod. MS. apud
+<span id="fn_584"></span>[366:\*](hkt15.htm#fr_585.md) Ex cod. MS. apud
 sub-thesaurarium Hosp. Medii Templi, f. 4. a. Dugd. Orig. Jurid. cap.
 43, 46.
 
-<span id="fn_585"></span>[367:\*](hkt15.htm#fr_586) MS. in Bib. Int.
+<span id="fn_585"></span>[367:\*](hkt15.htm#fr_586.md) MS. in Bib. Int.
 Temp. No. 17. fo. 408.
 
-<span id="fn_586"></span>[368:\*](hkt15.htm#fr_587) Burton's
+<span id="fn_586"></span>[368:\*](hkt15.htm#fr_587.md) Burton's
 Leicestershire, p. 235.
 
-<span id="fn_587"></span>[368:†](hkt15.htm#fr_588) After the courts of
+<span id="fn_587"></span>[368:†](hkt15.htm#fr_588.md) After the courts of
 King's Bench and Exchequer had by a fiction of law drawn to themselves a
 vast portion of the civil business originally transacted in the Common
 Pleas alone, the degree of serjeant-at-law, with its exclusive privilege
 of practising in the last-named court, was not sought after as before.
-The advocates or banisters of the [King's](errata.htm#14) Bench and
+The advocates or banisters of the [King's](errata.htm#14.md) Bench and
 Exchequer were, consequently, at different times, commanded by writ to
 take upon them the degree of the *coif*, and transfer their practice to
 the Common Pleas.
 
-<span id="fn_588"></span>[370:\*](hkt15.htm#fr_589) *Malcom*. Lond.
+<span id="fn_588"></span>[370:\*](hkt15.htm#fr_589.md) *Malcom*. Lond.
 Rediviv., vol. ii. p. 282.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](hkt16)
+[Next: Chapter XIV](hkt16.md)
 
 </div>

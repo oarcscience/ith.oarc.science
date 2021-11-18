@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei13)  [Next](jei15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei13)  [Next](jei15.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,7 +86,7 @@ meat, thousands of years old, yet juicy and without
 <span id="img_22200"></span>
 
 [![DISCOVERY OF THE MAMMOTH ENCASED IN ICE](tn/22200.jpg)  
-Click to enlarge](img/22200.jpg)  
+Click to enlarge](img/22200.jpg.md)  
 DISCOVERY OF THE MAMMOTH ENCASED IN ICE  
 
  
@@ -121,7 +121,7 @@ This same author goes on to say:
 
 "Every year in the season of thawing (in Northern Asiatic Russia) the
 vast rivers, which descend to the Frozen Ocean in the north of Siberia,
-sweep down with their waters [innumerable](errata.htm#60) portions of
+sweep down with their waters [innumerable](errata.htm#60.md) portions of
 the banks
 
 <span id="page_224">p. 224</span>
@@ -161,9 +161,9 @@ been exported to Europe for upwards of a hundred. But the supply from
 these strange mines remains undiminished.”
 
 All we have to say to those last statements is that the supply must be
-[replenished](errata.htm#61) right along or such a thing could not be so
+[replenished](errata.htm#61.md) right along or such a thing could not be so
 everlasting. And we think there can be no doubt that these supplies of
-remains have been and are being [replenished](errata.htm#62) right to
+remains have been and are being [replenished](errata.htm#62.md) right to
 the present moment.
 
 In his book, "In the Lena Delta", George W. Melville, the United States
@@ -316,7 +316,7 @@ was found not far off. The head was covered with a dry skin; one of the
 ears was furnished with a tuft of hairs; the balls of the eyes were
 still distinguishable; the brain still occupied the cranium but seemed
 dried up; the point of the lower lip had been gnawed and the upper lip
-had been [destroyed](errata.htm#63) so as to expose the teeth; the neck
+had been [destroyed](errata.htm#63.md) so as to expose the teeth; the neck
 was furnished with a long flowing mane; the skin, of a dark-grey
 
 <span id="page_231">p. 231</span>
@@ -362,7 +362,7 @@ The reader will notice that Mr. Grew refers to this mammoth as a
 has set all the scientists wrong on these questions regarding the polar
 regions. Instead of studying the actual facts as we have done in this
 book they come to the facts with certain fixed ideas in their heads, and
-they can only [understand](errata.htm#64) as many of the facts as fit
+they can only [understand](errata.htm#64.md) as many of the facts as fit
 into their ideas. Everything else they pass by as being of no
 importance. The reader will see that Mr. Grew has read in his previous
 studies that the mammoth was a primeval animal--which is true enough as
@@ -449,7 +449,7 @@ Apart from that there is no explanation of these remains at all. R.
 Lyddeker, a British biologist, writing in *Knowledge* for 1892 says:
 
 "Along the borders of the Arctic Ocean for hundreds of miles mammoth
-remains are met with in [incredible](errata.htm#65) quantities; and it
+remains are met with in [incredible](errata.htm#65.md) quantities; and it
 is still one of the puzzles of geology to account adequately and
 satisfactorily for the manner in which these creatures perished, and how
 their bodies were buried beneath the frozen soil before decomposition
@@ -567,7 +567,7 @@ that the freezing of the animal
 
 was instantaneous, and his own theory is that there was a sudden change
 in the climate which he puts at about the lateness of what he calls the
-"[Noachian](errata.htm#66) deluge". But that is very unscientific, as we
+"[Noachian](errata.htm#66.md) deluge". But that is very unscientific, as we
 know now that changes in climate are gradual, and in serious scientific
 discussions it is not usual to bring in Noah and the biblical account of
 the deluge. But in spite of the difficulties, Dr. Bowers makes the most
@@ -661,7 +661,7 @@ wrong. However, here is what Mr. Curwood has to say:
 
 ### THE FRESH MEAT
 
-"The flesh was of a deep red or [mahogany](errata.htm#67) color, and I
+"The flesh was of a deep red or [mahogany](errata.htm#67.md) color, and I
 dined on a steak an inch and a half thick. . . . The flavor of the meat
 was old not unpleasant but simply old and dry. That it had lost none of
 its life-sustaining elements was shown by the fact that the dogs throve
@@ -687,7 +687,7 @@ dramatist and poet, at the Hotel Carlton last evening.
 "D’Annunzio obtained the flesh from Russia where it was cut from the
 carcass of a mammoth which was dug out of the ice around the Liakoff
 Islands, north of Siberia, by Count Stembock Fermer. The count has
-presented the [pachyderm](errata.htm#68) to the Paris Museum of Natural
+presented the [pachyderm](errata.htm#68.md) to the Paris Museum of Natural
 History, where it is about to be exhibited.
 
 "The body embedded in the eternal ice was in perfect condition, at the
@@ -746,4 +746,4 @@ satisfactory manner.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Life of the Arctic](jei15)
+[Next: Chapter XII. The Life of the Arctic](jei15.md)

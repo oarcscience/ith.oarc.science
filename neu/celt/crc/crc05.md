@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc04)  [Next](crc06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc04)  [Next](crc06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -50,14 +50,14 @@ submerged. Cuchulainn lifted him up again.
 <span id="page_36">p. 36</span>
 
 'This time,' said Cuchulainn, 'will you yield and accept your
-life?' <span id="fr_36"></span>[1](#fn_36)
+life?' <span id="fr_36"></span>[1](#fn_36.md)
 
 'I will not suffer it,' said Fraech.
 
 Cuchulainn put hiss under it again, until Fraech was killed. He comes to
 land; his retinue carry his body to the camp. Ath Fraich, that was the
 name of that ford for ever. All the host lamented Fraech. They saw a
-troop of women in green tunics <span id="fr_37"></span>[2](#fn_37) on
+troop of women in green tunics <span id="fr_37"></span>[2](#fn_37.md) on
 the body of Fraech Mac Idaid; they drew him from them into the mound.
 Sid Fraich was the name of that mound afterwards.
 
@@ -79,10 +79,10 @@ chariots thereat.
 
 ### Footnotes
 
-<span id="fn_36"></span>[36:1](crc05.htm#fr_36) Lit. 'will you
+<span id="fn_36"></span>[36:1](crc05.htm#fr_36.md) Lit. 'will you
 acknowledge your saving?'
 
-<span id="fn_37"></span>[36:2](crc05.htm#fr_37) Fraech was descended
+<span id="fn_37"></span>[36:2](crc05.htm#fr_37.md) Fraech was descended
 from the people of the Sid, his mother Bebind being a fairy woman. Her
 sister was Boinn (the river Boyne).
 
@@ -90,6 +90,6 @@ sister was Boinn (the river Boyne).
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Orlam](crc06)
+[Next: The Death of Orlam](crc06.md)
 
 </div>

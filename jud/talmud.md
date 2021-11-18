@@ -13,20 +13,20 @@ categories: ' <A HREF="index">Judaism</A>&nbsp; <BR>'
 
 ------------------------------------------------------------------------
 
-[Book 1: Tract Sabbath](#t01)  
-[Book 2: Tracts Erubin, Shekalim, Rosh Hashana](#t02)  
-[Book 3: Tracts Pesachim, Yomah and Hagiga](#t03)  
+[Book 1: Tract Sabbath](#t01.md)  
+[Book 2: Tracts Erubin, Shekalim, Rosh Hashana](#t02.md)  
+[Book 3: Tracts Pesachim, Yomah and Hagiga](#t03.md)  
 [Book 4: Tracts Betzh, Succah, Moed Katan, Taanith, Megilla and Ebel
-Rabbathi or Semahoth](#t04)  
+Rabbathi or Semahoth](#t04.md)  
 [Book 5: Tracts Aboth, Derech Eretz-Rabba, Derech Eretz-Zuta, and Baba
-Kama (First Gate)](#t05)  
+Kama (First Gate)](#t05.md)  
 [Book 6: Tract Baba Kama (First Gate), Part II and Tract Baba Metzia
-(Middle Gate)](#t06)  
-[Book 7: Tract Baba Bathra (Last Gate)](#t07)  
-[Book 8: Tract Sanhedrin: Section Jurisprudence (Damages)](#t08)  
+(Middle Gate)](#t06.md)  
+[Book 7: Tract Baba Bathra (Last Gate)](#t07.md)  
+[Book 8: Tract Sanhedrin: Section Jurisprudence (Damages)](#t08.md)  
 [Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda Zara, and
-Horioth](#t09)  
-[Book 10: History of the Talmud](#t10)  
+Horioth](#t09.md)  
+[Book 10: History of the Talmud](#t10.md)  
 
 ------------------------------------------------------------------------
 
@@ -79,9 +79,9 @@ edition. This confusion will be evident if you shop the used book market
 for individual books of this set (which are fairly abundant at
 reasonable prices).
 
-<span id="t01"></span> [<img src="../img/buycd.jpg" height="20" />](#)
+<span id="t01"></span> [<img src="../img/buycd.jpg" height="20" />](#.md)
 <span class="c_e"> Book 1: <span class="c_t">[Tract
-Sabbath](t01/index)</span>   <span class="c_b">Tract Sabbath discusses
+Sabbath](t01/index.md)</span>   <span class="c_b">Tract Sabbath discusses
 what can and cannot be done on the Jewish Holy day.</span> This tract
 has a wealth of information on everyday Jewish life in late Classical
 times, including, for some reason, a great number of medical recipes.
@@ -97,9 +97,9 @@ tract. </span>
 
 <span id="t02"></span>
 
-[<img src="../img/buycd.jpg" height="20" />](#) <span class="c_e">Book
+[<img src="../img/buycd.jpg" height="20" />](#.md) <span class="c_e">Book
 2: <span class="c_t">[Tracts Erubin, Shekalim, Rosh
-Hashana](t02/index)</span>   <span class="c_b">Tracts from section Moed
+Hashana](t02/index.md)</span>   <span class="c_b">Tracts from section Moed
 (Festivals).</span> Tract Erubin deals with regulations concerning
 travel on the Sabbath, and the proper construction of 'Erub',
 propitiatory offerings for transgressions of these rules, usually, but
@@ -109,9 +109,9 @@ lunar observations. </span>
 
 <span id="t03"></span>
 
-[<img src="../img/buycd.jpg" height="20" />](#) <span class="c_e">Book
+[<img src="../img/buycd.jpg" height="20" />](#.md) <span class="c_e">Book
 3: <span class="c_t">[Tracts Pesachim, Yomah and
-Hagiga](t03/index)</span>   <span class="c_b">Continuing with tracts
+Hagiga](t03/index.md)</span>   <span class="c_b">Continuing with tracts
 from section Moed (Festivals).</span> These are primarily discussions of
 the rituals to be performed on important holy days: principally Passover
 and the Day of Atonement. The short third tract, Hagiga, discusses the
@@ -124,9 +124,9 @@ and characteristics of the seven heavens. </span>
 
 <span id="t04"></span>
 
-[<img src="../img/buycd.jpg" height="20" />](#) <span class="c_e">Book
+[<img src="../img/buycd.jpg" height="20" />](#.md) <span class="c_e">Book
 4: <span class="c_t">[Tracts Betzh, Succah, Moed Katan, Taanith, Megilla
-and Ebel Rabbathi or Semahoth](t04/index)</span>   <span
+and Ebel Rabbathi or Semahoth](t04/index.md)</span>   <span
 class="c_b">Completing the Festivals portion of Rodkinson's Talmud
 translation.</span> Tract Betzah details regulations about cooking,
 fishing, hunting and other activities on feast days. Tract Succah
@@ -141,13 +141,13 @@ about mourning and other funerary activities. </span>
 
 <span id="t05"></span>
 
-[<img src="../img/buycd.jpg" height="20" />](#) <span class="c_e">Book
+[<img src="../img/buycd.jpg" height="20" />](#.md) <span class="c_e">Book
 5: <span class="c_t">[Tracts Aboth, Derech Eretz-Rabba, Derech
-Eretz-Zuta, and Baba Kama (First Gate)](t05/index)</span>   <span
+Eretz-Zuta, and Baba Kama (First Gate)](t05/index.md)</span>   <span
 class="c_b">This book starts out with three tracts on ethics</span>,
 including the lucid and moving Pirqe Aboth (Sayings of the Fathers),
 (also [available at Intangible Textual Heritage in a translation by
-Taylor](sjf/index)). This edition of Aboth comes with extensive
+Taylor](sjf/index).md). This edition of Aboth comes with extensive
 commentary. The Baba Kama is the first section of a three-part opening
 arc of the Jurisprudence section. To the modern reader it is of interest
 because of the unintentional and (sometimes pungent) atmospheric details
@@ -159,9 +159,9 @@ standard of common-sense justice and human rights. </span>
 
 <span id="t06"></span>
 
-[<img src="../img/buycd.jpg" height="20" />](#) <span class="c_e">Book
+[<img src="../img/buycd.jpg" height="20" />](#.md) <span class="c_e">Book
 6: <span class="c_t">[Tract Baba Kama (First Gate), Part II and Tract
-Baba Metzia (Middle Gate)](t06/index)</span>   <span class="c_b">The
+Baba Metzia (Middle Gate)](t06/index.md)</span>   <span class="c_b">The
 conclusion of Baba Kama, the First Gate, and Baba Metzia, the Middle
 Gate.</span> The second half of Baba Kama continues with cases involving
 stolen items. Baba Metzia continues with civil law, particularly cases
@@ -170,18 +170,18 @@ estate, loans, titles, what constitutes usury and fraud, and labor law.
 Many of the cases in Baba Metzia are extremely convoluted, more so than
 usual. There are a few scattered legends about the life and death of the
 principal authors of the Talmud, and some notable passages, mostly in
-[Chapter IV](t06/me105). </span>
+[Chapter IV](t06/me105.md). </span>
 
 <span id="t07"></span>
 
-[<img src="../img/buycd.jpg" height="20" />](#) <span class="c_e">Book
-7: <span class="c_t">[Tract Baba Bathra (Last Gate)](t07/index)</span>  
+[<img src="../img/buycd.jpg" height="20" />](#.md) <span class="c_e">Book
+7: <span class="c_t">[Tract Baba Bathra (Last Gate)](t07/index.md)</span>  
 <span class="c_b">This, the third part of the 'Gate' sequence of tracts,
 deals with issues of civil law regarding property</span>, including real
 estate, moveable possessions, and inheritance, in the usual great
 detail. At times the discussion becomes so hypothetical that Rodkinson,
 thankfully, skips ahead a bit. Sandwiched in this *very* dry volume is
-[one wild section of Haggada](t07/t0709.htm#page_203) (at the end of
+[one wild section of Haggada](t07/t0709.htm#page_203.md) (at the end of
 Chapter V) which consists of some very tall tales about fish, alligators
 and nautical going-ons. Also, notably, this tract includes what has to
 be one of the first attempts to discuss where transgender people fit
@@ -189,9 +189,9 @@ into the legal framework. </span>
 
 <span id="t08"></span>
 
-[<img src="../img/buycd.jpg" height="20" />](#) <span class="c_e">Book
+[<img src="../img/buycd.jpg" height="20" />](#.md) <span class="c_e">Book
 8: <span class="c_t">[Tract Sanhedrin: Section Jurisprudence
-(Damages)](t08/index)</span>   <span class="c_b">The subject matter of
+(Damages)](t08/index.md)</span>   <span class="c_b">The subject matter of
 Tract Sanhedrin is principally crime and punishment.</span> One of the
 most notable discussions in this book is the debate about the 'stubborn
 and rebellious son' (Chapter VIII). The rabbis openly express scepticism
@@ -205,9 +205,9 @@ Messiah is due to arrive. </span>
 
 <span id="t09"></span>
 
-[<img src="../img/buycd.jpg" height="20" />](#) <span class="c_e">Book
+[<img src="../img/buycd.jpg" height="20" />](#.md) <span class="c_e">Book
 9: <span class="c_t">[Tracts Maccoth, Shebuoth, Eduyoth, Abuda Zara, and
-Horioth](t09/index)</span>   <span class="c_b">This is the final book of
+Horioth](t09/index.md)</span>   <span class="c_b">This is the final book of
 the Rodkinson translation of the Talmud; it contains the remaining
 portions of the Jurisprudence section.</span> Tract Maccoth deals with
 corporal punishment. Tract Shebuoth discusses oaths: what constitutes an
@@ -222,8 +222,8 @@ very technical issues, including the hierarchy of dogs, cats and mice.
 
 <span id="t10"></span>
 
-[<img src="../img/buycd.jpg" height="20" />](#) <span class="c_e">Book
-10: <span class="c_t">[History of the Talmud](t10/index)</span>   <span
+[<img src="../img/buycd.jpg" height="20" />](#.md) <span class="c_e">Book
+10: <span class="c_t">[History of the Talmud](t10/index.md)</span>   <span
 class="c_b">This is the introduction to Rodkinsons' Talmud
 translation.</span> A history of the Talmud, starting with its five
 hundred years of composition from the first to fifth centuries C.E., and

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu09)  [Next](cwiu11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu09)  [Next](cwiu11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ pious Father Malebranche, having grasped the essential infinity of
 geometrical space, is obliged to connect it with God. The space of
 geometers or, as Malebranche calls it, the "intelligible extension," is,
 according to Christ Himself, who appears as one of the interlocutors of
-the *Christian Meditations* of Malebranche,[1](cwiu16.htm#an_7_1)
+the *Christian Meditations* of Malebranche,[1](cwiu16.htm#an_7_1.md)
 
 <div class="iq">
 
@@ -68,7 +68,7 @@ Malebranche, of course, does not want to put matter into God and to
 spatialize God in the manner in which Henry More or Spinoza did it. He
 distinguishes therefore the *idea* of space, or "intelligible
 extension," which he places in God, from the gross material extension of
-the world created by God.[2](cwiu16.htm#an_7_2)
+the world created by God.[2](cwiu16.htm#an_7_2.md)
 
 <div class="iq">
 
@@ -78,7 +78,7 @@ intelligible, and the other material.
 </div>
 
 The intelligible extension is "eternal, necessary, infinite," whereas
-the[3](cwiu16.htm#an_7_3)
+the[3](cwiu16.htm#an_7_3.md)
 
 <div class="iq">
 
@@ -104,7 +104,7 @@ Spirit by an entirely free operation.
 
 It is just the confusion between the intelligible extension and the
 created one that induces some people to assert the eternity of the world
-and to deny its creation by God. For,[4](cwiu16.htm#an_7_4)
+and to deny its creation by God. For,[4](cwiu16.htm#an_7_4.md)
 
 <div class="iq">
 
@@ -121,7 +121,7 @@ else but space or extension, they regard matter as an Eternal being.
 This is, as a matter of fact, a rather natural error as Malebranche
 himself does not fail to point out to his Divine Master; he recognizes,
 of course, that his doubts are removed, and that he now sees the
-distinction that formerly escaped him. Still[5](cwiu16.htm#an_7_5)
+distinction that formerly escaped him. Still[5](cwiu16.htm#an_7_5.md)
 
 <div class="iq">
 
@@ -146,7 +146,7 @@ By no means. In spite of the Cartesian axiom hinted at by Malebranche
 are entitled to assert of the thing what we clearly perceive to belong
 to its idea, the reasoning attributing infinity and eternity to material
 extension was illegitimate; thus the Divine Master
-replies:[6](cwiu16.htm#an_7_6)
+replies:[6](cwiu16.htm#an_7_6.md)
 
 <div class="iq">
 
@@ -186,7 +186,7 @@ material universe. Thirty years later, Dortous de Mairan made
 fundamentally the same reproach, though he formulated it in a somewhat
 different and much nastier manner: according to him Malebranche's
 "intelligible extension" was indistinguishable from that of Spinoza. . .
-.[7](cwiu16.htm#an_7_7)
+.[7](cwiu16.htm#an_7_7.md)
 
  
 
@@ -197,7 +197,7 @@ overwhelming importance.
 
 It may seem strange, at first glance, to link together Henry More and
 Isaac Newton. . . . And yet, this link is perfectly
-established.[8](cwiu16.htm#an_7_8) Moreover, as we shall see, More's
+established.[8](cwiu16.htm#an_7_8.md) Moreover, as we shall see, More's
 explicit teaching will throw some light on the implicit premises of
 Newtonian thinking, a light all the more necessary as Isaac Newton, in
 contradistinction not only to Henry More but also to René Descartes, is
@@ -229,7 +229,7 @@ character of these and connected notions is branded by Newton as being
 
 Thus in the famous *scholium* which follows the *Definitions* that are
 placed at the very beginning of the *Principia*, Newton
-writes:[9](cwiu16.htm#an_7_9)
+writes:[9](cwiu16.htm#an_7_9.md)
 
 <div class="iq">
 
@@ -254,10 +254,10 @@ corresponding to them—are thus, in a manner of which we have already
 seen some examples, *opposed* to the merely common-sense time and space.
 As a matter of fact, they could just as well be called "intelligible"
 time and space in contradistinction to "sensible." Indeed, according to
-the "empiricist" Newton,[10](cwiu16.htm#an_7_10) "in philosophical
+the "empiricist" Newton,[10](cwiu16.htm#an_7_10.md) "in philosophical
 disquisitions we ought to abstract from our senses and consider things
 themselves, distinct from what are only sensible measures of them."
-Thus:[11](cwiu16.htm#an_7_11)
+Thus:[11](cwiu16.htm#an_7_11.md)
 
 <div class="iq">
 
@@ -272,7 +272,7 @@ distinguished from what are only sensible measures thereof.
 
 Time is not only not linked with motion—like Henry More before him,
 Newton takes up against Aristotle the Neoplatonic position—it is a
-reality in its own right:[12](cwiu16.htm#an_7_12)
+reality in its own right:[12](cwiu16.htm#an_7_12.md)
 
 <div class="iq">
 
@@ -295,7 +295,7 @@ subjective and distinct from the duration which he, Descartes,
 identifies with the amount of reality of the created being. Time and
 duration are only two names for the same objective and absolute entity.
 
-But, of course,[13](cwiu16.htm#an_7_13)
+But, of course,[13](cwiu16.htm#an_7_13.md)
 
 <div class="iq">
 
@@ -306,7 +306,7 @@ day, a month, a year.
 
 </div>
 
-It is just the same concerning space:[14](cwiu16.htm#an_7_14)
+It is just the same concerning space:[14](cwiu16.htm#an_7_14.md)
 
 <div class="iq">
 
@@ -318,7 +318,7 @@ remains always similar and immovable,
 that is, space is *not* Cartesian extension which moves around, and
 which by Descartes is identified with, bodies. This is, at most,
 *relative* space, which is mistaken for the absolute space that subtends
-it by both Cartesians and Aristotelians.[15](cwiu16.htm#an_7_15)
+it by both Cartesians and Aristotelians.[15](cwiu16.htm#an_7_15.md)
 
 <div class="iq">
 
@@ -333,7 +333,7 @@ same,
 </div>
 
 because relative space, which is, so to speak, attached to the body,
-moves with that body through absolute space[16](cwiu16.htm#an_7_16)
+moves with that body through absolute space[16](cwiu16.htm#an_7_16.md)
 
 <div class="iq">
 
@@ -357,7 +357,7 @@ relative spaces that are and move in it, so we have to make a
 distinction between absolute and relative *places* which bodies occupy
 in space. Thus, elaborating More's analysis of this concept and his
 criticism of the traditional as well as the Cartesian conceptions,
-Newton states:[17](cwiu16.htm#an_7_17)
+Newton states:[17](cwiu16.htm#an_7_17.md)
 
 <div class="iq">
 
@@ -381,7 +381,7 @@ bodies are in their turn. And as motion is a process in which bodies
 change their places, not taking them along with them but relinquishing
 them for others, the distinction between absolute and relative spaces
 implies necessarily that of absolute and relative motion, and *vice
-versa*, is implied by it:[18](cwiu16.htm#an_7_18)
+versa*, is implied by it:[18](cwiu16.htm#an_7_18.md)
 
 <span id="page_164">p. 164</span>
 
@@ -419,7 +419,7 @@ velocity of 9 of those parts.
 
 As for the inner structure of space, it is characterized by Newton in
 terms that strongly remind us of the analysis made by Henry
-More:[19](cwiu16.htm#an_7_19)
+More:[19](cwiu16.htm#an_7_19.md)
 
 <span id="page_165">p. 165</span>
 
@@ -439,7 +439,7 @@ absolute motions.
 </div>
 
 Newton, it is true, does not tell us that space is "indivisible" or
-"indiscerpible";[20](cwiu16.htm#an_7_20) yet it is obvious that to
+"indiscerpible";[20](cwiu16.htm#an_7_20.md) yet it is obvious that to
 "divide" Newton's space, that is, actually and really to separate its
 "parts," is just as impossible as it is impossible to do so with More's,
 an impossibility that does not preclude the making of "abstract" or
@@ -450,7 +450,7 @@ Newton, the infinity and the continuity of absolute space imply the one
 as well as the other.
 
 Absolute motion is motion in respect to absolute space, and all relative
-motions imply absolute ones:[21](cwiu16.htm#an_7_21)
+motions imply absolute ones:[21](cwiu16.htm#an_7_21.md)
 
 <div class="iq">
 
@@ -494,7 +494,7 @@ of uniform, rectilinear, *inertial* motion) absolutely indistinguishable
 from the latter.
 
 It is only by their causes and effects that absolute and relative
-motions can be distinguished and determined:[22](cwiu16.htm#an_7_22)
+motions can be distinguished and determined:[22](cwiu16.htm#an_7_22.md)
 
 <div class="iq">
 
@@ -530,7 +530,7 @@ acting upon the bodies is not based upon the perception of the change of
 the mutual relations of the bodies in question that we are actually able
 to distinguish absolute motions from relative ones, or even from rest.
 Rectilinear motion, as we know, does not offer us this possibility. But
-circular or rotational motion does.[23](cwiu16.htm#an_7_23)
+circular or rotational motion does.[23](cwiu16.htm#an_7_23.md)
 
 <div class="iq">
 
@@ -554,7 +554,7 @@ finds its limit—and its refutation—in the case of circular motion and,
 at the same time, the Cartesian endeavor to extend this conception to
 celestial motions appears as it really is: a clumsy attempt to disregard
 the facts, a gross misinterpretation or misrepresentation of the
-structure of the universe.[24](cwiu16.htm#an_7_24)
+structure of the universe.[24](cwiu16.htm#an_7_24.md)
 
 <div class="iq">
 
@@ -591,7 +591,7 @@ motion "relative" to absolute space, and, of course, the very idea of
 absolute space with its physico-metaphysical implications, met, as we
 know, with rather strong opposition. For two hundred years, from the
 times of Huygens and Leibniz to those of Mach and Duhem, it was
-subjected to searching and vigorous criticism.[24a](cwiu16.htm#an_7_24a)
+subjected to searching and vigorous criticism.[24a](cwiu16.htm#an_7_24a.md)
 It has, in my opinion, withstood victoriously all the assaults, which
 is, by the way, not so very surprising: it is indeed the necessary and
 inevitable consequence of the "bursting of the sphere," the "breaking of
@@ -619,7 +619,7 @@ rest; though he was wrong, of course, in his pious hope of being able,
 
 finally, to achieve the determination of all "true" motions. The
 difficulties that stood in his path were not merely—as he believed them
-to be—very great. They were insurmountable.[25](cwiu16.htm#an_7_25)
+to be—very great. They were insurmountable.[25](cwiu16.htm#an_7_25.md)
 
 <div class="iq">
 
@@ -679,7 +679,7 @@ he, too, believes in an ether that fills at least the space of our
 "world" (solar system), his ether is only a very thin and very elastic
 substance, a kind of exceedingly rare gas, and it does not completely
 fill the world space. It does not extend itself to infinity as is
-sufficiently clear from the motion of comets:[26](cwiu16.htm#an_7_26)
+sufficiently clear from the motion of comets:[26](cwiu16.htm#an_7_26.md)
 
 <div class="iq">
 
@@ -708,7 +708,7 @@ indeed, implies vacuum. In a Cartesian world, that is, in a world
 constituted by a continuously-spread uniform matter, elasticity would be
 impossible. Nay, if all spaces were equally full (as they must be
 according to Descartes) even motion would not be
-possible.[27](cwiu16.htm#an_7_27)
+possible.[27](cwiu16.htm#an_7_27.md)
 
 <div class="iq">
 
@@ -727,7 +727,7 @@ diminution to infinity?
 Matter, according to Newton, who shares the atomic conceptions of his
 contemporaries (and even improves upon them in a very interesting
 manner), has an essentially granular structure. It is composed of small,
-solid, particles and therefore[28](cwiu16.htm#an_7_28)
+solid, particles and therefore[28](cwiu16.htm#an_7_28.md)
 
 <div class="iq">
 
@@ -741,7 +741,7 @@ granted.
 
 As for matter itself, the essential properties that Newton ascribes to
 it are nearly the same as those that have been listed by Henry
-More,[28](cwiu16.htm#an_7_28) by the old atomists and the modern
+More,[28](cwiu16.htm#an_7_28.md) by the old atomists and the modern
 partisans of corpuscular philosophy: extension, hardness,
 impenetrability, mobility, to which is added—a most important
 addition—inertia, in the precise, new meaning of this word. In a curious
@@ -750,7 +750,7 @@ Newton wants to admit as *essential* properties of matter only those
 that are (a) empirically given to us, and (b) can be neither increased
 nor diminished. Thus he writes in the third of his *Rules of Reasoning
 in Philosophy*, by which he replaced the third fundamental *Hypothesis*
-of the first edition of the *Principia*:[30](cwiu16.htm#an_7_30)
+of the first edition of the *Principia*:[30](cwiu16.htm#an_7_30.md)
 
 <div class="iq">
 
@@ -839,7 +839,7 @@ inertia. But this is by no means the case. The *weight* of a body
 it: but the attractive force of the earth—or any other body—is constant,
 and, just as in the case of inertia, proportional to its mass, and it is
 as such that it appears in the famous inverse square formula of
-universal gravitation. This is so because[31](cwiu16.htm#an_7_31)
+universal gravitation. This is so because[31](cwiu16.htm#an_7_31.md)
 
 <div class="iq">
 
@@ -881,7 +881,7 @@ conception of the way in which certain effects are produced in order to
 be able to study the phenomena and to treat them mathematically. Galileo
 was not obliged to develop a theory of gravity—he even claimed his right
 to ignore completely its nature—in order to establish a mathematical
-dynamics and to determine the laws of fall.[32](cwiu16.htm#an_7_32)
+dynamics and to determine the laws of fall.[32](cwiu16.htm#an_7_32.md)
 
 <span id="page_177">p. 177</span>
 
@@ -902,7 +902,7 @@ not *Principia Philosophiae*, that is, *Principles of Philosophy* (like
 Descartes’), but *Philosophiae naturalis principia mathematica*, that
 is, <span class="smallcaps">Mathematical</span> *Principles of* <span
 class="smallcaps">Natural</span> *Philosophy*. He warns us
-that:[33](cwiu16.htm#an_7_33)
+that:[33](cwiu16.htm#an_7_33.md)
 
 <div class="iq">
 
@@ -939,7 +939,7 @@ the warning just quoted and interpreted Newton in the way that became
 common in the eighteenth century, namely as asserting the *physical*
 reality of attraction and of attractive force as inherent to matter,
 Newton is somewhat less reserved. He first tells Bentley (in his second
-letter):[34](cwiu16.htm#an_7_34)
+letter):[34](cwiu16.htm#an_7_34.md)
 
 <div class="iq">
 
@@ -952,7 +952,7 @@ it.
 
 In the third one, he practically comes into the open. Though he does not
 tell Bentley what he, Newton, believes the force of attraction to be *in
-rerum*, he tells him that:[35](cwiu16.htm#an_7_35)
+rerum*, he tells him that:[35](cwiu16.htm#an_7_35.md)
 
 <div class="iq">
 
@@ -1041,7 +1041,7 @@ Newtonian universal attraction—but he is also somehow elated and
 ravished by the idea that this our world is chiefly composed of void
 spaces, and he indulges in calculations that show that the amount of
 matter in the universe is so small as practically not to be worth
-speaking of:[36](cwiu16.htm#an_7_36)
+speaking of:[36](cwiu16.htm#an_7_36.md)
 
 <div class="iq">
 
@@ -1096,7 +1096,7 @@ proportion may hold through the whole extent of the universe.
 </div>
 
 It is clear that with this immense void at their
-disposal:[37](cwiu16.htm#an_7_37)
+disposal:[37](cwiu16.htm#an_7_37.md)
 
 <div class="iq">
 
@@ -1118,7 +1118,7 @@ other but are bound together by mutual gravitation.
 
 Now this is already a refutation of atheism—Bentley, as we have seen,
 has learnt from Newton that gravitation cannot be attributed to
-matter—as it is clear[38](cwiu16.htm#an_7_38)
+matter—as it is clear[38](cwiu16.htm#an_7_38.md)
 
 <div class="iq">
 
@@ -1128,7 +1128,7 @@ impressed and infused into it by a divine power,
 
 </div>
 
-just because action at a distance[39](cwiu16.htm#an_7_39)
+just because action at a distance[39](cwiu16.htm#an_7_39.md)
 
 <div class="iq">
 
@@ -1161,7 +1161,7 @@ Now, if we admit, as we must do, that this mutual
 
 attraction cannot be explained by any "material and mechanical agent,"
 the indubitable reality of this power of mutual
-gravitation.[40](cwiu16.htm#an_7_40)
+gravitation.[40](cwiu16.htm#an_7_40.md)
 
 <div class="iq">
 
@@ -1193,7 +1193,7 @@ even in the case of an infinite world the mere and pure action of
 gravity could not explain its structure, and that choice and purpose
 were clearly apparent in the actual distribution of the heavenly bodies
 in space, as well as in the mutual adjustment of their masses,
-velocities and so on:[41](cwiu16.htm#an_7_41)
+velocities and so on:[41](cwiu16.htm#an_7_41.md)
 
 <span id="page_185">p. 185</span>
 
@@ -1263,7 +1263,7 @@ mechanics and geometry.
 </div>
 
 Having learnt his lesson, Bentley writes
-therefore:[42](cwiu16.htm#an_7_42)
+therefore:[42](cwiu16.htm#an_7_42.md)
 
 <div class="iq">
 
@@ -1318,7 +1318,7 @@ gravitation." For,
 in that case, only a divine power can compel them to remain in their
 assigned places. But what if the world were not finite, but infinite?
 According to Bentley it does not make a very great
-difference:[43](cwiu16.htm#an_7_43)
+difference:[43](cwiu16.htm#an_7_43.md)
 
 <div class="iq">
 
@@ -1345,7 +1345,7 @@ replies Bentley, embracing the pattern of reasoning based on the
 principle of plenitude, "We must not confine and determine the purposes
 in creating all mundane bodies merely to human ends and uses." For,
 though, as it is evident, they are not created for our sakes, they are
-certainly not made for their own:[44](cwiu16.htm#an_7_44)
+certainly not made for their own:[44](cwiu16.htm#an_7_44.md)
 
 <div class="iq">
 
@@ -1367,7 +1367,7 @@ life and understanding? If any man will indulge himself in this
 speculation, he need not quarrel with revealed religion upon such
 account. The holy Scriptures do not forbid him to suppose as great a
 multitude of systems, and as much inhabited as he pleases. . . . God
-Almighty, by the [inexhausted](errata.htm#2) fecundity of his creative
+Almighty, by the [inexhausted](errata.htm#2.md) fecundity of his creative
 power, may have made innumerable orders and classes of rational minds;
 some in their natural perfections higher than human souls, others
 inferior.
@@ -1380,8 +1380,8 @@ Almighty and Omnipresent God, such is, finally, the universe of the very
 orthodox Richard Bentley, future Bishop of Worcester and Master of
 Trinity College. Such is, doubtlessly too, the universe of the very
 heretical Lucasian Professor of Mathematics, Isaac Newton, Fellow of the
-Royal Society and of the same Trinity College[41](cwiu16.htm#an_7_41)
+Royal Society and of the same Trinity College[41](cwiu16.htm#an_7_41.md)
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Divinization of Space](cwiu11)
+[Next: VIII. The Divinization of Space](cwiu11.md)

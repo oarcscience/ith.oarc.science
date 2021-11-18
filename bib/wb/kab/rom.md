@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](act)  [Next](co1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](act)  [Next](co1.md) 
 
 ------------------------------------------------------------------------
 
@@ -1596,4 +1596,4 @@ tmusni d leɛqel, s Sidna Ɛisa Lmasiḥ si lǧil ɣer lǧil ! Amin !
 
 ------------------------------------------------------------------------
 
-[Next: 1 Corinthians](co1)
+[Next: 1 Corinthians](co1.md)

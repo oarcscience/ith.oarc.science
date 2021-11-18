@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai01)  [Next](jai03) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai01)  [Next](jai03.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ shaped by a totally different social experience.
 
 ------------------------------------------------------------------------
 
-[Next: Strangeness and Charm](jai03)
+[Next: Strangeness and Charm](jai03.md)

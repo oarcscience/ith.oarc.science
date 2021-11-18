@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim88)  [Next](sim90) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim88)  [Next](sim90.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ pain.
 
 ------------------------------------------------------------------------
 
-[Next: The Twelve Stars](sim90)
+[Next: The Twelve Stars](sim90.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate26)  [Next](gate28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate26)  [Next](gate28.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ they hear it closing upon them."
  
 
 <span id="img_28000"></span> [![](tn/generic.jpg)  
-Click to view](img/28000.jpg)  
+Click to view](img/28000.jpg.md)  
 The Gate of the Serpent Am-netu-f.
 
  
@@ -57,7 +57,7 @@ and his
  
 
 <span id="img_28200"></span> [![](tn/generic.jpg)  
-Click to view](img/28200.jpg)  
+Click to view](img/28200.jpg.md)  
 The Boat of Af-Ra in the Eleventh Division of the Tuat.
 
  
@@ -83,7 +83,7 @@ a hook at the top. In an earlier picture we have
  
 
 <span id="img_28300"></span> [![](tn/generic.jpg)  
-Click to view](img/28300.jpg)  
+Click to view](img/28300.jpg.md)  
 The Slaughterers of Apep.
 
  
@@ -108,7 +108,7 @@ right hand, and a sceptre in his left.
 <span id="page_285">p. 285</span>
 
 Of the gods of the Tuat who tow the boat of Ra it is said <span
-id="fr_27"></span>[1](#fn_26):--
+id="fr_27"></span>[1](#fn_26.md):--
 
 "The gods of the Tuat say, Behold the coming forth \[of Ra\] from Ament,
 and \[his\] taking up \[his\] place in the two divisions of Nu, and
@@ -161,7 +161,7 @@ TUATI. They open its cavern,
  
 
 <span id="img_28700"></span> [![](tn/generic.jpg)  
-Click to view](img/28700.jpg)  
+Click to view](img/28700.jpg.md)  
 Apep fettered by the chains of Seb and the Children of Horus.
 
  
@@ -187,7 +187,7 @@ who come forth."
  
 
 <span id="img_28800"></span> [![](tn/generic.jpg)  
-Click to view](img/28800.jpg)  
+Click to view](img/28800.jpg.md)  
 (*Left*) The Apes who praise Ra.     (*Right*)
 Amenti.     Herit.     Sebekhti.
 
@@ -213,7 +213,7 @@ left.
  
 
 <span id="img_29000"></span> [![](tn/generic.jpg)  
-Click to view](img/29000.jpg)  
+Click to view](img/29000.jpg.md)  
 The gods who bring Disks and Stars for Ra.
 
  
@@ -232,7 +232,7 @@ Of the four gods bearing stars it is said:--
  
 
 <span id="img_29100"></span> [![](tn/generic.jpg)  
-Click to view](img/29100.jpg)  
+Click to view](img/29100.jpg.md)  
 The gods who prepare the Offerings and Shrine of Ra.
 
  
@@ -292,7 +292,7 @@ of the South in chief."
  
 
 <span id="img_29300"></span> [![](tn/generic.jpg)  
-Click to view](img/29300.jpg)  
+Click to view](img/29300.jpg.md)  
 The goddesses of the Aterti.
 
  
@@ -323,7 +323,7 @@ gods who praise Ra.
  
 
 <span id="img_29600"></span> [![](tn/generic.jpg)  
-Click to view](img/29600.jpg)  
+Click to view](img/29600.jpg.md)  
 (Left) The Stablishers of the White Crown.     (Right) The Four Weepers.
 
  
@@ -352,7 +352,7 @@ they make his births to come
  
 
 <span id="img_29700"></span> [![](tn/generic.jpg)  
-Click to view](img/29700.jpg)  
+Click to view](img/29700.jpg.md)  
 (Left) The Stablishers of the Red Crown.     (Right) The gods who give
 names.
 
@@ -370,7 +370,7 @@ they magnify the names of all
 
 his forms; their souls go forward in his following, but their bodies
 remain in their places (or, seats)."\] <span
-id="fr_28"></span>[1](#fn_27)
+id="fr_28"></span>[1](#fn_27.md)
 
 Of the four goddesses wearing the White Crown it is said:--
 
@@ -379,7 +379,7 @@ Of the four goddesses wearing the White Crown it is said:--
  
 
 <span id="img_29800"></span> [![](tn/generic.jpg)  
-Click to view](img/29800.jpg)  
+Click to view](img/29800.jpg.md)  
 Goddesses who stablish the White and Red Crowns.
 
  
@@ -401,7 +401,7 @@ follow in the train of this great god."
  
 
 <span id="img_29900"></span> [![](tn/generic.jpg)  
-Click to view](img/29900.jpg)  
+Click to view](img/29900.jpg.md)  
 (*Left*) Goddesses who drive away Set. (*Center*) Gods who adore and
 praise Ra. (*far Right*) Mati.
 
@@ -421,25 +421,25 @@ Of the four gods with their backs bowed it is said:--
 "Those who are in this picture make adoration to Ra and sing praises
 unto him, and in their place in the Tuat they hymn those gods who are in
 the Tuat, and who keep guard over the Hidden Door. \[They remain in
-their places."\] <span id="fr_29"></span>[1](#fn_28)
+their places."\] <span id="fr_29"></span>[1](#fn_28.md)
 
 \["The warder of the door of this Circle remaineth in his
-place."\] <span id="fr_30"></span>[1](#fn_28)
+place."\] <span id="fr_30"></span>[1](#fn_28.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_26"></span>[285:1](gate27.htm#fr_27) Supplied from
+<span id="fn_26"></span>[285:1](gate27.htm#fr_27.md) Supplied from
 Champollion, *Monuments*, tom. ii., p. 537.
 
-<span id="fn_27"></span>[298:1](gate27.htm#fr_28) Supplied from the tomb
+<span id="fn_27"></span>[298:1](gate27.htm#fr_28.md) Supplied from the tomb
 of Rameses VI.
 
-<span id="fn_28"></span>[300:1](gate27.htm#fr_30) Supplied from the tomb
+<span id="fn_28"></span>[300:1](gate27.htm#fr_30.md) Supplied from the tomb
 of Rameses VI.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV. The Gate of Sebi and Reri. The Twelfth Division of
-the Tuat](gate28)
+the Tuat](gate28.md)

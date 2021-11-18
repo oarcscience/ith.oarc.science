@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov15)  [Next](hlov17) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov15)  [Next](hlov17.md) 
 
 ------------------------------------------------------------------------
 
@@ -430,4 +430,4 @@ Kilauea. Then Pele and the other sisters went inland.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Hopoe, the Dancing Stone](hlov17)
+[Next: XII. Hopoe, the Dancing Stone](hlov17.md)

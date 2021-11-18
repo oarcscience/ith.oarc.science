@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe091)  [Next](prwe093) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe091)  [Next](prwe093.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ road. The water-elder is called skow-dower.
 
 ------------------------------------------------------------------------
 
-[Next: The Chapel Rock, Perran-Porth](prwe093)
+[Next: The Chapel Rock, Perran-Porth](prwe093.md)

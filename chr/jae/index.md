@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI3LW/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI3LW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI3LW/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](jae00)    [Page
-Index](pageidx)    [Text \[Zipped\]](jae.txt.gz)
+[Contents](#contents)    [Start Reading](jae00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](jae.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -59,8 +59,8 @@ download responsibly.--<span class="small">J.B. Hare, February 10,
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](jae00)  
-[Succeeding Books](jae01)  
-[Preface](jae02)  
-[Jesus An Essene](jae03)  
-[Index](jae04)  
+<span id="contents"></span> [Title Page](jae00.md)  
+[Succeeding Books](jae01.md)  
+[Preface](jae02.md)  
+[Jesus An Essene](jae03.md)  
+[Index](jae04.md)  

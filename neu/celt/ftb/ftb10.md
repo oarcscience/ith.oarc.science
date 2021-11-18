@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb09)  [Next](ftb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb09)  [Next](ftb11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -24,19 +24,19 @@ Textual Heritage
 
 <span id="img_09600"></span> <span align="CENTER"> [![Mariannik and
 little Loik](tn/09600.jpg)  
-Click to enlarge](img/09600.jpg)  
+Click to enlarge](img/09600.jpg.md)  
 Mariannik and little Loik  
 </span>
 
 <span id="page_97">p. 97</span>
 
-<span id="img_09700"></span> ![The Changeling](img/09700.jpg)
+<span id="img_09700"></span> ![The Changeling](img/09700.jpg.md)
 
 <span id="img_09701"></span>
 
 |                     |
 |---------------------|
-| ![M](img/09701.jpg) |
+| ![M](img/09701.jpg.md) |
 
 ARIANNIK and her husband lived in a thatched cottage. It was hidden in a
 lonely heath like a bird's nest in a tree. In the summer the thatch was
@@ -148,4 +148,4 @@ him he stretched out his arms to her and said:
 
 ------------------------------------------------------------------------
 
-[Next: The Foster Brother](ftb11)
+[Next: The Foster Brother](ftb11.md)

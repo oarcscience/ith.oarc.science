@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal091)  [Next](njal093) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal091)  [Next](njal093.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Now Hauskuld fares home with Kettle, and is with him some time.
 
 ------------------------------------------------------------------------
 
-[Next: 93. Njal Takes Hauskuld To Foster](njal093)
+[Next: 93. Njal Takes Hauskuld To Foster](njal093.md)

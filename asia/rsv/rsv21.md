@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv20)  [Next](rsv22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv20)  [Next](rsv22.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ adhered to among the better classes of society.
 
 ------------------------------------------------------------------------
 
-[Next: Choosing Life's Partner](rsv22)
+[Next: Choosing Life's Partner](rsv22.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass13)  [Next](nass15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass13)  [Next](nass15.md) 
 
 ------------------------------------------------------------------------
 
@@ -307,4 +307,4 @@ house. That is the end.
 
 ------------------------------------------------------------------------
 
-[Next: Growing-Up-Like-One-Who-Has-A-Grandmother](nass15)
+[Next: Growing-Up-Like-One-Who-Has-A-Grandmother](nass15.md)

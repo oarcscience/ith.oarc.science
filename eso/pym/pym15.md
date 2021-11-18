@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pym14)  [Next](pym16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pym14)  [Next](pym16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Divine Pymander*, by Hermes Mercurius Trismegistus, tr. by John
 Everard, \[1650\], at Intangible Textual Heritage
 
@@ -246,4 +246,4 @@ OF OPERATION AND SENSE.
 
 ------------------------------------------------------------------------
 
-[Next: The Fifteenth Book, of Truth to His Son Tat](pym16)
+[Next: The Fifteenth Book, of Truth to His Son Tat](pym16.md)

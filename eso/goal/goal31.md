@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -31,7 +31,7 @@ Former of all things, and his manifestation in Elohim, to the mind of
 the public, it is apt to cause confusion in regard to man's relation to
 God in his different attributes. In the past, men made an image of God
 the Father, as the image of a man, and also an image of God the Son, as
-the image of the Christ, <span id="fr_18"></span>[\*](#fn_18) and they
+the image of the Christ, <span id="fr_18"></span>[\*](#fn_18.md) and they
 bowed down and worshiped them, notwithstanding the emphatic utterance in
 the Commandments, "Thou shalt not make unto thee a graven image, nor the
 likeness of any form that is in the heaven
@@ -59,7 +59,7 @@ disciples "brethren," but he justified them in calling him "Lord and
 Master," for he said, "So am I."
 
 <span class="smallcaps">Yahveh</span> Elohim, <span
-id="fr_19"></span>[\*](#fn_19) the Creator of the world, is our Lord and
+id="fr_19"></span>[\*](#fn_19.md) the Creator of the world, is our Lord and
 Master, even as was the Lord Christ, because he was a manifestation of
 Eloah, one of the great Body of Elohim.
 
@@ -272,7 +272,7 @@ become like God, the Elohim, and in order that you may desire
 effectively, it becomes necessary that you hold a vivid realization of
 your oneness with that Eternal Brotherhood, <span
 class="smallcaps">Yahveh</span> Elohim, <span
-id="fr_20"></span>[\*](#fn_20) a realization that you are no longer a
+id="fr_20"></span>[\*](#fn_20.md) a realization that you are no longer a
 member of earth's inhabitants; your reciprocal relations having ceased
 with earth's inhabitants, are transferred to those in the heavens. Then
 when you pray, while you are conscious that you are reaching out into
@@ -484,7 +484,7 @@ incapable of being that which you will to be, or if you find that the
 adverse forces within yourself and outside of yourself are so strong
 that you can think of nothing else, so strong that they seem to crush
 out your consciousness, then begin to breathe
-[rhythmically](errata.htm#20) that wondrous name <span
+[rhythmically](errata.htm#20.md) that wondrous name <span
 class="smallcaps">Yahveh</span>. With every breath express that name,
 and as you express it, strive to penetrate deeper and deeper into the
 realization of its power; of its irresistible will power; of its power
@@ -584,7 +584,7 @@ righteous runneth into it, and is safe</span>."
 
 ### Footnotes
 
-<span id="fn_18"></span>[344:\*](goal31.htm#fr_18) The Orientals worship
+<span id="fn_18"></span>[344:\*](goal31.htm#fr_18.md) The Orientals worship
 images of the ideals of their gods, the Catholic church has images of
 the ideals of the Lord Christ and of the Virgin Mary, and the Protestant
 church has the image of an ideal man in the mind, and there is really no
@@ -594,11 +594,11 @@ When man makes an image of the Christ who lived in the form of man, he
 worships the material body, the flesh, and so do the Pagan nations who
 worship their idols, which are representations of the flesh.
 
-<span id="fn_19"></span>[345:\*](goal31.htm#fr_19) As "<span
+<span id="fn_19"></span>[345:\*](goal31.htm#fr_19.md) As "<span
 class="smallcaps">Yahveh</span> Elohim" is the name of the collective
 Body, we have used it in the singular in many places.
 
-<span id="fn_20"></span>[353:\*](goal31.htm#fr_20) The names "<span
+<span id="fn_20"></span>[353:\*](goal31.htm#fr_20.md) The names "<span
 class="smallcaps">Yahveh</span>" and "Elohim" are connected in different
 ways in the various books of the Old Testament. For instance, Ezekiel
 generally uses the form "Elohim <span class="smallcaps">Yahveh</span>,"

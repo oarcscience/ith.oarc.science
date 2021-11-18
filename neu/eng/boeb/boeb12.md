@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb11)  [Next](boeb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb11)  [Next](boeb13.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ For he pulled up the bonny brièr,
 
 ------------------------------------------------------------------------
 
-[Next: Young Waters](boeb13)
+[Next: Young Waters](boeb13.md)

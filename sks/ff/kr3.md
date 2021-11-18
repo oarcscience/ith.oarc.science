@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../kr3/kr3) 
-[Previous](kh63)  [Next](kh8) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../kr3/kr3.md) 
+[Previous](kh63)  [Next](kh8.md) 
 
 ------------------------------------------------------------------------
 
@@ -5026,4 +5026,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Famous History of the Life of King Henry the Eight](kh8) 
+[Next: The Famous History of the Life of King Henry the Eight](kh8.md) 

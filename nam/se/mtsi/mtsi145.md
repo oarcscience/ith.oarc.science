@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi144)  [Next](mtsi146) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi144)  [Next](mtsi146.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ who was very glad to see her.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Monster Deer](mtsi146)
+[Next: 10. The Monster Deer](mtsi146.md)

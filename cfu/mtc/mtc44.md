@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc43)  [Next](mtc45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc43)  [Next](mtc45.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ Now that I have come to them, what have they given me?
 
 They have only loosened the buckles of my care.  
 Yet even so, they are "profitable friends," <span
-id="fr_29"></span>[1](#fn_27)  
+id="fr_29"></span>[1](#fn_27.md)  
 And fill my need of "converse with wise men."  
 Yet when I consider how, still a man of the world,  
 In belt and cap I scurry through dirt and dust,  
@@ -61,7 +61,7 @@ That I am not fit to be master of my pines!
 
 ### Footnotes
 
-<span id="fn_27"></span>[75:1](mtc44.htm#fr_29) See "Analects of
+<span id="fn_27"></span>[75:1](mtc44.htm#fr_29.md) See "Analects of
 Confucius" 4 and 5, where three kinds of "profitable friends" and three
 kinds of "profitable pleasures" are described; the third of the latter
 being "plenty of intelligent companions."
@@ -70,6 +70,6 @@ being "plenty of intelligent companions."
 
 ------------------------------------------------------------------------
 
-[Next: Sleeping on Horseback](mtc45)
+[Next: Sleeping on Horseback](mtc45.md)
 
 </div>

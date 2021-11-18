@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe132)  [Next](prwe134) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe132)  [Next](prwe134.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ two saints.
 
 ------------------------------------------------------------------------
 
-[Next: The Discovery of Tin](prwe134)
+[Next: The Discovery of Tin](prwe134.md)

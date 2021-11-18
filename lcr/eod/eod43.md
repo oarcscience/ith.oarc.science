@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod42)  [Next](eod44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod42)  [Next](eod44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -30,15 +30,15 @@ moon. Once this had happened, the process seems to have been extended to
 include other animals which were used as food, such as the sheep, goat,
 pig, and antelope (or gazelle and deer). In Egypt the cow continued to
 occupy the pre-eminent place as a divine animal; and the cow-cult
-extended from the [Mediterranean](errata.htm#9) to equatorial Africa, to
+extended from the [Mediterranean](errata.htm#9.md) to equatorial Africa, to
 Western Europe, and as far East as India. But in the Mediterranean area
 the pig played a more prominent part than it did in Egypt. <span
-id="fr_421"></span>[1](#fn_421) In the latter country Osiris, Isis, and
+id="fr_421"></span>[1](#fn_421.md) In the latter country Osiris, Isis, and
 especially Set, were identified with the pig; and in Syria the place of
 Set as the enemy of Osiris (Adonis) was taken by an actual pig. But
 throughout the Eastern Mediterranean the pig was also identified with
 the Great Mother and associated with lunar and sky phenomena. In fact at
-Troy the pig was represented <span id="fr_422"></span>[2](#fn_422) with
+Troy the pig was represented <span id="fr_422"></span>[2](#fn_422.md) with
 the star-shaped decorations with which Hathor's divine cow (in her rôle
 as a sky-goddess) was embellished in Egypt. To complete the
 identification with the cow-mother Cretan fable represents a sow
@@ -56,7 +56,7 @@ but also with what the shell symbolized. Thus the term, χοῖρος had an
 obscene significance in addition to its usual meaning "pig" and its
 acquired meaning "cowry". This fact seems to have played some part in
 fixing upon the pig the notoriety of being "an unclean animal". <span
-id="fr_423"></span>[3](#fn_423) But it was mainly for other reasons of a
+id="fr_423"></span>[3](#fn_423.md) But it was mainly for other reasons of a
 very different kind that the eating of swine-flesh was forbidden. The
 tabu seems to have arisen
 
@@ -70,7 +70,7 @@ According to a Cretan legend the youthful god Zeus-Dionysus was suckled
 by a sow. For this reason "the Cretans consider this animal sacred, and
 will not taste of its flesh; and the men of Præsos perform sacred rites
 with the sow, making her the first offering at the sacrifice". <span
-id="fr_424"></span>[1](#fn_424)
+id="fr_424"></span>[1](#fn_424.md)
 
 But when the pig also assumed the rôle of Set, as the enemy of Osiris,
 and became the prototype of the devil, an active aversion took the place
@@ -81,8 +81,8 @@ stated.
 
 I have already referred to the irrelevance of Miss Jane Harrison's
 denial of the birth of Aphrodite from the sea ([p.
-141](eod30.htm#page_141)). Miss Harrison does not seem to have realized
-that in her book <span id="fr_425"></span>[2](#fn_425) she has collected
+141](eod30.htm#page_141).md). Miss Harrison does not seem to have realized
+that in her book <span id="fr_425"></span>[2](#fn_425.md) she has collected
 evidence which is much more relevant to the point at issue. For, in the
 interesting account of the Eleusinian Mysteries (pp. 150 *et seq*.), she
 has called attention to the important rite upon the day "called in
@@ -92,7 +92,7 @@ from the sea.
 
 The Mysteries were celebrated at full moon; and each of the candidates
 for admission "took with him his own pharmakos, <span
-id="fr_426"></span>[3](#fn_426) a young pig".
+id="fr_426"></span>[3](#fn_426.md) a young pig".
 
 "Arrived at the sea, each man bathed with his pig" (p. 152). On one
 occasion, so it is said, "when a mystic was bathing his pig, a
@@ -123,10 +123,10 @@ born of the sea. She was also identified with the moon and a sow. Hence
 these Mysteries were celebrated, both in Egypt and in the Mediterranean,
 at full moon, and the pig played a prominent part in them. The
 candidates washed the sacrificial pig in the sea, not primarily as a
-rite of purification, <span id="fr_427"></span>[1](#fn_427) as is
+rite of purification, <span id="fr_427"></span>[1](#fn_427.md) as is
 commonly claimed, but because the sacrificial animal was merely a
 surrogate of the cowry, which lived in the sea, and of the Great
-Mother, <span id="fr_428"></span>[2](#fn_428) who was sprung from the
+Mother, <span id="fr_428"></span>[2](#fn_428.md) who was sprung from the
 cowry and hence born of the sea. In the story of the man carrying the
 pig being attacked by a sea-monster, perhaps we have an incident of that
 widespread story of the shark guarding the pearls. We have already seen
@@ -171,7 +171,7 @@ her cow- or sow-forms.
 In the transitional stage of the process of substitution of an animal
 for a human being some confusion seems to have arisen as to the ritual
 meaning of the new procedure. If Moret's account of the Egyptian
-Mysteries <span id="fr_429"></span>[1](#fn_429) is correct—and without a
+Mysteries <span id="fr_429"></span>[1](#fn_429.md) is correct—and without a
 knowledge of Egyptian philology I am not competent to express an opinion
 upon this matter—the attempt was made to identify the animal victim of
 sacrifice with the human being whose place it had taken. In the
@@ -225,7 +225,7 @@ creature the fetters of a reputation for evil. The evil dragon was the
 representative of both Set and the Great Mother (Sekhet or Tiamat); and
 both of them were identified with the pig. Just as Set killed Osiris, so
 the pig gave Adonis his mortal injury. <span
-id="fr_430"></span>[1](#fn_430) When these earthly incidents were
+id="fr_430"></span>[1](#fn_430.md) When these earthly incidents were
 embellished with a celestial significance, the conflict
 
 <span id="page_221">p. 221</span>
@@ -233,7 +233,7 @@ embellished with a celestial significance, the conflict
 of Horus with Set was interpreted as the struggle between the forces of
 light and order and the powers of darkness and chaos. When worshipped as
 a tempest-god the Mesopotamian Rimmon was known as "the pig" <span
-id="fr_431"></span>[1](#fn_431) and, as "the wild boar of the desert,"
+id="fr_431"></span>[1](#fn_431.md) and, as "the wild boar of the desert,"
 was a form of Set.
 
 I have discussed the pig at this length because the use of the words
@@ -245,74 +245,74 @@ examination is that the two meanings must have been acquired from the
 identification of both the cowry and the pig with the Great Mother and
 the female reproductive organs. In other words, the pig-associations of
 Aphrodite afford clear evidence that the goddess was originally a
-personification of the cowry. <span id="fr_432"></span>[2](#fn_432)
+personification of the cowry. <span id="fr_432"></span>[2](#fn_432.md)
 
 The fundamental nature of the identification of the cowry, the pig, and
 the Great Mother, the one with the other, is revealed not merely in the
 archæology of the Ægean, but also in the modern customs and ancient
 pictures of the most distant peoples. For example, in New Guinea the
 place of the sacrificial pig may be taken by the cowry-shell; <span
-id="fr_433"></span>[3](#fn_433) and upon the chief façade of the east
+id="fr_433"></span>[3](#fn_433.md) and upon the chief façade of the east
 wing of the ancient American monument, known as the Casa de las Monjas
 at Chichen Itza, the hieroglyph of the planet Venus is placed in
 conjunction with a picture of a wild pig. <span
-id="fr_434"></span>[4](#fn_434)
+id="fr_434"></span>[4](#fn_434.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_421"></span>[216:1](eod43.htm#fr_421) And also, in a
+<span id="fn_421"></span>[216:1](eod43.htm#fr_421.md) And also, in a
 misunderstood form, even as far as America.
 
-<span id="fn_422"></span>[216:2](eod43.htm#fr_422) Schliemann, "Ilios,"
+<span id="fn_422"></span>[216:2](eod43.htm#fr_422.md) Schliemann, "Ilios,"
 Fig. 1450, p. 616.
 
-<span id="fn_423"></span>[216:3](eod43.htm#fr_423) This is seen in the
+<span id="fn_423"></span>[216:3](eod43.htm#fr_423.md) This is seen in the
 case of the Persian word *khor*, which means both "pig" and "harlot" or
 "filthy woman". The possibility of the derivation of the old English
 word "\[w\]hore" from the same source is worth considering.
 
-<span id="fn_424"></span>[217:1](eod43.htm#fr_424) L. R. Farnell, "Cults
+<span id="fn_424"></span>[217:1](eod43.htm#fr_424.md) L. R. Farnell, "Cults
 of the Greek States," Vol. I, p. 37.
 
-<span id="fn_425"></span>[217:2](eod43.htm#fr_425) "Prolegomena to the
+<span id="fn_425"></span>[217:2](eod43.htm#fr_425.md) "Prolegomena to the
 Study of Greek Religion."
 
-<span id="fn_426"></span>[217:3](eod43.htm#fr_426) Which, in fact, was
+<span id="fn_426"></span>[217:3](eod43.htm#fr_426.md) Which, in fact, was
 intended as the equivalent of φάρμακον ἀθανασίας, "the redeeming blood".
 
-<span id="fn_427"></span>[218:1](eod43.htm#fr_427) Blackman
+<span id="fn_427"></span>[218:1](eod43.htm#fr_427.md) Blackman
 ("Sacramental Ideas and Usages in Ancient Egypt," *Proceedings of the
 Society of Biblical Archæology*, March, 1918, p. 57; and May, 1918, p.
 85) has shown that the idea of purification was certainly entertained.
 
-<span id="fn_428"></span>[218:2](eod43.htm#fr_428) In some places an
+<span id="fn_428"></span>[218:2](eod43.htm#fr_428.md) In some places an
 image of the goddess was washed in the sea.
 
-<span id="fn_429"></span>[219:1](eod43.htm#fr_429) "Mystères Égyptiens."
+<span id="fn_429"></span>[219:1](eod43.htm#fr_429.md) "Mystères Égyptiens."
 
-<span id="fn_430"></span>[220:1](eod43.htm#fr_430) Mr. Donald Mackenzie
+<span id="fn_430"></span>[220:1](eod43.htm#fr_430.md) Mr. Donald Mackenzie
 has collected a good deal of folklore concerning the pig ("Myths of
 Egypt," pp. 66 *et seq*.; also his books on Babylonian, Indian, and
 Cretan myths, *op. cit. supra*).
 
-<span id="fn_431"></span>[221:1](eod43.htm#fr_431) According to Sayce,
+<span id="fn_431"></span>[221:1](eod43.htm#fr_431.md) According to Sayce,
 "Hibbert Lectures," p. 153, note 6.
 
-<span id="fn_432"></span>[221:2](eod43.htm#fr_432) In Egypt not only was
+<span id="fn_432"></span>[221:2](eod43.htm#fr_432.md) In Egypt not only was
 the sow identified with Isis, but "lucky pigs" were worn on necklaces
 just like the earlier cowry-amulets (Budge, "Guide to the Egyptian
 Collections" (British Museum), p. 96).
 
-<span id="fn_433"></span>[221:3](eod43.htm#fr_433) Malinowski, *Trans.
+<span id="fn_433"></span>[221:3](eod43.htm#fr_433.md) Malinowski, *Trans.
 and Proc. Royal Society, South Australia*, XXXIX, 1915, p. 587 et. seq.
 
-<span id="fn_434"></span>[221:4](eod43.htm#fr_434) Seler, "Die
+<span id="fn_434"></span>[221:4](eod43.htm#fr_434.md) Seler, "Die
 Tierbilder der mexikanischen und der Maya-Handschriften," *Zeitsch. f.
 Ethnologie*, Bd. 41, 1909, p. 405, and Fig. 242 in Maudslay, "Biologia
 Centrali-Americana, Vol. III, Pl. 13.
 
 ------------------------------------------------------------------------
 
-[Next: Gold and the Golden Aphrodite](eod44)
+[Next: Gold and the Golden Aphrodite](eod44.md)

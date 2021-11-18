@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag25)  [Next](rag27) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag25)  [Next](rag27.md) 
 
 ------------------------------------------------------------------------
 
@@ -1672,4 +1672,4 @@ religion.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Genesis Read By The Light Of The Comet](rag27)
+[Next: Chapter XIII. Genesis Read By The Light Of The Comet](rag27.md)

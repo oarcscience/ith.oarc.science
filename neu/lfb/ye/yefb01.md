@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb00)  [Next](yefb02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb00)  [Next](yefb02.md) 
 
 </div>
 
@@ -30,7 +30,7 @@ publish them in red and blue covers.  He is named Mr. G. Laurence Gomme,
 and he is president of a learned body called the Folk Lore Society. 
 Once a year he makes his address to his subjects, of whom the Editor is
 one, and Mr. Joseph Jacobs (who has published many delightful fairy
-tales with pretty pictures) <span id="fr_0"></span>[1](#fn_0) is
+tales with pretty pictures) <span id="fr_0"></span>[1](#fn_0.md) is
 another.  Fancy, then, the dismay of Mr. Jacobs, and of the Editor, when
 they heard their president say that he did not think it very nice in
 them to publish fairy books, above all, red, green, and blue fairy
@@ -112,13 +112,13 @@ A. LANG.
 
 ### Footnotes
 
-<span id="fn_0"></span>[ix:1](yefb01.htm#fr_0) You may buy them from Mr.
+<span id="fn_0"></span>[ix:1](yefb01.htm#fr_0.md) You may buy them from Mr.
 Nutt, in the Strand.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Contents](yefb02)
+[Next: Contents](yefb02.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](zun01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](zun01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q1Q2/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q1Q2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Diwan of Zeb-un-Nissa*, by Magan Lal and Jessie Duncan Westbrook,
 \[1913\], at Intangible Textual Heritage
 
@@ -44,13 +44,13 @@ published prior to 1923.
 
 <span id="img_cover"></span> <span align="CENTER"> [![Front cover and
 spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front cover and spine  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
@@ -75,4 +75,4 @@ S. A. KAPADIA.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](zun01)
+[Next: Table of Contents](zun01.md)

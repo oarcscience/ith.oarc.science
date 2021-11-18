@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](bus11)  [Next](bus13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](bus11)  [Next](bus13.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Bustan of Sadi*, tr. by A. Hart Edwards, \[1911\], at Intangible
 Textual Heritage
 
@@ -217,7 +217,7 @@ help elsewhere.
 
 #### STORY OF SADI AND THE IDOLATERS
 
-At Sumanat [34](bus15.htm#an_34) I saw an ivory idol. It was set with
+At Sumanat [34](bus15.htm#an_34.md) I saw an ivory idol. It was set with
 jewels like the Manat, and nothing more
 
 <span id="page_132">p. 132</span>
@@ -314,4 +314,4 @@ Fates invisibly pull the strings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Concerning Repentance](bus13)
+[Next: Chapter IX. Concerning Repentance](bus13.md)

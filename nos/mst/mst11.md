@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst10)  [Next](mst12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst10)  [Next](mst12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 <span id="img_22400"></span> <span align="CENTER"> [![&lt;i&gt;Blois,
 setting of royal splendors and tragic
 destinies&lt;/i&gt;.](tn/22400.jpg)  
-Click to enlarge](img/22400.jpg)  
+Click to enlarge](img/22400.jpg.md)  
 *Blois, setting of royal splendors and tragic destinies*.  
 </span>
 
@@ -124,7 +124,7 @@ Coligny took the opposite view. He said
 the harm they can? Francis of Guise already thinks himself the coming
 Charlemagne, and is out to crush us at the first opportunity. Besides,
 the more the court indulges in such superstitious, ungodly nonsense as
-this Maître [Nostradamus](errata.htm#9) purveys, the more quickly the
+this Maître [Nostradamus](errata.htm#9.md) purveys, the more quickly the
 intelligent masses will rally to our side."
 
 "Has any of you seen this man?" asked one of the other gentlemen. It
@@ -570,7 +570,7 @@ Brantôme, "and took her for himself, beginning all charity at home."
 
 Catherine, who had expected, after Elizabeth's marriage, to pump her
 advantageously about the state affairs of Spain, ran up against a sense
-of honor rare in the Valois family. [Elizabeth](errata.htm#10) refused
+of honor rare in the Valois family. [Elizabeth](errata.htm#10.md) refused
 to betray Spanish confidence. She was only twenty-three when she died,
 and about her passing has always hung the dark aura of suspicion. Philip
 may not, as was reported, have poisoned his charming young wife out of
@@ -950,4 +950,4 @@ proudest triumph. He lifted his hand in salute to the city.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Ten: Towards Familiar Country](mst12)
+[Next: Chapter Ten: Towards Familiar Country](mst12.md)

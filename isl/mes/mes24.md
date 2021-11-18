@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes23)  [Next](mes25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes23)  [Next](mes25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,7 +21,7 @@ Textual Heritage
 ### IX.
 
 <span id="img_m16500"></span> ![The Poor Scenite Arab and his
-Wife.](img/m16500.jpg)
+Wife.](img/m16500.jpg.md)
 
 <span class="smallcaps">An</span> Arab woman once thus to her husband
 spake,  
@@ -39,7 +39,7 @@ E’en mendicants feel shame at our dire poverty.
 Our days are dark as night, through drear adversity.  
 Our kindred, as all strangers, sight of us now shun.  
 Just like the wandering Jew, for fear we should them dun. <span
-id="fr_283"></span>[1](#fn_282)  
+id="fr_283"></span>[1](#fn_282.md)  
 When I would borrow half a handful of lentils,  
 The neighbours wish me dead; their wrath on me distils.  
 Amongst us Arabs pride is felt in war and gifts,  
@@ -94,13 +94,13 @@ He has no hope of God, nor any good to show,
 Though more than Seth or Adam he pretend to know.  
 Ev'n Satan unto him no trace of self has shown,  
 And yet he claims to be a Vicar of God's own. <span
-id="fr_284"></span>[1](#fn_283)  
+id="fr_284"></span>[1](#fn_283.md)  
 Some Gnostic terms he uses as a plagiarist,  
 That he may lead the people as though secretist.  
 A critic, ’sooth, is he; complains of Bāyezīd; <span
-id="fr_285"></span>[2](#fn_284)  
+id="fr_285"></span>[2](#fn_284.md)  
 Whereas Yezīd himself would blush at his bald creed. <span
-id="fr_286"></span>[3](#fn_285) <span class="margnote"><span
+id="fr_286"></span>[3](#fn_285.md) <span class="margnote"><span
 id="an_30">30</span></span>  
 Of heavenly bread and table, nothing has he known;  
 The barest bone to him, vile dog, God has not thrown.  
@@ -124,7 +124,7 @@ Will come to the impostor, profit by his arts.
 He comes with good intention to the lecture-hall,  
 Expects a guiding soul; he finds a carcase; all.  
 As when, in dead of night, one does not know the east, <span
-id="fr_287"></span>[4](#fn_286)  
+id="fr_287"></span>[4](#fn_286.md)  
 To offer one's devotion's licit, turning west. <span
 class="margnote"><span id="an_40">40</span></span>
 
@@ -269,7 +269,7 @@ Thus spake the woman bitterly unto her spouse,
 Whole volumes would not hold the words that she let loose.
 
 He answered her: "My wife! Art woman? Art thou mad?  
-'My poverty's my pride.' <span id="fr_288"></span>[1](#fn_287) Reproach
+'My poverty's my pride.' <span id="fr_288"></span>[1](#fn_287.md) Reproach
 me not when sad.  
 Possessions, wealth, are but a cap the scalp to hide.  
 The scaldheads or baldpates alone in caps confide.  
@@ -483,18 +483,18 @@ To supplication stoop, thou’lt small resistance find.
 He, whose fierce tyranny our bleeding hearts most grieves,  
 By tendering excuses, us excuseless leaves. <span class="margnote"><span
 id="an_180">180</span></span>  
-"Is goodly made to man" <span id="fr_289"></span>[1](#fn_288) ’s a text
+"Is goodly made to man" <span id="fr_289"></span>[1](#fn_288.md) ’s a text
 from God's own word;  
 As truth made manifest, is by man ever heard.  
 God, too, therein decreed: "that he with her may dwell;" <span
-id="fr_290"></span>[2](#fn_289)  
+id="fr_290"></span>[2](#fn_289.md)  
 Whence Adam's love for Eve survived lost Eden's dell.  
 A hero man may be, a Hercules to grieve,  
 But slave to woman's will is he, without reprieve.  
 He, to whose words the universe has all bowed down, <span
-id="fr_291"></span>[3](#fn_290)  
+id="fr_291"></span>[3](#fn_290.md)  
 Was he who sang: "Humayrā, speak to me!" Life's crown! <span
-id="fr_292"></span>[4](#fn_291)
+id="fr_292"></span>[4](#fn_291.md)
 
 Of fire and water, fire is quelled through water's wet;  
 Still, water boils through fire, when in a cauldron set. <span
@@ -516,7 +516,7 @@ Humanity ’tis claims, for self, love, charity;
 While lusts and rage are marks of bestiality.  
 Fair woman is a ray from out the sun of Truth;  
 Not loved? A creator; not created, forsooth. <span
-id="fr_293"></span>[5](#fn_292)
+id="fr_293"></span>[5](#fn_292.md)
 
 <span id="page_m178">p. 178</span>
 
@@ -565,7 +565,7 @@ With cleavers, marrowbones, tongs, pokers, hideous ’larm,
 They seek to fright some monster; really, shame all charm. <span
 class="margnote"><span id="an_210">210</span></span>  
 Alas for Pharaoh, with those fearful yells and noise!  
-Alas his 'Lord Supreme,' <span id="fr_294"></span>[1](#fn_293) drowned
+Alas his 'Lord Supreme,' <span id="fr_294"></span>[1](#fn_293.md) drowned
 in that discord's voice!  
 Both I and Moses servants are of Thee, our King;  
 Like woodman's axe on tree, Thy wrath on me takes swing.  
@@ -590,7 +590,7 @@ Decreest Thou me to wither? Straight I'm sallow seen. <span
 class="margnote"><span id="an_220">220</span></span>  
 One day I'm bright as full moon; next, as eclipse dark.  
 But is not this of all God's works the constant mark?  
-'Be, and it is!' <span id="fr_295"></span>[2](#fn_294) A bat that drives
+'Be, and it is!' <span id="fr_295"></span>[2](#fn_294.md) A bat that drives
 man on, His laws!  
 Of entity, non-entity, that course is cause!
 
@@ -617,7 +617,7 @@ Or is this seeming warfare all a cunning sham,
 donkey-dealers’ wordy strife, some dupe to flam?  
 ’Tis neither this nor that. ’Tis puzzle for the wise.  
 The treasure's to be sought; the ruin's ’fore our eyes. <span
-id="fr_296"></span>[1](#fn_295)  
+id="fr_296"></span>[1](#fn_295.md)  
 That which thou deemest the treasure's naught but vanity.  
 By deeming it a treasure, makest thou it to flee.  
 Thy deemings and thy thoughts build up a pile too fair;  
@@ -660,7 +660,7 @@ class="margnote"><span id="an_245">245</span></span>
 Thus is it by repulsion from the souls of saints,  
 The Pharaohs of each age are fixed in error's taints.  
 Repelled, then, they are from this world and the next;  
-In neither have they portion; <span id="fr_297"></span>[1](#fn_296)
+In neither have they portion; <span id="fr_297"></span>[1](#fn_296.md)
 shunned are they, and vexed.  
 From God's anointed ones dost thou draw back in heart?  
 Know, thy existence grieves them, frets them, makes them smart.  
@@ -673,17 +673,17 @@ class="margnote"><span id="an_250">250</span></span>
 <span id="page_m182">p. 182</span>
 
 E’en as the bestial quality, in man aye found,  
-Unto its human yokemate <span id="fr_298"></span>[1](#fn_297) slave and
+Unto its human yokemate <span id="fr_298"></span>[1](#fn_297.md) slave and
 serf is bound.  
 This human element, too, in saints’ hands, my friend,  
 Is pliant, like the bestial; to their wish they’t bend.
 
 By true faith, Ahmed called the world, his docile sons,  
 To table spread: "Say: 'Servants mine!'" Thus God's text runs. <span
-id="fr_299"></span>[2](#fn_298)
+id="fr_299"></span>[2](#fn_298.md)
 
 Thy mind's a camel-driver; thou, the camel, still,  
-Urged by decree: "Command!" <span id="fr_300"></span>[3](#fn_299) it
+Urged by decree: "Command!" <span id="fr_300"></span>[3](#fn_299.md) it
 drives thee as it will.  
 God's saints are minds of minds. Men's minds, beneath their sway,  
 <span class="margnote"><span id="an_255">255</span></span> Are camels,
@@ -712,12 +712,12 @@ Around himself revolve, who smallest compass takes.
 The fools saw him alone; thence judged him some weak thing!  
 Weak can he ever be who's upheld by the King?  
 Those fools thought: "He's a man. He's really nothing more." <span
-id="fr_301"></span>[1](#fn_300)  
+id="fr_301"></span>[1](#fn_300.md)  
 Alas, for fools! They're void of common sense in store. <span
 class="margnote"><span id="an_265">265</span></span>
 
 The prophet Sālih's camel was, in form, a beast; <span
-id="fr_302"></span>[2](#fn_301)  
+id="fr_302"></span>[2](#fn_301.md)  
 His people her hamstrung; ’twas ignorance, at least.  
 They cut her off from water; drink they her refused.  
 Ungrateful such return for meat and drink they'd used!  
@@ -726,7 +726,7 @@ God's water they held back from God. Monopolists!
 Thus Sālih's camel, as of saint the fleshly form,  
 Became an ambush;—sinners’ ruin thence would storm!  
 Upon that sinning race what dreadful judgment fell!  
-"God's camel and her drink" <span id="fr_303"></span>[3](#fn_302) the
+"God's camel and her drink" <span id="fr_303"></span>[3](#fn_302.md) the
 text is, us to tell. <span class="margnote"><span
 id="an_270">270</span></span>  
 God's vengeance, as pursuer, sought front that vile crew.  
@@ -799,7 +799,7 @@ Thus being brought to quit their menaces and scowls;
 Upon their knees, hams, breasts, they crouched like roosting fowls.  
 This cringing posture has that abject, trembling crew,  
 In holy writ, inspired, dubbed "crouching;" <span
-id="fr_304"></span>[1](#fn_303) and ’tis true.  
+id="fr_304"></span>[1](#fn_303.md) and ’tis true.  
 (Kneel, thou, at times when by instructors thou art taught,  
 And when thou’rt warned that "crouching" ’s with abjection fraught.)  
 In hopeless expectation God's blow to ensue,  
@@ -848,7 +848,7 @@ With that, reproachfully upon himself he turned,
 <span class="margnote"><span id="an_315">315</span></span> And cried:
 "Those fellows were not worth the tears they spurned.  
 Recite not wrongfully, O master of address,  
-The text: 'How will I grieve' <span id="fr_305"></span>[1](#fn_304) o’er
+The text: 'How will I grieve' <span id="fr_305"></span>[1](#fn_304.md) o’er
 crew that none should bless!'"  
 Still, in his eyes and heart more briny tears he found,  
 A pity, really motiveless, in him ’d ta’en ground.  
@@ -880,7 +880,7 @@ From heaven, the miscreants to chase to dire hell-pit."
 
 Behold the damned and blessed, thus, in one scene conjoined;  
 Between them is "a great gulf fixed by none o’erclimbed." <span
-id="fr_306"></span>[1](#fn_305)  
+id="fr_306"></span>[1](#fn_305.md)  
 Those "sons of fire" and "light" together seemed immixed;  
 But barrier impassable ’tween them was fixed.  
 The mine's rich golden ore in soil imbedded lies;  
@@ -942,7 +942,7 @@ The rose requires some years before it shows its hue.
 
 To this end has the Lord, whose name be ever blessed,  
 In holy writ declared: "Appointed term." <span
-id="fr_307"></span>[1](#fn_306) We've cessed.  
+id="fr_307"></span>[1](#fn_306.md) We've cessed.  
 Hast thou this heard? Read, mark, and learn with diligence!  
 Life's water is it. Hast thou drunk? Health spring from thence!  
 Those *words* thou mayst consider life's fount, if thou list;  
@@ -968,7 +968,7 @@ But if disciple taste it, death will him remove.
 "Lord, grant unto me," was the prayer of Solomon,  
 "The power and kingdom solely (not to Abaddon);  
 This favour grant not unto other after me!" <span
-id="fr_308"></span>[2](#fn_307)  
+id="fr_308"></span>[2](#fn_307.md)  
 Which reads like envy. Such, however, it can't be.  
 Put not, in heart, construction that must disagree  
 Upon those words so read: "to other after me."  
@@ -1099,13 +1099,13 @@ On earth, in heaven, above the heavens, I am not held.
 This know, then, thou also, My friend, as though beheld.  
 But, wonderful! Believer's heart can Me contain!  
 If Me thou’dst seek, there look for Me, with might and main!" <span
-id="fr_309"></span>[1](#fn_308)
+id="fr_309"></span>[1](#fn_308.md)
 
 <span id="page_193">p. 193</span>
 
 His words were: "Seek within My servants. There thou’lt meet  
 The paradise of My aspect. Thou most discreet!" <span
-id="fr_310"></span>[1](#fn_309)  
+id="fr_310"></span>[1](#fn_309.md)  
 The heaven of heavens, with all its wondrous wide extent,  
 At sight of Adam's glory into tremors went. <span class="margnote"><span
 id="an_415">415</span></span>  
@@ -1249,7 +1249,7 @@ The pot will, then, of water never lacking be;
 My little water-pot shall suffice thee and me.  
 Close tight its lips, and bear it full from our supply.  
 A holy text ’tis says: 'From lust close every eye.' <span
-id="fr_311"></span>[1](#fn_310)  
+id="fr_311"></span>[1](#fn_310.md)  
 His beard, his moustache, both, will swell with joy at this.  
 For prince supreme like him, my offering's not amiss."  
 Thou, woman, didst not know that there, in Bagdād's midst,  
@@ -1262,14 +1262,14 @@ and ships, with fishers' hooks, both fine and coarse.
 
 Go then, good man! The Caliph thee his state shall show!  
 Thou’lt comprehend the text: "Beneath which rivers flow." <span
-id="fr_312"></span>[1](#fn_311)  
+id="fr_312"></span>[1](#fn_311.md)  
 Thus, likewise, are our intellects, our thoughts, our sense;  
 A drop compared with God's boundless omniscience!
 
 The husband now chimed in: "Yes! Plug the pot's mouth tight.  
 Thou’st hit the very offering;—useful, good, and right!  
 Sew it up carefully in case of felt, threefold.  
-Our Caliph's breakfast-water <span id="fr_313"></span>[2](#fn_312) shall
+Our Caliph's breakfast-water <span id="fr_313"></span>[2](#fn_312.md) shall
 it be;—so cold!  
 No other water's like it in this world of ours;—  
 It's heaven's pure ambrosia, ’still’d from vernal showers! <span
@@ -1304,7 +1304,7 @@ prove a pearl in sea of Bagdād's lands!
 My husband, true, is shrewd; and know's what he's about;  
 But pearls have enemies, we trow, in every rout!  
 What is a pearl? A drop from fount of life sent down; <span
-id="fr_314"></span>[1](#fn_313)  
+id="fr_314"></span>[1](#fn_313.md)  
 A drop from non-existence,—whence all substance known!"
 
 Those prayers’ reward,—as guerdon of her sighs and tears;—  
@@ -1338,9 +1338,9 @@ As beauty seeks her mirror, with a special greed.
 A pretty face is charming in its mirror seen;  
 Beneficence gleams lovely through want's chilly sheen.  
 God hath enjoined in holy writ: "By forenoon's glare!" <span
-id="fr_315"></span>[1](#fn_314)  
+id="fr_315"></span>[1](#fn_314.md)  
 "Muhammed, chide not thou too much at beggar's prayer!" <span
-id="fr_316"></span>[2](#fn_315) <span class="margnote"><span
+id="fr_316"></span>[2](#fn_315.md) <span class="margnote"><span
 id="an_505">505</span></span>
 
 A beggar is a mirror wherein bounty shines.  
@@ -1371,7 +1371,7 @@ Should he conceive th’ idea of love for God alone,
 God's essence he'd deny, God's attributes disown.  
 Man's fancy is a creature;—born with mortal lot.  
 God was not born. His scripture says: "Nor was begot." <span
-id="fr_317"></span>[3](#fn_316)
+id="fr_317"></span>[3](#fn_316.md)
 
 <span id="page_m200">p. 200</span>
 
@@ -1405,7 +1405,7 @@ That we may be reminded not to court reproof.
 And beaming visages are not without their use,  
 If they recall us from mere form to sense occluse.  
 The various effigies we see in this bath-house, <span
-id="fr_318"></span>[1](#fn_317)  
+id="fr_318"></span>[1](#fn_317.md)  
 <span class="margnote"><span id="an_530">530</span></span> Disguised in
 draperies, are dolls;—blind fools to chouse.  
 So long as thou’rt outside, naught else but clothes thou’lt see.  
@@ -1456,9 +1456,9 @@ And found the burning bush, that led him to empire
 
 Or Jesus, who escaped his foes with one fleet bound,  
 And found himself then landed where the sun goes round! <span
-id="fr_319"></span>[1](#fn_318)  
+id="fr_319"></span>[1](#fn_318.md)  
 An ear of corn it was that baited Adam's trap. <span
-id="fr_320"></span>[2](#fn_319)  
+id="fr_320"></span>[2](#fn_319.md)  
 <span class="margnote"><span id="an_550">550</span></span> Bat thence
 himself became the source of mankind's sap!  
 The falcon stoops to earth enticed by luring fate;  
@@ -1467,7 +1467,7 @@ A child is sent to school to teach him learning's prize,
 In hope of toys and treats he studies till he's wise.  
 On leaving school he sits in seat of law or power;  
 He paid his schoolpence then;—he's now lord of the hour!  
-So Abbās <span id="fr_321"></span>[3](#fn_320) sallied forth to war,
+So Abbās <span id="fr_321"></span>[3](#fn_320.md) sallied forth to war,
 with fierce intent,  
 To put Muhammed down,—Islam to circumvent.  
 Defender of the Faith, till death, he then became;  
@@ -1752,7 +1752,7 @@ Repeats not what is past;—he bides the present tense.
 
 The Arab, his poor pitcher, Caliph, all, observe,  
 Ourselves are. "He shall swerve whom God shall cause to swerve!" <span
-id="fr_322"></span>[1](#fn_321)  
+id="fr_322"></span>[1](#fn_321.md)  
 Our Arab, know, ’s the mind; his wife, our lusts and greed.  
 These two are tenebrous; the mind's the torch they need.  
 Now hear whence has arisen the ground of their dispute:  
@@ -1770,7 +1770,7 @@ Or poor disciples ne’er will slake their thirsting minds.
 
 Dost doubt? Art racked with difficulties? To excess?  
 Have patience. "Patience is the key of all success!" <span
-id="fr_323"></span>[1](#fn_322)  
+id="fr_323"></span>[1](#fn_322.md)  
 Be abstinent. Let not thy crowding thoughts run wild.  
 <span class="margnote"><span id="an_670">670</span></span> Thoughts
 lions are, and antelopes. Mind's forest; child!
@@ -1840,121 +1840,121 @@ class="margnote"><span id="an_691">691</span></span>
 
 ### Footnotes
 
-<span id="fn_282"></span>[m165:1](mes24.htm#fr_283) Qur’ān xx. 97, makes
+<span id="fn_282"></span>[m165:1](mes24.htm#fr_283.md) Qur’ān xx. 97, makes
 the wandering Jew, Sāmirī, who produced the golden calf, to shun every
 one, saying, "Touch me not!"
 
-<span id="fn_283"></span>[m167:1](mes24.htm#fr_284) Vicar of God is one
+<span id="fn_283"></span>[m167:1](mes24.htm#fr_284.md) Vicar of God is one
 of the Caliph's titles. This "pretender" must have been some particular
 adversary of the poet's. The satire is bitter.
 
-<span id="fn_284"></span>[m167:2](mes24.htm#fr_285) Bāyezīd of Bestām,
+<span id="fn_284"></span>[m167:2](mes24.htm#fr_285.md) Bāyezīd of Bestām,
 in Persia, an early Gnostic saint; died <span
 class="smallcaps">a.d.</span> 874 (<span class="smallcaps">a.h.</span>
 261).
 
-<span id="fn_285"></span>[m167:3](mes24.htm#fr_286) Yezīd, second Caliph
+<span id="fn_285"></span>[m167:3](mes24.htm#fr_286.md) Yezīd, second Caliph
 of Damascus, persecutor of Husayn, son of the fourth Caliph ‘Alī.
 
-<span id="fn_286"></span>[m167:4](mes24.htm#fr_287) The original
+<span id="fn_286"></span>[m167:4](mes24.htm#fr_287.md) The original
 naturally mentions the "qibla'' of Islām; not the "east," as used in
 Christian churches.
 
-<span id="fn_287"></span>[m171:1](mes24.htm#fr_288) "My poverty's my
+<span id="fn_287"></span>[m171:1](mes24.htm#fr_288.md) "My poverty's my
 pride" is a saying traditionally attributed to Mohammed.
 
-<span id="fn_288"></span>[m177:1](mes24.htm#fr_289) Qur’ān iii. 12,
+<span id="fn_288"></span>[m177:1](mes24.htm#fr_289.md) Qur’ān iii. 12,
 mentions several things "made goodly to man."
 
-<span id="fn_289"></span>[m177:2](mes24.htm#fr_290) Qur’ān vii. 189,
+<span id="fn_289"></span>[m177:2](mes24.htm#fr_290.md) Qur’ān vii. 189,
 relates the creation of a helpmate for Adam.
 
-<span id="fn_290"></span>[m177:3](mes24.htm#fr_291) Muhammed.
+<span id="fn_290"></span>[m177:3](mes24.htm#fr_291.md) Muhammed.
 
-<span id="fn_291"></span>[m177:4](mes24.htm#fr_292) For Humayrā, see a
+<span id="fn_291"></span>[m177:4](mes24.htm#fr_292.md) For Humayrā, see a
 note in No. 8, dist. 69.
 
-<span id="fn_292"></span>[m177:5](mes24.htm#fr_293) Yet Europe still
+<span id="fn_292"></span>[m177:5](mes24.htm#fr_293.md) Yet Europe still
 pretends to believe that Islām has denied the possession of a soul by
 woman!
 
-<span id="fn_293"></span>[m179:1](mes24.htm#fr_294) Qur’ān lxxix. 24. So
+<span id="fn_293"></span>[m179:1](mes24.htm#fr_294.md) Qur’ān lxxix. 24. So
 Pharaoh is there said to have styled himself.
 
-<span id="fn_294"></span>[m179:2](mes24.htm#fr_295) Qur’ān ii. 3, &c.
+<span id="fn_294"></span>[m179:2](mes24.htm#fr_295.md) Qur’ān ii. 3, &c.
 
-<span id="fn_295"></span>[m180:1](mes24.htm#fr_296) Not Easterns only
+<span id="fn_295"></span>[m180:1](mes24.htm#fr_296.md) Not Easterns only
 have a superstition about treasures hid in ruins.
 
-<span id="fn_296"></span>[m181:1](mes24.htm#fr_297) Qur’ān xxii. ix.
+<span id="fn_296"></span>[m181:1](mes24.htm#fr_297.md) Qur’ān xxii. ix.
 
-<span id="fn_297"></span>[m182:1](mes24.htm#fr_298) Man has a triple
+<span id="fn_297"></span>[m182:1](mes24.htm#fr_298.md) Man has a triple
 nature, vegetative, bestial, and human.
 
-<span id="fn_298"></span>[m182:2](mes24.htm#fr_299) Qur’ān xxxix. 54.
+<span id="fn_298"></span>[m182:2](mes24.htm#fr_299.md) Qur’ān xxxix. 54.
 
-<span id="fn_299"></span>[m182:3](mes24.htm#fr_300) Qur’ān vii. 142, &c.
+<span id="fn_299"></span>[m182:3](mes24.htm#fr_300.md) Qur’ān vii. 142, &c.
 
-<span id="fn_300"></span>[m183:1](mes24.htm#fr_301) Qur’ān xxxiv. 42.
+<span id="fn_300"></span>[m183:1](mes24.htm#fr_301.md) Qur’ān xxxiv. 42.
 
-<span id="fn_301"></span>[m183:2](mes24.htm#fr_302) Qur’ān vii. 75; xi.
+<span id="fn_301"></span>[m183:2](mes24.htm#fr_302.md) Qur’ān vii. 75; xi.
 65-70; xxvi. 142-158. Sālih was sent to the tribe of Thamūd, troglodytes
 who dwelt in the valleys about half-way between Medīna and the Gulf of
 Akaba.
 
-<span id="fn_302"></span>[m183:3](mes24.htm#fr_303) Qur’ān xci. 13.
+<span id="fn_302"></span>[m183:3](mes24.htm#fr_303.md) Qur’ān xci. 13.
 
-<span id="fn_303"></span>[m185:1](mes24.htm#fr_304) Qur’ān vii. 76, 89;
+<span id="fn_303"></span>[m185:1](mes24.htm#fr_304.md) Qur’ān vii. 76, 89;
 xi. 70, 97; xxix. 36.
 
-<span id="fn_304"></span>[m186:1](mes24.htm#fr_305) Qur’ān vii. 91.
+<span id="fn_304"></span>[m186:1](mes24.htm#fr_305.md) Qur’ān vii. 91.
 
-<span id="fn_305"></span>[m187:1](mes24.htm#fr_306) Qur’ān lv. 20.
+<span id="fn_305"></span>[m187:1](mes24.htm#fr_306.md) Qur’ān lv. 20.
 
-<span id="fn_306"></span>[m189:1](mes24.htm#fr_307) Qur’ān vi. 2, 60.
+<span id="fn_306"></span>[m189:1](mes24.htm#fr_307.md) Qur’ān vi. 2, 60.
 
-<span id="fn_307"></span>[m189:2](mes24.htm#fr_308) Qur’ān xxxviii. 34.
+<span id="fn_307"></span>[m189:2](mes24.htm#fr_308.md) Qur’ān xxxviii. 34.
 
-<span id="fn_308"></span>[m192:1](mes24.htm#fr_309) Not textually from
+<span id="fn_308"></span>[m192:1](mes24.htm#fr_309.md) Not textually from
 the Qur’ān.
 
-<span id="fn_309"></span>[193:1](mes24.htm#fr_310) Not textually from
+<span id="fn_309"></span>[193:1](mes24.htm#fr_310.md) Not textually from
 the Qur’ān.
 
-<span id="fn_310"></span>[m196:1](mes24.htm#fr_311) Qur’ān xxiv. 30.
+<span id="fn_310"></span>[m196:1](mes24.htm#fr_311.md) Qur’ān xxiv. 30.
 
-<span id="fn_311"></span>[m197:1](mes24.htm#fr_312) Qur’ān ii. 23, &c.
+<span id="fn_311"></span>[m197:1](mes24.htm#fr_312.md) Qur’ān ii. 23, &c.
 
-<span id="fn_312"></span>[m197:2](mes24.htm#fr_313) Rich Muslims
+<span id="fn_312"></span>[m197:2](mes24.htm#fr_313.md) Rich Muslims
 everywhere break their fast in Ramazān with water from the well of
 Zemzem, in Mekka, if possible.
 
-<span id="fn_313"></span>[m198:1](mes24.htm#fr_314) A pearl is believed
+<span id="fn_313"></span>[m198:1](mes24.htm#fr_314.md) A pearl is believed
 to be a special dewdrop, caught by a special oyster, and thence brought
 to perfection by a special providence. (See Sa‘di's ode at the end of
 translator's preface.)
 
-<span id="fn_314"></span>[m199:1](mes24.htm#fr_315) Qur’ān xciii. 1.
+<span id="fn_314"></span>[m199:1](mes24.htm#fr_315.md) Qur’ān xciii. 1.
 
-<span id="fn_315"></span>[m199:2](mes24.htm#fr_316) Qur’ān xciii. 10.
+<span id="fn_315"></span>[m199:2](mes24.htm#fr_316.md) Qur’ān xciii. 10.
 
-<span id="fn_316"></span>[m199:3](mes24.htm#fr_317) Qur’ān cxii. 3.
+<span id="fn_316"></span>[m199:3](mes24.htm#fr_317.md) Qur’ān cxii. 3.
 
-<span id="fn_317"></span>[m200:1](mes24.htm#fr_318) The world.
+<span id="fn_317"></span>[m200:1](mes24.htm#fr_318.md) The world.
 
-<span id="fn_318"></span>[m202:1](mes24.htm#fr_319) The belief is that
+<span id="fn_318"></span>[m202:1](mes24.htm#fr_319.md) The belief is that
 Jesus was not crucified, but was caught up to the fourth heaven, that of
 the sun, where he will live until he comes again in glory.
 
-<span id="fn_319"></span>[m202:2](mes24.htm#fr_320) The belief is that
+<span id="fn_319"></span>[m202:2](mes24.htm#fr_320.md) The belief is that
 Adam plucked an ear of corn, the forbidden fruit, in paradise.
 
-<span id="fn_320"></span>[m202:3](mes24.htm#fr_321) Abbās, Muhammed's
+<span id="fn_320"></span>[m202:3](mes24.htm#fr_321.md) Abbās, Muhammed's
 uncle, ancestor of the Abbāsī Caliphs.
 
-<span id="fn_321"></span>[m209:1](mes24.htm#fr_322) Qur’ān li. 9.
+<span id="fn_321"></span>[m209:1](mes24.htm#fr_322.md) Qur’ān li. 9.
 
-<span id="fn_322"></span>[m210:1](mes24.htm#fr_323) Von Hammer, in his
+<span id="fn_322"></span>[m210:1](mes24.htm#fr_323.md) Von Hammer, in his
 History of the Ottoman Empire, so entirely misunderstood this beautiful
 Arabian proverb, "*Es sabru miftāhu ’l faraj*," as to read "*farj*"
 (pudendum), for "*faraj*" (success); and cloaked his blunder by the
@@ -1962,4 +1962,4 @@ remark: "Too pungent for literal translation."
 
 ------------------------------------------------------------------------
 
-[Next: X. Patience and Perseverance Under a Teacher](mes25)
+[Next: X. Patience and Perseverance Under a Teacher](mes25.md)

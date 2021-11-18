@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti18)  [Next](eti20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti18)  [Next](eti20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ our feet wound gracefully before us, and disappeared
 
 <span id="img_08500"></span> <span align="CENTER"> [![Map of Section of
 Kentucky](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)  
+Click to enlarge](img/08500.jpg.md)  
 Map of Section of Kentucky  
 </span>
 
@@ -152,4 +152,4 @@ the land we are approaching, the cavern fields of Kentucky."
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. The Punch-Bowls and Caverns of Kentucky.—“Into the
-Unknown Country.”](eti20)
+Unknown Country.”](eti20.md)

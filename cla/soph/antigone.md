@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Sophocles](index) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Sophocles](index.md) 
 
 ------------------------------------------------------------------------
 

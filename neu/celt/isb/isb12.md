@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb11)  [Next](isb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb11)  [Next](isb13.md) 
 
 ------------------------------------------------------------------------
 
@@ -345,4 +345,4 @@ same good-will, and surely with the same success.
 
 ------------------------------------------------------------------------
 
-[Next: Tralee--Listowel--Tarbert](isb13)
+[Next: Tralee--Listowel--Tarbert](isb13.md)

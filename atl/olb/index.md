@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,8 +20,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](olb00)    [Page
-Index](pageidx)    [Text \[Zipped\]](olb.txt.gz)
+[Contents](#contents)    [Start Reading](olb00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](olb.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ descriptions of catastrophic earth changes, including volcanic
 eruptions, strange weather, and rapid sea level changes. This is
 intriguing because, even if a forgery, the Oera Linda Book predates the
 origin of the modern Atlantis craze, which began with Ignatius
-Donnelly's [Atlantis, the Antediluvian World](../ataw/index), published
+Donnelly's [Atlantis, the Antediluvian World](../ataw/index.md), published
 in 1882.
 
 The Oera Linda Book also claims that Europe was ruled by a (mostly)
@@ -66,69 +66,69 @@ appeared online.--J.B. Hare, January 29th, 2009.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](olb00)  
-[Translator's Preface](olb01)  
-[Introduction](olb02)  
-[Okke my Son](olb03)  
-[The Book Of Adela's Followers](olb04)  
-[Frya's Tex](olb05)  
-[This has Fasta Spoken](olb06)  
+<span id="contents"></span> [Title Page](olb00.md)  
+[Translator's Preface](olb01.md)  
+[Introduction](olb02.md)  
+[Okke my Son](olb03.md)  
+[The Book Of Adela's Followers](olb04.md)  
+[Frya's Tex](olb05.md)  
+[This has Fasta Spoken](olb06.md)  
 [These are the Laws Established for the Government of the
-Citadels](olb07)  
-[Universal Law](olb08)  
-[Here Follow the Laws which were thus Established](olb09)  
-[These are the Rights of the Mothers and the Kings](olb10)  
+Citadels](olb07.md)  
+[Universal Law](olb08.md)  
+[Here Follow the Laws which were thus Established](olb09.md)  
+[These are the Rights of the Mothers and the Kings](olb10.md)  
 [Here are the Rules Established for the Security of all
-Frisians](olb11)  
-[From Minno's Writings](olb12)  
-[Laws for the Navigators](olb13)  
-[Useful Extracts from the Writings left by Minno](olb14)  
-[From Minno's Writings](olb15)  
-[From the Writings of Minno](olb16)  
+Frisians](olb11.md)  
+[From Minno's Writings](olb12.md)  
+[Laws for the Navigators](olb13.md)  
+[Useful Extracts from the Writings left by Minno](olb14.md)  
+[From Minno's Writings](olb15.md)  
+[From the Writings of Minno](olb16.md)  
 [These are the Three Principles on which these Laws are
-founded](olb17)  
-[These Rules are made for Angry People](olb18)  
-[These are the Rules Concerning Bastards](olb19)  
+founded](olb17.md)  
+[These Rules are made for Angry People](olb18.md)  
+[These are the Rules Concerning Bastards](olb19.md)  
 [What is written hereunder is inscribed on the Walls of
-Waraburgt](olb20)  
-[This stands inscribed upon all Citadels](olb21)  
-[How the Bad Time came](olb22)  
-[This is inscribed on the Waraburgt by the Aldegamude](olb23)  
+Waraburgt](olb20.md)  
+[This stands inscribed upon all Citadels](olb21.md)  
+[How the Bad Time came](olb22.md)  
+[This is inscribed on the Waraburgt by the Aldegamude](olb23.md)  
 [All this is inscribed not only on the Waraburgt, but also on the Burgt
-Stavia, which lies behind the Port of Stavre](olb24)  
-[What the Consequence of this was](olb25)  
+Stavia, which lies behind the Port of Stavre](olb24.md)  
+[What the Consequence of this was](olb25.md)  
 [Now we will write about the War between the Burgtmaagden Kalta and
-Min-erva](olb26)  
-[We now come to the History of Jon](olb27)  
+Min-erva](olb26.md)  
+[We now come to the History of Jon](olb27.md)  
 [Now we shall write how it fared with Jon. It is inscribed at
-Texland.](olb28)  
-[This is about the Geertmen](olb29)  
+Texland.](olb28.md)  
+[This is about the Geertmen](olb29.md)  
 [In the Year One Thousand and Five after Atland was submerged, this was
-inscribed on the Eastern Wall of Fryasburgt](olb30)  
-[This is inscribed in all our Citadels](olb31)  
-[How it fared afterwards with the Magy](olb32)  
-[The Writings of Adelbrost and Apollonia](olb33)  
-[The Second Writing](olb34)  
-[The Elegy of the Burgtmaagd](olb35)  
-[The Oldest Doctrine](olb36)  
-[The Second Part of the Oldest Doctrine](olb37)  
+inscribed on the Eastern Wall of Fryasburgt](olb30.md)  
+[This is inscribed in all our Citadels](olb31.md)  
+[How it fared afterwards with the Magy](olb32.md)  
+[The Writings of Adelbrost and Apollonia](olb33.md)  
+[The Second Writing](olb34.md)  
+[The Elegy of the Burgtmaagd](olb35.md)  
+[The Oldest Doctrine](olb36.md)  
+[The Second Part of the Oldest Doctrine](olb37.md)  
 [This is written on Parchment. Speech and Answer to other Maidens as an
-Example](olb38)  
+Example](olb38.md)  
 [Now I will write myself, first about my Citadel, and then about what I
-have been able to see](olb39)  
-[The Writings of Frêthorik and Wiljow](olb40)  
+have been able to see](olb39.md)  
+[The Writings of Frêthorik and Wiljow](olb40.md)  
 [Now I will relate how the Geertman and many followers of Hellenia came
-back](olb41)  
+back](olb41.md)  
 [This Writing has been given to me about Northland and Schoonland
-(Scandinavia)](olb42)  
-[Hail to all true Frisians](olb43)  
-[The Writing of Konerêd](olb44)  
-[Now I will write about Friso](olb45)  
-[What Friso did further](olb46)  
-[Now I will write about his son Adel](olb47)  
-[Here is the Writing with Gosa's Advice](olb48)  
-[Here is my Counsel](olb49)  
-[The Writing of Beeden](olb50)  
+(Scandinavia)](olb42.md)  
+[Hail to all true Frisians](olb43.md)  
+[The Writing of Konerêd](olb44.md)  
+[Now I will write about Friso](olb45.md)  
+[What Friso did further](olb46.md)  
+[Now I will write about his son Adel](olb47.md)  
+[Here is the Writing with Gosa's Advice](olb48.md)  
+[Here is my Counsel](olb49.md)  
+[The Writing of Beeden](olb50.md)  
 [Letter of Rika the Oudmaagd, read at Staveren at the Juul
-Feast](olb51)  
-[Fragmentary](olb52)  
+Feast](olb51.md)  
+[Fragmentary](olb52.md)  

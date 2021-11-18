@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby25)  [Next](piby27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby25)  [Next](piby27.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ on earth, for when righteousness is lacking there is no tranquility.
 ------------------------------------------------------------------------
 
 [Next: Chapter 3. The Clean Should not Accept the Invitations of the
-Unclean](piby27)
+Unclean](piby27.md)

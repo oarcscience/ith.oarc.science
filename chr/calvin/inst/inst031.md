@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst030)  [Next](inst032) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst030)  [Next](inst032.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ accordingly exclaim with David, “Many, O Lord my God, are thy wonderful
 works which thou hast done, and thy thoughts which are to us-ward: if I
 would declare and speak of them, they are more than can be numbered,”
 (<span id="iv.i.xviii-p19.1"></span>[Ps.
-40:5](../../../bib/kjv/psa040.htm#005)<span
+40:5](../../../bib/kjv/psa040.htm#005.md)<span
 id="iv.i.xviii-p19.1"></span>). For while our adversities ought always
 to remind us of our sins, that the punishment may incline us to
 repentance, we see, moreover, how Christ declares there is something
@@ -144,7 +144,7 @@ more in the secret counsel of his Father than to chastise every one as
 he deserves. For he says of the man who was born blind, “Neither has
 this man sinned, nor his parents: but that the works of God should be
 made manifest in him,” (<span id="iv.i.xviii-p19.2"></span>[John
-9:3](../../../bib/kjv/joh009.htm#003)<span
+9:3](../../../bib/kjv/joh009.htm#003.md)<span
 id="iv.i.xviii-p19.2"></span>). Here, where calamity takes precedence
 even of birth, our carnal sense murmurs as if God were unmerciful in
 thus afflicting those who have not offended. But Christ declares that,
@@ -152,7 +152,7 @@ provided we had eyes clear enough, we should perceive that in this
 spectacle the glory of his Father is brightly displayed. We must use
 modesty, not as it were compelling God to render an account, but so
 revering his hidden Judgments as to account his will the best of all
-reasons.13  <span id="fr_129"></span>[130](#fn_129) When the sky is
+reasons.13  <span id="fr_129"></span>[130](#fn_129.md) When the sky is
 overcast with dense clouds, and a violent tempest arises, the darkness
 which is presented to our eye, and the thunder which strikes our ears,
 and stupefies all our senses with terror, make us imagine that every
@@ -189,14 +189,14 @@ quarrel with us. But if they refuse to admit that every event which
 happens in the world is governed by the incomprehensible counsel of God,
 let them explain to what effect Scripture declares, that “his Judgments
 are a great deep,” (<span id="iv.i.xviii-p21.1"></span>[Ps.
-36:7](../../../bib/kjv/psa036.htm#007)<span
+36:7](../../../bib/kjv/psa036.htm#007.md)<span
 id="iv.i.xviii-p21.1"></span>). For when Moses exclaims that the will of
 God “is not in heaven that thou shouldest say, Who shall go up for us to
 heaven, and bring it unto us? Neither is it beyond the sea that thou
 shouldest say, Who shall go over the sea and bring it unto us?” (<span
 id="iv.i.xviii-p21.2"></span>[Deut.
-30:12](../../../bib/kjv/deu030.htm#012),
-[13](../../../bib/kjv/deu030.htm#013)<span
+30:12](../../../bib/kjv/deu030.htm#012.md),
+[13](../../../bib/kjv/deu030.htm#013.md)<span
 id="iv.i.xviii-p21.2"></span>), because it was familiarly expounded in
 the law, it follows that there must be another hidden will which is
 compared to “ a great deep.” It is of this will Paul exclaims, “O! the
@@ -204,8 +204,8 @@ depths of the riches of the wisdom and knowledge of God! How
 unsearchable are his Judgments, and his ways past finding out! For who
 has known the mind of the Lord, or who has been his counsellor?” (<span
 id="iv.i.xviii-p21.3"></span>[Rom.
-11:33](../../../bib/kjv/rom011.htm#033),
-[34](../../../bib/kjv/rom011.htm#034)<span
+11:33](../../../bib/kjv/rom011.htm#033.md),
+[34](../../../bib/kjv/rom011.htm#034.md)<span
 id="iv.i.xviii-p21.3"></span>). It is true, indeed, that in the law and
 the gospel are comprehended mysteries which far transcend the measure of
 our sense; but since God, to enable his people to understand those
@@ -218,7 +218,7 @@ from us, it is to be reverently adored. Both views Moses has beautifully
 expressed in a few words. “Secret things,” saith he, “belong unto the
 Lord our God, but those things which are revealed belong unto us and to
 our children for ever,” (<span id="iv.i.xviii-p21.4"></span>[Deut.
-29:29](../../../bib/kjv/deu029.htm#029)<span
+29:29](../../../bib/kjv/deu029.htm#029.md)<span
 id="iv.i.xviii-p21.4"></span>). We see how he enjoins us not only
 studiously to meditate on the law, but to look up with reverence to the
 secret Providence of God. The Book of Job also, in order to keep our
@@ -227,13 +227,13 @@ the Book, after taking an ample survey of the universe, and discoursing
 magnificently on the works of God, at length adds, “Lo, these are parts
 of his ways: but how little a portion is heard of him?” (<span
 id="iv.i.xviii-p21.5"></span>[Job
-26:14](../../../bib/kjv/job026.htm#014)<span
+26:14](../../../bib/kjv/job026.htm#014.md)<span
 id="iv.i.xviii-p21.5"></span>). For which reason he, in another passage,
 distinguishes between the wisdom which dwells in God, and the measure of
 wisdom which he has assigned to man (<span
 id="iv.i.xviii-p21.6"></span>[Job
-28:21](../../../bib/kjv/job028.htm#021),
-[28](../../../bib/kjv/job028.htm#028)<span
+28:21](../../../bib/kjv/job028.htm#021.md),
+[28](../../../bib/kjv/job028.htm#028.md)<span
 id="iv.i.xviii-p21.6"></span>). After discoursing of the secrets of
 nature, he says that wisdom “is hid from the eyes of all living;” that
 “God understandeth the way thereof.” Shortly after he adds, that it has
@@ -251,7 +251,7 @@ absolute will, indeed, of which sophists prate, when by a profane and
 impious divorce, they separate his justice from his power, but that
 universal overruling Providence from which nothing flows that is not
 right, though the reasons thereof may be concealed.13  <span
-id="fr_130"></span>[131](#fn_130)
+id="fr_130"></span>[131](#fn_130.md)
 
 <span id="iv.i.xviii-p23"></span>3. Those who have learned this modesty
 will neither murmur against God for adversity in time past, nor charge
@@ -303,7 +303,7 @@ he derides the stupidity of those who presume to undertake anything
 without God, as if they were not ruled by his hand, he elsewhere thus
 expresses himself: “A man’s heart deviseth his ways but the Lord
 directeth his steps,” (<span id="iv.i.xviii-p24.1"></span>[Prov.
-16:9](../../../bib/kjv/pro016.htm#009)<span
+16:9](../../../bib/kjv/pro016.htm#009.md)<span
 id="iv.i.xviii-p24.1"></span>); intimating, that the eternal decrees of
 God by no means prevent us from proceeding, under his will, to provide
 for ourselves, and arrange all our affairs. And the reason for this is
@@ -322,7 +322,7 @@ surmounting them? See how far your reasoning accords with the order of
 divine procedure: You infer that danger is not to be guarded against,
 because, if it is not fatal, you shall escape without precaution;
 whereas the Lord enjoins you to guard against its just because he wills
-it not to be fatal.13  <span id="fr_131"></span>[132](#fn_131) These
+it not to be fatal.13  <span id="fr_131"></span>[132](#fn_131.md) These
 insane cavillers overlook what is plainly before their eyes—viz. that
 the Lord has furnished men with the artful of deliberation and caution,
 that they may employ them in subservience to his providence, in the
@@ -400,7 +400,7 @@ wishes, aims and faculties are so under his hand, that he has full power
 to turn them in whatever direction, and constrain them as often as he
 pleases. The fact that a special providence watches over the safety of
 believers, is attested by a vast number of the clearest promises.13
- <span id="fr_132"></span>[133](#fn_132) “Cast thy burden upon the Lord,
+ <span id="fr_132"></span>[133](#fn_132.md) “Cast thy burden upon the Lord,
 and he shall sustain thee: he shall never suffer the righteous to be
 moved.” “Casting all your care upon him: for he careth for you.” “He
 that dwelleth in the secret place of the Most High, shall abide under
@@ -432,18 +432,18 @@ all men are under his power, whether to conciliate their minds, or to
 curb their wickedness, and prevent it from doing harm. For it is the
 Lord who gives us favour, not only with those who wish us well, but also
 in the eyes of the Egyptians (<span id="iv.i.xviii-p29.1"></span>[Exod.
-3:21](../../../bib/kjv/exo003.htm#021)<span
+3:21](../../../bib/kjv/exo003.htm#021.md)<span
 id="iv.i.xviii-p29.1"></span>), in various ways defeating the malice of
 our enemies. Sometimes he deprives them of all presence of mind, so that
 they cannot undertake anything soundly or soberly. In this ways he sends
 Satan to be a lie in the mouths of all the prophets in order to deceive
 Ahab (<span id="iv.i.xviii-p29.2"></span>[1 Kings
-22:22](../../../bib/kjv/kg1022.htm#022)<span
+22:22](../../../bib/kjv/kg1022.htm#022.md)<span
 id="iv.i.xviii-p29.2"></span>), by the counsel of the young men he so
 infatuates Rehoboam, that his folly deprives him of his kingdom (<span
 id="iv.i.xviii-p29.3"></span>[1 Kings
-12:10](../../../bib/kjv/kg1012.htm#010),
-[15](../../../bib/kjv/kg1012.htm#015)<span
+12:10](../../../bib/kjv/kg1012.htm#010.md),
+[15](../../../bib/kjv/kg1012.htm#015.md)<span
 id="iv.i.xviii-p29.3"></span>). Sometimes when he leaves them in
 possession of intellect, he so fills them with terror and dismays that
 they can neither will nor plan the execution of what they had designed.
@@ -452,8 +452,8 @@ suggested, he opportunely interrupts them in their career, and allows
 them not to conclude what they had begun. Thus the counsel of
 Ahithophel, which would have been fatal to David, was defeated before
 its time (<span id="iv.i.xviii-p29.4"></span>[2 Sam.
-17:7](../../../bib/kjv/sa2017.htm#007),
-[14](../../../bib/kjv/sa2017.htm#014)<span
+17:7](../../../bib/kjv/sa2017.htm#007.md),
+[14](../../../bib/kjv/sa2017.htm#014.md)<span
 id="iv.i.xviii-p29.4"></span>). Thus, for the good and safety of his
 people, he overrules all the creatures, even the devil himself who, we
 see, durst not attempt any thing against Job without his permission and
@@ -482,14 +482,14 @@ even voluntarily comforts his brethren, telling them, “Be not grieved
 nor angry with yourselves that ye sold me hither; for God did send me
 before you to preserve life.” “As for you, ye thought evil against me;
 but God meant it unto good,” (<span id="iv.i.xviii-p30.1"></span>[Gen.
-45:5](../../../bib/kjv/gen045.htm#005)<span
+45:5](../../../bib/kjv/gen045.htm#005.md)<span
 id="iv.i.xviii-p30.1"></span>; 50:20). Had Job turned to the Chaldees,
 by whom he was plundered, he should instantly have been fired with
 revenge, but recognising the work of the Lord, he solaces himself with
 this most beautiful sentiment: “The Lord gave, and the Lord has taken
 away; blessed be the name of the Lord,” (<span
 id="iv.i.xviii-p30.2"></span>[Job
-1:21](../../../bib/kjv/job001.htm#021)<span
+1:21](../../../bib/kjv/job001.htm#021.md)<span
 id="iv.i.xviii-p30.2"></span>). So when David was assailed by Shimei
 with stones and curses, had he immediately fixed his eyes on the man, he
 would have urged his people to retaliate the injury; but perceiving that
@@ -498,7 +498,7 @@ let him curse,” says he, “because the Lord has said unto him, Curse
 David.” With the same bridle he elsewhere curbs the excess of his grief,
 “I was dumb, I opened not my mouth, because thou didst it,” (<span
 id="iv.i.xviii-p30.3"></span>[Ps.
-39:9](../../../bib/kjv/psa039.htm#009)<span
+39:9](../../../bib/kjv/psa039.htm#009.md)<span
 id="iv.i.xviii-p30.3"></span>). If there is no more effectual remedy for
 anger and impatience, he assuredly has not made little progress who has
 learned so to meditate on Divine Providence, as to be able always to
@@ -513,36 +513,36 @@ righteous dispensation. Paul, in order to suppress our desire to
 retaliate injuries, wisely reminds us that we wrestle not with flesh and
 blood, but with our spiritual enemy the devil, that we may prepare for
 the contest (<span id="iv.i.xviii-p30.4"></span>[Eph.
-6:12](../../../bib/kjv/eph006.htm#012)<span
+6:12](../../../bib/kjv/eph006.htm#012.md)<span
 id="iv.i.xviii-p30.4"></span>). But to calm all the impulses of passion,
 the most useful consideration is, that God arms the devil, as well as
 all the wicked, for conflict, and sits as umpire, that he may exercise
 our patience. But if the disasters and miseries which press us happen
 without the agency of men, let us call to mind the doctrine of the Law
 (<span id="iv.i.xviii-p30.5"></span>[Deut.
-28:1](../../../bib/kjv/deu028.htm#001)<span
+28:1](../../../bib/kjv/deu028.htm#001.md)<span
 id="iv.i.xviii-p30.5"></span>), that all prosperity has its source in
 the blessing of God, that all adversity is his curse. And let us tremble
 at the dreadful denunciation, “And if ye will not be reformed by these
 things, but will walk contrary unto me; then will I also walk contrary
 unto you,” (<span id="iv.i.xviii-p30.6"></span>[Lev.
-26:23](../../../bib/kjv/lev026.htm#023),
-[24](../../../bib/kjv/lev026.htm#024)<span
+26:23](../../../bib/kjv/lev026.htm#023.md),
+[24](../../../bib/kjv/lev026.htm#024.md)<span
 id="iv.i.xviii-p30.6"></span>). These words condemn our torpor, when,
 according to our carnal sense, deeming that whatever happens in any way
 is fortuitous, we are neither animated by the kindness of God to worship
 him, nor by his scourge stimulated to repentance. And it is for this
 reason that Jeremiah (<span id="iv.i.xviii-p30.7"></span>[Lament.
-3:38](../../../bib/kjv/lam003.htm#038)<span
+3:38](../../../bib/kjv/lam003.htm#038.md)<span
 id="iv.i.xviii-p30.7"></span>), and Amos (<span
 id="iv.i.xviii-p30.8"></span>[Amos
-3:6](../../../bib/kjv/amo003.htm#006)<span
+3:6](../../../bib/kjv/amo003.htm#006.md)<span
 id="iv.i.xviii-p30.8"></span>), expostulated bitterly with the Jews, for
 not believing that good as well as evil was produced by the command of
 God. To the same effect are the words in Isaiah, “I form the light and
 create darkness: I make peace and create evil. I the Lord do all these
 things,” (<span id="iv.i.xviii-p30.9"></span>[Is.
-45:7](../../../bib/kjv/isa045.htm#007)<span
+45:7](../../../bib/kjv/isa045.htm#007.md)<span
 id="iv.i.xviii-p30.9"></span>).
 
 <span id="iv.i.xviii-p31"></span>9. At the same time, the Christian will
@@ -592,7 +592,7 @@ what belongs to his proper calling, “Be of good courage,” says he, “and
 let us play the men for our people, and for the cities of our God; and
 the Lord do that which seemeth him good,” (<span
 id="iv.i.xviii-p31.1"></span>[2 Sam.
-10:12](../../../bib/kjv/sa2010.htm#012)<span
+10:12](../../../bib/kjv/sa2010.htm#012.md)<span
 id="iv.i.xviii-p31.1"></span>). The same conviction keeping us free from
 rashness and false confidence, will stimulate us to constant prayer,
 while at the same time filling our minds with good hope, it will enable
@@ -651,14 +651,14 @@ not be afraid for the terror by night; nor for the arrow that flieth by
 day; nor for the pestilence that walketh in darkness; nor for the
 destruction that wasteth at noonday” &c. (<span
 id="iv.i.xviii-p33.1"></span>[Ps.
-91:2-6](../../../bib/kjv/psa091.htm#002)<span
+91:2-6](../../../bib/kjv/psa091.htm#002.md)<span
 id="iv.i.xviii-p33.1"></span>). Hence the exulting confidence of the
 saints, “The Lord is on my side; I will not fear: what can man do unto
 me? The Lord taketh my part with them that help me.” “Though an host
 should encamp against me, my heart shall not fear.” “Yea, though I walk
 through the valley of the shadow of death, I will fear no evil.” (<span
 id="iv.i.xviii-p33.2"></span>[Ps.
-118:6](../../../bib/kjv/psa118.htm#006)<span
+118:6](../../../bib/kjv/psa118.htm#006.md)<span
 id="iv.i.xviii-p33.2"></span>; 27:3; 23:4).
 
 <span id="iv.i.xviii-p34"></span>How comes it, I ask, that their
@@ -680,10 +680,10 @@ is his also to determine the measure and the end, so as to prevent them
 from breaking loose and wantoning as they list. Supported by this
 conviction, Paul, who had said in one place that his journey was
 hindered by Satan (<span id="iv.i.xviii-p34.1"></span>[1 Thess.
-2:18](../../../bib/kjv/th1002.htm#018)<span
+2:18](../../../bib/kjv/th1002.htm#018.md)<span
 id="iv.i.xviii-p34.1"></span>), in another resolves, with the permission
 of God, to undertake it (<span id="iv.i.xviii-p34.2"></span>[1 Cor.
-16:7](../../../bib/kjv/co1016.htm#007)<span
+16:7](../../../bib/kjv/co1016.htm#007.md)<span
 id="iv.i.xviii-p34.2"></span>). If he had only said that Satan was the
 obstacle, he might have seemed to give him too much power, as if he were
 able even to overturn the counsels of God; but now, when he makes God
@@ -693,7 +693,7 @@ as He pleases to give the word. For the same reason, David, considering
 the various turns which human life undergoes as it rolls, and in a
 manner whirls around, retakes himself to this asylum, “My times are in
 thy hand,” (<span id="iv.i.xviii-p34.3"></span>[Ps.
-31:15](../../../bib/kjv/psa031.htm#015)<span
+31:15](../../../bib/kjv/psa031.htm#015.md)<span
 id="iv.i.xviii-p34.3"></span>). He might have said the course of life or
 *time* in the singular number, but by *times* he meant to express, that
 how unstable soever the condition of man may be, the vicissitudes which
@@ -703,14 +703,14 @@ destruction of Israel, and seemed torches which had been kindled to
 destroy and consume the land, are termed by the prophet “smoking fire
 brands.” They could only emit a little smoke (<span
 id="iv.i.xviii-p34.4"></span>[Is.
-7:4](../../../bib/kjv/isa007.htm#004)<span
+7:4](../../../bib/kjv/isa007.htm#004.md)<span
 id="iv.i.xviii-p34.4"></span>). So Pharaoh, when he was an object of
 dread to all by his wealth and strength, and the multitude of his
 troops, is compared to the largest of beasts, while his troops are
 compared to fishes; and God declares that he will take both leader and
 army with his hooks, and drag them whither he pleases (<span
 id="iv.i.xviii-p34.5"></span>[Ezek.
-29:4](../../../bib/kjv/eze029.htm#004)<span
+29:4](../../../bib/kjv/eze029.htm#004.md)<span
 id="iv.i.xviii-p34.5"></span>). In one word, not to dwell longer on
 this, give heed, and you will at once perceive that ignorance of
 Providence is the greatest of all miseries, and the knowledge of it the
@@ -725,27 +725,27 @@ the view which we have expounded, that the counsel of God is not firm
 and stable, but varies with the changes of sublunary affairs. First, in
 reference to the Providence of God, it is said that he repented of
 having made man (<span id="iv.i.xviii-p35.1"></span>[Gen.
-6:6](../../../bib/kjv/gen006.htm#006)<span
+6:6](../../../bib/kjv/gen006.htm#006.md)<span
 id="iv.i.xviii-p35.1"></span>), and of having raised Saul to the kingdom
 (<span id="iv.i.xviii-p35.2"></span>[1 Sam.
-15:11](../../../bib/kjv/sa1015.htm#011)<span
+15:11](../../../bib/kjv/sa1015.htm#011.md)<span
 id="iv.i.xviii-p35.2"></span>), and that he will repent of the evil
 which he had resolved to inflict on his people as soon as he shall have
 perceived some amendment in them (<span
 id="iv.i.xviii-p35.3"></span>[Jer.
-18:8](../../../bib/kjv/jer018.htm#008)<span
+18:8](../../../bib/kjv/jer018.htm#008.md)<span
 id="iv.i.xviii-p35.3"></span>). Secondly, his decrees are sometimes said
 to be annulled. He had by Jonah proclaimed to the Ninevites, “Yet forty
 days and Nineveh shall be overthrown,” but, immediately on their
 repentance, he inclined to a more merciful sentence (<span
 id="iv.i.xviii-p35.4"></span>[Jonah
-3:4-10](../../../bib/kjv/jon003.htm#004)<span
+3:4-10](../../../bib/kjv/jon003.htm#004.md)<span
 id="iv.i.xviii-p35.4"></span>). After he had, by the mouth of Isaiah,
 given Hezekiah intimation of his death, he was moved by his tears and
 prayers to defer it (<span id="iv.i.xviii-p35.5"></span>[Is.
-38:15](../../../bib/kjv/isa038.htm#015)<span
+38:15](../../../bib/kjv/isa038.htm#015.md)<span
 id="iv.i.xviii-p35.5"></span>; <span id="iv.i.xviii-p35.6"></span>[2
-Kings 20:15](../../../bib/kjv/kg2020.htm#015)<span
+Kings 20:15](../../../bib/kjv/kg2020.htm#015.md)<span
 id="iv.i.xviii-p35.6"></span>). Hence many argue that God has not fixed
 human affairs by an eternal decree, but according to the merits of each
 individual, and as he deems right and just, disposes of each single
@@ -765,7 +765,7 @@ repented of having made Saul king, the term *change* is used
 figuratively. Shortly after, it is added, “The Strength of Israel will
 not lie nor repent; for he is not a man, that he should repent,” (<span
 id="iv.i.xviii-p35.7"></span>[1 Sam.
-15:29](../../../bib/kjv/sa1015.htm#029)<span
+15:29](../../../bib/kjv/sa1015.htm#029.md)<span
 id="iv.i.xviii-p35.7"></span>). In these words, his immutability is
 plainly asserted without figure. Wherefore it is certain that, in
 administering human affairs, the ordination of God is perpetual and
@@ -776,7 +776,7 @@ exclamation, “God is not a man, that he should lie; neither the son of
 man, that he should repent: has he said, and shall he not do it? or has
 he spoken, and shall he not make it good?” (<span
 id="iv.i.xviii-p35.8"></span>[Num.
-23:19](../../../bib/kjv/num023.htm#019)<span
+23:19](../../../bib/kjv/num023.htm#019.md)<span
 id="iv.i.xviii-p35.8"></span>).
 
 <span id="iv.i.xviii-p36"></span>13. What then is meant by the term
@@ -829,8 +829,8 @@ man his wife, for he is a prophet, and he shall pray for thee, and thou
 shalt live; and if thou restore her not, know thou that thou shalt
 surely die, thou and all that art thine,” (<span
 id="iv.i.xviii-p37.1"></span>[Gen.
-20:3](../../../bib/kjv/gen020.htm#003),
-[7](../../../bib/kjv/gen020.htm#007)<span
+20:3](../../../bib/kjv/gen020.htm#003.md),
+[7](../../../bib/kjv/gen020.htm#007.md)<span
 id="iv.i.xviii-p37.1"></span>). You see that, by the first announcement,
 he makes a deep impression on his mind, that he may render him eager to
 give satisfaction, and that by the second he clearly explains his will.
@@ -844,55 +844,55 @@ does not express, in so many syllables, what is easily understood. The
 words of Isaiah must remain true, “The Lord of hosts has purposed, and
 who shall disannul it? And his hand is stretched out, and who shall turn
 it back?” (<span id="iv.i.xviii-p37.2"></span>[Isaiah
-14:27](../../../bib/kjv/isa014.htm#027)<span
+14:27](../../../bib/kjv/isa014.htm#027.md)<span
 id="iv.i.xviii-p37.2"></span>).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_129"></span>[130](inst031.htm#fr_129) <span
+<span id="fn_129"></span>[130](inst031.htm#fr_129.md) <span
 id="iv.i.xviii-p19.3"></span>
 
 <span id="iv.i.xviii-p20"></span>36 136 “Here the words of Cicero
 admirably apply:L Nec si ego quod tu sis sequutus, non perspicio,
 idcirco minus existimo te nihil sine summa ratione fecisse.”
 
-<span id="fn_130"></span>[131](inst031.htm#fr_130) <span
+<span id="fn_130"></span>[131](inst031.htm#fr_130.md) <span
 id="iv.i.xviii-p21.7"></span>
 
 <span id="iv.i.xviii-p22"></span>37 137 See Salvian. in Tract. de Vero
 Judicio et Providentia Dei. Also Bernard. De Interiore Domo, cap. 25.
 Also Luther in Epist. ad Fratres Antwerpienses.
 
-<span id="fn_131"></span>[132](inst031.htm#fr_131) <span
+<span id="fn_131"></span>[132](inst031.htm#fr_131.md) <span
 id="iv.i.xviii-p24.2"></span>
 
 <span id="iv.i.xviii-p25"></span>38 138 Cic. de Fato. “Recte Chrysippus,
 tam futile est medicum adhibere, quam convalescere.”—See Luther on <span
 id="iv.i.xviii-p25.1"></span>[Genesis
-3:7](../../../bib/kjv/gen003.htm#007)<span
+3:7](../../../bib/kjv/gen003.htm#007.md)<span
 id="iv.i.xviii-p25.1"></span>, against those who thus abuse the doctrine
 of Predestination.
 
-<span id="fn_132"></span>[133](inst031.htm#fr_132) <span
+<span id="fn_132"></span>[133](inst031.htm#fr_132.md) <span
 id="iv.i.xviii-p27.1"></span>
 
 <span id="iv.i.xviii-p28"></span>39 139 <span
 id="iv.i.xviii-p28.1"></span>[Ps.
-55:23](../../../bib/kjv/psa055.htm#023)<span
+55:23](../../../bib/kjv/psa055.htm#023.md)<span
 id="iv.i.xviii-p28.1"></span>; <span id="iv.i.xviii-p28.2"></span>[1
-Pet. 5:7](../../../bib/kjv/pe1005.htm#007)<span
+Pet. 5:7](../../../bib/kjv/pe1005.htm#007.md)<span
 id="iv.i.xviii-p28.2"></span>; <span id="iv.i.xviii-p28.3"></span>[Ps.
-91:1](../../../bib/kjv/psa091.htm#001)<span
+91:1](../../../bib/kjv/psa091.htm#001.md)<span
 id="iv.i.xviii-p28.3"></span>; <span id="iv.i.xviii-p28.4"></span>[Zech.
-2:8](../../../bib/kjv/zac002.htm#008)<span
+2:8](../../../bib/kjv/zac002.htm#008.md)<span
 id="iv.i.xviii-p28.4"></span>; <span
 id="iv.i.xviii-p28.5"></span>[Isaiah
-26:1](../../../bib/kjv/isa026.htm#001)<span
+26:1](../../../bib/kjv/isa026.htm#001.md)<span
 id="iv.i.xviii-p28.5"></span>; 29:15
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 18. - THE INSTRUMENTALITY OF THE WICKED EMPLOYED BY GOD,
-WHILE HE CONTINUES FREE FROM EVERY TAINT](inst032)
+WHILE HE CONTINUES FREE FROM EVERY TAINT](inst032.md)

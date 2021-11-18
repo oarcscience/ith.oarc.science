@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar33)  [Next](gar35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar33)  [Next](gar35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -124,7 +124,7 @@ numeral dedicated by Livia Augusta at the shrine of her husband's
 peculiar patron. And similarly the gem above referred to exhibits Hermes
 invested with supreme dominion, and accompanied by his own special
 *number*, "testudo resonare *septem* <span
-id="fr_142"></span>[\*](#fn_141) callida nervis"--the Magian method for
+id="fr_142"></span>[\*](#fn_141.md) callida nervis"--the Magian method for
 symbolizing the different Powers of Heaven, which shall be explained in
 its due place, when we come to treat of the "Seven Voices."
 
@@ -157,7 +157,7 @@ denoting Reason and the Senses." It is very provoking that Diodorus (xx.
 *Melcarth*, of Carthage than the brief remark that it held the hands
 open, palm upwards, but sloping downwards, so that the child sacrificed,
 when laid upon them, should roll off into a pit of fire at the
-foot. <span id="fr_143"></span>[\*](#fn_142) When Agathocles was
+foot. <span id="fr_143"></span>[\*](#fn_142.md) When Agathocles was
 pressing hard the siege, and hope was almost lost, no fewer that three
 hundred children of the nobles were offered to Melcarth at one and the
 same time.
@@ -281,10 +281,10 @@ talisman.
 
  
 
-<span id="img_fig10"></span> ![FIG. 10.](img/fig10.jpg)  
+<span id="img_fig10"></span> ![FIG. 10.](img/fig10.jpg.md)  
 FIG. 10.
 
-[(\*)](gar71.htm#an_fig10)
+[(\*)](gar71.htm#an_fig10.md)
 
  
 
@@ -292,15 +292,15 @@ FIG. 10.
 
 ### Footnotes
 
-<span id="fn_141"></span>[240:\*](gar34.htm#fr_142) The compound
+<span id="fn_141"></span>[240:\*](gar34.htm#fr_142.md) The compound
 Ἑπτάχρυσος is made after the same rule as the Ἑπτάχαλκος, the place in
 the wall of Athens where Sulla took the city.
 
-<span id="fn_142"></span>[241:\*](gar34.htm#fr_143) This tradition was
+<span id="fn_142"></span>[241:\*](gar34.htm#fr_143.md) This tradition was
 verified by N. Davis, who in excavating the ruins of the temple found,
 at a great depth, a thick layer of ashes mingled with burnt human bones.
 The discovery is well described in his section "Moloch and his Victims."
 
 ------------------------------------------------------------------------
 
-[Next: III. The True Abraxas Gems](gar35)
+[Next: III. The True Abraxas Gems](gar35.md)

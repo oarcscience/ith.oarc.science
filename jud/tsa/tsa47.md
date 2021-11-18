@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa46)  [Next](tsa48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa46)  [Next](tsa48.md) 
 
 ------------------------------------------------------------------------
 
@@ -180,4 +180,4 @@ Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Rabbinical Authorities Mentioned or Quoted in Text](tsa48)
+[Next: Rabbinical Authorities Mentioned or Quoted in Text](tsa48.md)

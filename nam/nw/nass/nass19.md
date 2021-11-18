@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass18)  [Next](nass20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass18)  [Next](nass20.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ stopped. His name as a shaman was Squirrel. That is the end.
 
 ------------------------------------------------------------------------
 
-[Next: Witchcraft](nass20)
+[Next: Witchcraft](nass20.md)

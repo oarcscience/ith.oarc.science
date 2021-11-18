@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip02)  [Next](fip04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip02)  [Next](fip04.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ immortal.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairies, by William Allingham](fip04)
+[Next: The Fairies, by William Allingham](fip04.md)

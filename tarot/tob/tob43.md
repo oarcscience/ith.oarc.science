@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob42) 
-[Next](tob44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob42.md) 
+[Next](tob44.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ of the phenomenon.
 If, however, we reflect that after all it is only a general force (the
 white light) which undergoes various changes, according to the quantity
 of matter with which it comes in contact (the different thicknesses of
-the prism), <span id="fr_78"></span>[1](#fn_78) we shall easily grasp
+the prism), <span id="fr_78"></span>[1](#fn_78.md) we shall easily grasp
 another aspect of the figure.
 
 In fact the work of Louis Lucas, unconsciously continued by contemporary
@@ -233,7 +233,7 @@ to the student the work of discovering a larger number.
  
 
 <span id="img_23200"></span> [![](tn/23200.jpg)  
-Click to enlarge](img/23200.jpg)
+Click to enlarge](img/23200.jpg.md)
 
 <span id="page_233">p. 233</span>
 
@@ -241,9 +241,9 @@ Click to enlarge](img/23200.jpg)
 
 ### Footnotes
 
-<span id="fn_78"></span>[226:1](tob43.htm#fr_78) See Louis Lucas, Chimie
+<span id="fn_78"></span>[226:1](tob43.htm#fr_78.md) See Louis Lucas, Chimie
 Nouvelle, chapter upon "Angulaison."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Astronomical Tarot](tob44)
+[Next: Chapter XVI. The Astronomical Tarot](tob44.md)

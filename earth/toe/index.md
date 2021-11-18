@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,19 +20,19 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](toe00)
+[Contents](#contents)    [Start Reading](toe00.md)
 
 James Hutton (1726-1797) is considered the father of modern geology.
-Although less well known than [Darwin](../../aor/darwin/index), Hutton's
+Although less well known than [Darwin](../../aor/darwin/index.md), Hutton's
 theory is one of the cornerstones of the modern rationalist view of the
 world. Hutton was one of the first scientists to propose that the Earth
 is extremely old, much older than the few thousand years that a literal
 reading of Genesis would indicate. This caused a furour much like
-Darwin's [Origin of Species](../../aor/darwin/origin/index) when it was
+Darwin's [Origin of Species](../../aor/darwin/origin/index.md) when it was
 first released.
 
 Leonardo Da Vinci had privately speculated about this two centuries
-earlier in his [notebooks](../../aor/dv/index), noting the presence of
+earlier in his [notebooks](../../aor/dv/index.md), noting the presence of
 marine fossils on the top of mountains, and estimating the huge amount
 of time it would take to carve out river valleys. But Hutton was the
 first to reject the 'Neptunian' theory of his day which saw a universal
@@ -44,7 +44,7 @@ over a long period of time.
 In later times this became couched in terms of 'Catastrophism' versus
 'Gradualism,' with the gradualists eventually winning out. This is why
 conventional geologists reject ideas such as
-[Atlantis](../../atl/index), Lemuria, or pole shifts out of hand,
+[Atlantis](../../atl/index.md), Lemuria, or pole shifts out of hand,
 working from first principles. However, 21st century geologists have
 become less prickly about the occasional catastrophic event, such as the
 Oregon Scablands, which were formed when a glacial dam broke at the end
@@ -59,7 +59,7 @@ French, make difficult reading, Hutton deserves to be better known as
 one of the makers of the modern view of the Earth.
 
 The third volume is available in [image format from Google
-Books](https://books.google.com/books?vid=OCLC42663407&id=tMcQAAAAIAAJ).
+Books](https://books.google.com/books?vid=OCLC42663407&id=tMcQAAAAIAAJ.md).
 
 ------------------------------------------------------------------------
 
@@ -67,94 +67,94 @@ Books](https://books.google.com/books?vid=OCLC42663407&id=tMcQAAAAIAAJ).
 
 ### Theory of the Earth \[1788\]
 
-[Title Page](toe00)  
-[Plates](toe01)  
-[Part I. Prospect of the Subject to be treated of.](toe02)  
+[Title Page](toe00.md)  
+[Plates](toe01.md)  
+[Part I. Prospect of the Subject to be treated of.](toe02.md)  
 [Part II. An Investigation of the Natural Operations employed in
-consolidating the Strata of the Globe](toe03)  
+consolidating the Strata of the Globe](toe03.md)  
 [Part III. Investigation of the Natural Operations employed in the
-Production of Land above the Surface of the Sea](toe04)  
-[Part IV. System of Decay and Renovation observed in the Earth](toe05)  
+Production of Land above the Surface of the Sea](toe04.md)  
+[Part IV. System of Decay and Renovation observed in the Earth](toe05.md)  
 <span id="section_001"></span>
 
 ### Theory of the Earth \[1795\], Volume I
 
-[Title Page](toe06)  
-[Plates](toe07)  
-[Contents](toe08)  
+[Title Page](toe06.md)  
+[Plates](toe07.md)  
+[Contents](toe08.md)  
 <span id="section_002"></span>
 
 ### Chapter I
 
-[Section I Prospect of the Subject to be treated of](toe09)  
+[Section I Prospect of the Subject to be treated of](toe09.md)  
 [Section II. An Investigation of the Natural Operations employed in
-consolidating the Strata of the Globe](toe10)  
+consolidating the Strata of the Globe](toe10.md)  
 [Section III. Investigation of the Natural Operations employed in the
-Production of Land above the Surface of the Sea](toe11)  
+Production of Land above the Surface of the Sea](toe11.md)  
 [Section IV. System of Decay and Renovation observed in the
-Earth](toe12)  
+Earth](toe12.md)  
 
  
 
 [Chapter II. An Examination of Mr KIRWAN'S Objections to the Igneous
-Origin of Stony Substances](toe13)  
+Origin of Stony Substances](toe13.md)  
 [Chapter III. Of Physical Systems, and Geological Theories, in
-general](toe14)  
-[Chapter IV. The Supposition of Primitive Mountains refuted](toe15)  
+general](toe14.md)  
+[Chapter IV. The Supposition of Primitive Mountains refuted](toe15.md)  
 [Chapter V. Concerning that which may be termed the Primary Part of the
-Present Earth](toe16)  
+Present Earth](toe16.md)  
 <span id="section_003"></span>
 
 ### Chapter VI.
 
 [Section I. A distinct View of the Primary and Secondary
-Strata](toe17)  
+Strata](toe17.md)  
 [Section II. The Theory confirmed from Observations made on purpose to
-elucidate the subject](toe18)  
+elucidate the subject](toe18.md)  
 
  
 
 [Chapter VII. Opinions examined with regard to Petrifaction, or Mineral
-Concretion](toe19)  
+Concretion](toe19.md)  
 <span id="section_004"></span>
 
 ### Chapter VIII
 
-[Section I. Purpose of this Inquiry](toe20)  
+[Section I. Purpose of this Inquiry](toe20.md)  
 [Section III. The Mineralogical Operations of the Earth illustrated from
-the Theory of Fossil Coal](toe21)  
+the Theory of Fossil Coal](toe21.md)  
 <span id="section_005"></span>
 
 ### Theory of the Earth \[1795\], Vol. II
 
-[Title Page](toe22)  
-[Contents](toe23)  
-[Introduction](toe24)  
+[Title Page](toe22.md)  
+[Contents](toe23.md)  
+[Introduction](toe24.md)  
 [Chapter I. Facts in confirmation of the Theory of Elevating Land above
-the Surface of the Sea](toe25)  
+the Surface of the Sea](toe25.md)  
 [Chapter II. The same Subject continued, with examples from different
-Countries](toe26)  
+Countries](toe26.md)  
 [Chapter III. Facts in confirmation of the Theory, respecting those
-Operations which re-dissolve the Surface of the Earth](toe27)  
+Operations which re-dissolve the Surface of the Earth](toe27.md)  
 [Chapter IV. The same Subject continued, in giving still farther Views
-of the Dissolution of the Earth](toe28)  
+of the Dissolution of the Earth](toe28.md)  
 [Chapter V. Facts in confirmation of the Theory respecting the
-Operations of the Earth employed in forming Soil for Plants](toe29)  
+Operations of the Earth employed in forming Soil for Plants](toe29.md)  
 [Chapter VI. A View of the Economy of Nature, and necessity of Wasting
 the Surface of the Earth, in serving the purposes of this
-World](toe30)  
+World](toe30.md)  
 [Chapter VII. The Same Subject continued, in giving a View of the
-Operations of Air and Water upon the Surface of the Land](toe31)  
+Operations of Air and Water upon the Surface of the Land](toe31.md)  
 [Chapter VIII. The present Form of the Surface of the Earth explained,
-with a View of the Operation of Time upon our Land](toe32)  
+with a View of the Operation of Time upon our Land](toe32.md)  
 [Chapter IX. The Theory Illustrated, with a View of the Summits of the
-Alps](toe33)  
+Alps](toe33.md)  
 [Chapter X. The Theory illustrated with a view of the Valleys of the
-Alps](toe34)  
+Alps](toe34.md)  
 [Chapter XI. Facts and Opinions concerning the Natural Construction of
-Mountains and Valleys](toe35)  
+Mountains and Valleys](toe35.md)  
 [Chapter XII. The Theory illustrated, by adducing examples from the
-different Quarters of the Globe](toe36)  
-[Chapter XIII. The same Subject continued](toe37)  
+different Quarters of the Globe](toe36.md)  
+[Chapter XIII. The same Subject continued](toe37.md)  
 [Chapter XIV. Summary of the Doctrine which has been now
-Illustrated](toe38)  
+Illustrated](toe38.md)  

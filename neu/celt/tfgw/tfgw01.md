@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw00)  [Next](tfgw02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw00)  [Next](tfgw02.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ Tales of the Fairies
 
 ------------------------------------------------------------------------
 
-[Next: John Connors and the Fairies](tfgw02)
+[Next: John Connors and the Fairies](tfgw02.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp21)  [Next](potp23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp21)  [Next](potp23.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ and N. E., it immediately rose to +17° F."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Arctic and Antarctic Winds](potp23)
+[Next: Chapter XIX. Arctic and Antarctic Winds](potp23.md)

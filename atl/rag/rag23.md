@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag22)  [Next](rag24) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag22)  [Next](rag24.md) 
 
 ------------------------------------------------------------------------
 
@@ -712,4 +712,4 @@ our theologies.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Fall Of The Clay And Gravel](rag24)
+[Next: Chapter X. The Fall Of The Clay And Gravel](rag24.md)

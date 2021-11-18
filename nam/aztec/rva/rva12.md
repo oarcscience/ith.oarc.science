@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva11)  [Next](rva13) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva11)  [Next](rva13.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### XII. Ayopechtli icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Cane Cana ichan, ayopechcatl cozcapantica mixiuhtoc.
 
@@ -58,4 +58,4 @@ pantheon.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Hymn to the Mother of Mortals](rva13) 
+[Next: XIII. Hymn to the Mother of Mortals](rva13.md) 

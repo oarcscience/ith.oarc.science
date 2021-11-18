@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp23)  [Next](hmvp25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp23)  [Next](hmvp25.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 
 The incarnation of Parasurāma, or Rāma with axe, was undertaken by
 Vishnu for the purpose of exterminating the Kshattriya, or Warrior
-caste, <span id="fr_158"></span>[\*](#fn_158) which had tried to assert
+caste, <span id="fr_158"></span>[\*](#fn_158.md) which had tried to assert
 its authority over the Brāhmanical. Twenty-one times Rāma is said to
 have cleared the earth of these men, but by various means some few were
 preserved alive who were able to perpetuate the race.
@@ -30,9 +30,9 @@ follow it, was the earth; and not, as in those preceding, the abode of
 the gods.
 
 The following legend of the birth of Parasurāma is from the "Vishnu
-Purāna." <span id="fr_159"></span>[\*](#fn_159) A prince named Gadhi,
+Purāna." <span id="fr_159"></span>[\*](#fn_159.md) A prince named Gadhi,
 who was himself an incarnation of Indra, had a daughter named Satyavati.
-Richika, a descendant of Bhrigu, <span id="fr_160"></span>[†](#fn_160)
+Richika, a descendant of Bhrigu, <span id="fr_160"></span>[†](#fn_160.md)
 demanded her in marriage. The king asked from the decrepit old Brāhman a
 thousand fleet white horses, each having one black ear, as a wedding
 present. These horses were obtained, by the help of Varuna, and the
@@ -59,7 +59,7 @@ this proposal, and they exchanged messes.
 
 <span id="img_16400"></span> <span align="CENTER"> [![THE PARASURĀMA
 AVATĀRA.](tn/16400.jpg)  
-Click to enlarge](img/16400.jpg)  
+Click to enlarge](img/16400.jpg.md)  
 THE PARASURĀMA AVATĀRA.  
 </span>
 
@@ -86,7 +86,7 @@ a portion of Nārāyana, the spiritual guide of the universe.
 This is all we find about Parasurāma's work in the "Vishnu Purāna." The
 story of his exploits is told at length twice over in the Mahābhārata,
 and is found in the Bhāgavata, Padma, and Agni Purānas. The following
-account is from the Mahābhārata. <span id="fr_161"></span>[\*](#fn_161)
+account is from the Mahābhārata. <span id="fr_161"></span>[\*](#fn_161.md)
 
 Jamadagni, the son of Richika (whose birth was just described), having
 married Renukā, "conducted the princess to his hermitage, and she was
@@ -125,7 +125,7 @@ these his father bestowed.
 "It happened on one occasion that, during the absence of the Rishi's
 sons, the mighty monarch Kārttavirya, the sovereign of the Haihaya
 tribe, endowed by the favour of Dattatreya <span
-id="fr_162"></span>[\*](#fn_162) with a thousand arms, and a
+id="fr_162"></span>[\*](#fn_162.md) with a thousand arms, and a
 
 <span id="page_167">p. 167</span>
 
@@ -177,7 +177,7 @@ last obsequies, and lighted the funeral pile. He then made a vow that he
 would extirpate the whole Kshattriya race. In fulfilment of which, with
 remorseless and fatal rage, he destroyed the sons of Kārttavirya; and,
 after them, whatever Kshattriyas he encountered. Thrice seven
-times <span id="fr_163"></span>[\*](#fn_163) did he clear the earth of
+times <span id="fr_163"></span>[\*](#fn_163.md) did he clear the earth of
 the Kshattriya caste. After he had cleared the world of Kshattriyas,
 their widows came to the Brāhmans, praying for offspring. The religious
 Brāhmans, free from any impulse of lust, cohabited with these women,
@@ -192,7 +192,7 @@ cut off by Parasurāma.
 In the Rāmāyana is an interesting legend in which Parasurāma, himself an
 incarnation of Vishnu, is described as meeting with Rāma Chandra, the
 next avatāra of the same deity, and in which the superiority of Rāma
-Chandra is declared. <span id="fr_164"></span>[†](#fn_164) "As King
+Chandra is declared. <span id="fr_164"></span>[†](#fn_164.md) "As King
 Dasaratha was returning to his capital with Rāma (Chandra), he was
 alarmed by the ill-omened sounds uttered by certain birds. The
 
@@ -240,7 +240,7 @@ proof could be given that Rāma too was divine?
 
 ### Footnotes
 
-<span id="fn_158"></span>[162:\*](hmvp24.htm#fr_158) There are four
+<span id="fn_158"></span>[162:\*](hmvp24.htm#fr_158.md) There are four
 chief castes or jātis of Hindus: the Brāhman, or Priestly; the
 Kshattriya, or Warrior; the Vaisya, or Merchant; and the Sudra, or
 Servant. These four classes are commonly said to have sprung
@@ -250,27 +250,27 @@ such ideas of the divine origin of caste prevailed. The four original
 castes have become subdivided into an immense number. This subdivision
 has been brought about by inter-marriage with members of other classes.
 
-<span id="fn_159"></span>[163:\*](hmvp24.htm#fr_159) Page 400.
+<span id="fn_159"></span>[163:\*](hmvp24.htm#fr_159.md) Page 400.
 
-<span id="fn_160"></span>[163:†](hmvp24.htm#fr_160) See part iii. chap.
+<span id="fn_160"></span>[163:†](hmvp24.htm#fr_160.md) See part iii. chap.
 i.
 
-<span id="fn_161"></span>[165:\*](hmvp24.htm#fr_161) "Vishnu Purāna,"
+<span id="fn_161"></span>[165:\*](hmvp24.htm#fr_161.md) "Vishnu Purāna,"
 note p. 401; and Muir, O. S. T., i. 447.
 
-<span id="fn_162"></span>[166:\*](hmvp24.htm#fr_162) A Brāhman saint in
+<span id="fn_162"></span>[166:\*](hmvp24.htm#fr_162.md) A Brāhman saint in
 whom a portion of Brahmā, Vishnu, and Siva was incarnate.
 
-<span id="fn_163"></span>[168:\*](hmvp24.htm#fr_163) The reason why
+<span id="fn_163"></span>[168:\*](hmvp24.htm#fr_163.md) The reason why
 Parasurāma had to perform his work so many times was this:—Some
 Kshattriya children were hidden from his rage amongst the other castes,
 and in time grew up to be warriors. It was when his work was effectually
 accomplished, and there was not a single Kshattriya man left, that their
 widows resorted to the Brāhmans, as noticed above.
 
-<span id="fn_164"></span>[168:†](hmvp24.htm#fr_164) Muir, O. S. T., iv.
+<span id="fn_164"></span>[168:†](hmvp24.htm#fr_164.md) Muir, O. S. T., iv.
 175.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Rāma Chandra Avatāra](hmvp25)
+[Next: 7. The Rāma Chandra Avatāra](hmvp25.md)

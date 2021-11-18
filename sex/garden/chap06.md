@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap05) 
-[Next](chap07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap05.md) 
+[Next](chap07.md) 
 
 ------------------------------------------------------------------------
 
@@ -994,4 +994,4 @@ two sperms will come together.
 ------------------------------------------------------------------------
 
 [Next: Chapter 7: Of Matters Which Are Injurious in the Act of
-Generation](chap07)
+Generation](chap07.md)

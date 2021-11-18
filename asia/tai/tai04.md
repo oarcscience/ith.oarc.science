@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](taitp) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](taitp.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,7 +190,7 @@ Andamanese.
 
 Versions of legends of the origin of fire are given by Mr Portman, in
 each of the languages of the Southern group of tribes <span
-id="fr_0"></span>[1](#fn_0).
+id="fr_0"></span>[1](#fn_0.md).
 
 All the legends relate to events that are supposed to have happened in
 the past, and deal with the doings of the ancestors of the Andamanese.
@@ -202,14 +202,14 @@ means "the father people," or the ancestors. In the South Andaman the
 ancestors are sometimes called *Čauga tabaŋa*, which is the equivalent
 of *Lau t’er-kuro*. Mr Man seems to have misunderstood the exact meaning
 of this term. He writes: "*Lači Lora-lola*, the chief of the survivors
-from the Deluge <span id="fr_1"></span>[2](#fn_1), gave, at his death,
+from the Deluge <span id="fr_1"></span>[2](#fn_1.md), gave, at his death,
 the name of *Čauga tabaŋa* to their descendants......The *Čauga tabaŋa*
 are described as fine tall men with large beards, and they are said to
 have been long lived, but, in other respects and in their mode of living
 they did not differ from the present inhabitants. The name seems to have
 been borne till comparatively recent times, as a few still living are
 said to remember having seen the last of the so-called *Čauga tabaŋa*
- <span id="fr_2"></span>[3](#fn_2)."
+ <span id="fr_2"></span>[3](#fn_2.md)."
 
 Mr Man has evidently not realised that the term *čauga* cannot be
 applied to any living Andamanese, but may be applied to every dead one.
@@ -228,7 +228,7 @@ Man formerly conversed are now *Čauga tabaŋa*, i.e. big spirits, having
 been " big men " when they were alive.
 
 Another name sometimes used in the South Andaman to denote the ancestors
-is *Tomo-la* <span id="fr_3"></span>[1](#fn_3). This word, however, is
+is *Tomo-la* <span id="fr_3"></span>[1](#fn_3.md). This word, however, is
 sometimes used in the singular to denote the mythical first man. Its use
 is thus similar to that of the name *Bilik* in the *A-Pučikwar* tribe,
 which is used both as the name of a single mythical being and also as
@@ -260,9 +260,9 @@ even in any one tribe. An *Aka-Bo* legend is as follows:
 
 <span id="page_192">p. 192</span>
 
-"The first man was *J̌utpu* <span id="fr_4"></span>[1](#fn_4). He was
+"The first man was *J̌utpu* <span id="fr_4"></span>[1](#fn_4.md). He was
 born inside the joint of a big bamboo, just like a bird in an egg <span
-id="fr_5"></span>[2](#fn_5). The bamboo split and he came out. He was a
+id="fr_5"></span>[2](#fn_5.md). The bamboo split and he came out. He was a
 little child. When it rained he made a small hut for himself and lived
 in it. He made little bows and arrows. As he grew bigger he made bigger
 huts, and bigger bows and arrows. One day he found a lump of quartz and
@@ -298,14 +298,14 @@ The association between the origin of the Andamanese and an ant's nest
 <span id="page_193">p. 193</span>
 
 \[paragraph continues\] *Tarai-era-poŋ* <span
-id="fr_6"></span>[1](#fn_6). Their children were *Tau* (the sky),
+id="fr_6"></span>[1](#fn_6). Their children were *Tau* (the sky.md),
 *B<u>o</u>to* (wind), *Piribi* (storm), and *Air* (the foam on a rough
 sea)."
 
 An entirely different legend, of which, however, I could not obtain a
 detailed version, is also found in the *Aka-J̌eru* tribe. This is to the
 effect that the first living being was Maia Čara <span
-id="fr_7"></span>[2](#fn_7). He made the earth, and caused it to be
+id="fr_7"></span>[2](#fn_7.md). He made the earth, and caused it to be
 peopled with inhabitants. He also made the sun and moon. In the last
 chapter Čara was mentioned as a mythical being associated with the sun,
 with daylight and with fine weather. One of my informants of the
@@ -327,7 +327,7 @@ by an *Aka-K<u>o</u>l* man. "When *Ta P<u>e</u>ti* (Sir Monitor Lizard)
 was *aka g<u>o</u>i* (i.e. unmarried, but having completed the
 initiation ceremonies), he went into the jungle to hunt pig. He climbed
 up a *Dipterocarpus* tree, and got stuck there <span
-id="fr_8"></span>[3](#fn_8). *Beyan* (civet-cat, *Paradoxurus*) found
+id="fr_8"></span>[3](#fn_8). *Beyan* (civet-cat, *Paradoxurus*.md) found
 him there, stuck in the tree. She released him and helped him to get
 down. The two got married. Their children were the *Tomo-la* (i.e. the
 ancestors)."
@@ -342,7 +342,7 @@ He lived at *Tomo-la-tog*. At first he had
 no wife. One day, when he was out fishing, he found a piece of black
 wood of the kind called *k<u>o</u>lotat* (*Diospyros* sp.). He found it
 in the creek, and brought it to his hut, where he put it on the little
-platform over the fire <span id="fr_9"></span>[1](#fn_9). He sat down by
+platform over the fire <span id="fr_9"></span>[1](#fn_9.md). He sat down by
 the fire and set to work over an arrow that he was making. As he bent
 over his work he did not see what was happening. By and by he heard some
 one laugh, and looked up. Then he saw that the piece of wood had turned
@@ -358,7 +358,7 @@ an *Aka-Bea* word, although it was used as given above, by an
 *A-Pučikwar* man. Mr Man translates it "cachalot." Mr Portman says that
 *kara-duku* is "crocodile," but that the cachalot, the proper name of
 which is *biriga-ta*, is also sometimes called *kara-duku* <span
-id="fr_10"></span>[2](#fn_10). The only authority for the existence of
+id="fr_10"></span>[2](#fn_10.md). The only authority for the existence of
 crocodiles in the Andamans is the statement of Mr Portman, who says that
 the natives killed one in the Middle Andaman and brought the bones to
 him. Although I was in many of the creeks of the Andamans at different
@@ -389,7 +389,7 @@ men die their spirits go up to the sky and live with *Tomo*. The man who
 gave me this version said that he did not know how *Tomo* originated,
 but was quite sure that he was not made by *Bilik*. *Tomo* came first
 and *Bilik* came afterwards. The Andamanese are all the children of
-*Tomo* <span id="fr_11"></span>[1](#fn_11).
+*Tomo* <span id="fr_11"></span>[1](#fn_11.md).
 
 In disagreement with this story, another man of the same tribe said that
 *Tomo* was made by *Bilik*. He (i.e., *Tomo*) had a wife *Mita* (Dove),
@@ -417,10 +417,10 @@ come from only two tribes, the *A-Pučikwar* and the *Aka-K<u>o</u>l*.
 
 From the *Akar-Bale* tribe I obtained the following legend. "*Puluga*
 made the first of the ancestors. He made one man and one woman called
-*Nyali* and *Irap* <span id="fr_12"></span>[1](#fn_12). He gave them
+*Nyali* and *Irap* <span id="fr_12"></span>[1](#fn_12.md). He gave them
 fire, and taught them how to hunt and fish, and how to make bows and
 arrows and baskets and nets. The place where they lived is called *Irap*
-because they lived there <span id="fr_13"></span>[2](#fn_13)."
+because they lived there <span id="fr_13"></span>[2](#fn_13.md)."
 
 Another *Akar-Bale* version is that the first man was *Da Duku* (Sir
 Monitor Lizard), and that his wife was *In Bain* (Lady Civet-cat).
@@ -465,7 +465,7 @@ he saw his wife and some of their children coming after him in a canoe;
 unwilling that they should become aware of the misfortune that had
 befallen him he upset the canoe, drowning its occupants and himself. He
 then became *kara-duku*, and the others *duku*, which are now plentiful
-in the jungles <span id="fr_14"></span>[1](#fn_14).
+in the jungles <span id="fr_14"></span>[1](#fn_14.md).
 
 In some of the preceding legends reference is made to *Biliku* or
 *Puluga*. There is a very general belief, in all parts of the islands,
@@ -630,7 +630,7 @@ both cases there is a narrow strait between the place where the
 ancestors lived and the home of *Puluga* or *Bilik*.
 
 There are a number of different legends that relate how the ancestors
-first obtained fire <span id="fr_15"></span>[1](#fn_15). In many of
+first obtained fire <span id="fr_15"></span>[1](#fn_15.md). In many of
 these legends there is a reference to *Biliku* or *Puluga*. A common
 statement in the North Andaman is that "Fire was stolen from *Biliku* by
 *Maia Tiritmo* (Sir Kingfisher)." Some of the legends give further
@@ -709,7 +709,7 @@ his wings and his tail. *Lirtit* dived
 into the water and swam with the fire to *Bet-’ra-kudu* and gave it to
 *T<u>e</u>pe*. *T<u>e</u>pe* gave fire to *Mite* (the bronze-winged
 dove). *Mite* gave it to the others <span
-id="fr_16"></span>[1](#fn_16)."
+id="fr_16"></span>[1](#fn_16.md)."
 
 An *Aka-Kede* legend of the origin of the sun may conveniently be given
 in this place, as it is connected with the possession of fire by
@@ -725,8 +725,8 @@ I did not obtain any legend of the origin of fire from the
 *Ok<u>o</u>-J̌uw<u>o</u>i* and *Aka-K<u>o</u>l* tribes, but a version
 from each of these tribes has been given by Mr Portman. A translation of
 Mr Portman's *Ok<u>o</u>-J̌uw<u>o</u>i* story is as follows <span
-id="fr_17"></span>[2](#fn_17). "*M<u>o</u>m Mirit* <span
-id="fr_18"></span>[3](#fn_18) stole a fire-brand from *Kuro-t’on-mika*
+id="fr_17"></span>[2](#fn_17.md). "*M<u>o</u>m Mirit* <span
+id="fr_18"></span>[3](#fn_18.md) stole a fire-brand from *Kuro-t’on-mika*
 while *Bilik* was sleeping. He gave the brand to the late *Leč*, who
 then made fire at *Karat-tatak-emi*."
 
@@ -759,7 +759,7 @@ red feathers on its neck. This is where it was burnt by the brand thrown
 by *Bilik*.
 
 Mr Portman gives a slightly different version from the same tribe <span
-id="fr_19"></span>[1](#fn_19). "*Bilik* was sleeping at
+id="fr_19"></span>[1](#fn_19.md). "*Bilik* was sleeping at
 *T<u>o</u>l-l’oko-tima*. *Luratut* went to bring fire. He caught hold of
 the fire, and in doing so burnt *Bilik*. *Bilik* awoke and seized some
 fire. He hit *Luratut* with the fire. Then he hit *Tarčal* (a fish) with
@@ -777,7 +777,7 @@ story is supposed to account for the bright colouring of certain species
 of fish.
 
 Mr Portman gives a somewhat similar version from the same tribe <span
-id="fr_20"></span>[2](#fn_20). *Dim-d<u>o</u>ra* (a fish), a very long
+id="fr_20"></span>[2](#fn_20). *Dim-d<u>o</u>ra* (a fish.md), a very long
 time ago, at *Keri-l’oŋ-tower*, was bringing fire from *Puluga's*
 platform (fire-place). He, taking the fire, burnt everybody with it.
 *Bolub* and *Tark<u>o</u>r* and *Biličau* fell into the sea and became
@@ -795,7 +795,7 @@ the Archipelago is called *Aga l’od-baraij*, *Aga's* village.
 
 Mr Portman gives an *Aka-Bea* legend, which, however, relates that the
 events took place at *Wota-emi* in the *A-Pučikwar* country <span
-id="fr_21"></span>[1](#fn_21).
+id="fr_21"></span>[1](#fn_21.md).
 
 "*Puluga* was asleep at *Tol-l’oko-tima*. *Luratut* came, stealing fire.
 The fire burnt *Puluga*. *Puluga* awoke. *Puluga* seized some fire.
@@ -810,11 +810,11 @@ first man, *Tomo*, gave him fire and taught him its use. *Puluga*
 obtained fire by stacking in alternate layers two kinds of wood known as
 *c<u>o</u>r* and *ber*, and then bidding the sun to come and sit on or
 near the pile until she ignited it, after which she returned to her
-place in the sky <span id="fr_22"></span>[2](#fn_22). The second version
+place in the sky <span id="fr_22"></span>[2](#fn_22.md). The second version
 is that *Puluga* came to *Tomo* with a spirit named *Lači Puŋa Ablola*
 to instruct *Tomo*, who at his direction, prepared a pyre and then
 struck it, on which the fire was kindled and *Puŋa Ablola* proceeded to
-teach him how to cook food <span id="fr_23"></span>[3](#fn_23). This
+teach him how to cook food <span id="fr_23"></span>[3](#fn_23.md). This
 legend contains an obvious contradiction. *Lači Puŋa Ablola*, as is
 shown by the name itself (*Lači* = the late), is the name of some one
 who is supposed to have lived and died and so become a spirit. Yet at
@@ -844,7 +844,7 @@ happily for those concerned, the missile missed its mark and fell near
 the very spot where the survivors were deploring their condition. As
 *Luratut* alighted in their midst at the same moment, he gained the full
 credit for having removed the chief cause of their distress <span
-id="fr_24"></span>[1](#fn_24)."
+id="fr_24"></span>[1](#fn_24.md)."
 
 We may now consider a group of legends that relate how a great
 catastrophe overwhelmed the ancestors. In many of the versions the
@@ -880,7 +880,7 @@ An *Aka-Čari* legend relates how the birds and beasts and fishes arose.
 "*Maia Dik* (Sir Prawn) once got angry and threw fire at the people (the
 ancestors). They all turned into birds and fishes. The birds flew into
 the jungle. The fishes jumped into the sea. *Maia Dik* <span
-id="fr_25"></span>[1](#fn_25) himself became a large prawn which is
+id="fr_25"></span>[1](#fn_25.md) himself became a large prawn which is
 still called by the same name." In connection with this legend it must
 be remembered that it was *Maia Dik*, according to one legend, who first
 discovered the use of fire. One version of the story said that he made
@@ -946,7 +946,7 @@ A more complete version of this story was obtained from the *Akar-Bale*
 tribe. "*Da Tigbul* (Sir Dugong) took all the people to dance at
 *Kwaičo*. *In Bain* (Lady Civet-cat) told *Da Kw<u>o</u>k<u>o</u>l* (Sir
 Tree-lizard) that people were coming from *Tar-mugu* to dance and that
-*Da Karami* <span id="fr_26"></span>[1](#fn_26) would quarrel with
+*Da Karami* <span id="fr_26"></span>[1](#fn_26.md) would quarrel with
 
 <span id="page_209">p. 209</span>
 
@@ -958,14 +958,14 @@ very angry. The people were afraid. *Tigbul* (Dugong) caught hold of
 him with such force that Tigbul fell into the sea and became a dugong.
 Then *Kočurag-boa* caught hold of *Kw<u>o</u>k<u>o</u>l* and
 *Kw<u>o</u>k<u>o</u>l* threw him into the jungle <span
-id="fr_27"></span>[1](#fn_27). *Kw<u>o</u>k<u>o</u>l* threw all the
+id="fr_27"></span>[1](#fn_27.md). *Kw<u>o</u>k<u>o</u>l* threw all the
 people into the sea or into the jungle and they became birds and beasts
 and fishes. No one could hold him. Da *Kw<u>o</u>k<u>o</u>l* went away
 to *Teb-ǰuru*. The people told *Da Berag* (Sir Crab) what had happened
 at *Kwaičo* and how no one could hold *Da Kw<u>o</u>k<u>o</u>l*. *Da
 Berag* went after him to *Teb-ǰuru*. *Da Kw<u>o</u>k<u>o</u>l* had
 covered himself with *k<u>o</u>iob* (red paint) <span
-id="fr_28"></span>[2](#fn_28). *Da Berag* pretended that he wanted some
+id="fr_28"></span>[2](#fn_28.md). *Da Berag* pretended that he wanted some
 paint to put on his upper lip, saying that he was sick. There was no
 more red paint in the place, so *Da Kw<u>o</u>k<u>o</u>l* said 'You had
 better come and take some off me.' *Da Berag* put his nose to
@@ -993,7 +993,7 @@ chorus, so, to punish them, he seized
 his bow, whereupon the whole party in terror fled in all directions;
 some escaping into the sea were changed into dugongs, porpoises, sharks,
 and various other fish which till then had not been seen <span
-id="fr_29"></span>[1](#fn_29)."
+id="fr_29"></span>[1](#fn_29.md)."
 
 Mr Man gives still another version of the same story. "One day, at the
 commencement of the rainy season, a *tomola* named *Berebi* came to
@@ -1061,7 +1061,7 @@ condition of the former; then taking *K<u>o</u>lw<u>o</u>t* by the arm
 he sniffed it from the wrist to the shoulder as if admiring the
 development of the muscles; while doing so he muttered the threat of
 staining his lips with blood, which he shortly after fulfilled in the
-manner already described <span id="fr_30"></span>[1](#fn_30)."
+manner already described <span id="fr_30"></span>[1](#fn_30.md)."
 
 As the songs given in this legend are in the *Akar-Bale* language
 (Southern dialect), it is probable that the legend is an *Akar-Bale*
@@ -1083,7 +1083,7 @@ and the water went away. The hill is called *Bain l’it-čapa* (Bain's
 fire) to the present day." The hill is a rather steep-sided hill of no
 great height in Havelock Island.
 
-Mr Portman <span id="fr_31"></span>[1](#fn_31) connects the story of the
+Mr Portman <span id="fr_31"></span>[1](#fn_31.md) connects the story of the
 flood with the story of the dispersion of the ancestors over the
 islands. Referring to the names of the tribes he says, "The Andamanese
 state that these names were given to the different tribes by *Maia
@@ -1124,7 +1124,7 @@ pairs all over the country. When this exodus occurred *Puluga* provided
 each party with a distinct dialect. It would almost seem that, without
 straining the legend to suit facts, we might discern in this a faint
 echo of the Biblical account of the confusion of tongues and dispersion
-at Babel <span id="fr_32"></span>[1](#fn_32)."
+at Babel <span id="fr_32"></span>[1](#fn_32.md)."
 
 "Consequent on the disappearance of *Tomo* and his wife, the duties of
 headship over the community at *Wota-emi* devolved on one of their
@@ -1142,7 +1142,7 @@ the catastrophe occurred, were able to effect an escape. When the waters
 subsided, they found themselves near *Wota-emi*, where they landed and
 discovered that every living thing on earth had perished; but *Puluga*
 re-created the animals, birds, etc. <span
-id="fr_33"></span>[2](#fn_33)."
+id="fr_33"></span>[2](#fn_33.md)."
 
 "When, for the second time in their history, their numbers had increased
 to so great an extent that it became impossible for them to remain
@@ -1151,7 +1151,7 @@ party being furnished with fire and every other essential, started in a
 different direction, and on settling down adopted a new and distinct
 dialect. They each received a tribal name, and from them have sprung the
 various tribes still existing on the islands <span
-id="fr_34"></span>[3](#fn_34)."
+id="fr_34"></span>[3](#fn_34.md)."
 
 In the Southern tribes there is a legend to account for the origin of
 night. The following version was obtained from the *A-Pučikwar* tribe.
@@ -1177,11 +1177,11 @@ and morning came. After that, day and night followed one another
 alternately."
 
 A similar legend was obtained from the *Akar-Bale* tribe. "*Da
-Teŋat* <span id="fr_35"></span>[1](#fn_35) lived at *Golugma Bud*. He
+Teŋat* <span id="fr_35"></span>[1](#fn_35.md) lived at *Golugma Bud*. He
 went fishing one day and got only one small fish of the kind called
 *čelau* (*Glyphidodon sordidus*?): He turned to go home, and as he went
 he shot his arrows before him into the jungle <span
-id="fr_36"></span>[2](#fn_36). Then he went after his arrows to find
+id="fr_36"></span>[2](#fn_36.md). Then he went after his arrows to find
 them again. As he went he spoke to the fruits of the jungle, asking them
 their names. In those days the ancestors did not know the names of the
 fruits and trees. First he asked the *puiam*, and then the *guluba*, and
@@ -1194,7 +1194,7 @@ not know. Why did not you say so before?' He dug up the yam, which was a
 very big one. He went off to look for his second arrow. As he went he
 spoke to the stones of the jungle, asking their names, but none of them
 replied. Then he found his second arrow fixed in a large lump of resin
-(*tug*) <span id="fr_37"></span>[3](#fn_37). He took the arrow, and as
+(*tug*) <span id="fr_37"></span>[3](#fn_37.md). He took the arrow, and as
 he was going away
 
 <span id="page_215">p. 215</span>
@@ -1245,17 +1245,17 @@ granted, as a first concession alternate periods of day and night, and
 subsequently, moved by the difficulties often occasioned by the latter,
 created the moon to mitigate their troubles. It is in this way that they
 account for the same word being used to denote a caterpillar and
-night <span id="fr_38"></span>[1](#fn_38)."
+night <span id="fr_38"></span>[1](#fn_38.md)."
 
 From the *Akar-Bale* tribe I obtained a legend about the origin of
 death. No other version of the same legend was obtained.
 
 "At *J̌<u>o</u>ŋo-l’ar-b<u>o</u>ŋ* lived *In Kalwadi* with her sons
-*Yaramurud* and *Toau* <span id="fr_39"></span>[2](#fn_39). *Yaramurud*
+*Yaramurud* and *Toau* <span id="fr_39"></span>[2](#fn_39.md). *Yaramurud*
 went to hunt pig for his mother, but was unsuccessful. When he came home
 his mother brought him some pork that was in the hut. As he took his
 knife from the back of his neck to cut the meat with it, he cut
-himself <span id="fr_40"></span>[3](#fn_40). Then his mother knew that
+himself <span id="fr_40"></span>[3](#fn_40.md). Then his mother knew that
 he was dead. She said to him 'You are dead now. You had better go away.
 We do not want you here any more.' She took him up and carried him into
 the jungle and buried him, returning home. Very soon *Yaramurud*
@@ -1267,7 +1267,7 @@ tree (*Pisonia excelsa*), in which there was a big hole. She kicked the
 tree with her foot and said 'You go in there.' *Yaramurud* went inside.
 'Well! Have you gone?' his mother asked. He answered 'Yes!' 'Tell me how
 the spirits (*čauga*) talk' she asked him, and he replied '*T<u>o</u>
-kit* <span id="fr_41"></span>[4](#fn_41).' Then his mother knew that he
+kit* <span id="fr_41"></span>[4](#fn_41.md).' Then his mother knew that he
 was with the spirits, and said 'Oh! my child, you are
 
 <span id="page_217">p. 217</span>
@@ -1292,7 +1292,7 @@ a bit of the land or making a long split. This is the origin of the
 smaller islands and the creeks."
 
 Mr Man records the same legend, but says it was *Tomo* who caught the
-fish <span id="fr_42"></span>[1](#fn_42). In an *Akar-Bale* version it
+fish <span id="fr_42"></span>[1](#fn_42.md). In an *Akar-Bale* version it
 was *Da Pečer<u>o</u>l* who caught the fish (*k<u>o</u>roŋadi*).
 *Pečer<u>o</u>l* is the bulbul (*Otocompsia emeria*). I have the name
 *k<u>o</u>roŋadi* in my notes as being *Sphyraena acutipinnis*, but the
@@ -1316,7 +1316,7 @@ wood. He made
 <span id="page_218">p. 218</span>
 
 eyes and ears and nostrils in their heads and taught them how to grunt
-and how to sneeze <span id="fr_43"></span>[1](#fn_43)."
+and how to sneeze <span id="fr_43"></span>[1](#fn_43.md)."
 
 Another version from the same tribe is as follows.
 
@@ -1342,7 +1342,7 @@ explains the origin of the dugong.
 forest and found a pig. *P<u>e</u>rǰido* was hungry. He caught the pig
 and took it home. The pig had no eyes nor ears nor mouth.
 *P<u>e</u>rǰido* did not disembowel the pig, nor did he sever the joints
-of its legs <span id="fr_44"></span>[2](#fn_44). He made a fire and put
+of its legs <span id="fr_44"></span>[2](#fn_44.md). He made a fire and put
 the pig on it. The pig swelled up in the heat of the fire and burst.
 This made holes in the pig's head, two for ears, two for eyes, two for
 nostrils. The pig perceived that it was being burnt. It jumped up from
@@ -1393,7 +1393,7 @@ the interpretation of which is
 
 'What can now strike me?  
 I am tattooed, I am tattooed!' etc. (Da capo) <span
-id="fr_45"></span>[1](#fn_45)."
+id="fr_45"></span>[1](#fn_45.md)."
 
 It would seem that Mr Man, or else his informant, was not very clear
 about the details of the legend. In the South Andaman scarification is
@@ -1418,7 +1418,7 @@ connection between *Biliku* (or *Puluga*) and the yams and other edible
 roots. There are also other legends, however, on the same subject. An
 account of the first discovery of the yam called gono is contained in
 the *Akar-Bale* legend of the origin of night, already given <span
-id="fr_46"></span>[1](#fn_46).
+id="fr_46"></span>[1](#fn_46.md).
 
 In the North Andaman the following tale is told about the discovery of
 one kind of yam.
@@ -1465,7 +1465,7 @@ in different directions; this apparent waste so angered his mother that,
 on pretence of shaving him, she split his head open with a flint. After
 his death it was found that the act for which he had suffered had tended
 to the spread of the plant which is now plentiful <span
-id="fr_47"></span>[1](#fn_47)."
+id="fr_47"></span>[1](#fn_47.md)."
 
 In the North Andaman it is supposed that honey was discovered by
 *P<u>e</u>rǰido* the son of *Biliku*.
@@ -1475,7 +1475,7 @@ fish. He saw a *nyuri* (*Plotosus* sp.). The *nyuri* disappeared amongst
 the roots of the mangrove trees. *P<u>e</u>rǰido* was looking for the
 fish. There was a honeycomb in a mangrove tree. *P<u>e</u>rǰido* saw its
 reflection in the water. He took some fire and tried to get the honey
-out of the water <span id="fr_48"></span>[2](#fn_48). The water put out
+out of the water <span id="fr_48"></span>[2](#fn_48.md). The water put out
 the fire. He could not get the honey. He went home and told his mother
 what he had been doing. She went with him and saw the honey. 'What a
 fool you are' she said, 'don't you see that it is in the trees.'
@@ -1497,7 +1497,7 @@ he ate the honey in the tree and did not bring any of it down for his
 children. Then *B<u>e</u>r<u>e</u>t* saw another honeycomb in a very
 tall tree. He pointed it out to his father. *P<u>o</u>rubi* went up to
 get it. *B<u>e</u>r<u>e</u>t* cut the creeper up which his father had
-climbed <span id="fr_49"></span>[1](#fn_49). *P<u>o</u>rubi* wrapped up
+climbed <span id="fr_49"></span>[1](#fn_49.md). *P<u>o</u>rubi* wrapped up
 the honeycomb to bring it down. *B<u>e</u>r<u>e</u>t* said 'Father, this
 creeper is bad. How will you come down?' *P<u>o</u>rubi* replied 'How
 can it be bad, when I have just climbed up it?' *B<u>e</u>r<u>e</u>t*
@@ -1516,7 +1516,7 @@ round stone (boulder) and put the people under it and left them there.
 All the people turned into stone, and may be seen there now. The next
 night some more of the people went to hunt turtle near *Maia
 P<u>o</u>rubi's* place. They caught a turtle and shouted <span
-id="fr_50"></span>[2](#fn_50). *Maia P<u>o</u>rubi* heard them shouting.
+id="fr_50"></span>[2](#fn_50.md). *Maia P<u>o</u>rubi* heard them shouting.
 'They are coming again to kill me,' he said. While they were catching
 turtle he threw a round stone at them. The stone sank the canoe. The
 canoe and the people in it were turned to stone."
@@ -1545,7 +1545,7 @@ distress was occasioned to all the birds, as well as to the rest of the
 animate creation. The success of his revenge so delighted the toad that,
 to show his satisfaction, and to add to the annoyance of his enemies, he
 thoughtlessly began to dance, whereupon all the water flowed from him,
-and the drought soon terminated <span id="fr_51"></span>[1](#fn_51)."
+and the drought soon terminated <span id="fr_51"></span>[1](#fn_51.md)."
 
 One of the incidents of the North Andaman story of the frog
 (*P<u>o</u>rubi*) and his son (*B<u>e</u>r<u>e</u>t*) appears in a
@@ -1563,7 +1563,7 @@ angry and went home. As there was nothing to eat, *Mita* and his two
 children, *Čada* and *Čoda* (two species of fish) went fishing.
 *K<u>o</u>io* was still up the tree. He was cooking the pigs up there.
 *Mita* and his children passed under the tree and some burning
-resin <span id="fr_52"></span>[2](#fn_52) fell on them. In this way they
+resin <span id="fr_52"></span>[2](#fn_52.md) fell on them. In this way they
 discovered that *K<u>o</u>io* was in the tree. *Mita* planned to punish
 *K<u>o</u>io*. He cut a great number of sharp stakes of Areca wood and
 fixed them all round the tree, pointing upwards. *K<u>o</u>io* was
@@ -1616,7 +1616,7 @@ bridge, where, by *Puluga's* orders, numbers of his
 <span id="page_225">p. 225</span>
 
 descendants were sent to join him, in the form of black birds with long
-tails <span id="fr_53"></span>[1](#fn_53)."
+tails <span id="fr_53"></span>[1](#fn_53.md)."
 
 In reference to this version it may be noted that the Col are not
 "spirits" if that word is used to translate the native term *čauga* or
@@ -1689,7 +1689,7 @@ when they were missed and searched for, it was found that they had gone
 to the shore to fish, and had there met a sad fate; the body of one was
 discovered adhering to a large boulder, and turned into stone, while the
 other, likewise in a state of petrifaction, was standing erect beside
-it <span id="fr_54"></span>[1](#fn_54)."
+it <span id="fr_54"></span>[1](#fn_54.md)."
 
 A reef on the east side of Ritchie's Archipelago is said to have
 originated as follows.
@@ -1701,7 +1701,7 @@ and formed the reefs that are now there."
 
 I believe that the explanation of this story is the belief that the moon
 is angry when a bright fire is visible at the time when he rises in the
-evening shortly after sunset <span id="fr_55"></span>[2](#fn_55).
+evening shortly after sunset <span id="fr_55"></span>[2](#fn_55.md).
 
 <span id="page_227">p. 227</span>
 
@@ -1762,21 +1762,21 @@ his hut in the tree."
 
 ### Footnotes
 
-<span id="fn_0"></span>[190:1](tai04.htm#fr_0) Portman, Notes on the
+<span id="fn_0"></span>[190:1](tai04.htm#fr_0.md) Portman, Notes on the
 Languages, etc. p. 97.
 
-<span id="fn_1"></span>[190:2](tai04.htm#fr_1) The legend will be given
+<span id="fn_1"></span>[190:2](tai04.htm#fr_1.md) The legend will be given
 later.
 
-<span id="fn_2"></span>[190:3](tai04.htm#fr_2) Man, *op. cit.* p. 169.
+<span id="fn_2"></span>[190:3](tai04.htm#fr_2.md) Man, *op. cit.* p. 169.
 
-<span id="fn_3"></span>[191:1](tai04.htm#fr_3) The suffix -*la* is added
+<span id="fn_3"></span>[191:1](tai04.htm#fr_3.md) The suffix -*la* is added
 to personal names and to terms of address in order to express respect.
 
-<span id="fn_4"></span>[192:1](tai04.htm#fr_4) The name seems to mean
+<span id="fn_4"></span>[192:1](tai04.htm#fr_4.md) The name seems to mean
 "alone."
 
-<span id="fn_5"></span>[192:2](tai04.htm#fr_5) The giant bamboo does not
+<span id="fn_5"></span>[192:2](tai04.htm#fr_5.md) The giant bamboo does not
 grow in the Andamans, but pieces of it are often drifted ashore, having
 come from the coast of Burma. The natives pick up these drift-wood
 bamboos and make buckets of them. It is possible that the bamboo from
@@ -1784,166 +1784,166 @@ which the first man was born was just such a piece drifted up from the
 sea. Unfortunately I neglected to enquire on this point when taking down
 the legend.
 
-<span id="fn_6"></span>[193:1](tai04.htm#fr_6) The meaning of the name
+<span id="fn_6"></span>[193:1](tai04.htm#fr_6.md) The meaning of the name
 is "the cave of *Tarai*"; I believe that this is the name of a spot in
 the *Aka-J̌eru* country.
 
-<span id="fn_7"></span>[193:2](tai04.htm#fr_7) The meaning of the name
+<span id="fn_7"></span>[193:2](tai04.htm#fr_7.md) The meaning of the name
 was not discovered.
 
-<span id="fn_8"></span>[193:3](tai04.htm#fr_8) The lizard was caught in
+<span id="fn_8"></span>[193:3](tai04.htm#fr_8.md) The lizard was caught in
 some way by his genital organs, but I was' unable to understand the
 story completely.
 
-<span id="fn_9"></span>[194:1](tai04.htm#fr_9) This is the small
+<span id="fn_9"></span>[194:1](tai04.htm#fr_9.md) This is the small
 platform of sticks placed near or above the fire, on which the natives
 keep their food, and on which they often place objects that they desire
 to dry.
 
-<span id="fn_10"></span>[194:2](tai04.htm#fr_10) *Notes on the
+<span id="fn_10"></span>[194:2](tai04.htm#fr_10.md) *Notes on the
 Languages*, etc. p. 227.
 
-<span id="fn_11"></span>[195:1](tai04.htm#fr_11) When an old man of the
+<span id="fn_11"></span>[195:1](tai04.htm#fr_11.md) When an old man of the
 *A-Pučikwar* tribe was giving me the information repeated above, an
 Andamanese man was with us who had been brought up as a Christian and
 had some knowledge of the doctrines of that faith. He explained to me
 that *Tomo* is the equivalent of the Christian God. This man belonged to
 the *Akar-Bale* tribe.
 
-<span id="fn_12"></span>[196:1](tai04.htm#fr_12) These names are common
+<span id="fn_12"></span>[196:1](tai04.htm#fr_12.md) These names are common
 personal names among the aborigines of the present day. Mr Portman
 derives *Nyali* from *nam-da*, the name of a tree, and *Irap* from
 *pira-da* meaning "scattered," but these derivations are far from being
 authenticated. (Portman, *Notes on the Languages of the South Andaman
 Group of Tribes*, p. 70.)
 
-<span id="fn_13"></span>[196:2](tai04.htm#fr_13) The place called *Irap*
+<span id="fn_13"></span>[196:2](tai04.htm#fr_13.md) The place called *Irap*
 is at the north end of Havelock Island.
 
-<span id="fn_14"></span>[197:1](tai04.htm#fr_14) Man, *op. cit.* p. 164.
+<span id="fn_14"></span>[197:1](tai04.htm#fr_14.md) Man, *op. cit.* p. 164.
 
-<span id="fn_15"></span>[201:1](tai04.htm#fr_15) Until the settlement of
+<span id="fn_15"></span>[201:1](tai04.htm#fr_15.md) Until the settlement of
 Europeans on the islands the Andamanese had no knowledge of any means of
 producing fire. It is necessary to remember this to understand some of
 their legends which relate how in the time of the ancestors the fire was
 very nearly lost in a heavy storm.
 
-<span id="fn_16"></span>[203:1](tai04.htm#fr_16) I understood that
+<span id="fn_16"></span>[203:1](tai04.htm#fr_16.md) I understood that
 *Lirtit*, by the loss of his wings and tail, became a man.
 
-<span id="fn_17"></span>[203:2](tai04.htm#fr_17) Portman, *loc. cit*.
+<span id="fn_17"></span>[203:2](tai04.htm#fr_17.md) Portman, *loc. cit*.
 
-<span id="fn_18"></span>[203:3](tai04.htm#fr_18) *Mom* is a title
+<span id="fn_18"></span>[203:3](tai04.htm#fr_18.md) *Mom* is a title
 indicating respect, and *Mirit* is the imperial pigeon.
 
-<span id="fn_19"></span>[204:1](tai04.htm#fr_19) Portman, *loc. cit*.
+<span id="fn_19"></span>[204:1](tai04.htm#fr_19.md) Portman, *loc. cit*.
 
-<span id="fn_20"></span>[204:2](tai04.htm#fr_20) *Ibid*.
+<span id="fn_20"></span>[204:2](tai04.htm#fr_20.md) *Ibid*.
 
-<span id="fn_21"></span>[205:1](tai04.htm#fr_21) Portman, *loc. cit*.
+<span id="fn_21"></span>[205:1](tai04.htm#fr_21.md) Portman, *loc. cit*.
 
-<span id="fn_22"></span>[205:2](tai04.htm#fr_22) Man, *op. cit.* p. 164.
+<span id="fn_22"></span>[205:2](tai04.htm#fr_22.md) Man, *op. cit.* p. 164.
 
-<span id="fn_23"></span>[205:3](tai04.htm#fr_23) *Ibid*.
+<span id="fn_23"></span>[205:3](tai04.htm#fr_23.md) *Ibid*.
 
-<span id="fn_24"></span>[206:1](tai04.htm#fr_24) Man, *op. cit.* p. 167.
+<span id="fn_24"></span>[206:1](tai04.htm#fr_24.md) Man, *op. cit.* p. 167.
 
-<span id="fn_25"></span>[207:1](tai04.htm#fr_25) *Dik* was one of the
+<span id="fn_25"></span>[207:1](tai04.htm#fr_25.md) *Dik* was one of the
 ancestors. He was a giant and was so big that he could go into the
 deepest water and never needed a canoe. He used to shoot dugong and
 porpoise with his bow and arrow. (The natives shoot small fish with a
 bow and arrows, but large fish and dugong and porpoise they take with
 harpoons.)
 
-<span id="fn_26"></span>[208:1](tai04.htm#fr_26) *Karami* is the name of
+<span id="fn_26"></span>[208:1](tai04.htm#fr_26.md) *Karami* is the name of
 a bird that was not identified.
 
-<span id="fn_27"></span>[209:1](tai04.htm#fr_27) *Kočurag-boa* is the
+<span id="fn_27"></span>[209:1](tai04.htm#fr_27.md) *Kočurag-boa* is the
 *Akar-Bale* name for a huge legendary animal.
 
-<span id="fn_28"></span>[209:2](tai04.htm#fr_28) When a man has killed
+<span id="fn_28"></span>[209:2](tai04.htm#fr_28.md) When a man has killed
 another, either in a personal or a tribal quarrel, he has to observe
 several customs of which one is to keep himself painted with red paint
 for several weeks.
 
-<span id="fn_29"></span>[210:1](tai04.htm#fr_29) Man, *op. cit.* p. 171.
+<span id="fn_29"></span>[210:1](tai04.htm#fr_29.md) Man, *op. cit.* p. 171.
 
-<span id="fn_30"></span>[211:1](tai04.htm#fr_30) Man, *op. cit.* pp.
+<span id="fn_30"></span>[211:1](tai04.htm#fr_30.md) Man, *op. cit.* pp.
 167-169.
 
-<span id="fn_31"></span>[212:1](tai04.htm#fr_31) *Notes on the
+<span id="fn_31"></span>[212:1](tai04.htm#fr_31.md) *Notes on the
 Languages*, etc. p. 27.
 
-<span id="fn_32"></span>[213:1](tai04.htm#fr_32) Man, *op. cit.* p. 166.
+<span id="fn_32"></span>[213:1](tai04.htm#fr_32.md) Man, *op. cit.* p. 166.
 
-<span id="fn_33"></span>[213:2](tai04.htm#fr_33) Ibid.
+<span id="fn_33"></span>[213:2](tai04.htm#fr_33.md) Ibid.
 
-<span id="fn_34"></span>[213:3](tai04.htm#fr_34) Man, *op. cit.* p. 169.
+<span id="fn_34"></span>[213:3](tai04.htm#fr_34.md) Man, *op. cit.* p. 169.
 
-<span id="fn_35"></span>[214:1](tai04.htm#fr_35) This is the name of
+<span id="fn_35"></span>[214:1](tai04.htm#fr_35.md) This is the name of
 some creature that I did not identify, perhaps a kind of spider.
 
-<span id="fn_36"></span>[214:2](tai04.htm#fr_36) An Andaman Islander
+<span id="fn_36"></span>[214:2](tai04.htm#fr_36.md) An Andaman Islander
 will often, when walking along the shore, shoot his arrows before him,
 either aiming at some object, or trying to send each one as far as
 possible. I have never seen them do this in the jungle, for they might
 easily lose the arrows.
 
-<span id="fn_37"></span>[214:3](tai04.htm#fr_37) The Andamanese classify
+<span id="fn_37"></span>[214:3](tai04.htm#fr_37.md) The Andamanese classify
 resin as a "stone" although they know its vegetable origin.
 
-<span id="fn_38"></span>[216:1](tai04.htm#fr_38) Man, *op. cit.* p. 175.
+<span id="fn_38"></span>[216:1](tai04.htm#fr_38.md) Man, *op. cit.* p. 175.
 
-<span id="fn_39"></span>[216:2](tai04.htm#fr_39) *Kalwadi* is a small
+<span id="fn_39"></span>[216:2](tai04.htm#fr_39.md) *Kalwadi* is a small
 crab, *yaramurud* is the crow pheasant (*Centropus andamanensis*), and
 *toau* is the hawksbill turtle.
 
-<span id="fn_40"></span>[216:3](tai04.htm#fr_40) Knives are generally
+<span id="fn_40"></span>[216:3](tai04.htm#fr_40.md) Knives are generally
 carried slipped into a string that is tied round the neck, the knife,
 with a skewer of sharpened wood that is attached to it, hanging at the
 back of the neck, where it is easily accessible and not likely to get
 lost.
 
-<span id="fn_41"></span>[216:4](tai04.htm#fr_41) I could obtain no
+<span id="fn_41"></span>[216:4](tai04.htm#fr_41.md) I could obtain no
 explanation of the phrase, or word, *t<u>o</u> kit*. My informant only
 said "That is the way the spirits talk."
 
-<span id="fn_42"></span>[217:1](tai04.htm#fr_42) Man, *op. cit.* p. 165.
+<span id="fn_42"></span>[217:1](tai04.htm#fr_42.md) Man, *op. cit.* p. 165.
 
-<span id="fn_43"></span>[218:1](tai04.htm#fr_43) The sneezing (the word
+<span id="fn_43"></span>[218:1](tai04.htm#fr_43.md) The sneezing (the word
 is translated literally) is a sort of whistling noise that the wild pigs
 make when they suspect danger.
 
-<span id="fn_44"></span>[218:2](tai04.htm#fr_44) The Andamanese always
+<span id="fn_44"></span>[218:2](tai04.htm#fr_44.md) The Andamanese always
 disembowel a pig and sever the joints of its legs before they place it
 on a fire.
 
-<span id="fn_45"></span>[219:1](tai04.htm#fr_45) Man, *op. cit.* p. 170.
+<span id="fn_45"></span>[219:1](tai04.htm#fr_45.md) Man, *op. cit.* p. 170.
 
-<span id="fn_46"></span>[220:1](tai04.htm#fr_46) Page 214.
+<span id="fn_46"></span>[220:1](tai04.htm#fr_46.md) Page 214.
 
-<span id="fn_47"></span>[221:1](tai04.htm#fr_47) Man, *op. cit.* p. 170.
+<span id="fn_47"></span>[221:1](tai04.htm#fr_47.md) Man, *op. cit.* p. 170.
 
-<span id="fn_48"></span>[221:2](tai04.htm#fr_48) In taking a honeycomb
+<span id="fn_48"></span>[221:2](tai04.htm#fr_48.md) In taking a honeycomb
 the natives often drive away the bees with fire or smoke.
 
-<span id="fn_49"></span>[222:1](tai04.htm#fr_49) In climbing a tall tree
+<span id="fn_49"></span>[222:1](tai04.htm#fr_49.md) In climbing a tall tree
 the Andamanese choose a stout cane or other creeper depending from one
 of the branches of the tree, and climb up it.
 
-<span id="fn_50"></span>[222:2](tai04.htm#fr_50) The natives express
+<span id="fn_50"></span>[222:2](tai04.htm#fr_50.md) The natives express
 their joy at a success in hunting by shouting.
 
-<span id="fn_51"></span>[223:1](tai04.htm#fr_51) Man, *op. cit.* p. 173.
+<span id="fn_51"></span>[223:1](tai04.htm#fr_51.md) Man, *op. cit.* p. 173.
 
-<span id="fn_52"></span>[223:2](tai04.htm#fr_52) The narrator said
+<span id="fn_52"></span>[223:2](tai04.htm#fr_52.md) The narrator said
 "resin." The *Dipterocarpus* tree does not produce resin, but a sort of
 oil. The marks on the two fishes owe their origin to this incident.
 
-<span id="fn_53"></span>[225:1](tai04.htm#fr_53) Man, *op. cit.* p. 173.
+<span id="fn_53"></span>[225:1](tai04.htm#fr_53.md) Man, *op. cit.* p. 173.
 
-<span id="fn_54"></span>[226:1](tai04.htm#fr_54) Man, *op. cit.* p. 169.
+<span id="fn_54"></span>[226:1](tai04.htm#fr_54.md) Man, *op. cit.* p. 169.
 
-<span id="fn_55"></span>[226:2](tai04.htm#fr_55) Vide supra, p. 142.
+<span id="fn_55"></span>[226:2](tai04.htm#fr_55.md) Vide supra, p. 142.
 
  

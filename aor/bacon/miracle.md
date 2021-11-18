@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Age of Reason](../index) 
-[Roger Bacon](index)
+[Intangible Textual Heritage](../../index)  [Age of Reason](../index.md) 
+[Roger Bacon](index.md)
 
 ------------------------------------------------------------------------
 

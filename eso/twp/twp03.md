@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp02)  [Next](twp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp02)  [Next](twp04.md) 
 
 ------------------------------------------------------------------------
 
@@ -351,4 +351,4 @@ difference can be seen and felt very easily.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](twp04)
+[Next: Chapter II](twp04.md)

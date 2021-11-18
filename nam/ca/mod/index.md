@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,9 +14,9 @@ American](../../index)  [California](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](mod00)  
-[The Mythology of the Diegueños](mod01)  
-[The Story of the Creation](mod02)  
-[The Fly at the Council](mod03)  
-[The Impiety of the Frog](mod04)  
-[The Fiesta Of The Death Of Tu-chai-pai](mod05)  
+[Title Page](mod00.md)  
+[The Mythology of the Diegueños](mod01.md)  
+[The Story of the Creation](mod02.md)  
+[The Fly at the Council](mod03.md)  
+[The Impiety of the Frog](mod04.md)  
+[The Fiesta Of The Death Of Tu-chai-pai](mod05.md)  

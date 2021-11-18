@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas087n)  [Next](jas089n)   
- \[[88. The Two Bulls.](jas088)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas087n)  [Next](jas089n.md)   
+ \[[88. The Two Bulls.](jas088.md)\]
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ For the tossing trick, see number 69.
 
 ------------------------------------------------------------------------
 
-[Next: Note 89. Ballinder Bull.](jas089n)
+[Next: Note 89. Ballinder Bull.](jas089n.md)

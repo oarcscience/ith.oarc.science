@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi027)  [Next](mtsi029) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi027)  [Next](mtsi029.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ that pond. It was a fearful place and about it were snakes of all sorts.
 
 ------------------------------------------------------------------------
 
-[Next: 27. The Man Who Became A Snake (Fifth Version)](mtsi029)
+[Next: 27. The Man Who Became A Snake (Fifth Version)](mtsi029.md)

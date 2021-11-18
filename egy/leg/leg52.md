@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg51)  [Next](leg53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg51)  [Next](leg53.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ presumption, and impiety and injustice.\]
 
 ------------------------------------------------------------------------
 
-[Next: Section XXV: Second Explanation of the Story](leg53)
+[Next: Section XXV: Second Explanation of the Story](leg53.md)

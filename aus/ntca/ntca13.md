@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca12)  [Next](ntca14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca12)  [Next](ntca14.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ F. J. Gillen \[1899\], at Intangible Textual Heritage
 
 <span id="page_423">p. 423</span>
 
-# Chapter XI <span id="fr_149"></span>[\*](#fn_149) Traditions Dealing with the Origin of the Alcheringa Ancestors of the Arunta Tribe and with Particular Customs (Continued)
+# Chapter XI <span id="fr_149"></span>[\*](#fn_149) Traditions Dealing with the Origin of the Alcheringa Ancestors of the Arunta Tribe and with Particular Customs (Continued.md)
 
 **The Udnirringita totem—Alice Springs group consists of forty
 individuals at the present day—Emily Gap the centre of the
@@ -262,7 +262,7 @@ id="page_431">p. 431</span> reached the entrance to the Jessie Gap,
 where they saw a number of witchetty men, amongst whom was a Bulthara
 named Kakathurika, who warned them not to approach any nearer to the gap
 and whose descendant is now the Alatunja of that group of the
-totem. <span id="fr_150"></span>[1](#fn_150)
+totem. <span id="fr_150"></span>[1](#fn_150.md)
 
 Then they journeyed on to Laliknika on the Emily Creek about four miles
 north of the gap, where they painted *Ilkinia* on their bodies and left
@@ -329,7 +329,7 @@ undattha* and then went on to Arurumbya, where they found erected the
 *Nurtunja* of a Bulthara <span id="page_433">p. 433</span> man named
 Akwithaka, of the bandicoot totem. The bandicoot woman here painted her
 Unjiamba companion with *Quirra undattha* <span
-id="fr_151"></span>[1](#fn_151) and so caused her to change her totem to
+id="fr_151"></span>[1](#fn_151.md) and so caused her to change her totem to
 Quirra, after which, the tradition says, she fed exclusively on
 bandicoot. The owner of the *Nurtunja* was absent searching for
 bandicoot, and they did not see him, but, being afraid lest he should
@@ -752,7 +752,7 @@ natives, and it is believed that old men visiting the stone can, by
 means of rubbing it and muttering a request to the contained
 *Arungquiltha*, or evil influence, to go out, cause the disease to be
 communicated to any individual or even group of men whom they desire to
-injure. <span id="fr_152"></span>[1](#fn_152)
+injure. <span id="fr_152"></span>[1](#fn_152.md)
 
 THE SNAKE OF IMYUNGA
 
@@ -959,11 +959,11 @@ represented by two men who danced around a lizard man.
 
 ### Footnotes
 
-<span id="fn_149"></span>[423:\*](ntca13.htm#fr_149) A folding map
+<span id="fn_149"></span>[423:\*](ntca13.htm#fr_149.md) A folding map
 referring to this chapter is attached to the inside back cover of this
 book.
 
-<span id="fn_150"></span>[431:1](ntca13.htm#fr_150) This warning on the
+<span id="fn_150"></span>[431:1](ntca13.htm#fr_150.md) This warning on the
 part of Intwailiuka at the Emily Gap, and of Kakathurika at the Jessie
 Gap appears to indicate the exclusive right over a particular area of
 country which was claimed by, and accorded to, the inhabitants of that
@@ -974,12 +974,12 @@ to a camp, never thinks of going straight up to it, but sits down at
 some little distance and then waits until he is invited to come forward
 by the old men.
 
-<span id="fn_151"></span>[433:1](ntca13.htm#fr_151) *Quirra undattha* is
+<span id="fn_151"></span>[433:1](ntca13.htm#fr_151.md) *Quirra undattha* is
 bird's down which has been used for decoration in connection with a
 sacred ceremony of the Quirra or bandicoot totem and has thus become
 identified with the latter.
 
-<span id="fn_152"></span>[444:1](ntca13.htm#fr_152) The disease is one
+<span id="fn_152"></span>[444:1](ntca13.htm#fr_152.md) The disease is one
 which is common amongst young people, only attacking each individual
 once. It affects only the glands of the part of the body in the
 neighbourhood of the sore. At first sight it has much the appearance of
@@ -992,4 +992,4 @@ anal region, under the arms or legs, or close to the mouth.
 [Next: Chapter XII. Customs Concerned with Knocking out of Teeth;
 Nose-Boring; Growth of Breasts; Blood, Blood-Letting, Blood-Giving,
 Blood-Drinking; Hair; Childbirth; Food Restrictions;
-Cannibalism](ntca14)
+Cannibalism](ntca14.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm33)  [Next](tgm35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm33)  [Next](tgm35.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ When all were seated and waiting impatiently,
 <span id="img_18600"></span>
 
 [![](tn/18600.jpg)  
-Click to enlarge](img/18600.jpg)
+Click to enlarge](img/18600.jpg.md)
 
  
 
@@ -180,4 +180,4 @@ those three years than others do in a whole lifetime.
 
 ------------------------------------------------------------------------
 
-[Next: 32. Not for his Crown](tgm35)
+[Next: 32. Not for his Crown](tgm35.md)

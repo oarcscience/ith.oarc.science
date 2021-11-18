@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](toa14)  [Next](toa16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](toa14)  [Next](toa16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Treasure of Atlantis*, by J. Allan Dunn, \[1916\], at Intangible
 Textual Heritage
 
@@ -125,7 +125,7 @@ initial force remained on their feet. The survivors were wounded,
 bruised, almost too weary to lift their weapons. Twenty boats were on
 the lake, bringing certain death closer at every oar pull.
 
-In the breathing space [allotted](errata.htm#18) by fate they greeted
+In the breathing space [allotted](errata.htm#18.md) by fate they greeted
 each other with grim smiles. The two priestesses stood close to the men
 they had chosen over their vows, and Laidlaw surveyed them with looks of
 kindly sympathy. The scientist looked like a Viking warrior,
@@ -272,6 +272,6 @@ far as I'm concerned, I have the treasure of Atlantis."
 
 ------------------------------------------------------------------------
 
-[Next: Advertisement](toa16)
+[Next: Advertisement](toa16.md)
 
 </div>

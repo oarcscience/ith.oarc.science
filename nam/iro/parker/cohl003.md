@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl002)  [Next](cohl004) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl002)  [Next](cohl004.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,9 +158,9 @@ to the duties of his office, as the spiritual guide and teacher of the
 Iroquois."
 
 Morgan gives a full account of the recitation of Sosehawa at the
-mourning council at Tonawanda in 1848 <span id="fr_3"></span>[1](#fn_3)
+mourning council at Tonawanda in 1848 <span id="fr_3"></span>[1](#fn_3.md)
 and credits the translation to Sosehawa's grandson, Ely S. Parker
-(Ha-sa-no-an-da). <span id="fr_4"></span>[2](#fn_4)
+(Ha-sa-no-an-da). <span id="fr_4"></span>[2](#fn_4.md)
 
 During the prophet's four years' stay at Tonawanda he became many times
 discouraged, "reluctant to tell," and though the people gradually became
@@ -231,13 +231,13 @@ argument of his followers.
 
 ### Footnotes
 
-<span id="fn_3"></span>[12:1](cohl003.htm#fr_3) Morgan, League, p. 233,
+<span id="fn_3"></span>[12:1](cohl003.htm#fr_3.md) Morgan, League, p. 233,
 Rochester, 1851.
 
-<span id="fn_4"></span>[12:2](cohl003.htm#fr_4) Later known as
+<span id="fn_4"></span>[12:2](cohl003.htm#fr_4.md) Later known as
 Dionî'hogä'wê, *Door Keeper*, a sachem of the Seneca. Parker was
 Morgan's collaborator in writing the League of the Iroquois.
 
 ------------------------------------------------------------------------
 
-[Next: Present Effects of Handsome Lake's Teaching](cohl004)
+[Next: Present Effects of Handsome Lake's Teaching](cohl004.md)

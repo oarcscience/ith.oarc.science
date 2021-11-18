@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai06)  [Next](jai08) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai06)  [Next](jai08.md) 
 
 ------------------------------------------------------------------------
 
@@ -694,4 +694,4 @@ of filial piety in every home.
 
 ------------------------------------------------------------------------
 
-[Next: Developments of Shintô](jai08)
+[Next: Developments of Shintô](jai08.md)

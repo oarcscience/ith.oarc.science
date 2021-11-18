@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../tgv/tgv) 
-[Previous](tem)  [Next](mww) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../tgv/tgv.md) 
+[Previous](tem)  [Next](mww.md) 
 
 ------------------------------------------------------------------------
 
@@ -3072,4 +3072,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Merry Wiues of Windsor](mww) 
+[Next: The Merry Wiues of Windsor](mww.md) 

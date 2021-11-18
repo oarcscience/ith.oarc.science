@@ -1,10 +1,10 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](cap03)  [Next](cap05) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](cap03)  [Next](cap05.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_05"></span> [![](tn/05.jpg)  
-Click to enlarge](img/05.jpg)  
+Click to enlarge](img/05.jpg.md)  
 Zephyrus Wafts the Sisters
 
 # Part III.
@@ -275,4 +275,4 @@ might with more joy pass the nights in pleasure?
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](cap05)
+[Next: Part IV](cap05.md)

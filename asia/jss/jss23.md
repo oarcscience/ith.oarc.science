@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss22)  [Next](jss24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss22)  [Next](jss24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -387,7 +387,7 @@ uncle and the nephew.
 "I greet thee, and am glad that thou hast gained a great victory," said
 Zaton; and he stretched out his hand.
 
-[Húnkuvai](errata.htm#3) would not take it.
+[Húnkuvai](errata.htm#3.md) would not take it.
 
 "While thou wert gone two sons were born to thee. They were born only
 four days ago."
@@ -423,19 +423,19 @@ nephew revive. He sat there day and night and waited. On the third
 
 <span id="img_21400"></span> <span align="CENTER"> [![VILLAGE OF
 ALAGUERSK-ROD IN SIBERIA.](tn/21400.jpg)  
-Click to enlarge](img/21400.jpg)  
+Click to enlarge](img/21400.jpg.md)  
 VILLAGE OF ALAGUERSK-ROD IN SIBERIA.  
 </span>
 
-*Page* [76](jss10.htm#page_76)
+*Page* [76](jss10.htm#page_76.md)
 
 <span id="img_21401"></span> <span align="CENTER"> [![A GROUP OF
 UNMARRIED MONGOL WOMEN OR YOUNG LADIES IN USTURDI](tn/21401.jpg)  
-Click to enlarge](img/21401.jpg)  
+Click to enlarge](img/21401.jpg.md)  
 A GROUP OF UNMARRIED MONGOL WOMEN OR YOUNG LADIES IN USTURDI  
 </span>
 
-*Page* [82](jss10.htm#page_82)
+*Page* [82](jss10.htm#page_82.md)
 
  
 
@@ -742,4 +742,4 @@ for many days.
 
 ------------------------------------------------------------------------
 
-[Next: Varhan Tulai Hubun](jss24)
+[Next: Varhan Tulai Hubun](jss24.md)

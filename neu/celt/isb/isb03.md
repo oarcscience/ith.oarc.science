@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb02)  [Next](isb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb02)  [Next](isb04.md) 
 
 ------------------------------------------------------------------------
 
@@ -392,4 +392,4 @@ wooden bridge to Waterford.
 
 ------------------------------------------------------------------------
 
-[Next: From Waterford to Cork](isb04)
+[Next: From Waterford to Cork](isb04.md)

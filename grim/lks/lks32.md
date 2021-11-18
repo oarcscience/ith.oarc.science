@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks31)  [Next](lks33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks31)  [Next](lks33.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ glory shall be; whose end cannot be.
 
 ------------------------------------------------------------------------
 
-[Next: Ye Fyrste Conjouratioun](lks33)
+[Next: Ye Fyrste Conjouratioun](lks33.md)

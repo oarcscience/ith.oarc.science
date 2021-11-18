@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf20) [Next](bulf22) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf20) [Next](bulf22.md) 
 
 # CHAPTER XXII.
 
@@ -395,4 +395,4 @@ luxurious, says:
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXIII. Achelous And Hercules- Admetus And Alcestis-
-Antigone- Penelope.](bulf22)
+Antigone- Penelope.](bulf22.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo22)  [Next](beo24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo22)  [Next](beo24.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ continues to be a favorite adjective in the popular ballads.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXIII](beo24)
+[Next: Part XXIII](beo24.md)

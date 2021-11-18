@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](ncm4) [Next](ncm6)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](ncm4) [Next](ncm6.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ American](../../index) [Navajo](../index)
 
 ## NAVAJO CEREMONIAL SONGS
 
-### 1. S<span class="small">ONG OF THE</span> E<span class="small">THKAY-NAH-ASHI</span><span id="page_129_fr_*"></span>[\*](#page_129_note_*)
+### 1. S<span class="small">ONG OF THE</span> E<span class="small">THKAY-NAH-ASHI</span><span id="page_129_fr_*"></span>[\*](#page_129_note_*.md)
 
 <table data-align="center">
 <colgroup>
@@ -81,7 +81,7 @@ That which is good<br />
 
 <span id="page_131">p. 131</span>
 
-### 2. S<span class="small">ONG OF THE</span> F<span class="small">LOOD</span><span id="page_131_fr_*"></span>[\*](#page_131_note_*)
+### 2. S<span class="small">ONG OF THE</span> F<span class="small">LOOD</span><span id="page_131_fr_*"></span>[\*](#page_131_note_*.md)
 
 <table data-align="center">
 <colgroup>
@@ -1005,7 +1005,7 @@ She moves, she moves.<br />
 
 <span id="page_153">p. 153</span>
 
-### 23. S<span class="small">ECOND</span> S<span class="small">ONG OF THE</span> P<span class="small">UBERTY</span> C<span class="small">EREMONY</span><span id="page_153_fr_*"></span>[\*](#page_153_note_*)
+### 23. S<span class="small">ECOND</span> S<span class="small">ONG OF THE</span> P<span class="small">UBERTY</span> C<span class="small">EREMONY</span><span id="page_153_fr_*"></span>[\*](#page_153_note_*.md)
 
 <table data-align="center">
 <colgroup>
@@ -1049,7 +1049,7 @@ She moves, she moves.<br />
 
 <span id="page_154">p. 154</span>
 
-### 24. T<span class="small">HE</span> O<span class="small">LD</span> A<span class="small">GE</span> S<span class="small">PIRITS</span><span id="page_154_fr_*"></span>[\*](#page_154_note_*)
+### 24. T<span class="small">HE</span> O<span class="small">LD</span> A<span class="small">GE</span> S<span class="small">PIRITS</span><span id="page_154_fr_*"></span>[\*](#page_154_note_*.md)
 
 <table data-align="center">
 <colgroup>
@@ -1082,7 +1082,7 @@ From far away they are coming.<br />
 
 <span id="page_155">p. 155</span>
 
-### 25. S<span class="small">ONG OF</span> O<span class="small">LD</span> A<span class="small">GE</span> (<span class="small">FROM THE</span> B<span class="small">LESSING</span> C<span class="small">HANT</span>)<span id="page_155_fr_*"></span>[\*](#page_155_note_*)
+### 25. S<span class="small">ONG OF</span> O<span class="small">LD</span> A<span class="small">GE</span> (<span class="small">FROM THE</span> B<span class="small">LESSING</span> C<span class="small">HANT</span>)<span id="page_155_fr_*"></span>[\*](#page_155_note_*.md)
 
 <table data-align="center">
 <colgroup>
@@ -1126,7 +1126,7 @@ It goes about around them.<br />
 
 <span id="page_156">p. 156</span>
 
-### 26. S<span class="small">ONG OF THE</span> R<span class="small">AINBOW</span><span id="page_156_fr_*"></span>[\*](#page_156_note_*)
+### 26. S<span class="small">ONG OF THE</span> R<span class="small">AINBOW</span><span id="page_156_fr_*"></span>[\*](#page_156_note_*.md)
 
 <table data-align="center">
 <colgroup>
@@ -1231,7 +1231,7 @@ Beautiful—I wander about.<br />
 </tbody>
 </table>
 
-### 28. S<span class="small">ONG OF THE</span> C<span class="small">HIEF</span>’<span class="small">S</span> H<span class="small">OGAHN</span><span id="page_158_fr_*"></span>[\*](#page_158_note_*)
+### 28. S<span class="small">ONG OF THE</span> C<span class="small">HIEF</span>’<span class="small">S</span> H<span class="small">OGAHN</span><span id="page_158_fr_*"></span>[\*](#page_158_note_*.md)
 
 <table data-align="center">
 <colgroup>
@@ -1374,7 +1374,7 @@ The Earth is beautiful.<br />
 
 ------------------------------------------------------------------------
 
-[Next](ncm6)
+[Next](ncm6.md)
 
 ------------------------------------------------------------------------
 
@@ -1382,9 +1382,9 @@ The Earth is beautiful.<br />
 
 <span id="footnotes_page_129">p. 129</span>
 
-<span id="page_129_note_*"></span>[\*](#page_129_fr_*) The
+<span id="page_129_note_*"></span>[\*](#page_129_fr_*.md) The
 Ethkay-nah-ashi, literally “The two who go about together,” are
-mentioned in the Creation story, [p. 41](ncm4.htm#page_41). The
+mentioned in the Creation story, [p. 41](ncm4.htm#page_41.md). The
 offerings are meant to be given to “The young man who walks in the
 darkness” and “The young woman of the dusk.” This is the very first song
 of the Creation story as given by the singer Klah. Five songs with the
@@ -1400,7 +1400,7 @@ offering to him—is changed to:
 
 <span id="footnotes_page_131">p. 131</span>
 
-<span id="page_131_note_*"></span>[\*](#page_131_fr_*) The Flood is
+<span id="page_131_note_*"></span>[\*](#page_131_fr_*.md) The Flood is
 expressed in Navajo by the phrase, “we are running from the waters.” The
 Navajo words in the last two lines are esoteric expressions which are
 used only in songs and prarers. Their meaning is sacred and medicine-men
@@ -1409,9 +1409,9 @@ Navajo word for “holy.”
 
 <span id="footnotes_page_135">p. 135</span>
 
-<span id="page_135_note_*"></span>[\*](#page_135_fr_*) Over the earth.
+<span id="page_135_note_*"></span>[\*](#page_135_fr_*.md) Over the earth.
 
-<span id="page_135_note_**"></span>[\*\*](#page_135_fr_**) “The various
+<span id="page_135_note_**"></span>[\*\*](#page_135_fr_**.md) “The various
 robes” include skins and possessions of soft materials which the Navajo
 contrast with “hard” possessions such as jewelry, translated with
 “precious things” here. Two songs with the same melody and text follow.
@@ -1423,19 +1423,19 @@ the chief mountain commanded them, they heard him*.
 
 <span id="footnotes_page_137">p. 137</span>
 
-<span id="page_137_note_*"></span>[\*](#page_137_fr_*) “Water pollen”
+<span id="page_137_note_*"></span>[\*](#page_137_fr_*.md) “Water pollen”
 refers to the detritus carried by a stream and deposited in black
 streaks along the sides of the banks.
 
 <span id="footnotes_page_140">p. 140</span>
 
-<span id="page_140_note_*"></span>[\*](#page_140_fr_*) “The little
+<span id="page_140_note_*"></span>[\*](#page_140_fr_*.md) “The little
 darkness” is a poetic reference to the sweathouse; “the little daylight”
 to the entrance of the sweathouse.
 
 <span id="footnotes_page_142">p. 142</span>
 
-<span id="page_142_note_*"></span>[\*](#page_142_fr_*) 1. After each of
+<span id="page_142_note_*"></span>[\*](#page_142_fr_*.md) 1. After each of
 the following first lines, the last six lines of the first stanza are
 repeated, substituting “Sky, mountains,” etc. for “Earth.”
 
@@ -1444,51 +1444,51 @@ rhythm betwern man and the universe.—M. C. W.
 
 <span id="footnotes_page_144">p. 144</span>
 
-<span id="page_144_note_*"></span>[\*](#page_144_fr_*) That is, the
+<span id="page_144_note_*"></span>[\*](#page_144_fr_*.md) That is, the
 creator is planning the creation of the sun.
 
 <span id="footnotes_page_145">p. 145</span>
 
-<span id="page_145_note_*"></span>[\*](#page_145_fr_*) Three songs with
+<span id="page_145_note_*"></span>[\*](#page_145_fr_*.md) Three songs with
 the same melody and text follow, except that they substitute for the
 refrain: *They say he is planning it*, the following: *They say he is
 talking about it; They say he has made it*.
 
 <span id="footnotes_page_146">p. 146</span>
 
-<span id="page_146_note_*"></span>[\*](#page_146_fr_*) A poetic
+<span id="page_146_note_*"></span>[\*](#page_146_fr_*.md) A poetic
 reference to the sun or moon.
 
 <span id="footnotes_page_148">p. 148</span>
 
-<span id="page_148_note_1"></span>[1](#page_148_fr_1) A constellation
+<span id="page_148_note_1"></span>[1](#page_148_fr_1.md) A constellation
 said to be near the Pleiades; literally: “The first one which is
 narrow.”
 
-<span id="page_148_note_2"></span>[2](#page_148_fr_2) Unidentified,
+<span id="page_148_note_2"></span>[2](#page_148_fr_2.md) Unidentified,
 literally: “The old man with his legs apart.”
 
-<span id="page_148_note_3"></span>[3](#page_148_fr_3) Unidentified,
+<span id="page_148_note_3"></span>[3](#page_148_fr_3.md) Unidentified,
 literally: “The cane of the first big one.”
 
-<span id="page_148_note_4"></span>[4](#page_148_fr_4) Another
+<span id="page_148_note_4"></span>[4](#page_148_fr_4.md) Another
 constellation.
 
 <span id="footnotes_page_149">p. 149</span>
 
-<span id="page_149_note_*"></span>[\*](#page_149_fr_*) A song with the
+<span id="page_149_note_*"></span>[\*](#page_149_fr_*.md) A song with the
 same melody and text follows, except that the refrain: *Man will be
 created* is replaced by: *Man has increased* (*in numbers*).
 
 <span id="footnotes_page_150">p. 150</span>
 
-<span id="page_150_note_*"></span>[\*](#page_150_fr_*) The Navajo word
+<span id="page_150_note_*"></span>[\*](#page_150_fr_*.md) The Navajo word
 translated here as “hush” is an interjection used by mothers to quiet
 crying babies.
 
 <span id="footnotes_page_153">p. 153</span>
 
-<span id="page_153_note_*"></span>[\*](#page_153_fr_*) Two songs with
+<span id="page_153_note_*"></span>[\*](#page_153_fr_*.md) Two songs with
 the same melody and text follow, except that they substitute “abalone”
 and “jet” for “white shell” and “turquoise.” Then come five groups of
 four songs each, substituting for the refrain “She moves”: *She stands
@@ -1498,9 +1498,9 @@ with the first group of four songs.
 
 <span id="footnotes_page_154">p. 154</span>
 
-<span id="page_154_note_*"></span>[\*](#page_154_fr_*) This song is
+<span id="page_154_note_*"></span>[\*](#page_154_fr_*.md) This song is
 about the journey of the two War-Gods to their father, the Sun, see [p.
-79](ncm4.htm#page_79) of the story. The odd divisions of the poem
+79](ncm4.htm#page_79.md) of the story. The odd divisions of the poem
 attempt to follow the musical treatment in the song, according to which
 the second and third repetition of the refrain-formula are joined
 together in the introduction. What would be the third line of the brief
@@ -1511,20 +1511,20 @@ and: *Several of them are coming*.
 
 <span id="footnotes_page_155">p. 155</span>
 
-<span id="page_155_note_*"></span>[\*](#page_155_fr_*) The singer
+<span id="page_155_note_*"></span>[\*](#page_155_fr_*.md) The singer
 commented: “On top of the Earth, below the Sky, below the Sun, among the
 small waters, old age goes around.”
 
 <span id="footnotes_page_156">p. 156</span>
 
-<span id="page_156_note_*"></span>[\*](#page_156_fr_*) Three songs with
+<span id="page_156_note_*"></span>[\*](#page_156_fr_*.md) Three songs with
 the same melody and text follow, substituting for the refrain: *He
 places it around me*, *It is beautiful on me*, and: *I have passed
 through it* (i.e., the ring formed by the rainbow).
 
 <span id="footnotes_page_158">p. 158</span>
 
-<span id="page_158_note_*"></span>[\*](#page_158_fr_*) Three songs with
+<span id="page_158_note_*"></span>[\*](#page_158_fr_*.md) Three songs with
 the identical melody and text follow, except that they substitute for
 the refrain, *He is thinking about it*; *He is talking to them about
 it*, *They are placing them* (i.e., the main beams of the hogahn), and:
@@ -1533,15 +1533,15 @@ beams” is everywhere replaced by: “they are placing them”.
 
 <span id="footnotes_page_159">p. 159</span>
 
-<span id="page_159_note_*"></span>[\*](#page_159_fr_*) This song is sung
+<span id="page_159_note_*"></span>[\*](#page_159_fr_*.md) This song is sung
 by Changing-Woman when her two children visit her on her island, see [p.
-122](ncm4.htm#page_122) of the story. The singer stated that the song
+122](ncm4.htm#page_122.md) of the story. The singer stated that the song
 was sung when the patient steps into the footstep marks on the
 sandpainting, before he is made to sit down on it.
 
 <span id="footnotes_page_161">p. 161</span>
 
-<span id="page_161_note_*"></span>[\*](#page_161_fr_*) The second to the
+<span id="page_161_note_*"></span>[\*](#page_161_fr_*.md) The second to the
 ninth lines of the stanza are repeated to make a full stanza after each
 of the following introductory lines.
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy07)  [Next](phy09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy07)  [Next](phy09.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![K](img/02001.jpg) |
+| ![K](img/02001.jpg.md) |
 
 ITTY KERRUISH was true to her appointment at the blue rowan tree, and
 had been waiting some few minutes when Uddereek arrived. After returning
@@ -85,7 +85,7 @@ openly expressed their admiration of the sweet Kitty Kerruish. Their
 <span id="img_02200"></span>
 
 [![](tn/02200.jpg)  
-Click to enlarge](img/02200.jpg)
+Click to enlarge](img/02200.jpg.md)
 
  
 
@@ -273,10 +273,10 @@ And his long-lost fairy bower."
 <span id="img_02700"></span>
 
 [![](tn/02700.jpg)  
-Click to enlarge](img/02700.jpg)
+Click to enlarge](img/02700.jpg.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](phy09)
+[Next: Chapter I](phy09.md)

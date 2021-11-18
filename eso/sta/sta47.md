@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta46)  [Next](sta48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta46)  [Next](sta48.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ magicians so greatly despised by him, Khadijah
 <span id="img_18900"></span>
 
 [![MOHAMMED'S NIGHT JOURNEY TO HEAVEN.](tn/18900.jpg)  
-Click to enlarge](img/18900.jpg)  
+Click to enlarge](img/18900.jpg.md)  
 MOHAMMED'S NIGHT JOURNEY TO HEAVEN.  
 
 From D'Ohsson's *Tableau Général de l'Empire Othoman*.
@@ -382,7 +382,7 @@ ranked her with the animals. The Koran places her
 <span id="img_19100"></span>
 
 [![THE CAABA, THE HOLY PLACE OF ISLAM.](tn/19100.jpg)  
-Click to enlarge](img/19100.jpg)  
+Click to enlarge](img/19100.jpg.md)  
 THE CAABA, THE HOLY PLACE OF ISLAM.  
 
 Section from panorama of Mecca in D'Ohsson's *Tableau Général de
@@ -630,4 +630,4 @@ friendliness toward the Moslem.
 
 ------------------------------------------------------------------------
 
-[Next: American Indian Symbolism](sta48)
+[Next: American Indian Symbolism](sta48.md)

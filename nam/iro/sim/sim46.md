@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim45)  [Next](sim47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim45)  [Next](sim47.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_256">p. 256</span>
 
-# DAGWANOE<sup>n</sup>YENT (WHIRLWIND) <span id="fr_7"></span>[1](#fn_7)
+# DAGWANOE<sup>n</sup>YENT (WHIRLWIND) <span id="fr_7"></span>[1](#fn_7.md)
 
 TWO brothers, one a young man, the other a small boy were one day out in
 the woods together. They heard a great noise overhead and looking up saw
@@ -40,9 +40,9 @@ lives on the Alleghany Reservation.
 
 ### Footnotes
 
-<span id="fn_7"></span>[256:1](sim46.htm#fr_7) Always represented as a
+<span id="fn_7"></span>[256:1](sim46.htm#fr_7.md) Always represented as a
 head without a body.
 
 ------------------------------------------------------------------------
 
-[Next: Hótho (Cold)](sim47)
+[Next: Hótho (Cold)](sim47.md)

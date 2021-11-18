@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki224)  [Next](liki226) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki224)  [Next](liki226.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,6 +220,6 @@ proceeded in the path which has been indicated.'
 ------------------------------------------------------------------------
 
 [Next: XXVI. Khung-Dze Hsien Kü or Confucius at Home at
-Leisure](liki226)
+Leisure](liki226.md)
 
   

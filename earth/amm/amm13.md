@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](amm12)  [Next](amm14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](amm12)  [Next](amm14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ at Ravenna, is a
 <span id="page_223">p. 223</span>
 
 magnificent instance in brilliant mosaic; blue, powdered with a
-profusion of stars to the zenith. (*See* [figure](#img_fig25).) In Sta.
+profusion of stars to the zenith. (*See* [figure](#img_fig25)..md) In Sta.
 Sophia itself, the ciborium over the altar was supported on four silver
 pillars, the under side of the dome twinkling with stars. The manual
 obtained by Didron on Mount Athos describes how ceilings should be
@@ -388,7 +388,7 @@ the goddess Tpe, shown on the astronomical
 <span id="img_fig26"></span>
 
 [![Figure 26. Egyptian Goddess of the Sky](tn/fig26.jpg)  
-Click to enlarge](img/fig26.jpg)  
+Click to enlarge](img/fig26.jpg.md)  
   
 
 sculptures, is disposed in a manner to recall the form of the
@@ -452,7 +452,7 @@ appear to have five rays?),
 <span id="img_fig27"></span>
 
 [![Figure 27. Egyptian Temple Ceiling](tn/fig27.jpg)  
-Click to enlarge](img/fig27.jpg)  
+Click to enlarge](img/fig27.jpg.md)  
   
 
 are regularly spaced, almost touching one another. In the middle of
@@ -486,4 +486,4 @@ These men of Egypt loved the same sky that we also love.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. The Windows of Heaven and Three Hundred and Sixty
-Days](amm14)
+Days](amm14.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml22)  [Next](cml24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml22)  [Next](cml24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
 
 ### CHAPTER XIX
 
-### THE WAR OF ENCHANTMENTS <span id="fr_344"></span>[1](#fn_344)
+### THE WAR OF ENCHANTMENTS <span id="fr_344"></span>[1](#fn_344.md)
 
 Manawyddan was now the sole survivor of the family of Llyr. He was
 homeless and landless. But Pryderi offered to give him a realm in Dyfed,
@@ -43,7 +43,7 @@ and wild beasts. For two years they lived in the open upon game and
 honey.
 
 During the third year, they grew weary of this wild life, and decided to
-go into Lloegyr <span id="fr_345"></span>[1](#fn_345), and support
+go into Lloegyr <span id="fr_345"></span>[1](#fn_345.md), and support
 themselves by some handicraft. Manawyddan could make saddles, and he
 made them so well that soon no one in Hereford, where they had settled,
 would buy from any saddler but himself. This aroused the enmity of all
@@ -246,12 +246,12 @@ survivors of the families of Llyr and Pwyll mere vassals of Arthur.
 
 ### Footnotes
 
-<span id="fn_344"></span>[298:1](cml23.htm#fr_344) Retold from Lady
+<span id="fn_344"></span>[298:1](cml23.htm#fr_344.md) Retold from Lady
 Guest's translation of the Mabinogi of *Manawyddan, the Son of Llyr*.
 
-<span id="fn_345"></span>[299:1](cml23.htm#fr_345) Saxon
+<span id="fn_345"></span>[299:1](cml23.htm#fr_345.md) Saxon
 Britain--England.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. The Victories of Light Over Darkness](cml24)
+[Next: Chapter XX. The Victories of Light Over Darkness](cml24.md)

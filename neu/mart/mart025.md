@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK I CHAPTER XXVI
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK I](book00) 
-[Previous](mart024)  [Next](mart026) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK I](book00.md) 
+[Previous](mart024)  [Next](mart026.md) </span>
 
 ------------------------------------------------------------------------
 

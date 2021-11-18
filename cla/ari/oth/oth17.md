@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth16)  [Next](oth18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth16)  [Next](oth18.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ superior of two possible directions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](oth18)
+[Next: Chapter 6](oth18.md)

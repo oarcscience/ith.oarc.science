@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc090) 
-[Next](motc092) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc090.md) 
+[Next](motc092.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ Indians began the diabolical tragedy."--Adair, American Indians, p. 383,
 
 ------------------------------------------------------------------------
 
-[Next: 92. Escape Of The Seneca Boys](motc092)
+[Next: 92. Escape Of The Seneca Boys](motc092.md)

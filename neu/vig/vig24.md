@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig23)  [Next](vig25) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig23)  [Next](vig25.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ Thorvald Tafalld, Glum’s nephew, and two thralls.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII](vig25)
+[Next: Chapter XXII](vig25.md)

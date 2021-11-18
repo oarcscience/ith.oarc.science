@@ -1,9 +1,9 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index.md) 
 
 ------------------------------------------------------------------------
 
-[The World of Mary, Queen of Scots](https://www.marie-stuart.co.uk/)
+[The World of Mary, Queen of Scots](https://www.marie-stuart.co.uk/.md)
 Explore the historical background of this text. \[Exterior Site\]
 
 ------------------------------------------------------------------------
@@ -33,7 +33,7 @@ wide-ranging discussion of witchcraft, necromancy, possession, demons,
 were-wolves, fairies and ghosts, in the form of a Socratic dialogue. The
 second text is a sensational historical account of Scottish witch
 persecution and is one of the sources cited by [Margaret
-Murray](../murray). I have taken some care to transcribe these
+Murray](../murray.md). I have taken some care to transcribe these
 historical documents letter for letter, without any attempt at
 correction or modernization of spelling. These documents exemplify the
 convoluted intellectual rationalizations used to justify the barbaric
@@ -43,15 +43,15 @@ witch hunts. The texts were scanned from an early 20th Century reprint.
 
 ------------------------------------------------------------------------
 
-[Title Page](kjd00)  
-[Introduction to the Bodley Head Edition](kjd01)  
-[Dæmonologie - Original Title Page](kjd02)  
-[Preface](kjd03)  
-[Dæmonologie: The First Booke.](kjd04)  
-[Dæmonologie: The Seconde Booke](kjd05)  
-[Dæmonologie: The Thirde Booke](kjd06)  
-[Errata](kjd07)  
-[Newes From Scotland - Title Page](kjd08)  
-[Newes from Scotland - Original Title Page,](kjd09)  
-[To the Reader](kjd10)  
-[Newes from Scotland](kjd11)  
+[Title Page](kjd00.md)  
+[Introduction to the Bodley Head Edition](kjd01.md)  
+[Dæmonologie - Original Title Page](kjd02.md)  
+[Preface](kjd03.md)  
+[Dæmonologie: The First Booke.](kjd04.md)  
+[Dæmonologie: The Seconde Booke](kjd05.md)  
+[Dæmonologie: The Thirde Booke](kjd06.md)  
+[Errata](kjd07.md)  
+[Newes From Scotland - Title Page](kjd08.md)  
+[Newes from Scotland - Original Title Page,](kjd09.md)  
+[To the Reader](kjd10.md)  
+[Newes from Scotland](kjd11.md)  

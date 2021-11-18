@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip07)  [Next](fip09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip07)  [Next](fip09.md) 
 
 ------------------------------------------------------------------------
 
-### TEIG O'KANE (TADHG O CÁTHÁN) AND THE CORPSE <span id="fr_3"></span>[1](#fn_3)
+### TEIG O'KANE (TADHG O CÁTHÁN) AND THE CORPSE <span id="fr_3"></span>[1](#fn_3.md)
 
 Literally translated from the Irish by Douglas Hyde
 
@@ -606,11 +606,11 @@ rather, Oh, son. Mic is the vocative of Mac.
 
 ### Footnotes
 
-<span id="fn_3"></span>[16:1](fip08.htm#fr_3) None of Mr. Hyde's stories
+<span id="fn_3"></span>[16:1](fip08.htm#fr_3.md) None of Mr. Hyde's stories
 here given have been published before. They will be printed in the
 original Irish in his forthcoming *Leabhar Sgeulaigheachta* (Gill,
 Dublin).
 
 ------------------------------------------------------------------------
 
-[Next: Paddy Corcoran's Wife, by William Carleton](fip09)
+[Next: Paddy Corcoran's Wife, by William Carleton](fip09.md)

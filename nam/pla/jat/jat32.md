@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat31)  [Next](jat33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat31)  [Next](jat33.md) 
 
 ------------------------------------------------------------------------
 
-### 30. COYOTE TRIES TO MAKE HIS CHILDREN SPOTTED. <span id="fr_48"></span>[1](#fn_48)
+### 30. COYOTE TRIES TO MAKE HIS CHILDREN SPOTTED. <span id="fr_48"></span>[1](#fn_48.md)
 
 A deer was going along the arroyo among the willows with her spotted
 fawns. Coyote, coming up to her, said, "How do you make your little ones
@@ -35,11 +35,11 @@ out on the other side. Coyote started away again.
 
 ### Footnotes
 
-<span id="fn_48"></span>[227:1](jat32.htm#fr_48) Russell has this story
+<span id="fn_48"></span>[227:1](jat32.htm#fr_48.md) Russell has this story
 in just the same form but it is told of Fox although the concluding
 sentence refers to the characteristic howl of Coyote, (a), p. 265.
 Compare, Stevenson, p. 153.
 
 ------------------------------------------------------------------------
 
-[Next: 31. Coyote Kills His Own Child Instead of the Turkeys](jat33)
+[Next: 31. Coyote Kills His Own Child Instead of the Turkeys](jat33.md)

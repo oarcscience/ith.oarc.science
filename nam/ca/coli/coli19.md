@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](coli18)  [Next](coli20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](coli18)  [Next](coli20.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Culture of the Luiseño Indians*, by Philip Stedman Sparkman,
 \[1908\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ American](../../index)  [California](../index)  [Index](index) 
 There was no government worthy the name among the Luiseños, in which
 respect they seem not to have differed from most Indians of California.
 
-Each clan <span id="fr_6"></span>[4](#fn_5) appears to have inhabited a
+Each clan <span id="fr_6"></span>[4](#fn_5.md) appears to have inhabited a
 separate village, and to have been a law unto itself.
 
 One sometimes hears of the power exercised by chiefs in other parts of
@@ -41,7 +41,7 @@ on such occasions they must of necessity have had a leader.
 
 ### Footnotes
 
-<span id="fn_5"></span>[215:4](coli19.htm#fr_6) The term clan here and
+<span id="fn_5"></span>[215:4](coli19.htm#fr_6.md) The term clan here and
 in the following pages appears to be the equivalent of the word band in
 the introduction. No mention is made by the author or by any other of
 clan-totemism. It would seem that the Luiseño clan or band was similar
@@ -51,4 +51,4 @@ emphasis on real or imagined kinship and descent.
 
 ------------------------------------------------------------------------
 
-[Next: Shamanism](coli20)
+[Next: Shamanism](coli20.md)

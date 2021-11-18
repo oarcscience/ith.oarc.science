@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes20)  [Next](mes22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes20)  [Next](mes22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,7 +21,7 @@ Textual Heritage
 ### VI.
 
 <span id="img_m10100"></span> ![The Greater (Spiritual)
-Warfare.](img/m10100.jpg)
+Warfare.](img/m10100.jpg.md)
 
 <span class="smallcaps">Great</span> Princes all! We've killed our dread
 external foe.  
@@ -34,7 +34,7 @@ Whole oceans can't extinguish those fierce flames of his.
 Earth's seven oceans all were lost within his maw;  
 His raging fires would still burn high, to mankind's awe.  
 Pitcoal, hard-hearted miscreants; these are its food; <span
-id="fr_178"></span>[1](#fn_177)  
+id="fr_178"></span>[1](#fn_177.md)  
 They sink within it, miserable, abject brood. <span
 class="margnote"><span id="an_5">5</span></span>  
 Withal, its craving hunger ne’er will be appeased,  
@@ -43,10 +43,10 @@ Until the voice of God cry unto it: "Art eased?"
 Behold my flame, my fury,—burning, fiery roar."  
 It swallows down a universe in its fell mood;  
 And instantly shrieks out: "More food! More food! More food!"  
-God, from nubiquity, <span id="fr_179"></span>[2](#fn_178) His foot will
+God, from nubiquity, <span id="fr_179"></span>[2](#fn_178.md) His foot will
 stamp on hell.  
 Then will it cease to burn: "He willed, and it befell!" <span
-id="fr_180"></span>[3](#fn_179)
+id="fr_180"></span>[3](#fn_179.md)
 
 Our fleshly lusts in us are but a part of hell;  
 Parts have the qualities of their universal. <span
@@ -73,18 +73,18 @@ A lion true is he who conquers his own flesh.
 To illustrate this truth, give ear unto a tale,  
 That thou of these few words the moral mayest inhale.
 
-From Cæsar <span id="fr_181"></span>[1](#fn_180) an ambassador to ‘Umer
-came, <span id="fr_182"></span>[2](#fn_181)  
+From Cæsar <span id="fr_181"></span>[1](#fn_180.md) an ambassador to ‘Umer
+came, <span id="fr_182"></span>[2](#fn_181.md)  
 Through deserts far-extending, from Madīna's fame. <span
-id="fr_183"></span>[3](#fn_182)  
+id="fr_183"></span>[3](#fn_182.md)  
 He asked?" Where is the palace of the Caliph, men; <span
-id="fr_184"></span>[4](#fn_183)  
+id="fr_184"></span>[4](#fn_183.md)  
 <span class="margnote"><span id="an_20">20</span></span> That I to it
 may lead my cavalcade, my train?"  
 The people answered: "Thou’lt no Caliph's palace find,  
 Our Caliph's sole pavilion's his enlightened mind.  
 Through his '*Commandership*' his fame to Rome has come; <span
-id="fr_185"></span>[5](#fn_184)  
+id="fr_185"></span>[5](#fn_184.md)  
 But like our other poor, a hut's his ample home.  
 How shouldst thou see *that* palace, brother, stranger, guest,  
 When in thy mind's eye thou a beam hast, unconfessed?  
@@ -97,14 +97,14 @@ Whoever shall his heart cleanse from all passions’ bale,
 Will soon perceive therein a court and presence hale. <span
 class="margnote"><span id="an_25">25</span></span>  
 When Ahmed's heart was cleansed of evil's fire and smoke, <span
-id="fr_186"></span>[1](#fn_185)  
+id="fr_186"></span>[1](#fn_185.md)  
 Whichever way he turned, God's countenance bespoke. <span
-id="fr_187"></span>[2](#fn_186)  
+id="fr_187"></span>[2](#fn_186.md)  
 So long as man keeps company with evil thought,  
 How can he understand God's countenance in aught?  
 He that a window's pierced from heart towards heaven's recess,  
 Sees in each mote a ray from Sun of Righteousness. <span
-id="fr_188"></span>[3](#fn_187)  
+id="fr_188"></span>[3](#fn_187.md)  
 God shines apparent in the midst of other things,  
 As moon in majesty among the stars’ twinklings.
 
@@ -122,13 +122,13 @@ Your sense of sight cannot see what before you lies."
 
 The world's eye man is; all the rest's mere skin and shell.  
 A real eye's he who strives his "Friend" to see right well. <span
-id="fr_189"></span>[4](#fn_188) <span class="margnote"><span
+id="fr_189"></span>[4](#fn_188.md) <span class="margnote"><span
 id="an_35">35</span></span>  
 Unless we see our Friend, ’twere better we were blind,  
 A friend that is not constant's better out of mind.
 
 When Rome's ambassador had heard those words so wise, <span
-id="fr_190"></span>[5](#fn_189)  
+id="fr_190"></span>[5](#fn_189.md)  
 His eager curiosity began to rise.
 
 <span id="page_m104">p. 104</span>
@@ -147,7 +147,7 @@ A desert-Arab woman saw he at the last,
 Who told him ‘Umer, then, beneath date-palm slept fast.  
 Beneath a date-palm! Far from mankind's busy plod.  
 That date-palm's shadow shaded the Shadow of God! <span
-id="fr_191"></span>[1](#fn_190)
+id="fr_191"></span>[1](#fn_190.md)
 
 He went towards the tree; a station took afar;  
 He saw ‘Umer; a fit of trembling showed his fear.  
@@ -201,7 +201,7 @@ In Him alone; the rank they gain in trance combust.
 
 Saint's ecstasy springs from a glimpse of God, his pride.  
 His station's that of intimate. He's bridegroom; God is bride. <span
-id="fr_192"></span>[1](#fn_191)  
+id="fr_192"></span>[1](#fn_191.md)  
 A bride's veiled graces are not seen by groom alone;  
 Her unveiled charms solely to him in private shown. <span
 class="margnote"><span id="an_65">65</span></span>  
@@ -284,7 +284,7 @@ The absent and the future patent are to them;
 To speak about the past is what they most contemn.  
 Election and compulsion, theirs, are not the same.  
 As dewdrops in the oyster-shell rare pearls became. <span
-id="fr_193"></span>[1](#fn_192)  
+id="fr_193"></span>[1](#fn_192.md)  
 Outside, they're dewdrops, solely, whether great or small;  
 Inside they're pearls of price, whose value knows no fall.  
 Such men by nature are just like the musk-deer's pod;  
@@ -297,13 +297,13 @@ Ask not how ’tis that outward blood can change like this;
 when in the pod secreted ’tis.  
 Ask not how copper vile, by wise alchemist's art,  
 Is changed to gold when solved by elixir in part. <span
-id="fr_194"></span>[1](#fn_193)  
+id="fr_194"></span>[1](#fn_193.md)  
 Election and compulsion, fancies both, in thee;  
 But when by saints they're viewed, God's glory may they be.  
 Upon the table, bread's a lifeless, senseless mass;  
 When taken in man's mouth, the soul it joins, in class.  
 On table transubstantiation takes not place; <span
-id="fr_195"></span>[2](#fn_194)  
+id="fr_195"></span>[2](#fn_194.md)  
 The soul it is transforms it, nourished by God's grace.  
 Such is the soul's great power; most perspicacious man,  
 <span class="margnote"><span id="an_105">105</span></span> So long as
@@ -311,9 +311,9 @@ that soul life and power retain can.
 A human being, mass of mingled flesh and blood,  
 Moved by the Lord, can cleave hill, dale, mine, and sea's flood.  
 The strength of strongest man can merely split a stone; <span
-id="fr_196"></span>[3](#fn_195)  
+id="fr_196"></span>[3](#fn_195.md)  
 The Power that informs man's soul can cleave the moon. <span
-id="fr_197"></span>[4](#fn_196)  
+id="fr_197"></span>[4](#fn_196.md)  
 If man's heart but untie the mouth of mystery's sack,  
 His soul soon soars aloft beyond the starry track.  
 If heaven's mystery divulged should, ’haps, become,  
@@ -343,10 +343,10 @@ God comprehendeth all things;—all things doth ensue;
 One act's no hindrance, with Him, other acts to do.
 
 The reason Satan gave: "Since Thou hast tempted me," <span
-id="fr_198"></span>[1](#fn_197)  
+id="fr_198"></span>[1](#fn_197.md)  
 The scheming demon strove to hide his sin, we see.  
 His trespass Adam owned: "Against ourselves we've sinned." <span
-id="fr_199"></span>[2](#fn_198)  
+id="fr_199"></span>[2](#fn_198.md)  
 God's act he, like as we, then left not out of mind.  
 Through shame the act of Satan Adam secret kept.  
 Self-accusation's fruit, in consequence, he reaped. <span
@@ -361,7 +361,7 @@ God added: "It was I who gave thee shame heartfelt."
 Consideration he who shows considered is;  
 So he who brings the sugar, share of cake is his.  
 For whom, then, benefits, but practisers of good? <span
-id="fr_200"></span>[3](#fn_199)  
+id="fr_200"></span>[3](#fn_199.md)  
 Keep pleased thy friend. Offend him; see what ensue would. <span
 class="margnote"><span id="an_125">125</span></span>  
 One sole example study,—instance of this law,—  
@@ -388,7 +388,7 @@ When any matter is a question of judgment,
 ‘Umer with Abū-Jahl's in one predicament.  
 ‘Umer gave up his judgment; rested on his soul.  
 ’Bū-Jahl received this name through lack of self-control. <span
-id="fr_201"></span>[1](#fn_200)  
+id="fr_201"></span>[1](#fn_200.md)  
 In sense and reason Abū-Jahl a master was;  
 <span class="margnote"><span id="an_135">135</span></span> But as to
 soul, in ignorance he fell, alas!  
@@ -432,7 +432,7 @@ The free, the jocund spirit prisoner thou’st made;
 As though the mind, the air, could into letter fade. <span
 class="margnote"><span id="an_150">150</span></span>  
 Thou hast done this for explanation's sake,— <span
-id="fr_202"></span>[1](#fn_201)  
+id="fr_202"></span>[1](#fn_201.md)  
 Thou, who beyond the explanation place wouldst take.  
 How should the man in whom the explanation's gleamed,  
 Not yet distinguish what's to me so clearly beamed?  
@@ -512,79 +512,79 @@ class="margnote"><span id="an_179">179</span></span>
 
 ### Footnotes
 
-<span id="fn_177"></span>[m101:1](mes21.htm#fr_178) Qur’ān ii. 22, and
+<span id="fn_177"></span>[m101:1](mes21.htm#fr_178.md) Qur’ān ii. 22, and
 lxvi. 6, say "mankind and rocks."
 
-<span id="fn_178"></span>[m101:2](mes21.htm#fr_179) Another word coined
+<span id="fn_178"></span>[m101:2](mes21.htm#fr_179.md) Another word coined
 to meet the requirements of the original." "*Ubiquity*" is the converse
 of "*nubiquity*." *Nulliquity* might be used.
 
-<span id="fn_179"></span>[m101:3](mes21.htm#fr_180) Qur’ān ii. 111, and
+<span id="fn_179"></span>[m101:3](mes21.htm#fr_180.md) Qur’ān ii. 111, and
 seven other places.
 
-<span id="fn_180"></span>[m102:1](mes21.htm#fr_181) "*Cæsar*" is the
+<span id="fn_180"></span>[m102:1](mes21.htm#fr_181.md) "*Cæsar*" is the
 Rory, n Emperor, the Qaysari-Rūm. Other Qaysar there is not.
 
-<span id="fn_181"></span>[m102:2](mes21.htm#fr_182) To write this name
+<span id="fn_181"></span>[m102:2](mes21.htm#fr_182.md) To write this name
 Omar is incorrect.
 
-<span id="fn_182"></span>[m102:3](mes21.htm#fr_183) Medina is the usual
+<span id="fn_182"></span>[m102:3](mes21.htm#fr_183.md) Medina is the usual
 incorrect spelling of this name.
 
-<span id="fn_183"></span>[m102:4](mes21.htm#fr_184) The Arabian title is
+<span id="fn_183"></span>[m102:4](mes21.htm#fr_184.md) The Arabian title is
 Khalīfa; of which Caliph is a corruption.
 
-<span id="fn_184"></span>[m102:5](mes21.htm#fr_185) "*Commander of the
+<span id="fn_184"></span>[m102:5](mes21.htm#fr_185.md) "*Commander of the
 Believers*" is his usual title. "Rome" is the Lower Empire.
 
-<span id="fn_185"></span>[m103:1](mes21.htm#fr_186) Mohammed's heart is
+<span id="fn_185"></span>[m103:1](mes21.htm#fr_186.md) Mohammed's heart is
 believed to have been cleansed by an angel.
 
-<span id="fn_186"></span>[m103:2](mes21.htm#fr_187) "God's countenance"
+<span id="fn_186"></span>[m103:2](mes21.htm#fr_187.md) "God's countenance"
 means also, in Arabic, *God's cause*.
 
-<span id="fn_187"></span>[m103:3](mes21.htm#fr_188) God is this "sun;"
+<span id="fn_187"></span>[m103:3](mes21.htm#fr_188.md) God is this "sun;"
 the "motes" are all created objects.
 
-<span id="fn_188"></span>[m103:4](mes21.htm#fr_189) The "Friend" is God,
+<span id="fn_188"></span>[m103:4](mes21.htm#fr_189.md) The "Friend" is God,
 the Gnostic's "*darling*."
 
-<span id="fn_189"></span>[m103:5](mes21.htm#fr_190) "Rome" in Asia means
+<span id="fn_189"></span>[m103:5](mes21.htm#fr_190.md) "Rome" in Asia means
 the Lower Empire and Asia Minor; or, for the last few centuries, the
 Ottoman Empire.
 
-<span id="fn_190"></span>[m104:1](mes21.htm#fr_191) "Shadow of God on
+<span id="fn_190"></span>[m104:1](mes21.htm#fr_191.md) "Shadow of God on
 earth" is an Eastern title of royalty.
 
-<span id="fn_191"></span>[m105:1](mes21.htm#fr_192) These two
+<span id="fn_191"></span>[m105:1](mes21.htm#fr_192.md) These two
 propositions give the pith of the doctrine held and inculcated by the
 mystics and spiritualists of Islām: "*He's bridegroom; God is bride*."
 
-<span id="fn_192"></span>[m107:1](mes21.htm#fr_193) This First Book of
+<span id="fn_192"></span>[m107:1](mes21.htm#fr_193.md) This First Book of
 the Mesnevī was written before the Būstān of Sa‘dī. The myth of the
 dewdrop and pearl is much more ancient.
 
-<span id="fn_193"></span>[m108:1](mes21.htm#fr_194) The date of the poem
+<span id="fn_193"></span>[m108:1](mes21.htm#fr_194.md) The date of the poem
 will be recollected; who disbelieved alchemy then?
 
-<span id="fn_194"></span>[m108:2](mes21.htm#fr_195) Here is a beautiful
+<span id="fn_194"></span>[m108:2](mes21.htm#fr_195.md) Here is a beautiful
 and true application of the idea of "*transubstantiation*."
 
-<span id="fn_195"></span>[m108:3](mes21.htm#fr_196) The original
+<span id="fn_195"></span>[m108:3](mes21.htm#fr_196.md) The original
 mentions Ferhād, a kind of Persian Dædalus, by his title of
 "*Mountain-Excavator*." (See Tale vii. dist. 365.)
 
-<span id="fn_196"></span>[m108:4](mes21.htm#fr_197) Qur’ān liv. 1.
+<span id="fn_196"></span>[m108:4](mes21.htm#fr_197.md) Qur’ān liv. 1.
 
-<span id="fn_197"></span>[m109:1](mes21.htm#fr_198) Qur’ān vii. 15, and
+<span id="fn_197"></span>[m109:1](mes21.htm#fr_198.md) Qur’ān vii. 15, and
 xv. 39. At the fall, Satan accused God of tempting him; whereas Adam
 confessed his sin, and did not accuse Satan.
 
-<span id="fn_198"></span>[m109:2](mes21.htm#fr_199) Qur’ān vii. 22.
+<span id="fn_198"></span>[m109:2](mes21.htm#fr_199.md) Qur’ān vii. 22.
 
-<span id="fn_199"></span>[m109:3](mes21.htm#fr_200) Qur’ān xxiv. 26.
+<span id="fn_199"></span>[m109:3](mes21.htm#fr_200.md) Qur’ān xxiv. 26.
 
-<span id="fn_200"></span>[m110:1](mes21.htm#fr_201) ’Bū is often used as
+<span id="fn_200"></span>[m110:1](mes21.htm#fr_201.md) ’Bū is often used as
 a contraction for Abū. Abū-Jahl (*Father of Ignorance*) was a nickname
 (see Tale iv. dist. 48, note) given by Muhammed to ’Amr, son of Hishām,
 a chief of the Quraysh, his bitter enemy, formerly entitled Abū-’l-Hakem
@@ -592,10 +592,10 @@ a chief of the Quraysh, his bitter enemy, formerly entitled Abū-’l-Hakem
 Bedr, in the second year of the Hijra, <span
 class="smallcaps">a.d.</span> 624.
 
-<span id="fn_201"></span>[m111:1](mes21.htm#fr_202) The word rendered by
+<span id="fn_201"></span>[m111:1](mes21.htm#fr_202.md) The word rendered by
 "explanation" here, means also *information*, and *use*, *advantage*,
 *profit*, *benefit*, &c.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Merchant and the Parrot](mes22)
+[Next: VII. The Merchant and the Parrot](mes22.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva13)  [Next](rva15) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva13)  [Next](rva15.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### XIV. Izcatqui yn cuicatl chicuexiuhtica meuaya iniquac atamalqualoya.
 
-[English](#english)
+[English](#english.md)
 
 1\. Xochitl noyollo cuepontimania ye tlacoyoalle, oaya, oouayaye.
 
@@ -137,4 +137,4 @@ including two letters, b and s, not in the Nahuatl alphabet.
 
 ------------------------------------------------------------------------
 
-[Next: XV. Hymn to a Night-God.](rva15) 
+[Next: XV. Hymn to a Night-God.](rva15.md) 

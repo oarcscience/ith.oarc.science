@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp17)  [Next](dmp19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp17)  [Next](dmp19.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ seven times.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XVI](dmp19)
+[Next: Col. XVI](dmp19.md)

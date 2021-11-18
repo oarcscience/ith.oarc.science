@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw07)  [Next](tfgw09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw07)  [Next](tfgw09.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,4 +227,4 @@ Daniel Crowley and the Ghosts
 
 ------------------------------------------------------------------------
 
-[Next: Tom Daly and the Nut-Eating Ghost](tfgw09)
+[Next: Tom Daly and the Nut-Eating Ghost](tfgw09.md)

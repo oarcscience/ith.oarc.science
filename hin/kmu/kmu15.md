@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](kmu14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](kmu14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ information about this.—JBH.
 
 The following book is also at this site at this location:
 
-[\[Online edition at this site\]](../yvhf/index)
+[\[Online edition at this site\]](../yvhf/index.md)
 
 **YOGA VASHISHT OR HEAVEN FOUND**
 
@@ -98,7 +98,7 @@ may walk beside the MASTERS, may listen to the Eternal Voice of the Ages
 chant the song of the Infinite, may even dine on Prana.
 
 When you are thru with the book, you will have had a visit with me to
-the Holy Temples of the [Himalayans](errata.htm#46).
+the Holy Temples of the [Himalayans](errata.htm#46.md).
 
 **Great Masters of the Himalayas. Their Lives And Temple Teachings**.
 

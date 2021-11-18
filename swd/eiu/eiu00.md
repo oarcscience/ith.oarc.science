@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Next](eiu01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Next](eiu01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425496466/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425496466/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ Etext prepared by Theodore D. Webber (doug\_webber@yahoo.com), 2007.
 
 ------------------------------------------------------------------------
 
-[Next: 1-50](eiu01)
+[Next: 1-50](eiu01.md)

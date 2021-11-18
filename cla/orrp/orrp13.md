@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp12)  [Next](orrp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp12)  [Next](orrp14.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ see the new texts commented on by Usener, *Rhein. Museum*, LX, 1905, pp.
 466 ff.; 489 ff., and my paper "Natalis Invicti," *C. R. Acad. des
 inscr.*, 1911.
 
-<span id="xref_0_4">0\_4</span>. See page [70](orrp07.htm#page_70).
+<span id="xref_0_4">0\_4</span>. See page [70](orrp07.htm#page_70.md).
 Compare also *Mon. myst. Mithra*, I, p. 341. The imitation of the church
 is plain in the pagan reform attempted by the emperor Julian.
 
@@ -77,4 +77,4 @@ character of Hellenistic mysteries is to be found in Reitzenstein's
 
 ------------------------------------------------------------------------
 
-[Next: I. Rome and the Orient](orrp14)
+[Next: I. Rome and the Orient](orrp14.md)

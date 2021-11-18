@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap75) 
-[Next](bap77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap75.md) 
+[Next](bap77.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ the wilderness, and Jonathan went into the city.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXIII](bap77)
+[Next: Chapter LXIII](bap77.md)

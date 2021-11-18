@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi03)  [Next](rpdi05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi03)  [Next](rpdi05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ evidence, however, of a Luiseño source, since the songs throughout are
 in the Diegueño language. The ceremony is not however mentioned in
 Diegueño mythology as far as this mythology is known at the present
 time. The ceremony is the same as that described briefly by Rust <span
-id="fr_34"></span>[31](#fn_34) and others as the "roasting of girls."
+id="fr_34"></span>[31](#fn_34.md) and others as the "roasting of girls."
 
 <span id="page_286">p. 286</span>
 
@@ -41,7 +41,7 @@ it crumbled native tobacco, up. Each girl then takes a large drink of
 the liquid. If there were anything evil or morbid inside of the girl,
 this drink, it is thought, would cause her to vomit it out, and she
 would never thereafter be troubled by it. Whatever the case among the
-Luiseño, <span id="fr_35"></span>[32](#fn_35) this ceremony is not
+Luiseño, <span id="fr_35"></span>[32](#fn_35.md) this ceremony is not
 considered by the Diegueño to be an ordeal. They strive rather after a
 benign physiological effect. After the girls have drunk this mixture,
 they are placed at full length, face-downward on the bed of herbs, and
@@ -56,9 +56,9 @@ nervous disposition stand it for three or four. The longer the
 confinement, the greater the benefit is supposed to be.
 
 A ceremonial crescent-shaped stone, atulku, ([pl. 21, fig.
-1](rpdi27.htm#img_pl21)), is warmed at the fire and placed in turn
+1](rpdi27.htm#img_pl21).md), is warmed at the fire and placed in turn
 between the legs of each girl close against her body. <span
-id="fr_36"></span>[33](#fn_36) The supposed effect was to warm and
+id="fr_36"></span>[33](#fn_36.md) The supposed effect was to warm and
 soften the abdominal muscles. The quality imparted by
 
 <span id="page_287">p. 287</span>
@@ -77,12 +77,12 @@ place, as already noted, to stay in the pit with as little movement as
 possible, leaving it only for short periods at a time. If they moved
 about or were restless they would through after life be nervous and
 discontented. Once every day they are taken out, carefully wrapped in
-blankets, <span id="fr_37"></span>[34](#fn_37) while the pit is lined
+blankets, <span id="fr_37"></span>[34](#fn_37.md) while the pit is lined
 with hot rocks and filled with fresh brush. During this period and for
 as long as possible afterward, the girls abstain absolutely from meat
 and salt. They are however given plenty of sage-seed mush and drinking
 water. They are not supposed to look at people, especially at men. <span
-id="fr_38"></span>[35](#fn_38) They are carefully warned not to touch
+id="fr_38"></span>[35](#fn_38.md) They are carefully warned not to touch
 their hair with their hands. If they do so it will come out. For this
 reason each girl is given two "scratchers" of shell, or of late years
 two small sticks of wood, which she uses should scratching become
@@ -376,7 +376,7 @@ time. A little is done every day until the whole is completed. One of
 the old women begins it on the second day of the "roasting". The usual
 design is a stripe downward from each corner of the mouth, with
 sometimes a third stripe down the middle of the chin. <span
-id="fr_44"></span>[41](#fn_44) A small disc is sometimes tattooed
+id="fr_44"></span>[41](#fn_44.md) A small disc is sometimes tattooed
 between the eyes. If this tattooing were not done, it is believed that
 the girls would turn into beetles when they die.
 
@@ -384,41 +384,41 @@ the girls would turn into beetles when they die.
 
 ### Footnotes
 
-<span id="fn_34"></span>[285:31](rpdi04.htm#fr_34) H. N. Rust, "A
+<span id="fn_34"></span>[285:31](rpdi04.htm#fr_34.md) H. N. Rust, "A
 Puberty Ceremony of the Mission Indians," Am. Anthr., n.s. VIII, 28,
 1906. For Luiseño accounts see DuBois, op. cit., pp. 93, 174, 224; Am.
 Anthr., n.s. VII, 625, 1905.
 
-<span id="fn_35"></span>[286:32](rpdi04.htm#fr_35) DuBois, op. cit., pp.
+<span id="fn_35"></span>[286:32](rpdi04.htm#fr_35.md) DuBois, op. cit., pp.
 94, 178.
 
-<span id="fn_36"></span>[286:33](rpdi04.htm#fr_36) Rust, op. cit.
+<span id="fn_36"></span>[286:33](rpdi04.htm#fr_36.md) Rust, op. cit.
 
-<span id="fn_37"></span>[287:34](rpdi04.htm#fr_37) Beyond the covering
+<span id="fn_37"></span>[287:34](rpdi04.htm#fr_37.md) Beyond the covering
 of blankets, the girls in this ceremony seem to have worn no clothing.
 One informant at Campo, however, said that they wore short skirts of
 willow-bark, fastened to belts made of milkweed fibre.
 
-<span id="fn_38"></span>[287:35](rpdi04.htm#fr_38) Cf. above, [p.
-277](rpdi02.htm#page_277).
+<span id="fn_38"></span>[287:35](rpdi04.htm#fr_38.md) Cf. above, [p.
+277](rpdi02.htm#page_277.md).
 
-<span id="fn_39"></span>[288:36](rpdi04.htm#fr_39) University of
+<span id="fn_39"></span>[288:36](rpdi04.htm#fr_39.md) University of
 California phonograph record 744(<sup>2</sup>).
 
-<span id="fn_40"></span>[289:37](rpdi04.htm#fr_40) *Ibid*., 745.
+<span id="fn_40"></span>[289:37](rpdi04.htm#fr_40.md) *Ibid*., 745.
 
-<span id="fn_41"></span>[289:38](rpdi04.htm#fr_41) *Ibid*.,
+<span id="fn_41"></span>[289:38](rpdi04.htm#fr_41.md) *Ibid*.,
 746(<sup>1</sup>).
 
-<span id="fn_42"></span>[289:39](rpdi04.htm#fr_42) *Ibid*.,
+<span id="fn_42"></span>[289:39](rpdi04.htm#fr_42.md) *Ibid*.,
 747(<sup>1</sup>).
 
-<span id="fn_43"></span>[289:40](rpdi04.htm#fr_43) *Ibid*.,
+<span id="fn_43"></span>[289:40](rpdi04.htm#fr_43.md) *Ibid*.,
 744(<sup>1</sup>).
 
-<span id="fn_44"></span>[290:41](rpdi04.htm#fr_44) Few women show this
+<span id="fn_44"></span>[290:41](rpdi04.htm#fr_44.md) Few women show this
 tattoo at the present day.
 
 ------------------------------------------------------------------------
 
-[Next: Bad Songs](rpdi05)
+[Next: Bad Songs](rpdi05.md)

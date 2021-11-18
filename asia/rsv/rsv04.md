@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv03)  [Next](rsv05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv03)  [Next](rsv05.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,8 +208,8 @@ enter home. It is a similar concept that causes a number of Vietnamese
 to place the various red papers which represent the god of the threshold
 or doorway on or near the doorposts to frighten evil spirits. This
 belief also underlies the custom practiced by many folk who avoid
-carrying a small child across the [threshold](errata.htm#2). Instead
-they carefully hand it across the [threshold](errata.htm#3) to prevent
+carrying a small child across the [threshold](errata.htm#2.md). Instead
+they carefully hand it across the [threshold](errata.htm#3.md) to prevent
 evil spirits entering the house with the baby and taking its spirit
 while it is unguarded. This fear of evil spirits accounts for the
 strings often seen about the wrists and the necks of small children to
@@ -259,7 +259,7 @@ Fear creates various burial customs among the people. It is fear that
 causes a tribe to bury its dead with exposed feet, or others merely to
 place the body in a deep grave left open so that the spirit can return
 to the village. Fear causes some tribes to tend the graves carefully
-until a set time. Then after a [ceremony](errata.htm#4) of buffalo
+until a set time. Then after a [ceremony](errata.htm#4.md) of buffalo
 
 <span id="page_6">p. 6</span>
 
@@ -286,7 +286,7 @@ assistance is to be shared.
 
 BIBLIOGRAPHY
 
-[Malinowski](errata.htm#5), Bronislaw, <u>Magic, Science and
+[Malinowski](errata.htm#5.md), Bronislaw, <u>Magic, Science and
 Religion</u>, Garden City, New York; Doubleday and Company; 1948
 
 Nida, Eugene A. and William A. Smalley, <u>Introducing Animism</u>, New
@@ -360,4 +360,4 @@ Grave of a tribesman in the I Corps area</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: II. Vietnamese Taoism](rsv05)
+[Next: II. Vietnamese Taoism](rsv05.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas103n)  [Next](jas105n)   
- \[[104. Bird and Hunter.](jas104)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas103n)  [Next](jas105n.md)   
+ \[[104. Bird and Hunter.](jas104.md)\]
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ Dennett, 60-64; Chatelain, 89-97; Lenz, 15-17.
 
 ------------------------------------------------------------------------
 
-[Next: Note 105. Jack and the Devil Errant.](jas105n)
+[Next: Note 105. Jack and the Devil Errant.](jas105n.md)

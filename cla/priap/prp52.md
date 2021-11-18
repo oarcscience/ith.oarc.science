@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp51)  [Next](prp53) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp51)  [Next](prp53.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ beware of ill-doing, when he knows that here is so much of the mentule.
 ------------------------------------------------------------------------
 
 [Next: 53. Bacchus often is wont with a moderate bunch to be
-sated](prp53)
+sated](prp53.md)

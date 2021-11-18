@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam07)  [Next](kam09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam07)  [Next](kam09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -453,7 +453,7 @@ R. Ishmael holds that it means the one to whom the cause of the injury
 previously belonged. But what does R. Aqiba mean by his saying, "That is
 the pit meant by the Scripture"? Thus: Why should this case be free from
 payment? Is this not the very case with which the Scripture began as
-regards payment? <span id="fr_31"></span>[1](#fn_31) R. Joseph, however,
+regards payment? <span id="fr_31"></span>[1](#fn_31.md) R. Joseph, however,
 says, that as to a pit on private premises all agree that there is a
 liability, for the reason stated by R. Aqiba; they only differ as to a
 pit on public ground. R. Ishmael holds that one is also liable in such a
@@ -531,7 +531,7 @@ prepare for the welfare of Israel?" Said R. A'ha: Notwithstanding this,
 his son died of thirst. The reason is, that the Holy One, blessed be He,
 is particular with the upright around Him, even on a hairbreadth, as it
 is written \[Ps. l. 3\]: "And round him there rageth a mighty
-storm" <span id="fr_32"></span>[1](#fn_32) (and there must have been
+storm" <span id="fr_32"></span>[1](#fn_32.md) (and there must have been
 some sin committed by Nehunia for which he was punished). R. Nehunia
 says: From the following passage \[ibid. lxix. 8\]: "God is *greatly*
 terrific in the secret council of the holy ones, and fear-inspiring
@@ -745,7 +745,7 @@ do so,
 the liability of the first ceases. R. Eliezer b. Jacob, however, says
 that the liability ceases from the moment he delivered him the cover of
 the well. On what point do they differ? R. Eliezer b. Jacob holds that
-the theory of choice <span id="fr_33"></span>[1](#fn_33) applies to such
+the theory of choice <span id="fr_33"></span>[1](#fn_33.md) applies to such
 a case, and each drew water from his own part (and therefore the second
 is not considered to have borrowed from the first his share, so as to be
 charged with the care of the whole, and for that reason both are liable
@@ -964,7 +964,7 @@ what is usual.
 GEMARA: Concerning falling into a pit, it reads \[Ex. xxi. 34\]: "In
 money unto the *owner* thereof," which signifies any animal that has an
 owner. Concerning Mount Sinai, it reads \[ibid. xix. 13\]: "Whether it
-be *animal* <span id="fr_34"></span>[1](#fn_34) or man, it shall not
+be *animal* <span id="fr_34"></span>[1](#fn_34.md) or man, it shall not
 live," which includes also beasts; and the word "whether" includes also
 birds. Concerning payment of double, it reads \[ibid. xxii. 8\]: "For
 *all* manner of trespass," which signifies that every manner of trespass
@@ -993,7 +993,7 @@ should be taken as *general* and that of the last commandments as
 *particular*, and as there is a rule that the *general* includes nothing
 but the *particular*, this means to say that only ox and ass are meant,
 and nothing else? Nay, it states, at the last commandments, also
-"*all* <span id="fr_35"></span>[2](#fn_35) of thy cattle," and the word
+"*all* <span id="fr_35"></span>[2](#fn_35.md) of thy cattle," and the word
 
 <span id="page_129">p. 129</span>
 
@@ -1065,25 +1065,25 @@ time.
 
 ### Footnotes
 
-<span id="fn_31"></span>[116:1](kam08.htm#fr_31) Rashi explains that of
+<span id="fn_31"></span>[116:1](kam08.htm#fr_31.md) Rashi explains that of
 the pit mentioned as regards payment it is plainly written, "the *owner*
 of the pit shall pay"; of a pit, however, on public ground the Scripture
 begins with, "If one *open* a pit"--and the Mishna treats of one that
 *dug* a pit. Hence R. Aqiba's statement.
 
-<span id="fn_32"></span>[118:1](kam08.htm#fr_32) The Hebrew term is
+<span id="fn_32"></span>[118:1](kam08.htm#fr_32.md) The Hebrew term is
 "Nisarah," and the Talmud explains it to mean a "hair," from the Hebrew
 word "saar" (a hair).
 
-<span id="fn_33"></span>[123:1](kam08.htm#fr_33) See Erubin, pages
+<span id="fn_33"></span>[123:1](kam08.htm#fr_33.md) See Erubin, pages
 80-82.
 
-<span id="fn_34"></span>[128:1](kam08.htm#fr_34) Leeser translates
+<span id="fn_34"></span>[128:1](kam08.htm#fr_34.md) Leeser translates
 "beast."
 
-<span id="fn_35"></span>[128:2](kam08.htm#fr_35) The Talmud translates
+<span id="fn_35"></span>[128:2](kam08.htm#fr_35.md) The Talmud translates
 the Hebrew term literally, "all," while Leeser translates it "any."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI.](kam09)
+[Next: Chapter VI.](kam09.md)

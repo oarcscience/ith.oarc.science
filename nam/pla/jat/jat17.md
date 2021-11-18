@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat16)  [Next](jat18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat16)  [Next](jat18.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_208">p. 208</span>
 
-### 15. COYOTE SECURES FIRE. <span id="fr_27"></span>[1](#fn_27)
+### 15. COYOTE SECURES FIRE. <span id="fr_27"></span>[1](#fn_27.md)
 
 Fireflies had their camp where high rocks stood around it in a circle
 and there was no trail leading down to it. They were the only people who
@@ -34,7 +34,7 @@ he went in, red and without a skin. Then the others caught him and
 pushed him into a badger's hole. He came out with a coat of short fur.
 He wished to bet again but the others would not permit him saying, "You
 cry so about it that every one is ashamed." <span
-id="fr_28"></span>[2](#fn_28)
+id="fr_28"></span>[2](#fn_28.md)
 
 When it was nearly night Fireflies built a fire in the center of their
 camp preparatory to a dance. When the people were all standing about
@@ -65,7 +65,7 @@ thing of all that was on the world that was not burned.
 
 ### Footnotes
 
-<span id="fn_27"></span>[208:1](jat17.htm#fr_27) Russell obtained this
+<span id="fn_27"></span>[208:1](jat17.htm#fr_27.md) Russell obtained this
 story with additional details. The hero in his account should be Coyote
 instead of Fox, an error probably due to the interpreter. The birds with
 whom he was flying, if named tetl, (deL) were cranes instead of geese,
@@ -74,9 +74,9 @@ Southwest, a similar origin for fire is found in many other localities.
 Teit, (a), pp. 56-57; Goddard, p. 195; Lowie, (a), p. 244; Kroeber, (c),
 pp. 252-260.
 
-<span id="fn_28"></span>[208:2](jat17.htm#fr_28) Matthews has this
+<span id="fn_28"></span>[208:2](jat17.htm#fr_28.md) Matthews has this
 incident in another connection, p. 97.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Coyote Secures Fire. (Second Version.)](jat18)
+[Next: 16. Coyote Secures Fire. (Second Version.)](jat18.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku04)  [Next](tku06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku04)  [Next](tku06.md) 
 
 ------------------------------------------------------------------------
 
@@ -594,4 +594,4 @@ points or marks placed close to the letters.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III.](tku06)
+[Next: Chapter III.](tku06.md)

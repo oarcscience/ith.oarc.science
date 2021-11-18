@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb25)  [Next](crfb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb25)  [Next](crfb27.md) 
 
 </div>
 
@@ -333,6 +333,6 @@ And so they were.
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Abu Nowas and of His Wife](crfb27)
+[Next: The Death of Abu Nowas and of His Wife](crfb27.md)
 
 </div>

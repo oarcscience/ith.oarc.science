@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,34 +34,34 @@ punctuation, was proofed according to a 1901 edition.
 
 ------------------------------------------------------------------------
 
-[Title Page](gft00)  
-[Contents](gft01)  
-[Illustrations](gft02)  
-[Preface](gft03)  
+[Title Page](gft00.md)  
+[Contents](gft01.md)  
+[Illustrations](gft02.md)  
+[Preface](gft03.md)  
 <span id="section_000"></span>
 
 ### The First Story--Perseus
 
-[Part One: How Perseus and His Mother Came to Seriphos](gft04)  
-[Part Two: How Perseus Vowed a Rash Vow](gft05)  
-[Part Three: How Perseus Slew the Gorgon](gft06)  
-[Part Four: How Perseus Came to the Æthiops](gft07)  
-[Part Five: How Perseus Came Home Again](gft08)  
+[Part One: How Perseus and His Mother Came to Seriphos](gft04.md)  
+[Part Two: How Perseus Vowed a Rash Vow](gft05.md)  
+[Part Three: How Perseus Slew the Gorgon](gft06.md)  
+[Part Four: How Perseus Came to the Æthiops](gft07.md)  
+[Part Five: How Perseus Came Home Again](gft08.md)  
 <span id="section_001"></span>
 
 ### The Second Story--The Argonauts
 
-[Part One: How the Centaur Trained the Heroes on Pelion](gft09)  
-[Part Two: How Jason Lost His Sandal in Anauros](gft10)  
-[Part Three: How They Built the Ship Argo in Iolcos](gft11)  
-[Part Four: How the Argonauts Sailed to Colchis](gft12)  
-[Part Five: How the Argonauts Were Driven into the Unknown Sea](gft13)  
-[Part Six: What was the end of the Heroes?](gft14)  
+[Part One: How the Centaur Trained the Heroes on Pelion](gft09.md)  
+[Part Two: How Jason Lost His Sandal in Anauros](gft10.md)  
+[Part Three: How They Built the Ship Argo in Iolcos](gft11.md)  
+[Part Four: How the Argonauts Sailed to Colchis](gft12.md)  
+[Part Five: How the Argonauts Were Driven into the Unknown Sea](gft13.md)  
+[Part Six: What was the end of the Heroes?](gft14.md)  
 <span id="section_002"></span>
 
 ### The Third Story--Theseus
 
-[Part One: How Theseus Lifted the Stone](gft15)  
-[Part Two: How Theseus Slew the Devourers of Men](gft16)  
-[Part Three: How Theseus Slew the Minotaur](gft17)  
-[Part Four: How Theseus Fell By His Pride](gft18)  
+[Part One: How Theseus Lifted the Stone](gft15.md)  
+[Part Two: How Theseus Slew the Devourers of Men](gft16.md)  
+[Part Three: How Theseus Slew the Minotaur](gft17.md)  
+[Part Four: How Theseus Fell By His Pride](gft18.md)  

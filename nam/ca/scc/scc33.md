@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc32)  [Next](scc34) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc32)  [Next](scc34.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ the prairie falcon lost. He lost all his beads.
 ------------------------------------------------------------------------
 
 [Next: 32.--Yaudanchi Yokuts. War Of The Foothill And Plains
-People.](scc34)
+People.](scc34.md)

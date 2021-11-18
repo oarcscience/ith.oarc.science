@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk14)  [Next](tpk16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk14)  [Next](tpk16.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Abraham Anglo-Saxon the leper has no place in this earth if you please
 
 ------------------------------------------------------------------------
 
-[Next: Matrimonial Affidavit](tpk16)
+[Next: Matrimonial Affidavit](tpk16.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr02)  [Next](ppr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr02)  [Next](ppr04.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ I unwind my song like a string of jewels, all precious.
 
 ------------------------------------------------------------------------
 
-[Next: To the Creative God (Accadian)](ppr04)
+[Next: To the Creative God (Accadian)](ppr04.md)

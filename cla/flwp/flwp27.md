@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### From the MS. Commentary of <span class="smallcaps">Proclus</span> on the Tenth Book of the Republic of <span class="smallcaps">Plato</span>. <span id="fr_89"></span>[\*](#fn_89)
+### From the MS. Commentary of <span class="smallcaps">Proclus</span> on the Tenth Book of the Republic of <span class="smallcaps">Plato</span>. <span id="fr_89"></span>[\*](#fn_89.md)
 
 <span class="smallcaps">Proclus</span> having observed, that some
 persons in his time have been seen sitting or standing on the sepulchres
@@ -84,7 +84,7 @@ terrestrial dæmons. Her dead body was seen by every one lying in her
 father's house; and on digging the place, which prior to this had
 contained her body, it was found to be empty, by those of her kindred
 who came thither, through unbelief of what had happened to her. <span
-id="fr_90"></span>[\*](#fn_90) The truth of this narration is testified
+id="fr_90"></span>[\*](#fn_90.md) The truth of this narration is testified
 both by the epistles of Hipparchus and those of Arridæus to Philip, in
 which they give an account of the affairs of Amphipolis.
 
@@ -93,7 +93,7 @@ this phænomenon, as follows: "Many other of the ancients have collected
 a history of those that have apparently died, and afterwards revived;
 and among these are the natural philosopher Democritus, in his writings
 concerning Hades, and that wonderful Conotes, the familiar of
-Plato <span id="fr_91"></span>[†](#fn_91); \* \* \* for the death was
+Plato <span id="fr_91"></span>[†](#fn_91.md); \* \* \* for the death was
 not, as it seemed, an entire desertion of the whole life of the body,
 but a cessation,
 
@@ -128,15 +128,15 @@ Aristotle were persuaded that the soul is separate from the body."
 
 ### Footnotes
 
-<span id="fn_89"></span>[109:\*](flwp27.htm#fr_89) The learned reader,
+<span id="fn_89"></span>[109:\*](flwp27.htm#fr_89.md) The learned reader,
 who is desirous of seeing the original of the above Translation, will
 find it in the Notes to my Translation of Plato's Republic.
 
-<span id="fn_90"></span>[112:\*](flwp27.htm#fr_90) See this instance of
+<span id="fn_90"></span>[112:\*](flwp27.htm#fr_90.md) See this instance of
 revivification more fully detailed by Phlegon Tralliamis, in his
 Treatise de Mirabilibus et Longævis.
 
-<span id="fn_91"></span>[112:†](flwp27.htm#fr_91) There is an
+<span id="fn_91"></span>[112:†](flwp27.htm#fr_91.md) There is an
 unfortunate chasm here in the Manuscript of two or three lines.
 
  

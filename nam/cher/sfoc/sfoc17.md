@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc16)  [Next](sfoc18) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc16)  [Next](sfoc18.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ their medicinal virtues to the water.
 
 ------------------------------------------------------------------------
 
-[Next: Shamans and White Physicians](sfoc18)
+[Next: Shamans and White Physicians](sfoc18.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk16)  [Next](wyvbk18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk16)  [Next](wyvbk18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -210,7 +210,7 @@ defence.
 Exceeding mighty be your arms, that none may wound or  
 injure you.  
 47 That army of our enemies, O Maruts, that comes against  
-us with its might, [contending](errata.htm#7),  
+us with its might, [contending](errata.htm#7.md),  
 Meet ye and wrap it in unwelcome darkness so that not one  
 of them may know another.  
 48 There where the flights of arrows fall like boys whose locks  
@@ -224,7 +224,7 @@ triumph may the Gods be joyful.
 50 Worshipped with butter, Agni, lead this man to high  
 preeminence.  
 Vouchsafe him growth of riches and multiply him with  
-[progeny](errata.htm#8).
+[progeny](errata.htm#8.md).
 
 <span id="page_155">p. 155</span>
 
@@ -425,4 +425,4 @@ at this gathering, o’er the surface of the floods.
 
 ------------------------------------------------------------------------
 
-[Next: Book XVIII](wyvbk18)
+[Next: Book XVIII](wyvbk18.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim59)  [Next](sim61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim59)  [Next](sim61.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ After that they all lived together happily.
 
 ------------------------------------------------------------------------
 
-[Next: The Man-Eater and his Younger Brother](sim61)
+[Next: The Man-Eater and his Younger Brother](sim61.md)

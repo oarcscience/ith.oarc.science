@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](msj05) 
-[Next](msj07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](msj05.md) 
+[Next](msj07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master-Singers of Japan*, by Clara A. Walsh, \[1914\], at
 Intangible Textual Heritage
 
@@ -64,7 +64,7 @@ Hath the fair maid of Mama gathered!
 
 <span id="page_31">p. 31</span>
 
-LAY ON THE RUINED CHAPEL OF TAKECHI <span id="fr_0"></span>[\*](#fn_0)
+LAY ON THE RUINED CHAPEL OF TAKECHI <span id="fr_0"></span>[\*](#fn_0.md)
 
 <span class="smallcaps">By Kamo no Kimitari-Hito</span>
 
@@ -207,13 +207,13 @@ In a dream-vision—Heaven-seat.
 
 ### Footnotes
 
-<span id="fn_0"></span>[31:\*](msj06.htm#fr_0) The son of Mikado Temmu,
+<span id="fn_0"></span>[31:\*](msj06.htm#fr_0.md) The son of Mikado Temmu,
 and a valiant warrior; died A.D. 696.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: IV.](msj07)
+[Next: IV.](msj07.md)
 
 </div>

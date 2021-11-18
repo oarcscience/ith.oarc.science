@@ -42,13 +42,13 @@ evil.
 ------------------------------------------------------------------------
 
 <span class="c_e"> <span class="c_t">[The History of the
-Devil](hod/index)</span> by <span class="c_a">Paul Carus</span> \[<span
+Devil](hod/index.md)</span> by <span class="c_a">Paul Carus</span> \[<span
 class="c_d">1900</span>\]   <span class="c_b">A comprehensive account of
 the history of evil, in particular as symbolized by the Christian devil,
 but also including a wide-ranging survey of other religions.</span>
 Extensively illustrated. </span>
 
-<span class="c_e"> <span class="c_t">[The Evil Eye](tee/index)</span> by
+<span class="c_e"> <span class="c_t">[The Evil Eye](tee/index.md)</span> by
 <span class="c_a">Frederick Thomas Elworthy</span> \[<span
 class="c_d">1895</span>\]   <span class="c_b">A comprehensive
 exploration of a somewhat different, and probably more ancient theory of
@@ -56,13 +56,13 @@ evil, and the ways to ward it off using talismans and gestures.</span>
 Likewise extensively illustrated. </span>
 
 <span class="c_e"> <span class="c_t">[Devil Worship in
-France](dwf/index)</span> by <span class="c_a">Arthur Edward
+France](dwf/index.md)</span> by <span class="c_a">Arthur Edward
 Waite</span> \[<span class="c_d">1896</span>\]   <span class="c_b">A.E.
 Waite debunks false accusations that Freemasons worship the
 Devil.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Devils of
-Loudun](dol/index)</span> by <span class="c_a">Edmund Goldsmid</span>
+Loudun](dol/index.md)</span> by <span class="c_a">Edmund Goldsmid</span>
 \[<span class="c_d">1887</span>\]   <span class="c_b">A translation of
 the primary source on the 1634 mass possession of the nuns of
 Loudun.</span> </span>

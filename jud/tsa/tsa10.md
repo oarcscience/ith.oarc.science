@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa09)  [Next](tsa11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa09)  [Next](tsa11.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,12 +15,12 @@ Heritage
 
 <span class="margnote">**M**.</span>III. 6a. How were witnesses
 examined? They were brought in and admonished; <span
-id="fr_212"></span>[1](#fn_210) they were then sent out, leaving behind
+id="fr_212"></span>[1](#fn_210.md) they were then sent out, leaving behind
 the chief one of them. He is asked, "How do you know that A is indebted
 to B?" If he answer, "A acknowledged the indebtedness to me," or "C told
 me that A was indebted to B," his statement is valueless. His evidence
 is valueless until he can say, "In our presence A acknowledged that he
-owed B two hundred *zuzim*." <span id="fr_213"></span>[2](#fn_211)
+owed B two hundred *zuzim*." <span id="fr_213"></span>[2](#fn_211.md)
 
 **T**. V. 5*b*. The evidence of witnesses is not regarded as valid
 unless they have actually seen what they assert; and R. Jehoshua, the
@@ -57,7 +57,7 @@ goes out he must not say, "It was I who acquitted and my colleagues who
 convicted; but what can I do when they are in the majority"? Of such a
 one as this it is said: HE THAT GOETH ABOUT AS A TALEBEARER, REVEALETH
 SECRETS; BUT HE THAT IS OF A FAITHFUL SPIRIT CONCEALETH THE
-MATTER. <span id="fr_214"></span>[1](#fn_212)
+MATTER. <span id="fr_214"></span>[1](#fn_212.md)
 
 **T**. VI. 2. Men must stand when they pronounce sentence, or bear
 witness, or ask for absolution from vows, or when they remove any one
@@ -65,7 +65,7 @@ from the status  of priesthood or of Israelitish citizenship. The judges
 may not show forbearance to one man and strictness to another, nor
 suffer one to stand and another to sit; for it is written: IN
 RIGHTEOUSNESS SHALT THOU JUDGE THY NEIGHBOUR. <span
-id="fr_215"></span>[2](#fn_213) R. Jehuda said, "I have heard a
+id="fr_215"></span>[2](#fn_213.md) R. Jehuda said, "I have heard a
 tradition that if they wish to let them both sit, they can do so; yet
 this is of no
 
@@ -110,7 +110,7 @@ bring forward evidence, it may undo the decision. If he have
 
 been told to bring forward all his evidence within M. thirty days, and
 he do so within the thirty days, it may undo the decision. But after
-thirty days it may not <span id="fr_216"></span>[1](#fn_214)undo the
+thirty days it may not <span id="fr_216"></span>[1](#fn_214.md)undo the
 decision.
 
 Rabban Shimeon, the son of Gamaliel, asked: "What happens if he have not
@@ -162,11 +162,11 @@ completed. They cannot be scourged, fined, or put to death, until the
 trial has been completed. One of the witnesses cannot be adjudged a
 perjurer without the other; and one cannot be scourged without the
 other, or put to death without the other, or fined without the other.
-Said R. Jehuda, <span id="fr_217"></span>[1](#fn_215) the son of Tabbai:
+Said R. Jehuda, <span id="fr_217"></span>[1](#fn_215.md) the son of Tabbai:
 "May I not live to see the consolation, <span
-id="fr_218"></span>[2](#fn_216) if I did not once put to death a
+id="fr_218"></span>[2](#fn_216.md) if I did not once put to death a
 perjured witness in order to root out the opinion of the
-Boethuseans, <span id="fr_219"></span>[3](#fn_217) who used to say that
+Boethuseans, <span id="fr_219"></span>[3](#fn_217.md) who used to say that
 
 <span id="page_67">p. 67</span>
 
@@ -176,11 +176,11 @@ a perjured witness could not be put to death till after the accused had
 been put to death." Shimeon, the son of Shatah, said to him: "May I not
 live to see the consolation, if thou hast not shed innocent blood! For
 the Law says: AT THE MOUTH OF TWO WITNESSES OR THREE WITNESSES SHALL HE
-THAT IS TO DIE BE PUT TO DEATH. <span id="fr_220"></span>[1](#fn_218)
+THAT IS TO DIE BE PUT TO DEATH. <span id="fr_220"></span>[1](#fn_218.md)
 Just as there are two witnesses, so there must be two perjurers." At
 that time Jehuda, the son of Tabbai, agreed that he would never utter a
 legal decision except in agreement with Shimeon, the son of
-Shatah. <span id="fr_221"></span>[2](#fn_219)
+Shatah. <span id="fr_221"></span>[2](#fn_219.md)
 
 VII\. I. Said Rabban Shimeon, the son of Gamaliel: At first, the only
 ones who subscribed to women's marriage settlements were either priests,
@@ -189,7 +189,7 @@ families.
 
 Said R. Jose: At first there were no contendings of opinion in Israel
 except in the court of the seventy in the Hewn Chamber. <span
-id="fr_222"></span>[3](#fn_220) Other courts of twenty-three were in the
+id="fr_222"></span>[3](#fn_220.md) Other courts of twenty-three were in the
 various cities of the land of Israel, and two other courts of three each
 were in Jerusalem, one in the Temple Mount, and one in the chamber of
 the Temple Wall. If any one were in need of legal direction, he went to
@@ -209,26 +209,26 @@ they told it to them; if not, both parties went to the court in the Hewn
 Chamber.
 
 This court consists in all of seventy-one members, and never falls below
-twenty-three. <span id="fr_223"></span>[1](#fn_221) If one of the
+twenty-three. <span id="fr_223"></span>[1](#fn_221.md) If one of the
 members wish to go out he first looks round: if there are twenty-three
 there, he may go out; if not he cannot.
 
 This court used to sit from the time of the morning daily offering till
 the evening burnt offering; but on Sabbaths and holy days the members
 used only to go to the *Beth Midrash* <span
-id="fr_224"></span>[2](#fn_222) in the Temple Mount. If, when a question
+id="fr_224"></span>[2](#fn_222.md) in the Temple Mount. If, when a question
 was put to them, they knew a tradition bearing on the case, they told
 it; if not, it was put to the vote. If in a case, the majority decreed a
 thing to be unclean, it was unclean; if clean, it was clean. Thence did
 the legal decision go forth and spread abroad in Israel.
 
 But from the time that the disciples of Shammai and Hillel grew so
-numerous, <span id="fr_225"></span>[3](#fn_223) these few courts did not
+numerous, <span id="fr_225"></span>[3](#fn_223.md) these few courts did not
 suffice for their needs, and opposing views increased in Israel.
 Therefore they (in the chief court in Jerusalem) used to send and seek
 out every one who was wise and sane, fearing sin and of blameless past,
 and from whom the spirit of health descended. Such a one they made a
-judge in his city. <span id="fr_226"></span>[4](#fn_224) After he had
+judge in his city. <span id="fr_226"></span>[4](#fn_224.md) After he had
 served as a judge in his own city they brought him up and gave him a
 seat in the court in the chamber of the Temple Wall; and from there they
 promoted him to the court in the Hewn Chamber.
@@ -238,20 +238,20 @@ promoted him to the court in the Hewn Chamber.
 <span class="margnote">T.</span>
 
 It was there that they sat and investigated the priestly and Levitical
-pedigrees. <span id="fr_227"></span>[1](#fn_225) The priest whose claim
+pedigrees. <span id="fr_227"></span>[1](#fn_225.md) The priest whose claim
 to the priesthood was found to be invalid went away clothed and veiled
 in black; while he whose claim was found to be valid, was clothed in
 white and served with his brethren the priests. He brought the tenth of
-an ephah <span id="fr_228"></span>[2](#fn_226) as his sin-offering, and
+an ephah <span id="fr_228"></span>[2](#fn_226.md) as his sin-offering, and
 offered it with his own hand, even though it was not his course. <span
-id="fr_229"></span>[3](#fn_227) But whether he be a high-priest or an
+id="fr_229"></span>[3](#fn_227.md) But whether he be a high-priest or an
 ordinary priest, if he have served in the Temple before bringing his
-tenth of an ephah, <span id="fr_230"></span>[4](#fn_228) his service is
+tenth of an ephah, <span id="fr_230"></span>[4](#fn_228.md) his service is
 valid.
 
 2 *a*. They may not judge two cases on one day, even though they be the
 cases of an adulterer and his paramours. <span
-id="fr_231"></span>[5](#fn_229) But they judge the one first and then
+id="fr_231"></span>[5](#fn_229.md) But they judge the one first and then
 the other. And they cannot vote on two points at once, nor be asked two
 questions at the same time; but they vote first on the one and then on
 the other, and first hear the one question and then the other. They may
@@ -281,73 +281,73 @@ and sit apart.
 
 ### Footnotes
 
-<span id="fn_210"></span>[62:1](tsa10.htm#fr_212) Put on oath.
+<span id="fn_210"></span>[62:1](tsa10.htm#fr_212.md) Put on oath.
 
-<span id="fn_211"></span>[62:2](tsa10.htm#fr_213) The *zuz* was
+<span id="fn_211"></span>[62:2](tsa10.htm#fr_213.md) The *zuz* was
 equivalent to the silver denarius, worth a quarter of a shekel.
 
-<span id="fn_212"></span>[63:1](tsa10.htm#fr_214) Prov. 11. 13.
+<span id="fn_212"></span>[63:1](tsa10.htm#fr_214.md) Prov. 11. 13.
 
-<span id="fn_213"></span>[63:2](tsa10.htm#fr_215) Lev. 19. 15.
+<span id="fn_213"></span>[63:2](tsa10.htm#fr_215.md) Lev. 19. 15.
 
-<span id="fn_214"></span>[65:1](tsa10.htm#fr_216) C omits "not."
+<span id="fn_214"></span>[65:1](tsa10.htm#fr_216.md) C omits "not."
 
-<span id="fn_215"></span>[66:1](tsa10.htm#fr_217) Lived in the time of
+<span id="fn_215"></span>[66:1](tsa10.htm#fr_217.md) Lived in the time of
 Alexander Jannaeus and Alexandra (Salome). With Shimeon b. Shatah his
 name is preserved as that of the third of the *Zugoth* "pairs" of
 scholars, who handed on the unwritten tradition from the time of Simon
 the Just. See *Pirke Aboth*, I. 1 f.
 
-<span id="fn_216"></span>[66:2](tsa10.htm#fr_218) For this expression,
+<span id="fn_216"></span>[66:2](tsa10.htm#fr_218.md) For this expression,
 cf. Luke 2. 25.
 
-<span id="fn_217"></span>[66:3](tsa10.htm#fr_219) These were a Jewish
+<span id="fn_217"></span>[66:3](tsa10.htm#fr_219.md) These were a Jewish
 sect, closely akin to the Sadducees, and, like them, denying the
 immortality of the soul, and the resurrection. They are frequently
 referred to as in conflict with the Pharisees.
 
-<span id="fn_218"></span>[67:1](tsa10.htm#fr_220) Deut. 17. 6.
+<span id="fn_218"></span>[67:1](tsa10.htm#fr_220.md) Deut. 17. 6.
 
-<span id="fn_219"></span>[67:2](tsa10.htm#fr_221) According to rabbinic
+<span id="fn_219"></span>[67:2](tsa10.htm#fr_221.md) According to rabbinic
 tradition (see *Tosefta Hagiga*, 2. 8.) Shimeon and Jehuda were
 President and Vice-President respectively of the court.
 
-<span id="fn_220"></span>[67:3](tsa10.htm#fr_222) The meaning is, that
+<span id="fn_220"></span>[67:3](tsa10.htm#fr_222.md) The meaning is, that
 here only was it allowed to decide by vote an issue for which tradition
 gave no guidance. The judgments of the other courts were tied to
 precedents.
 
-<span id="fn_221"></span>[68:1](tsa10.htm#fr_223) The minimum necessary
+<span id="fn_221"></span>[68:1](tsa10.htm#fr_223.md) The minimum necessary
 in a capital case.
 
-<span id="fn_222"></span>[68:2](tsa10.htm#fr_224) House of Study. The
+<span id="fn_222"></span>[68:2](tsa10.htm#fr_224.md) House of Study. The
 Sabbath was devoted to the study, as opposed to the practice, of the
 Law.
 
-<span id="fn_223"></span>[68:3](tsa10.htm#fr_225) The School of Hillel
+<span id="fn_223"></span>[68:3](tsa10.htm#fr_225.md) The School of Hillel
 and the School of Shammai were representatives of rival types of
 exegesis; the one arguing in favour of a more lenient, and the other for
 a more harshly literal interpretation of the Law.
 
-<span id="fn_224"></span>[68:4](tsa10.htm#fr_226) Apparently to act as
+<span id="fn_224"></span>[68:4](tsa10.htm#fr_226.md) Apparently to act as
 local expert, and avoid as far as possible the need of appealing to a
 higher court.
 
-<span id="fn_225"></span>[69:1](tsa10.htm#fr_227) Cf. Josephus, *Contr.
+<span id="fn_225"></span>[69:1](tsa10.htm#fr_227.md) Cf. Josephus, *Contr.
 Apion*. I. 7.
 
-<span id="fn_226"></span>[69:2](tsa10.htm#fr_228) Lev. 6. 20.
+<span id="fn_226"></span>[69:2](tsa10.htm#fr_228.md) Lev. 6. 20.
 
-<span id="fn_227"></span>[69:3](tsa10.htm#fr_229) 1 Chron. 24. 1 ff. Cr.
+<span id="fn_227"></span>[69:3](tsa10.htm#fr_229.md) 1 Chron. 24. 1 ff. Cr.
 Luke I. 8.
 
-<span id="fn_228"></span>[69:4](tsa10.htm#fr_230) That is, before the
+<span id="fn_228"></span>[69:4](tsa10.htm#fr_230.md) That is, before the
 revision of his priestly pedigree.
 
-<span id="fn_229"></span>[69:5](tsa10.htm#fr_231) Where conviction in
+<span id="fn_229"></span>[69:5](tsa10.htm#fr_231.md) Where conviction in
 the one case involves conviction in the other.
 
 ------------------------------------------------------------------------
 
 [Next: Differences in Legal Procedure distinguishing Capital from
-Non-Capital Cases](tsa11)
+Non-Capital Cases](tsa11.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe03)  [Next](poe05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe03)  [Next](poe05.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ imitation.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Origin and Development of Poetry](poe05)
+[Next: IV. The Origin and Development of Poetry](poe05.md)

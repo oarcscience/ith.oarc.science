@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff37)  [Next](fff39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff37)  [Next](fff39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -166,7 +166,7 @@ flourishing body. Although it is doubted whether the ideas there
 described are precisely the same as the original system of Marcion, it
 is evident that the Marcionite tradition was of a distinctly Gnostic
 tendency, and that Marcion owed more to his predecessors in Gnosticism
-than was [usually](errata.htm#29) supposed prior to the first
+than was [usually](errata.htm#29.md) supposed prior to the first
 translation of Eznik's treatise (into French) in 1833.
 
 It will be sufficient here to shorten Salmon's summary of this curious
@@ -265,4 +265,4 @@ we have only space to refer to Apelles.
 
 ------------------------------------------------------------------------
 
-[Next: Apelles](fff39)
+[Next: Apelles](fff39.md)

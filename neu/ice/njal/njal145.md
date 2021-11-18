@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal144)  [Next](njal146) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal144)  [Next](njal146.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,4 +201,4 @@ long."
 
 ------------------------------------------------------------------------
 
-[Next: 146. The Award Of Atonement With Thorgeir Craggeir](njal146)
+[Next: 146. The Award Of Atonement With Thorgeir Craggeir](njal146.md)

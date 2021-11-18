@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi073)  [Next](mtsi075) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi073)  [Next](mtsi075.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,16 +103,16 @@ dead, as Wolf supposed, and Rabbit ran around to its head and kicked it.
 At once the horse jumped up and was so frightened that it kicked and
 kicked until it kicked Wolf to death.
 
-The end. <span id="fr_13"></span>[1](#fn_13)
+The end. <span id="fr_13"></span>[1](#fn_13.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_13"></span>[66:1](mtsi074.htm#fr_13) My informant
+<span id="fn_13"></span>[66:1](mtsi074.htm#fr_13.md) My informant
 volunteered the information that at the end of a story all of the
 listeners would spit.
 
 ------------------------------------------------------------------------
 
-[Next: 73. Rabbit Rides Wolf (Second Version)](mtsi075)
+[Next: 73. Rabbit Rides Wolf (Second Version)](mtsi075.md)

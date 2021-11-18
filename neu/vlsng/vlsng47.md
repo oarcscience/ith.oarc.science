@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng46)  [Next](vlsng48) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng46)  [Next](vlsng48.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ the Saga; and is, in fact, the original verse of Chapter XXI.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix III: The Lay Called The Short Lay Of Sigurd](vlsng48)
+[Next: Appendix III: The Lay Called The Short Lay Of Sigurd](vlsng48.md)

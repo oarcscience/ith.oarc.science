@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap72) 
-[Next](bap74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap72.md) 
+[Next](bap74.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ people.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LX](bap74)
+[Next: Chapter LX](bap74.md)

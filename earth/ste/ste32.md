@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste31)  [Next](ste33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste31)  [Next](ste33.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ pleasures of a mortal life. But I proceed to our Subject.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The true state of the Question is propos’d](ste33)
+[Next: Chapter II. The true state of the Question is propos’d](ste33.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr46)  [Next](corr48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr46)  [Next](corr48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER XLIX.
 
-#### SPINOZA TO ISAAC OROBIO. <span id="fr_58"></span>[1](#fn_57)
+#### SPINOZA TO ISAAC OROBIO. <span id="fr_58"></span>[1](#fn_57.md)
 
 \[A defence of the Tractatus Theologico-Politicus. (The Hague, 1671.)\]
 
@@ -197,11 +197,11 @@ prudence this letter, and myself, who am, &c.
 
 ### Footnotes
 
-<span id="fn_57"></span>[364:1](corr47.htm#fr_58) The rough copy of this
+<span id="fn_57"></span>[364:1](corr47.htm#fr_58.md) The rough copy of this
 letter is still preserved, and contains many strong expressions of
 Spinoza's indignation against Velthuysen, which be afterwards suppressed
 or mitigated.
 
 ------------------------------------------------------------------------
 
-[Next: Letter L. To Jarig Jellis](corr48)
+[Next: Letter L. To Jarig Jellis](corr48.md)

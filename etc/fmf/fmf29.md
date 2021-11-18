@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf28)  [Next](fmf30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf28)  [Next](fmf30.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ Preferable.
 
 ------------------------------------------------------------------------
 
-[Next: The Fable of The Day's Work and The Morning After](fmf30)
+[Next: The Fable of The Day's Work and The Morning After](fmf30.md)

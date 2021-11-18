@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft58)  [Next](pft60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft58)  [Next](pft60.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE SUN AND THE MOON  <span id="fr_159"></span>[160](pft68.htm#fn_159)
+### THE SUN AND THE MOON  <span id="fr_159"></span>[160](pft68.htm#fn_159.md)
 
 *Visayan*
 
@@ -36,8 +36,8 @@ the face of the Moon.
 Then the Sun started to chase her, and they have been going ever since.
 Sometimes he gets so near that he almost catches her, but she escapes,
 and by and by she is far ahead again.  <span
-id="fr_160"></span>[161](pft68.htm#fn_160)
+id="fr_160"></span>[161](pft68.htm#fn_160.md)
 
 ------------------------------------------------------------------------
 
-[Next: The First Monkey](pft60)
+[Next: The First Monkey](pft60.md)

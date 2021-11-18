@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](wov32)  [Next](wov34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](wov32)  [Next](wov34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddha's Way of Virtue*, by W.D.C Wagiswara and K.J. Saunders,
 \[1920\], at Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte)
 <span class="smallcaps">The</span> "ambrosial (or deathless) path,"
 Nirvāna, is the prize which these stanzas hold out to the strenuous:
 this is at once the goal of effort and its cessation, a calm haven after
-strenuous voyaging. <span id="fr_6"></span>[\*](#fn_6) The seer speaks
+strenuous voyaging. <span id="fr_6"></span>[\*](#fn_6.md) The seer speaks
 with a quiet rapture and a serene assurance which convince us as we
 read, that whether it is Gautama himself who speaks, or whether it is
 the collective voice of his followers, here is in any case the utterance
@@ -79,7 +79,7 @@ have also to remember that it can be experienced here and now. In stanza
 
 <span class="small">"He is the Brahmin who in this very world knows the
 end of sorrow, who has laid the burden aside and is free."</span> <span
-id="fr_7"></span>[\*](#fn_7)
+id="fr_7"></span>[\*](#fn_7.md)
 
 For whilst "the burden" is ultimately bodily existence, yet it is the
 sinfulness and egoism and pride of the flesh which make that burden so
@@ -109,7 +109,7 @@ is evil, but the body enslaved by the tyranny of evil desires.
 And for both teachers it is the perversity of the "flesh" that shapes
 the ideal of escape; though the one longs after the life of dissolution,
 and the other believes that he will be "clothed upon" with a "glorified
-body" hereafter. <span id="fr_8"></span>[\*](#fn_8)
+body" hereafter. <span id="fr_8"></span>[\*](#fn_8.md)
 
 The salient feature of the Buddhist ideal is freedom:
 
@@ -122,7 +122,7 @@ The phrase "highest freedom" occurs more than once in these stanzas as a
 synonym for Nirvāna, and, as Mrs. Rhys Davids has shown, it is this
 aspect of Nirvāna which is most frequently hymned in the *Psalms of the
 Sisters,* that remarkable collection of verses attributed to the
-women-elders of the Sangha. <span id="fr_9"></span>[†](#fn_9) (*Cf.*
+women-elders of the Sangha. <span id="fr_9"></span>[†](#fn_9.md) (*Cf.*
 Dhammapada, 90, 92, 93, 96, etc.)
 
 Inasmuch as this "highest freedom" is escape from lust and other
@@ -132,7 +132,7 @@ Inasmuch as this "highest freedom" is escape from lust and other
 
 ideal for this life: inasmuch as it is escape from the round of rebirths
 it is an ideal for the future: here Arahatship passes over into
-Nirvāna. <span id="fr_10"></span>[\*](#fn_10)
+Nirvāna. <span id="fr_10"></span>[\*](#fn_10.md)
 
 And in both alike the way of escape lies in the mind of man:
 
@@ -142,7 +142,7 @@ And in both alike the way of escape lies in the mind of man:
 
 "All that we are by Mind is wrought,  
 Fashioned and fathered by our Thought." <span
-id="fr_11"></span>[\*](#fn_10)
+id="fr_11"></span>[\*](#fn_10.md)
 
 </div>
 
@@ -230,7 +230,7 @@ does not let it master him."</span>
 "Hear from me," says Gautama. "Hear from me what kind of Bhikkhu could
 add a lustre to the wood; one who, sitting serene and controlled,
 resolves: "Till my heart is freed from the ferments of lust I shall not
-quit my seat." <span id="fr_12"></span>[\*](#fn_11)
+quit my seat." <span id="fr_12"></span>[\*](#fn_11.md)
 
 This scene is most suggestive, for it throws
 
@@ -387,31 +387,31 @@ Aylesbury, England.*</span>
 
 ### Footnotes
 
-<span id="fn_6"></span>[102:\*](wov33.htm#fr_6) *Upasama* implies both
+<span id="fn_6"></span>[102:\*](wov33.htm#fr_6.md) *Upasama* implies both
 the idea of Peace and the idea that there has been a struggle to win it.
 
-<span id="fn_7"></span>[104:\*](wov33.htm#fr_7) *cf.* stanza 32: where
+<span id="fn_7"></span>[104:\*](wov33.htm#fr_7.md) *cf.* stanza 32: where
 "near to Nirvāna" should probably be rendered "in the very presence of
 Nirvāna." (<span class="smallcaps">Rhys Davids</span>.)
 
-<span id="fn_8"></span>[105:\*](wov33.htm#fr_8) From a more positive
+<span id="fn_8"></span>[105:\*](wov33.htm#fr_8.md) From a more positive
 point of view we may say that for the Buddhist, Peace is an ideal of
 equilibrium now and of unconsciousness hereafter: for the Christian,
 Peace is an ideal of conscious fellowship with God begun now and
 hereafter consummated.
 
-<span id="fn_9"></span>[105:†](wov33.htm#fr_9) This collection,
+<span id="fn_9"></span>[105:†](wov33.htm#fr_9.md) This collection,
 published by the Pali Text Society, will go far to prove how real and
 deep was the ethical experience of the early Buddhists.
 
-<span id="fn_10"></span>[106:\*](wov33.htm#fr_11) In technical
+<span id="fn_10"></span>[106:\*](wov33.htm#fr_11.md) In technical
 phraseology the *ethical* Nirvāna is called Savupādisesanibbānam, or
 Nirvāna, in which the five skandhas or elements of being remain; and the
 *metaphysical* Nirvāna is called Anupādisesanibbanam, or Nirvāna, in
 which they cease to exist. (See Note at end.)
 
-<span id="fn_11"></span>[108:\*](wov33.htm#fr_12) Majjhima Nikāya, 32.
+<span id="fn_11"></span>[108:\*](wov33.htm#fr_12.md) Majjhima Nikāya, 32.
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](wov34)
+[Next: Advertisements](wov34.md)

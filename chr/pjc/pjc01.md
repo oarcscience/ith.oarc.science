@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc00)  [Next](pjc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc00)  [Next](pjc02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -68,7 +68,7 @@ recognises three descriptions of ecstasy; of which the first is simply
 natural, and entirely brought about by certain physical tendencies and a
 highly imaginative mind; the second divine or angelic, arising from
 intercourse held with the supernatural world; and the third produced by
-infernal agency. <span id="fr_0"></span>[1](#fn_0) Lest we should here
+infernal agency. <span id="fr_0"></span>[1](#fn_0.md) Lest we should here
 write a book instead of a preface, we will not enter into any
 development of this doctrine, which appears to us highly philosophical,
 and without which no satisfactory explanation can be given on the
@@ -223,9 +223,9 @@ that of edification, will not be the losers.
 
 ### Footnotes
 
-<span id="fn_0"></span>[6:1](pjc01.htm#fr_0) See, on this head, the work
+<span id="fn_0"></span>[6:1](pjc01.htm#fr_0.md) See, on this head, the work
 of Cardinal Bona, *De Descretione Spirituum*.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](pjc02)
+[Next: Introduction](pjc02.md)

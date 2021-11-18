@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat13.htm#XCV)  [Previous](satl094) 
-[Next](satl096) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat13.htm#XCV)  [Previous](satl094.md) 
+[Next](satl096.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ se ab omni periculo vindicabat.
 
 ------------------------------------------------------------------------
 
-[Next: XCVI](satl096)
+[Next: XCVI](satl096.md)

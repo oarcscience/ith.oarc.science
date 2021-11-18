@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd18)  [Next](smd20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd18)  [Next](smd20.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,4 +187,4 @@ honoured for that reason.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Thursday--The Day of Thor](smd20)
+[Next: Chapter XVIII. Thursday--The Day of Thor](smd20.md)

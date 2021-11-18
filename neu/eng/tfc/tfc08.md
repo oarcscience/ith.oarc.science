@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tfc07)  [Next](tfc09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tfc07)  [Next](tfc09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales from Chaucer*, by Charles Cowden Clarke, \[1833\], at Intangible
 Textual Heritage
 
@@ -48,7 +48,7 @@ and
 
 noble scholar and poet—the laureate Petrarch (now, alas! in his grave),
 who, with his choice rhetoric and poetry, illumined all Italy, as the
-famous Linian <span id="fr_20"></span>[\*](#fn_20) did with his
+famous Linian <span id="fr_20"></span>[\*](#fn_20.md) did with his
 philosophy. But Death, 'the common end of all, who will come when he
 will come,' has snatched them both away, as it were in the twinkling of
 an eye.
@@ -257,7 +257,7 @@ and because he had the sense to discern
 
 <span id="img_08000"></span> <span align="CENTER"> [![The
 Student](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
 The Student  
 </span>
 
@@ -743,9 +743,9 @@ AND NEXT BEGINS
 
 ### Footnotes
 
-<span id="fn_20"></span>[74:\*](tfc08.htm#fr_20) An eminent lawyer and
+<span id="fn_20"></span>[74:\*](tfc08.htm#fr_20.md) An eminent lawyer and
 philosopher, who lived in the fourteenth century.
 
 ------------------------------------------------------------------------
 
-[Next: The Wife of Bath](tfc09)
+[Next: The Wife of Bath](tfc09.md)

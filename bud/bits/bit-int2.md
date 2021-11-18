@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits012) [Next](bits013)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits012) [Next](bits013.md)
 
 ------------------------------------------------------------------------
 
@@ -184,7 +184,7 @@ astray, as all the different things denoted by it are there enumerated.
 
 ------------------------------------------------------------------------
 
-[Next: § 13. Questions Which Tend Not to Edification](bits013)
+[Next: § 13. Questions Which Tend Not to Edification](bits013.md)
 
  
 

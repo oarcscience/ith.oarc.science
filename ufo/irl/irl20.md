@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl19)  [Next](irl21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl19)  [Next](irl21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -39,7 +39,7 @@ my wrist and ankles. I could move my head, and turning around I saw
 whence came the moans and my name. The brave Aesir were chained down
 alongside me. That was fiendish—chaining Earthmen in range of a pain ray
 that was nearly killing a fifty foot immortal member of the Elder
-Races <span id="fr_56"></span>[20](#fn_56).
+Races <span id="fr_56"></span>[20](#fn_56.md).
 
 <span id="page_169">p. 169</span>
 
@@ -146,7 +146,7 @@ When they had indicated that they understood that, I continued.
 
 "Poised motionless in the exact center of the 'zone,' and pointing in
 the correct direction, the ship is given full power of all the
-plates <span id="fr_57"></span>[21](#fn_57) at once. Ordinarily, such
+plates <span id="fr_57"></span>[21](#fn_57.md) at once. Ordinarily, such
 instant application
 
 <span id="page_172">p. 172</span>
@@ -250,7 +250,7 @@ and forth . . . pain.
 
 ### Footnotes
 
-<span id="fn_56"></span>[168:20](irl20.htm#fr_56) SIZE OF THE ELDER
+<span id="fn_56"></span>[168:20](irl20.htm#fr_56.md) SIZE OF THE ELDER
 RACE: The authors suggest that anyone interested get a copy of Charles
 Fort's "Lo!" In Chapter Nine. he .discusses the findings, BY PRESENT DAY
 HUMANS, of the skeletons of huge creatures 40 to 65 feet in length. The
@@ -272,7 +272,7 @@ If the eyes are a gauge of the full size of the completed skeleton, the
 creature (a member of the Elder Race?) would have to have been at least
 40 feet tall.—Author.
 
-<span id="fn_57"></span>[171:21](irl20.htm#fr_57) DRIVER PLATES: In the
+<span id="fn_57"></span>[171:21](irl20.htm#fr_57.md) DRIVER PLATES: In the
 two thousand years since Mutan's visit to Earth, the ships used by him
 have developed and adopted the drive plate instead of the gas jet drive.
 Both are rocket drives in principle, but different in detail. The drive
@@ -290,4 +290,4 @@ and in some cases still usable.—Author.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Seizing the Satana](irl21)
+[Next: Chapter IX. Seizing the Satana](irl21.md)

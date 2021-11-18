@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng34)  [Next](vlsng36) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng34)  [Next](vlsng36.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ heart laugh on him, and little sweet and kind was their life together.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIV: Atli bids the Giukings to him.](vlsng36)
+[Next: Chapter XXXIV: Atli bids the Giukings to him.](vlsng36.md)

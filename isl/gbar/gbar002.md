@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar001) [Next](gbar003)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar001) [Next](gbar003.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ his life, serving God with all sincerity.
 
 ------------------------------------------------------------------------
 
-[Next](gbar003)
+[Next](gbar003.md)
 
  
 

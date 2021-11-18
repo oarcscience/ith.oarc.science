@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](tdp04)  [Next](tdp06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](tdp04)  [Next](tdp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -273,4 +273,4 @@ Larter Hall.
 ------------------------------------------------------------------------
 
 [Next: Chapter V: The Pixie at the Ockerry. Jimmy Townsend and his
-Sister Race](tdp06)
+Sister Race](tdp06.md)

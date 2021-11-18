@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift16) 
-[Next](ift18) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift16.md) 
+[Next](ift18.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ white-skinned and golden-haired, that the King was transfixed by
 astonishment at seeing so beautiful a sight in the wretched hovel.
 
 <span id="img_46"></span> [![](tn/46.jpg)  
-Click to enlarge](img/46.jpg)
+Click to enlarge](img/46.jpg.md)
 
 She held the vessel of water to the King's lips, and as he drank he
 looked into her eyes, and then it became clear to him that the girl was
@@ -187,7 +187,7 @@ window. The white hind looked out, and lo! there was the King's son
 alive and well.
 
 <span id="img_47"></span> [![](tn/47.jpg)  
-Click to enlarge](img/47.jpg)
+Click to enlarge](img/47.jpg.md)
 
 She cried with hatred and disgust, but sending for the lad, asked him
 how he had returned so soon, and when she heard how he had brought home
@@ -266,7 +266,7 @@ substituted another, on which was written, "Yet again give this lad all
 he requires, for his blood shall be as your blood!"
 
 <span id="img_48"></span> [![](tn/48.jpg)  
-Click to enlarge](img/48.jpg)
+Click to enlarge](img/48.jpg.md)
 
 Now when the old hag saw this, and heard how the lad wanted the
 million-fold rice which ripens in a single night, she fell into the most
@@ -320,4 +320,4 @@ and everybody lived happily.
 
 ------------------------------------------------------------------------
 
-[Next: A Lesson for Kings](ift18)
+[Next: A Lesson for Kings](ift18.md)

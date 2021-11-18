@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft02) 
-[Next](gsft04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft02.md) 
+[Next](gsft04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gypsy Sorcery and Fortune Telling*, by Charles Godfrey Leland,
 \[1891\], at Intangible Textual Heritage
 
@@ -93,7 +93,7 @@ required no property or properties, neither capital nor capitol, shiners
 nor shrines, wherein to work the oracle. And as I believe that a company
 of children left entirely to themselves would form and grow up with a
 language which in a very few years would be spoken fluently, <span
-id="fr_1"></span>[1](#fn_1) so I am certain that the shades of night,
+id="fr_1"></span>[1](#fn_1.md) so I am certain that the shades of night,
 and fear, pain, and lightning and mystery would produce in the same time
 conceptions of dreaded beings, resulting first in demonology and then in
 the fancied art of driving devils away. For out of my own childish
@@ -111,7 +111,7 @@ small boy who had, as he sincerely believed, such a companion, whom he
 called Bill, and when he could not understand his lessons he consulted
 the mysterious William, who explained them to him. There are children
 who, by the voluntary or involuntary exercise of visual perception or
-volitional eye-memory, <span id="fr_2"></span>[2](#fn_2) reproduce or
+volitional eye-memory, <span id="fr_2"></span>[2](#fn_2.md) reproduce or
 create images which they imagine
 
 <span id="page_4">p. 4</span>
@@ -371,7 +371,7 @@ her, however, at her native village of Ramghur, the wife of one Balu.
 Balu soon got tired of his Akuti, and longed for the contents of her
 strong box wherein she kept her rupees, bracelets, nose-rings, and other
 valuables. This was a rather awkward matter for Balu, for Akuti was
-still in the prime of life. Balu accordingly [visits](errata.htm#0) the
+still in the prime of life. Balu accordingly [visits](errata.htm#0.md) the
 gooroo and wants Akuti's liver made bad. "Nothing easier," says the
 gooroo: "five rupees." Balu has reckoned without his host, however: for
 the gooroo, as general spiritual adviser to the Ramghur community,
@@ -433,7 +433,7 @@ gypsy cures, spells, &c., which I have collected.
 
 ### Footnotes
 
-<span id="fn_1"></span>[3:1](gsft03.htm#fr_1) *Vide* an extremely
+<span id="fn_1"></span>[3:1](gsft03.htm#fr_1.md) *Vide* an extremely
 interesting paper on "The Origin of Languages and the Antiquity of
 Speaking Man," by Horatio Hale. \["Proceedings of the American
 Association for the Advancement of Science," vol. xxv.\] As I had, owing
@@ -441,7 +441,7 @@ to studies for many years of baby-talk and jargons, long ago arrived at
 Mr. Hale's conclusions, I was astonished to learn that they have been so
 recently formed by anybody.
 
-<span id="fn_2"></span>[3:2](gsft03.htm#fr_2) *Vide* "Practical
+<span id="fn_2"></span>[3:2](gsft03.htm#fr_2.md) *Vide* "Practical
 Education," by C. G. Leland (London: Whittaker and Co., 1888), in which
 this faculty is fully discussed, pp. 184-213.
 
@@ -450,6 +450,6 @@ this faculty is fully discussed, pp. 184-213.
 ------------------------------------------------------------------------
 
 [Next: Chapter II: Charms and Conjurations to Cure the Disorders of
-Grown People](gsft04)
+Grown People](gsft04.md)
 
 </div>

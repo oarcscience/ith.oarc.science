@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot12) 
-[Next](sot14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot12.md) 
+[Next](sot14.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](sot12) 
 
 # THE STAR.
 
-A strange emotion [seized](errata.htm#4) me. A fiery trembling ran in
+A strange emotion [seized](errata.htm#4.md) me. A fiery trembling ran in
 waves through all my body. My heart quickened its beating, tumult
 agitated my mind.
 
@@ -26,7 +26,7 @@ thought foreign to each other. Objects distant and different from one
 another appeared near and similar. The facts of the world arranged
 themselves before my eyes according to a new pattern.
 
-In the sky there appeared an [enormous](errata.htm#5) star surrounded by
+In the sky there appeared an [enormous](errata.htm#5.md) star surrounded by
 seven smaller stars. Their rays intermingled, filling space with
 immeasurable radiance and splendour. Then I knew I saw that Heaven of
 which Plotinus speaks:
@@ -45,7 +45,7 @@ great, since even that which is small is great.
 the sun and all the stars. In each however, a different property
 predominates, but at the same time all things are visible in each.
 Motion likewise there is pure; for motion is not
-[confounded](errata.htm#6) by a mover different from it. Permanency also
+[confounded](errata.htm#6.md) by a mover different from it. Permanency also
 suffers no change of its nature, because it is not mingled with the
 unstable. And the beautiful there is beautiful, because it does not
 subsist in beauty. Each thing, too, is there established, not as in a
@@ -61,7 +61,7 @@ acute, it will be seen as a whole.
 <span id="page_44">p. 44</span>
 
 "Where . . . is likewise no weariness of the vision which Is there, not
-any plenitude of perception which can bring [intuition](errata.htm#7) to
+any plenitude of perception which can bring [intuition](errata.htm#7.md) to
 an end.
 
 "For neither was there any vacuity which when filled might cause the
@@ -100,4 +100,4 @@ both wrongly and rightly at the same time."
 
 ------------------------------------------------------------------------
 
-[Next: Chad VII. The Hierophant](sot14)
+[Next: Chad VII. The Hierophant](sot14.md)

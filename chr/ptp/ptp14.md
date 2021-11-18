@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp13)  [Next](ptp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp13)  [Next](ptp15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -259,12 +259,12 @@ Despite the fact of Avignon and the ugly nature of
 
 <span id="img_18500"></span> <span align="CENTER"> [![Pope Clement
 V.](tn/18500.jpg)  
-Click to enlarge](img/18500.jpg)  
+Click to enlarge](img/18500.jpg.md)  
 Pope Clement V.  
 </span>
 
 <span class="small">The first Avignon Pope: he suppressed the Knights
-Templar. See pages [182](#page_182) to [185](#page_185).</span>
+Templar. See pages [182](#page_182) to [185](#page_185.md).</span>
 
 <span id="page_185">p. 185</span>
 
@@ -788,13 +788,13 @@ Angelo Corrario, was about eighty years of age when
 
 <span id="img_20100"></span> <span align="CENTER"> [![Pope Sixtus
 IV.](tn/20100.jpg)  
-Click to enlarge](img/20100.jpg)  
+Click to enlarge](img/20100.jpg.md)  
 Pope Sixtus IV.  
 </span>
 
 <span class="small">This is the death mask of the fishermen's son who
 appointed Torquemada as the Grand Inquisitor. See pages
-[214](#page_214)-5.</span>
+[214](#page_214.md)-5.</span>
 
 he caught the favour of the Conclave and his solemn promise at that time
 was that he would end the schism even if it meant abdication on his
@@ -1301,4 +1301,4 @@ by the fearless outspokenness and vigour of his sermons.
 
 ------------------------------------------------------------------------
 
-[Next: Fifteenth Century](ptp15)
+[Next: Fifteenth Century](ptp15.md)

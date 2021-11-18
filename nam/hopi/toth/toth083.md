@@ -1,27 +1,27 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth082)  [Next](toth084) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth082)  [Next](toth084.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 80. THE THREE MAIDENS AND THE COYOTE. <span id="fr_156"></span>[1](#fn_154)
+## 80. THE THREE MAIDENS AND THE COYOTE. <span id="fr_156"></span>[1](#fn_154.md)
 
 Halíksai! In Oraíbi the people were living. Over there at Howákapchomo
 somebody, some maidens had a crop. They had a father and a mother; three
 maidens there were. They were living at Pik'átsva. <span
-id="fr_157"></span>[2](#fn_155) From there they went to watch their
+id="fr_157"></span>[2](#fn_155.md) From there they went to watch their
 crop; and now at
 
 <span id="page_214">p. 214</span>
@@ -70,12 +70,12 @@ was hanging there as a flag.
 
 ### Footnotes
 
-<span id="fn_154"></span>[213:1](toth083.htm#fr_156) Told by Qöyáwaima
+<span id="fn_154"></span>[213:1](toth083.htm#fr_156.md) Told by Qöyáwaima
 (Oraíbi).
 
-<span id="fn_155"></span>[213:2](toth083.htm#fr_157) A place in the
+<span id="fn_155"></span>[213:2](toth083.htm#fr_157.md) A place in the
 north-west corner of the village.
 
 ------------------------------------------------------------------------
 
-[Next: 81. How the Coyotes Had A Katcina Dance](toth084)
+[Next: 81. How the Coyotes Had A Katcina Dance](toth084.md)

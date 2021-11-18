@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb21)  [Next](refb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb21)  [Next](refb23.md) 
 
 </div>
 
@@ -262,6 +262,6 @@ There are more difficult things to believe than that.\[16\]
 
 ------------------------------------------------------------------------
 
-[Next: The True History of Little Golden Hood](refb23)
+[Next: The True History of Little Golden Hood](refb23.md)
 
 </div>

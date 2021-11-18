@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb33)  [Next](gyfb35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb33)  [Next](gyfb35.md) 
 
 </div>
 
@@ -270,6 +270,6 @@ and they all lived happily for ever after.
 
 ------------------------------------------------------------------------
 
-[Next: A Fairy's Blunder](gyfb35)
+[Next: A Fairy's Blunder](gyfb35.md)
 
 </div>

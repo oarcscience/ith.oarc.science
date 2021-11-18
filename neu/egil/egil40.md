@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil39)  [Next](egil41) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil39)  [Next](egil41.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ A third was Hrisa-blund, who first dwelt at Hrisa.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XL. Of Egil's and Skallagrim's games.](egil41)
+[Next: CHAPTER XL. Of Egil's and Skallagrim's games.](egil41.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar181) [Next](gbar183)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar181) [Next](gbar183.md)
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ servant.' The man promised, and Jesus went to his house.
 
 ------------------------------------------------------------------------
 
-[Next](gbar183)
+[Next](gbar183.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cota07)  [Next](cota09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cota07)  [Next](cota09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Consciousness of the Atom*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -189,7 +189,7 @@ interests begin to lie outside his own particular sphere, and the period
 arrives in which he is feeling for the *group* to which he belongs. This
 stage might be viewed as corresponding to that of radio-activity. He is
 now not only a self-centred life, but he is also beginning to have -a
-definite effect upon his [surroundings](errata.htm#2). He is turning his
+definite effect upon his [surroundings](errata.htm#2.md). He is turning his
 attention from his own personal selfish life, and is seeking his greater
 centre. From being simply an atom he is, in his turn, becoming an
 electron, and coming under the influence of the great central Life which
@@ -362,7 +362,7 @@ which can be proven. In religious thought we have that which is
 concerned with the life within the form, which deals with the return of
 spirit to its source, plus all that has been gained by the use of the
 form; it has reference to the subjective side of nature. In
-[philosophical](errata.htm#3) thought we have what I might call the
+[philosophical](errata.htm#3.md) thought we have what I might call the
 utilisation of the intelligence by the indwelling life, in order that
 the form may be adequately adapted to its need. Let us consider in this
 connection certain developments which may be looked for in the immediate
@@ -575,4 +575,4 @@ radio-active, and to develop group consciousness.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture VII. Cosmic Evolution](cota09)
+[Next: Lecture VII. Cosmic Evolution](cota09.md)

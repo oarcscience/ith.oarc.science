@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw14)  [Next](sahw16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw14)  [Next](sahw16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -65,7 +65,7 @@ and peaceable, and the liability to consequent misery is removed.
 
 § 55. The process by which this result is attained is the putting into
 operation of Amida's Mercy and Wisdom, and is embodied in the Name
-[and](errata.htm#10) Person of Namu Amida Butsu. We must suppose that in
+[and](errata.htm#10.md) Person of Namu Amida Butsu. We must suppose that in
 the Mind of the Everlasting Buddha there must have been from everlasting
 a plan of Salvation for men, originating in his Everlasting Compassion.
 But Salvation is not complete unless the Faith of those saved be
@@ -214,7 +214,7 @@ natural course.
 
 § 69. We must beware lest we presume to say of any living man that,
 because he has received this lively Faith, therefore he has attained to
-the perfection of Buddhahood. All we can [say](errata.htm#11) is, that
+the perfection of Buddhahood. All we can [say](errata.htm#11.md) is, that
 the perfect seed has been planted, that the sowing is complete. 'His
 seed remaineth in him,' but it needs the sun and rain to bring its fruit
 to perfection.
@@ -258,4 +258,4 @@ missionary friend in Tokyo.</span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. After Justification.](sahw16)
+[Next: Chapter XIV. After Justification.](sahw16.md)

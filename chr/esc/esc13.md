@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc12)  [Next](esc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc12)  [Next](esc14.md) 
 
 ------------------------------------------------------------------------
 
@@ -488,4 +488,4 @@ added unto you."
 ------------------------------------------------------------------------
 
 [Next: Lecture XII. The Seven Seals, as Representing Events to the End
-of Time](esc14)
+of Time](esc14.md)

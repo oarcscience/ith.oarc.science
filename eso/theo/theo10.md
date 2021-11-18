@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Theosophy](../../the/index)  [Index](index)  [Previous](theo09) 
-[Next](theo11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Theosophy](../../the/index)  [Index](index)  [Previous](theo09.md) 
+[Next](theo11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Theosophy*, by Rudolf Steiner, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -631,7 +631,7 @@ separate being, so is the spirit-body within the spirit world. In the
 spirit world there is for man an inner and an outer, just as there is in
 the physical world. As man takes in the materials of the physical world
 around him and assimilates them within his physical body, so does he
-take the spiritual from the [spiritual](errata.htm#0) environment and
+take the spiritual from the [spiritual](errata.htm#0.md) environment and
 make it into his own. The spiritual is the eternal nourishment of man.
 And as man is born of the physical world, he is also born of the spirit
 through the eternal laws of the True and the Good. He is separated from
@@ -664,7 +664,7 @@ advancing human evolution, so that the spiritual individuality of man
 <span id="page_51">p. 51</span>
 
 The spirit-man <span class="smallcaps">lives</span> within this
-spirit-sheath. It is built up by the [spiritual](errata.htm#1) <span
+spirit-sheath. It is built up by the [spiritual](errata.htm#1.md) <span
 class="smallcaps">life-force</span> in the same way as is the physical
 body by the physical life-force. In a similar way to that in which one
 speaks of an ether-body one must therefore speak of an ether-spirit in
@@ -683,7 +683,7 @@ of man is a perceptible reality as the higher, truly spiritual part of
 the <span class="smallcaps">aura</span>. He "sees" the spirit-man as
 life-spirit within the spirit-sheath, and he "sees" how this
 "life-spirit" grows continually larger by taking in spiritual
-nourishment from the [spiritual](errata.htm#2) external world. Further,
+nourishment from the [spiritual](errata.htm#2.md) external world. Further,
 he sees how the spirit-sheath continually increases, widens out through
 what is brought into it, and how the spirit-man becomes ever
 
@@ -879,4 +879,4 @@ of the members of man:
 
 ------------------------------------------------------------------------
 
-[Next: Reincarnation and Karma](theo11)
+[Next: Reincarnation and Karma](theo11.md)

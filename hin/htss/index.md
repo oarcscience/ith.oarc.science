@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 </div>
 
@@ -24,8 +24,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](htss00)    [Page
-Index](pageidx)    [Text \[Zipped\]](htss.txt.gz)
+[Contents](#contents)    [Start Reading](htss00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](htss.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -39,14 +39,14 @@ Hare, Feb. 3rd, 2010</span>.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](htss00)  
-[Contents](htss01)  
-[Introduction](htss02)  
-[Sambandar And His Hymns](htss03)  
-[Apparswami and his Hymns](htss04)  
-[Sundaramūrti Swāmi and his Hymns](htss05)  
-[Manikka Vāsahar and his Hymns](htss06)  
-[Appendix I. Shrines Mentioned in These Poems](htss07)  
+<span id="contents"></span> [Title Page](htss00.md)  
+[Contents](htss01.md)  
+[Introduction](htss02.md)  
+[Sambandar And His Hymns](htss03.md)  
+[Apparswami and his Hymns](htss04.md)  
+[Sundaramūrti Swāmi and his Hymns](htss05.md)  
+[Manikka Vāsahar and his Hymns](htss06.md)  
+[Appendix I. Shrines Mentioned in These Poems](htss07.md)  
 [Appendix II. System of Transliteration and Pronunciation of Tamil
-Letters](htss08)  
-[Index](htss09)  
+Letters](htss08.md)  
+[Index](htss09.md)  

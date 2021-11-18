@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw08)  [Next](gsw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw08)  [Next](gsw10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_65">p. 65</span>
 
-<span id="img_06500"></span> ![FROM OLD NEEDLEWORK](img/06500.jpg)
+<span id="img_06500"></span> ![FROM OLD NEEDLEWORK](img/06500.jpg.md)
 
 ### CHAPTER V
 
@@ -81,7 +81,7 @@ who is handsome,
 of a docile disposition, and of suitable family, she and a friend call
 upon her mother, who, when the subject is first broached, makes excuses,
 such as that the girl has been dedicated to a *Sayyid*. <span
-id="fr_32"></span>[1](#fn_32)
+id="fr_32"></span>[1](#fn_32.md)
 
 This, however, is merely to show that there is no undue haste, and, when
 the girl is asked to bring sugar and water, the object of the visit is
@@ -118,7 +118,7 @@ almost fainted.
 
 Allah knows what trouble I gave at the bath that day and how carefully I
 donned my best clothes, and how rakishly I placed a new *kolah* <span
-id="fr_33"></span>[1](#fn_33) on my head; but, even so, I was ready long
+id="fr_33"></span>[1](#fn_33.md) on my head; but, even so, I was ready long
 before the ladies came, and in my lovesick condition I kept repeating
 "Shirin! Shirin!"
 
@@ -191,14 +191,14 @@ ten gold pieces a line, such as
 
 O Spring Cloud, discharge abundantly in the vineyard;  
 If a drop of rain become wine why should it be wasted in forming a
-pearl? <span id="fr_34"></span>[1](#fn_34)
+pearl? <span id="fr_34"></span>[1](#fn_34.md)
 
 <span class="contnote">\[paragraph continues\]</span> Or again my famous
 verse, in which the four elements are mentioned:
 
 When the morning breeze lifted the veil from thy face,  
 It smote to the earth the honour possessed by the fire of
-Zoroaster. <span id="fr_35"></span>[2](#fn_35)
+Zoroaster. <span id="fr_35"></span>[2](#fn_35.md)
 
 Two months after the engagement the chief astrologer was called into
 consultation as to the auspicious day for the performance of the
@@ -239,7 +239,7 @@ sprinkled over her head
 <span id="img_07300"></span> <span align="CENTER"> [![A PERSIAN WEDDING.
 &lt;i&gt;From a Persian picture in the collection of H. F. B. Lynch,
 Esq&lt;/i&gt;.](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)  
+Click to enlarge](img/07300.jpg.md)  
 A PERSIAN WEDDING. *From a Persian picture in the collection of H. F. B.
 Lynch, Esq*.  
 </span>
@@ -301,7 +301,7 @@ had asked for a period of at least two months for these preparations.
 Allah knows how I counted the days and nights; and the moment that this
 period had elapsed, I again had it conveyed to my mother that she should
 hasten on the wedding; and I represented that, unless she wished me to
-become as thin as Majnun, <span id="fr_36"></span>[1](#fn_36) the famous
+become as thin as Majnun, <span id="fr_36"></span>[1](#fn_36.md) the famous
 lover, whom even the wild beasts pitied, she must use all her influence
 and not allow unnecessary delay:
 
@@ -313,7 +313,7 @@ mother understood that I was really beginning to waste away; and,
 fortunately, just about this time, intimation was received from Shirin's
 mother that all the wedding furniture had been completed. My mother at
 once sent again for the chief astrologer, and he fixed on the Friday
-night <span id="fr_37"></span>[2](#fn_37) as the most auspicious of
+night <span id="fr_37"></span>[2](#fn_37.md) as the most auspicious of
 auspicious times for the consummation of the marriage.
 
 On the afternoon of that day the wedding gifts were sent from the
@@ -407,7 +407,7 @@ the evil eye.
 
 Shirin was then kissed by my mother, and I was conducted into the
 chamber, and a jug and basin were prepared when I removed the
-*Dolagh* <span id="fr_38"></span>[1](#fn_38) of Shirin and she removed
+*Dolagh* <span id="fr_38"></span>[1](#fn_38.md) of Shirin and she removed
 the socks from my feet. One of the women servants poured out water and I
 washed the big toe of her right foot and then of her left, Shirin doing
 the same for me; and, when this was done, we both threw a gold piece
@@ -449,26 +449,26 @@ of song, and its notes and the intoxicating smell of the jasmine made an
 earthly paradise of what was now the home of Shirin.
 
 <span id="img_08200"></span> ![FROM A SASANIAN BRASS
-BOWL](img/08200.jpg)
+BOWL](img/08200.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_32"></span>[67:1](gsw09.htm#fr_32) If a girl be dangerously
+<span id="fn_32"></span>[67:1](gsw09.htm#fr_32.md) If a girl be dangerously
 ill, her parents frequently vow that, should she recover, they will
 marry her to a *Sayyid*; or if, at first they have been disappointed in
 their hopes of children, a similar vow is made.
 
-<span id="fn_33"></span>[68:1](gsw09.htm#fr_33) The becoming head-gear
+<span id="fn_33"></span>[68:1](gsw09.htm#fr_33.md) The becoming head-gear
 of Persia is made of the skin of the unborn lamb, and costs about £4 if
 of good quality.
 
-<span id="fn_34"></span>[71:1](gsw09.htm#fr_34) The Oriental believes
+<span id="fn_34"></span>[71:1](gsw09.htm#fr_34.md) The Oriental believes
 that pearls are formed by the crystallization of drops of rain falling
 on the oyster.
 
-<span id="fn_35"></span>[71:2](gsw09.htm#fr_35) *Abru* is literally
+<span id="fn_35"></span>[71:2](gsw09.htm#fr_35.md) *Abru* is literally
 "water of the face," and thus the wind, the earth, water, and fire are
 all included.
 
@@ -478,16 +478,16 @@ would reply to a charge of plagiarism that both he and Danish, by
 chance, had the same beautiful idea. This is termed *Tavarud* or
 coincidence.
 
-<span id="fn_36"></span>[77:1](gsw09.htm#fr_36) Majnun wasted away for
+<span id="fn_36"></span>[77:1](gsw09.htm#fr_36.md) Majnun wasted away for
 the love of the famous Laila.
 
-<span id="fn_37"></span>[77:2](gsw09.htm#fr_37) According to lunar
+<span id="fn_37"></span>[77:2](gsw09.htm#fr_37.md) According to lunar
 mouths the day begins at sunset. Thus Friday night, by European
 calculation, would be Thursday night.
 
-<span id="fn_38"></span>[81:1](gsw09.htm#fr_38) *Dolagh* is the garment
+<span id="fn_38"></span>[81:1](gsw09.htm#fr_38.md) *Dolagh* is the garment
 worn out of doors, combining stockings and trousers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Kerman, the Heart of the World](gsw10)
+[Next: Chapter VI. Kerman, the Heart of the World](gsw10.md)

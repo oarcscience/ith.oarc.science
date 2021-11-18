@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -160,10 +160,10 @@ should fly back with intense longing to the Higher Life.
 #### WHAT IS HABIT-CONTROL?
 
 Habit or automatism compels all organized life. Habit is a
-[rhythm](errata.htm#31) established by the Will. Now the former is
+[rhythm](errata.htm#31.md) established by the Will. Now the former is
 Static. It works along sub-conscious lines of mentation. If you lift the
 brain-cap of man, you would see the belt of glowing and phosphorescent
-brain-substance physiologically known as the [Corpus](errata.htm#32)
+brain-substance physiologically known as the [Corpus](errata.htm#32.md)
 Callosum—this is the organic base of consciousness for the operation of
 mental energy. The finer the matter, the greater, the more powerful its
 vibrant force. This matter is constantly in motion, that is it ever
@@ -260,7 +260,7 @@ Thought is another name for Fate
 Choose then thy destiny, and wait  
 For Love brings Love, and Hate brings Hate—  
 Again: All that we are is the result of thought.  
-               Lord Buddha: "The [Dhammapada](errata.htm#33)."</span>
+               Lord Buddha: "The [Dhammapada](errata.htm#33.md)."</span>
 
 </div>
 

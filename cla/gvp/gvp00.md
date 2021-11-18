@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](gvp01) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](gvp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ redactor.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](gvp01)
+[Next: Preface](gvp01.md)

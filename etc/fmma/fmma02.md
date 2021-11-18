@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma01)  [Next](fmma03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma01)  [Next](fmma03.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ CHAPTER
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](fmma03)
+[Next: Introduction](fmma03.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe268)  [Next](prwe270) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe268)  [Next](prwe270.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ foam" which had gathered, and was confined within a large hoop.
 
 ------------------------------------------------------------------------
 
-[Next: Celts- Flint Arrow-heads, etc.](prwe270)
+[Next: Celts- Flint Arrow-heads, etc.](prwe270.md)

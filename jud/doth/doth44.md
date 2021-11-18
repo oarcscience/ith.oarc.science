@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth43)  [Next](doth45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth43)  [Next](doth45.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ men, as our sages say: "Ere yet the sun of Moses had set, the sun of
 Joshua rose; before the sun of Eli had set, that of Samuel his pupil
 shone forth; before the sun of Elijah had set rose that of Elisha." On
 the day when R. Akiba died was born our holy teacher, <span
-id="fr_22"></span>[‡](#fn_19) and
+id="fr_22"></span>[‡](#fn_19.md) and
 
 <span id="page_55">p. 55</span>
 
@@ -49,13 +49,13 @@ But happy is he who is moved to repentance in the first manner.
 
 ### Footnotes
 
-<span id="fn_19"></span>[54:‡](doth44.htm#fr_22) Talmud, Kedoshin,
+<span id="fn_19"></span>[54:‡](doth44.htm#fr_22.md) Talmud, Kedoshin,
 70*b*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: On the Possibility of Repentance](doth45)
+[Next: On the Possibility of Repentance](doth45.md)
 
 </div>

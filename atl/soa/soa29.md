@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa28)  [Next](soa30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa28)  [Next](soa30.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ which gave so much power.
 
 ------------------------------------------------------------------------
 
-[Next: Agriculture](soa30)
+[Next: Agriculture](soa30.md)

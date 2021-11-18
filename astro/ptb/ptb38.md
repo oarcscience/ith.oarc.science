@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb37)  [Next](ptb39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb37)  [Next](ptb39.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ eclipse and the lord of the angle be not identical, then those two
 planets which have most connections with each place are to be noted;
 and, of these two, the lord of the eclipse is to be preferred to the
 chief dominion, "although the other is to be considered as bearing rule
-conjointly." <span id="fr_100"></span>[2](#fn_100) And if more than two
+conjointly." <span id="fr_100"></span>[2](#fn_100.md) And if more than two
 should be found, having equal pretensions
 
 <span id="page_56">p. 56</span>
@@ -36,16 +36,16 @@ should be found, having equal pretensions
 to each place, that particular one among them which may be nearest to an
 angle, or most concerned with the places in question, by the nature of
 its condition, is to be selected for dominion <span
-id="fr_101"></span>[1](#fn_101).
+id="fr_101"></span>[1](#fn_101.md).
 
 But, among the fixed stars, the chief bright one (which, during the time
 of the eclipse, may hold connection, in any of the nine modes of
 apparent configuration detailed in the First Syntaxis <span
-id="fr_102"></span>[2](#fn_102) with the angles then actually in
+id="fr_102"></span>[2](#fn_102.md) with the angles then actually in
 passage), is to be admitted to dominion; as also that one which, at the
 ecliptical hour, may be in an eminent situation, either having risen, or
 having culminated with the, angle following the place of the
-eclipse. <span id="fr_103"></span>[3](#fn_103)
+eclipse. <span id="fr_103"></span>[3](#fn_103.md)
 
 Having considered, according to the foregoing rules, what stars
 co-operate in regulating the coming event, the conformation and figure
@@ -80,7 +80,7 @@ Delphinus, the effect will be felt by marine animals, and in the
 navigation of fleets; if in river signs, such as Aquarius and Pisces, it
 will attach to animals living in rivers and in fresh waters: and, if in
 Argo, both sea and fresh-water animals will be affected by it. <span
-id="fr_104"></span>[1](#fn_104)
+id="fr_104"></span>[1](#fn_104.md)
 
 Again, should the ruling places be situated in tropical or in
 equinoctial signs, in either case alike they presignify changes in the
@@ -120,28 +120,28 @@ position to a solar eclipse, or in matutine position to a lunar eclipse,
 the said stars will most usually much diminish the effect; in opposition
 they render it moderate; but in matutine position to a solar eclipse, or
 in vespertine to a lunar, they greatly augment and extend it. <span
-id="fr_105"></span>[2](#fn_105)
+id="fr_105"></span>[2](#fn_105.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_100"></span>[55:2](ptb38.htm#fr_100) The edition of
+<span id="fn_100"></span>[55:2](ptb38.htm#fr_100.md) The edition of
 Allatius does not contain the words here marked by inverted commas; but
 they are found in other editions of the text, and seem necessary to
 complete the sense of the passage.
 
-<span id="fn_101"></span>[56:1](ptb38.htm#fr_101) "When planets, in
+<span id="fn_101"></span>[56:1](ptb38.htm#fr_101.md) "When planets, in
 election for Lords of the eclipse, are found of equal strength and
 dignity, those which are direct are to be preferred before those which
 are retrograde; and the oriental before the occidental."--*Whalley's*
 "*Annotations*."
 
-<span id="fn_102"></span>[56:2](ptb38.htm#fr_102) That is to say, in the
+<span id="fn_102"></span>[56:2](ptb38.htm#fr_102.md) That is to say, in the
 Almagest, Book VIII, Chap. IV; which chapter is given, entire, in the
 Appendix.
 
-<span id="fn_103"></span>[56:3](ptb38.htm#fr_103) "In electing fixed
+<span id="fn_103"></span>[56:3](ptb38.htm#fr_103.md) "In electing fixed
 stars, Cardan directs to observe the angle which the eclipse follows,
 and that which it precedes: as, if the eclipse be between the seventh
 house" (or occidental angle) "and the mid-heaven, the stars which are in
@@ -150,13 +150,13 @@ if between the mid-heaven and the ascendant, those in the mid-heaven
 shall have the preference; and next, those in the
 ascendant."--*Whalley's* "*Annotations*."
 
-<span id="fn_104"></span>[57:1](ptb38.htm#fr_104) It is perhaps
+<span id="fn_104"></span>[57:1](ptb38.htm#fr_104.md) It is perhaps
 unnecessary to remark, that, in speaking of ruling places, as liable to
 be situated in Aquila, Delphinus or Argo, Ptolemy alludes only to the
 places of the fixed stars in dominion: since the ecliptical place and
 the planets must be confined to the zodiacal signs.
 
-<span id="fn_105"></span>[57:2](ptb38.htm#fr_105) According to Whalley,
+<span id="fn_105"></span>[57:2](ptb38.htm#fr_105.md) According to Whalley,
 Cardan, in reference to the nine modes of configuration, applicable to
 the fixed stars, says, "When a fixed star is with any planet, or in any
 angle, consider whether it be by any of these ways; if not, <span
@@ -168,4 +168,4 @@ is oriental, then it is strongest."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Quality and Nature of the Effect](ptb39)
+[Next: Chapter IX. The Quality and Nature of the Effect](ptb39.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog01)  [Next](bog03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog01)  [Next](bog03.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ you are in the circle of the Goddess.*
 
 ------------------------------------------------------------------------
 
-[Next: Genesis](bog03)
+[Next: Genesis](bog03.md)

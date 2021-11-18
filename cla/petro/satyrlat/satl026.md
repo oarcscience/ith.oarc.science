@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat05.htm#XXVI) 
-[Previous](satl025)  [Next](satl027) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat05.htm#XXVI.md) 
+[Previous](satl025)  [Next](satl027.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ servile officium tuentem iubemus in balneum sequi.
 
 ------------------------------------------------------------------------
 
-[Next: XXVII](satl027)
+[Next: XXVII](satl027.md)

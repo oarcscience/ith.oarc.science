@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar053) [Next](gbar055)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar053) [Next](gbar055.md)
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ what shall the ungodly do who are full of wickedness?'
 
 ------------------------------------------------------------------------
 
-[Next](gbar055)
+[Next](gbar055.md)

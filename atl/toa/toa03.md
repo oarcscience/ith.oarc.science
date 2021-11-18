@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](toa02)  [Next](toa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](toa02)  [Next](toa04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Treasure of Atlantis*, by J. Allan Dunn, \[1916\], at Intangible
 Textual Heritage
 
@@ -65,7 +65,7 @@ that stream."
 resentment. "If you'll put me up for a while—it won't be long—as you
 have offered to, I'll accept it gladly; but I can pay my way, Morse."
 
-"That's all right," answered Morse, sensing the [feverish](errata.htm#2)
+"That's all right," answered Morse, sensing the [feverish](errata.htm#2.md)
 excitement of his guest; "we'll not talk of payment. Tell me about your
 trip, if you feel up to it. And join me in a hot toddy."
 
@@ -310,7 +310,7 @@ a chieftain, the alcalde of some pueblo.
 
 "We had him down in a jiffy. I could scent help to ourselves from his
 gratitude if he wasn't dead. We worked over him
-[feverishly](errata.htm#3), and presently he groaned and opened his
+[feverishly](errata.htm#3.md), and presently he groaned and opened his
 eyes, and then his mouth, down which I poured some chacta that helped
 him to tell his story.
 
@@ -385,6 +385,6 @@ rains, and to Para—"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II—The Vase of Minos](toa04)
+[Next: Chapter II—The Vase of Minos](toa04.md)
 
 </div>

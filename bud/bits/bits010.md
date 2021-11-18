@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits009) [Next](bits011)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits009) [Next](bits011.md)
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 § 10. THE CONVERSION OF SÂRIPUTTA AND MOGGALLÂNA.<span
 id="page_87_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_87_note_1)
+class="small">1</span></sup>](#page_87_note_1.md)
 
 <span class="small">Translated from the Mahâ-Vagga
 (i.23<sup>1</sup>).</span>
@@ -197,7 +197,7 @@ myriads of world-cycles."
 
 ------------------------------------------------------------------------
 
-[Next: § 11. The Buddha's Daily Habits](bits011)
+[Next: § 11. The Buddha's Daily Habits](bits011.md)
 
 ------------------------------------------------------------------------
 
@@ -205,9 +205,9 @@ myriads of world-cycles."
 
 <span id="footnotes_page_87">p. 87</span>
 
-<span id="page_87_note_1"></span>[1](#page_87_fr_1) Sâriputta and
+<span id="page_87_note_1"></span>[1](#page_87_fr_1.md) Sâriputta and
 Moggallâna after their conversion became the two chief disciples of The
-Buddha. See [page 16](bits001.htm#page_16), Story of Sumedha, verse 77.
+Buddha. See [page 16](bits001.htm#page_16.md), Story of Sumedha, verse 77.
 
  
 

@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc32)  [Next](crc34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc32)  [Next](crc34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Intangible Textual Heritage
 ### <span class="smallcaps">The Muster of the Ulstermen</span>
 
 'Arise, O Findchad, I will send thee to Deda,' etc. <span
-id="fr_101"></span>[1](#fn_98)
+id="fr_101"></span>[1](#fn_98.md)
 
 .      .      .      .      .      .      .
 
@@ -54,7 +54,7 @@ Fene. They were there watching the host. And eight twenties of
 women, that was their share of the spoil. Their heads were brought
 there, and Conchobar and Celtchar sent them to the camp. It is there
 that Celtchar said to Conchobar: <span
-id="fr_102"></span>[1](crc34.htm#fn_99)
+id="fr_102"></span>[1](crc34.htm#fn_99.md)
 
 .      .      .      .      .      .      .
 
@@ -71,13 +71,13 @@ said in his sleep:
 
 ### Footnotes
 
-<span id="fn_98"></span>[115:1](crc33.htm#fr_101) Rhetoric, followed by
+<span id="fn_98"></span>[115:1](crc33.htm#fr_101.md) Rhetoric, followed by
 a long list of names.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Vision of Dubthach](crc34)
+[Next: The Vision of Dubthach](crc34.md)
 
 </div>

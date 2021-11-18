@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Next](rgq01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Next](rgq01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roman and Greek Questions*, by Plutarch, tr. Frank Cole Babbitt,
 \[1936\], at Intangible Textual Heritage
 
@@ -51,6 +51,6 @@ notice which was required by US copyright law at the time.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](rgq01)
+[Next: Introduction](rgq01.md)
 
 </div>

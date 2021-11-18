@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](efl01)  [Next](efl03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](efl01)  [Next](efl03.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,12 +11,12 @@
 |                                                |                           |
 |------------------------------------------------|---------------------------|
 |                                                | PAGE                      |
-| PREFACE                                        | [9](efl01.htm#page_9)     |
-| CHAPTER I. The Belief in God Almighty          | [17](efl03.htm#page_17)   |
-| CHAPTER II. Osiris the God of the Resurrection | [61](efl04.htm#page_61)   |
-| CHAPTER III. The "Gods" of the Egyptians       | [108](efl05.htm#page_108) |
-| CHAPTER IV. The judgment of the Dead           | [136](efl06.htm#page_136) |
-| CHAPTER V. The Resurrection and Immortality    | [183](efl07.htm#page_183) |
+| PREFACE                                        | [9](efl01.htm#page_9.md)     |
+| CHAPTER I. The Belief in God Almighty          | [17](efl03.htm#page_17.md)   |
+| CHAPTER II. Osiris the God of the Resurrection | [61](efl04.htm#page_61.md)   |
+| CHAPTER III. The "Gods" of the Egyptians       | [108](efl05.htm#page_108.md) |
+| CHAPTER IV. The judgment of the Dead           | [136](efl06.htm#page_136.md) |
+| CHAPTER V. The Resurrection and Immortality    | [183](efl07.htm#page_183.md) |
 
  
 
@@ -44,7 +44,7 @@ LIST OF ILLUSTRATIONS
 | The king handing the <u>T</u>e<u>t</u> to Isis                                       | 69  |
 | The <u>T</u>e<u>t</u> of Osiris                                                      | 70  |
 | The <u>T</u>e<u>t</u>, from which proceeds "Life"                                    | 70  |
-| Isis suckling Horus in the [papyrus](errata.htm#0) swamp                             | 79  |
+| Isis suckling Horus in the [papyrus](errata.htm#0.md) swamp                             | 79  |
 | Osiris <u>H</u>emka begetting a son by Isis                                          | 80  |
 | Osiris on his bier under which are vases containing his intestines                   | 80  |
 | The soul of Râ meeting the soul of Osiris in Tattu                                   | 85  |
@@ -85,4 +85,4 @@ The resurrection of Osiris. From the bas-relief at Philae.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Belief in God Almighty](efl03)
+[Next: Chapter I: The Belief in God Almighty](efl03.md)

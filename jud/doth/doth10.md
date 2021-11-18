@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth09)  [Next](doth11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth09)  [Next](doth11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ are not in duty bound to choose
 
 <span id="page_21">p. 21</span>
 
-the service of The Infinite <span id="fr_5"></span>[\*](#fn_4) and to
+the service of The Infinite <span id="fr_5"></span>[\*](#fn_4.md) and to
 delight in it, then the obligation to ethical conduct would also be
 removed from the body and its members. For no act of any kind is done
 completely unless the soul delights in doing it.
@@ -43,7 +43,7 @@ essential thing in all conduct is the intention of the heart.
 
 ### Footnotes
 
-<span id="fn_4"></span>[21:\*](doth10.htm#fr_5) The Rabbis frequently
+<span id="fn_4"></span>[21:\*](doth10.htm#fr_5.md) The Rabbis frequently
 used this term for God. Hashem = <span class="smallcaps">The</span>
 name, *i.e.*, the Divine name of four letters, derived from *hajah*, to
 exist, which was thought too sacred to pronounce in come-on speech, and
@@ -53,6 +53,6 @@ the meaning of which connotes absolute, infinite existence.
 
 ------------------------------------------------------------------------
 
-[Next: The Duties of the Heart are for every Time and Place](doth11)
+[Next: The Duties of the Heart are for every Time and Place](doth11.md)
 
 </div>

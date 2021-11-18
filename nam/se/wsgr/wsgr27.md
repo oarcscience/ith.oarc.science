@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr26)  [Next](wsgr28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr26)  [Next](wsgr28.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ following him home.
 
 ------------------------------------------------------------------------
 
-[Next: Maidens Who Broke a Drouth](wsgr28)
+[Next: Maidens Who Broke a Drouth](wsgr28.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app18)  [Next](app20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app18)  [Next](app20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ class="smallcaps">Ephesus</span> was in his prime about 500 B.C.
 He wrote one book, covering all knowledge, metaphysical, scientific and
 political, in an oracular style.
 
-1\. The Law <span id="fr_7"></span>[1](#fn_7) (*of the universe*) is as
+1\. The Law <span id="fr_7"></span>[1](#fn_7) (*of the universe*.md) is as
 here explained; but men are always incapable of understanding it, both
 before they hear it, and when they have heard it for the first time. For
 though all things come into being in accordance with this Law, men seem
@@ -46,10 +46,10 @@ themselves.
 4\. If happiness lay in bodily pleasures, we would call oxen happy when
 they find vetch to eat.
 
-S. They purify themselves by staining <span id="fr_8"></span>[1](#fn_8)
+S. They purify themselves by staining <span id="fr_8"></span>[1](#fn_8.md)
 themselves with other blood, as if one were to step into mud in order to
 wash off mud. But a man would be thought mad <span
-id="fr_9"></span>[1](#fn_8) if any of his fellow-men should perceive him
+id="fr_9"></span>[1](#fn_8.md) if any of his fellow-men should perceive him
 acting thus. Moreover, they talk to these statues (*of theirs*) as if
 one were to hold conversation with houses, in his ignorance of the
 nature of both gods and heroes.
@@ -111,9 +111,9 @@ opposite*) did not exist.
 
 25\. The greater the fate (*death*), the greater the reward.
 
-26\. In the night, a man kindles <span id="fr_10"></span>[1](#fn_9) a
+26\. In the night, a man kindles <span id="fr_10"></span>[1](#fn_9.md) a
 light because his sight is quenched; while living, he approximates
-to <span id="fr_11"></span>[1](#fn_9) a dead man during sleep; while
+to <span id="fr_11"></span>[1](#fn_9.md) a dead man during sleep; while
 awake, he approximates to one who sleeps.
 
 27\. There await men after they are dead things which they do not expect
@@ -124,7 +124,7 @@ seems; furthermore, retribution will seize the fabricators of lies and
 the (*false*) witnesses.
 
 29\. The best men choose one thing rather than all else: everlasting
-fame among mortal men. <span id="fr_12"></span>[2](#fn_10) The majority
+fame among mortal men. <span id="fr_12"></span>[2](#fn_10.md) The majority
 are satisfied, like well-fed cattle.
 
 30\. This ordered universe (*cosmos*), which is the same for all, was
@@ -135,7 +135,7 @@ measure.
 <span id="page_27">p. 27</span>
 
 31\. The changes of fire: first, sea; and of sea, half is earth and half
-fiery water-spout . . . Earth <span id="fr_13"></span>[1](#fn_11) is
+fiery water-spout . . . Earth <span id="fr_13"></span>[1](#fn_11.md) is
 liquified into sea, and retains its measure according to the same Law as
 existed before it became earth.
 
@@ -182,7 +182,7 @@ travelled the whole way: so deep is its Law (*Logos*).
 
 47\. Let us not conjecture at random about the greatest things.
 
-48\. The bow is called Life, <span id="fr_14"></span>[1](#fn_12) but its
+48\. The bow is called Life, <span id="fr_14"></span>[1](#fn_12.md) but its
 work is death.
 
 49\. One man to me is (*worth*) ten thousand, if he is the best.
@@ -254,7 +254,7 @@ Remedies.
 69\. (*There are two sorts of sacrifice: one kind offered by men
 entirely purified, as sometimes occurs, though rarely, in an individual,
 or a few easy to number; the other kind material*). <span
-id="fr_15"></span>[1](#fn_13)
+id="fr_15"></span>[1](#fn_13.md)
 
 70\. Children's toys (*i.e.* *men's conjectures*).
 
@@ -292,11 +292,11 @@ is strife, and everything comes about by way of strife and necessity.
 83\. (*On Pythagoras*). Original chief of wranglers.
 
 82\. (*The most handsome ape is ugly compared with the human
-race*). <span id="fr_16"></span>[1](#fn_14)
+race*). <span id="fr_16"></span>[1](#fn_14.md)
 
 83\. (*The wisest man will appear an ape in relation to God, both in
 wisdom and beauty and everything els*e). <span
-id="fr_17"></span>[1](#fn_14)
+id="fr_17"></span>[1](#fn_14.md)
 
 84a. It rests from change. (*Elemental Fire in the human body*).
 
@@ -330,7 +330,7 @@ impossible to touch the same mortal substance twice, but through the
 rapidity of change*) they scatter and again combine (*or rather, not
 even 'again' or 'later', but the combination and separation are
 simultaneous*) and approach and separate. <span
-id="fr_18"></span>[1](#fn_15)
+id="fr_18"></span>[1](#fn_15.md)
 
 92\. The Sibyl with raving mouth uttering her unlaughing, unadorned,
 unincensed words reaches out over a thousand years with her voice,
@@ -369,7 +369,7 @@ assumed some things to be unjust, others just.
 104\. What intelligence or understanding have they? They believe the
 people's bards, and use as their teacher the populace, not knowing that
 'the majority are bad, and the good are few'. <span
-id="fr_19"></span>[2](#fn_16)
+id="fr_19"></span>[2](#fn_16.md)
 
 <span id="page_32">p. 32</span>
 
@@ -397,9 +397,9 @@ and to act according to nature, paying heed (*thereto*).
 
 113\. The thinking faculty is common to all.
 
-114\. If we speak with intelligence, <span id="fr_20"></span>[1](#fn_17)
+114\. If we speak with intelligence, <span id="fr_20"></span>[1](#fn_17.md)
 we must base our strength on that which is common to all, <span
-id="fr_21"></span>[1](#fn_17) as the city on the Law (*Nomos*), and even
+id="fr_21"></span>[1](#fn_17) as the city on the Law (*Nomos*.md), and even
 more strongly. For all human laws are nourished by one, which is divine.
 For it governs as far as it will, and is sufficient for all, and more
 than enough.
@@ -444,7 +444,7 @@ convicted of your wickedness!
 126\. Cold things grow hot, hot things grow cold, the wet dries, the
 parched is moistened.
 
-*Doubtful and spurious fragments* <span id="fr_22"></span>[1](#fn_18)
+*Doubtful and spurious fragments* <span id="fr_22"></span>[1](#fn_18.md)
 
 126a. According to the law of the seasons, the number Seven is combined
 in the moon, separated in the constellations of the Bear, the signs of
@@ -458,7 +458,7 @@ If you lament them, you must no longer regard them as gods.'
 
 128\. They (*the Hellenes*) pray to statues of the gods, that do not
 hear them, as if they heard, and do not give, just as they cannot
-ask. <span id="fr_23"></span>[2](#fn_19)
+ask. <span id="fr_23"></span>[2](#fn_19.md)
 
 129\. Pythagoras, son of Mnêsarchus, practised research most of all men,
 and making extracts from these treatises he compiled a wisdom of his
@@ -491,44 +491,44 @@ disease.
 
 ### Footnotes
 
-<span id="fn_7"></span>[24:1](app19.htm#fr_7) Logos, the intelligible
+<span id="fn_7"></span>[24:1](app19.htm#fr_7.md) Logos, the intelligible
 Law of the universe, and its reasoned statement by Heracleitus. See
 *Companion*, pp. 115 *sqq*.
 
-<span id="fn_8"></span>[25:1](app19.htm#fr_9) Pun on μιαινόμενοι, and
+<span id="fn_8"></span>[25:1](app19.htm#fr_9.md) Pun on μιαινόμενοι, and
 μαίνεσθαι which cannot be reproduced in English.
 
-<span id="fn_9"></span>[26:1](app19.htm#fr_11) Pun on ἄπτεται,
+<span id="fn_9"></span>[26:1](app19.htm#fr_11.md) Pun on ἄπτεται,
 'kindles', and 'touches upon' (approximates to).
 
-<span id="fn_10"></span>[26:2](app19.htm#fr_12) Or: 'rather than things
+<span id="fn_10"></span>[26:2](app19.htm#fr_12.md) Or: 'rather than things
 mortal'.
 
-<span id="fn_11"></span>[27:1](app19.htm#fr_13) γῆ supplied by Kranz;
+<span id="fn_11"></span>[27:1](app19.htm#fr_13.md) γῆ supplied by Kranz;
 otherwise, 'the sea is distributed'.
 
-<span id="fn_12"></span>[28:1](app19.htm#fr_14) Pun on βίος, Life, and
+<span id="fn_12"></span>[28:1](app19.htm#fr_14.md) Pun on βίος, Life, and
 βιός, bow.
 
-<span id="fn_13"></span>[29:1](app19.htm#fr_15) Paraphrase in
+<span id="fn_13"></span>[29:1](app19.htm#fr_15.md) Paraphrase in
 Iamblichus.
 
-<span id="fn_14"></span>[30:1](app19.htm#fr_17) Paraphrases in Plato,
+<span id="fn_14"></span>[30:1](app19.htm#fr_17.md) Paraphrases in Plato,
 *Hippias Major*.
 
-<span id="fn_15"></span>[31:1](app19.htm#fr_18) Phrases of Heracleitus
+<span id="fn_15"></span>[31:1](app19.htm#fr_18.md) Phrases of Heracleitus
 quoted in Aristotle, *Metaphysics*.
 
-<span id="fn_16"></span>[31:2](app19.htm#fr_19) Saying attributed to
+<span id="fn_16"></span>[31:2](app19.htm#fr_19.md) Saying attributed to
 Bias of Priênê. Diels, *Vors*., ch. 10, 3, s. 1.
 
-<span id="fn_17"></span>[32:1](app19.htm#fr_21) Pun on ξὺν νῷ and ξυνῷ.
+<span id="fn_17"></span>[32:1](app19.htm#fr_21.md) Pun on ξὺν νῷ and ξυνῷ.
 
-<span id="fn_18"></span>[33:1](app19.htm#fr_22) For discussion, see
+<span id="fn_18"></span>[33:1](app19.htm#fr_22.md) For discussion, see
 *Companion*, pp. 128-9.
 
-<span id="fn_19"></span>[33:2](app19.htm#fr_23) Reading uncertain.
+<span id="fn_19"></span>[33:2](app19.htm#fr_23.md) Reading uncertain.
 
 ------------------------------------------------------------------------
 
-[Next: 23. Epicharmus of Syracuse](app20)
+[Next: 23. Epicharmus of Syracuse](app20.md)

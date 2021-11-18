@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift06) 
-[Next](ift08) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift06.md) 
+[Next](ift08.md) 
 
 ------------------------------------------------------------------------
 
 # The Magic Fiddle
 
 <span id="img_23"></span> [![](tn/23.jpg)  
-Click to enlarge](img/23.jpg)
+Click to enlarge](img/23.jpg.md)
 
 <span id="img_22"></span> ![](img/22.jpg)NCE upon a time there lived
 seven brothers and a sister. The brothers were married, but their wives
@@ -134,8 +134,8 @@ by saying," You must have known it all, and yet you did not interfere to
 save me." And that was all the revenge she took.
 
 <span id="img_24"></span> [![](tn/24.jpg)  
-Click to enlarge](img/24.jpg)
+Click to enlarge](img/24.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Cruel Crane Outwitted](ift08)
+[Next: The Cruel Crane Outwitted](ift08.md)

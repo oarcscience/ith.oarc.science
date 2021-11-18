@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll05)  [Next](oll07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll05)  [Next](oll07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -25,9 +25,9 @@ RUMI-ÑAUI.
 To decide on the coming campaign.  
 The spring is approaching us now,  
 And our army must start for the war.  
-To the province of Colla <span id="fr_20"></span>[1](#fn_20) we
+To the province of Colla <span id="fr_20"></span>[1](#fn_20.md) we
 march--  
-There is news of Chayanta's <span id="fr_21"></span>[2](#fn_21)
+There is news of Chayanta's <span id="fr_21"></span>[2](#fn_21.md)
 advance.  
 The enemies muster in strength,  
 They sharpen their arrows and spears.  
@@ -36,20 +36,20 @@ Can never resist thine array;
 Cuzco alone with its height  
 Is a barrier that cannot be stormed.  
 Twenty four thousand of mine,  
-With their *champis* <span id="fr_22"></span>[3](#fn_22) selected with
+With their *champis* <span id="fr_22"></span>[3](#fn_22.md) selected with
 care,  
 Impatiently wait for the sign,
 
 <span id="page_357">p. 357</span>
 
-The sound of the beat of my drums, <span id="fr_23"></span>[1](#fn_23)  
+The sound of the beat of my drums, <span id="fr_23"></span>[1](#fn_23.md)  
 The strains of my clarion and fife.  
 Pachacuti. Strive then to stir them to fight,  
 Arouse them to join in the fray,  
 Lest some should desire to yield,  
 To escape the effusion of blood.  
   *Rumi-ñaui*. The enemies gather in force,  
-The *Yuncas* <span id="fr_24"></span>[2](#fn_24) are called to their
+The *Yuncas* <span id="fr_24"></span>[2](#fn_24.md) are called to their
 aid;  
 They have put on their garbs for the war,  
 And have stopped up the principal roads.  
@@ -86,7 +86,7 @@ Having need of thy valour and skill.
   *Ollantay*. Thou knowest, O most gracious Lord,  
 That I have served thee from a youth,  
 Have worked with fortitude and truth,  
-Thy treasured praise was my reward. <span id="fr_25"></span>[1](#fn_25)
+Thy treasured praise was my reward. <span id="fr_25"></span>[1](#fn_25.md)
 
 All dangers I have gladly met,  
 For thee I always watched by night,  
@@ -94,19 +94,19 @@ For thee was forward in the fight,
 My forehead ever bathed in sweat.
 
 For thee I've been a savage foe,  
-Urging my Antis <span id="fr_26"></span>[2](#fn_26) not to spare,  
+Urging my Antis <span id="fr_26"></span>[2](#fn_26.md) not to spare,  
 But kill and fill the land with fear,  
 And make the blood of conquered flow.
 
-My name is as a dreaded rope, <span id="fr_27"></span>[3](#fn_27)  
-I've made the hardy Yuncas <span id="fr_28"></span>[4](#fn_28) yield,  
-By me the fate of Chancas <span id="fr_29"></span>[5](#fn_29) sealed,  
+My name is as a dreaded rope, <span id="fr_27"></span>[3](#fn_27.md)  
+I've made the hardy Yuncas <span id="fr_28"></span>[4](#fn_28.md) yield,  
+By me the fate of Chancas <span id="fr_29"></span>[5](#fn_29.md) sealed,  
 They are thy thralls without a hope.
 
 <span id="page_359">p. 359</span>
 
 'Twas I who struck the fatal blow,  
-When warlike Huancavilca <span id="fr_30"></span>[1](#fn_30) rose,  
+When warlike Huancavilca <span id="fr_30"></span>[1](#fn_30.md) rose,  
 Disturbing thy august repose,  
 And laid the mighty traitor low.
 
@@ -145,7 +145,7 @@ O King, my services are great,
 I pray thee grant one last request.
 
 I ask for Cusi Coyllur's hand  
-If the *Ñusta's* <span id="fr_31"></span>[1](#fn_31) love I've won.  
+If the *Ñusta's* <span id="fr_31"></span>[1](#fn_31.md) love I've won.  
 O King! you'll have a faithful son,  
 Fearless, well tried, at thy command.
 
@@ -165,51 +165,51 @@ Be gone!
 
 ### Footnotes
 
-<span id="fn_20"></span>[356:1](oll06.htm#fr_20) *Colla-suyu*, the basin
+<span id="fn_20"></span>[356:1](oll06.htm#fr_20.md) *Colla-suyu*, the basin
 of lake *Titicaca*.
 
-<span id="fn_21"></span>[356:2](oll06.htm#fr_21) *Chayanta*, a tribe in
+<span id="fn_21"></span>[356:2](oll06.htm#fr_21.md) *Chayanta*, a tribe in
 the montaña south of the *Collas*.
 
-<span id="fn_22"></span>[356:3](oll06.htm#fr_22) *Champi*, a one-handed
+<span id="fn_22"></span>[356:3](oll06.htm#fr_22.md) *Champi*, a one-handed
 battle-axe.
 
-<span id="fn_23"></span>[357:1](oll06.htm#fr_23) *Huancar*, a drum;
+<span id="fn_23"></span>[357:1](oll06.htm#fr_23.md) *Huancar*, a drum;
 *pututu*, fife.
 
-<span id="fn_24"></span>[357:2](oll06.htm#fr_24) *Yunca*, inhabitant of
+<span id="fn_24"></span>[357:2](oll06.htm#fr_24.md) *Yunca*, inhabitant of
 warm valley. Here it refers to the wild tribes of the *montaña*.
 
-<span id="fn_25"></span>[358:1](oll06.htm#fr_25) In the original
+<span id="fn_25"></span>[358:1](oll06.htm#fr_25.md) In the original
 Quichua, Ollantay makes his appeal to the Inca in quatrains of
 octosyllabic verses, the first line rhyming with the last, and the
 second with the third. Garcilasso de la Vega and others testify to the
 proficiency of the Incas in this form of composition.
 
-<span id="fn_26"></span>[358:2](oll06.htm#fr_26) Ollantay was Viceroy of
+<span id="fn_26"></span>[358:2](oll06.htm#fr_26.md) Ollantay was Viceroy of
 Anti-suyu.
 
-<span id="fn_27"></span>[358:3](oll06.htm#fr_27) *Chahuar*, a rope of
+<span id="fn_27"></span>[358:3](oll06.htm#fr_27.md) *Chahuar*, a rope of
 aloe fibre. A curb or restraint.
 
-<span id="fn_28"></span>[358:4](oll06.htm#fr_28) *Raprancutan
+<span id="fn_28"></span>[358:4](oll06.htm#fr_28.md) *Raprancutan
 cuchurcani*: literally, 'I have clipped their wings.' *Rapra*, a wing.
 
-<span id="fn_29"></span>[358:5](oll06.htm#fr_29) The powerful nation of
+<span id="fn_29"></span>[358:5](oll06.htm#fr_29.md) The powerful nation of
 *Chancas*, with their chief, *Huancavilca*, inhabited the great valley
 of Andahuaylas and were formidable rivals of the Incas. But they were
 subdued by Pachacuti long before Ollantay can have been born. An
 allowable dramatic anachronism.
 
-<span id="fn_30"></span>[359:1](oll06.htm#fr_30) Huancavilca was chief
+<span id="fn_30"></span>[359:1](oll06.htm#fr_30.md) Huancavilca was chief
 of the powerful nation of *Chancas*.
 
-<span id="fn_31"></span>[360:1](oll06.htm#fr_31) *Ñusta*, Princess.
+<span id="fn_31"></span>[360:1](oll06.htm#fr_31.md) *Ñusta*, Princess.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Scene 4](oll07)
+[Next: Scene 4](oll07.md)
 
 </div>

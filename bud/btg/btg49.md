@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg48)  [Next](btg50) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg48)  [Next](btg50.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ Awakened, the Holy, Blessed.
 
 ------------------------------------------------------------------------
 
-[Next: The Two Brahmans](btg50)
+[Next: The Two Brahmans](btg50.md)

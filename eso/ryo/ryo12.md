@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo11) 
-[Next](ryo13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo11.md) 
+[Next](ryo13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Raja Yoga*, by Yogi Ramacharaka (William Walker Atkinson), \[1906\], at
 Intangible Textual Heritage
 
@@ -64,7 +64,7 @@ in this lesson, may be understood to mean "using the subconscious mind,
 under orders of the conscious mind."
 
 By referring to our Eighth Lesson, we see on page
-[177](ryo10.htm#page_177), mention made of the case of the man who
+[177](ryo10.htm#page_177.md), mention made of the case of the man who
 indulged in "unconscious rumination," which happened to him when he read
 books presenting new points of view essentially opposed to his previous
 opinion. You will note that after days, weeks, or months, he found that
@@ -93,7 +93,7 @@ performed for him by some hidden region of the mind. When the
 subconscious part of the mind had completed its work, it would flash the
 message to his conscious mind, and he would begin to write.
 
-On page [178](ryo10.htm#page_178) mention is also made of the great
+On page [178](ryo10.htm#page_178.md) mention is also made of the great
 French chemist Berthelot, who relates that some of his best conceptions
 have flashed upon him as from the clear sky. In fact, the Eighth Lesson
 is largely made up of examples of this kind, and we ask the student to
@@ -523,7 +523,7 @@ recesses of the mind, or memory if you prefer that term, are stray bits
 of information and knowledge concerning almost any subject. But these
 bits of information are not associated with each other. You have never
 attempted to think attentively upon the particular question before you,
-and the facts are not [correlated](errata.htm#10) in the mind. It is
+and the facts are not [correlated](errata.htm#10.md) in the mind. It is
 just as if you had so many hundred pounds of anything scattered
 throughout the space of a large warehouse, a tiny bit here, and a tiny
 bit there, mixed up with thousands of other things.
@@ -694,4 +694,4 @@ I am "I"—and "I" any Spirit, a fragment from the Divine Flame.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson XI. Subconscious Character Building](ryo13)
+[Next: Lesson XI. Subconscious Character Building](ryo13.md)

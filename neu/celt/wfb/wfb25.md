@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb24)  [Next](wfb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb24)  [Next](wfb26.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ sufficiently to explain his strange conduct.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Walking Stick](wfb26)
+[Next: The Fairy Walking Stick](wfb26.md)

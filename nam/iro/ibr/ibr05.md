@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr04)  [Next](ibr06) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr04)  [Next](ibr06.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ The name usually given to the Book of Rites, or rather to its contents,
 is, in the Canienga dialect, *Okayondónghsera Yondénnase* (or in the
 French missionary orthography, *Okaiontonhsera Iontennase*), which maybe
 rendered "Ancient Rites of the Condoling Council." <span
-id="fr_18"></span>[1](#fn_18) Among the many councils, civil and
+id="fr_18"></span>[1](#fn_18.md) Among the many councils, civil and
 religious, tribal and federal, in which the public spirit and social
 temper of the Iroquois found their most congenial and most popular mode
 of display, the Yondennase, the Condoling (or Mourning) Council, held
@@ -84,7 +84,7 @@ to twenty years, as the fuel in their neighborhood became exhausted, and
 as the diminished crops under their primitive mode of agriculture showed
 the need of fresher soil. Only those villages would be permanent whose
 localities offered some special advantages, as fortresses, fishing
-places, or harbors. <span id="fr_19"></span>[1](#fn_19)
+places, or harbors. <span id="fr_19"></span>[1](#fn_19.md)
 
 This list of towns has another peculiarity which arrests the attention.
 It apparently comprises all the towns of the League, but these are
@@ -104,7 +104,7 @@ results of the remarkable clan system which
 prevails among the North American Indians. It is not universal, as it
 does not seem to be known among the widely scattered bands of the Crees
 and the Athapascans, or among the Indians of Oregon. <span
-id="fr_20"></span>[1](#fn_20) It was found, however, among the great
+id="fr_20"></span>[1](#fn_20.md) It was found, however, among the great
 majority of tribes in the region north of Mexico and east of the Rocky
 Mountains, and was sufficiently alike in all to indicate a common
 origin. Mr. Morgan finds this origin in a kinship, real or supposed,
@@ -128,15 +128,15 @@ an aggregate of persons united by a common tie, sometimes of origin,
 sometimes merely of locality. These brotherhoods were not permanent, but
 were constantly undergoing changes, forming, dividing, coalescing,
 vanishing. The names of many of them show their recent origin. The
-Chicasas have a "Spanish clan." <span id="fr_21"></span>[2](#fn_21) The
-Shawnees had a "Horse clan." <span id="fr_22"></span>[3](#fn_22) The
+Chicasas have a "Spanish clan." <span id="fr_21"></span>[2](#fn_21.md) The
+Shawnees had a "Horse clan." <span id="fr_22"></span>[3](#fn_22.md) The
 Iroquois, of Eastern Canada, made up of fragments of all the Five
 Nations, had
 
 <span id="page_52">p. 52</span>
 
 an "Onondaga clan," and an "Oneida clan." <span
-id="fr_23"></span>[1](#fn_23) It is a curious fact that, as Mr. Morgan
+id="fr_23"></span>[1](#fn_23.md) It is a curious fact that, as Mr. Morgan
 states, "the Iroquois claim to have originated a division of the people
 into tribes \[clans or gentes\] as a means of creating new
 relationships, to bind the people more firmly together. It is further
@@ -146,7 +146,7 @@ Indian nations, with whom, in ancient times, they were in constant
 intercourse." "The fact," he adds, "that this division of the people of
 the same nation into tribes does not prevail generally among our Indian
 races, favors the assertions of the Iroquois." <span
-id="fr_24"></span>[2](#fn_24) Further inquiry and reflection led this
+id="fr_24"></span>[2](#fn_24.md) Further inquiry and reflection led this
 distinguished investigator to take a totally different view, and to go
 to what may be deemed the opposite extreme of regarding this clan system
 as an essential stage in the growth of human society.
@@ -172,7 +172,7 @@ to a freemason of New Orleans. But it came to have all the strength of a
 tie of kindred. Mr. Morgan has well pointed out the wisdom shown by the
 Iroquois founders, in availing themselves of this powerful element of
 strength in the formation of their federal constitution. <span
-id="fr_25"></span>[1](#fn_25) Their government, though politically a
+id="fr_25"></span>[1](#fn_25.md) Their government, though politically a
 league of nations, was socially a combination of clans. In this way
 Hiawatha and Dekanawidah may be deemed to have given to the system of
 clanship an extension and a force which it had not previously possessed;
@@ -194,7 +194,7 @@ replaced by Hawk and Heron. The Tuscaroras have likewise eight clans,
 but among these are neither the Hawk, the Heron or the Ball. In lieu of
 them the Wolf clan is divided into two, the Gray Wolf and the Yellow
 Wolf, and the Tortoise furnishes two, the Great Tortoise and the Little
-Tortoise; <span id="fr_26"></span>[2](#fn_26) the Bear, the Beaver, the
+Tortoise; <span id="fr_26"></span>[2](#fn_26.md) the Bear, the Beaver, the
 Eel and the Snipe remain, as among the Onondagas, Cayugas and Senecas.
 
 <span id="page_54">p. 54</span>
@@ -203,7 +203,7 @@ We are naturally led to ask how it happens that only three clans are
 found among the Caniengas and Oneidas, while the other nations have
 eight. Mr. Morgan was inclined to think that the other five once existed
 among the two former nations, and had become extinct. <span
-id="fr_27"></span>[1](#fn_27) The native annalists of those nations,
+id="fr_27"></span>[1](#fn_27.md) The native annalists of those nations,
 however, affirm that no more than three clans ever existed among them.
 This assertion is now confirmed, indirectly but strongly, by the
 testimony of the Book of Rites, which seems to show that only three
@@ -211,7 +211,7 @@ clans were recognized in the whole confederacy when the League was
 formed. All the towns of the united nations were distributed among the
 three primary clans of the Wolf, the Tortoise and the Bear. If the other
 clans existed, it was probably merely as septs or divisions of these
-three. <span id="fr_28"></span>[2](#fn_28) It is more likely, however,
+three. <span id="fr_28"></span>[2](#fn_28.md) It is more likely, however,
 that these additional clans were of later creation or introduction.
 Their origin, as well as their restriction to the three western nations,
 may be easily explained. The successive conquests achieved
@@ -268,7 +268,7 @@ their several opinions to arrive at the final sentiment of all the
 sachems of the League. This was effected by a conference between the
 individual representatives of the several nations; and when they had
 arrived at unanimity, the answer of the League was determined." <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 A careful consideration of the facts, in the light cast upon them by the
 evidence of the "Book of Rites" and the testimony of the Canadian
@@ -349,7 +349,7 @@ which they belong.
 
 ### Footnotes
 
-<span id="fn_18"></span>[48:1](ibr05.htm#fr_18) *Okaiontonhsera* is a
+<span id="fn_18"></span>[48:1](ibr05.htm#fr_18.md) *Okaiontonhsera* is a
 substantive derived from *ahaion*, old, or ancient. The termination sera
 gives it an abstract sense. "The antiquities," or rather "the
 ancientnesses," is the nearest literal rendering which our language
@@ -358,27 +358,27 @@ Bruyas, *gentenron*) to pity, or sympathize with. It may be rendered
 "they who sympathize," or "the condolers." Both words, however, have
 acquired a special meaning in their application to these ceremonies.
 
-<span id="fn_19"></span>[50:1](ibr05.htm#fr_19) See Appendix, note E.
+<span id="fn_19"></span>[50:1](ibr05.htm#fr_19.md) See Appendix, note E.
 
-<span id="fn_20"></span>[51:1](ibr05.htm#fr_20) See *Ancient Society*,
+<span id="fn_20"></span>[51:1](ibr05.htm#fr_20.md) See *Ancient Society*,
 pp. 167, 175, 177.
 
-<span id="fn_21"></span>[51:2](ibr05.htm#fr_21) *Ancient Society*, p.
+<span id="fn_21"></span>[51:2](ibr05.htm#fr_21.md) *Ancient Society*, p.
 163.
 
-<span id="fn_22"></span>[51:3](ibr05.htm#fr_22) Ibid, p. 168.
+<span id="fn_22"></span>[51:3](ibr05.htm#fr_22.md) Ibid, p. 168.
 
-<span id="fn_23"></span>[52:1](ibr05.htm#fr_23) Rotisennakete, and
+<span id="fn_23"></span>[52:1](ibr05.htm#fr_23.md) Rotisennakete, and
 Rotinenhiotronon. See J. A. Cuoq, *Lexique de la Langue Iroquoise*, p.
 154. The proper meaning of these names will be hereafter shown.
 
-<span id="fn_24"></span>[52:2](ibr05.htm#fr_24) League of the Iroquois,
+<span id="fn_24"></span>[52:2](ibr05.htm#fr_24.md) League of the Iroquois,
 p. 91.
 
-<span id="fn_25"></span>[53:1](ibr05.htm#fr_25) League of the Iroquois,
+<span id="fn_25"></span>[53:1](ibr05.htm#fr_25.md) League of the Iroquois,
 p. 82, et seq.
 
-<span id="fn_26"></span>[53:2](ibr05.htm#fr_26) It is deserving of
+<span id="fn_26"></span>[53:2](ibr05.htm#fr_26.md) It is deserving of
 notice that this division of the Tortoise clan seems to <span
 id="page_54">p. 54</span> exist in a nascent form among the Onondagas.
 The name of this clan is Hahnowa, which is the general word for
@@ -391,10 +391,10 @@ the Tortoise." it is probable, therefore, that this partial subdivision
 extended throughout the original Five Nations, and became complete among
 the Tuscaroras.
 
-<span id="fn_27"></span>[54:1](ibr05.htm#fr_27) League of the Iroquois,
+<span id="fn_27"></span>[54:1](ibr05.htm#fr_27.md) League of the Iroquois,
 p. 81. Ancient Society, p. 92.
 
-<span id="fn_28"></span>[54:2](ibr05.htm#fr_28) "The Turtle family, or
+<span id="fn_28"></span>[54:2](ibr05.htm#fr_28.md) "The Turtle family, or
 the Anowara, was the most noble of the whole League; next came the
 Ochquari, or clan of the Bear, and the Oquacho, or that of the Wolf.
 These three were so prominent that Zeisberger hardly recognizes the
@@ -406,9 +406,9 @@ the Iroquois. It would seem that the relative rank of the clans varied
 in the different nations. The chiefs of the Wolf clan come first in the
 list of Oneida councillors.
 
-<span id="fn_29"></span>[56:1](ibr05.htm#fr_29) League of the Iroquois,
+<span id="fn_29"></span>[56:1](ibr05.htm#fr_29.md) League of the Iroquois,
 p, 112.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: The Condolence and the Installation](ibr06)
+[Next: Chapter V: The Condolence and the Installation](ibr06.md)

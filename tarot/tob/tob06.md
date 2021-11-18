@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob05) 
-[Next](tob07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob05.md) 
+[Next](tob07.md) 
 
 ------------------------------------------------------------------------
 
@@ -198,4 +198,4 @@ symbolized through antiquity by the Cross.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: The Key to the Minor Arcana](tob07)
+[Next: Chapter V: The Key to the Minor Arcana](tob07.md)

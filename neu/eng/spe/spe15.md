@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe14)  [Next](spe16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe14)  [Next](spe16.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,15 +55,15 @@ Anglo-Saxon writers frequently used the terms of leaping and tumbling
 for dancing. Both the phrases occur in the Saxon versions of St Mark's
 Gospel, where it is said of the daughter of Herodias, that she vaulted
 or tumbled, instead of danced, before king Herod. <span
-id="fr_627"></span>[1](#fn_627) In a translation of the seventh century,
-in the Cotton Library, <span id="fr_628"></span>[2](#fn_628) it
+id="fr_627"></span>[1](#fn_627.md) In a translation of the seventh century,
+in the Cotton Library, <span id="fr_628"></span>[2](#fn_628.md) it
 
  
 
 <span id="img_pl21"></span>
 
 [![Dancing](tn/pl21.jpg)  
-Click to enlarge](img/pl21.jpg)  
+Click to enlarge](img/pl21.jpg.md)  
 Dancing  
 
  
@@ -72,9 +72,9 @@ Dancing
 
 says, she jumped, or leaped, and pleased Herod. In another Saxon version
 of the eleventh century, in the Royal Library, <span
-id="fr_629"></span>[1](#fn_629) she tumbled, and it pleased Herod. A
+id="fr_629"></span>[1](#fn_629.md) she tumbled, and it pleased Herod. A
 third reads, Herodias' daughter tumbled there, etc. <span
-id="fr_630"></span>[2](#fn_630) These interpretations of the sacred text
+id="fr_630"></span>[2](#fn_630.md) These interpretations of the sacred text
 might easily arise from a misconception of the translators, who,
 supposing that no common dancing could have attracted the attention of
 the monarch so potently, or extorted from him the promise of a reward so
@@ -90,7 +90,7 @@ in the action of tumbling, or, at least, of walking upon her hands. Mr
 Brand, in his edition of Bourne's *Vulgar Antiquities*, has quoted one
 in old English that reads thus: "When the daughter of Herodyas was in
 comyn, and had tomblyde and pleside Harowde." I have before me a MS. of
-the Harleian Collection, <span id="fr_631"></span>[3](#fn_631) in
+the Harleian Collection, <span id="fr_631"></span>[3](#fn_631.md) in
 French, in the thirteenth century, written by some ecclesiastic, which
 relates to the church fasts and festivals. Speaking of the death of John
 Baptist, and finding this tumbling damsel to have been the cause, the
@@ -102,16 +102,16 @@ tumber"; which may be rendered, "She was well skilled in tumbling and
 cheating tricks." And thus we find her in two examples given in the
 middle of plate twenty-one. The first, where her servant stands by her
 side, is taken from a series of Scripture histories, <span
-id="fr_632"></span>[3](#fn_631) written and illuminated at the beginning
+id="fr_632"></span>[3](#fn_631.md) written and illuminated at the beginning
 of the thirteenth century; and the second from a book of prayers more
 modern than the former by almost one hundred and fifty years. <span
-id="fr_633"></span>[4](#fn_632)
+id="fr_633"></span>[4](#fn_632.md)
 
 ANTIQUITY OF TUMBLING.--The exhibition of dancing, connected with
 leaping and tumbling, for the entertainment of princes and noblemen on
 occasions of festivity, is of high antiquity. Homer mentions two dancing
 tumblers, who stood upon their heads, <span
-id="fr_634"></span>[5](#fn_633) and moved about to the measure of a
+id="fr_634"></span>[5](#fn_633.md) and moved about to the measure of a
 song, for the diversion of Menelaus and his courtiers, at the
 celebration of his daughter's nuptials. It seems that the astonishment
 excited by the difficulty of such performances, obviated the absurdity,
@@ -132,18 +132,18 @@ Edward II. who rode before his majesty, and frequently fell from his
 horse in such a manner, that the king was highly diverted, and laughed
 exceedingly, and rewarded the performer with the sum of twenty
 shillings, which at that period was a very considerable donation. <span
-id="fr_635"></span>[1](#fn_634) A like reward of twenty shillings was
+id="fr_635"></span>[1](#fn_634.md) A like reward of twenty shillings was
 given, by order of Henry VIII., to a strange tumbler, that is, I
 suppose, an itinerant who had no particular establishment; a like sum to
 a tumbler who performed before him at Lord Bath's; and a similar reward
 to the "tabouretts and a tumbler," probably of the household. <span
-id="fr_636"></span>[2](#fn_635) It should seem that these artists were
+id="fr_636"></span>[2](#fn_635.md) It should seem that these artists were
 really famous mirth-makers; for one of them had the address to excite
 the merriment of the solemn queen Mary. "After her majesty," observes
 Strype, "had reviewed the royal pensioners in Greenwich Park, there came
 a tumbler, and played many pretty feats, the queen and cardinal Pole
 looking on; whereat she was observed to laugh heartily." <span
-id="fr_637"></span>[3](#fn_636)
+id="fr_637"></span>[3](#fn_636.md)
 
 VARIOUS DANCES.--Among the pastimes exhibited for the amusement of queen
 Elizabeth at Kenilworth castle, there were shown, as Laneham says,
@@ -157,21 +157,21 @@ that I," says Laneham, "began to doubt whether he was a man or a
 spirit"; and afterwards, "As for this fellow, I cannot tell what to make
 of him; save that I may guess his back to be metalled like a lamprey,
 that has no bone, but a line like a lute-string." <span
-id="fr_638"></span>[4](#fn_637) So lately as the reign of queen Anne,
+id="fr_638"></span>[4](#fn_637.md) So lately as the reign of queen Anne,
 this species of performance continued to be fashionable; and in one of
 the *Tatlers* we meet with the following passage: "I went on Friday last
 to the Opera; and was surprised to find a thin house at so noble an
 entertainment, ’till I heard that the tumbler was not to make his
-appearance that night." <span id="fr_639"></span>[5](#fn_638)
+appearance that night." <span id="fr_639"></span>[5](#fn_638.md)
 
 Three ancient specimens of the tumbler's art are given upon [plate
-twenty-two](#img_pl22). The first is a woman bending herself backwards,
+twenty-two](#img_pl22.md). The first is a woman bending herself backwards,
 from a MS. of the thirteenth century, in the Cotton Library; <span
-id="fr_640"></span>[6](#fn_639) the second a man performing the same
+id="fr_640"></span>[6](#fn_639.md) the second a man performing the same
 feat, but in a more extraordinary manner; <span
-id="fr_641"></span>[7](#fn_640) and the third represents a girl turning
+id="fr_641"></span>[7](#fn_640.md) and the third represents a girl turning
 over upon her hands, her feats being enlivened with music. <span
-id="fr_642"></span>[8](#fn_641) The last two MSS. are of the fourteenth
+id="fr_642"></span>[8](#fn_641.md) The last two MSS. are of the fourteenth
 century.
 
 THE GLEEMEN'S DANCES.--It is not by any means my intention to insinuate,
@@ -181,7 +181,7 @@ THE GLEEMEN'S DANCES.--It is not by any means my intention to insinuate,
 <span id="img_pl22"></span>
 
 [![Tumbling](tn/pl22.jpg)  
-Click to enlarge](img/pl22.jpg)  
+Click to enlarge](img/pl22.jpg.md)  
 Tumbling  
 
  
@@ -198,24 +198,24 @@ most ancient of the kind that I have met with. The crouching attitudes
 of the two dancers, point out great difficulty in the part they are
 performing, but do not convey the least indication of vaulting or
 tumbling. Attitudes somewhat similar I have seen occur in some of the
-steps of a modern hornpipe. Again, on [plate twenty-one](#img_pl21), we
+steps of a modern hornpipe. Again, on [plate twenty-one](#img_pl21.md), we
 find a young man dancing singly to the music of two flutes and a lyre;
 and the action attempted to be expressed by the artist is rather that of
 ease and elegancy of motion than of leaping, or contorting of the body
 in a violent manner. It is evident that this delineation, which is from
 a Latin and Saxon MS. of the ninth century, in the Cotton Library, <span
-id="fr_643"></span>[1](#fn_642) was intended for the representation of
+id="fr_643"></span>[1](#fn_642.md) was intended for the representation of
 part of the gleeman's exhibition; for the designer has crowded into the
 margin a number of heads and parts of figures, necessarily incomplete
 from want of room, who appear as spectators; but these are much
 confused, and in some places obliterated, so that they could not have
 been copied with any tolerable effect. The dance on the top of [plate
-twenty-five](spe16.htm#img_pl25), from a MS. of the ninth century, in
+twenty-five](spe16.htm#img_pl25.md), from a MS. of the ninth century, in
 which the musician bears a part, I take to be of the burlesque kind, and
 intended to excite laughter by the absurdity of the gestures practised
 by the performers; but that at the bottom of the [same
-Plate](spe16.htm#img_pl25), from a MS. of the fourteenth century, in the
-Royal Library, <span id="fr_644"></span>[2](#fn_643) has more appearance
+Plate](spe16.htm#img_pl25.md), from a MS. of the fourteenth century, in the
+Royal Library, <span id="fr_644"></span>[2](#fn_643.md) has more appearance
 of elegance. This dance is executed by a female; and probably the
 perfection of the dance consisted in approaching and receding from the
 bear with great agility, so as to prevent his seizing upon her, and
@@ -226,14 +226,14 @@ unmuzzled for the purpose, and irritated by the scourge of the juggler.
 THE SWORD-DANCE.--There is a dance which was probably in great repute
 among the Anglo-Saxons, because it was derived from their ancestors the
 ancient Germans; it is called the sword-dance; and the performance is
-thus described by Tacitus: <span id="fr_645"></span>[3](#fn_644) "One
+thus described by Tacitus: <span id="fr_645"></span>[3](#fn_644.md) "One
 public diversion was constantly exhibited at all their meetings; young
 men, who, by frequent exercise, have attained to great perfection in
 that pastime, strip themselves, and dance among the points of swords and
 spears with most wonderful agility, and even with the most elegant and
 graceful motions. They do not perform this dance for hire, but for the
 entertainment of the spectators, esteeming their applause a sufficient
-reward." <span id="fr_646"></span>[4](#fn_645) This dance continues to
+reward." <span id="fr_646"></span>[4](#fn_645.md) This dance continues to
 be practised in the northern parts of England about Christmas time,
 when, says Mr Brand, "the fool-plough goes about; a pageant that
 consists of a
@@ -245,16 +245,16 @@ tells us that he had seen this dance performed very frequently, with
 little or no variation from the ancient method, excepting only that the
 dancers of the present day, when they have formed their swords into a
 figure, lay them upon the ground, and dance round them. <span
-id="fr_647"></span>[1](#fn_646)
+id="fr_647"></span>[1](#fn_646.md)
 
 I have not been fortunate enough to meet with any delineation that
 accords with the foregoing descriptions of the sword-dance; but in a
 Latin manuscript of Prudentius with Saxon notes, written in the ninth
 century, and now in the Cotton Library, <span
-id="fr_648"></span>[2](#fn_647) a military dance of a different kind
+id="fr_648"></span>[2](#fn_647.md) a military dance of a different kind
 occurs. It is exceedingly curious, and has not, that I recollect, been
 mentioned by any of our writers. The drawing is copied upon [plate
-twenty-one](#img_pl21). It represents two men, equipped in martial
+twenty-one](#img_pl21.md). It represents two men, equipped in martial
 habits, and each of them armed with a sword and a shield, engaged in a
 combat; the performance is enlivened by the sound of a horn; the
 musician acts in a double capacity, and is, together with a female
@@ -274,7 +274,7 @@ all her sex." Both these bills were printed in the reign of queen Anne:
 the first belonged to a showman named Crawley; and the second to James
 Miles, from Sadler's Wells, who calls his theatre a music booth, and the
 exhibition consisted chiefly of dancing. The originals are in the
-Harleian Library. <span id="fr_649"></span>[3](#fn_648) About thirty
+Harleian Library. <span id="fr_649"></span>[3](#fn_648.md) About thirty
 years back (*c*. 1770) I remember to have seen at Flockton's, a much
 noted but very clumsy juggler, a girl about eighteen or twenty years of
 age, who came upon the stage with four naked swords, two in each hand;
@@ -305,7 +305,7 @@ When Isabel of Bavaria, queen to Charles VI. of France, made her public
 entry into Paris, among other extraordinary exhibitions prepared for her
 reception was the following, recorded by Froissart, who was himself a
 witness to the fact: "There was a mayster <span
-id="fr_650"></span>[1](#fn_649) came out of Geane; he had tied a corde
+id="fr_650"></span>[1](#fn_649.md) came out of Geane; he had tied a corde
 upon the hyghest house on the brydge of Saynt Michell over all the
 houses, and the other ende was tyed to the hyghest tower of our Ladye's
 churche; and, as the quene passed by, and was in the great streat called
@@ -327,14 +327,14 @@ authority of another historian, says, he descended dancing upon the
 cord; and, passing between the curtains of blue taffety, ornamented with
 large fleurs-de-lis of gold, which covered the bridge, he placed a crown
 upon the head of Isabel, and then remounted upon the cord. <span
-id="fr_651"></span>[2](#fn_650)
+id="fr_651"></span>[2](#fn_650.md)
 
 ROPE-DANCING FROM THE BATTLEMENTS OF ST PAUL'S.--A performance much
 resembling the foregoing was exhibited before king Edward VI. at the
 time he passed in procession through the city of London, on Friday, the
 nineteenth of February 1546, previous to his coronation. "When the
 king," says the author, "was advanced almost to St George's
-church, <span id="fr_652"></span>[3](#fn_651) in Paul's churchyard,
+church, <span id="fr_652"></span>[3](#fn_651.md) in Paul's churchyard,
 there was a rope as great as the cable of a ship stretched in length
 from the battlements of Paul's steeple, with a great anchor at one end,
 fastened a little before the dean of Paul's house-gate; and, when his
@@ -355,7 +355,7 @@ cable, and tied himself by the right leg a little space beneath the
 wrist of the foot, and hung by one leg a certain space, and after
 recovered himself again with the said rope and unknit the knot, and came
 down again. Which stayed his majesty, with all the train, a good space
-of time." <span id="fr_653"></span>[1](#fn_652)
+of time." <span id="fr_653"></span>[1](#fn_652.md)
 
 ROPE-DANCING FROM ST PAUL'S STEEPLE.--This trick was repeated, though
 probably by another performer, in the reign of queen Mary; for,
@@ -364,13 +364,13 @@ reception of Philip, king of Spain, was one of a man who "came downe
 upon a rope, tied to the battlement of Saint Paule's church, with his
 head before, neither staieing himself with hand or foot; which," adds
 the author, "shortlie after cost him his life." <span
-id="fr_654"></span>[2](#fn_653)
+id="fr_654"></span>[2](#fn_653.md)
 
 ROPE-DANCING FROM ALL SAINTS CHURCH, HERTFORD.--A similar exploit was
 put in practice, about fifty years back (1750), in different parts of
 this kingdom. I received the following account of the manner in which it
 was carried into execution at Hertford from a friend of mine, <span
-id="fr_655"></span>[3](#fn_654) who assisted the exhibitor in adjusting
+id="fr_655"></span>[3](#fn_654.md) who assisted the exhibitor in adjusting
 his apparatus, and saw his performance several times. A rope was
 stretched from the top of the tower of All Saints' church, and brought
 obliquely to the ground about fourscore yards from the bottom of the
@@ -488,11 +488,11 @@ ball of the cross, likewise set with streamers and torches, which could
 not burn, the wind was so great." The historian informs us, that "Peter
 had sixteene pounds, thirteene shillings, and foure pence, given to him
 by the citie for his costs and paines, and for all his stuffe." <span
-id="fr_656"></span>[1](#fn_655)
+id="fr_656"></span>[1](#fn_655.md)
 
 JACOB HALL THE ROPE-DANCER.--In the reign of Charles II. there was a
 famous rope-dancer named Jacob Hall, whose portrait is still in
-existence. <span id="fr_657"></span>[2](#fn_656) The open-hearted
+existence. <span id="fr_657"></span>[2](#fn_656.md) The open-hearted
 Duchess of Cleveland is said to have been so partial to this man, that
 he rivalled the king himself in her affections, and received a salary
 from her grace.
@@ -521,7 +521,7 @@ Spinacuta were not inferior to the Turk. "The former danced on the rope
 his feet. But what is still more extraordinary, a monkey has lately
 performed there, both as a rope-dancer and an equilibrist, such tricks
 as no man was thought equal to before the Turk appeared in
-England." <span id="fr_658"></span>[1](#fn_657)
+England." <span id="fr_658"></span>[1](#fn_657.md)
 
 ROPE-DANCING AT SADLER'S WELLS, ETC.--During the eighteenth century,
 Sadler's Wells was a famous nursery for tumblers, balance-masters, and
@@ -536,7 +536,7 @@ the applause of the spectators.
 I shall only observe, that the earliest representation of rope-dancing
 which I have met with occurs in a little print affixed to one of the
 chapters of the vocabulary of Comenius, translated by Hoole; <span
-id="fr_659"></span>[2](#fn_658) where a woman is depicted dancing upon
+id="fr_659"></span>[2](#fn_658.md) where a woman is depicted dancing upon
 the tight-rope, and holding a balance charged with lead at both ends,
 according to the common usage of the present day; and behind her we see
 a man, with his hand downwards, and hanging upon the same rope by one of
@@ -554,7 +554,7 @@ originally, I apprehend, formed a part of the pageant belonging to the
 festival of fools. This festival was a religious mummery, usually held
 at Christmas time; and consisted of various ceremonials and mockeries. A
 vestige of the fool's dance, preserved in a MS. in the Bodleian
-Library, <span id="fr_660"></span>[3](#fn_659) written and illuminated
+Library, <span id="fr_660"></span>[3](#fn_659.md) written and illuminated
 in the
 
 <span id="page_184">p. 184</span>
@@ -566,12 +566,12 @@ In this representation of the dance, it seems conducted with some degree
 of regularity; and is assisted by the music of the regals and the
 bagpipes. The dress of the musicians resembles that of the dancers, and
 corresponds exactly with the habit of the court fool at that
-period. <span id="fr_661"></span>[1](#fn_660) I make no doubt, the
+period. <span id="fr_661"></span>[1](#fn_660.md) I make no doubt, the
 morris-dance, which afterwards became exceedingly popular in this
 country, originated from the fool's dance; and thence we trace the bells
 which characterised the morris-dancers. Antiquaries are agreed that the
 word is derived from Morisco, which in the Spanish language signifies a
-Moor. <span id="fr_662"></span>[2](#fn_661) The dance was brought in to
+Moor. <span id="fr_662"></span>[2](#fn_661.md) The dance was brought in to
 England from Spain about the beginning of the sixteenth century.
 
 MORRIS-DANCE.--The morris-dance was sometimes performed by itself, but
@@ -591,7 +591,7 @@ but were to be sounded as they danced. These bells were of unequal
 sizes, and differently denominated, as the fore bell, the second bell,
 the treble, the tenor or great bell, and mention is also made of double
 bells. In the third year of queen Elizabeth, two dozen of morris-bells
-were estimated at one shilling. <span id="fr_663"></span>[3](#fn_662)
+were estimated at one shilling. <span id="fr_663"></span>[3](#fn_662.md)
 The principal dancer in the morris was more superbly habited than his
 companions, as appears from a passage in an old play, *The Blind Beggar
 of Bednal Green*, by John Day, 1659, wherein it is said of one of the
@@ -632,7 +632,7 @@ hobby-horse."
 THE EGG-DANCE.--I am not able to ascertain the antiquity of this dance.
 The indication of such a performance occurs in an old comedy, entitled
 "The longer thou livest, the more Foole thou art," by William
-Wager, <span id="fr_664"></span>[1](#fn_663) in the reign of queen
+Wager, <span id="fr_664"></span>[1](#fn_663.md) in the reign of queen
 Elizabeth, where we meet with these lines:
 
 Upon my one foote pretely I can hoppe,  
@@ -690,14 +690,14 @@ exhibited nineteen different kinds of dances; among them were a
 wrestler's dance, vaulting upon the slack-rope, and dancing upon the
 ladder; the latter, he tells us, as well as the sword-dance, was
 performed by "a young woman surpassing all her sex." <span
-id="fr_665"></span>[1](#fn_664)--An Inventory of Playhouse Furniture,
-quoted in the *Tatler* <span id="fr_666"></span>[2](#fn_665) under the
+id="fr_665"></span>[1](#fn_664.md)--An Inventory of Playhouse Furniture,
+quoted in the *Tatler* <span id="fr_666"></span>[2](#fn_665.md) under the
 article "Materials for Dancing," specifies masques, castanets, and a
 ladder of ten rounds. I apprehend the ladder-dance originated from the
 ancient pastime of walking or dancing upon very high stilts. A specimen
 of such an exhibition is given on plate twenty-three, from a MS. roll in
 the Royal Library, written and illuminated in the reign of Henry
-III. <span id="fr_667"></span>[3](#fn_666) The actor is exercising a
+III. <span id="fr_667"></span>[3](#fn_666.md) The actor is exercising a
 double function, that is, of a musician and of a dancer.
 
 JOCULAR DANCES.--In the "Roman de la Rose" we read of a dance, the name
@@ -731,15 +731,15 @@ Many of the ancient dances were of a jocular kind, and sometimes
 executed by one person: we have, for instance, an account of a man who
 danced upon a table before king Edward II. A thirteenth century
 manuscript in the Royal Library, represented on [plate
-twenty-two](#img_pl22), shows a girl dancing upon the shoulders of the
+twenty-two](#img_pl22.md), shows a girl dancing upon the shoulders of the
 joculator, who at the same time is playing upon the bagpipes and appears
 to be in the action of walking forwards. <span
-id="fr_668"></span>[1](#fn_667)
+id="fr_668"></span>[1](#fn_667.md)
 
 \* In Philip Kinder's MS. *History of Derbyshire*, written about the
 middle of the seventeenth century, occurs an interesting passage
 relative to the then common use of bagpipes as an instrument to promote
-dancing. <span id="fr_669"></span>[2](#fn_668) He says: "For general
+dancing. <span id="fr_669"></span>[2](#fn_668.md) He says: "For general
 inclination and disposition the Peakard and Moorlander are of the same
 ayre, they are given much to dance after y<sup>e</sup> bagg-pipes,
 almost every towne hath a bagg-piper in it." The dances for which
@@ -766,14 +766,14 @@ expressed by fantastical gestures, aided by superb dresses, elegant
 music, and beautiful scenery; and sorry am I to add, they have nearly
 eclipsed the sober portraitures of real nature, and superseded in the
 public estimation the less attractive lessons of good sense. <span
-id="fr_670"></span>[3](#fn_669)
+id="fr_670"></span>[3](#fn_669.md)
 
 LEAPING AND VAULTING.--There are certain feats of tumbling and vaulting
 that have no connection with dancing, such as leaping and turning with
 the heels over the head in the air, termed the somersault, corruptly
 called a somerset. Mrs Piozzi, speaking of Robert Carr, earl of
 Somerset, and favourite of James I., says, "and the sommerset, still
-used by tumblers, taken from him." <span id="fr_671"></span>[4](#fn_670)
+used by tumblers, taken from him." <span id="fr_671"></span>[4](#fn_670.md)
 The
 
 <span id="page_188">p. 188</span>
@@ -807,7 +807,7 @@ manœuvres: on the contrary, the horses belonging to our vaulter remained
 at rest during the whole time of his exhibition.
 
 A show bill for Bartholomew Fair, during the reign of queen Anne <span
-id="fr_672"></span>[1](#fn_671) announces "the wonderful performances of
+id="fr_672"></span>[1](#fn_671.md) announces "the wonderful performances of
 that most celebrated master Simpson, the famous vaulter, who, being
 lately arrived from Italy, will show the world what vaulting is!" The
 bill speaks pompously: how far his abilities coincided with the promise,
@@ -836,7 +836,7 @@ There was manye a tymbestere--
 <span id="img_pl23"></span>
 
 [![Dancing, Leaping](tn/pl23.jpg)  
-Click to enlarge](img/pl23.jpg)  
+Click to enlarge](img/pl23.jpg.md)  
 Dancing, Leaping  
 
  
@@ -858,13 +858,13 @@ caught it, as it returned, upon a single finger; he then whirled it
 round with an air of triumph, and proceeded in the accompaniment without
 losing time, or occasioning the least interruption.
 
-REMARKABLE FEATS OF BALANCING.--[Plate twenty-four](#img_pl24) contains
+REMARKABLE FEATS OF BALANCING.--[Plate twenty-four](#img_pl24.md) contains
 some few specimens of the fourteenth century balance-master's art, three
 of which need no explanation; but one of them at the top and another at
 the bottom are not so clear.
 
 The first, from a MS. in the Bodleian Library, <span
-id="fr_673"></span>[1](#fn_672) represents a girl, as the length of the
+id="fr_673"></span>[1](#fn_672.md) represents a girl, as the length of the
 hair seems to indicate, habited like a boy, and kneeling on a large
 broad board, supported horizontally by two men; before her are three
 swords, the points inclined to each other, and placed in a triangular
@@ -903,7 +903,7 @@ was, no
 
 doubt, practised by the jugglers in former ages; and a singular specimen
 of it, delineated in the reign of Edward III., is given at the bottom of
-[plate twenty-three](#img_pl23).
+[plate twenty-three](#img_pl23.md).
 
 The performer bends himself backwards, with his head turned up between
 his hands, so as nearly to touch his feet; and in this situation he
@@ -930,13 +930,13 @@ found him as straight-shouldered a man as one would desire to see, but a
 little unfortunate in a hump back. In short, this wandering tumour
 puzzled all the workmen about town, who found it impossible to
 accommodate so changeable a customer." <span
-id="fr_674"></span>[1](#fn_673) He resided in Pall Mall, and died about
+id="fr_674"></span>[1](#fn_673.md) He resided in Pall Mall, and died about
 the beginning of king William's reign. Granger tells us he was dead in
-the year 1697. <span id="fr_675"></span>[2](#fn_674) There was also a
+the year 1697. <span id="fr_675"></span>[2](#fn_674.md) There was also a
 celebrated posture-master, by the name of Higgins, in the reign of queen
 Anne, who performed between the acts at the theatre royal in the
 Haymarket, and exhibited "many wonderful postures," as his own bill
-declares: <span id="fr_676"></span>[3](#fn_675) I know no farther of
+declares: <span id="fr_676"></span>[3](#fn_675.md) I know no farther of
 him. In the present day, the unnatural performances of the
 posture-masters are not fashionable, but seem to excite disgust rather
 than admiration in the public mind, and for this reason they are rarely
@@ -957,7 +957,7 @@ said in an old ballad, entitled "Sundry Trades and Callings":--
 <span id="img_pl24"></span>
 
 [![Balancing](tn/pl24.jpg)  
-Click to enlarge](img/pl24.jpg)  
+Click to enlarge](img/pl24.jpg.md)  
 Balancing  
 
  
@@ -978,14 +978,14 @@ And many such like libertines of sin.
 
 In the reign of James II. "Hans Buling, a Dutchman, was well known in
 London as a mountebank. He was," says Granger, <span
-id="fr_677"></span>[1](#fn_676) "an odd figure of a man, and extremely
+id="fr_677"></span>[1](#fn_676.md) "an odd figure of a man, and extremely
 fantastical in his dress; he was attended by a monkey, which he had
 trained to act the part of a jack-pudding, a part which he had formerly
 acted himself, and which was more natural to him than that of a
 professor of physic." The ignorance and the impudence of the mountebanks
 are ridiculed in the Spectator, and especially in that paper which
 concludes with an anecdote of one who exhibited at Hammersmith. <span
-id="fr_678"></span>[2](#fn_677) He told his audience that he had been
+id="fr_678"></span>[2](#fn_677.md) He told his audience that he had been
 "born and bred there, and, having a special regard for the place of his
 nativity, he was determined to make a present of five shillings to as
 many as would accept it: the whole crowd stood agape, and ready to take
@@ -1003,14 +1003,14 @@ consider it as performed for amusement only. In the middle ages dancing
 was reckoned among the genteel accomplishments necessary to be acquired
 by both sexes; and in the romances of those times, the character of a
 hero was incomplete unless he danced excellently. <span
-id="fr_679"></span>[3](#fn_678) The knights and the ladies are often
+id="fr_679"></span>[3](#fn_678.md) The knights and the ladies are often
 represented dancing together, which in the MS. poem of Launfal, in the
-Cotton Collection, <span id="fr_680"></span>[4](#fn_679) is called
+Cotton Collection, <span id="fr_680"></span>[4](#fn_679.md) is called
 playing:--
 
 The quene yede to the formeste ende,  
 Betweene Launfal and Gauweyn the hende, <span
-id="fr_681"></span>[5](#fn_680)  
+id="fr_681"></span>[5](#fn_680.md)  
      And after her ladyes bryght;  
 To daunce they wente alle yn same,  
 To see them playe hyt was fayr game,  
@@ -1031,22 +1031,22 @@ court. After the coronation dinner of Richard II., the remainder of the
 day was spent in the manner described by the foregoing poem; for the
 king, the prelates, the nobles, the knights, and the rest of the
 company, danced in Westminster Hall to the music of the minstrels. <span
-id="fr_682"></span>[1](#fn_681) Sir John Hawkins mentions a dance called
+id="fr_682"></span>[1](#fn_681.md) Sir John Hawkins mentions a dance called
 pavone, from *pavo*, a peacock, which might have been proper upon such
 an occasion. "It is," says he, "a grave and majestic dance; the method
 of dancing it anciently was by gentlemen dressed with caps and swords,
 by those of the long robe in their gowns, by the peers in their mantles,
 and by the ladies in gowns with long trains, the motion whereof in
 dancing resembled that of a peacock." <span
-id="fr_683"></span>[2](#fn_682) Several of our monarchs are praised for
+id="fr_683"></span>[2](#fn_682.md) Several of our monarchs are praised for
 their skill in dancing, and none of them more than Henry VIII., who was
 peculiarly partial to this fashionable exercise. In his time, and in the
 reign of his daughter Elizabeth, the English, generally speaking, are
 said to have been good dancers; and this commendation is not denied to
 them even by foreign writers. Polydore Virgil praises the English for
-their skill in dancing, <span id="fr_684"></span>[3](#fn_683) and
+their skill in dancing, <span id="fr_684"></span>[3](#fn_683.md) and
 Hentzner says, "the English excell in danceing." <span
-id="fr_685"></span>[4](#fn_684)
+id="fr_685"></span>[4](#fn_684.md)
 
 ANTIQUITY, ETC., OF DANCING.--The example of the nobility was followed
 by the middling classes of the community; they again were imitated by
@@ -1058,12 +1058,12 @@ said to have been productive of filthy gestures, for which reason it is
 ranked with other wanton sports unfit to be exhibited. An old drama
 without date, but probably written early in the reign of Elizabeth,
 entitled "A new Interlude and a Mery, of the Nature of the four
-Elements," <span id="fr_686"></span>[5](#fn_685) accuses the people at
+Elements," <span id="fr_686"></span>[5](#fn_685.md) accuses the people at
 large with "loving pryncypally disportes, as daunsynge, syngynge, toys,
 tryfuls, laughynge, and gestynge; for," adds the author, "connynge they
 set not by." But Sebastian Brant, in his *Ship of Fooles*, is much more
 severe upon this subject. I shall give the passage as it is paraphrased
-by Barclay:-- <span id="fr_687"></span>[6](#fn_686)
+by Barclay:-- <span id="fr_687"></span>[6](#fn_686.md)
 
 The priestes, and clerkes, to daunce have no shame;  
 The frere, or monke in his frocke and cowle,  
@@ -1080,7 +1080,7 @@ Despised God; thus dauncing first began.
 The damsels of London, as far back as the twelfth century, spent the
 evenings on holidays in dancing before their masters' doors. Stow
 laments the abolition of this "open pastime," which he remembered to
-have seen practised in his youth, <span id="fr_688"></span>[1](#fn_687)
+have seen practised in his youth, <span id="fr_688"></span>[1](#fn_687.md)
 and considered it not only as innocent in itself, but also as a
 preventative to worse deeds "within doors," which he feared would follow
 the suppression.
@@ -1099,7 +1099,7 @@ alternately, who held each other's hands and moved in a circle. The term
 originally signified a ring dance accompanied with song, and hence
 became associated with songs at festive seasons, and was finally applied
 almost exclusively to the Christmas songs of joy. <span
-id="fr_689"></span>[2](#fn_688)
+id="fr_689"></span>[2](#fn_688.md)
 
 \* THE CUSHION DANCE.--An old English kissing dance, called the Cushion
 Dance, was a favourite as early as the sixteenth century, and still
@@ -1140,100 +1140,100 @@ women.
 
 ### Footnotes
 
-<span id="fn_627"></span>[174:1](spe15.htm#fr_627) St Mark, chap. vi.
+<span id="fn_627"></span>[174:1](spe15.htm#fr_627.md) St Mark, chap. vi.
 ver. 22.
 
-<span id="fn_628"></span>[174:2](spe15.htm#fr_628) Nero, D. iv.
+<span id="fn_628"></span>[174:2](spe15.htm#fr_628.md) Nero, D. iv.
 
-<span id="fn_629"></span>[175:1](spe15.htm#fr_629) No. 1, A. xiv.
+<span id="fn_629"></span>[175:1](spe15.htm#fr_629.md) No. 1, A. xiv.
 
-<span id="fn_630"></span>[175:2](spe15.htm#fr_630) No. 2253, fol. 45.
+<span id="fn_630"></span>[175:2](spe15.htm#fr_630.md) No. 2253, fol. 45.
 
-<span id="fn_631"></span>[175:3](spe15.htm#fr_632) Harl. MSS. No. 1527.
+<span id="fn_631"></span>[175:3](spe15.htm#fr_632.md) Harl. MSS. No. 1527.
 
-<span id="fn_632"></span>[175:4](spe15.htm#fr_633) Roy. Lib. 2, B. vii.
+<span id="fn_632"></span>[175:4](spe15.htm#fr_633.md) Roy. Lib. 2, B. vii.
 
-<span id="fn_633"></span>[175:5](spe15.htm#fr_634) Odyssey, lib. iv. 18.
+<span id="fn_633"></span>[175:5](spe15.htm#fr_634.md) Odyssey, lib. iv. 18.
 
-<span id="fn_634"></span>[176:1](spe15.htm#fr_635) Roll of Expenses,
+<span id="fn_634"></span>[176:1](spe15.htm#fr_635.md) Roll of Expenses,
 Edward II., in the possession of Thomas Astle, Esq.
 
-<span id="fn_635"></span>[176:2](spe15.htm#fr_636) From a MS. in the
+<span id="fn_635"></span>[176:2](spe15.htm#fr_636.md) From a MS. in the
 Remembrancer's Office, an. 13 Hen. VIII.
 
-<span id="fn_636"></span>[176:3](spe15.htm#fr_637) *Eccles. Mem*. vol.
+<span id="fn_636"></span>[176:3](spe15.htm#fr_637.md) *Eccles. Mem*. vol.
 iii. p. 312.
 
-<span id="fn_637"></span>[176:4](spe15.htm#fr_638) Laneham's Letter, in
+<span id="fn_637"></span>[176:4](spe15.htm#fr_638.md) Laneham's Letter, in
 Mr. Nichols' *Progresses of Queen Elizabeth*, pp. 16, 17.
 
-<span id="fn_638"></span>[176:5](spe15.htm#fr_639) No. 115, dated Jan.
+<span id="fn_638"></span>[176:5](spe15.htm#fr_639.md) No. 115, dated Jan.
 3, 1709.
 
-<span id="fn_639"></span>[176:6](spe15.htm#fr_640) Domitian, A. 2.
+<span id="fn_639"></span>[176:6](spe15.htm#fr_640.md) Domitian, A. 2.
 
-<span id="fn_640"></span>[176:7](spe15.htm#fr_641) Sloane MSS. No. 335.
+<span id="fn_640"></span>[176:7](spe15.htm#fr_641.md) Sloane MSS. No. 335.
 
-<span id="fn_641"></span>[176:8](spe15.htm#fr_642) Bodleian MSS. No.
+<span id="fn_641"></span>[176:8](spe15.htm#fr_642.md) Bodleian MSS. No.
 264.
 
-<span id="fn_642"></span>[177:1](spe15.htm#fr_643) Cleopatra, C. viii.
+<span id="fn_642"></span>[177:1](spe15.htm#fr_643.md) Cleopatra, C. viii.
 
-<span id="fn_643"></span>[177:2](spe15.htm#fr_644) No. 2, B. viii.
+<span id="fn_643"></span>[177:2](spe15.htm#fr_644.md) No. 2, B. viii.
 
-<span id="fn_644"></span>[177:3](spe15.htm#fr_645) Tacit. *De Morib.
+<span id="fn_644"></span>[177:3](spe15.htm#fr_645.md) Tacit. *De Morib.
 Germ.* cap. 24.
 
-<span id="fn_645"></span>[177:4](spe15.htm#fr_646) The reader may find a
+<span id="fn_645"></span>[177:4](spe15.htm#fr_646.md) The reader may find a
 more particular account of the various motions and figures formed by the
 dancers, from Olaüs Magnus, in Mr Brand's notes upon the 14th chapter of
 Bourne's *Vulgar Antiquities*, p. 175.
 
-<span id="fn_646"></span>[178:1](spe15.htm#fr_647) The sword-dance still
+<span id="fn_646"></span>[178:1](spe15.htm#fr_647.md) The sword-dance still
 survives at Christmastide in some parts of Northumberland, Yorkshire,
 and the north Midlands. See *Dancing* (Badminton Library), 175, 176.
 
-<span id="fn_647"></span>[178:2](spe15.htm#fr_648) Cleopatra, C. viii.
+<span id="fn_647"></span>[178:2](spe15.htm#fr_648.md) Cleopatra, C. viii.
 
-<span id="fn_648"></span>[178:3](spe15.htm#fr_649) No. 5931.
+<span id="fn_648"></span>[178:3](spe15.htm#fr_649.md) No. 5931.
 
-<span id="fn_649"></span>[179:1](spe15.htm#fr_650) Vol. iv. chap. 38.
+<span id="fn_649"></span>[179:1](spe15.htm#fr_650.md) Vol. iv. chap. 38.
 
-<span id="fn_650"></span>[179:2](spe15.htm#fr_651) *Essais sur Paris*,
+<span id="fn_650"></span>[179:2](spe15.htm#fr_651.md) *Essais sur Paris*,
 vol. ii. p. 42.
 
-<span id="fn_651"></span>[179:3](spe15.htm#fr_652) It should be St
+<span id="fn_651"></span>[179:3](spe15.htm#fr_652.md) It should be St
 Gregory's church, which stood on the south side of St Paul's nearly
 opposite to the Dean's Gateway.
 
-<span id="fn_652"></span>[180:1](spe15.htm#fr_653) *Archæologia*, vol.
+<span id="fn_652"></span>[180:1](spe15.htm#fr_653.md) *Archæologia*, vol.
 vii.
 
-<span id="fn_653"></span>[180:2](spe15.htm#fr_654) Holinshed's *Chron*.
+<span id="fn_653"></span>[180:2](spe15.htm#fr_654.md) Holinshed's *Chron*.
 vol. iii. p. 1121.
 
-<span id="fn_654"></span>[180:3](spe15.htm#fr_655) Mr John Carrington of
+<span id="fn_654"></span>[180:3](spe15.htm#fr_655.md) Mr John Carrington of
 Bacon's, near Hertford.
 
-<span id="fn_655"></span>[182:1](spe15.htm#fr_656) Holinshed's *Chron*.
+<span id="fn_655"></span>[182:1](spe15.htm#fr_656.md) Holinshed's *Chron*.
 vol. iii, p. 1091.
 
-<span id="fn_656"></span>[182:2](spe15.htm#fr_657) Granger, *Biog.
+<span id="fn_656"></span>[182:2](spe15.htm#fr_657.md) Granger, *Biog.
 Hist.* vol. iv. p. 349.
 
-<span id="fn_657"></span>[183:1](spe15.htm#fr_658) Granger, vol. iv. pp.
+<span id="fn_657"></span>[183:1](spe15.htm#fr_658.md) Granger, vol. iv. pp.
 352, 353.
 
-<span id="fn_658"></span>[183:2](spe15.htm#fr_659) *Orbis Sensualium
+<span id="fn_658"></span>[183:2](spe15.htm#fr_659.md) *Orbis Sensualium
 Pictus*, A. D. 1658.
 
-<span id="fn_659"></span>[183:3](spe15.htm#fr_660) No. 964.
+<span id="fn_659"></span>[183:3](spe15.htm#fr_660.md) No. 964.
 
-<span id="fn_660"></span>[184:1](spe15.htm#fr_661) Mr Douce was of
+<span id="fn_660"></span>[184:1](spe15.htm#fr_661.md) Mr Douce was of
 opinion, that the dance set forth above by Mr Strutt, from the Bodleian
 MS., did not form a part of the festival of fools.
 
-<span id="fn_661"></span>[184:2](spe15.htm#fr_662) In the same way
+<span id="fn_661"></span>[184:2](spe15.htm#fr_662.md) In the same way
 *morris*-pike, a constantly mentioned weapon in the sixteenth century,
 meant a Spanish or Moorish pike.
 
@@ -1242,81 +1242,81 @@ parishes--indeed the majority of those which are extant of the sixteenth
 century--show the almost universal custom of morris-dances and Robin
 Hood sports on May Day through-out England at that period.
 
-<span id="fn_662"></span>[184:3](spe15.htm#fr_663) *Archæologia*, vol.
+<span id="fn_662"></span>[184:3](spe15.htm#fr_663.md) *Archæologia*, vol.
 i. p. 15. See also the *Witch of Edmonton*, a tragi-comedy, by William
 Rowley, printed in 1658.
 
-<span id="fn_663"></span>[185:1](spe15.htm#fr_664) Garrick's *Collection
+<span id="fn_663"></span>[185:1](spe15.htm#fr_664.md) Garrick's *Collection
 of Old Plays*, 1 vol. 18mo.
 
-<span id="fn_664"></span>[186:1](spe15.htm#fr_665) Harl. Lib. 5931.
+<span id="fn_664"></span>[186:1](spe15.htm#fr_665.md) Harl. Lib. 5931.
 
-<span id="fn_665"></span>[186:2](spe15.htm#fr_666) Vol. i. No. 42.
+<span id="fn_665"></span>[186:2](spe15.htm#fr_666.md) Vol. i. No. 42.
 
-<span id="fn_666"></span>[186:3](spe15.htm#fr_667) 14, B. v.
+<span id="fn_666"></span>[186:3](spe15.htm#fr_667.md) 14, B. v.
 
-<span id="fn_667"></span>[187:1](spe15.htm#fr_668) 14, E. iii.
+<span id="fn_667"></span>[187:1](spe15.htm#fr_668.md) 14, E. iii.
 
-<span id="fn_668"></span>[187:2](spe15.htm#fr_669) \* Bodleian, Ashm.
+<span id="fn_668"></span>[187:2](spe15.htm#fr_669.md) \* Bodleian, Ashm.
 MSS. 788.
 
-<span id="fn_669"></span>[187:3](spe15.htm#fr_670) \* For a brief
+<span id="fn_669"></span>[187:3](spe15.htm#fr_670.md) \* For a brief
 history of the ballet see Grove's *Dancing* (Badminton Library),
 360-380.
 
-<span id="fn_670"></span>[187:4](spe15.htm#fr_671) *Retrospection of
+<span id="fn_670"></span>[187:4](spe15.htm#fr_671.md) *Retrospection of
 Eighteen Hundred Years*, vol. ii. p. 224.
 
-<span id="fn_671"></span>[188:1](spe15.htm#fr_672) In a volume of
+<span id="fn_671"></span>[188:1](spe15.htm#fr_672.md) In a volume of
 Miscellaneous Papers, Bibl. Had. 5931.
 
-<span id="fn_672"></span>[189:1](spe15.htm#fr_673) No. 264.
+<span id="fn_672"></span>[189:1](spe15.htm#fr_673.md) No. 264.
 
-<span id="fn_673"></span>[190:1](spe15.htm#fr_674) No. 102, July 8,
+<span id="fn_673"></span>[190:1](spe15.htm#fr_674.md) No. 102, July 8,
 1713.
 
-<span id="fn_674"></span>[190:2](spe15.htm#fr_675) *Biog. Hist.* vol.
+<span id="fn_674"></span>[190:2](spe15.htm#fr_675.md) *Biog. Hist.* vol.
 iv. See also *Philos. Trans.* No. 242, for July 1698.
 
-<span id="fn_675"></span>[190:3](spe15.htm#fr_676) Miscell. Collect.
+<span id="fn_675"></span>[190:3](spe15.htm#fr_676.md) Miscell. Collect.
 Harl. Lib. No. 5931
 
-<span id="fn_676"></span>[191:1](spe15.htm#fr_677) *Biog. Hist.* vol.
+<span id="fn_676"></span>[191:1](spe15.htm#fr_677.md) *Biog. Hist.* vol.
 iv. p. 350.
 
-<span id="fn_677"></span>[191:2](spe15.htm#fr_678) Vol. viii. No. 572;
+<span id="fn_677"></span>[191:2](spe15.htm#fr_678.md) Vol. viii. No. 572;
 see also vol. vi. No. 444.
 
-<span id="fn_678"></span>[191:3](spe15.htm#fr_679) See the Introduction.
+<span id="fn_678"></span>[191:3](spe15.htm#fr_679.md) See the Introduction.
 
-<span id="fn_679"></span>[191:4](spe15.htm#fr_680) Caligula, A 2, fol.
+<span id="fn_679"></span>[191:4](spe15.htm#fr_680.md) Caligula, A 2, fol.
 53.
 
-<span id="fn_680"></span>[191:5](spe15.htm#fr_681) Polite, courteous.
+<span id="fn_680"></span>[191:5](spe15.htm#fr_681.md) Polite, courteous.
 
-<span id="fn_681"></span>[192:1](spe15.htm#fr_682) Rym. *Fæd*. tom. vii.
+<span id="fn_681"></span>[192:1](spe15.htm#fr_682.md) Rym. *Fæd*. tom. vii.
 p. 160, col. 2.
 
-<span id="fn_682"></span>[192:2](spe15.htm#fr_683) *Hist. Music*, vol.
+<span id="fn_682"></span>[192:2](spe15.htm#fr_683.md) *Hist. Music*, vol.
 iii. p. 383.
 
-<span id="fn_683"></span>[192:3](spe15.htm#fr_684) *Hist. Angl*.
+<span id="fn_683"></span>[192:3](spe15.htm#fr_684.md) *Hist. Angl*.
 
-<span id="fn_684"></span>[192:4](spe15.htm#fr_685) *Itinerary*.
+<span id="fn_684"></span>[192:4](spe15.htm#fr_685.md) *Itinerary*.
 
-<span id="fn_685"></span>[192:5](spe15.htm#fr_686) Garrick's *Col*. I.
+<span id="fn_685"></span>[192:5](spe15.htm#fr_686.md) Garrick's *Col*. I.
 vol. iii.
 
-<span id="fn_686"></span>[192:6](spe15.htm#fr_687) First printed by
+<span id="fn_686"></span>[192:6](spe15.htm#fr_687.md) First printed by
 Pynson, A.D. 1508.
 
-<span id="fn_687"></span>[193:1](spe15.htm#fr_688) Stow died A.D. 1605,
+<span id="fn_687"></span>[193:1](spe15.htm#fr_688.md) Stow died A.D. 1605,
 aged 80. *Survey of London*, by Strype, vol. i. p. 251.
 
-<span id="fn_688"></span>[193:2](spe15.htm#fr_689) \* Grove's *Dancing*
+<span id="fn_688"></span>[193:2](spe15.htm#fr_689.md) \* Grove's *Dancing*
 (Badminton Library), 131. In Murray's *Dictionary* examples are given of
 the English use of carol meaning a dance, from 1300 to 1600.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](spe16)
+[Next: Chapter VI](spe16.md)

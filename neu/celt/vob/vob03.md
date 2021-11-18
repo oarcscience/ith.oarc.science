@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vob02)  [Next](vob04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vob02)  [Next](vob04.md) 
 
 ------------------------------------------------------------------------
 
@@ -235,7 +235,7 @@ a, 24. Cf. Monann, 51.
 
 ib., *i curp criad gil*. Cf. LU. 18, 22: *Héle 7 Énóc ina corpaid críad
 etir ainglib nimc* = LL. 280 a, 51.--*B*, reading *criad* as a
-monosyllable, [alters](errata.htm#0) *gil* into *ad-gil* to make up the
+monosyllable, [alters](errata.htm#0.md) *gil* into *ad-gil* to make up the
 seven syllables.
 
 51\. *coniec*. This old form, the 3rd sing. of the s-future of
@@ -314,4 +314,4 @@ excess. Perhaps *dorat*, 'who gave,' is a better reading than *dobir*,
 
 ------------------------------------------------------------------------
 
-[Next: I. The Conception of Mongán](vob04)
+[Next: I. The Conception of Mongán](vob04.md)

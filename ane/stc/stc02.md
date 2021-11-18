@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](stc01)  [Next](stc03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](stc01)  [Next](stc03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,31 +23,31 @@ Intangible Textual Heritage
 |                                                                                                                |                                 |
 |----------------------------------------------------------------------------------------------------------------|---------------------------------|
 |                                                                                                                | <span class="small">PAGE</span> |
-| PREFACE                                                                                                        | [XI](stc01.htm#page_XI)         |
-| INTRODUCTION:—                                                                                                 | [XXV](stc03.htm#page_XXV)       |
-|     I. DESCRIPTION AND LITERATURE OF THE POEM *ENUMA ELISH*                                                    | [XXV](stc03.htm#page_XXV)       |
-|     II. CONTENTS OF THE POEM AND DISCUSSION OF NEW MATERIAL                                                    | [XXX](stc03.htm#page_XXX)       |
-|     III. COMPOSITION OF THE POEM                                                                               | [LXVI](stc03.htm#page_LXVI)     |
-|     IV. DATE AND ORIGIN OF THE BABYLONIAN CREATION LEGENDS                                                     | [LXXII](stc03.htm#page_LXXII)   |
-|     V. INFLUENCE OF THE BABYLONIAN CREATION LEGENDS AND PARALLELS IN HEBREW LITERATURE                         | [LXXX](stc03.htm#page_LXXX)     |
-|     VI. AUTHORITIES FOR THE TEXT OF THE POEM *ENUMA ELISH* AND THE ASSYRIAN COMMENTARIES                       | [XCVII](stc03.htm#page_XCVII)   |
-|     VII. RECONSTRUCTION AND ARRANGEMENT OF THE TEXT                                                            | [CXX](stc03.htm#page_CXX)       |
+| PREFACE                                                                                                        | [XI](stc01.htm#page_XI.md)         |
+| INTRODUCTION:—                                                                                                 | [XXV](stc03.htm#page_XXV.md)       |
+|     I. DESCRIPTION AND LITERATURE OF THE POEM *ENUMA ELISH*                                                    | [XXV](stc03.htm#page_XXV.md)       |
+|     II. CONTENTS OF THE POEM AND DISCUSSION OF NEW MATERIAL                                                    | [XXX](stc03.htm#page_XXX.md)       |
+|     III. COMPOSITION OF THE POEM                                                                               | [LXVI](stc03.htm#page_LXVI.md)     |
+|     IV. DATE AND ORIGIN OF THE BABYLONIAN CREATION LEGENDS                                                     | [LXXII](stc03.htm#page_LXXII.md)   |
+|     V. INFLUENCE OF THE BABYLONIAN CREATION LEGENDS AND PARALLELS IN HEBREW LITERATURE                         | [LXXX](stc03.htm#page_LXXX.md)     |
+|     VI. AUTHORITIES FOR THE TEXT OF THE POEM *ENUMA ELISH* AND THE ASSYRIAN COMMENTARIES                       | [XCVII](stc03.htm#page_XCVII.md)   |
+|     VII. RECONSTRUCTION AND ARRANGEMENT OF THE TEXT                                                            | [CXX](stc03.htm#page_CXX.md)       |
 | TRANSLITERATIONS AND TRANSLATIONS:—                                                                            |                                 |
 |     I. THE SEVEN TABLETS OF THE HISTORY OF CREATION.                                                           |                                 |
-|         I. THE FIRST TABLET                                                                                    | [2](stc04.htm#page_2)           |
-|         II. THE SECOND TABLET                                                                                  | [22](stc05.htm#page_22)         |
-|         III. THE THIRD TABLET                                                                                  | [38](stc06.htm#page_38)         |
-|         IV. THE FOURTH TABLET                                                                                  | [58](stc07.htm#page_58)         |
-|         V. THE FIFTH TABLET                                                                                    | [78](stc08.htm#page_78)         |
-|         VI. THE SIXTH TABLET                                                                                   | [86](stc09.htm#page_86)         |
-|         VII. THE SEVENTH TABLET                                                                                | [92](stc10.htm#page_92)         |
-|         EPILOGUE                                                                                               | [110](stc10.htm#page_110)       |
+|         I. THE FIRST TABLET                                                                                    | [2](stc04.htm#page_2.md)           |
+|         II. THE SECOND TABLET                                                                                  | [22](stc05.htm#page_22.md)         |
+|         III. THE THIRD TABLET                                                                                  | [38](stc06.htm#page_38.md)         |
+|         IV. THE FOURTH TABLET                                                                                  | [58](stc07.htm#page_58.md)         |
+|         V. THE FIFTH TABLET                                                                                    | [78](stc08.htm#page_78.md)         |
+|         VI. THE SIXTH TABLET                                                                                   | [86](stc09.htm#page_86.md)         |
+|         VII. THE SEVENTH TABLET                                                                                | [92](stc10.htm#page_92.md)         |
+|         EPILOGUE                                                                                               | [110](stc10.htm#page_110.md)       |
 |     II. OTHER ACCOUNTS OF THE HISTORY OF CREATION.                                                             |                                 |
-|         I. ANOTHER VERSION OF THE DRAGON-MYTH                                                                  | [116](stc11.htm#page_116)       |
-|         II. A REFERENCE TO THE CREATION OF THE CATTLE AND THE BEASTS OF THE FIELD                              | [122](stc12.htm#page_122)       |
-|     III. A REFERENCE TO THE CREATION OF THE MOON AND THE SUN                                                   | [124](stc12.htm#page_124)       |
-|     IV. AN ADDRESS TO THE RIVER OF CREATION                                                                    | [128](stc14.htm#page_128)       |
-|     V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY MARDUK                                                  | [130](stc15.htm#page_130)       |
+|         I. ANOTHER VERSION OF THE DRAGON-MYTH                                                                  | [116](stc11.htm#page_116.md)       |
+|         II. A REFERENCE TO THE CREATION OF THE CATTLE AND THE BEASTS OF THE FIELD                              | [122](stc12.htm#page_122.md)       |
+|     III. A REFERENCE TO THE CREATION OF THE MOON AND THE SUN                                                   | [124](stc12.htm#page_124.md)       |
+|     IV. AN ADDRESS TO THE RIVER OF CREATION                                                                    | [128](stc14.htm#page_128.md)       |
+|     V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY MARDUK                                                  | [130](stc15.htm#page_130.md)       |
 |     VI. THE "CUTHAEAN LEGEND OF THE CREATION"                                                                  | 140                             |
 | <span id="page_XXIV">p. XXIV</span>                                                                            |                                 |
 | APPENDICES:—                                                                                                   |                                 |
@@ -82,4 +82,4 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](stc03)
+[Next: Introduction](stc03.md)

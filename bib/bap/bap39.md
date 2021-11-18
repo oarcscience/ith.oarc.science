@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap38) 
-[Next](bap40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap38.md) 
+[Next](bap40.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ and *I set* before
 him the place of fire wherein the works of them that commit iniquity
 against me shall be avenged, and I showed him the torches of fire
 whereby the righteous which have believed in me shall be
-enlightened. <span id="fr_96"></span>[1](#fn_96) 7. And I said unto him:
+enlightened. <span id="fr_96"></span>[1](#fn_96.md) 7. And I said unto him:
 These shall be for a witness between me and thee that I will give thee
 seed of the womb that is shut up. And I will liken thee unto the dove,
 because thou hast received for me the city which thy sons shall (begin
@@ -153,20 +153,20 @@ your hand that it is not in vain that I have chosen you. These are the
 words that the Lord hath spoken unto me this night. 14. And all the
 people answered and said: The Lord is our God, and him only will we
 serve. And all the people made a great feast that day and a
-renewal <span id="fr_97"></span>[1](#fn_97) thereof for 28 days.
+renewal <span id="fr_97"></span>[1](#fn_97.md) thereof for 28 days.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_96"></span>[142:1](bap39.htm#fr_96) XXIII. 6. The vision in
+<span id="fn_96"></span>[142:1](bap39.htm#fr_96.md) XXIII. 6. The vision in
 Gen. 15 is here the occasion of Abraham's receiving revelations of a
 future state. Compare the Slavonic *Apocalypse of Abraham*, in which
 future *history* is revealed to him at this time.
 
-<span id="fn_97"></span>[144:1](bap39.htm#fr_97) 14. *a renewa*l:
+<span id="fn_97"></span>[144:1](bap39.htm#fr_97.md) 14. *a renewa*l:
 *innouationem*. *qu*. ἐγκαινισμόν: Cf. 2 Chron. 30:23.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV](bap40)
+[Next: Chapter XXIV](bap40.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms28)  [Next](jms30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms28)  [Next](jms30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -69,7 +69,7 @@ ms. These quotations chosen at random will illustrate its style:
 <span id="img_29300"></span> ![](img/29300.jpg)
 
 <span id="an_8_9">9</span>. Cf. *Shimmush Tehillim*, passim; Ms. *S.
-Gematriaot*, loc. cit.; pp. [122](jms11.htm#page_122) f. above.
+Gematriaot*, loc. cit.; pp. [122](jms11.htm#page_122.md) f. above.
 
 <span id="an_8_10">10</span>. Cf. *Sheb.* 15b and Rashi; Blau, 95, n. 4;
 *Rabiah*, Aptowitzer's note, I, 4, n. 3; *Mordecai*, *Ber.* §19, p. 2a;
@@ -82,4 +82,4 @@ Beracha*, II, 61, p. 77a; Perles, *Graetz Jubelschrift*, 28; Grunwald,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](jms30)
+[Next: Chapter IX](jms30.md)

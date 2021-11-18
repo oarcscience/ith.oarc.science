@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis42)  [Next](kis44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis42)  [Next](kis44.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ his red cloak and went to the King's orchard.
 
 ------------------------------------------------------------------------
 
-[Next: Part VII](kis44)
+[Next: Part VII](kis44.md)

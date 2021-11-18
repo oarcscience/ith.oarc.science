@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim19)  [Next](sim21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim19)  [Next](sim21.md) 
 
 ------------------------------------------------------------------------
 
@@ -249,4 +249,4 @@ The women in this story were eagles.
 ------------------------------------------------------------------------
 
 [Next: The Great Spirit Overpowers the Cold and Frost of Winter, Stone
-Coats](sim21)
+Coats](sim21.md)

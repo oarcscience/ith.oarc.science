@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rio02)  [Next](rio04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rio02)  [Next](rio04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,17 +21,17 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 <span id="page_16">p. 16</span> <span id="page_17">p. 17</span>
 
 <span id="img_01700"></span> ![Decorative title: A Rabbi's Impressions
-of the Oberammergau Passion Play](img/01700.jpg)
+of the Oberammergau Passion Play](img/01700.jpg.md)
 
 ### I
 
 ### Introductory
 
 "Let them hear, and say, It is truth."—[*Isaiah* xliiii,
-9](../../bib/kjv/isa043.htm#009).
+9](../../bib/kjv/isa043.htm#009.md).
 
 "And ye shall know the truth, and the truth shall make you free."—[*St.
-John* viii, 32](../../bib/kjv/joh008.htm#032).
+John* viii, 32](../../bib/kjv/joh008.htm#032.md).
 
 WHAT think ye of Christ? This question of questions of the New
 Testament, that has been asked<span class="margnote">A universal
@@ -516,4 +516,4 @@ of heathen temples, free from the admixtures of pagan pantheons.
 
 ------------------------------------------------------------------------
 
-[Next: II. In the Forenoon](rio04)
+[Next: II. In the Forenoon](rio04.md)

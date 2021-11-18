@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla10)  [Next](mla12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla10)  [Next](mla12.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ to live on putrid flesh.
 ------------------------------------------------------------------------
 
 [Next: Why Flying Foxes Hang from Trees: A Legend of the Striped-Tail
-Lizard](mla12)
+Lizard](mla12.md)

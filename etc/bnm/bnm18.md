@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm17)  [Next](bnm19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm17)  [Next](bnm19.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ fox's tail has been as white as cream.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Frog.](bnm19)
+[Next: The Story Of The First Frog.](bnm19.md)

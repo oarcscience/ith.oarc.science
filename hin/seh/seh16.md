@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh15)  [Next](seh17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh15)  [Next](seh17.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ house.
 
 ------------------------------------------------------------------------
 
-[Next: An Old Collegiate Village](seh17)
+[Next: An Old Collegiate Village](seh17.md)

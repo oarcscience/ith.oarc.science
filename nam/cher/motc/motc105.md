@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc104) 
-[Next](motc106) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc104.md) 
+[Next](motc106.md) 
 
 ------------------------------------------------------------------------
 
@@ -487,4 +487,4 @@ within the scope of this paper.
 
 ------------------------------------------------------------------------
 
-[Next: 106. The Giants From The West](motc106)
+[Next: 106. The Giants From The West](motc106.md)

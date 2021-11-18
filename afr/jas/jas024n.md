@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas023n)  [Next](jas025n)   
- \[[24. The Duckano tree.](jas024)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas023n)  [Next](jas025n.md)   
+ \[[24. The Duckano tree.](jas024.md)\]
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ him. Later his son escapes from the cannibals by slipping into a hole.
 
 ------------------------------------------------------------------------
 
-[Next: Note 25. Food and Cudgel.](jas025n)
+[Next: Note 25. Food and Cudgel.](jas025n.md)

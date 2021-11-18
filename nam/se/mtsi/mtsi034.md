@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi033)  [Next](mtsi035) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi033)  [Next](mtsi035.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ in the ear and killed him.
 
 ------------------------------------------------------------------------
 
-[Next: 33. The Woman and the Monster Earthworm](mtsi035)
+[Next: 33. The Woman and the Monster Earthworm](mtsi035.md)

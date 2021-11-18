@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort28)  [Next](kort30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort28)  [Next](kort30.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 # APPENDIX I.
 
-### SONGS. <span id="fr_56"></span>[1](#fn_56)
+### SONGS. <span id="fr_56"></span>[1](#fn_56.md)
 
 ### 1.
 
@@ -43,7 +43,7 @@ to my sweetheart. I will sing of my bad children.
 
 ### Footnotes
 
-<span id="fn_56"></span>[103:1](kort29.htm#fr_56) These two songs were
+<span id="fn_56"></span>[103:1](kort29.htm#fr_56.md) These two songs were
 written down from the phonographic records of Mr. Jochelson (No. 2 and
 No. 7 on his list). The first is in Koryak of Kamenskoye', the second is
 Chukchee in grammar and phonetics, and Koryak in vocabulary. It was
@@ -52,4 +52,4 @@ for a long time among the Reindeer Koryak.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix II. Constellations](kort30)
+[Next: Appendix II. Constellations](kort30.md)

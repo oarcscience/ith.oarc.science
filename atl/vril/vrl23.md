@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl22)  [Next](vrl24) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl22)  [Next](vrl24.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ The closed door shut with a musical sound, and all was over.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXV](vrl24)
+[Next: CHAPTER XXV](vrl24.md)

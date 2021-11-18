@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml56)  [Next](yml58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml56)  [Next](yml58.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ first bamboo from which flutes were made (Densmore 1929: 61-62).
 
 ------------------------------------------------------------------------
 
-[Next: Bobok](yml58)
+[Next: Bobok](yml58.md)

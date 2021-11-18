@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Next](rsv01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Next](rsv01.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ Heritage
 <span id="img_cover"></span>
 
 [![Front Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover  
 
 # THE RELIGIONS OF SOUTH VIETNAM IN FAITH AND FACT
@@ -31,7 +31,7 @@ attribution is left intact in all copies.
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 This volume was prepared by the Chaplain Corps Planning Group, Chaplains
@@ -55,9 +55,9 @@ IN FAITH AND FACT
 
 [![MAIN GATE OF MARSHAL LE-VAN-DUYET'S TEMPLE, SAIGON,
 VIETNAM](tn/_00100.jpg)  
-Click to enlarge](img/_00100.jpg)  
+Click to enlarge](img/_00100.jpg.md)  
 MAIN GATE OF MARSHAL LE-VAN-DUYET'S TEMPLE, SAIGON, VIETNAM  
 
 ------------------------------------------------------------------------
 
-[Next: Contents](rsv01)
+[Next: Contents](rsv01.md)

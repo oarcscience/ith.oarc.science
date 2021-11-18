@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs04)  [Next](abs06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs04)  [Next](abs06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -91,7 +91,7 @@ the West Indies. It just so happens that, as far as popular recognition
 is concerned, his was one of the earliest mentions to appear in print in
 the English language, in what may be called modern times, of what has
 latterly become known as the "abominable snowman." <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 <span id="page_3">p. 3</span>
 
@@ -168,7 +168,7 @@ of awe.
 It appears that in 1902 British Indian officialdom was concerned with
 the stringing of the first telegraph line from Lhasa, the capital of
 Tibet, to Kalimpong, Darjeeling in Bengal Province of India just south
-of the Sikkim border (see [Map 11](abs16.htm#img_map11)).
+of the Sikkim border (see [Map 11](abs16.htm#img_map11).md).
 
 <span id="page_5">p. 5</span>
 
@@ -214,7 +214,7 @@ that I have found on the actual (or even
 the alleged) capture of any form of what we shall henceforth be calling
 an ABSM—i.e. "the abominable snowmen," by what we must, also for lack of
 any established over-all name, call the "Western World," in the Oriental
-Region. <span id="fr_1"></span>[\*](#fn_1)
+Region. <span id="fr_1"></span>[\*](#fn_1.md)
 
 Nevertheless, it is by no means the only such report, nor actually the
 earliest on record, for as we shall presently see, it was preceded in
@@ -314,7 +314,7 @@ long and toes point in the opposite direction to that in which the
 animal is moving. The breadth of the track is about 6 inches. I take it
 he walks on his knees and shins instead of on the sole of his foot. He
 is known as the *Jungli Admi or Sogpa*. <span
-id="fr_2"></span>[\*](#fn_2) One was worrying a lot of coolies working
+id="fr_2"></span>[\*](#fn_2.md) One was worrying a lot of coolies working
 in the forest below Phalut in December; they were very frightened and
 would not go into work. I set off as soon as I could to try and bag the
 beast, but before I arrived the Forester had been letting off a gun and
@@ -815,7 +815,7 @@ just as definite, and apparently identical to these *Oh-Mahs* (or
 "Bigfeet") of California. Subsequent research has, what is more, brought
 to light a mass of other reports of similar things from Quebec, the
 Canadian Northwest Territories, the Yukon, the Idaho Rockies,
-Washington, and Oregon. <span id="fr_3"></span>[\*](#fn_3)
+Washington, and Oregon. <span id="fr_3"></span>[\*](#fn_3.md)
 
 This brings us up to the date of writing, except to note that a large
 Japanese expedition went in 1959-60 to the Himalayas specifically to
@@ -825,13 +825,13 @@ this year (1960), Sir Edmund Hillary, backed by American sponsors and
 with Marlin Perkins, Director of the Lincoln Park Zoo of Chicago
 accompanying him as zoological expert, conducted an expedition to the
 eastern Himalayas with this pursuit as his second major objective. <span
-id="fr_4"></span>[†](#fn_4)
+id="fr_4"></span>[†](#fn_4.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:\*](abs05.htm#fr_0) You will find that, by the
+<span id="fn_0"></span>[2:\*](abs05.htm#fr_0.md) You will find that, by the
 time I have said all that I am able to say within the compass of this
 book, there remain only two sets of evidence for the existence of ABSMs.
 One is subjective—i.e. reports; the other objective—i.e. tracks. All the
@@ -844,7 +844,7 @@ analyzed. The study of foot-tracks is called Ichnology and the
 principles of this, together with its particular reference to our
 subject, will be found in Appendix B.
 
-<span id="fn_1"></span>[6:\*](abs05.htm#fr_1) The term "ABSM" is coined
+<span id="fn_1"></span>[6:\*](abs05.htm#fr_1.md) The term "ABSM" is coined
 from the best-known name for one kind of those creatures of which we
 speak, namely the Abominable Snowman. As is explained later, this term
 is incorrect, inappropriate, and misleading even in the case in which it
@@ -855,17 +855,17 @@ World" in this case has a cultural rather than a regional sense; but by
 the Oriental Region is to be understood a very precise geographical
 unit, as is explained.
 
-<span id="fn_2"></span>[8:\*](abs05.htm#fr_2) This is also the name of a
+<span id="fn_2"></span>[8:\*](abs05.htm#fr_2.md) This is also the name of a
 known tribal group of people in a remote valley of the Himalayas. (For
 fuller details see Chapter 19.)
 
-<span id="fn_3"></span>[21:\*](abs05.htm#fr_3) These affairs in our
+<span id="fn_3"></span>[21:\*](abs05.htm#fr_3.md) These affairs in our
 Northwest were summarized in two articles in True Magazine for October,
 1959, and January, 1960, and set a whole new phase of ABSMery in motion.
 
-<span id="fn_4"></span>[21:†](abs05.htm#fr_4) The results of this effort
+<span id="fn_4"></span>[21:†](abs05.htm#fr_4.md) The results of this effort
 are described in Appendix E.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Ubiquitous Woodsmen](abs06)
+[Next: 2. Ubiquitous Woodsmen](abs06.md)

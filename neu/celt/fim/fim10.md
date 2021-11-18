@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim09)  [Next](fim11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim09)  [Next](fim11.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE is but little trace of superstitions connected with the great
 objects of Nature, the mountains, rivers, glens, sea, &c., which were
@@ -25,7 +25,7 @@ probably regarded by the ancient inhabitants of Man merely with dumb awe
 and reverence. But of their adoration of the Heavenly Bodies which
 supplied them with light, and of the animals, trees, and plants, which
 supplied their daily needs, there are significant traces. <span
-id="fr_105"></span>[1](#fn_102) Their religion, like those of all
+id="fr_105"></span>[1](#fn_102.md) Their religion, like those of all
 primitive races, was, in effect, a vague worship of the phenomena of
 nature, which they regarded as living powers. Now, of all the phenomena
 which are visible to man, the Sun is at once the most awful, beneficent,
@@ -38,7 +38,7 @@ have remains, even at the present day, in the ceremonial observances at
 no less than four festivals during the year. Of these, the one perhaps
 most distinctly connected with solar adoration is the pro- cession to
 the tops of the highest hills on *Laa Lunys* (the first of August, see
-[p. 120](fim09.htm#page_120)); and as the connection between the sun and
+[p. 120](fim09.htm#page_120).md); and as the connection between the sun and
 fire is naturally intimate, so it is not improbable that the fires
 called bonfires, which still light up the hill-tops on the eves of
 
@@ -146,7 +146,7 @@ worshipped by some tribes which its members would not venture to kill.
 This cult is called *Totemism* as each tribe is supposed to be of the
 kindred of its *totem* or sacred animal, and to kill, or kill and eat
 it, would be the height of impiety. <span
-id="fr_106"></span>[1](#fn_103) On the other hand, there were animals
+id="fr_106"></span>[1](#fn_103.md) On the other hand, there were animals
 which were worshipped on account of their being killed and eaten. But
 they were not killed and eaten on ordinary occasions, but only on
 certain festivals. And, as they thought that all things must die, the
@@ -155,7 +155,7 @@ conferred a benefit upon the victims they sacrificed, by relieving them
 from the suffering and weakness attendant upon old age; while the
 benefit to themselves was gaining a communion with the Deity by eating
 his body and drinking his blood. A remnant of this form of
-[sacrificial](errata.htm#33) worship perhaps occurs in the Manx custom
+[sacrificial](errata.htm#33.md) worship perhaps occurs in the Manx custom
 of "hunting the wren." For we have seen that this bird was highly
 honoured, being called almost universally the "king of birds," and yet
 once a year it was ceremonially slain, and its feathers distributed, so
@@ -165,10 +165,10 @@ Manx fishermen not to go to sea without a dead wren to protect them from
 storms [](errata.htm#34) .
 
 The procession of the *laare vane*, "white mare," on twelfth-night, and
-at the harvest festival, <span id="fr_107"></span>[1](#fn_103) may also
+at the harvest festival, <span id="fr_107"></span>[1](#fn_103.md) may also
 have some connection with animal worship. For it seems probable that in
 Man as in St. Kilda, the "mare" once possessed a hide, that pieces
-[of](errata.htm#35) this hide were plucked off like the feathers of the
+[of](errata.htm#35.md) this hide were plucked off like the feathers of the
 wren, and that they were supposed to have similar virtues. On
 Hollantide-eve, too, the last night of the old year, a calf was
 sacrificed, as we have learned from the old ballad sung on that
@@ -188,7 +188,7 @@ to discover Witchcraft, &.c., really originated from their
 being burnt for sacrificial purposes. In all these sacrifices the notion
 of laying the sins of the people on the sacrificed was probably present,
 and we have this more nearly represented in the recent custom already
-alluded to, <span id="fr_108"></span>[1](#fn_104) of throwing diseased
+alluded to, <span id="fr_108"></span>[1](#fn_104.md) of throwing diseased
 cattle, like scapegoats, out to sea, so as to ward off the disease from
 their fellows.
 
@@ -242,9 +242,9 @@ of Man, trees seem always to have been rare, and perhaps this is why
 there are so few tokens of any tree worship, though there are some signs
 of an adoration of the reproductive power of Nature. Thus the invitation
 to Bridget, on the first of February, to repose upon a rush or straw
-couch, <span id="fr_109"></span>[1](#fn_105) is probably the remains of
+couch, <span id="fr_109"></span>[1](#fn_105.md) is probably the remains of
 some ceremony connected with the first revival of vegetation in Spring.
-On May-day, <span id="fr_110"></span>[2](#fn_106) as we have seen,
+On May-day, <span id="fr_110"></span>[2](#fn_106.md) as we have seen,
 branches of trees, especially of the mountain ash, were strewed upon the
 thresholds, a custom which is now supposed to be practised as a
 protection against Fairies and Witches, but which was probably formerly
@@ -252,7 +252,7 @@ a method of invoking the reproductive power of Nature. For trees were
 supposed to produce fertilising effects on both women and cattle, and,
 according to Camden, the Irish "fancy a green bough of a tree fastened
 on May-day against the house will produce plenty of milk that
-summer." <span id="fr_111"></span>[3](#fn_107) We have already seen that
+summer." <span id="fr_111"></span>[3](#fn_107.md) We have already seen that
 the *Cuirn* tree, or Mountain-ash, was regarded with special veneration.
 It was planted, in common with the Thorn and the Ash (*unjin*), by the
 sacred wells in Man. Some of these trees are still to be found in these
@@ -264,7 +264,7 @@ showing the adoration of nature, was the combat between winter and
 summer which took place on May-day (*Laa-boaldyn*); the latter, which
 was represented by a young girl, decorated with leaves, being
 victorious, and thus typifying the victory of Nature's reproductive
-power. <span id="fr_112"></span>[4](#fn_108) In the Isle of Man winter
+power. <span id="fr_112"></span>[4](#fn_108.md) In the Isle of Man winter
 was represented by a man in winter garb, but in some countries the
 defeated champion was dressed to represent death, so that the contest
 was still more significant of the triumph over decay. The Midsummer
@@ -278,18 +278,18 @@ as typified by the bonfires
 which were formerly made of oak wood, is significant of this connection;
 as is also the probability that this was the day on which the Druadh cut
 the mistletoe, and thus enabled Balder to be slain. <span
-id="fr_113"></span>[1](#fn_109) For the oak which was thus burned was
+id="fr_113"></span>[1](#fn_109.md) For the oak which was thus burned was
 universally considered the noblest of trees, and we have seen that the
 object of ceremonial sacrifice received adoration. But it is in our
 harvest festival that we have retained the most characteristic survival
 of the adoration of the reproductive power of nature, or of its spirit.
-For the last sheaf, <span id="fr_114"></span>[2](#fn_110) called the
+For the last sheaf, <span id="fr_114"></span>[2](#fn_110.md) called the
 maiden, and the little sheaf taken from it, called the harvest doll,
 were the objects of much ceremony, and the fact of their being preserved
 till the following harvest would seem to indicate a belief that the
 corn's life could thus be continued from one harvest to the next, and so
 ensure lasting fertility. It may be noted, too, that the ceremony of the
-*laare vane*, or white mare, <span id="fr_115"></span>[3](#fn_111) may
+*laare vane*, or white mare, <span id="fr_115"></span>[3](#fn_111.md) may
 have had some connection with the last sheaf, as this sheaf is in some
 counties in England and Wales to this day called "The Mare."
 
@@ -324,7 +324,7 @@ crone would be seated on a boulder in the midst of it nursing her broken
 leg and muttering curses. Again, dogs will give chase to a hare, and,
 upon approaching it, stop suddenly and refuse to go further, even though
 encouraged to do so. This, of course, is because they recognise a
-Witch." <span id="fr_116"></span>[1](#fn_112) This belief that a Witch
+Witch." <span id="fr_116"></span>[1](#fn_112.md) This belief that a Witch
 when she had turned into a hare could only be shot with a silver bullet
 was very general. The following incident, which is said to have occurred
 about 30 years ago, will illustrate this:--A suspected Witch was
@@ -355,17 +355,17 @@ and cats--were seen stealing out of the towns before the first shock was
 felt. But, on the other hand, they frequently make mistakes, as, for
 instance, when birds nest in an inclement spring, and consequently lose
 their offspring. The following weather prognostics from animals are
-still esteemed in the Isle of Man. <span id="fr_117"></span>[2](#fn_113)
+still esteemed in the Isle of Man. <span id="fr_117"></span>[2](#fn_113.md)
 We may divide them into prognostics of Storm, Rain, and Fine weather.
 *Storms* will ensue when Seagulls come inland and Rooks fly to the
 mountains; when Cattle and Sheep seek shelter, and when the
-Porpoise, <span id="fr_118"></span>[3](#fn_114) or Herring-hog, is seen
+Porpoise, <span id="fr_118"></span>[3](#fn_114.md) or Herring-hog, is seen
 gambolling
 
 <span id="page_149">p. 149</span>
 
 round ships at sea. *Rain* will follow when Sparrows chirp, when Rooks
-and Herons <span id="fr_119"></span>[1](#fn_115) fly low, when Rats and
+and Herons <span id="fr_119"></span>[1](#fn_115.md) fly low, when Rats and
 Mice are rest-less, and when many Bees return to the hive and none leave
 it. *Fine weather* is certain when Bats fly about at sunset, when Rooks,
 Herons, and Larks fly high, when Seagulls fly out to sea, when Bees are
@@ -378,7 +378,7 @@ betokens fine weather, and so does a red Sunset; but a pale Sunset is a
 sign of rain. The old Moon in the arms of the new is a certain
 forerunner of storms. A Halo round the moon means rain. When the
 Cumberland mountains are clearly seen, rain is expected. <span
-id="fr_120"></span>[2](#fn_116)
+id="fr_120"></span>[2](#fn_116.md)
 
 The following quaint tales about animals, though they do not come
 strictly under the head of Superstitions, may certainly be considered as
@@ -387,7 +387,7 @@ a favourite both in song and legend. The following ballad about it has
 been sung by Manx nurses as a lullaby, to the same tune as that of "Here
 we go round the Mulberry Bush," for many generations:--
 
-*Ushag veg ruy ny moanee doo <span id="fr_121"></span>[3](#fn_117)  
+*Ushag veg ruy ny moanee doo <span id="fr_121"></span>[3](#fn_117.md)  
 C’raad chaddil oo riyr syn oie?  
 Chaddil mish riyr er baare y dress,  
 As ugh my cadley cha treih!* 
@@ -402,7 +402,7 @@ And oh! what a wretched sleep!
 2 *Ushag veg ruy ny moanee doo  
 C’raad chaddil oo riyr syn oie?  
 Chaddil mish riyr er baare y crouw,* <span
-id="fr_122"></span>[4](#fn_118)*  
+id="fr_122"></span>[4](#fn_118.md)*  
 As ugh my cadley cha treih!* 
 
 Little red bird of the black turf ground,  
@@ -413,7 +413,7 @@ And oh! what a wretched sleep! <span id="page_150">p. 150</span>
 3 *Ushag veg ruy ny moanee doo  
 C’raad chaddil oo riyr syn oie?  
 chaddil mish riyr er baare y thooane*, <span
-id="fr_123"></span>[1](#fn_119)  
+id="fr_123"></span>[1](#fn_119.md)  
 *As ugh my cadley cha treih!* 
 
 Little red bird of the black turf ground,  
@@ -426,7 +426,7 @@ And oh! what a wretched sleep!
 4 *Ushag veg ruy ny moanee doo  
 C’raad chaddil oo riyr syn oie?  
 Chaddil nish riyr eddyr daa guillag,  
-Myr yinnagh yn oikan* <span id="fr_124"></span>[2](#fn_120) *eddyr daa
+Myr yinnagh yn oikan* <span id="fr_124"></span>[2](#fn_120.md) *eddyr daa
 lhuishag,  
 As o my cadley cha kiune!* 
 
@@ -453,7 +453,7 @@ expression to his woes in the following plaintive querulous pipe:
 you coming?" The Lhondoo, now plump and flourishing, replies--*Cha-nel
 dy bragh, cha-nel dy bragh!* "No never, no never!" The poor
 Ushag-reaisht, shivering--*Teh fear feayr. t’eh feer feayr!* <span
-id="fr_125"></span>[3](#fn_121)"It's very cold, it's very cold!"
+id="fr_125"></span>[3](#fn_121.md)"It's very cold, it's very cold!"
 
 Another form of the same story is as follows:--The *Ushag-reaisht*
 complains *giall oo dy horagh oo reesht* "you promised you would come
@@ -505,7 +505,7 @@ Lizard;" and *Cadlag*, "the sleeper," a mythical animal.
 We now come to the superstitions about Trees and Plants. The *Cuirn* has
 already been discussed. The Thorn tree also, especially when it grew to
 a large size, was regarded with veneration, there being a very strong
-[prejudice](errata.htm#36) against cutting it down. It was supposed to
+[prejudice](errata.htm#36.md) against cutting it down. It was supposed to
 be a favourite haunt of the Fairies, and there are numerous anecdotes
 still current of their being seen dancing in its branches.
 
@@ -522,12 +522,12 @@ on May-eve, and affixed to doors and windows to protect the house from
 witchcraft.
 
 It was supposed that if you trod on the *Luss-y-chialg*, <span
-id="fr_126"></span>[1](#fn_122) "Plant of the prickle," or St. John's
+id="fr_126"></span>[1](#fn_122.md) "Plant of the prickle," or St. John's
 wort, after sunset, on St. John's Eve, a fairy horse would rise out of
 the earth and carry you about during the whole night, only leaving you
 at dawn. The *Luss-ny-tree duillag*, "Plant of three leaves," or
 Shamrock, was said to be a cure for tooth-ache, and the
-*Luss-nay-ollee*, <span id="fr_127"></span>[2](#fn_123) "Plant of the
+*Luss-nay-ollee*, <span id="fr_127"></span>[2](#fn_123.md) "Plant of the
 cattle," was efficacious for sores in the mouths of cattle, as well as
 for tooth-ache.
 
@@ -540,7 +540,7 @@ sour, and butter from being discoloured.
 The *Luss-ny-kiare-duillag*, "Four-leaved clover," was efficacious
 against the wiles of Fairies or of Witches, and so was the *Bollan
 feaill-Eoin*, "John's Feast-day plant, or Mugwort." <span
-id="fr_128"></span>[3](#fn_124) This yellow weed was gathered on
+id="fr_128"></span>[3](#fn_124.md) This yellow weed was gathered on
 Midsummer-eve, and made into chaplets, which were worn on the heads of
 man and beast, who were then supposed to be proof against all malign
 influences. Of the metals, Iron was the only one invested with magical
@@ -570,7 +570,7 @@ seen, as a protection against them. It is possible that the superstition
 against cutting a child's nails during the first year of its life may be
 connected with this objection of spirits to iron.
 
-The virtues of Salt <span id="fr_129"></span>[1](#fn_125) as a
+The virtues of Salt <span id="fr_129"></span>[1](#fn_125.md) as a
 protection against Fairies, Magicians, &c., were universally recognised.
 If milk were taken from a house, it was considered necessary to put a
 pinch of salt in it, and this must be done by the mistress to prevent
@@ -591,7 +591,7 @@ now briefly refer to those which have had their origin in other
 religions, especially the Christian. They are, for the most part,
 connected with churches and *keeills*, and all ancient monuments
 supposed to have been used for religious observances, which have always
-been regarded with [superstitious](errata.htm#37) awe. Any sacrilege
+been regarded with [superstitious](errata.htm#37.md) awe. Any sacrilege
 against such edifices has always been considered by the Manx people as a
 most serious sin which would bring certain punishment on the offender.
 
@@ -704,88 +704,88 @@ liable to evil influences before baptism.
 
 ### Footnotes
 
-<span id="fn_102"></span>[141:1](fim10.htm#fr_105) The question of the
+<span id="fn_102"></span>[141:1](fim10.htm#fr_105.md) The question of the
 real origin and significance of the ideas of primitive Man on these
 subjects is still obscure, and the views given must be regarded as
 merely tentative. For an able account of this question see "The Golden
 Bough," by J. G. Frazer, M.A. (Macmillan & Co.), from which the writer
 has derived some valuable hints.
 
-<span id="fn_103"></span>[144:1](fim10.htm#fr_107) Thus it was taboo for
+<span id="fn_103"></span>[144:1](fim10.htm#fr_107.md) Thus it was taboo for
 Cuchullin to eat his namesake, the dog.
 
-<span id="fn_104"></span>[145:1](fim10.htm#fr_108) See [p.
-92](fim08.htm#page_92).
+<span id="fn_104"></span>[145:1](fim10.htm#fr_108.md) See [p.
+92](fim08.htm#page_92.md).
 
-<span id="fn_105"></span>[146:1](fim10.htm#fr_109) See [p.
-106](fim09.htm#page_106).
+<span id="fn_105"></span>[146:1](fim10.htm#fr_109.md) See [p.
+106](fim09.htm#page_106.md).
 
-<span id="fn_106"></span>[146:2](fim10.htm#fr_110) See [p.
-110](fim09.htm#page_110).
+<span id="fn_106"></span>[146:2](fim10.htm#fr_110.md) See [p.
+110](fim09.htm#page_110.md).
 
-<span id="fn_107"></span>[146:3](fim10.htm#fr_111) It seems probable
+<span id="fn_107"></span>[146:3](fim10.htm#fr_111.md) It seems probable
 that the practice of making these branches into crosses is probably of
 Christian origin, and, therefore, comparatively speaking of recent date,
 though it must be remembered that the symbol of the cross was known
 before Christianity existed.
 
-<span id="fn_108"></span>[146:4](fim10.htm#fr_112) See p. 112.
+<span id="fn_108"></span>[146:4](fim10.htm#fr_112.md) See p. 112.
 
-<span id="fn_109"></span>[147:1](fim10.htm#fr_113) According to the
+<span id="fn_109"></span>[147:1](fim10.htm#fr_113.md) According to the
 well-known myth, the beloved Balder was invulnerable till pierced by the
 mistletoe.
 
-<span id="fn_110"></span>[147:2](fim10.htm#fr_114) [p.
-122](fim09.htm#page_122).
+<span id="fn_110"></span>[147:2](fim10.htm#fr_114.md) [p.
+122](fim09.htm#page_122.md).
 
-<span id="fn_111"></span>[147:3](fim10.htm#fr_115) pp.
-[104](fim09.htm#page_104), [122](fim09.htm#page_122).
+<span id="fn_111"></span>[147:3](fim10.htm#fr_115.md) pp.
+[104](fim09.htm#page_104), [122](fim09.htm#page_122.md).
 
-<span id="fn_112"></span>[148:1](fim10.htm#fr_116) Manx Note Book. Vol.
+<span id="fn_112"></span>[148:1](fim10.htm#fr_116.md) Manx Note Book. Vol.
 I., pp. 126-7.
 
-<span id="fn_113"></span>[148:2](fim10.htm#fr_117) NOTE.--It will be
+<span id="fn_113"></span>[148:2](fim10.htm#fr_117.md) NOTE.--It will be
 noticed that most of them are common to many countries.
 
-<span id="fn_114"></span>[148:3](fim10.htm#fr_118) *Yn Pherkin vooar* in
+<span id="fn_114"></span>[148:3](fim10.htm#fr_118.md) *Yn Pherkin vooar* in
 Manx.
 
-<span id="fn_115"></span>[149:1](fim10.htm#fr_119)
+<span id="fn_115"></span>[149:1](fim10.htm#fr_119.md)
 *Coar-ny-hastan*--"Crane of the eel" in Manx.
 
-<span id="fn_116"></span>[149:2](fim10.htm#fr_120) There are some other
+<span id="fn_116"></span>[149:2](fim10.htm#fr_120.md) There are some other
 bits of weather Folk-Lore which have become proverbial, and will be
 found under the heading of Proverbs.
 
-<span id="fn_117"></span>[149:3](fim10.htm#fr_121) The first and third
+<span id="fn_117"></span>[149:3](fim10.htm#fr_121.md) The first and third
 lines in the first three verses are repeated three times, but in the
 last verse the first line only is repeated.
 
-<span id="fn_118"></span>[149:4](fim10.htm#fr_122) *Crouw*, "a bunch
+<span id="fn_118"></span>[149:4](fim10.htm#fr_122.md) *Crouw*, "a bunch
 growing on one stem or stalk."--*Cregeen*.
 
-<span id="fn_119"></span>[150:1](fim10.htm#fr_123) *Thooane*, "a rib or
+<span id="fn_119"></span>[150:1](fim10.htm#fr_123.md) *Thooane*, "a rib or
 lath on the roof of a house, under the scraws. "--*Cregeen*.
 
-<span id="fn_120"></span>[150:2](fim10.htm#fr_124) *Oikan*, "The
+<span id="fn_120"></span>[150:2](fim10.htm#fr_124.md) *Oikan*, "The
 gradations from infancy to manhood are marked by a copious variety of
 terms: *Oikan, Lhanoo, Paitchey, Poinnar, Stuggyr, Scollag, Dooiney*.
 "--Rev. W. Gill. *Oikan* is the first stage of all.
 
-<span id="fn_121"></span>[150:3](fim10.htm#fr_125) These words "*T’eh
+<span id="fn_121"></span>[150:3](fim10.htm#fr_125.md) These words "*T’eh
 feer feayr*" exactly represent the Plover's shrill and piteous whistle.
 
-<span id="fn_122"></span>[152:1](fim10.htm#fr_126) Hypericum perforatum.
+<span id="fn_122"></span>[152:1](fim10.htm#fr_126.md) Hypericum perforatum.
 
-<span id="fn_123"></span>[152:2](fim10.htm#fr_127) Pinguicola.
+<span id="fn_123"></span>[152:2](fim10.htm#fr_127.md) Pinguicola.
 
-<span id="fn_124"></span>[152:3](fim10.htm#fr_128) Artemisia Vulgaris.
+<span id="fn_124"></span>[152:3](fim10.htm#fr_128.md) Artemisia Vulgaris.
 
-<span id="fn_125"></span>[153:1](fim10.htm#fr_129) See stories of "Fairy
+<span id="fn_125"></span>[153:1](fim10.htm#fr_129.md) See stories of "Fairy
 Dogs," ch. III.; "Magician's Palace," ch. V. and "New Year's Eve," ch.
 VI.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. Customs and Superstitions Connected with Birth,
-Marriage, and Death](fim11)
+Marriage, and Death](fim11.md)

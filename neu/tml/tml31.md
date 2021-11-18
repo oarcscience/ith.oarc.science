@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml30)  [Next](tml32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml30)  [Next](tml32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -137,7 +137,7 @@ again to go forth as a wolf. Then it chanced that he saw two weasels who
 fought together. One seized the other as he had done to Signy's son, but
 it ran speedily to find a herb which restored its companion to full
 strength again. He sought to find the healing herb, and a raven <span
-id="fr_91"></span>[1](#fn_91) flew towards him bearing a leaf in its
+id="fr_91"></span>[1](#fn_91.md) flew towards him bearing a leaf in its
 beak, which it let fall at his feet. Perceiving that it was of the herb
 he desired to find, Sigmund hastened to his hut and laid the leaf upon
 Sinfjotle's wounds. The youth was at once healed and the affliction
@@ -233,8 +233,8 @@ departed from Hunaland was restored once again.
 
 ### Footnotes
 
-<span id="fn_91"></span>[295:1](tml31.htm#fr_91) One of Odin's ravens.
+<span id="fn_91"></span>[295:1](tml31.htm#fr_91.md) One of Odin's ravens.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII. Helgi Hundingsbane](tml32)
+[Next: Chapter XXVII. Helgi Hundingsbane](tml32.md)

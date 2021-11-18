@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli14)  [Next](roli16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli14)  [Next](roli16.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -13,25 +13,25 @@ Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
 ### LUISEÑO CREATION.
 
-Third Version. <span id="fr_153"></span>[138](#fn_148)—By Salvador
+Third Version. <span id="fr_153"></span>[138](#fn_148.md)—By Salvador
 Cuevas.
 
 <span id="page_129">p. 129</span>
 
 Everything in the beginning was empty and quiet. Kivish Atakvish <span
-id="fr_154"></span>[139](#fn_149)  <span
-id="fr_155"></span>[140](#fn_150) was the only being.
+id="fr_154"></span>[139](#fn_149.md)  <span
+id="fr_155"></span>[140](#fn_150.md) was the only being.
 
-Next came Whaikut Piwkut <span id="fr_156"></span>[141](#fn_151)
+Next came Whaikut Piwkut <span id="fr_156"></span>[141](#fn_151.md)
 (whitish gray, unexplained).
 
 Whaikut Piwkut created two objects like great round balls called
-Maikumkush <span id="fr_157"></span>[142](#fn_152) (meaning, something
+Maikumkush <span id="fr_157"></span>[142](#fn_152.md) (meaning, something
 round, not having an end).
 
 They lay there three days and then were made alive, brought into being,
 after which they recognized each other. They were called Soimal-um <span
-id="fr_158"></span>[143](#fn_153) (-um being the plural ending). They
+id="fr_158"></span>[143](#fn_153) (-um being the plural ending.md). They
 were male and female. Whaikut Piwkut, being the father of these two,
 left them and was no more seen.
 
@@ -41,14 +41,14 @@ you." Each could read the thoughts of the other and this contention
 continued. The female being said that she was the older. She was Kivish
 Atakvish. The male began describing the color of the sky, by this to
 prove his earlier existence. "See, I am older than you." She got a stone
-smoking pipe, chahal, <span id="fr_159"></span>[144](#fn_154) and showed
+smoking pipe, chahal, <span id="fr_159"></span>[144](#fn_154.md) and showed
 it to prove herself the first. He got three kinds of pipes, kalulmul,
-nyatlumul, and chetmul, <span id="fr_160"></span>[145](#fn_155) and held
+nyatlumul, and chetmul, <span id="fr_160"></span>[145](#fn_155.md) and held
 them up, and thus he silenced her and won (in this contention). Then
 with sighs (guttural breathings used in solemnities), he made her sleep,
 and after this she knew that she was to be a mother. He was ashamed of
 his deed, and went up in the sky (*i.e.*, became the sky). He was
-Tukmit, <span id="fr_161"></span>[146](#fn_156) the Sky.
+Tukmit, <span id="fr_161"></span>[146](#fn_156.md) the Sky.
 
 <span id="page_130">p. 130</span>
 
@@ -59,13 +59,13 @@ land. There was no land until then.
 Then the first born of her children, the First People, came forth in the
 following order.
 
-1\. *Topal Tamyush*. <span id="fr_162"></span>[147](#fn_157) Double
+1\. *Topal Tamyush*. <span id="fr_162"></span>[147](#fn_157.md) Double
 name. Topal, ordinary stone grinding mortar; tamyush, sacred toloache
 bowls of stone; but in this sense tamyush is like an adjective
 qualifying topal. Museums should classify the stone bowls more
 carefully, differentiating between the two sorts where possible.
 
-2\. *Kenhut Paviut*. <span id="fr_163"></span>[148](#fn_158) Double
+2\. *Kenhut Paviut*. <span id="fr_163"></span>[148](#fn_158.md) Double
 name. Kenhut, strings of wampum-like beads used for money; paviut,
 sacred stone knife larger than an arrowhead set on the end of a staff
 for ceremonial purposes. Both of these objects were used as money, that
@@ -75,7 +75,7 @@ double term, there is always some such similarity of use, meaning, or
 purpose. This is a very remarkable peculiarity, more metaphysical than
 linguistic.
 
-3\. *Hunwut Ashwut*. <span id="fr_164"></span>[149](#fn_159) Hunwut,
+3\. *Hunwut Ashwut*. <span id="fr_164"></span>[149](#fn_159.md) Hunwut,
 bear; ashwut, eagle. The connection is that both belong to Chungichnish.
 
 These above named were those of the First People who were afterwards
@@ -83,7 +83,7 @@ sent north, excepting the two latter, which the informant evidently
 transposed from their proper place, and instead of them there should
 come here in third position:
 
-4\. *Kimul Chehenish*. <span id="fr_165"></span>[150](#fn_160) Kimul is
+4\. *Kimul Chehenish*. <span id="fr_165"></span>[150](#fn_160.md) Kimul is
 the mast with baskets hung on top in the Notish ceremony for the dead.
 The pole is climbed as a contest of skill. If no one can get the
 baskets, they dig about the pole to make it fall. When the kimul is set
@@ -93,18 +93,18 @@ pole before it is painted and hung with baskets.
 
 <span id="page_131">p. 131</span>
 
-5\. *Mahul Kwichal*. <span id="fr_166"></span>[151](#fn_161) Mahul, palm
+5\. *Mahul Kwichal*. <span id="fr_166"></span>[151](#fn_161.md) Mahul, palm
 tree; kwichal, Spanish bayonet, yucca. These were sent East.
 
-6\. *Tukvul Wekunla*. <span id="fr_167"></span>[152](#fn_162) Tukvul,
+6\. *Tukvul Wekunla*. <span id="fr_167"></span>[152](#fn_162.md) Tukvul,
 carrying net; wekunla, sort of carrying sack. These were sent South.
 
 7\. *Somal Kachamul*. Meaning unknown. Sent South.
 
-8\. *Makwit Awiwunowut*. <span id="fr_168"></span>[153](#fn_163) Makwit,
+8\. *Makwit Awiwunowut*. <span id="fr_168"></span>[153](#fn_163.md) Makwit,
 wild grape; awiwunowut, clematis. Sent to the center.
 
-9\. *Paulovla Tovolwish*. <span id="fr_169"></span>[154](#fn_164) These
+9\. *Paulovla Tovolwish*. <span id="fr_169"></span>[154](#fn_164.md) These
 were sent East. Paulovla is a tall painted mast in the middle of the
 sacred inclosure used by the Indians in the East, who got it from the
 First People. Tovolwish means the color of this painted post.
@@ -112,21 +112,21 @@ First People. Tovolwish means the color of this painted post.
 10\. *Uutish Kahankish*. Uutish, tree that grows in the East; kahankish,
 unknown. Sent East.
 
-11\. *Pauhut Abahut*. <span id="fr_170"></span>[155](#fn_165) Pauhut,
+11\. *Pauhut Abahut*. <span id="fr_170"></span>[155](#fn_165.md) Pauhut,
 canoe (also a box hollowed out of a log to keep things in); abahut,
 cottonwood tree out of which it is made. Sent West.
 
-12\. *Pevesish Hoyowish*. <span id="fr_171"></span>[156](#fn_166)
+12\. *Pevesish Hoyowish*. <span id="fr_171"></span>[156](#fn_166.md)
 Pevesish, tule; hoyowish, cat-tail rush. Sent West.
 
-13\. *Sanut Tanahut*. <span id="fr_172"></span>[157](#fn_167) Sanut,
+13\. *Sanut Tanahut*. <span id="fr_172"></span>[157](#fn_167.md) Sanut,
 black asphalt on the seashore; tanahut, sea-weed. Sent West.
 
-14\. *Yuamul Tovoymul*. <span id="fr_173"></span>[158](#fn_168) Yuamul,
+14\. *Yuamul Tovoymul*. <span id="fr_173"></span>[158](#fn_168.md) Yuamul,
 pine tree; tovoymul, cedar. Sent to the center, *i.e.*, where "we" live,
 the Mountain Indians.
 
-15\. *Kwila Sukut*. <span id="fr_174"></span>[159](#fn_169) Kwila, oak
+15\. *Kwila Sukut*. <span id="fr_174"></span>[159](#fn_169.md) Kwila, oak
 with edible acorns; sukut, deer (both used for food). Sent to the
 center.
 
@@ -149,10 +149,10 @@ were now prepared. Before this all had been confusion and disturbance,
 but now Tomaiyowit lay back outstretched, her feet to the north, her
 head to the south, her right hand to the east, her left hand to the
 west, and everything became quiet. <span
-id="fr_175"></span>[160](#fn_170)
+id="fr_175"></span>[160](#fn_170.md)
 
 This ends the first part of the Creation Story. <span
-id="fr_176"></span>[161](#fn_171)
+id="fr_176"></span>[161](#fn_171.md)
 
 The Earth-mother, when she sent her children to all the four quarters of
 the world, made feathers for them to wear on their heads. The chief men,
@@ -164,7 +164,7 @@ at a pond to play and swim about. Ouiot was traveling along with the
 rest and they did not know anything especial about him. He was like one
 of the rest.
 
-Wahawut <span id="fr_177"></span>[162](#fn_172) was a handsome
+Wahawut <span id="fr_177"></span>[162](#fn_172.md) was a handsome
 fine-looking woman, with long hair. When she jumped into the water,
 Ouiot was surprised to see that behind she had no flesh on her body, but
 was flat and thin. He said nothing but was thinking about it. Wahawut
@@ -182,9 +182,9 @@ him. They were like witches then, and could tell by looking at him what
 was the matter; and they all tried their best to cure him, but could
 give no help, so they went back north. In the same way the people came
 in turn from the south, east, west, and center, but could do nothing.
-Tishmel <span id="fr_178"></span>[163](#fn_173) the hummingbird was an
+Tishmel <span id="fr_178"></span>[163](#fn_173.md) the hummingbird was an
 important person then and he went to see if he could find out what was
-the matter. Sakapipi, <span id="fr_179"></span>[164](#fn_174) who is now
+the matter. Sakapipi, <span id="fr_179"></span>[164](#fn_174.md) who is now
 a tiny bird, got up and put his ear to Ouiot's heart so that he could
 hear his breathing, and then he said it was Wahawut who was working to
 kill him by witchcraft.
@@ -200,32 +200,32 @@ soon," he said, and he mentioned the names of all the months, and each
 month they waited until the time was up. "I may die in this month."
 
 When Ouiot was sick, he told his people to take him to the hot spring at
-Pawi Chawimai <span id="fr_180"></span>[165](#fn_175) (Cahuilla), and
+Pawi Chawimai <span id="fr_180"></span>[165](#fn_175) (Cahuilla.md), and
 they took him there, and he bathed in the waters, but did not get any
 better. On the contrary he grew worse and worse. Then they took him to
-Kupa Kawima <span id="fr_181"></span>[166](#fn_176) (Agua Caliente,
+Kupa Kawima <span id="fr_181"></span>[166](#fn_176.md) (Agua Caliente,
 Warner's Ranch Hot Springs), then to Paska Mahala, <span
-id="fr_182"></span>[167](#fn_177) a little further on, then to Pauma,
+id="fr_182"></span>[167](#fn_177.md) a little further on, then to Pauma,
 near Pala. When there he died but revived again. They got ready to burn
 his body, making use of the same sticks with which they clubbed Coyote.
 When he revived again, they took him to Malama Ekapa <span
-id="fr_183"></span>[168](#fn_178) (Agua Tibia), trying all these hot
+id="fr_183"></span>[168](#fn_178) (Agua Tibia.md), trying all these hot
 springs to cure him, but
 
 <span id="page_134">p. 134</span>
 
 they did no good. Then they took him to Cherukanukna Jaquiwuna, <span
-id="fr_184"></span>[169](#fn_179) near Temecula, to the hot spring
-there. <span id="fr_185"></span>[170](#fn_180) Then to Etengvo
-Wumoma, <span id="fr_186"></span>[171](#fn_181) hot springs at Elsinore,
+id="fr_184"></span>[169](#fn_179.md) near Temecula, to the hot spring
+there. <span id="fr_185"></span>[170](#fn_180.md) Then to Etengvo
+Wumoma, <span id="fr_186"></span>[171](#fn_181.md) hot springs at Elsinore,
 and this was the last place, for he died there. <span
-id="fr_187"></span>[172](#fn_182)
+id="fr_187"></span>[172](#fn_182.md)
 
 Before Ouiot died he told Chehemal (the kingbird now) <span
-id="fr_188"></span>[173](#fn_183) that he was going to die, but he said
+id="fr_188"></span>[173](#fn_183.md) that he was going to die, but he said
 he would come back, and told him that in three days he would rise in the
-east. <span id="fr_189"></span>[174](#fn_184) Kauki Chahiwul, <span
-id="fr_190"></span>[175](#fn_185) something gone that comes again.
+east. <span id="fr_189"></span>[174](#fn_184.md) Kauki Chahiwul, <span
+id="fr_190"></span>[175](#fn_185.md) something gone that comes again.
 Ovaweleva, something that will come back, disappears and returns.
 
 He died in the season Soimamul mokat. When he died the people wanted to
@@ -234,8 +234,8 @@ see if he could get fire; but he only went a little way and came back.
 Then they sent him to the people of the east, Uutish Kahankish, and so
 on, and in the same way to the people of the west, the south, and the
 center. Each time he went a little further off, and while he was gone
-Sariwut, <span id="fr_191"></span>[176](#fn_186) the bluefly, made the
-fire with the fire-drill. <span id="fr_192"></span>[177](#fn_187) Then
+Sariwut, <span id="fr_191"></span>[176](#fn_186.md) the bluefly, made the
+fire with the fire-drill. <span id="fr_192"></span>[177](#fn_187.md) Then
 Coyote came running back yelling and saying: "Why do you play such a
 trick on me? I want to see my father."
 
@@ -244,7 +244,7 @@ unburned, and Coyote starting a little way back took a running jump over
 their heads. Wiskun, now a tiny squirrel, the chipmunk, was the
 strongest man then, and he had gone and brought a log ten men could not
 lift. Ouiot was laid on it. All the body was burned but the bones, after
-Coyote got the heart. <span id="fr_193"></span>[178](#fn_188)
+Coyote got the heart. <span id="fr_193"></span>[178](#fn_188.md)
 
 <span id="page_135">p. 135</span>
 
@@ -254,7 +254,7 @@ coming. He is coming. I am watching for him, looking to the east. Ouiot
 is coming."
 
 Pretty soon he did come, as the new moon, Moyla achagha. <span
-id="fr_194"></span>[179](#fn_189) They could just barely see it, a
+id="fr_194"></span>[179](#fn_189.md) They could just barely see it, a
 little line. Chehemel saw it in the east, but no one else could see it
 there. The others saw it in the west.
 
@@ -293,25 +293,25 @@ back; but they could not do this. Some thought the deer would be good to
 eat. They could kill him and have a gathering and have that meat to eat.
 They spoke to Deer about it, but he said, No. He was a shaman and very
 powerful. He had something in his nose like the black asphalt on the
-seashore, <span id="fr_195"></span>[180](#fn_190) and this would protect
-him. <span id="fr_196"></span>[181](#fn_191) They gave up killing him
+seashore, <span id="fr_195"></span>[180](#fn_190.md) and this would protect
+him. <span id="fr_196"></span>[181](#fn_191.md) They gave up killing him
 when he said that.
 
 Then they laid on the ground one of the sacred stones, <span
-id="fr_197"></span>[182](#fn_192) wiala, enormous crystals, and said
+id="fr_197"></span>[182](#fn_192.md) wiala, enormous crystals, and said
 they could kill him with them. But Deer said, No, he had some of that
 too, and they could not kill him with them. <span
-id="fr_198"></span>[183](#fn_193) Then they laid down one of the
-eagle-feather skirts, Pahlut, <span id="fr_199"></span>[184](#fn_194)
+id="fr_198"></span>[183](#fn_193.md) Then they laid down one of the
+eagle-feather skirts, Pahlut, <span id="fr_199"></span>[184](#fn_194.md)
 and said they could kill him with that. He said, No, he had some of that
-too. <span id="fr_200"></span>[185](#fn_195) Then they put down tobacco,
+too. <span id="fr_200"></span>[185](#fn_195.md) Then they put down tobacco,
 Pivat, and said they could kill him with that. Deer said, No, he had
 some of that too, and they could not kill him with that. <span
-id="fr_201"></span>[186](#fn_196)
+id="fr_201"></span>[186](#fn_196.md)
 
 Then they laid down some "wild bamboo," the kind that grows at Warner's
 Ranch and they use for arrows, huikish, <span
-id="fr_202"></span>[187](#fn_197) and said they could kill him with
+id="fr_202"></span>[187](#fn_197.md) and said they could kill him with
 that. He showed them that the bones in his nostrils were like that, and
 said they could not kill him with it.
 
@@ -338,23 +338,23 @@ knew a great deal. So he went north, thinking that from there he could
 get entirely away from this world, reach its limits and fly away; and he
 tried it everywhere, but could not do it. He thought he could live
 forever and keep away from death, but there was death, Pikmakvul, <span
-id="fr_203"></span>[188](#fn_198) wherever he went. Then he went east
+id="fr_203"></span>[188](#fn_198.md) wherever he went. Then he went east
 and did the same thing, and south and west the same, and then he came
 home to the center and stayed there. He had to die. There was no death
 before this time.
 
 By this time the people's council was concluded. Wahawut had finished
-her basket. <span id="fr_204"></span>[189](#fn_199) She had been working
+her basket. <span id="fr_204"></span>[189](#fn_199.md) She had been working
 all the while and had lost no time. So they gathered the bones and put
 them in the basket to carry them, and they put the bones into a stone
 mortar and ground them, and added water and made it into a kind of mush.
 When all was well mixed they made a hole in the ground and poured it
 into the hole and buried it. The crushed bones were not contained in any
-vessel. <span id="fr_205"></span>[190](#fn_200) They made the solemn
+vessel. <span id="fr_205"></span>[190](#fn_200.md) They made the solemn
 guttural invocation with waving motions to the north and all the other
 points of the compass, to send Ouiot's spirit up to the sky; and since
 then the people do the same thing when they have the ceremonies for the
-dead. <span id="fr_206"></span>[191](#fn_201)
+dead. <span id="fr_206"></span>[191](#fn_201.md)
 
 When the people scattered from the place where Ouiot died, all the
 tribes had names, but many are dead and few living. He
@@ -363,10 +363,10 @@ tribes had names, but many are dead and few living. He
 
 does not know the name of this tribe. These Indians (the Luiseños) are
 called by themselves Western Indians. <span
-id="fr_207"></span>[192](#fn_202) When they scattered, the people
+id="fr_207"></span>[192](#fn_202.md) When they scattered, the people
 traveled about, two or three families together, and they claimed the
 places where they stopped for a time, <span
-id="fr_208"></span>[193](#fn_203) and a great deal of fighting came from
+id="fr_208"></span>[193](#fn_203.md) and a great deal of fighting came from
 this. Other groups coming after would occupy the land claimed by the
 first. The La Jolla people would fight the Potrero people. A man could
 not go from La Jolla to San Jacinto without being killed by some enemy.
@@ -375,18 +375,18 @@ not go from La Jolla to San Jacinto without being killed by some enemy.
 
 ### Footnotes
 
-<span id="fn_148"></span>[128:138](roli15.htm#fr_153) Two versions, of
+<span id="fn_148"></span>[128:138](roli15.htm#fr_153.md) Two versions, of
 the Luiseño creation myth, one a fragment, have been published. Journ.
 Am. Folk-Lore, XIX, 145, 1906. See also *ibid*., 310. The two versions
 herewith given, which are probably more primitive and more complete,
 were related by Salvador Cuevas and Lucario Cuevish, aged Indians of La
 Jolla and Potrero in the mountains.
 
-<span id="fn_149"></span>[129:139](roli15.htm#fr_154) Luiseño religious
+<span id="fn_149"></span>[129:139](roli15.htm#fr_154.md) Luiseño religious
 terms are double, made of two words, each with a different meaning
 supplementing and reinforcing each other—a very marked peculiarity.
 
-<span id="fn_150"></span>[129:140](roli15.htm#fr_155) Kyuvish, empty,
+<span id="fn_150"></span>[129:140](roli15.htm#fr_155.md) Kyuvish, empty,
 solitary, unoccupied; also a noun, as in po-up auma kyuvi-nga, he lives
 in solitude. Ataxvish (x German ch), empty. Kyuvish Ataxvish, used
 together, mean some thing like the empty, solitary, unoccupied place,
@@ -394,125 +394,125 @@ and are used in speaking of before the world was created. Kyuvish
 Ataxvish is also spoken of as a person who made Tamayowut, the first
 woman, and Tukomit, the first man.—S.
 
-<span id="fn_151"></span>[129:141](roli15.htm#fr_156) From whaiahat,
+<span id="fn_151"></span>[129:141](roli15.htm#fr_156.md) From whaiahat,
 white, piwahat, whitish, grayish.—S.
 
-<span id="fn_152"></span>[129:142](roli15.htm#fr_157) Makumkush,
+<span id="fn_152"></span>[129:142](roli15.htm#fr_157.md) Makumkush,
 round.—S.
 
-<span id="fn_153"></span>[129:143](roli15.htm#fr_158) Saimalum. Some say
+<span id="fn_153"></span>[129:143](roli15.htm#fr_158.md) Saimalum. Some say
 these were a man and a woman born from two eggs made by Whaikut Piwkut;
 others deny this.—S.
 
-<span id="fn_154"></span>[129:144](roli15.htm#fr_159) Hahal, stone pipe.
+<span id="fn_154"></span>[129:144](roli15.htm#fr_159.md) Hahal, stone pipe.
 
-<span id="fn_155"></span>[129:145](roli15.htm#fr_160) Kalulmal,
+<span id="fn_155"></span>[129:145](roli15.htm#fr_160.md) Kalulmal,
 ngatlamal, chetmal. There is only one man who knows of these words.
 
-<span id="fn_156"></span>[129:146](roli15.htm#fr_161) Tukomit, night,
+<span id="fn_156"></span>[129:146](roli15.htm#fr_161.md) Tukomit, night,
 also the first man, made by Kyuvish Ataxvish; tupash is sky.—S.
 
-<span id="fn_157"></span>[130:147](roli15.htm#fr_162) Topal, tamyush.—S.
+<span id="fn_157"></span>[130:147](roli15.htm#fr_162.md) Topal, tamyush.—S.
 
-<span id="fn_158"></span>[130:148](roli15.htm#fr_163) Kenghut, a string
+<span id="fn_158"></span>[130:148](roli15.htm#fr_163.md) Kenghut, a string
 of shells or bear-claws; paviut, stick with a crystal in one end, used
 in ceremonies.—S.
 
-<span id="fn_159"></span>[130:149](roli15.htm#fr_164) Hunwut, ashwut.—S.
+<span id="fn_159"></span>[130:149](roli15.htm#fr_164.md) Hunwut, ashwut.—S.
 
-<span id="fn_160"></span>[130:150](roli15.htm#fr_165) Kimal, small
+<span id="fn_160"></span>[130:150](roli15.htm#fr_165.md) Kimal, small
 house; chehenish, the objects hung on kutumit, the pole erected at the
 notush ceremony; probably a derivative from chehe'i, to appear, show.—S.
 
-<span id="fn_161"></span>[131:151](roli15.htm#fr_166) Mahul, palm;
+<span id="fn_161"></span>[131:151](roli15.htm#fr_166.md) Mahul, palm;
 kwichal, unknown; the species of yucca growing in the San Luis Rey
 valley are called panal and hunuvut.—S.
 
-<span id="fn_162"></span>[131:152](roli15.htm#fr_167) Tukval is
+<span id="fn_162"></span>[131:152](roli15.htm#fr_167.md) Tukval is
 sea-otter; the carrying net is called ikut; wekunla, network sack with
 very fine mesh.—S.
 
-<span id="fn_163"></span>[131:153](roli15.htm#fr_168) Makwit, wild
+<span id="fn_163"></span>[131:153](roli15.htm#fr_168.md) Makwit, wild
 grape-vine; awiwanawut, clematis.—S.
 
-<span id="fn_164"></span>[131:154](roli15.htm#fr_169) Paulovla, (?);
+<span id="fn_164"></span>[131:154](roli15.htm#fr_169) Paulovla, (?.md);
 tovolvush or tovolovahat, adjective meaning of different colors.—S.
 
-<span id="fn_165"></span>[131:155](roli15.htm#fr_170) Pauhit, yellow
+<span id="fn_165"></span>[131:155](roli15.htm#fr_170.md) Pauhit, yellow
 pine, also dug-out canoe; avahut, cottonwood tree. It is said that the
 feathers of San Luis Rey were kept in a canoe found on the beach and
 considered sacred.—S.
 
-<span id="fn_166"></span>[131:156](roli15.htm#fr_171) Pevesash, tule;
+<span id="fn_166"></span>[131:156](roli15.htm#fr_171.md) Pevesash, tule;
 hoyawish, species of rush.—S.
 
-<span id="fn_167"></span>[131:157](roli15.htm#fr_172) Shanut, asphalt,
+<span id="fn_167"></span>[131:157](roli15.htm#fr_172.md) Shanut, asphalt,
 gum; tanahut, sea-weed.—S.
 
-<span id="fn_168"></span>[131:158](roli15.htm#fr_173) Yuila, species of
+<span id="fn_168"></span>[131:158](roli15.htm#fr_173.md) Yuila, species of
 pine, tovut, cedar; yuimal and tovomal are diminutives.—S.
 
-<span id="fn_169"></span>[131:159](roli15.htm#fr_174) Kwila, *Quercus
+<span id="fn_169"></span>[131:159](roli15.htm#fr_174.md) Kwila, *Quercus
 californica;* shukut, deer.—S.
 
-<span id="fn_170"></span>[132:160](roli15.htm#fr_175) This is why all
+<span id="fn_170"></span>[132:160](roli15.htm#fr_175.md) This is why all
 ceremonies are performed facing the north. Cf. the drawing by a Luiseño
 in Journ. Am. Folk-Lore, XIX, 312, 1906.
 
-<span id="fn_171"></span>[132:161](roli15.htm#fr_176) Another old Indian
+<span id="fn_171"></span>[132:161](roli15.htm#fr_176.md) Another old Indian
 story teller here appeared on the scene and some tact was necessary to
 manage the situation. It was feared that Salvador might object to the
 presence of a rival; but when asked if he were willing to continue his
 recitation he smiled and said that there need be no jealousy as he told
 nothing but the truth. So he continued.
 
-<span id="fn_172"></span>[132:162](roli15.htm#fr_177) Wahawut, frog, an
+<span id="fn_172"></span>[132:162](roli15.htm#fr_177.md) Wahawut, frog, an
 ugly woman that bewitched and killed Wiyot.—S.
 
-<span id="fn_173"></span>[133:163](roli15.htm#fr_178) Tushmal.—S.
+<span id="fn_173"></span>[133:163](roli15.htm#fr_178.md) Tushmal.—S.
 
-<span id="fn_174"></span>[133:164](roli15.htm#fr_179) Sakapepi,
+<span id="fn_174"></span>[133:164](roli15.htm#fr_179.md) Sakapepi,
 titmouse, who found out who had killed Wiyot.—S.
 
-<span id="fn_175"></span>[133:165](roli15.htm#fr_180) Cf. notes 84 and
+<span id="fn_175"></span>[133:165](roli15.htm#fr_180.md) Cf. notes 84 and
 120.
 
-<span id="fn_176"></span>[133:166](roli15.htm#fr_181) Cf. notes 85 and
+<span id="fn_176"></span>[133:166](roli15.htm#fr_181.md) Cf. notes 85 and
 120.
 
-<span id="fn_177"></span>[133:167](roli15.htm#fr_182) Paskwa, San José,
+<span id="fn_177"></span>[133:167](roli15.htm#fr_182.md) Paskwa, San José,
 on upper San Luis river, given in this series of publications, II, 148,
 as in Diegueño territory.
 
-<span id="fn_178"></span>[133:168](roli15.htm#fr_183) Malamai, Agua
+<span id="fn_178"></span>[133:168](roli15.htm#fr_183.md) Malamai, Agua
 Tibia.—S.; *ibid*., this series, II, 147.
 
-<span id="fn_179"></span>[134:169](roli15.htm#fr_184) Cheruka, locative
+<span id="fn_179"></span>[134:169](roli15.htm#fr_184.md) Cheruka, locative
 Cherukanga, large rock near Potrero; also one near Temecula.—S.
 
-<span id="fn_180"></span>[134:170](roli15.htm#fr_185) A few miles the
+<span id="fn_180"></span>[134:170](roli15.htm#fr_185.md) A few miles the
 other side of the railroad station near Murietta.
 
-<span id="fn_181"></span>[134:171](roli15.htm#fr_186) Etengvo;
+<span id="fn_181"></span>[134:171](roli15.htm#fr_186.md) Etengvo;
 Mumoma.—S.
 
-<span id="fn_182"></span>[134:172](roli15.htm#fr_187) The names of all
+<span id="fn_182"></span>[134:172](roli15.htm#fr_187.md) The names of all
 these places are mentioned in the Ouiot songs.
 
-<span id="fn_183"></span>[134:173](roli15.htm#fr_188) Chehemal, kingbird
+<span id="fn_183"></span>[134:173](roli15.htm#fr_188.md) Chehemal, kingbird
 or bee martin.—S. Given in Journ. Am. Folk-Lore, XIX, 313, 1906, as
 chekhemal, a bird, possibly the meadowlark.—Ed.
 
-<span id="fn_184"></span>[134:174](roli15.htm#fr_189) Perhaps a trace of
+<span id="fn_184"></span>[134:174](roli15.htm#fr_189.md) Perhaps a trace of
 Christian influence.—But compare the incident in *ibid*.—Ed.
 
-<span id="fn_185"></span>[134:175](roli15.htm#fr_190) Kauki chehevo,
+<span id="fn_185"></span>[134:175](roli15.htm#fr_190.md) Kauki chehevo,
 said to be the name of a place.
 
-<span id="fn_186"></span>[134:176](roli15.htm#fr_191) Shariwut,
+<span id="fn_186"></span>[134:176](roli15.htm#fr_191.md) Shariwut,
 blowfly.—S.
 
-<span id="fn_187"></span>[134:177](roli15.htm#fr_192) Albañas,
+<span id="fn_187"></span>[134:177](roli15.htm#fr_192.md) Albañas,
 commenting on Salvador's story, says that the idea of the fire being
 started by Bluefly with the whirling-stick came to these Indians from
 some other source, he thinks from the north. Juan de Dios gives the
@@ -520,64 +520,64 @@ Bluefly as originator of the fire. Albañas in his version leaves it in
 doubt as to where it came from, but he evidently approves Lucario's
 statement that it was Glow-worm who had the fire.
 
-<span id="fn_188"></span>[134:178](roli15.htm#fr_193) Coyote jumped over
+<span id="fn_188"></span>[134:178](roli15.htm#fr_193.md) Coyote jumped over
 the heads of the people into the fire to seize the heart of Ouiot, which
 he ate.
 
-<span id="fn_189"></span>[135:179](roli15.htm#fr_194) Moila, moon;
+<span id="fn_189"></span>[135:179](roli15.htm#fr_194.md) Moila, moon;
 achohax (x German ch), adjective, born; achohahup moila, it is born
 moon, there is a new moon.—S.
 
-<span id="fn_190"></span>[136:180](roli15.htm#fr_195) Sacred as a
+<span id="fn_190"></span>[136:180](roli15.htm#fr_195.md) Sacred as a
 Chungichnish object, and one of the First People.
 
-<span id="fn_191"></span>[136:181](roli15.htm#fr_196) The shiny black on
+<span id="fn_191"></span>[136:181](roli15.htm#fr_196.md) The shiny black on
 the deer's nose is like that.
 
-<span id="fn_192"></span>[136:182](roli15.htm#fr_197) Two of these
+<span id="fn_192"></span>[136:182](roli15.htm#fr_197.md) Two of these
 stones I have seen are of white crystalline rock in round shape ten
 inches or so in diameter, others of clear quartz (?) crystal, ten inches
 long.—Wiyala, rock crystals.—S.
 
-<span id="fn_193"></span>[136:183](roli15.htm#fr_198) The white fat of
+<span id="fn_193"></span>[136:183](roli15.htm#fr_198.md) The white fat of
 the deer looks like that.
 
-<span id="fn_194"></span>[136:184](roli15.htm#fr_199) Pa’lut.—S.
+<span id="fn_194"></span>[136:184](roli15.htm#fr_199.md) Pa’lut.—S.
 
-<span id="fn_195"></span>[136:185](roli15.htm#fr_200) The deer's
+<span id="fn_195"></span>[136:185](roli15.htm#fr_200.md) The deer's
 entrails are like that.
 
-<span id="fn_196"></span>[136:186](roli15.htm#fr_201) There is some
+<span id="fn_196"></span>[136:186](roli15.htm#fr_201.md) There is some
 bushy hair on the deer's hind leg near the joint that smells like
 tobacco.
 
-<span id="fn_197"></span>[136:187](roli15.htm#fr_202) Huikish, *Elymus
+<span id="fn_197"></span>[136:187](roli15.htm#fr_202.md) Huikish, *Elymus
 condensatus*, from which arrows are made.—S.
 
-<span id="fn_198"></span>[137:188](roli15.htm#fr_203) Cf. *ante*, under
+<span id="fn_198"></span>[137:188](roli15.htm#fr_203.md) Cf. *ante*, under
 "Ceremonial Songs," records number 391 and 410.
 
-<span id="fn_199"></span>[137:189](roli15.htm#fr_204) Note the different
+<span id="fn_199"></span>[137:189](roli15.htm#fr_204.md) Note the different
 statements in each story as to who was the first basket-maker, showing a
 possible family descent in stories, as is the case in songs.
 
-<span id="fn_200"></span>[137:190](roli15.htm#fr_205) I have not found
+<span id="fn_200"></span>[137:190](roli15.htm#fr_205.md) I have not found
 among the Luiseños any allusion to the burial ollas for containing the
 bones and ashes of the cremated body so common among the Diegueños.
 
-<span id="fn_201"></span>[137:191](roli15.htm#fr_206) In former times
+<span id="fn_201"></span>[137:191](roli15.htm#fr_206.md) In former times
 they burned the bodies of the dead. Salvador, seventy-five years old,
 never saw this, but his grandfather did. They burned the bodies in a
 certain place, digging holes in which they made the fire and burying the
 ashes in the same place.
 
-<span id="fn_202"></span>[138:192](roli15.htm#fr_207) It is remarkable
+<span id="fn_202"></span>[138:192](roli15.htm#fr_207.md) It is remarkable
 that the Diegueños as far south as Manzanita also use this name in their
 language for themselves.
 
-<span id="fn_203"></span>[138:193](roli15.htm#fr_208) See the account of
+<span id="fn_203"></span>[138:193](roli15.htm#fr_208.md) See the account of
 the munival, or songs of landmarks, below.
 
 ------------------------------------------------------------------------
 
-[Next: Luiseño Creation: Fourth Version](roli16)
+[Next: Luiseño Creation: Fourth Version](roli16.md)

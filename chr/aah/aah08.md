@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](aah07)  [Next](aah09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](aah07)  [Next](aah09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7H7K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7H7K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Love Letters of Abelard and Heloise*, \[1901\], at Intangible
 Textual Heritage
 
@@ -332,4 +332,4 @@ our misfortunes.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix: Pope's 'Eloïsa to Abelard'](aah09)
+[Next: Appendix: Pope's 'Eloïsa to Abelard'](aah09.md)

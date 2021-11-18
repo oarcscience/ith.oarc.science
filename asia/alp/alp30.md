@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp29) 
-[Next](alp31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp29.md) 
+[Next](alp31.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 <span id="img_03300"></span>
 
 [![THE FOUNDING OF VAN](tn/03300.jpg)  
-Click to enlarge](img/03300.jpg)  
+Click to enlarge](img/03300.jpg.md)  
 THE FOUNDING OF VAN  
 
 ### THE FOUNDING OF VAN
@@ -98,4 +98,4 @@ it causeth a man to be amazed.
 
 ------------------------------------------------------------------------
 
-[Next: I Have a Word I Fain Would Say](alp31)
+[Next: I Have a Word I Fain Would Say](alp31.md)

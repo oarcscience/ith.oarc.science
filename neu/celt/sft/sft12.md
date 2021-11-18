@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sft11)  [Next](sft13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sft11)  [Next](sft13.md) 
 
 ------------------------------------------------------------------------
 
@@ -1618,4 +1618,4 @@ of mother to her children--The lady of the Van Pool an archaic deity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: Conclusion](sft13)
+[Next: Chapter XII: Conclusion](sft13.md)

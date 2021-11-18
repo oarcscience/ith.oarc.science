@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg36)  [Next](cdg38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg36)  [Next](cdg38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ BROWNE, "RELIGIO MEDICI." EVERYMAN'S LIBRARY EDITION, PAGES 38, 39.
 
 ------------------------------------------------------------------------
 
-[Next: BB. Curtius Rufus](cdg38)
+[Next: BB. Curtius Rufus](cdg38.md)

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,29 +34,29 @@ during his far-ranging travels, which took him all the way to India.
 
 This etext is derived from the version at the [Additional Early Church
 Fathers at the Tertullian Project
-website](https://www.tertullian.org/fathers/index), which I highly
+website](https://www.tertullian.org/fathers/index.md), which I highly
 recommend. I have converted all of the Greek text (which was encoded in
 a special Greek font) to Unicode. (For information on viewing Unicode in
-your browser, see [The Unicode File](../../unicode).
+your browser, see [The Unicode File](../../unicode.md).
 
 ------------------------------------------------------------------------
 
-[Preface to the online edition](ct00)  
-[Title page, contents, editor's preface](ct01)  
-[Introduction](ct02)  
-[Prologues, Book 1](ct03)  
-[Book 2](ct04)  
-[Book 3](ct05)  
-[Book 4](ct06)  
-[Book 5](ct07)  
-[Book 6](ct08)  
-[Book 7](ct09)  
-[Book 8](ct10)  
-[Book 9](ct11)  
-[Book 10](ct12)  
-[Book 11](ct13)  
-[Book 12](ct14)  
-[Plates](ct15)  
-[Explanation of the plates](ct16)  
-[Index](ct17)  
-[Appendix Plates](ct18)  
+[Preface to the online edition](ct00.md)  
+[Title page, contents, editor's preface](ct01.md)  
+[Introduction](ct02.md)  
+[Prologues, Book 1](ct03.md)  
+[Book 2](ct04.md)  
+[Book 3](ct05.md)  
+[Book 4](ct06.md)  
+[Book 5](ct07.md)  
+[Book 6](ct08.md)  
+[Book 7](ct09.md)  
+[Book 8](ct10.md)  
+[Book 9](ct11.md)  
+[Book 10](ct12.md)  
+[Book 11](ct13.md)  
+[Book 12](ct14.md)  
+[Plates](ct15.md)  
+[Explanation of the plates](ct16.md)  
+[Index](ct17.md)  
+[Appendix Plates](ct18.md)  

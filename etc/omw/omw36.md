@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw35)  [Next](omw37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw35)  [Next](omw37.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ still Apollo wears and still he gives the laurel.
 
 ------------------------------------------------------------------------
 
-[Next: Herakles, Part I](omw37)
+[Next: Herakles, Part I](omw37.md)

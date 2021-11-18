@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei02)  [Next](jei04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei02)  [Next](jei04.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 # PREFACE
 
-THE MAN whose acquaintance with [cosmogony](errata.htm#2) and
+THE MAN whose acquaintance with [cosmogony](errata.htm#2.md) and
 physiography is confined to what he learned in school, and, perhaps,
 afterward read in popular publications, has certain very definite
 notions about the shape of the earth and the construction of its
@@ -41,7 +41,7 @@ in the world, but unites them all in an intelligible manner.
 
 ### WANTED--A FAIR HEARING
 
-In any such attempt as this two [tendencies](errata.htm#3) have to be
+In any such attempt as this two [tendencies](errata.htm#3.md) have to be
 overcome before an author can secure a fair hearing. The first is the
 conservatism of scientists who do not care to revise their theories--and
 especially when that revision is made necessary by discoveries which are
@@ -112,4 +112,4 @@ Aurora, Illinois.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Introductory](jei04)
+[Next: Chapter I. Introductory](jei04.md)

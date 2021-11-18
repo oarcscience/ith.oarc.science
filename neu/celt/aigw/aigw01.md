@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Myths and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](aigw00) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Myths and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](aigw00.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Savoisienne* of 15<sup>th</sup> November, 1867, and republished by M.
 Adolphe Pictet in the *Revue Archéologique* for July, 1868, forms the
 subject of one of those essays from the pen of the veteran philologist
 for which the students of Celtic languages and archæology cannot be
-sufficiently thankful. <span id="fr_1"></span>[2](#fn_1)
+sufficiently thankful. <span id="fr_1"></span>[2](#fn_1.md)
 
  
 
@@ -81,7 +81,7 @@ contain requent allusion to this mystic bird. The readers of the
 *Mabinogion* will call to mind, amongst other instances, the wonderful
 crows of Owain, prince of Rheged, a contemporary of Arthur, which always
 secured factory by the aid of the three hundred crows under its
-command <span id="fr_2"></span>[3](#fn_2): and in Campbell’s *Popular
+command <span id="fr_2"></span>[3](#fn_2.md): and in Campbell’s *Popular
 Tales of the West Highlands* we have a large stock of legends, in most
 of which the principal fairy agency is exercised by the hoodie or
 scare-crow.
@@ -226,7 +226,7 @@ whom are named the mountains *called da cich Anann*, or the Paps, in
 Kerry), as the daughters of Ernmas, one of the chiefs of that mythical
 colony. *Badb ocus Macha ocus Anand, diatat cichi Anand il- Luachair,
 tri ingena Ernbais, na ban tuathige;* “*Badb*, and *Macha*, and *Anand*
-from whom the “paps of Anann <span id="fr_3"></span>[4](#fn_3)” in
+from whom the “paps of Anann <span id="fr_3"></span>[4](#fn_3.md)” in
 Luachair are \[called\], the three daughters of Ernmais, the
 *ban-tuathaig*”. In an accompanying versification of the same statement
 the name of *Anand* or *Ana*, however, is changed to *Morrigan:*—
@@ -236,7 +236,7 @@ the name of *Anand* or *Ana*, however, is changed to *Morrigan:*—
 “*Badb is Macha mét indbáis,  
 Morrigan fotla felbáis,  
 Indlema ind ága ernbais,  
-Ingena ana Ernmais* <span id="fr_4"></span>[5](#fn_4)
+Ingena ana Ernmais* <span id="fr_4"></span>[5](#fn_4.md)
 
 * *
 
@@ -296,7 +296,7 @@ Bid brig borb,
     Tolg for Medb;  
 Ilar écht,  
 Ar for slùag,  
-    Trúag in deilm* <span id="fr_5"></span>[6](#fn_5).
+    Trúag in deilm* <span id="fr_5"></span>[6](#fn_5.md).
 
  
 
@@ -313,14 +313,14 @@ Slaughter upon the host—
 Dublin), preserved in a 14<sup>th</sup> century MS., the druid Cunallis,
 foretelling the slaughter, says:—“*Biagh bádba os bruinnibh na bfear”*
  “Badbs will be over the breasts of men <span
-id="fr_6"></span>[7](#fn_6).”
+id="fr_6"></span>[7](#fn_6.md).”
 
     In the description of the battle of Magh-Tuiredh, it is said that
 just as the great conflict was about to begin, the “*badbs*, and
 *bledlochtana*, and idiots shouted so that the were heard in clefts and
 in cascades, and in the cavitites of the earth;” “*badba ocus
 bledlocktana, ocus amaite, go clos anallaib, ocus a nesaib, ocus a
-fothollaib in talnian* <span id="fr_7"></span>[8](#fn_7).”
+fothollaib in talnian* <span id="fr_7"></span>[8](#fn_7.md).”
 
     In the battle of Magh-Rath it is the “gray-haired *Morrigu*
 “(scald-crow), that shouts victory over the head of Domhnall son of
@@ -897,7 +897,7 @@ excited to fury and madness by the exhortations of one of his servants,
 in the banqueting hall at Dun-na-ngedh, “stood up, assumed his bravery,
 his heroic fury rose, and his ‘bird of valour’ fluttered over him, and
 he distinguished not friend from foe at the time <span
-id="fr_8"></span>[9](#fn_8)”. So when Murchadh, son of Brian after the
+id="fr_8"></span>[9](#fn_8.md)”. So when Murchadh, son of Brian after the
 repulse of the Dal-Cais by the Danes, at the battle of Clontarf,
 prepares to assail the enemy, it is said that” he was seized with a
 boiling terrible anger, an excessive elevation and greatness of spirit
@@ -964,7 +964,7 @@ the slain, so the Irish poets, in their laugations of particular heroes,
 boast of the number of ravens and wolves fed by their spears. Odin,
 especially, had two ravens, wise and cunning, which sa upon his
 shoulders and whispered into his ears, like Mahomet’s pigeon, all that
-they had heard and seen <span id="fr_9"></span>[10](#fn_9).In this
+they had heard and seen <span id="fr_9"></span>[10](#fn_9.md).In this
 latter respect the raven of German mythology stands in the same relation
 to Odin thta the raven of Greek mythology does to Apollo. The
 scandinavians, like their German relatives, considered the raven in a
@@ -984,13 +984,13 @@ the flag; but if they were doomed to be defeated it would hang down
 motionles; and this was often proved to be so.” Earl Sigurd also is said
 to have had a raen banner at the battle of Clontarf, which his mother
 had woven for him with magical skill <span
-id="fr_10"></span>[11](#fn_10).
+id="fr_10"></span>[11](#fn_10.md).
 
     This idea fo the raven banner is probably connected with the
 tradition given in the Vœlsûnga-Saga, which represents Odin as sending
 the Valkyria Oskemey, in the form of a crow, on a mission to Friga, to
 entreat that the wife of King Reris might become fruitful <span
-id="fr_11"></span>[12](#fn_11); and the prayer being heard, a son
+id="fr_11"></span>[12](#fn_11.md); and the prayer being heard, a son
 (Sigmund) was born, whose son Sigurd married Brunhilt, a Valkyria, who
 was kalled Kraka, or the crow, and who was the wife of Radnar Lodbrok,
 and mother of Ivar Beinlaus.
@@ -1143,42 +1143,42 @@ C. Lottner.   
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](#fr_0) The substance of this paper was read
+<span id="fn_0"></span>[1](#fr_0.md) The substance of this paper was read
 before the Royal Irish  Academy on the 25<sup>th</sup> of January, 1869.
 
-<span id="fn_1"></span>[2](aigw01.htm#fr_1) \[Nous devons à la
+<span id="fn_1"></span>[2](aigw01.htm#fr_1.md) \[Nous devons à la
 bienveillance de la *Revue Archéologique* de pouvoir reproduire ici la
 representation du monument original qui accompagnait l’article de M.
 Pictet. Cette copie est une reduction au dixième, obtenue par la
 pantographe sur un estampage – H.G.
 
-<span id="fn_2"></span>[3](aigw01.htm#fr_2) See the *Dream of Rhonabwy*,
+<span id="fn_2"></span>[3](aigw01.htm#fr_2.md) See the *Dream of Rhonabwy*,
 in the *Mabinogion*, part. V, pp. 385 and 410.
 
-<span id="fn_3"></span>[4](aigw01.htm#fr_3) It is rather an interesting
+<span id="fn_3"></span>[4](aigw01.htm#fr_3.md) It is rather an interesting
 fact that near the mountain called *Da-Cich-Anann*, there is a fort
 called *Lis-Babha*, or the fort of the Badb.
 
-<span id="fn_4"></span>[5](aigw01.htm#fr_4) *Book of Leinster*, fol.5,
+<span id="fn_4"></span>[5](aigw01.htm#fr_4.md) *Book of Leinster*, fol.5,
 b2.
 
-<span id="fn_5"></span>[6](aigw01.htm#fr_5) *Book of Leinster*, fol.
+<span id="fn_5"></span>[6](aigw01.htm#fr_5.md) *Book of Leinster*, fol.
 189, b1.
 
-<span id="fn_6"></span>[7](aigw01.htm#fr_6) See also the reference to
+<span id="fn_6"></span>[7](aigw01.htm#fr_6.md) See also the reference to
 *badbs* and furies in the *Battle of Magh-Lena*, pp. 130-1, sq.
 
-<span id="fn_7"></span>[8](aigw01.htm#fr_7) Ms. Trin. Coll. Dublin H. 2,
+<span id="fn_7"></span>[8](aigw01.htm#fr_7.md) Ms. Trin. Coll. Dublin H. 2,
 17, fol. 97, a.
 
-<span id="fn_8"></span>[9](aigw01.htm#fr_8) Battle of *Magh-Rath*, p.
+<span id="fn_8"></span>[9](aigw01.htm#fr_8.md) Battle of *Magh-Rath*, p.
 33.
 
-<span id="fn_9"></span>[10](aigw01.htm#fr_9) Grimm, *Deutsche
+<span id="fn_9"></span>[10](aigw01.htm#fr_9.md) Grimm, *Deutsche
 Mythologie<sup>2</sup>*, p. 134.
 
-<span id="fn_10"></span>[11](aigw01.htm#fr_10) Todd’s “*Danish wars*,”
+<span id="fn_10"></span>[11](aigw01.htm#fr_10.md) Todd’s “*Danish wars*,”
 introd. p. clxxxiij, note 1.
 
-<span id="fn_11"></span>[12](aigw01.htm#fr_11) *Fornaldar Sœgur*,
+<span id="fn_11"></span>[12](aigw01.htm#fr_11.md) *Fornaldar Sœgur*,
 Copenagen, 1825, pp. 117-118.

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq35)  [Next](sfq37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq35)  [Next](sfq37.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ strange horror was approaching.
 
 ------------------------------------------------------------------------
 
-[Next: Sea-Monsters and Land-Monsters](sfq37)
+[Next: Sea-Monsters and Land-Monsters](sfq37.md)

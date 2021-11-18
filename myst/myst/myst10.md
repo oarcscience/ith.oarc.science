@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst09)  [Next](myst11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst09)  [Next](myst11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -79,17 +79,17 @@ title—constantly arrogate to their tenets and practices the name of
 “Mystical Science.” Vaughan, in his rather supercilious survey of the
 mystics, classed all forms of white magic, alchemy, and occult
 philosophy as “theurgic mysticism,”  <span
-id="fr_305"></span>[306](#fn_305) and, on the other side of the shield,
+id="fr_305"></span>[306](#fn_305.md) and, on the other side of the shield,
 the occultists display an increasing eagerness to claim the mystics as
-masters in their school.  <span id="fr_306"></span>[307](#fn_306) Even
+masters in their school.  <span id="fr_306"></span>[307](#fn_306.md) Even
 the “three-fold way” of mysticism has been adopted by them and
 relabelled “Probation, Enlightenment, Initiation.”  <span
-id="fr_307"></span>[308](#fn_307)
+id="fr_307"></span>[308](#fn_307.md)
 
 <span id="an_iii.vii-p8"></span>In our search for the characteristics of
 mysticism we have already marked the boundary which separates it from
 magic: and tried to define the true nature and intention of occult
-philosophy.  <span id="fr_308"></span>[309](#fn_308) We saw that it
+philosophy.  <span id="fr_308"></span>[309](#fn_308.md) We saw that it
 represented the instinctive human “desire to know more” applied to
 suprasensible things. For good or ill this desire, and the occult
 sciences and magic arts which express it, have haunted humanity from the
@@ -112,7 +112,7 @@ the latent potentialities which constitute—by the fact of their
 latency—the interior man. In more strictly philosophical language, the
 Hermetic science is a method of transcending the phenomenal world and
 attaining to the reality which is behind phenomena.”  <span
-id="fr_309"></span>[310](#fn_309)
+id="fr_309"></span>[310](#fn_309.md)
 
 <span id="an_iii.vii-p11"></span>Though fragments of this enormous claim
 seem able to justify themselves in experience, the whole of it cannot be
@@ -178,7 +178,7 @@ existed there have always been schools in which those who possessed
 these higher faculties gave instruction to those who were in search of
 them. Such are called the occult schools, and the instruction which is
 imparted therein is called esoteric science or the occult teaching.”
- <span id="fr_310"></span>[311](#fn_310)
+ <span id="fr_310"></span>[311](#fn_310.md)
 
 <span id="an_iii.vii-p16"></span>These occult schools, as they exist in
 the present day, state their doctrine in terms which seem distressingly
@@ -201,7 +201,7 @@ Plexus,” the seers who assure their eager disciples that by
 which is “health of circumstance,” are no mystics. They are magicians;
 and teach, though they know it not, little else but the cardinal
 doctrines of Hermetic science, omitting only their picturesque
-ceremonial accompaniments.  <span id="fr_311"></span>[312](#fn_311)
+ceremonial accompaniments.  <span id="fr_311"></span>[312](#fn_311.md)
 
 <span id="an_iii.vii-p18"></span>These cardinal doctrines, in fact, have
 varied little since their first appearance early in the world’s history:
@@ -222,7 +222,7 @@ Fragmentary writings attributed to this personage and said to be derived
 from the Hermetic books, are the primitive scriptures of occultism: and
 the probably spurious Table of Emerald, which is said to have been
 discovered in his tomb, ranks as the magician’s Table of Stone.  <span
-id="fr_312"></span>[313](#fn_312) In Gnosticism, in the allegories of
+id="fr_312"></span>[313](#fn_312.md) In Gnosticism, in the allegories of
 the Kabalah, in theosophy, in secret associations which still exist in
 England, France, and Germany—and even in certain practices embedded in
 the ceremonial of the Christian Church—<span id="page_154">p. 154</span>
@@ -230,7 +230,7 @@ the ceremonial of the Christian Church—<span id="page_154">p. 154</span>
 constitute the “secret wisdom” of magical tradition have wandered down
 the centuries. The baser off-shoots of that tradition are but too well
 known, and need not be particularized.  <span
-id="fr_313"></span>[314](#fn_313)
+id="fr_313"></span>[314](#fn_313.md)
 
 <span id="an_iii.vii-p22"></span>Like the world which it professes to
 interpret, magic has a body and a soul: an outward vesture of words and
@@ -270,14 +270,14 @@ things are held to exist. It may be connected with the “real world”
 described by such visionaries as Boehme and Blake, many of whose <span
 id="page_155">p. 155</span> <span id="an_iii.vii-Page_155"></span>
 experiences are far more occult than mystical in character.  <span
-id="fr_314"></span>[315](#fn_314) A persistent tradition as to the
+id="fr_314"></span>[315](#fn_314.md) A persistent tradition as to the
 existence of such a plane of being or of consciousness is found all over
 the world: in Indian, Greek Egyptian, Celtic, and Jewish thought. “Above
 this visible nature there exists another, unseen and eternal, which,
 when all things created perish, does not perish,” says the Bhagavad
 Gita. According to the Kabalists it is “the seat of life and vitality,
 and the nourishment of all the world.”  <span
-id="fr_315"></span>[316](#fn_315) Vitalism might accept it as one of
+id="fr_315"></span>[316](#fn_315.md) Vitalism might accept it as one of
 those aspects of the universe which can be perceived by a more extended
 rhythm than that of normal consciousness. Various aspects of the Astral
 have been identified with the “Burning Body of the Holy Ghost” of
@@ -333,7 +333,7 @@ initiation, to actualize this supersensual plane of experience, to give
 the student the power of entering into conscious communion with it, and
 teach him to impose upon its forces the directive force of his own will,
 as easily as he imposes that will upon the “material” things of senses.
- <span id="fr_316"></span>[317](#fn_316)
+ <span id="fr_316"></span>[317](#fn_316.md)
 
 <span id="an_iii.vii-p32"></span>(2) This brings us to the second axiom
 of magic, which also has a curiously modern air: for it postulates
@@ -344,8 +344,8 @@ Thought.” The preachers of “Joy Philosophy” and other dilute forms of
 mental discipline, the Liberal Catholic “priest” producing “a vast
 bubble of etheric astromental matter, a thought-edifice, ethereal,
 diaphanous, a bubble which just includes the congregation—“  <span
-id="fr_317"></span>[318](#fn_317) these are the true hierophants of
-magic in the modern world.  <span id="fr_318"></span>[319](#fn_318)
+id="fr_317"></span>[318](#fn_317.md) these are the true hierophants of
+magic in the modern world.  <span id="fr_318"></span>[319](#fn_318.md)
 
 <span id="an_iii.vii-p35"></span>The first lesson of the would-be magus
 is self-mastery. “By means of persevering and gradual athletics,” says
@@ -364,7 +364,7 @@ practices and made their cults difficult and minute. The more trouble
 one gives oneself for an idea, the more power one acquires in regard to
 that idea. . . . Hence the power of religions resides entirely in the
 inflexible will of those who practise them.”  <span
-id="fr_319"></span>[320](#fn_319)
+id="fr_319"></span>[320](#fn_319.md)
 
 <span id="an_iii.vii-p37"></span>This last sentence alone is enough to
 define the distinction between mysticism and magic, and clear the minds
@@ -404,7 +404,7 @@ synthesis of these methods and processes <span id="page_158">p.
 158</span> <span id="an_iii.vii-Page_158"></span> was called Ceremonial
 Magic, which in effect was a tremendous forcing-house of the latent
 faculties of man’s spiritual nature.”  <span
-id="fr_320"></span>[321](#fn_320)
+id="fr_320"></span>[321](#fn_320.md)
 
 <span id="an_iii.vii-p40"></span>This is the psychological explanation
 of those apparently absurd rituals of preparation, doctrines of signs
@@ -443,7 +443,7 @@ and foolish, may be efficacious because it is a realization of the will.
 in the morning, that she may take a little candle to burn upon the magic
 triangle in some chapel. But those who laugh are ignorant, and the poor
 woman does not pay too dearly for the courage and resignation which she
-thus obtains.  <span id="fr_321"></span>[322](#fn_321) <span
+thus obtains.  <span id="fr_321"></span>[322](#fn_321.md) <span
 id="page_159">p. 159</span> <span id="an_iii.vii-Page_159"></span>
 
 <span id="an_iii.vii-p43"></span>Magic symbols, therefore, from penny
@@ -461,7 +461,7 @@ peculiarities of the superhuman plane: and the great adept may attain
 heights at which he dispenses with these “outward and visible signs.”
 “Ceremonies being, as we have said, artificial methods of creating
 certain habits of the will, they cease to be necessary when these habits
-have become fixed.”  <span id="fr_322"></span>[323](#fn_322) These
+have become fixed.”  <span id="fr_322"></span>[323](#fn_322.md) These
 facts, now commonplaces of psychology, have long been known and used by
 students of magic. Those who judge the philosophy by the apparent
 absurdity of its symbols and ceremonies should remember that the
@@ -494,7 +494,7 @@ Butler’s “Analogy,” the allegories of the Kabalah and the spiritual
 alchemists, and that childish “doctrine of signatures” on which <span
 id="page_160">p. 160</span> <span id="an_iii.vii-Page_160"></span> much
 of mediaeval science was built. “Analogy,” says Lévi,  <span
-id="fr_323"></span>[324](#fn_323) “is the last word of science and the
+id="fr_323"></span>[324](#fn_323.md) “is the last word of science and the
 first word of faith . . . the *sole possible mediator* between the
 visible and the invisible, between the finite and the infinite.” Here
 Magic clearly defines her own limitations; stepping incautiously from
@@ -551,7 +551,7 @@ all magical practices, old and new. “Magical operations,” says Eliphas
 Lévi, “are the exercise of a power which is natural, but superior to the
 ordinary powers of nature. They are the result of a science, and of
 habits, which exalt the human will above its usual limits.”  <span
-id="fr_324"></span>[325](#fn_324) This power of the will is now
+id="fr_324"></span>[325](#fn_324.md) This power of the will is now
 recognized as playing an important part both in the healing of the body
 and the healing of the soul; for our most advanced theories on these
 subjects are little more than the old wine of magic in new bottles. The
@@ -588,13 +588,13 @@ of degree between diseases of body and of soul, and can state seriously
 and in good faith that “moral maladies are more contagious than
 physical, and there are some triumphs of infatuation and fashion which
 are comparable to leprosy or cholera.”  <span
-id="fr_325"></span>[326](#fn_325) Secondly, it is <span id="page_162">p.
+id="fr_325"></span>[326](#fn_325.md) Secondly, it is <span id="page_162">p.
 162</span> <span id="an_iii.vii-Page_162"></span> worked by that
 enhancement of will power, that ability to alter and control weaker
 forms of life, which is claimed as the reward of the occult discipline.
 “All the power of the occult healer lies in his conscious will and all
 his art consists in producing faith in the patient.”  <span
-id="fr_326"></span>[327](#fn_326)
+id="fr_326"></span>[327](#fn_326.md)
 
 <span id="an_iii.vii-p58"></span>This simple truth was in the possession
 of occult thinkers at a time when Church and State saw no third course
@@ -608,7 +608,7 @@ and crime by “the unconscious use of the magnetism of Paracelsus,” who
 attributed his cases “either to disorder of the will or to the perverse
 influence of external wills,” and would “regard all crimes as acts of
 madness and treat the wicked as diseased,”  <span
-id="fr_327"></span>[328](#fn_327) anticipated in many respects those of
+id="fr_327"></span>[328](#fn_327.md) anticipated in many respects those of
 the most modern psychologists.
 
 <span id="an_iii.vii-p60"></span>The doctrine of magic which has here
@@ -624,7 +624,7 @@ transcendental world “springing to do the rest.” In this hard-earned
 acquirement of power over the Many, he tends to forget the One. In
 Levi’s words, “Too deep a study of the mysteries of nature may estrange
 from God the careless investigator, in whom mental fatigue paralyses the
-ardours of the heart.”  <span id="fr_328"></span>[329](#fn_328) When he
+ardours of the heart.”  <span id="fr_328"></span>[329](#fn_328.md) When he
 wrote this sentence Lévi stood, as the greater occultists have often
 done, at the frontiers of mysticism. The best of the Hermetic
 philosophers, indeed, are hardly ever without such mystical hankerings,
@@ -707,7 +707,7 @@ Reality.
 says Patmore, “is not to teach the mysteries of life, so much as to
 persuade the soul to that arduous degree of purity at which God Himself
 becomes her teacher. The work of the Church ends when the knowledge of
-God begins.”  <span id="fr_329"></span>[330](#fn_329)
+God begins.”  <span id="fr_329"></span>[330](#fn_329.md)
 
 <span id="an_iii.vii-p68"></span><span id="page_165">p. 165</span> <span
 id="an_iii.vii-Page_165"></span>
@@ -716,13 +716,13 @@ id="an_iii.vii-Page_165"></span>
 
 ### Footnotes
 
-<span id="fn_305"></span>[150:306](myst10.htm#fr_305) <span
+<span id="fn_305"></span>[150:306](myst10.htm#fr_305.md) <span
 id="an_iii.vii-p4.1"></span>
 
 <span id="an_iii.vii-p5"></span> R. A. Vaughan, “Hours with the
 Mystics,” vol. i. bk. i. ch. v.
 
-<span id="fn_306"></span>[150:307](myst10.htm#fr_306) <span
+<span id="fn_306"></span>[150:307](myst10.htm#fr_306.md) <span
 id="an_iii.vii-p5.1"></span>
 
 <span id="an_iii.vii-p6"></span> In a list published by Papus from the
@@ -730,30 +730,30 @@ archives of the Martinists, we find such diverse names as Averroes, St.
 Thomas Aquinas, Vincent of Beauvais, and Swedenborg, given as followers
 of the occult tradition!
 
-<span id="fn_307"></span>[150:308](myst10.htm#fr_307) <span
+<span id="fn_307"></span>[150:308](myst10.htm#fr_307.md) <span
 id="an_iii.vii-p6.1"></span>
 
 <span id="an_iii.vii-p7"></span> See R. Steiner, “The Way of
 Initiation,” p. 111.
 
-<span id="fn_308"></span>[150:309](myst10.htm#fr_308) <span
+<span id="fn_308"></span>[150:309](myst10.htm#fr_308.md) <span
 id="an_iii.vii-p8.1"></span>
 
 <span id="an_iii.vii-p9"></span> *Supra,* pp. 70 *seq* .
 
-<span id="fn_309"></span>[151:310](myst10.htm#fr_309) <span
+<span id="fn_309"></span>[151:310](myst10.htm#fr_309.md) <span
 id="an_iii.vii-p9.1"></span>
 
 <span id="an_iii.vii-p10"></span> A. E. Waite, “The Occult Sciences,” p.
 1.
 
-<span id="fn_310"></span>[152:311](myst10.htm#fr_310) <span
+<span id="fn_310"></span>[152:311](myst10.htm#fr_310.md) <span
 id="an_iii.vii-p14.1"></span>
 
 <span id="an_iii.vii-p15"></span> Steiner, “The Way of Initiation,” p.
 66.
 
-<span id="fn_311"></span>[153:312](myst10.htm#fr_311) <span
+<span id="fn_311"></span>[153:312](myst10.htm#fr_311.md) <span
 id="an_iii.vii-p16.1"></span>
 
 <span id="an_iii.vii-p17"></span> See E. Towne, “Joy Philosophy” (1903)
@@ -763,7 +763,7 @@ Limitless” (1905). The literature of these sects is enormous. For a
 critical and entertaining account, see C. W. Ferguson, ‘The Confusion of
 Tongues.” (1929).
 
-<span id="fn_312"></span>[153:313](myst10.htm#fr_312) <span
+<span id="fn_312"></span>[153:313](myst10.htm#fr_312.md) <span
 id="an_iii.vii-p19.1"></span>
 
 <span id="an_iii.vii-p20"></span> It must here be pointed out that the
@@ -772,7 +772,7 @@ collected under this general title—are entirely unconnected with
 occultism. Cf. “Hermetica,” ed. with English translation by W. Scott. 3
 vols. 1924-8.
 
-<span id="fn_313"></span>[154:314](myst10.htm#fr_313) <span
+<span id="fn_313"></span>[154:314](myst10.htm#fr_313.md) <span
 id="an_iii.vii-p20.1"></span>
 
 <span id="an_iii.vii-p21"></span> A. E. Waite, a life-long student of
@@ -783,20 +783,20 @@ Freemasonry, and, finally, “an obscure sheaf of hieroglyphs known as
 Tarot cards.” He places in another class “the bewitchments and other
 mummeries of Ceremonial Magic.” (“The Holy Kabbalah,” pp. 518-19.)
 
-<span id="fn_314"></span>[155:315](myst10.htm#fr_314) <span
+<span id="fn_314"></span>[155:315](myst10.htm#fr_314.md) <span
 id="an_iii.vii-p24.1"></span>
 
 <span id="an_iii.vii-p25"></span> For a discussion of the Gnostic and
 Theosophic elements in Blake’s work see D. Surat, “Blake and Modern
 Thought” (1929).
 
-<span id="fn_315"></span>[155:316](myst10.htm#fr_315) <span
+<span id="fn_315"></span>[155:316](myst10.htm#fr_315.md) <span
 id="an_iii.vii-p25.1"></span>
 
 <span id="an_iii.vii-p26"></span> A. E. Waite, “Doctrine and Literature
 of the Kabbalah,” p. 48.
 
-<span id="fn_316"></span>[156:317](myst10.htm#fr_316) <span
+<span id="fn_316"></span>[156:317](myst10.htm#fr_316.md) <span
 id="an_iii.vii-p30.1"></span>
 
 <span id="an_iii.vii-p31"></span> I offer no opinion as to the truth or
@@ -804,13 +804,13 @@ falsity of these “occult” claims. For a more detailed discussion the
 reader is referred to Steiner’s curious little book, “The Way of
 Initiation.”
 
-<span id="fn_317"></span>[156:318](myst10.htm#fr_317) <span
+<span id="fn_317"></span>[156:318](myst10.htm#fr_317.md) <span
 id="an_iii.vii-p32.1"></span>
 
 <span id="an_iii.vii-p33"></span> C. W. Leadbeater, “The Science of the
 Sacraments,” p. 38.
 
-<span id="fn_318"></span>[156:319](myst10.htm#fr_318) <span
+<span id="fn_318"></span>[156:319](myst10.htm#fr_318.md) <span
 id="an_iii.vii-p33.1"></span>
 
 <span id="an_iii.vii-p34"></span> Compare the following: “Imagine that
@@ -820,13 +820,13 @@ and instantly they will spring to do the rest. The instant you say, ‘I
 *can and I will,’* the entire powers of the universe are to be set in
 motion” (E. Towne, “Joy Philosophy,” p. 52).
 
-<span id="fn_319"></span>[157:320](myst10.htm#fr_319) <span
+<span id="fn_319"></span>[157:320](myst10.htm#fr_319.md) <span
 id="an_iii.vii-p35.1"></span>
 
 <span id="an_iii.vii-p36"></span> “Rituel de la Haute Magie,” pp. 35,
 36.
 
-<span id="fn_320"></span>[158:321](myst10.htm#fr_320) <span
+<span id="fn_320"></span>[158:321](myst10.htm#fr_320.md) <span
 id="an_iii.vii-p38.1"></span>
 
 <span id="an_iii.vii-p39"></span> “The Occult Sciences,” p. 14. But
@@ -834,48 +834,48 @@ references in Mr. Waite’s most recent work to “the puerilities and
 imbecility of ceremonial magic” suggest that he has modified his views.
 Cf. “The Holy Kabbalah” (1929), p. 521.
 
-<span id="fn_321"></span>[158:322](myst10.htm#fr_321) <span
+<span id="fn_321"></span>[158:322](myst10.htm#fr_321.md) <span
 id="an_iii.vii-p41.1"></span>
 
 <span id="an_iii.vii-p42"></span> “Rituel de la Haute Magie,” p. 71.
 
-<span id="fn_322"></span>[159:323](myst10.htm#fr_322) <span
+<span id="fn_322"></span>[159:323](myst10.htm#fr_322.md) <span
 id="an_iii.vii-p43.1"></span>
 
 <span id="an_iii.vii-p44"></span> “Rituel de la Haute Magie,” p. 139.
 
-<span id="fn_323"></span>[160:324](myst10.htm#fr_323) <span
+<span id="fn_323"></span>[160:324](myst10.htm#fr_323.md) <span
 id="an_iii.vii-p46.1"></span>
 
 <span id="an_iii.vii-p47"></span> “Dogme de la Haute Magie,” p. 361 *et
 seq.*
 
-<span id="fn_324"></span>[161:325](myst10.htm#fr_324) <span
+<span id="fn_324"></span>[161:325](myst10.htm#fr_324.md) <span
 id="an_iii.vii-p53.1"></span>
 
 <span id="an_iii.vii-p54"></span> “Rituel de la Haute Magie,” p. 32.
 
-<span id="fn_325"></span>[161:326](myst10.htm#fr_325) <span
+<span id="fn_325"></span>[161:326](myst10.htm#fr_325.md) <span
 id="an_iii.vii-p55.1"></span>
 
 <span id="an_iii.vii-p56"></span> “Dogme de la Haute Magie,” p. 129.
 
-<span id="fn_326"></span>[162:327](myst10.htm#fr_326) <span
+<span id="fn_326"></span>[162:327](myst10.htm#fr_326.md) <span
 id="an_iii.vii-p56.1"></span>
 
 <span id="an_iii.vii-p57"></span> “Rituel,” p. 312.
 
-<span id="fn_327"></span>[162:328](myst10.htm#fr_327) <span
+<span id="fn_327"></span>[162:328](myst10.htm#fr_327.md) <span
 id="an_iii.vii-p58.1"></span>
 
 <span id="an_iii.vii-p59"></span> “Dogma,” p. 134.
 
-<span id="fn_328"></span>[162:329](myst10.htm#fr_328) <span
+<span id="fn_328"></span>[162:329](myst10.htm#fr_328.md) <span
 id="an_iii.vii-p60.1"></span>
 
 <span id="an_iii.vii-p61"></span> “Histoire de la Magie,” p. 514.
 
-<span id="fn_329"></span>[164:330](myst10.htm#fr_329) <span
+<span id="fn_329"></span>[164:330](myst10.htm#fr_329.md) <span
 id="an_iii.vii-p66.1"></span>
 
 <span id="an_iii.vii-p67"></span> “The Rod, the Root, and the Flower,”
@@ -885,6 +885,6 @@ id="an_iii.vii-p66.1"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Part Two: The Mystic Way](myst11)
+[Next: Part Two: The Mystic Way](myst11.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor01)  [Next](yor03) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor01)  [Next](yor03.md) 
 
 ------------------------------------------------------------------------
 
@@ -859,4 +859,4 @@ people in West Africa.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Chief Gods.](yor03)
+[Next: Chapter II: Chief Gods.](yor03.md)

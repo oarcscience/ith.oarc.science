@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits043) [Next](bits045)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits043) [Next](bits045.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ existence."
 
 ------------------------------------------------------------------------
 
-[Next: § 45. Cause of Rebirth](bits045)
+[Next: § 45. Cause of Rebirth](bits045.md)
 
  
 

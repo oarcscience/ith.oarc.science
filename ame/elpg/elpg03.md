@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](elpg02)  [Next](elpg04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](elpg02)  [Next](elpg04.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ of talent and accomplishment.
 
 ------------------------------------------------------------------------
 
-[Next: Language and Education at First Neglected, Then Promoted](elpg04)
+[Next: Language and Education at First Neglected, Then Promoted](elpg04.md)

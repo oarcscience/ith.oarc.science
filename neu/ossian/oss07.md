@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss06)  [Next](oss08) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss06)  [Next](oss08.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
 
 #### by Olaus Wormius
 
-NOTE. (see [p. 93](oss06.htm#page_93))
+NOTE. (see [p. 93](oss06.htm#page_93).md)
 
 Pugnavimus ensibus  
 Haud post longum tempus  
@@ -308,4 +308,4 @@ Ridens moriar.
 
 ------------------------------------------------------------------------
 
-[Next: Duan I](oss08)
+[Next: Duan I](oss08.md)

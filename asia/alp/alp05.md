@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp04) 
-[Next](alp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp04.md) 
+[Next](alp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ this reason, I include it in this etext--JBH.
 
 ------------------------------------------------------------------------
 
-[Next: Reproaches](alp06)
+[Next: Reproaches](alp06.md)

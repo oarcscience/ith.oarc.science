@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Next](sas01)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Next](sas01.md)  
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@
 
 ------------------------------------------------------------------------
 
-Next: [Chapter One: Indian Religion As Bharata Dharma](sas01)
+Next: [Chapter One: Indian Religion As Bharata Dharma](sas01.md)

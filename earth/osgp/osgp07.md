@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](osgp06)  [Next](osgp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](osgp06)  [Next](osgp08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Origin and Significance of the Great Pyramid*, by C. Staniland
 Wake, \[1882\], at Intangible Textual Heritage
 
@@ -30,9 +30,9 @@ Hermes was, however, called the son of Seth, and this deity is in some
 sense to be identified with Thoth. In a passage of the Book of the Dead,
 the former has the name Tet which, according to Bunsen, intimates that
 Thoth inherited many of the attributes of Seth. <span
-id="fr_67"></span>[\*](#fn_67) It may, indeed, show that they are the
+id="fr_67"></span>[\*](#fn_67.md) It may, indeed, show that they are the
 same deity. Seth was the true god of Wisdom, and the pillars of Seth, on
-which, according to Josephus, <span id="fr_68"></span>[†](#fn_68) was
+which, according to Josephus, <span id="fr_68"></span>[†](#fn_68.md) was
 inscribed the astronomical knowledge of the
 
 <span id="page_71">p. 71</span>
@@ -40,17 +40,17 @@ inscribed the astronomical knowledge of the
 ancient world, were the same as those mentioned in an apocryphal work
 ascribed to Hermes, which, according to Cedrenus, affirmed that "Enoch,
 foreseeing the destruction of the Earth, had inscribed the science of
-astronomy upon two pillars." <span id="fr_69"></span>[\*](#fn_69) By
+astronomy upon two pillars." <span id="fr_69"></span>[\*](#fn_69.md) By
 these structures was probably intended the two great pyramids of Ghizeh,
 which appear originally to have had many inscriptions on their external
 coverings. Makrizi cites various authors as to the origin of the
 Pyramids, and among other statements it was said that that they were
 built by Surid, and that the First was dedicated to history and
 astronomy, and the Second to medical knowledge. <span
-id="fr_70"></span>[†](#fn_70) As Seth, Thoth, or Hermes was the god of
+id="fr_70"></span>[†](#fn_70.md) As Seth, Thoth, or Hermes was the god of
 Wisdom, so the serpent was its emblem, and especially connected with
 that God and with other deities of similar characteristics. "Wise as
-serpents. <span id="fr_71"></span>[‡](#fn_71) and harmless as doves," is
+serpents. <span id="fr_71"></span>[‡](#fn_71.md) and harmless as doves," is
 an old saying, which probably has a deeper meaning than that usually
 ascribed to it. The connection between the serpent and the idea
 
@@ -71,7 +71,7 @@ the Buddha. To these spiritual beings Sakyamuni is said to have taught a
 more philosophical religious system than to men, who were not
 sufficiently advanced to understand it at the time of his appearance."
 The serpent holds an analogous place in the religious ideas of the
-modern Hindus. Siva, <span id="fr_72"></span>[\*](#fn_72) as Sambhu, is
+modern Hindus. Siva, <span id="fr_72"></span>[\*](#fn_72.md) as Sambhu, is
 the patron of the Brahmanic
 
 <span id="page_73">p. 73</span>
@@ -103,23 +103,23 @@ letters, science, and the principles of every art, the rules for the
 foundation of towns, the building of temples, the measurement and
 boundaries of lands, seed-time and harvest, in short, all that could
 advance civilization, so that nothing new has been invented since that
-period." <span id="fr_73"></span>[\*](#fn_73) Héa, as the god of
+period." <span id="fr_73"></span>[\*](#fn_73.md) Héa, as the god of
 Science, was the defender of "the frame of nature against the incessant
 ravages of the wicked spirits," and "help was sought from him when
 neither word, rite, talisman, nor even the intervention of any other of
 the gods had availed to destroy the demons’ power." <span
-id="fr_74"></span>[†](#fn_74) The Chaldean god was moreover, the healer
-of disease, <span id="fr_75"></span>[‡](#fn_75) in which character he
+id="fr_74"></span>[†](#fn_74.md) The Chaldean god was moreover, the healer
+of disease, <span id="fr_75"></span>[‡](#fn_75.md) in which character he
 resembled the God of the Hebrews, the sight of whose serpent-symbol was
 supposed to cure those bitten by the fiery serpents in the wilderness.
-There is reason to believe <span id="fr_76"></span>[§](#fn_76) that this
+There is reason to believe <span id="fr_76"></span>[§](#fn_76.md) that this
 deity was the same as Seth, the Agathodæmon of the early Egyptians, who
 was represented under the form of the serpent,
 
 <span id="page_75">p. 75</span>
 
 and who was the giver of happiness and good fortune. <span
-id="fr_77"></span>[\*](#fn_77) The good genius which presided over the
+id="fr_77"></span>[\*](#fn_77.md) The good genius which presided over the
 affairs of men as the guardian spirit of their houses was a serpent, the
 Asp of Ranno, the snake-headed goddess who is represented as nursing the
 young princes. That the idea of health was among the Egyptians
@@ -129,7 +129,7 @@ particularly to Isis, a goddess of Life and Healing. It was also the
 symbol of other gods of health and the like attributes, as stated by the
 learned Dupuis in the chapters entitled "Esculapius, Serapis, Pluto,
 Esmun, Cneph, and all the divinities with the attributes of the
-serpent" <span id="fr_78"></span>[†](#fn_78) is remarkable that a Moslem
+serpent" <span id="fr_78"></span>[†](#fn_78.md) is remarkable that a Moslem
 saint of Upper Egypt is still thought to appear under the form of a
 serpent, and to cure the diseases which afflict the pilgrims to his
 shrine. The power of healing is an evidence of the possession of wisdom,
@@ -152,7 +152,7 @@ mandarins. The Chinese notion of the serpent or dragon dwelling above
 the clouds in spring to give rain reminds us of the Aryan myth of
 Vritra, or Ahi, the throttling snake, or dragon with three heads, who
 hides away the rain-clouds, but who is slain by Indra, the beneficent
-giver of rain. M. Bréal says, <span id="fr_79"></span>[\*](#fn_79) that
+giver of rain. M. Bréal says, <span id="fr_79"></span>[\*](#fn_79.md) that
 "Typhon is the monster who obscures the heavens, a sort of Greek
 Vritra." The myth of Indra and Vritra is reproduced in
 
@@ -170,12 +170,12 @@ We have here a reference to the serpent as the embodiment of the Evil
 Being; and in the later identification of Seth with Typhon, the enemy of
 Osiris, we have evidence of the connection of the serpent with the
 former deity. M. Lenormant tells us that, "evil was personified in a
-particular god, Set or Soutekh, <span id="fr_80"></span>[\*](#fn_80)
+particular god, Set or Soutekh, <span id="fr_80"></span>[\*](#fn_80.md)
 called also sometimes Baal, who was the supreme god of the neighbouring
 Asiatic populations, and, at a later period, of the shepherd kings; the
 Greeks considered him the same as their Typhon, and it was said that
-Osiris [had succumbed](errata.htm#6) to his blows." <span
-id="fr_81"></span>[†](#fn_81)
+Osiris [had succumbed](errata.htm#6.md) to his blows." <span
+id="fr_81"></span>[†](#fn_81.md)
 
 <span id="page_78">p. 78</span>
 
@@ -184,7 +184,7 @@ appears to have been given more especially to the Evil Being, as the
 opponent of Horus, who was, however, the same deity as Osiris, whose son
 he was said to be. The former was then represented as Apap or Apophis,
 or the giant serpent, who was pierced by the spear of Horus, as the
-serpent Pytho was slain by Apollo. <span id="fr_82"></span>[\*](#fn_82)
+serpent Pytho was slain by Apollo. <span id="fr_82"></span>[\*](#fn_82.md)
 Henceforth Seth, instead of being regarded by the Egyptians as the
 Agathodæmon, was looked upon as the principle of evil. The same change
 took place among the Accadian population of Media. M. Lenormant states
@@ -200,11 +200,11 @@ Mazdean myths, the serpent was the form assumed by
 
 <span class="contnote">\[paragraph continues\]</span> Angromainyus, in
 order to penetrate into the heaven of Ahuramazda." <span
-id="fr_83"></span>[\*](#fn_83) Here is the conflict between light and
+id="fr_83"></span>[\*](#fn_83.md) Here is the conflict between light and
 darkness, and between life and death, which is reproduced in Egyptian
 mythology, where the evil principle is represented in the one case by
 the serpent Apap, and in the other by Set <span
-id="fr_84"></span>[†](#fn_84) (Seth), whose symbol was the serpent.
+id="fr_84"></span>[†](#fn_84) (Seth.md), whose symbol was the serpent.
 
 The association between the serpent and the idea of darkness had an
 astronomical foundation. The position which the constellation Draco at
@@ -216,7 +216,7 @@ the Dragon of the Apocalypse a reference to the celestial serpent, says,
 "It is not astonishing that a constellation so extended should be
 represented by the author of that book as a great dragon with seven
 heads, who drew the third part of the stars from heaven and cast them to
-the earth." <span id="fr_85"></span>[‡](#fn_85)
+the earth." <span id="fr_85"></span>[‡](#fn_85.md)
 
 <span id="page_80">p. 80</span>
 
@@ -244,14 +244,14 @@ Surid, for
 <span id="page_81">p. 81</span>
 
 safety, and as tombs for himself and household. <span
-id="fr_86"></span>[\*](#fn_86) It is remarkable that, as Sir Gardner
+id="fr_86"></span>[\*](#fn_86.md) It is remarkable that, as Sir Gardner
 Wilkinson points out, Tuphán, which appears to be the same word as
 Typhon, the name of the Evil Being, is the Arabic name of the
-Deluge. <span id="fr_87"></span>[†](#fn_87) The association of the
+Deluge. <span id="fr_87"></span>[†](#fn_87.md) The association of the
 Pyramids with a flood has, however, a purely astronomical explanation.
 Mr. Proctor, when speaking of the position of the pole-star Alpha
 Draconis, at the date of the erection of the Great Pyramid, says, <span
-id="fr_88"></span>[‡](#fn_88) "We know that in the past the
+id="fr_88"></span>[‡](#fn_88.md) "We know that in the past the
 constellation of the Dragon was at the pole, or boss, of the celestial
 sphere. In stellar temples, like those of which Rawlinson gives
 examples, the Dragon would be the uppermost or ruling constellation. And
@@ -287,11 +287,11 @@ among
 
 the few really seeming to picture recognisable objects in the heavens,
 correspond in sequence and in range of right ascension with the events
-recorded respecting the Flood." <span id="fr_89"></span>[\*](#fn_89)
+recorded respecting the Flood." <span id="fr_89"></span>[\*](#fn_89.md)
 
 Fancies or not, it is unquestionable that the Deluge has been associated
 in the legends of some Eastern peoples, not only with the
-Pyramids, <span id="fr_90"></span>[†](#fn_90) but also with the
+Pyramids, <span id="fr_90"></span>[†](#fn_90.md) but also with the
 constellations. Thus it is with the Chaldean legend, according to which
 Saturn in a dream announced the coming catastrophe to Xixutrus, who,
 like Noah, escaped in an ark. The Assyrian tablets discovered by the
@@ -309,7 +309,7 @@ with the month of Skebat (Feb.-Jan.), which is consecrated to Rimmon,
 the god of storms and rain, and harmonises with the eleventh sign of the
 Zodiac—Aquarius, or the Waterman. The latter month is styled in
 Sumerish-Accadian 'the month of the curse of the rain,' or, as we might
-almost say, the Deluge month." <span id="fr_91"></span>[\*](#fn_91) The
+almost say, the Deluge month." <span id="fr_91"></span>[\*](#fn_91.md) The
 ancient Babylonians are usually accredited with the invention of the
 worship of the heavenly bodies, and the existence among them of the
 deluge myth in connection with the constellations is an important fact.
@@ -330,7 +330,7 @@ tangible expression, the material and architectural manifestation, of
 the Chaldaic-Babylonian religion. Serving both as a sanctuary and as an
 observatory for the stars, it agreed admirably with the genius of the
 essentially siderial religion to which it was united by an indissoluble
-bond" <span id="fr_92"></span>[\*](#fn_92)—language which might be used
+bond" <span id="fr_92"></span>[\*](#fn_92.md)—language which might be used
 with exactly the same propriety of the Great Pyramid itself.
 
 That the erection of the Great Pyramid had some connection with the
@@ -338,7 +338,7 @@ constellations is not at all improbable. We have already seen that Mr.
 Proctor prefers the date 3350 B.C. to the later one of 2170 B.C. for the
 building of the pyramid. The latter date would seem, however, to be the
 more probable one. That it was erected during the reign of Cheops <span
-id="fr_93"></span>[†](#fn_93) is almost universally admitted; and,
+id="fr_93"></span>[†](#fn_93.md) is almost universally admitted; and,
 although the time when he reigned has not been satisfactorily
 established, there are grounds for believing it to have been about 2200
 B.C. Prof. C. Piazzi Smyth affirms that
@@ -352,9 +352,9 @@ among Egyptologists, and both of them with an astronomical date of the
 buildings,—can be no other than that two of the kings of the Fourth
 Dynasty of Egyptian history—Shofo and Nu-Shofo by name—lived through a
 period including the epoch of 2170 B.C." <span
-id="fr_94"></span>[\*](#fn_94) It is true that, as Prof. Smyth points
+id="fr_94"></span>[\*](#fn_94.md) It is true that, as Prof. Smyth points
 out, this date differs from that fixed by nearly all modern
-Egyptologists, <span id="fr_95"></span>[†](#fn_95) although it agrees
+Egyptologists, <span id="fr_95"></span>[†](#fn_95.md) although it agrees
 very nearly with the date 2228 B.C., assigned for the commencement of
 the Fourth Dynasty by Mr. Wm. Osburn, the author of the "Monumental
 History of Egypt." It is consistent, moreover, with the chronological
@@ -416,10 +416,10 @@ any other people, and therefore he ascribes to them the honour of having
 invented the astronomical sciences; a conclusion supported, it is said,
 by the fact that the Egyptians regarded their Zodiac, not only as a
 rural and meteorological calendar, but as the base of all their religion
-and of their astronomy. <span id="fr_96"></span>[\*](#fn_96) M.
+and of their astronomy. <span id="fr_96"></span>[\*](#fn_96.md) M.
 Flammarion appears to doubt whether Dupuis has satisfactorily
 established his theory of the origin of the constellations, <span
-id="fr_97"></span>[†](#fn_97) and the date fixed by Mr. Proctor for the
+id="fr_97"></span>[†](#fn_97.md) and the date fixed by Mr. Proctor for the
 formation of the Zodiac is hardly consistent with that theory. It is
 possible, however, that whilst the constellations were formed by the
 Chaldeans long before that date, the zodiacal signs were only then
@@ -434,7 +434,7 @@ the equator, says, "The Great Pyramid, as we know, is about 30 degrees
 north of the Equator; but we also know that its architects travelled
 southwards to find a suitable place for it. One of their objects may
 have been to obtain a fuller view of the star-sphere south of their
-constellations." <span id="fr_98"></span>[\*](#fn_98) This suggestion is
+constellations." <span id="fr_98"></span>[\*](#fn_98.md) This suggestion is
 a very important one, for it assumes that the constellations were formed
 before the erection of the Pyramid, and therefore that the date of the
 latter event cannot have been earlier than that of the former. Mr.
@@ -451,7 +451,7 @@ observation,
 and hence, says Mr. Proctor, "the year 2170 B.C. may very well be
 regarded as defining the introduction of a new system of astronomy, but
 certainly not the beginning of astronomy itself. <span
-id="fr_99"></span>[\*](#fn_99)" That year becomes, however, the date of
+id="fr_99"></span>[\*](#fn_99.md)" That year becomes, however, the date of
 the pyramid itself, and in the suggestion that it was intended to
 commemorate the substitution of the twelve zodiacal signs for the
 twenty-eight lunar mansions, we have a strong confirmation of the
@@ -463,119 +463,119 @@ of the ancient world, and consecrated to his worship.
 
 ### Footnotes
 
-<span id="fn_67"></span>[70:\*](osgp07.htm#fr_67) "Egypt," Vol. iii. p.
+<span id="fn_67"></span>[70:\*](osgp07.htm#fr_67.md) "Egypt," Vol. iii. p.
 427.
 
-<span id="fn_68"></span>[70:†](osgp07.htm#fr_68) "Antiquities," Chap.
+<span id="fn_68"></span>[70:†](osgp07.htm#fr_68.md) "Antiquities," Chap.
 ii. sec. iii.
 
-<span id="fn_69"></span>[71:\*](osgp07.htm#fr_69) Vyse, "Operations,
+<span id="fn_69"></span>[71:\*](osgp07.htm#fr_69.md) Vyse, "Operations,
 etc.," vol. ii. p. 330 *n*.
 
-<span id="fn_70"></span>[71:†](osgp07.htm#fr_70) Ditto, p. 354. See
+<span id="fn_70"></span>[71:†](osgp07.htm#fr_70.md) Ditto, p. 354. See
 Appendix II. for Masoudi's account of the Legend of Surid.
 
-<span id="fn_71"></span>[71:‡](osgp07.htm#fr_71) The Sophia, or Divine
+<span id="fn_71"></span>[71:‡](osgp07.htm#fr_71.md) The Sophia, or Divine
 Wisdom and the Ophis-Christos of the Gnostics, was represented under the
 form of a serpent.—*Matter's* "Histoire Critique du Gnosticisme,"
 Planches II. A. B. c. Matter appears to identify the Ophis with the god
 Kneph, p. 32.
 
-<span id="fn_72"></span>[72:\*](osgp07.htm#fr_72) Siva would seem to be
+<span id="fn_72"></span>[72:\*](osgp07.htm#fr_72.md) Siva would seem to be
 the same deity as Saturn, and possibly therefore as Set (Seth), a fact
 which confirms the serpent character of the last named deity.
 
-<span id="fn_73"></span>[74:\*](osgp07.htm#fr_73) Lenormant "Chaldean
+<span id="fn_73"></span>[74:\*](osgp07.htm#fr_73.md) Lenormant "Chaldean
 Magic and Sorcery" (Eng. trans.), p. 157.
 
-<span id="fn_74"></span>[74:†](osgp07.htm#fr_74) Ditto, p. 158.
+<span id="fn_74"></span>[74:†](osgp07.htm#fr_74.md) Ditto, p. 158.
 
-<span id="fn_75"></span>[74:‡](osgp07.htm#fr_75) Ditto, p. 21.
+<span id="fn_75"></span>[74:‡](osgp07.htm#fr_75.md) Ditto, p. 21.
 
-<span id="fn_76"></span>[74:§](osgp07.htm#fr_76) See the "Journal of
+<span id="fn_76"></span>[74:§](osgp07.htm#fr_76.md) See the "Journal of
 Anthropology," 1870, p. 209, on this point.
 
-<span id="fn_77"></span>[75:\*](osgp07.htm#fr_77) Wilkinson's "Ancient
+<span id="fn_77"></span>[75:\*](osgp07.htm#fr_77.md) Wilkinson's "Ancient
 Egyptians," Vol. iv. p. 413. Mr. Lane states that each quarter of Cairo
 (which was built out of the ruins of Memphis and its tombs), is supposed
 to have its guardian genius or agathodæmon, in the form of a
 serpent.—"Manners and Customs of the Egyptians," Vol. i. p. 289.
 
-<span id="fn_78"></span>[75:†](osgp07.htm#fr_78) "Origine de tous les
+<span id="fn_78"></span>[75:†](osgp07.htm#fr_78.md) "Origine de tous les
 Cultes," Tom. ii. Part 1, p. 165.
 
-<span id="fn_79"></span>[76:\*](osgp07.htm#fr_79) "Mélanges de
+<span id="fn_79"></span>[76:\*](osgp07.htm#fr_79.md) "Mélanges de
 Mythologie et de Linguistique," p. 95.
 
-<span id="fn_80"></span>[77:\*](osgp07.htm#fr_80) The earlier character
+<span id="fn_80"></span>[77:\*](osgp07.htm#fr_80.md) The earlier character
 of this deity is well shown by the remark of Tiele, that the name Sutech
 is an attempt to reproduce in Egyptian form the Semitic divine name,
 Sedeq, "the righteous."—"Outlines of the History of Religion," p. 55.
 
-<span id="fn_81"></span>[77:†](osgp07.htm#fr_81) "Chaldean Magic," p.
+<span id="fn_81"></span>[77:†](osgp07.htm#fr_81.md) "Chaldean Magic," p.
 83.
 
-<span id="fn_82"></span>[78:\*](osgp07.htm#fr_82) "Chaldean Magic," p.
+<span id="fn_82"></span>[78:\*](osgp07.htm#fr_82.md) "Chaldean Magic," p.
 83; Wilkinson, Vol. iv. pp. 395, 435—Apophis, may have given name to
 Papi, and Egyptian king, who lived about a century after Cheops, and
 also to Apepi, or Apappos one of the Hyksos kings; unless the 'Giant'
 Serpent took this title from the former monarch.
 
-<span id="fn_83"></span>[79:\*](osgp07.htm#fr_83) "Chaldean Magic," p.
+<span id="fn_83"></span>[79:\*](osgp07.htm#fr_83.md) "Chaldean Magic," p.
 232.
 
-<span id="fn_84"></span>[79:†](osgp07.htm#fr_84) Tiele, "Outlines of the
+<span id="fn_84"></span>[79:†](osgp07.htm#fr_84.md) Tiele, "Outlines of the
 History of Religions," p. 47; also, "History of the Egyptian Religion,"
 Vol. i. p. 72.
 
-<span id="fn_85"></span>[79:‡](osgp07.htm#fr_85) Dupuis, Tom. iii. p.
+<span id="fn_85"></span>[79:‡](osgp07.htm#fr_85.md) Dupuis, Tom. iii. p.
 255.
 
-<span id="fn_86"></span>[81:\*](osgp07.htm#fr_86) Vyse, "Operations,"
+<span id="fn_86"></span>[81:\*](osgp07.htm#fr_86.md) Vyse, "Operations,"
 etc., Vol. ii. p. 330, and see Appendix II.
 
-<span id="fn_87"></span>[81:†](osgp07.htm#fr_87) "The Ancient
+<span id="fn_87"></span>[81:†](osgp07.htm#fr_87.md) "The Ancient
 Egyptians," Vol. iv. p. 427 n.
 
-<span id="fn_88"></span>[81:‡](osgp07.htm#fr_88) *Knowledge*, Vol. i. p.
+<span id="fn_88"></span>[81:‡](osgp07.htm#fr_88.md) *Knowledge*, Vol. i. p.
 243.
 
-<span id="fn_89"></span>[83:\*](osgp07.htm#fr_89) *Knowledge*, Vol. i.
+<span id="fn_89"></span>[83:\*](osgp07.htm#fr_89.md) *Knowledge*, Vol. i.
 p. 243—Dupuis explains fully the position of the heavens at the date of
 what he terms the "sacred fiction" of the Deluge, Tom. iii. p. 176,
 *seq*.
 
-<span id="fn_90"></span>[83:†](osgp07.htm#fr_90) See Appendix II. for
+<span id="fn_90"></span>[83:†](osgp07.htm#fr_90.md) See Appendix II. for
 the Arabian legend as to the connection between the Deluge and the
 building of the Pyramids.
 
-<span id="fn_91"></span>[84:\*](osgp07.htm#fr_91) "The Nineteenth
+<span id="fn_91"></span>[84:\*](osgp07.htm#fr_91.md) "The Nineteenth
 Century," 1382, p. 236.
 
-<span id="fn_92"></span>[85:\*](osgp07.htm#fr_92) "Chaldean Magic," p.
+<span id="fn_92"></span>[85:\*](osgp07.htm#fr_92.md) "Chaldean Magic," p.
 322.
 
-<span id="fn_93"></span>[85:†](osgp07.htm#fr_93) If Soris was the first
+<span id="fn_93"></span>[85:†](osgp07.htm#fr_93.md) If Soris was the first
 monarch of the Fourth Dynasty, the Great Pyramid may possibly have been
 commenced in his reign, and completed during that of Cheops.
 
-<span id="fn_94"></span>[86:\*](osgp07.htm#fr_94) "Life and Work at the
+<span id="fn_94"></span>[86:\*](osgp07.htm#fr_94.md) "Life and Work at the
 Great Pyramid," Vol. iii. p. 338.
 
-<span id="fn_95"></span>[86:†](osgp07.htm#fr_95) M. Vivien de
+<span id="fn_95"></span>[86:†](osgp07.htm#fr_95.md) M. Vivien de
 Saint-Martin gives 3893 B.C. as the best date for the epoch of
 Menes.—"Nouveau Dict. de Geographie Universelle," Art. *Egypte*.
 
-<span id="fn_96"></span>[89:\*](osgp07.htm#fr_96) "Origine de tous les
+<span id="fn_96"></span>[89:\*](osgp07.htm#fr_96.md) "Origine de tous les
 Cultes," Tom. iii. p. 339.
 
-<span id="fn_97"></span>[89:†](osgp07.htm#fr_97) "Histoire du Ciel," p.
+<span id="fn_97"></span>[89:†](osgp07.htm#fr_97.md) "Histoire du Ciel," p.
 153.
 
-<span id="fn_98"></span>[90:\*](osgp07.htm#fr_98) "Myths," etc., p. 362.
+<span id="fn_98"></span>[90:\*](osgp07.htm#fr_98.md) "Myths," etc., p. 362.
 
-<span id="fn_99"></span>[91:\*](osgp07.htm#fr_99) Ditto, p. 360.
+<span id="fn_99"></span>[91:\*](osgp07.htm#fr_99.md) Ditto, p. 360.
 
 ------------------------------------------------------------------------
 
-[Next: Note](osgp08)
+[Next: Note](osgp08.md)

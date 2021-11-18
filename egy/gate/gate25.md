@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate24)  [Next](gate26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate24)  [Next](gate26.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ upon them."
  
 
 <span id="img_23900"></span> [![](tn/generic.jpg)  
-Click to view](img/23900.jpg)  
+Click to view](img/23900.jpg.md)  
 The Gate of Ab-ta.
 
  
@@ -58,7 +58,7 @@ way by four gods of the Tuat; the god is in the same form as before,
  
 
 <span id="img_24000"></span> [![](tn/generic.jpg)  
-Click to view](img/24000.jpg)  
+Click to view](img/24000.jpg.md)  
 The Boat of Af-Ra in the Ninth Division of the Tuat.
 
  
@@ -82,11 +82,11 @@ Four women, who stand upright, and hold a bent
  
 
 <span id="img_24100"></span> [![](tn/generic.jpg)  
-Click to view](img/24100.jpg)  
+Click to view](img/24100.jpg.md)  
 Gods, goddesses, and apes casting spells on Apep.
 
 <span id="img_24101"></span> [![](tn/generic.jpg)  
-Click to view](img/24101.jpg)  
+Click to view](img/24101.jpg.md)  
 The spearmen.     Aai.  Shesshes and Apep.
 
 rod, or rope, over their heads like the four apes and the six male
@@ -154,7 +154,7 @@ say":--(The speech is wanting).
  
 
 <span id="img_24500"></span> [![](tn/generic.jpg)  
-Click to view](img/24500.jpg)  
+Click to view](img/24500.jpg.md)  
 Gods of the South raising the Standard of the South.
 
  
@@ -176,7 +176,7 @@ the South," and the bearded male figure "he who is over the front end."
  
 
 <span id="img_24600"></span> [![](tn/generic.jpg)  
-Click to view](img/24600.jpg)  
+Click to view](img/24600.jpg.md)  
 Gods of the North raising the Standard of the North.
 
  
@@ -205,7 +205,7 @@ thus quite clear that
  
 
 <span id="img_24700"></span> [![](tn/generic.jpg)  
-Click to view](img/24700.jpg)  
+Click to view](img/24700.jpg.md)  
 Heru-am-uaa with Set-Horus on his back.
 
  
@@ -235,7 +235,7 @@ going to attack the serpent, or to resist him.
 <span id="page_249">p. 249</span>
 
 <span id="img_24900"></span> [![](tn/generic.jpg)  
-Click to view](img/24900.jpg)  
+Click to view](img/24900.jpg.md)  
 The Shemti Serpent and his warder Apu.
 
  
@@ -256,7 +256,7 @@ gods. Possess ye the power of light, O ye gods, by
  
 
 <span id="img_25100"></span> [![](tn/generic.jpg)  
-Click to view](img/25100.jpg)  
+Click to view](img/25100.jpg.md)  
 The Serpents Bata and Tepi and the warder Abeth.
 
  
@@ -316,7 +316,7 @@ followers of Ra."
  
 
 <span id="img_25300"></span> [![](tn/generic.jpg)  
-Click to view](img/25300.jpg)  
+Click to view](img/25300.jpg.md)  
 Two gods with nets.
 
  
@@ -343,7 +343,7 @@ The text which refers to this section of the scene reads:--
  
 
 <span id="img_25500"></span> [![](tn/generic.jpg)  
-Click to view](img/25500.jpg)  
+Click to view](img/25500.jpg.md)  
 The Souls of Ament, and the Followers of Thoth who tow Khepri.
 
  
@@ -353,7 +353,7 @@ The Souls of Ament, and the Followers of Thoth who tow Khepri.
  
 
 <span id="img_25600"></span> [![](tn/generic.jpg)  
-Click to view](img/25600.jpg)  
+Click to view](img/25600.jpg.md)  
 The Followers of Horus and the Followers of Ra who tow Khepri.
 
  
@@ -378,7 +378,7 @@ Appear,
  
 
 <span id="img_25700"></span> [![](tn/generic.jpg)  
-Click to view](img/25700.jpg)  
+Click to view](img/25700.jpg.md)  
 The Serpent Khepri and Horus of the Tuat.
 
  
@@ -404,7 +404,7 @@ The two groups, each containing four beings, "have
  
 
 <span id="img_25800"></span> [![](tn/generic.jpg)  
-Click to view](img/25800.jpg)  
+Click to view](img/25800.jpg.md)  
 The Eight Powers who tow Khepri.
 
  
@@ -419,4 +419,4 @@ thighs of thy mother.'"
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. The Gate of Sethu. The Tenth Division of the
-Tuat.](gate26)
+Tuat.](gate26.md)

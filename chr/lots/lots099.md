@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](lots098)  [Next](lots100) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](lots098)  [Next](lots100.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Lives of the Saints*, by Alban Butler, Benziger Bros. ed. \[1894\], at
 Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ and crucified in hatred of Christ. Five years passed before the body was
 found, when it was buried as a saintly relic in the cathedral
 churchyard. A rose-tree planted hard by flowered miraculously in
 midwinter, and many sick persons were healed at his shrine. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 **Reflection**.—Learn from the infant martyrs that, however weak you may
 be, you still can suffer for Christ's sake.
@@ -64,7 +64,7 @@ be, you still can suffer for Christ's sake.
 
 ### Footnotes
 
-<span id="fn_0"></span>[123:1](lots099.htm#fr_0) It must not be thought
+<span id="fn_0"></span>[123:1](lots099.htm#fr_0.md) It must not be thought
 that these singular and extraordinary instances establish the charge
 that the slaying of Christian children is part of the Jewish ritual.
 This accusation against the Jews has been proved to be false.
@@ -73,6 +73,6 @@ This accusation against the Jews has been proved to be false.
 
 ------------------------------------------------------------------------
 
-[Next: 25. The Annunciation of the Blessed Virgin Mary](lots100)
+[Next: 25. The Annunciation of the Blessed Virgin Mary](lots100.md)
 
 </div>

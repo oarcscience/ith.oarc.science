@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-06in) [Next](dob-07tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-06in) [Next](dob-07tx.md)
 
 ------------------------------------------------------------------------
 
@@ -261,7 +261,7 @@ the body? Or is the soul one thing and the body another?'
 follows:--
 
    \[*Here follows the whole of the exposition given in the
-Sâmañña-Phala Sutta,* [§§ 40-75](dob-02tx.htm#p.%2078)*, that is to
+Sâmañña-Phala Sutta,* [§§ 40-75](dob-02tx.htm#p.%2078.md)*, that is to
 say:*
 
    1. *The appearance of a Buddha and his preaching.*
@@ -357,10 +357,10 @@ theory, the Bhikshu who had only reached up to the *Gh*ânas might, being
 still a puthu*gg*ana, an unconverted man, have leanings that way.
 
 To hold that the soul *is* the same as the body is the heresy referred
-to in the Brahma-*g*âla (above, [p. 46](dob-01tx.htm#p.%2046)). See also
+to in the Brahma-*g*âla (above, [p. 46](dob-01tx.htm#p.%2046).md). See also
 the Introduction to the Kû*t*adanta (above, [p.
-167](dob-05in.htm#p.%20167)).}
+167](dob-05in.htm#p.%20167).md).}
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: VII. *G*âliya Sutta](dob-07tx)
+[Return to top](#top)   [Next: VII. *G*âliya Sutta](dob-07tx.md)

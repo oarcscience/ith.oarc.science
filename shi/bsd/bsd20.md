@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd19)  [Next](bsd21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd19)  [Next](bsd21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -84,7 +84,7 @@ two brave Soga brothers; the dusky urchins listen with gaping mouths
 until the last stick bums out and the fire dies in its embers, still
 leaving their hearts aglow with tale that is told. The clerks and the
 shop boys, after their day's work is over and the *amado* <span
-id="fr_28"></span>[1](#fn_28) of the store are closed, gather together
+id="fr_28"></span>[1](#fn_28.md) of the store are closed, gather together
 to relate the story of Nobunaga and Hidéyoshi far into the night, until
 slumber overtakes their weary eyes and transports them from the drudgery
 of the counter to the exploits of the field. The very babe just
@@ -151,7 +151,7 @@ Strangers seek to scan,
    Say--scenting morn's sunlit air,  
    Blows the cherry wild and fair!"
 
-Yes, the *sakura* <span id="fr_29"></span>[1](#fn_29) has for ages been
+Yes, the *sakura* <span id="fr_29"></span>[1](#fn_29.md) has for ages been
 the favourite of our people and the emblem of our character. Mark
 particularly the terms of definition which the poet uses, the words the
 *wild cherry flower scenting the morning sun*.
@@ -208,11 +208,11 @@ Is the soul of Japan so frailly mortal?
 
 ### Footnotes
 
-<span id="fn_28"></span>[161:1](bsd20.htm#fr_28) Outside shutters.
+<span id="fn_28"></span>[161:1](bsd20.htm#fr_28.md) Outside shutters.
 
-<span id="fn_29"></span>[164:1](bsd20.htm#fr_29) *Cerasus
+<span id="fn_29"></span>[164:1](bsd20.htm#fr_29.md) *Cerasus
 pseudo-cerasus*, Lindley.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Is Bushido Still Alive?](bsd21)
+[Next: Chapter XVI: Is Bushido Still Alive?](bsd21.md)

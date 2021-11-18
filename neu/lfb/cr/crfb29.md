@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb28)  [Next](crfb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb28)  [Next](crfb30.md) 
 
 </div>
 
@@ -403,6 +403,6 @@ mention.
 
 ------------------------------------------------------------------------
 
-[Next: Shepherd Paul](crfb30)
+[Next: Shepherd Paul](crfb30.md)
 
 </div>

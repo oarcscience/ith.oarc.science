@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ams00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ams.txt.gz)
+[Contents](#contents)    [Start Reading](ams00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ams.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -78,12 +78,12 @@ Stone.'
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ams00)  
-[Preface](ams01)  
-[Contents](ams02)  
-[Quotes](ams03)  
-[Plate: The Great Pyramid](ams04)  
-[Lecture First. General Facts and Scientific Features](ams05)  
-[Lecture Second. Modern Discoveries and Biblical Connections](ams06)  
-[Lecture Third. Analysis of Traditions, Opinions, and Results](ams07)  
-[Appendix](ams08)  
+<span id="contents"></span> [Title Page](ams00.md)  
+[Preface](ams01.md)  
+[Contents](ams02.md)  
+[Quotes](ams03.md)  
+[Plate: The Great Pyramid](ams04.md)  
+[Lecture First. General Facts and Scientific Features](ams05.md)  
+[Lecture Second. Modern Discoveries and Biblical Connections](ams06.md)  
+[Lecture Third. Analysis of Traditions, Opinions, and Results](ams07.md)  
+[Appendix](ams08.md)  

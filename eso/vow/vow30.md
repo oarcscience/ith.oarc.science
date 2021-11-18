@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow29)  [Next](vow31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow29)  [Next](vow31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -72,10 +72,10 @@ been any suspension of the divine energies since the commencement of
 their primordial operation. The outflow of Being into Existence is
 unending, otherwise natural generation would cease, and evolution be
 arrested. The secondary creator mentioned in this fragment is the
-Demiourgos, the [fabricator](errata.htm#3) of the material universe.
+Demiourgos, the [fabricator](errata.htm#3.md) of the material universe.
 
 A.K.\]
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](vow31)
+[Next: Part IV](vow31.md)

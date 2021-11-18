@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb13)  [Next](blfb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb13)  [Next](blfb15.md) 
 
 </div>
 
@@ -185,6 +185,6 @@ by day, it grinds on; and that is why the sea is salt.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: The Master Cat; or, Puss in Boots](blfb15)
+[Next: The Master Cat; or, Puss in Boots](blfb15.md)
 
 </div>

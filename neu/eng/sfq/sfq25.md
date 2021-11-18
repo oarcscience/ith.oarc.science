@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq24)  [Next](sfq26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq24)  [Next](sfq26.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ This lady who seemed so good and gentle was, in
 <span id="img_09700"></span>
 
 [![](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)
+Click to enlarge](img/09700.jpg.md)
 
 reality, no other than Duessa (or *Falsehood*), who had formerly led the
 Red Cross Knight into such trouble. Her old companion, Archimago, had
@@ -117,4 +117,4 @@ into which his own hasty nature might have made him fall.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Knight and the Lady](sfq26)
+[Next: The Story of the Knight and the Lady](sfq26.md)

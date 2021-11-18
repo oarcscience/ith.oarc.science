@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag14)  [Next](rag16) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag14)  [Next](rag16.md) 
 
 ------------------------------------------------------------------------
 
@@ -275,4 +275,4 @@ occurred.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Did Man Exist Before The Drift?](rag16)
+[Next: Chapter II. Did Man Exist Before The Drift?](rag16.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos17)  [Next](pos19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos17)  [Next](pos19.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ such was her beauty, grace, and charm that many young Princes strove
 with each other to possess her, till, in order to end their strife, and
 because the power of karma impelled them, they agreed to appoint her
 courtezan. Later on, out of faith in the Master, she built a Vihāra
-[<sup>337</sup>](pos18.htm#120-1) in her own gardens, and handed it over
+[<sup>337</sup>](pos18.htm#120-1.md) in her own gardens, and handed it over
 to him and the Order. And when she had heard her own son, the Elder
 Vimala-Kondañña, preach the Norm, she worked for insight, and studying
 the law of impermanence as illustrated in her own ageing body, she
@@ -134,9 +134,9 @@ Arahantship.
 <span id="121-1"></span>
 
 > <sup>338</sup> Used in its first intention, Truth-speaker. On this,
-> and on the metre, see [Introduction.](pos04.htm#INTRODUCTION) The
+> and on the metre, see [Introduction.](pos04.htm#INTRODUCTION.md) The
 > 'rune' is the Impermanence of everything. *Cf.* Ps
-> [lxiii](pos15.htm#LXIII).
+> [lxiii](pos15.htm#LXIII.md).
 
 <span id="122-1"></span>
 
@@ -185,7 +185,7 @@ his feet in joy and gladness. And when, after many rebirths in heaven
 and on earth in consequence thereof, she had accumulated the conditions
 requisite for emancipation, she was, in this Buddha-era, reborn at
 Vesālī, in the house of a very prosperous brahmin, and named Rohiṇī.
-[<sup>345</sup>](pos18.htm#125-1) Come to years of discretion, she went,
+[<sup>345</sup>](pos18.htm#125-1.md) Come to years of discretion, she went,
 while the Master was staying at Vesālī, to the Vihāra, and heard the
 doctrine. She became a 'Stream-entrant,' and teaching her parents the
 doctrine, and they accepting it, she gained their leave to enter the
@@ -331,11 +331,11 @@ that last verse.
 
 > <sup>349</sup> *I.e.*, she referred him to the true source of the
 > 'weal' he imputed to her. The rest is borrowed from [Ps.
-> lxv.](pos17.htm#LXV)
+> lxv.](pos17.htm#LXV.md)
 
 <span id="128-2"></span>
 
-> <sup>350</sup> *Cf.* [Psalm lxv](pos17.htm#LXV).
+> <sup>350</sup> *Cf.* [Psalm lxv](pos17.htm#LXV.md).
 
 ------------------------------------------------------------------------
 
@@ -346,10 +346,10 @@ good of age-enduring efficacy in this and that rebirth, till she had
 accumulated the sources of good, and matured the conditions for
 emancipation, was, in this Buddha-age, reborn in the Vankahāra country,
 at a certain village of trappers, as the daughter of the chief trapper,
-and named Cāpā. [<sup>351</sup>](pos18.htm#129-1) And at that time
-Upaka, an ascetic, [<sup>352</sup>](pos18.htm#129-2) met the Master as
+and named Cāpā. [<sup>351</sup>](pos18.htm#129-1.md) And at that time
+Upaka, an ascetic, [<sup>352</sup>](pos18.htm#129-2.md) met the Master as
 he was going to Benares, there to set rolling from his Bo-tree throne
-[<sup>353</sup>](pos18.htm#129-3) the Wheel of the Norm, and asked him:
+[<sup>353</sup>](pos18.htm#129-3.md) the Wheel of the Norm, and asked him:
 'You seem, my friend, in perfect health! Clear and pure is your
 complexion. Wherefore have you, friend, left the world? or who may your
 teacher be? or whose doctrine do you believe in?' And he was thus
@@ -369,12 +369,12 @@ answered:
 
 The ascetic, discerning the omniscience and great mission of the Master,
 was comforted in mind, and replied: 'Friend, may these things be! Thou
-art worthy [<sup>354</sup>](pos18.htm#130-1) to be a conqueror, world
+art worthy [<sup>354</sup>](pos18.htm#130-1.md) to be a conqueror, world
 without end!' Then, taking a by-road, he came to the Vankahāra country,
 and abode near the hamlet of the trappers, where the head trapper
 supplied his wants. One day the latter, setting off on a long hunt with
 sons and brothers, bade his daughter not neglect 'the Arahant'
-[<sup>355</sup>](pos18.htm#130-2) in his absence. Now, she was of great
+[<sup>355</sup>](pos18.htm#130-2.md) in his absence. Now, she was of great
 beauty; and Upaka, seeking alms at her home, and captivated by her
 beauty, could not eat, but took his food home, and laid down fasting,
 vowing he would die should he not win Cāpā. After seven days the father
@@ -384,11 +384,11 @@ and rolling over, confessed his plight. The trapper asked if he knew any
 craft, and he answered, 'No;' but offered to fetch their game and sell
 it. The trapper consented, and, giving him a coat, brought him to his
 own home, and gave him his daughter. In due time she had a son, whom
-they called Subhadda. [<sup>356</sup>](pos18.htm#130-3) Cāpā, when the
+they called Subhadda. [<sup>356</sup>](pos18.htm#130-3.md) Cāpā, when the
 baby cried, sang to him: 'Upaka's boy, ascetic's boy, game-dealer's boy,
 don't cry, don't cry!' mocking her husband. And he said at length: 'Do
 not thou, Cāpā, fancy I have none to protect me.
-[<sup>357</sup>](pos18.htm#130-4) I have a friend, even a conqueror
+[<sup>357</sup>](pos18.htm#130-4.md) I have a friend, even a conqueror
 eternal, and to him I will go.' She saw that he was vexed, and teased
 him again and again in the same way, till one day, in anger, he got
 ready to go. She said much, but vainly, to prevent him, and he set out
@@ -404,7 +404,7 @@ lord.' The Master bade a certain Bhikkhu, 'Come, do thou, Bhikkhu,
 ordain him.' And he thereafter exercising and training himself, was soon
 established in the Fruition of the Path-of-No-Return, and thereupon
 died, being reborn in the Aviha heavens.
-[<sup>358</sup>](pos18.htm#131-1) At the moment of that rebirth he
+[<sup>358</sup>](pos18.htm#131-1.md) At the moment of that rebirth he
 attained Arahantship.
 
 Seven have thus attained it, as it has been said.
@@ -572,7 +572,7 @@ And brought to pass the bidding of the Lord. (311)</span></p></td>
 
 > <sup>359</sup> The Commentator explains this intrusion of Nāla, a
 > village 'in Magadha, near the Bo-tree' (of Gayā) (see [Ps.
-> lix.](pos12.htm#LIX)), by saying it was Upaka's native place, and that
+> lix.](pos12.htm#LIX).md), by saying it was Upaka's native place, and that
 > the pair had gone to live there. As he was the trappers' middleman,
 > and therefore in frequent communication with them, this would locate
 > the Vankahāra country in the forests or jungles immediately to the
@@ -612,7 +612,7 @@ this Buddha-age, reborn at Benares as the daughter of Sujāta, a brahmin.
 Because of her perfect form they called her Sundarī (Beauty). When she
 grew up, her younger brother died. Her father, overmastered by grief,
 and going to and fro, met the Therī Vāsiṭṭhī
-[<sup>362</sup>](pos18.htm#135-1) When she asked him what afflicted him,
+[<sup>362</sup>](pos18.htm#135-1.md) When she asked him what afflicted him,
 he answered as in the first two verses. Wishing to allay his grief, she
 spoke the next two verses, and told him of her own griefless state. The
 brahmin asked her: 'How, lady, did you become free from grief
@@ -637,7 +637,7 @@ form and meaning.
 
 Dwelling thereafter in the ease of fruition and the bliss of Nibbana,
 she thought: 'I will utter a Lion's Roar
-[<sup>363</sup>](pos18.htm#136-1) before the Master.' And asking
+[<sup>363</sup>](pos18.htm#136-1.md) before the Master.' And asking
 permission of her teacher, she left Benares, accompanied by a great
 following of Bhikkhunīs, and in due course came to Sāvatthī, did
 obeisance to the Master, and stood on one side. Welcomed by him, she
@@ -802,7 +802,7 @@ And all that drugged their hearts have purged away.' (337)</td>
 
 <span id="135-1"></span>
 
-> <sup>362</sup> See [Ps. li.](pos11.htm#LI)
+> <sup>362</sup> See [Ps. li.](pos11.htm#LI.md)
 
 <span id="136-1"></span>
 
@@ -831,11 +831,11 @@ And all that drugged their hearts have purged away.' (337)</td>
 
 <span id="138-1"></span>
 
-> <sup>366</sup> [Ps. lix.](pos12.htm#LIX) 186.
+> <sup>366</sup> [Ps. lix.](pos12.htm#LIX.md) 186.
 
 <span id="138-2"></span>
 
-> <sup>367</sup> See [Ps. xxii.](pos07.htm#XXII) *n.*
+> <sup>367</sup> See [Ps. xxii.](pos07.htm#XXII.md) *n.*
 
 <span id="138-3"></span>
 
@@ -852,7 +852,7 @@ And all that drugged their hearts have purged away.' (337)</td>
 
 <span id="139-2"></span>
 
-> <sup>370</sup> See verse [349](pos18.htm#349) *n.* Lit., food left
+> <sup>370</sup> See verse [349](pos18.htm#349.md) *n.* Lit., food left
 > over, scraps.
 
 <span id="139-3"></span>
@@ -865,14 +865,14 @@ And all that drugged their hearts have purged away.' (337)</td>
 > compensations. No word is said of the real object of the religious
 > life–the training of the mind and emotions. And salvation here and
 > now—*diṭṭhadhamme anāsavā*—was the goal of those entering the Order.
-> *Cf.* [Ps. lxx.](pos18.htm#LXX) [349](pos18.htm#349), ſſ for the
+> *Cf.* [Ps. lxx.](pos18.htm#LXX) [349](pos18.htm#349.md), ſſ for the
 > *Sister's* point of view. In this Psalm I follow the Commentary, which
 > does not interrupt the little drama with its expositions, but gives
 > them separately.
 
 <span id="140-1"></span>
 
-> <sup>372</sup> *Cf.* [Ps. xlv.](pos10.htm#XLV) [104.](pos10.htm#104)
+> <sup>372</sup> *Cf.* [Ps. xlv.](pos10.htm#XLV) [104.](pos10.htm#104.md)
 
 <span id="140-2"></span>
 
@@ -1060,7 +1060,7 @@ But lord of all things that have life and breath.</span> <a href="pos18.htm#146-
 
 When, on the eighth day after her ordination, she won Arahantship,
 attaining fruition, seated beneath a tree, the Exalted One uttered these
-three verses ([362](pos18.htm#362)-364) in her praises, pointing her out
+three verses ([362](pos18.htm#362)-364.md) in her praises, pointing her out
 to the Brethren. And the last verse was added by them who recited (the
 canon at the Council), to celebrate Sakka's adoration.
 
@@ -1087,12 +1087,12 @@ canon at the Council), to celebrate Sakka's adoration.
 
 <span id="144-2"></span>
 
-> <sup>380</sup> *Cf.* [Ps. lxix.](pos18.htm#LXIX) 329 *n.*
+> <sup>380</sup> *Cf.* [Ps. lxix.](pos18.htm#LXIX.md) 329 *n.*
 
 <span id="144-3"></span>
 
 > <sup>381</sup> I read with the Commentary *mahesihi.* *Cf.* the *te*
-> on next line and [361.](pos18.htm#361)
+> on next line and [361.](pos18.htm#361.md)
 
 <span id="144-4"></span>
 
@@ -1111,11 +1111,11 @@ canon at the Council), to celebrate Sakka's adoration.
 
 <span id="146-2"></span>
 
-> <sup>385</sup> *Mahesino*, as in [350.](pos18.htm#350)
+> <sup>385</sup> *Mahesino*, as in [350.](pos18.htm#350.md)
 
 <span id="146-3"></span>
 
-> <sup>386</sup> See [Ps. lxiv.](pos16.htm#LXIV)
+> <sup>386</sup> See [Ps. lxiv.](pos16.htm#LXIV.md)
 
 <span id="146-4"></span>
 
@@ -1126,4 +1126,4 @@ canon at the Council), to celebrate Sakka's adoration.
 
 ------------------------------------------------------------------------
 
-[Next: Canto XIV. Psalms of About Thirty Verses](pos19)
+[Next: Canto XIV. Psalms of About Thirty Verses](pos19.md)

@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth056)  [Next](toth058) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth056)  [Next](toth058.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 54. THE CHILDREN AND THE LIZARDS. <span id="fr_122"></span>[1](#fn_120)
+## 54. THE CHILDREN AND THE LIZARDS. <span id="fr_122"></span>[1](#fn_120.md)
 
 Alíksai! A long time ago the people lived in Mishóngnovi. There was to
 be a dance in the village of Shongópavi and a man from Wálpi was going
@@ -70,9 +70,9 @@ songs.
 
 ### Footnotes
 
-<span id="fn_120"></span>[175:1](toth057.htm#fr_122) Told by Sik'áhpik'i
+<span id="fn_120"></span>[175:1](toth057.htm#fr_122.md) Told by Sik'áhpik'i
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 55. The Rooster, the Mocking-bird and the Maiden](toth058)
+[Next: 55. The Rooster, the Mocking-bird and the Maiden](toth058.md)

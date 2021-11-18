@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr07)  [Next](wsgr09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr07)  [Next](wsgr09.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ their eyes closed.
 <span id="img_03400"></span>
 
 [![](tn/03400.jpg)  
-Click to enlarge](img/03400.jpg)
+Click to enlarge](img/03400.jpg.md)
 
 <span id="page_35">p. 35</span>
 
@@ -127,4 +127,4 @@ children.
 
 ------------------------------------------------------------------------
 
-[Next: The Woodpecker's Stumpy Tail](wsgr09)
+[Next: The Woodpecker's Stumpy Tail](wsgr09.md)

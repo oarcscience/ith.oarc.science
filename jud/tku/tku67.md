@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku66)  [Next](tku68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku66)  [Next](tku68.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ found, when (*his eyes*) desire to behold the colours; seeing that his
 eyelashes disclose the place (*of sight*) for beholding all the colours.
 
 535\. And if they disclose not the place (*of vision*) the (*eyes*)
-cannot see nor consider. <span id="fr_280"></span>[1](#fn_277)
+cannot see nor consider. <span id="fr_280"></span>[1](#fn_277.md)
 
 536\. But the eyelashes do not remain nor sleep, save in that only
 perfect hour, but they are opened and closed, and again closed and
@@ -161,7 +161,7 @@ RAShITh with the A.
 548\. Hence it remaineth not always in the same condition. What doth
 not? The inferior H, *He*, (*of IHVH*).
 
-549. <span id="fr_281"></span>[1](#fn_278) And concerning that which is
+549. <span id="fr_281"></span>[1](#fn_278.md) And concerning that which is
 supernal it is written, Lam. ii. 1: "He hath cast down MShMIM,
 
 <span id="page_315">p. 315</span>
@@ -177,10 +177,10 @@ black colour, are they covered.
 551\. "From the beginning of the year." What, then, is that place whence
 those eyes of Tetragrammaton behold Jerusalem?
 
-552\. Therefore he <span id="fr_282"></span>[1](#fn_279) hasteneth to
+552\. Therefore he <span id="fr_282"></span>[1](#fn_279.md) hasteneth to
 expound this (*saying immediately*): "From the beginning, MRShITh, of
 the year," which (*word MRShITh* = being written thus), without the
-Aleph, A, <span id="fr_283"></span>[2](#fn_280) symbolizeth judgment;
+Aleph, A, <span id="fr_283"></span>[2](#fn_280.md) symbolizeth judgment;
 for judgment is referred unto that side, although virtually (*the word
 Merashith*) is not judgment.
 
@@ -196,7 +196,7 @@ which is not known.
 RAShITh, *Rashith*, beginning.
 
 556\. But if thou sayest that (*A*) is conjoined herewith, <span
-id="fr_284"></span>[3](#fn_281) truly it is not so, but (*A*) is only
+id="fr_284"></span>[3](#fn_281) truly it is not so, but (*A*.md) is only
 manifested therein and illuminateth it; and in that case only is it
 called RAShITh, *Rashith*, beginning.
 
@@ -208,31 +208,31 @@ would (*denote that it would*) remain for ever.
 
 558\. Hence it is written defectively MRShITh, *Me-Rashith*. Also
 concerning the world to come it is written, Isa. xli. 27: <span
-id="fr_285"></span>[1](tku68.htm#fn_282) "The first shall say to Zion,
+id="fr_285"></span>[1](tku68.htm#fn_282.md) "The first shall say to Zion,
 Behold, behold them," &c.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_277"></span>[313:1](tku67.htm#fr_280) The simple meaning of
+<span id="fn_277"></span>[313:1](tku67.htm#fr_280.md) The simple meaning of
 this and the preceding section is, that the eyes can only see when the
 upper eyelashes are separated from the low ones by the lids being
 raised.
 
-<span id="fn_278"></span>[314:1](tku67.htm#fr_281) In this section
+<span id="fn_278"></span>[314:1](tku67.htm#fr_281.md) In this section
 evidently Shamaim is taken to symbolize the supernal H, *He*.
 
-<span id="fn_279"></span>[315:1](tku67.htm#fr_282) Moses. in this
+<span id="fn_279"></span>[315:1](tku67.htm#fr_282.md) Moses. in this
 passage of Deuteronomy.
 
-<span id="fn_280"></span>[315:2](tku67.htm#fr_283) That is. MRShITh
+<span id="fn_280"></span>[315:2](tku67.htm#fr_283.md) That is. MRShITh
 instead of MRAShITh.
 
-<span id="fn_281"></span>[315:3](tku67.htm#fr_284) That is, irrevocably,
+<span id="fn_281"></span>[315:3](tku67.htm#fr_284.md) That is, irrevocably,
 so that the word would cease to bear the same meaning were A not there.
 in other words, were A a radical letter of it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: Concerning the Nose of Microprosopus](tku68)
+[Next: Chapter XV: Concerning the Nose of Microprosopus](tku68.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm20)  [Next](ssbm22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm20)  [Next](ssbm22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -62,7 +62,7 @@ The spirits of the deceased have often showed fine powers of psychic
 diagnosis of the ills of the living. A friend of mine had a son who
 developed a strange illness while in college. Doctors failed to discover
 the cause, and mother and son went as a last resort to have a sitting
-with a famous medium by the name of [Cayce](errata.htm#7). (See the
+with a famous medium by the name of [Cayce](errata.htm#7.md). (See the
 book, *There Is a River*.) This medium was used by a spirit doctor who
 was responsible for many amazing cures. He made a psychic examination of
 the young man and said that the illness was caused by some fractured
@@ -220,7 +220,7 @@ This shadowy body belonging to the low self is not breakable or subject
 to disease or injury. Theoretically, a leg that has been amputated for
 years could be restored were there a source from which to draw ectoplasm
 which would not need to be returned. If the shadowy body of the low self
-could be injured, heaven would be filled with [cripples](errata.htm#8)
+could be injured, heaven would be filled with [cripples](errata.htm#8.md)
 instead of restored and happy spirit people who have died to find that
 they have left behind all their physical abnormalities.
 
@@ -281,4 +281,4 @@ as a whole, that we overlook such striking opportunities when they come.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXI. How the Kahunas Controlled Winds, Weather and the
-Sharks by Magic](ssbm22)
+Sharks by Magic](ssbm22.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr17)  [Next](arr19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr17)  [Next](arr19.md) 
 
 ------------------------------------------------------------------------
 
@@ -287,4 +287,4 @@ the first place.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](arr19)
+[Next: Conclusion](arr19.md)

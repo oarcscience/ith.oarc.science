@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil11)  [Next](wil13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil11)  [Next](wil13.md) 
 
 ------------------------------------------------------------------------
 
@@ -340,4 +340,4 @@ From ignorance by Thy sweet compassionate Face.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Wheel of Birth and Death](wil13)
+[Next: Chapter XI. The Wheel of Birth and Death](wil13.md)

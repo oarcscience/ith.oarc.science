@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp000) [Next](ycgp002)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp000) [Next](ycgp002.md)
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@
 
 ------------------------------------------------------------------------
 
-[Next](ycgp002)
+[Next](ycgp002.md)

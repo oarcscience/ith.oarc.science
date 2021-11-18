@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac19)  [Next](sac21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac19)  [Next](sac21.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ there are outlying stones—the "quoit," and those in Middle Ham—which
 bear such relations to the circles as to suggest that they too formed
 parts of some general scheme of construction.
 
-From the photograph of the Ordnance map ([Fig. 47](#img_fig47)) it will
+From the photograph of the Ordnance map ([Fig. 47](#img_fig47).md) it will
 be seen, as pointed out by Prof. Lloyd Morgan,
 
 \(1\) That the centre of the great circle, that of the S.W. circle, and
@@ -104,7 +104,7 @@ Mendip, distant some six
 [![Fig. 47.--The Circles and Avenues at Stanton Drew. Photograph of
 25-inch Ordinance map, shewing approximate azimuths of
 sight-lines](tn/fig47.jpg)  
-Click to enlarge](img/fig47.jpg)  
+Click to enlarge](img/fig47.jpg.md)  
 Fig. 47.--The Circles and Avenues at Stanton Drew. Photograph of 25-inch
 Ordinance map, shewing approximate azimuths of sight-lines  
 
@@ -166,7 +166,7 @@ The monuments are not easy to measure, as the centres of the circles are
 not readily determined, as so many of the stones are either absent,
 recumbent or buried.
 
-In my rough reading of the Ordnance map given in [Fig. 47](#img_fig47),
+In my rough reading of the Ordnance map given in [Fig. 47](#img_fig47.md),
 I thought I might be guided by taking centres, such that the avenues
 would be aligned on them as at Stonehenge. I had not then seen the
 Dartmoor avenues, which in some cases are not aligned on the centres. In
@@ -230,7 +230,7 @@ The azimuths as found by Mr. Morrow and myself are as under:
 |----------------------------------------------------------------------------------------|---------------|----------|---------------------------------------|
 |                                                                                        |               |          | Height of horizon. (excluding trees). |
 |                                                                                        | Morrow.       | Lockyer. | Morrow.                               |
-|  <span id="fr_22"></span>[1](#fn_22) From centre of great circle to Hauteville's quoit | N 17° 59´ E.  | 17°      | 2° 23´                                |
+|  <span id="fr_22"></span>[1](#fn_22.md) From centre of great circle to Hauteville's quoit | N 17° 59´ E.  | 17°      | 2° 23´                                |
 | From centre of great circle to N.E. circle                                             | 53° 0´        | 51°      | 1° 5´                                 |
 | Front centre of great circle along great circle avenue                                 | 68° 43´       | 65°      | 0° 38´                                |
 | From centre of N.E. circle along N.E. circle avenue                                    | S. 83° 52´ E. | 79°      | 1° 40´                                |
@@ -272,7 +272,7 @@ and my reading of the 25-inch Ordnance map occurs in the case of the
 direction of the avenue from the great circle. It may be suggested that
 the use of this avenue was to observe the May and August sunrises of the
 May year. If we take the sun's declination at 16° 20´ N., see [p.
-22](sac06.htm#page_22), the azimuth should be about N. 64° E.; this is
+22](sac06.htm#page_22.md), the azimuth should be about N. 64° E.; this is
 1° from my value and 5° from that given by Mr. Morrow, but it must not
 be forgotten that the choice of a day in May and August slightly
 differing from the normal date might easily produce such a variation.
@@ -399,7 +399,7 @@ raised by it.
 
 ### Footnotes
 
-<span id="fn_22"></span>[173:1](sac20.htm#fr_22) With regard to these
+<span id="fn_22"></span>[173:1](sac20.htm#fr_22.md) With regard to these
 values Mr. Morrow writes: "At present Hauteville's quoit is not visible
 from the centre of great circle. If the stone were erect, however, and
 any intervening trees and walls removed, the top of the stone would no
@@ -409,4 +409,4 @@ correct to the nearest minute."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Folklore and Tradition](sac21)
+[Next: Chapter XVIII. Folklore and Tradition](sac21.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw00)  [Next](omw02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw00)  [Next](omw02.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,11 +16,11 @@ Romulus, law-givers, who in a man's lifetime accomplished the long work
 of centuries--were creations of the collective mind. When man craved for
 men-like gods he had his way, Vico showed us, by combining in an
 individual, by incarnating in a single hero, the ideas of a whole cycle
-of centuries. <span id="fr_0"></span>[1](#fn_0) Then came Goethe who
+of centuries. <span id="fr_0"></span>[1](#fn_0.md) Then came Goethe who
 maintained that "the earlier centuries had their ideas in intuitions of
 the fancy, but ours bring them into notions. Then the great views of
 life were brought into shapes, into gods; to-day they are brought into
-notions." <span id="fr_1"></span>[2](#fn_1) In our day, one who loved
+notions." <span id="fr_1"></span>[2](#fn_1.md) In our day, one who loved
 and studied the mythologies of diverse peoples, wrote:
 
 There are two nouns in the Greek language which have a long and
@@ -52,7 +52,7 @@ language and accessories of a particular people, time, and place;
 persons to whom this particular people, with the connected accidents of
 time and place, are familiar and dear, receive the highest enjoyment
 from the myth, and the truth goes with it as the soul with the
-body. <span id="fr_2"></span>[3](#fn_2)
+body. <span id="fr_2"></span>[3](#fn_2.md)
 
 From these sayings of Vico's, of Goethe's, of Jeremiah Curtin's, we
 learn something of the inner significance of mythology. Then we may turn
@@ -68,7 +68,7 @@ statement of a primeval, greater, and more relevant reality, by which
 the present life, fates, and activities of mankind are determined, the
 knowledge of which supplies man with the motive for ritual and moral
 actions, as well as indications of how to perform them." <span
-id="fr_3"></span>[4](#fn_3)
+id="fr_3"></span>[4](#fn_3.md)
 
 This statement gives us a definition: mythology is made up of stories
 regarded as sacred that form an integral and active part of a culture.
@@ -82,7 +82,7 @@ tell such a story. "The primitive forms of civilization, so gross and so
 barbaric, lay forgotten, or but little regarded, or misunderstood, until
 that new phase of the European spirit, which was known as romanticism or
 restoration, 'sympathized' with them--that is to say, recognized them as
-its own proper present interest." <span id="fr_4"></span>[5](#fn_4) So
+its own proper present interest." <span id="fr_4"></span>[5](#fn_4.md) So
 Benedetto Croce writes, and I use his sentence to indicate the limits of
 our reach with regard to stories from the mythologies of the world;
 
@@ -96,18 +96,18 @@ to-day.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](omw01.htm#fr_0) Michelet's Introduction
+<span id="fn_0"></span>[vii:1](omw01.htm#fr_0.md) Michelet's Introduction
 to *La Scienza Nuova*.
 
-<span id="fn_1"></span>[vii:2](omw01.htm#fr_1) Letter to Reimer.
+<span id="fn_1"></span>[vii:2](omw01.htm#fr_1.md) Letter to Reimer.
 
-<span id="fn_2"></span>[viii:3](omw01.htm#fr_2) Jeremiah Curtin: Myths
+<span id="fn_2"></span>[viii:3](omw01.htm#fr_2.md) Jeremiah Curtin: Myths
 and Folklore of Ireland. Boston, Little, Brown & Co.
 
-<span id="fn_3"></span>[viii:4](omw01.htm#fr_3) *Ibid*.
+<span id="fn_3"></span>[viii:4](omw01.htm#fr_3.md) *Ibid*.
 
-<span id="fn_4"></span>[viii:5](omw01.htm#fr_4) On History.
+<span id="fn_4"></span>[viii:5](omw01.htm#fr_4.md) On History.
 
 ------------------------------------------------------------------------
 
-[Next: Egyptian Mythology](omw02)
+[Next: Egyptian Mythology](omw02.md)

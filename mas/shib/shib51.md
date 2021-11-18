@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib50)  [Next](shib52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib50)  [Next](shib52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ hall.
 
 <span id="img_18400"></span> <span align="CENTER"> [![ARRAY OF THE
 HALL.](tn/18400.jpg)  
-Click to enlarge](img/18400.jpg)  
+Click to enlarge](img/18400.jpg.md)  
 ARRAY OF THE HALL.  
 </span>
 
@@ -43,7 +43,7 @@ each table should be three tall tapers, all burning.
 
 The Catafalque is properly shaped thus (end view):
 
-<span id="img_18401"></span> ![Catafalque end view](img/18401.jpg)
+<span id="img_18401"></span> ![Catafalque end view](img/18401.jpg.md)
 
 <span id="page_185">p. 185</span>
 
@@ -427,4 +427,4 @@ class="smallcaps">Amen</span>.
 
 ------------------------------------------------------------------------
 
-[Next: The Christmas Observance](shib52)
+[Next: The Christmas Observance](shib52.md)

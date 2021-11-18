@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index) 
-[Index](index)  [Previous](ael12)  [Next](ael14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index.md) 
+[Index](index)  [Previous](ael12)  [Next](ael14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Egyptian Legends*, by M. A. Murray, \[1920\], at Intangible
 Textual Heritage
 
@@ -156,4 +156,4 @@ destroys pain, and by her power she awakes the dead.
 
 ------------------------------------------------------------------------
 
-[Next: XI: The Regions of Night and Thick Darkness](ael14)
+[Next: XI: The Regions of Night and Thick Darkness](ael14.md)

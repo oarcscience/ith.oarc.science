@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku56)  [Next](tku58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku56)  [Next](tku58.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 ### CONCERNING THE EYES OF THE MOST HOLY ANCIENT ONE.
 
 113\. THE eyes of the Head of the Most Holy Ancient One are two in
-one, <span id="fr_227"></span>[1](#fn_225) equal, which ever watch, and
+one, <span id="fr_227"></span>[1](#fn_225.md) equal, which ever watch, and
 sleep not.
 
 114\. Like as it is written, Ps. cxxi. 4: "The Keeper of Israel neither
@@ -65,7 +65,7 @@ may be established, are all inferiors. For were it not so, they could
 not be established.
 
 130\. And therefore is the Holy Name <span
-id="fr_228"></span>[1](#fn_226) alike concealed and manifest.
+id="fr_228"></span>[1](#fn_226.md) alike concealed and manifest.
 
 131\. For that which is concealed pertaineth unto the Most Holy Ancient
 One, the Concealed in all things.
@@ -83,7 +83,7 @@ Holy Ancient One.
 135\. Wherefore do they hang behind? For the purpose of establishing the
 Inferior Yod. (Otherwise, assuredly from the Skull, from the Forehead,
 from the Eyes, do they depend. And the Yod Maternal <span
-id="fr_229"></span>[2](#fn_227) dependeth towards the Inferior Yod.)
+id="fr_229"></span>[2](#fn_227) dependeth towards the Inferior Yod..md)
 
 <span id="page_273">p. 273</span>
 
@@ -91,21 +91,21 @@ id="fr_229"></span>[2](#fn_227) dependeth towards the Inferior Yod.)
 
 ### Footnotes
 
-<span id="fn_225"></span>[271:1](tku57.htm#fr_227) The Duad equated in
+<span id="fn_225"></span>[271:1](tku57.htm#fr_227.md) The Duad equated in
 the Monad. Compare what I have previously remarked concerning the
 profile symbolism of Macroprosopus.
 
-<span id="fn_226"></span>[272:1](tku57.htm#fr_228) The student will
+<span id="fn_226"></span>[272:1](tku57.htm#fr_228.md) The student will
 observe throughout the Qabalah that great stress is laid on the power of
 names, which arises from the fact that each qabalistical name is the
 synthesis of a power. Hence to "pronounce that name" is to use that
 power.
 
-<span id="fn_227"></span>[272:2](tku57.htm#fr_229) The word I have
+<span id="fn_227"></span>[272:2](tku57.htm#fr_229.md) The word I have
 translated "Maternal" is AMH, *Amah*, with a double *Kametz* point.
 Rosenroth renders it "*Yod Membri*."
 
 ------------------------------------------------------------------------
 
 [Next: Chapter V: Concerning the Nose of the Most Holy Ancient
-One](tku58)
+One](tku58.md)

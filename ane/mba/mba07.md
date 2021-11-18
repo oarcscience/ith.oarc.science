@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba06)  [Next](mba08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba06)  [Next](mba08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -80,7 +80,7 @@ Semitic Akkadians adopted the distinctive culture of
 
 <span id="img_00200"></span> <span align="CENTER"> [![EXAMPLES OF RACIAL
 TYPES&lt;br&gt; From a drawing by E. Wallcousins](tn/00200.jpg)  
-Click to enlarge](img/00200.jpg)  
+Click to enlarge](img/00200.jpg.md)  
 EXAMPLES OF RACIAL TYPES  
 From a drawing by E. Wallcousins  
 </span>
@@ -144,7 +144,7 @@ pointed chins and sometimes grow short side whiskers to increase the
 distinctive pear-shape which is given to their faces by their prominent
 temples. In contrast, their neighbours, the Andalusians, grow chin
 whiskers to broaden their already rounded chins, and to distinguish them
-markedly from the Basques. <span id="fr_11"></span>[1](#fn_11) Another
+markedly from the Basques. <span id="fr_11"></span>[1](#fn_11.md) Another
 example of similar character is afforded in Asia Minor, where the skulls
 of the children of long-headed Kurds are narrowed, and those of the
 children of broad-headed Armenians made flatter behind as a result of
@@ -204,7 +204,7 @@ graves for over sixty centuries. This material has been carefully
 examined, and has yielded, among other things, husks of barley and
 millet, and fragments of mammalian bones, including those, no doubt, of
 the domesticated sheep and goats and cattle painted on the
-pottery. <span id="fr_12"></span>[1](#fn_12) It is therefore apparent
+pottery. <span id="fr_12"></span>[1](#fn_12.md) It is therefore apparent
 that at an extremely remote period a knowledge of agriculture extended
 throughout Egypt, and we have no reason for supposing that it was not
 shared by the contemporary inhabitants of Sumer.
@@ -230,7 +230,7 @@ because such a country as Sumer is no more favourable to the
 preservation of such evidence than is the Delta of the Nile, but also
 upon the more general grounds that negative statements of this sort
 cannot be assigned a positive evidence for an immigration." <span
-id="fr_13"></span>[1](#fn_13) This distinguished ethnologist is frankly
+id="fr_13"></span>[1](#fn_13.md) This distinguished ethnologist is frankly
 of opinion that the Sumerians were the congeners of the pre-Dynastic
 Egyptians of the Mediterranean or Brown race, the eastern branch of
 which reaches to India and the western to the British Isles and Ireland.
@@ -251,7 +251,7 @@ on that famous island. But even more remarkable is the fact that the
 distinctive racial type which occupied the Palæolithic caves of the
 Dordogne valley in France continues to survive in their vicinity after
 an interval of over twenty thousand years. <span
-id="fr_14"></span>[1](#fn_14) It is note-worthy, therefore, to find that
+id="fr_14"></span>[1](#fn_14.md) It is note-worthy, therefore, to find that
 in south-western Asia at the present day one particular racial type
 predominates over all others. Professor Ripley, who summarizes a
 considerable mass of data in this connection, refers to it as the
@@ -267,12 +267,12 @@ peoples, but the Ancient Egyptians and the Phœnicians also have been
 traced to the same source. By far the largest portion of this part of
 Western Asia is inhabited by this eastern branch of the Mediterranean
 race." The broad-headed type "occurs sporadically among a few ethnic
-remnants in Syria and Mesopotamia". <span id="fr_15"></span>[2](#fn_15)
+remnants in Syria and Mesopotamia". <span id="fr_15"></span>[2](#fn_15.md)
 
 The exhaustive study of thousands of ancient crania in London and
 Cambridge collections has shown that Mediterranean peoples, having alien
 traits, the result of early admixture, were distributed between Egypt
-and the Punjab. <span id="fr_16"></span>[3](#fn_16) Where blending took
+and the Punjab. <span id="fr_16"></span>[3](#fn_16.md) Where blending took
 place, the early type,
 
 <span id="page_9">p. 9</span>
@@ -287,7 +287,7 @@ Some of the plump figures of the later period suggest, however, "the
 particular alien strain" which in Egypt and elsewhere "is always
 associated with a tendency to the development of fat", in contrast to
 "the lean and sinewy appearance of most representatives of the Brown
-race". <span id="fr_17"></span>[1](#fn_17) This change may be accounted
+race". <span id="fr_17"></span>[1](#fn_17.md) This change may be accounted
 for by the presence of the Semites in northern Babylonia.
 
 Whence, then, came these invading Semitic Akkadians of Jewish type? It
@@ -318,7 +318,7 @@ where they mingled with the southward-migrating Armenoid peoples from
 Asia Minor." This blend of Arabs, kinsmen of the proto-Egyptians and
 Armenoids, would then form the big-nosed, long-bearded Semites, so
 familiar not only on the ancient Babylonian and Egyptian monuments, but
-also in the modern Jews." <span id="fr_18"></span>[1](#fn_18) Such a
+also in the modern Jews." <span id="fr_18"></span>[1](#fn_18.md) Such a
 view is in accord with Dr. Hugo Winckler's contention that the flow of
 Arabian migrations was northwards towards Syria ere it swept through
 Mesopotamia. It can scarcely be supposed that these invasions of settled
@@ -342,10 +342,10 @@ Macalister, the well-known Palestinian
 
 authority, "were occupied by a non-Semitic people of low stature, with
 thick skulls and showing evidence of the great muscular strength that is
-essential to savage life". <span id="fr_19"></span>[1](#fn_19) These
+essential to savage life". <span id="fr_19"></span>[1](#fn_19.md) These
 people are generally supposed to be representatives of the Mediterranean
 race, which Sergi has found to have been widely distributed throughout
-Syria and a part of Asia Minor. <span id="fr_20"></span>[2](#fn_20) An
+Syria and a part of Asia Minor. <span id="fr_20"></span>[2](#fn_20.md) An
 interesting problem, however, is raised by the fact that, in one of the
 caves, there are evidences that the dead were cremated. This was not a
 Mediterranean custom, nor does it appear to have prevailed outside the
@@ -360,7 +360,7 @@ formed the great Hittite confederacy. These Armenoids were moving
 southwards at the very dawn of Egyptian history, and nothing is known of
 their conquests and settlements. Their pioneers, who were probably
 traders, appear to have begun to enter the Delta region before the close
-of the Late Stone Age. <span id="fr_21"></span>[3](#fn_21) The earliest
+of the Late Stone Age. <span id="fr_21"></span>[3](#fn_21.md) The earliest
 outpourings of migrating Arabians may have been in progress about the
 same time. This early southward drift of Armenoids might account for the
 presence in southern Palestine, early in the Copper Age, of the tall
@@ -369,10 +369,10 @@ broken only by the Hebrew
 
 <span id="page_12">p. 12</span>
 
-invaders". <span id="fr_22"></span>[1](#fn_22) Joshua drove them out of
-Hebron, <span id="fr_23"></span>[2](#fn_23) in the neighbourhood of
+invaders". <span id="fr_22"></span>[1](#fn_22.md) Joshua drove them out of
+Hebron, <span id="fr_23"></span>[2](#fn_23.md) in the neighbourhood of
 which Abraham had purchased a burial cave from Ephron, the
-Hittite. <span id="fr_24"></span>[3](#fn_24) Apparently a system of land
+Hittite. <span id="fr_24"></span>[3](#fn_24.md) Apparently a system of land
 laws prevailed in Palestine at this early period. It is of special
 interest for us to note that in Abraham's day and afterwards, the landed
 proprietors in the country of the Rephaim were identified with the
@@ -403,7 +403,7 @@ Sumerian city states at war with one another and taken
 <span id="img_01200"></span> <span align="CENTER"> [![STATUE OF A ROYAL
 PERSONAGE OR OFFICIAL OF NON-SEMITIC ORIGIN&lt;br&gt; (&lt;i&gt;British
 Museum&lt;/i&gt;)&lt;br&gt; Photo. Mansell](tn/01200.jpg)  
-Click to enlarge](img/01200.jpg)  
+Click to enlarge](img/01200.jpg.md)  
 STATUE OF A ROYAL PERSONAGE OR OFFICIAL OF NON-SEMITIC ORIGIN  
 (*British Museum*)  
 Photo. Mansell  
@@ -523,7 +523,7 @@ of Egypt and Crete, reverenced and exalted motherhood in social and
 religious life. Women were accorded a legal status and marriage laws
 were promulgated by the State. Wives could possess private property in
 their own right, as did the Babylonian Sarah, wife of Abraham, who owned
-the Egyptian slave Hagar. <span id="fr_25"></span>[1](#fn_25) A woman
+the Egyptian slave Hagar. <span id="fr_25"></span>[1](#fn_25.md) A woman
 received from her parents a marriage dowry, and in the event of
 separation from her husband she could claim its full value. Some
 spinsters, or wives, were accustomed to enter into business partnerships
@@ -543,7 +543,7 @@ were not rigidly excluded from official life. Dungi II, an early
 Sumerian king, appointed two of his daughters as rulers of conquered
 cities in Syria and Elam. Similarly Shishak, the Egyptian Pharaoh,
 handed over the city of Gezer, which he had subdued, to his daughter,
-Solomon's wife. <span id="fr_26"></span>[1](#fn_26) In the religious
+Solomon's wife. <span id="fr_26"></span>[1](#fn_26.md) In the religious
 life of ancient Sumeria the female population exercised an undoubted
 influence, and in certain temples there were priestesses. The oldest
 hymns give indication of the respect shown to women by making reference
@@ -683,50 +683,50 @@ Ishtar the peerless daughter of the moon!
 
 ### Footnotes
 
-<span id="fn_11"></span>[4:1](mba07.htm#fr_11) *The Races of Europe*, W.
+<span id="fn_11"></span>[4:1](mba07.htm#fr_11.md) *The Races of Europe*, W.
 Z. Ripley, p. 203.
 
-<span id="fn_12"></span>[6:1](mba07.htm#fr_12) *The Ancient Egyptians*,
+<span id="fn_12"></span>[6:1](mba07.htm#fr_12.md) *The Ancient Egyptians*,
 by Elliot Smith, p. 41 *et seq*.
 
-<span id="fn_13"></span>[7:1](mba07.htm#fr_13) *The Ancient Egyptians*,
+<span id="fn_13"></span>[7:1](mba07.htm#fr_13.md) *The Ancient Egyptians*,
 p. 140.
 
-<span id="fn_14"></span>[8:1](mba07.htm#fr_14) *Crete the Forerunner of
+<span id="fn_14"></span>[8:1](mba07.htm#fr_14.md) *Crete the Forerunner of
 Greece*, C. H. and H. B. Hawes, 1911, p. 23 *et seq*.
 
-<span id="fn_15"></span>[8:2](mba07.htm#fr_15) *The Races of Europe*, W.
+<span id="fn_15"></span>[8:2](mba07.htm#fr_15.md) *The Races of Europe*, W.
 Z. Ripley, p. 443 *et seq*.
 
-<span id="fn_16"></span>[8:3](mba07.htm#fr_16) *The Ancient Egyptians*,
+<span id="fn_16"></span>[8:3](mba07.htm#fr_16.md) *The Ancient Egyptians*,
 pp. 144-5.
 
-<span id="fn_17"></span>[9:1](mba07.htm#fr_17) *The Ancient Egyptians*,
+<span id="fn_17"></span>[9:1](mba07.htm#fr_17.md) *The Ancient Egyptians*,
 p. 114.
 
-<span id="fn_18"></span>[10:1](mba07.htm#fr_18) *The Ancient Egyptians*,
+<span id="fn_18"></span>[10:1](mba07.htm#fr_18.md) *The Ancient Egyptians*,
 p. 136.
 
-<span id="fn_19"></span>[11:1](mba07.htm#fr_19) *A History of
+<span id="fn_19"></span>[11:1](mba07.htm#fr_19.md) *A History of
 Palestine*, R. A. S. Macalister, pp. 8-16.
 
-<span id="fn_20"></span>[11:2](mba07.htm#fr_20) *The Mediterranean Race*
+<span id="fn_20"></span>[11:2](mba07.htm#fr_20.md) *The Mediterranean Race*
 (1901 trans.), G. Sergi, p. 146 *et seq*.
 
-<span id="fn_21"></span>[11:3](mba07.htm#fr_21) *The Ancient Egyptians*,
+<span id="fn_21"></span>[11:3](mba07.htm#fr_21.md) *The Ancient Egyptians*,
 p. 130.
 
-<span id="fn_22"></span>[12:1](mba07.htm#fr_22) *A History of
+<span id="fn_22"></span>[12:1](mba07.htm#fr_22.md) *A History of
 Civilization in Palestine*, p. 20 *et seq*.
 
-<span id="fn_23"></span>[12:2](mba07.htm#fr_23) *Joshua*, xi. 21.
+<span id="fn_23"></span>[12:2](mba07.htm#fr_23.md) *Joshua*, xi. 21.
 
-<span id="fn_24"></span>[12:3](mba07.htm#fr_24) *Genesis*, xxiii.
+<span id="fn_24"></span>[12:3](mba07.htm#fr_24.md) *Genesis*, xxiii.
 
-<span id="fn_25"></span>[16:1](mba07.htm#fr_25) *Genesis*, xvi. 8, 9.
+<span id="fn_25"></span>[16:1](mba07.htm#fr_25.md) *Genesis*, xvi. 8, 9.
 
-<span id="fn_26"></span>[17:1](mba07.htm#fr_26) *1 Kings*, xvi. 16.
+<span id="fn_26"></span>[17:1](mba07.htm#fr_26.md) *1 Kings*, xvi. 16.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Land of Rivers and the God of the Deep](mba08)
+[Next: Chapter II. The Land of Rivers and the God of the Deep](mba08.md)

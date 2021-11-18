@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft04)  [Next](pft06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft04)  [Next](pft06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,27 +33,27 @@ Dinawagen, the mother of Gawigawen, took her hat which looked like a
 sunbeam and set out at once for Nalpangan; and when she arrived there
 she was greeted by Ebang, the mother of the lovely maiden, who presently
 began to prepare food for them.  <span
-id="fr_15"></span>[16](pft68.htm#fn_15)
+id="fr_15"></span>[16](pft68.htm#fn_15.md)
 
 She put the pot over the fire, and when the water boiled she broke up a
 stick and threw the pieces into the pot, and immediately they became
 fish. Then she brought basi  <span
-id="fr_16"></span>[17](pft68.htm#fn_16) in a large jar, and Dinawagen,
+id="fr_16"></span>[17](pft68.htm#fn_16.md) in a large jar, and Dinawagen,
 counting the notches in the rim,  <span
-id="fr_17"></span>[18](pft68.htm#fn_17) perceived that the jar had been
+id="fr_17"></span>[18](pft68.htm#fn_17.md) perceived that the jar had been
 handed down through nine generations. They ate and drank together, and
 after they had finished the meal, Dinawagen told Aponibalagen of her
 son's wishes, and asked if he was willing that his sister should marry
 Gawigawen. Aponibalagen, who had heard of the power of the suitor, at
 once gave his consent. And Dinawagen departed for home, leaving a gold
 cup as an engagement present.  <span
-id="fr_18"></span>[19](pft68.htm#fn_18)
+id="fr_18"></span>[19](pft68.htm#fn_18.md)
 
 Gawigawen was watching at the door of his house for his mother's return,
 and when she told him of her success, he was so happy that he asked all
 the people in the town to go with him the next day to Nalpangan to
 arrange the amount he must pay for his bride.  <span
-id="fr_19"></span>[20](pft68.htm#fn_19)
+id="fr_19"></span>[20](pft68.htm#fn_19.md)
 
 Now the people of Nalpangan wanted a great price for this girl who was
 so beautiful, and the men of the two towns debated for a long time
@@ -61,7 +61,7 @@ before they could come to an agreement. Finally, however, it was decided
 that Gawigawen should fill the spirit house eighteen times with valuable
 things; and when he had done this, they were all satisfied and went to
 the yard where they danced and beat on the copper gongs.  <span
-id="fr_20"></span>[21](pft68.htm#fn_20) All the pretty girls danced
+id="fr_20"></span>[21](pft68.htm#fn_20.md) All the pretty girls danced
 their best, and one who wore big jars about her neck made more noise
 than the others as she danced, and the jars sang "Kitol, kitol, kanitol;
 inka, inka, inkatol."
@@ -86,7 +86,7 @@ man, for I want to make a spring for Aponibolinayen."
 
 So an old man was brought and Aponibalagen cut off his head and put it
 in the ground, and sparkling water bubbled up.  <span
-id="fr_21"></span>[22](pft68.htm#fn_21) The body he made into a tree to
+id="fr_21"></span>[22](pft68.htm#fn_21.md) The body he made into a tree to
 shade his sister when she came to dip water, and the drops of blood as
 they touched the ground were changed into valuable beads. Even the path
 from the spring to the house was covered with big plates, and everything
@@ -102,7 +102,7 @@ and when her mother-in-law commanded her to cook she had to feel her way
 around, for she would not uncover her face. Finally she became so sad
 that she determined to run away. One night when all were asleep, she
 used magical power and changed herself into oil.  <span
-id="fr_22"></span>[23](pft68.htm#fn_22) Then she slid through the bamboo
+id="fr_22"></span>[23](pft68.htm#fn_22.md) Then she slid through the bamboo
 floor and made her escape without anyone seeing her.
 
 On and on she went until she came to the middle of the jungle, and then
@@ -114,7 +114,7 @@ three noses and I do not want to live with him."
 "Oh," said the rooster, "some crazy person must have told you that. Do
 not believe it. Gawigawen is a handsome man, for I have often seen him
 when he comes here to snare chickens."  <span
-id="fr_23"></span>[24](pft68.htm#fn_23)
+id="fr_23"></span>[24](pft68.htm#fn_23.md)
 
 But Aponibolinayen paid no heed to the rooster, and she went on until
 she reached a big tree where perched a monkey, and he also asked where
@@ -129,7 +129,7 @@ must have wanted to marry him herself, for he is a handsome man."
 Still Aponibolinayen went on until she came to the ocean, and then, as
 she could go no farther, she sat down to rest. As she sat there
 pondering what she should do, a carabao  <span
-id="fr_24"></span>[25](pft68.htm#fn_24) came along, and thinking that
+id="fr_24"></span>[25](pft68.htm#fn_24.md) came along, and thinking that
 she would ride a while she climbed up on its back. No sooner had she
 done so than the animal plunged into the water and swam with her until
 they reached the other side of the great ocean.
@@ -141,7 +141,7 @@ and told him of the beautiful girl.
 
 Kadayadawan was very much interested and quickly combed his hair and
 oiled it, put on his striped coat  <span
-id="fr_25"></span>[26](pft68.htm#fn_25) and belt, and went with the
+id="fr_25"></span>[26](pft68.htm#fn_25.md) and belt, and went with the
 carabao to the orange tree. Aponibolinayen, looking down from her place
 in the tree, was surprised to see a man coming with her friend, the
 carabao, but as they drew near, she began talking with him, and soon
@@ -152,8 +152,8 @@ his bride.
 
 After they had been married for some time, Kadayadawan and
 Aponibolinayen decided to make a ceremony  <span
-id="fr_26"></span>[27](pft68.htm#fn_26) for the spirits, so they called
-the magic betel-nuts  <span id="fr_27"></span>[28](pft68.htm#fn_27) and
+id="fr_26"></span>[27](pft68.htm#fn_26.md) for the spirits, so they called
+the magic betel-nuts  <span id="fr_27"></span>[28](pft68.htm#fn_27.md) and
 oiled them and said to them,
 
 "Go to all the towns and invite our relatives to come to the ceremony
@@ -187,7 +187,7 @@ carried across by the nuts.
 
 As soon as they reached the town the dancing began, and while Gawigawen
 was dancing with Aponibolinayen he seized her and put her in his belt.
- <span id="fr_28"></span>[29](pft68.htm#fn_28) Kadayadawan, who saw
+ <span id="fr_28"></span>[29](pft68.htm#fn_28.md) Kadayadawan, who saw
 this, was so angry that he threw his spear and killed Gawigawen. Then
 Aponibolinayen escaped and ran into the house, and her husband brought
 his victim back to life, and asked him why he had seized the wife of his
@@ -205,4 +205,4 @@ Kadayadawan gave them a golden house in which to live.
 
 ------------------------------------------------------------------------
 
-[Next: Gawigawen of Adasen](pft06)
+[Next: Gawigawen of Adasen](pft06.md)

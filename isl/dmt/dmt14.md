@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt13)  [Next](dmt15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt13)  [Next](dmt15.md) 
 
 ------------------------------------------------------------------------
 
@@ -652,4 +652,4 @@ the year of his death.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](dmt15)
+[Next: Chapter VI](dmt15.md)

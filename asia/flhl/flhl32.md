@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl31)  [Next](flhl33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl31)  [Next](flhl33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Hanauer \[1907\], at Intangible Textual Heritage
 
 ### VII
 
-#### NURSERY TALES <span id="fr_114"></span>[1](#fn_113)
+#### NURSERY TALES <span id="fr_114"></span>[1](#fn_113.md)
 
 ALLAH had given a certain woman seven sons, and she was very thankful
 for them, but for all that she longed to have a daughter and asked Allah
@@ -25,7 +25,7 @@ to let her have one. One day, as she was passing through the market, she
 saw some fair, white goat's milk cheese exposed for sale; and the sight
 so moved her that she exclaimed, "O my Lord! O Allah! Give me, I
 entreat, a daughter as white and lovely as this cheese, and I will call
-her "Ijbeyneh." <span id="fr_115"></span>[2](#fn_114) Her prayer was
+her "Ijbeyneh." <span id="fr_115"></span>[2](#fn_114.md) Her prayer was
 heard, and in due time she became the mother of a beautiful girl with a
 complexion like goats’ milk cheese, the neck of a gazelle, blue eyes,
 black hair, and a rose on either cheek. The child was named "Ijbeyneh"
@@ -37,9 +37,9 @@ request, took her with them on
 
 <span id="page_215">p. 215</span>
 
-an excursion into the forest, <span id="fr_116"></span>[1](#fn_115)
+an excursion into the forest, <span id="fr_116"></span>[1](#fn_115.md)
 where they were in the habit of going in order to pick the fruit of the
-"Za’rûr." <span id="fr_117"></span>[2](#fn_116) The child, having filled
+"Za’rûr." <span id="fr_117"></span>[2](#fn_116.md) The child, having filled
 her square linen head-veil ("tarbì’ah"), with the berries, laid it at
 the foot of a tree and wandered picking flowers. When she returned to
 the place where she had left her head-veil, she found bad berries
@@ -71,7 +71,7 @@ them:
 O greet ye my mother and father,  
 Tell them that Ijbeyneh, the dear one,  
 Keeps sheep upon the high mountain." <span
-id="fr_118"></span>[1](#fn_117)</span>
+id="fr_118"></span>[1](#fn_117.md)</span>
 
 </div>
 
@@ -106,13 +106,13 @@ the sultan saw and married her.
  
 
 There once was a clever man named Uhdey-dûn who lived in a strong
-castle <span id="fr_119"></span>[1](#fn_118) on the top of a steep rock.
-He was at [enmity](errata.htm#5) with a dreadful ghûleh, who devastated
+castle <span id="fr_119"></span>[1](#fn_118.md) on the top of a steep rock.
+He was at [enmity](errata.htm#5.md) with a dreadful ghûleh, who devastated
 the country and lived with her three daughters in a gloomy cave in a
 wady near the desert. In those days fire-arms were unknown, and so
 Uhdey-dûn could not shoot either the ghûleh or her children, but he had
 a sharp hatchet and long packing needle <span
-id="fr_120"></span>[2](#fn_119) as well as other things. The ghûleh had
+id="fr_120"></span>[2](#fn_119.md) as well as other things. The ghûleh had
 nothing but a copper cauldron in which she cooked the food for herself
 and her children. But they very often did not take the trouble to cook,
 but ate their food raw, and as they had no knife, they used to tear the
@@ -127,7 +127,7 @@ that she could change her form at will.
 Well, one day the ghûleh came in the guise of an old woman to the foot
 of the rock on which Uhdey-dûn's house stood, and called out: "O
 Uhdey-dûn, my uncle, won't you accompany me to the forest <span
-id="fr_121"></span>[1](#fn_120) to-morrow that we may get some wood?"
+id="fr_121"></span>[1](#fn_120.md) to-morrow that we may get some wood?"
 Now Uhdey-dûn was sharp and he knew that if the ghûleh got hold of him
 all alone she would kill and eat him. So, not to offend her, he
 answered, "Do not take the trouble to come here for me, for I will meet
@@ -202,7 +202,7 @@ that it hit her on the forehead and cut it so
 
 that the blood began to flow down her face. As it did so, she licked it
 with her tongue, saying, "O how sweet is the dibs <span
-id="fr_122"></span>[1](#fn_121) in my uncle's house!" "Ah! said
+id="fr_122"></span>[1](#fn_121.md) in my uncle's house!" "Ah! said
 Uhdey-dûn, as he brandished his hatchet, "do you think that I can't see
 through your disguise? It was I who destroyed your children, I who poked
 you with my needle while you carried that sack of wood, and I'll kill
@@ -215,7 +215,7 @@ unarmed. In the form of a peasant-woman she came to the foot of his
 rock, and called up to him for the loan of a sieve. "Come up and fetch
 it," said Uhdey-dûn. "I cannot climb the rock," replied the ghûleh. "I
 will lower a rope for you," said Uhdey-dûn. He did so, but noticing that
-his [visitor was](errata.htm#6) coming up with unusual skill, he
+his [visitor was](errata.htm#6.md) coming up with unusual skill, he
 observed her more closely and recognised her. He therefore let the rope
 go, and so the monster fell down the precipice and was dashed to bits.
 This was the way in which Uhdey-dûn delivered the country from the
@@ -223,7 +223,7 @@ ghûleh and her brood.
 
  
 
-There was once a poor wood-cutter, <span id="fr_123"></span>[2](#fn_122)
+There was once a poor wood-cutter, <span id="fr_123"></span>[2](#fn_122.md)
 who had a wife and three daughters dependent on him. One day, while he
 was working in the forest, a stranger
 
@@ -326,7 +326,7 @@ may have them all; but should it contain anything else, it is mine."
 He was greatly shocked when he saw its actual contents, and mourned the
 sad fate of that lovely girl. He had her body carried to his mother's
 chamber, to be honourably prepared for burial. During the process, <span
-id="fr_124"></span>[1](#fn_123) the nail being found and removed,
+id="fr_124"></span>[1](#fn_123.md) the nail being found and removed,
 Zerendac sneezed and came to life again.
 
 She married the prince, and in course of time bore him a daughter. But
@@ -355,8 +355,8 @@ bride. Hearing of the beauty of the daughter of a neighbouring sultan,
 he went to ask for her. But before setting out he sent for the mother of
 his lost children, and asked her what she would like him to bring her
 when he came back. She asked for a box of aloes, <span
-id="fr_125"></span>[1](#fn_124) for a box of henna, <span
-id="fr_126"></span>[2](#fn_125) and a dagger. Her request was granted,
+id="fr_125"></span>[1](#fn_124.md) for a box of henna, <span
+id="fr_126"></span>[2](#fn_125.md) and a dagger. Her request was granted,
 and when the prince returned from his betrothal to the sultan's
 daughter, he brought with him these things for Zerendac. She opened the
 boxes, one by one, saying, "O box of sebr, you have not in you more
@@ -413,12 +413,12 @@ next day's bread, and, when she was old and strong enough to do this by
 herself, her stepmother and sisters lay abed till sunrise. It was also
 her duty to go out with other girls and gather fuel, brushwood, thorny
 burnet, or dried cows’ dung from the hillsides, then to heat the village
-oven <span id="fr_127"></span>[1](#fn_126) and knead and bake the bread;
+oven <span id="fr_127"></span>[1](#fn_126.md) and knead and bake the bread;
 and when, as rarely happened, there was nothing to do at home, she was
 sent out to gather potsherds to be crushed into "hamra" for cistern
 cement. Whenever there was a wedding or other merry-making, she was not
 allowed to go, though she sat up late the night before, embroidering
-many-coloured breast-pieces <span id="fr_128"></span>[2](#fn_127) to
+many-coloured breast-pieces <span id="fr_128"></span>[2](#fn_127.md) to
 deck the festal gowns of her unkind relatives. But Allah had given
 Thaljìyeh a sweet nature. She found comfort in
 
@@ -433,20 +433,20 @@ One day when the rest of the family had gone to a wedding, Thaljìyeh was
 left alone in charge of the vineyard tower, for it was summer time. Just
 outside the vineyard gate, by the roadside, there was a cistern for
 rainwater, from which she was wont to draw water for the house, and to
-fill the drinking trough <span id="fr_129"></span>[1](#fn_128) for
+fill the drinking trough <span id="fr_129"></span>[1](#fn_128.md) for
 thirsty wayfarers. On this day Thaljìyeh had lowered her bucket into the
 cistern when the rope broke and the vessel sank to the bottom and was
 lost. She was obliged to go to a neighbour and borrow a well drag. <span
-id="fr_130"></span>[2](#fn_129) Having obtained one, Thaljìyeh tied it
+id="fr_130"></span>[2](#fn_129.md) Having obtained one, Thaljìyeh tied it
 to a new rope, and having said "dustûr," <span
-id="fr_131"></span>[3](#fn_130) to warn any spirits that might be in the
+id="fr_131"></span>[3](#fn_130.md) to warn any spirits that might be in the
 cistern to get out of the way, she lowered the drag while she sang:--
 
 <div style="margin-left: 32px">
 
 <span class="small">"O well drag! gather, gather,  
 And all that you find sweep up, sweep up." <span
-id="fr_132"></span>[4](#fn_131)</span>
+id="fr_132"></span>[4](#fn_131.md)</span>
 
 </div>
 
@@ -459,7 +459,7 @@ cistern a jinnìyeh who liked Thaljìyeh, the latter immediately felt the
 drag catch hold of something heavy; and when she drew it up, there was
 her bucket full of the most lovely jewellery--rings, massive gold
 bracelets, anklets, chains for tying the headdress round the neck, <span
-id="fr_133"></span>[1](#fn_132) and gold chains for the head-tie. Full
+id="fr_133"></span>[1](#fn_132.md) and gold chains for the head-tie. Full
 of joy at her good fortune, the girl took the pretty things into the
 tower, and when her relations came home she gave them into their
 keeping. They, however, pretended not to want them, and, having been
@@ -476,7 +476,7 @@ It was raining, and the poor girl did not want to spoil her pretty shoes
 made of red Damascus leather, which had been her dead father's gift. She
 tied them together and threw them over her shoulder, one hanging in
 front of, and the other behind, her. <span
-id="fr_134"></span>[2](#fn_133) It was now dark, and Thaljìyeh knew not
+id="fr_134"></span>[2](#fn_133.md) It was now dark, and Thaljìyeh knew not
 where to go. Seeing a light glimmering from the
 
 <span id="page_231">p. 231</span>
@@ -537,7 +537,7 @@ shop. He found the door closed, and received no answer
 <span id="page_233">p. 233</span>
 
 when he called to the old woman to ask whether her work for him was
-done. Hearing [Thaljìyeh](errata.htm#7) singing as she turned the
+done. Hearing [Thaljìyeh](errata.htm#7.md) singing as she turned the
 spinning-wheel, he peeped through a crack in the door in order to see
 who it was that sung so sweetly; and finding that the maiden was alone,
 he went away, sorry for his rash vow the previous evening, to the
@@ -551,7 +551,7 @@ seeing that Thaljìyeh was of good family. By the kindness of the
 jinnìyeh in the cistern, all the jewellery belonging to 'the bride was
 found one morning at the head of her bed in her grandmother's cave, and
 the cruel stepmother and her daughters had the bitterness of listening
-to the "Zaghârìt" <span id="fr_135"></span>[1](#fn_134) and the
+to the "Zaghârìt" <span id="fr_135"></span>[1](#fn_134.md) and the
 shouting, as the veiled bride, the beautiful Snow-maiden, whom they had
 so despised and ill-treated, seated upon the bridal camel, was led in
 joyful procession to her husband's house.
@@ -563,21 +563,21 @@ local version of "Cinderella."
 
 ### Footnotes
 
-<span id="fn_113"></span>[214:1](flhl32.htm#fr_114) The story of
+<span id="fn_113"></span>[214:1](flhl32.htm#fr_114.md) The story of
 Khuneyfseh, which properly falls under this heading, was told in the
 foregoing chapter in connection with the Jân, as illustrating some of
 the ideas in vogue concerning them.
 
-<span id="fn_114"></span>[214:2](flhl32.htm#fr_115) The diminutive of
+<span id="fn_114"></span>[214:2](flhl32.htm#fr_115.md) The diminutive of
 jibn = cheese.
 
-<span id="fn_115"></span>[215:1](flhl32.htm#fr_116) The "hìsh," thick
+<span id="fn_115"></span>[215:1](flhl32.htm#fr_116.md) The "hìsh," thick
 brushwood, is dignified with that name in Palestine.
 
-<span id="fn_116"></span>[215:2](flhl32.htm#fr_117) Crategus Azarolus,
+<span id="fn_116"></span>[215:2](flhl32.htm#fr_117.md) Crategus Azarolus,
 the berries are edible and make a delicious jelly.
 
-<span id="fn_117"></span>[216:1](flhl32.htm#fr_118)
+<span id="fn_117"></span>[216:1](flhl32.htm#fr_118.md)
 
 <div style="margin-left: 32px">
 
@@ -588,45 +588,45 @@ Ibtir’a ghanam fi el Jebel el ’alieh."
 
 </div>
 
-<span id="fn_118"></span>[217:1](flhl32.htm#fr_119) Or palace; Ar. kusr.
+<span id="fn_118"></span>[217:1](flhl32.htm#fr_119.md) Or palace; Ar. kusr.
 
-<span id="fn_119"></span>[217:2](flhl32.htm#fr_120) Ar. umsulleh.
+<span id="fn_119"></span>[217:2](flhl32.htm#fr_120.md) Ar. umsulleh.
 
-<span id="fn_120"></span>[218:1](flhl32.htm#fr_121) Ar. "hìsh." In
+<span id="fn_120"></span>[218:1](flhl32.htm#fr_121.md) Ar. "hìsh." In
 Syria, a kind of brushwood like the "maquis" of Corsica is so
 named.--ED.
 
-<span id="fn_121"></span>[221:1](flhl32.htm#fr_122) Grape syrup or
+<span id="fn_121"></span>[221:1](flhl32.htm#fr_122.md) Grape syrup or
 molasses.
 
-<span id="fn_122"></span>[221:2](flhl32.htm#fr_123) This story seems to
+<span id="fn_122"></span>[221:2](flhl32.htm#fr_123.md) This story seems to
 be a version of Bluebeard.
 
-<span id="fn_123"></span>[225:1](flhl32.htm#fr_124) Described in one of
+<span id="fn_123"></span>[225:1](flhl32.htm#fr_124.md) Described in one of
 the Karakash stories.
 
-<span id="fn_124"></span>[226:1](flhl32.htm#fr_125) Ar. sebr, also
+<span id="fn_124"></span>[226:1](flhl32.htm#fr_125.md) Ar. sebr, also
 meaning "patience."
 
-<span id="fn_125"></span>[226:2](flhl32.htm#fr_126) The same word means
+<span id="fn_125"></span>[226:2](flhl32.htm#fr_126.md) The same word means
 "tenderness."
 
-<span id="fn_126"></span>[228:1](flhl32.htm#fr_127) Ar. tabûn.
+<span id="fn_126"></span>[228:1](flhl32.htm#fr_127.md) Ar. tabûn.
 
-<span id="fn_127"></span>[228:2](flhl32.htm#fr_128) Ar. kubbeh.
+<span id="fn_127"></span>[228:2](flhl32.htm#fr_128.md) Ar. kubbeh.
 
-<span id="fn_128"></span>[229:1](flhl32.htm#fr_129) Ar. sebìl.
+<span id="fn_128"></span>[229:1](flhl32.htm#fr_129.md) Ar. sebìl.
 
-<span id="fn_129"></span>[229:2](flhl32.htm#fr_130) Ar. khuttâfeh. This
+<span id="fn_129"></span>[229:2](flhl32.htm#fr_130.md) Ar. khuttâfeh. This
 instrument consists of a flat iron ring from which iron hooks hang by
 short chains attached to its circumference. The whole is suspended from
 a ring in the centre of the two curved cross-bars fastened over the flat
 ring.
 
-<span id="fn_130"></span>[229:3](flhl32.htm#fr_131) Lit. permission = By
+<span id="fn_130"></span>[229:3](flhl32.htm#fr_131.md) Lit. permission = By
 your leave.
 
-<span id="fn_131"></span>[229:4](flhl32.htm#fr_132)
+<span id="fn_131"></span>[229:4](flhl32.htm#fr_132.md)
 
 <div style="margin-left: 32px">
 
@@ -635,13 +635,13 @@ Shû ma lakeyti, kûshi, kûshi."
 
 </div>
 
-<span id="fn_132"></span>[230:1](flhl32.htm#fr_133) Ar. Iznâk.
+<span id="fn_132"></span>[230:1](flhl32.htm#fr_133.md) Ar. Iznâk.
 
-<span id="fn_133"></span>[230:2](flhl32.htm#fr_134) As the fellahìn in
+<span id="fn_133"></span>[230:2](flhl32.htm#fr_134.md) As the fellahìn in
 Palestine always do whenever it is raining, and they go barefoot in
 order to save their shoes.
 
-<span id="fn_134"></span>[233:1](flhl32.htm#fr_135) Cries of joy of the
+<span id="fn_134"></span>[233:1](flhl32.htm#fr_135.md) Cries of joy of the
 bride's female friends, properly zalâghìt (sing. zálghateh, zárghateh,
 or zághrateh). The zaghrateh is a very shrill fluttering sound peculiar
 to Eastern women, made by rapid revolution of the tongue in the
@@ -649,4 +649,4 @@ mouth.--ED.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Satire](flhl33)
+[Next: VIII. Satire](flhl33.md)

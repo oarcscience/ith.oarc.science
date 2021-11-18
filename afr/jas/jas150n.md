@@ -1,10 +1,10 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas149n)  [Next](jas_12)   
- \[[Old-time Fools.](jas150)\]  
- \[[Duppy Stories.](jas151)\]  
- \[[Animal Jests.](jas152)\]  
- \[[Lies.](jas153)\]  
- \[[Philosophy.](jas154)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas149n)  [Next](jas_12.md)   
+ \[[Old-time Fools.](jas150.md)\]  
+ \[[Duppy Stories.](jas151.md)\]  
+ \[[Animal Jests.](jas152.md)\]  
+ \[[Lies.](jas153.md)\]  
+ \[[Philosophy.](jas154.md)\]
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ lads in Bethlehem, Santa Cruz Mountains.
 
 ------------------------------------------------------------------------
 
-[Next: SUPPLEMENTARY NOTES.](jas_12)
+[Next: SUPPLEMENTARY NOTES.](jas_12.md)

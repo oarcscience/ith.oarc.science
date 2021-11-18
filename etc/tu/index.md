@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766185303/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766185303/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766185303/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tu00)
+[Contents](#contents)    [Start Reading](tu00.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766185303/internetsacredte)
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
 This short book covers some of the same ground as the more popularly
-oriented [Lore of the Unicorn](../lou/index), by Odell Shepard, before
+oriented [Lore of the Unicorn](../lou/index.md), by Odell Shepard, before
 it ventures into comparative mythology. The present volume was written
 in the late 19th century at a time when all mythological and folklore
 narratives were believed to be astronomical metaphors. Brown sees the
@@ -45,21 +45,21 @@ Ancient Egyptian.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](tu00)  
-[Foreword](tu01)  
-[Contents](tu02)  
-[I. The Heraldic Unicorn](tu03)  
+<span id="contents"></span> [Title Page and Front Matter](tu00.md)  
+[Foreword](tu01.md)  
+[Contents](tu02.md)  
+[I. The Heraldic Unicorn](tu03.md)  
 [II. Opinions Respecting the Terrestrial Existence of the
-Unicorn](tu04)  
-[III. The Unicorn In Archaic Art](tu05)  
-[IV. Deus Lunus](tu06)  
-[V. The Lunar Phases](tu07)  
-[VI. Hekatê](tu08)  
-[VII. Medousa the Gorgô](tu09)  
-[VIII. Inô and Melikertes](tu10)  
-[IX. The Three-Legged Ass of the *Bundahis*](tu11)  
-[X. Aspects of the Moon](tu12)  
-[XI. The Contest Between the Lion and the Leopard](tu13)  
-[XII. The Lion and the Unicorn](tu14)  
-[Abbreviations](tu15)  
-[Index](tu16)  
+Unicorn](tu04.md)  
+[III. The Unicorn In Archaic Art](tu05.md)  
+[IV. Deus Lunus](tu06.md)  
+[V. The Lunar Phases](tu07.md)  
+[VI. Hekatê](tu08.md)  
+[VII. Medousa the Gorgô](tu09.md)  
+[VIII. Inô and Melikertes](tu10.md)  
+[IX. The Three-Legged Ass of the *Bundahis*](tu11.md)  
+[X. Aspects of the Moon](tu12.md)  
+[XI. The Contest Between the Lion and the Leopard](tu13.md)  
+[XII. The Lion and the Unicorn](tu14.md)  
+[Abbreviations](tu15.md)  
+[Index](tu16.md)  

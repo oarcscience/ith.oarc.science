@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa09)  [Next](smoa11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa09)  [Next](smoa11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -116,15 +116,15 @@ not law.
 <span id="page_67">p. 67</span>
 
 Statesmen did so uphold themselves in honor that a crime such as thou
-namest <span id="fr_7"></span>[\*](#fn_7) seldom found a man so base as
+namest <span id="fr_7"></span>[\*](#fn_7.md) seldom found a man so base as
 to demean his sacred word.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_7"></span>[67:\*](smoa10.htm#fr_7) Bribery.
+<span id="fn_7"></span>[67:\*](smoa10.htm#fr_7.md) Bribery.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. An ancestress of the Assyrians.](smoa11)
+[Next: Chapter IX. An ancestress of the Assyrians.](smoa11.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph00)  [Next](rph02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph00)  [Next](rph02.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ THE TRANSLATOR
 
 ------------------------------------------------------------------------
 
-[Next: Errata](rph02)
+[Next: Errata](rph02.md)

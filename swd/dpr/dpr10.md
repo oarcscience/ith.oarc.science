@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dpr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dpr09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -691,7 +691,7 @@ show the greatest dexterity in confirmation, who know no truth and yet
 can confirm both truth and falsity. Some of them remark, "What is truth?
 Is there such a thing? Is not that true which I make true?" In the world
 they are believed to be intelligent, and yet they are only daubing a
-wall. <span id="fr_5"></span>[318-1](#fn_5) Only those are intelligent
+wall. <span id="fr_5"></span>[318-1](#fn_5.md) Only those are intelligent
 who perceive truth to be truth and who confirm it by verities constantly
 perceived. Little difference may be seen between the latter and the
 former because one cannot distinguish between the light of confirmation
@@ -2243,6 +2243,6 @@ sensed as odors or as stenches in the spiritual world, see above (nn.
 
 ### Footnotes
 
-<span id="fn_5"></span>[318-1](dpr10.htm#fr_5) Cf. Ezekiel 13:10, 11 and
+<span id="fn_5"></span>[318-1](dpr10.htm#fr_5.md) Cf. Ezekiel 13:10, 11 and
 \_Arcana Caelestia\_ n. 739(2), Apocalypse Explained nn. 237(5) and
 644(25). Tr.

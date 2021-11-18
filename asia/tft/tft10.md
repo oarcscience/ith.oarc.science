@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft09)  [Next](tft11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft09)  [Next](tft11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -77,7 +77,7 @@ friend to bring him any, he
 DUNGEON, WITH NO BED TO LIE ON, NO FOOD TO EAT, IN THE COLD AND DAMP, HE
 WAS ABOUT TO STARVE, WHEN THE RAT HE HAD RESCUED CAME AND ASKED HIM HOW
 HE HAPPENED TO BE IN THAT PLACE.](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 IN THAT DARK OLD DUNGEON, WITH NO BED TO LIE ON, NO FOOD TO EAT, IN THE
 COLD AND DAMP, HE WAS ABOUT TO STARVE, WHEN THE RAT HE HAD RESCUED CAME
 AND ASKED HIM HOW HE HAPPENED TO BE IN THAT PLACE.  
@@ -110,4 +110,4 @@ friendship of the three whom he had doubted and scorned.
 
 ------------------------------------------------------------------------
 
-[Next: Eight: Covetousness](tft11)
+[Next: Eight: Covetousness](tft11.md)

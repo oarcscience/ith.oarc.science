@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vkk03)  [Next](vkk05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vkk03)  [Next](vkk05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B3YD5C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B3YD5C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Vampire, His Kith and Kin*, by Montague Summers, \[1928\], at
 Intangible Textual Heritage
 
@@ -2684,4 +2684,4 @@ Sexual Impulse," pp. 120-121. Second Edition. Philadelphia. 1926.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Traits and Practice of Vampirism](vkk05)
+[Next: Chapter III. The Traits and Practice of Vampirism](vkk05.md)

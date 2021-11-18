@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb07)  [Next](ptb09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb07)  [Next](ptb09.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ connected with.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Masculine and Feminine](ptb09)
+[Next: Chapter VI. Masculine and Feminine](ptb09.md)

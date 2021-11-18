@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil49)  [Next](egil51) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil49)  [Next](egil51.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ place.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER L. Of Athelstan king of the English.](egil51)
+[Next: CHAPTER L. Of Athelstan king of the English.](egil51.md)

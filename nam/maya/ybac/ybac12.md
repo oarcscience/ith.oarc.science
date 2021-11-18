@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac11)  [Next](ybac13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac11)  [Next](ybac13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ to settle and erect many fine edifices
 
 [![EIGHTH CENTURY STONE RESIDENCE IN THE SIERRA DISTRICT.&lt;br&gt;
 Photo by Maler](tn/01400.jpg)  
-Click to enlarge](img/01400.jpg)  
+Click to enlarge](img/01400.jpg.md)  
 EIGHTH CENTURY STONE RESIDENCE IN THE SIERRA DISTRICT.  
 Photo by Maler  
 
@@ -43,7 +43,7 @@ relations with them, and were pleased that they worked the land as if
 they were native to it. In this manner the people of the **Tutul-xiu**
 subjected themselves to the laws of Mayapán, they intermarried, and thus
 the lord Xiu of the Tutul-xius came to find himself held in great esteem
-by all. <span id="fr_8"></span>[\*](#fn_8)
+by all. <span id="fr_8"></span>[\*](#fn_8.md)
 
 <span id="page_15">p. 15</span>
 
@@ -59,7 +59,7 @@ excellent archers. They only used snares and traps, with which they took
 much game. They also had a certain art of throwing darts by the aid of a
 stick as thick as three fingers, hollowed out for a third of the way,
 and six palms long; with this and cords they threw with force and
-accuracy. <span id="fr_9"></span>[†](#fn_9)
+accuracy. <span id="fr_9"></span>[†](#fn_9.md)
 
 They had laws against delinquents which they executed rigorously; such
 as against an adulterer, whom they turned over to the injured party that
@@ -103,7 +103,7 @@ the Mexicans. The lord of the Tutul-xiu never gave his consent to this.
 Then those of Yucatan, seeing themselves so fixed, learned from the
 Mexicans the art of arms, and thus became masters of the bow and arrow,
 of the lance, the axe, the buckler, and strong cuirasses made of quilted
-cotton <span id="fr_10"></span>[‡](#fn_10) together with other
+cotton <span id="fr_10"></span>[‡](#fn_10.md) together with other
 implements of war. Soon they no longer stood in awe of nor feared the
 Mexicans, but rather held them of slight moment. In this situation
 several years passed.
@@ -138,7 +138,7 @@ desolate, each going to his own country.
 
 ### Footnotes
 
-<span id="fn_8"></span>[14:\*](ybac12.htm#fr_8) The historical problem
+<span id="fn_8"></span>[14:\*](ybac12.htm#fr_8.md) The historical problem
 involved in this paragraph is far from settled. The word **xiu** is the
 common term for 'plant' in both Aztec and Maya, and we are told that the
 Tutul-xius were Mexicans. Their significant symbol was a plant, just as
@@ -154,7 +154,7 @@ between Yucatecan Maya and the language of the Chiapans is definitely
 correct, Tzeltal and Maya being the two branches of the Mayance family
 moss nearly alike.
 
-<span id="fn_9"></span>[15:†](ybac12.htm#fr_9) <span id="page_16">p.
+<span id="fn_9"></span>[15:†](ybac12.htm#fr_9.md) <span id="page_16">p.
 16</span> The dart thrower, **hulche** in Maya, **atlatl** in Mexican,
 is a weapon common throughout ancient America generally. The text
 illustrations above are all taken from the Madrid Maya codex, except the
@@ -164,7 +164,7 @@ in the next a turkey in a net or noose. The two hunters both carry
 **hulches**, the first as he sets out and the other as he returns with
 the deer on his back. The last figure is an Aztec warrior.
 
-<span id="fn_10"></span>[15:‡](ybac12.htm#fr_10) A curious error in the
+<span id="fn_10"></span>[15:‡](ybac12.htm#fr_10.md) A curious error in the
 Landa manuscript occurs here, stating that they wore "heavy coats of
 *salt* and cotton." The garment is the well-known **ichca-huipil**,
 corrupted in Yucatan to **escuypil**, of heavy quilted or 'tied' cotton
@@ -177,4 +177,4 @@ of what was told to him in Maya.
 
 [Next: IX. Chronological Monuments of Yucatan. Foundation of the Kingdom
 of Sotuta. Origin of the Chels. The Three Principal Kingdoms of
-Yucatan](ybac13)
+Yucatan](ybac13.md)

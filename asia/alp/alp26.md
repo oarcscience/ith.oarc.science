@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp25) 
-[Next](alp27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp25.md) 
+[Next](alp27.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Weep, nightingale, on yonder tree,--
 
 ------------------------------------------------------------------------
 
-[Next: The Sun Went Down](alp27)
+[Next: The Sun Went Down](alp27.md)

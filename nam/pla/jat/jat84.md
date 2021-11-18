@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat83)  [Next](jat85) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat83)  [Next](jat85.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ they do.
 
 ------------------------------------------------------------------------
 
-[Next: 83. Prayer For Buffalo](jat85)
+[Next: 83. Prayer For Buffalo](jat85.md)

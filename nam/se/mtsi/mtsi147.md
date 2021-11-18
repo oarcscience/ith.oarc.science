@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi146)  [Next](mtsi148) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi146)  [Next](mtsi148.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ about on the other side of a mountain can kill me."
 
 ------------------------------------------------------------------------
 
-[Next: 12. Bead-spitter](mtsi148)
+[Next: 12. Bead-spitter](mtsi148.md)

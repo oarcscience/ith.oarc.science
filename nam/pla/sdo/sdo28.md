@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo27)  [Next](sdo29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo27)  [Next](sdo29.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ conduct the ceremony.
 
 ------------------------------------------------------------------------
 
-[Next: The Buffalo Dance](sdo29)
+[Next: The Buffalo Dance](sdo29.md)

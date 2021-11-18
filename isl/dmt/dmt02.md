@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt01)  [Next](dmt03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt01)  [Next](dmt03.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ INDEX</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Errata](dmt03)
+[Next: Errata](dmt03.md)

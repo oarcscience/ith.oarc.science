@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb64)  [Next](wfb66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb64)  [Next](wfb66.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ marriage.
 
 ------------------------------------------------------------------------
 
-[Next: An Adventure in the Big Bog](wfb66)
+[Next: An Adventure in the Big Bog](wfb66.md)

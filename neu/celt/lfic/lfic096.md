@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic095)  [Next](lfic097) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic095)  [Next](lfic097.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ against the inclination of the humble servant of Christ.
 
 ------------------------------------------------------------------------
 
-[Next: Conversion of the Robber Chief, Macaldus](lfic097)
+[Next: Conversion of the Robber Chief, Macaldus](lfic097.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh03)  [Next](boh05) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh03)  [Next](boh05.md) 
 
 ------------------------------------------------------------------------
 
@@ -214,4 +214,4 @@ August.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Samhain](boh05)
+[Next: Chapter III: Samhain](boh05.md)

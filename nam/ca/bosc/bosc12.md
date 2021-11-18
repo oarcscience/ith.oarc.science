@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc11)  [Next](bosc13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc11)  [Next](bosc13.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ made, that there should not be another.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Their Calendar](bosc13)
+[Next: Chapter XI. Their Calendar](bosc13.md)

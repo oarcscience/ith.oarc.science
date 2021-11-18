@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl057)  [Next](cohl059) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl057)  [Next](cohl059.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ and soon he died." Eniaiehuk.
 
 ------------------------------------------------------------------------
 
-[Next: Section 48](cohl059)
+[Next: Section 48](cohl059.md)

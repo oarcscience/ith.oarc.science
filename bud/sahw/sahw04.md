@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw03)  [Next](sahw05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw03)  [Next](sahw05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -21,7 +21,7 @@ Heritage
 
 ### *The Shinshu in its relations to S’akyamuni and to Buddhism in general*.
 
-(§§ 1–17.) <span id="fr_7"></span>[\*](#fn_7)
+(§§ 1–17.) <span id="fr_7"></span>[\*](#fn_7.md)
 
 The Shinshu claims to be a Buddhistic sect.—Buddhism, as a religion,
 presupposes no creator, only a Law of Cause and Effect which has always
@@ -46,7 +46,7 @@ described as being 81,000 in number, and the whole system was aptly
 compared to an immense pharmacopœa, in which were to be found drugs and
 prescriptions for every one of the spiritual troubles of mankind
 (including toothache and the teething of children). <span
-id="fr_8"></span>[\*](#fn_8) No physician ever came across all human
+id="fr_8"></span>[\*](#fn_8.md) No physician ever came across all human
 diseases in the course of his practice, or had occasion to try all
 drugs: no religious teacher ever had to deal with all forms of ignorance
 and sin, or to provide remedies suitable for each case. The utmost that
@@ -62,10 +62,10 @@ with many (and occasionally diametrically opposite) doctrines, erected,
 from time to time, into conflicting sects and denominations.
 
 We may pass over the Indian and Chinese sects, <span
-id="fr_9"></span>[†](#fn_9) which have now none but an antiquarian
+id="fr_9"></span>[†](#fn_9.md) which have now none but an antiquarian
 value. All that has come in the way of denominationalism from India to
 Japan is the division into the three vehicles, or *yānas* <span
-id="fr_10"></span>[‡](#fn_10) as they are called. Shinshu
+id="fr_10"></span>[‡](#fn_10.md) as they are called. Shinshu
 
 <span id="page_11">p. 11</span>
 
@@ -87,11 +87,11 @@ all the Wisdom that there is in the Supreme; it has also a Gate of
 Mercy, through which the Mercy and Love of the Supreme flows into man's
 heart to soften and purify it. The Shinshu teaches its disciples to
 enter Heaven by the Gate of Mercy. It is pietistic <span
-id="fr_11"></span>[\*](#fn_11) rather than philosophical.
+id="fr_11"></span>[\*](#fn_11.md) rather than philosophical.
 
 But there are two ways of entering even at the Gate of Mercy. We may try
 to enter in on the strength of our own merits, <span
-id="fr_12"></span>[†](#fn_12) and claim the clemency
+id="fr_12"></span>[†](#fn_12.md) and claim the clemency
 
 <span id="page_12">p. 12</span>
 
@@ -100,7 +100,7 @@ done ourselves This is known in Japanese as *shōdō*, the "holy path,"
 and is the path generally taught by Buddhist sects. But Buddhism (in
 Japan at any rate) speaks also of another way by which the gate may be
 entered. It tells of a Saviour who has entered for us, <span
-id="fr_13"></span>[\*](#fn_13) who has smoothed the path, and prepared
+id="fr_13"></span>[\*](#fn_13.md) who has smoothed the path, and prepared
 the mansion, and now calls us to the Paradise of Bliss. This is called
 in *Jōdo mon*, the Gate that leads to Paradise, and it is to this Gate
 that the Shinshu believer is taught to direct his footsteps.
@@ -108,14 +108,14 @@ that the Shinshu believer is taught to direct his footsteps.
 Again, a man may enter the Gate that leads to Paradise by faith in the
 Saviour who calls him to come that way, and yet find room in his heart
 to give worship and reverence to other Buddhas, Saints, and deities.
-Other Jōdo sects may do this, <span id="fr_14"></span>[†](#fn_14) but
+Other Jōdo sects may do this, <span id="fr_14"></span>[†](#fn_14.md) but
 the Shinshuist knows (or professes to know) no Saviour but Amida, whom
 alone he worships with his whole heart.
 
 Similarly, a man may say; "It is true that I am saved by faith, but my
 faith in Amida cannot set me free from obedience to the wise rules laid
 down by S’akyamuni for the guidance of his disciples." <span
-id="fr_15"></span>[‡](#fn_15) So he abstains from meat and worldly
+id="fr_15"></span>[‡](#fn_15.md) So he abstains from meat and worldly
 amusements, abjures marriage and lives in a monastery. "But,"
 
 <span id="page_13">p. 13</span>
@@ -134,8 +134,8 @@ S’akyamuni himself has been radically modified. Alone among the sects of
 Buddhism, the Shinshu offers no worship to the Founder of the Buddhist
 religion, not even that limited worship which it renders to Shōtoku
 Taishi, to Shinran himself, and to a few quite unknown Japanese
-worthies. <span id="fr_16"></span>[\*](#fn_16) "The only reason," says
-Shinran, in a poem <span id="fr_17"></span>[†](#fn_17) to which his
+worthies. <span id="fr_16"></span>[\*](#fn_16.md) "The only reason," says
+Shinran, in a poem <span id="fr_17"></span>[†](#fn_17.md) to which his
 followers pay peculiar reverence, "the only reason why S’akyamuni
 appeared on earth was that he might make known to men the Great Saving
 Vow of Amitābha." And Amida, the Father, the Eternal Being, who
@@ -143,7 +143,7 @@ originated the Law
 
 <span id="page_14">p. 14</span>
 
-of Cause and Effect, <span id="fr_18"></span>[\*](#fn_18) has, by his
+of Cause and Effect, <span id="fr_18"></span>[\*](#fn_18.md) has, by his
 Vow for the Salvation of Men by Faith alone quite regardless of their
 merits, so profoundly modified the working of that Law, that it really
 seems doubtful whether the definition of Buddhism with which we started
@@ -155,17 +155,17 @@ contains in it elements which are apparently not of Buddhist origin.
 
 ### Footnotes
 
-<span id="fn_7"></span>[9:\*](sahw04.htm#fr_7) The reference is to the
+<span id="fn_7"></span>[9:\*](sahw04.htm#fr_7.md) The reference is to the
 paragraphs in *Shinshu Hyakuwa*.
 
-<span id="fn_8"></span>[10:\*](sahw04.htm#fr_8) Nanjo's Cat. of the
+<span id="fn_8"></span>[10:\*](sahw04.htm#fr_8.md) Nanjo's Cat. of the
 Tripitaka actually gives the names of Sūtras containing remedies and
 charms for these ailments.
 
-<span id="fn_9"></span>[10:†](sahw04.htm#fr_9) I refer to the numerous
+<span id="fn_9"></span>[10:†](sahw04.htm#fr_9.md) I refer to the numerous
 Hinayāna Sects in existence about the commencement of the Christian era.
 
-<span id="fn_10"></span>[10:‡](sahw04.htm#fr_10) The author of the
+<span id="fn_10"></span>[10:‡](sahw04.htm#fr_10.md) The author of the
 Saddharmapundarika Sūtra speaks of three yānas or vehicles. 1. That of
 the *Arhats* (Hinayāna) which only talked of the Salvation of the
 Individual himself. <span id="page_11">p. 11</span> 2. That of Pratyeka
@@ -175,33 +175,33 @@ of the Bodhisattva, or true Mahāyāna (*Jitsudaijō*) which taught the
 believer to use his Enlightenment for the benefit of his
 fellow-creatures.
 
-<span id="fn_11"></span>[11:\*](sahw04.htm#fr_11) *Shūkyōteki* as
+<span id="fn_11"></span>[11:\*](sahw04.htm#fr_11.md) *Shūkyōteki* as
 opposed to *gakumonteki*.
 
-<span id="fn_12"></span>[11:†](sahw04.htm#fr_12) Jap. *jiriki*.
+<span id="fn_12"></span>[11:†](sahw04.htm#fr_12.md) Jap. *jiriki*.
 
-<span id="fn_13"></span>[12:\*](sahw04.htm#fr_13) Hence the words
+<span id="fn_13"></span>[12:\*](sahw04.htm#fr_13.md) Hence the words
 *tariki*, "another man's efforts," or *igyō*.
 
-<span id="fn_14"></span>[12:†](sahw04.htm#fr_14) Such sects are known as
+<span id="fn_14"></span>[12:†](sahw04.htm#fr_14.md) Such sects are known as
 *Hōbenmon:* sects which adapt their teaching and rites to the weakness
 and prejudices of their followers. As opposed to such sects the Shinshu
 profess to be the *Shinjitsumon* or True Gate.
 
-<span id="fn_15"></span>[12:‡](sahw04.htm#fr_15) To the Shinshuist all
+<span id="fn_15"></span>[12:‡](sahw04.htm#fr_15.md) To the Shinshuist all
 the laws of the ancient Vinaya discipline are *Hōben*, "accommodations."
 
-<span id="fn_16"></span>[13:\*](sahw04.htm#fr_16) The so-called
+<span id="fn_16"></span>[13:\*](sahw04.htm#fr_16.md) The so-called
 *Zenchishiki* or "righteous and wise men" of Shinshu. It is noteworthy
 while the worship of Buddhas and Bodhisattvas is like the false
 Angel-worship against which St. Paul warns us, the honour now paid by
 the Shinshu to their *Zenchishiki* is like the commemoration of good men
 which has always obtained in the Christian Church.
 
-<span id="fn_17"></span>[13:†](sahw04.htm#fr_17) The *Shōshinge* of
+<span id="fn_17"></span>[13:†](sahw04.htm#fr_17.md) The *Shōshinge* of
 which a translation will be found later in this book.
 
-<span id="fn_18"></span>[14:\*](sahw04.htm#fr_18) Rev. K. Tada,
+<span id="fn_18"></span>[14:\*](sahw04.htm#fr_18.md) Rev. K. Tada,
 Shōshinge Kōwa. p. 74. (*Nyorai wa*) kono sekai no yorodzu no mono wo
 suburu tame ni innengwa no taihō wo sadame, go-jishin mata kono taihō ni
 yotte arawase tamai, kono taihō ni yotte sono issai no hataraki wo
@@ -213,4 +213,4 @@ acknowledgement of a First Cause.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Shinran, the Founder of Shinshu.](sahw05)
+[Next: Chapter III. Shinran, the Founder of Shinshu.](sahw05.md)

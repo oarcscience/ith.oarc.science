@@ -2,7 +2,7 @@
 layout: seclanding
 title: "Current Phase of the Moon"
 ---
-[![](../../cdshop/ithlogo.png)](../../index)
+[![](../../cdshop/ithlogo.png)](../../index.md)
 
 ------------------------------------------------------------------------
 

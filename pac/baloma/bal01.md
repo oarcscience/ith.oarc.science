@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](bal00)  [Next](bal02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](bal00)  [Next](bal02.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ It is possible, therefore, to discuss the native beliefs in
 afterlife without touching the subject of mourning and mortuary
 ceremonies. The latter are extremely complex, and, in order to be
 properly described, a thorough knowledge of the native social system
-would be required. [2](bal09.htm#xref_2) In this article the beliefs
+would be required. [2](bal09.htm#xref_2.md) In this article the beliefs
 concerning the spirits of the dead and afterlife will be described.
 
 A remarkable thing happens to the spirit immediately after its exodus
@@ -39,7 +39,7 @@ splitting up. In fact, there are two beliefs, which, being obviously
 incompatible, yet exist side by side. One of them is, that the *baloma*
 (which is the main form of the dead man's spirit) goes "to Tuma, a small
 island lying some ten miles to the northwest of the
-Trobriands." [3](bal09.htm#xref_3) This island is inhabited by living
+Trobriands." [3](bal09.htm#xref_3.md) This island is inhabited by living
 man as well, who dwell in one large village, also called Tuma; and it is
 often visited by natives from the main island. The other belief affirms
 that the spirit leads a short and precarious existence after death near
@@ -51,7 +51,7 @@ trouble to reconcile any inconsistencies with regard to this matter. The
 more intelligent informants are able to explain away the
 inconsistencies, but such "theological" attempts do not agree with each
 other, and there does not seem to be any predominantly orthodox
-version. [4](bal09.htm#xref_4) The two beliefs, however, exist side by
+version. [4](bal09.htm#xref_4.md) The two beliefs, however, exist side by
 side in dogmatic strength; they are known to be true, and they influence
 the actions of men and regulate their behavior; thus the people are
 genuinely, though not very deeply, frightened of the *kosi*, and some of
@@ -125,7 +125,7 @@ and near caves, at night a very uncanny type of surrounding; but the
 natives often go there and back at night, quite alone; of course,
 individuals differ, some being more afraid than others, but in general
 there is very little of the universally reported native's dread of
-darkness among the Kiriwinians. [5](bal09.htm#xref_5)
+darkness among the Kiriwinians. [5](bal09.htm#xref_5.md)
 
 Nevertheless, when death occurs in a village, there is an enormous
 increase of superstitious fear. This fear is not, however, aroused by
@@ -135,7 +135,7 @@ be known and talked with in ordinary life, but who are supposed to
 possess the power of making themselves invisible, or of despatching a
 "sending" from their bodies, or of traveling vast distances through the
 air. In this disembodied form they are extremely virulent, powerful, and
-also ubiquitous. [6](bal09.htm#xref_6)
+also ubiquitous. [6](bal09.htm#xref_6.md)
 
 <span id="page_153">p. 153</span>
 
@@ -164,7 +164,7 @@ they become more than ever dangerous to the living. They assemble all
 round the house where the dead man lived and try to enter it. In the old
 days, when the corpse was exposed in the middle of the village in a
 half-covered grave, the *mulukuausi* used to congregate on the trees in
-and around the village. [7](bal09.htm#xref_7) When the body is carried
+and around the village. [7](bal09.htm#xref_7.md) When the body is carried
 into the grave to be buried, magic is used to ward off the *mulukuausi*.
 
 The *mulukuausi* are intimately connected with the smell of carrion, and
@@ -187,7 +187,7 @@ in my absence. After I had maintained my vigil for some ten minutes, a
 few men returned with my interpreter, who had previously gone to the
 village. He explained the matter to me, and was very serious about the
 danger from the *mulukuausi*, though, knowing white men and their ways,
-he was not so much concerned for me. [8](bal09.htm#xref_8)
+he was not so much concerned for me. [8](bal09.htm#xref_8.md)
 
 Even in and around the village where a death has occurred there is the
 greatest fear of the *mulukuausi*, and at night the natives refuse to go
@@ -198,4 +198,4 @@ that the only beings to be dreaded were the *mulukuausi*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](bal02)
+[Next: Chapter II](bal02.md)

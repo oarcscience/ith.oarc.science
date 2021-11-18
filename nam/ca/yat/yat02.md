@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat01)  [Next](yat03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat01)  [Next](yat03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -57,7 +57,7 @@ to the south; and the Wintun to the west.
 
 Nothing has hitherto been published on the Yana language except a few
 notes in Dixon and Kroeber's "Native Languages of California"; <span
-id="fr_0"></span>[1](#fn_0) the authors place Yana in a morphological
+id="fr_0"></span>[1](#fn_0.md) the authors place Yana in a morphological
 class by itself, it showing little or no grammatical resemblance to the
 Central Californian type of languages (such as Maidu or Wintun). Yana
 mythology has fared better. Pages 281-484 of Jeremiah Curtin's "Creation
@@ -77,10 +77,10 @@ Indian, since deceased, known as "The Governor," for whom
 
 <span class="contnote">\[paragraph continues\]</span> Sam Bat‘wī acted
 as interpreter. Notes on Yana myths obtained by Dr. Dixon are to be
-found in his "Northern Maidu." <span id="fr_1"></span>[2](#fn_1) The
+found in his "Northern Maidu." <span id="fr_1"></span>[2](#fn_1.md) The
 published Yana mythologic material is briefly summarized and discussed
 by Dr. Kroeber in "Myths of South Central California." <span
-id="fr_2"></span>[3](#fn_2)
+id="fr_2"></span>[3](#fn_2.md)
 
 Thanks are due Mrs. Curtin and Little, Brown and Company for permission
 to reprint in this volume Curtin's myth of "The Theft of Fire" an Indian
@@ -227,15 +227,15 @@ p‘ad a'idja is to be syllabified p‘a-da'i-dja.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](yat02.htm#fr_0) Amer. Anthropologist, N.
+<span id="fn_0"></span>[3:1](yat02.htm#fr_0.md) Amer. Anthropologist, N.
 S., V, 7, 12, 15.
 
-<span id="fn_1"></span>[4:2](yat02.htm#fr_1) Bull. Am. Mus. Nat. Hist.,
+<span id="fn_1"></span>[4:2](yat02.htm#fr_1.md) Bull. Am. Mus. Nat. Hist.,
 XVII, 339, 340, 342.
 
-<span id="fn_2"></span>[4:3](yat02.htm#fr_2) Univ. Calif. Publ. Am.
+<span id="fn_2"></span>[4:3](yat02.htm#fr_2.md) Univ. Calif. Publ. Am.
 Arch. Ethn., IV, 148-9.
 
 ------------------------------------------------------------------------
 
-[Next: I. Flint Boy](yat03)
+[Next: I. Flint Boy](yat03.md)

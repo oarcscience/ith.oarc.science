@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd14)  [Next](htd16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd14)  [Next](htd16.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ her back. Then the King said: *Chétí*, I will.
 
 \[paragraph continues\] Then she said: Nay, that were to deceive her,
 and break thy own word. And deception is base, but fidelity is good.
-Moreover, she is a deposit <span id="fr_35"></span>[y](#fn_35) in thy
+Moreover, she is a deposit <span id="fr_35"></span>[y](#fn_35.md) in thy
 hands. And know, that once there was a merchant, who possessed a great
 pearl, such that the hand could hardly grasp it: and it resembled a mass
 of sea-foam, collected into a ball in the light of the moon on an ocean
@@ -51,7 +51,7 @@ the other buried the pearl in the ground. Then the King came to him and
 said: Give me the pearl which was deposited with thee, and I will enrich
 thee: if not, I will take it by force. Then the merchant said: What wilt
 thou take, to wait for a week: for I love to look at it? The King said:
-For one crore <span id="fr_36"></span>[z](#fn_36), I will wait for one
+For one crore <span id="fr_36"></span>[z](#fn_36.md), I will wait for one
 week. So the merchant gave him a crore. Then after a week, the King came
 
 <span id="page_59">p. 59</span>
@@ -88,12 +88,12 @@ escape from the dilemma, but in vain.
 
 ### Footnotes
 
-<span id="fn_35"></span>[58:y](htd15.htm#fr_35) This idea of a 'deposit'
+<span id="fn_35"></span>[58:y](htd15.htm#fr_35.md) This idea of a 'deposit'
 constantly recurs in Hindoo poetry.
 
-<span id="fn_36"></span>[58:z](htd15.htm#fr_36) About a million
+<span id="fn_36"></span>[58:z](htd15.htm#fr_36.md) About a million
 sterling, when the rupee was equal to a florin.
 
 ------------------------------------------------------------------------
 
-[Next: Shamí](htd16)
+[Next: Shamí](htd16.md)

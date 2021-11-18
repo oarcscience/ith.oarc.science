@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim46)  [Next](sim48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim46)  [Next](sim48.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ This shows that man can conquer HÓTHO.
 
 ------------------------------------------------------------------------
 
-[Next: Flying-Squirrel and the Seasons](sim48)
+[Next: Flying-Squirrel and the Seasons](sim48.md)

@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
 
 </div>
 
@@ -24,8 +24,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mtc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mtc.txt.gz)
+[Contents](#contents)    [Start Reading](mtc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mtc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -41,109 +41,109 @@ to the West).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mtc00)  
-[Contents](mtc01)  
-[Introduction](mtc02)  
+<span id="contents"></span> [Title Page](mtc00.md)  
+[Contents](mtc01.md)  
+[Introduction](mtc02.md)  
 <span id="section_000"></span>
 
 ### Ch‘u Yüan
 
-[The Great Summons](mtc03)  
+[The Great Summons](mtc03.md)  
 <span id="section_001"></span>
 
 ### Wang Wei
 
-[Prose Letter](mtc04)  
+[Prose Letter](mtc04.md)  
 <span id="section_002"></span>
 
 ### Li Po
 
-[Drinking Alone by Moonlight](mtc05)  
-[In the Mountains on a Summer Day](mtc06)  
-[Waking From Drunkenness on a Spring day](mtc07)  
-[Self-Abandonment](mtc08)  
-[To Tan Ch‘u](mtc09)  
-[Clearing at Dawn](mtc10)  
+[Drinking Alone by Moonlight](mtc05.md)  
+[In the Mountains on a Summer Day](mtc06.md)  
+[Waking From Drunkenness on a Spring day](mtc07.md)  
+[Self-Abandonment](mtc08.md)  
+[To Tan Ch‘u](mtc09.md)  
+[Clearing at Dawn](mtc10.md)  
 <span id="section_003"></span>
 
 ### Po Chü-i
 
-[Life of Po Chü-i](mtc11)  
-[After Passing the Examination](mtc12)  
-[Escorting Candidates to the Examination Hall](mtc13)  
-[In Early Summer Lodging in a Temple to Enjoy the Midnight](mtc14)  
-[Sick Leave](mtc15)  
-[Watching the Reapers](mtc16)  
-[Going Alone to Spend a Night at the Hsien-Yu Temple](mtc17)  
-[Planting Bamboos](mtc18)  
-[To Li Chien](mtc19)  
-[At the End of Spring](mtc20)  
-[The Poem on the Wall](mtc21)  
-[Chu Ch‘ēn Village](mtc22)  
-[Fishing in the Wei River](mtc23)  
-[Lazy Man's Song](mtc24)  
-[Illness and Idleness](mtc25)  
-[Winter Night](mtc26)  
-[The Chrysanthemums in the Eastern Garden](mtc27)  
-[Poems in Depression at Wei Village](mtc28)  
-[To His Brother Hsing-Chien, Who Was Serving in Tung Ch‘uan](mtc29)  
-[Starting Early From the Ch‘u-Ch‘ēng Inn](mtc30)  
-[Rain](mtc31)  
-[The Beginning of Summer](mtc32)  
-[Visiting the Hsi-Lin Temple](mtc33)  
-[Prose Letter to Yüan Chēn](mtc34)  
-[Hearing the Early Oriole](mtc35)  
-[Dreaming That I Went With Lu and Yu to Visit Yüan Chēn](mtc36)  
-[The Fifteenth Volume](mtc37)  
-[Invitation to Hsiao Chü-Shih](mtc38)  
-[To Li Chien](mtc39)  
-[The Spring River](mtc40)  
-[After Collecting the Autumn Taxes](mtc41)  
-[Lodging With the Old Man of the Stream](mtc42)  
-[To His Brother Hsing-Chien](mtc43)  
-[The Pine Trees in the Courtyard](mtc44)  
-[Sleeping on Horseback](mtc45)  
-[Parting From the Winter Stove](mtc46)  
-[Good-Bye to the People of Hangchow](mtc47)  
-[Written When Governor of Soochow](mtc48)  
-[Getting Up Early on a Spring Morning](mtc49)  
-[Losing A Slave Girl](mtc50)  
-[The Grand Houses at Lo-Yang](mtc51)  
-[The Cranes](mtc52)  
-[On His Baldness](mtc53)  
-[Thinking of the Past](mtc54)  
-[A Mad Poem Addressed to my Nephews and Nieces](mtc55)  
-[Old Age](mtc56)  
-[To a Talkative Guest](mtc57)  
-[To Liu Yu-Hsi](mtc58)  
-[My Servant Wakes Me](mtc59)  
-[Since I Lay Ill](mtc60)  
-[Song of Past Feelings (With Preface)](mtc61)  
-[Illness](mtc62)  
-[Resignation](mtc63)  
+[Life of Po Chü-i](mtc11.md)  
+[After Passing the Examination](mtc12.md)  
+[Escorting Candidates to the Examination Hall](mtc13.md)  
+[In Early Summer Lodging in a Temple to Enjoy the Midnight](mtc14.md)  
+[Sick Leave](mtc15.md)  
+[Watching the Reapers](mtc16.md)  
+[Going Alone to Spend a Night at the Hsien-Yu Temple](mtc17.md)  
+[Planting Bamboos](mtc18.md)  
+[To Li Chien](mtc19.md)  
+[At the End of Spring](mtc20.md)  
+[The Poem on the Wall](mtc21.md)  
+[Chu Ch‘ēn Village](mtc22.md)  
+[Fishing in the Wei River](mtc23.md)  
+[Lazy Man's Song](mtc24.md)  
+[Illness and Idleness](mtc25.md)  
+[Winter Night](mtc26.md)  
+[The Chrysanthemums in the Eastern Garden](mtc27.md)  
+[Poems in Depression at Wei Village](mtc28.md)  
+[To His Brother Hsing-Chien, Who Was Serving in Tung Ch‘uan](mtc29.md)  
+[Starting Early From the Ch‘u-Ch‘ēng Inn](mtc30.md)  
+[Rain](mtc31.md)  
+[The Beginning of Summer](mtc32.md)  
+[Visiting the Hsi-Lin Temple](mtc33.md)  
+[Prose Letter to Yüan Chēn](mtc34.md)  
+[Hearing the Early Oriole](mtc35.md)  
+[Dreaming That I Went With Lu and Yu to Visit Yüan Chēn](mtc36.md)  
+[The Fifteenth Volume](mtc37.md)  
+[Invitation to Hsiao Chü-Shih](mtc38.md)  
+[To Li Chien](mtc39.md)  
+[The Spring River](mtc40.md)  
+[After Collecting the Autumn Taxes](mtc41.md)  
+[Lodging With the Old Man of the Stream](mtc42.md)  
+[To His Brother Hsing-Chien](mtc43.md)  
+[The Pine Trees in the Courtyard](mtc44.md)  
+[Sleeping on Horseback](mtc45.md)  
+[Parting From the Winter Stove](mtc46.md)  
+[Good-Bye to the People of Hangchow](mtc47.md)  
+[Written When Governor of Soochow](mtc48.md)  
+[Getting Up Early on a Spring Morning](mtc49.md)  
+[Losing A Slave Girl](mtc50.md)  
+[The Grand Houses at Lo-Yang](mtc51.md)  
+[The Cranes](mtc52.md)  
+[On His Baldness](mtc53.md)  
+[Thinking of the Past](mtc54.md)  
+[A Mad Poem Addressed to my Nephews and Nieces](mtc55.md)  
+[Old Age](mtc56.md)  
+[To a Talkative Guest](mtc57.md)  
+[To Liu Yu-Hsi](mtc58.md)  
+[My Servant Wakes Me](mtc59.md)  
+[Since I Lay Ill](mtc60.md)  
+[Song of Past Feelings (With Preface)](mtc61.md)  
+[Illness](mtc62.md)  
+[Resignation](mtc63.md)  
 <span id="section_004"></span>
 
 ### Yüan Chen
 
-[The Story of Ts‘ui Ying-Ying](mtc64)  
-[The Pitcher](mtc65)  
+[The Story of Ts‘ui Ying-Ying](mtc64.md)  
+[The Pitcher](mtc65.md)  
 <span id="section_005"></span>
 
 ### Po Hsing-Chien
 
-[The Story of Miss Li](mtc66)  
+[The Story of Miss Li](mtc66.md)  
 <span id="section_006"></span>
 
 ### Wang Chien
 
-[Hearing That His Friend Was Coming Back From the War](mtc67)  
-[The South](mtc68)  
+[Hearing That His Friend Was Coming Back From the War](mtc67.md)  
+[The South](mtc68.md)  
 <span id="section_007"></span>
 
 ### Ou-Yang Hsiu
 
-[Autumn](mtc69)  
+[Autumn](mtc69.md)  
 
  
 
-[Appendix](mtc70)  
+[Appendix](mtc70.md)  

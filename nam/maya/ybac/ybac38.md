@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac37)  [Next](ybac39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac37)  [Next](ybac39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,11 +43,11 @@ In the other method the months had 20 days, and were called **uinal
 hunekeh**; of these it took eighteen to complete the year, plus five
 days and six hours. Out of these six hours they made a day every four
 years, so that they had a 366-day year every fourth time. <span
-id="fr_32"></span>[\*](#fn_32)
+id="fr_32"></span>[\*](#fn_32.md)
 
 For these 360 days they had 20 letters or characters by which to
 designate them, without assigning names to the five supplementary
-days, <span id="fr_33"></span>[†](#fn_33) as being
+days, <span id="fr_33"></span>[†](#fn_33.md) as being
 
 <span id="page_60">p. 60</span>
 
@@ -57,7 +57,7 @@ above to understand their correlation with ours.
 <span id="img_06000"></span>
 
 [![Mayan Calendar Hieroglyphs](tn/06000.jpg)  
-Click to enlarge](img/06000.jpg)  
+Click to enlarge](img/06000.jpg.md)  
   
 
 I have already related that the Indian method of counting was from five
@@ -67,7 +67,7 @@ for a year as do our Dominical letters, being the initials days of the
 various 20-day months (or **uinals**). Thus:
 
 <span id="img_06001"></span> ![Mayan Calendar
-Hieroglyphs](img/06001.jpg)
+Hieroglyphs](img/06001.jpg.md)
 
 Among the multitude of gods worshipped by these people were four whom
 they called by the name **Bacab**. These were, they say, four brothers
@@ -95,7 +95,7 @@ fault in the ceremonies,
 
 |                       |
 |-----------------------|
-| ![Kan](img/06100.jpg) |
+| ![Kan](img/06100.jpg.md) |
 
 The first of these Dominical letters, then, is **Kan**. The year served
 by this letter had as augury that Bacab who was otherwise called
@@ -106,7 +106,7 @@ belonged the South.
 
 |                         |
 |-------------------------|
-| ![Muluc](img/06101.jpg) |
+| ![Muluc](img/06101.jpg.md) |
 
 The second letter, or **Muluc**, marked the East, and this year had as
 its augury the Bacab called **Can-sicnal**, **Chacal-bacab**,
@@ -116,7 +116,7 @@ its augury the Bacab called **Can-sicnal**, **Chacal-bacab**,
 
 |                      |
 |----------------------|
-| ![Ix](img/06102.jpg) |
+| ![Ix](img/06102.jpg.md) |
 
 The third letter is **Ix**, and the augury for this year was the Bacab
 called **Sac-sini**, **Sacal-bacab**, **Sac-pauahtun**, **Sac-xibchac**,
@@ -126,7 +126,7 @@ marking the North.
 
 |                         |
 |-------------------------|
-| ![Cauac](img/06103.jpg) |
+| ![Cauac](img/06103.jpg.md) |
 
 The fourth letter is **Cauac**, its augury for that year being the Bacab
 called **Hosan-ek**, **Ekel-bacab**, **Ek-pauahtun**, **Ek-xibchac**;
@@ -144,7 +144,7 @@ the first day of their new year, in order to put on a great fiesta for
 the above Bacabs and the evil one, to whom they gave four other names,
 as they had done to the Bacabs; these names were: **Kan-uvayeyab**,
 **Chac-uvayeyab**, **Sac-uvayeyab**, **Ek-uvayeyab**. <span
-id="fr_34"></span>[\*](#fn_34) These ceremonies and fetes being over,
+id="fr_34"></span>[\*](#fn_34.md) These ceremonies and fetes being over,
 and the evil one driven away, as we shall see, they began their new
 year.
 
@@ -152,7 +152,7 @@ year.
 
 ### Footnotes
 
-<span id="fn_32"></span>[59:\*](ybac38.htm#fr_32) We now know that the
+<span id="fn_32"></span>[59:\*](ybac38.htm#fr_32.md) We now know that the
 Mayas knew the *exact* length of the true solar year as 365.2420 days,
 that is with a minus error of 0.0002, while our present Gregorian
 calendar has it as 365.2425, or a plus error of 0.0003. Also that they
@@ -172,7 +172,7 @@ We also know that they knew the moon's period accurately, as 29.5209
 days, but we find no evidence on the monuments or in the Maya records of
 any use of a 30-day month, in the ordinary sense.
 
-<span id="fn_33"></span>[59:†](ybac38.htm#fr_33) This is incorrect; the
+<span id="fn_33"></span>[59:†](ybac38.htm#fr_33.md) This is incorrect; the
 five last days of the year bore their names regularly, as shown
 elsewhere by Landa himself in describing the common 52-year cycle used
 for mundane matters <span id="page_60">p. 60</span> by both Mayas and
@@ -187,7 +187,7 @@ forms of the characters for the days and months or uinals, for the
 shapes found in the Landa manuscript, there being no question of their
 identity. See the present writer's *Outline Dictionary of Maya Glyphs*.
 
-<span id="fn_34"></span>[61:\*](ybac38.htm#fr_34) In the above names the
+<span id="fn_34"></span>[61:\*](ybac38.htm#fr_34.md) In the above names the
 words *chac*, *sac*, *ek*, *kan* mean respectively red, white, black and
 Yellow, the four colors assigned in this order to the East, North, West
 and South. It is delightful to note Landa's naive persistence that they
@@ -197,4 +197,4 @@ simply means 'the couch of the year.'
 ------------------------------------------------------------------------
 
 [Next: XXXV. Festivals of the 'Unlucky' Days. Sacrifices For the
-Beginning of the New Year Kan](ybac39)
+Beginning of the New Year Kan](ybac39.md)

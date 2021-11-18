@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas009n)  [Next](jas011n)   
- \[[10. Eating Tiger's Guts.](jas010)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas009n)  [Next](jas011n.md)   
+ \[[10. Eating Tiger's Guts.](jas010.md)\]
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ For the incriminating song in version (b), see number 4.
 
 ------------------------------------------------------------------------
 
-[Next: Note 11. Throwing away Knives.](jas011n)
+[Next: Note 11. Throwing away Knives.](jas011n.md)

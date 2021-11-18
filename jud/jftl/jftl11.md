@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl10)  [Next](jftl12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl10)  [Next](jftl12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 <span id="img_11200"></span> <span align="CENTER"> [![He found a
 beautiful youth, clad in a deer skin, lying on the ground.
 (&lt;i&gt;Page 115&lt;/i&gt;).](tn/11200.jpg)  
-Click to enlarge](img/11200.jpg)  
+Click to enlarge](img/11200.jpg.md)  
 He found a beautiful youth, clad in a deer skin, lying on the ground.
 (*Page 115*).  
 </span>
@@ -181,4 +181,4 @@ sympathy to all his subjects.
 
 ------------------------------------------------------------------------
 
-[Next: The Quarrel of the Cat and Dog](jftl12)
+[Next: The Quarrel of the Cat and Dog](jftl12.md)

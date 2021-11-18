@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm89)  [Next](pnm91) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm89)  [Next](pnm91.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -136,7 +136,7 @@ The difference between the woman and the man is yet more strongly
 marked, says the deeply read theologian, because the man was made like
 the brutes in open land outside the gates of paradise, and made wholly
 of clay, but the woman was made afterwards in paradise itself; she was
-the one [paradisiacal](errata.htm#8) creation. Presently there follow
+the one [paradisiacal](errata.htm#8.md) creation. Presently there follow
 Scripture arguments to show that the place of their birth was a sign to
 men of honor or dishonor. The woman, too, was not made of clay, but from
 an influx of celestial matter; since there went into her composition
@@ -400,7 +400,7 @@ here let it end."
 
 Such was the treatise written by Cornelius at Dole for the more perfect
 propitiation of the Princess Margaret. Many years
-[elapsed](errata.htm#9) before it was printed and presented to the
+[elapsed](errata.htm#9.md) before it was printed and presented to the
 princess; doubtless, however, the youth read the manuscript to his
 betrothed very soon after it was written. Towards the close of the year
 a friend in Cologne wrote to Agrippa of the impatience of his parents
@@ -444,7 +444,7 @@ Regent of the Netherlands and all her court,
 
 <span id="img_27400"></span> <span align="CENTER"> [![System of the
 Interior or Empyrean Heaven showing the fall of Lucifer](tn/27400.jpg)  
-Click to enlarge](img/27400.jpg)  
+Click to enlarge](img/27400.jpg.md)  
 System of the Interior or Empyrean Heaven showing the fall of Lucifer  
 </span>
 
@@ -462,4 +462,4 @@ Now it was that Agrippa wrote his book on Magic.
 
 ------------------------------------------------------------------------
 
-[Next: Order of the Empyrean Heaven](pnm91)
+[Next: Order of the Empyrean Heaven](pnm91.md)

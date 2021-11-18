@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
@@ -29,8 +29,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](eml00)    [Page
-Index](pageidx)    [Text \[Zipped\]](eml.txt.gz)
+[Contents](#contents)    [Start Reading](eml00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](eml.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -48,46 +48,46 @@ tales, and historical documents.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](eml00)  
-[Preface](eml01)  
-[Contents](eml02)  
-[Introduction](eml03)  
-[Chapter I: Creation Legend of Sun Worshippers](eml04)  
-[Chapter II: The Tragedy of Osiris](eml05)  
-[Chapter III: Dawn of Civilization](eml06)  
-[Chapter IV: The Peasant who became King](eml07)  
-[Chapter V: Racial Myths in Egypt and Europe](eml08)  
-[Chapter VI: The City of the Elf God](eml09)  
-[Chapter VII: Death and the Judgment](eml10)  
-[Chapter VIII: The Religion of the Stone Workers](eml11)  
-[Chapter IX: A Day in Old Memphis](eml12)  
-[Chapter X: The Great Pyramid Kings](eml13)  
-[Chapter XI: Folk Tales of Fifty Centuries](eml14)  
-[Chapter XII: Triumph of the Sun God](eml15)  
-[Chapter XIII: Fall of the Old Kingdom](eml16)  
-[Chapter XIV: Father Gods and Mother Goddesses](eml17)  
-[Plate I: The Girl Wife and the Bata Bull](eml18)  
-[Plate II: The Farmer Plunders the Peasant](eml19)  
-[Plate III: Senuhet Slays the Warrior of Tonu](eml20)  
+<span id="contents"></span> [Title Page](eml00.md)  
+[Preface](eml01.md)  
+[Contents](eml02.md)  
+[Introduction](eml03.md)  
+[Chapter I: Creation Legend of Sun Worshippers](eml04.md)  
+[Chapter II: The Tragedy of Osiris](eml05.md)  
+[Chapter III: Dawn of Civilization](eml06.md)  
+[Chapter IV: The Peasant who became King](eml07.md)  
+[Chapter V: Racial Myths in Egypt and Europe](eml08.md)  
+[Chapter VI: The City of the Elf God](eml09.md)  
+[Chapter VII: Death and the Judgment](eml10.md)  
+[Chapter VIII: The Religion of the Stone Workers](eml11.md)  
+[Chapter IX: A Day in Old Memphis](eml12.md)  
+[Chapter X: The Great Pyramid Kings](eml13.md)  
+[Chapter XI: Folk Tales of Fifty Centuries](eml14.md)  
+[Chapter XII: Triumph of the Sun God](eml15.md)  
+[Chapter XIII: Fall of the Old Kingdom](eml16.md)  
+[Chapter XIV: Father Gods and Mother Goddesses](eml17.md)  
+[Plate I: The Girl Wife and the Bata Bull](eml18.md)  
+[Plate II: The Farmer Plunders the Peasant](eml19.md)  
+[Plate III: Senuhet Slays the Warrior of Tonu](eml20.md)  
 [Plate IV: Queen Ahmes (Wife Of Thothmes I), Mother of the Famous Queen
-Hatshepsut](eml21)  
-[Plate V: Luring the Doom Serpent](eml22)  
-[Plate V: Fowling Scene](eml23)  
+Hatshepsut](eml21.md)  
+[Plate V: Luring the Doom Serpent](eml22.md)  
+[Plate V: Fowling Scene](eml23.md)  
 [Plate VI: Farm Scene: The Counting and Inspection of the
-Geese](eml24)  
-[Plate VII: Pastime in Ancient Egypt Three Thousand Years Ago](eml25)  
-[Chapter XV: The Rise of Amon](eml26)  
-[Chapter XVI: Tale of the Fugitive Prince](eml27)  
-[Chapter XVII: Egypt's Golden Age](eml28)  
-[Chapter XVIII: Myths and Lays of the Middle Kingdom](eml29)  
-[Chapter XIX: The Island of Enchantment](eml30)  
-[Chapter XX: The Hyksos and their Strange God](eml31)  
-[Chapter XXI: Joseph and the Exodus](eml32)  
-[Chapter XXII: Amon, the God of Empire](eml33)  
-[Chapter XXIII: Tale of the Doomed Prince](eml34)  
-[Chapter XXIV: Changes in Social and Religious Life](eml35)  
-[Chapter XXV: Amenhotep the Magnificent and Queen Tiy](eml36)  
-[Chapter XXVI: The Religious Revolt of the Poet King](eml37)  
-[Chapter XXVII: The Empire of Rameses and the Homeric Age](eml38)  
-[Chapter XXVIII: Egypt and the Hebrew Monarchy](eml39)  
-[Chapter XXIX: The Restoration and the End](eml40)  
+Geese](eml24.md)  
+[Plate VII: Pastime in Ancient Egypt Three Thousand Years Ago](eml25.md)  
+[Chapter XV: The Rise of Amon](eml26.md)  
+[Chapter XVI: Tale of the Fugitive Prince](eml27.md)  
+[Chapter XVII: Egypt's Golden Age](eml28.md)  
+[Chapter XVIII: Myths and Lays of the Middle Kingdom](eml29.md)  
+[Chapter XIX: The Island of Enchantment](eml30.md)  
+[Chapter XX: The Hyksos and their Strange God](eml31.md)  
+[Chapter XXI: Joseph and the Exodus](eml32.md)  
+[Chapter XXII: Amon, the God of Empire](eml33.md)  
+[Chapter XXIII: Tale of the Doomed Prince](eml34.md)  
+[Chapter XXIV: Changes in Social and Religious Life](eml35.md)  
+[Chapter XXV: Amenhotep the Magnificent and Queen Tiy](eml36.md)  
+[Chapter XXVI: The Religious Revolt of the Poet King](eml37.md)  
+[Chapter XXVII: The Empire of Rameses and the Homeric Age](eml38.md)  
+[Chapter XXVIII: Egypt and the Hebrew Monarchy](eml39.md)  
+[Chapter XXIX: The Restoration and the End](eml40.md)  

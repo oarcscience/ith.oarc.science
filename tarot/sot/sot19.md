@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot18) 
-[Next](sot20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot18.md) 
+[Next](sot20.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](sot18) 
 An angel in a white robe, touching earth and heaven, appeared. His wings
 were flame and a radiance of gold was about his head. On his breast he
 wore the sacred sign of the book of the Tarot--a triangle within a
-square, a point within the [triangle](errata.htm#8); on his forehead the
+square, a point within the [triangle](errata.htm#8.md); on his forehead the
 symbol of life and eternity, the circle.
 
 In one hand was a cup of silver, in the other a cup of gold and there
@@ -39,7 +39,7 @@ this mystery.
 
 "But you probably came here unprepared. Look then and listen and try to
 understand, for now understanding is your only salvation. He who
-[approaches](errata.htm#9) the mystery without complete comprehension
+[approaches](errata.htm#9.md) the mystery without complete comprehension
 will be lost.
 
 "The name of the angel is Time. The circle on his forehead is the symbol
@@ -84,4 +84,4 @@ dimension contains an infinite square".
 
 ------------------------------------------------------------------------
 
-[Next: Card X. The Wheel of Chance](sot20)
+[Next: Card X. The Wheel of Chance](sot20.md)

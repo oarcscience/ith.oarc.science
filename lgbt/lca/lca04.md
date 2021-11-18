@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca03) 
-[Next](lca05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca03.md) 
+[Next](lca05.md) 
 
 ------------------------------------------------------------------------
 
@@ -234,4 +234,4 @@ might come about great things would happen in the world.
 
 ------------------------------------------------------------------------
 
-[Next: Woman, the Serf](lca05)
+[Next: Woman, the Serf](lca05.md)

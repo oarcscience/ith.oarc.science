@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index)  [Index](index)  [Previous](ipm03)  [Next](ipm05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index)  [Index](index)  [Previous](ipm03)  [Next](ipm05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From India to the Planet Mars*, by Théodore Flournoy; tr. Daniel B.
 Vermilye, \[1900\], at Intangible Textual Heritage
 
@@ -211,7 +211,7 @@ that it was really a "vision" which she had experienced.
 say to exactly which category the psychologic facts belong, especially
 the nocturnal phenomena, and one may hesitate whether to regard them as
 simple dreams of a very vivid character, hypnagogic or hypnopompic <span
-id="fr_2"></span>[\*](#fn_2) visions, or as veritable
+id="fr_2"></span>[\*](#fn_2.md) visions, or as veritable
 
 <span id="page_22">p. 22</span>
 
@@ -579,7 +579,7 @@ obliged to follow.
 
 ### Footnotes
 
-<span id="fn_2"></span>[21:\*](ipm04.htm#fr_2) This term is used to
+<span id="fn_2"></span>[21:\*](ipm04.htm#fr_2.md) This term is used to
 designate the visions which manifest themselves at the moment of
 awakening from sleep immediately <span id="page_22">p. 22</span> prior
 to complete awakening, and which form a pendant to the well-known, much
@@ -589,4 +589,4 @@ state between sleep and waking.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Mlle. Smith Since Her Initiation Into
-Spiritism](ipm05)
+Spiritism](ipm05.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic19)  [Next](tic21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic19)  [Next](tic21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ with persons of a lively imagination or who are afflicted with
 melancholy to any marked extent. I think that no attention should be
 paid to either class of people when they say they see, hear, or learn
 anything supernaturally. Do not disturb them by saying that it comes
-from the devil, <span id="fr_237"></span>[1](#fn_237) but listen to them
+from the devil, <span id="fr_237"></span>[1](#fn_237.md) but listen to them
 as if they were sick persons. Let the prioress or confessor to whom they
 tell their story bid them think no more of it as such matters are not
 essential in the service of God: the devil has deceived many Christians
@@ -88,13 +88,13 @@ not whence they come or whether they are only fancies.
 
 5\. I caution you on one point--although they may come from God, you
 must not esteem yourself more highly, for He often spoke to the
-Pharisees <span id="fr_238"></span>[2](#fn_238)--all the good consists
+Pharisees <span id="fr_238"></span>[2](#fn_238.md)--all the good consists
 in profiting by His words. Take no more notice of any speeches you hear
 which disagree with the Holy Scriptures than if you heard them from
 Satan himself. Though they may only rise from your vivid imagination,
 look upon them as a temptation against the faith. Always resist them;
 then they will leave you, and cease, for they have little strength of
-their own. <span id="fr_239"></span>[3](#fn_239)
+their own. <span id="fr_239"></span>[3](#fn_239.md)
 
 6\. Now let us return to the first point--whether these communications
 come from the inferior or
@@ -107,22 +107,22 @@ originating from God.
 7\. In my opinion these are the most certain signs of their being
 divine. The first and truest is the power and authority they carry with
 them, for these words are operative. <span
-id="fr_240"></span>[4](#fn_240) For example: a soul is suffering all the
+id="fr_240"></span>[4](#fn_240.md) For example: a soul is suffering all the
 sorrow and disquiet I have described: the mind is darkened and dry; but
 it is set at peace, freed from all trouble and filled with light merely
 by hearing the words: 'Be not troubled.' These deliver it from all its
 pains, although it felt as though, if the whole world and all its
 theologians had united in trying to persuade it there was no cause for
 grief, it could not, in spite of all their efforts, have been delivered
-from its affliction. <span id="fr_241"></span>[5](#fn_241)
+from its affliction. <span id="fr_241"></span>[5](#fn_241.md)
 
 8\. Again, a person is troubled and greatly terrified at being told by
 her confessor and other people that her soul is under the influence of
 the evil one: she hears a single sentence which says, 'It is I, be not
-afraid,' <span id="fr_242"></span>[6](#fn_242) and is at once freed from
+afraid,' <span id="fr_242"></span>[6](#fn_242.md) and is at once freed from
 all fears and filled with consolation; indeed, she believes it would be
 impossible for any one to disturb her confidence. <span
-id="fr_243"></span>[7](#fn_243)
+id="fr_243"></span>[7](#fn_243.md)
 
 9\. Again, when exceedingly anxious about important business, not
 knowing whether or not it will be successful, on hearing words bidding
@@ -132,17 +132,17 @@ her
 
 <span class="contnote">\[paragraph continues\]</span> 'Be at peace; all
 will go well,' she feels reassured and free from all care in the
-matter. <span id="fr_244"></span>[8](#fn_244) Many other instances of
+matter. <span id="fr_244"></span>[8](#fn_244.md) Many other instances of
 the same sort could be mentioned.
 
 10\. The second sign is a great calm and a devout and peaceful
 recollection which dwell in the soul together with a desire to praise
 God. They say that communications, at any rate in this mansion, are not
 uttered direly by God but are transmitted by an angel. <span
-id="fr_245"></span>[9](#fn_245) Then, O my God, if a word sent to us by
+id="fr_245"></span>[9](#fn_245.md) Then, O my God, if a word sent to us by
 Thee through Thy messenger has such force, what effects wilt Thou not
 leave in the soul united to Thee in a mutual bond of love? <span
-id="fr_246"></span>[10](#fn_246)
+id="fr_246"></span>[10](#fn_246.md)
 
 11\. The third proof is that these words do not pass from the memory but
 remain there for a very long time; sometimes they are never forgotten.
@@ -160,7 +160,7 @@ destroyed. Perhaps everything may seem to militate against what was
 heard and years pass by, yet the spirit never loses its belief that God
 will make use of means unknown to men for the purpose and that finally
 what was foretold must surely happen; as indeed it does. <span
-id="fr_247"></span>[11](#fn_247)
+id="fr_247"></span>[11](#fn_247.md)
 
 12\. Still, as I said, the soul is troubled at seeing many obstacles in
 the way of the accomplishment of the prophecy. The words, their effects,
@@ -168,7 +168,7 @@ and the assurance they carry with them convinced the soul at the moment
 that they came from God. Afterwards, however, doubts arise as to whether
 the locutions came from the devil or from the imagination, although
 while hearing them the person would have died to defend their
-truth. <span id="fr_248"></span>[12](#fn_248) But, as I said, these
+truth. <span id="fr_248"></span>[12](#fn_248.md) But, as I said, these
 misgivings must be suggested by the evil one to afflict and intimidate
 her, especially if by carrying out a command thus given great good will
 result to souls and some work be done conducing notably to the honour
@@ -198,7 +198,7 @@ detected in telling falsehoods, she would not be so grieved as at these
 locutions proving untrue--as if she could do anything in the matter
 beyond repeating what has been said to her! A certain person was
 frequently reminded in such a case of the Prophet Jonas, when he found
-Ninive was not to be destroyed. <span id="fr_249"></span>[13](#fn_249)
+Ninive was not to be destroyed. <span id="fr_249"></span>[13](#fn_249.md)
 
 15\. In fact, as these words come from the Spirit of God, it is right
 thus to trust them and to desire that He Who is supreme truth should not
@@ -214,7 +214,7 @@ indeed it
 is a weakness, though I cannot myself condemn it as an evil.
 
 16\. If these locutions proceed from the imagination <span
-id="fr_250"></span>[14](#fn_250) they show no such signs, bringing
+id="fr_250"></span>[14](#fn_250.md) they show no such signs, bringing
 neither conviction, peace, nor interior joy with them. But in some cases
 I have come across, on account of a very weak constitution or vivid
 imagination or of other causes I do not know, persons while absorbed in
@@ -226,7 +226,7 @@ dream, fancy they are spoken to or see things they imagine come from
 God, but which leave no more effect than dreams.
 
 17\. Again, one who very lovingly asks something of our Lord may fancy
-that an answer comes from Him. <span id="fr_251"></span>[15](#fn_251)
+that an answer comes from Him. <span id="fr_251"></span>[15](#fn_251.md)
 This often occurs, but I think that no one accustomed to receive divine
 communications could be deceived on this point by the imagination.
 
@@ -241,14 +241,14 @@ of their
 
 <span id="page_182">p. 182</span>
 
-truth and divine origin. <span id="fr_252"></span>[16](#fn_252) His
+truth and divine origin. <span id="fr_252"></span>[16](#fn_252.md) His
 Majesty wishes us to take this course; it is not disobedience to His
 commands, for He has bidden us hold our confessor as His representative
 even where there is no doubt that the communications come from Him: thus
 we shall gain courage if the matter is a very difficult one. Our Lord
 will reassure our confessor, whom, when He so chooses, He will inspire
 with faith that these locutions are from the Holy Ghost. <span
-id="fr_253"></span>[17](#fn_253) If not, we are freed from all further
+id="fr_253"></span>[17](#fn_253.md) If not, we are freed from all further
 obligations in the matter. I think it would be very dangerous to act
 against our confessor's advice and to prefer our own opinions in such a
 matter. Therefore, sisters, I admonish you in the name of our Lord,
@@ -256,14 +256,14 @@ never to do anything of the sort.
 
 19\. God speaks to the soul in another way by a certain intellectual
 vision which I think undoubtedly proceeds from Him; it will be described
-later on. <span id="fr_254"></span>[18](#fn_254)8 It takes place far
+later on. <span id="fr_254"></span>[18](#fn_254.md)8 It takes place far
 within the innermost depths of the soul which appears to hear distinctly
 in a most mysterious manner, with its spiritual hearing, the words
 spoken to it by our Lord Himself. The way in which the spirit perceives
 these words and the results produced by them, convince us that they
 cannot in any way come from the devil. Their powerful aftereffects force
 us to admit this and plainly show they do not spring from the
-imagination. <span id="fr_255"></span>[19](#fn_255) Careful
+imagination. <span id="fr_255"></span>[19](#fn_255.md) Careful
 consideration will assure us of this for the following reasons;--
 
 20\. Firstly, the clearness of the language varies
@@ -275,7 +275,7 @@ distinct that the hearer remembers if there were a syllable missing, and
 what words were made use of even though a whole sentence was spoken. But
 if the speech were only a freak of fancy, it would not be so audible nor
 would the words be so distinct but would be only half articulated. <span
-id="fr_256"></span>[20](#fn_256)
+id="fr_256"></span>[20](#fn_256.md)
 
 21\. The second reason is that often the person was not thinking of what
 is heard; sometimes the locution even comes unexpectedly during
@@ -285,17 +285,17 @@ Frequently it concerns things of whose existence the hearer knew nothing
 nor even imagined such events could ever come to pass; therefore it is
 impossible for the imagination to have framed such speeches and deceived
 the mind by fancies about what it had never wished, nor sought for, nor
-even thought about. <span id="fr_257"></span>[21](#fn_257)
+even thought about. <span id="fr_257"></span>[21](#fn_257.md)
 
 22\. The third reason is that in a genuine case the soul seems to listen
 to the words, whereas when the imagination is at work, little by little
 it composes what the person wishes to hear. <span
-id="fr_258"></span>[22](#fn_258)
+id="fr_258"></span>[22](#fn_258.md)
 
 23\. The fourth reason is because divine locutions differ immensely from
 others, a single word comprising a depth of meaning which our
 understanding could not thus quickly condense into one phrase. <span
-id="fr_259"></span>[23](#fn_259)
+id="fr_259"></span>[23](#fn_259.md)
 
 24\. Fifthly because, in a manner I cannot explain, these
 communications, without any further explanations, frequently give us to
@@ -307,7 +307,7 @@ more than is implied by the words themselves. I shall speak farther on
 of this way of understanding hidden things which is very subtle and a
 favour for which we should thank God. Some people are exceedingly
 suspicious about these and other communications of the same kind. I
-speak particularly of some one <span id="fr_260"></span>[24](#fn_260)
+speak particularly of some one <span id="fr_260"></span>[24](#fn_260.md)
 who experienced them herself, though there may be others who cannot
 understand them. I know that she has considered the subject very
 carefully, God having often bestowed this grace on her. Her principal
@@ -318,7 +318,7 @@ this in a form of words pronounced so distinctly that there would be no
 more doubt as to their reality than if they came from the spirit of
 truth, while those coming from the imagination leave us uncertain
 whether we heard the words or not. But Satan could never counterfeit the
-effects I spoke of; <span id="fr_261"></span>[25](#fn_261) he leaves
+effects I spoke of; <span id="fr_261"></span>[25](#fn_261.md) he leaves
 neither peace nor light in the soul, only anxiety and confusion. In any
 case, he can do little or no harm to one who is humble and who, as I
 advised, does not act on what is heard.
@@ -331,7 +331,7 @@ unless self-abasement increases with God's expressions of love,
 
 they do not come from the Holy Spirit. Inevitably, when they are divine,
 the greater the favours, the less the soul esteems itself and the more
-keenly it remembers its sins. <span id="fr_262"></span>[26](#fn_262) It
+keenly it remembers its sins. <span id="fr_262"></span>[26](#fn_262.md) It
 becomes more oblivious of self-interest: the will and memory grow more
 fervent in seeking solely God's honour with no thought of self. It also
 becomes unceasingly careful not to deviate deliberately from the will of
@@ -351,7 +351,7 @@ not speaking of freaks of fancy which may be prevented by ceasing to
 desire certain things or by paying no attention to its inventions. This
 is not feasible when these communications come from the Holy Ghost Who,
 when He speaks, stops all other thoughts and compels the mind to
-listen. <span id="fr_263"></span>[27](#fn_263) Mark this: that I believe
+listen. <span id="fr_263"></span>[27](#fn_263.md) Mark this: that I believe
 it would be easier for a person with very keen ears to avoid hearing a
 loud voice, for he could occupy
 
@@ -360,7 +360,7 @@ loud voice, for he could occupy
 his thoughts and mind in other things. Not so here; the soul can do
 nothing, nor has it ears to stop, nor power to think of aught but what
 is said to it. For He Who could stay the sun on its course (at the
-prayer of Josue, <span id="fr_264"></span>[28](#fn_264) I believe) can
+prayer of Josue, <span id="fr_264"></span>[28](#fn_264) I believe.md) can
 so quiet the faculties and the interior of the spirit as to make it
 perceive that another and a stronger Lord than itself governs this
 castle; it is thus affected with profound devotion and humility, seeing
@@ -373,37 +373,37 @@ may be some guide to those who may experience such favours.
 
 ### Footnotes
 
-<span id="fn_237"></span>[175:1](tic20.htm#fr_237) *Life*, ch. xxiii.
+<span id="fn_237"></span>[175:1](tic20.htm#fr_237.md) *Life*, ch. xxiii.
 114.
 
-<span id="fn_238"></span>[176:2](tic20.htm#fr_238) Antonius a Sp. S.
+<span id="fn_238"></span>[176:2](tic20.htm#fr_238.md) Antonius a Sp. S.
 *l.c.* tr. iii. n. 323. St. John of the Cross, *Ascent of Mount Carmel*,
 bk. ii. ch. xxvii.
 
-<span id="fn_239"></span>[176:3](tic20.htm#fr_239) *Life*, ch. xxv. 13,
+<span id="fn_239"></span>[176:3](tic20.htm#fr_239.md) *Life*, ch. xxv. 13,
 18.
 
-<span id="fn_240"></span>[177:4](tic20.htm#fr_240) Ps. cxlviii. 5: 'Ipse
+<span id="fn_240"></span>[177:4](tic20.htm#fr_240.md) Ps. cxlviii. 5: 'Ipse
 dixit et facta sunt.' *Life*, ch. xxv. 5. Anton. a Sp. S. *l.c.* tr.
 iii. n. 353. St. John of the Cross, *Ascent of Mount Carmel*, bk. ii.
 ch. xxxi. calls these 'substantial words.'
 
-<span id="fn_241"></span>[177:5](tic20.htm#fr_241) *Life*, ch. xxvi. 6;
+<span id="fn_241"></span>[177:5](tic20.htm#fr_241.md) *Life*, ch. xxvi. 6;
 xxx. 17. *Rel*. i. 26.
 
-<span id="fn_242"></span>[177:6](tic20.htm#fr_242) St. Luke xxiv. 36.
+<span id="fn_242"></span>[177:6](tic20.htm#fr_242.md) St. Luke xxiv. 36.
 
-<span id="fn_243"></span>[177:7](tic20.htm#fr_243) *Life*, ch. xxv. 22;
+<span id="fn_243"></span>[177:7](tic20.htm#fr_243.md) *Life*, ch. xxv. 22;
 xxxiii. 10. *Rel*. vii. 22. St. John of the Cross, *Ascent of Mount
 Carmel*, bk. ii. ch. xxxi. 1.
 
-<span id="fn_244"></span>[178:8](tic20.htm#fr_244) *Life*, ch. xxxv. 7.
+<span id="fn_244"></span>[178:8](tic20.htm#fr_244.md) *Life*, ch. xxxv. 7.
 *Rel*. ix. 6. St. John of the Cross, *Ascent of Mount Carmel*, bk. iii.
 ch. ii. 7.
 
-<span id="fn_245"></span>[178:9](tic20.htm#fr_245) *Rel*. v. 14.
+<span id="fn_245"></span>[178:9](tic20.htm#fr_245.md) *Rel*. v. 14.
 
-<span id="fn_246"></span>[178:10](tic20.htm#fr_246) *Life*, ch. xxv.
+<span id="fn_246"></span>[178:10](tic20.htm#fr_246.md) *Life*, ch. xxv.
 23-25. See also Schram, *Instit. theol. myst*. 528 schol.; 529 schol.
 ii. and iii.; 5 3 I schol. ii.; 5 32 schol. ii. Exterior locutions may
 proceed direct from God, but generally are due to the ministry of
@@ -414,63 +414,63 @@ proceed from God, Who alone is able to act upon the substance of the
 soul. See also Life, ch. xxvii. 7 (end), 8, 9, and 10, and the
 corresponding chapters in St. John's *Ascent of Mount Carmel*.
 
-<span id="fn_247"></span>[179:11](tic20.htm#fr_247) *Life*, ch. xxv. 3,
+<span id="fn_247"></span>[179:11](tic20.htm#fr_247.md) *Life*, ch. xxv. 3,
 10. *Rel*. ii. 17.
 
-<span id="fn_248"></span>[179:12](tic20.htm#fr_248) *Ibid*, ch. xxv. 10.
+<span id="fn_248"></span>[179:12](tic20.htm#fr_248.md) *Ibid*, ch. xxv. 10.
 
-<span id="fn_249"></span>[180:13](tic20.htm#fr_249) Jonas iv. 1: 'Et
+<span id="fn_249"></span>[180:13](tic20.htm#fr_249.md) Jonas iv. 1: 'Et
 afflictus est Jonas afflictione magna et iratus est; et oravit ad
 Dominum et dixit: Obsecro, Domine, numquid non hoc est verbum meum cum
 adhuc essem in terra mea?'
 
-<span id="fn_250"></span>[181:14](tic20.htm#fr_250) *Life*, ch. xxv. 4
+<span id="fn_250"></span>[181:14](tic20.htm#fr_250.md) *Life*, ch. xxv. 4
 (end) and 5 (beginning).
 
-<span id="fn_251"></span>[181:15](tic20.htm#fr_251) *Ibid*. ch. xxv. 4
+<span id="fn_251"></span>[181:15](tic20.htm#fr_251.md) *Ibid*. ch. xxv. 4
 (beginning).
 
-<span id="fn_252"></span>[182:16](tic20.htm#fr_252) *Way of Perf.* ch.
+<span id="fn_252"></span>[182:16](tic20.htm#fr_252.md) *Way of Perf.* ch.
 xxxix. 6. *Life*, ch. xxvi. 4, 5. St. John of the Cross, *Ascent of
 Mount Carmel*, bk. ii. ch. xxii. 14-18.
 
-<span id="fn_253"></span>[182:17](tic20.htm#fr_253) *Rel*. vii. 15.
+<span id="fn_253"></span>[182:17](tic20.htm#fr_253.md) *Rel*. vii. 15.
 
-<span id="fn_254"></span>[182:18](tic20.htm#fr_254) *Infra*, ch. viii.
+<span id="fn_254"></span>[182:18](tic20.htm#fr_254.md) *Infra*, ch. viii.
 
-<span id="fn_255"></span>[182:19](tic20.htm#fr_255) *Life*, ch. xxvii,
+<span id="fn_255"></span>[182:19](tic20.htm#fr_255.md) *Life*, ch. xxvii,
 8.
 
-<span id="fn_256"></span>[183:20](tic20.htm#fr_256) *Life*, ch. xxv. 6
+<span id="fn_256"></span>[183:20](tic20.htm#fr_256.md) *Life*, ch. xxv. 6
 and 10 (end).
 
-<span id="fn_257"></span>[183:21](tic20.htm#fr_257) *Ibid*. ch. xxv. 9,
+<span id="fn_257"></span>[183:21](tic20.htm#fr_257.md) *Ibid*. ch. xxv. 9,
 16.
 
-<span id="fn_258"></span>[183:22](tic20.htm#fr_258) *Ibid*. ch. xxv. 4,
+<span id="fn_258"></span>[183:22](tic20.htm#fr_258.md) *Ibid*. ch. xxv. 4,
 6.
 
-<span id="fn_259"></span>[183:23](tic20.htm#fr_259) *Ibid*, ch. xxv. 12
+<span id="fn_259"></span>[183:23](tic20.htm#fr_259.md) *Ibid*, ch. xxv. 12
 (beginning).
 
-<span id="fn_260"></span>[184:24](tic20.htm#fr_260) The whole of this
+<span id="fn_260"></span>[184:24](tic20.htm#fr_260.md) The whole of this
 chapter as well as chapter xxv. of the *Life* prove clearly that the
 Saint speaks about herself and that she investigated the subject with
 the greatest care.
 
-<span id="fn_261"></span>[184:25](tic20.htm#fr_261) Life, ch. xxv. 15.
+<span id="fn_261"></span>[184:25](tic20.htm#fr_261.md) Life, ch. xxv. 15.
 
-<span id="fn_262"></span>[185:26](tic20.htm#fr_262) *Life*, ch. xii. 5:
+<span id="fn_262"></span>[185:26](tic20.htm#fr_262.md) *Life*, ch. xii. 5:
 'The nearer we draw unto God the more this virtue (humility) should
 grow'; xv. 16; xix. 2; xx. 38. *Rel*. ii. 15; vii. 17; viii. 7, 9. *Way
 of Perf.* ch. xvii. 3.
 
-<span id="fn_263"></span>[185:27](tic20.htm#fr_263) *Life*, ch. xxv. 21.
+<span id="fn_263"></span>[185:27](tic20.htm#fr_263.md) *Life*, ch. xxv. 21.
 
-<span id="fn_264"></span>[186:28](tic20.htm#fr_264) Josue x. 12. 13:
+<span id="fn_264"></span>[186:28](tic20.htm#fr_264.md) Josue x. 12. 13:
 'Tunc locutus est Josue: . . . sol contra Gabaon ne movearis;
 steteruntque sol et luna.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Raptures](tic21)
+[Next: Chapter IV. Raptures](tic21.md)

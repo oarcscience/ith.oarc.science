@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,68 +34,68 @@ mythology, particularly in its repetition of the number four.
 
 ------------------------------------------------------------------------
 
-[Title Page](ain00)  
-[Author's Errata](ain01)  
-[The Story of these Stories](ain02)  
+[Title Page](ain00.md)  
+[Author's Errata](ain01.md)  
+[The Story of these Stories](ain02.md)  
 <span id="section_000"></span>
 
 ### Stories of the First Night
 
-[The Traditions Of The Pimas](ain03)  
-[The Story of the Creation](ain04)  
-[Juhwerta Mahkai's Song of Creation](ain05)  
-[Notes on Story of Creation](ain06)  
-[The Story of the Flood](ain07)  
-[Songs](ain08)  
-[Notes on the Story of the Flood](ain09)  
-[The Story Of Ah-ahn-he-eat-toe-pahk Mahkai](ain10)  
-[Notes on the Story of Ah-ahn-he-eat-toe-pahk Mahkai](ain11)  
-[The Story of Vandaih, The Man-Eagle](ain12)  
-[Notes on the Story of Vandaih](ain13)  
+[The Traditions Of The Pimas](ain03.md)  
+[The Story of the Creation](ain04.md)  
+[Juhwerta Mahkai's Song of Creation](ain05.md)  
+[Notes on Story of Creation](ain06.md)  
+[The Story of the Flood](ain07.md)  
+[Songs](ain08.md)  
+[Notes on the Story of the Flood](ain09.md)  
+[The Story Of Ah-ahn-he-eat-toe-pahk Mahkai](ain10.md)  
+[Notes on the Story of Ah-ahn-he-eat-toe-pahk Mahkai](ain11.md)  
+[The Story of Vandaih, The Man-Eagle](ain12.md)  
+[Notes on the Story of Vandaih](ain13.md)  
 <span id="section_001"></span>
 
 ### Stories of the Second Night
 
-[The Story of the Turquoises and the Red Bird](ain14)  
-[Notes on the Story of the Turquoises](ain15)  
-[The Story of Wayhohm, Toehahvs and Tottai](ain16)  
-[Notes on the Story of Wayhohm](ain17)  
-[The Story of Hawawk](ain18)  
-[Notes on the Story of Hawawk](ain19)  
-[The Story of Tawquahdahmawks and her Canal](ain20)  
-[Notes on the Story of Tawquahdahmawks](ain21)  
-[How Nooee Killed Ee-Ee-Toy](ain22)  
-[Songs](ain23)  
-[Notes on How Nooee Killed Ee-Ee-Toy](ain24)  
-[Ee-Ee-Toy's Resurrection and Speech to Juhwerta Mahkai](ain25)  
-[Notes On Ee-ee-toy's Resurrection](ain26)  
+[The Story of the Turquoises and the Red Bird](ain14.md)  
+[Notes on the Story of the Turquoises](ain15.md)  
+[The Story of Wayhohm, Toehahvs and Tottai](ain16.md)  
+[Notes on the Story of Wayhohm](ain17.md)  
+[The Story of Hawawk](ain18.md)  
+[Notes on the Story of Hawawk](ain19.md)  
+[The Story of Tawquahdahmawks and her Canal](ain20.md)  
+[Notes on the Story of Tawquahdahmawks](ain21.md)  
+[How Nooee Killed Ee-Ee-Toy](ain22.md)  
+[Songs](ain23.md)  
+[Notes on How Nooee Killed Ee-Ee-Toy](ain24.md)  
+[Ee-Ee-Toy's Resurrection and Speech to Juhwerta Mahkai](ain25.md)  
+[Notes On Ee-ee-toy's Resurrection](ain26.md)  
 <span id="section_002"></span>
 
 ### Stories of the Third Night
 
-[The Story Of Ee-ee-toy's Army](ain27)  
-[Songs](ain28)  
-[The Destruction of the Vahahkkees](ain29)  
-[Songs](ain30)  
+[The Story Of Ee-ee-toy's Army](ain27.md)  
+[Songs](ain28.md)  
+[The Destruction of the Vahahkkees](ain29.md)  
+[Songs](ain30.md)  
 [Notes on the Story of Ee-Ee-Toy's Army and that of the Destruction of
-the Vahakkees](ain31)  
-[The Story of Sohahnee Mahkai and Kawkoinpuh](ain32)  
-[Notes on the Story of Sohahnee Mahkai](ain33)  
-[The Story Of Pahtahnkum](ain34)  
-[The Song of Koelhahah About Her Son](ain35)  
-[Notes on the Story of Pahtahnkum](ain36)  
+the Vahakkees](ain31.md)  
+[The Story of Sohahnee Mahkai and Kawkoinpuh](ain32.md)  
+[Notes on the Story of Sohahnee Mahkai](ain33.md)  
+[The Story Of Pahtahnkum](ain34.md)  
+[The Song of Koelhahah About Her Son](ain35.md)  
+[Notes on the Story of Pahtahnkum](ain36.md)  
 <span id="section_003"></span>
 
 ### Stories of the Fourth Night
 
-[The Story of the Gambler's War](ain37)  
-[Notes on the Story of the Gambler's War](ain38)  
-[The Story Of Nahvahchoo](ain39)  
-[Notes on the Story of Nahvahchoo](ain40)  
-[The Story of Corn and Tobacco](ain41)  
-[Notes on the Story of Corn and Tobacco](ain42)  
-[The Story of the Children of Cloud](ain43)  
-[Notes on the Story of Cloud](ain44)  
-[The Story of Tcheunassat Seeven](ain45)  
-[Songs](ain46)  
-[The Legend of Blackwater](ain47)  
+[The Story of the Gambler's War](ain37.md)  
+[Notes on the Story of the Gambler's War](ain38.md)  
+[The Story Of Nahvahchoo](ain39.md)  
+[Notes on the Story of Nahvahchoo](ain40.md)  
+[The Story of Corn and Tobacco](ain41.md)  
+[Notes on the Story of Corn and Tobacco](ain42.md)  
+[The Story of the Children of Cloud](ain43.md)  
+[Notes on the Story of Cloud](ain44.md)  
+[The Story of Tcheunassat Seeven](ain45.md)  
+[Songs](ain46.md)  
+[The Legend of Blackwater](ain47.md)  

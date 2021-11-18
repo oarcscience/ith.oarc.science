@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas036n)  [Next](jas038n)   
- \[[37. Anansi in Monkey Country.](jas037)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas036n)  [Next](jas038n.md)   
+ \[[37. Anansi in Monkey Country.](jas037.md)\]
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ to numbers 16 and 38 in this collection.
 
 ------------------------------------------------------------------------
 
-[Next: Note 38. Curing the Sick.](jas038n)
+[Next: Note 38. Curing the Sick.](jas038n.md)

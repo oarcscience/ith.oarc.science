@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Next](cohl001) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Next](cohl001.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Contents](cohl001)
+[Next: Contents](cohl001.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc117) 
-[Next](motc119) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc117.md) 
+[Next](motc119.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ The Bear did so and so, they say.
 
 ------------------------------------------------------------------------
 
-[Next: 119. When Babies Are Born: The Wren And The Cricket.](motc119)
+[Next: 119. When Babies Are Born: The Wren And The Cricket.](motc119.md)

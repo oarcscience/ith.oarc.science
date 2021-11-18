@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr34)  [Next](ppr36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr34)  [Next](ppr36.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ That I should die!
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](ppr36)
+[Next: Bibliography](ppr36.md)

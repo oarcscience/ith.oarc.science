@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sotu13)  [Next](sotu15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sotu13)  [Next](sotu15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Universe*, by Nathan R. Wood, \[1932\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 ### VIII. THE SECRET OF THE UNIVERSE AND THE PROBLEM OF REALITY, OR THE TRUE
 
- <span id="fr_5"></span>[\*](#fn_5)<span class="small">How the mind sees
+ <span id="fr_5"></span>[\*](#fn_5.md)<span class="small">How the mind sees
 things—Why things are universals and particulars and
 things-as-related-to-others—Which one is real?—The forms of pure reason.
 Why they are what they are—Forms of thought versus outer realities—Which
@@ -312,12 +312,12 @@ God.
 
 ### Footnotes
 
-<span id="fn_5"></span>[194:\*](sotu14.htm#fr_5) The general reader may,
+<span id="fn_5"></span>[194:\*](sotu14.htm#fr_5.md) The general reader may,
 if he so prefers, omit this chapter, which is unavoidably technical in
 much of its language, and may continue the reading with the beginning of
-Chapter 9, on page [203](sotu15.htm#page_203).
+Chapter 9, on page [203](sotu15.htm#page_203.md).
 
 ------------------------------------------------------------------------
 
 [Next: IX. The Secret of the Universe and the Problem of Aesthetics, or
-the Beautiful](sotu15)
+the Beautiful](sotu15.md)

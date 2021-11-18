@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis11)  [Next](kis13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis11)  [Next](kis13.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ flowers to cross, and as they went across it Fedelma told the King's Son
 
 ------------------------------------------------------------------------
 
-[Next: Part XIII: The Story of the Cloud-Woman](kis13)
+[Next: Part XIII: The Story of the Cloud-Woman](kis13.md)

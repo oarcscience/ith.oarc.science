@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Procopius](../index)  [Index](index)  [Previous](shp07)  [Next](shp09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Procopius](../index)  [Index](index)  [Previous](shp07)  [Next](shp09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -192,4 +192,4 @@ This is the explanation of the affair between Solomon and Pegasius.
 ------------------------------------------------------------------------
 
 [Next: VI. Ignorance of the Emperor Justin, and His Stencilled
-Signature, and How His Nephew Justinian Was the Virtual Ruler](shp09)
+Signature, and How His Nephew Justinian Was the Virtual Ruler](shp09.md)

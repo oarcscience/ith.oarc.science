@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc20)  [Next](busc22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc20)  [Next](busc22.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -64,7 +64,7 @@ Nought is there equal to that meditation—
 In the Doctrine is this jewel of perfection,  
 So through this truth to us may there be welfare.
 
-The persons eight, <span id="fr_15"></span>[1](#fn_15) commended by the
+The persons eight, <span id="fr_15"></span>[1](#fn_15.md) commended by the
 righteous,  
 Who form four pairs, worthy are they of offerings.  
 They hear the teaching of the blessed Master,  
@@ -101,7 +101,7 @@ Three things he wholly leaves behind and loses:
 False theory of the self, uncertainty,  
 And all there is of ceremonial practice.  
 From the four hells that person is delivered,  
-Nor can he then the six great crimes <span id="fr_16"></span>[1](#fn_16)
+Nor can he then the six great crimes <span id="fr_16"></span>[1](#fn_16.md)
 commit—
 
 <span id="page_102">p. 102</span>
@@ -128,7 +128,7 @@ The Highest taught the best supremest doctrine—
 In the Buddha is this jewel of perfection,  
 So through this truth to us may there be welfare.
 
-"Destroyed is the old, <span id="fr_17"></span>[1](#fn_17) the new has
+"Destroyed is the old, <span id="fr_17"></span>[1](#fn_17.md) the new has
 not arisen."  
 They with their thought not set on future being,  
 The seeds destroyed, desire not germinated,  
@@ -158,21 +158,21 @@ Worshipped of gods and men. May there be welfare.
 
 ### Footnotes
 
-<span id="fn_15"></span>[100:1](busc21.htm#fr_15) The persons on the
+<span id="fn_15"></span>[100:1](busc21.htm#fr_15.md) The persons on the
 four stages of the Eightfold Path. Each stage is divided into two
 degrees, the way and the fruit, forming eight classes or four pairs. See
-note, [p. 70](busc15.htm#page_70).
+note, [p. 70](busc15.htm#page_70.md).
 
-<span id="fn_16"></span>[101:1](busc21.htm#fr_16) Murder of a mother, a
+<span id="fn_16"></span>[101:1](busc21.htm#fr_16.md) Murder of a mother, a
 father, an Arahat, shedding the blood of a Buddha, causing schism in the
 Order, following other teachers.
 
-<span id="fn_17"></span>[102:1](busc21.htm#fr_17) *I.e.*, karma.
+<span id="fn_17"></span>[102:1](busc21.htm#fr_17.md) *I.e.*, karma.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XIX. Dhaniya The Herdsman](busc22)
+[Next: XIX. Dhaniya The Herdsman](busc22.md)
 
 </div>

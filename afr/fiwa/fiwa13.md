@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa12)  [Next](fiwa14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa12)  [Next](fiwa14.md) 
 
 ------------------------------------------------------------------------
 
@@ -519,4 +519,4 @@ seen in almost every village.
 ------------------------------------------------------------------------
 
 [Next: Chapter XII: The Fetich--Its Relations to Daily Work and
-Occupations and to the Needs of Life](fiwa14)
+Occupations and to the Needs of Life](fiwa14.md)

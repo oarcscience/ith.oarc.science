@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa13)  [Next](smoa15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa13)  [Next](smoa15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ had claimed the queen the law first gave him—king.
 Fondly had he loved the one who gave him birth; And she foretold the
 fate which waited all when death had claimed her—Queen first
 chosen—banishment to all her house should he, the king,
-[rued](errata.htm#4).
+[rued](errata.htm#4.md).
 
 Osiris, old and doting, sent his ships afar to bring to him a daughter
 of that land which since that day Assyria claimed; the race which first
@@ -166,4 +166,4 @@ world through eyes of soul alone.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. The flight of Prince Osiris. His Egyptian
-court.](smoa15)
+court.](smoa15.md)

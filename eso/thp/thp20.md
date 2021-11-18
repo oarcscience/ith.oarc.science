@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](thp19) 
-[Next](thp21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](thp19.md) 
+[Next](thp21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -166,7 +166,7 @@ To enter into the spirit of anything, then, is to make yourself one in
 thought with the creative principle that is at the centre of it; and
 therefore why not go to the centre of all things at once, and enter into
 the Spirit of Life? Do you ask where to find it? *In yourself*; and in
-proportion as you find it there, you [will](errata.htm#1) find it
+proportion as you find it there, you [will](errata.htm#1.md) find it
 everywhere else. Look at Life as the one thing that is, whether in you
 or around you; try to realise the livingness of it, and then seek to
 enter into the Spirit of it by affirming it to be the whole of what you
@@ -196,4 +196,4 @@ rest is one with ceaseless activity.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. The Bible and the New Thought](thp21)
+[Next: XIX. The Bible and the New Thought](thp21.md)

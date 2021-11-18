@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg16) [Next](aflg18)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg16) [Next](aflg18.md)
 
 ------------------------------------------------------------------------
 
@@ -8,35 +8,35 @@ American](../index) [Index](index) [Previous](aflg16) [Next](aflg18)
 ## C<span class="small">HAPTER</span> XVII THE MEDIClNE-MAN
 
    <span class="small">Medicine-men practise what they preach: Names
-(*[285](#pp_285)*); respected and feared both alive or dead and may be
-given offerings (*[286](#pp_286)*), but occupy no position necessarily
-distinctive, as captain of tribe (*[287](#pp_287)*).  
-   Insignia and paraphernalia: bench (*[288](#pp_288)*), rattle
-(*[289](#pp_289)*), doll or manikin, identical with idol or zemi of
-Antilleans (*[290](#pp_290)*), quartz crystals (*[291](#pp_291)*);
-miscellaneous kickshaws (*[292](#pp_292)*).  
-   Office, hereditary (*[293](#pp_293)*). Female doctors
-(*[294](#pp_294)*). Consulting-room (*[295](#pp_295)*). First Piai
-(*[296](#pp_296)*). Apprenticeship and Installation
-(*[297](#pp_297)*).  
-   Power over Spirits: of animals (*[298](#pp_298)*), of himself (e. g.
-invisibility) and of other Indians (*[299](#pp_299)*).  
-   As interpreter of dreams (*[300](#pp_300)*); seer or prophet
-(*[301](#pp_301)*); his general versatility (*[302](#pp_302)-303*);
-guardian of the tribal traditions (*[304](#pp_304)*); the giver of
-personal names (*[305](#pp_305)*); his treatment of sickness and disease
-(*[306](#pp_306)*).  
-   Disease and treatment: signification (*[307](#pp_307)*); usual
-treatment by Arawak piai (*[308](#pp_308)*); by Carib
-(*[309](#pp_309)*); by Galibi (*[310](#pp_310)*); by ? Oyampi
-(*[311](#pp_311)*); by Makusi (*[312](#pp_312)*); by Indians of Caracas
-(*[313](#pp_313)*); by Carib Islanders (*[314](#pp_314)*). Spirits
-specially invoked in cure (*[315](#pp_315)*); objects extracted from
-patients (*[316](#pp_316)*); dieting of patient's relatives and family
-(*[317](#pp_317)*); medical fees (*[318](#pp_318)*); Quack doctors
-(*[319](#pp_319)*).</span>
+(*[285](#pp_285)*.md); respected and feared both alive or dead and may be
+given offerings (*[286](#pp_286)*.md), but occupy no position necessarily
+distinctive, as captain of tribe (*[287](#pp_287)*.md).  
+   Insignia and paraphernalia: bench (*[288](#pp_288)*.md), rattle
+(*[289](#pp_289)*.md), doll or manikin, identical with idol or zemi of
+Antilleans (*[290](#pp_290)*), quartz crystals (*[291](#pp_291)*.md);
+miscellaneous kickshaws (*[292](#pp_292)*.md).  
+   Office, hereditary (*[293](#pp_293)*.md). Female doctors
+(*[294](#pp_294)*). Consulting-room (*[295](#pp_295)*.md). First Piai
+(*[296](#pp_296)*.md). Apprenticeship and Installation
+(*[297](#pp_297)*.md).  
+   Power over Spirits: of animals (*[298](#pp_298)*.md), of himself (e. g.
+invisibility) and of other Indians (*[299](#pp_299)*.md).  
+   As interpreter of dreams (*[300](#pp_300)*.md); seer or prophet
+(*[301](#pp_301)*); his general versatility (*[302](#pp_302)-303*.md);
+guardian of the tribal traditions (*[304](#pp_304)*.md); the giver of
+personal names (*[305](#pp_305)*.md); his treatment of sickness and disease
+(*[306](#pp_306)*.md).  
+   Disease and treatment: signification (*[307](#pp_307)*.md); usual
+treatment by Arawak piai (*[308](#pp_308)*.md); by Carib
+(*[309](#pp_309)*); by Galibi (*[310](#pp_310)*.md); by ? Oyampi
+(*[311](#pp_311)*); by Makusi (*[312](#pp_312)*.md); by Indians of Caracas
+(*[313](#pp_313)*); by Carib Islanders (*[314](#pp_314)*.md). Spirits
+specially invoked in cure (*[315](#pp_315)*.md); objects extracted from
+patients (*[316](#pp_316)*.md); dieting of patient's relatives and family
+(*[317](#pp_317)*); medical fees (*[318](#pp_318)*.md); Quack doctors
+(*[319](#pp_319)*.md).</span>
 
-   <span id="pp_285"></span>**285.**[\*](#pp_285) There is abundant
+   <span id="pp_285"></span>**285.**[\*](#pp_285.md) There is abundant
 evidence that the medicine-men practised what they preached, and had
 every confidence in the powers with which they had been intrusted. "They
 practise those incantations over their own sick children, and cause them
@@ -69,7 +69,7 @@ from the Carib *piache*, which Gumilla employs, and is still met with
 among the Pomeroon group of these Indians as *piésan*. Brett (Br, 363)
 derives it from the Carib word *puiai*, which denotes their profession.
 The Akawais call it *piatsan*. Dance seems to derive the name from that
-of the tribal hero, Pia ([Sect. *41*](aflg02.htm#pp_41)). Crévaux in
+of the tribal hero, Pia ([Sect. *41*](aflg02.htm#pp_41).md). Crévaux in
 Cayenne speaks of *piay*, de Goeje in Surinam of *piai*, and Bates,
 throughout the extent of the Amazons visited by him, of *pajé*. The
 Warrau word for the priest-doctor is *wishidatu* (*wisidaā*, according
@@ -82,9 +82,9 @@ class="small">III</span>, 89), and the Island Caribs as *Bové* (RoP,
 473). The Arawak designation is of equal interest and also of extended
 range: it is *Semi-tchichi* or *Semi-cihi*, the same term applied
 generally to the kickshaws and various apparatus employed in the pursuit
-of the craft ([Sect. *93*](aflg07.htm#pp_93)).
+of the craft ([Sect. *93*](aflg07.htm#pp_93).md).
 
-   <span id="pp_286"></span>**286.**[\*](#pp_286) Both alive and dead,
+   <span id="pp_286"></span>**286.**[\*](#pp_286.md) Both alive and dead,
 the medicine-men had the respect and fear of the community. They were
 the teachers, preachers, counsellors, and guides, of the Indians;
 "regarded as the arbiters of life and death, everything was permitted,
@@ -100,7 +100,7 @@ abstain from certain fish and game (PBa, 211); no animal food was
 publicly tasted by these priests, while they abstained, even more
 strictly than the laity from the flesh of oxen, sheep, and all other
 animals that had been transported from Europe ([Sect.
-*247*](aflg15.htm#pp_247)) and were "unnatural" to their country (St,
+*247*](aflg15.htm#pp_247).md) and were "unnatural" to their country (St,
 <span class="small">I</span>, 399). They were said to renew their piai
 power from time to time by drinking tobacco juice, but in doses not so
 strong as at the time of installation (PBa, 211). As stated above, even
@@ -130,9 +130,9 @@ where the practice is undoubtedly observed by the Indians (KG, <span
 class="small">I</span>, 237), while Coudreau (<span
 class="small">II</span>, 404) has observed it on the Rio Branco.
 (Compare the protective charm against the Curupira, etc., in [Sect.
-*109*](aflg08.htm#pp_109).).
+*109*](aflg08.htm#pp_109)..md).
 
-   <span id="pp_287"></span>**287.**[\*](#pp_287) It sometimes happened
+   <span id="pp_287"></span>**287.**[\*](#pp_287.md) It sometimes happened
 that the captain and the piai were one and the same person, as in
 Cayenne (PBa, 208). But on the other hand, however great his abilities,
 the medicine-man did not obtain any distinctive position, as head of the
@@ -143,7 +143,7 @@ ornament or decoration. I can find no confirmation of Bernau's statement
 that the novitiate's "right ear is pierced, and he is required to wear a
 ring all his lifetime" (Be, 31).
 
-   <span id="pp_288"></span>**288.**[\*](#pp_288) The insignia and
+   <span id="pp_288"></span>**288.**[\*](#pp_288.md) The insignia and
 "stock-in-trade" of the medicine-man, in his highest stage of
 development, comprise a particular kind of bench, a rattle, a doll or
 manikin, certain crystals, and other kickshaws, generally something out
@@ -161,7 +161,7 @@ in a special shed, the piai's consulting-room, <span id="page_330">p.
 330</span> so to speak. Were they to be profaned, they would lose their
 intrinsic virtues, while the delinquents would suffer misfortunes of
 various descriptions. The bench (the *ha-la* of the Arawaks), <span
-id="pl5"></span>[plate 5](pl5), differed from the ordinary article of
+id="pl5"></span>[plate 5](pl5.md), differed from the ordinary article of
 furniture usually met with in Indian houses, in being larger, often
 painted, and carved in fanciful designs of various animals, but little
 is known concerning the why and wherefore of the selection of the
@@ -181,13 +181,13 @@ FIG. 4. Piai's rattle (Arawak), Pomeroon.</td>
 </tbody>
 </table>
 
-   <span id="pp_289"></span>**289.**[\*](#pp_289) The rattle, *maráka*
+   <span id="pp_289"></span>**289.**[\*](#pp_289.md) The rattle, *maráka*
 (an Arawak word), the *shakshak* of the Creoles, differs somewhat in
 shape, size, and ornamentation throughout the various tribes. It
 consists essentiany of a large cleaned-out "calabash," containing stones
 and other objects, through which a closely fitting tapering stick is run
 from end to end by means of two apertures cut for the purpose ([fig.
-4](#p330)). This gourd shell (*Crescentia cujete* Linn.), which may or
+4](#p330)). This gourd shell (*Crescentia cujete* Linn..md), which may or
 may not be painted in various colors, is provided with certain small
 circular holes as well as with a few long narrow slits, both kinds of
 openings being too small to allow of the contents (either
@@ -199,7 +199,7 @@ teeth to fall out if they are chewed (Ba, 311), or hard red ones (StC,
 usually have some out-of-the-way origin; the former, for instance, may
 have been extracted from the piai teacher's stomach (PBa, 208); the
 latter may be the gift of the Water Spirits ([Sect.
-*185*](aflg12.htm#pp_185)). According to a Kaliña, the power of the
+*185*](aflg12.htm#pp_185).md). According to a Kaliña, the power of the
 *maráka* lies in the stone contained therein (Go, 14). The thicker,
 projecting part of the stick constitutes the handle, to prevent its
 slipping; it may be wrapped with cotton thread. The exposed thinner end
@@ -213,7 +213,7 @@ states his belief that the Aruacas \[Arawaks\], the cleverest of the
 Indians, were the inventors of the *maráka*, which even in his day, some
 two centuries ago, had "also been introduced into other nations." From
 the fact that, according to Indian tradition ([Sect.
-*185*](aflg12.htm#pp_185)), the original rattle was a gift from the
+*185*](aflg12.htm#pp_185).md), the original rattle was a gift from the
 Spirits, Dance (290) accounts for the great veneration in which it is
 held even by Christian converts who have ceased to use it. Brett (Br,
 364) confirms this, saying that there are Indians who fear to touch it
@@ -228,7 +228,7 @@ power now, and with the sick person its healing properties die" (ScR,
 <span class="small">I</span>, 172). I can not, however, find this
 statement anywhere confirmed.
 
-   <span id="pp_290"></span>**290.**[\*](#pp_290) Gumilla (*I*, 155)
+   <span id="pp_290"></span>**290.**[\*](#pp_290) Gumilla (*I*, 155.md)
 says that the medico makes the Indians believe that the maráka speaks
 with the Spirit (*demonio*), and that by its means he knows whether the
 sick person will live or not. This statement does not exactly agree with
@@ -244,20 +244,20 @@ been made was hung round with five of the typical peaiman's rattle or
 shak-shak, and over the grave itself was placed the box of the dead man,
 containing the various objects which had been the instruments, or
 credentials, of his calling. The contents of this box . . . were a
-carved wooden doll or baby." The doll, or manikin ([fig. 5](#p332)),
+carved wooden doll or baby." The doll, or manikin ([fig. 5](#p332).md),
 which I saw used for the purpose on the Moruca River, was a little black
 one about 2½ inches long, balanced "gingerly" on its feet, which bore
 traces of having been touched with some gummy substance: if during the
 course of the special incantation it remained in the erect position, the
 patient would recover, but if it fell over, this would be a sure sign of
 his approaching death. In parts of Cayenne the doll is replaced by the
-Anaan-tanha, or Devil-figure ([Sect. *311*](aflg17.htm#pp_311)), which
+Anaan-tanha, or Devil-figure ([Sect. *311*](aflg17.htm#pp_311).md), which
 is unmercifully thrashed with a view to compelling the Evil Spirit to
 <span id="page_332">p. 332</span> leave the invalid. The identity of
 this mainland doll, or manikin, with the idol, or *cemi*, of the
-Antilleans has already been indicated ([Sect. *93*](aflg07.htm#pp_93)).
+Antilleans has already been indicated ([Sect. *93*](aflg07.htm#pp_93).md).
 
-   <span id="pp_291"></span>**291.**[\*](#pp_291) The crystals are
+   <span id="pp_291"></span>**291.**[\*](#pp_291.md) The crystals are
 employed for charming, bewitching, or cursing others, though the
 references in the literature to their application in this manner are
 exceedingly scarce. Indeed, I can call to mind only the following from
@@ -291,7 +291,7 @@ and Wapisianas cutting each other's legs with a piece of rock crystal,
 an instrument to which they ascribed particular virtue, refusing instead
 of it my offer of a lancet" (ScF, 235).
 
-   <span id="pp_292"></span>**292.**[\*](#pp_292) With respect to
+   <span id="pp_292"></span>**292.**[\*](#pp_292.md) With respect to
 remaining kickshaws, Pinckard (<span class="small">I</span>, p. 505)
 says: "And having faith in spells, they make little decorated
 instruments, of tender rushes about a foot long, which their physicians
@@ -301,9 +301,9 @@ been unable to identify thus far. Finally, on the authority of the old
 medicine-man who taught me the greater part of what I know concerning
 the practice of the art, a "charm" of some description was worn on the
 chest suspended by a cord hung round the neck ([Sect.
-*93*](aflg07.htm#pp_93)). The one that my late teacher (Bariki) employed
+*93*](aflg07.htm#pp_93)). The one that my late teacher (Bariki.md) employed
 is flat and oval, made of some resinous material, and ornamented on one
-side with the incised figure of a female frog ([fig. 6](#p333)). It had
+side with the incised figure of a female frog ([fig. 6](#p333).md). It had
 been given Bariki by his grandfather when the latter taught him his
 profession, and when the old man died, he left it to me. In the extract
 from *Timehri* (1892, p. 184) above quoted, where is to be found a list
@@ -335,7 +335,7 @@ FIG. 6. The piai's chest-ornament (Arawak), Moruca River.</td>
 quartz and boring holes through it, would be expended on a child's
 play-thing.
 
-   <span id="pp_293"></span>**293.**[\*](#pp_293) The office of the
+   <span id="pp_293"></span>**293.**[\*](#pp_293.md) The office of the
 medicine-man appears to have been hereditary and to have passed to the
 eldest son (Ba, 316). If he has no son the piai picks a friend as his
 successor (ScR, <span class="small">I</span>, 172), although the same
@@ -362,7 +362,7 @@ during its progress.
 
 <span id="page_334">p. 334</span>
 
-   <span id="pp_294"></span>**294.**[\*](#pp_294) Occasionally the piai
+   <span id="pp_294"></span>**294.**[\*](#pp_294.md) Occasionally the piai
 may be a woman. Thus, I knew an old Warrau dame who used to practise her
 profession in the neighborhood of Santa Rosa Mission, Moruca River,
 under almost the very nose of the unsuspecting Father. On the authority
@@ -373,9 +373,9 @@ same manner as the boys for the profession of piai: his own grandmother
 piai-women. On the other hand, I can find no references whatever to
 woman "doctors" throughout the early literature of the subject.
 
-   <span id="pp_295"></span>**295.**[\*](#pp_295) The medicine-man
+   <span id="pp_295"></span>**295.**[\*](#pp_295.md) The medicine-man
 usually possesses a little outhouse (Pomeroon and Moruca Rivers), <span
-id="pl6"></span>[plate 6](pl6), in which he keeps his various insignia:
+id="pl6"></span>[plate 6](pl6.md), in which he keeps his various insignia:
 the Warraus call it *hebu-hanoku* (Spirit-house). This building is of
 course taboo, as indicated by a bundle of kokerite leaves hung over the
 entrance. As a matter of fact, I have never seen the doctor's
@@ -393,7 +393,7 @@ settlement one special building for the use of all these doctors: "There
 is a certain house devoted to the use of these sorcerers, in which they
 perform their superstitious exercises, and converse with the Devil."
 
-   <span id="pp_296"></span>**296.**[\*](#pp_296) The original piai
+   <span id="pp_296"></span>**296.**[\*](#pp_296.md) The original piai
 forms the subject-matter of legends with which Arawaks, Warraus, and
 Caribs are all more or less conversant; members of all these tribes
 assure me that tobacco was brought here from the islands, but I will let
@@ -401,7 +401,7 @@ a Warrau give two of the versions:
 
  
 
-<span id="story_110"></span>[\*](#story_110)T<span
+<span id="story_110"></span>[\*](#story_110.md)T<span
 class="small">HE</span> H<span class="small">UMMINGBIRD WITH</span>
 T<span class="small">OBACCO FOR THE</span> F<span
 class="small">IRST</span> P<span class="small">IAI</span> (W)
@@ -458,7 +458,7 @@ class="small">IRST</span> P<span class="small">IAI</span> (W)
 > we had none of this plant here: it grew far away out in an island over
 > the sea. I do not know whether this island was Trinidad, or not, but
 > we Warraus call it Nibo-yuni \[lit. Man-without\] because it was
-> peopled entirely by women \[cf. [Sect. *333*](aflg19.htm#pp_333)\],
+> peopled entirely by women \[cf. [Sect. *333*](aflg19.htm#pp_333.md)\],
 > according to what the old people tell us. Well, the sorrowing father
 > sent a gaulding bird \[*Pilerodius*\] over to fetch some of the
 > tobacco seed: but as it never returned, he despatched various kinds of
@@ -512,12 +512,12 @@ class="small">IRST</span> P<span class="small">IAI</span> (W)
 > and as a matter of fact it was the poor bereaved father who came to be
 > the first piai, all through his great grief at losing his child, and
 > longing so much to see him once more.<span
-> id="page_336_fr_1"></span>[1](#page_336_note_1)
+> id="page_336_fr_1"></span>[1](#page_336_note_1.md)
 
  
 
 <span id="story_111"></span><span
-id="pp_296A"></span>**296A.**[\*](#pp_296A) K<span
+id="pp_296A"></span>**296A.**[\*](#pp_296A.md) K<span
 class="small">OMATARI, THE</span> F<span class="small">IRST</span>
 M<span class="small">EDICINE-MAN</span> (W)
 
@@ -588,7 +588,7 @@ M<span class="small">EDICINE-MAN</span> (W)
 > with swiftly-flowing water: it was here that he cut the timber from
 > out of which he next shaped the handle for the rattle and cut the
 > sticks to make his special fire with.<span
-> id="page_337_fr_1"></span>[1](#page_337_note_1) Returning home once
+> id="page_337_fr_1"></span>[1](#page_337_note_1.md) Returning home once
 > more, he fastened the handle in the gourd, but was not satisfied with
 > the result: the rattle did not look as it should. So he hung it up on
 > the beam of his piai-house, and went once more into the bush, where he
@@ -604,7 +604,7 @@ M<span class="small">EDICINE-MAN</span> (W)
 > to you. You can find it out for yourself, if you should ever become a
 > good piai-man." Komatari next asked him for another kind of
 > cotton-plait, with feathers different from those on the one mentioned,
-> to wear as a hat,<span id="page_337_fr_2"></span>[2](#page_337_note_2)
+> to wear as a hat,<span id="page_337_fr_2"></span>[2](#page_337_note_2.md)
 > but the Hebu said he had none, though he would get it at the next
 > house. So Komatari went to the next house, saw the Hebu house-master,
 > asked for the cotton-plait for the hat, and in the same manner as
@@ -651,7 +651,7 @@ M<span class="small">EDICINE-MAN</span> (W)
 > that procured the tobacco seeds for Komatari was Wau-uno \[ = Arawak
 > Anura\], "the white crane."
 
-   <span id="pp_297"></span>**297.**[\*](#pp_297) The apprenticeship of
+   <span id="pp_297"></span>**297.**[\*](#pp_297.md) The apprenticeship of
 the medicine-man in the olden days was very far from being the
 proverbial bed of roses. Among other tests, he had for many months to
 practise self-denial, and submit under a stinted diet to the prohibition
@@ -666,7 +666,7 @@ be conversant with the media for the invocation of the Spirits, as
 chants and recitatives, and also to be able to imitate animal and human
 voices. He had to submit to a chance of death by drinking a decoction of
 tobacco in repeated and increasing doses, and to have his eyes washed
-with the infusion of hiari leaves ([Sect. *169*](aflg10.htm#pp_169)); he
+with the infusion of hiari leaves ([Sect. *169*](aflg10.htm#pp_169).md); he
 slowly recovered, with a confused mind, believing that in his trance,
 the effect of narcotics and a distempered mind, he was admitted into the
 company of the Spirits, that he conversed with them, and was by
@@ -765,14 +765,14 @@ cotton headdress at the time of installation. Pitou mentions the piai
 installation as taking place on the night before the marriages (LAP,
 <span class="small">II</span>, 266).
 
-   <span id="pp_298"></span>**298.**[\*](#pp_298) Mention has already
-been made ([Sect. *297*](aflg17.htm#pp_297)) of the knowledge, of which
+   <span id="pp_298"></span>**298.**[\*](#pp_298.md) Mention has already
+been made ([Sect. *297*](aflg17.htm#pp_297).md) of the knowledge, of which
 the medicine-man had to give proof, concerning the instincts, habits,
 etc., of animals. Seated on his professional stool, with maraka in hand,
 he might be observed studying where game is to be found by the morrow's
 daybreak. He lights up his fire, and igniting some tobacco, he invites
 by invocation the spirits of the game he desires ([Sect.
-*116*](aflg08.htm#pp_116)). In his enthusiasm he speaks to them and
+*116*](aflg08.htm#pp_116).md). In his enthusiasm he speaks to them and
 answers for them in their supposed peculiar tones, modulated as in
 ventriloquy; for he believes that, being possessed, they answer through
 him, he being at the same time the humble earnest inquirer and the
@@ -803,12 +803,12 @@ they required, and received at his hands charms—*maklar* and *bina*—to
 insure their success (Da, 251). Among the Indians of the Uaupes River,
 the piais are believed to have power to destroy dogs or game and to make
 the fish leave a river (ARW, 347). The medicine-man furthermore could
-transform himself into an animal ([Sect. *154*](aflg09.htm#pp_154)); if
+transform himself into an animal ([Sect. *154*](aflg09.htm#pp_154).md); if
 his wife becomes pregnant she may bear him a tiger, an animal into which
 he himself may be transformed at death (KG, <span
 class="small">II</span>, 154).
 
-   <span id="pp_299"></span>**299.**[\*](#pp_299) Certainly among many
+   <span id="pp_299"></span>**299.**[\*](#pp_299.md) Certainly among many
 of the tribes the "doctors" were believed to be endowed with such power
 over their own spirits as to render themselves invisible. At a Makusi
 village on the Karakarang River, a branch of the Cotinga, Barrington
@@ -829,19 +829,19 @@ doing, he has only to employ the piai-man to summon and question the
 spirit of the far-away Indian. Or the piai-man may send his own spirit,
 his body remaining present, to get the required information."
 
-   <span id="pp_300"></span>**300.**[\*](#pp_300) The piai's reputation
+   <span id="pp_300"></span>**300.**[\*](#pp_300.md) The piai's reputation
 as an interpreter of dreams was second to none: he was both dreamer and
-seer ([Sect. *298*](aflg17.htm#pp_298)), but this is only what <span
+seer ([Sect. *298*](aflg17.htm#pp_298).md), but this is only what <span
 id="page_342">p. 342</span> might have been expected, considering the
 powers he possessed over other people's Spirits ([Sect.
-*299*](aflg17.htm#pp_299)), and dreams are really but people's Spirits
-([Sect. *86*](aflg06.htm#pp_86)).
+*299*](aflg17.htm#pp_299).md), and dreams are really but people's Spirits
+([Sect. *86*](aflg06.htm#pp_86).md).
 
  
 
-<span id="story_112"></span>[\*](#story_112)S<span class="small">AVED BY
+<span id="story_112"></span>[\*](#story_112.md)S<span class="small">AVED BY
 A</span> D<span class="small">REAM</span> (W)<span
-id="page_342_fr_1"></span>[1](#page_342_note_1)
+id="page_342_fr_1"></span>[1](#page_342_note_1.md)
 
 >    A certain man had two wives, but unfortunately they did not agree,
 > the elder being jealous of the younger. At last there was so much
@@ -890,7 +890,7 @@ id="page_342_fr_1"></span>[1](#page_342_note_1)
 > cried; the former had been so strongly punished, the latter was so
 > glad to have her home again.
 
-   <span id="pp_301"></span>**301.**[\*](#pp_301) Among other duties
+   <span id="pp_301"></span>**301.**[\*](#pp_301.md) Among other duties
 that the medicine-men might be called on to perform was to fix the time
 most propitious for the people to attack their enemies (HWB, 244). They
 were supposed to be gifted with the power of prophecy: they foretold the
@@ -900,17 +900,17 @@ scanty or abundant (FD, 51).
 
 <span id="page_343">p. 343</span>
 
-   <span id="pp_302"></span>**302.**[\*](#pp_302) The Pomeroon Arawaks
+   <span id="pp_302"></span>**302.**[\*](#pp_302.md) The Pomeroon Arawaks
 appear to credit the piai with being able to influence the Yawahus in
 bringing the as-yet-unborn babes to the mothers ([Sect.
-*284A*](aflg16.htm#pp_284A)). In some districts, as on the Berbice, the
+*284A*](aflg16.htm#pp_284A).md). In some districts, as on the Berbice, the
 piais were said to be professional poisoners, but it must be remembered
 that the charge of poisoning was one made against an Arawaks as a habit
 (Da, 16). Among the wurali-poison-making tribes, for example, the
 Makusis, Bernau's statement (Be, 36) that the "conjurers alone are
 conversant with the art of compounding it" does not seem to be borne out
 by the facts. At one place on the Orinoco, as already stated ([Sect.
-*297*](aflg17.htm#pp_297)), the sorcerers were alleged to be rendered
+*297*](aflg17.htm#pp_297).md), the sorcerers were alleged to be rendered
 poison-proof (G, <span class="small">II</span>, 25). Waterton's
 statement (W, 223) that "he is an enchanter: he finds out things lost"
 is only a further example of the piai's supposed versatility. I remember
@@ -923,15 +923,15 @@ question in the form of "Tell me this, or that," with the result that,
 pleased with my appreciation of his mental superiority, he was always
 ready to impart all he knew, and perhaps more.
 
-   <span id="pp_303"></span>**303.**[\*](#pp_303) The following legend
+   <span id="pp_303"></span>**303.**[\*](#pp_303.md) The following legend
 is another good example showing that there was very little that the
 medicine-man could not do in the natural or supernatural sphere: it is
 apparently a variant of the stories given in [Sects.
-*137*](aflg09.htm#pp_137) and [*142*](aflg09.htm#pp_142).
+*137*](aflg09.htm#pp_137) and [*142*](aflg09.htm#pp_142.md).
 
  
 
-<span id="story_113"></span>[\*](#story_113)T<span
+<span id="story_113"></span>[\*](#story_113.md)T<span
 class="small">HE</span> M<span class="small">EDICINE-MAN AND THE</span>
 C<span class="small">ARRION</span> C<span class="small">ROWS</span> (A)
 
@@ -1000,7 +1000,7 @@ C<span class="small">ARRION</span> C<span class="small">ROWS</span> (A)
 > chair-bench for her mother-in-law; he had to carve the head at each
 > extremity into the exact likeness of the old woman. This task she
 > thought was practically impossible;<span
-> id="page_344_fr_1"></span>[1](#page_344_note_1) and Makanauro thought
+> id="page_344_fr_1"></span>[1](#page_344_note_1.md) and Makanauro thought
 > so, too, because as yet he had never set eyes on his mother-in-law.
 > However, he tried to find out, but every time he even looked in the
 > direction of the old woman, she immediately covered her face with her
@@ -1021,7 +1021,7 @@ C<span class="small">ARRION</span> C<span class="small">ROWS</span> (A)
 > as usual she would pout her lips and hint that it was not a large
 > quantity, he would tell her to open it, and then the fish would come
 > tumbling out, one after the other, in immense quantities, filling the
-> whole house \[cf. [Sect. *28*](aflg02.htm#pp_28)\] And he would laugh,
+> whole house \[cf. [Sect. *28*](aflg02.htm#pp_28.md)\] And he would laugh,
 > because being a piai, he could do extraordinary things. A fine boy had
 > long blessed their union, and the <span id="page_345">p. 345</span>
 > mother was beginning to feel homesick: anxious to show off her husband
@@ -1047,14 +1047,14 @@ C<span class="small">ARRION</span> C<span class="small">ROWS</span> (A)
 > kurri-kurri \[*Harpiprion cayennensis*\] flying high, and told all his
 > other friends to curse her, he joining in their imprecations. This
 > made the rain fall, and so the fires were extinguished.<span
-> id="page_345_fr_1"></span>[1](#page_345_note_1) Now that his wife
+> id="page_345_fr_1"></span>[1](#page_345_note_1.md) Now that his wife
 > became angered with him for having frustrated her own people, the
 > Crows, in their design of burning up the world in general, Makanauro
 > left her and went his way. She then sent her son to waylay and kill
 > him, but whether he effected this wicked design I do not know.<span
-> id="page_345_fr_2"></span>[2](#page_345_note_2)
+> id="page_345_fr_2"></span>[2](#page_345_note_2.md)
 
-   <span id="pp_304"></span>**304.**[\*](#pp_304) In some cases the
+   <span id="pp_304"></span>**304.**[\*](#pp_304.md) In some cases the
 piais were recognized to a greater or less extent as the guardians of
 the tribal traditions. Thus in the "Archivos de Indias; Patronato.
 Rodrigo de Navarrete: An account of the Provinces and Nations of the
@@ -1065,7 +1065,7 @@ sixteenth century, a work quoted by Rodway, in *Timehri* (for 1895, p.
 >    These Indians have a meeting-place or school where they assemble,
 > as in a manner for preaching. There are among them old and wise men
 > whom they call *Cemetu* \[compare the usual form Cemi, Semi, etc.,
-> [Sect. *93*](aflg07.htm#pp_93)\]; these assemble in the houses
+> [Sect. *93*](aflg07.htm#pp_93.md)\]; these assemble in the houses
 > designed for their meetings and these these old men recount the
 > traditions and exploits of their ancestors and great men: and also
 > narrate what those ancestors heard from their forefathers; so that in
@@ -1073,15 +1073,15 @@ sixteenth century, a work quoted by Rodway, in *Timehri* (for 1895, p.
 > people. And, in like manner they recount or preach about events
 > relating to the heavens, the sun, moon, and stars.
 
-   <span id="pp_305"></span>**305.**[\*](#pp_305) The medicine-men not
+   <span id="pp_305"></span>**305.**[\*](#pp_305.md) The medicine-men not
 only gave names to the children, as with the Arawaks ([Sect.
-*264*](aflg15.htm#pp_264)), but under certain circumstances would change
+*264*](aflg15.htm#pp_264).md), but under certain circumstances would change
 them. Thus, among this same nation, if a piai is called on to treat a
 sick child, and is successful in effecting a cure, he may give his
 little patient a new name, and thus enable it to make a fresh start in
 life.
 
-   <span id="pp_306"></span>**306.**[\*](#pp_306) The chief business,
+   <span id="pp_306"></span>**306.**[\*](#pp_306.md) The chief business,
 however, of these doctors is centered in counteracting the evil designs
 of certain Spirits, Kanaima or other, <span id="page_346">p. 346</span>
 who cause disease of such a nature as to baffle the ordinary home
@@ -1092,14 +1092,14 @@ just referred to might consist in the use of ordinary herbs, vapor
 baths, and in other measures known to the average Indian. But
 occasionally, as with the Dakinis, to obtain such an herbal remedy, the
 piai's assistance may have to be invoked ([Sect.
-*168B*](aflg10.htm#pp_168B)). As a matter of fact, all disease which
+*168B*](aflg10.htm#pp_168B).md). As a matter of fact, all disease which
 does not respond readily to treatment is ascribed to various Spirits
 acting directly or indirectly, by means of thorns, pointed bones, etc.,
 maliciously inserted into the body of the patient. When once invoked,
 the medicine-man is able to learn the cause of the trouble, and how to
 combat its effects.
 
-   <span id="pp_307"></span>**307.**[\*](#pp_307) Disease or death is
+   <span id="pp_307"></span>**307.**[\*](#pp_307.md) Disease or death is
 not a "natural" phenomenon, so to speak, but is usually due to one of
 two agencies. It may be the work of some Spirit, perpetrated either
 judicially or of mere malice, as some affirm, or through the importunity
@@ -1110,14 +1110,14 @@ Now, except through the agency of the piai, the influence of this Spirit
 causing the evil can not usually be counteracted. Berman alone for the
 Mainland makes the statement, which I must regard as confirmed by the
 practice of a similar custom on the Islands, that "when sickness assails
-them, they \[laymen, [Sect. *89*](aflg07.htm#pp_89)\] present a
+them, they \[laymen, [Sect. *89*](aflg07.htm#pp_89.md)\] present a
 propitiation to the Evil Spirit, consisting of a piece of the flesh of
 any quadruped. If recovery follows, they suppose the Evil Spirit to have
 regarded and accepted the offering," but if no recovery, the conjurer is
 called in, etc. (Be, 51-54). The piais are undoubtedly believed to have
 the power of influencing the Spirits not only in removing the causes of
 the disease which they (the Spirits) have inflicted, but also in sending
-sickness elsewhere ([Sect. *319*](aflg17.htm#pp_319)) In the spring of
+sickness elsewhere ([Sect. *319*](aflg17.htm#pp_319).md) In the spring of
 1907 the Ojanas (Cayenne) suffered from an epidemic of bronchitis, or
 "galloping consumption," from which many died; this was ascribed to the
 piais (Go, 14). It is possible, however, that the medicine-men,
@@ -1125,7 +1125,7 @@ independently of Spirits, and certain old people, can inflict sickness
 on folks at a distance; for instance, the Apaläi Indians of the upper
 Parou, Cayenne, when they can not subdue their sicknesses revenge
 themselves by sending an evil charm to a woman ([Sect.
-*319*](aflg17.htm#pp_319)) of the neighboring tribe (Cr, 299). It is not
+*319*](aflg17.htm#pp_319)) of the neighboring tribe (Cr, 299.md). It is not
 at an uncommon for one tribe to put the blame of some real or imagined
 ill on the shoulders of another. For example, the Wapisianas consider
 the Makusis the most dangerous poisoners and Kanaimas—every illness is
@@ -1141,9 +1141,9 @@ with this trouble, who has mixed in the brew a few drops of his blood
 more or less disguised, modified, or influenced by a peculiarly terrible
 Spirit known as Kanaima, against whose machinations the power of the
 piai avails nothing. To this belief in Kanaima I propose devoting a
-separate chapter ([Sect. *320*](aflg18.htm#pp_320)).
+separate chapter ([Sect. *320*](aflg18.htm#pp_320).md).
 
-   <span id="pp_308"></span>**308.**[\*](#pp_308) In the Pomeroon
+   <span id="pp_308"></span>**308.**[\*](#pp_308.md) In the Pomeroon
 District, the present-day Arawak procedure of the piai, for the
 treatment of disease, is as follows: Suppose the patient visits the
 "doctor," the latter will sling the sufferer's hammock in the special
@@ -1158,7 +1158,7 @@ cigarette, and proceeds to examine the patient. He then asks what the
 pain is like, and where it is—as, in stomach, head, chest,—and talks to
 his kickshaws, especially the manikin, or doll, to learn whether the
 patient is going to be cured. The method of employment of this doll has
-already been given ([Sect. *290*](aflg17.htm#pp_290)). Seated on his
+already been given ([Sect. *290*](aflg17.htm#pp_290).md). Seated on his
 special chair, the doctor next lights and smokes his cigarette, and
 finally rubs his hands with haiawa wax. This done, he proceeds to
 massage the painful spot, and smokes on it through his hands placed
@@ -1224,7 +1224,7 @@ postponed to the following evening.
 
 <span id="page_349">p. 349</span>
 
-   <span id="pp_309"></span>**309.**[\*](#pp_309) Among the Pomeroon
+   <span id="pp_309"></span>**309.**[\*](#pp_309.md) Among the Pomeroon
 Caribs I have been present on several occasions on the Manawarin River
 at the procedure adopted by a piai to affect a cure. It has always been
 at night, with the doctor seated in a small temporary cone-shaped
@@ -1234,7 +1234,7 @@ particular Spirits by "singing" to them, each with a different song, by
 tobacco smoke, and by shaking the maraka. As a matter of fact the medico
 is said to call up only the first Spirit; the latter, however, invokes
 the second, and so on. The names of these four Spirits, in the order in
-which they are summoned, are Mawari ([Sect. *122*](aflg08.htm#pp_122)),
+which they are summoned, are Mawari ([Sect. *122*](aflg08.htm#pp_122).md),
 Makai-abáni, Iakai-a, and Aturaróni. All except the second live
 somewhere in the bush, but they come when summoned by the rattle.
 Makai-abáni, on the other hand, remains in the maraka, coming out only
@@ -1248,7 +1248,7 @@ ill-luck, and other calamities to mankind, belong to Cloud-land, and to
 Water; Kwamaraka lives in the sky below the clouds and is something like
 a "gaulding" bird (*Pilerodius*); Tokoroi-mo has his home below the
 clouds, and resembles the "doraquarra" bird (*Odontophorus*); while
-Oko-yumo is the "water-mamma" ([Sect. *177*](aflg12.htm#pp_177)). These
+Oko-yumo is the "water-mamma" ([Sect. *177*](aflg12.htm#pp_177).md). These
 three have a master, called No-séno, who lives somewhere above the
 clouds; he is a man, a very bad one, is always for killing somebody, and
 is his own master. But to return. If the disease has been sent by one or
@@ -1261,14 +1261,14 @@ sure to die from it. Should, however, the sickness prove stubborn,
 comes out to be speedily devoured by him. But if Tiger should prove
 unsuccessful, nothing now can possibly save the patient.
 
-   <span id="pp_310"></span>**310.**[\*](#pp_310) The Galibi piai of
+   <span id="pp_310"></span>**310.**[\*](#pp_310.md) The Galibi piai of
 French Guiana practised similar methods, according to the accounts left
 us by Barrere: After placing the maraka below the patient's hammock, the
 piai starts sucking at those parts of the sick person's body where the
 pains are greatest, afterward passing both hands over the patient; he
 then strikes his hands together and blows on each palm ([Sect.
-*85*](aflg05.htm#pp_85)) so as to drive away the "Devil" \[spirit\] that
-has attached itself there ([Sect. *74*](aflg05.htm#pp_74)); the piai
+*85*](aflg05.htm#pp_85).md) so as to drive away the "Devil" \[spirit\] that
+has attached itself there ([Sect. *74*](aflg05.htm#pp_74).md); the piai
 will sometimes pinch up pieces of his own skin, and thus extracting
 corpulency (embonpoint) and good health, will apply these in handsful to
 the patient while making the passes over him. <span id="page_350">p.
@@ -1281,7 +1281,7 @@ and tug at the hammocks in which the Indians are lying. He sometimes
 says that he is going up into the skies, but will soon return, and he
 will then mimic the distant voice, etc. (PBa, 213-215).
 
-   <span id="pp_311"></span>**311.**[\*](#pp_311) In remote parts \[of
+   <span id="pp_311"></span>**311.**[\*](#pp_311.md) In remote parts \[of
 French Guiana\] and toward the sources of the River Oyapok, the Indians
 \[? Oyampis\] practise another method, with the figure of a Devil
 \[Spirit\] made of a very soft and resonant wood. This statue, which is
@@ -1297,7 +1297,7 @@ Crévaux, among the Apaläi Indians of Cayenne (Cr, 301), which may have
 been employed for a similar purpose; it represented a warrior ready to
 let fly an arrow, fixed on two sticks arranged crosswise like a gallows.
 
-   <span id="pp_312"></span>**312.**[\*](#pp_312) It is not always
+   <span id="pp_312"></span>**312.**[\*](#pp_312.md) It is not always
 necessary, however, to use the maraka, it being quite possible to invoke
 the Spirits with a couple of bundles of leaves. Thus, Schomburgk gives
 the following account of a Makusi performance at Nappi, on the Canuku
@@ -1321,7 +1321,7 @@ Mountains:
 > voice failed him, and he left the hut. He did not use the maraka.
 > \[ScR <span class="small">II</span>, 145-146.\]
 
-   <span id="pp_313"></span>**313.**[\*](#pp_313) Westward of the
+   <span id="pp_313"></span>**313.**[\*](#pp_313.md) Westward of the
 Guianas a particular kind of wood apparently played the same rôle as the
 rattle or the leaf-bundle, if we accept the statement of Depons in his
 description of the Captain Generalship of Caracas:
@@ -1343,10 +1343,10 @@ description of the Captain Generalship of Caracas:
 > was given to the Piache; if he died, the fault was imputed to Destiny,
 > never to the physician. \[FD, 50.\]
 
-   <span id="pp_314"></span>**314.**[\*](#pp_314) Among the Island Carib
+   <span id="pp_314"></span>**314.**[\*](#pp_314.md) Among the Island Carib
 Indians the piai procedure was of the simplest kind:
 
->    They say that the *Chemeen* \[[Sect. *90*](aflg07.htm#pp_90) et
+>    They say that the *Chemeen* \[[Sect. *90*](aflg07.htm#pp_90.md) et
 > seq.\] always comes on scenting the odor of this incense \[tobacco\]
 > and, being interrogated, he answers with a clear voice, but sounding
 > as from a distance. The sorcerer then approaches the sick person
@@ -1383,7 +1383,7 @@ reported by Rochefort and Poincy:
 > wishes to take him into his company, so as to be freed from all his
 > infirmities. \[RoP, 564.\]
 
-   <span id="pp_315"></span>**315.**[\*](#pp_315) With regard to the
+   <span id="pp_315"></span>**315.**[\*](#pp_315.md) With regard to the
 nature of the Spirits specially invoked, Barrington Brown (Bro, 140)
 when describing the performances of a Makusi piai at Mora Village, upper
 Rupununi, remarks that—
@@ -1396,9 +1396,9 @@ Rupununi, remarks that—
 > most diabolical, mocking laugh. The Makunaima, or great spirit, <span
 > id="page_352">p. 352</span> was never called upon by the sorcerer to
 > assist or cure the sick man, but only the subordinate inhabitants of
-> spirit-land.<span id="page_352_fr_1"></span>[1](#page_352_note_1)
+> spirit-land.<span id="page_352_fr_1"></span>[1](#page_352_note_1.md)
 
-   <span id="pp_316"></span>**316.**[\*](#pp_316) As to the
+   <span id="pp_316"></span>**316.**[\*](#pp_316.md) As to the
 extraordinary variety of visible objects inserted into the body of the
 victim by the invisible Spirit and similar agencies, and subsequently
 extracted by massage and suction, the following will give some idea:
@@ -1409,7 +1409,7 @@ snake's tooth, or piece of wire (Br, 364-5), a worm (HWB, 244), a
 miniature bow and arrow (Cr, 526). The last-mentioned is very
 interesting in view of the Arawak Indians' belief (Br, 361) that all
 pain is due to the Evil Spirit's arrow ([Sect.
-*330*](aflg18.htm#pp_330)). The medicos of the Otomac nation suck with
+*330*](aflg18.htm#pp_330).md). The medicos of the Otomac nation suck with
 such force as to extract blood from the patient, and when this is spat
 out on a cleared space, minute stony particles are to be seen in it (G,
 <span class="small">II</span>, 27). Fathers Grillet and Bechamel
@@ -1419,21 +1419,21 @@ wounds, they have a way of sucking their patients in that part of the
 body in which they feel their pain, and this method is most commonly
 very successful."
 
-   <span id="pp_317"></span>**317.**[\*](#pp_317) The idea that not only
+   <span id="pp_317"></span>**317.**[\*](#pp_317.md) The idea that not only
 the patient but also his relatives and others should abstain from
 certain diets was very widespread: "The *Piache's* first prescription is
 to impose a general fast on the patient and all his kinsfolk: the
 majority of the *Piaches* demand that no one belonging to the house
 should eat anything hot, anything cooked, or peppers" (G, <span
 class="small">I</span>, 210). With the Caribs, Arawaks ([Sect.
-*308*](aflg17.htm#pp_308)), and Warraus, the whole family—father,
+*308*](aflg17.htm#pp_308).md), and Warraus, the whole family—father,
 mother, brothers, and sisters—is dieted on exactly the same lines as the
 invalid. "If a man \[Carib Islander\] gets wounded or ill, he will ask
 his brother, sister, or some relation to abstain from eating such or
 such a thing. This would make their pain worse even if they were fifty
 miles off" (BBR, 250). So also other observances may be incumbent on the
 whole family as well as on the patient ([Sect.
-*180*](aflg12.htm#pp_180)). Among the Roucouyennes of the upper Yary,
+*180*](aflg12.htm#pp_180).md). Among the Roucouyennes of the upper Yary,
 Cayenne, besides the diet, the only license which the doctor allows the
 patient is to throw himself into the river when the fever is very high
 (Cr, 117). As a matter of fact, when death ensues in spite of the
@@ -1446,7 +1446,7 @@ id="page_353">p. 353</span> enemy, and who is supposed to have employed
 the Yawahu in destroying him (Br, 364-5), will at times come in for a
 share of the blame.
 
-   <span id="pp_318"></span>**318.**[\*](#pp_318) Crévaux (250) states
+   <span id="pp_318"></span>**318.**[\*](#pp_318) Crévaux (250.md) states
 that when consulted, the piai is offered a cigarette: if he accepts it,
 this means that he undertakes to visit the sick person. He will not
 receive, however, certain gifts (in this this case a comb, child's
@@ -1459,11 +1459,11 @@ class="small">I</span>, 423-4). With the Carib Islanders it was
 customary for the person cured to express his gratitude by a big feast,
 where the Boye, who had helped in the cure, held first rank among the
 guests: furthermore, it was incumbent on the convalescent not to omit
-the Anakri ([Sect. *89*](aflg07.htm#pp_89)) for the devil \[Familiar
+the Anakri ([Sect. *89*](aflg07.htm#pp_89).md) for the devil \[Familiar
 Spirit\] who did not fail to find a place among the assembled company
 (RoP, 564).
 
-   <span id="pp_319"></span>**319.**[\*](#pp_319) There is said to have
+   <span id="pp_319"></span>**319.**[\*](#pp_319.md) There is said to have
 been on the Islands a class of men and of women who, though in a large
 measure alleged to be playing the rôle of piai, can not quite correctly
 be classed as such; references to them may conveniently be given here.
@@ -1476,7 +1476,7 @@ pretext for getting rid of one's enemies (RoP, 474).
 >    They believe themselves never to get ill, but to be bewitched; and,
 > simply for a headache or stomach-ache, they kill or cause to be killed
 > those whom they suspect to have given it to them. It is generally a
-> woman ([Sect. *307*](aflg17.htm#pp_307)), since they dare not openly
+> woman ([Sect. *307*](aflg17.htm#pp_307).md), since they dare not openly
 > attack a man. But before killing her, they ill-treat this unfortunate
 > person most cruelly. Their parents and friends go and fetch her, and
 > she is then made to search in the earth in different places, and
@@ -1488,7 +1488,7 @@ pretext for getting rid of one's enemies (RoP, 474).
 > of what the bewitched had eaten, which the pretended witch had buried
 > in the ground. Many incisions are then made on her body. She is hanged
 > by the feet; a kind of very strong pepper ([Sect.
-> *255*](aflg15.htm#pp_255)) called *Piman* is then rubbed in her eyes,
+> *255*](aflg15.htm#pp_255).md) called *Piman* is then rubbed in her eyes,
 > and she is left for some days without food, until a drunken
 > executioner arrives and puts an end to the unfortunate being by
 > breaking her head with a club. \[BBR, 232-234.\]
@@ -1497,12 +1497,12 @@ pretext for getting rid of one's enemies (RoP, 474).
 chieftain's death on the mainland, there is a record by Crévaux (548) of
 the medicine-man casting, or rather blowing, a spell over (*souffle pour
 jeter un sortilège à*) the individual who caused the death \[compare
-[Sect. *85*](aflg05.htm#pp_85)\]; the others, men and women, then
+[Sect. *85*](aflg05.htm#pp_85.md)\]; the others, men and women, then
 following his example.
 
 ------------------------------------------------------------------------
 
-[Next](aflg18)
+[Next](aflg18.md)
 
 ------------------------------------------------------------------------
 
@@ -1510,53 +1510,53 @@ following his example.
 
 <span id="footnotes_page_336">p. 336</span>
 
-<span id="page_336_note_1"></span>[1](#page_336_fr_1) For further
+<span id="page_336_note_1"></span>[1](#page_336_fr_1.md) For further
 account of the relationship between hummingbirds and tobacco, see [Sect.
-*350*](aflg19.htm#pp_350).
+*350*](aflg19.htm#pp_350.md).
 
 <span id="footnotes_page_337">p. 337</span>
 
-<span id="page_337_note_1"></span>[1](#page_337_fr_1) The timber always
+<span id="page_337_note_1"></span>[1](#page_337_fr_1.md) The timber always
 employed for the two purposes has a milky sap, and is found in places
 such as described, that is in the forest, along the banks of swiftly
 flowing creeks.
 
-<span id="page_337_note_2"></span>[2](#page_337_fr_2) That is, the
+<span id="page_337_note_2"></span>[2](#page_337_fr_2.md) That is, the
 headdress with the cotton "pompons" wom by the medicine-man when
 initiated.
 
 <span id="footnotes_page_343">p. 343</span>
 
-<span id="page_342_note_1"></span>[1](#page_342_fr_1) For another Warrau
-version of this story, see [Sect. *136A*](aflg09.htm#pp_136A).
+<span id="page_342_note_1"></span>[1](#page_342_fr_1.md) For another Warrau
+version of this story, see [Sect. *136A*](aflg09.htm#pp_136A.md).
 
 <span id="footnotes_page_344">p. 344</span>
 
-<span id="page_344_note_1"></span>[1](#page_344_fr_1) Before contact
+<span id="page_344_note_1"></span>[1](#page_344_fr_1.md) Before contact
 with European influences, it was strictly taboo for any Indian either to
 enter his mother-in-law's apartment, to remain in the same room, to talk
 with her, or even to look at her.
 
 <span id="footnotes_page_345">p. 345</span>
 
-<span id="page_345_note_1"></span>[1](#page_345_fr_1) The belief is
+<span id="page_345_note_1"></span>[1](#page_345_fr_1.md) The belief is
 still prevalent among the Pomeroon Arawaks that if one hears the black
 kurri-kurri "calling" in early morning, and thereupon curses the bird,
 rain is certain to fall during the day ([Sect.
-*213*](aflg13.htm#pp_213)).
+*213*](aflg13.htm#pp_213).md).
 
-<span id="page_345_note_2"></span>[2](#page_345_fr_2) Compare
+<span id="page_345_note_2"></span>[2](#page_345_fr_2.md) Compare
 Makona-ura, a youth famous for his skill as a fisher, and credited with
 inventing the maswa, or fish basket-trap (Da, 259).
 
 <span id="footnotes_page_352">p. 352</span>
 
-<span id="page_352_note_1"></span>[1](#page_352_fr_1) This observation
+<span id="page_352_note_1"></span>[1](#page_352_fr_1.md) This observation
 is quite correct because, from personal inquiry among the Mainland
-Caribs ([Sect. *309*](aflg17.htm#pp_309)) and from the records left to
-us of the Island Caribs ([Sect. *90*](aflg07.htm#pp_90)), the Spirits
+Caribs ([Sect. *309*](aflg17.htm#pp_309).md) and from the records left to
+us of the Island Caribs ([Sect. *90*](aflg07.htm#pp_90).md), the Spirits
 invoked were undoubtedly of the "Familiar" class ([Sect.
-*314*](aflg17.htm#pp_314)).—W. E. R.
+*314*](aflg17.htm#pp_314).md).—W. E. R.
 
  
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm05)  [Next](wsm07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm05)  [Next](wsm07.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ took all these beaks and placed one
 
 <span id="page_258">p. 258</span>
 
-upon another. <span id="fr_2"></span>[3](wsm07.htm#fn_2) The next time
+upon another. <span id="fr_2"></span>[3](wsm07.htm#fn_2.md) The next time
 he jumped, he ripped open the deerskin bag and all the pine nuts fell
 down.
 
@@ -55,4 +55,4 @@ Coyote's people stole them. Only junipers grow there now.
 
 ------------------------------------------------------------------------
 
-[Next: The Theft of Pine Nuts (Elko, Nevada. Shoshoni)](wsm07)
+[Next: The Theft of Pine Nuts (Elko, Nevada. Shoshoni)](wsm07.md)

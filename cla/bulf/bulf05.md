@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf04) [Next](bulf06) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf04) [Next](bulf06.md) 
 
 # CHAPTER VI.
 
@@ -228,4 +228,4 @@ parson. The following may serve as a specimen:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER VII. Proserpine- Glaucus And Scylla.](bulf06)
+Next: [CHAPTER VII. Proserpine- Glaucus And Scylla.](bulf06.md)

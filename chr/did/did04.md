@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Apocrypha](../apo/index)  [Index](index)  [Previous](did03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Apocrypha](../apo/index)  [Index](index)  [Previous](did03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Didache*, by Charles H. Hoole, \[1894\], at Intangible Textual
 Heritage
 
@@ -81,7 +81,7 @@ things"—i.e., all the preceding part of the Didache—cannot he allowed to
 represent correctly the primitive form of baptism, which was entirely
 different, nothing resembling the commencement of the Didache having
 been employed. The oldest form, after that used in the New Testament, is
-found in Tertullian and Cyprian. <span id="fr_28"></span>[1](#fn_28)
+found in Tertullian and Cyprian. <span id="fr_28"></span>[1](#fn_28.md)
 According to Tertullian, the person to be baptized
 
 <span id="page_89">p. 89</span>
@@ -177,7 +177,7 @@ Hanson & Co.</span>
 
 ### Footnotes
 
-<span id="fn_28"></span>[88:1](did04.htm#fr_28) Tertullian, De Corona,
+<span id="fn_28"></span>[88:1](did04.htm#fr_28.md) Tertullian, De Corona,
 iii.; Adver. Præx., xxvi.; De Baptismo, vii., viii. Cyprian, Epist.,
 xlix. 6; lxx. 1, 2.
 

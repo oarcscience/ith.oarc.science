@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](twi06)  [Next](twi08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](twi06)  [Next](twi08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Twilight*, by William Butler Yeats, \[1893, 1902\], at
 Intangible Textual Heritage
 
@@ -167,7 +167,7 @@ poverty through drink.
 
 I know some who believe they have seen the headless ghost upon the quay,
 and one who, when he passes the old cemetery wall at night, sees a woman
-with white borders to her cap <span id="fr_1"></span>[1](#fn_1) creep
+with white borders to her cap <span id="fr_1"></span>[1](#fn_1.md) creep
 out and follow him. The apparition only leaves him at his own door. The
 villagers imagine that she follows him to avenge some wrong. 'I will
 haunt you when I die' is a favourite threat. His wife was once
@@ -235,7 +235,7 @@ the snipe rushed away whistling.
 
 ### Footnotes
 
-<span id="fn_1"></span>[31:1](twi07.htm#fr_1) I wonder why she had white
+<span id="fn_1"></span>[31:1](twi07.htm#fr_1.md) I wonder why she had white
 borders to her cap. The old Mayo woman, who has told me so many tales,
 has told me that her brother-in-law saw 'a woman with white borders to
 her cap going around the stacks in a field, and soon after he got a
@@ -243,4 +243,4 @@ hurt, and he died in six months.'
 
 ------------------------------------------------------------------------
 
-[Next: 'Dust Hath Closed Helen's Eye'](twi08)
+[Next: 'Dust Hath Closed Helen's Eye'](twi08.md)

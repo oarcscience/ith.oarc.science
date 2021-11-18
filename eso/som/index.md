@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](som00)
+[Contents](#contents)    [Start Reading](som00.md)
 
 ------------------------------------------------------------------------
 
@@ -44,16 +44,16 @@ Science of Mind. A revised edition of this book was published in 1938.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](som00)  
-[Peace Be Unto Thee, Stranger](som01)  
-[Foreword](som02)  
-[Contents](som03)  
-[Yourself](som04)  
+<span id="contents"></span> [Title Page](som00.md)  
+[Peace Be Unto Thee, Stranger](som01.md)  
+[Foreword](som02.md)  
+[Contents](som03.md)  
+[Yourself](som04.md)  
 <span id="section_000"></span>
 
 ### Part I: The Evolution of Man's Thought
 
-[Part I](som05)  
+[Part I](som05.md)  
 <span id="section_001"></span>
 
 ### Part II: The Lessons
@@ -62,89 +62,89 @@ Science of Mind. A revised edition of this book was published in 1938.
 
 ### Lesson One: The Nature of Being
 
-[Introduction](som06)  
-[Metaphysical Chart I](som07)  
-[Lesson One: The Nature of Being](som08)  
-[Lesson One: Recapitulation](som09)  
+[Introduction](som06.md)  
+[Metaphysical Chart I](som07.md)  
+[Lesson One: The Nature of Being](som08.md)  
+[Lesson One: Recapitulation](som09.md)  
 <span id="section_003"></span>
 
 ### Lesson Two: The Nature of Man
 
-[Introduction](som10)  
+[Introduction](som10.md)  
 [Metaphysical Meaning of Words Used in Individual Chart No.
-II-B](som11)  
-[Lesson Two: The Nature of Man](som12)  
-[Recapitulation](som13)  
+II-B](som11.md)  
+[Lesson Two: The Nature of Man](som12.md)  
+[Recapitulation](som13.md)  
 <span id="section_004"></span>
 
 ### Lesson Three: Mental Healing
 
-[Introduction](som14)  
-[Metaphysical Meaning of Words Used in Chart No. III](som15)  
-[Lesson Three: Mental Healing](som16)  
-[Recapitulation](som17)  
+[Introduction](som14.md)  
+[Metaphysical Meaning of Words Used in Chart No. III](som15.md)  
+[Lesson Three: Mental Healing](som16.md)  
+[Recapitulation](som17.md)  
 <span id="section_005"></span>
 
 ### Lesson Four: The Control of Conditions
 
-[Introduction](som18)  
-[Lesson Four: The Control of Conditions](som19)  
-[Recapitulation](som20)  
+[Introduction](som18.md)  
+[Lesson Four: The Control of Conditions](som19.md)  
+[Recapitulation](som20.md)  
 <span id="section_006"></span>
 
 ### Lesson Five: The Perfect Whole
 
-[Introduction](som21)  
-[Lesson Five: The Perfect Whole](som22)  
+[Introduction](som21.md)  
+[Lesson Five: The Perfect Whole](som22.md)  
 <span id="section_007"></span>
 
 ### Lesson Six: The Law of Psychic Phenomena
 
-[Introduction](som23)  
-[Metaphysical Meanings of Words Used in Chart No. VI](som24)  
-[Psychic Phenomena](som25)  
-[Psychic Phenomena and Immortality](som26)  
-[Recapitulation](som27)  
+[Introduction](som23.md)  
+[Metaphysical Meanings of Words Used in Chart No. VI](som24.md)  
+[Psychic Phenomena](som25.md)  
+[Psychic Phenomena and Immortality](som26.md)  
+[Recapitulation](som27.md)  
 <span id="section_008"></span>
 
 ### Part III. Special Articles
 
-[Absoluteness and Relativity](som28)  
-[The Problem of Evil](som29)  
-[The Meaning of the Fall](som30)  
-[The Garden of Eden](som31)  
-[Salvation and Grace](som32)  
-[The Perfect Universe](som33)  
-[Imagination and Will](som34)  
-[How to Visualize](som35)  
-[The Sequence of the Creative Order](som36)  
-[Man's Creative Power Marvelous](som37)  
-[Concentration](som38)  
-[The Mirror of the Subjective](som39)  
-[Personality](som40)  
-[Repression and Sublimation](som41)  
-[The Atonement](som42)  
-[The Personality of God](som43)  
-[Jesus As A Saviour](som44)  
-[Self-Existent Life](som45)  
-[The Supreme Affirmation](som46)  
-[Christ and Antichrist](som47)  
-[Evolution](som48)  
+[Absoluteness and Relativity](som28.md)  
+[The Problem of Evil](som29.md)  
+[The Meaning of the Fall](som30.md)  
+[The Garden of Eden](som31.md)  
+[Salvation and Grace](som32.md)  
+[The Perfect Universe](som33.md)  
+[Imagination and Will](som34.md)  
+[How to Visualize](som35.md)  
+[The Sequence of the Creative Order](som36.md)  
+[Man's Creative Power Marvelous](som37.md)  
+[Concentration](som38.md)  
+[The Mirror of the Subjective](som39.md)  
+[Personality](som40.md)  
+[Repression and Sublimation](som41.md)  
+[The Atonement](som42.md)  
+[The Personality of God](som43.md)  
+[Jesus As A Saviour](som44.md)  
+[Self-Existent Life](som45.md)  
+[The Supreme Affirmation](som46.md)  
+[Christ and Antichrist](som47.md)  
+[Evolution](som48.md)  
 <span id="section_009"></span>
 
 ### Part IV: Daily Meditations for Self-help and Healing
 
-[Introduction](som49)  
-[Bodily Perfection](som50)  
-[Completeness](som51)  
-[Divine Companionship](som52)  
-[Freedom](som53)  
-[Harmony of Life](som54)  
-[Immanent Power](som55)  
-[Inspiration](som56)  
-[Presence of the All Good](som57)  
-[Spirit of God Within](som58)  
-[The Power of the Word](som59)  
-[Unity](som60)  
-[Glossary](som61)  
-[The Call](som62)  
+[Introduction](som49.md)  
+[Bodily Perfection](som50.md)  
+[Completeness](som51.md)  
+[Divine Companionship](som52.md)  
+[Freedom](som53.md)  
+[Harmony of Life](som54.md)  
+[Immanent Power](som55.md)  
+[Inspiration](som56.md)  
+[Presence of the All Good](som57.md)  
+[Spirit of God Within](som58.md)  
+[The Power of the Word](som59.md)  
+[Unity](som60.md)  
+[Glossary](som61.md)  
+[The Call](som62.md)  

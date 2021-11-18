@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,8 +28,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cdm00)    [Page
-Index](pageidx)    [Text \[Zipped\]](cdmtxt.zip)
+[Contents](#contents)    [Start Reading](cdm00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](cdmtxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -43,36 +43,36 @@ but mermaids, giants, and *sidhe* (fairies). This story, or portions
 thereof, is found in many Indo-European folklore traditions, as far
 afield as India. Campbell includes not only his merged narrative, but
 original Gaelic texts for two of the episodes. Campbell is best known
-for his four volume [Popular Tales of the Western Highlands](../ptwh),
+for his four volume [Popular Tales of the Western Highlands](../ptwh.md),
 also available at this site. The book includes a contribution by George
 Henderson, the Gaelic text and an English translation of the related
 tale of Fraoch and the Dragon.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cdm00)  
-[Table of Contents](cdm01)  
-[Introduction](cdm02)  
-[The Geste of Fraoch](cdm03)  
-[The Death of Fraoch](cdm04)  
+<span id="contents"></span> [Title Page](cdm00.md)  
+[Table of Contents](cdm01.md)  
+[Introduction](cdm02.md)  
+[The Geste of Fraoch](cdm03.md)  
+[The Death of Fraoch](cdm04.md)  
 <span id="section_000"></span>
 
 ### The Celtic Dragon Myth
 
-[Introduction](cdm05)  
-[The Fisher](cdm06)  
-[The Weapon](cdm07)  
-[The Three Ways](cdm08)  
-[First Way](cdm09)  
-[The Mermaid](cdm10)  
-[First Way](cdm11)  
-[The Second Way](cdm12)  
-[The Meeting of the Three Ways](cdm13)  
-[The Meeting of the Fisher's Three Sons](cdm14)  
-[Notes To Celtic Dragon Myth](cdm15)  
+[Introduction](cdm05.md)  
+[The Fisher](cdm06.md)  
+[The Weapon](cdm07.md)  
+[The Three Ways](cdm08.md)  
+[First Way](cdm09.md)  
+[The Mermaid](cdm10.md)  
+[First Way](cdm11.md)  
+[The Second Way](cdm12.md)  
+[The Meeting of the Three Ways](cdm13.md)  
+[The Meeting of the Fisher's Three Sons](cdm14.md)  
+[Notes To Celtic Dragon Myth](cdm15.md)  
 <span id="section_001"></span>
 
 ### Gaelic
 
-[Na Trì Rathaidean Móra (The Three Ways) \[Gaelic\]](cdm16)  
-[An t-Iasgair (The Three Ways) \[Gaelic\]](cdm17)  
+[Na Trì Rathaidean Móra (The Three Ways) \[Gaelic\]](cdm16.md)  
+[An t-Iasgair (The Three Ways) \[Gaelic\]](cdm17.md)  

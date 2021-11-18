@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat02)  [Next](bat04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat02)  [Next](bat04.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ EFFECT DESTRUCTION."
 ------------------------------------------------------------------------
 
 [Next: Chapter I: The First Division of the Tuat, Which Is Called
-Net-Ra](bat04)
+Net-Ra](bat04.md)

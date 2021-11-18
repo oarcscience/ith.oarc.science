@@ -15,10 +15,10 @@ Americans of the Northeastern region.
 
 ------------------------------------------------------------------------
 
-[The Iroquois](../iro/index) have their own index.
+[The Iroquois](../iro/index.md) have their own index.
 
 <span class="c_e"> <span class="c_t">[Walam
-Olum](../walam/index)</span>  
+Olum](../walam/index.md)</span>  
 <span class="c_t">*excerpt from* The Lenâpé and Their Legends</span>, by
 <span class="c_a">Daniel G. Brinton</span>. <span class="c_t">Brinton's
 Library of Aboriginal Literature number V</span>. Phildelphia \[<span
@@ -29,6 +29,6 @@ document nevertheless. With pictographs, Delaware and English
 translation. </span>
 
 <span class="c_e"> <span class="c_t">[The Algonquin Legends of New
-England](al/index)</span>   by <span class="c_a">Charles G.
+England](al/index.md)</span>   by <span class="c_a">Charles G.
 Leland</span> \[<span class="c_d">1898</span>\]  
 </span>

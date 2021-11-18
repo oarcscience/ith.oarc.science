@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe337)  [Next](prwe339) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe337)  [Next](prwe339.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ This I never published, but possibly I may do so one of these days.
 
 ------------------------------------------------------------------------
 
-[Next: St Piran's-Day and Picrous-Day](prwe339)
+[Next: St Piran's-Day and Picrous-Day](prwe339.md)

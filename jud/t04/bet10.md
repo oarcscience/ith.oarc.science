@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](bet09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](bet09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ The same quantity which we have learned in the Mishna (in Sabbath, p.
 276). One may even clear off four or five chests of straw or grain in
 order to remove obstacles to instruction, etc. But perhaps there it is
 different, because there are obstacles to instruction; but here, where
-it is not the case, it may be a less [quantity](errata.htm#9)? Or, on
+it is not the case, it may be a less [quantity](errata.htm#9.md)? Or, on
 the contrary, there the Mishna speaks of Sabbath, which is rigorous,
 therefore a slight quantity is allowed. But here it is a festival,
 perhaps a greater quantity is allowed? It can be interpreted even in
@@ -94,7 +94,7 @@ he said: Take it by its tail, and throw it out.
 <span id="page_72">p. 72</span>
 
 MISHNA: All transgressions of the precept of Shbuth, <span
-id="fr_28"></span>[1](#fn_28) whether by any optional actions, or
+id="fr_28"></span>[1](#fn_28.md) whether by any optional actions, or
 actions for religious purposes, are also such on the festival. The
 following actions are forbidden on account of Shbuth: To climb trees,
 mount an animal, swim in water, clap with the hands, strike on the hips,
@@ -386,5 +386,5 @@ END OF TRACT BETZAH (YOM TOB).
 
 ### Footnotes
 
-<span id="fn_28"></span>[72:1](bet10.htm#fr_28) See above, [p.
-67](bet09.htm#page_67).
+<span id="fn_28"></span>[72:1](bet10.htm#fr_28.md) See above, [p.
+67](bet09.htm#page_67.md).

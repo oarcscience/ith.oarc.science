@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](joe)  [Next](oba) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](joe)  [Next](oba.md) 
 
 ------------------------------------------------------------------------
 
@@ -562,4 +562,4 @@ serão mais arrancados da sua terra que lhes dei, diz o senhor teu Deus.
 
 ------------------------------------------------------------------------
 
-[Next: Obadiah](oba)
+[Next: Obadiah](oba.md)

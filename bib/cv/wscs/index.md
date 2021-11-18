@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wscs00)
+[Contents](#contents)    [Start Reading](wscs00.md)
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ disclaimer on each page. I have corrected the text to reflect the
 original book as closely as possible, as per this sites' standards. Some
 have criticized Graves for excessive typos (as if this was an
 intellectual failing on his part), and there are certainly [a few in
-this book](errata). However, I can state definitively after a modern
+this book](errata.md). However, I can state definitively after a modern
 spell-check of the text that they are not particularly excessive
 compared to any given book from this period.
 
@@ -76,72 +76,72 @@ compared to any given book from this period.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](wscs00)  
-[Preface](wscs01)  
-[Contents](wscs02)  
-[Explanation](wscs03)  
-[Introduction](wscs04)  
-[Address to the Clergy](wscs05)  
-[Chapter I: Rival Claims of the Saviors](wscs06)  
-[Chapter II: Messianic Prophecies](wscs07)  
-[Chapter III: Prophecies by the Figure of a Serpent](wscs08)  
-[Chapter IV: Miraculous and Immaculate Conception of the Gods](wscs09)  
-[Chapter V: Virgin Mothers and Virgin-Born Gods](wscs10)  
+<span id="contents"></span> [Title Page](wscs00.md)  
+[Preface](wscs01.md)  
+[Contents](wscs02.md)  
+[Explanation](wscs03.md)  
+[Introduction](wscs04.md)  
+[Address to the Clergy](wscs05.md)  
+[Chapter I: Rival Claims of the Saviors](wscs06.md)  
+[Chapter II: Messianic Prophecies](wscs07.md)  
+[Chapter III: Prophecies by the Figure of a Serpent](wscs08.md)  
+[Chapter IV: Miraculous and Immaculate Conception of the Gods](wscs09.md)  
+[Chapter V: Virgin Mothers and Virgin-Born Gods](wscs10.md)  
 [Chapter VI: Stars Point Out the Time and the Saviors’
-Birth-Place](wscs11)  
+Birth-Place](wscs11.md)  
 [Chapter VII: Angels, Shepherds, and Magi Visit the Infant
-Saviors](wscs12)  
+Saviors](wscs12.md)  
 [Chapter VIII: The Twenty-Fifth of December the Birthday of the
-Gods](wscs13)  
-[Chapter IX: Titles of the Saviors](wscs14)  
-[Chapter X: The Saviors of Royal Descent, But Humble Birth](wscs15)  
-[Chapter XI: Christ's Genealogy](wscs16)  
+Gods](wscs13.md)  
+[Chapter IX: Titles of the Saviors](wscs14.md)  
+[Chapter X: The Saviors of Royal Descent, But Humble Birth](wscs15.md)  
+[Chapter XI: Christ's Genealogy](wscs16.md)  
 [Chapter XII: The World's Saviors Saved from Destruction in
-Infancy](wscs17)  
-[Chapter XIII: The Saviors Exhibit Early Proofs of Divinity](wscs18)  
-[Chapter XIV: The Saviors’ Kingdoms Not of this World](wscs19)  
-[Chapter XV: The Saviors Were Real Personages](wscs20)  
-[Chapter XVI: Sixteen Saviors Crucified](wscs21)  
-[Chapter XVII: The Aphanasia, or Darkness, at the Crucifixion](wscs22)  
-[Chapter XVIII: Descent of the Saviors into Hell](wscs23)  
-[Chapter XIX: Resurrection of the Savior](wscs24)  
-[Chapter XX: Reappearance and Ascension of the Saviors](wscs25)  
-[Chapter XXI: The Atonement—Its Oriental or Heathen Origin](wscs26)  
-[Chapter XXII: The Holy Ghost of Oriental Origin](wscs27)  
-[Chapter XXIII: The Divine “Word” of Oriental Origin](wscs28)  
+Infancy](wscs17.md)  
+[Chapter XIII: The Saviors Exhibit Early Proofs of Divinity](wscs18.md)  
+[Chapter XIV: The Saviors’ Kingdoms Not of this World](wscs19.md)  
+[Chapter XV: The Saviors Were Real Personages](wscs20.md)  
+[Chapter XVI: Sixteen Saviors Crucified](wscs21.md)  
+[Chapter XVII: The Aphanasia, or Darkness, at the Crucifixion](wscs22.md)  
+[Chapter XVIII: Descent of the Saviors into Hell](wscs23.md)  
+[Chapter XIX: Resurrection of the Savior](wscs24.md)  
+[Chapter XX: Reappearance and Ascension of the Saviors](wscs25.md)  
+[Chapter XXI: The Atonement—Its Oriental or Heathen Origin](wscs26.md)  
+[Chapter XXII: The Holy Ghost of Oriental Origin](wscs27.md)  
+[Chapter XXIII: The Divine “Word” of Oriental Origin](wscs28.md)  
 [Chapter XXIV: The Trinity Very Anciently a Current Heathen
-Doctrine](wscs29)  
+Doctrine](wscs29.md)  
 [Chapter XXV: Absolution, and the Confession of Sins, of Heathen
-Origin](wscs30)  
+Origin](wscs30.md)  
 [Chapter XXVI: Origin of Baptism by Water, Fire, Blood, and the Holy
-Ghost](wscs31)  
-[Chapter XXVII: The Sacrament or Eucharist of Heathen Origin](wscs32)  
-[Chapter XXVIII: Anointing with Oil of Oriental Origin](wscs33)  
+Ghost](wscs31.md)  
+[Chapter XXVII: The Sacrament or Eucharist of Heathen Origin](wscs32.md)  
+[Chapter XXVIII: Anointing with Oil of Oriental Origin](wscs33.md)  
 [Chapter XXIX: How Men, Including Jesus Christ, Came to be Worshipped as
-Gods](wscs34)  
+Gods](wscs34.md)  
 [Chapter XXX: Sacred Cycles Explaining the Advent of the Gods, the
-Master-Key to the Divinity of Jesus Christ](wscs35)  
+Master-Key to the Divinity of Jesus Christ](wscs35.md)  
 [Chapter XXXI: Christianity Derived from Heathen and Oriental
-Systems](wscs36)  
+Systems](wscs36.md)  
 [Chapter XXXII: Three Hundred and Forty-Six Striking Analogies Between
-Christ and Chrishna](wscs37)  
-[Chapter XXXIII: Apollonius, Osiris, Magus, Etc.—Gods](wscs38)  
+Christ and Chrishna](wscs37.md)  
+[Chapter XXXIII: Apollonius, Osiris, Magus, Etc.—Gods](wscs38.md)  
 [Chapter XXXIV: The Three Pillars of the Christian Faith—Miracles,
-Prophecies, and Precepts](wscs39)  
+Prophecies, and Precepts](wscs39.md)  
 [Chapter XXXV: Logical or Common Sense View of the Doctrine of Divine
-Incarnation](wscs40)  
+Incarnation](wscs40.md)  
 [Chapter XXXVI: Philosophical Absurdities of the Doctrine of the Divine
-Incarnation](wscs41)  
+Incarnation](wscs41.md)  
 [Chapter XXXVII: Physiological Absurdities of the Doctrine of the Divine
-Incarnation](wscs42)  
+Incarnation](wscs42.md)  
 [Chapter XXXVIII: A Historical View of the Divinity of Jesus
-Christ](wscs43)  
-[Chapter XXXIX: The Scriptural View of Christ's Divinity](wscs44)  
-[Chapter XL: A Metonymic View of the Divinity of Jesus Christ](wscs45)  
-[Chapter XLI: The Precepts and Practical Life of Jesus Christ](wscs46)  
-[Chapter XLII: Christ As a Spiritual Medium](wscs47)  
+Christ](wscs43.md)  
+[Chapter XXXIX: The Scriptural View of Christ's Divinity](wscs44.md)  
+[Chapter XL: A Metonymic View of the Divinity of Jesus Christ](wscs45.md)  
+[Chapter XLI: The Precepts and Practical Life of Jesus Christ](wscs46.md)  
+[Chapter XLII: Christ As a Spiritual Medium](wscs47.md)  
 [Chapter XLIII: Conversion, Repentance, and “Getting Religion” of
-Heathen Origin](wscs48)  
-[Chapter XLIV: The Moral Lessons of Religious History](wscs49)  
-[Chapter XLV: Conclusion and Review](wscs50)  
-[Notes](wscs51)  
+Heathen Origin](wscs48.md)  
+[Chapter XLIV: The Moral Lessons of Religious History](wscs49.md)  
+[Chapter XLV: Conclusion and Review](wscs50.md)  
+[Notes](wscs51.md)  

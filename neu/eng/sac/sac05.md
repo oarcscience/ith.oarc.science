@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac04)  [Next](sac06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac04)  [Next](sac06.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ world. But at the solstices it has its greatest declination of 23½° N.
 or S.; it will rise and set therefore furthest from the east and west
 points; how far, will depend upon the latitude of the place, as will
 have been gathered from the preceding table (p.
-[11](sac04.htm#img_01100)).
+[11](sac04.htm#img_01100).md).
 
 These solstices and their accompaniments are among the striking things
 in the natural world. In the winter solstice we have the depth of
@@ -63,7 +63,7 @@ yearly path of the sun.
 
 This fundamental division of the sun's apparent revolution and course
 which define our year into four nearly equal parts may be indicated as
-in [Fig. 5](#img_fig05), the highest point reached by the sun in our
+in [Fig. 5](#img_fig05.md), the highest point reached by the sun in our
 northern hemisphere being represented at the top.
 
 In order better to consider the problem as it was presented to the early
@@ -77,7 +77,7 @@ points occupied by the sun on the
 <span id="img_fig05"></span>
 
 [![FIG. 5.—The four Astronomical Divisions of the year.](tn/fig05.jpg)  
-Click to enlarge](img/fig05.jpg)  
+Click to enlarge](img/fig05.jpg.md)  
 FIG. 5.—The four Astronomical Divisions of the year.  
 
 horizon (either at rising or setting) at the times indicated. These
@@ -87,12 +87,12 @@ points are defined, as we have seen, by
 
 [![FIG. 6.—The various bearings of the s in risings and settings in a
 place with a N. latitude of 51°.](tn/fig06.jpg)  
-Click to enlarge](img/fig06.jpg)  
+Click to enlarge](img/fig06.jpg.md)  
 FIG. 6.—The various bearings of the s in risings and settings in a place
 with a N. latitude of 51°.  
 
 their "amplitude" or their distance in degrees from the E. or W. points
-of the horizon. In the diagram ([Fig. 6](#img_fig06))
+of the horizon. In the diagram ([Fig. 6](#img_fig06).md)
 
 <span id="page_15">p. 15</span>
 
@@ -117,7 +117,7 @@ the first year (1901) of the present century, we find—
 These points, then, are approximately ninety-one days apart (91 × 4 =
 364).
 
-In [Fig. 6](#img_fig06) I deal with the "amplitudes" at Stonehenge, that
+In [Fig. 6](#img_fig06.md) I deal with the "amplitudes" at Stonehenge, that
 is, the angular distance along the horizon from the E. and W. points, at
 which the sunrise and sunset are seen at the solstices; at the equinoxes
 they are seen at the E. and W. points. But as these amplitudes vary with
@@ -132,7 +132,7 @@ erected this angle was, as I shall show later on, 23° 54´ 30″. Its mean
 value for the present year (1906) is 23° 27´ 5″; it is decreasing very
 slowly.
 
-It will be obvious from [Fig. 6](#img_fig06) that in temples built to
+It will be obvious from [Fig. 6](#img_fig06.md) that in temples built to
 observe the solstices or equinoxes, if they were open from end to end,
 looking in one direction we should see the sun rising at a solstice or
 equinox, and looking in the other we should see the sun setting at the
@@ -168,4 +168,4 @@ that they are approximately ninety-one days apart—say three months.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Agricultural Divisions of the Year](sac06)
+[Next: Chapter III. The Agricultural Divisions of the Year](sac06.md)

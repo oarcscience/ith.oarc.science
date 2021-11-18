@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp11)  [Next](dmp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp11)  [Next](dmp13.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ Underworld, the souls of the horizon,
 
 ------------------------------------------------------------------------
 
-[Next: Col. X](dmp13)
+[Next: Col. X](dmp13.md)

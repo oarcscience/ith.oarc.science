@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inca](../index)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inca](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -26,17 +26,17 @@ is not reproduced here.
 
 ------------------------------------------------------------------------
 
-•[Title Page.](rly00)  
-•[CONTENTS.](rly01)  
-•[INTRODUCTION.](rly02)  
-•[THE FABLES AND RITES OF THE YNCAS.](rly1)<span class="small">  
+•[Title Page.](rly00.md)  
+•[CONTENTS.](rly01.md)  
+•[INTRODUCTION.](rly02.md)  
+•[THE FABLES AND RITES OF THE YNCAS.](rly1.md)<span class="small">  
 by Christoval de Molina</span>  
-•[AN ACCOUNT OF THE ANTIQUITIES OF PERU.](rly2)<span class="small">  
+•[AN ACCOUNT OF THE ANTIQUITIES OF PERU.](rly2.md)<span class="small">  
 by Juan de Santa Cruz Pachacuti-yamqui Salcamayhua</span>  
 •[A NARRATIVE OF THE ERRORS, FALSE GODS, AND OTHER SUPERSTITIONS AND
 DIABOLICAL RITES IN WHICH THE INDIANS OF THE PROVINCES OF HUAROCHIRI,
 MAMA, AND CHACLLA LIVED IN ANCIENT TIMES, AND IN WHICH THEY EVEN NOW
-LIVE, TO THE GREAT PERDITION OF THEIR SOULS.](rly3)<span
+LIVE, TO THE GREAT PERDITION OF THEIR SOULS.](rly3.md)<span
 class="small">  
 by Dr. Francisco de Avila</span>  
-•[REPORT BY POLO DE ONDEGARDO.](rly4)  
+•[REPORT BY POLO DE ONDEGARDO.](rly4.md)  

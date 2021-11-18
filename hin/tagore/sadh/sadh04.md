@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index)  [Index](index)  [Previous](sadh03)  [Next](sadh05) 
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index)  [Index](index)  [Previous](sadh03)  [Next](sadh05.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ call them *Mahātmās,* "the men of the great soul."
 
 It is said in one of the Upanishads: *It is not that thou lovest thy son
 because thou desirest him, but thou lovest thy son because thou desirest
-thine own soul.*  <span id="fr_19"></span>[20](#fn_19) The meaning of
+thine own soul.*  <span id="fr_19"></span>[20](#fn_19.md) The meaning of
 this is, that whomsoever we love, in him we find our own soul in the
 highest sense. The final truth of our existence lies in this.
 *Paramātmā*, the supreme soul, is in me, as well as in my son, and my
@@ -247,8 +247,8 @@ details of our life reveal an infinite purpose, and all our thoughts and
 deeds unite themselves inseparably in an internal harmony.
 
 The Upanishads say with great emphasis, *Know thou the One, the Soul.*
- <span id="fr_20"></span>[21](#fn_20) *It is the bridge leading to the
-immortal being.*  <span id="fr_21"></span>[22](#fn_21)
+ <span id="fr_20"></span>[21](#fn_20.md) *It is the bridge leading to the
+immortal being.*  <span id="fr_21"></span>[22](#fn_21.md)
 
 This is the ultimate end of man, to find the *One* which is in him;
 which is his truth, which is his soul; the key with which he opens the
@@ -260,7 +260,7 @@ purposes of will; its highest joy is when it reaches the infinite one
 within its eternal unity. Hence the saying of the Upanishad, *Only those
 of tranquil minds, and none else, can attain abiding joy, by realising
 within their souls the Being who manifests one essence in a multiplicity
-of forms.*  <span id="fr_22"></span>[23](#fn_22)
+of forms.*  <span id="fr_22"></span>[23](#fn_22.md)
 
 \[Transcriber's note: The above footnote contains the \* mark in the
 original printed version. This has been retained as is.\]
@@ -280,7 +280,7 @@ Supreme One.
 Says the Upanishad: *This deity who is manifesting himself in the
 activities of the universe always dwells in the heart of man as the
 supreme soul. Those who realise him through the immediate perception of
-the heart attain immortality.*  <span id="fr_23"></span>[24](#fn_23)
+the heart attain immortality.*  <span id="fr_23"></span>[24](#fn_23.md)
 
 He is *Vishvakarma*; that is, in a multiplicity of forms and forces lies
 his outward manifestation in nature; but his inner manifestation in our
@@ -297,7 +297,7 @@ before him face to face.
 The deepest and the most earnest prayer that has ever risen from the
 human heart has been uttered in our ancient tongue: *O thou
 self-revealing one, reveal thyself in me.*  <span
-id="fr_24"></span>[25](#fn_24) We are in misery because we are creatures
+id="fr_24"></span>[25](#fn_24.md) We are in misery because we are creatures
 of self--the self that is unyielding and narrow, that reflects no light,
 that is blind to the infinite. Our self is loud with its own discordant
 clamour--it is not the tuned harp whose chords vibrate with the music of
@@ -306,20 +306,20 @@ for the past and anxieties for the future are troubling our shallow
 hearts because we have not found our souls, and the self-revealing
 spirit has not been manifest within us. Hence our cry, *O thou awful
 one, save me with thy smile of grace ever and evermore.*  <span
-id="fr_25"></span>[26](#fn_25) It is a stifling shroud of death, this
+id="fr_25"></span>[26](#fn_25.md) It is a stifling shroud of death, this
 self-gratification, this insatiable greed, this pride of possession,
 this insolent alienation of heart. *Rudra, O thou awful one, rend this
 dark cover in twain and let the saving beam of thy smile of grace strike
 through this night of gloom and waken my soul.*
 
 *From unreality lead me to the real, from darkness to the light, from
-death to immortality.*  <span id="fr_26"></span>[27](#fn_26) But how can
+death to immortality.*  <span id="fr_26"></span>[27](#fn_26.md) But how can
 one hope to have this prayer granted? For infinite is the distance that
 lies between truth and untruth, between death and deathlessness. Yet
 this measureless gulf is bridged in a moment when the self revealing one
 reveals himself in the soul. There the miracle happens, for there is the
 meeting-ground of the finite and infinite. *Father, completely sweep
-away all my sins!*  <span id="fr_27"></span>[28](#fn_27) For in sin man
+away all my sins!*  <span id="fr_27"></span>[28](#fn_27.md) For in sin man
 takes part with the finite against the infinite that is in him. It is
 the defeat of his soul by his self. It is a perilously losing game, in
 which man stakes his all to gain a part. Sin is the blurring of truth
@@ -335,8 +335,8 @@ contending with one another. It is this failure to bring all the
 elements of his nature under the unity and control of the Supreme One
 that makes man feel the pang of his separation from God and gives rise
 to the earnest prayer, *O God, O Father, completely sweep away all our
-sins.*  <span id="fr_28"></span>[29](#fn_28) *Give unto us that which is
-good*  <span id="fr_29"></span>[30](#fn_29) , the good which is the
+sins.*  <span id="fr_28"></span>[29](#fn_28.md) *Give unto us that which is
+good*  <span id="fr_29"></span>[30](#fn_29.md) , the good which is the
 daily bread of our souls. In our pleasures we are confined to ourselves,
 in the good we are freed and we belong to all. As the child in its
 mother's womb gets its sustenance through the union of its life with the
@@ -348,10 +348,10 @@ righteousness: for they shall be filled." For righteousness is the
 divine food of the soul; nothing but this can fill him, can make him
 live the life of the infinite, can help him in his growth towards the
 eternal. *We bow to thee from whom come the enjoyments of our life.*
- <span id="fr_30"></span>[31](#fn_30) *We bow also to thee from whom
-comes the good of our soul.*  <span id="fr_31"></span>[32](#fn_31) *We
+ <span id="fr_30"></span>[31](#fn_30.md) *We bow also to thee from whom
+comes the good of our soul.*  <span id="fr_31"></span>[32](#fn_31.md) *We
 bow to thee who art good, the highest good*  <span
-id="fr_32"></span>[33](#fn_32) , in whom we are united with everything,
+id="fr_32"></span>[33](#fn_32.md) , in whom we are united with everything,
 that is, in peace and harmony, in goodness and love.
 
 Man's cry is to reach his fullest expression. It is this desire for
@@ -370,7 +370,7 @@ cannot feel himself beyond his personal surroundings, his greater self
 is blotted out, his truth is unrealised. The prayer that rises up from
 his whole being is therefore, *Thou, who art the spirit of
 manifestation, manifest thyself in me.*  <span
-id="fr_33"></span>[34](#fn_33) This longing for the perfect expression
+id="fr_33"></span>[34](#fn_33.md) This longing for the perfect expression
 of his self is more deeply inherent in man than his hunger and thirst
 for bodily sustenance, his lust for wealth and distinction. This prayer
 is not merely one born individually of him; it is in depth of all
@@ -448,47 +448,47 @@ in its physical nature and in its spiritual life and beauty.
 
 ### Footnotes
 
-<span id="fn_19"></span>[20](sadh04.htm#fr_19) Na vā arē putrasya kāmāya
+<span id="fn_19"></span>[20](sadh04.htm#fr_19.md) Na vā arē putrasya kāmāya
 putrah priyō bhavati, ātmanastu kāmāya putrah priyō bhavati.
 
-<span id="fn_20"></span>[21](sadh04.htm#fr_20) Tamēvaikam jānatha
+<span id="fn_20"></span>[21](sadh04.htm#fr_20.md) Tamēvaikam jānatha
 ātmānam.
 
-<span id="fn_21"></span>[22](sadh04.htm#fr_21) Amritasyaisha sētuh.
+<span id="fn_21"></span>[22](sadh04.htm#fr_21.md) Amritasyaisha sētuh.
 
-<span id="fn_22"></span>[23](sadh04.htm#fr_22) Ēkam rūpam bahudhā yah
+<span id="fn_22"></span>[23](sadh04.htm#fr_22.md) Ēkam rūpam bahudhā yah
 karōti \* \* tam ātmastham yē anupaçyanti dīhrāh, tēshām sukham çāçvatam
 nētarēshām.
 
-<span id="fn_23"></span>[24](sadh04.htm#fr_23) Ēsha dēvō vishvakarmā
+<span id="fn_23"></span>[24](sadh04.htm#fr_23.md) Ēsha dēvō vishvakarmā
 mahātmā sadā janānām hridayē sannivishtah. Hridā manīsha
 manasābhiklriptō ya ētad viduramritāstē bhavanti.
 
-<span id="fn_24"></span>[25](sadh04.htm#fr_24) Āvirāvīrmayēdhi.
+<span id="fn_24"></span>[25](sadh04.htm#fr_24.md) Āvirāvīrmayēdhi.
 
-<span id="fn_25"></span>[26](sadh04.htm#fr_25) Rudra yat tē dakshinam
+<span id="fn_25"></span>[26](sadh04.htm#fr_25.md) Rudra yat tē dakshinam
 mukham tēna mām pāhi nityam.
 
-<span id="fn_26"></span>[27](sadh04.htm#fr_26) Asatōmā sadgamaya,
+<span id="fn_26"></span>[27](sadh04.htm#fr_26.md) Asatōmā sadgamaya,
 tamasōmā jyōtirgamaya, mrityōrma mritangamaya.
 
-<span id="fn_27"></span>[28](sadh04.htm#fr_27) Vishvānidēva savitar
+<span id="fn_27"></span>[28](sadh04.htm#fr_27.md) Vishvānidēva savitar
 duratāni parāsuva.
 
-<span id="fn_28"></span>[29](sadh04.htm#fr_28) Vishvāni dēva savitar
+<span id="fn_28"></span>[29](sadh04.htm#fr_28.md) Vishvāni dēva savitar
 duritāni parāsuva.
 
-<span id="fn_29"></span>[30](sadh04.htm#fr_29) Yad bhadram tanna āsuva.
+<span id="fn_29"></span>[30](sadh04.htm#fr_29.md) Yad bhadram tanna āsuva.
 
-<span id="fn_30"></span>[31](sadh04.htm#fr_30) Namah sambhavāya.
+<span id="fn_30"></span>[31](sadh04.htm#fr_30.md) Namah sambhavāya.
 
-<span id="fn_31"></span>[32](sadh04.htm#fr_31) Namah çankarāyacha.
+<span id="fn_31"></span>[32](sadh04.htm#fr_31.md) Namah çankarāyacha.
 
-<span id="fn_32"></span>[33](sadh04.htm#fr_32) Namah çivāyacha,
+<span id="fn_32"></span>[33](sadh04.htm#fr_32.md) Namah çivāyacha,
 çivatarāya cha.
 
-<span id="fn_33"></span>[34](sadh04.htm#fr_33) Āvirāvīrmayēdhi.
+<span id="fn_33"></span>[34](sadh04.htm#fr_33.md) Āvirāvīrmayēdhi.
 
 ------------------------------------------------------------------------
 
-[Next: III: The Problem of Evil](sadh05)
+[Next: III: The Problem of Evil](sadh05.md)

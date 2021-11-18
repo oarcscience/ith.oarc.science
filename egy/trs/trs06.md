@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](trs05)  [Next](trs07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](trs05)  [Next](trs07.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,7 +126,7 @@ divided hieroglyphics into emphonics, symphonics and aphonics, by which
 terms they seem to imply phonetics, enclitics and ideographics. Their
 hopelessly wrong theory was put forth with a great show of learning in
 *De Lingua et Literis veterum Ægyptiorum* at Leipzig, 1825-31.
-Goulianoff <span id="fr_69"></span>[1](#fn_69) did not accept
+Goulianoff <span id="fr_69"></span>[1](#fn_69.md) did not accept
 Champollion's system entirely, and he wished to consider the phonetic
 hieroglyphics acrologic; this also was the view taken by Klaproth, who
 bitterly attacked Champollion in his *Lettre sur la découverte des
@@ -151,7 +151,7 @@ Hiéroglyphes domestiques phonétiques par lesquels, sans sortir de chez
 soi, on peut deviner l’histoire, la chronologie (!!), le culte de tous
 les peuples anciens et modernes, de la même manière, qu’on le fait en
 lisant les hiéroglyphes égyptiens selon la nouvelle méthode;*" Turin,
-1824. <span id="fr_70"></span>[1](#fn_70) Little by little, however,
+1824. <span id="fr_70"></span>[1](#fn_70.md) Little by little, however,
 Champollion's system was accepted. In 1835 Leemans published his edition
 of Horapollo, in which the results of the decipherment of Egyptian
 hieroglyphics were ably applied, and two years later Richard Lepsius
@@ -169,10 +169,10 @@ new system.
 
 ### Footnotes
 
-<span id="fn_69"></span>[152:1](trs06.htm#fr_69) See his *Essai sur les
+<span id="fn_69"></span>[152:1](trs06.htm#fr_69.md) See his *Essai sur les
 Hiéroglyphes d’Horapollon*, Paris, 1827.
 
-<span id="fn_70"></span>[153:1](trs06.htm#fr_70) *Another of his works
+<span id="fn_70"></span>[153:1](trs06.htm#fr_70.md) *Another of his works
 was entitled, Triomphe sur les impies obtenu par les adorateurs de la
 très-sainte Trinité et du Verbe éternel, sous le gouvernement des
 sixième et septième rois d’Egypte au VIe siècle après le déluge. Sculpté
@@ -181,4 +181,4 @@ expliqué*; Geneva, 1821.
 
 ------------------------------------------------------------------------
 
-[Next: Translation of the Rosetta Stone](trs07)
+[Next: Translation of the Rosetta Stone](trs07.md)

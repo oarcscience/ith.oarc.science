@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico057) 
-[Next](nico059) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico057.md) 
+[Next](nico059.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ concerned with the variable.
 ------------------------------------------------------------------------
 
 [Next: Chapter 5. Practical wisdom--knowledge of how to secure the ends
-of human life](nico059)
+of human life](nico059.md)

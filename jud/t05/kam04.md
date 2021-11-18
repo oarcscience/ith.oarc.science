@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam03)  [Next](kam05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam03)  [Next](kam05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -45,7 +45,7 @@ What is the derivative of the horn? Hurting, biting,
 
 <span id="page_2">p. 2</span>
 
-lying upon, <span id="fr_2"></span>[1](#fn_2) and kicking; (because they
+lying upon, <span id="fr_2"></span>[1](#fn_2.md) and kicking; (because they
 are usually done intentionally, as goring). Why is "goring" called a
 principal? Because it is written \[Ex. xxi. 28\]: "If an ox gore?" Let
 also hurting be a principal, because it is written \[ibid., ibid. 35\].
@@ -54,7 +54,7 @@ learned in the following Boraitha: "It starts out with hurting, and it
 ends with goring, to teach thee that the hurting mentioned here means
 goring." Why does the Scripture in case of a man use the term "gore,"
 while in the case of an animal it uses the term "hurt"? For a man, who
-is fortunate, <span id="fr_3"></span>[2](#fn_3) (who is guarded by his
+is fortunate, <span id="fr_3"></span>[2](#fn_3.md) (who is guarded by his
 planet) "gore" is used (because it is certain that the ox gored him
 intentionally with all his might to harm him), but of an animal, which
 is not fortunate, "hurt" is used, and by the way it teaches us that an
@@ -86,7 +86,7 @@ tradition that if the damage-doing animal
 is not of sufficient value to pay the amount of the damage) the balance
 must be paid from the best of one's estates, which is only so in case of
 damage by the foot. Is the latter part of this then certain? Did not
-Rabha further on (page [33](kam05.htm#page_33)) propound a question
+Rabha further on (page [33](kam05.htm#page_33).md) propound a question
 wherefrom the damages shall be collected? (This does not matter.) Rabha
 was not certain about it, but R. Papa was. Why, then, is it called a
 derivative of the foot, even according to Rabha's theory, who was not
@@ -96,7 +96,7 @@ the foot are not paid unless done on the ground belonging to the party
 damaged).
 
 "*And, mabeh*," etc., "*and fire*," etc. What is meant by mabeh <span
-id="fr_4"></span>[1](#fn_4)"? Said Rabh: "It means a man"; Samuel,
+id="fr_4"></span>[1](#fn_4.md)"? Said Rabh: "It means a man"; Samuel,
 however, said it means the tooth (of the ox). Why does Rabh not explain
 it as Samuel? Because when the Mishna states "ox," it means everything
 with which an ox can do damage (consequently "mabeh" must be something
@@ -298,7 +298,7 @@ Din) a wall, or to cut a certain tree, (and he failing so to do within
 such time) they fall, he is liable.'" How is the case? If he renounced
 his ownership of them, then according to both Rabh and Samuel it is like
 the case of the pit; as a pit because it does often damage one must take
-care of it, so also is the case here. <span id="fr_5"></span>[1](#fn_5)
+care of it, so also is the case here. <span id="fr_5"></span>[1](#fn_5.md)
 If he has not renounced ownership, then, according to Samuel who says
 that they are all deduced from the pit, are they the same as the pit?
 Nay, the case is that he has renounced ownership, but lest one say that
@@ -493,7 +493,7 @@ one mentioning "money" and the other "the
 <span id="page_13">p. 13</span>
 
 best estates," do not contradict each other), it means either money or
-best estates. <span id="fr_6"></span>[1](#fn_6)
+best estates. <span id="fr_6"></span>[1](#fn_6.md)
 
 R. Assi, however, said: "Money is as good as land." For what purpose is
 this statement? If for the purpose that it is considered the "best"
@@ -547,7 +547,7 @@ If I prepare only a part of the damage I am responsible nevertheless for
 the whole, as if I prepared the whole. And only as to property which
 cannot be desecrated (but for that which is desecrated there is no
 responsibility), or property of persons governed by laws adopted by
-their community, <span id="fr_7"></span>[1](#fn_7) or such that has an
+their community, <span id="fr_7"></span>[1](#fn_7.md) or such that has an
 owner, and at any place (the damage was done), except if done on the
 ground exclusively belonging to the defendant, or on that belonging to
 both together, the defendant and the plaintiff. If damage was done, the
@@ -737,7 +737,7 @@ days need not be redeemed." So also has Rami bar Hama taught: Because it
 is written \[Numb. xviii. 15\] "thou shalt redeem" one might think that
 this were so even if it were killed within the thirty days; therefore it
 is written \[ibid., ibid.\] "nevertheless" <span
-id="fr_8"></span>[1](#fn_8) to distinguish (that in case it was killed
+id="fr_8"></span>[1](#fn_8.md) to distinguish (that in case it was killed
 it need not).
 
 The same said again in the name of the same authority: "Of brothers who
@@ -890,7 +890,7 @@ the Mishna that there is no liability for foot and tooth when it belongs
 to the plaintiff or to both the defendant and the plaintiff, and what is
 stated further on of one's liability refers to damage done by the horn,
 because partnership property is for that purpose considered a public
-ground. It is right according to Samuel (*ante*, p. [5](#page_5)), but
+ground. It is right according to Samuel (*ante*, p. [5](#page_5).md), but
 according to Rabh, who says that the expression "ox" in the Mishna
 includes everything in relation thereto, what does this mean to include?
 It means to include that which the rabbis taught: "If damage is done the
@@ -1146,7 +1146,7 @@ law applying to the foot."
 
 "*The wolf, the lion, etc., and the bardalis*." What is a bardalis? Said
 R. Jehudah: It is a Nephrasa. What is a Nephrasa? Said R. Joseph: It is
-an Apa (Hyena). <span id="fr_9"></span>[1](#fn_9) Samuel said if a lion
+an Apa (Hyena). <span id="fr_9"></span>[1](#fn_9.md) Samuel said if a lion
 on public ground had caught an animal and ate it up alive there is no
 liability, for it is his usual way to do so, and therefore it is as if
 an ox had consumed fruit or herbs in public ground; but if he had first
@@ -1219,14 +1219,14 @@ who had *understanding* of the times to know what Israel ought to do."
 
 ### Footnotes
 
-<span id="fn_2"></span>[2:1](kam04.htm#fr_2) Spoiling vessels thereby.
+<span id="fn_2"></span>[2:1](kam04.htm#fr_2.md) Spoiling vessels thereby.
 
-<span id="fn_3"></span>[2:2](kam04.htm#fr_3) According to the other
+<span id="fn_3"></span>[2:2](kam04.htm#fr_3.md) According to the other
 explanation of Rashi it is because a human being is provident, *i.e.*
 careful, and it is not easy to kill him unless by penetrating his body
 with the horns with great force.
 
-<span id="fn_4"></span>[3:1](kam04.htm#fr_4) Modern scholars come to the
+<span id="fn_4"></span>[3:1](kam04.htm#fr_4.md) Modern scholars come to the
 conclusion that originally the Mishna read ‏המבעיר‎ which means one who
 started a fire, instead of ‏המבעה‎ which latter word cannot be found
 either in the Scripture or in the Mishna elsewhere, and that this latter
@@ -1243,24 +1243,24 @@ Krochmal, however, maintains that in the first Mishnayoth it was used
 the reason that this word has two meanings which can be applied to foot
 and tooth. (See his Notes on the Talmud, Lemberg, 1831, page 260.)
 
-<span id="fn_5"></span>[8:1](kam04.htm#fr_5) This is no contradiction of
+<span id="fn_5"></span>[8:1](kam04.htm#fr_5.md) This is no contradiction of
 what was stated above, that a pit does not do damage often, for it means
 that it does not do so as often as the foot, which treads on everything
 in its way.
 
-<span id="fn_6"></span>[13:1](kam04.htm#fr_6) The reason why this was
+<span id="fn_6"></span>[13:1](kam04.htm#fr_6.md) The reason why this was
 not stated till now is that there should be no interruption in the
 discussion of R. Ishmael and R. Aqiba.
 
-<span id="fn_7"></span>[14:1](kam04.htm#fr_7) This seems to be the true
+<span id="fn_7"></span>[14:1](kam04.htm#fr_7.md) This seems to be the true
 meaning of the expression "Bene Brith," and not, as some thought, that
 it means Israelites. See our introduction to this edition in our
 "History of the Talmud."
 
-<span id="fn_8"></span>[18:1](kam04.htm#fr_8) According to Leeser's
+<span id="fn_8"></span>[18:1](kam04.htm#fr_8.md) According to Leeser's
 translation.
 
-<span id="fn_9"></span>[28:1](kam04.htm#fr_9) There is a long discussion
+<span id="fn_9"></span>[28:1](kam04.htm#fr_9.md) There is a long discussion
 in the Talmudical dictionaries as to the correct meaning of bardalis,
 which is mentioned in several places in the Talmud and seems to have
 different meanings; we translate it "hyena" according to Mr. Sheinhack
@@ -1268,4 +1268,4 @@ in his "Hamashbir."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II.](kam05)
+[Next: Chapter II.](kam05.md)

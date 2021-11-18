@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh11)  [Next](hloh13) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh11)  [Next](hloh13.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ adventures and punishing evil-minded residents of the great sea.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Legendary Origin of Kapa](hloh13)
+[Next: IX. The Legendary Origin of Kapa](hloh13.md)

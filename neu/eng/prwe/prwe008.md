@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe007)  [Next](prwe009) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe007)  [Next](prwe009.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ to speak in another page.
 
 ------------------------------------------------------------------------
 
-[Next: The Giants at Play](prwe009)
+[Next: The Giants at Play](prwe009.md)

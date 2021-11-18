@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv02)  [Next](ogv04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv02)  [Next](ogv04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,13 +21,13 @@ id="page_3">p. 3</span> <span id="page_4">p. 4</span>
 
 <span id="page_5">p. 5</span>
 
-### DISCOURSE UPON THE ESSENCE AND FORM OF POETRY <span id="fr_0"></span>[\*](#fn_0)
+### DISCOURSE UPON THE ESSENCE AND FORM OF POETRY <span id="fr_0"></span>[\*](#fn_0.md)
 
 *Messieurs:*
 
 Before publishing the translation of the *Golden Verses of Pythagoras*,
 such as I have made it, in French verse which I have designated by the
-expression *eumolpique*, <span id="fr_1"></span>[1](#fn_1) I would have
+expression *eumolpique*, <span id="fr_1"></span>[1](#fn_1.md) I would have
 liked to be able to submit it to you and thus be enlightened by your
 counsels or sustained by your approbation; but academic laws and usages,
 whose justice I have felt, have prevented my enjoying this advantage.
@@ -85,13 +85,13 @@ attempt them.
 
 ### Footnotes
 
-<span id="fn_0"></span>[5:\*](ogv03.htm#fr_0) Addressé à la Classe de la
+<span id="fn_0"></span>[5:\*](ogv03.htm#fr_0.md) Addressé à la Classe de la
 Langue et de la Littérature françaises, et à celle d’Histoire et de
 Littérature ancienne de l’Institut impérial de France.
 
-<span id="fn_1"></span>[5:1](ogv03.htm#fr_1) This expression will be
+<span id="fn_1"></span>[5:1](ogv03.htm#fr_1.md) This expression will be
 explained in the progress of the discourse.
 
 ------------------------------------------------------------------------
 
-[Next: § I](ogv04)
+[Next: § I](ogv04.md)

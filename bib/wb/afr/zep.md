@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](hab)  [Next](hag) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](hab)  [Next](hag.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,4 +227,4 @@ lot verander, sê die HERE.
 
 ------------------------------------------------------------------------
 
-[Next: Haggai](hag)
+[Next: Haggai](hag.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu03)  [Next](gpu05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu03)  [Next](gpu05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -149,7 +149,7 @@ pilgrimage as prescribed;--O Dweller in the Body, make reparation for
 whatever you have done!
 
 36\. 'I did not duly honour the assemblies of Brāhmiṇs; did not visit
-the holy river <span id="fr_28"></span>[1](#fn_27); did not wait upon
+the holy river <span id="fr_28"></span>[1](#fn_27.md); did not wait upon
 good men; never performed any benevolent acts;--O Dweller in the Body,
 make reparation for whatever you have done!
 
@@ -313,7 +313,7 @@ misery, obtains the Śrāddha before the annual one.
 
 70\. At the end of the year he goes to the city of Śītāḍhya, where cold
 a hundred times greater than that of the Himālaya
-[afflicts](errata.htm#1) him.
+[afflicts](errata.htm#1.md) him.
 
 80\. Hungry and pierced with cold, he looks about in the ten directions.
 'Does there remain any relative who will remove my misery?'
@@ -343,12 +343,12 @@ thirst and exhaustion, has been told. What else do you wish to hear?
 
 ### Footnotes
 
-<span id="fn_27"></span>[14:1](gpu04.htm#fr_28) The Ganges.
+<span id="fn_27"></span>[14:1](gpu04.htm#fr_28.md) The Ganges.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. An Account of the Torments of Yama](gpu05)
+[Next: Chapter III. An Account of the Torments of Yama](gpu05.md)
 
 </div>

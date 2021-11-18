@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp06)  [Next](dmp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp06)  [Next](dmp08.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ it; then you see them, again.
 
 ------------------------------------------------------------------------
 
-[Next: Col V.](dmp08)
+[Next: Col V.](dmp08.md)

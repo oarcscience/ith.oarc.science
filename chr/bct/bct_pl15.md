@@ -1,11 +1,11 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [List
-of Plates](bct01.htm#page_vii) [Previous Plate](bct_pl14) 
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md) [List
+of Plates](bct01.htm#page_vii) [Previous Plate](bct_pl14.md) 
 
 ------------------------------------------------------------------------
 
 PLATE XV
 
-<span class="small">{facing [page 272](bct11.htm#page_272)}</span>
+<span class="small">{facing [page 272](bct11.htm#page_272.md)}</span>
 
 |                              |                              |                 |                              |
 |:----------------------------:|:----------------------------:|:---------------:|:----------------------------:|
@@ -34,4 +34,4 @@ Chaldees."</span>
 
 ------------------------------------------------------------------------
 
-[Index](index) [List of Plates](bct01.htm#page_vii)
+[Index](index) [List of Plates](bct01.htm#page_vii.md)

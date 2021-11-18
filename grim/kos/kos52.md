@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos51)  [Next](kos53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos51)  [Next](kos53.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ TAKE a living Bat and exorcise it thus:--
 CAMIACH, EOMIAHE, EMIAL, MACBAL, EMOII, ZAZEAN, MAIPHIAT,
 ZACRATH,TENDAC, VULAMAHI; by these Most Holy Names, and the other Names
 of Angels which are written in the Book ASSAMAIAN, <span
-id="fr_84"></span>[1](#fn_84) I conjure thee O Bat (or whatever animal
+id="fr_84"></span>[1](#fn_84.md) I conjure thee O Bat (or whatever animal
 it may be) that thou assist me in this operation, by God the True, God
 the Holy, the God Who hath created thee, and by Adam, Who hath imposed
 thy true name upon thee and upon all other animated beings.
@@ -45,10 +45,10 @@ and that it should be avoided as much as possible.
 
 ### Footnotes
 
-<span id="fn_84"></span>[110:1](kos52.htm#fr_84) The 'Sepher
+<span id="fn_84"></span>[110:1](kos52.htm#fr_84.md) The 'Sepher
 Ha-Shamaiim,' or 'Book of the Heavens.'
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVII. Of Virgin Parchment, Or Virgin Paper, And How It
-Should Be Prepared](kos53)
+Should Be Prepared](kos53.md)

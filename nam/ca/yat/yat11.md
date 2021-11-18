@@ -1,23 +1,23 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat10)  [Next](yat12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat10)  [Next](yat12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
 <span id="page_137">p. 137</span>
 
-### XI. THE DROWNING OF YOUNG BUZZARD'S WIFE.  <span id="fr_83"></span>[215](#fn_81)
+### XI. THE DROWNING OF YOUNG BUZZARD'S WIFE.  <span id="fr_83"></span>[215](#fn_81.md)
 
 <span id="page_140">p. 140</span>
 
@@ -32,7 +32,7 @@ along." (To the women he said,) "Now you will dig for tiger-lilies. Now
 procure food for yourselves. Probably you will not like to climb
 (sugar-pines). If you finish it, they will have food for themselves."
 
-(They all went off to Silver Lake <span id="fr_84"></span>[216](#fn_82)
+(They all went off to Silver Lake <span id="fr_84"></span>[216](#fn_82.md)
 to get sugar-pines nuts. Buzzard's son told his wife not to venture into
 the water, but when he was gone she said,) "I should like to go into the
 water there. Let me see! Let us go to drink." "Do not go to drink," (she
@@ -73,9 +73,9 @@ water while on your way. You were foolish." "I did not know. I should
 have gone with her, but she just rain off by herself. She should have
 told me, 'Let us go and drink.' She was angry. I am not good. My heart
 feels grieved." They all arrived home, they lay down in the ashes in the
-fireplace. <span id="fr_85"></span>[217](#fn_83) Also the men did so.
+fireplace. <span id="fr_85"></span>[217](#fn_83.md) Also the men did so.
 Her people, those who had climbed for (sugar-pine nuts), cried. They
-piled the pine-nuts into the fire. <span id="fr_86"></span>[218](#fn_84)
+piled the pine-nuts into the fire. <span id="fr_86"></span>[218](#fn_84.md)
 
 (Before she had left, Buzzard's wife) had said, "Perhaps I shall not
 again enter the house. I dreamt that I was dying. Pray burn up all of
@@ -93,19 +93,19 @@ died if my hair comes hither, blown back by the wind." "Take along with
 you," (said her mother,) "your tasseled buckskin skirt and your apron
 fringed with white grass. Put your beads about your neck." "Yes," she
 said. "Now, mother," she said, "good-bye! <span
-id="fr_87"></span>[219](#fn_85) You shall not see me again." "I am
+id="fr_87"></span>[219](#fn_85.md) You shall not see me again." "I am
 afraid," (said her mother). "Stay at home. I am afraid for you."
 "Father, do not feel bad. Just cry a little bit for me. You shall grow
 old. Mother! pray do not cry much. If you see people eating, do not go
 over to the next house. If you see food over there, pray hold your head
-down. <span id="fr_88"></span>[220](#fn_86) You were happy in raising
+down. <span id="fr_88"></span>[220](#fn_86.md) You were happy in raising
 me. I did not think before that I should take a husband."
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_81"></span>[137:215](yat11.htm#fr_83) It is curious that in
+<span id="fn_81"></span>[137:215](yat11.htm#fr_83.md) It is curious that in
 the telling Betty Brown left out all the names of the characters. It was
 only when the text was gone over for purposes of translation that it was
 found what animals she had in mind. The chief is Buzzard's son
@@ -113,21 +113,21 @@ found what animals she had in mind. The chief is Buzzard's son
 (p‘a‘k!a'nna perhaps Dragon Fly), her father is Woodpecker
 (ts\*!urā'du). The text is distressingly elliptical in narrative.
 
-<span id="fn_82"></span>[140:216](yat11.htm#fr_84) The Yana name is
+<span id="fn_82"></span>[140:216](yat11.htm#fr_84.md) The Yana name is
 Tc‘ā'p!ulxa. it is situated about eight miles southeast of Round
 Mountain, at a height of approximately 3700 feet.
 
-<span id="fn_83"></span>[141:217](yat11.htm#fr_85) As sign of mourning.
+<span id="fn_83"></span>[141:217](yat11.htm#fr_85.md) As sign of mourning.
 
-<span id="fn_84"></span>[141:218](yat11.htm#fr_86) It would have been
+<span id="fn_84"></span>[141:218](yat11.htm#fr_86.md) It would have been
 unlucky to use them.
 
-<span id="fn_85"></span>[142:219](yat11.htm#fr_87) The literal
+<span id="fn_85"></span>[142:219](yat11.htm#fr_87.md) The literal
 translation is, "Now stay!"
 
-<span id="fn_86"></span>[142:220](yat11.htm#fr_88) I.e., do not look on
+<span id="fn_86"></span>[142:220](yat11.htm#fr_88.md) I.e., do not look on
 greedily when others eat.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Coyote, Heron, and Lizard](yat12)
+[Next: XII. Coyote, Heron, and Lizard](yat12.md)

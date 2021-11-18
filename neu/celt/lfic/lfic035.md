@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic034)  [Next](lfic036) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic034)  [Next](lfic036.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ stories being never in the neighbourhood of their exposition.
 
 ------------------------------------------------------------------------
 
-[Next: The Bewitched Churn](lfic036)
+[Next: The Bewitched Churn](lfic036.md)

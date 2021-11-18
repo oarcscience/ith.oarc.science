@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
-[Index](index)  [Previous](pbs02)  [Next](pbs04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
+[Index](index)  [Previous](pbs02)  [Next](pbs04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![T](img/00101.jpg) |
+| ![T](img/00101.jpg.md) |
 
 HE gift of prophecy, second-sight, or "Taibhsearachd," claimed for and
 believed by many to have been possessed, in an eminent degree, by
@@ -267,4 +267,4 @@ fulfilled.
 ------------------------------------------------------------------------
 
 [Next: Prophecies Which Might Be Attributed to Natural
-Shrewdness](pbs04)
+Shrewdness](pbs04.md)

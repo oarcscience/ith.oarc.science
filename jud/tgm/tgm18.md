@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm17)  [Next](tgm19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm17)  [Next](tgm19.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ Many people said to her:
 <span id="img_08300"></span>
 
 [![](tn/08300.jpg)  
-Click to enlarge](img/08300.jpg)
+Click to enlarge](img/08300.jpg.md)
 
  
 
@@ -206,4 +206,4 @@ lived happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: 16. The Cock, the Donkey, and the Candle](tgm19)
+[Next: 16. The Cock, the Donkey, and the Candle](tgm19.md)

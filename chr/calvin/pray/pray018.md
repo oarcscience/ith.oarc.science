@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray017)  [Next](pray019) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray017)  [Next](pray019.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,10 +37,10 @@ appear, nay, sometimes burst forth, — emotions not a little at variance
 with the first law which we laid down. In particular, we may see in a
 clause of the thirty-ninth Psalm, how this saint was carried away by the
 vehemence of his grief, and unable to keep within bounds. "O spare
-me, <span id="fr_6"></span>[7](#fn_6) that I may recover strength,
+me, <span id="fr_6"></span>[7](#fn_6.md) that I may recover strength,
 before I go hence, and be no more" (<span
 id="iii.xvi-p1.4"></span>[Psalm
-39:13](../../../bib/kjv/psa039.htm#013)<span id="iii.xvi-p1.4"></span>).
+39:13](../../../bib/kjv/psa039.htm#013)<span id="iii.xvi-p1.4"></span>.md).
 You would call this the language of a desperate man, who had no other
 desire than that God should withdraw and leave him to relish in his
 distresses. Not that his devout mind rushes into such intemperance, or
@@ -70,7 +70,7 @@ that they bring scarcely a tenth of the sacrifice of which David speaks,
 "The sacrifices of God are a broken spirit: a broken and a contrite
 heart, O God, thou wilt not despise" (<span
 id="iii.xvi-p2.1"></span>[Psalm
-51:17](../../../bib/kjv/psa051.htm#017)<span id="iii.xvi-p2.1"></span>).
+51:17](../../../bib/kjv/psa051.htm#017)<span id="iii.xvi-p2.1"></span>.md).
 Thus a twofold pardon is always to be asked; first, because they are
 conscious of many faults the sense of which, however, does not touch
 them so as to make them feel dissatisfied with themselves as they ought;
@@ -84,11 +84,11 @@ severe trials, as if he actually wished to extinguish their faith. The
 hardest of such trials is when believers are forced to exclaim, "O Lord
 God of hosts, how long wilt thou be angry against the prayer of thy
 people?" (<span id="iii.xvi-p2.2"></span>[Psalm
-80:4](../../../bib/kjv/psa080.htm#004)<span id="iii.xvi-p2.2"></span>),
+80:4](../../../bib/kjv/psa080.htm#004)<span id="iii.xvi-p2.2"></span>.md),
 as if their very prayers offended him. In like manner, when Jeremiah
 says "Also when I cry and shout, he shutteth out my prayers (<span
 id="iii.xvi-p2.3"></span>[Lamentations
-3:8](../../../bib/kjv/lam003.htm#008)<span id="iii.xvi-p2.3"></span>),
+3:8](../../../bib/kjv/lam003.htm#008)<span id="iii.xvi-p2.3"></span>.md),
 there cannot be a doubt that he was in the greatest perturbation.
 Innumerable examples of the same kind occur in the Scriptures, from
 which it is manifest that the faith of the saints was often mingled with
@@ -114,11 +114,11 @@ immediately reaching it.
 
 ### Footnotes
 
-<span id="fn_6"></span>[7](pray018.htm#fr_6) <span
+<span id="fn_6"></span>[7](pray018.htm#fr_6.md) <span
 id="iii.xvi-p1.1"></span>Latin, "<span id="iii.xvi-p1.2"></span>Desine a
 me." French, "<span id="iii.xvi-p1.3"></span>Retire-toy;"—Withdraw from
 me.
 
 ------------------------------------------------------------------------
 
-[Next: 17.](pray019)
+[Next: 17.](pray019.md)

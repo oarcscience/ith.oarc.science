@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sjf03)  [Next](sjf05) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sjf03)  [Next](sjf05.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,4 +169,4 @@ recompence of the reward of the righteous is for the time to come.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III.](sjf05)
+[Next: Chapter III.](sjf05.md)

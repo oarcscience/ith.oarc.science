@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus20)  [Next](csus22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus20)  [Next](csus22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -231,7 +231,7 @@ preposterously
 <span id="img_28200"></span>
 
 [![COSTUMES AT ONEIDA.](tn/28200.jpg)  
-Click to enlarge](img/28200.jpg)  
+Click to enlarge](img/28200.jpg.md)  
 COSTUMES AT ONEIDA.  
 
 <span id="page_283">p. 283</span>
@@ -404,4 +404,4 @@ claim no wages or other reward for their labor while in the community.
 ------------------------------------------------------------------------
 
 [Next: IV.—Sunday At The Oneida Community, With Some Account Of
-“Criticism.”](csus22)
+“Criticism.”](csus22.md)

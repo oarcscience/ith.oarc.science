@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli29)  [Next](roli31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli29)  [Next](roli31.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -15,7 +15,7 @@ Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
 ## APPENDIX I.
 
-### GAMES, ARTS, AND INDUSTRIES OF THE DIEGUEÑOS AND LUISEÑOS. <span id="fr_321"></span>[\*](#fn_315)
+### GAMES, ARTS, AND INDUSTRIES OF THE DIEGUEÑOS AND LUISEÑOS. <span id="fr_321"></span>[\*](#fn_315.md)
 
 ##### By <span class="smallcaps">Constance Goddard DuBois</span>.
 
@@ -74,7 +74,7 @@ known to the initiated. Others have been discovered by chance by
 tourists and collectors. With the Indians, to betray the secret would be
 to profane the most sacred things of their religion. Fortunately two
 fine specimens of these rare objects have lately been secured. <span
-id="fr_322"></span>[305](#fn_316) They were found buried among fallen
+id="fr_322"></span>[305](#fn_316.md) They were found buried among fallen
 granite rocks in a distant cañon of the mountains near a deserted Indian
 village. They contained bits of burned bones, charcoal, arrow-heads,
 etc.
@@ -205,7 +205,7 @@ different regions mentioned above.
 At Mesa Grande and Warner's ranch the common netting stitch called the
 "bowline on a bight" was and is used. In the southern mountains, the
 Manzanita region, the double loop or square knot is used. <span
-id="fr_323"></span>[306](#fn_317)
+id="fr_323"></span>[306](#fn_317.md)
 
 The Luiseño netting stitch has not been investigated. Sandals made of
 yucca fibre very neatly arranged or woven are still worn at Manzanita.
@@ -215,7 +215,7 @@ precision, the fibres bound with knotted and twisted twine.
 
 Although coiled basketry is common among Luiseños and Diegueños, the
 twined weave was known and is still used to a certain extent. The
-chakwhit, <span id="fr_324"></span>[307](#fn_318) Luiseño ceremonial
+chakwhit, <span id="fr_324"></span>[307](#fn_318.md) Luiseño ceremonial
 basket, also used by men on a staff hung over the shoulder, was twined,
 as
 
@@ -223,7 +223,7 @@ as
 
 are the Diegueño basket hats still worn in the Manzanita region. Sifting
 baskets are made in an openwork twined mesh. The cheyut, <span
-id="fr_325"></span>[308](#fn_319) Luiseño ceremonial basket used with
+id="fr_325"></span>[308](#fn_319.md) Luiseño ceremonial basket used with
 the coiled tukmul, was twined in flat plaque shape, but is not now to be
 found in existence. A sacred basket in jar shape was probably twined.
 
@@ -242,7 +242,7 @@ of the Earth-mother.
 
 The common grinding mortars and metate stones were made. Very beautiful
 metates set on three legs, hewn of solid stone, were manufactured at the
-Missions; <span id="fr_326"></span>[309](#fn_320) but the sacred
+Missions; <span id="fr_326"></span>[309](#fn_320.md) but the sacred
 symmetrical toloache bowls were born of the Earth-mother as people, and
 were later transformed into their present shape.
 
@@ -279,15 +279,15 @@ rich in objects of native art and industry.
 
 ### Footnotes
 
-<span id="fn_315"></span>[167:\*](roli30.htm#fr_321) The following notes
+<span id="fn_315"></span>[167:\*](roli30.htm#fr_321.md) The following notes
 on the culture of the Luiseño and Diegueño were incidentally obtained by
 Miss DuBois during her stay among them while she was engaged in the
 study of their religion.—Ed.
 
-<span id="fn_316"></span>[168:305](roli30.htm#fr_322) See Amer. Anthr.
+<span id="fn_316"></span>[168:305](roli30.htm#fr_322.md) See Amer. Anthr.
 IX, pl. XXIX, 1907.
 
-<span id="fn_317"></span>[171:306](roli30.htm#fr_323) The bowline on a
+<span id="fn_317"></span>[171:306](roli30.htm#fr_323.md) The bowline on a
 bight is made by bringing the shuttle over before the stick, up through
 the loop of the last row, behind both lines of the loop and down in
 front of both lines and through the loose loop of new thread on the
@@ -298,15 +298,15 @@ through the loop of the last row, behind both lines of the loop and down
 between both lines of the loop, over the first and under the second
 line, pulling backwards and towards the left.
 
-<span id="fn_318"></span>[171:307](roli30.htm#fr_324) Cha’kwut, openwork
+<span id="fn_318"></span>[171:307](roli30.htm#fr_324.md) Cha’kwut, openwork
 rush basket for gathering acorns, cactus, etc.—S.
 
-<span id="fn_319"></span>[172:308](roli30.htm#fr_325) Cheyit, openwork
+<span id="fn_319"></span>[172:308](roli30.htm#fr_325.md) Cheyit, openwork
 rush basket for sifting.—S.
 
-<span id="fn_320"></span>[172:309](roli30.htm#fr_326) Probably under
+<span id="fn_320"></span>[172:309](roli30.htm#fr_326.md) Probably under
 Mexican influence.—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix II. Notes On The Luiseños (A. L. Kroeber)](roli31)
+[Next: Appendix II. Notes On The Luiseños (A. L. Kroeber)](roli31.md)

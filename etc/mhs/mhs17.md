@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs16)  [Next](mhs18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs16)  [Next](mhs18.md) 
 
 ------------------------------------------------------------------------
 
@@ -228,4 +228,4 @@ ill-luck.
 
 ------------------------------------------------------------------------
 
-[Next: XV. The Lucky Horse-shoe In General](mhs18)
+[Next: XV. The Lucky Horse-shoe In General](mhs18.md)

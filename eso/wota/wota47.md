@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](wota46)  [Next](wota48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](wota46)  [Next](wota48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0008BCE64/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0008BCE64/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Wisdom of the Ages*, by George A. Fuller, \[1916\], at Intangible
 Textual Heritage
 
@@ -88,7 +88,7 @@ Rise, oh, Neontu, to that sublime height
 
 <span id="page_192">p. 192</span>
 
-of the soul [where](errata.htm#0) thou wilt no longer feel the waves of
+of the soul [where](errata.htm#0.md) thou wilt no longer feel the waves of
 contention and strife rolling over thee, but by thee and around thee and
 through thee shall sweep the breath of Omn on its eternal way, bearing
 the message of peace and love to all souls who have conquered the lower
@@ -96,4 +96,4 @@ nature and have attained the freedom that is that of the self-governed.
 
 ------------------------------------------------------------------------
 
-[Next: XLVII](wota48)
+[Next: XLVII](wota48.md)

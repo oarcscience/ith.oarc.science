@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio29)  [Next](dio31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio29)  [Next](dio31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -17,10 +17,10 @@ Intangible Textual Heritage
 <span id="ii.iv.ii.vi"></span>
 
 <span id="ii.iv.ii.vi-p1"></span>**LETTER VI.** *To Sopatros* <span
-id="fr_71"></span>[72](#fn_71) *--Priest.*
+id="fr_71"></span>[72](#fn_71.md) *--Priest.*
 
 <span id="ii.iv.ii.vi-p2"></span>Do not imagine this a victory, holy
-Sopatros, to have denounced <span id="fr_72"></span>[73](#fn_72) a
+Sopatros, to have denounced <span id="fr_72"></span>[73](#fn_72.md) a
 devotion, or an opinion, which apparently is not good. For neither--even
 if you should have convicted it accurately--are the (teachings) of
 Sopatros consequently good. For it is possible, both that you and
@@ -35,17 +35,17 @@ on behalf of truth, that every thing said is altogether unquestionable.
 
 ### Footnotes
 
-<span id="fn_71"></span>[145:72](dio30.htm#fr_71) <span
+<span id="fn_71"></span>[145:72](dio30.htm#fr_71.md) <span
 id="ii.iv.ii.vi-p1.1"></span><span id="ii.iv.ii.vi-p1.2"></span>[Acts
-xx. 4](../../bib/kjv/act020.htm#004)<span id="ii.iv.ii.vi-p1.2"></span>;
+xx. 4](../../bib/kjv/act020.htm#004.md)<span id="ii.iv.ii.vi-p1.2"></span>;
 <span id="ii.iv.ii.vi-p1.3"></span>[Rom. xvi.
-21](../../bib/kjv/rom016.htm#021)<span id="ii.iv.ii.vi-p1.3"></span>.
+21](../../bib/kjv/rom016.htm#021.md)<span id="ii.iv.ii.vi-p1.3"></span>.
 
-<span id="fn_72"></span>[145:73](dio30.htm#fr_72) <span
+<span id="fn_72"></span>[145:73](dio30.htm#fr_72.md) <span
 id="ii.iv.ii.vi-p2.1"></span><span id="ii.iv.ii.vi-p2.2"></span>[Tit.
-iii. 9](../../bib/kjv/tit003.htm#009)<span
+iii. 9](../../bib/kjv/tit003.htm#009.md)<span
 id="ii.iv.ii.vi-p2.2"></span>.
 
 ------------------------------------------------------------------------
 
-[Next: Letter VII. To Polycarp--Hierarch.](dio31)
+[Next: Letter VII. To Polycarp--Hierarch.](dio31.md)

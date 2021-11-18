@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg04)  [Next](csg06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg04)  [Next](csg06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ de St.--Germain had tried to unseal the eyes of Their Majesties, by
 making them perceive the approach of danger; but M. de Maurepas, not
 wishing the salvation of the country to come from any one but himself,
 ousted the thaumaturgist, and he re-appeared no more." <span
-id="fr_35"></span>[1](#fn_35)
+id="fr_35"></span>[1](#fn_35.md)
 
 The date at which these events were taking place was 1788; the final
 crash, however, did not culminate until 1793. Madame d’Adhémar is
@@ -86,7 +86,7 @@ authority of the King are to me! We are walking on dangerous ground; I
 begin to believe that your Comte de St.--Germain was right. We were
 wrong not to listen to him, but M. de Maurepas imposed a skilful and
 despotic dictatorship upon us. To what are we coming? <span
-id="fr_36"></span>[1](#fn_36)
+id="fr_36"></span>[1](#fn_36.md)
 
 ". . . The Queen sent for me, and I hastened to her sacred order. She
 held a letter in her
@@ -217,7 +217,7 @@ very fine verse which I apply to myself, making a change in the reading:
 "Kings are condemned to be weary in utter loneliness."
 
 "'So I should act were I to begin my career again.'" <span
-id="fr_37"></span>[1](#fn_37)
+id="fr_37"></span>[1](#fn_37.md)
 
 Madame d’Adhémar does not give any very
 
@@ -348,7 +348,7 @@ de Polignac, and of the Duc, and also the lives of Messieurs de
 Vaudreuil, de Vermont, de Guiche, of the Ducs de Broglie, de la
 Vauguyon, de Castries, the Baron de Breteuil, Messieurs de Villedeuil,
 d’Amecourt, des Polastrons--in a word a real proscription. . . . <span
-id="fr_38"></span>[1](#fn_38)
+id="fr_38"></span>[1](#fn_38.md)
 
 "On returning home, a note was given to me, thus worded:--
 
@@ -443,7 +443,7 @@ exclamation said:--
 stronger than myself*. There are periods of time when to retreat is
 impossible, others when He has pronounced and the decree will be
 executed. *Into this we are entering*.' <span
-id="fr_39"></span>[1](#fn_39)
+id="fr_39"></span>[1](#fn_39.md)
 
 "'Will you see the Queen?'
 
@@ -578,7 +578,7 @@ him if he had seen the Comte de St.--Germain as he went out.'
 "'I do not mean to deny it, but he did not strike my eye.'
 
 "'Then he had made himself invisible! I am lost in astonishment'." <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 These are the last words that the Countess d’Adhémar writes in
 connection with the Comte de St. Germain or that friend who had tried so
@@ -613,7 +613,7 @@ the strain; cases may be cited as instances illustrating, but too
 clearly, the truth of the sorrowful forecast made by the Mystic
 Messenger of the last century. He might have fitly quoted the words of
 the Prophet forerunner, "I am the voice of one crying in the
-wilderness." <span id="fr_41"></span>[1](#fn_41) But, alas for France,
+wilderness." <span id="fr_41"></span>[1](#fn_41.md) But, alas for France,
 neither prophecies nor warnings availed her; slowly and sadly has the
 wheel of her life turned round, proving the veracity and accuracy of
 that prophet who was sent to warn her of the doom to come.
@@ -622,26 +622,26 @@ that prophet who was sent to warn her of the doom to come.
 
 ### Footnotes
 
-<span id="fn_35"></span>[75:1](csg05.htm#fr_35) ADHÉMAR, *op. cit.*,
+<span id="fn_35"></span>[75:1](csg05.htm#fr_35.md) ADHÉMAR, *op. cit.*,
 iv., 1.
 
-<span id="fn_36"></span>[76:1](csg05.htm#fr_36) ADHÉMAR, *op. cit.*,
+<span id="fn_36"></span>[76:1](csg05.htm#fr_36.md) ADHÉMAR, *op. cit.*,
 iv., p. 63.
 
-<span id="fn_37"></span>[80:1](csg05.htm#fr_37) ADHÉMAR, *op. cit.*,
+<span id="fn_37"></span>[80:1](csg05.htm#fr_37.md) ADHÉMAR, *op. cit.*,
 iv., pp. 74-97. The date here mentioned is 1788.
 
-<span id="fn_38"></span>[85:1](csg05.htm#fr_38) ADHÉMAR, *op. cit.*,
+<span id="fn_38"></span>[85:1](csg05.htm#fr_38.md) ADHÉMAR, *op. cit.*,
 iv., pp. 189-193.
 
-<span id="fn_39"></span>[88:1](csg05.htm#fr_39) The italics are in the
+<span id="fn_39"></span>[88:1](csg05.htm#fr_39.md) The italics are in the
 original.
 
-<span id="fn_40"></span>[92:1](csg05.htm#fr_40) ADHÉMAR, *op. cit.*,
+<span id="fn_40"></span>[92:1](csg05.htm#fr_40.md) ADHÉMAR, *op. cit.*,
 iv., pp. 254-261.
 
-<span id="fn_41"></span>[93:1](csg05.htm#fr_41) *Isaiah*, xl. 3.
+<span id="fn_41"></span>[93:1](csg05.htm#fr_41.md) *Isaiah*, xl. 3.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Political Work](csg06)
+[Next: Chapter V. Political Work](csg06.md)

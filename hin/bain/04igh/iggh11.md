@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh10) 
-[Next](iggh12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh10.md) 
+[Next](iggh12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -42,7 +42,7 @@ Creator give beauty to women or to men, but to snare each other's souls?
 And even the gods come under thy reproof, for which of them is not
 subdued by the beauty of his wife? Nay, there are some who have even
 gone astray, bewildered by the infatuation of beauty in a sex other than
-their own <span id="fr_26"></span>[r](#fn_26). Why dost thou blame me
+their own <span id="fr_26"></span>[r](#fn_26.md). Why dost thou blame me
 
 <span id="page_42">p. 42</span>
 
@@ -76,10 +76,10 @@ reproof.
 
 ### Footnotes
 
-<span id="fn_26"></span>[41:r](iggh11.htm#fr_26) This, though she knew
+<span id="fn_26"></span>[41:r](iggh11.htm#fr_26.md) This, though she knew
 it not, was a home-thrust: for of Indra, as of Zeus, there is a
 scandalous chronicle.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Two Kings](iggh12)
+[Next: IX. The Two Kings](iggh12.md)

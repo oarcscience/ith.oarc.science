@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar030) [Next](gbar032)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar030) [Next](gbar032.md)
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ not the God of Israel.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar032)
+[Next](gbar032.md)

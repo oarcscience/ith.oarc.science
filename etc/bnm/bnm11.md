@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm10)  [Next](bnm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm10)  [Next](bnm12.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ smoke had made every one of them as black as night.
 
 ------------------------------------------------------------------------
 
-[Next: How Fire Was Brought To The Indians.](bnm12)
+[Next: How Fire Was Brought To The Indians.](bnm12.md)

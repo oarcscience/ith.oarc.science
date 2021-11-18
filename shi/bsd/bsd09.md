@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd08)  [Next](bsd10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd08)  [Next](bsd10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -89,7 +89,7 @@ ghastly scene, but they were made to visit alone the place in the
 darkness of night and there to leave a mark of their visit on the
 trunkless head.
 
-Does this ultra-Spartan system <span id="fr_7"></span>[1](#fn_7) of
+Does this ultra-Spartan system <span id="fr_7"></span>[1](#fn_7.md) of
 "drilling
 
 <span id="page_33">p. 33</span>
@@ -111,7 +111,7 @@ another chapter what other concepts Bushido had of Valour.
 
 ### Footnotes
 
-<span id="fn_7"></span>[32:1](bsd09.htm#fr_7) The spiritual aspect of
+<span id="fn_7"></span>[32:1](bsd09.htm#fr_7.md) The spiritual aspect of
 valour is evidenced by composure--calm presence of mind. Tranquillity
 <span id="page_33">p. 33</span> is courage in repose. It is a statical
 manifestation of valour, as daring deeds are a dynamical. A truly brave
@@ -192,4 +192,4 @@ Benevolence.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Benevolence, the Feeling of Distress](bsd10)
+[Next: Chapter V: Benevolence, the Feeling of Distress](bsd10.md)

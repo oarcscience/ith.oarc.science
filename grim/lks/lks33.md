@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks32)  [Next](lks34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks32)  [Next](lks34.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ friendly: speaking the secrets of Truth in voice and in understanding.
 
 ------------------------------------------------------------------------
 
-[Next: Ye Secounde Conjouratioun](lks34)
+[Next: Ye Secounde Conjouratioun](lks34.md)

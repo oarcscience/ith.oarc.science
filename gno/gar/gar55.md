@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar54)  [Next](gar56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar54)  [Next](gar56.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ the introduction of the art into England, and then proceeds to give, in
 rhyme, the Rules of the Craft, conceived in precisely the same
 business-like spirit as those of a Trades-Union. The preamble is: "Hic
 incipiunt Constitutiones Artis Geometricae secundum Euclydem." <span
-id="fr_224"></span>[†](#fn_222) Once upon a time a certain king and his
+id="fr_224"></span>[†](#fn_222.md) Once upon a time a certain king and his
 nobles had such large families as to be unable to maintain them
 decently, and taking counsel together devised they should be
 
@@ -297,9 +297,9 @@ Labour."
 
 ### Footnotes
 
-<span id="fn_222"></span>[377:†](gar55.htm#fr_224) What follows is a
+<span id="fn_222"></span>[377:†](gar55.htm#fr_224.md) What follows is a
 much condensed summary of the sense of the old Mason's rhymes.
 
 ------------------------------------------------------------------------
 
-[Next: No Relation of Modern Masons to Mediæval Guilds](gar56)
+[Next: No Relation of Modern Masons to Mediæval Guilds](gar56.md)

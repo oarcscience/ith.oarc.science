@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas099n)  [Next](jas101n)   
- \[[100. Ali Baba and Kissem.](jas100)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas099n)  [Next](jas101n.md)   
+ \[[100. Ali Baba and Kissem.](jas100.md)\]
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ we are familiar.
 
 ------------------------------------------------------------------------
 
-[Next: Note 101. Bull-of-all-the-land.](jas101n)
+[Next: Note 101. Bull-of-all-the-land.](jas101n.md)

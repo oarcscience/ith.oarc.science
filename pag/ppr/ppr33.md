@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr32)  [Next](ppr34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr32)  [Next](ppr34.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ Thou reservest the secret of thine existence.
 
 ------------------------------------------------------------------------
 
-[Next: An Inca's Death Prayer (Peruvian)](ppr34)
+[Next: An Inca's Death Prayer (Peruvian)](ppr34.md)

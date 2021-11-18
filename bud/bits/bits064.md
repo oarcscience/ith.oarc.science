@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits063) [Next](bits065)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits063) [Next](bits065.md)
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ the seven Supreme Buddhas!'"
 
 ------------------------------------------------------------------------
 
-[Next: § 65. The Six High Powers](bits065)
+[Next: § 65. The Six High Powers](bits065.md)
 
  
 

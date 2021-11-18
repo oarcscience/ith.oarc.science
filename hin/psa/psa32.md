@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa31)  [Next](psa33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa31)  [Next](psa33.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ very great pleasure.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXII](psa33)
+[Next: Chapter XXXII](psa33.md)

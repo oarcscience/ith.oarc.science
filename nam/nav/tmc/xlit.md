@@ -1,4 +1,4 @@
-[The Mountain Chant Index](index)
+[The Mountain Chant Index](index.md)
 
 ------------------------------------------------------------------------
 

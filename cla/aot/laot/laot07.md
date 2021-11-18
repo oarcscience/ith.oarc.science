@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot06) 
-[Next](laot08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot06.md) 
+[Next](laot08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -89,7 +89,7 @@ not easily guess at the material of which they were made, but others say
 that they bound him on the peak of the mountain; and it has two summits,
 and they say that his hands were lashed to them, although they are
 distant from one another not less than as stade <span
-id="fr_2"></span>[1](#fn_2), so great was his bulk. But the inhabitants
+id="fr_2"></span>[1](#fn_2.md), so great was his bulk. But the inhabitants
 of the Caucasus regard the eagle as a hostile bird, and burn out the
 nests which they build among the rocks by hurling into them fiery darts,
 and they also set snares for them, declaring that they are avenging
@@ -341,8 +341,8 @@ and Lydia. And this is why the rock was called and actually is
 
 ### Footnotes
 
-<span id="fn_2"></span>[1:123:1](laot07.htm#fr_2) 606 English feet.
+<span id="fn_2"></span>[1:123:1](laot07.htm#fr_2.md) 606 English feet.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 11-20](laot08)
+[Next: Chapters 11-20](laot08.md)

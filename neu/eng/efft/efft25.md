@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft24)  [Next](efft26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft24)  [Next](efft26.md) 
 
 ------------------------------------------------------------------------
 
-# THE TWO SERVING DAMSELS.  <span id="fr_31"></span>[1](#fn_31)
+# THE TWO SERVING DAMSELS.  <span id="fr_31"></span>[1](#fn_31.md)
 
 Two serving damsels of this place declared, as an excuse, perhaps, for
 spending more money than they ought upon finery, that the pixies were
@@ -66,9 +66,9 @@ celebrated festivities of Mayday on the green.
 
 ### Footnotes
 
-<span id="fn_31"></span>[1](efft25.htm#fr_31) Mrs. Bray, *The Borders of
+<span id="fn_31"></span>[1](efft25.htm#fr_31.md) Mrs. Bray, *The Borders of
 the Tamar and the Tavy*, vol. i., p. 178.
 
 ------------------------------------------------------------------------
 
-[Next: The Tulip Bed](efft26)
+[Next: The Tulip Bed](efft26.md)

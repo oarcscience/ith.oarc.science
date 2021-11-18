@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXXIV) 
-[Previous](satl073)  [Next](satl075) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXXIV.md) 
+[Previous](satl073)  [Next](satl075.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ habeam. Immo, ut sciat me posse malum dare, nolo me mortuum basiet."
 
 ------------------------------------------------------------------------
 
-[Next: LXXV](satl075)
+[Next: LXXV](satl075.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](paracel2)  [Next](paracel3) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](paracel2)  [Next](paracel3.md) 
 
 ------------------------------------------------------------------------
 
@@ -258,6 +258,6 @@ man. - *Liber Azoth*, S. V., *Practica Lineae Vitae*.
 
 ------------------------------------------------------------------------
 
-[Next: The Aurora of the philosophers by Paracelsus](paracel3)
+[Next: The Aurora of the philosophers by Paracelsus](paracel3.md)
 
   

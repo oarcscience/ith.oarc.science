@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm32)  [Next](bnm34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm32)  [Next](bnm34.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ happiness was now a pearl.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Emeralds.](bnm34)
+[Next: The Story Of The First Emeralds.](bnm34.md)

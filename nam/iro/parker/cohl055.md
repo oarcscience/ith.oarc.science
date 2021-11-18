@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl054)  [Next](cohl056) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl054)  [Next](cohl056.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 "'Now another message for your people.
 
 "'You have had the constant fear that the white race would exterminate
-you. <span id="fr_47"></span>[2](#fn_47) The Creator will care for his
+you. <span id="fr_47"></span>[2](#fn_47.md) The Creator will care for his
 Oñgwe'o<sup>n</sup>we (real people).'"
 
 So they said and he said. Eniaiehuk.
@@ -18,7 +18,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_47"></span>[45:2](cohl055.htm#fr_47) The Iroquois saw that
+<span id="fn_47"></span>[45:2](cohl055.htm#fr_47.md) The Iroquois saw that
 the white race had encircled them and were drawing the lines ever
 tighter. They saw that they were in a position of great disadvantage,
 living as they did in the midst of a people against whom they had fought
@@ -36,4 +36,4 @@ marvels. "Truly the Creator has cared for his red children!"
 
 ------------------------------------------------------------------------
 
-[Next: Section 45](cohl056)
+[Next: Section 45](cohl056.md)

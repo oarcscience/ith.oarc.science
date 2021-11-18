@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass12)  [Next](nass14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass12)  [Next](nass14.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ shoulders. He carried whole trees on his shoulders.
 
 ------------------------------------------------------------------------
 
-[Next: Ts?ak\*](nass14)
+[Next: Ts?ak\*](nass14.md)

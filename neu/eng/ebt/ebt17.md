@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt16)  [Next](ebt18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt16)  [Next](ebt18.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ of the churches.
 
 ------------------------------------------------------------------------
 
-[Next: Castles](ebt18)
+[Next: Castles](ebt18.md)

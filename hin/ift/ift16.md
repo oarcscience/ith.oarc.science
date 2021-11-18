@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift15) 
-[Next](ift17) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift15.md) 
+[Next](ift17.md) 
 
 ------------------------------------------------------------------------
 
 # The Gold-giving Serpent
 
 <span id="img_44"></span> [![](tn/44.jpg)  
-Click to enlarge](img/44.jpg)
+Click to enlarge](img/44.jpg.md)
 
 <span id="img_43"></span> ![](img/43.jpg)OW in a certain place there
 lived a Brahman named Haridatta. He was a farmer, but poor was the
@@ -55,4 +55,4 @@ the folly of his son.
 
 ------------------------------------------------------------------------
 
-[Next: The Son of Seven Queens](ift17)
+[Next: The Son of Seven Queens](ift17.md)

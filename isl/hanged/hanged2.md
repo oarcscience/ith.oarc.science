@@ -1,13 +1,13 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](hanged1) [Next](hanged3)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](hanged1) [Next](hanged3.md)
 
 ------------------------------------------------------------------------
 
-## THE POEM OF ANTAR<span id="fr_1"></span>[1](#note_1)
+## THE POEM OF ANTAR<span id="fr_1"></span>[1](#note_1.md)
 
    Have the poets left in the garment a place for a patch to be patched
 by me; and did you know the abode of your beloved after reflection?<span
-id="fr_2"></span>[2](#note_2)
+id="fr_2"></span>[2](#note_2.md)
 
    The vestige of the house, which did not speak, confounded thee, until
 it spoke by means of signs, like one deaf and dumb.
@@ -33,7 +33,7 @@ difficult for me to seek you, O daughter of Mahzam.
 
    I was enamored of her unawares, at a time when I was killing her
 people, desiring her in marriage; but by your father's life I swear,
-this was not the time for desiring.<span id="fr_3"></span>[3](#note_3)
+this was not the time for desiring.<span id="fr_3"></span>[3](#note_3.md)
 
    And verily you have occupied in my heart the place of the honored
 loved one, so do not think otherwise than this, that you are my beloved.
@@ -46,7 +46,7 @@ bridled on a dark night.
 
    Nothing caused me fear of her departure, except that the baggage
 camels of her people were eating the seeds of the Khimkhim tree
-throughout the country.<span id="fr_4"></span>[4](#note_4)
+throughout the country.<span id="fr_4"></span>[4](#note_4.md)
 
    Amongst them were two and forty milk-giving camels, black as the
 wing-feathers of black crows.
@@ -88,7 +88,7 @@ his flanks, great of girth.
 
    Would a Shadanian she-camel cause me to arrive at her abode, who is
 cursed with an udder scanty of milk and cut off?<span
-id="fr_5"></span>[5](#note_5)
+id="fr_5"></span>[5](#note_5.md)
 
    After traveling all night, she is lashing her sides with her tail,
 and is strutting proudly, and she breaks up the mounds of earth she
@@ -96,7 +96,7 @@ passes over with her foot with its sole, treading hard.
 
    As if I in the evening am breaking the mounds of earth by means of an
 ostrich, very small as to the distance between its two feet, and
-earless.<span id="fr_6"></span>[6](#note_6)
+earless.<span id="fr_6"></span>[6](#note_6.md)
 
    The young ostriches flock toward him, as the herds of Yamanian camels
 flock to a barbarous, unintelligible speaker.
@@ -110,11 +110,11 @@ ears.
 
    She drank of the water of Duhruzain and then turned away, being
 disgusted, from the pools of stagnant water.<span
-id="fr_7"></span>[7](#note_7)
+id="fr_7"></span>[7](#note_7.md)
 
    And she swerves away with her right side from the fear of one,
 whistling in the evening, a big, ugly-headed one;<span
-id="fr_8"></span>[8](#note_8)
+id="fr_8"></span>[8](#note_8.md)
 
    From the fear of a cat, led at her side, every time she turned toward
 him, in anger, he met her with both claws and mouth.
@@ -155,14 +155,14 @@ was accompanied by a white-stoppered bottle on the left-hand side.
 
    And when I have drunk, verily, I am the squanderer of my property,
 and my honor is great, and is not sullied.<span
-id="fr_9"></span>[9](#note_9)
+id="fr_9"></span>[9](#note_9.md)
 
    And when I have become sober, I do not diminish in my generosity, and
 as you know, so are my qualities and my liberality.
 
    And many a husband of a beautiful woman, I have left prostrate on the
 ground, with his shoulders hissing like the side of the mouth of one
-with a split lip.<span id="fr_10"></span>[10](#note_10)
+with a split lip.<span id="fr_10"></span>[10](#note_10.md)
 
    My two hands preceded him with a hasty blow, striking him before he
 could strike me; and with the drops of blood from a penetrating stroke,
@@ -204,15 +204,15 @@ for bravery.
 
    Whose hands are ready with gambling arrows when it is winter, a
 tearer-down of the signs of the wine-sellers, and one reproached for his
-extravagance.<span id="fr_11"></span>[11](#note_11)
+extravagance.<span id="fr_11"></span>[11](#note_11.md)
 
    When he saw that I had descended from my horse and was intending
 killing him, he showed his teeth, but without smiling.<span
-id="fr_12"></span>[12](#note_12)
+id="fr_12"></span>[12](#note_12.md)
 
    My meeting with him was when the day spread out, and he was as if his
 fingers and his head were dyed with indigo.<span
-id="fr_13"></span>[13](#note_13)
+id="fr_13"></span>[13](#note_13.md)
 
    I pierced him with my spear, and then I set upon him with my Indian
 sword pure of steel, and keen.
@@ -222,7 +222,7 @@ soft leather shoes are worn by him and he is not twinned.
 
    Oh, how wonderful is the beauty of the doe of the hunt, to whom is
 she lawful? To me she is unlawful; would to God that she was not
-unlawful.<span id="fr_14"></span>[14](#note_14)
+unlawful.<span id="fr_14"></span>[14](#note_14.md)
 
    So, I sent my female slave, and said to her, "Go, find out news of
 her and inform me."
@@ -235,7 +235,7 @@ fawn of the gazelles, pure and with a white upper lip.
 
    I am informed that 'Amru is unthankful for my kindness while
 ingratitude is a cause of evil to the soul of the giver.<span
-id="fr_15"></span>[15](#note_15)
+id="fr_15"></span>[15](#note_15.md)
 
    And, verily, I remember the advice of my uncle, in the battle, when
 the two lips quiver from off the white teeth of the mouth,
@@ -293,7 +293,7 @@ well-bred horses.
 
    My riding-camels are tractable, they go wherever I wish; while my
 intellect is my helper, and I drive it forward with a firm order.<span
-id="fr_16"></span>[16](#note_16)
+id="fr_16"></span>[16](#note_16.md)
 
    Verily, it lay beyond my power that I should visit you; so, know what
 you have known, and some of what you have not known.
@@ -306,7 +306,7 @@ bleeding, until the horses began to shun me.
 
    And verily I feared that I should die, while there has not yet been a
 turn for war against the two sons of Zamzam;<span
-id="fr_17"></span>[17](#note_17)
+id="fr_17"></span>[17](#note_17.md)
 
    The two revilers of my honor, while I did not revile them, and the
 threateners of my blood, when I did not see them.
@@ -316,68 +316,68 @@ for the wild beasts and every large old vulture.
 
 ------------------------------------------------------------------------
 
-[Next: The Poem of Zuhair](hanged3)
+[Next: The Poem of Zuhair](hanged3.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="note_1"></span>[1](#fr_1) This is the Antar, or Antarah, who
+<span id="note_1"></span>[1](#fr_1.md) This is the Antar, or Antarah, who
 became the most noted of Arab heroes of romance.
 
-<span id="note_2"></span>[2](#fr_2) That is, have the poets left any
+<span id="note_2"></span>[2](#fr_2.md) That is, have the poets left any
 deficiency to be supplied? Have the poets of the former days left any
 poetry unsaid that the poets of the present day may say it?
 
-<span id="note_3"></span>[3](#fr_3) When there was war between the two
+<span id="note_3"></span>[3](#fr_3.md) When there was war between the two
 tribes, there was little use his wishing to marry her.
 
-<span id="note_4"></span>[4](#fr_4) He knew that her tribe would have to
+<span id="note_4"></span>[4](#fr_4.md) He knew that her tribe would have to
 move on, as there was no forage left for their camels.
 
-<span id="note_5"></span>[5](#fr_5) A she-camel, upon whom this
+<span id="note_5"></span>[5](#fr_5.md) A she-camel, upon whom this
 operation has been performed, is swifter, stronger, and fatter than
 others.
 
-<span id="note_6"></span>[6](#fr_6) He compares the fleetness of the
+<span id="note_6"></span>[6](#fr_6.md) He compares the fleetness of the
 camel to that of an ostrich.
 
-<span id="note_7"></span>[7](#fr_7) Referring to the she-camel.
+<span id="note_7"></span>[7](#fr_7.md) Referring to the she-camel.
 
-<span id="note_8"></span>[8](#fr_8) The big, ugly-headed one is the whip
+<span id="note_8"></span>[8](#fr_8.md) The big, ugly-headed one is the whip
 with its heavy handle, or a cat.
 
-<span id="note_9"></span>[9](#fr_9) That is, drunkenness makes him
+<span id="note_9"></span>[9](#fr_9.md) That is, drunkenness makes him
 generous and not ill-tempered. The Arabs, before Mohammed, considered
 drinking with one's friends to show a generous disposition.
 
-<span id="note_10"></span>[10](#fr_10) That is, the blood was spurting
+<span id="note_10"></span>[10](#fr_10.md) That is, the blood was spurting
 and hissing from a wound in his shoulder.
 
-<span id="note_11"></span>[11](#fr_11) The richer Arabs gamble as to who
+<span id="note_11"></span>[11](#fr_11.md) The richer Arabs gamble as to who
 shall kill his camel in the time of scarcity to distribute the flesh
 amongst the poor. The wine-sellers take down their signs when they have
 run out of liquor; the meaning of tearing down the signs being that he
 drinks up all their wine.
 
-<span id="note_12"></span>[12](#fr_12) The allusion is to the poet's
+<span id="note_12"></span>[12](#fr_12.md) The allusion is to the poet's
 killing Zamzam, father of Husain and Harim, who insulted him. See close
 of the poem.
 
-<span id="note_13"></span>[13](#fr_13) The dried blood was of an indigo
+<span id="note_13"></span>[13](#fr_13.md) The dried blood was of an indigo
 color.
 
-<span id="note_14"></span>[14](#fr_14) Here he again reverts to address
+<span id="note_14"></span>[14](#fr_14.md) Here he again reverts to address
 his sweetheart. The Arabs may not marry with a woman of a tribe with
 whom they are at war.
 
-<span id="note_15"></span>[15](#fr_15) 'Amru, the 'Absian, who insulted
+<span id="note_15"></span>[15](#fr_15.md) 'Amru, the 'Absian, who insulted
 the poet.
 
-<span id="note_16"></span>[16](#fr_16) That is, I carry out my plans
+<span id="note_16"></span>[16](#fr_16.md) That is, I carry out my plans
 with sagacity and determination.
 
-<span id="note_17"></span>[17](#fr_17) I feared that I should die,
+<span id="note_17"></span>[17](#fr_17.md) I feared that I should die,
 before I had fought the two sons of Zamzam. 'Antarah killed their father
 during the war between the tribes of' Abs and Fazárah, wherein the
 latter were defeated with great loss. Harim and Husain, the two sons of

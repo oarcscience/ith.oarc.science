@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm23)  [Next](tgm25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm23)  [Next](tgm25.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ Saadiah thought a while and then turned to the assembly and asked:
 <span id="img_11600"></span>
 
 [![](tn/11600.jpg)  
-Click to enlarge](img/11600.jpg)
+Click to enlarge](img/11600.jpg.md)
 
  
 
@@ -211,4 +211,4 @@ School of Saadiah, the Gaon, where he too learned to explain the Torah.
 
 ------------------------------------------------------------------------
 
-[Next: 22. Even Though I Lose](tgm25)
+[Next: 22. Even Though I Lose](tgm25.md)

@@ -6,7 +6,7 @@ title: "Heaven's Gate Documents"
 
 |                                                 |
 |-------------------------------------------------|
-| <span class="p-small"> [UFOs](../index) </span> |
+| <span class="p-small"> [UFOs](../index.md) </span> |
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Heaven's Gate Website Logo<br />
 
 <span class="p-small"> </span>
 
-[Jump to texts](#texts)
+[Jump to texts](#texts.md)
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ the void.
 
 <span class="p-small2-gray"> *Note on copyrights.* These materials, in
 particular the Anthology, are covered by copyrights. By [explicit
-release](book/02), they are available for unaltered, non-commercial
+release](book/02.md), they are available for unaltered, non-commercial
 reproduction. How to obtain commercial clearance for these texts is
 unknown and sacred-texts can't assist in this. </span>
 
@@ -99,35 +99,35 @@ unknown and sacred-texts can't assist in this. </span>
 
 ### Anthology
 
-[How and When "Heaven's Gate" May Be Entered](book/book)  
+[How and When "Heaven's Gate" May Be Entered](book/book.md)  
 <span class="p-small2"> This is an anthology of all of the group's
 official writings, reproduced without alteration. </span>
 
 ### Older Classroom Materials
 
 [Anonymous Sexaholics Celibate Church Statement of
-Beliefs](txt/asccsobeliefs.txt)  
+Beliefs](txt/asccsobeliefs.txt.md)  
 [Anonymous Sexaholics Celibate Church Introduction and
-Ways](txt/asccintro.txt)  
-[Prospective Candidate Letter](txt/proscanidate.txt)  
-[Preparing For Service](txt/preparfservice.txt)  
-[Ruffles "Snacks for Thinkers"](txt/ruffles.txt)  
+Ways](txt/asccintro.txt.md)  
+[Prospective Candidate Letter](txt/proscanidate.txt.md)  
+[Preparing For Service](txt/preparfservice.txt.md)  
+[Ruffles "Snacks for Thinkers"](txt/ruffles.txt.md)  
 
 ### Newsgroups Postings
 
-[A time to die for God?](txt/newsdieforgod.txt)  
-["Thanks for Actions Against CAN"](txt/newsthanksaction.txt)  
+[A time to die for God?](txt/newsdieforgod.txt.md)  
+["Thanks for Actions Against CAN"](txt/newsthanksaction.txt.md)  
 [The Jews and Christians Promote
-Lies-Unknowingly](txt/newsjewschristians.txt)  
+Lies-Unknowingly](txt/newsjewschristians.txt.md)  
 
 ### Misc. Documents
 
 ["During a brief window of time, some may wish to follow
-us."](txt/briefwindow.txt)  
-[What if they're right?](txt/rkkodystatement.txt)  
+us."](txt/briefwindow.txt.md)  
+[What if they're right?](txt/rkkodystatement.txt.md)  
 
 ### Transcripts
 
-[Last Chance to Evacuate Earth Before It's Recycled](txt/vt092996.txt)  
+[Last Chance to Evacuate Earth Before It's Recycled](txt/vt092996.txt.md)  
 [Planet About To Be Recycled - Your Only Chance To Survive - Leave With
-Us](txt/vt100596.txt)  
+Us](txt/vt100596.txt.md)  

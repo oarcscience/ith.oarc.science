@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cuts07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cuts07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud Upon the Sanctuary*, by Karl Eckartshausen, \[1909\], at
 Intangible Textual Heritage
 
@@ -172,7 +172,7 @@ can Jesus Christ be born in us through faith.
 The simplicity of our souls, is as the shepherds who brought their first
 offerings, until at last the three principal powers of our royal
 dignity, our reason, our will, and our activity <span
-id="fr_2"></span>[\*](#fn_2) prostrate themselves before Him and offer
+id="fr_2"></span>[\*](#fn_2.md) prostrate themselves before Him and offer
 Him the gifts of truth, wisdom, and love.
 
 Little by little, the stable of our hearts changes itself into an
@@ -308,6 +308,6 @@ Love.
 
 ### Footnotes
 
-<span id="fn_2"></span>[82:\*](cuts08.htm#fr_2) The Three Magi.
+<span id="fn_2"></span>[82:\*](cuts08.htm#fr_2.md) The Three Magi.
 
  

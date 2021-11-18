@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp31)  [Next](hmvp33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp31)  [Next](hmvp33.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ Kāmadeva, the Indian Cupid, is generally regarded as the son of Vishnu
 and Lakshmi, under the forms of Krishna and Rukmini, but he is also
 described in some places as a son of Brahmā. The latter account of his
 origin arises probably from the following. In the "Rig-Veda," <span
-id="fr_230"></span>[\*](#fn_230) Kama is described as the first movement
+id="fr_230"></span>[\*](#fn_230.md) Kama is described as the first movement
 that arose in the One, after it had come into life through the power of
 fervour or abstraction. In the "Atharva-Veda," this Kama or desire, not
 of sexual enjoyment, but of good in general, is celebrated as a great
@@ -39,7 +39,7 @@ intense grief at the loss of his wife Sati, Siva had
 
 <span id="img_25700"></span> <span align="CENTER">
 [![KĀMADEVA.](tn/25700.jpg)  
-Click to enlarge](img/25700.jpg)  
+Click to enlarge](img/25700.jpg.md)  
 KĀMADEVA.  
 </span>
 
@@ -49,7 +49,7 @@ successful, just as Pārvati (Sati in a new form) was near, who at once
 captivated the stricken deity. Angry with Kama for his presumption, he
 caused a flame to issue from his third eye, which consumed the god who
 had interrupted his devotions. In the "Vamana Purāna" <span
-id="fr_231"></span>[\*](#fn_231) is a lengthy account of the effect of
+id="fr_231"></span>[\*](#fn_231.md) is a lengthy account of the effect of
 Kāma's arrows. The wounded
 
 <span id="page_258">p. 258</span>
@@ -63,14 +63,14 @@ forsook their homes and followed him.
 
 <span id="img_25800"></span> <span align="CENTER"> [![SIVA SLAYING
 KĀMADEVA.](tn/25800.jpg)  
-Click to enlarge](img/25800.jpg)  
+Click to enlarge](img/25800.jpg.md)  
 SIVA SLAYING KĀMADEVA.  
 </span>
 
 This led their husbands to curse Siva, who, being enraged at the evil
 Kama had done to him, consumed him.
 
-The Bhāgavata <span id="fr_232"></span>[\*](#fn_232) continues the story
+The Bhāgavata <span id="fr_232"></span>[\*](#fn_232.md) continues the story
 as follows:—Rati, the wife of Kāma, being almost mad with grief at the
 loss of her husband, entreated Pārvati to intercede with Siva that he
 might restore him to life. Pārvati encourages her by showing how her
@@ -86,7 +86,7 @@ when your husband arrives, take him and bring him up; eventually he will
 slay Sambara and will live happily with you." Acting on this advice,
 Rati became a servant in the house of the demon.
 
-From the "Vishnu Purāna" <span id="fr_233"></span>[\*](#fn_233) we
+From the "Vishnu Purāna" <span id="fr_233"></span>[\*](#fn_233.md) we
 gather the completion of this story: When Pradyumna was but six days
 old, he was stolen from the lying-in chamber by Sambara, terrible as
 death; for the demon knew (having been told by the sage Nārada) that
@@ -179,17 +179,17 @@ Kushumesu, "He whose arrows are flowers."
 
 ### Footnotes
 
-<span id="fn_230"></span>[256:\*](hmvp32.htm#fr_230) Muir, O. S. T., v.
+<span id="fn_230"></span>[256:\*](hmvp32.htm#fr_230.md) Muir, O. S. T., v.
 402.
 
-<span id="fn_231"></span>[257:\*](hmvp32.htm#fr_231) Kennedy, "Hindu
+<span id="fn_231"></span>[257:\*](hmvp32.htm#fr_231.md) Kennedy, "Hindu
 Mythology."
 
-<span id="fn_232"></span>[258:\*](hmvp32.htm#fr_232) Kennedy, "Hindu
+<span id="fn_232"></span>[258:\*](hmvp32.htm#fr_232.md) Kennedy, "Hindu
 Mythology."
 
-<span id="fn_233"></span>[259:\*](hmvp32.htm#fr_233) Page 574.
+<span id="fn_233"></span>[259:\*](hmvp32.htm#fr_233.md) Page 574.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Siva](hmvp33)
+[Next: Chapter VI. Siva](hmvp33.md)

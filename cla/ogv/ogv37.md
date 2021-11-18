@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv36)  [Next](ogv38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv36)  [Next](ogv38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,12 +28,12 @@ these gods, absorbed in their beatitude and their impassive immortality,
 were such strangers to the evils of humanity that they neither troubled
 to alleviate them nor to prevent them, for what purpose then the incense
 burning at the foot of their altars? <span
-id="fr_557"></span>[a](#fn_556)
+id="fr_557"></span>[a](#fn_556.md)
 
 It was, he said, on account of the excellence of their nature that he
 honoured them thus, and not from any motive of hope or fear, not
 expecting any good from them and not dreading any evil. <span
-id="fr_558"></span>[b](#fn_557) What miserable sophism!
+id="fr_558"></span>[b](#fn_557.md) What miserable sophism!
 
 <span id="page_234">p. 234</span>
 
@@ -53,7 +53,7 @@ resides, it will remain always evident that if we are not in such a
 sphere, and if we possess a portion of good, this good must come to us
 from the sphere wherein absolute good has its source. Now, this sphere
 is precisely that in which Epicurus places the gods. <span
-id="fr_559"></span>[a](#fn_558) But, perhaps, a defender of Epicurus
+id="fr_559"></span>[a](#fn_558.md) But, perhaps, a defender of Epicurus
 will say, the good that we possess comes to us only once from the divine
 sphere and thenceforth it comes to us no more. This is contrary to the
 most intimate and most general notion that we have of the Divinity, to
@@ -78,7 +78,7 @@ and sagacity shows in the Gods the source of wisdom.
 
 Epicurus, nevertheless, denied the intervention of divine Providence and
 pretended that the Gods, absorbed in their supreme felicity, do not
-mingle in any affair. <span id="fr_560"></span>[a](#fn_559) A single
+mingle in any affair. <span id="fr_560"></span>[a](#fn_559.md) A single
 question, simple and naïve, would overthrow this assertion destitute of
 proofs, and besides, inconsistent with the conduct of Greek philosophy;
 but I prefer to leave this question to Bayle, who has expended much
@@ -89,7 +89,7 @@ indeed, one of the most subtle that one could possibly advance. "Are the
 gods satisfied with their administration or are they dissatisfied? Be
 mindful," he says, "of my dilemma: if they are satisfied with what comes
 to pass under their providence, they are pleased with evil; if they are
-dissatisfied, they are unhappy." <span id="fr_561"></span>[b](#fn_560)
+dissatisfied, they are unhappy." <span id="fr_561"></span>[b](#fn_560.md)
 The manner in which Bayle throws himself into the midst of the question,
 without examining the principles of it, denounces him as a skeptic; it
 is necessary therefore to use against him the weapons that I have given
@@ -165,11 +165,11 @@ Persians, you will find there the unequivocal traces of this dogma.
 Here, it is Providence represented under the traits of a celestial
 virgin, who, sent by the Supreme Being, furnished arms to combat and to
 subjugate the genius of evil, and to bring to perfection everything that
-it had corrupted. <span id="fr_562"></span>[a](#fn_561) There, it is the
+it had corrupted. <span id="fr_562"></span>[a](#fn_561.md) There, it is the
 Universe itself and the Worlds which compose it, which are signalized as
 the instrument employed by this same Providence to attain this
-end. <span id="fr_563"></span>[b](#fn_562) Such was the secret doctrine
-of the mysteries. <span id="fr_564"></span>[c](#fn_563) Good and
+end. <span id="fr_563"></span>[b](#fn_562.md) Such was the secret doctrine
+of the mysteries. <span id="fr_564"></span>[c](#fn_563.md) Good and
 
 <span id="page_238">p. 238</span>
 
@@ -178,20 +178,20 @@ represented in the sanctuaries under the emblems of light and darkness:
 the formidable spectacle of the combat between these two opposed
 principles was given there to the initiate; and after many scenes of
 terror, the most obscure night was insensibly succeeded by the purest
-and most brilliant day. <span id="fr_565"></span>[a](#fn_564) It was
+and most brilliant day. <span id="fr_565"></span>[a](#fn_564.md) It was
 exactly this that Zoroaster had publicly taught.
 
 Ormuzd \[said this theosophist\] knew by his sovereign science that at
 first he could in no way influence Ahriman; but that afterwards he
 united with him and that at last he finished by subjugating him and
 changing him to such a degree that the Universe existed without evil for
-a duration of centuries. <span id="fr_566"></span>[b](#fn_565) When the
+a duration of centuries. <span id="fr_566"></span>[b](#fn_565.md) When the
 end of the world comes \[he said in another place\] the wickedest of the
 infernal spirits will be pure, excellent, celestial: yes \[he adds\], he
 will become celestial, this liar, this evil doer; he will become holy,
 celestial, excellent, this cruel one: vice itself, breathing only
 virtue, will make long offerings of praise to Ormuzd before all the
-world. <span id="fr_567"></span>[c](#fn_566)
+world. <span id="fr_567"></span>[c](#fn_566.md)
 
 These words are the more remarkable when one considers that the dogma
 relating to the downfall of the rebellious angel has passed from the
@@ -199,10 +199,10 @@ cosmogony of the Parsees into that of the Hebrews, and that it is upon
 this dogma alone, imperfectly interpreted by the vulgar, that the
 contradictory doctrine of the eternity of evil and the torments that
 follow it, have been founded. This doctrine, but little understood, has
-been sharply attacked. <span id="fr_568"></span>[d](#fn_567) Simon, very
+been sharply attacked. <span id="fr_568"></span>[d](#fn_567.md) Simon, very
 inappropriately surnamed the *Magician*, forced St. Peter himself,
 disputing with him, to acknowledge that the Hebraic writings had said
-nothing positive on this subject. <span id="fr_569"></span>[e](#fn_568)
+nothing positive on this subject. <span id="fr_569"></span>[e](#fn_568.md)
 This is certain. These writings, interpreted as they have been by the
 Hellenic Jews and given out under the name of *Version* 
 
@@ -217,20 +217,20 @@ Egypt, this theocratic legislator remained constantly faithful to them.
 The passage in his Sepher where he speaks of the annihilation of Evil,
 in the meaning of Zoroaster, is in chapter iii., v. 15, of the part
 vulgarly called *Genesis*, as I hope one day to show. <span
-id="fr_570"></span>[a](#fn_569) But without entering at this time, into
+id="fr_570"></span>[a](#fn_569.md) But without entering at this time, into
 the discussion where the real translation of this passage would lead me,
 let it suffice to say that the early Christians were very far from
 admitting the eternity of evil; for without speaking of Manes and his
 numerous followers who shared the opinion of Zoroaster, <span
-id="fr_571"></span>[b](#fn_570) those who are versed in these sorts of
+id="fr_571"></span>[b](#fn_570.md) those who are versed in these sorts of
 matters know that Origen taught that torments will not be eternal, and
 that demons, instructed by chastisement, will be converted at last and
-will obtain their pardon. <span id="fr_572"></span>[c](#fn_571) He was
+will obtain their pardon. <span id="fr_572"></span>[c](#fn_571.md) He was
 followed in this by a great number of learned men, by the evidence of
 Beausobre who quotes, on this subject, the example of a philosopher of
 Edessa, who maintained that after the consummation of the ages, all
 creatures would become consubstantial with God. <span
-id="fr_573"></span>[d](#fn_572)
+id="fr_573"></span>[d](#fn_572.md)
 
 One thing worthy of notice is that Zoroaster, who has made prayer one of
 the principal dogmas of his religion, has been imitated in this by
@@ -269,7 +269,7 @@ soul which is attached to this admirable type of all perfection is
 aroused to prayer by its inclination to virtue, and it augments this
 inclination by the effusion of the goodness which it receives by means
 of prayer; so that it does precisely what it demands and demands what it
-does. <span id="fr_574"></span>[a](#fn_573) Socrates was not far from
+does. <span id="fr_574"></span>[a](#fn_573.md) Socrates was not far from
 the doctrine of Pythagoras in this respect;
 
 <span id="page_241">p. 241</span>
@@ -291,19 +291,19 @@ an ancient poet:
 
 Grant us good whether prayed for or unsought by us;  
 But that which we ask amiss, do thou avert. <span
-id="fr_575"></span>[a](#fn_574)
+id="fr_575"></span>[a](#fn_574.md)
 
 The prayer was, as I have said, one of the principal dogmas of the
-religion of Zoroaster <span id="fr_576"></span>[b](#fn_575): the
+religion of Zoroaster <span id="fr_576"></span>[b](#fn_575.md): the
 Persians also had the greatest confidence therein. Like the Chaldeans,
 they founded all magical power upon its efficacy. They still possess
 today certain kinds of prayers for conjuring maladies and driving away
 demons. These prayers, which they name *tavids*, are written upon strips
 of paper and carried after the manner of talismans. <span
-id="fr_577"></span>[c](#fn_576) It is quite well-known that the modern
+id="fr_577"></span>[c](#fn_576.md) It is quite well-known that the modern
 Jews use them in the same way. In this they imitate, as in innumerable
 other things, the ancient Egyptians whose secret doctrine Moses has
-transmitted to them. <span id="fr_578"></span>[d](#fn_577) The early
+transmitted to them. <span id="fr_578"></span>[d](#fn_577.md) The early
 Christians were inclined to theosophical ideas on this subject. Origen
 explains it
 
@@ -311,89 +311,89 @@ explains it
 
 clearly in speaking of the virtue attached to certain names invoked by
 the Egyptian sages and the most enlightened of the magians of
-Persia. <span id="fr_579"></span>[a](ogv38.htm#fn_578) Synesius, the
+Persia. <span id="fr_579"></span>[a](ogv38.htm#fn_578.md) Synesius, the
 famous Bishop of Ptolemais, initiated into the mysteries, declares that
 the science, by means of which one linked the intelligible essences to
 sentient forms, by the invocation of spirits, was neither vain nor
 criminal, but on the contrary quite innocent and founded upon the nature
-of things. <span id="fr_580"></span>[b](ogv38.htm#fn_579) Pythagoras was
+of things. <span id="fr_580"></span>[b](ogv38.htm#fn_579.md) Pythagoras was
 accused of magic. Ignorance and weakness of mind have always charged
 science with this banal accusation. <span
-id="fr_581"></span>[c](ogv38.htm#fn_580) This philosopher, rightly
+id="fr_581"></span>[c](ogv38.htm#fn_580.md) This philosopher, rightly
 placed in the rank of the ablest physicians of Greece, <span
-id="fr_582"></span>[d](ogv38.htm#fn_581) was, according to his most
+id="fr_582"></span>[d](ogv38.htm#fn_581.md) was, according to his most
 devoted disciples, neither of the number of the gods, nor even of those
 of the divine heroes; he was a man whom virtue and wisdom had adorned
 with a likeness to the gods, by the complete purifying of his
 understanding which had been effected through contemplation and
-prayer. <span id="fr_583"></span>[e](ogv38.htm#fn_582) This is what
+prayer. <span id="fr_583"></span>[e](ogv38.htm#fn_582.md) This is what
 Lysis expressed by the following lines:
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_556"></span>[233:a](ogv37.htm#fr_557) Diogen. Laërt., l.
+<span id="fn_556"></span>[233:a](ogv37.htm#fr_557.md) Diogen. Laërt., l.
 x., § 123; Cicero, *De Nat. Deor.*, l. i., c. 30.
 
-<span id="fn_557"></span>[233:b](ogv37.htm#fr_558) Cicer., *ibid*., c. 8
+<span id="fn_557"></span>[233:b](ogv37.htm#fr_558.md) Cicer., *ibid*., c. 8
 *et seq*.
 
-<span id="fn_558"></span>[234:a](ogv37.htm#fr_559) Cicer., *ut suprà*.
+<span id="fn_558"></span>[234:a](ogv37.htm#fr_559.md) Cicer., *ut suprà*.
 
-<span id="fn_559"></span>[235:a](ogv37.htm#fr_560) *Diogen. Laërt.*, l.
+<span id="fn_559"></span>[235:a](ogv37.htm#fr_560.md) *Diogen. Laërt.*, l.
 x., § 123.
 
-<span id="fn_560"></span>[235:b](ogv37.htm#fr_561) *Dict. critiq.*, art.
+<span id="fn_560"></span>[235:b](ogv37.htm#fr_561.md) *Dict. critiq.*, art.
 EPICURE, rem. T
 
-<span id="fn_561"></span>[237:a](ogv37.htm#fr_562) *Mém. concern. les
+<span id="fn_561"></span>[237:a](ogv37.htm#fr_562.md) *Mém. concern. les
 Chin.*, t. i., p. 102 et 138.
 
-<span id="fn_562"></span>[237:b](ogv37.htm#fr_563) *Asiat. Research.*,
+<span id="fn_562"></span>[237:b](ogv37.htm#fr_563.md) *Asiat. Research.*,
 vol. vi., p. 215. *Voyez* les Pouranas intitulés, *Bhagavad-Vedam* et
 *Bhagavad-Gita*, et conférez avec les *Recherches asiatiq.*, t. v., p.
 350 *et suiv.*, et avec l’ouvrage de Holwell (Interest. Hist. Events),
 ch. 4, § 5, etc.
 
-<span id="fn_563"></span>[237:c](ogv37.htm#fr_564) Cicer., cité par S.
+<span id="fn_563"></span>[237:c](ogv37.htm#fr_564.md) Cicer., cité par S.
 August., *Contr. Pelag.*, l. iv.; Pindar, *Olymp.*, ii., v. 122.
 
-<span id="fn_564"></span>[238:a](ogv37.htm#fr_565) Meurs., *Eleus.*, c.
+<span id="fn_564"></span>[238:a](ogv37.htm#fr_565.md) Meurs., *Eleus.*, c.
 11; Dion. Chrysost., *Orat.* 12.
 
-<span id="fn_565"></span>[238:b](ogv37.htm#fr_566) *Boun-Dehesh*, p.
+<span id="fn_565"></span>[238:b](ogv37.htm#fr_566.md) *Boun-Dehesh*, p.
 347.
 
-<span id="fn_566"></span>[238:c](ogv37.htm#fr_567) *Vendidad-Sadé*, 30e
+<span id="fn_566"></span>[238:c](ogv37.htm#fr_567.md) *Vendidad-Sadé*, 30e
 M.
 
-<span id="fn_567"></span>[238:d](ogv37.htm#fr_568) *Homil. Clement.*,
+<span id="fn_567"></span>[238:d](ogv37.htm#fr_568.md) *Homil. Clement.*,
 xix., § 4, p. 744.
 
-<span id="fn_568"></span>[238:e](ogv37.htm#fr_569) *Ibid*., cité par
+<span id="fn_568"></span>[238:e](ogv37.htm#fr_569.md) *Ibid*., cité par
 Beausobre, *Hist. du Manich.*, t. i., p. 38.
 
-<span id="fn_569"></span>[239:a](ogv37.htm#fr_570) It is necessary
+<span id="fn_569"></span>[239:a](ogv37.htm#fr_570.md) It is necessary
 before all, to restore the language of Moses, lost, as I have said, for
 more than twenty-four centuries; it must be restored with the aid of
 Greek and Latin which chain it to the illusory versions; it is necessary
 to go back to its original source and find its true roots: this enormous
 work that I have undertaken, I have accomplished.
 
-<span id="fn_570"></span>[239:b](ogv37.htm#fr_571) Fortun. *apud*
+<span id="fn_570"></span>[239:b](ogv37.htm#fr_571.md) Fortun. *apud*
 August., *Disput.*, ii.; August., *Contr. Faust.*, l. xxi., c. *ult*.
 
-<span id="fn_571"></span>[239:c](ogv37.htm#fr_572) Origène, cité par
+<span id="fn_571"></span>[239:c](ogv37.htm#fr_572.md) Origène, cité par
 Beausobre, *Hist. du Manich.*, t. ii., v., ch. 6.
 
-<span id="fn_572"></span>[239:d](ogv37.htm#fr_573) Beausobre, *ibid*.,
+<span id="fn_572"></span>[239:d](ogv37.htm#fr_573.md) Beausobre, *ibid*.,
 t. ii., p. 346.
 
-<span id="fn_573"></span>[240:a](ogv37.htm#fr_574) Hierocl., *Aur.
+<span id="fn_573"></span>[240:a](ogv37.htm#fr_574.md) Hierocl., *Aur.
 Carmin.*, v. 49 et 50.
 
-<span id="fn_574"></span>[241:a](ogv37.htm#fr_575) Plat., *In* II.
+<span id="fn_574"></span>[241:a](ogv37.htm#fr_575.md) Plat., *In* II.
 *Alcibiad.*
 
 "Accordez-moi, grands Dieux, ce qui m’est nécessaire,  
@@ -401,15 +401,15 @@ Carmin.*, v. 49 et 50.
  Et si de mes désirs l’objet m’était contraire,  
  Daignez, grands Dieux, daignez ne pas me l’accorder."
 
-<span id="fn_575"></span>[241:b](ogv37.htm#fr_576) *Vendidad-Sadé*,
+<span id="fn_575"></span>[241:b](ogv37.htm#fr_576.md) *Vendidad-Sadé*,
 68<sup>e</sup> *hâ*, p. 242.
 
-<span id="fn_576"></span>[241:c](ogv37.htm#fr_577) *Zend-Avesta,
+<span id="fn_576"></span>[241:c](ogv37.htm#fr_577.md) *Zend-Avesta,
 Jeshts-Sadés*, p. 113.
 
-<span id="fn_577"></span>[241:d](ogv37.htm#fr_578) Hermès, *In Asclep.*,
+<span id="fn_577"></span>[241:d](ogv37.htm#fr_578.md) Hermès, *In Asclep.*,
 c. 9.
 
 ------------------------------------------------------------------------
 
-[Next: 27. Know the Principle and End of All](ogv38)
+[Next: 27. Know the Principle and End of All](ogv38.md)

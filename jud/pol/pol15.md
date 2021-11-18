@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol14)  [Next](pol16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol14)  [Next](pol16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -52,7 +52,7 @@ collected the opinions and debates of pre-ceding Rabbis, now forming the
 
 The emperor once sent a valuable diamond to Rabbi Judah, requesting a
 token of friendship in return. The Rabbi sent him a *Mezuzah*. <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 "My friend," said the emperor, "this gift of thine is of small value,
 compared to the rich offering which I despatched to thee."
@@ -177,11 +177,11 @@ possessed.
 
 ### Footnotes
 
-<span id="fn_5"></span>[206:1](pol15.htm#fr_5) A strip of parchment
+<span id="fn_5"></span>[206:1](pol15.htm#fr_5.md) A strip of parchment
 inscribed with verses from the Pentateuch (Deut. 6: 4-10, and Deut. 11:
 13-22), so arranged as to be placed upon the door-posts of a house in
 compliance with the scriptural injunction.
 
 ------------------------------------------------------------------------
 
-[Next: Simon, the Righteous](pol16)
+[Next: Simon, the Righteous](pol16.md)

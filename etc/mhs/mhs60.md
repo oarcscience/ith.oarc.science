@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs59)  [Next](mhs61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs59)  [Next](mhs61.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ sheep, fowls, dogs, and pigs be appeased."
 
 ------------------------------------------------------------------------
 
-[Next: V. Images Of Animals And Birds Used As Charms](mhs61)
+[Next: V. Images Of Animals And Birds Used As Charms](mhs61.md)

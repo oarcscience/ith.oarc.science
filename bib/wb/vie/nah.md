@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](mic)  [Next](hab) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](mic)  [Next](hab.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,4 +179,4 @@ ngươi; vì ai là kẻ chẳng từng chịu luôn sự hung ác của ngươi
 
 ------------------------------------------------------------------------
 
-[Next: Habakkuk](hab)
+[Next: Habakkuk](hab.md)

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,20 +7,20 @@
 
 ------------------------------------------------------------------------
 
-[Jump to Contents](#contents)
+[Jump to Contents](#contents.md)
 
 This is a unicode version of the Hebrew Bible. To view this properly,
 you need to have a Unicode font installed which has full Unicode Hebrew
-support. For more information, refer to [this page](../../unicode). [A
+support. For more information, refer to [this page](../../unicode.md). [A
 copyrighted, redistributable Hebrew font can be obtained by clicking
-here.](font) We cannot supply any technical support for this font or its
+here.](font.md) We cannot supply any technical support for this font or its
 use.
 
 A transliteration of the Hebrew is provided in parallel. This is
 generated automatically from the Hebrew text. The system of
 transliteration is based on academic conventions for the transcription
 of Hebrew. [Documentation on the system of transliteration can be found
-here](../osrc/tanxlit). Note that this should not be considered a
+here](../osrc/tanxlit.md). Note that this should not be considered a
 pronunciation guide, instead it is a verbatim romanization of the Hebrew
 text.
 
@@ -52,42 +52,42 @@ have designated as Qeres when both Dothan and BHS list a Qere.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Genesis (Bereshit)](gen)  
-[Exodus (Shemot)](exo)  
-[Leviticus (Vayikra)](lev)  
-[Numbers (Bemidbar)](num)  
-[Deuteronomy (Devarim)](deu)  
-[Joshua (Yehoshua)](jos)  
-[Judges (Shoftim)](jdg)  
-[1 Samuel (1 Shmuel)](sa1)  
-[2 Samuel (2 Shmuel)](sa2)  
-[1 Kings (1 Melakhim)](kg1)  
-[2 Kings (2 Melakhim)](kg2)  
-[Isaiah (Yisheyah)](isa)  
-[Jeremiah (Yermiyah)](jer)  
-[Ezekiel (Yechezqel)](eze)  
-[Hosea (Hoshea)](hos)  
-[Joel (Yoel)](joe)  
-[Amos](amo)  
-[Obadiah (Ovadyah)](oba)  
-[Jonah (Yonah)](jon)  
-[Micah (Mikhah)](mic)  
-[Nahum (Nahum)](nah)  
-[Habakkuk (Chavaquq)](hab)  
-[Zephaniah (Tsephanyah)](zep)  
-[Haggai (Haggai)](hag)  
-[Zechariah (Zekharyah)](zac)  
-[Malachi (Malakhi)](mal)  
-[Psalms (Tehilim)](psa)  
-[Proverbs (Mishlei)](pro)  
-[Job (Iyov)](job)  
-[Song of Solomon (Shir Hashirim)](sol)  
-[Ruth](rut)  
-[Lamentations (Eichah)](lam)  
-[Ecclesiastes (Qohelet)](ecc)  
-[Esther (Esther)](est)  
-[Daniel (Daniyel)](dan)  
-[Ezra](ezr)  
-[Nehemiah (Nechemiyah)](neh)  
-[1 Chronicles (1 Divrey Yamim)](ch1)  
-[2 Chronicles (2 Divrey Yamim)](ch2)  
+<span id="contents"></span> [Genesis (Bereshit)](gen.md)  
+[Exodus (Shemot)](exo.md)  
+[Leviticus (Vayikra)](lev.md)  
+[Numbers (Bemidbar)](num.md)  
+[Deuteronomy (Devarim)](deu.md)  
+[Joshua (Yehoshua)](jos.md)  
+[Judges (Shoftim)](jdg.md)  
+[1 Samuel (1 Shmuel)](sa1.md)  
+[2 Samuel (2 Shmuel)](sa2.md)  
+[1 Kings (1 Melakhim)](kg1.md)  
+[2 Kings (2 Melakhim)](kg2.md)  
+[Isaiah (Yisheyah)](isa.md)  
+[Jeremiah (Yermiyah)](jer.md)  
+[Ezekiel (Yechezqel)](eze.md)  
+[Hosea (Hoshea)](hos.md)  
+[Joel (Yoel)](joe.md)  
+[Amos](amo.md)  
+[Obadiah (Ovadyah)](oba.md)  
+[Jonah (Yonah)](jon.md)  
+[Micah (Mikhah)](mic.md)  
+[Nahum (Nahum)](nah.md)  
+[Habakkuk (Chavaquq)](hab.md)  
+[Zephaniah (Tsephanyah)](zep.md)  
+[Haggai (Haggai)](hag.md)  
+[Zechariah (Zekharyah)](zac.md)  
+[Malachi (Malakhi)](mal.md)  
+[Psalms (Tehilim)](psa.md)  
+[Proverbs (Mishlei)](pro.md)  
+[Job (Iyov)](job.md)  
+[Song of Solomon (Shir Hashirim)](sol.md)  
+[Ruth](rut.md)  
+[Lamentations (Eichah)](lam.md)  
+[Ecclesiastes (Qohelet)](ecc.md)  
+[Esther (Esther)](est.md)  
+[Daniel (Daniyel)](dan.md)  
+[Ezra](ezr.md)  
+[Nehemiah (Nechemiyah)](neh.md)  
+[1 Chronicles (1 Divrey Yamim)](ch1.md)  
+[2 Chronicles (2 Divrey Yamim)](ch2.md)  

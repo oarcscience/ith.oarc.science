@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol13)  [Next](pol15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol13)  [Next](pol15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -435,7 +435,7 @@ with glass, and the queen at first was so deceived by the appearance
 that she imagined the king to be sitting in water.
 
 And when the queen had tested Solomon's wisdom, <span
-id="fr_4"></span>[1](#fn_4) and witnessed his magnificence, she said:
+id="fr_4"></span>[1](#fn_4.md) and witnessed his magnificence, she said:
 
 "I believed not what I heard, but now I have come, and my eyes have seen
 it all; behold, the half has not been told to me. Happy are thy servants
@@ -459,9 +459,9 @@ Solomon's reign and that of the temple's destruction.
 
 ### Footnotes
 
-<span id="fn_4"></span>[203:1](pol14.htm#fr_4) By means of riddles as
+<span id="fn_4"></span>[203:1](pol14.htm#fr_4.md) By means of riddles as
 related in the Bible.
 
 ------------------------------------------------------------------------
 
-[Next: Rabbi Judah, the ''Chief''](pol15)
+[Next: Rabbi Judah, the ''Chief''](pol15.md)

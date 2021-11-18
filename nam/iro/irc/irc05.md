@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](irc04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](irc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,14 +12,14 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 In the regions above there dwelt man-beings who knew not what it is to
 see one weep, nor what it is for one to die; sorrow and death were thus
 unknown to them. And the lodges belonging to them, to each of the
-ohwachiras <span id="fr_24"></span>[a](#fn_23) \[families\], were large,
+ohwachiras <span id="fr_24"></span>[a](#fn_23.md) \[families\], were large,
 and very long, because each ohwachira usually abode in a single lodge.
 
 And so it was that within the circumference of the village there was one
 lodge which claimed two persons, a male man-being and a female
 man-being. Moreover, these two man-beings were related to each other as
 brother and sister; and they two were dehninō*'*taton <span
-id="fr_25"></span>[b](#fn_24) \[down-fended\].
+id="fr_25"></span>[b](#fn_24.md) \[down-fended\].
 
 <span id="page_256">p. 256</span>
 
@@ -690,7 +690,7 @@ turning herself about to face the place where she had laid the two
 infants, she said: "Which of you two destroyed my child?" One of them
 answered, saving: "Verily, he himself it is, I believe." This one who
 had answered was a very marvelously strange person as to his form. His
-flesh was nothing but flint. <span id="fr_26"></span>[a](#fn_25) Over
+flesh was nothing but flint. <span id="fr_26"></span>[a](#fn_25.md) Over
 the top of his head there was, indeed, a sharp comb of flint. It was
 therefore on this account that he emerged by way of her armpit.
 
@@ -944,7 +944,7 @@ So then it came to pass that Sapling, as he traveled from place to
 place, went, after a while, along the shore of the lake. There, not far
 away, he saw Tawĭ*'*skaron’, making for himself a bridge of stone
 \[ice\] across the lake, which already extended far out on the
-water. <span id="fr_27"></span>[a](#fn_26) Thereupon Sapling went to the
+water. <span id="fr_27"></span>[a](#fn_26.md) Thereupon Sapling went to the
 place where he went on working. So then, when he arrived there, he said:
 "Tawĭ*'*skaron’, what is this that thou art doing for thyself?" He
 replied, saying: "I am making a pathway for myself." And then, pointing
@@ -972,7 +972,7 @@ one. The bird belonged to the class of birds that we
 <span id="page_311">p. 311</span>
 
 are accustomed to call the bluebirds. Sapling then said to the
-Bluebird <span id="fr_28"></span>[b](#fn_28): "Thou shalt kill a
+Bluebird <span id="fr_28"></span>[b](#fn_28.md): "Thou shalt kill a
 cricket. Thou shalt remove one hind leg from it, and thou shalt hold it
 in thy mouth, and thou shalt go thither to the very place where
 Tawĭ*'*skaron’ is working. Hard by the place where he is working thou
@@ -985,7 +985,7 @@ into its mouth to hold, and then it flew, winging its way to the place
 where Tawĭ*'*skaron’ was at work making himself a bridge. There it
 
 alighted hard by him at his task. Of course it then shouted, saying:
-"Kwe‘, kwe‘, kwe‘, kwe‘, kwe‘." <span id="fr_29"></span>[a](#fn_27)
+"Kwe‘, kwe‘, kwe‘, kwe‘, kwe‘." <span id="fr_29"></span>[a](#fn_27.md)
 Thereupon Tawĭ*'*skaron’ upraised
 
 <span id="page_312">p. 312</span>
@@ -994,7 +994,7 @@ his head and looked and saw a bird sitting there. He believed from what
 he saw that it held in its mouth the thigh of a man-being, and also that
 its mouth was wholly covered with blood. It was then that Tawĭ*'*skaron’
 sprang up at once and fled. As fast as he ran the bridge which he was
-making was dissipated. <span id="fr_30"></span>[a](#fn_29)
+making was dissipated. <span id="fr_30"></span>[a](#fn_29.md)
 
 Now then, verily, the father of Sapling had given him sweet corn, and
 now he roasted this corn. A great odor, a sweet odor, was diffused. So
@@ -1131,7 +1131,7 @@ they will keep saying customarily: 'Our Grandmother, the luminary
 pertaining to the night.'"
 
 Then Sapling now formed the body of a man <span
-id="fr_31"></span>[a](#fn_30) and also that of a woman \[of the race of
+id="fr_31"></span>[a](#fn_30.md) and also that of a woman \[of the race of
 mankind\]. His younger brother, Tawĭ*'*skaron’,
 
 <span id="page_321">p. 321</span>
@@ -1188,7 +1188,7 @@ the sea. There he saw Tawĭ*'*skaron’
 
 standing about in different places. At the water's edge lay the body of
 a man-being who was as white as foam <span
-id="fr_32"></span>[a](#fn_31). When Sapling arrived there, he said:
+id="fr_32"></span>[a](#fn_31.md). When Sapling arrived there, he said:
 "What is this that thou art doing?" Tawĭ*'*skaron’ replied, saying:
 "Assuredly, I have made the body of a male man-being. This person whose
 body lies here is better-looking than is the one whom thou hast made."
@@ -1435,7 +1435,7 @@ pass that at some time these great serpents desire to seize people as
 they severally travel from place to place, thou must at once kill such
 serpents, and when thou killest them, they will be that on which thou
 shalt feed. Other animals also, equal in otkon orenda \[malefic magic
-power\] <span id="fr_33"></span>[a](#fn_32) to these, all such shall
+power\] <span id="fr_33"></span>[a](#fn_32.md) to these, all such shall
 fare like them. Thou wilt ever have these to watch--have these as thy
 adversaries. Now then, of course, I have finished this matter. Now then
 such is the office thou hast assumed. Mankind will name thee "Our

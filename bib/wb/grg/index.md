@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mat)   
+[Contents](#contents)    [Start Reading](mat.md)   
 
 ------------------------------------------------------------------------
 
@@ -26,9 +26,9 @@ date and copyright status of this text are unknown.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Matthew](mat)  
-[Mark](mar)  
-[Luke](luk)  
-[John](joh)  
-[Acts](act)  
-[James](jam)  
+<span id="contents"></span> [Matthew](mat.md)  
+[Mark](mar.md)  
+[Luke](luk.md)  
+[John](joh.md)  
+[Acts](act.md)  
+[James](jam.md)  

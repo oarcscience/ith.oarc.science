@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks03)  [Next](lks05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks03)  [Next](lks05.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,14 +11,14 @@
 LEMEGETON VEL CLAVICULA SALOMONIS REGIS.
 
 MAGIC is the Highest, most Absolute, and most Divine Knowledge of
-Natural Philosophy, <span id="fr_6"></span>[1](#fn_6) advanced in its
+Natural Philosophy, <span id="fr_6"></span>[1](#fn_6.md) advanced in its
 works and wonderful operations by a right understanding of the inward
 and occult virtue of things; so that true Agents <span
-id="fr_7"></span>[2](#fn_7) being applied to proper Patients, <span
-id="fr_8"></span>[3](#fn_8) strange and admirable effects will thereby
+id="fr_7"></span>[2](#fn_7.md) being applied to proper Patients, <span
+id="fr_8"></span>[3](#fn_8.md) strange and admirable effects will thereby
 be produced. Whence magicians are profound and diligent searchers into
 Nature; they, because of their skill, know how to anticipate an
-effort, <span id="fr_9"></span>[4](#fn_9) the which to the vulgar shall
+effort, <span id="fr_9"></span>[4](#fn_9.md) the which to the vulgar shall
 seem to be a miracle.
 
 Origen saith that the Magical Art doth not contain anything subsisting,
@@ -39,7 +39,7 @@ ART.
 
 This Noble Science often degenerateth, from *Natural* becometh
 *Diabolical*, and from *True Philosophy* turneth unto
-*Nigromancy*. <span id="fr_10"></span>[1](#fn_10) The which is wholly to
+*Nigromancy*. <span id="fr_10"></span>[1](#fn_10.md) The which is wholly to
 be charged upon its followers, who, abusing or not being capable of that
 High and Mystical Knowledge do immediately hearken unto the temptations
 of *Sathan*, and are misled by him into the Study of the *Black Art*.
@@ -48,7 +48,7 @@ are vulgarly esteemed *Sorcerers*.
 
 The Fraternity of the Rosie Crusians thought it not fit to style
 themselves Magicians, but rather Philosophers. And they be not ignorant
-Empiricks, <span id="fr_11"></span>[2](#fn_11) but learned and
+Empiricks, <span id="fr_11"></span>[2](#fn_11.md) but learned and
 experienced Physicians, whose remedies be not only Lawful but Divine.
 
 ### THE BRIEF INTRODUCTORY DESCRIPTION.
@@ -237,22 +237,22 @@ thence into the Latin, as it is said.
 
 ### Footnotes
 
-<span id="fn_6"></span>[15:1](lks04.htm#fr_6) This Preliminary
+<span id="fn_6"></span>[15:1](lks04.htm#fr_6.md) This Preliminary
 Definition of Magic is found in very few Codices, and is probably later
 than the body of the work.
 
-<span id="fn_7"></span>[15:2](lks04.htm#fr_7) Or Actives.
+<span id="fn_7"></span>[15:2](lks04.htm#fr_7.md) Or Actives.
 
-<span id="fn_8"></span>[15:3](lks04.htm#fr_8) Or Passives.
+<span id="fn_8"></span>[15:3](lks04.htm#fr_8.md) Or Passives.
 
-<span id="fn_9"></span>[15:4](lks04.htm#fr_9) Or Effect.
+<span id="fn_9"></span>[15:4](lks04.htm#fr_9.md) Or Effect.
 
-<span id="fn_10"></span>[16:1](lks04.htm#fr_10) Or the Black Art, as
+<span id="fn_10"></span>[16:1](lks04.htm#fr_10.md) Or the Black Art, as
 distinct from mere Necromancy, or Divination by the Dead.
 
-<span id="fn_11"></span>[16:2](lks04.htm#fr_11) Or Quacks and
-Pretenders. Vide note on [p. 10](lks03.htm#page_10).
+<span id="fn_11"></span>[16:2](lks04.htm#fr_11.md) Or Quacks and
+Pretenders. Vide note on [p. 10](lks03.htm#page_10.md).
 
 ------------------------------------------------------------------------
 
-[Next: Shemhamphorash](lks05)
+[Next: Shemhamphorash](lks05.md)

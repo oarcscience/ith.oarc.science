@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc36)  [Next](scc38) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc36)  [Next](scc38.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ with a log.
 
 ------------------------------------------------------------------------
 
-[Next: 36.--Yaudanchi Yokuts. The Man And The Owls. A Tale.](scc38)
+[Next: 36.--Yaudanchi Yokuts. The Man And The Owls. A Tale.](scc38.md)

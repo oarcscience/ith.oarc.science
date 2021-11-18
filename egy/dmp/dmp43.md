@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp42)  [Next](dmp44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp42)  [Next](dmp44.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ persea fruit (?); pound (together); apply (it) to him.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XII](dmp44)
+[Next: Verso Col. XII](dmp44.md)

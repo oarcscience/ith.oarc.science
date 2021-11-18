@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](dan)  [Next](joe) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](dan)  [Next](joe.md) 
 
 ------------------------------------------------------------------------
 
@@ -807,4 +807,4 @@ Ihowa, a ka haere te hunga tika i reira, ka taka ia te hunga he i reira.
 
 ------------------------------------------------------------------------
 
-[Next: Joel](joe)
+[Next: Joel](joe.md)

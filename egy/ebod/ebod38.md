@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod37)  [Next](ebod39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod37)  [Next](ebod39.md) 
 
 ------------------------------------------------------------------------
 
@@ -142,4 +142,4 @@ up again, O Osiris."
 
 ------------------------------------------------------------------------
 
-[Next: Plates XXXIII and XXXIV.](ebod39)
+[Next: Plates XXXIII and XXXIV.](ebod39.md)

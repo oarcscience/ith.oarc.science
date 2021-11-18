@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK III CHAPTER VII
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK III](book02) 
-[Previous](mart051)  [Next](mart053) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK III](book02.md) 
+[Previous](mart051)  [Next](mart053.md) </span>
 
 ------------------------------------------------------------------------
 

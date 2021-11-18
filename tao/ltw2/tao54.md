@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao54)   
-[Previous](tao53)  [Next](tao55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao54.md)   
+[Previous](tao53)  [Next](tao55.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ How do I know all this? It comes from the practice of TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 55](tao55)
+[Next: Chapter 55](tao55.md)

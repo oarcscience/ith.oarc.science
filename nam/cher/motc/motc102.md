@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc101) 
-[Next](motc103) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc101.md) 
+[Next](motc103.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ settlements or to the hostile Shawano in the north.
 
 ------------------------------------------------------------------------
 
-[Next: 103. Cowee Town](motc103)
+[Next: 103. Cowee Town](motc103.md)

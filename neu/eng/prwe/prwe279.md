@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe278)  [Next](prwe280) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe278)  [Next](prwe280.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ of a cock. The quacking of ducks foretells rain.
 
 ------------------------------------------------------------------------
 
-[Next: The New Moon](prwe280)
+[Next: The New Moon](prwe280.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib09)  [Next](sib11) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib09)  [Next](sib11.md) 
 
 ------------------------------------------------------------------------
 
@@ -1037,4 +1037,4 @@ All-father God, of understanding mind,
 
 ------------------------------------------------------------------------
 
-[Next: Book XI.](sib11)
+[Next: Book XI.](sib11.md)

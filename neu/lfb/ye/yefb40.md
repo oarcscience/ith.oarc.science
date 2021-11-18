@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb39)  [Next](yefb41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb39)  [Next](yefb41.md) 
 
 </div>
 
@@ -264,6 +264,6 @@ door in her face, and she had to stay outside singing—
 
 ------------------------------------------------------------------------
 
-[Next: How to Tell a True Princess](yefb41)
+[Next: How to Tell a True Princess](yefb41.md)
 
 </div>

@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat05)  [Next](yat07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat05)  [Next](yat07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### IV. BLUEJAY'S JOURNEY TO THE LAND OF THE MOON. <span id="fr_30"></span>[100](#fn_29)
+### IV. BLUEJAY'S JOURNEY TO THE LAND OF THE MOON. <span id="fr_30"></span>[100](#fn_29.md)
 
 <span id="page_66">p. 66</span>
 
@@ -36,7 +36,7 @@ bows over the fire! Let us look for deer."
 
 The people did so, they arose while it was not yet day. The people went
 off to go to hunt deer. "I shall walk around beside you. My wife has
-given me a baby." <span id="fr_31"></span>[101](#fn_30) The people went
+given me a baby." <span id="fr_31"></span>[101](#fn_30.md) The people went
 off, those people now hunted deer. But Bluejay did not hunt deer; he
 just walked around with them. When it was dark Bluejay returned home and
 sat down where he was always accustomed to sit. Bluejay had one boy.
@@ -57,7 +57,7 @@ up. They went off, went to hunt deer. Bluejay came home when it was
 dark. "Again I am pregnant," said Wildcat Woman, speaking to Bluejay.
 Bluejay laughed when his wife said that. When it was daybreak again,
 Bluejay went off, went to the east. He did not hunt deer, but merely
-walked around with the men.[101](#fn_30) His wife gave birth to another
+walked around with the men.[101](#fn_30.md) His wife gave birth to another
 child. She gave birth to it on the north side of the house; Bluejay lay
 on the south side of the house. Bluejay arrived home. Again she had a
 baby, and she said to Bluejay, "I have given birth to a child." "Indeed!
@@ -81,7 +81,7 @@ to me. His eyes are big, he is big-eyed. Look at his hands! They are not
 like my hands," said Bluejay, speaking, to the woman. "Your child has no
 crest on his head, he hasn't it." Bluejay would not recognize him as his
 child. "That one outside is my child. He has a crest like me." <span
-id="fr_32"></span>[102](#fn_31) The woman went outside after her child
+id="fr_32"></span>[102](#fn_31.md) The woman went outside after her child
 and
 
 <span id="page_68">p. 68</span>
@@ -103,19 +103,19 @@ now grown up. Young Bluejay sat down on a rock and looked around,
 thinking to himself, "M‘! m‘!" Young Bluejay said within his heart, "You
 have thrown my brother out of the house, father." He arose and walked
 west all day. They walked till they came to Wī'tc‘uman?na. <span
-id="fr_33"></span>[103](#fn_32) They played, swimming in the water. "You
+id="fr_33"></span>[103](#fn_32.md) They played, swimming in the water. "You
 will not see me again, father!" (young Bluejay said to himself). Wildcat
 called for her children. They did not come. The woman ran about looking
 for them, but she did not find her children. Bluejay likewise looked for
 them. Then Bluejay wept and put dirt on his face. "Wai!" said Bluejay,
 "come back, my son. Where can you have gone to?" Young Bluejay and young
 Wildcat kept going west, walked until they reached
-Djitc‘it?t‘p‘ā'maana. <span id="fr_34"></span>[104](#fn_33) Young
+Djitc‘it?t‘p‘ā'maana. <span id="fr_34"></span>[104](#fn_33.md) Young
 Bluejay sat down, while they in the east were weeping. Young Bluejay
 arose and walked as far as Tc!ī'yu, <span
-id="fr_35"></span>[105](#fn_34) where they sat down.
+id="fr_35"></span>[105](#fn_34.md) where they sat down.
 
-Silkworm <span id="fr_36"></span>[106](#fn_35) was living all alone at
+Silkworm <span id="fr_36"></span>[106](#fn_35.md) was living all alone at
 Tc!ī'yu. "Let us go to our uncle and rest there," he said, speaking to
 young Wildcat.
 
@@ -136,7 +136,7 @@ sticking in the ground where he was accustomed to sit. Silkworm looked
 outside and said, "Hê!" as he put out his hand for his javelin. "Who are
 you two?" "It is I, uncle." "You call me uncle, do you? Well!" said
 Silkworm, "come in and sit down." The two of them sat down. "Whence do
-you come?" "We come from Ba'n?xa." <span id="fr_37"></span>[107](#fn_36)
+you come?" "We come from Ba'n?xa." <span id="fr_37"></span>[107](#fn_36.md)
 "Indeed!" "My father threw this brother of mine here out of the house,
 because he thought he was another man's child." "Indeed!" said the old
 man. "Whither are you going?" "I intend to go to see the New Moon Chief
@@ -186,7 +186,7 @@ did not perish. He stopped filling his pipe.
 
 In the middle of the night Bluejay unwrapped his hair and took Silkworm
 there out of his hair. He put him over to the north side, close to the
-ladder <span id="fr_38"></span>[108](#fn_37) of the sweat-house.
+ladder <span id="fr_38"></span>[108](#fn_37.md) of the sweat-house.
 Silkworm
 
 <span id="page_71">p. 71</span>
@@ -204,7 +204,7 @@ to the deer fat, "Do not become less. Remain always big." At last there
 was no more deer fat left.
 
 "Go over, now, across the river to the east," said the Yā'?wi <span
-id="fr_39"></span>[109](#fn_38)people. "The people over on the east side
+id="fr_39"></span>[109](#fn_38.md)people. "The people over on the east side
 talk as if they had a good time. One does not often hear people talking
 over there. Someone must have come to woo his daughter, that is why they
 are happy." One man went across the river to the east. He arrived on the
@@ -214,7 +214,7 @@ dead?" The Yā'?wi man hastened back home; he returned, crossing the
 river to the west. "A suitor has come," he said to the Yā'?wi People.
 Many were the Yā'?wi people on the west side. "Did you see him?" said
 the Yā'?wi. "Yes." "Who is it?" "A Tc‘unô'yā." <span
-id="fr_40"></span>[109](#fn_38) "Indeed!" All the Yā'?wi people were
+id="fr_40"></span>[109](#fn_38.md) "Indeed!" All the Yā'?wi people were
 angry. Fish Hawk Chief, Crane Chief, the Yā'?wi chief, Heron Chief,
 Salmon Trout, the Yā'?wi chief, and Big Acorn Pestle,--that many were
 chiefs. "What are we going to do?" said the Yā'?wi people. "Let us catch
@@ -317,64 +317,64 @@ he went back home with his wife. He went back going east, went east till
 he arrived at Djitc‘it?t‘p‘ā'mauna, went back till he arrived at
 Wī'tc‘uman?na. "Get nearer, land! Do not be far off!" he said. He went
 back till he arrived at Ha'up!uk!aina. <span
-id="fr_41"></span>[110](#fn_39) Now he arrived back home to where his
+id="fr_41"></span>[110](#fn_39.md) Now he arrived back home to where his
 father and mother were.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_29"></span>[50:100](yat06.htm#fr_30) This myth is one of
+<span id="fn_29"></span>[50:100](yat06.htm#fr_30.md) This myth is one of
 the suitor tales characteristic of northern California. It is a variant
 of Curtin's "Dream of Juiwaiyu and his Journey to Damhauja's Country"
 (op. cit.), pp. 425-42. Damhauja is da'mhaudju, Jupka corresponds to
 dju'ga (garī'?i dju'kga). Though k‘ê'tc!iwāla "Bluejay" appears (as
 Kechowala) in Curtin's version, his place as hero is taken by Juiwaiyu.
 
-<span id="fn_30"></span>[66:101](yat06.htm#fr_31) For a period before
+<span id="fn_30"></span>[66:101](yat06.htm#fr_31.md) For a period before
 and after childbirth hunting and fishing were tabooed to the husband.
 Cf. no. XVII.
 
-<span id="fn_31"></span>[67:102](yat06.htm#fr_32) We are not to
+<span id="fn_31"></span>[67:102](yat06.htm#fr_32.md) We are not to
 understand that Wildcat Woman had really been guilty of infidelity to
 her husband. Her first child took after its father, her second after
 herself; Bluejay failed to see the point. Sam Bat‘wī used the incident
 to point a moral in regard to marriages between people of different
 races.
 
-<span id="fn_32"></span>[68:103](yat06.htm#fr_33) An Indian village on
+<span id="fn_32"></span>[68:103](yat06.htm#fr_33.md) An Indian village on
 South fork of Cow creek (called Sa'ldu Cow creek, i.e., "white man's Cow
 creek," by Indians), at a distance of about five miles east of
 Millville, probably near the present hamlet of Clough. It was formerly
 the site of a salt marsh.
 
-<span id="fn_33"></span>[68:104](yat06.htm#fr_34) An Indian village on
+<span id="fn_33"></span>[68:104](yat06.htm#fr_34.md) An Indian village on
 Bear creek, south of Cow creek.
 
-<span id="fn_34"></span>[68:105](yat06.htm#fr_35) A bare, rocky spot
+<span id="fn_34"></span>[68:105](yat06.htm#fr_35.md) A bare, rocky spot
 between the mouth of Bear creek, which flows into the Sacramento, and
 what is now Ball's Ferry.
 
-<span id="fn_35"></span>[68:106](yat06.htm#fr_36) The wild silkworm,
+<span id="fn_35"></span>[68:106](yat06.htm#fr_36.md) The wild silkworm,
 feeding on poison oak.
 
-<span id="fn_36"></span>[69:107](yat06.htm#fr_37) An Indian village
+<span id="fn_36"></span>[69:107](yat06.htm#fr_37.md) An Indian village
 situated on a high hill between North Fork of Cow creek ("old Cow
 creek") and South Fork of Cow creek ("Sa'ldu Cow creek"). It is about
 twenty miles east of Millville on the so-called Tamarack road.
 
-<span id="fn_37"></span>[70:108](yat06.htm#fr_38) To sleep at the foot
+<span id="fn_37"></span>[70:108](yat06.htm#fr_38.md) To sleep at the foot
 of the ladder near the fire was a sign of low station. wa‘t‘a'urisi, "he
 sits at the foot of the ladder," means "he is an illegitimate child."
 
-<span id="fn_38"></span>[71:109](yat06.htm#fr_40) Yā'?wi is now used as
+<span id="fn_38"></span>[71:109](yat06.htm#fr_40.md) Yā'?wi is now used as
 a general term for Wintun Indians, Tc‘unô'yā is "easterner," more
 specifically Hat Creek Indian (the Hat Creek Indians occupied Hat Creek
 and Burney valleys immediately to the east of the Yana.
 
-<span id="fn_39"></span>[74:110](yat06.htm#fr_41) A spot with many high
+<span id="fn_39"></span>[74:110](yat06.htm#fr_41.md) A spot with many high
 rocks on South Fork of Cow creek, above Wī'tc‘uman?na.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Creation of the Yana](yat07)
+[Next: V. The Creation of the Yana](yat07.md)

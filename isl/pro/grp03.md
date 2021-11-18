@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](grp02)  [Next](grp04) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](grp02)  [Next](grp04.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ and it is enough to know him and to take the sermons.
 
 ------------------------------------------------------------------------
 
-[Next: Some Conditions of Ðul-Kifl (PUH)](grp04)
+[Next: Some Conditions of Ðul-Kifl (PUH)](grp04.md)

@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,14 +10,14 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](aof00)  
-[Note by Redactor](aof01)  
-[Opening Hymn](aof02)  
-[1. Reasons for Writing the Book](aof03)  
-[2: The Fundamental Doctrine of the Mahayana Faith](aof04)  
-[3: Expositions of the Mahayana Faith](aof05)  
-[4: The Practice of the Mahayana Faith](aof06)  
-[5: The Advantages of the Practice of the Mahayana Faith](aof07)  
+[Title Page](aof00.md)  
+[Note by Redactor](aof01.md)  
+[Opening Hymn](aof02.md)  
+[1. Reasons for Writing the Book](aof03.md)  
+[2: The Fundamental Doctrine of the Mahayana Faith](aof04.md)  
+[3: Expositions of the Mahayana Faith](aof05.md)  
+[4: The Practice of the Mahayana Faith](aof06.md)  
+[5: The Advantages of the Practice of the Mahayana Faith](aof07.md)  
 [Translator's Supplementary Matter: The Great Physician's Twelve Desires
-(Vows)](aof08)  
-[The Creed of Half Asia: To Sin King](aof09)  
+(Vows)](aof08.md)  
+[The Creed of Half Asia: To Sin King](aof09.md)  

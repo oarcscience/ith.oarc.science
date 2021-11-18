@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim01)  [Next](anim03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim01)  [Next](anim03.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ XVII\. LITERATURE TO WHICH REFERENCE IS MADE IN THIS VOLUME
 ------------------------------------------------------------------------
 
 [Next: Chapter I. The Animistic Stage of Culture--the Case
-Stated](anim03)
+Stated](anim03.md)

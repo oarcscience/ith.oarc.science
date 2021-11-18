@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain31)  [Next](ain33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain31)  [Next](ain33.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ Then come and find my body, no matter whether it is here or dragged
 away. And when you find it, do not mind how stained and bloody it is,
 but fall upon it, and put your mouth to mine, and inhale, and thus you
 will inherit my power. And when you leave my body, do not attempt to
-follow after the Apaches, for they would surely [kill](errata.htm#23)
+follow after the Apaches, for they would surely [kill](errata.htm#23.md)
 you, for tho you are one of them they would not know that, because you
 do not speak their language. But I want you to return to where we left
 some people at the place called *Vik-kuh-svan-kee*."
@@ -84,7 +84,7 @@ attempt to go into any house. but staid outside all night in the bushes.
 
 And in the morning a girl came and found the boy, and went back and told
 the people there was some one outside who was a stranger there, some one
-with short hair. And they came and stood [around](errata.htm#24) him,
+with short hair. And they came and stood [around](errata.htm#24.md) him,
 and teased him, and threw dirt at him, until finally he cried out:
 "Don't you remember me, who I am? My name is Kawkoinpuh and I was
 
@@ -171,4 +171,4 @@ for them a song.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of Sohahnee Mahkai](ain33)
+[Next: Notes on the Story of Sohahnee Mahkai](ain33.md)

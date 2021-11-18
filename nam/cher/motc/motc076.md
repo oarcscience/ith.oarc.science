@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc075) 
-[Next](motc077) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc075.md) 
+[Next](motc077.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ of the seven days he would have become a man again and would have lived.
 
 ------------------------------------------------------------------------
 
-[Next: 77. The Great Leech Of Tlanusi'yï](motc077)
+[Next: 77. The Great Leech Of Tlanusi'yï](motc077.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](mht01)  [Next](mht03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](mht01)  [Next](mht03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Textual Heritage
 
 |                     |
 |---------------------|
-| ![T](img/00900.jpg) |
+| ![T](img/00900.jpg.md) |
 
 HE GREAT ILLUMINIST, Rosicrucian and Freemason who termed himself the
 Comte de St.-Germain is without question the most baffling personality
@@ -149,7 +149,7 @@ when his presence was needed in some distant city or state
 <span id="img_01200"></span>
 
 [![](tn/01200.jpg)  
-Click to enlarge](img/01200.jpg)
+Click to enlarge](img/01200.jpg.md)
 
 <span id="page_13">p. 13</span>
 
@@ -752,4 +752,4 @@ violating the smugness of the pseudo-learned.
 
 ------------------------------------------------------------------------
 
-[Next: Part Two: The Rarest of Occult Manuscripts](mht03)
+[Next: Part Two: The Rarest of Occult Manuscripts](mht03.md)

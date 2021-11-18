@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Sagas](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sbc00)
+[Contents](#contents)    [Start Reading](sbc00.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ the original Gaelic. Among the fascinating topics covered are the evil
 eye, *geis* (taboos), doppelgangers, beliefs relating to animals and
 shape-shifting, lustration, second-sight, and healing rituals. Of
 particular interest is the discussion of pagan elements in the [Carmina
-Gadelica](../cg1/index).
+Gadelica](../cg1/index.md).
 
 Production note: Because this book was basically three very long
 chapters, each chapter has been arbitrarily broken into somewhat smaller
@@ -45,15 +45,15 @@ thanks to Peet McKimmie for the loan of the copytext!
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](sbc00)  
-[Preface](sbc01)  
-[Contents](sbc02)  
-[I. The Finding of the Soul](sbc03)  
-[I. The Finding of the Soul (part 2)](sbc04)  
-[II. The Wanderings of Psyche](sbc05)  
-[II. The Wanderings of Psyche (part 2)](sbc06)  
-[II. The Wanderings of Psyche (part 3)](sbc07)  
-[III. The Earthly Journey](sbc08)  
-[III. The Earthly Journey (part 2)](sbc09)  
-[III. The Earthly Journey (part 3)](sbc10)  
-[Index](sbc11)  
+<span id="contents"></span> [Title Page and Front Matter](sbc00.md)  
+[Preface](sbc01.md)  
+[Contents](sbc02.md)  
+[I. The Finding of the Soul](sbc03.md)  
+[I. The Finding of the Soul (part 2)](sbc04.md)  
+[II. The Wanderings of Psyche](sbc05.md)  
+[II. The Wanderings of Psyche (part 2)](sbc06.md)  
+[II. The Wanderings of Psyche (part 3)](sbc07.md)  
+[III. The Earthly Journey](sbc08.md)  
+[III. The Earthly Journey (part 2)](sbc09.md)  
+[III. The Earthly Journey (part 3)](sbc10.md)  
+[Index](sbc11.md)  

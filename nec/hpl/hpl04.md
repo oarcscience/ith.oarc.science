@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl03)  [Next](hpl05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl03)  [Next](hpl05.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ intently at a little ape in a tree that grew in a crumbling courtyard.
 
 ------------------------------------------------------------------------
 
-[Next: The Picture in the House (1919)](hpl05)
+[Next: The Picture in the House (1919)](hpl05.md)

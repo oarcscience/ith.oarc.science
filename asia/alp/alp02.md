@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp01) 
-[Next](alp03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp01.md) 
+[Next](alp03.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ BRYCE.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](alp03)
+[Next: Contents](alp03.md)

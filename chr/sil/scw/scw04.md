@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw03) [Next](scw05)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw03) [Next](scw05.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -711,4 +711,4 @@ That there should flow the whole Sea of the Deity?<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw05)
+[Next](scw05.md)

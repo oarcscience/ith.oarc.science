@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj28)  [Next](atfj30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj28)  [Next](atfj30.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_31"></span> <span align="CENTER"> [![31. O Cho San Commits
 Suicide](tn/31.jpg)  
-Click to enlarge](img/31.jpg)  
+Click to enlarge](img/31.jpg.md)  
 31. O Cho San Commits Suicide  
 </span>
 
@@ -194,6 +194,6 @@ The shrine still stands, I am told.
 
 ------------------------------------------------------------------------
 
-[Next: XXVIII. The King of Torijima](atfj30)
+[Next: XXVIII. The King of Torijima](atfj30.md)
 
 </div>

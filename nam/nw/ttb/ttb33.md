@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb32)  [Next](ttb34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb32)  [Next](ttb34.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_46">p. 46</span>
 
-<span id="img_04600"></span> ![Skana, The Black Fish](img/04600.jpg)
+<span id="img_04600"></span> ![Skana, The Black Fish](img/04600.jpg.md)
 
 ### Skana, THE BLACK FISH
 
@@ -28,7 +28,7 @@ their Wolf canoes. They were constantly in dread of Black Fish and held
 them in great reverence. Some considered them to be evil spirits as
 sometimes they took great delight in attacking the canoes, overturning
 them and drowning the occupants. The Indians believed that when the
-**tenas tillicum** (younger members) of the [tribe](errata.htm#20) were
+**tenas tillicum** (younger members) of the [tribe](errata.htm#20.md) were
 lost at sea, their spirits, if they did not wish to live in Dreamland,
 at the Northern lights, could return, to be reincarnated as Black Fish,
 to roam the waters they loved so well. In the sea there was a stream
@@ -54,4 +54,4 @@ to travel and use his body as a canoe.
 
 ------------------------------------------------------------------------
 
-[Next: He’-e-tlik, The Lightning Snake](ttb34)
+[Next: He’-e-tlik, The Lightning Snake](ttb34.md)

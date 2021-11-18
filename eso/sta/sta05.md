@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta04)  [Next](sta06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta04)  [Next](sta06.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,7 +115,7 @@ a similar manner has the same numerical value. Basilides caught that the
 <span id="img_02500"></span>
 
 [![THE DEATH OF SIMON THE MAGICIAN.](tn/02500.jpg)  
-Click to enlarge](img/02500.jpg)  
+Click to enlarge](img/02500.jpg.md)  
 THE DEATH OF SIMON THE MAGICIAN.  
 
 From the *Nuremberg* *Chronicle*.
@@ -286,7 +286,7 @@ twenty-five years.
 <span id="img_02600"></span>
 
 [![THE LION-FACED LIGHT-POWER.](tn/02600.jpg)  
-Click to enlarge](img/02600.jpg)  
+Click to enlarge](img/02600.jpg.md)  
 THE LION-FACED LIGHT-POWER.  
 
 From *Montfaucon's Antiquities*.
@@ -298,7 +298,7 @@ constellation of Leo.
 <span id="img_02602"></span>
 
 [![A SYMBOLIC LABYRINTH.](tn/02602.jpg)  
-Click to enlarge](img/02602.jpg)  
+Click to enlarge](img/02602.jpg.md)  
 A SYMBOLIC LABYRINTH.  
 
 From *Montfaucon's Antiquities*.
@@ -454,7 +454,7 @@ His power continued until the fourth century of
 <span id="img_02700"></span>
 
 [![THE ALEXANDRIAN SERAPIS.](tn/02700.jpg)  
-Click to enlarge](img/02700.jpg)  
+Click to enlarge](img/02700.jpg.md)  
 THE ALEXANDRIAN SERAPIS.  
 
 From Mosaize *Historie der Hebreeuwse Kerke*.
@@ -615,7 +615,7 @@ awe-inspiring climax in *Götterdämmerung*, "The Twilight of the Gods."
 <span id="img_02800"></span>
 
 [![THE NINE WORLDS OF THE ODINIC MYSTERIES.](tn/02800.jpg)  
-Click to enlarge](img/02800.jpg)  
+Click to enlarge](img/02800.jpg.md)  
 THE NINE WORLDS OF THE ODINIC MYSTERIES.  
 
 The Nordic Mysteries were given in nine chambers, or caverns, the
@@ -643,4 +643,4 @@ regeneration.
 
 ------------------------------------------------------------------------
 
-[Next: The Ancient Mysteries and Secret Societies, Part Three](sta06)
+[Next: The Ancient Mysteries and Secret Societies, Part Three](sta06.md)

@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](crc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](crc.txt.gz)    [PDF](crc.pdf)
+[Contents](#contents)    [Start Reading](crc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](crc.txt.gz)    [PDF](crc.pdf.md)
 
 ------------------------------------------------------------------------
 
@@ -48,48 +48,48 @@ other great sagas worldwide, such as the Mahabharata and the Iliad.
 This was apparently one the first English translation of this story from
 the original manuscripts. This account and the rest of the 'Ulster
 Cycle' is widely retold (e.g. Lady Gregory's [Cuchulain of
-Muirthemne](../cuch/index)).
+Muirthemne](../cuch/index).md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](crc00)  
-[Contents](crc01)  
-[Introduction](crc02)  
-[The Cattle-Raid of Cualnge](crc03)  
-[Cuchulainn's Boyish Deeds](crc04)  
-[The Death of Fraech](crc05)  
-[The Death of Orlam](crc06)  
-[The Death of the Meic Garach](crc07)  
-[The Death of the Squirrel](crc08)  
-[The Death of Lethan](crc09)  
-[The Death of Lochu](crc10)  
-[The Harrying of Cualnge](crc11)  
-[The Death of Etarcomol](crc12)  
-[The Death of Nadcrantail](crc13)  
-[The Finding of the Bull](crc14)  
-[The Death of Redg the Satirist](crc15)  
-[The Meeting of Cuchulainn and Findabair](crc16)  
-[The Combat of Munremar and Curoi](crc17)  
-[The Death of the Boys](crc18)  
-[The Woman-fight of Rochad](crc19)  
-[The Death of the Princes](crc20)  
-[The Death of Cur](crc21)  
-[The Number of the Feats](crc22)  
-[The Death of Ferbaeth](crc23)  
-[The Combat of Larine Mac Nois](crc24)  
-[The Conversation of the Morrigan with Cuchulainn](crc25)  
-[The Death of Loch Mac Emonis](crc26)  
-[The Healing of the Morrigan](crc27)  
-[The Death of the Boys (second version)](crc28)  
-[The Arming of Cuchulainn](crc29)  
-[Continuation (from the Yellow Book of Lecan)](crc30)  
-[The Combat of Fer Diad and Cuchulainn](crc31)  
-[The Long Warning of Sualtaim](crc32)  
-[The Muster of the Ulstermen](crc33)  
-[The Vision of Dubthach](crc34)  
-[The March of the Companies](crc35)  
-[The Muster of the Men of Ireland](crc36)  
-[The Battle on Garach and Irgarach](crc37)  
-[The Meeting of the Bulls](crc38)  
-[The Peace](crc39)  
-[Advertisements](crc40)  
+<span id="contents"></span> [Title Page](crc00.md)  
+[Contents](crc01.md)  
+[Introduction](crc02.md)  
+[The Cattle-Raid of Cualnge](crc03.md)  
+[Cuchulainn's Boyish Deeds](crc04.md)  
+[The Death of Fraech](crc05.md)  
+[The Death of Orlam](crc06.md)  
+[The Death of the Meic Garach](crc07.md)  
+[The Death of the Squirrel](crc08.md)  
+[The Death of Lethan](crc09.md)  
+[The Death of Lochu](crc10.md)  
+[The Harrying of Cualnge](crc11.md)  
+[The Death of Etarcomol](crc12.md)  
+[The Death of Nadcrantail](crc13.md)  
+[The Finding of the Bull](crc14.md)  
+[The Death of Redg the Satirist](crc15.md)  
+[The Meeting of Cuchulainn and Findabair](crc16.md)  
+[The Combat of Munremar and Curoi](crc17.md)  
+[The Death of the Boys](crc18.md)  
+[The Woman-fight of Rochad](crc19.md)  
+[The Death of the Princes](crc20.md)  
+[The Death of Cur](crc21.md)  
+[The Number of the Feats](crc22.md)  
+[The Death of Ferbaeth](crc23.md)  
+[The Combat of Larine Mac Nois](crc24.md)  
+[The Conversation of the Morrigan with Cuchulainn](crc25.md)  
+[The Death of Loch Mac Emonis](crc26.md)  
+[The Healing of the Morrigan](crc27.md)  
+[The Death of the Boys (second version)](crc28.md)  
+[The Arming of Cuchulainn](crc29.md)  
+[Continuation (from the Yellow Book of Lecan)](crc30.md)  
+[The Combat of Fer Diad and Cuchulainn](crc31.md)  
+[The Long Warning of Sualtaim](crc32.md)  
+[The Muster of the Ulstermen](crc33.md)  
+[The Vision of Dubthach](crc34.md)  
+[The March of the Companies](crc35.md)  
+[The Muster of the Men of Ireland](crc36.md)  
+[The Battle on Garach and Irgarach](crc37.md)  
+[The Meeting of the Bulls](crc38.md)  
+[The Peace](crc39.md)  
+[Advertisements](crc40.md)  

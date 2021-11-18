@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](sws28)  [Next](sws30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](sws28)  [Next](sws30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Spider Woman*, by Gladys A. Reichard, \[1934\], at Intangible Textual
 Heritage
 
@@ -46,25 +46,25 @@ progressed from one step to another by having the women show
 
 <span id="img_21000"></span> <span align="CENTER">
 [![BRAIDED](tn/21000.jpg)  
-Click to enlarge](img/21000.jpg)  
+Click to enlarge](img/21000.jpg.md)  
 BRAIDED  
 </span>
 
 <span id="img_21001"></span> <span align="CENTER">
 [![DIAMOND](tn/21001.jpg)  
-Click to enlarge](img/21001.jpg)  
+Click to enlarge](img/21001.jpg.md)  
 DIAMOND  
 </span>
 
 <span id="img_21100"></span> <span align="CENTER"> [![COOK SHADE FOR WAR
 DANCE](tn/21100.jpg)  
-Click to enlarge](img/21100.jpg)  
+Click to enlarge](img/21100.jpg.md)  
 COOK SHADE FOR WAR DANCE  
 </span>
 
 <span id="img_21101"></span> <span align="CENTER">
 [![FIREWOOD](tn/21101.jpg)  
-Click to enlarge](img/21101.jpg)  
+Click to enlarge](img/21101.jpg.md)  
 FIREWOOD  
 </span>
 
@@ -330,4 +330,4 @@ you."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII: Standards](sws30)
+[Next: Chapter XXVII: Standards](sws30.md)

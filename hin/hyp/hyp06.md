@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](hyp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](hyp05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ jīvanmuktiścha sahajā turyā chetyeka-vāchakāḥ \|\| 4 \|\|
 
 Raja Yogî, Samâdhi, Unmani, Mauonmanî, Amarativa, Laya, Tatwa, Sûnya,
 Aśûnya, Parama Pada, Amanaska, Adwaitama, Nirãlamba, Nirañjana, Jîwana
-Mukti, Sahajâ, Turyâ, are all [synonymous](errata.htm#4). <span
+Mukti, Sahajâ, Turyâ, are all [synonymous](errata.htm#4.md). <span
 class="margnote"><span id="an_3-4.">3-4.</span></span>
 
 सलिले सैन्धवं यद्वत्साम्यं भजति योगतः \|  

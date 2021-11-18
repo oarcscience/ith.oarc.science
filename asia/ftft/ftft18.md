@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft17)  [Next](ftft19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft17)  [Next](ftft19.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_126">p. 126</span>
 
-<span id="img_12600"></span> ![The Crow-Peri](img/12600.jpg)
+<span id="img_12600"></span> ![The Crow-Peri](img/12600.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a man who had a son. The man spent the whole day in the
 wood, catching birds which he sold. One day the father died and the boy
@@ -125,7 +125,7 @@ forty peris
 <span id="img_12900"></span>
 
 [![The Queen is entrapped](tn/12900.jpg)  
-Click to enlarge](img/12900.jpg)  
+Click to enlarge](img/12900.jpg.md)  
 The Queen is entrapped  
 
 <span id="page_130">p. 130</span>
@@ -190,7 +190,7 @@ negligence.
 still love me."
 
 <span id="img_13100"></span> ![He stroked their maws with the
-feather](img/13100.jpg)
+feather](img/13100.jpg.md)
 
 <span id="page_132">p. 132</span>
 
@@ -204,4 +204,4 @@ lived happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Forty Princes and the Seven-headed Dragon](ftft19)
+[Next: The Forty Princes and the Seven-headed Dragon](ftft19.md)

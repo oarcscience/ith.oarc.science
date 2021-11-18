@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas062)  [Next](jas063) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas062)  [Next](jas063.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,4 +7,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: 63. The Pea that made a Fortune.](jas063)
+[Next: 63. The Pea that made a Fortune.](jas063.md)

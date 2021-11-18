@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh27)  [Next](ulh29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh27)  [Next](ulh29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -192,29 +192,29 @@ on the large island of Kauai. She then moved on to Oahu, hoping for
 better results; but though she tried both sides of the island, first
 mount Ka-ala--the fragrant--and then Konahuanui, she still found the
 conditions unsatisfactory. She passed on to Molokai, thence to Lanai,
-and [to](errata.htm#5) West Maui, and East Maui, at which last place she
+and [to](errata.htm#5.md) West Maui, and East Maui, at which last place she
 dug the immense pit of Hale-a-ka-la; but every-where she was
 unsuccessful. Still journeying east and south, she crossed the wide
 Ale-nui-haha channel and came to Hawaii, and, after exploring in all
 directions, she was satisfied to make her home at Kilauea. Here is (*ka
 piko o ka honua*) the navel of the earth. Apropos of this effort of Pele
 to make a fire-pit for herself, see the song for the hula kuolo ([p.
-86](ulh14.htm#page_86)), "A pit lies (far) to the east."
+86](ulh14.htm#page_86)), "A pit lies (far.md) to the east."
 
 *Mele*
 
 <div style="margin-left: 32px">
 
-A Kauai, a ke olewa <span id="fr_337"></span>[a](#fn_330) iluna,  
+A Kauai, a ke olewa <span id="fr_337"></span>[a](#fn_330.md) iluna,  
 Ka pua lana i kai o Wailua;  
 Nana mai Pele ilaila;  
-E waiho aku ana o Ahu. <span id="fr_338"></span>[b](#fn_331)  
+E waiho aku ana o Ahu. <span id="fr_338"></span>[b](#fn_331.md)  
 5 Aloha i ka wai niu o ka aina;  
 E ala mai ana mokihana,  
 Wai auau o Hiiaka.  
 Hoo-paapaa Pele ilaila;  
-Aohe Kau <span id="fr_339"></span>[c](#fn_332) e ulu ai.  
-10 Keehi aku Pele <span id="fr_340"></span>[c](#fn_332) i ka ale
+Aohe Kau <span id="fr_339"></span>[c](#fn_332.md) e ulu ai.  
+10 Keehi aku Pele <span id="fr_340"></span>[c](#fn_332.md) i ka ale
 kua-loloa,
 
 He onohi no Pele, ka oaka o ka lani, la.  
@@ -293,11 +293,11 @@ to form the proper name of the island now called Oahu.
 Ke amo la ke ko’i ke akua la i-uka;  
 Haki nu’a-nu’a mai ka nalu mai Kahiki,  
 Po-po’i aku la i ke alo o Kilauea. <span
-id="fr_341"></span>[a](#fn_333)  
+id="fr_341"></span>[a](#fn_333.md)  
 Kanaka hea i ka lakou puaa kanu;  
 5 He wahine kui lei lehua i uka o Olaa,  
 Ku’u moku lehua i ke alo o He-eia.  
-O Kuku-ena <span id="fr_342"></span>[b](#fn_334) wahine,  
+O Kuku-ena <span id="fr_342"></span>[b](#fn_334.md) wahine,  
 Komo i ka lau-ki,
 
 </div>
@@ -336,7 +336,7 @@ This has the marks of a Hawaiian prayer, and as such it is said to have
 been used in old times by canoe-builders when going up into the
 mountains in search of timber. Or it may have been recited by the
 priests and people who went up to fell the lehua tree from which to
-carve the Makahiki <span id="fr_343"></span>[a](#fn_335) idol; or,
+carve the Makahiki <span id="fr_343"></span>[a](#fn_335.md) idol; or,
 again, may it possibly have been recited by the company of hula folk who
 climbed the mountain in search of a tree to be set up in the halau as a
 representation of the god whom they wished to honor? This is a question
@@ -347,20 +347,20 @@ indisputable, but that would not preclude its use for other purposes.
 
 <div style="margin-left: 32px">
 
-Ku i Wailua ka pou hale, <span id="fr_344"></span>[b](#fn_336)  
+Ku i Wailua ka pou hale, <span id="fr_344"></span>[b](#fn_336.md)  
 Ka ipu hoolono i ka uwalo,  
 Ka wawa nui, e Ulupo.  
 Aole uwalo mai, e.  
 5 Aloha nui o Ikuwa, Mahoena.  
 Ke lele la ka makawao o ka hinalo.  
 Aia i Maná ka oka’i o ka ua o Eleao;  
-Ke holu la ka a’ahu o Ka-ú <span id="fr_345"></span>[c](#fn_337) i ka
+Ke holu la ka a’ahu o Ka-ú <span id="fr_345"></span>[c](#fn_337.md) i ka
 makani;  
 Ke puhi a’e la ka ale kumupali o Ka-ú, Honuapo;  
 10 Ke hakoko ka niu o Paiaha’a i ka makani.  
 Uki-uki oukou:  
 Ke lele la ke kai;  
-Lele iao, <span id="fr_346"></span>[d](#fn_338) lele!  
+Lele iao, <span id="fr_346"></span>[d](#fn_338.md) lele!  
 O ka makani Koolau-wahine,
 
 </div>
@@ -372,12 +372,12 @@ O ka makani Koolau-wahine,
 <div style="margin-left: 32px">
 
 15 O ka Moa’e-ku.  
-Lele ua, lele kawa! <span id="fr_347"></span>[a](#fn_339)  
+Lele ua, lele kawa! <span id="fr_347"></span>[a](#fn_339.md)  
 Lele aku, lele mai!  
-Lele o-ó, <span id="fr_348"></span>[b](#fn_340), o-ó lele; <span
-id="fr_349"></span>[c](#fn_341)  
-Lele opuhi, <span id="fr_350"></span>[d](#fn_342) lele;  
-20 Lele u Kauná, <span id="fr_351"></span>[e](#fn_343) kaha oe.  
+Lele o-ó, <span id="fr_348"></span>[b](#fn_340.md), o-ó lele; <span
+id="fr_349"></span>[c](#fn_341.md)  
+Lele opuhi, <span id="fr_350"></span>[d](#fn_342.md) lele;  
+20 Lele u Kauná, <span id="fr_351"></span>[e](#fn_343.md) kaha oe.  
 E Hiiaka e, ku!
 
 </div>
@@ -507,15 +507,15 @@ an elegance that stamps it as the product of a courtly circle.
 E oe mauna i ka ohu,  
 Kahá ka leo o ka ohi’a;  
 Auwe! make au i ke ahi a mau  
-A ka luahine <span id="fr_352"></span>[a](#fn_344) moe naná,  
+A ka luahine <span id="fr_352"></span>[a](#fn_344.md) moe naná,  
 5 A papa enaena, wai hau,  
-A wa’a kau-hí. <span id="fr_353"></span>[b](#fn_345)  
-Haila pepe <span id="fr_354"></span>[c](#fn_346) mua me pepe waena,  
+A wa’a kau-hí. <span id="fr_353"></span>[b](#fn_345.md)  
+Haila pepe <span id="fr_354"></span>[c](#fn_346.md) mua me pepe waena,  
 O pepe ka muimui:  
-O kiele <span id="fr_355"></span>[c](#fn_346) i na ulu <span
-id="fr_356"></span>[c](#fn_346)  
+O kiele <span id="fr_355"></span>[c](#fn_346.md) i na ulu <span
+id="fr_356"></span>[c](#fn_346.md)  
 10 Ka makahá kai kea  
-O Niheu <span id="fr_357"></span>[d](#fn_347) kolohe;  
+O Niheu <span id="fr_357"></span>[d](#fn_347.md) kolohe;  
 Ka makaha kai kea!  
 Eli-eli, kau mai.
 
@@ -542,7 +542,7 @@ Baggage and men--all is aboard.
 
 <span id="img_pl21"></span> <span align="CENTER"> [![PLATE XXI&lt;br&gt;
 PALA-PALAI FERNS](tn/pl21.jpg)  
-Click to enlarge](img/pl21.jpg)  
+Click to enlarge](img/pl21.jpg.md)  
 PLATE XXI  
 PALA-PALAI FERNS  
 </span>
@@ -578,7 +578,7 @@ The sufferings that the person in the mele describes in the first
 person, it seems to the author, may be those of his friend Lohiau; and
 the first person is used for literary effect.
 
-*Mele* <span id="fr_358"></span>[a](#fn_348)
+*Mele* <span id="fr_358"></span>[a](#fn_348.md)
 
 <div style="margin-left: 32px">
 
@@ -590,7 +590,7 @@ A papa ena-ena,
 Ilaila pepe mua me pepe waena,  
 O pepe ka mu’imu’i,  
 O lei'na kiele,  
-Kau-meli-eli; <span id="fr_359"></span>[b](#fn_349)  
+Kau-meli-eli; <span id="fr_359"></span>[b](#fn_349.md)  
 10 Ka maka kakahi kea  
 O Niheu kolohe--  
 Ka maka kaha-kai kea.  
@@ -638,17 +638,17 @@ serenade such as this:
 
 <div style="margin-left: 32px">
 
-E ala, e Kahiki-ku; <span id="fr_360"></span>[a](#fn_350)  
-E ala, e Kahiki-moe; <span id="fr_361"></span>[a](#fn_350)  
-E ala, e ke apapa nu’u: <span id="fr_362"></span>[b](#fn_351)  
-E ala, e ke apapa lani. <span id="fr_363"></span>[b](#fn_351)  
-5 Eia ka hoala nou, e ka lani <span id="fr_364"></span>[c](#fn_352) la,
+E ala, e Kahiki-ku; <span id="fr_360"></span>[a](#fn_350.md)  
+E ala, e Kahiki-moe; <span id="fr_361"></span>[a](#fn_350.md)  
+E ala, e ke apapa nu’u: <span id="fr_362"></span>[b](#fn_351.md)  
+E ala, e ke apapa lani. <span id="fr_363"></span>[b](#fn_351.md)  
+5 Eia ka hoala nou, e ka lani <span id="fr_364"></span>[c](#fn_352.md) la,
 e-e!  
 E ala oe!
 
 E ala, ua ao, ua malamalama.  
-Aia o Kape’a ma, <span id="fr_365"></span>[d](#fn_353) la, i-luna;  
-Ua hiki mai ka maka o Unulau: <span id="fr_366"></span>[e](#fn_354)
+Aia o Kape’a ma, <span id="fr_365"></span>[d](#fn_353.md) la, i-luna;  
+Ua hiki mai ka maka o Unulau: <span id="fr_366"></span>[e](#fn_354.md)
 
 </div>
 
@@ -657,16 +657,16 @@ Ua hiki mai ka maka o Unulau: <span id="fr_366"></span>[e](#fn_354)
 <div style="margin-left: 32px">
 
 10 Ke hoolale mai la ke kupa holowa’a o Ukumehame, <span
-id="fr_367"></span>[a](#fn_355)  
+id="fr_367"></span>[a](#fn_355.md)  
 Ka lae makani kaohi-wa’a o Papawai, <span
-id="fr_368"></span>[b](#fn_356)  
+id="fr_368"></span>[b](#fn_356.md)  
 Ka lae makani o Anahenahe la, e-e!  
 E ala oe!
 
 E ala, ua no, ua malamalama;  
 15 Ke o a’e la ke kukuna o ka La i ka ili o ke kai;  
 Ke hahai a’e la, e like me Kumukahi <span
-id="fr_369"></span>[c](#fn_357)  
+id="fr_369"></span>[c](#fn_357.md)  
 E hoaikane ana me Makanoni;  
 Ka papa o Apua, ua lohi i ka La.  
 E ala oe!
@@ -736,7 +736,7 @@ O Pele la ko’u akua:
 Miha ka lani, miha ka honua.  
 Awa iku, awa lani;  
 Kai awaawa, ka awa nui a Hiiaka,  
-5 I kua i Mauli-ola; <span id="fr_371"></span>[a](#fn_359) <span
+5 I kua i Mauli-ola; <span id="fr_371"></span>[a](#fn_359.md) <span
 id="page_199">p. 199</span>  
 He awa kapu no na wahine.  
 E kapu!
@@ -747,7 +747,7 @@ E kala, e Haumea wahine,
 Nana i eli a hohonu ka lua  
 O Mau-wahine, o Kupu-ena,  
 O na wahine i ka inu-hana awa.  
-E ola na ’kua malihini! <span id="fr_372"></span>[a](#fn_360)
+E ola na ’kua malihini! <span id="fr_372"></span>[a](#fn_360.md)
 
 </div>
 
@@ -757,11 +757,11 @@ PALE II
 
 15 I kama’a-ma’a la i ka pua-lei;  
 E loa ka wai apua,  
-Ka pii’na i Ku-ka-la-ula; <span id="fr_373"></span>[b](#fn_361)  
+Ka pii’na i Ku-ka-la-ula; <span id="fr_373"></span>[b](#fn_361.md)  
 Hoopuka aku i Puu-lena,  
 Aina a ke Akua i noho ai.
 
-20 Kanaenae a ke Akua malihini; <span id="fr_374"></span>[a](#fn_360)  
+20 Kanaenae a ke Akua malihini; <span id="fr_374"></span>[a](#fn_360.md)  
 O ka’u wale iho la no la, o ka leo,  
 He leo wale no, e-e!  
 E ho-i!  
@@ -838,12 +838,12 @@ E hapa-hapai a’e,
 5 A pa i ke kihi  
 O Ki-lau-é-a.  
 Ilaila ku’u kama,  
-O Ku-nui-akea. <span id="fr_375"></span>[a](#fn_362)  
+O Ku-nui-akea. <span id="fr_375"></span>[a](#fn_362.md)  
 Hookomo a’e iloko  
-10 A o Hale-ma’u-ma’u; <span id="fr_376"></span>[b](#fn_363)  
+10 A o Hale-ma’u-ma’u; <span id="fr_376"></span>[b](#fn_363.md)  
 A ma-ú na pu’u  
 E óla-olá nei.  
-E kulipe’e nui ai-ahua. <span id="fr_377"></span>[c](#fn_364)  
+E kulipe’e nui ai-ahua. <span id="fr_377"></span>[c](#fn_364.md)  
 E Pele, e Pele!  
 15 E Pele, e Pele!  
 Huai'na! huai'na!  
@@ -881,7 +881,7 @@ Let thy lightnings fly!
 
 </div>
 
-When this poem <span id="fr_378"></span>[a](#fn_365) first came into the
+When this poem <span id="fr_378"></span>[a](#fn_365.md) first came into the
 author's hands, though attracted by its classic form and vigorous style,
 he could not avoid being repelled by an evident grossness. An old
 Hawaiian, to whom he stated his objections, assured him that the mele
@@ -898,80 +898,80 @@ doubtless, from the walls of the crater.
 
 ### Footnotes
 
-<span id="fn_330"></span>[189:a](ulh28.htm#fr_337) *Olewa*. Said to be
+<span id="fn_330"></span>[189:a](ulh28.htm#fr_337.md) *Olewa*. Said to be
 the name of a wooded region high up on the mountain of Kauai. It is here
 treated as if it meant the heavens or the blue ether. Its origin is the
 same with the word *lewa*, the upper regions of the air.
 
-<span id="fn_331"></span>[189:b](ulh28.htm#fr_338) *O Ahu*. In this
+<span id="fn_331"></span>[189:b](ulh28.htm#fr_338.md) *O Ahu*. In this
 instance the article still finds itself disunited from its substantive.
 To-day we have *Oahu* and *Ola’a*.
 
-<span id="fn_332"></span>[189:c](ulh28.htm#fr_340) *Kau*. The summer;
+<span id="fn_332"></span>[189:c](ulh28.htm#fr_340.md) *Kau*. The summer;
 time of warm weather; the growing season.
 
-<span id="fn_333"></span>[190:a](ulh28.htm#fr_341) The figure in the
+<span id="fn_333"></span>[190:a](ulh28.htm#fr_341.md) The figure in the
 second and third verses, of waves from Kahiki (*nalu mai Kahiki*)
 beating against the front of Kilauea (*Po-po’i aku la i ke alo o
 Kilauea*), seems to picture the trampling of the multitude splashing the
 mire as if it were, waves of ocean.
 
-<span id="fn_334"></span>[190:b](ulh28.htm#fr_342) *Kukuena*. There is
+<span id="fn_334"></span>[190:b](ulh28.htm#fr_342.md) *Kukuena*. There is
 some uncertainty as to who this character was; probably the same as
 Haumea, the mother of Pele.
 
-<span id="fn_335"></span>[191:a](ulh28.htm#fr_343) For an account of the
+<span id="fn_335"></span>[191:a](ulh28.htm#fr_343.md) For an account of the
 Makahiki idol see Hawaiian Antiquities, p. 159, by David Maio;
 translated by N. B. Emerson, A. M., M. D., Honolulu, Hawaiian Gazette
 Company (Limited), 1903.
 
-<span id="fn_336"></span>[191:b](ulh28.htm#fr_344) *Pou hale*. The main
+<span id="fn_336"></span>[191:b](ulh28.htm#fr_344.md) *Pou hale*. The main
 post of a house, which is here intended, was the *pou-haná*; it was
 regarded with a superstitious reverence.
 
-<span id="fn_337"></span>[191:c](ulh28.htm#fr_345) *A’hu o Ka-u*. A
+<span id="fn_337"></span>[191:c](ulh28.htm#fr_345.md) *A’hu o Ka-u*. A
 reference, doubtless, to the long grass that once covered Ka-ú.
 
-<span id="fn_338"></span>[191:d](ulh28.htm#fr_346) *I-áo*. A small fish
+<span id="fn_338"></span>[191:d](ulh28.htm#fr_346.md) *I-áo*. A small fish
 that took short flights in the air.
 
-<span id="fn_339"></span>[192:a](ulh28.htm#fr_347) *Lele kawa*. To jump
+<span id="fn_339"></span>[192:a](ulh28.htm#fr_347.md) *Lele kawa*. To jump
 in sport from a height into the water.
 
-<span id="fn_340"></span>[192:b](ulh28.htm#fr_348) *Lele o-ó*. To leap
+<span id="fn_340"></span>[192:b](ulh28.htm#fr_348.md) *Lele o-ó*. To leap
 feet first into the water.
 
-<span id="fn_341"></span>[192:c](ulh28.htm#fr_349) *O-ó lele*. To dive
+<span id="fn_341"></span>[192:c](ulh28.htm#fr_349.md) *O-ó lele*. To dive
 head first into the water.
 
-<span id="fn_342"></span>[192:d](ulh28.htm#fr_350) *Lele opuhi*. The
+<span id="fn_342"></span>[192:d](ulh28.htm#fr_350.md) *Lele opuhi*. The
 same as *pahi’a*, to leap obliquely into the water from a height,
 bending oneself so that the feet come first to the surface.
 
-<span id="fn_343"></span>[192:e](ulh28.htm#fr_351) Kauná. A woman of
+<span id="fn_343"></span>[192:e](ulh28.htm#fr_351.md) Kauná. A woman of
 Ka-ú celebrated for her skill in the hula, also the name of a cape that
 reaches out into the stormy ocean.
 
-<span id="fn_344"></span>[194:a](ulh28.htm#fr_352) Pele is often spoken
+<span id="fn_344"></span>[194:a](ulh28.htm#fr_352.md) Pele is often spoken
 of as *ka luahine*, the old woman: but she frequently used her power of
 transformation to appear as a young woman of alluring beauty.
 
-<span id="fn_345"></span>[194:b](ulh28.htm#fr_353) Lava poured out in
+<span id="fn_345"></span>[194:b](ulh28.htm#fr_353.md) Lava poured out in
 plates and folds and coils resembles may diverse things, among others
 the canoe, *wa’a*, here characterized as complete in its appointments
 and ready for launching, *kauhí*. The words are subtly intended, no
 doubt, to convey the thought of Pele's readiness to launch on the voyage
 of matrimony.
 
-<span id="fn_346"></span>[194:c](ulh28.htm#fr_356) *Pepe*, a seat;
+<span id="fn_346"></span>[194:c](ulh28.htm#fr_356.md) *Pepe*, a seat;
 *kiele*, to paddle; and *ulu*, a shortened form of the old word *oulu*,
 meaning a paddle, are archaisms now obsolete.
 
-<span id="fn_347"></span>[194:d](ulh28.htm#fr_357) *Nihéu*. One of the
+<span id="fn_347"></span>[194:d](ulh28.htm#fr_357.md) *Nihéu*. One of the
 mythological heroes of an old-time adventure, in which his elder brother
 Kana, who had the form of a long rope, played the principal part. This
 one enterprise of their life in which they joined forces was for the
-rescue of their mother, Hina, who had been [kidnapped](errata.htm#6) by
+rescue of their mother, Hina, who had been [kidnapped](errata.htm#6.md) by
 a marauding chief and carried from her home in Hilo to the bold headland
 of Haupu, Molokai. Niheu is generally stigmatized as *kolohe* (verse
 11), mischievous, for no other reason apparently than that he was an
@@ -985,18 +985,18 @@ sport, an athlete, skilled in all the games of his people. The worst
 that could be said of him was that he had small regard for other
 people's rights and that he was slow to pay his debts of honor.
 
-<span id="fn_348"></span>[195:a](ulh28.htm#fr_358) The remarks on pp.
-[194](#page_194) and [195](#page_195) regarding the mele on [p.
-194](#page_194) are mostly applicable to this mele.
+<span id="fn_348"></span>[195:a](ulh28.htm#fr_358.md) The remarks on pp.
+[194](#page_194) and [195](#page_195.md) regarding the mele on [p.
+194](#page_194.md) are mostly applicable to this mele.
 
-<span id="fn_349"></span>[195:b](ulh28.htm#fr_359) *Kau-meli-eli*. The
+<span id="fn_349"></span>[195:b](ulh28.htm#fr_359.md) *Kau-meli-eli*. The
 name of the double canoe which brought a company of the gods from the
 lands of the South--Kukulo o Kahiki--to Hawaii. Hawaiian myths refer to
 several migrations of the gods to Hawaii; one of them is that described
-in the mele given on [p. 187](#page_187), the first mele in this
+in the mele given on [p. 187](#page_187.md), the first mele in this
 chapter.
 
-<span id="fn_350"></span>[196:a](ulh28.htm#fr_361) Hawaiians conceived
+<span id="fn_350"></span>[196:a](ulh28.htm#fr_361.md) Hawaiians conceived
 of the dome of heaven as a solid structure supported by walls that
 rested on the earth's plain. Different names were given to different
 sections of the wall. *Kahiki-ku* and *Kahiki-moe* were names applied to
@@ -1004,7 +1004,7 @@ certain of these sections. It would, however, be too much to expect any
 Hawaiian, however intelligent and well versed in old lore, to indicate
 the location of these regions.
 
-<span id="fn_351"></span>[196:b](ulh28.htm#fr_363) The words *apapa
+<span id="fn_351"></span>[196:b](ulh28.htm#fr_363.md) The words *apapa
 nu’u* and *apapa lani*, which convey to the mind of the author the
 picture of a series of terraced plains or steppes--no doubt the original
 meaning--here mean a family or order of gods, not of the highest rank,
@@ -1035,27 +1035,27 @@ This same expression was sometimes used to mean an order of chiefs,
 reason this expression at times applied to the alii of highest rank,
 those, for instance, who inherited the rank of *niau-pi’o* or of *wohi*.
 
-<span id="fn_352"></span>[196:c](ulh28.htm#fr_364) *Lani*. Originally
+<span id="fn_352"></span>[196:c](ulh28.htm#fr_364.md) *Lani*. Originally
 the heavens, came to mean king. chief, *alii*.
 
-<span id="fn_353"></span>[196:d](ulh28.htm#fr_365) There is a difference
+<span id="fn_353"></span>[196:d](ulh28.htm#fr_365.md) There is a difference
 of opinion as to the meaning of *Kape’a ma*. After hearing diverse
 opinions the author concludes that it refers to the rays of the sun that
 precede its rising--a Greek idea.
 
-<span id="fn_354"></span>[196:e](ulh28.htm#fr_366) *Unulau*. A name for
+<span id="fn_354"></span>[196:e](ulh28.htm#fr_366.md) *Unulau*. A name for
 the trade-wind which, owing to the conformation of the land, often
 sweeps down with great force through the deep valleys that seam the
 mountains of west Maui between Lahaina and Maalaea bay; such a wind
 squall was called a *mumuku*.
 
-<span id="fn_355"></span>[197:a](ulh28.htm#fr_367) *Ukumehame*. The name
+<span id="fn_355"></span>[197:a](ulh28.htm#fr_367.md) *Ukumehame*. The name
 of a deep valley on west Maui in the region above described.
 
-<span id="fn_356"></span>[197:b](ulh28.htm#fr_368) *Papawai*. The
+<span id="fn_356"></span>[197:b](ulh28.htm#fr_368.md) *Papawai*. The
 principal cape on west Maui between Lahaina and Maalaea bay.
 
-<span id="fn_357"></span>[197:c](ulh28.htm#fr_369) *Kumu-kahi*. A cape
+<span id="fn_357"></span>[197:c](ulh28.htm#fr_369.md) *Kumu-kahi*. A cape
 in Puna, the easternmost part of Hawaii; by some said to be the sun's
 wife, and the object of his eager pursuit after coming out of his
 eastern gate Ha’eha’e. The name was also applied to a pillar of stone
@@ -1069,7 +1069,7 @@ or "The sun has passed over to Kumukahi," as the case might be. These
 two pillars are said to be of such a form as to suggest the thought that
 they are phallic emblems, and this conjecture is strengthened by
 consideration of the tabus connected with them and of the religious
-ceremonies [performed](errata.htm#7) before them. The Hawaiians speak of
+ceremonies [performed](errata.htm#7.md) before them. The Hawaiians speak of
 them as *pohaku eho*, which, the author believes, is the name given to a
 phallus, and describe them as plain uncarved pillars.
 
@@ -1091,7 +1091,7 @@ In modern times there seems to have grown up a curious mixture of
 traditions about these two stones, in which the old have become overlaid
 with new superstitions; and these last in turn seem to be dying out.
 They are now vaguely remembered as relics of old demigods, petrified
-forms of ancient *kupua*. <span id="fr_370"></span>[1](#fn_358)
+forms of ancient *kupua*. <span id="fr_370"></span>[1](#fn_358.md)
 Fishermen, it is said, not long ago offered sacrifices to them, hoping
 thus to purchase good luck. Any offense against them, such as that by
 women, above mentioned, or by men, was atoned for by offering before
@@ -1111,11 +1111,11 @@ death, thus terrifying people beyond measure. The names of these two
 demigods, especially that of Palamoa, are to this day appealed to by
 practitioners of the black arts.
 
-<span id="fn_358"></span>[197:1](ulh28.htm#fr_370) The Hawaiian alphabet
+<span id="fn_358"></span>[197:1](ulh28.htm#fr_370.md) The Hawaiian alphabet
 had no letter *s*. The Hawaiians indicated the plural by prefixing the
 particle *na*.
 
-<span id="fn_359"></span>[198:a](ulh28.htm#fr_371) *Mauli-ola*. A god of
+<span id="fn_359"></span>[198:a](ulh28.htm#fr_371.md) *Mauli-ola*. A god of
 health; perhaps also the name of a place. The same word also was applied
 to the breath of life, or to the physician's power of healing. In the
 Maori tongue the word *mauri*, corresponding to *mauli*, means life. the
@@ -1124,7 +1124,7 @@ heart " (*Tihe mauri ora*), says the Maori mother to her infant when it
 sneezes. For this bit of Maori lore acknowledgment is due to Mr. S.
 Percy Smith, of New Zealand.
 
-<span id="fn_360"></span>[199:a](ulh28.htm#fr_374) According to one
+<span id="fn_360"></span>[199:a](ulh28.htm#fr_374.md) According to one
 authority, at the close of the first canto the stranger gods--*akua
 malihini*--who consisted of that multitude of godlings called the *Kini
 Akua*, took their departure from the ceremony, since they did not belong
@@ -1145,7 +1145,7 @@ add one more link to the chain that binds cause to effect. The Hawaiian
 mind was not favorable to the observance of this sort of etiquette; it
 did not afford a soil fitted to nourish such an artificial growth.
 
-<span id="fn_361"></span>[199:b](ulh28.htm#fr_373) The meaning of the
+<span id="fn_361"></span>[199:b](ulh28.htm#fr_373.md) The meaning of the
 word Ku-ka-la-ula presented great difficulty and defied all attempts at
 translation until the suggestion was made by a bright Hawaiian, which
 was adopted with satisfaction, that it probably referred to that state
@@ -1153,26 +1153,26 @@ of dreamy mental exaltation which comes with awa-intoxication. This
 condition, like that of frenzy, of madness, and of idiocy, the Hawaiian
 regarded as a divine possession.
 
-<span id="fn_362"></span>[200:a](ulh28.htm#fr_375) Kalakaua, for whom
+<span id="fn_362"></span>[200:a](ulh28.htm#fr_375.md) Kalakaua, for whom
 all these fine words are intended, could no more claim kinship with
 Ku-nui-akea, the son of Kau-i-ke-aouli, than with Julius Caesar.
 
-<span id="fn_363"></span>[200:b](ulh28.htm#fr_376) *Hale-mau-mau*. Used
+<span id="fn_363"></span>[200:b](ulh28.htm#fr_376.md) *Hale-mau-mau*. Used
 figuratively of the mouth, whose hairy fringe--moustache and
 beard--gives it a fancied resemblance to the rough lava pit where Pele
 dwelt. The figure, to us no doubt obscure, conveyed to the Hawaiian the
 idea of trumpeting the name and making it famous.
 
-<span id="fn_364"></span>[200:c](ulh28.htm#fr_377) *E kuli-pe’e nui
+<span id="fn_364"></span>[200:c](ulh28.htm#fr_377.md) *E kuli-pe’e nui
 ai-ahua*. Pele is here figured as an old, infirm woman, crouching and
 crawling along; a character and attitude ascribed to her, no doubt, from
 the fancied resemblance of a lava flow, which, when in the form of
 *a-á*, rolls and tumbles along over the surface of the ground in a
 manner suggestive of the motions and attitude of a palsied crone.
 
-<span id="fn_365"></span>[201:a](ulh28.htm#fr_378) It is said to be the
+<span id="fn_365"></span>[201:a](ulh28.htm#fr_378.md) It is said to be the
 work of a hula-master, now some years dead, by the name of Namakeelua.
 
 ------------------------------------------------------------------------
 
-[Next: XXV.--The Hula Pa’i-umauma](ulh29)
+[Next: XXV.--The Hula Pa’i-umauma](ulh29.md)

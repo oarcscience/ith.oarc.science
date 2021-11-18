@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](pte09)  [Next](pte11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](pte09)  [Next](pte11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Plutarch's Morals: Theosophical Essays*, tr. by Charles William King,
 \[1908\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
 
 ### APPENDIX.
 
-P. [190](pte07.htm#page_190).
+P. [190](pte07.htm#page_190.md).
 
 E *for* "*Thou Art*."—The Zohar uses "*Atha*," "Thou," as a synonym for
 God, in exactly the same sense that the E is here interpreted—a
@@ -31,7 +31,7 @@ Apollo," who had restored that virtuous emperor to health. This fact is
 expressed by the offering of the Serpent, that regular attribute of the
 god of medicine.
 
-P. [174](pte07.htm#page_174). *The Delphic E*.—Schliemann's little gold
+P. [174](pte07.htm#page_174.md). *The Delphic E*.—Schliemann's little gold
 model of a shrine ("Mycenæ," No. 423) presents, upon each of its three
 panels, this letter, of the same form as when engraved on Roman
 talismans; but laid upon its back, like the caste-mark still in use. But
@@ -47,7 +47,7 @@ for 1881, p. 212.
 
 <span id="page_278">p. 278</span>
 
-P. [269](pte09.htm#page_269). *Phylacteries*.—This solution of the
+P. [269](pte09.htm#page_269.md). *Phylacteries*.—This solution of the
 difficulty must be abandoned. I am informed, upon the highest authority,
 that the phylacteries are not worn on the Sabbath, which typifying the
 same idea renders the use of the minor type unnecessary. In favour of
@@ -61,9 +61,9 @@ which event the Rabbis discovered a sense in the words of Moses that
 permitted resistance against attack even on the Sabbath day.
 
 <span id="img_27800"></span> ![\[Apollo, with the earliest Pythia,
-Herophile\]](img/27800.jpg)  
+Herophile\]](img/27800.jpg.md)  
 \[Apollo, with the earliest Pythia, Herophile\]
 
 ------------------------------------------------------------------------
 
-[Next: Index](pte11)
+[Next: Index](pte11.md)

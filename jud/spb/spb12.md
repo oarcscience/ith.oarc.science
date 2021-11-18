@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb11)  [Next](spb13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb11)  [Next](spb13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -109,7 +109,7 @@ the Ark, and the portion of the Law beginning Vy’chal is read*.</span>
 <span id="page_112">p. 112</span>
 
 *The following prayer (Amidah) to "as in ancient years, [p.
-123](#page_123), is to be said standing*.
+123](#page_123.md), is to be said standing*.
 
 O Lord, open thou my lips, and my mouth shall declare thy praise.
 
@@ -151,7 +151,7 @@ quickenest, and causest salvation to spring forth?
 rememberest thy creatures unto life?</span>
 
 Yea, faithful art thou to quicken the dead. Blessed art thou, O Lord,
-who quickenest the dead. <span id="fr_10"></span>[\*](#fn_8)
+who quickenest the dead. <span id="fr_10"></span>[\*](#fn_8.md)
 
 Thou art holy, and thy name is holy, and holy beings praise thee daily.
 (Selah.) Blessed art thou, O Lord, the holy God.
@@ -161,7 +161,7 @@ Thou art holy, and thy name is holy, and holy beings praise thee daily.
 <span class="small">the holy King.</span>
 
 *When the Reader repeats the Amidah, the following is said, to "holy
-God," [p. 114](#page_114)*.
+God," [p. 114](#page_114.md)*.
 
 <span id="page_114">p. 114</span>
 
@@ -206,21 +206,21 @@ thy name's sake; for thou art a mighty Redeemer. Blessed art thou, O
 Lord, the Redeemer of Israel.
 
 *On Fast Days the Reader here says "Answer us," etc., [p.
-51](spb05.htm#page_51), and concludes thus:—*
+51](spb05.htm#page_51.md), and concludes thus:—*
 
 <span class="small">Blessed art thou, O Lord, who answerest in time of
 trouble.</span>
 
 Heal us, O Lord, and we shall be healed; save us and we shall be saved;
 for thou art our praise. Vouchsafe a perfect healing to all our
-wounds; <span id="fr_11"></span>[\*](#fn_9) for thou, almighty King, art
+wounds; <span id="fr_11"></span>[\*](#fn_9.md) for thou, almighty King, art
 a faithful and merciful Physician. Blessed art thou, O Lord, who healest
 the sick of thy people Israel.
 
 Bless this year unto us, O Lord our God, together with every kind of the
 produce thereof, for our welfare; give a blessing
 
-*During the Winter Season <span id="fr_12"></span>[\*\*](#fn_10)
+*During the Winter Season <span id="fr_12"></span>[\*\*](#fn_10.md)
 substitute for the last sentence:*
 
 <span class="small">Give dew and rain for a blessing upon the face of
@@ -267,7 +267,7 @@ Lord, the stay and trust of the righteous.
 And to Jerusalem, thy city, return in mercy, and dwell therein as thou
 hast spoken; rebuild it soon in our days as an everlasting building, and
 speedily set up therein the throne of David. <span
-id="fr_13"></span>[\*](#fn_11) Blessed art thou, O Lord, who rebuildest
+id="fr_13"></span>[\*](#fn_11.md) Blessed art thou, O Lord, who rebuildest
 Jerusalem.
 
 <span id="page_118">p. 118</span>
@@ -284,7 +284,7 @@ not
 
 <span id="page_119">p. 119</span>
 
-empty away; <span id="fr_14"></span>[\*](#fn_12) for thou hearkenest in
+empty away; <span id="fr_14"></span>[\*](#fn_12.md) for thou hearkenest in
 mercy to the prayer of thy people Israel. Blessed art thou, O Lord, who
 hearkenest unto prayer.
 
@@ -360,7 +360,7 @@ in thee.
 *On Chanukah and Purim say:—*
 
 <span class="small">We thank thee, etc., [p.
-63](spb05.htm#page_63)</span>
+63](spb05.htm#page_63.md)</span>
 
 For all these things thy name, O our King, shall be continually blessed
 and exalted for ever and ever.
@@ -412,9 +412,9 @@ as in ancient years. Then shall the offering of Judah and Jerusalem be
 pleasant unto the Lord, as in the days of old, and as in ancient years.
 
 *During the Ten Days of Penitence, Friday excepted, say Our Father, Our
-King, [p. 67](spb05.htm#page_67). Then say the following; but if
+King, [p. 67](spb05.htm#page_67.md). Then say the following; but if
 Tachanun is omitted, the Reader, immediately after the Amidah, says the
-whole Kaddish [p. 125](#page_125)*.
+whole Kaddish [p. 125](#page_125.md)*.
 
 <span class="small">And David said unto Gad, I am troubled exceedingly;
 let us fall, I pray thee, into the hand of the Lord, for his mercies are
@@ -571,7 +571,7 @@ us and for all Israel; and say ye, Amen.
 
 ### Footnotes
 
-<span id="fn_8"></span>[113:\*](spb12.htm#fr_10) *Reader*.—We will
+<span id="fn_8"></span>[113:\*](spb12.htm#fr_10.md) *Reader*.—We will
 sanctify thy name in the world even as they sanctify it in "the highest
 heavens, as it is written by the hand of thy prophet:
 
@@ -580,17 +580,17 @@ And they called one unto the other and said,
 *Cong*.—Holy, holy, holy is the Lord of hosts: the whole earth is full
 of his glory.
 
-<span id="fn_9"></span>[115:\*](spb12.htm#fr_11) *The following Prayer
+<span id="fn_9"></span>[115:\*](spb12.htm#fr_11.md) *The following Prayer
 for a Sick Person may be introduced here:—*
 
 May it be thy will, O Lord our God, and God of our fathers, speedily to
 send a perfect healing from heaven, a healing of soul and body unto the
 sick . . . among the other sick of Israel.
 
-<span id="fn_10"></span>[115:\*\*](spb12.htm#fr_12) *From the Fourth of
+<span id="fn_10"></span>[115:\*\*](spb12.htm#fr_12.md) *From the Fourth of
 December until the First Day of Passover*.
 
-<span id="fn_11"></span>[117:\*](spb12.htm#fr_13) *On the Fast of the
+<span id="fn_11"></span>[117:\*](spb12.htm#fr_13.md) *On the Fast of the
 Ninth of Ab the following is added:—*
 
 Comfort, O Lord our God, the mourners of Zion, and the mourners of
@@ -612,7 +612,7 @@ Jerusalem.
 
 "Speedily," etc.
 
-<span id="fn_12"></span>[119:\*](spb12.htm#fr_14) *On Fast Days the
+<span id="fn_12"></span>[119:\*](spb12.htm#fr_14.md) *On Fast Days the
 Congregation here say the following:—*
 
 Answer us, O Lord, answer us on this day of the fast of our humiliation,
@@ -630,6 +630,6 @@ and distress;
 ------------------------------------------------------------------------
 
 [Next: Evening Service for Weekdays and the Termination of the
-Sabbath](spb13)
+Sabbath](spb13.md)
 
 </div>

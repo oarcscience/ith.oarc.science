@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli23)  [Next](roli25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli23)  [Next](roli25.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -32,11 +32,11 @@ could.
 
 As soon as the arrow struck her, the water began to run out.
 
-He came to a tree <span id="fr_300"></span>[284](#fn_294) and climbed
+He came to a tree <span id="fr_300"></span>[284](#fn_294.md) and climbed
 into it; and the water reached it, and made a big lake around it. It
 rose and rose, and Coyote climbed up higher into the tree. He felt that
 he was near his death and began singing about his brother, his
-relatives, and friends. <span id="fr_301"></span>[285](#fn_295)
+relatives, and friends. <span id="fr_301"></span>[285](#fn_295.md)
 
 <span id="page_157">p. 157</span>
 
@@ -49,12 +49,12 @@ drowned.
 
 ### Footnotes
 
-<span id="fn_294"></span>[156:284](roli24.htm#fr_300) Chehenahut, a tall
+<span id="fn_294"></span>[156:284](roli24.htm#fr_300.md) Chehenahut, a tall
 green tree.
 
-<span id="fn_295"></span>[156:285](roli24.htm#fr_301) Song record 1091,
+<span id="fn_295"></span>[156:285](roli24.htm#fr_301.md) Song record 1091,
 above.
 
 ------------------------------------------------------------------------
 
-[Next: The Flood](roli25)
+[Next: The Flood](roli25.md)

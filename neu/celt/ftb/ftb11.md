@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb10)  [Next](ftb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb10)  [Next](ftb12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -24,19 +24,19 @@ Textual Heritage
 
 <span id="img_10200"></span> <span align="CENTER"> [![How swift thy
 steed, my love, my love](tn/10200.jpg)  
-Click to enlarge](img/10200.jpg)  
+Click to enlarge](img/10200.jpg.md)  
 How swift thy steed, my love, my love  
 </span>
 
 <span id="page_103">p. 103</span>
 
-<span id="img_10300"></span> ![The Foster Brother](img/10300.jpg)
+<span id="img_10300"></span> ![The Foster Brother](img/10300.jpg.md)
 
 <span id="img_10301"></span>
 
 |                     |
 |---------------------|
-| ![T](img/10301.jpg) |
+| ![T](img/10301.jpg.md) |
 
 HE loveliest girl of noble race in all the country round was a maiden of
 eighteen summers whose name was Gwennola. The old lord of the manor, her
@@ -215,4 +215,4 @@ in the tomb.
 
 ------------------------------------------------------------------------
 
-[Next: The Hunchback and the Elves](ftb12)
+[Next: The Hunchback and the Elves](ftb12.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod39)  [Next](ebod41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod39)  [Next](ebod41.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ back at the gates of the Tuat."
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXVII.](ebod41)
+[Next: Plate XXXVII.](ebod41.md)

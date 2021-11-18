@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt00)  [Next](crt02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt00)  [Next](crt02.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ our endeavors and in our failures.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](crt02)
+[Next: Contents](crt02.md)

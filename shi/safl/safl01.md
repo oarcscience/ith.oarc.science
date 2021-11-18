@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index)  [Index](index) [Previous](safl00) [Next](safl02)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index)  [Index](index) [Previous](safl00) [Next](safl02.md)
 
 ------------------------------------------------------------------------
 
 ## I.—AN AINU LEGEND OF A FAMINE.
 
 I<span class="small">NUSA</span>-I<span class="small">NUSA</span>.<span
-id="page_112_fr_*"></span>[\*](#page_112_note_*)
+id="page_112_fr_*"></span>[\*](#page_112_note_*.md)
 
 1\.
 
@@ -18,15 +18,15 @@ of needle-work or other;
 2\.
 
 In the window<span id="fr_1"></span>[<sup><span
-class="small">1</span></sup>](#note_1) of the house there was a large
+class="small">1</span></sup>](#note_1.md) of the house there was a large
 cup filled to the brim with wine, upon which floated a ceremonial
 moustache-lifter.<span id="fr_2"></span>[<sup><span
-class="small">2</span></sup>](#note_2)
+class="small">2</span></sup>](#note_2.md)
 
 3\.
 
 The ceremonial moustache-lifter was dancing<span
-id="fr_3"></span>[<sup><span class="small">3</span></sup>](#note_3)
+id="fr_3"></span>[<sup><span class="small">3</span></sup>](#note_3.md)
 about upon the top of the winecup.
 
 4\.
@@ -61,9 +61,9 @@ nothing to eat.
 9\.
 
 Then was that cup of wine emptied into six<span
-id="fr_4"></span>[<sup><span class="small">4</span></sup>](#note_4)
+id="fr_4"></span>[<sup><span class="small">4</span></sup>](#note_4.md)
 lacquer-ware<span id="fr_5"></span>[<sup><span
-class="small">5</span></sup>](#note_5) vessels.
+class="small">5</span></sup>](#note_5.md) vessels.
 
 10\.
 
@@ -72,7 +72,7 @@ In a very little while the scent of the wine filled the whole house.
 11\.
 
 Therefore were all the gods led<span id="fr_6"></span>[<sup><span
-class="small">6</span></sup>](#note_6) in, and the gods of places were
+class="small">6</span></sup>](#note_6.md) in, and the gods of places were
 brought from everywhere;
 
 12\.
@@ -82,7 +82,7 @@ And they were all well pleased with that delicious wine.
 13\.
 
 Then the goddesses<span id="fr_7"></span>[<sup><span
-class="small">7</span></sup>](#note_7) of the rivers and the goddesses
+class="small">7</span></sup>](#note_7.md) of the rivers and the goddesses
 of the mouths of rivers danced back and forth in the house.
 
 14\.
@@ -136,7 +136,7 @@ inheritors to this hunting.
 
 N<span class="small">OTE ON</span> V<span class="small">ERSE</span> 2.
 
-   <span id="note_1"></span>[1](#fr_1) This *puyara* or window is always
+   <span id="note_1"></span>[1](#fr_1.md) This *puyara* or window is always
 placed in the east end of a hut. It is the sacred window, and no person
 may look into a hut through it without incurring the penalty of great
 displeasure from the owner thereof. The Ainu often worship towards the
@@ -153,7 +153,7 @@ property of the gods, we may easily understand why a large, well filled
 cup of wine was placed before it. It was an offering, and was placed
 there to solicit the favour of the gods.
 
-   <span id="note_2"></span>[2](#fr_2) The ceremonial moustache-lifters
+   <span id="note_2"></span>[2](#fr_2.md) The ceremonial moustache-lifters
 are peculiarly made, and are used for special religious purposes. They
 are of different patterns. Some have bears and some have deer carved
 upon them. The present one, however, is called *Kikeush bashui*, i.e., a
@@ -195,7 +195,7 @@ and dance with delight when he sees it! The very sound of the word
 
 N<span class="small">OTE ON</span> V<span class="small">ERSE</span> 3.
 
-   <span id="note_3"></span>[3](#fr_3) The word *tereke-tereke*, which I
+   <span id="note_3"></span>[3](#fr_3.md) The word *tereke-tereke*, which I
 have here translated by "dancing about," really means to "jump," "skip,"
 or "hop about." Here two ideas are introduced:—*First* the cup was so
 full of wine that the very moustache-lifter could float upon it without
@@ -239,11 +239,11 @@ venison were caused to abound! The prayer was heard and answered.
 
 N<span class="small">OTE ON</span> V<span class="small">ERSE</span> 9.
 
-   <span id="note_4"></span>[4](#fr_4) Six appears to be the sacred or
+   <span id="note_4"></span>[4](#fr_4.md) Six appears to be the sacred or
 perfect number of the Ainu; hence, a little of the wine was put into
 each of the six lacquer-ware vessels.
 
-   <span id="note_5"></span>[5](#fr_5) These lacquer-ware vessels are of
+   <span id="note_5"></span>[5](#fr_5.md) These lacquer-ware vessels are of
 Japanese make and are highly prized by the Ainu. In fact, they look upon
 them as special treasures, and the importance of a man is measured by
 the number of these vessels in his possession, and by the number of old
@@ -266,7 +266,7 @@ it and relieve her of the contents thereof!
 
 N<span class="small">OTE ON</span> V<span class="small">ERSE</span> 11.
 
-   <span id="note_6"></span>[6](#fr_6) The work *ashke auk*, which I
+   <span id="note_6"></span>[6](#fr_6.md) The work *ashke auk*, which I
 have here translated by "led in," really means "to be led in by the
 hand." The Ainu have a very curious custom of taking persons by the hand
 and leading them into the house; it is a sign of great honour to be so
@@ -282,13 +282,13 @@ gods were led into the hut by the hand.
 
 N<span class="small">OTE ON</span> V<span class="small">ERSE</span> 13.
 
-   <span id="note_7"></span>[7](#fr_7) *Petru-ush mat* is the goddess of
+   <span id="note_7"></span>[7](#fr_7.md) *Petru-ush mat* is the goddess of
 rivers from their source to their outlet, and *Chiwashekot mat* presides
 over their mouths.
 
 ------------------------------------------------------------------------
 
-[Next](safl02)
+[Next](safl02.md)
 
 ------------------------------------------------------------------------
 
@@ -296,7 +296,7 @@ over their mouths.
 
 <span id="footnotes_page_112">p. 112</span>
 
-<span id="page_112_note_*"></span>[\*](#page_112_fr_*) *Inusa-inusa*
+<span id="page_112_note_*"></span>[\*](#page_112_fr_*.md) *Inusa-inusa*
 appears to be the name of the tune or tone of voice in which the legend
 is recited.
 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey07)  [Next](grey09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey07)  [Next](grey09.md) 
 
 ------------------------------------------------------------------------
 
@@ -211,4 +211,4 @@ them joyful news to Apakura, the mother of Tuwhakararo.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Rata](grey09)
+[Next: The Legend of Rata](grey09.md)

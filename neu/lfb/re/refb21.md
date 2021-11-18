@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb20)  [Next](refb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb20)  [Next](refb22.md) 
 
 </div>
 
@@ -279,6 +279,6 @@ to supper. I am so hungry!'\[15\]
 
 ------------------------------------------------------------------------
 
-[Next: The Ratcatcher](refb22)
+[Next: The Ratcatcher](refb22.md)
 
 </div>

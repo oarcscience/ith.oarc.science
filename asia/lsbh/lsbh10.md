@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh09)  [Next](lsbh11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh09)  [Next](lsbh11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ indicating to him that he should go into the desert. Then a second voice
 came to him, saying, "Flee, keep silence, and lead a life of
 contemplation," that is to say, "When thou hast gone and hast become
 mighty in the deeds of the ascetic life then thou shalt dwell alone with
-thy soul <span id="fr_51"></span>[1](#fn_51)."
+thy soul <span id="fr_51"></span>[1](#fn_51.md)."
 
 <span id="page_39">p. 39</span>
 
@@ -48,7 +48,7 @@ pray, therefore go out of thy cell, and depart and minister unto the
 sick and let thy righteousness be sufficient for thee." The aged man
 made answer to him, "Go, eat, drink, and labour not, only do not depart
 from thy cell," for he knew that persistent dwelling in the cell would
-cut off all \[his\] thoughts <span id="fr_52"></span>[1](#fn_52).
+cut off all \[his\] thoughts <span id="fr_52"></span>[1](#fn_52.md).
 
 <span id="page_40">p. 40</span>
 
@@ -63,7 +63,7 @@ in his prayers. And he replied, "I will pray unto God that He may make
 the remembrance of thee to pass out of my heart." Now although by reason
 of her grief and sorrow she became sick, yet he did as he had said, that
 he might shut the door against the women who thronged to see him <span
-id="fr_53"></span>[1](#fn_53).
+id="fr_53"></span>[1](#fn_53.md).
 
 <span id="page_41">p. 41</span>
 
@@ -76,7 +76,7 @@ CLXXXI\. Abbâ Theodore and Abbâ Luke remained for fifty years in doubt,
 for they were vexed about the matter of changing their \[dwelling\]
 place, and they said, "Behold, in the winter will we change \[it\];"
 thus they did, and they did not go forth \[from it\] until the end of
-their lives <span id="fr_54"></span>[1](#fn_54).
+their lives <span id="fr_54"></span>[1](#fn_54.md).
 
 CLXXXII\. One of them said, "The recluse who loveth a life of
 contemplation in his cell doth not flee meeting his neighbour because he
@@ -86,7 +86,7 @@ the sight and learning \[of the same\]."
 
 CLXXXIII\. Abbâ Agathon kept a stone in his mouth for a period of three
 years until he succeeded in keeping silence <span
-id="fr_55"></span>[2](#fn_55).
+id="fr_55"></span>[2](#fn_55.md).
 
 <span id="page_43">p. 43</span>
 
@@ -94,11 +94,11 @@ CLXXXIV\. One of the old men gave a cup of wine \[twice\] to Sisoes the
 great and he drank \[it\], but when he mixed it for him the third time
 he would not drink, saying, "Forbear, old man, for thou knowest not
 whether it be Satan," referring by these words to drunkenness which is
-the mother of all vices <span id="fr_56"></span>[1](#fn_56).
+the mother of all vices <span id="fr_56"></span>[1](#fn_56.md).
 
 CLXXXV\. Abbâ Arsenius used, every Saturday night, to leave the sun
 behind him, and to stretch out his hands towards heaven and to pray
-until the sun rose in his face <span id="fr_57"></span>[2](#fn_57).
+until the sun rose in his face <span id="fr_57"></span>[2](#fn_57.md).
 
 CLXXXVI\. Certain of the Fathers said, "Whosoever doth not receive all
 the brethren alike is not, as yet, perfect."
@@ -120,7 +120,7 @@ certain man of the brethren said unto him insultingly, "Ho father, if
 only thou hadst been a camel thou mightest have stolen natron and they
 would never have beaten thee," he gladly made answer unto them.
 
-CLXXXIX\. Abbâ Ḳîrnên used to say <span id="fr_58"></span>[1](#fn_58),
+CLXXXIX\. Abbâ Ḳîrnên used to say <span id="fr_58"></span>[1](#fn_58.md),
 "If the man who dwelleth with a young man would be mighty in the ascetic
 life, he will not descend \[from his cell\] even for a moment, and he
 will not stretch himself out in his presence even for the sake of
@@ -135,12 +135,12 @@ passion of fornication he used to cast himself down naked before a
 hyaena's den, and take a desert viper and press it upon his body that it
 might bite him and that he might die. And he never went into a city or
 into a village, so that he might not see a woman <span
-id="fr_59"></span>[1](#fn_59).
+id="fr_59"></span>[1](#fn_59.md).
 
 CXCI\. Once on a time Abbâ Abraham said to Abbâ Sisoes, "Father, thou
 art grown old, let us now go and live among men for a little." And he
 replied, "Let us go where there is no woman <span
-id="fr_60"></span>[2](#fn_60). This he said not
+id="fr_60"></span>[2](#fn_60.md). This he said not
 
 <span id="page_46">p. 46</span>
 
@@ -149,7 +149,7 @@ not to fall.
 
 CXCII\. Abbâ Ammon used to say, "There are some men who might live in
 their cells for a hundred years, and yet not know how it is meet for a
-recluse to live therein <span id="fr_61"></span>[1](#fn_61)."
+recluse to live therein <span id="fr_61"></span>[1](#fn_61.md)."
 
 CXCIII\. Abbâ Agathon said, "The man of anger will never be accepted by
 man, even though one rose from the dead."
@@ -159,20 +159,20 @@ he went to Abbâ Isidore \[for advice\]. And Isidore took him up upon the
 roof of his house, and shewed him the hosts of devils waging war in the
 west and the angels who were gaining the mastery in the east. This he
 did to him so that Moses might be encouraged to fight, and he returned
-to his cell <span id="fr_62"></span>[2](#fn_62).
+to his cell <span id="fr_62"></span>[2](#fn_62.md).
 
 <span id="page_47">p. 47</span>
 
 CXCV\. Mother Sarâ fought for seven years against the demon of
 fornication upon the roof until she had overcome him <span
-id="fr_63"></span>[1](#fn_63). She used to say, "Whenever I put my feet
+id="fr_63"></span>[1](#fn_63.md). She used to say, "Whenever I put my feet
 upon the ladder to go up, I set my death before my eyes before I
-ascend <span id="fr_64"></span>[2](#fn_64)."
+ascend <span id="fr_64"></span>[2](#fn_64.md)."
 
 CXCVI\. Concerning her it is said that she dwelt in an upper chamber
 over the river, and that she never once looked out to see the river
 which passed by the side of her cell <span
-id="fr_65"></span>[3](#fn_65).
+id="fr_65"></span>[3](#fn_65.md).
 
 CXCVII\. There were two brethren who went back into the world and took
 wives, but afterwards they repented and returned \[to their cells\]. And
@@ -186,7 +186,7 @@ radiant. Now when the fathers saw them they were doubtful
 if the repentance of each was equally \[sincere\], and they said, "The
 one meditateth upon his sins and on hell, but the other on God's mercy
 which is poured out abundantly upon all men <span
-id="fr_66"></span>[1](#fn_66)."
+id="fr_66"></span>[1](#fn_66.md)."
 
 <span id="page_49">p. 49</span>
 
@@ -196,7 +196,7 @@ and the brother said unto him, "I have fallen many times and risen up
 \[after them\]. How long shall I continue to fall and rise up?" The old
 man said unto him, "Until death shall overtake thee in one of them, I
 mean either in rising up or in falling <span
-id="fr_67"></span>[1](#fn_67)."
+id="fr_67"></span>[1](#fn_67.md)."
 
 CXCIX\. One of the brethren went into the world and married a woman, and
 when his master heard thereof he prayed and entreated God, saying, "O
@@ -206,7 +206,7 @@ together, he gave up the ghost and was not united unto her.
 
 CC\. One of the brethren was perfect to such a degree that even wild
 animals became his friends, and he used to nourish their young <span
-id="fr_68"></span>[2](#fn_68). Now a certain father
+id="fr_68"></span>[2](#fn_68.md). Now a certain father
 
 <span id="page_50">p. 50</span>
 
@@ -222,14 +222,14 @@ and man."
 
 CCII\. When the mother of Abbâ Poemen and of his brethren went to see
 them, they did not bring her into their cells neither did they speak
-with her <span id="fr_69"></span>[1](#fn_69), thus keeping
+with her <span id="fr_69"></span>[1](#fn_69.md), thus keeping
 
 <span id="page_52">p. 52</span>
 
 the command of our Lord Who said, "Whosoever loveth father or mother,
-&c. <span id="fr_70"></span>[1](#fn_70)"
+&c. <span id="fr_70"></span>[1](#fn_70.md)"
 
-CCIII\. Abbâ Ammon the virgin <span id="fr_71"></span>[2](#fn_71) once
+CCIII\. Abbâ Ammon the virgin <span id="fr_71"></span>[2](#fn_71.md) once
 went to Abbâ Antony and said unto him, "I observe that I labour in the
 ascetic life more than thou, how is it then that thy name is more
 renowned in the world than mine?" Abbâ Antony said unto him, "Because I
@@ -237,7 +237,7 @@ love our Lord more than thou."
 
 CCIV\. Once a year Abbâ Arsenius used to taste once every kind of fruit
 in order that he might give praise unto God, but Evagrius <span
-id="fr_72"></span>[3](#fn_72) never at any time ate any fruit or any
+id="fr_72"></span>[3](#fn_72.md) never at any time ate any fruit or any
 green thing.
 
 CCV\. Abbâ Poemen used to say, "As a snake or a scorpion having been
@@ -255,7 +255,7 @@ CCVII\. A certain brother asked Abbâ Sisoes saying, "So then thou hast
 not, O father, yet arrived at Antony's capacity \[for ascetic
 labours\]?" The old man said unto him, "If I had had only one thought of
 Abbâ Antony's my whole being would have been like a pillar of
-light <span id="fr_73"></span>[1](#fn_73)."
+light <span id="fr_73"></span>[1](#fn_73.md)."
 
 CCVIII\. A certain aged man was asked by a brother, "When I am in the
 place of purity, and the hour for prayer cometh, must I return?" The
@@ -264,7 +264,7 @@ to poverty?" Now he referred to the lifting up of the mind and to the
 converse with God in the place of purity.
 
 CCIX\. It is said concerning Saint Ammon <span
-id="fr_74"></span>[2](#fn_74) the virgin
+id="fr_74"></span>[2](#fn_74.md) the virgin
 
 <span id="page_54">p. 54</span>
 
@@ -277,11 +277,11 @@ going in with the bride to the feast, he brought out from his bosom the
 Book of the Apostle Paul, and admonished and taught the young woman the
 words which were written therein by the blessed man on virginity,
 saying, "It is better for a man not to approach a woman <span
-id="fr_75"></span>[1](#fn_75), and I would that all men should live even
-as do I in purity <span id="fr_76"></span>[2](#fn_76)," and again
+id="fr_75"></span>[1](#fn_75.md), and I would that all men should live even
+as do I in purity <span id="fr_76"></span>[2](#fn_76.md)," and again
 \[where\] he saith, "The woman who hath never known man meditateth upon
-her Lord, that she may be holy <span id="fr_77"></span>[3](#fn_77) in
-her body and in her soul." <span id="fr_78"></span>[4](#fn_78) With
+her Lord, that she may be holy <span id="fr_77"></span>[3](#fn_77.md) in
+her body and in her soul." <span id="fr_78"></span>[4](#fn_78.md) With
 words such as these did he exhort his betrothed one, and they made their
 bodies temples to the Holy Spirit.
 
@@ -297,7 +297,7 @@ through his ribs.
 
 ### Footnotes
 
-<span id="fn_51"></span>[38:1](lsbh10.htm#fr_51) The man here referred
+<span id="fn_51"></span>[38:1](lsbh10.htm#fr_51.md) The man here referred
 to was Arsenius. The story as given in my MS. of Palladius is as
 follows:—"When Arsenius was in the <span id="page_39">p. 39</span>
 palace he prayed to God, saying, 'O Lord, direct me how to live.' And a
@@ -308,108 +308,108 @@ flee, keep silence, and lead a life of contemplation, for these are the
 roots which prevent a man from sinning." \#\#\# (fol. 197*b*, Nos. 1 and
 2.)
 
-<span id="fn_52"></span>[39:1](lsbh10.htm#fr_52) The text of the story
+<span id="fn_52"></span>[39:1](lsbh10.htm#fr_52.md) The text of the story
 in full runs:—\#\#\# <span id="page_40">p. 40</span> \#\#\# (fol.
 198*b*, No. 7).
 
-<span id="fn_53"></span>[40:1](lsbh10.htm#fr_53) The text of the story
+<span id="fn_53"></span>[40:1](lsbh10.htm#fr_53.md) The text of the story
 in full runs:—\#\#\# <span id="page_41">p. 41</span> \#\#\# <span
 id="page_42">p. 42</span> \#\#\# (fol. 229*a*, No. 251).
 
-<span id="fn_54"></span>[42:1](lsbh10.htm#fr_54) The text in Palladius
+<span id="fn_54"></span>[42:1](lsbh10.htm#fr_54.md) The text in Palladius
 differs somewhat and reads:—\#\#\# (fol. 199*b*, No. 12).
 
-<span id="fn_55"></span>[42:2](lsbh10.htm#fr_55) In Palladius:—\#\#\#
+<span id="fn_55"></span>[42:2](lsbh10.htm#fr_55.md) In Palladius:—\#\#\#
 <span id="page_43">p. 43</span> \#\#\# (fol. 205*a*, No. 61).
 
-<span id="fn_56"></span>[43:1](lsbh10.htm#fr_56) Compare the
+<span id="fn_56"></span>[43:1](lsbh10.htm#fr_56.md) Compare the
 following:—Abraham, the disciple of Sisoes, said to him, "Supposing
 there be a congregation on Saturday or Sunday, and that a brother were
 to drink three cups of wine: would that be too much?" Sisoes replied,
 "If Satan did not exist it would not be too much, but since he doth
 exist it is too much." \#\#\# (fol. 207a, No. 87).
 
-<span id="fn_57"></span>[43:2](lsbh10.htm#fr_57) In Palladius:—\#\#\#
+<span id="fn_57"></span>[43:2](lsbh10.htm#fr_57.md) In Palladius:—\#\#\#
 (fol. 209, No. 105.)
 
-<span id="fn_58"></span>[44:1](lsbh10.htm#fr_58) In Palladius:—\#\#\#
+<span id="fn_58"></span>[44:1](lsbh10.htm#fr_58.md) In Palladius:—\#\#\#
 Compare also:—\#\#\# (fol. 234*a*, Nos. 289 and 194).
 
-<span id="fn_59"></span>[45:1](lsbh10.htm#fr_59) The actual words of
+<span id="fn_59"></span>[45:1](lsbh10.htm#fr_59.md) The actual words of
 Pachomius are:—\#\#\# (fol. 70*a*).
 
-<span id="fn_60"></span>[45:2](lsbh10.htm#fr_60) In Palladius the story
+<span id="fn_60"></span>[45:2](lsbh10.htm#fr_60.md) In Palladius the story
 ends:—\#\#\# <span id="page_46">p. 46</span> (fol. 245*a*, No. 369).
 
-<span id="fn_61"></span>[46:1](lsbh10.htm#fr_61) The saying in full
+<span id="fn_61"></span>[46:1](lsbh10.htm#fr_61.md) The saying in full
 runs.—\#\#\# (fol. 262*a*, No. 495).
 
-<span id="fn_62"></span>[46:2](lsbh10.htm#fr_62) The full text
+<span id="fn_62"></span>[46:2](lsbh10.htm#fr_62.md) The full text
 runs:—\#\#\# <span id="page_47">p. 47</span> \#\#\# (fol. 269*b*, no.
 551).
 
-<span id="fn_63"></span>[47:1](lsbh10.htm#fr_63) In Palladius this story
+<span id="fn_63"></span>[47:1](lsbh10.htm#fr_63.md) In Palladius this story
 ends here (fol. 270, No. 555).
 
-<span id="fn_64"></span>[47:2](lsbh10.htm#fr_64) In Palladius:—\#\#\#
+<span id="fn_64"></span>[47:2](lsbh10.htm#fr_64.md) In Palladius:—\#\#\#
 (fol. 231*a*, No. 266.)
 
-<span id="fn_65"></span>[47:3](lsbh10.htm#fr_65) In Palladius, see No.
+<span id="fn_65"></span>[47:3](lsbh10.htm#fr_65.md) In Palladius, see No.
 202, fol. 222 *a*.
 
-<span id="fn_66"></span>[48:1](lsbh10.htm#fr_66) The full text
+<span id="fn_66"></span>[48:1](lsbh10.htm#fr_66.md) The full text
 runs:—\#\#\# <span id="page_49">p. 49</span> \#\#\# (fol. 175*a*, No.
 587).
 
-<span id="fn_67"></span>[49:1](lsbh10.htm#fr_67) In Palladius the text
+<span id="fn_67"></span>[49:1](lsbh10.htm#fr_67.md) In Palladius the text
 runs:—\#\#\# (fol. 276*b*, No. 592).
 
-<span id="fn_68"></span>[49:2](lsbh10.htm#fr_68) This story is told of
+<span id="fn_68"></span>[49:2](lsbh10.htm#fr_68.md) This story is told of
 Macarius of Alexandria, and in full reads:—\#\#\# <span id="page_50">p.
 50</span> \#\#\# (fol. 325*b*, No. 161). See also Rosweyde, *Vitae
 Patrum*, pp. 228, 650, 732.
 
-<span id="fn_69"></span>[51:1](lsbh10.htm#fr_69) The full text of the
+<span id="fn_69"></span>[51:1](lsbh10.htm#fr_69.md) The full text of the
 story is as follows:—\#\#\# (fol. 280*a*, No. 3).
 
-<span id="fn_70"></span>[52:1](lsbh10.htm#fr_70) "He that loveth father
+<span id="fn_70"></span>[52:1](lsbh10.htm#fr_70.md) "He that loveth father
 or mother more than Me is not worthy of Me; and he that loveth son or
 daughter more than Me is not worthy of Me." St. Matthew x. 37.
 
-<span id="fn_71"></span>[52:2](lsbh10.htm#fr_71) In Palladius, \#\#\#
+<span id="fn_71"></span>[52:2](lsbh10.htm#fr_71.md) In Palladius, \#\#\#
 "Abbâ Ammon, he of Nitria," *i.e.*, the Nitrian desert (fol. 305 *b*,
 No. 165), but Bar-Hebraeus seems to have missed the meaning of \#\#\#
 here.
 
-<span id="fn_72"></span>[52:3](lsbh10.htm#fr_72) The followers of
+<span id="fn_72"></span>[52:3](lsbh10.htm#fr_72.md) The followers of
 Evagrius never drank their fill of water, and many of them ate neither
 bread nor fruit, nor any green thing except bitter herbs. \#\#\# (fol.
 192 *a*. *Triumphs of Evagrius*).
 
-<span id="fn_73"></span>[53:1](lsbh10.htm#fr_73) In Palladius this story
+<span id="fn_73"></span>[53:1](lsbh10.htm#fr_73.md) In Palladius this story
 runs:—\#\#\# (fol. 320*b*, No. 287).
 
-<span id="fn_74"></span>[53:2](lsbh10.htm#fr_74) The story has been much
+<span id="fn_74"></span>[53:2](lsbh10.htm#fr_74.md) The story has been much
 abridged by Bar-Hebraeus; the full text runs:—\#\#\# <span
 id="page_54">p. 54</span> \#\#\# <span id="page_55">p. 55</span> \#\#\#.
 Eventually Ammon's wife thinks it better for herself and her husband to
 live wholly apart, and they do so (fol. 54*a* *Of Abbâ Ammon*).
 
-<span id="fn_75"></span>[55:1](lsbh10.htm#fr_75) Corinthians vii. 1.
+<span id="fn_75"></span>[55:1](lsbh10.htm#fr_75.md) Corinthians vii. 1.
 Bar-Hebraeus quotes the Peshîttâ Version.
 
-<span id="fn_76"></span>[55:2](lsbh10.htm#fr_76) 1 Corinthians vii. 6.
+<span id="fn_76"></span>[55:2](lsbh10.htm#fr_76.md) 1 Corinthians vii. 6.
 
-<span id="fn_77"></span>[55:3](lsbh10.htm#fr_77) The Peshîttâ has
+<span id="fn_77"></span>[55:3](lsbh10.htm#fr_77.md) The Peshîttâ has
 \#\#\#.
 
-<span id="fn_78"></span>[55:4](lsbh10.htm#fr_78) 1 Corinthians vii. 34.
+<span id="fn_78"></span>[55:4](lsbh10.htm#fr_78.md) 1 Corinthians vii. 34.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
 [Next: The Sixth Chapter: Profitable Sayings of Muhammedan Kings and of
-Their Sages](lsbh11)
+Their Sages](lsbh11.md)
 
 </div>

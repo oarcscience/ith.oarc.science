@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc65)  [Next](osc67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc65)  [Next](osc67.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ tail. Why not believe in astrology at once?
 
 ------------------------------------------------------------------------
 
-[Next: (1) Holy Wells](osc67)
+[Next: (1) Holy Wells](osc67.md)

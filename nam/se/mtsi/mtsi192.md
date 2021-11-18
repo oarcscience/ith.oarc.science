@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi191)  [Next](mtsi193) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi191)  [Next](mtsi193.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ several times, went out of the house, and ran off.
 
 ------------------------------------------------------------------------
 
-[Next: 57. The Tar Baby](mtsi193)
+[Next: 57. The Tar Baby](mtsi193.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch12) 
-[Next](pch14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch12.md) 
+[Next](pch14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -52,7 +52,7 @@ hereinafter, will make clear both the congruity and the conjunction.
 It is certainly true that the one ritual becomes hostile to the other
 when magic is practised by the sorcerer as an outsider, secretly
 competing with or undermining the priest. <span
-id="fr_111"></span>[1](#fn_111) But in that sense any one religious
+id="fr_111"></span>[1](#fn_111.md) But in that sense any one religious
 system is hostile to any other in the same field; and in the same sense
 heresy is hostile to orthodoxy, and dissent to the official cult,
 without ceasing to be a form of religion. Such a distinction is on all
@@ -63,7 +63,7 @@ reducible to a mere distinction between quasi-communal and
 individualistic sorcery, the whole dispute passes from the plane of
 psychological theory to that of simple sociological classification. We
 pass from a debate over a fallacy to a debate over a mere plea for a
-particular terminology. <span id="fr_112"></span>[2](#fn_112) But now
+particular terminology. <span id="fr_112"></span>[2](#fn_112.md) But now
 there arises a fresh fallacy of ethical discrimination. The communal
 sorcery, called religion, is falsely certificated as moral and
 humanitarian. It is no more so than the other. In Africa the private or
@@ -71,7 +71,7 @@ amateur sorcerer (usually a victim of the professional witch-doctor") is
 regarded as the enemy of mankind; but it is precisely by the public
 magician—witch-doctor, rain-doctor, sorcerer—that the alleged amateur is
 nefariously "smelt out" and given up to slaughter. <span
-id="fr_113"></span>[3](#fn_113) If it be argued that "religious" magic
+id="fr_113"></span>[3](#fn_113.md) If it be argued that "religious" magic
 aims at the public good and "mere" magic at private harm, the answer is
 that the public magician is often notoriously a murdering scoundrel, and
 the alleged private sorcerer an innocent man done to death.
@@ -89,12 +89,12 @@ sacrifice—which, as regards the coming rain, was sympathetic magic—was
 fortunes of his cult on the chance that his prayer would be miraculously
 answered. He was, in fact, coercing his God by making the God's credit
 with his people depend upon the God's obedience to his wishes. <span
-id="fr_114"></span>[1](#fn_114) It will not avail to acquit Elijah on
+id="fr_114"></span>[1](#fn_114.md) It will not avail to acquit Elijah on
 the score of faith when the faith of the magician in *his* means of
 controlling the Gods is made precisely his offence. Among native tribes
 of the Victoria Nyanza region, "the people, in fact, hold that rulers
 *must* have power over Nature and her phenomena." <span
-id="fr_115"></span>[2](#fn_115) Here the "anti-theistic" magic is the
+id="fr_115"></span>[2](#fn_115.md) Here the "anti-theistic" magic is the
 main element in the communal religion; and once more the separatist
 theory breaks down.
 
@@ -104,19 +104,19 @@ cause—they have been hostile to science. In the early and "dark" ages of
 Christendom the priests of the Christian Church, primed by a
 magical-medical doctrine of the curing of sickness by the laying on of
 hands, denounced as atheistic the view of disease passed on by pagan
-science. <span id="fr_116"></span>[3](#fn_116) Those priests were all
-the while practisers of exorcisms, <span id="fr_117"></span>[4](#fn_117)
+science. <span id="fr_116"></span>[3](#fn_116.md) Those priests were all
+the while practisers of exorcisms, <span id="fr_117"></span>[4](#fn_117.md)
 and were none the less, for Dr. Jevons, highly religious. In the same
 way the intensely religious Ainu of Saghalien, who practise magic for
 the cure of disease and resort to professional wizards for the same
-purpose, <span id="fr_118"></span>[5](#fn_118) resent as irreligious the
+purpose, <span id="fr_118"></span>[5](#fn_118.md) resent as irreligious the
 attempt to promote the earth's fertility by manure. When Mr. Batchelor,
 the missionary, proposed to dig and manure his garden, and explained his
 wish to his Ainu gardener, that religious personage, strong in his inner
 consciousness, thus rebuked him: "What, will you, a clergyman and
 preacher of religion, so dishonour and insult the Gods? Will not the
 Gods give due increase without your *attempting to force their hand* or
-endeavouring to drive Nature?" <span id="fr_119"></span>[6](#fn_119)
+endeavouring to drive Nature?" <span id="fr_119"></span>[6](#fn_119.md)
 
 <span id="page_31">p. 31</span>
 
@@ -136,7 +136,7 @@ were seriously to inquire which has done the more harm in the way of
 hindering civilisation, strangling science, obscuring the facts of
 Nature, and prompting human cruelty, it would soon be found that the
 organised cults which curse the magician have been by far the more
-pernicious. <span id="fr_120"></span>[1](#fn_120) The barbarisation
+pernicious. <span id="fr_120"></span>[1](#fn_120.md) The barbarisation
 wrought by the attempts of the courageously "superstitious" few to
 practise witchcraft is trifling beside that compassed by the no less
 superstitious many in putting supposed witches to death. This holds good
@@ -169,13 +169,13 @@ with ancestors or spirits; and here it is noted that the magician "has
 nothing to do with the worship of the Gods, but operates on the
 relations with spirits and souls," while the priest attends to the
 matters relating to the higher Gods. <span
-id="fr_121"></span>[1](#fn_121) The explanation appears to lie in the
+id="fr_121"></span>[1](#fn_121.md) The explanation appears to lie in the
 fact that, as among the Romans, every Batak house-father is priest as
 regards ancestors, souls, and spirits. The priest-managed cult is either
 the survival of one imposed on the populace by conquerors and specially
 provided for (as probably was the case in Rome), or a result of priestly
 enterprise in imitation of foreign systems. <span
-id="fr_122"></span>[2](#fn_122) Its ethical content is a matter of other
+id="fr_122"></span>[2](#fn_122.md) Its ethical content is a matter of other
 chances.
 
 Granted, yet again, that dissenting magic, whether beneficent or
@@ -221,7 +221,7 @@ projection of the subject's personality into the unknown, and this by
 Dr. Jevons’s own showing. To judge from his later argument, while he at
 times professes to waive the question of the veracity of the religious
 consciousness, he is much disposed to let it be its own
-verification. <span id="fr_123"></span>[1](#fn_123) This, however, he
+verification. <span id="fr_123"></span>[1](#fn_123.md) This, however, he
 can scarcely venture-on in the case of the primitive man's belief that
 he descended from a fox, a bear, or a serpent. It is one thing to
 pronounce such a belief "truly religious," by way of securing in advance
@@ -238,7 +238,7 @@ epileptic Salvationist, every Corybantic worshipper of Cybelê or Kali,
 and repels not only a Thomas Aquinas, a Pascal, a Hegel, a Spinoza, a
 Martineau, but every similar thinker who in antiquity prepared the very
 doctrines which the "feelers" demonstrably took as the theme of their
-alleged consciousness. <span id="fr_124"></span>[2](#fn_124)
+alleged consciousness. <span id="fr_124"></span>[2](#fn_124.md)
 
 It can hardly be that in thus shaping his definition Dr. Jevons aimed at
 demonstrating subtly the sub-rationality of religion. He has, indeed, by
@@ -300,7 +300,7 @@ an inward answer to prayer is not conscious of it as he is of the sound
 of a voice; what he experiences is a sense of satisfaction, which
 (albeit only the result of a release of nervous tension) he *infers* to
 come as a direct communication from deity; <span
-id="fr_125"></span>[1](#fn_125) and such inference is merely a more
+id="fr_125"></span>[1](#fn_125.md) and such inference is merely a more
 casual and less meditated process of reasoning than those which Dr.
 Jevons dismisses as non-religious. It is thus less rational as being
 less "reasonable"; but it is not "irrational" save in the loose sense of
@@ -315,49 +315,49 @@ religious reasoning may be, it remains reasoning.
 
 ### Footnotes
 
-<span id="fn_111"></span>[29:1](pch13.htm#fr_111) Cp. Tiele, *Egyptian
+<span id="fn_111"></span>[29:1](pch13.htm#fr_111.md) Cp. Tiele, *Egyptian
 Religion*, pp. 180-2; Budge, Introd. to Book of the Dead, p. cli; W.
 Ellis, *Polynesian Researches*, as cited above.
 
-<span id="fn_112"></span>[29:2](pch13.htm#fr_112) Cp. Prof. E. Doutté,
+<span id="fn_112"></span>[29:2](pch13.htm#fr_112.md) Cp. Prof. E. Doutté,
 *Magie et religion dans l’Afrique du nord*, Alger, 1909, pp. 334-5.
 
-<span id="fn_113"></span>[29:3](pch13.htm#fr_113) Cp. Decle, *Three
+<span id="fn_113"></span>[29:3](pch13.htm#fr_113.md) Cp. Decle, *Three
 Years in Savage Africa*, 1900, pp. 152-4.
 
-<span id="fn_114"></span>[30:1](pch13.htm#fr_114) "To control a deity by
+<span id="fn_114"></span>[30:1](pch13.htm#fr_114.md) "To control a deity by
 means other than prayer and good life is anti-theistic" (Jevons, Introd.
 to Holland's trans. of Plutarch's *Romane Questions*, 1892, p. xxix).
 
-<span id="fn_115"></span>[30:2](pch13.htm#fr_115) Paul Kollmann, *The
+<span id="fn_115"></span>[30:2](pch13.htm#fr_115.md) Paul Kollmann, *The
 Victoria Nyanza*, 1899, p. 168.
 
-<span id="fn_116"></span>[30:3](pch13.htm#fr_116) Cp. A. D. White,
+<span id="fn_116"></span>[30:3](pch13.htm#fr_116.md) Cp. A. D. White,
 *Hist. of the Warfare of Science with Theology*, 1897, ii, 26-28 and
 refs. Lea, *Hist. of the Inquisition*, 1888, iii, 395. 410, and refs.;
 Arnobius, *Adv. Gentes*, i, 48 Augustine, *De Civ. Dei*, xxii, 8; Tract.
 7 in Johann., § 12; Clementine Homilies, ii, 12; E. T. Wittington,
 *Medical History*, 1894, pp. 121-2.
 
-<span id="fn_117"></span>[30:4](pch13.htm#fr_117) Eusebius,
+<span id="fn_117"></span>[30:4](pch13.htm#fr_117.md) Eusebius,
 *Ecclesiastical History*, vi, 43; Clemens Romanus, *De Virginitate*, Ep.
 ii, 12 Origen, *Against Celsus*, vii, 67; Tertullian, *Apol*., 23, 40.
 Cp. Lecky, *Hist. of Eur. Morals*, 6th ed. i, 381.
 
-<span id="fn_118"></span>[30:5](pch13.htm#fr_118) Batchelor, *The Ainu
+<span id="fn_118"></span>[30:5](pch13.htm#fr_118.md) Batchelor, *The Ainu
 of Japan*, 1892, pp. 196-7.
 
-<span id="fn_119"></span>[30:6](pch13.htm#fr_119) *Id*. p. 256.
+<span id="fn_119"></span>[30:6](pch13.htm#fr_119.md) *Id*. p. 256.
 
-<span id="fn_120"></span>[31:1](pch13.htm#fr_120) See below, Part iv, §
+<span id="fn_120"></span>[31:1](pch13.htm#fr_120.md) See below, Part iv, §
 5, as to the intensification and perpetuation of both ordinary and
 sacramental cannibalism and human sacrifice by priesthoods in ancient
 Mexico, Fiji, and New Zealand.
 
-<span id="fn_121"></span>[32:1](pch13.htm#fr_121) Warneck, *Die Religion
+<span id="fn_121"></span>[32:1](pch13.htm#fr_121.md) Warneck, *Die Religion
 der Batak*, 1909, pp. 5, 6.
 
-<span id="fn_122"></span>[32:2](pch13.htm#fr_122) Warneck notes (p. 4)
+<span id="fn_122"></span>[32:2](pch13.htm#fr_122) Warneck notes (p. 4.md)
 that the Hindus in the thirteenth and fourteenth centuries forced Indian
 God-forms on the Bataks in place of others of their own, but has no
 clear theory of the process or the antecedents. He notes again (*ib*.)
@@ -367,16 +367,16 @@ Over-Gods is a survival of an earlier and purer God-idea" (p. 7). It
 seems much more likely, in view of his own narrative, to be a derivation
 from Islam.
 
-<span id="fn_123"></span>[33:1](pch13.htm#fr_123) Pp. 389, 393-4, 397,
+<span id="fn_123"></span>[33:1](pch13.htm#fr_123.md) Pp. 389, 393-4, 397,
 405.
 
-<span id="fn_124"></span>[33:2](pch13.htm#fr_124) For an emphatic
+<span id="fn_124"></span>[33:2](pch13.htm#fr_124.md) For an emphatic
 contradiction of such a view see Mr. Lester Ward's *Outlines of
 Sociology*, 1898, pp. 27-29. I do not find, however, that Mr. Ward's
 doctrine here is in harmony with that laid down by him in Dynamic
 Sociology, i, 11. For a mediatory view see the end of this chapter.
 
-<span id="fn_125"></span>[35:1](pch13.htm#fr_125) I am not here
+<span id="fn_125"></span>[35:1](pch13.htm#fr_125.md) I am not here
 reasoning à priori, but from a knowledge of concrete cases. It is to be
 wished that a scientific study should be made of the processes of
 religious consciousness, familiar and other. But even without that, the
@@ -385,4 +385,4 @@ crudity of Dr. Jevons’s psychological apparatus is sufficiently evident.
 ------------------------------------------------------------------------
 
 [Next: § 10. Dr. Frazer's Sociological Vindication of the
-Sorcerer](pch14)
+Sorcerer](pch14.md)

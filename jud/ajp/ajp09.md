@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](ajp08)  [Next](ajp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](ajp08)  [Next](ajp10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Jewish Proverbs*, by Abraham Cohen, \[1911\], at Intangible
 Textual Heritage
 
@@ -257,4 +257,4 @@ unused.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Rules of Conduct](ajp10)
+[Next: Chapter VI: Rules of Conduct](ajp10.md)

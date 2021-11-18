@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc15)  [Next](crc17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc15)  [Next](crc17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -94,13 +94,13 @@ them with Cuchulainn afterwards.
 
 ### Footnotes
 
-<span id="fn_64"></span>[62:1](crc15.htm#fr_65) Or 'female stealers.'
+<span id="fn_64"></span>[62:1](crc15.htm#fr_65.md) Or 'female stealers.'
 (O'Davoren.)
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Combat of Munremar and Curoi](crc17)
+[Next: The Combat of Munremar and Curoi](crc17.md)
 
 </div>

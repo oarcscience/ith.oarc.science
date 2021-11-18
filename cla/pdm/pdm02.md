@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm01) 
-[Next](pdm03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm01.md) 
+[Next](pdm03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ brought into direct contact with it in the court of the Amphictyons, in
 that assembly of the great initiates, a supreme, arbitrary tribunal,
 which met at Delphi, a mighty centre of justice and concord, in which
 alone Greece recovered her unity in times of heroism and
-abnegation. <span id="fr_0"></span>[1](#fn_0)
+abnegation. <span id="fr_0"></span>[1](#fn_0.md)
 
 And yet Greece in the time of Orpheus; her intellect, an unsullied,
 temple-guarded doctrine; her soul, a plastic religion; and her body, a
@@ -222,7 +222,7 @@ alike.
 
 ### Footnotes
 
-<span id="fn_0"></span>[6:1](pdm02.htm#fr_0) The *Amphictyonic oath* of
+<span id="fn_0"></span>[6:1](pdm02.htm#fr_0.md) The *Amphictyonic oath* of
 the allied peoples gives some idea of the greatness and social might of
 this institution: 'We swear that we will never overthrow Amphictyonic
 towns, never, during either peace or war, prevent them from obtaining
@@ -234,4 +234,4 @@ them and their accomplices."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Years of Travel](pdm03)
+[Next: Chapter II. Years of Travel](pdm03.md)

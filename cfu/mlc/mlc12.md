@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc11)  [Next](mlc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc11)  [Next](mlc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -139,7 +139,7 @@ war. The priests, however, interceded for him, urging that the King had
 come in person to offer the sacrifices, wherefore the God could not
 altogether reject his prayer. So he ordered Ch’ien-li Yen,
 ‘Thousand-*li* Eye,’ and Shun-fêng Erh, ‘Favourable-wind Ear,’  <span
-id="fr_28"></span>[1](#fn_28) to go quickly and ascertain if there were
+id="fr_28"></span>[1](#fn_28.md) to go quickly and ascertain if there were
 not some worthy person who was on the point of being reincarnated into
 this world.
 
@@ -193,7 +193,7 @@ your Majesty by constraining the brigand Wang Che to be guilty of murder
 and robbery. I pray you to take into account their past good works and
 pardon their crime, giving them an opportunity of expiating it by
 causing them all three to be reborn, but of the female sex, in the womb
-of Po Ya the Queen.  <span id="fr_29"></span>[2](#fn_29) In this way
+of Po Ya the Queen.  <span id="fr_29"></span>[2](#fn_29.md) In this way
 they will be able to atone for their crime and save many souls.” Yü
 Huang was pleased to comply, and he ordered the Spirit of the North Pole
 to release the three captives and take their souls to the palace of King
@@ -384,7 +384,7 @@ further promised to observe all the regulations of the nunnery and to
 obey the superiors.
 
 <span id="img_p262"></span> <span align="CENTER"> [![](tn/p262.jpg)  
-Click to enlarge](img/p262.jpg)</span>  
+Click to enlarge](img/p262.jpg.md)</span>  
 Miao Shan Reaches the Nunnery
 
 ## Spiritual Aid
@@ -504,7 +504,7 @@ Shan was radiant with joy. “To-day,” she said, “I leave the world for a
 better life. Hasten to take my life, but beware of mutilating my body.”
 
 <span id="img_p266"></span> <span align="CENTER"> [![](tn/p266.jpg)  
-Click to enlarge](img/p266.jpg)</span>  
+Click to enlarge](img/p266.jpg.md)</span>  
 The Tiger Carries Off Miao Shan.
 
 The King’s warrant arrived, and suddenly the sky became overcast and
@@ -764,7 +764,7 @@ the Dead to see how long this homicidal King had yet to live. P’an Kuan
 turned over the pages of his register, and saw that according to the
 divine ordinances the King’s reign on the throne of Hsing Lin should
 last for twenty years, but that this period had not yet expired.  <span
-id="fr_30"></span>[3](#fn_30) “That which has been decreed is
+id="fr_30"></span>[3](#fn_30.md) “That which has been decreed is
 immutable,” said Yü Huang, “but I will punish him by sending him
 illness.” He called the God of Epidemics, and ordered him to afflict the
 King’s body with ulcers, of a kind which could not be healed except by
@@ -1163,13 +1163,13 @@ canonized group.” <span id="page_288">p. 288</span>
 
 ### Footnotes
 
-<span id="fn_28"></span>[288:1](mlc12.htm#fr_28) See Chapter IV.
+<span id="fn_28"></span>[288:1](mlc12.htm#fr_28.md) See Chapter IV.
 
-<span id="fn_29"></span>[288:2](mlc12.htm#fr_29) This has reference to
+<span id="fn_29"></span>[288:2](mlc12.htm#fr_29.md) This has reference to
 the change of Kuan Yin from the masculine to the feminine gender,
 already mentioned.
 
-<span id="fn_30"></span>[288:3](mlc12.htm#fr_30) There is evidently a
+<span id="fn_30"></span>[288:3](mlc12.htm#fr_30.md) There is evidently a
 mistake here, since the King was twenty when he ascended the throne and
 fifty at the birth of Miao Shan.
 
@@ -1177,6 +1177,6 @@ fifty at the birth of Miao Shan.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Eight Immortals](mlc13)
+[Next: Chapter XI. The Eight Immortals](mlc13.md)
 
 </div>

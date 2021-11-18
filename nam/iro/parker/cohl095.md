@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl094)  [Next](cohl096) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl094)  [Next](cohl096.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ remain forever. Thus it will be with those who forsake religious
 teachings and think more of the things of earth than of the new world
 above. (Having glutted themselves with the things of earth they are
 unable to stand upon the heaven road.)'" <span
-id="fr_78"></span>[1](#fn_78)
+id="fr_78"></span>[1](#fn_78.md)
 
 So they said and he said. Eniaiehuk.
 
@@ -37,7 +37,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_78"></span>[63:1](cohl095.htm#fr_78) Those who gain great
+<span id="fn_78"></span>[63:1](cohl095.htm#fr_78.md) Those who gain great
 riches and lack humility can not stand upon the sky-road nor can they
 walk. The poor and meek only can travel skyward and not even the poor
 unless their ways have been humble and marked with virtue. Thus it is
@@ -46,4 +46,4 @@ to have earth riches and no heaven."
 
 ------------------------------------------------------------------------
 
-[Next: Section 85](cohl096)
+[Next: Section 85](cohl096.md)

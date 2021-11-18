@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit19)  [Next](bit21) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit19)  [Next](bit21.md) 
 
 ------------------------------------------------------------------------
 
@@ -1870,4 +1870,4 @@ of our era. Rafn, as quoted by Holmboe, p. 23.\]
 
 ------------------------------------------------------------------------
 
-[Next: Appendix. Bibliography](bit21)
+[Next: Appendix. Bibliography](bit21.md)

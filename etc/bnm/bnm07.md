@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm06)  [Next](bnm08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm06)  [Next](bnm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ where you will, and you shall always fall upon your feet."
 
 ------------------------------------------------------------------------
 
-[Next: Why The Swallow's Tail Is Forked.](bnm08)
+[Next: Why The Swallow's Tail Is Forked.](bnm08.md)

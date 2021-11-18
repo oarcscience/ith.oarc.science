@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws06)  [Next](cws08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws06)  [Next](cws08.md) 
 
 ------------------------------------------------------------------------
 
 ### No. III
 
-#### CONCERNING THE PROPHECY OF THE IMMACULATE CONCEPTION <span id="fr_49"></span>[1](#fn_49)
+#### CONCERNING THE PROPHECY OF THE IMMACULATE CONCEPTION <span id="fr_49"></span>[1](#fn_49.md)
 
 I STAND upon the seashore. The moon overhead is at the full. A soft and
 warm breath, like that of the summer wind, blows in my face. The aroma
@@ -32,7 +32,7 @@ significance of the Immaculate Conception. For the Immaculate Conception
 is none other than the prophecy of the means whereby the universe shall
 at last be redeemed. Maria--the sea of limitless space--Maria the
 Virgin, born herself immaculate and without spot, of the womb of the
-ages, <span id="fr_50"></span>[1](#fn_50) shall in the fulness of time
+ages, <span id="fr_50"></span>[1](#fn_50.md) shall in the fulness of time
 bring forth the perfect man, who shall redeem the race. He is not one
 man, but ten thousand times ten thousand, the Son of Man, who shall
 overcome the limitations of matter, and the evil which is the result of
@@ -87,7 +87,7 @@ alone.
 
 ### Footnotes
 
-<span id="fn_49"></span>[7:1](cws07.htm#fr_49) This "supreme product of
+<span id="fn_49"></span>[7:1](cws07.htm#fr_49.md) This "supreme product of
 the soul's perception of its own nature and destiny," which proved to be
 "a re-delivery, (accompanied by the interpretation) of the dogma of the
 Immaculate Conception of Maria," was received, and written down under
@@ -99,7 +99,7 @@ one time as a unity, and at another as a plurality--"the US denoting the
 Hierarchy of the Church invisible and celestial" (see *Life of Anna
 Kingsford*, vol. i, pp. 194-197).    S. H. H.
 
-<span id="fn_50"></span>[8:1](cws07.htm#fr_50) The ages, of which the
+<span id="fn_50"></span>[8:1](cws07.htm#fr_50.md) The ages, of which the
 personification is Anna: "Anna is the rolling year, the Time, of which
 is born Maria the soul, the Mother of God" (see No. XLII, "Concerning
 God"). "The soul born of Time (Anna)" (see No. XLVIII (1), "Concerning
@@ -107,4 +107,4 @@ the Christian Mysteries").    S. H. H.
 
 ------------------------------------------------------------------------
 
-[Next: No. IV: Concerning Revelation](cws08)
+[Next: No. IV: Concerning Revelation](cws08.md)

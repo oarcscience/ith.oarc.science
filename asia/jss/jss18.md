@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss17)  [Next](jss19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss17)  [Next](jss19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -589,13 +589,13 @@ the Iron Hero, "that we should have the wedding immediately."
 <span id="img_17600"></span> <span align="CENTER"> [![OUR BURIAT FRIENDS
 IN THE SACRED ISLAND OF OLKHON IN LAKE BAIKAL, SIBERIA&lt;br&gt; The man
 and woman who gave up their house to us](tn/17600.jpg)  
-Click to enlarge](img/17600.jpg)  
+Click to enlarge](img/17600.jpg.md)  
 OUR BURIAT FRIENDS IN THE SACRED ISLAND OF OLKHON IN LAKE BAIKAL,
 SIBERIA  
 The man and woman who gave up their house to us  
 </span>
 
-*Page* [74](jss10.htm#page_74)
+*Page* [74](jss10.htm#page_74.md)
 
  
 
@@ -637,4 +637,4 @@ road, which no person in the world but the bride knew of.
 
 ------------------------------------------------------------------------
 
-[Next: Ashir Bogdo](jss19)
+[Next: Ashir Bogdo](jss19.md)

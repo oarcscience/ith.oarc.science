@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont24)  [Next](ont26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont24)  [Next](ont26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -65,7 +65,7 @@ O-mis-tai-po-kah. Then came White Grass, Natosin, and Mad Wolf,
 
 <span id="img_30300"></span> <span align="CENTER"> [![PROCESSION OF
 PRIESTS AND SACRED WOMEN.](tn/30300.jpg)  
-Click to enlarge](img/30300.jpg)  
+Click to enlarge](img/30300.jpg.md)  
 PROCESSION OF PRIESTS AND SACRED WOMEN.  
 </span>
 
@@ -86,14 +86,14 @@ holding aloft portions of the sacred food, making vows,
 
 <span id="img_30400"></span> <span align="CENTER"> [![PRIESTS AND SACRED
 WOMEN BENEATH THE SUN SHELTER.](tn/30400.jpg)  
-Click to enlarge](img/30400.jpg)  
+Click to enlarge](img/30400.jpg.md)  
 PRIESTS AND SACRED WOMEN BENEATH THE SUN SHELTER.  
 </span>
 
 confessing aloud and praying for their relatives standing beside them.
 
 Awasaki, an old woman, the wife of Painted Wing, came forward with the
-children of Wakes-up-last, <span id="fr_31"></span>[1](#fn_27) her son.
+children of Wakes-up-last, <span id="fr_31"></span>[1](#fn_27.md) her son.
 When the small line was properly formed, Awasaki, raising her voice,
 called upon all to hear. The silence and respectful attention of the
 spectators, the grandmother, and the children by her side, standing
@@ -115,7 +115,7 @@ taken a piece of tongue, broke off and
 
 <span id="img_30500"></span> <span align="CENTER"> [![AWASAKI PRAYING
 FOR HER GRANDCHILDREN.](tn/30500.jpg)  
-Click to enlarge](img/30500.jpg)  
+Click to enlarge](img/30500.jpg.md)  
 AWASAKI PRAYING FOR HER GRANDCHILDREN.  
 </span>
 
@@ -143,7 +143,7 @@ the year before. It
 
 <span id="img_30600"></span> <span align="CENTER"> [![WOMEN MAKING VOWS
 HOLDING UP PIECES OF SACRED TONGUE.](tn/30600.jpg)  
-Click to enlarge](img/30600.jpg)  
+Click to enlarge](img/30600.jpg.md)  
 WOMEN MAKING VOWS HOLDING UP PIECES OF SACRED TONGUE.  
 </span>
 
@@ -181,7 +181,7 @@ WHILE CUTTING HIDE.<br />
 was on the warpath in the north, and fought with a chief of the Crees. I
 killed him and brought his scalp back with me." In this manner Three
 Bears cut as many strips as were needed, "counting a coup" <span
-id="fr_32"></span>[1](#fn_28) before each cutting. Each time his wife
+id="fr_32"></span>[1](#fn_28.md) before each cutting. Each time his wife
 was heard singing, and after he had finished, his relatives arose and
 danced, because their brother had gone through many dangers and had
 returned safely to his people. For. conferring upon him the honour of
@@ -202,7 +202,7 @@ reappeared, dressed in paint and war clothes. They
 
 <span id="img_30800"></span> <span align="CENTER"> [![WARRIORS WITH
 POLES SINGING TRIBAL HYMN.](tn/30800.jpg)  
-Click to enlarge](img/30800.jpg)  
+Click to enlarge](img/30800.jpg.md)  
 WARRIORS WITH POLES SINGING TRIBAL HYMN.  
 </span>
 
@@ -211,7 +211,7 @@ to the clan, or camp to which they belonged. They held aloft long poles
 lashed together near the top, for lifting into place the heavy timbers
 of the Sun-lodge. The camp of Chiefs-all-over was first in line. They
 led off in singing the grand old hymn, "Raising the Pole," <span
-id="fr_33"></span>[1](#fn_29) I given to the Blackfeet by the Sun
+id="fr_33"></span>[1](#fn_29.md) I given to the Blackfeet by the Sun
 through Scarface, and sung by them, in order that
 
 <span id="page_309">p. 309</span>
@@ -227,7 +227,7 @@ Gives-to-the-Sun
 <span id="img_30900"></span> <span align="CENTER"> [![THRONG OF WOMEN
 AND CHILDREN SURROUNDING WARRIORS WHILE RAISING “CENTRE
 POLE.”](tn/30900.jpg)  
-Click to enlarge](img/30900.jpg)  
+Click to enlarge](img/30900.jpg.md)  
 THRONG OF WOMEN AND CHILDREN SURROUNDING WARRIORS WHILE RAISING “CENTRE
 POLE.”  
 </span>
@@ -290,7 +290,7 @@ and the Lord's Supper of the Christian Church.
 
 <span id="img_31100"></span> <span align="CENTER"> [![TRIBAL HYMN,
 “RAISING THE POLE”](tn/31100.jpg)  
-Click to enlarge](img/31100.jpg)  
+Click to enlarge](img/31100.jpg.md)  
 TRIBAL HYMN, “RAISING THE POLE”  
 </span>
 
@@ -298,15 +298,15 @@ TRIBAL HYMN, “RAISING THE POLE”
 
 ### Footnotes
 
-<span id="fn_27"></span>[304:1](ont25.htm#fr_31) See
-[Appendix](ont44.htm#an_504).
+<span id="fn_27"></span>[304:1](ont25.htm#fr_31.md) See
+[Appendix](ont44.htm#an_504.md).
 
-<span id="fn_28"></span>[307:1](ont25.htm#fr_32) See
-[Appendix](ont44.htm#an_307).
+<span id="fn_28"></span>[307:1](ont25.htm#fr_32.md) See
+[Appendix](ont44.htm#an_307.md).
 
-<span id="fn_29"></span>[308:1](ont25.htm#fr_33) Song 8. See [p.
-311](#page_311).
+<span id="fn_29"></span>[308:1](ont25.htm#fr_33.md) Song 8. See [p.
+311](#page_311.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII. Inside the Sun-Lodge](ont26)
+[Next: Chapter XXIII. Inside the Sun-Lodge](ont26.md)

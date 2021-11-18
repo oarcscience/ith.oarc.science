@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico011) 
-[Next](nico013) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico011.md) 
+[Next](nico013.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ goods is, we claim, something prized and divine.
 ------------------------------------------------------------------------
 
 [Next: Chapter 13. Division of the faculties, and resultant division of
-virtue into intellectual and moral](nico013)
+virtue into intellectual and moral](nico013.md)

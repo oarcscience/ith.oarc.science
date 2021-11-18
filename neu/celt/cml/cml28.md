@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml27)  [Next](cml29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml27)  [Next](cml29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ of the definite coherence of the contemporary Gaelic folk-tales quoted
 in a previous chapter as still preserving the myths about Goibniu, Lugh,
 Cian, Manannán, Ethniu, and Balor. Indeed, they have reached such a
 stage of disintegration that they can hardly now survive another
-generation. <span id="fr_521"></span>[1](#fn_521)
+generation. <span id="fr_521"></span>[1](#fn_521.md)
 
 There have been, however, other paths by which the fame of a god might
 descend to a posterity
@@ -47,7 +47,7 @@ early British saintship were not less accommodating. A god whose
 tradition was, too potent to be ignored or extinguished was canonized,
 as a matter of course, by clerics who held as an axiom that "the
 toleration of the cromlech facilitated the reception of the
-Gospel. <span id="fr_522"></span>[1](#fn_522)" Only the most
+Gospel. <span id="fr_522"></span>[1](#fn_522.md)" Only the most
 irreconcilable escaped them--such a one as Gwyn son of Nudd, who, found
 almost useless by Geoffrey and intractable by the monkish writers,
 remains the last survivor of the old gods--dwindled to the proportions
@@ -57,7 +57,7 @@ This part of resistance is perhaps the most dignified; for deities can
 be sadly changed by the caprices of their euhemerizers. Dôn, whom we
 knew as the mother of the heaven gods, seems strangely described as a
 *king* of Lochlin and Dublin, who led the Irish into north Wales in A.D.
-267. <span id="fr_523"></span>[2](#fn_523) More recognizable is *his*
+267. <span id="fr_523"></span>[2](#fn_523.md) More recognizable is *his*
 son Gwydion, who introduced the knowledge of letters into the country of
 his adoption. The dynasty of "King" Dôn, according to a manuscript in
 the collection of Mr. Edward Williams--better known under his bardic
@@ -83,7 +83,7 @@ demolished the prison, but, each time, the Cymri rebuilt it stronger
 than before. At last, however, the bones decayed, and, being spread upon
 the ground, made an excellent manure! "From that time forth" the people
 of the neighbourhood "had astonishing crops of wheat and barley and of
-every other grain for many years". <span id="fr_524"></span>[1](#fn_524)
+every other grain for many years". <span id="fr_524"></span>[1](#fn_524.md)
 
 It is not, however, in these, so to speak, unauthorized narratives that
 we can best refind our British deities, but in the compact, coherent,
@@ -103,7 +103,7 @@ latter-day reader. Its kings succeed one another in plausible sequence,
 but they themselves are too obviously the heroes of popular legend.
 
 A large part of Geoffrey's chronicle--two books <span
-id="fr_525"></span>[1](#fn_525) out of twelve--is, of course, devoted to
+id="fr_525"></span>[1](#fn_525.md) out of twelve--is, of course, devoted to
 Arthur. In it he tells the story of that paladin's conquests, not only
 in his own country, against the Saxons, the Irish, the Scots, and the
 Picts, but over all western Europe. We see the British champion, after
@@ -120,7 +120,7 @@ kinsman Constantine, the son
 <span id="page_375">p. 375</span>
 
 of Cador, Duke of Cornwall, in the five hundred and forty-second year of
-our Lord's incarnation". <span id="fr_526"></span>[1](#fn_526) Upon the
+our Lord's incarnation". <span id="fr_526"></span>[1](#fn_526.md) Upon the
 more personal incidents connected with Arthur, Geoffrey openly professes
 to keep silence, possibly regarding them as not falling within the
 province of his history, but we are told shortly how Mordred took
@@ -139,9 +139,9 @@ Urien, and Arawn. To these three Arthur restored "the rights of their
 ancestors", handing over the semi-sovereignty of Scotland to Augusel,
 giving Urian the government of Murief (Moray), and re-establishing Lot
 "in the consulship of Loudonesia (Lothian), and the other provinces
-belonging to him". <span id="fr_527"></span>[2](#fn_527) Two other
+belonging to him". <span id="fr_527"></span>[2](#fn_527.md) Two other
 rulers subject to him are Gunvasius, King of the Orkneys, and Malvasius,
-King of Iceland, <span id="fr_528"></span>[3](#fn_528) in whom we
+King of Iceland, <span id="fr_528"></span>[3](#fn_528.md) in whom we
 recognize Gwyn,
 
 <span id="page_376">p. 376</span>
@@ -152,11 +152,11 @@ upon his materials that, not content with having connected several of
 these gods with Arthur's period, he further endows them with reigns of
 their own. "Urien" was Arthur's vassal, but "Urianus" was himself King
 of Britain centuries before Arthur was born. <span
-id="fr_529"></span>[1](#fn_529) Lud (that is, Lludd) succeeded his
-father Beli. <span id="fr_530"></span>[2](#fn_530) We hear nothing of
+id="fr_529"></span>[1](#fn_529) Lud (that is, Lludd.md) succeeded his
+father Beli. <span id="fr_530"></span>[2](#fn_530.md) We hear nothing of
 his silver hand, but we learn that he was "famous for the building of
 cities, and for rebuilding the walls of Trinovantum <span
-id="fr_531"></span>[3](#fn_531), which he also surrounded with
+id="fr_531"></span>[3](#fn_531.md), which he also surrounded with
 innumerable towers . . . and though he had many other cities, yet he
 loved this above them all, and resided in it the greater part of the
 year; for which reason it was afterwards called Kaerlud, and by the
@@ -174,13 +174,13 @@ his reputation as a king
 <span id="page_377">p. 377</span>
 
 of Britain. One of the old Welsh romances, <span
-id="fr_532"></span>[1](#fn_532) translated by Lady Charlotte Guest in
+id="fr_532"></span>[1](#fn_532.md) translated by Lady Charlotte Guest in
 her Mabinogion, relates the rebuilding of London by Lludd in almost the
 same words as Geoffrey. The story which these pseudo-historical details
 introduce is, however, an obviously mythological one. It tells us how,
 in the days of Lludd, Britain was oppressed by three plagues. The first
 was the arrival of a strange race of sorcerers called the
-"Coranians", <span id="fr_533"></span>[2](#fn_533) who had three
+"Coranians", <span id="fr_533"></span>[2](#fn_533.md) who had three
 qualities which made them unpopular; they paid their way in "fairy
 money", which, though apparently real, returned afterwards--like the
 shields, horses, and hounds made by Gwydion son of Dôn, to deceive
@@ -292,7 +292,7 @@ the early Welsh legends and poems is the same as Geoffrey's "Cordeilla"
 and Shakespeare's "Cordelia". The great dramatist was ultimately
 indebted to the Celtic mythology for the groundwork of the legend which
 he wove into the tragic story of *King Lear*. "Leir", as Geoffrey calls
-him, <span id="fr_534"></span>[1](#fn_534) was the son of Bladud, who
+him, <span id="fr_534"></span>[1](#fn_534.md) was the son of Bladud, who
 built Caer Badus (Bath), and perished, like Icarus, as the result of an
 accident with a flying-machine of his own invention. Having no sons, but
 three daughters, Gonorilla, Regan, and Cordeilla, he thought in his old
@@ -318,7 +318,7 @@ look how much you have, so much is your value, and so much do I love
 you.'" Her enraged father immediately bestowed his kingdom upon his two
 other daughters, marrying them to the two highest of his nobility,
 Gonorilla to Maglaunus, Duke of Albania <span
-id="fr_535"></span>[1](#fn_535), and Regan to Henuinus, Duke of
+id="fr_535"></span>[1](#fn_535.md), and Regan to Henuinus, Duke of
 Cornwall. To Cordeilla he not only refused a share in his realm, but
 even a dowry. Aganippus, King of the Franks, married her, however, for
 her beauty alone.
@@ -342,7 +342,7 @@ upon the mercy of Cordeilla, and, full
 
 [![LEAR AND CORDELIA&lt;br&gt; From the Picture by Ford Madox
 Brown&lt;br&gt; Annan photo](tn/38200.jpg)  
-Click to enlarge](img/38200.jpg)  
+Click to enlarge](img/38200.jpg.md)  
 LEAR AND CORDELIA  
 From the Picture by Ford Madox Brown  
 Annan photo  
@@ -354,7 +354,7 @@ Annan photo
 of contrition for the way he had treated her, and of misgivings as to
 how he might be received, took ship for Gaul.
 
-Arriving at Karitia <span id="fr_536"></span>[1](#fn_536), he sent a
+Arriving at Karitia <span id="fr_536"></span>[1](#fn_536.md), he sent a
 messenger to his daughter, telling her of his plight and asking for her
 help. Cordeilla sent him money, robes, and a retinue of forty men, and,
 as soon as he was fully equipped with the state suitable to a king, he
@@ -376,7 +376,7 @@ nature is clear enough in the light of the description of the
 underground temple dedicated to Llyr, at once the god of the subaqueous,
 and therefore subterranean, world and a British Dis Pater, connected
 with the origin of things, like the Roman god Janus, with whom he was
-apparently identified. <span id="fr_537"></span>[2](#fn_537)
+apparently identified. <span id="fr_537"></span>[2](#fn_537.md)
 
 <span id="page_384">p. 384</span>
 
@@ -390,7 +390,7 @@ death and the underworld, is opposed to Belinus, god of the sun and
 health. In the original, lost myth, probably they alternately conquered
 and were conquered--a symbol of the alternation of night and day and of
 winter and summer. In Geoffrey's *History* <span
-id="fr_538"></span>[1](#fn_538), they divided Britain, Belinus taking
+id="fr_538"></span>[1](#fn_538.md), they divided Britain, Belinus taking
 "the crown of the island with the dominions of Loegria, Kambria, and
 Cornwall, because, according to the Trojan constitution, the right of
 inheritance would come to him as the elder", while Brennius, as the
@@ -432,10 +432,10 @@ mentioned." He was succeeded by Gurgiunt
 <span id="page_386">p. 386</span>
 
 <span class="contnote">\[paragraph continues\]</span> Brabtruc, <span
-id="fr_539"></span>[1](#fn_539) who, as he was returning by way of the
+id="fr_539"></span>[1](#fn_539.md) who, as he was returning by way of the
 Orkneys from a raid on the Danes, met the ships of Partholon and his
 people as they came from Spain to settle in Ireland. <span
-id="fr_540"></span>[2](#fn_540)
+id="fr_540"></span>[2](#fn_540.md)
 
 Llyr and his children, large as they bulk in mythical history, were
 hardly less illustrious as saints. The family of Llyr Llediath is always
@@ -462,7 +462,7 @@ line of Llyr increases and flourishes.
 <span class="contnote">\[paragraph continues\]</span> Singularly
 inappropriate persons are found in it--Mabon, the Gallo-British Apollo,
 as well as Geraint and others of King Arthur's court. <span
-id="fr_541"></span>[1](#fn_541)
+id="fr_541"></span>[1](#fn_541.md)
 
 It is so quaint a conceit that Christianity should have been, like all
 other things, the gift of the Celtic Hades, that it seems almost a pity
@@ -479,7 +479,7 @@ a Christian pioneer. He remains the grim old god of war and death,
 probably first called him *Bendigeid Vran*, and whose stubborn adherence
 must have been the cause of the not less stubborn efforts of their
 enemies, the Christian clerics, to bring him over to their own side by
-canonization. <span id="fr_542"></span>[2](#fn_542)
+canonization. <span id="fr_542"></span>[2](#fn_542.md)
 
 They had an easier task with Brân's sister, Branwen of the "Fair Bosom".
 Goddesses, indeed, seem to have stood the process better than
@@ -504,40 +504,40 @@ his natural form and temperature; the second, that she should no longer
 desire to be married; and the third, that her intercessions might be
 granted for all true-hearted lovers, so that they should either wed the
 objects of their affection or be cured of their passion. <span
-id="fr_543"></span>[1](#fn_543) From this cause came the virtues of her
+id="fr_543"></span>[1](#fn_543.md) From this cause came the virtues of her
 shrine and fountain. But the modern generation no longer flocks there,
 and the efficacious well is choked with sand. None the less, she whom
 the Welsh bards called the "Saint of Love" <span
-id="fr_544"></span>[2](#fn_544) still has her occasional votaries.
+id="fr_544"></span>[2](#fn_544.md) still has her occasional votaries.
 Country girls of the
 
 <span id="page_389">p. 389</span>
 
 neighbourhood seek her help when all else fails. The water nearest to
 the church is thought to be the best substitute for the now dry and
-ruined original well. <span id="fr_545"></span>[1](#fn_545)
+ruined original well. <span id="fr_545"></span>[1](#fn_545.md)
 
 A striking contrast to this easy victory over paganism is the stubborn
 resistance to Christian adoption of Gwyn son of Nudd. It is true that he
 was once enrolled by some monk in the train of the "Blesséd Brân", <span
-id="fr_546"></span>[2](#fn_546) but it was done in so half-hearted a way
+id="fr_546"></span>[2](#fn_546.md) but it was done in so half-hearted a way
 that, even now, one can discern that the writer felt almost ashamed of
 himself. His fame as at least a powerful fairy was too vital to be thus
 tampered with. Even Spenser, though, in his *Faerie Queene*, he calls
 him "the good Sir Guyon . . . in whom great rule of Temp’raunce goodly
-doth appeare", <span id="fr_547"></span>[3](#fn_547) does not attempt to
+doth appeare", <span id="fr_547"></span>[3](#fn_547.md) does not attempt to
 conceal his real nature. It is no man, but
 
         "an Elfin born, of noble state  
 And mickle worship in his native land", <span
-id="fr_548"></span>[4](#fn_548)
+id="fr_548"></span>[4](#fn_548.md)
 
 who sets forth the beauties of that virtue for which the original Celtic
 paradise, with its unfailing ale and rivers of mead and wine, would
 hardly seem to have been the best possible school. Save for Spenser, all
 authorities agree in making Gwyn the determined opponent of things
 Christian. A curious and picturesque legend <span
-id="fr_549"></span>[5](#fn_549) is told of him in connection with St.
+id="fr_549"></span>[5](#fn_549.md) is told of him in connection with St.
 Collen, who was himself the great-grandson of Brân's son, Caradawc. The
 saint, desirous of
 
@@ -588,7 +588,7 @@ had--the *Cwn Annwn*, "dogs of hell", with the white bodies and the red
 ears. We hear more of them in folk-lore than we do of their master,
 though even their tradition is dying out with the spread of newspapers
 and railways. We are not likely to find another Reverend Edmund
-Jones <span id="fr_550"></span>[1](#fn_550) to insist upon belief in
+Jones <span id="fr_550"></span>[1](#fn_550.md) to insist upon belief in
 them, lest, by closing our minds to such manifest witnesses of the
 supernatural world, we should become infidels. Still, we may even now
 find peasants ready to swear that they have heard them sweeping along
@@ -624,12 +624,12 @@ derives his name, through the French *fabliaux*, from Elberich, the
 <span id="page_393">p. 393</span>
 
 dwarf king of the *Niebelungenlied*, <span
-id="fr_551"></span>[1](#fn_551) though his queen, Titania, was probably
+id="fr_551"></span>[1](#fn_551.md) though his queen, Titania, was probably
 named out of Ovid's *Metamorphoses*. <span
-id="fr_552"></span>[2](#fn_552) Puck, another of Shakespeare's fays, is
+id="fr_552"></span>[2](#fn_552.md) Puck, another of Shakespeare's fays, is
 merely the personification of his race, the "pwccas" of Wales, "pookas"
 of Ireland, "poakes" of Worcestershire, and "pixies" of the West of
-England. <span id="fr_553"></span>[3](#fn_553) It is Wales that at the
+England. <span id="fr_553"></span>[3](#fn_553.md) It is Wales that at the
 present time preserves the most numerous and diverse collection of
 fairies. Some of them are beautiful, some hideous; some kindly, some
 malevolent. There are the gentle damsels of the lakes and streams called
@@ -637,7 +637,7 @@ Gwragedd Annwn, and the fierce and cruel mountain fairies known as the
 Gwyllion. There are the household sprites called Bwbachod, like the
 Scotch and English "brownies"; the Coblynau, or gnomes of the mines
 (called "knockers" in Cornwall); and the Ellyllon, or elves, of whom the
-pwccas are a branch. <span id="fr_554"></span>[4](#fn_554) In the North
+pwccas are a branch. <span id="fr_554"></span>[4](#fn_554.md) In the North
 of England the spirits belong more wholly to the lower type. The bogies,
 brownies, killmoulis, redcaps, and their like seem little akin to the
 higher, Aryan-seeming fairies. The Welsh bwbach, too, is described as
@@ -661,7 +661,7 @@ holds the secret of the fairy realm. If a man happens to set his feet on
 it by chance, his eyes are opened, and he can see that which is hidden
 from other men--the fairy country and commonwealth,--but, the moment he
 moves from the enchanted spot, he loses the vision, and he can never
-find the same place again. <span id="fr_555"></span>[1](#fn_555) That
+find the same place again. <span id="fr_555"></span>[1](#fn_555.md) That
 country is upon the sea, and not far from shore; like the Irish paradise
 of which it is the counterpart, it may sometimes be sighted by sailors.
 The "Green Meadows of Enchantment" are still an article of faith among
@@ -681,7 +681,7 @@ in a way that made one
 who watched it feel drowsy. Captain Evans had often heard of the
 tradition of the fairy island from old people, but admitted that he had
 never hoped to see it with his own eyes. <span
-id="fr_556"></span>[1](#fn_556) As with the "Hounds of Annwn" one may
+id="fr_556"></span>[1](#fn_556.md) As with the "Hounds of Annwn" one may
 suspect a quite natural explanation. Mirage is at once common enough and
 rare enough on our coasts to give rise to such a legend, and it must
 have been some such phenomenon as the "Fata Morgana" of Sicily which has
@@ -693,118 +693,118 @@ Ireland or Scotland, or of British Wales.
 
 ### Footnotes
 
-<span id="fn_521"></span>[371:1](cml28.htm#fr_521) See, for example, a
+<span id="fn_521"></span>[371:1](cml28.htm#fr_521.md) See, for example, a
 folk-tale, pp. 117-123 in Rhys's *Celtic Folklore*.
 
-<span id="fn_522"></span>[372:1](cml28.htm#fr_522) Stephens's
+<span id="fn_522"></span>[372:1](cml28.htm#fr_522.md) Stephens's
 Preliminary Dissertation to his translation of Aneurin's *Gododin*.
 
-<span id="fn_523"></span>[372:2](cml28.htm#fr_523) *Iolo MSS.*, p. 471.
+<span id="fn_523"></span>[372:2](cml28.htm#fr_523.md) *Iolo MSS.*, p. 471.
 
-<span id="fn_524"></span>[373:1](cml28.htm#fr_524) *Iolo MSS*., pp.
+<span id="fn_524"></span>[373:1](cml28.htm#fr_524.md) *Iolo MSS*., pp.
 597-600.
 
-<span id="fn_525"></span>[374:1](cml28.htm#fr_525) *Historia Britonum*,
+<span id="fn_525"></span>[374:1](cml28.htm#fr_525.md) *Historia Britonum*,
 Books IX, X, and chaps. I and II of XI.
 
-<span id="fn_526"></span>[375:1](cml28.htm#fr_526) *Historia Britonum*,
+<span id="fn_526"></span>[375:1](cml28.htm#fr_526.md) *Historia Britonum*,
 Book XI, chap. II.
 
-<span id="fn_527"></span>[375:2](cml28.htm#fr_527) *Ibid*., Book IX,
+<span id="fn_527"></span>[375:2](cml28.htm#fr_527.md) *Ibid*., Book IX,
 chap. IX.
 
-<span id="fn_528"></span>[375:3](cml28.htm#fr_528) *Ibid*., Book IX,
+<span id="fn_528"></span>[375:3](cml28.htm#fr_528.md) *Ibid*., Book IX,
 chap. XII. They appear also as Guanius, King of the Huns, and Melga,
 King of the Picts, in Book V, chap. XVI.
 
-<span id="fn_529"></span>[376:1](cml28.htm#fr_529) *Historia Britonum*,
+<span id="fn_529"></span>[376:1](cml28.htm#fr_529.md) *Historia Britonum*,
 Book III, chap. XIX.
 
-<span id="fn_530"></span>[376:2](cml28.htm#fr_530) *Ibid*., Book III,
+<span id="fn_530"></span>[376:2](cml28.htm#fr_530.md) *Ibid*., Book III,
 chap. XX.
 
-<span id="fn_531"></span>[376:3](cml28.htm#fr_531) *I.e.* London, under
+<span id="fn_531"></span>[376:3](cml28.htm#fr_531.md) *I.e.* London, under
 its traditionary earlier name, Troja Nova, given it by Brutus.
 
-<span id="fn_532"></span>[377:1](cml28.htm#fr_532) *The Story of Lludd
+<span id="fn_532"></span>[377:1](cml28.htm#fr_532.md) *The Story of Lludd
 and Llevelys*.
 
-<span id="fn_533"></span>[377:2](cml28.htm#fr_533) The name means
+<span id="fn_533"></span>[377:2](cml28.htm#fr_533.md) The name means
 "dwarfs". Rhys: *Hibbert Lectures*, p. 606.
 
-<span id="fn_534"></span>[381:1](cml28.htm#fr_534) *Historia Britonum*,
+<span id="fn_534"></span>[381:1](cml28.htm#fr_534.md) *Historia Britonum*,
 Book II, chap. X-XIV.
 
-<span id="fn_535"></span>[382:1](cml28.htm#fr_535) Alba, or North
+<span id="fn_535"></span>[382:1](cml28.htm#fr_535.md) Alba, or North
 Britain.
 
-<span id="fn_536"></span>[383:1](cml28.htm#fr_536) Now Calais.
+<span id="fn_536"></span>[383:1](cml28.htm#fr_536.md) Now Calais.
 
-<span id="fn_537"></span>[383:2](cml28.htm#fr_537) Rhys: *Arthurian
+<span id="fn_537"></span>[383:2](cml28.htm#fr_537.md) Rhys: *Arthurian
 Legend*, pp. 131-132.
 
-<span id="fn_538"></span>[384:1](cml28.htm#fr_538) *Historia Britonum*,
+<span id="fn_538"></span>[384:1](cml28.htm#fr_538.md) *Historia Britonum*,
 Book III, chaps. I-X.
 
-<span id="fn_539"></span>[386:1](cml28.htm#fr_539) The same fabulous
+<span id="fn_539"></span>[386:1](cml28.htm#fr_539.md) The same fabulous
 personage, perhaps, as the original of Rabelais' Gargantua, a popular
 Celtic god.
 
-<span id="fn_540"></span>[386:2](cml28.htm#fr_540) *Historia Britonum*,
+<span id="fn_540"></span>[386:2](cml28.htm#fr_540.md) *Historia Britonum*,
 Book III, Chaps. XI-XII.
 
-<span id="fn_541"></span>[387:1](cml28.htm#fr_541) See the *Iolo MSS*.
+<span id="fn_541"></span>[387:1](cml28.htm#fr_541.md) See the *Iolo MSS*.
 The genealogies and families of the saints of the island of Britain.
 Copied by Iolo Morganwg in 1783 from the *Long Book of Thomas Truman of
 Pantlliwydd* in the parish of Llansanor in Glamorgan, p. 515, &c. Also
 see *An Essay on the Welsh Saints* by the Rev, Rice Rees, Sections IV
 and V.
 
-<span id="fn_542"></span>[387:2](cml28.htm#fr_542) Rhys: *Arthurian
+<span id="fn_542"></span>[387:2](cml28.htm#fr_542.md) Rhys: *Arthurian
 Legend*, pp. 261-262.
 
-<span id="fn_543"></span>[388:1](cml28.htm#fr_543) *Iolo MSS*, p. 474.
+<span id="fn_543"></span>[388:1](cml28.htm#fr_543.md) *Iolo MSS*, p. 474.
 
-<span id="fn_544"></span>[388:2](cml28.htm#fr_544) "The Welsh bards call
+<span id="fn_544"></span>[388:2](cml28.htm#fr_544.md) "The Welsh bards call
 Dwynwen the goddess, or saint of love and affection, as the poets
 designate Venus." *Iolo MSS*.
 
-<span id="fn_545"></span>[389:1](cml28.htm#fr_545) Wirt Sikes: *British
+<span id="fn_545"></span>[389:1](cml28.htm#fr_545.md) Wirt Sikes: *British
 Goblins*, p. 350.
 
-<span id="fn_546"></span>[389:2](cml28.htm#fr_546) *Iolo MSS*, p. 523.
+<span id="fn_546"></span>[389:2](cml28.htm#fr_546.md) *Iolo MSS*, p. 523.
 
-<span id="fn_547"></span>[389:3](cml28.htm#fr_547) *The Faerie Queene*,
+<span id="fn_547"></span>[389:3](cml28.htm#fr_547.md) *The Faerie Queene*,
 Prologue to Book II.
 
-<span id="fn_548"></span>[389:4](cml28.htm#fr_548) *Ibid*., Book II,
+<span id="fn_548"></span>[389:4](cml28.htm#fr_548.md) *Ibid*., Book II,
 canto I, verse 6.
 
-<span id="fn_549"></span>[389:5](cml28.htm#fr_549) Published in *Y
+<span id="fn_549"></span>[389:5](cml28.htm#fr_549.md) Published in *Y
 Greal* (London, 1805), and is to be found quoted in Rhys: *Arthurian
 Legend*, pp. 338, 339; also in Sikes: *British Goblins*, pp. 7-8.
 
-<span id="fn_550"></span>[391:1](cml28.htm#fr_550) *A Relation of
+<span id="fn_550"></span>[391:1](cml28.htm#fr_550.md) *A Relation of
 Apparitions of Spirits in the County of Monmouth and the Principality of
 Wales*. Published at Newport, 1813.
 
-<span id="fn_551"></span>[393:1](cml28.htm#fr_551) Thistleton Dyer:
+<span id="fn_551"></span>[393:1](cml28.htm#fr_551.md) Thistleton Dyer:
 *Folklore of Shakespeare*, p. 3.
 
-<span id="fn_552"></span>[393:2](cml28.htm#fr_552) *Ibid*., p. 4.
+<span id="fn_552"></span>[393:2](cml28.htm#fr_552.md) *Ibid*., p. 4.
 
-<span id="fn_553"></span>[393:3](cml28.htm#fr_553) *Ibid*., p. 5.
+<span id="fn_553"></span>[393:3](cml28.htm#fr_553.md) *Ibid*., p. 5.
 
-<span id="fn_554"></span>[393:4](cml28.htm#fr_554) Wirt Sikes: *British
+<span id="fn_554"></span>[393:4](cml28.htm#fr_554.md) Wirt Sikes: *British
 Goblins*, p. 12.
 
-<span id="fn_555"></span>[394:1](cml28.htm#fr_555) *The Brython*, Vol.
+<span id="fn_555"></span>[394:1](cml28.htm#fr_555.md) *The Brython*, Vol.
 I, p. 130.
 
-<span id="fn_556"></span>[395:1](cml28.htm#fr_556) Rhys: *Celtic
+<span id="fn_556"></span>[395:1](cml28.htm#fr_556.md) Rhys: *Celtic
 Folklore*, pp. 171-172.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXV. Survivals of the Celtic Paganism into Modern
-Times](cml29)
+Times](cml29.md)

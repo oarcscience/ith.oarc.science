@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi127)  [Next](mtsi129) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi127)  [Next](mtsi129.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ This is how they tell it.
 
 ------------------------------------------------------------------------
 
-[Next: 36. Rabbit Is Sent With Medicine](mtsi129)
+[Next: 36. Rabbit Is Sent With Medicine](mtsi129.md)

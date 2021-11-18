@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](rph01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](rph01.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,20 +29,20 @@
 <span id="img_front"></span>
 
 [![ADOLPH FRANCK&lt;br&gt; 1809-1893](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 ADOLPH FRANCK  
 1809-1893  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 NOTICE OF ATTRIBUTION  
@@ -56,4 +56,4 @@ printed
 
 ------------------------------------------------------------------------
 
-[Next: Dedication Page](rph01)
+[Next: Dedication Page](rph01.md)

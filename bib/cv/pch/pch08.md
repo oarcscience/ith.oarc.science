@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch07) 
-[Next](pch09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch07.md) 
+[Next](pch09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -27,7 +27,7 @@ specification of the point at which consciousness *begins* to be
 religious, we shall put it impartially in simple animism—the spontaneous
 surmise, seen to be dimly made or makable even by animals, "that not
 only animals and plants, but inanimate things, may possess life." Dr.
-Jevons rightly points out <span id="fr_30"></span>[1](#fn_30) that this
+Jevons rightly points out <span id="fr_30"></span>[1](#fn_30.md) that this
 primary notion "neither proceeds from nor implies nor accounts for
 belief in the *super*natural"; and he goes on to show (developing here
 the doctrine which he ultimately repudiates) how the latter notion would
@@ -48,7 +48,7 @@ resort to magic, the idea of the supernatural has disappeared. His
 proposition is that "the belief in the supernatural was prior to the
 belief in magic, and that the latter, whenever it sprang up, was a
 degradation or relapse in the evolution of religion," <span
-id="fr_31"></span>[2](#fn_31) inasmuch as it assumed man's power to
+id="fr_31"></span>[2](#fn_31.md) inasmuch as it assumed man's power to
 control the forces of Nature by certain stratagems. And as he argues at
 the
 
@@ -87,7 +87,7 @@ imagine that the savage, surrounded by supernatural powers and a prey to
 supernatural terrors, one day conceived the happy idea that he too would
 himself exercise supernatural power—and the thing was done: sorcery was
 invented, and the rest of the evolution of religion follows without
-difficulty. <span id="fr_32"></span>[1](#fn_32)</span>
+difficulty. <span id="fr_32"></span>[1](#fn_32.md)</span>
 
 </div>
 
@@ -108,8 +108,8 @@ intellectual atmosphere
 <span id="page_11">p. 11</span>
 
 which, nevertheless, he declares to be extremely conservative, <span
-id="fr_33"></span>[1](#fn_33) and which is therefore extremely unlikely
-to develop such parodies. <span id="fr_34"></span>[2](#fn_34)
+id="fr_33"></span>[1](#fn_33.md) and which is therefore extremely unlikely
+to develop such parodies. <span id="fr_34"></span>[2](#fn_34.md)
 
 Dr. Jevons’s doctrinal motive, it is pretty clear, is his wish to
 relieve "religion" of the discredit of "magic," even as he finally and
@@ -128,15 +128,15 @@ the issue over that long-established name.
 
 ### Footnotes
 
-<span id="fn_30"></span>[9:1](pch08.htm#fr_30) P. 22.
+<span id="fn_30"></span>[9:1](pch08.htm#fr_30.md) P. 22.
 
-<span id="fn_31"></span>[9:2](pch08.htm#fr_31) P. 25.
+<span id="fn_31"></span>[9:2](pch08.htm#fr_31.md) P. 25.
 
-<span id="fn_32"></span>[10:1](pch08.htm#fr_32) Pp, 35, 36.
+<span id="fn_32"></span>[10:1](pch08.htm#fr_32.md) Pp, 35, 36.
 
-<span id="fn_33"></span>[11:1](pch08.htm#fr_33) p. 36
+<span id="fn_33"></span>[11:1](pch08.htm#fr_33.md) p. 36
 
-<span id="fn_34"></span>[11:2](pch08.htm#fr_34) Dr. Jevons has latterly
+<span id="fn_34"></span>[11:2](pch08.htm#fr_34.md) Dr. Jevons has latterly
 (*Sociological Review*, April, 1908) treated the problem in a very lucid
 essay on "The Definition of Magic," in which he discusses the positions
 of Dr. Frazer, MM. Hubert and Mauss, and Professor Wundt. He sums up,
@@ -149,4 +149,4 @@ ed*.\]
 
 ------------------------------------------------------------------------
 
-[Next: § 5. Dr. Frazer's Definition](pch09)
+[Next: § 5. Dr. Frazer's Definition](pch09.md)

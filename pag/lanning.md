@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index) [Neopaganism index](index)
+[Intangible Textual Heritage](../index) [Neopaganism index](index.md)
 
 # INVESTIGATOR'S GUIDE TO ALLEGATIONS OF "RITUAL" CHILD ABUSE 
 

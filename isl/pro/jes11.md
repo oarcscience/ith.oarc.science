@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes10)  [Next](jes12) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes10)  [Next](jes12.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ upon Him we shall depend.
 
 ------------------------------------------------------------------------
 
-[Next: Bukht Nassar (Nebuchadnezzar)](jes12)
+[Next: Bukht Nassar (Nebuchadnezzar)](jes12.md)

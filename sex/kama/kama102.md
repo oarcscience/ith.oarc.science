@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama101) 
-[Next](kama103) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama101.md) 
+[Next](kama103.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ being preceded by thought of any kind.
 
 #### Objection 2
 
-The Lokayatikas <span id="fr_3"></span>[1](kama101.htm#fn_0) say:
+The Lokayatikas <span id="fr_3"></span>[1](kama101.htm#fn_0.md) say:
 Religious ordinances should not be observed, for they bear a future
 fruit, and at the same time it is also doubtful whether they will bear
 any fruit at all. What foolish person will give away that which is in
@@ -119,7 +119,7 @@ work intentionally for the good of the world.
 
 4th. the existence of this world is effected by the observance of the
 rules respecting the four classes of men and their four stages of
-life. <span id="fr_4"></span>[2](kama101.htm#fn_1)
+life. <span id="fr_4"></span>[2](kama101.htm#fn_1.md)
 
 5th. We see that seed is thrown into the ground with the hope of future
 crops.
@@ -135,7 +135,7 @@ acquired although we strive to get it, while at other times it comes to
 us of itself without any exertion on our part. Everything is therefore
 in the power of destiny, who is the lord of gain and loss, of success
 and defeat, of pleasure and pain. Thus we see that Bali <span
-id="fr_5"></span>[3](kama101.htm#fn_2) was raised to the throne of Indra
+id="fr_5"></span>[3](kama101.htm#fn_2.md) was raised to the throne of Indra
 by destiny, and was also put down by the same power, and it is destiny
 only that call reinstate him.
 
@@ -167,7 +167,7 @@ his kingdom. Indra, too, having violated the chastity of Ahalya, was
 made to suffer for it. In a like manner the mighty Kichaka, who tried to
 seduce Draupadi, and Ravana, who attempted to gain over Sita, were
 punished for their crimes. These and many others fell by reason of their
-pleasures. <span id="fr_6"></span>[4](#fn_6)
+pleasures. <span id="fr_6"></span>[4](#fn_6.md)
 
 #### Answer
 
@@ -192,21 +192,21 @@ two should not be performed.
 
 ### Footnotes
 
-<span id="fn_3"></span>[1](#fr_-1) These were certainly materialists who
+<span id="fn_3"></span>[1](#fr_-1.md) These were certainly materialists who
 seemed to think that a bird in the hand was worth two in the bush.
 
-<span id="fn_4"></span>[2](#fr_-1) Among the Hindoos the four classes of
+<span id="fn_4"></span>[2](#fr_-1.md) Among the Hindoos the four classes of
 men are the Brahmans or priestly class, the Kshutrya or warlike class,
 the Vaishya or agricultural and mercantile class, and the Shoodra or
 menial class. The four stages of life are, the life of a religious
 student, the life of a householder, the life of a hermit, and the life
 of a Sunyasi or devotee.
 
-<span id="fn_5"></span>[3](#fr_-1) Bali was a demon who had conquered
+<span id="fn_5"></span>[3](#fr_-1.md) Bali was a demon who had conquered
 Indra and gained his throne, but was afterwards overcome by Vishnu at
 the time of his fifth incarnation.
 
-<span id="fn_6"></span>[4](kama505.htm#fr_62) Dandakya is said to have
+<span id="fn_6"></span>[4](kama505.htm#fr_62.md) Dandakya is said to have
 abducted from the forest the daughter of a Brahman, named Bhargava, and,
 being cursed by the Brahman, was buried with his kingdom under a shower
 of dust. The place was called after his name the Dandaka forest,
@@ -227,4 +227,4 @@ Vyasa, and the former by Valmiki.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. On the Study of the Sixty-Four Arts](kama103)
+[Next: Chapter III. On the Study of the Sixty-Four Arts](kama103.md)

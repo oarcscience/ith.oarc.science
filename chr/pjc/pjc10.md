@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc09)  [Next](pjc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc09)  [Next](pjc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -83,7 +83,7 @@ there roasted with the three other lambs brought from the Temple.
 
 The Paschal Lambs of the Jews were all immolated in the vestibule of the
 Temple, but in different parts, according as the persons who were to eat
-them were rich, or poor, or Strangers. <span id="fr_5"></span>[1](#fn_5)
+them were rich, or poor, or Strangers. <span id="fr_5"></span>[1](#fn_5.md)
 The Paschal Lamb belonging to Jesus was not immolated in the Temple, but
 everything else was done strictly according to the law. Jesus again
 addressed his disciples, saying that the lamb was but a figure, that he
@@ -209,10 +209,10 @@ look.
 
 ### Footnotes
 
-<span id="fn_5"></span>[78:1](pjc10.htm#fr_5) She here again explained
+<span id="fn_5"></span>[78:1](pjc10.htm#fr_5.md) She here again explained
 the manner in which the families assembled together, and in what
 numbers. But the writer has forgotten her words.
 
 ------------------------------------------------------------------------
 
-[Next: Meditation VII. The Washing of the Feet](pjc11)
+[Next: Meditation VII. The Washing of the Feet](pjc11.md)

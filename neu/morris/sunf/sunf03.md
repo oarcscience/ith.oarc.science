@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf02)  [Next](sunf04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf02)  [Next](sunf04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -183,6 +183,6 @@ last, far and far off from the Dale of the Sundering Flood.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Of Wethermel and the Child Osberne](sunf04)
+[Next: Chapter II. Of Wethermel and the Child Osberne](sunf04.md)
 
 </div>

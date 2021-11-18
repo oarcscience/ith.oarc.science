@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa73)  [Next](psa75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa73)  [Next](psa75.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ fulfil his wishes for him.' Soopuch said, 'How will you be able to do my
 work and banish all pride and passion from your mind? You are a very
 illustrious and mighty Raja; and the service you will have to perform
 for me is of a low, menial kind and severe. O great king! my business is
-to keep watch in a [cemetery](errata.htm#19), and to receive a tax on
+to keep watch in a [cemetery](errata.htm#19.md), and to receive a tax on
 every corpse that comes there, and afterwards to watch and guard my own
 house; if you can do this, I will give the rupees required, and keep you
 in pledge.' The Raja said, 'Well I will serve you for a year; give him
@@ -186,7 +186,7 @@ infernal regions, and even yet, his great renown is being handed down.
 Again the sage Oodwal ate after six months' fasting. On one occasion a
 beggar came to him, when it was his eating time; he did not himself eat
 any food, but gave it to the beggar, and died from excess of the hunger
-[he then](errata.htm#20) endured, and afterwards in consequence of
+[he then](errata.htm#20.md) endured, and afterwards in consequence of
 having given away his food, he went to Vishnù's celestial paradise,
 mounted on a chariot. Again, on one occasion, Raja Indrù went with all
 the gods, and said to Dudheech, 'O great king! we cannot escape now from
@@ -318,4 +318,4 @@ subjects."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXIV](psa75)
+[Next: Chapter LXXIV](psa75.md)

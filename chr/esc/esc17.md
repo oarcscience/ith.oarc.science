@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc16)  [Next](esc18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc16)  [Next](esc18.md) 
 
 ------------------------------------------------------------------------
 
@@ -498,4 +498,4 @@ There's a new heaven and earth for you."</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Lecture XVI. The Parable of the Ten Virgins](esc18)
+[Next: Lecture XVI. The Parable of the Ten Virgins](esc18.md)

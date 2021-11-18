@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,19 +14,19 @@ abortion, particularly religious, from antiquity on.
 
 ------------------------------------------------------------------------
 
-[Preamble](rvw00)  
-[Section I](rvw01)  
-[Section II](rvw02)  
-[Section III](rvw03)  
-[Section IV](rvw04)  
-[Section V](rvw05)  
-[Section VI](rvw06)  
-[Section VII](rvw07)  
-[Section VIII](rvw08)  
-[Section IX](rvw09)  
-[Section X](rvw10)  
-[Section XI](rvw11)  
-[Section XII](rvw12)  
-[Footnotes](rvw13)  
-[Mr. Justice Stewart, concurring.](rvw14)  
-[Mr. Justice Rehnquist, dissenting.](rvw15)  
+[Preamble](rvw00.md)  
+[Section I](rvw01.md)  
+[Section II](rvw02.md)  
+[Section III](rvw03.md)  
+[Section IV](rvw04.md)  
+[Section V](rvw05.md)  
+[Section VI](rvw06.md)  
+[Section VII](rvw07.md)  
+[Section VIII](rvw08.md)  
+[Section IX](rvw09.md)  
+[Section X](rvw10.md)  
+[Section XI](rvw11.md)  
+[Section XII](rvw12.md)  
+[Footnotes](rvw13.md)  
+[Mr. Justice Stewart, concurring.](rvw14.md)  
+[Mr. Justice Rehnquist, dissenting.](rvw15.md)  

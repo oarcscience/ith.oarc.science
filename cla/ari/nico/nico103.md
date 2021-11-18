@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico102) 
-[Next](nico104) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico102.md) 
+[Next](nico104.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ self; but in the sense in which most men are so, he ought not.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9. Why does the happy man need friends?](nico104)
+[Next: Chapter 9. Why does the happy man need friends?](nico104.md)

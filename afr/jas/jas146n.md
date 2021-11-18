@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas145n)  [Next](jas149n)   
- \[[146. The Cumbolo.](jas146)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas145n)  [Next](jas149n.md)   
+ \[[146. The Cumbolo.](jas146.md)\]
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ men. One informant called it dancing "Calimbe."
 
 ------------------------------------------------------------------------
 
-[Next: Note 149. Animal Talk.](jas149n)
+[Next: Note 149. Animal Talk.](jas149n.md)

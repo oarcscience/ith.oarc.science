@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo77)  [Next](sdo79) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo77)  [Next](sdo79.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,4 +187,4 @@ chokecherries are ripe.
 
 ------------------------------------------------------------------------
 
-[Next: How Big-Foot Got His Name](sdo79)
+[Next: How Big-Foot Got His Name](sdo79.md)

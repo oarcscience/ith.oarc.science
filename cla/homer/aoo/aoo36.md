@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo35)  [Next](aoo37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo35)  [Next](aoo37.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ upon them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](aoo37)
+[Next: Chapter XIV](aoo37.md)

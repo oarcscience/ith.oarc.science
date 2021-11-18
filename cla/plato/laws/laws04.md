@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plato](../index)  [Index](index)  [Previous](laws03)  [Next](laws05) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plato](../index)  [Index](index)  [Previous](laws03)  [Next](laws05.md) 
 
 ------------------------------------------------------------------------
 
@@ -783,4 +783,4 @@ you say.
 
 ------------------------------------------------------------------------
 
-[Next: BOOK VI](laws05)
+[Next: BOOK VI](laws05.md)

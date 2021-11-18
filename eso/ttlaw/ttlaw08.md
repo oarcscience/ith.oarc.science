@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](ttlaw07) 
-[Next](ttlaw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](ttlaw07.md) 
+[Next](ttlaw09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -372,7 +372,7 @@ about, but specializations of them--and in this way you will learn much
 that is not to be got out of books, even the best.
 
 I remember many years ago, when I was much younger, asking one of our
-leading water-colour artists, <span id="fr_2"></span>[1](#fn_2) how he
+leading water-colour artists, <span id="fr_2"></span>[1](#fn_2.md) how he
 would recommend
 
 <span id="page_119">p. 119</span>
@@ -663,8 +663,8 @@ substance to things not yet seen" (Heb. xi, 1, R. V.).
 
 ### Footnotes
 
-<span id="fn_2"></span>[318:1](ttlaw08.htm#fr_2) R. W. Allen.
+<span id="fn_2"></span>[318:1](ttlaw08.htm#fr_2.md) R. W. Allen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Death and Immortality](ttlaw09)
+[Next: Chapter VII. Death and Immortality](ttlaw09.md)

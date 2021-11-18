@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt35)  [Next](blt37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt35)  [Next](blt37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -237,7 +237,7 @@ and its replies to the same. In one place, the questioner sings, "Elk,
 what is your bowl (or dish)?" and the elk answers, "*Ok-wi-tok-so-ka*,"
 stone bowl. On this point, Wolf Calf, a very old man, states that in
 early days the Blackfeet sometimes boiled their meat in a stone bowl
-made out of a hard clayey rock. <span id="fr_30"></span>[1](#fn_30)
+made out of a hard clayey rock. <span id="fr_30"></span>[1](#fn_30.md)
 Choosing a fragment of the right size and shape, they would pound it
 with another heavier rock, dealing light blows until a hollow had been
 made in the top. This hollow was made deeper by pounding and grinding;
@@ -434,9 +434,9 @@ number, especially old people, who never eat it.
 
 ### Footnotes
 
-<span id="fn_30"></span>[202:1](blt36.htm#fr_30) See The Blackfoot
-Genesis, [p. 141](blt22.htm#page_141).
+<span id="fn_30"></span>[202:1](blt36.htm#fr_30.md) See The Blackfoot
+Genesis, [p. 141](blt22.htm#page_141.md).
 
 ------------------------------------------------------------------------
 
-[Next: Social Organization](blt37)
+[Next: Social Organization](blt37.md)

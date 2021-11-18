@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb18)  [Next](crfb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb18)  [Next](crfb20.md) 
 
 </div>
 
@@ -128,6 +128,6 @@ last, and heard the voice of the mountain spirit no longer.
 
 ------------------------------------------------------------------------
 
-[Next: The Gold-Bearded Man](crfb20)
+[Next: The Gold-Bearded Man](crfb20.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo68)  [Next](sdo70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo68)  [Next](sdo70.md) 
 
 ------------------------------------------------------------------------
 
@@ -171,4 +171,4 @@ Thus Wohpe came into the home of the Winds.
 
 ------------------------------------------------------------------------
 
-[Next: The Feast by Tate](sdo70)
+[Next: The Feast by Tate](sdo70.md)

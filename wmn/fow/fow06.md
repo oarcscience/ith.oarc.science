@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow05)  [Next](fow07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow05)  [Next](fow07.md) 
 
 ------------------------------------------------------------------------
 
@@ -424,4 +424,4 @@ when "straightened by a frown, it portends a storm."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Woman's Tongue](fow07)
+[Next: Chapter V: Woman's Tongue](fow07.md)

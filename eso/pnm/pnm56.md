@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm55)  [Next](pnm57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm55)  [Next](pnm57.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -69,13 +69,13 @@ him, but he could see all things; and, by the opportunity of which ring,
 he deceived the queen and slew the king, his master, and killed
 whomsoever he thought stood in his way; and in these villainies no one
 could see him; and, at length, by the benefit of this ring he became
-king of Lydia himself. <span id="fr_29"></span>[\*](#fn_29)
+king of Lydia himself. <span id="fr_29"></span>[\*](#fn_29.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_29"></span>[147:\*](pnm56.htm#fr_29) Notwithstanding the
+<span id="fn_29"></span>[147:\*](pnm56.htm#fr_29.md) Notwithstanding the
 many exaggerated accounts like this one of King Gygus, the editor
 desires to give his unqualified assent as to the occult properties of
 specially prepared Magical Rings. When a boy he got a copy of an old
@@ -124,4 +124,4 @@ contains occult force and symbolizes the eternal.
 ------------------------------------------------------------------------
 
 [Next: Chapter XLVIII. Of the Virtue of Places, and What Places Are
-Suitable to Every Star](pnm57)
+Suitable to Every Star](pnm57.md)

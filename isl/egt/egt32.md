@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt31)  [Next](egt33) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt31)  [Next](egt33.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ as *lâ <u>sh</u>ai* is the wisdom of the wine-drinkers.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE NEED OF GOD, AND INDEPENDENCE OF ALL BESIDE HIM.](egt33)
+[Next: ON THE NEED OF GOD, AND INDEPENDENCE OF ALL BESIDE HIM.](egt33.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt07)  [Next](crt09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt07)  [Next](crt09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Intangible Textual Heritage
 <span id="image14"></span><span id="img_image14"></span>
 
 [![THE ADORATION OF THE SHEPHERDS.](tn/image14.jpg)  
-Click to enlarge](img/image14.jpg)  
+Click to enlarge](img/image14.jpg.md)  
   
 
 THE ADORATION OF THE SHEPHERDS.
@@ -66,7 +66,7 @@ to <span id="page_122">p. 122</span> <span id="Page_122"></span>a Gothic
 cathedral, soaring, audacious, reflecting every phase of the popular
 life.
 
-The mediaeval religious drama﻿ [5-1](crt22.htm#Note_5-1)<span
+The mediaeval religious drama﻿ [5-1](crt22.htm#Note_5-1.md)<span
 id="Nanchor_5-1"></span> was a natural development from the Catholic
 liturgy, not an imitation of classical models. The classical drama had
 expired at the break-up of the Roman Empire; its death was due largely,
@@ -125,7 +125,7 @@ following ninth-century trope ascribed to Tutilo of St. Gall:﻿—
 Here followed at once the Introit for the third Mass of Christmas Day,
 “Puer natus est nobis, et filius datus est nobis, &c. (Unto us a child
 is born, unto us a son is given.)” The question and answer were no doubt
-sung by different choirs.﻿ [5-2](crt22.htm#Note_5-2)<span
+sung by different choirs.﻿ [5-2](crt22.htm#Note_5-2.md)<span
 id="Nanchor_5-2"></span>
 
 One can well imagine that this might develop into a regular little
@@ -165,7 +165,7 @@ a St. Gall manuscript:﻿—
 > canite, omnes, cum Propheta dicentes: Puer natus est! (Alleluia,
 > alleluia. Now we know indeed that Christ is born on earth, of whom
 > sing ye all, saying with the Prophet: Unto us a child is
-> born.)”﻿ [5-3](crt22.htm#Note_5-3)<span id="Nanchor_5-3"></span>
+> born.)”﻿ [5-3](crt22.htm#Note_5-3.md)<span id="Nanchor_5-3"></span>
 
 The dramatic character of this is very marked. A comparison with later
 liturgical plays suggests that the two deacons in their broad vestments
@@ -192,7 +192,7 @@ priests﻿—the midwives﻿—awaited them. These addressed to the shepherds
 the question “Whom seek ye in the manger?” and then came the rest of the
 “Quem quaeritis” which we already know, a hymn to the Virgin being sung
 while the shepherds adored the Infant. Mass followed immediately, the
-little drama being merely a prelude.﻿ [5-4](crt22.htm#Note_5-4)<span
+little drama being merely a prelude.﻿ [5-4](crt22.htm#Note_5-4.md)<span
 id="Nanchor_5-4"></span>
 
 More important than this Office of the Shepherds is an Epiphany play
@@ -204,7 +204,7 @@ custom for Christian kings to present gold, frankincense, and myrrh at
 the Epiphany﻿—the offering is still made by proxy at the Chapel Royal,
 St. James's﻿—and Mr. Chambers takes “the play to have served as a
 substitute for this ceremony, when no king actually regnant was
-present.”﻿ [5-5](crt22.htm#Note_5-5)<span id="Nanchor_5-5"></span> Its
+present.”﻿ [5-5](crt22.htm#Note_5-5.md)<span id="Nanchor_5-5"></span> Its
 most essential features were the appearance of the Star of Bethlehem to
 the Magi, and their offering of the mystic gifts. The star, bright with
 candles, hung from the roof of the church, and was sometimes made to
@@ -263,7 +263,7 @@ burial.)”</span>
 The clergy and people then make their offerings, while the Magi fall
 asleep and are warned by an angel to return home another way. This they
 do symbolically by proceeding back to the choir by a side
-aisle.﻿ [5-6](crt22.htm#Note_5-6)<span id="Nanchor_5-6"></span>
+aisle.﻿ [5-6](crt22.htm#Note_5-6.md)<span id="Nanchor_5-6"></span>
 
 In its later forms the Epiphany play includes the appearance of Herod,
 who is destined to fill a very important place in the mediaeval drama.
@@ -284,7 +284,7 @@ In the Laon “Stella” the actual murder of the Innocents was represented,
 the symbolical figure of Rachel weeping over her children being
 introduced. The plaint and consolation of Rachel, it should be noted,
 seem at first to have formed an independent little piece performed
-probably on Holy Innocents’ Day.﻿ [5-7](crt22.htm#Note_5-7)<span
+probably on Holy Innocents’ Day.﻿ [5-7](crt22.htm#Note_5-7.md)<span
 id="Nanchor_5-7"></span> This later coalesced with the “Stella,” as did
 also the play of the shepherds, and, at a still later date, another
 liturgical drama which we must now consider﻿—the “Prophetae.”
@@ -300,7 +300,7 @@ and when chanted in church the parts of the preacher and the prophets
 were possibly distributed among different choristers. In time it
 developed into a regular drama, and more prophets were brought in. It
 was, indeed, the germ of the great Old Testament cycles of the later
-Middle Ages.﻿ [5-8](crt22.htm#Note_5-8)<span id="Nanchor_5-8"></span>
+Middle Ages.﻿ [5-8](crt22.htm#Note_5-8.md)<span id="Nanchor_5-8"></span>
 
 An extension of the “Prophetae” was the Norman or Anglo-Norman play of
 “Adam,” which began with the Fall, continued with Cain and Abel, and
@@ -347,10 +347,10 @@ the Christmas and Epiphany episodes formed but links in an immense chain
 extending from the Creation to the Last Judgment, and representing the
 whole scheme of salvation. It is in these Nativity scenes, however, that
 we have the only English renderings of the Christmas story in
-drama,﻿ [5-9](crt22.htm#Note_5-9)<span id="Nanchor_5-9"></span> and
+drama,﻿ [5-9](crt22.htm#Note_5-9.md)<span id="Nanchor_5-9"></span> and
 though they <span id="page_129">p. 129</span> <span
 id="Page_129"></span>were actually performed not at the winter
-festival﻿ [42](crt24.htm#Footnote_42)<span id="FNanchor_42"></span> but
+festival﻿ [42](crt24.htm#Footnote_42.md)<span id="FNanchor_42"></span> but
 in the summer, they give in so striking a way the feelings, the point of
 view, of our mediaeval forefathers in regard to the Nativity that we are
 justified in dealing with them here at some length.
@@ -396,7 +396,7 @@ inn:﻿—
 <span class="i15">“*Joseph.*  Heyl, wurchepful sere, and good
 day!</span>  
 <span class="i3">A ceteceyn of this cytë ye seme to be;</span>  
-<span class="i2">Of herborwe﻿ [43](crt24.htm#Footnote_43)<span
+<span class="i2">Of herborwe﻿ [43](crt24.htm#Footnote_43.md)<span
 id="FNanchor_43"></span> ffor spowse and me I yow pray,</span>  
 <span class="i3">ffor trewly this woman is fful werë,</span>  
 <span class="i7">And fayn at reste, sere, wold she be;</span>  
@@ -426,9 +426,9 @@ non,</span>
 <div class="stanza">
 
 <span class="i2">Withinne no walle, man, comyst thou nowth,</span>  
-<span class="i3">Be thou onys﻿ [44](crt24.htm#Footnote_44)<span
+<span class="i3">Be thou onys﻿ [44](crt24.htm#Footnote_44.md)<span
 id="FNanchor_44"></span> withinne the cytë gate;</span>  
-<span class="i2">Onethys﻿ [45](crt24.htm#Footnote_45)<span
+<span class="i2">Onethys﻿ [45](crt24.htm#Footnote_45.md)<span
 id="FNanchor_45"></span> in the strete a place may be sowth,</span>  
 <span class="i3">Theron to reste, withowte debate.</span>  
 
@@ -457,7 +457,7 @@ id="FNanchor_45"></span> in the strete a place may be sowth,</span>
 <span class="i2">*Cives.*  Good man, o word I wyl the sey,</span>  
 <span class="i3">If thou wylt do by the counsel of me;</span>  
 <span class="i2">Yondyr is an hous of
-haras﻿ [46](crt24.htm#Footnote_46)<span id="FNanchor_46"></span> that
+haras﻿ [46](crt24.htm#Footnote_46.md)<span id="FNanchor_46"></span> that
 stant be the wey,</span>  
 <span class="i3">Amonge the bestys herboryd may ye be.<span
 id="page_131">p. 131</span> <span id="Page_131"></span></span>  
@@ -471,7 +471,7 @@ yelde!</span>
 <span class="i3">His sone in my wombe forsothe he is;</span>  
 <span class="i2">He kepe the and thi good be fryth and ffelde!</span>  
 <span class="i3">Go we hens, husbond, for now tyme it
-is.”﻿ [5-11](crt22.htm#Note_5-11)<span id="Nanchor_5-11"></span>
+is.”﻿ [5-11](crt22.htm#Note_5-11.md)<span id="Nanchor_5-11"></span>
 </span>  
 
 </div>
@@ -490,11 +490,11 @@ thus:﻿—
 <span class="i2">Hayle my fadir, and hayle my sone!</span>  
 <span class="i2">Hayle souereyne sege all synnes to sesse!</span>  
 <span class="i2">Hayle God and man in erth to
-wonne!﻿ [47](crt24.htm#Footnote_47)<span
+wonne!﻿ [47](crt24.htm#Footnote_47.md)<span
 id="FNanchor_47"></span></span>  
 <span class="i8">Hayle! thurgh whos myht</span>  
 <span class="i2">All this worlde was first be-gonne,</span>  
-<span class="i8">merkness﻿ [48](crt24.htm#Footnote_48)<span
+<span class="i8">merkness﻿ [48](crt24.htm#Footnote_48.md)<span
 id="FNanchor_48"></span> and light.</span>  
 
 </div>
@@ -530,12 +530,12 @@ kne?</span>
 <span class="i2">*Mary.*    It is my sone, the soth to saye, that is so
 gud</span>  
 <span class="i2">*Joseph.*  Wel is me I bade this day, to se this
-foode!﻿ [49](crt24.htm#Footnote_49)<span
+foode!﻿ [49](crt24.htm#Footnote_49.md)<span
 id="FNanchor_49"></span></span>  
 <span class="i4">Me merueles mekill of this light</span>  
 <span class="i4">That thus-gates shynes in this place,</span>  
 <span class="i4">For suth it is a
-selcouth﻿ [50](crt24.htm#Footnote_50)<span id="FNanchor_50"></span>
+selcouth﻿ [50](crt24.htm#Footnote_50.md)<span id="FNanchor_50"></span>
 sight!<span id="page_132">p. 132</span> <span
 id="Page_132"></span></span>  
 <span class="i2">*Mary.*    This hase he ordand of his grace, my sone so
@@ -554,13 +554,13 @@ ying,</span>
 
 <span class="i2">*Joseph.* Nowe welcome, floure fairest of
 hewe,</span>  
-<span class="i4">I shall the menske﻿ [51](crt24.htm#Footnote_51)<span
+<span class="i4">I shall the menske﻿ [51](crt24.htm#Footnote_51.md)<span
 id="FNanchor_51"></span> with mayne and myght.</span>  
 <span class="i4">Hayle! my maker, hayle Crist Jesu!</span>  
 <span class="i4">Hayle, riall king, roote of all right!</span>  
 <span class="i13">Hayle, saueour.</span>  
 <span class="i4">Hayle, my lorde,
-lemer﻿ [52](crt24.htm#Footnote_52)<span id="FNanchor_52"></span> of
+lemer﻿ [52](crt24.htm#Footnote_52.md)<span id="FNanchor_52"></span> of
 light,</span>  
 <span class="i13">Hayle, blessid floure!</span>  
 
@@ -576,7 +576,7 @@ wynne,</span>
 soo,</span>  
 <span class="i4">Here in this cribbe I myght the lay betwene ther bestis
 two.</span>  
-<span class="i4">And I sall happe﻿ [53](crt24.htm#Footnote_53)<span
+<span class="i4">And I sall happe﻿ [53](crt24.htm#Footnote_53.md)<span
 id="FNanchor_53"></span> the, myn owne dere childe,</span>  
 <span class="i4">With such clothes as we haue here.</span>  
 
@@ -600,7 +600,7 @@ wele,</span>
 <span class="i4">They worshippe hym with myght and mayne;</span>  
 <span class="i4">The wedir is colde, as ye may feele,</span>  
 <span class="i4">To halde hym warme thei are full fayne, with thare
-warme breth.”﻿ [5-12](crt22.htm#Note_5-12)<span
+warme breth.”﻿ [5-12](crt22.htm#Note_5-12.md)<span
 id="Nanchor_5-12"></span> </span>  
 
 </div>
@@ -637,7 +637,7 @@ exclaims:﻿—
 <span class="i15">“Sym, Sym, sickerlye</span>  
 <span class="i2">Heare I see Marye,</span>  
 <span class="i2">And Jesus Christe faste by,</span>  
-<span class="i2">Lapped in haye.”﻿ [5-13](crt22.htm#Note_5-13)<span
+<span class="i2">Lapped in haye.”﻿ [5-13](crt22.htm#Note_5-13.md)<span
 id="Nanchor_5-13"></span> </span>  
 
 </div>
@@ -654,7 +654,7 @@ Joseph is strangely described:﻿—
 <span class="i2">Take heede howe his head is whore,</span>  
 <span class="i2">His beirde is like a buske of breyers,</span>  
 <span class="i2">With a pound of heaire about his mouth and
-more.”﻿ [5-14](crt22.htm#Note_5-14)<span id="Nanchor_5-14"></span>
+more.”﻿ [5-14](crt22.htm#Note_5-14.md)<span id="Nanchor_5-14"></span>
 </span>  
 
 </div>
@@ -705,7 +705,7 @@ a pipe, and a nut-hook. Quaint are the words of the last two givers:﻿—
 thombes,</span>  
 <span class="i2">Because thou hast not pleintie of crombes,</span>  
 <span class="i2">I geve thee heare my
-nutthocke.”﻿ [5-15](crt22.htm#Note_5-15)<span id="Nanchor_5-15"></span>
+nutthocke.”﻿ [5-15](crt22.htm#Note_5-15.md)<span id="Nanchor_5-15"></span>
 </span>  
 
 </div>
@@ -720,7 +720,7 @@ betake himself to an anchorite's hard by, in prayers to “wache and
 wake.”
 
 More famous than this Chester “Pastores” are the two shepherd plays in
-the Towneley cycle.﻿ [5-16](crt22.htm#Note_5-16)<span
+the Towneley cycle.﻿ [5-16](crt22.htm#Note_5-16.md)<span
 id="Nanchor_5-16"></span> The first begins with racy talk, leading to a
 wrangle between two of the shepherds about some imaginary sheep; then a
 third arrives and makes fun of them both; a feast follows, with much
@@ -743,9 +743,9 @@ modern Socialists, of the oppressions of the rich:﻿—
 floore,</span>  
 <span class="i5">As ye ken.<span id="page_135">p. 135</span> <span
 id="Page_135"></span></span>  
-<span class="i3">We ar so hamyd,﻿ [54](crt24.htm#Footnote_54)<span
+<span class="i3">We ar so hamyd,﻿ [54](crt24.htm#Footnote_54.md)<span
 id="FNanchor_54"></span></span>  
-<span class="i3">For-taxed and ramyd,﻿ [55](crt24.htm#Footnote_55)<span
+<span class="i3">For-taxed and ramyd,﻿ [55](crt24.htm#Footnote_55.md)<span
 id="FNanchor_55"></span></span>  
 <span class="i3">We ar mayde hand-tamyd,</span>  
 <span class="i4">With thyse gentlery men.</span>  
@@ -754,12 +754,12 @@ id="FNanchor_55"></span></span>
 
 <div class="stanza">
 
-<span class="i2">Thus thay refe﻿ [56](crt24.htm#Footnote_56)<span
+<span class="i2">Thus thay refe﻿ [56](crt24.htm#Footnote_56.md)<span
 id="FNanchor_56"></span> us our rest, Our Lady theym
-wary!﻿ [57](crt24.htm#Footnote_57)<span
+wary!﻿ [57](crt24.htm#Footnote_57.md)<span
 id="FNanchor_57"></span></span>  
 <span class="i2">These men that ar
-lord-fest,﻿ [58](crt24.htm#Footnote_58)<span id="FNanchor_58"></span>
+lord-fest,﻿ [58](crt24.htm#Footnote_58.md)<span id="FNanchor_58"></span>
 they cause the ploghe tary.”</span>  
 
 </div>
@@ -835,13 +835,13 @@ shepherds until they are tired out and lie down to rest. Then comes the
 <span class="i15">“Ryse, hyrd men heynd! for now is he borne</span>  
 <span class="i2">That shall take fro the feynd that Adam had
 lorne:</span>  
-<span class="i2">That warloo﻿ [59](crt24.htm#Footnote_59)<span
-id="FNanchor_59"></span> to sheynd,﻿ [60](crt24.htm#Footnote_60)<span
+<span class="i2">That warloo﻿ [59](crt24.htm#Footnote_59.md)<span
+id="FNanchor_59"></span> to sheynd,﻿ [60](crt24.htm#Footnote_60.md)<span
 id="FNanchor_60"></span> this nyght is he borne,</span>  
 <span class="i2">God is made youre freynd: now at this morne</span>  
 <span class="i3">He behestys,</span>  
 <span class="i2">At Bedlem go se,</span>  
-<span class="i2">Ther lygys that fre﻿ [61](crt24.htm#Footnote_61)<span
+<span class="i2">Ther lygys that fre﻿ [61](crt24.htm#Footnote_61.md)<span
 id="FNanchor_61"></span></span>  
 <span class="i2">In a cryb fulle poorely,</span>  
 <span class="i3">Betwyx two bestys.”</span>  
@@ -868,20 +868,20 @@ most delightful of Christmas carols:﻿—
 <span class="i3">Hail, yong child!</span>  
 <span class="i2">Hail, maker, as I meene,</span>  
 <span class="i3">Of a maden so milde!</span>  
-<span class="i2">Thou has warëd,﻿ [62](crt24.htm#Footnote_62)<span
+<span class="i2">Thou has warëd,﻿ [62](crt24.htm#Footnote_62.md)<span
 id="FNanchor_62"></span> I weene,</span>  
-<span class="i3">The warlo﻿ [63](crt24.htm#Footnote_63)<span
+<span class="i3">The warlo﻿ [63](crt24.htm#Footnote_63.md)<span
 id="FNanchor_63"></span> so wilde;</span>  
 <span class="i2">The fals giler of
-teen,﻿ [64](crt24.htm#Footnote_64)<span
+teen,﻿ [64](crt24.htm#Footnote_64.md)<span
 id="FNanchor_64"></span></span>  
 <span class="i3">Now goes he begilde.</span>  
-<span class="i4">Lo! he merys,﻿ [65](crt24.htm#Footnote_65)<span
+<span class="i4">Lo! he merys,﻿ [65](crt24.htm#Footnote_65.md)<span
 id="FNanchor_65"></span></span>  
 <span class="i2">Lo! he laghës, my sweting.</span>  
 <span class="i2">A welfare meting!</span>  
 <span class="i2">I have holden my
-heting.﻿ [66](crt24.htm#Footnote_66)<span
+heting.﻿ [66](crt24.htm#Footnote_66.md)<span
 id="FNanchor_66"></span></span>  
 <span class="i2">Have a bob of cherys!</span>  
 
@@ -897,8 +897,8 @@ id="FNanchor_66"></span></span>
 
 <span class="i2">Hail, sufferan Savioure,</span>  
 <span class="i3">For thou has us soght!</span>  
-<span class="i2">Hail, frely﻿ [67](crt24.htm#Footnote_67)<span
-id="FNanchor_67"></span> foyde﻿ [68](crt24.htm#Footnote_68)<span
+<span class="i2">Hail, frely﻿ [67](crt24.htm#Footnote_67.md)<span
+id="FNanchor_67"></span> foyde﻿ [68](crt24.htm#Footnote_68.md)<span
 id="FNanchor_68"></span> and floure,</span>  
 <span class="i3">That all thing has wroght!<span id="page_137">p.
 137</span> <span id="Page_137"></span></span>  
@@ -907,10 +907,10 @@ id="FNanchor_68"></span> and floure,</span>
 <span class="i2">Hail, I kneel and I cowre.</span>  
 <span class="i3">A bird have I broght</span>  
 <span class="i4">To my barne.</span>  
-<span class="i2">Hail, litel tinë mop!﻿ [69](crt24.htm#Footnote_69)<span
+<span class="i2">Hail, litel tinë mop!﻿ [69](crt24.htm#Footnote_69.md)<span
 id="FNanchor_69"></span></span>  
 <span class="i2">Of oure crede thou art
-crop;﻿ [70](crt24.htm#Footnote_70)<span
+crop;﻿ [70](crt24.htm#Footnote_70.md)<span
 id="FNanchor_70"></span></span>  
 <span class="i2">I wold drink on thy cop,</span>  
 <span class="i4">Litel day starne.</span>  
@@ -930,18 +930,18 @@ id="FNanchor_70"></span></span>
 <span class="i2">I pray thee be nere</span>  
 <span class="i3">When that I have nede.</span>  
 <span class="i2">Hail! swete is thy
-chere;﻿ [71](crt24.htm#Footnote_71)<span
+chere;﻿ [71](crt24.htm#Footnote_71.md)<span
 id="FNanchor_71"></span></span>  
 <span class="i3">My hart woldë blede</span>  
 <span class="i2">To see thee sitt here</span>  
 <span class="i3">In so poorë wede,</span>  
 <span class="i4">With no pennys.</span>  
 <span class="i2">Hail! Put forth thy
-dall!﻿ [72](crt24.htm#Footnote_72)<span
+dall!﻿ [72](crt24.htm#Footnote_72.md)<span
 id="FNanchor_72"></span></span>  
 <span class="i2">I bring thee bot a ball;</span>  
 <span class="i2">Have and play thee with all,</span>  
-<span class="i4">And go to the tenis!”﻿ [5-17](crt22.htm#Note_5-17)<span
+<span class="i4">And go to the tenis!”﻿ [5-17](crt22.htm#Note_5-17.md)<span
 id="Nanchor_5-17"></span> </span>  
 
 </div>
@@ -966,7 +966,7 @@ Egypt are treated; but these scenes, though full of colour, are on the
 whole less remarkable than the shepherd and Nativity pieces, and space
 forbids us to dwell upon them. They contain many curious anachronisms,
 as when Herod invokes Mahounde, and talks about his princes, prelates,
-barons, baronets and burgesses.﻿ [73](crt24.htm#Footnote_73)<span
+barons, baronets and burgesses.﻿ [73](crt24.htm#Footnote_73.md)<span
 id="FNanchor_73"></span>
 
 The religious play in England did not long survive the Reformation.
@@ -1145,7 +1145,7 @@ within it. And then the angels in the stable worship the Child Jesus.
 The adoration of the shepherds was shown with many naïve details for the
 delight of the people, and the performance ended with the offering of a
 sacrifice in Rome by the Emperor Octavian to an image of the Blessed
-Virgin.﻿ [5-19](crt22.htm#Note_5-19)<span id="Nanchor_5-19"></span>
+Virgin.﻿ [5-19](crt22.htm#Note_5-19.md)<span id="Nanchor_5-19"></span>
 
 The French playwrights, quite as much as the English, love comic
 shepherd scenes with plenty of eating and drinking and brawling. A
@@ -1163,7 +1163,7 @@ French for his convenience.
 <span id="image15"></span><span id="img_image15"></span>
 
 [![THE SHEPHERDS OF BETHLEHEM.](tn/image15.jpg)  
-Click to enlarge](img/image15.jpg)  
+Click to enlarge](img/image15.jpg.md)  
   
 
 THE SHEPHERDS OF BETHLEHEM.
@@ -1186,7 +1186,7 @@ Divine Intelligence, and Contemplation, which largely rob the plays of
 dramatic effect. There is some true poetry in these pieces, but too much
 theological learning and too little simplicity, and in one place the
 ideas of Calvin seem to show
-themselves.﻿ [5-20](crt22.htm#Note_5-20)<span id="Nanchor_5-20"></span>
+themselves.﻿ [5-20](crt22.htm#Note_5-20.md)<span id="Nanchor_5-20"></span>
 
 The French mystery began to fall into decay about the middle of the
 sixteenth century. It was attacked on every side: by the new poets of
@@ -1196,29 +1196,29 @@ truths of Scripture; and even by the Catholic clergy, who, roused to
 greater strictness by the challenge of Protestantism, found the comic
 elements in the plays offensive and dangerous, and perhaps feared that
 too great familiarity with the Bible as represented in the mysteries
-might lead the people into heresy.﻿ [5-21](crt22.htm#Note_5-21)<span
+might lead the people into heresy.﻿ [5-21](crt22.htm#Note_5-21.md)<span
 id="Nanchor_5-21"></span> Yet we hear occasionally of Christmas dramas
 in France in the seventeenth, eighteenth, and nineteenth centuries. In
 the neighbourhood of Nantes, for instance, a play of the Nativity by
 Claude Macée, hermit, probably written in the seventeenth century, was
 commonly performed in the first half of the
-nineteenth.﻿ [5-22](crt22.htm#Note_5-22)<span id="Nanchor_5-22"></span>
+nineteenth.﻿ [5-22](crt22.htm#Note_5-22.md)<span id="Nanchor_5-22"></span>
 At Clermont the adoration of the shepherds was still performed in 1718,
 and some kind of representation of the scene continued in the diocese of
 Cambrai until 1834, when it was forbidden by the bishop. In the south,
 especially at Marseilles, “pastorals” were played towards the end of the
 nineteenth century; they had, however, largely lost their sacred
 character, and had become a kind of review of the events of the
-year.﻿ [5-23](crt22.htm#Note_5-23)<span id="Nanchor_5-23"></span> At
+year.﻿ [5-23](crt22.htm#Note_5-23.md)<span id="Nanchor_5-23"></span> At
 Dinan, in Brittany, some sort of Herod play was performed, though it was
 dying out, in 1886. It was acted by young men on the Epiphany, and there
 was an “innocent” whose throat they pretended to cut with a wooden
-sword.﻿ [5-24](crt22.htm#Note_5-24)<span id="Nanchor_5-24"></span>
+sword.﻿ [5-24](crt22.htm#Note_5-24.md)<span id="Nanchor_5-24"></span>
 
 <span id="page_142">p. 142</span> <span id="Page_142"></span>An
 interesting summary of a very full Nativity play performed in the
 churches of Upper Gascony on Christmas Eve is given by Countess
-Martinengo-Cesaresco.﻿ [5-25](crt22.htm#Note_5-25)<span
+Martinengo-Cesaresco.﻿ [5-25](crt22.htm#Note_5-25.md)<span
 id="Nanchor_5-25"></span> It ranges from the arrival of Joseph and Mary
 at Bethlehem to the Flight into Egypt and the Murder of the Innocents,
 but perhaps the most interesting parts are the shepherd scenes. After
@@ -1235,7 +1235,7 @@ have already placed a whole sheep before the altar, in a like spirit.”
 The play is not mere dumb-show, but has a full libretto.
 
 A rather similar piece of dramatic ceremonial is described by Barthélemy
-in his edition of Durandus,﻿ [5-26](crt22.htm#Note_5-26)<span
+in his edition of Durandus,﻿ [5-26](crt22.htm#Note_5-26.md)<span
 id="Nanchor_5-26"></span> as customary in the eighteenth century at La
 Villeneuve-en-Chevrie, near Mantes. At the Midnight Mass a *crèche* with
 a wax figure of the Holy Child was placed in the choir, with tapers
@@ -1284,7 +1284,7 @@ visit to the manger, the adoration of the Three Kings, and various Herod
 scenes. Protestant influence was shown by the introduction of Luther's
 “Vom Himmel hoch,” but the general character was very much that of the
 old mysteries, and the dialogue was full of quaint
-naïveté.﻿ [5-27](crt22.htm#Note_5-27)<span id="Nanchor_5-27"></span>
+naïveté.﻿ [5-27](crt22.htm#Note_5-27.md)<span id="Nanchor_5-27"></span>
 
 At Brixlegg, in Tyrol, as late as 1872 a long Christmas play was acted
 under Catholic auspices; some of its dialogue was in <span
@@ -1294,7 +1294,7 @@ speeches of Mary and Joseph﻿—out of respect for these holy
 personages﻿—had been rewritten in the eighteenth century in a very
 stilted and undramatic style. Some simple shepherd plays are said to be
 still presented in the churches of the Saxon
-Erzgebirge.﻿ [5-28](crt22.htm#Note_5-28)<span id="Nanchor_5-28"></span>
+Erzgebirge.﻿ [5-28](crt22.htm#Note_5-28.md)<span id="Nanchor_5-28"></span>
 
 The German language is perhaps richer in real Christmas plays, as
 distinguished from Nativity and Epiphany episodes in great cosmic
@@ -1309,7 +1309,7 @@ yet not without spiritual significance. In cradle-rocking and religious
 dancing at Christmas the instincts of a lusty, kindly race expressed
 themselves, and the same character is shown in the short popular
 Christmas dramas collected by Weinhold and
-others.﻿ [5-29](crt22.htm#Note_5-29)<span id="Nanchor_5-29"></span> Many
+others.﻿ [5-29](crt22.htm#Note_5-29.md)<span id="Nanchor_5-29"></span> Many
 of the little pieces﻿—some are rather duets than plays﻿—were sung or
 acted in church or by the fireside in the nineteenth century, and
 perhaps even now may linger in remote places. They are in dialect, and
@@ -1334,8 +1334,8 @@ wondrous and sudden apparition of the angels:﻿—
 145</span> <span id="Page_145"></span></span>  
 <span class="i2">*R.* I turft das Ding nit noacha thoan,</span>  
 <span class="i6">that mir brechn Hals und
-Boan.”﻿ [74](crt24.htm#Footnote_74)<span
-id="FNanchor_74"></span>﻿ [5-30](crt22.htm#Note_5-30)<span
+Boan.”﻿ [74](crt24.htm#Footnote_74.md)<span
+id="FNanchor_74"></span>﻿ [5-30](crt22.htm#Note_5-30.md)<span
 id="Nanchor_5-30"></span> </span>  
 
 </div>
@@ -1353,8 +1353,8 @@ The cold is keenly brought home to us when they come to the manger:﻿—
 <span class="i2">*R.* Ligst du under kalden Windeln!</span>  
 <span class="i6">Lägts ihm doch a Gwandl oan!</span>  
 <span class="i2">*J.* Machts ihm d'Füess ein,</span>  
-<span class="i6">Hüllts in zue fein!”﻿ [75](crt24.htm#Footnote_75)<span
-id="FNanchor_75"></span>﻿ [5-31](crt22.htm#Note_5-31)<span
+<span class="i6">Hüllts in zue fein!”﻿ [75](crt24.htm#Footnote_75.md)<span
+id="FNanchor_75"></span>﻿ [5-31](crt22.htm#Note_5-31.md)<span
 id="Nanchor_5-31"></span> </span>  
 
 </div>
@@ -1376,8 +1376,8 @@ sein.</span>
 <span class="i2">Weil wir sonsten gar nix han,</span>  
 <span class="i2">Sind wir selber arme Hirten,</span>  
 <span class="i2">Nemts den guten Willen
-an.”﻿ [76](crt24.htm#Footnote_76)<span
-id="FNanchor_76"></span>﻿ [5-32](crt22.htm#Note_5-32)<span
+an.”﻿ [76](crt24.htm#Footnote_76.md)<span
+id="FNanchor_76"></span>﻿ [5-32](crt22.htm#Note_5-32.md)<span
 id="Nanchor_5-32"></span> </span>  
 
 </div>
@@ -1411,8 +1411,8 @@ Liebl,</span>
 <span class="i2">*R.* Wär fein gross bald!</span>  
 <span class="i2">*J.* Kannst in mein Dienst stehen ein,</span>  
 <span class="i6">Wann darzu wirst gross gnue
-sein.”﻿ [77](crt24.htm#Footnote_77)<span
-id="FNanchor_77"></span>﻿ [5-33](crt22.htm#Note_5-33)<span
+sein.”﻿ [77](crt24.htm#Footnote_77.md)<span
+id="FNanchor_77"></span>﻿ [5-33](crt22.htm#Note_5-33.md)<span
 id="Nanchor_5-33"></span> </span>  
 
 </div>
@@ -1424,7 +1424,7 @@ plays of the common folk than the elaborate Christmas dramas of more
 learned German writers, Catholic and Lutheran, who in the sixteenth and
 seventeenth centuries became increasingly stilted and bombastic.
 
-The Italian religious drama﻿ [5-34](crt22.htm#Note_5-34)<span
+The Italian religious drama﻿ [5-34](crt22.htm#Note_5-34.md)<span
 id="Nanchor_5-34"></span> evolved somewhat differently from that of the
 northern countries. The later thirteenth century saw the outbreak of the
 fanaticism of the Flagellants or *Battuti*, vast crowds of people of all
@@ -1435,10 +1435,10 @@ enduring traces in the foundation of lay communities throughout the
 land, continuing in a more sober way the penitential practices of the
 Flagellants. One of their aids to devotion was the singing or reciting
 of vernacular poetry, less formal than the Latin hymns of the liturgy,
-and known as *laude*.﻿ [78](crt24.htm#Footnote_78)<span
+and known as *laude*.﻿ [78](crt24.htm#Footnote_78.md)<span
 id="FNanchor_78"></span> These *laude* developed a more or less dramatic
 form, which gained the name of
-*divozioni*.﻿ [79](crt24.htm#Footnote_79)<span id="FNanchor_79"></span>
+*divozioni*.﻿ [79](crt24.htm#Footnote_79.md)<span id="FNanchor_79"></span>
 They were, perhaps (though not certainly, for there seems to have been
 another tradition derived from the regular liturgical drama), the source
 from which sprang the gorgeously produced *sacre rappresentazioni* of
@@ -1455,7 +1455,7 @@ dramas, but only too often fall into insipidity.
 
 Among the texts given by D'Ancona in his collection of *sacre
 rappresentazioni* is a Tuscan
-“Natività,”﻿ [5-36](crt22.htm#Note_5-36)<span id="Nanchor_5-36"></span>
+“Natività,”﻿ [5-36](crt22.htm#Note_5-36.md)<span id="Nanchor_5-36"></span>
 opening with a pastoral scene resembling those in the northern
 mysteries, but far less vigorous. It cannot compare, for character and
 humour, with the Towneley plays. Still the shepherds, whose names are
@@ -1472,7 +1472,7 @@ take away their thoughts from affairs of state.” It “represented the
 coming of the three Magi Kings from the East, following the star which
 showed the Nativity of Christ, and it was of so great pomp and
 magnificence that it kept the whole city busy for several months in
-arranging and preparing it.”﻿ [5-37](crt22.htm#Note_5-37)<span
+arranging and preparing it.”﻿ [5-37](crt22.htm#Note_5-37.md)<span
 id="Nanchor_5-37"></span>
 
 An earlier record of an Italian pageant of the Magi is this account by
@@ -1499,7 +1499,7 @@ the chronicler Galvano Flamma of what took place at Milan in 1336:﻿—
 > Romana; which also was done. There was so great a concourse of the
 > people and soldiers and ladies and clerics that scarce anything like
 > it was ever beheld. And it was ordered that every year this festal
-> show should be performed.”﻿ [5-38](crt22.htm#Note_5-38)<span
+> show should be performed.”﻿ [5-38](crt22.htm#Note_5-38.md)<span
 > id="Nanchor_5-38"></span>
 
 How suggestive this is of the Magi pictures of the fifteenth century,
@@ -1520,19 +1520,19 @@ I have already alluded to the Spanish “Mystery of the Magi Kings,” a
 mere fragment, but of peculiar interest to the historian of the drama as
 one of the two earliest religious plays in a modern European language.
 Though plays are known to have been performed in Spain at Christmas and
-Easter in the Middle Ages,﻿ [5-39](crt22.htm#Note_5-39)<span
+Easter in the Middle Ages,﻿ [5-39](crt22.htm#Note_5-39.md)<span
 id="Nanchor_5-39"></span> we have no further texts until the very short
 “Representation of the Birth of Our Lord,” by Gómez Manrique, Señor de
 Villazopeque (1412-91), acted at the convent at Calabazanos, of which
 the author's sister was Superior. The characters <span id="page_149">p.
 149</span> <span id="Page_149"></span>introduced are the Virgin, St.
 Joseph, St. Gabriel, St. Michael, St. Raphael, another angel, and three
-shepherds.﻿ [5-40](crt22.htm#Note_5-40)<span id="Nanchor_5-40"></span>
+shepherds.﻿ [5-40](crt22.htm#Note_5-40.md)<span id="Nanchor_5-40"></span>
 
 Touched by the spirit of the Renaissance, and particularly by the
 influence of Virgil, is Juan del Encina of Salamanca (1469-1534), court
 poet to the Duke of Alba, and author of two Christmas
-eclogues.﻿ [5-41](crt22.htm#Note_5-41)<span id="Nanchor_5-41"></span>
+eclogues.﻿ [5-41](crt22.htm#Note_5-41.md)<span id="Nanchor_5-41"></span>
 The first introduces four shepherds who bear the names of the
 Evangelists, Matthew, Mark, Luke, and John, and are curiously mixed
 personages, their words being half what might be expected from the
@@ -1548,7 +1548,7 @@ and they go to adore the Child, taking Him a kid, butter-cakes, eggs,
 and other presents.
 
 Infinitely more ambitious is “The Birth of
-Christ”﻿ [5-42](crt22.htm#Note_5-42)<span id="Nanchor_5-42"></span> by
+Christ”﻿ [5-42](crt22.htm#Note_5-42.md)<span id="Nanchor_5-42"></span> by
 the great Lope de Vega (1562-1635). It opens in Paradise, immediately
 after the Creation, and ends with the adoration of the Three Kings. Full
 of allegorical conceits and personified qualities, it will hardly please
@@ -1592,7 +1592,7 @@ sleeps, has been thus translated by Ticknor:﻿—
 <span class="i2">He slumbers, he slumbers,</span>  
 <span class="i3">O, hush, then, and keep</span>  
 <span class="i2">Your branches all still,</span>  
-<span class="i3">My babe is asleep!”﻿ [5-43](crt22.htm#Note_5-43)<span
+<span class="i3">My babe is asleep!”﻿ [5-43](crt22.htm#Note_5-43.md)<span
 id="Nanchor_5-43"></span> </span>  
 
 </div>
@@ -1616,15 +1616,15 @@ are their names, Lucifero, Satanasso, Belfegor, Belzebù, &c. They not
 only tempt Adam and Eve, but annoy the Virgin and St. Joseph, until an
 angel comes and frightens them away. Two non-Biblical figures are
 introduced, Razzullo and Sarchiapone, who are tempted by devils and
-aided by angels.﻿ [5-44](crt22.htm#Note_5-44)<span
+aided by angels.﻿ [5-44](crt22.htm#Note_5-44.md)<span
 id="Nanchor_5-44"></span> In Sicily too the Christmas play still lingers
-under the name of *Pastorale*.﻿ [5-45](crt22.htm#Note_5-45)<span
+under the name of *Pastorale*.﻿ [5-45](crt22.htm#Note_5-45.md)<span
 id="Nanchor_5-45"></span>
 
 <span id="page_151">p. 151</span> <span id="Page_151"></span>A
 nineteenth-century Spanish survival of the “Stella” is described in
 Fernan Caballero's sketch, “La Noche de
-Navidad.”﻿ [5-46](crt22.htm#Note_5-46)<span id="Nanchor_5-46"></span> At
+Navidad.”﻿ [5-46](crt22.htm#Note_5-46.md)<span id="Nanchor_5-46"></span> At
 the foot of the altar of the village church, according to this account,
 images of the Virgin and St. Joseph were placed, with the Holy Child
 between them, lying on straw. On either side knelt a small boy dressed
@@ -1651,21 +1651,21 @@ lantern in the form of a six-pointed star, made to revolve and lighted
 by candles. There are also a Judas, who bears the purse for the
 collection, and, occasionally, a King Herod. A doggerel rhyme is sung,
 telling the story of the Nativity and offering good
-wishes.﻿ [5-47](crt22.htm#Note_5-47)<span id="Nanchor_5-47"></span> In
+wishes.﻿ [5-47](crt22.htm#Note_5-47.md)<span id="Nanchor_5-47"></span> In
 Norway and Denmark processions of a like character were formerly
-known.﻿ [5-48](crt22.htm#Note_5-48)<span id="Nanchor_5-48"></span>
+known.﻿ [5-48](crt22.htm#Note_5-48.md)<span id="Nanchor_5-48"></span>
 
 In Normandy at Christmas children used to go singing through the village
 streets, carrying a lantern of coloured paper on a long osier
-rod.﻿ [5-49](crt22.htm#Note_5-49)<span id="Nanchor_5-49"></span> At
+rod.﻿ [5-49](crt22.htm#Note_5-49.md)<span id="Nanchor_5-49"></span> At
 Pleudihen in Brittany three young men representing the Magi sang carols
 in the cottages, dressed in their holiday clothes covered with
-ribbons.﻿ [5-50](crt22.htm#Note_5-50)<span id="Nanchor_5-50"></span>
+ribbons.﻿ [5-50](crt22.htm#Note_5-50.md)<span id="Nanchor_5-50"></span>
 
 <span id="page_152">p. 152</span> <span id="Page_152"></span>In England
 there appears to be no trace of the custom, which is however found in
 Germany, Austria, Holland, Italy, Bohemia, Roumania, Poland, and
-Russia.﻿ [5-51](crt22.htm#Note_5-51)<span id="Nanchor_5-51"></span>
+Russia.﻿ [5-51](crt22.htm#Note_5-51.md)<span id="Nanchor_5-51"></span>
 
 In Thuringia a curious carol used to be sung, telling how Herod tried to
 tempt the Wise Men﻿—
@@ -1693,7 +1693,7 @@ But they answer:﻿—
 <span class="i2">We seek a little Child to-day,</span>  
 <span class="i2">A little Child, a mighty King,</span>  
 <span class="i2">Him who created
-everything.’”﻿ [5-52](crt22.htm#Note_5-52)<span
+everything.’”﻿ [5-52](crt22.htm#Note_5-52.md)<span
 id="Nanchor_5-52"></span> </span>  
 
 </div>
@@ -1711,16 +1711,16 @@ man with a white beard and a turban, who twirls a revolving star. A
 remarkable point about the Tyrolese star-singers is that before anything
 is given them they are told to stamp on the snowy fields outside the
 houses, in order to promote the growth of the crops in
-summer.﻿ [5-53](crt22.htm#Note_5-53)<span id="Nanchor_5-53"></span>
+summer.﻿ [5-53](crt22.htm#Note_5-53.md)<span id="Nanchor_5-53"></span>
 
 In Little Russia the “star” is made of pasteboard and has a transparent
 centre with a picture of Christ through which the light of a candle
 shines. One boy carries the star and another twirls the
-points.﻿ [5-54](crt22.htm#Note_5-54)<span id="Nanchor_5-54"></span> In
+points.﻿ [5-54](crt22.htm#Note_5-54.md)<span id="Nanchor_5-54"></span> In
 Roumania it is made of wood and adorned with frills and little bells. A
 representation of the “manger,” illuminated from behind, forms the
 centre, and the star also shows pictures of Adam and Eve and
-angels.﻿ [5-55](crt22.htm#Note_5-55)<span id="Nanchor_5-55"></span>
+angels.﻿ [5-55](crt22.htm#Note_5-55.md)<span id="Nanchor_5-55"></span>
 
 <span id="page_153">p. 153</span> <span id="Page_153"></span>A curious
 traditional drama, in which pagan elements seem to have mingled with the
@@ -1748,7 +1748,7 @@ pity. He gives clever answers to various questions and foretells the
 Christ's future career, at which Herod stabs him. The whole troupe now
 strikes up a tune of reproach to Herod, who falls on his knees in deep
 repentance.” The play is sometimes performed by puppets instead of
-living actors.﻿ [5-56](crt22.htm#Note_5-56)<span
+living actors.﻿ [5-56](crt22.htm#Note_5-56.md)<span
 id="Nanchor_5-56"></span>
 
 Christmas plays performed by puppets are found in other countries too.
@@ -1758,19 +1758,19 @@ Christ or even of modern peasants, a small travelling puppet-theatre,
 gorgeous with tinsel and candles, and something like our ‘Punch and
 Judy’ show. The market-place of Cracow, especially at night, is a very
 pretty spectacle, its sidewalks all lined with these glittering
-Jaselki.”﻿ [5-57](crt22.htm#Note_5-57)<span id="Nanchor_5-57"></span> In
+Jaselki.”﻿ [5-57](crt22.htm#Note_5-57.md)<span id="Nanchor_5-57"></span> In
 Madrid <span id="page_154">p. 154</span> <span id="Page_154"></span>at
 the Epiphany a puppet-play was common, in which the events of the
 Nativity and the Infancy were mimed by wooden
-figures,﻿ [5-58](crt22.htm#Note_5-58)<span id="Nanchor_5-58"></span> and
+figures,﻿ [5-58](crt22.htm#Note_5-58.md)<span id="Nanchor_5-58"></span> and
 in Provence, in the mid-nineteenth century, the Christmas scenes were
-represented in the same way.﻿ [5-59](crt22.htm#Note_5-59)<span
+represented in the same way.﻿ [5-59](crt22.htm#Note_5-59.md)<span
 id="Nanchor_5-59"></span>
 
 Last may be mentioned a curious Mexican mixture of religion and
 amusement, a sort of drama called the “Posadas,” described by Madame
 Calderon de la Barca in her “Life in Mexico”
-(1843).﻿ [5-60](crt22.htm#Note_5-60)<span id="Nanchor_5-60"></span> The
+(1843).﻿ [5-60](crt22.htm#Note_5-60.md)<span id="Nanchor_5-60"></span> The
 custom was based upon the wanderings of the Virgin and St. Joseph in
 Bethlehem in search of repose. For eight days these wanderings of the
 holy pair to the different *posadas* were represented. On Christmas Eve,
@@ -1793,7 +1793,7 @@ singing. The scene within was very pretty: a *nacimiento*.... One of the
 angels held a waxen baby in her arms.... A padre took the baby from the
 angel and placed it in the cradle, and the *posada* was completed. We
 then returned to the drawing-room﻿—angels, shepherds, and all, and
-danced till supper-time.”﻿ [5-60](crt22.htm#Note_5-60) Here the
+danced till supper-time.”﻿ [5-60](crt22.htm#Note_5-60.md) Here the
 religious drama has sunk to little more than a “Society” game.
 
 <div class="illustration">
@@ -1801,7 +1801,7 @@ religious drama has sunk to little more than a “Society” game.
 <span id="image16"></span><span id="img_image16"></span>
 
 [![THE ADORATION OF THE MAGI. MASACCIO](tn/image16.jpg)  
-Click to enlarge](img/image16.jpg)  
+Click to enlarge](img/image16.jpg.md)  
   
 
 THE ADORATION OF THE MAGI. MASACCIO
@@ -1816,4 +1816,4 @@ THE ADORATION OF THE MAGI. MASACCIO
 
 ------------------------------------------------------------------------
 
-[Next: Postscript](crt09)
+[Next: Postscript](crt09.md)

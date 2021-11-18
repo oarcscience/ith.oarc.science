@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla02)  [Next](mla04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla02)  [Next](mla04.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ listened to the song of the stars from the birth of time.
 
 ------------------------------------------------------------------------
 
-[Next: A Legend of the Sacred Bullroarer](mla04)
+[Next: A Legend of the Sacred Bullroarer](mla04.md)

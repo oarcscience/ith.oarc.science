@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Christian
-Articles](../../chr/etc/index)
+Heritage](../../index) [Journals](../index.md) [Christian
+Articles](../../chr/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -58,10 +58,10 @@ Luke.\]</span>
  
 
 1.<span id="page_618_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_618_note_1)
+class="small">1</span></sup>](#page_618_note_1.md)
 
-([Matt. iii. 5](../../bib/kjv/mat.htm#3:5), 7-12; [Luke iii.
-3](../../bib/kjv/luk.htm#3:3), 7-9, 16-17.)
+([Matt. iii. 5](../../bib/kjv/mat.htm#3:5.md), 7-12; [Luke iii.
+3](../../bib/kjv/luk.htm#3:3), 7-9, 16-17..md)
 
    (When from all the region around Jordan John saw many \[or: the
 multitudes\] coming to baptism, he said unto them): O generation of
@@ -84,8 +84,8 @@ the voice from heaven.)
 
 2\.
 
-([Matt. iv. 1](../../bib/kjv/mat.htm#4:1)-11; [Luke iv.
-1](../../bib/kjv/luk.htm#4:1)-13.)
+([Matt. iv. 1](../../bib/kjv/mat.htm#4:1.md)-11; [Luke iv.
+1](../../bib/kjv/luk.htm#4:1)-13..md)
 
    Jesus was led up of the Spirit into the wilderness to be tempted of
 the devil, and when he had fasted forty days and forty nigh he was
@@ -108,8 +108,8 @@ serve. And the devil leaveth him.
 
 3\.
 
-([Matt. v. 1](../../bib/kjv/mat.htm#5:1)-4, 6, 11, 12; [Luke vi.
-17](../../bib/kjv/luk.htm#6:17), 20-23.)
+([Matt. v. 1](../../bib/kjv/mat.htm#5:1.md)-4, 6, 11, 12; [Luke vi.
+17](../../bib/kjv/luk.htm#6:17), 20-23..md)
 
    (. . . multitudes . . . he taught his disciples, saying . . .)
 
@@ -128,8 +128,8 @@ prophets which were before you.
 
 4\.
 
-([Matt. v. 39](../../bib/kjv/mat.htm#5:39)-40; [Luke vi.
-29](../../bib/kjv/luk.htm#6:29).)
+([Matt. v. 39](../../bib/kjv/mat.htm#5:39.md)-40; [Luke vi.
+29](../../bib/kjv/luk.htm#6:29)..md)
 
    Whosoever shall smite thee on the (thy right) cheek turn to him the
 other also; and if any man will sue thee at the law and take away thy
@@ -139,8 +139,8 @@ coat, let him have thy cloke also.
 
 5\.
 
-([Matt. v. 42](../../bib/kjv/mat.htm#5:42); [Luke vi.
-30](../../bib/kjv/luk.htm#6:30).)
+([Matt. v. 42](../../bib/kjv/mat.htm#5:42.md); [Luke vi.
+30](../../bib/kjv/luk.htm#6:30)..md)
 
    Give to him that asketh thee, and from him that would borrow of thee
 turn not thou away.
@@ -149,8 +149,8 @@ turn not thou away.
 
 6\.
 
-([Matt. v. 44](../../bib/kjv/mat.htm#5:44)-48; [Luke vi.
-27](../../bib/kjv/luk.htm#6:27), 28, 35*b*, 32, 33, 36.)
+([Matt. v. 44](../../bib/kjv/mat.htm#5:44.md)-48; [Luke vi.
+27](../../bib/kjv/luk.htm#6:27), 28, 35*b*, 32, 33, 36..md)
 
    I say unto you: Love your enemies and pray for them which persecute
 you, that ye may be the sons of your Father, for he maketh the sun to
@@ -165,8 +165,8 @@ is merciful.
 
 7\.
 
-([Matt. vii. 12](../../bib/kjv/mat.htm#7:12); [Luke vi.
-31](../../bib/kjv/luk.htm#6:31).)
+([Matt. vii. 12](../../bib/kjv/mat.htm#7:12.md); [Luke vi.
+31](../../bib/kjv/luk.htm#6:31)..md)
 
    All things whatsoever ye would that men should do to you, do ye even
 so to them.
@@ -175,8 +175,8 @@ so to them.
 
 8\.
 
-([Matt. vii. 1](../../bib/kjv/mat.htm#7:1)-5; [Luke vi.
-37](../../bib/kjv/luk.htm#6:37), 38, 41, 42.)
+([Matt. vii. 1](../../bib/kjv/mat.htm#7:1.md)-5; [Luke vi.
+37](../../bib/kjv/luk.htm#6:37), 38, 41, 42..md)
 
    Judge not, that ye be not judged; for with what judgment ye judge, ye
 shall be judged; and with what measure ye mete, it shall be measured to
@@ -191,8 +191,8 @@ the mote out of thy brother's eye.
 
 11\.
 
-([Matt. vii. 16](../../bib/kjv/mat.htm#7:16)-18; xii. 33; [Luke vi.
-43](../../bib/kjv/luk.htm#6:43)-44.)
+([Matt. vii. 16](../../bib/kjv/mat.htm#7:16.md)-18; xii. 33; [Luke vi.
+43](../../bib/kjv/luk.htm#6:43)-44..md)
 
    The tree is known by the fruit. Do men gather grapes of thorns, or
 figs of thistles? Even so every good tree bringeth forth good fruit, but
@@ -203,8 +203,8 @@ evil fruit, neither can a corrupt tree bring forth good fruit.
 
 12\.
 
-([Matt. vii. 21](../../bib/kjv/mat.htm#7:21), 24-27; [Luke vi.
-46](../../bib/kjv/luk.htm#6:46)-49.)
+([Matt. vii. 21](../../bib/kjv/mat.htm#7:21.md), 24-27; [Luke vi.
+46](../../bib/kjv/luk.htm#6:46)-49..md)
 
    (Not everyone that saith unto me: Lord, Lord! shall enter into the
 kingdom of God, but he that doeth the will of the Father.) Therefore
@@ -224,8 +224,8 @@ house, and it fell, and great was the fall of it.
 
 9\.
 
-([Matt. xv. 14](../../bib/kjv/mat.htm#15:14); [Luke vi.
-39](../../bib/kjv/luk.htm#6:39).)
+([Matt. xv. 14](../../bib/kjv/mat.htm#15:14.md); [Luke vi.
+39](../../bib/kjv/luk.htm#6:39)..md)
 
    If the blind lead the blind, both shall fall into the ditch.
 
@@ -233,8 +233,8 @@ house, and it fell, and great was the fall of it.
 
 27\.
 
-([Matt. vi. 9](../../bib/kjv/mat.htm#6:9), 11-13; [Luke xi.
-2](../../bib/kjv/luk.htm#11:2)-4.)
+([Matt. vi. 9](../../bib/kjv/mat.htm#6:9.md), 11-13; [Luke xi.
+2](../../bib/kjv/luk.htm#11:2)-4..md)
 
    (Father, give us this day our daily bread, and forgive us our debts,
 as we forgive our debtors, and lead us not into temptation.)
@@ -243,8 +243,8 @@ as we forgive our debtors, and lead us not into temptation.)
 
 28\.
 
-([Matt. vii. 7](../../bib/kjv/mat.htm#7:7)-11; [Luke xi.
-9](../../bib/kjv/luk.htm#11:9)-13.)
+([Matt. vii. 7](../../bib/kjv/mat.htm#7:7.md)-11; [Luke xi.
+9](../../bib/kjv/luk.htm#11:9)-13..md)
 
    Ask, and it shall be given you; seek, and ye shall find; knock, and
 it shall be opened unto you. For every one that asketh receiveth; and he
@@ -259,8 +259,8 @@ him.
 
 31\.
 
-([Matt. v. 15](../../bib/kjv/mat.htm#5:15); [Luke xi.
-33](../../bib/kjv/luk.htm#11:33).)
+([Matt. v. 15](../../bib/kjv/mat.htm#5:15.md); [Luke xi.
+33](../../bib/kjv/luk.htm#11:33)..md)
 
    Men do not light a candle and place it under a bushel, but on
 candlestick; and it giveth light unto all that are in the house.
@@ -269,8 +269,8 @@ candlestick; and it giveth light unto all that are in the house.
 
 32\.
 
-([Matt. vi. 22](../../bib/kjv/mat.htm#6:22), 23; [Luke xii.
-34](../../bib/kjv/luk.htm#12:34)-35.)
+([Matt. vi. 22](../../bib/kjv/mat.htm#6:22.md), 23; [Luke xii.
+34](../../bib/kjv/luk.htm#12:34)-35..md)
 
    The light of the body is the (thine) eye; if therefore thine eye be
 single, thy whole body shall be full of light; but if thine eye be evil,
@@ -282,8 +282,8 @@ whole\]!
 
 35\.
 
-([Matt. vi. 25](../../bib/kjv/mat.htm#6:25)-33; [Luke xii.
-22](../../bib/kjv/luk.htm#12:22)-31.)
+([Matt. vi. 25](../../bib/kjv/mat.htm#6:25.md)-33; [Luke xii.
+22](../../bib/kjv/luk.htm#12:22)-31..md)
 
    Therefore I say unto you: Take no thought for your life, what ye
 shall eat; nor yet for your body, what ye shall put on. Is not the life
@@ -306,8 +306,8 @@ seek ye his kingdom, and all these things shall be added unto you.
 
 36\.
 
-([Matt. vi. 19](../../bib/kjv/mat.htm#6:19)-21; [Luke xii.
-33](../../bib/kjv/luk.htm#12:33)-34.)
+([Matt. vi. 19](../../bib/kjv/mat.htm#6:19.md)-21; [Luke xii.
+33](../../bib/kjv/luk.htm#12:33)-34..md)
 
    Lay not up for yourselves treasures upon earth, where moth and rust
 doth corrupt, and where thieves break through and steal: but lay up for
@@ -319,8 +319,8 @@ corrupt, and where theives do not break through nor steal; for where thy
 
 39\.
 
-([Matt. v. 25](../../bib/kjv/mat.htm#5:25)-26; [Luke xii.
-58](../../bib/kjv/luk.htm#12:58)-59.)
+([Matt. v. 25](../../bib/kjv/mat.htm#5:25.md)-26; [Luke xii.
+58](../../bib/kjv/luk.htm#12:58)-59..md)
 
    Agree with thine adversary quickly, whiles thou art in the way with
 him; lest at any time the adversary deliver thee to the judge and the
@@ -332,8 +332,8 @@ uttermost farthing.
 
 41\.
 
-([Matt. vii. 13](../../bib/kjv/mat.htm#7:13)-14; [Luke xiii.
-24](../../bib/kjv/luk.htm#13:24).)
+([Matt. vii. 13](../../bib/kjv/mat.htm#7:13.md)-14; [Luke xiii.
+24](../../bib/kjv/luk.htm#13:24)..md)
 
    Enter ye in at the strait gate; for wide (is the gate) and broad is
 the way that leadeth to destruction, and many there be which go in
@@ -344,8 +344,8 @@ unto life, and few there be that find it.
 
 47\.
 
-([Matt. v. 13](../../bib/kjv/mat.htm#5:13); [Luke xiv.
-34](../../bib/kjv/luk.htm#14:34)-35.)
+([Matt. v. 13](../../bib/kjv/mat.htm#5:13.md); [Luke xiv.
+34](../../bib/kjv/luk.htm#14:34)-35..md)
 
    Ye are the salt (of the earth); but if the salt have lost its savour,
 wherewith shall it be salted? It is thenceforth good for nothing but to
@@ -357,8 +357,8 @@ be cast out and to be trodden under foot of men.
 
 49\.
 
-([Matt. vi. 24](../../bib/kjv/mat.htm#6:24); [Luke xvi.
-13](../../bib/kjv/luk.htm#16:13).)
+([Matt. vi. 24](../../bib/kjv/mat.htm#6:24.md); [Luke xvi.
+13](../../bib/kjv/luk.htm#16:13)..md)
 
    No man can serve two masters; for either he will hate the one and
 love the other, or else he will hold to the one and despise the other.
@@ -368,8 +368,8 @@ Ye cannot serve God and mammon.
 
 51\.
 
-([Matt. v. 18](../../bib/kjv/mat.htm#5:18); [Luke xvi.
-17](../../bib/kjv/luk.htm#16:17).)
+([Matt. v. 18](../../bib/kjv/mat.htm#5:18.md); [Luke xvi.
+17](../../bib/kjv/luk.htm#16:17)..md)
 
    (Verily I say unto tou): Till heaven and earth pass, one jot or one
 tittle shall in no wise pass from the law.
@@ -378,8 +378,8 @@ tittle shall in no wise pass from the law.
 
 52\.
 
-([Matt. v. 32](../../bib/kjv/mat.htm#5:32); [Luke xvi.
-18](../../bib/kjv/luk.htm#16:18).)
+([Matt. v. 32](../../bib/kjv/mat.htm#5:32.md); [Luke xvi.
+18](../../bib/kjv/luk.htm#16:18)..md)
 
    (I say unto you: Whosoever shall put away his wife causeth her to
 commit adultery, and whosoever shall marry her that is divorced
@@ -389,8 +389,8 @@ committeth adultery.
 
 13\.
 
-([Matt. vii. 28](../../bib/kjv/mat.htm#7:28); viii. 5-10, 13; [Luke vii.
-1](../../bib/kjv/luk.htm#7:1)-10.)
+([Matt. vii. 28](../../bib/kjv/mat.htm#7:28.md); viii. 5-10, 13; [Luke vii.
+1](../../bib/kjv/luk.htm#7:1)-10..md)
 
    He entered into Capernaum, and there came unto him a centurion
 beseeching him and saying: Lord, my servant lieth at home sick of the
@@ -413,8 +413,8 @@ And the servant was healed in the selfsame hour.)
 
 17\.
 
-([Matt. viii. 19](../../bib/kjv/mat.htm#8:19)-22; [Luke ix.
-57](../../bib/kjv/luk.htm#9:57)-60.)
+([Matt. viii. 19](../../bib/kjv/mat.htm#8:19.md)-22; [Luke ix.
+57](../../bib/kjv/luk.htm#9:57)-60..md)
 
    (Someone said to him): I will follow thee whithersoever thou goest;
 and Jesus saith unto him: The foxes have holes, and the birds of the air
@@ -428,8 +428,8 @@ him: Follow me, and let the dead bury their dead.
 
 18\.
 
-([Matt. ix. 37](../../bib/kjv/mat.htm#9:37)-38; [Luke x.
-2](../../bib/kjv/luk.htm#10:2).)
+([Matt. ix. 37](../../bib/kjv/mat.htm#9:37.md)-38; [Luke x.
+2](../../bib/kjv/luk.htm#10:2)..md)
 
    He saith unto them (or: to his disciples): The harvest truly is
 plenteous, but the labourers are few; pray ye therefore the Lord of the
@@ -439,8 +439,8 @@ harvest that he will send forth labourers into his harvest.
 
 16\.
 
-([Matt. x. 7](../../bib/kjv/mat.htm#10:7); [Luke ix.
-2](../../bib/kjv/luk.htm#9:2); x. 9-11.)
+([Matt. x. 7](../../bib/kjv/mat.htm#10:7.md); [Luke ix.
+2](../../bib/kjv/luk.htm#9:2); x. 9-11..md)
 
    As ye go, preach, saying that the kingdom of God is at hand.
 
@@ -448,8 +448,8 @@ harvest that he will send forth labourers into his harvest.
 
 20\.
 
-([Matt. x. 12](../../bib/kjv/mat.htm#10:12)-13; [Luke x.
-4](../../bib/kjv/luk.htm#10:4)-6.)
+([Matt. x. 12](../../bib/kjv/mat.htm#10:12.md)-13; [Luke x.
+4](../../bib/kjv/luk.htm#10:4)-6..md)
 
    (Carry neither purse, nor scrip, nor shoes, and salute no man by the
 way) And when ye come into a house, salute it; and if the house be
@@ -460,8 +460,8 @@ peace return to you.
 
 21\.
 
-([Matt. x. 10](../../bib/kjv/mat.htm#10:10)*b*; [Luke x.
-7](../../bib/kjv/luk.htm#10:7).)
+([Matt. x. 10](../../bib/kjv/mat.htm#10:10.md)*b*; [Luke x.
+7](../../bib/kjv/luk.htm#10:7)..md)
 
    (And in the same house remain, eating and drinking such things as
 they give); for the labourer is worthy of his hire.
@@ -470,8 +470,8 @@ they give); for the labourer is worthy of his hire.
 
 22\.
 
-([Matt. x. 15](../../bib/kjv/mat.htm#10:15); [Luke x.
-8](../../bib/kjv/luk.htm#10:8)-12.)
+([Matt. x. 15](../../bib/kjv/mat.htm#10:15.md); [Luke x.
+8](../../bib/kjv/luk.htm#10:8)-12..md)
 
    ( . . . Into whatsoever city ye enter and they receive you, eat such
 things as are set before you and say unto them: The kingdom; of God is
@@ -486,8 +486,8 @@ day (or: in the day of judgment) than for that city.
 
 19:
 
-([Matt. v. 16](../../bib/kjv/mat.htm#5:16)*a*; [Luke x.
-3](../../bib/kjv/luk.htm#10:3).)
+([Matt. v. 16](../../bib/kjv/mat.htm#5:16.md)*a*; [Luke x.
+3](../../bib/kjv/luk.htm#10:3)..md)
 
    Behold I send you forth as sheep in the midst of wolves.
 
@@ -495,8 +495,8 @@ day (or: in the day of judgment) than for that city.
 
 34*a*.
 
-([Matt. x. 26](../../bib/kjv/mat.htm#10:26)-33; [Luke xii.
-2](../../bib/kjv/luk.htm#12:2)-9.)
+([Matt. x. 26](../../bib/kjv/mat.htm#10:26.md)-33; [Luke xii.
+2](../../bib/kjv/luk.htm#12:2)-9..md)
 
    There is nothing covered that shall not be revealed, and hid that
 shall not be known. What I tell you in darkness that speak ye in <span
@@ -515,8 +515,8 @@ me before men, him will I also deny before the angels of God.
 
 34*b*.
 
-([Matt. xii. 32](../../bib/kjv/mat.htm#12:32); [Luke xii.
-10](../../bib/kjv/luk.htm#12:10).)
+([Matt. xii. 32](../../bib/kjv/mat.htm#12:32.md); [Luke xii.
+10](../../bib/kjv/luk.htm#12:10)..md)
 
    . . . And whosoever speaketh a word against the Son of man, it shall
 be forgiven him; but whosoever speaketh (a word) against the Holy Ghost,
@@ -526,8 +526,8 @@ it shall not be forgiven him.
 
 38\.
 
-([Matt. x. 34](../../bib/kjv/mat.htm#10:34)-36; [Luke xii.
-51](../../bib/kjv/luk.htm#12:51), 53.)
+([Matt. x. 34](../../bib/kjv/mat.htm#10:34.md)-36; [Luke xii.
+51](../../bib/kjv/luk.htm#12:51), 53..md)
 
    Think ye that I came to send peace on earth? I came not to send
 peace, but a sword. For I came to set a man at variance against his
@@ -539,8 +539,8 @@ household.)
 
 45\.
 
-([Matt. x. 37](../../bib/kjv/mat.htm#10:37); [Luke xiv.
-26](../../bib/kjv/luk.htm#14:26).)
+([Matt. x. 37](../../bib/kjv/mat.htm#10:37.md); [Luke xiv.
+26](../../bib/kjv/luk.htm#14:26)..md)
 
    (He that loveth father and mother more than me, is not worthy of me;
 and he that loveth son or daughter more than me, is not worthy of me.)
@@ -549,8 +549,8 @@ and he that loveth son or daughter more than me, is not worthy of me.)
 
 46\.
 
-([Matt. x. 38](../../bib/kjv/mat.htm#10:38); [Luke xiv.
-27](../../bib/kjv/luk.htm#14:27).)
+([Matt. x. 38](../../bib/kjv/mat.htm#10:38.md); [Luke xiv.
+27](../../bib/kjv/luk.htm#14:27)..md)
 
    He that taketh not his cross and followeth after me is not worthy of
 me.
@@ -559,11 +559,11 @@ me.
 
 57\.
 
-([Matt. x. 39](../../bib/kjv/mat.htm#10:39); [Luke xvii.
-33](../../bib/kjv/luk.htm#17:33).)
+([Matt. x. 39](../../bib/kjv/mat.htm#10:39.md); [Luke xvii.
+33](../../bib/kjv/luk.htm#17:33)..md)
 
    He that findeth his soul<span id="page_625_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_625_note_2) shall lose it, and he
+class="small">2</span></sup>](#page_625_note_2.md) shall lose it, and he
 that loseth his soul shall find it.
 
 <span id="page_626">p. 626</span>
@@ -572,8 +572,8 @@ that loseth his soul shall find it.
 
 10\.
 
-([Matt. x. 24](../../bib/kjv/mat.htm#10:24)-25; [Luke vi.
-40](../../bib/kjv/luk.htm#6:40).)
+([Matt. x. 24](../../bib/kjv/mat.htm#10:24.md)-25; [Luke vi.
+40](../../bib/kjv/luk.htm#6:40)..md)
 
    The disciple is not above his master, nor the servant above his lord.
 It is enough for the disciple that he be as his master, and the servant
@@ -583,8 +583,8 @@ as his lord.
 
 \[24.\]
 
-([Matt. x. 40](../../bib/kjv/mat.htm#10:40); [Luke x.
-16](../../bib/kjv/luk.htm#10:16))
+([Matt. x. 40](../../bib/kjv/mat.htm#10:40.md); [Luke x.
+16](../../bib/kjv/luk.htm#10:16).md)
 
    (He that receiveth you receiveth me, and he that receiveth me
 receiveth him that sent me.)
@@ -597,8 +597,8 @@ receiveth him that sent me.)
 
 14\.
 
-([Matt. xi. 2](../../bib/kjv/mat.htm#11:2)-11; [Luke vii.
-18](../../bib/kjv/luk.htm#7:18)-28.)
+([Matt. xi. 2](../../bib/kjv/mat.htm#11:2.md)-11; [Luke vii.
+18](../../bib/kjv/luk.htm#7:18)-28..md)
 
    Now when John had heard in the prison the works of Christ, he sent
 his disciples and said unto him: Art thou he that should come, or do we
@@ -622,8 +622,8 @@ greater than he. . . .
 
 50\.
 
-([Matt. xi. 12](../../bib/kjv/mat.htm#11:12)-13; [Luke xvi.
-16](../../bib/kjv/luk.htm#16:16).)
+([Matt. xi. 12](../../bib/kjv/mat.htm#11:12.md)-13; [Luke xvi.
+16](../../bib/kjv/luk.htm#16:16)..md)
 
    The prophets and the law were until John; since that time the kingdom
 of God suffereth violence, and the violent take it by force (or: From
@@ -634,8 +634,8 @@ prophets and the law prophesied until John) . . .
 
 15\.
 
-([Matt. xi. 16](../../bib/kjv/mat.htm#11:16)-10; [Luke vii.
-31](../../bib/kjv/luk.htm#7:31)-35;)
+([Matt. xi. 16](../../bib/kjv/mat.htm#11:16.md)-10; [Luke vii.
+31](../../bib/kjv/luk.htm#7:31)-35;.md)
 
    Whereunto shall I liken this generation (and to what is it like)? It
 is like unto children sitting in the markets and calling unto their
@@ -650,8 +650,8 @@ sinners! But wisdom is justified of her children.
 
 23\.
 
-([Matt. xi. 21](../../bib/kjv/mat.htm#11:21)-23; [Luke x.
-13](../../bib/kjv/luk.htm#10:13)-15.)
+([Matt. xi. 21](../../bib/kjv/mat.htm#11:21.md)-23; [Luke x.
+13](../../bib/kjv/luk.htm#10:13)-15..md)
 
    Woe unto thee, Chorazin! wo unto thee, Bethsaida! For if the mighty
 works which were done in you had been done in Tyre and Sidon, they would
@@ -660,14 +660,14 @@ shall be more tolerable for Tyre and Sidon (at the day of judgment, or:
 at the judgment) than for you. And thou Capernaum shalt thou have been
 exalted to heaven? To hell shalt thou be cast down!<span
 id="page_627_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_627_note_3)
+class="small">3</span></sup>](#page_627_note_3.md)
 
  
 
 25\.
 
-([Matt. xi. 25](../../bib/kjv/mat.htm#11:25)-27; [Luke x.
-21](../../bib/kjv/luk.htm#10:21)-22.)
+([Matt. xi. 25](../../bib/kjv/mat.htm#11:25.md)-27; [Luke x.
+21](../../bib/kjv/luk.htm#10:21)-22..md)
 
    At that time he said: I thank thee, O Father, Lord of heaven and
 earth, because thou hast hid these things from the wise and prudent, and
@@ -681,8 +681,8 @@ him.
 
 26\.
 
-([Matt. xiii. 16](../../bib/kjv/mat.htm#13:16)-17; [Luke x.
-23](../../bib/kjv/luk.htm#10:23)*b*-24.)
+([Matt. xiii. 16](../../bib/kjv/mat.htm#13:16.md)-17; [Luke x.
+23](../../bib/kjv/luk.htm#10:23)*b*-24..md)
 
    Blessed are your eyes, for they see, and (your) ears, for they hearr;
 (for verily) I say unto you that many prophets (and kings) have desired
@@ -693,8 +693,8 @@ those things which ye hear and have not heard them.
 
 29\.
 
-([Matt. xii. 22](../../bib/kjv/mat.htm#12:22)-23, 25, 27-28, 30, 43-45;
-[Luke xi. 14](../../bib/kjv/luk.htm#11:14), 17, 19, 20, 23-26.)
+([Matt. xii. 22](../../bib/kjv/mat.htm#12:22.md)-23, 25, 27-28, 30, 43-45;
+[Luke xi. 14](../../bib/kjv/luk.htm#11:14), 17, 19, 20, 23-26..md)
 
    (He healed) a dumb man possessed with a devil, (insomuch that) the
 dumb spake and the multitudes (all) were amazed . . . every <span
@@ -715,8 +715,8 @@ that man is worse than the first.
 
 30\.
 
-([Matt. xii. 38](../../bib/kjv/mat.htm#12:38)-39, 41-42; [Luke xi.
-16](../../bib/kjv/luk.htm#11:16), 29-32.)
+([Matt. xii. 38](../../bib/kjv/mat.htm#12:38.md)-39, 41-42; [Luke xi.
+16](../../bib/kjv/luk.htm#11:16), 29-32..md)
 
    We would see a sign from thee. But he said: An evil and adulterous
 generation seeketh after a sign, and there shall no sign be given to it
@@ -733,8 +733,8 @@ greater than Solomon is here.
 
 40\.
 
-([Matt. xiii. 31](../../bib/kjv/mat.htm#13:31)-33; [Luke xiii.
-18](../../bib/kjv/luk.htm#13:18)-21.)
+([Matt. xiii. 31](../../bib/kjv/mat.htm#13:31.md)-33; [Luke xiii.
+18](../../bib/kjv/luk.htm#13:18)-21..md)
 
    (Unto what is the kingdom of God like? and to what shall I liken it?
 It is like to a grain of mustard seed which a man took and sowed in his
@@ -749,8 +749,8 @@ till the whole was leavened.
 
 44\.
 
-([Matt. xxiii. 12](../../bib/kjv/mat.htm#23:12); [Luke xiv.
-11](../../bib/kjv/luk.htm#14:11).)
+([Matt. xxiii. 12](../../bib/kjv/mat.htm#23:12.md); [Luke xiv.
+11](../../bib/kjv/luk.htm#14:11)..md)
 
    Whosoever exalteth himself shall be abased, and he that humbleth
 himself shall be exalted.
@@ -761,8 +761,8 @@ himself shall be exalted.
 
 42\.
 
-([Matt. viii. 11](../../bib/kjv/mat.htm#8:11)-12; [Luke xiii.
-28](../../bib/kjv/luk.htm#13:28)-29.)
+([Matt. viii. 11](../../bib/kjv/mat.htm#8:11.md)-12; [Luke xiii.
+28](../../bib/kjv/luk.htm#13:28)-29..md)
 
    I say unto you: They shall come from the east and from the west, and
 shall sit down with Abraham and Isaac and Jacob in the kingdom of God;
@@ -773,8 +773,8 @@ weeping and gnashing of teeth.
 
 48\.
 
-([Matt. xviii. 12](../../bib/kjv/mat.htm#18:12)-13; [Luke xv.
-4](../../bib/kjv/luk.htm#15:4)-7.)
+([Matt. xviii. 12](../../bib/kjv/mat.htm#18:12.md)-13; [Luke xv.
+4](../../bib/kjv/luk.htm#15:4)-7..md)
 
    How think ye? If a man have an hundred sheep, and one of them be gone
 astray, doth he not leave the ninety and nine upon the mountains, and go
@@ -786,8 +786,8 @@ nine which went not astray.
 
 53\.
 
-([Matt. xviii. 7](../../bib/kjv/mat.htm#18:7); [Luke xvii.
-1](../../bib/kjv/luk.htm#17:1).)
+([Matt. xviii. 7](../../bib/kjv/mat.htm#18:7.md); [Luke xvii.
+1](../../bib/kjv/luk.htm#17:1)..md)
 
    It must needs be that offenses come; but woe to that man by the
 offense cometh.
@@ -796,8 +796,8 @@ offense cometh.
 
 54\.
 
-([Matt. xviii. 15](../../bib/kjv/mat.htm#18:15), 21-22; [Luke xvii.
-3](../../bib/kjv/luk.htm#17:3)-4.)
+([Matt. xviii. 15](../../bib/kjv/mat.htm#18:15.md), 21-22; [Luke xvii.
+3](../../bib/kjv/luk.htm#17:3)-4..md)
 
    If thy brother shall trespass against thee, tell him his fault; if he
 shall hear thee, thou hast gained thy brother . . . How oft shall my
@@ -809,8 +809,8 @@ times seven.
 
 55\.
 
-([Matt. xvii. 20](../../bib/kjv/mat.htm#17:20)*b*; [Luke xvii.
-6](../../bib/kjv/luk.htm#17:6).)
+([Matt. xvii. 20](../../bib/kjv/mat.htm#17:20.md)*b*; [Luke xvii.
+6](../../bib/kjv/luk.htm#17:6)..md)
 
    If ye have faith as a grain of mustard seed, ye shall say unto this
 mountain: Remove from hence to yonder place, and it shall remove.
@@ -819,8 +819,8 @@ mountain: Remove from hence to yonder place, and it shall remove.
 
 33\.
 
-([Matt. xxiii. 4](../../bib/kjv/mat.htm#23:4), 13, 23, 25, 27, 29,
-30-32, 34-36; [Luke xi. 46](../../bib/kjv/luk.htm#11:46), 52, 42, 39,
+([Matt. xxiii. 4](../../bib/kjv/mat.htm#23:4.md), 13, 23, 25, 27, 29,
+30-32, 34-36; [Luke xi. 46](../../bib/kjv/luk.htm#11:46.md), 52, 42, 39,
 44, 47-52.)
 
    . . . They bind heavy burdens and lay them on men's shoulders, and
@@ -839,11 +839,11 @@ mercy.
    Now ye Pharisees! ye make clean the outside of the cup and of the
 platter, but within they are full; of extorsion and excess.
 
-   ([Luke xi. 44](../../bib/kjv/luk.htm#11:44).) Woe unto you, for ye
+   ([Luke xi. 44](../../bib/kjv/luk.htm#11:44)..md) Woe unto you, for ye
 are as sepulchers which appear not, and the men that walk over them are
 not aware of them.
 
-   ([Matt. xxiii. 27](../../bib/kjv/mat.htm#23:27).) (Woe unto you,
+   ([Matt. xxiii. 27](../../bib/kjv/mat.htm#23:27)..md) (Woe unto you,
 Pharisees! for ye are like unto whited sepulchers, which indeed appear
 beautiful outward, but within are full of dead men's bones and of all
 uncleanness.)
@@ -865,8 +865,8 @@ generation.
 
 43\.
 
-([Matt. xxiii. 37](../../bib/kjv/mat.htm#23:37)-39; [Luke xiii.
-34](../../bib/kjv/luk.htm#13:34)-35.)
+([Matt. xxiii. 37](../../bib/kjv/mat.htm#23:37.md)-39; [Luke xiii.
+34](../../bib/kjv/luk.htm#13:34)-35..md)
 
    O Jerusalem! Jerusalem! thou that killest the prophets and stonest
 them which are sent unto thee! How often would I have gathered thy
@@ -879,8 +879,8 @@ when) ye shall say: Blessed is he that cometh in the name of the Lord.
 
 56\.
 
-([Matt. xxiv. 26](../../bib/kjv/mat.htm#24:26)-28, 37-41; [Luke xvii.
-23](../../bib/kjv/luk.htm#17:23)-24, 37, 26-27, 34-35.)
+([Matt. xxiv. 26](../../bib/kjv/mat.htm#24:26.md)-28, 37-41; [Luke xvii.
+23](../../bib/kjv/luk.htm#17:23)-24, 37, 26-27, 34-35..md)
 
    Wherefore if they shall say unto you: Behold, he is in the desert! Go
 ye not forth. Behold, he is in the secret chambers! Believe it not. For
@@ -902,8 +902,8 @@ be grinding at the mill, the one shall be taken and the other left.
 
 37\.
 
-([Matt. xxiv. 43](../../bib/kjv/mat.htm#24:43)-51; [Luke xii.
-39](../../bib/kjv/luk.htm#12:39)-40, 42-46.)
+([Matt. xxiv. 43](../../bib/kjv/mat.htm#24:43.md)-51; [Luke xii.
+39](../../bib/kjv/luk.htm#12:39)-40, 42-46..md)
 
    But know this, that if the goodman of the house had known in what
 watch the thief would come, he would have watched and would not have
@@ -923,8 +923,8 @@ asunder and appoint him his portion with the hypocrites.
 
 58\.
 
-([Matt. xxv. 29](../../bib/kjv/mat.htm#25:29); [Luke xix.
-26](../../bib/kjv/luk.htm#19:26).)
+([Matt. xxv. 29](../../bib/kjv/mat.htm#25:29.md); [Luke xix.
+26](../../bib/kjv/luk.htm#19:26)..md)
 
    Unto him (everyone) that hath shall be given, and he shall have
 abundance; but from him that hath not, shall be taken away even that
@@ -934,8 +934,8 @@ which he hath.
 
 59\.
 
-([Matt. xix. 28](../../bib/kjv/mat.htm#19:28); [Luke xxii.
-28](../../bib/kjv/luk.htm#22:28), 30.)
+([Matt. xix. 28](../../bib/kjv/mat.htm#19:28.md); [Luke xxii.
+28](../../bib/kjv/luk.htm#22:28), 30..md)
 
    Ye who have followed me . . . shall sit upon twelve thrones. judging
 the twelve tribes of Israel.
@@ -945,7 +945,7 @@ in Q.)
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Christian Articles](../../chr/etc/index)
+[Journals](../index) [Christian Articles](../../chr/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -953,18 +953,18 @@ in Q.)
 
 <span id="footnotes_page_618">p. 618</span>
 
-<span id="page_618_note_1"></span>[1](#page_618_fr_1) Passages about
+<span id="page_618_note_1"></span>[1](#page_618_fr_1.md) Passages about
 which there is doubt whether or not they belong to Q are here inserted
 in parentheses.
 
 <span id="footnotes_page_625">p. 625</span>
 
-<span id="page_625_note_2"></span>[2](#page_625_fr_2) Matthew here has
+<span id="page_625_note_2"></span>[2](#page_625_fr_2.md) Matthew here has
 τὴν ψυχὴν as in Q, but it is translated "life" in the A.V.
 
 <span id="footnotes_page_627">p. 627</span>
 
-<span id="page_627_note_3"></span>[3](#page_627_fr_3) Here Matt. as well
+<span id="page_627_note_3"></span>[3](#page_627_fr_3.md) Here Matt. as well
 as Q uses the form of query and exclamation though the A. V. uses a
 complex declaratory sentence.
 

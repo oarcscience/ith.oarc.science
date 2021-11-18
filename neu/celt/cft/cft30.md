@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cft29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cft29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Celtic Fairy Tales*, by Joseph Jacobs, \[1892\], at Intangible Textual
 Heritage
 
@@ -292,7 +292,7 @@ I have neither extenuated nor added aught but the last sentence of the
 Fairy Maiden's last speech. Part of the original is in metrical form, so
 that the whole is of the *cante-fable* species which I believe to be the
 original form of the folk-tale (*Cf. Eng. Fairy Tales,* notes, p. 240,
-and *infra*, [p. 257](#page_257)).
+and *infra*, [p. 257](#page_257).md).
 
 *Parallels*.—Prof*.* Zimmer's paper contains three other accounts of the
 *terra repromissionis* in the Irish sagas, one of them being the similar
@@ -885,13 +885,13 @@ in the tale, and the fact that it is a framework story (another Eastern
 characteristic) would imply that it is a rather late importation, with
 local allusions superadded (*cf*. notes on "Conal Yellowclaw," No. v)
 
-The passages in verse from pp. [137](cft19.htm#page_137),
-[139](cft19.htm#page_139), and the description of the
+The passages in verse from pp. [137](cft19.htm#page_137.md),
+[139](cft19.htm#page_139.md), and the description of the
 
 <span id="page_257">p. 257</span>
 
 <span class="contnote">\[paragraph continues\]</span> Beggarman, pp.
-[136](cft19.htm#page_136), [140](cft19.htm#page_140), are instances of a
+[136](cft19.htm#page_136), [140](cft19.htm#page_140.md), are instances of a
 curious characteristic of Gaelic folk-tales called "runs." Collections
 of conventional epithets are used over and over again to describe the
 same incident, the beaching of a boat, sea-faring, travelling and the
@@ -1061,7 +1061,7 @@ legend is always told as a moral apologue against precipitate action,
 and originally occurred in *The Fables of Bidpai* in its hundred and one
 forms, all founded on Buddhistic originals (*c.f.* Benfey*,*
 *Pantschatantra*, Einleitung, § 201). <span
-id="fr_0"></span>[\*](#fn_0)Thence, according to Benfey, it was inserted
+id="fr_0"></span>[\*](#fn_0.md)Thence, according to Benfey, it was inserted
 in the *Book of Sindibad*, another collection of Oriental Apologues
 framed on what may be called the Mrs. Potiphar formula. This came to
 Europe with the Crusades, and is known in its Western versions as the
@@ -1360,7 +1360,7 @@ Folk-Tales*, p. 210).
 
 ### Footnotes
 
-<span id="fn_0"></span>[260:\*](cft30.htm#fr_0) It occurs in the same
+<span id="fn_0"></span>[260:\*](cft30.htm#fr_0.md) It occurs in the same
 chapter as the story of La Perrette, which has been traced, after
 Benfey, by Prof. M. Müller in his Migration of Fables" (*Sel. Essays*,
 i. 500-74); exactly the tame history applies to Geltert.

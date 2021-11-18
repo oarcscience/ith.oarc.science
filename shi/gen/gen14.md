@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen13)  [Next](gen15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen13)  [Next](gen15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -74,7 +74,7 @@ previous existence. Hence if we dive to the bottom we shall see that
 every misfortune is only the result of our own negligence. Examples of
 men's losing the pleasures of the Court are, indeed, not wanting. Some
 of these cases may not go so far as a deprivation of titles and honors,
-as is mine; <span id="fr_106"></span>[1](#fn_105) still, if one thus
+as is mine; <span id="fr_106"></span>[1](#fn_105.md) still, if one thus
 banished from the pleasures of Court, behaves himself as unconcernedly
 as those to whom no such misfortune has happened, this would not be
 becoming. So, at least, it is considered in a foreign country.
@@ -268,7 +268,7 @@ looked back on the scenes they had left. They saw all the mountains
 veiled in haze, growing more and more distant, while the rowers gently
 pulled against the rippling waves. It seemed to them as if they were
 really going "three thousand miles' distance." <span
-id="fr_107"></span>[2](#fn_106)
+id="fr_107"></span>[2](#fn_106.md)
 
 <div style="margin-left: 32px">
 
@@ -279,7 +279,7 @@ id="fr_107"></span>[2](#fn_106)
 
 <span class="contnote">\[paragraph continues\]</span> The day was long
 and the wind was fair, so they soon arrived at the coast of Suma. <span
-id="fr_108"></span>[3](#fn_107) The place was near the spot where the
+id="fr_108"></span>[3](#fn_107.md) The place was near the spot where the
 exiled Yukihira had lived, and had watched the beautiful smoke rising
 from the salt ovens. There was a thatched house in which the party
 temporarily took up their residence. It was a very different home from
@@ -440,7 +440,7 @@ Kiûsiû) returned to the capital with his family, having completed his
 official term. His daughter had been a virgin dancer, and was known to
 Genji. They preferred to travel by water, and slowly sailed up along the
 beautiful coast. When they arrived at Suma, the distant sound of a
-*kin* <span id="fr_109"></span>[\*](#fn_108) was heard, mingled with the
+*kin* <span id="fr_109"></span>[\*](#fn_108.md) was heard, mingled with the
 sea-coast wind, and they were told that Genji was there in exile. Daini
 therefore sent his son Chikzen-no-Kami to the Prince with these words:
 "Coming back from a distant quarter I expected as soon as I should
@@ -488,7 +488,7 @@ smile, and he sent back the following:—
 <span class="contnote">\[paragraph continues\]</span> This recalls to
 our mind that there was in the olden time an exile who gave a stanza
 even to the postmaster of a village. <span
-id="fr_110"></span>[4](#fn_109) Why then should not Genji have sent to
+id="fr_110"></span>[4](#fn_109.md) Why then should not Genji have sent to
 her whom he knew this stanza?
 
 In the meantime, as time went on, more sympathizers with Genji were
@@ -503,7 +503,7 @@ offended the Court should do is to keep himself as quiet as possible. It
 is most unpardonable that such a man should haughtily cause scandal to
 the Court from his humble dwelling. Does he intend to imitate the
 treacherous example of one who made a deer pass for a horse? <span
-id="fr_111"></span>[5](#fn_110) Those who intrigue with such a man are
+id="fr_111"></span>[5](#fn_110.md) Those who intrigue with such a man are
 equally blamable." These spiteful remarks once more put a stop to the
 correspondence.
 
@@ -529,7 +529,7 @@ only an event of yesterday, and he hummed:—
 
 <span class="contnote">\[paragraph continues\]</span> He then tried to
 sleep, but could not do so, and as he lay the distant cry of Chidori
-reached his ears. <span id="fr_112"></span>[6](#fn_111) He hummed again
+reached his ears. <span id="fr_112"></span>[6](#fn_111.md) He hummed again
 as he heard them:—
 
 <div style="margin-left: 32px">
@@ -573,7 +573,7 @@ The first thing which struck his eyes was, not the natural beauty of the
 scenery, but the style of Genji's residence, which showed the novelty of
 pure Chinese fashion. The enclosure was surrounded by "a trellis-work of
 bamboo," with "stone steps," and "pillars of pine-tree." <span
-id="fr_113"></span>[7](#fn_112)
+id="fr_113"></span>[7](#fn_112.md)
 
 He entered, and the pleasure of Genji and Tô-no-Chiûjiô was immense, so
 much so that they shed tears. The style of the Prince's dress next
@@ -628,7 +628,7 @@ and as he did so he said, "When shall I see you again, you cannot be
 here long?" Genji replied,
 
 "Yon noble crane that soars on high, <span
-id="fr_114"></span>[8](#fn_113)  
+id="fr_114"></span>[8](#fn_113.md)  
      And hovers in the clear blue sky,  
   Believe my soul as pure and light;  
     As spotless as the spring day bright.
@@ -713,7 +713,7 @@ the advances of Yoshikiyo.
 
 The first of March came, and Genji was persuaded by some to perform
 Horai (prayer for purification) for the coming occasion of the
-Third. <span id="fr_115"></span>[9](#fn_114) He therefore sent for a
+Third. <span id="fr_115"></span>[9](#fn_114.md) He therefore sent for a
 calendar-priest, with whom he went out, accompanied by attendants, to
 the seashore. Here a tent was erected ceremoniously, and the priest
 began his prayers, which were accompanied by the launching of a small
@@ -740,7 +740,7 @@ its frame. He offered prayers in profound silence, and then exclaimed,
 <div style="margin-left: 32px">
 
 <span class="small">"Oh, all ye eight millions of gods <span
-id="fr_116"></span>[10](#fn_115) hear my cry,  
+id="fr_116"></span>[10](#fn_115.md) hear my cry,  
     Oh, give me your sympathy, aid me, I pray,  
   For when I look over my life, ne’er did I  
     Commit any wrong, or my fellows betray."</span>
@@ -769,7 +769,7 @@ resemblance of a human figure came to him and said, "You are requested
 to come to the palace, why don't you come?"
 
 Genji was startled by the words, and awoke. He thought that the king of
-the dragon palace <span id="fr_117"></span>[11](#fn_116) might have
+the dragon palace <span id="fr_117"></span>[11](#fn_116.md) might have
 admired him, and was perhaps the author of this strange dream. These
 thoughts made him weary of remaining at Suma.
 
@@ -777,20 +777,20 @@ thoughts made him weary of remaining at Suma.
 
 ### Footnotes
 
-<span id="fn_105"></span>[173:1](gen14.htm#fr_106) When a person was
+<span id="fn_105"></span>[173:1](gen14.htm#fr_106.md) When a person was
 exiled, he was generally deprived of his own title, or was degraded.
 Genji appears to have been deprived of his.
 
-<span id="fn_106"></span>[177:2](gen14.htm#fr_107) A favorite phrase in
+<span id="fn_106"></span>[177:2](gen14.htm#fr_107.md) A favorite phrase in
 Chinese poems describing the journey of exile.
 
-<span id="fn_107"></span>[177:3](gen14.htm#fr_108) Suma is about sixty
+<span id="fn_107"></span>[177:3](gen14.htm#fr_108.md) Suma is about sixty
 miles from Kiôto, the then capital.
 
-<span id="fn_108"></span>[180:\*](gen14.htm#fr_109) A musical
+<span id="fn_108"></span>[180:\*](gen14.htm#fr_109.md) A musical
 instrument—often called a *koto*.
 
-<span id="fn_109"></span>[181:4](gen14.htm#fr_110) When Sugawara, before
+<span id="fn_109"></span>[181:4](gen14.htm#fr_110.md) When Sugawara, before
 referred to, arrived at Akashi, on his way to exile, the village
 postmaster expressed his surprise. Thereupon Sugawara gave him a stanza,
 which he composed:
@@ -800,35 +800,35 @@ which he composed:
   Once to bloom, and once to fade  
     Is spring and autumn's usual lot."
 
-<span id="fn_110"></span>[181:5](gen14.htm#fr_111) In Chinese history it
+<span id="fn_110"></span>[181:5](gen14.htm#fr_111.md) In Chinese history it
 is recounted that a certain artful intriguer made a fool of his
 Sovereign by bringing a deer to the Court and presenting it before the
 Emperor, declaring it to be a horse. All the courtiers, induced by his
 great influence, agreed with him in calling it a horse, to the Emperor's
 great astonishment and bewilderment
 
-<span id="fn_111"></span>[182:6](gen14.htm#fr_112) The coast along by
+<span id="fn_111"></span>[182:6](gen14.htm#fr_112.md) The coast along by
 Suma is celebrated for Chidori, a small sea-bird that always flies in
 large flocks. Their cries are considered very plaintive, and are often
 spoken of by poets.
 
-<span id="fn_112"></span>[182:7](gen14.htm#fr_113) Expressions used in a
+<span id="fn_112"></span>[182:7](gen14.htm#fr_113.md) Expressions used in a
 poem by Hak-rak-ten, describing a tasteful residence.
 
-<span id="fn_113"></span>[183:8](gen14.htm#fr_114) Here Tô-no-Chiûjiô is
+<span id="fn_113"></span>[183:8](gen14.htm#fr_114.md) Here Tô-no-Chiûjiô is
 compared to the bird.
 
-<span id="fn_114"></span>[185:9](gen14.htm#fr_115) The third day of
+<span id="fn_114"></span>[185:9](gen14.htm#fr_115.md) The third day of
 March is one of five festival days in China and Japan, when prayers for
 purification, or prayers intended to request the freeing one's self from
 the influence of fiends, are said on the banks of a river.
 
-<span id="fn_115"></span>[186:10](gen14.htm#fr_116) In the Japanese
+<span id="fn_115"></span>[186:10](gen14.htm#fr_116.md) In the Japanese
 mythology the number of gods who assemble at their councils is stated to
 have been eight millions. This is an expression which is used to signify
 a large number rather than an exact one.
 
-<span id="fn_116"></span>[186:11](gen14.htm#fr_117) In Japanese
+<span id="fn_116"></span>[186:11](gen14.htm#fr_117.md) In Japanese
 mythology we have a story that there were two brothers, one of whom was
 always very lucky in fishing, and the other in hunting. One day, to vary
 their amusements, the former took his brother's bow and arrows and went
@@ -843,6 +843,6 @@ palace.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: Exile at Akashi](gen15)
+[Next: Chapter XIII: Exile at Akashi](gen15.md)
 
 </div>

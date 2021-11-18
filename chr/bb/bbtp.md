@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Next](bbpref)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Next](bbpref.md)
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@
 
 ------------------------------------------------------------------------
 
-[Next](bbpref)
+[Next](bbpref.md)

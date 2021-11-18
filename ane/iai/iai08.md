@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai07)  [Next](iai09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai07)  [Next](iai09.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Upon his couch at rest, and she now lay
 Beside him closely, when she heard him say:  
 "My love thou art, but canst not be!" No more  
 He murmurs, then inflamed she sought the door.  
-"Perchance the *su-khu-li* <span id="fr_73"></span>[1](#fn_73) sleep
+"Perchance the *su-khu-li* <span id="fr_73"></span>[1](#fn_73.md) sleep
 not!" she said;  
 And satisfied, turned where her lover laid;  
 And to his royal couch she crept again;  
@@ -110,9 +110,9 @@ Of spirits, as a Zi-ru fair it seemed."
 
 ### Footnotes
 
-<span id="fn_73"></span>[27:1](iai08.htm#fr_73) "Su-khu-li," guards of
+<span id="fn_73"></span>[27:1](iai08.htm#fr_73.md) "Su-khu-li," guards of
 the palace.
 
 ------------------------------------------------------------------------
 
-[Next: Column II. The King's Second Dream](iai09)
+[Next: Column II. The King's Second Dream](iai09.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale25)  [Next](tale27) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale25)  [Next](tale27.md) 
 
 ------------------------------------------------------------------------
 
@@ -1138,4 +1138,4 @@ and permanence and He is the Living, the Eternal, who shall never die!
 
   And amongst the tales they, tell is one of  
 
-(*Next*) [ABU KIR THE DYER AND ABU SIR THE BARBER](tale27)  
+(*Next*) [ABU KIR THE DYER AND ABU SIR THE BARBER](tale27.md)  

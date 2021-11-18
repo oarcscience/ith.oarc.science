@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs12) [Next](hbs14)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs12) [Next](hbs14.md)
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ And smite the Giaour! Let not his power outlive the Servian tsar!”
 
 ------------------------------------------------------------------------
 
-[Next](hbs14)
+[Next](hbs14.md)
 
  
 

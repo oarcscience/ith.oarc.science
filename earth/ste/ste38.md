@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste37)  [Next](ste39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste37)  [Next](ste39.md) 
 
 ------------------------------------------------------------------------
 
@@ -481,4 +481,4 @@ WORLD ALL ON FIRE*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](ste39)
+[Next: Chapter VIII](ste39.md)

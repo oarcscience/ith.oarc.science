@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs06)  [Next](mhs08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs06)  [Next](mhs08.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ shorter than the others to indicate the thumb.
 
 ------------------------------------------------------------------------
 
-[Next: V. Crescents And Half-moon-shaped Amulets](mhs08)
+[Next: V. Crescents And Half-moon-shaped Amulets](mhs08.md)

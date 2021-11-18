@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](khw08)  [Next](khw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](khw08)  [Next](khw10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE508/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE508/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Knowledge of the Higher Worlds and Its Attainment*, by Rudolf Steiner,
 \[1947\], at Intangible Textual Heritage
 
@@ -917,7 +917,7 @@ observation of the outer world, he quietly and patiently ever and again
 repeats the attempt. And at the end he will naturally single out the
 essential and the true at a glance, whereas formerly the non-essential,
 the transient, too, could content him. “All that is transient is but a
-seeming” <span id="fr_0"></span>[\*](#fn_0) is a truth which becomes an
+seeming” <span id="fr_0"></span>[\*](#fn_0.md) is a truth which becomes an
 unquestionable conviction of the soul. The same applies to the remaining
 three of the four attributes mentioned.
 
@@ -1266,9 +1266,9 @@ the restrictions of the physical body.
 
 ### Footnotes
 
-<span id="fn_0"></span>[172:\*](khw09.htm#fr_0) “*Alles Vergänglich ist
+<span id="fn_0"></span>[172:\*](khw09.htm#fr_0.md) “*Alles Vergänglich ist
 nur ein Gleichnis*,” Goethe, *Faust II*.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Transformation of Dream Life](khw10)
+[Next: VI. The Transformation of Dream Life](khw10.md)

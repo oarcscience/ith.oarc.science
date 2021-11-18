@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa02)  [Next](smoa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa02)  [Next](smoa04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -35,7 +35,7 @@ from that dread wall of water in which it was engulfed.
 
 The aeons are the builders in God's building mart, and gave it size and
 beauty, all that land e’er gathered or land needeth. Fairer far it was
-than mine <span id="fr_0"></span>[\*](#fn_0) which shows its wastes of
+than mine <span id="fr_0"></span>[\*](#fn_0.md) which shows its wastes of
 sand unsightly; blossoms on that isle were touched with rainbow tints as
 fair as those where ether makes the planes which ye call "Paradise."
 
@@ -72,7 +72,7 @@ And thus had grown Atlantis off the Western coast of Africa one long
 day's rowing if the winds were fair and waves beat not.
 
 The girth of that lost land was thrice, mayhap, of this strange spot
-thou callest "State," <span id="fr_1"></span>[\*](#fn_1) and every span
+thou callest "State," <span id="fr_1"></span>[\*](#fn_1.md) and every span
 was made a nest for seed, or to up-bear some
 
 <span id="page_13">p. 13</span>
@@ -198,7 +198,7 @@ Yea, thus it was and is unto this day; a cross betokens God's great
 power and man's adaptation of material given for his uses by that One
 who set the stars on high in form of cross.
 
-The Atlantian language nearer thine <span id="fr_2"></span>[\*](#fn_2)
+The Atlantian language nearer thine <span id="fr_2"></span>[\*](#fn_2.md)
 than any other tongue extant. Absorbing characters that learned were by
 man self-taught through wisdom of the soul. Aye, like unto the Greek,
 perhaps, in measure, for the people of those isles but spake the tongue
@@ -236,13 +236,13 @@ sought to read.
 
 ### Footnotes
 
-<span id="fn_0"></span>[11:\*](smoa03.htm#fr_0) Egypt.
+<span id="fn_0"></span>[11:\*](smoa03.htm#fr_0.md) Egypt.
 
-<span id="fn_1"></span>[12:\*](smoa03.htm#fr_1) State of Washington.
+<span id="fn_1"></span>[12:\*](smoa03.htm#fr_1.md) State of Washington.
 
-<span id="fn_2"></span>[16:\*](smoa03.htm#fr_2) English.
+<span id="fn_2"></span>[16:\*](smoa03.htm#fr_2.md) English.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. The government of Atlantis. Educational methods.
-Peopling and customs.](smoa04)
+Peopling and customs.](smoa04.md)

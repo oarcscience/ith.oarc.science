@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](how02)  [Next](how04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](how02)  [Next](how04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ ratio, so that wherever the number 3 is found as one term of the
 continued doubles, that ratio is held to be akin to the three figures
 first named: for example, 1 : 3 and 2 : 3 and 4 : 3 and 8 : 3, et
 cetera; but where the number is 5, that ratio is
-[absolutely](errata.htm#0) assigned to the wedding of the dodecahedron :
+[absolutely](errata.htm#0.md) assigned to the wedding of the dodecahedron :
 for example, 2 : 5 and 4 : 5 and 8 : 5, and thus 3 : 5 and 3 : 10 and 6
 : 5 and 12 : 5 and 24 : 5. The kinship will be less probable if the sum
 of the terms expresses this similitude, as in 2 : 3 the sum of the terms
@@ -149,4 +149,4 @@ consonances 4 : 5 and 3 : 4. For 4 : 5 cubed is 64 : 125, and 1 : 2 is
 ------------------------------------------------------------------------
 
 [Next: 3. A Summary of Astronomical Doctrine Necessary For Speculation
-Into the Celestial Harmonies](how04)
+Into the Celestial Harmonies](how04.md)

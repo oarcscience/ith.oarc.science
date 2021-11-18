@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](pdh01)  [Next](pdh03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](pdh01)  [Next](pdh03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 SHEMSUDDIN MAHOMMAD, better known by his poetical surname of Hafiz, was
 born in Shiraz in the early part of the fourteenth century. <span
-id="fr_0"></span>[1](#fn_0) His names, being interpreted, signify the
+id="fr_0"></span>[1](#fn_0.md) His names, being interpreted, signify the
 Sun of the Faith, the Praiseworthy, and One who can recite the Koran; he
 is further known to his compatriots under the titles of the Tongue of
 the Hidden and the Interpreter of Secrets. The better part of his life
@@ -110,7 +110,7 @@ modest although his power is great and his territories extensive. His
 army exceeds the number of 30,000 men, Turks and Persians. The most
 faithful of his subjects are the inhabitants of Isfahan; but he fears
 the Shirazis, who are a brave people, not to be controlled by kings, and
-he will not trust them with arms." <span id="fr_1"></span>[2](#fn_1)
+he will not trust them with arms." <span id="fr_1"></span>[2](#fn_1.md)
 This view of his relations with the two towns tallies with Abu Ishac's
 subsequent history, and points to a considerable power of observation on
 the part of Ibn Batuta. But he relates a tale which would seem to show
@@ -569,7 +569,7 @@ school of Alexandria and to the Christian religion, this would not be
 enough to account for the great perversion of Mahommad's teaching.
 
 Baron Sylvestre de Sacy suggested the following explanation of the
-matter. <span id="fr_2"></span>[3](#fn_2) The second century of the
+matter. <span id="fr_2"></span>[3](#fn_2.md) The second century of the
 Hejira was a time of fermentation and of the rise of sects. This was due
 in the first place to the introduction of Greek philosophy, and in the
 second to the rivalry between the partisans of Ali and those of the
@@ -616,7 +616,7 @@ pushed too far it leads to pantheism, quietism, and eventually to
 nihilism. The highest good to which the Sufis can attain, is the
 annihilation of the actual—to forget that they have a separate
 existence, and to lose themselves in the Divinity as a drop of water is
-lost in the ocean. <span id="fr_3"></span>[4](#fn_3) In order to obtain
+lost in the ocean. <span id="fr_3"></span>[4](#fn_3.md) In order to obtain
 this end they recommend ascetic living and solitude; but they do not
 carry asceticism to the absurd extremes enjoined by the Indian mystics,
 nor do they approve of artificial aids for the subduing of
@@ -687,9 +687,9 @@ with man's consciousness of his will being free; for on the one hand it
 is impossible to conceive a God worth the name who shall be less than
 omnipotent and omniscient, and on the other it is essential to lay upon
 man some responsibility for his actions. <span
-id="fr_4"></span>[5](#fn_4) Mahommad more especially, as Count Gobineau
+id="fr_4"></span>[5](#fn_4.md) Mahommad more especially, as Count Gobineau
 points out in his excellent little book, <span
-id="fr_5"></span>[6](#fn_5) found himself confronted with this
+id="fr_5"></span>[6](#fn_5.md) found himself confronted with this
 difficulty, since his primary object was to exalt the divine
 personality, and to lift it out of the pantheism into which it had
 fallen among the pre-Islamitic Arabs; but if he did not succeed in
@@ -697,7 +697,7 @@ indicating a satisfactory way out of the dilemma, it is at least unjust
 to accuse him of having failed to recognise it. He insisted that man is
 responsible for his own salvation: "Whosoever chooseth the life to come,
 their desire shall be acceptable unto God." <span
-id="fr_6"></span>[7](#fn_6) There is a tradition that when some of his
+id="fr_6"></span>[7](#fn_6.md) There is a tradition that when some of his
 disciples were disputing over predestination, he said to them: "Why do
 you not imitate Omar? For when one came to him and asked him, 'What is
 predestination?' he answered, 'It is a deep sea.' And a second time he
@@ -722,12 +722,12 @@ the divine wisdom had imposed upon them. There is neither reward nor
 punishment; Paradise is the beauty, Hell the glory of God, and when it
 is said that those in Hell are wretched, it is meant that the dwellers
 in Heaven would be wretched in their place. <span
-id="fr_7"></span>[8](#fn_7) And finally, there is no distinction between
+id="fr_7"></span>[8](#fn_7.md) And finally, there is no distinction between
 God and man; the soul is but an emanation from God, and a man is
 therefore justified in saying with the fanatic Hallaj, "I am God."
 Though Hallaj paid with his life for venturing to give voice to his
 opinion, he was only repeating aloud what all Sufis believe to be
-true. <span id="fr_8"></span>[9](#fn_8) "Is it permitted to a tree to
+true. <span id="fr_8"></span>[9](#fn_8.md) "Is it permitted to a tree to
 say, 'I am God,'" writes the author of the Gulsheni-Raz (the allusion is
 to the burning bush that spoke to Moses) why then may not a man say it?"
 And again: "In God there is no distinction of quality; in his divine
@@ -760,7 +760,7 @@ practised a particular religion had failed to free himself from duality
 and to reach perfect union with God, they must have held Mahommadanism
 in like contempt with all other faiths. "When thou and I remain not
 (when man is completely united with God), what matters the Ka'ba and the
-Synagogue and the Monastery?" <span id="fr_9"></span>[10](#fn_9) That
+Synagogue and the Monastery?" <span id="fr_9"></span>[10](#fn_9.md) That
 is, what difference is there between the religion of Mahommadan, Jew,
 and Christian? "One night," says Ferideddin Attar in a beautiful
 allegory, "the angel Gabriel was seated on the branches of a tree in the
@@ -791,7 +791,7 @@ object, plays a large part in Sufi writings, a part which it is
 difficult, and sometimes unwise, to distinguish from an exaggerated
 expression of the human affections. Jami describes Pure Being, before it
 had been manifested in Creation, "singing of love unto itself in a
-wordless melody," <span id="fr_10"></span>[11](#fn_10) and in the same
+wordless melody," <span id="fr_10"></span>[11](#fn_10.md) and in the same
 strain Hafiz sings of "the Imperial Beauty which is for ever playing the
 game of love with itself." Like the echo of a Greek voice falls Jami's
 doctrine of human love: "Avert not thy face from an earthly beloved,
@@ -811,7 +811,7 @@ alludes to moments of ecstatic union with God; and his account of the
 victory of Bedr—"Thou didst not slay them, but God slew them, and thou
 didst not shoot when thou didst shoot, but God shot"—they take as a
 proof of the Prophet's belief in the essential oneness of God and
-man. <span id="fr_11"></span>[12](#fn_11) The whole book is twisted
+man. <span id="fr_11"></span>[12](#fn_11.md) The whole book is twisted
 after this fashion into agreement with their views.
 
 Beautiful and spiritual as some of these doctrines are, they can hardly
@@ -828,7 +828,7 @@ striving earnestly after union with God, they are saved from the logical
 consequences of their doctrines: "Their ear is strained to catch the
 sounds of the lute, their eyes are fixed upon the cup, their bosoms are
 filled with the desire of this world and of the world to come." <span
-id="fr_12"></span>[13](#fn_12) And in the same spirit Hafiz sings:
+id="fr_12"></span>[13](#fn_12.md) And in the same spirit Hafiz sings:
 "Though the wind of discord shake the two worlds, mine eyes are fixed
 upon the road from whence cometh my Friend." The idealism of the Sufis
 led them to deny the morality of all actions, but they restricted the
@@ -972,7 +972,7 @@ criticism and the praise seem to me both just and delicate.
 To a certain extent it may be said that the Sufiism of Hafiz is partly
 due to the natural leaning of the Oriental poet towards a picturesque
 diction (for all poetry must, to satisfy Eastern readers, be couched in
-a veiled and enigmatic speech), <span id="fr_13"></span>[14](#fn_13) and
+a veiled and enigmatic speech), <span id="fr_13"></span>[14](#fn_13.md) and
 has partly been read into the Divan by later ages. But this is not all.
 With Shah Shudja, I would accuse him of mixing up inextricably wine and
 love and Sufi teaching, and perhaps more besides. To some at least of
@@ -1125,7 +1125,7 @@ musulmans non arabes. Il y faut voir une révolte de l’esprit arien
 contre l’effroyante simplicité de l’esprit sémitique, excluant par la
 rigueur de sa théologie toute devotion particulière, toute doctrine
 secrète, toute combinaison religieuse vivante et variée." <span
-id="fr_14"></span>[15](#fn_14)
+id="fr_14"></span>[15](#fn_14.md)
 
 Those who have written poems "réellement à double sens" are careful to
 insist upon the mighty secrets that their words convey. "The things
@@ -1172,7 +1172,7 @@ trust the larger hope."
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](pdh02.htm#fr_0) For the history of the times
+<span id="fn_0"></span>[1](pdh02.htm#fr_0.md) For the history of the times
 of Hafiz, see Defrémery in the *Journal Asiatique* for 1844 and 1845,
 Malcolm's "History of Persia," Price's "Mohammedan History," Markham's
 "History of Persia", For the life of the poet, see V. Hammer; Defrémery
@@ -1180,13 +1180,13 @@ in the *Journal Asiatique* for 1858; Sir Gore Ouseley and Daulat Shah,
 whose work is mainly a string of anecdote—I have been told that
 Lutfallah's is little better.
 
-<span id="fn_1"></span>[2](pdh02.htm#fr_1) The "Travels of Ibn Batuta,"
+<span id="fn_1"></span>[2](pdh02.htm#fr_1.md) The "Travels of Ibn Batuta,"
 edited by Defrémery and Sanguinetti.
 
-<span id="fn_2"></span>[3](pdh02.htm#fr_2) *Journal des Savants* for
+<span id="fn_2"></span>[3](pdh02.htm#fr_2.md) *Journal des Savants* for
 1821 and 1822.
 
-<span id="fn_3"></span>[4](pdh02.htm#fr_3) Numberless beautiful images
+<span id="fn_3"></span>[4](pdh02.htm#fr_3.md) Numberless beautiful images
 are used to describe the union of God and man. Jelaleddin Rumi points
 the same moral in the following exquisite apologue: "There came one and
 knocked at the door of the Beloved. And a voice answered and said, 'Who
@@ -1195,20 +1195,20 @@ is there?' The lover replied, 'It is I' 'Go hence,' returned the voice;
 time and knocked, and again the voice demanded, 'Who is there?' He
 answered, 'It is thou.' 'Enter,' said the voice, 'for I am within.'
 
-<span id="fn_4"></span>[5](pdh02.htm#fr_4) Dr. Johnson's contribution to
+<span id="fn_4"></span>[5](pdh02.htm#fr_4.md) Dr. Johnson's contribution to
 this vexed question is perhaps as good as any other: "Sir," said he to
 Boswell, "we *know* the will is free, there's an end on't."
 
-<span id="fn_5"></span>[6](pdh02.htm#fr_5) *Les Religions de l'Asie
+<span id="fn_5"></span>[6](pdh02.htm#fr_5.md) *Les Religions de l'Asie
 Centrale*.
 
-<span id="fn_6"></span>[7](pdh02.htm#fr_6) Cf. St. Paul, who is scarcely
+<span id="fn_6"></span>[7](pdh02.htm#fr_6.md) Cf. St. Paul, who is scarcely
 more explicit: "Work out your own salvation; for it is God which worketh
 in you both to will and to work for his good pleasure " (Phil. ii. 12).
 
-<span id="fn_7"></span>[8](pdh02.htm#fr_7) Dabistan.
+<span id="fn_7"></span>[8](pdh02.htm#fr_7.md) Dabistan.
 
-<span id="fn_8"></span>[9](pdh02.htm#fr_8) Hallaj lived in the ninth
+<span id="fn_8"></span>[9](pdh02.htm#fr_8.md) Hallaj lived in the ninth
 century. He was believed by some to be a sorcerer, and by others a holy
 worker of miracles. He was condemned to death with horrible tortures by
 the Khalif of Baghdad in gig, and his ashes were thrown into the Tigris.
@@ -1216,16 +1216,16 @@ It is said that a Sufi once asked God why he suffered his servant Hallaj
 to fall into the Khalifs hands, and was answered, "Thus the revealers of
 secrets are punished."
 
-<span id="fn_9"></span>[10](pdh02.htm#fr_9) Gulshen-i-Raz.
+<span id="fn_9"></span>[10](pdh02.htm#fr_9.md) Gulshen-i-Raz.
 
-<span id="fn_10"></span>[11](pdh02.htm#fr_10) Yusuf and Zuleikha.
+<span id="fn_10"></span>[11](pdh02.htm#fr_10.md) Yusuf and Zuleikha.
 
-<span id="fn_11"></span>[12](pdh02.htm#fr_11) "A Year among the
+<span id="fn_11"></span>[12](pdh02.htm#fr_11.md) "A Year among the
 Persians." Browne.
 
-<span id="fn_12"></span>[13](pdh02.htm#fr_12) Sayyed Ahmed of Isfahan.
+<span id="fn_12"></span>[13](pdh02.htm#fr_12.md) Sayyed Ahmed of Isfahan.
 
-<span id="fn_13"></span>[14](pdh02.htm#fr_13) Listen to the advice of an
+<span id="fn_13"></span>[14](pdh02.htm#fr_13.md) Listen to the advice of an
 Afghan singer who wrote his *Ars Poetica* in the mountains south of
 Peshawar about the middle of the seventeenth century:—
 
@@ -1249,8 +1249,8 @@ institui, currente rota cur urceus exit," and perhaps the advice of
 Horace may be the better of the two "denique sit quod vis, simplex
 dumtaxat et unum."
 
-<span id="fn_14"></span>[15](pdh02.htm#fr_14) *Cantique des Cantiques*.
+<span id="fn_14"></span>[15](pdh02.htm#fr_14.md) *Cantique des Cantiques*.
 
 ------------------------------------------------------------------------
 
-[Next: I. Arise, oh Cup-bearer, rise! and bring](pdh03)
+[Next: I. Arise, oh Cup-bearer, rise! and bring](pdh03.md)

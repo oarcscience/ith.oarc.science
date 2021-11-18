@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp07)  [Next](dmp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp07)  [Next](dmp09.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ matter which I ask thee about.'
 
 ------------------------------------------------------------------------
 
-[Next: Col VI.](dmp09)
+[Next: Col VI.](dmp09.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](ath05)  [Next](ath07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](ath05)  [Next](ath07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ at Intangible Textual Heritage
 
 One of the first and most significant indications of the new orientation
 of Muslim thought was the extensive production of Arabic
-[translations](errata.htm#13) of works dealing with philosophical and
+[translations](errata.htm#13.md) of works dealing with philosophical and
 scientific subjects, with the result that eighty years after the f all
 of the ‘Umayyads the Arabic speaking world possessed Arabic translations
 of the greater part of the works of Aristotle, of the leading
@@ -392,7 +392,7 @@ were. There is a
 
 sect known as *Sabiyun* or *Sabaean*, whose religion is a strange
 mixture of ancient Babylonian state worship Christian Gnosticism, and
-Zoroastrianism, living in the [marsh](errata.htm#14) lands near Basra,
+Zoroastrianism, living in the [marsh](errata.htm#14.md) lands near Basra,
 but they had always been careful to keep their religious beliefs secret
 from all outsiders, and although they were no doubt the sect mentioned
 in the Qur’an under the name of *Sabiyun* or *Sabians*, none could prove
@@ -490,4 +490,4 @@ Coptic texts show that they have been translated from Arabic originals.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Mu‘tazilites](ath07)
+[Next: Chapter V. The Mu‘tazilites](ath07.md)

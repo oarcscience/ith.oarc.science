@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ttt06)  [Next](ttt08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ttt06)  [Next](ttt08.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ BARBARIC IDEAS ABOUT NAMES
 
 ------------------------------------------------------------------------
 
-[Next: Magic through Tangible Things](ttt08)
+[Next: Magic through Tangible Things](ttt08.md)

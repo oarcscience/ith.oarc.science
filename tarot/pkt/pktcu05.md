@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktcu06)  [Next](pktcu04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktcu06)  [Next](pktcu04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Five
 
 <span id="img_cu05"></span> <span align="CENTER"> [![](tn/cu05.jpg)  
-Click to enlarge](img/cu05.jpg)</span>
+Click to enlarge](img/cu05.jpg.md)</span>
 
 A dark, cloaked figure, looking sideways at three prone cups two others
 stand upright behind him; a bridge is in the background, leading to a
@@ -33,4 +33,4 @@ affinity, consanguinity, ancestry, return, false projects.
 
 ------------------------------------------------------------------------
 
-[Next: Four of Cups](pktcu04)
+[Next: Four of Cups](pktcu04.md)

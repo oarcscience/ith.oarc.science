@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had14)  [Next](had16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had14)  [Next](had16.md) 
 
 ------------------------------------------------------------------------
 
@@ -374,4 +374,4 @@ said: "Leave them alone, O Abū Bakr! for these are the days of 'Īd."
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII: Supererogatory Prayers (Tahajjud, Witr and
-Tarāwīh)](had16)
+Tarāwīh)](had16.md)

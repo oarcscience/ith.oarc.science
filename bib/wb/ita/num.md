@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](lev)  [Next](deu) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](lev)  [Next](deu.md) 
 
 ------------------------------------------------------------------------
 
@@ -4865,4 +4865,4 @@ di Moab, presso al Giordano, di faccia a Gerico.
 
 ------------------------------------------------------------------------
 
-[Next: Deuteronomy](deu)
+[Next: Deuteronomy](deu.md)

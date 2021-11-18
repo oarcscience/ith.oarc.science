@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim08)  [Next](anim10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim08)  [Next](anim10.md) 
 
 ------------------------------------------------------------------------
 
@@ -293,4 +293,4 @@ pp. 254, 278, 279, 285.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Logical Consequences of Parity of Being](anim10)
+[Next: Chapter VIII. Logical Consequences of Parity of Being](anim10.md)

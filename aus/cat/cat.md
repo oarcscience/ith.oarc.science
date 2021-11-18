@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index)
+[Intangible Textual Heritage](../../index)  [Australia](../index.md)
 
 ------------------------------------------------------------------------
 

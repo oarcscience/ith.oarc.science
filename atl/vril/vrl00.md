@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Next](vrl01) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Next](vrl01.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ and feet must be steady and firm to-morrow."
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER II](vrl01)
+[Next: CHAPTER II](vrl01.md)

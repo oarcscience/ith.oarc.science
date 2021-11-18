@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat41)  [Next](flat43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat41)  [Next](flat43.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ heard Manus swear to every word of the story."
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Cairn Thierna](flat43)
+[Next: The Legend of Cairn Thierna](flat43.md)

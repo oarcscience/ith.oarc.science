@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi021)  [Next](mtsi023) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi021)  [Next](mtsi023.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_27">p. 27</span>
 
-### 20. THE HUNTER, THE MONSTER LIZARD, AND THE PANTHER (33) <span id="fr_7"></span>[1](#fn_7)
+### 20. THE HUNTER, THE MONSTER LIZARD, AND THE PANTHER (33) <span id="fr_7"></span>[1](#fn_7.md)
 
 A man and his wife camped out in a certain place with many dogs in order
 to hunt. The dogs would trail a bear and when they had brought it to bay
@@ -94,7 +94,7 @@ pulled it out, threw it away, and ran off.
 
 ### Footnotes
 
-<span id="fn_7"></span>[27:1](mtsi022.htm#fr_7) The hero of this story
+<span id="fn_7"></span>[27:1](mtsi022.htm#fr_7.md) The hero of this story
 can not have belonged to the Panther clan, because the panther called
 him "My friend." Had he been of the same clan he would have said "my
 brother."
@@ -102,4 +102,4 @@ brother."
 ------------------------------------------------------------------------
 
 [Next: 21. The Hunter, the Monster Lizard, and the Panther (Second
-Version)](mtsi023)
+Version)](mtsi023.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei21)  [Next](jei23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei21)  [Next](jei23.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ theory that is not new but merely a rehash of Symmes theory of
 Concentric Spheres. To show how utterly foolish and misguiding this idea
 is, we shall give a short account of Symmes' Theory from the one
 authoritative text book in which it has been recorded, and we shall then
-briefly [recapitulate](errata.htm#99) the main features of our own
+briefly [recapitulate](errata.htm#99.md) the main features of our own
 theory. And the reader will see that they are so far apart that there is
 no excuse whatever for confusing the two.
 
@@ -142,7 +142,7 @@ life.
 
 "The different spheres constituting our planet, and the other orbs in
 creation, most probably do not revolve on axes,
-[parallel](errata.htm#100) to each other, nor perform
+[parallel](errata.htm#100.md) to each other, nor perform
 
 <span id="page_363">p. 363</span>
 
@@ -185,7 +185,7 @@ snow in the interior of the earth, except near the polar openings.
 
 Symmes' theory differs from ours too, in that Symmes thinks there are in
 each sphere cavities in the center of the matter composing it, and that
-these [cavities](errata.htm#101) are filled with a very rarefied gas or
+these [cavities](errata.htm#101.md) are filled with a very rarefied gas or
 elastic substance, something, he says, like hydrogen. These mid-plane
 spaces, as he calls them, tends, he claims, to give the sphere "a degree
 of lightness and buoyancy." He also thinks that other interstices exist
@@ -277,7 +277,7 @@ wrong, because, as a matter of fact, and as we have shown in this book
 the earth is not solid.
 
 But we prove that it is not solid by facts. Symmes tries to prove his
-[assertions](errata.htm#102) by remarks such as the above.
+[assertions](errata.htm#102.md) by remarks such as the above.
 
 Of course it is true that everything in the universe tends to assume the
 cellular form. That we admit and have commented on. But there is always
@@ -328,7 +328,7 @@ some inner sphere, revolving at its own rate on its own axis, would
 cover up the polar opening on the outer surface. But the polar caps of
 Mars are always bright, with certain variations, and what is more, we
 see direct gleams of light from the Martian interior sun penetrate
-through the [aperture](errata.htm#103) and strike directly into our
+through the [aperture](errata.htm#103.md) and strike directly into our
 telescopes. This could not possibly happen on Symmes' theory, for there
 would be no interior sun from which light could come.
 
@@ -387,7 +387,7 @@ travels to reach them. We show how warm currents come from these regions
 and how animal life takes refuge in them as breeding and feeding
 grounds. The picture of the earth that we draw is not an imaginative
 construction, like Symmes' with such things as "mid-plane spaces"--whose
-[existence](errata.htm#104) is not backed up by any observed fact. No,
+[existence](errata.htm#104.md) is not backed up by any observed fact. No,
 our picture of the earth is one which is all through based on
 observations. The light and warmth of the interior regions we claim to
 come from the central sun whose rays stream out and form the aurora and
@@ -443,4 +443,4 @@ their final results.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. The Moon And Our Theory](jei23)
+[Next: Chapter XX. The Moon And Our Theory](jei23.md)

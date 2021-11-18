@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft03) 
-[Next](gsft05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft03.md) 
+[Next](gsft05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gypsy Sorcery and Fortune Telling*, by Charles Godfrey Leland,
 \[1891\], at Intangible Textual Heritage
 
@@ -580,7 +580,7 @@ the articles thus enchanted. The bones are prepared by putting the frog
 into a glass or earthen receptacle full of small holes. This is buried
 in an ant-hill. The ants enter the holes and eat away all the flesh,
 leaving the bones which after a few weeks are removed. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 To bear healthy and strong children women wear a string of bears' claws
 and children's teeth. Dr. von WLISLOCKI cites, *apropos* of this, a
@@ -596,7 +596,7 @@ Italy and almost over all Europe and the East. It is but a few days
 since I here, in Florence, met with a young English lady who had bought
 a very large one mounted in silver as a brooch, but who was utterly
 unaware that there was any meaning attached to it. <span
-id="fr_4"></span>[1](#fn_4) I have a very ancient bear's tooth and
+id="fr_4"></span>[1](#fn_4.md) I have a very ancient bear's tooth and
 whistle in silver, meant for a teething child. It came from Munich.
 
 Pain in the eyes is cured with a wash made of spring or well water and
@@ -1039,7 +1039,7 @@ from the light of he face, from the hearing of the ears, from his heart,
 from his hands and feet, from the soles of his feet.
 
 "Go and hide where black cocks never crow, <span
-id="fr_5"></span>[1](#fn_5) where men never go, where no beast roars.
+id="fr_5"></span>[1](#fn_5.md) where men never go, where no beast roars.
 
 "Hide yourself there, stop there, and never show yourself more!
 
@@ -1199,7 +1199,7 @@ his oath."
 
 ### Footnotes
 
-<span id="fn_3"></span>[26:1](gsft04.htm#fr_3) It is said that if the
+<span id="fn_3"></span>[26:1](gsft04.htm#fr_3.md) It is said that if the
 bones of a green frog which has been eaten by ants are taken, those on
 the left side will provoke hatred, and those on the right side excite
 love" ("Div. Cur.," c. 23). . . . "One species of frog called *rubeta*,
@@ -1209,14 +1209,14 @@ bone in its right side be thrown into boiling water it chills it at
 once. It excites love when put into a draught" ("Castle Saint Angelo and
 the Evil Eye," by W. W. STORY).
 
-<span id="fn_4"></span>[27:1](gsft04.htm#fr_4) According to Pliny, the
+<span id="fn_4"></span>[27:1](gsft04.htm#fr_4.md) According to Pliny, the
 tooth of a wolf hung to the neck of an infant was believed to be an
 efficient amulet against disease; and a child's tooth caught before it
 falls to the ground and set in a bracelet was considered to be
 beneficial to women. Nat. Hist. lib. xxvi., cap. 10 ("Castle Saint
 Angelo and the Evil Eye," by W. W. STORY)
 
-<span id="fn_5"></span>[37:1](gsft04.htm#fr_5) This cannot fail to
+<span id="fn_5"></span>[37:1](gsft04.htm#fr_5.md) This cannot fail to
 remind many readers of the land—
 
 "Where the cock never crew,  
@@ -1226,6 +1226,6 @@ Where the sun never shone and the wind never blew."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Gypsy Conjurations and Exorcisms](gsft05)
+[Next: Chapter III: Gypsy Conjurations and Exorcisms](gsft05.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim02)  [Next](anim04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim02)  [Next](anim04.md) 
 
 ------------------------------------------------------------------------
 
@@ -293,4 +293,4 @@ thought at least of a kind, and in many cases frightfully logical.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Discovery of the Soul](anim04)
+[Next: Chapter II. The Discovery of the Soul](anim04.md)

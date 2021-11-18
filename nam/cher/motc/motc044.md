@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc043) 
-[Next](motc045) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc043.md) 
+[Next](motc045.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ was no flesh left on any part of his body except his head.
 
 ------------------------------------------------------------------------
 
-[Next: 45. The Huhu Gets Married](motc045)
+[Next: 45. The Huhu Gets Married](motc045.md)

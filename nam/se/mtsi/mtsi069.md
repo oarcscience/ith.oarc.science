@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi068)  [Next](mtsi070) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi068)  [Next](mtsi070.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ the habit.
 
 ------------------------------------------------------------------------
 
-[Next: 68. Why the Opossum Looks Ashamed](mtsi070)
+[Next: 68. Why the Opossum Looks Ashamed](mtsi070.md)

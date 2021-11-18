@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes62)  [Next](tes64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes62)  [Next](tes64.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ village of Nishne-Kolymsk, the Kolyma country, summer of 1896.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Story of a Small Girl](tes64)
+[Next: 10. Story of a Small Girl](tes64.md)

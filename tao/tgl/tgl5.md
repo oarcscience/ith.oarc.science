@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl4) [Next](tgl6)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl4) [Next](tgl6.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ DISSERTATION ON
 THE RESPONSE OF MATTER TO THE  
 MOVEMENT OF THE COSMIC SPIRIT
 
-{[notes](tgln1.htm#5)}
+{[notes](tgln1.htm#5.md)}
 
    *The title is "Tao Ying (\#\#\#)" Tao, the Cosmic spirit. There is
 the idea of 'hovering over,' 'moving on the face' of all things, and
@@ -43,9 +43,9 @@ good and evil of every event, we shall see the results of the
 corresponding responses.*
 
    *The mystery of existence.*—Great Purity asked Exhaustless<span
-id="fr_1"></span>[1](tgln1.htm#5_note_1) whether he knew anything of the
+id="fr_1"></span>[1](tgln1.htm#5_note_1.md) whether he knew anything of the
 Tao. Exhaustless replied he knew nothing. He also asked *Wu-wei*,<span
-id="fr_2"></span>[2](tgln1.htm#5_note_2) who replied he had some
+id="fr_2"></span>[2](tgln1.htm#5_note_2.md) who replied he had some
 knowledge. "And is the knowledge you have of it finite?" "Yes, it is
 finite," *Wu-wei* replied. "Well, then, how much do you know about the
 Tao?" "I know that such things as yieldingness, firmness, courtesy and
@@ -55,7 +55,7 @@ Heaven and Earth, and to operate with perfect response through the whole
 universe. This is the limit of my knowledge."
 
    Great-Purity also asked Without-Beginning,<span
-id="fr_3"></span>[3](tgln1.htm#5_note_3) saying: "Formerly I asked
+id="fr_3"></span>[3](tgln1.htm#5_note_3.md) saying: "Formerly I asked
 Exhaustless about the Tao, who replied he had no knowledge; and
 subsequently I asked *Wu-wei* who replied that he had knowledge. We have
 thus the knowledge of *Wu-wei* and the non-knowledge of Exhaustless.
@@ -73,7 +73,7 @@ Tao. The Tao cannot be seen; that which can be seen is not the Tao. The
 Tao cannot be spoken; were it possible to express it, then it would not
 be the Tao. Who is it that can understanding the form of the formless?"
 Thus Lao Tzû said: (Chap. 2)<span
-id="fr_4"></span>[4](tgln1.htm#5_note_4)
+id="fr_4"></span>[4](tgln1.htm#5_note_4.md)
 
 > <span class="small">THE GOODNESS THAT IS RECOGNIZED AS SUCH BY ALL THE
 > WORLD IS NOT THE GOODNESS: AND SO IT MAY BE SAID, HE WHO KNOWS DOES
@@ -82,7 +82,7 @@ id="fr_4"></span>[4](tgln1.htm#5_note_4)
    *A case of conscience. Silence is golden.*—Duke Pei asked Confucius
 "May men use dark hints or an obscure and subtle way of speech?"
 Confucius made no response. Duke Pei<span
-id="fr_5"></span>[5](tgln1.htm#5_note_5) said, "What about a stone
+id="fr_5"></span>[5](tgln1.htm#5_note_5.md) said, "What about a stone
 thrown into the water?" Confucius replied, "The expert swimmers of Wu
 and Yüeh would get to the bottom and feel it." He again enquired: "What
 about the effect of throwing water into water? No trace of one, as
@@ -92,12 +92,12 @@ tastes of each by such as I Shen." Duke Pei then said, "Such being the
 case, men certainly cannot use occult language." To which Confucius
 replied, "Why say it cannot be done?" Who knows the sense of words that
 are spoken? He who knows what words signify does not express (his
-thought) in words."<span id="fr_6"></span>[6](tgln1.htm#5_note_6)
+thought) in words."<span id="fr_6"></span>[6](tgln1.htm#5_note_6.md)
 
    "A fisherman must enter the deep water to catch his fish; a hunter
 must brave danger and enter the lair to get his prey. This is inevitable
 and not a mere matter of pleasure. Hence the most perfect language<span
-id="fr_7"></span>[7](tgln1.htm#5_note_7) does away with words, and the
+id="fr_7"></span>[7](tgln1.htm#5_note_7.md) does away with words, and the
 perfect action consists in *Wu-wei*. He who has but a superficial
 knowledge of a matter in <span id="page_104">p. 104</span> dispute, is
 shallow and fails to go to the root."
@@ -148,7 +148,7 @@ THIEVES AND ROBBERS ARE MANY."</span></td>
 </table>
 
    *The art of education is to teach, "How to see."*<span
-id="fr_9"></span>[9](tgln1.htm#5_note_9)—T‛ien Pien was expounding
+id="fr_9"></span>[9](tgln1.htm#5_note_9.md)—T‛ien Pien was expounding
 certain principles of the Tao to the King of Ch‛i, and the King, in the
 conversation, said, "What I am faced with are the practical policies of
 the Kingdom of Ch‛i; these principles of yours are useless as means to
@@ -203,7 +203,7 @@ generously towards the people, and serve his own true self-interest
 thereby, showed that he was most stupid as well as avaricious. The <span
 id="page_106">p. 106</span> niggardliness of Duke Pei was in no way
 different from the love of the owl for its young.<span
-id="fr_10"></span>[10](tgln1.htm#5_note_10) This agrees with Lao Tzu's
+id="fr_10"></span>[10](tgln1.htm#5_note_10.md) This agrees with Lao Tzu's
 saying: (Chap. 9.)
 
 > <span class="small">IT IS ENOUGH TO CARRY A FULL VESSEL; DON'T TRY TO
@@ -364,7 +364,7 @@ lines. The Prince said, "Mine is a small country, a country of only
 Hu, the lifter of 100 catties would think nothing of lifting one catty.
 This means that a small country can all the more easily carry on
 government on moral and civil methods.<span
-id="fr_11"></span>[{11}](tgln1.htm#5_note_11)
+id="fr_11"></span>[{11}](tgln1.htm#5_note_11.md)
 
    *Tu Hê counselled Chou Chao Wen, the Prince, on how to pacify the
 empire.*—After the disruption of Chou, Wen Chun asked advice of Tu Hê on
@@ -403,7 +403,7 @@ proper principles of action, which is consonant with Lao Tzu's dictum:
 <span class="small">"PERCEPTION OF THE GERM IS ENLIGHTENMENT."</span>
 
    *Militarism is baneful.*—Wei Wu Hou enquired of Li K‛e<span
-id="fr_12"></span>[12](tgln1.htm#5_note_12) the cause of the decay of
+id="fr_12"></span>[12](tgln1.htm#5_note_12.md) the cause of the decay of
 the Wu nation. His reply was: "Wu often fought and often conquered,"
 i.e., Wu was too often victorious in war. Wu Hou answered that frequent
 victories in war should lead to the greatness of a country, and he could
@@ -423,7 +423,7 @@ Lao Tzu's words give the principle: (Chap. 9.)
 > HEAVEN."</span>
 
    *The Saviour of his Country.*—Ning Yüeh<span
-id="fr_13"></span>[13](tgln1.htm#5_note_13) desired an <span
+id="fr_13"></span>[13](tgln1.htm#5_note_13.md) desired an <span
 id="page_112">p. 112</span> official post from Duke Huan of Ch‛i, but he
 had no means of getting an interview with him. In the meantime he
 followed the work of a merchant, and was on his way to Ch‛i, driving his
@@ -434,7 +434,7 @@ many and the retainers were numerous. Ning Yüeh saw his opportunity and,
 tapping the horns of his cow, sang a ditty in high clear notes. Duke
 Huan tapped the arm of his attendant, saying, "How strange! That singer
 can be no ordinary person. Let him come in the train of the
-carriages."<span id="fr_14"></span>[14](tgln1.htm#5_note_14) When Duke
+carriages."<span id="fr_14"></span>[14](tgln1.htm#5_note_14.md) When Duke
 Huan had returned home, his attendants waited his instructions regarding
 the guest. The Duke prepared court robes for him for an interview. Ning
 Yüeh talked about how to govern a country at the interview. Duke Huan
@@ -456,15 +456,15 @@ best."
 > <span class="small">"HEAVEN IS GREAT; EARTH IS GREAT; THE TAO IS
 > GREAT; THE KING IS ALSO GREAT. WHEN THOSE FOUR GREATNESSES EXIST
 > WITHIN THE BORDERS, THE KING SHARES ONE OF THEM."<span
-> id="fr_15"></span>[15](tgln1.htm#5_note_15)</span>
+> id="fr_15"></span>[15](tgln1.htm#5_note_15.md)</span>
 
    *The man worthy to rule and be king.*—Tan Fu,<span
-id="fr_16"></span>[16](tgln1.htm#5_note_16) the <span id="page_113">p.
+id="fr_16"></span>[16](tgln1.htm#5_note_16.md) the <span id="page_113">p.
 113</span> great ancestor, lived in Pin. Being attacked by the Tartars,
 he hid tribute of furs, cotton, silk fabrics, precious stones, which,
 being refused, made him say, "What the Tartars want is land: wealth and
 goods will not satisfy them." T‛ai Wang Tan Fu<span
-id="fr_17"></span>[17](tgln1.htm#5_note_17) reasoned in this way: "To
+id="fr_17"></span>[17](tgln1.htm#5_note_17.md) reasoned in this way: "To
 live with the people (elder brothers) and kill their brothers, to mingle
 with the fathers and slay their sons are acts I will not be a party to;
 so rest you here in peace. To serve the Tartars will not be different
@@ -508,14 +508,14 @@ thus: (Chap. 55, 32.)
 > MIND, USING THE FORCES OF THE FLESH, IS CALLED ANIMAL STRENGTH. SO, BY
 > USING THE LIGHT AND REVERTING TO THIS ENLIGHTENMENT, NO CALAMITY WILL
 > THEN BE BEQUEATHED TO THE BODY."<span
-> id="fr_18"></span>[18](tgln1.htm#5_note_18)</span>
+> id="fr_18"></span>[18](tgln1.htm#5_note_18.md)</span>
 
    *A mere knowledge of the art of government is insufficient for
 ruling.*—Chuang Wang of Ts‛u consulted Chan Ho on how to govern a
 country. He replied, "I am versed in the government of the person, but
 not in the government of a country." Tz‛u Wang further said: "I have
 come into possession of the Penates and Lares<span
-id="fr_19"></span>[19](tgln1.htm#5_note_19) and would like to learn how
+id="fr_19"></span>[19](tgln1.htm#5_note_19.md) and would like to learn how
 to preserve them." Chan Ho replied, "Your servant has never heard of any
 country being in disorder when the person of the ruler is well-governed:
 nor, on the other hand, have I ever heard that order can be had in a
@@ -546,7 +546,7 @@ cannot transmit this expertness to his son, nor can the son get it from
 him, and so he is still working at wheels, though close on 70 years of
 age. It is so with the words of the sages; the real bloom of them died
 with their authors, and there is nothing but the empty lees and husks
-remaining."<span id="fr_20"></span>[20](tgln1.htm#5_note_20) Lao Tzŭ's
+remaining."<span id="fr_20"></span>[20](tgln1.htm#5_note_20.md) Lao Tzŭ's
 words supply the principle: (Chap. 1.)
 
 > <span class="small">"THE TAO THAT CAN BE EXPRESSED IN WORDS IS NOT THE
@@ -743,7 +743,7 @@ hitherto, overtaken him, and it must be that you are the man to bring
 this on. Ah: wait and see!" Wu Ch‛i became alarmed and asked if there
 were a possibility of avoiding such a catastrophe. Ch‛u Tzû replied that
 as the catastrophe impending over all had already taken form,<span
-id="fr_22"></span>[22](tgln1.htm#5_note_22) it would be impossible to
+id="fr_22"></span>[22](tgln1.htm#5_note_22.md) it would be impossible to
 avert it. All that could be done was to alleviate any deleterious
 effects by generous love and sincere actions. As Lao Tzû says: (Chap.
 45.)
@@ -751,7 +751,7 @@ effects by generous love and sincere actions. As Lao Tzû says: (Chap.
 > <span class="small">"BLUNT THE EDGE OF YOUR DESIRES; SCATTER YOUR
 > TENDENCY TO STRIFE; GET THE TRUE LIGHT OF THE TAO; MAKE YOURSELF ONE
 > WITH THE COMMON MAN.<span
-> id="fr_21"></span>[21](tgln1.htm#5_note_21)</span>
+> id="fr_21"></span>[21](tgln1.htm#5_note_21.md)</span>
 
    *Great is humility.*—When Tsin was going to attack Ts‛u, and when the
 army was not more than 105 *li* away and still coming on, the ministers
@@ -789,7 +789,7 @@ alarmed the Duke that he called the astronomer Tzŭ Wei for consultation
 on the portent, who reported that the appearance of Mars signified a
 judgment of Heaven, since the *heart* constellation was the celestial
 arc that governed the territory of Sung.<span
-id="fr_23"></span>[23](tgln1.htm#5_note_23) Further the Prince would
+id="fr_23"></span>[23](tgln1.htm#5_note_23.md) Further the Prince would
 have to bear the impending calamity: nevertheless it would be possible
 to shift this on to the shoulders of the Prime Minister. But the Duke
 objected to this since he carried the work of government and it would be
@@ -953,7 +953,7 @@ retire late and mend my ways and cultivate virtue, belabouring my mind
 and wearing my body with heavy toils! But if I don't do it and let him
 go and think no more about him, I fear he would attack me." Ts‛un Hou Hu
 said to him; "Chou Pei Ch‛ang<span
-id="fr_24"></span>[24](tgln1.htm#5_note_24) i.e. Wen Wang, is a person
+id="fr_24"></span>[24](tgln1.htm#5_note_24.md) i.e. Wen Wang, is a person
 of benevolence and justice and of good judgement. His eldest son, Fa, is
 a man of courage and determination. His second son, Tan, is a person of
 pious and frugal habits and possesses the gift of reading the drift of
@@ -977,7 +977,7 @@ and music; but really he was waiting his chance to fall on Chou. When
 Chou heard of these infatuations, it made him say: "Chou Pei Ch‛ang has
 changed his way and altered his course of life. There will be no more
 disquiet for me." Chou, however, did not mend his ways, but cast the
-iron man,<span id="fr_25"></span>[25](tgln1.htm#5_note_25) he took out
+iron man,<span id="fr_25"></span>[25](tgln1.htm#5_note_25.md) he took out
 the heart of Pei Kan, and ripped out the embryo of a pregnant woman and
 slew the minister who remonstrated with him. Wen Wang at length arose at
 these enormities and put his plans into execution. Lao Tzû says: (Chap.
@@ -991,7 +991,7 @@ these enormities and put his plans into execution. Lao Tzû says: (Chap.
 from Yen I on political matters, desiring to know how he should act so
 that the authorities could gain the affection of the people. Yen I
 replied in these words: "Employ them at suitable seasons:<span
-id="fr_26"></span>[26](tgln1.htm#5_note_26) be mindful of their
+id="fr_26"></span>[26](tgln1.htm#5_note_26.md) be mindful of their
 interests: respect their feelings." In response the king wanted to know,
 further, how these things were to be done. Yen replied, "Act with
 circumspection as though you were approaching a deep pool or treading on
@@ -1002,7 +1002,7 @@ servants of Hsia and Shang became the enemies of the kings, Chieh and
 Chou, and transferred their allegiance to Tang and Wu. The people of Hsü
 Hsia attacked their ruler and <span id="page_127">p. 127</span> allied
 themselves to Shen Nung.<span
-id="fr_27"></span>[27](tgln1.htm#5_note_27) All the world knows these
+id="fr_27"></span>[27](tgln1.htm#5_note_27.md) All the world knows these
 things. Kings should stand in awe." The principle is given by Lao Tzû in
 these words: (Chap. 12.)
 
@@ -1074,7 +1074,7 @@ Just as Lao Tzŭ says: (Chap. 27.)
 
    *The true culture of the Tao and life.*—Yen Hui told Chung Ni
 (Confucius) "I have made progress." "How so?" asked Chung Ni. He replied
-"Hui<span id="fr_28"></span>[28](tgln1.htm#5_note_28) can forego
+"Hui<span id="fr_28"></span>[28](tgln1.htm#5_note_28.md) can forego
 Etiquette and Music." Confucius said: "Good, but your progress is not
 yet complete." Another day, Yen Hui saw Confucius and said: "Hui has
 made progress." "In what way? asked Confucius. "I have dispensed with
@@ -1139,7 +1139,7 @@ related the events to the people. Lao Tzu says: (Chap. 71.)
 > <span class="small">"TO HAVE KNOWLEDGE AND YET APPEAR NOT TO KNOW, IS
 > THE HIGHEST ATTAINMENT. TO HAVE NO KNOWLEDGE AND YET GIVE THE
 > APPEARANCE OF KNOWING, IS CHICANERY."<span
-> id="fr_29"></span>[29](tgln1.htm#5_note_29)</span>
+> id="fr_29"></span>[29](tgln1.htm#5_note_29.md)</span>
 
    *In the choice of a wife, don't be led away by the senses.*—After the
 death of the queen of Ch‛i, the King desired to choose a queen-consort
@@ -1158,7 +1158,7 @@ control the master. Just as Lao Tzu says: (Chap. 52.)
 > DOOR OF THE DESIRES. THIS WILL STOP THE CARES OF LIFE."</span>
 
    *Another case of Newton and the sands.*—Lu Ao,<span
-id="fr_30"></span>[30](tgln1.htm#5_note_30) a man haughty and proud,
+id="fr_30"></span>[30](tgln1.htm#5_note_30.md) a man haughty and proud,
 went touring towards the North Sea to find an arhat. Having crossed
 through to the limit of the North, he entered the Hsuan Ch‛üeh mountain
 and arrived at the top of the Meng Ku range. Here he met with a
@@ -1190,7 +1190,7 @@ rolling waters. Thither it is I have not been able to reach. Now Sir,
 having reached this place to which you have voyaged for the first time,
 you musn't think you have reached the end of the world: as a matter of
 fact you are far from that. Rest here, Sir: I must go to Han Man.<span
-id="fr_31"></span>[31](tgln1.htm#5_note_31) beyond the range of the nine
+id="fr_31"></span>[31](tgln1.htm#5_note_31.md) beyond the range of the nine
 Heavens. I musn't abide here long." This strange man then lifted his
 arms and pulling together his body, forthwith disappeared in the clouds.
 Lu Ao, looking after him, saw him not. He stopped his chariot. Feeling
@@ -1206,7 +1206,7 @@ Tzu says:
 > COMES ROUND. THE CICADA KNOWS NEITHER AN AUTUMN NOR SPRING."</span>
 
    These words show clearly that there are many things we can never
-know.<span id="fr_32"></span>[32](tgln1.htm#5_note_32)
+know.<span id="fr_32"></span>[32](tgln1.htm#5_note_32.md)
 
    *Let the King cultivate a conscience in the people.*—Ch‛i Tzŭ ruled
 Shan Fu for three years. Wu Ma-ch‛i, making himself incognito, went
@@ -1231,7 +1231,7 @@ administration." Lao Tzû puts it in this way: (Chap. 12.)
 the water said to Shadow: "Is Luminosity a spirit?" The Shadow replied,
 "Nay". The Spirit of the water said, "How do you know?" Shadow replied,
 "The light passes Fu Sang,<span
-id="fr_33"></span>[33](tgln1.htm#5_note_33) the orient, and daily
+id="fr_33"></span>[33](tgln1.htm#5_note_33.md) the orient, and daily
 illumines the Universe. The brilliancy of the light, tinging the four
 seas and the world, has no means of entering the closed door and the
 stopped-up window, but spirit penetrates everywhere and floods
@@ -1244,10 +1244,10 @@ spirit." As Lao Tzû says: (Chap. 43.)
 > <span class="small">"THE MOST YIELDING THING IN THE WORLD
 > INTERPENETRATES THE FIRMEST."</span>
 
-   Brilliancy<span id="fr_34"></span>[{34}](tgln1.htm#5_note_34) asked
+   Brilliancy<span id="fr_34"></span>[{34}](tgln1.htm#5_note_34.md) asked
 Non-Being, "Have you really an existence or are you really
 non-existent?" Non-Being made no reply to this.<span
-id="fr_35"></span>[35](tgln1.htm#5_note_35) Not able to see any
+id="fr_35"></span>[35](tgln1.htm#5_note_35.md) Not able to see any
 objective form which he could address, he kept gazing on Non-Being's
 appearance, dim and vague. He gazed, but saw no manifest form; he
 listened, but discerned no sound; he clutched at it, but failed to grasp
@@ -1255,14 +1255,14 @@ anything; he viewed it, but could not fathom it. Brilliancy exclaimed.
 "Wonderful! <span id="page_134">p. 134</span> Who can attain to this? I
 can be the Invisible Spirit, but I cannot differentiate his qualities; I
 can get to be nothing, but I cannot attain to the elimination of nothing
-itself."<span id="fr_36"></span>[36](tgln1.htm#5_note_36) As Lao Tzû
+itself."<span id="fr_36"></span>[36](tgln1.htm#5_note_36.md) As Lao Tzû
 says: (Chap. 43.)
 
 > <span class="small">"SINCE THE NON-BEING ENTERS INTO THE NON-SPATIAL,
 > I KNOW THEREFORE THAT WU-WEI IS PROFITABLE."</span>
 
    *The Supremacy of the Spirit.*—Pei Kung Sheng<span
-id="fr_37"></span>[37](tgln1.htm#5_note_37) meditated a revolution.
+id="fr_37"></span>[37](tgln1.htm#5_note_37.md) meditated a revolution.
 After the end of an audience, he stood leaning on his lance; the point
 pricked his jaw and the blood flowed, but without his being conscious of
 it. When the people of Cheng heard of it, they said: "If he is
@@ -1281,25 +1281,25 @@ objects, things nearer the body are foregotten. Just as Lao Tzû says:
    The saying is illustrated by the foregoing historical episode.
 
    *Forts are not the best guardians of a frontier.*—The emperor
-Ts‛in,<span id="fr_38"></span>[38](tgln1.htm#5_note_38) anxious about
+Ts‛in,<span id="fr_38"></span>[38](tgln1.htm#5_note_38.md) anxious about
 maintaining the empire he had won, assigned guardposts on the frontiers,
 built the Great Wall, organized likin stations and bridges, erected
 fortifications, prepared express services and appointed frontier
 officials. Nevertheless Liu Pang captured the empire most easily.<span
-id="fr_39"></span>[39](tgln1.htm#5_note_39)
+id="fr_39"></span>[39](tgln1.htm#5_note_39.md)
 
    When Wu Wang punished Chou and broke his power at Mu Yeh, he
 nevertheless sealed up the grave of Pi Kan (Chou's founder): he
 exhibited notices of immunity and protection over the shops of the
 merchants; he placed a guard at the door of Ch‛i Tzu.<span
-id="fr_40"></span>[40](tgln1.htm#5_note_40) He offered his respects
+id="fr_40"></span>[40](tgln1.htm#5_note_40.md) He offered his respects
 <span id="page_135">p. 135</span> at the temple of Ch‛eng Ch‛iao; he
 distributed the grain at Chu Ch‛iao; he disbursed the money-hoards at Lu
 T‛ai; he broke his war drum and war staff; he unbent his bows and broke
 their strings; he abandoned his palace and lived in the suburbs to show
 the settlement of peace and the change of regime. He laid by the sword
 and adopted the ivory tablet,<span
-id="fr_41"></span>[41](tgln1.htm#5_note_41) to show that all enmity had
+id="fr_41"></span>[41](tgln1.htm#5_note_41.md) to show that all enmity had
 been laid aside. Whereupon the whole empire became jubilant and praised
 him. The Feudal Lords brought their tributes (silk) and paid court for
 34 generations, without a break. As Lao Tzŭ says: (Chap. 27.)
@@ -1323,7 +1323,7 @@ says: (Chap. 16.)
 > <span class="small">"WHEN THE MIND IS CONVINCED OF THE UNREALITY OF
 > VISIBLE THINGS AND HOLDS STEADFASTLY TO THIS UNDISTUBED STATE, THOUGH
 > THE WHOLE CREATION IS SPREAD OUT BEFORE THE EYES, I LOOK TO THE
-> MIND."<span id="fr_42"></span>[42](tgln1.htm#5_note_42)</span>
+> MIND."<span id="fr_42"></span>[42](tgln1.htm#5_note_42.md)</span>
 
    *Superior Men.*—Formerly Sun Hsü Ao thrice gained the post of Prime
 Minister without showing any special gratification. He also vacated the
@@ -1365,7 +1365,7 @@ Ch‛i counselled King Wu to adopt the principle of Federation. The King
 accepted the advice and gave him ten fine chariots to go to Ching. When
 about to depart, his men held that federation was not good enough; so he
 offered the King the further advice of <span id="page_137">p. 137</span>
-Imperialism.<span id="fr_43"></span>[43](tgln1.htm#5_note_43) Just as he
+Imperialism.<span id="fr_43"></span>[43](tgln1.htm#5_note_43.md) Just as he
 was departing with this alternative idea, the King stopped him, as he
 had lost confidence in a man who had as suddenly abandoned the purpose
 of federation, holding such a person incompetent to work out the
@@ -1373,7 +1373,7 @@ principle of imperialism, as he was unstable. Words should be based on
 conviction, and business should be carried forward on fundamental
 principles. When these are both lost, devices, though many, are useless.
 This is the significance of the figure biting his finger cast on the
-Chou tripod.<span id="fr_44"></span>[44](tgln1.htm#5_note_44) It showed
+Chou tripod.<span id="fr_44"></span>[44](tgln1.htm#5_note_44.md) It showed
 the mind of the ancient kings how they did not care to use forced
 cleverness. Hence Sheng Tzû says, "A carpenter knows how to make a door.
 If he only made one to open and not to shut, he would not know the
@@ -1404,7 +1404,7 @@ deer and stags roam on the bare hills, since there is no cover to give
 them hiding.
 
    *Generosity of spirit.*—Once on a time, Chao Wen Tzû asked Shu
-Hsiang<span id="fr_45"></span>[45](tgln1.htm#5_note_45) which of the six
+Hsiang<span id="fr_45"></span>[45](tgln1.htm#5_note_45.md) which of the six
 generals of Tsin would die first. He replied that it would be Chih of
 the centre army: "because," he said, "this man in administering, carried
 on his examination with harshness; he informed himself of vexatious
@@ -1458,7 +1458,7 @@ Lao Tzû says: (Chap. 18.)
 
    *Do not be puffed up by knowledge.*—When Confucius was viewing the
 fane of Duke Huan, in which was a vessel called Yu Chih,<span
-id="fr_46"></span>[{46}](tgln1.htm#5_note_46)—or the leaning tube,—he
+id="fr_46"></span>[{46}](tgln1.htm#5_note_46.md)—or the leaning tube,—he
 exclaimed: "How splendid that we have seen this vessel!" Turning to his
 disciples, he said, "Boys, bring some water." When the vessel was half
 filled, it stood upright; but when the water reached the brim, the
@@ -1499,7 +1499,7 @@ securely for long, he should shut up the avenue of the senses, i.e. the
 eye, ear, nose, mouth of the people.
 
    The Tao was useless for the people and education but an evil.<span
-id="fr_47"></span>[47](tgln1.htm#5_note_47) When the people are all
+id="fr_47"></span>[47](tgln1.htm#5_note_47.md) When the people are all
 pleased with their occupations and their desires all gratified, the cap
 of the general may be changed for that of the scholar. Let the sword be
 sheathed and the ivory displayed. Let the people <span id="page_141">p.
@@ -1523,7 +1523,7 @@ without the fear of loss. As Lao Tzû says: (Chap. 37.)
 
 ------------------------------------------------------------------------
 
-[Next](tgl6)
+[Next](tgl6.md)
 
  
 

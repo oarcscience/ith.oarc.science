@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft44)  [Next](meft46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft44)  [Next](meft46.md) 
 
 ------------------------------------------------------------------------
 
 # Princess of Canterbury
 
 <span id="img_059"></span> [![](tn/059.jpg)  
-Click to enlarge](img/059.jpg)
+Click to enlarge](img/059.jpg.md)
 
 THERE lived formerly in the County of Cumberland a nobleman who had
 three sons, two of whom were comely and clever youths, but the other a
@@ -115,4 +115,4 @@ lived for many years in happiness and prosperity.
 
 ------------------------------------------------------------------------
 
-[Next: Introductory Notes](meft46)
+[Next: Introductory Notes](meft46.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos08)  [Next](gbos10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos08)  [Next](gbos10.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ then stay to\] feast and dance.
 
 ------------------------------------------------------------------------
 
-[Next: The Sabbat Rituals: August Eve](gbos10)
+[Next: The Sabbat Rituals: August Eve](gbos10.md)

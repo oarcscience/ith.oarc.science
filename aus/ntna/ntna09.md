@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna08)  [Next](ntna10) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna08)  [Next](ntna10.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ part with his strength to the boy and to die.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII: Beliefs in Regard to the Origin of
-Children](ntna10)
+Children](ntna10.md)

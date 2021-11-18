@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](ath07)  [Next](ath09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](ath07)  [Next](ath09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -74,7 +74,7 @@ the most part the scientists and philosophers of the Muslim world were
 of Persian, Turkish, or Berber blood, but al-Kindi was descended from
 the Yemenite kings of Kinda (cf. genealogy quoted from the *Tarikh
 al-Hakama* cited in note (22) of De Slane's trans. of Ibn
-[Khallikan](errata.htm#16), vol. i. p. 355). Very little is known about
+[Khallikan](errata.htm#16), vol. i. p. 355.md). Very little is known about
 his life, save that his father was governor of Kufa, that he himself
 studied at Baghdad, under what teachers is not known, and stood high in
 favour with the Khalif Mu‘tasim (A.H. 218-227). His real training and
@@ -242,7 +242,7 @@ the end of the 3rd century A.H. as he met them in the course of his
 travels. It has been published as the second volume of De Goeje's
 *Bibliotheca Geographorum Arab*. (Leiden., 1873).
 
-The next great philosopher was *Muhammad b.* [*Muhammad*](errata.htm#17)
+The next great philosopher was *Muhammad b.* [*Muhammad*](errata.htm#17.md)
 *b. Tarkhan Abu Nasr al-Farabi* (d. 339), of Turkish descent. He was "a
 celebrated philosopher, the greatest indeed that the Muslims ever had;
 he composed a number of works on logic, music, and other sciences. No
@@ -364,7 +364,7 @@ questions."
 Like al-Kindi he accepted the *Theology* as a genuine work of Aristotle,
 and shows very clear traces of its influences. In his treatise "On the
 intelligence" he makes a careful analysis of the way in which the term
-[*‘aql*](errata.htm#18) (reason, intelligence, spirit) is employed in
+[*‘aql*](errata.htm#18) (reason, intelligence, spirit.md) is employed in
 general speech and in philosophical enquiry. In common language "a man
 of intelligence" denotes a man of
 
@@ -564,7 +564,7 @@ through the *‘aql*, introduced movement, at which time commenced; as
 movement and time came into existence simultaneously, forthwith creation
 already existing in the timeless came out of its concealment and entered
 into reality. The term "creation" is sometimes used as applying to this
-emergence from timeless [quiescence](errata.htm#19), but more properly
+emergence from timeless [quiescence](errata.htm#19.md), but more properly
 may be taken as denoting the causation, which, as it preceded time, came
 into unmeasured eternity, which is what Aristotle means when he speaks
 of the world as eternal. Thus both Qur’an and Aristotle are right, but
@@ -701,7 +701,7 @@ claim, and the preachers fled to Syria, then a part of the Fatimite
 dominions, and there founded a sect which still exists in the Lebanon
 under the name of the Druzes. Soon after this al-Hakim himself
 disappeared; some said he was murdered, others said he had retired to a
-Christian [monastery](errata.htm#20), and was recognised there
+Christian [monastery](errata.htm#20.md), and was recognised there
 afterwards as a monk; others believed he had gone up to heaven, and more
 than one claimant appeared asserting that he was al-Hakim returned from
 concealment. The other off-shoot shows a more definitely philosophical
@@ -727,7 +727,7 @@ to Asia. There were two factions in Cairo, the adherents respectively of
 the Khalif's two sons, Nizar and Musta‘li; Nasir-i-Khusraw and
 Hasan-i-Sabbah had already made themselves known as supporters of the
 elder son Nizar, but the court officials in Egypt adhered to the younger
-son [Musta‘li](errata.htm#21). When the Khalif al-Mustansir died in 487
+son [Musta‘li](errata.htm#21.md). When the Khalif al-Mustansir died in 487
 the Isma‘ilian sect divided into two new branches, the Egyptians and
 Africans generally recognising Musta‘li, the Asiatics adhering to Nizar.
 This latter group had already been well organised by Nasir-i-Khusraw and
@@ -776,7 +776,7 @@ present day. Scattered relics survive also in central Asia, in Persia,
 and in India; the Agha Khan is a lineal descendant of Ruknu d-Din
 Khurshah, the last Sheikh at Alamut.
 
-Thus the [movement](errata.htm#22) started by Abdullah, the son of
+Thus the [movement](errata.htm#22.md) started by Abdullah, the son of
 Maymun, whose original purpose seems to have been to maintain a highly
 philosophical religion as revealed by Aristotle and the neo-Platonists,
 but to safeguard this as an esoteric faith disclosed only to initiates,
@@ -814,7 +814,7 @@ tempting to suggest that it may have been a reformation of
 
 <span id="page_165">p. 165</span>
 
-the [Isma’ilians](errata.htm#23) on the part of those who wished to
+the [Isma’ilians](errata.htm#23.md) on the part of those who wished to
 return to the original aims of the movement.
 
 The published work of the brotherhood appears in a series of 51
@@ -830,7 +830,7 @@ leading spirit in the preparation of this encyclopædia was Zayd b.
 Rifa’a, and with him were associated Abu Sulayman Muhammad al-Busti, Abu
 l-Hasan ‘Ali az-Zanjani, Abu Ahmad al-Mahrajani, and al-Awfi, but it
 does not follow that these were the founders of the brotherhood, as some
-have [supposed](errata.htm#24).
+have [supposed](errata.htm#24.md).
 
 A great part of the *Epistles of the Brotherhood* deals with logic and
 the natural sciences, but when the writers turn to metaphysics,
@@ -938,7 +938,7 @@ first to last the whole of the Isma‘ilian movement was connected with
 the intellectual revival due to the reproduction of Greek philosophy in
 Arabic form, less so, of course, when the Isma‘ilian converts were drawn
 from the illiterate classes, as was the case with the
-[Qarmatians](errata.htm#25), and when the attention of the members was
+[Qarmatians](errata.htm#25.md), and when the attention of the members was
 engrossed with political ambitions, as was the case with the Fatimids
 whilst they were building up their power in Africa before the invasion
 of Egypt. But even under the most unfavourable conditions it seems that
@@ -951,7 +951,7 @@ and then turned to the study of jurisprudence
 <span id="page_170">p. 170</span>
 
 and mystic theology. Jurisprudence, that is to say, the canon law based
-on one of the orthodox systems laid down by [Abu](errata.htm#26) Hanifa
+on one of the orthodox systems laid down by [Abu](errata.htm#26.md) Hanifa
 and the other recognised jurists, or by their Shi‘ite rivals, has always
 been the backbone of Islamic scholarship, and was thus parallel with the
 study of canon law in mediæval Europe: in each case it turned men's
@@ -1137,7 +1137,7 @@ forming general ideas; (iii.) *al wahm*, or "opinion," by means of which
 a general conclusion is drawn from a number of ideas grouped together;
 and (iv.) *al-hafiza* or *az-zakira*, "memory," which preserves and
 records the judgments formed. Men and animals perceive
-[particulars](errata.htm#27) by means of sense; man attains the
+[particulars](errata.htm#27.md) by means of sense; man attains the
 knowledge of universals by means of reason. The *‘aql* or rational soul
 of man is conscious of its own faculties, not by means of an external,
 i.e., bodily sense, but immediately by the exercise of its own reasoning
@@ -1225,4 +1225,4 @@ students.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Sufism](ath09)
+[Next: Chapter VII. Sufism](ath09.md)

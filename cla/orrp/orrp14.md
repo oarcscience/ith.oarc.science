@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp13)  [Next](orrp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp13)  [Next](orrp15.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,10 +113,10 @@ collected by Alb. Dieterich, *Eine Mithrasliturgie*, pp. 212 ff. He adds
 <span id="page_217">p. 217</span>
 
 τὸ ψυςρὸν ὔδωρ, *Archiv für Religionswiss.*, VIII, 1905, p. 504, n 1.
-\[Cf. *infra*, ch. IV, n.  [4\_90](orrp17.htm#xref_4_90).\] Among the
+\[Cf. *infra*, ch. IV, n.  [4\_90](orrp17.htm#xref_4_90.md).\] Among the
 hymns of greatest importance for the Oriental cults we must cite those
 in honor of Isis, discovered in the island of Andros (Kaibel, *Epigr*.,
-4028) and elsewhere (see ch. IV, n.  [4\_6](orrp17.htm#xref_4_6)).
+4028) and elsewhere (see ch. IV, n.  [4\_6](orrp17.htm#xref_4_6).md).
 Fragments of hymns in honor of Attis have been preserved by Hippolytus
 (*Philosoph.*, V, 9. pp. 168 ff.) The so-called orphic hymns (Abel,
 *Orphica*, 1883), which date back to a rather remote period, do not seem
@@ -181,7 +181,7 @@ observations of Neustadt, *Berl. Philol. Wochenschr.*, 1907, p.
 Scott Moncrieft, *Journ. of Hell. Studies*, XIX, 1909, p. 81.
 
 <span id="xref_1_21">1\_21</span>. See ch. VII, pp.
-[202](orrp12.htm#page_202)-203.
+[202](orrp12.htm#page_202.md)-203.
 
 <span id="xref_1_22">1\_22</span>. Cf. *Mon myst. Mithra*, I, p. 75, p.
 219.--For Egypt see Georges Foucart, "L'art et la religion dans
@@ -194,4 +194,4 @@ en France*, can be applied to the art of dying paganism.
 
 ------------------------------------------------------------------------
 
-[Next: II. Why the Oriental Religions Spread](orrp15)
+[Next: II. Why the Oriental Religions Spread](orrp15.md)

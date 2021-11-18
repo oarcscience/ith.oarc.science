@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai09) 
-[Next](phai11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai09.md) 
+[Next](phai11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -233,7 +233,7 @@ doubt that Judges i., xvii., xviii. have the best right to be reckoned
 as belonging to the original stock; but these portions are excluded from
 reception within the scheme, because they have nothing to say about any
 judges, and give a picture of the general state of affairs which accords
-but ill with that plan. <span id="fr_124"></span>[1](#fn_124)
+but ill with that plan. <span id="fr_124"></span>[1](#fn_124.md)
 
 At the bottom of the spurious continuity lies an erroneous widening of
 the areas in which the judges exerted their influence. Out of local
@@ -444,7 +444,7 @@ inauguration, both tracing their origin to the patron of Ophra? They do
 not agree together, and the reason is plain why the second was added.
 The altar of a single stone, the flames bursting out of it, the
 evergreen tree, the very name of which, Ela, seems to indicate a natural
-connection with El, <span id="fr_125"></span>[1](#fn_125)—all this was
+connection with El, <span id="fr_125"></span>[1](#fn_125.md)—all this was
 in the eyes of a later generation far from correct, indeed it was
 Baal-work. A desire that the piety of Gideon should be above suspicion
 gave rise to the second story, in which he erects an altar of Jehovah in
@@ -498,7 +498,7 @@ were even in the Assyrian period a regular part of the belongings of the
 to remember that the contradiction between a human kingship and the
 kingship of Jehovah, such as is spoken of in these verses, rests upon
 theories which arose later, and of which we shall have more to
-say. <span id="fr_126"></span>[1](#fn_126) Studer will thus be correct
+say. <span id="fr_126"></span>[1](#fn_126.md) Studer will thus be correct
 in his assertion that the
 
 <span id="page_240">p. 240</span>
@@ -580,7 +580,7 @@ for taking up arms: "Arise, Barak; take captive thy captors, thou son of
 Ahinoam." And the prophetess has not only to prophesy; she works in a
 more psychological manner; she is part of the battle, and inflames with
 her song the courage of the fighting battalions: "Awake, Deborah, awake,
-sing the song!" <span id="fr_127"></span>[1](#fn_127) Throughout these
+sing the song!" <span id="fr_127"></span>[1](#fn_127.md) Throughout these
 variations of the prose reproduction we feel that the rich colour of the
 events as they occurred is bleached
 
@@ -1106,7 +1106,7 @@ were as fully conscious as any other people of the gratitude they owed
 to the men and to the institutions by whose aid they had been lifted out
 of anarchy and oppression, and formed into an orderly community, capable
 of self-defence. Of this the Books of Samuel afford the most eloquent
-testimony. <span id="fr_128"></span>[1](#fn_128)
+testimony. <span id="fr_128"></span>[1](#fn_128.md)
 
 The position taken up in the version of 1 Sam. vii. viii. x. 17 seq.
 xii., presents the greatest possible contrast to this way of thinking.
@@ -1275,7 +1275,7 @@ when the three signs have come to pass, Saul is to do what his hand
 finds, because God is with him. This is surely giving him perfect
 freedom of action, and for the reason that God's Spirit is working in
 him, which "bloweth where it listeth," and suffers no interference from
-any authority. <span id="fr_129"></span>[1](#fn_129)
+any authority. <span id="fr_129"></span>[1](#fn_129.md)
 
 This insertion is based on an older account of the breach between Samuel
 and Saul in 1 Sam. xv. Here also the matter of dispute is a sacrifice,
@@ -1593,7 +1593,7 @@ battle is His."
 <span class="contnote">\[paragraph continues\]</span> This approaches to
 the religious language of the post-Deuteronomic time. According to 2
 Samuel xxi. 19, Goliath of Gath, whose spear-shaft was as thick as a
-weaver's beam, <span id="fr_130"></span>[1](#fn_130) fought in the wars,
+weaver's beam, <span id="fr_130"></span>[1](#fn_130.md) fought in the wars,
 not in Saul's time, but in that of his successor, and was killed, not by
 a shepherd boy but by a warrior of Bethlehem named Elhanan.
 
@@ -1619,7 +1619,7 @@ farewell then disappears, and the sentimental speeches spoken before it
 in the same style, in which Jonathan virtually admits that his father is
 right, and yet decidedly espouses David's cause, disregarding the fact
 that David will deprive him of his inheritance. <span
-id="fr_131"></span>[2](#fn_131)
+id="fr_131"></span>[2](#fn_131.md)
 
 <span id="page_267">p. 267</span>
 
@@ -1681,7 +1681,7 @@ applies it to Samuel; he only uses it, in the plural, of the troops of
 Jehovah—intoxicated dervishes. He gives it quite a different meaning
 from *Rōeh*, and also quite a different meaning from that in which
 Isaiah and Jeremiah use the word *Nabi*. <span
-id="fr_132"></span>[1](#fn_132) We cannot doubt that these distinctions
+id="fr_132"></span>[1](#fn_132.md) We cannot doubt that these distinctions
 rest on a historical basis, and only gradually melted away in later
 times: so that Samuel the seer need not be degraded into one of the
 flagellants.
@@ -1802,7 +1802,7 @@ their demand.
 The modern judgment has been prejudiced in Saul's favour by Samuel's
 curse, and to David's disadvantage by Samuel's blessing; the picture of
 the one has not suffered from the blackening so much as that of the
-other from the glorification. <span id="fr_133"></span>[1](#fn_133) Some
+other from the glorification. <span id="fr_133"></span>[1](#fn_133.md) Some
 critics, who are unencumbered either by prejudice or by knowledge of the
 subject, regard Saul as the antagonist and David as the creature of the
 clerical lust of rule, of which they see the embodiment in Samuel. But
@@ -1890,7 +1890,7 @@ first four and the last four 48 each. Two have the average number 12;
 the other 6 consists of three pairs of father and son; and the twice 12
 years belonging to each pair are divided so that the father gets 12 +
 10, and the son 12 - 10, obviously because the father was considered
-much more important than the son. <span id="fr_134"></span>[1](#fn_134)
+much more important than the son. <span id="fr_134"></span>[1](#fn_134.md)
 
 <span id="page_274">p. 274</span>
 
@@ -2011,7 +2011,7 @@ more important historical epochs: but from these reservoirs it finds its
 <span id="page_277">p. 277</span>
 
 way in smaller channels on all sides. <span
-id="fr_135"></span>[1](#fn_135) The first question asked with regard to
+id="fr_135"></span>[1](#fn_135.md) The first question asked with regard to
 each ruler is, what position he took up to the pure religion—whether he
 did what was right or what was evil in the sight of Jehovah. Even in the
 case of those who only reigned a week, this question receives an answer.
@@ -2054,7 +2054,7 @@ of the exile. The chronology reckons the exile in the period of 480
 years, giving 50 years to it; and this would bring us still lower down;
 but it is open to us to assume that this is a later modification, which
 has not further affected the general character of the work. <span
-id="fr_136"></span>[1](#fn_136) The writer looks back on the time of the
+id="fr_136"></span>[1](#fn_136.md) The writer looks back on the time of the
 kings as a period past and closed, on which judgment has already been
 declared. Even at the consecration of the temple the thought of its
 destruction is not to be restrained; and throughout the book the ruin of
@@ -2068,7 +2068,7 @@ on its history. Not only the existing generation, but the whole previous
 historical development is condemned—a fashion which we meet with first
 in Jeremiah (ii. 1 seq., iv. 3), who was actually confronted with the
 question as to the cause of the calamity. <span
-id="fr_137"></span>[2](#fn_137) Ezekiel carried out this negative
+id="fr_137"></span>[2](#fn_137.md) Ezekiel carried out this negative
 criticism of the
 
 <span id="page_279">p. 279</span>
@@ -2137,7 +2137,7 @@ Deuteronomistic, this means no more than that it came into existence
 under the influence of Deuteronomy, which pervaded the whole century of
 the exile. The difference between Deuteronomistic and Deuteronomic is
 one not of time only but of matter as well: <span
-id="fr_138"></span>[1](#fn_138) Deuteronomy itself has not yet come to
+id="fr_138"></span>[1](#fn_138.md) Deuteronomy itself has not yet come to
 regard the cultus in this way as the chief end of Israel, and is much
 closer to the realism of the actual life of the people. A difference in
 detail which allows of easy demonstration is connected with the mode of
@@ -2255,7 +2255,7 @@ being old sanctuaries, which Jerusalem was not. The golden calves,
 again, which he set up, differed in their gold but not in their object
 from the ephods and idols of other kinds which were everywhere to be
 found in the older "houses of God"; *e.g.* from the brazen serpent at
-Jerusalem. <span id="fr_139"></span>[1](#fn_139) Even Eichhorn remarked
+Jerusalem. <span id="fr_139"></span>[1](#fn_139.md) Even Eichhorn remarked
 with force and point, that though Elijah and Elisha protested against
 the imported worship of Baal of Tyre, they were the actual champions of
 the Jehovah of Bethel and Dan, and did not think of protesting against
@@ -2321,7 +2321,7 @@ translated into the mode of view of the Law, as is the case in
 Chronicles. What reminds us most strongly of Chronicles is the
 introduction from time to time of a prophet who expresses himself in the
 spirit of Deuteronomy and in the language of Jeremiah and Ezekiel, and
-then disappears. <span id="fr_140"></span>[1](#fn_140) In this way the
+then disappears. <span id="fr_140"></span>[1](#fn_140.md) In this way the
 Law is introduced into the history in a living way; the prophets keep it
 effective and see it applied, according to the principle stated, 2 Kings
 xvii. 13, which is founded on Jer. vii. 25; Deut. xviii. 18: "Jehovah
@@ -2359,11 +2359,11 @@ period; and the religious chronological framework is regularly filled in
 with them (*e.g.* 1 Kings xiv.-xvi.); their loose connection and neutral
 tone made it specially easy for later editors to interweave with them
 additions of their own, as has actually been done to no small
-extent. <span id="fr_141"></span>[1](#fn_141) These valuable notes
+extent. <span id="fr_141"></span>[1](#fn_141.md) These valuable notes
 commence even with Solomon, though here they are largely mixed with
 anecdotic chaff. They are afterwards found principally, almost
 exclusively, in the series of Judah. Several precise dates point to
-something of the nature of annals, <span id="fr_142"></span>[2](#fn_142)
+something of the nature of annals, <span id="fr_142"></span>[2](#fn_142.md)
 and with these the characteristic then might be thought to be connected,
 which frequently introduces the short sentences, and as it now stands is
 generally meaningless. In what circles these records were made, we can
@@ -2503,7 +2503,7 @@ Hazael, who brought about this change, was not anointed by Elijah
 
 <span id="page_290">p. 290</span>
 
-but by Elisha (2 K. viii. 7 seq.) <span id="fr_143"></span>[1](#fn_143)
+but by Elisha (2 K. viii. 7 seq.) <span id="fr_143"></span>[1](#fn_143.md)
 The massacre at Jezreel, too, which is predicted in the threat of 1 K.
 xxi. 19, would need to be told otherwise than in 2 K. ix. x., to form a
 proper literary sequel to the story of Naboth. According to 1 K. xxi. 19
@@ -2513,7 +2513,7 @@ explanation is appended in xxi. 27-29, that, as the king took to heart
 the threats of Elijah, Jehovah made a supplementary communication to the
 prophet that the threat against Ahab's house would only be fulfilled in
 the days of his son; but who does not see in this an attempt to
-harmonise conflicting narratives? <span id="fr_144"></span>[2](#fn_144)
+harmonise conflicting narratives? <span id="fr_144"></span>[2](#fn_144.md)
 A whole series of subordinate discrepancies might be mentioned, which
 prove that 2 K. ix. x. does not look back to the story of the murder of
 Naboth as told in 1 K. xxi. According to ix. 25, 26, the dispute was not
@@ -2610,7 +2610,7 @@ carry out his threatenings.
 
 It is certainly the case that the grand figure of Elijah could not have
 been drawn as we have it except from the impression produced by a real
-character. <span id="fr_145"></span>[1](#fn_145) But it is too much torn
+character. <span id="fr_145"></span>[1](#fn_145.md) But it is too much torn
 away from the historical position it belongs to, and is thereby
 magnified to colossal proportions.
 
@@ -2700,7 +2700,7 @@ conclusion as the history of the cultus.
 
 ### Footnotes
 
-<span id="fn_124"></span>[233:1](phai10.htm#fr_124) The redaction, as is
+<span id="fn_124"></span>[233:1](phai10.htm#fr_124.md) The redaction, as is
 well knows, extends only from ii. 6 xvi. 31, thus excluding both i.
 1-ii. 5, and xvii. 1-xxi. 24. But it is easy to perceive how excellently
 the first portion fits into its place as a general introduction to the
@@ -2719,27 +2719,27 @@ the reminiscence contained in xix. 1, which, as we shall see, has
 nothing to rest on in chaps. xix.-xxi. Compare further xx. 19 with i. 1
 seq.
 
-<span id="fn_125"></span>[238:1](phai10.htm#fr_125) ‏אלה‎, ‏אלון‎, in
+<span id="fn_125"></span>[238:1](phai10.htm#fr_125.md) ‏אלה‎, ‏אלון‎, in
 Aramaic simply tree, in Hebrew the evergreen, and in general the holy
 tree (Isaiah i. 29 seq.) mostly without distinguishing the species. Not
 only are oaks and terebinths included, but also palms. For the ‏אלון
 דבורה‎ at Bethel is elsewhere called ‏תמר‎; Elim derives its names from
 the 70 palms, and the same may be the case with Elath on the Red sea.
 
-<span id="fn_126"></span>[239:1](phai10.htm#fr_126) "The words of Gideon
+<span id="fn_126"></span>[239:1](phai10.htm#fr_126.md) "The words of Gideon
 are only intelligible on the presupposition that the rule of Jehovah had
 a visible representative prophet or priest. But this was not the case in
 the period of the judges, as Gideon's own history shows us." Vatke, p.
 263. We see besides from ix. 1 seq. that Gideon really was the ruler of
 Ephraim and Manasseh.
 
-<span id="fn_127"></span>[241:1](phai10.htm#fr_127) Ver. 12 is a summons
+<span id="fn_127"></span>[241:1](phai10.htm#fr_127.md) Ver. 12 is a summons
 to begin the battle, and Deborah cannot here be singing the song of
 triumph which celebrates its happy issue. For a similar reason the
 translation given above, "take captive thy captors," is the more natural
 and correct.
 
-<span id="fn_128"></span>[254:1](phai10.htm#fr_128) In Balaam's view of
+<span id="fn_128"></span>[254:1](phai10.htm#fr_128.md) In Balaam's view of
 the happy future of Israel (Numbers xxiii. seq.), the monarchy is spoken
 of as one of Israel's chief blessings. Generally (xxiii. 21): "Jehovah
 his God is with him, and the shout of a king is among them." With
@@ -2751,7 +2751,7 @@ and the skull of all the sons of Seth: and Edom also becomes a
 conquest." According to Deuteronomy xxxiii. 4, 5, the monarchy and the
 Torah are the two great gifts of God's grace to Israel.
 
-<span id="fn_129"></span>[258:1](phai10.htm#fr_129) It is also clear
+<span id="fn_129"></span>[258:1](phai10.htm#fr_129.md) It is also clear
 that the writer of x. 8, xiii. 7-15 cannot possibly have found Samuel in
 Gilgal in chap. xi. before making him go there in chap. xiii. We have
 already seen xi. 12-14 to be a later addition; the name of Samuel must
@@ -2759,13 +2759,13 @@ be interpolated in xi. 7, too. In fact in xi. 15 the people, *i.e.*, the
 army, acts quite of itself even in our present text. Hence it follows
 also, that x. 8, xiii. 7-15 are older than vii. viii. x. 17 seq. xii.
 
-<span id="fn_130"></span>[266:1](phai10.htm#fr_130) This expression
+<span id="fn_130"></span>[266:1](phai10.htm#fr_130.md) This expression
 occurs in 1 Sam. xvii., and shows this legend to be dependent on 2 Sam.
 xxi. xxiii., a collection of anecdotes about heroes from the Philistine
 wars of David in the genuine short popular style. Cf., on 1 Chron. xii.,
 supra, p. 173.
 
-<span id="fn_131"></span>[266:2](phai10.htm#fr_131) Only in one
+<span id="fn_131"></span>[266:2](phai10.htm#fr_131.md) Only in one
 direction does he set limits to his self-denial: he makes the future
 king solemnly promise to spare his family. Here manifests itself an
 interest belonging to the time of the narrator. The oriental custom
@@ -2782,11 +2782,11 @@ moon, the family sacrifice at Bethlehem, perhaps <span id="page_267">p.
 inconsistent with later orthodoxy, the name being in two passages so
 singularly corrupted.
 
-<span id="fn_132"></span>[268:1](phai10.htm#fr_132) As the words are
+<span id="fn_132"></span>[268:1](phai10.htm#fr_132.md) As the words are
 used in 1 Samuel ix., Isaiah and Jeremiah would rather be called Rōeh;
 and this is the justification of the gloss, ix. 9.
 
-<span id="fn_133"></span>[271:1](phai10.htm#fr_133) The efforts of later
+<span id="fn_133"></span>[271:1](phai10.htm#fr_133.md) The efforts of later
 writers to glorify David are at their worst in their account of his last
 testament (1 Kings ii. 1-12). Even the language betrays this piece as a
 post-Deuteronomic insertion (v. 2-4); the contents are borrowed from the
@@ -2798,7 +2798,7 @@ of the elements of danger. Nor do the acute calculations of the weak old
 king agree very well with the general impression given of him at this
 time by 1 Kings i. ii.
 
-<span id="fn_134"></span>[273:1](phai10.htm#fr_134) Numbers of the kings
+<span id="fn_134"></span>[273:1](phai10.htm#fr_134.md) Numbers of the kings
 of Judah from Solomon: 37+ 17+ 3 + 41 + 25 + 8 + 1 + 6 + 40 + 29 + 52 +
 16 + 29 + 55 + 2 + 31 + 11 + 11=430 years. Jehoahaz and Jechoiachin are
 not counted; if they are included and a year allowed for them, we must
@@ -2828,7 +2828,7 @@ continued, along with that of Judah, were included or omitted. It may be
 remarked that 390 = 240 + 150. Compare further Robertson Smith, in the
 *Journal of Philology*, vol. x., p. 209-213.
 
-<span id="fn_135"></span>[277:1](phai10.htm#fr_135) Such additions as
+<span id="fn_135"></span>[277:1](phai10.htm#fr_135.md) Such additions as
 ‏מצות יהוה‎, 1 Kings xviii. 18 \[LXX has correctly ‏יהוה‎, without
 ‏מצות‎\] ‏עזבו בריתך‎ \[LXX correctly ‏עזבו‎ without ‏בריתך‎\] and more
 extensive ones, as 1 Kings xviii. 31, 32<sup>a</sup>; 2 Sam. vii.
@@ -2838,7 +2838,7 @@ and belong rather to textual than to literary criticism. It is certainly
 in itself very important to detect and remove these re-touchings. The
 whole old tradition is covered with them.
 
-<span id="fn_136"></span>[278:1](phai10.htm#fr_136) Krey surmises that
+<span id="fn_136"></span>[278:1](phai10.htm#fr_136.md) Krey surmises that
 the last date mentioned, the liberation from prison of, Jehoiachin in
 the 37th year after his accession to the throne, was originally intended
 to form the lower limit of the chronology, especially as the periods of
@@ -2862,7 +2862,7 @@ of Judges, some of them parallel with each other (*e.g.*, the interregna
 and minor judges, and the threefold counting of the time of the
 Philistines) and even from the variants of the LXX.
 
-<span id="fn_137"></span>[278:2](phai10.htm#fr_137) The fall of Samaria
+<span id="fn_137"></span>[278:2](phai10.htm#fr_137.md) The fall of Samaria
 suggested similar reflections to the earlier prophets with reference to
 the northern kingdom, but their views are, as a rule (Amos v., Isa.
 ix.), <span id="page_279">p. 279</span> not nearly so radical nor so
@@ -2875,12 +2875,12 @@ writers, that he regards the human monarchy as one of the great evils of
 Israel: he certainly had very great occasion for this in the
 circumstances of the time he lived in.
 
-<span id="fn_138"></span>[280:1](phai10.htm#fr_138) Post-deuteronomic,
+<span id="fn_138"></span>[280:1](phai10.htm#fr_138.md) Post-deuteronomic,
 but still from the time of the kings, are 1 Sam. ii. 27 seq.; 2 Sam.
 vii, 1 seq.; 2 Kings xviii. 13, 17 seq., xix. 1 seq.; chaps. xi. xii.
 xxi. xxiii.
 
-<span id="fn_139"></span>[283:1](phai10.htm#fr_139) "Although Jeroboam
+<span id="fn_139"></span>[283:1](phai10.htm#fr_139.md) "Although Jeroboam
 had lived in Egypt, it would he wrong to say that he brought animal
 worship with him from that country, as wrong as to regard Aaron's golden
 calf as a copy of Apis. The peculiarity of the animal-worship of Egypt,
@@ -2888,7 +2888,7 @@ and of its bull-worship in particular, was that sanctity was attributed
 to *living* animals." Vatke, p. 398. Egyptian gods cannot help against
 Egypt, Exod. xxxii. 4; 1 Kings xii. 28.
 
-<span id="fn_140"></span>[285:1](phai10.htm#fr_140) Cf. Kuenen,
+<span id="fn_140"></span>[285:1](phai10.htm#fr_140.md) Cf. Kuenen,
 *Profeten onder Israël* (1875), ii. p. 143; English translation (1877),
 p 398. One of these Deuteronomistic prophecies is cited above, p. 275.
 They are in part anonymous, *e.g.*, 2 Kings x. 30, xxi. 10 seq., in part
@@ -2902,12 +2902,12 @@ are then constantly repeated, *e.g.*, ‏עצור ועזוב‎. Names, too, lik
 Jehu ben Hanani, are certainly not fictitious: we are not so far
 advanced as in Chronicles. Cf. 1 Sam. ii. 27 seq.; 2 Sam. vii. 1 seq.
 
-<span id="fn_141"></span>[286:1](phai10.htm#fr_141) The passage
+<span id="fn_141"></span>[286:1](phai10.htm#fr_141.md) The passage
 discussed above, 1 Kings xi. 1 seq., gives a good example of this; we at
 once pick out the terse ‏אז יבנה ונו‎ from the barren diffuseness
 surrounding it.
 
-<span id="fn_142"></span>[286:2](phai10.htm#fr_142) 5th of Rehoboam (1
+<span id="fn_142"></span>[286:2](phai10.htm#fr_142.md) 5th of Rehoboam (1
 K.s xiv. 25); 23rd of Jehoash (2 K. xii, 6); 14th of Hezekiah (2 K.
 xviii. 13); 18th of Josiah (2 K. xxii. 3); 4th and 5th of Solomon (1 K.
 vi. 37, 38). These dates occur, it is true, partly in circumstantial
@@ -2922,11 +2922,11 @@ These also perhaps go back to the "Annals." The ‏אז‎ is found 1 K. iii.
 16, viii. 1, 12, ix. 11, xi. 7, xvi. 21, xxii. 50; 2 K. viii. 22, xii.
 18, xiv. 8, xv. 16, xvi. 5.
 
-<span id="fn_143"></span>[290:1](phai10.htm#fr_143) The same applies to
+<span id="fn_143"></span>[290:1](phai10.htm#fr_143.md) The same applies to
 Jehu (2 K. ix. 1 seq.). This is the reason of the above remarked
 omission after 1 K. xix. 21: cf. Thenius's commentary.
 
-<span id="fn_144"></span>[290:2](phai10.htm#fr_144) In spite of xxi.
+<span id="fn_144"></span>[290:2](phai10.htm#fr_144.md) In spite of xxi.
 27-29, an attempt is made at xxii. 38 to show that the threat was
 fulfilled in Ahab himself. We are told that Ahab was shot in his chariot
 and that his servants brought his body from Ramoth-Gilead to bury it
@@ -2939,7 +2939,7 @@ according to xxi. 19 the dogs were to lick the blood of Ahab not at
 Samaria but at Jezreel, the place of Naboth. The verse xxii. 38 is an
 interpolation which does credit to Jewish acuteness.
 
-<span id="fn_145"></span>[292:1](phai10.htm#fr_145) The distance of the
+<span id="fn_145"></span>[292:1](phai10.htm#fr_145.md) The distance of the
 narrator is not so very great in point of time from the events he deals
 with. He is a North-Israelite, as the ‏אשר ליהודה‎ of xix. 3 shows: this
 may also be gathered from xix. 8 compared with Deut. i. 2. A man of
@@ -2953,4 +2953,4 @@ terms (Luke iv. 25 seq.).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Narrative of the Hexateuch.](phai11)
+[Next: Chapter VIII. The Narrative of the Hexateuch.](phai11.md)

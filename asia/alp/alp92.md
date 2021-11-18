@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp91) 
-[Next](alp93) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp91.md) 
+[Next](alp93.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ he "sat in the palace among the beauties and sang to them," but his
 songs seem not merely to be poems in praise of court beauties, or for
 their amusement; they seem an expression of the deep feelings of his
 heart. A word-picture of his lady-love will be found on page
-[74](alp53.htm#page_74) of this volume ("Thy Voice is Sweet").
+[74](alp53.htm#page_74) of this volume ("Thy Voice is Sweet".md).
 
 His love is so intense that one sees at once that he is capable of deep
 feelings and one is drawn to him; yet this love is pure and unselfish.
@@ -85,7 +85,7 @@ shall discover a way of redemption
 <span id="page_186">p. 186</span>
 
 from my hopeless love." (See "Without Thee what are Song and Dance to
-Me?" on page [85](alp61.htm#page_85) of this volume.)
+Me?" on page [85](alp61.htm#page_85) of this volume..md)
 
 In another poem he expresses the wavering between earthly and heavenly
 life, saying:--
@@ -105,10 +105,10 @@ that region. His soldiers entered the monastery where Sayat Nova was
 praying and commanded him to come out and become a Mohammedan if he
 wished to save his life; but he replied, in verse, that he was an
 Armenian and would not deny his Christ. He was therefore martyred on the
-spot. Other poems of his appear on pages [35](alp31.htm#page_35) ("I
-have a Word I fain would say"), [14](alp17.htm#page_14) ("I beheld my
-Love this Morning"), [110](alp71.htm#page_110) ("Thou art so Sweet").
+spot. Other poems of his appear on pages [35](alp31.htm#page_35.md) ("I
+have a Word I fain would say"), [14](alp17.htm#page_14.md) ("I beheld my
+Love this Morning"), [110](alp71.htm#page_110) ("Thou art so Sweet".md).
 
 ------------------------------------------------------------------------
 
-[Next: Characteristics of Armenian Poetry](alp93)
+[Next: Characteristics of Armenian Poetry](alp93.md)

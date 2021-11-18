@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv36)  [Next](rsv38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv36)  [Next](rsv38.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ to seek help from, the people of the world.
 
 ------------------------------------------------------------------------
 
-[Next: Selected Bibliography](rsv38)
+[Next: Selected Bibliography](rsv38.md)

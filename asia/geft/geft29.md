@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft28)  [Next](geft30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft28)  [Next](geft30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -17,7 +17,7 @@ Textual Heritage
 
 ### II
 
-### The Grasshopper and the Ant <span id="fr_51"></span>[2](#fn_50)
+### The Grasshopper and the Ant <span id="fr_51"></span>[2](#fn_50.md)
 
 THE grasshopper and the ant became friends, and entered into a compact
 of brotherhood, promising never to separate. They then set out on a
@@ -157,9 +157,9 @@ all other things exist only by reciprocal services.
 
 ### Footnotes
 
-<span id="fn_50"></span>[150:2](geft29.htm#fr_51) Cf. *The House that
+<span id="fn_50"></span>[150:2](geft29.htm#fr_51.md) Cf. *The House that
 Jack built*.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Countryman and the Merchant](geft30)
+[Next: III. The Countryman and the Merchant](geft30.md)

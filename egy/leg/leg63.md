@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg62)  [Next](leg64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg62)  [Next](leg64.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ further, i.e., Osiris triumphs over Typhon.\]
 
 ------------------------------------------------------------------------
 
-[Next: Section XLI and XLII: Fourth Explanation of the Story](leg64)
+[Next: Section XLI and XLII: Fourth Explanation of the Story](leg64.md)

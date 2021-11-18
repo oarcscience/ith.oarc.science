@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mmi01)  [Next](mmi03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mmi01)  [Next](mmi03.md) 
 
 ------------------------------------------------------------------------
 
 ### THE STORY OF CUY-A-HO-MARR (THE CHAUP); THE MANZANITA VERSION (DIEGUEÑO).
 
-In a former paper <span id="fr_1"></span>[1](#fn_1) entitled "The Story
+In a former paper <span id="fr_1"></span>[1](#fn_1.md) entitled "The Story
 of the Chaup," I have given the Mesa Grande version of this famous myth.
 It originated in the former home of the Mojave Indians who are
 constantly referred to by the Manzanita bards, not as the ancestors of
@@ -58,7 +58,7 @@ house where she lived alone till she was grown.
 Every morning she went to bathe in a pond near by, and, in a manner not
 explained, she became by this bathing the mother of twin boys.
 
-(Song.) <span id="fr_2"></span>[1](#fn_2)
+(Song.) <span id="fr_2"></span>[1](#fn_2.md)
 
 She left the babies in their baskets while she went to gather seeds for
 food. The babies were crying, so the cricket came to tend them and sing
@@ -950,13 +950,13 @@ it is She-weé-w. (Chaup in Mesa Grande dialect.)
 
 ### Footnotes
 
-<span id="fn_1"></span>[146:1](mmi02.htm#fr_1) Journal of American
+<span id="fn_1"></span>[146:1](mmi02.htm#fr_1.md) Journal of American
 Folk-Lore, vol. xvii, pp. 217-241
 
-<span id="fn_2"></span>[147:1](mmi02.htm#fr_2) The text of the songs
+<span id="fn_2"></span>[147:1](mmi02.htm#fr_2.md) The text of the songs
 cannot be given, but their occurrence in the narrative is thus
 indicated.
 
 ------------------------------------------------------------------------
 
-[Next: Third Version of the Story Of Cuy-a-ho-marr](mmi03)
+[Next: Third Version of the Story Of Cuy-a-ho-marr](mmi03.md)

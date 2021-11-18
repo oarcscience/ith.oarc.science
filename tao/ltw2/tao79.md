@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao79)   
-[Previous](tao78)  [Next](tao80) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao79.md)   
+[Previous](tao78)  [Next](tao80.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 80](tao80)
+[Next: Chapter 80](tao80.md)

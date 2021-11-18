@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw502)  [Next](ataw504) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw502)  [Next](ataw504.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -118,7 +118,7 @@ Not only do we find pyramidal structures of earth in the Mississippi
 Valley very much like the pyramids of Egypt, Mexico, and Peru, but a
 very singular structure is repeated in Ohio and Peru: I refer to the
 double walls or prolonged pyramids, if I may coin an expression, shown
-in the [cut page 375](#img_37500).
+in the [cut page 375](#img_37500.md).
 
 The Mound Builders possessed chains of fortifications reaching from the
 southern line of New York diagonally across the
@@ -128,7 +128,7 @@ southern line of New York diagonally across the
  
 
 <span id="img_37300"></span> <span align="CENTER"> [![](tn/37300.jpg)  
-Click to enlarge](img/37300.jpg)</span>  
+Click to enlarge](img/37300.jpg.md)</span>  
 GRAND WAY NEAR PIKETON, OHIO.
 
  
@@ -366,7 +366,7 @@ Bryant's lines--
  
 
 <span id="img_38100"></span> <span align="CENTER"> [![](tn/38100.jpg)  
-Click to enlarge](img/38100.jpg)</span>  
+Click to enlarge](img/38100.jpg.md)</span>  
 FROM THE MOUNDS OF THE OHIO VALLEY.
 
  
@@ -433,10 +433,10 @@ since the works were erected. (Baldwin's "Ancient America," p. 47.)
 
 We have given some illustrations showing the similarity between the
 works of the Mound Builders and those of the Stone and Bronze Age in
-Europe. (See pp. [251](ataw308.htm#page_251),
-[260](ataw308.htm#page_260), [261](ataw308.htm#page_261),
-[262](ataw308.htm#page_262), [265](ataw308.htm#page_265),
-[266](ataw308.htm#page_266), ante.)
+Europe. (See pp. [251](ataw308.htm#page_251.md),
+[260](ataw308.htm#page_260), [261](ataw308.htm#page_261.md),
+[262](ataw308.htm#page_262), [265](ataw308.htm#page_265.md),
+[266](ataw308.htm#page_266), ante..md)
 
 The Mound Builders retreated southward toward Mexico, and probably
 arrived there some time between A.D. 29 and A.D. 231, under the name of
@@ -521,4 +521,4 @@ have <span id="img_38604"></span> ![](img/38604.jpg); on the tablet,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Iberian Colonies of Atlantis](ataw504)
+[Next: Chapter IV: The Iberian Colonies of Atlantis](ataw504.md)

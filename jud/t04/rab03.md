@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](rab02)  [Next](rab04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](rab02)  [Next](rab04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 # CHAPTER III.
 
 A. An infant a day old must be regarded by his parents as if he would be
-a bridegroom; <span id="fr_28"></span>[A1](#fn_28) and not merely a day
+a bridegroom; <span id="fr_28"></span>[A1](#fn_28.md) and not merely a day
 old, but even if the head and the greater part of the body came out
 alive. The expression of "a day" is used by the sages because it is more
 usual.
@@ -49,9 +49,9 @@ poor are lamented from the age of three, and the rich from the age of
 five; R. Jehudah, however, said in the name of the same: The poor from
 the age of five, and the rich from the age of six. R. Aqiba said: The
 poor from the age of six, and the rich from the age of seven. <span
-id="fr_29"></span>[D1](#fn_29) The poor are lamented the same as the
+id="fr_29"></span>[D1](#fn_29.md) The poor are lamented the same as the
 rich, the rich as the children of the sages, and they as the
-princes. <span id="fr_30"></span>[D2](#fn_30)
+princes. <span id="fr_30"></span>[D2](#fn_30.md)
 
 E. A child that was able to act for himself may be lamented for his own
 virtues; if he has none, for those of his parents; if his parents have
@@ -71,16 +71,16 @@ proclaimed only the virtues which he possessed; and the people who were
 behind the hearse, even such as he did not. And in Judah the lamenters
 were behind the hearse, and they spoke only of the virtues which he
 possessed; and the people who were behind them did not repeat
-anything. <span id="fr_31"></span>[F1](#fn_31) From the age of three to
+anything. <span id="fr_31"></span>[F1](#fn_31.md) From the age of three to
 thirty, one is lamented as if he were a bridegroom; <span
-id="fr_32"></span>[F2](#fn_32) from thirty to forty he is lamented as a
-brother; <span id="fr_33"></span>[F3](#fn_33) from forty to fifty as a
-father. <span id="fr_34"></span>[F4](#fn_34)
+id="fr_32"></span>[F2](#fn_32.md) from thirty to forty he is lamented as a
+brother; <span id="fr_33"></span>[F3](#fn_33.md) from forty to fifty as a
+father. <span id="fr_34"></span>[F4](#fn_34.md)
 
 G. R. Simeon b. Elazar said: From the age of thirty to forty, if he has
 children, or if most others of his age have grandchildren, he is
 lamented as a father; otherwise, as a brother. <span
-id="fr_35"></span>[G1](#fn_35)
+id="fr_35"></span>[G1](#fn_35.md)
 
 H. One dying under the age of fifty, it may yet be considered as if he
 were under the punishment of Kareth (short life). When, however, he
@@ -98,12 +98,12 @@ Death after only one day of sickness is a death of wrath; at two days,
 it is a death of terror; at three days, a death of pest; at four and
 five days, a hastened death; at six days, it is the death mentioned in
 the Torah; at seven, it is a death of favor; <span
-id="fr_36"></span>[H1](#fn_36) more than that, it is a death of
+id="fr_36"></span>[H1](#fn_36.md) more than that, it is a death of
 suffering.
 
 <span id="page_9">p. 9</span>
 
-The rabbis taught: <span id="fr_37"></span>[H2](#fn_37) One who dies
+The rabbis taught: <span id="fr_37"></span>[H2](#fn_37.md) One who dies
 suddenly, he is said to have died an abrupt death; if the death was
 preceded by one day's sickness, it is a hastened death. R. Hananiah,
 however, said: The latter case is termed a plague-death, as it is
@@ -119,10 +119,10 @@ this adduced? From (Deut. xxxi. 14): "Hehn korvu yomechu lomuth"
 Greek; "korvu" (in the plural) is two; "yomechu" (in the plural) is also
 two; altogether five.\] Death at the age of fifty is Kareth (cut off);
 at fifty-two, the age at which Samuel of Ramah died; at sixty, a death
-by Heaven. <span id="fr_38"></span>[H3](#fn_38) \[Said Mar Zutra: Whence
+by Heaven. <span id="fr_38"></span>[H3](#fn_38.md) \[Said Mar Zutra: Whence
 is this adduced? From (Job, v. 26): "Thou wilt go in a ripe age, ‏בכלח‎
 unto the grave," the numerical value of the letters of ‏בכלח‎ <span
-id="fr_39"></span>[H4](#fn_39) being sixty.\] Seventy is called an old
+id="fr_39"></span>[H4](#fn_39.md) being sixty.\] Seventy is called an old
 age; eighty, an age of uncommon vigor, as it is written \[Psalms, xc.
 10\]: "And if by uncommon vigor they be eighty." Rabba, however, said:
 "From fifty to sixty it is Kareth; and the reason why this is not stated
@@ -199,13 +199,13 @@ him the fire-rod. R. Hyya then delivered up his soul to him.
 
 I. Said R. Hanina b. Antigonos: If an old man has eaten forbidden
 things, or intentionally violated the Sabbath, the punishment of which
-is Kareth, <span id="fr_40"></span>[I1](#fn_40) and he is over the age
+is Kareth, <span id="fr_40"></span>[I1](#fn_40.md) and he is over the age
 that short life should be applied to him, what will signify to us that
 his death was that of Kareth? Therefore we must consider that he who
 died after only three days of sickness, it is a death of Kareth; at four
 days, it is a hastened death, etc. Said R. Jehudah: The pious of ancient
 times have suffered of the sickness of the intestines two or three days
-before their death, <span id="fr_41"></span>[I2](#fn_41) for the purpose
+before their death, <span id="fr_41"></span>[I2](#fn_41.md) for the purpose
 of cleaning their bodies of all food and drink, that they should enter
 clean in the world to come, as it is written \[Proverbs, xxvii. 21\]:
 "(As) the fining-pot is for silver, and the furnace for gold, so is a
@@ -215,7 +215,7 @@ man (proved) according to his praise."
 
 ### Footnotes
 
-<span id="fn_28"></span>[6:A1](rab03.htm#fr_28)
+<span id="fn_28"></span>[6:A1](rab03.htm#fr_28.md)
 
 ### CHAPTER III.
 
@@ -223,58 +223,58 @@ A. See Nidah, 44*b*, where it is explained that an infant even a day old
 must be regarded as a bridegroom, if someone kills it, and the same
 language is used here.
 
-<span id="fn_29"></span>[7:D1](rab03.htm#fr_29) *D*. Rashi explains
+<span id="fn_29"></span>[7:D1](rab03.htm#fr_29.md) *D*. Rashi explains
 this: Because the pain of the poor on the death of their children is
 much greater than that of the rich, as their children are their only
 joy, having no others.
 
-<span id="fn_30"></span>[7:D2](rab03.htm#fr_30) It means that no
+<span id="fn_30"></span>[7:D2](rab03.htm#fr_30.md) It means that no
 distinction must be made from the rank of the parents, but from the
 corpse itself, as all Israel is alike in pedigree.
 
-<span id="fn_31"></span>[8:F1](rab03.htm#fr_31) *F*. We have translated
+<span id="fn_31"></span>[8:F1](rab03.htm#fr_31.md) *F*. We have translated
 according to the corrections of Elias Wilna, and as Rashi explains it in
 Sabbath, 153*a*, old edition.
 
-<span id="fn_32"></span>[8:F2](rab03.htm#fr_32) It means to say, as he
+<span id="fn_32"></span>[8:F2](rab03.htm#fr_32.md) It means to say, as he
 was in the best vigor of his life, the lamentations were as great as if
 it had happened to a bridegroom standing under the canopy.
 
-<span id="fn_33"></span>[8:F3](rab03.htm#fr_33) It means that he was an
+<span id="fn_33"></span>[8:F3](rab03.htm#fr_33.md) It means that he was an
 active member of society, and his loss is felt by everybody.
 
-<span id="fn_34"></span>[8:F4](rab03.htm#fr_34) Who was active so long
+<span id="fn_34"></span>[8:F4](rab03.htm#fr_34.md) Who was active so long
 that he was considered as a father.
 
-<span id="fn_35"></span>[8:G1](rab03.htm#fr_35) *G*. One of the
+<span id="fn_35"></span>[8:G1](rab03.htm#fr_35.md) *G*. One of the
 commentators supposes that at that time there were separate customs for
 a father, brother, etc. It seems to us, however, that our interpretation
 is right.
 
-<span id="fn_36"></span>[8:H1](rab03.htm#fr_36) *H*. As six days are
+<span id="fn_36"></span>[8:H1](rab03.htm#fr_36.md) *H*. As six days are
 enough for one to reconsider all he has done in his life and to make his
 will, leaving the seventh for the purpose <span id="page_9">p. 9</span>
 of taking his leave from his family. Where, however, six days of
 sickness are mentioned in the Torah we cannot imagine, nor do we find it
 in any of the commentators.
 
-<span id="fn_37"></span>[9:H2](rab03.htm#fr_37) All paragraphs beginning
+<span id="fn_37"></span>[9:H2](rab03.htm#fr_37.md) All paragraphs beginning
 with, "The rabbis taught," or with italics, are transferred from Moed
 Katan (see there note, p. 27). The paragraphs not so beginning will be
 marked in the Commentary *Gemara*.
 
-<span id="fn_38"></span>[9:H3](rab03.htm#fr_38) There are different
+<span id="fn_38"></span>[9:H3](rab03.htm#fr_38.md) There are different
 penalties for crimes: Kareth; death by Heaven; and death by the court,
 which latter was in four different forms.
 
-<span id="fn_39"></span>[9:H4](rab03.htm#fr_39) This Hebrew word
+<span id="fn_39"></span>[9:H4](rab03.htm#fr_39.md) This Hebrew word
 aggregates sixty; namely, the first letter (from right to left) counts
 two, the second twenty, the third thirty, and the last eight.
 
-<span id="fn_40"></span>[11:I1](rab03.htm#fr_40) *I*. Leviticus, vii.
+<span id="fn_40"></span>[11:I1](rab03.htm#fr_40.md) *I*. Leviticus, vii.
 25.
 
-<span id="fn_41"></span>[11:I2](rab03.htm#fr_41) According to Elias
+<span id="fn_41"></span>[11:I2](rab03.htm#fr_41.md) According to Elias
 Wilna's corrections, and according to him, it is to be understood that
 R. Jehudah opposes R. Hanina b. Antigonos, and maintains that even a
 pious man may die in two or three days. The text, however, reads twenty
@@ -282,4 +282,4 @@ days.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](rab04)
+[Next: Chapter IV](rab04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe238)  [Next](prwe240) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe238)  [Next](prwe240.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ slovenly apparelled, to say, 'He shall be presented in Halgaver Court."
 
 ------------------------------------------------------------------------
 
-[Next: The Faction Fight at Cury Great Tree](prwe240)
+[Next: The Faction Fight at Cury Great Tree](prwe240.md)

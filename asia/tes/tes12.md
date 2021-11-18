@@ -1,14 +1,14 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes11)  [Next](tes13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes11)  [Next](tes13.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_26">p. 26</span>
 
-# II. TALES OF THE LAMUT. <span id="fr_14"></span>[1](#fn_14)
+# II. TALES OF THE LAMUT. <span id="fr_14"></span>[1](#fn_14.md)
 
-### 1. CHAUN STORY. <span id="fr_15"></span>[2](#fn_15)
+### 1. CHAUN STORY. <span id="fr_15"></span>[2](#fn_15.md)
 
 There was a Lamut man in the country of Chaun who went to East Cape to
 look for some thong-seal hides. He moved and moved, and so came to the
@@ -110,13 +110,13 @@ Nishne-Kolymsk, the Kolyma country, winter of 1896.
 
 ### Footnotes
 
-<span id="fn_14"></span>[26:1](tes12.htm#fr_14) These tales were
+<span id="fn_14"></span>[26:1](tes12.htm#fr_14.md) These tales were
 collected among the Lamut living on the upper course of the Omolon River
 and on its affluents in the Kolyma country, a few also among the Lamut
 of the Chaun desert met with in the Russian village of Nishne-Kolymsk.
 They were written down without the original texts.
 
-<span id="fn_15"></span>[26:2](tes12.htm#fr_15) The Lamut people living
+<span id="fn_15"></span>[26:2](tes12.htm#fr_15.md) The Lamut people living
 on the river Chaun are a branch of this tribe that has migrated farthest
 to the northeast. They are composed of stragglers from several clans of
 the Kolyma country, who came to the Chaun desert for various reasons;
@@ -127,4 +127,4 @@ they dwell. They number about thirty or forty families.
 
 ------------------------------------------------------------------------
 
-[Next: 2. A Tale of the Chukchee Invasion](tes13)
+[Next: 2. A Tale of the Chukchee Invasion](tes13.md)

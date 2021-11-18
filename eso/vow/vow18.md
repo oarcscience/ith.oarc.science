@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow17)  [Next](vow19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow17)  [Next](vow19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ between heaven and
 
 earth by the billows of the universe, she is driven from side to side in
 eternal penance, her immortal nature gives endless duration to the
-judgment pronounced against her. <span id="fr_38"></span>[1](#fn_38) How
+judgment pronounced against her. <span id="fr_38"></span>[1](#fn_38.md) How
 greatly must we fear so dreadful a fate! They who now refuse to believe
 in such things will then be convinced against their will, not by words,
 but by beholding; not by menaces, but by the pains they will endure.
@@ -70,7 +70,7 @@ to the corporeal state, and who fall short during their life of the laws
 imposed on this condition, are subjected after death to chastisement so
 much the more severe as the faults committed by them have remained
 hidden; for the universal prescience of God will render the punishment
-proportional to the transgression. <span id="fr_39"></span>[2](#fn_39)
+proportional to the transgression. <span id="fr_39"></span>[2](#fn_39.md)
 
 \[*Asclepios*:
 
@@ -85,7 +85,7 @@ Who are they who deserve the greatest penalties, O Trismegistos?
 Those who, condemned by human laws, die a violent death, in such wise
 that they appear not to have paid the debt they owe to Nature, but to
 have received only the reward of their actions. <span
-id="fr_40"></span>[1](#fn_40) The just man, on the contrary, finds in
+id="fr_40"></span>[1](#fn_40.md) The just man, on the contrary, finds in
 religion and in piety a great help, and God protects him against all
 evils. The Father and Lord of all things, Who alone is all, manifests
 Himself willingly to all; not that He shows any man His abode, nor His
@@ -149,7 +149,7 @@ all things in the world by recurring seasons.
 
 ### Footnotes
 
-<span id="fn_38"></span>[77:1](vow18.htm#fr_38) This passage resembles a
+<span id="fn_38"></span>[77:1](vow18.htm#fr_38.md) This passage resembles a
 fragment of Empedocles, cited by Plutarch:--"The etherial force pursues
 them towards the sea, the sea vomits them forth upon its shores, the
 earth in turn flings them upward to the untiring sun, and the sun again
@@ -161,7 +161,7 @@ intermediate state of purification.\]
 
 A.K.
 
-<span id="fn_39"></span>[77:2](vow18.htm#fr_39) This passage qualifies
+<span id="fn_39"></span>[77:2](vow18.htm#fr_39.md) This passage qualifies
 the previous statement in Sect. IX., concerning the duration of the
 purgatorial state, and shows that it is not <span id="page_78">p.
 78</span> to be regarded as eternal, but as proportional to the faults
@@ -171,7 +171,7 @@ than sin confessed, and therefore no longer "hidden."
 
 A.K.
 
-<span id="fn_40"></span>[78:1](vow18.htm#fr_40) An obscure passage.
+<span id="fn_40"></span>[78:1](vow18.htm#fr_40.md) An obscure passage.
 Probably its meaning is that great sinners, cut off by violent means in
 the midst of their iniquity, have no time to work out their penance in
 life, and, being thus deprived of the opportunity of restitution and
@@ -189,4 +189,4 @@ Robt. H. Fryar, Bath.\]
 
 ------------------------------------------------------------------------
 
-[Next: Part XI](vow19)
+[Next: Part XI](vow19.md)

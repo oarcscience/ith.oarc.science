@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil53)  [Next](egil55) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil53)  [Next](egil55.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ and a multitude of his men likewise.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LIV. The fall of Thorolf.](egil55)
+[Next: CHAPTER LIV. The fall of Thorolf.](egil55.md)

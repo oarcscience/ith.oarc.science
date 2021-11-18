@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo10)  [Next](aoo12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo10)  [Next](aoo12.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ no matter what defeat great Hector inflicted upon them.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](aoo12)
+[Next: Chapter XII](aoo12.md)

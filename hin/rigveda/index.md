@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index)   
-[Sanskrit](../rvsan/index)   
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md)   
+[Sanskrit](../rvsan/index.md)   
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,17 +33,17 @@ This was one of the first etexts developed for this site. Each page of
 this is cross-linked with the Sanskrit text of the Rig Veda. Both this
 and the Sanskrit Rig Veda require browser support for Unicode. If you
 have trouble seeing non-Latin characters in this text, refer to the
-Intangible Textual Heritage [Unicode page](../../unicode).
+Intangible Textual Heritage [Unicode page](../../unicode.md).
 
 ------------------------------------------------------------------------
 
-[Rig-Veda Book 1](rvi01)  
-[Rig-Veda, Book 2](rvi02)  
-[Rig-Veda, Book 3](rvi03)  
-[Rig-Veda, Book 4](rvi04)  
-[Rig-Veda, Book 5](rvi05)  
-[Rig-Veda, Book 6](rvi06)  
-[Rig-Veda, Book 7](rvi07)  
-[Rig-Veda, Book 8](rvi08)  
-[Rig-Veda, Book 9](rvi09)  
-[Rig-Veda, Book 10](rvi10)  
+[Rig-Veda Book 1](rvi01.md)  
+[Rig-Veda, Book 2](rvi02.md)  
+[Rig-Veda, Book 3](rvi03.md)  
+[Rig-Veda, Book 4](rvi04.md)  
+[Rig-Veda, Book 5](rvi05.md)  
+[Rig-Veda, Book 6](rvi06.md)  
+[Rig-Veda, Book 7](rvi07.md)  
+[Rig-Veda, Book 8](rvi08.md)  
+[Rig-Veda, Book 9](rvi09.md)  
+[Rig-Veda, Book 10](rvi10.md)  

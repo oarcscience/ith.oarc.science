@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp45)  [Next](hmvp47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp45)  [Next](hmvp47.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ not allowed to be burnt. The
 
 <span id="img_46900"></span> <span align="CENTER"> [![THE BANYAN
 TREE.](tn/46900.jpg)  
-Click to enlarge](img/46900.jpg)  
+Click to enlarge](img/46900.jpg.md)  
 THE BANYAN TREE.  
 </span>
 
@@ -38,7 +38,7 @@ of the sacred trees:—
 The Asvatta, or Pipul. Tree (*Ficus religiosa*), sacred to Vishnu.
 
 The Vata, Banyan or Indian Fig Tree <span
-id="fr_440"></span>[\*](#fn_440) (*Ficus Indica*), also sacred to
+id="fr_440"></span>[\*](#fn_440) (*Ficus Indica*.md), also sacred to
 Vishnu.
 
 The Vilva, or Wood-apple, or Bēl Tree (*Ægle Marmelos*), sacred to Siva.
@@ -49,7 +49,7 @@ The Harltāki (*Terminalia chebula*).
 
 <span id="img_47000"></span> <span align="CENTER"> [![THE
 BĒL.](tn/47000.jpg)  
-Click to enlarge](img/47000.jpg)  
+Click to enlarge](img/47000.jpg.md)  
 THE BĒL.  
 </span>
 
@@ -77,7 +77,7 @@ might become the wife of Vishnu. Lakshmi, hearing of this, cursed her,
 and changed her into the plant which bears her name. Vishnu, however,
 comforted his follower with the assurance that he would assume the form
 of the Shālgrāma, and continue near her. <span
-id="fr_441"></span>[\*](#fn_441) The Vāyu and the Padma Purānas teach
+id="fr_441"></span>[\*](#fn_441.md) The Vāyu and the Padma Purānas teach
 that the Tulsi was one of the products of the churning of the ocean.
 
 In addition to these trees should be mentioned the *Durva* grass
@@ -102,7 +102,7 @@ having been touched by the amrita, is holy.
 
 <span id="img_47200"></span> <span align="CENTER"> [![THE FIG
 TREE.](tn/47200.jpg)  
-Click to enlarge](img/47200.jpg)  
+Click to enlarge](img/47200.jpg.md)  
 THE FIG TREE.  
 </span>
 
@@ -110,11 +110,11 @@ THE FIG TREE.
 
 ### Footnotes
 
-<span id="fn_440"></span>[470:\*](hmvp46.htm#fr_440) See [p.
-472](#page_472).
+<span id="fn_440"></span>[470:\*](hmvp46.htm#fr_440.md) See [p.
+472](#page_472.md).
 
-<span id="fn_441"></span>[471:\*](hmvp46.htm#fr_441) Ward, ii. 204.
+<span id="fn_441"></span>[471:\*](hmvp46.htm#fr_441.md) Ward, ii. 204.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Miscellaneous Minor Deities](hmvp47)
+[Next: Chapter X. Miscellaneous Minor Deities](hmvp47.md)

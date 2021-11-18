@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](sbg01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](sbg01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103498/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103498/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Srimad-Bhagavad-Gita*, English translation and commentary by Swami
 Swarupananda, \[1909\], at Intangible Textual Heritage
 
@@ -39,6 +39,6 @@ because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](sbg01)
+[Next: Preface](sbg01.md)
 
 </div>

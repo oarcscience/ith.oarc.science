@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre83)  [Next](gre85) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre83)  [Next](gre85.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ or in any wise soever.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXXX: Thorbiorn Angle goes with his Foster-mother out to
-Drangey](gre85)
+Drangey](gre85.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut47)  [Next](hut49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut47)  [Next](hut49.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XLV.
 
-### Formula of Medicine for Wounds Made by Flint Arrowheads. <span id="fr_94"></span>[1](#fn_94)
+### Formula of Medicine for Wounds Made by Flint Arrowheads. <span id="fr_94"></span>[1](#fn_94.md)
 
 <span id="page_330">p. 330</span>
 
@@ -48,7 +48,7 @@ they started toward home.
 
 The wound was so hot he was nearly burned. When they came to Weitchpec
 Butte he said, "I wonder how it will be when Indians come." He looked
-around and saw something standing <span id="fr_95"></span>[1](#fn_95)
+around and saw something standing <span id="fr_95"></span>[1](#fn_95.md)
 there. He pulled it up and chewed it. He became cold again. "This is the
 way it will be," he thought.
 
@@ -56,11 +56,11 @@ way it will be," he thought.
 
 ### Footnotes
 
-<span id="fn_94"></span>[328:1](hut48.htm#fr_94) Told at Hupa, July
+<span id="fn_94"></span>[328:1](hut48.htm#fr_94.md) Told at Hupa, July
 1902, by James Marshall. Compare pp. 117,118.
 
-<span id="fn_95"></span>[331:1](hut48.htm#fr_95) Woodwardia radicans.
+<span id="fn_95"></span>[331:1](hut48.htm#fr_95.md) Woodwardia radicans.
 
 ------------------------------------------------------------------------
 
-[Next: XLVI. Formula of Medicine for Going to War](hut49)
+[Next: XLVI. Formula of Medicine for Going to War](hut49.md)

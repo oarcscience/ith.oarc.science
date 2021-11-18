@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia18)  [Next](aia20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia18)  [Next](aia20.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,17 +45,17 @@ city; the merchant wholly aims at trade, and the increase of his stock;
 therefore, in the merchant's figure, you must consider the country or
 city subject to the sign of the second house, or where the part of
 fortune, or lord of the second house is, and which is most fortified,
-and thither let him trade. <span id="fr_53"></span>[1](#fn_53)
+and thither let him trade. <span id="fr_53"></span>[1](#fn_53.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_53"></span>[68:1](aia19.htm#fr_53) This implies, that you
+<span id="fn_53"></span>[68:1](aia19.htm#fr_53.md) This implies, that you
 must judge by the sign on the house which rules the particular subject
 of inquiry; as if it be, where he may gain a good wife, look to the
 seventh house.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Of the Essential Dignities of the Planets](aia20)
+[Next: Chapter XVII. Of the Essential Dignities of the Planets](aia20.md)

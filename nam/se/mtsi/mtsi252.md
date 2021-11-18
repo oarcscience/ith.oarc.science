@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi251)  [Next](mtsi253) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi251)  [Next](mtsi253.md) 
 
 ------------------------------------------------------------------------
 
-### 52. THE DOG AND THE HERON <span id="fr_65"></span>[1](#fn_64) (78)
+### 52. THE DOG AND THE HERON <span id="fr_65"></span>[1](#fn_64) (78.md)
 
 ### (EUROPEAN)
 
@@ -55,8 +55,8 @@ wanted to be friends again but the Heron would not be a friend to him.
 
 ### Footnotes
 
-<span id="fn_64"></span>[202:1](mtsi252.htm#fr_65) From Aesop's Fables.
+<span id="fn_64"></span>[202:1](mtsi252.htm#fr_65.md) From Aesop's Fables.
 
 ------------------------------------------------------------------------
 
-[Next: 53. Rabbit Obtains Fire](mtsi253)
+[Next: 53. Rabbit Obtains Fire](mtsi253.md)

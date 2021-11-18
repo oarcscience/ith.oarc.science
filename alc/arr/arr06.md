@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr05)  [Next](arr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr05)  [Next](arr07.md) 
 
 ------------------------------------------------------------------------
 
@@ -317,4 +317,4 @@ shall refer to this more fully.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Basil Valentine](arr07)
+[Next: Chapter IV: Basil Valentine](arr07.md)

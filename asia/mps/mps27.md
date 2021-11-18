@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps26) 
-[Next](mps28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps26.md) 
+[Next](mps28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
 ### AVT’HANDIL'S SECOND DEPARTURE AND MEETING WITH TARIEL
 
 <span class="margnote"><span id="811">811</span></span>When the moon is
-far from the sun, distance makes her <span id="fr_19"></span>[1](#fn_19)
+far from the sun, distance makes her <span id="fr_19"></span>[1](#fn_19.md)
 bright; when she is near, his ray consumes her--she is repelled, she
 cannot approach. But sunlessness dries up the rose and lessens its
 colour. Not seeing the beloved renews in us our old grief.
@@ -359,7 +359,7 @@ in spite of what any may advise thee.
 this as my verdict, I speak to thee words of truth: Death draws nigh to
 me, leave me alone, I shall tarry but a little while; if I be not
 living, of what use am I to thee? If I survive, what canst thou
-[1](mps03.htm#page_1) make of me, mad? Mine elements are dissolved; they
+[1](mps03.htm#page_1.md) make of me, mad? Mine elements are dissolved; they
 are joining the ranks of spirits.
 
 <span class="margnote"><span id="865">865</span></span>"What thou hast
@@ -553,11 +553,11 @@ aloud.'
 
 ### Footnotes
 
-<span id="fn_19"></span>[130:1](mps27.htm#fr_19) In Georgian folklore
+<span id="fn_19"></span>[130:1](mps27.htm#fr_19.md) In Georgian folklore
 the moon is male and the sun female; in \[this\] English translation the
 genders are changed.
 
 ------------------------------------------------------------------------
 
 [Next: XXV. Here is the Going of Tariel and Avt’handil to the Cave, and
-Their Seeing of Asmat’h](mps28)
+Their Seeing of Asmat’h](mps28.md)

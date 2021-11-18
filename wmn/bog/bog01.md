@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog00)  [Next](bog02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog00)  [Next](bog02.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ Magic is alive, Goddess is afoot...
 
 ------------------------------------------------------------------------
 
-[Next: The Nine Principles of the Goddess](bog02)
+[Next: The Nine Principles of the Goddess](bog02.md)

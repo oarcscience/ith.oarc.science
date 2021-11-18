@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](kyog01)  [Next](kyog03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](kyog01)  [Next](kyog03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Karma-Yoga*, by Swami Vivekananda, \[1921\], at Intangible Textual
 Heritage
 
@@ -465,7 +465,7 @@ the neighbourhood put on their bravest attire and presented themselves
 before her. Sometimes they too had their own criers to enumerate their
 advantages and the reasons why they hoped the princess would choose
 them. The princess was taken round on a throne, in the most
-[splendid](errata.htm#1) array and looked at and heard about them. If
+[splendid](errata.htm#1.md) array and looked at and heard about them. If
 she was not pleased with what she saw and heard, she said to her
 bearers, "Move on," and no more notice was taken of the rejected
 suitors. If, however, the princess was pleased with any one of them she
@@ -567,6 +567,6 @@ the duty of the other."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Secret of Work](kyog03)
+[Next: Chapter III. The Secret of Work](kyog03.md)
 
 </div>

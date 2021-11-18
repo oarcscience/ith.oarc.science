@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](ecll08)  [Previous](ecl07) 
-[Next](ecl09) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](ecll08)  [Previous](ecl07.md) 
+[Next](ecl09.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ Forbear: from the city, forbear now, my songs, Daphnis comes.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue IX.--Moeris](ecl09)
+[Next: Eclogue IX.--Moeris](ecl09.md)

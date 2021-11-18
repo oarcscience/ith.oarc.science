@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico027) 
-[Next](nico029) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico027.md) 
+[Next](nico029.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ in these forms of death neither of these conditions is fulfilled.
 ------------------------------------------------------------------------
 
 [Next: Chapter 7. The motive of courage is the sense of honour:
-characteristics of the opposite vices, cowardice and rashness](nico029)
+characteristics of the opposite vices, cowardice and rashness](nico029.md)

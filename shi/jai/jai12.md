@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai11)  [Next](jai13) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai11)  [Next](jai13.md) 
 
 ------------------------------------------------------------------------
 
@@ -584,4 +584,4 @@ same.
 
 ------------------------------------------------------------------------
 
-[Next: The Social Organization](jai13)
+[Next: The Social Organization](jai13.md)

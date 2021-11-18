@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf08)  [Next](tsf10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf08)  [Next](tsf10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -167,7 +167,7 @@ one's life to the divine being.
 <span id="img_16300"></span>
 
 [![Priestesses of Aphrodite](tn/16300.jpg)  
-Click to enlarge](img/16300.jpg)  
+Click to enlarge](img/16300.jpg.md)  
 Priestesses of Aphrodite  
 
 When accepted by the high-priest, the maiden was dedicated to Aphrodite
@@ -385,7 +385,7 @@ she returned as
 <span id="img_17000"></span>
 
 [![Hers was the life of an actress, ever upon the stage](tn/17000.jpg)  
-Click to enlarge](img/17000.jpg)  
+Click to enlarge](img/17000.jpg.md)  
 Hers was the life of an actress, ever upon the stage  
 
 <span class="contnote">\[paragraph continues\]</span> Aphrodite born a
@@ -561,7 +561,7 @@ In the morning lie was found stabbed, still tied to the tree.
 <span id="img_17600"></span>
 
 [![Lamenting for Attis](tn/17600.jpg)  
-Click to enlarge](img/17600.jpg)  
+Click to enlarge](img/17600.jpg.md)  
 Lamenting for Attis  
 
 This was the Day of the Blood. The sight of the dead priest, swathed in
@@ -622,11 +622,11 @@ blood-letting" had been accomplished. Having returned to his former
 freedom in love, man became himself again.
 
 <span id="img_17800"></span> ![Aphrodite, Goddess of
-Love](img/17800.jpg)  
+Love](img/17800.jpg.md)  
 Aphrodite, Goddess of Love
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. At a Dionysian Mystery](tsf10)
+[Next: Chapter III. At a Dionysian Mystery](tsf10.md)

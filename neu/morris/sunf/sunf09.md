@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf08)  [Next](sunf10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf08)  [Next](sunf10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -165,6 +165,6 @@ the goodliest and best man that he had ever met.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Goodman Gets a New Hired Man](sunf10)
+[Next: Chapter VIII. The Goodman Gets a New Hired Man](sunf10.md)
 
 </div>

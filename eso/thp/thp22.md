@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](thp21) 
-[Next](thp23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](thp21.md) 
+[Next](thp23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -125,13 +125,13 @@ read so superficially,
 
 hides beneath its sometimes seemingly trivial words the secrets of other
 things. The twin pillars Jachin and Boaz bear witness to this
-truth. <span id="fr_4"></span>[1](#fn_4)
+truth. <span id="fr_4"></span>[1](#fn_4.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_4"></span>[196:1](thp22.htm#fr_4) The following comment was
+<span id="fn_4"></span>[196:1](thp22.htm#fr_4.md) The following comment was
 made by Judge Troward, after the publication of this paper in
 *Expression*:
 
@@ -158,4 +158,4 @@ knows Itself."
 
 ------------------------------------------------------------------------
 
-[Next: XXI. Hephzibah](thp23)
+[Next: XXI. Hephzibah](thp23.md)

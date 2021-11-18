@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss05)  [Next](jss07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss05)  [Next](jss07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -59,11 +59,11 @@ chilled through and through
 
 <span id="img_01800"></span> <span align="CENTER"> [![IRKUTSK,
 SIBERIA](tn/01800.jpg)  
-Click to enlarge](img/01800.jpg)  
+Click to enlarge](img/01800.jpg.md)  
 IRKUTSK, SIBERIA  
 </span>
 
-Page [18](#page_18)
+Page [18](#page_18.md)
 
  
 
@@ -328,24 +328,24 @@ Russia comes in great part from the samovar,
 
 <span id="img_02400"></span> <span align="CENTER"> [![POST STATION AT
 ELANTSIN.&lt;br&gt; Hitching in the horses](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)  
+Click to enlarge](img/02400.jpg.md)  
 POST STATION AT ELANTSIN.  
 Hitching in the horses  
 </span>
 
-*Page* [24](#page_24)
+*Page* [24](#page_24.md)
 
 <span id="img_02401"></span> <span align="CENTER"> [![OUR TRAVELING
 CARRIAGE WHILE MAKING THE BURIAT JOURNEY&lt;br&gt; My driver forgot to
 drop his arms. They always hold the reins in this way when driving
 rapidly](tn/02401.jpg)  
-Click to enlarge](img/02401.jpg)  
+Click to enlarge](img/02401.jpg.md)  
 OUR TRAVELING CARRIAGE WHILE MAKING THE BURIAT JOURNEY  
 My driver forgot to drop his arms. They always hold the reins in this
 way when driving rapidly  
 </span>
 
-Page [21](#page_21)
+Page [21](#page_21.md)
 
  
 
@@ -849,4 +849,4 @@ different.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Collecting Myths](jss07)
+[Next: Chapter III. Collecting Myths](jss07.md)

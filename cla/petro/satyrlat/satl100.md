@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat14.htm#C)  [Previous](satl099) 
-[Next](satl101) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat14.htm#C)  [Previous](satl099.md) 
+[Next](satl101.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ exulem Tarentum ferat?"
 
 ------------------------------------------------------------------------
 
-[Next: CI](satl101)
+[Next: CI](satl101.md)

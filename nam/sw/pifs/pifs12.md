@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs11)  [Next](pifs13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs11)  [Next](pifs13.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ story, but one of the most poetic and beautiful in all the pretty
 folklore of the Pueblos.
 
 P'áh-hlee-oh, the Moon-Maiden, was the Tée-wahn Eve <span
-id="fr_38"></span>[1](#fn_38)--the first and loveliest woman in all the
+id="fr_38"></span>[1](#fn_38.md)--the first and loveliest woman in all the
 world. She had neither father nor mother, sister nor brother; and in her
 fair form were the seeds of all humanity--of all life and love and
 goodness. The Trues, who are the unseen spirits that are above all, made
@@ -76,7 +76,7 @@ Who of her sight dear-bought the night
 
 ### Footnotes
 
-<span id="fn_38"></span>[71:1](pifs12.htm#fr_38) She is honored in
+<span id="fn_38"></span>[71:1](pifs12.htm#fr_38.md) She is honored in
 almost every detail of the Pueblo ceremonials. The most important charm
 or implement of the medicine-men, the holiest fetish of all, is typical
 of her. It is called Mah-pah-róo, the Mother, and is the most beautiful
@@ -87,4 +87,4 @@ precious turquoise.
 
 ------------------------------------------------------------------------
 
-[Next: X. The Maker of the Thunder-Knives](pifs13)
+[Next: X. The Maker of the Thunder-Knives](pifs13.md)

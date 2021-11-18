@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic096)  [Next](lfic098) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic096)  [Next](lfic098.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ instructor, he was raised to the dignity of Bishop of Man.
 
 ------------------------------------------------------------------------
 
-[Next: Baptism after Death](lfic098)
+[Next: Baptism after Death](lfic098.md)

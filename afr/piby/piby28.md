@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby27)  [Next](piby29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby27)  [Next](piby29.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ not forgive."
 
 ------------------------------------------------------------------------
 
-[Next: Questions and Answers](piby29)
+[Next: Questions and Answers](piby29.md)

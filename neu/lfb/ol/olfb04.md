@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb03)  [Next](olfb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb03)  [Next](olfb05.md) 
 
 </div>
 
@@ -439,6 +439,6 @@ they have passed.
 
 ------------------------------------------------------------------------
 
-[Next: Geirlaug the King's Daughter](olfb05)
+[Next: Geirlaug the King's Daughter](olfb05.md)
 
 </div>

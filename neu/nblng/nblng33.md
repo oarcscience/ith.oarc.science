@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng32)  [Next](nblng34) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng32)  [Next](nblng34.md) 
 
 ------------------------------------------------------------------------
 
@@ -275,4 +275,4 @@ in revenge for the killing of the Burgundian footmen.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXXII: How Bloedel Was Slain.](nblng34)
+[Next: Adventure XXXII: How Bloedel Was Slain.](nblng34.md)

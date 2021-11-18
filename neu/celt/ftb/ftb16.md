@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb15)  [Next](ftb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb15)  [Next](ftb17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -24,20 +24,20 @@ Textual Heritage
 
 <span id="img_16600"></span> <span align="CENTER"> [![Three Angels
 dazzling with light.](tn/16600.jpg)  
-Click to enlarge](img/16600.jpg)  
+Click to enlarge](img/16600.jpg.md)  
 Three Angels dazzling with light.  
 </span>
 
 <span id="page_167">p. 167</span>
 
 <span id="img_16700"></span> ![The Wasp, the Winged Needle and the
-Spider](img/16700.jpg)
+Spider](img/16700.jpg.md)
 
 <span id="img_16701"></span>
 
 |                        |
 |------------------------|
-| ![Long](img/16701.jpg) |
+| ![Long](img/16701.jpg.md) |
 
 ago there lived, at Leon in Brittany, two young noblemen so rich and so
 handsome that their own mother could discover no defect in them. Their
@@ -370,4 +370,4 @@ heavens, leaving Tonyk and Mylie to stare after them with wonder.
 
 ------------------------------------------------------------------------
 
-[Next: Yannik, the Fairy Child](ftb17)
+[Next: Yannik, the Fairy Child](ftb17.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft37)  [Next](ftft39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft37)  [Next](ftft39.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_290">p. 290</span>
 
-<span id="img_29000"></span> ![The Fortune Teller](img/29000.jpg)
+<span id="img_29000"></span> ![The Fortune Teller](img/29000.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a widow who had three daughters. One spun cotton, the
 others sewed, and thus they earned their daily bread.<span
@@ -58,7 +58,7 @@ be content.
 
 |                                                         |
 |---------------------------------------------------------|
-| ![He cried them for sale in the streets](img/29100.jpg) |
+| ![He cried them for sale in the streets](img/29100.jpg.md) |
 
 The youth was the son of a rich man, the maiden was a peri, and as she
 had fallen in love with him, they met every day at the bottom of the
@@ -92,7 +92,7 @@ place.
 
 |                     |
 |---------------------|
-| ![L](img/linit.jpg) |
+| ![L](img/linit.jpg.md) |
 
 EAVING this happy couple, let us follow the fortunes of the remaining
 sisters. One day they went together to the bath. They washed, and were
@@ -123,7 +123,7 @@ deathlike trance. His parents, believing him dead,
 <span id="img_29300"></span>
 
 [![''I would rather die,'' answered the youth](tn/29300.jpg)  
-Click to enlarge](img/29300.jpg)  
+Click to enlarge](img/29300.jpg.md)  
 ''I would rather die,'' answered the youth  
 
 <span id="page_294">p. 294</span>
@@ -150,7 +150,7 @@ however, swore that the Shahzada was still alive. "If you do not
 believe, come with me this night and I will show you
 
 <span id="img_29400"></span> ![The wicked Physician had his head struck
-off](img/29400.jpg)
+off](img/29400.jpg.md)
 
 <span id="page_295">p. 295</span>
 
@@ -167,7 +167,7 @@ been the means of restoring the Prince was united with him in marriage.
 
 |                                                                      |
 |----------------------------------------------------------------------|
-| ![The youth kept his head struck between two pillows](img/29500.jpg) |
+| ![The youth kept his head struck between two pillows](img/29500.jpg.md) |
 
 Meanwhile the youngest girl, having found her way home, was waiting and
 waiting for her sister to return. As she did not come she put on a
@@ -187,7 +187,7 @@ gave great pleasure to the old parents. They received her kindly, and
 
 |                                                |
 |------------------------------------------------|
-| ![The Peri Padishah's Daughter](img/29600.jpg) |
+| ![The Peri Padishah's Daughter](img/29600.jpg.md) |
 
 after a little reflection asked: "My child, we have a son, would you
 like to become his wife?" "yes, indeed," replied the maiden. "But," said
@@ -244,4 +244,4 @@ lasting forty days and forty nights.
 
 ------------------------------------------------------------------------
 
-[Next: Sister and Brother](ftft39)
+[Next: Sister and Brother](ftft39.md)

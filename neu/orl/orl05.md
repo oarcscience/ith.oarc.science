@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl04)  [Next](orl06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl04)  [Next](orl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1050,4 +1050,4 @@ If you are fain the history to hear.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 6](orl06)
+[Next: Canto 6](orl06.md)

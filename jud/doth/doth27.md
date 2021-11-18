@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth26)  [Next](doth28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth26)  [Next](doth28.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ proper at all times and in all places.
 
 But the third kind of humility is humility before the Creator, blessed
 be He, and its obligation embraces all reasonable beings, <span
-id="fr_9"></span>[\*](#fn_8) and it is incumbent upon them at every time
+id="fr_9"></span>[\*](#fn_8.md) and it is incumbent upon them at every time
 and in every place. This is the special kind of humility that I have in
 view. And all the Scriptural passages that speak of "the humble," "the
 meek," "the modest," "the brokenhearted," "the contrite," etc., etc.,
@@ -61,7 +61,7 @@ favourably accepted by the Creator.
 
 ### Footnotes
 
-<span id="fn_8"></span>[34:\*](doth27.htm#fr_9) *Kol hammedaberim*, a
+<span id="fn_8"></span>[34:\*](doth27.htm#fr_9.md) *Kol hammedaberim*, a
 phrase often used by our author, means, literally, all who speak or
 arrange words in order, or are capable of logic.
 
@@ -69,6 +69,6 @@ arrange words in order, or are capable of logic.
 
 ------------------------------------------------------------------------
 
-[Next: The Signs and Consequences of True Humility](doth28)
+[Next: The Signs and Consequences of True Humility](doth28.md)
 
 </div>

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp75)  [Next](prp77) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp75)  [Next](prp77.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ those bearded 'twill not attack save at the height.
 
 ------------------------------------------------------------------------
 
-[Next: 77. Dodona is hallowed, Jupiter, to thee](prp77)
+[Next: 77. Dodona is hallowed, Jupiter, to thee](prp77.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ath00)    [Page
-Index](pageidx)    [Text \[Zipped\]](athtxt.zip)
+[Contents](#contents)    [Start Reading](ath00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](athtxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -58,21 +58,21 @@ point.--J.B. Hare, Dec. 15, 2007
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ath00)  
-[Foreword](ath01)  
-[Contents](ath02)  
-[Chapter I. The Syriac Version of Hellenism](ath03)  
-[Chapter II. The Arab Period](ath04)  
-[Chapter III. The Coming of the ‘Abbasids](ath05)  
-[Chapter IV. The Translators](ath06)  
-[Chapter V. The Mu‘tazilites](ath07)  
-[Chapter VI. The Eastern Philosophers](ath08)  
-[Chapter VII. Sufism](ath09)  
-[Chapter VIII. Orthodox Scholasticism](ath10)  
-[Chapter IX. Western Philosophy](ath11)  
-[Chapter X. The Jewish Transmittors](ath12)  
+<span id="contents"></span> [Title Page](ath00.md)  
+[Foreword](ath01.md)  
+[Contents](ath02.md)  
+[Chapter I. The Syriac Version of Hellenism](ath03.md)  
+[Chapter II. The Arab Period](ath04.md)  
+[Chapter III. The Coming of the ‘Abbasids](ath05.md)  
+[Chapter IV. The Translators](ath06.md)  
+[Chapter V. The Mu‘tazilites](ath07.md)  
+[Chapter VI. The Eastern Philosophers](ath08.md)  
+[Chapter VII. Sufism](ath09.md)  
+[Chapter VIII. Orthodox Scholasticism](ath10.md)  
+[Chapter IX. Western Philosophy](ath11.md)  
+[Chapter X. The Jewish Transmittors](ath12.md)  
 [Chapter XI. Influence of the Arabic Philosophers on Latin
-Scholasticism](ath13)  
-[Concluding Paragraph](ath14)  
-[Chronological Table](ath15)  
-[Index](ath16)  
+Scholasticism](ath13.md)  
+[Concluding Paragraph](ath14.md)  
+[Chronological Table](ath15.md)  
+[Index](ath16.md)  

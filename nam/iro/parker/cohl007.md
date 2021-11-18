@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl006)  [Next](cohl008) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl006)  [Next](cohl008.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,9 +17,9 @@ ever since he had been able to work. But notwithstanding, he asks that
 he may again walk.
 
 So now this is what he sang: O?gi'we, <span
-id="fr_10"></span>[2](#fn_10) Ye'ondâ'thâ, <span
-id="fr_11"></span>[3](#fn_11) and Gone'owo<sup>n</sup>. <span
-id="fr_12"></span>[4](#fn_12) Now while he sings he has strong drink
+id="fr_10"></span>[2](#fn_10.md) Ye'ondâ'thâ, <span
+id="fr_11"></span>[3](#fn_11.md) and Gone'owo<sup>n</sup>. <span
+id="fr_12"></span>[4](#fn_12.md) Now while he sings he has strong drink
 with him.
 
 Now it comes to his mind that perchance evil has arisen because of
@@ -35,13 +35,13 @@ recover.
 
 ### Footnotes
 
-<span id="fn_10"></span>[21:2](cohl007.htm#fr_10) The Death chant.
+<span id="fn_10"></span>[21:2](cohl007.htm#fr_10.md) The Death chant.
 
-<span id="fn_11"></span>[21:3](cohl007.htm#fr_11) The Women's song.
+<span id="fn_11"></span>[21:3](cohl007.htm#fr_11.md) The Women's song.
 
-<span id="fn_12"></span>[21:4](cohl007.htm#fr_12) The Harvest song, see
+<span id="fn_12"></span>[21:4](cohl007.htm#fr_12.md) The Harvest song, see
 p. 95.
 
 ------------------------------------------------------------------------
 
-[Next: The Two Ways He Thinks](cohl008)
+[Next: The Two Ways He Thinks](cohl008.md)

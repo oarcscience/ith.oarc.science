@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml37)  [Next](tml39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml37)  [Next](tml39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -124,7 +124,7 @@ Next day the king and all his men went forth to
 <span id="img_36400"></span> <span align="CENTER"> [![KING GUNTHER
 WELCOMES SIEGFRIED&lt;br&gt; &lt;i&gt;From the painting by Schnorr von
 Carolsfeld&lt;/i&gt;](tn/36400.jpg)  
-Click to enlarge](img/36400.jpg)  
+Click to enlarge](img/36400.jpg.md)  
 KING GUNTHER WELCOMES SIEGFRIED  
 *From the painting by Schnorr von Carolsfeld*  
 </span>
@@ -282,7 +282,7 @@ sweetly, thanking God the while for his valour in battle.
 <span id="img_36800"></span> <span align="CENTER"> [![SIEGFRIED AND
 KRIEMHILD&lt;br&gt; &lt;i&gt;From the painting by Schnorr von
 Carolsfeld&lt;/i&gt;](tn/36800.jpg)  
-Click to enlarge](img/36800.jpg)  
+Click to enlarge](img/36800.jpg.md)  
 SIEGFRIED AND KRIEMHILD  
 *From the painting by Schnorr von Carolsfeld*  
 </span>
@@ -393,4 +393,4 @@ on.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIV. How Brunhild and Kriemhild were won](tml39)
+[Next: Chapter XXXIV. How Brunhild and Kriemhild were won](tml39.md)

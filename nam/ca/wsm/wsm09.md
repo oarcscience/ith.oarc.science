@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm08)  [Next](wsm10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm08)  [Next](wsm10.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,10 +29,10 @@ get him?" Coyote went to some water and started to drink. While he was
 drinking the girl tried to strike him several times, but Coyote dodged
 each time. Then she said to him, "You go into the house," pointing to a
 big hole in the house. Coyote went in, and saw many bows and arrows
-around the walls of the house. <span id="fr_7"></span>[8](#fn_7)
+around the walls of the house. <span id="fr_7"></span>[8](#fn_7.md)
 
 During the night Coyote's advances toward the women were
-frustrated <span id="fr_8"></span>[9](#fn_8) . . . In the morning Coyote
+frustrated <span id="fr_8"></span>[9](#fn_8.md) . . . In the morning Coyote
 asked the woman who owned the bows and arrows. She told him to take them
 and to hunt some ducks. That day Coyote killed ducks and caught fish,
 which he brought back to the house.
@@ -55,28 +55,28 @@ are thirsty; maybe they will die." Coyote opened the
 <span id="page_262">p. 262</span>
 
 jug, and the babies all ran out. They went in all directions. <span
-id="fr_9"></span>[10](#fn_9) The boys fought among themselves with bows
+id="fr_9"></span>[10](#fn_9.md) The boys fought among themselves with bows
 and arrows. These people became the different Indian tribes.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_7"></span>[261:8](wsm09.htm#fr_7) The inference is that
+<span id="fn_7"></span>[261:8](wsm09.htm#fr_7.md) The inference is that
 these weapons belonged to men who had previously visited her and whom
 she had killed.
 
-<span id="fn_8"></span>[261:9](wsm09.htm#fr_8) In this and in subsequent
+<span id="fn_8"></span>[261:9](wsm09.htm#fr_8.md) In this and in subsequent
 versions of this tale, the familiar vagina dentatum theme is used to
 explain the failure of Coyote's amorous advances. Coyote remedies the
 situation by using a piece of wood or mountain sheep neck. The theme
 also is made to account for the disposition of part of the food eaten by
 the women. Deletions of this material are indicated by dots.
 
-<span id="fn_9"></span>[262:10](wsm09.htm#fr_9) G. H. added that some
+<span id="fn_9"></span>[262:10](wsm09.htm#fr_9.md) G. H. added that some
 paper was lost at this time, implying that the Indians had known how to
 write, but that the art was lost when Coyote opened the jug.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of People (Death Valley, California. Shoshoni)](wsm10)
+[Next: The Origin of People (Death Valley, California. Shoshoni)](wsm10.md)

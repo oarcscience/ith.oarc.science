@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog15)  [Next](kog17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog15)  [Next](kog17.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ came back to her, and they lived with her until they died.
 
 ------------------------------------------------------------------------
 
-[Next: 14. The Man Who Met Misery](kog17)
+[Next: 14. The Man Who Met Misery](kog17.md)

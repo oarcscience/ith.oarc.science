@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Next](exo) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Next](exo.md) 
 
 ------------------------------------------------------------------------
 
@@ -5976,4 +5976,4 @@ whakatakotoria hoki ki te kawhena i Ihipa.
 
 ------------------------------------------------------------------------
 
-[Next: Exodus](exo)
+[Next: Exodus](exo.md)

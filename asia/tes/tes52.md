@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes51)  [Next](tes53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes51)  [Next](tes53.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ flog her. He chastized her so long that she swooned; then he let up and
 poured cold water over her head. After that he flogged her again, so
 that she swooned a second time. At last the whole bullskin fell from her
 body in mere shreds. "Now you are again a woman!" said the man, and he
-led her back into the house. <span id="fr_83"></span>[1](#fn_83)
+led her back into the house. <span id="fr_83"></span>[1](#fn_83.md)
 
 Told by John Sukhomyasoff, a Russian creole, the clerk of the church in
 the village of Nishne-Kolymsk, the Kolyma country, summer of 1896.
@@ -104,9 +104,9 @@ the village of Nishne-Kolymsk, the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_83"></span>[108:1](tes52.htm#fr_83) See Bolte und Polívka,
+<span id="fn_83"></span>[108:1](tes52.htm#fr_83.md) See Bolte und Polívka,
 *l. c.*, vol. 1, 527--F. B.
 
 ------------------------------------------------------------------------
 
-[Next: 32. Story of the Forest Demon](tes53)
+[Next: 32. Story of the Forest Demon](tes53.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dld01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dld01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103633/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103633/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -447,7 +447,7 @@ Heaven and Hell, n. 589-596, 597-603; and also Last Judgment, n. 65-72,
 
 In the Revelation, after a description of the state of the Christian
 Church as it would be at its end, and as it now is, <span
-id="fr_14"></span>[62-1](#fn_14) and after those of that church who are
+id="fr_14"></span>[62-1](#fn_14.md) and after those of that church who are
 signified by the false prophet, the dragon, the harlot, and the beasts,
 are said to have been cast into hell, it is added: I saw a new heaven
 and a new earth, for the former heaven and the former earth were passed
@@ -506,7 +506,7 @@ according to it. An additional reason is that the Lord was present in
 Jerusalem, and taught in its temple, and afterwards glorified His Human
 there. Besides, "city" in the spiritual sense of the Word signifies
 doctrine, and therefore "holy city" signifies the doctrine of Divine
-truth from the Lord. <span id="fr_15"></span>[64-1](#fn_15) \[2\] That
+truth from the Lord. <span id="fr_15"></span>[64-1](#fn_15.md) \[2\] That
 by "Jerusalem" is meant the church as to doctrine, is further evident
 from other passages in the Word, as from these: For Zion's sake I will
 not hold my peace, and for Jerusalem's sake I will not rest, until the
@@ -647,10 +647,10 @@ will be seen.
 
 ### Footnotes
 
-<span id="fn_14"></span>[62-1](dld02.htm#fr_14) That is, in 1763.
+<span id="fn_14"></span>[62-1](dld02.htm#fr_14.md) That is, in 1763.
 \[Tr.\]
 
-<span id="fn_15"></span>[64-1](dld02.htm#fr_15) That by "city" in the
+<span id="fn_15"></span>[64-1](dld02.htm#fr_15.md) That by "city" in the
 Word is signified the doctrine of the church and of religion, may be
 seen in the Arcana Coelestia (n. 402, 2449, 2943, 3216, 4492, 4493).
 That by the gate of a city is signified the doctrine by means of which

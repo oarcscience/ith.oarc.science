@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic059)  [Next](lfic061) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic059)  [Next](lfic061.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ by Caeilte Mac Ronan, poetic inspiration by Oisin, Fergus, &c.
 
 ------------------------------------------------------------------------
 
-[Next: How Fion selected a Wife](lfic061)
+[Next: How Fion selected a Wife](lfic061.md)

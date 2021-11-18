@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah88)  [Next](oah90) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah88)  [Next](oah90.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ the dead, harmonize with the Eternal Whole if they perceive Him not?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](oah90)
+[Next: Chapter III](oah90.md)

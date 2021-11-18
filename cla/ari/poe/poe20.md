@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe19)  [Next](poe21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe19)  [Next](poe21.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ belongs to another art, not to poetry.
 
 ------------------------------------------------------------------------
 
-[Next: XX. Diction, or Language in general](poe21)
+[Next: XX. Diction, or Language in general](poe21.md)

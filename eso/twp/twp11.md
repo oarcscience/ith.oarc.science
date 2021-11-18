@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp10)  [Next](twp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp10)  [Next](twp12.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ the result of this insight and knowledge.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](twp12)
+[Next: Chapter X](twp12.md)

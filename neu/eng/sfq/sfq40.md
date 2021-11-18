@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq39)  [Next](sfq41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq39)  [Next](sfq41.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ Britomart consenting, they all went in together.
 
 ------------------------------------------------------------------------
 
-[Next: How it fared with Britomart in Castle Joyous](sfq41)
+[Next: How it fared with Britomart in Castle Joyous](sfq41.md)

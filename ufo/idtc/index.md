@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,8 +21,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](idtc00)    [Page
-Index](pageidx)    [Text (Zipped)](idtctxt.zip)
+[Contents](#contents)    [Start Reading](idtc00.md)    [Page
+Index](pageidx)    [Text (Zipped)](idtctxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ claims to be the commander of *a vast army of spacemen*. He apparently
 reports directly to Jesus Christ, who, it is implied, will return at
 some point in a UFO.
 
-Ashtar is a [desultory speller](errata), and sometimes slips into a
+Ashtar is a [desultory speller](errata.md), and sometimes slips into a
 bogus King James Bible-style English. One giveaway is his use of the
 word 'thyselves,' a neologism based on 'thyself.' The correct form of
 the second person plural possessive has been 'yourselves' since Old
@@ -49,22 +49,22 @@ bets, just in case Ashtar is listening out there, let me be the first to
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](idtc00)  
-[Foreword](idtc01)  
-[Introduction](idtc02)  
-[Chapter I](idtc03)  
-[Chapter II](idtc04)  
-[Chapter III](idtc05)  
-[Chapter IV](idtc06)  
-[Chapter V](idtc07)  
-[Chapter VI](idtc08)  
-[Chapter VII](idtc09)  
-[Chapter VII](idtc10)  
-[Chapter IX](idtc11)  
-[Chapter X](idtc12)  
-[Chapter XI](idtc13)  
-[Chapter XII](idtc14)  
-[Chapter XIII](idtc15)  
-[Chapter XIV](idtc16)  
-[Chapter XV](idtc17)  
-[Ads](idtc18)  
+<span id="contents"></span> [Title Page](idtc00.md)  
+[Foreword](idtc01.md)  
+[Introduction](idtc02.md)  
+[Chapter I](idtc03.md)  
+[Chapter II](idtc04.md)  
+[Chapter III](idtc05.md)  
+[Chapter IV](idtc06.md)  
+[Chapter V](idtc07.md)  
+[Chapter VI](idtc08.md)  
+[Chapter VII](idtc09.md)  
+[Chapter VII](idtc10.md)  
+[Chapter IX](idtc11.md)  
+[Chapter X](idtc12.md)  
+[Chapter XI](idtc13.md)  
+[Chapter XII](idtc14.md)  
+[Chapter XIII](idtc15.md)  
+[Chapter XIV](idtc16.md)  
+[Chapter XV](idtc17.md)  
+[Ads](idtc18.md)  

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib07)  [Next](shib09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib07)  [Next](shib09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -46,16 +46,16 @@ captivity and death.
 <span id="img_starsep"></span> ![](img/starsep.jpg)
 
 <span id="img_02100"></span> ![Array of Chamber when Z. first
-enters.](img/02100.jpg)
+enters.](img/02100.jpg.md)
 
 <span id="page_22">p. 22</span>
 
 <span id="img_02200"></span> ![Array of Chamber when CC. rises to speak
 for all the Z.s. Princes of Persia, and Rulers of Medes who are in robes
-and Coronets.](img/02200.jpg)
+and Coronets.](img/02200.jpg.md)
 
 <span id="img_starsep"></span> ![](img/starsep.jpg)
 
 ------------------------------------------------------------------------
 
-[Next: The Immemorial Discussion](shib09)
+[Next: The Immemorial Discussion](shib09.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss07)  [Next](jss09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss07)  [Next](jss09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ of the mountain opposite, of whom the chief is Malan Noyon.
 Of the seven sons five went beyond the Baikal, and there their
 descendants make sacrifice to this day, but they make it to Baganteng,
 where their clan originated,—where the tomta <span
-id="fr_0"></span>[1](#fn_0) of the founder is. Long ago they forgot Uhér
+id="fr_0"></span>[1](#fn_0.md) of the founder is. Long ago they forgot Uhér
 and its divinities.
 
 The order of the Tailgan, or Horse Sacrifice, is as follows: About seven
@@ -136,11 +136,11 @@ The flesh was put
 
 <span id="img_04600"></span> <span align="CENTER"> [![PEOPLE ASSEMBLED
 FOR THE HORSE SACRIFICE](tn/04600.jpg)  
-Click to enlarge](img/04600.jpg)  
+Click to enlarge](img/04600.jpg.md)  
 PEOPLE ASSEMBLED FOR THE HORSE SACRIFICE  
 </span>
 
-*Page* [45](#page_45)
+*Page* [45](#page_45.md)
 
  
 
@@ -233,11 +233,11 @@ men in their position there was reason for enjoyment;
 
 <span id="img_04800"></span> <span align="CENTER"> [![STONE ALTARS ON
 THE HILL OF SACRIFICE.](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)  
+Click to enlarge](img/04800.jpg.md)  
 STONE ALTARS ON THE HILL OF SACRIFICE.  
 </span>
 
-*Page* [45](#page_45)
+*Page* [45](#page_45.md)
 
  
 
@@ -331,19 +331,19 @@ condemns the chief part of their life and the main customs
 
 <span id="img_05000"></span> <span align="CENTER"> [![I. HORSE
 SACRIFICE.](tn/05000.jpg)  
-Click to enlarge](img/05000.jpg)  
+Click to enlarge](img/05000.jpg.md)  
 I. HORSE SACRIFICE.  
 </span>
 
-*Page* [45](#page_45)
+*Page* [45](#page_45.md)
 
 <span id="img_05001"></span> <span align="CENTER"> [![II. HORSE
 SACRIFICE.](tn/05001.jpg)  
-Click to enlarge](img/05001.jpg)  
+Click to enlarge](img/05001.jpg.md)  
 II. HORSE SACRIFICE.  
 </span>
 
-*Page* [45](#page_45)
+*Page* [45](#page_45.md)
 
  
 
@@ -419,19 +419,19 @@ Vassya's father.
 
 <span id="img_05200"></span> <span align="CENTER"> [![III. HORSE
 SACRIFICE.](tn/05200.jpg)  
-Click to enlarge](img/05200.jpg)  
+Click to enlarge](img/05200.jpg.md)  
 III. HORSE SACRIFICE.  
 </span>
 
-*Page* [46](#page_46)
+*Page* [46](#page_46.md)
 
 <span id="img_05201"></span> <span align="CENTER"> [![IV. HORSE
 SACRIFICE.](tn/05201.jpg)  
-Click to enlarge](img/05201.jpg)  
+Click to enlarge](img/05201.jpg.md)  
 IV. HORSE SACRIFICE.  
 </span>
 
-*Page* [46](#page_46)
+*Page* [46](#page_46.md)
 
  
 
@@ -439,9 +439,9 @@ IV. HORSE SACRIFICE.
 
 ### Footnotes
 
-<span id="fn_0"></span>[44:1](jss08.htm#fr_0) See ceremonies after the
-birth of a child, page [96](jss12.htm#page_96).
+<span id="fn_0"></span>[44:1](jss08.htm#fr_0.md) See ceremonies after the
+birth of a child, page [96](jss12.htm#page_96.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Journey to the Island of Olkhon](jss09)
+[Next: Chapter V. Journey to the Island of Olkhon](jss09.md)

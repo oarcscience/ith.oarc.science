@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe13) 
-[Next](ioe15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe13.md) 
+[Next](ioe15.md) 
 
 ------------------------------------------------------------------------
 
@@ -182,4 +182,4 @@ the Tokugawa régime to which it unfortunately succumbed.
 
 ------------------------------------------------------------------------
 
-[Next: Later Tokugawa Period: 1700-1850 A.D.](ioe15)
+[Next: Later Tokugawa Period: 1700-1850 A.D.](ioe15.md)

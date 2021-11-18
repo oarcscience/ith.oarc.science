@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](enoc00)  [Next](noa00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](enoc00)  [Next](noa00.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ which I believe no need to mention here\].
 
 ------------------------------------------------------------------------
 
-[Next: Sheikh of messengers, Noah PUH](noa00)
+[Next: Sheikh of messengers, Noah PUH](noa00.md)

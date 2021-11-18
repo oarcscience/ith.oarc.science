@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao72)   
-[Previous](tao71)  [Next](tao73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao72.md)   
+[Previous](tao71)  [Next](tao73.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ ostentation and pride, but keeps understanding and mindfulness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 73](tao73)
+[Next: Chapter 73](tao73.md)

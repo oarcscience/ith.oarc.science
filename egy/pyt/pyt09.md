@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt08)  [Next](pyt10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt08)  [Next](pyt10.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ away.
 ------------------------------------------------------------------------
 
 [Next: 7. The Deceased King Arrives in Heaven Where He is Established,
-Utterances 244-259](pyt10)
+Utterances 244-259](pyt10.md)

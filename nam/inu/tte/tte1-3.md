@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inuit](../index)  
-[Index](index) [Previous](tte1-2) [Next](tte1-4)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inuit](../index.md)  
+[Index](index) [Previous](tte1-2) [Next](tte1-4.md)
 
 ------------------------------------------------------------------------
 
@@ -415,7 +415,7 @@ carried out on some kindred or place-fellow of the murderer.
 
 ------------------------------------------------------------------------
 
-[Next](tte1-4)
+[Next](tte1-4.md)
 
  
 

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge02) 
-[Next](pge04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge02.md) 
+[Next](pge04.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ writers on forensic medicine.
 ------------------------------------------------------------------------
 
 [Next: II. Homer had no knowledge of paiderastia--Achilles--Treatment of
-Homer by the later Greeks](pge04)
+Homer by the later Greeks](pge04.md)

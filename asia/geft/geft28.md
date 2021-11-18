@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft27)  [Next](geft29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft27)  [Next](geft29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -128,16 +128,16 @@ replied: 'If you do such a vulgar thing again I shall pull this beam out
 and break it over your stupid head.' The giant made humble excuses, and
 promised that he would never sneeze again during dinner time; he then
 brought a ladder by which the dwarf came down. . . . <span
-id="fr_50"></span>[1](#fn_49)
+id="fr_50"></span>[1](#fn_49.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_49"></span>[150:1](geft28.htm#fr_50) Cf. Malcolm: *Sketches
+<span id="fn_49"></span>[150:1](geft28.htm#fr_50.md) Cf. Malcolm: *Sketches
 of Persia*, ch. xvi. 'Ameen and the Ghool. Jacobs: *More English Fairy
 Tales*, p. 173, and note on p. 239.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Grasshopper and the Ant](geft29)
+[Next: II. The Grasshopper and the Ant](geft29.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut08)  [Next](mdut10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut08)  [Next](mdut10.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ with great eyes.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Thunder and Mosquito, and the Theft of Fire](mdut10)
+[Next: 8. Thunder and Mosquito, and the Theft of Fire](mdut10.md)

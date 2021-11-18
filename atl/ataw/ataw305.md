@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw304)  [Next](ataw306) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw304)  [Next](ataw306.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -177,7 +177,7 @@ and was killed by them in the great outbreak of
  
 
 <span id="img_18700"></span> <span align="CENTER"> [![](tn/18700.jpg)  
-Click to enlarge](img/18700.jpg)</span>  
+Click to enlarge](img/18700.jpg.md)</span>  
 GOVERNOR AND OTHER INDIANS OF THE PUEBLO OF SAN DOMINGO, NEW MEXICO.
 
  
@@ -247,7 +247,7 @@ the inhabitants of the southern part of the old continent.
  
 
 <span id="img_19100"></span> <span align="CENTER"> [![](tn/19100.jpg)  
-Click to enlarge](img/19100.jpg)</span>  
+Click to enlarge](img/19100.jpg.md)</span>  
 SHAWNEES.
 
  
@@ -255,7 +255,7 @@ SHAWNEES.
 <span id="page_193">p. 193</span>
 
 On the other hand, look at the portrait of the great Italian orator and
-reformer, Savonarola, on page [193](#img_19300). It looks more like the
+reformer, Savonarola, on page [193](#img_19300.md). It looks more like the
 hunting Indians of North-western America than any of the preceding
 faces. In fact, if it was dressed with a scalp-lock it would pass muster
 anywhere as a portrait of the "Man-afraid-of-his-horses," or "Sitting
@@ -411,4 +411,4 @@ from intermixture with the white stock.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Genesis Contains a History of Atlantis](ataw306)
+[Next: Chapter VI: Genesis Contains a History of Atlantis](ataw306.md)

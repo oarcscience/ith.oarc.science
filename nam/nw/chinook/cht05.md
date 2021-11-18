@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht04)  [Next](cht06) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht04)  [Next](cht06.md) 
 
 ------------------------------------------------------------------------
 
@@ -276,4 +276,4 @@ his eyesight. Then they returned home.
 
 ------------------------------------------------------------------------
 
-[Next: 3. AnêktcXô'lEmiX](cht06)
+[Next: 3. AnêktcXô'lEmiX](cht06.md)

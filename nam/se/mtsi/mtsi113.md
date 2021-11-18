@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi112)  [Next](mtsi114) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi112)  [Next](mtsi114.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ He advised them in this manner and not long afterwards died.
 
 ------------------------------------------------------------------------
 
-[Next: 21. The Deer Kills Himself Against a Tree](mtsi114)
+[Next: 21. The Deer Kills Himself Against a Tree](mtsi114.md)

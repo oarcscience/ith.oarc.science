@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
 </colgroup>
 <tbody>
 <tr class="odd">
-<td width="50%" data-valign="CENTER"><img src="img/merlin.jpg" alt="The Beguiling of Merlin, by Edward Burne-Jones [1873-4](Public Domain Image)" /><br />
+<td width="50%" data-valign="CENTER"><img src="img/merlin.jpg" alt="The Beguiling of Merlin, by Edward Burne-Jones [1873-4](Public Domain Image.md)" /><br />
 </td>
 <td width="50%" data-valign="CENTER"><h1 id="celtic-myth-and-legend" data-align="CENTER">Celtic Myth and Legend</h1>
 <h2 id="by-charles-squire" data-align="CENTER">by Charles Squire</h2>
@@ -36,8 +36,8 @@ Part of the 'Myths and Legends' series published by Gresham in the early
 work, 'The Mythology of the British Islands'. It differs from the rest
 of the Gresham series because it is a bit more scholarly (it actually
 has an adequate set of footnotes) and a bit more didactic. There is [an
-extensive index](cml31) with over 8,000 references (all hyperlinked
-here). Another great feature is a [glossary](cml32) of dozens of Irish
+extensive index](cml31.md) with over 8,000 references (all hyperlinked
+here). Another great feature is a [glossary](cml32.md) of dozens of Irish
 and Welsh words and phrases with phonetic transcriptions--finally
 everyone can learn how to properly pronounce terms such as 'Táin Bo
 Chuailgné' and 'Pwyll'! This is a good thing. More importantly, Squire
@@ -73,55 +73,55 @@ timeless stories in a very entertaining fashion.
 
 ------------------------------------------------------------------------
 
-[Title Page](cml00)  
-[Preface](cml01)  
-[Contents](cml02)  
-[Plates in Colour](cml03)  
-[Plates in Monochrome](cml04)  
-[Chapter I. The Interest and Importance of Celtic Mythology](cml05)  
+[Title Page](cml00.md)  
+[Preface](cml01.md)  
+[Contents](cml02.md)  
+[Plates in Colour](cml03.md)  
+[Plates in Monochrome](cml04.md)  
+[Chapter I. The Interest and Importance of Celtic Mythology](cml05.md)  
 [Chapter II. The Sources of Our Knowledge of the Celtic
-Mythology](cml06)  
-[Chapter III. Who Were the ''Ancient Britons''?](cml07)  
-[Chapter IV. The Religion of the Ancient Britons and Druidism](cml08)  
+Mythology](cml06.md)  
+[Chapter III. Who Were the ''Ancient Britons''?](cml07.md)  
+[Chapter IV. The Religion of the Ancient Britons and Druidism](cml08.md)  
 <span id="section_000"></span>
 
 ### The Gaelic Gods
 
-[Chapter V. The Gods of the Gaels](cml09)  
-[Chapter VI. The Gods Arrive](cml10)  
-[Chapter VII. The Rise of the Sun-God](cml11)  
-[Chapter VIII. The Gaelic Argonauts](cml12)  
-[Chapter IX. The War with the Giants](cml13)  
-[Chapter X. The Conquest of the Gods by Mortals](cml14)  
-[Chapter XI. The Gods in Exile](cml15)  
-[Chapter XII. The Irish Iliad](cml16)  
-[Chapter XIII. Some Gaelic Love-Stories](cml17)  
-[Chapter XIV. Finn and the Fenians](cml18)  
-[Chapter XV. The Decline and Fall of the Gods](cml19)  
+[Chapter V. The Gods of the Gaels](cml09.md)  
+[Chapter VI. The Gods Arrive](cml10.md)  
+[Chapter VII. The Rise of the Sun-God](cml11.md)  
+[Chapter VIII. The Gaelic Argonauts](cml12.md)  
+[Chapter IX. The War with the Giants](cml13.md)  
+[Chapter X. The Conquest of the Gods by Mortals](cml14.md)  
+[Chapter XI. The Gods in Exile](cml15.md)  
+[Chapter XII. The Irish Iliad](cml16.md)  
+[Chapter XIII. Some Gaelic Love-Stories](cml17.md)  
+[Chapter XIV. Finn and the Fenians](cml18.md)  
+[Chapter XV. The Decline and Fall of the Gods](cml19.md)  
 <span id="section_001"></span>
 
 ### The British Gods
 
-[Chapter XVI. The Gods of the Britons](cml20)  
-[Chapter XVII. The Adventures of the Gods of Hades](cml21)  
+[Chapter XVI. The Gods of the Britons](cml20.md)  
+[Chapter XVII. The Adventures of the Gods of Hades](cml21.md)  
 [Chapter XVIII. The Wooing of Branwen and the Beheading of
-Brân](cml22)  
-[Chapter XIX. The War of Enchantments](cml23)  
-[Chapter XX. The Victories of Light Over Darkness](cml24)  
-[Chapter XXI. The Mythological ''Coming of Arthur''](cml25)  
-[Chapter XXII. The Treasures of Britain](cml26)  
-[Chapter XXIII. The Gods as King Arthur's Knights](cml27)  
-[Chapter XXIV. The Decline and Fall of the Gods](cml28)  
+Brân](cml22.md)  
+[Chapter XIX. The War of Enchantments](cml23.md)  
+[Chapter XX. The Victories of Light Over Darkness](cml24.md)  
+[Chapter XXI. The Mythological ''Coming of Arthur''](cml25.md)  
+[Chapter XXII. The Treasures of Britain](cml26.md)  
+[Chapter XXIII. The Gods as King Arthur's Knights](cml27.md)  
+[Chapter XXIV. The Decline and Fall of the Gods](cml28.md)  
 <span id="section_002"></span>
 
 ### Survivals of Celtic Paganism
 
 [Chapter XXV. Survivals of the Celtic Paganism into Modern
-Times](cml29)  
+Times](cml29.md)  
 <span id="section_003"></span>
 
 ### Appendix
 
-[A Few Books upon Celtic Mythology and Literature](cml30)  
-[Index](cml31)  
-[Table of Pronunciation for the More Difficult Words](cml32)  
+[A Few Books upon Celtic Mythology and Literature](cml30.md)  
+[Index](cml31.md)  
+[Table of Pronunciation for the More Difficult Words](cml32.md)  

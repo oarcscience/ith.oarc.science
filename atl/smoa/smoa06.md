@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa05)  [Next](smoa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa05)  [Next](smoa07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -140,7 +140,7 @@ bright which slaves had gathered.
 Gold was beaten fair in dish for flesh and trays to bear the food from
 fire to banquet hall. The knife, ye call, was shaped as tool thou useth
 to sever loaf or meat. Not gold but other metal played the part of
-furnishing the men of old Atlantis <span id="fr_6"></span>[\*](#fn_6)
+furnishing the men of old Atlantis <span id="fr_6"></span>[\*](#fn_6.md)
 their most useful implement; but that thou graspeth of fine gold was
 wrought, of "silver," brought from far and greater value held than gold
 which lay
@@ -263,9 +263,9 @@ above.
 
 ### Footnotes
 
-<span id="fn_6"></span>[41:\*](smoa06.htm#fr_6) Africa.
+<span id="fn_6"></span>[41:\*](smoa06.htm#fr_6.md) Africa.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter V. Other inventions of the Atlantians. The science of
-Ellipse of Sound.](smoa07)
+Ellipse of Sound.](smoa07.md)

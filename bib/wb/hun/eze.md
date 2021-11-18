@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](lam)  [Next](dan) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](lam)  [Next](dan.md) 
 
 ------------------------------------------------------------------------
 
@@ -4954,4 +4954,4 @@ a város neve ama naptól fogva: Ott \[lakik\] az Úr!
 
 ------------------------------------------------------------------------
 
-[Next: Daniel](dan)
+[Next: Daniel](dan.md)

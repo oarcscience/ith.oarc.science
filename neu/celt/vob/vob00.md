@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Next](vob01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Next](vob01.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ provided this notice of attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](vob01)
+[Next: Introduction](vob01.md)

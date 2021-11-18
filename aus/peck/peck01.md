@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck00)  [Next](peck02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck00)  [Next](peck02.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ The Black Satin
 
 ------------------------------------------------------------------------
 
-[Next: Prelude: A Princess](peck02)
+[Next: Prelude: A Princess](peck02.md)

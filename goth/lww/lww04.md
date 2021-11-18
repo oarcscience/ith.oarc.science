@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww03)  [Next](lww05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww03)  [Next](lww05.md) 
 
 ------------------------------------------------------------------------
 
@@ -304,4 +304,4 @@ when her young are menaced."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V--The White Worm](lww05)
+[Next: Chapter V--The White Worm](lww05.md)

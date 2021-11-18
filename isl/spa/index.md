@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](spa00)    [Page
-Index](pageidx)    [Text \[Zipped\]](spa.txt.gz)
+[Contents](#contents)    [Start Reading](spa00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](spa.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ Afghanistan, and India. He wrote one of the first Pushto grammars in
 texts in the original language, which served as the basis for these
 translations. The system of transcription in this book, which is
 reproduced exactly as in the original with the help of
-[Unicode](../../unicode), is not pretty, but at least is applied
+[Unicode](../../unicode.md), is not pretty, but at least is applied
 consistently. Included here are translations of poems only available in
 manuscripts which Raverty was able to access, obviously very rare. This
 book, itself, is fairly rare, and appears for the first time on the
@@ -71,62 +71,62 @@ Internet at this site.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](spa00)  
-[To the Reader](spa01)  
-[Contents](spa02)  
-[Remarks on the Mystic Doctrine and Poetry of the Ṣūfīs](spa03)  
+<span id="contents"></span> [Title Page](spa00.md)  
+[To the Reader](spa01.md)  
+[Contents](spa02.md)  
+[Remarks on the Mystic Doctrine and Poetry of the Ṣūfīs](spa03.md)  
 <span id="section_000"></span>
 
 ### Æabd-ur-Raḥmān
 
-[Introduction](spa04)  
-[The Poems of Æabd-ur-Raḥmān](spa05)  
+[Introduction](spa04.md)  
+[The Poems of Æabd-ur-Raḥmān](spa05.md)  
 <span id="section_001"></span>
 
 ### Mīrzā <u>Kh</u>ān, Anṣārī
 
-[Introduction](spa06)  
-[The Poems of Mīrzā <u>Kh</u>ān, Anṣārī](spa07)  
+[Introduction](spa06.md)  
+[The Poems of Mīrzā <u>Kh</u>ān, Anṣārī](spa07.md)  
 <span id="section_002"></span>
 
 ### Æabd-ul-Ḥamīd
 
-[Introduction](spa08)  
-[The Poems of Æabd-ul-Ḥamīd](spa09)  
+[Introduction](spa08.md)  
+[The Poems of Æabd-ul-Ḥamīd](spa09.md)  
 <span id="section_003"></span>
 
 ### <u>Kh</u>u<u>sh</u>ḥāl <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak
 
-[Introduction](spa10)  
+[Introduction](spa10.md)  
 [The Poems of <u>Kh</u>u<u>sh</u>ḥāl <u>Kh</u>ān,
-<u>Kh</u>a<u>tt</u>ak](spa11)  
+<u>Kh</u>a<u>tt</u>ak](spa11.md)  
 <span id="section_004"></span>
 
 ### A<u>sh</u>raf <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak
 
-[Introduction](spa12)  
-[The Poems of A<u>sh</u>raf <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak](spa13)  
+[Introduction](spa12.md)  
+[The Poems of A<u>sh</u>raf <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak](spa13.md)  
 <span id="section_005"></span>
 
 ### Æabd-ul-Ḳādir <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak
 
-[Introduction](spa14)  
-[The Poems of Æabd-ul-Ḳādir <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak](spa15)  
+[Introduction](spa14.md)  
+[The Poems of Æabd-ul-Ḳādir <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak](spa15.md)  
 <span id="section_006"></span>
 
 ### Aḥmad Shāh, Abdālī, Shāh Durr-i-Durrān
 
-[Introduction](spa16)  
-[The Poems of Aḥmad <u>Sh</u>āh, Abdālī](spa17)  
+[Introduction](spa16.md)  
+[The Poems of Aḥmad <u>Sh</u>āh, Abdālī](spa17.md)  
 <span id="section_007"></span>
 
 ### Kāzim <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak, Surnamed <u>Sh</u>aidā
 
-[Introduction](spa18)  
-[The Poems of Kāzim <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak](spa19)  
+[Introduction](spa18.md)  
+[The Poems of Kāzim <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak](spa19.md)  
 <span id="section_008"></span>
 
 ### <u>Kh</u>wājah Muḥammad, Banga<u>sh</u>
 
-[Introduction](spa20)  
-[The Poems of <u>Kh</u>wājah Muḥammad, Banga<u>sh</u>](spa21)  
+[Introduction](spa20.md)  
+[The Poems of <u>Kh</u>wājah Muḥammad, Banga<u>sh</u>](spa21.md)  

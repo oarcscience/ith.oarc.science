@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe329)  [Next](prwe331) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe329)  [Next](prwe331.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ Cornwall." It is really in the parish of Sennen.
 
 ------------------------------------------------------------------------
 
-[Next: The Poem of the Wrestling](prwe331)
+[Next: The Poem of the Wrestling](prwe331.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj08)  [Next](igj10) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj08)  [Next](igj10.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ and conducted upon the Way of Enlightenment."
 
 {p. 121}
 
-![S'rîpadâ-Tracing at Dentsu-In, Koishikawa, Tôkyô](img/12100.jpg)  
+![S'rîpadâ-Tracing at Dentsu-In, Koishikawa, Tôkyô](img/12100.jpg.md)  
 S'RÎPADÂ-TRACING AT DENTSU-IN, KOISHIKAWA, TÔKYÔ
 
 {p. 123}
@@ -108,7 +108,7 @@ Appearances." I got some information about them from the
 contains rough woodcuts of the footprints; and one of them I reproduce
 here for the purpose of calling attention to the curious form of the
 emblems upon the toes. They are said to be modifications of the *manji*,
-or svastika (![manji](img/manji.jpg)); but I doubt it. In the
+or svastika (![manji](img/manji.jpg).md); but I doubt it. In the
 *Butsu-soku-séki*-tracings, the corresponding figures suggest the
 "flower-like design" mentioned in the tradition of the Maghada stone;
 while the symbols in the book-print suggest fire. Indeed their outline
@@ -123,7 +123,7 @@ resembles the conventional flamelet-design of Buddhist decoration, that
 I cannot help thinking them originally intended to indicate the
 traditional luminosity of the footprints. Moreover,
 
-![Shô-Ekô-Hô-Kwan](img/12400.jpg)  
+![Shô-Ekô-Hô-Kwan](img/12400.jpg.md)  
 SHÔ-EKÔ-HÔ-KWAN
 
 there is a text in the book called *Hô-Kai-Shidai* that lends support to
@@ -141,7 +141,7 @@ interest in relation to Japanese popular Buddhism. The emblems are
 considered in the following order:--
 
 1.--*The Svastikâ*. The figure upon each toe is said to be a
-modification of the manji<sup>\[1\]</sup> (![manji](img/manji.jpg)); and
+modification of the manji<sup>\[1\]</sup> (![manji](img/manji.jpg).md); and
 although I doubt whether this is always the case, I have observed that
 on some of the large kakémono representing the footprints, the emblem
 really is the svastikâ,--not a flamelet nor a
@@ -280,4 +280,4 @@ later, to accept with noble reverence the nobler method of the Master.
 
 ------------------------------------------------------------------------
 
-[Next: Ululation](igj10)
+[Next: Ululation](igj10.md)

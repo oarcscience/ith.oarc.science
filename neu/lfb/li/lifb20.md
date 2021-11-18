@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb19)  [Next](lifb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb19)  [Next](lifb21.md) 
 
 </div>
 
@@ -386,6 +386,6 @@ Adapted from the Portuguese.
 
 ------------------------------------------------------------------------
 
-[Next: The One-Handed Girl](lifb21)
+[Next: The One-Handed Girl](lifb21.md)
 
 </div>

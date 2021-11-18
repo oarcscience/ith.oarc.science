@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat16)  [Next](sat18) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat16)  [Next](sat18.md) 
 
 ------------------------------------------------------------------------
 
 # CHAPTER SIXTEEN
 
-\[CXXXIII <span id="CXXXIII"></span>[(Latin)](../satyrlat/satl133) \] My
+\[CXXXIII <span id="CXXXIII"></span>[(Latin)](../satyrlat/satl133.md) \] My
 declamation ended, I called Giton to me and asked him, "Tell me,
 darling, tell me on your honor; that night Ascyltos stole you from me,
 did he resort to active violence upon you, or was he content with a
@@ -51,7 +51,7 @@ old woman entered the shrine with disheveled hair and wearing black
 garments all in a state of disorder, and laying her hand on my shoulder
 led me outside the vestibule.
 
-\[CXXXIV <span id="CXXXIV"></span>[(Latin)](../satyrlat/satl134) \]
+\[CXXXIV <span id="CXXXIV"></span>[(Latin)](../satyrlat/satl134.md) \]
 "What foul witches have devoured your manhood?" she exclaimed; "what
 refuse or what garbage have you trod on in the streets at night? You
 could not so much as do your duty by the boy; but flabby, faint and
@@ -108,7 +108,7 @@ Conceal the God, and take what form they please.
 My skill's as great, my power no less extends,  
 The servile World to my enchantment bends."
 
-\[CXXXV <span id="CXXXV"></span>[(Latin)](../satyrlat/satl135) \] I
+\[CXXXV <span id="CXXXV"></span>[(Latin)](../satyrlat/satl135.md) \] I
 shuddered with terror to hear her promise such miracles, and began to
 scrutinize the old woman more carefully.
 
@@ -154,7 +154,7 @@ Low was her dwelling, but sublime her mind.
 Her bounteous heart a grateful praise shall crown,  
 And Muses make immortal her renown.
 
-\[CXXXVI <span id="CXXXVI"></span>[(Latin)](../satyrlat/satl136) \]
+\[CXXXVI <span id="CXXXVI"></span>[(Latin)](../satyrlat/satl136.md) \]
 Then, having shelled the beans and eaten a scrap of the meat, she took a
 fork and went to replace the pig's cheek, which was as great an
 antiquity as herself; but the rotten stool, on which she had mounted so
@@ -210,7 +210,7 @@ Confused at this and astounded at the strange nature of my offense, I
 repeatedly begged her to tell me why she was so angry, and why all her
 pity was for the goose and none at all for me.
 
-\[CXXXVII <span id="CXXXVII"></span>[(Latin)](../satyrlat/satl137) \]
+\[CXXXVII <span id="CXXXVII"></span>[(Latin)](../satyrlat/satl137.md) \]
 But beating her palms together, "How dare you speak," she screamed,
 "abandoned wretch! You must know what an atrocity you have committed;
 you have killed the delight of Priapus, the goose that was the darling
@@ -265,7 +265,7 @@ before. When it was all gone, the Priestess, now half drunk, turned to
 me and said, "We must complete the mysteries, to recover you of your
 impotency."
 
-\[CXXXVIII <span id="CXXXVIII"></span>[(Latin)](../satyrlat/satl138) \]
+\[CXXXVIII <span id="CXXXVIII"></span>[(Latin)](../satyrlat/satl138.md) \]
 So saying, Oenothea brought out a leathern godemiche, which she smeared
 with oil and ground pepper and pounded nettle seed, and then proceeded
 to insert it little by little up my back. Next the cruel old dame
@@ -281,4 +281,4 @@ course of my headlong gallop.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seventeen](sat18)
+[Next: Chapter Seventeen](sat18.md)

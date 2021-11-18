@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Christian
-Articles](../../chr/etc/index)
+Heritage](../../index) [Journals](../index.md) [Christian
+Articles](../../chr/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ By Fra Angelico, 1387-1455.</span></td>
 
 <span id="page_727">p. 727</span>
 
-## ST. CATHARINE OF ALEXANDRIA.<span id="page_727_fr_*"></span>[\*](#page_727_note_*)
+## ST. CATHARINE OF ALEXANDRIA.<span id="page_727_fr_*"></span>[\*](#page_727_note_*.md)
 
 <span class="small">\[CONCLUDED.\]</span>
 
@@ -90,7 +90,7 @@ submitted to the Council of Treves, the Pope, urged by the Abbot Bernard
 of Clairvaux who happened to be present, readily acknowledged the divine
 origin of Hildegard's revelations and encouraged her in a personal
 letter to continue in her writings.<span
-id="page_727_fr_dagger"></span>[†](#page_727_note_dagger)
+id="page_727_fr_dagger"></span>[†](#page_727_note_dagger.md)
 
    We quote a passage from one of the prophecies recorded in the book
 *Scivias* ascribed to Hildegard, the substance of which is repeatedly
@@ -225,7 +225,7 @@ The marriage of the King!"</span></td>
 our Assyriologists would hot hesitate to say that the words have
 reference to Bel Marduk, who after his victory over the dragon Tiamat
 enters in triumphal parade to celebrate his marriage with Istar
-Tsarpanitu.<span id="page_729_fr_*"></span>[\*](#page_729_note_*)
+Tsarpanitu.<span id="page_729_fr_*"></span>[\*](#page_729_note_*.md)
 
    The legend which makes Catharine the bride of Christ has been much
 neglected since the rise of Protestantism, which had more influence upon
@@ -259,10 +259,10 @@ By Raphael, 1483-1520. In the National Gallery at London.</span></td>
 
 Severino, a mystic marriage of St. Catharine of Siena, to whom (as we
 have seen in our previous article on "The Bride of Christ"<span
-id="page_730_fr_*"></span>[\*](#page_730_note_*)) <span id="page_731">p.
+id="page_730_fr_*"></span>[\*](#page_730_note_*).md) <span id="page_731">p.
 731</span> on account of the sameness of the name the same mystic
 relation is attributed. The "Two Catharines" by Ambrogio Borgognone<span
-id="page_731_fr_dagger"></span>[†](#page_731_note_dagger) is also one of
+id="page_731_fr_dagger"></span>[†](#page_731_note_dagger.md) is also one of
 the National Gallery collection (No. 298).
 
    St. Catharine of Siena was a most striking figure in the Middle Ages
@@ -316,7 +316,7 @@ of St. Catharine, beautiful and
 ![](pc-sca13.jpg)
 
 <span class="small">   By Carlo Crivelli,<span
-id="page_732_fr_*"></span>[\*](#page_732_note_*) 1430-1493. In the
+id="page_732_fr_*"></span>[\*](#page_732_note_*.md) 1430-1493. In the
 National Gallery, London.</span>
 
 <span class="small">   By an unknown artist of the Umbrian School.
@@ -467,7 +467,7 @@ school endows his St. Catharine with hands of normal size.
 
    The life of the saint has beeen made the subject of careful study
 especially in England, where Mrs. Jameson<span
-id="page_738_fr_*"></span>[\*](#page_738_note_*) and Dr. Einenkel have
+id="page_738_fr_*"></span>[\*](#page_738_note_*.md) and Dr. Einenkel have
 treated the subject with great ability. Both have come to the conclusion
 to look upon Hypatia as the prototype of St. Catharine's
 
@@ -560,7 +560,7 @@ ceremonial shedding of blood. But we need not even go so far as distant
 India to explain the feeling that revolted against bloody sacrifice. The
 Neoplatonists had given frequent utterance to the same sentiment, and
 the great religious leader, Apollonius of Tyana<span
-id="page_743_fr_*"></span>[\*](#page_743_note_*) left no opportunity
+id="page_743_fr_*"></span>[\*](#page_743_note_*.md) left no opportunity
 unimproved to preach against the impiety of bloody sacrifice.
 
 <table data-align="center">
@@ -598,7 +598,7 @@ element in all historical changes.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Christian Articles](../../chr/etc/index)
+[Journals](../index) [Christian Articles](../../chr/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -606,43 +606,43 @@ element in all historical changes.
 
 <span id="footnotes_page_727">p. 727</span>
 
-<span id="page_727_note_*"></span>[\*](#page_727_fr_*) This article was
+<span id="page_727_note_*"></span>[\*](#page_727_fr_*.md) This article was
 begun in the November number and was preceded by another on the same
 subject entitled "The Bride of Christ," which appeared in August.
 
-<span id="page_727_note_dagger"></span>[†](#page_727_fr_dagger) For
+<span id="page_727_note_dagger"></span>[†](#page_727_fr_dagger.md) For
 further details see Wilhelm Preger's *Geschichte der Mystik*, pp. 33 f.
 
 <span id="footnotes_page_729">p. 729</span>
 
-<span id="page_729_note_*"></span>[\*](#page_729_fr_*) Schrader,
+<span id="page_729_note_*"></span>[\*](#page_729_fr_*.md) Schrader,
 *Keilinschriften und das Alte Testament*, pp. 371 and 394.
 
 <span id="footnotes_page_730">p. 730</span>
 
-<span id="page_730_note_*"></span>[\*](#page_730_fr_*) *The Open Court*,
-Aug., 1907, [p. 461](pc-bc.htm#page_461).
+<span id="page_730_note_*"></span>[\*](#page_730_fr_*.md) *The Open Court*,
+Aug., 1907, [p. 461](pc-bc.htm#page_461.md).
 
 <span id="footnotes_page_731">p. 731</span>
 
-<span id="page_731_note_dagger"></span>[†](#page_731_fr_dagger) *Ibid.*,
-[p. 462](pc-bc.htm#page_462).
+<span id="page_731_note_dagger"></span>[†](#page_731_fr_dagger.md) *Ibid.*,
+[p. 462](pc-bc.htm#page_462.md).
 
 <span id="footnotes_page_732">p. 732</span>
 
-<span id="page_732_note_*"></span>[\*](#page_732_fr_*) A copy of this
+<span id="page_732_note_*"></span>[\*](#page_732_fr_*.md) A copy of this
 picture in the church of St. Giobbe at Venice bears the name Previtali,
 which, considering the fact that they are apparently made by the same
 hand, is strong evidence that the artist worked under two names.
 
 <span id="footnotes_page_738">p. 738</span>
 
-<span id="page_738_note_*"></span>[\*](#page_738_fr_*) *Sacred and
+<span id="page_738_note_*"></span>[\*](#page_738_fr_*.md) *Sacred and
 Legendary Art*, II, 87-88.
 
 <span id="footnotes_page_743">p. 743</span>
 
-<span id="page_743_note_*"></span>[\*](#page_743_fr_*) See "Apollonius
+<span id="page_743_note_*"></span>[\*](#page_743_fr_*.md) See "Apollonius
 of Tyana," by T. Whittaker, *Monist*, XIII, 161.
 
  

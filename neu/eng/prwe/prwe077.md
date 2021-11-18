@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe076)  [Next](prwe078) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe076)  [Next](prwe078.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ or *Guelaz*,--the "rock easily seen."
 
 ------------------------------------------------------------------------
 
-[Next: The Irish Lady](prwe078)
+[Next: The Irish Lady](prwe078.md)

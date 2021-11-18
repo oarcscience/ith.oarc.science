@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw03)  [Next](tnw05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw03)  [Next](tnw05.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ natural shape.
 
 As well as a talisman, we are provided with a compass, by the words
 which are the governing clause of the whole
-[Testament](errata.htm#0)—"the benefit of mankind." Should we be tempted
+[Testament](errata.htm#0.md)—"the benefit of mankind." Should we be tempted
 to stray into devious paths, should we find ourselves wandering round
 and round without advancing from our starting-point, we have only to
 glance at this compass, and it will point us forward in the right
@@ -142,7 +142,7 @@ boys inside repeating their *hic hæc hoc*, and it sounded to him like
 the gabbling of ducks.
 
 I share the feeling of that little street boy. I also stand
-[outside](errata.htm#1) the door of the Latin school, and listen to the
+[outside](errata.htm#1.md) the door of the Latin school, and listen to the
 patter that goes on inside, without any reverence. I should like to
 break open the door of the Latin school, and take that dusty, dog-eared
 grammar-book out of the schoolmaster's hand, and put an end for ever to
@@ -406,4 +406,4 @@ It is time to check Philology by Lexicography.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Lexicography: The Play Upon Words](tnw05)
+[Next: 4. Lexicography: The Play Upon Words](tnw05.md)

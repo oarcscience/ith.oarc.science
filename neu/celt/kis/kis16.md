@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis15)  [Next](kis17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis15)  [Next](kis17.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ stood around his face the breadth of a dinner-dish either way.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](kis17)
+[Next: Part II](kis17.md)

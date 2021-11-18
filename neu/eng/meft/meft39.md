@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft38)  [Next](meft40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft38)  [Next](meft40.md) 
 
 ------------------------------------------------------------------------
 
 # Habetrot and Scantlie Mab
 
 <span id="img_054"></span> [![](tn/054.jpg)  
-Click to enlarge](img/054.jpg)
+Click to enlarge](img/054.jpg.md)
 
 A WOMAN had one fair daughter, who loved play better than work,
 wandering in the meadows and lanes better than the spinning-wheel and
@@ -149,4 +149,4 @@ on his land was sent to old Habetrot to be converted into yarn.
 
 ------------------------------------------------------------------------
 
-[Next: Old Mother Wiggle-Waggle](meft40)
+[Next: Old Mother Wiggle-Waggle](meft40.md)

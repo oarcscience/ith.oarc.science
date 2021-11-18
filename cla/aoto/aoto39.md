@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto38) 
-[Next](aoto40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto38.md) 
+[Next](aoto40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ With regard to the age of the "Odyssey," we may suppose that the
 original "Return" was composed in Greece Proper as early as the Eleventh
 Century <span class="smallcaps">B.C.</span>, and that the first
 enlargement had been made before 850 <span
-class="smallcaps">B.C.</span> <span id="fr_74"></span>[\*](#fn_74)
+class="smallcaps">B.C.</span> <span id="fr_74"></span>[\*](#fn_74.md)
 
 </div>
 
@@ -69,7 +69,7 @@ both on the island and on the adjacent mainland—for as I have already
 too often said all Sicilian places in the "Odyssey" are travestied,
 however thinly.
 
-The impression that Syracuse <span id="fr_75"></span>[\*](#fn_75) is
+The impression that Syracuse <span id="fr_75"></span>[\*](#fn_75.md) is
 being alluded to is deepened by our going on to read that "the turnings
 of the sun" are "there"—which I presume may be extended so as to mean
 "thereabouts." Now what are "the turnings of the sun"? I looked in
@@ -205,7 +205,7 @@ to show that in this case the victors are more likely to have been
 Asiatic Greeks than Sicels. The poem indicates a time of profound
 present peace and freedom from apprehension, and on the one occasion in
 which the writer speaks of Sicily under its own name, she calls it by
-its pre-Sicelian name of Sicania. <span id="fr_76"></span>[\*](#fn_76)
+its pre-Sicelian name of Sicania. <span id="fr_76"></span>[\*](#fn_76.md)
 The old Sicel woman who waited on Laertes (xxiv. 211 and elsewhere) is
 not spoken of as though there were any ill-will on the part of the
 writer
@@ -247,8 +247,8 @@ neither does he fix that of the fall of Troy.
 
 The date commonly accepted for the return of the Heraclidæ and their
 conquest of the Peloponnese is 1104, <span
-id="fr_77"></span>[\*](#fn_77) but those who turn to Müller's *History
-of the Doric Race*, <span id="fr_78"></span>[†](#fn_78) Vol. I., p. 53,
+id="fr_77"></span>[\*](#fn_77.md) but those who turn to Müller's *History
+of the Doric Race*, <span id="fr_78"></span>[†](#fn_78.md) Vol. I., p. 53,
 will see that there is no authority for this date which is worth a
 moment's consideration; and with the failure of authority
 
@@ -295,14 +295,14 @@ certain that no even tolerably plausible account of the fall
 <span id="img_21600"></span> <span align="CENTER"> [![WALL AT HISSARLIK,
 SHOWING CONTRAST BETWEEN WEATHERED AND PROTECTED
 COURSES](tn/21600.jpg)  
-Click to enlarge](img/21600.jpg)  
+Click to enlarge](img/21600.jpg.md)  
 WALL AT HISSARLIK, SHOWING CONTRAST BETWEEN WEATHERED AND PROTECTED
 COURSES  
 </span>
 
 <span id="img_21700"></span> <span align="CENTER"> [![THE ILIADIC
 WALL](tn/21700.jpg)  
-Click to enlarge](img/21700.jpg)  
+Click to enlarge](img/21700.jpg.md)  
 THE ILIADIC WALL  
 </span>
 
@@ -310,7 +310,7 @@ THE ILIADIC WALL
 THE OBVERSE THE LEGEND IAKIN, AND ON THE REVERSE A REPRESENTATION OF THE
 BROOCH DESCRIBED BY ULYSSES&lt;br&gt; Enlarged to about double the
 actual diameter](tn/21701.jpg)  
-Click to enlarge](img/21701.jpg)  
+Click to enlarge](img/21701.jpg.md)  
 A COIN BEARING ON THE OBVERSE THE LEGEND IAKIN, AND ON THE REVERSE A
 REPRESENTATION OF THE BROOCH DESCRIBED BY ULYSSES  
 Enlarged to about double the actual diameter  
@@ -340,7 +340,7 @@ Mycene, and hence still earlier than that which bears the name of
 Clytemnestra.
 
 I see by the latest work on the subject <span
-id="fr_79"></span>[\*](#fn_79) that Dr. Dörpfeld dates it as between
+id="fr_79"></span>[\*](#fn_79.md) that Dr. Dörpfeld dates it as between
 1500 and loon <span class="smallcaps">B.C.</span> I know how perilous it
 is to date a wall by the analogy of other walls in distant countries,
 which walls are themselves undateable with anything like precision, but
@@ -351,7 +351,7 @@ those of the megalithic ages, but still not by any means free from the
 traditions of megalithic builders. I should date it roughly at not later
 than 1300 <span class="smallcaps">B.C.</span> and hardly earlier than
 1500 <span class="smallcaps">B.C.</span> <span
-id="fr_80"></span>[†](#fn_80)
+id="fr_80"></span>[†](#fn_80.md)
 
 <span id="page_218">p. 218</span>
 
@@ -428,7 +428,7 @@ found. The place of all others where such a dialect might be looked for
 is Phocæa, a little South of the Troad; for Phocæa was an Ionian city
 entirely surrounded on its land sides by Æolian territory. I see from
 Professor Jebb's *Introduction to Homer* <span
-id="fr_81"></span>[\*](#fn_81) that Aristarchus when editing the "Iliad"
+id="fr_81"></span>[\*](#fn_81.md) that Aristarchus when editing the "Iliad"
 and "Odyssey," and settling the text to all intents and purposes as we
 now have it, by comparison of the best copies known, made most frequent
 use of the civic edition of Marseilles which contained both "Iliad" and
@@ -445,7 +445,7 @@ are her rejoinder to the alleged complaint of the young Phæacians that
 she would marry none of them (vi. 276 &c.). Apart, therefore, from any
 external evidence, I should suspect the Phæacians to have been Phocæans,
 who had settled on this part of the island. <span
-id="fr_82"></span>[\*](#fn_82) From the fact that the Phæacians in the
+id="fr_82"></span>[\*](#fn_82.md) From the fact that the Phæacians in the
 time of the "Odyssey" were evidently dominant on Mt. Eryx as well as at
 Trapani, I conclude that they must have had, to say the least of it, a
 considerable share in the overthrow of Eurymedon and of the Sican power
@@ -524,7 +524,7 @@ the Trojan branch, *i.e.*, Phocæans—Phocæa having been founded by
 Phocians from the gulf of Corinth under the leadership of the Athenian
 chiefs Philogenes and Damon (*Strab*. xiv. 633; *Pausan*. vii. 3, 10;
 *cf*. *Herod*. I. 146). These Phocæans had been carried first by a
-tempest to Libya, <span id="fr_83"></span>[\*](#fn_83) and thence to
+tempest to Libya, <span id="fr_83"></span>[\*](#fn_83.md) and thence to
 Sicily.
 
 We need not follow him to the arrival of the Sicels, for I have already,
@@ -573,7 +573,7 @@ given us a line or two more about them.
 
 It is just possible that the known connection between Phocians and
 Phocæans may explain why Ulysses’ maternal grandfather should have been
-made to live on Mt. Parnassus, <span id="fr_84"></span>[\*](#fn_84)
+made to live on Mt. Parnassus, <span id="fr_84"></span>[\*](#fn_84.md)
 which is in Phocis. Ulysses, to the writer of the "Odyssey," was a
 naturalised Phæacian, for her native town had become in her eyes both
 Scheria and Ithaca. It would not be unnatural, therefore, that she
@@ -617,28 +617,28 @@ will not be disputed.
 
 ### Footnotes
 
-<span id="fn_74"></span>[210:\*](aoto39.htm#fr_74) *Introduction to
+<span id="fn_74"></span>[210:\*](aoto39.htm#fr_74.md) *Introduction to
 Homer*, ed. 1888, pp. 172, 193.
 
-<span id="fn_75"></span>[211:\*](aoto39.htm#fr_75) On its earlier coins
+<span id="fn_75"></span>[211:\*](aoto39.htm#fr_75.md) On its earlier coins
 Syracuse not unfrequently appears as Syra.
 
-<span id="fn_76"></span>[214:\*](aoto39.htm#fr_76) The fact that
+<span id="fn_76"></span>[214:\*](aoto39.htm#fr_76.md) The fact that
 Σικανίης (xxiv. 307) should not have got corrupted into Σικελίης—which
 would scan just as well—during the many centuries that the island was
 called Σικελία, suggests a written original, though I need hardly say
 that I should not rely on so small a matter if it rested by itself.
 
-<span id="fn_77"></span>[215:\*](aoto39.htm#fr_77) See Prof. Jebb's
+<span id="fn_77"></span>[215:\*](aoto39.htm#fr_77.md) See Prof. Jebb's
 *Introduction to Homer*, ed. 1888, Note 1 on p. 43.
 
-<span id="fn_78"></span>[215:†](aoto39.htm#fr_78) Murray, 1830.
+<span id="fn_78"></span>[215:†](aoto39.htm#fr_78.md) Murray, 1830.
 
-<span id="fn_79"></span>[217:\*](aoto39.htm#fr_79) *The Mycenæan Age*,
+<span id="fn_79"></span>[217:\*](aoto39.htm#fr_79.md) *The Mycenæan Age*,
 by Dr. Chrestos Tsountas and Dr. J. Irving Manatt, Macmillan, 1897, p.
 369.
 
-<span id="fn_80"></span>[217:†](aoto39.htm#fr_80) The dark line across
+<span id="fn_80"></span>[217:†](aoto39.htm#fr_80.md) The dark line across
 my illustration is only due to an accident that happened to my negative.
 I believe (but am not quite sure, for my note about it was not written
 on the spot) that the bit of wall given in my other illustration has
@@ -646,10 +646,10 @@ nothing to do with the Iliadic wall, and is of greatly later date. I
 give it to show how much imagination is necessary in judging of any wall
 that has been much weathered.
 
-<span id="fn_81"></span>[219:\*](aoto39.htm#fr_81) Ed. 1888, note on p.
+<span id="fn_81"></span>[219:\*](aoto39.htm#fr_81.md) Ed. 1888, note on p.
 91.
 
-<span id="fn_82"></span>[220:\*](aoto39.htm#fr_82) Herodotus tells us
+<span id="fn_82"></span>[220:\*](aoto39.htm#fr_82.md) Herodotus tells us
 (1. 163) that the Phocæans were the first people to undertake long
 voyages, exploring the Tuscan sea, and going as far as Cadiz. He says
 that their ships were not the round ones commonly used for commerce, but
@@ -658,14 +658,14 @@ feature of Phocæan navigation is found also among the Phæacians, who
 sent Ulysses to the place that we are to take as Ithaca, in a vessel
 that had fifty oarsmen.
 
-<span id="fn_83"></span>[222:\*](aoto39.htm#fr_83) One cannot help
+<span id="fn_83"></span>[222:\*](aoto39.htm#fr_83.md) One cannot help
 wondering whether the episode of the Lotus-eaters may not be due to the
 existence of tradition among the Phæacians that their ancestors had made
 some stay in Libya before reaching Sicily.
 
-<span id="fn_84"></span>[223:\*](aoto39.htm#fr_84) "Od." xix. 410, 432.
+<span id="fn_84"></span>[223:\*](aoto39.htm#fr_84.md) "Od." xix. 410, 432.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. Further Evidence in Support of an Early Ionian
-Settlement at Trapani](aoto40)
+Settlement at Trapani](aoto40.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp08)  [Next](esp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp08)  [Next](esp10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -24,7 +24,7 @@ subject has had the aid of mathematical methods in its technique of
 evaluation. Professor Richet first introduced the mathematics of
 probability into this field in his treatment of the results of his
 earlier work on "suggestion mentale" or "telepathy", in 1884. <span
-id="fr_63"></span>[2](#fn_63) And since then the names of Edgeworth and
+id="fr_63"></span>[2](#fn_63.md) And since then the names of Edgeworth and
 R. A. Fisher of England and of Hawkesworth in America have appeared
 frequently in connection with probability estimation in the parapsychic
 branch of the field.
@@ -66,7 +66,7 @@ operating or not. The deviation is then divided by the p.e., and the
 value D/p.e. or critical ratio is found. This is something of a more
 nearly absolute estimate of the anti-chance value of a given deviation
 than are percentage figures. Taking the data from Table LII of Gavett's
-"Statistical Method", <span id="fr_64"></span>[1](#fn_64) I shall cite
+"Statistical Method", <span id="fr_64"></span>[1](#fn_64.md) I shall cite
 the odds against chance for the smaller values of D/p.e. (Deviation
 divided by the probable error.)
 
@@ -86,7 +86,7 @@ divided by the probable error.)
 
 <span class="contnote">\[paragraph continues\]</span> And adding higher
 figures adapted from R. A. Fisher's Table II, "Statistical Methods for
-Research Workers", <span id="fr_65"></span>[2](#fn_65) I get
+Research Workers", <span id="fr_65"></span>[2](#fn_65.md) I get
 approximately,
 
 <div align="center">
@@ -183,7 +183,7 @@ and small, and for each calculate the X-values; apply the formula to
 these to find X<sub>n</sub> by this method in order to test it. I did so
 and found that it worked closely, yielding an Xn equal within a unit to
 that computed the other way, from the group as a whole. <span
-id="fr_66"></span>[1](#fn_66) If larger X-values can thus be calculated
+id="fr_66"></span>[1](#fn_66.md) If larger X-values can thus be calculated
 from smaller in this case (as was demonstrated) and if X-values are
 independently usable values (as they logically have to be), the method
 must stand as checked, to the extent of accuracy claimed, which is all
@@ -198,19 +198,19 @@ may be on better terms with the "Queen of the Sciences".
 
 ### Footnotes
 
-<span id="fn_63"></span>[31:2](esp09.htm#fr_63) Richet, Charles, *La
+<span id="fn_63"></span>[31:2](esp09.htm#fr_63.md) Richet, Charles, *La
 Suggestion Mentale et le calcul des Probabilités*. Rev. Phil., 1884. For
 a full review in English see Gurney, *Proc*. S.P.R., II: pp. 239-256,
 1884.
 
-<span id="fn_64"></span>[32:1](esp09.htm#fr_64) McGraw-Hill, New York,
+<span id="fn_64"></span>[32:1](esp09.htm#fr_64.md) McGraw-Hill, New York,
 1925, p. 180.
 
-<span id="fn_65"></span>[32:2](esp09.htm#fr_65) 3rd Ed., Oliver and
+<span id="fn_65"></span>[32:2](esp09.htm#fr_65.md) 3rd Ed., Oliver and
 Boyd, London, 1930.
 
-<span id="fn_66"></span>[34:1](esp09.htm#fr_66) There is a similar
-practical check of the formula in [Table XLIII](esp22.htm#an_tab43), in
+<span id="fn_66"></span>[34:1](esp09.htm#fr_66.md) There is a similar
+practical check of the formula in [Table XLIII](esp22.htm#an_tab43.md), in
 the final chapter, in which the X-value is given for the results
 reported in the various chapters. That value for the results reported in
 Chapter 8 is almost the same for both ways of computing the X-value
@@ -220,8 +220,8 @@ scoring-rates for the five major subjects makes the pooling together do
 no violence to the resulting values. They would not have checked had the
 individual differences been great. Then the formula would have given the
 more correct value, as it does for the other chapters represented in
-[Table XLIII](esp22.htm#an_tab43).
+[Table XLIII](esp22.htm#an_tab43.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3. A General Survey](esp10)
+[Next: Chapter 3. A General Survey](esp10.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt63)  [Next](egt65) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt63)  [Next](egt65.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ thee*' He said "*Nor let thine eyes be turned from them*." (Qur. 18:26)
 
 ------------------------------------------------------------------------
 
-[Next: ON INTIMATE FRIENDSHIP AND ATTACHMENT.](egt65)
+[Next: ON INTIMATE FRIENDSHIP AND ATTACHMENT.](egt65.md)

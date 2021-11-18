@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal085)  [Next](njal087) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal085)  [Next](njal087.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,4 +227,4 @@ when he went about so unwarily.
 
 ------------------------------------------------------------------------
 
-[Next: 87. Thrain Took To Hrapp](njal087)
+[Next: 87. Thrain Took To Hrapp](njal087.md)

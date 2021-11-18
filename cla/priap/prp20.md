@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp19)  [Next](prp21) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp19)  [Next](prp21.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ which I have placed on thy altar, are from the Sacred Way.\[1\]
 ------------------------------------------------------------------------
 
 [Next: 21. An fro' me woman shall thieve or plunder me man or a
-man-child,](prp21)
+man-child,](prp21.md)

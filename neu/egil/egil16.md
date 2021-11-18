@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil15)  [Next](egil17) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil15)  [Next](egil17.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ wherefore the king was exceeding angry.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XVI. Thorolf and the king.](egil17)
+[Next: CHAPTER XVI. Thorolf and the king.](egil17.md)

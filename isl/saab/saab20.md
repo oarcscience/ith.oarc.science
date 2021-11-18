@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab19)  [Next](saab21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab19)  [Next](saab21.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Reproved, is Feeding on one's own Heart's Blood.
 <span id="page_31">p. 31</span>
 
 <span id="img_03100"></span> <span align="CENTER"> [![](tn/03100.jpg)  
-Click to enlarge](img/03100.jpg)</span>
+Click to enlarge](img/03100.jpg.md)</span>
 
 <span class="smallcaps">Salámán</span> heard; his Soul came to his
 Lips;  
@@ -69,4 +69,4 @@ Answer’d She, "Without my Lover,
 
 ------------------------------------------------------------------------
 
-[Next: XIX](saab21)
+[Next: XIX](saab21.md)

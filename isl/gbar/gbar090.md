@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar089) [Next](gbar091)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar089) [Next](gbar091.md)
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ yourself with this word, saying "God hath so said": "So hath God done":
 
 ------------------------------------------------------------------------
 
-[Next](gbar091)
+[Next](gbar091.md)

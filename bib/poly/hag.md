@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Zephaniah](zep)  [Zechariah](zac)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Zephaniah](zep)  [Zechariah](zac.md)
 
 ------------------------------------------------------------------------
 
@@ -9,6 +9,6 @@
 
 ------------------------------------------------------------------------
 
-[Haggai 1](hag001)  
+[Haggai 1](hag001.md)  
 
-[Haggai 2](hag002)  
+[Haggai 2](hag002.md)  

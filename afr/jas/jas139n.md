@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas138n)  [Next](jas141n)   
- \[[139. The Fifer.](jas139)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas138n)  [Next](jas141n.md)   
+ \[[139. The Fifer.](jas139.md)\]
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ he had reached home, Compare number 66, note.
 
 ------------------------------------------------------------------------
 
-[Next: Note 141. Tacoomah makes a Dance.](jas141n)
+[Next: Note 141. Tacoomah makes a Dance.](jas141n.md)

@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index)
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)
 
 ------------------------------------------------------------------------
 

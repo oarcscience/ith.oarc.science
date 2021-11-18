@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre37)  [Next](gre39) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre37)  [Next](gre39.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ uncouth things were going on in the byre.
 The bonder went out and came to the cows, which were goring one another;
 so he thought it not good to go in there, but went in to the hay-barn.
 There he saw where lay the neatherd, and had his head in one boose <span
-id="fr_15"></span>[\*](#fn_15) and his feet in the other; and he lay
+id="fr_15"></span>[\*](#fn_15.md) and his feet in the other; and he lay
 cast on his back. The bonder went up to him, and felt him all over with
 his hand, and finds soon that he was dead, and the spine of him broken
 asunder; it had been broken over the raised stone-edge of a boose.
@@ -118,8 +118,8 @@ this.
 
 ### Footnotes
 
-<span id="fn_15"></span>[103:\*](gre38.htm#fr_15) Boose, a cow-stall.
+<span id="fn_15"></span>[103:\*](gre38.htm#fr_15.md) Boose, a cow-stall.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIV: Grettir hears of the Hauntings](gre39)
+[Next: Chapter XXXIV: Grettir hears of the Hauntings](gre39.md)

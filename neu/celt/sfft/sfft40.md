@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft39)  [Next](sfft41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft39)  [Next](sfft41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### "MIND THE CROOKED FINGER." <span id="fr_60"></span>[1](#fn_60)
+### "MIND THE CROOKED FINGER." <span id="fr_60"></span>[1](#fn_60.md)
 
 BILL ROBERTSON, æt. 71, residing in Lerwick, soberly narrated this trowy
 story:--
@@ -62,9 +62,9 @@ tauld me a lee."
 
 ### Footnotes
 
-<span id="fn_60"></span>[131:1](sfft40.htm#fr_60) Mr. J. G. Ollason's
+<span id="fn_60"></span>[131:1](sfft40.htm#fr_60.md) Mr. J. G. Ollason's
 MS.
 
 ------------------------------------------------------------------------
 
-[Next: The Two Young Ploughmen](sfft41)
+[Next: The Two Young Ploughmen](sfft41.md)

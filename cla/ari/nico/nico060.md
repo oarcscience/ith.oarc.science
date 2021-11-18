@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico059) 
-[Next](nico061) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico059.md) 
+[Next](nico061.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ reason that grasps the first principles.
 ------------------------------------------------------------------------
 
 [Next: Chapter 7. Philosophic wisdom--the union of intuitive reason and
-science](nico061)
+science](nico061.md)

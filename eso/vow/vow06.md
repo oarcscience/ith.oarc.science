@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow05)  [Next](vow07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow05)  [Next](vow07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
 <span id="img_00100"></span> ![''I, Isis, am everything that has been,
 and that is, and that shall be, and no mortal hath lifted my
 veil.''&lt;br&gt; (In this Treatise, the Goddess is represented as
-herself lifting her veil.)](img/00100.jpg)
+herself lifting her veil.)](img/00100.jpg.md)
 
 <span id="img_sep00"></span> ![](img/sep00.jpg)
 
@@ -78,7 +78,7 @@ his train, he ascended to the
 
 stars. But he had for successor his son, and the heir of his knowledges,
 Tat, and a little later, Asclepios, son of Imouthè, by the counsels of
-Pan and Hephaistos, <span id="fr_15"></span>[1](#fn_15) and all those
+Pan and Hephaistos, <span id="fr_15"></span>[1](#fn_15.md) and all those
 for whom sovereign Providence reserved an exact knowledge of heavenly
 things.
 
@@ -86,7 +86,7 @@ Hermes then justified himself in the presence of those who surrounded
 him, in that he had not delivered the integral theory to his son, on
 account of his youth. But I, having arisen, beheld with mine eyes, which
 see the invisible secrets of the beginnings of things, <span
-id="fr_16"></span>[2](#fn_16) and at length, but with certainty, I
+id="fr_16"></span>[2](#fn_16.md) and at length, but with certainty, I
 understood that the sacred symbols of the Kosmic elements were hidden
 near the secrets of Osiris. Hermes returned to heaven, having pronounced
 an invocatory speech.
@@ -205,7 +205,7 @@ for the whole range of beings yet to come, He
 withdrew, promising to unite to every visible work an invisible breath
 and a reproductive principle, so that each being might engender its
 similar without necessity to create continually new entities. <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 And what did the souls do, O my Mother?
 
@@ -231,7 +231,7 @@ Forthwith, O my Son, proud of their work, they were not afraid to
 transgress the Divine law, and, in spite of the prohibition, they
 receded from their appointed limits. Not willing to remain longer in the
 same abode, they moved ceaselessly, and repose seemed to them
-death. <span id="fr_18"></span>[1](#fn_18)
+death. <span id="fr_18"></span>[1](#fn_18.md)
 
 But, O my Son--(thus Hermes informed me)--their conduct could not escape
 the eye of the Lord God of all things; He minded to punish them, and to
@@ -276,7 +276,7 @@ Knowledge and Intelligence; above all, when the movement
 <span id="page_10">p. 10</span>
 
 which draws thereto the stars is in harmony with the physical forces of
-each." <span id="fr_19"></span>[1](#fn_19)
+each." <span id="fr_19"></span>[1](#fn_19.md)
 
 He Who is Master of the world rejoiced at hearing these things, and
 decreed the production of the human race. As for me--said Hermes--I
@@ -289,14 +289,14 @@ and feeble, and that Force should not be added therein to Intelligence.
 When I had achieved my work it was beautiful, and I rejoiced in seeing
 it. And from below I called upon the Lord to behold what I had done. He
 saw it, and approved. Straightway He ordained that the Souls should be
-incorporated; and they were seized [with](errata.htm#1) horror on
+incorporated; and they were seized [with](errata.htm#1.md) horror on
 learning what should be their condemnation.
 
 These words, said Isis, struck me. Hearken, my son Horos, for I teach
 thee a mystery. Our ancestor Kamephes had it also from Hermes, who
 inscribes the recital of all things; I, in turn, received it from the
 ancient Kamephes when he admitted me to the initiation of the black
-veil; <span id="fr_20"></span>[2](#fn_20) and thou, likewise, O
+veil; <span id="fr_20"></span>[2](#fn_20.md) and thou, likewise, O
 marvellous and illustrious child, receive it from me.
 
 \[The
@@ -353,7 +353,7 @@ of the flesh, return to heaven. But if you become guilty of graver
 crime, if you turn away from the end for which you have been formed,
 then indeed you shall dwell neither in heaven nor in human bodies, but
 thenceforth you shall pass into those of animals without reason." <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
 <span id="page_13">p. 13</span>
 
@@ -450,7 +450,7 @@ and he followed it.
 "O, Momos," said he, "the nature of the divine breath which enwraps all
 things shall not be ineffectual! The Master of the universe has charged
 me to be His agent and overseer. The Deity of the penetrating eye
-(Adrastia) <span id="fr_22"></span>[1](#fn_22) will observe and direct
+(Adrastia) <span id="fr_22"></span>[1](#fn_22.md) will observe and direct
 all events; and for my part, I will design a mysterious instrument, a
 measure inflexible and inviolable, to which everything shall be subject
 from birth even to final destruction, and which shall be the bond of
@@ -508,7 +508,7 @@ elements hastened
 <span id="page_18">p. 18</span>
 
 to God the Creator, and pleaded in this wise--the fire being suffered to
-speak first:-- <span id="fr_23"></span>[1](#fn_23)
+speak first:-- <span id="fr_23"></span>[1](#fn_23.md)
 
 "O Master," he said, "Maker of this new world, Thou whose name,
 mysterious among the Gods, has hitherto been revered among all men; how
@@ -643,7 +643,7 @@ Hearken, my son, answered Isis.        .        .       �
 
 ### Footnotes
 
-<span id="fn_15"></span>[3:1](vow06.htm#fr_15) The text of this passage
+<span id="fn_15"></span>[3:1](vow06.htm#fr_15.md) The text of this passage
 presents great difficulties and uncertainties. The words in Canter's
 edition, Ἀσκληπιὸς ὁ ἰμούθης σπανὸς και ἡφαίστου βουλαῖς, Canter reads
 Asclepios, Amnion, and Hephaistobulus. Patrizzi changes ἡφαίστου βουλαῖς
@@ -663,12 +663,12 @@ phrase may have a meaning, it would be necessary to change βουλαῖς into
 βουλαῖος, and translate:--Asclepios, the bald Imouthès, and counsellor
 of Hephaistos.
 
-<span id="fn_16"></span>[3:2](vow06.htm#fr_16) This sentence is very
+<span id="fn_16"></span>[3:2](vow06.htm#fr_16.md) This sentence is very
 obscure; the participles are in the masculine, as though the author had
 forgotten that a goddess was speaking. I believe the text of the passage
 must have been altered.
 
-<span id="fn_17"></span>[7:1](vow06.htm#fr_17) This recital of the
+<span id="fn_17"></span>[7:1](vow06.htm#fr_17.md) This recital of the
 creation of the souls recalls the *Timæus* of Plato. After all the Gods
 were born, the Artificer of the universe thus addressed them: "Gods of
 gods, of whom I am the Creator and Father, and who, formed by me, are by
@@ -698,7 +698,7 @@ natural forces.
 
 A.K.\]
 
-<span id="fn_18"></span>[8:1](vow06.htm#fr_18) In reading this allegory,
+<span id="fn_18"></span>[8:1](vow06.htm#fr_18.md) In reading this allegory,
 it must be borne in mind that the word "Soul" is used as a general term
 for all Egos or Intelligences, whether Genii or Men. Further, that in
 these Fragments, as in the Hebrew Scriptures, the same truths are
@@ -715,19 +715,19 @@ save Man.
 
 A.K.
 
-<span id="fn_19"></span>[10:1](vow06.htm#fr_19) Heeren sees in these
+<span id="fn_19"></span>[10:1](vow06.htm#fr_19.md) Heeren sees in these
 metaphors an allusion to the creation of Pandora in Hesiod. They recall
 also a passage in the Pymander, wherein the Rulers of the Seven Planets
 cause Man to participate in their nature; an idea developed likewise by
 Macrobius in his commentary on the Dream of Scipio.--*Lib. L., chap.
 xii*.
 
-<span id="fn_20"></span>[10:2](vow06.htm#fr_20) Canter translates this
+<span id="fn_20"></span>[10:2](vow06.htm#fr_20.md) Canter translates this
 by *atramenturn*, which would signify initiation by writing; but it is
 possible that the heads of the initiated persons were covered with a
 black veil, or perhaps the veil of Isis is here intended.
 
-<span id="fn_21"></span>[12:1](vow06.htm#fr_21) It has been questioned
+<span id="fn_21"></span>[12:1](vow06.htm#fr_21.md) It has been questioned
 whether Hermetic doctrine affirms the Hindu theory of transmigration, to
 wit--the possibility of the passage of the guilty Ego into lower forms
 than that of man. We must, I hold, admit the orthodoxy of the doctrine,
@@ -764,13 +764,13 @@ the teaching of Apollonius of Tyana.--(*v. Perfect Way*, III., 21, etc.)
 
 A.K.
 
-<span id="fn_22"></span>[16:1](vow06.htm#fr_22) This name appears to
+<span id="fn_22"></span>[16:1](vow06.htm#fr_22.md) This name appears to
 have been a marginal interpolation, inserted into the text by a copyist.
 It serves as a key to what follows, Adrastia (or Nemesis) being the
 personification of the necessary law (or inflexible instrument) of which
 Hermes is about to speak.
 
-<span id="fn_23"></span>[18:1](vow06.htm#fr_23) In the Book of Enoch a
+<span id="fn_23"></span>[18:1](vow06.htm#fr_23.md) In the Book of Enoch a
 similar legend appears--"The Giants turned themselves upon men to devour
 them, and began to do evil to birds and beasts of the field and reptiles
 and fish; and they devoured with one accord their flesh and drank their
@@ -800,4 +800,4 @@ A.K.\]
 
 ------------------------------------------------------------------------
 
-[Next: Part II](vow07)
+[Next: Part II](vow07.md)

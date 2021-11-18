@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,34 +19,34 @@ Thought](../../index)  [Unity](../index) 
 
 ------------------------------------------------------------------------
 
-[Start Reading](moj00)    [Page Index](pageidx)    [Text
-\[Zipped\]](mojtxt.zip)
+[Start Reading](moj00)    [Page Index](pageidx.md)    [Text
+\[Zipped\]](mojtxt.zip.md)
 
 ------------------------------------------------------------------------
 
-[Title Page](moj00)  
-[Contents](moj01)  
-[Foreword](moj02)  
-[Chapter 1](moj03)  
-[Chapter 2](moj04)  
-[Chapter 3](moj05)  
-[Chapter 4](moj06)  
-[Chapter 5](moj07)  
-[Chapter 6](moj08)  
-[Chapter 7](moj09)  
-[Chapter 8](moj10)  
-[Chapter 9](moj11)  
-[Chapter 10](moj12)  
-[Chapter 11](moj13)  
-[Chapter 12](moj14)  
-[Chapter 13](moj15)  
-[Chapter 14](moj16)  
-[Chapter 15](moj17)  
-[Chapter 16](moj18)  
-[Chapter 17](moj19)  
-[Chapter 18](moj20)  
-[Chapter 19](moj21)  
-[Chapter 20](moj22)  
-[Chapter 21](moj23)  
-[Question Helps](moj24)  
-[Index](moj25)  
+[Title Page](moj00.md)  
+[Contents](moj01.md)  
+[Foreword](moj02.md)  
+[Chapter 1](moj03.md)  
+[Chapter 2](moj04.md)  
+[Chapter 3](moj05.md)  
+[Chapter 4](moj06.md)  
+[Chapter 5](moj07.md)  
+[Chapter 6](moj08.md)  
+[Chapter 7](moj09.md)  
+[Chapter 8](moj10.md)  
+[Chapter 9](moj11.md)  
+[Chapter 10](moj12.md)  
+[Chapter 11](moj13.md)  
+[Chapter 12](moj14.md)  
+[Chapter 13](moj15.md)  
+[Chapter 14](moj16.md)  
+[Chapter 15](moj17.md)  
+[Chapter 16](moj18.md)  
+[Chapter 17](moj19.md)  
+[Chapter 18](moj20.md)  
+[Chapter 19](moj21.md)  
+[Chapter 20](moj22.md)  
+[Chapter 21](moj23.md)  
+[Question Helps](moj24.md)  
+[Index](moj25.md)  

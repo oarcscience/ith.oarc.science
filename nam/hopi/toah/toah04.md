@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah03)  [Next](toah05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah03)  [Next](toah05.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ the Upper World, and it all belonged to him. Although being the god of
 the Upper World, he could not walk about in the day time, but only at
 night by the light of the fire. So he told these young men to tell their
 chief who he was--that he was now his god, who walked in the dark and is
-called the Masauwu. [11](toah24.htm#xref_11) He was the god of death and
+called the Masauwu. [11](toah24.htm#xref_11.md) He was the god of death and
 life. He told the young men to tell the chief not to be afraid, that he
 being the god of death, whoever died would go to him first and he would
 show him back to the underworld by way of the kiva, through which they
@@ -129,4 +129,4 @@ may be victorious.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. How the Mocking Bird Gave the People Many
-Languages](toah05)
+Languages](toah05.md)

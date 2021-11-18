@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss34)  [Next](oss36) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss34)  [Next](oss36.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ near the steps of his departure."
 
 "Son of Fingal," replied the youth, "it is not long since I raised the
 spear. Few are the marks of my sword in war. But Fillan's soul is fire!
-The chiefs of Bolga  <span id="fr_99"></span>[1](#fn_99) crowd around
+The chiefs of Bolga  <span id="fr_99"></span>[1](#fn_99.md) crowd around
 the shield of generous Cathmor.
 
 <span id="page_415">p. 415</span>
@@ -163,7 +163,7 @@ travels over the sky!"
 They came in their clanging arms. They bent forward to his voice, as if
 a spirit of their fathers spoke from a cloud of night. Dreadful shone
 they to the light, like the fall of the stream of Bruno,  <span
-id="fr_100"></span>[1](#fn_100) when the meteor lights it, before the
+id="fr_100"></span>[1](#fn_100.md) when the meteor lights it, before the
 nightly stranger. Shuddering he stops in his journey, and looks up for
 the beam of the morn!
 
@@ -205,7 +205,7 @@ tribe; where, humming, they rolled on the heath, faint-glittering to the
 stars: like waves in a rocky bay, before the nightly wind. Beneath an
 oak lay the chief of Atha. His shield, a dusky round, hung high. Near
 him, against a rock, leaned the fair stranger  <span
-id="fr_101"></span>[1](#fn_101) of Inis-huna: that beam of light, with
+id="fr_101"></span>[1](#fn_101.md) of Inis-huna: that beam of light, with
 wandering locks, from Lumon of the roes. At a distance rose the voice of
 Fonar, with the deeds of the days of old. The song fails, at times, in
 Lubar's growing roar.
@@ -219,7 +219,7 @@ gathering of the people
 was there, around the feast of the blue-eyed king. But who, among his
 chiefs, was like the stately Crothar? Warriors kindled in his presence.
 The young sigh of the virgins rose. In Alnecma  <span
-id="fr_102"></span>[1](#fn_102) was the warrior honored: the first of
+id="fr_102"></span>[1](#fn_102.md) was the warrior honored: the first of
 the race of Bolga.
 
 "He pursued the chase in Ullin: on the moss-covered top of Drumardo.
@@ -382,24 +382,24 @@ thy song be a stream of joy to Cairbar's darkened ghost!"
 
 ### Footnotes
 
-<span id="fn_99"></span>[414:1](oss35.htm#fr_99) The southern parts of
+<span id="fn_99"></span>[414:1](oss35.htm#fr_99.md) The southern parts of
 Ireland went, for some time, under the <span id="page_415">p. 415</span>
 name of Bolga, from the Fir-bolg, or Belgæ of Britain, who settled a
 colony there. "Bolg" signifies a "quiver", from which proceeds
 "Fir-bolg," i.e., "bowmen:" so called from their using bows more than
 any of the neighboring nations.
 
-<span id="fn_100"></span>[417:1](oss35.htm#fr_100) Bruno was a place of
+<span id="fn_100"></span>[417:1](oss35.htm#fr_100.md) Bruno was a place of
 worship, (Fing. b. 6.) in Craca, which is supposed to be one of the
 isles of Shetland.
 
-<span id="fn_101"></span>[418:1](oss35.htm#fr_101) By "the stranger of
+<span id="fn_101"></span>[418:1](oss35.htm#fr_101.md) By "the stranger of
 Inis-huna," is meant Sul-malla.--B iv.
 
-<span id="fn_102"></span>[419:1](oss35.htm#fr_102) Alnecma, or
+<span id="fn_102"></span>[419:1](oss35.htm#fr_102.md) Alnecma, or
 Alnecmacht, was the ancient name of Connaught. Ullin is still the Irish
 name of the province of Ulster.
 
 ------------------------------------------------------------------------
 
-[Next: Book III](oss36)
+[Next: Book III](oss36.md)

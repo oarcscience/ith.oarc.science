@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes03)  [Next](mes05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes03)  [Next](mes05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_3">p. 3</span>
 
-# THE ACTS OF THE ADEPTS. <span id="fr_3"></span>[1](#fn_3)
+# THE ACTS OF THE ADEPTS. <span id="fr_3"></span>[1](#fn_3.md)
 
 ### CHAPTER I.
 
@@ -28,7 +28,7 @@ Islam, Son, Sultan of the Doctors of the Law)*.
 #### 1.
 
 <span class="smallcaps">The</span> king of Khurāsān, <span
-id="fr_4"></span>[2](#fn_4) ‘Alā’u-’d-Dīn Muhammed, Khurrem-Shāh, uncle
+id="fr_4"></span>[2](#fn_4.md) ‘Alā’u-’d-Dīn Muhammed, Khurrem-Shāh, uncle
 of Jelālu-’d-Dīn Muhammed Kh’ārezm-Shāh, and the proudest, as he was the
 most handsome man of his time, gave his daughter, Melika’i-Jihān (Queen
 of the World), as to the only man worthy of her, to Jelālu-’d-Dīn
@@ -55,7 +55,7 @@ utterly rejected.
 
 By the divine command, as conveyed in the selfsame night, and in an
 identical dream, to three hundred of the most learned men of the city of
-Balkh, <span id="fr_5"></span>[1](#fn_5) the capital of the kingdom,
+Balkh, <span id="fr_5"></span>[1](#fn_5.md) the capital of the kingdom,
 where he dwelt, those sage doctors unanimously conferred upon him the
 honorific title of Sultānu-’l-‘Ulemā, and they all became his disciples.
 
@@ -117,7 +117,7 @@ thousand students and professors of the law were slain, and two hundred
 thousand adult male inhabitants led out and shot to death with arrows.
 
 Bahā’u-’d-Dīn went from Bagdād to Mekka, <span
-id="fr_6"></span>[1](#fn_6) performed the greater pilgrimage there,
+id="fr_6"></span>[1](#fn_6.md) performed the greater pilgrimage there,
 proceeding thence to Damascus, and next to Malatia (Melitene, on the
 Upper Euphrates), where, in <span class="smallcaps">a.h.</span> 614
 (<span class="smallcaps">a.d.</span> 1217), he
@@ -258,7 +258,7 @@ surpass him:
 
 #### 7.
 
-Seyyid Burhānu-’d-Dīn Termīzī <span id="fr_7"></span>[1](#fn_7) is
+Seyyid Burhānu-’d-Dīn Termīzī <span id="fr_7"></span>[1](#fn_7.md) is
 related to have said that one night the door of the mausoleum of Bahā
 Veled opened of itself, and that a great glory shone forth from it,
 which gradually filled his house, so that no shadow fell from anything.
@@ -377,21 +377,21 @@ reins of government."
 
 ### Footnotes
 
-<span id="fn_3"></span>[3:1](mes04.htm#fr_3) There is an allusion in the
+<span id="fn_3"></span>[3:1](mes04.htm#fr_3.md) There is an allusion in the
 word ‘Arifin (Adepts) to the name of Eflākī's patron, the Chelebī Emīr
 ‘Ārif (well-knowing).
 
-<span id="fn_4"></span>[3:2](mes04.htm#fr_4) Eastern Persia.
+<span id="fn_4"></span>[3:2](mes04.htm#fr_4.md) Eastern Persia.
 
-<span id="fn_5"></span>[4:1](mes04.htm#fr_5) The ancient *Bactra*,
+<span id="fn_5"></span>[4:1](mes04.htm#fr_5.md) The ancient *Bactra*,
 sometimes called *Zariaspa*, the capital of Bactria.
 
-<span id="fn_6"></span>[5:1](mes04.htm#fr_6) Incorrectly written Mecca
+<span id="fn_6"></span>[5:1](mes04.htm#fr_6.md) Incorrectly written Mecca
 by Europeans.
 
-<span id="fn_7"></span>[9:1](mes04.htm#fr_7) Of Termīz (Tirmez), on the
+<span id="fn_7"></span>[9:1](mes04.htm#fr_7) Of Termīz (Tirmez.md), on the
 north bank of the Oxus, near to Balkh.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](mes05)
+[Next: Chapter II](mes05.md)

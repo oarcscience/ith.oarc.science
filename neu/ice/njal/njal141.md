@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal140)  [Next](njal142) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal140)  [Next](njal142.md) 
 
 ------------------------------------------------------------------------
 
@@ -431,4 +431,4 @@ relations by baptism.
 
 ------------------------------------------------------------------------
 
-[Next: 142. Of Eyjolf Bolverk's Son](njal142)
+[Next: 142. Of Eyjolf Bolverk's Son](njal142.md)

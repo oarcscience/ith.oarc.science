@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](tsm01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](tsm01.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](tsm01) 
 
 [![The Coming of Bride:&lt;BR&gt; &lt;I&gt;From the painting by John
 Duncan, A.R.S.A.&lt;/I&gt;](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 The Coming of Bride:  
 *From the painting by John Duncan, A.R.S.A.*  
 
@@ -28,9 +28,9 @@ The Coming of Bride:
 
 [![The Coming of Bride, by John Duncan (color image of original
 painting)](tn/bride.jpg)  
-Click to enlarge](img/bride.jpg)  
+Click to enlarge](img/bride.jpg.md)  
 The Coming of Bride, by John Duncan (color image of original painting)  
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tsm01)
+[Next: Contents](tsm01.md)

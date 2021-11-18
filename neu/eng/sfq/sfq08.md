@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq07)  [Next](sfq09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq07)  [Next](sfq09.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ other, he
 <span id="img_01600"></span>
 
 [![](tn/01600.jpg)  
-Click to enlarge](img/01600.jpg)
+Click to enlarge](img/01600.jpg.md)
 
 knew that he could never prevail against that safeguard. However, he
 fought with great fury, and the Red Cross Knight had a hard battle
@@ -75,4 +75,4 @@ companion, who brought him into much trouble and danger.
 
 ------------------------------------------------------------------------
 
-[Next: Una and the Lion](sfq09)
+[Next: Una and the Lion](sfq09.md)

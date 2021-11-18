@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe12)  [Next](spe14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe12)  [Next](spe14.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,11 +28,11 @@ instrumental music: for this reason, the bards, who exhibited in one
 person the musician and the poet, were held in the highest estimation
 among them. "These bards," says an early historian, "celebrated the
 noble actions of illustrious persons in heroic poems which they sang to
-the sweet sounds of the lyre; <span id="fr_540"></span>[1](#fn_540) and
+the sweet sounds of the lyre; <span id="fr_540"></span>[1](#fn_540.md) and
 to this testimony we may add another of equal authority: "The British
 bards are excellent and melodious poets, and sing their poems, in which
 they praise some, and censure others, to the music of an instrument
-resembling a lyre." <span id="fr_541"></span>[2](#fn_541) Their songs
+resembling a lyre." <span id="fr_541"></span>[2](#fn_541.md) Their songs
 and their music are said, by the same writer, to have been so
 exceedingly affecting, that "sometimes when two armies are standing in
 order of battle, with their swords drawn, and their lances extended upon
@@ -42,7 +42,7 @@ of the warriors, and prevented the bloodshed. Thus, even among
 barbarians," adds the author, "rage gave way to wisdom, and Mars
 submitted to the Muses."
 
-THE NORTHERN SCALDS.--The scalds <span id="fr_542"></span>[3](#fn_542)
+THE NORTHERN SCALDS.--The scalds <span id="fr_542"></span>[3](#fn_542.md)
 were the poets and the musicians of the ancient northern nations; they
 resembled the bards of the Britons, and were held in equal veneration by
 their countrymen. The scalds were considered as necessary appendages to
@@ -63,7 +63,7 @@ harp, an instrument on which
 <span id="img_pl20"></span>
 
 [![Saxon Gleemen](tn/pl20.jpg)  
-Click to enlarge](img/pl20.jpg)  
+Click to enlarge](img/pl20.jpg.md)  
 Saxon Gleemen  
 
  
@@ -82,7 +82,7 @@ mimi, or minstrels, are said to sing and dance; and, in the canons made
 in that king's reign, A.D. 960 (Can. 58), it is ordered that no priest
 shall in any wise act the gleeman with himself or with other men, but
 be, as becomes his order, wise and reverend. <span
-id="fr_543"></span>[1](#fn_543)
+id="fr_543"></span>[1](#fn_543.md)
 
 NATURE OF THE PERFORMANCES BY THE GLEEMEN.--Representations of some of
 these pastimes are met with occasionally in early manuscripts; and where
@@ -94,11 +94,11 @@ without design on their part, become the communicators of much valuable
 information. The following observations upon two very early paintings
 will, I doubt not, in great measure confirm the truth of this assertion.
 
-On [plate twenty](#img_pl20) are two persons dancing to the music of the
+On [plate twenty](#img_pl20.md) are two persons dancing to the music of the
 horn and the trumpet, and it does not appear to be a common dance in
 which they are engaged; on the contrary, their attitudes are such as
 must have rendered it very difficult to perform. On the [same
-plate](#img_pl20) is a curious specimen of a performer's art.
+plate](#img_pl20.md) is a curious specimen of a performer's art.
 
 We here see a man throwing three balls and three knives alternately into
 the air, and catching them one by one as they fall, but returning them
@@ -125,12 +125,12 @@ this illumination is
 
 preserved, was written as early as the eighth century, and is in the
 Cotton Collection at the British Museum. <span
-id="fr_544"></span>[1](#fn_544) The second painting, which is more
+id="fr_544"></span>[1](#fn_544.md) The second painting, which is more
 modern than the former by full two centuries, contains four figures
 besides the royal psalmist; the two not engraved are musicians: the one
 is blowing a long trumpet supported by a staff he holds in his left
 hand, and the other is winding a crooked horn. <span
-id="fr_545"></span>[2](#fn_545) In a short prologue, immediately
+id="fr_545"></span>[2](#fn_545.md) In a short prologue, immediately
 preceding the psalms, we read as follows: *David, filius Jesse, in regno
 suo quatuor elegit qui psalmos fecerunt, id est Asaph, Æman, Æthan, et
 Idithun*; which may be thus translated literally, "David, the son of
@@ -164,7 +164,7 @@ in their fall, though part of the gleeman's profession, was not entirely
 confined to this practice. It is said of Olaf Fryggeson, one of the
 ancient kings of Norway, that he could play with three darts at once,
 tossing them in the air, and always kept two up while the third was down
-in his hand. <span id="fr_546"></span>[3](#fn_546) Our Saxon joculator,
+in his hand. <span id="fr_546"></span>[3](#fn_546.md) Our Saxon joculator,
 however, has the advantage of the monarch by adding the three balls,
 which of course must have made the trick more difficult to be performed.
 
@@ -186,14 +186,14 @@ dexterity, that those who saw him attributed his manœuvres to the power
 of enchantment. After he had performed these feats he galloped among the
 English soldiers, thereby giving the Normans the signal of battle; and
 in the action it appears he lost his life. <span
-id="fr_547"></span>[1](#fn_547)
+id="fr_547"></span>[1](#fn_547.md)
 
 OTHER PERFORMANCES BY GLEEMEN.--One part of the gleeman's profession, as
 early as the tenth century, was, teaching animals to dance, to tumble,
 and to put themselves into variety of attitudes, at the command of their
 masters.
 
-Upon [plate twenty-five](spe16.htm#img_pl25) we see the copy of a
+Upon [plate twenty-five](spe16.htm#img_pl25.md) we see the copy of a
 curious though rude delineation, being little more than an outline,
 which exhibits a specimen of this pastime. The principal joculator
 appears in the front, holding a knotted switch in one hand, and a line
@@ -208,14 +208,14 @@ semicircle as spectators of the sport, but they are so exceedingly ill
 drawn, and withal so indistinct, that I did not think it worth the pains
 to copy them. The dancing, if I may so call it, of the flute player, is
 repeated twice in the same manuscript. I have thence selected two other
-figures and placed them upon [plate twenty](#img_pl20).
+figures and placed them upon [plate twenty](#img_pl20.md).
 
 Here we see a youth playing upon a harp with only four strings, and
 apparently singing at the same time, while an elderly man is performing
 the part of a buffoon or posture master, holding up one of his legs, and
 hopping upon the other to the music. Both these drawings occur in a MS.
 psalter in the Harleian Collection, <span
-id="fr_548"></span>[2](#fn_548) written in Latin, and apparently about
+id="fr_548"></span>[2](#fn_548.md) written in Latin, and apparently about
 the middle of the tenth century. It contains many drawings, all of them
 exceedingly rude, and most of them merely outlines. We shall have
 occasion farther on to speak more largely concerning all these kinds of
@@ -237,7 +237,7 @@ profession of gleemen. We learn from Bede, an unquestionable authority,
 that, as early as the seventh century, it was customary at convivial
 meetings to hand a harp from one person to another, and every one who
 partook of the festivity played upon it in his turn, singing a song to
-the music for merriment sake. <span id="fr_549"></span>[1](#fn_549) The
+the music for merriment sake. <span id="fr_549"></span>[1](#fn_549.md) The
 historian adds, that Cædmon, not being acquainted with such sort of
 songs, gat up when he saw the harp brought near him, and went home; the
 king adds the reason, namely, that he arose for shame, not being able to
@@ -254,7 +254,7 @@ received 2s. at Christmas; and in 1360 a Welsh harper obtained 3s. 4d.
 In 1362 a harper belonging to the bishop of Norwich visited the abbey at
 the feast of the translation of St Cuthbert, and was rewarded with 5s.;
 he was an actor or jester as well as a harper, for he is termed *histrio
-harper*. <span id="fr_550"></span>[2](#fn_550)
+harper*. <span id="fr_550"></span>[2](#fn_550.md)
 
 THE NORMAN MINSTRELS.--Soon after the Conquest, these itinerant
 musicians lost the ancient Saxon appellation of gleemen, and were called
@@ -277,7 +277,7 @@ in the middle ages were famous for playing upon the vielle accompanied
 the songs of the trouvers. The vielle was a stringed instrument, sounded
 by the turning of a wheel within it, resembling that which we frequently
 see about the streets played by the Savoyards, vulgarly called a
-hurdy-gurdy. <span id="fr_551"></span>[3](#fn_551)
+hurdy-gurdy. <span id="fr_551"></span>[3](#fn_551.md)
 
 <span id="page_153">p. 153</span>
 
@@ -285,7 +285,7 @@ These jugleours were also assisted by the chanteurs; and this union of
 talents rendered the compositions more harmonious and more pleasing to
 the auditory, and increased their rewards, so that they readily joined
 each other, and travelled together in large parties. <span
-id="fr_552"></span>[1](#fn_552) It is, however, very certain, that the
+id="fr_552"></span>[1](#fn_552.md) It is, however, very certain, that the
 poet, the songster, and the musician, were frequently united in the same
 person.
 
@@ -299,9 +299,9 @@ the eleventh and twelfth centuries was commonly used in the southern
 provinces of France, and there esteemed as the most perfect of any in
 Europe. It evidently originated from the Latin, and was the parent of
 the French tongue; and in this language their songs and their poems were
-composed. <span id="fr_553"></span>[2](#fn_553) These poets were much
+composed. <span id="fr_553"></span>[2](#fn_553.md) These poets were much
 admired and courted, being, as a very judicious modern writer <span
-id="fr_554"></span>[3](#fn_554) says, the delight of the brave and the
+id="fr_554"></span>[3](#fn_554.md) says, the delight of the brave and the
 favourites of the fair; because they celebrated the achievements of the
 one and the beauties of the other. Even princes became troubadours, and
 wrote poems in the provincial dialect; among others, a monarch of our
@@ -329,7 +329,7 @@ repeated the second; which convinced the poet that the prisoner was no
 other than Richard himself. Hastening therefore into England, he
 acquainted the barons with his adventure, and they, by means of a large
 sum of money, procured the liberty of the monarch. <span
-id="fr_555"></span>[4](#fn_555)
+id="fr_555"></span>[4](#fn_555.md)
 
 <span id="page_154">p. 154</span>
 
@@ -344,7 +344,7 @@ Chaucer, describing the coronation of. a Roman emperor, says,
 When every ministrell had playde,  
 And every dissour had sayde,  
 Which was most pleasaunt in his ear. <span
-id="fr_556"></span>[1](#fn_556)
+id="fr_556"></span>[1](#fn_556.md)
 
 In a manuscript collection of old stories, in the Harleian Library, we
 read of a king who kept a tale-teller on purpose to lull him to sleep
@@ -358,7 +358,7 @@ often written in the old English dialect, gesters, were the relaters of
 the gestes, that is, the actions of famous persons, whether fabulous or
 real; and these stories were of two kinds, the one to excite pity, and
 the other to move laughter, as we learn from Chaucer: <span
-id="fr_557"></span>[2](#fn_557)
+id="fr_557"></span>[2](#fn_557.md)
 
 And jestours that tellen tales,  
 Both of wepying and of game.
@@ -376,7 +376,7 @@ accommodated their narrations to the general taste of the times,
 regardless of the mischiefs they occasioned by vitiating the morals of
 their hearers; hence it is, that the author of the *Vision of Pierce the
 Ploughman* calls them contemptibly "japers, and juglers, and janglers of
-gests." <span id="fr_558"></span>[3](#fn_558) He describes them also as
+gests." <span id="fr_558"></span>[3](#fn_558.md) He describes them also as
 haunters of taverns and common ale-houses, amusing the lower classes of
 the people with "myrth of minstrelsy and losels tales," loose vulgar
 tales, and calls them tale-tellers and "tutelers in ydell," tutors of
@@ -396,7 +396,7 @@ He then blames the opulent for rewarding these "devils dissours," as he
 calls them, and adds,
 
 He is worse than Judas that giveth a japer silver. <span
-id="fr_559"></span>[1](#fn_559)
+id="fr_559"></span>[1](#fn_559.md)
 
 The japers, I apprehend, were the same as the bourdours, or rybauders,
 an inferior class of minstrels, and properly called jesters in the
@@ -420,7 +420,7 @@ also into the houses of the nobility.
 
 FURTHER ILLUSTRATION OF THEIR PRACTICES.--The different talents of the
 minstrels are sarcastically described by an ancient French poet; <span
-id="fr_560"></span>[2](#fn_560) who, supposing a company of them
+id="fr_560"></span>[2](#fn_560.md) who, supposing a company of them
 assembled in the hall of an opulent nobleman, says, the count caused it
 to be made known to them, that he would give his best new scarlet robe
 to the minstrel who should occasion the most merriment, either by
@@ -460,13 +460,13 @@ followed the armies in the time of war, and had access to both the camps
 without the least molestation. The popular story of king Alfred,
 recorded by William of Malmsbury and other writers, may be mentioned in
 proof of this assertion. He, it is said, assumed the character of a
-gleeman, <span id="fr_561"></span>[1](#fn_561) and entered the Danish
+gleeman, <span id="fr_561"></span>[1](#fn_561.md) and entered the Danish
 camp, where he made such observations as were of infinite service. This
 stratagem was afterwards repeated by Aulaff, the Dane, who was equally
 successful. He assumed, says the historian, the profession of the mimic,
 "who by this species of art makes a daily gain;" and then adds, "being
 commanded to depart, he took with him the reward for his song." <span
-id="fr_562"></span>[2](#fn_562)
+id="fr_562"></span>[2](#fn_562.md)
 
 The extensive privileges enjoyed by the minstrels, and the long
 continuance of the public favour, inflated their pride and made them
@@ -505,7 +505,7 @@ minstrelsy, and for the second
 <span id="page_157">p. 157</span>
 
 he was obliged to forswear his profession, and was never to appear again
-as a minstrel. <span id="fr_563"></span>[1](#fn_563) This edict is dated
+as a minstrel. <span id="fr_563"></span>[1](#fn_563.md) This edict is dated
 from Langley, an. 9 Edward II. A.D. 1315.
 
 A GILD OF MINSTRELS.--In little more than a century afterwards, the same
@@ -523,14 +523,14 @@ marshal appointed for life, the same office as that anciently possessed
 by the king of the minstrels, and two wardens, who were empowered to
 admit members into the gild, and to regulate and govern, and to punish,
 when necessary, all such as exercised the profession of minstrels
-throughout the kingdom. <span id="fr_564"></span>[2](#fn_564)
+throughout the kingdom. <span id="fr_564"></span>[2](#fn_564.md)
 
 \* This gild was attached to the cathedral church of St Paul's for its
 religious functions. The minstrels of Chester, who had already several
 charter privileges, were exempted from the operations of the general
 charter of 1469. There was also a famous gild of minstrels at Beverley.
 The ordinances of gilds of minstrels at York and Canterbury are still
-extant. <span id="fr_565"></span>[3](#fn_565)
+extant. <span id="fr_565"></span>[3](#fn_565.md)
 
 ABUSES AND DECLINE OF MINSTRELSY.--It does not appear that much good was
 effected by the foregoing institution or general gild; it neither
@@ -550,7 +550,7 @@ public favour, and basked in the sunshine of prosperity. The name,
 however, remained, and was applied to itinerant fiddlers and other
 musicians, whose low estate is thus described by Putenham, in his *Arte
 of English Poesie*, printed in 1589: <span
-id="fr_566"></span>[4](#fn_566) "Ballads and small popular musickes sung
+id="fr_566"></span>[4](#fn_566.md) "Ballads and small popular musickes sung
 by these cantabanqui upon benches and barrels heads, where they have
 none other audience than boyes or countrye fellowes that passe by them
 in the streete, or else by blind harpers, or such like taverne minstrels
@@ -571,7 +571,7 @@ Much better than a Paris-garden beare,
 Or prating puppet on a theatre,  
 Or Mimoes whistling to his tabouret,  
 Selling a laughter for a cold meales meat. <span
-id="fr_567"></span>[1](#fn_567)
+id="fr_567"></span>[1](#fn_567.md)
 
 It is necessary, however, to observe, that public and private bands of
 musicians were called minstrels for a considerable time after this
@@ -579,7 +579,7 @@ period, and without the least indication of disgrace; but then the
 appellation seems to have been confined to the instrumental performers,
 and such of them as were placed upon a regular establishment: the
 musicians of the city of London, for instance, were called indifferently
-waits and minstrels. <span id="fr_568"></span>[2](#fn_568)
+waits and minstrels. <span id="fr_568"></span>[2](#fn_568.md)
 
 We hear of the itinerant musicians again in an ordinance from Oliver
 Cromwell, dated 1656, during his protectorship, which prohibits "all
@@ -593,7 +593,7 @@ accompany their ditties with instrumental music, especially the fiddle,
 vulgarly called a crowd, and the guitar. And here we may observe, that
 the name of fiddlers was applied to the minstrels as early at least as
 the fourteenth century: it occurs in the *Vision of Pierce the
-Ploughman*, <span id="fr_569"></span>[3](#fn_569) where we read, "not to
+Ploughman*, <span id="fr_569"></span>[3](#fn_569.md) where we read, "not to
 fare as a fydeler, or a frier, to seke feastes." It is also used, but
 not sarcastically, in the poem of Launfel.
 
@@ -621,7 +621,7 @@ number of poets in his pay, to make songs and poems in his praise; and
 also, that with great gifts he allured many of the best singers and
 minstrels from the Continent, to sing those songs in the public streets
 of the principal cities in England. <span
-id="fr_570"></span>[1](#fn_570)
+id="fr_570"></span>[1](#fn_570.md)
 
 It was, on the other hand, a very dangerous employment to censure the
 characters of great personages, or hold their actions up to ridicule;
@@ -638,7 +638,7 @@ to the great entertainment of mine enemies; and, since it has pleased
 God to deliver him into my hands, I will punish him, to deter others
 from the like petulance." The cruel sentence was executed, and the
 miserable satirist died soon after with the wounds he had received in
-struggling with the executioner. <span id="fr_571"></span>[2](#fn_571)
+struggling with the executioner. <span id="fr_571"></span>[2](#fn_571.md)
 
 Again, in the reign of king Edward II., at the solemnisation of the
 feast of Pentecost in the great hall at Westminster, when that prince
@@ -646,7 +646,7 @@ was seated at dinner in royal state, and attended by the peers of the
 realm, a woman habited like a minstrel, riding upon a great horse
 trapped in the minstrel fashion, entered the hall, and, going round the
 several tables, imitated the gestures of a mimic, <span
-id="fr_572"></span>[3](#fn_572) and at length mounted the steps to the
+id="fr_572"></span>[3](#fn_572.md) and at length mounted the steps to the
 royal table, upon which she deposited a letter; and, having so done, she
 turned her horse, and saluting all the company, retired. The letter was
 found to contain some very severe reflections upon the conduct of the
@@ -658,7 +658,7 @@ been customary to prevent the entry of minstrels and persons in
 disguisements, upon the supposition that they came for the entertainment
 of his majesty. This woman had probably assumed the habit of a man, and
 a female was chosen on this occasion, according to the opinion of Dr
-Percy, <span id="fr_573"></span>[4](#fn_573) because, upon detection,
+Percy, <span id="fr_573"></span>[4](#fn_573.md) because, upon detection,
 her sex might plead for her, and disarm the king's resentment. It is,
 however, certain that at this time, and long before it, there were women
 who practised the minstrel's art, or at least. some branches of it. We
@@ -670,7 +670,7 @@ female minstrels, in the Saxon records; and I believe that their
 province in general was to dance and to tumble, whence they acquired the
 name of tomblesteres, from the Saxon ȝumbian, to dance or tumble, and
 saylours, from salio, to leap or dance, in the time of Chaucer, who uses
-both these denominations. <span id="fr_574"></span>[1](#fn_574)
+both these denominations. <span id="fr_574"></span>[1](#fn_574.md)
 
 THE DRESS OF THE MINSTRELS.--It is very clear, that the minstrels wore a
 peculiar kind of dress by which they might readily be distinguished: the
@@ -688,7 +688,7 @@ fiddle, your ribible, or such-like instrument belonging to a minstrel?"
 such instruments." "Then," returned the knight, "you are much to blame;
 for, if you choose to debase yourself and your family by appearing in
 the garb of a minstrel, it is fitting you should be able to perform his
-duty." <span id="fr_575"></span>[2](#fn_575) On a column in Saint Mary's
+duty." <span id="fr_575"></span>[2](#fn_575.md) On a column in Saint Mary's
 church at Beverley in Yorkshire is the following. inscription: "This
 pyllor made the maynstrels"; its capital is decorated with small figures
 of men in short coats painted blue, with red stockings and yellow
@@ -710,7 +710,7 @@ He stood before the kinge, doubtless this was true,*
 *In a fayre gowne of cloth of gold, and of tilshewe,*  
 *Lyke no common mynstrel, to shew taverne mirth,*  
 *But lyke a noble man, both of lands, and of birth. <span
-id="fr_576"></span>[3](#fn_576)
+id="fr_576"></span>[3](#fn_576.md)
 
 \[paragraph continues\] And again, in the history of John Newchombe, the
 famous clothier of Newbury, usually called Jack of Newbury, it is said,
@@ -730,12 +730,12 @@ first conferred on him does not appear: we meet with it, however, in an
 account of the public expenditures made in the fifth year of Edward I.;
 at which time, the king of the minstrels, whose name was Robert,
 received his master's pay for military services. <span
-id="fr_577"></span>[1](#fn_577) The same name, with the same title
+id="fr_577"></span>[1](#fn_577.md) The same name, with the same title
 annexed to it, occurs again in a similar record, dated the fourth year
 of Edward II.; when he, in company with various other minstrels,
 exhibited before the king and his court, then held in the city of York;
 and received forty marks, to be by him distributed among the
-fraternity. <span id="fr_578"></span>[2](#fn_578)
+fraternity. <span id="fr_578"></span>[2](#fn_578.md)
 
 The title of royalty was not confined to the king's chief minstrel: it
 was also bestowed upon the regent of other companies of musicians, as we
@@ -747,9 +747,9 @@ beloved the king of the minstrels; and con-cedes to him full power and
 commission to oblige the minstrels belonging to the honour of Tutbury to
 perform their services and minstrelsies in the same manner that they had
 been accustomed to be done in ancient times. <span
-id="fr_579"></span>[3](#fn_579) In a ballad intituled "The marriage of
+id="fr_579"></span>[3](#fn_579.md) In a ballad intituled "The marriage of
 Robin Hood and Clorinda the Queen of Tutbury Feast," <span
-id="fr_580"></span>[4](#fn_580) written probably after the disgrace of
+id="fr_580"></span>[4](#fn_580.md) written probably after the disgrace of
 the minstrels, this officer is called the king of the fidlers. The poet
 supposes himself to have been present at the wedding, and witness of the
 facts he relates; and therefore he speaks thus:
@@ -766,7 +766,7 @@ king signifies comptroller, or head, as the chief heralds are called
 kings at arms, because it belonged solely to them to regulate the
 ceremonies of the justs and tournaments." He then applies this reasoning
 to the Roy des Ribaulx, an officer in the ancient court of France; <span
-id="fr_581"></span>[5](#fn_581) and says, his charge was to clear the
+id="fr_581"></span>[5](#fn_581.md) and says, his charge was to clear the
 palace of
 
 <span id="page_162">p. 162</span>
@@ -774,7 +774,7 @@ palace of
 indolent and disorderly persons, who followed the court, and had no
 business there; and had his title as king of vagabonds, because he was
 the examiner and corrector of dissolute persons. <span
-id="fr_582"></span>[1](#fn_582) In like manner, I presume, in this
+id="fr_582"></span>[1](#fn_582.md) In like manner, I presume, in this
 country, the king of the minstrels was the governor and director of the
 fraternity over which he presided. The title was dropped in the reign of
 Edward IV., and that of marshal became its substitute.
@@ -785,7 +785,7 @@ large sums of money were expended for their maintenance, that the public
 treasuries were often drained. Matilda, queen to Henry I., is said to
 have lavished the greater part of her revenue upon poets and minstrels,
 and oppressed her tenants to procure more. <span
-id="fr_583"></span>[2](#fn_583) She was, however, by no means singular
+id="fr_583"></span>[2](#fn_583.md) She was, however, by no means singular
 in so doing, as the invectives of the monks sufficiently demonstrate.
 These selfish professors of religion grudged every act of munificence
 that was not applied to themselves, or their monasteries; and could not
@@ -796,7 +796,7 @@ scoffers. They also severely censured the nobility for patronising and
 rewarding such a shameless set of sordid flatterers, and the populace
 for frequenting their exhibitions, and being delighted with their
 performances, which diverted them from more serious pursuits, and
-corrupted their morals. <span id="fr_584"></span>[3](#fn_584) On the
+corrupted their morals. <span id="fr_584"></span>[3](#fn_584.md) On the
 other hand, the minstrels appear to have been ready enough to give them
 ample occasion for censure; and, indeed, I apprehend that their own
 immorality and insolence contributed more to their downfall than all the
@@ -806,7 +806,7 @@ his marriage with Agnes of Poictou, he disappointed the poor minstrels
 who had assembled in great multitudes on the occasion, giving them
 neither food nor rewards, but "sent them away," says a monkish author,
 "with empty purses, and hearts full of sorrow." <span
-id="fr_585"></span>[4](#fn_585) But to go on.
+id="fr_585"></span>[4](#fn_585.md) But to go on.
 
 The rewards given to the minstrels did not always consist in money, but
 frequently in rich mantles and embroidered vestments: they received,
@@ -825,7 +825,7 @@ because it is their trade:
 S’appartient à ces jorgleours,  
 Et à ces autres chanteours,  
 Quils ayent de ces chevaliers,  
-Les robes car c’est lor mestier." <span id="fr_586"></span>[1](#fn_586)
+Les robes car c’est lor mestier." <span id="fr_586"></span>[1](#fn_586.md)
 
 These garments the jugglers failed not to take with them to other
 courts, in order to excite a similar liberality. Another artifice they
@@ -835,7 +835,7 @@ purpose: thus, in the metrical romance of Ipomedon, where the poet
 speaks of the knight's marriage, he says:--
 
 Ipomydon gaff, in that stound,  
-To mynstrelles five hundred pound. <span id="fr_587"></span>[2](#fn_587)
+To mynstrelles five hundred pound. <span id="fr_587"></span>[2](#fn_587.md)
 
 The author of *Pierce the Ploughman*, who lived in the reign of Edward
 III., gives the following general description of the different
@@ -843,16 +843,16 @@ performances of the minstrels, and of their rewards, at that period:--
 
 I am mynstrell, quoth that man; my name is Activa Vita;  
 All Idle iche hate, for All Active is my name;  
-A wafirer <span id="fr_588"></span>[3](#fn_588) well ye wyt; and serve
+A wafirer <span id="fr_588"></span>[3](#fn_588.md) well ye wyt; and serve
 many lordes,  
 And few robes I get, or faire furred gownes.  
 Could I lye, to do men laugh; then lachen <span
-id="fr_589"></span>[4](#fn_589) I should  
+id="fr_589"></span>[4](#fn_589.md) I should  
 Nother mantill, nor money, amonges lords minstrels:  
 And, for I can neither taber, ne trumpe, ne tell no gestes,  
 Fartin ne fislen, at feastes, ne harpen;  
 Jape, ne juggle, ne gentilly pype,  
-Ne neither saylen ne saute, <span id="fr_590"></span>[5](#fn_590) ne
+Ne neither saylen ne saute, <span id="fr_590"></span>[5](#fn_590.md) ne
 singe to the gytterne,  
 I have no good giftes to please the great lordes.
 
@@ -863,27 +863,27 @@ inferior to that of royalty. The historian, speaking of a grand
 entertainment given by this nobleman, which he had an opportunity of
 seeing, says, "Ther wer many mynstrells, as well of his own, as of
 straungers; and each of them dyd their devoyre, in their
-faculties. <span id="fr_591"></span>[6](#fn_591) The same day the earl
+faculties. <span id="fr_591"></span>[6](#fn_591.md) The same day the earl
 of Foix gave to the heraulds and minstrelles the som of five hundred
 frankes; and gave to the duke of Tourayn's minstrelles gownes of cloth
 of gold, furred with ermyne, valued at two hundred frankes." <span
-id="fr_592"></span>[7](#fn_592)
+id="fr_592"></span>[7](#fn_592.md)
 
 Respecting the pecuniary rewards of the minstrels, we have, among
 others, the following accounts. At the marriage of Elizabeth, daughter
 of Edward I. to John, earl of Holland, every king's minstrel received
-forty shillings. <span id="fr_593"></span>[8](#fn_593) In the fourth of
+forty shillings. <span id="fr_593"></span>[8](#fn_593.md) In the fourth of
 Edward II. Perrot de la Laund, minstrel to Lord Hugh de Nevill, received
 twenty shillings for performing his minstrelsy before the king. <span
-id="fr_594"></span>[9](#fn_594) In the same year, Janino la Cheveretter,
-who is called Le Tregettour, <span id="fr_595"></span>[10](#fn_595) was
+id="fr_594"></span>[9](#fn_594.md) In the same year, Janino la Cheveretter,
+who is called Le Tregettour, <span id="fr_595"></span>[10](#fn_595.md) was
 paid at one
 
 <span id="page_164">p. 164</span>
 
 time forty shillings, and at another twenty, for the same service; and
 John le Mendlesham, the servant of Robert le Foll, twenty
-shillings; <span id="fr_596"></span>[1](#fn_596) the same sum was also
+shillings; <span id="fr_596"></span>[1](#fn_596.md) the same sum was also
 given to John le Boteller, the servant of Perrot Duzedeys, for his
 performances; and, again, Perrot Duzedeys, Roger the Trumpeter, and
 Janino le Nakerer, all of them king's minstrels, received from the king
@@ -891,34 +891,34 @@ sixty shillings for the like service.
 
 PAYMENTS TO MINSTRELS.--In the eighth year of Edward III. licence was
 granted to Barbor the bagpiper to visit the schools for minstrels in
-parts beyond the seas, <span id="fr_597"></span>[2](#fn_597) with thirty
+parts beyond the seas, <span id="fr_597"></span>[2](#fn_597.md) with thirty
 shillings to bear his expenses. Licence was also granted to Morlan the
 bagpiper to visit the minstrels' schools; and forty shillings for his
 expenses. A little lower we find a present of five shillings made by the
 king to a minstrel, for performing his minstrelsy before the image of
-the Blessed Virgin. <span id="fr_598"></span>[3](#fn_598) In the
+the Blessed Virgin. <span id="fr_598"></span>[3](#fn_598.md) In the
 eleventh year of the same reign, John de Hoglard, minstrel to John de
 Pulteney, was paid forty shillings for exhibiting before the king at
 Hatfield, and at London; and to Roger the Trumpeter, and to the
 minstrels his associates, performing at the feast for the queen's
 delivery, held at Hatfield, ten pounds. The permanent salary of the
 royal minstrels of Edward III. was 7½d. a day. <span
-id="fr_599"></span>[4](#fn_599)
+id="fr_599"></span>[4](#fn_599.md)
 
 \* Henry V., in 1415, engaged eighteen minstrels to follow him to
 Guyenne at a wage of 12d. a day each for three months. <span
-id="fr_600"></span>[5](#fn_600) Henry VI., as has been already stated,
+id="fr_600"></span>[5](#fn_600.md) Henry VI., as has been already stated,
 retained twelve minstrels among his household servants. Two of the court
 minstrels of Edward IV. obtained grants of ten marks yearly.
 
 In the ninth year of Henry VII. "Pudesay the piper in bagpipes,"
 received six shillings and eight pence from the king, for his
-performance. <span id="fr_601"></span>[6](#fn_601) In the fourteenth
+performance. <span id="fr_601"></span>[6](#fn_601.md) In the fourteenth
 year of his reign, five pounds were paid to three stryng-mynstrels for
 wages, but the time is not specified; in a subsequent entry, however, we
 find that fifteen shillings were given to "a stryng-mynstrel, for one
 moneth's wages"; also to a "straunge taberer, in reward, sixty-six
-shillings and eight pence." <span id="fr_602"></span>[7](#fn_602)
+shillings and eight pence." <span id="fr_602"></span>[7](#fn_602.md)
 
 \* MINSTRELS AND PLAYERS AT DURHAM.--The *Durham Account Rolls* yield
 much information as to minstrels. In 1278 a minstrel of
@@ -971,7 +971,7 @@ Pyper and other players received 6s. At St Cuthbert's feast in March
 1353, two players of the lord bishop together with two players of the
 earl of Northampton obtained 6s. 8d. The two players of the bishop, who
 were probably merely harpers or genuine minstrels, received 3s. 4d. at
-Easter in the same year. <span id="fr_603"></span>[1](#fn_603)
+Easter in the same year. <span id="fr_603"></span>[1](#fn_603.md)
 
 \* MINSTRELS AT PARISH FESTIVALS.--The hiring of minstrels for parish
 festivals at the end of the fifteenth and beginning of the sixteenth
@@ -990,7 +990,7 @@ payments, the entry probably means that the money was given to the head
 minstrel. In 1536 two minstrels were paid 6s., and the same number in
 1540 received 6s. 9d. Three were given 13s. 8d. in 1543. The last
 minstrel entry of these accounts is under the year 1559, when ten
-shillings was their fee. <span id="fr_604"></span>[1](#fn_604) It is
+shillings was their fee. <span id="fr_604"></span>[1](#fn_604.md) It is
 clear that this minstrelsy had no connection with music in church, but
 was rather for the festivities of the Whitsun Ale.
 
@@ -998,41 +998,41 @@ was rather for the festivities of the Whitsun Ale.
 
 ### Footnotes
 
-<span id="fn_540"></span>[148:1](spe13.htm#fr_540) Ammianus Marcell.
+<span id="fn_540"></span>[148:1](spe13.htm#fr_540.md) Ammianus Marcell.
 lib. xv. cap. 9.
 
-<span id="fn_541"></span>[148:2](spe13.htm#fr_541) Diodorus Siculus,
+<span id="fn_541"></span>[148:2](spe13.htm#fr_541.md) Diodorus Siculus,
 lib, v. cap. 31.
 
-<span id="fn_542"></span>[148:3](spe13.htm#fr_542) Bartholin, *De causis
+<span id="fn_542"></span>[148:3](spe13.htm#fr_542.md) Bartholin, *De causis
 contemp. a Danis Mortis*, lib. i. cap. 2, et Wormii, *Lit. Run.* ad
 finim.
 
-<span id="fn_543"></span>[149:1](spe13.htm#fr_543) *Ancient Laws and
+<span id="fn_543"></span>[149:1](spe13.htm#fr_543.md) *Ancient Laws and
 Institutes*, p. 400.
 
-<span id="fn_544"></span>[150:1](spe13.htm#fr_544) Vespasian, A. i.
+<span id="fn_544"></span>[150:1](spe13.htm#fr_544.md) Vespasian, A. i.
 
-<span id="fn_545"></span>[150:2](spe13.htm#fr_545) Tiberius, C. vi.
+<span id="fn_545"></span>[150:2](spe13.htm#fr_545.md) Tiberius, C. vi.
 
-<span id="fn_546"></span>[150:3](spe13.htm#fr_546) Pontoppidan, *Hist.
+<span id="fn_546"></span>[150:3](spe13.htm#fr_546.md) Pontoppidan, *Hist.
 Norway*, p. 148.
 
-<span id="fn_547"></span>[151:1](spe13.htm#fr_547) Wace, *Hist. de tut
+<span id="fn_547"></span>[151:1](spe13.htm#fr_547.md) Wace, *Hist. de tut
 les Reys de Brittaigne*, continued by Geoffrai Gaimer, MS. in the Royal
 Library, marked 13 A. xxi.
 
 \* See Freeman's Norman Conquest, iii. 478; v. 582.
 
-<span id="fn_548"></span>[151:2](spe13.htm#fr_548) No. 603.
+<span id="fn_548"></span>[151:2](spe13.htm#fr_548.md) No. 603.
 
-<span id="fn_549"></span>[152:1](spe13.htm#fr_549) Bede's *Eccles.
+<span id="fn_549"></span>[152:1](spe13.htm#fr_549.md) Bede's *Eccles.
 Hist.* lib. iv. cap. 24.
 
-<span id="fn_550"></span>[152:2](spe13.htm#fr_550) Fowler's *Durham
+<span id="fn_550"></span>[152:2](spe13.htm#fr_550.md) Fowler's *Durham
 Account Rolls*, 3 vols. (1898-1900), *passim*.
 
-<span id="fn_551"></span>[152:3](spe13.htm#fr_551) \* A reward of 6s.
+<span id="fn_551"></span>[152:3](spe13.htm#fr_551.md) \* A reward of 6s.
 8d. was given to a *rotour* or player on a rotour on St Cuthbert's Day
 1395, at Durham. It is described as "a sort of fiddle"; it was probably
 the same as the vielle described in the next paragraph. *Durham Account
@@ -1041,172 +1041,172 @@ Rolls*, iii. 599, 955.
 A man playing on a lute and his wife singing were awarded 2s. at
 Christmas 1361, by the prior of Durham. *Ibid*.
 
-<span id="fn_552"></span>[153:1](spe13.htm#fr_552) Fauchet, *Origine de
+<span id="fn_552"></span>[153:1](spe13.htm#fr_552.md) Fauchet, *Origine de
 la Langue et Poësie Françoise*, 1581, liv. i. chap. viii. fol. 72.
 
-<span id="fn_553"></span>[153:2](spe13.htm#fr_553) Le Grand, *Fables, ou
+<span id="fn_553"></span>[153:2](spe13.htm#fr_553.md) Le Grand, *Fables, ou
 Contes des 12. 13. Siècles*, tom, v.
 
-<span id="fn_554"></span>[153:3](spe13.htm#fr_554) Henry's *Hist. Brit.*
+<span id="fn_554"></span>[153:3](spe13.htm#fr_554.md) Henry's *Hist. Brit.*
 vol. viii. sect. 3. chap. v. p. 502.
 
-<span id="fn_555"></span>[153:4](spe13.htm#fr_555) Fauchet, *Des anciens
+<span id="fn_555"></span>[153:4](spe13.htm#fr_555.md) Fauchet, *Des anciens
 Poets François*, liv. ii. chap. vii. p. 92 7 and see Walpole, *Royal and
 Noble Authors*, vol. i. p. 6.
 
-<span id="fn_556"></span>[154:1](spe13.htm#fr_556) *Confessio Amantis*,
+<span id="fn_556"></span>[154:1](spe13.htm#fr_556.md) *Confessio Amantis*,
 lib. viii.
 
-<span id="fn_557"></span>[154:2](spe13.htm#fr_557) The thirde boke of
+<span id="fn_557"></span>[154:2](spe13.htm#fr_557.md) The thirde boke of
 Fame.
 
-<span id="fn_558"></span>[154:3](spe13.htm#fr_558) Edition of 1550.
+<span id="fn_558"></span>[154:3](spe13.htm#fr_558.md) Edition of 1550.
 
-<span id="fn_559"></span>[155:1](spe13.htm#fr_559) A reward.
+<span id="fn_559"></span>[155:1](spe13.htm#fr_559.md) A reward.
 
-<span id="fn_560"></span>[155:2](spe13.htm#fr_560) *Fabliaux et Contes*,
+<span id="fn_560"></span>[155:2](spe13.htm#fr_560.md) *Fabliaux et Contes*,
 edit. Par. tom. ii. p. 161.
 
-<span id="fn_561"></span>[156:1](spe13.htm#fr_561) Malmsb. lib. ii. cap.
+<span id="fn_561"></span>[156:1](spe13.htm#fr_561.md) Malmsb. lib. ii. cap.
 4.
 
-<span id="fn_562"></span>[156:2](spe13.htm#fr_562) Hist. lib. ii. cap.
+<span id="fn_562"></span>[156:2](spe13.htm#fr_562.md) Hist. lib. ii. cap.
 6.
 
-<span id="fn_563"></span>[157:1](spe13.htm#fr_563) App. to Leland's
+<span id="fn_563"></span>[157:1](spe13.htm#fr_563.md) App. to Leland's
 *Collect*. vol. vi. p. 36.
 
-<span id="fn_564"></span>[157:2](spe13.htm#fr_564) Patent Rolls of Edw.
+<span id="fn_564"></span>[157:2](spe13.htm#fr_564.md) Patent Rolls of Edw.
 IV. pt. i. m. 17.
 
-<span id="fn_565"></span>[157:3](spe13.htm#fr_565) \* Jusseraud's
+<span id="fn_565"></span>[157:3](spe13.htm#fr_565.md) \* Jusseraud's
 *English Wayfaring Life*, 205-6; Lambert's *Two Thousand Years of Gild
 Life*, 132-137.
 
-<span id="fn_566"></span>[157:4](spe13.htm#fr_566) Book ii. chap. 9.
+<span id="fn_566"></span>[157:4](spe13.htm#fr_566.md) Book ii. chap. 9.
 
-<span id="fn_567"></span>[158:1](spe13.htm#fr_567) Lib. iv. sat. i.
+<span id="fn_567"></span>[158:1](spe13.htm#fr_567.md) Lib. iv. sat. i.
 
-<span id="fn_568"></span>[158:2](spe13.htm#fr_568) Stow's *Survey of
+<span id="fn_568"></span>[158:2](spe13.htm#fr_568.md) Stow's *Survey of
 London*, pp. 84, 85.
 
-<span id="fn_569"></span>[158:3](spe13.htm#fr_569) Pass. xi.
+<span id="fn_569"></span>[158:3](spe13.htm#fr_569.md) Pass. xi.
 
-<span id="fn_570"></span>[159:1](spe13.htm#fr_570) Benedict. Abbas, sub
+<span id="fn_570"></span>[159:1](spe13.htm#fr_570.md) Benedict. Abbas, sub
 an. 1190. Hoveden writes thus: "*Cantores et joculatares de illo
 canerent in plateis; ut jam dicebatur ubique quad non erat talis in
 orbe*"; declaring everywhere that his equal was not in the world.
 *Hist*. p. 103.
 
-<span id="fn_571"></span>[159:2](spe13.htm#fr_571) Orderic. Vitalis,
+<span id="fn_571"></span>[159:2](spe13.htm#fr_571.md) Orderic. Vitalis,
 *Eccles. Hist*. pp. 880, 881.
 
-<span id="fn_572"></span>[159:3](spe13.htm#fr_572) Walsingham, *Hist.
+<span id="fn_572"></span>[159:3](spe13.htm#fr_572.md) Walsingham, *Hist.
 Anglæ*. sub an. 1317, p. 85.
 
-<span id="fn_573"></span>[159:4](spe13.htm#fr_573) Essay upon Ancient
+<span id="fn_573"></span>[159:4](spe13.htm#fr_573.md) Essay upon Ancient
 Minstrels, in *Reliques of Ancient Poetry*.
 
-<span id="fn_574"></span>[160:1](spe13.htm#fr_574) The first in the
+<span id="fn_574"></span>[160:1](spe13.htm#fr_574.md) The first in the
 "Pardoner's Tale," and the last in the "Romance of the Rose."
 
-<span id="fn_575"></span>[160:2](spe13.htm#fr_575) Harl. MS. 1764.
+<span id="fn_575"></span>[160:2](spe13.htm#fr_575.md) Harl. MS. 1764.
 
-<span id="fn_576"></span>[160:3](spe13.htm#fr_576) Harl. MS. 541.
+<span id="fn_576"></span>[160:3](spe13.htm#fr_576.md) Harl. MS. 541.
 
-<span id="fn_577"></span>[161:1](spe13.htm#fr_577) MS. Cott.
+<span id="fn_577"></span>[161:1](spe13.htm#fr_577.md) MS. Cott.
 Vespasianus, C. xvi.
 
-<span id="fn_578"></span>[161:2](spe13.htm#fr_578) "*Regi Roberto, et
+<span id="fn_578"></span>[161:2](spe13.htm#fr_578.md) "*Regi Roberto, et
 aliis ministrallis diversis, facientibus ministralsias suas coram rege
 et aliis magnatibus, de done ipsius regis, per manus dicti regis
 Roberti, recipientis denarios ad participandum inter eosdem, apud
 Eboracum 20 die Feb. 40 marc*." MS. Cott. Nero, C. viii.
 
-<span id="fn_579"></span>[161:3](spe13.htm#fr_579) Dugd. *Monast*. vol.
+<span id="fn_579"></span>[161:3](spe13.htm#fr_579.md) Dugd. *Monast*. vol.
 i. fol. 355.
 
-<span id="fn_580"></span>[161:4](spe13.htm#fr_580) *Collection of Old
+<span id="fn_580"></span>[161:4](spe13.htm#fr_580.md) *Collection of Old
 Ballads*, London, 1723.
 
-<span id="fn_581"></span>[161:5](spe13.htm#fr_581) Chaucer, in the
+<span id="fn_581"></span>[161:5](spe13.htm#fr_581.md) Chaucer, in the
 *Romance of the Rose*, where the title *Roy des Ribaulx* occurs in the
 original, translates it "king of harlotes."
 
-<span id="fn_582"></span>[162:1](spe13.htm#fr_582) *Origines des
+<span id="fn_582"></span>[162:1](spe13.htm#fr_582.md) *Origines des
 Dignitez et Magistrats de France*, fol. 43.
 
-<span id="fn_583"></span>[162:2](spe13.htm#fr_583) Will. Malmsb. p. 93,
+<span id="fn_583"></span>[162:2](spe13.htm#fr_583.md) Will. Malmsb. p. 93,
 col. 1.
 
-<span id="fn_584"></span>[162:3](spe13.htm#fr_584) Johan.
+<span id="fn_584"></span>[162:3](spe13.htm#fr_584.md) Johan.
 Sarisburiensis, *De Nugis Curial*. lib. i. cap. 8; lib. iii. cap. 7.
 Matt. Paris, in *Vit. Hen. III.* sub an. 1251, etc.
 
-<span id="fn_585"></span>[162:4](spe13.htm#fr_585) "*Infinitum
+<span id="fn_585"></span>[162:4](spe13.htm#fr_585.md) "*Infinitum
 histrionum et joculatorum multitudinem, sine cibo et muneribus, vacuam
 et mœrentum abire permisit*." Chron. Virtziburg.
 
-<span id="fn_586"></span>[163:1](spe13.htm#fr_586) *Origin de la Langue
+<span id="fn_586"></span>[163:1](spe13.htm#fr_586.md) *Origin de la Langue
 et Poësie Françoise*, lib. i. cap. 4.
 
-<span id="fn_587"></span>[163:2](spe13.htm#fr_587) Harl. MS. 2252.
+<span id="fn_587"></span>[163:2](spe13.htm#fr_587.md) Harl. MS. 2252.
 
-<span id="fn_588"></span>[163:3](spe13.htm#fr_588) A confectioner.
+<span id="fn_588"></span>[163:3](spe13.htm#fr_588.md) A confectioner.
 
-<span id="fn_589"></span>[163:4](spe13.htm#fr_589) Lack, or want.
+<span id="fn_589"></span>[163:4](spe13.htm#fr_589.md) Lack, or want.
 
-<span id="fn_590"></span>[163:5](spe13.htm#fr_590) Dance, nor jump.
+<span id="fn_590"></span>[163:5](spe13.htm#fr_590.md) Dance, nor jump.
 Pass. xiv.
 
-<span id="fn_591"></span>[163:6](spe13.htm#fr_591) Duty in their several
+<span id="fn_591"></span>[163:6](spe13.htm#fr_591.md) Duty in their several
 stations.
 
-<span id="fn_592"></span>[163:7](spe13.htm#fr_592) Lord Berners'
+<span id="fn_592"></span>[163:7](spe13.htm#fr_592.md) Lord Berners'
 *Froissart*, vol. iv. cap. 41.
 
-<span id="fn_593"></span>[163:8](spe13.htm#fr_593) Anstis, *Ord. Gart.*
+<span id="fn_593"></span>[163:8](spe13.htm#fr_593.md) Anstis, *Ord. Gart.*
 vol. ii. p. 303.
 
-<span id="fn_594"></span>[163:9](spe13.htm#fr_594) *Liber de Computis
+<span id="fn_594"></span>[163:9](spe13.htm#fr_594.md) *Liber de Computis
 Garderobæ*, MS. Cott. Lib. Nero, C. viii. fol. 82.
 
-<span id="fn_595"></span>[163:10](spe13.htm#fr_595) *Cheveretter*, or
+<span id="fn_595"></span>[163:10](spe13.htm#fr_595.md) *Cheveretter*, or
 bagpiper; from chevre, a bagpipe, and tregettor, or juggler, a sleight
 of hand player. *Ibid*. See more on this subject in the next chapter
 relating to the joculator.
 
-<span id="fn_596"></span>[164:1](spe13.htm#fr_596) 1 Another entry
+<span id="fn_596"></span>[164:1](spe13.htm#fr_596.md) 1 Another entry
 specifies twenty shillings paid to Robert le Foil to buy himself
 *boclarium*, a buckler, to play, *aa ’ludendum*, before the king. *Liber
 de Computis Garderobæ*, MS. Cott. Lib. Nero, C. viii. f. 85.
 
-<span id="fn_597"></span>[164:2](spe13.htm#fr_597) *Scolas ministrallis
+<span id="fn_597"></span>[164:2](spe13.htm#fr_597.md) *Scolas ministrallis
 in partibus trans mare*. *Ibid*. f. 276.
 
-<span id="fn_598"></span>[164:3](spe13.htm#fr_598) *Facienti
+<span id="fn_598"></span>[164:3](spe13.htm#fr_598.md) *Facienti
 ministralsiam suam coram imagine Beata Mariæ in Veltam, rege presente*,
 5 sol. *Ibid*. f. 277.
 
-<span id="fn_599"></span>[164:4](spe13.htm#fr_599) *Issue Roll of Tho.
+<span id="fn_599"></span>[164:4](spe13.htm#fr_599.md) *Issue Roll of Tho.
 de Brantingham*, pp. 54-57.
 
-<span id="fn_600"></span>[164:5](spe13.htm#fr_600) Rymer's *Fædera*, ix.
+<span id="fn_600"></span>[164:5](spe13.htm#fr_600.md) Rymer's *Fædera*, ix.
 260.
 
-<span id="fn_601"></span>[164:6](spe13.htm#fr_601) MS. in the
+<span id="fn_601"></span>[164:6](spe13.htm#fr_601.md) MS. in the
 Remembrancer's Office. See the extract in Henry's *British History*,
 vol. vi. Appendix No. V.
 
-<span id="fn_602"></span>[164:7](spe13.htm#fr_602) From another MS. in
+<span id="fn_602"></span>[164:7](spe13.htm#fr_602.md) From another MS. in
 the same office. *Ibid*.
 
-<span id="fn_603"></span>[165:1](spe13.htm#fr_603) Fowler's *Durham
+<span id="fn_603"></span>[165:1](spe13.htm#fr_603.md) Fowler's *Durham
 Account Rolls*, 3 vols. (1898-1900), passim.
 
-<span id="fn_604"></span>[166:1](spe13.htm#fr_604) Bishop Hobhouse's
+<span id="fn_604"></span>[166:1](spe13.htm#fr_604.md) Bishop Hobhouse's
 *Churchwarden Accounts* (Somerset Record Society, vol. iv.).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](spe14)
+[Next: Chapter IV](spe14.md)

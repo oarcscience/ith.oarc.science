@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws33)  [Next](cws35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws33)  [Next](cws35.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXX
 
-#### CONCERNING PAUL AND THE DISCIPLES OF JESUS <span id="fr_124"></span>[2](#fn_124)
+#### CONCERNING PAUL AND THE DISCIPLES OF JESUS <span id="fr_124"></span>[2](#fn_124.md)
 
 IN a vision which was given to me last night, it was represented to me
 that the common view of Paul's character and position with regard to the
@@ -47,7 +47,7 @@ rule of life, a simple purging of the old faith, Paul erected the
 strange and elaborate system which is called '*the scheme of the
 Atonement*.' For us and our Master there had been no 'scheme'; God was
 reconciled to man by love, and not by sacrifice. But Paul would have a
-'new religion,' <span id="fr_125"></span>[1](#fn_125) and a creed hard
+'new religion,' <span id="fr_125"></span>[1](#fn_125.md) and a creed hard
 to understand; and he left to the world a Christianity of his own which
 we knew not, but which is yours to-day. And in this he did us greater
 evil and detriment than if he had persecuted and slain us all
@@ -91,7 +91,7 @@ that of strong indignation, mingled with regret, against Paul; and of
 scorn at the folly of Christendom in accepting so gross and palpable a
 perversion of the teaching of Jesus and nature of God as that involved
 in the sacerdotal doctrine of vicarious atonement.\] <span
-id="fr_126"></span>[1](#fn_126)
+id="fr_126"></span>[1](#fn_126.md)
 
 <span id="page_80">p. 80</span>
 
@@ -99,19 +99,19 @@ id="fr_126"></span>[1](#fn_126)
 
 ### Footnotes
 
-<span id="fn_124"></span>[77:2](cws34.htm#fr_124) Paris, July 17, 1877.
+<span id="fn_124"></span>[77:2](cws34.htm#fr_124.md) Paris, July 17, 1877.
 Referred to in *Life of Anna Kingsford*, vol. i, p. 181.
 
-<span id="fn_125"></span>[78:1](cws34.htm#fr_125) The "new religion," in
+<span id="fn_125"></span>[78:1](cws34.htm#fr_125.md) The "new religion," in
 this context, "implies the departures made by Paul from the teaching of
 the original disciples" (Letter of E. M. to *Light*, 1889, p.
 507).    S. H. H.
 
-<span id="fn_126"></span>[79:1](cws34.htm#fr_126) 2 Peter iii, 15, 16
+<span id="fn_126"></span>[79:1](cws34.htm#fr_126.md) 2 Peter iii, 15, 16
 (an epistle of exceedingly doubtful authority), evidently represents a
 desire either to compose or to ignore this feud by treating the
 difference as more apparent than real.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. XXXI: Concerning The Manichæanism Of Paul](cws35)
+[Next: No. XXXI: Concerning The Manichæanism Of Paul](cws35.md)

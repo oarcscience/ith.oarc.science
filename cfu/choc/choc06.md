@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](choc05)  [Next](choc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](choc05)  [Next](choc07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Occultism*, by Paul Carus, \[1907\], at Intangible Textual
 Heritage
 
@@ -36,7 +36,7 @@ view.
 
 <span id="img_04200"></span> <span align="CENTER"> [![DIFFERENT
 REPRESENTATIONS OF THE ELEMENTS.](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 DIFFERENT REPRESENTATIONS OF THE ELEMENTS.  
 </span>
 
@@ -57,7 +57,7 @@ China from India, is proved beyond question by the fact
 
 <span id="img_04300"></span> <span align="CENTER"> [![TIBETAN
 STUPA.](tn/04300.jpg)  
-Click to enlarge](img/04300.jpg)  
+Click to enlarge](img/04300.jpg.md)  
 TIBETAN STUPA.  
 </span>
 
@@ -79,7 +79,7 @@ water by a sphere, fire by a triangle, air by a crescent.
 
 <span id="img_04400"></span> <span align="CENTER"> [![GATEWAY TO
 BUDDHIST MONASTERY, PEKIN.](tn/04400.jpg)  
-Click to enlarge](img/04400.jpg)  
+Click to enlarge](img/04400.jpg.md)  
 GATEWAY TO BUDDHIST MONASTERY, PEKIN.  
 </span>
 
@@ -124,7 +124,7 @@ conception, and we may regard it as originally and typically Chinese. At
 any rate it is full of occultism and constitutes an important chapter in
 the mystic lore of China. According to this view, the five elements are
 water, fire, wood, metal, and earth. <span
-id="fr_21"></span>[\*](#fn_21) The knowledge of these elements, legend
+id="fr_21"></span>[\*](#fn_21.md) The knowledge of these elements, legend
 tells us, is somehow connected with the marks on the shell of the sacred
 tortoise which, having risen from the river Loh, appeared to Ts‘ang-Hieh
 (Mayers, *Ch. R. M.*, I, 756). Tsou-Yen, a philosopher who lived in the
@@ -136,7 +136,7 @@ wrote a treatise on cosmogony in which the five elements play an
 important part (Mayers, *Ch. R. M.*, I, 746).
 
 The five elements also figure prominently in "The Great Plan," <span
-id="fr_22"></span>[11](#fn_22) which is an ancient imperial manifesto on
+id="fr_22"></span>[11](#fn_22.md) which is an ancient imperial manifesto on
 the art of good government. There it is stated that like everything else
 they are produced by the yang and yin, being the natural results of that
 twofold breath which will operate favorably or unfavorably upon the
@@ -144,7 +144,7 @@ living or the dead according to the combination in which they are mixed.
 All misfortunes are said to arise from a disturbance of the five
 elements in a given situation, and thus the Chinese are very careful not
 to interfere with nature or cause any disturbance of natural conditions.
-We are told in "The Great Plan" <span id="fr_23"></span>[12](#fn_23)
+We are told in "The Great Plan" <span id="fr_23"></span>[12](#fn_23.md)
 that "in olden times K‘wan dammed up the inundating waters and so
 disarranged the five elements. The Emperor of Heaven was aroused to
 anger and would not give him the nine divisions of the Great Plan. In
@@ -229,12 +229,12 @@ fundamental idea further characteristics
 
 <span id="img_04800"></span> <span align="CENTER"> [![The Mystic
 Tablet](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)  
+Click to enlarge](img/04800.jpg.md)  
 The Mystic Tablet  
 </span>
 
 <span class="small">THE MYSTIC TABLET. <span
-id="fr_24"></span>[13](#fn_24)</span>
+id="fr_24"></span>[13](#fn_24.md)</span>
 
 of the universe, according to their more complicated knowledge of
 science and occultism.
@@ -252,7 +252,7 @@ to reveal the secret of the kwa to Fuh-Hi.
 
 In the center of our kwa tablet is the magic square written in Tibetan
 characters, which is the same as that represented in dots in the
-so-called "Writing of Loh." <span id="fr_25"></span>[14](#fn_25) It is
+so-called "Writing of Loh." <span id="fr_25"></span>[14](#fn_25.md) It is
 also depicted as resting in its turn on the carapace of a smaller
 tortoise.
 
@@ -264,14 +264,14 @@ ox, tiger, hare, dragon, serpent, horse, goat, monkey,
 
 <span id="img_04900"></span> <span align="CENTER"> [![A TYPICAL CHINESE
 GRAVE.](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)  
+Click to enlarge](img/04900.jpg.md)  
 A TYPICAL CHINESE GRAVE.  
 </span>
 
 <span class="small">\[The dead are protected against the evil influence
 of unfavorably mixed elements in the surroundings of the grave by a
 horseshoe-shaped wall. Cf. pp.
-[56](choc08.htm#page_56)–[57](choc08.htm#page_57).\]</span>
+[56](choc08.htm#page_56)–[57](choc08.htm#page_57.md).\]</span>
 
 cock, dog, and boar. The symbols of the days are: a sun for Sunday, a
 crescent for Monday; a red eye for Tuesday (red light of the planet
@@ -299,7 +299,7 @@ wind; and in the right upper corner, earth.
 
 ### Footnotes
 
-<span id="fn_20"></span>[41:10](choc05.htm#fr_20) See Steinthal's "The
+<span id="fn_20"></span>[41:10](choc05.htm#fr_20.md) See Steinthal's "The
 original Form of the Legend of Prometheus" which forms and appendix to
 Goldziher's *Mythology Among the Hebrews*, translated by Russell
 Martineau, London. 1877.
@@ -310,25 +310,25 @@ torture," and one who forces (viz. Agni, the god of fire) is called
 Prometheus, whose nature of fire-god is still recognisable in the
 legend.
 
-<span id="fn_21"></span>[45:\*](choc06.htm#fr_21) <span
+<span id="fn_21"></span>[45:\*](choc06.htm#fr_21.md) <span
 id="img_04500"></span> ![](img/04500.jpg)
 
-<span id="fn_22"></span>[46:11](choc06.htm#fr_22) A chapter in the *Shu
+<span id="fn_22"></span>[46:11](choc06.htm#fr_22.md) A chapter in the *Shu
 King*, translated into English by James Legge. *S.B.E.*, vol. III, 137.
 
-<span id="fn_23"></span>[46:12](choc06.htm#fr_23) See *S.B.E.*, III,
+<span id="fn_23"></span>[46:12](choc06.htm#fr_23.md) See *S.B.E.*, III,
 139.
 
-<span id="fn_24"></span>[48:13](choc06.htm#fr_24) The table has been
+<span id="fn_24"></span>[48:13](choc06.htm#fr_24.md) The table has been
 reproduced from Waddell's Buddhism of Tibet, p. 453. Students who take
 the trouble to enter into further details are warned that in Waddell's
 table, by some strange mistake, the position of the trigrams tui and
 chan, in the east and in the west, has been reversed, a mistake which we
 have corrected in our reproduction.
 
-<span id="fn_25"></span>[49:14](choc06.htm#fr_25) See the author's
+<span id="fn_25"></span>[49:14](choc06.htm#fr_25.md) See the author's
 pamphlet, Chinese Philosophy, p. 19.
 
 ------------------------------------------------------------------------
 
-[Next: Systems of Enumeration](choc07)
+[Next: Systems of Enumeration](choc07.md)

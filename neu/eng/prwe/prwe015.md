@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe014)  [Next](prwe016) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe014)  [Next](prwe016.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ of the sones so removed.
 
 ------------------------------------------------------------------------
 
-[Next: Tom the Giant, his wife Jane and Jack the Tinkeard](prwe016)
+[Next: Tom the Giant, his wife Jane and Jack the Tinkeard](prwe016.md)

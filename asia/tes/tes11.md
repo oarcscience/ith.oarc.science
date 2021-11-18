@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes10)  [Next](tes12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes10)  [Next](tes12.md) 
 
 ------------------------------------------------------------------------
 
-### 8. (REINDEER-BORN.) <span id="fr_12"></span>[1](#fn_12)
+### 8. (REINDEER-BORN.) <span id="fr_12"></span>[1](#fn_12.md)
 
 There was a Tungus man who had a large reindeer herd, and no son at all.
 One time he came to his herd, and saw that a doe had brought forth a
@@ -25,7 +25,7 @@ time. Then he saw an iron house.
 
 In the house was a very pretty girl, so pretty that all the food she
 swallowed was visible though her transparent body. <span
-id="fr_13"></span>[1](#fn_13) He thought in his mind, "Oh, I wish I had
+id="fr_13"></span>[1](#fn_13.md) He thought in his mind, "Oh, I wish I had
 a wife like that girl!" And she answered immediately, "Really, you wish
 it?" She knew his thoughts, though he had not uttered. a single word.
 She called him in and gave him food and drink. Then they lay down to
@@ -60,13 +60,13 @@ of the Kolyma country, winter of 1895.
 
 ### Footnotes
 
-<span id="fn_12"></span>[24:1](tes11.htm#fr_12) Cf. Bogoras, "Chukchee
+<span id="fn_12"></span>[24:1](tes11.htm#fr_12.md) Cf. Bogoras, "Chukchee
 Texts", (*Publications, Jesup North Pacific Expedition*, vol. 8) 175.
 
-<span id="fn_13"></span>[25:1](tes11.htm#fr_13) This detail is borrowed
+<span id="fn_13"></span>[25:1](tes11.htm#fr_13.md) This detail is borrowed
 from Yakut folklore in which it is frequently met. See also Radloff, *l.
 c.*, vol. 1, 11--F. B.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Chaun Story](tes12)
+[Next: 1. Chaun Story](tes12.md)

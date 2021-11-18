@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma09)  [Next](sma11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma09)  [Next](sma11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -168,7 +168,7 @@ viziriate. The former came in person to Damascus, and offered the atabeg
 Noor-ed-deen a third of the revenues of Egypt if he would aid him to
 overcome his rival. Without hesitation Noor-ed-deen ordered Asad-ed-deen
 (*Lion of Religion*) Sheerkoh (*Mountain Lion*) <span
-id="fr_46"></span>[\*](#fn_46) a Koordish chief who commanded for him at
+id="fr_46"></span>[\*](#fn_46.md) a Koordish chief who commanded for him at
 Emessa, to assemble an army and march for
 
 <span id="page_107">p. 107</span>
@@ -208,8 +208,8 @@ now been conquered, and
 <span class="contnote">\[paragraph continues\]</span> Cairo was besieged
 by the Christians. Shaver had burnt the old town, and defended himself
 and the khalif in the new town, the proper Cairo. Sheerkoh appeared once
-more in Egypt with a larger army [than](errata.htm#7) before <span
-id="fr_47"></span>[\*](#fn_47), but, ere he reached the beleaguered
+more in Egypt with a larger army [than](errata.htm#7.md) before <span
+id="fr_47"></span>[\*](#fn_47.md), but, ere he reached the beleaguered
 town, Shaver and Amalric had entered into a composition, and the former
 had withdrawn on receiving a sum of 50,000 ducats. Sheerkoh however
 advanced, and pitched his tents before the walls of Cairo. The khalif
@@ -241,7 +241,7 @@ free him from embarrassment. Adhad-ladin-Allah, the last of the
 descendants of Moez-ladin-Allah, the founder of the dynasty, died
 suddenly--of disease, according to the oriental historians,--by the hand
 of Saladin, according to the rumour which went among the
-Christians <span id="fr_48"></span>[\*](#fn_48). All obstacles being now
+Christians <span id="fr_48"></span>[\*](#fn_48.md). All obstacles being now
 removed, public prayer was celebrated in the mosks of Egypt in the name
 of the Abbasside khalif, and the power of the western Ismaïlites, after
 a continuance of 200 years, brought completely to an end.
@@ -385,10 +385,10 @@ intentions.
 
 ### Footnotes
 
-<span id="fn_46"></span>[106:\*](sma10.htm#fr_46) The former of these
+<span id="fn_46"></span>[106:\*](sma10.htm#fr_46.md) The former of these
 names is Arabic, the latter Persian.
 
-<span id="fn_47"></span>[108:\*](sma10.htm#fr_47) He was accompanied by
+<span id="fn_47"></span>[108:\*](sma10.htm#fr_47.md) He was accompanied by
 Saladin, who gives the following account of his own repugnance to the
 expedition:--"When Noor-ed-deen ordered me to go to Egypt with my uncle,
 after Sheerkoh had said to me in his presence, 'Come Yoossuf, make ready
@@ -402,9 +402,9 @@ narrowness of my circumstances. Noor-ed-deen then gave me all that was
 requisite for my outfit, but I felt as if I was going to
 death."--*Abulfeda*.
 
-<span id="fn_48"></span>[109:\*](sma10.htm#fr_48) William of Tyre xx.
+<span id="fn_48"></span>[109:\*](sma10.htm#fr_48.md) William of Tyre xx.
 12.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](sma11)
+[Next: Chapter IX](sma11.md)

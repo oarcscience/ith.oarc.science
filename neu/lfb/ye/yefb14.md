@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb13)  [Next](yefb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb13)  [Next](yefb15.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_75">p. 75</span>
 
-THE GIANTS AND THE HERD-BOY <span id="fr_11"></span>[1](#fn_11)
+THE GIANTS AND THE HERD-BOY <span id="fr_11"></span>[1](#fn_11.md)
 
 There was once upon a time a poor boy who had neither father nor
 mother.  In order to gain a living he looked after the sheep of a great
@@ -127,13 +127,13 @@ lives.
 
 ### Footnotes
 
-<span id="fn_11"></span>[75:1](yefb14.htm#fr_11) From the *Bukowniaer*.
+<span id="fn_11"></span>[75:1](yefb14.htm#fr_11.md) From the *Bukowniaer*.
 Von Wliolocki.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Invisible Prince](yefb15)
+[Next: The Invisible Prince](yefb15.md)
 
 </div>

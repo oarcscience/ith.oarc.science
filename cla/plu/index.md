@@ -21,7 +21,7 @@ the predecessors of modern social science.
 <span class="c_da"></span>
 
 <span class="c_e"> <span class="c_t">[Plutarch's Morals: Theosophical
-Essays](pte/index)</span>  
+Essays](pte/index.md)</span>  
 tr. by <span class="c_a">Charles William King</span> \[<span
 class="c_d">1908</span>\]   <span class="c_b">Six essays by Plutarch,
 rich with details of ancient mythology and natural philosophy.</span>  
@@ -35,7 +35,7 @@ On the Apparent Face in the Orb of the Moon
 On Superstition  
 
 <span class="c_e"> <span class="c_t">[The Roman and Greek
-Questions](rgq/index)</span>  
+Questions](rgq/index.md)</span>  
 of <span class="c_a">Plutarch</span>, tr. by <span class="c_a">Frank
 Cole Babbitt</span> \[<span class="c_d">1938</span>\]   <span
 class="c_b">A treasure trove of classical pagan lore.</span> </span>
@@ -47,9 +47,9 @@ class="c_b">A treasure trove of classical pagan lore.</span> </span>
 #### Elsewhere at this site
 
 <span class="c_e"> <span class="c_t">[Legends of the Gods: The Egyptian
-Texts](../../egy/leg/index)</span>  
+Texts](../../egy/leg/index.md)</span>  
 Includes the <span class="c_t">[De Iside et
-Osiride](../../egy/leg/leg29)</span> of <span
+Osiride](../../egy/leg/leg29.md)</span> of <span
 class="c_a">Plutarch</span>   by <span class="c_a">E. A. Wallis
 Budge</span> \[<span class="c_d">1912</span>\]  
 </span> <span class="c_e"> </span>

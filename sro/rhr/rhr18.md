@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr17)  [Next](rhr19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr17)  [Next](rhr19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
 
 <span id="page_217">p. 217</span>
 
-<span id="img_21700"></span> ![ARMS OF ANDREAS.](img/21700.jpg)
+<span id="img_21700"></span> ![ARMS OF ANDREAS.](img/21700.jpg.md)
 
 ### CHAPTER VIII.
 
@@ -40,7 +40,7 @@ The Rosicrucian theorists may be broadly divided into three bands--I.
 Those who believe that the history of Christian Rosencreutz is true in
 fact, and that the society originated in the manner recounted in the
 "Fama Fraternitatis." II. Those who regard both the society and its
-founder as purely mythical, and consider with [Leibnitz](errata.htm#2),
+founder as purely mythical, and consider with [Leibnitz](errata.htm#2.md),
 "*que tout ce que l’on a dit des Frères de la Croix de la Rose, est une
 pure invention de quelque personne ingenieuse*." III. Those who, without
 accepting the historical truth of the story
@@ -82,7 +82,7 @@ philosophy of Horatio, and occultism
 is venerable by its antiquity, interesting from its romantic
 associations, and replete with visionary splendours; but for all this,
 the fiction of the "Fama" is "monstrous, and betrays itself in every
-circumstance." <span id="fr_70"></span>[1](#fn_70)
+circumstance." <span id="fr_70"></span>[1](#fn_70.md)
 
 Suspicion is immediately raised by the suppression of all names, and the
 concealment of the headquarters and all "local habitations" of the
@@ -138,7 +138,7 @@ evidence. Some maintain that the manifestoes were written by Taulerus,
 the author of the German Theologia, an obscure writer not to be
 identified with the author of the Spiritual Letters, "Institutiones
 Divinæ," &c., others by Luther, others again by Wiegel. Joachim
-Junge, <span id="fr_71"></span>[1](#fn_71) the celebrated
+Junge, <span id="fr_71"></span>[1](#fn_71.md) the celebrated
 
 <span id="page_221">p. 221</span>
 
@@ -153,7 +153,7 @@ sciences; "but the rumour spread that this project concealed some evil
 designs, and people went so far as to accuse him of being one of the
 chiefs of the famous order of the Brothers of the Red-Cross, and he was
 forced to renounce a plan whose execution could only have had good
-results for his adopted country." <span id="fr_72"></span>[1](#fn_72) He
+results for his adopted country." <span id="fr_72"></span>[1](#fn_72.md) He
 became rector of the University of Hamburg, and died of apoplexy,
 September 23, 1657. He was the author of "Geometria Empirica,"
 "Harmonica Theoretica," &c., and appears to have been wholly unconnected
@@ -162,7 +162,7 @@ Heidelberg (according to Heidegger, the biographer of Johannes Ludovicus
 Fabricius) being, it is supposed, in the secret, is said to have
 confirmed in conversation the current report that Junge was the founder
 of the Fraternity and the writer of the "Fama Fraternitatis." <span
-id="fr_73"></span>[2](#fn_73) No reference is made to this matter in the
+id="fr_73"></span>[2](#fn_73.md) No reference is made to this matter in the
 "Historia Vitæ et Mortis Joachimi Jungii Mathematici summi ceteraque
 Incomparabilis Philosophi,"
 
@@ -183,9 +183,9 @@ attributes the composition of the Rosicrucian manifestoes to Johann
 Valentin Andreas is supported by an extraordinary mass of evidence,
 which calls for very careful and impartial consideration. This
 interesting and singular personage, who is described by Brucker <span
-id="fr_74"></span>[1](#fn_74) as very learned and of a very elegant
+id="fr_74"></span>[1](#fn_74.md) as very learned and of a very elegant
 genius, whom the "Bibliothèque Universelle" <span
-id="fr_75"></span>[2](#fn_75) considers one of the most useful men which
+id="fr_75"></span>[2](#fn_75.md) considers one of the most useful men which
 Germany produced in the seventeenth century, and whom all authorities
 unite in admiring for his talents and virtues, was a renowned theologian
 of Wirtemberg, and a multifarious *littérateur* not uncelebrated, even
@@ -199,13 +199,13 @@ theologian. His father was the
 pastor of Herrenberg, his mother, Mary Moseria. The delicacy of his
 early years characterised his maturer life, but he was of a shrewd and
 cheerful disposition. He received the rudiments of his education from
-Michael Beumler <span id="fr_76"></span>[1](#fn_76) Subsequently he
+Michael Beumler <span id="fr_76"></span>[1](#fn_76.md) Subsequently he
 pursued his studies at Tubingen, Buhle informs us that, "besides Greek
 and Latin (in which languages he was distinguished for the elegance of
 his style), he made himself master of the French, Italian, and Spanish;
 was well versed in Mathematics, Natural and Civil History, Geography,
 and Historical Genealogy, without at all neglecting his professional
-study of divinity." <span id="fr_77"></span>[2](#fn_77) "I so divided my
+study of divinity." <span id="fr_77"></span>[2](#fn_77.md) "I so divided my
 time," he tells us, "that during the day I devoted myself to instruction
 in the arts; thereto I added long nocturnal studies, passed in the
 reading of various authors, and carried to such an extravagant extent
@@ -215,7 +215,7 @@ horrors of sleeplessness, and weakened the strength of memory."
 He travelled much within the limits of his own country, visited France,
 Switzerland, Italy, including Venice, and twice journeyed into Austria.
 He was married on the second of August 1614, to Agnes Elizabeth,
-daughter of Josua Grüminger. <span id="fr_78"></span>[3](#fn_78) He
+daughter of Josua Grüminger. <span id="fr_78"></span>[3](#fn_78.md) He
 passed through various grades of ecclesiastical dignity, and became
 chaplain to the court at Stuttgart. "Here," says Buhle, "he met with so
 much thwarting and persecution, that, with his infirm constitution of
@@ -247,19 +247,19 @@ of his works, namely, 'Reipublicæ Christianopolitanæ Descriptio';
 1619 and 1620, offer the clearest indications of his project to form a
 secret society. It is impossible not to perceive that he is always
 aiming at something of the kind. Some also appeal to his frequent
-travels as having no other object. <span id="fr_79"></span>[1](#fn_79) A
+travels as having no other object. <span id="fr_79"></span>[1](#fn_79.md) A
 writer in the "Dictionnaire des Sciences Occultes" speaks with even
 greater emphasis. "The works of Andreas, to the number of one hundred,
 preach promiscuously
 
 <span id="page_225">p. 225</span>
 
-the necessity of secret societies," <span id="fr_80"></span>[1](#fn_80)
+the necessity of secret societies," <span id="fr_80"></span>[1](#fn_80.md)
 and Louis Figuier, whose work, entitled "Alchemy and the Alchemists,"
 though it does not betray much original research, represents in a French
 vestment the opinions and arguments of some high German authorities,
 calls Andreas "a fanatical partisan" of the doctrines of
-Paracelsus, <span id="fr_81"></span>[2](#fn_81) declares him to have
+Paracelsus, <span id="fr_81"></span>[2](#fn_81.md) declares him to have
 been fired with the ambition to fulfil certain predictions of his master
 which have been before referred to, and that he took upon himself to
 decide that the "Elias Artista," the robust child, to whom the magician
@@ -292,11 +292,11 @@ extent centres in the "Chymical Marriage of Christian Rosencreutz," and
 since the publication of Seybold's "Autobiographies of Celebrated Men"
 in 1796, and which printed for the first time, albeit in a German
 version, the posthumous autobiography of Johann Valentin Andreas, <span
-id="fr_82"></span>[1](#fn_82) there has been no room for doubt as to its
+id="fr_82"></span>[1](#fn_82.md) there has been no room for doubt as to its
 authorship. There he includes it among his earliest productions, states
 that it was written at the age of fifteen, and that it was one of a
 series of similar juvenilia which, for the most part, had
-perished. <span id="fr_83"></span>[2](#fn_83) Now the "Chymical
+perished. <span id="fr_83"></span>[2](#fn_83.md) Now the "Chymical
 Marriage," having remained several years in manuscript, was printed at
 Strasbourg in 1616. The C. R. C. of the preceding manifestoes was
 immediately identified with the Christian Rosencreutz of the allegorical
@@ -305,7 +305,7 @@ romance, and albeit the first
 <span id="page_227">p. 227</span>
 
 edition of the "Confessio Fraternitatis," and seemingly also of the
-"Fama," <span id="fr_84"></span>[1](#fn_84) do not describe the society
+"Fama," <span id="fr_84"></span>[1](#fn_84.md) do not describe the society
 as that of the Rosie Cross, the edition of 1615, printed at Francfurt,
 calls it the *Bruderschafft des Rosen-Creutzes* and it is, therefore,
 argued that the three works must have originated from a single source.
@@ -582,7 +582,7 @@ Reformation" to Andreas is entirely conjectural.
 VI\. There is nothing conclusive in the statement of Professor Besoldt;
 it may have been simply an expression of personal opinion; those who
 interpret it otherwise in support of the claim of Andreas, to some
-extent base their [interpretation](errata.htm#3) on the very point which
+extent base their [interpretation](errata.htm#3.md) on the very point which
 is in question, for unless Andreas were the author of the manifestoes,
 it is clear that Professor Besoldt is a person of no authority.
 
@@ -826,7 +826,7 @@ inclination to secret societies, became associated with the *Militia
 Crucifera Evangelica*. Out of this connection the "Nuptiæ Chymicæ" might
 naturally spring, and the subsequent Rosicrucian society was the
 *Militia* transfigured after the death of Studion, <span
-id="fr_85"></span>[1](#fn_85) and after the travels and experience
+id="fr_85"></span>[1](#fn_85.md) and after the travels and experience
 
 <span id="page_244">p. 244</span>
 
@@ -850,7 +850,7 @@ be arrived at. There is nothing in the internal character of the "Fama"
 and "Confessio Fraternitatis" to shew that they are a jest. On the other
 hand, they embody a fabulous story. There is no proof that they did or
 did not emanate from a secret society. <span
-id="fr_86"></span>[1](#fn_86) The popular argument that the manifestoes
+id="fr_86"></span>[1](#fn_86.md) The popular argument that the manifestoes
 were addressed to "the learned of Europe," but
 
 <span id="page_245">p. 245</span>
@@ -884,19 +884,19 @@ Rosicrucian Fraternity.
 
 ### Footnotes
 
-<span id="fn_70"></span>[219:1](rhr18.htm#fr_70) De Quincey,
+<span id="fn_70"></span>[219:1](rhr18.htm#fr_70.md) De Quincey,
 "Rosicrucians and Freemasons," c. iii.
 
-<span id="fn_71"></span>[220:1](rhr18.htm#fr_71) This writer is not to
+<span id="fn_71"></span>[220:1](rhr18.htm#fr_71.md) This writer is not to
 be confused with Jung Stilling, whose real name was Johannes Heinrich
 Jung, and who is, perhaps, more celebrated in England for his works on
 Pneumatology than is the rector of Hamburg for his contributions to
 mathematical science.
 
-<span id="fn_72"></span>[221:1](rhr18.htm#fr_72) "Biographie
+<span id="fn_72"></span>[221:1](rhr18.htm#fr_72.md) "Biographie
 Universelle," *s.v.* Joachim Junge.
 
-<span id="fn_73"></span>[221:2](rhr18.htm#fr_73) In the "Acta Eruditorum
+<span id="fn_73"></span>[221:2](rhr18.htm#fr_73.md) In the "Acta Eruditorum
 Lipsiæ," 1698, 4to, p. 172, there is the following passage:--"Natus est
 Jo. Ludovicus Fabricius Scaphulsi, Helvetiorum Pago primario, die 29
 Julii anni seculi hujus trigesimi secundi, patre Jo. Fabricio anno 1630
@@ -908,41 +908,41 @@ auctorem fuisse Jungium, Mathematicam Hamburgi professum, eumque librum,
 cui titulus est Fama Frabium Rosæ Crucis cudisse, pariter ex ore
 Secretarii, rei illius conscii, confirmavit*.
 
-<span id="fn_74"></span>[222:1](rhr18.htm#fr_74) "Brukeri Historia Crit.
+<span id="fn_74"></span>[222:1](rhr18.htm#fr_74.md) "Brukeri Historia Crit.
 Philosophiæ," tome ii., p. 740.
 
-<span id="fn_75"></span>[222:2](rhr18.htm#fr_75) Tome ii., p. 126.
+<span id="fn_75"></span>[222:2](rhr18.htm#fr_75.md) Tome ii., p. 126.
 
-<span id="fn_76"></span>[223:1](rhr18.htm#fr_76) "Primam infantiam
+<span id="fn_76"></span>[223:1](rhr18.htm#fr_76.md) "Primam infantiam
 afflictissimam habui, ardeo est non nisi bimus in pedes primus erigerer,
 quam etiam valetudinis tenuitatem omni vita tolerari, ingenio interim
 sagaci et festivo, ut propinquis et amicis voluptati essem . . . .
 Literarum rudimenta a Michaele Beumlero accessi viro optimo."--"Vita ab
 ipso Conscripts," lib. i.
 
-<span id="fn_77"></span>[223:2](rhr18.htm#fr_77) De Quincey,
+<span id="fn_77"></span>[223:2](rhr18.htm#fr_77.md) De Quincey,
 "Rosicrucians and Freemasons," c. iii.
 
-<span id="fn_78"></span>[223:3](rhr18.htm#fr_78) See [additional notes,
-No. 5](rhr33.htm#an_n05).
+<span id="fn_78"></span>[223:3](rhr18.htm#fr_78.md) See [additional notes,
+No. 5](rhr33.htm#an_n05.md).
 
-<span id="fn_79"></span>[224:1](rhr18.htm#fr_79) "Bibliothèque
+<span id="fn_79"></span>[224:1](rhr18.htm#fr_79.md) "Bibliothèque
 Universelle," tome ii., pp. 126-128.
 
-<span id="fn_80"></span>[225:1](rhr18.htm#fr_80) "Dictionnaire des
+<span id="fn_80"></span>[225:1](rhr18.htm#fr_80.md) "Dictionnaire des
 Sciences Occultes" in the Abbé Migne's "Troisième Encyclopédie
 Théologique," t. i., p. 90.
 
-<span id="fn_81"></span>[225:2](rhr18.htm#fr_81) With the characteristic
+<span id="fn_81"></span>[225:2](rhr18.htm#fr_81.md) With the characteristic
 carelessness of a French reasoner, Figuier stultifies himself on this
 point by stating a few pages subsequently that Andreas was devoid of any
 doctrinal fanaticism. "L’Alchimie et les Alchimistes," pp. 293-29.
 
-<span id="fn_82"></span>[226:1](rhr18.htm#fr_82) The original Latin text
+<span id="fn_82"></span>[226:1](rhr18.htm#fr_82.md) The original Latin text
 was not printed till 1849, when it appeared in octavo at Berlin under
 the editorship of F. H. Rheinwald.
 
-<span id="fn_83"></span>[226:2](rhr18.htm#fr_83) For the information of
+<span id="fn_83"></span>[226:2](rhr18.htm#fr_83.md) For the information of
 students of the Rosicrucian mystery I append the whole passage which
 refers to the juvenile productions of Andreas. "Jam a secundo et tertio
 post millesimum sexcentesimum coeperam aliquid exercendi ingenii ergo
@@ -959,11 +959,11 @@ Judicium astroligicum contra astrologiam, Iter, sed quod dudum
 interierunt, quid iis consignarim, non memini."--Vita Lib., i. p. 10,
 Ed. Rheinwald, 1849.
 
-<span id="fn_84"></span>[227:1](rhr18.htm#fr_84) The title of one of the
+<span id="fn_84"></span>[227:1](rhr18.htm#fr_84.md) The title of one of the
 earliest editions is quoted by Arnold as follows:--"Fama Fraternitatis,
 or Discovery of the Brotherhood of the Worshipful Order of the R. C."
 
-<span id="fn_85"></span>[243:1](rhr18.htm#fr_85) There is one fact which
+<span id="fn_85"></span>[243:1](rhr18.htm#fr_85.md) There is one fact which
 is too remarkable to be a mere coincidence, and which seems to have been
 unnoticed by previous investigators, namely, that Sigmund Richter, who
 claims to speak <span id="page_244">p. 244</span> authoritatively,
@@ -971,7 +971,7 @@ declares in the year 1710 that one of the Rosicrucian headquarters is at
 Nurenberg; that is, at the very place where the *Militia Crucifera
 Evangelica* originally met in 1586.
 
-<span id="fn_86"></span>[244:1](rhr18.htm#fr_86) For the sake of
+<span id="fn_86"></span>[244:1](rhr18.htm#fr_86.md) For the sake of
 perspicuity, and to avoid forestalling arguments, I have spoken
 throughout of the Rosicrucians as of a secret society. In the universal
 uncertainty, this view is as good as another, but it does not
@@ -981,4 +981,4 @@ and "Confessio Fraternitatis."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Progress of Rosicrucianism in Germany](rhr19)
+[Next: Chapter IX. Progress of Rosicrucianism in Germany](rhr19.md)

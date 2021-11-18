@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa08)  [Next](slaa10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa08)  [Next](slaa10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -55,7 +55,7 @@ was known as "Siva," and in the west at nightfall, "Vishnu."
 epic of the Hindus relates that when he was armed for the fight Agni
 gave him a wheel with a thunderbolt nave. This can only mean a wheel
 that shoots out thunderbolts from its nave when it turned." <span
-id="fr_52"></span>[1](#fn_52) The wheel has throughout the ages
+id="fr_52"></span>[1](#fn_52.md) The wheel has throughout the ages
 symbolised the sun.
 
 In Central India, Sun worship still prevails among many of the hill
@@ -133,7 +133,7 @@ east whence comes the sun of which it is a type.
 
 The ancient Sun-God of the Pelasgians, displaced by the later worship of
 Apollo, was Arês. "There can be no question," says Keary, <span
-id="fr_53"></span>[1](#fn_53) "that in prehistoric times the worship of
+id="fr_53"></span>[1](#fn_53.md) "that in prehistoric times the worship of
 Arês was
 
 <span id="page_167">p. 167</span>
@@ -178,7 +178,7 @@ Hades and shine among the dead. He contented himself, however, by
 complaining to Jove, who, acknowledging the justice of his claim for
 vengeance, roused up a mighty storm which well-nigh destroyed the
 miscreants, and completely disabled their ship. Tylor <span
-id="fr_54"></span>[1](#fn_54) tells us that the Greek Sun-God Helios, to
+id="fr_54"></span>[1](#fn_54.md) tells us that the Greek Sun-God Helios, to
 whom horses were sacrificed on the mountain top of Taygetos, was that
 same personal Sun to whom Socrates, when he had stayed rapt in thought
 till daybreak, offered a prayer before he departed. An annual festival
@@ -343,7 +343,7 @@ Apollo.
 In the Homeric hymn to Apollo we read that the Far-Darter took the shape
 of a dolphin, and guided men from Crete to Crissa. "This plunging of the
 god into the water, and his taking the shape of a fish," says
-Keary, <span id="fr_55"></span>[1](#fn_55) "is the setting of the sun,
+Keary, <span id="fr_55"></span>[1](#fn_55.md) "is the setting of the sun,
 and the birth of Apollo in the mid-Ægean is his rising. Both are alike
 parts of the sun's daily journey."
 
@@ -479,7 +479,7 @@ on coins of Cyzicus about 500-450 B.C.
 
 <span class="contnote">\[paragraph continues\]</span> The death of
 Herakles is the most impressive incident of his varied career. "No one,"
-says Keary, <span id="fr_56"></span>[1](#fn_56) "who reads the account
+says Keary, <span id="fr_56"></span>[1](#fn_56.md) "who reads the account
 of it, can fail to be struck by the likeness of the picture to an image
 of the setting sun. . . . The flame of his pyre shines out far over the
 sea, and the sun's last rays shine out in the light of the fiery sky."
@@ -747,7 +747,7 @@ To the Creeks the Sun represented the Great Spirit, toward him they
 directed the first puff of smoke from the calumet, as they sat in solemn
 council, and to him they bowed reverently in their discussions. The
 early Indian tribes of Virginia prostrated themselves before the rising
-and setting Sun and Tylor <span id="fr_57"></span>[1](#fn_57) tells us
+and setting Sun and Tylor <span id="fr_57"></span>[1](#fn_57.md) tells us
 that the Pottawotomies would climb sometimes at sunrise to the roofs of
 their huts to kneel, and offer to the luminary a mess of Indian corn.
 
@@ -800,7 +800,7 @@ your people to light and life.</span>
 
 </div>
 
-Brinton <span id="fr_58"></span>[1](#fn_58) tells us that the Algonquins
+Brinton <span id="fr_58"></span>[1](#fn_58.md) tells us that the Algonquins
 did not regard the Sun as a divinity but merely as a symbol. They called
 the Sun "Wigwam of the Great Spirit," and they prayed not to the Sun but
 to the old man who dwelt in the Sun.
@@ -813,7 +813,7 @@ The Choctaws refer to fire as "the greater chief," and speak of it as
 "he who accompanies the Sun, and the Sun him." In preparing for war they
 invoke the aid of both the Sun and Fire.
 
-The following Ottawa legend <span id="fr_59"></span>[2](#fn_59) is of
+The following Ottawa legend <span id="fr_59"></span>[2](#fn_59.md) is of
 much interest as showing clearly the motives with which savage animists
 offer sacrifices to their deities, and the spirit in which they believe
 the gods accept them:
@@ -899,7 +899,7 @@ tribes especially revolting.
 <span id="page_195">p. 195</span>
 
 A description of the Sun dance of the Sioux follows. <span
-id="fr_60"></span>[1](#fn_60) This is given in much detail as the
+id="fr_60"></span>[1](#fn_60.md) This is given in much detail as the
 subject is of prime importance in any discussion of the solar
 ceremonials of the Indian tribes.
 
@@ -1016,7 +1016,7 @@ Egyptian colonists, as the rites of the Druids conform in a remarkable
 degree with those attached to Sun worship in ancient Egypt. A list of
 the Sun-Gods of the various nations follows, with the authorities that
 establish their respective claims to solar deification. <span
-id="fr_61"></span>[1](#fn_61)
+id="fr_61"></span>[1](#fn_61.md)
 
 <div align="center">
 
@@ -1101,40 +1101,40 @@ interesting and absorbing that the life pages of the race record.
 
 ### Footnotes
 
-<span id="fn_52"></span>[164:1](slaa09.htm#fr_52) *Curiosities of
+<span id="fn_52"></span>[164:1](slaa09.htm#fr_52.md) *Curiosities of
 Folk-Lore*, C. F. Keary.
 
-<span id="fn_53"></span>[166:1](slaa09.htm#fr_53) *Dawn of History*, C.
+<span id="fn_53"></span>[166:1](slaa09.htm#fr_53.md) *Dawn of History*, C.
 F. Keary.
 
-<span id="fn_54"></span>[168:1](slaa09.htm#fr_54) Primitive Culture,
+<span id="fn_54"></span>[168:1](slaa09.htm#fr_54.md) Primitive Culture,
 Edward B. Tylor.
 
-<span id="fn_55"></span>[174:1](slaa09.htm#fr_55) *Outlines of Primitive
+<span id="fn_55"></span>[174:1](slaa09.htm#fr_55.md) *Outlines of Primitive
 Belief*, C. F. Keary.
 
-<span id="fn_56"></span>[179:1](slaa09.htm#fr_56) *Dawn of History*, C.
+<span id="fn_56"></span>[179:1](slaa09.htm#fr_56.md) *Dawn of History*, C.
 F. Keary.
 
-<span id="fn_57"></span>[189:1](slaa09.htm#fr_57) *Primitive Culture*,
+<span id="fn_57"></span>[189:1](slaa09.htm#fr_57.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_58"></span>[191:1](slaa09.htm#fr_58) *Myths of the New
+<span id="fn_58"></span>[191:1](slaa09.htm#fr_58.md) *Myths of the New
 World*, Daniel G. Brinton.
 
-<span id="fn_59"></span>[191:2](slaa09.htm#fr_59) *Primitive Culture*,
+<span id="fn_59"></span>[191:2](slaa09.htm#fr_59.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_60"></span>[195:1](slaa09.htm#fr_60) T F. Schwatka in vol.
+<span id="fn_60"></span>[195:1](slaa09.htm#fr_60.md) T F. Schwatka in vol.
 xvii., *Century Magazine*.
 
-<span id="fn_61"></span>[199:1](slaa09.htm#fr_61) *The Origin of Pagan
+<span id="fn_61"></span>[199:1](slaa09.htm#fr_61.md) *The Origin of Pagan
 Idolatry*, G. S. Faber.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Sun-Catcher Myths](slaa10)
+[Next: Chapter VIII. Sun-Catcher Myths](slaa10.md)
 
 </div>

@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,17 +40,17 @@ IS DEDICATED.
 
  
 
-[PREFACE](preface)
+[PREFACE](preface.md)
 
  
 
 **CONTENTS.**
 
-[CHAPTER I.](chap01)
+[CHAPTER I.](chap01.md)
 
 > ANCIENT GRECIAN NOODLES . . . 1-15
 
-[CHAPTER II.](chap02)
+[CHAPTER II.](chap02.md)
 
 > GOTHAMITE DROLLERIES:
 >
@@ -66,7 +66,7 @@ IS DEDICATED.
 > Gotham--The "boiling" river--The moon a green cheese--The "carles of
 > Austwick"--The Wiltshire farmer and his pigs . . . 16-55
 
-[CHAPTER III.](chap03)
+[CHAPTER III.](chap03.md)
 
 > GOTHAMITE DROLLERIES (*continued*):
 >
@@ -77,7 +77,7 @@ IS DEDICATED.
 > and the man of Hums--*Bizarrures* of the Sieur Gaulard--The rustic and
 > the dog . . . 56-80
 
-[CHAPTER IV.](chap04)
+[CHAPTER IV.](chap04.md)
 
 > GOTHAMITE DROLLERIES (*continued*):
 >
@@ -95,7 +95,7 @@ IS DEDICATED.
 > moralised--The brothers and their heritage--Sowing roasted sesame . .
 > . 81-120
 
-[CHAPTER V.](chap05)
+[CHAPTER V.](chap05.md)
 
 > THE SILLY SON:
 >
@@ -108,25 +108,25 @@ IS DEDICATED.
 > Indian silly son as a fisher; as a messenger; killing a mosquito; as a
 > pupil--The best of the family--The doctor's apprentice . . . 121-170
 
-[CHAPTER VI.](chap06)
+[CHAPTER VI.](chap06.md)
 
 > THE FOUR SIMPLE BRÁHMANS:
 >
 > |                             |                         |
 > |:----------------------------|------------------------:|
-> | Introduction                | [171](chap06.htm#p.171) |
-> | Story of the first Brahman  | [176](chap06.htm#p.176) |
-> | Story of the second Brahman | [178](chap06.htm#p.178) |
-> | Story of the third Brahman  | [181](chap06.htm#p.181) |
-> | Story of the fourth Brahman | [185](chap06.htm#p.185) |
-> | Conclusion                  | [190](chap06.htm#p.190) |
+> | Introduction                | [171](chap06.htm#p.171.md) |
+> | Story of the first Brahman  | [176](chap06.htm#p.176.md) |
+> | Story of the second Brahman | [178](chap06.htm#p.178.md) |
+> | Story of the third Brahman  | [181](chap06.htm#p.181.md) |
+> | Story of the fourth Brahman | [185](chap06.htm#p.185.md) |
+> | Conclusion                  | [190](chap06.htm#p.190.md) |
 
-[CHAPTER VII.](chap07)
+[CHAPTER VII.](chap07.md)
 
 > THE THREE GREAT NOODLES . . 191-218
 
-[APPENDIX.](appendix)
+[APPENDIX.](appendix.md)
 
 > JACK OF DOVER'S QUEST OF THE FOOL OF ALL FOOLS ...... 219
 >
-> [INDEX](chindex) . . . . . 225
+> [INDEX](chindex.md) . . . . . 225

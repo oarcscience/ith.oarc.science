@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf01)  [Next](taf03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf01)  [Next](taf03.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ LA SALLE, ILL., May, 1900.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](taf03)
+[Next: Table of Contents](taf03.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](hgg02)  [Next](hgg04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](hgg02)  [Next](hgg04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -116,7 +116,7 @@ day.
 R. Zutra bar Tobiah in the name of Rabh said: By ten things the world
 was created: by wisdom and by understanding; by knowledge and by
 strength; by rebuke and by might; by righteousness and by judgment; by
-mercy and by compassion. <span id="fr_10"></span>[1](#fn_10) R. Jehudah
+mercy and by compassion. <span id="fr_10"></span>[1](#fn_10.md) R. Jehudah
 in the name of Rabh said: At the time that the Holy One, blessed be He,
 created the world it went spreading on like two clews of shoot and warp,
 until the Holy One, blessed be He, rebuked it and brought it to a
@@ -170,7 +170,7 @@ There is a Boraitha of R. Jose which says: Woe to the creatures which
 see and know not what they see, which stand and know not upon what they
 stand. Upon what does the earth stand? Upon the pillars. The pillars
 stand upon the waters; the waters upon the mountains; the mountains upon
-the wind; the wind upon the storm; <span id="fr_11"></span>[1](#fn_11)
+the wind; the wind upon the storm; <span id="fr_11"></span>[1](#fn_11.md)
 the storm is suspended upon the strength of the Holy One, blessed be He,
 as it is written \[Deut. Xxxiii. 27\]: "And here beneath, the
 everlasting arms." The sages say: It stands upon twelve pillars, as it
@@ -405,16 +405,16 @@ counsellor"--one who knows how to intercalate years and to fix months.
 "And the skilful"--this is the disciple who, by his keenness, sharpens
 the minds of his teachers. "Artificer"--at the time he is unfolding the
 words of the Law all are made like deaf men. <span
-id="fr_12"></span>[1](#fn_12) "And the eloquent"--this is he who, having
+id="fr_12"></span>[1](#fn_12.md) "And the eloquent"--this is he who, having
 knowledge of one thing, can derive therefrom knowledge of another
-thing. <span id="fr_13"></span>[2](#fn_13) "Orator"--this is he to whom
+thing. <span id="fr_13"></span>[2](#fn_13.md) "Orator"--this is he to whom
 it is fitting to impart the words of the Law, which is given in a
 whisper (*e.g.*, the subject of the divine chariot. See page
-[21](#page_21)). "And I will set up boys as their princes"--that is, as
+[21](#page_21).md). "And I will set up boys as their princes"--that is, as
 R. Elazar said: These are men who are deprived of good works. <span
-id="fr_14"></span>[3](#fn_14) "And children shall rule over them"--as R.
+id="fr_14"></span>[3](#fn_14.md) "And children shall rule over them"--as R.
 A'ha bar Jacob said: These are foxes and sons of foxes. <span
-id="fr_15"></span>[4](#fn_15) And he was not satisfied until he had said
+id="fr_15"></span>[4](#fn_15.md) And he was not satisfied until he had said
 to them: "The boy shall demean himself proudly against the ancient,"
 etc. \[ibid., ibid.\]--these are the men who are deprived of good works.
 They shall demean themselves proudly against the one who is filled with
@@ -495,19 +495,19 @@ whom others did not teach? And still he was mentioned? Yea, for he
 taught at least in the presence of one who taught others.
 
 The rabbis taught: Four men went up into the heavenly garden, <span
-id="fr_16"></span>[1](#fn_16) and they were: Ben Azzai and Ben Zoma,
+id="fr_16"></span>[1](#fn_16.md) and they were: Ben Azzai and Ben Zoma,
 A'her and R. Aqiba. Ben Azzai gazed and died; <span
-id="fr_17"></span>[2](#fn_17) to him the scriptural passage may be
+id="fr_17"></span>[2](#fn_17.md) to him the scriptural passage may be
 applied \[Ps. cxvi. 15\]: "Grievous in the eyes of the Lord is the death
 of his pious ones." Ben Zoma gazed and went mad; to him the scriptural
 passage may be applied \[Prov. xxv. 16\] Hast thou found honey? eat so
 much as is sufficient for thee, lest thou consume too much of it, and
 have to vomit it forth." A'her cut the plants. <span
-id="fr_18"></span>[3](#fn_18) R. Aqiba departed
+id="fr_18"></span>[3](#fn_18.md) R. Aqiba departed
 
 <span id="page_33">p. 33</span>
 
-in peace. <span id="fr_19"></span>[1](#fn_19) A'her cut the plants; it
+in peace. <span id="fr_19"></span>[1](#fn_19.md) A'her cut the plants; it
 is to him that the scriptural passage may be applied \[Eccl. v. 6\]:
 "Suffer not thy mouth to cause thy body to sin." There came out a
 heavenly voice and said \[Jer. iii. 14\]: "Return, O backsliding
@@ -564,7 +564,7 @@ Repeat for me thy verse. He said to him \[Ps. i. 16\]: "But unto the
 wicked God saith: What hast thou to do to relate my statutes, and why
 bearest thou my covenant upon thy mouth?" That child was a stammerer. It
 sounded as if he had said: "And to Elisha said God," etc. <span
-id="fr_20"></span>[1](#fn_20) And he said: If there had been a knife in
+id="fr_20"></span>[1](#fn_20.md) And he said: If there had been a knife in
 my hand I would have cut him in pieces.
 
 When A'her died it was said: Let him not be brought into judgment
@@ -656,7 +656,7 @@ It was said about A'her: Greek melody ceased not from his mouth, as it
 was said of him (A'her), that at the time when he stood up to go out of
 the college many books of the Minim used to fall from his lap.
 
-Nimus of Gardi <span id="fr_21"></span>[1](#fn_21) asked R. Meir: Does
+Nimus of Gardi <span id="fr_21"></span>[1](#fn_21.md) asked R. Meir: Does
 all wool which goes down to the dyeing-vat come up with the right color?
 He answered him: All which was clean on its mother's (sheep's) back does
 so come up; all which was not clean on its mother's back does not so
@@ -711,7 +711,7 @@ it is written \[Ezek. i. 28\]: "Like the appearance of the bow that is
 in the cloud on the day of rain . . . this was the appearance of the
 likeness of the glory of the Lord." Upon the prince, for it is written
 \[Num. xxvii. 20\]: "And thou shalt put some of thy greatness upon
-him." <span id="fr_22"></span>[1](#fn_22) He that gazeth upon the
+him." <span id="fr_22"></span>[1](#fn_22.md) He that gazeth upon the
 priests--this has to do with the time that the Temple was in existence,
 when they stood upon their platform and blessed Israel in the ineffable
 name.
@@ -724,7 +724,7 @@ The same lectured again in the name of the same authority:
 \[Mic. vii. 5\]: "Trust ye not in a friend, put ye not confidence in a
 confidant." It means, if the evil imagination say to thee, Do thou sin
 and the Lord will forgive, be not persuaded, as it is written: "Trust ye
-not in an evil one"; <span id="fr_23"></span>[1](#fn_23) and "an evil
+not in an evil one"; <span id="fr_23"></span>[1](#fn_23.md) and "an evil
 one" is nothing but the evil imagination, as it is written \[Gen. viii.
 21\]: "The imagination of a man's heart is evil"; and there is no
 "guide" but the Lord, as it is written \[Jer. iii. 4\]: "My father, the
@@ -777,7 +777,7 @@ to those who say that they differ not as to the rabbinical prohibition,
 but as to the laying on of the hand itself, because they maintain that
 the laying on of the hand is necessary only in case of a voluntary
 peace-offering, but not in that of an obligatory peace-offering. <span
-id="fr_24"></span>[1](#fn_24)
+id="fr_24"></span>[1](#fn_24.md)
 
 Said Rami bar Hama: Infer from this that the laying on of the hands must
 be with all one's strength, because if we would imagine that all the
@@ -962,73 +962,73 @@ rabbis.
 
 ### Footnotes
 
-<span id="fn_10"></span>[23:1](hgg03.htm#fr_10) All these are deduced
+<span id="fn_10"></span>[23:1](hgg03.htm#fr_10.md) All these are deduced
 from passages. See foot-note further on.
 
-<span id="fn_11"></span>[24:1](hgg03.htm#fr_11) There are here adduced
+<span id="fn_11"></span>[24:1](hgg03.htm#fr_11.md) There are here adduced
 biblical passages for every statement, but we omitted them, as they are
 not in point.
 
-<span id="fn_12"></span>[30:1](hgg03.htm#fr_12) The Hebrew term is
+<span id="fn_12"></span>[30:1](hgg03.htm#fr_12.md) The Hebrew term is
 ‏חרשים‎, and is explained to have the same meaning as הֵרֵש, a deaf man.
 
-<span id="fn_13"></span>[30:2](hgg03.htm#fr_13) The Hebrew terms are
+<span id="fn_13"></span>[30:2](hgg03.htm#fr_13.md) The Hebrew terms are
 ‏נבון לחש‎, the literal meaning of which is "the instructed whisperer,"
 but we give in the text Loesser's translation.
 
-<span id="fn_14"></span>[30:3](hgg03.htm#fr_14) The Hebrew term is
+<span id="fn_14"></span>[30:3](hgg03.htm#fr_14.md) The Hebrew term is
 ‏נערים‎, which means also "to shake off, to be deprived," as in (Judges
 xvi. 20) ‏וִאִנָעֵר‎.
 
-<span id="fn_15"></span>[30:4](hgg03.htm#fr_15) The Hebrew term is
+<span id="fn_15"></span>[30:4](hgg03.htm#fr_15.md) The Hebrew term is
 ‏תעלולים‎ and is interpreted here as derived from the Aramaic ‏תעל‎, a
 fox; *i.e.*, men who are shrewd as a fox, but deprived of any good
 qualifications.
 
-<span id="fn_16"></span>[32:1](hgg03.htm#fr_16) The Hebrew term is
+<span id="fn_16"></span>[32:1](hgg03.htm#fr_16.md) The Hebrew term is
 *Pardes*, meaning "a garden"; the commentaries explain it to mean
 "heavenly." Tosaphoth states: "They did not go up literally, but
 appeared to them as if they went up." See Streane's "Hagigah," p. 83.
 
-<span id="fn_17"></span>[32:2](hgg03.htm#fr_17) In the Palestinian
+<span id="fn_17"></span>[32:2](hgg03.htm#fr_17.md) In the Palestinian
 Talmud it reads: Ben Zoma gazed and died, Ben Azzai gazed and was
 injured. This seems to be the more correct, as can be seen many other
 places in the Babylonian Talmud and Tosephtha. See our "Eben Harosha,"
 at the end.
 
-<span id="fn_18"></span>[32:3](hgg03.htm#fr_18) These terms are used
+<span id="fn_18"></span>[32:3](hgg03.htm#fr_18.md) These terms are used
 because he speaks of a garden; *i.e.*, in some way made bad use of his
 learning.
 
-<span id="fn_19"></span>[33:1](hgg03.htm#fr_19) We have omitted here a
+<span id="fn_19"></span>[33:1](hgg03.htm#fr_19.md) We have omitted here a
 question put to Ben Zoma, for the reason that the same was inserted in
 the Talmud not by the Talmudists. See our "Eben Sapir," p. 50.
 
-<span id="fn_20"></span>[34:1](hgg03.htm#fr_20) The Hebrew term is
+<span id="fn_20"></span>[34:1](hgg03.htm#fr_20.md) The Hebrew term is
 "Ul'rosha" ("to the wicked"), and because of the stammering it sounded
 as "Ul'Elisha," which was the true name of ‏אחר‎ this latter meaning
 "another"--*i.e.*, not Elisha, because it was not believed that the
 great Tana Elisha should have deserted the true teachings.
 
-<span id="fn_21"></span>[36:1](hgg03.htm#fr_21) Nimus of Gardi was a
+<span id="fn_21"></span>[36:1](hgg03.htm#fr_21.md) Nimus of Gardi was a
 Gentile, and it is stated of him in Midrash that he was one of the
 greatest men that ever lived among the nations. The modern writers
 differ very much as to who he was, but we showed in our "Saneiger," p.
 193, that he was one of the judges of the Supreme Criminal Courts of
 Gardum.
 
-<span id="fn_22"></span>[37:1](hgg03.htm#fr_22) Such hagadical
+<span id="fn_22"></span>[37:1](hgg03.htm#fr_22.md) Such hagadical
 statements must not be taken literally, merely in their allegorical
 sense. Some of them we will explain in our introduction to the Hagadah.
 
-<span id="fn_23"></span>[38:1](hgg03.htm#fr_23) The Hebrew term is
+<span id="fn_23"></span>[38:1](hgg03.htm#fr_23.md) The Hebrew term is
 ‏רֵעַ‎, which is here read as ‏רַע‎, "evil."
 
-<span id="fn_24"></span>[39:1](hgg03.htm#fr_24) What is a voluntary and
+<span id="fn_24"></span>[39:1](hgg03.htm#fr_24.md) What is a voluntary and
 what is an obligatory peace-offering will be explained in Tract
 Mena'hoth.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III: In What Cases Sacred Things Are More Rigorous Than
-Heave-Offerings, And Vice Versa](hgg04)
+Heave-Offerings, And Vice Versa](hgg04.md)

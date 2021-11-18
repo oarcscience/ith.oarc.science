@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl14)  [Next](mhl16) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl14)  [Next](mhl16.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ portion, the argument of the wise men.
 
 ------------------------------------------------------------------------
 
-[Next: The Book Cusari](mhl16)
+[Next: The Book Cusari](mhl16.md)

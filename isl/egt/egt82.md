@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt81)  [Next](egt83) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt81)  [Next](egt83.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ Gabriel's self cracks the whip.
 
 ------------------------------------------------------------------------
 
-[Next: ON HIS DECREE AND ORDINANCE AND HIS CREATIVE POWER.](egt83)
+[Next: ON HIS DECREE AND ORDINANCE AND HIS CREATIVE POWER.](egt83.md)

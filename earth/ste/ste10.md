@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste09)  [Next](ste11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste09)  [Next](ste11.md) 
 
 ------------------------------------------------------------------------
 
@@ -417,7 +417,7 @@ the first disposition of the waters as they were before the Flood, for
 their proud waves broke those bounds, whatsoever they were, when they
 overflow’d the Earth in the Deluge. And that the womb which they broke
 out of was the great Abysse, The *Chaldee* Paraphrase <span
-id="fr_5"></span>[1](#fn_5) in this place doth expressly mention; and
+id="fr_5"></span>[1](#fn_5.md) in this place doth expressly mention; and
 what can be understood by the womb of the Earth, but that Subterraneous
 capacity in which the Abysse lay? Then that which followeth, is a
 description or representation of the great Deluge that ensu’d, and of
@@ -637,8 +637,8 @@ Flood.
 
 ### Footnotes
 
-<span id="fn_5"></span>[78:1](ste10.htm#fr_5) תהומָה מן
+<span id="fn_5"></span>[78:1](ste10.htm#fr_5.md) תהומָה מן
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII.](ste11)
+[Next: Chapter VIII.](ste11.md)

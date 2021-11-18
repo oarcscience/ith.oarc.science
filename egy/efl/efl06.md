@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](efl05)  [Next](efl07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](efl05)  [Next](efl07.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ of the wicked in hell,
 <span id="page_138">p. 138</span>
 
 as we may see from the following extract from the life of
-Pisentios, <span id="fr_81"></span>[1](#fn_81) Bishop of Keft, in the
+Pisentios, <span id="fr_81"></span>[1](#fn_81.md) Bishop of Keft, in the
 VIIth century of our era. The holy man had taken refuge in a tomb
 wherein a number of mummies had been piled up, and when be had read the
 list of the names of the people who had been buried there he gave it to
@@ -148,7 +148,7 @@ the reign of Men-kau-Râ, the Mycerinus of the Greeks, about B.C. 3600, a
 religious text, which afterwards formed chapter 30B of the Book of the
 Dead, was found inscribed on an iron slab, in the handwriting of the god
 Thoth, by the royal son or prince Herutâtâf. <span
-id="fr_82"></span>[1](#fn_82) The original purpose of the composition
+id="fr_82"></span>[1](#fn_82.md) The original purpose of the composition
 
 <span id="page_142">p. 142</span>
 
@@ -186,7 +186,7 @@ naught stand up to oppose me in judgment in the presence of the lords of
 the trial (literally, 'lords of things'); let it not be said of me and
 of that which I have done, 'He hath done deeds against that which is
 very right and true'; may naught be against me in the presence of the
-Great God, the Lord of Amentet." <span id="fr_83"></span>[1](#fn_83)
+Great God, the Lord of Amentet." <span id="fr_83"></span>[1](#fn_83.md)
 From these passages we are right in assuming that before the end of the
 IVth dynasty the idea of being "weighed in the balance" was already
 evolved; that the religious schools of Egypt had assigned to a god the
@@ -241,8 +241,8 @@ mention whatever is made of the Lord of Amentet--Osiris.
 Before we pass to the consideration of the manner in which the judgment
 is depicted upon the finest examples of the illustrated papyri,
 reference must be made to an interesting vignette in the papyri of
-Nebseni <span id="fr_84"></span>[1](#fn_84) and Amen-neb. <span
-id="fr_85"></span>[2](#fn_85) In both of these papyri we see a figure of
+Nebseni <span id="fr_84"></span>[1](#fn_84.md) and Amen-neb. <span
+id="fr_85"></span>[2](#fn_85.md) In both of these papyri we see a figure of
 the deceased himself being weighed in the balance against his own heart
 in the presence of the god Osiris. It seems probable that a belief was
 current at one time in ancient Egypt concerning the possibility of the
@@ -271,7 +271,7 @@ known of the Judgment Scene is not older than the XVIIIth dynasty. In
 the oldest Theban papyri of the Book of the Dead no Judgement Scene is
 forthcoming and when we find it wanting in such authoritative documents
 as the Papyrus of Nebseni and that of Nu, <span
-id="fr_86"></span>[1](#fn_86) we must take it for granted that there was
+id="fr_86"></span>[1](#fn_86.md) we must take it for granted that there was
 some reason for its omission. In the great illustrated papyri in which
 the Judgment Scene is given in full, it will be noticed that it comes at
 the
@@ -280,9 +280,9 @@ the
 
 beginning of the work, and that it is preceded by hymns and by a
 vignette. Thus, in the Papyrus of Ani, <span
-id="fr_87"></span>[1](#fn_87) we have a hymn to Râ, followed by a
+id="fr_87"></span>[1](#fn_87.md) we have a hymn to Râ, followed by a
 vignette representing the sunrise, and a hymn to Osiris; and in the
-Papyrus of Hunefer, <span id="fr_88"></span>[2](#fn_88) though the hymns
+Papyrus of Hunefer, <span id="fr_88"></span>[2](#fn_88.md) though the hymns
 are different, the arrangement is the same. We are justified, then, in
 assuming that the hymns and the Judgment Scene together formed an
 introductory section to the Book of the Dead, and it is possible that it
@@ -294,26 +294,26 @@ accompany the Judgment Scene are fine examples of a high class of
 devotional compositions, a few translations from some of them are here
 given.
 
-HYMN TO RÂ. <span id="fr_89"></span>[3](#fn_89)
+HYMN TO RÂ. <span id="fr_89"></span>[3](#fn_89.md)
 
 Homage to thee, O thou who risest in Nu, <span
-id="fr_90"></span>[4](#fn_90) and who at thy manifestation dost make the
+id="fr_90"></span>[4](#fn_90.md) and who at thy manifestation dost make the
 world bright with light; the whole company of the gods sing hymns of
 praise unto thee after thou hast come forth.
 
 <span id="page_148">p. 148</span>
 
-The divine Merti <span id="fr_91"></span>[1](#fn_91) goddesses who
+The divine Merti <span id="fr_91"></span>[1](#fn_91.md) goddesses who
 minister unto thee cherish thee as King of the North and South, thou
 beautiful and beloved Man-child. When thou risest men and women live.
 The nations rejoice in thee, and the Souls of Annu <span
-id="fr_92"></span>[2](#fn_92) (Heliopolis) sing unto thee songs of joy.
-The Souls of the city of Pe, <span id="fr_93"></span>[3](#fn_93) and the
-Souls of the city of Nekhen <span id="fr_94"></span>[4](#fn_94) exalt
+id="fr_92"></span>[2](#fn_92) (Heliopolis.md) sing unto thee songs of joy.
+The Souls of the city of Pe, <span id="fr_93"></span>[3](#fn_93.md) and the
+Souls of the city of Nekhen <span id="fr_94"></span>[4](#fn_94.md) exalt
 thee, the apes of dawn adore thee, and all beasts and cattle praise thee
 with one accord. The goddess Seba overthroweth thine enemies, therefore
 hast thou rejoicing in thy boat; thy mariners are content thereat. Thou
-hast attained unto the Âtet boat, <span id="fr_95"></span>[5](#fn_95)
+hast attained unto the Âtet boat, <span id="fr_95"></span>[5](#fn_95.md)
 and thy heart swelleth with joy. O lord of the gods, when thou didst
 create them they shouted for joy. The azure goddess Nut doth compass
 thee on every side, and the god Nu floodeth thee with his rays of light.
@@ -331,13 +331,13 @@ thou dost set thyself in the place where thou wast yesterday. O thou
 divine Child, who didst create thyself, I am not able \[to describe\]
 thee. Thou hast come with thy risings, and thou hast made heaven and
 earth resplendent with thy rays of pure emerald light. The land of
-Punt <span id="fr_96"></span>[1](#fn_96) is stablished \[to give\] the
+Punt <span id="fr_96"></span>[1](#fn_96.md) is stablished \[to give\] the
 perfumes which thou smellest with thy nostrils. Thou risest, O
 marvellous Being, in heaven, and the two serpent-goddesses, Merti, are
 stablished upon thy brow. Thou art the giver of laws, O thou lord of the
 world and of all the inhabitants thereof; all the gods adore thee."
 
-HYMN TO OSIRIS. <span id="fr_97"></span>[2](#fn_97)
+HYMN TO OSIRIS. <span id="fr_97"></span>[2](#fn_97.md)
 
 Glory be to thee, O Osiris Un-nefer, the great god within Abydos, king
 of eternity and lord of everlastingness, the god who passest through
@@ -347,14 +347,14 @@ the lord of the Crowns of the North and of the South, and of the lofty
 white crown. As Prince of the gods and of men thou hast received the
 crook, and the whip, and the dignity of thy divine fathers. Let thy
 heart which is in the mountain of Ament <span
-id="fr_98"></span>[3](#fn_98) be content, for thy son Horus is
+id="fr_98"></span>[3](#fn_98.md) be content, for thy son Horus is
 stablished upon thy throne. Thou art crowned the lord of Tattu (Mandes)
 and ruler
 
 <span id="page_150">p. 150</span>
 
 in Abtu (Abydos). Through thee the world waxeth green in triumph before
-the might of Neb-er-tcher. <span id="fr_99"></span>[1](#fn_99) Thou
+the might of Neb-er-tcher. <span id="fr_99"></span>[1](#fn_99.md) Thou
 leadest in thy train that which is, and that which is not yet, in thy
 name of 'Ta-her-sta-nef;' thou towest along the earth in thy name of
 'Seker;' thou art exceedingly mighty and most terrible in thy name of
@@ -374,12 +374,12 @@ enter in and come forth from the pylons of the lands of the underworld
 without let or hindrance. May loaves of bread be given unto me in the
 house of coolness, and offerings of food and drink in Annu (Heliopolis),
 and a homestead for ever and for ever in the Field of Reeds <span
-id="fr_100"></span>[2](#fn_100) with wheat and barley therefor."
+id="fr_100"></span>[2](#fn_100.md) with wheat and barley therefor."
 
 <span id="page_151">p. 151</span>
 
 In the long and important hymn in the Papyrus of Hunefer <span
-id="fr_101"></span>[1](#fn_101) occurs the following petition, which is
+id="fr_101"></span>[1](#fn_101.md) occurs the following petition, which is
 put into the mouth of the deceased:--
 
 "Grant that I may follow in the train of thy Majesty even as I did upon
@@ -405,7 +405,7 @@ into the Hall of Maâti, that he may be separated from every sin which
 <span id="page_152">p. 152</span>
 
 he hath done, and may behold the faces of the gods." <span
-id="fr_102"></span>[1](#fn_102) From the earliest times the Maâti were
+id="fr_102"></span>[1](#fn_102.md) From the earliest times the Maâti were
 the two goddesses Isis and Nephthys, and they were so called because
 they represented the ideas of straightness, integrity, righteousness,
 what is right, the truth, and such like; the word Maât originally meant
@@ -439,9 +439,9 @@ pure; I am pure. My purity is the purity of the great Bennu which is in
 the city of Suten-henen (Heracleopolis), for, behold, I am the nostrils
 of the God of breath, who maketh all mankind to live on the day when the
 Eye of Râ, is full in Annu (Heliopolis) at the end of the second month
-of the season PERT. <span id="fr_103"></span>[1](#fn_103) I have seen
+of the season PERT. <span id="fr_103"></span>[1](#fn_103.md) I have seen
 the Eye of Râ when it was full in Annu; <span
-id="fr_104"></span>[2](#fn_104) therefore let not evil befall me either
+id="fr_104"></span>[2](#fn_104.md) therefore let not evil befall me either
 in this land or in this Hall of Maâti, because I, even I, know the names
 of the gods who are therein."
 
@@ -514,13 +514,13 @@ description of the Hall of Judgment where the balance is set, it is
 necessary to give a rendering of the Negative Confession which,
 presumably, the deceased recites before his heart is weighed in the
 balance; it is made from the Papyrus of Nu. <span
-id="fr_105"></span>[1](#fn_105)
+id="fr_105"></span>[1](#fn_105.md)
 
 1\. "Hail Usekh-nemtet (*i.e.*, Long of strides), who comest forth from
 Annu (Heliopolis), I have not done iniquity.
 
 2\. "Hail Hept-seshet (*i.e.*, Embraced by flame), who comest forth from
-Kher-âba, <span id="fr_106"></span>[2](#fn_106) I have not robbed with
+Kher-âba, <span id="fr_106"></span>[2](#fn_106.md) I have not robbed with
 violence.
 
 3\. "Hail Fenti (*i.e.*, Nose), who comest forth from Khemennu
@@ -601,7 +601,7 @@ man to be afraid.
 
 25\. "Hail Neb-Sekhem, who comest forth from the Lake of Kaui, I have
 not made my speech to burn with anger. <span
-id="fr_107"></span>[1](#fn_107)
+id="fr_107"></span>[1](#fn_107.md)
 
 <span id="page_159">p. 159</span>
 
@@ -620,7 +620,7 @@ forth from Sau, I have not acted with violence.
 
 30\. "Hail Ser-kheru (*i.e.*, Disposer of Speech), who comest forth from
 Unsi, I have not hastened my heart. <span
-id="fr_108"></span>[1](#fn_108)
+id="fr_108"></span>[1](#fn_108.md)
 
 31\. "Hail Neb-hrau (*i.e.*, Lord of Faces), who comest forth from
 Netchefet, I have not pierced (?) my skin (?) and I have not taken
@@ -650,7 +650,7 @@ against God.
 not behaved with insolence.
 
 39\. "Hail Neheb-nefert, who comest forth from his temple, I have not
-made distinctions. <span id="fr_109"></span>[1](#fn_109)
+made distinctions. <span id="fr_109"></span>[1](#fn_109.md)
 
 40\. "Hail Neheb-kau, who comest forth from thy cavern, I have not
 increased my wealth except by means of such things as are mine own
@@ -711,15 +711,15 @@ sometimes by the head of a jackal, the animal sacred to Anubis; and
 sometimes by the head of an ibis, the bird sacred to Thoth; in the
 Papyrus of Ani a dog-headed ape, the associate of Thoth, sits on the top
 of the standard. In some papyri (*e.g.*, those of Ani <span
-id="fr_110"></span>[1](#fn_110) and Hunefer <span
-id="fr_111"></span>[2](#fn_111)), in addition to Osiris, the king of the
+id="fr_110"></span>[1](#fn_110.md) and Hunefer <span
+id="fr_111"></span>[2](#fn_111).md), in addition to Osiris, the king of the
 underworld and judge of the dead, the gods of his cycle or company
 appear as witnesses of the judgment. In the Papyrus of the priestess
-Anhai <span id="fr_112"></span>[3](#fn_112) in the British Museum the
+Anhai <span id="fr_112"></span>[3](#fn_112.md) in the British Museum the
 great and the little companies of the gods appear as witnesses, but the
 artist was so careless that instead of nine gods in each group he
 painted six in one and five in the other. In the Turin papyrus <span
-id="fr_113"></span>[4](#fn_113) we see the whole of the forty-two gods,
+id="fr_113"></span>[4](#fn_113.md) we see the whole of the forty-two gods,
 to whom the deceased recited the
 
 <span id="page_163">p. 163</span>
@@ -837,7 +837,7 @@ him and said, "A king who shall have dominion over the whole
 <span id="page_168">p. 168</span>
 
 land," and the god Khnemu bestowest health upon his limbs. <span
-id="fr_114"></span>[1](#fn_114) Of these five gods, Isis, Nephthys,
+id="fr_114"></span>[1](#fn_114.md) Of these five gods, Isis, Nephthys,
 Meskhenet, Heqet, and Khnemu, the first three are present at the
 judgment of Ani; Khnemu is mentioned in Ani's address to his heart (see
 below), and only Heqet is unrepresented.
@@ -882,7 +882,7 @@ sinned, neither hath he done evil against us. The Devourer Âm-mit shall
 not be allowed to prevail over him, and meat-offerings and entrance into
 the presence of the god Osiris shall be granted unto him, together with
 a homestead for ever in the Field of Peace, as unto the followers of
-Horus." <span id="fr_115"></span>[1](#fn_115)
+Horus." <span id="fr_115"></span>[1](#fn_115.md)
 
 <span id="page_170">p. 170</span>
 
@@ -1003,7 +1003,7 @@ and that I may be an Osiris greatly favoured of the beautiful god and
 
 beloved of the Lord of the world, \[I\], the royal scribe of Maât, who
 loveth him, Ani, triumphant before Osiris." <span
-id="fr_116"></span>[1](#fn_116) Thus we come to the end of the scene of
+id="fr_116"></span>[1](#fn_116.md) Thus we come to the end of the scene of
 the weighing of the heart.
 
 The man who has passed safely through this ordeal has now to meet the
@@ -1030,7 +1030,7 @@ goddesses, who are without evil in your
 bodies, and who live upon right and truth, and who feed yourselves upon
 right and truth in the presence of the god Horus, who dwelleth in his
 divine Disk; deliver ye me from the god Baba <span
-id="fr_117"></span>[1](#fn_117) who feedeth upon the entrails of the
+id="fr_117"></span>[1](#fn_117.md) who feedeth upon the entrails of the
 mighty ones upon the day of the great reckoning. O grant ye that I may
 come to you, for I have not committed faults, I have not sinned, I have
 not done evil, I have not borne false witness; therefore let nothing
@@ -1046,7 +1046,7 @@ against me in the presence of \[Osiris\]. I am clean of mouth and clean
 of hands; therefore let it be said unto me by those who shall behold me,
 'Come in peace, come in peace.' I have heard the mighty word which the
 spiritual bodies spake unto the Cat <span
-id="fr_118"></span>[2](#fn_118) in the house
+id="fr_118"></span>[2](#fn_118.md) in the house
 
 <span id="page_178">p. 178</span>
 
@@ -1203,120 +1203,120 @@ rule of Râ. and Osiris.
 
 ### Footnotes
 
-<span id="fn_81"></span>[138:1](efl06.htm#fr_81) Ed. Amélineau, Paris,
+<span id="fn_81"></span>[138:1](efl06.htm#fr_81.md) Ed. Amélineau, Paris,
 1887, p. 144 f.
 
-<span id="fn_82"></span>[141:1](efl06.htm#fr_82) See *Chapters of Coming
+<span id="fn_82"></span>[141:1](efl06.htm#fr_82.md) See *Chapters of Coming
 Forth by Day*, Translation, p. 80.
 
-<span id="fn_83"></span>[143:1](efl06.htm#fr_83) *Chapters of Coming
+<span id="fn_83"></span>[143:1](efl06.htm#fr_83.md) *Chapters of Coming
 Forth by Day*, p. 78.
 
-<span id="fn_84"></span>[145:1](efl06.htm#fr_84) British Museum, No.
+<span id="fn_84"></span>[145:1](efl06.htm#fr_84.md) British Museum, No.
 9900.
 
-<span id="fn_85"></span>[145:2](efl06.htm#fr_85) British Museum, No.
+<span id="fn_85"></span>[145:2](efl06.htm#fr_85.md) British Museum, No.
 9964.
 
-<span id="fn_86"></span>[146:1](efl06.htm#fr_86) British Museum, No.
+<span id="fn_86"></span>[146:1](efl06.htm#fr_86.md) British Museum, No.
 10,477.
 
-<span id="fn_87"></span>[147:1](efl06.htm#fr_87) British Museum, No.
+<span id="fn_87"></span>[147:1](efl06.htm#fr_87.md) British Museum, No.
 10,470.
 
-<span id="fn_88"></span>[147:2](efl06.htm#fr_88) British Museum, No.
+<span id="fn_88"></span>[147:2](efl06.htm#fr_88.md) British Museum, No.
 9901.
 
-<span id="fn_89"></span>[147:3](efl06.htm#fr_89) See *The Chapters of
+<span id="fn_89"></span>[147:3](efl06.htm#fr_89.md) See *The Chapters of
 Coming forth by Day*, p. 7.
 
-<span id="fn_90"></span>[147:4](efl06.htm#fr_90) The sky personified.
+<span id="fn_90"></span>[147:4](efl06.htm#fr_90.md) The sky personified.
 
-<span id="fn_91"></span>[148:1](efl06.htm#fr_91) Literally, the Two
+<span id="fn_91"></span>[148:1](efl06.htm#fr_91.md) Literally, the Two
 Eyes, *i.e.*, Isis and Nephthys.
 
-<span id="fn_92"></span>[148:2](efl06.htm#fr_92) *I.e.*, Râ, Shu, and
+<span id="fn_92"></span>[148:2](efl06.htm#fr_92.md) *I.e.*, Râ, Shu, and
 Tefnut.
 
-<span id="fn_93"></span>[148:3](efl06.htm#fr_93) Part of the city of
+<span id="fn_93"></span>[148:3](efl06.htm#fr_93.md) Part of the city of
 Buto (Per-Uatchit). The souls of Pe were Horus, Mestha, Hâpi.
 
-<span id="fn_94"></span>[148:4](efl06.htm#fr_94) *I.e.*, Horus,
+<span id="fn_94"></span>[148:4](efl06.htm#fr_94.md) *I.e.*, Horus,
 Tuamutef, and Qebhsennuf.
 
-<span id="fn_95"></span>[148:5](efl06.htm#fr_95) *I.e.*, the boat in
+<span id="fn_95"></span>[148:5](efl06.htm#fr_95.md) *I.e.*, the boat in
 which the sun travels until noon.
 
-<span id="fn_96"></span>[149:1](efl06.htm#fr_96) *I.e.*, the land on
+<span id="fn_96"></span>[149:1](efl06.htm#fr_96.md) *I.e.*, the land on
 each side of the Red Sea and North-east Africa.
 
-<span id="fn_97"></span>[149:2](efl06.htm#fr_97) See *The Chapters of
+<span id="fn_97"></span>[149:2](efl06.htm#fr_97.md) See *The Chapters of
 Coming Forth by Day*, p. 11.
 
-<span id="fn_98"></span>[149:3](efl06.htm#fr_98) *I.e.*, the underworld.
+<span id="fn_98"></span>[149:3](efl06.htm#fr_98.md) *I.e.*, the underworld.
 
-<span id="fn_99"></span>[150:1](efl06.htm#fr_99) A name of Osiris.
+<span id="fn_99"></span>[150:1](efl06.htm#fr_99.md) A name of Osiris.
 
-<span id="fn_100"></span>[150:2](efl06.htm#fr_100) A division of the
+<span id="fn_100"></span>[150:2](efl06.htm#fr_100.md) A division of the
 "Fields of Peace" or Elysian Fields.
 
-<span id="fn_101"></span>[151:1](efl06.htm#fr_101) See *The Chapters of
+<span id="fn_101"></span>[151:1](efl06.htm#fr_101.md) See *The Chapters of
 Coming Forth by Day*, pp. 343-346.
 
-<span id="fn_102"></span>[152:1](efl06.htm#fr_102) This quotation is
+<span id="fn_102"></span>[152:1](efl06.htm#fr_102.md) This quotation is
 from the title of Chapter CXXV. of the Book of the Dead.
 
-<span id="fn_103"></span>[153:1](efl06.htm#fr_103) *I.e.*, the last day
+<span id="fn_103"></span>[153:1](efl06.htm#fr_103.md) *I.e.*, the last day
 of the sixth month of the Egyptian year, called by the Copts Mekhir.
 
-<span id="fn_104"></span>[153:2](efl06.htm#fr_104) The allusion here
+<span id="fn_104"></span>[153:2](efl06.htm#fr_104.md) The allusion here
 seems to be to the Summer or Winter Solstice.
 
-<span id="fn_105"></span>[156:1](efl06.htm#fr_105) British Museum, No.
+<span id="fn_105"></span>[156:1](efl06.htm#fr_105.md) British Museum, No.
 10,477.
 
-<span id="fn_106"></span>[156:2](efl06.htm#fr_106) A city near Memphis.
+<span id="fn_106"></span>[156:2](efl06.htm#fr_106.md) A city near Memphis.
 
-<span id="fn_107"></span>[158:1](efl06.htm#fr_107) Literally, "I have
+<span id="fn_107"></span>[158:1](efl06.htm#fr_107.md) Literally, "I have
 not been hot of mouth."
 
-<span id="fn_108"></span>[159:1](efl06.htm#fr_108) *I.e.*, acted without
+<span id="fn_108"></span>[159:1](efl06.htm#fr_108.md) *I.e.*, acted without
 due consideration.
 
-<span id="fn_109"></span>[160:1](efl06.htm#fr_109) *I.e.*, I have not
+<span id="fn_109"></span>[160:1](efl06.htm#fr_109.md) *I.e.*, I have not
 been guilty of favoritism.
 
-<span id="fn_110"></span>[162:1](efl06.htm#fr_110) About B.C. 1500.
+<span id="fn_110"></span>[162:1](efl06.htm#fr_110.md) About B.C. 1500.
 
-<span id="fn_111"></span>[162:2](efl06.htm#fr_111) About B.C. 1370.
+<span id="fn_111"></span>[162:2](efl06.htm#fr_111.md) About B.C. 1370.
 
-<span id="fn_112"></span>[162:3](efl06.htm#fr_112) About B.C. 1000.
+<span id="fn_112"></span>[162:3](efl06.htm#fr_112.md) About B.C. 1000.
 
-<span id="fn_113"></span>[162:4](efl06.htm#fr_113) Written in the
+<span id="fn_113"></span>[162:4](efl06.htm#fr_113.md) Written in the
 Ptolemaic period.
 
-<span id="fn_114"></span>[168:1](efl06.htm#fr_114) See Erman, *Westcar
+<span id="fn_114"></span>[168:1](efl06.htm#fr_114.md) See Erman, *Westcar
 Papyrus*, Berlin, 1890, hieroglyphic transcript, plates 9 and 10.
 
-<span id="fn_115"></span>[169:1](efl06.htm#fr_115) These are a class of
+<span id="fn_115"></span>[169:1](efl06.htm#fr_115.md) These are a class of
 mythological beings, or demi-gods, who already in the Vth dynasty were
 supposed to recite prayers on behalf of the deceased, and to assist
 Horus and Set in performing funeral ceremonies. See my *Papyrus of Ani*,
 p. cxxv.
 
-<span id="fn_116"></span>[176:1](efl06.htm#fr_116) Or "true of voice in
+<span id="fn_116"></span>[176:1](efl06.htm#fr_116.md) Or "true of voice in
 respect of Osiris;" *i.e.*, Ani makes his petition, and Osiris is to
 hear and answer because he has uttered the right words in the right
 manner, and in the right tone of voice.
 
-<span id="fn_117"></span>[177:1](efl06.htm#fr_117) The firstborn son of
+<span id="fn_117"></span>[177:1](efl06.htm#fr_117.md) The firstborn son of
 Osiris.
 
-<span id="fn_118"></span>[177:2](efl06.htm#fr_118) *I.e.*, Râ, as the
+<span id="fn_118"></span>[177:2](efl06.htm#fr_118.md) *I.e.*, Râ, as the
 slayer of the serpent of darkness, the head of which he cuts off with a
 knife. The usual reading is "which the Ass spake to the Cat;" the Ass
 being Osiris and the Cat Râ.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: The Resurrection and Immortality](efl07)
+[Next: Chapter V: The Resurrection and Immortality](efl07.md)

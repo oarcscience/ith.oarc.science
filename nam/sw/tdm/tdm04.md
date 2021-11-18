@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm03)  [Next](tdm05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm03)  [Next](tdm05.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ size and disposition of the rooms, are to-day slightly modified from
 what they were in former times. An advance has been made, inasmuch as
 the buildings are not any longer the vast and ill-ventilated honeycombs
 composed of hundreds of dingy shells, which they were centuries ago. The
-houses, while large and many-storied, are [comparatively](errata.htm#1)
+houses, while large and many-storied, are [comparatively](errata.htm#1.md)
 less extensive, and the apartments less roomy than at the time when the
 Queres, lived in the Rito de los Frijoles.
 
@@ -319,7 +319,7 @@ jests; and the tribe followed him until they came to where we are now,
 and all met again. The summer-people never suffered hunger in all their
 wanderings, for their leader was precious, and wherever they went he
 caused the fruits to be ripe. That man was the Koshare. <span
-id="fr_3"></span>[1](#fn_3) Since that time there have been Koshare in
+id="fr_3"></span>[1](#fn_3.md) Since that time there have been Koshare in
 every tribe. Their task it is to keep the people happy and merry; but
 they must also fast, mortify themselves, and pray to Those Above that
 every kind of fruit may ripen in its time, even the fruit in woman's
@@ -551,7 +551,7 @@ performances, and their mouths were well filled with ashes, each one
 gravely stepped up to the invalid, and spat the contents of his mouth in
 her face. Then they departed as quietly as they had come, and went home
 to await the results of the wonderful remedy. <span
-id="fr_4"></span>[1](#fn_4) It was a last, a supreme effort.
+id="fr_4"></span>[1](#fn_4.md) It was a last, a supreme effort.
 
 The condition of Say could not fail to arouse the sympathies of her own
 sex, even outside of her clan. Many were the calls from compassionate
@@ -756,7 +756,7 @@ actions against her. That inquiry could be conducted only through
 sorcery itself, and Say at first trembled. She feared, and not without
 good cause, an appeal to evil powers. Still Shotaye spoke so plausibly;
 she assured so strongly her friend of her own discretion and fidelity,
-and was so [insistent](errata.htm#2) upon her constant success in
+and was so [insistent](errata.htm#2.md) upon her constant success in
 everything she had undertaken as yet,--that the woman yielded at last
 against her own convictions. Something within her seemed to speak and
 say, "Do not tread forbidden paths, speak to your husband first." But
@@ -1167,13 +1167,13 @@ interior of the dwelling.
 
 ### Footnotes
 
-<span id="fn_3"></span>[34:1](tdm04.htm#fr_3) This tradition was told me
+<span id="fn_3"></span>[34:1](tdm04.htm#fr_3.md) This tradition was told me
 by Tehua Indians, and some friends among the Queres subsequently
 confirmed it.
 
-<span id="fn_4"></span>[41:1](tdm04.htm#fr_4) This fire-cure was still
+<span id="fn_4"></span>[41:1](tdm04.htm#fr_4.md) This fire-cure was still
 practised by the Queres not very long ago.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](tdm05)
+[Next: Chapter III](tdm05.md)

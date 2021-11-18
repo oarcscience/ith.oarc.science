@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](pte03)  [Next](pte05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](pte03)  [Next](pte05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Plutarch's Morals: Theosophical Essays*, tr. by Charles William King,
 \[1908\], at Intangible Textual Heritage
 
@@ -77,7 +77,7 @@ Supreme, and the Intelligible; whom the goddess exhorts von to seek
 after, for he is both by her side, and united with her. The very name of
 her Temple clearly promises both the communication and the understanding
 of *That which is*—for it is called the "Ision," <span
-id="fr_0"></span>[1](#fn_0) inasmuch as *That which is* shall be known
+id="fr_0"></span>[1](#fn_0.md) inasmuch as *That which is* shall be known
 if we enter with intelligence and piously into the sacred rites of the
 goddess.
 
@@ -100,7 +100,7 @@ regards opinion of the gods as are expressed with respect to the sacred
 vestment. For which reason, the circumstance that the votaries of Isis,
 upon their death, are clothed with these robes, is a symbol that they go
 into the next world carrying with them this *Word*, <span
-id="fr_1"></span>[1](#fn_1) and nothing else. For it is not, Clea, the
+id="fr_1"></span>[1](#fn_1.md) and nothing else. For it is not, Clea, the
 wearing of beards and the dressing in long gowns that makes people
 philosophers; neither does the *linen surplice* and *shaven crown* make
 votaries of Isis, but the real Isiacist is he that is competent to
@@ -397,7 +397,7 @@ twentieth year of his reign. Some have it that he had *lived*, not
 
 XIV\. The first to discover the mischief were the Pans and Satyrs
 inhabiting the country round Chemmis and to give intelligence <span
-id="fr_2"></span>[1](#fn_2) about what had happened, whence the sudden
+id="fr_2"></span>[1](#fn_2.md) about what had happened, whence the sudden
 terrors and fears of the multitude are to the present day called
 "panics." Isis on the news, sheared off one of her tresses, and put on a
 mourning robe, whence the city, even to the present day has the name of
@@ -473,13 +473,13 @@ at their feasts, is this child. Others say that the boy is called
 Palaestinos, or Pelusios, and that the city was named after him, having
 been founded by the goddess. The Maneros that is sung about, they
 relate, first invented music. But some pretend "Maneros" is not the name
-[of](errata.htm#0) a person, but an expression suited to people drinking
+[of](errata.htm#0.md) a person, but an expression suited to people drinking
 and keeping holiday and signifying "May things of the sort come with
 good luck," for that the Egyptians exclaim this, each time, upon the
 Maneros being uttered; just as, indeed, the exhibition of a dead man in
 his coffin carried round at feasts is not a reminder of the mourning for
 Osiris, as some interpret it, but merely intended <span
-id="fr_3"></span>[1](#fn_3) to warn one to make use of the present and
+id="fr_3"></span>[1](#fn_3.md) to warn one to make use of the present and
 enjoy it, as very soon they themselves shall be as he, which is why they
 bring it in to the feast.
 
@@ -534,7 +534,7 @@ And when Typhon brought a charge of illegitimacy against Horus, Hermes
 acting as his counsel, Horus was pronounced legitimate by the gods.
 After this Typhon was beaten in two other battles; and Isis conceived by
 Osiris copulating with her after death, <span
-id="fr_4"></span>[1](#fn_4) and brought forth the prematurely born, and
+id="fr_4"></span>[1](#fn_4.md) and brought forth the prematurely born, and
 weak in his lower limbs, Harpocrates.
 
 XX\. These are pretty nearly the heads of the legend, the most
@@ -588,7 +588,7 @@ are many so-called Tombs in Egypt, yet that the true monument was
 erected at Busiris, for that *that* was the birthplace of Osiris; for
 thy; name "Taphosiris" requires no explanation since the name itself
 means "Tomb of Osiris." I approve of the *chopping of wood*, <span
-id="fr_5"></span>[1](#fn_5) the *cutting down of flax*, the *pouring
+id="fr_5"></span>[1](#fn_5.md) the *cutting down of flax*, the *pouring
 out* 
 
 <span id="page_18">p. 18</span>
@@ -633,7 +633,7 @@ these particular deities, when people let nothing alone, but transfer
 these great names from the heavens to the earth, and do their best to
 eradicate and destroy (or nearly so) the respect and faith implanted in
 men from their infancy, and opening a wide door to the atheistical
-sort, <span id="fr_6"></span>[1](#fn_6) and also to him that *humanizes*
+sort, <span id="fr_6"></span>[1](#fn_6.md) and also to him that *humanizes*
 the gods, and giving a splendid opportunity to the deceptions of
 Evemerus, the Messenian, who, by composing treatises upon his false and
 unfounded mythology, disseminated atheism all over the world, reducing
@@ -648,7 +648,7 @@ XXIV\. And yet great exploits are sung amongst Assyrians, namely those
 of Semiramis, and great in Egypt those of Sesostris; the Phrygians even
 to this day call splendid exploits "Manic," on account of Manis, one of
 their ancient kings, having been good and powerful amongst them, whom
-some also call "Masdes." <span id="fr_7"></span>[2](#fn_7) Cyrus led the
+some also call "Masdes." <span id="fr_7"></span>[2](#fn_7.md) Cyrus led the
 Persians, Alexander the Macedonians, conquering as they went, to all but
 the utmost limits of the world; they nevertheless have the name and the
 memory of good kings (not of gods); and if some few, puffed up with
@@ -780,7 +780,7 @@ the avenger of Osiris, his Sister and Wife, who extinguished and put a
 stop to the madness and fury of Typhon; did not forget the contests and
 struggles she had gone through, nor yet her own wanderings, nor did she
 suffer oblivion and silence to envelope <span
-id="fr_8"></span>[1](#fn_8) her many deeds of wisdom, many feats of
+id="fr_8"></span>[1](#fn_8.md) her many deeds of wisdom, many feats of
 courage, but by intermingling with the most sacred ceremonies, images,
 hints, and representations of her sufferings of yore, she consecrated at
 one and the same time, both lessons of piety and consolation in
@@ -817,7 +817,7 @@ And seeing that Heraclitus, the natural philosopher, asserts that "Hades
 and Dionysos are the same person, when they are infuriated and rave,"
 they (the Egyptians) slip unconsciously into the same belief. For such
 as explain that *Hades* means the *Body*, because the Soul is as it were
-out of its senses, and drunken, <span id="fr_9"></span>[1](#fn_9) when
+out of its senses, and drunken, <span id="fr_9"></span>[1](#fn_9.md) when
 confined therein, such people are too far fetched in their
 interpretation. It is better, therefore, to connect Osiris with Bacchus,
 and Serapis with Osiris, for
@@ -825,22 +825,22 @@ and Serapis with Osiris, for
 <span id="page_24">p. 24</span>
 
 the latter obtained this appellation after he had changed his
-nature, <span id="fr_10"></span>[1](#fn_10) inasmuch as Serapis is
-common <span id="fr_11"></span>[2](#fn_11) to all, in the same way as
+nature, <span id="fr_10"></span>[1](#fn_10.md) inasmuch as Serapis is
+common <span id="fr_11"></span>[2](#fn_11.md) to all, in the same way as
 such as have partaken of the sacred rites know that Osiris is.
 
 XXIX\. For it is not worth while paying any attention to the Phrygian
 sacred books, wherein it is said that Serapis <span
-id="fr_12"></span>[3](#fn_12) was the daughter of Hercules, and Typhon,
+id="fr_12"></span>[3](#fn_12.md) was the daughter of Hercules, and Typhon,
 son of Isaicus, son of…, nor yet to avoid treating Phylarchus with
 contempt for saying that Bacchus first brought two oxen out of India to
 Egypt; the name of one of which was *Apis*, of the other *Osiris*. For
 Serapis is the name of Him who puts in order the universe (πᾶν), joined
 to "sairein" which some say means "to beautify and arrange." <span
-id="fr_13"></span>[4](#fn_13) For these remarks of Phylarchus are
+id="fr_13"></span>[4](#fn_13.md) For these remarks of Phylarchus are
 absurd; yet far more absurd the opinion of such as say Serapis is no god
 at all, but the coffin of Apis is so called: <span
-id="fr_14"></span>[5](#fn_14) (they also talk of certain brazen doors at
+id="fr_14"></span>[5](#fn_14.md) (they also talk of certain brazen doors at
 Memphis, named the "Doors of Oblivion and Wailing," which when they bury
 Apis utter a deep and harsh sound, for which reason \[we are forbidden\]
 to touch any sounding vessel of brass.) More endurable is the
@@ -855,7 +855,7 @@ on the fact that the Egyptians call the festival of Rejoicing,
 <span id="page_25">p. 25</span>
 
 <span class="contnote">\[paragraph continues\]</span> "Sai rei," in fact
-Plato says that Hades <span id="fr_15"></span>[1](#fn_15) is so named as
+Plato says that Hades <span id="fr_15"></span>[1](#fn_15.md) is so named as
 the "Son of Respectfulness," and a god benevolent to such as dwell with
 him; and amongst the Egyptians many other of the names (of gods) are
 significant words; also that subterraneous place whither they believe
@@ -879,7 +879,7 @@ resemblance to that personage: they make cakes also at the sacrifice of
 the month Paÿni and of Phaophi, and print upon them for device an ass
 tied. And at the sacrifice to the Sun, they enjoin those that worship
 this god, not to wear upon the person ornaments of gold, <span
-id="fr_16"></span>[2](#fn_16) nor to give food to an ass. The
+id="fr_16"></span>[2](#fn_16.md) nor to give food to an ass. The
 Pythagoreans, too, prove that they regard Typhon as a dæmonic Power, for
 they say in perfect measure that Typhon was born on the fifty-sixth; and
 again that the
@@ -904,7 +904,7 @@ River, but nowadays they sell it to foreigners. But the ox intended for
 sacrifice, those of the priests entitled "Sealers" used to seal: the
 signet bearing (as Castor relates) an engraving of a man forced down on
 his knees, with hands twisted round upon his back, having a sword placed
-against his throat. <span id="fr_17"></span>[1](#fn_17) The ass has got
+against his throat. <span id="fr_17"></span>[1](#fn_17.md) The ass has got
 the credit of this resemblance \[to Typhon\] as they think, on account
 of his stupidity and unruliness, as well as his colour; for which reason
 as they detest Ochus especially of the Persian Kings, as sacrilegious
@@ -943,7 +943,7 @@ rate, at Sais, in the forecourt of the temple of Minerva, there was
 sculptured a child, an old man, after this a hawk, next, a fish, and at
 the end of all, a river-horse, and it signifies symbolically, "O ye that
 are coming into life, and ye that are going out of it \[The Deity abhors
-impudence\] <span id="fr_18"></span>[1](#fn_18) … for the reason \[they
+impudence\] <span id="fr_18"></span>[1](#fn_18.md) … for the reason \[they
 put the\] old man .. . By the hawk they mean *God*, by the fish,
 *hatred*, on account of the sea, as has been above stated; by the river
 horse, *impudence*, for that beast is reported to kill its sire, and
@@ -971,10 +971,10 @@ prime. The Spring too is flourishing, generative, and agreeable; but
 Autumn through the deficiency of moisture is both injurious to plants,
 and pestilential to animals. And the Ox that is kept at Heliopolis,
 which they call Mnevis (sacred to Osiris, and which some believe to be
-the sire of the Apis) <span id="fr_19"></span>[1](#fn_19) is black, and
+the sire of the Apis) <span id="fr_19"></span>[1](#fn_19.md) is black, and
 receives secondary honours to those paid to Apis. Besides, Egypt which
 is of a black soil to the highest degree, as well as the black part of
-the eye, they call "Chemia," <span id="fr_20"></span>[2](#fn_20) and
+the eye, they call "Chemia," <span id="fr_20"></span>[2](#fn_20.md) and
 compare it to a *heart*, for it is hot and moist, and is chiefly
 inclosed and annexed to the southern parts of the habitable world, in
 the same manner as the heart is in the left hand parts of man.
@@ -1020,7 +1020,7 @@ life, and his new births; and, similarly, the stories about his burials.
 For the Egyptians, as already stated, show Tombs of Osiris in many
 places; and the Delphians believe that the relics of Bacchus are
 deposited with themselves by the side of the Oracle: <span
-id="fr_21"></span>[1](#fn_21) and their "Holy Ones" offer a secret
+id="fr_21"></span>[1](#fn_21.md) and their "Holy Ones" offer a secret
 sacrifice in the Temple of Apollo at what time the Bacchantes waken up
 "Him of the winnowing fan." And that the Greeks hold Bacchus for lord
 and leader not only of the wine but of the whole element of Moisture,
@@ -1068,7 +1068,7 @@ Jupiter, and that Jupiter adopted for son Osiris who had assisted him,
 and had brought the war to an end along with him, and surnamed him
 Bacchus. Of this legend the fabulous character can be shown to contain a
 touch of truth as regards natural history. For the Egyptians give the
-name of Jupiter to the *breath*, <span id="fr_22"></span>[1](#fn_22) to
+name of Jupiter to the *breath*, <span id="fr_22"></span>[1](#fn_22.md) to
 which everything dry and fiery is antagonistic. This latter element is
 not the Sun, but has a certain affinity to the Sun; now moisture
 quenching the excess of dryness, augments and strengthens the
@@ -1210,7 +1210,7 @@ unmitigated light to heat and parch up things that grow up and flourish,
 and to render the great part of the earth utterly uninhabitable through
 his blazing, and also to get the better of the Moon herself. For which
 reason the Egyptians always call Typhon "Seth," <span
-id="fr_23"></span>[1](#fn_23) which signifies *that which tyrannises*,
+id="fr_23"></span>[1](#fn_23.md) which signifies *that which tyrannises*,
 and which *forcibly constrains*, and they fable that Hercules resides in
 the Sun, and travels about with him, but Hermes does the same with the
 Moon; for the effects of the Moon resemble the actions of reason, and
@@ -1230,7 +1230,7 @@ day "Antiphraxis," (*precaution*); and generally abominate that
 particular number, for sixteen being a square number and eighteen having
 sides of unequal length which alone of the integral numbers have the
 peculiarity of possessing external measurements equal to the areas
-contained by them, <span id="fr_24"></span>[1](#fn_24) the seventeen
+contained by them, <span id="fr_24"></span>[1](#fn_24.md) the seventeen
 intruding hedges off and disjoins them from one another, and distracts
 the proportion of one to eight, because it is itself cut up into unequal
 parts. The number of years that some say Osiris lived, others that he
@@ -1294,7 +1294,7 @@ and celestial. Some, however, think that Anubis signifies *Time*,
 wherefore as he brings forth all things *out* of himself, and conceives
 all things *within* himself, he gets the title of Dog. Besides, the
 votaries of Anubis celebrate a certain mystery, <span
-id="fr_25"></span>[1](#fn_25) and in old times the dog enjoyed the
+id="fr_25"></span>[1](#fn_25.md) and in old times the dog enjoyed the
 highest honours in Egypt. But when Cambyses had slain the apis and cast
 him out, nothing approached, or tasted of the carcase, except the dog,
 so he lost his place of the first, and the most honoured of all the
@@ -1334,11 +1334,11 @@ alike, and diffused in many places, that neither is the Universe without
 mind, without reason, and without guidance, and tossed about at random,
 nor yet is there One Reason that rules and directs all things as it
 were, by a rudder and by guiding reins, <span
-id="fr_26"></span>[1](#fn_26) but that there are many such directors,
+id="fr_26"></span>[1](#fn_26.md) but that there are many such directors,
 and made up out of good and bad; or rather, to speak generally, inasmuch
 as Nature produces nothing unmixed here below, it is not one Dispenser
 that like a retail dealer mixes together things for us out of two
-vessels and distributes the same, <span id="fr_27"></span>[2](#fn_27)
+vessels and distributes the same, <span id="fr_27"></span>[2](#fn_27.md)
 but it is from *two opposite Principles* and *two antagonistic Powers;*
 the one guiding us to the right hand and along the straight road, the
 other upsetting and rebuffing us, that Life becomes of a mixed nature;
@@ -1377,7 +1377,7 @@ their gods—for example, the following: that Oromazes sprang out of the
 purest Light, but Arimanios out of Darkness; they wage war upon each
 other. Oromazes created six gods, the first of Goodwill, the second of
 Truth, the third of Order, of the rest one of Wisdom, one of Wealth, one
-of Pleasure in things beautiful. <span id="fr_28"></span>[1](#fn_28) The
+of Pleasure in things beautiful. <span id="fr_28"></span>[1](#fn_28.md) The
 other God created, as it were, opponents to these deities, equal in
 number. Then Oromazes, having augmented himself threefold, severed from
 the Sun as much space as the Sun is distant from Earth, and adorned the
@@ -1505,7 +1505,7 @@ figure of Typhon a hippopotamus, upon which stands a
 hawk fighting with a serpent; by the hippopotamus signifying Typhon, by
 the hawk *power* and virtue, \[or *sovereignty*,\] which Typhon
 frequently gains by force, and never ceases <span
-id="fr_29"></span>[1](#fn_29) to be disturbed by his own wickedness, and
+id="fr_29"></span>[1](#fn_29.md) to be disturbed by his own wickedness, and
 to disturb others; for which cause when they sacrifice on the 7th of the
 month Sybi (which they call "The Coming of Isis out of Phœnicia") they
 stamp upon the consecrated cakes the figure of a hippopotamus bound. In
@@ -1529,7 +1529,7 @@ and drop earth upon their eyes. And when in order to drink it descends
 upon the river, it sets its wings upright, and having drank bends them
 back again; by which it is evident that it protects itself, and escapes
 from the crocodile, for if it should be swallowed up, the wing remains
-as it stood, fixed upright. <span id="fr_30"></span>[2](#fn_30) In many
+as it stood, fixed upright. <span id="fr_30"></span>[2](#fn_30.md) In many
 places also, they exhibit a statue of Osiris in the
 
 <span id="page_45">p. 45</span>
@@ -1576,7 +1576,7 @@ propitiate and worship the Sun. And what need is there to bring together
 many things to the same effect? There are some that assert point-blank
 that Osiris is the Sun, and is named Sirius by the Greeks (for amongst
 the Egyptians the prefixing of the article has caused the name to be
-mistaken <span id="fr_31"></span>[1](#fn_31)), and make out Isis to be
+mistaken <span id="fr_31"></span>[1](#fn_31).md), and make out Isis to be
 no other than the Moon; and one particular of her images, those figured
 with horns, are (say they) imitations of the crescent; whilst by those
 covered with black they interpret her wanings, and envelopment in
@@ -1667,7 +1667,7 @@ Egyptians \[reverence\] the
 
 <span id="page_49">p. 49</span>
 
-most beautiful kind of triangle, <span id="fr_32"></span>[1](#fn_32)
+most beautiful kind of triangle, <span id="fr_32"></span>[1](#fn_32.md)
 because they liken it to the nature of the universe, and Plato seems to
 employ this figure in his "Republic," when drawing up his Marriage
 scheme. The triangle, too, has this property—*three* the right angle,
@@ -1791,10 +1791,10 @@ and ἱερὸς: for he is the common *Word* (Reason) of the things in heaven,
 and of those in hell, of which the former the ancients were wont to term
 ἱερὰ, the latter ὅσια. And he that reveals the things of heaven, the
 <span class="smallcaps">Word</span> of those that move above, is named
-"Anubis," sometimes "Hermanubis," <span id="fr_33"></span>[1](#fn_33)
+"Anubis," sometimes "Hermanubis," <span id="fr_33"></span>[1](#fn_33.md)
 the former as belonging to those above, the latter as belonging to those
 below; for which reason people sacrifice to the one a *white* cock, to
-the other a *saffron-coloured* <span id="fr_34"></span>[2](#fn_34) one;
+the other a *saffron-coloured* <span id="fr_34"></span>[2](#fn_34.md) one;
 for they believe the
 
 <span id="page_53">p. 53</span>
@@ -1803,7 +1803,7 @@ former character of the god to be unmixed and public, the latter
 composite and multifarious. You must not be surprised at this derivation
 of names from the Greek, for there are an infinite number of other words
 that went into exile along with those that emigrated <span
-id="fr_35"></span>[1](#fn_35) from Greece, but remain in use and sojourn
+id="fr_35"></span>[1](#fn_35.md) from Greece, but remain in use and sojourn
 as foreigners amongst other nations; for adopting some of which certain
 people censure poetry as talking barbarously; those writers, \[critics\]
 I mean, who tern things of the kind "dialects" (γλώσσαι). And in what
@@ -1813,7 +1813,7 @@ the circuit of the Sun, Horus, the Greeks call Apollo; and that which
 presides over the Wind some call Osiris, some Sarapis, others Sothi, in
 the Egyptian language. The last word signifies "pregnancy," and "to
 conceive;" hence, through a corruption of the word, the star is called
-the Dog <span id="fr_36"></span>[2](#fn_36) in Greek, which they
+the Dog <span id="fr_36"></span>[2](#fn_36.md) in Greek, which they
 consider an attribute of Isis. But we ought by no means to dispute about
 *names*, not but that we might have reclaimed from the Egyptians their
 name of "Sarapis" rather than that of Osiris, the former being a foreign
@@ -1849,7 +1849,7 @@ Motion.
 LXIII\. The *Sistrum* too shows that the things that *are* must be
 *shaken*, and never *cease from motion*, but be as it were aroused and
 stirred up when they slumber and are slothful, for they pretend they
-drive off and repulse <span id="fr_37"></span>[1](#fn_37) Typhon with
+drive off and repulse <span id="fr_37"></span>[1](#fn_37.md) Typhon with
 the sistra, showing that when Corruption has tied fast and brought it to
 a standstill, Generation again unlooses and restores Nature by means of
 Motion. And as the sistrum is circular in the upper part, the arch
@@ -1866,7 +1866,7 @@ Isis, sometimes of Nephthys, symbolizing by these heads *Generation* and
 
 <span class="contnote">\[paragraph continues\]</span> (for these are the
 Changes and Motions of the elements), and by the Cat, the Moon, on
-account of the pied colour, <span id="fr_38"></span>[1](#fn_38)
+account of the pied colour, <span id="fr_38"></span>[1](#fn_38.md)
 nocturnal habits, and fecundity of the animal, for it is said to bring
 forth one, and then two, then three, then four, up to five at a birth,
 and always adds by one up to seven \[to her litter\], so that in all it
@@ -1965,7 +1965,7 @@ amongst different peoples: and these have established, and do employ,
 understanding into things divine. And this not without danger: for some
 having entirely missed their meaning, have slid into *superstition;*
 whilst others shunning every superstition like a quagmire, have
-unknowingly fallen into *Atheism* <span id="fr_39"></span>[1](#fn_39) as
+unknowingly fallen into *Atheism* <span id="fr_39"></span>[1](#fn_39.md) as
 down a precipice.
 
 <span id="page_58">p. 58</span>
@@ -1982,7 +1982,7 @@ themselves of whom we are treating: for on the nineteenth day of the
 first month they hold a festival to Hermes, and eat honey and figs,
 repeating "A sweet thing is the Truth;" and again the charm which Isis
 hangs about her neck is interpreted as "<span class="smallcaps">A True
-Voice</span>:" <span id="fr_40"></span>[1](#fn_40) and Harpocrates we
+Voice</span>:" <span id="fr_40"></span>[1](#fn_40.md) and Harpocrates we
 must not regard as an incomplete and infant god, or some sort of pulse,
 but as presiding over and correcting men's notions of the deities, when
 as yet new, incomplete, and inarticulate; for which reason he has his
@@ -1993,8 +1993,8 @@ Persea is the most sacred to the gods, because its fruit resembles a
 *heart*, and its leaf a *tongue*. For of all that man possesses by
 nature nothing is more divine than speech, especially that which
 concerns the gods; nor has anything greater weight towards his
-happiness: wherefore I enjoin <span id="fr_41"></span>[2](#fn_41) upon
-him that goes down here <span id="fr_42"></span>[3](#fn_42) to consult
+happiness: wherefore I enjoin <span id="fr_41"></span>[2](#fn_41.md) upon
+him that goes down here <span id="fr_42"></span>[3](#fn_42.md) to consult
 
 <span id="page_59">p. 59</span>
 
@@ -2014,10 +2014,10 @@ Achæa," naming the festival "Epachthe;" as though Ceres were in mourning
 on account of the descent of her daughter into the shades. Moreover,
 this month coincides with the rising of the Pleiads, which the Egyptians
 call Athor, the Athenians Pyanepsion, and the Bœotians Damatrios; the
-Western nations <span id="fr_43"></span>[1](#fn_43) also, as Theopompus
+Western nations <span id="fr_43"></span>[1](#fn_43.md) also, as Theopompus
 relates, consider and call the winter Saturn, the summer Venus, and the
 spring Proserpine; and believe that all things come out of Saturn <span
-id="fr_44"></span>[2](#fn_44) and Venus. But the Phrygians believing
+id="fr_44"></span>[2](#fn_44.md) and Venus. But the Phrygians believing
 that God sleeps by winter, but wakes up in spring, at the one time hold
 with revelry the feasts of his "Going to bed," at the other those of his
 "Getting up:" whilst the Paphlagonians say He is bound down and
@@ -2071,7 +2071,7 @@ and imbibe false notions, modelled upon the *names*. This is especially
 the case of the Egyptians with respect to the animals to which honours
 are paid; whereas the Greeks in this particular, at all events, both
 speak and believe correctly, saying that the dove is the sacred animal
-of Venus, the dragon <span id="fr_45"></span>[1](#fn_45) of Minerva, the
+of Venus, the dragon <span id="fr_45"></span>[1](#fn_45.md) of Minerva, the
 raven of Apollo, the dog of Diana (as Euripides hath it—
 
 <div style="margin-left: 32px">
@@ -2140,7 +2140,7 @@ drought should come on, inducing to an extraordinary degree either
 pestilential diseases, or other strange and inexplicable calamities,
 then some of these honoured animals do the priests lead out in darkness,
 quietly and in silence, and at first they threaten and scare away the
-creature; but if it remains fixed, <span id="fr_46"></span>[1](#fn_46)
+creature; but if it remains fixed, <span id="fr_46"></span>[1](#fn_46.md)
 then they consecrate and sacrifice it, as though this were some kind of
 punishment for its deity, or else a great mean of purification in the
 greatest emergencies. For in the city Idisthyas they used to burn men
@@ -2240,13 +2240,13 @@ wronging and being wronged exists by means of deficiency and excess, but
 what is just stands in the middle by reason of *equality:* and what is
 called the Four (the six and thirty), was their mightiest oath, as has
 been commonly reported; and the *world* <span
-id="fr_47"></span>[1](#fn_47) has been so denominated because it was
+id="fr_47"></span>[1](#fn_47.md) has been so denominated because it was
 completed by the four first elements, and the four superfluous qualities
 being joined together into One. If, therefore, the most illustrious
 philosophers when they discerned an emblem of the Divinity even in
 lifeless and incorporeal things did not think right to neglect or slight
 any of them, still less, I fancy, did they do so, <span
-id="fr_48"></span>[2](#fn_48) when they discerned moral qualities in
+id="fr_48"></span>[2](#fn_48.md) when they discerned moral qualities in
 natural objects endowed with sense, possessing life, passions, and
 tempers.
 
@@ -2373,7 +2373,7 @@ by no means be said to contribute nothing to this effect: but the
 majority of the ingredients possessing aromatical properties, send out a
 sweet breath and salubrious exhalation, whereby, when the air is changed
 and the body excited in the proper manner, they are <span
-id="fr_49"></span>[1](#fn_49) themselves lulled to sleep, and have a
+id="fr_49"></span>[1](#fn_49.md) themselves lulled to sleep, and have a
 seductive tendency; whilst the troublesomeness and tension of our daily
 anxieties they loosen and untie, like so many knots; and the imaginative
 and prophetic part of dreams, they brighten up and render more clear,
@@ -2405,173 +2405,173 @@ one place. With good cause then do the first-named perfumes, as being
 simple and deriving their origin from the Sun, exhibit their virtues by
 day, whereas the last-mentioned do so when night begins to set in.
 
-<span id="img_07100"></span> ![ISIS.](img/07100.jpg)
+<span id="img_07100"></span> ![ISIS.](img/07100.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](pte04.htm#fr_0) "The entering-place," as if
+<span id="fn_0"></span>[2:1](pte04.htm#fr_0.md) "The entering-place," as if
 derived from the Greek.
 
-<span id="fn_1"></span>[3:1](pte04.htm#fr_1) The revealed Truth.
+<span id="fn_1"></span>[3:1](pte04.htm#fr_1.md) The revealed Truth.
 
-<span id="fn_2"></span>[12:1](pte04.htm#fr_2) λόγον ἐμβαλόντων, looks
+<span id="fn_2"></span>[12:1](pte04.htm#fr_2.md) λόγον ἐμβαλόντων, looks
 like a false reading for φόβον: "spreading the alarm."
 
-<span id="fn_3"></span>[14:1](pte04.htm#fr_3) οἰομένους in text makes no
+<span id="fn_3"></span>[14:1](pte04.htm#fr_3.md) οἰομένους in text makes no
 sense, perhaps οῖον μόνον.
 
-<span id="fn_4"></span>[16:1](pte04.htm#fr_4) Alluding to the incident
+<span id="fn_4"></span>[16:1](pte04.htm#fr_4.md) Alluding to the incident
 of the opening of his coffer, and explaining the sad fate of the too
 inquisitive little boy.
 
-<span id="fn_5"></span>[17:1](pte04.htm#fr_5) Probably explaining the
+<span id="fn_5"></span>[17:1](pte04.htm#fr_5.md) Probably explaining the
 trunk, with lopped off branches, so frequently figured on the Gnostic
 stones.
 
-<span id="fn_6"></span>[19:1](pte04.htm#fr_6) An evident allusion to the
+<span id="fn_6"></span>[19:1](pte04.htm#fr_6.md) An evident allusion to the
 Christians.
 
-<span id="fn_7"></span>[19:2](pte04.htm#fr_7) The common title of the
+<span id="fn_7"></span>[19:2](pte04.htm#fr_7.md) The common title of the
 Sassanean kings was "Masdesin," "servant of Ormuzd;" and the same
 probably was a title of this Manis.
 
-<span id="fn_8"></span>[22:1](pte04.htm#fr_8) ὑπολάβουσα, which makes no
+<span id="fn_8"></span>[22:1](pte04.htm#fr_8.md) ὑπολάβουσα, which makes no
 sense, add ν and it agrees with ἀμνηστίαν.
 
-<span id="fn_9"></span>[23:1](pte04.htm#fr_9) The doctrine of the
+<span id="fn_9"></span>[23:1](pte04.htm#fr_9.md) The doctrine of the
 Alexandrian Platonists, as is fully set forth by Macrobius in his
 description of the descent of the Soul.
 
-<span id="fn_10"></span>[24:1](pte04.htm#fr_10) The name being
+<span id="fn_10"></span>[24:1](pte04.htm#fr_10.md) The name being
 compounded of *Osiris* and *Apis*, expresses that his soul, after death,
 had passed unto the sacred bull.
 
-<span id="fn_11"></span>[24:2](pte04.htm#fr_11) Probably meaning,
+<span id="fn_11"></span>[24:2](pte04.htm#fr_11.md) Probably meaning,
 universal god, not a mere local Egyptian divinity.
 
-<span id="fn_12"></span>[24:3](pte04.htm#fr_12) χαρωπὼς in text.
+<span id="fn_12"></span>[24:3](pte04.htm#fr_12.md) χαρωπὼς in text.
 
-<span id="fn_13"></span>[24:4](pte04.htm#fr_13) This preposterous
+<span id="fn_13"></span>[24:4](pte04.htm#fr_13.md) This preposterous
 etymology is evidently that of Phylarchus.
 
-<span id="fn_14"></span>[24:5](pte04.htm#fr_14) σορὸς Ἄπιδος.
+<span id="fn_14"></span>[24:5](pte04.htm#fr_14.md) σορὸς Ἄπιδος.
 
-<span id="fn_15"></span>[25:1](pte04.htm#fr_15) Ἅδης = Αἰδο̃υς ὑιὸς.
+<span id="fn_15"></span>[25:1](pte04.htm#fr_15.md) Ἅδης = Αἰδο̃υς ὑιὸς.
 
-<span id="fn_16"></span>[25:2](pte04.htm#fr_16) Hence the Mohammedan
+<span id="fn_16"></span>[25:2](pte04.htm#fr_16.md) Hence the Mohammedan
 rule of taking off all gold ornaments before saying prayers.
 
-<span id="fn_17"></span>[26:1](pte04.htm#fr_17) Showing that the
+<span id="fn_17"></span>[26:1](pte04.htm#fr_17.md) Showing that the
 primitive *human* victim was commuted thus.
 
-<span id="fn_18"></span>[27:1](pte04.htm#fr_18) Some words are here
+<span id="fn_18"></span>[27:1](pte04.htm#fr_18.md) Some words are here
 lost, but their sense appears from the context to have been what I
 supply in the translation.
 
-<span id="fn_19"></span>[28:1](pte04.htm#fr_19) The Bull that was kept
+<span id="fn_19"></span>[28:1](pte04.htm#fr_19.md) The Bull that was kept
 at Memphis.
 
-<span id="fn_20"></span>[28:2](pte04.htm#fr_20) Is this the long sought
+<span id="fn_20"></span>[28:2](pte04.htm#fr_20.md) Is this the long sought
 for root of "Cameo?" The Nicolo was distinguished by the Romans as
 "Ægyptilla," and compared by them to the eye.
 
-<span id="fn_21"></span>[30:1](pte04.htm#fr_21) Another proof of Indian
+<span id="fn_21"></span>[30:1](pte04.htm#fr_21.md) Another proof of Indian
 origin, relics of a Buddha being indispensable for the foundation of any
 *dagobah*.
 
-<span id="fn_22"></span>[31:1](pte04.htm#fr_22) Or wind.
+<span id="fn_22"></span>[31:1](pte04.htm#fr_22.md) Or wind.
 
-<span id="fn_23"></span>[35:1](pte04.htm#fr_23) This has no connection
+<span id="fn_23"></span>[35:1](pte04.htm#fr_23.md) This has no connection
 with the Hebrew name, which means "Placed," "Settled."
 
-<span id="fn_24"></span>[36:1](pte04.htm#fr_24) ἑτερομήκης is applied to
+<span id="fn_24"></span>[36:1](pte04.htm#fr_24.md) ἑτερομήκης is applied to
 Eighteen, because it may be represented by a parallelogram of which the
 sides are 6 and 6, 3 and 3, alternately: two of these multiplied give
 the area of the figure, which also is Eighteen—the same comparison of
 numbers to mathematical figures Plato uses in the beginning of the
 Theætetus.
 
-<span id="fn_25"></span>[38:1](pte04.htm#fr_25) A passage is lost here,
+<span id="fn_25"></span>[38:1](pte04.htm#fr_25.md) A passage is lost here,
 containing a description of this rite, in which it is evident a dog
 played the principal part.
 
-<span id="fn_26"></span>[39:1](pte04.htm#fr_26) The Epicurean and Stoic
+<span id="fn_26"></span>[39:1](pte04.htm#fr_26.md) The Epicurean and Stoic
 theories of the government of the universe, as opposed to the
 Neo-Platonic.
 
-<span id="fn_27"></span>[39:2](pte04.htm#fr_27) Alluding to the Homeric
+<span id="fn_27"></span>[39:2](pte04.htm#fr_27.md) Alluding to the Homeric
 picture of Jove, and his two vases of good and evil.
 
-<span id="fn_28"></span>[40:1](pte04.htm#fr_28) The same notion is
+<span id="fn_28"></span>[40:1](pte04.htm#fr_28.md) The same notion is
 expressed in the Jewish Sephiroth.
 
-<span id="fn_29"></span>[44:1](pte04.htm#fr_29) ἀνιᾶται, in text, for
+<span id="fn_29"></span>[44:1](pte04.htm#fr_29.md) ἀνιᾶται, in text, for
 ἀνίεται.
 
-<span id="fn_30"></span>[44:2](pte04.htm#fr_30) In the crocodile's
+<span id="fn_30"></span>[44:2](pte04.htm#fr_30.md) In the crocodile's
 gullet, and so prevents his gulping down the bird.
 
-<span id="fn_31"></span>[46:1](pte04.htm#fr_31) The Greeks mistaking
+<span id="fn_31"></span>[46:1](pte04.htm#fr_31.md) The Greeks mistaking
 ὄσιρις for ὁ Σείριος. "Egyptians" in text must be a slip of the scribe.
 
-<span id="fn_32"></span>[49:1](pte04.htm#fr_32) The right-angled.
+<span id="fn_32"></span>[49:1](pte04.htm#fr_32.md) The right-angled.
 
-<span id="fn_33"></span>[52:1](pte04.htm#fr_33) The deity, so frequent
+<span id="fn_33"></span>[52:1](pte04.htm#fr_33.md) The deity, so frequent
 on Gnostic talismans, bearing the caduceus of Hermes, and accompanied
 with the Cock.
 
-<span id="fn_34"></span>[52:2](pte04.htm#fr_34) To typify infernal
+<span id="fn_34"></span>[52:2](pte04.htm#fr_34.md) To typify infernal
 flames.
 
-<span id="fn_35"></span>[53:1](pte04.htm#fr_35) Alluding to the old
+<span id="fn_35"></span>[53:1](pte04.htm#fr_35.md) Alluding to the old
 tradition about Danaus, &c.
 
-<span id="fn_36"></span>[53:2](pte04.htm#fr_36) κύων, as if from κύειν:
+<span id="fn_36"></span>[53:2](pte04.htm#fr_36.md) κύων, as if from κύειν:
 these derivations cannot be preserved in translation.
 
-<span id="fn_37"></span>[54:1](pte04.htm#fr_37) Hence the idea of
+<span id="fn_37"></span>[54:1](pte04.htm#fr_37.md) Hence the idea of
 driving away the Devil by the sound of bells.
 
-<span id="fn_38"></span>[55:1](pte04.htm#fr_38) Showing the original
+<span id="fn_38"></span>[55:1](pte04.htm#fr_38.md) Showing the original
 colour of the Cat to be tabby.
 
-<span id="fn_39"></span>[57:1](pte04.htm#fr_39) Another allusion to the
+<span id="fn_39"></span>[57:1](pte04.htm#fr_39.md) Another allusion to the
 spread of Christianity, the preachers of which drew their strongest
 arguments from the, apparently, absurd symbolism of the old religions.
 
-<span id="fn_40"></span>[58:1](pte04.htm#fr_40) Translation of the
+<span id="fn_40"></span>[58:1](pte04.htm#fr_40.md) Translation of the
 Coptic inscription upon the amulet, perhaps the famous "Abracadabra."
 
-<span id="fn_41"></span>[58:2](pte04.htm#fr_41) Some words are lost
+<span id="fn_41"></span>[58:2](pte04.htm#fr_41.md) Some words are lost
 here; the sense requires, I enjoin on you in these matters, as the
 priests do him, &c.
 
-<span id="fn_42"></span>[58:3](pte04.htm#fr_42) Delphi, where many of
+<span id="fn_42"></span>[58:3](pte04.htm#fr_42.md) Delphi, where many of
 these small treatises were written, as appears from incidental remarks.
 
-<span id="fn_43"></span>[59:1](pte04.htm#fr_43) The Celts; the regular
+<span id="fn_43"></span>[59:1](pte04.htm#fr_43.md) The Celts; the regular
 expression for them in the early Greek writers.
 
-<span id="fn_44"></span>[59:2](pte04.htm#fr_44) This seems connected
+<span id="fn_44"></span>[59:2](pte04.htm#fr_44.md) This seems connected
 with the belief of the Gauls that they sprung from *Dis Pater*, as Cæsar
 mentions.
 
-<span id="fn_45"></span>[61:1](pte04.htm#fr_45) Crested serpent, much
+<span id="fn_45"></span>[61:1](pte04.htm#fr_45.md) Crested serpent, much
 resembling the Hindoo *cobra*.
 
-<span id="fn_46"></span>[63:1](pte04.htm#fr_46) The ceremony of the
+<span id="fn_46"></span>[63:1](pte04.htm#fr_46.md) The ceremony of the
 scape-goat.
 
-<span id="fn_47"></span>[66:1](pte04.htm#fr_47) Allusive to the primary
+<span id="fn_47"></span>[66:1](pte04.htm#fr_47.md) Allusive to the primary
 sense of κοσμὸς, *order*, *arrangement*.
 
-<span id="fn_48"></span>[66:2](pte04.htm#fr_48) The early Egyptians.
+<span id="fn_48"></span>[66:2](pte04.htm#fr_48.md) The early Egyptians.
 
-<span id="fn_49"></span>[70:1](pte04.htm#fr_49) Rather, "they of
+<span id="fn_49"></span>[70:1](pte04.htm#fr_49.md) Rather, "they of
 themselves lull people to sleep."
 
 ------------------------------------------------------------------------
 
-[Next: On the Cessation of Oracles](pte05)
+[Next: On the Cessation of Oracles](pte05.md)

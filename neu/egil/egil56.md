@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil55)  [Next](egil57) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil55)  [Next](egil57.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ with him through the winter.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LVI. Marriage of Egil.](egil57)
+[Next: CHAPTER LVI. Marriage of Egil.](egil57.md)

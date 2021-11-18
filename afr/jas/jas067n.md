@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas066n)  [Next](jas068n)   
- \[[67. The Tree-wife.](jas067)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas066n)  [Next](jas068n.md)   
+ \[[67. The Tree-wife.](jas067.md)\]
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ lost by means of spittle, see JAFL 2:51, 52.
 
 ------------------------------------------------------------------------
 
-[Next: Note 68. Sammy the Comferee.](jas068n)
+[Next: Note 68. Sammy the Comferee.](jas068n.md)

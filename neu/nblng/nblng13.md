@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng12)  [Next](nblng14) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng12)  [Next](nblng14.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ ENDNOTES:
 ------------------------------------------------------------------------
 
 [Next: Adventure XII: How Gunther Bade Siegfried To The
-Feasting.](nblng14)
+Feasting.](nblng14.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](ham06)  [Next](ham08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](ham06)  [Next](ham08.md) 
 
 ------------------------------------------------------------------------
 
@@ -284,4 +284,4 @@ convict him his master shall cut off his ear.
 
 ------------------------------------------------------------------------
 
-[Next: The Epilogue](ham08)
+[Next: The Epilogue](ham08.md)

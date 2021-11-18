@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](htss07)  [Next](htss09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](htss07)  [Next](htss09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Tamil Saivite Saints*, by F. Kingsbury and G.P. Phillips,
 \[1921\], at Intangible Textual Heritage
 
@@ -59,6 +59,6 @@ as follows:—
 
 ------------------------------------------------------------------------
 
-[Next: Index](htss09)
+[Next: Index](htss09.md)
 
 </div>

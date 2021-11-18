@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic098)  [Next](lfic100) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic098)  [Next](lfic100.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ St. Malachy, Archbishop of Armagh.
 
 ------------------------------------------------------------------------
 
-[Next: Death and Burial of St Patrick](lfic100)
+[Next: Death and Burial of St Patrick](lfic100.md)

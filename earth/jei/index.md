@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,14 +21,14 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](jei00)  
+[Contents](#contents)    [Start Reading](jei00.md)  
 
 ------------------------------------------------------------------------
 
 Marshall B. Gardner, a hollow-earth proponent, published the first
 edition of this book in 1913, *after* Peary reached the North Pole in
 1909. Gardner thus had a much harder job than [William
-Reed](../potp/index); that is, overcoming the public perception that the
+Reed](../potp/index.md); that is, overcoming the public perception that the
 poles had been reached.
 
 Gardner's book is in some ways superior to other books in this genre. He
@@ -69,33 +69,33 @@ business lit by a never-setting mini-sun is simply a fantasy.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](jei00)  
-[Contents](jei01)  
-[Illustrations](jei02)  
-[Preface](jei03)  
-[Chapter I. Introductory](jei04)  
-[Chapter II. The Nebula and its Evolution](jei05)  
-[Chapter III. Mars](jei06)  
-[Chapter IV. Early Polar Exploration](jei07)  
-[Chapter V. Further Arctic Exploration](jei08)  
-[Chapter VI. Greely's Explorations](jei09)  
-[Chapter VII. Nordenskiold's Voyages](jei10)  
-[Chapter VII. With Nansen in the North](jei11)  
-[Chapter IX. Was the North Pole Discovered?](jei12)  
-[Chapter X. Two Congressional Opinions on Peary and Cook](jei13)  
-[Chapter XI. The Mammoth](jei14)  
-[Chapter XII. The Life of the Arctic](jei15)  
-[Chapter XIII. Other Interesting Animals of the Interior](jei16)  
-[Chapter XIV. The Aurora](jei17)  
-[Chapter XV. The Eskimo](jei18)  
-[Chapter XVI. Evidence in the Antarctic](jei19)  
-[Chapter XVII. The Journey to the Earth's Interior](jei20)  
-[Chapter XVIII. The Formation of the Earth](jei21)  
-[Chapter XIX. How Our Theory Differs From That of Symmes](jei22)  
-[Chapter XX. The Moon And Our Theory](jei23)  
-[Chapter XXI. A Note on Gravitation](jei24)  
-[Chapter XXII. How Our Theory Has Been Received](jei25)  
-[Chapter XXIII. Our Controversy with Dominian](jei26)  
-[Chapter XXIV. Our Country and Our Theory](jei27)  
-[Chapter XXV. In Conclusion](jei28)  
-[Bibliography](jei29)  
+<span id="contents"></span> [Title Page](jei00.md)  
+[Contents](jei01.md)  
+[Illustrations](jei02.md)  
+[Preface](jei03.md)  
+[Chapter I. Introductory](jei04.md)  
+[Chapter II. The Nebula and its Evolution](jei05.md)  
+[Chapter III. Mars](jei06.md)  
+[Chapter IV. Early Polar Exploration](jei07.md)  
+[Chapter V. Further Arctic Exploration](jei08.md)  
+[Chapter VI. Greely's Explorations](jei09.md)  
+[Chapter VII. Nordenskiold's Voyages](jei10.md)  
+[Chapter VII. With Nansen in the North](jei11.md)  
+[Chapter IX. Was the North Pole Discovered?](jei12.md)  
+[Chapter X. Two Congressional Opinions on Peary and Cook](jei13.md)  
+[Chapter XI. The Mammoth](jei14.md)  
+[Chapter XII. The Life of the Arctic](jei15.md)  
+[Chapter XIII. Other Interesting Animals of the Interior](jei16.md)  
+[Chapter XIV. The Aurora](jei17.md)  
+[Chapter XV. The Eskimo](jei18.md)  
+[Chapter XVI. Evidence in the Antarctic](jei19.md)  
+[Chapter XVII. The Journey to the Earth's Interior](jei20.md)  
+[Chapter XVIII. The Formation of the Earth](jei21.md)  
+[Chapter XIX. How Our Theory Differs From That of Symmes](jei22.md)  
+[Chapter XX. The Moon And Our Theory](jei23.md)  
+[Chapter XXI. A Note on Gravitation](jei24.md)  
+[Chapter XXII. How Our Theory Has Been Received](jei25.md)  
+[Chapter XXIII. Our Controversy with Dominian](jei26.md)  
+[Chapter XXIV. Our Country and Our Theory](jei27.md)  
+[Chapter XXV. In Conclusion](jei28.md)  
+[Bibliography](jei29.md)  

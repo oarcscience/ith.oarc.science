@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft57)  [Next](sfft59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft57)  [Next](sfft59.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE SEAL-CATCHER'S ADVENTURE. <span id="fr_90"></span>[1](#fn_90)
+### THE SEAL-CATCHER'S ADVENTURE. <span id="fr_90"></span>[1](#fn_90.md)
 
 THERE was once upon a time a man who lived upon the northern coasts, not
 far from "Taigh Jan Crot Callow" (John-o'-Groat's House), and he gained
@@ -70,7 +70,7 @@ flattering. The "Roane," who all seemed in very low spirits, appeared to
 feel for him, and endeavoured to soothe the distress which he evinced by
 the amplest assurances of personal safety. Involved in sad meditation on
 his evil f ate, he was quickly roused from his stupor by his guide's
-producing a huge gully or joctaleg, <span id="fr_91"></span>[1](#fn_91)
+producing a huge gully or joctaleg, <span id="fr_91"></span>[1](#fn_91.md)
 the object of which he supposed was to put an end to all his earthly
 cares. Forlorn as was his situation, however, he did not wish to be
 killed; and, apprehending instant destruction, he fell down, and
@@ -132,13 +132,13 @@ hardship than he had at first considered it.
 
 ### Footnotes
 
-<span id="fn_90"></span>[191:1](sfft58.htm#fr_90) W. Grant Stewart,
+<span id="fn_90"></span>[191:1](sfft58.htm#fr_90.md) W. Grant Stewart,
 *Highland Superstitions and Amusements*. (*The popular superstitions and
 festive amusements of the Highlanders of Scotland*, by William Grant
 Stewart; Edinburgh : Printed for A. Constable, 1823--*redactor*).
 
-<span id="fn_91"></span>[193:1](sfft58.htm#fr_91) A clasp-knife.
+<span id="fn_91"></span>[193:1](sfft58.htm#fr_91.md) A clasp-knife.
 
 ------------------------------------------------------------------------
 
-[Next: The Mermaid Of Knockdolion](sfft59)
+[Next: The Mermaid Of Knockdolion](sfft59.md)

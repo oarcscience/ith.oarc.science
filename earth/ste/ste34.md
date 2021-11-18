@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste33)  [Next](ste35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste33)  [Next](ste35.md) 
 
 ------------------------------------------------------------------------
 
@@ -258,7 +258,7 @@ Fire; To preserve and transmit their knowledge, in either case, to
 posterity. They raised two Pillars, one of Brick, another of Stone, and
 ingrav’d upon them their Philosophy and inventions*. *And one of these
 pillars*, the Author says, *was standing in* Syria,  <span
-id="fr_12"></span>[1](#fn_12) *even to his time*. I do not press the
+id="fr_12"></span>[1](#fn_12.md) *even to his time*. I do not press the
 belief of this story; there being nothing, that I know of, in Antiquity
 Sacred or prophane, that gives a joint testimony with it. And those that
 set up these Pillars, do not seem to me to have understood the nature of
@@ -407,8 +407,8 @@ Christian Faith.
 
 ### Footnotes
 
-<span id="fn_12"></span>[250:1](ste34.htm#fr_12) κατὰ τὴν Συριάδα.
+<span id="fn_12"></span>[250:1](ste34.htm#fr_12.md) κατὰ τὴν Συριάδα.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](ste35)
+[Next: Chapter IV](ste35.md)

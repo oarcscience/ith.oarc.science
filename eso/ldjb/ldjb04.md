@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb03)  [Next](ldjb05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb03)  [Next](ldjb05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -513,7 +513,7 @@ grief in beholding the great depth of this world, the sun and the stars,
 the clouds, rain and snow, and in fact the whole of creation. I compared
 all that with the little speck called 'man,' and how insignificant he is
 before God, if compared with this great work of heaven and earth. <span
-id="fr_0"></span>[1](#fn_0) Finding, moreover, that there is good and
+id="fr_0"></span>[1](#fn_0.md) Finding, moreover, that there is good and
 evil in all things, in the elements as well as
 
 <span id="page_48">p. 48</span>
@@ -526,7 +526,7 @@ dejected, and could find no consolation in Holy Writ, although I knew
 the Bible from beginning to the end. Perhaps it may be that the devil
 played a part in all that, for I often had heathenish thoughts, of which
 I will, however, say nothing at present. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 "When my spirit, full of sorrow, earnestly, and as if moving in a great
 storm, arose in God, carrying with it my whole heart and mind, with all
@@ -554,7 +554,7 @@ that state, my spirit immediately saw through everything, and recognised
 God in all things, even in herbs and grasses, and it knew what is God
 and what is His will. Then very soon my will grew in this light, and
 received a strong impulse to describe the divine state." (*Aurora*, xix.
-4.) <span id="fr_2"></span>[1](#fn_2)
+4.) <span id="fr_2"></span>[1](#fn_2.md)
 
  
 
@@ -855,13 +855,13 @@ which will conduct him through the divine radiation of the celestial
 light, even within the grossest forms of terrestrial matter, and from
 thence back again unto God; and the Spirit of God will search all things
 in and with him." (*Clavis*, Preface, 5.) <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[47:1](ldjb04.htm#fr_0) At that time Boehme, like
+<span id="fn_0"></span>[47:1](ldjb04.htm#fr_0.md) At that time Boehme, like
 other persons, mistook his terrestrial personality for his real self,
 because he had not yet learned to know the God within his own heart, and
 therefore he felt the insignificance of the former, if compared with the
@@ -871,17 +871,17 @@ fact that the universal God and the God within his heart were one, and
 that his own personality was merely one of millions of similar
 instruments or organisms through which God is manifesting His power.
 
-<span id="fn_1"></span>[48:1](ldjb04.htm#fr_1) The "devil" and the
+<span id="fn_1"></span>[48:1](ldjb04.htm#fr_1.md) The "devil" and the
 "powers of darkness" are the perverted fiery will, with his evil
 productions, originating from Lucifer, the "*Dhyan-Chohan*" of evil; the
 greatest angel before he fell.
 
-<span id="fn_2"></span>[49:1](ldjb04.htm#fr_2) "Rejoice and be glad, and
+<span id="fn_2"></span>[49:1](ldjb04.htm#fr_2.md) "Rejoice and be glad, and
 praise the Lord above all; for His name arises in glory above all the
 mountains and hills. It grows up like a sprout and performs great
 miracles. Who will hinder it?" (*Apologia*.)
 
-<span id="fn_3"></span>[57:1](ldjb04.htm#fr_3) This may perhaps be also
+<span id="fn_3"></span>[57:1](ldjb04.htm#fr_3.md) This may perhaps be also
 expressed in the following words:—It is not the mortal intellect, but
 the divinity in man, which is in possession of divine knowledge.... A
 man knowing nothing of God, and having no faith in the power of anything
@@ -899,6 +899,6 @@ foundation is the recognition of the divine will in man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Unity of the All](ldjb05)
+[Next: Chapter II. The Unity of the All](ldjb05.md)
 
 </div>

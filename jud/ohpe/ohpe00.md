@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](ohpe01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](ohpe01.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,19 +48,19 @@ is left intact in all copies.
 <span id="img_front"></span>
 
 [![MS. fol. 1 recto (see p. 6)](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 MS. fol. 1 recto (see p. 6)  
 
 <span id="img__03700"></span>
 
 [![MS. fol. 9 verso (see p. 40)](tn/_03700.jpg)  
-Click to enlarge](img/_03700.jpg)  
+Click to enlarge](img/_03700.jpg.md)  
 MS. fol. 9 verso (see p. 40)  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 Oxford
@@ -79,4 +79,4 @@ PROFESSOR A. H. SAYCE
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ohpe01)
+[Next: Contents](ohpe01.md)

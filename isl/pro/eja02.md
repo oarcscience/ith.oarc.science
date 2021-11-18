@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](eja01)  [Next](geo00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](eja01)  [Next](geo00.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ Knower.
 
 ------------------------------------------------------------------------
 
-[Next: The Prophet Jerjees (Georgeous) (PUH)](geo00)
+[Next: The Prophet Jerjees (Georgeous) (PUH)](geo00.md)

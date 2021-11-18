@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut18)  [Next](mdut20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut18)  [Next](mdut20.md) 
 
 ------------------------------------------------------------------------
 
@@ -205,4 +205,4 @@ the olden time.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Mouse-Man](mdut20)
+[Next: 18. Mouse-Man](mdut20.md)

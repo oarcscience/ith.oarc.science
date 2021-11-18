@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes19)  [Next](tes21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes19)  [Next](tes21.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ country, summer of 1895.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Lamut and the Russian](tes21)
+[Next: 10. The Lamut and the Russian](tes21.md)

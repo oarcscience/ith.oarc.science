@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn28)  [Next](rmn30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn28)  [Next](rmn30.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ triumphs over all obstacles.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXIX: Bronze Amulets](rmn30)
+[Next: Plate XXIX: Bronze Amulets](rmn30.md)

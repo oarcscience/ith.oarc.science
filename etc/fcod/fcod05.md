@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod04)  [Next](fcod06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod04)  [Next](fcod06.md) 
 
 ------------------------------------------------------------------------
 
@@ -427,4 +427,4 @@ countries the time is largely dictated by the climate.
 ------------------------------------------------------------------------
 
 [Next: Chapter III: Preparation For Burial, Coffins, ''Grave-Goods,''
-Suttee](fcod06)
+Suttee](fcod06.md)

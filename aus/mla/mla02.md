@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla01)  [Next](mla03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla01)  [Next](mla03.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ legends which I am about to relate to you.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Seven Sisters and the Faithful Lovers](mla03)
+[Next: The Story of the Seven Sisters and the Faithful Lovers](mla03.md)

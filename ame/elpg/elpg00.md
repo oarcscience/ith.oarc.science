@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Next](elpg01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Next](elpg01.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@
 ------------------------------------------------------------------------
 
 [Next: European Backgrounds of the Germans Settled in
-Pennsylvania](elpg01)
+Pennsylvania](elpg01.md)

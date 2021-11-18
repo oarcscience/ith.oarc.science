@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml16)  [Next](cml18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml16)  [Next](cml18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ mythical stories of the Celts must have created the chivalrous romances
 of mediæval Europe. In them, and in no other previous literature, do we
 find such knightly treatment of an enemy as we see in the story of
 Cuchulainn and Ferdiad, or such poetic delicacy towards a woman as is
-displayed in the wooing of Emer. <span id="fr_215"></span>[1](#fn_215)
+displayed in the wooing of Emer. <span id="fr_215"></span>[1](#fn_215.md)
 The talk between man and maid when Cuchulainn comes in his chariot to
 pay his suit to Emer at Forgall's *dún* might, save for its strangeness,
 almost have come out of some quite modern romance.
@@ -98,7 +98,7 @@ of Erin and all honour-able people? I came under your shelter, trusting
 
 [![CUCHULAINN REBUKED BY EMER&lt;br&gt; From the Drawing by H. R.
 Millar](tn/18600.jpg)  
-Click to enlarge](img/18600.jpg)  
+Click to enlarge](img/18600.jpg.md)  
 CUCHULAINN REBUKED BY EMER  
 From the Drawing by H. R. Millar  
 
@@ -151,7 +151,7 @@ Manannán's mantle that those between whom it was shaken could never meet
 again. Then Fand returned with her divine husband to the country of the
 immortals; and the druids of Emain Macha gave Cuchulainn and Emer each a
 drink of oblivion, so that Cuchulainn forgot his love and Emer her
-jealousy. <span id="fr_216"></span>[1](#fn_216)
+jealousy. <span id="fr_216"></span>[1](#fn_216.md)
 
 The scene of this story takes its name from another, and hardly less
 beautiful love-tale. The "yew-tree at the head of Baile's strand" had
@@ -193,10 +193,10 @@ Ireland, ordered them to be brought to the hall of Tara,
 and, as soon as the wands found themselves under the same roof, they all
 sprang together, and no force or skill could part them again. So the
 king commanded them to be "kept, like any other jewel, in the treasury
-of Tara." <span id="fr_217"></span>[1](#fn_217)
+of Tara." <span id="fr_217"></span>[1](#fn_217.md)
 
 Neither of these stories, however, has as yet attained the fame of one
-now to be retold. <span id="fr_218"></span>[2](#fn_218) To many, no
+now to be retold. <span id="fr_218"></span>[2](#fn_218.md) To many, no
 doubt, Gaelic romance is summed up in the one word Deirdre. It is the
 legend of this Gaelic Helen that the poets of the modern Celtic school
 most love to elaborate, while old men still tell it round the peat-fires
@@ -238,8 +238,8 @@ as red as the calf's blood, that is the man whom I would wish to marry
 me."
 
 "Indeed there is such a man," replied her teacher thoughtlessly.
-"Naoise <span id="fr_219"></span>[1](#fn_219), one of the sons of
-Usnach <span id="fr_220"></span>[2](#fn_220), heroes of the same race as
+"Naoise <span id="fr_219"></span>[1](#fn_219.md), one of the sons of
+Usnach <span id="fr_220"></span>[2](#fn_220.md), heroes of the same race as
 Conchobar the King.
 
 The curious Deirdre prevailed upon her teacher to bring Naoise to speak
@@ -484,7 +484,7 @@ been given
 
 [![DEIRDRE'S LAMENT&lt;br&gt; From the Drawing by J. H. Bacon,
 A.R.A.](tn/19800.jpg)  
-Click to enlarge](img/19800.jpg)  
+Click to enlarge](img/19800.jpg.md)  
 DEIRDRE'S LAMENT  
 From the Drawing by J. H. Bacon, A.R.A.  
 
@@ -499,7 +499,7 @@ As for Deirdre, there are varying stories of her death, but most of them
 agree that she did not survive the sons of Usnach many hours. But,
 before she died, she made an elegy over them. That it is of a singular
 pathos and beauty the few verses which there is space to give will
-show. <span id="fr_221"></span>[1](#fn_221)
+show. <span id="fr_221"></span>[1](#fn_221.md)
 
 "Long the day without Usnach's children!  
 It was not mournful to be in their company!  
@@ -551,7 +551,7 @@ what it is now--a grassy hill.
 
 ### Footnotes
 
-<span id="fn_215"></span>[184:1](cml17.htm#fr_215) The romance of the
+<span id="fn_215"></span>[184:1](cml17.htm#fr_215.md) The romance of the
 Wooing of Emer, a fragment of which is contained in the Book of the Dun
 Cow, has been translated by Dr. Kuno Meyer, and published by him in the
 *Archæological Review*, Vol. I, 1888. Miss Hull has included this
@@ -559,17 +559,17 @@ translation in her *Cuchullin Saga*. Another version of it from a
 Bodleian MS., translated by the same scholar, will be found in the
 *Revue Celtique*, Vol. XI.
 
-<span id="fn_216"></span>[188:1](cml17.htm#fr_216) This story, known as
+<span id="fn_216"></span>[188:1](cml17.htm#fr_216.md) This story, known as
 the *Sick-Bed of Cuchulainn*, translated into French by M. d’Arbois de
 Jubainville, will be found in his *L’Épopée Celtique en Irlande*, the
 fifth volume of *Cour de Littérature Celtique*. Another translation,
 into English, by Eugene O’Curry is in *Atlantis*, Vols. I and II.
 
-<span id="fn_217"></span>[190:1](cml17.htm#fr_217) For the full story of
+<span id="fn_217"></span>[190:1](cml17.htm#fr_217.md) For the full story of
 Baile and Ailinn see Dr. Kuno Meyer's translation in Vol. XIII of the
 *Revue Celtique*.
 
-<span id="fn_218"></span>[190:2](cml17.htm#fr_218) There are not only
+<span id="fn_218"></span>[190:2](cml17.htm#fr_218.md) There are not only
 numerous translations of this romance, but also many Gaelic versions.
 The oldest of the latter is in the Book of Leinster, while the fullest
 are in two MSS. in the Advocates' Library at Edinburgh. The version
@@ -577,14 +577,14 @@ followed here is from one of these, the so-called Glenn Masáin MS.,
 translated by Dr, Whitley Stokes, and contained in Miss Hull's
 *Cuchullin Saga*.
 
-<span id="fn_219"></span>[191:1](cml17.htm#fr_219) Pronounced *Naisi*.
+<span id="fn_219"></span>[191:1](cml17.htm#fr_219.md) Pronounced *Naisi*.
 
-<span id="fn_220"></span>[191:2](cml17.htm#fr_220) Pronounced *Usna*.
+<span id="fn_220"></span>[191:2](cml17.htm#fr_220.md) Pronounced *Usna*.
 
-<span id="fn_221"></span>[199:1](cml17.htm#fr_221) It will be found in
+<span id="fn_221"></span>[199:1](cml17.htm#fr_221.md) It will be found in
 full in Miss Hull's *Cuchullin Saga*. The version there given was first
 translated into French by M. Ponsinet from the Book of Leinster.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Finn and the Fenians](cml18)
+[Next: Chapter XIV. Finn and the Fenians](cml18.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico090) 
-[Next](nico092) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico090.md) 
+[Next](nico092.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ is weak and every one has licence to do as he pleases.
 ------------------------------------------------------------------------
 
 [Next: Chapter 11. Corresponding forms of friendship, and of
-justice](nico092)
+justice](nico092.md)

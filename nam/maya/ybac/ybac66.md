@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac65)  [Next](ybac67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac65)  [Next](ybac67.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Gates, \[1937\], at Intangible Textual Heritage
 *Proclamation*.
 
 Required to be made by every chief of an expedition to the Indians at
-the moment of disembarking. <span id="fr_54"></span>[\*](#fn_53)
+the moment of disembarking. <span id="fr_54"></span>[\*](#fn_53.md)
 
 I, N. N., servant of the high and mighty kings of Castile and León, the
 conquerors of the barbarian peoples, being their messenger and captain,
@@ -106,11 +106,11 @@ me the signed testimonial.
 
 ### Footnotes
 
-<span id="fn_53"></span>[159:\*](ybac66.htm#fr_54) <span
+<span id="fn_53"></span>[159:\*](ybac66.htm#fr_54.md) <span
 id="page_160">p. 160</span> The Spanish text of this proclamation will
 be found as an appendix to volume I of Ancona's *Historia de Yucatan*;
 see also Stephens, Travels in Yucatan, II, 446.
 
 ------------------------------------------------------------------------
 
-[Next: Identification of Plant Names mentioned in Landa's text](ybac67)
+[Next: Identification of Plant Names mentioned in Landa's text](ybac67.md)

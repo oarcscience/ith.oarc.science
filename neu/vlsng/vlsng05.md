@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng04)  [Next](vlsng06) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng04)  [Next](vlsng06.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ all wisdom.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV: How King Siggeir wedded Signy, and bade King Volsung
-and his son to Gothland.](vlsng06)
+and his son to Gothland.](vlsng06.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta49.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ objective mind and he focuses all his partly awakened faculties upon
 <span id="img_20100"></span>
 
 [![JOHN AND THE VISION OF THE APOCALYPSE.](tn/20100.jpg)  
-Click to enlarge](img/20100.jpg)  
+Click to enlarge](img/20100.jpg.md)  
 JOHN AND THE VISION OF THE APOCALYPSE.  
 
 From an engraving by Jean Duvet.
@@ -306,7 +306,7 @@ of man there is dawning a great fear--the fear that
 <span id="img_20300"></span>
 
 [![THE ENTRANCE TO THE HOUSE OF THE MYSTERIES.](tn/20300.jpg)  
-Click to enlarge](img/20300.jpg)  
+Click to enlarge](img/20300.jpg.md)  
 THE ENTRANCE TO THE HOUSE OF THE MYSTERIES.  
 
 From Khunrath's *Amphitheatrum Sapientiæ*, etc.

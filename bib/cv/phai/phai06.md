@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai05) 
-[Next](phai07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai05.md) 
+[Next](phai07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -135,7 +135,7 @@ nevertheless seems to presuppose and to require the original homogeneity
 of all its members. Now the twofold ritual of the *pesaḥ* and the
 *maççoth* points to a twofold character of the feast. The *ḥag*,
 properly so named, is called not *ḥag ha-pesaḥ*,  <span
-id="fr_56"></span>[1](#fn_56) but *ḥag ha-maççoth*, and
+id="fr_56"></span>[1](#fn_56.md) but *ḥag ha-maççoth*, and
 
 <span id="page_86">p. 86</span>
 
@@ -162,7 +162,7 @@ barley harvest, and ends with that of wheat; Easter its beginning in the
 harvest time, computed at seven weeks. The whole of this *tempus
 clausum* is a great festal season rounded off by the two festivals. We
 gain further light from Lev. xxiii. 9-22.  <span
-id="fr_57"></span>[1](#fn_57) The Easter point is here, as in
+id="fr_57"></span>[1](#fn_57.md) The Easter point is here, as in
 Deuteronomy, fixed as being the beginning of harvest, but is still more
 definitely determined as the day after the first Sabbath falling within
 harvest time, and Pentecost follows the same reckoning. And the special
@@ -193,7 +193,7 @@ the category of the later spiritual refinements of sacrificial material.
 
 Easter then is the opening, as Pentecost is the closing festivity, or
 (what means the same thing) *‘açereth*, <span
-id="fr_58"></span>[1](#fn_58) of the seven weeks’ "joy of harvest," and
+id="fr_58"></span>[1](#fn_58.md) of the seven weeks’ "joy of harvest," and
 the spring festival no longer puzzles us by the place it holds in the
 cycle of the three yearly festivities. But what is the state of the case
 as regards the *pesaḥ?* The meaning of the name is not clear; as we have
@@ -262,7 +262,7 @@ taken of it in the Priestly Code, has a thoroughly joyous character
 historical instances indeed of the surrender of an only child or of the
 dearest one, but always as a voluntary and quite exceptional act; the
 contrary is not proved by Hosea xiii. 2. <span
-id="fr_59"></span>[1](#fn_59) The offering of human first-born was
+id="fr_59"></span>[1](#fn_59.md) The offering of human first-born was
 certainly no regular or commanded exaction in ancient times; there are
 no traces of so enormous a blood tax, but, on the contrary, many of a
 great preference for eldest sons. It was not until shortly before the
@@ -314,7 +314,7 @@ dues can hardly be thought of for the purpose of holding a joyous
 festival before Jehovah; the dues are, properly speaking, simply those
 sacrifices prescribed by popular custom, and therefore fixed and festal,
 of which alone the law has occasion to treat. <span
-id="fr_60"></span>[1](#fn_60) It results from the very nature of the
+id="fr_60"></span>[1](#fn_60.md) It results from the very nature of the
 case that the people come together to offer thanks for Jehovah's
 blessing, but no special emphasis is laid upon this. In the Jehovistic
 legislation (Exod. xxiii., xxxiv.) the terms have not yet come to be
@@ -340,7 +340,7 @@ individual instances have availed himself of liberty of exchange, all
 the more because even then his gift, as a sacrificial meal, was
 essentially a benefit to himself (Exod. xxiii. 18; Gen. iv. 4,
 ‏ומחלביהן‎). For the first-fruits of the field Exodus prescribes no
-measure at all, [Deuteronomy](errata.htm#1) demands the tithe of corn,
+measure at all, [Deuteronomy](errata.htm#1.md) demands the tithe of corn,
 wine, and oil, which, however, is not to be understood with mathematical
 strictness, inasmuch as it is used at sacrificial meals, is not made
 over to a second party, and thus does not require to be accounted for.
@@ -415,7 +415,7 @@ basis; only the passover therefore can be regarded as belonging, to the
 
 <span id="page_93">p. 93</span>
 
-number of these. <span id="fr_61"></span>[1](#fn_61) It is with perfect
+number of these. <span id="fr_61"></span>[1](#fn_61.md) It is with perfect
 accuracy accordingly that precisely the passover is postulated as having
 been the occasion of the exodus, as being a sacrificial feast that has
 to be celebrated in the wilderness and has nothing to do with
@@ -471,7 +471,7 @@ xix. seq. be as a whole untrustworthy as history, this does not apply to
 the casual trait just mentioned, especially as it is confirmed by 1 Sam.
 i. In this last-cited passage a feast at Shiloh is also spoken of, as
 occurring at the end of the year, that is, in autumn at the time of the
-*asiph*, <span id="fr_62"></span>[1](#fn_62) and as being an attraction
+*asiph*, <span id="fr_62"></span>[1](#fn_62.md) and as being an attraction
 to pilgrims from the neighbourhood. Obviously the feast does not occur
 in all places at once, but at certain definite places (in Ephraim) which
 then influence the surrounding district. The thing is connected with the
@@ -485,7 +485,7 @@ Over and above this the erection of great royal temples must have
 exerted an important influence. Alike at Jerusalem and at Bethel "the
 feast" was celebrated from the days of Solomon and Jeroboam just as
 previously at Shechem and Shiloh, in the former place in September, in
-the latter perhaps somewhat later. <span id="fr_63"></span>[2](#fn_63)
+the latter perhaps somewhat later. <span id="fr_63"></span>[2](#fn_63.md)
 This was at that period
 
 <span id="page_95">p. 95</span>
@@ -545,7 +545,7 @@ this, that it was the only general festival at Jerusalem and Bethel;
 local celebrations "at all threshing floors "—*i.e.*, on all high
 places—are not thereby excluded (Hos. ix. 1). But the Jehovistic
 legislation makes no distinction of local and central, for it ignores
-the great temples throughout. <span id="fr_64"></span>[1](#fn_64)
+the great temples throughout. <span id="fr_64"></span>[1](#fn_64.md)
 Possibly, also, it to some extent systematises the hitherto somewhat
 vaguer custom; the transition from the *aparchai* to a feast was perhaps
 in practice still somewhat incomplete. In the paucity of positive data
@@ -587,7 +587,7 @@ answer the earth, and the earth shall answer the corn and the wine and
 the oil, and these shall answer Jezreel" (ii. 7-24 \[5-22\]). The
 blessing of the land is here the end of religion, and that quite
 generally,—alike of the false heathenish and of the true
-Israelitish. <span id="fr_65"></span>[1](#fn_65) It has for its basis no
+Israelitish. <span id="fr_65"></span>[1](#fn_65.md) It has for its basis no
 historical acts of salvation, but nature simply, which, however, is
 regarded only as God's domain and as man's field of labour, and is in no
 manner itself deified. The land is Jehovah's house (viii. 1, ix. 15),
@@ -625,7 +625,7 @@ floor and the wine-press shall not feed them, and the new wine shall
 fail them. They shall not dwell in Jehovah's land; Ephraim must return
 to Egypt, and eat what is unclean in Assyria. Then shall they no more
 pour out wine to Jehovah, or set in order sacrifices to Him; like bread
-of mourners is their bread, <span id="fr_66"></span>[1](#fn_66) all that
+of mourners is their bread, <span id="fr_66"></span>[1](#fn_66.md) all that
 eat thereof become unclean, for their bread shall only be for their
 hunger, it shall not come into the house of the Lord. What will ye do in
 the day of festival and in the day of the feast of the Lord? For lo,
@@ -645,7 +645,7 @@ pleasure of life is concentrated in the house of Jehovah at the joyous
 banquets held to celebrate the coming of the gifts of His mild
 beneficence; no more dreadful thought than that a man must eat his bread
 like unclean food, like bread of mourners, without having offered the
-*aparchai* at the festival. <span id="fr_67"></span>[2](#fn_67) It is
+*aparchai* at the festival. <span id="fr_67"></span>[2](#fn_67.md) It is
 this
 
 <span id="page_99">p. 99</span>
@@ -818,7 +818,7 @@ legislation (Exod. xii. 1 seq.), and the difficulty that now in the case
 of the passover the sanctuary which elsewhere in the Priestly Code is
 indispensable must be left out of sight is got over by divesting it as
 much as possible of its sacrificial character. <span
-id="fr_68"></span>[1](#fn_68)
+id="fr_68"></span>[1](#fn_68.md)
 
 <span id="page_103">p. 103</span>
 
@@ -907,7 +907,7 @@ not merely an ordinary but also an extraordinary
 feast day more, the day after the passover, on which already, according
 to the injunctions of Deuteronomy, the pilgrims were required to set out
 early in the morning on the return journey to their homes. <span
-id="fr_69"></span>[1](#fn_69) Another advance consists in this, that not
+id="fr_69"></span>[1](#fn_69.md) Another advance consists in this, that not
 only the passover, as in Deuteronomy, or the additional first day of the
 feast besides, but also the seventh (which, according to Deuteronomy
 xvi. 8, is marked only by rest), must be observed as *miḳra ḳodesh* in
@@ -1059,7 +1059,7 @@ Deuteronomy was discovered in the eighteenth year of Josiah, and in the
 very same year Easter was observed in accordance with the prescriptions
 of that law—which could not have been unless the year had begun in
 autumn. Now the *ecclesiastical* festival of new year in the Priestly
-Code is also autumnal. <span id="fr_70"></span>[1](#fn_70) The *yom
+Code is also autumnal. <span id="fr_70"></span>[1](#fn_70.md) The *yom
 teruah* (Lev. xxiii 24, 25; Num, xxix. 1 seq.) falls on the first new
 moon of autumn, and it follows from a tradition confirmed by Lev. xxv.
 9, 10,
@@ -1074,7 +1074,7 @@ from an earlier period, and betrays strikingly the priority of the
 division of the year that prevailed in the time of the older monarchy.
 It appears to have first begun to give way under the influence of the
 Babylonians, who observed the spring era. <span
-id="fr_71"></span>[1](#fn_71) For the designation of the months by
+id="fr_71"></span>[1](#fn_71.md) For the designation of the months by
 numbers instead of by the old Hebrew names, Abib, Zif, Bul, Ethanim and
 the like,—a style which arises together with the use of the spring
 era,—does not yet occur in Deuteronomy (xvi. 1), but apart from the
@@ -1082,7 +1082,7 @@ Priestly Code, and the last redactor of the Pentateuch (Deut. i. 3) is
 found for the first time in writers of the period of the exile. It is
 first found in Jeremiah, but only in those portions of his book which
 were not committed to writing by him, or at least have been edited by a
-later hand; <span id="fr_72"></span>[2](#fn_72) then in Ezekiel and the
+later hand; <span id="fr_72"></span>[2](#fn_72.md) then in Ezekiel and the
 author of the Book of Kings, who explains the names he found in his
 source by giving the numbers (1 Kings vi. 37, 38, viii. 2); next in
 Haggai and Zechariah; and lastly in Chronicles, though here already the
@@ -1116,7 +1116,7 @@ During the exile the observance of the ecclesiastical new year seems to
 have taken place not on the first but on the tenth of the seventh month
 (Lev. xxv. 9; Ezek. xl. 1), and there is nothing to be wondered at in
 this, after once it had come to be separated from the actual beginning
-of the year. <span id="fr_73"></span>[1](#fn_73) This fact alone would
+of the year. <span id="fr_73"></span>[1](#fn_73.md) This fact alone would
 suffice to bring into a clear light the late origin of the great day of
 atonement in Leviticus xvi., which at a subsequent period was observed
 on this date; for although as a ceremonial of general purification that
@@ -1161,7 +1161,7 @@ specially interested in the liturgical element, but it is made up for on
 the twenty-fourth (Neh. viii., ix.). This *testimonium e silentio* is
 enough; down to that date the great day of the Priestly Code (now
 introduced for the first time) had not existed. <span
-id="fr_74"></span>[1](#fn_74) The term is partly fixed, following
+id="fr_74"></span>[1](#fn_74.md) The term is partly fixed, following
 Ezekiel, by reference to the old new year's day (Lev. xxv. 9); partly,
 following Zechariah, by reference to the fast of Gedaliah, which indeed
 was still observed later as a separate solemnity.
@@ -1181,7 +1181,7 @@ were possible only in the
 <span id="page_112">p. 112</span>
 
 <span class="contnote">\[paragraph continues\]</span> Holy Land. <span
-id="fr_75"></span>[1](#fn_75) At last they came into a position of
+id="fr_75"></span>[1](#fn_75.md) At last they came into a position of
 co-ordination with the feasts, and became a stated and very important
 element of the ordinary worship. In the Priestly Code, the great fast in
 the tenth of the seventh month is the holiest day of all the year.
@@ -1215,13 +1215,13 @@ it is not Sunday, as we might say. Probably the Sabbath was originally
 regulated by the phases of the moon, and thus occurred on the seventh,
 fourteenth, twenty-first (and twenty-eighth) day of the month, the new
 moon being reckoned as the first; at least no other explanation can be
-discovered. <span id="fr_76"></span>[2](#fn_76) For that the week should
+discovered. <span id="fr_76"></span>[2](#fn_76.md) For that the week should
 
 <span id="page_113">p. 113</span>
 
 be conditioned by the seven planets seems very barely credible. It was
 not until after people had got their seven days that they began to call
-them after the seven planets; <span id="fr_77"></span>[1](#fn_77)the
+them after the seven planets; <span id="fr_77"></span>[1](#fn_77.md)the
 number seven is the only bond of connection between them. Doubtless the
 week is older than the names of its days.
 
@@ -1231,7 +1231,7 @@ the pre-historic period the new moon must have been observed with such
 preference that an ancient name for it, which is no longer found in
 Biblical Hebrew, even furnished the root of the general word for a
 festive occasion, which is used for the vintage feast in a passage so
-early as Judges ix. 27. <span id="fr_78"></span>[2](#fn_78) But it is
+early as Judges ix. 27. <span id="fr_78"></span>[2](#fn_78.md) But it is
 established by historical testimonies besides that the new moon festival
 anciently stood, at least, on a level with that of the Sabbath. Compare
 1 Sam. xx. 5, 6; 2 Kings iv. 23; Amos viii. 5; Isa. i. 13; Hos. ii. 13
@@ -1311,7 +1311,7 @@ of nature, having its reason with itself, and being observed even by the
 Creator. The original narrative of the Creation, according to which God
 finished His work on the seventh day, and therefore sanctified it, is
 amended so as to be made to say that He finished in six days and rested
-on the seventh. <span id="fr_79"></span>[1](#fn_79)
+on the seventh. <span id="fr_79"></span>[1](#fn_79.md)
 
 Tendencies to such an exaggeration of the Sabbath rest as would make it
 absolute are found from the Chaldæan period. While Isaiah, regarding the
@@ -1519,12 +1519,12 @@ possession only until the seventh year.
 
 ### Footnotes
 
-<span id="fn_56"></span>[85:1](phai06.htm#fr_56) The original form of
+<span id="fn_56"></span>[85:1](phai06.htm#fr_56.md) The original form of
 the expression of Exodus xxxiv. 25 has been preserved in Exodus xxiii.
 18 (‏חגּי‎ not ‏חנ הפסח‎). In Deuteronomy, although ‏פסח‎ is more
 prominent, it is called ‏הנ המצות‎ in xvi. 16.
 
-<span id="fn_57"></span>[86:1](phai06.htm#fr_57) Against this there is
+<span id="fn_57"></span>[86:1](phai06.htm#fr_57.md) Against this there is
 of course possible the objection that the passage at present forms part
 of the Priestly Code. But the collection of laws embraced in Lev.
 xvii.-xxvi, it is well known, has merely been redacted and incorporated
@@ -1535,12 +1535,12 @@ other, and the use of Lev. xxiii. 9-22 in this connection is completely
 justified by the consideration that only in this way do the rites it
 describes find meaning and vitality.
 
-<span id="fn_58"></span>[87:1](phai06.htm#fr_58) Haneberg,
+<span id="fn_58"></span>[87:1](phai06.htm#fr_58.md) Haneberg,
 *Alterthümer*, 2d edit., p. 656. In Deuteronomy Pentecost as *‘açereth*
 lasts for only one day, while Easter and the feast of tabernacles each
 last a week.
 
-<span id="fn_59"></span>[89:1](phai06.htm#fr_59) "They make them molten
+<span id="fn_59"></span>[89:1](phai06.htm#fr_59.md) "They make them molten
 images of their silver, idols according to their fancy. To them they
 speak, men doing sacrifice kiss calves!" The prophet would hardly blame
 human sacrifices only thus incidentally, more in ridicule than in high
@@ -1550,7 +1550,7 @@ revolting character of the action much more than its absurdity. Thus
 At the same time, even if the expression did mean "sacrificers of men,"
 it would prove nothing regarding regular sacrifices of children.
 
-<span id="fn_60"></span>[90:1](phai06.htm#fr_60) Deut. xii. 6 seq., 11
+<span id="fn_60"></span>[90:1](phai06.htm#fr_60.md) Deut. xii. 6 seq., 11
 seq., xiv. 23-26, xvi. 7, 11, 14. In the section xiv. 22-xvi. 17, dues
 and feasts are taken together. In the first half (xiv. 22-xv. 18) there
 is a progression from those acts which are repeated within the course of
@@ -1560,7 +1560,7 @@ is again made to the principal, that is, the seasonal dues, first to the
 firstlings and the passover feast, and afterwards to the two others, in
 connection with which the tithes of the fruits are offered.
 
-<span id="fn_61"></span>[93:1](phai06.htm#fr_61) The ancient Arabs also
+<span id="fn_61"></span>[93:1](phai06.htm#fr_61.md) The ancient Arabs also
 observed the sacrifice of the firstlings as a solemnity in the sacred
 month Rajab, which originally fell in spring (comp. Ewald, *Ztschr. f.
 d. Kunde des Morgenlandes*, 1840, p. 419; Robertson Smith, *Prophets*,
@@ -1570,21 +1570,21 @@ pastoral Judah, is the sheep-shearing (1 Sam. xxv. 2 seq.; Gen. xxxviii.
 independent festival. *Aparchai* of wool and flax are mentioned in Hosea
 (ii. 7, 11 \[A.V. 5, 9\]) as of wool alone in Deuteronomy (xviii. 4).
 
-<span id="fn_62"></span>[94:1](phai06.htm#fr_62) ‏לחקפת הימים‎ (*i.e.*,
+<span id="fn_62"></span>[94:1](phai06.htm#fr_62.md) ‏לחקפת הימים‎ (*i.e.*,
 at the new year) 1 Sam. i. 20; Exod. xxxiv. 22. In this sense is also to
 be understood ‏מימים ימימה‎ Judges xxi. 19, 1 Sam. i. 3. Comp. Zech.
 xiv. 16.
 
-<span id="fn_63"></span>[94:2](phai06.htm#fr_63) 1 Kings xii. 32 is, it
+<span id="fn_63"></span>[94:2](phai06.htm#fr_63.md) 1 Kings xii. 32 is, it
 must be owned, far from trustworthy. 1 Kings viii. 2 is difficult to
 harmonise with vi. 38, if the interpretation of Bul and Ethanim is
 correct.
 
-<span id="fn_64"></span>[96:1](phai06.htm#fr_64) Exod. xx. 24-26 looks
+<span id="fn_64"></span>[96:1](phai06.htm#fr_64.md) Exod. xx. 24-26 looks
 almost like a protest against the arrangements of the temple of
 Solomon,—especially ver. 26.
 
-<span id="fn_65"></span>[97:1](phai06.htm#fr_65) Comp. Zech. xiv. 16
+<span id="fn_65"></span>[97:1](phai06.htm#fr_65.md) Comp. Zech. xiv. 16
 seq. All that are left of the nations which came against Jerusalem shall
 go up from year to year to worship Jehovah of hosts and to keep the
 feast of tabernacles. And whoso of the families of the earth shall not
@@ -1593,11 +1593,11 @@ no rain*. But for the Egyptians—who on account of the Nile are
 independent of rain—another punishment is threatened if they do not come
 to keep the feast of tabernacles.
 
-<span id="fn_66"></span>[98:1](phai06.htm#fr_66) For ‏יערבו‎ (ix. 4)
+<span id="fn_66"></span>[98:1](phai06.htm#fr_66) For ‏יערבו‎ (ix. 4.md)
 read ‏יערכו‎, and ‏לחמם‎ for ‏לחם‎. See Kuenen, *National Religions and
 Universal Religions* (1882), p. 312 seq.
 
-<span id="fn_67"></span>[98:2](phai06.htm#fr_67) Times of mourning are,
+<span id="fn_67"></span>[98:2](phai06.htm#fr_67.md) Times of mourning are,
 so to speak, times of interdict, during which intercourse between God
 and man is suspended. Further, nothing at all was ever eaten except that
 of which God had in the first instance received His share;—not only no
@@ -1605,7 +1605,7 @@ flesh but also no vegetable food, for the "first-fruits" of corn and
 wine represented the produce of the year and sanctified the whole. All
 else was unclean. Comp. Ezek. iv. 13.
 
-<span id="fn_68"></span>[102:1](phai06.htm#fr_68) The ignoring of the
+<span id="fn_68"></span>[102:1](phai06.htm#fr_68.md) The ignoring of the
 sanctuary has a reason only in the case of the first passover, and
 perhaps ought to be regarded as holding good for that only. The
 distinction <span id="page_103">p. 103</span> between the ‏פסח מצרים‎
@@ -1615,7 +1615,7 @@ it is argued for the originality of the passover ritual in the Priestly
 Code that it alone fits in with the conditions of the sojourn in Egypt,
 the position is not to be disputed.
 
-<span id="fn_69"></span>[105:1](phai06.htm#fr_69) It is impossible to
+<span id="fn_69"></span>[105:1](phai06.htm#fr_69.md) It is impossible to
 explain away this discrepancy by the circumstance that in the Priestly
 Code the day is reckoned from the evening; for (1.) this fact has no
 practical bearing, as the dating reckons at any rate from the morning,
@@ -1629,23 +1629,23 @@ in Josh. v. 11 to the 14th, but as in Jewish tradition (LXX on Lev.
 xxiii. 11) to the day following the 15th of Nisan, the 16th of Nisan is
 added to the 14th and 15th as a special feast day.
 
-<span id="fn_70"></span>[108:1](phai06.htm#fr_70) In this way
+<span id="fn_70"></span>[108:1](phai06.htm#fr_70.md) In this way
 Tabernacles comes not before but after new year; this probably is
 connected with the more definite dating (on the fifteenth day of the
 month), but is quite contrary to the old custom and the meaning of the
 feast.
 
-<span id="fn_71"></span>[109:1](phai06.htm#fr_71) In Exod. xii. 2 this
+<span id="fn_71"></span>[109:1](phai06.htm#fr_71.md) In Exod. xii. 2 this
 change of era is formally commanded by Moses: "This month (the passover
 month) shall be the beginning of months unto you, it shall be to you the
 first of the months of the year." According to George Smith, the
 Assyrian year commenced at the vernal equinox; the Assyrian use depends
 on the Babylonian (*Assyrian Eponym Canon*, p. 19).
 
-<span id="fn_72"></span>[109:2](phai06.htm#fr_72) Kuenen, *Hist.-Krit.
+<span id="fn_72"></span>[109:2](phai06.htm#fr_72.md) Kuenen, *Hist.-Krit.
 Onderzoek* (1863), ii. pp. 197, 214.
 
-<span id="fn_73"></span>[110:1](phai06.htm#fr_73) The tenth of the month
+<span id="fn_73"></span>[110:1](phai06.htm#fr_73.md) The tenth of the month
 is to be taken in Ezekiel as strictly new year's day; for the
 designation ‏ראש השנה‎ occurs in no other meaning than this, and
 moreover it is by no mere accident that the prophet has his vision of
@@ -1653,7 +1653,7 @@ the new Jerusalem precisely at the new year. But according to Lev. xxv.
 9 it is the seventh month that is meant, on the tenth day of which the
 trumpets are blown at the commencement of the year of jubilee.
 
-<span id="fn_74"></span>[111:1](phai06.htm#fr_74) "If Lev. xvi. belongs
+<span id="fn_74"></span>[111:1](phai06.htm#fr_74.md) "If Lev. xvi. belongs
 to the original of the Priestly Code, and the entire Pentateuch was
 published by Ezra in the year 444, and yet the day was not then
 celebrated, then it has *ipso facto* been conceded that it is possible
@@ -1662,12 +1662,12 @@ Dillmann in his introduction to Lev. xvi. (1880, p. 525); every one will
 grant him that the law, before it could attain public currency, must
 have been previously written and promulgated.
 
-<span id="fn_75"></span>[112:1](phai06.htm#fr_75) After the second
+<span id="fn_75"></span>[112:1](phai06.htm#fr_75.md) After the second
 destruction of Jerusalem by Titus, the system of fasts received such an
 impulse that it was necessary to draw up a list of the days on which
 fasting was forbidden.
 
-<span id="fn_76"></span>[112:2](phai06.htm#fr_76) George Smith,
+<span id="fn_76"></span>[112:2](phai06.htm#fr_76.md) George Smith,
 *Assyrian Eponym Canon*, pp. 19, 20. "Among the Assyrians the first
 twenty-eight days of every month were divided into four weeks of seven
 days <span id="page_113">p. 113</span> each, the seventh, fourteenth,
@@ -1685,18 +1685,18 @@ afterwards became the weekly festival day. The identity of the Syriac
 word (τὰ σάββατα) in the New Testament) with the Hebrew is guaranteed by
 the twofold Arabic form.
 
-<span id="fn_77"></span>[113:1](phai06.htm#fr_77) The peculiar order in
+<span id="fn_77"></span>[113:1](phai06.htm#fr_77.md) The peculiar order in
 which the names of the planets are used to designate the days of the
 week makes this very clear; see Ideler, *Handb. d. Chron.* i. 178 seq.,
 ii 77 seq.
 
-<span id="fn_78"></span>[113:2](phai06.htm#fr_78) Sprenger (*Leben Moh.*
+<span id="fn_78"></span>[113:2](phai06.htm#fr_78.md) Sprenger (*Leben Moh.*
 iii. 527) and Lagarde have rightly correlated the Hebrew *hallel* with
 the Arabic *ahalla* (to call out, *labbaika*, see, for example Abulf. i.
 p. 180). But there is no uncertainty as to the derivation of *ahalla*
 from *hilál* (new moon)
 
-<span id="fn_79"></span>[115:1](phai06.htm#fr_79) The contradiction is
+<span id="fn_79"></span>[115:1](phai06.htm#fr_79.md) The contradiction is
 indubitable when in Gen. ii. 2 it is said in the first place that on the
 seventh day God ended the work which He had made; and then that He
 rested on the seventh day from His work. Obviously the second clause is
@@ -1704,4 +1704,4 @@ an authentic interpretation added from very intelligible motives.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Priests and the Levites.](phai07)
+[Next: Chapter IV. The Priests and the Levites.](phai07.md)

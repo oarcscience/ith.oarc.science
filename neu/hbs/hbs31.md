@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs30) [Next](hbs32)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs30) [Next](hbs32.md)
 
 ------------------------------------------------------------------------
 
@@ -157,7 +157,7 @@ That none might say where the hero lay, and mock at him therefore.
 
 ------------------------------------------------------------------------
 
-[Next](hbs32)
+[Next](hbs32.md)
 
  
 

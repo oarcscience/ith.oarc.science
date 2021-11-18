@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos15)  [Next](dos17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos15)  [Next](dos17.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ stopped and listened. And suddenly, they heard the sound of the voice of
 a woman, weeping in the wood. Then full of astonishment, they proceeded
 in the direction of the sound: and all at once they saw Shrí, sitting
 under a tree, looking like an in-carnation of Rati grieving for her
-husband, when burned by Maheshwara <span id="fr_75"></span>[a](#fn_75).
+husband, when burned by Maheshwara <span id="fr_75"></span>[a](#fn_75.md).
 For her clothes were torn, and her hair was dishevelled, and her great
 eyes filled with tears resembled the petals of a blue lotus sparkling
 with drops of water cast upon them by the sporting of swans in a pool.
@@ -67,7 +67,7 @@ as if a stone had been dropped into a nest of serpents.
 Then one laid hands upon her, and then another, till she was nearly torn
 in pieces. And finally they came to blows, and fought for her over her
 body, filled by the frenzy begotten by her beauty, and the desire of
-exclusive possession <span id="fr_76"></span>[b](#fn_76). And very soon
+exclusive possession <span id="fr_76"></span>[b](#fn_76.md). And very soon
 they were all either dead or dying of wounds, for each was more eager to
 destroy another than to protect himself: and they lay all about her
 unable to move. Then Shrí, seizing her opportunity, and urged by terror,
@@ -79,7 +79,7 @@ she lay down at the edge of the water and drank greedily; and afterwards
 washed her wound and stains, and bathed her feet, and overcome by
 weariness, fell asleep. Then the moon rose, and stole through the trees
 and kissed her with beams that trembled with admiration <span
-id="fr_77"></span>[c](#fn_77); and the wild animals came down, one by
+id="fr_77"></span>[c](#fn_77.md); and the wild animals came down, one by
 one, to drink at the
 
 <span id="page_95">p. 95</span>
@@ -138,15 +138,15 @@ she will desire to abandon the body of her own accord.
 
 ### Footnotes
 
-<span id="fn_75"></span>[93:a](dos16.htm#fr_75) See note, [p.
-9](dos03.htm#page_9).
+<span id="fn_75"></span>[93:a](dos16.htm#fr_75.md) See note, [p.
+9](dos03.htm#page_9.md).
 
-<span id="fn_76"></span>[94:b](dos16.htm#fr_76) *ahamahamiká*, 'each one
+<span id="fn_76"></span>[94:b](dos16.htm#fr_76.md) *ahamahamiká*, 'each one
 saying I, I.'
 
-<span id="fn_77"></span>[94:c](dos16.htm#fr_77) The Moon proper, in
+<span id="fn_77"></span>[94:c](dos16.htm#fr_77.md) The Moon proper, in
 Sanskrit, is *Lunus*, not *Luna*.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. Illusion](dos17)
+[Next: XIV. Illusion](dos17.md)

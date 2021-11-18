@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre03)  [Next](vre05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre03)  [Next](vre05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ conception in which these were
 
 unified as a thing more misleading than enlightening. And why may not
 religion be a conception equally complex? <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
  
 
@@ -257,7 +257,7 @@ sentences of the olden time, which ejaculate this piety, are still fresh
 and fragrant. And the unique impression of Jesus upon mankind, whose
 name is not so much written as ploughed into the history of this world,
 is proof of the subtle virtue of this infusion." <span
-id="fr_9"></span>[1](#fn_9)
+id="fr_9"></span>[1](#fn_9.md)
 
 Such is the Emersonian religion. The universe has a divine soul of
 order, which soul is moral, being also the soul within the soul of man.
@@ -281,7 +281,7 @@ impossible to tilt the beam. All the tyrants and proprietors and
 monopolists of the world in vain set their shoulders to heave the bar.
 Settles forevermore the ponderous equator to its line, and man and mote,
 and star and sun, must range to it, or be pulverized by the
-recoil." <span id="fr_10"></span>[2](#fn_10)
+recoil." <span id="fr_10"></span>[2](#fn_10.md)
 
 Now it would be too absurd to say that the inner experiences that
 underlie such expressions of faith as this and impel the writer to their
@@ -363,7 +363,7 @@ even when all the days are over."
 Much as we may admire such a robust old gamecock spirit in a
 valetudinarian, to call it a religious spirit would be odd. Yet it is
 for the moment Voltaire's reaction on the whole of life. *Je*
-[*me’n*](errata.htm#0) *fiche* is the vulgar French equivalent for our
+[*me’n*](errata.htm#0.md) *fiche* is the vulgar French equivalent for our
 English ejaculation "Who cares?" And the happy term *je me’n fichisme*
 recently has been invented to designate the systematic determination not
 to take anything in
@@ -402,7 +402,7 @@ suited to our modern feeling. Only we wish the Eternal to know that if
 we accept the fraud, we accept it knowingly and willingly. We are
 resigned in advance to losing the interest on our investments of virtue,
 but we wish not to appear ridiculous by having counted on them too
-securely." <span id="fr_11"></span>[1](#fn_11)
+securely." <span id="fr_11"></span>[1](#fn_11.md)
 
 <span id="page_38">p. 38</span>
 
@@ -494,7 +494,7 @@ happiness—care and weariness, weariness and care, with the baseless
 expectation, the strange cozenage of a brighter to-morrow? At best it is
 but a froward child, that must be played with and humored, to keep it
 quiet till it falls asleep, and then the care is over." <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 This is a complex, a tender, a submissive, and a graceful state of mind.
 For myself, I should have no objection to calling it on the whole a
@@ -589,7 +589,7 @@ brought on any man what he has brought if it were not useful for the
 whole. The integrity of the whole is mutilated if thou cuttest off
 anything. And thou dost cut off, as far as it is in thy power, when thou
 art dissatisfied, and in a manner triest to put anything out of the
-way." <span id="fr_13"></span>[1](#fn_13)</span>
+way." <span id="fr_13"></span>[1](#fn_13.md)</span>
 
 Compare now this mood with that of the old Christian author of the
 Theologia Germanica:—
@@ -623,7 +623,7 @@ God only, he is made a partaker of all manner of joy, bliss, peace,
 rest, and consolation, and so the man is henceforth in the kingdom of
 heaven. This hell and this heaven are two good safe ways for a man, and
 happy is he who truly findeth them." <span
-id="fr_14"></span>[1](#fn_14)</span>
+id="fr_14"></span>[1](#fn_14.md)</span>
 
 How much more active and positive the impulse of the Christian writer to
 accept his place in the universe is! Marcus Aurelius agrees *to* the
@@ -638,7 +638,7 @@ to thee, O Universe. Nothing for me is too early nor too late, which is
 in due time for thee. Everything is fruit to me which thy seasons bring,
 O Nature: from thee are all things, in thee are all things, to thee all
 things return. The poet says, Dear City of Cecrops; and wilt thou not
-say, Dear City of Zeus?" <span id="fr_15"></span>[2](#fn_15)</span>
+say, Dear City of Zeus?" <span id="fr_15"></span>[2](#fn_15.md)</span>
 
 But compare even as devout a passage as this with a genuine Christian
 outpouring, and it seems a little cold. Turn, for instance, to the
@@ -658,7 +658,7 @@ heaven.</span>
 <span class="contnote">\[paragraph continues\]</span> <span
 class="small">Where thou art, there is heaven; and where thou art not,
 behold there death and hell."</span> <span
-id="fr_16"></span>[17](#fn_16)
+id="fr_16"></span>[17](#fn_16.md)
 
 It is a good rule in physiology, when we are studying the meaning of an
 organ, to ask after its most peculiar and characteristic sort of
@@ -770,7 +770,7 @@ enthusiastic temper of espousal, in regions where morality strictly so
 called can at best but bow its head and acquiesce. It ought to mean
 nothing short of this new reach of freedom for us, with the struggle
 over, the keynote of the universe sounding in our ears, and everlasting
-possession spread before our eyes. <span id="fr_17"></span>[1](#fn_17)
+possession spread before our eyes. <span id="fr_17"></span>[1](#fn_17.md)
 
 This sort of happiness in the absolute and everlasting is what we find
 nowhere but in religion. It is parted off from all mere animal
@@ -800,7 +800,7 @@ and the resultant is not discomfort or pain, not even the muscular
 contraction of strenuous manhood, but a joyous expansion or aspiration
 of the whole soul—there is religion. It is the infinite for which we
 hunger, and we ride gladly on every little wave that promises to bear us
-towards it." <span id="fr_18"></span>[1](#fn_18)</span>
+towards it." <span id="fr_18"></span>[1](#fn_18.md)</span>
 
 But such a straight identification of religion with any and every form
 of happiness leaves the essential peculiarity of religious happiness
@@ -828,7 +828,7 @@ world is all the richer for having a devil in it, *so long as we keep
 our foot upon his neck*. In the religious consciousness, that is just
 the position in which the fiend, the negative or tragic principle, is
 found; and for that very reason the religious consciousness is so rich
-from the emotional point of view. <span id="fr_19"></span>[1](#fn_19) We
+from the emotional point of view. <span id="fr_19"></span>[1](#fn_19.md) We
 shall see how in certain men and women it takes on a monstrously ascetic
 form. There are saints who have literally fed on the negative principle,
 on humiliation and privation, and the thought of suffering and
@@ -910,51 +910,51 @@ concrete facts.
 
 ### Footnotes
 
-<span id="fn_8"></span>[28:1](vre04.htm#fr_8) I can do no better here
+<span id="fn_8"></span>[28:1](vre04.htm#fr_8.md) I can do no better here
 than refer my readers to the extended and admirable remarks on the
 futility of all these definitions of religion, in an article by
 Professor Leuba, published in the Monist for January, 1901, after my own
 text was written.
 
-<span id="fn_9"></span>[33:1](vre04.htm#fr_9) Miscellanies, 1868, p. 120
+<span id="fn_9"></span>[33:1](vre04.htm#fr_9.md) Miscellanies, 1868, p. 120
 (abridged).
 
-<span id="fn_10"></span>[34:2](vre04.htm#fr_10) Lectures and
+<span id="fn_10"></span>[34:2](vre04.htm#fr_10.md) Lectures and
 Biographical Sketches, 1868, p. 186.
 
-<span id="fn_11"></span>[37:1](vre04.htm#fr_11) Feuilles détachées, pp.
+<span id="fn_11"></span>[37:1](vre04.htm#fr_11.md) Feuilles détachées, pp.
 394-398 (abridged).
 
-<span id="fn_12"></span>[40:1](vre04.htm#fr_12) Op. cit., pp. 314, 313.
+<span id="fn_12"></span>[40:1](vre04.htm#fr_12.md) Op. cit., pp. 314, 313.
 
-<span id="fn_13"></span>[43:1](vre04.htm#fr_13) Book V., ch. ix.
+<span id="fn_13"></span>[43:1](vre04.htm#fr_13.md) Book V., ch. ix.
 (abridged).
 
-<span id="fn_14"></span>[44:1](vre04.htm#fr_14) Chaps. x., xi.
+<span id="fn_14"></span>[44:1](vre04.htm#fr_14.md) Chaps. x., xi.
 (abridged): Winkworth's translation.
 
-<span id="fn_15"></span>[44:2](vre04.htm#fr_15) Book IV., 523
+<span id="fn_15"></span>[44:2](vre04.htm#fr_15.md) Book IV., 523
 
-<span id="fn_16"></span>[45:17](vre04.htm#fr_16) Benham's translation:
+<span id="fn_16"></span>[45:17](vre04.htm#fr_16.md) Benham's translation:
 Book III., chaps. xv., lix. Compare Mary Moody Emerson: "Let me be a
 blot on this fair world, the obscurest the loneliest sufferer, with one
 proviso—that I know it is His agency. I will love Him though He shed
 frost and darkness on every way of mine." <span class="smallcaps">R. W.
 Emerson</span>: Lectures and Biographical Sketches, p. 188.
 
-<span id="fn_17"></span>[48:1](vre04.htm#fr_17) Once more, there are
+<span id="fn_17"></span>[48:1](vre04.htm#fr_17.md) Once more, there are
 plenty of men, constitutionally sombre men, in whose religious life this
 rapturousness is lacking. They are religious in the wider sense, yet in
 this acutest of all senses they are not so, and it is religion in the
 acutest sense that I wish, without disputing about words, to study
 first, so as to get at its typical *differentia*.
 
-<span id="fn_18"></span>[49:1](vre04.htm#fr_18) The New Spirit, p. 232.
+<span id="fn_18"></span>[49:1](vre04.htm#fr_18.md) The New Spirit, p. 232.
 
-<span id="fn_19"></span>[50:1](vre04.htm#fr_19) I owe this allegorical
+<span id="fn_19"></span>[50:1](vre04.htm#fr_19.md) I owe this allegorical
 illustration to my lamented colleague and Friend, Charles Carroll
 Everett.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture III. The Reality of the Unseen](vre05)
+[Next: Lecture III. The Reality of the Unseen](vre05.md)

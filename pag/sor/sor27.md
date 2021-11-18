@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor26)  [Next](sor28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor26)  [Next](sor28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -36,10 +36,10 @@ embodying the notion. Indeed, who would not welcome the alluring hope of
 seeing the combat here below end in peace and a reconciliation so
 touching?
 
-What thinks the wise bard Merlin <span id="fr_101"></span>[1](#fn_101)
+What thinks the wise bard Merlin <span id="fr_101"></span>[1](#fn_101.md)
 on the point? In the mirror of his lake, whose depth he alone can plumb,
 what has he seen? What has he to say in the colossal *épopée* he gave us
-in 1860? <span id="fr_102"></span>[2](#fn_102) That Satan, if he disarm,
+in 1860? <span id="fr_102"></span>[2](#fn_102.md) That Satan, if he disarm,
 will do so only on the Day of Judgment. Then, and not till then,
 pacified at last, both powers will repose side by side in one common
 death.
@@ -222,11 +222,11 @@ thoughtful reverence.
 
 ### Footnotes
 
-<span id="fn_101"></span>[307:1](sor27.htm#fr_101) Victor Hugo.
+<span id="fn_101"></span>[307:1](sor27.htm#fr_101.md) Victor Hugo.
 
-<span id="fn_102"></span>[307:2](sor27.htm#fr_102) *La Légende des
+<span id="fn_102"></span>[307:2](sor27.htm#fr_102.md) *La Légende des
 Siècles*.
 
 ------------------------------------------------------------------------
 
-[Next: Notes and Elucidations](sor28)
+[Next: Notes and Elucidations](sor28.md)

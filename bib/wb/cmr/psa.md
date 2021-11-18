@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Next](mat) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Next](mat.md) 
 
 ------------------------------------------------------------------------
 
@@ -7915,4 +7915,4 @@ ya ujaalaba si Jeova. Fanmanalaba jamyo as Jeova.
 
 ------------------------------------------------------------------------
 
-[Next: Matthew](mat)
+[Next: Matthew](mat.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str04)  [Next](str06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str04)  [Next](str06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ Stukeley, \[1740\], at Intangible Textual Heritage
 <span id="img_pl08"></span> <span align="CENTER"> [![Plate 8. North
 Prospect from Stonehenge&lt;br&gt; P. a barrow opened by Lord Pembroke.
 S. by W. Stukeley.](tn/pl08.jpg)  
-Click to enlarge](img/pl08.jpg)  
+Click to enlarge](img/pl08.jpg.md)  
 Plate 8. North Prospect from Stonehenge  
 P. a barrow opened by Lord Pembroke. S. by W. Stukeley.  
 </span>
@@ -34,7 +34,7 @@ itself. Take a staff 10 foot 4 inches and ¾ long. Divide it into six
 equal parts. These are the cubits of the ancients. Each cubit is divided
 into six parts. These are palms. Thus have we the original measure of
 the founders of *Stonehenge*. We will take Mr. *Webb's* measures, and
-compare ’em herewith. [TAB. XI.](str06.htm#img_pl11)<span
+compare ’em herewith. [TAB. XI.](str06.htm#img_pl11.md)<span
 class="margnote">TAB. XI.</span> the ground-plot.
 
 Mr. *Webb* says, p. 55. that the whole work of *Stonehenge* being of a
@@ -113,7 +113,7 @@ stability and beauty withal, in such a work as ours, is a good
 proportion. The curiosity of the work, and the general orthography of
 the outward circle, I have design’d in <span class="margnote">TAB.
 XII.  
-TAB. v.</span>*Plate* [XII.](str06.htm#img_pl12) and it may be seen in
+TAB. v.</span>*Plate* [XII.](str06.htm#img_pl12.md) and it may be seen in
 the seven stones now remaining at the grand entrance. Which show what
 strictly was the intent of the founders, and where they took the liberty
 to relax of that strictness, and that with judgment; so as to produce a
@@ -153,7 +153,7 @@ easy geometry, what we may call the
 Prospect from Stonehenge&lt;br&gt; A. The barrow
 L&lt;sup&gt;d&lt;/sup&gt;. Pembroke opend. BB. those I opend. C.
 Bushbarrow. D. a cavity in the vallum.](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 Plate 9. Southwest Prospect from Stonehenge  
 A. The barrow L<sup>d</sup>. Pembroke open’d. BB. those I open’d. C.
 Bushbarrow. D. a cavity in the vallum.  
@@ -192,7 +192,7 @@ counties: and drove them with the old *Britons*, farther northward and
 westward. But of this we will treat more particularly afterwards, when
 we offer our opinion, of the time when it was made.
 
-In the orthographic plate, [TAB. XII.](str06.htm#img_pl12) we may see
+In the orthographic plate, [TAB. XII.](str06.htm#img_pl12.md) we may see
 the strict geometry of the<span class="margnote">TAB. XII.</span> work
 of this outward circle, and the artful variation therefrom, in order to
 make the aperture of the grand entrance somewhat wider than the rest.
@@ -223,7 +223,7 @@ breaking. But this additional thickness they have put below. They were
 sensible it would have produc’d an ill effect at top, by breaking the
 line of that noble cincture. It must be own’d this was extremely well
 adjusted. And the breadth of the stone that hangs over head in this
-place is astonishing. See *Plate* [VII.](str04.htm#img_pl07) call’d a
+place is astonishing. See *Plate* [VII.](str04.htm#img_pl07.md) call’d a
 <span class="margnote">TAB. VII.</span> peep into the *sanctum
 sanctorum*. I had the greatest pleasure imaginable, in the year 1723,
 *July*, in being here for several days together, with the learned
@@ -236,7 +236,7 @@ me in; and his memory must for ever be dear to me, for his noble
 qualities. <span class="margnote">TAB. VII.</span> My Lord and I were
 very careful in taking the measures of *Stonehenge*; and with great
 grief we observ’d, the stones here represented in that Plate, <span
-class="margnote">TAB. V.</span> and [TAB. V.](str04.htm#img_pl05) the
+class="margnote">TAB. V.</span> and [TAB. V.](str04.htm#img_pl05.md) the
 front view, to be much deviated forwards from their true perpendicular,
 and in the utmost danger of falling. ’Tis to be fear’d some indiscreet
 people have been digging about the great entrance, with ridiculous hopes
@@ -249,7 +249,7 @@ the imposts.
 
 Thro’ the middle of the principal entrance, runs the principal line of
 the whole work; the diameter from north-east to south-west. This line
-cuts the [middle](errata.htm#0) of the altar, length of the cell, the
+cuts the [middle](errata.htm#0.md) of the altar, length of the cell, the
 entrance, the entrance into the court, and so runs down the middle of
 the avenue, to the bottom of the valley for almost 2000 feet together.
 This is very apparent to any one at first sight, and determines this for
@@ -302,7 +302,7 @@ the proportions in geometry are built: so that the outward
 
 <span id="img_pl10"></span> <span align="CENTER"> [![Plate 10.
 South-East Prospect from Stonehenge](tn/pl10.jpg)  
-Click to enlarge](img/pl10.jpg)  
+Click to enlarge](img/pl10.jpg.md)  
 Plate 10. South-East Prospect from Stonehenge  
 </span>
 
@@ -333,7 +333,7 @@ present at the bottom. The whole affair of jointing in this building is
 very curious, and seems to be the oldest and only specimen of this kind
 of work in the world. There is nothing, that I know of, comes in
 competition with it, but the celebrated ruins at *Persepolis*. [TAB.
-XXXV](str14.htm#img_pl35). It is compos’d <span class="margnote">TAB.
+XXXV](str14.htm#img_pl35.md). It is compos’d <span class="margnote">TAB.
 XXXV.</span> of great stones laid across one another, as *Stonehenge*:
 but not with mortaise and tenon. The vulgar and learned too, generally
 take it for the remains of the palace of the *Persian* monarchs, burnt
@@ -360,7 +360,7 @@ defac’d when christianity prevailed. But some rude and sacrilegious
 hands carried the stones away for other uses. However it cannot but be
 the highest pleasure imaginable to a regular mind, to walk round and
 contemplate the stately ruins which I have endeavour’d to preserve in
-the outside views, such as [TAB. XIII.](str07.htm#img_pl13) from the
+the outside views, such as [TAB. XIII.](str07.htm#img_pl13.md) from the
 south-west, and so of the rest. <span class="margnote">TAB. XIII.</span>
 But we may say with *Lucan*,
 
@@ -372,4 +372,4 @@ But we may say with *Lucan*,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](str06)
+[Next: Chapter IV](str06.md)

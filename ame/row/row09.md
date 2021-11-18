@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](row08)  [Next](row10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](row08)  [Next](row10.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ power for him!
 ------------------------------------------------------------------------
 
 [Next: A Witch Case In The Making--That Never Went To Court
-(Yet)!](row10)
+(Yet)!](row10.md)

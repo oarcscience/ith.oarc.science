@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt09)  [Next](ettt11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt09)  [Next](ettt11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -26,18 +26,18 @@ preparatory practice. Second, the main practice of the teaching itself.
 
 The first step includes two groups of teachings, the ordinary
 preparatory works of Mahayana Buddhism, and the extraordinary
-preparations for the Supreme Vehicle[3](ettt22.htm#an_n_nar:3)<span
+preparations for the Supreme Vehicle[3](ettt22.htm#an_n_nar:3.md)<span
 id="an_r_nar:3"></span>. About the first group two questions must be
 answered: (1) Why is it necessary to make an effort in the ordinary
 practice of Mahayana Buddhism? (2) How should one actually practice
 them? Let us discuss the first point. It is absolutely necessary to work
 step by step on the preparations both for the Paramita
-Vehicle[4](ettt22.htm#an_n_nar:4)<span id="an_r_nar:4"></span> and the
-True Word Vehicle[5](ettt22.htm#an_n_nar:5)<span
+Vehicle[4](ettt22.htm#an_n_nar:4.md)<span id="an_r_nar:4"></span> and the
+True Word Vehicle[5](ettt22.htm#an_n_nar:5.md)<span
 id="an_r_nar:5"></span>. As admonished by Lama
-Rngog-pa[6](ettt22.htm#an_n_nar:6)<span id="an_r_nar:6"></span>, the one
+Rngog-pa[6](ettt22.htm#an_n_nar:6.md)<span id="an_r_nar:6"></span>, the one
 who held the traditional way of preaching of Marpa (he quoted from the
-Tantra of Two Forms[7](ettt22.htm#an_n_nar:7)<span
+Tantra of Two Forms[7](ettt22.htm#an_n_nar:7.md)<span
 id="an_r_nar:7"></span>):
 
 The disciple must first give and offer … till…
@@ -46,7 +46,7 @@ The disciple must first give and offer … till…
 
 After that, he is to be given
 
-The teaching of the Middle Way[8](ettt22.htm#an_n_nar:8)<span
+The teaching of the Middle Way[8](ettt22.htm#an_n_nar:8.md)<span
 id="an_r_nar:8"></span>.
 
 Both schools (exoteric and esoteric) of Mahayana Buddhism exhort the
@@ -58,7 +58,7 @@ Bodhi Heart of Vow and the Bodhi Heart
 
 <span id="page_127">p. 127</span>
 
-of Performance (see note [15](ettt22.htm#an_n_nar:15)). Even then it
+of Performance (see note [15](ettt22.htm#an_n_nar:15).md). Even then it
 should be known the misfortune-bringer always turns out to be one's
 close friend. The fallers in the abyss are the men who follow the
 cattle.
@@ -68,12 +68,12 @@ taken the oath of Tantra, both he and his guru will fall into danger. It
 is also said that by merely hearing the advantages of the esoteric
 teachings one may apply (the initiations) in an easy-going manner which
 is very dangerous and often leads to disasters. The Jetsun Mila was
-blessed by the Goddess[9](ettt22.htm#an_n_nar:9)<span
+blessed by the Goddess[9](ettt22.htm#an_n_nar:9.md)<span
 id="an_r_nar:9"></span> for having preached the Bardo preparation in
 such a manner. Thus we know that the fundamental teachings of Buddha are
 essential and necessary to all schools. His holiness Gampopa also urged
 in his Commentary on the Four Dharmas that all Buddhists should follow
-the Three Gradual Paths of Lam-rim[10](ettt22.htm#an_n_nar:10)<span
+the Three Gradual Paths of Lam-rim[10](ettt22.htm#an_n_nar:10.md)<span
 id="an_r_nar:10"></span> in the beginning stage of his way to
 Buddhahood.
 
@@ -90,7 +90,7 @@ note it.
 
 Now the second question. How should one actually practice the
 preparatory teaching? According to the Great Jetsun
-(Adisha)[11](ettt22.htm#an_n_nar:11)<span id="an_r_nar:11"></span>, the
+(Adisha)[11](ettt22.htm#an_n_nar:11.md)<span id="an_r_nar:11"></span>, the
 disciple should first find a qualified
 
 <span id="page_128">p. 128</span>
@@ -107,7 +107,7 @@ the Heart-for-Bodhi is actually awakened in one's heart, he is then able
 to practice Mahayana Buddhism truly and naturally, otherwise his
 Malayana will merely be a word. Therefore, the wise Buddhist must strive
 step by step to put an end to the wrong thoughts adverse to the
-Heart-for-Bodhi[12](ettt22.htm#an_n_nar:12)<span
+Heart-for-Bodhi[12](ettt22.htm#an_n_nar:12.md)<span
 id="an_r_nar:12"></span>.
 
 If he does not completely give up thoughts concerned with the wordly
@@ -118,7 +118,7 @@ and warn himself of the possibility of falling into a lower birth after
 his departure from this world. Furthermore, he should realize that to
 strive for a happier birth in his next life is still of no avail, for
 everything in Saṃsara is transient and untenable. Rather he should exert
-himself to attain Liberation, he should [continuously](errata.htm#17)
+himself to attain Liberation, he should [continuously](errata.htm#17.md)
 make an effort to widen his compassion and kindness as these qualities
 are the roots of the Heart-for-Bodhi. He should try to reach a state in
 which the compassionate Bodhi-Heart arises spontaneously without effort.
@@ -132,11 +132,11 @@ compassionate deeds. With this in
 mind, he is to observe the precepts of the Bodhisattva and study and
 practice the Six Paramitas in general. He should particularly pay
 attention to the preparatory works for
-Dhayana[13](ettt22.htm#an_n_nar:13)<span id="an_r_nar:13"></span>,
+Dhayana[13](ettt22.htm#an_n_nar:13.md)<span id="an_r_nar:13"></span>,
 namely, the fitness and readiness of his mind for meditation. He should
 also study and practice the teachings of the Prajana Paramita,
 contemplating on the magic-like and
-space-like[14](ettt22.htm#an_n_nar:14)<span id="an_r_nar:14"></span>
+space-like[14](ettt22.htm#an_n_nar:14.md)<span id="an_r_nar:14"></span>
 nature of all beings. Thereafter, if he is capable of taking the Tantric
 precepts on himself, he should study the *Guru's Fifty Stanza* and
 follow its instructions to serve his guru. In this manner, he should set
@@ -152,7 +152,7 @@ Saṃsara. There will be no tranquility in his mind; therefore, his
 striving for liberation is merely a talking with no meaning at all.
 Since kindness and compassion cannot grow within him, he has no chance
 of developing the spontaneous
-Wish-for-Heart-of-Bodhi[15](ettt22.htm#an_n_nar:15)<span
+Wish-for-Heart-of-Bodhi[15](ettt22.htm#an_n_nar:15.md)<span
 id="an_r_nar:15"></span>. At most he is a nominal Mahayana Buddhist. He
 lacks a strong desire to learn the actions of a Bodhisattva so that the
 peacefulness of abiding-in-goodness will never come to him. A steadfast
@@ -175,6 +175,6 @@ Path and to the Diamond Path.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two: Special Preparations](ettt11)
+[Next: Chapter Two: Special Preparations](ettt11.md)
 
 </div>

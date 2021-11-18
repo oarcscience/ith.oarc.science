@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](idtc07)  [Next](idtc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](idtc07)  [Next](idtc09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Days To Come*, by Ashtar (Ethel P. Hill), \[1957\], at Intangible
 Textual Heritage
 
@@ -27,7 +27,7 @@ earth at this time shall be given all they need to guarantee their
 success in carrying out their destined roles.
 
 None may compute the wondrous patience and forbearance wherewith thy
-Heavenly Father hath borne with the [frailties](errata.htm#7) of human
+Heavenly Father hath borne with the [frailties](errata.htm#7.md) of human
 beings! None may even faintly surmise His disappointment at their
 refusal to accept His overtures of Forgiveness and Mercy! All which
 cometh to pass of a destructive nature be the result of *men's free*
@@ -125,7 +125,7 @@ superior forces to circumvent their action, seeing it would jeopardize
 not only your own planet but many dwelling beyond the range of your
 vision. Other than this, our assistance will be supplementary.
 
-When, through the [dismissal](errata.htm#8) of vagrant entities not
+When, through the [dismissal](errata.htm#8.md) of vagrant entities not
 entitled to the hospitality of your planet, we are able to mingle freely
 with you and give you our willing aid in re-vitalizing, beautifying and
 rendering your entire globe more tenable by progressive mortals . . . we
@@ -141,4 +141,4 @@ Vela quadra sector, Station Schare.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](idtc09)
+[Next: Chapter VII](idtc09.md)

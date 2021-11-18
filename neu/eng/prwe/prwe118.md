@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe117)  [Next](prwe119) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe117)  [Next](prwe119.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ woman; "for many of her kin live in Church-town."
 
 ------------------------------------------------------------------------
 
-[Next: The Lugger of Croft Pasco Pool](prwe119)
+[Next: The Lugger of Croft Pasco Pool](prwe119.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl28)  [Next](orl30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl28)  [Next](orl30.md) 
 
 ------------------------------------------------------------------------
 
@@ -852,4 +852,4 @@ Defer my story till another time.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 30](orl30)
+[Next: Canto 30](orl30.md)

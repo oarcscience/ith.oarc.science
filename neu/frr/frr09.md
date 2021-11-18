@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr08) 
-[Next](frr10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr08.md) 
+[Next](frr10.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ faith. This is notably true of the village festivals and their *ludi*.
 Their full significance only appears when they are regarded as fragments
 of forgotten cults, the naïve cults addressed by a primitive folk to the
 beneficent deities of field and wood and river, or the shadowy populace
-of its own dreams <span id="fr_84"></span>[1](#fn_84)." We may, I think,
+of its own dreams <span id="fr_84"></span>[1](#fn_84.md)." We may, I think,
 take it that we have established at least the possibility that in the
 Grail romances we possess, in literary form, an example of the
 *detritus* above referred to, the fragmentary record of the secret
@@ -164,7 +164,7 @@ Reference to some recent studies in the Legend will make my meaning
 clear. A reviewer of my small *Quest of the Holy Grail* volume remarked
 that I appeared to be ignorant of Miss Peebles's study *The Legend of
 Longinus* "which materially strengthens the evidence for the Christian
-origin <span id="fr_85"></span>[1](#fn_85)." Now this is precisely what,
+origin <span id="fr_85"></span>[1](#fn_85.md)." Now this is precisely what,
 in my view, the study in question, which I knew and possessed, does not
 do. As evidence for the fact that the Grail legend has taken over
 certain features derived from the popular 'Longinus' story (which,
@@ -191,13 +191,13 @@ not associated symbols. The Lance or Spear, as an instrument of the
 Passion, is found in conjunction with the Cross, Nails, Sponge, and
 Crown of Thorns, (anyone familiar with the wayside Crosses of Catholic
 Europe will recognize this), not with the Chalice of the Mass <span
-id="fr_86"></span>[1](#fn_86). This latter is associated with the Host,
+id="fr_86"></span>[1](#fn_86.md). This latter is associated with the Host,
 or *Agnus Dei*. Still less is the Spear to be found in connection with
 the Grail in its Food-providing form of a Dish.
 
 No doubt to this, critics who share the views of Golther and Burdach
 will object, "but what of the Byzantine Mass? Do we not there find a
-Spear connected with the Chalice <span id="fr_87"></span>[2](#fn_87)?"
+Spear connected with the Chalice <span id="fr_87"></span>[2](#fn_87.md)?"
 
 I very much doubt whether we do--the so-called 'Holy Spear' of the
 Byzantine, and present Greek, liturgy is simply a small silver
@@ -239,7 +239,7 @@ as members of an extended group, including Dish, Sword, and Stone.
 
 On this point Professor Brown's attempt to find in Irish tradition the
 origin of the Grail symbols is distinctly more satisfactory <span
-id="fr_88"></span>[1](#fn_88).
+id="fr_88"></span>[1](#fn_88.md).
 
 I cannot accept as decisive the solution proposed, which seems to me to
 be open to much the same criticism as that which would find in the Lance
@@ -266,7 +266,7 @@ Brown's attention.
 
 The object corresponding to the Grail itself is the cauldron of the
 Dagda, "No company ever went from it unthankful" (or
-'unsatisfied') <span id="fr_89"></span>[1](#fn_89).
+'unsatisfied') <span id="fr_89"></span>[1](#fn_89.md).
 
 Now this can in no sense be considered as a Cup, or Vase, nor is it the
 true parallel to a Dish. The connection with the Grail is to be found
@@ -274,7 +274,7 @@ solely and exclusively in the food-providing properties ascribed to
 both. But even here the position is radically different; the impression
 we derive from the Irish text and its analogous parallels is that of
 size (it is also called a 'tub'), and inexhaustible content, it is a
-cauldron of plenty <span id="fr_90"></span>[2](#fn_90). Now, neither of
+cauldron of plenty <span id="fr_90"></span>[2](#fn_90.md). Now, neither of
 these qualities can be postulated of the Grail; whatever its form, Cup
 or Dish, it can easily be borne (in uplifted hands, *entre ses mains
 hautement porte*) by a maiden, which certainly could not be postulated
@@ -296,7 +296,7 @@ placed at one end of the table, the Grail at the other. In Gawain's
 adventure at the Grail castle, in the prose *Lancelot*, as the Grail is
 carried through the hall "forthwith were the tables replenished with the
 choicest meats in the world," but the table before Gawain remains void
-and bare <span id="fr_91"></span>[1](#fn_91). I submit that while the
+and bare <span id="fr_91"></span>[1](#fn_91.md). I submit that while the
 Grail is in certain phases a food-supplying talisman it is not one of
 the same character as the cauldrons of plenty; also while the food
 supply of these latter has the marked characteristic of *quantity*, that
@@ -309,34 +309,34 @@ my view that these special objects belong to another line of tradition
 altogether; that which deals with an inexhaustible submarine source of
 life, examples of which will be found in the 'Sampo' of the Finnish
 *Kalewala*, and the ever-grinding mills of popular folk-tale <span
-id="fr_92"></span>[2](#fn_92). The fundamental idea here seems to be
+id="fr_92"></span>[2](#fn_92.md). The fundamental idea here seems to be
 that of the origin of all Life from Water, a very ancient idea, but one
 which, though akin to the Grail tradition, is yet quite
 
 <span id="page_71">p. 71</span>
 
 distinct therefrom. The study of this special theme would, I believe,
-produce valuable results <span id="fr_93"></span>[1](#fn_93).
+produce valuable results <span id="fr_93"></span>[1](#fn_93.md).
 
 On the whole, I am of the opinion that the treasures of the Tuatha de
 Danann and the symbols of the Grail castle go back to a common original,
 but that they have developed on different lines; in the process of this
 development one 'Life' symbol has been exchanged for another <span
-id="fr_94"></span>[2](#fn_94).
+id="fr_94"></span>[2](#fn_94.md).
 
 But Lance and Cup (or Vase) were in truth connected together in a
 symbolic relation long ages before the institution of Christianity, or
 the birth of Celtic tradition. They are sex symbols of immemorial
 antiquity and world-wide diffusion, the Lance, or Spear, representing
 the Male, the Cup, or Vase, the Female, reproductive energy <span
-id="fr_95"></span>[3](#fn_95).
+id="fr_95"></span>[3](#fn_95.md).
 
 Found in juxtaposition, the Spear upright in the Vase, as in the
 *Bleheris* and *Balin* (both, be it noted, Gawain) forms, their
 signification is admitted by all familiar with 'Life' symbolism, and
 they are absolutely in place as forming part of a ritual dealing with
 the processes of life and reproductive vitality <span
-id="fr_96"></span>[4](#fn_96).
+id="fr_96"></span>[4](#fn_96.md).
 
 <span id="page_72">p. 72</span>
 
@@ -351,7 +351,7 @@ responsibility which would fit him for the full duties of a citizen, a
 second solemn ceremony was held, at which he was released from his
 previous vows, and presented with the Cup; he was henceforth free to
 marry, but intercourse with women previous to this ceremony was at one
-time punishable with death <span id="fr_97"></span>[1](#fn_97).
+time punishable with death <span id="fr_97"></span>[1](#fn_97.md).
 
 That Lance and Cup are, *outside* the Grail story, 'Life' symbols, and
 have been such from time immemorial, is a fact; why, then should they
@@ -361,7 +361,7 @@ general *mise-en-scène*, but it will also explain finally and
 satisfactorily, (*a*) the dominant position frequently assigned to the
 Lance; (*b*) the fact that, while the Lance is borne in procession by a
 youth, the Grail is carried by a maiden--the sex of the bearer
-corresponds with the symbol borne <span id="fr_98"></span>[2](#fn_98).
+corresponds with the symbol borne <span id="fr_98"></span>[2](#fn_98.md).
 
 But Lance and Cup, though the most prominent of the Symbols, do not
 always appear alone, but are associated
@@ -375,7 +375,7 @@ carried in the same procession as the Grail; or there may be two small
 *tailléors*; finally, a Sword appears in varying *rôles* in the story.
 
 I have already referred to the fact, first pointed out by the late Mr
-Alfred Nutt <span id="fr_99"></span>[1](#fn_99), that the four treasures
+Alfred Nutt <span id="fr_99"></span>[1](#fn_99.md), that the four treasures
 of the Tuatha de Danann correspond generally with the group of symbols
 found in the Grail romances; this correspondence becomes the more
 interesting in view of the fact that these mysterious Beings are now
@@ -410,7 +410,7 @@ To-day the Tarot has fallen somewhat into disrepute, being principally
 used for purposes of divination, but its origin, and precise relation to
 our present playing-cards, are questions of considerable antiquarian
 interest. Were these cards the direct parents of our modern pack, or are
-they entirely distinct therefrom <span id="fr_100"></span>[1](#fn_100)?
+they entirely distinct therefrom <span id="fr_100"></span>[1](#fn_100.md)?
 
 Some writers are disposed to assign a very high antiquity to the Tarot.
 Traditionally, it is said to have been brought from Egypt; there is no
@@ -422,7 +422,7 @@ to the 'keys' of the Tarot), and also repeated in a calendar sculptured
 on the southern façade of the same building, under a sovereign of the
 XXIII dynasty. This calendar is supposed to have been connected with the
 periodic rise and fall of the waters of the Nile <span
-id="fr_101"></span>[2](#fn_101).
+id="fr_101"></span>[2](#fn_101.md).
 
 The Tarot has also been connected with an ancient Chinese monument,
 traditionally erected in commemoration of the drying up of the waters of
@@ -440,7 +440,7 @@ popular tradition that they were introduced into Europe by this
 mysterious people.
 
 In a very interesting article on the subject in *The Journal of the
-Gipsy-Lore Society* <span id="fr_102"></span>[1](#fn_102), Mr De la
+Gipsy-Lore Society* <span id="fr_102"></span>[1](#fn_102.md), Mr De la
 Hoste Ranking examines closely into the figures depicted on the various
 cards, and the names attached to the suits by the Gipsies. He comes to
 the conclusion that many of the words are of Sanskrit, or Hindustani,
@@ -461,7 +461,7 @@ writes: "(1) Cup, Lance, Dish, Sword, in slightly varying forms, have
 never lost their mystic significance, and are to-day a part of magical
 operations. (2) The memory kept by the four suits of the Tarot, Cup,
 Lance, Sword, Pentangle (Dish), is an esoterical notation for
-fortune-telling purposes <span id="fr_103"></span>[2](#fn_103)."
+fortune-telling purposes <span id="fr_103"></span>[2](#fn_103.md)."
 
 <span id="page_76">p. 76</span>
 
@@ -495,42 +495,42 @@ significance can hardly be disputed.
 
 ### Footnotes
 
-<span id="fn_84"></span>[63:1](frr09.htm#fr_84) *Op. cit.* Vol. I. p.
+<span id="fn_84"></span>[63:1](frr09.htm#fr_84.md) *Op. cit.* Vol. I. p.
 94.
 
-<span id="fn_85"></span>[66:1](frr09.htm#fr_85) *The Legend of
+<span id="fn_85"></span>[66:1](frr09.htm#fr_85.md) *The Legend of
 Longinus*, R. J. Peebles (Bryn Mawr College monographs, Vol. IX.).
 
-<span id="fn_86"></span>[67:1](frr09.htm#fr_86) I discussed this point
+<span id="fn_86"></span>[67:1](frr09.htm#fr_86.md) I discussed this point
 with Miss Lucy Broadwood, Secretary of the Folk-Song Society, who has
 made sketches of these Crosses, and she entirely agrees with me. In my
 *Quest of the Holy Grail*, pp. 54 *et seq.*, I have pointed out the
 absolute dearth of ecclesiastical tradition with regard to the story of
 Joseph and the Grail.
 
-<span id="fn_87"></span>[67:2](frr09.htm#fr_87) Cf. *Littaturzeitung*,
+<span id="fn_87"></span>[67:2](frr09.htm#fr_87.md) Cf. *Littaturzeitung*,
 XXIV. (1903), p. 2821.
 
-<span id="fn_88"></span>[68:1](frr09.htm#fr_88) Cf. *The Bleeding
+<span id="fn_88"></span>[68:1](frr09.htm#fr_88.md) Cf. *The Bleeding
 Lance*, A. C. L. Brown.
 
-<span id="fn_89"></span>[69:1](frr09.htm#fr_89) Cf. Brown, *op. cit.* p.
+<span id="fn_89"></span>[69:1](frr09.htm#fr_89.md) Cf. Brown, *op. cit.* p.
 35; also A. Nutt, *Studies in the Legend of the Holy Grail*, p. 184.
 
-<span id="fn_90"></span>[69:2](frr09.htm#fr_90) Cf. Brown, *Notes on
+<span id="fn_90"></span>[69:2](frr09.htm#fr_90.md) Cf. Brown, *Notes on
 Celtic Cauldrons of Plenty*, p. 237.
 
-<span id="fn_91"></span>[70:1](frr09.htm#fr_91) Cf. *Queste*, Malory,
+<span id="fn_91"></span>[70:1](frr09.htm#fr_91.md) Cf. *Queste*, Malory,
 Book XIII. Chap. 7, where the effect is the same.
 
-<span id="fn_92"></span>[70:2](frr09.htm#fr_92) Cf. *Germanische Elben
+<span id="fn_92"></span>[70:2](frr09.htm#fr_92.md) Cf. *Germanische Elben
 und Götter beim Estenvolke*, L. von Schroeder (Wien, 1906).
 
-<span id="fn_93"></span>[71:1](frr09.htm#fr_93) I suggested this point
+<span id="fn_93"></span>[71:1](frr09.htm#fr_93.md) I suggested this point
 in correspondence with Dr Brugger, who agreed with me that it was worth
 working out.
 
-<span id="fn_94"></span>[71:2](frr09.htm#fr_94) Before leaving the
+<span id="fn_94"></span>[71:2](frr09.htm#fr_94.md) Before leaving the
 discussion of Professor Brown's theory, I would draw attention to a
 serious error made by the author of *The Legend of Longinus*. On p. 191,
 she blames Professor Brown for postulating the destructive qualities of
@@ -540,7 +540,7 @@ Unfortunately, it is this latter version which is unsupported, all the
 MSS., without even excepting B.N. 1429, which as a rule agrees with
 Montpellier, give the 'destructive' version.
 
-<span id="fn_95"></span>[71:3](frr09.htm#fr_95) Cf. Dulaure, *Des
+<span id="fn_95"></span>[71:3](frr09.htm#fr_95.md) Cf. Dulaure, *Des
 Divinités Génératrices*, p. 77. Also additional chapter to last edition
 by Van Gennep, p. 333; L. von Schroeder, *Mysterium und Mimus*, pp.
 279-80, for symbolic use of the Spear. McCulloch, *Religion of the
@@ -549,19 +549,19 @@ Hindu *yoni*, which of course would bring it into line with the above
 suggested meaning of the Grail. I think however that the real
 significance of the cauldron is that previously indicated.
 
-<span id="fn_96"></span>[71:4](frr09.htm#fr_96) It is interesting to
+<span id="fn_96"></span>[71:4](frr09.htm#fr_96.md) It is interesting to
 note that this relative position of Lance and Grail lingers on in late
 and fully Christianized versions; cf. Sommer, *The Quest of the Holy
 Grail*, *Romania*, XXXVI. p. 575.
 
-<span id="fn_97"></span>[72:1](frr09.htm#fr_97) My informant on this
+<span id="fn_97"></span>[72:1](frr09.htm#fr_97.md) My informant on this
 point was a scholar, resident in Japan, who gave me the facts within his
 personal knowledge. I referred the question to Prof. Basil Hall
 Chamberlain, who wrote in answer that he had not himself met with the
 practice but that the Samurai ceremonies differed in different
 provinces, and my informant might well be correct.
 
-<span id="fn_98"></span>[72:2](frr09.htm#fr_98) This explanation has at
+<span id="fn_98"></span>[72:2](frr09.htm#fr_98.md) This explanation has at
 least the merit of simplicity as compared with that proposed by the
 author of *The Legend of Longinus*, pp. 209 *et seq.*, which would
 connect the feature with an obscure heretical practice of the early
@@ -569,22 +569,22 @@ Irish church. It would also meet Professor Brown's very reasonable
 objections, *The Bleeding Lance*, p. 8; cf. also remarks by Baist quoted
 in the foot-note above.
 
-<span id="fn_99"></span>[73:1](frr09.htm#fr_99) Cf. my *Legend of Sir
+<span id="fn_99"></span>[73:1](frr09.htm#fr_99.md) Cf. my *Legend of Sir
 Perceval*, Vol. II. pp. 314-315, note.
 
-<span id="fn_100"></span>[74:1](frr09.htm#fr_100) Mr A. E. Waite, who
+<span id="fn_100"></span>[74:1](frr09.htm#fr_100.md) Mr A. E. Waite, who
 has published a book on the subject, informs me that the 17 cards
 preserved in the Bibliothèque du Roi (Bibl. Nationale?) as specimens of
 the work of the painter Charles Gringonneur, are really Tarots.
 
-<span id="fn_101"></span>[74:2](frr09.htm#fr_101) Falconnier, in a
+<span id="fn_101"></span>[74:2](frr09.htm#fr_101.md) Falconnier, in a
 brochure on *Les XXII Lames Hermétiques du Tarot*, gives reproductions
 of these Egyptian paintings.
 
-<span id="fn_102"></span>[75:1](frr09.htm#fr_102) *Journal of the
+<span id="fn_102"></span>[75:1](frr09.htm#fr_102.md) *Journal of the
 Gipsy-Lore Society*, Vol. II. New Series, pp. 14-37.
 
-<span id="fn_103"></span>[75:2](frr09.htm#fr_103) From a private letter.
+<span id="fn_103"></span>[75:2](frr09.htm#fr_103.md) From a private letter.
 The ultimate object of Magic in all ages was, and is, to obtain control
 of the sources of Life. Hence, whatever was the use of these objects (of
 which I know nothing), their appearance in this connection is
@@ -592,4 +592,4 @@ significant.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Sword Dance](frr10)
+[Next: Chapter VII. The Sword Dance](frr10.md)

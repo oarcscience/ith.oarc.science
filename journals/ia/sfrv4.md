@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Islamic
-Articles](../../isl/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Islamic
+Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -235,7 +235,7 @@ metre, when it happens to be faulty.]</span><br />
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Islamic Articles](../../isl/etc/index)
+[Journals](../index) [Islamic Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -243,23 +243,23 @@ metre, when it happens to be faulty.]</span><br />
 
 <span id="footnotes_page_185">p. 185</span>
 
-<span id="page_185_note_*"></span>[\*](#page_185_fr_*) These lines do
+<span id="page_185_note_*"></span>[\*](#page_185_fr_*.md) These lines do
 not allude, as might be supposed, to any metamorphosis which moles are
 supposed to undergo in nature, but embody a flight of poetical fancy.—E.
 R.
 
 <span id="footnotes_page_186">p. 186</span>
 
-<span id="page_186_note_*"></span>[\*](#page_186_fr_*) *Qorân*, II. 32:
+<span id="page_186_note_*"></span>[\*](#page_186_fr_*.md) *Qorân*, II. 32:
 "And when we said unto the angels, Worship Adam; they worshipped, save
 Eblis, who refused and was puffed up with pride.
 
 <span id="footnotes_page_219">p. 219</span>
 
-<span id="page_219_note_*"></span>[\*](#page_219_fr_*) Lokmân, the name
+<span id="page_219_note_*"></span>[\*](#page_219_fr_*.md) Lokmân, the name
 of a sage, stands here as the emblem of intellect.
 
-<span id="page_219_note_dagger"></span>[†](#page_219_fr_dagger) The
+<span id="page_219_note_dagger"></span>[†](#page_219_fr_dagger.md) The
 Abdâls are Illuminati.
 
  

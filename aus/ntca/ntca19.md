@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca18)  [Next](ntca20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca18)  [Next](ntca20.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ the others, scraped two long shallow holes in the ground. To these the
 name of *Aura* is given, and they represented, one the man whom it was
 intended to kill and the other the woman; had there been more than one
 woman, then there would have been one hole to represent each of
-them. <span id="fr_174"></span>[1](#fn_174) The meaning of the holes was
+them. <span id="fr_174"></span>[1](#fn_174.md) The meaning of the holes was
 explained by the leader, and pointing to the one which indicated the
 woman he asked who wanted to have her. Two or three men said, “I do;”
 and then the leader, after a short pause, during which he made up his
@@ -154,7 +154,7 @@ woman got up, and taking with him <span id="page_558">p. 558</span> some
 spears and a shield walked out to a clear space some little distance
 away from the camp and shouted to the aggrieved man who remained
 sitting, “*Arakutja thale iknukunja yinga iltai*,” <span
-id="fr_175"></span>[1](#fn_175) which meant, “I took your woman, come
+id="fr_175"></span>[1](#fn_175.md) which meant, “I took your woman, come
 and growl.” Thereupon the man got up, and standing some distance off
 threw spears and boomerangs at the first man, who skilfully guarded
 himself with his shield but made no attempt to retaliate. When all had
@@ -264,14 +264,14 @@ Kumara predominate.
 
 ### Footnotes
 
-<span id="fn_174"></span>[555:1](ntca19.htm#fr_174) On this occasion the
+<span id="fn_174"></span>[555:1](ntca19.htm#fr_174.md) On this occasion the
 party intended to kill a particular man.
 
-<span id="fn_175"></span>[558:1](ntca19.htm#fr_175) *Iltai* is the word
+<span id="fn_175"></span>[558:1](ntca19.htm#fr_175.md) *Iltai* is the word
 applied to the growling of dogs when they fight, and is used by the
 natives to express angry talk, and also fighting.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVIII. Myths Relating to Sun, Moon, Eclipses,
-Etc.](ntca20)
+Etc.](ntca20.md)

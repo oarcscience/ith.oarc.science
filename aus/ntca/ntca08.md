@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca07)  [Next](ntca09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca07)  [Next](ntca09.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ properly the ceremony of *Intichiuma*.
 
 There is however one notable exception to the restrictions upon eating,
 and this is concerned with the Achilpa or wild cat <span
-id="fr_80"></span>[1](#fn_80) totem. Only a very little of this is
+id="fr_80"></span>[1](#fn_80.md) totem. Only a very little of this is
 allowed to be eaten, and that only by the old people; but in this case
 the restriction is not confined to the members of the totem, but is of
 universal application, applying to every member of the tribe. There is
@@ -76,7 +76,7 @@ man or woman, eating Achilpa would be afflicted with a special disease
 called *Erkincha*; and in the second, it is believed that if any man who
 had killed another at any time of his life were to eat this particular
 animal, then his spirit part or *Yenka* <span
-id="fr_81"></span>[2](#fn_81) would leave his body and he would soon be
+id="fr_81"></span>[2](#fn_81.md) would leave his body and he would soon be
 killed by some enemy, so that to a man who has ever killed another—and
 there are very few men who do not lay claim to this distinction—the
 Achilpa is tabu or forbidden for life, no matter what be his age. There
@@ -88,7 +88,7 @@ should be especially
 
 associated with the Achilpa people it is difficult to say, and the
 natives have no explanation to offer. <span
-id="fr_82"></span>[1](#fn_82)
+id="fr_82"></span>[1](#fn_82.md)
 
 We may now describe the ceremonies of *Intichiuma* as they are performed
 in the case of certain of the totems. Each totem has its own ceremony
@@ -175,7 +175,7 @@ At daylight the party begins to pluck twigs from the gum trees at the
 mouth of the Gap, and every man carries a twig in <span id="page_172">p.
 172</span> each hand except the Alatunja, who carries nothing save a
 small *pitchi* or wooden trough, which is called *Apmara*. <span
-id="fr_83"></span>[1](#fn_83) Walking again in single file they
+id="fr_83"></span>[1](#fn_83.md) Walking again in single file they
 follow—led by the Alatunja—the path traversed by the celebrated
 Intwailiuka, the great leader of the Witchetty grubs in the Alcheringa,
 until they come to what is called the *Ilthura oknira*, which is placed
@@ -240,7 +240,7 @@ a mile or so of the latter they stop and decorate themselves with
 material which has been purposely brought to the spot. Hair string is
 tied round their heads, <span id="page_175">p. 175</span> and *Chilara*
 or forehead bands are put on, beneath which twigs of the
-*Udnirringa* <span id="fr_84"></span>[1](#fn_84) bush are fixed so that
+*Udnirringa* <span id="fr_84"></span>[1](#fn_84.md) bush are fixed so that
 they hang downwards. Nose bones are thrust through the nasal septum, and
 rat tails and topknots of cockatoo feathers are worn in the hair. The
 Alatunja is but little decorated; he has only the *Chilara* across his
@@ -312,7 +312,7 @@ Purula and Kumara men and women, who jump to their feet, and these men
 and all the women of whatever class they may be, at once run away to the
 main camp. The *Intichiuma* party remains at the wurley until daylight,
 when the men go near to the *Ungunja*, <span
-id="fr_85"></span>[1](#fn_85) make a fire and strip themselves of all
+id="fr_85"></span>[1](#fn_85.md) make a fire and strip themselves of all
 their ornaments, throwing away their *Udnirringa* twigs. When all the
 *Uliara, Imitnya, Lalkira* and cockatoo feathers are removed, the
 Alatunja says, “Our *Intichiuma* is finished, the *Mulyanuka* must have
@@ -550,7 +550,7 @@ turn mount the boulder and the same ceremony is repeated. Finally, the
 Churinga is buried at the base in its old position, and with this the
 ceremony closes.
 
-INTICHIUMA OF THE YARUMPA <span id="fr_86"></span>[1](#fn_86) OR
+INTICHIUMA OF THE YARUMPA <span id="fr_86"></span>[1](#fn_86.md) OR
 HONEY-ANT TOTEM
 
  
@@ -616,7 +616,7 @@ their hands by the old men, and then rubbed over with the smaller stone,
 after which it is replaced in the ground. This done, the big stone
 Churinga from the *Ertnatulunga*, which represents a mass of honey
 carried about by a celebrated *Oknirabata* <span
-id="fr_87"></span>[1](#fn_87) of the Alcheringa, named Ilatirpa,
+id="fr_87"></span>[1](#fn_87.md) of the Alcheringa, named Ilatirpa,
 
 <span id="page_188">p. 188</span>
 
@@ -627,7 +627,7 @@ old, the markings being nearly effaced, which represents the piece of
 wood which was carried by Ilatirpa for the purpose of digging up the
 ants on which he fed. This and the large Churinga are the only stone
 ones in this particular *Ertnatulunga*. <span
-id="fr_88"></span>[1](#fn_88)
+id="fr_88"></span>[1](#fn_88.md)
 
 The old Alatunja takes up the Churinga, and calling the men up one by
 one, each of them walks into the pit, and lies down, partly supported on
@@ -690,7 +690,7 @@ ceremony should be performed. One of the most important of the water
 totem groups is a local subdivision of the Arunta people, inhabiting a
 district of about fifty miles to the east of Alice Springs, this part
 being known as *Kartwia quatcha*, or the “rain country.” <span
-id="fr_89"></span>[1](#fn_89) The Alatunja of this group at the present
+id="fr_89"></span>[1](#fn_89.md) The Alatunja of this group at the present
 time is
 
 <span id="page_190">p. 190</span>
@@ -822,7 +822,7 @@ UNDIARA
  
 
 About fifteen miles to the east of Henbury, on the Finke River, is a
-spot called by the natives Undiara. <span id="fr_90"></span>[1](#fn_90)
+spot called by the natives Undiara. <span id="fr_90"></span>[1](#fn_90.md)
 Here, at the base of a steep quartzite ridge, which runs east and west,
 and forms part of what is now called Chandler's Range, there lies under
 the shelter of a gum tree a small water-hole, which has ever since the
@@ -925,7 +925,7 @@ big gum tree which overhangs the water pool. Ungutnika was sorely
 afflicted with <span id="page_197">p. 197</span> boils, called *Tukira*,
 which appeared first in the form of hard lumps. He bore with them for a
 long time, and then, being angry, pulled them out and placed them on the
-ground alongside of where he sat. <span id="fr_91"></span>[1](#fn_91)
+ground alongside of where he sat. <span id="fr_91"></span>[1](#fn_91.md)
 They became changed into stones, and have remained there ever since. He
 was not as yet fully grown, and was an *Okira kurka*, or a little
 kangaroo, and after a short time he set out to go to a place called
@@ -1051,7 +1051,7 @@ underground a block of soft grey sandstone, about three feet in length
 and one foot in greatest diameter, its shape in transverse section being
 triangular. The apex of the stone lies about a foot below the surface,
 and as the men gather round the spot, the position of which is precisely
-known, <span id="fr_92"></span>[1](#fn_92) the leader clears away the
+known, <span id="fr_92"></span>[1](#fn_92.md) the leader clears away the
 sandy soil and brings the sacred stone into view. Its sides, worn smooth
 by constant rubbing, are covered over with smaller stones, amongst which
 is a special flattened one with which the rubbing is done. The Alatunja
@@ -1134,7 +1134,7 @@ day is supposed to exist between the individual and his totem. A man
 will only eat very sparingly of his totem, and even if he does eat a
 little of it, which is allowable to him, he is careful, in the case, for
 example, of an emu man, not to eat the best part, such as the fat. <span
-id="fr_93"></span>[1](#fn_93) The totem of any man is regarded, just as
+id="fr_93"></span>[1](#fn_93.md) The totem of any man is regarded, just as
 it is elsewhere, as the same thing as himself; as a native once said to
 us when we were discussing the matter with him, “that one,” pointing to
 his photograph which we had taken, “is just the same as me; so is a
@@ -1270,7 +1270,7 @@ what Grey says with regard to the totems of the natives whom he studied,
 and who always killed with reluctance an animal belonging to their totem
 under the belief “that some one individual of the species is their
 nearest friend, to kill whom would be a great crime, and to be carefully
-avoided.” <span id="fr_94"></span>[1](#fn_94)
+avoided.” <span id="fr_94"></span>[1](#fn_94.md)
 
 The members of each totem claim to have the power of increasing the
 number of the animal or plant, and in this respect the tradition
@@ -1341,7 +1341,7 @@ cooked therewith some euro which he carried with him. After that he
 cooked and eat the one which he had killed.
 
 In a Quabara relating to an *Oruncha* <span
-id="fr_95"></span>[1](#fn_95) man, the decoration on the head referred
+id="fr_95"></span>[1](#fn_95.md) man, the decoration on the head referred
 to an Idnimita (grub of beetle) man who was killed by this *Oruncha*.
 The man was carrying with him Idnimita grubs, which were specially
 represented in the decorations, and on which he was feeding.
@@ -1389,7 +1389,7 @@ indeed a functional necessity, though at the same time it must be
 remembered that in the same traditions from which the above extracts
 have been made for the purpose of drawing attention to this feature,
 there are also plenty of references to men and women eating animals and
-plants other than their own totem. <span id="fr_96"></span>[1](#fn_96)
+plants other than their own totem. <span id="fr_96"></span>[1](#fn_96.md)
 The idea of a kangaroo man freely eating a kangaroo or a bandicoot woman
 feeding on bandicoots is so totally opposed to the present custom of the
 tribe that we are obliged to regard these traditions as referring to a
@@ -1397,7 +1397,7 @@ past time when customs in respect of the totems were different from what
 they are now.
 
 In his *Vocabulary of the Dialects of South-Western Australia*, <span
-id="fr_97"></span>[2](#fn_97) Sir George Grey, when giving the meaning
+id="fr_97"></span>[2](#fn_97.md) Sir George Grey, when giving the meaning
 of certain of the native names for totems, says, in regard to the
 Ballaroke, a small opossum, “Some natives say that the Ballaroke family
 derived their name from having in former times subsisted principally on
@@ -1432,7 +1432,7 @@ to which, in past times, the members of a totem not only theoretically
 had, but actually practised, the right of eating their totem.
 
 It may perhaps be that this eating of the totem shows that for some
-reason, as Mr. Frazer <span id="fr_98"></span>[1](#fn_98) has suggested
+reason, as Mr. Frazer <span id="fr_98"></span>[1](#fn_98.md) has suggested
 in the case of certain other tribes in which the totem is eaten, the
 respect for the totem has lessened in comparison with what it once was;
 but, in face of the solemn ceremony of *Intichiuma* and of the explicit
@@ -1453,7 +1453,7 @@ a totem. At the same time, though the relationship is different in
 certain respects from that which exists in other tribes, yet it will be
 clearly seen that what have been described as the totems agree in
 fundamental points with the definition given by Mr. Frazer, <span
-id="fr_99"></span>[1](#fn_99) viz., “A totem is a class of material
+id="fr_99"></span>[1](#fn_99.md) viz., “A totem is a class of material
 objects which a savage regards with superstitious respect, believing
 that there exists between him and every member of the class an intimate
 and altogether special relation;” and further still we can see, to use
@@ -1469,7 +1469,7 @@ ceremonies. The religious aspect is most clearly seen in connection with
 the ceremonies of *Intichiuma* and the subsequent solemn eating of the
 totem, though here again the relationship between the man and his totem
 cannot be described as one “of mutual respect and protection.” <span
-id="fr_100"></span>[2](#fn_100) It seems as if, in the case of the
+id="fr_100"></span>[2](#fn_100.md) It seems as if, in the case of the
 Central Australian tribes, the totemic system has undergone a somewhat
 curious development; at all events, it differs in certain respects from
 that of all other Australian tribes with which we are as yet acquainted.
@@ -1478,14 +1478,14 @@ that of all other Australian tribes with which we are as yet acquainted.
 
 ### Footnotes
 
-<span id="fn_80"></span>[168:1](ntca08.htm#fr_80) This is *Dasyurus
+<span id="fn_80"></span>[168:1](ntca08.htm#fr_80.md) This is *Dasyurus
 geoffroyi*.
 
-<span id="fn_81"></span>[168:2](ntca08.htm#fr_81) A man's spirit when he
+<span id="fn_81"></span>[168:2](ntca08.htm#fr_81.md) A man's spirit when he
 is alive is called *Yenka*; when dead his spirit part is called
 *Ulthana*.
 
-<span id="fn_82"></span>[169:1](ntca08.htm#fr_82) If we were to hazard a
+<span id="fn_82"></span>[169:1](ntca08.htm#fr_82.md) If we were to hazard a
 suggestion in the attempt to explain the origin of the restriction, it
 would lie along the following lines. The Achilpa, as shown in the
 traditions of the tribe, may very probably be looked upon as a powerful
@@ -1500,39 +1500,39 @@ may also be noticed that *Erkincha* is prevalent amongst young and not
 amongst old people, and that this is parallel with the tabu not applying
 strictly to old men and women.
 
-<span id="fn_83"></span>[172:1](ntca08.htm#fr_83) This is not especially
+<span id="fn_83"></span>[172:1](ntca08.htm#fr_83.md) This is not especially
 made for the purpose, but is an ordinary small *pitchi*, such as the
 women use for scooping the earth out of burrows, and is always provided
 by a daughter of the Alatunja.
 
-<span id="fn_84"></span>[175:1](ntca08.htm#fr_84) The totemic animal
+<span id="fn_84"></span>[175:1](ntca08.htm#fr_84.md) The totemic animal
 takes its name from this shrub, on which the grub feeds.
 
-<span id="fn_85"></span>[178:1](ntca08.htm#fr_85) The *Ungunja* is a
+<span id="fn_85"></span>[178:1](ntca08.htm#fr_85.md) The *Ungunja* is a
 special part of the main camp where the men assemble, and near to which
 no woman may go. In the same way the women have their special part,
 called *Erlukwirra*, near to which no man may go.
 
-<span id="fn_86"></span>[186:1](ntca08.htm#fr_86) *Yarumpa* is the
+<span id="fn_86"></span>[186:1](ntca08.htm#fr_86.md) *Yarumpa* is the
 Arunta name for the “honey-ant” (*Camponotus inflatus*, Lubbock).
 
-<span id="fn_87"></span>[187:1](ntca08.htm#fr_87) *Oknirabata* means a
+<span id="fn_87"></span>[187:1](ntca08.htm#fr_87.md) *Oknirabata* means a
 great instructor or teacher, and is at the present day applied to the
 wise old men who are learned in tribal customs and teach them to the
 others. It is a name only given to men who are both old and wise. The
 individual represented in Fig. 9 is a famous *Oknirabata*.
 
-<span id="fn_88"></span>[188:1](ntca08.htm#fr_88) For the exact contents
+<span id="fn_88"></span>[188:1](ntca08.htm#fr_88.md) For the exact contents
 of this *Ertnatulunga*, see p. 141.
 
-<span id="fn_89"></span>[189:1](ntca08.htm#fr_89) The word *Qnatcha*,
+<span id="fn_89"></span>[189:1](ntca08.htm#fr_89.md) The word *Qnatcha*,
 strictly speaking, means water. Rain is *Quatcha untima*, or falling
 water, running water is *Quatcha wilima. Quatcha* by itself is, however,
 often used to mean rain, and the name *Kartwia quatcha* is applied
 because the rain-makers of this locality are celebrated for their
 powers.
 
-<span id="fn_90"></span>[193:1](ntca08.htm#fr_90) The interesting fact
+<span id="fn_90"></span>[193:1](ntca08.htm#fr_90.md) The interesting fact
 that an important ceremony, “designed to secure successful kangaroo
 hunts,” and consisting in the letting of blood, was held at this spot,
 was first recorded by Dr. Stirling, who, in the *Report of the Horn
@@ -1540,16 +1540,16 @@ Expedition*, Part iv., p. 67, has given an account of the spot, which is
 therein called Antiarra. After repeatedly hearing it pronounced by a
 large number of natives, we have adopted the spelling Undiara.
 
-<span id="fn_91"></span>[197:1](ntca08.htm#fr_91) The ceremony of
+<span id="fn_91"></span>[197:1](ntca08.htm#fr_91.md) The ceremony of
 producing evil magic at this spot is described in the chapter dealing
 with magic.
 
-<span id="fn_92"></span>[200:1](ntca08.htm#fr_92) There is nothing on
+<span id="fn_92"></span>[200:1](ntca08.htm#fr_92.md) There is nothing on
 the surface to indicate that anything lies hidden beneath, but the
 native who showed us the stone went straight to the place and unearthed
 it.
 
-<span id="fn_93"></span>[202:1](ntca08.htm#fr_93) The people of the emu
+<span id="fn_93"></span>[202:1](ntca08.htm#fr_93.md) The people of the emu
 totem very rarely eat the eggs, unless very hungry and short of food, in
 which case they would eat, but not too abundantly. If an emu man found a
 nest of eggs, and was very hungry, he might cook one, but he would take
@@ -1560,26 +1560,26 @@ sparingly, but only a very little of the fat; the eggs and fat are more
 all the totems, a carpet snake man will eat sparingly of a poor snake,
 but he will scarcely touch the reptile if it be fat.
 
-<span id="fn_94"></span>[206:1](ntca08.htm#fr_94) *Journals of Two
+<span id="fn_94"></span>[206:1](ntca08.htm#fr_94.md) *Journals of Two
 Expeditions*, vol. ii., p. 228.
 
-<span id="fn_95"></span>[208:1](ntca08.htm#fr_95) *Oruncha* is the
+<span id="fn_95"></span>[208:1](ntca08.htm#fr_95.md) *Oruncha* is the
 native name for a mischievous spirit.
 
-<span id="fn_96"></span>[209:1](ntca08.htm#fr_96) Wild cat men, for
+<span id="fn_96"></span>[209:1](ntca08.htm#fr_96.md) Wild cat men, for
 example, are represented constantly as feeding upon plums; certain
 lizards on grass seed, while others fed exclusively on lizards; quails
 on grass seed, etc.
 
-<span id="fn_97"></span>[209:2](ntca08.htm#fr_97) As quoted by Mr.
+<span id="fn_97"></span>[209:2](ntca08.htm#fr_97.md) As quoted by Mr.
 McLennan, *Studies in Ancient History*, second series, p. 496.
 
-<span id="fn_98"></span>[210:1](ntca08.htm#fr_98) *Totemism*, p. 19.
+<span id="fn_98"></span>[210:1](ntca08.htm#fr_98.md) *Totemism*, p. 19.
 
-<span id="fn_99"></span>[211:1](ntca08.htm#fr_99) *Op. cit.* p. 1.
+<span id="fn_99"></span>[211:1](ntca08.htm#fr_99.md) *Op. cit.* p. 1.
 
-<span id="fn_100"></span>[211:2](ntca08.htm#fr_100) *Op. cit.* p. 20.
+<span id="fn_100"></span>[211:2](ntca08.htm#fr_100.md) *Op. cit.* p. 20.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Initiation Ceremonies](ntca09)
+[Next: Chapter VII. Initiation Ceremonies](ntca09.md)

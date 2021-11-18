@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap20) 
-[Next](bap22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap20.md) 
+[Next](bap22.md) 
 
 ------------------------------------------------------------------------
 
 ### CHAPTER V.
 
-V. <span id="fr_28"></span>[2](#fn_28) Then came the sons of Cham, and
+V. <span id="fr_28"></span>[2](#fn_28.md) Then came the sons of Cham, and
 made Nembroth a prince over themselves: but the sons of Japheth made
 Phenech their chief: *and* the sons of Sem gathered together and set
 over them Jectan to be their prince.
@@ -127,7 +127,7 @@ the sons of Sem, all of them setting forth in valour and in the
 commandment of war in the sight of their captaincies was † ix † besides
 women and children.
 
-8\.  <span id="fr_29"></span>[1](#fn_29) And these are the generations
+8\.  <span id="fr_29"></span>[1](#fn_29.md) And these are the generations
 of Noe set forth separately, whereof the whole number together was
 914,000. And all these were counted while Noe was yet alive, and in the
 presence of Noe 350 years after the flood. And all the days of Noe were
@@ -137,16 +137,16 @@ presence of Noe 350 years after the flood. And all the days of Noe were
 
 ### Footnotes
 
-<span id="fn_28"></span>[86:2](bap21.htm#fr_28) V. The numbers in this
+<span id="fn_28"></span>[86:2](bap21.htm#fr_28.md) V. The numbers in this
 chapter are hopelessly incorrect. The separate items in the text add up
 to 704,000; the totals in the text to 734,500, omitting the evidently
 corrupt figure 9000 assigned to Shem and his descendants. The matter is
 of no importance.
 
-<span id="fn_29"></span>[89:1](bap21.htm#fr_29) 8. It is part of this
+<span id="fn_29"></span>[89:1](bap21.htm#fr_29.md) 8. It is part of this
 verse which is quoted (and that not accurately) by Petrus Comestor. See
 Introduction, p. 10.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](bap22)
+[Next: Chapter VI](bap22.md)

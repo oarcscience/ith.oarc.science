@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl15)  [Next](jftl17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl15)  [Next](jftl17.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 <span id="img_16200"></span> <span align="CENTER"> [![As the Shah raised
 his sword an old man stepped from behind the tree. (&lt;i&gt;Page
 166&lt;/i&gt;).](tn/16200.jpg)  
-Click to enlarge](img/16200.jpg)  
+Click to enlarge](img/16200.jpg.md)  
 As the Shah raised his sword an old man stepped from behind the tree.
 (*Page 166*).  
 </span>
@@ -281,4 +281,4 @@ land also lived in prosperity and peace.
 
 ------------------------------------------------------------------------
 
-[Next: From Shepherd-Boy to King](jftl17)
+[Next: From Shepherd-Boy to King](jftl17.md)

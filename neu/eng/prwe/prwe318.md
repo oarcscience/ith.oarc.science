@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe317)  [Next](prwe319) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe317)  [Next](prwe319.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ the timber cut down and sold.
 
 ------------------------------------------------------------------------
 
-[Next: The Clerks of Cornwall](prwe319)
+[Next: The Clerks of Cornwall](prwe319.md)

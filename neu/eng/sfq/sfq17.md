@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq16)  [Next](sfq18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq16)  [Next](sfq18.md) 
 
 ------------------------------------------------------------------------
 
@@ -263,4 +263,4 @@ dainty and rare.
 
 ------------------------------------------------------------------------
 
-[Next: The Knight with the Hempen Rope](sfq18)
+[Next: The Knight with the Hempen Rope](sfq18.md)

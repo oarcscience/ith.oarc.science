@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws15)  [Next](cws17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws15)  [Next](cws17.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XII
 
-#### CONCERNING THE SOUL: ITS ORIGIN, NATURE, AND POTENTIALITIES <span id="fr_70"></span>[2](#fn_70)
+#### CONCERNING THE SOUL: ITS ORIGIN, NATURE, AND POTENTIALITIES <span id="fr_70"></span>[2](#fn_70.md)
 
 THE Soul, in its first beginning, is not something added to the body,
 but is generated in the body by the polarisation of the astral elements.
@@ -17,7 +17,7 @@ As there are two of the outer, so also of the inner. The two of the
 inner are spirit and soul. In the translation of the Scriptures the word
 spirit is often used where soul is meant. For only the man created in
 God's own image is a living soul, that is, a soul which has the Spirit
-superadded to it. <span id="fr_71"></span>[3](#fn_71)
+superadded to it. <span id="fr_71"></span>[3](#fn_71.md)
 
 The clearest understanding may be obtained of the soul by defining it as
 the divine idea. Before anything can exist outwardly and materially, the
@@ -120,7 +120,7 @@ Nirvâna. Again, conceive of the degraded soul as dividing more and more
 until at length it is scattered into many, and ceases to be as an
 individual, being, as. it were, split and broken up, and dispersed into
 many pieces. This is the Nirvâna of the Amen, or annihilation of the
-individual. <span id="fr_72"></span>[1](#fn_72)
+individual. <span id="fr_72"></span>[1](#fn_72.md)
 
 "And whence," you inquire," is the supply of new souls for the continual
 increase of the world's population?" Souls, as you know, work up from
@@ -175,7 +175,7 @@ the spirit. But if he lose his spirit, and become again animal, he may
 descend, yea, he may become altogether gross and horrible, and a
 creeping and detestable thing, begotten of filth and corruption. This is
 the end of persistently evil men. For God is not the God of creeping
-things, but Baal Zebub <span id="fr_73"></span>[1](#fn_73) is their God.
+things, but Baal Zebub <span id="fr_73"></span>[1](#fn_73.md) is their God.
 And there were none of these in the Age of Gold: neither shall there be
 any when the earth is fully purged. O Men! your exceeding wickedness is
 the creator of your evil beasts; yea, your filthy torments are your own
@@ -299,7 +299,7 @@ its material the rest becomes finer, rarer, and purer, and continues to
 do so more and more until--after many incarnations, made good use
 of--the whole of the soul is absorbed into the Divine Spirit, and
 becomes one with God, making God so much the richer for the usury. This
-is the celestial Nirvâna. <span id="fr_74"></span>[1](#fn_74) But,
+is the celestial Nirvâna. <span id="fr_74"></span>[1](#fn_74.md) But,
 though becoming pure Spirit, or God, the individual retains his
 individuality; so that instead of all being merged in the One, the One
 becomes Many. Thus has God become millions. We, too, are legion, and
@@ -310,24 +310,24 @@ tongues. And the sound of God is as the sound of many waters.
 
 ### Footnotes
 
-<span id="fn_70"></span>[27:2](cws16.htm#fr_70) London. Spoken in trance
+<span id="fn_70"></span>[27:2](cws16.htm#fr_70.md) London. Spoken in trance
 at different times in 1880 and 1881. Referred to in *Life of Anna
 Kingsford*, vol. i, pp. 394, 413-414, 421-423.    S. H. H.
 
-<span id="fn_71"></span>[27:3](cws16.htm#fr_71) Spirit, being the
+<span id="fn_71"></span>[27:3](cws16.htm#fr_71.md) Spirit, being the
 substance of all things, is in all things, but does not become *the*
 Spirit until, from being diffuse and abstract, it becomes, by
 Polarisation, concentrate and formulate,--from heat becoming flame. E.
 M.
 
-<span id="fn_72"></span>[30:1](cws16.htm#fr_72) See Appendix, note A.
+<span id="fn_72"></span>[30:1](cws16.htm#fr_72.md) See Appendix, note A.
 
-<span id="fn_73"></span>[31:1](cws16.htm#fr_73) Impurity, or the active
+<span id="fn_73"></span>[31:1](cws16.htm#fr_73.md) Impurity, or the active
 principle in putrefaction and corruption.    E. M.
 
-<span id="fn_74"></span>[34:1](cws16.htm#fr_74) See Appendix, note A.
+<span id="fn_74"></span>[34:1](cws16.htm#fr_74.md) See Appendix, note A.
 
 ------------------------------------------------------------------------
 
 [Next: No. XIII: Concerning Persephone, Or The Soul's Descent Into
-Matter](cws17)
+Matter](cws17.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Celtic Folklore](../celt/index) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Celtic Folklore](../celt/index.md) 
 
 ------------------------------------------------------------------------
 

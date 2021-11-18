@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg91)  [Next](btg93) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg91)  [Next](btg93.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ life, and his life will be a blessing to all his fellow-creatures."
 
 ------------------------------------------------------------------------
 
-[Next: The Courtesan Ambapali](btg93)
+[Next: The Courtesan Ambapali](btg93.md)

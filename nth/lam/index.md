@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,38 +20,38 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](lam00)
+[Contents](#contents)    [Start Reading](lam00.md)
 
 ------------------------------------------------------------------------
 
 This is a short collection of articles by a WWII-era US author who
 appears to have been influenced by New Thought, and to a lesser extent,
-[Theosophy](../../the/index). He offers plain answers, without any
+[Theosophy](../../the/index.md). He offers plain answers, without any
 metaphysical jargon, to the 'big' questions, including "[Where do
-animals go when they die?](lam15)". So far not much seems to available
+animals go when they die?](lam15.md)". So far not much seems to available
 online about Frank L. Hammer, particularly biographical: perhaps a
 reader can supply some information. All of his books have been out of
 print for years, although there seem to be plenty of used copies
-available. Hammer wrote another book, [An Eternal Career](../aec/index),
+available. Hammer wrote another book, [An Eternal Career](../aec/index.md),
 \[1947\] also available online at this site.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](lam00)  
-[Preface](lam01)  
-[Contents](lam02)  
-[I. Birth](lam03)  
-[II. Mind](lam04)  
-[III. Thought](lam05)  
-[IV. Telepathy](lam06)  
-[V. Truth](lam07)  
-[VI. Free Will](lam08)  
-[VII. Miracles](lam09)  
-[VIII. Equality](lam10)  
-[IX. Affinity](lam11)  
-[X. Individuality](lam12)  
-[XI. Reality](lam13)  
-[XI. Immortality](lam14)  
-[XIII. Future Life of Animals](lam15)  
-[XIV. Questions and Answers](lam16)  
-[Dust Jacket copy](lam17)  
+<span id="contents"></span> [Title Page](lam00.md)  
+[Preface](lam01.md)  
+[Contents](lam02.md)  
+[I. Birth](lam03.md)  
+[II. Mind](lam04.md)  
+[III. Thought](lam05.md)  
+[IV. Telepathy](lam06.md)  
+[V. Truth](lam07.md)  
+[VI. Free Will](lam08.md)  
+[VII. Miracles](lam09.md)  
+[VIII. Equality](lam10.md)  
+[IX. Affinity](lam11.md)  
+[X. Individuality](lam12.md)  
+[XI. Reality](lam13.md)  
+[XI. Immortality](lam14.md)  
+[XIII. Future Life of Animals](lam15.md)  
+[XIV. Questions and Answers](lam16.md)  
+[Dust Jacket copy](lam17.md)  

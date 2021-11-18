@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst00)  [Next](mst02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst00)  [Next](mst02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -131,14 +131,14 @@ PART TWO</p></td>
 
 |                                                                                                   |                                     |
 |---------------------------------------------------------------------------------------------------|-------------------------------------|
-| Frontispiece of the edition printed in Amsterdam in 1668                                          | [Frontispiece](mst00.htm#img_front) |
+| Frontispiece of the edition printed in Amsterdam in 1668                                          | [Frontispiece](mst00.htm#img_front.md) |
 |                                                                                                   | FACING PAGE                         |
-| Etching made by a woman of Salon, from the portrait bust by César Nostradamus, son of the prophet | [54](mst05.htm#img_05400)           |
-| Through this old gate traveled Nostradamus on errands of mercy and friendship                     | [109](mst07.htm#img_10900)          |
-| King René, the minstrel-monarch of Provence                                                       | [167](mst09.htm#img_16700)          |
-| Blois, setting of royal splendors and tragic destinies                                            | [224](mst11.htm#img_22400)          |
-| Last resting place of the older Capetian kings                                                    | [255](mst12.htm#img_25500)          |
-| Ronsard, who celebrated the arrival of Nostradamus at court with verses in his honor              | [293](mst13.htm#img_29300)          |
+| Etching made by a woman of Salon, from the portrait bust by César Nostradamus, son of the prophet | [54](mst05.htm#img_05400.md)           |
+| Through this old gate traveled Nostradamus on errands of mercy and friendship                     | [109](mst07.htm#img_10900.md)          |
+| King René, the minstrel-monarch of Provence                                                       | [167](mst09.htm#img_16700.md)          |
+| Blois, setting of royal splendors and tragic destinies                                            | [224](mst11.htm#img_22400.md)          |
+| Last resting place of the older Capetian kings                                                    | [255](mst12.htm#img_25500.md)          |
+| Ronsard, who celebrated the arrival of Nostradamus at court with verses in his honor              | [293](mst13.htm#img_29300.md)          |
 
 </div>
 
@@ -146,4 +146,4 @@ PART TWO</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](mst02)
+[Next: Foreword](mst02.md)

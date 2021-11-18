@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd16)  [Next](smd18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd16)  [Next](smd18.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,4 +126,4 @@ Space to breathe, how short soever,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Tuesday--The Day of Tiu](smd18)
+[Next: Chapter XVI. Tuesday--The Day of Tiu](smd18.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft32)  [Next](efft34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft32)  [Next](efft34.md) 
 
 ------------------------------------------------------------------------
 
-# THE FAIRY BANQUET.  <span id="fr_39"></span>[1](#fn_39)
+# THE FAIRY BANQUET.  <span id="fr_39"></span>[1](#fn_39.md)
 
 IN the next chapter of his history, William of Newbridge relates as
 follows--
@@ -41,9 +41,9 @@ it."
 
 ### Footnotes
 
-<span id="fn_39"></span>[1](efft33.htm#fr_39) T . Keightley, *The Fairy
+<span id="fn_39"></span>[1](efft33.htm#fr_39.md) T . Keightley, *The Fairy
 Mythology*, p. 283, quoting William of Newbridge.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Horn](efft34)
+[Next: The Fairy Horn](efft34.md)

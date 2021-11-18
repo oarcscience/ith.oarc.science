@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft02)  [Next](eft04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft02)  [Next](eft04.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ the grass and throw it down to the cow!' But the woman thought it was
 easier to get the cow up
 
 <span id="img_003"></span> [![](tn/003.jpg)  
-Click to enlarge](img/003.jpg)
+Click to enlarge](img/003.jpg.md)
 
 the ladder than to get the grass down, so she pushed her and coaxed her
 and got her up, and tied a string round her neck, and passed it down the
@@ -123,4 +123,4 @@ to do with you or me.
 
 ------------------------------------------------------------------------
 
-[Next: The Rose-Tree](eft04)
+[Next: The Rose-Tree](eft04.md)

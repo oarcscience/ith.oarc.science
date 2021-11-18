@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil86)  [Next](egil88) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil86)  [Next](egil88.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,4 +181,4 @@ needs to be told.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXXVII. Of Egil and Aunund Sjoni.](egil88)
+[Next: CHAPTER LXXXVII. Of Egil and Aunund Sjoni.](egil88.md)

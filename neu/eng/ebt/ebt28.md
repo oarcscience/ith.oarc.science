@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt27)  [Next](ebt29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt27)  [Next](ebt29.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Malvern, via Arthur's Stone, Cross End, Moccas Church, Monnington
 Church, Credenhill (old) Court, Pipe and Lyde Church, and Beacon Hill.
 
 Pen-y-Beacon to North Hill, Malvern, via Sugwas Park, Ten Houses Pond
-([Plate VI](ebt10.htm#img_pl06).), Burcot Pool, White Stone Chapel,
+([Plate VI](ebt10.htm#img_pl06)..md), Burcot Pool, White Stone Chapel,
 Shucknell Hill, Stretton Grandison Church, Moat at Birchend, and Mathon
 Church.
 
@@ -47,4 +47,4 @@ Linton Church.
 
 ------------------------------------------------------------------------
 
-[Next: Endword](ebt29)
+[Next: Endword](ebt29.md)

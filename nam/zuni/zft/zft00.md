@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index)  [Next](zft01) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index)  [Next](zft01.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ American](../../index)  [Zuñi](../index)  [Index](index)  [Next](zft01) 
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](zft01)
+[Next: Table of Contents](zft01.md)

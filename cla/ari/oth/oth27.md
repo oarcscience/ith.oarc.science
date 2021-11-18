@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth26)  [Next](oth28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth26)  [Next](oth28.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ neither be composed to form a body nor possess weight.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](oth28)
+[Next: Chapter 2](oth28.md)

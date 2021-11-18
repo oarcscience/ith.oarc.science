@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ric04)  [Next](ric06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ric04)  [Next](ric06.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ turtle-shell.
 
 ------------------------------------------------------------------------
 
-[Next: Mythology and Beliefs](ric06)
+[Next: Mythology and Beliefs](ric06.md)

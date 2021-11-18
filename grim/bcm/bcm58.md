@@ -1,25 +1,25 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm57)  [Next](bcm59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm57)  [Next](bcm59.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_20703"></span> [![](tn/generic.jpg)  
-Click to view](img/20703.jpg)  
+Click to view](img/20703.jpg.md)  
 THE SEAL OF MALPAS
 
 XXXIX\. MALPAS, a powerful president, appears at first like a crow, but
 afterwards, when so commanded, assumes a human form, speaking with a
 hoarse voice. He brings artificers swiftly from all parts of the world,
-destroys the desires and thoughts <span id="fr_222"></span>[1](#fn_221)
+destroys the desires and thoughts <span id="fr_222"></span>[1](#fn_221.md)
 of enemies, gives good familiars and receives a sacrifice kindly, but
 will deceive him who offers it.
 
 <span id="img_20800"></span> [![](tn/generic.jpg)  
-Click to view](img/20800.jpg)  
+Click to view](img/20800.jpg.md)  
 THE SEAL OF RAUM
 
-XL\. RAUM, <span id="fr_223"></span>[2](#fn_222) a great earl, appears
+XL\. RAUM, <span id="fr_223"></span>[2](#fn_222.md) a great earl, appears
 in the form of a crow, but assumes human shape when bidden. He steals
 treasure, even out of the King's house, and carries it where commanded;
 he destroys cities and dignities; he discerns past, present and future;
@@ -52,20 +52,20 @@ wings of a griffin. He drowns men, sinks warships
 
 and has power over the winds and the sea, but he will not hurt any one
 if commanded to forbear by the exorcist. He hopes to return to the
-Seventh Thrones in 1050 years. <span id="fr_224"></span>[1](#fn_223)
+Seventh Thrones in 1050 years. <span id="fr_224"></span>[1](#fn_223.md)
 
-XLII\. SABNACK, <span id="fr_225"></span>[2](#fn_224) a mighty marquis,
+XLII\. SABNACK, <span id="fr_225"></span>[2](#fn_224.md) a mighty marquis,
 appears in the form of an armed soldier, having a lion's head and riding
 on a pale-coloured horse. He builds towers, camps and cities, fortifies
 the same, torments men with wounds and putrid sores swarming with
-worms; <span id="fr_226"></span>[3](#fn_225) he also gives good
+worms; <span id="fr_226"></span>[3](#fn_225.md) he also gives good
 familiars.
 
 <span id="img_20900"></span> [![](tn/generic.jpg)  
-Click to view](img/20900.jpg)  
+Click to view](img/20900.jpg.md)  
 THE SEAL OF VEPAR
 
-XLIII\. VEPAR, <span id="fr_227"></span>[4](#fn_226) a great duke,
+XLIII\. VEPAR, <span id="fr_227"></span>[4](#fn_226.md) a great duke,
 appears as a mermaid. He guides the waters and battleships; he occasions
 storms at sea, when so commanded by the Magician. He also causes the sea
 to seem full of ships; he occasions death in three days by means of
@@ -90,8 +90,8 @@ THE SEAL OF VINE</p></td>
 
  
 
-XLIV\. SHAX, <span id="fr_228"></span>[5](#fn_227) a great marquis,
-comes in the form of a stockdove, <span id="fr_229"></span>[6](#fn_228)
+XLIV\. SHAX, <span id="fr_228"></span>[5](#fn_227.md) a great marquis,
+comes in the form of a stockdove, <span id="fr_229"></span>[6](#fn_228.md)
 speaking with a hoarse voice. He destroys the sight, hearing and
 understanding of any man or woman at the will of the exorcist, steals
 money from the king's exchequer
@@ -101,11 +101,11 @@ money from the king's exchequer
 and returns it in 1200 years. He will transport anything, but must first
 be commanded into the triangle; otherwise he will deceive the operator.
 He discovers all hidden things which are not in the keeping of wicked
-spirits and gives good [familiars](errata.htm#0). <span
-id="fr_230"></span>[1](#fn_229)
+spirits and gives good [familiars](errata.htm#0.md). <span
+id="fr_230"></span>[1](#fn_229.md)
 
 XLV\. VINE, a great king and earl, appears in a monstrous form, <span
-id="fr_231"></span>[2](#fn_230) but assumes human shape when commanded.
+id="fr_231"></span>[2](#fn_230.md) but assumes human shape when commanded.
 He discerns things hidden, reveals witches and makes known the past,
 present and future. At the command of the exorcist he will build towers,
 demolish walls and make the waters stormy.
@@ -136,7 +136,7 @@ precious stones and woods; he changes dead bodies, puts them in other
 places and lights phantom candles on their graves.
 
 <span id="img_21002"></span> [![](tn/generic.jpg)  
-Click to view](img/21002.jpg)  
+Click to view](img/21002.jpg.md)  
 THE SEAL OF HAGENTI
 
 XLVII\. VUAL, a great duke, comes at first as an enormous dromedary, but
@@ -153,15 +153,15 @@ bull with the wings of a griffin, but will duly put on human form. He
 gives wisdom, transmutes all metals into gold and turns wine into water.
 
 <span id="img_21100"></span> [![](tn/generic.jpg)  
-Click to view](img/21100.jpg)  
+Click to view](img/21100.jpg.md)  
 THE SEAL OF PROCEL
 
-XLIX\. PROCEL, <span id="fr_232"></span>[1](#fn_231) appears in the form
+XLIX\. PROCEL, <span id="fr_232"></span>[1](#fn_231.md) appears in the form
 of an angel, and is a great and strong duke. He speaks mystically of
 hidden things, teaches geometry and the liberal sciences, and at the
 command of the operator will make a great commotion, like that of
 running waters; he also warms waters and tempers baths. <span
-id="fr_233"></span>[2](#fn_232) He was of the Order of the Powers before
+id="fr_233"></span>[2](#fn_232.md) He was of the Order of the Powers before
 his fall.
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
@@ -197,48 +197,48 @@ the third like a ram's. With the tail of a serpent and eyes flaming
 fire, he rides upon a furious bear, carrying a goshawk on his wrist and
 speaking with a hoarse voice. He gives true answers as to past, present
 and future, makes men go invisible, and imparts wit. <span
-id="fr_234"></span>[1](#fn_233)
+id="fr_234"></span>[1](#fn_233.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_221"></span>[208:1](bcm58.htm#fr_222) The reading of Wierus
+<span id="fn_221"></span>[208:1](bcm58.htm#fr_222.md) The reading of Wierus
 is preferable, *i.e.*, Temples and Towers. But the reference is to the
 edifices of enemies. On his own part, he builds houses and high towers
 wonderfully.
 
-<span id="fn_222"></span>[208:2](bcm58.htm#fr_223) Or *Raym*.
+<span id="fn_222"></span>[208:2](bcm58.htm#fr_223.md) Or *Raym*.
 
-<span id="fn_223"></span>[209:1](bcm58.htm#fr_224) He is deceived, says
+<span id="fn_223"></span>[209:1](bcm58.htm#fr_224.md) He is deceived, says
 Wierus, and so say other codices.
 
-<span id="fn_224"></span>[209:2](bcm58.htm#fr_225) *Alias*, *Saburac*.
+<span id="fn_224"></span>[209:2](bcm58.htm#fr_225.md) *Alias*, *Saburac*.
 
-<span id="fn_225"></span>[209:3](bcm58.htm#fr_226) At the command of the
+<span id="fn_225"></span>[209:3](bcm58.htm#fr_226.md) At the command of the
 magician (Wierus).
 
-<span id="fn_226"></span>[209:4](bcm58.htm#fr_227) Otherwise, *Separ*.
+<span id="fn_226"></span>[209:4](bcm58.htm#fr_227.md) Otherwise, *Separ*.
 
-<span id="fn_227"></span>[209:5](bcm58.htm#fr_228) Also *Chax* or
+<span id="fn_227"></span>[209:5](bcm58.htm#fr_228.md) Also *Chax* or
 *Scox*.
 
-<span id="fn_228"></span>[209:6](bcm58.htm#fr_229) Otherwise, a stork.
+<span id="fn_228"></span>[209:6](bcm58.htm#fr_229.md) Otherwise, a stork.
 
-<span id="fn_229"></span>[210:1](bcm58.htm#fr_230) He is also a
+<span id="fn_229"></span>[210:1](bcm58.htm#fr_230.md) He is also a
 horse-stealer, when so desired by the exorcist.
 
-<span id="fn_230"></span>[210:2](bcm58.htm#fr_231) Or as a lion seated
+<span id="fn_230"></span>[210:2](bcm58.htm#fr_231.md) Or as a lion seated
 on a black horse and holding a viper in his hand.
 
-<span id="fn_231"></span>[211:1](bcm58.htm#fr_232) Otherwise, *Pucel*.
+<span id="fn_231"></span>[211:1](bcm58.htm#fr_232.md) Otherwise, *Pucel*.
 
-<span id="fn_232"></span>[211:2](bcm58.htm#fr_233) *i.e.*, the thermal
+<span id="fn_232"></span>[211:2](bcm58.htm#fr_233.md) *i.e.*, the thermal
 springs frequented by sick people.
 
-<span id="fn_233"></span>[212:1](bcm58.htm#fr_234) He is of the Order of
+<span id="fn_233"></span>[212:1](bcm58.htm#fr_234.md) He is of the Order of
 the Dominations.
 
 ------------------------------------------------------------------------
 
-[Next: Demons: LII. (Allocen) to LIX. (Orias)](bcm59)
+[Next: Demons: LII. (Allocen) to LIX. (Orias)](bcm59.md)

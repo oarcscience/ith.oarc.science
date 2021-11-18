@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch17) 
-[Next](branch19) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch17.md) 
+[Next](branch19.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -807,5 +807,5 @@ again in the New Law by the valour of the Good Knight.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XIX](branch19)  
+XIX](branch19.md)  
 </span>

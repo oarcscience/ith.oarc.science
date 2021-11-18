@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](ppx02)  [Next](ppx04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](ppx02)  [Next](ppx04.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ over the rocks, shaking his tail up and down, dipping his wings into the
 stream and off again in a moment.
 
 On Dartmoor, too, as I have noticed in a previous work,  <span
-id="fr_0"></span>[1](#fn_0) we meet in spring, upon a sunny morning, the
+id="fr_0"></span>[1](#fn_0.md) we meet in spring, upon a sunny morning, the
 pale yellow butterfly, usually seen in the garden among the flower beds;
 but here sporting on the front of some old grey rock, or settling on the
 wild thyme, or on the golden furze, as its wings shake with a quickness
@@ -129,7 +129,7 @@ endeavouring to make his way (from a stream where he had been fishing)
 across Mistor, with a view to shorten his road to Princetown on the
 moor. The following particulars I have gathered and selected from Mr.
 Smith's own account of the circumstance. <span
-id="fr_1"></span>[2](#fn_1)
+id="fr_1"></span>[2](#fn_1.md)
 
 He had not advanced more than a quarter of a mile in his ascent, when he
 was so suddenly enveloped in a cloud, dense, dark, and flaky, that it
@@ -202,7 +202,7 @@ storm of snow; and not returning their master grew uneasy, and with some
 of his men went out to search for them. The lads were found nearly
 buried in snow, and both apparently sleeping. In this state they were
 removed to the farm-house; one was restored to life, but the other was
-quite dead. <span id="fr_2"></span>[3](#fn_2)
+quite dead. <span id="fr_2"></span>[3](#fn_2.md)
 
 Besides the huts I mentioned just now, there are a few cottages and
 houses, and a very large building on the moot, which is now a dismal
@@ -303,7 +303,7 @@ detail, as in many respects. they are very curious; and in doing so, for
 some few particulars, I shall venture to draw upon my own account, given
 in a former work, which, being intended for men and women only, is not
 at all likely to fall into the hands of my young friends. <span
-id="fr_3"></span>[4](#fn_3)
+id="fr_3"></span>[4](#fn_3.md)
 
 These tiny elves are said to delight in solitary places, to love
 pleasant hills and pathless woods, or to disport themselves on the
@@ -422,18 +422,18 @@ lessons, or to more serious studies, in a few Pixy tales.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](ppx03.htm#fr_0) "Borders of the Tamar and
+<span id="fn_0"></span>[1](ppx03.htm#fr_0.md) "Borders of the Tamar and
 Tavy."
 
-<span id="fn_1"></span>[2](ppx03.htm#fr_1) Given at large in the
+<span id="fn_1"></span>[2](ppx03.htm#fr_1.md) Given at large in the
 "Borders of the Tamar and the Tavy," vol. i, p. 208.
 
-<span id="fn_2"></span>[3](ppx03.htm#fr_2) In the severe winter of 1853,
+<span id="fn_2"></span>[3](ppx03.htm#fr_2.md) In the severe winter of 1853,
 four soldiers and a poor pedler were also lost in the snow on the moor.
 
-<span id="fn_3"></span>[4](ppx03.htm#fr_3) "The Borders of the Tamar and
+<span id="fn_3"></span>[4](ppx03.htm#fr_3.md) "The Borders of the Tamar and
 the Tavy."
 
 ------------------------------------------------------------------------
 
-[Next: Pixy Gathon, or, the Tailor's Needle](ppx04)
+[Next: Pixy Gathon, or, the Tailor's Needle](ppx04.md)

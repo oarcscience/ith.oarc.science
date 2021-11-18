@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Hesiod](index)  [English](theogony) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Hesiod](index)  [English](theogony.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 This is a Unicode version of the Theogony of Hesiod. To view the
 polytonic Greek in this file, your browser needs to be set up to display
 Unicode correctly. For more information, refer to [this
-file](../../unicode).
+file](../../unicode.md).
 
 ------------------------------------------------------------------------
 

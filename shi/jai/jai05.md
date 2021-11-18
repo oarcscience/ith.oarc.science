@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai04)  [Next](jai06) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai04)  [Next](jai06.md) 
 
 ------------------------------------------------------------------------
 
@@ -543,4 +543,4 @@ scholars.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Japanese Family](jai06)
+[Next: The Japanese Family](jai06.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Samaritans](index)  [Next](chron2) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Samaritans](index)  [Next](chron2.md) 
 
 ------------------------------------------------------------------------
 
@@ -1694,4 +1694,4 @@ narrate and explain. (To Him be the praise.)**
 
 ------------------------------------------------------------------------
 
-[Next: The Samaritan Chronicle, or the Book of Joshua (Part II)](chron2)
+[Next: The Samaritan Chronicle, or the Book of Joshua (Part II)](chron2.md)

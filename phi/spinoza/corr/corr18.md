@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr17)  [Next](corr19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr17)  [Next](corr19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -33,7 +33,7 @@ opinion concerning God differs widely from that which is ordinarily
 defended by modern Christians. For I hold that God is of all things the
 cause immanent, as the phrase is, not transient. I say that all things
 are in God and move in God, thus agreeing with Paul, <span
-id="fr_15"></span>[1](#fn_15) and, perhaps, with all the ancient
+id="fr_15"></span>[1](#fn_15.md) and, perhaps, with all the ancient
 philosophers, though the phraseology may be different; I will even
 venture to affirm that I agree with all the ancient Hebrews, in so far
 as one may judge from their traditions, though these are in many ways
@@ -79,9 +79,9 @@ better than I. Farewell.
 
 ### Footnotes
 
-<span id="fn_15"></span>[298:1](corr18.htm#fr_15) See Acts xvii. 28. Cf.
+<span id="fn_15"></span>[298:1](corr18.htm#fr_15.md) See Acts xvii. 28. Cf.
 1 Cor. iii. 16, xii. 6; Eph. i. 23.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXII. From Oldenburg](corr19)
+[Next: Letter XXII. From Oldenburg](corr19.md)

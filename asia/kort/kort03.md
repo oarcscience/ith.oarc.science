@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort02)  [Next](kort04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort02)  [Next](kort04.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ p\. 105, 3d line from bottom of text, for "carier" read "carrier."
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](kort04)
+[Next: Introduction](kort04.md)

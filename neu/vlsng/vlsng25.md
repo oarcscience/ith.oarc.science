@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng24)  [Next](vlsng26) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng24)  [Next](vlsng26.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ falcons.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV: Sigurd sees Brynhild at Hlymdale.](vlsng26)
+[Next: Chapter XXIV: Sigurd sees Brynhild at Hlymdale.](vlsng26.md)

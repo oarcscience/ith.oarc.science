@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar219) [Next](gbar221)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar219) [Next](gbar221.md)
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ to thee only belongeth honour and glory without end.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar221)
+[Next](gbar221.md)

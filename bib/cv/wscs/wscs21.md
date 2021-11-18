@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs20) 
-[Next](wscs22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs20.md) 
+[Next](wscs22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -232,7 +232,7 @@ ignorant of this chapter in his history, as the writers preceding him,
 from whom he copied, had related it.
 
 Among this number may be mentioned the learned French writer
-[Monsieur](errata.htm#5) Guigniant, who, in his "Religion of the
+[Monsieur](errata.htm#5.md) Guigniant, who, in his "Religion of the
 Ancients," speaks so specifically of the crucifixion of this God, as to
 name the circumstance of his being nailed to a tree. He also states,
 that before his exit he made some remarkable prophecies appertaining to
@@ -503,7 +503,7 @@ and brothers, etc. (For more, see Chapter on Bibles.)
 
 Before we close this chapter we must anticipate and answer an objection.
 It will be said that the reported amours of Chrishna and his
-[reencounter](errata.htm#6) with Cansa constitute
+[reencounter](errata.htm#6.md) with Cansa constitute
 
 <span id="page_115">p. 115</span>
 
@@ -882,7 +882,7 @@ of the beneficent demigod Prometheus, crucified on his Scythian crags
 for his love to mortals." Here we have first-class authority for the
 crucifixion of this oriental God.
 
-In Lempriere's "Classical [Dictionary](errata.htm#7)," Higgins’
+In Lempriere's "Classical [Dictionary](errata.htm#7.md)," Higgins’
 "Anacalypsis," and other works, may be found the following particulars
 relative to the final exit of the God above named, viz.:—
 
@@ -1218,4 +1218,4 @@ author considers of more importance.
 ------------------------------------------------------------------------
 
 [Next: Chapter XVII: The Aphanasia, or Darkness, at the
-Crucifixion](wscs22)
+Crucifixion](wscs22.md)

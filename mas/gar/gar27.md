@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar26)  [Next](gar28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar26)  [Next](gar28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -67,11 +67,11 @@ keep within bounds those unruly passions which oftentimes interfere with
 the enjoyments of society, and degrade both the man and the Freemason;
 to recall to our minds that, in the great scale of existence, the whole
 family of mankind are upon a level with each other, and that the only
-question of preference among [Freemasons](errata.htm#0) should be, who
+question of preference among [Freemasons](errata.htm#0.md) should be, who
 is most wise, who is most good? For the time will come, and none of us
 know how soon, when death, the great leveler of all human greatness,
 will rob us of our distinctions, and bring us to a level with the dust.
 
 ------------------------------------------------------------------------
 
-[Next: The Ornaments of a Lodge](gar28)
+[Next: The Ornaments of a Lodge](gar28.md)

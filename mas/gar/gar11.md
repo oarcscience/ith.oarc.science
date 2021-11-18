@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar10)  [Next](gar12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar10)  [Next](gar12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -134,7 +134,7 @@ Or the following ODE may be sung:
 
 <span id="img_02500"></span> <span align="CENTER">
 [![AIR—&lt;i&gt;Dundee&lt;/i&gt;.](tn/02500.jpg)  
-Click to enlarge](img/02500.jpg)  
+Click to enlarge](img/02500.jpg.md)  
 AIR—*Dundee*.  
 </span>
 
@@ -214,7 +214,7 @@ The following ODE may be sung at closing:
 
 <span id="img_02800"></span> <span align="CENTER">
 [![AIR—&lt;i&gt;Sicilian Hymn&lt;/i&gt;.](tn/02800.jpg)  
-Click to enlarge](img/02800.jpg)  
+Click to enlarge](img/02800.jpg.md)  
 AIR—*Sicilian Hymn*.  
 </span>
 
@@ -240,4 +240,4 @@ us!—Amen.         *Res*.—So mote it be.
 
 ------------------------------------------------------------------------
 
-[Next: Illustrations](gar12)
+[Next: Illustrations](gar12.md)

@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat03)  [Next](yat05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat03)  [Next](yat05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### II. THE THEFT OF FIRE AND THE BURNING OF THE WORLD.  <span id="fr_13"></span>[47](#fn_13)
+### II. THE THEFT OF FIRE AND THE BURNING OF THE WORLD.  <span id="fr_13"></span>[47](#fn_13.md)
 
 <span id="page_31">p. 31</span>
 
@@ -51,7 +51,7 @@ runner?" (said the chief). "I" (said Fox). "It is I who know how to
 run." "Who else is a good runner?" "I" (said another). There were two
 who knew how to run well. "What is your name?" (asked the chief of the
 first). "Fox." "What is your name?" he asked of the second).
-"‘A'iwi<sup>?</sup>auna." <span id="fr_14"></span>[48](#fn_14) "Yes, it
+"‘A'iwi<sup>?</sup>auna." <span id="fr_14"></span>[48](#fn_14.md) "Yes, it
 is good now."
 
 Behold! The men went off, five of them. They walked in a circle around
@@ -59,7 +59,7 @@ the village. "Where shall we go?" (they asked one another). "Let us go
 to the south under the ground." The five men proceeded south under the
 ground, went off south in the night-time. Arriving in the south, they
 came up from the ground at K!ū'wiha. <span
-id="fr_15"></span>[49](#fn_15) Coyote was sleeping; (on their arrival)
+id="fr_15"></span>[49](#fn_15) Coyote was sleeping; (on their arrival.md)
 he arose and said, "Well, where are the people all going to?" "I do not
 know," said the people there, talking to Coyote. Coyote talked to the
 rocks, talked to the cooking-basket, talked to the house. "You, tell me,
@@ -98,7 +98,7 @@ stolen it. They ran to the north. "Run! run, all of you!" (said
 ‘A'iwi<sup>?</sup>auna). "When you are tired out, throw the fire to me."
 They kept running to the north, while Coyote kept running back after
 them. When they had run back as far as Balê'ha, <span
-id="fr_16"></span>[50](#fn_16) Coyote said, asking Fox, "Well! Give me
+id="fr_16"></span>[50](#fn_16.md) Coyote said, asking Fox, "Well! Give me
 the fire. I shall carry the fire in my hand," said Coyote. "Look out!"
 said Fox, "you might drop it down on the ground, you might burn your
 hand." "What did I go off to the south for? I shall tell the people when
@@ -117,7 +117,7 @@ home from the south.
 
 Coyote burned his hand and dropped his fire. The chunk of coal burst
 apart into several pieces. "M‘! du' du du du' du du! <span
-id="fr_17"></span>[50a](#fn_17) said Coyote, for he had burned his hand.
+id="fr_17"></span>[50a](#fn_17.md) said Coyote, for he had burned his hand.
 Everything burned all around, when the fire had been dropped. The fire
 burned in the south, the fire burned in the east, the fire burned off to
 the west, the fire burned in the north. It came burning up to this place
@@ -125,7 +125,7 @@ here. The rocks burst from the heat, the water burned up. The mountain
 was all covered with smoke, it burned right across the Sacramento river,
 the people burned up. The two people (that had stolen the fire) rushed
 off, while the fire came burning after them. It burned and reached up to
-Eagles village at Cī'p!a. <span id="fr_18"></span>[51](#fn_18)
+Eagles village at Cī'p!a. <span id="fr_18"></span>[51](#fn_18.md)
 
 "Hurry up, everybody! This place is burning, the people are burning.
 Whither shall we go? We can't move into the rocks, we can't move down
@@ -159,19 +159,19 @@ Eagle). The hole spread out a little more so that the basket was now
 torn a good bit. Coyote fell down through the hole, fell right back down
 to the ground.
 
-Fire-Drill Woman <span id="fr_19"></span>[52](#fn_19) was standing below
+Fire-Drill Woman <span id="fr_19"></span>[52](#fn_19.md) was standing below
 and looked around. She looked up, saw the people falling down back to
 the ground. The people all burned up, burned up completely. Black Bear's
 eyes popped out way to the east, they popped way to the west, the eyes
 popped way to the north, his eyes popped to the south. He burned up, but
-his eyes popped off. <span id="fr_20"></span>[53](#fn_20) Spider
+his eyes popped off. <span id="fr_20"></span>[53](#fn_20.md) Spider
 remained in the sky.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_13"></span>[23:47](yat04.htm#fr_13) The scene of this myth
+<span id="fn_13"></span>[23:47](yat04.htm#fr_13.md) The scene of this myth
 is laid at Bā'djiyu, an Indian village said to have been located above
 P‘ā'wi, a village on Clover creek at a distance of about eight miles
 from Millville. Curtin's myth of "The Finding of Fire" (*op. cit.*, pp.
@@ -199,43 +199,43 @@ lines, is referred to in Dixon's "Northern Maidu" (*op. cit.*), p. 339.
 The version contained in Dixon's manuscript Yana note-books, however,
 does not differ materially from that here given.
 
-<span id="fn_14"></span>[32:48](yat04.htm#fr_14) A bird described as
+<span id="fn_14"></span>[32:48](yat04.htm#fr_14.md) A bird described as
 brown in color, somewhat bigger than a snow bird, and running along the
 river shore. Perhaps the sandpiper. *‘aiwi<sup>?</sup>au-* may be,
 either actually or by popular etymology, connected with
 *‘ai<sup>?</sup>au*- "to carry fire."
 
-<span id="fn_15"></span>[32:49](yat04.htm#fr_15) An Indian village at
+<span id="fn_15"></span>[32:49](yat04.htm#fr_15.md) An Indian village at
 North Fork of Battle Creek.
 
-<span id="fn_16"></span>[33:50](yat04.htm#fr_16) An Indian village at
+<span id="fn_16"></span>[33:50](yat04.htm#fr_16.md) An Indian village at
 Mill creek, situated on a mountain several miles east of Tehama. It was
 considered by Sam Bat‘wī to be the farthest Yana point to the south.
 
-<span id="fn_17"></span>[34:50a](yat04.htm#fr_17) It is very curious
+<span id="fn_17"></span>[34:50a](yat04.htm#fr_17.md) It is very curious
 that practically the same exclamation (do' do do do do do) is used in a
 Takelma (southwestern Oregon) text by ghosts on catching fire. The
 resemblance becomes an identity if we remember that close *o* and open
 *u* are respectively lacking to Yana and Takelma.
 
-<span id="fn_18"></span>[34:51](yat04.htm#fr_18) An Indian village on
+<span id="fn_18"></span>[34:51](yat04.htm#fr_18.md) An Indian village on
 the flat hill (the so-called "Bullskin") that forms the divide between
 Oak Run and Little Cow creek, removed about half a mile from the former
 stream. A small lake was situated near by, the resort in former days of
 countless geese as they migrated north in the spring. See p. 40, l. 1,
 and p. 142, l. 8.
 
-<span id="fn_19"></span>[35:52](yat04.htm#fr_19) Sam Bat‘wī claimed that
+<span id="fn_19"></span>[35:52](yat04.htm#fr_19.md) Sam Bat‘wī claimed that
 Fire-Drill Woman was another name for *‘ak!ā'lisi*, "Loon." This would
 make it plausible that the sky episode of this myth is really taken over
 from the identical incident in the Loon Woman story; see note 207 and
 Curtin's "Two Sisters, Haka Lasi and Tsore Jowall (*op. cit.*), pp.
 409-10; also no. X of this paper.
 
-<span id="fn_20"></span>[35:53](yat04.htm#fr_20) This explains why black
+<span id="fn_20"></span>[35:53](yat04.htm#fr_20.md) This explains why black
 bears are to be found in every direction. No attempt was made to explain
 how two eyes could pop off in four directions.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Visit of the Geese People to Mount Shasta](yat05)
+[Next: III. The Visit of the Geese People to Mount Shasta](yat05.md)

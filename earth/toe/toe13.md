@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe12)  [Next](toe14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe12)  [Next](toe14.md) 
 
 ------------------------------------------------------------------------
 
@@ -1200,4 +1200,4 @@ retaining water, by means of sand and mud.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Of Physical Systems, and Geological Theories, in
-general](toe14)
+general](toe14.md)

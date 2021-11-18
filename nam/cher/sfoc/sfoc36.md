@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc35)  [Next](sfoc37) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc35)  [Next](sfoc37.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ snake to the hillside.
 
 ------------------------------------------------------------------------
 
-[Next: To Treat for Ordeal Diseases](sfoc37)
+[Next: To Treat for Ordeal Diseases](sfoc37.md)

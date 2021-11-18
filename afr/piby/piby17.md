@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby16)  [Next](piby18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby16)  [Next](piby18.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ through Athlyi is known as the Gaathly.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 13. Athlyi Bleeds](piby18)
+[Next: Chapter 13. Athlyi Bleeds](piby18.md)

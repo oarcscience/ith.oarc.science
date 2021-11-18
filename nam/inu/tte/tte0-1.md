@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inuit](../index)  
-[Index](index) [Previous](tte0-0) [Next](tte0-2)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inuit](../index.md)  
+[Index](index) [Previous](tte0-0) [Next](tte0-2.md)
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ class="small">RÖNDLANDSKE</span> H<span class="small">ANDEL,</span>
 
 ------------------------------------------------------------------------
 
-[Next](tte0-2)
+[Next](tte0-2.md)
 
  
 

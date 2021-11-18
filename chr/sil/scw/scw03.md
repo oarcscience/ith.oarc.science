@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw02) [Next](scw04)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw02) [Next](scw04.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -617,4 +617,4 @@ Which thou dost leave is leaving thee.<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw04)
+[Next](scw04.md)

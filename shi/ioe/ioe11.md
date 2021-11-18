@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe10) 
-[Next](ioe12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe10.md) 
+[Next](ioe12.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ Suma and Shioya.--Two places near Kobe, Japan.
 
 ------------------------------------------------------------------------
 
-[Next: The Kamakura Period: 1200-1400 A.D.](ioe12)
+[Next: The Kamakura Period: 1200-1400 A.D.](ioe12.md)

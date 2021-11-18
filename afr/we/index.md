@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](we00)
+[Contents](#contents)    [Start Reading](we00.md)
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ the body of the text, there are few footnotes or other apparatus that
 such a bold theory would require for consideration. The writing is
 vigorous and popularized, which also makes it a difficult sell for
 historians. The received text of this book could have used a bit of
-proofing and editing (refer to [errata](errata)
+proofing and editing (refer to [errata](errata.md)
 
 ), but given the circumstances under which it was published, this is
 understandable. The compelling part of this book is that it exists at
@@ -69,25 +69,25 @@ History.
 
 ------------------------------------------------------------------------
 
-[Title Page](we00)  
-[Table of Contents](we01)  
-[Synopsis of Contents](we02)  
-[Preface](we03)  
-[Chapter I. The Empire's Age and Scope](we04)  
-[Chapter II. Old Ethiopia--Its People](we05)  
-[Chapter III. Ancient Ethiopia, The Land](we06)  
-[Chapter IV. The Amazing Civilization of Ethiopia](we07)  
-[Chapter V. Prehistoric Egypt, The Land of Wonders](we08)  
-[Chapter VI. Egypt and Her ''Golden Age.''](we09)  
-[Chapter VII. Egypt and Her Mighty Pharaohs](we10)  
-[Chapter VIII. Arabia and Her Ancient Races](we11)  
-[Chapter IX. The Marvelous Arabian Civilization](we12)  
-[Chapter X. The Rich Arabian Literature](we13)  
-[Chapter XI. The Strange Races of Chaldea](we14)  
-[Chapter XXII. Babylonia the Land of Marvels](we15)  
-[Chapter XIII. The Civilization of Babylonia](we16)  
-[Chapter XV. The Civilization of India](we17)  
-[Chapter XIV. Ancient India the Land of Mystery](we18)  
-[Chapter XVI. Hindu Religion And Literature](we19)  
-[Chapter XVIII. Ancient Media and Persia Were Cushite](we20)  
-[Final Word](we21)  
+[Title Page](we00.md)  
+[Table of Contents](we01.md)  
+[Synopsis of Contents](we02.md)  
+[Preface](we03.md)  
+[Chapter I. The Empire's Age and Scope](we04.md)  
+[Chapter II. Old Ethiopia--Its People](we05.md)  
+[Chapter III. Ancient Ethiopia, The Land](we06.md)  
+[Chapter IV. The Amazing Civilization of Ethiopia](we07.md)  
+[Chapter V. Prehistoric Egypt, The Land of Wonders](we08.md)  
+[Chapter VI. Egypt and Her ''Golden Age.''](we09.md)  
+[Chapter VII. Egypt and Her Mighty Pharaohs](we10.md)  
+[Chapter VIII. Arabia and Her Ancient Races](we11.md)  
+[Chapter IX. The Marvelous Arabian Civilization](we12.md)  
+[Chapter X. The Rich Arabian Literature](we13.md)  
+[Chapter XI. The Strange Races of Chaldea](we14.md)  
+[Chapter XXII. Babylonia the Land of Marvels](we15.md)  
+[Chapter XIII. The Civilization of Babylonia](we16.md)  
+[Chapter XV. The Civilization of India](we17.md)  
+[Chapter XIV. Ancient India the Land of Mystery](we18.md)  
+[Chapter XVI. Hindu Religion And Literature](we19.md)  
+[Chapter XVIII. Ancient Media and Persia Were Cushite](we20.md)  
+[Final Word](we21.md)  

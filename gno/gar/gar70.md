@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar69)  [Next](gar71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar69)  [Next](gar71.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -62,7 +62,7 @@ repertory of all "who used curious arts," the alchymists, astrologers,
 and wizards of the Dark Ages, and then became the property of
 Rosicrucians, who truly were the parent *stock*, and not a recent brand
 (as is now pretended) of the present Freemasons. <span
-id="fr_262"></span>[\*](#fn_260)
+id="fr_262"></span>[\*](#fn_260.md)
 
 A most important contribution to the history of Masons’ marks has (1877)
 been obtained through the researches of Sig. Arnoaldi Veli amongst the
@@ -189,10 +189,10 @@ their insertion in the epitaphs of individuals of each corps.
 
  
 
-<span id="img_fig18"></span> ![FIG. 18.](img/fig18.jpg)  
+<span id="img_fig18"></span> ![FIG. 18.](img/fig18.jpg.md)  
 FIG. 18.
 
-[(\*)](gar71.htm#an_fig18)
+[(\*)](gar71.htm#an_fig18.md)
 
  
 
@@ -200,7 +200,7 @@ FIG. 18.
 
 ### Footnotes
 
-<span id="fn_260"></span>[428:\*](gar70.htm#fr_262) The Jews have a
+<span id="fn_260"></span>[428:\*](gar70.htm#fr_262.md) The Jews have a
 tradition that the boards of the Tabernacle were marked with Hebrew
 letters, as a guide for their adjustment in the setting up of that
 migratory Temple. Writing, therefore, becomes one of the thirty-two
@@ -211,4 +211,4 @@ letters.
 
 ------------------------------------------------------------------------
 
-[Next: Woodcuts in the Text](gar71)
+[Next: Woodcuts in the Text](gar71.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot09)  [Next](gcot11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot09)  [Next](gcot11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ sense of that community demands and enforces; and it will greatly
 conduce to the well-being of any society if the efforts of its State or
 municipal organizations are inspired and quickened by those of its
 members whose ideals of society duty rise higher than the average. <span
-id="fr_18"></span>[1](#fn_18)
+id="fr_18"></span>[1](#fn_18.md)
 
 And so it may be in Garden City. There will be discovered many
 opportunities for public service which neither the community as a whole,
@@ -145,7 +145,7 @@ But would not the amount of capital required for the building of the
 dwelling-houses of a town of 30,000 be enormous? Some persons with whom
 I have discussed the question look at the matter thus. So many houses in
 Garden City at so many hundred of pounds apiece, capital required so
-much. <span id="fr_19"></span>[1](#fn_19) This is, of course, quite a
+much. <span id="fr_19"></span>[1](#fn_19.md) This is, of course, quite a
 mistaken way of regarding the problem. Let us test the matter thus. How
 many houses have been built in London within the last ten years? Shall
 we say, at the very roughest of guesses 150,000, costing on an average
@@ -174,7 +174,7 @@ pro-municipal bank of the town, when presently, those 200 identical
 sovereigns might be drawn out and employed in building another house.
 Thus there would be presented the apparent anomaly of two, and then
 three, and then four or more houses, each costing £200, being built with
-200 sovereigns. <span id="fr_20"></span>[1](#fn_20) But there is no real
+200 sovereigns. <span id="fr_20"></span>[1](#fn_20.md) But there is no real
 anomaly about it. The coins, of course, did not build the houses in any
 of the supposed cases. The coins were but the measure of value, and like
 a pair of scales and weights, may be used over and over again without
@@ -214,7 +214,7 @@ where men are wandering workless and penniless. But here, on the site of
 Garden City, the cry for employment on the part of those willing to work
 will no more be heard in vain. Only yesterday it may have been so, but
 to-day the enchanted land is awake, and is loudly calling for its
-children. <span id="fr_21"></span>[1](#fn_21) There is no difficulty in
+children. <span id="fr_21"></span>[1](#fn_21.md) There is no difficulty in
 finding
 
 <span id="page_111">p. 111</span>
@@ -231,7 +231,7 @@ wholesome and beautiful.
 
 ### Footnotes
 
-<span id="fn_18"></span>[104:1](gcot10.htm#fr_18) 'Only a proportion of
+<span id="fn_18"></span>[104:1](gcot10.htm#fr_18.md) 'Only a proportion of
 each in one society can have nerve enough to grasp the banner of a new
 truth, and endurance enough to bear it along rugged and untrodden ways.
 . . . To insist on a whole community being made at once to submit to the
@@ -243,15 +243,15 @@ social state can never establish its ideas unless the persons who hold
 them confess them openly and give them an honest and effective
 adherence.' Mr. John Morley, *On Compromise*, Chap. v.
 
-<span id="fn_19"></span>[108:1](gcot10.htm#fr_19) The position was so
+<span id="fn_19"></span>[108:1](gcot10.htm#fr_19.md) The position was so
 stated by Mr. Buckingham in *National Evils and Practical Remedies*, see
 Chap. X.
 
-<span id="fn_20"></span>[109:1](gcot10.htm#fr_20) A similar line of
+<span id="fn_20"></span>[109:1](gcot10.htm#fr_20.md) A similar line of
 argument to this is very fully elaborated in a most able work entitled
 *The Physiology of Industry*, by Mummery and Hobson (Macmillan & Co.).
 
-<span id="fn_21"></span>[110:1](gcot10.htm#fr_21) Mr. A. J. Balfour,
+<span id="fn_21"></span>[110:1](gcot10.htm#fr_21.md) Mr. A. J. Balfour,
 M.P., on migration into the towns: 'There could be no doubt that when
 there was agricultural distress, migration into the towns must increase,
 but do not let any Member suppose that if agriculture were as prosperous
@@ -281,4 +281,4 @@ Debates*, 12th December 1893.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Nine. Some Difficulties Considered](gcot11)
+[Next: Chapter Nine. Some Difficulties Considered](gcot11.md)

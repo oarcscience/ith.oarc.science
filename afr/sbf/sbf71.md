@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf70)  [Next](sbf72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf70)  [Next](sbf72.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -42,6 +42,6 @@ means of rolling it upon a stick.\]
 
 ------------------------------------------------------------------------
 
-[Next: Mode Of Getting Rid Of The Evil Influence Of Bad Dreams.](sbf72)
+[Next: Mode Of Getting Rid Of The Evil Influence Of Bad Dreams.](sbf72.md)
 
 </div>

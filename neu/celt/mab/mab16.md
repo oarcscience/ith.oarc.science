@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab15)  [Next](mab17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab15)  [Next](mab17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 
 <span id="img_21700"></span> ![](img/21700.jpg)
 
-# KILHWCH AND OLWEN [217a](mab17.htm#xref_217a)
+# KILHWCH AND OLWEN [217a](mab17.htm#xref_217a.md)
 
 ###### OR THE
 
@@ -28,7 +28,7 @@ Textual Heritage
 
 KILYDD the son of Prince Kelyddon desired a wife as a helpmate, and the
 wife that he chose was Goleuddydd, the daughter of Prince
-Anlawdd [217b](mab17.htm#xref_217b). And after their union, the people
+Anlawdd [217b](mab17.htm#xref_217b.md). And after their union, the people
 put up prayers that they might have an heir. And they had a son through
 the prayers of the people. From the time of her pregnancy Goleuddydd
 became wild, and wandered about, without habitation; but when her
@@ -59,7 +59,7 @@ the grave, and to know if it were time that he should take a wife; and
 the king saw the briar. And when he saw it, the king took counsel where
 he should find a wife. Said one of his counsellors, "I know a wife that
 will suit thee well, and she is the wife of King
-Doged [218a](mab17.htm#xref_218a)." And they resolved to go to seek her;
+Doged [218a](mab17.htm#xref_218a.md)." And they resolved to go to seek her;
 and they slew the king, and brought away his wife and one daughter that
 she had along with her. And they conquered the king's lands.
 
@@ -84,7 +84,7 @@ stepmother said unto him, "It were well for thee to have a wife, and I
 have a daughter who is sought of every man of renown in the world." "I
 am not yet of an age to wed," answered the youth. Then said she unto
 him, "I declare to thee, that it is thy destiny not to be suited with a
-wife until thou obtain Olwen [219a](mab17.htm#xref_219a), the daughter
+wife until thou obtain Olwen [219a](mab17.htm#xref_219a.md), the daughter
 of Yspaddaden Penkawr." And the youth blushed, and the love of the
 maiden diffused itself through all his frame, although he had never seen
 her. And his father inquired of him, "What has come over thee, my son,
@@ -92,7 +92,7 @@ and what aileth thee?" "My stepmother has declared to me that I shall
 never have a wife until I obtain Olwen, the daughter of Yspaddaden
 Penkawr." "That will be easy for thee," answered his father. "Arthur is
 thy cousin. Go, therefore, unto Arthur, to cut thy
-hair [219b](mab17.htm#xref_219b), and ask this of him as a boon."
+hair [219b](mab17.htm#xref_219b.md), and ask this of him as a boon."
 
 And the youth pricked forth upon a steed with head dappled grey, of four
 winters old, firm of limb, with shell-formed hoofs, having a bridle of
@@ -112,7 +112,7 @@ courser cast up four sods with his four hoofs, like four swallows in the
 air, about his head, now above, now below. About him was a four-cornered
 cloth of purple, and an apple of gold was at each corner, and every one
 of the apples was of the value of an hundred
-kine [219c](mab17.htm#xref_219c). And there was precious gold of the
+kine [219c](mab17.htm#xref_219c.md). And there was precious gold of the
 value of three hundred kine upon his
 
 <span id="page_220">p. 220</span>
@@ -145,7 +145,7 @@ lower." Said the youth, "That will I not do. If thou openest the gate,
 it is well. If thou dost not open it, I will bring disgrace upon thy
 Lord, and evil report upon thee. And I will set up three shouts at this
 very gate, than which none were ever more deadly, from the top of
-Pengwaed in Cornwall [220a](mab17.htm#xref_220a) to the bottom of
+Pengwaed in Cornwall [220a](mab17.htm#xref_220a.md) to the bottom of
 Dinsol, in the North, and to Esgair Oervel, in Ireland. And all the
 women in this Palace that are pregnant shall lose their offspring; and
 such as are not pregnant, their hearts shall be turned by
@@ -204,7 +204,7 @@ of the world, as far as thy renown has extended." Then said Arthur,
 "Since thou wilt not remain here, chieftain, thou shalt receive the boon
 whatsoever thy tongue may name, as far as the wind dries, and the rain
 moistens, and the sun revolves, and the sea encircles, and the earth
-extends; save only my ship; and my mantle [222a](mab17.htm#xref_222a);
+extends; save only my ship; and my mantle [222a](mab17.htm#xref_222a.md);
 and Caledvwlch, my sword; and Rhongomyant, my lance; and
 Wynebgwrthucher, my shield; and Carnwenhau, my dagger; and Gwenhwyvar,
 my wife. By the truth of Heaven, thou shalt have it cheerfully, name
@@ -227,36 +227,36 @@ of Heaven and the faith of thy kingdom thereof." "I pledge it thee,
 gladly." "I crave of thee then, that thou obtain for me Olwen, the
 daughter of Yspaddaden Penkawr; and this boon I likewise seek at the
 hands of thy warriors. I seek it from Kai, and Bedwyr, and Greidawl
-Galldonyd [223a](mab17.htm#xref_223a), and Gwythyr the son of
-Greidawl [223b](mab17.htm#xref_223b), and Greid the son of Eri, and
+Galldonyd [223a](mab17.htm#xref_223a.md), and Gwythyr the son of
+Greidawl [223b](mab17.htm#xref_223b.md), and Greid the son of Eri, and
 Kynddelig Kyvarwydd, and Tathal Twyll Goleu, and Maelwys the son of
 Baeddan, and Crychwr the son of Nes, and Cubert the son of Daere, and
 Percos the son of Poch, and Lluber Beuthach, and Corvil Bervach, and
-Gwynn the son of Nudd [223c](mab17.htm#xref_223c), and Edeyrn the son of
-Nudd [223d](mab17.htm#xref_223d), and Gadwy the son of
-Geraint [223e](mab17.htm#xref_223e), and Prince Fflewddur
-Fflam [223f](mab17.htm#xref_223f), and Ruawn
-Pebyr [223g](mab17.htm#xref_223g) the son of Dorath, and Bradwen the son
+Gwynn the son of Nudd [223c](mab17.htm#xref_223c.md), and Edeyrn the son of
+Nudd [223d](mab17.htm#xref_223d.md), and Gadwy the son of
+Geraint [223e](mab17.htm#xref_223e.md), and Prince Fflewddur
+Fflam [223f](mab17.htm#xref_223f.md), and Ruawn
+Pebyr [223g](mab17.htm#xref_223g.md) the son of Dorath, and Bradwen the son
 of Moren Mynawc, and Moren Mynawc himself, and Dalldav the son of Kimin
-Côv [223h](mab17.htm#xref_223h), and the son of Alun Dyved, and the son
+Côv [223h](mab17.htm#xref_223h.md), and the son of Alun Dyved, and the son
 of Saidi, and the son of Gwryon, and Uchtryd Ardywad Kad, and Kynwas
 Curvagyl, and Gwrhyr Gwarthegvras, and Isperyr
-Ewingath [223i](mab17.htm#xref_223i), and Gallcoyt Govynynat, and Duach,
+Ewingath [223i](mab17.htm#xref_223i.md), and Gallcoyt Govynynat, and Duach,
 and Grathach, and Nerthach, the sons of Gwawrddur Kyrvach (these men
 came forth from the confines of hell), and Kilydd Canhastyr, and
 Canastyr Kanllaw, and Cors Cant-Ewin, and Esgeir Gulhwch Govynkawn, and
 Drustwrn Hayarn, and Glewlwyd Gavaelvawr, and Lloch
-Llawwynnyawc [223j](mab17.htm#xref_223j), and Aunwas
-Adeiniawc [223k](mab17.htm#xref_223k), and Sinnoch the son of Seithved,
-and Gwennwynwyn the son of Naw [223l](mab17.htm#xref_223l), and Bedyw
+Llawwynnyawc [223j](mab17.htm#xref_223j.md), and Aunwas
+Adeiniawc [223k](mab17.htm#xref_223k.md), and Sinnoch the son of Seithved,
+and Gwennwynwyn the son of Naw [223l](mab17.htm#xref_223l.md), and Bedyw
 the son of Seithved, and Gobrwy the son of Echel Vorddwyttwll, and Echel
-Vorddwyttwll [223m](mab17.htm#xref_223m) himself, and Mael the son of
-Roycol, and Dadweir Dallpenn [223n](mab17.htm#xref_223n), and Garwyli
+Vorddwyttwll [223m](mab17.htm#xref_223m.md) himself, and Mael the son of
+Roycol, and Dadweir Dallpenn [223n](mab17.htm#xref_223n.md), and Garwyli
 the son of Gwythawc Gwyr, and Gwythawc Gwyr himself, and Gormant the son
-of Ricca, and Menw the son of Teirgwaedd [223o](mab17.htm#xref_223o),
+of Ricca, and Menw the son of Teirgwaedd [223o](mab17.htm#xref_223o.md),
 and Digon the son of Alar, and Selyf the son of Smoit, and Gusg the son
 of Atheu, and Nerth the son of Kedarn, and Drudwas the son of
-Tryffin [223p](mab17.htm#xref_223p), and Twrch the son of Perif, and
+Tryffin [223p](mab17.htm#xref_223p.md), and Twrch the son of Perif, and
 Twrch the son of Annwas, and Iona king of France, and Sel the son of
 Selgi, and Teregud the son of Iaen, and Sulyen the son of Iaen, and
 Bradwen the son of Iaen, and Moren the son of Iaen, and Siawn the son of
@@ -265,8 +265,8 @@ Iaen, and Cradawc the son of Iaen.
 <span id="page_224">p. 224</span>
 
 <span class="contnote">\[paragraph continues\]</span> (They were men of
-Caerdathal [224a](mab17.htm#xref_224a), of Arthur's kindred on his
-father's side.) Dirmyg the son of Kaw [224b](mab17.htm#xref_224b), and
+Caerdathal [224a](mab17.htm#xref_224a.md), of Arthur's kindred on his
+father's side.) Dirmyg the son of Kaw [224b](mab17.htm#xref_224b.md), and
 Justic the son of Kaw, and Etmic the son of Kaw, and Anghawd the son of
 Kaw, and Ovan the son of Kaw, and Kelin the son of Kaw, and Connyn the
 son of Kaw, and Mabsant the son of Kaw, and Gwyngad the son of Kaw, and
@@ -275,20 +275,20 @@ Kaw, and Kynwas the son of Kaw, and Ardwyad the son of Kaw, and Ergyryad
 the son of Kaw, and Neb the son of Kaw, and Gilda the son of Kaw, and
 Calcas the son of Kaw, and Hueil the son of Kaw (he never yet made a
 request at the hand of any Lord). And Samson Vinsych, and Taliesin the
-chief of the bards [224c](mab17.htm#xref_224c), and Manawyddan the son
-of Llyr [224d](mab17.htm#xref_224d), and Llary the son of Prince Kasnar,
+chief of the bards [224c](mab17.htm#xref_224c.md), and Manawyddan the son
+of Llyr [224d](mab17.htm#xref_224d.md), and Llary the son of Prince Kasnar,
 and Ysperni the son of Fflergant king of Armorica, and Saranhon, the son
 of Glythwyr, and Llawr Eilerw, and Annyanniawc the son of Menw the son
 of Teirgwaedd, and Gwynn the son of Nwyvre, and Fflam the son of Nwyvre,
-and Geraint the son of Erbin [224e](mab17.htm#xref_224e), and Ermid the
-son of Erbin, and Dyvel the son of Erbin [224f](mab17.htm#xref_224f),
+and Geraint the son of Erbin [224e](mab17.htm#xref_224e.md), and Ermid the
+son of Erbin, and Dyvel the son of Erbin [224f](mab17.htm#xref_224f.md),
 and Gwynn the son of Ermid, and Kyndrwyn the son of Ermid, and Hyveidd
 Unllenn, and Eiddon Vawr Vrydic, and Reidwn Arwy, and Gormant the son of
 Ricca (Arthur's brother by his mother's side; the Penhynev of Cornwall
-was his father), and Llawnrodded Varvawc [224g](mab17.htm#xref_224g),
+was his father), and Llawnrodded Varvawc [224g](mab17.htm#xref_224g.md),
 and Nodawl Varyf Twrch, and Berth the son of Kado, and Rheidwn the son
 of Beli, and Iscovan Hael, and Iscawin the son of Panon, and Morvran the
-son of Tegid [224h](mab17.htm#xref_224h) (no one struck him in the
+son of Tegid [224h](mab17.htm#xref_224h.md) (no one struck him in the
 battle of Camlan by reason of his ugliness; all thought he was an
 auxiliary devil. Hair had he upon him like the hair of a stag). And
 Sandde Bryd Angel (no one touched him with a spear in the battle of
@@ -318,18 +318,18 @@ away during the remainder of his life, and of this he died). And
 Carneddyr the son of Govynyon Hên, and Gwenwynwyn the son of Nav
 Gyssevin, Arthur's champion, and Llysgadrudd Emys, and Gwrbothu Hên
 (uncles unto Arthur were they, his mother's brothers). Kulvanawyd the
-son of Goryon, and Llenlleawg Wyddel [225a](mab17.htm#xref_225a) from
-the headland of Ganion, and Dyvynwal Moel [225b](mab17.htm#xref_225b),
+son of Goryon, and Llenlleawg Wyddel [225a](mab17.htm#xref_225a.md) from
+the headland of Ganion, and Dyvynwal Moel [225b](mab17.htm#xref_225b.md),
 and Dunard king of the North, Teirnon Twryf Bliant, and Tegvan Gloff,
 and Tegyr Talgellawg, Gwrdinal the son of Ebrei, and Morgant Hael,
-Gwystyl the son of Rhun the son of Nwython [225c](mab17.htm#xref_225c),
+Gwystyl the son of Rhun the son of Nwython [225c](mab17.htm#xref_225c.md),
 and Llwyddeu the son of Nwython, and Gwydre the son of Llwyddeu
 (Gwenabwy the daughter of \[Kaw\] was his mother, Hueil his uncle
 stabbed him, and hatred was between Hueil and Arthur because of the
-wound). Drem the son of Dremidyd [225d](mab17.htm#xref_225d) (when the
+wound). Drem the son of Dremidyd [225d](mab17.htm#xref_225d.md) (when the
 gnat arose in the morning with the sun, he could see it from Gelli
-Wic [225e](mab17.htm#xref_225e) in Cornwall, as far off as Pen Blathaon
-in North Britain [225f](mab17.htm#xref_225f)). And Eidyol the son of
+Wic [225e](mab17.htm#xref_225e.md) in Cornwall, as far off as Pen Blathaon
+in North Britain [225f](mab17.htm#xref_225f).md). And Eidyol the son of
 Ner, and Glwyddyn Saer (who constructed Ehangwen, Arthur's Hall). Kynyr
 Keinvarvawc (when he was told he had a son born he said to his wife,
 'Damsel, if thy son be mine, his heart will be always cold, and there
@@ -352,22 +352,22 @@ hosts came before a torrent, they would seek for a narrow place where
 they might pass the water, and would lay the sheathed dagger across the
 torrent, and it would form a bridge sufficient for the armies of the
 three Islands of Britain, and of the three islands
-adjacent [226a](mab17.htm#xref_226a), with their spoil). Gwyddawg the
+adjacent [226a](mab17.htm#xref_226a), with their spoil.md). Gwyddawg the
 son of Menestyr (who slew Kai, and whom Arthur slew, together with his
 brothers, to revenge Kai). Garanwyn the son of Kai, and Amren the son of
 Bedwyr, and Ely Amyr, and Rheu Rhwyd Dyrys, and Rhun Rhudwern, and Eli,
 and Trachmyr (Arthur's chief huntsmen). And Llwyddeu the son of Kelcoed,
 and Hunabwy the son of Gwryon, and Gwynn
-Godyvron [226b](mab17.htm#xref_226b), and Gweir Datharwenniddawg, and
+Godyvron [226b](mab17.htm#xref_226b.md), and Gweir Datharwenniddawg, and
 Gweir the son of Cadell the son of Talaryant, and Gweir Gwrhyd Ennwir,
 and Gweir Paladyr Hir (the uncles of Arthur, the brothers of his
 mother). The sons of Llwch Llawwynnyawg (from beyond the raging sea).
 Llenlleawg Wyddel, and Ardderchawg Prydain. Cas the son of Saidi, Gwrvan
 Gwallt Avwyn, and Gwyllennhin the king of France, and Gwittart the son
-of Oedd king of Ireland, Garselit Wyddel [226c](mab17.htm#xref_226c),
+of Oedd king of Ireland, Garselit Wyddel [226c](mab17.htm#xref_226c.md),
 Panawr Pen Bagad, and Ffleudor the son of Nav, Gwynnhyvar mayor of
 Cornwall and Devon (the ninth man that rallied the battle of
-Camlan [226d](mab17.htm#xref_226d)). Keli and Kueli, and Gilla Coes Hydd
+Camlan [226d](mab17.htm#xref_226d).md). Keli and Kueli, and Gilla Coes Hydd
 (he would clear three hundred acres at one bound: the chief leaper of
 Ireland was he). Sol, and Gwadyn Ossol, and Gwadyn Odyeith. (Sol could
 stand all day upon one foot.
@@ -389,7 +389,7 @@ the fresh nor the salt, the boiled nor the raw.) Huarwar the son of
 Aflawn (who asked Arthur such a boon as would satisfy him. It was the
 third great plague of Cornwall when he received it. None could get a
 smile from him but when he was satisfied). Gware Gwallt
-Euryn [227a](mab17.htm#xref_227a). The two cubs of Gast Rhymi, Gwyddrud
+Euryn [227a](mab17.htm#xref_227a.md). The two cubs of Gast Rhymi, Gwyddrud
 and Gwyddneu Astrus. Sugyn the son of Sugnedydd (who would suck up the
 sea on which were three hundred ships so as to leave nothing but a dry
 strand. He was broad-chested). Rhacymwri, the attendant of Arthur
@@ -418,11 +418,11 @@ three wives, Och, and Garym, and Diaspad. Their three grandchildren,
 Lluched, and Neved, and Eissiwed. Their three daughters, Drwg, and
 Gwaeth, and Gwaethav Oll. Their three hand-maids, Eheubryd the daughter
 of Kyfwlch, Gorascwrn the daughter of Nerth, Ewaedan the daughter of
-Kynvelyn Keudawd Pwyll the half-man [228a](mab17.htm#xref_228a).) Dwnn
+Kynvelyn Keudawd Pwyll the half-man [228a](mab17.htm#xref_228a)..md) Dwnn
 Diessic Unbenn, Eiladyr the son of Pen Llarcau, Kynedyr Wyllt the son of
-Hettwn Talaryant, Sawyl Ben Uchel [228b](mab17.htm#xref_228b), Gwalchmai
+Hettwn Talaryant, Sawyl Ben Uchel [228b](mab17.htm#xref_228b.md), Gwalchmai
 the son of Gwyar, Gwalhaved the son of Gwyar, Gwrhyr Gwastawd
-Ieithoedd [228c](mab17.htm#xref_228c) (to whom all tongues were known),
+Ieithoedd [228c](mab17.htm#xref_228c) (to whom all tongues were known.md),
 and Kethcrwm the Priest. Clust the son of Clustveinad (though he were
 buried seven cubits beneath the earth, he would hear the ant fifty miles
 off rise from her nest in the morning). Medyr the son of Methredydd
@@ -431,7 +431,7 @@ legs upon Esgeir Oervel in Ireland). Gwiawn Llygad Cath (who could cut a
 haw from the eye of the gnat without hurting him). Ol the son of Olwydd
 (seven years before he was born his father's swine were carried off, and
 when he grew up a man he tracked the swine, and brought them back in
-seven herds). Bedwini the Bishop [228d](mab17.htm#xref_228d) (who
+seven herds). Bedwini the Bishop [228d](mab17.htm#xref_228d.md) (who
 blessed Arthur's meat and drink). For the sake of the golden-chained
 daughters of this island. For the sake of Gwenhwyvar its chief lady, and
 Gwennhwyach her sister, and Rathtyeu the only daughter of Clemenhill,
@@ -444,7 +444,7 @@ Erddudnid the daughter
 <span id="page_229">p. 229</span>
 
 of Tryffin. Eurolwen the daughter of Gwdolwyn Gorr. Teleri the daughter
-of Peul. Indeg [229a](mab17.htm#xref_229a) the daughter of Garwy Hir.
+of Peul. Indeg [229a](mab17.htm#xref_229a.md) the daughter of Garwy Hir.
 Morvudd the daughter of Urien Rheged. Gwenllian Deg the majestic maiden.
 Creiddylad the daughter of Lludd Llaw Ereint. (She was the most splendid
 maiden in the three Islands of the mighty, and in the three Islands
@@ -480,7 +480,7 @@ it was to them as fuel with which to light their fire.
 
 And Arthur called Bedwyr, who never shrank from any enterprise upon
 which Kai was bound. None was equal to him in swiftness throughout this
-island except Arthur and Drych Ail Kibddar [230a](mab17.htm#xref_230a).
+island except Arthur and Drych Ail Kibddar [230a](mab17.htm#xref_230a.md).
 And although he was one-handed, three warriors could not shed blood
 faster than he on the field of battle. Another property he had; his
 lance would produce a wound equal to those of nine opposing lances.
@@ -523,7 +523,7 @@ dog, so that he shall injure no one." And they went up to the mound
 whereon the herdsman was, and they said to him, "How dost thou fare, O
 herdsman?" "No less fair be it to you than to me." "Truly, art thou the
 chief?" "There is no hurt to injure me but my own." <span
-id="fr_96"></span>[1](#fn_95) "Whose are the sheep that thou dost keep,
+id="fr_96"></span>[1](#fn_95.md) "Whose are the sheep that thou dost keep,
 and to whom does yonder castle belong?" "Stupid are ye, truly! Through
 the whole world is it known that this is the castle of Yspaddaden
 Penkawr." "And who art thou?" "I am called Custennin the son of
@@ -701,7 +701,7 @@ it will not be easy."
 
 "Though this be easy for thee, there is yet that which will not be so.
 No husbandman can till or prepare this land, so wild is it, except
-Amaethon the son of Don [236a](mab17.htm#xref_236a), and he will not
+Amaethon the son of Don [236a](mab17.htm#xref_236a.md), and he will not
 come with thee by his own free will, and thou wilt not be able to compel
 him."
 
@@ -716,7 +716,7 @@ not be able to compel him."
 "It will be easy for me to compass this."
 
 "Though thou get this, there is yet that which thou wilt not get; the
-two dun oxen of Gwlwlyd [236b](mab17.htm#xref_236b), both yoked
+two dun oxen of Gwlwlyd [236b](mab17.htm#xref_236b.md), both yoked
 together, to plough the wild land yonder stoutly. He will not give them
 of his own free will, and thou wilt not be able to compel him."
 
@@ -730,7 +730,7 @@ yellow and the brindled bull yoked together do I require."
 "Though thou get this, there is yet that which thou wilt not get; the
 two horned oxen, one of which is beyond, and the other this side of the
 peaked mountain, yoked together in the same plough. And these are
-Nynniaw and Peibaw [236c](mab17.htm#xref_236c) whom God turned into oxen
+Nynniaw and Peibaw [236c](mab17.htm#xref_236c.md) whom God turned into oxen
 on account of their sins."
 
 "It will be easy for me to compass this."
@@ -767,7 +767,7 @@ free will thou wilt not get it, and thou canst not compel him."
 it will not be easy."
 
 "Though thou get this, there is yet that which thou wilt not get. The
-basket of Gwyddneu Garanhir [237a](mab17.htm#xref_237a), if the whole
+basket of Gwyddneu Garanhir [237a](mab17.htm#xref_237a.md), if the whole
 world should come together, thrice nine men at a time, the meat that
 each of them desired would be found within it. I require to eat
 therefrom on the night that my daughter becomes thy bride. He will give
@@ -784,7 +784,7 @@ give it of his own free will, and thou wilt not be able to compel him."
 it will not be easy."
 
 "Though thou get this, there is yet that which thou wilt not get. The
-harp of Teirtu [237b](mab17.htm#xref_237b) to play to us that night.
+harp of Teirtu [237b](mab17.htm#xref_237b.md) to play to us that night.
 When a man desires that it should play, it does so of itself, and when
 he desires that it should cease, it ceases. And this he will not give of
 his own free will, and thou wilt not be able to compel him."
@@ -855,7 +855,7 @@ it will not be easy."
 Throughout the world there is not a comb or scissors with which I can
 arrange my hair, on account of its rankness, except the comb and
 scissors that are between the two ears of Twrch
-Trwyth [239a](mab17.htm#xref_239a), the son of Prince Tared. He will not
+Trwyth [239a](mab17.htm#xref_239a.md), the son of Prince Tared. He will not
 give them of his own free will, and thou wilt not be able to compel
 him."
 
@@ -893,7 +893,7 @@ it will not be easy."
 
 "Though thou get this, there is yet that which thou wilt not get.
 Throughout the world there is not a huntsman who can hunt with this dog,
-except Mabon the son of Modron [240a](mab17.htm#xref_240a). He was taken
+except Mabon the son of Modron [240a](mab17.htm#xref_240a.md). He was taken
 from his mother when three nights old, and it is not known where he now
 is, nor whether he is living or dead."
 
@@ -1140,7 +1140,7 @@ have hope of whatever adventure ye are in quest of, that ye will achieve
 it. Achieve ye this adventure for me."
 
 They went forward until they came to the Ousel of
-Cilgwri [246a](mab17.htm#xref_246a). And Gwrhyr adjured her for the sake
+Cilgwri [246a](mab17.htm#xref_246a.md). And Gwrhyr adjured her for the sake
 of Heaven, saying, "Tell me if thou knowest aught of Mabon the son of
 Modron, who was taken when three nights old from between his mother and
 the wall." And the Ousel answered, "When I first came here, there was a
@@ -1216,7 +1216,7 @@ great wailing and lamenting from the dungeon. Said Gwrhyr, "Who is it
 that laments in this house of stone?" "Alas, there is reason enough for
 whoever is here to lament. It is Mabon the son of Modron who is here
 imprisoned; and no imprisonment was ever so grievous as mine, neither
-that of Lludd Llaw Ereint [248a](mab17.htm#xref_248a), nor that of Greid
+that of Lludd Llaw Ereint [248a](mab17.htm#xref_248a.md), nor that of Greid
 the son of Eri." "Hast thou hope of being released for gold or for
 silver, or for any gifts of wealth, or through battle and fighting?" "By
 fighting will whatever I may gain be obtained."
@@ -1238,7 +1238,7 @@ first?" "It will be best to seek for the two
 <span id="page_249">p. 249</span>
 
 cubs of Gast Rhymhi." "Is it known," asked Arthur, "where she is?" "She
-is in Aber Deu [Cleddyf](errata.htm#5)," said one. Then Arthur went to
+is in Aber Deu [Cleddyf](errata.htm#5.md)," said one. Then Arthur went to
 the house of Tringad, in Aber Cleddyf, and he inquired of him whether he
 had heard of her there. "In what form may she be?" "She is in the form
 of a she-wolf," said he; "and with her there are two cubs." "She has
@@ -1341,7 +1341,7 @@ he went after Yskithyrwyn Penbaedd. And Mabon the son of Mellt came with
 the two dogs of Glythmyr Ledewic in his hand, and Drudwyn, the cub of
 Greid the son of Eri. And Arthur went himself to the chase, leading his
 own dog Cavall. And Kaw, of North Britain, mounted Arthur's mare
-Llamrei [251a](mab17.htm#xref_251a), and was first in the attack. Then
+Llamrei [251a](mab17.htm#xref_251a.md), and was first in the attack. Then
 Kaw, of North Britain, wielded a mighty axe, and absolutely daring he
 came valiantly up to the boar, and clave his head in twain. And Kaw took
 away the tusk. Now the boar was not slain by the dogs that Yspaddaden
@@ -1387,13 +1387,13 @@ he disembarked at the house of Llwydden the son of Kelcoed,
 
 <span id="page_253">p. 253</span>
 
-at Porth Kerddin [253a](mab17.htm#xref_253a) in Dyved. And there is the
+at Porth Kerddin [253a](mab17.htm#xref_253a.md) in Dyved. And there is the
 measure of the cauldron.
 
 Then Arthur summoned unto him all the warriors that were in the three
 Islands of Britain, and in the three Islands adjacent, and all that were
 in France and in Armorica, in Normandy and in the Summer
-Country [253b](mab17.htm#xref_253b), and all that were chosen footmen
+Country [253b](mab17.htm#xref_253b.md), and all that were chosen footmen
 and valiant horsemen. And with all these he went into Ireland. And in
 Ireland there was great fear and terror concerning him. And when Arthur
 had landed in the country, there came unto him the saints of Ireland and
@@ -1435,7 +1435,7 @@ country, and there will we do all the mischief that we can."
 So they set forth through the sea towards Wales. And Arthur and his
 hosts, and his horses and his dogs, entered Prydwen, that they might
 encounter them without delay. Twrch Trwyth landed in Porth
-Cleis [254a](mab17.htm#xref_254a) in Dyved, and Arthur came to Mynyw.
+Cleis [254a](mab17.htm#xref_254a.md) in Dyved, and Arthur came to Mynyw.
 The next day it was told to Arthur that they had gone by, and he
 overtook them as they were killing the cattle of Kynnwas Kwrr y Vagyl,
 having slain all that were at Aber Gleddyf, of man and beast, before the
@@ -1522,7 +1522,7 @@ should return thence to the Severn, and that tried warriors should
 traverse the Island, and force him into the Severn. And Mabon the son of
 Modron came up with him at the Severn, upon Gwynn Mygdwn, the horse of
 Gweddw, and Goreu the son of Custennin, and Menw the son of Teirgwaedd;
-this was betwixt Llyn Lliwan [256a](mab17.htm#xref_256a) and Aber Gwy.
+this was betwixt Llyn Lliwan [256a](mab17.htm#xref_256a.md) and Aber Gwy.
 And Arthur fell upon him together with the champions of Britain. And
 Osla Kyllellvawr drew near, and Manawyddan the son of Llyr, and Kacmwri
 the servant of Arthur, and Gwyngelli, and they seized hold of him,
@@ -1604,10 +1604,10 @@ daughter of Yspaddaden Penkawr.
 
 ### Footnotes
 
-<span id="fn_95"></span>[230:1](mab16.htm#fr_96) This dialogue consists
+<span id="fn_95"></span>[230:1](mab16.htm#fr_96.md) This dialogue consists
 of a series of repartees with a play upon words which it is impossible
 to follow without the translation.
 
 ------------------------------------------------------------------------
 
-[Next: Notes to Kilhwch and Olwen](mab17)
+[Next: Notes to Kilhwch and Olwen](mab17.md)

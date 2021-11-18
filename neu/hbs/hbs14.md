@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs13) [Next](hbs15)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs13) [Next](hbs15.md)
 
 ------------------------------------------------------------------------
 
@@ -134,7 +134,7 @@ The glory of Tsar Lazar and the Kingdom of the Earth.
 
 ------------------------------------------------------------------------
 
-[Next](hbs15)
+[Next](hbs15.md)
 
  
 

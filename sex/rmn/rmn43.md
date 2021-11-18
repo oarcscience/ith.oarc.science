@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn42)  [Next](rmn44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn42)  [Next](rmn44.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ great age.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XLIII: A Faun and Bacchante](rmn44)
+[Next: Plate XLIII: A Faun and Bacchante](rmn44.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr36)  [Next](corr38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr36)  [Next](corr38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 
 \[*Spinoza declines further correspondence with Blyenbergh, but says he
 will give explanations of certain points by word of mouth*. (*Voorburg*,
-3*rd* *June*, 1665)\] <span id="fr_51"></span>[1](#fn_50)
+3*rd* *June*, 1665)\] <span id="fr_51"></span>[1](#fn_50.md)
 
 <span class="smallcaps">Friend and Sir</span>,—When your letter, dated
 27th March, was delivered to me, I was just starting for Amsterdam. I,
@@ -58,10 +58,10 @@ according to my power, prove myself your, &c.
 
 ### Footnotes
 
-<span id="fn_50"></span>[350:1](corr37.htm#fr_51) The true date of this
+<span id="fn_50"></span>[350:1](corr37.htm#fr_51.md) The true date of this
 letter is June 3rd, as appears from the Dutch original printed in Van
 Vloten's Supplementum. The former editors gave April.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXXIX. To Christian Huyghens](corr38)
+[Next: Letter XXXIX. To Christian Huyghens](corr38.md)

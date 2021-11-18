@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gen)   
+[Contents](#contents)    [Start Reading](gen.md)   
 
 ------------------------------------------------------------------------
 
@@ -26,9 +26,9 @@ publication date and copyright status of this text are unknown.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Genesis](gen)  
-[Exodus](exo)  
-[Matthew](mat)  
-[Mark](mar)  
-[Luke](luk)  
-[John](joh)  
+<span id="contents"></span> [Genesis](gen.md)  
+[Exodus](exo.md)  
+[Matthew](mat.md)  
+[Mark](mar.md)  
+[Luke](luk.md)  
+[John](joh.md)  

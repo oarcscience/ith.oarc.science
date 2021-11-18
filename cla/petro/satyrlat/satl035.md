@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat07.htm#XXXV) 
-[Previous](satl034)  [Next](satl036) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat07.htm#XXXV.md) 
+[Previous](satl034)  [Next](satl036.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ cenemus; hoc est ius cenae".
 
 ------------------------------------------------------------------------
 
-[Next: XXXVI](satl036)
+[Next: XXXVI](satl036.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb02)  [Next](brfb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb02)  [Next](brfb04.md) 
 
 </div>
 
@@ -1228,6 +1228,6 @@ reservations, by Annette S. Beveridge.\]
 
 ------------------------------------------------------------------------
 
-[Next: Ball-carrier and the Bad One](brfb04)
+[Next: Ball-carrier and the Bad One](brfb04.md)
 
 </div>

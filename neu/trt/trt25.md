@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt24)  [Next](trt26) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt24)  [Next](trt26.md) 
 
 ------------------------------------------------------------------------
 
@@ -859,4 +859,4 @@ haste to his own country.
 
 ------------------------------------------------------------------------
 
-[Next: The End of it All](trt26)
+[Next: The End of it All](trt26.md)

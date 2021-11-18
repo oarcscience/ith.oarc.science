@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl11)  [Next](flhl13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl11)  [Next](flhl13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Hanauer \[1907\], at Intangible Textual Heritage
 ONE of the saints oftenest invoked in Palestine is the mysterious El
 Khudr or Evergreen One. He is said to have been successful in
 discovering the Fountain of Youth, which is situated somewhere near the
-confluence of the two seas. <span id="fr_26"></span>[1](#fn_26) This
+confluence of the two seas. <span id="fr_26"></span>[1](#fn_26.md) This
 fountain had been vainly sought for by other adventurers, including the
 famous Dhu’lkarneyn, the two-horned Alexander, who with his companions
 came to the banks of the stream that flowed from it, and actually washed
@@ -166,7 +166,7 @@ present as a guest, and has condescended to bless the repast.
 
 The story of St George and the Dragon is, of course, well known in
 Palestine. The saint's tomb is shown in the crypt of the old Crusaders'
-Church <span id="fr_27"></span>[1](#fn_27) at Lydda; and at Beyrût the
+Church <span id="fr_27"></span>[1](#fn_27.md) at Lydda; and at Beyrût the
 very well into which he cast the slain monster, and the place where he
 washed his hands when this dirty work was done. The following is,
 briefly, the tale generally told by the Christians:--
@@ -201,7 +201,7 @@ Protector of Israel, always ready to instruct, to comfort, or to
 heal--sometimes condescending to cure so slight a complaint as a
 toothache, at others going so far as to bear false witness in order to
 deliver Rabbis from danger and difficulty. <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 The modern Jewish inhabitants of Palestine devoutly believe in his
 intervention in times of difficulty. Thus, among the Spanish Jewish
@@ -227,7 +227,7 @@ It was thought this mysterious stranger could have been no other than
 the famous Tishbite.
 
 The following story, a version of one told in the Koran, <span
-id="fr_29"></span>[1](#fn_29) is related by the Moslems of El Khudr:--
+id="fr_29"></span>[1](#fn_29.md) is related by the Moslems of El Khudr:--
 
 The great Lawgiver was much perplexed and troubled when he thought about
 the apparently confused and strange dealings of Divine Providence, so
@@ -243,7 +243,7 @@ At sunset they reached a village, and went to the house of the sheykh, a
 man rich and kindly, who bade them welcome and ordered a sheep to be
 killed in their honour. When bedtime came they were conducted to a
 large, well-furnished room. The "tusht and ibrìk," <span
-id="fr_30"></span>[2](#fn_30) which in most houses are of
+id="fr_30"></span>[2](#fn_30.md) which in most houses are of
 
 <span id="page_59">p. 59</span>
 
@@ -261,7 +261,7 @@ once more guests of the sheykh, who proved the very opposite of their
 host of the previous night. He grumbled at the necessity he was under of
 harbouring dirty vagrants, and bade a servant take them to a cave behind
 the stable where they could sleep on a heap of "tibn." <span
-id="fr_31"></span>[1](#fn_31) For supper he sent them scraps of mouldy
+id="fr_31"></span>[1](#fn_31.md) For supper he sent them scraps of mouldy
 bread and a few bad olives. Mûsa could not touch the stuff, though he
 was starving, but his companion made a good meal.
 
@@ -336,24 +336,24 @@ We certainly did have some very wet weather after that date.
 
 ### Footnotes
 
-<span id="fn_26"></span>[51:1](flhl12.htm#fr_26) The Mediterranean and
+<span id="fn_26"></span>[51:1](flhl12.htm#fr_26.md) The Mediterranean and
 the Red Sea.
 
-<span id="fn_27"></span>[56:1](flhl12.htm#fr_27) If I remember rightly
+<span id="fn_27"></span>[56:1](flhl12.htm#fr_27.md) If I remember rightly
 the tomb is half in the present Christian church and half in the
 adjoining mosque, the old Crusaders' Church having been thus
 divided.--ED.
 
-<span id="fn_28"></span>[57:1](flhl12.htm#fr_28) See Edersheim's " Life
+<span id="fn_28"></span>[57:1](flhl12.htm#fr_28.md) See Edersheim's " Life
 and Times of Jesus the Messiah," App. viii.
 
-<span id="fn_29"></span>[58:1](flhl12.htm#fr_29) Sûra xviii. 50 ff.
+<span id="fn_29"></span>[58:1](flhl12.htm#fr_29.md) Sûra xviii. 50 ff.
 
-<span id="fn_30"></span>[58:2](flhl12.htm#fr_30) Vessels for ceremonial
+<span id="fn_30"></span>[58:2](flhl12.htm#fr_30.md) Vessels for ceremonial
 ablution.
 
-<span id="fn_31"></span>[59:1](flhl12.htm#fr_31) Chopped straw.
+<span id="fn_31"></span>[59:1](flhl12.htm#fr_31.md) Chopped straw.
 
 ------------------------------------------------------------------------
 
-[Next: X. Simon The Just](flhl13)
+[Next: X. Simon The Just](flhl13.md)

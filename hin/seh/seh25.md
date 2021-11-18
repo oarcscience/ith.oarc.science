@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh24)  [Next](seh26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh24)  [Next](seh26.md) 
 
 ------------------------------------------------------------------------
 
@@ -218,4 +218,4 @@ Vision.
 
 ------------------------------------------------------------------------
 
-[Next: The Land of the Water-Ways](seh26)
+[Next: The Land of the Water-Ways](seh26.md)

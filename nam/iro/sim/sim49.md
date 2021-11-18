@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim48)  [Next](sim50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim48)  [Next](sim50.md) 
 
 ------------------------------------------------------------------------
 
@@ -727,4 +727,4 @@ an inchworm. His first wife was a grasshopper.
 
 ------------------------------------------------------------------------
 
-[Next: The Young Woman and Thunder](sim50)
+[Next: The Young Woman and Thunder](sim50.md)

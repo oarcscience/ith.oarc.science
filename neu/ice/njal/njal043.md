@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal042)  [Next](njal044) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal042)  [Next](njal044.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ between us, then we will bear in mind the old feud."
 
 ------------------------------------------------------------------------
 
-[Next: 44. Sigmund Mocks Njal And His Sons](njal044)
+[Next: 44. Sigmund Mocks Njal And His Sons](njal044.md)

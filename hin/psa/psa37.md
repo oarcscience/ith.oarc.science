@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa36)  [Next](psa38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa36)  [Next](psa38.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ a most affectionate manner, was delighted to embrace him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVII](psa38)
+[Next: Chapter XXXVII](psa38.md)

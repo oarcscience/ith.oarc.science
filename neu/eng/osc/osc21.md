@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc20)  [Next](osc22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc20)  [Next](osc22.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ decorate their well on Ascension Day.
 
 ------------------------------------------------------------------------
 
-[Next: (19) All Fools' Day](osc22)
+[Next: (19) All Fools' Day](osc22.md)

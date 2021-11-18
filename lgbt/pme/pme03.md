@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](pme02)  [Next](pme04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](pme02)  [Next](pme04.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ method of dealing with it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Christian Opinion](pme04)
+[Next: Chapter I. Christian Opinion](pme04.md)

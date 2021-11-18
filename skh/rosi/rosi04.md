@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sikhism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](rosi03) 
-[Next](rosi05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sikhism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](rosi03.md) 
+[Next](rosi05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Sikhs*, by Dorothy Field, \[1914\], at Intangible
 Textual Heritage
 
@@ -33,7 +33,7 @@ its theology it will well repay study. It is a pure, lofty monotheism,
 which sprang out of an attempt to reform and to simplify Muhammadanism
 and Hinduism, and which, though failing in this attempt, succeeded in
 binding together, like Judaism of old, a whole race in a new bond of
-religious zeal. The Sikhs <span id="fr_0"></span>[1](#fn_0) became a
+religious zeal. The Sikhs <span id="fr_0"></span>[1](#fn_0.md) became a
 nation by reason of their faith,—and a fine nation of stalwart soldiers.
 
 <span id="page_10">p. 10</span>
@@ -43,10 +43,10 @@ sect of the Hindus; and this has become a matter for controversy among
 the Indians themselves. The word Hinduism is undoubtedly capable of a
 very wide application., but it is questionable whether it should be held
 to include the Sikhs in view of the fact that the pure teaching of the
-Gurus <span id="fr_1"></span>[1](#fn_1) assumed a critical attitude
+Gurus <span id="fr_1"></span>[1](#fn_1.md) assumed a critical attitude
 towards the three cardinal pillars of Hinduism, the priesthood, the
-caste system, <span id="fr_2"></span>[2](#fn_2) and the Vedas. <span
-id="fr_3"></span>[3](#fn_3) A reading of the Granth strongly suggests
+caste system, <span id="fr_2"></span>[2](#fn_2.md) and the Vedas. <span
+id="fr_3"></span>[3](#fn_3.md) A reading of the Granth strongly suggests
 that Sikhism should be regarded as a new and separate world-religion,
 rather than as a reformed sect of the Hindus. The founder of the
 religion, Nānak, was on the one hand the spiritual descendant of
@@ -78,7 +78,7 @@ From them he must have learned the subtleties associated with religious
 controversy, and for the first time the principles of Muhammadan
 doctrine. Nānak's parents were strict Hindus of the Khatri caste, and in
 due time the Brahman priest came to invest the boy with the sacred
-thread. <span id="fr_4"></span>[1](#fn_4) Nānak was only nine years old,
+thread. <span id="fr_4"></span>[1](#fn_4.md) Nānak was only nine years old,
 but he protested against
 
 <span id="page_12">p. 12</span>
@@ -89,12 +89,12 @@ hymn:
 "Make mercy thy cotton, contentment thy thread, continence its knot,
 truth its twist.
 
-"That would make a *janeu* <span id="fr_5"></span>[1](#fn_5) for the
+"That would make a *janeu* <span id="fr_5"></span>[1](#fn_5.md) for the
 soul; if thou have it, O Brahman, then put it on me.
 
 "It will not break, or become soiled, or be burned, or lost.
 
-"Blest the man, O Nānak, <span id="fr_6"></span>[2](#fn_6) who goeth
+"Blest the man, O Nānak, <span id="fr_6"></span>[2](#fn_6.md) who goeth
 with such a thread on his neck."
 
 This hymn is typical of the manner in which Nānak afterwards conveyed
@@ -124,17 +124,17 @@ into the wilderness, where he was severely tempted by Kaljug, the devil.
 He resisted every attack, however, and afterwards was granted a, special
 vision of God, during which he held converse with Him, and received
 instruction for his mission. During this experience he composed an
-important part of the Jāpji, <span id="fr_7"></span>[1](#fn_7) which has
+important part of the Jāpji, <span id="fr_7"></span>[1](#fn_7.md) which has
 since become the key-note of Sikh doctrine. Nānak then donned a
 religious costume, and definitely set forth on his life-work as teacher,
 or Guru. He took with him his minstrel Mardana, who accompanied his
-hymns upon the rebook. <span id="fr_8"></span>[2](#fn_8) The greater
+hymns upon the rebook. <span id="fr_8"></span>[2](#fn_8.md) The greater
 part of the new
 
 <span id="page_14">p. 14</span>
 
 teaching was conveyed by means of these hymns, improvised and chanted to
-well-known musical measures. <span id="fr_9"></span>[1](#fn_9) In this
+well-known musical measures. <span id="fr_9"></span>[1](#fn_9.md) In this
 way Nānak discoursed with men of every caste and creed, but mostly with
 Brahmans, among whom he made many converts. He pointed out the
 inefficacy of caste and of the priesthood, protesting against formalism,
@@ -147,7 +147,7 @@ world. Much of Nānak's time was spent wandering and preaching in great
 simplicity of life—but he was married, as were all the Gurus after him.
 He discouraged ascetic practices, and taught that true religion was in
 the heart, whatever might be the walk in life. Whereas the Brahmans
-forbade either women or Sudras <span id="fr_10"></span>[2](#fn_10) to
+forbade either women or Sudras <span id="fr_10"></span>[2](#fn_10.md) to
 read the Vedas, Nānak held that all human beings were on an equality in
 the
 
@@ -183,7 +183,7 @@ commanded the Hindus to place flowers on his right and the Mussulmans on
 his left; they whose flowers were found fresh in the morning should have
 the disposal of the body. The next day the flowers on both sides were
 found fresh, but the body had disappeared. <span
-id="fr_11"></span>[1](#fn_11) The Sikhs erected a shrine, and the
+id="fr_11"></span>[1](#fn_11.md) The Sikhs erected a shrine, and the
 Muhammadans a tomb, in his honour, on the banks of the Ravi; but both
 buildings have been washed away by the river.
 
@@ -234,7 +234,7 @@ construction of the Har Mandar—or Golden Temple—which was to stand in
 the middle of the lake. He then proceeded to compile a volume of hymns,
 half of which were of his own composition, while the remaining half
 contained those of the previous Gurus, and of the earlier reformers, by
-whom they were influenced. <span id="fr_12"></span>[1](#fn_12) The
+whom they were influenced. <span id="fr_12"></span>[1](#fn_12.md) The
 editing of this volume was a very important matter, upon which no time
 or trouble was spared. When completed it was called the Granth Sāhib—or
 noble book—and later the *Adi* (or first) Granth, in contradistinction
@@ -317,7 +317,7 @@ his death but seven years old. Before his death the difficult question
 of a successor arose. Har Krishan indicated that the new Guru would be
 found in a distant village, and uttering Baba Bakāle—that is, Father
 Bakāle (the name of the village)—he offered the usual offerings, <span
-id="fr_13"></span>[1](#fn_13) and bowed to his absent successor. This
+id="fr_13"></span>[1](#fn_13.md) and bowed to his absent successor. This
 mysterious appointment caused a certain amount of trouble. Twenty-two
 religious men in the village claimed the Guru-ship, and began to
 appropriate the offerings of Sikhs.
@@ -370,7 +370,7 @@ down thy *pardas* and destroy thy Empire."
 A Sikh writer states that certain of these words became the battle-cry
 of the Sikhs in the assault on Delhi in 1857 under General John
 Nicholson, and that thus the prophecy of the ninth Guru was gloriously
-fulfilled, <span id="fr_14"></span>[1](#fn_14)"
+fulfilled, <span id="fr_14"></span>[1](#fn_14.md)"
 
 The Emperor offered Teg Bahādur his freedom and great honour if he would
 accept Islām—
@@ -382,9 +382,9 @@ Aurangzeb that his empire must perish. He was accordingly put to death
 in 1675. After the deed was carried out it is said that the Emperor was
 much distressed, and that he never wholly regained his peace of mind.
 While in prison Teg Bahādur sent for the copper coins and the
-cocoa-nut, <span id="fr_15"></span>[1](#fn_15) bowed in front of them
+cocoa-nut, <span id="fr_15"></span>[1](#fn_15.md) bowed in front of them
 and meditated on his absent son, Gobind Rāi. <span
-id="fr_16"></span>[2](#fn_16) Whatever the effect may have been of the
+id="fr_16"></span>[2](#fn_16.md) Whatever the effect may have been of the
 martyrdom of Arjan—the fifth Guru—in bringing out the warlike tendencies
 of the Sikhs, this effect was redoubled in the case of the death of Teg
 Bahādur.
@@ -410,7 +410,7 @@ one another soon became proverbial.
 
 But the great work of Gobind Singh's life was the institution of the
 *Khanda-di-Pāhul* or Baptism of the Sword. <span
-id="fr_17"></span>[1](#fn_17) This ceremony became so important, and its
+id="fr_17"></span>[1](#fn_17.md) This ceremony became so important, and its
 effects so vital and far-reaching, that it will not be out of place to
 give a detailed account of its institution.
 
@@ -462,7 +462,7 @@ bring excommunication, reconciliation being through a fine and
 re-baptism. After giving these instructions the Guru desired the
 neophytes to baptize him in return. They at first protested, but he
 pointed out that the baptism put them all on a footing of equality, and
-the Khālsa, <span id="fr_18"></span>[1](#fn_18) as the sect was now
+the Khālsa, <span id="fr_18"></span>[1](#fn_18.md) as the sect was now
 called, was equal to the Guru. They yielded; and after this many
 thousands were baptized. Gobind Singh then sent to the Hill Rajahs,
 beseeching them to receive this baptism as a means of protecting
@@ -512,7 +512,7 @@ said:
 possession of many countries. Three years after that Sikhs shall spring
 out of every bush, and there shall subsequently be terrible warfare
 between the Sikhs and the Muhammadans. A powerful monarch shall come
-from Kandhar <span id="fr_19"></span>[1](#fn_19) and destroy countless
+from Kandhar <span id="fr_19"></span>[1](#fn_19.md) and destroy countless
 Sikhs. He shall continue his progress of destruction to Mathura in
 Hindustan, and alarm many lands. None shall be able to withstand him. As
 prophesied by Guru Arjan, he shall raze the temple of Amritsar to the
@@ -551,7 +551,7 @@ happiness, in every house rejoicing, in every house religion, in every
 <span id="page_31">p. 31</span>
 
 house learning, and in every house a woman. The English shall rule for a
-long time." <span id="fr_20"></span>[1](#fn_20)
+long time." <span id="fr_20"></span>[1](#fn_20.md)
 
 Guru Gobind Singh repeated the teaching of his father against tobacco.
 One day when hunting, he came upon a field where the plant grew. He
@@ -628,7 +628,7 @@ the
 <span class="contnote">\[paragraph continues\]</span> Empire in 1857;
 and they have stood by the British nation on countless occasions since.
 
-The position of present day Sikhs <span id="fr_21"></span>[1](#fn_21) is
+The position of present day Sikhs <span id="fr_21"></span>[1](#fn_21.md) is
 a curious one. Where the baptism of Gobind Singh is persisted in they
 are likely to remain a separate nation; but when this falls into disuse
 they show a tendency to reabsorb into Hinduism. They employ Brahman
@@ -671,13 +671,13 @@ Islām, will be examined in the next chapter.
 
 ### Footnotes
 
-<span id="fn_0"></span>[9:1](rosi04.htm#fr_0) Sikh, literally
+<span id="fn_0"></span>[9:1](rosi04.htm#fr_0.md) Sikh, literally
 "disciple."
 
-<span id="fn_1"></span>[10:1](rosi04.htm#fr_1) Guru (literally *great*)
+<span id="fn_1"></span>[10:1](rosi04.htm#fr_1) Guru (literally *great*.md)
 signifies "teacher."
 
-<span id="fn_2"></span>[10:2](rosi04.htm#fr_2) The Hindus recognise four
+<span id="fn_2"></span>[10:2](rosi04.htm#fr_2.md) The Hindus recognise four
 great castes: Brahmans, or priests; Kshatriyas, or warriors; Vaisayes,
 or traders; and Sudras, or serfs. These castes were mapped out in rigid
 demarcation, and were supposed to have been created separately, the
@@ -686,84 +686,84 @@ other parts of his body. It will be seen that this belief in a
 fundamental distinction between various human beings must have a strong
 effect on religious and social life.
 
-<span id="fn_3"></span>[10:3](rosi04.htm#fr_3) Veda (lit, *knowledge*.)
+<span id="fn_3"></span>[10:3](rosi04.htm#fr_3) Veda (lit, *knowledge*..md)
 is a term given to the ancient Indian Scriptures, of which thorn were
 four sections.
 
-<span id="fn_4"></span>[11:1](rosi04.htm#fr_4) This ceremony initiates a
+<span id="fn_4"></span>[11:1](rosi04.htm#fr_4.md) This ceremony initiates a
 boy into his caste.
 
-<span id="fn_5"></span>[12:1](rosi04.htm#fr_5) The sacred thread.
+<span id="fn_5"></span>[12:1](rosi04.htm#fr_5.md) The sacred thread.
 
-<span id="fn_6"></span>[12:2](rosi04.htm#fr_6) In oriental poetry it was
+<span id="fn_6"></span>[12:2](rosi04.htm#fr_6.md) In oriental poetry it was
 the custom for the poet to address himself in the last line or lines.
 The subsequent Gurus of the Sikhs used "Nānak" as their pseudonym,
 thereby emphasising their belief that the spirit of Nānak entered
 successively into each of the teachers who followed him.
 
-<span id="fn_7"></span>[13:1](rosi04.htm#fr_7) A collection of hymns,
+<span id="fn_7"></span>[13:1](rosi04.htm#fr_7.md) A collection of hymns,
 from which extracts will be given later.
 
-<span id="fn_8"></span>[13:2](rosi04.htm#fr_8)  The rebeck, or rabab, is
+<span id="fn_8"></span>[13:2](rosi04.htm#fr_8.md)  The rebeck, or rabab, is
 an instrument of Arabian origin, having from four to six strings of
 goat-gut, with steel strings for resonance. It has fallen into disuse in
 Northern India.
 
-<span id="fn_9"></span>[14:1](rosi04.htm#fr_9) Indian writers enumerate
+<span id="fn_9"></span>[14:1](rosi04.htm#fr_9.md) Indian writers enumerate
 six principal *rāgs* or musical measures. To these are allotted "wives"
 and "sons," which are modifications of the principal airs, and are often
 sung differently in different provinces of India. The hymns of the
 sacred book of the Sikhs were composed to thirty-one such musical
 measures.
 
-<span id="fn_10"></span>[14:2](rosi04.htm#fr_10) Women and Sudras were
+<span id="fn_10"></span>[14:2](rosi04.htm#fr_10.md) Women and Sudras were
 held to be beyond the pale of religion. In the *Institutes of Gautam* it
 is ordered that, if a <span id="page_16">p. 16</span> Sudra hear the
 Vedas, his ears must be stopped with war or molten lead; if he read the
 Vedas, his tongue must be cut out; if he possess the Vedas, the penalty
 is death.
 
-<span id="fn_11"></span>[16:1](rosi04.htm#fr_11) A similar story is told
+<span id="fn_11"></span>[16:1](rosi04.htm#fr_11.md) A similar story is told
 of the renowned Indian saint, Kabīr.
 
-<span id="fn_12"></span>[18:1](rosi04.htm#fr_12) Fifteen reformers are
+<span id="fn_12"></span>[18:1](rosi04.htm#fr_12.md) Fifteen reformers are
 represented altogether. They are: Jaidev, Nāmdev, Trilochan, Parmānand,
 Sadhna, Beni, Rāmānand, Dhanna, Pīpa, Sāīn, Kabīr, Rāv Dās, Sûr Dās,
 Farid, and Bhīkan. The two last are Muhammadan saints.
 
-<span id="fn_13"></span>[21:1](rosi04.htm#fr_13) It was the custom of
+<span id="fn_13"></span>[21:1](rosi04.htm#fr_13.md) It was the custom of
 each Guru, when appointing his successor, to send for five paise, or
 farthings, and a cocoanut. and offer these, afterwards doing homage and
 circumambulating the new Guru.
 
-<span id="fn_14"></span>[23:1](rosi04.htm#fr_14) *The Sikh Religion*,
+<span id="fn_14"></span>[23:1](rosi04.htm#fr_14.md) *The Sikh Religion*,
 Max A. Macauliffe, vol. IV.
 
-<span id="fn_15"></span>[24:1](rosi04.htm#fr_15) See note page
-[21](#page_21).
+<span id="fn_15"></span>[24:1](rosi04.htm#fr_15.md) See note page
+[21](#page_21.md).
 
-<span id="fn_16"></span>[24:2](rosi04.htm#fr_16) Gobind Rāi—afterwards
+<span id="fn_16"></span>[24:2](rosi04.htm#fr_16.md) Gobind Rāi—afterwards
 Gobind Singh—sent his father a couplet while in prison, which was
 afterwards included with the hymns of the ninth Guru in the Granth
 Sāhib.
 
-<span id="fn_17"></span>[25:1](rosi04.htm#fr_17) Many Sikhs do not take
+<span id="fn_17"></span>[25:1](rosi04.htm#fr_17.md) Many Sikhs do not take
 this baptism. Those who adopt Gobind Singh's system in full are known as
 Singhs (lions), those who reject it as Sahijdharis (livers at ease). The
 former are all warriors, the latter traders or agriculturists.
 
-<span id="fn_18"></span>[27:1](rosi04.htm#fr_18) From the Arabia
+<span id="fn_18"></span>[27:1](rosi04.htm#fr_18.md) From the Arabia
 *Khālis*, "pure."
 
-<span id="fn_19"></span>[29:1](rosi04.htm#fr_19) This prophecy was
+<span id="fn_19"></span>[29:1](rosi04.htm#fr_19.md) This prophecy was
 fulfilled in 1762, when Ahmad Shah marched against the Sikhs, and blew
 up the Golden Temple.
 
-<span id="fn_20"></span>[31:1](rosi04.htm#fr_20) *The Sikh Religion*,
+<span id="fn_20"></span>[31:1](rosi04.htm#fr_20.md) *The Sikh Religion*,
 Max A. Macauliffe, vol. v.
 
-<span id="fn_21"></span>[34:1](rosi04.htm#fr_21) See note, page
-[25](#page_25). Besides the two main Envisions of Sikhs there are
+<span id="fn_21"></span>[34:1](rosi04.htm#fr_21.md) See note, page
+[25](#page_25.md). Besides the two main Envisions of Sikhs there are
 certain minor sects which include several orders of ascetics. Very many
 shades of opinion are held among the members of these various bodies,
 some of their views being almost indistinguishable from ordinary
@@ -774,6 +774,6 @@ Hinduism.
 ------------------------------------------------------------------------
 
 [Next: Chapter II. The Religious Origins of Sikhism——Hindu Monotheism
-and Connection with Islām](rosi05)
+and Connection with Islām](rosi05.md)
 
 </div>

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](waws00)
+[Contents](#contents)    [Start Reading](waws00.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte)
 This short book by Ralph Waldo Trine stands out in the huge body of New
 Thought literature for several reasons. First of all, he uses the phrase
 'A Science of Mind' nearly two decades before the [Ernest Holmes
-book](../../eso/som/index) of the same title. Second, and much more
+book](../../eso/som/index.md) of the same title. Second, and much more
 importantly, is the stress he places on service and compassion, not only
 to humanity, but to also animals, in fact, all sentient or conscious
 beings. This, of course, echoes Buddhist sentiments. It also addresses
@@ -53,13 +53,13 @@ perennial classic of this genre.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](waws00)  
-[Preface](waws01)  
-[Contents](waws02)  
-[Part I. The Principle](waws03)  
-[Part II. The Application](waws04)  
-[Part III. The Unfoldment](waws05)  
-[Part IV. The Awakening](waws06)  
-[Part V. The Incoming](waws07)  
-[Part VI. Character-Building Thought Power](waws08)  
-[End Matter](waws09)  
+<span id="contents"></span> [Title Page and Front Matter](waws00.md)  
+[Preface](waws01.md)  
+[Contents](waws02.md)  
+[Part I. The Principle](waws03.md)  
+[Part II. The Application](waws04.md)  
+[Part III. The Unfoldment](waws05.md)  
+[Part IV. The Awakening](waws06.md)  
+[Part V. The Incoming](waws07.md)  
+[Part VI. Character-Building Thought Power](waws08.md)  
+[End Matter](waws09.md)  

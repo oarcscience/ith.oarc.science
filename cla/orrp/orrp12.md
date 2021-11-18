@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp11)  [Next](orrp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp11)  [Next](orrp13.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ the confused collision of creeds produced a division into fragments, a
 communication of churches? Had not a complacent syncretism engendered a
 multiplication of sects? The "Hellenes," as Themistius told the Emperor
 Valens, had three hundred ways of conceiving and honoring deity, who
-takes pleasure in such diversity of homage. [8\_1](orrp21.htm#xref_8_1)
+takes pleasure in such diversity of homage. [8\_1](orrp21.htm#xref_8_1.md)
 In paganism a cult does not die violently, but after long decay. A new
 doctrine does not necessarily displace an older one. They may co-exist
 for a long time as contrary possibilities suggested by the intellect or
@@ -153,7 +153,7 @@ between the faith of the masses and that of cultured minds, and this
 difference was bound to be great in an aristocratic empire whose social
 classes were sharply separated. The devotion of the masses was as
 unchanging as the depths of the sea; it was not stirred up nor heated by
-the upper currents. [8\_2](orrp21.htm#xref_8_2) The peasants practised
+the upper currents. [8\_2](orrp21.htm#xref_8_2.md) The peasants practised
 their pious rites over anointed stones, sacred springs and blossoming
 trees, as in the past, and continued celebrating their rustic holidays
 during seed-time and harvest. They adhered with invincible tenacity to
@@ -200,7 +200,7 @@ However, we would be tempted to believe that there had been no change in
 the Roman faith, were we to read certain authors that fought idolatry in
 those days. Saint Augustine, for instance, in his *City of God*,
 pleasantly pokes fun at the multitude of Italian gods that presided over
-the paltriest acts of life. [8\_3](orrp21.htm#xref_8_3) But the useless,
+the paltriest acts of life. [8\_3](orrp21.htm#xref_8_3.md) But the useless,
 ridiculous deities of the old pontifical litanies no longer existed
 outside of the books of antiquaries. As a matter of fact, the Christian
 polemicist's authority in this instance was Varro. The defenders of the
@@ -225,7 +225,7 @@ The Christian polemics therefore frequently give us an inadequate idea
 of paganism in its decline. When they complacently insisted upon the
 immorality of the sacred legends they ignored the fact that the gods and
 heroes of mythology had no longer any but a purely literary
-existence. [8\_4](orrp21.htm#xref_8_4) The writers of that period, like
+existence. [8\_4](orrp21.htm#xref_8_4.md) The writers of that period, like
 those of the Renaissance, regarded the fictions of mythology as details
 necessary to poetical composition. They were ornaments of style,
 rhetorical devices, but not the expression of a sincere faith. Those old
@@ -244,17 +244,17 @@ refer to Christian authors who were men of letters less than they were
 men of action, who lived the life of the people and breathed the air of
 the streets, and who spoke from experience rather than from the
 treatises of myth-mongers. They were high functionaries like
-Prudentius; [8\_5](orrp21.htm#xref_8_5) like the man to whom the name
-"Ambrosiaster" [8\_6](orrp21.htm#xref_8_6) has been given since the time
+Prudentius; [8\_5](orrp21.htm#xref_8_5.md) like the man to whom the name
+"Ambrosiaster" [8\_6](orrp21.htm#xref_8_6.md) has been given since the time
 of Erasmus; like the converted pagan Firmicus
-Maternus, [8\_7](orrp21.htm#xref_8_7) who had written a treatise on
+Maternus, [8\_7](orrp21.htm#xref_8_7.md) who had written a treatise on
 astrology before opposing "The Error of the Profane Religions"; like
 certain priests brought into contact with the last adherents of idolatry
 through their pastoral duties, as for instance the author of the
-homilies ascribed to St. Maximus of Turin; [8\_8](orrp21.htm#xref_8_8)
+homilies ascribed to St. Maximus of Turin; [8\_8](orrp21.htm#xref_8_8.md)
 finally like the writers of anonymous pamphlets, works prepared for the
 particular occasion and breathing the ardor of all the passions of the
-movement. [8\_9](orrp21.htm#xref_8_9) If this inquiry is based on the
+movement. [8\_9](orrp21.htm#xref_8_9.md) If this inquiry is based on the
 obscure indications in regard to their religious convictions left by
 members of the Roman aristocracy who remained true to the faith of their
 ancestors, like Macrobius or Symmachus; if it is particularly guided by
@@ -265,7 +265,7 @@ at the time of its extinction.
 
 One fact becomes immediately clear from an examination of those
 documents. The old national religion of Rome was
-dead. [8\_10](orrp21.htm#xref_8_10) The great dignitaries still adorned
+dead. [8\_10](orrp21.htm#xref_8_10.md) The great dignitaries still adorned
 themselves with the titles of augur and quindecimvir, or of consul and
 tribune, but those archaic
 
@@ -287,7 +287,7 @@ The Egyptians were the worshipers of water--the water of the Nile
 fertilizing their country; the Phrygians of the earth, which was to them
 the Great Mother of everything; the Syrians and Carthaginians of the
 air, which they adored under the name of celestial
-Juno; [8\_11](orrp21.htm#xref_8_11) the Persians of fire, to which they
+Juno; [8\_11](orrp21.htm#xref_8_11.md) the Persians of fire, to which they
 attributed preeminence over the other three principles. This system
 certainly was borrowed from the pagan theologians. In the common peril
 threatening them, those cults, formerly rivals, had become reconciled
@@ -297,7 +297,7 @@ the elements which in combination form the universe. Their union
 constituted the pantheistic religion of the deified world.
 
 All the Oriental religions assumed the form of
-mysteries. [8\_12](orrp21.htm#xref_8_12) Their dignitaries were at the
+mysteries. [8\_12](orrp21.htm#xref_8_12.md) Their dignitaries were at the
 same time pontiffs of the Invincible Sun, fathers of Mithra, celebrants
 
 <span id="page_206">p. 206</span>
@@ -305,17 +305,17 @@ same time pontiffs of the Invincible Sun, fathers of Mithra, celebrants
 of the taurobolium of the Great Mother, prophets of Isis; in short, they
 had all titles imaginable. In their initiation they received the
 revelation of an esoteric doctrine strengthened by their
-fervor. [8\_13](orrp21.htm#xref_8_13) What was the theology they
+fervor. [8\_13](orrp21.htm#xref_8_13.md) What was the theology they
 learned? Here also a certain dogmatic homogeneity has established
 itself.
 
 All writers agree with Firmicus that the pagans worshiped the
-*elementa*. [8\_14](orrp21.htm#xref_8_14) Under this term were included
+*elementa*. [8\_14](orrp21.htm#xref_8_14.md) Under this term were included
 not only the four simple substances which by their opposition and
 blending caused all phenomena of the visible
-world, [8\_15](orrp21.htm#xref_8_15) but also the stars and in general
+world, [8\_15](orrp21.htm#xref_8_15.md) but also the stars and in general
 the elements of all celestial and earthly
-bodies. [8\_16](orrp21.htm#xref_8_16)
+bodies. [8\_16](orrp21.htm#xref_8_16.md)
 
 We therefore may in a certain sense speak of the return of paganism to
 nature worship; but must this transformation be regarded as a
@@ -332,7 +332,7 @@ from the fictitious to the metaphysical state, according to the formula
 of Comte. It was intimately connected with the knowledge of the day,
 which was cherished by its last votaries with love and pride, as
 faithful heirs of the ancient wisdom of the Orient and
-Greece. [8\_17](orrp21.htm#xref_8_17) In many instances it was nothing
+Greece. [8\_17](orrp21.htm#xref_8_17.md) In many instances it was nothing
 but a religious form of the cosmology of the
 
 <span id="page_207">p. 207</span>
@@ -345,7 +345,7 @@ The universe was an organism animated by a God, unique, eternal and
 almighty. Sometimes this God was identified with the destiny that ruled
 all things, with infinite time that regulated all visible phenomena, and
 he was worshiped in each subdivision of that endless duration,
-especially in the months and the seasons. [8\_18](orrp21.htm#xref_8_18)
+especially in the months and the seasons. [8\_18](orrp21.htm#xref_8_18.md)
 Sometimes, however, he was compared with a king; he was thought of as a
 sovereign governing an empire, and the various gods then were the
 princes and dignitaries interceding with the rulers on behalf of his
@@ -353,7 +353,7 @@ subjects whom they led in some manner into his presence. This heavenly
 court had its messengers or "angels" conveying to men the will of the
 master and reporting again the vows and petitions of his subjects. It
 was an aristocratic monarchy in heaven as on
-earth. [8\_19](orrp21.htm#xref_8_19) A more philosophic conception made
+earth. [8\_19](orrp21.htm#xref_8_19.md) A more philosophic conception made
 the divinity an infinite power impregnating all nature with its
 overflowing forces. "There is only one God, sole and supreme," wrote
 Maximus of Madaura about 390, "without beginning or parentage, whose
@@ -363,7 +363,7 @@ supplications to his different members we intend to honor him in his
 entirety. Through the mediation of the subordinate gods the common
 father both of themselves and of all men is honored in a thousand
 different ways by mortals who are thus in accord in spite of their
-discord." [8\_20](orrp21.htm#xref_8_20)
+discord." [8\_20](orrp21.htm#xref_8_20.md)
 
 However, this ineffable God, who comprehensively embraces everything,
 manifests himself especially in
@@ -371,7 +371,7 @@ manifests himself especially in
 <span id="page_208">p. 208</span>
 
 the resplendent brightness of the ethereal
-sky. [8\_21](orrp21.htm#xref_8_21) He reveals his power in water and in
+sky. [8\_21](orrp21.htm#xref_8_21.md) He reveals his power in water and in
 fire, in the earth, the sea and the blowing of the winds; but his
 purest, most radiant and most active epiphany is in the stars whose
 revolutions determine every event and all our actions. Above all he
@@ -380,7 +380,7 @@ the inexhaustible seat of light and life, the creator of all
 intelligence on earth. Certain philosophers like the senator
 Praetextatus, one of the *dramatis personae* of Macrobius, confounded
 all the ancient divinities of paganism with the sun in a thorough-going
-syncretism. [8\_22](orrp21.htm#xref_8_22)
+syncretism. [8\_22](orrp21.htm#xref_8_22.md)
 
 Just as a superficial observation might lead to the belief that the
 theology of the last pagans had reverted to its origin, so at first
@@ -409,11 +409,11 @@ its content had slowly been transformed. The most shocking and
 licentious fables were metamorphosed into edifying narratives by
 convenient and subtle interpretations which were a joy to the learned
 mythographers. Paganism had become a school of morality, the priest a
-doctor and director of the conscience. [8\_23](orrp21.htm#xref_8_23)
+doctor and director of the conscience. [8\_23](orrp21.htm#xref_8_23.md)
 
 The purity and holiness imparted by the practice of sacred ceremonies
 were the indispensable condition for obtaining eternal
-life. [8\_24](orrp21.htm#xref_8_24) The mysteries promised a blessed
+life. [8\_24](orrp21.htm#xref_8_24.md) The mysteries promised a blessed
 immortality to their initiates, and claimed to reveal to them infallible
 means of effecting their salvation. According to a generally accepted
 symbol, the spirit animating man was a spark, detached from the fires
@@ -426,7 +426,7 @@ literally be said that
 After having left their corporeal prisons, the pious souls reascended
 towards the celestial regions of the divine stars, to live forever in
 endless brightness beyond the starry
-spheres. [8\_25](orrp21.htm#xref_8_25)
+spheres. [8\_25](orrp21.htm#xref_8_25.md)
 
 But at the other extremity of the world, facing this luminous realm,
 extended the somber kingdom of evil spirits. They were irreconcilable
@@ -442,14 +442,14 @@ sacrifices.
 processes, the magician could subject them to his power and compel them
 to serve his purposes. This demonology, the monstrous offspring of
 Persian dualism, favored the rise of every
-superstition. [8\_26](orrp21.htm#xref_8_26)
+superstition. [8\_26](orrp21.htm#xref_8_26.md)
 
 However, the reign of the evil powers was not to last forever. According
 to common opinion the universe would be destroyed by
-fire [8\_27](orrp21.htm#xref_8_27) after the times had been fulfilled.
+fire [8\_27](orrp21.htm#xref_8_27.md) after the times had been fulfilled.
 All the wicked would perish, but the just would be revived and establish
 the reign of universal happiness in the regenerated
-world. [8\_28](orrp21.htm#xref_8_28)
+world. [8\_28](orrp21.htm#xref_8_28.md)
 
 The foregoing is a rapid sketch of the theology of paganism after three
 centuries of Oriental influence. From coarse fetichism and savage
@@ -466,14 +466,14 @@ offer to all men a world-conception which gave rise to a rule of conduct
 and placed the end of existence in the future life. It was more unlike
 the worship that Augustus had attempted to restore than the Christianity
 that fought it. The two opposed creeds moved in the same intellectual
-and moral sphere, [8\_29](orrp21.htm#xref_8_29) and one could actually
+and moral sphere, [8\_29](orrp21.htm#xref_8_29.md) and one could actually
 pass from one to the other without shock or interruption. Sometimes when
 
 <span id="page_211">p. 211</span>
 
 reading the long works of the last Latin writers, like Ammianus
 Marcellinus or Boëthius, or the panegyrics of the official
-orators, [8\_30](orrp21.htm#xref_8_30) scholars could well ask whether
+orators, [8\_30](orrp21.htm#xref_8_30.md) scholars could well ask whether
 their authors were pagan or Christian. In the time of Symmachus and
 Praetextatus, the members of the Roman aristocracy who had remained
 faithful to the gods of their ancestors did not have a mentality or
@@ -484,4 +484,4 @@ nations to unite in the bosom of a universal church.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](orrp13)
+[Next: Preface](orrp13.md)

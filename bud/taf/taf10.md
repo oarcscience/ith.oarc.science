@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf09)  [Next](taf11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf09)  [Next](taf11.md) 
 
 ------------------------------------------------------------------------
 
@@ -186,7 +186,7 @@ generally gives twenty-three or twenty-eight patriarchs beginning with
 Mahâkâçyapa, but not deeming it necessary to give a complete list, I
 have cut it short at Deva.
 
-Chieh-sung <span id="fr_51"></span>[1](#fn_51) refutes in his *Chuan fa
+Chieh-sung <span id="fr_51"></span>[1](#fn_51.md) refutes in his *Chuan fa
 chang tsung lun* <span id="img_03400"></span> ![](img/03400.jpg) (*A
 Treatise on the Right Transmission of the Dharma*) the authority of the
 Transmission of the Dharmapitaka (*Fu fa tsang chuan*), but he agrees
@@ -198,7 +198,7 @@ school, should be included in the list.
 
 ### Footnotes
 
-<span id="fn_50"></span>[33:1](taf10.htm#fr_50) He was a native of
+<span id="fn_50"></span>[33:1](taf10.htm#fr_50.md) He was a native of
 Kapilavastu and came to China A D. 406. A translator of many Sanskrit
 works. His list belongs to the Sarvâstivâdin, though it is a little
 different from the succeeding one. The former contains fifty-four and
@@ -206,11 +206,11 @@ the latter fifty-three patriarchs. See the *Ch‘u san tsang chi chi*
 <span id="img_03300"></span> ![](img/03300.jpg) by <span
 id="img_03301"></span> ![](img/03301.jpg) (Nanjo's Catalogue, No. 1476).
 
-<span id="fn_51"></span>[34:1](taf10.htm#fr_51) <span
+<span id="fn_51"></span>[34:1](taf10.htm#fr_51.md) <span
 id="img_03401"></span> ![](img/03401.jpg), a priest of the Dhyâna school
 who died A. D. 1071 or 1072. He wrote among other works one on the
 fundamental identicalness of Confucianism and Buddhism.
 
 ------------------------------------------------------------------------
 
-[Next: As an Artist](taf11)
+[Next: As an Artist](taf11.md)

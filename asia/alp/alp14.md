@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp13) 
-[Next](alp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp13.md) 
+[Next](alp15.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 <span id="img_01000"></span>
 
 [![THE BIRTH OF VAHAGN, KING OF ARMENIA](tn/01000.jpg)  
-Click to enlarge](img/01000.jpg)  
+Click to enlarge](img/01000.jpg.md)  
 THE BIRTH OF VAHAGN, KING OF ARMENIA  
 
 ### VAHAGN, KING OF ARMENIA
@@ -50,4 +50,4 @@ sacrifices.
 
 ------------------------------------------------------------------------
 
-[Next: Huntsman, That on the Hills Above](alp15)
+[Next: Huntsman, That on the Hills Above](alp15.md)

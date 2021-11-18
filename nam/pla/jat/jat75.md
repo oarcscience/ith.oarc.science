@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat74)  [Next](jat76) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat74)  [Next](jat76.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ thick made of them. With this soup they ate bread.
 
 ------------------------------------------------------------------------
 
-[Next: 74. The Making of Tiswin](jat76)
+[Next: 74. The Making of Tiswin](jat76.md)

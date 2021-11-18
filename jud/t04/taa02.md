@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](taa01)  [Next](taa03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](taa01)  [Next](taa03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ days of mourning, and stands practically independent of all other
 sections, inasmuch as we have been careful to cull all matter bearing
 upon the subjects discussed in this section from the other sections, and
 to insert the same in its proper place. (See Betza, p. 45.) <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 And now that by the grace of the Almighty we have succeeded in editing
 and translating an entire section of the Talmud, a work that, with due
@@ -195,10 +195,10 @@ NEW YORK, *June* 18, 1899.
 
 ### Footnotes
 
-<span id="fn_0"></span>[iv:1](taa02.htm#fr_0) This is only one instance
+<span id="fn_0"></span>[iv:1](taa02.htm#fr_0.md) This is only one instance
 where this policy was pursued. There are, of course, countless others,
 too numerous to mention.
 
 ------------------------------------------------------------------------
 
-[Next: A Letter From Prof. Dr. M. Lazarus](taa03)
+[Next: A Letter From Prof. Dr. M. Lazarus](taa03.md)

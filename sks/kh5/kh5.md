@@ -1,5 +1,5 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [Previous](../kh42/kh42)  [Next](../kh61/kh61) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [Previous](../kh42/kh42)  [Next](../kh61/kh61.md) 
 
 ------------------------------------------------------------------------
 
@@ -4747,4 +4747,4 @@ Index](../index)  [Previous](../kh42/kh42)  [Next](../kh61/kh61) 
 
 ------------------------------------------------------------------------
 
-[Next: King Henry the Sixth, Part I](../kh61/kh61) 
+[Next: King Henry the Sixth, Part I](../kh61/kh61.md) 

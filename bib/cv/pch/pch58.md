@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch57) 
-[Next](pch59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch57.md) 
+[Next](pch59.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -37,7 +37,7 @@ view that the inquiry has stood up to the present time. There has been
 drawn the practical conclusion that it suffices to suppress all the
 incredible details, what is left being taken for accredited history. I
 seek to show that for this first point of view we ought decidedly to
-substitute the second." <span id="fr_1290"></span>[1](#fn_1290)</span>
+substitute the second." <span id="fr_1290"></span>[1](#fn_1290.md)</span>
 
 </div>
 
@@ -97,7 +97,7 @@ with his supposed aunt, the legendary Prajápati......I do not speak of
 his genealogy: it has certainly no value, being borrowed whole from epic
 heroes, in particular from Rama. On the other hand, it may well be that
 the teacher of the Buddhists entered on his religious career at the age
-of thirty-nine <span id="fr_1291"></span>[1](#fn_1291)......"
+of thirty-nine <span id="fr_1291"></span>[1](#fn_1291.md)......"
 
 </div>
 
@@ -115,12 +115,12 @@ growth of individuality; and in the portraits of the Buddha and all his
 leading disciples we have simply the same type repeated. Yet, he
 contends, "a figure such as his certainly has not been fundamentally
 misconceived (*fundamental missverstanden worden ist eine Gestalt wie
-die seine gewiss nicht*)." <span id="fr_1292"></span>[2](#fn_1292)
+die seine gewiss nicht*)." <span id="fr_1292"></span>[2](#fn_1292.md)
 Critical logic will not permit such an A, priori reinstatement of a
 conception in which every element has given way before analysis. It is
 but an unconscious resort to the old fallacy of meeting the indictment
 of a spurious document with the formula, "Who else could have written
-it?" <span id="fr_1293"></span>[3](#fn_1293)
+it?" <span id="fr_1293"></span>[3](#fn_1293.md)
 
 <span id="page_260">p. 260</span>
 
@@ -131,12 +131,12 @@ beyond doubt that at the origin of great historic movements always and
 everywhere appear important and historic personalities. It was so,
 certainly, in the history of Buddhism, and its development
 unquestionably commenced in the work of the founder." <span
-id="fr_1294"></span>[1](#fn_1294) Here we have something more than the
+id="fr_1294"></span>[1](#fn_1294.md) Here we have something more than the
 proposition of M. Senart—we have a doctrine which would ascribe to
 definite founders the cults of Herakles and Dionysos and Aphroditê, the
 worship of fire, and the institution of human sacrifice. Dismissing such
 a generalisation as the extravagance of a scholar without
-sociology, <span id="fr_1295"></span>[2](#fn_1295) we bring the issue to
+sociology, <span id="fr_1295"></span>[2](#fn_1295.md) we bring the issue to
 a point in the formula of M. Senart. Plainly that is significant in the
 sense only that someone must have begun the formation of any given
 group. It is clearly not true in the sense that every sect originates in
@@ -154,13 +154,13 @@ Buddha was concocted long after his alleged period. It cannot then be
 proved that any part of the doctrine is not a fictitious ascription; and
 there is not a single tenable test whereby any can be discriminated as
 genuine. In the words of Kuenen, "we are not free to explain Buddhism
-from the person of the founder." <span id="fr_1296"></span>[3](#fn_1296)
+from the person of the founder." <span id="fr_1296"></span>[3](#fn_1296.md)
 Nor is there any more psychological difficulty in supposing the whole to
 be doctrinal myth than in conceiving how the later Brahmanists could put
 their discourses in the mouth of Krishna.
 
 The recent attempts to establish the historicity of Gotama Buddha by
-excavated tomb-remains <span id="fr_1297"></span>[4](#fn_1297)—a kind of
+excavated tomb-remains <span id="fr_1297"></span>[4](#fn_1297.md)—a kind of
 evidence which obviously could prove nothing as to the achievements or
 teaching
 
@@ -169,7 +169,7 @@ teaching
 of the person interred—have broken down on their merits. Dr. Fleet's
 claim to date an inscribed vase before Asoka's time on the strength of
 its letter-forms is peremptorily rejected; <span
-id="fr_1298"></span>[1](#fn_1298) and Professor Davids’ theory that the
+id="fr_1298"></span>[1](#fn_1298.md) and Professor Davids’ theory that the
 remains found under one *stupa* are those of Buddha has to compete with
 the theory of Dr. Fleet that they are those of *massacred* Buddhana
 Sakiya = "kinsmen of Buddha," which in turn is rejected by M. Barth as
@@ -177,7 +177,7 @@ an impossible interpretation. On such lines there can be no
 establishment of any relevant historic facts; and we are left to the
 decision that "No extant inscription, either in the north or south, can
 be referred with confidence to a date earlier than that of Asoka. <span
-id="fr_1299"></span>[2](#fn_1299)
+id="fr_1299"></span>[2](#fn_1299.md)
 
 Professor Kern, coming to conclusions substantially identical with those
 of M. Senart, posits for us finally an ancient Order of monks, absorbing
@@ -191,7 +191,7 @@ an effort of imagination, adorn this founder with all sorts of good
 qualities; but we have no right to say that the amiability of the Buddha
 of the legend has any other origin than the antique belief according to
 which the Buddha, in his quality of cherishing sun, is *manno
-miltisto*" <span id="fr_1300"></span>[3](#fn_1300)—the kindest of men,
+miltisto*" <span id="fr_1300"></span>[3](#fn_1300.md)—the kindest of men,
 in the words applied by an old German prayer-chant to the deity.
 
 This is the warranted attitude of scientific criticism; and the mere
@@ -204,9 +204,9 @@ easily have been, "about 500 B.C., a man who by his wisdom and his
 devotion to the spiritual interests of his kind made such an impression
 that contemporaries compared him to a pre-existing ideal of wisdom and
 goodness, and that posterity completely identified him with this
-ideal," <span id="fr_1301"></span>[4](#fn_1301) the Order was not
+ideal," <span id="fr_1301"></span>[4](#fn_1301.md) the Order was not
 founded by any such person. No Buddha made the Buddhists—the Buddhists
-made the Buddha. <span id="fr_1302"></span>[5](#fn_1302)
+made the Buddha. <span id="fr_1302"></span>[5](#fn_1302.md)
 
 <span id="page_262">p. 262</span>
 
@@ -214,7 +214,7 @@ An obviously sufficient conceptual nucleus for "the" Buddha lay in the
 admittedly general Brahmanic notion of "Buddhas." There is even a
 tradition that at the time when Sakyamuni came many men ran through the
 world saying "I am Buddha! I am Buddha!" <span
-id="fr_1303"></span>[1](#fn_1303) This may be either a Buddhist way of
+id="fr_1303"></span>[1](#fn_1303.md) This may be either a Buddhist way of
 putting aside the claims of other Buddhas or a simple avowal of their
 commonness. But a real Buddha would be a much less likely "founder" than
 one found solely in tradition. Any fabulous Buddha as such could figure
@@ -223,10 +223,10 @@ common ethical code and rules of the group: the clothing of the phantom
 with the mythic history of Vishnu-Purusha or Krishna, the "Bhagavat" of
 earlier creeds, followed as a matter of course, on the usual lines. M.
 Senart "holds it for established that the legend as a whole was fixed as
-early as the time of Asoka." <span id="fr_1304"></span>[2](#fn_1304)
+early as the time of Asoka." <span id="fr_1304"></span>[2](#fn_1304.md)
 Some of the latest surveys of the problem end in an inference that the
 oldest elements in the legend consist of fragments of an ancient poem or
-poems embedded in the Pitakas. <span id="fr_1305"></span>[3](#fn_1305)
+poems embedded in the Pitakas. <span id="fr_1305"></span>[3](#fn_1305.md)
 The quasi-biographical colour further given to mythical details is on
 all fours with that of the legends of Joseph, Moses, Joshua, and Jesus,
 all late products of secondary mythology, in periods which
@@ -240,7 +240,7 @@ mother and a putative father and brothers; and it is in the latest
 gospel of all that we have some of the most circumstantial details of
 his life and deportment. There is even a case for the thesis that some
 of the characteristics of the Buddha are derived from sculptures which
-followed Greek models. <span id="fr_1306"></span>[4](#fn_1306)
+followed Greek models. <span id="fr_1306"></span>[4](#fn_1306.md)
 
 On these grounds, then, it is here submitted that the traditional figure
 of the Buddha, in its most plausibly rationalised form, is as unhistoric
@@ -264,7 +264,7 @@ ostensibly highest ethic than Christianity ever did; but Buddhism, being
 at best a gospel of monasticism, quietism, and mechanical routine,
 collapsed utterly in India, the land of its rise; and its normal
 practice savours little of moral or intellectual superiority to any of
-the creeds around it. <span id="fr_1307"></span>[1](#fn_1307)
+the creeds around it. <span id="fr_1307"></span>[1](#fn_1307.md)
 Brahmanism, which seems to have ultimately wrought its overthrow, set up
 in its place a revived and developed popular polytheism, on the plane of
 the most ignorant demotic life. Christianity, in turn, professedly the
@@ -298,63 +298,63 @@ revelations from the skies.
 
 ### Footnotes
 
-<span id="fn_1290"></span>[258:1](pch58.htm#fr_1290) É. Senart, *Essai
+<span id="fn_1290"></span>[258:1](pch58.htm#fr_1290.md) É. Senart, *Essai
 sur la légende de Buddha*, 2e édit. 1882, pp. xi-xii.
 
-<span id="fn_1291"></span>[259:1](pch58.htm#fr_1291) *Id*. pp. 441-3.
+<span id="fn_1291"></span>[259:1](pch58.htm#fr_1291.md) *Id*. pp. 441-3.
 
-<span id="fn_1292"></span>[259:2](pch58.htm#fr_1292) *Der Buddha*, 3te
+<span id="fn_1292"></span>[259:2](pch58.htm#fr_1292.md) *Der Buddha*, 3te
 Aufl. pp. 159-160, 180.
 
-<span id="fn_1293"></span>[259:3](pch58.htm#fr_1293) Cp. Baur's answer
+<span id="fn_1293"></span>[259:3](pch58.htm#fr_1293.md) Cp. Baur's answer
 to Rückert, *Paulus*, Kap. iv, note 2 (p. 417). And now Baur's own
 assumptions as to Paul are rejected by the school of van Manen.
 
-<span id="fn_1294"></span>[260:1](pch58.htm#fr_1294) I. p. Minayeff,
+<span id="fn_1294"></span>[260:1](pch58.htm#fr_1294.md) I. p. Minayeff,
 *Recherches sur le Bouddhisme*, trad. fr. 1894, p. 2.
 
-<span id="fn_1295"></span>[260:2](pch58.htm#fr_1295) Cp. Oldenberg's
+<span id="fn_1295"></span>[260:2](pch58.htm#fr_1295.md) Cp. Oldenberg's
 strictures on Minayeff, "Buddhistische Studien," in *Z. D. M. G.*. vol.
 lii, 1898.
 
-<span id="fn_1296"></span>[260:3](pch58.htm#fr_1296) Hib. Lect. p. 264.
+<span id="fn_1296"></span>[260:3](pch58.htm#fr_1296.md) Hib. Lect. p. 264.
 
-<span id="fn_1297"></span>[260:4](pch58.htm#fr_1297) Davids, *Early
+<span id="fn_1297"></span>[260:4](pch58.htm#fr_1297.md) Davids, *Early
 Buddhism*, 1908, pp. 29, 49; *Buddhist India*, p. 17; H. Hackmann,
 *Buddhism as a Religion*, 1909; Dr. Fleet, *Journ. Roy. Asiat. Soc.*,
 1906.
 
-<span id="fn_1298"></span>[261:1](pch58.htm#fr_1298) By M. Barth in the
+<span id="fn_1298"></span>[261:1](pch58.htm#fr_1298.md) By M. Barth in the
 *Journ. des Savants*, October, 1906.
 
-<span id="fn_1299"></span>[261:2](pch58.htm#fr_1299) Vincent Smith,
+<span id="fn_1299"></span>[261:2](pch58.htm#fr_1299.md) Vincent Smith,
 *Early History of India*, 1908, p. 14.
 
-<span id="fn_1300"></span>[261:3](pch58.htm#fr_1300) *Histoire du
+<span id="fn_1300"></span>[261:3](pch58.htm#fr_1300.md) *Histoire du
 Bouddhisme dans l’Inde*, 1901, i, 263-4; cp. p. 241.
 
-<span id="fn_1301"></span>[261:4](pch58.htm#fr_1301) Kern, i, 264.
+<span id="fn_1301"></span>[261:4](pch58.htm#fr_1301.md) Kern, i, 264.
 
-<span id="fn_1302"></span>[261:5](pch58.htm#fr_1302) Cp. I. p. Minayeff,
+<span id="fn_1302"></span>[261:5](pch58.htm#fr_1302.md) Cp. I. p. Minayeff,
 *Recherches sur le Bouddhisme*, trad. fr. 1894, pp. 157-180.
 
-<span id="fn_1303"></span>[262:1](pch58.htm#fr_1303) Senart, *Essai*, p.
+<span id="fn_1303"></span>[262:1](pch58.htm#fr_1303.md) Senart, *Essai*, p.
 448.
 
-<span id="fn_1304"></span>[262:2](pch58.htm#fr_1304) *Essai*, Introd.
+<span id="fn_1304"></span>[262:2](pch58.htm#fr_1304.md) *Essai*, Introd.
 pp. xxii-xxiii and p. 451.
 
-<span id="fn_1305"></span>[262:3](pch58.htm#fr_1305) Bishop Copleston,
+<span id="fn_1305"></span>[262:3](pch58.htm#fr_1305.md) Bishop Copleston,
 *Buddhism Primitive and Present*, ed. 1905, p. 53; Geiger, *Dipavamsa
 and Mahavamsa*, 1905, p. 11.
 
-<span id="fn_1306"></span>[262:4](pch58.htm#fr_1306) Bloch, "Einfluss
+<span id="fn_1306"></span>[262:4](pch58.htm#fr_1306.md) Bloch, "Einfluss
 der altbuddhistischen Kunst auf die Buddha-Legende." in *Z. D. M. G.*,
 1908, Heft 2, pp. 370-1.
 
-<span id="fn_1307"></span>[263:1](pch58.htm#fr_1307) Cp. Koeppen, *Die
+<span id="fn_1307"></span>[263:1](pch58.htm#fr_1307.md) Cp. Koeppen, *Die
 Religion des Buddha*, i, 565; Davids, *Buddhism*, pp. 210, 246-250.
 
 ------------------------------------------------------------------------
 
-[Next: § 14. The Problem of Manichæus](pch59)
+[Next: § 14. The Problem of Manichæus](pch59.md)

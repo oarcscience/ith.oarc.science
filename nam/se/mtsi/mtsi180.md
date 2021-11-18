@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi179)  [Next](mtsi181) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi179)  [Next](mtsi181.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ off as fast as possible.
 
 ------------------------------------------------------------------------
 
-[Next: 45. A Fight Between the Alabama and the Choctaw](mtsi181)
+[Next: 45. A Fight Between the Alabama and the Choctaw](mtsi181.md)

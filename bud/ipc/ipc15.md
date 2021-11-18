@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc14)  [Next](ipc16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc14)  [Next](ipc16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ Arâta Kâlâma, but his spiritual insight developed so rapidly that in a
 short time the Yogi offered to Buddha the arghya, the offering of rice,
 flowers, sesamun, etc., that the humble novice usually presents to his
 instructor, and asked him to teach instead of learning. <span
-id="fr_177"></span>[\*](#fn_176)
+id="fr_177"></span>[\*](#fn_176.md)
 
 <span class="small">THIRTY YEARS OF AGE.</span>
 
@@ -62,7 +62,7 @@ M. Ernest de Bunsen, in his work, "The Angel Messiah," says that Buddha,
 like Christ, commenced preaching at thirty years of age. He certainly
 must have preached at Vaisâlî, for five young men became his disciples
 there, and exhorted him to go on with his teaching. <span
-id="fr_178"></span>[†](#fn_177) He was twenty-nine when he left the
+id="fr_178"></span>[†](#fn_177.md) He was twenty-nine when he left the
 palace, therefore he might well have preached at thirty. He did not turn
 the wheel of the law until after a six years’ meditation under the Tree
 of Knowledge.
@@ -72,7 +72,7 @@ NIGHTS."</span>
 
 Buddha, immediately previous to his great encounter with Mâra, the
 tempter, fasted forty-nine days and nights. <span
-id="fr_179"></span>[‡](#fn_178)
+id="fr_179"></span>[‡](#fn_178.md)
 
 <span class="small">"COMMAND THAT THESE STONES BE MADE BREAD."</span>
 
@@ -82,7 +82,7 @@ hunger, as we have seen.
 <span class="small">THE TWELVE GREAT DISCIPLES.</span>
 
 "Except in my religion, the twelve great disciples are not to be
-found." <span id="fr_180"></span>[§](#fn_179) Speech by Buddha.
+found." <span id="fr_180"></span>[§](#fn_179.md) Speech by Buddha.
 
 <span id="page_202">p. 202</span>
 
@@ -92,13 +92,13 @@ One disciple was called Upatishya (the beloved disciple). In a former
 existence he and Maudgalyâyana had prayed that they might sit, the one
 on the right hand and the other on the left. Buddha granted this prayer.
 The other disciples murmured much. <span
-id="fr_181"></span>[\*](#fn_180)
+id="fr_181"></span>[\*](#fn_180.md)
 
 <span class="small">"GO YE INTO ALL THE WORLD."</span>
 
 From Benares Buddha sent forth the sixty-one disciples. "Go ye forth,"
 he said, "and preach Dharma, no two disciples going the same way." <span
-id="fr_182"></span>[†](#fn_181)
+id="fr_182"></span>[†](#fn_181.md)
 
 <span class="small">"THE SAME CAME TO JESUS BY NIGHT."</span>
 
@@ -110,7 +110,7 @@ Buddha by night, for fear of his rich relations.
 On one point I have been a little puzzled. The password of the Buddhist
 Wanderers was "Sadhu!" which does not seem to correspond with the "Pax
 Vobiscum!" (Matt. x. 13) of Christ's disciples. But I have just come
-across a passage in Renan, <span id="fr_183"></span>[‡](#fn_182) which
+across a passage in Renan, <span id="fr_183"></span>[‡](#fn_182.md) which
 shows that the Hebrew word was "Schalom!" (bonheur!) This is almost a
 literal translation of "Sadhu!"
 
@@ -120,7 +120,7 @@ ANOTHER."</span>
 "By love alone can we conquer wrath. By good alone can we conquer evil.
 The whole world dreads violence. All men tremble to the presence of
 death. Do to others that which ye would have them do to you. Kill not.
-Cause no death." <span id="fr_184"></span>[§](#fn_183)
+Cause no death." <span id="fr_184"></span>[§](#fn_183.md)
 
 <span id="page_203">p. 203</span>
 
@@ -151,7 +151,7 @@ Certain subtle questions were proposed to Buddha, such as:—"What will
 best conquer the evil passions of men?" "What is the most savoury gift
 for the alms-bowl of the mendicant?" "Where is true happiness to be
 found?" Buddha replied to them all with one word "Dharma" (the heavenly
-life). <span id="fr_185"></span>[\*](#fn_184)
+life). <span id="fr_185"></span>[\*](#fn_184.md)
 
 <span class="small">"WHOSOEVER SHALL SMITE THEE ON THY RIGHT CHEEK,
 OFFER HIM THE OTHER ALSO."</span>
@@ -175,13 +175,13 @@ they revile you what will you do?"
 
 "Death," said the missionary, "is no evil in itself. Many even desire it
 to escape from the vanities of life." <span
-id="fr_186"></span>[\*](#fn_185)
+id="fr_186"></span>[\*](#fn_185.md)
 
 <span class="small">BUDDHA'S THIRD COMMANDMENT.</span>
 
 "Commit no adultery." Commentary by Buddha: "This law is broken by even
 looking at the wife of another with a lustful mind." <span
-id="fr_187"></span>[†](#fn_186)
+id="fr_187"></span>[†](#fn_186.md)
 
 <span class="small">THE SOWER.</span>
 
@@ -190,14 +190,14 @@ Kasibhâradvaja, who reproved him for his idleness. Buddha answered thus:
 "I, too, plough and sow, and from my ploughing and sowing I reap
 immortal fruit. My field is religion. The weeds that I pluck up are the
 passions of cleaving to this life. My plough is wisdom, my seed
-purity." <span id="fr_188"></span>[‡](#fn_187)
+purity." <span id="fr_188"></span>[‡](#fn_187.md)
 
 On another occasion he described almsgiving as being like "good seed
 sown on a good soil that yields an abundance of fruits. But alms given
 to those who are yet under the tyrannical yoke of the passions are like
 a seed deposited in a bad soil. The passions of the receiver of the alms
 choke, as it were, the growth of merits." <span
-id="fr_189"></span>[§](#fn_188)
+id="fr_189"></span>[§](#fn_188.md)
 
 <span class="small">"NOT THAT WHICH GOETH INTO THE MOUTH DEFILETH A
 MAN."</span>
@@ -217,45 +217,45 @@ concealed therein day after day profits him nothing, but there is a
 treasure of charity, piety, temperance, soberness, a treasure secure,
 impregnable, that cannot pass away, a treasure that no thief can steal.
 Let the wise man practice Dharma. This is a treasure that follows him
-after death." <span id="fr_190"></span>[\*](#fn_189)
+after death." <span id="fr_190"></span>[\*](#fn_189.md)
 
 <span class="small">THE HOUSE ON THE SAND.</span>
 
 "It (the seen world) is like a city of sand. Its foundation cannot
-endure." <span id="fr_191"></span>[†](#fn_190)
+endure." <span id="fr_191"></span>[†](#fn_190.md)
 
 <span class="small">BLIND GUIDES.</span>
 
 "Who is not freed cannot free others. The blind cannot guide in the
-way." <span id="fr_192"></span>[‡](#fn_191)
+way." <span id="fr_192"></span>[‡](#fn_191.md)
 
 <span class="small">"AS YE SOW, SO SHALL YE REAP."</span>
 
 "As men sow, thus shall they reap." <span
-id="fr_193"></span>[§](#fn_192)
+id="fr_193"></span>[§](#fn_192.md)
 
 <span class="small">"A CUP OF COLD WATER TO ONE OF THESE LITTLE
 ONES."</span>
 
 "Whosoever piously bestows a little water shall receive an ocean in
-return." <span id="fr_194"></span>[+](#fn_193)
+return." <span id="fr_194"></span>[+](#fn_193.md)
 
 <span class="small">"BE NOT WEARY IN WELL-DOING."</span>
 
 "Not to be weary in well-doing." <span
-id="fr_195"></span>[\*\*](#fn_194)
+id="fr_195"></span>[\*\*](#fn_194.md)
 
 <span class="small">"GIVE TO HIM THAT ASKETH."</span>
 
 "Give to him that asketh, even though it be but a little." <span
-id="fr_196"></span>[††](#fn_195)
+id="fr_196"></span>[††](#fn_195.md)
 
 <span id="page_206">p. 206</span>
 
 <span class="small">"DO UNTO OTHERS," ETC.</span>
 
 "With pure thoughts and fulness of love I will do towards others what I
-do for myself." <span id="fr_197"></span>[\*](#fn_196)
+do for myself." <span id="fr_197"></span>[\*](#fn_196.md)
 
 <span class="small">"PREPARE YE THE WAY OF THE LORD!"</span>
 
@@ -264,7 +264,7 @@ been compared to Christ's entry into Jerusalem. Both, probably, never
 occurred, and only symbolise the advent of a Divine Being to earth. It
 is recorded in the Buddhist scriptures that on these occasions a
 "Precursor of Buddha" always appears. <span
-id="fr_198"></span>[†](#fn_197)
+id="fr_198"></span>[†](#fn_197.md)
 
 <span class="small">"WHO DID SIN, THIS MAN OR HIS PARENTS, THAT HE WAS
 BORN BLIND?"  
@@ -331,7 +331,7 @@ THE DITCH"
 "As when a string of blind men are clinging one to the other neither can
 the foremost see, nor the middle one see, nor the hindmost see. Just so,
 methinks, Vâsettha is the talk of the Brahmins, versed in the Three
-Vedas." <span id="fr_199"></span>[\*](#fn_198)
+Vedas." <span id="fr_199"></span>[\*](#fn_198.md)
 
 <span class="small">"EUNUCHS FOR THE KINGDOM OF HEAVEN'S SAKE."</span>
 
@@ -381,7 +381,7 @@ institutions of his country."
 Here also is a remarkable passage from an American writer:—
 
 "The anticosmic tendency of the Christian doctrine," says Mr. Felix
-Oswald, <span id="fr_200"></span>[\*](#fn_199) distinguishes it from all
+Oswald, <span id="fr_200"></span>[\*](#fn_199.md) distinguishes it from all
 religions except Buddhism. In the language of the New Testament the
 'world' is everywhere a synonym of evil and sin, the flesh everywhere
 the enemy of the spirit. . . . The gospel of Buddha though pernicious,
@@ -420,11 +420,11 @@ FLED."</span>
 
 It is recorded that on one occasion when a "must" elephant charged
 furiously, "all the disciples deserted Buddha. Ânanda alone
-remained." <span id="fr_201"></span>[\*](#fn_200)
+remained." <span id="fr_201"></span>[\*](#fn_200.md)
 
 <span class="small">"IF THE RIGHT EYE OFFEND THEE."</span>
 
-Mr. Felix Oswald <span id="fr_202"></span>[†](#fn_201) announces,
+Mr. Felix Oswald <span id="fr_202"></span>[†](#fn_201.md) announces,
 without, however, giving a more detailed reference, that according to
 Max Müller's translation of the "Ocean of Worlds," a young monk meets a
 rich woman, who pities his hard lot.
@@ -442,7 +442,7 @@ opinion.
 Certain villagers, hard of belief, were listening to Buddha on the shore
 of a mighty river. Suddenly by a miracle the great teacher caused a man
 to appear walking on the water from the other side, without immersing
-his feet. <span id="fr_203"></span>[\*](#fn_202)
+his feet. <span id="fr_203"></span>[\*](#fn_202.md)
 
 <span class="small">"AND, LO! THERE WAS A GREAT CALM."</span>
 
@@ -451,7 +451,7 @@ in a "black storm." But the guardian spirits of Pûrna informed him of
 this. He at once transported himself through the air from the distant
 inland town to the deck of the ship. "Immediately the black tempest
 ceased as if Sumeru had arrested it." <span
-id="fr_204"></span>[†](#fn_203)
+id="fr_204"></span>[†](#fn_203.md)
 
 <span class="small">"WHY EATETH YOUR MASTER WITH PUBLICANS AND
 SINNERS?"  
@@ -463,12 +463,12 @@ sparkling in emeralds, came and gave him a similar invitation. He
 refused. They were very angry to see him sit at meat with Amrapalî. He
 explained to his disciples that the harlot might enter the kingdom of
 Dharma more easily than the prince. <span
-id="fr_205"></span>[‡](#fn_204)
+id="fr_205"></span>[‡](#fn_204.md)
 
 <span class="small">THE PENITENT THIEF.</span>
 
 Buddha confronts a terrible bandit in his mountain retreat and converts
-him. <span id="fr_206"></span>[§](#fn_205)
+him. <span id="fr_206"></span>[§](#fn_205.md)
 
 <span class="small">"THERE WAS WAR IN HEAVEN."</span>
 
@@ -490,20 +490,20 @@ WENT AND SOLD ALL THAT HE HAD AND BOUGHT IT"
 The most sacred emblem of Buddhism is called the maṇi (pearl), and in
 the Chinese biography a merchant seeking goodly pearls finds it, and
 unfortunately drops it into the sea. Rather than lose it he tries to
-drain the sea dry. <span id="fr_207"></span>[\*](#fn_206)
+drain the sea dry. <span id="fr_207"></span>[\*](#fn_206.md)
 
 <span class="small">THE VOICE FROM THE SKY.</span>
 
 This sounds often in the Buddhist narratives. <span
-id="fr_208"></span>[†](#fn_207)
+id="fr_208"></span>[†](#fn_207.md)
 
 <span class="small">FAITH.</span>
 
 "Faith is the first gate of the Law." <span
-id="fr_209"></span>[‡](#fn_208)
+id="fr_209"></span>[‡](#fn_208.md)
 
 "All who have faith in me obtain a mighty joy." <span
-id="fr_210"></span>[§](#fn_209)
+id="fr_210"></span>[§](#fn_209.md)
 
 <span class="small">"THOU ART NOT YET FIFTY YEARS OLD, AND HAST THOU
 SEEN ABRAHAM?"</span>
@@ -538,7 +538,7 @@ preach to the spirits in prison and to convert his mother. When he came
 down from the mountain (Mienmo), a staircase of glittering diamonds,
 seen by all, helped his descent. His appearance was blinding. The "six
 glories" glittered on his person. Mortals and spirits hymned the benign
-Being who emptied the hells. <span id="fr_211"></span>[\*](#fn_210)
+Being who emptied the hells. <span id="fr_211"></span>[\*](#fn_210.md)
 
 In the "Gospel according to the Hebrews" is a curious passage which Baur
 and Hilgenfeld hold to be the earliest version of the Transfiguration
@@ -557,7 +557,7 @@ did not like the universalism inculcated in the Buddhist narrative.
 In a vihâra at Gândhâra was a monk so loathsome and stinking, on account
 of his maladies, that none of his brother disciples dare go near him.
 The great Teacher came and tended him lovingly and washed his
-feet. <span id="fr_212"></span>[\*](#fn_211)
+feet. <span id="fr_212"></span>[\*](#fn_211.md)
 
 <span class="small">THE GREAT BANQUET OF BUDDHA.</span>
 
@@ -569,7 +569,7 @@ of benefits, conformity of benefits.
 <span class="small">BAPTISM.</span>
 
 In a Chinese life of Buddha by Wung Puh, <span
-id="fr_213"></span>[†](#fn_212) it is announced that Buddha at Vaisâlî
+id="fr_213"></span>[†](#fn_212.md) it is announced that Buddha at Vaisâlî
 delivered a Sûtra entitled "The Baptism that Rescues from Life and Death
 and confers Salvation."
 
@@ -584,7 +584,7 @@ himself. Suddenly fierce flames burst out, and he was carried down to
 the hell Avîchi (the Rayless Place). There, in a red-hot cauldron,
 impaled by one red bar and pierced by two others, he will stay for a
 whole Kalpa. Then he will be forgiven." <span
-id="fr_214"></span>[‡](#fn_213)
+id="fr_214"></span>[‡](#fn_213.md)
 
 <span id="page_215">p. 215</span>
 
@@ -592,7 +592,7 @@ id="fr_214"></span>[‡](#fn_213)
 
 Buddha had his last supper or repast with his disciples. A treacherous
 disciple changed his alms-bowl, and apparently he was poisoned. <span
-id="fr_215"></span>[\*](#fn_214) Fierce pains seized him as he journeyed
+id="fr_215"></span>[\*](#fn_214.md) Fierce pains seized him as he journeyed
 afterwards. He was forced to rest. He sent a message to his host, Kunda,
 the son of the jeweller, to feel no remorse although the feast had been
 his death. Under two trees he now died.
@@ -610,7 +610,7 @@ an astounding event could not have escaped Josephus and Tacitus. When
 Buddha died, the "sun and moon withdrew their shining," and dust and
 ashes fell like rain. "The great earth quaked throughout. The crash of
 the thunder shook the heavens and the earth, rolling along the mountains
-and valleys." <span id="fr_216"></span>[†](#fn_215) The Buddhist account
+and valleys." <span id="fr_216"></span>[†](#fn_215.md) The Buddhist account
 is certainly not impossible, for the chronicler takes advantage of the
 phenomena of an Indian dust-storm to produce his dark picture. At
 Lucknow, before the siege, I remember a storm so dense at midday that
@@ -621,7 +621,7 @@ AROSE."</span>
 
 When Buddha died at Kusinâgara, Ânanda and another disciple saw many
 denizens of the unseen world in the city, by the river Yigdan. <span
-id="fr_217"></span>[‡](#fn_216)
+id="fr_217"></span>[‡](#fn_216.md)
 
 <span id="page_216">p. 216</span>
 
@@ -645,7 +645,7 @@ went to the sepulchre of Jesus to "place themselves beside him and
 perform the rites" of wailing, beating breasts, etc. Amrapalî and other
 courtesans did the same rites to Buddha, and the disciples were
 afterwards indignant that impure women should have "washed his dead body
-with their tears." <span id="fr_218"></span>[\*](#fn_217)
+with their tears." <span id="fr_218"></span>[\*](#fn_217.md)
 
 In the Christian records are three passages, all due, I think, to the
 Buddhist narrative. In one, "a woman" anoints Jesus; in John (xii. 7),
@@ -658,15 +658,15 @@ alive and in health.
 
 <span class="small">"THEY PARTED MY GARMENTS."</span>
 
-The Abbé Huc tells us <span id="fr_219"></span>[\*](#fn_218) that on the
+The Abbé Huc tells us <span id="fr_219"></span>[\*](#fn_218.md) that on the
 death of the Bokté Lama, his garments are cut into little strips and
 prized immensely.
 
 <span class="small">"HE APPEARED UNTO MANY."</span>
 
 "Buddha prophesied that he would appear after his death." <span
-id="fr_220"></span>[†](#fn_219) In a Chinese version quoted by
-Eitel, <span id="fr_221"></span>[‡](#fn_220) Buddha, to soothe his
+id="fr_220"></span>[†](#fn_219.md) In a Chinese version quoted by
+Eitel, <span id="fr_221"></span>[‡](#fn_220.md) Buddha, to soothe his
 mother, who had come down weeping from the skies, opens his coffin lid
 and appears to her. In the temple sculptures he is constantly depicted
 coming down to the altar during worship.
@@ -682,7 +682,7 @@ in the centre of a great hall, and is surmounted by a white canopy.
 Round the great throne are seated heavenly ministers, who record men's
 actions in a "golden book." A mighty tree is conspicuous in the garden.
 In the Chinese heaven is the "Gem Lake," by which stands the peach-tree,
-whose fruit gives immortality. <span id="fr_222"></span>[§](#fn_221)
+whose fruit gives immortality. <span id="fr_222"></span>[§](#fn_221.md)
 
 <span class="small">THE ATONEMENT.</span>
 
@@ -699,7 +699,7 @@ temples and monks, this doctrine of Karma was the life-blood. It was
 proclaimed that Buddha had a vast stock of superfluous Karma, and that
 offerings at a temple might cause the worshipper in his next life to be
 a prince instead of a pig or a coolie. In the "Lalita Vistara" <span
-id="fr_223"></span>[\*](#fn_222) it is announced that when Buddha
+id="fr_223"></span>[\*](#fn_222.md) it is announced that when Buddha
 overcame Mâra, all flesh rejoiced, the blind saw, the deaf heard, the
 dumb spake, the hells were cleared, and all by reason of Buddha's Karma
 in previous lives.
@@ -721,131 +721,131 @@ iii. 25).
 
 ### Footnotes
 
-<span id="fn_176"></span>[201:\*](ipc15.htm#fr_177) Foucaux, "Lalita
+<span id="fn_176"></span>[201:\*](ipc15.htm#fr_177.md) Foucaux, "Lalita
 Vistara," p. 228.
 
-<span id="fn_177"></span>[201:†](ipc15.htm#fr_178) Foucaux, "Lalita
+<span id="fn_177"></span>[201:†](ipc15.htm#fr_178.md) Foucaux, "Lalita
 Vistara," p. 236.
 
-<span id="fn_178"></span>[201:‡](ipc15.htm#fr_179) Chinese Life," by
+<span id="fn_178"></span>[201:‡](ipc15.htm#fr_179.md) Chinese Life," by
 Wung Puh.
 
-<span id="fn_179"></span>[201:§](ipc15.htm#fr_180) "Bigandet," p. 301.
+<span id="fn_179"></span>[201:§](ipc15.htm#fr_180.md) "Bigandet," p. 301.
 
-<span id="fn_180"></span>[202:\*](ipc15.htm#fr_181) Bigandet, p. 153.
+<span id="fn_180"></span>[202:\*](ipc15.htm#fr_181.md) Bigandet, p. 153.
 
-<span id="fn_181"></span>[202:†](ipc15.htm#fr_182) *Ibid*, p. 126.
+<span id="fn_181"></span>[202:†](ipc15.htm#fr_182.md) *Ibid*, p. 126.
 
-<span id="fn_182"></span>[202:‡](ipc15.htm#fr_183) "Les Apôtres," p. 22.
+<span id="fn_182"></span>[202:‡](ipc15.htm#fr_183.md) "Les Apôtres," p. 22.
 
-<span id="fn_183"></span>[202:§](ipc15.htm#fr_184) "Sûtra of Forty-two
+<span id="fn_183"></span>[202:§](ipc15.htm#fr_184.md) "Sûtra of Forty-two
 Sections," v. 129.
 
-<span id="fn_184"></span>[203:\*](ipc15.htm#fr_185) "Bigandet," p. 225.
+<span id="fn_184"></span>[203:\*](ipc15.htm#fr_185.md) "Bigandet," p. 225.
 
-<span id="fn_185"></span>[204:\*](ipc15.htm#fr_186) "Bigandet," p. 216.
+<span id="fn_185"></span>[204:\*](ipc15.htm#fr_186.md) "Bigandet," p. 216.
 
-<span id="fn_186"></span>[204:†](ipc15.htm#fr_187) Buddhaghosa's
+<span id="fn_186"></span>[204:†](ipc15.htm#fr_187.md) Buddhaghosa's
 "Parables," by Max Müller and Rodgers, p. 153.
 
-<span id="fn_187"></span>[204:‡](ipc15.htm#fr_188) "Hardy" "Manual," p.
+<span id="fn_187"></span>[204:‡](ipc15.htm#fr_188.md) "Hardy" "Manual," p.
 215.
 
-<span id="fn_188"></span>[204:§](ipc15.htm#fr_189) "Bigandet," p. 211.
+<span id="fn_188"></span>[204:§](ipc15.htm#fr_189.md) "Bigandet," p. 211.
 
-<span id="fn_189"></span>[205:\*](ipc15.htm#fr_190) "Khuddaka Pâtha," p.
+<span id="fn_189"></span>[205:\*](ipc15.htm#fr_190.md) "Khuddaka Pâtha," p.
 13.
 
-<span id="fn_190"></span>[205:†](ipc15.htm#fr_191) "Lalita Vistara," p.
+<span id="fn_190"></span>[205:†](ipc15.htm#fr_191.md) "Lalita Vistara," p.
 172.
 
-<span id="fn_191"></span>[205:‡](ipc15.htm#fr_192) *Ibid*, p. 199.
+<span id="fn_191"></span>[205:‡](ipc15.htm#fr_192.md) *Ibid*, p. 199.
 
-<span id="fn_192"></span>[205:§](ipc15.htm#fr_193)
+<span id="fn_192"></span>[205:§](ipc15.htm#fr_193.md)
 "Ta-chwang-yan-king-lun," serm. 57.
 
-<span id="fn_193"></span>[205:+](ipc15.htm#fr_194) *Ibid*, serm. 20.
+<span id="fn_193"></span>[205:+](ipc15.htm#fr_194.md) *Ibid*, serm. 20.
 
-<span id="fn_194"></span>[205:\*\*](ipc15.htm#fr_195) "Mahâmangala
+<span id="fn_194"></span>[205:\*\*](ipc15.htm#fr_195.md) "Mahâmangala
 Sutta," ver. 7.
 
-<span id="fn_195"></span>[205:††](ipc15.htm#fr_196) "Udânavarga," chap.
+<span id="fn_195"></span>[205:††](ipc15.htm#fr_196.md) "Udânavarga," chap.
 xx., ver. 15.
 
-<span id="fn_196"></span>[206:\*](ipc15.htm#fr_197) "Lalita Vistara."
+<span id="fn_196"></span>[206:\*](ipc15.htm#fr_197.md) "Lalita Vistara."
 Chap. v.
 
-<span id="fn_197"></span>[206:†](ipc15.htm#fr_198) "Bigandet," p. 147.
+<span id="fn_197"></span>[206:†](ipc15.htm#fr_198.md) "Bigandet," p. 147.
 
-<span id="fn_198"></span>[208:\*](ipc15.htm#fr_199) Buddha, in the
+<span id="fn_198"></span>[208:\*](ipc15.htm#fr_199.md) Buddha, in the
 "Tevigga Sutta," I., 15.
 
-<span id="fn_199"></span>[209:\*](ipc15.htm#fr_200) "Secret of the
+<span id="fn_199"></span>[209:\*](ipc15.htm#fr_200.md) "Secret of the
 East," p. 27.
 
-<span id="fn_200"></span>[210:\*](ipc15.htm#fr_201)
+<span id="fn_200"></span>[210:\*](ipc15.htm#fr_201.md)
 "Fo-sho-hing-tsan-king, IV., 21.
 
-<span id="fn_201"></span>[210:†](ipc15.htm#fr_202) "Chinese Dhammapada,"
+<span id="fn_201"></span>[210:†](ipc15.htm#fr_202.md) "Chinese Dhammapada,"
 p. 51.
 
-<span id="fn_202"></span>[211:\*](ipc15.htm#fr_203) "The Secret of the
+<span id="fn_202"></span>[211:\*](ipc15.htm#fr_203.md) "The Secret of the
 East," p. 134.
 
-<span id="fn_203"></span>[211:†](ipc15.htm#fr_204) Burnouf,
+<span id="fn_203"></span>[211:†](ipc15.htm#fr_204.md) Burnouf,
 "Introduction," p. 229.
 
-<span id="fn_204"></span>[211:‡](ipc15.htm#fr_205) "Bigandet," p. 251.
+<span id="fn_204"></span>[211:‡](ipc15.htm#fr_205.md) "Bigandet," p. 251.
 
-<span id="fn_205"></span>[211:§](ipc15.htm#fr_206) "Chinese Dhammapada,"
+<span id="fn_205"></span>[211:§](ipc15.htm#fr_206.md) "Chinese Dhammapada,"
 p. 98.
 
-<span id="fn_206"></span>[212:\*](ipc15.htm#fr_207) "Rom. Hist., p. 228.
+<span id="fn_206"></span>[212:\*](ipc15.htm#fr_207.md) "Rom. Hist., p. 228.
 
-<span id="fn_207"></span>[212:†](ipc15.htm#fr_208) See Beal, "Rom.
+<span id="fn_207"></span>[212:†](ipc15.htm#fr_208.md) See Beal, "Rom.
 Hist.," p. 105.
 
-<span id="fn_208"></span>[212:‡](ipc15.htm#fr_209) "Lalita Vistara," p.
+<span id="fn_208"></span>[212:‡](ipc15.htm#fr_209.md) "Lalita Vistara," p.
 39.
 
-<span id="fn_209"></span>[212:§](ipc15.htm#fr_210) *Ibid*, p. 188.
+<span id="fn_209"></span>[212:§](ipc15.htm#fr_210.md) *Ibid*, p. 188.
 
-<span id="fn_210"></span>[213:\*](ipc15.htm#fr_211) "Bigandet," p. 209.
+<span id="fn_210"></span>[213:\*](ipc15.htm#fr_211.md) "Bigandet," p. 209.
 
-<span id="fn_211"></span>[214:\*](ipc15.htm#fr_212) "Chinese Dhammapada,
+<span id="fn_211"></span>[214:\*](ipc15.htm#fr_212.md) "Chinese Dhammapada,
 p. 94.
 
-<span id="fn_212"></span>[214:†](ipc15.htm#fr_213) See Beal, "Journ. As.
+<span id="fn_212"></span>[214:†](ipc15.htm#fr_213.md) See Beal, "Journ. As.
 Soc.," Vol. XX., p. 172.
 
-<span id="fn_213"></span>[214:‡](ipc15.htm#fr_214) "Bigandet," p. 244.
+<span id="fn_213"></span>[214:‡](ipc15.htm#fr_214.md) "Bigandet," p. 244.
 
-<span id="fn_214"></span>[215:\*](ipc15.htm#fr_215) See Rockhill's,
+<span id="fn_214"></span>[215:\*](ipc15.htm#fr_215.md) See Rockhill's,
 "Buddha," p. 133
 
-<span id="fn_215"></span>[215:†](ipc15.htm#fr_216)
+<span id="fn_215"></span>[215:†](ipc15.htm#fr_216.md)
 "Fo-sho-hing-tsan-king," v. 26.
 
-<span id="fn_216"></span>[215:‡](ipc15.htm#fr_217) Rockhill's "Life of
+<span id="fn_216"></span>[215:‡](ipc15.htm#fr_217.md) Rockhill's "Life of
 the Buddha," p. 133.
 
-<span id="fn_217"></span>[216:\*](ipc15.htm#fr_218) Rockhill, "Thibetan
+<span id="fn_217"></span>[216:\*](ipc15.htm#fr_218.md) Rockhill, "Thibetan
 Life," p. 153.
 
-<span id="fn_218"></span>[217:\*](ipc15.htm#fr_219) "Voyages," II., p.
+<span id="fn_218"></span>[217:\*](ipc15.htm#fr_219.md) "Voyages," II., p.
 278.
 
-<span id="fn_219"></span>[217:†](ipc15.htm#fr_220) "Lotus," p. 144.
+<span id="fn_219"></span>[217:†](ipc15.htm#fr_220.md) "Lotus," p. 144.
 
-<span id="fn_220"></span>[217:‡](ipc15.htm#fr_221) "Three Lectures," p.
+<span id="fn_220"></span>[217:‡](ipc15.htm#fr_221.md) "Three Lectures," p.
 57.
 
-<span id="fn_221"></span>[217:§](ipc15.htm#fr_222) See illustrations to
+<span id="fn_221"></span>[217:§](ipc15.htm#fr_222.md) See illustrations to
 my "Buddhism in Christendom."
 
-<span id="fn_222"></span>[218:\*](ipc15.htm#fr_223) Chinese version, p.
+<span id="fn_222"></span>[218:\*](ipc15.htm#fr_223.md) Chinese version, p.
 225.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Rites](ipc16)
+[Next: Chapter XIII. Rites](ipc16.md)

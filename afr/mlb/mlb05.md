@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb04)  [Next](mlb06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb04)  [Next](mlb06.md) 
 
 ------------------------------------------------------------------------
 
@@ -353,4 +353,4 @@ and we shall come to his legend later on, in Chapter VIII.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Heaven Country and the Heaven People](mlb06)
+[Next: Chapter IV: The Heaven Country and the Heaven People](mlb06.md)

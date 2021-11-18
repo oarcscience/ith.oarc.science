@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr13)  [Next](wnr15) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr13)  [Next](wnr15.md) 
 
 ------------------------------------------------------------------------
 
@@ -285,4 +285,4 @@ mankind.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Battalions Of Unwanted Babies The Cause Of War](wnr15)
+[Next: XIII. Battalions Of Unwanted Babies The Cause Of War](wnr15.md)

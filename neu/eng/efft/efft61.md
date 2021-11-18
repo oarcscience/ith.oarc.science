@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft60)  [Next](efft62) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft60)  [Next](efft62.md) 
 
 ------------------------------------------------------------------------
 
-# THE WHITE LADY OF BLENKINSOPP  <span id="fr_70"></span>[1](#fn_70)
+# THE WHITE LADY OF BLENKINSOPP  <span id="fr_70"></span>[1](#fn_70.md)
 
 LIKE almost all the old Northumbrian castles and peels, Blenkinsopp has
 the reputation of being haunted. A gloomy vault under the castle is said
@@ -106,9 +106,9 @@ her own room.
 
 ### Footnotes
 
-<span id="fn_70"></span>[1](efft61.htm#fr_70) *Monthly Chronicle of
+<span id="fn_70"></span>[1](efft61.htm#fr_70.md) *Monthly Chronicle of
 North-Country Lore and Legend,* March 1888, p. 105.
 
 ------------------------------------------------------------------------
 
-[Next: The Haunted Widower](efft62)
+[Next: The Haunted Widower](efft62.md)

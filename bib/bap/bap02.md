@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap01) 
-[Next](bap03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap01.md) 
+[Next](bap03.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ thought of the Jews of its time.
 
 ------------------------------------------------------------------------
 
-[Next: 2. History of the Book](bap03)
+[Next: 2. History of the Book](bap03.md)

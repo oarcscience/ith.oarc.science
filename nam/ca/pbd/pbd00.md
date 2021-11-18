@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Next](pbd01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Next](pbd01.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ Vol. 12, No. 11, pp. 443-465, plate 7 July 11, 1917
 <span id="img_cover"></span>
 
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 
 PLATE 7
@@ -42,7 +42,7 @@ PLATE 7
 
 [![POMO BEAR DOCTOR'S SUIT&lt;br&gt; MODEL IN PEABODY
 MUSEUM](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 POMO BEAR DOCTOR'S SUIT  
 MODEL IN PEABODY MUSEUM  
 
@@ -54,4 +54,4 @@ attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](pbd01)
+[Next: Contents](pbd01.md)

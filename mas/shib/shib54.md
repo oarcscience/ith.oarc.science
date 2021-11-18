@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib53)  [Next](shib55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib53)  [Next](shib55.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ and Prelate's Hall, during the conferring of the Order of the Temple.
 
 <span id="img_20400"></span> <span align="CENTER"> [![Templar Hall,
 alternate arrangement](tn/20400.jpg)  
-Click to enlarge](img/20400.jpg)  
+Click to enlarge](img/20400.jpg.md)  
   
 </span>
 
@@ -39,4 +39,4 @@ there is a large Prelate's Hall separate from the Asylum.
 
 ------------------------------------------------------------------------
 
-[Next: Hints on Templar Banquets](shib55)
+[Next: Hints on Templar Banquets](shib55.md)

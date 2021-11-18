@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw14)  [Next](tnw16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw14)  [Next](tnw16.md) 
 
 ------------------------------------------------------------------------
 
@@ -396,4 +396,4 @@ is stronger than the material dynamite. It is alive. It will grow.
 
 ------------------------------------------------------------------------
 
-[Next: 15. Biology: The Elf](tnw16)
+[Next: 15. Biology: The Elf](tnw16.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo44)  [Next](hoo46) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo44)  [Next](hoo46.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ Thy mystic suppliant bless, with fav'ring mind.
 
 ------------------------------------------------------------------------
 
-[Next: XLI: To Mises](hoo46)
+[Next: XLI: To Mises](hoo46.md)

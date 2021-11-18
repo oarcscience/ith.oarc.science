@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao24)   
-[Previous](tao23)  [Next](tao25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao24.md)   
+[Previous](tao23)  [Next](tao25.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ He will avoid thinking of himself and will remain humble at heart.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 25](tao25)
+[Next: Chapter 25](tao25.md)

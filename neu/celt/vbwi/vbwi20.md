@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi19)  [Next](vbwi21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi19)  [Next](vbwi21.md) 
 
 ------------------------------------------------------------------------
 
@@ -340,4 +340,4 @@ help of the devil "who was the friend of all ingenious gentlemen."
 
 ------------------------------------------------------------------------
 
-[Next: Swedenborg, Mediums and the Desolate Places (W.B. Yeats)](vbwi21)
+[Next: Swedenborg, Mediums and the Desolate Places (W.B. Yeats)](vbwi21.md)

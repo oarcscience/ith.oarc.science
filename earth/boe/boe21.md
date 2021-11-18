@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe20)  [Next](boe22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe20)  [Next](boe22.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ which
 Indicopleustes&lt;/i&gt; (&lt;i&gt;6th century A.D.&lt;/i&gt;)&lt;br&gt;
 (From &lt;i&gt;Flammarion's Astronomical Myths&lt;/i&gt;,
 1877.)](tn/fig077.jpg)  
-Click to enlarge](img/fig077.jpg)  
+Click to enlarge](img/fig077.jpg.md)  
 FIGURE 77. *The Square Earth of Cosmas Indicopleustes* (*6th century
 A.D.*)  
 (From *Flammarion's Astronomical Myths*, 1877.)  
@@ -58,7 +58,7 @@ in form like half
 [![FIGURE 78. &lt;i&gt;The Square Earth. Its habitable
 plane&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Flammarion's Astronomical
 Myths&lt;/i&gt;, 1877.)](tn/fig078.jpg)  
-Click to enlarge](img/fig078.jpg)  
+Click to enlarge](img/fig078.jpg.md)  
 FIGURE 78. *The Square Earth. Its habitable plane*.  
 (From *Flammarion's Astronomical Myths*, 1877.)  
 
@@ -84,7 +84,7 @@ established heaven as a vault*. With regard moreover to the glueing
 together of the heaven and the Earth, we find this written in Job: *He
 has inclined heaven to earth, and it has been poured out as the dust of
 the earth. I have welded it as a square block of stone*." <span
-id="fr_13"></span>[1](#fn_13)
+id="fr_13"></span>[1](#fn_13.md)
 
 The interior of this "oblong vaulted vapour bath" consists, like the
 Tabernacle, of two parts, the outer and the inner--the veil of the
@@ -162,9 +162,9 @@ which the ocean is surrounded."
 
 ### Footnotes
 
-<span id="fn_13"></span>[182:1](boe21.htm#fr_13) *Christian Topography
+<span id="fn_13"></span>[182:1](boe21.htm#fr_13.md) *Christian Topography
 of Cosmas Indicopleustes*: Hakluyt Soc. Pub. 1897, p. 30.
 
 ------------------------------------------------------------------------
 
-[Next: The Peruvian Universe](boe22)
+[Next: The Peruvian Universe](boe22.md)

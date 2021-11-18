@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo09)  [Next](aoo11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo09)  [Next](aoo11.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ city.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](aoo11)
+[Next: Chapter XI](aoo11.md)

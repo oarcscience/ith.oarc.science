@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tigs07)  [Next](tigs09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tigs07)  [Next](tigs09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *True Irish Ghost Stories*, by St. John D. Seymour and Harry L. Neligan,
 \[1914\], at Intangible Textual Heritage
 
@@ -592,7 +592,7 @@ was
 gone, and I again became sensible of the heat and sunshine, but I was
 awed, and felt eerie. This happened about June 25, and on July 3 a Mr.
 —, a bank clerk, committed suicide by drowning himself in the
-lake." <span id="fr_8"></span>[1](#fn_8)
+lake." <span id="fr_8"></span>[1](#fn_8.md)
 
 The following incident occurred in the United States, but, as it is
 closely connected with this country, it will not seem out of place to
@@ -630,9 +630,9 @@ died that I had seen her."
 
 ### Footnotes
 
-<span id="fn_8"></span>[173:1](tigs08.htm#fr_8) *Proceedings S.P.R.*, x.
+<span id="fn_8"></span>[173:1](tigs08.htm#fr_8.md) *Proceedings S.P.R.*, x.
 332.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Banshees, and Other Death-Warnings](tigs09)
+[Next: Chapter VII. Banshees, and Other Death-Warnings](tigs09.md)

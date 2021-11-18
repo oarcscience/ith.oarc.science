@@ -1,5 +1,5 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/aac)  [Next](../alc/alc) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/aac)  [Next](../alc/alc.md) 
 
 ------------------------------------------------------------------------
 
@@ -6008,4 +6008,4 @@ Index](../index)  [First Folio](../ff/aac)  [Next](../alc/alc) 
 
 ------------------------------------------------------------------------
 
-[Next: A Lovers' Complaint](../alc/alc) 
+[Next: A Lovers' Complaint](../alc/alc.md) 

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc14) 
-[Next](dsc16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc14.md) 
+[Next](dsc16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -87,7 +87,7 @@ The law of evolution is Manifestation. There are two paths. The one is
 revolving away." The vast mass of humanity are treading the former. The
 powers of the soul must be turned outwards, focused upon the external
 world, in order that it may acquire a knowledge of it. The soul is
-[embosomed](errata.htm#14) in rapture. It is ever inward-turned. In
+[embosomed](errata.htm#14.md) in rapture. It is ever inward-turned. In
 order that it may wake up from its latent condition and find expression
 physically, it must be impinged upon by pain. If there be a continued
 influx of streams of bliss, no power would manifest.
@@ -104,7 +104,7 @@ impression left upon the memory, the fiercer the out-put of soul energy.
 When it is a gentle twinge only, the soul turns over like the proverbial
 sleepy boy and forgets it instantly. You repeat your folly. Now our
 psychology fixes itself ever on the ultimate analysis of fact. Hence
-Vyasa in his commentary on [Patanjali](errata.htm#15) gives pain the
+Vyasa in his commentary on [Patanjali](errata.htm#15.md) gives pain the
 first seat as an important factor that goes to build up the Causal
 Body—the *Karana Sharira*, or the receptacle in which lie all the seeds
 of actions—the proper development of which blazes the way to
@@ -113,7 +113,7 @@ Self-realisation.
 The first and most important function of pain is to call out the
 activity-aspect of the soul. Remember it has no permanent place. Take
 your cue and learn to love exertion, and pain shall not come. The next
-function of pain is to establish [rhythmic](errata.htm#16) conditions in
+function of pain is to establish [rhythmic](errata.htm#16.md) conditions in
 the physical form. It organises the body aright. I have told you in my
 paper on "Man's Divine Heritage" how the transition to peace must always
 be through struggle and painful fighting. Says the Lord Sri Krishna in
@@ -123,14 +123,14 @@ end, that happiness is declared
 <span id="page_105">p. 105</span>
 
 <span class="contnote">\[paragraph continues\]</span> Satvic, born of
-the [translucence](errata.htm#17) of the intellect due to
+the [translucence](errata.htm#17.md) of the intellect due to
 Self-realisation. 2. That which arises from the contact of object with
 sense, at first like nectar, but at the end like poison, that happiness
 is declared to be Rajasic. 3. That happiness which begins and ends in
 self-delusion arising from sleep, indolence and miscomprehension, that
 is declared to be Tamasic. 4. There is no entity on earth, or again in
 heaven among the Devas that is devoid of these three Gunas, born of
-[Prakriti](errata.htm#18). 5. Control of mind and senses, austerity,
+[Prakriti](errata.htm#18.md). 5. Control of mind and senses, austerity,
 purity, forbearance, and also uprightness, knowledge, realisation,
 belief in the hereafter—these are the ways of the Satvic.
 
@@ -277,7 +277,7 @@ are such staunch believers in nourishment and nutrition could hardly
 believe the Swami Dharmananda Mahavarati when he says: In the beginning
 of the year 18.. I formed the acquaintance of a Yogi who was then in his
 260th year. In another year on my way from Afghanistan I was highly
-delighted at seeing a [Jain](errata.htm#19) woman (a Yogini) whose age
+delighted at seeing a [Jain](errata.htm#19) woman (a Yogini.md) whose age
 could be ascertained from her eyelashes which grew again but had not
 turned grey. She was about 500 years old! Barth on yoga exercises says
 "I conscientiously observed they can only end in folly and idiocy."
@@ -304,4 +304,4 @@ follow. In the meantime fear not."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Conquest of Fear](dsc16)
+[Next: Chapter XIV. Conquest of Fear](dsc16.md)

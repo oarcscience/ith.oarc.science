@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva06)  [Next](rva08) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva06)  [Next](rva08.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### VII. Mimixcoa icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Chicomoztoc quinexaqui, çani aueponi, çani, çani, teyomi.
 
@@ -94,4 +94,4 @@ and appears to be a poetic license.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Hymn to the God of Flowers.](rva08) 
+[Next: VIII. Hymn to the God of Flowers.](rva08.md) 

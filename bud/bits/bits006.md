@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits005) [Next](bits007)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits005) [Next](bits007.md)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ retirement from the world. The thought of retiring from the world was a
 pleasing one to the Future Buddha, and this day he went on until he came
 to the park. The repeaters of the Dîgha,<span
 id="page_57_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_57_note_1) however, say that he went
+class="small">1</span></sup>](#page_57_note_1.md) however, say that he went
 to the park after having seen all the Four Signs on one and the same
 day.
 
@@ -176,7 +176,7 @@ passions and torments are extinct, that is Nirvana. She has taught me a
 good lesson. Certainly, Nirvana is what I am looking for. It behooves me
 this very day to quit the household life, and to retire from the world
 in quest of Nirvana.<span id="page_59_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_59_note_1) I will send this lady a
+class="small">1</span></sup>](#page_59_note_1.md) I will send this lady a
 teacher's fee." And
 
 |                                 |                                                  |
@@ -225,7 +225,7 @@ called out,--
    "Master, it is I, Channa," replied the courtier who had been sleeping
 with his head on the threshold.<span
 id="page_61_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_61_note_1)
+class="small">1</span></sup>](#page_61_note_1.md)
 
    "I wish to go forth on the Great Retirement to-day. Saddle a horse
 for me."
@@ -320,7 +320,7 @@ persons would have accomplished that whereof he thought; but the
 divinity that inhabited the gate opened it for them.
 
    At this moment came Mâra,<span id="page_63_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_63_note_1) with the intention of
+class="small">1</span></sup>](#page_63_note_1.md) with the intention of
 persuading
 
 |                                 |                                                  |
@@ -349,13 +349,13 @@ shadow, he followed after, ever on the watch for some slip.
 sovereignty already in his grasp,--spewing it out as if it were but
 phlegm,--departed from the city in great splendor on the full-moon day
 of the month Âsâlhi,<span id="page_64_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_64_note_1) when the moon was in
+class="small">1</span></sup>](#page_64_note_1.md) when the moon was in
 Libra. And when he had gone out from the city, he became desirous of
 looking back at it; but no sooner had the thought arisen in his mind,
 than the broad earth, seeming to fear lest the Great Being might neglect
 to perform the act of looking back, split and turned round like a
 potter's wheel.<span id="page_64_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_64_note_2) When the Future Buddha
+class="small">2</span></sup>](#page_64_note_2.md) When the Future Buddha
 had stood a while facing the city and gazing upon it, and had indicated
 in that place the spot for the "Shrine of the Turning Back of Kanthaka,"
 he turned Kanthaka in the direction in which he meant to go, and
@@ -402,7 +402,7 @@ was greatly delayed. Hence it was that he went only thirty leagues.
 replied the Future Buddha. Saying this, he gave the signal to his horse
 with his heel; and the horse sprang over the river, which had a breadth
 of eight usabhas,<span id="page_65_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_65_note_1) and landed on the
+class="small">1</span></sup>](#page_65_note_1.md) and landed on the
 opposite bank. And the Future Buddha, dismounting and standing on the
 sandy beach that stretched away like a sheet of silver, said to
 Channa,--
@@ -512,7 +512,7 @@ weeping and wailing to the city.
 
 ------------------------------------------------------------------------
 
-[Next: § 7. The Great Struggle](bits007)
+[Next: § 7. The Great Struggle](bits007.md)
 
 ------------------------------------------------------------------------
 
@@ -520,12 +520,12 @@ weeping and wailing to the city.
 
 <span id="footnotes_page_57">p. 57</span>
 
-<span id="page_57_note_1"></span>[1](#page_57_fr_1) Dîgha-Nikâya: see
-[General Introduction](bit-gint).
+<span id="page_57_note_1"></span>[1](#page_57_fr_1.md) Dîgha-Nikâya: see
+[General Introduction](bit-gint.md).
 
 <span id="footnotes_page_59">p. 59</span>
 
-<span id="page_59_note_1"></span>[1](#page_59_fr_1) The Future Buddha
+<span id="page_59_note_1"></span>[1](#page_59_fr_1.md) The Future Buddha
 puns upon the word "happy" in Kisâ Gotamî's verses. The word in Pâli is
 *nibbuta*, and is in form a past passive participle of a verb which
 perhaps does not occur in Pâli in any finite form, but which appears in
@@ -580,24 +580,24 @@ quest of happiness. I will send this lady a teacher's fee."
 
 <span id="footnotes_page_61">p. 61</span>
 
-<span id="page_61_note_1"></span>[1](#page_61_fr_1) In India it is
+<span id="page_61_note_1"></span>[1](#page_61_fr_1.md) In India it is
 customary to hang doors at the height of about two feet from the ground
 for the sake of coolness and ventilation. The threshold is thus exposed
 even when the door is shut.
 
 <span id="footnotes_page_63">p. 63</span>
 
-<span id="page_63_note_1"></span>[1](#page_63_fr_1) The Buddhists
+<span id="page_63_note_1"></span>[1](#page_63_fr_1.md) The Buddhists
 recognize no real devil. Mâra, the ruler of the sixth and highest heaven
 of sensual pleasure, approaches the nearest to our Satan. He stands for
 the pleasures of sense, and hence is The Buddha's natural enemy.
 
 <span id="footnotes_page_64">p. 64</span>
 
-<span id="page_64_note_1"></span>[1](#page_64_fr_1) About the first of
+<span id="page_64_note_1"></span>[1](#page_64_fr_1.md) About the first of
 July.
 
-<span id="page_64_note_2"></span>[2](#page_64_fr_2) I think the
+<span id="page_64_note_2"></span>[2](#page_64_fr_2.md) I think the
 conception here is that a round portion of the earth, on which the
 Future Buddha stood, turned around like a modern railroad turn-table,
 thus detaching itself from the rest and turning the Future Buddha with
@@ -605,7 +605,7 @@ it.
 
 <span id="footnotes_page_65">p. 65</span>
 
-<span id="page_65_note_1"></span>[1](#page_65_fr_1) An usabha is 140
+<span id="page_65_note_1"></span>[1](#page_65_fr_1.md) An usabha is 140
 cubits.
 
  

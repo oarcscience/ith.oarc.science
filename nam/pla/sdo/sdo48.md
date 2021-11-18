@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo47)  [Next](sdo49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo47)  [Next](sdo49.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ concepts.
 
 ------------------------------------------------------------------------
 
-[Next: Wakan](sdo49)
+[Next: Wakan](sdo49.md)

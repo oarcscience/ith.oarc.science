@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml05)  [Next](eml07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml05)  [Next](eml07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -42,7 +42,7 @@ and splintered so rudely are still found in mountain caves, on the
 surface of the desert, and embedded in mud washed down from the hills.
 
 Other peoples of higher development appeared in time <span
-id="fr_38"></span>[1](#fn_38) and after many centuries elapsed they
+id="fr_38"></span>[1](#fn_38.md) and after many centuries elapsed they
 divided the valley between them, increasing in numbers and breaking off
 in tribes. Several small independent kingdoms were thus formed. When
 government was ultimately centralized after conquest, these kingdoms
@@ -50,7 +50,7 @@ became provinces,
 
 <span id="page_31">p. 31</span>
 
-called nomes, <span id="fr_39"></span>[1](#fn_39) and each had its
+called nomes, <span id="fr_39"></span>[1](#fn_39.md) and each had its
 capital, with its ruling god and local theological system. The fusion of
 peoples which resulted caused a fusion of religious beliefs, and one god
 acquired the attributes of another without complete loss of identity.
@@ -62,7 +62,7 @@ In the eastern Delta they were the Archaic Egyptians; in the western
 Delta and along the coast, which suffered from great subsidences in
 later times, they were known as the Libyans. Tribes of the latter appear
 to have mingled with a blonde and taller stock. <span
-id="fr_40"></span>[2](#fn_40) On the northern slopes of the Atlas
+id="fr_40"></span>[2](#fn_40.md) On the northern slopes of the Atlas
 Mountains this type has still survival; a similar people occupied
 southern Palestine in pre-Semitic times. Blue-eyed and light-haired
 individuals thus made appearance in the Nile valley at an early period.
@@ -147,10 +147,10 @@ harvests of barley and wheat. It was the age of Osiris and Isis.
 Each king was an Osiris, and his symbols of power were the shepherd's
 staff and the flail. The people worshipped their king as a god, and,
 after thirty years' reign, devoured him at their Sed festival <span
-id="fr_41"></span>[1](#fn_41) with cannibalistic ceremonial, so that his
+id="fr_41"></span>[1](#fn_41.md) with cannibalistic ceremonial, so that his
 spirit might enter his successor and the land and the people have
 prosperity. The gnawed bones of monarchs have been found in tombs. <span
-id="fr_42"></span>[2](#fn_42)
+id="fr_42"></span>[2](#fn_42.md)
 
 Laws, which were stern and inexorable as those of Nature, disciplined
 the people and promoted their welfare. Social life was organized under a
@@ -249,7 +249,7 @@ with renewed energy which prolonged his years. An Abydos inscription
 declares of an Osiris ruler in this connection: "Thou dost begin thy
 days anew; like the holy moon child thou art permitted to prosper . . .
 thou hast grown young and thou art born to life again." <span
-id="fr_43"></span>[1](#fn_43) An important event at the festival was the
+id="fr_43"></span>[1](#fn_43.md) An important event at the festival was the
 appearance before the Pharaoh of his chosen successor, who performed a
 religious dance; and he was afterwards given for wife a princess of the
 royal line, so that his right to the throne might be secured.
@@ -341,7 +341,7 @@ turning-point in the campaign
 was the Fayum conflict where the animal gods of Set were slain. Petrie
 urges with much circumstantial detail the striking view that the
 expulsion of Set from Egypt signifies the defeat of the military
-aristocracy of "Semites " <span id="fr_44"></span>[1](#fn_44) by the
+aristocracy of "Semites " <span id="fr_44"></span>[1](#fn_44.md) by the
 Horus people, who, having espoused the religion of Osiris, also espoused
 the cause of the tribe which introduced his worship into the land. It is
 evident, from an inscription on a temple of southern Edfu, that many
@@ -396,7 +396,7 @@ Karia and Spain. Its early beginnings may be traced, perhaps, in those
 rude signs which the pioneers of the Late Stone Age in western Europe
 scratched upon the French dolmens. Archaic Phœnician letters show that
 the great sea traders in after time simplified the system and diffused
-it far and wide. <span id="fr_45"></span>[1](#fn_45) Our alphabet is
+it far and wide. <span id="fr_45"></span>[1](#fn_45.md) Our alphabet is
 thus remotely North African in origin.
 
 <span id="page_42">p. 42</span>
@@ -458,7 +458,7 @@ afforded facilities and protection for the men who "cast their bread
 upon the waters" so that abundant return might be secured "after many
 days". When we are afforded, therefore, a glimpse of daily life on the
 land, as is given in the ancient and treasured folk tale which
-follows, <span id="fr_46"></span>[1](#fn_46) we are brought into closer
+follows, <span id="fr_46"></span>[1](#fn_46.md) we are brought into closer
 touch with the people who toiled in contentment many thousands of years
 ago in the land of Egypt than is possible when we contemplate
 
@@ -477,26 +477,26 @@ what scenes surrounded their daily lives.
 
 ### Footnotes
 
-<span id="fn_38"></span>[30:1](eml06.htm#fr_38) The early Palæolithic
+<span id="fn_38"></span>[30:1](eml06.htm#fr_38.md) The early Palæolithic
 men were probably of Bushman type and the later of Mediterranean.
 Evidences of development from the Palæolithic to the Neolithic Age have
 been forthcoming
 
-<span id="fn_39"></span>[31:1](eml06.htm#fr_39) The Greek name; the old
+<span id="fn_39"></span>[31:1](eml06.htm#fr_39.md) The Greek name; the old
 Egyptian name was "hesp".
 
-<span id="fn_40"></span>[31:2](eml06.htm#fr_40) There were Libyans in
+<span id="fn_40"></span>[31:2](eml06.htm#fr_40.md) There were Libyans in
 the western Delta; on its borders were the "Tehenu", and beyond these
 the "Lebu", and still farther west were the "Meshwesh", the Maxyes of
 the Greeks. All were referred to as Libyans.
 
-<span id="fn_41"></span>[34:1](eml06.htm#fr_41) Petrie's view. See
+<span id="fn_41"></span>[34:1](eml06.htm#fr_41.md) Petrie's view. See
 Researches in Sinai, p. 185.
 
-<span id="fn_42"></span>[34:2](eml06.htm#fr_42) Maspero. This opinion,
+<span id="fn_42"></span>[34:2](eml06.htm#fr_42.md) Maspero. This opinion,
 however, has been sharply challenged.
 
-<span id="fn_43"></span>[37:1](eml06.htm#fr_43) The Horus worshippers
+<span id="fn_43"></span>[37:1](eml06.htm#fr_43.md) The Horus worshippers
 had evidently absorbed the beliefs of the Nilotic moon cult. Some
 authorities credit the Dynastic Egyptians with the introduction of
 Osiris worship. The close resemblance of Osiris to similar deities in
@@ -504,21 +504,21 @@ Asia Minor and Europe favours the view that Osiris first entered Lower
 Egypt. See *Golden Bough*--Adonis, Attis, Osiris volume. The Osiran
 heaven was of Delta character.
 
-<span id="fn_44"></span>[40:1](eml06.htm#fr_44) It is possible that Set
+<span id="fn_44"></span>[40:1](eml06.htm#fr_44.md) It is possible that Set
 (Sutekh) was the god of a pre-Semitic people whose beliefs were embraced
 by certain Semitic tribes.
 
-<span id="fn_45"></span>[41:1](eml06.htm#fr_45) Professor Macalister is
+<span id="fn_45"></span>[41:1](eml06.htm#fr_45.md) Professor Macalister is
 inclined to credit the Philistines instead of the Phoenicians with the
 work of systematizing the script.
 
-<span id="fn_46"></span>[43:1](eml06.htm#fr_46) It assumed its final
+<span id="fn_46"></span>[43:1](eml06.htm#fr_46.md) It assumed its final
 form in the Empire period, and is evidently of remote antiquity.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Peasant who became King](eml07)
+[Next: Chapter IV: The Peasant who became King](eml07.md)
 
 </div>

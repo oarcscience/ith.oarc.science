@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai05)  [Next](iai07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai05)  [Next](iai07.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,9 +11,9 @@ East](../index)  [Index](index)  [Previous](iai05)  [Next](iai07) 
 The king while hunting where a forest grows,  
 Around sweet hyacinths and budding rose,  
 Where a soft zephyr o'er them gently flows  
-From the dark *sik-ka-ti* <span id="fr_56"></span>[1](#fn_56) where
-Kharsak <span id="fr_57"></span>[2](#fn_57) glows;  
-And Sedu <span id="fr_58"></span>[3](#fn_58) softly dances on the
+From the dark *sik-ka-ti* <span id="fr_56"></span>[1](#fn_56.md) where
+Kharsak <span id="fr_57"></span>[2](#fn_57.md) glows;  
+And Sedu <span id="fr_58"></span>[3](#fn_58.md) softly dances on the
 leaves,  
 And a rich odorous breath from them receives;  
 Where tulips peep with heliotrope and pink,  
@@ -21,9 +21,9 @@ With violets upon a gleaming brink
 Of silver gliding o'er a water-fall  
 That sings its purling treasures o'er a wall  
 Of rugged onyx sparkling to the sea:  
-A spot where Zir-ri <span id="fr_59"></span>[4](#fn_59) sport oft
+A spot where Zir-ri <span id="fr_59"></span>[4](#fn_59.md) sport oft
 merrily,  
-Where Hea's <span id="fr_60"></span>[5](#fn_60) arm outstretched doth
+Where Hea's <span id="fr_60"></span>[5](#fn_60.md) arm outstretched doth
 form a bay,  
 Wild, sheltered, where his sea-daughters play;  
 A jasper rock here peeps above the waves  
@@ -38,9 +38,9 @@ With love alone the mystic woods resound.
 
 <span id="page_21">p. 21</span>
 
-Here witching Zi-na-ki <span id="fr_61"></span>[6](#fn_61) oft drag
+Here witching Zi-na-ki <span id="fr_61"></span>[6](#fn_61.md) oft drag
 within  
-The waves unwilling Zi-si; <span id="fr_62"></span>[7](#fn_62) here the
+The waves unwilling Zi-si; <span id="fr_62"></span>[7](#fn_62.md) here the
 din  
 Of roars of sullen storms is never known  
 When tempests make the mighty waters groan;  
@@ -61,8 +61,8 @@ To chase the wild gazelles now browsing near,
 She, ere the king returns, near by arrives  
 With her two maids; with them for love connives,  
 joy and seduction thus voluptuous fly  
-Her Samkhatu, <span id="fr_63"></span>[8](#fn_63) Kharimtu <span
-id="fr_64"></span>[9](#fn_64) from the sky,  
+Her Samkhatu, <span id="fr_63"></span>[8](#fn_63.md) Kharimtu <span
+id="fr_64"></span>[9](#fn_64.md) from the sky,  
 As gently, lightly as a spirit's wing  
 Oft carries gods to earth while Sedu sing.  
 Thus, they, with lightest step, expectant stood  
@@ -72,10 +72,10 @@ Their snowy limbs they bare, undraped now stand
 Upon the rock at Ishtar's soft command.  
 Like marble forms endued with life they move,  
 And thrill the air with welcome notes of love.  
-The *its-tu-ri Same mut-tab-ri* <span id="fr_65"></span>[10](#fn_65)
+The *its-tu-ri Same mut-tab-ri* <span id="fr_65"></span>[10](#fn_65.md)
 sang  
 Their sweetest notes, and the *Khar-san-u* <span
-id="fr_66"></span>[1](#fn_66) rang  
+id="fr_66"></span>[1](#fn_66.md) rang  
 With songs of thrushes, turtle-doves and Jays,  
 And linnets, with the nightingale's sweet lays,  
 Goldfinches, magpies and the wild hoopoes;  
@@ -123,39 +123,39 @@ Through all thy joyous life, then happy be!
 
 ### Footnotes
 
-<span id="fn_56"></span>[20:1](iai06.htm#fr_56) "Sik-ka-ti," narrow
+<span id="fn_56"></span>[20:1](iai06.htm#fr_56.md) "Sik-ka-ti," narrow
 mountain gorges.
 
-<span id="fn_57"></span>[20:2](iai06.htm#fr_57) "Khar-sak," the Deluge
+<span id="fn_57"></span>[20:2](iai06.htm#fr_57.md) "Khar-sak," the Deluge
 mountain, where the ark rested.
 
-<span id="fn_58"></span>[20:3](iai06.htm#fr_58) "Se-du," a spirit of the
+<span id="fn_58"></span>[20:3](iai06.htm#fr_58.md) "Se-du," a spirit of the
 earth, and rivers.
 
-<span id="fn_59"></span>[20:4](iai06.htm#fr_59) "Zir-ri," the spirits of
+<span id="fn_59"></span>[20:4](iai06.htm#fr_59.md) "Zir-ri," the spirits of
 the rivers, water-nymphs.
 
-<span id="fn_60"></span>[20:5](iai06.htm#fr_60) "Hea," the god of the
+<span id="fn_60"></span>[20:5](iai06.htm#fr_60.md) "Hea," the god of the
 ocean.
 
-<span id="fn_61"></span>[21:6](iai06.htm#fr_61) "Zi-na-ki," pronounced
+<span id="fn_61"></span>[21:6](iai06.htm#fr_61.md) "Zi-na-ki," pronounced
 "zee-na-kee," spirits of purity.
 
-<span id="fn_62"></span>[21:7](iai06.htm#fr_62) "Zi-si," corn-gods, or
+<span id="fn_62"></span>[21:7](iai06.htm#fr_62.md) "Zi-si," corn-gods, or
 spirits of the corn.
 
-<span id="fn_63"></span>[21:8](iai06.htm#fr_63) "Sam-kha-tu," one of the
+<span id="fn_63"></span>[21:8](iai06.htm#fr_63.md) "Sam-kha-tu," one of the
 maids of Ishtar, "Joy."
 
-<span id="fn_64"></span>[21:9](iai06.htm#fr_64) "Kha-rima-tu," one of
+<span id="fn_64"></span>[21:9](iai06.htm#fr_64.md) "Kha-rima-tu," one of
 the maids of Ishtar, "Seduction."
 
-<span id="fn_65"></span>[21:10](iai06.htm#fr_65) "Its-tu-ri Same mut-tab
+<span id="fn_65"></span>[21:10](iai06.htm#fr_65.md) "Its-tu-ri Same mut-tab
 ri," "the winged birds of heaven."
 
-<span id="fn_66"></span>[21:1](iai06.htm#fr_66) "Khar-san-u," forest.
+<span id="fn_66"></span>[21:1](iai06.htm#fr_66.md) "Khar-san-u," forest.
 
 ------------------------------------------------------------------------
 
 [Next: Column VI. Izdubar Falls in Love with Ishtar, the Queen of
-Love](iai07)
+Love](iai07.md)

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois04) 
-[Next](wois06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois04.md) 
+[Next](wois06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -49,7 +49,7 @@ Then the owner of the fig-tree went after them, and when he found them
 he said:
 
 "My masters, You were wont to confer a *Mitzvah* <span
-id="fr_3"></span>[\*](#fn_3) upon me. You used to show me
+id="fr_3"></span>[\*](#fn_3.md) upon me. You used to show me
 
 <span id="page_20">p. 20</span>
 
@@ -82,7 +82,7 @@ from this. world."
 
 ### Footnotes
 
-<span id="fn_3"></span>[19:\*](wois05.htm#fr_3) *Mitzvah*, from
+<span id="fn_3"></span>[19:\*](wois05.htm#fr_3.md) *Mitzvah*, from
 *tzivah*, to command, to permit (comp. Æthiopic use of the root), is
 quite untranslatable by any single word, in the sense in which it is
 here used, and in which it is commonly used by modern Jews. *Mitzvah*
@@ -99,6 +99,6 @@ the Bible up to the reading desk, this is "conferring a Mitzvah on him."
 
 ------------------------------------------------------------------------
 
-[Next: The Labourers in the Vineyard](wois06)
+[Next: The Labourers in the Vineyard](wois06.md)
 
 </div>

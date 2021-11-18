@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb02)  [Next](crfb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb02)  [Next](crfb04.md) 
 
 </div>
 
@@ -175,6 +175,6 @@ Ilonka; and if they are not yet dead—why, they are still living.
 
 ------------------------------------------------------------------------
 
-[Next: Lucky Luck](crfb04)
+[Next: Lucky Luck](crfb04.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa30)  [Next](psa32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa30)  [Next](psa32.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ Radhika with him, Shree Krishnù Chund disappeared.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXI](psa32)
+[Next: Chapter XXXI](psa32.md)

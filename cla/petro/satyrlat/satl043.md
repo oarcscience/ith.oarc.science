@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat08.htm#XLIII) 
-[Previous](satl042)  [Next](satl044) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat08.htm#XLIII.md) 
+[Previous](satl042)  [Next](satl044.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ tulit."
 
 ------------------------------------------------------------------------
 
-[Next: XLIV](satl044)
+[Next: XLIV](satl044.md)

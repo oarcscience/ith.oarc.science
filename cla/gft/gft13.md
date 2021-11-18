@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft12)  [Next](gft14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft12)  [Next](gft14.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ of the unknown sea.
 
 Whither they went I cannot tell, nor how they came to Circe's isle. Some
 say that they went to the westward, and up the Ister <span
-id="fr_1"></span>[1](#fn_1) stream, and so came into the Adriatic,
+id="fr_1"></span>[1](#fn_1.md) stream, and so came into the Adriatic,
 dragging their ship over the snowy Alps. And others say that they went
 southward, into the Red Indian Sea, and past the sunny lands where
 spices grow, round Æthiopia toward the West; and that at last they came
@@ -98,18 +98,18 @@ unknown sea. And the best of all the old
 
 songs tells us how they went away toward the North, till they came to
 the slope of Caucasus, where it sinks into the sea; and to the narrow
-Cimmerian Bosphorus <span id="fr_2"></span>[1](#fn_2), where the Titan
+Cimmerian Bosphorus <span id="fr_2"></span>[1](#fn_2.md), where the Titan
 swam across upon the bull; and thence into the lazy waters of the still
-Mæotid lake. <span id="fr_3"></span>[2](#fn_3) And thence they went
+Mæotid lake. <span id="fr_3"></span>[2](#fn_3.md) And thence they went
 northward ever, up the Tanais, which we call Don, past the Geloni and
 Sauromatai, and many a wandering shepherd-tribe, and the one-eyed
 Arimaspi, of whom old Greek poets tell, who steal the gold from the
-Griffins, in the cold Rhiphaian hills. <span id="fr_4"></span>[3](#fn_4)
+Griffins, in the cold Rhiphaian hills. <span id="fr_4"></span>[3](#fn_4.md)
 
 And they passed the Scythian archers, and the Tauri who eat men, and the
 wandering Hyperboreai, who feed their flocks beneath the pole-star,
 until they came into the northern ocean, the dull dead Cronian
-Sea. <span id="fr_5"></span>[4](#fn_5) And there *Argo* would move on no
+Sea. <span id="fr_5"></span>[4](#fn_5.md) And there *Argo* would move on no
 longer; and each man clasped his elbow, and leaned his head upon his
 hand, heart-broken with toil and hunger, and gave himself up to death.
 But brave Ancaios the helmsman cheered up their hearts once more, and
@@ -134,7 +134,7 @@ and been whelmed by the dread blue rocks, beneath the fierce swell of
 the Euxine? Better so, than to wander for ever, disgraced by the guilt
 of my princes; for the blood of Absyrtus still tracks me, and woe
 follows hard upon woe. And now some dark horror will clutch me, if I
-come near the Isle of Ierne. <span id="fr_6"></span>[1](#fn_6) Unless
+come near the Isle of Ierne. <span id="fr_6"></span>[1](#fn_6.md) Unless
 you will cling to the land, and sail southward and southward forever, I
 shall wander beyond the Atlantic, to the ocean which has no shore."
 
@@ -158,7 +158,7 @@ there is no harbour on the coast, but steep-walled cliffs all round."
 
 So Ancaios turned the ship away; and for three days more they sailed on,
 till they came to Aiaia, Circe's home, and the fairy island of the
-West. <span id="fr_7"></span>[1](#fn_7)
+West. <span id="fr_7"></span>[1](#fn_7.md)
 
 And there Jason bid them land, and seek about for any sign of living
 man. And as they went inland, Circe met them, coming down toward the
@@ -221,7 +221,7 @@ they dreamed of bright still gardens, and of slumbers
 <span id="img_11200"></span>
 
 [![Slowly they sung and sleepily, with silver voices](tn/11200.jpg)  
-Click to enlarge](img/11200.jpg)  
+Click to enlarge](img/11200.jpg.md)  
 Slowly they sung and sleepily, with silver voices  
 
  
@@ -356,7 +356,7 @@ be Cordyra, where a few wild goat herds
 <span id="img_11600"></span>
 
 [![The Argonauts and the sea nymphs.](tn/11600.jpg)  
-Click to enlarge](img/11600.jpg)  
+Click to enlarge](img/11600.jpg.md)  
 The Argonauts and the sea nymphs.  
 
  
@@ -555,7 +555,7 @@ Then they went out to the garden; and the merchant princes said:
 
 [![Who are you, strange maiden? and what is the meaning of your
 prayer?](tn/12200.jpg)  
-Click to enlarge](img/12200.jpg)  
+Click to enlarge](img/12200.jpg.md)  
 Who are you, strange maiden? and what is the meaning of your prayer?  
 
  
@@ -879,7 +879,7 @@ race for my bride. So now give me up
 
 [![The two old men's heads shook together as they tried to warm
 themselves before the fire.](tn/13200.jpg)  
-Click to enlarge](img/13200.jpg)  
+Click to enlarge](img/13200.jpg.md)  
 The two old men's heads shook together as they tried to warm themselves
 before the fire.  
 
@@ -898,21 +898,21 @@ me never to leave me till I die."
 
 ### Footnotes
 
-<span id="fn_1"></span>[108:1](gft13.htm#fr_1) The Danube
+<span id="fn_1"></span>[108:1](gft13.htm#fr_1.md) The Danube
 
-<span id="fn_2"></span>[109:1](gft13.htm#fr_2) Between the Crimæa and
+<span id="fn_2"></span>[109:1](gft13.htm#fr_2.md) Between the Crimæa and
 the Circassian.
 
-<span id="fn_3"></span>[109:2](gft13.htm#fr_3) The Sea of Azov.
+<span id="fn_3"></span>[109:2](gft13.htm#fr_3.md) The Sea of Azov.
 
-<span id="fn_4"></span>[109:3](gft13.htm#fr_4) The Ural Mountains?
+<span id="fn_4"></span>[109:3](gft13.htm#fr_4.md) The Ural Mountains?
 
-<span id="fn_5"></span>[109:4](gft13.htm#fr_5) The Baltic?
+<span id="fn_5"></span>[109:4](gft13.htm#fr_5.md) The Baltic?
 
-<span id="fn_6"></span>[110:1](gft13.htm#fr_6) Britain?
+<span id="fn_6"></span>[110:1](gft13.htm#fr_6.md) Britain?
 
-<span id="fn_7"></span>[111:1](gft13.htm#fr_7) The Azores?
+<span id="fn_7"></span>[111:1](gft13.htm#fr_7.md) The Azores?
 
 ------------------------------------------------------------------------
 
-[Next: Part Six: What was the end of the Heroes?](gft14)
+[Next: Part Six: What was the end of the Heroes?](gft14.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg27)  [Next](cdg29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg27)  [Next](cdg29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ spoke has been the life-guidance now of a hundred-and-eighty millions of
 men these twelve-hundred years. The hundred-and-eighty millions were
 made by God as well as we. A greater number of God's creatures believe
 in Mahomet's word at this hour, than in any other word whatever." <span
-id="fr_174"></span>[1](#fn_174)
+id="fr_174"></span>[1](#fn_174.md)
 
 In the Koran, 'the light giving Book,' transmitted to Muhammed by the
 Angel Gabriel from the Lord "that He may stablish those who have
@@ -46,7 +46,7 @@ Say: WE BELIEVE IN GOD, AND IN WHAT HATH BEEN SENT DOWN TO US, and what
 hath been sent down to Abraham, and Ismael, and Isaac, and Jacob, and
 the tribes, AND IN WHAT WAS GIVEN TO MOSES, AND JESUS, AND THE PROPHETS,
 FROM THEIR LORD. WE MAKE NO DIFFERENCE BETWEEN THEM. And to Him are we
-resigned (Muslims)." <span id="fr_175"></span>[2](#fn_175)
+resigned (Muslims)." <span id="fr_175"></span>[2](#fn_175.md)
 
 <span id="img_23800"></span> ![](img/23800.jpg)
 
@@ -54,12 +54,12 @@ resigned (Muslims)." <span id="fr_175"></span>[2](#fn_175)
 
 ### Footnotes
 
-<span id="fn_174"></span>[237:1](cdg28.htm#fr_174) THOMAS CARLYLE. THE
+<span id="fn_174"></span>[237:1](cdg28.htm#fr_174.md) THOMAS CARLYLE. THE
 HERO AS PROPHET. MAHOMET: ISLAM.
 
-<span id="fn_175"></span>[238:2](cdg28.htm#fr_175) THE KORAN SURA III,
+<span id="fn_175"></span>[238:2](cdg28.htm#fr_175.md) THE KORAN SURA III,
 THE FAMILY OF IMRAN. EVERYMAN'S LIBRARY EDITION, PAGES 393-4.
 
 ------------------------------------------------------------------------
 
-[Next: S. King Saul](cdg29)
+[Next: S. King Saul](cdg29.md)

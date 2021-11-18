@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,8 +23,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](lodw00)    [Text
-\[Zipped\]](ldw.txt.gz)
+[Contents](#contents)    [Start Reading](lodw00.md)    [Text
+\[Zipped\]](ldw.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -40,17 +40,17 @@ exposing the reader to the grotesque and the unusual.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Introduction](lodw00)  
-[Letter 1](lodw01)  
-[Letter 2](lodw02)  
-[Letter 3](lodw03)  
-[Letter 4](lodw04)  
-[Letter 5](lodw05)  
-[Letter 6](lodw06)  
-[Letter 7](lodw07)  
-[Letter 8](lodw08)  
-[Letter 9](lodw09)  
-[Letter 10](lodw10)  
+<span id="contents"></span> [Introduction](lodw00.md)  
+[Letter 1](lodw01.md)  
+[Letter 2](lodw02.md)  
+[Letter 3](lodw03.md)  
+[Letter 4](lodw04.md)  
+[Letter 5](lodw05.md)  
+[Letter 6](lodw06.md)  
+[Letter 7](lodw07.md)  
+[Letter 8](lodw08.md)  
+[Letter 9](lodw09.md)  
+[Letter 10](lodw10.md)  
 
 ------------------------------------------------------------------------
 

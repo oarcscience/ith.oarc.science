@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov11)  [Next](vov13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov11)  [Next](vov13.md) 
 
 ------------------------------------------------------------------------
 
 1000
 
 If you one day put your anus in your hand and wash it, what have you
-gained? How [much](errata.htm#182) so ever you wash the scales off your
+gained? How [much](errata.htm#182.md) so ever you wash the scales off your
 teeth, will its stink ever depart?
 
 1001
@@ -90,7 +90,7 @@ Five Faced.
 1013
 
 The Goddess of Earth as they call her is clay, seeing that all men know
-how that [Goddess](errata.htm#183) was produced, she became very
+how that [Goddess](errata.htm#183.md) was produced, she became very
 weighty, They even call that Goddess equal to Siva as sustaining all.
 
 1014
@@ -294,7 +294,7 @@ avaricious. The acts of Brahma are acts of ashes.
 <span id="page_251">p. 251</span>
 
 Beholding the craft of women, Bhairu Siva (Dog headed) refrained from
-[marriage](errata.htm#184). So did the Big-bellied. Anjaneya (Hanuman)
+[marriage](errata.htm#184). So did the Big-bellied. Anjaneya (Hanuman.md)
 from his birth bound his *langoti* tight.
 
 1045
@@ -344,7 +344,7 @@ this noble object of meditation.
 1052
 
 In the various tribes of animals the deity was repeatedly
-[reborn](errata.htm#185); like as if confused he roamed and roved; were
+[reborn](errata.htm#185.md); like as if confused he roamed and roved; were
 we to call this body eternal? Would not the deity laugh?
 
 1053
@@ -393,8 +393,8 @@ are they? and what do they for us? (lit. why they to us?)
 1060
 
 The hill monkey has (if you look) the monkey for a (pērantālu) wife; a
-banda (a poor king) for a minister; (Banda--a [beggar](errata.htm#186)
-who tortures himself to [extort](errata.htm#187) alms from fools). Look
+banda (a poor king) for a minister; (Banda--a [beggar](errata.htm#186.md)
+who tortures himself to [extort](errata.htm#187) alms from fools.md). Look
 at the Banda; villainous slanderers are his kin.
 
 1061
@@ -448,7 +448,7 @@ of comfort is this?
 
 1068
 
-If we eat not [food](errata.htm#188), the fire in the belly devours the
+If we eat not [food](errata.htm#188.md), the fire in the belly devours the
 impurities of the belly. Thus if he abstain from food, he who fasteth
 devoureth impurity.
 
@@ -566,7 +566,7 @@ nature, pure water is in the sanctified body.
 
 1086
 
-Ye who [first](errata.htm#189) drove away all your original Gods, ye who
+Ye who [first](errata.htm#189.md) drove away all your original Gods, ye who
 drove away the succeeding deities, smite with the slipper your present
 paltry divinities.
 
@@ -582,8 +582,8 @@ in exalted holiness, at where shall we seek him?
 
 To know myself is to know thee How should he who knoweth not himself
 know thee. Let us learn from Boya Caannappa the prayer that teaches a
-knowledge of [ourselves](errata.htm#190) and thee (easy and useful in
-grammatical [construction](errata.htm#191)).
+knowledge of [ourselves](errata.htm#190.md) and thee (easy and useful in
+grammatical [construction](errata.htm#191).md).
 
 1089
 
@@ -633,7 +633,7 @@ be respectable?
 
 <span id="page_263">p. 263</span>
 
-[Continuing](errata.htm#192) to live and see (as in houses), listening
+[Continuing](errata.htm#192) to live and see (as in houses.md), listening
 to modes contrary to sense, do men pass away like an old song, listening
 to this they go on and go on and become a tale.
 
@@ -656,4 +656,4 @@ mirage.
 
 ------------------------------------------------------------------------
 
-[Next: 1100-1199](vov13)
+[Next: 1100-1199](vov13.md)

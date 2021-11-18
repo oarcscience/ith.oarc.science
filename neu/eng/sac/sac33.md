@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac32)  [Next](sac34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac32)  [Next](sac34.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ These dwellings would naturally suggest themselves as the shelter place
 for the ever-burning fire or the supply of dry wood. Tradition points
 with no uncertain sound to the former existence of life and light in
 these "hollow hills." Mr. MacRitchie's book <span
-id="fr_126"></span>[1](#fn_126) contains a mine of most valuable and
+id="fr_126"></span>[1](#fn_126.md) contains a mine of most valuable and
 interesting information on this subject.
 
 \(3\) A water supply for drinking and bathing, which might be a spring,
@@ -124,8 +124,8 @@ Nor is this all. It is hard to understand some of the folklore and
 tradition unless we recognise that at a time before marriage was
 instituted, at some of the sacred festivals the intercourse of the sexes
 was permitted if not encouraged. This view is strengthened by the
-researches of Westermarck <span id="fr_127"></span>[1](#fn_127) and
-Rhys. <span id="fr_128"></span>[2](#fn_128) Given such a practice, the
+researches of Westermarck <span id="fr_127"></span>[1](#fn_127.md) and
+Rhys. <span id="fr_128"></span>[2](#fn_128.md) Given such a practice, the
 origin of matriarchal customs and of the *couvade* is at once explained;
 and it is clear that. the charges against. the Druids of special cruelty
 and impurity must be. withdrawn. Their sacrifices and customs were those
@@ -227,7 +227,7 @@ It is clear that in later days as at the commencement they were still
 ahead in the knowledge of the time. "Hi terrae mundique magnitudinem et
 formam, motus coeli ac siderum, ac quod dii velunt sciere profitentur"
 is Pomponius Mela's statement concerning them. <span
-id="fr_129"></span>[1](#fn_129) From, 1500 B.C. to Caesar's time is a
+id="fr_129"></span>[1](#fn_129.md) From, 1500 B.C. to Caesar's time is a
 long interval, and yet
 
 <span id="page_323">p. 323</span>
@@ -238,7 +238,7 @@ common repute. Cæsar's account of the Druids in Gaul (*Bello Gallico*,
 vi. c. 13, 14, 15) is extremely interesting because it indicates, I
 think, that the Druid culture had not passed through Gaul and had
 therefore been waterborne to Britain, whither the Gauls therefore went
-to study it. <span id="fr_130"></span>[1](#fn_130)
+to study it. <span id="fr_130"></span>[1](#fn_130.md)
 
 Simultaneously with the non-use of the ancient stones, we may imagine
 that the priests—of ever-increasing importance—no longer dwelt in their
@@ -247,7 +247,7 @@ Chysoister, and from this date it is possible that burials may have
 taken place in some of the mounds then given up as dwelling places. As
 sacred places they were subsequently used for burials, as Westminster
 Abbey has been; but burials were not the object of their erection. <span
-id="fr_131"></span>[2](#fn_131) This new habit may have started the
+id="fr_131"></span>[2](#fn_131.md) This new habit may have started the
 practice of cist burial by later people in barrows thrown up for that
 special purpose.
 
@@ -272,31 +272,31 @@ possibly the former had never been brought into contact.
 
 ### Footnotes
 
-<span id="fn_126"></span>[317:1](sac33.htm#fr_126) *The Testimony of
+<span id="fn_126"></span>[317:1](sac33.htm#fr_126.md) *The Testimony of
 Tradition*.
 
-<span id="fn_127"></span>[319:1](sac33.htm#fr_127) *History of Human
+<span id="fn_127"></span>[319:1](sac33.htm#fr_127.md) *History of Human
 Marriage*, Chapter II.
 
-<span id="fn_128"></span>[319:2](sac33.htm#fr_128) *Celtic Folklore*,
+<span id="fn_128"></span>[319:2](sac33.htm#fr_128.md) *Celtic Folklore*,
 ii., 654.
 
-<span id="fn_129"></span>[322:1](sac33.htm#fr_129) *Pomp. Mela*, Lib.
-II. c. 2. I have already ([p. 52](sac08.htm#page_52)) quoted Cæsar's
+<span id="fn_129"></span>[322:1](sac33.htm#fr_129.md) *Pomp. Mela*, Lib.
+II. c. 2. I have already ([p. 52](sac08.htm#page_52).md) quoted Cæsar's
 testimony to the same effect.
 
-<span id="fn_130"></span>[323:1](sac33.htm#fr_130) 'Disciplina in
+<span id="fn_130"></span>[323:1](sac33.htm#fr_130.md) 'Disciplina in
 Britannia reperta, atque in Galliam translata esse eixistimatur."—*C.
 Bell. Gall*. lib. vi. c. 13. This "discipline" also included magic
 according to Pliny. "Britannia hodie eam (*i.e.* Magiam) attonite
 celebrat tantis ceremoniis, ut eam Persis dedisse videri possit" (lib.
 xxx. c. 1.)
 
-<span id="fn_131"></span>[323:2](sac33.htm#fr_131) Bertrand and Reinach,
+<span id="fn_131"></span>[323:2](sac33.htm#fr_131.md) Bertrand and Reinach,
 *Les Celtes et les Gaulois dans les Vallées du Pó et du Danube*, p. 82.
 Tregellis, "Stone Circles in Cornwall." *Trans*. Penzance Natural
 History and Antiquarian Society, 1893-4.
 
 ------------------------------------------------------------------------
 
-[Next: I. Details of the Theodolite Observations at Stonehenge](sac34)
+[Next: I. Details of the Theodolite Observations at Stonehenge](sac34.md)

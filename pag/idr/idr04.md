@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr03) 
-[Next](idr05) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr03.md) 
+[Next](idr05.md) 
 
 ------------------------------------------------------------------------
 
@@ -288,4 +288,4 @@ substantiated, makes Cornwall one of their calling-places.
 
 ------------------------------------------------------------------------
 
-[Next: Irish Druidism](idr05)
+[Next: Irish Druidism](idr05.md)

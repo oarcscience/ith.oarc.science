@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](dan)  [Next](joe) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](dan)  [Next](joe.md) 
 
 ------------------------------------------------------------------------
 
@@ -773,4 +773,4 @@ fall in them.
 
 ------------------------------------------------------------------------
 
-[Next: Joel](joe)
+[Next: Joel](joe.md)

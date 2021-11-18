@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mzb02)  [Next](mzb04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mzb02)  [Next](mzb04.md) 
 
 ------------------------------------------------------------------------
 
@@ -1793,4 +1793,4 @@ Vipasyana is to be greatly encouraged.
 
 ------------------------------------------------------------------------
 
-[Next: IV. From the Chinese Zen Masters](mzb04)
+[Next: IV. From the Chinese Zen Masters](mzb04.md)

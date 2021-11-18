@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal117)  [Next](njal119) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal117)  [Next](njal119.md) 
 
 ------------------------------------------------------------------------
 
@@ -248,4 +248,4 @@ monster, half man and half beast.
 
 ------------------------------------------------------------------------
 
-[Next: 119. Of Skarphedinn And Thorkel Foulmouth](njal119)
+[Next: 119. Of Skarphedinn And Thorkel Foulmouth](njal119.md)

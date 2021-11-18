@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp15)  [Next](potp17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp15)  [Next](potp17.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ Peary also makes mention of the higher
 
 [![PTARMIGAN.&lt;br&gt; Birds found in great numbers in the Arctic
 Circle.](tn/17700.jpg)  
-Click to enlarge](img/17700.jpg)  
+Click to enlarge](img/17700.jpg.md)  
 PTARMIGAN.  
 Birds found in great numbers in the Arctic Circle.  
 
@@ -159,7 +159,7 @@ From what place had those birds and
 
 [![EIDER-DUCKS.&lt;br&gt; Found in great numbers in the Arctic
 Circle.](tn/18200.jpg)  
-Click to enlarge](img/18200.jpg)  
+Click to enlarge](img/18200.jpg.md)  
 EIDER-DUCKS.  
 Found in great numbers in the Arctic Circle.  
 
@@ -217,7 +217,7 @@ pounds each of dressed meat." (Page 422.)
 
 "Long returned at 6 p. m., having been gone twenty-two hours hunting.
 His pro-longed absence caused much alarm, as he was alone. Several
-parties had been sent out to [search](errata.htm#0) for him, when he was
+parties had been sent out to [search](errata.htm#0.md) for him, when he was
 met returning. He had fallen in with a herd of musk-oxen in the valley,
 about two miles above the head of St. Patrick Bay. He had sixteen rounds
 of ammunition at starting, and, shortly after, fired two at an owl. With
@@ -261,7 +261,7 @@ basking on the ice, must be a Canaan, flowing with milk and honey,
 
 [![SHOOTING SEALS.&lt;br&gt; How natives slaughter seals in the Arctic
 Circle.](tn/18700.jpg)  
-Click to enlarge](img/18700.jpg)  
+Click to enlarge](img/18700.jpg.md)  
 SHOOTING SEALS.  
 How natives slaughter seals in the Arctic Circle.  
 
@@ -345,7 +345,7 @@ miles, and so close together
 Arctic regions that when they fly overhead they darken the skies, their
 little voices being often heard from a distance of four or five
 miles.](tn/19100.jpg)  
-Click to enlarge](img/19100.jpg)  
+Click to enlarge](img/19100.jpg.md)  
 A SWARM OF AUKS.  
 These birds are found so plentiful in the Arctic regions that when they
 fly overhead they darken the skies, their little voices being often
@@ -415,4 +415,4 @@ hence the interior atmosphere is necessarily warmer.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Driftwood--Whence it Came](potp17)
+[Next: Chapter XIII. Driftwood--Whence it Came](potp17.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mog12)  [Next](mog14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mog12)  [Next](mog14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ in general.
 The cycle of Heracles has been treated so frequently that it is almost
 impossible to survey the vast number of works and papers on the subject;
 moreover these myths have been judged and explained in very different
-fashions. <span id="fr_370"></span>[1](#fn_370) Heracles was the most
+fashions. <span id="fr_370"></span>[1](#fn_370.md) Heracles was the most
 popular mythical hero of the Greeks and
 
 <span id="page_189">p. 189</span>
@@ -74,11 +74,11 @@ subject.
 The first difficulty is the name, a much discussed problem. The name is
 clearly composed of Hera and -*kles*, which is a frequent compound
 element of Greek names, although the vowel *a* presents some difficulty
-to etymology. <span id="fr_371"></span>[2](#fn_371) The attempt to
+to etymology. <span id="fr_371"></span>[2](#fn_371.md) The attempt to
 separate the name Heracles from that of the goddess Hera has been made,
 but such a theory is without foundation, as the eminent philologist
 Professor Kretschmer has proved. At the same time he has shown how the
-name is to be understood rightly. <span id="fr_372"></span>[3](#fn_372)
+name is to be understood rightly. <span id="fr_372"></span>[3](#fn_372.md)
 A brief discussion of the principle according to which the heroes of
 myth and of folk-tale are named will be necessary for a right
 understanding of the name and is of importance for a right understanding
@@ -87,7 +87,7 @@ of the myth, too.
 There is a characteristic difference between the names of the personages
 of modern folk-tales and those of Greek myths, and by virtue of this
 difference the contrast between folk-tale and myth seems to be greater
-than it really is. <span id="fr_373"></span>[4](#fn_373) Many
+than it really is. <span id="fr_373"></span>[4](#fn_373.md) Many
 folk-tales, also, have been incorporated in mythology. The folk-tale
 gives commonly no individual name to its heroes but only one which
 denotes his class or social standing; e.g. "the King," "the Princess,"
@@ -108,7 +108,7 @@ Catskin, etc. They are somewhat akin to the names of the first group. In
 Greek myths such names are rare. I do not of course take into account
 such descriptive names as were invented by a poet for secondary
 personages of his own; e.g. Astyanax, Telegonus, Thersites, <span
-id="fr_374"></span>[5](#fn_374) but only old mythical names. Polyneices,
+id="fr_374"></span>[5](#fn_374.md) but only old mythical names. Polyneices,
 the man who stirred up the great strife of Thebes, is perhaps one;
 Daedalus, the skilled artisan, and Palamedes, the very artful culture
 hero, are others. I have already explained the significance of the name
@@ -139,7 +139,7 @@ Greek epos has the same manner of denoting personages of secondary
 importance; e.g. Chryses and Chryseis, the man, the maiden of Chryse,
 Briseis, the maiden of Brise, etc. To the same category belong the old
 tribal names which are not merely eponymous, e.g. Danaüs, Danae, the
-Danaides. <span id="fr_375"></span>[6](#fn_375)
+Danaides. <span id="fr_375"></span>[6](#fn_375.md)
 
 This exposition of principles will help us to discover the real nature
 of the name of Heracles. Because Hera plays such a prominent part in his
@@ -162,7 +162,7 @@ not be given to living men because of the mythical fame and the cult of
 the hero--until Alexander the Great called so his son by Barsine;
 another almost identical compound name took its place, Heracleitus. On
 the other hand Diocleitus is wanting, because Diocles was used
-freely. <span id="fr_376"></span>[7](#fn_376)
+freely. <span id="fr_376"></span>[7](#fn_376.md)
 
 Heracles is a personal name which once was in common use, even though
 the man may be as fictitious as a folk-tale hero like Jack the
@@ -204,7 +204,7 @@ of Heracles are added to him secondarily; this is proved if we survey
 them. They are numerous, but none is of first-rate importance; nor has
 he any great festival, except perhaps that on Mount Oeta, which is
 simply an old rite appropriated by Heracles. <span
-id="fr_377"></span>[8](#fn_377) No cult of Heracles has been associated
+id="fr_377"></span>[8](#fn_377.md) No cult of Heracles has been associated
 with the cult of a god; elsewhere such a process is a testimony that a
 hero is a faded god
 
@@ -213,7 +213,7 @@ hero is a faded god
 who was superseded by a great god. Heracles was the averter of evil
 (ἀλεξίκακος), the strong and great helper in all difficulties, and
 according to this conception his cults are to be understood, as Dr.
-Farnell has shown. <span id="fr_378"></span>[9](#fn_378) There may have
+Farnell has shown. <span id="fr_378"></span>[9](#fn_378.md) There may have
 been many small and nameless local cults for which the name of the great
 hero seemed to be appropriate and which he took over, cults both of
 small local gods and of heroes. The cults of Heracles prove nothing as
@@ -250,7 +250,7 @@ these were probably the Heracles myths also.
 
 As a survey of the overwhelming mass of the Heracles myths the
 classification of the ancient mythographers is very much to the
-purpose. <span id="fr_379"></span>[10](#fn_379) They divide the myths
+purpose. <span id="fr_379"></span>[10](#fn_379.md) They divide the myths
 into three classes: 1. the Twelve Labors (*athloi* or *erga*) which
 Heracles performed on the injunction of Eurystheus, alone or with the
 aid of his charioteer and true friend Iolaus; 2. the Incidentals
@@ -282,10 +282,10 @@ in detail.
 
 The expedition against Pylos is a remodeling of an older and more
 serious myth to which I shall recur below. <span
-id="fr_380"></span>[11](#fn_380) Upon this expedition the war against
+id="fr_380"></span>[11](#fn_380.md) Upon this expedition the war against
 the Eleans was modeled, and thus the heroic twins, the Actorione or
 Molione, were joined with the myth. <span
-id="fr_381"></span>[12](#fn_381) The expedition against Sparta and that
+id="fr_381"></span>[12](#fn_381.md) The expedition against Sparta and that
 in which Heracles assisted Aegimius were added only after Heracles had
 become the champion of the Dorians. It would perhaps not be impossible
 to unravel the threads in this development of the myth. Furthermore, it
@@ -315,7 +315,7 @@ forgotten, they are probably of ancient origin. And Homer is the
 earliest testimony to which we have access.
 
 Among the Labors Homer mentions only the bringing back of
-Cerberus, <span id="fr_382"></span>[13](#fn_382) but it appears clearly
+Cerberus, <span id="fr_382"></span>[13](#fn_382.md) but it appears clearly
 that the Labors were well-known, although we cannot know which exploits
 were reckoned among them. For the Labors the word *athloi* is already in
 Homer a fixed word, a *terminus technicus*, and this proves the great
@@ -326,13 +326,13 @@ by an inferior man, Eurystheus, and the humorous detail is added
 
 that Eurystheus dared not to impart his commands in person to Heracles
 but spoke through his herald Copreus. The name designates him the
-"Dungman." <span id="fr_383"></span>[14](#fn_383) The same passage shows
+"Dungman." <span id="fr_383"></span>[14](#fn_383.md) The same passage shows
 that Eurystheus lived at Mycenae. Athena assisted Heracles through-out
 and even Zeus gave him aid.
 
 Hera instigated Eurystheus and her wrath was the real reason why
 Heracles was subject to so much pain and labor. A well-known
-passage <span id="fr_384"></span>[15](#fn_384) relates at length that
+passage <span id="fr_384"></span>[15](#fn_384.md) relates at length that
 Hera induced Zeus to swear that any male child of his kin born on a
 certain day should rule over all his neighbors, and that she held back
 the birth of Heracles and hurried on the birth of Eurystheus, so that
@@ -340,15 +340,15 @@ Heracles became subject to the latter. The quarrel of Zeus and his
 spouse in regard to Heracles is mentioned repeatedly, e.g., in the story
 that on the instigation of Hera, Hypnus, the god of Sleep, fettered Zeus
 whilst Heracles on his voyage back from Troy was driven by storm to
-Cos. <span id="fr_385"></span>[16](#fn_385) Two myths are especially
+Cos. <span id="fr_385"></span>[16](#fn_385.md) Two myths are especially
 interesting, because a later age did not receive them. One relates that
 Heracles wounded Hera in the breast <span
-id="fr_386"></span>[17](#fn_386) and the other says that Hera's wrath
-caused the death of Heracles. <span id="fr_387"></span>[18](#fn_387)
+id="fr_386"></span>[17](#fn_386.md) and the other says that Hera's wrath
+caused the death of Heracles. <span id="fr_387"></span>[18](#fn_387.md)
 
 Among the Praxeis the expedition against Troy is mentioned repeatedly.
 It is stated that Heracles destroyed Troy because of Laomedon's
-horses, <span id="fr_388"></span>[19](#fn_388) and the Hesione myth,
+horses, <span id="fr_388"></span>[19](#fn_388.md) and the Hesione myth,
 which clearly is a later accretion, is hinted at in the mention of a
 wall which the
 
@@ -356,18 +356,18 @@ wall which the
 
 <span class="contnote">\[paragraph continues\]</span> Trojans and Athena
 built as a protection against the sea monster. <span
-id="fr_389"></span>[20](#fn_389) Further, Nestor tells of Heracles' war
-against the Pylians. <span id="fr_390"></span>[21](#fn_390) The Rhodian
+id="fr_389"></span>[20](#fn_389.md) Further, Nestor tells of Heracles' war
+against the Pylians. <span id="fr_390"></span>[21](#fn_390.md) The Rhodian
 hero Tlepolemus, a son of Heracles, is mentioned, and in the Catalogue
 of the Ships even his mother Astyocheia. <span
-id="fr_391"></span>[22](#fn_391)
+id="fr_391"></span>[22](#fn_391.md)
 
 That Homer relates the myth of the birth of Heracles has been mentioned
 before. Thebes is said to be his birthplace and Alcmene his
-mother; <span id="fr_392"></span>[23](#fn_392) he is once even said to
-be the son of Amphitryon. <span id="fr_393"></span>[24](#fn_393) His
+mother; <span id="fr_392"></span>[23](#fn_392.md) he is once even said to
+be the son of Amphitryon. <span id="fr_393"></span>[24](#fn_393.md) His
 wife Megara appears only in the Nekyia. <span
-id="fr_394"></span>[25](#fn_394) In the end of this book we read the
+id="fr_394"></span>[25](#fn_394.md) In the end of this book we read the
 well-known passage which tells that the shadow of Heracles chases wild
 animals in the Underworld, whilst he himself lives among the gods as the
 spouse of Hebe. It is interesting that the typical figure of Heracles
@@ -391,7 +391,7 @@ are inventions due to the Homeric poet himself or are due to an old
 tradition which was obliterated in a later time.
 
 We may commence with a passage in the Odyssey <span
-id="fr_395"></span>[26](#fn_395) in which Odysseus boasts that he
+id="fr_395"></span>[26](#fn_395.md) in which Odysseus boasts that he
 surpasses all other heroes except Philoctetes in shooting with the bow,
 but adds that he does not wish to rival earlier heroes, neither Heracles
 nor Eurytus of Oichalia, whom Apollo killed in wrath because Eurytus
@@ -400,9 +400,9 @@ from this passage that Eurytus had not yet been introduced into the
 Heracles cycle. This introduction came about because both he and
 Heracles were famous archers, and quite naturally the myth told at first
 of a competition between Eurytus and Heracles. Different versions of
-this competition exist. <span id="fr_396"></span>[27](#fn_396)
+this competition exist. <span id="fr_396"></span>[27](#fn_396.md)
 
-There is a passage in the Iliad <span id="fr_397"></span>[28](#fn_397)
+There is a passage in the Iliad <span id="fr_397"></span>[28](#fn_397.md)
 in which Achilles grieves over the early death which is to be his but
 finds a consolation in the fact that not even Heracles escaped death but
 was overcome by the Moira and Hera's great wrath. It would perhaps be
@@ -423,13 +423,13 @@ character.
 
 An old trait appears, on the other hand, in the myths that Heracles
 wounded Hera in her right breast with an arrow and that "in the Gate,
-among the Dead," <span id="fr_398"></span>[29](#fn_398) he hit Hades
+among the Dead," <span id="fr_398"></span>[29](#fn_398.md) he hit Hades
 with an arrow. Here Heracles is depicted as the reckless and rough man
 who relying upon his strength uses violence even against the gods: "Rash
 man, worker of violence, that recked not of his evil deeds, seeing that
 with arrows he vexed the gods that hold Olympus." One is reminded of
 another tale in a late passage of the Odyssey, <span
-id="fr_399"></span>[30](#fn_399) that Heracles treacherously killed his
+id="fr_399"></span>[30](#fn_399.md) that Heracles treacherously killed his
 guest-friend Iphitus and kept his horses. Moral considerations are
 wanting in this Heracles just as they are wanting in Autolycus whom
 Hermes taught to steal and to deceive with false oaths. But the two
@@ -447,11 +447,11 @@ could but admire their valiant exploits. "Mightiest were these of all
 men reared upon earth, mightiest were they and with the mightiest they
 fought, with the beasts that had their lair among the mountains and in a
 terrible wise did they destroy them." <span
-id="fr_400"></span>[31](#fn_400) The Homeric poet is unable to
+id="fr_400"></span>[31](#fn_400.md) The Homeric poet is unable to
 understand how a mortal man can dare to raise weapons against a god.
 Diomedes does so, of course, but on the command of the Goddess Athena.
 Other examples belong to a past age and are told to warn someone against
-wantonness. <span id="fr_401"></span>[32](#fn_401)
+wantonness. <span id="fr_401"></span>[32](#fn_401.md)
 
 From such a reckless and savage nature everything might be expected. If
 he had killed his guest-friend treacherously and violated the unwritten
@@ -519,7 +519,7 @@ conception of him. It is the apotheosis. Heracles was a mortal man and
 became a god. In Greek mythology this is in fact an exception. The
 heroes are never made gods. Mortal men are carried off to an eternal
 life in the Elysian fields, or beneath the earth, <span
-id="fr_402"></span>[33](#fn_402) but not on Olympus. Eternal life but
+id="fr_402"></span>[33](#fn_402.md) but not on Olympus. Eternal life but
 not a place among the gods was given to Tithonus and promised to
 Odysseus. The divinity of Heracles appears to be late, perhaps
 post-Homeric, although the fact that it is not mentioned by Homer is not
@@ -539,7 +539,7 @@ mythology the problem was to harmonize his divinity with his human life.
 How this happened is shown by a recent find--the discovery of his cult
 place on the summit of Mount Oeta, where according to the myth the pyre
 was lit on which Heracles ended his mortal life and from which he
-ascended into Olympus. <span id="fr_403"></span>[34](#fn_403) Bonfires
+ascended into Olympus. <span id="fr_403"></span>[34](#fn_403.md) Bonfires
 kindled on a certain day are a very widespread custom and on these
 bonfires, offerings, puppets, or even living animals are often burned.
 The Greek instances have attracted less attention but they are not few
@@ -570,7 +570,7 @@ ancient and to modern mythographers.
 The Heracles who performed the Twelve Labors had his home at Tiryns,
 where he lived as a vassal of Eurystheus. He treacherously precipitated
 Iphitus from the walls of this town, and according to Hesiod <span
-id="fr_404"></span>[35](#fn_404) he drove the oxen of Geryon to Tiryns.
+id="fr_404"></span>[35](#fn_404.md) he drove the oxen of Geryon to Tiryns.
 His connection with Tiryns is so firmly established that the poet forgot
 that Heracles, who had seized them on the command of Eurystheus, ought
 to drive them to Mycenae. Homer does not mention Tiryns as his city, but
@@ -588,12 +588,12 @@ manner in which Alcmene and Amphitryon were inserted into the genealogy
 
 of Perseus is known. A poem attributed to Hesiod tells that Amphtryon,
 having killed his father-in-law, Electryon, fled from Tiryns to
-Thebes. <span id="fr_405"></span>[36](#fn_405) That is nothing but one
+Thebes. <span id="fr_405"></span>[36](#fn_405.md) That is nothing but one
 of the usual and easily recognized means of harmonizing two
 contradictory localizations and is of no value. I should rather be
 inclined to believe that the localization of Alcmene at Midea has
 something to do with old tradition. <span
-id="fr_406"></span>[37](#fn_406)
+id="fr_406"></span>[37](#fn_406.md)
 
 Modern scholars have attacked the problem in a different way, putting
 the question whether Heracles is originally a Theban or a Tirynthian,
@@ -733,10 +733,10 @@ was enlarged by the Athenians for
 
 patriotic purposes. The myths of Bellerophon form a similar cycle. Both
 have been treated in the preceding chapter. <span
-id="fr_407"></span>[38](#fn_407)
+id="fr_407"></span>[38](#fn_407.md)
 
 Very similar is the myth of Phylius. It is, however, related only in
-late authors, <span id="fr_408"></span>[39](#fn_408) and the reason why
+late authors, <span id="fr_408"></span>[39](#fn_408.md) and the reason why
 Phylius performed his deeds is apparently a Hellenistic invention. He
 was seized by love for a reluctant boy, Cycnus, who imposed upon him the
 following tasks: to kill a lion without iron, to capture some vultures
@@ -746,9 +746,9 @@ myth, which is localized between Calydon and Pleuron. We cannot state
 anything about its age.
 
 The myth of the eponymous hero of the city of Argos is older, for it is
-mentioned in the Eoeae of Hesiod. <span id="fr_409"></span>[40](#fn_409)
+mentioned in the Eoeae of Hesiod. <span id="fr_409"></span>[40](#fn_409.md)
 To this Argos the deeds belong which are ascribed to Argus with the
-hundred eyes in Apollodorus. <span id="fr_410"></span>[41](#fn_410) He
+hundred eyes in Apollodorus. <span id="fr_410"></span>[41](#fn_410.md) He
 killed a bull which ravaged Arcadia and put on its hide; he slew
 Satyrus, who robbed the herds of the Arcadians; he killed the sleeping
 Echidna, and he avenged the murder of Apis. The tendency appears clearly
@@ -802,7 +802,7 @@ bringing back of Cerberus has this significance, and the same is true of
 the fetching of the apples of the Hesperides. The garden of the
 Hesperides in the farthest west is identical with the Elysian fields to
 which the favorites of the gods are carried alive to eternal bliss. This
-idea is pre-Greek. <span id="fr_411"></span>[42](#fn_411) The inference
+idea is pre-Greek. <span id="fr_411"></span>[42](#fn_411.md) The inference
 to be drawn from this fact is that a cycle of Labors was already formed
 and provided with its natural and logical end in the Mycenaean age. As
 the Greeks had quite a different idea of the Other World, they did not
@@ -833,7 +833,7 @@ cannot see sufficient reason for this view, though it may be possible.
 It is uncertain what real fact underlies the myth of the race of warlike
 women, the Amazons. The opinion has been brought forward that they are a
 reminiscence of the Hittite empire, <span
-id="fr_412"></span>[43](#fn_412) but that cannot be proved conclusively,
+id="fr_412"></span>[43](#fn_412.md) but that cannot be proved conclusively,
 though it may be possible. If this is so, the myth originated in the
 Mycenaean age. I am not able to make any decision, but I should like to
 observe that this myth was so famous that inevitably it was sooner or
@@ -855,12 +855,12 @@ Homeric poems, may have aided the relocalization of the adventure.
 Professor Robert has given the opinion that this deed superseded an
 older one of similar character, viz., the capturing of the first horse,
 Arion; but he has not proved his point. <span
-id="fr_413"></span>[44](#fn_413) On the contrary, it ought to be
+id="fr_413"></span>[44](#fn_413.md) On the contrary, it ought to be
 observed that the Homeric as well as the Mycenaean knight needs not one
 horse but a team, for he does not ride but drives in a chariot. The myth
 telling how Heracles won his horses seems to me to be old, and we
 recognized its double in the myth of the seizing of the horses of
-Laomedon. <span id="fr_414"></span>[45](#fn_414)
+Laomedon. <span id="fr_414"></span>[45](#fn_414.md)
 
 If we look away from the details of the myths of Geryon and of Diomedes,
 their kernel is solely the capture of a famous team of horses or of a
@@ -876,7 +876,7 @@ similar to the first five, which are
 
 simple deeds of prowess against wild animals; the difference is only
 that this adventure is localized in a country farther off. I have
-already said <span id="fr_415"></span>[46](#fn_415) that I cannot see
+already said <span id="fr_415"></span>[46](#fn_415.md) that I cannot see
 the reason why the myth of the capture of a wild bull should have been
 transferred from Theseus to Heracles. The Cretan localization is very
 well understood as a reminiscence of the Cretan bull-ring, and
@@ -927,7 +927,7 @@ scenes are not rare in Mycenaean art; e.g. the lion hunt on the inlaid
 dagger from the fourth shaft-grave at Mycenae and the boar hunt on a
 wall painting from Tiryns. Mycenaean art corresponds so well to the
 exploits of Heracles that this coincidence strongly corroborates their
-Mycenaean origin.  <span id="fr_416"></span>[47](#fn_416)
+Mycenaean origin.  <span id="fr_416"></span>[47](#fn_416.md)
 
 It appears that tales of cattle-lifting agree very well with the life
 and the customs of this time, although it occurred at other times also.
@@ -977,164 +977,164 @@ to dwell upon the varied later development of the Heracles cycle.
 
 ### Footnotes
 
-<span id="fn_370"></span>[188:1](mog13.htm#fr_370) I mention here only
+<span id="fn_370"></span>[188:1](mog13.htm#fr_370.md) I mention here only
 some great works on Heracles: U. von Wilamowitz-Moellendorff, Euripides'
 Herakles (ed. 2, 1895); P. Friedländer, Herakles (1907); B. Schweitzer,
 Herakles (1922); C. Robert, *Die griechische Heldensage*, II (1921) pp.
 422 *et seq*.
 
-<span id="fn_371"></span>[189:2](mog13.htm#fr_371) We should expect *o*,
+<span id="fn_371"></span>[189:2](mog13.htm#fr_371.md) We should expect *o*,
 as e.g., in Herodotus, but see the article of P. Kretschmer quoted in
 the next note.
 
-<span id="fn_372"></span>[189:3](mog13.htm#fr_372) P. Kretschmer in the
+<span id="fn_372"></span>[189:3](mog13.htm#fr_372.md) P. Kretschmer in the
 periodical *Glotta*, viii (1917), p. 121 *et seq*.
 
-<span id="fn_373"></span>[189:4](mog13.htm#fr_373) I have to thank Dr.
+<span id="fn_373"></span>[189:4](mog13.htm#fr_373.md) I have to thank Dr.
 Halliday for useful hints in regard to this subject.
 
-<span id="fn_374"></span>[190:5](mog13.htm#fr_374) There are many such
+<span id="fn_374"></span>[190:5](mog13.htm#fr_374.md) There are many such
 names in Homer; see P. Cauer, *Grundfragen der Homerkritik* (ed. 3,
 1921), p. 543 *et seq*.
 
-<span id="fn_375"></span>[191:6](mog13.htm#fr_375) Cp. above pp.
-[42](mog04.htm#page_42) and [65](mog04.htm#page_65).
+<span id="fn_375"></span>[191:6](mog13.htm#fr_375.md) Cp. above pp.
+[42](mog04.htm#page_42) and [65](mog04.htm#page_65.md).
 
-<span id="fn_376"></span>[192:7](mog13.htm#fr_376) The observation is
+<span id="fn_376"></span>[192:7](mog13.htm#fr_376.md) The observation is
 due to Kretschmer *loc. cit.*
 
-<span id="fn_377"></span>[193:8](mog13.htm#fr_377) See my papers "Der
+<span id="fn_377"></span>[193:8](mog13.htm#fr_377.md) See my papers "Der
 Flammentod des Herakles auf dem Oite," *Archiv für
 Religionswissenschaft*, XXI (1922), p. 310 *et seq*.; and
 "Fire-Festivals in Ancient Greece," *Journal of Hellenic Studies*, XLIII
 (1923), p. 144 *et seq*.
 
-<span id="fn_378"></span>[194:9](mog13.htm#fr_378) L. R. Farnell, *Greek
+<span id="fn_378"></span>[194:9](mog13.htm#fr_378.md) L. R. Farnell, *Greek
 Hero Cults*, p. 95 *et seq*.
 
-<span id="fn_379"></span>[195:10](mog13.htm#fr_379) Cp. Robert, *loc.
+<span id="fn_379"></span>[195:10](mog13.htm#fr_379.md) Cp. Robert, *loc.
 cit.* p. 428 *et seq*.
 
-<span id="fn_380"></span>[196:11](mog13.htm#fr_380) Below [p.
-203](#page_203); cp. also above [p. 89](mog06.htm#page_89).
+<span id="fn_380"></span>[196:11](mog13.htm#fr_380.md) Below [p.
+203](#page_203); cp. also above [p. 89](mog06.htm#page_89.md).
 
-<span id="fn_381"></span>[196:12](mog13.htm#fr_381) Professor Schweitzer
+<span id="fn_381"></span>[196:12](mog13.htm#fr_381.md) Professor Schweitzer
 errs certainly in supposing that this episode is an old element of the
 Heracles myth; cp. my review of his above-mentioned book in *Deutsche
 Literaturzeitung*, 1922, p. 833 *et seq*.
 
-<span id="fn_382"></span>[197:13](mog13.htm#fr_382) *Il*. viii. v. 368,
+<span id="fn_382"></span>[197:13](mog13.htm#fr_382.md) *Il*. viii. v. 368,
 and in the Nekyia, *Od*. xi. v. 623.
 
-<span id="fn_383"></span>[198:14](mog13.htm#fr_383) *Il*. xv. v. 639.
+<span id="fn_383"></span>[198:14](mog13.htm#fr_383.md) *Il*. xv. v. 639.
 
-<span id="fn_384"></span>[198:15](mog13.htm#fr_384) *Il*. xix. v. 98 *et
+<span id="fn_384"></span>[198:15](mog13.htm#fr_384.md) *Il*. xix. v. 98 *et
 seq*.
 
-<span id="fn_385"></span>[198:16](mog13.htm#fr_385) *Il*. xiv. v. 649
+<span id="fn_385"></span>[198:16](mog13.htm#fr_385.md) *Il*. xiv. v. 649
 *et seq*., and xv. v. 25 *et seq*.
 
-<span id="fn_386"></span>[198:17](mog13.htm#fr_386) *Il*. v. v. 392.
+<span id="fn_386"></span>[198:17](mog13.htm#fr_386.md) *Il*. v. v. 392.
 
-<span id="fn_387"></span>[198:18](mog13.htm#fr_387) *Il*. xviii. v. 117
+<span id="fn_387"></span>[198:18](mog13.htm#fr_387.md) *Il*. xviii. v. 117
 *et seq*.
 
-<span id="fn_388"></span>[198:19](mog13.htm#fr_388) *Il*. v. v. 640, and
+<span id="fn_388"></span>[198:19](mog13.htm#fr_388.md) *Il*. v. v. 640, and
 xiv. v. 250.
 
-<span id="fn_389"></span>[199:20](mog13.htm#fr_389) *Il*. xx. v. 145.
+<span id="fn_389"></span>[199:20](mog13.htm#fr_389.md) *Il*. xx. v. 145.
 
-<span id="fn_390"></span>[199:21](mog13.htm#fr_390) *Il*. xi. v. 690 *et
+<span id="fn_390"></span>[199:21](mog13.htm#fr_390.md) *Il*. xi. v. 690 *et
 seq*.
 
-<span id="fn_391"></span>[199:22](mog13.htm#fr_391) *Il*. v. v. 638, and
+<span id="fn_391"></span>[199:22](mog13.htm#fr_391.md) *Il*. v. v. 638, and
 ii. v. 658 resp.
 
-<span id="fn_392"></span>[199:23](mog13.htm#fr_392) *Il*. xix. v. 99,
+<span id="fn_392"></span>[199:23](mog13.htm#fr_392.md) *Il*. xix. v. 99,
 and in the interpolated passage, xiv. v. 323.
 
-<span id="fn_393"></span>[199:24](mog13.htm#fr_393) *Il*. v. v. 392.
+<span id="fn_393"></span>[199:24](mog13.htm#fr_393.md) *Il*. v. v. 392.
 
-<span id="fn_394"></span>[199:25](mog13.htm#fr_394) *Od*., xi. v. 269.
+<span id="fn_394"></span>[199:25](mog13.htm#fr_394.md) *Od*., xi. v. 269.
 
-<span id="fn_395"></span>[200:26](mog13.htm#fr_395) *Od*. viii. v. 223
+<span id="fn_395"></span>[200:26](mog13.htm#fr_395.md) *Od*. viii. v. 223
 *et seq*.; cp. xxi., v. 32 *et seq*.
 
-<span id="fn_396"></span>[200:27](mog13.htm#fr_396) Cp. Robert, *loc.
+<span id="fn_396"></span>[200:27](mog13.htm#fr_396.md) Cp. Robert, *loc.
 cit.*, p. 582.
 
-<span id="fn_397"></span>[200:28](mog13.htm#fr_397) *Il*. xviii. v. 115
+<span id="fn_397"></span>[200:28](mog13.htm#fr_397.md) *Il*. xviii. v. 115
 *et seq*.
 
-<span id="fn_398"></span>[201:29](mog13.htm#fr_398) *Il*. v. v. 319 *et
+<span id="fn_398"></span>[201:29](mog13.htm#fr_398.md) *Il*. v. v. 319 *et
 seq*. The Greek words are: ἐν Πύλῳ ἐν νεκύεσσιν.
 
-<span id="fn_399"></span>[201:30](mog13.htm#fr_399) *Od*. xxi. v. 25 *et
+<span id="fn_399"></span>[201:30](mog13.htm#fr_399.md) *Od*. xxi. v. 25 *et
 seq*.
 
-<span id="fn_400"></span>[202:31](mog13.htm#fr_400) *Il*. i. v. 266.
+<span id="fn_400"></span>[202:31](mog13.htm#fr_400.md) *Il*. i. v. 266.
 
-<span id="fn_401"></span>[202:32](mog13.htm#fr_401) With the exception
+<span id="fn_401"></span>[202:32](mog13.htm#fr_401.md) With the exception
 of the story of Idas related *Il*. x. v. 558 *et seq*. The instances are
 collected by R. Oehler, *Mythologische Exempla in der älteren
 griechischen Dichtung* (Dissertation, Basle, 1925).
 
-<span id="fn_402"></span>[204:33](mog13.htm#fr_402) This point of view
+<span id="fn_402"></span>[204:33](mog13.htm#fr_402.md) This point of view
 is especially brought forward by E. Rohde in his famous book *Psyche*.
 
-<span id="fn_403"></span>[205:34](mog13.htm#fr_403) See [p.
-193](#page_193), n. [8](#fn_377).
+<span id="fn_403"></span>[205:34](mog13.htm#fr_403.md) See [p.
+193](#page_193), n. [8](#fn_377.md).
 
-<span id="fn_404"></span>[206:35](mog13.htm#fr_404) Hesiod, *Theogony*,
+<span id="fn_404"></span>[206:35](mog13.htm#fr_404.md) Hesiod, *Theogony*,
 v. 292.
 
-<span id="fn_405"></span>[207:36](mog13.htm#fr_405) Hesiod, *The Shield
+<span id="fn_405"></span>[207:36](mog13.htm#fr_405.md) Hesiod, *The Shield
 of Heracles*, v. 79, *et seq*.
 
-<span id="fn_406"></span>[207:37](mog13.htm#fr_406) The tradition of the
+<span id="fn_406"></span>[207:37](mog13.htm#fr_406.md) The tradition of the
 residence of her father Electryon is very varying and little to be
 relied upon: Midea, Theocritus, xiii. 20, and xxiv. 1; Paus. ii. 25, 9;
 Tiryns, Euripides, *Alc*., 838; Mycenae, Apollod. ii. 4, 6, 1.
 
-<span id="fn_407"></span>[212:38](mog13.htm#fr_407) Above pp.
-[51](mog04.htm#page_51) *et seq*. and [163](mog11.htm#page_163) *et
+<span id="fn_407"></span>[212:38](mog13.htm#fr_407.md) Above pp.
+[51](mog04.htm#page_51) *et seq*. and [163](mog11.htm#page_163.md) *et
 seq*. resp.
 
-<span id="fn_408"></span>[212:39](mog13.htm#fr_408) Ovidius,
+<span id="fn_408"></span>[212:39](mog13.htm#fr_408.md) Ovidius,
 *Metamorphoses*, vii. 372 *et seq*.; Antoninus Liberalis,
 *Metamorphoses*, chap. 12.
 
-<span id="fn_409"></span>[212:40](mog13.htm#fr_409) Hesiod, frag. 137,
+<span id="fn_409"></span>[212:40](mog13.htm#fr_409.md) Hesiod, frag. 137,
 Rzach ed. 3, according to Paus. ii. 26, 2, where he is said to be father
 of Epidaurus.
 
-<span id="fn_410"></span>[212:41](mog13.htm#fr_410) Apollodorus, ii, 1,
+<span id="fn_410"></span>[212:41](mog13.htm#fr_410.md) Apollodorus, ii, 1,
 2, 2.
 
-<span id="fn_411"></span>[214:42](mog13.htm#fr_411) Malten, "Elysion and
+<span id="fn_411"></span>[214:42](mog13.htm#fr_411.md) Malten, "Elysion and
 Rhadamanthys," *Jahrbuch des deutschen archäolog. Instituts*, XXVIII
 (1912), p. 35 *et seq*. See also my *Minoan-Mycenaean Religion*, p. 542
 *et seq*. For the opposite view see P. Capelle, "Elysium and die Inseln
 der Seeligen," Archiv fir Religionswissenschaft, XXV (1927), p. 245 *et
 seq*., and XXVI (1928), p. 17 *et seq*.
 
-<span id="fn_412"></span>[215:43](mog13.htm#fr_412) W. Leonhard,
+<span id="fn_412"></span>[215:43](mog13.htm#fr_412.md) W. Leonhard,
 *Hettiter and Amazonen* (1911).
 
-<span id="fn_413"></span>[216:44](mog13.htm#fr_413) C. Robert, *loc.
+<span id="fn_413"></span>[216:44](mog13.htm#fr_413.md) C. Robert, *loc.
 cit.*, p. 437. The argument that Heracles appears with only one horse on
 the metopes from the temple of Zeus at Olympia and from the so-called
 Theseion in Athens is not sufficient. That may be due to considerations
 of artistic order.
 
-<span id="fn_414"></span>[216:45](mog13.htm#fr_414) Above p. 197.
+<span id="fn_414"></span>[216:45](mog13.htm#fr_414.md) Above p. 197.
 
-<span id="fn_415"></span>[217:46](mog13.htm#fr_415) Above [p.
-169](mog11.htm#page_169).
+<span id="fn_415"></span>[217:46](mog13.htm#fr_415.md) Above [p.
+169](mog11.htm#page_169.md).
 
-<span id="fn_416"></span>[218:47](mog13.htm#fr_416) Cp. above [p.
-75](mog05.htm#page_75).
+<span id="fn_416"></span>[218:47](mog13.htm#fr_416.md) Cp. above [p.
+75](mog05.htm#page_75.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Olympus](mog14)
+[Next: Chapter IV. Olympus](mog14.md)

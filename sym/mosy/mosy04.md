@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Index](index)  [Previous](mosy03)  [Next](mosy05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Index](index)  [Previous](mosy03)  [Next](mosy05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Migration of Symbols*, by Goblet d'Alviella, \[1894\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 ### THE AUTHOR'S PREFACE.
 
 <span class="smallcaps">Few</span> words have acquired such a wide
-signification as the word symbol. <span id="fr_12"></span>[1](#fn_12)
+signification as the word symbol. <span id="fr_12"></span>[1](#fn_12.md)
 Originally applied, amongst the Greeks, to the two halves of the tablet
 they divided between themselves as a pledge of hospitality—in the manner
 of our contract forms, detached along a line of perforations from the
@@ -57,7 +57,7 @@ the Eleusinian mysteries, the author of *Philosophoumena* relates that,
 at the initiation to the higher degree, "there was exhibited as the
 great, the admirable, the most perfect object of mystic contemplation,
 an ear of corn that had been reaped in silence." <span
-id="fr_13"></span>[1](#fn_13) The scrap of cloth which, in ordinary
+id="fr_13"></span>[1](#fn_13.md) The scrap of cloth which, in ordinary
 circumstances, we discard as a rag, at the top of a staff sums up all
 the aspirations included in the idea of one's country; and two crossed
 lines suffice to recall to millions of Christians the redemption of the
@@ -83,14 +83,14 @@ is simply the symbol of an unknown and unknowable Reality. Herbert
 Spencer even adds, in the most explicit terms, that it will always be
 permissible for us to picture to ourselves that Reality by concrete
 symbols, so long as we do not regard them as resemblances of that for
-which they stand. <span id="fr_14"></span>[1](#fn_14)
+which they stand. <span id="fr_14"></span>[1](#fn_14.md)
 
 In this sense we may apply to the symbol what Professor Sabatier has
 written of the myth:—"To create a myth, that is to say, to catch a
 glimpse of a higher truth behind a palpable reality, is the most
 manifest sign of the greatness of the human soul, and the proof of its
 faculty of infinite growth and development." <span
-id="fr_15"></span>[2](#fn_15) Without doubt the symbols that have
+id="fr_15"></span>[2](#fn_15.md) Without doubt the symbols that have
 attracted in the highest degree the veneration of the multitude have
 been the representative signs of gods, often uncouth and indecent; but
 what have the gods themselves ever been, except the more or less
@@ -285,19 +285,19 @@ Brabant,</span>
 
 ### Footnotes
 
-<span id="fn_12"></span>[1:1](mosy04.htm#fr_12) Σύμβολον, from σύν and
+<span id="fn_12"></span>[1:1](mosy04.htm#fr_12.md) Σύμβολον, from σύν and
 βάλλειν, to throw together.
 
-<span id="fn_13"></span>[2:1](mosy04.htm#fr_13) *Philosophoumena*, v.
+<span id="fn_13"></span>[2:1](mosy04.htm#fr_13.md) *Philosophoumena*, v.
 i., ed. Cruyce. Paris, 1860, p. 171.
 
-<span id="fn_14"></span>[3:1](mosy04.htm#fr_14) *First Principles*.
+<span id="fn_14"></span>[3:1](mosy04.htm#fr_14.md) *First Principles*.
 Lond. 1862, § 32.
 
-<span id="fn_15"></span>[3:2](mosy04.htm#fr_15) <span
+<span id="fn_15"></span>[3:2](mosy04.htm#fr_15.md) <span
 class="smallcaps">A. Sabatier</span>. *Mémoire sur la notion hébraïque
 de l’esprit*. Paris, 1879.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. On Symbols Common to Different Races](mosy05)
+[Next: Chapter I. On Symbols Common to Different Races](mosy05.md)

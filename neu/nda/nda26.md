@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda25)  [Next](nda27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda25)  [Next](nda27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -130,7 +130,7 @@ Weise, the city of Norumbega
 
 <span id="img_29800"></span> <span align="CENTER"> [![MAP OF VINLAND
 from accounts contained in Old Northern MSS](tn/29800.jpg)  
-Click to enlarge](img/29800.jpg)  
+Click to enlarge](img/29800.jpg.md)  
 MAP OF VINLAND from accounts contained in Old Northern MSS  
 </span>
 
@@ -169,7 +169,7 @@ James Russell Lowell, Henry Wadsworth Longfellow, Oliver Wendell Holmes,
 Thomas S. Appleton, Prof. E. N. Horsford, the Governor of Massachusetts,
 the Mayor of Boston and many other distinguished people. Funds were
 rapidly raised, and America's most distinguished sculptress, Miss Anne
-Whitney, <span id="fr_56"></span>[1](#fn_56) was engaged to produce in
+Whitney, <span id="fr_56"></span>[1](#fn_56.md) was engaged to produce in
 bronze a statue of Leif Erikson in heroic size. In due time the statue
 was completed and placed at the end of Commonwealth Avenue in Boston.
 The statue represents Leif Erickson as he discovers the first faint
@@ -539,7 +539,7 @@ many of Horsford's conclusions.
 
 ### Footnotes
 
-<span id="fn_56"></span>[300:1](nda26.htm#fr_56) Miss Anne Whitney was
+<span id="fn_56"></span>[300:1](nda26.htm#fr_56.md) Miss Anne Whitney was
 born in Watertown, Mass. She opened a studio as sculptress in Boston in
 1873, and has made among other notable works, a statue of Samuel Adams
 and one of Harriet Martineau.
@@ -547,4 +547,4 @@ and one of Harriet Martineau.
 ------------------------------------------------------------------------
 
 [Next: Chapter II. Norse Voyages In The: Tenth And Following
-Centuries](nda27)
+Centuries](nda27.md)

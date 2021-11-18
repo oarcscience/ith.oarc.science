@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob09)  [Next](lbob11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob09)  [Next](lbob11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -65,24 +65,24 @@ Nepthalim, Alexander, Cyrus, and other Jews, went to Pilate about Jesus,
 accusing him with many bad crimes.
 
 2 And said, We are assured that Jesus is the son of Joseph the
-carpenter, <span id="fr_36"></span>[1](#fn_36) land born of Mary, and
+carpenter, <span id="fr_36"></span>[1](#fn_36.md) land born of Mary, and
 that he declares himself the Son of God, and a king; <span
-id="fr_37"></span>[2](#fn_37) and not only so, but attempts the
-dissolution of the sabbath, <span id="fr_38"></span>[3](#fn_38) and the
+id="fr_37"></span>[2](#fn_37.md) and not only so, but attempts the
+dissolution of the sabbath, <span id="fr_38"></span>[3](#fn_38.md) and the
 laws of our fathers.
 
 3 Pilate replied; What is it which he declares? and what is it which he
 attempts dissolving?
 
 4 The Jews told him, We have a law which forbids doing cures on the
-sabbath day; <span id="fr_39"></span>[4](#fn_39) but he cures both the
+sabbath day; <span id="fr_39"></span>[4](#fn_39.md) but he cures both the
 lame and the deaf, those afflicted with the palsy, the blind, and
 lepers, and demoniacs, on that day by wicked methods.
 
 5 Pilate replied, How can he do this by wicked methods? They answered,
 He is a conjurer, and casts out devils by the prince of the
-devils; <span id="fr_40"></span>[5](#fn_40)  <span
-id="fr_41"></span>[6](#fn_41) and so all things become subject to him.
+devils; <span id="fr_40"></span>[5](#fn_40.md)  <span
+id="fr_41"></span>[6](#fn_41.md) and so all things become subject to him.
 
 6 Then said Pilate, Casting out devils seems not to be the work of an
 unclean spirit, but to proceed from the power of God.
@@ -112,7 +112,7 @@ their hands.
 
 13 Others spread their garments in the way, and said, Save us, thou who
 art in heaven; blessed is he who cometh in the name of the Lord. <span
-id="fr_42"></span>[7](#fn_42)
+id="fr_42"></span>[7](#fn_42.md)
 
 14 Then the Jews cried out, against the messenger, and said, The
 children of the Hebrews made their acclamations in the Hebrew language;
@@ -123,7 +123,7 @@ and how couldst thou, who art a Greek, understand the Hebrew?
 <span id="img_06500"></span> <span align="CENTER"> [![MARY OFFERING IN
 THE TEMPLE. FROM A GREEK DIPTYCHON OF THE THIRTEENTH OR FOURTEENTH
 CENTURY.](tn/06500.jpg)  
-Click to enlarge](img/06500.jpg)  
+Click to enlarge](img/06500.jpg.md)  
 MARY OFFERING IN THE TEMPLE. FROM A GREEK DIPTYCHON OF THE THIRTEENTH OR
 FOURTEENTH CENTURY.  
 </span>
@@ -205,7 +205,7 @@ sent to him, saying
 
 <span class="contnote">\[paragraph continues\]</span> Have thou nothing
 to do with that just man; for I have suffered much concerning him in a
-vision this night. <span id="fr_43"></span>[1](#fn_43)
+vision this night. <span id="fr_43"></span>[1](#fn_43.md)
 
 3 When the Jews heard this they said to Pilate, Did we not say unto
 thee, He is a conjuror? Behold, he hath caused thy wife to dream.
@@ -259,7 +259,7 @@ have said, and we will be contented to be put to death.
 15 Then said Annas and Caiaphas to Pilate, Those twelve men will not
 believe that we know him to be basely born, and to be a conjuror,
 although he pretends that he is the son of God, and a king: <span
-id="fr_44"></span>[2](#fn_44) which we are so far from believing, that
+id="fr_44"></span>[2](#fn_44.md) which we are so far from believing, that
 we tremble to hear.
 
 16 Then Pilate commanded every one to go out except the twelve men who
@@ -270,7 +270,7 @@ distance, and said to them, Why have the Jews a mind to kill Jesus?
 
 17 They answered him, They are angry because he wrought cures on the
 Sabbath day. Pilate said, Will they kill him for good work? <span
-id="fr_45"></span>[1](#fn_45) They say unto him, Yes, Sir.
+id="fr_45"></span>[1](#fn_45.md) They say unto him, Yes, Sir.
 
 #### CHAP. III.
 
@@ -279,7 +279,7 @@ Pilate concerning Truth*.</span>
 
 THEN Pilate, filled with anger, went out of the hall, and said to the
 Jews, I call the whole world to witness that I find no fault in that
-man. <span id="fr_46"></span>[2](#fn_46)
+man. <span id="fr_46"></span>[2](#fn_46.md)
 
 2 The Jews replied to Pilate, If he had not been a wicked person, we had
 not brought him before thee.
@@ -289,7 +289,7 @@ not brought him before thee.
 4 Then the Jews said, It is not lawful for us to put any one to death.
 
 5 Pilate said to the Jews, The command, therefore thou shalt not
-kill, <span id="fr_47"></span>[3](#fn_47) belongs to you, but not to me.
+kill, <span id="fr_47"></span>[3](#fn_47.md) belongs to you, but not to me.
 
 6 And he went again into the hall, and called Jesus by himself, and said
 to him, Art thou the king of the Jews?
@@ -334,11 +334,11 @@ and in three days build it up again.
 speaketh?
 
 4 The Jews say unto him, That which Solomon was forty-six years in
-building, <span id="fr_48"></span>[4](#fn_48) he said he would destroy,
+building, <span id="fr_48"></span>[4](#fn_48.md) he said he would destroy,
 and in three days build up.
 
 5 Pilate said to them again, I am innocent from the blood of that man;
-do ye look to it. <span id="fr_49"></span>[5](#fn_49)
+do ye look to it. <span id="fr_49"></span>[5](#fn_49.md)
 
 <span id="page_68">p. 68</span>
 
@@ -350,7 +350,7 @@ the sabbath, worthy of death.
 
 7 The Priests and Levites replied to Pilate, By the life of Cæsar, if
 any one be a blasphemer, he is worthy of death; <span
-id="fr_50"></span>[1](#fn_50) but this man hath blasphemed against the
+id="fr_50"></span>[1](#fn_50.md) but this man hath blasphemed against the
 Lord.
 
 8 Then the governor again commanded the Jews to depart out of the hall;
@@ -377,11 +377,11 @@ blaspheme against the Lord, he shall be stoned.
 try him according to your law.
 
 16 The Jews say to Pilate, Our law commands us not to put any one to
-death: <span id="fr_51"></span>[2](#fn_51) we desire that he may be
+death: <span id="fr_51"></span>[2](#fn_51.md) we desire that he may be
 crucified, because he deserves the death of the cross.
 
 17 Pilate saith to them, It is not fit he should be crucified: let him
-be only whipped and sent away. <span id="fr_52"></span>[3](#fn_52)
+be only whipped and sent away. <span id="fr_52"></span>[3](#fn_52.md)
 
 18 But when the governor looked upon the people that were present and
 the Jews, he saw many of the Jews in tears, and said to the chief
@@ -416,21 +416,21 @@ as no man on earth ever wrought before,
 
 <span id="page_69">p. 69</span>
 
-nor will ever work. <span id="fr_53"></span>[1](#fn_53) Let him go, and
+nor will ever work. <span id="fr_53"></span>[1](#fn_53.md) Let him go, and
 do him no harm; if he cometh from God, his miracles, (his miraculous
 cures) will continue; but if from men, they will come to nought. <span
-id="fr_54"></span>[2](#fn_54)
+id="fr_54"></span>[2](#fn_54.md)
 
 5 Thus Moses, when he was sent by God into Egypt, wrought the miracles
 which God commanded him, before Pharaoh king of Egypt; and though the
 magicians of that country, Jannes and Jambres, <span
-id="fr_55"></span>[3](#fn_55) wrought by their magic the same miracles
+id="fr_55"></span>[3](#fn_55.md) wrought by their magic the same miracles
 which Moses did, yet they could not work all which he did; <span
-id="fr_56"></span>[4](#fn_56)
+id="fr_56"></span>[4](#fn_56.md)
 
 6 And the miracles which the magicians wrought, were not of God, as ye
 know, O Scribes and Pharisees; but they who wrought them perished, and
-all who believed them. <span id="fr_57"></span>[5](#fn_57)
+all who believed them. <span id="fr_57"></span>[5](#fn_57.md)
 
 7 And now let this man go; because the very miracles for which ye accuse
 him, are from God; and he is not worthy of death.
@@ -466,7 +466,7 @@ troubled, to put me into the pool.
 
 16 And he said unto me, Rise, take up thy bed and walk. And I was
 immediately made whole, and took up my bed and walked. <span
-id="fr_58"></span>[6](#fn_58)
+id="fr_58"></span>[6](#fn_58.md)
 
 17 The Jews then said to Pilate, Our Lord Governor, pray ask him what
 day it was on which he was cured of his infirmity.
@@ -476,7 +476,7 @@ day it was on which he was cured of his infirmity.
 19 The Jews said to Pilate, Did we not say that he wrought his cures on
 the sabbath, and cast out devils by the prince of devils?
 
-20 Then another certain <span id="fr_59"></span>[7](#fn_59) Jew came
+20 Then another certain <span id="fr_59"></span>[7](#fn_59.md) Jew came
 forth, and said, I was blind, could hear sounds, but could not see any
 one; and as Jesus was going along, I heard the multitude passing by, and
 I asked what was there?
@@ -495,15 +495,15 @@ me, What wilt thou?
 him, rejoicing and giving thanks.
 
 24 Another Jew also came forth, and said,  <span
-id="fr_60"></span>[1](#fn_60) I was a leper, and he cured me by his word
+id="fr_60"></span>[1](#fn_60.md) I was a leper, and he cured me by his word
 only, saying, I will, be thou clean; and presently I was cleansed from
 my leprosy.
 
 25 And another Jew came forth, and said, I was crooked, and he made me
-straight by his word. <span id="fr_61"></span>[2](#fn_61)
+straight by his word. <span id="fr_61"></span>[2](#fn_61.md)
 
 26 ¶ And a certain woman named Veronica, said,  <span
-id="fr_62"></span>[3](#fn_62) I was afflicted with an issue of blood
+id="fr_62"></span>[3](#fn_62.md) I was afflicted with an issue of blood
 twelve years, and I touched the hem of his garments, and presently the
 issue of my blood stopped.
 
@@ -511,7 +511,7 @@ issue of my blood stopped.
 as an evidence.
 
 28 And, after other things, another Jew said,  <span
-id="fr_63"></span>[4](#fn_63) I saw Jesus invited to a wedding with his
+id="fr_63"></span>[4](#fn_63.md) I saw Jesus invited to a wedding with his
 disciples, and there was a want of wine in Cana of Galilee;
 
 29 And when the wine was all drank, he commanded the servants that they
@@ -520,7 +520,7 @@ up to the brim, and he blessed them, and turned the water into wine, and
 all the people drank, being surprised at this miracle.
 
 30 And another Jew stood forth, and said,  <span
-id="fr_64"></span>[5](#fn_64) I saw Jesus teaching in the synagogue at
+id="fr_64"></span>[5](#fn_64.md) I saw Jesus teaching in the synagogue at
 Capernaum; and there was in the synagogue a certain man who had a devil;
 and he cried out, saying, let me alone; what have we to do with thee,
 Jesus of Nazareth? Art thou come to destroy us? I know that thou art the
@@ -533,14 +533,14 @@ all hurt him.
 32 The following things were also said by a Pharisee; I saw that a great
 company came to Jesus from Galilee and Judaea, and the sea-coast, and
 many countries about Jordan, and many infirm persons came to him, and he
-healed them all. <span id="fr_65"></span>[6](#fn_65)
+healed them all. <span id="fr_65"></span>[6](#fn_65.md)
 
 33 And I heard the unclean spirits crying out, and saying, <span
-id="fr_66"></span>[7](#fn_66) Thou art the Son of God. And Jesus
+id="fr_66"></span>[7](#fn_66.md) Thou art the Son of God. And Jesus
 strictly charged them, that they should not make him known.
 
 34 ¶ After this another person, whose name was Centurio, said, <span
-id="fr_67"></span>[8](#fn_67) I saw Jesus in Capernaum, and I entreated
+id="fr_67"></span>[8](#fn_67.md) I saw Jesus in Capernaum, and I entreated
 him, saying, Lord, my servant lieth at home sick of the palsy.
 
 35 And Jesus said to me, I will come and cure him.
@@ -576,7 +576,7 @@ Why are not the devils subject your doctors?
 but from God.
 
 45 But others said to Pilate That he had <span
-id="fr_68"></span>[1](#fn_68) raised Lazarus from the dead, after he had
+id="fr_68"></span>[1](#fn_68.md) raised Lazarus from the dead, after he had
 been four days in his grave.
 
 46 The governor hearing this, trembling said to the multitude of the
@@ -592,7 +592,7 @@ blood,* 23 *and sentences him to be whipped and crucified*.</span>
 THEN Pilate having called together Nicodemus, and the fifteen men who
 said that Jesus was not born through fornication, said to them, What
 shall I do, seeing there is like to be a tumult among the people. <span
-id="fr_69"></span>[2](#fn_69)
+id="fr_69"></span>[2](#fn_69.md)
 
 2 They said unto him, We know not; let them look to it who raise the
 tumult.
@@ -604,7 +604,7 @@ of the passover;
 4 I have a noted prisoner, a murderer, who is called Barabbas, and Jesus
 who is called Christ, in whom I find nothing that deserves death; which
 of them therefore have you a mind that I should release to you? <span
-id="fr_70"></span>[3](#fn_70)
+id="fr_70"></span>[3](#fn_70.md)
 
 5 They all cry out, and say, Release to us Barabbas.
 
@@ -614,7 +614,7 @@ Christ?
 7 They all answer, Let him be crucified.
 
 8 Again they cry out and say to Pilate, You are not the friend of Cæsar,
-if you release this man? <span id="fr_71"></span>[4](#fn_71) for he hath
+if you release this man? <span id="fr_71"></span>[4](#fn_71.md) for he hath
 declared that he is the Son of God, and a king. But are you inclined
 that he should be king, and not Cæsar?
 
@@ -656,7 +656,7 @@ troubled, and would have killed him.
 Egypt. Herod, when he heard he was born, would have slain him; and
 accordingly sent and slew all the children which were in Bethlehem, and
 in all the coasts thereof, from two years old and under. <span
-id="fr_72"></span>[1](#fn_72)
+id="fr_72"></span>[1](#fn_72.md)
 
 18 When Pilate heard this account, he was afraid; and commanding silence
 among the people, who made a noise, he said to Jesus, Art thou therefore
@@ -667,7 +667,7 @@ sought to have slain.
 
 20 Then Pilate taking water, washed his hands before the people and
 said, I am innocent of the blood of this just person; look ye to
-it <span id="fr_73"></span>[2](#fn_73).
+it <span id="fr_73"></span>[2](#fn_73.md).
 
 21 The Jews answered and said, His blood be upon us and our children.
 
@@ -688,7 +688,7 @@ thieves*.</span>
 THEN Jesus went out of the hall, and the two thieves with him.
 
 2 And when they came to the place which is called Golgotha, <span
-id="fr_74"></span>[3](#fn_74) they stript him of his raiment, and girt
+id="fr_74"></span>[3](#fn_74.md) they stript him of his raiment, and girt
 him about with a linen cloth, and put a crown of thorns upon his head,
 and put a reed in his hand.
 
@@ -708,7 +708,7 @@ do.
 CHRIST. FROM A PAINTING ON WOOD BY FRA FILIPPO LIPPI. RIGHT: THE MURDER
 OF THE INNOCENTS. FROM A PAINTING ON WOOD BY MATTEO DI
 GIOVANNI.](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)  
+Click to enlarge](img/07300.jpg.md)  
 LEFT: THE BIRTH OF CHRIST. FROM A PAINTING ON WOOD BY FRA FILIPPO LIPPI.
 RIGHT: THE MURDER OF THE INNOCENTS. FROM A PAINTING ON WOOD BY MATTEO DI
 GIOVANNI.  
@@ -723,12 +723,12 @@ to him to drink, and said to him, If thou art king of the Jews deliver
 thyself.
 
 8 Then Longinus, a certain soldier, taking a spear, <span
-id="fr_75"></span>[1](#fn_75) pierced his side, and presently there came
+id="fr_75"></span>[1](#fn_75.md) pierced his side, and presently there came
 forth blood and water.
 
 9 And Pilate wrote the title upon the cross in Hebrew, Latin, and Greek
 letters, viz. This is the king of the Jews. <span
-id="fr_76"></span>[2](#fn_76)
+id="fr_76"></span>[2](#fn_76.md)
 
 10 But one of the two thieves who were crucified with Jesus, whose name
 was Gestas, said to Jesus, If thou art the Christ, deliver thyself and
@@ -751,7 +751,7 @@ thou shalt be with me in Paradise.
 say the eclipse was natural.* 12 *Joseph of Arimathæa embalms Christ's
 body and buries it*.</span>
 
-AND it was about the sixth hour, <span id="fr_77"></span>[3](#fn_77) and
+AND it was about the sixth hour, <span id="fr_77"></span>[3](#fn_77.md) and
 darkness was upon the face of the whole earth until the ninth hour.
 
 2 And while the sun was eclipsed, behold the vail of the temple was rent
@@ -790,7 +790,7 @@ observing all these things.
 
 <span id="page_74">p. 74</span>
 
-12 And <span id="fr_78"></span>[1](#fn_78) behold a certain man of
+12 And <span id="fr_78"></span>[1](#fn_78.md) behold a certain man of
 Arimathæa, named Joseph, who also was a disciple of Jesus, but not
 openly so, for fear of the Jews, came to the governor, and entreated the
 governor that he would give him leave to take away the body of Jesus
@@ -804,7 +804,7 @@ with tears, and bound him with linen cloths with spices, according to
 the custom of burying among the Jews,
 
 15 And placed him in a new tomb, which Joseph had built, and caused to
-be cut out of a rock, [in](errata.htm#2) which never any man had been
+be cut out of a rock, [in](errata.htm#2.md) which never any man had been
 put; and they rolled a great stone to the door of the sepulchre.
 
 #### CHAP. IX.
@@ -854,7 +854,7 @@ doctors know that God saith by the prophet, Vengeance is mine, and I
 
 <span id="page_75">p. 75</span>
 
-will repay to you <span id="fr_79"></span>[1](#fn_79) evil equal to that
+will repay to you <span id="fr_79"></span>[1](#fn_79.md) evil equal to that
 which ye have threatened to me.
 
 10 The God whom you have hanged upon the cross, is able to deliver me
@@ -893,10 +893,10 @@ not find Joseph.
 at Joseph's being gone, behold one of the soldiers, who kept the
 sepulchre of Jesus, spake in the assembly.
 
-3 That  <span id="fr_80"></span>[2](#fn_80) while they were guarding the
+3 That  <span id="fr_80"></span>[2](#fn_80.md) while they were guarding the
 sepulchre of Jesus, there was an earthquake; and we saw an angel of God
 roll away the stone of the sepulchre and  <span
-id="fr_81"></span>[3](#fn_81) sit upon it;
+id="fr_81"></span>[3](#fn_81.md) sit upon it;
 
 4 And his countenance was like lightning and his garment like snow; and
 we became through fear like persons dead.
@@ -958,7 +958,7 @@ chief priests and all who were in the synagogues, saying,
 
 19 We have seen Jesus, whom ye crucified, talking with his eleven
 disciples, and sitting in the midst of them in Mount Olivet, and saying
-to them, <span id="fr_82"></span>[1](#fn_82)
+to them, <span id="fr_82"></span>[1](#fn_82.md)
 
 20 Go forth into the whole world, preach the Gospel to all nations,
 baptizing them in the name of the Father, and the Son, and the Holy
@@ -1003,7 +1003,7 @@ angel rolled away the stone from the door of the sepulchre?
 they should say so, and they themselves took away the body of Jesus.
 
 30 Besides, consider this, that there is no credit to be given to
-foreigners, <span id="fr_83"></span>[1](#fn_83) because they also took a
+foreigners, <span id="fr_83"></span>[1](#fn_83.md) because they also took a
 large sum of us, and they have declared to us according to the
 instructions which we gave them. They must either be faithful to us, or
 to the disciples of Jesus.
@@ -1036,7 +1036,7 @@ and there perhaps we shall find him, and be satisfied.
 5 And the counsel of Nicodemus pleased all the people; and they sent
 forth men who sought for Jesus, but could not find him: and they
 returning, said, We went all about, but could not find Jesus, but we
-have found Joseph in his city of [Arimathæa](errata.htm#3).
+have found Joseph in his city of [Arimathæa](errata.htm#3.md).
 
 6 The rulers hearing this, and all the people, were glad, and praised
 the God of Israel, because Joseph was found, whom they had shut up in a
@@ -1138,7 +1138,7 @@ persons, who are wont to offer sacrifices and burnt-offerings to the God
 of Israel, in the temple, with prayers.
 
 3 And when the high priest Simeon took him up in his arms. he said to
-him,  <span id="fr_84"></span>[1](#fn_84) Lord, now lettest thou thy
+him,  <span id="fr_84"></span>[1](#fn_84.md) Lord, now lettest thou thy
 servant depart in peace, according to thy word; for mine eyes have seen
 thy salvation, which thou hast prepared before the face of all people: a
 light to enlighten the Gentiles, and the glory of thy people Israel.
@@ -1165,7 +1165,7 @@ seen Jesus.
 
 9 Then Annas and Caiaphas said "Our law saith, By the mouth of two or
 three witnesses every word shall be established." <span
-id="fr_85"></span>[2](#fn_85)
+id="fr_85"></span>[2](#fn_85.md)
 
 10 But what have we said? The blessed Enoch pleased God, and was
 translated by the word of God; and the burying-place of the blessed
@@ -1186,7 +1186,7 @@ and gone up to heaven.
 14 It is indeed a thing really surprising, that he should not only
 himself arise from the dead, but also raise others from their graves,
 who have been seen by many in Jerusalem. <span
-id="fr_86"></span>[3](#fn_86)
+id="fr_86"></span>[3](#fn_86.md)
 
 15 And now hear me a little: We all knew the blessed Simeon, the
 high-priest, who took Jesus when an infant into his arms in the temple.
@@ -1257,7 +1257,7 @@ everlasting light, who hath promised to translate us to everlasting
 light.
 
 5 Then Isaiah the prophet cried out, and said, <span
-id="fr_87"></span>[1](#fn_87) This is the light of the Father, and the
+id="fr_87"></span>[1](#fn_87.md) This is the light of the Father, and the
 Son of God, according to my prophecy, when I was alive upon earth.
 
 6 The land of Zabulon, and the land of Nephthalim beyond Jordan, a
@@ -1270,7 +1270,7 @@ he is
 <span id="img_08100"></span> <span align="CENTER"> [![ST. JOHN THE
 BAPTIST. A TRIPTYCHON BY AN ITALIAN PAINTER OF THE THIRTEENTH OR
 FOURTEENTH CENTURY.](tn/08100.jpg)  
-Click to enlarge](img/08100.jpg)  
+Click to enlarge](img/08100.jpg.md)  
 ST. JOHN THE BAPTIST. A TRIPTYCHON BY AN ITALIAN PAINTER OF THE
 THIRTEENTH OR FOURTEENTH CENTURY.  
 </span>
@@ -1283,7 +1283,7 @@ Glorify the Lord Jesus Christ the Son of God.
 
 8 Whom I took up in my arms when an infant in the temple, and being
 moved by the Holy Ghost, said to him, and acknowledged, <span
-id="fr_88"></span>[1](#fn_88) That now mine eyes have seen thy
+id="fr_88"></span>[1](#fn_88.md) That now mine eyes have seen thy
 salvation, which thou hast prepared before the face of all people, a
 light to enlighten the Gentiles and the glory of thy people Israel.
 
@@ -1317,7 +1317,7 @@ Michael the archangel, when he sent him to Paradise to entreat God to
 anoint his head in his sickness.</span>
 
 BUT when the first man our father Adam heard these things, that Jesus
-was baptized in Jordan, <span id="fr_89"></span>[2](#fn_89) he called
+was baptized in Jordan, <span id="fr_89"></span>[2](#fn_89.md) he called
 out to his son, Seth, and said,
 
 2 Declare to your sons, the patriarchs and prophets, all those things,
@@ -1364,11 +1364,11 @@ concerning the expected arrival of Christ in hell*.</span>
 
 WHILE all the saints were vv rejoicing, behold Satan, the prince and
 captain of death, said to the prince of hell, <span
-id="fr_90"></span>[1](#fn_90)
+id="fr_90"></span>[1](#fn_90.md)
 
 2 Prepare to receive Jesus of Nazareth himself, who boasted that he was
 the Son of God, and yet was a man afraid of death, and said,  <span
-id="fr_91"></span>[2](#fn_91) My soul is sorrowful even to death.
+id="fr_91"></span>[2](#fn_91.md) My soul is sorrowful even to death.
 
 3 Besides he did many injuries to me and to many others; for those whom
 I made blind and lame and those also whom I tormented with several
@@ -1429,7 +1429,7 @@ the powers which belong to thee and me, that thou bring him not to me.
 all my impious company were at the same time disturbed;
 
 18 And we were not able to detain Lazarus, <span
-id="fr_92"></span>[1](#fn_92) but he gave himself a shake, and with all
+id="fr_92"></span>[1](#fn_92.md) but he gave himself a shake, and with all
 the signs of malice, he immediately went away from us; and the very
 earth, in which the dead body of Lazarus was lodged, presently turned
 him out alive.
@@ -1449,7 +1449,7 @@ thereupon.* 10 *He descends into hell*.</span>
 
 AND while Satan and the prince of hell were discoursing thus to each
 other, on a sudden there was a voice as of thunder and the rushing of
-winds, saying,  <span id="fr_93"></span>[2](#fn_93) Lift up your gates,
+winds, saying,  <span id="fr_93"></span>[2](#fn_93.md) Lift up your gates,
 O ye princes; and be ye lift up, O everlasting gates, and the King of
 Glory shall come in.
 
@@ -1469,7 +1469,7 @@ loud voice of anger to the prince of hell:
 6 Open thy gates that the King of Glory may come in.
 
 7 And the divine prophet David, cried out saying,  <span
-id="fr_94"></span>[3](#fn_94) Did not I when on earth truly prophesy and
+id="fr_94"></span>[3](#fn_94.md) Did not I when on earth truly prophesy and
 say, O that men would praise the Lord for his goodness, and for his
 wonderful works to the children of men.
 
@@ -1477,7 +1477,7 @@ wonderful works to the children of men.
 sunder. He hath taken them because of their iniquity, and because of
 their unrighteousness they are afflicted.
 
-9 After this another prophet, <span id="fr_95"></span>[4](#fn_95)
+9 After this another prophet, <span id="fr_95"></span>[4](#fn_95.md)
 namely, holy Isaiah, spake in like manner to all the saints, did not
 
 I rightly prophesy to you when I was alive on earth?
@@ -1492,7 +1492,7 @@ from the Lord shall bring deliverance to them.
 where is thy sting?
 
 12 When all the saints heard these things spoken by Isaiah, they said to
-the prince of hell, <span id="fr_96"></span>[1](#fn_96) Open now thy
+the prince of hell, <span id="fr_96"></span>[1](#fn_96.md) Open now thy
 gates, and take away thine iron bars; for thou wilt now be bound, and
 have no power.
 
@@ -1511,7 +1511,7 @@ and in earth;
 
 16 He hath looked down to hear the groans of the prisoners, and to set
 loose those that are appointed to death. <span
-id="fr_97"></span>[2](#fn_97)
+id="fr_97"></span>[2](#fn_97.md)
 
 17 And now, thou filthy and stinking prince of hell, open thy gates,
 that the King of Glory may enter in; for he is the Lord of heaven and
@@ -1524,7 +1524,7 @@ darkness,
 19 And broke asunder the fetters which before could not be broken; and
 with his invincible power visited those who sate in the deep darkness by
 iniquity, and the shadow of death by sin. <span
-id="fr_98"></span>[3](#fn_98)
+id="fr_98"></span>[3](#fn_98.md)
 
 #### CHAP. XVII.
 
@@ -1676,7 +1676,7 @@ mine.
 
 4 Then Adam, casting himself at the feet of Jesus, addressed himself to
 him, with tears, in humble language, and a loud voice, saying, <span
-id="fr_99"></span>[1](#fn_99)
+id="fr_99"></span>[1](#fn_99.md)
 
 5 I will extol thee, O Lord, for thou hast lifted me up, and hast not
 made my foes to rejoice over me. O Lord my God, I cried unto thee, and
@@ -1713,7 +1713,7 @@ upon Adam, and upon all his saints.
 all the saints of God followed him.
 
 13 Then the royal prophet David boldly cried, and said, <span
-id="fr_100"></span>[1](#fn_100) O sing unto the Lord a new song, for he
+id="fr_100"></span>[1](#fn_100.md) O sing unto the Lord a new song, for he
 hath done marvellous things; his right hand and his holy arm have gotten
 him the victory.
 
@@ -1721,14 +1721,14 @@ him the victory.
 openly shewn in the sight of the heathen.
 
 15 And the whole multitude of saints answered, saying, <span
-id="fr_101"></span>[2](#fn_101) This honour have all his saints, Amen,
+id="fr_101"></span>[2](#fn_101.md) This honour have all his saints, Amen,
 Praise ye the Lord.
 
 16 Afterwards, the prophet Habakkuk <span
-id="fr_102"></span>[3](#fn_102) cried out, and said, Thou wentest forth
+id="fr_102"></span>[3](#fn_102.md) cried out, and said, Thou wentest forth
 for the salvation of thy people, even for the salvation of thy people.
 
-17 And all the saints said, <span id="fr_103"></span>[4](#fn_103)
+17 And all the saints said, <span id="fr_103"></span>[4](#fn_103.md)
 Blessed is he who cometh in the name of the Lord; for the Lord hath
 enlightened us. This is our God for ever and ever; he shall reign over
 us to everlasting ages, Amen.
@@ -1750,15 +1750,15 @@ are ye, who have not yet been with us in hell, and have had your bodies
 placed in Paradise?
 
 3 One of them answering, said, I am Enoch, who was translated by the
-word of God: <span id="fr_104"></span>[5](#fn_104) and this man who is
+word of God: <span id="fr_104"></span>[5](#fn_104.md) and this man who is
 with me, is Elijah the Tishbite, who was translated in a fiery
-chariot. <span id="fr_105"></span>[6](#fn_105)
+chariot. <span id="fr_105"></span>[6](#fn_105.md)
 
 4 Here we have hitherto been, and have not tasted death, but are now
 about to return at the coming of Antichrist, being armed with divine
 signs and miracles, to engage with him in battle, and to be slain by him
 at Jerusalem, and to be taken up alive again into the clouds, after
-three days and a half. <span id="fr_106"></span>[7](#fn_106)
+three days and a half. <span id="fr_106"></span>[7](#fn_106.md)
 
 5 ¶ And while the holy Enoch and Elias were relating this, behold there
 came another man in a miserable figure carrying the sign of the cross
@@ -1784,7 +1784,7 @@ into thy kingdom.
 
 10 He presently regarded my supplication, and said to me, Verily I say
 unto thee, this day thou shalt be with me in Paradise. <span
-id="fr_107"></span>[1](#fn_107)
+id="fr_107"></span>[1](#fn_107.md)
 
 11 And he gave me this sign of the cross saying, Carry this, and go to
 Paradise; and if the angel who is the guard of Paradise will not admit
@@ -1843,7 +1843,7 @@ Peace be to you from the Lord God Jesus
 <span id="img_08900"></span> <span align="CENTER"> [![THE BAPTISM OF
 CHRIST IN THE JORDAN. FROM A ''BOOK OF THE EVANGELISTS.'' GREEK
 MANUSCRIPT OF THE TWELFTH CENTURY.](tn/08900.jpg)  
-Click to enlarge](img/08900.jpg)  
+Click to enlarge](img/08900.jpg.md)  
 THE BAPTISM OF CHRIST IN THE JORDAN. FROM A ''BOOK OF THE EVANGELISTS.''
 GREEK MANUSCRIPT OF THE TWELFTH CENTURY.  
 </span>
@@ -1941,7 +1941,7 @@ of God was come on earth,
 who spoke to Moses, Thou shalt make the ark of the testimony; two cubits
 and a half shall be the length thereof, and a cubit and a half the
 breadth thereof, and a cubit and a half the height thereof. <span
-id="fr_108"></span>[1](#fn_108)
+id="fr_108"></span>[1](#fn_108.md)
 
 13 By these five cubits and a half for the building of the ark of the
 Old Testament, we perceived and knew that in five thousand years and a
@@ -1991,172 +1991,172 @@ Nicodemus, of what happened after our Saviour's crucifixion*.
 
 ### Footnotes
 
-<span id="fn_36"></span>[64:1](lbob10.htm#fr_36) Matt. xiii. 55, and
+<span id="fn_36"></span>[64:1](lbob10.htm#fr_36.md) Matt. xiii. 55, and
 John vi. 42.
 
-<span id="fn_37"></span>[64:2](lbob10.htm#fr_37) John v. 17, 18. Mark
+<span id="fn_37"></span>[64:2](lbob10.htm#fr_37.md) John v. 17, 18. Mark
 xv. 2.
 
-<span id="fn_38"></span>[64:3](lbob10.htm#fr_38) Matt. xii. 2, &c.; Luke
+<span id="fn_38"></span>[64:3](lbob10.htm#fr_38.md) Matt. xii. 2, &c.; Luke
 xiii. 14. John, v. 18.
 
-<span id="fn_39"></span>[64:4](lbob10.htm#fr_39) Exod. xx. 8, &c.
+<span id="fn_39"></span>[64:4](lbob10.htm#fr_39.md) Exod. xx. 8, &c.
 
-<span id="fn_40"></span>[64:5](lbob10.htm#fr_40) Matt. vi. 24, and xi.
+<span id="fn_40"></span>[64:5](lbob10.htm#fr_40.md) Matt. vi. 24, and xi.
 5.
 
-<span id="fn_41"></span>[64:6](lbob10.htm#fr_41) Matt. iv. 34, and xii.
+<span id="fn_41"></span>[64:6](lbob10.htm#fr_41.md) Matt. iv. 34, and xii.
 24, &c.
 
-<span id="fn_42"></span>[64:7](lbob10.htm#fr_42) Matt. xxi. 8, 9, &c.
+<span id="fn_42"></span>[64:7](lbob10.htm#fr_42.md) Matt. xxi. 8, 9, &c.
 
-<span id="fn_43"></span>[66:1](lbob10.htm#fr_43) Matt. xxvii. 19.
+<span id="fn_43"></span>[66:1](lbob10.htm#fr_43.md) Matt. xxvii. 19.
 
-<span id="fn_44"></span>[66:2](lbob10.htm#fr_44) John v. 17, 18; Mark
+<span id="fn_44"></span>[66:2](lbob10.htm#fr_44.md) John v. 17, 18; Mark
 xv. 2.
 
-<span id="fn_45"></span>[67:1](lbob10.htm#fr_45) 3 John x. 32
+<span id="fn_45"></span>[67:1](lbob10.htm#fr_45.md) 3 John x. 32
 
-<span id="fn_46"></span>[67:2](lbob10.htm#fr_46) John xviii. 31, &c.
+<span id="fn_46"></span>[67:2](lbob10.htm#fr_46.md) John xviii. 31, &c.
 
-<span id="fn_47"></span>[67:3](lbob10.htm#fr_47) Exod. xx. 13.
+<span id="fn_47"></span>[67:3](lbob10.htm#fr_47.md) Exod. xx. 13.
 
-<span id="fn_48"></span>[67:4](lbob10.htm#fr_48) John ii. 19.
+<span id="fn_48"></span>[67:4](lbob10.htm#fr_48.md) John ii. 19.
 
-<span id="fn_49"></span>[67:5](lbob10.htm#fr_49) Matt. xxvii. 24.
+<span id="fn_49"></span>[67:5](lbob10.htm#fr_49.md) Matt. xxvii. 24.
 
-<span id="fn_50"></span>[68:1](lbob10.htm#fr_50) Leviticus xxiv. 16.
+<span id="fn_50"></span>[68:1](lbob10.htm#fr_50.md) Leviticus xxiv. 16.
 
-<span id="fn_51"></span>[68:2](lbob10.htm#fr_51) Exodus xx. 13.
+<span id="fn_51"></span>[68:2](lbob10.htm#fr_51.md) Exodus xx. 13.
 
-<span id="fn_52"></span>[68:3](lbob10.htm#fr_52) Luke xxiii. 16.
+<span id="fn_52"></span>[68:3](lbob10.htm#fr_52.md) Luke xxiii. 16.
 
-<span id="fn_53"></span>[69:1](lbob10.htm#fr_53) John iii. 2.
+<span id="fn_53"></span>[69:1](lbob10.htm#fr_53.md) John iii. 2.
 
-<span id="fn_54"></span>[69:2](lbob10.htm#fr_54) Acts v. 38.
+<span id="fn_54"></span>[69:2](lbob10.htm#fr_54.md) Acts v. 38.
 
-<span id="fn_55"></span>[69:3](lbob10.htm#fr_55) These are mentioned
+<span id="fn_55"></span>[69:3](lbob10.htm#fr_55.md) These are mentioned
 also as the names of the magicians, 2 Tim. iii. 8.
 
-<span id="fn_56"></span>[69:4](lbob10.htm#fr_56) Exod. viii. 18, &c.
+<span id="fn_56"></span>[69:4](lbob10.htm#fr_56.md) Exod. viii. 18, &c.
 
-<span id="fn_57"></span>[69:5](lbob10.htm#fr_57) Acts v. 35. An allusion
+<span id="fn_57"></span>[69:5](lbob10.htm#fr_57.md) Acts v. 35. An allusion
 to Gamaliel's speech.
 
-<span id="fn_58"></span>[69:6](lbob10.htm#fr_58) John v. 1, 2. &c.
+<span id="fn_58"></span>[69:6](lbob10.htm#fr_58.md) John v. 1, 2. &c.
 
-<span id="fn_59"></span>[69:7](lbob10.htm#fr_59) Mark x. 46.
+<span id="fn_59"></span>[69:7](lbob10.htm#fr_59.md) Mark x. 46.
 
-<span id="fn_60"></span>[70:1](lbob10.htm#fr_60) Matt. viii. 11, &c.
+<span id="fn_60"></span>[70:1](lbob10.htm#fr_60.md) Matt. viii. 11, &c.
 
-<span id="fn_61"></span>[70:2](lbob10.htm#fr_61) Luke xiii. 11.
+<span id="fn_61"></span>[70:2](lbob10.htm#fr_61.md) Luke xiii. 11.
 
-<span id="fn_62"></span>[70:3](lbob10.htm#fr_62) Matt. ix. 20, &c. See
+<span id="fn_62"></span>[70:3](lbob10.htm#fr_62.md) Matt. ix. 20, &c. See
 concerning this woman called Veronica, on whom this miracle was
 performed, and the statue which she erected to the honour of Christ, in
 Euseb. Hist. Eccl. l. 7, c. 18.
 
-<span id="fn_63"></span>[70:4](lbob10.htm#fr_63) John ii. 1, &c.
+<span id="fn_63"></span>[70:4](lbob10.htm#fr_63.md) John ii. 1, &c.
 
-<span id="fn_64"></span>[70:5](lbob10.htm#fr_64) Luke iv. 33, &c.
+<span id="fn_64"></span>[70:5](lbob10.htm#fr_64.md) Luke iv. 33, &c.
 
-<span id="fn_65"></span>[70:6](lbob10.htm#fr_65) Matt. v. 23.
+<span id="fn_65"></span>[70:6](lbob10.htm#fr_65.md) Matt. v. 23.
 
-<span id="fn_66"></span>[70:7](lbob10.htm#fr_66) Mark iii. 11.
+<span id="fn_66"></span>[70:7](lbob10.htm#fr_66.md) Mark iii. 11.
 
-<span id="fn_67"></span>[70:8](lbob10.htm#fr_67) Matt. viii. 5, &c.
+<span id="fn_67"></span>[70:8](lbob10.htm#fr_67.md) Matt. viii. 5, &c.
 
-<span id="fn_68"></span>[71:1](lbob10.htm#fr_68) John xi. 17, &c.
+<span id="fn_68"></span>[71:1](lbob10.htm#fr_68.md) John xi. 17, &c.
 
-<span id="fn_69"></span>[71:2](lbob10.htm#fr_69) Matt. xxvii. 24.
+<span id="fn_69"></span>[71:2](lbob10.htm#fr_69.md) Matt. xxvii. 24.
 
-<span id="fn_70"></span>[71:3](lbob10.htm#fr_70) Matt. xxvii. 21.
+<span id="fn_70"></span>[71:3](lbob10.htm#fr_70.md) Matt. xxvii. 21.
 
-<span id="fn_71"></span>[71:4](lbob10.htm#fr_71) John xix. 12.
+<span id="fn_71"></span>[71:4](lbob10.htm#fr_71.md) John xix. 12.
 
-<span id="fn_72"></span>[72:1](lbob10.htm#fr_72) Matt. ii.
+<span id="fn_72"></span>[72:1](lbob10.htm#fr_72.md) Matt. ii.
 
-<span id="fn_73"></span>[72:2](lbob10.htm#fr_73) Matt. xxvii. 24, &c.
+<span id="fn_73"></span>[72:2](lbob10.htm#fr_73.md) Matt. xxvii. 24, &c.
 
-<span id="fn_74"></span>[72:3](lbob10.htm#fr_74) Matt. xxvii. 33.
+<span id="fn_74"></span>[72:3](lbob10.htm#fr_74.md) Matt. xxvii. 33.
 
-<span id="fn_75"></span>[73:1](lbob10.htm#fr_75) John xix. 34.
+<span id="fn_75"></span>[73:1](lbob10.htm#fr_75.md) John xix. 34.
 
-<span id="fn_76"></span>[73:2](lbob10.htm#fr_76) John xix. 19.
+<span id="fn_76"></span>[73:2](lbob10.htm#fr_76.md) John xix. 19.
 
-<span id="fn_77"></span>[73:3](lbob10.htm#fr_77) Matt. xxvii. 45, &c.
+<span id="fn_77"></span>[73:3](lbob10.htm#fr_77.md) Matt. xxvii. 45, &c.
 
-<span id="fn_78"></span>[74:1](lbob10.htm#fr_78) John xix. 88.
+<span id="fn_78"></span>[74:1](lbob10.htm#fr_78.md) John xix. 88.
 
-<span id="fn_79"></span>[75:1](lbob10.htm#fr_79) Deut. xxxii. 35; Heb.
+<span id="fn_79"></span>[75:1](lbob10.htm#fr_79.md) Deut. xxxii. 35; Heb.
 x. 40.
 
-<span id="fn_80"></span>[75:2](lbob10.htm#fr_80) Matt. xxviii. 11, 12,
+<span id="fn_80"></span>[75:2](lbob10.htm#fr_80.md) Matt. xxviii. 11, 12,
 &c.
 
-<span id="fn_81"></span>[75:3](lbob10.htm#fr_81) Matt. xxviii. 1, 2, &c.
+<span id="fn_81"></span>[75:3](lbob10.htm#fr_81.md) Matt. xxviii. 1, 2, &c.
 
-<span id="fn_82"></span>[76:1](lbob10.htm#fr_82) Matt. xxviii. 16. and
+<span id="fn_82"></span>[76:1](lbob10.htm#fr_82.md) Matt. xxviii. 16. and
 Mark xvi. 16.
 
-<span id="fn_83"></span>[77:1](lbob10.htm#fr_83) Heathens.
+<span id="fn_83"></span>[77:1](lbob10.htm#fr_83.md) Heathens.
 
-<span id="fn_84"></span>[79:1](lbob10.htm#fr_84) Luke, ii. 29.
+<span id="fn_84"></span>[79:1](lbob10.htm#fr_84.md) Luke, ii. 29.
 
-<span id="fn_85"></span>[79:2](lbob10.htm#fr_85) Deut. xvii. 8.
+<span id="fn_85"></span>[79:2](lbob10.htm#fr_85.md) Deut. xvii. 8.
 
-<span id="fn_86"></span>[79:3](lbob10.htm#fr_86) Matt. xxvii. 53.
+<span id="fn_86"></span>[79:3](lbob10.htm#fr_86.md) Matt. xxvii. 53.
 
-<span id="fn_87"></span>[80:1](lbob10.htm#fr_87) Isai. xi. 1 Matt. iv.
+<span id="fn_87"></span>[80:1](lbob10.htm#fr_87.md) Isai. xi. 1 Matt. iv.
 16.
 
-<span id="fn_88"></span>[81:1](lbob10.htm#fr_88) Luke ii. 29.
+<span id="fn_88"></span>[81:1](lbob10.htm#fr_88.md) Luke ii. 29.
 
-<span id="fn_89"></span>[81:2](lbob10.htm#fr_89) Matt. iii. 13.
+<span id="fn_89"></span>[81:2](lbob10.htm#fr_89.md) Matt. iii. 13.
 
-<span id="fn_90"></span>[82:1](lbob10.htm#fr_90) St. Jerome affirms that
+<span id="fn_90"></span>[82:1](lbob10.htm#fr_90.md) St. Jerome affirms that
 the soul of Christ went to hell.
 
-<span id="fn_91"></span>[82:2](lbob10.htm#fr_91) Matt. xxvi. 38.
+<span id="fn_91"></span>[82:2](lbob10.htm#fr_91.md) Matt. xxvi. 38.
 
-<span id="fn_92"></span>[83:1](lbob10.htm#fr_92) John xi.
+<span id="fn_92"></span>[83:1](lbob10.htm#fr_92.md) John xi.
 
-<span id="fn_93"></span>[83:2](lbob10.htm#fr_93) Psalm xxiv. 7, &c.
+<span id="fn_93"></span>[83:2](lbob10.htm#fr_93.md) Psalm xxiv. 7, &c.
 
-<span id="fn_94"></span>[83:3](lbob10.htm#fr_94) Psalm cvii. 15, &c.
+<span id="fn_94"></span>[83:3](lbob10.htm#fr_94.md) Psalm cvii. 15, &c.
 
-<span id="fn_95"></span>[83:4](lbob10.htm#fr_95) Isaiah xxvi. 19.
+<span id="fn_95"></span>[83:4](lbob10.htm#fr_95.md) Isaiah xxvi. 19.
 
-<span id="fn_96"></span>[84:1](lbob10.htm#fr_96) Psalm xxiv. 7, &c.
+<span id="fn_96"></span>[84:1](lbob10.htm#fr_96.md) Psalm xxiv. 7, &c.
 
-<span id="fn_97"></span>[84:2](lbob10.htm#fr_97) Psalm cii. 19, 20.
+<span id="fn_97"></span>[84:2](lbob10.htm#fr_97.md) Psalm cii. 19, 20.
 
-<span id="fn_98"></span>[84:3](lbob10.htm#fr_98) Luke i. 79.
+<span id="fn_98"></span>[84:3](lbob10.htm#fr_98.md) Luke i. 79.
 
-<span id="fn_99"></span>[86:1](lbob10.htm#fr_99) Psalm xxx. 1, &c.
+<span id="fn_99"></span>[86:1](lbob10.htm#fr_99.md) Psalm xxx. 1, &c.
 
-<span id="fn_100"></span>[87:1](lbob10.htm#fr_100) Psalm xcviii. 1, &c.
+<span id="fn_100"></span>[87:1](lbob10.htm#fr_100.md) Psalm xcviii. 1, &c.
 
-<span id="fn_101"></span>[87:2](lbob10.htm#fr_101) Psalm cxlix. 2.
+<span id="fn_101"></span>[87:2](lbob10.htm#fr_101.md) Psalm cxlix. 2.
 
-<span id="fn_102"></span>[87:3](lbob10.htm#fr_102) Hab. iii. 13.
+<span id="fn_102"></span>[87:3](lbob10.htm#fr_102.md) Hab. iii. 13.
 
-<span id="fn_103"></span>[87:4](lbob10.htm#fr_103) Matt. xxiii. 39.
+<span id="fn_103"></span>[87:4](lbob10.htm#fr_103.md) Matt. xxiii. 39.
 
-<span id="fn_104"></span>[87:5](lbob10.htm#fr_104) Gen. v. 24.
+<span id="fn_104"></span>[87:5](lbob10.htm#fr_104.md) Gen. v. 24.
 
-<span id="fn_105"></span>[87:6](lbob10.htm#fr_105) Kings ii. 11.
+<span id="fn_105"></span>[87:6](lbob10.htm#fr_105.md) Kings ii. 11.
 
-<span id="fn_106"></span>[87:7](lbob10.htm#fr_106) Rev. xi. 11.
+<span id="fn_106"></span>[87:7](lbob10.htm#fr_106.md) Rev. xi. 11.
 
-<span id="fn_107"></span>[88:1](lbob10.htm#fr_107) Luke xxiii. 43.
+<span id="fn_107"></span>[88:1](lbob10.htm#fr_107.md) Luke xxiii. 43.
 
-<span id="fn_108"></span>[90:1](lbob10.htm#fr_108) Exod. xxv. 10.
+<span id="fn_108"></span>[90:1](lbob10.htm#fr_108.md) Exod. xxv. 10.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Apostles’ Creed](lbob11)
+[Next: The Apostles’ Creed](lbob11.md)
 
 </div>

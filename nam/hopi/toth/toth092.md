@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth091)  [Next](toth093) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth091)  [Next](toth093.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_228">p. 228</span>
 
-## 89. THE BADGER AND THE SMALL GRAY MICE. <span id="fr_168"></span>[1](#fn_166)
+## 89. THE BADGER AND THE SMALL GRAY MICE. <span id="fr_168"></span>[1](#fn_166.md)
 
 Long ago the Badger and the Small Gray Mice (Tucán homihtci) were Hopi,
 but they were very bad and hence became these two animals. They were
@@ -59,9 +59,9 @@ Hereupon he ordered something to eat and got well.
 
 ### Footnotes
 
-<span id="fn_166"></span>[228:1](toth092.htm#fr_168) Told by Lomávântiwa
+<span id="fn_166"></span>[228:1](toth092.htm#fr_168.md) Told by Lomávântiwa
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 90. The Mice, the Owl, and the Hawk](toth093)
+[Next: 90. The Mice, the Owl, and the Hawk](toth093.md)

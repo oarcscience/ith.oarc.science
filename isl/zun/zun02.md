@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](zun01)  [Next](zun03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](zun01)  [Next](zun03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q1Q2/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q1Q2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Diwan of Zeb-un-Nissa*, by Magan Lal and Jessie Duncan Westbrook,
 \[1913\], at Intangible Textual Heritage
 
@@ -45,4 +45,4 @@ The immortal Phœnix with its wings of fire.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](zun03)
+[Next: Introduction](zun03.md)

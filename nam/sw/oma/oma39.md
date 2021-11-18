@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma38)  [Next](oma40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma38)  [Next](oma40.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl06a"></span>
 
 [![Plate 6, Figure 1](tn/pl06a.jpg)  
-Click to enlarge](img/pl06a.jpg)  
+Click to enlarge](img/pl06a.jpg.md)  
 Plate 6, Figure 1  
 
 FIGURE 1. Nawish katsina. Eagle feathers (white with black tips);
@@ -25,7 +25,7 @@ spruce collar will be worn.
 <span id="img_pl06b"></span>
 
 [![Plate 6, Figure 2](tn/pl06b.jpg)  
-Click to enlarge](img/pl06b.jpg)  
+Click to enlarge](img/pl06b.jpg.md)  
 Plate 6, Figure 2  
 
 FIGURE 2. Kopishtaiya. No special name; referred to merely as "the one
@@ -44,4 +44,4 @@ white) in ears; eagle-down feathers on the Clouds (shi'wana).
 
 ------------------------------------------------------------------------
 
-[Next: Plate 7](oma40)
+[Next: Plate 7](oma40.md)

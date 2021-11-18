@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob09) 
-[Next](tob11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob09.md) 
+[Next](tob11.md) 
 
 ------------------------------------------------------------------------
 
@@ -474,7 +474,7 @@ together 4 + 6 = 10, and I take one-half of the number obtained 10 /2
 <span id="page_79">p. 79</span>
 
 The 5th arcanum (universal life) therefore unites the two
-opposites. <span id="fr_29"></span>[1](#fn_29)
+opposites. <span id="fr_29"></span>[1](#fn_29.md)
 
 The passage of the vivifying fluid (4) into love (6) is performed
 through the medium of universal life (5).
@@ -584,11 +584,11 @@ Union of <em>yod</em> and of <em>he</em> </p></td>
 
 ### Footnotes
 
-<span id="fn_29"></span>[79:1](tob10.htm#fr_29) The Hebrew alphabet
+<span id="fn_29"></span>[79:1](tob10.htm#fr_29.md) The Hebrew alphabet
 thoroughly establishes this affiliation for the letters corresponding to
 these three numbers. (See 8th arcanum.)
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. History of the Symbolism of the Tarot. Inquiry into
-its Origin](tob11)
+its Origin](tob11.md)

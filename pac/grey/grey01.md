@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey00)  [Next](grey02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey00)  [Next](grey02.md) 
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ superstitions, and followed those cruel and barbarous rites.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](grey02)
+[Next: Contents](grey02.md)

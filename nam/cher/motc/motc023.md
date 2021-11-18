@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc022) 
-[Next](motc024) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc022.md) 
+[Next](motc024.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ but you're small and lean, and you can't do such things."
 
 ------------------------------------------------------------------------
 
-[Next: 24. The Rabbit Escapes From The Wolves](motc024)
+[Next: 24. The Rabbit Escapes From The Wolves](motc024.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos24)  [Next](kos26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos24)  [Next](kos26.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ Hebrew.
 
 ------------------------------------------------------------------------
 
-[Next: Plate III](kos26)
+[Next: Plate III](kos26.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop31)  [Next](pop33) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop31)  [Next](pop33.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ those who have been long afflicted and distressed.'
 
 ------------------------------------------------------------------------
 
-[Next: The Twenty-Eighth Figure](pop33)
+[Next: The Twenty-Eighth Figure](pop33.md)

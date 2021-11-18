@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index)   
-[Author List Index](alsidx)  
-  [Previous](tls_z)  [Next](als_a) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md)   
+[Author List Index](alsidx.md)  
+  [Previous](tls_z)  [Next](als_a.md) 
 
 </div>
 
@@ -12,12 +12,12 @@
 # Author List: ,
 
 , Theodore P. Gianakoulis; Georgia H. MacPherson: [Fairy Tales of Modern
-Greece](../neu/ftmg/index) \[1930\]  
+Greece](../neu/ftmg/index.md) \[1930\]  
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Author List: A](als_a)
+[Next: Author List: A](als_a.md)
 
 </div>

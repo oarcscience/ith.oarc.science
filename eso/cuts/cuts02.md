@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cuts01)  [Next](cuts03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cuts01)  [Next](cuts03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud Upon the Sanctuary*, by Karl Eckartshausen, \[1909\], at
 Intangible Textual Heritage
 
@@ -199,7 +199,7 @@ the knowledge of the Eternal, etc. There are also devotional exercises
 for use at Mass, before and after Confession, and at Communion, with
 acts of penance and adoration to the Blessed Virgin. In a word, I fail
 to see wherein or how far it differs from the innumerable
-[manuals](errata.htm#0) of piety which have been produced during the
+[manuals](errata.htm#0.md) of piety which have been produced during the
 last two or three centuries for the use of the Catholic laity. I
 believe, however, that it still circulates in Germany, and perhaps even
 in France; it is
@@ -331,4 +331,4 @@ A. E. WAITE.
 
 ------------------------------------------------------------------------
 
-[Next: Letter I](cuts03)
+[Next: Letter I](cuts03.md)

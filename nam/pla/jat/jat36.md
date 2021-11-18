@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat35)  [Next](jat37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat35)  [Next](jat37.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,15 +42,15 @@ supposed in the water, he dived and searched for it in vain. When he
 came out of the water he saw it still lying there. He did this four
 times and then lay down by the edge of the water to rest. On looking up
 he saw it in a tree above him. Jumping up, he got it and chewed it up
-bones and all. <span id="fr_53"></span>[1](#fn_53)
+bones and all. <span id="fr_53"></span>[1](#fn_53.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_53"></span>[230:1](jat36.htm#fr_53) A very similar story is
+<span id="fn_53"></span>[230:1](jat36.htm#fr_53.md) A very similar story is
 told of Old Man by the Blackfoot, Wissler and Duvall, p. 29.
 
 ------------------------------------------------------------------------
 
-[Next: 35. Coyote is Revenged on Wildcat](jat37)
+[Next: 35. Coyote is Revenged on Wildcat](jat37.md)

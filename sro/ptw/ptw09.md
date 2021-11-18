@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw08) 
-[Next](ptw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw08.md) 
+[Next](ptw10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ THE place or state wherein the true Rosicrucian lives is far too exalted
 and glorious to be described in words. When we enter the vestibule of
 the temple of the true Rosy Cross, we enter into a region of unalloyed
 bliss and happiness. There is an effulgence of super-terrestrial light,
-where all [laborious](errata.htm#17) thinking and exercise of the
+where all [laborious](errata.htm#17.md) thinking and exercise of the
 imagination for the purpose of drawing logical inferences about the
 unknown, ceases, for in that light is the realm of pure knowledge; to
 live there is to perceive, and to perceive is to know. Into .that
@@ -91,7 +91,7 @@ in a visible form upon this earth.
 The "history" of that "brotherhood" is the history of the evolution of
 the world, and that of the spiritual regeneration of the soul and the
 body of man; for although each of these individual beings had its own
-[terrestrial](errata.htm#18) history and experiences in passing through
+[terrestrial](errata.htm#18.md) history and experiences in passing through
 many incarnations upon this planet, nevertheless, in its essential
 points the history of all is alike, and consisted in the conquering of
 the low and the unfoldment of the high. They all had to bear the Cross
@@ -129,7 +129,7 @@ the delusion which causes man to imagine himself to be a being separated
 and isolated from others ends, there he begins to realize his true state
 as an all-embracing universal and divine self-conscious power.
 
-4\. *Be* [*temperate*](errata.htm#19), *modest, energetic, and silent*.
+4\. *Be* [*temperate*](errata.htm#19.md), *modest, energetic, and silent*.
 
 The door to the inner temple is called "Contentment"; but no animal can
 enter therein, only he who walks uprightly, being conscious of his true
@@ -443,7 +443,7 @@ changes are to him of little importance, and do not deserve great
 attention. His main object is to hold on to his spiritual possessions,
 and not to lose the crown which he has gained in the battle of life.
 
-16\. *The Rosicrucian will* [*always*](errata.htm#20) *remain a member
+16\. *The Rosicrucian will* [*always*](errata.htm#20.md) *remain a member
 of his society*.
 
 Names are of little importance. The principle which presides over the
@@ -871,7 +871,7 @@ Inscription: *Venturi providus ævi*.
 
 #### TABULA SMARAGDINA.
 
-<span id="img_08400"></span> ![Tabula Smaragdina](img/08400.jpg)
+<span id="img_08400"></span> ![Tabula Smaragdina](img/08400.jpg.md)
 
 #### ERBA SECRETORUM HERMETIS.
 
@@ -894,9 +894,9 @@ This is the strongest of all powers, for it overcomes all subtle things,
 and can penetrate through all that is gross. Thus was the world created,
 and from this originate rare combinations, and are wrought miracles of
 various kinds. Therefore have I been called Hermes Trismegistus, having
-obtained [three-parts](errata.htm#21) of the wisdom of the whole world.
+obtained [three-parts](errata.htm#21.md) of the wisdom of the whole world.
 This is what is to be said about the masterwork of the alchymical art.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eight. Alchemy](ptw10)
+[Next: Chapter Eight. Alchemy](ptw10.md)

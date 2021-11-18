@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi238)  [Next](mtsi240) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi238)  [Next](mtsi240.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ take it back, he ran with it into a big thicket in pursuit of him.
 
 ------------------------------------------------------------------------
 
-[Next: 40. The Story of Owl and Little Yellow Mouse](mtsi240)
+[Next: 40. The Story of Owl and Little Yellow Mouse](mtsi240.md)

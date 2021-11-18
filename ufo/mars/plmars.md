@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](index)
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](index.md)
 
 ------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ earth's cloud-belts, his never travel northward when the sun goes north,
 nor follow the sun when he journeys south again. So far as the sun is
 concerned, the Saturnian cloud-belts are invariable. Like the Jovian,
 they owe their formation to the planet's own heat. Like Jupiter, too,
-Saturn shows red beneath.[<sup>1</sup>](#n1_1) From all this it is
+Saturn shows red beneath.[<sup>1</sup>](#n1_1.md) From all this it is
 pretty plain that the giant planets are far from pleasurable abodes, as
 yet midway in evolution between actual suns and tenantable worlds; too
 cooled down for the one state, and not yet cooled down enough for the
@@ -1664,7 +1664,7 @@ conspicuousness had taken place in the canals in the Solis Lacus region.
 
 With like disregard of the effect due to distance, the canals to the
 east of the Ganges showed better at the November
-presentation[<sup>1</sup>](#n3_1) of that region than they had at the
+presentation[<sup>1</sup>](#n3_1.md) of that region than they had at the
 October one, although the planet was actually farther off at the later
 date, in the proportion of 21 to 18.
 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr29)  [Next](ppr31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr29)  [Next](ppr31.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ ancient manner with the eagle's crest!
 
 ------------------------------------------------------------------------
 
-[Next: Prayer to the God of Thieves (South Pacific Island)](ppr31)
+[Next: Prayer to the God of Thieves (South Pacific Island)](ppr31.md)

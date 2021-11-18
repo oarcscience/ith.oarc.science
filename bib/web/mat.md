@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](mal)  [Next](mar) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](mal)  [Next](mar.md) 
 
 ------------------------------------------------------------------------
 
@@ -3793,4 +3793,4 @@ the age." Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Mark](mar)
+[Next: Mark](mar.md)

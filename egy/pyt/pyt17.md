@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt16)  [Next](pyt18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt16)  [Next](pyt18.md) 
 
 ------------------------------------------------------------------------
 
@@ -403,4 +403,4 @@ brothers, the gods.
 
 ------------------------------------------------------------------------
 
-[Next: 15. Offerings for the Deceased King, Utterances 338-349](pyt18)
+[Next: 15. Offerings for the Deceased King, Utterances 338-349](pyt18.md)

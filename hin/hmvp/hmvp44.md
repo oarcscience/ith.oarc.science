@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp43)  [Next](hmvp45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp43)  [Next](hmvp45.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -68,7 +68,7 @@ the king of the feathered tribes, and the remorseless enemy of the
 serpent race. Aruna became famous as the charioteer of the Sun. "The
 progeny of Kadru (the other sister) were a thousand powerful many-headed
 snakes, of immeasurable might, subject to Garuda." <span
-id="fr_410"></span>[\*](#fn_410) The mother of Garuda is said to have
+id="fr_410"></span>[\*](#fn_410.md) The mother of Garuda is said to have
 laid an egg; hence her son assumed a bird-like form.
 
 <span id="page_450">p. 450</span>
@@ -81,7 +81,7 @@ that surrounded it, conquered its
 
 <span id="img_45000"></span> <span align="CENTER">
 [![GARUDA.](tn/45000.jpg)  
-Click to enlarge](img/45000.jpg)  
+Click to enlarge](img/45000.jpg.md)  
 GARUDA.  
 </span>
 
@@ -94,14 +94,14 @@ to them by their partaking
 
 <span id="page_451">p. 451</span>
 
-of the amrita." <span id="fr_411"></span>[\*](#fn_411) "As soon as
+of the amrita." <span id="fr_411"></span>[\*](#fn_411.md) "As soon as
 Garuda was born, his body expanded till it touched the sky; the other
 animals were terrified. His eyes were like the lightning. The mountains
 were driven away with the wind caused by the flapping of his wings. The
 rays which issued from his body set the four quarters of the world on
 fire; the affrighted gods imagining that Garuda must be an incarnation
 of Agni, resorted to that deity for protection." <span
-id="fr_412"></span>[†](#fn_412)
+id="fr_412"></span>[†](#fn_412.md)
 
 Garuda is the mortal enemy of snakes. His mother Vinatā quarrelled with
 her sister, Kadru, the mother of the snakes, respecting the colour of
@@ -115,7 +115,7 @@ Hindus repeat the name of Garuda three times before going to sleep at
 night, as a safeguard against snakes.
 
 The following legend from the Mahābhārata <span
-id="fr_413"></span>[‡](#fn_413) gives the account of his liberating his
+id="fr_413"></span>[‡](#fn_413.md) gives the account of his liberating his
 mother from servitude, and of his appointment as the Vāhan of Vishnu.
 His mother, having lost her wager with her sister respecting the colour
 of the sea-produced horse, was reduced to servitude to the serpents,
@@ -171,7 +171,7 @@ to. Thus, in the description of Hanumān it is said, that
 
 <span class="small">"Like a thunderbolt in frame was he,  
  And swift as Garud's self could flee." <span
-id="fr_414"></span>[\*](#fn_414)</span>
+id="fr_414"></span>[\*](#fn_414.md)</span>
 
 </div>
 
@@ -185,12 +185,12 @@ In like manner it is said of two heroes:
  And skilled in all the arts of fight,  
  Wandered in arms the forest through,  
  And lions and snakes and tigers slew." <span
-id="fr_415"></span>[†](#fn_415)</span>
+id="fr_415"></span>[†](#fn_415.md)</span>
 
 </div>
 
 When Ansumān found the ashes of the sixty thousand sons of Sāgar, <span
-id="fr_416"></span>[‡](#fn_416) who, owing to Kapila's curse, had been
+id="fr_416"></span>[‡](#fn_416.md) who, owing to Kapila's curse, had been
 destroyed, and was in distress because he could obtain no water with
 which to offer oblations for the dead, he sees their uncle—
 
@@ -202,7 +202,7 @@ which to offer oblations for the dead, he sees their uncle—
  The son of Vinatā began:  
  'Grieve not, O hero, for their fall,  
  Who died a death approved of all.'" <span
-id="fr_417"></span>[§](#fn_417)</span>
+id="fr_417"></span>[§](#fn_417.md)</span>
 
 </div>
 
@@ -223,7 +223,7 @@ forest, is a reference to Garuda's antipathy to snakes:—
  No look of beauty as before—  
  Like a dull river or a lake  
  By Garud robbed of every snake." <span
-id="fr_418"></span>[\*](#fn_418)</span>
+id="fr_418"></span>[\*](#fn_418.md)</span>
 
 </div>
 
@@ -257,7 +257,7 @@ on his journey
  Then through the jewel chamber burst,  
  And bore the drink of heaven away  
  That watched in Indra's palace lay." <span
-id="fr_419"></span>[†](#fn_419)</span>
+id="fr_419"></span>[†](#fn_419.md)</span>
 
 </div>
 
@@ -292,7 +292,7 @@ war. His approach and work are thus described:—
  And closed each rent the shafts had made.  
  Again their eyes were bright and bold;  
  Again the smooth skin shone like gold." <span
-id="fr_420"></span>[\*](#fn_420)</span>
+id="fr_420"></span>[\*](#fn_420.md)</span>
 
 </div>
 
@@ -344,7 +344,7 @@ friend:
  And guard thy house, if thou agree:  
  When thou and Lakshman urge the chase,  
  By Sitā's side shall be my place." <span
-id="fr_421"></span>[\*](#fn_421)</span>
+id="fr_421"></span>[\*](#fn_421.md)</span>
 
 </div>
 
@@ -359,7 +359,7 @@ Sitā, she cried out to Jatāyus—
  Of giants, cruel, fierce, and base!  
  Rāvan, the spoiler, bears me hence,  
  The helpless prey of violence." <span
-id="fr_422"></span>[†](#fn_422)</span>
+id="fr_422"></span>[†](#fn_422.md)</span>
 
 </div>
 
@@ -371,7 +371,7 @@ When, however,
 
 <span id="img_45700"></span> <span align="CENTER">
 [![JATĀYUS.](tn/45700.jpg)  
-Click to enlarge](img/45700.jpg)  
+Click to enlarge](img/45700.jpg.md)  
 JATĀYUS.  
 </span>
 
@@ -394,7 +394,7 @@ continues\]</span>  Then fierce the dreadful combat raged,
  As fiend and bird in war engaged,  
  As if two winged mountains sped  
  To dire encounter overhead." <span
-id="fr_423"></span>[\*](#fn_423)</span>
+id="fr_423"></span>[\*](#fn_423.md)</span>
 
 </div>
 
@@ -405,7 +405,7 @@ Jatāyus succeeded in breaking Rāvana's bow, but—
 <span class="small">"A second bow soon armed his hand,  
  Whence pointed arrows swift and true  
  In hundreds, yea, in thousands flew." <span
-id="fr_424"></span>[†](#fn_424)</span>
+id="fr_424"></span>[†](#fn_424.md)</span>
 
 </div>
 
@@ -422,7 +422,7 @@ the air, when the vulture a second time intercepts his flight, and—
 <span class="small">"Swooped down upon the giant's back:  
  Down to the bone the talons went;  
  With many a wound the flesh was rent." <span
-id="fr_425"></span>[‡](#fn_425)</span>
+id="fr_425"></span>[‡](#fn_425.md)</span>
 
 </div>
 
@@ -454,7 +454,7 @@ of Rāma's coming to rescue her.
 
 <span id="img_45900"></span> <span align="CENTER"> [![THE
 LOTUS.](tn/45900.jpg)  
-Click to enlarge](img/45900.jpg)  
+Click to enlarge](img/45900.jpg.md)  
 THE LOTUS.  
 </span>
 
@@ -462,46 +462,46 @@ THE LOTUS.
 
 ### Footnotes
 
-<span id="fn_410"></span>[449:\*](hmvp44.htm#fr_410) "Vishnu Purāna," p.
+<span id="fn_410"></span>[449:\*](hmvp44.htm#fr_410.md) "Vishnu Purāna," p.
 119.
 
-<span id="fn_411"></span>[451:\*](hmvp44.htm#fr_411) Moor's "Hindu
+<span id="fn_411"></span>[451:\*](hmvp44.htm#fr_411.md) Moor's "Hindu
 Pantheon," 341.
 
-<span id="fn_412"></span>[451:†](hmvp44.htm#fr_412) Ward, ii. 200.
+<span id="fn_412"></span>[451:†](hmvp44.htm#fr_412.md) Ward, ii. 200.
 
-<span id="fn_413"></span>[451:‡](hmvp44.htm#fr_413) Ibid., ii. 201.
+<span id="fn_413"></span>[451:‡](hmvp44.htm#fr_413.md) Ibid., ii. 201.
 
-<span id="fn_414"></span>[453:\*](hmvp44.htm#fr_414) Griffiths's
+<span id="fn_414"></span>[453:\*](hmvp44.htm#fr_414.md) Griffiths's
 "Rāmāyana," i. 94.
 
-<span id="fn_415"></span>[453:†](hmvp44.htm#fr_415) Ibid., i. 96.
+<span id="fn_415"></span>[453:†](hmvp44.htm#fr_415.md) Ibid., i. 96.
 
-<span id="fn_416"></span>[453:‡](hmvp44.htm#fr_416) See Gangā.
+<span id="fn_416"></span>[453:‡](hmvp44.htm#fr_416.md) See Gangā.
 
-<span id="fn_417"></span>[453:§](hmvp44.htm#fr_417) Griffiths's
+<span id="fn_417"></span>[453:§](hmvp44.htm#fr_417.md) Griffiths's
 "Rāmāyana," i. 186.
 
-<span id="fn_418"></span>[454:\*](hmvp44.htm#fr_418) Griffiths's
+<span id="fn_418"></span>[454:\*](hmvp44.htm#fr_418.md) Griffiths's
 "Rāmāyana," ii. 167.
 
-<span id="fn_419"></span>[454:†](hmvp44.htm#fr_419) Ibid., iii. 162.
+<span id="fn_419"></span>[454:†](hmvp44.htm#fr_419.md) Ibid., iii. 162.
 
-<span id="fn_420"></span>[455:\*](hmvp44.htm#fr_420) Griffiths's
+<span id="fn_420"></span>[455:\*](hmvp44.htm#fr_420.md) Griffiths's
 "Rāmāyana," v. 153.
 
-<span id="fn_421"></span>[456:\*](hmvp44.htm#fr_421) Griffiths's
+<span id="fn_421"></span>[456:\*](hmvp44.htm#fr_421.md) Griffiths's
 "Rāmāyana," iii. 68.
 
-<span id="fn_422"></span>[456:†](hmvp44.htm#fr_422) Ibid., 230.
+<span id="fn_422"></span>[456:†](hmvp44.htm#fr_422.md) Ibid., 230.
 
-<span id="fn_423"></span>[458:\*](hmvp44.htm#fr_423) "Griffiths's
+<span id="fn_423"></span>[458:\*](hmvp44.htm#fr_423.md) "Griffiths's
 Rāmāyana," iii. 236.
 
-<span id="fn_424"></span>[458:†](hmvp44.htm#fr_424) Ibid., 237.
+<span id="fn_424"></span>[458:†](hmvp44.htm#fr_424.md) Ibid., 237.
 
-<span id="fn_425"></span>[458:‡](hmvp44.htm#fr_425) Ibid., 240.
+<span id="fn_425"></span>[458:‡](hmvp44.htm#fr_425.md) Ibid., 240.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Gangā](hmvp45)
+[Next: Chapter VIII. Gangā](hmvp45.md)

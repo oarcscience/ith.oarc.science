@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cog02)  [Next](cog04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cog02)  [Next](cog04.md) 
 
 ------------------------------------------------------------------------
 
@@ -265,4 +265,4 @@ stumble.
 
 ------------------------------------------------------------------------
 
-[Next: Book 4--The Philosophers Return](cog04)
+[Next: Book 4--The Philosophers Return](cog04.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/kr3)  [Previous](../kr2/kr2) 
-[Next](../lear/lear) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/kr3)  [Previous](../kr2/kr2.md) 
+[Next](../lear/lear.md) 
 
 ------------------------------------------------------------------------
 
@@ -5787,4 +5787,4 @@ Index](../index)  [First Folio](../ff/kr3)  [Previous](../kr2/kr2) 
 
 ------------------------------------------------------------------------
 
-[Next: King Lear](../lear/lear) 
+[Next: King Lear](../lear/lear.md) 

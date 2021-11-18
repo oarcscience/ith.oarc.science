@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes24)  [Next](mes26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes24)  [Next](mes26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,7 +21,7 @@ Textual Heritage
 ### X.
 
 <span id="img_m21200"></span> ![Patience and Perseverance Under a
-Teacher.](img/m21200.jpg)
+Teacher.](img/m21200.jpg.md)
 
 <span class="smallcaps">Husāmu-’d-Dīn</span>, Light of the Truth, take
 up, my friend,  
@@ -78,7 +78,7 @@ Thy beast is not a friend to travelling by the road.
 How many muleteers through this have lost a load!  
 Know'st not the way? Observe which path thy beast would take,  
 And follow the reverse. Secure this will thee make.  
-"Consult thou them;" <span id="fr_324"></span>[1](#fn_323) but then, do
+"Consult thou them;" <span id="fr_324"></span>[1](#fn_323.md) but then, do
 not what they advise;  
 For he who them opposes not, to ruin hies.  
 Lend not thyself to lust and fancy's every wind;  
@@ -91,7 +91,7 @@ There's nothing in the world that better curbs the lusts,
 company. Protected, he who trusts.
 
 The Prophet said to ‘Alī: "Cousin, list to me.  
-The 'Lion of the Truth' <span id="fr_325"></span>[1](#fn_324) art thou;
+The 'Lion of the Truth' <span id="fr_325"></span>[1](#fn_324.md) art thou;
 a hero. See!  
 Trust not too much, however, to thy courage, sole;  
 Confide, much rather, on God's aim to keep thee whole.  
@@ -117,20 +117,20 @@ Of all the modes of worship, this choose thou, the best;
 Thou’lt distance all competitors, the prize thou’lt wrest.  
 Thy Teacher having chosen thus, obedience yield,  
 Implicit; even as Moses journeying o’er that field. <span
-id="fr_326"></span>[2](#fn_325)  
+id="fr_326"></span>[2](#fn_325.md)  
 Whate’er events betide, beware, and question not;  
 For fear thy guide should turn, and drive thee from the spot. <span
-id="fr_327"></span>[3](#fn_326)  
-Should He destroy a ship, <span id="fr_328"></span>[4](#fn_327)—no
+id="fr_327"></span>[3](#fn_326.md)  
+Should He destroy a ship, <span id="fr_328"></span>[4](#fn_327.md)—no
 murmur from thy mouth;  
-Should He an infant choke, <span id="fr_329"></span>[5](#fn_328)—let
+Should He an infant choke, <span id="fr_329"></span>[5](#fn_328.md)—let
 slip no word uncouth.
 
 <span id="page_m215">p. 215</span>
 
 God hath declared his hand is like the hand of God,  
 By saying: "God's right hand above all hands doth plod.' <span
-id="fr_330"></span>[1](#fn_329) <span class="margnote"><span
+id="fr_330"></span>[1](#fn_329.md) <span class="margnote"><span
 id="an_40">40</span></span>  
 God's hand it is that kills him; makes him living, too.  
 But what is living? The everlasting spirit. Lo!  
@@ -218,7 +218,7 @@ His heart can lessons give of flaming to the lamp;
 The very sun not equals him in ardent vamp.  
 For God hath said, in speaking of the scorching sun,  
 These words: "It swerved from them." <span
-id="fr_331"></span>[1](#fn_330) It had new course to run.
+id="fr_331"></span>[1](#fn_330.md) It had new course to run.
 
 The sharpest thorns are welcome, as the roseleaf soft,  
 To finite who to th’ Infinite can soar aloft. <span
@@ -239,24 +239,24 @@ class="margnote"><span id="an_80">80</span></span>
 
 ### Footnotes
 
-<span id="fn_323"></span>[m213:1](mes25.htm#fr_324) Qur’ān iii. 153.
+<span id="fn_323"></span>[m213:1](mes25.htm#fr_324.md) Qur’ān iii. 153.
 
-<span id="fn_324"></span>[m214:1](mes25.htm#fr_325) ‘Alī's title is "
+<span id="fn_324"></span>[m214:1](mes25.htm#fr_325.md) ‘Alī's title is "
 The victorious Lion of God."
 
-<span id="fn_325"></span>[m214:2](mes25.htm#fr_326) This journey is
+<span id="fn_325"></span>[m214:2](mes25.htm#fr_326.md) This journey is
 recounted in Qur’ān xviii. 64-82.
 
-<span id="fn_326"></span>[m214:3](mes25.htm#fr_327) Qur’ān xviii. 69.
+<span id="fn_326"></span>[m214:3](mes25.htm#fr_327.md) Qur’ān xviii. 69.
 
-<span id="fn_327"></span>[m214:4](mes25.htm#fr_328) Qur’ān xviii. 70.
+<span id="fn_327"></span>[m214:4](mes25.htm#fr_328.md) Qur’ān xviii. 70.
 
-<span id="fn_328"></span>[m214:5](mes25.htm#fr_329) Qur’ān xviii. 73.
+<span id="fn_328"></span>[m214:5](mes25.htm#fr_329.md) Qur’ān xviii. 73.
 
-<span id="fn_329"></span>[m215:1](mes25.htm#fr_330) Qur’ān xlviii. 10.
+<span id="fn_329"></span>[m215:1](mes25.htm#fr_330.md) Qur’ān xlviii. 10.
 
-<span id="fn_330"></span>[m217:1](mes25.htm#fr_331) Qur’ān xviii. 16.
+<span id="fn_330"></span>[m217:1](mes25.htm#fr_331.md) Qur’ān xviii. 16.
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Lion's Hunt, in Company](mes26)
+[Next: XI. The Lion's Hunt, in Company](mes26.md)

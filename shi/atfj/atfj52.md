@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj51)  [Next](atfj53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj51)  [Next](atfj53.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_56"></span> <span align="CENTER"> [![56. Rokugo Sees a
 Ghostly Spirit](tn/56.jpg)  
-Click to enlarge](img/56.jpg)  
+Click to enlarge](img/56.jpg.md)  
 56. Rokugo Sees a Ghostly Spirit  
 </span>
 
 ### L
 
-### THE SNOW TOMB <span id="fr_49"></span>[1](#fn_49)
+### THE SNOW TOMB <span id="fr_49"></span>[1](#fn_49.md)
 
 MANY years ago there lived a young man of the samurai class who was much
 famed for his skill in fencing in what was called the style of Yagyu. So
@@ -85,7 +85,7 @@ by the enemy. One, more anxious than the rest to find his master's head,
 continued to search while the action went on. While searching he himself
 was killed. Since that evening, 200 years ago, the fireball has been
 burning after ten o'clock. The people from that time till now have
-called it *Kubi sagashi no hi*." <span id="fr_50"></span>[1](#fn_50) As
+called it *Kubi sagashi no hi*." <span id="fr_50"></span>[1](#fn_50.md) As
 the master of the inn finished relating this story, my friends, I felt
 an unpleasant sensation in the heart. It was the first thing of a
 ghostly kind that I had seen.'
@@ -233,16 +233,16 @@ to be seen in the Korinji Temple at Warigesui Honjo, in Tokio.
 
 ### Footnotes
 
-<span id="fn_49"></span>[312:1](atfj52.htm#fr_49) Told to me by Fukuchi,
+<span id="fn_49"></span>[312:1](atfj52.htm#fr_49.md) Told to me by Fukuchi,
 in connection with the fire-lights in foxes. Carefully translated by Mr.
 Watanabe, of the Prefectural Government.
 
-<span id="fn_50"></span>[314:1](atfj52.htm#fr_50) The head-seeking fire.
+<span id="fn_50"></span>[314:1](atfj52.htm#fr_50.md) The head-seeking fire.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: LI. The Dragon-Shaped Plum Tree](atfj53)
+[Next: LI. The Dragon-Shaped Plum Tree](atfj53.md)
 
 </div>

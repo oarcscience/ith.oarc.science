@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw01) [Next](scw03)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw01) [Next](scw03.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -457,4 +457,4 @@ Crieth the soul for God, crieth for Him alone.<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw03)
+[Next](scw03.md)

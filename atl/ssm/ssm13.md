@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ssm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ssm12.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ Fig. 3. The Lily, a triangle and crossed triangles.
 
 [![&lt;I&gt;Fig. 1. The Daisy&lt;BR&gt; The Circle-the Sun and her
 Rays&lt;/I&gt;](tn/28100.jpg)  
-Click to enlarge](img/28100.jpg)  
+Click to enlarge](img/28100.jpg.md)  
 *Fig. 1. The Daisy  
 The Circle-the Sun and her Rays*  
 
@@ -85,7 +85,7 @@ skill. It rests with ourselves to do so.
 
 [![&lt;I&gt;Fig. 2. The Syringa Bush&lt;BR&gt; The Square--the Four
 Primary Forces&lt;/I&gt;](tn/28300.jpg)  
-Click to enlarge](img/28300.jpg)  
+Click to enlarge](img/28300.jpg.md)  
 *Fig. 2. The Syringa Bush  
 The Square--the Four Primary Forces*  
 
@@ -103,7 +103,7 @@ in nature's school of which the Infinite One is the Head Master.
 Nature was created and built up on fundamental laws. These Divine Laws
 have been and are being fully expressed in created objects, all of which
 have been consistently followed throughout Time. They cannot be
-[improved](errata.htm#6) upon by man because they are divine. Being
+[improved](errata.htm#6.md) upon by man because they are divine. Being
 divine, they are perfect.
 
 To represent religious and philosophic ideas and conceptions, even of
@@ -125,7 +125,7 @@ obtain a more just appreciation of the knowledge of the
 
 [![&lt;I&gt;Fig. 3. The Lily&lt;BR&gt; The Triangle--the Symbol of
 Heaven&lt;/I&gt;](tn/28500.jpg)  
-Click to enlarge](img/28500.jpg)  
+Click to enlarge](img/28500.jpg.md)  
 *Fig. 3. The Lily  
 The Triangle--the Symbol of Heaven*  
 
@@ -166,7 +166,7 @@ universal spirit of the Creator. The Infinite Substance--God."
 
 [![&lt;I&gt;Fig. 4. The Moonflower&lt;BR&gt; The Pentagon--the Full
 Godhead&lt;/I&gt;](tn/28700.jpg)  
-Click to enlarge](img/28700.jpg)  
+Click to enlarge](img/28700.jpg.md)  
 *Fig. 4. The Moonflower  
 The Pentagon--the Full Godhead*  
 
@@ -208,7 +208,7 @@ geometrical symbol is on the lines of the sacred flower.
 <span id="img_28900"></span>
 
 [![](tn/28900.jpg)  
-Click to enlarge](img/28900.jpg)
+Click to enlarge](img/28900.jpg.md)
 
 One of the two oldest known bronzes in the world. It is a symbolical
 figure of Mu as the mistress and ruler of the whole earth. It was made
@@ -220,7 +220,7 @@ Courtesy of George N. Leiper
 
 [![&lt;I&gt;Drawn and analyzed by Viola de
 Gruchy&lt;/I&gt;](tn/28901.jpg)  
-Click to enlarge](img/28901.jpg)  
+Click to enlarge](img/28901.jpg.md)  
 *Drawn and analyzed by Viola de Gruchy*  
 
  
@@ -297,7 +297,7 @@ completely intertwined in their teachings.
 
 <span id="img_29200"></span> ![&lt;I&gt;Problem 1.&lt;BR&gt; ''To
 describe an equilateral triangle upon a given finite straight
-line''&lt;/I&gt;](img/29200.jpg)  
+line''&lt;/I&gt;](img/29200.jpg.md)  
 *Problem 1.  
 ''To describe an equilateral triangle upon a given finite straight
 line''*

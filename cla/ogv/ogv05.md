@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv04)  [Next](ogv06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv04)  [Next](ogv06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -72,19 +72,19 @@ say, that the poet Amphion, whose chants were, on the contrary, so
 powerful and so virile, typifies the orthodox solar poetry, opposed by
 these same Thracians; whereas the prophet Thamyris, who, it is said,
 celebrated in such stately verse the creation of the world and the war
-of the Titans, <span id="fr_33"></span>[1](#fn_33) I represents quite
+of the Titans, <span id="fr_33"></span>[1](#fn_33.md) I represents quite
 plainly the universal doctrine of Olen, re-established by his followers.
 The name of Amphion signifies the orthodox or national voice of Greece;
 that of Thamyris, the twin lights of the gods. <span
-id="fr_34"></span>[\*](#fn_34) One feels, accordingly, that the evils
+id="fr_34"></span>[\*](#fn_34.md) One feels, accordingly, that the evils
 which came to Linus and to Thamyris, one of whom was killed by
-Hercules, <span id="fr_35"></span>[2](#fn_35) and the other deprived of
-sight by the Muses, <span id="fr_36"></span>[3](#fn_36) are, in reality,
+Hercules, <span id="fr_35"></span>[2](#fn_35.md) and the other deprived of
+sight by the Muses, <span id="fr_36"></span>[3](#fn_36.md) are, in reality,
 only some sort of criticism or unfortunate incident sustained by the
 doctrines which they represented, on account of the opposition of the
 Thracians. What I have said concerning Linus, Amphion, and Thamyris, can
 be applied to the greater part of the poets who preceded Homer, and
-Fabricius names seventy of these <span id="fr_37"></span>[4](#fn_37);
+Fabricius names seventy of these <span id="fr_37"></span>[4](#fn_37.md);
 one could also extend it to Orpheus, but only on a certain side; for
 although it may be very true, that no positive detail is possessed
 regarding the character of the celebrated man, founder or propagator of
@@ -133,9 +133,9 @@ Orpheus, epic monuments like the poems of Homer?
 that the Tartars who have subjugated Asia, those proud Manchus who today
 reign over China, have never been able to derive from their language,
 rebellious to all kinds of melody and rhythm, a single verse, <span
-id="fr_38"></span>[1](#fn_38) although since their conquests they have
+id="fr_38"></span>[1](#fn_38.md) although since their conquests they have
 felt and appreciated the charms of this art? <span
-id="fr_39"></span>[\*](#fn_39)
+id="fr_39"></span>[\*](#fn_39.md)
 
 Bears and lions, tamed and brought nearer together by Orphic poetry,
 have no reference to men, but to things: they are the symbols of rival
@@ -161,40 +161,40 @@ darkness, and offered only the shadow of her ancient
 
 <span id="page_24">p. 24</span>
 
-splendour. <span id="fr_40"></span>[\*](#fn_40) For fifteen centuries
+splendour. <span id="fr_40"></span>[\*](#fn_40.md) For fifteen centuries
 she had lost her unity by the extinction of her imperial dynasties. Many
-rival kingdoms were formed, <span id="fr_41"></span>[1](#fn_41) whose
+rival kingdoms were formed, <span id="fr_41"></span>[1](#fn_41.md) whose
 constant quarrels had left them neither the leisure nor the possibility
 of watching over and supporting their colonies from afar. The gradual
 lowering of the Mediterranean, and the alluvial deposit of the shores of
-Egypt raising the Isthmus of Suez, <span id="fr_42"></span>[2](#fn_42)
+Egypt raising the Isthmus of Suez, <span id="fr_42"></span>[2](#fn_42.md)
 had cut off all communication between this sea and the Red Sea, and, by
 barriers difficult to surmount, separated the primitive Phœnicians,
 established upon the shores of the Indian Ocean, from those of
-Palestine. <span id="fr_43"></span>[3](#fn_43) The meridional Arabs were
+Palestine. <span id="fr_43"></span>[3](#fn_43.md) The meridional Arabs were
 separated from
 
 <span id="page_25">p. 25</span>
 
 the septentrional, and both had broken with the Indians to whom they had
-formerly belonged. <span id="fr_44"></span>[1](#fn_44) Tibet had adopted
+formerly belonged. <span id="fr_44"></span>[1](#fn_44.md) Tibet had adopted
 a particular cult and form of government. <span
-id="fr_45"></span>[2](#fn_45) Persia had been subject to the empire of
-the Assyrians. <span id="fr_46"></span>[3](#fn_46) At last the political
+id="fr_45"></span>[2](#fn_45.md) Persia had been subject to the empire of
+the Assyrians. <span id="fr_46"></span>[3](#fn_46.md) At last the political
 ties which united all these states, and which once formed only a vast
 group under the domination of the Indian monarchs, had become relaxed or
 broken on all sides. Egypt, long subject to the Philistines, known under
 the name of Shepherds, came at length to drive them out, and emerging
 from her lethargy prepared herself to seize the influence which Asia had
-allowed to escape. <span id="fr_47"></span>[4](#fn_47) Already the most
+allowed to escape. <span id="fr_47"></span>[4](#fn_47.md) Already the most
 warlike of her kings, Sethos, had extended his empire over both Libya
 and Arabia; Phoenicia and Assyria had been subjugated; he had entered
 triumphant into Babylon and was seated upon the throne of Belus. <span
-id="fr_48"></span>[5](#fn_48) He would not have hesitated to attempt the
+id="fr_48"></span>[5](#fn_48.md) He would not have hesitated to attempt the
 conquest of Greece, if he had been able as easily to lead his army
 there; but it was difficult for him to create a marine force, and above
 all to overcome the invincible repugnance that the Egyptians had for the
-sea. <span id="fr_49"></span>[6](#fn_49) Obliged to employ the
+sea. <span id="fr_49"></span>[6](#fn_49.md) Obliged to employ the
 Phœnicians, his ancient enemies, he was able to draw from them only
 mediocre service. In spite of these obstacles and the stubborn
 resistance of the Greeks, he succeeded nevertheless in making some
@@ -204,7 +204,7 @@ conquests and forming some partial settlements.
 
 <span class="contnote">\[paragraph continues\]</span> Athens, so
 celebrated later, was one of the principal ones. <span
-id="fr_50"></span>[1](#fn_50)
+id="fr_50"></span>[1](#fn_50.md)
 
 These events, these revolutions, calamitous in appearance, were in
 reality to produce great benefits. Greece, already impregnated with the
@@ -212,14 +212,14 @@ learning of the Phœnicians, which she had obtained and elaborated,
 afterward received that of the Egyptians and elaborated it still
 further. A man born in the heart of Thrace, but carried in his childhood
 into Egypt through the desire for knowledge, <span
-id="fr_51"></span>[2](#fn_51) returned to his country with one of the
+id="fr_51"></span>[2](#fn_51.md) returned to his country with one of the
 Egyptian colonies, to kindle there the new light. He was initiated into
 all the mysteries of religion and science: he surpassed, said Pausanias,
 all those who had preceded him, by the beauty of his verse, the
 sublimity of his chants, and the profoundness of his knowledge in the
 art of healing and of appeasing the gods. <span
-id="fr_52"></span>[3](#fn_52) This was Orpheus: he took this name from
-that of his doctrine <span id="fr_53"></span>[\*](#fn_53) which aimed to
+id="fr_52"></span>[3](#fn_52.md) This was Orpheus: he took this name from
+that of his doctrine <span id="fr_53"></span>[\*](#fn_53.md) which aimed to
 cure and to save by knowledge.
 
 I should greatly overstep the limits that I have prescribed for this
@@ -228,7 +228,7 @@ celebrated man. The mythological tradition has consecrated in a
 brilliant allegory the efforts which he made to restore to men the truth
 which they had lost. His love for Eurydice, so much sung by the poets,
 is but the symbol of the divine science for which he longed. <span
-id="fr_54"></span>[†](#fn_54) The name of this mysterious spouse, whom
+id="fr_54"></span>[†](#fn_54.md) The name of this mysterious spouse, whom
 he vainly wished to return to the light, signified only the doctrine of
 the true science, the teaching of what is beautiful and veritable, by
 which he tried to enrich the earth. But
@@ -250,11 +250,11 @@ being dazzled, attained to virtue, wisdom, and truth. There has been but
 one opinion in antiquity concerning the utility of the mysteries, before
 dissolution had stained its precincts and corrupted its aim. All the
 sages, even Socrates, have praised this institution, <span
-id="fr_55"></span>[1](#fn_55) the honour of which has been constantly
-attributed to Orpheus. <span id="fr_56"></span>[2](#fn_56) It is not
+id="fr_55"></span>[1](#fn_55.md) the honour of which has been constantly
+attributed to Orpheus. <span id="fr_56"></span>[2](#fn_56.md) It is not
 improbable that this sage had found the model in Egypt and that he
-himself had been initiated, as Moses <span id="fr_57"></span>[3](#fn_57)
-and Pythagoras <span id="fr_58"></span>[4](#fn_58) had been before and
+himself had been initiated, as Moses <span id="fr_57"></span>[3](#fn_57.md)
+and Pythagoras <span id="fr_58"></span>[4](#fn_58.md) had been before and
 after him; but in this case an imitation was equivalent to a creation.
 
 I have said that after the appearance of Orpheus, poetry had lost its
@@ -286,15 +286,15 @@ end by being mingled in a sole Universal Being; but that was very
 difficult for people, flattered, moreover, by a system which compared
 the condition of the gods with theirs, and offered them thus, protectors
 and patrons so much the more accessible as they were less occupied and
-less powerful. <span id="fr_59"></span>[1](#fn_59) Vainly, therefore,
+less powerful. <span id="fr_59"></span>[1](#fn_59.md) Vainly, therefore,
 the Egyptian colony established at Athens presented to the adoration of
 this people imbued with the prejudice of polytheism, the sovereign of
 the gods under the title of the Most-High <span
-id="fr_60"></span>[2](#fn_60); the veneration of this people was turned
+id="fr_60"></span>[2](#fn_60.md); the veneration of this people was turned
 wholly towards Minerva, who became its patron under the name of
-Athena, <span id="fr_61"></span>[3](#fn_61) as Juno was that of
-Argos, <span id="fr_62"></span>[4](#fn_62) Ceres, that of Eleusis,
-Phigalia, Methydrium, <span id="fr_63"></span>[5](#fn_63) etc.
+Athena, <span id="fr_61"></span>[3](#fn_61.md) as Juno was that of
+Argos, <span id="fr_62"></span>[4](#fn_62.md) Ceres, that of Eleusis,
+Phigalia, Methydrium, <span id="fr_63"></span>[5](#fn_63.md) etc.
 
 Orpheus, instructed as was Moses, in the sanctuaries of Egypt, had the
 same ideas as the legislator of the Hebrews
@@ -315,42 +315,42 @@ pleasure, of joy, and of *fêtes*, that he concealed the utility of his
 lessons and the depth of his doctrine. Nothing was more full of pomp
 than the celebration of its mysteries. Whatever majesty, force, and
 grace, poetry, music, and painting had, was used to excite the
-enthusiasm of the initiate. <span id="fr_64"></span>[1](#fn_64) He found
+enthusiasm of the initiate. <span id="fr_64"></span>[1](#fn_64.md) He found
 no pretext advantageous enough, no form beautiful enough, no charm
 powerful enough to interest the hearts and attract them toward the
 sublime truths which he proclaimed. These truths, whose force the early
-Christians have recognized, <span id="fr_65"></span>[2](#fn_65) went
+Christians have recognized, <span id="fr_65"></span>[2](#fn_65.md) went
 much further than those of which Moses had been the interpreter; they
 seemed to anticipate the times. Not only did he teach of the unity of
-God, <span id="fr_66"></span>[\*](#fn_66) and give the most sublime
-ideas of this unfathomable Being <span id="fr_67"></span>[3](#fn_67);
+God, <span id="fr_66"></span>[\*](#fn_66.md) and give the most sublime
+ideas of this unfathomable Being <span id="fr_67"></span>[3](#fn_67.md);
 not only did he explain the birth of the Universe and the origin of
-things <span id="fr_68"></span>[4](#fn_68); but he represented this
+things <span id="fr_68"></span>[4](#fn_68.md); but he represented this
 unique God under the emblem of a mysterious Trinity endowed
 
 <span id="page_30">p. 30</span>
 
-with three names <span id="fr_69"></span>[1](#fn_69); he spoke of the
+with three names <span id="fr_69"></span>[1](#fn_69.md); he spoke of the
 dogma which Plato announced a long time after concerning the Logos, or
 the Divine Word; and, according to Macrobius, taught even its
 incarnation or its union with matter, its death or its division in the
 world of sense, its resurrection or its transfiguration, and finally its
-return to the original Unity. <span id="fr_70"></span>[2](#fn_70)
+return to the original Unity. <span id="fr_70"></span>[2](#fn_70.md)
 
 This inspired man, by exalting in Man the imagination, that admirable
 faculty which makes the charm of life, fettered the passions which
 trouble its serenity. Through him his disciples enjoyed the enthusiasm
 of the fine arts and he insisted that their customs should be pure and
-simple. <span id="fr_71"></span>[3](#fn_71) The régime that he
+simple. <span id="fr_71"></span>[3](#fn_71.md) The régime that he
 prescribed for them was that which Pythagoras introduced later <span
-id="fr_72"></span>[4](#fn_72). One of the most pleasing rewards which he
+id="fr_72"></span>[4](#fn_72.md). One of the most pleasing rewards which he
 offered to their endeavours, the very aim of their initiation into his
 mysteries, was, putting themselves in communion with the gods <span
-id="fr_73"></span>[5](#fn_73); freeing themselves from the cycle of
+id="fr_73"></span>[5](#fn_73.md); freeing themselves from the cycle of
 generations, purifying their soul, and rendering it worthy of projecting
 itself, after the downfall of its corporal covering toward its primal
 abode, to the realms of light and happiness. <span
-id="fr_74"></span>[6](#fn_74)
+id="fr_74"></span>[6](#fn_74.md)
 
 Despite my resolution to be brief, I cannot resist the pleasure of
 speaking at greater length of Orpheus, and of recalling, as is my
@@ -358,7 +358,7 @@ custom, things which, appearing today wholly foreign to my subject,
 nevertheless, when examined from my viewpoint, belong to it. Poetry was
 not at all in its origin what it became later, a simple accomplishment,
 regarded by those who profess to be savants as even rather
-frivolous <span id="fr_75"></span>[\*](#fn_75); it was the language of
+frivolous <span id="fr_75"></span>[\*](#fn_75.md); it was the language of
 the gods, *par excellence*,
 
 <span id="page_31">p. 31</span>
@@ -368,7 +368,7 @@ the legislators of the world. I rejoice to repeat this truth, after
 rendering homage to Orpheus, to this admirable man, to whom Europe owes
 the *éclat* with which she has shone and with which she will shine a
 long time. Orpheus has been the real creator of poetry and of
-music, <span id="fr_76"></span>[1](#fn_76) the father of mythology, of
+music, <span id="fr_76"></span>[1](#fn_76.md) the father of mythology, of
 morals, and of philosophy: it is he who has served as model for Hesiod
 and Homer, who has illumined the footsteps of Pythagoras and Plato.
 
@@ -376,7 +376,7 @@ After having wisely accommodated the outward ceremonies to the minds of
 the people whom he wished to instruct, Orpheus divided his doctrine into
 two parts, the one vulgar, and the other mysterious and secret,
 following in this the method of the Egyptians, whose disciple he had
-been <span id="fr_77"></span>[2](#fn_77); then, turning his attention to
+been <span id="fr_77"></span>[2](#fn_77.md); then, turning his attention to
 poetry, and seeing into what chaos this science had fallen and the
 confusion that had been made of divine and profane things, he
 judiciously separated it into two principal branches, which he assigned,
@@ -388,21 +388,21 @@ subjects. Time has destroyed nearly all of them; but their memory has
 been perpetuated. Among the works of Orpheus that were cited by the
 ancients and whose loss must be deplored, were found, on the subject of
 theosophy, *The Holy Word* or *The Sacred Logos*, <span
-id="fr_78"></span>[\*](#fn_78) by which Pythagoras and Plato profited
+id="fr_78"></span>[\*](#fn_78.md) by which Pythagoras and Plato profited
 much; the *Theogony*, which preceded that of Hesiod more than five
 centuries; The Initiations to the *Mysteries of the Mother of the
-Gods*, <span id="fr_79"></span>[\*\*](#fn_79) and *The Ritual of the
+Gods*, <span id="fr_79"></span>[\*\*](#fn_79.md) and *The Ritual of the
 Sacrifices*, wherein he had recorded, undoubtedly, the divers parts of
-his doctrine <span id="fr_80"></span>[3](#fn_80): on the subject of
+his doctrine <span id="fr_80"></span>[3](#fn_80.md): on the subject of
 philosophy, a celebrated
 
 <span id="page_32">p. 32</span>
 
-cosmogony was found, <span id="fr_81"></span>[1](ogv06.htm#fn_81) in
+cosmogony was found, <span id="fr_81"></span>[1](ogv06.htm#fn_81.md) in
 which an astronomical system was developed that would be an honour to
 our century, touching the plurality of the worlds, the station of the
 sun at the centre of the universe, and the habitation of the
-stars. <span id="fr_82"></span>[2](ogv06.htm#fn_82) These extraordinary
+stars. <span id="fr_82"></span>[2](ogv06.htm#fn_82.md) These extraordinary
 works emanated from the same genius who had written in verse upon
 grammar, music, natural history, upon the antiquities of the many isles
 of Greece, upon the interpretation of signs and prodigies, and a mass of
@@ -426,10 +426,10 @@ Homer did.
 
 ### Footnotes
 
-<span id="fn_33"></span>[21:1](ogv05.htm#fr_33) Plut., *De Music*.
+<span id="fn_33"></span>[21:1](ogv05.htm#fr_33.md) Plut., *De Music*.
 Tzetzes, *Chiliads*, vii.; *Hist*., 108.
 
-<span id="fn_34"></span>[21:\*](ogv05.htm#fr_34) *Amphion*, in Greek
+<span id="fn_34"></span>[21:\*](ogv05.htm#fr_34.md) *Amphion*, in Greek
 Αμφίων, comes from the Phœnician words ‏אם‎ (*am*), a mother-nation, a
 metropolis, ‏פי‎ (*phi*), a mouth, a voice, and ‏יון‎ (*Jôn*), Greece.
 Thence the Greeks have derived Ὀμφή, a mother-voice, that is, orthodox,
@@ -438,27 +438,27 @@ legal, upon which all should be regulated.
 Thamyris, in Greek Θάμυρις, is composed of the Phœnician words ‏תאם‎
 (*tham*), twin, ‏אור‎ (*aur*), light, ‏יש‎ (*ish*), of the being.
 
-<span id="fn_35"></span>[21:2](ogv05.htm#fr_35) Plut., *De Music*.
+<span id="fn_35"></span>[21:2](ogv05.htm#fr_35.md) Plut., *De Music*.
 
-<span id="fn_36"></span>[21:3](ogv05.htm#fr_36) Diod. Sicul., l. iii.,
+<span id="fn_36"></span>[21:3](ogv05.htm#fr_36.md) Diod. Sicul., l. iii.,
 35. Pausan., *In Bœot.*, p. 585.
 
-<span id="fn_37"></span>[21:4](ogv05.htm#fr_37) *Bibliotheca Græca*, p.
+<span id="fn_37"></span>[21:4](ogv05.htm#fr_37.md) *Bibliotheca Græca*, p.
 4.
 
-<span id="fn_38"></span>[23:1](ogv05.htm#fr_38) Duhalde, t. iv.,
+<span id="fn_38"></span>[23:1](ogv05.htm#fr_38.md) Duhalde, t. iv.,
 *in-fol.*, p. 65. These Tartars had no idea of poetry before their
 conquest of China; also they imagined that it was only in China where
 the rules of this science had been formulated, and that the rest of the
 world resembled them.
 
-<span id="fn_39"></span>[23:\*](ogv05.htm#fr_39) Kien-long, one of the
+<span id="fn_39"></span>[23:\*](ogv05.htm#fr_39.md) Kien-long, one of the
 descendants of Kang-hi, has made good verse in Chinese. This prince has
 composed an historical poem on the conquest of the Eleuth, or *Oloth*
 people, who, after having been a long time tributary to China, revolted.
 (*Mém. concernant les Chin.*, t. i., p. 329.)
 
-<span id="fn_40"></span>[24:\*](ogv05.htm#fr_40) The commencement of the
+<span id="fn_40"></span>[24:\*](ogv05.htm#fr_40.md) The commencement of the
 Indian Kali-youg is placed 3101 or 3102 years before our era. Fréret has
 fixed it, in his chronological researches, at January 16, 3102, a half
 hour before the winter solstice, in the colure of which was then found
@@ -470,7 +470,7 @@ comes from the Greek word μῦθος, a discourse, which is itself derived
 from the Phœnician ‏מיט‎ (*mot* or *myt*), which expresses all that
 moves, stirs up; a motion, a word, etc.
 
-<span id="fn_41"></span>[24:1](ogv05.htm#fr_41) *Asiat. Research.*, t.
+<span id="fn_41"></span>[24:1](ogv05.htm#fr_41.md) *Asiat. Research.*, t.
 ii., p. 140. The Brahmans say that their imperial dynasties, pontifical
 as well as laic, or solar and lunar, became extinguished a thousand
 years after the beginning of the *Kali-youg*, about 2000 B.C. It was at
@@ -478,7 +478,7 @@ this epoch that India was divided into many independent sovereignties
 and that a powerful reformer of the cult appeared in Magadha, who took
 the surname of *Buddha*.
 
-<span id="fn_42"></span>[24:2](ogv05.htm#fr_42) Herod., l. ii. This
+<span id="fn_42"></span>[24:2](ogv05.htm#fr_42.md) Herod., l. ii. This
 historian said that in the early times all Egypt was a morass, with the
 exception of the country of Thebes; that nothing was seen of the land,
 which one saw there at the epoch in which he was writing, beyond Lake
@@ -490,7 +490,7 @@ which they would have been unable to do if the Isthmus of Suez had
 existed. See what Aristotle says on this subject, *Meteorolog.*, l. i.,
 c. 54.
 
-<span id="fn_43"></span>[24:3](ogv05.htm#fr_43) *Asiat. Research.*, t.
+<span id="fn_43"></span>[24:3](ogv05.htm#fr_43.md) *Asiat. Research.*, t.
 iii., p. 321. The excerpts that Wilford has made from the *Pourana*,
 entitled *Scanda*, the God of War, prove that the *Palis*, called
 Philistines, on account of their same country, *Palis-sthan*, going out
@@ -500,7 +500,7 @@ borders of the Red Sea, whence they passed into the Mediterranean Sea,
 as Herodotus said, according to the Persian traditions. This coincidence
 is of great historical interest.
 
-<span id="fn_44"></span>[25:1](ogv05.htm#fr_44) Niebuhr, *Descript. de
+<span id="fn_44"></span>[25:1](ogv05.htm#fr_44.md) Niebuhr, *Descript. de
 l’Arab.*, p. 164. Two powerful tribes became divided in Arabia at this
 epoch: that of the Himyarites, who possessed the meridional part, or
 Yemen, and that of the Koreishites, who occupied the septentrional part,
@@ -509,124 +509,124 @@ took the title of *Tobba* and enjoyed an hereditary power. The
 Koreishites possessed the sacred city of Arabia, Mecca, where was found
 the ancient temple still venerated today by the Mussulmans.
 
-<span id="fn_45"></span>[25:2](ogv05.htm#fr_45) *Asiat. Research.*, t.
+<span id="fn_45"></span>[25:2](ogv05.htm#fr_45.md) *Asiat. Research.*, t.
 iii., p. ii.
 
-<span id="fn_46"></span>[25:3](ogv05.htm#fr_46) Diodorus Siculus, l.
+<span id="fn_46"></span>[25:3](ogv05.htm#fr_46.md) Diodorus Siculus, l.
 ii., 12. Strabo, l. xvi. Suidas, art. *Semiramis*.
 
-<span id="fn_47"></span>[25:4](ogv05.htm#fr_47) Phot., *Cod.*, 44. Ex.
+<span id="fn_47"></span>[25:4](ogv05.htm#fr_47.md) Phot., *Cod.*, 44. Ex.
 Diodor., l. xl. Syncell., p. 61. Joseph., *Contr. Apion*.
 
-<span id="fn_48"></span>[25:5](ogv05.htm#fr_48) Hérod., l. ii. Diod.
+<span id="fn_48"></span>[25:5](ogv05.htm#fr_48.md) Hérod., l. ii. Diod.
 Siculus, l. i., § 2.
 
-<span id="fn_49"></span>[25:6](ogv05.htm#fr_49) Diodor. Sicul., l. i., §
+<span id="fn_49"></span>[25:6](ogv05.htm#fr_49.md) Diodor. Sicul., l. i., §
 2. Delille-de-Salles, *Hist. des Homm.*, Egypte, t. iii., p. 178.
 
-<span id="fn_50"></span>[26:1](ogv05.htm#fr_50) Plat., *in Tim. Dial.*
+<span id="fn_50"></span>[26:1](ogv05.htm#fr_50.md) Plat., *in Tim. Dial.*
 Theopomp. *apud* Euseb., *Præp. Evan.*, l. x., c. 10. Diod. Sicul., l.
 i., *initio*.
 
-<span id="fn_51"></span>[26:2](ogv05.htm#fr_51) Diodor. Sicul., l. i.,
+<span id="fn_51"></span>[26:2](ogv05.htm#fr_51.md) Diodor. Sicul., l. i.,
 *initio*.
 
-<span id="fn_52"></span>[26:3](ogv05.htm#fr_52) Pausan., *Bœot.*, p.
+<span id="fn_52"></span>[26:3](ogv05.htm#fr_52.md) Pausan., *Bœot.*, p.
 768.
 
-<span id="fn_53"></span>[26:\*](ogv05.htm#fr_53) This word is Egyptian
+<span id="fn_53"></span>[26:\*](ogv05.htm#fr_53.md) This word is Egyptian
 and Phœnician alike. It is composed of the words ‏אור‎ (*aur*), light,
 and ‏רפא‎ (*rophœ*), cure, salvation.
 
-<span id="fn_54"></span>[26:†](ogv05.htm#fr_54) Eurydice, in Greek
+<span id="fn_54"></span>[26:†](ogv05.htm#fr_54.md) Eurydice, in Greek
 Εὐρυδίκη, comes from the Phœnician words ‏ראה‎ (*rohe*), vision,
 clearness, evidence, and ‏דך‎ (*dich*), that which demonstrates or
 teaches: these two words are preceded by the Greek adverb εὖ, which
 expresses all that is good, happy, and perfect in its kind.
 
-<span id="fn_55"></span>[27:1](ogv05.htm#fr_55) Plat., *In Phædon*.
+<span id="fn_55"></span>[27:1](ogv05.htm#fr_55.md) Plat., *In Phædon*.
 *Ibid*., *In Panegyr*. Aristot., *Rhet*., l. ii., c. 24. Isocr.,
 *Paneg*. Cicero, *De Leg.*, l. ii. Plutar., *De Isid.* Paus., *In
 Phoc.*, etc.
 
-<span id="fn_56"></span>[27:2](ogv05.htm#fr_56) Théodoret, *Therapeut*.
+<span id="fn_56"></span>[27:2](ogv05.htm#fr_56.md) Théodoret, *Therapeut*.
 
-<span id="fn_57"></span>[27:3](ogv05.htm#fr_57) Philo, *De Vitâ Mosis*,
+<span id="fn_57"></span>[27:3](ogv05.htm#fr_57.md) Philo, *De Vitâ Mosis*,
 l. i.
 
-<span id="fn_58"></span>[27:4](ogv05.htm#fr_58) Jamblic., *De Vitâ
+<span id="fn_58"></span>[27:4](ogv05.htm#fr_58.md) Jamblic., *De Vitâ
 Pythag.*, c. 2. Apul., *Florid*., ii. Diog. Laërt., l. viii.
 
-<span id="fn_59"></span>[28:1](ogv05.htm#fr_59) *Voyage du jeune
+<span id="fn_59"></span>[28:1](ogv05.htm#fr_59.md) *Voyage du jeune
 Anacharsis*, t. i., *Introd*., p. 7.
 
-<span id="fn_60"></span>[28:2](ogv05.htm#fr_60) Meurs., *De Relig.
+<span id="fn_60"></span>[28:2](ogv05.htm#fr_60.md) Meurs., *De Relig.
 Athen.*, l. i., c. 9.
 
-<span id="fn_61"></span>[28:3](ogv05.htm#fr_61) Apollon., l. iii., p.
+<span id="fn_61"></span>[28:3](ogv05.htm#fr_61.md) Apollon., l. iii., p.
 237.
 
-<span id="fn_62"></span>[28:4](ogv05.htm#fr_62) Hygin., *Fabl*., 143.
+<span id="fn_62"></span>[28:4](ogv05.htm#fr_62.md) Hygin., *Fabl*., 143.
 
-<span id="fn_63"></span>[28:5](ogv05.htm#fr_63) Pausan., *Arcad*., p.
+<span id="fn_63"></span>[28:5](ogv05.htm#fr_63.md) Pausan., *Arcad*., p.
 266, 268, etc.
 
-<span id="fn_64"></span>[29:1](ogv05.htm#fr_64) Strabo, l. x; Meurs.,
+<span id="fn_64"></span>[29:1](ogv05.htm#fr_64.md) Strabo, l. x; Meurs.,
 *Eleus*., c. 21 et seq.; Paus., *Ath*., c. 28; Fulgent., *Myth*., l. i.;
 Philostr., *In Apollon.*, l. ii.; *Athen*., l. xi.; Procl., *In Tim.
 Comment*., l. v.
 
-<span id="fn_65"></span>[29:2](ogv05.htm#fr_65) Euseb., *Præp. Evang.*,
+<span id="fn_65"></span>[29:2](ogv05.htm#fr_65.md) Euseb., *Præp. Evang.*,
 l. xiii., c. 52.
 
-<span id="fn_66"></span>[29:\*](ogv05.htm#fr_66) The unity of God is
+<span id="fn_66"></span>[29:\*](ogv05.htm#fr_66.md) The unity of God is
 taught in an Orphic hymn of which Justin, Tatian, Clement of Alexandria,
 Cyril, and Theodore have preserved fragments. (*Orphei Hymn. Edente
 Eschenbach.*, p. 242.)
 
-<span id="fn_67"></span>[29:3](ogv05.htm#fr_67) Clem. Alex., *Admon. ad
+<span id="fn_67"></span>[29:3](ogv05.htm#fr_67.md) Clem. Alex., *Admon. ad
 Gent.*, p. 48; *ibid*., *Strom.*, l. v., p. 607.
 
-<span id="fn_68"></span>[29:4](ogv05.htm#fr_68) Apoll., *Arg*., l. i.,
+<span id="fn_68"></span>[29:4](ogv05.htm#fr_68.md) Apoll., *Arg*., l. i.,
 v. 496; Clem. Alex., *Strom.*, l. iv., p. 475.
 
-<span id="fn_69"></span>[30:1](ogv05.htm#fr_69) Thimothée, cité par
+<span id="fn_69"></span>[30:1](ogv05.htm#fr_69.md) Thimothée, cité par
 Bannier, *Mythol.*, i., p. 104.
 
-<span id="fn_70"></span>[30:2](ogv05.htm#fr_70) Macrobius, *Somm.
+<span id="fn_70"></span>[30:2](ogv05.htm#fr_70.md) Macrobius, *Somm.
 Scip.*, l. i., c. 12.
 
-<span id="fn_71"></span>[30:3](ogv05.htm#fr_71) Eurip., *Hippol.*, V.
+<span id="fn_71"></span>[30:3](ogv05.htm#fr_71.md) Eurip., *Hippol.*, V.
 948.
 
-<span id="fn_72"></span>[30:4](ogv05.htm#fr_72) Plat., *De Leg.*, l.
+<span id="fn_72"></span>[30:4](ogv05.htm#fr_72.md) Plat., *De Leg.*, l.
 vi.; Jambl., *De Vitâ Pythag.*
 
-<span id="fn_73"></span>[30:5](ogv05.htm#fr_73) *Acad. des Insc*., t.
+<span id="fn_73"></span>[30:5](ogv05.htm#fr_73.md) *Acad. des Insc*., t.
 v., p. 117.
 
-<span id="fn_74"></span>[30:6](ogv05.htm#fr_74) Procl., *In Tim.*, l.
+<span id="fn_74"></span>[30:6](ogv05.htm#fr_74.md) Procl., *In Tim.*, l.
 v., p. 330; Cicero, *Somm. Scip.*, c. 2, 3, 4, 6.
 
-<span id="fn_75"></span>[30:\*](ogv05.htm#fr_75) Montesquieu and Buffon
+<span id="fn_75"></span>[30:\*](ogv05.htm#fr_75.md) Montesquieu and Buffon
 have been the greatest adversaries of poetry, they were very eloquent in
 prose; but that does not prevent one from applying to them, as did
 Voltaire, the words of Montaigne: "We cannot attain it, let us avenge
 ourselves by slandering it."
 
-<span id="fn_76"></span>[31:1](ogv05.htm#fr_76) Horat., *De Arte poét.*;
+<span id="fn_76"></span>[31:1](ogv05.htm#fr_76.md) Horat., *De Arte poét.*;
 Strab., l. x.
 
-<span id="fn_77"></span>[31:2](ogv05.htm#fr_77) Origen, *Contr. Cels.*,
+<span id="fn_77"></span>[31:2](ogv05.htm#fr_77.md) Origen, *Contr. Cels.*,
 l. i., p. 12; Dacier, *Vie de Pythagore*.
 
-<span id="fn_78"></span>[31:\*](ogv05.htm#fr_78) Ἱερὸς λόγος.
+<span id="fn_78"></span>[31:\*](ogv05.htm#fr_78.md) Ἱερὸς λόγος.
 
-<span id="fn_79"></span>[31:\*\*](ogv05.htm#fr_79) Θρονισμὸι μητρῶοι.
+<span id="fn_79"></span>[31:\*\*](ogv05.htm#fr_79.md) Θρονισμὸι μητρῶοι.
 
-<span id="fn_80"></span>[31:3](ogv05.htm#fr_80) Fabric., *Bibl. græc.*,
+<span id="fn_80"></span>[31:3](ogv05.htm#fr_80.md) Fabric., *Bibl. græc.*,
 p. 120, 129.
 
 ------------------------------------------------------------------------
 
-[Next: § III](ogv06)
+[Next: § III](ogv06.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Legends](../../index)  [England](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](crt00)
+[Contents](#contents)    [Start Reading](crt00.md)
 
 ------------------------------------------------------------------------
 
@@ -33,70 +33,70 @@ narrative.
 
 ------------------------------------------------------------------------
 
-[Title Page](crt00)  
-[Foreword](crt01)  
-[Contents](crt02)  
-[List of Illustrations](crt03)  
-[Prologue](crt04)  
+[Title Page](crt00.md)  
+[Foreword](crt01.md)  
+[Contents](crt02.md)  
+[List of Illustrations](crt03.md)  
+[Prologue](crt04.md)  
 <span id="section_000"></span>
 
 ### Part I. The Story of Launcelot
 
-[Introduction](crt05)  
-[Chapter First](crt06)  
-[Chapter Second](crt07)  
-[Chapter Third](crt08)  
-[Chapter Fourth](crt09)  
-[Chapter Fifth](crt10)  
-[Chapter Sixth](crt11)  
-[Chapter Seventh](crt12)  
-[Chapter Eighth](crt13)  
-[Conclusion](crt14)  
+[Introduction](crt05.md)  
+[Chapter First](crt06.md)  
+[Chapter Second](crt07.md)  
+[Chapter Third](crt08.md)  
+[Chapter Fourth](crt09.md)  
+[Chapter Fifth](crt10.md)  
+[Chapter Sixth](crt11.md)  
+[Chapter Seventh](crt12.md)  
+[Chapter Eighth](crt13.md)  
+[Conclusion](crt14.md)  
 <span id="section_001"></span>
 
 ### The Book of Sir Tristram
 
-[Prologue](crt15)  
+[Prologue](crt15.md)  
 <span id="section_002"></span>
 
 ### Part I. The Story of Sir Tristram and the Lady Belle Isoult
 
-[Chapter First](crt16)  
-[Chapter Second](crt17)  
-[Chapter Third](crt18)  
-[Chapter Fourth](crt19)  
-[Chapter Fifth](crt20)  
-[Chapter Sixth](crt21)  
-[Chapter Seventh](crt22)  
+[Chapter First](crt16.md)  
+[Chapter Second](crt17.md)  
+[Chapter Third](crt18.md)  
+[Chapter Fourth](crt19.md)  
+[Chapter Fifth](crt20.md)  
+[Chapter Sixth](crt21.md)  
+[Chapter Seventh](crt22.md)  
 <span id="section_003"></span>
 
 ### Part II. The Story of Sir Tristram and Sir Lamorack
 
-[Introduction](crt23)  
-[Chapter First](crt24)  
-[Chapter Second](crt25)  
-[Chapter Third](crt26)  
+[Introduction](crt23.md)  
+[Chapter First](crt24.md)  
+[Chapter Second](crt25.md)  
+[Chapter Third](crt26.md)  
 <span id="section_004"></span>
 
 ### Part III. The Madness of Sir Tristram
 
-[Introduction](crt27)  
-[Chapter First](crt28)  
-[Chapter Second](crt29)  
-[Chapter Third](crt30)  
-[Chapter Four](crt31)  
+[Introduction](crt27.md)  
+[Chapter First](crt28.md)  
+[Chapter Second](crt29.md)  
+[Chapter Third](crt30.md)  
+[Chapter Four](crt31.md)  
 <span id="section_005"></span>
 
 ### The Book of Sir Percival
 
-[Introduction](crt32)  
-[Prologue](crt33)  
-[Chapter First](crt34)  
-[Chapter Second](crt35)  
-[Chapter Third](crt36)  
-[Chapter Fourth](crt37)  
-[Chapter Fifth](crt38)  
+[Introduction](crt32.md)  
+[Prologue](crt33.md)  
+[Chapter First](crt34.md)  
+[Chapter Second](crt35.md)  
+[Chapter Third](crt36.md)  
+[Chapter Fourth](crt37.md)  
+[Chapter Fifth](crt38.md)  
 
  
 
-[Conclusion](crt39)  
+[Conclusion](crt39.md)  

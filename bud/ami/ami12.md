@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ami11)  [Next](ami13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ami11)  [Next](ami13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Amitabha, A Story of Buddhist Theology*, by Paul Carus, \[1906\], at
 Intangible Textual Heritage
 
@@ -95,7 +95,7 @@ fruit, each of its own kind, into mangoes, bananas, dates, figs,
 pomegranates, and other savory fruits. Amitâbha is the same to all, as
 the water of the refreshing rain is the same: but diverse creatures make
 a different use of the benefits of truth, and each one is responsible
-for itself.[19](ami16.htm#an_19) Each one has originated in ignorance by
+for itself.[19](ami16.htm#an_19.md) Each one has originated in ignorance by
 its own blind impulses, each one, in its own field of experience, has
 learned the
 
@@ -123,7 +123,7 @@ instructed
 <span id="page_98">p. 98</span>
 
 by their father. We are not the creatures of Amitâbha, but his
-children.[20](ami16.htm#an_20)
+children.[20](ami16.htm#an_20.md)
 
 "Ask thy own self, whether thou art because thou wast created by some
 extraneous power; or contrariwise whether it is not truer to say that
@@ -172,4 +172,4 @@ illumination."
 
 ------------------------------------------------------------------------
 
-[Next: The Buddhist Abbot and the Brahman](ami13)
+[Next: The Buddhist Abbot and the Brahman](ami13.md)

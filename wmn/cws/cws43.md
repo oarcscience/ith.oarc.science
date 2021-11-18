@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws42)  [Next](cws44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws42)  [Next](cws44.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXXIX
 
-#### CONCERNING THE "FOUR ATMOSPHERES" <span id="fr_157"></span>[1](#fn_157)
+#### CONCERNING THE "FOUR ATMOSPHERES" <span id="fr_157"></span>[1](#fn_157.md)
 
 THE earthly mind (*anima bruta*) is that part of man which contains his
 material memory, abilities, affections, cares, acquirements, and the
@@ -47,7 +47,7 @@ access to them only because he is himself in the astral when in the
 lucid condition, and sees, therefore, only what is there. To enter the
 heavenly sphere, and to come into communion with souls, a regenerated
 state is necessary. Now, the sphere entered depends, not alone on the
-lucid, but also on the magnetiser <span id="fr_158"></span>[1](#fn_158)
+lucid, but also on the magnetiser <span id="fr_158"></span>[1](#fn_158.md)
 and the circle present at the experience. There are four atmospheres
 surrounding us, and only in the highest of these do we find the freed
 soul. Each sphere is the counterpart of each portion of man, and each
@@ -61,21 +61,21 @@ enlightened by the spiritual sun. And the highest is the immediate
 presence of the Lord God, where is the "great white throne" and the
 company of the "virgins." Now, the "virgins" are souls which, being
 perfectly spiritualised, retain no taint of materiality. <span
-id="fr_159"></span>[2](#fn_159)
+id="fr_159"></span>[2](#fn_159.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_157"></span>[94:1](cws43.htm#fr_157) London, August 22,
+<span id="fn_157"></span>[94:1](cws43.htm#fr_157.md) London, August 22,
 1881. Written under Illumination (*Life of Anna Kingsford*, vol. ii, p.
 37).
 
-<span id="fn_158"></span>[95:1](cws43.htm#fr_158) This is not
+<span id="fn_158"></span>[95:1](cws43.htm#fr_158.md) This is not
 necessarily a corporeal, or even an extraneous, being, but may be the
 spirit of the lucid himself.    E. M.
 
-<span id="fn_159"></span>[95:2](cws43.htm#fr_159) See Apoc. xiv, 4,
+<span id="fn_159"></span>[95:2](cws43.htm#fr_159.md) See Apoc. xiv, 4,
 where they are called virgins in virtue of their having overcome the
 need of sexual relations prior to their final incarnations, as in No.
 XXIV, par. 4. The term "women" was sometimes used as a general term for
@@ -83,4 +83,4 @@ things material. See also *Dreams and Dream-Stories*, No. IX.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. XL: Concerning The Hereafter](cws44)
+[Next: No. XL: Concerning The Hereafter](cws44.md)

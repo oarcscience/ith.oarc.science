@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn38)  [Next](rmn40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn38)  [Next](rmn40.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ which remain to be described.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXIX: Spinthria](rmn40)
+[Next: Plate XXXIX: Spinthria](rmn40.md)

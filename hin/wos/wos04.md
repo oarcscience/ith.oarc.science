@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wos03)  [Next](wos05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wos03)  [Next](wos05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Select Works of Sri Sankaracharya*, tr. by S. Venkataramanan, \[1921\],
 at Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ at Intangible Textual Heritage
 I am neither earth, nor water, nor fire, nor air, nor ether, nor sensory
 organ, nor the conglomeration of all these; for, all these are
 transient. I am He that alone remains in deep sleep, the secondless,
-uncontradictable <span id="fr_30"></span>[\*](#fn_27) attributeless
+uncontradictable <span id="fr_30"></span>[\*](#fn_27.md) attributeless
 Bliss (Ṣiva). (1)
 
 I am neither castes, nor the rules of caste, society and custom, nor for
@@ -97,9 +97,9 @@ Vedântas!
 
 ### Footnotes
 
-<span id="fn_27"></span>[26:\*](wos04.htm#fr_30) Lit. the ultimate
+<span id="fn_27"></span>[26:\*](wos04.htm#fr_30.md) Lit. the ultimate
 remnant.
 
 ------------------------------------------------------------------------
 
-[Next: Hymn to Dakshinamurti](wos05)
+[Next: Hymn to Dakshinamurti](wos05.md)

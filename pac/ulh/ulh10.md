@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh09)  [Next](ulh11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh09)  [Next](ulh11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -64,8 +64,8 @@ manifest, that one version is as authoritative as another, and
 
 that it would be well for each kumu-hula to have kept in mind the wise
 adage that shines among the sayings of his nation: *Aohe pau ka ike i
-kau halau* <span id="fr_56"></span>[a](#fn_55)--"Think not that all of
-wisdom resides in your halau." <span id="fr_57"></span>[b](#fn_56)
+kau halau* <span id="fr_56"></span>[a](#fn_55.md)--"Think not that all of
+wisdom resides in your halau." <span id="fr_57"></span>[b](#fn_56.md)
 
 *Mele Kahea*
 
@@ -73,7 +73,7 @@ wisdom resides in your halau." <span id="fr_57"></span>[b](#fn_56)
 
 Li’u-li’u aloha ia’u,  
 Ka uka o Koholá-lele,  
-Ka nahele mauka o Ka-papala <span id="fr_58"></span>[c](#fn_57) la.  
+Ka nahele mauka o Ka-papala <span id="fr_58"></span>[c](#fn_57.md) la.  
 Komo, e komo aku hoi au maloko.  
 5 Mai ho’ohewahewa mai oe ia’u; oau no ia,  
 Ke ka-nae-nae a ka mea hele,  
@@ -157,7 +157,7 @@ stones remain in evidence to this day.
 <div style="margin-left: 32px">
 
 Kunihi ka mauna i ka la’i e,  
-O Wai-ale-ale <span id="fr_59"></span>[a](#fn_58) la i Wai-lua,  
+O Wai-ale-ale <span id="fr_59"></span>[a](#fn_58.md) la i Wai-lua,  
 Huki a’e la i ka lani  
 Ka papa au-wai o ka Wai-kini;  
 5 Alai ia a’e la e Nou-nou,  
@@ -191,19 +191,19 @@ words of this comparatively modern song:
 
 <span id="page_41">p. 41</span>
 
-*Mele Kahea* <span id="fr_60"></span>[a](#fn_59)
+*Mele Kahea* <span id="fr_60"></span>[a](#fn_59.md)
 
 <div style="margin-left: 32px">
 
-Ka uka holo-kia ahi-manu o La’a, <span id="fr_61"></span>[b](#fn_60)  
+Ka uka holo-kia ahi-manu o La’a, <span id="fr_61"></span>[b](#fn_60.md)  
 I po-ele i ka uahi, noe ka nahele,  
 Nohe-nohea i ka makani luhau-pua.  
 He pua oni ke kanaka--  
 5 He mea laha ole ia oe.  
 Mai kaua e hea nei;  
 E hea i ke kanaka e komo maloko,  
-E hanai ai a hewa <span id="fr_62"></span>[c](#fn_61) ka wa’ha.  
-Eia no ka uku la, o ka wa’a. <span id="fr_63"></span>[d](#fn_62)
+E hanai ai a hewa <span id="fr_62"></span>[c](#fn_61.md) ka wa’ha.  
+Eia no ka uku la, o ka wa’a. <span id="fr_63"></span>[d](#fn_62.md)
 
 </div>
 
@@ -260,38 +260,38 @@ welcome as the bringer of fresh tidings from the outside world.
 
 ### Footnotes
 
-<span id="fn_55"></span>[39:a](ulh10.htm#fr_56) Sophocles (*Antigone*,
+<span id="fn_55"></span>[39:a](ulh10.htm#fr_56.md) Sophocles (*Antigone*,
 705) had said the same thing: μη νυν ἒν ἧθος μο̃υνον ἐν σαυτῳ᾽ φόρει, ὡς
 φῂς σὺ, κοὺδὲν ἄλλο, τοῦτ᾽ ὀρθῶσ ἔχειν--Don't get this idea fixed in
 your head, that what you say, and nothing else, is right."
 
-<span id="fn_56"></span>[39:b](ulh10.htm#fr_57) *Halau*. As previously
+<span id="fn_56"></span>[39:b](ulh10.htm#fr_57.md) *Halau*. As previously
 explained, In this connection *halau* has a meaning similar to word
 "school," or "academy," a place where some art was taught, as wrestling,
 boxing, or the hula.
 
-<span id="fn_57"></span>[39:c](ulh10.htm#fr_58) *Ka-papala*. A verdant
+<span id="fn_57"></span>[39:c](ulh10.htm#fr_58.md) *Ka-papala*. A verdant
 region on the southeastern flank of Mauna-Loa.
 
-<span id="fn_58"></span>[40:a](ulh10.htm#fr_59) *Wai-ale-ale*
+<span id="fn_58"></span>[40:a](ulh10.htm#fr_59.md) *Wai-ale-ale*
 (Leaping-water). The central mountain-mass of Kauai.
 
-<span id="fn_59"></span>[41:a](ulh10.htm#fr_60) This utterance of
+<span id="fn_59"></span>[41:a](ulh10.htm#fr_60.md) This utterance of
 passion is said to have been the composition of the Princess Kamamalu,
 as an address to Prince William Lunalilo, to whom she was at one time
 affianced and would have married, but that King Lihohho (Kamehameha IV)
 would not allow the marriage. Thereby hangs a tragedy.
 
-<span id="fn_60"></span>[41:b](ulh10.htm#fr_61) *La’a*. The region In
+<span id="fn_60"></span>[41:b](ulh10.htm#fr_61.md) *La’a*. The region In
 Hawaii now known as Ola’a was originally called La’a. The particle *o*
 has become fused with the word.
 
-<span id="fn_61"></span>[41:c](ulh10.htm#fr_62) *Hewa ka waha*. This
+<span id="fn_61"></span>[41:c](ulh10.htm#fr_62.md) *Hewa ka waha*. This
 expression, here tortured into "(till) the mouth awry," is difficult of
 translation. A skilled Hawaiian scholar suggests it may mean to change
 one from an enemy to a friend by stopping his month with food.
 
-<span id="fn_62"></span>[41:d](ulh10.htm#fr_63) *Wa’a*. Literally a
+<span id="fn_62"></span>[41:d](ulh10.htm#fr_63.md) *Wa’a*. Literally a
 canoe. This is a euphemism for the human body, a gift often too freely
 granted. It will be noted that in the answering mele komo, the song of
 admission, the reward promised is more modestly measured--"Simply the
@@ -299,4 +299,4 @@ voice."
 
 ------------------------------------------------------------------------
 
-[Next: VII.--Worship at the Altar of the Halau](ulh11)
+[Next: VII.--Worship at the Altar of the Halau](ulh11.md)

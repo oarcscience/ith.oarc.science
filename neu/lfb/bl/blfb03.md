@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb02)  [Next](blfb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb02)  [Next](blfb04.md) 
 
 </div>
 
@@ -286,6 +286,6 @@ Beaumont.
 
 ------------------------------------------------------------------------
 
-[Next: East of the Sun and West of the Moon](blfb04)
+[Next: East of the Sun and West of the Moon](blfb04.md)
 
 </div>

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist138) 
-[Next](hist140) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist138.md) 
+[Next](hist140.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ the day of the Lord, and he saw it and was glad.
 ------------------------------------------------------------------------
 
 [Next: XXIII. Of the present state of the English nation, or of all
-Britain. \[725-731 A.D.\]](hist140)
+Britain. \[725-731 A.D.\]](hist140.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf22) [Next](bulf24) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf22) [Next](bulf24.md) 
 
 # CHAPTER XXIV.
 
@@ -340,4 +340,4 @@ Milton couples his name with that of Orpheus in his "Il Penseroso":
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XXV. Arion- Ibycus- Simonides- Sappho.](bulf24)
+Next: [CHAPTER XXV. Arion- Ibycus- Simonides- Sappho.](bulf24.md)

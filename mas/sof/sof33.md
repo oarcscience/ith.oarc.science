@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof32)  [Next](sof34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof32)  [Next](sof34.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head31.png"></span> ![Header Chapter
-XXXI.](img/head31.png)
+XXXI.](img/head31.png.md)
 
 ## XXXI.
 
@@ -75,7 +75,7 @@ But, although the modern lectures inform us that Brotherly Love and
 Relief are two of "the principal tenets of a Mason's profession," yet,
 from the same authority, we learn that Truth is a third and not less
 important one; and Truth, too, not in its old Anglo-Saxon meaning of
-fidelity to engagements, [232](sof37.htm#xref_232) but in that more
+fidelity to engagements, [232](sof37.htm#xref_232.md) but in that more
 strictly philosophical one in which it is opposed to intellectual and
 religious error or falsehood.
 
@@ -371,6 +371,6 @@ mason would shrink from the task?
 
 ------------------------------------------------------------------------
 
-[Next: A-E](sof34)
+[Next: A-E](sof34.md)
 
 </div>

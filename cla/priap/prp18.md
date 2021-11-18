@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp17)  [Next](prp19) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp17)  [Next](prp19.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ of a woman's thighs and haunches during congress.\]
 ------------------------------------------------------------------------
 
 [Next: 19. Thunders are under Jove; with the trident weaponed is
-Neptune](prp19)
+Neptune](prp19.md)

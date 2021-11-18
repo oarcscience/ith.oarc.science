@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc17)  [Next](pcc19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc17)  [Next](pcc19.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ objects; in its fifth by the access of enmities, jealousies, wars and so
 forth, consequent on all these things; and so on. I have no intention at
 present of following out this line of thought, but only wish to suggest
 its feasibility and the degree to which it may throw light on the social
-evolutions of the Past. <span id="fr_289"></span>[1](#fn_289)
+evolutions of the Past. <span id="fr_289"></span>[1](#fn_289.md)
 
 <span id="page_275">p. 275</span>
 
@@ -162,7 +162,7 @@ which is negative disappears the positive element must establish itself
 more and more.
 
 So we come back to that with which we began, <span
-id="fr_290"></span>[1](#fn_290) to Fear bred by Ignorance. From that
+id="fr_290"></span>[1](#fn_290.md) to Fear bred by Ignorance. From that
 source has sprung the long catalogue of follies, cruelties and
 sufferings which mark the records of the human race since the dawn of
 history; and to the overcoming of this Fear we perforce must look
@@ -247,7 +247,7 @@ nothing and need fear nothing from the unfortunates who are yet tossing
 in the welter and turmoil of the waves.
 
 Dr. Frazer, in the conclusion of his great work *The Golden
-Bough*, <span id="fr_291"></span>[1](#fn_291) bids farewell to his
+Bough*, <span id="fr_291"></span>[1](#fn_291.md) bids farewell to his
 readers with the following words: "The laws of Nature are merely
 hypotheses devised to explain that ever-shifting phantasmagoria of
 thought which we dignify with the high-sounding names of the World and
@@ -289,19 +289,19 @@ of the everlasting peace of the soul.
 
 ### Footnotes
 
-<span id="fn_289"></span>[274:1](pcc18.htm#fr_289) For an analysis of
+<span id="fn_289"></span>[274:1](pcc18.htm#fr_289.md) For an analysis of
 the nature of Self-consciousness see vol. iii, p. 375 *sq*. of the three
 ponderous tomes by Wilhelm Wundt--<span id="page_275">p.
 275</span>*Grundzüge der Physiologischen Psychologie*--in which amid an
 enormous mass of verbiage occasional gleams of useful suggestion are to
 be found.
 
-<span id="fn_290"></span>[275:1](pcc18.htm#fr_290) See Introduction, Ch.
+<span id="fn_290"></span>[275:1](pcc18.htm#fr_290.md) See Introduction, Ch.
 I, *supra*.
 
-<span id="fn_291"></span>[278:1](pcc18.htm#fr_291) See "Balder," vol.
+<span id="fn_291"></span>[278:1](pcc18.htm#fr_291.md) See "Balder," vol.
 ii, pp. 306, 307. ("Farewell to Nemi.")
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](pcc19)
+[Next: Appendix](pcc19.md)

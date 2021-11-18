@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat08.htm#XLIV) 
-[Previous](satl043)  [Next](satl045) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat08.htm#XLIV.md) 
+[Previous](satl043)  [Next](satl045.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Agri iacent. . .
 
 ------------------------------------------------------------------------
 
-[Next: XLV](satl045)
+[Next: XLV](satl045.md)

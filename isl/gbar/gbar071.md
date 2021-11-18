@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar070) [Next](gbar072)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar070) [Next](gbar072.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ prophet, and a great prophet hath God sent unto us.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar072)
+[Next](gbar072.md)

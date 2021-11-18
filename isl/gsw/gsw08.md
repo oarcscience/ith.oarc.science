@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw07)  [Next](gsw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw07)  [Next](gsw09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_50">p. 50</span>
 
-<span id="img_05000"></span> ![FROM A BRONZE MIRROR](img/05000.jpg)
+<span id="img_05000"></span> ![FROM A BRONZE MIRROR](img/05000.jpg.md)
 
 ### CHAPTER IV
 
@@ -37,7 +37,7 @@ Stamps o’er his Head, but cannot break his Sleep.<br />
 
 <span class="smallcaps">My</span> father was renowned as a hunter even
 in Iran, where hunting has been the chief pastime of its monarchs and
-nobles from the days of Kei Khusru <span id="fr_28"></span>[1](#fn_28)
+nobles from the days of Kei Khusru <span id="fr_28"></span>[1](#fn_28.md)
 down to the present day. In this connection it is well known that
 courtiers who exhibited special courage and skill in the chase were
 always sure to attract the eye of favour of their monarch. I have heard
@@ -88,7 +88,7 @@ recollect my father
 <span id="img_05200"></span> <span align="CENTER"> [![THE GOVERNOR'S
 FALCONS.&lt;br&gt; &lt;i&gt;Major J. W Watson,
 phot&lt;/i&gt;.](tn/05200.jpg)  
-Click to enlarge](img/05200.jpg)  
+Click to enlarge](img/05200.jpg.md)  
   
 </span>
 
@@ -132,7 +132,7 @@ spoke to me, that my head turned round. *Aga* Ali, too, who had taught
 me to throw down my reins and to always turn in the saddle when
 shooting, a feat no European has ever learned, paid my father many
 compliments, and was promised a gift of a hundred *tomans*. Such a Hatim
-Tai <span id="fr_29"></span>[1](#fn_29) was my sire!
+Tai <span id="fr_29"></span>[1](#fn_29.md) was my sire!
 
 That night we camped near the swamp, and as sixteen gazelles had been
 shot, every one was much elated, and, round the fires, the ramrods of
@@ -158,7 +158,7 @@ ride up alongside
 
 <span id="img_05500"></span> <span align="CENTER"> [![THE WHITE
 FORT&lt;br&gt; &lt;i&gt;H. R. Sykes, phot&lt;/i&gt;.](tn/05500.jpg)  
-Click to enlarge](img/05500.jpg)  
+Click to enlarge](img/05500.jpg.md)  
 THE “WHITE FORT”  
 *H. R. Sykes, phot*.  
 </span>
@@ -183,7 +183,7 @@ capital
 <span id="img_05600"></span> <span align="CENTER"> [![THE STONE PULPIT
 OF THE WHITE FORT&lt;br&gt; (Dated A.D. 1387)&lt;br&gt; &lt;i&gt;H. R.
 Sykes, phot&lt;/i&gt;.](tn/05600.jpg)  
-Click to enlarge](img/05600.jpg)  
+Click to enlarge](img/05600.jpg.md)  
 THE STONE PULPIT OF THE “WHITE FORT”  
 (Dated A.D. 1387)  
 *H. R. Sykes, phot*.  
@@ -214,7 +214,7 @@ so frequent that at last the game was almost all killed. During this
 period the robbers from Fars never raided into Sirjan from fear of my
 father, and also because they were ruled by a stern Governor-General,
 who, whenever he caught a brigand, "plastered" <span
-id="fr_30"></span>[1](#fn_30) him up as a terrible warning to his
+id="fr_30"></span>[1](#fn_30.md) him up as a terrible warning to his
 fellows.
 
 However, this stern ruler was dismissed, and his successor was so noted
@@ -291,7 +291,7 @@ shall never forget the misery
 
 <span id="img_06000"></span> <span align="CENTER"> [![A PERSIAN SALT
 SWAMP &lt;i&gt;H. R. Sykes, phot&lt;/i&gt;.](tn/06000.jpg)  
-Click to enlarge](img/06000.jpg)  
+Click to enlarge](img/06000.jpg.md)  
 A PERSIAN SALT SWAMP *H. R. Sykes, phot*.  
 </span>
 
@@ -316,7 +316,7 @@ Khayyam wrote:
 
 Bahram, who, all his life, was capturing wild asses (*Gur*):  
 See how the grave (*Gur*) has captured Bahram. <span
-id="fr_31"></span>[1](#fn_31)
+id="fr_31"></span>[1](#fn_31.md)
 
 I have not hitherto referred to my uncle, *Mirza* Hasan Khan, who, by
 the kindness of the Vakil-ul-Mulk, may Allah keep cool his grave, was
@@ -417,7 +417,7 @@ Thou wilt exercise sway in the kingdom of repose.
 
  
 
-<span id="img_06400"></span> ![FROM AN OLD VASE](img/06400.jpg)
+<span id="img_06400"></span> ![FROM AN OLD VASE](img/06400.jpg.md)
 
  
 
@@ -427,24 +427,24 @@ Thou wilt exercise sway in the kingdom of repose.
 
 ### Footnotes
 
-<span id="fn_28"></span>[50:1](gsw08.htm#fr_28) Persians, quite
+<span id="fn_28"></span>[50:1](gsw08.htm#fr_28.md) Persians, quite
 incorrectly, believe that Kei Khusru was Cyrus the Great. Actually he
 belongs to Indo-Persian legend.
 
-<span id="fn_29"></span>[54:1](gsw08.htm#fr_29) Hatim Tai is the example
+<span id="fn_29"></span>[54:1](gsw08.htm#fr_29.md) Hatim Tai is the example
 in the East of a generous Arab chieftain. On one occasion having no
 food, he slew his famous mare to satisfy the hunger of a guest.
 
-<span id="fn_30"></span>[57:1](gsw08.htm#fr_30) Robbers are embedded in
+<span id="fn_30"></span>[57:1](gsw08.htm#fr_30.md) Robbers are embedded in
 plaster up to their shoulders. When it dries up, it contracts, and their
 sufferings are terrible; but, if given food and water, they frequently
 linger on for three or four days.
 
-<span id="fn_31"></span>[61:1](gsw08.htm#fr_31) This is the literal
+<span id="fn_31"></span>[61:1](gsw08.htm#fr_31.md) This is the literal
 translation of FitzGerald's lines as given in the heading to this
 chapter. There is a play on *Gur*, which signifies a wild ass and also
 the grave. The monarch was known as Bahram Gur.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. My Betrothal And Marriage](gsw09)
+[Next: Chapter V. My Betrothal And Marriage](gsw09.md)

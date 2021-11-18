@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe318)  [Next](prwe320) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe318)  [Next](prwe320.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ Table-Book.
 
 ------------------------------------------------------------------------
 
-[Next: A Fairy Caught](prwe320)
+[Next: A Fairy Caught](prwe320.md)

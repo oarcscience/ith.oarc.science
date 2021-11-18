@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico103) 
-[Next](nico105) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico103.md) 
+[Next](nico105.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ need virtuous friends.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10. The limit to the number of friends](nico105)
+[Next: Chapter 10. The limit to the number of friends](nico105.md)

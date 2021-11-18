@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,10 +31,10 @@ this site.
 
 ------------------------------------------------------------------------
 
-[Title Page](nbr00)  
-[Part One](nbr01)  
-[Part Two](nbr02)  
-[Part Three](nbr03)  
-[Part Four](nbr04)  
-[Part Five](nbr05)  
-[Charts](nbr06)  
+[Title Page](nbr00.md)  
+[Part One](nbr01.md)  
+[Part Two](nbr02.md)  
+[Part Three](nbr03.md)  
+[Part Four](nbr04.md)  
+[Part Five](nbr05.md)  
+[Charts](nbr06.md)  

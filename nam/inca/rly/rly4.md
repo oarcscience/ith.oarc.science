@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inca](../index) [Index](index) [Previous](rly3)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inca](../index) [Index](index) [Previous](rly3.md)
 
 ------------------------------------------------------------------------
 
@@ -45,13 +45,13 @@ the time of Pachacutec Yupanqui Ynca, who defeated those Chancas. The
 history of this event is given in the record of the *Pururunas*, or
 *huacas*, which originated and resulted from this battle with the
 Chancas, the commencement of all the Ynca victories.<span
-id="page_152_fr_1"></span>[1](#page_152_note_1) On the other side of
+id="page_152_fr_1"></span>[1](#page_152_note_1.md) On the other side of
 Cuzco is the road of Colla-suyu; and they also retain a recollection of
 the time when the Canas and Canches, whose country is even nearer, were
 paid to go with the Yncas to the wars, and not as vassals following
 their lords; and this was in the same battle in which Pachacutec Ynca
 fought against *Usco-vilca*,<span
-id="page_152_fr_2"></span>[2](#page_152_note_2) Lord of the Chancas.
+id="page_152_fr_2"></span>[2](#page_152_note_2.md) Lord of the Chancas.
 They also recollect the time when they extended their dominion along
 this road to the lake of Villca-ñota, the point where the Collao begins.
 Two powerful rivers flow out of this lake, one going to the north sea,
@@ -213,7 +213,7 @@ join in it. The other is, that although the crops and other produce of
 these lands were devoted to the tribute, the land itself belonged to the
 people themselves. Hence a thing will be apparent which has not hitherto
 been properly understood. When any one<span
-id="page_157_fr_3"></span>[3](#page_157_note_3) wants land, it is
+id="page_157_fr_3"></span>[3](#page_157_note_3.md) wants land, it is
 considered sufficient if it can be shown that it belonged to the Ynca or
 to the Sun. But in this the Indians are treated with great injustice.
 For in those days they paid the tribute, and the land was theirs; but
@@ -237,7 +237,7 @@ extended to the Indians, and this was through not comprehending the
 nature of the tribute that was given to the Ynca. In effect the Ynca
 took the produce of all the coca farms throughout the Andes for his own
 use, except a few small patches granted to chiefs and *camayus*.<span
-id="page_158_fr_4"></span>[4](#page_158_note_4) All the rest was taken
+id="page_158_fr_4"></span>[4](#page_158_note_4.md) All the rest was taken
 to Cuzco, but there was not then so much as there is now, nor one
 fiftieth part; for in this too the reports were deceptive, as I have
 more particularly shown in my report on the coca.
@@ -296,7 +296,7 @@ return with their flocks improved.
  There was a rule that females should never be killed, and thus the
 flocks multiplied exceedingly, for neither were those of the Ynca or of
 religion killed except for sacrifices. If any beast was attacked with
-*carache*,<span id="page_160_fr_5"></span>[5](#page_160_note_5) which is
+*carache*,<span id="page_160_fr_5"></span>[5](#page_160_note_5.md) which is
 the disease by which so many have been lost in our times, the rule was
 that they should not be fed or cured, but buried at once, deep in the
 ground, as the disease was infectious.
@@ -340,7 +340,7 @@ producing the tribute demanded from the community. It is not right,
 therefore, that they should now be taxed by the head, but rather
 according to their estates. If there are a thousand Indians in a
 *Repartimiento*, among whom there are five hundred *mitimaes*<span
-id="page_161_fr_6"></span>[6](#page_161_note_6) who never possess any
+id="page_161_fr_6"></span>[6](#page_161_note_6.md) who never possess any
 sheep, and if the tribute amounts to five hundred head, it is impossible
 to raise it. Consequently when, by reason of the flocks, the tribute is
 to be paid in sheep, it is necessary to ascertain to whom the sheep
@@ -430,7 +430,7 @@ were born.
 the sowers. In the Collao, where no maize can be raised, the people had
 lands on the coast, and sent men down to till them, near Arequipa for
 instance. In the time of the Marquis of Cañete, who was Viceroy of these
-kingdoms,<span id="page_164_fr_7"></span>[7](#page_164_note_7) owing to
+kingdoms,<span id="page_164_fr_7"></span>[7](#page_164_note_7.md) owing to
 information which I supplied, these *suyus* were returned as belonging
 to the province of Chucuito, but all the others suffer by reason of this
 custom not being understood.
@@ -444,7 +444,7 @@ custom by which no man moved from his district, was a marvellous aid.
  The rules of New Spain, where the country is very populous, are not
 applicable to this land. This was well understood by that prudent and
 illustrious worthy Don Antonio de Mendoza,<span
-id="page_164_fr_8"></span>[8](#page_164_note_8) whose memory will long
+id="page_164_fr_8"></span>[8](#page_164_note_8.md) whose memory will long
 be cherished, and whose loss will be felt more every day by his Majesty
 and by the people of the Indies. At the end of a year, during which he
 had studied the affairs of this land, though he was suffering from
@@ -586,7 +586,7 @@ brought to Cuzco.
 construction of public works, such as bridges and roads. In an the royal
 roads from Quito to Chile, and still <span id="page_169">p. 169</span>
 further on to the borders of the government of Benalcazar,<span
-id="page_169_fr_9"></span>[9](#page_169_note_9) and the branch road to
+id="page_169_fr_9"></span>[9](#page_169_note_9.md) and the branch road to
 Bracamoras, there were *chasquis* stationed at the end of every *tupu*,
 both on the road of the coast and of the mountains. A *tupu* measures
 the same as a league and a half. At these points there were small houses
@@ -650,7 +650,7 @@ contrivances, in company <span id="page_171">p. 171</span> with
 dexterous artificers from Spain, and they assured me they had never seen
 so many kinds of excellent stone within so small a space. He who has
 seen the work which the Yncas commenced in Tiahuanacu, near
-Chuqui-apu,<span id="page_171_fr_1"></span>[1](#page_171_note_1) and
+Chuqui-apu,<span id="page_171_fr_1"></span>[1](#page_171_note_1.md) and
 considers that the stone is not met with within a hundred leagues of the
 spot, will understand the advantage enjoyed by Cuzco.
 
@@ -671,8 +671,8 @@ or passage.</span>
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Native
-American](../../index) [Inca](../index) [Index](index)
+[Sacred-Texts](../../index.md) [Native
+American](../../index) [Inca](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -680,46 +680,46 @@ American](../../index) [Inca](../index) [Index](index)
 
 <span id="footnotes_page_152">p. 152</span>
 
-<span id="page_152_note_1"></span>[1](#page_152_fr_1) See *G. de la
-Vega*, ii, p. 57; and the present volume, [p. 92](rly2.htm#page_92).
+<span id="page_152_note_1"></span>[1](#page_152_fr_1.md) See *G. de la
+Vega*, ii, p. 57; and the present volume, [p. 92](rly2.htm#page_92.md).
 
-<span id="page_152_note_2"></span>[2](#page_152_fr_2) Should be
+<span id="page_152_note_2"></span>[2](#page_152_fr_2.md) Should be
 Ancohualla, or Hanco-hualla. See *G. de la Vega*, ii, 58, 82, 329.
 
 <span id="footnotes_page_157">p. 157</span>
 
-<span id="page_157_note_3"></span>[3](#page_157_fr_3) That is, any
+<span id="page_157_note_3"></span>[3](#page_157_fr_3.md) That is, any
 Spanish settler.
 
 <span id="footnotes_page_158">p. 158</span>
 
-<span id="page_158_note_4"></span>[4](#page_158_fr_4) Officials.
+<span id="page_158_note_4"></span>[4](#page_158_fr_4.md) Officials.
 
 <span id="footnotes_page_160">p. 160</span>
 
-<span id="page_160_note_5"></span>[5](#page_160_fr_5) See *G. de la
+<span id="page_160_note_5"></span>[5](#page_160_fr_5.md) See *G. de la
 Vega*, ii, p. 378.
 
 <span id="footnotes_page_161">p. 161</span>
 
-<span id="page_161_note_6"></span>[6](#page_161_fr_6) Colonists.
+<span id="page_161_note_6"></span>[6](#page_161_fr_6.md) Colonists.
 
 <span id="footnotes_page_164">p. 164</span>
 
-<span id="page_164_note_7"></span>[7](#page_164_fr_7) From 1555 to 1561.
+<span id="page_164_note_7"></span>[7](#page_164_fr_7.md) From 1555 to 1561.
 
-<span id="page_164_note_8"></span>[8](#page_164_fr_8) Viceroy of Peru
+<span id="page_164_note_8"></span>[8](#page_164_fr_8.md) Viceroy of Peru
 from 1551 to 1555.
 
 <span id="footnotes_page_169">p. 169</span>
 
-<span id="page_169_note_9"></span>[9](#page_169_fr_9) Sebastian de
+<span id="page_169_note_9"></span>[9](#page_169_fr_9.md) Sebastian de
 Benalcazar, one of the first conquerors of Peru, and Governor of
 Popayan.
 
 <span id="footnotes_page_171">p. 171</span>
 
-<span id="page_171_note_1"></span>[1](#page_171_fr_1) The modern city of
+<span id="page_171_note_1"></span>[1](#page_171_fr_1.md) The modern city of
 La Paz.
 
  

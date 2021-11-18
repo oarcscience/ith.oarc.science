@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe344)  [Next](prwe346) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe344)  [Next](prwe346.md) 
 
 ------------------------------------------------------------------------
 
@@ -147,4 +147,4 @@ And for to fetch the summer home.
 
 ------------------------------------------------------------------------
 
-[Next: The City of Langarrow or Langona - Perran Churches](prwe346)
+[Next: The City of Langarrow or Langona - Perran Churches](prwe346.md)

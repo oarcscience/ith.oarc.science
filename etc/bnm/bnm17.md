@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm16)  [Next](bnm18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm16)  [Next](bnm18.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ birds, and that is why it is called the mocking-bird.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Tail Of The Fox Has A White Tip.](bnm18)
+[Next: Why The Tail Of The Fox Has A White Tip.](bnm18.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft04)  [Next](tft06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft04)  [Next](tft06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -85,7 +85,7 @@ little frog? He is
 <span id="img_02300"></span> <span align="CENTER"> [![THE FROG CLIMBED
 UP ON A LITTLE BUNCH OF SOD AND WHEN THE TIGER CAME NEAR, CALLED OUT:
 ''HELLO, WHERE ARE YOU GOING?''](tn/02300.jpg)  
-Click to enlarge](img/02300.jpg)  
+Click to enlarge](img/02300.jpg.md)  
 THE FROG CLIMBED UP ON A LITTLE BUNCH OF SOD AND WHEN THE TIGER CAME
 NEAR, CALLED OUT: ''HELLO, WHERE ARE YOU GOING?''  
 </span>
@@ -115,4 +115,4 @@ still running to-day.
 
 ------------------------------------------------------------------------
 
-[Next: Three: The Cony Who Got into Bad Company](tft06)
+[Next: Three: The Cony Who Got into Bad Company](tft06.md)

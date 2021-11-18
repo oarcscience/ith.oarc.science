@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma47)  [Next](oma49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma47)  [Next](oma49.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl15a"></span>
 
 [![Plate 15, Figure 1](tn/pl15a.jpg)  
-Click to enlarge](img/pl15a.jpg)  
+Click to enlarge](img/pl15a.jpg.md)  
 Plate 15, Figure 1  
 
 FIGURE 1. Sand painting and paraphernalia for exorcism (gray, red, blue,
@@ -19,7 +19,7 @@ and yellow triangles; green crosses, frame, and grasses).
 <span id="img_pl15b"></span>
 
 [![Plate 15, Figure 2](tn/pl15b.jpg)  
-Click to enlarge](img/pl15b.jpg)  
+Click to enlarge](img/pl15b.jpg.md)  
 Plate 15, Figure 2  
 
 FIGURE 2. *a*, Face paintings of the dead. 1, Woman (face yellow, red
@@ -30,4 +30,4 @@ the dead.
 
 ------------------------------------------------------------------------
 
-[Next: Plate 16](oma49)
+[Next: Plate 16](oma49.md)

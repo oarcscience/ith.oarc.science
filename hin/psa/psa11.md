@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa10)  [Next](psa12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa10)  [Next](psa12.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ with domestic matters.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](psa12)
+[Next: Chapter XI](psa12.md)

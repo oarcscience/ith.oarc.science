@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm27)  [Next](bnm29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm27)  [Next](bnm29.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ quickly.'"
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Moles.](bnm29)
+[Next: The Story Of The First Moles.](bnm29.md)

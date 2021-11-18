@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp33)  [Next](prp35) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp33)  [Next](prp35.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ twenty hours she surpassed the above-named courtesan by twenty-five
 
 ------------------------------------------------------------------------
 
-[Next: 35. Thief, for first thieving shalt be swived, but an](prp35)
+[Next: 35. Thief, for first thieving shalt be swived, but an](prp35.md)

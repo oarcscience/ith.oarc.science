@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](lot03)  [Next](lot05) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](lot03)  [Next](lot05.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ took refuge in a village called Zoar which was kept in safe.
 ------------------------------------------------------------------------
 
 [Next: Sermons to be Taken From The Story of Abraham and Others
-Mentioned With Him](lot05)
+Mentioned With Him](lot05.md)
 
 </div>
 

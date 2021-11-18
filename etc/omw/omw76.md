@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw75)  [Next](omw77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw75)  [Next](omw77.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ themselves from the mouth of the cave, and adown these three rainbows
 Prince Lo-hi-au, Hi-i-aka, and her companion went. To the beach they
 went. And in the ocean the three performed the cleansing rite. And now
 that the toils of the journey and the toils of restoring the man to life
-were past, [Hi-i-aka](errata.htm#2) thought upon the groves of lehua and
+were past, [Hi-i-aka](errata.htm#2.md) thought upon the groves of lehua and
 upon her dear and lovely friend, Ho-po-e.
 
 And now that the time had come for her to make the journey back she
@@ -166,4 +166,4 @@ but the flame came into her eyes.
 
 ------------------------------------------------------------------------
 
-[Next: Pe-le, Hawaii's Goddess Of Volcanic Fire, Part III](omw77)
+[Next: Pe-le, Hawaii's Goddess Of Volcanic Fire, Part III](omw77.md)

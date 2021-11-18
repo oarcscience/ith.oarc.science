@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm25)  [Next](wsm27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm25)  [Next](wsm27.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [California](../index)  [Index](index) 
 (Saline Valley, California. Shoshoni)
 
 Rat (Kawa) had a home on the top of a mountain, <span
-id="fr_28"></span>[29](#fn_28) where he was building a dance corral.
+id="fr_28"></span>[29](#fn_28.md) where he was building a dance corral.
 When he finished the corral, he went out to hunt Mountain Sheep.
 
 Rat stood on a mountain, calling in his own language, "Nikadawa piwiavi,
@@ -25,7 +25,7 @@ arrived, Rat began to sing his circle dance song in a monotone:
 
  
 
-He picked out the largest of the [Mountain](errata.htm#0) Sheep and said
+He picked out the largest of the [Mountain](errata.htm#0.md) Sheep and said
 to him, "You are my friend. I want to dance close to you." Then he said
 to all the Mountain Sheep, "Carry your babies with you on your backs
 while you are dancing." He told them all to shut their eyes while they
@@ -33,7 +33,7 @@ were dancing. Rat sang his dance song and they danced all night. When it
 was nearly morning, while the people had their eyes shut, Rat stabbed
 the big Mountain Sheep that was dancing next to him. He killed him. Then
 Rat shouted, "Who killed that man? It must have been a Wavitc." <span
-id="fr_29"></span>[30](#fn_29) The people opened their eyes and looked
+id="fr_29"></span>[30](#fn_29.md) The people opened their eyes and looked
 around. They all began to cry. Rat leaned his head on his hand and said,
 (crying in a falsetto) "Tana ho nano ho' budi." Then Rat said to the
 people, "Well, you people can go home now. I'll put this man into a fire
@@ -69,12 +69,12 @@ Sheep meat that he had dried.
 
 ### Footnotes
 
-<span id="fn_28"></span>[284:29](wsm26.htm#fr_28) Tucki Mountain,
+<span id="fn_28"></span>[284:29](wsm26.htm#fr_28.md) Tucki Mountain,
 southwest of Bungalow City, according to W. P.
 
-<span id="fn_29"></span>[284:30](wsm26.htm#fr_29) The Indians to the
+<span id="fn_29"></span>[284:30](wsm26.htm#fr_29.md) The Indians to the
 south of the Shoshoni; Wavitc = "tough."
 
 ------------------------------------------------------------------------
 
-[Next: Cottontail and Wind (Saline Valley, California. Shoshoni)](wsm27)
+[Next: Cottontail and Wind (Saline Valley, California. Shoshoni)](wsm27.md)

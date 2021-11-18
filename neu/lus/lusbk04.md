@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lusbk03)  [Next](lusbk05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lusbk03)  [Next](lusbk05.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,11 +53,11 @@ Bright in his east breaks forth the lord of light,
 So, valiant John with dazzling blaze appears,  
 And, from the dust his drooping nation rears.  
 Though sprung from youthful passion’s wanton loves, <span
-id="fr_278"></span>[1](#fn_276)  
+id="fr_278"></span>[1](#fn_276.md)  
 Great Pedro’s son in noble soul he proves;  
 And Heaven announc’d him king by right divine;-  
 A cradled infant gave the wondrous sign. <span
-id="fr_279"></span>[2](#fn_277)  
+id="fr_279"></span>[2](#fn_277.md)  
 Her tongue had never lisp’d the mother’s name,  
 No word, no mimic sound her lips could frame,  
 When Heaven the miracle of speech inspir’d:  
@@ -78,7 +78,7 @@ And, torn with wounds, his num’rous friends lay dead.
 
 No more those ghastly, deathful nights amaze,  
 When Rome wept tears of blood in Scylla’s days:  
-More horrid deeds Ulysses’ towers <span id="fr_280"></span>[1](#fn_278)
+More horrid deeds Ulysses’ towers <span id="fr_280"></span>[1](#fn_278.md)
 beheld:  
 Each cruel breast, where rankling envy swell’d,  
 Accus’d his foe as minion of the queen;  
@@ -86,7 +86,7 @@ Accus’d, and murder closed the dreary scene.
 All holy ties the frantic transport brav’d,  
 Nor sacred priesthood, nor the altar sav’d.  
 Thrown from a tower, like Hector’s son of yore,  
-The mitred head <span id="fr_281"></span>[2](#fn_279) was dash’d with
+The mitred head <span id="fr_281"></span>[2](#fn_279.md) was dash’d with
 brains and gore.  
 Ghastly with scenes of death, and mangled limbs,  
 And, black with clotted blood, each pavement swims.
@@ -94,7 +94,7 @@ And, black with clotted blood, each pavement swims.
   With all the fierceness of the female ire,  
 When rage and grief to tear the breast conspire,  
 The queen beheld her power, her honours lost, <span
-id="fr_282"></span>[3](#fn_280)  
+id="fr_282"></span>[3](#fn_280.md)  
 And ever, when she slept, th’ adult’rer’s ghost,
 
 <span id="page_105">p. 105</span>
@@ -106,7 +106,7 @@ Seem’d ever for revenge to scream aloud.
 
   Castile’s proud monarch to the nuptial bed,  
 In happier days, her royal daughter <span
-id="fr_283"></span>[1](#fn_281) led.  
+id="fr_283"></span>[1](#fn_281.md) led.  
 To him the furious queen for vengeance cries,  
 Implores to vindicate his lawful prize,  
 The Lusian sceptre, his by spousal right;  
@@ -114,7 +114,7 @@ The proud Castilian arms, and dares the fight.
 To join his standard as it waves along,  
 The warlike troops from various regions throng:  
 Those who possess the lands by Rodrick given, <span
-id="fr_284"></span>[2](#fn_282)  
+id="fr_284"></span>[2](#fn_282.md)  
 What time the Moor from Turia’s banks was driven;  
 That race who joyful smile at war’s alarms,  
 And scorn each danger that attends on arms;  
@@ -124,10 +124,10 @@ Those arms erewhile so dreadful to the Moor:
 The Vandals glorying in their might of yore  
 March on; their helms, and moving lances gleam  
 Along the flow’ry vales of Betis’ stream:  
-Nor stay’d the Tyrian islanders <span id="fr_285"></span>[3](#fn_283)
+Nor stay’d the Tyrian islanders <span id="fr_285"></span>[3](#fn_283.md)
 behind,  
 On whose proud ensigns, floating on the wind,  
-Alcides’ pillars <span id="fr_286"></span>[3](#fn_283) tower’d: Nor
+Alcides’ pillars <span id="fr_286"></span>[3](#fn_283.md) tower’d: Nor
 wonted fear  
 Withheld the base Galician’s sordid spear;  
 Though, still; his crimson seamy scars reveal  
@@ -140,7 +140,7 @@ The murm’ring Tagus rolls his foamy tide,
 Along Toledo’s lawns, the pride of Spain,  
 Toledo’s warriors join the martial train:  
 Nor less the furious lust of war inspires  
-The Biscayneer, <span id="fr_287"></span>[1](#fn_284) and wakes his
+The Biscayneer, <span id="fr_287"></span>[1](#fn_284.md) and wakes his
 barb’rous fires,  
 Which ever burn for vengeance, if the tongue  
 Of hapless stranger give the fancied wrong.  
@@ -155,7 +155,7 @@ The proud Castilian leads his num’rous host;
 The valiant John for brave defence prepares,  
 And, in himself collected, greatly dares:  
 For such high valour in his bosom glow’d,  
-As Samson’s locks <span id="fr_288"></span>[2](#fn_285) by miracle
+As Samson’s locks <span id="fr_288"></span>[2](#fn_285.md) by miracle
 bestow’d:  
 Safe, in himself resolv’d, the hero stands,  
 Yet, calls the leaders of his anxious bands:  
@@ -170,7 +170,7 @@ Claim’d every eye, and clos’d the cold debate:
 Singling his brothers from the dastard train,  
 His rolling looks, that flash’d with stern disdain,  
 On them he fix’d, then snatch’d his hilt in ire,  
-While his bold speech <span id="fr_289"></span>[3](#fn_286) bewray’d the
+While his bold speech <span id="fr_289"></span>[3](#fn_286.md) bewray’d the
 soldier’s fire,
 
 <span id="page_108">p. 108</span>
@@ -228,7 +228,7 @@ That dy’d with slaughter Cannæ’s purple field,
 Assembled stood, and bow’d their necks to yield;  
 When nobly rising, with a like disdain,  
 The young Cornelius rag’d, nor rag’d in vain: <span
-id="fr_290"></span>[1](#fn_287)  
+id="fr_290"></span>[1](#fn_287.md)  
 On his dread sword his daunted peers he swore,  
 (The reeking blade yet black with Punic gore)  
 While life remain’d their arms for Rome to wield,  
@@ -260,7 +260,7 @@ The daring van, in Nunio’s care, could boast
 A. general worthy of th’ unnumber’d host,  
 Whose gaudy banners trembling Greece defied,  
 When boastful Xerxes lash’d the Sestian <span
-id="fr_291"></span>[1](#fn_288) tide:  
+id="fr_291"></span>[1](#fn_288.md) tide:  
 Nunio, to proud Castile as dread a name,  
 As erst to Gaul and Italy the fame  
 Of Attila’s impending rage. The right  
@@ -305,9 +305,9 @@ And choose their footing, when the proud Castile
 Bids sound the horrid charge; loud bursts the sound,  
 And loud Artabro’s rocky cliffs rebound:  
 The thund’ring roar rolls round on every side,  
-And trembling, sinks Guidana’s <span id="fr_292"></span>[1](#fn_289)
+And trembling, sinks Guidana’s <span id="fr_292"></span>[1](#fn_289.md)
 rapid tide;  
-The slow-pac’d Durius <span id="fr_293"></span>[2](#fn_290) rushes o’er
+The slow-pac’d Durius <span id="fr_293"></span>[2](#fn_290.md) rushes o’er
 the plain,  
 And fearful Tagus hastens to the main:  
 Such was the tempest of the dread alarms,  
@@ -316,7 +316,7 @@ Shriek’d at the sound: with sudden cold impress’d,
 The mothers strain’d their infants to the breast,  
 And shook with horror. Now, far round, begin  
 The bow-strings’ whizzing, and the brazen <span
-id="fr_294"></span>[3](#fn_291) din  
+id="fr_294"></span>[3](#fn_291.md) din  
 Of arms on armour rattling; either van  
 Are mingled now, and man oppos’d to man:  
 To guard his native fields the one inspires,  
@@ -347,7 +347,7 @@ Where, wide around, the raging Nunio’s sword
 With furious sway the bravest squadrons gor’d,  
 The raging foes in closer ranks advance,  
 And his own brothers shake the hostile lance. <span
-id="fr_295"></span>[1](#fn_292)
+id="fr_295"></span>[1](#fn_292.md)
 
 <span id="page_113">p. 113</span>
 
@@ -361,7 +361,7 @@ And, headlong driv’n, by impious rage accurs’d,
 In rank were foremost, and in fight the first.  
 So, sons and fathers, by each other slain,  
 With horrid slaughter dyed Pharsalia’s <span
-id="fr_296"></span>[1](#fn_293) plain.  
+id="fr_296"></span>[1](#fn_293.md) plain.  
 Ye dreary ghosts, who now for treasons foul,  
 Amidst the gloom of Stygian darkness howl;  
 Thou Catiline, and, stern Sertorius, tell  
@@ -373,11 +373,11 @@ Like you have earn’d the traitor’s foul disgrace.
 Bears down our foremost ranks, and shakes the fight;  
 Yet, firm and undismay’d great Nunio stands,  
 And braves the tumult of surrounding bands.  
-So, from high Ceuta’s <span id="fr_297"></span>[2](#fn_294) rocky
+So, from high Ceuta’s <span id="fr_297"></span>[2](#fn_294.md) rocky
 mountains stray’d,  
 The ranging lion braves the shepherd’s shade;  
 The shepherds hast’ning o’er the Tetuan <span
-id="fr_298"></span>[3](#fn_295) plain,  
+id="fr_298"></span>[3](#fn_295.md) plain,  
 With shouts surround him, and with spears restrain:  
 He stops, with grinning teeth his breath he draws,  
 Nor is it fear, but rage, that makes him pause;  
@@ -396,7 +396,7 @@ Pierc’d through that shield, cold death invades his eye,
 And dying Perez saw his victor die.  
 Edward and Pedro, emulous of fame,  
 The same their friendship, and their youth the same,  
-Through the fierce Brigians <span id="fr_299"></span>[1](#fn_296) hew’d
+Through the fierce Brigians <span id="fr_299"></span>[1](#fn_296.md) hew’d
 their bloody way,  
 Till, in a cold embrace, the striplings lay.  
 Lopez and Vincent rush’d on glorious death,  
@@ -415,7 +415,7 @@ Yet, trembling in his swimming eye appears
 The pearly drop, while his pale cheek he rears;  
 To call his lov’d Antonia’s name he tries,  
 The name half utter’d, down he sinks, and dies.\] <span
-id="fr_300"></span>[2](#fn_297)
+id="fr_300"></span>[2](#fn_297.md)
 
   Now through his shatter’d ranks the monarch strode,  
 And now before his rallied squadrons rode:  
@@ -426,7 +426,7 @@ The lioness her empty den beholds,
 Enrag’d she stands, and list’ning to the gale,  
 She hears her whelps low howling in the vale;  
 The living sparkles flashing from her eyes,  
-To the Massylian <span id="fr_301"></span>[3](#fn_298) shepherd-tents
+To the Massylian <span id="fr_301"></span>[3](#fn_298.md) shepherd-tents
 she flies;
 
 <span id="page_115">p. 115</span>
@@ -446,19 +446,19 @@ Where spears infuriate on the bucklers ring!"
 His pond’rous spear, and midst the foremost hurl’d;  
 Deep through the ranks the forceful weapon pass’d,  
 And many a gasping warrior sigh’d his last. <span
-id="fr_302"></span>[1](#fn_299)  
+id="fr_302"></span>[1](#fn_299.md)  
 With noble shame inspir’d, and mounting rage,  
 His bands rush on, and foot to foot engage;  
 Thick bursting sparkles from the blows aspire;  
 Such flashes blaze, their swords seem dipp’d in fire; <span
-id="fr_303"></span>[2](#fn_300)  
+id="fr_303"></span>[2](#fn_300.md)  
 The belts of steel and plates of brass are riv’n,  
 And wound for wound, and death for death is giv’n.
 
 <span id="page_116">p. 116</span>
 
   The first in honour of Saint Jago’s band, <span
-id="fr_304"></span>[1](#fn_301)  
+id="fr_304"></span>[1](#fn_301.md)  
 A naked ghost now sought the gloomy strand;  
 And he of Calatrave, the sov’reign knight,  
 Girt with whole troops his arm had slain in fight,  
@@ -469,11 +469,11 @@ And curs’d their fate, and died. Ten thousand more
 Who held no title and no office bore,  
 And nameless nobles who, promiscuous fell,  
 Appeas’d that day the foaming dog of hell. <span
-id="fr_305"></span>[2](#fn_302)  
+id="fr_305"></span>[2](#fn_302.md)  
 Now, low the proud Castilian standard lies  
 Beneath the Lusian flag; a vanquish’d prize.  
 With furious madness fired, and stern disdain,  
-The fierce Iberians <span id="fr_306"></span>[3](#fn_303) to the fight
+The fierce Iberians <span id="fr_306"></span>[3](#fn_303.md) to the fight
 again  
 Rush headlong; groans and yellings of despair  
 With horrid uproar rend the trembling air.  
@@ -484,7 +484,7 @@ From every sword descends the feeble blow:
 Till rage grew languid, and tir’d slaughter found  
 No arm to combat, and no breast to wound.  
 Now from the field Castile’s proud monarch flies, <span
-id="fr_307"></span>[4](#fn_304)  
+id="fr_307"></span>[4](#fn_304.md)  
 In wild dismay he rolls his madd’ning eyes,
 
 <span id="page_117">p. 117</span>
@@ -496,7 +496,7 @@ Blaspheming Heaven, they fly, and him who first
 Forg’d murd’ring arms, and led to horrid wars accurs’d.
 
   The festive days by heroes old ordain’d <span
-id="fr_308"></span>[1](#fn_305)  
+id="fr_308"></span>[1](#fn_305.md)  
 The glorious victor on the field remain’d.  
 The funeral rites, and holy vows he paid:  
 Yet, not the while the restless Nunio stay’d;  
@@ -510,7 +510,7 @@ The orphan’s, widow’s, and the hoary sire’s;
 And Heav’n relenting, quench’d the raging fires  
 Of mutual hate: from England’s happy shore  
 The peaceful seas two lovely sisters bore. <span
-id="fr_309"></span>[2](#fn_306)
+id="fr_309"></span>[2](#fn_306.md)
 
 <span id="page_118">p. 118</span>
 
@@ -529,7 +529,7 @@ O’er the wild waves the victor-banners How’d,
 Their silver wings a thousand eagles show’d;  
 And, proudly swelling to the whistling gales,  
 The seas were whiten’d with a thousand sails.  
-Beyond the columns by Alcides <span id="fr_310"></span>[1](#fn_307)
+Beyond the columns by Alcides <span id="fr_310"></span>[1](#fn_307.md)
 plac’d  
 To bound the world, the zealous warrior pass’d.  
 The shrines of Hagar’s race, the shrines of lust,  
@@ -540,7 +540,7 @@ Ceuta, the refuge of the traitor train,
 His vassal now, insures the peace of Spain.
 
   But ah, how soon the blaze of glory dies! <span
-id="fr_311"></span>[2](#fn_308)  
+id="fr_311"></span>[2](#fn_308.md)  
 Illustrious John ascends his native skies.
 
 <span id="page_119">p. 119</span>
@@ -554,7 +554,7 @@ He saw, secluded from the cheerful day,
 His sainted brother pine his years away.  
 O glorious youth, in captive chains, to thee  
 What suiting honours may thy land decree! <span
-id="fr_312"></span>[1](#fn_309)
+id="fr_312"></span>[1](#fn_309.md)
 
 <span id="page_120">p. 120</span>
 
@@ -578,7 +578,7 @@ His son, Alonzo, brighter fate attends.
 Alonzo! dear to Lusus’ race the name;  
 Nor his the meanest in the rolls of fame.  
 His might resistless, prostrate Afric own’d,  
-Beneath his yoke the Mauritanians <span id="fr_313"></span>[1](#fn_310)
+Beneath his yoke the Mauritanians <span id="fr_313"></span>[1](#fn_310.md)
 groan’d,  
 And, still they groan beneath the Lusian sway.  
 ’Twas his, in victor-pomp, to bear away  
@@ -600,13 +600,13 @@ Though low their station, and untold their name.
 
   Now, stung with wild ambition’s madd’ning fires,  
 To proud Castilia’s throne the king <span
-id="fr_314"></span>[1](#fn_311) aspires.  
+id="fr_314"></span>[1](#fn_311.md) aspires.  
 The Lord of Arragon, from Cadiz’ walls,  
-And hoar Pyrene’s <span id="fr_315"></span>[2](#fn_312) sides his
+And hoar Pyrene’s <span id="fr_315"></span>[2](#fn_312.md) sides his
 legions calls;  
 The num’rous legions to his standard throng,  
 And war, with horrid strides, now stalks along.  
-With emulation fir’d, the prince <span id="fr_316"></span>[3](#fn_313)
+With emulation fir’d, the prince <span id="fr_316"></span>[3](#fn_313.md)
 beheld  
 His warlike sire ambitious of the field;  
 Scornful of ease, to aid his arms he sped,  
@@ -619,7 +619,7 @@ With curving movement o’er the field he rode,
 Th’ opposing troops his wheeling squadrons mow’d:  
 The purple dawn, and evening sun beheld  
 His tents encamp’d assert the conquer’d field.  
-Thus, when the ghost of Julius <span id="fr_317"></span>[4](#fn_314)
+Thus, when the ghost of Julius <span id="fr_317"></span>[4](#fn_314.md)
 hover’d o’er  
 Philippi’s plain, appeas’d with Roman gore,  
 Octavius’ legions left the field in flight,  
@@ -640,27 +640,27 @@ The first grey beams of infant morning shed.
 Selected messengers his will obey;  
 Through Spain and France they hold their vent’rous way.  
 Through Italy they reach the port that gave  
-The fair Parthenope <span id="fr_318"></span>[1](#fn_315) an honour’d
-grave; <span id="fr_319"></span>[2](#fn_316)  
+The fair Parthenope <span id="fr_318"></span>[1](#fn_315.md) an honour’d
+grave; <span id="fr_319"></span>[2](#fn_316.md)  
 That shore which oft has felt the servile chain,  
 But, now smiles happy in. the care of Spain.  
 Now, from the port the brave advent’rers bore,  
 And cut the billows of the Rhodian shore;  
 Now, reach the strand where noble Pompey <span
-id="fr_320"></span>[3](#fn_317) bled;  
+id="fr_320"></span>[3](#fn_317.md) bled;  
 And now, repair’d with rest, to Memphis sped;  
 And now, ascending by the vales of Nile,  
 (Whose waves pour fatness o’er the grateful soil),  
 Through Ethiopia’s peaceful dales they stray,  
 Where their glad eyes Messiah’s rites <span
-id="fr_321"></span>[4](#fn_318) survey:  
+id="fr_321"></span>[4](#fn_318.md) survey:  
 And now they pass the fam’d Arabian flood,  
 Whose waves of old in wondrous ridges stood,  
 While Israel’s favour’d race the sable <span
-id="fr_322"></span>[5](#fn_319) bottom trod:  
+id="fr_322"></span>[5](#fn_319.md) bottom trod:  
 Behind them, glist’ning to the morning skies,  
 The mountains nam’d from Ishmael’s offspring <span
-id="fr_323"></span>[6](#fn_320) rise;  
+id="fr_323"></span>[6](#fn_320.md) rise;  
 Now, round their steps the blest Arabia spreads  
 Her groves of odour, and her balmy meads;  
 And every breast, inspir’d with glee, inhales  
@@ -674,16 +674,16 @@ Illustrious streams, where still the native shows
 Where Babel’s haughty tower unfinish’d rose:  
 From thence, through climes unknown, their daring course  
 Beyond where Trajan forced his way, they force; <span
-id="fr_324"></span>[1](#fn_321)  
+id="fr_324"></span>[1](#fn_321.md)  
 Carmanian hordes, and Indian tribes they saw,  
 And many a barb’rous rite, and many a law <span
-id="fr_325"></span>[2](#fn_322)  
+id="fr_325"></span>[2](#fn_322.md)  
 Their search explor’d; but, to their native shore,  
 Enrich’d with knowledge, they return’d no more.  
 The glad completion of the fate’s decree,  
 Kind Heaven reserv’d, Emmanuel, for thee.  
 The crown, and high ambition of thy <span
-id="fr_326"></span>[3](#fn_323) sires,  
+id="fr_326"></span>[3](#fn_323.md) sires,  
 To thee descending, wak’d thy latent fires,  
 And, to command the sea from pole to pole,  
 With restless wish inflam’d thy mighty soul.
@@ -736,7 +736,7 @@ Wide thro’ the world resounds our wealthy fame;
 Haste, speed thy prows, that fated wealth to claim.  
 From Paradise my hallow’d waters spring;  
 The sacred Ganges I, my brother king  
-Th’ illustrious author <span id="fr_327"></span>[1](#fn_324) of the
+Th’ illustrious author <span id="fr_327"></span>[1](#fn_324.md) of the
 Indian name:  
 Yet, toil shall languish, and the fight shall flame;  
 Our fairest lawns with streaming gore shall smoke,  
@@ -779,14 +779,14 @@ For this dread toil, new oceans to explore,
 To spread the sail where sail ne’er How’d before,  
 For this dread labour, to your valour due,  
 From all your peers I name, O VASCO, <span
-id="fr_328"></span>[1](#fn_325) you.  
+id="fr_328"></span>[1](#fn_325.md) you.  
 Dread as it is, yet light the task shall be  
 To you my GAMA, as perform’d for me."  
 My heart could bear no more:--"Let skies on fire,  
 Let frozen seas, let horrid war conspire,  
 I dare them all," I cried, "and, but repine  
 That one poor life is all I can resign.  
-Did to my lot Alcides’ <span id="fr_329"></span>[2](#fn_326) labours
+Did to my lot Alcides’ <span id="fr_329"></span>[2](#fn_326.md) labours
 fall,  
 For you my joyful heart would dare them all;
 
@@ -826,7 +826,7 @@ And, with the horrid lust of danger fiercely burn’d.
   With such bold rage the youth of Mynia glow’d,  
 When the first keel the Euxine surges plough’d;  
 When, bravely vent’rous for the golden fleece,  
-Orac’lous Argo <span id="fr_330"></span>[1](#fn_327) sail’d from
+Orac’lous Argo <span id="fr_330"></span>[1](#fn_327.md) sail’d from
 wond’ring Greece.  
 Where Tago’s yellow stream the harbour laves,  
 And slowly mingles with the ocean waves,
@@ -867,7 +867,7 @@ And each firm breast devotes itself to death,
 An offer’d sacrifice, sworn to obey  
 My nod, and follow where I lead the way.  
 Now, prostrate round the hallow’d shrine we lie, <span
-id="fr_331"></span>[1](#fn_328)  
+id="fr_331"></span>[1](#fn_328.md)  
 Till rosy morn bespreads the eastern sky;
 
 <span id="page_128">p. 128</span>
@@ -940,7 +940,7 @@ The melting passion of such tender pain.
 
   Now, on the lofty decks, prepar’d, we stand,  
 When, tow’ring o’er the crowd that veil’d the strand,  
-A reverend figure <span id="fr_332"></span>[1](#fn_329) fix’d each
+A reverend figure <span id="fr_332"></span>[1](#fn_329.md) fix’d each
 wond’ring eye,  
 And, beck’ning thrice, he wav’d his hand on high,
 
@@ -950,7 +950,7 @@ And thrice his hoary curls he sternly shook,
 While grief and anger mingled in his look;  
 Then, to its height his falt’ring voice he rear’d,  
 And through the fleet these awful words were heard: <span
-id="fr_333"></span>[1](#fn_330)
+id="fr_333"></span>[1](#fn_330.md)
 
   "O frantic thirst of honour and of fame,  
 The crowd’s blind tribute, a fallacious name;  
@@ -979,7 +979,7 @@ Conquest, and laurels dipp’d in blood, be priz’d,
 While life is scorn’d, and all its joys despis’d?  
 And say, does zeal for holy faith inspire  
 To spread its mandates, thy avow’d desire?  
-Behold the Hagarene <span id="fr_334"></span>[1](#fn_331) in armour
+Behold the Hagarene <span id="fr_334"></span>[1](#fn_331.md) in armour
 stands,  
 Treads on thy borders, and the foe demands:  
 A thousand cities own his lordly sway,  
@@ -1005,19 +1005,19 @@ Forsook the beach, and braved the treach’rous flood!
 <span id="page_132">p. 132</span>
 
 Oh! never, never may the sacred Nine, <span
-id="fr_335"></span>[1](#fn_332)  
+id="fr_335"></span>[1](#fn_332.md)  
 To crown his brows, the hallow’d wreath entwine;  
 Nor may his name to future times resound;  
 Oblivion be his meed, and hell profound!  
 Curs’d be the wretch, the fire of heaven who stole,  
 And with ambition first debauch’d the soul!  
-What woes, Prometheus, <span id="fr_336"></span>[2](#fn_333) walk the
+What woes, Prometheus, <span id="fr_336"></span>[2](#fn_333.md) walk the
 frighten’d earth!  
 To what dread slaughter has thy pride giv’n birth!  
 On proud Ambition’s pleasing gales upborne,  
 One boasts to guide the chariot of the morn;  
 And one on treach’rous pinions soaring high, <span
-id="fr_337"></span>[3](#fn_334)  
+id="fr_337"></span>[3](#fn_334.md)  
 O’er ocean’s waves dar’d sail the liquid sky:  
 Dash’d from their height they mourn’d their blighted aim;  
 One gives a river, one a sea the name!  
@@ -1043,10 +1043,10 @@ END OF THE FOURTH BOOK.
 
 ### Footnotes
 
-<span id="fn_276"></span>[103:1](lusbk04.htm#fr_278) Dom John was a
+<span id="fn_276"></span>[103:1](lusbk04.htm#fr_278.md) Dom John was a
 natural brother of Fernando, being an illegitimate son of Pedro.--*Ed*.
 
-<span id="fn_277"></span>[103:2](lusbk04.htm#fr_279) *A cradled infant
+<span id="fn_277"></span>[103:2](lusbk04.htm#fr_279.md) *A cradled infant
 gave the wondrous sign*.--No circumstance has ever been more ridiculed
 by the ancient and modern pedants than Alexander’s pretensions to
 divinity. Some of his courtiers expostulating with him one day on the
@@ -1059,16 +1059,16 @@ monks, was adapted to the superstition of the age of John I. and, as he
 was illegitimate, was of infinite service to his cause. The pretended
 fact, however, is differently related.
 
-<span id="fn_278"></span>[104:1](lusbk04.htm#fr_280) Lisbon, or
+<span id="fn_278"></span>[104:1](lusbk04.htm#fr_280.md) Lisbon, or
 Ulyssipolis, supposed to be founded by Ulysses.--*Ed*.
 
-<span id="fn_279"></span>[104:2](lusbk04.htm#fr_281) *The mitred
+<span id="fn_279"></span>[104:2](lusbk04.htm#fr_281.md) *The mitred
 head*.--Don Martin, bishop of Lisbon, a man of exemplary life. He was by
 birth a Castilian, which was esteemed a sufficient reason to murder him,
 as of the queen’s party. He was thrown from the tower of his own
 cathedral, whither he had fled to avoid the popular fury.
 
-<span id="fn_280"></span>[104:3](lusbk04.htm#fr_282) *The queen beheld
+<span id="fn_280"></span>[104:3](lusbk04.htm#fr_282.md) *The queen beheld
 her power, her honours lost*.--Possessed of great beauty and great
 abilities, this bad woman was a disgrace to her sex, and a curse to the
 age and country which gave her birth. Her sister, Donna Maria, a lady of
@@ -1080,7 +1080,7 @@ persuaded Don Juan that her sister was unfaithful to his bed. The
 enraged husband hastened to his wife, and, without enquiry or
 expostulation, says Mariana, dispatched her with two strokes of his
 dagger. He was afterwards convinced of her innocence. Having
-[sacrificed](errata.htm#3) her honour, and her first husband, to a king,
+[sacrificed](errata.htm#3.md) her honour, and her first husband, to a king,
 (says Faria), Leonora soon sacrificed that king to a wicked gallant, a
 Castilian nobleman, named Don Juan Fernandez de Andeyro. An unjust war
 with Castile, wherein the Portuguese were defeated by sea and land, was
@@ -1155,29 +1155,29 @@ the room, he relented. "I have given enough to resentment," said he, "in
 giving such a command. It were infamous to put it in execution. See that
 the Castilian prisoners receive no harm."
 
-<span id="fn_281"></span>[106:1](lusbk04.htm#fr_283) Beatrice.
+<span id="fn_281"></span>[106:1](lusbk04.htm#fr_283.md) Beatrice.
 
-<span id="fn_282"></span>[106:2](lusbk04.htm#fr_284) *By Rodrick
+<span id="fn_282"></span>[106:2](lusbk04.htm#fr_284.md) *By Rodrick
 given*.--The celebrated hero of Corneille’s tragedy of the Cid.
 
-<span id="fn_283"></span>[106:3](lusbk04.htm#fr_286) Cadiz: in ancient
+<span id="fn_283"></span>[106:3](lusbk04.htm#fr_286.md) Cadiz: in ancient
 times a Phœnician colony, whose coins bear the emblem of two
 pillars--the pillars of Hercules (Alcides).--*Ed*.
 
-<span id="fn_284"></span>[107:1](lusbk04.htm#fr_287) The Gascons or
+<span id="fn_284"></span>[107:1](lusbk04.htm#fr_287.md) The Gascons or
 Basques, a very ancient and singular people. Their language has no
 relation to that of any other people. They are regarded as the earliest
 inhabitants of the Spanish peninsula.--*Ed*.
 
-<span id="fn_285"></span>[107:2](lusbk04.htm#fr_288) See Judges xvi.
+<span id="fn_285"></span>[107:2](lusbk04.htm#fr_288.md) See Judges xvi.
 17-19.
 
-<span id="fn_286"></span>[107:3](lusbk04.htm#fr_289) This speech in the
+<span id="fn_286"></span>[107:3](lusbk04.htm#fr_289.md) This speech in the
 original has been much admired by foreign critics, as a model of
 military eloquence. The critic, it is hoped, will perceive that the
 translator has endeavoured to support the character of the speaker.
 
-<span id="fn_287"></span>[109:1](lusbk04.htm#fr_290) This was the famous
+<span id="fn_287"></span>[109:1](lusbk04.htm#fr_290.md) This was the famous
 P. Corn. Scipio Africanus. The fact, somewhat differently related by
 Livy, is this. After the defeat at Cannæ, a considerable body of Romans
 fled to Canusium, and appointed Scipio and Ap. Claudius their
@@ -1192,15 +1192,15 @@ him*. The historian adds, that they were as terrified by this, as if
 they had beheld the face of their conqueror, Hannibal. They all swore,
 and submitted themselves to Scipio.--Vid. Livy, bk. 22. c. 53.
 
-<span id="fn_288"></span>[110:1](lusbk04.htm#fr_291) Sestos was a city
+<span id="fn_288"></span>[110:1](lusbk04.htm#fr_291.md) Sestos was a city
 of Thrace, on the Dardanelles, opposite Abydos.--*Ed*.
 
-<span id="fn_289"></span>[111:1](lusbk04.htm#fr_292) The Guadiana, one
+<span id="fn_289"></span>[111:1](lusbk04.htm#fr_292.md) The Guadiana, one
 of the two great rivers of Spain.--*Ed*.
 
-<span id="fn_290"></span>[111:2](lusbk04.htm#fr_293) The Douro.
+<span id="fn_290"></span>[111:2](lusbk04.htm#fr_293.md) The Douro.
 
-<span id="fn_291"></span>[111:3](lusbk04.htm#fr_294) Homer and Virgil
+<span id="fn_291"></span>[111:3](lusbk04.htm#fr_294.md) Homer and Virgil
 have, with great art, gradually heightened the fury of every battle,
 till the last efforts of their genius were lavished in describing the
 superior prowess of the hero in the decisive engagement. Camoëns, in
@@ -1211,7 +1211,7 @@ supported with a poetical heat, and a variety of imagery, which, one
 need not hesitate to affirm, would do honour to an ancient classic
 author.
 
-<span id="fn_292"></span>[112:1](lusbk04.htm#fr_295) *And his own
+<span id="fn_292"></span>[112:1](lusbk04.htm#fr_295.md) *And his own
 brothers shake the hostile lance*.--The just indignation with which
 Camoëns treats the kindred of the brave Nunio Alvaro de Pereyra, is
 condemned by the French translator. "The Pereyras," says he, "deserve no
@@ -1243,31 +1243,31 @@ the consideration of the tyranny of the King of Castile, and the great
 services which Don John had rendered his country, fully vindicate the
 indignation of Camoëns against the traitorous Pereyras.
 
-<span id="fn_293"></span>[113:1](lusbk04.htm#fr_296) Near Pharsalus was
+<span id="fn_293"></span>[113:1](lusbk04.htm#fr_296.md) Near Pharsalus was
 fought the decisive battle between Cæsar and Pompey, B.C. 48.--*Ed*.
 
-<span id="fn_294"></span>[113:2](lusbk04.htm#fr_297) Ceuta, a small
+<span id="fn_294"></span>[113:2](lusbk04.htm#fr_297.md) Ceuta, a small
 Spanish possession on the Mediterranean coast of Morocco.--*Ed*.
 
-<span id="fn_295"></span>[113:3](lusbk04.htm#fr_298) Tetuan, a city of
+<span id="fn_295"></span>[113:3](lusbk04.htm#fr_298.md) Tetuan, a city of
 Morocco.--*Ed*.
 
-<span id="fn_296"></span>[114:1](lusbk04.htm#fr_299) *Through the fierce
+<span id="fn_296"></span>[114:1](lusbk04.htm#fr_299.md) *Through the fierce
 Brigians*.--The Castilians, so called from one of their ancient kings,
 named Brig, or Brigus, whom the monkish writers call the grandson of
 Noah.
 
-<span id="fn_297"></span>[114:2](lusbk04.htm#fr_300) These lines are not
+<span id="fn_297"></span>[114:2](lusbk04.htm#fr_300.md) These lines are not
 in the common editions of Camoëns. They consist of three stanzas in the
 Portuguese, and are said to have been left out by the author himself in
 his second edition. The translator, however, as they breathe the true
 spirit of Virgil, was willing to preserve them with this acknowledgment.
 
-<span id="fn_298"></span>[114:3](lusbk04.htm#fr_301) Massylia, a
+<span id="fn_298"></span>[114:3](lusbk04.htm#fr_301.md) Massylia, a
 province in Numidia, greatly infested with lions, particularly that part
 of it called *Os sete montes irmaōs*, the seven brother-mountains.
 
-<span id="fn_299"></span>[115:1](lusbk04.htm#fr_302) *And many a gasping
+<span id="fn_299"></span>[115:1](lusbk04.htm#fr_302.md) *And many a gasping
 warrior sigh’d his last*.--This, which is almost literal from--
 
 *Muitos lançaraō o ultimo suspiro*,--
@@ -1286,7 +1286,7 @@ Mondonedo, all six of proved valour, fell by the hand of young Antony,
 who brought to the fight either more address, or better fortune than
 these." Not a word of this is in the Portuguese.
 
-<span id="fn_300"></span>[115:2](lusbk04.htm#fr_303) *Their swords seem
+<span id="fn_300"></span>[115:2](lusbk04.htm#fr_303.md) *Their swords seem
 dipp’d in fire*.--This is as literal as the idiom of the two languages
 would allow. Dryden has a thought like that of this couplet, but which
 is not in his original:--
@@ -1295,7 +1295,7 @@ is not in his original:--
 And flakes of fire from their hard helmets fly."  
                                           DRYD. Virg. Æn. xii.
 
-<span id="fn_301"></span>[116:1](lusbk04.htm#fr_304) Grand master of the
+<span id="fn_301"></span>[116:1](lusbk04.htm#fr_304.md) Grand master of the
 order of St. James, named Don Pedro Nunio. He, was not killed, however,
 in this battle, which was fought on the plains of Aljubarota, but in
 that of Valverda, which immediately followed. The reader may, perhaps,
@@ -1306,11 +1306,11 @@ was saluted king by his army at the battle of Ourique; in return, his
 majesty dignified every man in his army with the rank of nobility.--Vide
 the 9th of the Statutes of Lamego.
 
-<span id="fn_302"></span>[116:2](lusbk04.htm#fr_305) Cerberus.
+<span id="fn_302"></span>[116:2](lusbk04.htm#fr_305.md) Cerberus.
 
-<span id="fn_303"></span>[116:3](lusbk04.htm#fr_306) The Spaniards.
+<span id="fn_303"></span>[116:3](lusbk04.htm#fr_306.md) The Spaniards.
 
-<span id="fn_304"></span>[116:4](lusbk04.htm#fr_307) This tyrant, whose
+<span id="fn_304"></span>[116:4](lusbk04.htm#fr_307.md) This tyrant, whose
 unjust pretensions to the crown of Portugal laid his own, and that,
 kingdom in blood, was on his final defeat overwhelmed with all the
 frenzy of grief. In the night after the decisive battle of Aljubarota,
@@ -1325,7 +1325,7 @@ plucks his own beard, would be much better pleased to do so to others."
 The writer of this letter, though a prelate, fought at the battle of
 Aljubarota, where he received on the face a largo wound from a sabre.
 
-<span id="fn_305"></span>[117:1](lusbk04.htm#fr_308) *The festive days
+<span id="fn_305"></span>[117:1](lusbk04.htm#fr_308.md) *The festive days
 by heroes old ordain’d*.--As a certain proof of the victory, it was
 required, by the honour of these ages, that the victor should encamp
 three days on the field of battle. By this knight-errantry the
@@ -1333,7 +1333,7 @@ advantages which ought to have been pursued were frequently lost. Don
 John, however, though he complied with the reigning ideas of honour,
 sent Don Nunio, with a proper army, to reap the fruits of his victory.
 
-<span id="fn_306"></span>[117:2](lusbk04.htm#fr_309) John of Portugal,
+<span id="fn_306"></span>[117:2](lusbk04.htm#fr_309.md) John of Portugal,
 about a year after the battle of Aljubarota, married Philippa, eldest
 daughter of John of Gaunt, duke of Lancaster, son of Edward III. who
 assisted the king, his son-in-law, in an irruption into Castile, and, at
@@ -1350,10 +1350,10 @@ though not strictly kept, yet, at last the influence of the English
 queen, Catalina, prevailed, and a long peace, happy for both kingdoms,
 ensued.
 
-<span id="fn_307"></span>[118:1](lusbk04.htm#fr_310) The Pillars of
+<span id="fn_307"></span>[118:1](lusbk04.htm#fr_310.md) The Pillars of
 Hercules, or Straits of Gibraltar.--*Ed*.
 
-<span id="fn_308"></span>[118:2](lusbk04.htm#fr_311) The character of
+<span id="fn_308"></span>[118:2](lusbk04.htm#fr_311.md) The character of
 this great prince claims a place in these notes, as it affords a comment
 on the enthusiasm of Camoëns, who has made him the hero of his episode.
 His birth, excellent education, and masterly conduct when regent, have
@@ -1383,7 +1383,7 @@ his reign. His affection to his queen, Philippa, made him fond of the
 English, whose friendship he cultivated, and by whom he was frequently
 assisted.
 
-<span id="fn_309"></span>[119:1](lusbk04.htm#fr_312) Camoëns, in this
+<span id="fn_309"></span>[119:1](lusbk04.htm#fr_312.md) Camoëns, in this
 instance, has raised the character of one brother at the other’s
 expense, to give his poem an air of solemnity. The siege of Tangier was
 proposed. The king’s brothers differed in their opinions: that of Don
@@ -1424,9 +1424,9 @@ because the stars that day were unfavourable. To this the misfortune of
 Tangier was ascribed, and the people were always on the alarm, as if
 some terrible disaster were impending over them.
 
-<span id="fn_310"></span>[120:1](lusbk04.htm#fr_313) The Moors.
+<span id="fn_310"></span>[120:1](lusbk04.htm#fr_313.md) The Moors.
 
-<span id="fn_311"></span>[121:1](lusbk04.htm#fr_314) When Henry IV. of
+<span id="fn_311"></span>[121:1](lusbk04.htm#fr_314.md) When Henry IV. of
 Castile died, he declared that the infanta Joanna, was his heiress, in
 preference to his sister, Donna Isabella, married to Don Ferdinand, son
 to the King of Arragon. In hopes to attain the kingdom of Castile, Don
@@ -1434,34 +1434,34 @@ Alonzo, king of Portugal, obtained a dispensation from the pope to marry
 his niece, Donna Joanna. After a bloody war, the ambitious views of
 Alonzo and his courtiers were defeated.
 
-<span id="fn_312"></span>[121:2](lusbk04.htm#fr_315) The Pyrenees which
+<span id="fn_312"></span>[121:2](lusbk04.htm#fr_315.md) The Pyrenees which
 separate France from Spain.--*Ed*.
 
-<span id="fn_313"></span>[121:3](lusbk04.htm#fr_316) The Prince of
+<span id="fn_313"></span>[121:3](lusbk04.htm#fr_316.md) The Prince of
 Portugal.
 
-<span id="fn_314"></span>[121:4](lusbk04.htm#fr_317) Julius Caesar.
+<span id="fn_314"></span>[121:4](lusbk04.htm#fr_317.md) Julius Caesar.
 
-<span id="fn_315"></span>[122:1](lusbk04.htm#fr_318) Naples.
+<span id="fn_315"></span>[122:1](lusbk04.htm#fr_318.md) Naples.
 
-<span id="fn_316"></span>[122:2](lusbk04.htm#fr_319) Parthenope was one
+<span id="fn_316"></span>[122:2](lusbk04.htm#fr_319.md) Parthenope was one
 of the Syrens. Enraged because she could not allure Ulysses, she threw
 herself into the sea. Her corpse was thrown ashore, and buried where
 Naples now stands.
 
-<span id="fn_317"></span>[122:3](lusbk04.htm#fr_320) The coast of
+<span id="fn_317"></span>[122:3](lusbk04.htm#fr_320.md) The coast of
 Alexandria.
 
-<span id="fn_318"></span>[122:4](lusbk04.htm#fr_321) Among the
+<span id="fn_318"></span>[122:4](lusbk04.htm#fr_321.md) Among the
 Christians of Abyssinia.
 
-<span id="fn_319"></span>[122:5](lusbk04.htm#fr_322) Sandy, the French
+<span id="fn_319"></span>[122:5](lusbk04.htm#fr_322.md) Sandy, the French
 sable = sand.--*Ed*.
 
-<span id="fn_320"></span>[122:6](lusbk04.htm#fr_323) The Nabathean
+<span id="fn_320"></span>[122:6](lusbk04.htm#fr_323.md) The Nabathean
 mountains; so named from Nabaoth, the son of Ishmael.
 
-<span id="fn_321"></span>[123:1](lusbk04.htm#fr_324) *Beyond where
+<span id="fn_321"></span>[123:1](lusbk04.htm#fr_324.md) *Beyond where
 Trajan*.--The Emperor Trajan extended the bounds of the Roman Empire in
 the East far beyond any of his predecessors. His conquests reached to
 the river Tigris, near which stood the city of Ctesiphon, which he
@@ -1469,29 +1469,29 @@ subdued. The Roman historians boasted that India was entirely conquered
 by him; but they could only mean Arabia Felix.--Vid. Dion. Cass. Euseb.
 Chron. p. 206.
 
-<span id="fn_322"></span>[123:2](lusbk04.htm#fr_325) *Qui mores hominum
+<span id="fn_322"></span>[123:2](lusbk04.htm#fr_325.md) *Qui mores hominum
 multorum vidit*.--HOR.
 
-<span id="fn_323"></span>[123:3](lusbk04.htm#fr_326) Emmanuel was cousin
+<span id="fn_323"></span>[123:3](lusbk04.htm#fr_326.md) Emmanuel was cousin
 to the late king, John II. and grandson to king Edward, son of John I.
 
-<span id="fn_324"></span>[124:1](lusbk04.htm#fr_327) The river Indus,
+<span id="fn_324"></span>[124:1](lusbk04.htm#fr_327.md) The river Indus,
 which gave name to India.
 
-<span id="fn_325"></span>[125:1](lusbk04.htm#fr_328) Vasco de Gama, who
+<span id="fn_325"></span>[125:1](lusbk04.htm#fr_328.md) Vasco de Gama, who
 is, in a certain sense, the hero of the Lusiad, was born in 1469, at
 Sines, a fishing town on the Atlantic, midway between Lisbon and Cape
 St. Vincent where, in a small church on a cliff, built by the great
 navigator after his appointment as Viceroy of India, is an inscription
 to his memory.--*Ed*.
 
-<span id="fn_326"></span>[125:2](lusbk04.htm#fr_329) Hercules.
+<span id="fn_326"></span>[125:2](lusbk04.htm#fr_329.md) Hercules.
 
-<span id="fn_327"></span>[126:1](lusbk04.htm#fr_330) *Orac’lous
+<span id="fn_327"></span>[126:1](lusbk04.htm#fr_330.md) *Orac’lous
 Argo*.--According to the fable, the vessel of the Argonauts spoke and
 prophesied. See *The Argonautics* of Apollonius Rhodius.--*Ed*.
 
-<span id="fn_328"></span>[127:1](lusbk04.htm#fr_331) This fact is
+<span id="fn_328"></span>[127:1](lusbk04.htm#fr_331.md) This fact is
 according to history: Aberat Olysippone prope littus quatuor passuum
 millia templum sanè religiosum et sanctum ab Henrico in honorem
 Sanctissimæ Virginis edificatum . . . . . . In id Gama pridie illius
@@ -1504,7 +1504,7 @@ religiosi, sed reliqui omnes voce maxima cum lacrymis à Deo precabantur,
 ut benè et prosperè illa tam periculosa navigatio omnibus eveniret, et
 universi re benè gesta, incolumes in patriam redirent.
 
-<span id="fn_329"></span>[129:1](lusbk04.htm#fr_332) By this old man is
+<span id="fn_329"></span>[129:1](lusbk04.htm#fr_332.md) By this old man is
 personified the populace of Portugal. The endeavours to discover the
 East Indies by the Southern Ocean, for about eighty years had been the
 favourite topic of complaint, and never was any measure of government
@@ -1531,7 +1531,7 @@ fiducia confirmatus, alacriter in navem faustis ominibus conscendit. . .
 . Qui in littore consistebant, non prius abscedere voluerunt, quàm naves
 vento secundo plenissimis velis ab omnium conspectu remotæ sunt."
 
-<span id="fn_330"></span>[130:1](lusbk04.htm#fr_333) More literally
+<span id="fn_330"></span>[130:1](lusbk04.htm#fr_333.md) More literally
 rendered by Capt. R. Burton:--
 
 "---------------He spoke  
@@ -1556,14 +1556,14 @@ Yet, none so vile but they would fit thee best.
 But Fame, forsooth, and Glory thou art styl’d,  
 And the blind herd is by a sound beguil’d’"
 
-<span id="fn_331"></span>[131:1](lusbk04.htm#fr_334) The Moor.--*Ed*.
+<span id="fn_331"></span>[131:1](lusbk04.htm#fr_334.md) The Moor.--*Ed*.
 
-<span id="fn_332"></span>[132:1](lusbk04.htm#fr_335) The Muses.--*Ed*.
+<span id="fn_332"></span>[132:1](lusbk04.htm#fr_335.md) The Muses.--*Ed*.
 
-<span id="fn_333"></span>[132:2](lusbk04.htm#fr_336) Prometheus is said
+<span id="fn_333"></span>[132:2](lusbk04.htm#fr_336.md) Prometheus is said
 to have stolen fire from heaven.--*Ed*.
 
-<span id="fn_334"></span>[132:3](lusbk04.htm#fr_337) Alluding to the
+<span id="fn_334"></span>[132:3](lusbk04.htm#fr_337.md) Alluding to the
 fables of Phaeton and Icarus; the former having obtained from Helios,
 his father, permission to guide the chariot of the sun for one day,
 nearly set the world on fire. He perished in the river Eridanus (the
@@ -1573,4 +1573,4 @@ was called the Icarian Sea.--*Ed*.
 
 ------------------------------------------------------------------------
 
-[Next: Book V](lusbk05)
+[Next: Book V](lusbk05.md)

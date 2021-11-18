@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp00)  [Next](dmp02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp00)  [Next](dmp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ H. T.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](dmp02)
+[Next: Contents](dmp02.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Misc. Chinese
-Texts](index) [Taoism](../../tao/index)
+[Intangible Textual Heritage](../../index.md) [Misc. Chinese
+Texts](index) [Taoism](../../tao/index.md)
 
 ------------------------------------------------------------------------
 
@@ -169,55 +169,55 @@ And made our lasting proclamation thereby to heaven and earth.<br />
 
 ------------------------------------------------------------------------
 
-[Intangible Textual Heritage](../../index) [Misc. Chinese
-Texts](index) [Taoism](../../tao/index)
+[Intangible Textual Heritage](../../index.md) [Misc. Chinese
+Texts](index) [Taoism](../../tao/index.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="note_1"></span>[1](#fr_1) "Bonds" with written characters on
+<span id="note_1"></span>[1](#fr_1.md) "Bonds" with written characters on
 them superseded the "knotted cords" of the primitive age. That the
 material of the bonds should be, as here represented, slips of ivory,
 would seem to anticipate the progress of society.
 
-<span id="note_2"></span>[2](#fr_2) The Hwangs preceded the Tis in the
+<span id="note_2"></span>[2](#fr_2.md) The Hwangs preceded the Tis in the
 Taoistic genesis of history; and as being more simple were Taoistically
 superior to them; so it was with the Tis and the Wangs or Kings.
 
-<span id="note_3"></span>[3](#fr_3) This of course was Lao-Tze.
+<span id="note_3"></span>[3](#fr_3.md) This of course was Lao-Tze.
 
-<span id="note_4"></span>[4](#fr_4) So it was, according to the story,
+<span id="note_4"></span>[4](#fr_4.md) So it was, according to the story,
 that Lao-Tze drew near to the barrier gate, when he wished to leave
 China.
 
-<span id="note_5"></span>[5](#fr_5) The Ko is a river flowing from
+<span id="note_5"></span>[5](#fr_5.md) The Ko is a river flowing from
 Ho-nan into An-hui, and falling into the Hwai, not far from the district
 city of Hwai-yuan.
 
-<span id="note_6"></span>[6](#fr_6) The nine wells, or bubbling springs,
+<span id="note_6"></span>[6](#fr_6.md) The nine wells, or bubbling springs,
 near the village where Lao was born, are mentioned by various writers;
 but I fail to see how the growth of the trees about them indicated the
 ruin of his temple.
 
-<span id="note_7"></span>[7](#fr_7) The "desert sands" were, no doubt,
+<span id="note_7"></span>[7](#fr_7.md) The "desert sands" were, no doubt,
 what we call "the desert of Gobi." The trees referred to were "in the
 extreme East."
 
-<span id="note_8"></span>[8](#fr_8) "The sage beneath the Pillar" must
+<span id="note_8"></span>[8](#fr_8.md) "The sage beneath the Pillar" must
 be Lao-Tze.
 
-<span id="note_9"></span>[9](#fr_9) "The smoke," I suppose, "of the
+<span id="note_9"></span>[9](#fr_9.md) "The smoke," I suppose, "of the
 incense, and from the offerings."
 
-<span id="note_10"></span>[10](#fr_10) Taoist monks are called "Plumaged
+<span id="note_10"></span>[10](#fr_10.md) Taoist monks are called "Plumaged
 or Feathered Scholars," from the idea that by their discipline and pills
 they can emancipate themselves from the trammels of the material body,
 and ascend (fly up) to heaven. Arrived there, as Immortals or *Hsien*,
 it further appears they were constituted into a hierarchy or society, of
 which some of them were "officers," higher in rank than others.
 
-<span id="note_11"></span>[11](#fr_11) An allusion to the text of the
+<span id="note_11"></span>[11](#fr_11.md) An allusion to the text of the
 hexagrams of the Yi King, where the explanations of them by King Wan —
 his *thwan*, are followed by the symbolism of their different lines by
 the duke of Chau — his *hsiang*.

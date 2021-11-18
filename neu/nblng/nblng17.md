@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng16)  [Next](nblng18) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng16)  [Next](nblng18.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XVI: How Siegfried Was Slain.](nblng18)
+[Next: Adventure XVI: How Siegfried Was Slain.](nblng18.md)

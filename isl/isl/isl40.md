@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl39)  [Next](isl41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl39)  [Next](isl41.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ line of succession, were not Imāms. Even this limited Caliphate was
 brought to an end by Ṡalāḥ al-Dīn al-Ayyūbī in 1171; the leadership of
 the sect passed to the *dā‘īs* in Yemen, who converted numbers of Hindus
 in Gujerat in West India, the so-called Bohras. <span
-id="fr_161"></span>[8](#fn_161) The Musta‘līs have split several times.
+id="fr_161"></span>[8](#fn_161.md) The Musta‘līs have split several times.
 
 A good deal of Sevener literature has been published: it appears to be
 self-contradictory and confusing. This is because all explication of
@@ -114,7 +114,7 @@ celestial spheres also figure in Ismā‘īlī literature.
 
 The following selection is attributed (perhaps wrongly) to Ibn Ḥawshab
 al-Kūfī, a famous *dā‘ī* active in the Yemen in A.D. 266/A.H. 880. In
-any case, it is a very early [Ismā‘īlī](errata.htm#3) treatise, and
+any case, it is a very early [Ismā‘īlī](errata.htm#3.md) treatise, and
 shows admirably the system of esoteric interpretation of the Qur’ān
 (*ta’wīl al-bāṭin*) for which the Seveners were famous. The outcome of
 its Messianic promise was the Fāṭimī Caliphate.
@@ -142,7 +142,7 @@ nineteen altogether.
 The seven verses of the *sūra* symbolize the seven degrees of religion.
 The Sūra of Praise opens the Book of God, and similarly the degrees of
 religion open the door of knowledge in God's religion. <span
-id="fr_162"></span>[9](#fn_162)
+id="fr_162"></span>[9](#fn_162.md)
 
  
 
@@ -158,7 +158,7 @@ dense-tree’d gardens, and fruits, and pasture; and enjoyment for you and
 your flocks." The meaning of "pasture" (*i.e.*, *āb*: *i.e.*, "father")
 is ‘Alī, and (referred to here) are his descendants the seven Imāms and
 the Eighth, who is the *Mahdī*, the Seventh *Nāṭiq*. <span
-id="fr_163"></span>[10](#fn_163)
+id="fr_163"></span>[10](#fn_163.md)
 
  
 
@@ -222,7 +222,7 @@ one must know that in this form of man, the Lord has manifested Himself
 <span id="page_237">p. 237</span>
 
 great and ennobled; regarded relatively He has brought Himself into this
-special form. . . . <span id="fr_164"></span>[11](#fn_164)
+special form. . . . <span id="fr_164"></span>[11](#fn_164.md)
 
  
 
@@ -267,7 +267,7 @@ understanding the inner meaning, the *bāṭin* . . . can perceive the
 meaning of the commandments . . . the *ẓāhir* must be continually
 changing, while the . . . bat in is concerned with the world of reality
 . . . or divinity, and is unchangeable. . . . <span
-id="fr_165"></span>[12](#fn_165)
+id="fr_165"></span>[12](#fn_165.md)
 
 The meaning of the fast is *taqīya* or dissimulation . . . the Feast of
 Fast-breaking is the Day . . . of the Great *Qiyāma* \[the triumph of
@@ -283,7 +283,7 @@ Running in the pilgrimage means hastening toward the *Imām*.
 Prostration . . . means this: if a believer who is fully initiated
 (*ma’dhūn*) or a *dā‘ī*, commits a mistake, he must return to the higher
 knowledge which is with the *Ḥujjat*. . . . <span
-id="fr_166"></span>[13](#fn_166)
+id="fr_166"></span>[13](#fn_166.md)
 
  
 
@@ -329,35 +329,35 @@ glory. . . . But it would be absurd to think he would leave the "Chosen"
 without the possibility of recognizing him; for the purpose of their
 acquiring this knowledge the world was created. . . . Therefore the moon
 must exist in this night of faith. . . . <span
-id="fr_167"></span>[14](#fn_167)
+id="fr_167"></span>[14](#fn_167.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_161"></span>[239:8](isl40.htm#fr_161) Much interesting
+<span id="fn_161"></span>[239:8](isl40.htm#fr_161.md) Much interesting
 information is to be found in J. N. Hollister, *The Shī‘a of India*
 (London, 1953).
 
-<span id="fn_162"></span>[239:9](isl40.htm#fr_162) Translated from
+<span id="fn_162"></span>[239:9](isl40.htm#fr_162.md) Translated from
 edition of Arabic text by Kamil Hussein in *Collectanea of the Isma‘ili
 Society* (Leiden, 1948), Vol. I, p. 189. A translation of a defective
 text was made earlier, by W. Iwanow, in *Studies in Early Persian
 Isma‘ilism* and published by the *Isma‘ili* Society (Bombay, 1948).
 
-<span id="fn_163"></span>[239:10](isl40.htm#fr_163) *Ibid*., p. 199.
+<span id="fn_163"></span>[239:10](isl40.htm#fr_163.md) *Ibid*., p. 199.
 
-<span id="fn_164"></span>[239:11](isl40.htm#fr_164) Marshall G. Hodgson,
+<span id="fn_164"></span>[239:11](isl40.htm#fr_164.md) Marshall G. Hodgson,
 trans., *The Order of Assassins* (The Hague, 1955), pp. 284-313.
 
-<span id="fn_165"></span>[239:12](isl40.htm#fr_165) W. Iwanow, ed. and
+<span id="fn_165"></span>[239:12](isl40.htm#fr_165.md) W. Iwanow, ed. and
 trans., *Kalām-i Pīr* (Bombay, 1935), p. 49.
 
-<span id="fn_166"></span>[239:13](isl40.htm#fr_166) *Ibid*., pp. 92, 93.
+<span id="fn_166"></span>[239:13](isl40.htm#fr_166.md) *Ibid*., pp. 92, 93.
 
-<span id="fn_167"></span>[239:14](isl40.htm#fr_167) W. Iwanow, trans.
+<span id="fn_167"></span>[239:14](isl40.htm#fr_167.md) W. Iwanow, trans.
 *On the Recognition of the Imām* (Bombay, 1947), pp. 17-20.
 
 ------------------------------------------------------------------------
 
-[Next: References and Notes](isl41)
+[Next: References and Notes](isl41.md)

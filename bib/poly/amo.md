@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Joel](joe)  [Obadiah](oba)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Joel](joe)  [Obadiah](oba.md)
 
 ------------------------------------------------------------------------
 
@@ -9,20 +9,20 @@
 
 ------------------------------------------------------------------------
 
-[Amos 1](amo001)  
+[Amos 1](amo001.md)  
 
-[Amos 2](amo002)  
+[Amos 2](amo002.md)  
 
-[Amos 3](amo003)  
+[Amos 3](amo003.md)  
 
-[Amos 4](amo004)  
+[Amos 4](amo004.md)  
 
-[Amos 5](amo005)  
+[Amos 5](amo005.md)  
 
-[Amos 6](amo006)  
+[Amos 6](amo006.md)  
 
-[Amos 7](amo007)  
+[Amos 7](amo007.md)  
 
-[Amos 8](amo008)  
+[Amos 8](amo008.md)  
 
-[Amos 9](amo009)  
+[Amos 9](amo009.md)  

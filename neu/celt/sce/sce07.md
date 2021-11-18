@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce06)  [Next](sce08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce06)  [Next](sce08.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ prophet is in danger of being no more considered than a Highland
 second-sighted man. However, it is to Mr. Kirk's praise that he shows no
 persecuting disposition as far as witches are concerned (though he has
 seen them pricked), and that he argues very fairly from his premisses,
-and within his limits. <span id="fr_27"></span>[1](#fn_27) He recognises
+and within his limits. <span id="fr_27"></span>[1](#fn_27.md) He recognises
 the unity of spiritual phenomena and of popular beliefs, whether it
 springs from a common well-head of delusion in our nature, or whether it
 really has a source in the observation of peculiar and rather rare
@@ -183,16 +183,16 @@ wholly absent, while more is due to a survival of the pre-Christian
 Hades, and to the belief in local spirits--the Vuis of Melanesia, the
 Nereids of ancient and modern Greece, the Lares of Rome, the fateful
 Mœræ and Hathors--old imaginings of a world not yet "dispeopled of its
-dreams." <span id="fr_28"></span>[1](#fn_28)
+dreams." <span id="fr_28"></span>[1](#fn_28.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_27"></span>[lxii:1](sce07.htm#fr_27) Note
-( [f](sce29.htm#xref_f)), [p. 86](sce29.htm#page_86).
+<span id="fn_27"></span>[lxii:1](sce07.htm#fr_27.md) Note
+( [f](sce29.htm#xref_f)), [p. 86](sce29.htm#page_86.md).
 
-<span id="fn_28"></span>[lxv:1](sce07.htm#fr_28) The "earth-houses " in
+<span id="fn_28"></span>[lxv:1](sce07.htm#fr_28.md) The "earth-houses " in
 Scotland and the isles, which seem to have been inhabited at an early
 period, can seldom be called hills or mounds; being built for purposes
 of concealment, they are usually almost on a level with the surrounding
@@ -203,4 +203,4 @@ printed. Edinburgh, 1892.)
 
 ------------------------------------------------------------------------
 
-[Next: Colophon](sce08)
+[Next: Colophon](sce08.md)

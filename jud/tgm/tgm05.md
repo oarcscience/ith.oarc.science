@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm04)  [Next](tgm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm04)  [Next](tgm06.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ left eye was blue and his right
 <span id="img_01100"></span>
 
 [![](tn/01100.jpg)  
-Click to enlarge](img/01100.jpg)
+Click to enlarge](img/01100.jpg.md)
 
  
 
@@ -223,4 +223,4 @@ Alexander kept his promise.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Follow Me](tgm06)
+[Next: 3. Follow Me](tgm06.md)

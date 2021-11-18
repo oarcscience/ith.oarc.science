@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](eze)  [Next](hos) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](eze)  [Next](hos.md) 
 
 ------------------------------------------------------------------------
 
@@ -1554,4 +1554,4 @@ you shall rest, and shall stand in your lot, at the end of the days.
 
 ------------------------------------------------------------------------
 
-[Next: Hosea](hos)
+[Next: Hosea](hos.md)

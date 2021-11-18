@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft09) 
-[Next](gsft11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft09.md) 
+[Next](gsft11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gypsy Sorcery and Fortune Telling*, by Charles Godfrey Leland,
 \[1891\], at Intangible Textual Heritage
 
@@ -193,7 +193,7 @@ in the language of the Western
 
 <span class="contnote">\[paragraph continues\]</span> Americans, "half a
 horse," which they regard as the greatest compliment which can be paid
-to a man. <span id="fr_14"></span>[1](#fn_14)
+to a man. <span id="fr_14"></span>[1](#fn_14.md)
 
 "Wonderful potions and salves," says Mrs. GERARD, "composed of the fat
 of bears, dogs, snakes, and snails, with the oil of rain-worms, spiders,
@@ -520,7 +520,7 @@ whether the applicant, or invoker, shall obtain her desire.
 
 At the birth of a child in Wallachia every one present takes a stone and
 throws it behind him, saying, "This into the jaws of the Streghoi" <span
-id="fr_15"></span>[1](#fn_15)—"a custom," says Mrs. GERARD, "which would
+id="fr_15"></span>[1](#fn_15.md)—"a custom," says Mrs. GERARD, "which would
 seem to suggest Saturn and the swaddled up stones." It is much more
 suggestive of the stones thrown by Deucalion and Pyrrha. *Strigoi* is
 translated as "evil spirits" it is evidently, originally at least, the
@@ -740,7 +740,7 @@ Anna—*la San' Na*—who was the Lucina of the Latins.
 
 ### Footnotes
 
-<span id="fn_14"></span>[127:1](gsft10.htm#fr_14) Though not connected
+<span id="fn_14"></span>[127:1](gsft10.htm#fr_14.md) Though not connected
 with this work, I cannot help observing that this extraordinary simile
 probably originated in a very common ornament used as a figurehead, or
 in decorations, on Mississippi steamboats, as well as ships. This is the
@@ -749,13 +749,13 @@ and gilt. Its fish tail might be easily confused with that of an
 alligator. PRÆTORIUS (1666) enumerates, among other monsters, the
 horse-crocodile.
 
-<span id="fn_15"></span>[135:1](gsft10.htm#fr_15) SCHOTT, "Wallachische
+<span id="fn_15"></span>[135:1](gsft10.htm#fr_15.md) SCHOTT, "Wallachische
 Mährchen," p. 297. Stuttgart, 1845.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: The Meetings of Witches](gsft11)
+[Next: Chapter IX: The Meetings of Witches](gsft11.md)
 
 </div>

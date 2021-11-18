@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi192)  [Next](mtsi194) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi192)  [Next](mtsi194.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ killed him.
 
 ------------------------------------------------------------------------
 
-[Next: 58. Rabbit and the Box](mtsi194)
+[Next: 58. Rabbit and the Box](mtsi194.md)

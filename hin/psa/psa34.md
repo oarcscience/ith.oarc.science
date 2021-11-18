@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa33)  [Next](psa35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa33)  [Next](psa35.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ years of Bruhmú, I should never be quit of my debt to you."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIV](psa35)
+[Next: Chapter XXXIV](psa35.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst014)  [Next](inst016) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst014)  [Next](inst016.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ way necessarily obtains at least some knowledge of God. Thus, our
 feeling of ignorance, vanity, want, weakness, in short, depravity and
 corruption, reminds us (see Calvin on <span
 id="iv.i.ii-p6.1"></span>[John
-4:10](../../../bib/kjv/joh004.htm#010)<span id="iv.i.ii-p6.1"></span>),
+4:10](../../../bib/kjv/joh004.htm#010)<span id="iv.i.ii-p6.1"></span>.md),
 that in the Lord, and none but He, dwell the true light of wisdom, solid
 virtue, exuberant goodness. We are accordingly urged by our own evil
 things to consider the good things of God; and, indeed, we cannot aspire
@@ -113,7 +113,7 @@ up and annihilated, the inference to be drawn is that men are never duly
 touched and impressed with a conviction of their insignificance, until
 they have contrasted themselves with the majesty of God. Frequent
 examples of this consternation occur both in the Book of Judges and the
-Prophetical Writings;5  <span id="fr_48"></span>[49](#fn_48) so much so,
+Prophetical Writings;5  <span id="fr_48"></span>[49](#fn_48.md) so much so,
 that it was a common expression among the people of God, “We shall die,
 for we have seen the Lord.” Hence the Book of Job, also, in humbling men
 under a conviction of their folly, feebleness, and pollution, always
@@ -125,7 +125,7 @@ face for His approach; so dreadful is the sight. And what can man do,
 man who is but rottenness and a worm, when even the Cherubim themselves
 must veil their faces in very terror? To this, undoubtedly, the Prophet
 Isaiah refers, when he says (<span id="iv.i.ii-p9.7"></span>[Isaiah
-24:23](../../../bib/kjv/isa024.htm#023)<span id="iv.i.ii-p9.7"></span>),
+24:23](../../../bib/kjv/isa024.htm#023)<span id="iv.i.ii-p9.7"></span>.md),
 “The moon shall be confounded, and the sun ashamed, when the Lord of
 Hosts shall reign;” *i.e.*, when he shall exhibit his refulgence, and
 give a nearer view of it, the brightest objects will, in comparison, be
@@ -140,24 +140,24 @@ then descend to the latter.
 
 ### Footnotes
 
-<span id="fn_48"></span>[49](inst015.htm#fr_48) <span
+<span id="fn_48"></span>[49](inst015.htm#fr_48.md) <span
 id="iv.i.ii-p8.1"></span>
 
 <span id="iv.i.ii-p9"></span>3 53 <span id="iv.i.ii-p9.1"></span>[Judges
-13:22](../../../bib/kjv/jdg013.htm#022)<span id="iv.i.ii-p9.1"></span>;
+13:22](../../../bib/kjv/jdg013.htm#022.md)<span id="iv.i.ii-p9.1"></span>;
 <span id="iv.i.ii-p9.2"></span>[Isaiah
-6:5](../../../bib/kjv/isa006.htm#005)<span id="iv.i.ii-p9.2"></span>;
+6:5](../../../bib/kjv/isa006.htm#005.md)<span id="iv.i.ii-p9.2"></span>;
 <span id="iv.i.ii-p9.3"></span>[Ezek.
-1:28](../../../bib/kjv/eze001.htm#028),
-[3](../../../bib/kjv/eze001.htm#003)<span id="iv.i.ii-p9.3"></span>:14;
+1:28](../../../bib/kjv/eze001.htm#028.md),
+[3](../../../bib/kjv/eze001.htm#003.md)<span id="iv.i.ii-p9.3"></span>:14;
 <span id="iv.i.ii-p9.4"></span>[Job
-9:4](../../../bib/kjv/job009.htm#004)<span id="iv.i.ii-p9.4"></span>,
+9:4](../../../bib/kjv/job009.htm#004.md)<span id="iv.i.ii-p9.4"></span>,
 &c.; <span id="iv.i.ii-p9.5"></span>[Gen.
-17:27](../../../bib/kjv/gen017.htm#027)<span id="iv.i.ii-p9.5"></span>;
+17:27](../../../bib/kjv/gen017.htm#027.md)<span id="iv.i.ii-p9.5"></span>;
 <span id="iv.i.ii-p9.6"></span>[1 Kings
-19:13](../../../bib/kjv/kg1019.htm#013)<span id="iv.i.ii-p9.6"></span>.
+19:13](../../../bib/kjv/kg1019.htm#013.md)<span id="iv.i.ii-p9.6"></span>.
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 2. - WHAT IT IS TO KNOW GOD,TENDENCY OF THIS
-KNOWLEDGE.](inst016)
+KNOWLEDGE.](inst016.md)

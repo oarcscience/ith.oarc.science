@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip68)  [Next](fip70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip68)  [Next](fip70.md) 
 
 ------------------------------------------------------------------------
 
-### THE GIANT'S STAIRS <span id="fr_61"></span>[1](#fn_61)
+### THE GIANT'S STAIRS <span id="fr_61"></span>[1](#fn_61.md)
 
 T. Crofton Croker
 
@@ -241,9 +241,9 @@ giant Mahon MacMahon.
 
 ### Footnotes
 
-<span id="fn_61"></span>[260:1](fip69.htm#fr_61) *Fairy Legends of the
+<span id="fn_61"></span>[260:1](fip69.htm#fr_61.md) *Fairy Legends of the
 South of Ireland*.
 
 ------------------------------------------------------------------------
 
-[Next: A Legend of Knockmany, by William Carleton](fip70)
+[Next: A Legend of Knockmany, by William Carleton](fip70.md)

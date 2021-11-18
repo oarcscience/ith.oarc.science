@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](cen10eng)  [Next](almanac2) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](cen10eng)  [Next](almanac2.md) 
 
 ------------------------------------------------------------------------
 
@@ -256,6 +256,6 @@ Sudden catarrh, blessed water, to bathe him.
 
 ------------------------------------------------------------------------
 
-[Next: Almanacs: 1564-1567](almanac2)
+[Next: Almanacs: 1564-1567](almanac2.md)
 
   

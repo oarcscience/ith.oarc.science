@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ to be of miraculous birth and to have been rescued as a babe from an ark
 <span id="page_314">p. 314</span>
 
 which was set adrift on the River Euphrates. <span
-id="fr_368"></span>[1](#fn_368) His son, Naram Sin, erected the famous
+id="fr_368"></span>[1](#fn_368.md) His son, Naram Sin, erected the famous
 stele which depicts him winning a victory over a pigtailed people in a
 wooded and mountainous country. He flourished about the is beginning of
 Crete's Early Minoan II Period, and, like his father, proclaimed himself
@@ -97,7 +97,7 @@ kings against five.
 of Ellasar, Chedorlaomer King of Elam, and Tidal King of Nations; that
 these made war with Bera King of Sodom, and with Birsha King of
 Gomorrah, Shinab King of Admah, and Shemeber King of Zeboiim, and the
-King of Bela, which is Zoar." <span id="fr_369"></span>[1](#fn_369)
+King of Bela, which is Zoar." <span id="fr_369"></span>[1](#fn_369.md)
 
 Amraphel is believed to be Hammurabi of Sumer (Shinar), Arioch of Larsa,
 (Ellasar) a Sumerian city king who was a son of the Elamite monarch, and
@@ -105,7 +105,7 @@ Tidal a Hittite ruler. This confederacy may have been formed against
 common enemies in the Western Land (Syria and Palestine) in the
 interests of trade. It could not have been of long endurance. After
 twelve years of subjection the western tribes rebelled, <span
-id="fr_370"></span>[2](#fn_370) and the four allies again "smote them".
+id="fr_370"></span>[2](#fn_370.md) and the four allies again "smote them".
 Thereafter Hammurabi threw off his allegiance to Elam and extended his
 sway over the greater part of Babylonia and Assyria, while he also
 included the Western Land in his sphere of influence. About the same
@@ -214,7 +214,7 @@ as mercenaries by rival Cretan kings. A memory of the ancient island
 conflicts appears to survive in the following reference by Herodotus to
 the Lycians: "The Lycians", he wrote, "are in good truth anciently from
 Crete, which island, in former days, was wholly peopled by
-barbarians. <span id="fr_371"></span>[1](#fn_371) A quarrel arising
+barbarians. <span id="fr_371"></span>[1](#fn_371.md) A quarrel arising
 there between the two sons of Europa, Sarpedon and Minos, as to which of
 them should be king, Minos, whose party prevailed, drove Sarpedon and
 his followers into banishment. The exiles sailed to Asia, and landed on
@@ -227,7 +227,7 @@ Termilæ, as the Lycians still are by those who
 <span id="page_319">p. 319</span>
 
 live in their neighbourhood. . . . Their customs are partly Cretan,
-partly Carian." <span id="fr_372"></span>[1](#fn_372) Herodotus also
+partly Carian." <span id="fr_372"></span>[1](#fn_372.md) Herodotus also
 noted that the Lycians took "the mother's and not the father's name"--an
 interesting and perhaps significant fact when we consider the prominent
 part taken in social life by the Cretan women.
@@ -312,7 +312,7 @@ advanced from the Neolithic stage of culture. It is probable that the
 islanders formed a military aristocracy from which sprung the kings who
 ruled the various important city States in pre-Homeric times.
 
-Pausanias <span id="fr_373"></span>[1](#fn_373) tells us that the lion
+Pausanias <span id="fr_373"></span>[1](#fn_373.md) tells us that the lion
 gate of Mycenæ and the walls of Tiryns were the work of the Cyclopes who
 laboured for Proctus. He writes, too, with conviction of the men in
 ancient days who "were guests at the tables of the gods in consequence
@@ -326,7 +326,7 @@ are still worshipped, like Aristæus, and
 <span class="contnote">\[paragraph continues\]</span> Britomartis of
 Crete, and Hercules, the son of Alcmena, and Amphiarus, the son of
 Œcles, and beside them Castor and Pollux." <span
-id="fr_374"></span>[1](#fn_374) So were the ancients who believed in
+id="fr_374"></span>[1](#fn_374.md) So were the ancients who believed in
 giants and gods identified with them.
 
 During the last century of the Late Minoan I Period the Hyksos were
@@ -374,7 +374,7 @@ find the old poets everywhere representing the people as asking the
 voyagers--'Are they pirates?'--as if those who are asked the question
 would have no idea of disclaiming the imputation, or their interrogators
 of reproaching them for it. The same rapine prevailed also by
-land." <span id="fr_375"></span>[1](#fn_375)
+land." <span id="fr_375"></span>[1](#fn_375.md)
 
 The Empire of Minos appears to have embraced part of the Greek mainland.
 Athens was compelled to send its annual tribute of youths and maidens to
@@ -394,7 +394,7 @@ addressed to him as from the god Amon, the priestly poet declares:
 
 I have come giving thee to smite the western land,  
 Keftyew (Crete) and Cyprus are in terror. <span
-id="fr_376"></span>[1](#fn_376)
+id="fr_376"></span>[1](#fn_376.md)
 
 The activities of Thothmes did not extend to Crete, but there can be
 little doubt that his operations exercised a marked influence on the
@@ -468,7 +468,7 @@ el Bahari, we discovered thousands of blue glaze beads of the exact
 particular type (already well known from other Egyptian diggings) of
 these found in Britain. Ours are, in all probability, mostly of the time
 of Hatshepsut, and so date to about 1500 B.C." <span
-id="fr_377"></span>[1](#fn_377) Similar beads have also been discovered
+id="fr_377"></span>[1](#fn_377.md) Similar beads have also been discovered
 in Crete and Western Europe. The British finds help to fix the age of
 Stonehenge, the inner circle of which, according to Professor Boyd
 Dawkins, is formed of stones taken from Brittany.
@@ -487,7 +487,7 @@ of Belerium (Land's End) to the
 
 <span id="page_327">p. 327</span>
 
-Island of Ictis, <span id="fr_378"></span>[1](#fn_378) which could be
+Island of Ictis, <span id="fr_378"></span>[1](#fn_378.md) which could be
 reached at low tide. The tin was purchased on Ictis by traders and then
 shipped to Gaul, being afterwards conveyed overland to the mouth of the
 Rhone on pack-horses. Ships crossed the English Channel as early as
@@ -530,7 +530,7 @@ Camicus for five years. Their efforts were, however, unsuccessful. On
 their way home their vessels were wrecked on the south coast of Italy,
 where they founded the town of Hyria. Thereafter, the Præsians informed
 Herodotus, "men of various nations flocked to Crete, which was stripped
-of its inhabitants". <span id="fr_379"></span>[1](#fn_379) Memories of
+of its inhabitants". <span id="fr_379"></span>[1](#fn_379.md) Memories of
 Minoan colonies may have mingled with this tradition. One of the several
 cities called Minoa was situated in Sicily.
 
@@ -551,7 +551,7 @@ frequent occurrence, the several tribes readily abandoning their
 <span id="img_32800"></span> ![](img/32800.jpg)
 
 RUINS OF THE "ROYAL VILLA", AGHIA TRIADHA. (See page
-[286](moc17.htm#page_286)).
+[286](moc17.htm#page_286).md).
 
  
 
@@ -560,7 +560,7 @@ RUINS OF THE "ROYAL VILLA", AGHIA TRIADHA. (See page
 homes under pressure of superior numbers. . . . The goodness of the land
 favoured the aggrandizement of particular individuals, and thus created
 faction, which proved a fertile source of ruin. It also invited
-invasion." <span id="fr_380"></span>[1](#fn_380) It is possible, as some
+invasion." <span id="fr_380"></span>[1](#fn_380.md) It is possible, as some
 have urged, that Minos himself was a conqueror of Crete, and was
 supported by Pelasgians and Achæans who had acquired the elements of
 Minoan culture on the mainland.
@@ -578,7 +578,7 @@ invented nothing new. It was an age of decadence and transition.
 Ultimately Knossos and the small towns were entirely deserted, and the
 people retreated to the inner mountain valleys and plateaux. The Cretans
 ceased to be known in Egypt as the Keftiu during the reign of Amenhotep
-III, the father of Akhenaton. <span id="fr_381"></span>[2](#fn_381) The
+III, the father of Akhenaton. <span id="fr_381"></span>[2](#fn_381.md) The
 founders of Præsos, who claimed to be the "true Cretans", were no doubt
 descendants of the old Minoan peoples and the Achæo-Pelasgian elements
 from the Continent.
@@ -599,7 +599,7 @@ enterprise in that quarter. "In the Homeric poems", says Professor
 Myres, "more visits are paid by western seafarers to Phœnicia and Sidon
 than 'Phœnician' merchants pay to the west. . . . The wide Phœnician
 trade of historic times had clearly begun to grow as the Minoan
-sea-power failed." <span id="fr_382"></span>[1](#fn_382)
+sea-power failed." <span id="fr_382"></span>[1](#fn_382.md)
 
 About a century after the fall of Knossos, Mycenæ, Tiryns, and other
 mainland towns had reached the height of their prosperity. It is
@@ -613,7 +613,7 @@ traditions is this. First of all Pelops, arriving among a needy
 population from Asia with vast wealth, acquired such power that,
 stranger though he was, the country was called after him; and this power
 fortune saw fit materially to increase in the hands of his
-descendants." <span id="fr_383"></span>[2](#fn_383) The complicated
+descendants." <span id="fr_383"></span>[2](#fn_383.md) The complicated
 family history of Pelopidæ and Atridæ is of special interest in this
 connection. Atreus, son of Pelops, married his son Plisthenes to Aerope,
 granddaughter of King Minos of Crete. Her father had given her and her
@@ -636,7 +636,7 @@ intermarry with Cretan stock in the Peloponnesus. This appears to be as
 good history as the reference in Ezekiel to the ethnics of Jerusalem:
 "Thy birth and thy nativity is of the land of Canaan; thy father was an
 Amorite, and thy mother an Hittite". <span
-id="fr_384"></span>[1](#fn_384) Mycenæ's mother was a Cretan and his
+id="fr_384"></span>[1](#fn_384.md) Mycenæ's mother was a Cretan and his
 father an Anatolian, perhaps of Indo-European speech like the military
 aristocracy of the Mitannian State, which appears to have for a period
 achieved political ascendancy over the Hittites.
@@ -666,7 +666,7 @@ As Pirithous and Dryas, wise and brave,
 Cœneus, Exadius, god-like Polypheme,  
 And Theseus, Ægeus' more than mortal son.  
 The mightiest they among the sons of men. . . . <span
-id="fr_385"></span>[1](#fn_385)
+id="fr_385"></span>[1](#fn_385.md)
 
 Another element which entered into the ethnic fusion in Mycenæan Greece
 was the Danubian. The influence of Danubian culture extended as far
@@ -699,7 +699,7 @@ gaining control of the trade routes from Babylonia and Egypt.
 The eastward expansion of the Hittites was accompanied by a shrinkage of
 their power in the west. Reinforced by folk-waves from Thrace, the
 people of the Phrygian area then began to gather strength, and asserted
-themselves later as the Muski, <span id="fr_386"></span>[1](#fn_386) the
+themselves later as the Muski, <span id="fr_386"></span>[1](#fn_386.md) the
 forerunners of the historic Phrygians. The sixth city of Troy also came
 into prominence. It was contemporary with Mycenæ and Tiryns, and like
 these cities owed its rise to the fusion of Danubian and Ægean cultures,
@@ -810,66 +810,66 @@ Ionia, in whom the old Ægean blood and spirit most survived, taught the
 new Greece, gave her coined money and letters, art and poesy, and her
 shipmen, forcing the Phœnicians from before them, carried her new
 culture to what were then deemed the ends of the earth." <span
-id="fr_387"></span>[1](#fn_387)
+id="fr_387"></span>[1](#fn_387.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_368"></span>[314:1](moc19.htm#fr_368) In this tradition two
+<span id="fn_368"></span>[314:1](moc19.htm#fr_368.md) In this tradition two
 Semitic rulers, Sharrukin and the later Shargan-Sharri, were confused.
 
-<span id="fn_369"></span>[315:1](moc19.htm#fr_369) *Genesis*, xiv, 1-2.
+<span id="fn_369"></span>[315:1](moc19.htm#fr_369.md) *Genesis*, xiv, 1-2.
 
-<span id="fn_370"></span>[315:2](moc19.htm#fr_370) *Ibid*., xiv, 4 *et
+<span id="fn_370"></span>[315:2](moc19.htm#fr_370.md) *Ibid*., xiv, 4 *et
 seq*.
 
-<span id="fn_371"></span>[318:1](moc19.htm#fr_371) That is, non-Greeks.
+<span id="fn_371"></span>[318:1](moc19.htm#fr_371.md) That is, non-Greeks.
 
-<span id="fn_372"></span>[319:1](moc19.htm#fr_372) *Herodotus*, I, 173.
+<span id="fn_372"></span>[319:1](moc19.htm#fr_372.md) *Herodotus*, I, 173.
 
-<span id="fn_373"></span>[321:1](moc19.htm#fr_373) III, 46.
+<span id="fn_373"></span>[321:1](moc19.htm#fr_373.md) III, 46.
 
-<span id="fn_374"></span>[322:1](moc19.htm#fr_374) VIII, 2.
+<span id="fn_374"></span>[322:1](moc19.htm#fr_374.md) VIII, 2.
 
-<span id="fn_375"></span>[323:1](moc19.htm#fr_375) *History of the
+<span id="fn_375"></span>[323:1](moc19.htm#fr_375.md) *History of the
 Peloponnesian War*, I, 4, 5 (Richard Crawley's translation).
 
-<span id="fn_376"></span>[324:1](moc19.htm#fr_376) Breasted's *History
+<span id="fn_376"></span>[324:1](moc19.htm#fr_376.md) Breasted's *History
 of Egypt*. p. 319.
 
-<span id="fn_377"></span>[326:1](moc19.htm#fr_377) The Journal of
+<span id="fn_377"></span>[326:1](moc19.htm#fr_377.md) The Journal of
 Egyptian Archæology (January, 1914), pp. 18-19.
 
-<span id="fn_378"></span>[327:1](moc19.htm#fr_378) One theory is that
+<span id="fn_378"></span>[327:1](moc19.htm#fr_378.md) One theory is that
 Ictis is the Isle of Wight. Some geologists contend that at this period
 the island was not entirely cut off from the mainland. The Isle of
 Thanet has also been identified as Ictis. Another theory is that the
 reference is to St. Michael's Mount on the south coast of Cornwall,
 which is connected with the mainland at low water by a causeway.
 
-<span id="fn_379"></span>[328:1](moc19.htm#fr_379) Herodotus, VII, 170,
+<span id="fn_379"></span>[328:1](moc19.htm#fr_379.md) Herodotus, VII, 170,
 171.
 
-<span id="fn_380"></span>[329:1](moc19.htm#fr_380) *The Peloponnesian
+<span id="fn_380"></span>[329:1](moc19.htm#fr_380.md) *The Peloponnesian
 War*, I, 2-8.
 
-<span id="fn_381"></span>[329:2](moc19.htm#fr_381) Before 1375 B.C.
+<span id="fn_381"></span>[329:2](moc19.htm#fr_381.md) Before 1375 B.C.
 
-<span id="fn_382"></span>[330:1](moc19.htm#fr_382) *The Dawn of
+<span id="fn_382"></span>[330:1](moc19.htm#fr_382.md) *The Dawn of
 History*, p. 215.
 
-<span id="fn_383"></span>[330:2](moc19.htm#fr_383) *The Peloponnesian
+<span id="fn_383"></span>[330:2](moc19.htm#fr_383.md) *The Peloponnesian
 War*, I, 6-9.
 
-<span id="fn_384"></span>[331:1](moc19.htm#fr_384) *Ezekiel*, xvi, 3.
+<span id="fn_384"></span>[331:1](moc19.htm#fr_384.md) *Ezekiel*, xvi, 3.
 
-<span id="fn_385"></span>[332:1](moc19.htm#fr_385) *Iliad*, Book I,
+<span id="fn_385"></span>[332:1](moc19.htm#fr_385.md) *Iliad*, Book I,
 309-15 (Derby's translation).
 
-<span id="fn_386"></span>[333:1](moc19.htm#fr_386) Pronounced
+<span id="fn_386"></span>[333:1](moc19.htm#fr_386.md) Pronounced
 *Moosh'ke*. In the Old Testament they are referred to as "the Meshech"
 (*Ezekiel*, xxxii).
 
-<span id="fn_387"></span>[336:1](moc19.htm#fr_387) *The Ancient History
+<span id="fn_387"></span>[336:1](moc19.htm#fr_387.md) *The Ancient History
 of the Near East*, p. 79.

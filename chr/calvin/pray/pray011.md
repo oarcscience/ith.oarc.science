@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray010)  [Next](pray012) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray010)  [Next](pray012.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,17 +24,17 @@ as we learn from several passages in The Psalms. David, when presenting
 a request on a different subject, says, "Remember not the sins of my
 youth, nor my transgressions; according to thy mercy remember me, for
 thy goodness sake, O Lord" (<span id="iii.ix-p1.1"></span>[Psalm
-25:7](../../../bib/kjv/psa025.htm#007)<span id="iii.ix-p1.1"></span>).
+25:7](../../../bib/kjv/psa025.htm#007)<span id="iii.ix-p1.1"></span>.md).
 Again, "Look upon my affliction and my pain, and forgive my sins" (<span
 id="iii.ix-p1.2"></span>[Psalm
-25:18](../../../bib/kjv/psa025.htm#018)<span id="iii.ix-p1.2"></span>).
+25:18](../../../bib/kjv/psa025.htm#018)<span id="iii.ix-p1.2"></span>.md).
 Here also we see that it is not sufficient to call ourselves to account
 for the sins of each passing day; we must also call to mind those which
 might seem to have been long before buried in oblivion. For in another
 passage the same prophet, confessing one grievous crime, takes occasion
 to go back to his very birth, "I was shapen in iniquity, and in sin did
 my mother conceive me" (<span id="iii.ix-p1.3"></span>[Psalm
-51:5](../../../bib/kjv/psa051.htm#005)<span id="iii.ix-p1.3"></span>);
+51:5](../../../bib/kjv/psa051.htm#005)<span id="iii.ix-p1.3"></span>.md);
 not to extenuate the fault by the corruption of his nature, but as it
 were to accumulate the sins of his whole life, that the stricter he was
 in condemning himself, the more placable God might be. But although the
@@ -47,11 +47,11 @@ from presuming to lay his cares familiarly before God, that if he did
 not trust to mercy and pardon, he would tremble at the very thought of
 approaching him. There is, indeed, another special confession. When
 believers long for deliverance from punishment, they at the same time
-pray that their sins may be pardoned; <span id="fr_2"></span>[3](#fn_2)
+pray that their sins may be pardoned; <span id="fr_2"></span>[3](#fn_2.md)
 for it were absurd to wish that the effect should be taken away while
 the cause remains. For we must beware of imitating foolish patients who,
 anxious only about curing accidental symptoms, neglect the root of the
-disease. <span id="fr_3"></span>[4](#fn_3) Nay, our endeavour must be to
+disease. <span id="fr_3"></span>[4](#fn_3.md) Nay, our endeavour must be to
 have God propitious even before he attests his favour by external signs,
 both because this is the order which he himself chooses, and it were of
 little avail to experience his kindness, did not conscience feel that he
@@ -68,7 +68,7 @@ will never reach God unless they are founded on free mercy. To this we
 may refer the words of John, "If we confess our sins, he is faithful and
 just to forgive us our sins and to cleanse us from all unrighteousness"
 (<span id="iii.ix-p1.8"></span>[1 John
-1:9](../../../bib/kjv/jo1001.htm#009)<span id="iii.ix-p1.8"></span>).
+1:9](../../../bib/kjv/jo1001.htm#009)<span id="iii.ix-p1.8"></span>.md).
 Hence, under the law it was necessary to consecrate prayers by the
 expiation of blood, both that they might be accepted, and that the
 people might be warned that they were unworthy of the high privilege
@@ -79,12 +79,12 @@ confidence in prayer entirely on the mercy of God.
 
 ### Footnotes
 
-<span id="fn_2"></span>[3](pray011.htm#fr_2) <span
+<span id="fn_2"></span>[3](pray011.htm#fr_2.md) <span
 id="iii.ix-p1.4"></span>French, "<span id="iii.ix-p1.5"></span>il
 reconoissent le chastisement qu’ils ont merité;"—they acknowledge the
 punishment which they have deserved.
 
-<span id="fn_3"></span>[4](pray011.htm#fr_3) <span
+<span id="fn_3"></span>[4](pray011.htm#fr_3.md) <span
 id="iii.ix-p1.6"></span>The French adds, "<span
 id="iii.ix-p1.7"></span>Ils voudront qu’on leur oste le mal de tests et
 des reins, et seront contens qu’on ne touche point a la fievre;"—They
@@ -93,4 +93,4 @@ be contented to leave the fever untouched.
 
 ------------------------------------------------------------------------
 
-[Next: 10.](pray012)
+[Next: 10.](pray012.md)

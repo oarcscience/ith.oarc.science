@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](gpr01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](gpr01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Greek Popular Religion*, by Martin P. Nilsson, \[1940\], at Intangible
 Textual Heritage
 
@@ -37,10 +37,10 @@ notice of attribution is left intact in all copies.
 
 <span id="img_front"></span> <span align="CENTER"> [![DEMETER,
 TRIPTOLEMOS, AND KORE](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 DEMETER, TRIPTOLEMOS, AND KORE  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](gpr01)
+[Next: Foreword](gpr01.md)

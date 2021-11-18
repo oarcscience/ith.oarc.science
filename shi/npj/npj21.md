@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj20) 
-[Next](npj22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj20.md) 
+[Next](npj22.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,9 +22,9 @@ survived, while Seami's amended text is lost.
 It is well known that Buddhism forbids the taking of life, especially by
 cruel means or for sport. The cormorant-fisher's trade had long been
 considered particularly wicked, as is shown by an early folksong: <span
-id="fr_110"></span>[1](#fn_108)
+id="fr_110"></span>[1](#fn_108.md)
 
-"Woe to the [cormorant](errata.htm#2)-fisher  
+"Woe to the [cormorant](errata.htm#2.md)-fisher  
 Who binds the heads of his cormorants  
 And slays the tortoise whose span is ten thousand æons!  
 In this life he may do well enough,  
@@ -37,9 +37,9 @@ much earlier, seems to be the seed from which the Nō play Ukai grew.
 
 ### Footnotes
 
-<span id="fn_108"></span>[127:1](npj21.htm#fr_110) Ryōjin Hisshō, p.
+<span id="fn_108"></span>[127:1](npj21.htm#fr_110.md) Ryōjin Hisshō, p.
 135.
 
 ------------------------------------------------------------------------
 
-[Next: Ukai (the Cormorant-Fisher)](npj22)
+[Next: Ukai (the Cormorant-Fisher)](npj22.md)

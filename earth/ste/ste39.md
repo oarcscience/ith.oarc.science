@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste38)  [Next](ste40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste38)  [Next](ste40.md) 
 
 ------------------------------------------------------------------------
 
@@ -295,4 +295,4 @@ honour DIVINE PROVIDENCE.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](ste40)
+[Next: Chapter IX](ste40.md)

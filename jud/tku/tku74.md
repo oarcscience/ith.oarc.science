@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku73)  [Next](tku75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku73)  [Next](tku75.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ one Body with Him.
 called half a body. Now, no blessing can rest upon a mutilated and
 defective being, but only upon a perfect place and upon a perfect being,
 and not at all in an incomplete being. <span
-id="fr_299"></span>[1](#fn_296)
+id="fr_299"></span>[1](#fn_296.md)
 
 724\. And a semi-complete being cannot live for ever, neither can it
 receive blessing for ever.
@@ -82,7 +82,7 @@ birth*), and that whole body deriveth its nourishment from her.
 is She unto all the other inferiors.
 
 728\. It is written, Prov. vii. 4: "Say unto Chokmah, Thou art my
-sister." <span id="fr_300"></span>[2](#fn_297) For there is given one
+sister." <span id="fr_300"></span>[2](#fn_297.md) For there is given one
 Chokmah (*Male*), and there is also given another Chokmah (*Female*).
 
 729\. And this Woman is called the Lesser Chokmah in respect of the
@@ -103,7 +103,7 @@ becometh the Spouse whom the King taketh unto Himself.
 like towers."
 
 733\. "And my breasts," &c., since they are full with the nourishment of
-all things; <span id="fr_301"></span>[1](tku75.htm#fn_298) "like
+all things; <span id="fr_301"></span>[1](tku75.htm#fn_298.md) "like
 towers," because they are the great rivers which flow forth from Aima
 the Supernal.
 
@@ -111,7 +111,7 @@ the Supernal.
 
 ### Footnotes
 
-<span id="fn_296"></span>[335:1](tku74.htm#fr_299) This section is
+<span id="fn_296"></span>[335:1](tku74.htm#fr_299.md) This section is
 another all-sufficient proof of the teachings maintained throughout the
 Qabalah, namely, that Man and Woman are from the creation co-equal and
 co-existent, perfectly equal one with the other, This fact the
@@ -120,7 +120,7 @@ carefully suppressing every reference to the *Feminine portion of the
 Deity*, and by constantly translating feminine nouns by masculine. And
 this is the work of so-called religious men!
 
-<span id="fn_297"></span>[335:2](tku74.htm#fr_300) Chokmah. Wisdom, the
+<span id="fn_297"></span>[335:2](tku74.htm#fr_300.md) Chokmah. Wisdom, the
 second Sephirah, is Male in respect of Binah, but Female in respect of
 Kether. This is somewhat analogous to the Greek idea of the birth of
 Athena, Wisdom. from the brain of Zeus.
@@ -128,4 +128,4 @@ Athena, Wisdom. from the brain of Zeus.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXII: Concerning the Remaining Members of
-Microprosopus](tku75)
+Microprosopus](tku75.md)

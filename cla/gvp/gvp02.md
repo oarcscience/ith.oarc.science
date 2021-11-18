@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gvp01)  [Next](gvp03) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gvp01)  [Next](gvp03.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ ANNIE BESANT,
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Verses of Pythagoras](gvp03)
+[Next: The Golden Verses of Pythagoras](gvp03.md)

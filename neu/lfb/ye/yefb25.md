@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb24)  [Next](yefb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb24)  [Next](yefb26.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_141">p. 141</span>
 
-THE GLASS AXE <span id="fr_18"></span>[1](#fn_18)
+THE GLASS AXE <span id="fr_18"></span>[1](#fn_18.md)
 
 There was once upon a time a King and Queen who had everything they
 could possibly wish for in this world except a child.  At last, after
@@ -328,13 +328,13 @@ afterwards.
 
 ### Footnotes
 
-<span id="fn_18"></span>[141:1](yefb25.htm#fr_18) From the Hungarian.
+<span id="fn_18"></span>[141:1](yefb25.htm#fr_18.md) From the Hungarian.
 Kletke.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Dead Wife](yefb26)
+[Next: The Dead Wife](yefb26.md)
 
 </div>

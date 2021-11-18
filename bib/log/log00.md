@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Next](log01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Next](log01.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ attribution is left intact.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](log01)
+[Next: Contents](log01.md)

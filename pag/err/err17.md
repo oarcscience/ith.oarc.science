@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err16)  [Next](err18) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err16)  [Next](err18.md) 
 
 ------------------------------------------------------------------------
 
@@ -157,7 +157,7 @@ to a human being is common in witchcraft. Such is the following:--
 "To put misfortune (*il male auguro*) into a house, so that all things
 may go wrong, take a black cat and cut away all its skin, for so much as
 it suffers so much will the person suffer whom you would bewitch. <span
-id="fr_38"></span>[1](#fn_38) And letting the cat go, say:--
+id="fr_38"></span>[1](#fn_38.md) And letting the cat go, say:--
 
 "'Ti ho tagliato il pelo,  
 Perche tu mandi alla malora.'
@@ -433,7 +433,7 @@ the old woman with the torch in her hand is a classical character. But
 there is much strange lore as regards stones with holes in them which is
 worth studying. It begins apparently in India. There are found by the
 river Gundak in Nepaul, stones called *Salagrama*, which are regarded as
-very sacred. <span id="fr_39"></span>[1](#fn_39) Once when Vishnu the
+very sacred. <span id="fr_39"></span>[1](#fn_39.md) Once when Vishnu the
 Preserver was followed by Shiva the Destroyer he implored the aid of
 Maia (Illusion or Glamour) who turned him to a stone. Through this
 stone, Shiva, in the form of a worm, bored his way. But Vishnu escaped,
@@ -586,7 +586,7 @@ the similarity of names, we have the far more singular coincidence of
 worm-stones worshipped in both India and Italy. The Italian salagrana
 has not always, literally, holes in it, but it presents that granulated
 hole-like or corrugated appearance which is supposed to bewilder the
-evil eye. <span id="fr_40"></span>[1](#fn_40)
+evil eye. <span id="fr_40"></span>[1](#fn_40.md)
 
 #### THE SPELL OF THE SHELL AND THE TONE OF THE STONE
 
@@ -865,7 +865,7 @@ Feels less pain in his wounds--and for a time
 The burning agonies of fever cease."
 
 It is a good sign when cocks crow often through the night. <span
-id="fr_41"></span>[1](#fn_41) Which the Bœotians knew (PLINY, 1. 10, c.
+id="fr_41"></span>[1](#fn_41.md) Which the Bœotians knew (PLINY, 1. 10, c.
 25), and it inspired them so much that they conquered the Spartans. "For
 when the cock is beaten he does not crow." Which JOHANNES PRÆTORIUS
 declares is a fond and vain thing whereat all the people should say
@@ -1056,7 +1056,7 @@ But I throw the body and soul of . . .
     (Here the person is named)  
 That he may no more have peace or happiness  
 Until I have obtained this my desire!' <span
-id="fr_42"></span>[1](#fn_42))
+id="fr_42"></span>[1](#fn_42).md)
 
 "Then they must place their hands behind them and make the sign of the
 *castagna*, and not turn round to see the cup for a quarter of an hour;
@@ -1149,28 +1149,28 @@ or pioneers.
 
 ### Footnotes
 
-<span id="fn_38"></span>[329:1](err17.htm#fr_38) A bad trick has its
+<span id="fn_38"></span>[329:1](err17.htm#fr_38.md) A bad trick has its
 power greatly increased if the materials (red clover, sulphur, pounded
 glass, and red flannel, or the red seeds of the Indian turnip) are tied
 up in a bit of skin torn from the haunch of a live cat.--M. A. OWEN
 
-<span id="fn_39"></span>[334:1](err17.htm#fr_39) NORK,
+<span id="fn_39"></span>[334:1](err17.htm#fr_39.md) NORK,
 *Etmologisch-symbolisch*, *Mythologisches Realwörterbuch*, vol. iv., p.
 198. WILFORD, Asiatic Researches, vol. xiv., p. 413. FRIEDRICH, *Symb.
 der Natur*, p. 124. TEMME, *Volksagen v. Pommern und Rogen*, p. 125.
 Also a monograph pamphlet by G. OPPERT.
 
-<span id="fn_40"></span>[337:1](err17.htm#fr_40) This chapter on the
+<span id="fn_40"></span>[337:1](err17.htm#fr_40.md) This chapter on the
 *salagrana*, somewhat extended, was read as a paper before the Oriental
 Congress in London, 1891
 
-<span id="fn_41"></span>[343:1](err17.htm#fr_41) It is a very bad omen
+<span id="fn_41"></span>[343:1](err17.htm#fr_41.md) It is a very bad omen
 if you hear a cock crow before midnight. It betokens unpleasant
 surprises before the next night, so say all negroes.--Note by MARY A.
 OWEN
 
-<span id="fn_42"></span>[346:1](err17.htm#fr_42) *I.e.*, his love
+<span id="fn_42"></span>[346:1](err17.htm#fr_42.md) *I.e.*, his love
 
 ------------------------------------------------------------------------
 
-[Next: Part Two: Chapter V--THE AMETHYST](err18)
+[Next: Part Two: Chapter V--THE AMETHYST](err18.md)

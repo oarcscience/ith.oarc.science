@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](msh01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](msh01.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ London 1924.
 
 ------------------------------------------------------------------------
 
-[Next: Acknowledgment](msh01)
+[Next: Acknowledgment](msh01.md)

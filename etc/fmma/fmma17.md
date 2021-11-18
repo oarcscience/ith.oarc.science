@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma16)  [Next](fmma18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma16)  [Next](fmma18.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ king that ever wore the English crown.
 
 ------------------------------------------------------------------------
 
-[Next: Henry The Fowler. King From 919-936 A.D.](fmma18)
+[Next: Henry The Fowler. King From 919-936 A.D.](fmma18.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](numa02)  [Next](numa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](numa02)  [Next](numa04.md) 
 
 ------------------------------------------------------------------------
 
@@ -661,4 +661,4 @@ and were now at most merely emphasised by being worshipped separately.
 
 ------------------------------------------------------------------------
 
-[Next: The Reorganisation of Servius](numa04)
+[Next: The Reorganisation of Servius](numa04.md)

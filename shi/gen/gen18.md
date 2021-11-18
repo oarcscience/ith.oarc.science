@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen17)  [Next](gen19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen17)  [Next](gen19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -86,7 +86,7 @@ Ausaka, adding the following verse:—
 <span class="small">"As onward we our way did take,  
    On Meeting-Path, both I and you,  
   We met not, for by the saltless lake,  
-    No *milme* <span id="fr_124"></span>[1](#fn_123) by its waters
+    No *milme* <span id="fr_124"></span>[1](#fn_123.md) by its waters
 grew."</span>
 
 </div>
@@ -133,7 +133,7 @@ nun.
 
 ### Footnotes
 
-<span id="fn_123"></span>[209:1](gen18.htm#fr_124) The name of a
+<span id="fn_123"></span>[209:1](gen18.htm#fr_124.md) The name of a
 sea-weed, but also meaning the eyes that meet, and hence the twofold
 sense of the word.
 
@@ -141,6 +141,6 @@ sense of the word.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: Competitive Show of Pictures](gen19)
+[Next: Chapter XVII: Competitive Show of Pictures](gen19.md)
 
 </div>

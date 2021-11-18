@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray031)  [Next](pray033) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray031)  [Next](pray033.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,11 +21,11 @@ observance have no ground for the pretext, that they enter their chamber
 in order that they may obey the command of the Lord. For he who promises
 to grant whatsoever two or three assembled in his name shall ask (<span
 id="iii.xxx-p1.1"></span>[Matthew
-18:20](../../../bib/kjv/mat018.htm#020)<span id="iii.xxx-p1.1"></span>),
+18:20](../../../bib/kjv/mat018.htm#020)<span id="iii.xxx-p1.1"></span>.md),
 declares, that he by no means despises the prayers which are publicly
 offered up, provided there be no ostentation, or catching at human
 applause, and provided there be a true and sincere affection in the
-secret recesses of the heart. <span id="fr_15"></span>[16](#fn_15) If
+secret recesses of the heart. <span id="fr_15"></span>[16](#fn_15.md) If
 this is the legitimate use of churches (and it certainly is), we must,
 on the other hand, beware of imitating the practice which commenced some
 centuries ago, of imagining that churches are the proper dwellings of
@@ -36,7 +36,7 @@ would invoke God in his holy temple. Let us leave such gross ideas to
 the Jews or the heathen, knowing that we have a command to pray without
 distinction of place, "in spirit and in truth" (<span
 id="iii.xxx-p1.3"></span>[John
-4:23](../../../bib/kjv/joh004.htm#023)<span id="iii.xxx-p1.3"></span>).
+4:23](../../../bib/kjv/joh004.htm#023)<span id="iii.xxx-p1.3"></span>.md).
 It is true that by the order of God the temple was anciently dedicated
 for the offering of prayers and sacrifices, but this was at a time when
 the truth (which being now fully manifested, we are not permitted to
@@ -47,19 +47,19 @@ contemplate the image of the true temple. Accordingly, a severe rebuke
 is administered both by Isaiah and Stephen, to those who thought that
 God could in any way dwell in temples made with hands (<span
 id="iii.xxx-p1.4"></span>[Isaiah
-66:2](../../../bib/kjv/isa066.htm#002)<span id="iii.xxx-p1.4"></span>;
+66:2](../../../bib/kjv/isa066.htm#002.md)<span id="iii.xxx-p1.4"></span>;
 <span id="iii.xxx-p1.5"></span>[Acts
-7:48](../../../bib/kjv/act007.htm#048)<span id="iii.xxx-p1.5"></span>).
+7:48](../../../bib/kjv/act007.htm#048)<span id="iii.xxx-p1.5"></span>.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_15"></span>[16](pray032.htm#fr_15) <span
+<span id="fn_15"></span>[16](pray032.htm#fr_15.md) <span
 id="iii.xxx-p1.2"></span>See Book I. chap. xi. sec. 7,13, on the subject
 of images in churches. Also Book IV. chap. iv. sec. 8, and chap. v. sec.
 18, as to the ornaments of churches.
 
 ------------------------------------------------------------------------
 
-[Next: 31.](pray033)
+[Next: 31.](pray033.md)

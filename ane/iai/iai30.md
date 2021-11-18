@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai29)  [Next](iai31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai29)  [Next](iai31.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,20 +68,20 @@ While Erech's band their liveliest marches play:
 "If anyone to glory can lay claim  
 Among all chiefs and warriors of fame,  
 We Izdubar above them all proclaim  
-Our Izzu-Ul-bar <span id="fr_226"></span>[1](#fn_224) of undying fame.  
+Our Izzu-Ul-bar <span id="fr_226"></span>[1](#fn_224.md) of undying fame.  
               *Sar gabri la isu*,  
               *Sar-dannu bu-mas-lu*! <span
-id="fr_227"></span>[2](#fn_225)
+id="fr_227"></span>[2](#fn_225.md)
 
 He wears the diadem of Subartu,  
-From Bar-ili <span id="fr_228"></span>[3](#fn_226) he came to Eridu;  
+From Bar-ili <span id="fr_228"></span>[3](#fn_226.md) he came to Eridu;  
 Our giant monarch, who of all *barri* <span
-id="fr_229"></span>[4](#fn_227)  
+id="fr_229"></span>[4](#fn_227.md)  
 Can rival him, our Nin-arad *rabi*? <span
-id="fr_230"></span>[5](#fn_228)  
+id="fr_230"></span>[5](#fn_228.md)  
               *Sar-dannu ina mati basi*,  
               *Sar bu-mas-la e-mu-ki, nesi*. <span
-id="fr_231"></span>[6](#fn_229)
+id="fr_231"></span>[6](#fn_229.md)
 
 Through the grand halls of Erech far resounds  
 The feast their Sar proclaimed through all the grounds  
@@ -98,7 +98,7 @@ And dazzling glory on the feasters falls.
 The rays o'er gems and richest garments shone  
 Upon the lords and ladies round the throne;  
 While troops of dancing girls around them move  
-With [cymbals](errata.htm#0), harps and lutes, with songs of love.  
+With [cymbals](errata.htm#0.md), harps and lutes, with songs of love.  
 Again the board glows with rich food and wines,  
 Now spread before them till each man reclines  
 Upon his couch at rest in the far night,  
@@ -108,26 +108,26 @@ And swimming halls and wines pass from their sight.
 
 ### Footnotes
 
-<span id="fn_224"></span>[88:1](iai30.htm#fr_226) "Izzu-Ul-bar," the
+<span id="fn_224"></span>[88:1](iai30.htm#fr_226.md) "Izzu-Ul-bar," the
 fire of Bel's temple.
 
-<span id="fn_225"></span>[88:2](iai30.htm#fr_227) "The King who has no
+<span id="fn_225"></span>[88:2](iai30.htm#fr_227.md) "The King who has no
 rival. The powerful giant King." The royal titles of Izdubar.
 
-<span id="fn_226"></span>[88:3](iai30.htm#fr_228) "Bar-ili," temple, or
+<span id="fn_226"></span>[88:3](iai30.htm#fr_228.md) "Bar-ili," temple, or
 country of the gods.
 
-<span id="fn_227"></span>[88:4](iai30.htm#fr_229) "Barri," chieftains,
+<span id="fn_227"></span>[88:4](iai30.htm#fr_229.md) "Barri," chieftains,
 army, soldiers.
 
-<span id="fn_228"></span>[88:5](iai30.htm#fr_230) "Nin-arad rabi," "the
+<span id="fn_228"></span>[88:5](iai30.htm#fr_230.md) "Nin-arad rabi," "the
 servant of Nin, the King."
 
-<span id="fn_229"></span>[88:6](iai30.htm#fr_231) "Who is the great king
+<span id="fn_229"></span>[88:6](iai30.htm#fr_231.md) "Who is the great king
 (in the land) of all countries, the powerful giant king, the lion!" The
 royal titles of Izdubar.
 
 ------------------------------------------------------------------------
 
 [Next: Column VI. Ishtar Weaves A Mystic Spell over the King and
-Seer](iai31)
+Seer](iai31.md)

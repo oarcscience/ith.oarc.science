@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc45)  [Next](mtc47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc45)  [Next](mtc47.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -38,6 +38,6 @@ Soon I shall part with the flame of my red stove!
 
 ------------------------------------------------------------------------
 
-[Next: Good-Bye to the People of Hangchow](mtc47)
+[Next: Good-Bye to the People of Hangchow](mtc47.md)
 
 </div>

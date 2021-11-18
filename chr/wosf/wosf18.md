@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](wosf17)  [Next](wosf19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](wosf17)  [Next](wosf19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,17 +31,17 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
 THIS opuscule is composed of two parts: a paraphrase of the Lord's
 Prayer and the Praises properly so-called. It is contained in all the
 early MS. collections of St. Francis’ works <span
-id="fr_527"></span>[1](#fn_527) either in its entirety as it is given
+id="fr_527"></span>[1](#fn_527.md) either in its entirety as it is given
 here, or in part—that is, the Paraphrase without the Praises or vice
 versa. With the exception of a single codex which attributes the
 paternity of this paraphrase to the Blessed Brother Giles, <span
-id="fr_528"></span>[2](#fn_528) the third companion of St. Francis, the
+id="fr_528"></span>[2](#fn_528.md) the third companion of St. Francis, the
 MSS. authorities are unanimous in ascribing the entire work to St.
 Francis. This fact, taken in conjunction with the internal argument in
 its favor, puts the authority of the Praises beyond doubt, in the
 opinion of the Quaracchi editors. M. Sabatier is of like mind and even
-expresses regret <span id="fr_529"></span>[3](#fn_529) that Professor
-Boehmer <span id="fr_530"></span>[4](#fn_530) should have been
+expresses regret <span id="fr_529"></span>[3](#fn_529.md) that Professor
+Boehmer <span id="fr_530"></span>[4](#fn_530.md) should have been
 
 <span id="page_138">p. 138</span>
 
@@ -52,14 +52,14 @@ in favor of the genuinity of the complete opuscule now engaging our
 attention. In particular M. Sabatier applies to the present Praises what
 is said in the *Speculum* of the penance imposed by St. Francis on the
 brothers at Portiuncula for speaking idle words. <span
-id="fr_531"></span>[1](#fn_531)
+id="fr_531"></span>[1](#fn_531.md)
 
 The Quaracchi Fathers have edited the text of the Praises according to
 the Assisian, Antonian, and Isidorean (1/25) MSS. and have collated
 these early versions with the editions of the Praises given in the
 *Monumenta* (fol. 275 v), *Firmamenta* (fol. 18 v), and the *Liber
 Conformitatum* (fruct. xii, P. II, c. vi). <span
-id="fr_532"></span>[2](#fn_532) The result of their labors is here
+id="fr_532"></span>[2](#fn_532.md) The result of their labors is here
 translated as follows:—
 
 <span id="page_139">p. 139</span>
@@ -71,7 +71,7 @@ composed; and he said them at all the Hours of the day and night and
 before the Office of the Blessed Virgin Mary, beginning thus: "Our
 Father, most holy, who art in heaven," etc., with "Glory be to the
 Father." Then the Praises, Holy, Holy, etc., are to be said. <span
-id="fr_533"></span>[1](#fn_533)
+id="fr_533"></span>[1](#fn_533.md)
 
 *Our Father*, most holy, our Creator, Redeemer, and Comforter.
 
@@ -84,7 +84,7 @@ from whom is all good and without whom is no good.
 *Hallowed be Thy Name:* may Thy knowledge shine in us that we may know
 the breadth of Thy benefits, the length of Thy promises, the height of
 Thy majesty, and the depth of Thy judgments. <span
-id="fr_534"></span>[2](#fn_534)
+id="fr_534"></span>[2](#fn_534.md)
 
 *Thy Kingdom come*, that Thou mayest reign in us by grace and mayest
 make us come to Thy Kingdom, where there is the clear vision of Thee,
@@ -132,32 +132,32 @@ Glory be to the Father, etc.
  
 
 Holy, Holy, Holy, Lord God Almighty, who is and who was and who is to
-come. <span id="fr_535"></span>[1](#fn_535) Let us praise and exalt Him
-above all forever. <span id="fr_536"></span>[2](#fn_536)
+come. <span id="fr_535"></span>[1](#fn_535.md) Let us praise and exalt Him
+above all forever. <span id="fr_536"></span>[2](#fn_536.md)
 
 Worthy art Thou, O Lord, our God, to receive praise, glory and honor,
-and benediction. <span id="fr_537"></span>[3](#fn_537) Let us praise and
+and benediction. <span id="fr_537"></span>[3](#fn_537.md) Let us praise and
 exalt Him above all forever.
 
 The Lamb that was slain is worthy to receive power and divinity and
 wisdom and strength and honor and benediction. <span
-id="fr_538"></span>[4](#fn_538) Let us praise and exalt Him above all
+id="fr_538"></span>[4](#fn_538.md) Let us praise and exalt Him above all
 forever.
 
 Let us bless the Father and the Son with the Holy Ghost. Let us praise
 and exalt Him above all forever.
 
 All ye works of the Lord, bless ye the Lord. <span
-id="fr_539"></span>[5](#fn_539) Let us praise and exalt Him above all
+id="fr_539"></span>[5](#fn_539.md) Let us praise and exalt Him above all
 forever.
 
 Give praise to God all ye His servants and you that fear Him, little and
-great. <span id="fr_540"></span>[6](#fn_540) Let us praise and exalt Him
+great. <span id="fr_540"></span>[6](#fn_540.md) Let us praise and exalt Him
 above all forever.
 
 Let the heavens and the earth praise Him, the Glorious, and every
 creature which is in heaven and on earth and under the earth, in the
-seas and all that are in them. <span id="fr_541"></span>[7](#fn_541) Let
+seas and all that are in them. <span id="fr_541"></span>[7](#fn_541.md) Let
 us praise and exalt Him above all forever.
 
 <span id="page_142">p. 142</span>
@@ -179,28 +179,28 @@ all good to Thee. Amen.
 
 ### Footnotes
 
-<span id="fn_527"></span>[137:1](wosf18.htm#fr_527) It is found in the
+<span id="fn_527"></span>[137:1](wosf18.htm#fr_527.md) It is found in the
 Assisi MS. 338 and in the compilation beginning *Fac secundum exemplar*
 contained in the Berlin, Lemberg, Liegnitz MSS. and the Vatican codex
 4354, as well as in the other family of MSS. represented by the
 Ognissanti and Foligno MSS. and the codices of St. Isidore's (1/25) and
 the Vatican 7650.
 
-<span id="fn_528"></span>[137:2](wosf18.htm#fr_528) A fourteenth century
+<span id="fn_528"></span>[137:2](wosf18.htm#fr_528.md) A fourteenth century
 codex at St. Isidore's Rome (MS. 1/73, fol. 10 v). But I have not found
 it in any of the collections of Brother Giles’ *Dicta* which I have had
 occasion to consult in preparing the new English version of the same I
 hope soon to publish.
 
-<span id="fn_529"></span>[137:3](wosf18.htm#fr_529) See *Opuscules*,
+<span id="fn_529"></span>[137:3](wosf18.htm#fr_529.md) See *Opuscules*,
 fasc. x, pp. 136-537. As a postscript to his Examen M. Sabatier gives
 the text of the paraphrase of the *Our Father* after the rare edition of
 the *Speculum* (Morin).
 
-<span id="fn_530"></span>[137:4](wosf18.htm#fr_530) See *Analekten*, p.
+<span id="fn_530"></span>[137:4](wosf18.htm#fr_530.md) See *Analekten*, p.
 75.
 
-<span id="fn_531"></span>[138:1](wosf18.htm#fr_531) "He also ordained
+<span id="fn_531"></span>[138:1](wosf18.htm#fr_531.md) "He also ordained
 and ordered it to be strictly observed that any friar who either when
 doing nothing or at work with the others, uttered idle words, shall say
 one Our Father, praising God at the beginning and end of the prayer; and
@@ -218,29 +218,29 @@ where M. Sabatier, speaking of the relation of the *Speculum* to the
 Praises, says: "Les deux documents se correspondent, se corroborent et
 se garantissent l’un l’autre."
 
-<span id="fn_532"></span>[138:2](wosf18.htm#fr_532) The *Conformities*,
+<span id="fn_532"></span>[138:2](wosf18.htm#fr_532.md) The *Conformities*,
 edition of 1510, gives the complete text as the handiwork of St.
 Francis.
 
-<span id="fn_533"></span>[139:1](wosf18.htm#fr_533) Such is the rubric
+<span id="fn_533"></span>[139:1](wosf18.htm#fr_533.md) Such is the rubric
 which precedes the Praises in the Assisian MS.
 
-<span id="fn_534"></span>[139:2](wosf18.htm#fr_534) See Eph. 3: 18.
+<span id="fn_534"></span>[139:2](wosf18.htm#fr_534.md) See Eph. 3: 18.
 
-<span id="fn_535"></span>[141:1](wosf18.htm#fr_535) See Apoc. 4: 8.
+<span id="fn_535"></span>[141:1](wosf18.htm#fr_535.md) See Apoc. 4: 8.
 
-<span id="fn_536"></span>[141:2](wosf18.htm#fr_536) See Dan. 3: 57.
+<span id="fn_536"></span>[141:2](wosf18.htm#fr_536.md) See Dan. 3: 57.
 
-<span id="fn_537"></span>[141:3](wosf18.htm#fr_537) See Apoc. 4: 11.
+<span id="fn_537"></span>[141:3](wosf18.htm#fr_537.md) See Apoc. 4: 11.
 
-<span id="fn_538"></span>[141:4](wosf18.htm#fr_538) See Apoc. 5: 12.
+<span id="fn_538"></span>[141:4](wosf18.htm#fr_538.md) See Apoc. 5: 12.
 
-<span id="fn_539"></span>[141:5](wosf18.htm#fr_539) See Dan. 3: 57.
+<span id="fn_539"></span>[141:5](wosf18.htm#fr_539.md) See Dan. 3: 57.
 
-<span id="fn_540"></span>[141:6](wosf18.htm#fr_540) See Apoc. 19: 5.
+<span id="fn_540"></span>[141:6](wosf18.htm#fr_540.md) See Apoc. 19: 5.
 
-<span id="fn_541"></span>[141:7](wosf18.htm#fr_541) See Apoc. 5: 13.
+<span id="fn_541"></span>[141:7](wosf18.htm#fr_541.md) See Apoc. 5: 13.
 
 ------------------------------------------------------------------------
 
-[Next: II. Salutation of the Blessed Virgin](wosf19)
+[Next: II. Salutation of the Blessed Virgin](wosf19.md)

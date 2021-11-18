@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](idtc15)  [Next](idtc17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](idtc15)  [Next](idtc17.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Days To Come*, by Ashtar (Ethel P. Hill), \[1957\], at Intangible
 Textual Heritage
 
@@ -31,7 +31,7 @@ devotees of diabolical dogmas, many turn away and apply themselves to
 plans for their eradication. In this effort they will receive superhuman
 assistance.
 
-Following the [demolition](errata.htm#15) of destructive agencies,
+Following the [demolition](errata.htm#15.md) of destructive agencies,
 animate and inanimate, ye will concede the obvious
 
 <span id="page_80">p. 80</span>
@@ -58,7 +58,7 @@ startling new facts regarding invisible forces, extremely powerful and
 yet (how wisely!) impossible to contact, or even apprehend from an
 intellectual standpoint, save by one elevated to a high level of
 spiritual awareness of the inviolable sanctity of any knowledge touching
-on energies [emanating](errata.htm#16) from Divinity Itself!
+on energies [emanating](errata.htm#16.md) from Divinity Itself!
 
 <span id="page_81">p. 81</span>
 
@@ -72,7 +72,7 @@ inspection would necessarily be done by a very advanced mentor or
 specialist appointed for the task. The person whose past record be
 subjected to such scrutiny be not consulted or conscious of the
 procedure. We might interject the comment that many
-[highly](errata.htm#17) evolved men and women now on earth have
+[highly](errata.htm#17.md) evolved men and women now on earth have
 undergone such an investigation and have been approved for admittance to
 the tutelage of adepts, awaiting only the moment of the world's
 emancipation from the domination of destructive forces to begin their
@@ -183,4 +183,4 @@ ASHTAR
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](idtc17)
+[Next: Chapter XV](idtc17.md)

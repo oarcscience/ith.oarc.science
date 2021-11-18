@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah08)  [Next](toah10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah08)  [Next](toah10.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ in a short time.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. How the Spaniards Came to Shung-opovi, How They
-Built a Mission, and How the Hopi Destroyed the Mission](toah10)
+Built a Mission, and How the Hopi Destroyed the Mission](toah10.md)

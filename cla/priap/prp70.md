@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp69)  [Next](prp71) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp69)  [Next](prp71.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ thief, and calculate what weight of mentule will be voided by thee.
 
 ------------------------------------------------------------------------
 
-[Next: 71. A starveling stranger made me laughing-stock](prp71)
+[Next: 71. A starveling stranger made me laughing-stock](prp71.md)

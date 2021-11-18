@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah10)  [Next](toah12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah10)  [Next](toah12.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ long. Finally the Spanish came. When they did come, instead of going up
 to the village they camped about three-fourths of a mile below the old
 Shung-opovi town and the whole village was in terror. The chief went
 down to the camp to ask them if they had come then to be friends, or to
-destroy. [25](toah24.htm#xref_25)
+destroy. [25](toah24.htm#xref_25.md)
 
 The captain of the army told him that they had only come for the guilty.
 Then the chief said that the whole village was guilty, because everybody
@@ -85,7 +85,7 @@ The new chief took everything in his hands and went down with some of
 his men and buried the dead. Each man was buried with his possessions,
 turquoise and shell beads. In those days the father's relatives would
 give presents of pottery to be buried with the dead. So they were buried
-with all those things. [26](toah24.htm#xref_26)
+with all those things. [26](toah24.htm#xref_26.md)
 
 Now the people of Shung-opovi had lived in the same village until the
 Spanish came back. Then the Strap Clan leader led the people to the top
@@ -108,7 +108,7 @@ they have remained the royal family ever since.
 
 About this time another company of Spanish soldiers came and old
 Mishongnovi was still inhabited at that time, for all the people had not
-yet moved up on top. [27](toah24.htm#xref_27) They stopped on the other
+yet moved up on top. [27](toah24.htm#xref_27.md) They stopped on the other
 side of Mishongnovi and asked the chief if he would make an agreement to
 let them in. He refused them four times. Then the captain of the Spanish
 soldiers said he had to destroy their village. Of course the people were
@@ -126,7 +126,7 @@ this was done they selected four different kinds of pahos and then
 wrapped cotton yarn over them. It made a round roll, about 10 inches
 long and about eight inches in diameter. With this they blocked up the
 water hole. Then in front of it they put a plaque and sealed it up
-around the edges with sweet cornmeal mush. [29](toah24.htm#xref_29) They
+around the edges with sweet cornmeal mush. [29](toah24.htm#xref_29.md) They
 did this so that if the Spanish ever came back they would find no water
 there. This spring was to be opened up when the good white man or his
 brother came back, but today nobody knows just where the spring really
@@ -170,4 +170,4 @@ the people still go to Shung-opovi for their initiation ceremonies
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Return of the Bahana, the White Man](toah12)
+[Next: Chapter X. The Return of the Bahana, the White Man](toah12.md)

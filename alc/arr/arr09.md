@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr08)  [Next](arr10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr08)  [Next](arr10.md) 
 
 ------------------------------------------------------------------------
 
@@ -265,4 +265,4 @@ and then to have disappeared into the blue and so out of history.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: English Alchemists](arr10)
+[Next: Chapter VII: English Alchemists](arr10.md)

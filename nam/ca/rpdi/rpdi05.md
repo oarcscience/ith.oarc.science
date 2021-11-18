@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi04)  [Next](rpdi06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi04)  [Next](rpdi06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ head and one at the foot of the reclining girls, and dance. This dancing
 is done by rising on the toes and dropping back on the heels in time to
 the music. Their hands are at times held out in front, palm upwards,
 with forearm stiff. At other times they hang loosely. The position is
-shown in [pl. 26, fig. 1](rpdi27.htm#img_pl26). It was impossible, owing
+shown in [pl. 26, fig. 1](rpdi27.htm#img_pl26.md). It was impossible, owing
 to the long skirt worn when the photograph was taken, to determine
 whether or not the toes are ever lifted from the ground.
 
@@ -189,28 +189,28 @@ at-Pueblo Ariwa also <span id="fr_51"></span><a href="#fn_51">48</a></span></p>
 
 ### Footnotes
 
-<span id="fn_45"></span>[290:42](rpdi05.htm#fr_45) University of
+<span id="fn_45"></span>[290:42](rpdi05.htm#fr_45.md) University of
 California phonograph record 729.
 
-<span id="fn_46"></span>[290:43](rpdi05.htm#fr_46) These words aitco
+<span id="fn_46"></span>[290:43](rpdi05.htm#fr_46.md) These words aitco
 tcaxpo are said to be "in the language of San Dieguito." Nothing further
 is known of a dialect there.
 
-<span id="fn_47"></span>[291:44](rpdi05.htm#fr_47) University of
+<span id="fn_47"></span>[291:44](rpdi05.htm#fr_47.md) University of
 California phonograph record 728.
 
-<span id="fn_48"></span>[291:45](rpdi05.htm#fr_48) "Mexican" is said to
+<span id="fn_48"></span>[291:45](rpdi05.htm#fr_48.md) "Mexican" is said to
 have been applied to these people as a term of reproach.
 
-<span id="fn_49"></span>[291:46](rpdi05.htm#fr_49) The word was not
+<span id="fn_49"></span>[291:46](rpdi05.htm#fr_49.md) The word was not
 translated by the informant. Haminyo means sandal in Mohave.
 
-<span id="fn_50"></span>[291:47](rpdi05.htm#fr_50) University of
+<span id="fn_50"></span>[291:47](rpdi05.htm#fr_50.md) University of
 California phonograph record 748.
 
-<span id="fn_51"></span>[291:48](rpdi05.htm#fr_51) Place-names in
+<span id="fn_51"></span>[291:48](rpdi05.htm#fr_51.md) Place-names in
 Spanish have been introduced into this song.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion of the Girls’ Ceremony](rpdi06)
+[Next: Conclusion of the Girls’ Ceremony](rpdi06.md)

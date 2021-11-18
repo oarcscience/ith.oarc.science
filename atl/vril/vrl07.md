@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl06)  [Next](vrl08) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl06)  [Next](vrl08.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ interdicted.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER IX](vrl08)
+[Next: CHAPTER IX](vrl08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst008)  [Next](inst010) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst008)  [Next](inst010.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,11 +57,11 @@ well by the declared enemies of the truth of God, as by many worthless
 persons who have crept into his Church—as well by monks who have brought
 forth their frocks from their cloisters to spread infection wherever
 they come, as by other miscreants not better than they5  <span
-id="fr_46"></span>[47](#fn_46) \]. After this letter to the reader was
+id="fr_46"></span>[47](#fn_46.md) \]. After this letter to the reader was
 in the press, I had undoubted information that, at Augsburg, where the
 Imperial Diet was held, a rumour of my defection to the papacy was
 circulated, and entertained in the courts of the princes more readily
-than might have been expected.5  <span id="fr_47"></span>[48](#fn_47)
+than might have been expected.5  <span id="fr_47"></span>[48](#fn_47.md)
 This, forsooth, is the return made me by those who certainly are not
 unaware of numerous proofs of my constancy—proofs which, while they
 rebut the foul charge, ought to have defended me against it, with all
@@ -107,7 +107,7 @@ profiting, write, and by writing profit.”—*Augustine*, Epist. 7.
 
 ### Footnotes
 
-<span id="fn_46"></span>[47](inst009.htm#fr_46) <span
+<span id="fn_46"></span>[47](inst009.htm#fr_46.md) <span
 id="ii.viii-p3.1"></span>
 
 <span id="ii.viii-p4"></span>1 51 The passage in brackets occurs only in
@@ -117,7 +117,7 @@ sont fourrez en son Eglise: tant des Moines qui ont apporté leurs frocs
 hors de leurs cloistres pour infecter le lieu o˜ ils venoyent, que
 d’autres vilains qui ne valent pas mieux qu’eux.”
 
-<span id="fn_47"></span>[48](inst009.htm#fr_47) <span
+<span id="fn_47"></span>[48](inst009.htm#fr_47.md) <span
 id="ii.viii-p4.1"></span>
 
 <span id="ii.viii-p5"></span>2 52 The words in the French are, “Avec
@@ -129,4 +129,4 @@ it had been so.
 
 ------------------------------------------------------------------------
 
-[Next: METHOD AND ARRANGEMENT,OR SUBJECT OF THE WHOLE WORK.](inst010)
+[Next: METHOD AND ARRANGEMENT,OR SUBJECT OF THE WHOLE WORK.](inst010.md)

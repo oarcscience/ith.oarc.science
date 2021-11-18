@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml38)  [Next](eml40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml38)  [Next](eml40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -41,7 +41,7 @@ one against his brother, and every one against his neighbour; city
 against city, and kingdom against kingdom. And the spirit of Egypt shall
 fail in the midst thereof. . . . The brooks of defence shall be emptied
 and dried up; the reeds and flags shall wither. The paper reeds <span
-id="fr_165"></span>[1](#fn_164) by the brooks, by the mouth of the
+id="fr_165"></span>[1](#fn_164.md) by the brooks, by the mouth of the
 brooks, and everything sown by the brooks, shall wither, be driven away,
 and be no more. The fishers also shall mourn, and all they that cast
 angle into the brooks shall lament, and they that spread nets upon the
@@ -101,10 +101,10 @@ Thus the Hebrews at the very beginning of their history as a nation had
 experience of a commercial "corner", which developed their business
 instincts, no doubt. Their teachers were Europeans who represented one
 of the world's oldest civilizations. <span
-id="fr_166"></span>[1](#fn_165) The oppression which they endured welded
+id="fr_166"></span>[1](#fn_165.md) The oppression which they endured welded
 together the various tribes, and under Saul the Hebrews made common
 cause against the Philistines. When handsome, red-cheeked David, <span
-id="fr_167"></span>[2](#fn_166) who had probably a foreign strain in his
+id="fr_167"></span>[2](#fn_166.md) who had probably a foreign strain in his
 blood, had consolidated Judah and Israel, the dominance of the Cretan
 settlers came to an end; they were restricted to the sea coast, and they
 ceased to have a monopoly of iron. Solomon, the chosen of the priests,
@@ -234,7 +234,7 @@ Israelites--"the ten lost tribes"--
 <span id="page_358">p. 358</span>
 
 between Mesopotamia and the Median highlands. <span
-id="fr_168"></span>[1](#fn_167) Large numbers of troublesome peoples
+id="fr_168"></span>[1](#fn_167.md) Large numbers of troublesome peoples
 were drafted from Babylonia into Samaria, where they mingled with the
 remnants of the tribes which remained. Thus came to an end the kingdom
 of the northern Hebrews; that of Judah--the kingdom of the
@@ -253,7 +253,7 @@ being threatened by a confederacy of Chaldeans, Elamites, and Aramæans;
 a pretender even arose in Babylon, and Sennacherib's brother, the
 governor, was murdered, and the city had to be besieged and captured.
 This "pretender", Merodach-Baladan, <span
-id="fr_169"></span>[2](#fn_168) had been concerned in the Egypto-Syrian
+id="fr_169"></span>[2](#fn_168.md) had been concerned in the Egypto-Syrian
 alliance, and Sennacherib found it necessary to push westward, as soon
 as he had overrun Chaldea, to deal with the great revolt. He conquered
 Phœnicia, with the
@@ -320,7 +320,7 @@ entertained great contempt for the Egyptians. "Lo, thou trustest in the
 staff of this broken reed, on Egypt; whereon if a man lean, it will go
 into his hand and pierce it" (*Isaiah*, xxxvi, 6) . . . . "The princes
 of Zoan" (Tanis), he said, "are become fools, and the princes of Noph
-(Memphis <span id="fr_170"></span>[1](#fn_169)) are deceived" (*Isaiah*,
+(Memphis <span id="fr_170"></span>[1](#fn_169).md) are deceived" (*Isaiah*,
 xix, 13). He foretold the fall of Tyre and the subjection of Egypt, and
 admonished the pro-Egyptians of Judah, saying: "Woe to the rebellious
 children . . . that walk into Egypt . . . to strengthen themselves in
@@ -340,7 +340,7 @@ house of Judah" (*2 Kings*, xix, 30).
 
 After Sennacherib was murdered, as the result of a revolt which
 disturbed Babylon, his son, Assar-haddon, <span
-id="fr_171"></span>[1](#fn_170) had to deal with another western rising
+id="fr_171"></span>[1](#fn_170.md) had to deal with another western rising
 fomented by that scheming Ethiopian Pharaoh Taharka, who was riding
 speedily on the road to ruin.
 
@@ -398,15 +398,15 @@ mighty Emperor Ashur-banipal of Assyria.
 
 ### Footnotes
 
-<span id="fn_164"></span>[352:1](eml39.htm#fr_165) Papyri.
+<span id="fn_164"></span>[352:1](eml39.htm#fr_165.md) Papyri.
 
-<span id="fn_165"></span>[354:1](eml39.htm#fr_166) "The remnant of the
+<span id="fn_165"></span>[354:1](eml39.htm#fr_166.md) "The remnant of the
 country of Caphtor" (Crete).--*Jeremiah*, xlvii, 4.
 
-<span id="fn_166"></span>[354:2](eml39.htm#fr_167) "A youth and ruddy
+<span id="fn_166"></span>[354:2](eml39.htm#fr_167.md) "A youth and ruddy
 and of a fair countenance" (*1 Samuel* xvii, 42).
 
-<span id="fn_167"></span>[358:1](eml39.htm#fr_168) These tribes were
+<span id="fn_167"></span>[358:1](eml39.htm#fr_168.md) These tribes were
 worshippers of the "golden calf". There is no proof that they were not
 absorbed by the peoples among whom they settled. A good story is told of
 a well-known archæologist. He was approached by a lady who supports the
@@ -414,22 +414,22 @@ view that the British are descended from the "ten lost tribes". "I am
 not an Anglo-Israelite," he said; "I am afraid I am an
 Anglo-Philistine".
 
-<span id="fn_168"></span>[358:2](eml39.htm#fr_169) He "sent letters and
+<span id="fn_168"></span>[358:2](eml39.htm#fr_169.md) He "sent letters and
 a present to Hezekiah" (Isaiah, xxxix, 1). The shadow of the sundial of
 Ahaz had gone "ten degrees backward". According to an astronomical
 calculation there was a partial eclipse of the sun-of the upper
 part--which was visible at Jerusalem on 11 January, 689, B.C., about
 11-30 a.m. (See also a *Chronicles*, xxxii.)
 
-<span id="fn_169"></span>[360:1](eml39.htm#fr_170) Or Napata, in
+<span id="fn_169"></span>[360:1](eml39.htm#fr_170.md) Or Napata, in
 Ethiopia.
 
-<span id="fn_170"></span>[361:1](eml39.htm#fr_171) Or Esarhaddon
+<span id="fn_170"></span>[361:1](eml39.htm#fr_171.md) Or Esarhaddon
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX: The Restoration and the End](eml40)
+[Next: Chapter XXIX: The Restoration and the End](eml40.md)
 
 </div>

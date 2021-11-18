@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio42)  [Next](dio44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio42)  [Next](dio44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -186,7 +186,7 @@ be honoured together with the devout soul."
 Hierotheus, we give an extract from his letter to Gregory: "Would that
 you might both participate in and continually augment this part, so that
 you may not only say, ‘we are partakers of Christ,’ but also partakers
-of God." Papias <span id="fr_147"></span>[148](#fn_147) , Bishop of
+of God." Papias <span id="fr_147"></span>[148](#fn_147.md) , Bishop of
 Hierapolis (fragment V.) says, "the Presbyters, the disciples of the
 Apostles, say that this is the gradation and method of those who are
 saved, and that they advance through steps of this nature, and that,
@@ -194,7 +194,7 @@ moreover, they ascend through the Spirit to the Son, and through the Son
 to the Father; and that, in due time, the Son will yield up His work to
 the Father." Who the *Presbyters, the disciples of* the Apostles were,
 we may gather from the three last chapters of the "Book of
-Hierotheus <span id="fr_148"></span>[149](#fn_148) ," in which the very
+Hierotheus <span id="fr_148"></span>[149](#fn_148.md) ," in which the very
 same doctrine is taught. Is it not, then, a legitimate inference, that
 when Photius says " that <span id="page_xii">p. xii</span> <span
 id="iv.i.iv-Page_xii"></span>Pantaenus was a pupil of *the Presbyters
@@ -350,7 +350,7 @@ similarity of doctrine is denied by none. Which writings appeared first?
 *that* is the question.
 
 <span id="iv.i.iv-p27"></span>Dexter commemorates the "Divine Names"
-a.d. 98 <span id="fr_149"></span>[150](#fn_149) .
+a.d. 98 <span id="fr_149"></span>[150](#fn_149.md) .
 
 <span id="iv.i.iv-p28"></span>Polycarp quotes Dionysius verbatim as "a
 certain one." Jerome quotes him as "<span
@@ -428,15 +428,15 @@ see "Celestial and Ecclesiastical Hierarchy." (Skeffington, 2*s*. 6*d.*)
 
 ### Footnotes
 
-<span id="fn_147"></span>[xi:148](dio43.htm#fr_147) <span
+<span id="fn_147"></span>[xi:148](dio43.htm#fr_147.md) <span
 id="iv.i.iv-p14.1"></span>c. 140.
 
-<span id="fn_148"></span>[xi:149](dio43.htm#fr_148) <span
+<span id="fn_148"></span>[xi:149](dio43.htm#fr_148.md) <span
 id="iv.i.iv-p14.2"></span>Br. Mus. (Ad. Rich. 7189)
 
-<span id="fn_149"></span>[xvii:150](dio43.htm#fr_149) <span
+<span id="fn_149"></span>[xvii:150](dio43.htm#fr_149.md) <span
 id="iv.i.iv-p27.1"></span>From Tabularia of Toledo, a.d. 98.
 
 ------------------------------------------------------------------------
 
-[Next: Caput I.](dio44)
+[Next: Caput I.](dio44.md)

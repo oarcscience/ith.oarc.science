@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mod02)  [Next](mod04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mod02)  [Next](mod04.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ He is begging forgiveness of the people for these words.
 
 ------------------------------------------------------------------------
 
-[Next: The Impiety of the Frog](mod04)
+[Next: The Impiety of the Frog](mod04.md)

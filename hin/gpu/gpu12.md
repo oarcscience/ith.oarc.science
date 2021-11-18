@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu11)  [Next](gpu13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu11)  [Next](gpu13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ released from the hereditary debt.
 
 3\. There is no need for numerous gifts, but one should perform the
 funeral ceremonies for his parents; the son who does so obtains fruit
-like that of the Agniṣṭoma. <span id="fr_95"></span>[1](#fn_93)
+like that of the Agniṣṭoma. <span id="fr_95"></span>[1](#fn_93.md)
 
 4-6. Then the son, abandoning sorrow, should have the shave, along with
 all his relatives, in order to remove all sins.
@@ -63,7 +63,7 @@ offer them. By this the earth and its presiding deity become pleased.
 become a traveller; by this the evil ones amongst the tens of millions
 of elementals can do no harm.
 
-11-13. Then the daughter-in-law <span id="fr_96"></span>[1](#fn_94) and
+11-13. Then the daughter-in-law <span id="fr_96"></span>[1](#fn_94.md) and
 others should go round it and worship it; then along with the other
 relatives the son should bear it on his shoulder.
 
@@ -91,7 +91,7 @@ some earth and erected an altar and sprinkled it with water, and having
 placed the fire as prescribed,
 
 And having worshipped with flowers and coloured rice the Shining One
-known as the eater of flesh, <span id="fr_97"></span>[1](#fn_95) he
+known as the eater of flesh, <span id="fr_97"></span>[1](#fn_95.md) he
 should make an oblation as prescribed, beginning with 'loman,'--
 
 "Oh, Thou, Supporter of Beings, Womb of the World, Nourisher of
@@ -119,13 +119,13 @@ otherwise the above-mentioned come to disturb.
 
 24\. The son, having dedicated five rice-balls to the departed, and
 having brought the oblation with the grasses, should give them to the
-fire, if there is not Pañchaka. <span id="fr_98"></span>[1](#fn_96)
+fire, if there is not Pañchaka. <span id="fr_98"></span>[1](#fn_96.md)
 
 25-27. Who dies in the Pañchaka does not attain a good condition.
 Burning should not be done then; if it is done, another death occurs.
 
 Beginning from the middle of Dhaniṣṭhā, in the five Pañchaka mansions
-ending with Revatī <span id="fr_99"></span>[2](#fn_97) is not a suitable
+ending with Revatī <span id="fr_99"></span>[2](#fn_97.md) is not a suitable
 time for burning. If burning takes place, evil occurs.
 
 Harm befalls the house in which death takes place in the Rikṣa mansion,
@@ -154,23 +154,23 @@ Who, after having thus performed the pacificatory ceremonies, does the
 burning,--no harm befalls him; and the departed goes to the supreme
 condition.
 
- <span id="fr_100"></span>[87-34](#fn_98)
+ <span id="fr_100"></span>[87-34](#fn_98.md)
 
- <span id="fr_101"></span>[87-35](#fn_99)
+ <span id="fr_101"></span>[87-35](#fn_99.md)
 
 <span id="page_88">p. 88</span>
 
- <span id="fr_102"></span>[88-41](#fn_100)
+ <span id="fr_102"></span>[88-41](#fn_100.md)
 
- <span id="fr_103"></span>[88-42](#fn_101)
+ <span id="fr_103"></span>[88-42](#fn_101.md)
 
- <span id="fr_104"></span>[88-46](#fn_102)
+ <span id="fr_104"></span>[88-46](#fn_102.md)
 
 <span id="page_89">p. 89</span>
 
- <span id="fr_105"></span>[89-48](#fn_103)
+ <span id="fr_105"></span>[89-48](#fn_103.md)
 
- <span id="fr_106"></span>[89-53](#fn_104)
+ <span id="fr_106"></span>[89-53](#fn_104.md)
 
 <span id="page_90">p. 90</span>
 
@@ -179,10 +179,10 @@ the case of householders with a piece of wood, in that of ascetics with
 a cocoanut.
 
 His son, so that he may attain the world of the forefathers, having
-split open the brahmarandra <span id="fr_107"></span>[1](#fn_105) should
+split open the brahmarandra <span id="fr_107"></span>[1](#fn_105.md) should
 make an oblation of clarified butter with this mantra:
 
-"Thou art born from him; <span id="fr_108"></span>[2](#fn_106) may he be
+"Thou art born from him; <span id="fr_108"></span>[2](#fn_106.md) may he be
 born again from you. He is an offering to the heaven-world. O Fire,
 blaze forth!"
 
@@ -214,7 +214,7 @@ been forsaken by relatives. Here is milk and here water; bathe and
 drink!"
 
 67\. On the fourth day the collection <span
-id="fr_109"></span>[1](#fn_107) should be made, by those who maintain
+id="fr_109"></span>[1](#fn_107.md) should be made, by those who maintain
 household fires, and by those who do not. If there is nothing to
 prevent, on the second or the third day he should do as follows:
 
@@ -222,7 +222,7 @@ prevent, on the second or the third day he should do as follows:
 
 68-78. Having gone to the burning-ground, having bathed and become pure,
 having put on a woollen garment, and wearing the sacred ring, <span
-id="fr_110"></span>[1](#fn_108)
+id="fr_110"></span>[1](#fn_108.md)
 
 The son should make the grain oblation to the denizens of the
 burning-ground, and walk round three times, repeating the mantra
@@ -272,11 +272,11 @@ dead, his sin is at once destroyed.
 
 Having worshipped, with great austerities, the divine Ganges, for the
 uplifting of his forefathers, Bhagīratha <span
-id="fr_111"></span>[1](#fn_109) brought her down from the world of
+id="fr_111"></span>[1](#fn_109.md) brought her down from the world of
 Brahmā.
 
 In the three worlds is celebrated the purifying fame of the Ganges, who
-led to heaven the sons of Sagara <span id="fr_112"></span>[2](#fn_110)
+led to heaven the sons of Sagara <span id="fr_112"></span>[2](#fn_110.md)
 who had been reduced to ashes.
 
 Those men who die after committing sins attain the heaven-world by their
@@ -302,7 +302,7 @@ Having made an effigy of darbha grass, one should burn it alone, as
 explained above, and then collect its ashes and drop them into the water
 of the Ganges,
 
-And from the same day the ten-days' [ceremonies](errata.htm#7) should be
+And from the same day the ten-days' [ceremonies](errata.htm#7.md) should be
 performed and that date should be noted, for the performance of the
 annual Śrāddha.
 
@@ -354,7 +354,7 @@ of a cow should be made.
 ten-days' ceremonies should not be performed for them by their sons.
 
 A man, by the mere holding of the staff, becomes Nārāyaṇa <span
-id="fr_113"></span>[1](#fn_111); because of carrying the three-fold
+id="fr_113"></span>[1](#fn_111.md); because of carrying the three-fold
 staff they never go into the condition of the departed.
 
 Those who know are always free, by realisation of their own true nature,
@@ -365,7 +365,7 @@ should perform the annual Śrāddha at the sacred waters, and Śrāddha at
 Gayā, with devotion to the forefathers.
 
 The Haṅsa, Paramahaṅsa, Kutīchaka, Bahūdaka; these are Sannyāsins, <span
-id="fr_114"></span>[2](#fn_112) O Tārkṣya, and when dead, they must be
+id="fr_114"></span>[2](#fn_112.md) O Tārkṣya, and when dead, they must be
 buried in the ground.
 
 If the Ganges, or other, is not available, it is declared that they
@@ -376,67 +376,67 @@ thrown into them.
 
 ### Footnotes
 
-<span id="fn_93"></span>[83:1](gpu12.htm#fr_95) A certain sacrifice.
+<span id="fn_93"></span>[83:1](gpu12.htm#fr_95.md) A certain sacrifice.
 
-<span id="fn_94"></span>[84:1](gpu12.htm#fr_96) His son's wife--the wife
+<span id="fn_94"></span>[84:1](gpu12.htm#fr_96.md) His son's wife--the wife
 of the son performing the rite.
 
-<span id="fn_95"></span>[85:1](gpu12.htm#fr_97) The fire-deva.
+<span id="fn_95"></span>[85:1](gpu12.htm#fr_97.md) The fire-deva.
 
-<span id="fn_96"></span>[86:1](gpu12.htm#fr_98) A certain astrological
+<span id="fn_96"></span>[86:1](gpu12.htm#fr_98.md) A certain astrological
 position; 5 days in each month.
 
-<span id="fn_97"></span>[86:2](gpu12.htm#fr_99) The fifth Nakṣatra.
+<span id="fn_97"></span>[86:2](gpu12.htm#fr_99.md) The fifth Nakṣatra.
 
-<span id="fn_98"></span>[87:87-34](gpu12.htm#fr_100) <span
+<span id="fn_98"></span>[87:87-34](gpu12.htm#fr_100.md) <span
 id="img_08700"></span> ![](img/08700.jpg)
 
-<span id="fn_99"></span>[87:87-35](gpu12.htm#fr_101) <span
+<span id="fn_99"></span>[87:87-35](gpu12.htm#fr_101.md) <span
 id="img_08701"></span> ![](img/08701.jpg)
 
-<span id="fn_100"></span>[88:88-41](gpu12.htm#fr_102) <span
+<span id="fn_100"></span>[88:88-41](gpu12.htm#fr_102.md) <span
 id="img_08800"></span> ![](img/08800.jpg)
 
-<span id="fn_101"></span>[88:88-42](gpu12.htm#fr_103) <span
+<span id="fn_101"></span>[88:88-42](gpu12.htm#fr_103.md) <span
 id="img_08801"></span> ![](img/08801.jpg)
 
-<span id="fn_102"></span>[88:88-46](gpu12.htm#fr_104) <span
+<span id="fn_102"></span>[88:88-46](gpu12.htm#fr_104.md) <span
 id="img_08802"></span> ![](img/08802.jpg)
 
-<span id="fn_103"></span>[89:89-48](gpu12.htm#fr_105) <span
+<span id="fn_103"></span>[89:89-48](gpu12.htm#fr_105.md) <span
 id="img_08900"></span> ![](img/08900.jpg)
 
-<span id="fn_104"></span>[89:89-53](gpu12.htm#fr_106) <span
+<span id="fn_104"></span>[89:89-53](gpu12.htm#fr_106.md) <span
 id="img_08900"></span> ![](img/08900.jpg)
 
-<span id="fn_105"></span>[90:1](gpu12.htm#fr_107) An opening at the top
+<span id="fn_105"></span>[90:1](gpu12.htm#fr_107.md) An opening at the top
 of the head.
 
-<span id="fn_106"></span>[90:2](gpu12.htm#fr_108) The funeral pyre is
+<span id="fn_106"></span>[90:2](gpu12.htm#fr_108.md) The funeral pyre is
 lighted from the sacred household fire.
 
-<span id="fn_107"></span>[91:1](gpu12.htm#fr_109) Of the bones.
+<span id="fn_107"></span>[91:1](gpu12.htm#fr_109.md) Of the bones.
 
-<span id="fn_108"></span>[92:1](gpu12.htm#fr_110) A finger-ring of kusha
+<span id="fn_108"></span>[92:1](gpu12.htm#fr_110.md) A finger-ring of kusha
 grass, put on the third finger of right hand.
 
-<span id="fn_109"></span>[93:1](gpu12.htm#fr_111) A great king who is
+<span id="fn_109"></span>[93:1](gpu12.htm#fr_111.md) A great king who is
 said to have brought down the Ganges from heaven to earth.
 
-<span id="fn_110"></span>[93:2](gpu12.htm#fr_112) There is a legend to
+<span id="fn_110"></span>[93:2](gpu12.htm#fr_112.md) There is a legend to
 the effect that the 80,000 sons of Sagara were reduced to ashes by
 Viṣṇu, and that they, the ancestors of Bhrigu, were released and
 purified by him in the Ganges.
 
-<span id="fn_111"></span>[96:1](gpu12.htm#fr_113) Viṣṇu.
+<span id="fn_111"></span>[96:1](gpu12.htm#fr_113.md) Viṣṇu.
 
-<span id="fn_112"></span>[96:2](gpu12.htm#fr_114) These names are given
+<span id="fn_112"></span>[96:2](gpu12.htm#fr_114.md) These names are given
 to advanced stages of human development.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. An Account of the Ten-Days' Ceremonies](gpu13)
+[Next: Chapter XI. An Account of the Ten-Days' Ceremonies](gpu13.md)
 
 </div>

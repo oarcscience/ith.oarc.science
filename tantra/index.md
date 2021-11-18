@@ -31,13 +31,13 @@ Taken with these caveats, the assertion of Tantra that sexual energy can
 be harnessed to achieve union with the divine is fairly unique among
 world religions. The encounter with this school of thought by western
 occultists had a profound impact on the development of modern
-[Neo-paganism](../pag/index).
+[Neo-paganism](../pag/index.md).
 
 ------------------------------------------------------------------------
 
 <span id="texts"></span> <span class="c_e"> </span>
 
-<span class="c_t">[Mahanirvana Tantra](maha/index)</span>  
+<span class="c_t">[Mahanirvana Tantra](maha/index.md)</span>  
 The Tantra of the Great Liberation: Translated by <span
 class="c_a">Arthur Avalon</span> (Sir <span class="c_a">John
 Woodroffe</span>) \[<span class="c_d">1913</span>\]   <span
@@ -58,25 +58,25 @@ puts forward an unorthodox branch of Hinduism. This should be kept in
 mind when reading it.
 
 <span class="c_e"> <span class="c_t">[Shakti and
-Shâkta](sas/index)</span>   by <span class="c_a">Arthur Avalon</span>
+Shâkta](sas/index.md)</span>   by <span class="c_a">Arthur Avalon</span>
 (Sir <span class="c_a">John Woodroffe</span>) \[<span
 class="c_d">1918</span>\]   <span class="c_b">A set of essays by
 Woodroffe on Tanta.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Hymns to the
-Goddess](htg/index)</span>   by <span class="c_a">Arthur Avalon</span>
+Goddess](htg/index.md)</span>   by <span class="c_a">Arthur Avalon</span>
 (Sir <span class="c_a">John Woodroffe</span>) \[<span
 class="c_d">1913</span>\]   <span class="c_b">A collection of Hindu
 devotional hymns to the Goddess.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Hymn to Kâlî:
-Karpûrâdi-Stotra](htk/index)</span>   by <span class="c_a">Arthur
+Karpûrâdi-Stotra](htk/index.md)</span>   by <span class="c_a">Arthur
 Avalon</span> (Sir <span class="c_a">John Woodroffe</span>) \[<span
 class="c_d">1922</span>\]   <span class="c_b">A Tantric hymn to the
 Hindu Goddess Kali.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Kundalini: The Mother of the
-Universe](../hin/kmu/index)</span>   by <span class="c_a">Rishi Singh
+Universe](../hin/kmu/index.md)</span>   by <span class="c_a">Rishi Singh
 Gherwal</span> \[<span class="c_d">1930</span>\]   <span
 class="c_b">Includes an English translation of the Lalita Sahasranama,
 the 'Thousand Names of the Goddess,' from the Brahmanda Purana.</span>

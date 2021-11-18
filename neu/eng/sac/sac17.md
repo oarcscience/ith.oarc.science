@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac16)  [Next](sac18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac16)  [Next](sac18.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,14 +102,14 @@ did, and I have to express my great indebtedness to him.
 
 <span id="page_136">p. 136</span>
 
-In [Fig. 41](#img_fig41) I show the sight-lines from the south and north
+In [Fig. 41](#img_fig41.md) I show the sight-lines from the south and north
 Circles as determined by the stones and barrows marked on the map. The
 sight-lines on Arcturus are from
 
 <span id="img_fig41"></span>
 
 [![FIG. 41.—The Sight-lines at the Hurlers.](tn/fig41.jpg)  
-Click to enlarge](img/fig41.jpg)  
+Click to enlarge](img/fig41.jpg.md)  
 FIG. 41.—The Sight-lines at the Hurlers.  
 
 the centres of the three circles in succession. 1 shall point out later
@@ -135,7 +135,7 @@ approximately, reading the azimuths to the nearest degree,
 
 In a preliminary inquiry in anticipation of the necessary local
 observations with a theodolite, I assumed hills half a degree high, for
-the reason given on [p. 112](sac14.htm#page_112). We have the following
+the reason given on [p. 112](sac14.htm#page_112.md). We have the following
 declinations approximately:—
 
 <div align="center">
@@ -221,7 +221,7 @@ inquiry as to, the existence of similar star observations in other
 places. Many have been found of which more in the sequel.
 
 The next point which arose was that Arcturus used as a clock-star ([p.
-108](sac14.htm#page_108)) would serve as a warner for August. This
+108](sac14.htm#page_108).md) would serve as a warner for August. This
 necessitated another inquiry into the chief festivals in Cornwall: among
 these the August (Harvest) festival is one.
 
@@ -239,8 +239,8 @@ to SS. Justin and Claire are the 9th and 12th of August. It seems, then,
 that at the Hurlers it was really a question of a clock-star also used
 as a warning star for the August festival. I think we have at last,
 then, run to earth the origin of some of the northerly alignments
-referred to on pages [36](sac08.htm#page_36) and
-[43](sac08.htm#page_43).
+referred to on pages [36](sac08.htm#page_36.md) and
+[43](sac08.htm#page_43.md).
 
 It will have been noted that the last sight-line on Arcturus was marked
 by a barrow. Captain Henderson inspected it and found it much ruined by
@@ -277,7 +277,7 @@ We should expect then to find these ancient monuments freely made use of
 to mark what we now term "parish boundaries." This is so. Four parishes
 have thus used one of the larger cromlechs, and it is more than probable
 that something beside the denunciation of the *cultus lapidum*, which we
-have seen at work in Brittany ([p. 39](sac08.htm#page_39)), has been
+have seen at work in Brittany ([p. 39](sac08.htm#page_39).md), has been
 responsible for the many stone crosses in Cornwall. Of some of them near
 circles I have gathered the astronomical use, while now they "mark the
 bounds," as do some of the stone rows in Dartmoor.
@@ -305,14 +305,14 @@ barrows at the Hurlers lend further confirmation of this view. I will
 deal with them first. Of one the data are Az. from N. Circle S. 72° 49´
 W., height of horizon 12´ (Capt. Henderson). The resulting declination
 is S. 11° 5´, the declination of Antares 1720 B.C. But why should
-Antares be thus singled out? The table on page [117](sac14.htm#page_117)
+Antares be thus singled out? The table on page [117](sac14.htm#page_117.md)
 shows the reason. At the date involved the setting of Antares in the
 dawn was the warner of the sunrise on May morning, the greatest day in
 all the year.
 
 Is there any precedent for this use of Antares?
 
-I have already pointed out ([p. 108](sac14.htm#page_108)) that Mr.
+I have already pointed out ([p. 108](sac14.htm#page_108).md) that Mr.
 Penrose found the warning stars for May morning at the dates of
 foundation of the Hecatompedon, and the older Erechtheum, to be the
 group of the Pleiades rising and *Antares* setting. As the foundations
@@ -343,7 +343,7 @@ circles. Data: Az. from N. Circle S. 65° E., height of horizon 1° 38´
 (Henderson). This corresponds almost exactly with the azimuth of the
 rise of the sun's upper limb with declination S. 16° 20´ on the two
 critical dates in November and February of the May-year (Halloween and
-Candlemas, see [p. 23](sac06.htm#page_23)), so I am. inclined to
+Candlemas, see [p. 23](sac06.htm#page_23).md), so I am. inclined to
 consider it more than a mere coincidence that the azimuths coincide so
 closely. It, however, may be urged that there are other barrows on
 Caradon Hill, but judging from the Ordnance Map they seem to be of the
@@ -355,7 +355,7 @@ Still one more barrow and a stone, uncrossed and uninitialled, in the
 same sight-line, data: Az. from N. circle S. 59° 35´ E. Height of
 horizon 1° 38´ 23″ (Henderson), resulting declination S. 19° 50´. This
 was the declination of Sirius 1690 B.C. Why Sirius? The table on [p.
-117](sac14.htm#page_117) gives us the answer. Sirius replaced Arcturus
+117](sac14.htm#page_117.md) gives us the answer. Sirius replaced Arcturus
 as a warning star for the August festival, and we have seen that the
 last use of Arcturus was connected with the sight-line to the barrow
 about 1900 B.C.
@@ -376,7 +376,7 @@ the critical days of the May year in November and February.
 There is another stone marked on the Ordnance Map Az: N. 88° E. from the
 N. circle. It Chas been removed, so I may fairly assume that it was
 really an ancient stone. Captain Henderson's value for the height of the
-horizon is 11´ 31″. The table on [p. 117](sac14.htm#page_117) will show
+horizon is 11´ 31″. The table on [p. 117](sac14.htm#page_117.md) will show
 that in this direction we have to deal with Betelgeuse as a warner for
 the summer solstice. The resulting date is 1730 B.C.
 
@@ -395,4 +395,4 @@ which was chiefly carried on in the N. circle.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. The Dartmoor Avenues](sac18)
+[Next: Chapter XV. The Dartmoor Avenues](sac18.md)

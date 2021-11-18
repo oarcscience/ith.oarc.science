@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](thp20) 
-[Next](thp22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](thp20.md) 
+[Next](thp22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ expression, "the Son" stands for the whole
 creation, visible or invisible, and in this sense it is the mere
 differentiation of the universal Life into a multiplicity of particular
 modes. But if we have any adequate idea of the intelligent and
-responsive nature of Spirit <span id="fr_1"></span>[1](#fn_1)--if we
+responsive nature of Spirit <span id="fr_1"></span>[1](#fn_1.md)--if we
 realise that because it is Pure Being it must be Infinite Intelligence
 and Infinite Responsiveness--then we shall see that its reproduction in
 the particular admits of innumerable degrees, from mere expression as
@@ -277,7 +277,7 @@ by which "the Son's" working is proportioned to his seeing the method of
 
 the contemplation of "the Father," the endeavour, that is, to realise
 the true nature of Being, whether in the abstract or in its generic
-forms of manifestation. <span id="fr_2"></span>[2](#fn_2) This is
+forms of manifestation. <span id="fr_2"></span>[2](#fn_2.md) This is
 Bacon's maxim, "Work as God works"; and similarly the New Thought
 consists before all things in the realisation of the laws of Being.
 
@@ -549,7 +549,7 @@ present juvenile imaginings to picture.
 
 As the New Testament centres around Jesus, so the old Testament centres
 around Moses, and he also declares the Great Affirmation to be the
-same. <span id="fr_3"></span>[3](#fn_3) For
+same. <span id="fr_3"></span>[3](#fn_3.md) For
 
 <span id="page_174">p. 174</span>
 
@@ -1014,7 +1014,7 @@ I902.
 
 ### Footnotes
 
-<span id="fn_1"></span>[156:1](thp21.htm#fr_1) *Intelligence* and
+<span id="fn_1"></span>[156:1](thp21.htm#fr_1.md) *Intelligence* and
 *Responsiveness* is the Generic Nature of Spirit in *every* Mode, and it
 is the *concentration* of this into centres of consciousness that makes
 personality, i. e., *self*-conscious individuality. This varies
@@ -1028,7 +1028,7 @@ find to be *the Infinite of ourselves*, the *same* I AM that I am, so
 *our personality* expands and we become conscious of ever-increasing
 degrees of Life-in-ourselves.
 
-<span id="fn_2"></span>[163:2](thp21.htm#fr_2) Everything depends on
+<span id="fn_2"></span>[163:2](thp21.htm#fr_2.md) Everything depends on
 this principle of Reciprocity. By contemplation we come to realize the
 true nature of "Spirit" or "the father." We learn to disengage the
 *variable* factors of particular *Modes* from the *invariable* factors
@@ -1050,7 +1050,7 @@ desire first works on the Arupa level and thence concentrates itself
 through the various Rupa levels till it reaches complete external
 manifestation.
 
-<span id="fn_3"></span>[173:3](thp21.htm#fr_3) The Old Testament and the
+<span id="fn_3"></span>[173:3](thp21.htm#fr_3.md) The Old Testament and the
 New treat the I AM from its opposite poles. The Old Testament treats it
 from the relation of the *Whole to the Part*, while the New Testament
 treats it from the relation of the *Part to the Whole*. This is
@@ -1092,4 +1092,4 @@ parts of the individuality are not yet conscious of it.
 
 ------------------------------------------------------------------------
 
-[Next: XX. Jachin And Boaz](thp22)
+[Next: XX. Jachin And Boaz](thp22.md)

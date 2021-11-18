@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim05)  [Next](fim07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim05)  [Next](fim07.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE belief in Fairies or Elves was formerly very prevalent in the Isle of
 Man, and cannot be said to have altogether died out even at the present
@@ -102,12 +102,12 @@ power is at its height, flowers and herbs are the only barriers to their
 incursions, and these are regularly spread at the doors of the houses to
 protect the inmates. They are also supposed to be always abroad during
 the harvest moon; and many stories are related of their excursions
-through the Island, and [particularly](errata.htm#8) of their
+through the Island, and [particularly](errata.htm#8.md) of their
 merry-makings in Glentrammon. The interior of Fairy Hill, in Rushen, is
 supposed to be the palace of the Fairy King, and many a tale was told of
 the midnight revels of the fairy court of Mona.
 
-Waldron, <span id="fr_40"></span>[1](#fn_39) to whom we owe most of our
+Waldron, <span id="fr_40"></span>[1](#fn_39.md) to whom we owe most of our
 stories about Fairies, after referring to the ignorance of the Manx
 people as being the cause of their excessive superstition, writes:--"I
 know not, idolizers as they are of the clergy, whether they would even
@@ -166,7 +166,7 @@ Further on in his book, after giving a number of Gaelic fairy tales, he
 continues "The Manks fairy creed is again the same. Similar beings are
 supposed to exist, and are known by the name of *Ferish*, which a
 Mankman assured me was a genuine Manks word. <span
-id="fr_41"></span>[1](#fn_40) If so, fairy may be old Celtic, and
+id="fr_41"></span>[1](#fn_40.md) If so, fairy may be old Celtic, and
 derived from the same root as Fen, instead of being derived from it. The
 fairies in the Isle of Man are believed to be spirits. They are not
 supposed to throw arrows as they are said still to do in the Highlands.
@@ -176,7 +176,7 @@ elsewhere. One old man said,. "the *ferish* have no body, no bones," and
 scorned the arrow heads. It is stated in Train's History that there are
 no flint.--arrow heads in the Isle of, Man; but as there are numerous
 barrons, flint weapons may yet be discovered when some one looks for
-them. <span id="fr_42"></span>[2](#fn_41) Still these Manks fairies are
+them. <span id="fr_42"></span>[2](#fn_41.md) Still these Manks fairies are
 much the same
 
 <span id="page_37">p. 37</span>
@@ -191,7 +191,7 @@ are supposed to have been the earliest inhabitants of the Island. In
 addition to the Fairies proper, there are familiar or household Spirits,
 who are implacable in their resentment, but unchanging in their
 friendship. There are two of these in the Isle of Man, viz., the
-[*Lhiannan-Shee*](errata.htm#9), or "spirit friend," a guardian spirit,
+[*Lhiannan-Shee*](errata.htm#9.md), or "spirit friend," a guardian spirit,
 identical with the Irish *Liannannshee* and *the Dooiney-oie*, or "night
 man," who seems peculiar to the Island, though he bears a faint
 resemblance to the Irish *Banshee*.
@@ -203,7 +203,7 @@ resemblance to the Irish *Banshee*.
 The natives say that many centuries before the Christian era the Island
 was inhabited by Fairies, and that all business was carried on in a
 supernatural manner. They affirm that a blue mist
-[continually](errata.htm#10) hung over the land, and prevented mariners,
+[continually](errata.htm#10.md) hung over the land, and prevented mariners,
 who passed in ships that way, from even suspecting that there was an
 Island so near at hand, till a few fishermen, by stress of weather, were
 stranded on the shore. As they were preparing to kindle a fire on the
@@ -466,8 +466,8 @@ is
 common in Celtic traditions. There was the Cup of Fionn which healed
 diseases, and the Saint Graal, of mediæval romance. In more recent times
 there was the well-known cup called "The Luck of Eden Hall," and the
-"Ballafletcher Drinking Glass." (See pp. [49](#page_49),
-[50](#page_50).)
+"Ballafletcher Drinking Glass." (See pp. [49](#page_49.md),
+[50](#page_50)..md)
 
 #### THE FAIRY ELF.
 
@@ -827,7 +827,7 @@ talking to his sweetheart, and scolding her sometimes; but if anyone
 made a noise he would be quiet at once." Now, the truth of this story is
 clear enough. The man went mad, but this madness took the form of the
 popular belief, and that again attributed his madness to the airy
-mistress. I am convinced that this was believed to be [a](errata.htm#11)
+mistress. I am convinced that this was believed to be [a](errata.htm#11.md)
 case of genuine fairy intercourse, and it shows that the fairy creed
 still survives in the Isle of Man.--*Campbell*.
 
@@ -856,12 +856,12 @@ for those with whom he is connected.
 
 ### Footnotes
 
-<span id="fn_39"></span>[35:1](fim06.htm#fr_40) See Preface
+<span id="fn_39"></span>[35:1](fim06.htm#fr_40.md) See Preface
 
-<span id="fn_40"></span>[36:1](fim06.htm#fr_41) Here we think Campbell's
-informant was mistaken (see [p. 34](#page_34))
+<span id="fn_40"></span>[36:1](fim06.htm#fr_41.md) Here we think Campbell's
+informant was mistaken (see [p. 34](#page_34).md)
 
-<span id="fn_41"></span>[36:2](fim06.htm#fr_42) Train was certainly
+<span id="fn_41"></span>[36:2](fim06.htm#fr_42.md) Train was certainly
 wrong, as numerous flint arrow-heads have been discovered both before
 and after his time. Campbell's informant was also in error, as these
 flint weapons are certainly supposed by the Manks to have been used by
@@ -870,4 +870,4 @@ the Fairies.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. Hobgoblins, Monsters, Giants, Mermaids, Apparitions,
-&c.](fim07)
+&c.](fim07.md)

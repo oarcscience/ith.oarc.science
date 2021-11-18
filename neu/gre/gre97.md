@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre96)  [Next](gre98) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre96)  [Next](gre98.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ all that Sigurd got no righting of the matter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XCIII: Thorstein and Spes come out to Norway](gre98)
+[Next: Chapter XCIII: Thorstein and Spes come out to Norway](gre98.md)

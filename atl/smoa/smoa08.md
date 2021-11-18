@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa07)  [Next](smoa09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa07)  [Next](smoa09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -268,7 +268,7 @@ the thoughts that dwell
 
 within the brain, and yet, in inner soul he grasped the law of higher
 Intellect that made the earth and all the planets, systems. Time, and
-measured with His eye the Universe and its [beginning](errata.htm#2).
+measured with His eye the Universe and its [beginning](errata.htm#2.md).
 
 Aye, so well the priests did know that each endowed the carven shape he
 represented in his turn with attributes because, indeed, it was a spark
@@ -289,4 +289,4 @@ indeed.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Weakening of priestly power. The punishment for
-certain crimes.](smoa09)
+certain crimes.](smoa09.md)

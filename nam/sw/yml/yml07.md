@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml06)  [Next](yml08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml06)  [Next](yml08.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ So ends the tale.
 
 ------------------------------------------------------------------------
 
-[Next: The Wise Deer](yml08)
+[Next: The Wise Deer](yml08.md)

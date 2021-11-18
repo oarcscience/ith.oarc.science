@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs11)  [Next](mhs13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs11)  [Next](mhs13.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ protective influence.
 ------------------------------------------------------------------------
 
 [Next: X. The Horse-shoe Arch In Ancient Caledonian
-Hieroglyphics](mhs13)
+Hieroglyphics](mhs13.md)

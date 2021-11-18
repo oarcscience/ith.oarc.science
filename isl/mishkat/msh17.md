@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh16)  [Next](msh18) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh16)  [Next](msh18.md) 
 
 ------------------------------------------------------------------------
 
@@ -676,4 +676,4 @@ the son of \`Awf.
 ------------------------------------------------------------------------
 
 [Next: PART III.--The Application To The Light-Verse And The Veils
-Tradition](msh18)
+Tradition](msh18.md)

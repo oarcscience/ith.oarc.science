@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss04)  [Next](jss06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss04)  [Next](jss06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -564,7 +564,7 @@ Romanoff.
 The city of Tomsk was founded in 1604 by Gavrilo Pisemski and Vassili
 Tyrtoff. This city is now, in 1900, the educational center of
 northwestern Siberia. It has one of the largest
-[Universities](errata.htm#0) in the country, twenty-three Russian
+[Universities](errata.htm#0.md) in the country, twenty-three Russian
 churches, two synagogues, and a large Catholic church. It is a
 wide-awake flourishing city in spite of a climate so cold that during
 winter the thermometer is about forty degrees below zero (Fahrenheit)
@@ -704,4 +704,4 @@ touched the frozen ocean in the north, and China in the south; and in
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. My Journey to the Buriats](jss06)
+[Next: Chapter II. My Journey to the Buriats](jss06.md)

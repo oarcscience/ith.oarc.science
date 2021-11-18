@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon07)  [Next](oon09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon07)  [Next](oon09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -72,10 +72,10 @@ We now come to the magic formula.
 Century I.--*Quatrain* I. \[I. 52.\]
 
 Estant assis de nuict secret estude,  
-Seul, reposé sur la sele <span id="fr_42"></span>[1](#fn_42) d'airain,  
+Seul, reposé sur la sele <span id="fr_42"></span>[1](#fn_42.md) d'airain,  
 Flambe exigue sortant de solitude,  
-Fait prospèrer <span id="fr_43"></span>[2](#fn_43) qui <span
-id="fr_44"></span>[3](#fn_44) n'est à croire vain.
+Fait prospèrer <span id="fr_43"></span>[2](#fn_43.md) qui <span
+id="fr_44"></span>[3](#fn_44.md) n'est à croire vain.
 
 Translation.
 
@@ -92,7 +92,7 @@ prove vain to have believed.
 <span id="page_69">p. 69</span>
 
 The reader will here refer to the "Preface à mon fils," [p.
-44](oon06.htm#page_44).
+44](oon06.htm#page_44.md).
 
 "L'entendement cree intellectuellement ne peut voir occultement, sinon
 par la voix faicte au lymbe moyennant la exigue flame, en laquelle
@@ -105,11 +105,11 @@ THE MAGICAL CALL BY WATER. \[I. 53.\]
 
 Century I.--*Quatrain* 1.
 
-La verge <span id="fr_45"></span>[1](#fn_45) en main mise au milieu de
+La verge <span id="fr_45"></span>[1](#fn_45.md) en main mise au milieu de
 BRANCHES,  
-De l'Onde il mouille et le limbe, <span id="fr_46"></span>[2](#fn_46) et
+De l'Onde il mouille et le limbe, <span id="fr_46"></span>[2](#fn_46.md) et
 le pied:  
-Un peur et voix fremissent par <span id="fr_47"></span>[3](#fn_47) les
+Un peur et voix fremissent par <span id="fr_47"></span>[3](#fn_47.md) les
 manches,  
 Splendeur divine, Le Divin près s' assied.
 
@@ -305,7 +305,7 @@ La dix Calendes d'Avril de faict gotique
 Resuscité encor par gens malins:  
 Le feu estainct, assemblée diabolique  
 Cherchant les os du Damant et Pselin. <span
-id="fr_48"></span>[1](#fn_48)
+id="fr_48"></span>[1](#fn_48.md)
 
 Translation.
 
@@ -341,9 +341,9 @@ in his collected works (ii. 884) in folio ed. 1641.
 
 "'Euchetæ et gnosci, ut dæmonia toto concipiant pectore, nefanda
 sacrificia perpetrant Conveniunt die quo passus est Salvator, <span
-id="fr_49"></span>[1](#fn_49) vespere, statutur in locum, unà cum
+id="fr_49"></span>[1](#fn_49.md) vespere, statutur in locum, unà cum
 puellis sibi notis, et post quædam sacra extinctis luminibus, <span
-id="fr_50"></span>[2](#fn_50) mistim coëunt, sive cum sorore, sive cum
+id="fr_50"></span>[2](#fn_50.md) mistim coëunt, sive cum sorore, sive cum
 filiâ, sive cum quâlibet" (Psellus as above, p. 894).
 
 "There is a further kind of vaticination by a basin, by means of which
@@ -408,7 +408,7 @@ secret in these words:
 
 "Honoured judges, we constructed this unfortunate little table that you
 see here after the fashion of the tripod \[or, more strictly, the
-cauldron <span id="fr_51"></span>[1](#fn_51)\] at Delphi, with dark
+cauldron <span id="fr_51"></span>[1](#fn_51.md)\] at Delphi, with dark
 incantations, out of branches of laurel; and with imprecations of secret
 song, and numerous ceremonies repeated over daily, we consecrated it by
 magic rites, till at last we put it in motion. When it reached this
@@ -466,37 +466,37 @@ still sought presage of a spirit who was made free of the solar order
 
 ### Footnotes
 
-<span id="fn_42"></span>[68:1](oon08.htm#fr_42) Romance tongue, *sele*
+<span id="fn_42"></span>[68:1](oon08.htm#fr_42.md) Romance tongue, *sele*
 for *selle*, tripod seat, *tripode æneo*, such as the priestess of
 Apollo or Pythia sat on to deliver oracles.
 
-<span id="fn_43"></span>[68:2](oon08.htm#fr_43) Latin, *prosperare*, to
+<span id="fn_43"></span>[68:2](oon08.htm#fr_43.md) Latin, *prosperare*, to
 succeed, or realize an experience.
 
-<span id="fn_44"></span>[68:3](oon08.htm#fr_44) *Qui* for *ce qui*.
+<span id="fn_44"></span>[68:3](oon08.htm#fr_44.md) *Qui* for *ce qui*.
 
-<span id="fn_45"></span>[69:1](oon08.htm#fr_45) Latin, *virga*, branch
+<span id="fn_45"></span>[69:1](oon08.htm#fr_45.md) Latin, *virga*, branch
 or wand.
 
-<span id="fn_46"></span>[69:2](oon08.htm#fr_46) Latin, *limbus*, hem,
+<span id="fn_46"></span>[69:2](oon08.htm#fr_46.md) Latin, *limbus*, hem,
 border, fringe.
 
-<span id="fn_47"></span>[69:3](oon08.htm#fr_47) Latin, *per*, in, or
+<span id="fn_47"></span>[69:3](oon08.htm#fr_47.md) Latin, *per*, in, or
 through.
 
-<span id="fn_48"></span>[74:1](oon08.htm#fr_48) Ex Michaele Psello, *de
+<span id="fn_48"></span>[74:1](oon08.htm#fr_48.md) Ex Michaele Psello, *de
 Dæmonibus*. Works of Marsilius Ficinus, ii. 884, ed. 1641, folio.
 
-<span id="fn_49"></span>[75:1](oon08.htm#fr_49) This refers to some Good
+<span id="fn_49"></span>[75:1](oon08.htm#fr_49.md) This refers to some Good
 Friday evening on the 10th Calend of April Old Style, as set forth in
 the first line of this quatrain.
 
-<span id="fn_50"></span>[75:2](oon08.htm#fr_50) This is exhibited in the
+<span id="fn_50"></span>[75:2](oon08.htm#fr_50.md) This is exhibited in the
 third line of the quatrain: *Le feu estainct, assemblée diabolique*.
 
-<span id="fn_51"></span>[77:1](oon08.htm#fr_51) Æneid, iii. 92 and vi.
+<span id="fn_51"></span>[77:1](oon08.htm#fr_51.md) Æneid, iii. 92 and vi.
 347.
 
 ------------------------------------------------------------------------
 
-[Next: Historical Fragments](oon09)
+[Next: Historical Fragments](oon09.md)

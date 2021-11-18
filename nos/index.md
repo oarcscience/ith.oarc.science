@@ -11,7 +11,7 @@ categories: ' <BR> <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../tarot/i
 
 ------------------------------------------------------------------------
 
-[The Prophecies](#prophecies)    [Texts](#texts)    [Biography](#bio)   
+[The Prophecies](#prophecies)    [Texts](#texts)    [Biography](#bio.md)   
 
 ------------------------------------------------------------------------
 
@@ -67,19 +67,19 @@ categories: ' <BR> <A HREF="../eso/index">Esoteric</A>&nbsp; <A HREF="../tarot/i
 #### Texts
 
 <span class="c_e"> <span class="c_t">[Nostradamus: The Man Who Saw
-Through Time](mst/index)</span>   by <span class="c_a">Lee McCann</span>
+Through Time](mst/index.md)</span>   by <span class="c_a">Lee McCann</span>
 \[<span class="c_d">1941</span>\].   <span class="c_b">A biography and
 historical novel of Nostradamus</span>, with many interpreted quatrains,
 written during World War II. </span>
 
 <span class="c_e"> <span class="c_t">[The Oracles of
-Nostradamus](oon/index)</span>   by <span class="c_a">Charles A.
+Nostradamus](oon/index.md)</span>   by <span class="c_a">Charles A.
 Ward</span> \[<span class="c_d">1891</span>\].   <span class="c_b">The
 complete text of one of the best books about Nostradamus ever
 written.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Did Nostradamus predict the WTC
-disaster?](091101)</span>   by <span class="c_a">John Bruno Hare</span>
+disaster?](091101.md)</span>   by <span class="c_a">John Bruno Hare</span>
 \[<span class="c_d">2001</span>\]   <span class="c_b">You be the
 judge....</span> </span>
 
@@ -159,7 +159,7 @@ ambushed on their way back to base and killed to the last man.
 
 ------------------------------------------------------------------------
 
-[![](../cnote.gif)](../cnote) Stricly speaking, the copyright status of
+[![](../cnote.gif)](../cnote.md) Stricly speaking, the copyright status of
 the content in the 'Prophecies of Nostradamus' section is unknown
 (particularly the English version). The files used to create this
 section have appeared at several other sites on the Internet. The

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr23)  [Next](rhr25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr23)  [Next](rhr25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ I shall here tell you what Rosie Crucians are, and that Moses was their
 Father, and he was Θεοῦ παῖς; some say they were of the order of Elias,
 some say the Disciples of Ezekiel; others define them to be the Officers
 of the Generalissimo of the World, that are as the eyes and ears of the
-Great King, <span id="fr_104"></span>[1](#fn_104) seeing and hearing all
+Great King, <span id="fr_104"></span>[1](#fn_104.md) seeing and hearing all
 things; they are seraphically illuminated, as Moses was, according to
 this order of the Elements, Earth refined to Water, Water to Air, Air to
 Fire, so of a man to be one of the Heroes, of a Hero a Daemon, or good
@@ -51,7 +51,7 @@ good Genius? When I see you again, said he, I will tell you, which is
 when he pleases to come to me, for I know not where to go to him. When I
 saw him again, then he said, Ye should pray to God; for a good and holy
 man can offer no more acceptable sacrifice to God than the oblation of
-himself, his soul. <span id="fr_105"></span>[1](#fn_105)
+himself, his soul. <span id="fr_105"></span>[1](#fn_105.md)
 
 He said also, that the good Genii are as the benigne eyes of God,
 running to and fro in the world, with love and pity beholding the
@@ -136,7 +136,7 @@ Fraternitatis." It represents the Rosicrucians as acknowledging the
 renewed church in England, and its Christian head Carolus Magnus
 Secundus, and warning "all learned men to take heed of the 'Aurum
 Chymicum Britannicum,' published by Elias Ashmole, Esquire." <span
-id="fr_106"></span>[1](#fn_106) It contains some information on English
+id="fr_106"></span>[1](#fn_106.md) It contains some information on English
 Rosicrucians, which can hardly be taken seriously even by an
 enthusiastic
 
@@ -149,18 +149,18 @@ its details.
 
 ### Footnotes
 
-<span id="fn_104"></span>[333:1](rhr24.htm#fr_104) This is stolen from a
+<span id="fn_104"></span>[333:1](rhr24.htm#fr_104.md) This is stolen from a
 treatise on the Immortality of the Soul by Henry More, the Platonist,
 who applies it to the beneficent genii.
 
-<span id="fn_105"></span>[334:1](rhr24.htm#fr_105) This remark is also
+<span id="fn_105"></span>[334:1](rhr24.htm#fr_105.md) This remark is also
 pirated from the same treatise by Henry More.
 
-<span id="fn_106"></span>[336:1](rhr24.htm#fr_106) A reason for this
+<span id="fn_106"></span>[336:1](rhr24.htm#fr_106.md) A reason for this
 animosity will be found in the preface of Ashmole's "Way to Bliss,"
 which states that work to have been published to prevent the issue of an
 imperfect copy by Heydon, which Heydon, however, denies.
 
 ------------------------------------------------------------------------
 
-[Next: The Rosicrucians in England](rhr25)
+[Next: The Rosicrucians in England](rhr25.md)

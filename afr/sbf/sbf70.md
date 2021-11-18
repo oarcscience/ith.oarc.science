@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf69)  [Next](sbf71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf69)  [Next](sbf71.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -44,6 +44,6 @@ harpuis, \* \* \* "resin.")\]</span>
 ------------------------------------------------------------------------
 
 [Next: The Adhesive Substance Used By The Bushmen In Marking
-Arrows.](sbf71)
+Arrows.](sbf71.md)
 
 </div>

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb32)  [Next](crfb34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb32)  [Next](crfb34.md) 
 
 </div>
 
@@ -363,6 +363,6 @@ everybody loved them.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Sham Prince, or the Ambitious Tailor](crfb34)
+[Next: The Story of the Sham Prince, or the Ambitious Tailor](crfb34.md)
 
 </div>

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt02)  [Next](hkt04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt02)  [Next](hkt04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -70,14 +70,14 @@ under the hand and seal of the Caliph Omar to Sophronius the Patriarch.
 
 "They shall be protected and secured both in their lives and fortunes,
 and their churches shall neither be pulled down nor made use of by any
-but themselves." <span id="fr_0"></span>[\*](#fn_0)
+but themselves." <span id="fr_0"></span>[\*](#fn_0.md)
 
 Under the government of the Arabians, the pilgrimages continued steadily
 to increase; the old and the young, women and children, flocked in
 crowds to Jerusalem, and in the year 1064 the Holy Sepulchre was visited
 by an enthusiastic band of seven thousand pilgrims, headed by the
 Archbishop of Mentz and the Bishops of Utrecht, Bamberg, and
-Ratisbon. <span id="fr_1"></span>[†](#fn_1) The year following, however,
+Ratisbon. <span id="fr_1"></span>[†](#fn_1.md) The year following, however,
 Jerusalem was conquered by the wild Turcomans. Three thousand of the
 citizens were indiscriminately massacred, and the hereditary command
 over the Holy City and territory was confided to the Emir Ortok, the
@@ -99,7 +99,7 @@ sepulchre, and many, unable to pay the tax, were driven by the swords of
 the Turcomans from the very threshold of the object of all their hopes,
 the bourne of their long pilgrimage, and were compelled to retrace their
 weary steps in sorrow and anguish to their distant homes. <span
-id="fr_2"></span>[\*](#fn_2) The melancholy intelligence of the
+id="fr_2"></span>[\*](#fn_2.md) The melancholy intelligence of the
 profanation of the holy places, and of the oppression and cruelty of the
 Turcomans, aroused the religious chivalry of Christendom; "a nerve was
 touched of exquisite feeling, and the sensation vibrated to the heart of
@@ -123,7 +123,7 @@ monuments of the
 <span id="page_4">p. 4</span>
 
 <span class="contnote">\[paragraph continues\]</span> Redemption. <span
-id="fr_3"></span>[\*](#fn_3) The infidels had indeed been driven out of
+id="fr_3"></span>[\*](#fn_3.md) The infidels had indeed been driven out of
 Jerusalem, but not out of Palestine. The lofty mountains bordering the
 sea-coast were infested by bold and warlike bands of fugitive Mussulmen,
 who maintained themselves in various impregnable castles and
@@ -139,7 +139,7 @@ death.
 
 To alleviate the dangers and distresses to which these pious enthusiasts
 were exposed, to guard the honour of the saintly virgins and
-matrons, <span id="fr_4"></span>[†](#fn_4) and to protect the gray hairs
+matrons, <span id="fr_4"></span>[†](#fn_4.md) and to protect the gray hairs
 of the venerable palmer, nine noble knights formed a holy brotherhood in
 arms, and entered into a solemn compact to aid one another in clearing
 the highways of infidels, and of robbers, and in protecting the pilgrims
@@ -153,7 +153,7 @@ Resurrection, in the presence of the patriarch of Jerusalem, they
 <span id="page_5">p. 5</span>
 
 embraced vows of perpetual chastity, obedience, and poverty, after the
-manner of monks. <span id="fr_5"></span>[\*](#fn_5) Uniting in
+manner of monks. <span id="fr_5"></span>[\*](#fn_5.md) Uniting in
 themselves the two most popular qualities of the age, devotion and
 valour, and exercising them in the most popular of all enterprises, the
 protection of the pilgrims and of the road to the holy sepulchre, they
@@ -172,7 +172,7 @@ the credulity of the pilgrims, and to multiply relics and all objects
 likely to be sacred in their eyes, as the *Temple of Solomon*, whence
 the Poor Fellow-soldiers of Jesus Christ came thenceforth to be known by
 the name of "*the Knighthood of the Temple of Solomon*." <span
-id="fr_6"></span>[†](#fn_6)
+id="fr_6"></span>[†](#fn_6.md)
 
 <span id="page_6">p. 6</span>
 
@@ -190,7 +190,7 @@ of his army, the Commander of the Faithful undertook the pious office of
 clearing the ground with his own hands, and of tracing out the
 foundations of the magnificent mosque which now crowns with its dark and
 swelling dome the elevated summit of Mount Moriah. <span
-id="fr_7"></span>[\*](#fn_7)
+id="fr_7"></span>[\*](#fn_7.md)
 
 This great house of prayer, the most holy Mussulman Temple in the world
 after that of Mecca, is erected over the spot where "Solomon began to
@@ -225,7 +225,7 @@ name of the founder, and the cost of the undertaking, and of the famous
 rock under the centre of the dome, which is to this day shown by the
 Moslems as the spot whereon the destroying angel stood, " with his drawn
 sword in his hand stretched out over Jerusalem." <span
-id="fr_8"></span>[\*](#fn_8) This rock he
+id="fr_8"></span>[\*](#fn_8.md) This rock he
 
 <span id="page_8">p. 8</span>
 
@@ -250,7 +250,7 @@ the passage of these trucks it was necessary to widen the roads leading
 to Jerusalem. The forests of Lebanon yielded their choicest cedars for
 the timbers of the roof, and a quarry of variegated marble, seasonably
 discovered in the adjoining mountains, furnished the edifice with superb
-marble columns. <span id="fr_9"></span>[\*](#fn_9) The interior of this
+marble columns. <span id="fr_9"></span>[\*](#fn_9.md) The interior of this
 interesting structure, which still remains at Jerusalem, after a lapse
 of more than thirteen centuries, in an excellent state of preservation,
 is adorned with six rows of columns, from whence spring arches
@@ -276,21 +276,21 @@ by the Caliph Omar, within a large area by a high stone wall, which runs
 around the edge of the summit of Mount Moriah, and guards from the
 profane tread of the unbeliever the whole of that sacred ground whereon
 once stood the gorgeous temple of the wisest of kings. <span
-id="fr_10"></span>[\*](#fn_10)
+id="fr_10"></span>[\*](#fn_10.md)
 
 When the Holy City was taken by the crusaders, the *D’jamé al Acsa*,
 with the various buildings constructed around it, became the property of
 the kings of Jerusalem; and is denominated by William of Tyre "the
 palace," or "royal house to the south of the Temple of the Lord,
 vulgarly called the Temple of Solomon." <span
-id="fr_11"></span>[†](#fn_11) It was this edifice or temple on Mount
+id="fr_11"></span>[†](#fn_11.md) It was this edifice or temple on Mount
 Moriah which was appropriated to the use of the poor fellow-soldiers of
 Jesus Christ, as they had no church and no particular place of
 
 <span id="page_10">p. 10</span>
 
 abode, and from it they derived their name of Knights Templars. <span
-id="fr_12"></span>[\*](#fn_12)
+id="fr_12"></span>[\*](#fn_12.md)
 
 James of Vitry, Bishop of Acre, who gives an interesting account of the
 holy places, thus speaks of the Temple of the Knights Templars. "There
@@ -298,19 +298,19 @@ is, moreover, at Jerusalem another temple of immense spaciousness and
 extent, from which the brethren of the knighthood of the Temple derive
 their name of Templars, which is called the Temple of Solomon, perhaps
 to distinguish it from the one above described, which is specially
-called the Temple of the Lord. " <span id="fr_13"></span>[†](#fn_13) He
+called the Temple of the Lord. " <span id="fr_13"></span>[†](#fn_13.md) He
 moreover informs us in his oriental history, that "in the Temple of the
 Lord there is an abbot and canons regular; and be it known that the one
 is the Temple of the *Lord*, and the other the Temple of the *Chivalry*.
 These are *clerks*, the others are *knights*." <span
-id="fr_14"></span>[‡](#fn_14)
+id="fr_14"></span>[‡](#fn_14.md)
 
 The canons of the Temple of the Lord conceded to the poor
 fellow-soldiers of Jesus Christ the large court extending between that
 building and the Temple of Solomon; the king, the patriarch, and the
 prelates of Jerusalem, and the barons of the Latin kingdom, assigned
 them various gifts and revenues for their maintenance and support, <span
-id="fr_15"></span>[§](#fn_15) and the order being now settled in a
+id="fr_15"></span>[§](#fn_15.md) and the order being now settled in a
 regular place of abode, the knights soon began to entertain more
 extended views, and to seek a larger theatre for the exercise of their
 holy profession.
@@ -319,7 +319,7 @@ holy profession.
 
 Their first aim and object had been, as before mentioned, simply to
 protect the poor pilgrims, on their journey backwards and forwards, from
-the sea-coast to Jerusalem; <span id="fr_16"></span>[\*](#fn_16) but as
+the sea-coast to Jerusalem; <span id="fr_16"></span>[\*](#fn_16.md) but as
 the hostile tribes of Mussulmen, which everywhere surrounded the Latin
 kingdom, were gradually recovering from the stupifying terror into which
 they had been plunged by the successful and exterminating warfare of the
@@ -366,7 +366,7 @@ at the freedom of his apostolical censures: France, England, and Milan,
 consulted and obeyed his judgment in a schism of the church: the debt
 was repaid by the gratitude of Innocent the Second; and his successor,
 Eugenics the Third, was the friend and disciple of the holy St.
-Bernard." <span id="fr_17"></span>[\*](#fn_17)
+Bernard." <span id="fr_17"></span>[\*](#fn_17.md)
 
 To this learned and devout prelate two knights templars were despatched
 with the following letter:
@@ -402,7 +402,7 @@ christian princes.
 "Do you then so manage, that we may, through you, have the happiness of
 seeing this important affair brought to a successful issue, and address
 for us to heaven the incense of your prayers." <span
-id="fr_18"></span>[\*](#fn_18)
+id="fr_18"></span>[\*](#fn_18.md)
 
 Soon after the above letter had been despatched to St. Bernard, Hugh de
 Payens himself proceeded to Rome, accompanied by Geoffrey de St.
@@ -429,30 +429,30 @@ governance of the great religious and military fraternity of the Temple.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:\*](hkt03.htm#fr_0) Elmacin, Hist. Saracen.
+<span id="fn_0"></span>[2:\*](hkt03.htm#fr_0.md) Elmacin, Hist. Saracen.
 Eutychius.
 
-<span id="fn_1"></span>[2:†](hkt03.htm#fr_1) Ingulphus, the secretary of
+<span id="fn_1"></span>[2:†](hkt03.htm#fr_1.md) Ingulphus, the secretary of
 William the Conqueror, one of the number, states that he sallied forth
 from Normandy with *thirty* companions, all stout and well-appointed
 horsemen, and that they returned *twenty* miserable palmers, with the
 staff in their hand and the wallet at their back.--*Baronius ad ann*.
 1064, No. 43, 56.
 
-<span id="fn_2"></span>[3:\*](hkt03.htm#fr_2) *Will. Tyr.*, lib. i. cap.
+<span id="fn_2"></span>[3:\*](hkt03.htm#fr_2.md) *Will. Tyr.*, lib. i. cap.
 10, ed. 1564.
 
-<span id="fn_3"></span>[4:\*](hkt03.htm#fr_3) Omnibus mundi partibus
+<span id="fn_3"></span>[4:\*](hkt03.htm#fr_3.md) Omnibus mundi partibus
 divites et pauperes, juvenes et virgines, senes cum junioribus, loca
 sancta visitaturi Hierosolymam pergerent.--Jac. de Vitriaco. *Hist.
 Hierosol.* cap. lxv.
 
-<span id="fn_4"></span>[4:†](hkt03.htm#fr_4) "To kiss the holy
+<span id="fn_4"></span>[4:†](hkt03.htm#fr_4.md) "To kiss the holy
 monuments," says William of Tyre, "came sacred and chaste widows,
 forgetful of feminine fear, and the multiplicity of dangers that beset
 their path."--Lib. xviii. cap. 5.
 
-<span id="fn_5"></span>[5:\*](hkt03.htm#fr_5) Quidam autem Deo amabiles
+<span id="fn_5"></span>[5:\*](hkt03.htm#fr_5.md) Quidam autem Deo amabiles
 et devoti milites, charitate ferventes, mundo renuatiantes, et Christi
 se servitio mancipantes in manu Patriarchæ Hierosolymitani professione
 et voto solemni sere astrinxerunt, ut a prædictis latronibus, et viris
@@ -468,10 +468,10 @@ The lowest was where a separate property in some few things was allowed,
 such as food and clothing, whilst everything else was shared in common.
 The second kind of poverty (media) was adopted by the Templars.
 
-<span id="fn_6"></span>[5:†](hkt03.htm#fr_6) *Pantaleon*, lib. iii. p.
+<span id="fn_6"></span>[5:†](hkt03.htm#fr_6.md) *Pantaleon*, lib. iii. p.
 82.
 
-<span id="fn_7"></span>[6:\*](hkt03.htm#fr_7) *D’Herbelot Bib. Orient*.
+<span id="fn_7"></span>[6:\*](hkt03.htm#fr_7.md) *D’Herbelot Bib. Orient*.
 p. 270, 687, ed. 1697. William of Tyre, who lived at Jerusalem shortly
 after the conquest of the city by the Crusaders, tells us that the
 Caliph Omar required the Patriarch Sophronius to point out to him the
@@ -481,7 +481,7 @@ postea infra modicum tempus juxta conceptum mentis suæ feliciter
 consummato, *quale hodie Hierosolymis esse dinoscitur*, multis et
 infinites ditavit possessionibus."--*Will. Tyr.* lib. i. cap. 2.
 
-<span id="fn_8"></span>[7:\*](hkt03.htm#fr_8) Erant porro in eodem
+<span id="fn_8"></span>[7:\*](hkt03.htm#fr_8.md) Erant porro in eodem
 Templi ædificio, intus et extra ex opere musaico, Arabici idiomatis
 literarum vetustissima monimenta, quibus et auctor et imperarum
 quantitas et quo tempore opus inceptum quodque consummatum fuerit
@@ -497,17 +497,17 @@ maculare; sed a remotis et longinquis regionibus, a temporibus Salomonis
 usque ad tempora præsentia, veniunt adorare.--*Jac. de Vitr. Hist.
 Hierosol.* cap. lxii. p 1080.
 
-<span id="fn_9"></span>[8:\*](hkt03.htm#fr_9) *Procopius de ædificiis
+<span id="fn_9"></span>[8:\*](hkt03.htm#fr_9.md) *Procopius de ædificiis
 Justiniani*, lib. 5.
 
-<span id="fn_10"></span>[9:\*](hkt03.htm#fr_10) Phocas believes the
+<span id="fn_10"></span>[9:\*](hkt03.htm#fr_10.md) Phocas believes the
 whole space around these buildings to be the area of the ancient temple.
 Ἑν τῶ ἀρχαίω δαπεδω τοῦ περιώνῦμου ναου έκείνοὺ Σὸλομῶντος θεωρουμενοσ .
 . . Ἔξωθεν δὲ του ναου ἐστι περιαύλιον μεγα λιθόστωτον τὸ παλαιὸν, ὼς
 οῖμαι, του μεγαλου ναου δάπεδον.--*Phocæ descript. Terr. Sanc.* cap.
 xiv. Colon. 1653.
 
-<span id="fn_11"></span>[9:†](hkt03.htm#fr_11) Quibus quoniam neque
+<span id="fn_11"></span>[9:†](hkt03.htm#fr_11.md) Quibus quoniam neque
 *ecclesia* erat, neque certum habebant domicilium, Rex in Palatio suo,
 quod secus Templum Domini ad *australem* habet partem, eis concessit
 habitaculum.--*Will. Tyr.* lib. xii. cap. 7. And in another place,
@@ -515,40 +515,40 @@ speaking of the Temple of the Lord, he says, Ab *Austro* vero domum
 habet Regiam, quæ vulgari appellatione *Templum Salomonis*
 dicitur.--*Ib*. lib, viii. cap. 3.
 
-<span id="fn_12"></span>[10:\*](hkt03.htm#fr_12) Qui quoniam juxta
+<span id="fn_12"></span>[10:\*](hkt03.htm#fr_12.md) Qui quoniam juxta
 Templum Domini, ut prædiximus, in Palatio regio mansionem habent,
 fratres militiæ Templi dicuntur.--*Will. Tyr.* lib. xii. cap. 7.
 
-<span id="fn_13"></span>[10:†](hkt03.htm#fr_13) Est præterea
+<span id="fn_13"></span>[10:†](hkt03.htm#fr_13.md) Est præterea
 Hierosolymis Templum aliud immensæ quantitatis et amplitudinis, *a quo
 fratres militiæ Templi, Templarii nominantur*, quod Templum Salomonis
 nuncupatur, forsitan ad distinctionem alterius quod specialiter Templum
 Domini appellatur.--*Jac. de Vitr.* cap. 62.
 
-<span id="fn_14"></span>[10:‡](hkt03.htm#fr_14) In Templo Domini abbas
+<span id="fn_14"></span>[10:‡](hkt03.htm#fr_14.md) In Templo Domini abbas
 est et canonici regulares, et sciendum est quod aliud est Templum
 Domini, aliud Templum militiæ. Isti *clerici*, illi *milites*.--*Hist.
 Orient. Jac de Vitr. apud Thesaur. Nov. Anecd. Martene*, tom. iii. col.
 277.
 
-<span id="fn_15"></span>[10:§](hkt03.htm#fr_15) *Will. Tyr.* lib. xii.
+<span id="fn_15"></span>[10:§](hkt03.htm#fr_15.md) *Will. Tyr.* lib. xii.
 cap. 7.
 
-<span id="fn_16"></span>[11:\*](hkt03.htm#fr_16) Prima autem eorum
+<span id="fn_16"></span>[11:\*](hkt03.htm#fr_16.md) Prima autem eorum
 professio quodque eis a domino Patriarcha et reliquis episcopis in
 remissionem peccatorum injunctum est, ut vias et itinera, ad salutem
 peregrinorum contra latronum et incursantium insidias, pro viribus
 conservarent.--*Will. Tyr.* lib. xii. cap. 7.
 
-<span id="fn_17"></span>[12:\*](hkt03.htm#fr_17) *Gibbon*.
+<span id="fn_17"></span>[12:\*](hkt03.htm#fr_17.md) *Gibbon*.
 
-<span id="fn_18"></span>[13:\*](hkt03.htm#fr_18) *Reg. Constit. et
+<span id="fn_18"></span>[13:\*](hkt03.htm#fr_18.md) *Reg. Constit. et
 Privileg. Ordinis Cisterc*. p. 447.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](hkt04)
+[Next: Chapter II](hkt04.md)
 
 </div>

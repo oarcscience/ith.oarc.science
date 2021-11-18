@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia02)  [Next](aia04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia02)  [Next](aia04.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ others as truth under the solemn appeal to Almighty God, which is so
 beautifully worded in his introductory epistle. Modern critics, however,
 can see no force in this argument, but unhesitatingly condemn *William
 Lilly* "as an accomplished impostor, and a knavish
-fortune-teller." <span id="fr_0"></span>[1](#fn_0) Such, reader, is the
+fortune-teller." <span id="fr_0"></span>[1](#fn_0.md) Such, reader, is the
 force of prejudice. It will not allow men to examine before they
 condemn; for if it did, then would the literary world speedily
 acknowledge the reality of those doctrines which our Author has so ably
@@ -99,7 +99,7 @@ appears, about that period, to
 <span id="page_4">p. 4</span>
 
 have turned his attention much to Mundane Astrology. He says, <span
-id="fr_1"></span>[1](#fn_1) "I did carefully, in 1642 and 1643, take
+id="fr_1"></span>[1](#fn_1.md) "I did carefully, in 1642 and 1643, take
 notice of every grand action which happened betwixt king and parliament;
 and did first then incline to believe, that, as all sublunary affairs
 did depend upon superior causes, so there was a possibility of
@@ -400,7 +400,7 @@ this kingdom may continue, his Majesty and posterity reigne; forget not
 the Scottish nation, their mutual assistance in our necessity, their
 honourable departure. God preserve the illustrious *Fairfax*, and his
 whole armye, and let the famous city of London be ever blessed, and all
-her worthy citizens. <span id="fr_2"></span>[1](#fn_2)
+her worthy citizens. <span id="fr_2"></span>[1](#fn_2.md)
 
 "WILLIAM LILLY."               
 
@@ -408,16 +408,16 @@ her worthy citizens. <span id="fr_2"></span>[1](#fn_2)
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](aia03.htm#fr_0) Retrospective Review, vol.
+<span id="fn_0"></span>[2:1](aia03.htm#fr_0.md) Retrospective Review, vol.
 ii. p. 51.
 
-<span id="fn_1"></span>[4:1](aia03.htm#fr_1) See p. 101 of Lilly's
+<span id="fn_1"></span>[4:1](aia03.htm#fr_1.md) See p. 101 of Lilly's
 History of his Life and Times.
 
-<span id="fn_2"></span>[12:1](aia03.htm#fr_2) I have retained the exact
+<span id="fn_2"></span>[12:1](aia03.htm#fr_2.md) I have retained the exact
 orthography of this epistle, which is a curious and interesting remnant
 of our author's day. It was penned in 1547.--ED.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I.](aia04)
+[Next: Chapter I.](aia04.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa01)  [Next](fiwa03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa01)  [Next](fiwa03.md) 
 
 ------------------------------------------------------------------------
 
@@ -183,4 +183,4 @@ GLOSSARY
 ------------------------------------------------------------------------
 
 [Next: Chapter I: Constitution of Native African
-Society--Sociology](fiwa03)
+Society--Sociology](fiwa03.md)

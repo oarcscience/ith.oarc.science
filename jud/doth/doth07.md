@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth06)  [Next](doth08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth06)  [Next](doth08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ are also obligations of the heart. And they include all nuances of
 virtue, such as these that have their being in the heart alone, and are
 not manifested in material life, save only by their influence; and
 yearning, till the yearning one turns pale with longing, <span
-id="fr_4"></span>[\*](#fn_3) to realise, in thought and mind and deed,
+id="fr_4"></span>[\*](#fn_3.md) to realise, in thought and mind and deed,
 the will of God. And chief among them is the attuning of the soul into
 such perfect harmony with God, that all right conduct and right thought
 must follow without effort on our part, because our will is one with
@@ -60,7 +60,7 @@ His, through love.
 
 ### Footnotes
 
-<span id="fn_3"></span>[19:\*](doth07.htm#fr_4) This is the literal
+<span id="fn_3"></span>[19:\*](doth07.htm#fr_4.md) This is the literal
 translation of *nichsof*; comp. *keseph*, silver.
 
 <div class="filenav">
@@ -68,6 +68,6 @@ translation of *nichsof*; comp. *keseph*, silver.
 ------------------------------------------------------------------------
 
 [Next: The Duties of the Heart are more Important than any
-others](doth08)
+others](doth08.md)
 
 </div>

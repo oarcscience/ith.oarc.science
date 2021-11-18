@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn06)  [Next](dbn08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn06)  [Next](dbn08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ enormous. Its seven thousand villages are so near to one another that
 the chief of Jenne has no need of messengers. If he wishes to send a
 note to Lake Dibo, for instance, it is cried from the gate of the town
 and repeated from village to village, by which means it reaches its
-destination almost instantly." <span id="fr_22"></span>[1](#fn_22)
+destination almost instantly." <span id="fr_22"></span>[1](#fn_22.md)
 
 From the name of this city we get the modern name Guinea, which is used
 to-day to designate the country contiguous to the great gulf of that
@@ -87,7 +87,7 @@ Luschan says that it is "of extraordinary significance that by the
 sixteenth and seventeenth centuries a local and monumental art had been
 learned in Benin which in many respects equaled European art and
 developed a technique of the very highest accomplishment." <span
-id="fr_23"></span>[1](#fn_23)
+id="fr_23"></span>[1](#fn_23.md)
 
 Summing up Yoruban civilization, Frobenius concluded that "the technical
 summit of that civilization was reached in the terra-cotta industry, and
@@ -106,7 +106,7 @@ instructive, but in other respects evidence a cultural condition
 insufficiently matured to grasp the utility of stone monumental
 material; and, above all, that the then great and significant idea of
 the universe as imaged in the Templum was current in those days." <span
-id="fr_24"></span>[1](#fn_24)
+id="fr_24"></span>[1](#fn_24.md)
 
 Effort has naturally been made to ascribe this civilization to white
 people. First it was ascribed to Portuguese influence, but much of it is
@@ -184,7 +184,7 @@ culture, and industry along with inexplicable cruelty and
 bloodthirstiness. But it was the slave trade that turned the balance and
 set these lands backward. Dahomey was the last word in a series of human
 disasters which began with the defeat of the Askias at Tenkadibou. <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 <span id="page_40">p. 40</span>
 
@@ -339,7 +339,7 @@ unimpeachably honest, brave to foolhardiness, and faithful to each other
 and to their superiors." One of their kings, Calemba, "a really princely
 prince," Bateman says would "amongst any people be a remarkable and
 indeed in many respects a magnificent man." <span
-id="fr_26"></span>[1](#fn_26)
+id="fr_26"></span>[1](#fn_26.md)
 
 These beginnings of human culture were, however, peculiarly vulnerable
 to invading hosts of later comers. There were no natural protecting
@@ -403,7 +403,7 @@ mission is supported by a philanthropic society, which numbers
 nobleminded men of several nations. It is not a religious society, but
 my instructions are entirely of that spirit. No violence must be used,
 and wherever rejected, the mission must withdraw to seek another
-field." <span id="fr_27"></span>[1](#fn_27)
+field." <span id="fr_27"></span>[1](#fn_27.md)
 
 The Bula Matadi or Stone Breaker, as the natives called Stanley, threw
 himself energetically into the work and had by 1881 built a
@@ -445,7 +445,7 @@ the ruthless destruction of every social barrier, the shattering of
 every tribal law, the introduction of criminal practices which struck
 the chiefs of the people dumb with horror--in a word, a veritable
 avalanche of filth and immorality overwhelmed the Congo tribes." <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 So notorious did the exploitation and misrule become that Leopold was
 forced to take measures toward reform, and finally in 1909 the Free
@@ -457,31 +457,31 @@ monument of shame to Christianity and European civilization.
 
 ### Footnotes
 
-<span id="fn_22"></span>[36:1](dbn07.htm#fr_22) Quoted in Du Bois:
+<span id="fn_22"></span>[36:1](dbn07.htm#fr_22.md) Quoted in Du Bois:
 *Timbuktu*.
 
-<span id="fn_23"></span>[37:1](dbn07.htm#fr_23) Von Luschan:
+<span id="fn_23"></span>[37:1](dbn07.htm#fr_23.md) Von Luschan:
 *Verhandlungen der berliner Gesellschaft für Anthropologie*, etc., 1898.
 
-<span id="fn_24"></span>[38:1](dbn07.htm#fr_24) Frobenius: *Voice of
+<span id="fn_24"></span>[38:1](dbn07.htm#fr_24.md) Frobenius: *Voice of
 Africa*, Vol. I.
 
-<span id="fn_25"></span>[39:1](dbn07.htm#fr_25) Cf. [p.
-58](dbn09.htm#page_58).
+<span id="fn_25"></span>[39:1](dbn07.htm#fr_25.md) Cf. [p.
+58](dbn09.htm#page_58.md).
 
-<span id="fn_26"></span>[43:1](dbn07.htm#fr_26) Keane: *Africa*, II,
+<span id="fn_26"></span>[43:1](dbn07.htm#fr_26.md) Keane: *Africa*, II,
 117-118.
 
-<span id="fn_27"></span>[44:1](dbn07.htm#fr_27) *The Congo*, I, Chap.
+<span id="fn_27"></span>[44:1](dbn07.htm#fr_27.md) *The Congo*, I, Chap.
 III.
 
-<span id="fn_28"></span>[45:1](dbn07.htm#fr_28) Harris: *Dawn in
+<span id="fn_28"></span>[45:1](dbn07.htm#fr_28.md) Harris: *Dawn in
 Africa*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Great Lakes and Zymbabwe](dbn08)
+[Next: VI. The Great Lakes and Zymbabwe](dbn08.md)
 
 </div>

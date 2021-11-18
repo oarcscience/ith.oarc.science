@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot09) 
-[Next](aot11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot09.md) 
+[Next](aot11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -68,7 +68,7 @@ on their recovery to
 
 record the fact on an *ex-voto* tablet in the temple, precisely as is
 done to-day in Roman Catholic countries. <span
-id="fr_95"></span>[\*](#fn_95)
+id="fr_95"></span>[\*](#fn_95.md)
 
 On his way to India Apollonius saw a good deal of the Magi at Babylon.
 He used to visit them at mid-day and mid-night, but of what transpired
@@ -113,7 +113,7 @@ would have us regard as a picture of the "hill" and a description
 <span id="page_86">p. 86</span>
 
 of its "sages." Damis’ confused memories, <span
-id="fr_96"></span>[\*](#fn_96) however, have little to do with the
+id="fr_96"></span>[\*](#fn_96.md) however, have little to do with the
 actual monastery and its ascetic inhabitants, who were the goal of
 Apollonius’ long journey. What Apollonius heard and saw there, following
 his invariable custom in such circumstances, he told no one, not even
@@ -122,7 +122,7 @@ sentence: "I saw men dwelling on the earth and yet not on it, defended
 on all sides, yet without any defence, and yet possessed of nothing but
 what all possess." These words occur in two passages (iii. 15 and vi.
 11), and in both Philostratus adds that Apollonius wrote <span
-id="fr_97"></span>[†](#fn_97) and spoke them enigmatically. The meaning
+id="fr_97"></span>[†](#fn_97.md) and spoke them enigmatically. The meaning
 of this saying is not difficult to divine. They were on the earth, but
 not of the earth, for their minds were set on things above. They were
 protected by their innate spiritual power, of which we have so many
@@ -140,7 +140,7 @@ The head of the community is called Iarchas, a totally un-Indian name.
 The violence done to all foreign names by the Greeks is notorious, and
 here we have to reckon with an army of ignorant copyists as well as with
 Philostratus and Damis. I would suggest that the name may perhaps be a
-corruption of Arhat. <span id="fr_98"></span>[\*](#fn_98)
+corruption of Arhat. <span id="fr_98"></span>[\*](#fn_98.md)
 
 The main burden of Damis’ narrative insists on the psychic and spiritual
 knowledge of the sages. They know what takes place at a distance, they
@@ -185,14 +185,14 @@ Philostratus. And it is doubtless the mention
 
 <span id="page_89">p. 89</span>
 
-of the "cup of Tantalus" <span id="fr_99"></span>[\*](#fn_99) in this
+of the "cup of Tantalus" <span id="fr_99"></span>[\*](#fn_99.md) in this
 letter which suggested the inexhaustible loving cup episode in iii. 32,
 and its connection with the mythical fountains of Bacchus. Damis presses
 it into service to "explain" the last phrase in Apollonius’ saying about
 the sages, namely, that they were "possessed of nothing but what all
 possess"—which, however, appears elsewhere in a changed form, as
 "possessing nothing, they have the possessions of all men" (iii.
-15). <span id="fr_100"></span>[†](#fn_100)
+15). <span id="fr_100"></span>[†](#fn_100.md)
 
 On returning to Greece, one of the first shrines Apollonius visited was
 that of Aphrodite at Paphos in Cyprus (iii. 58). The greatest external
@@ -209,7 +209,7 @@ Cilicia, in times of remote antiquity.
 <span class="contnote">\[paragraph continues\]</span> The worship or
 consultation of the Goddess was by means of prayers and the "pure flame
 of fire," and the temple was a great centre of divination. <span
-id="fr_101"></span>[\*](#fn_101)
+id="fr_101"></span>[\*](#fn_101.md)
 
 Apollonius spent some time here and instructed the priests at length
 with regard to their sacred rites.
@@ -246,7 +246,7 @@ Apollonius.
 
 Palamedes was one of the heroes before Troy, who was fabled to have
 invented letters, or to have completed the alphabet of Cadmus. <span
-id="fr_102"></span>[\*](#fn_102)
+id="fr_102"></span>[\*](#fn_102.md)
 
 Now from two obscure sayings (iv. 13, 33), we glean that our philosopher
 looked upon Palamedes as the philosopher-hero of the Trojan period,
@@ -271,7 +271,7 @@ who had been once Palamedes.
 
 In any case Apollonius restored the rites to Achilles, and erected a
 chapel in which he set up the neglected statue of Palamedes. <span
-id="fr_103"></span>[\*](#fn_103) The heroes of the Trojan period, then,
+id="fr_103"></span>[\*](#fn_103.md) The heroes of the Trojan period, then,
 it would seem, had still some connection with Greece, according to the
 science of the invisible world into which Apollonius was initiated. And
 if the Protestant sceptic can make nothing of it, at least the Roman
@@ -346,7 +346,7 @@ Bacchanalia and the barbarities of the gladiatorial combats (iv. 21,
 The temples, mentioned by Philostratus, which Apollonius visited in
 Greece, have all the peculiarity of being very ancient; for instance,
 Dodona, Delphi, the ancient shrine of Apollo at Abæ in Phocis, the
-"caves" of Amphiaraus <span id="fr_104"></span>[\*](#fn_104) and
+"caves" of Amphiaraus <span id="fr_104"></span>[\*](#fn_104.md) and
 Trophonius, and the temple of the Muses on Helicon.
 
 When he entered the adyta of these temples for the purpose of
@@ -433,42 +433,42 @@ advice and instruction in sacred things (v. 43).
 
 ### Footnotes
 
-<span id="fn_95"></span>[84:\*](aot10.htm#fr_95) For the most recent
+<span id="fn_95"></span>[84:\*](aot10.htm#fr_95.md) For the most recent
 study in English on the subject of Æsculapius see The Cult of Asclepios,
 by Alice Walton, Ph.D., in No. III. of The Cornell Studies in Classical
 Philology (Ithaca, N.Y.; 1891).
 
-<span id="fn_96"></span>[86:\*](aot10.htm#fr_96) He evidently wrote the
+<span id="fn_96"></span>[86:\*](aot10.htm#fr_96.md) He evidently wrote the
 notes of the Indian travels long after the time at which they were made.
 
-<span id="fn_97"></span>[86:†](aot10.htm#fr_97) This shows that
+<span id="fn_97"></span>[86:†](aot10.htm#fr_97.md) This shows that
 Philostratus came across them in some work or letter of Apollonius, and
 is therefore independent of Damis’ account for this particular.
 
-<span id="fn_98"></span>[87:\*](aot10.htm#fr_98) I—arχas, arχa(t)s,
+<span id="fn_98"></span>[87:\*](aot10.htm#fr_98) I—arχas, arχa(t.md)s,
 arhat.
 
-<span id="fn_99"></span>[89:\*](aot10.htm#fr_99) Tantalus is fabled to
+<span id="fn_99"></span>[89:\*](aot10.htm#fr_99.md) Tantalus is fabled to
 have stolen the cup of nectar from the gods; this was the amrita, the
 ocean of immortality and wisdom, of the Indians.
 
-<span id="fn_100"></span>[89:†](aot10.htm#fr_100) The words οὐδὲν
+<span id="fn_100"></span>[89:†](aot10.htm#fr_100.md) The words οὐδὲν
 κεκτημένους ἠ?\` τὰ πάντων, which Philostratus quotes twice in this
 form, can certainly not be changed into μηδὲν κεκτημένους τὰ πάντων
 ἔχειν, without doing unwarrantable violence to their meaning.
 
-<span id="fn_101"></span>[90:\*](aot10.htm#fr_101) See Tacitus,
+<span id="fn_101"></span>[90:\*](aot10.htm#fr_101.md) See Tacitus,
 Historia, ii. 3.
 
-<span id="fn_102"></span>[91:\*](aot10.htm#fr_102) Berwick, Life of
+<span id="fn_102"></span>[91:\*](aot10.htm#fr_102.md) Berwick, Life of
 Apollonius, p. 200 *n*.
 
-<span id="fn_103"></span>[92:\*](aot10.htm#fr_103) He also built a
+<span id="fn_103"></span>[92:\*](aot10.htm#fr_103.md) He also built a
 precinct round the tomb of Leonidas at Thermopylæ (iv. 23).
 
-<span id="fn_104"></span>[95:\*](aot10.htm#fr_104) A great centre of
+<span id="fn_104"></span>[95:\*](aot10.htm#fr_104.md) A great centre of
 divination by means of dreams (see ii. 37).
 
 ------------------------------------------------------------------------
 
-[Next: Section X. The Gymnosophists of Upper Egypt](aot11)
+[Next: Section X. The Gymnosophists of Upper Egypt](aot11.md)

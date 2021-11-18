@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](mht14)  [Next](mht16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](mht14)  [Next](mht16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ Textual Heritage
 <span id="img_07600"></span>
 
 [![](tn/07600.jpg)  
-Click to enlarge](img/07600.jpg)
+Click to enlarge](img/07600.jpg.md)
 
 <span id="page_77">p. 77</span>
 
@@ -94,50 +94,50 @@ Click to enlarge](img/07600.jpg)
 <span id="img_07900"></span>
 
 [![](tn/07900.jpg)  
-Click to enlarge](img/07900.jpg)
+Click to enlarge](img/07900.jpg.md)
 
 <span id="page_80">p. 80</span>
 
 <span id="img_08000"></span>
 
 [![](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)
+Click to enlarge](img/08000.jpg.md)
 
 <span id="page_81">p. 81</span>
 
 <span id="img_08100"></span>
 
 [![](tn/08100.jpg)  
-Click to enlarge](img/08100.jpg)
+Click to enlarge](img/08100.jpg.md)
 
 <span id="page_82">p. 82</span>
 
 <span id="img_08200"></span>
 
 [![](tn/08200.jpg)  
-Click to enlarge](img/08200.jpg)
+Click to enlarge](img/08200.jpg.md)
 
 <span id="page_83">p. 83</span>
 
 <span id="img_08300"></span>
 
 [![](tn/08300.jpg)  
-Click to enlarge](img/08300.jpg)
+Click to enlarge](img/08300.jpg.md)
 
 <span id="page_84">p. 84</span>
 
 <span id="img_08400"></span>
 
 [![](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)
+Click to enlarge](img/08400.jpg.md)
 
 <span id="page_85">p. 85</span>
 
 <span id="img_08500"></span>
 
 [![](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)
+Click to enlarge](img/08500.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Notes and Commentaries](mht16)
+[Next: Notes and Commentaries](mht16.md)

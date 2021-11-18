@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb24)  [Next](olb26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb24)  [Next](olb26.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -19,8 +19,8 @@ council was held.
 The mother's advice was asked, and she wished to see them at some
 distance, so she saw no harm in it; but as we afterwards saw what a
 mistake we had made, we called the island Missellia <span
-id="fr_29"></span>[‡](#fn_29) (Marseilles). Hereafter will be seen what
-reason we had. The Golen <span id="fr_30"></span>[§](#fn_30), as the
+id="fr_29"></span>[‡](#fn_29) (Marseilles.md). Hereafter will be seen what
+reason we had. The Golen <span id="fr_30"></span>[§](#fn_30.md), as the
 missionary priests of Sidon were called, had observed that the land
 there was thinly peopled, and was far from the mother. In order to make
 a favourable impression, they had themselves called in our language
@@ -49,12 +49,12 @@ children from Wr-alda in order to give them to false gods.
 
 ### Footnotes
 
-<span id="fn_29"></span>[85:‡](olb25.htm#fr_29) Miasellja is Marseilles.
+<span id="fn_29"></span>[85:‡](olb25.htm#fr_29.md) Miasellja is Marseilles.
 
-<span id="fn_30"></span>[85:§](olb25.htm#fr_30) Gola are the Galli or
+<span id="fn_30"></span>[85:§](olb25.htm#fr_30.md) Gola are the Galli or
 Gauls.
 
 ------------------------------------------------------------------------
 
 [Next: Now we will write about the War between the Burgtmaagden Kalta
-and Min-erva](olb26)
+and Min-erva](olb26.md)

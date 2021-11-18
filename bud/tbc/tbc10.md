@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](tbc09)  [Next](tbc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](tbc09)  [Next](tbc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddhist Catechism*, by Henry S. Olcott \[1908\], at Intangible
 Textual Heritage
 
@@ -59,7 +59,7 @@ The whole *Dasa*, or *Bhikkhu Sîla*, or Ten Precepts, are binding on
 devotees.
 
 The *Althanga Sîla* are for those who aspire to higher stages beyond the
-heavenly regions, <span id="fr_22"></span>[\*](#fn_22) aspirants after
+heavenly regions, <span id="fr_22"></span>[\*](#fn_22.md) aspirants after
 Nirvâṇa.
 
 259\. Q. *Are there separate Rules and Precepts for the guidance and
@@ -144,7 +144,7 @@ criminal or deformed or in the royal service.
 
 263\. Q. *As a novice what is he called?*
 
-A. *Samanera*, a pupil. <span id="fr_23"></span>[\*](#fn_23)
+A. *Samanera*, a pupil. <span id="fr_23"></span>[\*](#fn_23.md)
 
 264\. Q. *At what age can a Samanera be ordained as Sranrana—monk?*
 
@@ -261,12 +261,12 @@ according to their needs.
 
 ### Footnotes
 
-<span id="fn_22"></span>[76:\*](tbc10.htm#fr_22) The Upûsakâ and Upâsika
+<span id="fn_22"></span>[76:\*](tbc10.htm#fr_22.md) The Upûsakâ and Upâsika
 observe these on the Buddhist Uposatha (Sabbath) days (In Sk.
 *Upavasatha*). They are the 8th, 14th and 15th days of each half lunar
 month.
 
-<span id="fn_23"></span>[79:\*](tbc10.htm#fr_23) The relationship to his
+<span id="fn_23"></span>[79:\*](tbc10.htm#fr_23.md) The relationship to his
 Guru, or teacher, is almost like that of godson to godfather among
 Christians, only more real, for the teacher becomes father, mother,
 family and all to him.
@@ -275,6 +275,6 @@ family and all to him.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV. The Rise and Spread of Buddhism](tbc11)
+[Next: Part IV. The Rise and Spread of Buddhism](tbc11.md)
 
 </div>

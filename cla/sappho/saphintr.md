@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ It was only during the Victorian era that Sappho's sexual preference
 there is no actual explicit 'lesbian' sexual content in her poems, in
 the late 19th Century the French Decadant novelist Pierre Louys decided
 to invent some. Louys claimed that he had discovered the [poems of an
-ancient Lesbian poetess named 'Bilitis'](../sob/index), a contemporary
+ancient Lesbian poetess named 'Bilitis'](../sob/index.md), a contemporary
 of Sappho. Louys published free-verse 'translations' of her works
 complete with scholarly apparatus. The Bilitis poems provided all the
 juicy details that were missing from the Sappho corpus (or at least as

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml13)  [Next](iml15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml13)  [Next](iml15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Terrible Vow--Fisher Girl becomes Queen--Marriage by Capture--A
 Childless King--Origin of Dhritarashtra, Pandu, and Vidura.
 
 Now the sire of the great King Bharata <span
-id="fr_189"></span>[1](#fn_188) was royal Dushyanta of the lunar race,
+id="fr_189"></span>[1](#fn_188.md) was royal Dushyanta of the lunar race,
 the descendant of Atri, the Deva-rishi, and of Soma, the moon; his
 mother was beautiful Shakuntala, the hermit maiden, and daughter of a
 nymph from the celestial regions. And first be it told of the wooing of
@@ -45,7 +45,7 @@ plain, and entered a beautiful forest
 which delighted his heart, for it was deep and shady, and was cooled by
 soft winds; sweet-throated birds sang in the branches, and all round
 about there were blossoming trees and blushing flowers; he heard the
-soft notes of the kokila <span id="fr_190"></span>[1](#fn_189), and
+soft notes of the kokila <span id="fr_190"></span>[1](#fn_189.md), and
 beheld many a green bower carpeted with grass and canopied by
 many-coloured creepers.
 
@@ -96,7 +96,7 @@ wert born the daughter of such a one?"
 Then the maiden, who was named Shakuntala, because that the birds
 (shakunta) had nursed her, revealed unto the king the secret of her
 birth. Her real sire was Vishwamitra <span
-id="fr_191"></span>[1](#fn_190), the holy sage who had been a Kshatriya
+id="fr_191"></span>[1](#fn_190.md), the holy sage who had been a Kshatriya
 and was made a Brahman in reward for his austerities. It came to pass
 that Indra became alarmed at his growing power, and he feared that the
 mighty sage of blazing energy would, by reason of his penances, cast
@@ -127,7 +127,7 @@ The king said: "Blessed are thy words, O princess. Thou art of royal
 birth. Be thou my bride, O beautiful maid, and thou wilt have garlands
 of gold and golden ear-rings and white pearls and rich robes; my kingdom
 also will be thine, O timid one; wed thou me in Gandharva mode, which of
-all marriages is the best." <span id="fr_192"></span>[1](#fn_191)
+all marriages is the best." <span id="fr_192"></span>[1](#fn_191.md)
 
 Then Shakuntala promised to be the king's bride, on condition that he
 would choose her son as the heir to his throne.
@@ -148,7 +148,7 @@ and
 true, and a son will be born unto thee who will achieve great renown."
 
 In time fair Shakuntala became the mother of a comely boy, and the wheel
-mark <span id="fr_193"></span>[1](#fn_192) was on his hands. He grew to
+mark <span id="fr_193"></span>[1](#fn_192.md) was on his hands. He grew to
 be strong and brave, and when but six years old he sported with young
 lions, for he was suckled by a lioness; he rode on the backs of lions
 and tigers and wild boars in the midst of the forest. He was called
@@ -158,7 +158,7 @@ Now when Kanva perceived that the boy was of unequalled prowess, he
 spake to Shakuntala and said: "The time hath come when he must be
 anointed as heir to the throne." So he bade his disciples to escort
 mother and son unto the city of Gajasahvaya <span
-id="fr_194"></span>[2](#fn_193), where Dushyanta had his royal palace.
+id="fr_194"></span>[2](#fn_193.md), where Dushyanta had his royal palace.
 
 So it came that Shakuntala once again stood before the king, and she
 said unto him: "Lo! I have brought unto thee this thy son, O Dushyanta.
@@ -234,7 +234,7 @@ by pledge of Shakuntala alone, men would suspect the truth of her words
 and doubt his royal birth."
 
 Thereafter Dushyanta embraced his son and kissed him, and he honoured
-Shakuntala as his chief rani <span id="fr_195"></span>[1](#fn_194); he
+Shakuntala as his chief rani <span id="fr_195"></span>[1](#fn_194.md); he
 said to her, soothingly: "From all men have I concealed our union; and
 for the sake of thine own good name I hesitated to acknowledge thee.
 Forgive my harsh words, as I forgive thine. Thou didst speak
@@ -242,15 +242,15 @@ passionately because thou lovest me well, O great-eyed and fair one,
 whom I love also."
 
 The son of Shakuntala was then anointed as heir to the throne, and he
-was named Bharata. <span id="fr_196"></span>[2](#fn_195)
+was named Bharata. <span id="fr_196"></span>[2](#fn_195.md)
 
 <span id="page_164">p. 164</span>
 
 When Dushyanta died, Bharata became king. Great was his fame, as
-befitted a descendant of Chandra. <span id="fr_197"></span>[1](#fn_196)
+befitted a descendant of Chandra. <span id="fr_197"></span>[1](#fn_196.md)
 He was a mighty warrior, and none could withstand him in battle; he made
 great conquests, and extended his kingdom all over Hindustan, which was
-called Bharatavarsha. <span id="fr_198"></span>[2](#fn_197)
+called Bharatavarsha. <span id="fr_198"></span>[2](#fn_197.md)
 
 King Bharata was the sire of King Hastin, who built the great city of
 Hastinapur; King Hastin begot King Kuru, and King Kuru begot King
@@ -279,7 +279,7 @@ offspring.
 
 [![SHANTANU MEETS THE GODDESS GANGA&lt;br&gt; &lt;i&gt;From the painting
 by Warwick Goble&lt;/i&gt;.](tn/16400.jpg)  
-Click to enlarge](img/16400.jpg)  
+Click to enlarge](img/16400.jpg.md)  
 SHANTANU MEETS THE GODDESS GANGA  
 *From the painting by Warwick Goble*.  
 
@@ -297,7 +297,7 @@ with love-lorn eyes, as if she sought to look upon him for ever, and he
 spoke to her, saying: "O slender-waisted and fair one, art thou one of
 the Danavas, or art thou of the race of Gandharvas, or art thou of the
 Apsaras; art thou one of the Yakshas or Nagas, <span
-id="fr_199"></span>[1](#fn_198) or art thou of human kind, O peerless
+id="fr_199"></span>[1](#fn_198.md) or art thou of human kind, O peerless
 and faultless one? Be thou my bride."
 
 The goddess made answer that she would wed the king, but said she must
@@ -328,13 +328,13 @@ she brought with her for the king a fair and noble son, who was endowed
 with the virtues of the Vasus. Then she departed never to come again.
 The heart of Shantanu was moved towards the child, who became a comely
 and powerful youth, and was named Satanava. <span
-id="fr_200"></span>[1](#fn_199)
+id="fr_200"></span>[1](#fn_199.md)
 
 When Shantanu had grown old, he sought to marry a young and beautiful
 bride whom he loved. For one day as he walked beside the Jumna river he
 was attracted by a sweet and alluring perfume, which drew him through
 the trees until he beheld a maiden of celestial beauty with luminous
-black eyes. <span id="fr_201"></span>[2](#fn_200) The king spake to her
+black eyes. <span id="fr_201"></span>[2](#fn_200.md) The king spake to her
 and said: "Who art thou, and whose daughter, O timid one? What doest
 thou here?"
 
@@ -342,7 +342,7 @@ Said the maiden, blessing Shantanu: "I am the daughter of a fisherman,
 and I ferry passengers across the river in my boat."
 
 Now, the name of this fair maiden was Satyavati. <span
-id="fr_202"></span>[3](#fn_201) Like Shakuntala, she was of miraculous
+id="fr_202"></span>[3](#fn_201.md) Like Shakuntala, she was of miraculous
 origin, and had been adopted by her reputed sire. It chanced that a fish
 once carried away in its stomach two unborn babes, a girl and a boy,
 whose father was a great rajah. This fish was caught by a fisherman, who
@@ -361,7 +361,7 @@ it vanished from sight.
 
 When the fisher girl became the mother of a son, he grew suddenly before
 her eyes, and in a brief space was a man. His name was Vyasa <span
-id="fr_203"></span>[1](#fn_202); he bade his mother farewell, and
+id="fr_203"></span>[1](#fn_202.md); he bade his mother farewell, and
 hastened to the depths of a forest to spend his days in holy meditation.
 Ere he departed he said unto Satyavati: "If ever thou hast need of me,
 think of me, and I shall come to thine aid."
@@ -400,7 +400,7 @@ the "Terrible", for the vow that he had taken was terrible indeed.
 
 Then was Satyavati given in marriage to the king, and she bore him two
 sons, who were named Chitrangada and Vichitra-virya. <span
-id="fr_204"></span>[1](#fn_203)
+id="fr_204"></span>[1](#fn_203.md)
 
 In time Santanu sank under the burden of his years, and his soul
 departed from his body. Unto Bhishma was left the care of the
@@ -409,7 +409,7 @@ queen-mother, Satyavati, and the two princes.
 When the days of mourning went past, Bhishma renounced the throne in
 accordance with his vow, and Chitrangada was proclaimed king. This youth
 was a haughty ruler, and his reign was brief. He waged war against the
-Gandhari of the hills <span id="fr_205"></span>[2](#fn_204) for three
+Gandhari of the hills <span id="fr_205"></span>[2](#fn_204.md) for three
 years, and was slain in battle by their rajah. Then Bhishma placed
 Vichitra-virya on the throne, and, as he was but a boy, Bhishma ruled as
 regent for some years.
@@ -420,9 +420,9 @@ to find wives for him. It chanced
 <span id="page_169">p. 169</span>
 
 that the King of Kasi (Benares) had three fair daughters whose
-swayamvara <span id="fr_206"></span>[1](#fn_205) was being proclaimed.
+swayamvara <span id="fr_206"></span>[1](#fn_205.md) was being proclaimed.
 When Bhishma was told of this he at once entered his chariot and drove
-from Hastinapur <span id="fr_207"></span>[2](#fn_206) to Kasi to
+from Hastinapur <span id="fr_207"></span>[2](#fn_206.md) to Kasi to
 discover if the girls were worthy of the monarch of Bharatavarsha. He
 found that they had great beauty, and he was well pleased thereat. The
 great city was thronged with rajahs who had gathered from far and near
@@ -454,12 +454,12 @@ thousand arrows were discharged against him, but he broke their flight
 with innumerable darts from his own mighty bow. Strong and brave was he
 indeed; there was none who could overcome him; he fought and conquered
 all, until not a rajah was left to contend against him. <span
-id="fr_208"></span>[1](#fn_207)
+id="fr_208"></span>[1](#fn_207.md)
 
 Thus did Bhishma, the terrible son of the ocean-going Ganga, take
 captive after battle the three fair daughters of the King of Kasi; and
 he drove away with them in his chariot towards Hastinapur. <span
-id="fr_209"></span>[2](#fn_208)
+id="fr_209"></span>[2](#fn_208.md)
 
 When he reached the royal palace he presented the maidens unto Queen
 Satyavati, who was well pleased, and at once gave many costly gifts to
@@ -492,7 +492,7 @@ from the palace and out of the city. So was she compelled to seek refuge
 in the lonely forest, and there she practised great austerities with
 purpose to secure power to slay Bhishma, who had wronged her. In the end
 she threw herself upon a pyre, so that she might attain her desire in
-the next life. <span id="fr_210"></span>[1](#fn_209)
+the next life. <span id="fr_210"></span>[1](#fn_209.md)
 
 Her two sisters, Amvika and Amvalika, became the wives of
 Vitchitra-virya, who loved them well; but his days were brief, and he
@@ -505,7 +505,7 @@ Bharata.
 
 Now it was the custom in those days that a kinsman should become the
 father of children to succeed the dead king. <span
-id="fr_211"></span>[2](#fn_210) So Queen Satyavati spake unto Bhishma,
+id="fr_211"></span>[2](#fn_210.md) So Queen Satyavati spake unto Bhishma,
 saying: "Take thou the widows of my son and raise up sons who will be as
 sons of the king."
 
@@ -514,7 +514,7 @@ the sire of any children."
 
 In her despair Satyavati then thought of her son Vyasa, and he
 immediately appeared before her and consented to do as was her
-desire. <span id="fr_212"></span>[3](#fn_211)
+desire. <span id="fr_212"></span>[3](#fn_211.md)
 
 Now Vyasa was a mighty sage, but, by reason of his
 
@@ -537,7 +537,7 @@ Vidura to be his human incarnation.
 The three children were reared by Bhishma, who was regent over the
 kingdom, and was yet subject to Queen Satyavati. He taught them the laws
 and trained them as warriors. When the time came to select a king,
-Dhritarashtra <span id="fr_213"></span>[1](#fn_212) was passed over
+Dhritarashtra <span id="fr_213"></span>[1](#fn_212.md) was passed over
 because that he was blind, and Vidura because of his humble birth, and
 Pandu, "the pale one", was set upon the throne.
 
@@ -547,27 +547,27 @@ Pandu, "the pale one", was set upon the throne.
 
 ### Footnotes
 
-<span id="fn_188"></span>[157:1](iml14.htm#fr_189) *Pron*. bah´ra-ta or
+<span id="fn_188"></span>[157:1](iml14.htm#fr_189.md) *Pron*. bah´ra-ta or
 bhah´ra-ta.
 
-<span id="fn_189"></span>[158:1](iml14.htm#fr_190) The Indian cuckoo.
+<span id="fn_189"></span>[158:1](iml14.htm#fr_190.md) The Indian cuckoo.
 
-<span id="fn_190"></span>[159:1](iml14.htm#fr_191) *Pron*.
+<span id="fn_190"></span>[159:1](iml14.htm#fr_191.md) *Pron*.
 vish-wah-mit´ra.
 
-<span id="fn_191"></span>[160:1](iml14.htm#fr_192) The Gandharva
+<span id="fn_191"></span>[160:1](iml14.htm#fr_192.md) The Gandharva
 marriage was legalized by Manu, but only for members of the Kshatriya
 (kings and warriors) caste.
 
-<span id="fn_192"></span>[161:1](iml14.htm#fr_193) A sign of martial and
+<span id="fn_192"></span>[161:1](iml14.htm#fr_193.md) A sign of martial and
 royal origin.
 
-<span id="fn_193"></span>[161:2](iml14.htm#fr_194) *Pron*.
+<span id="fn_193"></span>[161:2](iml14.htm#fr_194.md) *Pron*.
 Gaj-as-ah-va´ya.
 
-<span id="fn_194"></span>[163:1](iml14.htm#fr_195) Queen.
+<span id="fn_194"></span>[163:1](iml14.htm#fr_195.md) Queen.
 
-<span id="fn_195"></span>[163:2](iml14.htm#fr_196) This story is the
+<span id="fn_195"></span>[163:2](iml14.htm#fr_196.md) This story is the
 plot of "Shakuntala", the Sanskrit drama of the poet Kalidasa, <span
 id="page_164">p. 164</span> who lived in the fifth century A.D. He makes
 the king give the heroine a ring, which she loses while bathing. A fish
@@ -576,66 +576,66 @@ the king. Then suddenly His Majesty remembers his bride, whom he had
 forgotten and already denied. The misfortunes of the monarch and maid
 resulted from the curse of the sage Durvasas. *Pron*. Sha-koon´-ta-lah.
 
-<span id="fn_196"></span>[164:1](iml14.htm#fr_197) *Pron*. chun´dra
+<span id="fn_196"></span>[164:1](iml14.htm#fr_197.md) *Pron*. chun´dra
 ("ch" as in "change"). Also Soma, the moon god.
 
-<span id="fn_197"></span>[164:2](iml14.htm#fr_198) Subsequently the name
+<span id="fn_197"></span>[164:2](iml14.htm#fr_198.md) Subsequently the name
 for India as a whole.
 
-<span id="fn_198"></span>[165:1](iml14.htm#fr_199) Art thou a demon or
+<span id="fn_198"></span>[165:1](iml14.htm#fr_199.md) Art thou a demon or
 nymph or fairy or dwarf or demi-god?
 
-<span id="fn_199"></span>[166:1](iml14.htm#fr_200) His other names are
+<span id="fn_199"></span>[166:1](iml14.htm#fr_200.md) His other names are
 Deva-bratta and Ganga-bratta, and he was ultimately known as Bhishma.
 
-<span id="fn_200"></span>[166:2](iml14.htm#fr_201) The Pharaoh of the
+<span id="fn_200"></span>[166:2](iml14.htm#fr_201.md) The Pharaoh of the
 Anpu-Bata Egyptian story was similarly attracted by a perfume which
 issued from a lock of hair. See *Egyptian Myth and Legend*.
 
-<span id="fn_201"></span>[166:3](iml14.htm#fr_202) *Pron*.
+<span id="fn_201"></span>[166:3](iml14.htm#fr_202.md) *Pron*.
 sat´ya-vat-ee.
 
-<span id="fn_202"></span>[167:1](iml14.htm#fr_203) *Pron*. vyas´a (two
+<span id="fn_202"></span>[167:1](iml14.htm#fr_203.md) *Pron*. vyas´a (two
 syllables). The reputed author of the *Mahá-bhárata*.
 
-<span id="fn_203"></span>[168:1](iml14.htm#fr_204) *Pron*.
+<span id="fn_203"></span>[168:1](iml14.htm#fr_204.md) *Pron*.
 chit-ran´gad-a ("ch" as in "change") *and* vi-cheet´ra-veer-ya.
 
-<span id="fn_204"></span>[168:2](iml14.htm#fr_205) An Aryan tribe in the
+<span id="fn_204"></span>[168:2](iml14.htm#fr_205.md) An Aryan tribe in the
 north-west of India. Part of their territory was included in the Persian
 empire. Keith identifies them with the Gandarians who accompanied Xerxes
 in his campaign against the Greeks.
 
-<span id="fn_205"></span>[169:1](iml14.htm#fr_206) A festival at which a
+<span id="fn_205"></span>[169:1](iml14.htm#fr_206.md) A festival at which a
 princess selected a husband from among the kings and warriors assembled
 together.
 
-<span id="fn_206"></span>[169:2](iml14.htm#fr_207) A drive of about 500
+<span id="fn_206"></span>[169:2](iml14.htm#fr_207.md) A drive of about 500
 miles. Indian poets, however, have never troubled about geographical
 difficulties.
 
-<span id="fn_207"></span>[170:1](iml14.htm#fr_208) The Kasi tribe was
+<span id="fn_207"></span>[170:1](iml14.htm#fr_208.md) The Kasi tribe was
 Aryan but was disliked by the eastern Aryans because its beliefs were
 not according to the standards imposed by the Brahmans. Conflicts were
 frequent.
 
-<span id="fn_208"></span>[170:2](iml14.htm#fr_209) *Pron*.
+<span id="fn_208"></span>[170:2](iml14.htm#fr_209.md) *Pron*.
 has-teen´a-poor. Marriage by capture was called a Rákshas marriage, and
 was sanctioned by Manu.
 
-<span id="fn_209"></span>[171:1](iml14.htm#fr_210) She helps to kill
+<span id="fn_209"></span>[171:1](iml14.htm#fr_210.md) She helps to kill
 Bhishma in the great war, having changed her sex with a Yaksha.
 
-<span id="fn_210"></span>[171:2](iml14.htm#fr_211) A similar practice is
+<span id="fn_210"></span>[171:2](iml14.htm#fr_211.md) A similar practice is
 referred to in Genesis xxxviii; it was a regular institution among the
 ancient Hebrews.
 
-<span id="fn_211"></span>[171:3](iml14.htm#fr_212) This custom is called
+<span id="fn_211"></span>[171:3](iml14.htm#fr_212.md) This custom is called
 "niyoga", and was legalized by Manu, but only for the lower castes.
 
-<span id="fn_212"></span>[172:1](iml14.htm#fr_213) *Pron*.
+<span id="fn_212"></span>[172:1](iml14.htm#fr_213.md) *Pron*.
 dreet´a-rash″tra, Pan´doo, *and* Ve-dur´a ("u" as "oo").
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Royal Rivals: the Pandavas and Kauravas](iml15)
+[Next: Chapter X. Royal Rivals: the Pandavas and Kauravas](iml15.md)

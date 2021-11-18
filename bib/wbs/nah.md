@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](mic)  [Next](hab) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](mic)  [Next](hab.md) 
 
 ------------------------------------------------------------------------
 
@@ -192,4 +192,4 @@ over thee: for upon whom hath not thy wickedness passed continually?
 
 ------------------------------------------------------------------------
 
-[Next: Habakkuk](hab)
+[Next: Habakkuk](hab.md)

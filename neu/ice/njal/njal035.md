@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal034)  [Next](njal036) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal034)  [Next](njal036.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ winter. And now the summer was running on towards the Great Thing.
 
 ------------------------------------------------------------------------
 
-[Next: 36. Kol Slew Swart](njal036)
+[Next: 36. Kol Slew Swart](njal036.md)

@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama105) 
-[Next](kama202) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama105.md) 
+[Next](kama202.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ the elephant has and the hare make the lowest unions. There are, then,
 nine kinds of union according to dimensions. Amongst all these, equal
 unions are the best, those of a superlative degree, i.e. the highest and
 the lowest, are the worst, and the rest are middling, and with them the
-high <span id="fr_29"></span>[1](kama101.htm#fn_0) are better than the
+high <span id="fr_29"></span>[1](kama101.htm#fn_0.md) are better than the
 low.
 
 There are also nine kinds of union according to the force of passion or
@@ -145,7 +145,7 @@ has fallen away. And there is a verse with regard to this as follows:
 'The fall of the semen of the man takes place only at the end of
 coition, while the semen of the woman falls continually, and after the
 semen of both has all fallen away then they wish for the discontinuance
-of coition.' <span id="fr_30"></span>[2](kama101.htm#fn_1)
+of coition.' <span id="fr_30"></span>[2](kama101.htm#fn_1.md)
 
 Lastly, Vatsyayana is of opinion that the semen of the female falls in
 the same way as that of the male.
@@ -173,7 +173,7 @@ acted upon being of different kinds, there is a reason for the
 difference in their ways of working; but there is no reason for any
 difference in the pleasure they feel, because they both naturally derive
 pleasure from the act they perform. <span
-id="fr_31"></span>[3](kama101.htm#fn_2)
+id="fr_31"></span>[3](kama101.htm#fn_2.md)
 
 On this again some may say that when different persons are engaged in
 doing the same work, we find that they accomplish the same end or
@@ -206,7 +206,7 @@ passion, and time, respectively, by making combinations of them,
 innumerable kinds of union would be produced. Therefore in each
 particular kind of sexual union, men should use such means as they may
 think suitable for the occasion. <span
-id="fr_32"></span>[4](kama102.htm#fn_6)
+id="fr_32"></span>[4](kama102.htm#fn_6.md)
 
 At the first time of sexual union the passion of the male is intense,
 and his time is short, but in subsequent unions on the same day the
@@ -252,12 +252,12 @@ same will now be treated of at length and in detail.
 
 ### Footnotes
 
-<span id="fn_29"></span>[1](#fr_-1) High unions are said to be better
+<span id="fn_29"></span>[1](#fr_-1.md) High unions are said to be better
 than low ones, for in the former it is possible for the male to satisfy
 his own passion without injuring the female, while in the latter it is
 difficult for the female to be satisfied by any means.
 
-<span id="fn_30"></span>[2](#fr_-1) The strength of passion with women
+<span id="fn_30"></span>[2](#fr_-1.md) The strength of passion with women
 varies a great deal, some being easily satisfied, and others eager and
 willing to go on for a long time. To satisfy these last thoroughly a man
 must have recourse to art. It is certain that a fluid flows from the
@@ -266,7 +266,7 @@ complete until she has experienced the 'spasme génêtique', as described
 in a French work recently published and called Brevaire as *l'Amour
 Experimental par le Dr Jules Guyot*.
 
-<span id="fn_31"></span>[3](#fr_-1) This is a long dissertation very
+<span id="fn_31"></span>[3](#fr_-1.md) This is a long dissertation very
 common among Sanscrit authors, both when writing and talking socially.
 They start certain propositions, and then argue for and against them.
 What it is presumed the author means is that, though both men and women
@@ -279,7 +279,7 @@ difference in the consciousness of pleasure that each has, but no
 difference in the pleasure they feel, for each feels that pleasure to a
 greater or lesser degree.
 
-<span id="fn_32"></span>[4](#fr_-1) This paragraph should be
+<span id="fn_32"></span>[4](#fr_-1.md) This paragraph should be
 particularly noted, for it specially applies to married men and their
 wives. So many men utterly ignore the feelings of the women, and never
 pay the slightest attention to the passion of the latter. To understand
@@ -290,4 +290,4 @@ satisfaction from it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Of the Embrace](kama202)
+[Next: Chapter II. Of the Embrace](kama202.md)

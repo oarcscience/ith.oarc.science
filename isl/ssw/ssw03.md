@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](ssw02) 
-[Next](ssw04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](ssw02.md) 
+[Next](ssw04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sadi's Scroll of Wisdom*, by Arthur N. Wollaston, \[1906\], at
 Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ something in each corner,
 <span id="page_11">p. 11</span>
 
 <span class="contnote">\[paragraph continues\]</span> I have gleaned an
-ear from every harvest." <span id="fr_0"></span>[1](#fn_0)
+ear from every harvest." <span id="fr_0"></span>[1](#fn_0.md)
 
 On another occasion we learn from his own narrative that he was so
 enraged at the pagan rites practised at the renowned temple of Somnath
@@ -58,7 +58,7 @@ in Gujarat that he incontinently threw the priest headlong into a well.
 An anecdote related by himself reveals the next important event in his
 career. "Weary of the society of my friends at Damascus, I fled to the
 barren wastes of Jerusalem and associated with brutes, until I was made
-captive by the Franks, <span id="fr_1"></span>[2](#fn_1) and forced to
+captive by the Franks, <span id="fr_1"></span>[2](#fn_1.md) and forced to
 dig clay, along with Jews, in the fortifications of Tripoli. One of
 
 <span id="page_12">p. 12</span>
@@ -73,7 +73,7 @@ the feet with friends is better than to be free to walk in a garden with
 strangers.' He took compassion on my forlorn condition, ransomed me from
 the Franks for ten dinars, and took me with him to Aleppo. My friend had
 a daughter, to whom he married me, and presented me with one hundred
-dinars <span id="fr_2"></span>[1](#fn_2)
+dinars <span id="fr_2"></span>[1](#fn_2.md)
 
 <span id="page_13">p. 13</span>
 
@@ -221,7 +221,7 @@ better? (2) How should I act if my enemy will not be reconciled to me
 
 <span class="contnote">\[paragraph continues\]</span> (3) Is one who
 performs the pilgrimage to Mecca better than one who has neglected that
-duty? (4) Is a descendant of Ali <span id="fr_3"></span>[1](#fn_3)
+duty? (4) Is a descendant of Ali <span id="fr_3"></span>[1](#fn_3.md)
 better than other people? (5) Would the poet be pleased to accept a
 present of a turban and 500 dinars as subsistence money for his birds?
 The messenger, the bearer of the letter, thought that he might with
@@ -297,7 +297,7 @@ justness of many of its sentiments, and the glorious views of the Divine
 attributes contained in it, are truly remarkable,"
 
 \(c\) The *Pand Namah*, or *Scroll of Wisdom*, <span
-id="fr_4"></span>[1](#fn_4) a small volume of poetry embodying precepts
+id="fr_4"></span>[1](#fn_4.md) a small volume of poetry embodying precepts
 which would do no discredit to the philosophy of this, the twentieth
 century of the Christian era. Concise and elegant, the work is most
 popular throughout the length and breadth of the Persian-speaking East.
@@ -342,22 +342,22 @@ present work.
 
 ### Footnotes
 
-<span id="fn_0"></span>[11:1](ssw03.htm#fr_0) Well indeed may he have
+<span id="fn_0"></span>[11:1](ssw03.htm#fr_0.md) Well indeed may he have
 penned these words, inasmuch as he traversed Asia Minor, Barbary,
 Abyssinia, Egypt, Syria, Palestine, Armenia, Arabia, the various
 provinces of Iran, and portions of India. Even in these days of extended
 travel Sadi's wanderings would not be without repute.
 
-<span id="fn_1"></span>[11:2](ssw03.htm#fr_1) That is the Crusaders.
+<span id="fn_1"></span>[11:2](ssw03.htm#fr_1.md) That is the Crusaders.
 
-<span id="fn_2"></span>[12:1](ssw03.htm#fr_2) In the coinage of the
+<span id="fn_2"></span>[12:1](ssw03.htm#fr_2.md) In the coinage of the
 present day, 100 dinars are worth about one penny of English money; but
 in Sadi's time a dinar was equivalent to about 7 or 8 shillings.
 
-<span id="fn_3"></span>[21:1](ssw03.htm#fr_3) The son-in-law of the
+<span id="fn_3"></span>[21:1](ssw03.htm#fr_3.md) The son-in-law of the
 Prophet, and the first caliph according to the tenets of the Persians.
 
-<span id="fn_4"></span>[25:1](ssw03.htm#fr_4) It may, however, be
+<span id="fn_4"></span>[25:1](ssw03.htm#fr_4.md) It may, however, be
 explained that the earlier MSS. do not contain this work, which was
 first ascribed to Sadi about A.D. 1438.
 
@@ -365,6 +365,6 @@ first ascribed to Sadi about A.D. 1438.
 
 ------------------------------------------------------------------------
 
-[Next: Sadi's Scroll of Wisdom](ssw04)
+[Next: Sadi's Scroll of Wisdom](ssw04.md)
 
 </div>

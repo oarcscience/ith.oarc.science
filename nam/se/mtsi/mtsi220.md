@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi219)  [Next](mtsi221) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi219)  [Next](mtsi221.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ saw her she was very happy.
 
 ------------------------------------------------------------------------
 
-[Next: 21. The Giant Elk](mtsi221)
+[Next: 21. The Giant Elk](mtsi221.md)

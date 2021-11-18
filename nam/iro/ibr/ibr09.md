@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr08)  [Next](ibr10) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr08)  [Next](ibr10.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ those of their friends. If any one falls sick, and wants something which
 may benefit him, everybody is eager to furnish it. Whenever one of them
 has something specially good to eat, he invites his friends and makes a
 feast. Indeed, they hardly ever eat alone." <span
-id="fr_47"></span>[1](#fn_47)
+id="fr_47"></span>[1](#fn_47.md)
 
 The Iroquois, who had seemed little better than demons to the
 missionaries while they knew them only as enemies to the French or their
@@ -116,7 +116,7 @@ a departure from their ordinary system of social life. The missionaries,
 in describing the general harmony which prevailed among the Hurons,
 admit that it was sometimes disturbed. There were "bad spirits" among
 them, as everywhere else, who could not always be controlled. <span
-id="fr_48"></span>[1](#fn_48) Atotarho, among the Onondagas, was one of
+id="fr_48"></span>[1](#fn_48.md) Atotarho, among the Onondagas, was one of
 these bad spirits; and in his case, unfortunately, an evil disposition
 was reinforced by a keen intellect and a powerful will. His history for
 a time offered a rare instance of something approaching to despotism, or
@@ -125,7 +125,7 @@ and conduct so extraordinary, seemed in aftertimes to require
 explanation. A legend is preserved among the Onondagas, which was
 apparently devised to account for a prodigy so far out of the common
 order of events. I give it in the words in which it is recorded in my
-journal. <span id="fr_49"></span>[2](#fn_49)
+journal. <span id="fr_49"></span>[2](#fn_49.md)
 
 "Another legend, of which I have not before heard, professed to give the
 origin both of the abnormal ferocity and of the preterhuman powers of
@@ -162,18 +162,18 @@ to his right mind.
 
 ### Footnotes
 
-<span id="fn_47"></span>[85:1](ibr09.htm#fr_47) *Relation* for 1636, p.
+<span id="fn_47"></span>[85:1](ibr09.htm#fr_47.md) *Relation* for 1636, p.
 117.
 
-<span id="fn_48"></span>[86:1](ibr09.htm#fr_48) *Relation of 1636*, p.
+<span id="fn_48"></span>[86:1](ibr09.htm#fr_48.md) *Relation of 1636*, p.
 118: "Ostez quelques mauvais esprits, qui se rencontrent quasi partout,"
 etc.
 
-<span id="fn_49"></span>[86:2](ibr09.htm#fr_49) This story was related
+<span id="fn_49"></span>[86:2](ibr09.htm#fr_49.md) This story was related
 to me in March, 1882, by my intelligent friend, Chief John Buck, who was
 inclined to give it credence,--sharing in this, as in other things, the
 sentiments of the best among his people.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: The Iroquois Policy](ibr10)
+[Next: Chapter IX: The Iroquois Policy](ibr10.md)

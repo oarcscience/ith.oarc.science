@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq44)  [Next](sfq46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq44)  [Next](sfq46.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ ignorant of his servants' rudeness and inattention to strangers. The
 <span id="img_19800"></span>
 
 [![](tn/19800.jpg)  
-Click to enlarge](img/19800.jpg)
+Click to enlarge](img/19800.jpg.md)
 
 knights were willing to accept his excuses, though they did not believe
 them, and they did not refuse to enter.
@@ -97,4 +97,4 @@ must stay behind at the Castle till his wounds were cured.
 
 ------------------------------------------------------------------------
 
-[Next: How Britomart walked through Fire](sfq46)
+[Next: How Britomart walked through Fire](sfq46.md)

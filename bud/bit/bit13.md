@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit12)  [Next](bit14) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit12)  [Next](bit14.md) 
 
 ------------------------------------------------------------------------
 
@@ -626,4 +626,4 @@ indicating the leaf of a fig-tree.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. Translation of an Address to the Buddhas of
-Confession](bit14)
+Confession](bit14.md)

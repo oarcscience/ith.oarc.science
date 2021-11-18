@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain17)  [Next](ain19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain17)  [Next](ain19.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,11 +165,11 @@ sprang in and caught up the two boys and put them in her gyih-haw and
 started off.
 
 And as she went along the boys said: "Grandmother, we like flat stones
-to play with. [Won't](errata.htm#13) you give us all the flat stones you
+to play with. [Won't](errata.htm#13.md) you give us all the flat stones you
 can find?" And Hawawk picked up all the flat stones she came to and put
-them one by one over her [shoulder](errata.htm#14) into the basket.
+them one by one over her [shoulder](errata.htm#14.md) into the basket.
 
-And the boys said, again, after the basket [began](errata.htm#15) to get
+And the boys said, again, after the basket [began](errata.htm#15.md) to get
 heavy, "Grandmother, we like to go under limbs of trees. Go under all
 the low limbs of trees you can to please us." And Hawawk went under a
 low tree, and one of the boys caught hold of the limb and hung there
@@ -178,7 +178,7 @@ till
 <span id="page_112">p. 112</span>
 
 she had gone on. And Hawawk went under another tree, and the other boy
-[caught](errata.htm#16) hold of a limb and staid there. But because of
+[caught](errata.htm#16.md) hold of a limb and staid there. But because of
 the flat stones she kept putting into her gyih-haw Hawawk did not notice
 this. And when she got to her cave and emptied her basket there were no
 boys there.
@@ -353,4 +353,4 @@ And thus ended forever the evil power of Hawawk.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of Hawawk](ain19)
+[Next: Notes on the Story of Hawawk](ain19.md)

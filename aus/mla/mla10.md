@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla09)  [Next](mla11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla09)  [Next](mla11.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ mangrove swamp.
 
 ------------------------------------------------------------------------
 
-[Next: Why the Crow is Black](mla11)
+[Next: Why the Crow is Black](mla11.md)

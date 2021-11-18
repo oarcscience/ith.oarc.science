@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf12) [Next](bulf14) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf12) [Next](bulf14.md) 
 
 # CHAPTER XIV.
 
@@ -303,4 +303,4 @@ recalled to mind by some wit like Moore for the sake of a joke.
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XV. The Graeae And Gorgons- Perseus- Medusa- Atlas-
-Andromeda.](bulf14)
+Andromeda.](bulf14.md)

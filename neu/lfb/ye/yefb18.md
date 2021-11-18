@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb17)  [Next](yefb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb17)  [Next](yefb19.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_100">p. 100</span>
 
-THE WIZARD KING <span id="fr_13"></span>[1](#fn_13)
+THE WIZARD KING <span id="fr_13"></span>[1](#fn_13.md)
 
 In very ancient times there lived a King, whose power lay not only in
 the vast extent of his dominions, but also in the magic secrets of which
@@ -301,13 +301,13 @@ entire royal family.
 
 ### Footnotes
 
-<span id="fn_13"></span>[100:1](yefb18.htm#fr_13) From *Les Fées
+<span id="fn_13"></span>[100:1](yefb18.htm#fr_13.md) From *Les Fées
 illustres*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Nixy](yefb19)
+[Next: The Nixy](yefb19.md)
 
 </div>

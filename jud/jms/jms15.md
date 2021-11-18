@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms14)  [Next](jms16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms14)  [Next](jms16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -78,7 +78,7 @@ established a discipline broad enough to serve as an adequate basis for
 any later accretions, and while many popular remedies were directly
 borrowed from non-Jews, the rationale of superstition and magic in
 medicine was part and parcel of the Jewish cultural
-heritage.[1](jms34.htm#an_13_1)
+heritage.[1](jms34.htm#an_13_1.md)
 
 We find, of course, among the popular prescriptions a goodly number of
 items that have no basis other than tradition and a naïve
@@ -94,7 +94,7 @@ remove warts, smear them with horse's blood; for a toothache, mix salt,
 oil, pepper and a little garlic, bind the mixture *on the pulse*, and
 leave it there overnight; as a remedy for insomnia, induce a louse
 captured on the patient's head to crawl into a hollow bone, seal the
-bone, and hang about the patient's neck.[2](jms34.htm#an_13_2)
+bone, and hang about the patient's neck.[2](jms34.htm#an_13_2.md)
 
 The German belief that water (called *heilawac* or *heilwag*) drawn at
 certain holy seasons possesses curative powers (a belief
@@ -110,7 +110,7 @@ who is ill, and is fortunate enough to get some of that healing water
 and drink it, even though his body be wholly broken out with sores, will
 be immediately cured." The admonition that one must be silent while
 fetching this water is found in both the Jewish and German
-sources.[3](jms34.htm#an_13_3)
+sources.[3](jms34.htm#an_13_3.md)
 
 According to a statement in the Talmud, "a heavy step detracts one
 five-hundredth from the light of the eyes," so that if no preventive
@@ -140,7 +140,7 @@ admitted that "both mother and child require medication, and the
 blessings promote health.") Still another remedy for weak eyes was to
 gaze fixedly into a mirror for a while; "some scribes set a mirror in
 front of them when they are writing, and occasionally stare into it, so
-that their sight may not be dimmed."[4](jms34.htm#an_13_4)
+that their sight may not be dimmed."[4](jms34.htm#an_13_4.md)
 
 A most popular medieval panacea, almost universally employed,
 
@@ -156,7 +156,7 @@ removes nausea, it benefits the stomach, it invites digestion, it evokes
 the voice, it builds up the sense, it moves the bowels, it enriches
 sleep, it removes anxiety. . . ." Cupping was also often prescribed,
 especially for abdominal ailments, for it "restores the bowels to their
-place."[5](jms34.htm#an_13_5)
+place."[5](jms34.htm#an_13_5.md)
 
 Psychic treatment was not unknown. "Music hath charms to soothe a savage
 breast"; well, medieval Jews applied this cure quite literally to heal
@@ -172,7 +172,7 @@ drawn back into his body, and it was possible to sew up the wound and
 save his life. In fact, magical cures and incantations were occasionally
 permitted by the rabbis not because of their direct effect upon the
 disease, but in order to set a superstitious patient's mind at
-ease.[6](jms34.htm#an_13_6)
+ease.[6](jms34.htm#an_13_6.md)
 
 One of the most widespread medical superstitions is the homeopathic
 doctrine, *similia similibus curantur*. The English "hair of the dog
@@ -200,7 +200,7 @@ would eat no head of bird or animal; if his heart pained, or his
 stomach, hearts or entrails were excluded from his diet. And just as
 likes cure, so do contraries. "Every cure is the natural contrary of the
 ailment," we read; therefore cold cures fevers, and heat cures
-chills.[7](jms34.htm#an_13_7)
+chills.[7](jms34.htm#an_13_7.md)
 
 #### THE CAUSES OF DISEASE
 
@@ -222,12 +222,12 @@ due to action on the part of some human being; the action of some
 spiritual or supernatural being, or, more exactly, the action of some
 agent who is not human, but is yet more or less definitely personified;
 and what we ordinarily call natural causes." All of these causes are
-clearly indicated in Jewish sources.[8](jms34.htm#an_13_8)
+clearly indicated in Jewish sources.[8](jms34.htm#an_13_8.md)
 
 The first cause, human agency, is to be met with in the machinations of
 the sorcerer. By his evil art he can visit all sorts of infirmities upon
 his enemies, or the enemies of his clients. An anecdote in *Sefer
-Ḥasidim*[9](jms34.htm#an_13_9) reveals the presence of this belief among
+Ḥasidim*[9](jms34.htm#an_13_9.md) reveals the presence of this belief among
 medieval Jews. The mother of a child who had been bewitched came to a
 sage and said to him, "My baby cries incessantly because a certain woman
 has cast a spell over him. I know a way to cure him, and at
@@ -264,14 +264,14 @@ leavings," we are warned, "because if the first man has a disease a
 spirit goes out of his mouth into the liquid; it is mortal danger to
 drink it." It was thus possible to establish the general rule that "all
 maladies that come upon one suddenly are caused by the
-spirits."[10](jms34.htm#an_13_10)
+spirits."[10](jms34.htm#an_13_10.md)
 
 Sometimes the angels, as well as the demons, bear a share of the
 responsibility. The idea that sickness is a heaven-sent punishment for
 one's sins, frequently encountered, necessitates angelic intermediacy in
 executing the decree. Besides, certain epidemic diseases, such as
 measles, may be transmitted by angels who are especially appointed to
-this function.[11](jms34.htm#an_13_11)
+this function.[11](jms34.htm#an_13_11.md)
 
 Apparently the most virulent type of malady is that produced by the
 spirits of deceased evil-doers, which join the demonic ranks. "When
@@ -280,7 +280,7 @@ these spirits injure a man, there is no human remedy capable
 <span id="page_199">p. 199</span>
 
 of healing him; it is more painful than any other ailment, and only his
-Creator can relieve his pain."[12](jms34.htm#an_13_12)
+Creator can relieve his pain."[12](jms34.htm#an_13_12.md)
 
 As to the "natural" sources of illness, etiological diagnoses did not
 limit themselves to the more credible causes (according to our view)
@@ -291,7 +291,7 @@ deterioration of the blood. There is an interesting account of an
 operation performed on Solomon b. Ḥananel of Mainz by the noted
 physician R. Sheshet, in Barcelona, which involved the removal of a
 tribe of worms that had caused the patient to suffer from a severely
-debilitating ailment.[13](jms34.htm#an_13_13)
+debilitating ailment.[13](jms34.htm#an_13_13.md)
 
 #### TREATMENT
 
@@ -316,7 +316,7 @@ vouchsafed a still broader license: "If a serious illness is caused by
 magic or evil spirits one may even resort to a non-Jewish magician for a
 cure." But it was not really necessary to obtain the magician's aid; the
 ordinary remedies applied by the doctor or the layman utilized the
-entire range of magical devices.[14](jms34.htm#an_13_14)
+entire range of magical devices.[14](jms34.htm#an_13_14.md)
 
 The Talmudic literature contains scores of references to the use of
 charms in healing wounds and diseases, so that medieval Jews
@@ -346,7 +346,7 @@ historian, Einhard, but to use them themselves was more than they could
 countenance. We have an account of a Jewish woman who, though she was
 seriously ill, refused to be healed by a stone which came from the grave
 of Jesus, which her Christian friend had offered to
-her.[15](jms34.htm#an_13_15)
+her.[15](jms34.htm#an_13_15.md)
 
 Medieval remedies, whatever their therapeutic value, were often
 accompanied by incantations, which were regarded as the effective agent
@@ -386,7 +386,7 @@ remedial measure often included this element, as above, or else was to
 be repeated a given number of times, or on several succeeding days, 3,
 7, 9, as the case might be. *Sefer Ḥasidim* cites the German usage, "To
 cure a person who has been harmed by a demon, the charm must be repeated
-nine times, as they do in Germany."[16](jms34.htm#an_13_16)
+nine times, as they do in Germany."[16](jms34.htm#an_13_16.md)
 
 Sometimes the mere repetition of a magic name is sufficient to effect
 the cure, or the name is inscribed directly upon the person of the
@@ -413,7 +413,7 @@ apple, or an
 egg, or cheese, is warranted to induce an abortion; or the name may be
 inscribed on a leaf and dissolved in water, which is to be drunk, or may
 simply be whispered over the liquid and thus
-imbibed.[17](jms34.htm#an_13_17)
+imbibed.[17](jms34.htm#an_13_17.md)
 
 The importance of Scripture in magic made it a prominent adjunct of
 medicine also. The Talmudic prohibition against using "the words of
@@ -428,7 +428,7 @@ another nine times. The lying-in woman must be able to hear the recital
 of these verses. If this still doesn't help her, say, 'I conjure you,
 Armisael, angel who governs the womb, that you help this woman and the
 child in her body to life and peace. Amen, Amen,
-Amen.'"[18](jms34.htm#an_13_18)
+Amen.'"[18](jms34.htm#an_13_18.md)
 
 #### SOME SOVEREIGN REMEDIES
 
@@ -477,7 +477,7 @@ prejudice against these usages. Reptiles and vermin of all sorts were
 also highly regarded for medical purposes, and were often taken
 internally in the form of powders, or bound upon a wound, alive, to
 close the gash and to knit fractured bones, and poultices for open
-wounds were made of spiders’ webs.[19](jms34.htm#an_13_19)
+wounds were made of spiders’ webs.[19](jms34.htm#an_13_19.md)
 
 A favorite antidote, usually practiced by old women, was to encircle the
 diseased part, an abscess or rash or a painful spot, such as the eye or
@@ -509,7 +509,7 @@ length and breadth of his naked body, and then hung on a nail with an
 appropriate incantation; after a while the belt was measured, and if it
 was longer or shorter than before, this was interpreted as a portent of
 the progress of his illness. It is to such procedures that the Hebrew
-sources refer.[20](jms34.htm#an_13_20)
+sources refer.[20](jms34.htm#an_13_20.md)
 
 The purpose of many remedies, such as the one just cited, was to
 transfer the disease to an animal, or to an inanimate object, or to
@@ -520,7 +520,7 @@ victims through a commercial transaction. "Once a man was mortally ill,
 and another jokingly said to him, 'I'll buy your illness from you for
 such and such a sum'; the invalid promptly responded, 'It's a bargain.'
 Immediately, he arose cured, and the purchaser sickened and
-died."[21](jms34.htm#an_13_21) Jesting is a dangerous business when
+died."[21](jms34.htm#an_13_21.md) Jesting is a dangerous business when
 spirits have no sense of humor.
 
 A quite extraordinary healing device was predicated on the belief that
@@ -598,7 +598,7 @@ favor with the heavenly powers. Thus the child acquired new parents, and
 the angel of death was twice confounded. If he tried to locate the child
 through the parents he could not trace it, and if he hunted up the
 parents to punish them by killing their child he found they had
-none.[22](jms34.htm#an_13_22)
+none.[22](jms34.htm#an_13_22.md)
 
 #### HERBS
 
@@ -643,14 +643,14 @@ was a very important item in medieval folk medicine, and that its potent
 virtues were accounted for on the basis of several legends. In
 conjunction with the German material *Sefer Ḥasidim* proves the
 essential rôle of the magical invocation in preparing this and other
-plants for medicinal use.[23](jms34.htm#an_13_23)
+plants for medicinal use.[23](jms34.htm#an_13_23.md)
 
 For a pain in the neck it is recommended that one wind elder leaves
 (*Sambucus*) about the neck, and at the same time recite a given spell.
 Herbs gathered in a cemetery, and even soil from a grave, or earth or
 water gathered at a crossroads, were considered of high medicinal value,
 because of their association with the spirits and their consequent
-occult potency.[24](jms34.htm#an_13_24)
+occult potency.[24](jms34.htm#an_13_24.md)
 
 It should be noted that most of the herbs are referred to by their
 German or French names; medieval Jewry, in other words, borrowed its
@@ -668,7 +668,7 @@ French" (sage) is suggested as a cure for paralysis, and to aid the
 digestion "take saltpeter and sage and bay and cinnamon, beat them
 thoroughly in honey, and pour the mixture often into your mouth;
 whatever has disturbed you will flee; drink some wine
-afterwards."[25](jms34.htm#an_13_25) It is usually impossible to divorce
+afterwards."[25](jms34.htm#an_13_25.md) It is usually impossible to divorce
 the purely therapeutic from the superstitious and magical in such
 prescriptions; the three are as thoroughly intermingled as the
 ingredients of the above recipe should be. Which is, it must be
@@ -679,4 +679,4 @@ are inherent in or conjured into these medicaments.
 
 ------------------------------------------------------------------------
 
-[Next: 14. Divination](jms16)
+[Next: 14. Divination](jms16.md)

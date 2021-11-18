@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal024)  [Next](njal026) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal024)  [Next](njal026.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ is sprung Kolbein the Young.
 
 ------------------------------------------------------------------------
 
-[Next: 26. Of Asgrim And His Children](njal026)
+[Next: 26. Of Asgrim And His Children](njal026.md)

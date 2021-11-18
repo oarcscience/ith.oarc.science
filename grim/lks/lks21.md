@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks20)  [Next](lks22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks20)  [Next](lks22.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ the King of Kings, even ADONAI, who commandeth thee.
 
 WHEN thou shalt have rehearsed thus far, but still be cometh not, then
 write thou his seal on parchment and put thou it into a strong black
-box; <span id="fr_35"></span>[1](#fn_35) with brimstone, assafœtida, and
+box; <span id="fr_35"></span>[1](#fn_35.md) with brimstone, assafœtida, and
 such like things that bear a stinking smell; and then bind the box up
 round with an iron wire, and bang it upon the point of thy sword, and
 hold it over the fire of charcoal; and say as followeth unto the fire
@@ -33,9 +33,9 @@ first, it being placed toward that quarter whence the Spirit is to come:
 
 ### Footnotes
 
-<span id="fn_35"></span>[62:1](lks21.htm#fr_35) This BOX should
+<span id="fn_35"></span>[62:1](lks21.htm#fr_35.md) This BOX should
 evidently be in metal or in something which does not take fire easily.
 
 ------------------------------------------------------------------------
 
-[Next: The Conjuration Of The Fire](lks22)
+[Next: The Conjuration Of The Fire](lks22.md)

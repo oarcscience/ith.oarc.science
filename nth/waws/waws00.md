@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Next](waws01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Next](waws01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -99,37 +99,37 @@ FIFTY-FIFTH THOUSAND
 <span id="img_cover"></span>
 
 [![Cover and Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover and Spine  
 
 <span id="img_jacket"></span>
 
 [![Dust Jacket: Front and Spine](tn/jacket.jpg)  
-Click to enlarge](img/jacket.jpg)  
+Click to enlarge](img/jacket.jpg.md)  
 Dust Jacket: Front and Spine  
 
 <span id="img_vjacket"></span>
 
 [![Back of Dust Jacket](tn/vjacket.jpg)  
-Click to enlarge](img/vjacket.jpg)  
+Click to enlarge](img/vjacket.jpg.md)  
 Back of Dust Jacket  
 
 <span id="img_flaps"></span>
 
 [![Dust Jacket Flaps](tn/flaps.jpg)  
-Click to enlarge](img/flaps.jpg)  
+Click to enlarge](img/flaps.jpg.md)  
 Dust Jacket Flaps  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 DUST JACKET TEXT: BACK
@@ -227,4 +227,4 @@ volume one of the most popular for thoughtful readers. "
 
 ------------------------------------------------------------------------
 
-[Next: Preface](waws01)
+[Next: Preface](waws01.md)

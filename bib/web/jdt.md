@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](tob)  [Next](aes) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](tob)  [Next](aes.md) 
 
 ------------------------------------------------------------------------
 
@@ -1493,4 +1493,4 @@ long time after her death.
 
 ------------------------------------------------------------------------
 
-[Next: Additions to Esther](aes)
+[Next: Additions to Esther](aes.md)

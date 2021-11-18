@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb19)  [Next](olb21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb19)  [Next](olb21.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -12,7 +12,7 @@ Textual Heritage
 
 ### <span class="smallcaps">What is written hereunder is inscribed on the Walls of Waraburgt.</span>
 
-(See [Plate I.](olb19.htm#img_pl01))
+(See [Plate I.](olb19.htm#img_pl01).md)
 
 What appears at the top is the signs of the Juul—that is, the first
 symbol of Wr-alda, also of the origin or beginning from which Time is
@@ -31,7 +31,7 @@ In her time Finda also invented a mode of writing,
 
 <span id="img_pl02"></span> <span align="CENTER"> [![Plate
 2](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 Plate 2  
 </span>
 
@@ -51,8 +51,8 @@ yesterday.
 Here is a specimen of the set hand and of the running hand, as well as
 of the figures, in both.
 
-(See [Plate II.](#img_pl02))
+(See [Plate II.](#img_pl02).md)
 
 ------------------------------------------------------------------------
 
-[Next: This stands inscribed upon all Citadels](olb21)
+[Next: This stands inscribed upon all Citadels](olb21.md)

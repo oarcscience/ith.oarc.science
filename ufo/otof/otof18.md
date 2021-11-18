@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof17)  [Next](otof19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof17)  [Next](otof19.md) 
 
 ------------------------------------------------------------------------
 
@@ -196,7 +196,7 @@ Earth, as it is written.
 
 Only the "beginning of sorrows" is here now. Reports from Canada say
 that two very strange things are taking place there. The
-[gauges](errata.htm#50) on automobiles are going wild. When they are
+[gauges](errata.htm#50.md) on automobiles are going wild. When they are
 taken in for repairs to a garage nothing seems to be wrong with them.
 When they are back out on the highway they go "wild" once more.
 
@@ -278,7 +278,7 @@ nothing like that on their sets. We
 have a brand new GE model and it's in perfect condition--we know,
 because we've had it checked."
 
-A lady in Los Angeles, [California](errata.htm#51) wrote: "My husband
+A lady in Los Angeles, [California](errata.htm#51.md) wrote: "My husband
 and I have an old television set in our den. This set has been out of
 order for weeks. On the night of August 31, 1954, I went to bed in the
 front bedroom about 12:30, my husband turned in shortly thereafter.
@@ -339,14 +339,14 @@ Houston, Texas station changed its letters to KPRC-TV. A check of the
 world's television stations confirms the fact that there is not now and
 never has been another KLEE-TV. Paul Huhndorff, chief engineer of
 KPRC-TV, to whom the Britishers sent their report, has no explanation.
-He says that members of the old [KLEE-TV](errata.htm#52) staff have
+He says that members of the old [KLEE-TV](errata.htm#52.md) staff have
 identified the pictures of the signals as looking like the standard
 call-letter slide they used. Engineer Huhndorff offered three theories.
 The first two he discounts as being nearly impossible. The third is that
 some intelligence in outer space has received the signal and has
 transmitted it in the hope of communicating with the planet Earth.
 
-Everyone remembers the [strange](errata.htm#53) case of the face on the
+Everyone remembers the [strange](errata.htm#53.md) case of the face on the
 TV-screen, and the same phenomenon happened again on September 12, 1954
 in Indianapolis, India. John and Virginia Mackey said the image appeared
 to be that of George R. Shots, Mrs. Mackey's grandfather who died April
@@ -588,7 +588,7 @@ circulating blood must maintain their ability to remain free of all
 other elements in the stream. Research is revealing the importance of
 electro-chemistry. All blood cells carry a charge, the charge is of the
 same de-nomination. Like charges repel, and so the cells as well as the
-colloids repel each other resulting in the [existence](errata.htm#54) of
+colloids repel each other resulting in the [existence](errata.htm#54.md) of
 electrical cushions capable of preventing the cells from touching one
 another. When thrombosis (clotting) occurs, it is precipitated by the
 discharge of cell or colloid charges which allows for the agglutination
@@ -660,4 +660,4 @@ ever and ever." These are *The Remnant!* 
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](otof19)
+[Next: Epilogue](otof19.md)

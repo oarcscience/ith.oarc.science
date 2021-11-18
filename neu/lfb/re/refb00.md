@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Next](refb01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Next](refb01.md) 
 
 </div>
 
@@ -30,6 +30,6 @@ A PROFOUND STUDENT YET AN AMIABLE CRITIC
 
 ------------------------------------------------------------------------
 
-[Next: Contents](refb01)
+[Next: Contents](refb01.md)
 
 </div>

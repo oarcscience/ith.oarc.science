@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt24)  [Next](pyt26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt24)  [Next](pyt26.md) 
 
 ------------------------------------------------------------------------
 
@@ -1675,4 +1675,4 @@ high officials,
 
 ------------------------------------------------------------------------
 
-[Next: 23. A Series of Food Texts, Utterances 487-502](pyt26)
+[Next: 23. A Series of Food Texts, Utterances 487-502](pyt26.md)

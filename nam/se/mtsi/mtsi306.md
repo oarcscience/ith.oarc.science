@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi305)  [Next](mtsi307) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi305)  [Next](mtsi307.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ little mule," they called to it and pursued it, but soon lost it.
 
 ------------------------------------------------------------------------
 
-[Next: 42. Jack and the Beanstalk](mtsi307)
+[Next: 42. Jack and the Beanstalk](mtsi307.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste49)  [Next](ste51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste49)  [Next](ste51.md) 
 
 ------------------------------------------------------------------------
 
@@ -416,4 +416,4 @@ takes away all remains of doubt or incredulity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](ste51)
+[Next: Chapter V](ste51.md)

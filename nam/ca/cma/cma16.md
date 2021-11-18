@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma15)  [Next](cma17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma15)  [Next](cma17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -182,7 +182,7 @@ Jewinna rose before daylight, called all his people, and said:--"I
 cannot eat. I am sorry that my son has gone."
 
 All took plenty of arrows and beads and otter-skins and red-headed
-[woodpecker](errata.htm#1) scalps, and started to follow the young man.
+[woodpecker](errata.htm#1.md) scalps, and started to follow the young man.
 As he started, Jewinna sang,--
 
 "I-no-hó, i-no-hó no-hi, i-no-hó!"
@@ -385,4 +385,4 @@ Weanmauna.
 
 ------------------------------------------------------------------------
 
-[Next: Sukonia's Wives And The Ichpul Sisters](cma17)
+[Next: Sukonia's Wives And The Ichpul Sisters](cma17.md)

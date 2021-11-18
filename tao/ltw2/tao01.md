@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao01)   
-[Previous](ltw204)  [Next](tao02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao01.md)   
+[Previous](ltw204)  [Next](tao02.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ the mystery that we call TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](tao02)
+[Next: Chapter 2](tao02.md)

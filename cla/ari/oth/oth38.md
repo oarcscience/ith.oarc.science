@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth37)  [Next](oth39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth37)  [Next](oth39.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ different from healthiness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](oth39)
+[Next: Chapter 5](oth39.md)

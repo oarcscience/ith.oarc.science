@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs38)  [Next](mhs40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs38)  [Next](mhs40.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ evil spirits.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Miscellaneous Remarks On Salt](mhs40)
+[Next: IX. Miscellaneous Remarks On Salt](mhs40.md)

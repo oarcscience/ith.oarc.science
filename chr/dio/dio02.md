@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio01)  [Next](dio03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio01)  [Next](dio03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ C.I.E., John Murray, 1893.
 <span id="ii.i.ii-p19"></span>Hipler, 1861.
 
 <span id="ii.i.ii-p20"></span>Nirschl, 1888, Histpolit Blatter, p.
-172-184, and p. 257-270 <span id="fr_0"></span>[1](#fn_0)
+172-184, and p. 257-270 <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_vii">p. vii</span> <span id="ii.i.ii-Page_vii"></span>
 
@@ -112,10 +112,10 @@ Preface to Liturgy 185 LITURGY OF ST DIONYSIUS, BISHOP OF THE ATHENIANS
 
 ### Footnotes
 
-<span id="fn_0"></span>[vi:1](dio02.htm#fr_0) <span
+<span id="fn_0"></span>[vi:1](dio02.htm#fr_0.md) <span
 id="ii.i.ii-p20.1"></span>See *Science de Dieu,* Schneider II. vol. p.
 229. Manz, 1886.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](dio03)
+[Next: Preface](dio03.md)

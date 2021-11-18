@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc15)  [Next](ipc17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc15)  [Next](ipc17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 <span id="img_pl15"></span> <span align="CENTER"> [![PLATE 15&lt;br&gt;
 BUDDHIST MONKS.](tn/pl15.jpg)  
-Click to enlarge](img/pl15.jpg)  
+Click to enlarge](img/pl15.jpg.md)  
 PLATE 15  
 BUDDHIST MONKS.  
 </span>
@@ -64,11 +64,11 @@ lamps perpetually alight. They offer to God corn and barley and paste
 and water in little vases, which are extremely clean. Food thus offered
 is considered consecrated, and they eat it. The lâmas have local
 superiors, and a superior-general." <span
-id="fr_224"></span>[\*](#fn_223)
+id="fr_224"></span>[\*](#fn_223.md)
 
 Father Grueber, with another priest, named Dorville, passed from Pekin
 through Thibet to Patna in the year 1661. Henry Prinsep <span
-id="fr_225"></span>[†](#fn_224) thus sums up what he has recorded:—
+id="fr_225"></span>[†](#fn_224.md) thus sums up what he has recorded:—
 
 "Father Grueber was much struck with the extraordinary similarity he
 found, as well in the doctrine as in the rituals, of the Buddhists of
@@ -108,7 +108,7 @@ to the congregation, rings a bell, drinks in a chalice water poured out
 by an acolyte, intones paternosters quite of the right sing-song—the
 resemblance is really shocking. But men whose faith is properly robust
 will see here nothing but a corruption of Christianity." <span
-id="fr_226"></span>[\*](#fn_225)
+id="fr_226"></span>[\*](#fn_225.md)
 
 It must be borne in mind that what is called Southern Buddhism has the
 same rites. St. Francis Xavier in Japan found Southern Buddhism so like
@@ -130,7 +130,7 @@ praise to the threefold object of
 worship (τρισαγίον), a prayer of oblation (τῆς προσθεσεως), the
 lections, the recitations of the Dharani (μυστηριον), the Embolismus, or
 prayer against temptation, followed by a 'Confession' and a
-'Dismissal:'" <span id="fr_227"></span>[\*](#fn_226)
+'Dismissal:'" <span id="fr_227"></span>[\*](#fn_226.md)
 
 Turning to architecture, I must point out that Mr. Fergusson, the
 leading authority in ancient art was of opinion that the various details
@@ -149,7 +149,7 @@ buildings.
 
 "Immediately under the semi-dome of the apse, and nearly where the altar
 stands in Christian churches, is placed the Dâgoba." <span
-id="fr_228"></span>[†](#fn_227)
+id="fr_228"></span>[†](#fn_227.md)
 
 The list of resemblances is by no means exhausted. The monks on entering
 a temple make the gesture that we call the sign of the cross. The
@@ -163,7 +163,7 @@ started:—
 
 <span id="img_pl16"></span> <span align="CENTER"> [![PLATE 16.&lt;br&gt;
 THE BUDDHIST HIGH ALTAR.](tn/pl16.jpg)  
-Click to enlarge](img/pl16.jpg)  
+Click to enlarge](img/pl16.jpg.md)  
 PLATE 16.  
 THE BUDDHIST HIGH ALTAR.  
 </span>
@@ -183,7 +183,7 @@ religion must have borrowed from the other. In consequence they try to
 prove that the rites of Buddhism and the life of its founder were
 derived from Christianity, from the Nestorians, from St. Thomas, from
 St. Hyacinth of Poland, from St. Oderic of Frioul. <span
-id="fr_229"></span>[\*](#fn_228)
+id="fr_229"></span>[\*](#fn_228.md)
 
 In the way of this theory, however, there are also insuperable
 difficulties. Buddha died 470 years before Christ, and for many years
@@ -237,24 +237,24 @@ acts of Sâkya Muni.
 
 ### Footnotes
 
-<span id="fn_223"></span>[220:\*](ipc16.htm#fr_224) "Lettres
+<span id="fn_223"></span>[220:\*](ipc16.htm#fr_224.md) "Lettres
 Edifiantes," Vol. III., p. 534.
 
-<span id="fn_224"></span>[220:†](ipc16.htm#fr_225) "Thibet, Tartary,"
+<span id="fn_224"></span>[220:†](ipc16.htm#fr_225.md) "Thibet, Tartary,"
 etc., p. 14.
 
-<span id="fn_225"></span>[221:\*](ipc16.htm#fr_226) "Corr.," Vol. I., p.
+<span id="fn_225"></span>[221:\*](ipc16.htm#fr_226.md) "Corr.," Vol. I., p.
 265.
 
-<span id="fn_226"></span>[222:\*](ipc16.htm#fr_227) "Catena of Buddhist
+<span id="fn_226"></span>[222:\*](ipc16.htm#fr_227.md) "Catena of Buddhist
 Scriptures," p. 397.
 
-<span id="fn_227"></span>[222:†](ipc16.htm#fr_228) "Indian and Eastern
+<span id="fn_227"></span>[222:†](ipc16.htm#fr_228.md) "Indian and Eastern
 Architecture," p. 117.
 
-<span id="fn_228"></span>[223:\*](ipc16.htm#fr_229) See Abbe Prouvése,
+<span id="fn_228"></span>[223:\*](ipc16.htm#fr_229.md) See Abbe Prouvése,
 "Life of Gabriel Durand," Vol. II., p. 365.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Paulinism](ipc17)
+[Next: Chapter XIV. Paulinism](ipc17.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe038)  [Next](prwe040) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe038)  [Next](prwe040.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ rabid flight*.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Revel](prwe040)
+[Next: The Fairy Revel](prwe040.md)

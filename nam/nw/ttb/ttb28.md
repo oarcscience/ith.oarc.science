@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb27)  [Next](ttb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb27)  [Next](ttb29.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_41">p. 41</span>
 
-<span id="img_04100"></span> ![Skam-m, The Halibut](img/04100.jpg)
+<span id="img_04100"></span> ![Skam-m, The Halibut](img/04100.jpg.md)
 
 ### Skam-m, THE HALIBUT
 
@@ -54,4 +54,4 @@ Indian word has never been identified.
 
 ------------------------------------------------------------------------
 
-[Next: Welala, The Mountain Spirit](ttb29)
+[Next: Welala, The Mountain Spirit](ttb29.md)

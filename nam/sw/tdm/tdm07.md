@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm06)  [Next](tdm08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm06)  [Next](tdm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -887,4 +887,4 @@ upon her plan of action.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](tdm08)
+[Next: Chapter VI](tdm08.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai40)  [Next](iai42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai40)  [Next](iai42.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,7 +108,7 @@ Oh, can our songs of bliss here cease?
     Our souls for joy cannot restrain,  
     Sweep! Sweep thy lyres again!
 
-The former things <span id="fr_253"></span>[1a](#fn_250)--are passed
+The former things <span id="fr_253"></span>[1a](#fn_250.md)--are passed
 away,  
     Which we on earth once knew below;  
 And in this bright eternal day  
@@ -121,7 +121,7 @@ And in this bright eternal day
 
 ### Footnotes
 
-<span id="fn_250"></span>[123:1a](iai41.htm#fr_253) Literally, "the
+<span id="fn_250"></span>[123:1a](iai41.htm#fr_253.md) Literally, "the
 former names," which appears on a fragment of the epic translated by Mr.
 Sayce. See epic 259, which Smith's "C. A. of Gen.," p. 259 he has
 rendered "the former name, the new name."
@@ -129,4 +129,4 @@ rendered "the former name, the new name."
 ------------------------------------------------------------------------
 
 [Next: Column V. The King Buries his Seer in the Cave and Continues on
-his Journey](iai42)
+his Journey](iai42.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv25)  [Next](rsv27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv25)  [Next](rsv27.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ the family is not humanly regulated.
 This may be related to the Confucian concept that the chief purpose of
 marriage is to insure sufficient sons to perpetuate Ancestor Veneration.
 One of the greatest worries to the Vietnamese is the possibility that
-there will be no male descendents to [preserve](errata.htm#32) and honor
+there will be no male descendents to [preserve](errata.htm#32.md) and honor
 the family name.
 
 Just inside many Vietnamese homes is a niche for the figure of Doai Cung
@@ -71,4 +71,4 @@ sickness, death and health, most Americans find these Vietnamese customs
 
 ------------------------------------------------------------------------
 
-[Next: Legend of Quan-Am](rsv27)
+[Next: Legend of Quan-Am](rsv27.md)

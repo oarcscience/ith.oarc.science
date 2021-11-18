@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](wott07)  [Next](wott09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](wott07)  [Next](wott09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of the Talmud*, by Ben Zion Bokser, \[1951\], at Intangible
 Textual Heritage
 
@@ -43,12 +43,12 @@ turned down, and he had to spend the night in the field. That very night
 robbers came and plundered the entire town. "He thereupon said to the
 inhabitants, 'Did I not tell you that whatever the Holy One, blessed be
 He, does is for the best!'"<span
-id="an_r_06_1"></span>[1](wott11.htm#an_n_06_1)
+id="an_r_06_1"></span>[1](wott11.htm#an_n_06_1.md)
 
 The rabbis urged a man to labor diligently in order to provide for
 himself and his family. "One must not depend on miracles," is a familiar
 maxim in the Talmud.<span
-id="an_r_06_2"></span>[2](wott11.htm#an_n_06_2) But once
+id="an_r_06_2"></span>[2](wott11.htm#an_n_06_2.md) But once
 
 <span id="page_122">p. 122</span>
 
@@ -56,18 +56,18 @@ a person assumes his obligations and acts on them he need not be unduly
 anxious about his livelihood. "A person who has today's bread in his
 basket and is worried, 'What will I eat tomorrow?'—is a man of little
 faith," declared Rabbi Eliezer.<span
-id="an_r_06_3"></span>[3](wott11.htm#an_n_06_3) The Lord stands behind
+id="an_r_06_3"></span>[3](wott11.htm#an_n_06_3.md) The Lord stands behind
 our own endeavors, and as He provides for the raven in the field, He
 provides for man also. In the words of the rabbis: "He who created each
 day provides for the needs thereof."<span
-id="an_r_06_4"></span>[4](wott11.htm#an_n_06_4)
+id="an_r_06_4"></span>[4](wott11.htm#an_n_06_4.md)
 
 The portions allotted to us in life will of course differ. Some attain
 riches and some struggle for subsistence. But ultimately there is no
 objective standard for affluence. Affluence is only in one's art of
 being content with what one has. As the ethical tractate Abot declared
 it: "Who is rich? He who is content with his lot."<span
-id="an_r_06_5"></span>[5](wott11.htm#an_n_06_5)
+id="an_r_06_5"></span>[5](wott11.htm#an_n_06_5.md)
 
 #### ENVY, JEALOUSY AND PRIDE
 
@@ -75,19 +75,19 @@ The rabbis decried envy and jealousy, in which a person, out of
 discontent with his portion, begrudges the good fortune that has come to
 others. Envy and hatred of one's fellow-man were cited by the rabbis as
 vices that "take a man from the world."<span
-id="an_r_06_6"></span>[6](wott11.htm#an_n_06_6) One of the rabbis was
+id="an_r_06_6"></span>[6](wott11.htm#an_n_06_6.md) One of the rabbis was
 accustomed to offer a daily prayer: "May it be acceptable before Thee O
 Lord my God and God of my fathers, that no hatred against us may enter
 the heart of any man, that no hatred of any man enter our heart, that no
 envy of us enter the heart of any man, nor the envy of any man enter our
-heart …"<span id="an_r_06_7"></span>[7](wott11.htm#an_n_06_7)
+heart …"<span id="an_r_06_7"></span>[7](wott11.htm#an_n_06_7.md)
 
 The rabbis were equally emphatic in denouncing pride. "Humility," one of
 the rabbis said, "is the greatest of all virtues."<span
-id="an_r_06_8"></span>[8](wott11.htm#an_n_06_8) A person who is puffed
+id="an_r_06_8"></span>[8](wott11.htm#an_n_06_8.md) A person who is puffed
 up with an arrogant spirit is as though "he had worshipped idols, denied
 the basic principles of religion, and committed every kind of immorality
-…"<span id="an_r_06_9"></span>[9](wott11.htm#an_n_06_9) Arrogance is not
+…"<span id="an_r_06_9"></span>[9](wott11.htm#an_n_06_9.md) Arrogance is not
 only an evil trait because it hurts other people. It is equally
 injurious to its own possessor for it sends him on a road that will
 inevitably lead to
@@ -96,7 +96,7 @@ inevitably lead to
 
 frustration. The rabbis generalized thus: "Whoever runs after greatness,
 greatness will elude him; whoever flees from greatness, greatness will
-pursue him."<span id="an_r_06_10"></span>[10](wott11.htm#an_n_06_10)
+pursue him."<span id="an_r_06_10"></span>[10](wott11.htm#an_n_06_10.md)
 
 #### THE MEANING OF GOOD WILL
 
@@ -110,7 +110,7 @@ deserving of honor? He who honors other people." Rabbi Eliezer urged:
 Hanina ben Dosa declared: "He who pleases the spirit of man, will also
 please the spirit of God; and he who does not please the spirit of his
 fellowman, will not please the spirit of God either."<span
-id="an_r_06_11"></span>[11](wott11.htm#an_n_06_11)
+id="an_r_06_11"></span>[11](wott11.htm#an_n_06_11.md)
 
 The Talmud tells many anecdotes to illustrate the need of being ever
 vigilant to maintain one's good will toward others. One of these is the
@@ -132,7 +132,7 @@ stranger reported to them the incident. They joined in the entreaties,
 
 and the latter then agreed to accept the apology, on the understanding
 "that he shall never again act thus."<span
-id="an_r_06_12"></span>[12](wott11.htm#an_n_06_12)
+id="an_r_06_12"></span>[12](wott11.htm#an_n_06_12.md)
 
 Even if one have a genuine grievance toward his neighbor, he ought not
 to respond with hatred. The Talmud cited the case of a man cutting with
@@ -140,16 +140,16 @@ one hand and inadvertently hurting the other hand. "Shall he in
 retaliation cut the hand that wielded the knife?" We are all part of one
 another and the hurts we inflict on others really strike at ourselves,
 since our lives are interdependent.<span
-id="an_r_06_13"></span>[13](wott11.htm#an_n_06_13) There are other ways
+id="an_r_06_13"></span>[13](wott11.htm#an_n_06_13.md) There are other ways
 of coping with grievances—to speak with candor and through honest
 voicing of our grievances to bring about a reconciliation. Indeed, a
 lasting friendship depends on the regular rebukes that one administers
 to the other. "A love without rebuke is no real love."<span
-id="an_r_06_14"></span>[14](wott11.htm#an_n_06_14) It takes much in
+id="an_r_06_14"></span>[14](wott11.htm#an_n_06_14.md) It takes much in
 self-control to act with such magnanimity toward those who have wronged
 us. But it is in such self-control that true character reveals itself.
 The true hero, teaches the Talmud, is "one who converts an enemy into a
-friend."<span id="an_r_06_15"></span>[15](wott11.htm#an_n_06_15)
+friend."<span id="an_r_06_15"></span>[15](wott11.htm#an_n_06_15.md)
 
 One's good will should be extended without limits. Even the sinner is
 entitled to it. A Talmudic anecdote illustrates this. "There were some
@@ -162,7 +162,7 @@ cease out of the earth. Consider, moreover, the conclusion of the verse:
 And let the wicked be no more. When sins shall cease, the wicked will be
 no more. Rather should you pray that they repent and be no more wicked.'
 Rabbi Meir offered prayer on their behalf and they repented."<span
-id="an_r_06_16"></span>[16](wott11.htm#an_n_06_16)
+id="an_r_06_16"></span>[16](wott11.htm#an_n_06_16.md)
 
 The Talmud includes many anecdotes to illustrate the extent to which one
 ought to be patient with people. The hero in one such anecdote is
@@ -203,7 +203,7 @@ Israel.' 'Why, my son?' 'Because through you I have lost four hundred
 *zuz*.' The Rabbi then told him, 'Be careful, Hillel is worthy that you
 should lose through him four hundred *zuz* and still another four
 hundred *zuz*. But Hillel will not lose his temper.'"<span
-id="an_r_06_17"></span>[17](wott11.htm#an_n_06_17)
+id="an_r_06_17"></span>[17](wott11.htm#an_n_06_17.md)
 
 <span id="page_126">p. 126</span>
 
@@ -212,13 +212,13 @@ of peace in these words: "Be of the disciples of Aaron, a lover of peace
 and a pursuer of peace, one who loves mankind and draws them nearer to
 the Torah." According to Rabban Simeon ben Gamaliel, peace is one of the
 three pillars that sustain civilization, the other two being justice and
-truth.<span id="an_r_06_18"></span>[18](wott11.htm#an_n_06_18) Peace is
+truth.<span id="an_r_06_18"></span>[18](wott11.htm#an_n_06_18.md) Peace is
 the condition for the enjoyment of all other blessings. There may be
 food, there may be drink, but "if there is no peace there is nothing."
 Thus the rabbis advised people to shun quarreling. One who can exercise
 such restraint "will escape a hundred evils." The quarrelsome person who
 readily gives vent to his anger "will destroy his home."<span
-id="an_r_06_19"></span>[19](wott11.htm#an_n_06_19)
+id="an_r_06_19"></span>[19](wott11.htm#an_n_06_19.md)
 
 The strife between people arises often through misunderstandings. If we
 only knew all the circumstances under which our neighbor acted, we might
@@ -233,7 +233,7 @@ the rabbis suggested: "If you have done your neighbor a little wrong,
 let it be in your eyes great; if you have done him much good, let it be
 in your eyes little; if he has done you a little good, let it be in your
 eyes great; if he has done you a great wrong, let it be in your eyes
-little."<span id="an_r_06_20"></span>[20](wott11.htm#an_n_06_20)
+little."<span id="an_r_06_20"></span>[20](wott11.htm#an_n_06_20.md)
 
 The admiration of the rabbis for the peacemaker is clearly revealed in
 the following story: "A rabbi was standing in the marketplace when
@@ -247,7 +247,7 @@ said, 'These two will have a share in the world to
 come.' The Rabbi asked them what they had done to earn such distinction.
 They answered, 'We are merrymakers; when we see people troubled in mind
 we cheer them, and when we see two men quarreling we make peace between
-them.'"<span id="an_r_06_21"></span>[21](wott11.htm#an_n_06_21)
+them.'"<span id="an_r_06_21"></span>[21](wott11.htm#an_n_06_21.md)
 
 #### THE IMITATION OF GOD
 
@@ -264,7 +264,7 @@ called compassionate and gracious so be you also compassionate and
 gracious and offering thy gifts freely to all. As the Holy One, blessed
 be He, is called righteous (Ps. 145: 17) be you also righteous; and as
 He is called loving (ibid), be you also loving."<span
-id="an_r_06_22"></span>[22](wott11.htm#an_n_06_22)
+id="an_r_06_22"></span>[22](wott11.htm#an_n_06_22.md)
 
 #### THE MEANING OF BENEVOLENCE
 
@@ -275,7 +275,7 @@ the Talmud are visiting the sick, hospitality to strangers, providing a
 proper outfit and dowry for a poor bride, caring for the orphaned.
 Highest of all is what we do for the departed such as attending a
 funeral and comforting the mourners.<span
-id="an_r_06_23"></span>[23](wott11.htm#an_n_06_23)
+id="an_r_06_23"></span>[23](wott11.htm#an_n_06_23.md)
 
 Talmudic literature abounds in the request to relieve the
 
@@ -288,7 +288,7 @@ with money and benevolence with personal service or money; almsgiving is
 restricted to the poor and benevolence applies to the poor as well as to
 the affluent; almsgiving applies only to the living and benevolence
 applies both to the living and the dead."<span
-id="an_r_06_24"></span>[24](wott11.htm#an_n_06_24)
+id="an_r_06_24"></span>[24](wott11.htm#an_n_06_24.md)
 
 The obligation to help the poor was an axiomatic element in Jewish
 morality. To the Romans it seemed strange, however. They treated the
@@ -309,7 +309,7 @@ him?' We are called God's children, as it is said, 'You are the children
 of the Lord your God' (Deut. 14:1). Behold it was He who declared, 'Is
 it not to deal thy bread to the hungry and that thou bring the poor that
 are cast out to thy house?'" (Is. 58:7)<span
-id="an_r_06_25"></span>[25](wott11.htm#an_n_06_25)
+id="an_r_06_25"></span>[25](wott11.htm#an_n_06_25.md)
 
 Rabbi Akiba is the hero in another story which likewise extols our
 responsibility for the poor. "It was said of Rabbi Tarphon that he was
@@ -329,7 +329,7 @@ endureth forever' (Ps. 112: 9). Akiba exclaimed, 'This is the City I
 bought for you!' Tarphon arose, kissed him, and said, 'My master and
 guide, my master in wisdom, and my guide in right conduct.' He handed
 him an additional sum to distribute in charity."<span
-id="an_r_06_26"></span>[26](wott11.htm#an_n_06_26)
+id="an_r_06_26"></span>[26](wott11.htm#an_n_06_26.md)
 
 #### TRUTH IS THE SEAL OF GOD
 
@@ -343,14 +343,14 @@ Talmudic statement generalizes, "hates a person who says one thing with
 his mouth and is of another opinion in his heart." According to Rabban
 Simeon ben Gamaliel, truth is one of the three pillars on which the
 world rests; the other two are justice and peace.<span
-id="an_r_06_27"></span>[27](wott11.htm#an_n_06_27)
+id="an_r_06_27"></span>[27](wott11.htm#an_n_06_27.md)
 
 The rabbis condemned even the innocent lies which parents tell their
 children. These lies set an example in untruthfulness which children
 will in due time imitate. As one rabbi put it: "A person should not
 promise his child that he will give him something without giving it to
 him, for thus he teaches him to lie."<span
-id="an_r_06_28"></span>[28](wott11.htm#an_n_06_28)
+id="an_r_06_28"></span>[28](wott11.htm#an_n_06_28.md)
 
 The Talmud recounted with much admiration the exemplary honesty of some
 of its heroes. Rabbi Pinhas ben Yair
@@ -371,7 +371,7 @@ blessing of the Lord maketh rich' (Prov. 10:22). He replied to them: 'I
 bought the donkey and not the gem.' He then proceeded to return it to
 its owner. The Arab, on getting it back, exclaimed, 'Blessed be the God
 of Simeon ben Shetah.'"<span
-id="an_r_06_29"></span>[29](wott11.htm#an_n_06_29)
+id="an_r_06_29"></span>[29](wott11.htm#an_n_06_29.md)
 
 #### THE PLEA FOR MODERATION
 
@@ -383,7 +383,7 @@ declared that a person is destined to give account to his Maker for all
 the good things his eyes beheld that he did not partake of. The rabbis
 commended the person who possessed "a beautiful home, a beautiful wife,
 fine furnishings." These put a person into "a happy frame of mind."<span
-id="an_r_06_30"></span>[30](wott11.htm#an_n_06_30)
+id="an_r_06_30"></span>[30](wott11.htm#an_n_06_30.md)
 
 The rabbis decried the ascetic's assumption of voluntary fasts as evil.
 According to the Babylonian teacher Samuel, he who indulges in fasting
@@ -398,7 +398,7 @@ to reject wine is recognized as binding in the Bible (Nu. 6:1–4), the
 rabbis held to be a sinner, and they added: "If a person who withholds
 himself from wine is called a sinner, how much more so is one a sinner
 who withdraws from all of life's enjoyments."<span
-id="an_r_06_31"></span>[31](wott11.htm#an_n_06_31)
+id="an_r_06_31"></span>[31](wott11.htm#an_n_06_31.md)
 
 The rabbis were not unmindful of the dangers in indulgence to excess.
 Wine especially may be taken to excess and then it is injurious. Thus
@@ -406,7 +406,7 @@ they warned: "Do not become intoxicated and you will not sin"; "when
 wine enters, sense leaves, when wine enters, the secret blurts out";
 "one cup of wine is good for a woman, two are degrading, three make her
 act like a lewd woman and four cause her to lose all self-respect and
-shame."<span id="an_r_06_32"></span>[32](wott11.htm#an_n_06_32)
+shame."<span id="an_r_06_32"></span>[32](wott11.htm#an_n_06_32.md)
 
 A rabbinic story portrays vividly the steps in degradation which a man
 walks when he gives himself to excessive drinking: "When Noah came to
@@ -425,7 +425,7 @@ to equal him in the world. When he has drunk more than enough, he
 becomes like a pig, wallowing in filth. When he is intoxicated he
 becomes like a monkey, dancing about, uttering obscenities before all,
 and unaware of what he is doing."<span
-id="an_r_06_33"></span>[33](wott11.htm#an_n_06_33)
+id="an_r_06_33"></span>[33](wott11.htm#an_n_06_33.md)
 
 The study of Torah was regarded by the rabbis as the
 
@@ -443,7 +443,7 @@ him were going on with their usual affairs, plowing and sowing, and
 exclaimed: "They forsake the life of eternity and busy themselves with
 the life that is transitory!" A heavenly voice finally rebuked him:
 "Have you left your cave to destroy my world? Go back to it!"<span
-id="an_r_06_34"></span>[34](wott11.htm#an_n_06_34)
+id="an_r_06_34"></span>[34](wott11.htm#an_n_06_34.md)
 
 #### CLEANLINESS AND HEALTH
 
@@ -457,7 +457,7 @@ a common affliction in oriental countries. But the Talmudists blamed it
 principally on the lack of sanitary habits among the people. "Better a
 drop of cold water in the morning, and the washing of hands and feet in
 the evening than all the eye salves in the world."<span
-id="an_r_06_35"></span>[35](wott11.htm#an_n_06_35)
+id="an_r_06_35"></span>[35](wott11.htm#an_n_06_35.md)
 
 The rabbis looked upon the maintenance of bodily health as a religious
 obligation. This is made clear in the following anecdote, in which
@@ -473,7 +473,7 @@ answered them: 'One who is designated to scrape and clean the statues of
 the king which are set up in theatres and circuses is paid for the work
 and he associates with nobility. Surely must I who am created in the
 divine image and likeness, take care of my body!"<span
-id="an_r_06_36"></span>[36](wott11.htm#an_n_06_36)
+id="an_r_06_36"></span>[36](wott11.htm#an_n_06_36.md)
 
 The Talmud abounds in rules of health, some of which will continue to
 interest the modern reader. The rabbis cautioned against overeating:
@@ -490,8 +490,8 @@ strength." In the event of illness the rabbis urged that a physician be
 consulted, and they forbade people making their homes in communities
 that were without the services of a competent physician: "It is
 forbidden to live in a city that is without a physician."<span
-id="an_r_06_37"></span>[37](wott11.htm#an_n_06_37)
+id="an_r_06_37"></span>[37](wott11.htm#an_n_06_37.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Jurisprudence of the Talmud](wott09)
+[Next: The Jurisprudence of the Talmud](wott09.md)

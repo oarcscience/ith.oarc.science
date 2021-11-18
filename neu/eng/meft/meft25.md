@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft24)  [Next](meft26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft24)  [Next](meft26.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ mouse, a-trying to catch it, that at last his master came in.
 
 ------------------------------------------------------------------------
 
-[Next: The Children in the Wood](meft26)
+[Next: The Children in the Wood](meft26.md)

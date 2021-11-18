@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,19 +21,19 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](life000)
+[Contents](#contents)    [Start Reading](life000.md)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](life000)  
-[Outline](life001)  
+<span id="contents"></span> [Title Page](life000.md)  
+[Outline](life001.md)  
 [Chapter I. Life of a Christian Man. Scriptural Arguments Exhorting to
-it.](life002)  
+it.](life002.md)  
 [Chapter II. A Summary of the Christian Life. Of
-Self-Denial.](life003)  
+Self-Denial.](life003.md)  
 [Chapter III. Of Bearing the CrossOne Branch of
-Self-Denial.](life004)  
-[Chapter IV. Of Meditating on the Future Life.](life005)  
+Self-Denial.](life004.md)  
+[Chapter IV. Of Meditating on the Future Life.](life005.md)  
 [Chapter V. How to Use the Present Life, and the Comforts of
-It.](life006)  
-[Indexes](life007)  
+It.](life006.md)  
+[Indexes](life007.md)  

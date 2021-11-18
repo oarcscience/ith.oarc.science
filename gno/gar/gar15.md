@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar14)  [Next](gar16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar14)  [Next](gar16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ Father some curious examples of the method in which the Naaseni
 pretended to recognise their own "knowledge" in the esoteric religions
 of antiquity. After quoting a long passage from Pindar about the
 conflicting theories as to the creation of the First Man <span
-id="fr_28"></span>[\*](#fn_27) and the names given to him by different
+id="fr_28"></span>[\*](#fn_27.md) and the names given to him by different
 nations, the Ophite text-book continues:
 
 <span id="page_83">p. 83</span>
@@ -114,7 +114,7 @@ seven years of age is the half of his father,'--in stature.\]
 and the first establishers of mysteries. The Ophites explain as follows
 the esoteric doctrine concerning Isis, and the genital member of Osiris,
 lost, sought after, and enveloped by her seven times in a black (or dark
-blue) <span id="fr_29"></span>[\*](#fn_28) vestment. Osiris is the
+blue) <span id="fr_29"></span>[\*](#fn_28.md) vestment. Osiris is the
 element *Water;* Nature seven times enveloped in an etherial robe, that
 is, the seven planetary spheres, stands for Generation and Change, or
 Creation transformed by the ineffable, formless, imageless,
@@ -127,7 +127,7 @@ incomprehensible Deity. The same is implied in the words of Scripture,
 All-mover.
 
 "They likewise discourse concerning the essence (or *existence*) of the
-'Seed,' <span id="fr_30"></span>[\*](#fn_29) the final cause of all
+'Seed,' <span id="fr_30"></span>[\*](#fn_29.md) the final cause of all
 things that exist, although itself none of them, and yet making and
 generating all things; or, as they themselves express it, 'I become what
 I will, and am what I am; therefore I say that moving all, I am myself
@@ -201,7 +201,7 @@ foundations of Zion' is allegorical for setting the figure of the Man
 wall,' is the *Inner Man* that is signified, the stone cut without
 hands,' which hath fallen down from the Adamas above into this earthly
 potter's vessel, this figure of *forgetfulness*. <span
-id="fr_31"></span>[\*](#fn_30)
+id="fr_31"></span>[\*](#fn_30.md)
 
 <span id="page_87">p. 87</span>
 
@@ -220,7 +220,7 @@ The Sun's bright portals, and the land of dreams.'
 "This 'Ocean' signifies the generation of gods and the generation of
 men, ever tossing in a perpetual flow and ebb. When it runs *downwards*
 it is the generation of men; when it tosses itself *upwards* against its
-boundary, <span id="fr_32"></span>[\*](#fn_31) the rock Leucas, it is
+boundary, <span id="fr_32"></span>[\*](#fn_31.md) the rock Leucas, it is
 the generation of gods. 'For this cause,' saith the Wise One, 'I have
 said ye are gods and the children of the Most Highest, when ye shall
 make haste to flee out of Egypt, and shall come beyond the Red Sea into
@@ -270,7 +270,7 @@ nothing was made, and what was made in him is Life." This Life is the
 life unspeakable, the generation of the Perfect Man, unknown to former
 ages. The "Nothing" that was made without him is the World of Species,
 for *that* world was made without him by the *Third* and by the *Fourth*
-One. <span id="fr_33"></span>[\*](#fn_32) *This* is the Cup (*condy*) of
+One. <span id="fr_33"></span>[\*](#fn_32) *This* is the Cup (*condy*.md) of
 Joseph, "out of which the king doth drink and use divination." Of this
 also do the Greeks (Anacreon) sing in Bacchic frenzy,
 
@@ -296,7 +296,7 @@ Mysteries*, which none but we the "Perfect" are able to understand, for
 the Samothracians expressly mention the Adamas who is above--the Primal
 Man. For in the Temple of the Samothracians stand two naked men, having
 their hands and their genital members elevated towards heaven, <span
-id="fr_34"></span>[\*](#fn_33) like the Hermes of Cyllene. These two
+id="fr_34"></span>[\*](#fn_33.md) like the Hermes of Cyllene. These two
 statues represent the Primal Man, and the Spiritual Man after he is
 "born again, and made like unto Him every whit."'
 
@@ -337,7 +337,7 @@ the boy, and *Mesopotamia* signifies the stream of the Great Ocean which
 flows out of the middle of the Perfect Man. The same deity is called by
 the Phrygians PAPA, because He *appeased* the confusion and chaotic
 tumult which prevailed before His coming. For this name is the unanimous
-cry παῦε, παῦε, <span id="fr_35"></span>[\*](#fn_34) of all things in
+cry παῦε, παῦε, <span id="fr_35"></span>[\*](#fn_34.md) of all things in
 Heaven, in Earth, and under the Earth, calling upon Him to *appease* the
 discord, and to 'send peace to men that were afar off'--that is, to the
 earthly and mortal--'and to them that were near' that is, to the
@@ -358,7 +358,7 @@ the Gate into Heaven. Paul means the same by his 'being caught up into
 the third heaven, and hearing unutterable things.' Again, 'the publicans
 and harlots shall enter into the Kingdom of Heaven before you,' where
 *publicans* means the Gentiles 'upon whom the *ends* of the world have
-come'; <span id="fr_36"></span>[\*](#fn_35) where 'ends' are the seeds
+come'; <span id="fr_36"></span>[\*](#fn_35.md) where 'ends' are the seeds
 of the universe scattered about by the Formless One, as is set forth by
 the Saviour, 'He that hath ears to hear, let him hear,' declaring that
 none but the perfect Gnostics can comprehend this mystery.
@@ -415,7 +415,7 @@ Mysteries,' that is, to heavenly regeneration.
 Pre-existing One, who, having within himself the Perfect Fruit pulsating
 and moving about in his depths, *tore open* (διήμυξε) his bosom, and
 brought forth the Invisible, Ineffable Son, of whom we are
-treating. <span id="fr_37"></span>[\*](#fn_36) He is moreover
+treating. <span id="fr_37"></span>[\*](#fn_36.md) He is moreover
 denominated the 'Piper,' because that which is born is the harmonious
 *Spirit* \[or, *breath*, the Greek affording no distinction between the
 two senses of the word.\] The Spirit is likewise called the Father, and
@@ -480,13 +480,13 @@ Serpent (which I shall extract when treating of the Agathodæmon
 religion) Hippolytus thus continues:--"The foregoing is a sample of the
 insane, absurd, and interminable theories of the sect. But to show up,
 as far as lies in our power, their *unknowing* 'knowledge,' the
-following hymn <span id="fr_38"></span>[\*](#fn_37) is here inserted, as
+following hymn <span id="fr_38"></span>[\*](#fn_37.md) is here inserted, as
 containing a summary of the whole creed:--
 
 "'The generative law of the All was the First Mind;  
 But the Second was the effused chaos of the First:  
 In the third place the Soul received a law, and began to operate. <span
-id="fr_39"></span>[†](#fn_38)  
+id="fr_39"></span>[†](#fn_38.md)  
 Whereupon She (the Soul) enveloped in the figure of a fawn,  
 Struggles with Death, suffering a probationary penance.  
 At one time, invested with royalty, she beholds the Light;  
@@ -507,7 +507,7 @@ I will go down holding the Seals,
 I will pass through all the Æons;  
 I will reveal all the mysteries;  
 I will manifest the forms of the gods; <span
-id="fr_40"></span>[‡](#fn_39)  
+id="fr_40"></span>[‡](#fn_39.md)  
 And the hidden secrets of the holy way  
 I will teach, giving unto them the name of **GNOSIS**.'
 
@@ -615,7 +615,7 @@ In this degradation of the names most sacred in the Jewish theology, is
 clearly to be recognised, the very teaching of those "dreamers"
 reprobated by Jude, v. 8 for despising "Dominion," and speaking evil of
 "Dignities." For "Dominion" is the "Empire" in the Sephiroth (see page
-[35](gar10.htm#page_35)) to which the Kabbala assigned the title
+[35](gar10.htm#page_35).md) to which the Kabbala assigned the title
 *Adonai*. Now we find here the Ophites making Adonai the *third* son of
 Ildabaoth, a malevolent Genius, and like his father and brethren, the
 eternal adversary of the Christ. The "Dignities" mean the other
@@ -836,10 +836,10 @@ century later.
 
  
 
-<span id="img_fig04"></span> ![FIG. 4.](img/fig04.jpg)  
+<span id="img_fig04"></span> ![FIG. 4.](img/fig04.jpg.md)  
 FIG. 4.
 
-[(\*)](gar71.htm#an_fig04)
+[(\*)](gar71.htm#an_fig04.md)
 
  
 
@@ -847,7 +847,7 @@ FIG. 4.
 
 ### Footnotes
 
-<span id="fn_27"></span>[82:\*](gar15.htm#fr_28) "But the Libyans held
+<span id="fn_27"></span>[82:\*](gar15.htm#fr_28.md) "But the Libyans held
 that *Iarbas* was the first-born of men; he who, rising up out of their
 droughty plains, first gathered the sweet dates of Jove. And even in our
 day, the Nile fattening the mud of Egypt, <span id="page_83">p.
@@ -856,24 +856,24 @@ moist heat breeds living creatures. The Assyrians pretend that the First
 Man arose in their country, *Oannes*, the eater of fish; but the
 Chaldeans say he was *Adam*."
 
-<span id="fn_28"></span>[84:\*](gar15.htm#fr_29) Μέλας has both these
+<span id="fn_28"></span>[84:\*](gar15.htm#fr_29.md) Μέλας has both these
 meanings.
 
-<span id="fn_29"></span>[85:\*](gar15.htm#fr_30) The "Seed of the World"
+<span id="fn_29"></span>[85:\*](gar15.htm#fr_30.md) The "Seed of the World"
 in the Basilidan system, as already explained ([p.
-73](gar14.htm#page_73)).
+73](gar14.htm#page_73).md).
 
-<span id="fn_30"></span>[86:\*](gar15.htm#fr_31) Meaning the *Body*, in
+<span id="fn_30"></span>[86:\*](gar15.htm#fr_31.md) Meaning the *Body*, in
 which the Inner Man imprisoned has lost all recollection of leis primal
 source.
 
-<span id="fn_31"></span>[87:\*](gar15.htm#fr_32) The Basilidan "Boundary
-Spirit," or Holy Ghost ([p. 76](gar14.htm#page_76)).
+<span id="fn_31"></span>[87:\*](gar15.htm#fr_32.md) The Basilidan "Boundary
+Spirit," or Holy Ghost ([p. 76](gar14.htm#page_76).md).
 
-<span id="fn_32"></span>[88:\*](gar15.htm#fr_33) Ildabaoth, the God of
+<span id="fn_32"></span>[88:\*](gar15.htm#fr_33.md) Ildabaoth, the God of
 Fire.
 
-<span id="fn_33"></span>[89:\*](gar15.htm#fr_34) A valuable notice of
+<span id="fn_33"></span>[89:\*](gar15.htm#fr_34.md) A valuable notice of
 the type under which the Cabiri were represented in this the most
 venerated of all the Grecian sanctuaries. It is curiously illustrated by
 Ficoroni's bronze group, figured in his "Memorie di Labico," and given
@@ -891,7 +891,7 @@ claws. With it was found a mirror, the back engraved with the combat of
 Pollux and Amycus, **LOSNA** with her crescent standing in the middle,
 the names in regular Etruscan.
 
-<span id="fn_34"></span>[90:\*](gar15.htm#fr_35) A subsequent thousand
+<span id="fn_34"></span>[90:\*](gar15.htm#fr_35.md) A subsequent thousand
 years' experience of the blessings of ecclesiastical rule has furnished
 Walter de Mapes with a more humorous etymology for this title--
 
@@ -900,29 +900,29 @@ Quidquid habent alii solus vult pappare:
 Aut si nomen Gallicum vis apocopare,  
 *Payez*, *payez* dit le mot, si vis impetrare."
 
-<span id="fn_35"></span>[91:\*](gar15.htm#fr_36) A play upon τελώναι and
+<span id="fn_35"></span>[91:\*](gar15.htm#fr_36.md) A play upon τελώναι and
 τέλη.
 
-<span id="fn_36"></span>[92:\*](gar15.htm#fr_37) Some lurking tradition
+<span id="fn_36"></span>[92:\*](gar15.htm#fr_37.md) Some lurking tradition
 of this mystery may have suggested the machine of the almond (*machina
 della mandola*) containing the Archangel Gabriel, in the spectacle of
 the Annunciation constructed by Brunelleschi for the church of Sta.
 Croce. See Vasari's detailed account of this remarkable example of a
 miracle-play.
 
-<span id="fn_37"></span>[94:\*](gar15.htm#fr_38) This hymn is written in
+<span id="fn_37"></span>[94:\*](gar15.htm#fr_38.md) This hymn is written in
 anapæstic verses; its text is in many places hopelessly corrupted by the
 transcriber. I have therefore often been obliged to conjecture the
 original sense.
 
-<span id="fn_38"></span>[94:†](gar15.htm#fr_39) An enunciation of the
+<span id="fn_38"></span>[94:†](gar15.htm#fr_39.md) An enunciation of the
 fundamental doctrine "All is Three," already stated by Hippolytus.
 
-<span id="fn_39"></span>[94:‡](gar15.htm#fr_40) That is, will disclose
+<span id="fn_39"></span>[94:‡](gar15.htm#fr_40.md) That is, will disclose
 to the faithful the different figures of the Archons of the lower
 spheres, a promise fulfilled at much length by the author of the
 Pistis-Sophia.
 
 ------------------------------------------------------------------------
 
-[Next: Machinery of the Gnosis](gar16)
+[Next: Machinery of the Gnosis](gar16.md)

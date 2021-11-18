@@ -17,35 +17,35 @@ successors, merely reading or possessing the Necronomicon leads to
 insanity ...or worse.
 
 <span class="c_e"> <span class="c_t">[An H.P. Lovecraft
-Anthology](hpl/index)</span> <span class="c_a"></span></span>  
+Anthology](hpl/index.md)</span> <span class="c_a"></span></span>  
 A collection of most of Lovecraft's stories, which due to either the
 date of publication or lack of renewal have become public domain in the
 United States. The following mention the *Necronomicon*:
 
-[The Call of Cthulhu](hpl/hpl31)  
-[The Dunwich Horror](hpl/hpl32)  
-[The Whisperer in the Darkness, Chapter 2](hpl/hpl36)  
-[The Whisperer in the Darkness, Chapter 7](hpl/hpl41)  
-[The Haunter of the Dark](hpl/hpl47)  
-[The Shadow out of Time, Chapter 3](hpl/hpl50)  
-[The Thing on the Doorstep](hpl/hpl57)  
-[The Book](hpl/hpl59)  
-[The Descendant](hpl/hpl60)  
-[The Case of Charles Dexter Ward, Chapter II](hpl/hpl63)  
+[The Call of Cthulhu](hpl/hpl31.md)  
+[The Dunwich Horror](hpl/hpl32.md)  
+[The Whisperer in the Darkness, Chapter 2](hpl/hpl36.md)  
+[The Whisperer in the Darkness, Chapter 7](hpl/hpl41.md)  
+[The Haunter of the Dark](hpl/hpl47.md)  
+[The Shadow out of Time, Chapter 3](hpl/hpl50.md)  
+[The Thing on the Doorstep](hpl/hpl57.md)  
+[The Book](hpl/hpl59.md)  
+[The Descendant](hpl/hpl60.md)  
+[The Case of Charles Dexter Ward, Chapter II](hpl/hpl63.md)  
 
 The Necronomicon was not the only book which Lovecraft dreamed up, it is
 just the most famous. There is a whole list of others cited in his
 works, such as the Book of Eibon, the Pnakotic Manuscripts, "the Cultes
 des Goules of Comte d'Erlette, the Unaussprechlichen Kulten of von
 Junzt, and old Ludvig Prinn's hellish De Vermis Mysteriis" ([Haunter of
-the Dark](hpl/hpl47)). He also threw in references to actual books and
+the Dark](hpl/hpl47).md). He also threw in references to actual books and
 authors to blur the distinction between reality and fiction, some of
 which are available at this site:
 
-[The Book of Dzayan](../atl/dzyan/dzyan)  
-[Hermes Trismegistus](../alc/goldtrac)  
-[the Turba Philosophorum](../alc/turba)  
-[Olaus Wormius](../neu/ossian/oss07)  
+[The Book of Dzayan](../atl/dzyan/dzyan.md)  
+[Hermes Trismegistus](../alc/goldtrac.md)  
+[the Turba Philosophorum](../alc/turba.md)  
+[Olaus Wormius](../neu/ossian/oss07.md)  
 
 ------------------------------------------------------------------------
 
@@ -83,17 +83,17 @@ Emptor*.
 
 As the obsession with the Necronomicon grew over the years, a number of
 books emerged to fill the demand, most notably the [Simon
-Necronomicon](https://www.amazon.com/exec/obidos/ASIN/0380751925/internetsacredte).
+Necronomicon](https://www.amazon.com/exec/obidos/ASIN/0380751925/internetsacredte.md).
 This purports to be a Sumerian grimoire, translated from a Greek
 manuscript of shady provenance. Simon has recently published a
 fascinating account of the publication of his Necronomicon, [Dead
-Names](https://www.amazon.com/exec/obidos/ASIN/006078704X/internetsacredte).
+Names](https://www.amazon.com/exec/obidos/ASIN/006078704X/internetsacredte.md).
 [The Chaosium
-Necronomicon](https://www.amazon.com/exec/obidos/ASIN/156882162X/internetsacredte)
+Necronomicon](https://www.amazon.com/exec/obidos/ASIN/156882162X/internetsacredte.md)
 is an anthology of fiction about the Necronomicon and several fictional
 Necronomicons, including a lovingly crafted pastiche by the late science
 fiction writer Lin Carter. A recent entry is Donald Tyson's
-[Necronomicon](https://www.amazon.com/exec/obidos/ASIN/0738706272/internetsacredte),
+[Necronomicon](https://www.amazon.com/exec/obidos/ASIN/0738706272/internetsacredte.md),
 which is firmly rooted in Lovecraft's universe. Less satisfying is Al
 Azif, which is simply a couple of hundred pages of illegible script in
 an unknown language.

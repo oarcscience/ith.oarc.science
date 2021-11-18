@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](turba)  [Next](coelum) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](turba)  [Next](coelum.md) 
 
 ------------------------------------------------------------------------
 
@@ -1675,6 +1675,6 @@ deceived, many would deride our wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: Coelum philosophorum by Paracelsus](coelum)
+[Next: Coelum philosophorum by Paracelsus](coelum.md)
 
   

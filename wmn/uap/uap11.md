@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](uap10) 
-[Next](uap12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](uap10.md) 
+[Next](uap12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -563,4 +563,4 @@ an inaudible tune, as though I had been to the opera.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11. A Comparison](uap12)
+[Next: Chapter 11. A Comparison](uap12.md)

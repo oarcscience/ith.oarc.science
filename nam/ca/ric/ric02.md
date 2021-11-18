@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ric01)  [Next](ric03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ric01)  [Next](ric03.md) 
 
 ------------------------------------------------------------------------
 
@@ -205,4 +205,4 @@ smallest amount of ritualistic action.
 
 ------------------------------------------------------------------------
 
-[Next: Shamanism](ric03)
+[Next: Shamanism](ric03.md)

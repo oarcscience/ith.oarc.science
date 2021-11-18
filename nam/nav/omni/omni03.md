@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](omni02)  [Next](omni04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](omni02)  [Next](omni04.md) 
 
 ------------------------------------------------------------------------
 
@@ -1221,4 +1221,4 @@ Scolder, and appears In Zuni and other myths.
 
 ------------------------------------------------------------------------
 
-[Next: The Age of Gods](omni04)
+[Next: The Age of Gods](omni04.md)

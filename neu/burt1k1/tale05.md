@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale04)  [Next](tale06) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale04)  [Next](tale06.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,4 +250,4 @@ head and wend thy ways." But he replied, "I will not go till I hear the
 history of the two others." Thereupon the second Kalandar came forward
 and, kissing the ground, began to tell
 
-(*Next*) [THE SECOND KALANDAR'S TALE](tale06)  
+(*Next*) [THE SECOND KALANDAR'S TALE](tale06.md)  

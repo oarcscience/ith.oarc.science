@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc12)  [Next](moc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc12)  [Next](moc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ Periods--Osiris and Minos--Osiris and the Minotaur--Eponymus Ancestor as
 a Son of Earth --Minos and Pelasgus--First Man of "Lost
 Atlantis"--Tribal Forms of Animal-headed Gods.
 
-IN a previous chapter <span id="fr_202"></span>[1](#fn_202) it has been
+IN a previous chapter <span id="fr_202"></span>[1](#fn_202.md) it has been
 shown that, during the Late Palæolithic and Neolithic Periods, the
 worship of a goddess of maternity, who was at once a destroyer and
 preserver, obtained among tribes of Eurafrican and Eurasian peoples, and
@@ -51,7 +51,7 @@ Homeric and Thesiodic Mythology
 <span id="page_166">p. 166</span>
 
 was framed. Herodotus pondered over this aspect of the problem and
-wrote: <span id="fr_203"></span>[1](#fn_203)
+wrote: <span id="fr_203"></span>[1](#fn_203.md)
 
 Whence the gods severally sprang, whether or no they had existed from
 eternity, what forms they bore--these are questions of which the Greeks
@@ -59,7 +59,7 @@ knew nothing until the other day, so to speak, for Homer and Hesiod were
 the first to compose Theogonies, and give their gods their epithets, to
 allot them their several offices and occupations, and describe their
 forms; and they lived but four hundred years before my time as I
-believe. <span id="fr_204"></span>[2](#fn_204)
+believe. <span id="fr_204"></span>[2](#fn_204.md)
 
 Herodotus received his information regarding the literary conception of
 the deities from three priestesses of the Dodonæans, who also said:
@@ -100,7 +100,7 @@ that time there was no other. To their question, "whether they should
 adopt the names that had been imported from the foreigners?" the oracle
 replied by recommending the use of the names of the gods, and from them
 the names passed afterwards to the Greeks. <span
-id="fr_205"></span>[1](#fn_205)
+id="fr_205"></span>[1](#fn_205.md)
 
 These statements seem to bear out what the results of modern research
 tend to emphasize: that the systematized mythology was a creation of
@@ -114,7 +114,7 @@ primitive spirit groups. These were first conceived of as mothers. "The
 prominence of the idea of maternity in the Cretan religion", says Mr.
 Farnell, "is illustrated by the Cretan cult of 'Meteres', the 'Holy
 Mothers' who were transplanted at an early time from Crete to Engyon in
-Sicily." <span id="fr_206"></span>[2](#fn_206)
+Sicily." <span id="fr_206"></span>[2](#fn_206.md)
 
 In modern Greece the memory of the spirit groups still survives. Nymphs
 and Nereids haunt mountains and valleys, oceans and streams, and are
@@ -132,16 +132,16 @@ water spirits); Mairæ, Matronæ, Matres or Matræ (the mothers); Quadriviæ
 often qualified by some local name. Deities of this type appear to have
 been popular in Britain, in the neighbourhood of Cologne, and in
 Province. . . . In some parts of Wales 'Y Mamau' (the mothers) is the
-name for the fairies." <span id="fr_207"></span>[1](#fn_207) The "seven
+name for the fairies." <span id="fr_207"></span>[1](#fn_207.md) The "seven
 Hathors" of Egypt who presided at birth were similarly "mothers" and
 "fates". The "Golden Aphrodite" of Greece was chief of the "deathless
 fates". Demeter's priestesses, the earthly representatives of her
 nymphs, conducted a religious ceremony at weddings, as a Cos inscription
-shows. <span id="fr_208"></span>[2](#fn_208) Fairies in our folk-tales
+shows. <span id="fr_208"></span>[2](#fn_208.md) Fairies in our folk-tales
 are so fond of pretty children that they endeavour to steal them, and,
 when they are successful, substitute changelings. The Greek Nereids
 have, according to modern folk-belief, similar propensities. <span
-id="fr_209"></span>[3](#fn_209)
+id="fr_209"></span>[3](#fn_209.md)
 
 Ancient and modern evidence tends to emphasize the widespread prevalence
 among the peoples of the Mediterranean race of the belief in the female
@@ -157,7 +157,7 @@ powers wholly
 <span id="page_169">p. 169</span>
 
 diverse, in that mankind is as naught, but heaven is builded of brass
-that abideth ever unshaken." <span id="fr_210"></span>[1](#fn_210)
+that abideth ever unshaken." <span id="fr_210"></span>[1](#fn_210.md)
 
 Sometimes the Great Mother is of dual personality. The Egyptian sisters
 Isis and Nepthys were both mothers of Osiris, as has been
@@ -165,7 +165,7 @@ indicated--"the progeny of the two cows Isis and Nepthys". In the Indian
 epic the *Máhabhárata*, the monarch Jarasandha was similarly reputed to
 be the joint son of the two queens. The two parts of his body were
 united by Jara, the household genius, after birth, and his name
-signifies "united by Jara". <span id="fr_211"></span>[2](#fn_211) Two
+signifies "united by Jara". <span id="fr_211"></span>[2](#fn_211.md) Two
 goddesses were associated with the Sumerian god Tammuz. These were
 Ishtar and Belit-sheri. Ishtar was his "mother", and he became her
 lover; Belit-sheri was his "sister". Isis was at once the "mother",
@@ -179,7 +179,7 @@ Another mystic conception was that the Great Mother was bi-sexual. The
 Libyan Neith was occasionally depicted as androgyne. Isis was the
 Egyptian "bearded Aphrodite", "the woman who was made a male", as one of
 the religious chants states, "by her father, Osiris". <span
-id="fr_212"></span>[3](#fn_212) The Babylonian Ishtar and the Germanic
+id="fr_212"></span>[3](#fn_212.md) The Babylonian Ishtar and the Germanic
 Freya were likewise double-sexed. This idea that deities were abnormal
 and superhuman applied not only to goddesses. One of the Orphic hymns
 sets forth:
@@ -199,7 +199,7 @@ in fact, appears not to have known that he was other than a female
 deity. He says the Persians worshipped Urania, "which they borrowed from
 the Arabians and Assyrians. Mylitta is the name by which the Assyrians
 know this goddess, whom the Arabians call Alitta, and the Persians
-Mithra". <span id="fr_213"></span>[1](#fn_213)
+Mithra". <span id="fr_213"></span>[1](#fn_213.md)
 
 At what remote period this conception became prevalent it is impossible
 to ascertain. It may have had origin in the Palæolithic Age, when
@@ -212,7 +212,7 @@ the early fusion of god and goddess cults, and of the rival fundamental
 ideas connected with them. Babylonia may have been the region from which
 the mystical doctrine was transferred to India on the one hand and Syria
 on the other. According to Richard Burton <span
-id="fr_214"></span>[2](#fn_214) "the Phœnicians spread their androgynic
+id="fr_214"></span>[2](#fn_214.md) "the Phœnicians spread their androgynic
 worship over Greece".
 
 In contrast to the conception of the peoples of the goddess cult, that
@@ -228,7 +228,7 @@ One of the several creation myths in India sets forth that the
 world-giant Purusha was, like Ymer, the source of all life. The highest
 caste, the Brahman, sprang from his mouth, the second, the Kshatriya,
 from his arms, the third, the Vaisya, from his thighs, and the fourth,
-the Sudra, from his feet. <span id="fr_215"></span>[1](#fn_215) In
+the Sudra, from his feet. <span id="fr_215"></span>[1](#fn_215.md) In
 Anatolia the Armenoid Hatti were father-worshippers. During the period
 of their political supremacy their "Lord of Heaven", a sky and
 atmospheric deity with solar attributes, was all powerful. "With the
@@ -237,7 +237,7 @@ predominant place. . . . But the Great Mother lived on, being the
 goddess of the land. Her cult, modified in some cases profoundly, by
 time and changed political circumstances, was found surviving at the
 dawn of Greek history in several places in the interior." <span
-id="fr_216"></span>[2](#fn_216) Zeus of the Hellenic Greeks was
+id="fr_216"></span>[2](#fn_216.md) Zeus of the Hellenic Greeks was
 similarly a father god and was imposed, as has been indicated, on the
 pre-Hellenic inhabitants of Greece after conquest. In Egypt Ptah, the
 god of Memphis, who wielded a hammer like the Hittite father god, and
@@ -246,7 +246,7 @@ he built up his body and shaped his limbs ere the sky was fashioned and
 the world set in order. "No father begot thee", a priestly poet
 declared, "and no mother gave thee birth. Thou didst fashion thyself
 without the aid of any other being." <span
-id="fr_217"></span>[3](#fn_217)
+id="fr_217"></span>[3](#fn_217.md)
 
 There is no trace of beliefs of the father cult in Crete. The Hellenic
 Zeus, as has been shown, was little more than a name on the island. It
@@ -291,7 +291,7 @@ the
 children of more fortunate mothers". Another kind of Lamia, the Gello,
 transforms herself into a fish, a serpent, a kite, or a skylark, and
 devours babes also. When one of these demons is slain, no grass grows
-where her blood falls. <span id="fr_218"></span>[1](#fn_218) In Gaelic
+where her blood falls. <span id="fr_218"></span>[1](#fn_218.md) In Gaelic
 folk-tales no grass grows under whin-bushes or holly-trees, because the
 Cailleach has touched the ground there with her hammer.
 
@@ -366,7 +366,7 @@ The specialized form of the goddess most closely associated with crops
 was Demeter. *Meter* signified "mother", but the meaning of the prefix
 is uncertain. According to W. Mannhardt *deai* was the Cretan word for
 "barley", and the goddess was the "Barley Mother". <span
-id="fr_219"></span>[1](#fn_219) Others hold that the prefix is a
+id="fr_219"></span>[1](#fn_219.md) Others hold that the prefix is a
 dialectic variant of the word for "earth".
 
 But although the etymology of her name may remain doubtful, her real
@@ -413,9 +413,9 @@ instructed him, and he performed symbolic acts, and took vows.
 The ceremony appears to have had a religious significance. "Whoever goes
 uninitiated to Hades", says Plato, "will lie in mud, but he who has been
 purified and is fully initiate, when he comes thither will dwell with
-the gods " <span id="fr_220"></span>[1](#fn_220)
+the gods " <span id="fr_220"></span>[1](#fn_220.md)
 
-According to Diodorus Siculus, <span id="fr_221"></span>[2](#fn_221) the
+According to Diodorus Siculus, <span id="fr_221"></span>[2](#fn_221.md) the
 Cretans professed that they gave the mysteries to Greece, and that they
 
 <span id="page_177">p. 177</span>
@@ -424,10 +424,10 @@ were performed openly on their island and communicated to everyone in
 ancient times. The same writer says that the Cretans received the
 mysteries from Egypt, the mysteries of Isis being the same as those of
 Demeter and the mysteries of Osiris the same as those of Dionysus. <span
-id="fr_222"></span>[1](#fn_222) Plutarch expresses a similar view. <span
-id="fr_223"></span>[2](#fn_223) Herodotus, referring to the festival at
+id="fr_222"></span>[1](#fn_222.md) Plutarch expresses a similar view. <span
+id="fr_223"></span>[2](#fn_223.md) Herodotus, referring to the festival at
 Busiris, in the Delta, says that "it is in honour of Isis, who is called
-in the Greek tongue Demeter". <span id="fr_224"></span>[3](#fn_224)
+in the Greek tongue Demeter". <span id="fr_224"></span>[3](#fn_224.md)
 Apparently there were strong resemblances between the mysteries of Isis
 and those of Demeter.
 
@@ -448,9 +448,9 @@ This heroine of the *Rámáyana*, having served her purpose on earth,
 departs to the Underworld.
 
 The earth was rent and parted, and a golden throne arose,  
-Held aloft by jewelled Nagas <span id="fr_225"></span>[4](#fn_225) as
+Held aloft by jewelled Nagas <span id="fr_225"></span>[4](#fn_225.md) as
 the leaves enfold the rose,  
-And the Mother <span id="fr_226"></span>[5](#fn_226) in embraces held
+And the Mother <span id="fr_226"></span>[5](#fn_226.md) in embraces held
 her spotless, sinless child.
 
 <span id="page_178">p. 178</span>
@@ -460,7 +460,7 @@ says Romesh C. Dutt, "Sita is simply the goddess of the field furrow
 which bears crops for men. We find how that simple conception is
 concealed in the *Rámáyana*, where Sita, the heroine of the epic, is
 still born of the field furrow, and after all her adventures returns to
-the earth." <span id="fr_227"></span>[1](#fn_227)
+the earth." <span id="fr_227"></span>[1](#fn_227.md)
 
 The daughter of Demeter was Kore-Persephone. The ancient legend
 regarding the abduction of the young goddess is as follows.
@@ -489,12 +489,12 @@ aloud, with the result that the spell was broken, and he perished.
 <span class="contnote">\[paragraph continues\]</span> Similarly, Isis
 thrust into the fire the infant son of the King of Byblus, whom she had
 been engaged to nurse, when searching for Osiris. <span
-id="fr_228"></span>[1](#fn_228) Demeter compensated the parents for
+id="fr_228"></span>[1](#fn_228.md) Demeter compensated the parents for
 their loss (or sacrifice) by giving Triptolemus seeds and instructing
 him in the art of agriculture. She also conferred upon him a chariot
 which was drawn by winged dragons. Pausanias says that she instructed
 Triptolemus and his father in the performance of her rites and
-mysteries. <span id="fr_229"></span>[2](#fn_229)
+mysteries. <span id="fr_229"></span>[2](#fn_229.md)
 
 Many stories were related regarding Demeter's wanderings. One was that
 she fled from Poseidon as a mare, and that he assumed the form of a
@@ -502,7 +502,7 @@ stallion. She afterwards became the mother of the horse Areion, which
 had the gift of speech. Hesiod, however, makes Medusa the spouse of
 Poseidon in his horse form and the mother of the winged Pegasus.
 
-In Phigalia Pausanias <span id="fr_230"></span>[3](#fn_230) saw the cave
+In Phigalia Pausanias <span id="fr_230"></span>[3](#fn_230.md) saw the cave
 "sacred to Black Demeter". Here she was fabled to have dwelt for a time
 sorrowing for her daughter. Meanwhile the blight remained upon the
 earth, and mankind were perishing from famine. The gods searched for,
@@ -543,10 +543,10 @@ rites.
 It is evident that the primitive form of Demeter in Arcadia bore a close
 resemblance to the repulsive hags of England and Scotland. Like the
 snake-goddess of Crete, she retained in her symbols her early demoniac
-traits. Pausanias <span id="fr_231"></span>[1](#fn_231) tells that in
+traits. Pausanias <span id="fr_231"></span>[1](#fn_231.md) tells that in
 the cave of Phigalia the ancient figure of the Black Demeter was of
 wood; it was seated on a rock and had a mare's head, <span
-id="fr_232"></span>[2](#fn_232) which had above it the figures of snakes
+id="fr_232"></span>[2](#fn_232.md) which had above it the figures of snakes
 and other monsters. She held a dolphin in one hand and a dove in the
 other. When this statue
 
@@ -558,13 +558,13 @@ land. An oracle was consulted, and the people were informed that they
 were being punished for forgetting that Demeter had introduced among
 them the cultivation of corn.
 
-Professor Frazer, <span id="fr_233"></span>[1](#fn_233) dealing with the
+Professor Frazer, <span id="fr_233"></span>[1](#fn_233.md) dealing with the
 form of the myth as it is given in the *Homeric Hymn to Demeter*,
 regards Demeter and Persephone as personifications of the corn--the
 former as the old corn of last year and the latter as the seed corn in
 autumn and sprouting in spring. Persephone's period in Hades was the
 period in which the sprouting seed remained under the earth. <span
-id="fr_234"></span>[2](#fn_234) The Black Demeter appears to have been
+id="fr_234"></span>[2](#fn_234.md) The Black Demeter appears to have been
 the personification of the barren earth in winter, the Green Demeter the
 goddess of growing corn, and the Yellow Demeter the harvest deity. In
 their seasonal festivals the ancient agriculturists rejoiced and
@@ -573,7 +573,7 @@ sorrowed alternately in sympathy with the goddess.
 It would appear that the various names of the ancient earth mother were
 in turn individualized as separate deities. "As pre-Homeric offshoots of
 Gaia", says Dr. Farnell, "we must recognize Demeter, Persephone, and
-Themis." <span id="fr_235"></span>[3](#fn_235) Themis was the Titan who
+Themis." <span id="fr_235"></span>[3](#fn_235.md) Themis was the Titan who
 became the second wife of Zeus. Kore appears, too, to have been
 originally identical with Demeter. "From the two distinct names", Dr.
 Farnell considers, "two distinct personalities arose. . . . Then as
@@ -591,7 +591,7 @@ girl-Persephone, just as Hera, the stately bride mother, was called,
 'Hera the girl' at Stymphalos . . . or the facts could be brought into
 accord with another supposition. 'Kore' may have been detached from such
 a ritual name as Demeter-Kore, 'the girl-Demeter'." <span
-id="fr_236"></span>[1](#fn_236)
+id="fr_236"></span>[1](#fn_236.md)
 
 In Crete, therefore, the snake-, dove-, and mountain-goddesses may have
 been seasonal forms of the Mother Earth. Until the inscriptions are
@@ -704,7 +704,7 @@ improbable that the primitive Osiris was a bull-headed man like the
 Minotaur, which in one of the Cretan seal impressions is depicted seated
 on a throne below a tree conversing with a priest; its close resemblance
 to Anubis and Sebek is highly suggestive of Egyptian origin. <span
-id="fr_237"></span>[1](#fn_237) Professor Breasted has proved, from the
+id="fr_237"></span>[1](#fn_237.md) Professor Breasted has proved, from the
 evidence of the early Pyramid texts, that Osiris had at one time as
 unsavoury a reputation as the Cretan Minotaur. He calls him "a dangerous
 god", and adds: "The tradition of his \[Osiris's\] unfavourable
@@ -717,7 +717,7 @@ dark and forbidding realm which he ruled had been feared and dreaded. In
 the beginning, too, he bad been local to the Delta, where he had his
 home in the city of Dedu, later called Busiris by the Greeks. His
 transformation into a friend of man and kindly ruler of the dead took
-place here in prehistoric ages." <span id="fr_238"></span>[1](#fn_238)
+place here in prehistoric ages." <span id="fr_238"></span>[1](#fn_238.md)
 
 Osiris in his later form was a deified ruler, who received knowledge of
 the art of agriculture from the earth-goddess, like the Greek
@@ -736,7 +736,7 @@ were sent from Locris to be priestesses and handmaidens in Athena's
 temple were slain and burnt, their ashes having been afterwards cast
 from a mountain into the sea. "It is clear", Dr. Farnell comments, "this
 is no mere story of murder, but a reminiscence of peculiar rites." <span
-id="fr_239"></span>[2](#fn_239)
+id="fr_239"></span>[2](#fn_239.md)
 
 Europé, as bride of Zeus, was probably, like Pasiphaë, wife of Minos, a
 developed form of the Earth Mother. Minos and the Minotaur may similarly
@@ -759,7 +759,7 @@ From the painting by John Duncan, A.R.S.A.
 spirit passed from king to son, and the latter as a link between the
 animal and anthropomorphic forms of the tribal deity, who was also the
 eponymous ancestor. According to Pausanias <span
-id="fr_240"></span>[1](#fn_240) the Arcadians believed that the first
+id="fr_240"></span>[1](#fn_240.md) the Arcadians believed that the first
 settler in their land was Pelasgus, the eponymous ancestor, apparently,
 of the Pelasgians. Asius, he says, referred to him as follows:--
 
@@ -773,20 +773,20 @@ use in Eubœa and Phocis. He was the inventor of these comforts. He, too,
 taught people to abstain from green leaves and grass and roots that were
 not good to eat, some even deadly to those who eat them. He discovered
 also that the fruit of some trees was good, especially acorns." <span
-id="fr_241"></span>[2](#fn_241)
+id="fr_241"></span>[2](#fn_241.md)
 
 A similar legend is related by Plato regarding the patriarch of his Lost
 Atlantis. He states that on the hill above the palace (Knossos) lived
 "one of those men who in primitive times sprang from the earth, by name
 Evenor. His wife was Leucippe. They had only one daughter, named Clito".
 Clito became the wife of Poseidon, and the ancestress of all the
-tribes. <span id="fr_242"></span>[3](#fn_242)
+tribes. <span id="fr_242"></span>[3](#fn_242.md)
 
 Minos, like Pelasgus, was evidently a semi-divine patriarch. Sir Arthur
 Evans shows that the "tomb of Zeus" was at one time called the "tomb of
 Minos". This "seems to record a true religious process", he says, "by
 which the cult of Minos passed into that of Zeus". <span
-id="fr_243"></span>[4](#fn_243)
+id="fr_243"></span>[4](#fn_243.md)
 
 Probably the legend of the birth of Minos was appropriated
 
@@ -802,7 +802,7 @@ name", being nursed by wolves; and of the fabled suckling of the Roman
 twins by a she-wolf. "There is", he says, "some interesting evidence of
 a cumulative nature, which shows that Rome itself was indebted to
 prehistoric Greece for some of the oldest elements in her
-religion." <span id="fr_244"></span>[1](#fn_244) The Indian heroine,
+religion." <span id="fr_244"></span>[1](#fn_244.md) The Indian heroine,
 Shakuntala, was guarded at birth by vultures, as Semiramis was by doves,
 while the eagle protected Gilgamesh and the Persian patriarch
 Akhamanish. In Egypt Horus was nourished and concealed by the
@@ -847,12 +847,12 @@ bull-ring at Knossos. The Minos clan may have invaded and conquered the
 island. Some authorities are inclined to regard Minos as a conqueror.
 Plato says of Atlantis that it was governed by a warrior class which
 lived separately in the more elevated parts, and had "common rooms of
-entertainment". <span id="fr_245"></span>[1](#fn_245)
+entertainment". <span id="fr_245"></span>[1](#fn_245.md)
 
 The same writer goes on to say that after a bull was captured at the
 annual festival, the people gathered round the fire in which it was
 sacrificed, to judge transgressors of the laws inscribed on a certain
-column. <span id="fr_246"></span>[2](#fn_246) The laws were probably
+column. <span id="fr_246"></span>[2](#fn_246.md) The laws were probably
 those which were credited to Minos.
 
 The conclusions which may be drawn from the evidence
@@ -870,7 +870,7 @@ the dead king was his incarnation in the Underworld as the judge of the
 dead. As this deified hero displaced an earlier man-monster, who was the
 son of the mother goddess, and her earthly representative, the legend
 arose that the hero had actually slain him. <span
-id="fr_247"></span>[1](#fn_247) Minos, who hated the Minotaur, may have
+id="fr_247"></span>[1](#fn_247.md) Minos, who hated the Minotaur, may have
 been the original of the legendary Theseus. That is, Theseus may have
 been a real king who released Athens from the sway of the Minoan kings
 and absorbed the Minos-Heracles myth of Crete. The Minos clan came,
@@ -890,130 +890,130 @@ memory which in time was associated with the Lost Atlantis.
 
 ### Footnotes
 
-<span id="fn_202"></span>[165:1](moc13.htm#fr_202) Chapter III.
+<span id="fn_202"></span>[165:1](moc13.htm#fr_202.md) Chapter III.
 
-<span id="fn_203"></span>[166:1](moc13.htm#fr_203) Herodotus, II, 53-5.
+<span id="fn_203"></span>[166:1](moc13.htm#fr_203.md) Herodotus, II, 53-5.
 
-<span id="fn_204"></span>[166:2](moc13.htm#fr_204) That is during the
+<span id="fn_204"></span>[166:2](moc13.htm#fr_204.md) That is during the
 ninth century B.C.
 
-<span id="fn_205"></span>[167:1](moc13.htm#fr_205) *Herodotus*, II, 52.
+<span id="fn_205"></span>[167:1](moc13.htm#fr_205.md) *Herodotus*, II, 52.
 
-<span id="fn_206"></span>[167:2](moc13.htm#fr_206) *Cults of the Greek
+<span id="fn_206"></span>[167:2](moc13.htm#fr_206.md) *Cults of the Greek
 States*, Vol. III. p. 195.
 
-<span id="fn_207"></span>[168:1](moc13.htm#fr_207) *Celtic Religion*,
+<span id="fn_207"></span>[168:1](moc13.htm#fr_207.md) *Celtic Religion*,
 Prof. Anwyl, pp. 41, 48.
 
-<span id="fn_208"></span>[168:2](moc13.htm#fr_208) Rouse's *Greek Votive
+<span id="fn_208"></span>[168:2](moc13.htm#fr_208.md) Rouse's *Greek Votive
 Offerings*, p. 246.
 
-<span id="fn_209"></span>[168:3](moc13.htm#fr_209) *Modern Greek
+<span id="fn_209"></span>[168:3](moc13.htm#fr_209.md) *Modern Greek
 Folk-lore and Ancient Greek Religion*, J. C. Lawson, p. 141.
 
-<span id="fn_210"></span>[169:1](moc13.htm#fr_210) Pindar, Nem. VI, 1,
+<span id="fn_210"></span>[169:1](moc13.htm#fr_210.md) Pindar, Nem. VI, 1,
 quoted by Lawson in *Modern Greek Folk-lore*, p. 65.
 
-<span id="fn_211"></span>[169:2](moc13.htm#fr_211) *Indian Myth and
+<span id="fn_211"></span>[169:2](moc13.htm#fr_211.md) *Indian Myth and
 Legend*, p. 229.
 
-<span id="fn_212"></span>[169:3](moc13.htm#fr_212) *The Burden of Isis*,
+<span id="fn_212"></span>[169:3](moc13.htm#fr_212.md) *The Burden of Isis*,
 Dennis, p. 49. ("Wisdom of the East" Series.)
 
-<span id="fn_213"></span>[170:1](moc13.htm#fr_213) *Herodotus*, I, 131.
+<span id="fn_213"></span>[170:1](moc13.htm#fr_213.md) *Herodotus*, I, 131.
 
-<span id="fn_214"></span>[170:2](moc13.htm#fr_214) *The Thousand Nights
+<span id="fn_214"></span>[170:2](moc13.htm#fr_214.md) *The Thousand Nights
 and a Night*, Vol. X, p. 231 (1886).
 
-<span id="fn_215"></span>[171:1](moc13.htm#fr_215) *Indian Myth and
+<span id="fn_215"></span>[171:1](moc13.htm#fr_215.md) *Indian Myth and
 Legend*, p. 89.
 
-<span id="fn_216"></span>[171:2](moc13.htm#fr_216) *The Syrian Goddess*,
+<span id="fn_216"></span>[171:2](moc13.htm#fr_216.md) *The Syrian Goddess*,
 pp. 17, 18.
 
-<span id="fn_217"></span>[171:3](moc13.htm#fr_217) *Egyptian Myth and
+<span id="fn_217"></span>[171:3](moc13.htm#fr_217.md) *Egyptian Myth and
 Legend*, p. 156.
 
-<span id="fn_218"></span>[173:1](moc13.htm#fr_218) Lawson's *Modern
+<span id="fn_218"></span>[173:1](moc13.htm#fr_218.md) Lawson's *Modern
 Greek Folk-lore*, pp. 173 *et seq*.
 
-<span id="fn_219"></span>[175:1](moc13.htm#fr_219) Mythologische
+<span id="fn_219"></span>[175:1](moc13.htm#fr_219.md) Mythologische
 Forschungen, pp. 292 *et seq*.
 
-<span id="fn_220"></span>[176:1](moc13.htm#fr_220) *Phædo*, 69 c.
+<span id="fn_220"></span>[176:1](moc13.htm#fr_220.md) *Phædo*, 69 c.
 
-<span id="fn_221"></span>[176:2](moc13.htm#fr_221) V, 77.
+<span id="fn_221"></span>[176:2](moc13.htm#fr_221.md) V, 77.
 
-<span id="fn_222"></span>[177:1](moc13.htm#fr_222) *Phædo*, 1-96.
+<span id="fn_222"></span>[177:1](moc13.htm#fr_222.md) *Phædo*, 1-96.
 
-<span id="fn_223"></span>[177:2](moc13.htm#fr_223) *Isis et Osiris*, 35.
+<span id="fn_223"></span>[177:2](moc13.htm#fr_223.md) *Isis et Osiris*, 35.
 
-<span id="fn_224"></span>[177:3](moc13.htm#fr_224) II, 59.
+<span id="fn_224"></span>[177:3](moc13.htm#fr_224.md) II, 59.
 
-<span id="fn_225"></span>[177:4](moc13.htm#fr_225) Serpents.
+<span id="fn_225"></span>[177:4](moc13.htm#fr_225.md) Serpents.
 
-<span id="fn_226"></span>[177:5](moc13.htm#fr_226) Bashudha, the earth
+<span id="fn_226"></span>[177:5](moc13.htm#fr_226.md) Bashudha, the earth
 mother.
 
-<span id="fn_227"></span>[178:1](moc13.htm#fr_227) The *Rámáyana*
+<span id="fn_227"></span>[178:1](moc13.htm#fr_227.md) The *Rámáyana*
 condensed into English verse (Temple Classics, 1898).
 
-<span id="fn_228"></span>[179:1](moc13.htm#fr_228) *Egyptian Myth and
+<span id="fn_228"></span>[179:1](moc13.htm#fr_228.md) *Egyptian Myth and
 Legend*.
 
-<span id="fn_229"></span>[179:2](moc13.htm#fr_229) II, 14.
+<span id="fn_229"></span>[179:2](moc13.htm#fr_229.md) II, 14.
 
-<span id="fn_230"></span>[179:3](moc13.htm#fr_230) VIII, 42.
+<span id="fn_230"></span>[179:3](moc13.htm#fr_230.md) VIII, 42.
 
-<span id="fn_231"></span>[180:1](moc13.htm#fr_231) VIII, 42.
+<span id="fn_231"></span>[180:1](moc13.htm#fr_231.md) VIII, 42.
 
-<span id="fn_232"></span>[180:2](moc13.htm#fr_232) The result,
+<span id="fn_232"></span>[180:2](moc13.htm#fr_232.md) The result,
 apparently, of the local fusion of the old earth-goddess cult and the
 horse cult of invaders.
 
-<span id="fn_233"></span>[181:1](moc13.htm#fr_233) *Golden Bough*
+<span id="fn_233"></span>[181:1](moc13.htm#fr_233.md) *Golden Bough*
 ("Spirits of the Corn and Wild"), Vol. II, pp. 37 *et seq*.
 
-<span id="fn_234"></span>[181:2](moc13.htm#fr_234) The length of the
+<span id="fn_234"></span>[181:2](moc13.htm#fr_234.md) The length of the
 period is differently estimated by various writers.
 
-<span id="fn_235"></span>[181:3](moc13.htm#fr_235) *Cults of the Greek
+<span id="fn_235"></span>[181:3](moc13.htm#fr_235.md) *Cults of the Greek
 States*, Vol. V, pp. i 19 *et seq*.
 
-<span id="fn_236"></span>[182:1](moc13.htm#fr_236) *Cults of the Greek
+<span id="fn_236"></span>[182:1](moc13.htm#fr_236.md) *Cults of the Greek
 States*, Vol. V, pp. 119-24.
 
-<span id="fn_237"></span>[185:1](moc13.htm#fr_237) *The British School
+<span id="fn_237"></span>[185:1](moc13.htm#fr_237.md) *The British School
 at Athens*, Vol. VII, p. 18.
 
-<span id="fn_238"></span>[186:1](moc13.htm#fr_238) *Development of
+<span id="fn_238"></span>[186:1](moc13.htm#fr_238.md) *Development of
 Religion and Thought in Ancient Egypt*, p. 38 (1912).
 
-<span id="fn_239"></span>[186:2](moc13.htm#fr_239) *Cults of the Greek
+<span id="fn_239"></span>[186:2](moc13.htm#fr_239.md) *Cults of the Greek
 States*, Vol. I, pp. 260 *et seq*.
 
-<span id="fn_240"></span>[187:1](moc13.htm#fr_240) VIII, 1.
+<span id="fn_240"></span>[187:1](moc13.htm#fr_240.md) VIII, 1.
 
-<span id="fn_241"></span>[187:2](moc13.htm#fr_241) *Pausanias*, trans.
+<span id="fn_241"></span>[187:2](moc13.htm#fr_241.md) *Pausanias*, trans.
 by A. R. Shilleto, Vol. II, pp. 61-2.
 
-<span id="fn_242"></span>[187:3](moc13.htm#fr_242) *The Critias*,
+<span id="fn_242"></span>[187:3](moc13.htm#fr_242.md) *The Critias*,
 Section VIII.
 
-<span id="fn_243"></span>[187:4](moc13.htm#fr_243) *Journal of Hellenic
+<span id="fn_243"></span>[187:4](moc13.htm#fr_243.md) *Journal of Hellenic
 Studies*, Vol. XXI, p. 121.
 
-<span id="fn_244"></span>[188:1](moc13.htm#fr_244) *Journal of Hellenic
+<span id="fn_244"></span>[188:1](moc13.htm#fr_244.md) *Journal of Hellenic
 Studies*, Vol. XXI, pp. 128, 129.
 
-<span id="fn_245"></span>[189:1](moc13.htm#fr_245) *The Critias*,
+<span id="fn_245"></span>[189:1](moc13.htm#fr_245.md) *The Critias*,
 Section VI,
 
-<span id="fn_246"></span>[189:2](moc13.htm#fr_246) *Ibid*., Section XV.
+<span id="fn_246"></span>[189:2](moc13.htm#fr_246.md) *Ibid*., Section XV.
 
-<span id="fn_247"></span>[190:1](moc13.htm#fr_247) The sacrificial
+<span id="fn_247"></span>[190:1](moc13.htm#fr_247.md) The sacrificial
 slaying of the sacred animal may have also survived in the legend.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Growth of Cretan Culture and Commerce](moc14)
+[Next: Chapter IX. Growth of Cretan Culture and Commerce](moc14.md)

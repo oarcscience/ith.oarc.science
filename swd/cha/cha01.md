@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](cha00)  [Next](cha02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](cha00)  [Next](cha02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785145X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785145X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ charity is to look to the Lord and shun evils because they are sins.
 
 1\. In so far as anyone does not look to the Lord and shun evils because
 they are sins, he remains in them. Man is born into evils of every kind.
-His will, which is his proprium, <span id="fr_0"></span>[2-1](#fn_0) is
+His will, which is his proprium, <span id="fr_0"></span>[2-1](#fn_0.md) is
 nothing but evil. Unless, therefore, a man is reformed and regenerated,
 he not only remains just as he was born, but becomes even worse, because
 he adds actual evils himself to those hereditarily acquired. A man
@@ -98,7 +98,7 @@ sins in himself\] but he who makes them allowable in thought, and, on
 account of the world, not allowable in the body, cannot see them. He is
 like a man turning a mirror upside down to see his face, or like one who
 wants to see his face putting a piece of linen gauze in front of
-it. <span id="fr_1"></span>[5-1](#fn_1)
+it. <span id="fr_1"></span>[5-1](#fn_1.md)
 
 <span class="margnote"><span id="6.">6.</span></span>
 
@@ -139,7 +139,7 @@ the sake of religion, thus for the sake of God, which therefore is from
 a spiritual love or affection, is called a good of charity, or a good
 work. This is not good in so far as it derives \[anything\] from the
 man, but is good in so far as it is from the Lord <span
-id="fr_2"></span>[8-1](#fn_2) through the man. The Lord does good to
+id="fr_2"></span>[8-1](#fn_2.md) through the man. The Lord does good to
 everyone, chiefly through others, but yet so that a man scarcely knows
 otherwise than that it is from himself; and therefore He quite often
 moves the wicked to do good to others, but from an affection of the love
@@ -228,7 +228,7 @@ that not wishing to do evil to the neighbour is of charity.
 <span class="margnote"><span id="16.">16.</span></span>
 
 Concerning this Paul writes thus, "Loving the neighbour is fulfilling
-the law," in two places. <span id="fr_3"></span>[16-1](#fn_3) And
+the law," in two places. <span id="fr_3"></span>[16-1](#fn_3.md) And
 elsewhere from the Word:
 
 <span class="margnote"><span id="17.">17.</span></span>
@@ -287,12 +287,12 @@ to will good and also evil.
 
 Every good that in itself is good proceeds from the interior will. From
 this will, evil is removed by repentance.  <span
-id="fr_4"></span>[21-1](#fn_4)The evil into which a man is born resides
+id="fr_4"></span>[21-1](#fn_4.md)The evil into which a man is born resides
 there also. Unless, therefore, he repents, evil remains in the interior
 will, and the good proceeds from the. exterior will, and so his
 condition is a perverted one. The interior qualifies the exterior, and
 not the exterior the interior. The Lord says : "Cleanse first that which
-is within the cup and platter." <span id="fr_5"></span>[21-2](#fn_5)
+is within the cup and platter." <span id="fr_5"></span>[21-2](#fn_5.md)
 
 <span class="margnote"><span id="22.">22.</span></span>
 
@@ -331,7 +331,7 @@ is palliative curing.
 
 Did not the Lord preach repentance; the disciples also; and John the
 Baptist? Isaiah says that the first thing is to cease from evils, and
-that then one learns to do good. <span id="fr_6"></span>[26-1](#fn_6)
+that then one learns to do good. <span id="fr_6"></span>[26-1](#fn_6.md)
 Nor does one know, before that, what is good, or of what quality good
 is. Evil does not know what is good; whereas good, from knowing what is
 good, knows evil.
@@ -354,7 +354,7 @@ to do Christian good before.
 <span class="margnote"><span id="29.">29.</span></span>
 
 That good follows, is clearly evident from this: A judge says, I do not
-intend to pass judgment from evil, <span id="fr_7"></span>[29-1](#fn_7)
+intend to pass judgment from evil, <span id="fr_7"></span>[29-1](#fn_7.md)
 for various reasons, but justly; and he does good.
 
 <span class="margnote"><span id="30.">30.</span></span>
@@ -507,18 +507,18 @@ with your own?
 quality of the good \[and truth\] with him; or such as a man is, such a
 neighbour is he. The Lord's parable of the man wounded by robbers, where
 it is said that the one who helped him is neighbour, <span
-id="fr_8"></span>[50-1](#fn_8) teaches that not every man is neighbour
+id="fr_8"></span>[50-1](#fn_8.md) teaches that not every man is neighbour
 in the same way as another.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[2-1](cha01.htm#fr_0) The Latin word proprium
+<span id="fn_0"></span>[2-1](cha01.htm#fr_0.md) The Latin word proprium
 means "what is one's own." Swedenborg uses it in a special sense
 involving what is of the self.
 
-<span id="fn_1"></span>[5-1](cha01.htm#fr_1) Note on the left-hand
+<span id="fn_1"></span>[5-1](cha01.htm#fr_1.md) Note on the left-hand
 margin of the original MS.: "Investigation: 1, If only as to actions it
 does not find out much, and this does not suffice; the reason; 2, but if
 as to thoughts and intentions then it finds out more; 3, but if he
@@ -528,23 +528,23 @@ make allowable is of the will; it is effort, and in spirit is a deed;
 and he will do it in the body when obstacles are removed. Machiavellians
 also are such.
 
-<span id="fn_2"></span>[8-1](cha01.htm#fr_2) The Latin original has ex
+<span id="fn_2"></span>[8-1](cha01.htm#fr_2.md) The Latin original has ex
 homine (from the man), but the context demands ex Domino (from the
 Lord).
 
-<span id="fn_3"></span>[16-1](cha01.htm#fr_3) Probably Rom. xiii. 8-10,
+<span id="fn_3"></span>[16-1](cha01.htm#fr_3.md) Probably Rom. xiii. 8-10,
 and Gal. v. 14 were intended.
 
-<span id="fn_4"></span>[21-1](cha01.htm#fr_4) In the margin: "N.B."
+<span id="fn_4"></span>[21-1](cha01.htm#fr_4.md) In the margin: "N.B."
 
-<span id="fn_5"></span>[21-2](cha01.htm#fr_5) Matt. xxiii. 26.
+<span id="fn_5"></span>[21-2](cha01.htm#fr_5.md) Matt. xxiii. 26.
 
-<span id="fn_6"></span>[26-1](cha01.htm#fr_6) Isaiah i. 16, 17.
+<span id="fn_6"></span>[26-1](cha01.htm#fr_6.md) Isaiah i. 16, 17.
 
-<span id="fn_7"></span>[29-1](cha01.htm#fr_7) In the margin: "N.B."
+<span id="fn_7"></span>[29-1](cha01.htm#fr_7.md) In the margin: "N.B."
 
-<span id="fn_8"></span>[50-1](cha01.htm#fr_8) Luke X. 29-37.
+<span id="fn_8"></span>[50-1](cha01.htm#fr_8.md) Luke X. 29-37.
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](cha02)
+[Next: 51-100](cha02.md)

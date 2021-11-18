@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Age of Reason](../index) 
+[Intangible Textual Heritage](../../index)  [Age of Reason](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 # Roger Bacon
 
 [Friar Bacon: His Discovery of the Miracles Of Art, Nature, And
-Magick](miracle)  
+Magick](miracle.md)  
 by Roger Bacon \[1659\].  
 This etext was graciously donated to sacred-texts by Dr. Alan R. Young,
 Ph.D.  

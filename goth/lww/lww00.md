@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Next](lww01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Next](lww01.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,4 +10,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I--Adam Salton Arrives](lww01)
+[Next: Chapter I--Adam Salton Arrives](lww01.md)

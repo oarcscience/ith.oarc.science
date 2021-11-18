@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa02) [Next](rsa04)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa02) [Next](rsa04.md)
 
 ------------------------------------------------------------------------
 
@@ -13,13 +13,13 @@ missionaries among the Kxosa or Frontier Kafirs, was not a word known to
 the natives of these parts, but was introduced by missionaries and
 others. And it is generally supposed that the word does not properly
 belong to the Kxosa or any other of the alliterative dialects spoken in
-South Africa;<span id="page_105_fr_1"></span>[1](#page_105_note_1) but
+South Africa;<span id="page_105_fr_1"></span>[1](#page_105_note_1.md) but
 has been derived from the Hottentots. The word Utikxo has the nearest
 resemblance to the Tikxwoa of the Cape Hottentot dialect.
 
  We cannot doubt that this is the word which Kolb means to express as
 the Hottentot name for God.<span
-id="page_105_fr_2"></span>[2](#page_105_note_2) Having declared his
+id="page_105_fr_2"></span>[2](#page_105_note_2.md) Having declared his
 undoubting conviction that the Hottentots generally "believe in a
 supreme Being, the Creator of heaven and earth, and of every thing in
 them; the arbiter of the world, through whose omnipotence all things
@@ -28,7 +28,7 @@ unsearchable attributes and perfections," he goes on to say:—"The
 Hottentots call him Gounja Gounja or Gounja Ticquoa; that is, the God of
 all gods; and say he is a good man, who does nobody any hurt; and from
 whom none need be apprehensive of any; and that he dwells far above the
-moon."<span id="page_105_fr_3"></span>[3](#page_105_note_3)
+moon."<span id="page_105_fr_3"></span>[3](#page_105_note_3.md)
 
  If the investigations of Moffat, Appleyard, Casalis, and others are
 correct, Kolb very much exaggerated the Hottentot notion respecting God,
@@ -50,7 +50,7 @@ call him Touquoa; and say he is a little, crabbed, inferior captain,
 whose malice against the Hottentots will seldom let him rest; and who
 never did, nor has it in his nature to do, any good to any body. They
 worship him therefore, say they, in order to sweeten him and to avert
-his malice."<span id="page_106_fr_4"></span>[4](#page_106_note_4)
+his malice."<span id="page_106_fr_4"></span>[4](#page_106_note_4.md)
 
  The two words—Ticquoa and Touquoa—here given for a good and evil deity,
 are remarkably alike; and it is not improbable that Kolb mistook two
@@ -64,7 +64,7 @@ confused, and are indiscriminately ascribed to one being.
  Observing that Dr. Bleek speaks of Tikxwoa as being one with "Kolb's
 Tikquoa or touquoa," I supposed he might have more ample reason for
 thinking them identical than I had.<span
-id="page_106_fr_5"></span>[5](#page_106_note_5) His reasons, however,
+id="page_106_fr_5"></span>[5](#page_106_note_5.md) His reasons, however,
 are simply philological. I quote from his letter on the subject:—"By
 identifying this Toukquoa with Tikquoa, the name for God found in the
 vocabulary (where Cham-ouna is that for the devil, who is called in Nama
@@ -86,13 +86,13 @@ the meaning of the word was, "Father who is above."
 justify the surmise that Kolb was mistaken in supposing the two words
 referred to two beings from not observing that he was dealing with a
 merely tribal difference of pronunciation:<span
-id="page_107_fr_6"></span>[6](#page_107_note_6)—"A decisive proof of
+id="page_107_fr_6"></span>[6](#page_107_note_6.md)—"A decisive proof of
 what I here say with respect to the national atheism of the Kafirs, is,
 that they have no word in their language to express the idea of Deity;
 the individuals just mentioned calling him ’Thiko, which is a corruption
 of a name by which God is called in the language of the Hottentots,
 literally signifying one *that induces pain*."<span
-id="page_107_fr_7"></span>[7](#page_107_note_7)
+id="page_107_fr_7"></span>[7](#page_107_note_7.md)
 
  But Moffat is equally decisive that the Hottentots and Namaquas are
 just as ignorant of God, and their language just as devoid of a word for
@@ -110,12 +110,12 @@ Creator and Benefactor, he replied in a way that induced the belief that
 he applied the term to what we should call the devil, or to <span
 id="page_108">p. 108</span> death itself; adding that he thought death,
 or the power causing death, was very sore indeed."<span
-id="page_108_fr_8"></span>[8](#page_108_note_8)
+id="page_108_fr_8"></span>[8](#page_108_note_8.md)
 
  And then he asks:—"May not the Tsui’kuap of these people be like the
 Thlanga of the Kafirs, an ancient hero; or represent some power which
 they superstitiously dread, from its causing death or pain?"<span
-id="page_108_fr_9"></span>[9](#page_108_note_9)
+id="page_108_fr_9"></span>[9](#page_108_note_9.md)
 
  We see, then, that Moffat comes to a conclusion somewhat similar to
 that of Kolb, that there is an evil principle or being, feared by the
@@ -129,16 +129,16 @@ says:—"The tribes had entirely lost the idea of a Creator. All the
 natives whom we have questioned on the subject have assured us that it
 never entered their heads that the earth and sky might be the work of an
 invisible being."<span
-id="page_108_fr_10"></span>[10](#page_108_note_10)
+id="page_108_fr_10"></span>[10](#page_108_note_10.md)
 
  Shaw also says:—"The Kafir nations cannot be said to possess any
-religion."<span id="page_108_fr_11"></span>[11](#page_108_note_11) And
+religion."<span id="page_108_fr_11"></span>[11](#page_108_note_11.md) And
 again:—"Before Missionaries and other Europeans had intercourse with the
 Kafirs, they seem to have had extremely vague and indistinct notions of
 God. The older Kafirs used to speak of Umdali, the Creator or Maker of
 all things, and Uthlanga, which word seems to have been used to denote
 the source or place from which all living things came forth."<span
-id="page_108_fr_12"></span>[12](#page_108_note_12)
+id="page_108_fr_12"></span>[12](#page_108_note_12.md)
 
  A similar statement is made by Arbousset. He says:—"They have scarcely
 retained the idea of a Supreme Being. The more enlightened admit that
@@ -150,7 +150,7 @@ find amongst them some theists. Their atheism, however, does not prevent
 <span id="page_109">p. 109</span> their being extremely superstitious,
 or from rendering a kind of worship to their ancestors, whom they call
 *barimos*, or in the singular *morimo*."<span
-id="page_109_fr_13"></span>[13](#page_109_note_13)
+id="page_109_fr_13"></span>[13](#page_109_note_13.md)
 
  He says of the Mountain Bushmen's faith:—"They say that there is a
 *Kaang* or *Chief* in the sky, called also *Kue-Akeng-teng, the Man*,
@@ -158,24 +158,24 @@ that is to say, the *Master of all things*. According to their
 expression, 'one does not see him with the eyes, but knows him with the
 heart.' He is to be worshipped in times of famine and before going to
 war, and that throughout the whole night, performing the dance of the
-*mokoma*."<span id="page_109_fr_14"></span>[14](#page_109_note_14)
+*mokoma*."<span id="page_109_fr_14"></span>[14](#page_109_note_14.md)
 
  The same notion of malevolence is connected in the native mind among
 the Bechuanas with the word Morimo, which the Missionaries have adopted
 for God. The meaning of Morimo as given by Moffat,<span
-id="page_109_fr_15"></span>[15](#page_109_note_15) and of Molimo as
+id="page_109_fr_15"></span>[15](#page_109_note_15.md) and of Molimo as
 given by Casalis,<span
-id="page_109_fr_16"></span>[16](#page_109_note_16) is, like that given
+id="page_109_fr_16"></span>[16](#page_109_note_16.md) is, like that given
 to the Bushmen's Ikqum’n, "He that is in heaven." But, says Moffat,
 "Morimo, to those who knew any thing about it, had been represented as a
 malevolent *selo* or *thing*."<span
-id="page_109_fr_17"></span>[17](#page_109_note_17) And again, "According
+id="page_109_fr_17"></span>[17](#page_109_note_17.md) And again, "According
 to native testimony Morimo, as well as man, with all the different
 species of animals, came out of a cave or hole in the Bakone
-country."<span id="page_109_fr_18"></span>[18](#page_109_note_18) "There
+country."<span id="page_109_fr_18"></span>[18](#page_109_note_18.md) "There
 is," says Casalis, "an obvious contradiction between the language and
 the received ideas."<span
-id="page_109_fr_19"></span>[19](#page_109_note_19)—That is, I presume,
+id="page_109_fr_19"></span>[19](#page_109_note_19.md)—That is, I presume,
 Casalis supposes that the word Morimo or Molimo,—a heavenly one,—is a
 testimony preserved in the language of the people against their present
 infidelity and corruption of faith. And Archbishop Trench, in his work
@@ -183,7 +183,7 @@ on "The Study of Words," has brought this word forward as a remarkabIe
 instance of the disappearing of an important word from a language, and
 with it "the disappearing as well of the great spiritual fact and truth
 whereof that word was once the vehicle and the guardian."<span
-id="page_109_fr_20"></span>[20](#page_109_note_20)
+id="page_109_fr_20"></span>[20](#page_109_note_20.md)
 
  But Dr. Bleek has made it more than probable that Moffat and Casalis
 are mistaken in the derivation and meaning of this word; and that Molimo
@@ -194,7 +194,7 @@ id="page_110">p. 110</span> least the word for 'God' has a similar
 reference to their ancestor worship as the Zulu *Unkulunkulu*. Thus in
 Se-suto *Mo-limo* means God, and *me-limo* gods, but *mo-limo*,
 ancestral spirits, plur. ba-limo."<span
-id="page_110_fr_21"></span>[21](#page_110_note_21)
+id="page_110_fr_21"></span>[21](#page_110_note_21.md)
 
  This is a far more probable derivation. And when we remember that
 Morimo is supposed to have come out of the same hole that gave origin to
@@ -213,7 +213,7 @@ all things proceeded. Thus they are heard to say in explanation of the
 superiority of the white man to the coloured that the former remained
 longer with a great Itongo than the blacks, and therefore came into
 being more perfect, with better habits and accoutrements.<span
-id="page_110_fr_22"></span>[22](#page_110_note_22)
+id="page_110_fr_22"></span>[22](#page_110_note_22.md)
 
  This view brings the notions of different people of South Africa into a
 certain similarity and consistency. Whilst on the other view they are
@@ -230,10 +230,10 @@ notoriety and skill among the Hottentots or Namaquas, some generations
 back, in consequence of his having received some injury of the knee.
 Having been held in high repute for extraordinary powers during life, he
 continued to be invoked, even after death, as one who could relieve and
-protect;<span id="page_110_fr_23"></span>[23](#page_110_note_23) and
+protect;<span id="page_110_fr_23"></span>[23](#page_110_note_23.md) and
 hence, in process of <span id="page_111">p. 111</span> time, he became
 the nearest in idea to their first conceptions of God."<span
-id="page_111_fr_24"></span>[24](#page_111_note_24)
+id="page_111_fr_24"></span>[24](#page_111_note_24.md)
 
  If this account be correct, and there appears no reason whatever for
 doubting its accuracy, it is clear that the early Missionaries, in using
@@ -248,7 +248,7 @@ spirit, which was worshipped just on the same grounds as the Yezidis
 worship Satan, "because he must be conciliated and reverenced; for as he
 now has the means of doing evil to mankind, so will he hereafter have
 the power of rewarding them."<span
-id="page_111_fr_25"></span>[25](#page_111_note_25) And it appears to me
+id="page_111_fr_25"></span>[25](#page_111_note_25.md) And it appears to me
 to have been unwisely and improperly adopted by the early Missionaries;
 to be explained and excused only on the ground that at first the
 teachers and taught were unable freely to communicate ideas one to the
@@ -264,7 +264,7 @@ pleased, they blamed us for giving Him a high position beyond their
 reach; for they viewed their Morimo as a noxious reptile. 'Would that I
 could catch it, I would transfix it with my spear,' exclaimed S., a
 chief, whose judgment on other subjects would command attention."<span
-id="page_111_fr_26"></span>[26](#page_111_note_26)
+id="page_111_fr_26"></span>[26](#page_111_note_26.md)
 
  At the same time it is quite possible that the confusion of ideas
 between good and evil,—the association of the idea of evil with
@@ -282,7 +282,7 @@ faith in his love.
 
  And may not the legend,—so bizarre and bald,—given by Dr. Bleek in the
 "Hottentot Tales"<span
-id="page_112_fr_27"></span>[27](#page_112_note_27) of a contest between
+id="page_112_fr_27"></span>[27](#page_112_note_27.md) of a contest between
 Heitsi Eibip and Gqagqorip be a confused tradition of some old faith,
 the fundamental principle of which was that of a contest between good
 and evil in nature; but which in process of time has been lost, and the
@@ -307,7 +307,7 @@ Now are we satisfied! Now be our friend, and do not hurt us!'
  "Mbuirri, whose house I next visited, is lodged and kept much as his
 rival. He is a good spirit, but has powers much the same as Abambou, so
 far as I could see. Being less wicked, he is less zealously
-worshipped."<span id="page_112_fr_28"></span>[28](#page_112_note_28)
+worshipped."<span id="page_112_fr_28"></span>[28](#page_112_note_28.md)
 
  This coincides remarkably with Kolb's statement; and leads to a
 reasonable suspicion that his Touquoa,—probably only some local or
@@ -386,7 +386,7 @@ circumstances of the conflict from which he obtained the name:—
 > Gukqa-ba-dele." But it is by no means clear whether the word "gukqa"
 > (kneel) came at precisely the same time as the word Utikxo. We heard
 > from the Amakxosa that Utikxo is the Lord who is above.<span
-> id="page_115_fr_29"></span>[29](#page_115_note_29)
+> id="page_115_fr_29"></span>[29](#page_115_note_29.md)
 >
 >  At first chiefs used to go out with the army, and invade other people
 > with it; but it happened through their shrewdness that the enemy
@@ -423,7 +423,7 @@ him under the impression that they could make an easy prey of him.
 
 ------------------------------------------------------------------------
 
-[Next](rsa04)
+[Next](rsa04.md)
 
 ------------------------------------------------------------------------
 
@@ -431,29 +431,29 @@ him under the impression that they could make an easy prey of him.
 
 <span id="footnotes_page_105">p. 105</span>
 
- <span id="page_105_note_1"></span>[1](#page_105_fr_1) Bleek.
+ <span id="page_105_note_1"></span>[1](#page_105_fr_1.md) Bleek.
 Comparative Grammar, p. 92, sec. 397.—Moffat. Missionary Labours, pp.
 257, 258.—Appleyard. Kafir Grammar, p. 13.
 
- <span id="page_105_note_2"></span>[2](#page_105_fr_2) The Present State
+ <span id="page_105_note_2"></span>[2](#page_105_fr_2.md) The Present State
 of the Cape of Good Hope, &c. Written originally in High German. By
 Peter Kolben, A.M. Done into English from the original, by Mr. Medley.
 Kolb's Work was published in German, Folio, 1729. I quote from the
 translation by Medley, 2 Vols. 8vo., published 1731.
 
- <span id="page_105_note_3"></span>[3](#page_105_fr_3) Id., Vol. I, p.
+ <span id="page_105_note_3"></span>[3](#page_105_fr_3.md) Id., Vol. I, p.
 93.
 
 <span id="footnotes_page_106">p. 106</span>
 
- <span id="page_106_note_4"></span>[4](#page_106_fr_4) Id., p. l04.
+ <span id="page_106_note_4"></span>[4](#page_106_fr_4.md) Id., p. l04.
 
- <span id="page_106_note_5"></span>[5](#page_106_fr_5) Comparative
+ <span id="page_106_note_5"></span>[5](#page_106_fr_5.md) Comparative
 Grammar, p. 92.
 
 <span id="footnotes_page_107">p. 107</span>
 
- <span id="page_107_note_6"></span>[6](#page_107_fr_6) Dr. Bleek gives
+ <span id="page_107_note_6"></span>[6](#page_107_fr_6.md) Dr. Bleek gives
 the fonowing variations of the Hottentot name of God, which, not having
 the requisite characters, I shall spell in accordance with the
 principles laid down in the Preface to Vol. I. of *Zulu Nursery Tales*:—
@@ -467,86 +467,86 @@ near the Cape." (*Comp. Gram.*, p. 92.)
  It will be seen that most of these words differ from each other more
 than the two words of Kolb.
 
- <span id="page_107_note_7"></span>[7](#page_107_fr_7) Moffat. Op. cit.,
+ <span id="page_107_note_7"></span>[7](#page_107_fr_7.md) Moffat. Op. cit.,
 p. 257.
 
 <span id="footnotes_page_108">p. 108</span>
 
- <span id="page_108_note_8"></span>[8](#page_108_fr_8) Moffat. Op. cit.,
+ <span id="page_108_note_8"></span>[8](#page_108_fr_8.md) Moffat. Op. cit.,
 p. 259.
 
- <span id="page_108_note_9"></span>[9](#page_108_fr_9) Id., p. 259.
+ <span id="page_108_note_9"></span>[9](#page_108_fr_9.md) Id., p. 259.
 
- <span id="page_108_note_10"></span>[10](#page_108_fr_10) Casalis. The
+ <span id="page_108_note_10"></span>[10](#page_108_fr_10.md) Casalis. The
 Basutos, p. 238.
 
- <span id="page_108_note_11"></span>[11](#page_108_fr_11) Story of My
+ <span id="page_108_note_11"></span>[11](#page_108_fr_11.md) Story of My
 Mission, p. 444.
 
- <span id="page_108_note_12"></span>[12](#page_108_fr_12) Id., p.
+ <span id="page_108_note_12"></span>[12](#page_108_fr_12.md) Id., p.
 451.—My reasons for thinking that these views require very considerable
 modification are given in another place.
 
 <span id="footnotes_page_109">p. 109</span>
 
- <span id="page_109_note_13"></span>[13](#page_109_fr_13) Op. cit., p.
+ <span id="page_109_note_13"></span>[13](#page_109_fr_13.md) Op. cit., p.
 69.
 
- <span id="page_109_note_14"></span>[14](#page_109_fr_14) Op. cit., p.
+ <span id="page_109_note_14"></span>[14](#page_109_fr_14.md) Op. cit., p.
 363.
 
- <span id="page_109_note_15"></span>[15](#page_109_fr_15) Op. cit., p.
+ <span id="page_109_note_15"></span>[15](#page_109_fr_15.md) Op. cit., p.
 260.
 
- <span id="page_109_note_16"></span>[16](#page_109_fr_16) Op. cit., p.
+ <span id="page_109_note_16"></span>[16](#page_109_fr_16.md) Op. cit., p.
 248.
 
- <span id="page_109_note_17"></span>[17](#page_109_fr_17) Op. cit., p.
+ <span id="page_109_note_17"></span>[17](#page_109_fr_17.md) Op. cit., p.
 261.
 
- <span id="page_109_note_18"></span>[18](#page_109_fr_18) Id., p. 262.
+ <span id="page_109_note_18"></span>[18](#page_109_fr_18.md) Id., p. 262.
 
- <span id="page_109_note_19"></span>[19](#page_109_fr_19) Op. cit., p.
+ <span id="page_109_note_19"></span>[19](#page_109_fr_19.md) Op. cit., p.
 248.
 
- <span id="page_109_note_20"></span>[20](#page_109_fr_20) P. 18.
+ <span id="page_109_note_20"></span>[20](#page_109_fr_20.md) P. 18.
 
 <span id="footnotes_page_110">p. 110</span>
 
- <span id="page_110_note_21"></span>[21](#page_110_fr_21) Op. cit., p.
+ <span id="page_110_note_21"></span>[21](#page_110_fr_21.md) Op. cit., p.
 91.
 
- <span id="page_110_note_22"></span>[22](#page_110_fr_22) See [p.
-80](rsa01.htm#page_80).
+ <span id="page_110_note_22"></span>[22](#page_110_fr_22.md) See [p.
+80](rsa01.htm#page_80.md).
 
- <span id="page_110_note_23"></span>[23](#page_110_fr_23) That is,
+ <span id="page_110_note_23"></span>[23](#page_110_fr_23.md) That is,
 strictly in accordance with the custom of an ancestor-worshipping
 people.
 
 <span id="footnotes_page_111">p. 111</span>
 
- <span id="page_111_note_24"></span>[24](#page_111_fr_24) Grammar, p.
+ <span id="page_111_note_24"></span>[24](#page_111_fr_24.md) Grammar, p.
 13.
 
- <span id="page_111_note_25"></span>[25](#page_111_fr_25) Layard's
+ <span id="page_111_note_25"></span>[25](#page_111_fr_25.md) Layard's
 Nineveh. Vol I., p. 298.
 
- <span id="page_111_note_26"></span>[26](#page_111_fr_26) Op. cit., p.
+ <span id="page_111_note_26"></span>[26](#page_111_fr_26.md) Op. cit., p.
 265.
 
 <span id="footnotes_page_112">p. 112</span>
 
- <span id="page_112_note_27"></span>[27](#page_112_fr_27) P. 77.
+ <span id="page_112_note_27"></span>[27](#page_112_fr_27.md) P. 77.
 
- <span id="page_112_note_28"></span>[28](#page_112_fr_28) Op. cit., pp.
+ <span id="page_112_note_28"></span>[28](#page_112_fr_28.md) Op. cit., pp.
 202, 203.
 
 <span id="footnotes_page_115">p. 115</span>
 
- <span id="page_115_note_29"></span>[29](#page_115_fr_29) Compare the
+ <span id="page_115_note_29"></span>[29](#page_115_fr_29.md) Compare the
 Bushman word, which is said to have a similar meaning, [p.
-64](rsa01.htm#page_64); and the dispute between the two Kxosa natives as
-to the use of Utikxo and Unkulunkulu, [p. 68](rsa01.htm#page_68).
+64](rsa01.htm#page_64.md); and the dispute between the two Kxosa natives as
+to the use of Utikxo and Unkulunkulu, [p. 68](rsa01.htm#page_68.md).
 
  
 

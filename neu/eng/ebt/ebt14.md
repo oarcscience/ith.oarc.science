@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt13)  [Next](ebt15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt13)  [Next](ebt15.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ constructed as to indicate its direction.
 <span id="page_18">p. 18</span>
 
 The Four Stones near Harpton, New Radnor, are four upright boulders (see
-[Frontispiece](ebt00.htm#img_front)) in an irregular quadrangle, and no
+[Frontispiece](ebt00.htm#img_front).md) in an irregular quadrangle, and no
 one has explained their purpose.
 
 I took sighting lines over successive pairs of stones, five lines being
@@ -54,18 +54,18 @@ give the clue to the hitherto unknown purpose of many important ancient
 stone monuments.
 
 It is probable that the flat face of a mark stone, as in Wergin's Stone
-([Plate X](ebt19.htm#img_pl10).), pointed out a ley. There is a Dial
+([Plate X](ebt19.htm#img_pl10)..md), pointed out a ley. There is a Dial
 Post near Tewkesbury which, with the Dial Carreg near Cwm-yoy, seems to
 denote the above purpose, and the last stone is an upright shaft of
 rectilinear shape like the supposed cross at Capel-y-fin ([Plate
-X](ebt19.htm#img_pl10).).
+X](ebt19.htm#img_pl10)..md).
 
  
 
 <span id="img_pl07"></span>
 
 [![PLATE VII. CAUSEWAYS.](tn/pl07.jpg)  
-Click to enlarge](img/pl07.jpg)  
+Click to enlarge](img/pl07.jpg.md)  
 PLATE VII. CAUSEWAYS.  
 
 <table>
@@ -83,7 +83,7 @@ PLATE VII. CAUSEWAYS.
 <span id="img_pl08"></span>
 
 [![PLATE VIII. LEYS DISPLAYED.](tn/pl08.jpg)  
-Click to enlarge](img/pl08.jpg)  
+Click to enlarge](img/pl08.jpg.md)  
 PLATE VIII. LEYS DISPLAYED.  
 
 <table>
@@ -102,4 +102,4 @@ PLATE VIII. LEYS DISPLAYED.
 
 ------------------------------------------------------------------------
 
-[Next: Trees](ebt15)
+[Next: Trees](ebt15.md)

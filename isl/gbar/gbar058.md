@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar057) [Next](gbar059)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar057) [Next](gbar059.md)
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ gospel.
 
 ------------------------------------------------------------------------
 
-[Next](gbar059)
+[Next](gbar059.md)

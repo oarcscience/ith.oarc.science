@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index) 
-[Siberian](../../../asia/index.htm#siberia)  [Index](index) 
-[Previous](eos16)  [Next](eos18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index.md) 
+[Siberian](../../../asia/index.htm#siberia)  [Index](index.md) 
+[Previous](eos16)  [Next](eos18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eskimo of Siberia*, by Waldemar Bogoras, \[1913\], at Intangible
 Textual Heritage
 
@@ -32,7 +32,7 @@ down dead.
 
    A´bla was very angry. He went to a solitary place and lived there.
 After a while there came to the island a man from the village
-A´vak, <span id="fr_10"></span>[1](#fn_10) in two large boats, and with
+A´vak, <span id="fr_10"></span>[1](#fn_10.md) in two large boats, and with
 his whole family. They brought reindeer-skins for sale. They went to the
 village Kuku´lik to gather wood, and one of the boys was lost. His
 father, who was a shaman, could not find him. The people said, "Go to
@@ -63,7 +63,7 @@ stranded whale." — "I do not know. He bids you come." They went, and saw
 their lost boy. Then the father, full of joy, filled a large boat with
 skins and new clothes, with beads, and with everything they had brought
 for sale, and gave it to the shaman. He took one skin, one fur shirt,
-and one long head necklace. <span id="fr_11"></span>[1](#fn_11)
+and one long head necklace. <span id="fr_11"></span>[1](#fn_11.md)
 Everything else he gave back. Thus they lived.
 
 Told by Acu´naṛak, an Asiatic Eskimo man; on St. Lawrence Island, May,
@@ -73,7 +73,7 @@ Told by Acu´naṛak, an Asiatic Eskimo man; on St. Lawrence Island, May,
 
 ### Footnotes
 
-<span id="fn_10"></span>[435:1](eos17.htm#fr_10) The shaman A´bla was
+<span id="fn_10"></span>[435:1](eos17.htm#fr_10.md) The shaman A´bla was
 one of the forerathers of Acu´naṛak, and the latter assured me that the
 necklace in question is still kept in his family. He said that it is in
 the possession of his uncle, who at that time was absent. He also made
@@ -81,8 +81,8 @@ two toy-hatchets or sea-shells in the shape or the shell hatchets or the
 shaman. These toy-hatchets are in the collections of the American Museum
 of Natural History.
 
-<span id="fn_11"></span>[436:1](eos17.htm#fr_11) On the Asiatic shore.
+<span id="fn_11"></span>[436:1](eos17.htm#fr_11.md) On the Asiatic shore.
 
 ------------------------------------------------------------------------
 
-[Next: II. — SONGS.](eos18)
+[Next: II. — SONGS.](eos18.md)

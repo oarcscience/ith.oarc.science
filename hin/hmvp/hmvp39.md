@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp38)  [Next](hmvp40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp38)  [Next](hmvp40.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ a mental son named Pulastya, who again had a mental son named Gaviputra
 Vaisravana (Kuvera). The latter deserted his father, and went to Brahmā,
 who as a reward made him immortal, and appointed him to be the god of
 riches, with Lanka for his capital, and the car Pushpaka for his
-vehicle. <span id="fr_352"></span>[\*](#fn_352) This car was of immense
+vehicle. <span id="fr_352"></span>[\*](#fn_352.md) This car was of immense
 size, and moved at its owner's will at a marvellous speed; Rāvana took
 it by force from Kuvera, at whose death it was restored by Rāma to its
 original possessor.
@@ -52,9 +52,9 @@ as king, and begun to exercise his power tyrannically, the Rishis resort
 to Brahmā, who promises that, as Rāvana could not be killed by gods or
 asuras, the four-armed Vishnu, the chief of warriors, should by his
 (Brahmā's) appointment descend to earth for his destruction." <span
-id="fr_353"></span>[\*](#fn_353)
+id="fr_353"></span>[\*](#fn_353.md)
 
-The Rāmāyana (Uttara Kānda) <span id="fr_354"></span>[†](#fn_354) makes
+The Rāmāyana (Uttara Kānda) <span id="fr_354"></span>[†](#fn_354.md) makes
 Kuvera the grandson, not the son, of Pulastya. In the Krita Yuga the
 pious Pulastya, being teased with the singing and dancing of different
 damsels, proclaimed that any one of them whom he saw near his hermitage
@@ -97,7 +97,7 @@ these are commonly said to be four in number. Rāma mentions their names:
  And Varuna's arm the West defend;  
  And let Kuvera, Lord of Gold,  
  The North with firm protection hold." <span
-id="fr_355"></span>[\*](#fn_355)</span>
+id="fr_355"></span>[\*](#fn_355.md)</span>
 
 </div>
 
@@ -124,7 +124,7 @@ reception, said—
  Which far in Northern Kuru lies;  
  For leaves let cloth and gems entwine,  
  And let its fruit be nymphs divine." <span
-id="fr_356"></span>[\*](#fn_356)</span>
+id="fr_356"></span>[\*](#fn_356.md)</span>
 
 </div>
 
@@ -136,7 +136,7 @@ words 'best,' 'worst,' and 'intermediate,' nor any change resulting from
 the succession of the four Yugas. There is neither grief, weariness,
 anxiety, hunger, nor fear. The people live in perfect health, free from
 every suffering, for ten or twelve thousand years." <span
-id="fr_357"></span>[†](#fn_357) As Sugriva was sending forth his armies
+id="fr_357"></span>[†](#fn_357.md) As Sugriva was sending forth his armies
 to search for Sita, he thus speaks of this garden to Satabal, the leader
 of the army of the North—
 
@@ -161,12 +161,12 @@ continues\]</span>  There stands a palace decked with gold,
  There lotuses adorn the flood  
  With full-blown flower and opening bud,  
  Where swans and mallards float, and gay  
- Apsarasas <span id="fr_358"></span>[\*](#fn_358) come down to play.  
+ Apsarasas <span id="fr_358"></span>[\*](#fn_358.md) come down to play.  
  There King Vaisravan's self, the lord  
  By all the universe adored,  
  Who golden gifts to mortals sends,  
- Lives with the Guhyakas, <span id="fr_359"></span>[†](#fn_359) his
-friends." <span id="fr_360"></span>[‡](#fn_360)</span>
+ Lives with the Guhyakas, <span id="fr_359"></span>[†](#fn_359.md) his
+friends." <span id="fr_360"></span>[‡](#fn_360.md)</span>
 
 </div>
 
@@ -183,7 +183,7 @@ only relief Kuvera would give him was—
  Destroys thee, and the fight is won,  
  Thy proper shape once more assume,  
  And heaven again shall give thee room." <span
-id="fr_361"></span>[§](#fn_361)</span>
+id="fr_361"></span>[§](#fn_361.md)</span>
 
 </div>
 
@@ -210,33 +210,33 @@ effects of his curse.
 
 ### Footnotes
 
-<span id="fn_352"></span>[388:\*](hmvp39.htm#fr_352) "Mahābhārata:
+<span id="fn_352"></span>[388:\*](hmvp39.htm#fr_352.md) "Mahābhārata:
 "Muir, O. S. T., iv. 481.
 
-<span id="fn_353"></span>[389:\*](hmvp39.htm#fr_353) Muir, O. S. T., v.
+<span id="fn_353"></span>[389:\*](hmvp39.htm#fr_353.md) Muir, O. S. T., v.
 483.
 
-<span id="fn_354"></span>[389:†](hmvp39.htm#fr_354) Ibid., iv. 488.
+<span id="fn_354"></span>[389:†](hmvp39.htm#fr_354.md) Ibid., iv. 488.
 
-<span id="fn_355"></span>[390:\*](hmvp39.htm#fr_355) Griffiths's
+<span id="fn_355"></span>[390:\*](hmvp39.htm#fr_355.md) Griffiths's
 "Rāmāyana," ii. 20.
 
-<span id="fn_356"></span>[391:\*](hmvp39.htm#fr_356) Griffiths's
+<span id="fn_356"></span>[391:\*](hmvp39.htm#fr_356.md) Griffiths's
 "Rāmāyana," ii. 358.
 
-<span id="fn_357"></span>[391:†](hmvp39.htm#fr_357) "Bhāgavata Purāna:"
+<span id="fn_357"></span>[391:†](hmvp39.htm#fr_357.md) "Bhāgavata Purāna:"
 Muir, O. S. T., i. 492.
 
-<span id="fn_358"></span>[392:\*](hmvp39.htm#fr_358) Nymphs of Paradise.
+<span id="fn_358"></span>[392:\*](hmvp39.htm#fr_358.md) Nymphs of Paradise.
 
-<span id="fn_359"></span>[392:†](hmvp39.htm#fr_359) Guardians of
+<span id="fn_359"></span>[392:†](hmvp39.htm#fr_359.md) Guardians of
 treasures.
 
-<span id="fn_360"></span>[392:‡](hmvp39.htm#fr_360) Griffiths's "
+<span id="fn_360"></span>[392:‡](hmvp39.htm#fr_360.md) Griffiths's "
 Rāmāyana," iv. 24.
 
-<span id="fn_361"></span>[392:§](hmvp39.htm#fr_361) Ibid., iii. 14.
+<span id="fn_361"></span>[392:§](hmvp39.htm#fr_361.md) Ibid., iii. 14.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Demigods of the Rāmāyana](hmvp40)
+[Next: Chapter III. The Demigods of the Rāmāyana](hmvp40.md)

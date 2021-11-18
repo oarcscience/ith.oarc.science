@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](kyog07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](kyog07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Karma-Yoga*, by Swami Vivekananda, \[1921\], at Intangible Textual
 Heritage
 
@@ -57,7 +57,7 @@ it; so he worships God. The thief is oppressed with the idea that he
 does not possess certain things, and he tries to get rid of that want,
 to obtain freedom from it; so he steals. Freedom is the one goal of all
 nature, sentient or insentient; and, consciously or
-[unconsciously](errata.htm#4), everything is struggling towards that
+[unconsciously](errata.htm#4.md), everything is struggling towards that
 goal. The freedom which the saint seeks is very different from that
 which the robber seeks; the freedom loved by the saint leads him to the
 enjoyment of infinite, unspeakable bliss, while that on which the robber

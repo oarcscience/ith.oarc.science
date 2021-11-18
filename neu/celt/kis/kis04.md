@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis03)  [Next](kis05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis03)  [Next](kis05.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ Back-Lands came out of the house.
 
 ------------------------------------------------------------------------
 
-[Next: Part V](kis05)
+[Next: Part V](kis05.md)

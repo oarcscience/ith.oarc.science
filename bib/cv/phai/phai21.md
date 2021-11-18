@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai20) 
-[Next](phai22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai20.md) 
+[Next](phai22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -178,7 +178,7 @@ with silver coverings and your molten images overlaid with gold," he
 says (xxx. 22); and the inference is that he contemplated the
 purification of the high places from superstitious excesses, but by no
 means their abolition. To this one object <span
-id="fr_261"></span>[1](#fn_261)
+id="fr_261"></span>[1](#fn_261.md)
 
 <span id="page_481">p. 481</span>
 
@@ -327,7 +327,7 @@ words themselves to every unprejudiced reader.
 
 ### Footnotes
 
-<span id="fn_261"></span>[480:1](phai21.htm#fr_261) That is, to the
+<span id="fn_261"></span>[480:1](phai21.htm#fr_261.md) That is, to the
 abolition of the images. Jeremiah's polemic is directed no longer
 against the images, but against wood and stone, *i.e.*, Asheras and
 pillars. The date of the reformation under Hezekiah is uncertain;
@@ -336,4 +336,4 @@ Jerusalem.
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Prophetic Reformation.](phai22)
+[Next: 8. The Prophetic Reformation.](phai22.md)

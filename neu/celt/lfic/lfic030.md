@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic029)  [Next](lfic031) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic029)  [Next](lfic031.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ the outlay.
 
 ------------------------------------------------------------------------
 
-[Next: The Kildare Lurikeen](lfic031)
+[Next: The Kildare Lurikeen](lfic031.md)

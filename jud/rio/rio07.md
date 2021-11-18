@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rio06)  [Next](rio08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rio06)  [Next](rio08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 
 <span id="page_113">p. 113</span>
 
-<span id="img_bord00"></span> ![decorative border](img/bord00.jpg)
+<span id="img_bord00"></span> ![decorative border](img/bord00.jpg.md)
 
 ### V
 
@@ -25,11 +25,11 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 "Pilate therefore said unto him, Art thou a king then? Jesus answered,
 Thou sayest it, because I am a king. To this end have I been born, and
 to this end am I come into the world."—[*St. John* xviii,
-37](../../bib/kjv/joh018.htm#037).
+37](../../bib/kjv/joh018.htm#037.md).
 
 "He shall bring forth justice unto truth. He shall not become fatigued
 and not be faint, till he have established justice on the
-earth."—[*Isaiah* xlii 2, 3](../../bib/kjv/isa042.htm#002).
+earth."—[*Isaiah* xlii 2, 3](../../bib/kjv/isa042.htm#002.md).
 
 THE sun is fast coursing toward the west. The day is waning. The Passion
 Play is nearing its end. The<span class="margnote">The Passion Play
@@ -492,7 +492,7 @@ laws of nature, the most considerate statement that I can make is that
 it is more likely that the visions were untrue than that these teachings
 of science are false. When we are told of the dead arising from their
 graves, walking about, and talking in the flesh and blood; when we are
-told of the earth quaking, the sun [eclipsed](errata.htm#0), the
+told of the earth quaking, the sun [eclipsed](errata.htm#0.md), the
 Temple-veil rended, as signs of God's wrath at the slaughter of His Son,
 yet the doctrine teaching that for this very slaughter had the Son been
 sent on earth by the Father; when we are told of an angel descending to
@@ -557,4 +557,4 @@ justice to the Jew.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Summary](rio08)
+[Next: VI. The Summary](rio08.md)

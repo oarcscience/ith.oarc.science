@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb04)  [Next](wfb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb04)  [Next](wfb06.md) 
 
 ------------------------------------------------------------------------
 
@@ -209,4 +209,4 @@ when lo! the weeping figure crumbled into thin dust.
 
 ------------------------------------------------------------------------
 
-[Next: The Drowning of the Bottom Hundred](wfb06)
+[Next: The Drowning of the Bottom Hundred](wfb06.md)

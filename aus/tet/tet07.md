@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet06)  [Next](tet08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet06)  [Next](tet08.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,4 +227,4 @@ invariably small and well shaped, having tapering fingers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Our Witch Woman](tet08)
+[Next: Chapter VI. Our Witch Woman](tet08.md)

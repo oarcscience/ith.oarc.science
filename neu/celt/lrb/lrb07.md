@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb06)  [Next](lrb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb06)  [Next](lrb08.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,7 +115,7 @@ calculation, the key to which is to be found in the Tower of London,
 will alone indicate the spot where the treasure lies. And here it may be
 of interest to state that the ancient national fortalice of England
 occurs frequently in Breton and in Celtic romance. <span
-id="fr_36"></span>[1](#fn_36) Some of the immigrant Britons into
+id="fr_36"></span>[1](#fn_36.md) Some of the immigrant Britons into
 Armorica probably came from the settlement which was later to grow into
 London, and may have carried tales of its ancient British fortress into
 their new home. The courils are peculiar to the ruins of Tresmalouen.
@@ -199,9 +199,9 @@ wagon of the Ankou passes on. The Ankou herself--for the dread
 death-spirit of Brittany is probably female--is usually represented as a
 skeleton. M. Anatole le Braz has elaborated a study of the whole
 question in his book on the legend of death in Brittany, <span
-id="fr_37"></span>[1](#fn_37) and it is probable that the Ankou is a
+id="fr_37"></span>[1](#fn_37.md) and it is probable that the Ankou is a
 survival of the death-goddess of the prehistoric dolmen-builders of
-Brittany. MacCulloch <span id="fr_38"></span>[2](#fn_38) considers the
+Brittany. MacCulloch <span id="fr_38"></span>[2](#fn_38.md) considers the
 Ankou to be a reminiscence of the Celtic god of death, who watches over
 all things beyond the grave and carries off the dead to his kingdom, but
 greatly influenced by medieval ideas of 'Death the skeleton.' In some
@@ -229,7 +229,7 @@ traverse up to a
 <span id="img_10200"></span>
 
 [![THE DEMON-DOG](tn/10200.jpg)  
-Click to enlarge](img/10200.jpg)  
+Click to enlarge](img/10200.jpg.md)  
 THE DEMON-DOG  
 
  
@@ -327,15 +327,15 @@ they had left the awful vicinity of the Yeun behind them.
 
 ### Footnotes
 
-<span id="fn_36"></span>[99:1](lrb07.htm#fr_36) See Nutt, *Celtic and
+<span id="fn_36"></span>[99:1](lrb07.htm#fr_36.md) See Nutt, *Celtic and
 Mediæval Romance*.
 
-<span id="fn_37"></span>[102:1](lrb07.htm#fr_37) *La Legende de la
+<span id="fn_37"></span>[102:1](lrb07.htm#fr_37.md) *La Legende de la
 Mort*.
 
-<span id="fn_38"></span>[102:2](lrb07.htm#fr_38) *Religion of the
+<span id="fn_38"></span>[102:2](lrb07.htm#fr_38.md) *Religion of the
 Ancient Celts*, p. 345.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: World-Tales in Brittany](lrb08)
+[Next: Chapter V: World-Tales in Brittany](lrb08.md)

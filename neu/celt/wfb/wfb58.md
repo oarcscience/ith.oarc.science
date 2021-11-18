@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb57)  [Next](wfb59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb57)  [Next](wfb59.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ did envy burn itself.
 
 ------------------------------------------------------------------------
 
-[Next: The Bride from the Red Lake](wfb59)
+[Next: The Bride from the Red Lake](wfb59.md)

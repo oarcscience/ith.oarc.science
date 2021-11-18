@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav04)  [Next](vav06) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav04)  [Next](vav06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1021,4 +1021,4 @@ began to tell another true story.
 ------------------------------------------------------------------------
 
 [Next: The Vampire's Second Story. Of the Relative Villany of Men and
-Women.](vav06)
+Women.](vav06.md)

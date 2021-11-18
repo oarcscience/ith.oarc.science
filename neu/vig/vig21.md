@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig20)  [Next](vig22) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig20)  [Next](vig22.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ is made;" and when Vigfuss and Bárd met nothing passed between them.
         The next summer there was a meeting appointed for a horse-fight,
 in which all the horses in that district were to be fought; those from
 the upper against those from the lower "rape,"  <span
-id="fr_16"></span>[1](#fn_16) and either party were to select their man
+id="fr_16"></span>[1](#fn_16.md) and either party were to select their man
 as umpire to decide which had the best of it. The judgment of the men
 thus chosen was to be abided by. From the upper "rape" Bárd was taken,
 and from the lower Vigfuss, the son of Glum. There were many horses, and
@@ -86,10 +86,10 @@ his home.
 
 ### Footnotes
 
-<span id="fn_16"></span>[1](vig21.htm#fr_16) The Icelandic word is
+<span id="fn_16"></span>[1](vig21.htm#fr_16.md) The Icelandic word is
 *Hreppr*--and I have translated it by the word still retained in "The
 Rape of Bramber."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX](vig22)
+[Next: Chapter XIX](vig22.md)

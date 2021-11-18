@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq28)  [Next](sfq30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq28)  [Next](sfq30.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ dust.
 
 ------------------------------------------------------------------------
 
-[Next: The Anger of Fire](sfq30)
+[Next: The Anger of Fire](sfq30.md)

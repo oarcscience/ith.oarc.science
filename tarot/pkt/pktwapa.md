@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktwakn)  [Next](pktwa10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktwakn)  [Next](pktwa10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Page
 
 <span id="img_wapa"></span> <span align="CENTER"> [![](tn/wapa.jpg)  
-Click to enlarge](img/wapa.jpg)</span>
+Click to enlarge](img/wapa.jpg.md)</span>
 
 In a scene similar to the former, a young man stands in the act of
 proclamation. He is unknown but faithful, and his tidings are strange.
@@ -33,4 +33,4 @@ which accompanies it.
 
 ------------------------------------------------------------------------
 
-[Next: Ten of Wands](pktwa10)
+[Next: Ten of Wands](pktwa10.md)

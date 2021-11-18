@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac62)  [Next](ybac64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac62)  [Next](ybac64.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Gates, \[1937\], at Intangible Textual Heritage
 
 [![Yucatan in 1579 Showing the Pre-Spanish Maya Chiefdoms (p. 136 and
 137)](tn/map2.jpg)  
-Click to enlarge](img/map2.jpg)  
+Click to enlarge](img/map2.jpg.md)  
 Yucatan in 1579 Showing the Pre-Spanish Maya Chiefdoms (p. 136 and
 137)  
 
@@ -47,4 +47,4 @@ historical Maya or Itzá research.
 
 ------------------------------------------------------------------------
 
-[Next: Yucatan in 1549 and 1579](ybac64)
+[Next: Yucatan in 1549 and 1579](ybac64.md)

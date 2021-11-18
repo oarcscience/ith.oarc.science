@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo16)  [Next](sdo18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo16)  [Next](sdo18.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ south.
 
 ------------------------------------------------------------------------
 
-[Next: Sacred Lodge Erected](sdo18)
+[Next: Sacred Lodge Erected](sdo18.md)

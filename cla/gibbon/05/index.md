@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Gibbon](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Gibbon](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEIECA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEIECA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,13 +27,13 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEIECA/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](daf05000)
+[Contents](#contents)    [Start Reading](daf05000.md)
 
 ------------------------------------------------------------------------
 
-[Volume 1](../01/index) \|  [Volume 2](../02/index) \|  [Volume
-3](../03/index) \|  [Volume 4](../04/index) \|  **Volume 5** \|  [Volume
-6](../06/index)
+[Volume 1](../01/index) \|  [Volume 2](../02/index.md) \|  [Volume
+3](../03/index) \|  [Volume 4](../04/index.md) \|  **Volume 5** \|  [Volume
+6](../06/index.md)
 
 ------------------------------------------------------------------------
 
@@ -43,71 +43,71 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEIECA/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](daf05000)  
-[Chapter XLIX: Conquest Of Italy By The Franks. Part I.](daf05001)  
-[Chapter XLIX: Conquest Of Italy By The Franks. Part II.](daf05002)  
-[Chapter XLIX: Conquest Of Italy By The Franks. Part III.](daf05003)  
-[Chapter XLIX: Conquest Of Italy By The Franks. Part IV.](daf05004)  
-[Chapter XLIX: Conquest Of Italy By The Franks. Part V.](daf05005)  
-[Chapter XLIX: Conquest Of Italy By The Franks. Part VI.](daf05006)  
+<span id="contents"></span> [Title Page](daf05000.md)  
+[Chapter XLIX: Conquest Of Italy By The Franks. Part I.](daf05001.md)  
+[Chapter XLIX: Conquest Of Italy By The Franks. Part II.](daf05002.md)  
+[Chapter XLIX: Conquest Of Italy By The Franks. Part III.](daf05003.md)  
+[Chapter XLIX: Conquest Of Italy By The Franks. Part IV.](daf05004.md)  
+[Chapter XLIX: Conquest Of Italy By The Franks. Part V.](daf05005.md)  
+[Chapter XLIX: Conquest Of Italy By The Franks. Part VI.](daf05006.md)  
 [Chapter L: Description Of Arabia And Its Inhabitants. Part
-I.](daf05007)  
+I.](daf05007.md)  
 [Chapter L: Description Of Arabia And Its Inhabitants. Part
-II.](daf05008)  
+II.](daf05008.md)  
 [Chapter L: Description Of Arabia And Its Inhabitants. Part
-III.](daf05009)  
+III.](daf05009.md)  
 [Chapter L: Description Of Arabia And Its Inhabitants. Part
-IV.](daf05010)  
+IV.](daf05010.md)  
 [Chapter L: Description Of Arabia And Its Inhabitants. Part
-V.](daf05011)  
+V.](daf05011.md)  
 [Chapter L: Description Of Arabia And Its Inhabitants. Part
-VI.](daf05012)  
+VI.](daf05012.md)  
 [Chapter L: Description Of Arabia And Its Inhabitants. Part
-VII.](daf05013)  
+VII.](daf05013.md)  
 [Chapter L: Description Of Arabia And Its Inhabitants. Part
-VIII.](daf05014)  
-[Chapter LI: Conquests By The Arabs. Part I.](daf05015)  
-[Chapter LI: Conquests By The Arabs. Part II.](daf05016)  
-[Chapter LI: Conquests By The Arabs. Part IV.](daf05017)  
-[Chapter LI: Conquests By The Arabs. Part V.](daf05018)  
-[Chapter LI: Conquests By The Arabs. Part VI.](daf05019)  
-[Chapter LI: Conquests By The Arabs. Part VII.](daf05020)  
-[Chapter LI: Conquests By The Arabs. Part VII.](daf05021)  
-[Chapter LI: Conquests By The Arabs. Part IX.](daf05022)  
-[Chapter LII: More Conquests By The Arabs. Part I.](daf05023)  
-[Chapter LII: More Conquests By The Arabs. Part II.](daf05024)  
-[Chapter LII: More Conquests By The Arabs. Part III.](daf05025)  
-[Chapter LII: More Conquests By The Arabs. Part IV.](daf05026)  
-[Chapter LII: More Conquests By The Arabs. Part V.](daf05027)  
-[Chapter LIII: Fate Of The Eastern Empire. Part I.](daf05028)  
-[Chapter LIII: Fate Of The Eastern Empire. Part II.](daf05029)  
-[Chapter LIII: Fate Of The Eastern Empire. Part III.](daf05030)  
-[Chapter LIII: Fate Of The Eastern Empire. Part IV.](daf05031)  
+VIII.](daf05014.md)  
+[Chapter LI: Conquests By The Arabs. Part I.](daf05015.md)  
+[Chapter LI: Conquests By The Arabs. Part II.](daf05016.md)  
+[Chapter LI: Conquests By The Arabs. Part IV.](daf05017.md)  
+[Chapter LI: Conquests By The Arabs. Part V.](daf05018.md)  
+[Chapter LI: Conquests By The Arabs. Part VI.](daf05019.md)  
+[Chapter LI: Conquests By The Arabs. Part VII.](daf05020.md)  
+[Chapter LI: Conquests By The Arabs. Part VII.](daf05021.md)  
+[Chapter LI: Conquests By The Arabs. Part IX.](daf05022.md)  
+[Chapter LII: More Conquests By The Arabs. Part I.](daf05023.md)  
+[Chapter LII: More Conquests By The Arabs. Part II.](daf05024.md)  
+[Chapter LII: More Conquests By The Arabs. Part III.](daf05025.md)  
+[Chapter LII: More Conquests By The Arabs. Part IV.](daf05026.md)  
+[Chapter LII: More Conquests By The Arabs. Part V.](daf05027.md)  
+[Chapter LIII: Fate Of The Eastern Empire. Part I.](daf05028.md)  
+[Chapter LIII: Fate Of The Eastern Empire. Part II.](daf05029.md)  
+[Chapter LIII: Fate Of The Eastern Empire. Part III.](daf05030.md)  
+[Chapter LIII: Fate Of The Eastern Empire. Part IV.](daf05031.md)  
 [Chapter LIV: Origin And Doctrine Of The Paulicians. Part
-I.](daf05032)  
+I.](daf05032.md)  
 [Chapter LIV: Origin And Doctrine Of The Paulicians. Part
-II.](daf05033)  
+II.](daf05033.md)  
 [Chapter LV: The Bulgarians, The Hungarians And The Russians. Part
-I.](daf05034)  
+I.](daf05034.md)  
 [Chapter LV: The Bulgarians, The Hungarians And The Russians. Part
-II.](daf05035)  
+II.](daf05035.md)  
 [Chapter LV: The Bulgarians, The Hungarians And The Russians. Part
-III.](daf05036)  
+III.](daf05036.md)  
 [Chapter LVI: The Saracens, The Franks And The Normans. Part
-I.](daf05037)  
+I.](daf05037.md)  
 [Chapter LVI: The Saracens, The Franks And The Normans. Part
-II.](daf05038)  
+II.](daf05038.md)  
 [Chapter LVI: The Saracens, The Franks And The Normans. Part
-III.](daf05039)  
+III.](daf05039.md)  
 [Chapter LVI: The Saracens, The Franks And The Normans. Part
-IV.](daf05040)  
+IV.](daf05040.md)  
 [Chapter LVI: The Saracens, The Franks And The Normans. Part
-V.](daf05041)  
-[Chapter LVII: The Turks. Part I.](daf05042)  
-[Chapter LVII: The Turks. Part II.](daf05043)  
-[Chapter LVII: The Turks. Part III.](daf05044)  
-[Chapter LVIII: The First Crusade. Part I.](daf05045)  
-[Chapter LVIII: The First Crusade. Part II.](daf05046)  
-[Chapter LVIII: The First Crusade. Part III.](daf05047)  
-[Chapter LVIII: The First Crusade. Part IV.](daf05048)  
-[Chapter LVIII: The First Crusade. Part V.](daf05049)  
+V.](daf05041.md)  
+[Chapter LVII: The Turks. Part I.](daf05042.md)  
+[Chapter LVII: The Turks. Part II.](daf05043.md)  
+[Chapter LVII: The Turks. Part III.](daf05044.md)  
+[Chapter LVIII: The First Crusade. Part I.](daf05045.md)  
+[Chapter LVIII: The First Crusade. Part II.](daf05046.md)  
+[Chapter LVIII: The First Crusade. Part III.](daf05047.md)  
+[Chapter LVIII: The First Crusade. Part IV.](daf05048.md)  
+[Chapter LVIII: The First Crusade. Part V.](daf05049.md)  

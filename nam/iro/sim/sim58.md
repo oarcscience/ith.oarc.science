@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim57)  [Next](sim59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim57)  [Next](sim59.md) 
 
 ------------------------------------------------------------------------
 
@@ -397,4 +397,4 @@ And they all lived happily together ever after.
 
 ------------------------------------------------------------------------
 
-[Next: Quail Kills Cold Weather and the Thunder Family](sim59)
+[Next: Quail Kills Cold Weather and the Thunder Family](sim59.md)

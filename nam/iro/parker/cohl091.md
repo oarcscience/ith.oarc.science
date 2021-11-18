@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl090)  [Next](cohl092) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl090)  [Next](cohl092.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ When a person is departing he must sing that song
 <span id="page_61">p. 61</span>
 
 and continue to sing on his journey to the other world. <span
-id="fr_76"></span>[1](#fn_76) They will do this who have repented and
+id="fr_76"></span>[1](#fn_76.md) They will do this who have repented and
 who believe in Gai'wiio\`."
 
 So they said and he said. Eniaiehuk.
@@ -23,7 +23,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_76"></span>[61:1](cohl091.htm#fr_76) Ideas of the soul. The
+<span id="fn_76"></span>[61:1](cohl091.htm#fr_76.md) Ideas of the soul. The
 following ideas of the human soul were anciently held by the Iroquois
 and their influence on the teachings of Handsome Lake's teachings will
 be noted upon reading the Gai'wiio\`:
@@ -55,4 +55,4 @@ offend his good spirit.
 
 ------------------------------------------------------------------------
 
-[Next: Section 81](cohl092)
+[Next: Section 81](cohl092.md)

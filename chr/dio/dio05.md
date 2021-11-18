@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio04)  [Next](dio06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio04)  [Next](dio06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,24 +41,24 @@ without right, to cleave asunder the super-unified Unity.
 
 <span id="ii.ii.ii.ii-p4"></span>We must affirm, then, that this is to
 be received respecting the whole Deity. For even the essentially Good
-Word Himself said, "I am Good <span id="fr_16"></span>[17](#fn_16) ."
+Word Himself said, "I am Good <span id="fr_16"></span>[17](#fn_16.md) ."
 And a certain one of the God-rapt Prophets celebrates the Spirit as "the
-Good <span id="fr_17"></span>[18](#fn_17) ." And again this, "I am He,
-Who is <span id="fr_18"></span>[19](#fn_18) ." If they shall say that
+Good <span id="fr_17"></span>[18](#fn_17.md) ." And again this, "I am He,
+Who is <span id="fr_18"></span>[19](#fn_18.md) ." If they shall say that
 this is said, not of the whole Deity, but should violently limit it to
 one part, how will they understand this? "These things, saith He, Who
 is, Who was, Who is to come, the Almighty <span
-id="fr_19"></span>[20](#fn_19) ," and "Thou art the same <span
-id="fr_20"></span>[21](#fn_20) ," and this, "Spirit of truth, which is,
-which proceedeth from the Father <span id="fr_21"></span>[22](#fn_21) ."
+id="fr_19"></span>[20](#fn_19.md) ," and "Thou art the same <span
+id="fr_20"></span>[21](#fn_20.md) ," and this, "Spirit of truth, which is,
+which proceedeth from the Father <span id="fr_21"></span>[22](#fn_21.md) ."
 And if they say that the supremely Divine Life is not coextensive with
 the <span id="page_14">p. 14</span> <span
 id="ii.ii.ii.ii-Page_14"></span> whole, how is the sacred Word true
 which said, "As the Father raiseth the dead and maketh alive, so also
-the Son maketh alive whom He will <span id="fr_22"></span>[23](#fn_22)
+the Son maketh alive whom He will <span id="fr_22"></span>[23](#fn_22.md)
 ," and that "the Spirit is He, Who maketh alive <span
-id="fr_23"></span>[24](#fn_23)  <span id="fr_24"></span>[25](#fn_24) .
-But the Spirit also is Lord <span id="fr_25"></span>[26](#fn_25) . And
+id="fr_23"></span>[24](#fn_23)  <span id="fr_24"></span>[25](#fn_24.md) .
+But the Spirit also is Lord <span id="fr_25"></span>[26](#fn_25.md) . And
 "the beautiful and the wise" are also sung respecting the whole Deity.
 And the light, and the deifying, and the cause, and whatever pertains to
 the whole Godhead, the Oracles introduce into all the supremely Divine
@@ -189,7 +189,7 @@ things imparticipatively participated. And this is kindred and common,
 and one, to the whole Divinity, that it is all entire, participated by
 each of the Participants, and by none partially. Just as a point in a
 circle’s centre participates in all the circumjacent <span
-id="fr_26"></span>[27](#fn_26) straight lines in the circle, and as many
+id="fr_26"></span>[27](#fn_26.md) straight lines in the circle, and as many
 impressions of a seal participate in the archetypal seal, and in each of
 the impressions the seal is whole and the same, and in none partial in
 any respect. But superior to these is the impartibility of the
@@ -285,7 +285,7 @@ substance as man, we have received as a mystery, but we do not know in
 what manner, from virginal bloods, by a different law, beyond nature, He
 was formed, and how, with dry feet, having a bodily bulk and weight of
 matter, He marched upon the liquid and unstable substance <span
-id="fr_27"></span>[28](#fn_27) ; and so, with regard to all the other
+id="fr_27"></span>[28](#fn_27.md) ; and so, with regard to all the other
 features of the super-physical physiology of Jesus. Now, we have
 elsewhere sufficiently spoken of these things, and they have been
 celebrated by our illustrious leader, in his *Theological Elements,* in
@@ -324,7 +324,7 @@ mind, above life, above essence. It has the supernatural,
 supernaturally,--the superessential, superessentially. Hence, since
 through love towards man, He has come even to nature, and really became
 substantial, and the Super-God lived as Man <span
-id="fr_28"></span>[29](#fn_28) (may He be merciful with regard to the
+id="fr_28"></span>[29](#fn_28.md) (may He be merciful with regard to the
 things we are celebrating, which are beyond mind and expression), and in
 these He has the supernatural and super-substantial, not only in so far
 as He communicated with us without alteration and without confusion,
@@ -374,7 +374,7 @@ sacred writings--"For, even if there are who are called gods, whether in
 heaven or upon earth, as there are gods many and lords many; but to us
 there is One God, the Father, from Whom are all things, and we unto
 Him,--and One Lord Jesus Christ, through Whom are all things, and we,
-through Him <span id="fr_29"></span>[30](#fn_29) ." For, with regard to
+through Him <span id="fr_29"></span>[30](#fn_29.md) ." For, with regard to
 things Divine, the unions overrule the distinctions, and precede them,
 and are none the less unified, even after the self-centred and unified
 distinction. These, the mutual and common distinctions, or rather the
@@ -390,74 +390,74 @@ whole Supremely Divine wholeness unreservedly.
 
 ### Footnotes
 
-<span id="fn_16"></span>[13:17](dio05.htm#fr_16) <span
+<span id="fn_16"></span>[13:17](dio05.htm#fr_16.md) <span
 id="ii.ii.ii.ii-p4.1"></span><span id="ii.ii.ii.ii-p4.2"></span>[Matt.
-xx. 15](../../bib/kjv/mat020.htm#015)<span
+xx. 15](../../bib/kjv/mat020.htm#015.md)<span
 id="ii.ii.ii.ii-p4.2"></span>.
 
-<span id="fn_17"></span>[13:18](dio05.htm#fr_17) <span
+<span id="fn_17"></span>[13:18](dio05.htm#fr_17.md) <span
 id="ii.ii.ii.ii-p4.3"></span><span id="ii.ii.ii.ii-p4.4"></span>[Neh.
-ix. 20](../../bib/kjv/neh009.htm#020)<span
+ix. 20](../../bib/kjv/neh009.htm#020.md)<span
 id="ii.ii.ii.ii-p4.4"></span>.
 
-<span id="fn_18"></span>[13:19](dio05.htm#fr_18) <span
+<span id="fn_18"></span>[13:19](dio05.htm#fr_18.md) <span
 id="ii.ii.ii.ii-p4.5"></span><span id="ii.ii.ii.ii-p4.6"></span>[Ex.
-iii. 14](../../bib/kjv/exo003.htm#014)<span
+iii. 14](../../bib/kjv/exo003.htm#014.md)<span
 id="ii.ii.ii.ii-p4.6"></span>.
 
-<span id="fn_19"></span>[13:20](dio05.htm#fr_19) <span
+<span id="fn_19"></span>[13:20](dio05.htm#fr_19.md) <span
 id="ii.ii.ii.ii-p4.7"></span><span id="ii.ii.ii.ii-p4.8"></span>[Rev. i.
-8.](../../bib/kjv/rev001.htm#008)<span id="ii.ii.ii.ii-p4.8"></span>
+8.](../../bib/kjv/rev001.htm#008.md)<span id="ii.ii.ii.ii-p4.8"></span>
 
-<span id="fn_20"></span>[13:21](dio05.htm#fr_20) <span
+<span id="fn_20"></span>[13:21](dio05.htm#fr_20.md) <span
 id="ii.ii.ii.ii-p4.9"></span><span id="ii.ii.ii.ii-p4.10"></span>[Heb.
-i. 12](../../bib/kjv/heb001.htm#012)<span
+i. 12](../../bib/kjv/heb001.htm#012.md)<span
 id="ii.ii.ii.ii-p4.10"></span>.
 
-<span id="fn_21"></span>[13:22](dio05.htm#fr_21) <span
+<span id="fn_21"></span>[13:22](dio05.htm#fr_21.md) <span
 id="ii.ii.ii.ii-p4.11"></span><span id="ii.ii.ii.ii-p4.12"></span>[John
-xv. 26](../../bib/kjv/joh015.htm#026)<span
+xv. 26](../../bib/kjv/joh015.htm#026.md)<span
 id="ii.ii.ii.ii-p4.12"></span>.
 
-<span id="fn_22"></span>[14:23](dio05.htm#fr_22) <span
+<span id="fn_22"></span>[14:23](dio05.htm#fr_22.md) <span
 id="ii.ii.ii.ii-p4.13"></span><span id="ii.ii.ii.ii-p4.14"></span>[John
-v. 21](../../bib/kjv/joh005.htm#021)<span
+v. 21](../../bib/kjv/joh005.htm#021.md)<span
 id="ii.ii.ii.ii-p4.14"></span>.
 
-<span id="fn_23"></span>[14:24](dio05.htm#fr_23) <span
+<span id="fn_23"></span>[14:24](dio05.htm#fr_23.md) <span
 id="ii.ii.ii.ii-p4.15"></span><span id="ii.ii.ii.ii-p4.16"></span>[John
-6:63](../../bib/kjv/joh006.htm#063)<span id="ii.ii.ii.ii-p4.16"></span>
+6:63](../../bib/kjv/joh006.htm#063.md)<span id="ii.ii.ii.ii-p4.16"></span>
 
-<span id="fn_24"></span>[14:25](dio05.htm#fr_24) <span
+<span id="fn_24"></span>[14:25](dio05.htm#fr_24.md) <span
 id="ii.ii.ii.ii-p4.17"></span><span
 id="ii.ii.ii.ii-p4.18"></span>[1Corinthians
-1:30](../../bib/kjv/co1001.htm#030)<span
+1:30](../../bib/kjv/co1001.htm#030.md)<span
 id="ii.ii.ii.ii-p4.18"></span><span id="ii.ii.ii.ii-p4.19"></span>[1
-Cor. i. 30](../../bib/kjv/co1001.htm#030)<span
+Cor. i. 30](../../bib/kjv/co1001.htm#030.md)<span
 id="ii.ii.ii.ii-p4.19"></span>.
 
-<span id="fn_25"></span>[14:26](dio05.htm#fr_25) <span
+<span id="fn_25"></span>[14:26](dio05.htm#fr_25.md) <span
 id="ii.ii.ii.ii-p4.20"></span><span
 id="ii.ii.ii.ii-p4.21"></span>[2Corinthians
-3:17](../../bib/kjv/co2003.htm#017)<span
+3:17](../../bib/kjv/co2003.htm#017.md)<span
 id="ii.ii.ii.ii-p4.21"></span><span id="ii.ii.ii.ii-p4.22"></span>[2
-Cor. iii. 17](../../bib/kjv/co2003.htm#017)<span
+Cor. iii. 17](../../bib/kjv/co2003.htm#017.md)<span
 id="ii.ii.ii.ii-p4.22"></span>.
 
-<span id="fn_26"></span>[19:27](dio05.htm#fr_26) <span
+<span id="fn_26"></span>[19:27](dio05.htm#fr_26.md) <span
 id="ii.ii.ii.ii-p12.1"></span>The radii.
 
-<span id="fn_27"></span>[23:28](dio05.htm#fr_27) <span
+<span id="fn_27"></span>[23:28](dio05.htm#fr_27.md) <span
 id="ii.ii.ii.ii-p20.1"></span>Letter IV.
 
-<span id="fn_28"></span>[24:29](dio05.htm#fr_28) <span
+<span id="fn_28"></span>[24:29](dio05.htm#fr_28.md) <span
 id="ii.ii.ii.ii-p23.1"></span>Letter IV.
 
-<span id="fn_29"></span>[26:30](dio05.htm#fr_29) <span
+<span id="fn_29"></span>[26:30](dio05.htm#fr_29.md) <span
 id="ii.ii.ii.ii-p25.1"></span><span id="ii.ii.ii.ii-p25.2"></span>[1
-Cor. 8:5](../../bib/kjv/co1008.htm#005),
-[6](../../bib/kjv/co1008.htm#006)<span id="ii.ii.ii.ii-p25.2"></span>.
+Cor. 8:5](../../bib/kjv/co1008.htm#005.md),
+[6](../../bib/kjv/co1008.htm#006.md)<span id="ii.ii.ii.ii-p25.2"></span>.
 
 ------------------------------------------------------------------------
 
-[Next: Caput III.](dio06)
+[Next: Caput III.](dio06.md)

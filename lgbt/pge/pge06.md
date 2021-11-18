@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge05) 
-[Next](pge07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge05.md) 
+[Next](pge07.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ potent and effective forces.
 ------------------------------------------------------------------------
 
 [Next: V. Vulgar paiderastia--How introduced into
-Hellas--Crete--Laius--The myth of Ganymede](pge07)
+Hellas--Crete--Laius--The myth of Ganymede](pge07.md)

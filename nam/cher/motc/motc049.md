@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc048) 
-[Next](motc050) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc048.md) 
+[Next](motc050.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ headings.
 
 ------------------------------------------------------------------------
 
-[Next: 50. The Uktena And The Ulûñsû'tï](motc050)
+[Next: 50. The Uktena And The Ulûñsû'tï](motc050.md)

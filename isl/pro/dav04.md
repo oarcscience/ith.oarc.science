@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dav03)  [Next](jon00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dav03)  [Next](jon00.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ of success.
 
 ------------------------------------------------------------------------
 
-[Next: Yunus (Jonah) (PUH)](jon00)
+[Next: Yunus (Jonah) (PUH)](jon00.md)

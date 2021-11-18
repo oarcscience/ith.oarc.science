@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst019)  [Next](inst021) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst019)  [Next](inst021.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ expounded, so as to save us from wandering up and down, as in a
 labyrinth, in search of some doubtful deity.
 
 <span id="iv.i.vii-p9"></span>2. Whether God revealed himself to the
-fathers by oracles and visions,7  <span id="fr_63"></span>[64](#fn_63)
+fathers by oracles and visions,7  <span id="fr_63"></span>[64](#fn_63.md)
 or, by the instrumentality and ministry of men, suggested what they were
 to hand down to posterity, there cannot be a doubt that the certainty of
 what he taught them was firmly engraven on their hearts, so that they
@@ -115,7 +115,7 @@ were manifold (Book 2 c. 7 and 8), and the special office assigned to
 Moses and all the prophets was to teach the method of reconciliation
 between God and man (whence Paul calls Christ “the end of the law,”
 <span id="iv.i.vii-p10.1"></span>[Rom.
-10:4](../../../bib/kjv/rom010.htm#004)<span
+10:4](../../../bib/kjv/rom010.htm#004.md)<span
 id="iv.i.vii-p10.1"></span>); still I repeat that, in addition to the
 proper doctrine of faith and repentance in which Christ is set forth as
 a Mediator, the Scriptures employ certain marks and tokens to
@@ -125,7 +125,7 @@ with the herd of false deities. Therefore, while it becomes man
 seriously to employ his eyes in considering the works of God, since a
 place has been assigned him in this most glorious theatre that he may be
 a spectator of them, his special duty is to give ear to the Word, that
-he may the better profit.7  <span id="fr_64"></span>[65](#fn_64) Hence
+he may the better profit.7  <span id="fr_64"></span>[65](#fn_64.md) Hence
 it is not strange that those who are born in darkness become more and
 more hardened in their stupidity; because the vast majority instead of
 confining themselves within due bounds by listening with docility to the
@@ -159,16 +159,16 @@ soever the speed with which we move, we shall never reach the goal,
 because we are off the course. We should consider that the brightness of
 the Divine countenance, which even an apostle declares to be
 inaccessible (<span id="iv.i.vii-p12.1"></span>[1 Tim.
-6:16](../../../bib/kjv/ti1006.htm#016)<span
+6:16](../../../bib/kjv/ti1006.htm#016.md)<span
 id="iv.i.vii-p12.1"></span>), is a kind of labyrinth,—a labyrinth to us
 inextricable, if the Word do not serve us as a thread to guide our path;
 and that it is better to limp in the way, than run with the greatest
 swiftness out of it. Hence the Psalmist, after repeatedly declaring
 (<span id="iv.i.vii-p12.2"></span>[Ps.
-93:0](../../../bib/kjv/psa093.htm#000), [Ps.
-96:0](../../../bib/kjv/psa096.htm#000), [Ps.
-97:0](../../../bib/kjv/psa097.htm#000), [Ps.
-99:0](../../../bib/kjv/psa099.htm#000)<span id="iv.i.vii-p12.2"></span>,
+93:0](../../../bib/kjv/psa093.htm#000.md), [Ps.
+96:0](../../../bib/kjv/psa096.htm#000.md), [Ps.
+97:0](../../../bib/kjv/psa097.htm#000.md), [Ps.
+99:0](../../../bib/kjv/psa099.htm#000.md)<span id="iv.i.vii-p12.2"></span>,
 &c). that superstition should be banished from the world in order that
 pure religion may flourish, introduces God as *reigning*; meaning by the
 term, not the power which he possesses and which he exerts in the
@@ -185,7 +185,7 @@ the testimony of the Lord is sure, making wise the simple. The statutes
 of the Lord are right, rejoicing the heart; the commandment of the Lord
 is pure, enlightening the eyes,” (<span
 id="iv.i.vii-p13.1"></span>[Psalm
-19:1-9](../../../bib/kjv/psa019.htm#001)<span
+19:1-9](../../../bib/kjv/psa019.htm#001.md)<span
 id="iv.i.vii-p13.1"></span>). For though the law has other uses besides
 (as to which, see Book 2 c. 7, sec. 6, 10, 12), the general meaning is,
 that it is the proper school for training the children of God; the
@@ -199,12 +199,12 @@ all God’s words when they echo in the air. In like manner another Psalm,
 after describing the raging billows of the sea, thus concludes, “Thy
 testimonies are very sure; holiness becometh thine house for ever,”
 (<span id="iv.i.vii-p13.2"></span>[Psalm
-93:5](../../../bib/kjv/psa093.htm#005)<span
+93:5](../../../bib/kjv/psa093.htm#005.md)<span
 id="iv.i.vii-p13.2"></span>). To the same effect are the words of our
 Saviour to the Samaritan woman, when he told her that her nation and all
 other nations worshipped they knew not what; and that the Jews alone
 gave worship to the true God (<span id="iv.i.vii-p13.3"></span>[John
-4:22](../../../bib/kjv/joh004.htm#022)<span
+4:22](../../../bib/kjv/joh004.htm#022.md)<span
 id="iv.i.vii-p13.3"></span>). Since the human mind, through its
 weakness, was altogether unable to come to God if not aided and upheld
 by his sacred word, it necessarily followed that all mankind, the Jews
@@ -215,13 +215,13 @@ under vanity and error.
 
 ### Footnotes
 
-<span id="fn_63"></span>[64](inst020.htm#fr_63) <span
+<span id="fn_63"></span>[64](inst020.htm#fr_63.md) <span
 id="iv.i.vii-p9.1"></span>
 
 <span id="iv.i.vii-p10"></span> 70 The French adds, “C’est à dire,
 temoignages celestes;”—that is to say, messages from heaven.
 
-<span id="fn_64"></span>[65](inst020.htm#fr_64) <span
+<span id="fn_64"></span>[65](inst020.htm#fr_64.md) <span
 id="iv.i.vii-p10.2"></span>
 
 <span id="iv.i.vii-p11"></span>1 71 Tertullian, Apologet. adv. Gentes:
@@ -232,4 +232,4 @@ voluntates adiremus, instrumentum adjecit literature,” &c.
 
 [Next: CHAPTER 7. - THE TESTIMONY OF THE SPIRIT NECESSARY TO GIVE FULL
 AUTHORITY TO SCRIPTURE. THE IMPIETY OF PRETENDING THAT THE CREDIBILITY
-OF SCRIPTURE DEPENDS ON THE JUDGMENT OF THE CHURCH.](inst021)
+OF SCRIPTURE DEPENDS ON THE JUDGMENT OF THE CHURCH.](inst021.md)

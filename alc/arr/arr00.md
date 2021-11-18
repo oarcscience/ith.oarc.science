@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Next](arr01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Next](arr01.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ To Mrs. Meyer Sassoon
 
 ------------------------------------------------------------------------
 
-[Next: Contents](arr01)
+[Next: Contents](arr01.md)

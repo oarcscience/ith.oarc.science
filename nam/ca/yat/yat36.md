@@ -1,23 +1,23 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
 <span id="page_233">p. 233</span>
 
-### XIII. PINE MARTEN'S QUEST FOR MOON'S DAUGHTER. <span id="fr_173"></span>[350](#fn_168)
+### XIII. PINE MARTEN'S QUEST FOR MOON'S DAUGHTER. <span id="fr_173"></span>[350](#fn_168.md)
 
 Moon lived in the west. Lion, Wolf, and others lived far up toward Fall
 river in a big sweat-house. Lion went first to Moon's house for his
@@ -95,7 +95,7 @@ pull too much." Pine Marten thought to himself, "I
 
 ### Footnotes
 
-<span id="fn_168"></span>[233:350](yat36.htm#fr_173) In a general way
+<span id="fn_168"></span>[233:350](yat36.htm#fr_173.md) In a general way
 this suitor tale corresponds to Curtin's "The Winning of Halai Auna,"
 Creation Myths of Primitive America, pp. 281-294, but there are plenty
 of differences of detail. Some of the incidents, such as the fight with

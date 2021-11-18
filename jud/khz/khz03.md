@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](khz02)  [Next](khz04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](khz02)  [Next](khz04.md) 
 
 ------------------------------------------------------------------------
 
@@ -501,7 +501,7 @@ appreciating them.
 forward to it, double the feeling of enjoyment. This is the advantage of
 the blessings for him who is used to say them with attention and
 devotion. They produce in his soul a kind of pleasure and
-[gratitude](errata.htm#10) towards the Giver. He was prepared to give
+[gratitude](errata.htm#10.md) towards the Giver. He was prepared to give
 them up; now his pleasure is all the greater, and he says: 'He has kept
 us alive and preserved us.' He was prepared for death, now he feels
 gratitude for life, and regards it as gain. Should sickness and death
@@ -1585,7 +1585,7 @@ and Boethos who were the originators of the sects called after them
 Saddōcaeans and Boethosians. The next was Jōsē b. Jō‘ēzer 'the most
 pious among the priests,' 33 and Josef b. Jōḥānān and their friends.
 With regard to the former it was said: 'At the death of Jōsē b.
-[Jō‘ēzer](errata.htm#11) the grapes ceased' as it is said: 'No grapes to
+[Jō‘ēzer](errata.htm#11.md) the grapes ceased' as it is said: 'No grapes to
 eat;' (Mic. vii. 1), for no sin of his was know from his youth to his
 death. He was followed by Joshua b. Peraḥyāh whose history is known.
 Among his disciples was Jesus the Nazarene, and Nittāi of Arbela was his
@@ -1897,4 +1897,4 @@ END OF THE THIRD PART.
 
 ------------------------------------------------------------------------
 
-[Next: Part Four](khz04)
+[Next: Part Four](khz04.md)

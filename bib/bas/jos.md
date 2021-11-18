@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](deu)  [Next](jdg) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](deu)  [Next](jdg.md) 
 
 ------------------------------------------------------------------------
 
@@ -2617,4 +2617,4 @@ Ephraim.
 
 ------------------------------------------------------------------------
 
-[Next: Judges](jdg)
+[Next: Judges](jdg.md)

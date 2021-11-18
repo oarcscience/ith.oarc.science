@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk23)  [Next](htk25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk23)  [Next](htk25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -28,14 +28,14 @@ at Intangible Textual Heritage
 ### VERSE 20
 
 O MOTHER, he who, being a controller of his passions, <span
-id="fr_151"></span>[1](#fn_151) eats *haviṣyānnaṁ*, <span
-id="fr_152"></span>[2](#fn_152) and, being proficient in meditation on
-Thy feet, rightly recites <span id="fr_153"></span>[3](#fn_153) Thy
+id="fr_151"></span>[1](#fn_151.md) eats *haviṣyānnaṁ*, <span
+id="fr_152"></span>[2](#fn_152.md) and, being proficient in meditation on
+Thy feet, rightly recites <span id="fr_153"></span>[3](#fn_153.md) Thy
 *mantra* a hundred thousand times by day, and he who afterwards <span
-id="fr_154"></span>[4](#fn_154) naked at night, when united with his
-*Śakti*, <span id="fr_155"></span>[5](#fn_155) rightly recites Thy great
+id="fr_154"></span>[4](#fn_154.md) naked at night, when united with his
+*Śakti*, <span id="fr_155"></span>[5](#fn_155.md) rightly recites Thy great
 *mantra* another such hundred thousand times, becomes on earth like unto
-the Destroyer of Smara. <span id="fr_156"></span>[6](#fn_156)
+the Destroyer of Smara. <span id="fr_156"></span>[6](#fn_156.md)
 
 COMMENTARY
 
@@ -60,28 +60,28 @@ That is, becomes liberated whilst yet living (Jīvanmukta) like Śiva.
 
 ### Footnotes
 
-<span id="fn_151"></span>[91:1](htk24.htm#fr_151) *Vashī*. The first
+<span id="fn_151"></span>[91:1](htk24.htm#fr_151.md) *Vashī*. The first
 part of this *Śloka* refers to *Paśvācāra*.
 
-<span id="fn_152"></span>[91:2](htk24.htm#fr_152) That is, one who has
+<span id="fn_152"></span>[91:2](htk24.htm#fr_152.md) That is, one who has
 undertaken the *Puraścaraṇavrata*, and eats the pure form of food known
 as *Haviṣyānnaṁ* (K.B.).
 
 *Haviṣyāśanaratah*: that is after the recitation (V).
 
-<span id="fn_153"></span>[91:3](htk24.htm#fr_153) Makes *japa* (see
+<span id="fn_153"></span>[91:3](htk24.htm#fr_153.md) Makes *japa* (see
 *ibid*.).
 
-<span id="fn_154"></span>[91:4](htk24.htm#fr_154) *Paraṁ*: that is, when
+<span id="fn_154"></span>[91:4](htk24.htm#fr_154.md) *Paraṁ*: that is, when
 he has been *Abhiṣikta* into *Vīrācāra*.
 
-<span id="fn_155"></span>[91:5](htk24.htm#fr_155) <span id="page_92">p.
+<span id="fn_155"></span>[91:5](htk24.htm#fr_155.md) <span id="page_92">p.
 92</span> *Naktaṁ nagno nidhuvana-vinodena*, the meaning of which is
 *yādā sādhakah śaktyā saha maithuna-kriyāsakto bhavati, tadā sa mantraṁ
 japati*.
 
-<span id="fn_156"></span>[91:6](htk24.htm#fr_156) *Smarahara* or *Śiva*
-(see note [5](htk22.htm#fn_140) to *Śloka* 18, *ante*). The
+<span id="fn_156"></span>[91:6](htk24.htm#fr_156.md) *Smarahara* or *Śiva*
+(see note [5](htk22.htm#fn_140) to *Śloka* 18, *ante*.md). The
 Tantrakalpadruma says, 'He who eats *Haviṣyānnaṁ*, who keeping *Devī* in
 mind recites the *Mantra* a hundred thousand times by day and is at
 night united with his *Śakti* becomes the Lord of the earth.' (V).
@@ -90,6 +90,6 @@ night united with his *Śakti* becomes the Lord of the earth.' (V).
 
 ------------------------------------------------------------------------
 
-[Next: Verse 21](htk25)
+[Next: Verse 21](htk25.md)
 
 </div>

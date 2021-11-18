@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe154)  [Next](prwe156) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe154)  [Next](prwe156.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ church.
 
 ------------------------------------------------------------------------
 
-[Next: Holy Well at Little Conan](prwe156)
+[Next: Holy Well at Little Conan](prwe156.md)

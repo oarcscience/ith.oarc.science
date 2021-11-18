@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei03)  [Next](jei05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei03)  [Next](jei05.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ number
 [![The earth as it would appear if viewed from space showing the north
 polar opening to the planet's interior which is hollow and contains a
 central sun instead of an ocean of liquid lava.](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)  
+Click to enlarge](img/02400.jpg.md)  
 The earth as it would appear if viewed from space showing the north
 polar opening to the planet's interior which is hollow and contains a
 central sun instead of an ocean of liquid lava.  
@@ -246,7 +246,7 @@ if indeed they do have this formation, and as Mars is the most easily
 observed of them we look at that first. Mars does have two polar
 openings--although up to the present time they have most often been
 called ice or snow caps. But when we find the scientists themselves
-quarreling over that [appellation](errata.htm#4) and some of them
+quarreling over that [appellation](errata.htm#4.md) and some of them
 proving that the polar caps of Mars cannot be of ice or snow at all, we
 begin to think that perhaps our theory is the correct one. But we do not
 have to rest satisfied with thinking so. When the late Professor Lowell,
@@ -417,4 +417,4 @@ this book opened it up to thought, is our confident belief.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Nebula and its Evolution](jei05)
+[Next: Chapter II. The Nebula and its Evolution](jei05.md)

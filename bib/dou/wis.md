@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](aes)  [Next](sir) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](aes)  [Next](sir.md) 
 
 ------------------------------------------------------------------------
 
@@ -1653,4 +1653,4 @@ place.
 
 ------------------------------------------------------------------------
 
-[Next: Sirach](sir)
+[Next: Sirach](sir.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi023)  [Next](mtsi025) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi023)  [Next](mtsi025.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ him. He was made strong by means of his magic formula.
 
 ------------------------------------------------------------------------
 
-[Next: 23. The Man Who Became A Snake](mtsi025)
+[Next: 23. The Man Who Became A Snake](mtsi025.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](phi)  [Next](th1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](phi)  [Next](th1.md) 
 
 ------------------------------------------------------------------------
 
@@ -359,4 +359,4 @@ egen hand. Tänken på mina bojor. Nåd vare med eder.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Thessalonians](th1)
+[Next: 1 Thessalonians](th1.md)

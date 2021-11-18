@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste59)  [Next](ste61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste59)  [Next](ste61.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ as from the widen’d mouths of so many Fountains. I do not take
 *Fountains* there to signifie any more than Sources or Stores of Water;
 noting also this manner of their eruption from below, or out of the
 ground, as Fountains do. Accordingly in the *Proverbs*, (*chap*. 3.
-20.) <span id="fr_34"></span>[1](#fn_34) ’tis onely said, the *Abysses
+20.) <span id="fr_34"></span>[1](#fn_34.md) ’tis onely said, the *Abysses
 were broken open*. I do not doubt but this refers to the Deluge, as
 *Bede*, and others understand it; the very word being us’d here, both in
 the *Hebrew* and Septuagint, the express’d the disruption of the Abyss
@@ -190,9 +190,9 @@ lightnings and discomfited them*.
 15\. *Then the Chanels of waters were seen, and the foundations of the
 World were discovered; at thy rebuke, O Lord, at the blast of the breath
 of thy nostrils. He sent from above, he took me; he drew me out of great
-waters*. <span id="fr_35"></span>[1](#fn_35)
+waters*. <span id="fr_35"></span>[1](#fn_35.md)
 
-This I think is a rough <span id="fr_36"></span>[2](#fn_36) draught of
+This I think is a rough <span id="fr_36"></span>[2](#fn_36.md) draught of
 the face of the Heavens and the Earth at the Deluge, as the last Verses
 do intimate; and ’tis apply’d to express the dangers and deliverances of
 the Church: The Expressions are far too high to be apply'd
@@ -249,7 +249,7 @@ broke forth, as if it had issued out of a Womb; When I made the cloud
 the garment thereof, and thick darkness a swadling band for it. And
 broke up for it my decreed place . . . . hitherto shalt thou come*,
 *&c*. Here you see the birth and nativity of the Sea, or of Oceanus,
-describ'd; <span id="fr_37"></span>[1](#fn_37) how he broke out of the
+describ'd; <span id="fr_37"></span>[1](#fn_37.md) how he broke out of the
 Womb, and what his first garment and
 
 <span id="page_405">p. 405</span>
@@ -445,17 +445,17 @@ of the Second Part of the Theory.
 
 ### Footnotes
 
-<span id="fn_34"></span>[402:1](ste60.htm#fr_34) נבקעו ἐῤῤάγησάν *c*.
+<span id="fn_34"></span>[402:1](ste60.htm#fr_34.md) נבקעו ἐῤῤάγησάν *c*.
 38.
 
-<span id="fn_35"></span>[404:1](ste60.htm#fr_35) מַֹיִֹמ רַבּיִמ
+<span id="fn_35"></span>[404:1](ste60.htm#fr_35.md) מַֹיִֹמ רַבּיִמ
 
-<span id="fn_36"></span>[404:2](ste60.htm#fr_36) See *Philo Judæus* his
+<span id="fn_36"></span>[404:2](ste60.htm#fr_36.md) See *Philo Judæus* his
 description of the Deluge, both as to the commotions of the Heavens, and
 the fractions of the Earth. In his first Treatise de *Abrahamo*, mihi
 *pa*. 279.
 
-<span id="fn_37"></span>[405:1](ste60.htm#fr_37) *Uti comparatio
+<span id="fn_37"></span>[405:1](ste60.htm#fr_37.md) *Uti comparatio
 præcedens* \|\| *de ortu Telluris, sumitur ab ædificio, ita bæc altera
 de ortu maris, sumitur à partu; & exhibetur Oceanus, primùm, ut fœtus
 inclusus in utero, dein ut erumpens & prodeuns, denique ut fasciis &
@@ -465,4 +465,4 @@ puerpera*. \|\| Ver. 4, 5, 6.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](ste61)
+[Next: Chapter IV](ste61.md)

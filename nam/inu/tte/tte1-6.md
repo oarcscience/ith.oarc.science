@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inuit](../index)  
-[Index](index) [Previous](tte1-5) [Next](tte1-7)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inuit](../index.md)  
+[Index](index) [Previous](tte1-5) [Next](tte1-7.md)
 
 ------------------------------------------------------------------------
 
@@ -195,7 +195,7 @@ following section.
 
 ------------------------------------------------------------------------
 
-[Next](tte1-7)
+[Next](tte1-7.md)
 
  
 

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb04)  [Next](boeb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb04)  [Next](boeb06.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_49">p. 49</span>
 
 <span id="img_04900"></span> [![](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)
+Click to enlarge](img/04900.jpg.md)
 
 <span id="img_04901"></span> ![](img/04901.jpg)
 
@@ -194,7 +194,7 @@ As duty bound, she quickly sent
  
 
 <span id="img_05600"></span> [![](tn/05600.jpg)  
-Click to enlarge](img/05600.jpg)
+Click to enlarge](img/05600.jpg.md)
 
  
 
@@ -242,4 +242,4 @@ Thus have you seen the fall of pride,
 
 ------------------------------------------------------------------------
 
-[Next: Fair Rosamond](boeb06)
+[Next: Fair Rosamond](boeb06.md)

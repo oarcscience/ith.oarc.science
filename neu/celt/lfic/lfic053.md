@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic052)  [Next](lfic054) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic052)  [Next](lfic054.md) 
 
 ------------------------------------------------------------------------
 
@@ -197,4 +197,4 @@ Gour*, is our warrant for these also.
 
 ------------------------------------------------------------------------
 
-[Next: Fann Mac Cuil and the Scotch Giant](lfic054)
+[Next: Fann Mac Cuil and the Scotch Giant](lfic054.md)

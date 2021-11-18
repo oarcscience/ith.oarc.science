@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar145) [Next](gbar147)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar145) [Next](gbar147.md)
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ and is now come to life again, he was lost and now is found."
 
 ------------------------------------------------------------------------
 
-[Next](gbar147)
+[Next](gbar147.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat44)  [Next](flat46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat44)  [Next](flat46.md) 
 
 ------------------------------------------------------------------------
 
@@ -282,4 +282,4 @@ so to me.
 
 ------------------------------------------------------------------------
 
-[Next: The Giant's Stairs](flat46)
+[Next: The Giant's Stairs](flat46.md)

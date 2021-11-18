@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng35)  [Next](nblng37) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng35)  [Next](nblng37.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ for brave. May shame ever be their lot!"
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXXV: How Iring Was Slain.](nblng37)
+[Next: Adventure XXXV: How Iring Was Slain.](nblng37.md)

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft29)  [Next](meft31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft29)  [Next](meft31.md) 
 
 ------------------------------------------------------------------------
 
 # King John and the Abbot of Canterbury
 
 <span id="img_045"></span> [![](tn/045.jpg)  
-Click to enlarge](img/045.jpg)
+Click to enlarge](img/045.jpg.md)
 
 IN the reign of King John there lived an Abbot of Canterbury who kept up
 grand state in his Abbey. A hundred of the Abbot's men dined each day
@@ -114,4 +114,4 @@ sent away the shepherd with a right royal present, besides his pension.
 
 ------------------------------------------------------------------------
 
-[Next: Rushen Coatie](meft31)
+[Next: Rushen Coatie](meft31.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](idtc02)  [Next](idtc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](idtc02)  [Next](idtc04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Days To Come*, by Ashtar (Ethel P. Hill), \[1957\], at Intangible
 Textual Heritage
 
@@ -14,7 +14,7 @@ Textual Heritage
 
 ### CHAPTER I.
 
-[Beginning](errata.htm#4) a series of revelations concerning what is
+[Beginning](errata.htm#4.md) a series of revelations concerning what is
 going forward in the activities of those not at this time encased in
 mortal flesh and those who are, or will be, their associates on the
 earthplane. Thy friends in the Unseen be possessed of bodies more
@@ -38,7 +38,7 @@ wise. THEY STILL LIVE! Thus
 <span id="page_22">p. 22</span>
 
 our problem is to segregate them, not as to earthly
-[categories](errata.htm#5) but in accord with our innate purposes and
+[categories](errata.htm#5.md) but in accord with our innate purposes and
 desires. Naturally, this doth greatly complicate the task of those whose
 responsibility it be to resolve the whole matter into its basic
 constituents.
@@ -97,4 +97,4 @@ to destroy His faithful servants.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](idtc04)
+[Next: Chapter II](idtc04.md)

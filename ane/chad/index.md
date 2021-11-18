@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ East](../index) 
 
 ------------------------------------------------------------------------
 
-[Start Reading](chad)
+[Start Reading](chad.md)
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ at the age of 36 of dysentery in Aleppo, Syria, on August 19, 1876.
 
 ------------------------------------------------------------------------
 
-[The Chaldean Account of the Deluge](chad)  
+[The Chaldean Account of the Deluge](chad.md)  

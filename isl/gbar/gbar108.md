@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar107) [Next](gbar109)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar107) [Next](gbar109.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ of the star, but by the light of the sun we go securely.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar109)
+[Next](gbar109.md)

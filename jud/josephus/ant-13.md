@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -166,7 +166,7 @@ OTHER SIDE. CONCERNING THE DEATH OF DEMETRIUS.**
 
 1\. NOW in the hundred and sixtieth year, it fell out that Alexander,
 the son of Antiochus Epiphanes, <span
-id="EndNote Ant 13.1a"></span>[(1)](#EndNote%20Ant%2013.1b) came up into
+id="EndNote Ant 13.1a"></span>[(1)](#EndNote%20Ant%2013.1b.md) came up into
 Syria, and took Ptolemais the soldiers within having betrayed it to him;
 for they were at enmity with Demetrius, on account of his insolence and
 difficulty of access; for he shut himself up in a palace of his that had
@@ -223,7 +223,7 @@ manner respect us also."
 
 3\. When Jonathan had received this letter, he put on the pontifical
 robe at the time of the feast of tabernacles, <span
-id="EndNote Ant 13.2a"></span>[(2)](#EndNote%20Ant%2013.2b) four years
+id="EndNote Ant 13.2a"></span>[(2)](#EndNote%20Ant%2013.2b.md) four years
 after the death of his brother Judas, for at that time no high priest
 had been made. So he raised great forces, and had abundance of armor got
 ready. This greatly grieved Demetrius when he heard of it, and made him
@@ -240,7 +240,7 @@ from the greatest part of the tributes and taxes which you formerly paid
 to the kings my predecessors, and to myself; and I do now set you free
 from those tributes which you have ever paid; and besides, I forgive you
 the tax upon salt, and the value of the crowns which you used to offer
-to me <span id="EndNote Ant 13.3a"></span>[(3)](#EndNote%20Ant%2013.3b)
+to me <span id="EndNote Ant 13.3a"></span>[(3)](#EndNote%20Ant%2013.3b.md)
 and instead of the third part of the fruits \[of the field\], and the
 half of the fruits of the trees, I relinquish my part of them from this
 day: and as to the poll-money, which ought to be given me for every head
@@ -298,7 +298,7 @@ him; but he, being now on foot, fought bravely. But at length he
 received so many wounds, that he was not able to bear up any longer, but
 fell. And this is the end that Demetrius came to, when he had reigned
 eleven years, <span
-id="EndNote Ant 13.4a"></span>[(4)](#EndNote%20Ant%2013.4b) as we have
+id="EndNote Ant 13.4a"></span>[(4)](#EndNote%20Ant%2013.4b.md) as we have
 elsewhere related.
 
 CHAPTER 3.
@@ -336,7 +336,7 @@ thy wife and children, that those Jews which dwell in Egypt may have a
 place whither they may come and meet together in mutual harmony one with
 another, and he subservient to thy advantages; for the prophet Isaiah
 foretold that "there should be an altar in Egypt to the Lord God; <span
-id="EndNote Ant 13.5a"></span>[(5)](#EndNote%20Ant%2013.5b) and many
+id="EndNote Ant 13.5a"></span>[(5)](#EndNote%20Ant%2013.5b.md) and many
 other such things did he prophesy relating to that place."
 
 2\. And this was what Onias wrote to king Ptolemy. Now any one may
@@ -390,7 +390,7 @@ as for that at Gerizzm, he made no account of it, and regarded it as if
 it had never had a being. By this speech, and other arguments,
 Andronicus persuaded the king to determine that the temple at Jerusalem
 was built according to the laws of Moses, <span
-id="EndNote Ant 13.6a"></span>[(6)](#EndNote%20Ant%2013.6b) and to put
+id="EndNote Ant 13.6a"></span>[(6)](#EndNote%20Ant%2013.6b.md) and to put
 Sabbeus and Theodosius to death. And these were the events that befell
 the Jews at Alexandria in the days of Ptolemy Philometor.
 
@@ -439,7 +439,7 @@ thing cast Alexander into great concern and disorder when he heard it;
 so he made haste immediately out of Phoenicia, and came to Antioch, that
 he might put matters in a safe posture there before Demetrius should
 come. He also left Apollonius Daus <span
-id="EndNote Ant 13.7a"></span>[(7)](#EndNote%20Ant%2013.7b) governor of
+id="EndNote Ant 13.7a"></span>[(7)](#EndNote%20Ant%2013.7b.md) governor of
 Celesyria, who coming to Jamnia with a great army, sent to Jonathan the
 high priest, and told him that it was not right that he alone should
 live at rest, and with authority, and not be subject to the king; that
@@ -510,7 +510,7 @@ beaten, he pretended to be glad of it, because he had fought with
 Jonathan his friend and ally against his directions. Accordingly, he
 sent to Jonathan, and gave testimony to his worth; and gave him honorary
 rewards, as a golden button, <span
-id="EndNote Ant 13.8a"></span>[(8)](#EndNote%20Ant%2013.8b) which it is
+id="EndNote Ant 13.8a"></span>[(8)](#EndNote%20Ant%2013.8b.md) which it is
 the custom to give the king's kinsmen, and allowed him Ekron and its
 toparchy for his own inheritance.
 
@@ -594,7 +594,7 @@ called Balas, reigned over Asia five years, as we have elsewhere
 related.
 
 9\. But when Demetrius, who was styled Nicator, <span
-id="EndNote Ant 13.9a"></span>[(9)](#EndNote%20Ant%2013.9b) had taken
+id="EndNote Ant 13.9a"></span>[(9)](#EndNote%20Ant%2013.9b.md) had taken
 the kingdom, he was so wicked as to treat Ptolemy's soldiers very
 hardly, neither remembering the league of mutual assistance that was
 between them, nor that he was his son-in-law and kinsman, by Cleopatra's
@@ -840,7 +840,7 @@ here subjoined, we both joyfully received the epistle, and were well
 pleased with Demoteles and Areus, although we did not need such a
 demonstration, because we were satisfied about it from the sacred
 writings <span
-id="EndNote Ant 13.10a"></span>[(10)](#EndNote%20Ant%2013.10b) yet did
+id="EndNote Ant 13.10a"></span>[(10)](#EndNote%20Ant%2013.10b.md) yet did
 not we think fit first to begin the claim of this relation to you, lest
 we should seem too early in taking to ourselves the glory which is now
 given us by you. It is a long time since this relation of ours to you
@@ -863,7 +863,7 @@ made a decree for friendship and mutual assistance, and sent it to them.
 different opinions concerning human actions; the one was called the sect
 of the Pharisees, another the sect of the Sadducees, and the other the
 sect of the Essens. Now for the Pharisees, <span
-id="EndNote Ant 13.11a"></span>[(11)](#EndNote%20Ant%2013.11b) they say
+id="EndNote Ant 13.11a"></span>[(11)](#EndNote%20Ant%2013.11b.md) they say
 that some actions, but not all, are the work of fate, and some of them
 are in our own power, and that they are liable to fate, but are not
 caused by fate. But the sect of the Essens affirm, that fate governs all
@@ -931,7 +931,7 @@ recovering his entire kingdom; for those Greeks and Macedonians who
 dwelt there frequently sent ambassadors to him, and promised, that if he
 would come to them, they would deliver themselves up to him, and assist
 him in fighting against Arsaces, <span
-id="EndNote Ant 13.12a"></span>[(12)](#EndNote%20Ant%2013.12b) the king
+id="EndNote Ant 13.12a"></span>[(12)](#EndNote%20Ant%2013.12b.md) the king
 of the Parthians. So he was elevated with these hopes, and came hastily
 to them, as having resolved, that if he had once overthrown the
 Parthians, and gotten an army of his own, he would make war against
@@ -1085,7 +1085,7 @@ preserved to this day; and we know that it was Simon who bestowed so
 much zeal about the burial of Jonathan, and the building of these
 monuments for his relations. Now Jonathan died when he had been high
 priest four years <span
-id="EndNote Ant 13.13a"></span>[(13)](#EndNote%20Ant%2013.13b) and had
+id="EndNote Ant 13.13a"></span>[(13)](#EndNote%20Ant%2013.13b.md) and had
 been also the governor of his nation. And these were the circumstances
 that concerned his death.
 
@@ -1094,7 +1094,7 @@ first year of his high priesthood set his people free from their slavery
 under the Macedonians, and permitted them to pay tribute to them no
 longer; which liberty and freedom from tribute they obtained after a
 hundred and seventy years <span
-id="EndNote Ant 13.14a"></span>[(14)](#EndNote%20Ant%2013.13b) of the
+id="EndNote Ant 13.14a"></span>[(14)](#EndNote%20Ant%2013.13b.md) of the
 kingdom of the Assyrians, which was after Seleucus, who was called
 Nicator, got the dominion over Syria. Now the affection of the multitude
 towards Simon was so great, that in their contracts one with another,
@@ -1129,12 +1129,12 @@ AGAINST TRYPHO, AND A LITTLE AFTERWARD, AGAINST CENDEBEUS, THE GENERAL
 OF ANTIOCHUS'S ARMY; AS ALSO HOW SIMON WAS MURDERED BY HIS SON-IN-LAW
 PTOLEMY, AND THAT BY TREACHERY.**
 
-1\. <span id="EndNote Ant 13.15a"></span>[(15)](#EndNote%20Ant%2013.15b)
+1\. <span id="EndNote Ant 13.15a"></span>[(15)](#EndNote%20Ant%2013.15b.md)
 Now a little while after Demetrius had been carried into captivity,
 Trypho his governor destroyed Antiochus, <span
-id="EndNote Ant 13.16a"></span>[(16)](#EndNote%20Ant%2013.16b) the son
+id="EndNote Ant 13.16a"></span>[(16)](#EndNote%20Ant%2013.16b.md) the son
 of Alexander, who was also called *The God*, <span
-id="EndNote Ant 13.17a"></span>[(17)](#EndNote%20Ant%2013.17b) and this
+id="EndNote Ant 13.17a"></span>[(17)](#EndNote%20Ant%2013.17b.md) and this
 when he had reigned four years, though he gave it out that he died under
 the hands of the surgeons. He then sent his friends, and those that were
 most intimate with him, to the soldiers, and promised that he would give
@@ -1194,7 +1194,7 @@ Ptolemy, who caught also his wife, and two of his sons, and kept them in
 bonds. He also sent some to kill John the third son, whose name was
 Hyrcanus; but the young man perceiving them coming, he avoided the
 danger he was in from them, <span
-id="EndNote Ant 13.18a"></span>[(18)](#EndNote%20Ant%2013.18b) and made
+id="EndNote Ant 13.18a"></span>[(18)](#EndNote%20Ant%2013.18b.md) and made
 haste into the city \[Jerusalem\], as relying on the good-will of the
 multitude, because of the benefits they had received from his father,
 and because of the hatred the same multitude bare to Ptolemy; so that
@@ -1233,7 +1233,7 @@ suffered, and was thereby overcome. And as the siege was drawn out into
 length by this means, that year on which the Jews used to rest came on;
 for the Jews observe this rest every seventh year, as they do every
 seventh day; so that Ptolemy being for this cause released from the war,
-<span id="EndNote Ant 13.19a"></span>[(19)](#EndNote%20Ant%2013.19b) he
+<span id="EndNote Ant 13.19a"></span>[(19)](#EndNote%20Ant%2013.19b.md) he
 slew the brethren of Hyrcanus, and his mother; and when he had so done,
 he fled to Zeno, who was called Cotylas, who was then the tyrant of the
 city Philadelphia.
@@ -1242,14 +1242,14 @@ city Philadelphia.
 brought upon him, he invaded Judea in the fourth years' of his reign,
 and the first year of the principality of Hyrcanus, in the hundred and
 sixty-second olympiad. <span
-id="EndNote Ant 13.20a"></span>[(20)](#EndNote%20Ant%2013.20b) And when
+id="EndNote Ant 13.20a"></span>[(20)](#EndNote%20Ant%2013.20b.md) And when
 he had burnt the country, he shut up Hyrcanus in the city, which he
 encompassed round with seven encampments; but did just nothing at the
 first, because of the strength of the walls, and because of the valor of
 the besieged, although they were once in want of water, which yet they
 were delivered from by a large shower of rain, which fell at the setting
 of the Pleiades <span
-id="EndNote Ant 13.21a"></span>[(21)](#EndNote%20Ant%2013.21b) However,
+id="EndNote Ant 13.21a"></span>[(21)](#EndNote%20Ant%2013.21b.md) However,
 about the north part of the wall, where it happened the city was upon a
 level with the outward ground, the king raised a hundred towers of three
 stories high, and placed bodies of soldiers upon them; and as he made
@@ -1272,7 +1272,7 @@ Antiochus, and desired there might be a truce for seven days, because of
 the festival, be gave way to this piety towards God, and made that truce
 accordingly. And besides that, he sent in a magnificent sacrifice, bulls
 with their horns gilded, <span
-id="EndNote Ant 13.22a"></span>[(22)](#EndNote%20Ant%2013.22b) with all
+id="EndNote Ant 13.22a"></span>[(22)](#EndNote%20Ant%2013.22b.md) with all
 sorts of sweet spices, and with cups of gold and silver. So those that
 were at the gates received the sacrifices from those that brought them,
 and led them to the temple, Antiochus the mean while feasting his army,
@@ -1289,7 +1289,7 @@ he understood how religious he was towards the Deity, he sent an
 embassage to him, and desired that he would restore the settlements they
 received from their forefathers. So he rejected the counsel of those
 that would have him utterly destroy the nation, <span
-id="EndNote Ant 13.23a"></span>[(23)](#EndNote%20Ant%2013.23b) by reason
+id="EndNote Ant 13.23a"></span>[(23)](#EndNote%20Ant%2013.23b.md) by reason
 of their way of living, which was to others unsociable, and did not
 regard what they said. But being persuaded that all they did was out of
 a religious mind, he answered the ambassadors, that if the besieged
@@ -1323,7 +1323,7 @@ And truly he did not speak falsely in saying so; for that festival,
 which we call *Pentecost*, did then fall out to be the next day to the
 Sabbath. Nor is it lawful for us to journey, either on the Sabbath day,
 or on a festival day <span
-id="EndNote Ant 13.24a"></span>[(24)](#EndNote%20Ant%2013.24b) But when
+id="EndNote Ant 13.24a"></span>[(24)](#EndNote%20Ant%2013.24b.md) But when
 Antiochus joined battle with Arsaces, the king of Parthin, he lost a
 great part of his army, and was himself slain; and his brother Demetrius
 succeeded in the kingdom of Syria, by the permission of Arsaces, who
@@ -1352,7 +1352,7 @@ Idumeans; and permitted them to stay in that country, if they would
 circumcise their genitals, and make use of the laws of the Jews; and
 they were so desirous of living in the country of their forefathers,
 that they submitted to the use of circumcision, <span
-id="EndNote Ant 13.25a"></span>[(25)](#EndNote%20Ant%2013.25b) and of
+id="EndNote Ant 13.25a"></span>[(25)](#EndNote%20Ant%2013.25b.md) and of
 the rest of the Jewish ways of living; at which time therefore this
 befell them, that they were hereafter no other than Jews.
 
@@ -1365,7 +1365,7 @@ day before the Ides of February, in the senate-house, when Lucius
 Manlius, the son of Lucius, of the Mentine tribe, and Caius Sempronius,
 the son of Caius, of the Falernian tribe, were present. The occasion
 was, that the ambassadors sent by the people of the Jews <span
-id="EndNote Ant 13.26a"></span>[(26)](#EndNote%20Ant%2013.26b) Simon,
+id="EndNote Ant 13.26a"></span>[(26)](#EndNote%20Ant%2013.26b.md) Simon,
 the son of Dositheus, and Apollonius, the son of Alexander, and
 Diodorus, the son of Jason, who were good and virtuous men, had somewhat
 to propose about that league of friendship and mutual assistance which
@@ -1429,7 +1429,7 @@ related elsewhere. But Antiochus Cyzicenus coming into Syria, continued
 many years at war with his brother. Now Hyrcanus lived all this while in
 peace; for after the death of Antlochus, he revolted from the
 Macedonians, <span
-id="EndNote Ant 13.27a"></span>[(27)](#EndNote%20Ant%2013.27b) nor did
+id="EndNote Ant 13.27a"></span>[(27)](#EndNote%20Ant%2013.27b.md) nor did
 he any longer pay them the least regard, either as their subject or
 their friend; but his affairs were in a very improving and flourishing
 condition in the times of Alexander Zebina, and especially under these
@@ -1502,7 +1502,7 @@ were in chief favor with the queen." These are the words of Strabo.
 5\. However, this prosperous state of affairs moved the Jews to envy
 Hyrcanus; but they that were the worst disposed to him were the
 Pharisees, <span
-id="EndNote Ant 13.28a"></span>[(28)](#EndNote%20Ant%2013.28b) who were
+id="EndNote Ant 13.28a"></span>[(28)](#EndNote%20Ant%2013.28b.md) who were
 one of the sects of the Jews, as we have informed you already. These
 have so great a power over the multitude, that when they say any thing
 against the king, or against the high priest, they are presently
@@ -1523,7 +1523,7 @@ government of the people," And when he desired to know for what cause he
 ought to lay down the high priesthood, the other replied, "We have heard
 it from old men, that thy mother had been a captive under the reign of
 Antiochus Epiphanes. <span
-id="EndNote Ant 13.29a"></span>[(29)](#EndNote%20Ant%2013.29b) "This
+id="EndNote Ant 13.29a"></span>[(29)](#EndNote%20Ant%2013.29b.md) "This
 story was false, and Hyrcanus was provoked against him; and all the
 Pharisees had a very great indignation against him.
 
@@ -1560,7 +1560,7 @@ treated accurately in the second book of Jewish affairs.
 7\. But when Hyrcanus had put an end to this sedition, he after that
 lived happily, and administered the government in the best manner for
 thirty-one years, and then died, <span
-id="EndNote Ant 13.30a"></span>[(30)](#EndNote%20Ant%2013.30b) leaving
+id="EndNote Ant 13.30a"></span>[(30)](#EndNote%20Ant%2013.30b.md) leaving
 behind him five sons. He was esteemed by God worthy of three of the
 greatest privileges, - the government of his nation, the dignity of the
 high priesthood, and prophecy; for God was with him, and enabled him to
@@ -1630,7 +1630,7 @@ stronger than envy and calumny, and that nothing does more certainly
 divide the good-will and natural affections of men than those passions.
 But here one may take occasion to wonder at one Judas, who was of the
 sect of the Essens, <span
-id="EndNote Ant 13.31a"></span>[(31)](#EndNote%20Ant%2013.31b) and who
+id="EndNote Ant 13.31a"></span>[(31)](#EndNote%20Ant%2013.31b.md) and who
 never missed the truth in his predictions; for this man, when he saw
 Antigonus passing by the temple, cried out to his companions and
 friends, who abode with him as his scholars, in order to learn the art
@@ -1694,7 +1694,7 @@ kept them in bonds, as we have said already,) and made Alexander Janneus
 king, who was the superior in age and in moderation. This child happened
 to be hated by his father as soon as he was born, and could never be
 permitted to come into his father's sight till he died. <span
-id="EndNote Ant 13.32a"></span>[(32)](#EndNote%20Ant%2013.32b) The
+id="EndNote Ant 13.32a"></span>[(32)](#EndNote%20Ant%2013.32b.md) The
 occasion of which hatred is thus reported: when Hyrcanus chiefly loved
 the two eldest of his sons, Antigonus and Aristobutus, God appeared to
 him in his sleep, of whom he inquired which of his sons should be his
@@ -1772,7 +1772,7 @@ immediately with the rest to lay Judea waste; and when Alexander
 understood this to be Ptolemy's intention, he also got together about
 fifty thousand soldiers out of his own country; nay, as some writers
 have said, eighty thousand <span
-id="EndNote Ant 13.33a"></span>[(33)](#EndNote%20Ant%2013.33b) He then
+id="EndNote Ant 13.33a"></span>[(33)](#EndNote%20Ant%2013.33b.md) He then
 took his army, and went to meet Ptolemy; but Ptolemy fell upon Asochis,
 a city of Galilee, and took it by force on the sabbath day, and there he
 took about ten thousand slaves, and a great deal of other prey.
@@ -1836,7 +1836,7 @@ Egyptians; but she immediately marched against him, with a fleet at sea
 and an army of foot on land, and made Chelcias and Ananias the Jews
 generals of her whole army, while she sent the greatest part of her
 riches, her grandchildren, and her testament, to the people of Cos <span
-id="EndNote Ant 13.34a"></span>[(34)](#EndNote%20Ant%2013.34b) Cleopatra
+id="EndNote Ant 13.34a"></span>[(34)](#EndNote%20Ant%2013.34b.md) Cleopatra
 also ordered her son Alexander to sail with a great fleet to Phoenicia;
 and when that country had revolted, she came to Ptolemais; and because
 the people of Ptolemais did not receive her, she besieged the city; but
@@ -1909,10 +1909,10 @@ utterly overthrown their city, he returned to Jerusalem, having spent a
 year in that siege.
 
 4\. About this very time Antiochus, who was called Grypus, died <span
-id="EndNote Ant 13.35a"></span>[(35)](#EndNote%20Ant%2013.35b) His death
+id="EndNote Ant 13.35a"></span>[(35)](#EndNote%20Ant%2013.35b.md) His death
 was caused by Heracleon's treachery, when he had lived forty-five years,
 and had reigned twenty-nine. <span
-id="EndNote Ant 13.36a"></span>[(36)](#EndNote%20Ant%2013.36b) His son
+id="EndNote Ant 13.36a"></span>[(36)](#EndNote%20Ant%2013.36b.md) His son
 Seleucus succeeded him in the kingdom, and made war with Antiochus, his
 father's brother, who was called Antiochus Cyzicenus, and beat him, and
 took him prisoner, and slew him. But after a while Antiochus, the son of
@@ -1923,7 +1923,7 @@ again, and levied money upon them; but the people of Mopsuestin had
 indignation at what he did, and burnt down his palace, and slew him,
 together with his friends. But when Antiochus, the son of Cyzicenus, was
 king of Syria, Antiochus, <span
-id="EndNote Ant 13.37a"></span>[(37)](#EndNote%20Ant%2013.37b) the
+id="EndNote Ant 13.37a"></span>[(37)](#EndNote%20Ant%2013.37b.md) the
 brother of Seleucus, made war upon him, and was overcome, and destroyed,
 he and his army. After him, his brother Philip put on the diadem, and
 reigned over some part of Syria; but Ptolemy Lathyrus sent for his
@@ -1931,7 +1931,7 @@ fourth brother Demetrius, who was called Eucerus, from Cnidus, and made
 him king of Damascus. Both these brothers did Antiochus vehemently
 oppose, but presently died; for when he was come as an auxiliary to
 Laodice, queen of the Gileadites, <span
-id="EndNote Ant 13.38a"></span>[(38)](#EndNote%20Ant%2013.38b) when she
+id="EndNote Ant 13.38a"></span>[(38)](#EndNote%20Ant%2013.38b.md) when she
 was making war against the Parthians, and he was fighting courageously,
 he fell, while Demetrius and Philip governed Syria, as hath been
 elsewhere related.
@@ -1952,7 +1952,7 @@ foreigners of Pisidie and Cilicia; for as to the Syrians, he was at war
 with them, and so made no use of them. He also overcame the Arabians,
 such as the Moabites and Gileadites, and made them bring tribute.
 Moreover, he demolished Amathus, while Theodorus <span
-id="EndNote Ant 13.39a"></span>[(39)](#EndNote%20Ant%2013.39b) durst not
+id="EndNote Ant 13.39a"></span>[(39)](#EndNote%20Ant%2013.39b.md) durst not
 fight with him; but as he had joined battle with Obedas, king of the
 Arabians, and fell into an ambush in the places that were rugged and
 difficult to be traveled over, he was thrown down into a deep valley, by
@@ -2012,7 +2012,7 @@ against him, as they had done ten thousand other things that tended to
 affront and reproach him. However, this barbarity seems to have been
 without any necessity, on which account he bare the name of a Thracian
 among the Jews <span
-id="EndNote Ant 13.40a"></span>[(40)](#EndNote%20Ant%2013.40b) whereupon
+id="EndNote Ant 13.40a"></span>[(40)](#EndNote%20Ant%2013.40b.md) whereupon
 the soldiers that had fought against him, being about eight thousand in
 number, ran away by night, and continued fugitives all the time that
 Alexander lived; who being now freed from any further disturbance from
@@ -2042,7 +2042,7 @@ RETURNED TO JERUSALEM, AND AFTER A SICKNESS OF THREE YEARS DIED; AND
 WHAT COUNSEL HE GAVE TO ALEXANDRA.**
 
 1\. AFTER this, Antiochus, who was called Dionysus, <span
-id="EndNote Ant 13.41a"></span>[(41)](#EndNote%20Ant%2013.41b) and was
+id="EndNote Ant 13.41a"></span>[(41)](#EndNote%20Ant%2013.41b.md) and was
 Philip's brother, aspired to the dominion, and carne to Damascus, and
 got the power into his hands, and there he reigned; but as he was making
 war against the Arabians, his brother Philip heard of it, and came to
@@ -2073,7 +2073,7 @@ his army fled to the village Cana, where the greatest part of them
 perished by famine.
 
 2\. After him <span
-id="EndNote Ant 13.42a"></span>[(42)](#EndNote%20Ant%2013.42b) Arems
+id="EndNote Ant 13.42a"></span>[(42)](#EndNote%20Ant%2013.42b.md) Arems
 reigned over Celesyria, being called to the government by those that
 held Damascus, by reason of the hatred they bare to Ptolemy Menneus. He
 also made thence an expedition against Judea, and beat Alexander in
@@ -2101,7 +2101,7 @@ Seleucia and Gabala; in the country of Moab, Heshbon, and Medaba, Lemba,
 and Oronas, Gelithon, Zorn, the valley of the Cilices, and Pollo; which
 last they utterly destroyed, because its inhabitants would not bear to
 change their religious rites for those peculiar to the Jews. <span
-id="EndNote Ant 13.43a"></span>[(43)](#EndNote%20Ant%2013.43b) The Jews
+id="EndNote Ant 13.43a"></span>[(43)](#EndNote%20Ant%2013.43b.md) The Jews
 also possessed others of the principal cities of Syria, which had been
 destroyed.
 
@@ -2139,7 +2139,7 @@ but say this to them, I shall have the honor of a more glorious Funeral
 from them than thou couldst have made for me; and when it is in their
 power to abuse my dead body, they will do it no injury at all, and thou
 wilt rule in safety." <span
-id="EndNote Ant 13.44a"></span>[(44)](#EndNote%20Ant%2013.44b) So when
+id="EndNote Ant 13.44a"></span>[(44)](#EndNote%20Ant%2013.44b.md) So when
 he had given his wife this advice, he died, after he had reigned
 twenty-seven years, and lived fifty years within one.
 
@@ -2229,7 +2229,7 @@ nothing considerable there, and so returned home.
 
 4\. About this time news was brought that Tigranes, the king of Armenia,
 had made an irruption into Syria with five hundred thousand soldiers,
-<span id="EndNote Ant 13.45a"></span>[(45)](#EndNote%20Ant%2013.45b) and
+<span id="EndNote Ant 13.45a"></span>[(45)](#EndNote%20Ant%2013.45b.md) and
 was coming against Judea. This news, as may well be supposed, terrified
 the queen and the nation. Accordingly, they sent him many and very
 valuable presents, as also ambassadors, and that as he was besieging
@@ -2267,7 +2267,7 @@ principally afraid of was this, that he would inflict punishment upon
 them for the mad treatment his house had had from them. So they resolved
 to take his wife and children into custody, and keep them in the
 fortress that was over the temple. <span
-id="EndNote Ant 13.46a"></span>[(46)](#EndNote%20Ant%2013.46b) Now there
+id="EndNote Ant 13.46a"></span>[(46)](#EndNote%20Ant%2013.46b.md) Now there
 was a mighty conflux of people that came to Aristobulus from all parts,
 insomuch that he had a kind of royal attendants about him; for in a
 little more than fifteen days he got twenty-two strong places, which
@@ -2313,7 +2313,7 @@ is the conclusion of the affairs of, Alexandra.
 
 ENDNOTE
 
-<span id="EndNote Ant 13.1b"></span>[(1)](#EndNote%20Ant%2013.1a) This
+<span id="EndNote Ant 13.1b"></span>[(1)](#EndNote%20Ant%2013.1a.md) This
 Alexander Bala, who certainly pretended to be the son of Antiochus
 Epiphanes, and was owned for such by the Jews and Romans, and many
 others, and yet is by several historians deemed to be a counterfeit, and
@@ -2328,7 +2328,7 @@ Egypt also, Philometor, soon gave him his daughter in marriage, which he
 would hardly have done, had he believed him to be a counterfeit, and of
 so very mean a birth as the later historians pretend.
 
-<span id="EndNote Ant 13.2b"></span>[(2)](#EndNote%20Ant%2013.2a) Since
+<span id="EndNote Ant 13.2b"></span>[(2)](#EndNote%20Ant%2013.2a.md) Since
 Jonathan plainly did not put on the pontifical robes till seven or eight
 years after the death of his brother Judas, or not till the feast of
 tabernacles, in the 160th of the Seleucidm, 1 Macc. 10;21, Petitus's
@@ -2339,18 +2339,18 @@ This would tolerably well agree with the date of the Maccabees, and with
 Josephus's own exact chronology at the end of the twentieth book of
 these Antiquities, which the present text cannot be made to do.
 
-<span id="EndNote Ant 13.3b"></span>[(3)](#EndNote%20Ant%2013.3a) Take
+<span id="EndNote Ant 13.3b"></span>[(3)](#EndNote%20Ant%2013.3a.md) Take
 Grotius's note here: "The Jews," says he, "were wont to present crowns
 to the kings \[of Syria\]; afterwards that gold which was paid instead
 of those crowns, or which was expended in making them, was called the
 crown gold and crown tax." On 1 Macc. 10:29.
 
-<span id="EndNote Ant 13.4b"></span>[(4)](#EndNote%20Ant%2013.4a) Since
+<span id="EndNote Ant 13.4b"></span>[(4)](#EndNote%20Ant%2013.4a.md) Since
 the rest of the historians now extant give this Demetrius thirteen
 years, and Josephus only eleven years, Dean Prideaux does not amiss in
 ascribing to him the mean number twelve.
 
-<span id="EndNote Ant 13.5b"></span>[(5)](#EndNote%20Ant%2013.5a) It
+<span id="EndNote Ant 13.5b"></span>[(5)](#EndNote%20Ant%2013.5a.md) It
 seems to me contrary to the opinion of Josephus, and of the moderns,
 both Jews and Christians, that this prophecy of Isaiah, 19:19, etc., "In
 that day there shall be an altar to the Lord in the midst of the land of
@@ -2390,7 +2390,7 @@ of the Hebrew; but it being in support of his own opinion about this
 temple, he durst not see it; and indeed he reasons here in the most
 injudicious manner possible. See him at the year 149.
 
-<span id="EndNote Ant 13.6b"></span>[(6)](#EndNote%20Ant%2013.6a) A very
+<span id="EndNote Ant 13.6b"></span>[(6)](#EndNote%20Ant%2013.6a.md) A very
 unfair disputation this! while the Jewish disputant, knowing that he
 could not properly prove out of the Pentateuch, that "the place which
 the Lord their God shall choose to place his name there," so often
@@ -2414,7 +2414,7 @@ side; but the firstraying answered to his name, and overcome the
 Samaritans, there was necessity for any other defender of the Jerusalem
 temple.
 
-<span id="EndNote Ant 13.7b"></span>[(7)](#EndNote%20Ant%2013.7a) Of the
+<span id="EndNote Ant 13.7b"></span>[(7)](#EndNote%20Ant%2013.7a.md) Of the
 several Apollonius about these ages, see Dean Prideaux at the year 148.
 This Apollonius Daus was, by his account, the son of that Apollonius who
 had been made governor of Celesyria and Phoenicia by Seleueus
@@ -2422,18 +2422,18 @@ Philopater, and was himself a confidant of his son Demetrius the father,
 and restored to his father's government by him, but afterwards revolted
 from him to Alexander; but not to Demetrius the son, as he supposes.
 
-<span id="EndNote Ant 13.8b"></span>[(8)](#EndNote%20Ant%2013.8a) Dr.
+<span id="EndNote Ant 13.8b"></span>[(8)](#EndNote%20Ant%2013.8a.md) Dr.
 Hudson here observes, that the Phoenicians and Romans used to reward
 such as had deserved well of them, by presenting to them a golden
 button. See ch. 5. sect. 4.
 
-<span id="EndNote Ant 13.9b"></span>[(9)](#EndNote%20Ant%2013.9a) This
+<span id="EndNote Ant 13.9b"></span>[(9)](#EndNote%20Ant%2013.9a.md) This
 name, Demetrius Nicator, or Demetrius the conqueror, is so written on
 his coins still extant, as Hudson and Spanheim inform us; the latter of
 whom gives us here the entire inscription, "King Demetrius the God,
 Philadelphus, Nicator."
 
-<span id="EndNote Ant 13.10b"></span>[(10)](#EndNote%20Ant%2013.10a)
+<span id="EndNote Ant 13.10b"></span>[(10)](#EndNote%20Ant%2013.10a.md)
 This clause is otherwise rendered in the First Book of Maccabees, 12:9,
 "For that we have the holy books of Scripture in our bands to comfort
 us." The Hebrew original being lost, we cannot certainly judge which was
@@ -2442,7 +2442,7 @@ the Jews' meaning, that they were satisfied out of their Bible that the
 Jews and Lacedemonians were of kin, that part of their Bible is now
 lost, for we find no such assertion in our present copies.
 
-<span id="EndNote Ant 13.11b"></span>[(11)](#EndNote%20Ant%2013.11a)
+<span id="EndNote Ant 13.11b"></span>[(11)](#EndNote%20Ant%2013.11a.md)
 Those that suppose Josephus to contradict himself in his three several
 accounts of the notions of the Pharisees, this here, and that earlier
 one, which is the largest, Of the War B. II. ch. 8. sect. 14, and that
@@ -2466,7 +2466,7 @@ the freedom of human actions, and yet strongly believed the powerful
 interposition of Divine Providence. See concerning this matter a
 remarkable clause, Antiq. B. XVI. ch. 11. sect. 7.
 
-<span id="EndNote Ant 13.12b"></span>[(12)](#EndNote%20Ant%2013.12a)
+<span id="EndNote Ant 13.12b"></span>[(12)](#EndNote%20Ant%2013.12a.md)
 This king, who was of the famous race of Arsaces, is bethused to call
 them; but by the elder author of the First Maccahere, and 1 Macc. 14:2,
 called by the family name Arsaces; was, the king of the Persians and
@@ -2475,7 +2475,7 @@ Phraates. He is language of the Eastern nations. See Authent. Rec. Part
 II. also called by Josephus the king of the Parthians, as the Greeks p.
 1108.
 
-<span id="EndNote Ant 13.13b"></span>[(13)](#EndNote%20Ant%2013.13a)
+<span id="EndNote Ant 13.13b"></span>[(13)](#EndNote%20Ant%2013.13a.md)
 There is some error in the copies here, when no more than four years are
 ascribed to the high priesthood of Jonathan. We know by Josephus's last
 Jewish chronology, Antiq. B. XX. ch. 10., that there was an interval of
@@ -2489,7 +2489,7 @@ two seven years will make up fourteen years, which I suppose was
 Josephus's own number in this place, instead of the four in our present
 copies.
 
-<span id="EndNote Ant 13.14b"></span>[(14)](#EndNote%20Ant%2013.14a)
+<span id="EndNote Ant 13.14b"></span>[(14)](#EndNote%20Ant%2013.14a.md)
 These one hundred and seventy years of the Assyrians mean no more, as
 Josephus explains himself here, than from the sara of Seleucus, which as
 it is known to have began on the 312th year before the Christian sara,
@@ -2504,7 +2504,7 @@ B. V. ch. 9. sect. 4, where the Philistines themselves, at the very
 south limit of Syria, in its utmost extent, are called Assyrians by
 Josephus as Spanheim observes.
 
-<span id="EndNote Ant 13.15b"></span>[(15)](#EndNote%20Ant%2013.15a) It
+<span id="EndNote Ant 13.15b"></span>[(15)](#EndNote%20Ant%2013.15a.md) It
 must here be diligently noted, that Josephus's copy of the First Book of
 Maccabees, which he had so carefully followed, and faithfully abridged,
 as far as the fiftieth verse of the thirteenth chapter, seems there to
@@ -2538,18 +2538,18 @@ Maccabees wanted these chapters, than that his own copies are here
 imperfect, is this, that all their contents are not here omitted, though
 much the greatest part be.
 
-<span id="EndNote Ant 13.16b"></span>[(16)](#EndNote%20Ant%2013.16a) How
+<span id="EndNote Ant 13.16b"></span>[(16)](#EndNote%20Ant%2013.16a.md) How
 Trypho killed this Antiochus the epitome of Livy informs us, ch. 53,
 viz. that he corrupted his physicians or surgeons, who falsely
 pretending to the people that he was perishing with the stone, as they
 cut him for it, killed him, which exactly agrees with Josephus.
 
-<span id="EndNote Ant 13.17b"></span>[(17)](#EndNote%20Ant%2013.17a)
+<span id="EndNote Ant 13.17b"></span>[(17)](#EndNote%20Ant%2013.17a.md)
 That this Antiochus, the son of Alexader Balas, was called "The God," is
 evident from his coins, which Spanheim assures us bear this inscription,
 "King Antiochus the God, Epiphanes the Victorious."
 
-<span id="EndNote Ant 13.18b"></span>[(18)](#EndNote%20Ant%2013.18a)
+<span id="EndNote Ant 13.18b"></span>[(18)](#EndNote%20Ant%2013.18a.md)
 Here Josephus begins to follow and to abridge the next sacred Hebrew
 book, styled in the end of the First Book of Maccabees, "The Chronicle
 of John \[Hyrcanus's\] high priesthood;" but in some of the Greek
@@ -2560,7 +2560,7 @@ and to be utterly lost. See Sixtus Senensis's account of it, of its many
 Hebraisms, and its great agreement with Josephus's abridgement, in the
 Authent. Rec. Part I. p. 206, 207, 208.
 
-<span id="EndNote Ant 13.19b"></span>[(19)](#EndNote%20Ant%2013.19a)
+<span id="EndNote Ant 13.19b"></span>[(19)](#EndNote%20Ant%2013.19a.md)
 Hence we learn, that in the days of this excellent high priest, John
 Hyrcanus, the observation of the Sabbatic year, as Josephus supposed,
 required a rest from war, as did that of the weekly sabbath from work; I
@@ -2576,14 +2576,14 @@ Sabbath day, even in the defense of their own lives, till the Asamoneans
 or Maccabees decreed so to do, 1 Macc. 2:32-41; Antiq. B. XII. ch. 6.
 sect. 2.
 
-<span id="EndNote Ant 13.20b"></span>[(20)](#EndNote%20Ant%2013.20a)
+<span id="EndNote Ant 13.20b"></span>[(20)](#EndNote%20Ant%2013.20a.md)
 Josephus's copies, both Greek and Latin, have here a gross mistake, when
 they say that this first year of John Hyrcanus, which we have just now
 seen to have been a Sabbatic year, was in the 162nd olympiad, whereas it
 was for certain the second year of the 161st. See the like before, B.
 XII. ch. 7. sect. 6.
 
-<span id="EndNote Ant 13.21b"></span>[(21)](#EndNote%20Ant%2013.21a)
+<span id="EndNote Ant 13.21b"></span>[(21)](#EndNote%20Ant%2013.21a.md)
 This heliacal setting of the Pleiades, or seven stars, was, in the days
 of Hyrcanus and Josephus, early in the spring, about February, the time
 of the latter rain in Judea; and this, so far as I remember, is the only
@@ -2593,24 +2593,24 @@ accustomed to astronomical observations, any further than for the uses
 of their calendar, and utterly forbidden those astrological uses which
 the heathens commonly made of them.
 
-<span id="EndNote Ant 13.22b"></span>[(22)](#EndNote%20Ant%2013.22a) Dr.
+<span id="EndNote Ant 13.22b"></span>[(22)](#EndNote%20Ant%2013.22a.md) Dr.
 Hudson tells us here, that this custom of gilding the horns of those
 oxen that were to be sacrificed is a known thing both in the poets and
 orators.
 
-<span id="EndNote Ant 13.23b"></span>[(23)](#EndNote%20Ant%2013.23a)
+<span id="EndNote Ant 13.23b"></span>[(23)](#EndNote%20Ant%2013.23a.md)
 This account in Josephus, that the present Antiochus was persuaded,
 though in vain, not to make peace with the Jews, but to cut them off
 utterly, is fully confirmed by Diodorus Siculus, in Photiua's extracts
 out of his 34th Book.
 
-<span id="EndNote Ant 13.24b"></span>[(24)](#EndNote%20Ant%2013.24a) The
+<span id="EndNote Ant 13.24b"></span>[(24)](#EndNote%20Ant%2013.24a.md) The
 Jews were not to march or journey on the sabbath, or on such a great
 festival as was equivalent to the sabbath, any farther than a sabbath
 day's journey, or two thousand cubits, see the note on Antiq. B. XX. ch.
 8. sect. 6.
 
-<span id="EndNote Ant 13.25b"></span>[(25)](#EndNote%20Ant%2013.25a)
+<span id="EndNote Ant 13.25b"></span>[(25)](#EndNote%20Ant%2013.25a.md)
 This account of the Idumeans admitting circumcision, and the entire
 Jewish law, from this time, or from the days of Hyrcanus, is confirmed
 by their entire history afterward. See Antiq. B. XIV. ch. 8. sect. 1; B.
@@ -2639,19 +2639,19 @@ was the peculiar inheritance of the worshippers of the true God without
 idolatry, as the reader may learn from Reland, Palestine, Part I. p.
 154, 305; and from Prideaux, at the years 140 and 165.
 
-<span id="EndNote Ant 13.26b"></span>[(26)](#EndNote%20Ant%2013.26a) In
+<span id="EndNote Ant 13.26b"></span>[(26)](#EndNote%20Ant%2013.26a.md) In
 this decree of the Roman senate, it seems that these ambassadors were
 sent from the "people of the Jews," as well as from their prince or high
 priest, John Hyrcanus.
 
-<span id="EndNote Ant 13.27b"></span>[(27)](#EndNote%20Ant%2013.27a)
+<span id="EndNote Ant 13.27b"></span>[(27)](#EndNote%20Ant%2013.27a.md)
 Dean Prideaux takes notice at the year 130, that Justin, in agreement
 with Josephus, says, "The power of the Jews was now grown so great, that
 after this Antiochus they would not bear any Macedonian king over them;
 and that they set up a government of their own, and infested Syria with
 great wars."
 
-<span id="EndNote Ant 13.28b"></span>[(28)](#EndNote%20Ant%2013.28a) The
+<span id="EndNote Ant 13.28b"></span>[(28)](#EndNote%20Ant%2013.28a.md) The
 original of the Sadducees, as a considerable party among the Jews, being
 contained in this and the two following sections, take Dean Prideaux's
 note upon this their first public appearance, which I suppose to be
@@ -2674,7 +2674,7 @@ later ages; for Dr. Hudson assures us that David Gantz, in his
 Chronology, S. Pr. p. 77, in Vorstius's version, relates that Hyrcanus's
 mother was taken captive in Mount Modinth. See ch. 13. sect. 5.
 
-<span id="EndNote Ant 13.30b"></span>[(30)](#EndNote%20Ant%2013.30a)
+<span id="EndNote Ant 13.30b"></span>[(30)](#EndNote%20Ant%2013.30a.md)
 Here ends the high priesthood, and the life of this excellent person
 John Hyrcanus, and together with him the holy theocracy, or Divine
 government of the Jewish nation, and its concomitant oracle by Urim. Now
@@ -2702,7 +2702,7 @@ well suppose that the Divine Shechinah was removed into Egypt, and that
 the worshippers at the temple of Onias were better men than those at the
 temple of Jerusalem.
 
-<span id="EndNote Ant 13.31b"></span>[(31)](#EndNote%20Ant%2013.31a)
+<span id="EndNote Ant 13.31b"></span>[(31)](#EndNote%20Ant%2013.31a.md)
 Hence we learn that the Essens pretended to have ruled whereby men might
 foretell things to come, and that this Judas the Essen taught those
 rules to his scholars; but whether their pretense were of an
@@ -2711,7 +2711,7 @@ were utterly forbidden such arts, is no way probable, or to any Bath
 Col, spoken of by the later Rabbins, or otherwise, I cannot tell. See Of
 the War, B. II. ch. 8. sect. 12.
 
-<span id="EndNote Ant 13.32b"></span>[(32)](#EndNote%20Ant%2013.32a) The
+<span id="EndNote Ant 13.32b"></span>[(32)](#EndNote%20Ant%2013.32a.md) The
 reason why Hyrcanus suffered not this son of his whom he did not love to
 come into Judea, but ordered him to be brought up in Galilee, is
 suggested by Dr. Hudson, that Galilee was not esteemed so happy and well
@@ -2719,7 +2719,7 @@ cultivated a country as Judea, Matthew 26:73; John 7:52; Acts 2:7,
 although another obvious reason occurs also, that he was out of his
 sight in Galilee than he would have been in Judea.
 
-<span id="EndNote Ant 13.33b"></span>[(33)](#EndNote%20Ant%2013.33a)
+<span id="EndNote Ant 13.33b"></span>[(33)](#EndNote%20Ant%2013.33a.md)
 From these, and other occasional expressions, dropped by Josephus, we
 may learn, that where the sacred hooks of the Jews were deficient, he
 had several other histories then extant, (but now most of them lost,)
@@ -2729,18 +2729,18 @@ these accounts of Josephus, though when we do meet with authentic
 fragments of such original records, they almost always confirm his
 history.
 
-<span id="EndNote Ant 13.34b"></span>[(34)](#EndNote%20Ant%2013.34a)
+<span id="EndNote Ant 13.34b"></span>[(34)](#EndNote%20Ant%2013.34a.md)
 This city, or island, Cos, is not that remote island in the Aegean Sea,
 famous for the birth of the great Hippocrates, but a city or island of
 the same name adjoining to Egypt, mentioned both by Stephanus and
 Ptolemy, as Dr. Mizon informs us. Of which Cos, and the treasures there
 laid up by Cleopatra and the Jews, see Antiq. B. XIV. ch. 7, sect. 2.
 
-<span id="EndNote Ant 13.35b"></span>[(35)](#EndNote%20Ant%2013.35a)
+<span id="EndNote Ant 13.35b"></span>[(35)](#EndNote%20Ant%2013.35a.md)
 This account of the death of Antiochus Grypus is confirmed by Appion,
 Syriac. p. 132, here cited by Spanheim.
 
-<span id="EndNote Ant 13.36b"></span>[(36)](#EndNote%20Ant%2013.36a)
+<span id="EndNote Ant 13.36b"></span>[(36)](#EndNote%20Ant%2013.36a.md)
 Porphyry says that this Antiochus Grypus reigned but twenty-six years,
 as Dr. Hudson observes. The copies of Josephus, both Greek and Latin,
 have here so grossly false a reading, Antiochus and Antoninus, or
@@ -2748,12 +2748,12 @@ Antonius Plus, for Antiochus Pius, that the editors are forced to
 correct the text from the other historians, who all agree that this
 king's name was nothing more than Antiochus Plus.
 
-<span id="EndNote Ant 13.37b"></span>[(37)](#EndNote%20Ant%2013.37a)
+<span id="EndNote Ant 13.37b"></span>[(37)](#EndNote%20Ant%2013.37a.md)
 These two brothers, Antiochus and Philippus are called twins by
 Porphyry; the fourth brother was king of Damascus: both which are the
 observations of Spanheim.
 
-<span id="EndNote Ant 13.38b"></span>[(38)](#EndNote%20Ant%2013.38a)
+<span id="EndNote Ant 13.38b"></span>[(38)](#EndNote%20Ant%2013.38a.md)
 This Laodicea was a city of Gilead beyond Jordan. However, Porphyry says
 that this Antiochus Pius did not die in this battle; but, running away,
 was drowned in the river Orontes. Appian says that he, was deprived of
@@ -2764,29 +2764,29 @@ Josephus, who had more original ones before him. This reproach upon
 Alexander, that he was sprung from a captive, seems only the repetition
 of the old Pharisaical calumny upon his father, ch. 10. sect. 5.
 
-<span id="EndNote Ant 13.39b"></span>[(39)](#EndNote%20Ant%2013.39a)
+<span id="EndNote Ant 13.39b"></span>[(39)](#EndNote%20Ant%2013.39a.md)
 This Theodorus was the son of Zeno, and was in possession of Areathus,
 as we learn from sect. 3 foregoing.
 
-<span id="EndNote Ant 13.40b"></span>[(40)](#EndNote%20Ant%2013.40b)
+<span id="EndNote Ant 13.40b"></span>[(40)](#EndNote%20Ant%2013.40b.md)
 This name Thracida, which the Jews gave Alexander, must, by the
 coherence, denote as barbarous as a Thracian, or somewhat like it; but
 what it properly signifies is not known.
 
-<span id="EndNote Ant 13.41b"></span>[(41)](#EndNote%20Ant%2013.41b)
+<span id="EndNote Ant 13.41b"></span>[(41)](#EndNote%20Ant%2013.41b.md)
 Spanheim takes notice that this Antiochus Dionysus \[the brother of
 Philip, and of Demetrius Eucerus, and of two otbsrs\] was the fifth son
 of Antiochus Grypus; and that he is styled on the coins, "Antiochus,
 Epiphanes, Dionysus."
 
-<span id="EndNote Ant 13.42b"></span>[(42)](#EndNote%20Ant%2013.42b)
+<span id="EndNote Ant 13.42b"></span>[(42)](#EndNote%20Ant%2013.42b.md)
 This Aretas was the first king of the Arabians who took Damascus, and
 reigned there; which name became afterwards common to such Arabian
 kings, both at Petra and at Damascus, as we learn from Josephus in many
 places; and from St. Paul, 2 Corinthians 11:32. See the note on Antiq.
 B. XVI. ch. 9. sect. 4.
 
-<span id="EndNote Ant 13.43b"></span>[(43)](#EndNote%20Ant%2013.43b) We
+<span id="EndNote Ant 13.43b"></span>[(43)](#EndNote%20Ant%2013.43b.md) We
 may here and elsewhere take notice, that whatever countries or cities
 the Asamoneans conquered from any of the neighboring nations, or
 whatever countries or cities they gained from them that had not belonged
@@ -2799,7 +2799,7 @@ and this I suppose justly; but by what right the rest did it, even to
 the countries or cities that were no part of that land, I do not at all
 know. This looks too like unjust persecution for religion.
 
-<span id="EndNote Ant 13.44b"></span>[(44)](#EndNote%20Ant%2013.44b) It
+<span id="EndNote Ant 13.44b"></span>[(44)](#EndNote%20Ant%2013.44b.md) It
 seems, by this dying advice of Alexander Janneus to his wife, that he
 had himself pursued the measures of his father Hyrcanus. and taken part
 with the Sadducees, who kept close to the written law, against the
@@ -2829,7 +2829,7 @@ digression. I wish it were an unseasonable one also. Josephus himself
 several times makes such digressions, and I here venture to follow him.
 See one of them at the conclusion of the very next chapter.
 
-<span id="EndNote Ant 13.45b"></span>[(45)](#EndNote%20Ant%2013.45b) The
+<span id="EndNote Ant 13.45b"></span>[(45)](#EndNote%20Ant%2013.45b.md) The
 number of five hundred thousand or even three hundred thousand, as one
 Greek copy, with the Latin copies, have it, for Tigranes's army, that
 came out of Armenia into Syria and Judea, seems much too large. We have
@@ -2838,11 +2838,11 @@ copies, which are not to he at all ascribed to him. Accordingly, I
 incline to Dr. Hudson's emendation here, which supposes them but forty
 thousand.
 
-<span id="EndNote Ant 13.46b"></span>[(46)](#EndNote%20Ant%2013.46b)
+<span id="EndNote Ant 13.46b"></span>[(46)](#EndNote%20Ant%2013.46b.md)
 This fortress, castle, citadel, or tower, whither the wife and children
 of Aristobulus were new sent, and which overlooked the temple, could be
 no other than what Hyrcanus I. built, (Antiq. B. XVIII ch. 4. sect. 3,)
 and Herod the Great rebuilt, and called the "Tower of Antonia," Aatiq.
 B. XV. ch. 11. sect. 5.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

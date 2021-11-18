@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs12)  [Next](mhs14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs12)  [Next](mhs14.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ estates.
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Horse-shoe As A Symbol Of The Horse](mhs14)
+[Next: XI. The Horse-shoe As A Symbol Of The Horse](mhs14.md)

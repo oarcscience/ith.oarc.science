@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tsb01)  [Next](tsb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tsb01)  [Next](tsb03.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ Textual Heritage
 <span id="img_illus02"></span>
 
 [![](tn/illus02.jpg)  
-Click to enlarge](img/illus02.jpg)
+Click to enlarge](img/illus02.jpg.md)
 
 ### The Story of Beowulf
 
@@ -34,4 +34,4 @@ Wiglaf destroyed it, and how sleep came to Beowulf.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](tsb03)
+[Next: Part I](tsb03.md)

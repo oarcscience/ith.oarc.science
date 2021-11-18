@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits039) [Next](bits041)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits039) [Next](bits041.md)
 
 ------------------------------------------------------------------------
 
@@ -291,7 +291,7 @@ afforded for the entire extinction of misery."
 
 ------------------------------------------------------------------------
 
-[Next: § 41. The Death of Moggallâna](bits041)
+[Next: § 41. The Death of Moggallâna](bits041.md)
 
  
 

@@ -1,4 +1,4 @@
-[Sacred-Texts](../index)  [Neopaganism](index) 
+[Sacred-Texts](../index)  [Neopaganism](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 </tbody>
 </table>
 
-[The Witch Cult in Western Europe \[1921\]](wcwe/index)  
+[The Witch Cult in Western Europe \[1921\]](wcwe/index.md)  
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ social and geographic boundaries *ad nauseum*.
 Until Murray, it was believed that this was the result of answers to
 leading questions, extracted under torture by the witch hunters. It was
 believed that the witch hunters were 'on the same page' because they all
-used certain texts such as the ' [Malleus Malificarum](mm/index)' ('the
+used certain texts such as the ' [Malleus Malificarum](mm/index.md)' ('the
 Hammer of Witches'), which is a perverse textbook describing how to
 ferret out witches.
 
@@ -92,7 +92,7 @@ were meeting the leader of their coven dressed up in an animal costume.
 
 This is understandably a controversial proposal; it was so when Murray
 published her first book, the [Witch Cult in Western
-Europe](wcwe/index), in 1921 (at a time when witchcraft was still
+Europe](wcwe/index.md), in 1921 (at a time when witchcraft was still
 illegal in Britain). To this day it still arouses fierce debate among
 the Neopagan intellegensia.
 
@@ -102,7 +102,7 @@ cult performed rituals involving human sacrifice and cannibalism
 issue for modern Neopagans, whose practices most emphatically do **not**
 include child abuse or human sacrifice, despite what a small but vocal
 group of (admittedly non-mainstream) Christians claim. For a debunking
-of the modern witch hunters see [this document](lanning).
+of the modern witch hunters see [this document](lanning.md).
 
 It is hardly neccesary to point out that the medieval Inquisition made
 identical accusations against Jews. Of course these accusations were and
@@ -115,7 +115,7 @@ extracted mostly under duress.
 It is known the ancient mystery religions (of which ancient Christianity
 is only one example) were based on a mythological cycle about the death
 and rebirth of a sun-god, as described in great detail in Sir James
-Frazers' the [Golden Bough](frazer/index). This may have been enacted in
+Frazers' the [Golden Bough](frazer/index.md). This may have been enacted in
 an actual ritual at some point involving human sacrifice and
 cannibalism, which softened at a later date to a symbolic ceremony where
 proxies were used. It has also been pointed out that the rituals Murray
@@ -157,7 +157,7 @@ As for levitation, Murray noted that the witches used herbal ungents
 which contained known hallucinogens before 'flying', which would have
 produced ecstatic effects. In addition, the description of the witches'
 ceremonials included prolonged dancing. It is now known that
-[Shamans](../sha/index) used similar techniques, resulting in altered
+[Shamans](../sha/index.md) used similar techniques, resulting in altered
 mental states including the sensation of flying. This portion of the
 hypothesis *has* been corroborated by other scholars.
 
@@ -180,8 +180,8 @@ which I received a number, reflect no credit on their writers."
 Indeed, we received a flurry of anxious emails after we posted this work
 at Intangible Textual Heritage, several quite hostile, in specific, to
 Murray's Joan of Arc thesis. There are several other 'disgraced'
-authors' books enshrined here at [sacred-texts](../index), *e.g.*
-[Atlantis, The Antidiluvian World](../atl/ataw/index), none have which
+authors' books enshrined here at [sacred-texts](../index.md), *e.g.*
+[Atlantis, The Antidiluvian World](../atl/ataw/index.md), none have which
 have elicited any *personal* hate mail (at least yet...). In any case, I
 have re-edited this essay based on some of the more rational feedback.
 
@@ -189,7 +189,7 @@ This little ripple from one stone thrown into the pond of western
 thought has in time grown into a tidal wave. Selective portions of
 Murray's thesis were used as a basis for the Neopagan doctrine of Gerald
 Gardner. Other influences on Gardner and his circle were Robert Graves'
-The White Goddess and Charles Lelands' [Aradia](aradia), which added a
+The White Goddess and Charles Lelands' [Aradia](aradia.md), which added a
 Goddess-oriented component.
 
 Whether or not Murrays literalistic intepretation of the Witch trial
@@ -203,4 +203,4 @@ thinking.
 <span class="small"></span>
 
 This page Copyright © 2000 J.B. Hare. Redistribution or reposting
-requires permission of the [author](https://ith.oarc.science/contact).
+requires permission of the [author](https://ith.oarc.science/contact.md).

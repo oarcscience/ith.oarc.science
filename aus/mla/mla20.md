@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla19)  [Next](mla21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla19)  [Next](mla21.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ for the stolen spears.
 
 ------------------------------------------------------------------------
 
-[Next: How the Native Bear Lost His Tail](mla21)
+[Next: How the Native Bear Lost His Tail](mla21.md)

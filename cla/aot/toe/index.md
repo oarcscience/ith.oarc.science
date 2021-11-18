@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,13 +28,13 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](toe00)    [Page
-Index](pageidx)    [Text \[Zipped\]](toetxt.zip)
+[Contents](#contents)    [Start Reading](toe00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](toetxt.zip.md)
 
 ------------------------------------------------------------------------
 
-[Philostratus](../laot/index) \|  [Epistles of
-Apollonius](../eoa/index) \|  **Eusebius**
+[Philostratus](../laot/index.md) \|  [Epistles of
+Apollonius](../eoa/index.md) \|  **Eusebius**
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Apollonius](../eoa/index) \|  **Eusebius**
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
 The early Christians saw Apollonius as a potential competitor. Eusebius
-wrote this polemic against [the Life of Apollonius](../laot/index) of
+wrote this polemic against [the Life of Apollonius](../laot/index.md) of
 Philostratus. His bottom line is that Apollonius was a sage of some
 sort, and a human being, not immortal or a demi-god. He mocks
 Apollonius' status as a great philosopher, claims that Apollonius used
@@ -51,13 +51,13 @@ evil magic, and ridicules the (admittedly far-fetched) details of the
 account of his visit to India.
 
 This text is one of the two extras in the second volume of the [Loeb
-Philostratus](../laot/index).
+Philostratus](../laot/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](toe00)  
-[Chapters I to X](toe01)  
-[Chapters XI to XX](toe02)  
-[Chapters XXI to XXX](toe03)  
-[Chapters XXXI to XL](toe04)  
-[Chapters XLI to XLII](toe05)  
+<span id="contents"></span> [Title Page](toe00.md)  
+[Chapters I to X](toe01.md)  
+[Chapters XI to XX](toe02.md)  
+[Chapters XXI to XXX](toe03.md)  
+[Chapters XXXI to XL](toe04.md)  
+[Chapters XLI to XLII](toe05.md)  

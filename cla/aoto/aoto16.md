@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto15) 
-[Next](aoto17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto15.md) 
+[Next](aoto17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -65,7 +65,7 @@ will find the cattle of the Sun. If you leave these unharmed, after much
 trouble you will yet reach Ithaca; but if you harm them, you will lose
 your men, and though you may get home after all, it <span
 class="margnote"><span id="an_11:115">115</span></span> will be late,
-\[on another man's ship, <span id="fr_23"></span>[\*](#fn_23) and you
+\[on another man's ship, <span id="fr_23"></span>[\*](#fn_23.md) and you
 will find your house full of riotous men who are wasting your substance
 and wooing your wife.
 
@@ -80,7 +80,7 @@ a winnowing shovel that you have got upon your shoulder; when you hear
 this you must fix your oar in the ground, and offer sacrifice to
 Neptune, a ram, a bull, and a boar; then go home again, and offer
 hecatombs to the gods that dwell in heaven. <span
-id="fr_24"></span>[†](#fn_24) As for your own end, death shall come to
+id="fr_24"></span>[†](#fn_24.md) As for your own end, death shall come to
 you very gently from the sea, and shall take you when you are <span
 class="margnote"><span id="an_11:137">137</span></span> full of years
 and peace of mind, and your people shall bless you.\]
@@ -198,14 +198,14 @@ in with a fair wind.
 
 ### Footnotes
 
-<span id="fn_23"></span>[50:\*](aoto16.htm#fr_23) See Chapter xv. for
+<span id="fn_23"></span>[50:\*](aoto16.htm#fr_23.md) See Chapter xv. for
 reasons why I have bracketed lines 115-137.
 
-<span id="fn_24"></span>[50:†](aoto16.htm#fr_24) Ulysses was to appease
+<span id="fn_24"></span>[50:†](aoto16.htm#fr_24.md) Ulysses was to appease
 Neptune's anger by going as a missionary to preach his name among a
 people that did not know him.
 
 ------------------------------------------------------------------------
 
 [Next: Book XII. The Sirens, Scylla and Charybdis, The Cattle of the
-Sun](aoto17)
+Sun](aoto17.md)

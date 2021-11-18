@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi025)  [Next](mtsi027) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi025)  [Next](mtsi027.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ to cook and eat this was turned into a tie-snake.)
 
 ------------------------------------------------------------------------
 
-[Next: 25. The Man Who Became A Snake (Third Version)](mtsi027)
+[Next: 25. The Man Who Became A Snake (Third Version)](mtsi027.md)

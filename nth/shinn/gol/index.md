@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Shinn](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Shinn](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gol00)    [Text](gol.txt)
+[Contents](#contents)    [Start Reading](gol00)    [Text](gol.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -35,15 +35,15 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gol00)  
-[The Game](gol01)  
-[The Law of Prosperity](gol02)  
-[The Power of the Word](gol03)  
-[The Law of Nonresistance](gol04)  
-[The Law of Karma and the Law of Forgiveness](gol05)  
-[Casting the Burden](gol06)  
-[Love](gol07)  
-[Intuition Or Guidance](gol08)  
-[Perfect Self-Expression or the Divine Design](gol09)  
-[Denials and Affirmations](gol10)  
-[Denials and Affirmations](gol11)  
+<span id="contents"></span> [Title Page](gol00.md)  
+[The Game](gol01.md)  
+[The Law of Prosperity](gol02.md)  
+[The Power of the Word](gol03.md)  
+[The Law of Nonresistance](gol04.md)  
+[The Law of Karma and the Law of Forgiveness](gol05.md)  
+[Casting the Burden](gol06.md)  
+[Love](gol07.md)  
+[Intuition Or Guidance](gol08.md)  
+[Perfect Self-Expression or the Divine Design](gol09.md)  
+[Denials and Affirmations](gol10.md)  
+[Denials and Affirmations](gol11.md)  

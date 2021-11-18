@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,8 +21,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gpr00)    [Page
-Index](pageidx)    [Text \[Zipped\]](gpr.txt.gz)
+[Contents](#contents)    [Start Reading](gpr00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](gpr.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -46,37 +46,37 @@ to this day.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gpr00)  
-[Foreword](gpr01)  
-[Acknowledgements](gpr02)  
-[Contents](gpr03)  
-[Illustrations](gpr04)  
-[The Countryside](gpr05)  
-[Rural Customs and Festivals](gpr06)  
-[The Religion of Eleusis](gpr07)  
-[The House and the Family](gpr08)  
-[The Cities; the Panegyreis](gpr09)  
-[Legalism and Superstition; Hell](gpr10)  
-[Seers and Oracles](gpr11)  
+<span id="contents"></span> [Title Page](gpr00.md)  
+[Foreword](gpr01.md)  
+[Acknowledgements](gpr02.md)  
+[Contents](gpr03.md)  
+[Illustrations](gpr04.md)  
+[The Countryside](gpr05.md)  
+[Rural Customs and Festivals](gpr06.md)  
+[The Religion of Eleusis](gpr07.md)  
+[The House and the Family](gpr08.md)  
+[The Cities; the Panegyreis](gpr09.md)  
+[Legalism and Superstition; Hell](gpr10.md)  
+[Seers and Oracles](gpr11.md)  
 <span id="section_000"></span>
 
 ### Illustrations
 
-[Illustrations 1-3](gpr12)  
-[Illustrations 4-7](gpr13)  
-[Illustrations 8-10](gpr14)  
-[Illustrations 11-12](gpr15)  
-[Illustrations 13-14](gpr16)  
-[Illustrations 15-16](gpr17)  
-[Illustrations 17-18](gpr18)  
-[Illustrations 19-20](gpr19)  
-[Illustrations 21-23](gpr20)  
-[Illustrations 24-25](gpr21)  
-[Illustrations 26-28](gpr22)  
-[Illustrations 29-33](gpr23)  
-[Illustrations 34-36](gpr24)  
-[Illustrations 37-39](gpr25)  
+[Illustrations 1-3](gpr12.md)  
+[Illustrations 4-7](gpr13.md)  
+[Illustrations 8-10](gpr14.md)  
+[Illustrations 11-12](gpr15.md)  
+[Illustrations 13-14](gpr16.md)  
+[Illustrations 15-16](gpr17.md)  
+[Illustrations 17-18](gpr18.md)  
+[Illustrations 19-20](gpr19.md)  
+[Illustrations 21-23](gpr20.md)  
+[Illustrations 24-25](gpr21.md)  
+[Illustrations 26-28](gpr22.md)  
+[Illustrations 29-33](gpr23.md)  
+[Illustrations 34-36](gpr24.md)  
+[Illustrations 37-39](gpr25.md)  
 
  
 
-[Index](gpr26)  
+[Index](gpr26.md)  

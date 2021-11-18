@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah20)  [Next](oah22) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah20)  [Next](oah22.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ some of them required many years more.
 taught by symbols and objects, the rudiments of education; and drilled
 in processions, and music and dancing and gymnastics; but every day they
 were required for a brief period to labor, some at weaving, some
-spinning, and some in transportation. <span id="fr_4"></span>[3](#fn_4)
+spinning, and some in transportation. <span id="fr_4"></span>[3](#fn_4.md)
 
 5\. The voice of Jehovih directed God, saying: The structure of My
 Kingdom in heaven requireth it of thee, that thou shalt make all labor
@@ -173,7 +173,7 @@ es'enaurs and the crew of three thousand to work the ship.
 
 ### Footnotes
 
-<span id="fn_4"></span>[22:3](oah21.htm#fr_4) In another place we are
+<span id="fn_4"></span>[22:3](oah21.htm#fr_4.md) In another place we are
 told that "The ocean sendeth up vapour, so doth the land send up
 vegetable substance of which the spiritual part reaches certain
 plateaux, whereon are situated the lower kingdoms of heaven. Here the
@@ -183,4 +183,4 @@ of industries.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](oah22)
+[Next: Chapter VI](oah22.md)

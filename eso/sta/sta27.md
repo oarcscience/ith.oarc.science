@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta26)  [Next](sta28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta26)  [Next](sta28.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ is
 <span id="img_11300"></span>
 
 [![THE SEVENTY-TWO NAMES OF GOD.](tn/11300.jpg)  
-Click to enlarge](img/11300.jpg)  
+Click to enlarge](img/11300.jpg.md)  
 THE SEVENTY-TWO NAMES OF GOD.  
 
 From Kircher's *Œdipus Ægyptiacus*.
@@ -299,7 +299,7 @@ civ. 4.)
 <span id="img_11400"></span>
 
 [![THE TETRAGRAMMATON.](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)  
+Click to enlarge](img/11400.jpg.md)  
 THE TETRAGRAMMATON.  
 
 By arranging the four letters of the Great Name, י ה ו ה, (*I H V H*),
@@ -479,7 +479,7 @@ East* adopt the following arrangement.
 <span id="img_11500"></span>
 
 [![THE HEBREW LETTERS ACCORDING TO THE SEPHER YETZIRAH.](tn/11500.jpg)  
-Click to enlarge](img/11500.jpg)  
+Click to enlarge](img/11500.jpg.md)  
 THE HEBREW LETTERS ACCORDING TO THE SEPHER YETZIRAH.  
 
 In the central triangle are the three Mother Letters from which come
@@ -506,7 +506,7 @@ and female).
 
 *4th*. He caused the letterכ (K) to predominate in life, crowned it,
 combined each with the others, and formed by them Venus
-[in](errata.htm#8) the universe, the fourth day in the year, and the
+[in](errata.htm#8.md) the universe, the fourth day in the year, and the
 left eye in man (male and female).
 
 *5th*. He caused the letter פ (P) to predominate in power, crowned it,
@@ -634,7 +634,7 @@ warfare. (The Elohim did likewise in the other spheres.)
 
 1\. There are three Mothers or first elements, א מ ש (A, M, Sh), from
 which emanated three Fathers (progenitors)--primordial
-([spiritual](errata.htm#9)) air, water, and fire--from which issued the
+([spiritual](errata.htm#9).md) air, water, and fire--from which issued the
 seven planets (heavens) with their angels, and the twelve oblique points
 (zodiac).
 
@@ -694,4 +694,4 @@ seven planets and gave them to the twelve zodiacal signs.
 
 ------------------------------------------------------------------------
 
-[Next: Fundamentals of Qabbalistic Cosmogony](sta28)
+[Next: Fundamentals of Qabbalistic Cosmogony](sta28.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp50) 
-[Next](alp52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp50.md) 
+[Next](alp52.md) 
 
 ------------------------------------------------------------------------
 
@@ -152,4 +152,4 @@ And, coiling like a serpent,
 
 ------------------------------------------------------------------------
 
-[Next: The Eve of Ascension Day](alp52)
+[Next: The Eve of Ascension Day](alp52.md)

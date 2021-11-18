@@ -1,18 +1,18 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob25) 
-[Next](tob27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob25.md) 
+[Next](tob27.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_wiar12"></span>
 
-![THE HANGED MAN.](img/wiar12.jpg)  
+![THE HANGED MAN.](img/wiar12.jpg.md)  
 THE HANGED MAN.
 
    <span id="img_msar12"></span>
 
-![THE HANGED MAN.](img/msar12.jpg)  
+![THE HANGED MAN.](img/msar12.jpg.md)  
 THE HANGED MAN.
 
 12\. ל
@@ -146,4 +146,4 @@ transformation (3rd septenary).
 
 ------------------------------------------------------------------------
 
-[Next: Constitution of Man](tob27)
+[Next: Constitution of Man](tob27.md)

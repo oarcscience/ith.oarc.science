@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ulh00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ulh.txt.gz)
+[Contents](#contents)    [Start Reading](ulh00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ulh.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -59,58 +59,58 @@ the illustrations are primarily sketches of plants mentioned in the
 songs, musical instruments and so on; only two of them portray Hula
 dancers (one of which is fully clothed!). The book notably includes
 musical transcriptions of a number of songs, including the Hawaiian
-anthem, [Hawai'i Ponoi](ulh25.htm#page_172).
+anthem, [Hawai'i Ponoi](ulh25.htm#page_172.md).
 
 This book is a must-read for anyone who wants to acquire a deep
 understanding of traditional Hawaiian culture.
 
 ------------------------------------------------------------------------
 
-[Title Page](ulh00)  
-[Prefatory Note](ulh01)  
-[Contents](ulh02)  
-[Illustrations and Musical Pieces](ulh03)  
-[Introduction](ulh04)  
-[I.--The Hula](ulh05)  
-[II.--The Halau; the Kuahu--Their Decoration and Consecration](ulh06)  
-[III.--The Gods of the Hula](ulh07)  
-[IV.--Support and Organization of the Hula](ulh08)  
-[V.--Ceremonies of Graduation; Début of a Hula Dancer](ulh09)  
-[VI.--The Password--The Song of Admission](ulh10)  
-[VII.--Worship at the Altar of the Halau](ulh11)  
-[VIII.--Costume of the Hula Dancer](ulh12)  
-[IX.--The Hula Ala’a-Papa](ulh13)  
-[X.--The Hula Pa-ípu, Or Kuólo](ulh14)  
-[XI.--The Hula Ki’i](ulh15)  
-[XII.--The Hula Pahu](ulh16)  
-[XIII.--The Hula Úli-ulí](ulh17)  
-[XIV.--The Hula Puíli](ulh18)  
-[XV.--The Hula Ka-laau](ulh19)  
-[XVI.--The Hula Íli-íli](ulh20)  
-[XVII.--The Hula Ká-éke-éke](ulh21)  
-[XVIII. An Intermission](ulh22)  
-[XIX.--The Hula Niau-kani](ulh23)  
-[XX.--The Hula Ohe](ulh24)  
-[XXI.--The Music and Musical Instruments of the Hawaiians](ulh25)  
-[XXII.--Gesture](ulh26)  
-[XXIII.--The Hula Pa-hua](ulh27)  
-[XXIV.--The Hula Pele](ulh28)  
-[XXV.--The Hula Pa’i-umauma](ulh29)  
-[XXVI.--The Hula Ku’i Molokai](ulh30)  
-[XXVII.--The Hula Kieléi](ulh31)  
-[XXVIII.--The Hula Mú’u-mú’u](ulh32)  
-[XXIX.--The Hula Kolani](ulh33)  
-[XXX.--The Hula Kolea](ulh34)  
-[XXXI.--The Hula Manó](ulh35)  
-[XXXII.--The Hula Ilío](ulh36)  
-[XXXIII.--The Hula Pua’a](ulh37)  
-[XXXIV.--The Hula Ohelo](ulh38)  
-[XXXV.--The Hula Kilu](ulh39)  
-[XXXVI.--The Hula Hoo-na-ná](ulh40)  
-[XXXVII.--The Hula Ulili](ulh41)  
-[XXXVIII.--The Hula O-niu](ulh42)  
-[XXXIX.--The Hula Ku’i](ulh43)  
-[XL.--The Oli](ulh44)  
-[XLI.--The Water of Kane](ulh45)  
-[XLII.--General Review](ulh46)  
-[Glossary](ulh47)  
+[Title Page](ulh00.md)  
+[Prefatory Note](ulh01.md)  
+[Contents](ulh02.md)  
+[Illustrations and Musical Pieces](ulh03.md)  
+[Introduction](ulh04.md)  
+[I.--The Hula](ulh05.md)  
+[II.--The Halau; the Kuahu--Their Decoration and Consecration](ulh06.md)  
+[III.--The Gods of the Hula](ulh07.md)  
+[IV.--Support and Organization of the Hula](ulh08.md)  
+[V.--Ceremonies of Graduation; Début of a Hula Dancer](ulh09.md)  
+[VI.--The Password--The Song of Admission](ulh10.md)  
+[VII.--Worship at the Altar of the Halau](ulh11.md)  
+[VIII.--Costume of the Hula Dancer](ulh12.md)  
+[IX.--The Hula Ala’a-Papa](ulh13.md)  
+[X.--The Hula Pa-ípu, Or Kuólo](ulh14.md)  
+[XI.--The Hula Ki’i](ulh15.md)  
+[XII.--The Hula Pahu](ulh16.md)  
+[XIII.--The Hula Úli-ulí](ulh17.md)  
+[XIV.--The Hula Puíli](ulh18.md)  
+[XV.--The Hula Ka-laau](ulh19.md)  
+[XVI.--The Hula Íli-íli](ulh20.md)  
+[XVII.--The Hula Ká-éke-éke](ulh21.md)  
+[XVIII. An Intermission](ulh22.md)  
+[XIX.--The Hula Niau-kani](ulh23.md)  
+[XX.--The Hula Ohe](ulh24.md)  
+[XXI.--The Music and Musical Instruments of the Hawaiians](ulh25.md)  
+[XXII.--Gesture](ulh26.md)  
+[XXIII.--The Hula Pa-hua](ulh27.md)  
+[XXIV.--The Hula Pele](ulh28.md)  
+[XXV.--The Hula Pa’i-umauma](ulh29.md)  
+[XXVI.--The Hula Ku’i Molokai](ulh30.md)  
+[XXVII.--The Hula Kieléi](ulh31.md)  
+[XXVIII.--The Hula Mú’u-mú’u](ulh32.md)  
+[XXIX.--The Hula Kolani](ulh33.md)  
+[XXX.--The Hula Kolea](ulh34.md)  
+[XXXI.--The Hula Manó](ulh35.md)  
+[XXXII.--The Hula Ilío](ulh36.md)  
+[XXXIII.--The Hula Pua’a](ulh37.md)  
+[XXXIV.--The Hula Ohelo](ulh38.md)  
+[XXXV.--The Hula Kilu](ulh39.md)  
+[XXXVI.--The Hula Hoo-na-ná](ulh40.md)  
+[XXXVII.--The Hula Ulili](ulh41.md)  
+[XXXVIII.--The Hula O-niu](ulh42.md)  
+[XXXIX.--The Hula Ku’i](ulh43.md)  
+[XL.--The Oli](ulh44.md)  
+[XLI.--The Water of Kane](ulh45.md)  
+[XLII.--General Review](ulh46.md)  
+[Glossary](ulh47.md)  

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab20)  [Next](saab22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab20)  [Next](saab22.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -114,8 +114,8 @@ class="smallcaps">Wámik</span>—"Oh Thou
 </div>
 
 <span id="img_03400"></span> <span align="CENTER"> [![](tn/03400.jpg)  
-Click to enlarge](img/03400.jpg)</span>
+Click to enlarge](img/03400.jpg.md)</span>
 
 ------------------------------------------------------------------------
 
-[Next: XX](saab22)
+[Next: XX](saab22.md)

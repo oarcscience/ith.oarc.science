@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../../journals/index) [Hindu](../index)
+Heritage](../../index) [Journals](../../journals/index) [Hindu](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ rendered directly in the newer ones; all other diacritics are shown as
 they appear in the original unless otherwise noted.
 
 For journal title abbreviations, see the
-[Journals](../../journals/index) page, where all the articles (including
+[Journals](../../journals/index.md) page, where all the articles (including
 non-Hindu) are organized according to their sources.
 
 <span class="small">Last updated May 13, 2002.</span>
@@ -43,16 +43,16 @@ non-Hindu) are organized according to their sources.
 ### *Purana*
 
 [The Mârka.n.deya Pûra.na. Books VII.
-VIII.](../../journals/jras/ns13-13), trans. B. Hale Wortham (JRAS NS
+VIII.](../../journals/jras/ns13-13.md), trans. B. Hale Wortham (JRAS NS
 vol. XIII, pp. 355-379) \[1881\]  
 
 ### *Philosophy (The Six Schools, etc.)*
 
-[The Hastâmalaka](../../journals/ia/hstmlk) ("universally considered as
+[The Hastâmalaka](../../journals/ia/hstmlk.md) ("universally considered as
 one of the best summaries of the Vedânta doctrines"), trans. Edward B.
 Cowell (IA vol. IX, pp. 25-27) \[1880\]  
 [The Tattva-muktâvalî of
-Gau.da-pûr.nânanda-chakravartin](../../journals/jras/ns15-04) ("a
+Gau.da-pûr.nânanda-chakravartin](../../journals/jras/ns15-04.md) ("a
 vigorous attack on the Vedânta system by a follower of the Pûr.naprajña
 school"), trans. Edward B. Cowell (JRAS NS vol. XV, pp. 137-173)
 \[1883\]  
@@ -60,24 +60,24 @@ school"), trans. Edward B. Cowell (JRAS NS vol. XV, pp. 137-173)
 ### *Vaishnava*
 
 [Kîrtans, or Hymns from the Earliest Bengali
-Poets](../../journals/ia/khebp), trans. John Beames (IA, vol. I, pp.
+Poets](../../journals/ia/khebp.md), trans. John Beames (IA, vol. I, pp.
 323-326) \[1872\]  
-[Chaitanya and the Vaishnava Poets of Bengal](../../journals/ia/cvpb),
+[Chaitanya and the Vaishnava Poets of Bengal](../../journals/ia/cvpb.md),
 by John Beames (IA, vol. II, pp. 1-7) \[1873\]  
-[The Early Vaish.nava Poets: I. Bidyâpati](../../journals/ia/evp1),
+[The Early Vaish.nava Poets: I. Bidyâpati](../../journals/ia/evp1.md),
 trans. John Beames (IA, vol. II, pp. 37-43) \[1873\]  
-[The Early Vaish.nava Poets: II. Cha.n.dî Dâs](../../journals/ia/evp2),
+[The Early Vaish.nava Poets: II. Cha.n.dî Dâs](../../journals/ia/evp2.md),
 trans. John Beames (IA, vol. II, pp. 187-189) \[1873\]  
 [The Šikshâ-Patrî of the Svâmi-Nârâya.na
-Sect](../../journals/jras/ns14-24), trans. Monier Williams (JRAS NS vol.
+Sect](../../journals/jras/ns14-24.md), trans. Monier Williams (JRAS NS vol.
 XIV, pp. 733-772) \[1882\]  
 
 ### *Miscellaneous*
 
-[The Naladiyar](../../journals/ia/nldr) (a Tamil book of ethics), trans.
+[The Naladiyar](../../journals/ia/nldr) (a Tamil book of ethics.md), trans.
 F. J. Leeper (IA, vol. II) \[1873\]  
 
 ------------------------------------------------------------------------
 
 [Intangible Textual
-Heritage](../../index) [Journals](../../journals/index) [Hindu](../index)
+Heritage](../../index) [Journals](../../journals/index) [Hindu](../index.md)

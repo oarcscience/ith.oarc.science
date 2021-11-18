@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Ancient Near
-East](../../index)  [Records of the Past](../index) 
-[Egypt](../../../egy/index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Ancient Near
+East](../../index)  [Records of the Past](../index.md) 
+[Egypt](../../../egy/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,8 +22,8 @@ East](../../index)  [Records of the Past](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rp20100)    [Page
-Index](pageidx)    [Text \[Zipped\]](rp201.txt.gz)
+[Contents](#contents)    [Start Reading](rp20100.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](rp201.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -35,73 +35,73 @@ Inscription of Tiglath-Pileser I.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rp20100)  
-[Preface](rp20101)  
-[Table of Contents](rp20102)  
-[Hebrew Transliteration](rp20103)  
-[The Assyrian Calendar](rp20104)  
+<span id="contents"></span> [Title Page](rp20100.md)  
+[Preface](rp20101.md)  
+[Table of Contents](rp20102.md)  
+[Hebrew Transliteration](rp20103.md)  
+[The Assyrian Calendar](rp20104.md)  
 <span id="section_000"></span>
 
 ### The Dynastic Tablets and Chronicles of the Babylonians
 
-[Introduction](rp20105)  
+[Introduction](rp20105.md)  
 [No. 1.—Translation of the First Dynastic Tablet from
-Babylon](rp20106)  
+Babylon](rp20106.md)  
 [No. 2.—Translation of the Second Dynastic Tablet from
-Babylon](rp20107)  
-[No. 3.—Translation of the Third Dynastic Tablet](rp20108)  
-[No. 4.—Translation of the Babylonian Chronicle](rp20109)  
+Babylon](rp20107.md)  
+[No. 3.—Translation of the Third Dynastic Tablet](rp20108.md)  
+[No. 4.—Translation of the Babylonian Chronicle](rp20109.md)  
 [No. 5.—Translation of the Inscription Giving the Assyrian
-Interpretation of the Names of the Early Babylonian Kings](rp20110)  
+Interpretation of the Names of the Early Babylonian Kings](rp20110.md)  
 [No. 6.—Translation of the Annals of Sargon of Accad and
-Naram-Sin](rp20111)  
+Naram-Sin](rp20111.md)  
 <span id="section_001"></span>
 
 ### The Inscriptions of Telloh
 
-[Introduction](rp20112)  
-[I. The Inscriptions Of King Ur-Nina](rp20113)  
-[II. Inscription of an Unknown Prince on a Boulder of Stone](rp20114)  
-[III. Inscriptions of Uru-Kagina](rp20115)  
-[IV. Inscription of Entena on a Buttress](rp20116)  
-[V. Inscription of En-Anna-Tumma on a Buttress](rp20117)  
-[VI. Inscriptions of Ur-Bau and his Reign](rp20118)  
+[Introduction](rp20112.md)  
+[I. The Inscriptions Of King Ur-Nina](rp20113.md)  
+[II. Inscription of an Unknown Prince on a Boulder of Stone](rp20114.md)  
+[III. Inscriptions of Uru-Kagina](rp20115.md)  
+[IV. Inscription of Entena on a Buttress](rp20116.md)  
+[V. Inscription of En-Anna-Tumma on a Buttress](rp20117.md)  
+[VI. Inscriptions of Ur-Bau and his Reign](rp20118.md)  
 
  
 
-[Sin-Gashid's Endowment of the Temple Ê-Ana](rp20119)  
-[An Erechite's Lament](rp20120)  
+[Sin-Gashid's Endowment of the Temple Ê-Ana](rp20119.md)  
+[An Erechite's Lament](rp20120.md)  
 <span id="section_002"></span>
 
 ### Inscription of Tiglath-Pileser I, King of Assyria
 
-[Introduction](rp20121)  
-[Column I](rp20122)  
-[Column II](rp20123)  
-[Column III](rp20124)  
-[Column IV](rp20125)  
-[Column V](rp20126)  
-[Column VI](rp20127)  
-[Column VII](rp20128)  
-[Column VIII](rp20129)  
+[Introduction](rp20121.md)  
+[Column I](rp20122.md)  
+[Column II](rp20123.md)  
+[Column III](rp20124.md)  
+[Column IV](rp20125.md)  
+[Column V](rp20126.md)  
+[Column VI](rp20127.md)  
+[Column VII](rp20128.md)  
+[Column VIII](rp20129.md)  
 <span id="section_003"></span>
 
 ### The Assyrian Story of the Creation
 
-[Introduction](rp20130)  
-[The First Tablet](rp20131)  
-[Third Tablet](rp20132)  
-[Fourth Tablet](rp20133)  
-[Fifth Tablet](rp20134)  
-[Seventh Tablet](rp20135)  
-[Fragment](rp20136)  
+[Introduction](rp20130.md)  
+[The First Tablet](rp20131.md)  
+[Third Tablet](rp20132.md)  
+[Fourth Tablet](rp20133.md)  
+[Fifth Tablet](rp20134.md)  
+[Seventh Tablet](rp20135.md)  
+[Fragment](rp20136.md)  
 
  
 
 [The Babylonian Story of the Creation According to the Tradition of
-Cutha](rp20137)  
-[Babylonian Lawsuits And Judgments](rp20138)  
+Cutha](rp20137.md)  
+[Babylonian Lawsuits And Judgments](rp20138.md)  
 [Inscription of Menuas, King of Ararat, in the Vannic
-Language](rp20139)  
-[The Ancient Hebrew Inscription of Siloam](rp20140)  
-[Advertisements](rp20141)  
+Language](rp20139.md)  
+[The Ancient Hebrew Inscription of Siloam](rp20140.md)  
+[Advertisements](rp20141.md)  

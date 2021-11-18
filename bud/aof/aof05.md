@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](aof04)  [Next](aof06) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](aof04)  [Next](aof06.md) 
 
 ------------------------------------------------------------------------
 
@@ -379,7 +379,7 @@ of the means of deliverance in the full faith of the great school; by.
 the cultivation to the First station in the pure state of the mind, all
 the confusion will be gone. (To understand these and the stations below,
 see *Guide to Buddhahood*, translated by the author.) <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 Confusion through knowledge of differences by correspondence with the
 objective. By means of the second stage of separateness from the world,
@@ -1135,9 +1135,9 @@ cannot be properly reflected.
 
 ### Footnotes
 
-<span id="fn_0"></span>[57:1](aof05.htm#fr_0) *Hsuan Fo P'u*, Shanghai,
+<span id="fn_0"></span>[57:1](aof05.htm#fr_0.md) *Hsuan Fo P'u*, Shanghai,
 1907.
 
 ------------------------------------------------------------------------
 
-[Next: 4: The Practice of the Mahayana Faith](aof06)
+[Next: 4: The Practice of the Mahayana Faith](aof06.md)

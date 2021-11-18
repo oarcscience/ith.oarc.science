@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gpr07)  [Next](gpr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gpr07)  [Next](gpr09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Greek Popular Religion*, by Martin P. Nilsson, \[1940\], at Intangible
 Textual Heritage
 
@@ -23,7 +23,7 @@ them he feels himself subject to unknown and dangerous powers. There the
 wild beasts which attack him and his herds roam about, and robbers may
 lurk in the glens. "It is better at home, for it is dangerous outdoors"
 is an old Greek saying, found in Hesiod and in the *Homeric Hymn to
-Hermes*. <span id="fr_74"></span>[1](#fn_74) Within the walls of his
+Hermes*. <span id="fr_74"></span>[1](#fn_74.md) Within the walls of his
 house, man feels himself secure, protected from dangers which threaten
 without. The ancient Greeks would have understood what we mean when we
 say, "A man's house is his castle." In the beginning of the work of
@@ -43,7 +43,7 @@ wild beasts and human foes. This house or hall is generally called a
 *megaron*. It is by its nature an isolated building, standing free, not
 connected with other houses, and adapted to country life. But already in
 prehistoric times there were towns in Greece with complex buildings and
-narrow streets, <span id="fr_75"></span>[2](#fn_75) and in the great
+narrow streets, <span id="fr_75"></span>[2](#fn_75.md) and in the great
 palaces of the Mycenaean age the megaron was introduced into a complex
 building plan. We may confidently suppose that the detached house with
 its enclosed courtyard survived for a long time in the countryside, but
@@ -80,7 +80,7 @@ against dangers from without.
 
 There is another rather curious instance of the protection which Zeus
 afforded to the house. He was the god of lightning, and as such he was
-named Kataibates <span id="fr_76"></span>[3](#fn_76) (he who descends),
+named Kataibates <span id="fr_76"></span>[3](#fn_76) (he who descends.md),
 that is to say the thunderbolt, which was imagined to be a stone or a
 stone ax. Stones inscribed with the name of this god have been found.
 Now an altar dedicated to Zeus Kataibates stood beside that of Zeus
@@ -107,17 +107,17 @@ addition of Zeus. An altar of Zeus Ktesios is mentioned by Aeschylus, an
 altar dedicated to him was found in a house on the island of Thera, and
 there are other such altars of a small size with his name. On the island
 of Thasos he is called Zeus Patroos Ktesios, <span
-id="fr_77"></span>[4](#fn_77) and in its colony Galepsos in Thrace he
+id="fr_77"></span>[4](#fn_77.md) and in its colony Galepsos in Thrace he
 appears in company with Zeus Herkeios Patroos. <span
-id="fr_78"></span>[5](#fn_78) He was still not forgotten in the Roman
+id="fr_78"></span>[5](#fn_78.md) He was still not forgotten in the Roman
 era. Finally, on a relief found at Thespiae his name is inscribed above
-a great snake ([Fig. 26](gpr22.htm#img_fig26)). Fortunately, Attic
+a great snake ([Fig. 26](gpr22.htm#img_fig26).md). Fortunately, Attic
 writers give some information about his cult. Menander says that he was
 the protector of the storehouse and that his function was to guard this
-against thieves. <span id="fr_79"></span>[6](#fn_79) It is said that his
+against thieves. <span id="fr_79"></span>[6](#fn_79.md) It is said that his
 "image" was erected in the storehouse. Another Attic writer, who treated
 of the cults, explains the kind of image these were. He calls them
-*semeia* (tokens or symbols). <span id="fr_80"></span>[7](#fn_80) These
+*semeia* (tokens or symbols). <span id="fr_80"></span>[7](#fn_80.md) These
 were jars or amphorae, the handles of which were deco-rated with woolen
 fillets and into which were put fresh water, oil, and fruit of all
 kinds. The Greek word for this mixture was panspermia or pankarpia, a
@@ -127,7 +127,7 @@ and that the house god in the shape of a snake came to partake of it.
 
 That this supposition is right is proved by a cult that is familiar
 under quite a different aspect, that of the Dioscuri, <span
-id="fr_81"></span>[8](#fn_81) the sons of Zeus as their name indicates.
+id="fr_81"></span>[8](#fn_81.md) the sons of Zeus as their name indicates.
 I shall not here go into their generally known appearance and cult, but
 shall confine myself to their role in the house cult. The form in which
 the Dioscuri appear in mythology and in their cult in later times is
@@ -145,28 +145,28 @@ both in ancient and modern times. The simple explanation is that the
 dokana represent the wooden frame of a house built of crude bricks. On
 certain reliefs from Sparta and from its colony Tarentum, and on Spartan
 coins, two amphorae appear as the symbols of the Dioscuri ([Fig.
-29](gpr23.htm#img_fig29)). A snake approaches them or is coiling around
-them or the beams of the dokana ([Fig. 31](gpr23.htm#img_fig31)). That
+29](gpr23.htm#img_fig29).md). A snake approaches them or is coiling around
+them or the beams of the dokana ([Fig. 31](gpr23.htm#img_fig31).md). That
 the Dioscuri were house gods is proved by their cult. A meal was set out
 and a couch prepared for them in the house. This is what Euphorion
-did; <span id="fr_82"></span>[9](#fn_82) Phormion was punished because
+did; <span id="fr_82"></span>[9](#fn_82.md) Phormion was punished because
 he would not open the chamber of his house to them. <span
-id="fr_83"></span>[10](#fn_83) These meals were called *theoxenia*.
+id="fr_83"></span>[10](#fn_83.md) These meals were called *theoxenia*.
 Theron of Agrigentum and Iason of Pherae prepared meals in honor of the
 Dioscuri, and Bacchylides in a poem invites them to a meal from which
 wine and songs will not be missing. The Athenians spread the table in
 the prytaneum for them with a frugal, old-fashioned meal of cheese,
 cakes, olives, and leeks. Some vase paintings and reliefs show the
 Dioscuri coming to the meal. Here they are riding, in accordance with
-the common conception ([Fig. 32](gpr23.htm#img_fig32)). In Sparta they
+the common conception ([Fig. 32](gpr23.htm#img_fig32).md). In Sparta they
 appear as snakes. The close affinity of Zeus Ktesios and the sons of
 Zeus is apparent.
 
 Another Zeus, for whose occurrence in the house cult there is no
 evidence, must be mentioned because he is not infrequently represented
 as a snake. This is Zeus Meilichios, who was much venerated in Attica
-([Fig. 27](gpr22.htm#img_fig27)). He is also represented as seated on a
-throne with a cornucopia ([Fig. 28](gpr22.htm#img_fig28)); he is
+([Fig. 27](gpr22.htm#img_fig27).md). He is also represented as seated on a
+throne with a cornucopia ([Fig. 28](gpr22.htm#img_fig28).md); he is
 accordingly
 
 <span id="page_70">p. 70</span>
@@ -189,7 +189,7 @@ snake.
 
 Why Zeus was the protector of the house is clear if we consider the
 epithet "father," which is very often given to him by the Greeks, the
-Indians, the Illyrians, <span id="fr_84"></span>[11](#fn_84) and the
+Indians, the Illyrians, <span id="fr_84"></span>[11](#fn_84.md) and the
 Romans, in whose language the epithet coalesced with the noun to form
 the name "Jupiter." The occurrence of this epithet among these four
 peoples of Indo-European stock proves that it is an ancient heritage
@@ -227,7 +227,7 @@ as "welcome, lady of the house," "your obedient servant," "guardian," or
 "guardian spirit of our house." It is related that in ancient Egypt the
 houses were full of snakes, which were so tame that they came to partake
 of offerings when they were called. The Minoan snake-goddess was a house
-goddess. <span id="fr_85"></span>[12](#fn_85) She was a snake-goddess,
+goddess. <span id="fr_85"></span>[12](#fn_85.md) She was a snake-goddess,
 not because, as Sir Arthur Evans asserts, she was the lady of the nether
 world and of the dead, but because she was a house goddess. The guardian
 spirit of the house had been anthropomorphized, and the house snake had
@@ -259,11 +259,11 @@ was a fixed hearth. The fire of this hearth warmed the house on cold
 days, and over this fire meals were prepared. The fixed hearth was
 brought to Greece by the Greeks, for in Minoan houses there were only
 portable fire pots of the sort used for preparing meals in Hellenistic
-and even in modern times. <span id="fr_86"></span>[13](#fn_86) The
+and even in modern times. <span id="fr_86"></span>[13](#fn_86.md) The
 sanctity of the hearth is common to the Greeks and the Romans, and it is
 very probable that the Greek name of the goddess of the hearth, Hestia,
 and her Roman name, Vesta, are both derived from the same word, although
-this has been contested. <span id="fr_87"></span>[14](#fn_87) The
+this has been contested. <span id="fr_87"></span>[14](#fn_87.md) The
 sanctity of the hearth
 
 <span id="page_73">p. 73</span>
@@ -272,7 +272,7 @@ is bound up with the fixed hearth. Consequently, the Greeks are
 responsible for it, not the pre-Greek population, who did not have a
 fixed hearth. The hearth is the center of the house and the symbol of
 the family. When Herodotus counts the number of families in a town he
-counts the hearths. <span id="fr_88"></span>[15](#fn_88) The hearth was
+counts the hearths. <span id="fr_88"></span>[15](#fn_88.md) The hearth was
 sacred. A suppliant took his place on the hearth, as did Odysseus,
 Telephus, and Themistocles, because he was protected by its sanctity.
 People swore by the hearth. The newborn babe was received into the
@@ -306,20 +306,20 @@ old Russian custom of offering a distinguished visitor bread and
 salt before the gates of the city. The same feeling was alive in Greece.
 "Thou hast forsaken thy great oath, the table, and the salt," the poet
 Archilochus says reproachfully to someone; <span
-id="fr_89"></span>[16](#fn_89) and the orator Aeschines asked
+id="fr_89"></span>[16](#fn_89.md) and the orator Aeschines asked
 emphatically of his colleagues by whom he thought he had been deceived:
 "Where is the salt? where the table? where the drink-offering?" <span
-id="fr_90"></span>[17](#fn_90)
+id="fr_90"></span>[17](#fn_90.md)
 
 This sanctity of the meal, which knits the partakers together in a
 sacred community, will help us to understand the best known and most
 prominent of all the rites of Greek religion, animal sacrifice. Its
 meaning and origin have been vigorously discussed. A great scholar, W.
 Robertson Smith, advanced the hypothesis of a totemistic origin. <span
-id="fr_91"></span>[18](#fn_91) The animal sacrificed was the god
+id="fr_91"></span>[18](#fn_91.md) The animal sacrificed was the god
 himself, Smith thought, and by eating his flesh the worshippers were
 united with the god and imbued with his power. This hypothesis has been
-somewhat modified by Jane Harrison <span id="fr_92"></span>[19](#fn_92)
+somewhat modified by Jane Harrison <span id="fr_92"></span>[19](#fn_92.md)
 and others, but it is untenable. Not the slightest trace of totemism
 appears among the Greeks or other Indo-European peoples. The sacredness
 of the meal suffices to explain the peculiarities of animal sacrifice.
@@ -329,7 +329,7 @@ the meal. He receives his portion, and the men, who are the greater
 number, feast on their portions. This is the reason why only a small
 portion of the flesh is offered on the altar of the god, a custom which
 had already struck Hesiod as so peculiar that he invented a mythical
-explanation of it. <span id="fr_93"></span>[20](#fn_93) The sacrifice is
+explanation of it. <span id="fr_93"></span>[20](#fn_93.md) The sacrifice is
 sacred. This is the reason why it is often forbidden to carry parts of
 it outside the holy precinct. Even the refuse, the bones,
 
@@ -479,20 +479,20 @@ purifications. A connection with the cult of stones was peculiar to this
 god, and holy stones were common in Greece. Xenophon speaks of certain
 men who did not venerate temples or altars and of others who venerated
 stones, pieces of wood, and animals. <span
-id="fr_94"></span>[21](#fn_94) Theophrastus mentions superstitious
+id="fr_94"></span>[21](#fn_94.md) Theophrastus mentions superstitious
 people who poured oil on stones standing at the crossroads, fell on
 their knees before them, and greeted them with a kiss of the hand. <span
-id="fr_95"></span>[22](#fn_95) The omphalos of Apollo at Delphi is
+id="fr_95"></span>[22](#fn_95.md) The omphalos of Apollo at Delphi is
 especially famous. In origin it was neither a tomb nor the center of the
 world, but simply one holy stone among many which was made famous by the
 fame of the god. Holy stones stood before the doors of houses. Perhaps
 they did in prehistoric times also. Square-cut stones have been found
 before the gates of the Homeric Troy by Dörpfeld, as well as by recent
-American excavators. <span id="fr_96"></span>[23](#fn_96) Since they
+American excavators. <span id="fr_96"></span>[23](#fn_96.md) Since they
 could have served no practical purpose, it is supposed that their
 purpose was religious. We may perhaps venture to go further. Hrozný has
 published the inscriptions of four Hittite altars and read their
-pictographs. <span id="fr_97"></span>[24](#fn_97) Among other gods there
+pictographs. <span id="fr_97"></span>[24](#fn_97.md) Among other gods there
 is mentioned one whose name is read *Apulunas*. He is a god of the
 gates. If this be so, then the oriental origin of Apollo, which has
 often been asserted but which has also been vehemently contested, is
@@ -504,7 +504,7 @@ Before every Greek house a high conical stone was erected
 <span id="page_80">p. 80</span>
 
 <span class="contnote">\[paragraph continues\]</span> ([Fig.
-30](gpr23.htm#img_fig30)). It was called Apollo Agyieus (Apollo of the
+30](gpr23.htm#img_fig30).md). It was called Apollo Agyieus (Apollo of the
 street) because it stood in the street before the door of the house. Oil
 was poured on it, and it was decorated with fillets. Hence, it was
 sometimes called an altar, and sometimes an altar was erected at its
@@ -513,9 +513,9 @@ himself. At all events, the stone protected the house against evil, and
 in the classical age it was sacred to Apollo, the great averter of evil.
 
 Before the house an image of the triple Hecate was very often erected
-([Fig. 33](gpr23.htm#img_fig33)). Aristophanes tells us that when a
+([Fig. 33](gpr23.htm#img_fig33).md). Aristophanes tells us that when a
 woman left her house she made a prayer to Hecate. <span
-id="fr_98"></span>[25](#fn_98) We shall have more to say of this goddess
+id="fr_98"></span>[25](#fn_98.md) We shall have more to say of this goddess
 later. The Greeks always regarded her as the special goddess of magic
 and witchcraft. A power that can produce ghosts and magical evils can
 also avert them, and this is the reason why images of Hecate were set up
@@ -557,7 +557,7 @@ family, which was, of course, the family owning the ground where the
 cult place was.
 
 A great many cults were the property of a certain family. We know that
-this was true in Attica, <span id="fr_99"></span>[26](#fn_99) about
+this was true in Attica, <span id="fr_99"></span>[26](#fn_99.md) about
 which our information is much better than about other states of Greece,
 and we may suppose that the same was true everywhere. To adduce some
 examples, the Eleusinian Mysteries belonged to the Eumolpidae; the
@@ -571,7 +571,7 @@ of Isagoras, the rival of Cleisthenes, but that
 <span id="page_82">p. 82</span>
 
 his family sacrificed to Zeus Karios. <span
-id="fr_100"></span>[27](#fn_100) A certain cult was characteristic of a
+id="fr_100"></span>[27](#fn_100.md) A certain cult was characteristic of a
 certain family.
 
 Such a state of things is characteristic of the rule of the nobility, to
@@ -582,7 +582,7 @@ whom they were dependent. They apparently formed a kind of cult
 association, of which the members were called *orgeones* (worshippers).
 In regard to the cult, Solon seems to have put these associations on an
 equal footing with the noble families. <span
-id="fr_101"></span>[28](#fn_101) The noble families were divided into
+id="fr_101"></span>[28](#fn_101.md) The noble families were divided into
 phratries, or brotherhoods, whose members were called *phrateres*
 (brothers). The political reforms of Solon and Cleisthenes
 democratically extended this organization to the people without
@@ -628,94 +628,94 @@ the life of the Greek people.
 
 ### Footnotes
 
-<span id="fn_74"></span>[65:1](gpr08.htm#fr_74) Hesiod, *Opera*, vs.
+<span id="fn_74"></span>[65:1](gpr08.htm#fr_74.md) Hesiod, *Opera*, vs.
 365, and *Homeric Hymn to Hermes*. vs. 36.
 
-<span id="fn_75"></span>[66:2](gpr08.htm#fr_75) Best known is the town
+<span id="fn_75"></span>[66:2](gpr08.htm#fr_75.md) Best known is the town
 excavated by M. N. Valmin on Malthi and described in his work, *The
 Swedish Messenia Expedition* (Lund, 1938).
 
-<span id="fn_76"></span>[67:3](gpr08.htm#fr_76) See my paper, "Zeus
+<span id="fn_76"></span>[67:3](gpr08.htm#fr_76.md) See my paper, "Zeus
 Kataibates," *Rheinisches Museum*, XLIII (1908), 315 ff. For the various
 aspects of Zeus mentioned here see also the great work by A. B. Cook,
 *Zeus*.
 
-<span id="fn_77"></span>[68:4](gpr08.htm#fr_77) *Revue archèologique*,
+<span id="fn_77"></span>[68:4](gpr08.htm#fr_77.md) *Revue archèologique*,
 IX (1937), 195.
 
-<span id="fn_78"></span>[68:5](gpr08.htm#fr_78) Dittenberger, *Sylloge
+<span id="fn_78"></span>[68:5](gpr08.htm#fr_78.md) Dittenberger, *Sylloge
 inscriptionum Graecarum*, Vol. III, No. 991.
 
-<span id="fn_79"></span>[68:6](gpr08.htm#fr_79) *Pseudo-Herakles*, frag.
+<span id="fn_79"></span>[68:6](gpr08.htm#fr_79.md) *Pseudo-Herakles*, frag.
 519, in T. Kock, *Comicorum Atticorum fragmenta* (Leipzig, 1880-88).
 
-<span id="fn_80"></span>[68:7](gpr08.htm#fr_80) Anticleides, in
+<span id="fn_80"></span>[68:7](gpr08.htm#fr_80.md) Anticleides, in
 Athenaeus, XI, p. 473b.
 
-<span id="fn_81"></span>[68:8](gpr08.htm#fr_81) See my book, *The
+<span id="fn_81"></span>[68:8](gpr08.htm#fr_81.md) See my book, *The
 Minoan-Mycenaean Religion* and Its Survival in Greek Religion (Lund,
 1927), especially pp. 469 ff.
 
-<span id="fn_82"></span>[69:9](gpr08.htm#fr_82) Herodotus, VI, 127.
+<span id="fn_82"></span>[69:9](gpr08.htm#fr_82.md) Herodotus, VI, 127.
 
-<span id="fn_83"></span>[69:10](gpr08.htm#fr_83) Pausanias, III, 16, 3.
+<span id="fn_83"></span>[69:10](gpr08.htm#fr_83.md) Pausanias, III, 16, 3.
 
-<span id="fn_84"></span>[70:11](gpr08.htm#fr_84) Hesychius s.v.
+<span id="fn_84"></span>[70:11](gpr08.htm#fr_84.md) Hesychius s.v.
 Δειπάτυρος· ὁ θεὸς Τυμφαίοις. The Tymphaeans were a tribe in Epirus.
 
-<span id="fn_85"></span>[71:12](gpr08.htm#fr_85) See my
+<span id="fn_85"></span>[71:12](gpr08.htm#fr_85.md) See my
 *Minoan-Mycenaean Religion*, pp. 279 ff.
 
-<span id="fn_86"></span>[72:13](gpr08.htm#fr_86) In early Minoan times
+<span id="fn_86"></span>[72:13](gpr08.htm#fr_86.md) In early Minoan times
 there seems sometimes to have been a fixed hearth; later only portable
 fire pots existed. See P. Demargne, "Culte funéraire et foyer domestique
 dans la Crète minoenne," *Bulletin de correspondance hellénique*, LVI
 (1932), 60 ff.
 
-<span id="fn_87"></span>[72:14](gpr08.htm#fr_87) By F. Solmsen,
+<span id="fn_87"></span>[72:14](gpr08.htm#fr_87.md) By F. Solmsen,
 *Untersuchungen zur griechischen Laut- and Verslehre* (Strassburg,
 1901), pp. 191, 213.
 
-<span id="fn_88"></span>[73:15](gpr08.htm#fr_88) Herodotus, I, 177.
+<span id="fn_88"></span>[73:15](gpr08.htm#fr_88.md) Herodotus, I, 177.
 
-<span id="fn_89"></span>[74:16](gpr08.htm#fr_89) Frag. 96, in Bergk,
+<span id="fn_89"></span>[74:16](gpr08.htm#fr_89.md) Frag. 96, in Bergk,
 *Poetae lyrici Graeci*.
 
-<span id="fn_90"></span>[74:17](gpr08.htm#fr_90) Demosthenes, XIX, 189.
+<span id="fn_90"></span>[74:17](gpr08.htm#fr_90.md) Demosthenes, XIX, 189.
 
-<span id="fn_91"></span>[74:18](gpr08.htm#fr_91) Lectures on the
+<span id="fn_91"></span>[74:18](gpr08.htm#fr_91.md) Lectures on the
 Religion of the Semites, 3d ed. (London, 1927).
 
-<span id="fn_92"></span>[74:19](gpr08.htm#fr_92) Prolegomena, pp. 84 ff.
+<span id="fn_92"></span>[74:19](gpr08.htm#fr_92.md) Prolegomena, pp. 84 ff.
 
-<span id="fn_93"></span>[74:20](gpr08.htm#fr_93) *Theogony*, vss. 535
+<span id="fn_93"></span>[74:20](gpr08.htm#fr_93.md) *Theogony*, vss. 535
 ff. See Ada Thomsen, "Der Trug des Prometheus," *Archiv für
 Religionswissenschaft*, XII (1909), 460 ff.
 
-<span id="fn_94"></span>[79:21](gpr08.htm#fr_94) *Memorabilia*, I, 1,
+<span id="fn_94"></span>[79:21](gpr08.htm#fr_94.md) *Memorabilia*, I, 1,
 14.
 
-<span id="fn_95"></span>[79:22](gpr08.htm#fr_95) *Characteres*, 16.
+<span id="fn_95"></span>[79:22](gpr08.htm#fr_95.md) *Characteres*, 16.
 
-<span id="fn_96"></span>[79:23](gpr08.htm#fr_96) W. Dörpfeld, *Troja and
+<span id="fn_96"></span>[79:23](gpr08.htm#fr_96.md) W. Dörpfeld, *Troja and
 Ilion* (Athens, 1902), p. 134 and Figs. 44, 45; C. W. Blegen in *Amer.
 Journ. of Archaeology*, XXXVIII (1934), 241, Fig. 18, and XLI (1937),
 593, Fig. 36.
 
-<span id="fn_97"></span>[79:24](gpr08.htm#fr_97) B. Hrozný, "Les Quatre
+<span id="fn_97"></span>[79:24](gpr08.htm#fr_97.md) B. Hrozný, "Les Quatre
 Autels 'hittites' hiéroglyphiques d’Emri Ghazi et d’Eski Kisla," *Archiv
 orientalin*, VIII (1936), 171 ff.
 
-<span id="fn_98"></span>[80:25](gpr08.htm#fr_98) *Lysistrata*, vs. 64.
+<span id="fn_98"></span>[80:25](gpr08.htm#fr_98.md) *Lysistrata*, vs. 64.
 
-<span id="fn_99"></span>[81:26](gpr08.htm#fr_99) The examples are
+<span id="fn_99"></span>[81:26](gpr08.htm#fr_99.md) The examples are
 collected by J. Toepffer, *Attische Genealogie* (Berlin, 1889).
 
-<span id="fn_100"></span>[82:27](gpr08.htm#fr_100) Herodotus, V, 66.
+<span id="fn_100"></span>[82:27](gpr08.htm#fr_100.md) Herodotus, V, 66.
 
-<span id="fn_101"></span>[82:28](gpr08.htm#fr_101) See my *Gesch. der
+<span id="fn_101"></span>[82:28](gpr08.htm#fr_101.md) See my *Gesch. der
 griech. Rel.*, I, 672.
 
 ------------------------------------------------------------------------
 
-[Next: The Cities; the Panegyreis](gpr09)
+[Next: The Cities; the Panegyreis](gpr09.md)

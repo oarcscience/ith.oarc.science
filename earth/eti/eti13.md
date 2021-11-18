@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti12)  [Next](eti14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti12)  [Next](eti14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -273,7 +273,7 @@ engrossed on paper the mystic sentences that never
 
 <span id="img_05200"></span> <span align="CENTER"> [![I WAS TAKEN FROM
 THE VEHICLE, AND TRANSFERRED TO A BLOCK-HOUSE.](tn/05200.jpg)  
-Click to enlarge](img/05200.jpg)  
+Click to enlarge](img/05200.jpg.md)  
 “I WAS TAKEN FROM THE VEHICLE, AND TRANSFERRED TO A BLOCK-HOUSE.”  
 </span>
 
@@ -342,10 +342,10 @@ last I abandoned all hope of ever regaining my liberty.
 
 <span id="img_05400"></span> <span align="CENTER"> [![THE DEAD MAN WAS
 THROWN OVERBOARD.](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 “THE DEAD MAN WAS THROWN OVERBOARD.”  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. A Wild Night.—I Am Prematurely Aged](eti14)
+[Next: Chapter VIII. A Wild Night.—I Am Prematurely Aged](eti14.md)

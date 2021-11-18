@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat05.htm#XXII) 
-[Previous](satl021)  [Next](satl023) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat05.htm#XXII.md) 
+[Previous](satl021)  [Next](satl023.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ cymbalistria et concrepans aera omnes excitavit.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII](satl023)
+[Next: XXIII](satl023.md)

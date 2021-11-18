@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb24)  [Next](gnfb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb24)  [Next](gnfb26.md) 
 
 </div>
 
@@ -200,6 +200,6 @@ From the Chinese.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Three Bears](gnfb26)
+[Next: The Story of the Three Bears](gnfb26.md)
 
 </div>

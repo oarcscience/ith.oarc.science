@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut38)  [Next](hut40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut38)  [Next](hut40.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXXVI.
 
-### Formula of Medicine to Insure Long Life for an Infant. <span id="fr_80"></span>[1](#fn_80)
+### Formula of Medicine to Insure Long Life for an Infant. <span id="fr_80"></span>[1](#fn_80.md)
 
 <span id="page_297">p. 297</span>
 
@@ -84,10 +84,10 @@ blows from his hand the offering of incense root.
 
 ### Footnotes
 
-<span id="fn_80"></span>[292:1](hut39.htm#fr_80) Told at Hupa, December
+<span id="fn_80"></span>[292:1](hut39.htm#fr_80.md) Told at Hupa, December
 1901, by Emma Lewis.
 
 ------------------------------------------------------------------------
 
 [Next: XXXVII. Formula of Medicine to Protect Children in Strange
-Places](hut40)
+Places](hut40.md)

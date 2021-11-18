@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn16)  [Next](rmn18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn16)  [Next](rmn18.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ still in use at that period of the year in some parts of France.
 
 In the application, the positive meaning is, we think, the
 representation of a custom very common among the Romans. <span
-id="fr_24"></span>[1](#fn_24) The vase which the old man holds in his
+id="fr_24"></span>[1](#fn_24.md) The vase which the old man holds in his
 right hand is supposed to contain an aphrodisiac essence: and indeed it
 may be remarked that figures of this kind all represent old men, the
 young not needing to have recourse to these irritant preparations in
@@ -107,9 +107,9 @@ means of art."
 
 ### Footnotes
 
-<span id="fn_24"></span>[36:1](rmn17.htm#fr_24) See the explanation of
+<span id="fn_24"></span>[36:1](rmn17.htm#fr_24.md) See the explanation of
 Plate XV.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XVII: The Hermes in Bronze](rmn18)
+[Next: Plate XVII: The Hermes in Bronze](rmn18.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](cha05)  [Next](cha07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](cha05)  [Next](cha07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Works of Stephen Charnock*, \[1628-1680\] at Intangible Textual
 Heritage
 
@@ -3445,6 +3445,6 @@ End of part 2 of *A Discourse of the Efficient of Regeneration*.
 
 ------------------------------------------------------------------------
 
-[Next: Discourse of God's being the Author of Reconciliation](cha07)
+[Next: Discourse of God's being the Author of Reconciliation](cha07.md)
 
 </div>

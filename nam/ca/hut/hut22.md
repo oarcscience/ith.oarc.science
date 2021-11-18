@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut21)  [Next](hut23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut21)  [Next](hut23.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XIX.
 
-### Formula of the Jumping Dance. <span id="fr_55"></span>[1](#fn_55)
+### Formula of the Jumping Dance. <span id="fr_55"></span>[1](#fn_55.md)
 
 <span id="page_227">p. 227</span>
 
@@ -33,7 +33,7 @@ on them. He always pounds incense and scatters it there.
 
 ### Footnotes
 
-<span id="fn_55"></span>[226:1](hut22.htm#fr_55) Told at Hupa, November
+<span id="fn_55"></span>[226:1](hut22.htm#fr_55.md) Told at Hupa, November
 1901, by Senaxon.
 
 This formula is repeated by the priest while preparing the ground where
@@ -49,4 +49,4 @@ beginning at his wrists.
 
 ------------------------------------------------------------------------
 
-[Next: XX. Daily Prayer of the Priest at the Jumping Dance](hut23)
+[Next: XX. Daily Prayer of the Priest at the Jumping Dance](hut23.md)

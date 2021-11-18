@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mzb01)  [Next](mzb03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mzb01)  [Next](mzb03.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ Hail!
 
 ------------------------------------------------------------------------
 
-[Next: III. The Sutras](mzb03)
+[Next: III. The Sutras](mzb03.md)

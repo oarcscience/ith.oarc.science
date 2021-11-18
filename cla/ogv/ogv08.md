@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv07)  [Next](ogv09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv07)  [Next](ogv09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ power to new disciples. Orpheus possessor of intellectual and rational
 poetry, constituted that which I call *Eumolpœia*, which, being divided
 into theosophy and philosophy, produces all the works which treat of the
 Divinity, of the Universe, of Nature, and of Man in general. <span
-id="fr_171"></span>[\*](#fn_171) Homer, in joining to this spiritual
+id="fr_171"></span>[\*](#fn_171.md) Homer, in joining to this spiritual
 poetry the enthusiasm of the passions, created Epopœia, whose
 magnificent genus envelops a multitude of specie, where the intellectual
 faculty and passion dominate with more or less energy under the
@@ -67,7 +67,7 @@ moment upon its débris: I say for a moment, because it was not here that
 the new empire was to be established: Europe had still obeyed; she was
 one day to command. Rome was already, in the thought of the future, the
 culminating point of the earth. A few centuries sufficed for this city,
-then unknown, <span id="fr_172"></span>[\*](#fn_172) to attain to the
+then unknown, <span id="fr_172"></span>[\*](#fn_172.md) to attain to the
 height of glory. Emerging from her obscurity, conquering Pyrrhus,
 dominating Italy, combating and overthrowing Carthage, conquering
 Greece, and trampling under foot twenty diadems borne by the successors
@@ -108,7 +108,7 @@ only the vain production of an insensate delirium. Here is an
 observation, *Messieurs*, somewhat new, with which I may engage your
 attention: the first comedies appeared five hundred and eighty years
 before our era, which was about twenty years after Pherecydes wrote the
-first work in prose. <span id="fr_173"></span>[1](#fn_173) This
+first work in prose. <span id="fr_173"></span>[1](#fn_173.md) This
 philosopher doubtless, did not believe that a language prostituted to
 the burlesque parodies of Susarion should be useful further to the
 meditations of the sages. It is not, however, that at long intervals
@@ -117,12 +117,12 @@ their disciples, have not
 
 <span id="page_61">p. 61</span>
 
-written in verse <span id="fr_174"></span>[1](#fn_174); but the remains
+written in verse <span id="fr_174"></span>[1](#fn_174.md); but the remains
 of the ancient usage soon gave way, especially when Plato had
 embellished prose with the charm of his captivating eloquence. Before
 this philosopher, Herodotus had read in the assembly of the Olympic
 games an history of Greece connected with that of the greater part of
-the neighbouring nations. <span id="fr_175"></span>[2](#fn_175) This
+the neighbouring nations. <span id="fr_175"></span>[2](#fn_175.md) This
 work, written in a fluent style, clear and persuasive, had so enchanted
 the Greeks, that they had given to the nine books which he composed, the
 names of the nine Muses. Nevertheless, an observation which will not be
@@ -153,7 +153,7 @@ it had fallen, by
 
 <span class="contnote">\[paragraph continues\]</span> Lucretius who,
 being inspired by the works of Leucippus and of Epicurus <span
-id="fr_176"></span>[1](#fn_176) wrote a book upon the nature of things,
+id="fr_176"></span>[1](#fn_176.md) wrote a book upon the nature of things,
 which has never been as yet well comprehended or well translated, the
 language not being understood.
 
@@ -170,12 +170,12 @@ art, they unfortunately were able to do for Epopœia. Certain writers,
 able versifiers, but absolutely deprived of intellectual inspiration,
 incapable of distinguishing in poetry the essence from the form,
 following what the degenerated theatre and the inspired declamations of
-Euhemerus <span id="fr_177"></span>[2](#fn_177) had taught them,
+Euhemerus <span id="fr_177"></span>[2](#fn_177.md) had taught them,
 imagined foolishly that the gods and heroes of antiquity having been
 only men stronger and more powerful than the others, mythology was only
 a crude collection of historic facts disfigured, and Epopœia only an
 emphatic discourse upon these same facts. <span
-id="fr_178"></span>[3](#fn_178) Thereupon they believed that it was only
+id="fr_178"></span>[3](#fn_178.md) Thereupon they believed that it was only
 a question of taking any historic subject whatever, and relating it in
 verse with certain embellishments,
 
@@ -201,7 +201,7 @@ first ages, it had been excluded early enough so that there remained no
 longer the least trace of it. The Latin tongue, very far from the Greek
 in flexibility, variety, and harmony, for a long time treated with
 contempt by the Greeks who, regarding it as a barbarous dialect, only
-learned it with repugnance <span id="fr_179"></span>[1](#fn_179); the
+learned it with repugnance <span id="fr_179"></span>[1](#fn_179.md); the
 Latin tongue, I say, unpleasing, obscure, not even supporting the
 mediocrity of ordinary elocution, became, through the laborious efforts
 of its writers, a tongue which in the works of Vergil, for example,
@@ -312,7 +312,7 @@ torture as the price of their
 
 <span id="page_67">p. 67</span>
 
-lessons. <span id="fr_180"></span>[1](#fn_180) After several sorry
+lessons. <span id="fr_180"></span>[1](#fn_180.md) After several sorry
 examples, these men, having become prudent, assumed the part of silence
 by retiring into monasteries or hermitages, studying Nature there in
 quietude, and profiting alone by their discoveries. If certain ones
@@ -330,13 +330,13 @@ greater than one could ever have imagined, since he is the vital source
 whence have come all the orders, all the institutions of chivalry with
 which Europe has been inundated; this man, I say, was a monk of
 *Saint-André de Vienne*, living from the tenth to the eleventh century
-and perhaps a little before. <span id="fr_181"></span>[2](#fn_181) The
+and perhaps a little before. <span id="fr_181"></span>[2](#fn_181.md) The
 book that he composed had a success as much the more prodigious as it
 was misunderstood, and such was the ignorance not only of the people,
 but even of the clergy, that the most palpable fictions were taken for
 realities. There are historians even who pretend that the council of
 Rheims, celebrated in 1119, declared this work authentic <span
-id="fr_182"></span>[3](#fn_182); and thence came the habit of
+id="fr_182"></span>[3](#fn_182.md); and thence came the habit of
 attributing it to Archbishop Turpin. However that may be, it is to the
 allegorical history of Charlemagne, to that of his twelve paladins,
 called peers of France, to that of the four sons of Aymon and of
@@ -347,7 +347,7 @@ heroes of the *bibliothèque bleue*, for
 
 a long time our only *bibliotheca*, that we owe a new style of poetry,
 called Romanesque, on account of the Romance tongue in which it had
-birth. <span id="fr_183"></span>[1](#fn_183) This style is to the
+birth. <span id="fr_183"></span>[1](#fn_183.md) This style is to the
 *eumolpique* style, as a wild offshoot, growing laboriously in an arid
 and bramble-covered land, is to a cultivated tree which rises
 majestically in the heart of a fertile country.
@@ -357,7 +357,7 @@ Saint André, that the first poetic ideas were brought forth in France.
 The Oscan troubadours seizing these first glimmerings of genius, threw
 themselves with enthusiasm into a career which offered at the same time
 pleasures, glory, and the gifts of fortune. <span
-id="fr_184"></span>[2](#fn_184) They sang of the fair, of gallants and
+id="fr_184"></span>[2](#fn_184.md) They sang of the fair, of gallants and
 of kings; but their verses, monotonous enough when a real passion did
 not animate them, hardly reached above eulogy or satire. But little
 capable of feeling the moral beauties of poetry, they stopped at form.
@@ -366,7 +366,7 @@ rhyming much and with difficulty. One could not imagine to what lengths
 they went in this style. Not content with restricting themselves to
 follow the same rhyme throughout the entire course of the poem, they
 sometimes doubled it at the end of each verse, rhyming by echo, or else
-they made an initial rhyme. <span id="fr_185"></span>[3](#fn_185) These
+they made an initial rhyme. <span id="fr_185"></span>[3](#fn_185.md) These
 obstacles becoming multiplied stifled their muse in its cradle. All that
 art owed to these first modern poets was limited to a sort
 
@@ -376,12 +376,12 @@ of song, gay and sprightly, ordinarily a parody upon a more serious
 subject, and which, because it was quite frequently sung with an air of
 the dance accompanied by the *vielle* or *hurdy-gurdy*, their favourite
 instrument, was called *vau-de-vielle*, or as is pronounced today,
-vaudeville. <span id="fr_186"></span>[1](#fn_186)
+vaudeville. <span id="fr_186"></span>[1](#fn_186.md)
 
 The Italians and Spaniards, who received from the Oscan troubadours
 their first impulse toward poetry, would have been perhaps as limited as
 they, to composing amorous sonnets, madrigals or, at the most, certain
-vehement *sylves*, <span id="fr_187"></span>[2](#fn_187) if the Greeks,
+vehement *sylves*, <span id="fr_187"></span>[2](#fn_187.md) if the Greeks,
 driven from their country by the conquests of Mohammed II., had not
 brought them the works of the ancients as I have already said. These
 works, explained in the *chaire publique*, due to the munificence of the
@@ -401,7 +401,7 @@ also
 <span class="contnote">\[paragraph continues\]</span> England and
 Germany were inundated with a mass of romances and ballads, wherein were
 pictured the knights of the court of Charlemagne and those of the Round
-Table. <span id="fr_188"></span>[1](#fn_188) All these works were
+Table. <span id="fr_188"></span>[1](#fn_188.md) All these works were
 written in verse, and the greater part, particularly those composed by
 the troubadours or their disciples, intended to be sung, were cut into
 strophes. Those of the imitator poets, who had had the force to go back
@@ -415,13 +415,13 @@ Ogier-le-Danois, that of Alexander the Great and of the Bible, that of
 the Seven Sages and of Judas Maccabeus, that of the History of the
 Normands and the Bretons, and finally that of the Rose, the most famous
 of all. A certain Guilhaume had published a philosophical romance upon
-the nature of beasts. <span id="fr_189"></span>[2](#fn_189)
+the nature of beasts. <span id="fr_189"></span>[2](#fn_189.md)
 
 Already the Italian poets, after having received from the troubadours
 the form of their verses and that of their works, had surpassed their
 masters and had caused them to be forgotten. Petrarch in the sonnet and
 Dante in the *sirvente* assumed all the glory of their models, and left
-not any for the successors <span id="fr_190"></span>[3](#fn_190);
+not any for the successors <span id="fr_190"></span>[3](#fn_190.md);
 already even Bojardo and some
 
 <span id="page_71">p. 71</span>
@@ -515,7 +515,7 @@ ancient rhythm; but, in another way he had not appreciated the genius of
 that tongue which refused to follow this rhythm. Jodelle, Baïf,
 Passerat, Desportes, Henri-Etienne, and certain other savants, have made
 at different times the same attempt, and always without results. <span
-id="fr_191"></span>[1](#fn_191) Each tongue has its own character which
+id="fr_191"></span>[1](#fn_191.md) Each tongue has its own character which
 it is necessary to know; ours has not at all the musical prosody of the
 Greek and Latin; its syllables are not determined, long and short, by
 the simple duration of time, but by the different accentuation and
@@ -528,7 +528,7 @@ verses
 
 measured by rhythm; and secondly, that even in the case where this might
 be possible, he did not see how this rhythm could be conformable to that
-of the Greeks and Latins. <span id="fr_192"></span>[1](#fn_192)
+of the Greeks and Latins. <span id="fr_192"></span>[1](#fn_192.md)
 
 I am absolutely of his opinion on these two points; I am furthermore,
 *en partie*, on what he says of the rhyme. I know as he, that it is not
@@ -536,7 +536,7 @@ an invention of the barbarous ages; I know even more, that it is the
 luxurious production of a very enlightened age; I must say that it has
 brought forth thousands of beautiful verses, that it is often to the
 poet like a strange genius which comes to the assistance of his
-own. <span id="fr_193"></span>[2](#fn_193) God forbid that I pretend to
+own. <span id="fr_193"></span>[2](#fn_193.md) God forbid that I pretend to
 separate it from French verse of which it is a charm. Rhyme is
 necessary, even indispensable, to romantic poetry and to all that is
 derived from it; and songs, ballads, vaudevilles, sylves of whatever
@@ -572,11 +572,11 @@ condition of the principal nations of the earth.
 
 ### Footnotes
 
-<span id="fn_171"></span>[58:\*](ogv08.htm#fr_171) Thence arises the
+<span id="fn_171"></span>[58:\*](ogv08.htm#fr_171.md) Thence arises the
 epithet of *Eumolpique* that I give to the verses which form the subject
 of this work.
 
-<span id="fn_172"></span>[59:\*](ogv08.htm#fr_172) The proof that Rome
+<span id="fn_172"></span>[59:\*](ogv08.htm#fr_172.md) The proof that Rome
 was scarcely known in Greece, at the epoch of Alexander, is that the
 historian Theopompus, accused by all critics of too much prolixity, has
 said only a single word concerning this city, to announce that she had
@@ -586,16 +586,16 @@ would not have failed to furnish the subject of a long digression for
 this historian, who would have delighted much in it. (*Dict. crit.*,
 art. THEOPOMPUS, rem. E.)
 
-<span id="fn_173"></span>[60:1](ogv08.htm#fr_173) Diogen. Laërt., l. i.,
+<span id="fn_173"></span>[60:1](ogv08.htm#fr_173.md) Diogen. Laërt., l. i.,
 § 116. Pliny, l. v., c. 29. Suidas, In φερεχύδς.
 
-<span id="fn_174"></span>[61:1](ogv08.htm#fr_174) Degerando, *Hist. des
+<span id="fn_174"></span>[61:1](ogv08.htm#fr_174.md) Degerando, *Hist. des
 Systêm. de Phil.*, t. i., p. 128, à la note.
 
-<span id="fn_175"></span>[61:2](ogv08.htm#fr_175) Dionys. Halic., *De
+<span id="fn_175"></span>[61:2](ogv08.htm#fr_175.md) Dionys. Halic., *De
 Thucid. Judic*.
 
-<span id="fn_176"></span>[62:1](ogv08.htm#fr_176) The real founder of
+<span id="fn_176"></span>[62:1](ogv08.htm#fr_176.md) The real founder of
 the Atomic system such as has been adopted by Lucretius (*De Rerum
 Natura*, l. i.), was Moschus, Phœnician philosopher whose works threw
 light upon those of Leucippus (Posidonius cité par Strabon, l. xvi.,
@@ -603,17 +603,17 @@ Sext. Empiric., *Adv. mathem.*, p. 367). This system well understood,
 does not differ from that of the monads, of which Leibnitz was the
 inventor.
 
-<span id="fn_177"></span>[62:2](ogv08.htm#fr_177) Fréret, *Mytholog. ou
+<span id="fn_177"></span>[62:2](ogv08.htm#fr_177.md) Fréret, *Mytholog. ou
 Religion des Grecs*.
 
-<span id="fn_178"></span>[62:3](ogv08.htm#fr_178) Voltaire, who has
+<span id="fn_178"></span>[62:3](ogv08.htm#fr_178.md) Voltaire, who has
 adopted this error, has founded it upon the signification of the word
 *Epos*, which he has connected with that of Discourse (Dictionn. philos.
 au mot EPOPÉE). But he is mistaken. The Greek word ἔπος is translated
 accurately by *versus*. Thence the verb επεῖν, to follow in the tracks,
 to turn, to go, in the same sense.
 
-<span id="fn_179"></span>[63:1](ogv08.htm#fr_179) The Greeks looked upon
+<span id="fn_179"></span>[63:1](ogv08.htm#fr_179.md) The Greeks looked upon
 the Latin authors and artists as paupers enriched by their spoils; also
 they learned their language only when forced to do so. The most
 celebrated writers by whom Rome was glorified, were rarely cited by
@@ -626,17 +626,17 @@ himself on account of having so little knowledge of the Latin tongue, he
 who had lived so long in Rome! Emperor Julian, who has written only in
 Greek, cites only Greek authors and not one Latin.
 
-<span id="fn_180"></span>[67:1](ogv08.htm#fr_180) *Voyez* l’ouvrage de
+<span id="fn_180"></span>[67:1](ogv08.htm#fr_180.md) *Voyez* l’ouvrage de
 Naudé, intitulé: *Apologie des hommes accusés de magie*. Le nombre de
 ces hommes est très-considérable.
 
-<span id="fn_181"></span>[67:2](ogv08.htm#fr_181) Allard, *Bibl. du
+<span id="fn_181"></span>[67:2](ogv08.htm#fr_181.md) Allard, *Bibl. du
 Dauphiné*, à la fin.
 
-<span id="fn_182"></span>[67:3](ogv08.htm#fr_182) Duplessis-Mornai,
+<span id="fn_182"></span>[67:3](ogv08.htm#fr_182.md) Duplessis-Mornai,
 *Mystère d’iniquité.*, p. 279.
 
-<span id="fn_183"></span>[68:1](ogv08.htm#fr_183) This Ballad tongue, or
+<span id="fn_183"></span>[68:1](ogv08.htm#fr_183.md) This Ballad tongue, or
 rather Romance, was a mixture of corrupt Latin, Teutonic, and ancient
 Gallic. It was called thus, in order to distinguish it from the pure
 Latin and French. The principal dialects of the Romance tongue were the
@@ -647,21 +647,21 @@ cultivated it, disappeared with them in the fourteenth century and was
 lost in numberless obscure provincial dialects. Voyez *Le Troubadour*,
 poésies occitaniques, à la Dissert., vol. i.
 
-<span id="fn_184"></span>[68:2](ogv08.htm#fr_184) Fontenelle, *Hist. du
+<span id="fn_184"></span>[68:2](ogv08.htm#fr_184.md) Fontenelle, *Hist. du
 Théâtre Français*.
 
-<span id="fn_185"></span>[68:3](ogv08.htm#fr_185) *Voyez* Sainte-Palaye,
+<span id="fn_185"></span>[68:3](ogv08.htm#fr_185.md) *Voyez* Sainte-Palaye,
 *Mém. sur l’ancienne Cheval.*; Millot, *Hist. des Troubad*. Disc.
 prélim., on ce que j’ai dit moi-même dans le Troubadour, comme
 ci-dessus.
 
-<span id="fn_186"></span>[69:1](ogv08.htm#fr_186) It is necessary to
+<span id="fn_186"></span>[69:1](ogv08.htm#fr_186.md) It is necessary to
 observe that *vau* or *val*, *bau* or *bal*, according to the dialect,
 signifies equally a dance, a ball, and a folly, a fool. The Phœnician,
 root ‏על‎ (*whal*) expresses all that is elevated, exalted. The French
 words *bal*, *vol*, *fol*, are here derived.
 
-<span id="fn_187"></span>[69:2](ogv08.htm#fr_187) The sonnets are of
+<span id="fn_187"></span>[69:2](ogv08.htm#fr_187.md) The sonnets are of
 Oscan origin. The word son signifies a song in the ancient *langue
 d’oc*. The word *sonnet* is applied to a little song, pleasing and of an
 affected form.
@@ -676,19 +676,19 @@ kinds of serious poems, ordinarily satirical. These words come from the
 Latin *sylva* which, according to Quintilius, is said of a piece of
 verse recited *ex-tempore* (l. x., c. 3).
 
-<span id="fn_188"></span>[70:1](ogv08.htm#fr_188) *Voyez* Laborde,
+<span id="fn_188"></span>[70:1](ogv08.htm#fr_188.md) *Voyez* Laborde,
 *Essai sur la Musique*, t. i., p. 112, et t. ii., p. 168. On trouve, de
 la page 149 à la page 232 de ce même volume, un catalogue de tous les
 anciens romanciers français. On peut voir, pour les Italiens,
 Crescembini, *Della Volgar Poësia*.
 
-<span id="fn_189"></span>[70:2](ogv08.htm#fr_189) See Laborde. It is
+<span id="fn_189"></span>[70:2](ogv08.htm#fr_189.md) See Laborde. It is
 believed that this Guilhaume, bishop of Paris, is the author of the
 hieroglyphic figures which adorn the portal of Notre-Dame, and that they
 have some connection with the hermetic science. (*Biblioth. des Phil.
 Chim.*, t. iv. Saint-Foix, *Essai sur Paris*.)
 
-<span id="fn_190"></span>[70:3](ogv08.htm#fr_190) Perhaps one is
+<span id="fn_190"></span>[70:3](ogv08.htm#fr_190.md) Perhaps one is
 astonished to see that I give the name of sirventes, or sylves, to that
 which is commonly called the poems of Dante; but in order to understand
 me, it is necessary to consider that these poems, composed of stanzas of
@@ -699,16 +699,16 @@ only long ballads. They are poems because of the unity which,
 notwithstanding the innumerable episodes with which they are filled,
 constitutes the principal subject.
 
-<span id="fn_191"></span>[73:1](ogv08.htm#fr_191) Pasquier, *Hist. et
+<span id="fn_191"></span>[73:1](ogv08.htm#fr_191.md) Pasquier, *Hist. et
 Recherch. des Antiq.*, l. vii., ch. 12. Henri-Etienne, *Précellence du
 Lang. Franç.*, p. 12. D’Olivet, *Prosod.*, art. i., § 2.
 Delisle-de-Salles, *Hist. de la Trag.*, t. i., p. 154, à la note.
 
-<span id="fn_192"></span>[74:1](ogv08.htm#fr_192) D’Olivet, *Prosod.*,
+<span id="fn_192"></span>[74:1](ogv08.htm#fr_192.md) D’Olivet, *Prosod.*,
 art. V., § 1.
 
-<span id="fn_193"></span>[74:2](ogv08.htm#fr_193) *Ibidem*.
+<span id="fn_193"></span>[74:2](ogv08.htm#fr_193.md) *Ibidem*.
 
 ------------------------------------------------------------------------
 
-[Next: § VI](ogv09)
+[Next: § VI](ogv09.md)

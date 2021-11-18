@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai25)  [Next](iai27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai25)  [Next](iai27.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,12 +39,12 @@ Of Larsa, Ur, Kardunia and Sutu
 The Sar upon his brow the crown now bound,  
 Receives the sceptre while his courts resound  
 With shouts for Sar-dan-nu of Subartu,  
-The Sar of Kip-rat arba <span id="fr_209"></span>[1](#fn_207) and
+The Sar of Kip-rat arba <span id="fr_209"></span>[1](#fn_207.md) and
 Sutu,  
-Of Sumir, Accad, Nipur, Bar-ili, <span id="fr_210"></span>[2](#fn_208)  
+Of Sumir, Accad, Nipur, Bar-ili, <span id="fr_210"></span>[2](#fn_208.md)  
 And Erech, Larsa, Mairu, and Kus-si,  
 Of Mal-al-nak, Kitu;--the sky resounds--  
-For Iz-zu-bar-ili, <span id="fr_211"></span>[3](#fn_209) from earth
+For Iz-zu-bar-ili, <span id="fr_211"></span>[3](#fn_209.md) from earth
 rebounds;  
 For Nam-mu-rabi, Bar-bels king of fire.  
 What king to his great glory can aspire?
@@ -55,7 +55,7 @@ To Samas burn; its flame ne'er dies,
 To holiness lead man's desires.  
 He opens wide the fiery gates  
 Of all the gods at Dintir old,  
-Ka-ding-ir-a. <span id="fr_212"></span>[4](#fn_210) This day completes  
+Ka-ding-ir-a. <span id="fr_212"></span>[4](#fn_210.md) This day completes  
 His grandeur--may it far be told  
 Of our great Sar whose godly gate  
 Wide opens Heaven's joy for man,  
@@ -79,7 +79,7 @@ To her are all the dazzling splendors given.
 
 The glittering court is filled with chiefs and seers,  
 When Ishtar at the entrance now appears,  
-The Ner-kalli, <span id="fr_213"></span>[5](#fn_211) her heralds at the
+The Ner-kalli, <span id="fr_213"></span>[5](#fn_211.md) her heralds at the
 door,  
 As some grand sovereign from a foreign shore,  
 The goddess proudly enters with her train,  
@@ -88,7 +88,7 @@ From mountains, rivers, woods, and running streams;
 And every spirit where the sunlight gleams,  
 Now fill the courts and palaces and halls,  
 And thousands glowing bright surround the walls;  
-Each wafting wind brings I-gi-gi <span id="fr_214"></span>[6](#fn_212)
+Each wafting wind brings I-gi-gi <span id="fr_214"></span>[6](#fn_212.md)
 that soar  
 Above An-un-na-ci from every shore,  
 And herald Ishtar's presence, Queen of Love,  
@@ -149,7 +149,7 @@ Amid the fragrant odors of the pines,
 And all shrubs and flowers, vines,  
 Euphrates' *zir-ri* there shall sing for thee,  
 And dance around thy feet with *zi-mu-ri* <span
-id="fr_215"></span>[7](#fn_213)  
+id="fr_215"></span>[7](#fn_213.md)  
 And kings and lords and princes I will bring  
 To bow to thee, beloved, glorious king!  
 With tribute from the mountains and the plains,  
@@ -170,33 +170,33 @@ And loud acclaims shall rend the bright Samu."
 
 ### Footnotes
 
-<span id="fn_207"></span>[78:1](iai26.htm#fr_209) "Kip-rat arba," the
+<span id="fn_207"></span>[78:1](iai26.htm#fr_209.md) "Kip-rat arba," the
 four races or regions.
 
-<span id="fn_208"></span>[78:2](iai26.htm#fr_210) "Bar-ili," from "bar"
+<span id="fn_208"></span>[78:2](iai26.htm#fr_210.md) "Bar-ili," from "bar"
 gate, and "ili," of the gods--Babel, bab--originates from the Accadian
 word "bar," Semitic "bab;" thus Babel was originally called "bar-ili."
 See Taylor and Furst. The latter renders it "Bar-(bir-)Bel," "town of
 Belus."
 
-<span id="fn_209"></span>[78:3](iai26.htm#fr_211) "Izzu-bar-ili" we
+<span id="fn_209"></span>[78:3](iai26.htm#fr_211.md) "Izzu-bar-ili" we
 believe to be the original name of Izdubar, afterward shortened to
 Izdubar, and means literally the fire-king of "bar-ili," or the
 "fire-king of the gate of the gods." This identifies him with Nimrod,
 the founder of Par-bet or Babylon.
 
-<span id="fn_210"></span>[78:4](iai26.htm#fr_212) Ka-ding-ir-a (Ace.),
+<span id="fn_210"></span>[78:4](iai26.htm#fr_212) Ka-ding-ir-a (Ace..md),
 "gate of God"--Pinches.
 
-<span id="fn_211"></span>[79:5](iai26.htm#fr_213) "Ner-kalli," or
+<span id="fn_211"></span>[79:5](iai26.htm#fr_213.md) "Ner-kalli," or
 "Ner-ekalli," chief of the palace.
 
-<span id="fn_212"></span>[79:6](iai26.htm#fr_214) "I-gi-gi", pronounced
+<span id="fn_212"></span>[79:6](iai26.htm#fr_214.md) "I-gi-gi", pronounced
 "e-gee-gee," spirits of heaven.
 
-<span id="fn_213"></span>[80:7](iai26.htm#fr_215) "Zi-mu-ri," spirits of
+<span id="fn_213"></span>[80:7](iai26.htm#fr_215.md) "Zi-mu-ri," spirits of
 the light.
 
 ------------------------------------------------------------------------
 
-[Next: Column II. The King's Answer and Ishtar's Rage](iai27)
+[Next: Column II. The King's Answer and Ishtar's Rage](iai27.md)

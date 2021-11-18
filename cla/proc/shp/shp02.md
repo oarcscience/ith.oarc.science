@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Procopius](../index)  [Index](index)  [Previous](shp01)  [Next](shp03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Procopius](../index)  [Index](index)  [Previous](shp01)  [Next](shp03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -278,7 +278,7 @@ one recalls that the moving picture palaces of today boast of
 
 <span id="page_15">p. 15</span>
 
-their Byzantine architecture. Here are [the](errata.htm#0) nimble Greeks
+their Byzantine architecture. Here are [the](errata.htm#0.md) nimble Greeks
 of old Byzantium; sailors from the Pillars of Hercules jostling elbows
 with Christianized Jews; visiting Persian ambassadors or spies; Vandal,
 Visigoth, Ostrogoth, and all the barbarian tribal emissaries, staring
@@ -394,4 +394,4 @@ Richard Atwater      
 
 ------------------------------------------------------------------------
 
-[Next: Foreword by the Historian](shp03)
+[Next: Foreword by the Historian](shp03.md)

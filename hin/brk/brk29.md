@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk28)  [Next](brk30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk28)  [Next](brk30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
@@ -21,7 +21,7 @@ Heritage
 
 ### SOME TEXTS OF THE VEDĀNTA
 
-#### I. <span class="smallcaps">Creation</span> <span id="fr_4"></span>[1](#fn_4)
+#### I. <span class="smallcaps">Creation</span> <span id="fr_4"></span>[1](#fn_4.md)
 
 1\. <span class="smallcaps">In</span> the beginning this universe was
 Self alone; there was naught else open-eyed. He bethought Himself: "Now
@@ -34,7 +34,7 @@ beneath.
 
 He bethought Himself: "There are the worlds; now I will create
 world-wardens!" He drew from the waters Man, <span
-id="fr_5"></span>[2](#fn_5) and made him solid. He brooded over him.
+id="fr_5"></span>[2](#fn_5.md) and made him solid. He brooded over him.
 When he had been brooded over, his mouth burst asunder like an egg; from
 his mouth arose Speech, from speech Fire. His nostrils burst asunder;
 from his nostrils arose the incoming Breath, from the
@@ -51,7 +51,7 @@ from the Breath Death. His secret parts burst asunder; from his secret
 parts arose seed, from seed the Waters.
 
 2\. These gods, having been created, fell into this great ocean; this He
-gave over to Hunger and Thirst. <span id="fr_6"></span>[1](#fn_6) They
+gave over to Hunger and Thirst. <span id="fr_6"></span>[1](#fn_6.md) They
 said to Him: "Find out for us a dwelling-place in which we may rest and
 eat food." He brought them a cow. They said: "This is not enough for
 us." He brought them a horse. They said: "This is not enough for us." He
@@ -100,43 +100,43 @@ the secret parts, but could not; if He had seized it with the secret
 parts, one might have been filled with food through excretion only. He
 sought to seize it with the outgoing Breath, and He swallowed it. It is
 the Wind that grasps Food, the Wind that wins Food. <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 He bethought Himself: "How can this be without me?" He bethought
 Himself: "By what way shall I come in?" He bethought Himself: "If
 speaking is by speech, in-breathing by the in-breath, sight by the eye,
 hearing by the ear, touch by the skin, thinking by the mind,
 out-breathing by the out-breath, excretion by the secret parts, then who
-am I?" <span id="fr_8"></span>[2](#fn_8)
+am I?" <span id="fr_8"></span>[2](#fn_8.md)
 
 He cleft asunder the crown of the head, and by that door came in. This
 door is called the "cleft"; it makes for bliss. <span
-id="fr_9"></span>[3](#fn_9)
+id="fr_9"></span>[3](#fn_9.md)
 
 <span id="page_60">p. 60</span>
 
 Three dwellings has He, and three dream-states —this is His dwelling,
 this His dwelling, this His dwelling. <span
-id="fr_10"></span>[1](brk30.htm#fn_10)
+id="fr_10"></span>[1](brk30.htm#fn_10.md)
 
 Having been born, He surveyed living things. "What is here," said He,
 "that one would call other \[than Me\]?" He saw man to be most utterly
 Brahma, and He said, *"idam* *adarśam"* ("I have seen it"). Therefore He
 has the name *Idan-dra.* His name is indeed *Idan-dra;* but him who is
 *Idan-dra* men call *Indra,* <span
-id="fr_11"></span>[2](brk30.htm#fn_11) in a dark manner; for the gods
+id="fr_11"></span>[2](brk30.htm#fn_11.md) in a dark manner; for the gods
 love what is dark.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_4"></span>[56:1](brk29.htm#fr_4) Aitareya Upanishad, i.
+<span id="fn_4"></span>[56:1](brk29.htm#fr_4.md) Aitareya Upanishad, i.
 
-<span id="fn_5"></span>[56:2](brk29.htm#fr_5) *Purusha;* see above, §§
+<span id="fn_5"></span>[56:2](brk29.htm#fr_5.md) *Purusha;* see above, §§
 4, 5, 7.
 
-<span id="fn_6"></span>[57:1](brk29.htm#fr_6) The cosmic powers, Fire,
+<span id="fn_6"></span>[57:1](brk29.htm#fr_6.md) The cosmic powers, Fire,
 Wind, Sun, Space, Vegetation, Moon, Death, and Water (each of which is
 created from a corresponding function of the ideal Man) are in
 themselves powerless. They sink back into the primitive waters, and
@@ -144,15 +144,15 @@ suffer hunger and thirst; they must have a home in the real Man in order
 to be satisfied and active. The forces of Nature exist only through and
 in the human subject
 
-<span id="fn_7"></span>[59:1](brk29.htm#fr_7) The outgoing breath,
+<span id="fn_7"></span>[59:1](brk29.htm#fr_7.md) The outgoing breath,
 *apāna,* probably is here identified with the function of digestion (p.
 43). The rest of the sentence is based upon a word-play.
 
-<span id="fn_8"></span>[59:2](brk29.htm#fr_8) For the answer to this
+<span id="fn_8"></span>[59:2](brk29.htm#fr_8.md) For the answer to this
 question, see the next extract.
 
-<span id="fn_9"></span>[59:3](brk29.htm#fr_9) See above, § 9.
+<span id="fn_9"></span>[59:3](brk29.htm#fr_9.md) See above, § 9.
 
 ------------------------------------------------------------------------
 
-[Next: II: Who am I?](brk30)
+[Next: II: Who am I?](brk30.md)

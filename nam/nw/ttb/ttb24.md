@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb23)  [Next](ttb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb23)  [Next](ttb25.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_37">p. 37</span>
 
-<span id="img_03700"></span> ![Slag’ame, the Butterfly](img/03700.jpg)
+<span id="img_03700"></span> ![Slag’ame, the Butterfly](img/03700.jpg.md)
 
 ### Slag’ame, THE BUTTERFLY
 
@@ -54,4 +54,4 @@ Island.
 
 ------------------------------------------------------------------------
 
-[Next: Shaman, the Medicine Man](ttb25)
+[Next: Shaman, the Medicine Man](ttb25.md)

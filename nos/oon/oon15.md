@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon14)  [Next](oon16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon14)  [Next](oon16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -23,7 +23,7 @@ THE VULGAR ADVENT. \[I. 160.\]
 
 Century VI.--*Quatrain* 74.
 
-La. dechassée <span id="fr_217"></span>[1](#fn_216) an regne tournera,  
+La. dechassée <span id="fr_217"></span>[1](#fn_216.md) an regne tournera,  
 Ses ennemies trouvés des conjurés:  
 Plus que jamais son temps triomphera,  
 Trois et septante à mort trop asseurés.
@@ -52,11 +52,11 @@ Sedan, 1870,
 Century I.--*Quatrain* 3. (*September* 22, 1792.) \[I. 162.\]
 
 Quand la lictiere du tourbillion versée, <span
-id="fr_218"></span>[1](#fn_217)  
-Et seront faces de leurs manteaux <span id="fr_219"></span>[2](#fn_218)
+id="fr_218"></span>[1](#fn_217.md)  
+Et seront faces de leurs manteaux <span id="fr_219"></span>[2](#fn_218.md)
 couvers,  
 La republique par gens nouveaux vexée, <span
-id="fr_220"></span>[3](#fn_219)  
+id="fr_220"></span>[3](#fn_219.md)  
 Lors blancs et rouges jugeront à l'envers.
 
 Translation.
@@ -71,16 +71,16 @@ rouges*) will judge of everything from utterly opposed points of view.
 What was top will become bottom, when the blast blows the litter over;
 and, new men rising to power, the rest will cover their faces with
 hypocrisy, as men do with their cloaks in a storm. Compare the phrase *à
-l'envers* with [p. 154](oon14.htm#page_154).
+l'envers* with [p. 154](oon14.htm#page_154.md).
 
 Century II.--Quatrain 30. \[I. 163.\]
 
 Un qui les dieux d'Annibal infernaux  
 Fera renaistre, effrayeur des humains.  
-Oncq' <span id="fr_221"></span>[4](#fn_220) plus d'horreur ne <span
-id="fr_222"></span>[5](#fn_221) plus pire journaux  
+Oncq' <span id="fr_221"></span>[4](#fn_220.md) plus d'horreur ne <span
+id="fr_222"></span>[5](#fn_221.md) plus pire journaux  
 Qu'avint viendra par Babel aux Romains. <span
-id="fr_223"></span>[6](#fn_222)
+id="fr_223"></span>[6](#fn_222.md)
 
  
 
@@ -107,10 +107,10 @@ attacking Italy by crossing the Alps.
 Century I.--*Quatrain* 14. (1789-1793.) \[I. 164.\]
 
 De gent esclave chansons, chants et requestes  
-Captifs par <span id="fr_224"></span>[1](#fn_223) Princes et Seigneur
+Captifs par <span id="fr_224"></span>[1](#fn_223.md) Princes et Seigneur
 aux prisons,  
 A l'advenir par idiots sans testes  
-Seront receus par <span id="fr_225"></span>[2](#fn_224) divines
+Seront receus par <span id="fr_225"></span>[2](#fn_224.md) divines
 oraisons.
 
 Translation.
@@ -199,7 +199,7 @@ and there is none to spare.
 Century VII.--*Quatrain* 14. (1789-1793.) \[I. 166.\]
 
 Faux exposer viendra topographie,  
-Seront les cruches <span id="fr_226"></span>[1](#fn_225) des monumens
+Seront les cruches <span id="fr_226"></span>[1](#fn_225.md) des monumens
 ouvertes,  
 Pulluler secte, sancte philosophie,  
 Pour blanches noires, et pour antiques vertes.
@@ -220,7 +220,7 @@ crude fruit be substituted for the ripe.
 
 Century IV.--*Quatrain* 24.
 
-Ouy soubs Terre Sainte Dame <span id="fr_227"></span>[2](#fn_226) voix
+Ouy soubs Terre Sainte Dame <span id="fr_227"></span>[2](#fn_226.md) voix
 feinte,  
 Humaine flamme pour Divine voit luire:  
 Fera des sœurs de leur sang terre tainte,  
@@ -260,13 +260,13 @@ line that succeeds this.
 
 Century IV.--*Quatrain* 25. \[I. 167.\]
 
-Corps sublimes <span id="fr_228"></span>[1](#fn_227) sans fin à l'œil
+Corps sublimes <span id="fr_228"></span>[1](#fn_227.md) sans fin à l'œil
 visibles,  
-Obnubiler <span id="fr_229"></span>[2](#fn_228) viendront par ces
+Obnubiler <span id="fr_229"></span>[2](#fn_228.md) viendront par ces
 raisons.  
-Corps front comprins, <span id="fr_230"></span>[3](#fn_229) sens <span
-id="fr_231"></span>[4](#fn_230) chief <span
-id="fr_232"></span>[5](#fn_231) et invisibles.  
+Corps front comprins, <span id="fr_230"></span>[3](#fn_229.md) sens <span
+id="fr_231"></span>[4](#fn_230.md) chief <span
+id="fr_232"></span>[5](#fn_231.md) et invisibles.  
 Diminuant les sacrées oraisons.
 
 <span id="page_205">p. 205</span>
@@ -344,13 +344,13 @@ been heard of, born near Italy, that cost so much and proved a butcher.
 
 Century VI.--*Quatrain* 23. \[I. 169.\]
 
-D'esprit de regne munismes <span id="fr_233"></span>[1](#fn_232)
+D'esprit de regne munismes <span id="fr_233"></span>[1](#fn_232.md)
 descriés,  
 Et seront peuples esmeus contre leur Roy:  
 Paix, sainct nouveau, sainctes loix empirées,  
-Rapis <span id="fr_234"></span>[2](#fn_233) onc <span
-id="fr_235"></span>[3](#fn_234) fut en si trèsdur arroy. <span
-id="fr_236"></span>[4](#fn_235)
+Rapis <span id="fr_234"></span>[2](#fn_233.md) onc <span
+id="fr_235"></span>[3](#fn_234.md) fut en si trèsdur arroy. <span
+id="fr_236"></span>[4](#fn_235.md)
 
 Translation.
 
@@ -363,7 +363,7 @@ The traditions of the French monarchy are thrown to the ground and the
 people rise against the King, Louis XVI. Peace will succeed the anarchy
 when Napoleon comes to power. Pius VII., to flatter the Emperor, will
 interpolate the ritual on the 15th of August with a new saint, the fête
-of St. Napoleon, <span id="fr_237"></span>[5](#fn_236) who was martyred
+of St. Napoleon, <span id="fr_237"></span>[5](#fn_236.md) who was martyred
 under Diocletian. The Emperor's interference will hurt the Church
 greatly, and foreign armies (1814-1815) will reduce Paris to extremities
 she has never before undergone.
@@ -381,11 +381,11 @@ Assumption," for that day falls on the 15th of August.
 
 Century I.--*Quatrain* 31. \[I. 170.\]
 
-Tant <span id="fr_238"></span>[1](#fn_237) d'ans en Gaule les guerres
+Tant <span id="fr_238"></span>[1](#fn_237.md) d'ans en Gaule les guerres
 dureront,  
-Outre <span id="fr_239"></span>[2](#fn_238) la course du Castulon <span
-id="fr_240"></span>[3](#fn_239) monarque:  
-Victoire incerte <span id="fr_241"></span>[4](#fn_240) trois grands
+Outre <span id="fr_239"></span>[2](#fn_238.md) la course du Castulon <span
+id="fr_240"></span>[3](#fn_239.md) monarque:  
+Victoire incerte <span id="fr_241"></span>[4](#fn_240.md) trois grands
 couronneront,  
 Aigle, Coq-lune, Lyon-soleil en marque.
 
@@ -461,25 +461,25 @@ the First Republic of the Sans Culottes.
 
 ### Footnotes
 
-<span id="fn_216"></span>[198:1](oon15.htm#fr_217) Romance, *dechassé*,
+<span id="fn_216"></span>[198:1](oon15.htm#fr_217.md) Romance, *dechassé*,
 driven away.
 
-<span id="fn_217"></span>[199:1](oon15.htm#fr_218) *Versée*, for
+<span id="fn_217"></span>[199:1](oon15.htm#fr_218.md) *Versée*, for
 *renversée*.
 
-<span id="fn_218"></span>[199:2](oon15.htm#fr_219) In this high-wind of
+<span id="fn_218"></span>[199:2](oon15.htm#fr_219.md) In this high-wind of
 revolution men will mask their countenances with the cloak of hypocrisy.
 
-<span id="fn_219"></span>[199:3](oon15.htm#fr_220) Latin, *vexata*,
+<span id="fn_219"></span>[199:3](oon15.htm#fr_220.md) Latin, *vexata*,
 troubled.
 
-<span id="fn_220"></span>[199:4](oon15.htm#fr_221) *Oncques*, never,
+<span id="fn_220"></span>[199:4](oon15.htm#fr_221.md) *Oncques*, never,
 *nunquam*.
 
-<span id="fn_221"></span>[199:5](oon15.htm#fr_222) Romance, *ne*, *ni*,
+<span id="fn_221"></span>[199:5](oon15.htm#fr_222.md) Romance, *ne*, *ni*,
 nor.
 
-<span id="fn_222"></span>[199:6](oon15.htm#fr_223) The order is
+<span id="fn_222"></span>[199:6](oon15.htm#fr_223.md) The order is
 "*Qu'avant oncq' plus d'horreur ni plus pire à Babel qu'il n'adviendra
 aux Remains par les journaux*." This is M. le Pelletier's reading, and
 he interprets it of Voltaire, the encyclopedists and journalists of the
@@ -490,14 +490,14 @@ existence, and therefore no name in the time of Nostradamus *Journal*
 meant a day's work, such as could, in ploughing, be done by a man with
 two oxen.
 
-<span id="fn_223"></span>[200:1](oon15.htm#fr_224) Latin, *per*, whilst.
+<span id="fn_223"></span>[200:1](oon15.htm#fr_224.md) Latin, *per*, whilst.
 
-<span id="fn_224"></span>[200:2](oon15.htm#fr_225) Latin, *pro*, for.
+<span id="fn_224"></span>[200:2](oon15.htm#fr_225.md) Latin, *pro*, for.
 
-<span id="fn_225"></span>[203:1](oon15.htm#fr_226) *Cruches* = urns,
+<span id="fn_225"></span>[203:1](oon15.htm#fr_226.md) *Cruches* = urns,
 Cinerary urns. Garencières read *urnes*.
 
-<span id="fn_226"></span>[203:2](oon15.htm#fr_227) Sainte Dame I take to
+<span id="fn_226"></span>[203:2](oon15.htm#fr_227.md) Sainte Dame I take to
 be equivalent to our English *Halidom*, consisting of Holy and Dome--a
 terminative seen in kingdom and Christendom, and signifying rule or
 lordship. It has also been written as *Holidame*, as if referring to the
@@ -507,34 +507,34 @@ equivalent. A voice feigning that of the Blessed Virgin may well be
 represented by a voice feigning that of religion and faith. I take this
 from Garencières, and not the *texte-type*.
 
-<span id="fn_227"></span>[204:1](oon15.htm#fr_228) *Sublimis*, high,
+<span id="fn_227"></span>[204:1](oon15.htm#fr_228.md) *Sublimis*, high,
 elevated.
 
-<span id="fn_228"></span>[204:2](oon15.htm#fr_229) Latin, *obnubilare*,
+<span id="fn_228"></span>[204:2](oon15.htm#fr_229.md) Latin, *obnubilare*,
 to cloud, obscure.
 
-<span id="fn_229"></span>[204:3](oon15.htm#fr_230) Romance, *comprins*,
+<span id="fn_229"></span>[204:3](oon15.htm#fr_230.md) Romance, *comprins*,
 *compris*, contained in.
 
-<span id="fn_230"></span>[204:4](oon15.htm#fr_231) *Sens* = *sans*,
+<span id="fn_230"></span>[204:4](oon15.htm#fr_231.md) *Sens* = *sans*,
 without.
 
-<span id="fn_231"></span>[204:5](oon15.htm#fr_232) *Chief* = *chef*,
+<span id="fn_231"></span>[204:5](oon15.htm#fr_232.md) *Chief* = *chef*,
 God.
 
-<span id="fn_232"></span>[207:1](oon15.htm#fr_233) Latin, *munimen*,
+<span id="fn_232"></span>[207:1](oon15.htm#fr_233.md) Latin, *munimen*,
 rampart.
 
-<span id="fn_233"></span>[207:2](oon15.htm#fr_234) Rapis, anagram, for
+<span id="fn_233"></span>[207:2](oon15.htm#fr_234.md) Rapis, anagram, for
 Paris.
 
-<span id="fn_234"></span>[207:3](oon15.htm#fr_235) Latin, *nunquam*,
+<span id="fn_234"></span>[207:3](oon15.htm#fr_235.md) Latin, *nunquam*,
 never.
 
-<span id="fn_235"></span>[207:4](oon15.htm#fr_236) *Arroi*, for
+<span id="fn_235"></span>[207:4](oon15.htm#fr_236.md) *Arroi*, for
 *desarroi*, disorder.
 
-<span id="fn_236"></span>[207:5](oon15.htm#fr_237) "On désigne
+<span id="fn_236"></span>[207:5](oon15.htm#fr_237.md) "On désigne
 quelquefois sous ce nom un habitant d'Alexandrie dont le véritable nom
 est Néopol, qui fut martyrisé sous Dioclétien. Outre ce Saint, dont la
 vie est complètement inconnue, les bollandistes font mention d'un
@@ -548,21 +548,21 @@ date du 15 août, dans le but sans doute de plaire à Napoléon
 Bonaparte."--"Grand Dictionnaire Universel du dixneuvième Siècle," par
 M. Pierre Larousse, tom. xi. p. 804. Paris: 1874.
 
-<span id="fn_237"></span>[208:1](oon15.htm#fr_238) Latin, *tantum*, so
+<span id="fn_237"></span>[208:1](oon15.htm#fr_238.md) Latin, *tantum*, so
 much.
 
-<span id="fn_238"></span>[208:2](oon15.htm#fr_239) Romance, *outre*,
+<span id="fn_238"></span>[208:2](oon15.htm#fr_239.md) Romance, *outre*,
 beyond.
 
-<span id="fn_239"></span>[208:3](oon15.htm#fr_240) Latin, *castula*,
+<span id="fn_239"></span>[208:3](oon15.htm#fr_240.md) Latin, *castula*,
 tunic. It was a kind of petticoat worn by women next the skin, and
 fastened under the breasts, which it left exposed. It stands here for
 the goddess of Republican Liberty, which is generally represented in
 this dress of the Roman virgins.
 
-<span id="fn_240"></span>[208:4](oon15.htm#fr_241) Latin, *incerta*,
+<span id="fn_240"></span>[208:4](oon15.htm#fr_241.md) Latin, *incerta*,
 uncertain.
 
 ------------------------------------------------------------------------
 
-[Next: Louis XVI](oon16)
+[Next: Louis XVI](oon16.md)

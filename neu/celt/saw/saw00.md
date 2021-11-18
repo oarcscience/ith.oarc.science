@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](saw01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](saw01.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](saw01) 
 
 ------------------------------------------------------------------------
 
-[Next: Book I. Brigit, The Mary of the Gael](saw01)
+[Next: Book I. Brigit, The Mary of the Gael](saw01.md)

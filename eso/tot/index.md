@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417977574/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417977574/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Reveals Life's Purpose</h1>
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tot00)
+[Contents](#contents)    [Start Reading](tot00.md)
 
 ------------------------------------------------------------------------
 
@@ -44,16 +44,16 @@ first time at Intangible Textual Heritage.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tot00)  
-[Foreword](tot01)  
-[Contents](tot02)  
-[I. Tilak's Birth and Boyhood](tot03)  
-[II. A Past Life](tot04)  
-[III. The Great Preparation](tot05)  
-[IV. Payment](tot06)  
-[V. The Suicide](tot07)  
-[V. The Invalid](tot08)  
-[VII. The Lane of Birth](tot09)  
-[VIII. After Physical Death](tot10)  
-[IX. The Eternal Self-Consciousness](tot11)  
-[X. The Great Change](tot12)  
+<span id="contents"></span> [Title Page](tot00.md)  
+[Foreword](tot01.md)  
+[Contents](tot02.md)  
+[I. Tilak's Birth and Boyhood](tot03.md)  
+[II. A Past Life](tot04.md)  
+[III. The Great Preparation](tot05.md)  
+[IV. Payment](tot06.md)  
+[V. The Suicide](tot07.md)  
+[V. The Invalid](tot08.md)  
+[VII. The Lane of Birth](tot09.md)  
+[VIII. After Physical Death](tot10.md)  
+[IX. The Eternal Self-Consciousness](tot11.md)  
+[X. The Great Change](tot12.md)  

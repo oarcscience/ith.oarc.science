@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt32)  [Next](egt34) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt32)  [Next](egt34.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ his own body attains (only to the recognition of) his hands and feet?
 
 ------------------------------------------------------------------------
 
-[Next: ON SELF-ABASEMENT AND HUMILITY.](egt34)
+[Next: ON SELF-ABASEMENT AND HUMILITY.](egt34.md)

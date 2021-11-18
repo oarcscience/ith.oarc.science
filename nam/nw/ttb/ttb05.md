@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb04)  [Next](ttb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb04)  [Next](ttb06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ show very little wear after fifty years of use.
 
 The handicraft of the Thompsons was in great demand among the other
 Indian tribes and was traded and bartered for with buckskin hides,
-[moccasins](errata.htm#8), and other useful commodities. There are no
+[moccasins](errata.htm#8.md), and other useful commodities. There are no
 other Indian tribes of North America who have the technique or wealth of
 design of the Thompsons. One is amazed that straight lines can be
 arranged in so many hundreds of ways to make geometrical figures. The
@@ -72,7 +72,7 @@ did not depend on baskets so much for their cooking. They
 fashioned wooden boxes out of boards by an ingenious method and also
 hollowed out pieces of alder and other hard woods to serve their needs.
 Tree trunks, often ten feet in length, were used, in many cases for
-feast bowls. These were [beautifully](errata.htm#9) carved with the
+feast bowls. These were [beautifully](errata.htm#9.md) carved with the
 owner's crest and inlaid with coast abalone shells. The boxes were made
 by grooving a board in three places on one side, then placing it in a
 ground trench filled with hot rocks over which water was poured to
@@ -91,7 +91,7 @@ the neighboring State of Washington, make their baskets out of the same
 materials as their ancestors. The grasses used are gathered from the
 tide flats of the lagoons. They are dried and bleached in the sun and
 seasoned by hanging them up in the rafters of their houses. The material
-is then colored as desired with [aniline](errata.htm#10) dyes, whereas,
+is then colored as desired with [aniline](errata.htm#10.md) dyes, whereas,
 in former times, they made their own dyes from vegetables and mineral
 substances.
 
@@ -151,7 +151,7 @@ roots with a long cord attached so that her children could be let down
 in to the world below. The Sun gazed proudly at his wife and her work,
 of which she soon became master, then teacher. Between them they wove a
 strong, flexible basket that was richly decorated with
-[outstanding](errata.htm#11) angular shapes of the
+[outstanding](errata.htm#11.md) angular shapes of the
 Shining-Heavens-People.
 
 The art and technique of basket making is gradually being improved by
@@ -198,8 +198,8 @@ observing them. There is one language that all the Indians know: "Buy
 Basket" "Cheap, Cheap," "Some Clothes," "Some Money."
 
 <span id="img_01700"></span> ![TRINKET BASKETS MADE OF GRASS BY THE
-KLOOCHMAN OF VANCOUVER ISLAND](img/01700.jpg)
+KLOOCHMAN OF VANCOUVER ISLAND](img/01700.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Aristocratic Aborigines](ttb06)
+[Next: The Aristocratic Aborigines](ttb06.md)

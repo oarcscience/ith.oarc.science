@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft07)  [Next](meft09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft07)  [Next](meft09.md) 
 
 ------------------------------------------------------------------------
 
 # Three Feathers
 
 <span id="img_009"></span> [![](tn/009.jpg)  
-Click to enlarge](img/009.jpg)
+Click to enlarge](img/009.jpg.md)
 
 ONCE upon a time there was a girl who was married to a husband that she
 never saw. And the way this was, was that he was only at home at night,
@@ -135,4 +135,4 @@ they drove off to their castle, where they lived happy ever after.
 
 ------------------------------------------------------------------------
 
-[Next: Sir Gammer Vans](meft09)
+[Next: Sir Gammer Vans](meft09.md)

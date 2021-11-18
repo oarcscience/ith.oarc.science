@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth052)  [Next](toth054) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth052)  [Next](toth054.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 50. THE HAWK AND THE CHILD. <span id="fr_115"></span>[1](#fn_113)
+## 50. THE HAWK AND THE CHILD. <span id="fr_115"></span>[1](#fn_113.md)
 
 A long time ago some Navaho lived east of Oraíbi. They had stolen, as
 occasionally happened, a little Hopi boy. They were very hard on him,
@@ -76,9 +76,9 @@ child to his home, where he lived forever afterwards.
 
 ### Footnotes
 
-<span id="fn_113"></span>[167:1](toth053.htm#fr_115) Told by Qöyáwainia
+<span id="fn_113"></span>[167:1](toth053.htm#fr_115.md) Told by Qöyáwainia
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 51. Múyingwa, Two Children, and the Humming-bird](toth054)
+[Next: 51. Múyingwa, Two Children, and the Humming-bird](toth054.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft23)  [Next](ftft25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft23)  [Next](ftft25.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_182">p. 182</span>
 
 <span id="img_18200"></span> ![Patience-Stone and
-Patience-Knife](img/18200.jpg)
+Patience-Knife](img/18200.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a poor woman who had a daughter. While the mother went out
 washing, the daughter remained at home making embroidery. One day as the
@@ -133,7 +133,7 @@ id="img_18500"></span>
 
 |                                                |
 |------------------------------------------------|
-| ![The Arab girl read the paper](img/18500.jpg) |
+| ![The Arab girl read the paper](img/18500.jpg.md) |
 
 "A yellow patience-stone and a brown patience-knife--please bring me
 both," said she.
@@ -177,7 +177,7 @@ id="img_18600"></span>
 
 |                                                           |
 |-----------------------------------------------------------|
-| ![The girl began to relate her life story](img/18600.jpg) |
+| ![The girl began to relate her life story](img/18600.jpg.md) |
 
 Proceeding, the maiden related how the Arab woman had deceived her, and
 how the Bey had taken the Arab woman and not her, self to be his wife.
@@ -202,4 +202,4 @@ sings: "O maid! O happy maid! you have found your kismet."
 
 ------------------------------------------------------------------------
 
-[Next: The Dragon-Prince and the Step-Mother](ftft25)
+[Next: The Dragon-Prince and the Step-Mother](ftft25.md)

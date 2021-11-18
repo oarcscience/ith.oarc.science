@@ -25,19 +25,19 @@ documents.
 ------------------------------------------------------------------------
 
 <span class="c_e"> <span class="c_t">[Gypsy Folk
-Tales](gft/index)</span>   by <span class="c_a">Francis Hindes
+Tales](gft/index.md)</span>   by <span class="c_a">Francis Hindes
 Groomes</span> \[<span class="c_d">1899</span>\]   <span class="c_b">A
 treasure trove of Roma stories by a devoted scholar of the
 subject.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Gypsy Sorcery and Fortune
-Telling](../../pag/gsft/index)</span>   by <span class="c_a">Charles G.
+Telling](../../pag/gsft/index.md)</span>   by <span class="c_a">Charles G.
 Leland</span> \[<span class="c_d">1891</span>\]   <span class="c_b">One
 of the primary sources for information on Roma magical practices, by one
 of the great 19th century folklorists.</span> </span>
 
 <span class="c_e"> <span class="c_t">[English Gipsies and Their
-Language](egl/index)</span>   by <span class="c_a">Charles G.
+Language](egl/index.md)</span>   by <span class="c_a">Charles G.
 Leland</span> \[<span class="c_d">1874</span>\]   <span
 class="c_b">Mid-19th Century English Roma language, folklore and
 customs.</span> </span>

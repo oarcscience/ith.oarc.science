@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph46)  [Next](sph48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph46)  [Next](sph48.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM46">46</span>
 
 Ἕγω δ᾽ ἐπὶ μαλθάκαν τύλαν σπολέω
-μέλεα. [\[transcription\]](xlatall.htm#68)
+μέλεα. [\[transcription\]](xlatall.htm#68.md)
 
 But upon a soft cushion I dispose my limbs
 
@@ -18,4 +18,4 @@ sound poetically.
 
 ------------------------------------------------------------------------
 
-[Next: 47: And there the bowl of ambrosia was mixed](sph48)
+[Next: 47: And there the bowl of ambrosia was mixed](sph48.md)

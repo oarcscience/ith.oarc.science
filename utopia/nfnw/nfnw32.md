@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ there are so many good old houses left, that people dwell a good deal in
 such small detached houses. As to our dinner, we are going to have our
 feast in the church. I wish, for your sake, it were as big and handsome
 as that of the old Roman town to the west, or the forest town to the
-north;  <span id="fr_2"></span>[3](#fn_2) but, however, it will hold us
+north;  <span id="fr_2"></span>[3](#fn_2.md) but, however, it will hold us
 all; and though it is a little thing, it is beautiful in its way."
 
 This was somewhat new to me, this dinner in a church, and I thought of
@@ -233,7 +233,7 @@ called a vision rather than a dream.
 
 ### Footnotes
 
-<span id="fn_2"></span>[3](nfnw32.htm#fr_2) Cirencester and Burford he
+<span id="fn_2"></span>[3](nfnw32.htm#fr_2.md) Cirencester and Burford he
 must have meant.
 
  

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](tpt15)  [Next](tpt17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](tpt15)  [Next](tpt17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ Authors Endnotes to the Treatise.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI.—An Inquiry Whether the Apostles Wrote Their Epistles
-As Apostles and Prophets, Or Merely As Teachers...](tpt17)
+As Apostles and Prophets, Or Merely As Teachers...](tpt17.md)

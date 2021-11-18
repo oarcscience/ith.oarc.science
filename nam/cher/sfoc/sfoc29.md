@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc28)  [Next](sfoc30) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc28)  [Next](sfoc30.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ by days.
 
 ------------------------------------------------------------------------
 
-[Next: This is to Treat Them if They are Bitten by a Snake](sfoc30)
+[Next: This is to Treat Them if They are Bitten by a Snake](sfoc30.md)

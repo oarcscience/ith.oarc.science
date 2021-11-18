@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar077) [Next](gbar079)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar077) [Next](gbar079.md)
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ his eyes diseased should be guided and helped.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar079)
+[Next](gbar079.md)

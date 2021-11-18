@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr00)  [Next](wnr02) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr00)  [Next](wnr02.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ HAVELOCK ELLIS.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](wnr02)
+[Next: Contents](wnr02.md)

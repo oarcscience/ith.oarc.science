@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc13)  [Next](ogc15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc13)  [Next](ogc15.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ speculations concerning them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](ogc15)
+[Next: Chapter 5](ogc15.md)

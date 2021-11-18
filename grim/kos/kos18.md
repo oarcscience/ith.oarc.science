@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos17)  [Next](kos19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos17)  [Next](kos19.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_55">p. 55</span>
 
-## CHAPTER XIII <span id="fr_64"></span>[1](#fn_64)
+## CHAPTER XIII <span id="fr_64"></span>[1](#fn_64.md)
 
 ### HOW TO MAKE THE MAGIC CARPET PROPER FOR INTERROGATING THE INTELLIGENCES, SO AS TO OBTAIN AN ANSWER REGARDING WHATSOEVER MATTER ONE MAY WISH TO LEARN
 
@@ -18,7 +18,7 @@ shall be towards the east, and another towards the west, and having made
 a Circle without it and enclosing it, thou shalt remain within upon the
 point towards the east, and holding thy wand in the air for every
 operation, thou shalt call upon MICHAEL, <span
-id="fr_65"></span>[2](#fn_65) towards the north upon RAPHAEL, towards
+id="fr_65"></span>[2](#fn_65.md) towards the north upon RAPHAEL, towards
 the west upon GABRIEL, and towards the south upon MURIEL. After this
 thou shalt return unto the point of the East and devoutly invoke the
 Great Name AGLA, and take this point of the Carpet in thy left hand;
@@ -52,7 +52,7 @@ of discovering a treasure; if not, any place will serve provided it be
 clean and pure. Having had the precaution on the preceding evening to
 write upon a slip of virgin parchment coloured azure-blue, with a pen
 made from the feather of a dove, this Character and Name (*see [Figure
-9](kos25.htm#img_kos02)*); taking thy carpet, thou shalt cover thy head
+9](kos25.htm#img_kos02)*.md); taking thy carpet, thou shalt cover thy head
 and body therewith, and taking the censer, with new fire therein, thou
 shalt place it in or upon the proper place, and cast thereon some
 incense. Then shalt thou prostrate thyself upon the ground, with thy
@@ -63,7 +63,7 @@ aforesaid strip of parchment against thy forehead, and thou shalt say
 the following words:--
 
 VEGALE, HAMICATA, UMSA, TERATA, YEH, DAH, MA, BAXASOXA, UN, HORAH,
-HIMESERE; <span id="fr_66"></span>[1](#fn_66) O God the Vast One send
+HIMESERE; <span id="fr_66"></span>[1](#fn_66.md) O God the Vast One send
 unto me the Inspiration of Thy Light, make me to discover the secret
 thing which I ask of Thee, whatsoever such or such a thing may be, make
 me to search it out by the aid of Thy holy ministers RAZIEL, TZAPHNIEL,
@@ -77,18 +77,18 @@ And thou shalt hear distinctly the answer which thou shalt have sought.
 
 ### Footnotes
 
-<span id="fn_64"></span>[55:1](kos18.htm#fr_64) This Chapter is also
+<span id="fn_64"></span>[55:1](kos18.htm#fr_64.md) This Chapter is also
 taken from 1203 Lansdowne MSS.
 
-<span id="fn_65"></span>[55:2](kos18.htm#fr_65) I have usually found
+<span id="fn_65"></span>[55:2](kos18.htm#fr_65.md) I have usually found
 Michael attributed to the South; Raphael to the East; Gabriel to the
 West; and Auriel to the North. Likewise I think the operator should turn
 following the course of the Sun, and not contrariwise as in the text.
 
-<span id="fn_66"></span>[56:1](kos18.htm#fr_66) These are probably
+<span id="fn_66"></span>[56:1](kos18.htm#fr_66.md) These are probably
 corrupted Hebrew words derived from the prayer itself.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV. How To Render Thyself Master of A Treasure Possessed
-By the Spirits](kos19)
+By the Spirits](kos19.md)

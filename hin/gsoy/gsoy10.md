@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy09) 
-[Next](gsoy11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy09.md) 
+[Next](gsoy11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ the object.
 Buddha's doctrine was that only in the presence of knowing are "subject
 and object" to be seen. Mind with its reasoning activity—its
 logic—generally considered as the subject, is in reality only an
-instrument. It does not know. <span id="fr_74"></span>[1](#fn_74) Behind
+instrument. It does not know. <span id="fr_74"></span>[1](#fn_74.md) Behind
 or beyond this mind is
 
 <span id="page_136">p. 136</span>
@@ -120,7 +120,7 @@ valuation*. This is stated emphatically by Patanjali in his
 
 aphorism no. ii 28, which describes the final effect of the performance
 of the eight Limbs of Yoga, culminating in *samādhi*. <span
-id="fr_75"></span>[2](#fn_75) This is not a perfection of the
+id="fr_75"></span>[2](#fn_75.md) This is not a perfection of the
 subjective, but a transcendence of the subjective conception of the
 subject-object relation. Subject and object now live together in the
 Knowing or Consciousness in a new way. Subject-self is overcome. It was
@@ -135,8 +135,8 @@ It is natural that the method of practice of the *Chan* and the *Zen*
 should be somewhat different from that in India, as befits the racial
 types of China and Japan. The method is well described in *The Sūtra of
 Wei Lang*, translated by Wong Mou-Lam, <span
-id="fr_76"></span>[3](#fn_76) and in Christmas Humphreys' *Zen
-Buddhism*, <span id="fr_77"></span>[4](#fn_77) and in several books by
+id="fr_76"></span>[3](#fn_76.md) and in Christmas Humphreys' *Zen
+Buddhism*, <span id="fr_77"></span>[4](#fn_77.md) and in several books by
 Professor D. T. Suzuki.
 
 <span id="page_140">p. 140</span>
@@ -155,7 +155,7 @@ the subjective and objective sides of Nature, including man. It could
 equally be called the absolute motion, which, passing through every
 point of space in every direction in every moment of time, becomes the
 ever-present soul of all motions, but is motionless from the standpoint
-of the subject-object world. <span id="fr_78"></span>[5](#fn_78)
+of the subject-object world. <span id="fr_78"></span>[5](#fn_78.md)
 
 From *Tao* come *yang* and *yin*, the active and passive sides of
 Nature, light and shadow. In man the two elements appear as intellect
@@ -294,7 +294,7 @@ the *Lankavatara Sūtra*, the *Avatansaka Sūtra*, the *Surangama Sūtra*,
 the *Mahayana Shraddhotpāda Shastra* and the *Diamond Sūtra*. To these
 were added the *Sūtra* of Wei-Lang. The whole collection is very
 conveniently gathered together and presented in Goddard's *Buddhist
-Bible*. <span id="fr_79"></span>[6](#fn_79)
+Bible*. <span id="fr_79"></span>[6](#fn_79.md)
 
 The teaching of meditation in the *Diamond Sūtra* prescribes sitting
 alone, erect, motionless, quieting the mind, with attention on no
@@ -374,7 +374,7 @@ practice and the attainment. Mr. Christmas Humphreys thus explains it:
 <span id="page_149">p. 149</span>
 
 looking at things, whereby they are seen to be already in
-Nirvana." <span id="fr_80"></span>[7](#fn_80) We are denying ourselves,
+Nirvana." <span id="fr_80"></span>[7](#fn_80.md) We are denying ourselves,
 which is the great Error. Still, one must take care not to call *Zen* or
 *Nirvāna* a state; for that conception, or any conception, is within the
 *māyā* or error. Nor "looking."
@@ -406,32 +406,32 @@ The mind preserves their death.</span>
 
 ### Footnotes
 
-<span id="fn_74"></span>[135:1](gsoy10.htm#fr_74) In my own terms: there
+<span id="fn_74"></span>[135:1](gsoy10.htm#fr_74.md) In my own terms: there
 is no such thing as body-consciousness, and no such thing as
 mind-consciousness, but only, in these cases, consciousness of the body
 and consciousness of the mind.
 
-<span id="fn_75"></span>[139:2](gsoy10.htm#fr_75) For the whole subject
+<span id="fn_75"></span>[139:2](gsoy10.htm#fr_75.md) For the whole subject
 see my *Practical Yoga: Ancient and Modern*. This book gives a full
 translation of all the Patanjali Aphorisms with an explanation in modern
 terms. Published by E. P. Dutton and Co., Inc., New York, Rider and Co.,
 Ltd., London, Messrs. Payot, Paris, Editorial Orion, Mexico City.
 
-<span id="fn_76"></span>[139:3](gsoy10.htm#fr_76) Published for the
+<span id="fn_76"></span>[139:3](gsoy10.htm#fr_76.md) Published for the
 Buddhist Society, London, by Luzac & Co., Ltd.
 
-<span id="fn_77"></span>[139:4](gsoy10.htm#fr_77) Published by William
+<span id="fn_77"></span>[139:4](gsoy10.htm#fr_77.md) Published by William
 Heinemann Ltd., London.
 
-<span id="fn_78"></span>[140:5](gsoy10.htm#fr_78) See Prof. Wood's
+<span id="fn_78"></span>[140:5](gsoy10.htm#fr_78.md) See Prof. Wood's
 writings on *The Secret Doctrine*.
 
-<span id="fn_79"></span>[146:6](gsoy10.htm#fr_79) Published by E. P.
+<span id="fn_79"></span>[146:6](gsoy10.htm#fr_79.md) Published by E. P.
 Dutton and Co., New York.
 
-<span id="fn_80"></span>[149:7](gsoy10.htm#fr_80) *Zen Buddhism*, by
+<span id="fn_80"></span>[149:7](gsoy10.htm#fr_80.md) *Zen Buddhism*, by
 Christmas Humphreys, p. 95.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Nine. The Sufi Yogis](gsoy11)
+[Next: Chapter Nine. The Sufi Yogis](gsoy11.md)

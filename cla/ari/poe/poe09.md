@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe08)  [Next](poe10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe08)  [Next](poe10.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ organic part of the whole.
 
 ------------------------------------------------------------------------
 
-[Next: IX. (Plot continued.) Dramatic Unity](poe10)
+[Next: IX. (Plot continued.) Dramatic Unity](poe10.md)

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm50)  [Next](rotm52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm50)  [Next](rotm52.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -168,6 +168,6 @@ feast in their Hall again till it had been cleansed and hallowed anew.
 ------------------------------------------------------------------------
 
 [Next: Chapter LI. The Dead Borne to Bale: The Mote-House
-Re-Hallowed](rotm52)
+Re-Hallowed](rotm52.md)
 
 </div>

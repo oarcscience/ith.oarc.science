@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc16)  [Next](ipc18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc16)  [Next](ipc18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -101,7 +101,7 @@ In his Epistle "he has nothing about being good for example's sake.
 Concerning the Cross, or death, or blood of Christ we gather nothing
 from him, nor does Jesus appear as Saviour or Mediator." "It cannot be
 discovered that any acts of internal devotion towards Jesus were a part
-of James’s religion." <span id="fr_230"></span>[\*](#fn_229)
+of James’s religion." <span id="fr_230"></span>[\*](#fn_229.md)
 
 But a passage from Eusebius carries the matter a step further, and shows
 that James, like St. Paul, could not have accepted Paulinism without
@@ -119,7 +119,7 @@ into the holies. He did not wear woollen garments but linen. And he
 alone entered the sanctuary and was found upon his knees praying for the
 forgiveness of the people, so that his knees became hard like a camel's
 through his constant bending and supplication before God, and asking for
-forgiveness of the people." <span id="fr_231"></span>[\*](#fn_230)
+forgiveness of the people." <span id="fr_231"></span>[\*](#fn_230.md)
 
 There is also evidence that St. Peter was a Nazareen ascetic, subsequent
 to the dream of the Roman captain, Cornelius.
@@ -132,7 +132,7 @@ rarely pot herbs, and this my only coat and cloak which I wear . . . for
 those who have determined to accept the blessings of the future reign
 have no right to regard as their own the things that are here . . . with
 the exception of water and bread, and those things procured with sweat
-to maintain life." <span id="fr_232"></span>[†](#fn_231)
+to maintain life." <span id="fr_232"></span>[†](#fn_231.md)
 
 Epiphanius in commenting on the passage about James in Eusebius, adds
 the two sons of Zebedee to the list of water-drinking Nazarites; and
@@ -171,7 +171,7 @@ falsifier?
 This question will have to be probed from many points of view. One
 statement of Tertullian may here be mentioned. He announces that the
 Valentinians maintained that it was necessary to worship the
-"left-handed" deities <span id="fr_233"></span>[\*](#fn_232) as well as
+"left-handed" deities <span id="fr_233"></span>[\*](#fn_232.md) as well as
 the right-handed. Here we have the Vâmâcharîs of S’iva. These
 "left-handed" deities, were on the left side of the Zodiac.
 
@@ -184,7 +184,7 @@ suggest the two great Serpents, the Father and the Mother. This
 fact if it could be established, would be of far greater importance now
 that we are considering S’iva Buddha.
 
-Fig. 1 [Plate 17](#img_pl17) is S’iva's Trisula. Outside of India it is
+Fig. 1 [Plate 17](#img_pl17.md) is S’iva's Trisula. Outside of India it is
 called the Rod of Hermes. It is the holiest symbol of Buddhism, Mani,
 the Pearl.
 
@@ -196,39 +196,39 @@ Buddha (Fig. 4). It is on a charm in Tibet (Fig. 2). We see from the
 Catacombs the meaning of the descending dove (Fig. 5). Now this outline
 is plainly to be seen in the Crab, the Scorpion, the Taurine or Bull,
 and also the Scales which according to Ptolemy are simply the claws of
-the Scorpion. <span id="fr_234"></span>[\*](#fn_233) Then the Serpent is
+the Scorpion. <span id="fr_234"></span>[\*](#fn_233.md) Then the Serpent is
 certainly suggested in the tail of the Lion, and the trunk of the
 Elephant (Capricorn). An elephant and a serpent have the same name in
 Sanskrit—Naga. Here we get eight serpent symbols, but two I completely
 overlooked in my early work. For the Twins (they are male and female in
 India), I give a design which I took from some Buddhist sculptures,
 given in the "Tree and Serpent Worship" of Mr. Fergusson, the male twin
-holds up a lotus (See Indian Zodiac ([Plate 18](#img_pl18)) in next
+holds up a lotus (See Indian Zodiac ([Plate 18](#img_pl18).md) in next
 page). Plainly the outline purposely makes the head of a cobra, an
 Indian virile symbol. That I have not made a mistake is evident, for the
 same outline is repeated in the hand of Virgo, who again is S’iva the
 great Father-Mother. For the Ram there is a horse with two snakes on his
-head. <span id="fr_235"></span>[†](#fn_234) It is also from Fergusson's
+head. <span id="fr_235"></span>[†](#fn_234.md) It is also from Fergusson's
 "Tree and Serpent Worship." In the Indian epic the Mahabharata there is
 an episode, the "Churning
 
 <span id="img_pl17"></span> <span align="CENTER"> [![PLATE 17.&lt;br&gt;
 THE TRISUL OUTLINE.](tn/pl17.jpg)  
-Click to enlarge](img/pl17.jpg)  
+Click to enlarge](img/pl17.jpg.md)  
 PLATE 17.  
 THE TRISUL OUTLINE.  
 </span>
 
 <span id="img_pl19"></span> <span align="CENTER"> [![PLATE 19.&lt;br&gt;
 SIVA WITH ANTELOPE.](tn/pl19.jpg)  
-Click to enlarge](img/pl19.jpg)  
+Click to enlarge](img/pl19.jpg.md)  
 PLATE 19.  
 S’IVA WITH ANTELOPE.  
 </span>
 
 <span id="img_pl18"></span> <span align="CENTER"> [![PLATE 18.&lt;br&gt;
 ZODIAC OF SHIVA.](tn/pl18.jpg)  
-Click to enlarge](img/pl18.jpg)  
+Click to enlarge](img/pl18.jpg.md)  
 PLATE 18.  
 ZODIAC OF SHIVA.  
 </span>
@@ -251,16 +251,16 @@ The little myth, the Churning of the Ocean, answers the question.
 
 "Beneath the trenchant Chakra he saw guarding the Amrita two immense and
 terrible serpents, strong, venom-darting, with fiery eyes and throats,
-and tongues of forked lightning." <span id="fr_236"></span>[\*](#fn_235)
+and tongues of forked lightning." <span id="fr_236"></span>[\*](#fn_235.md)
 
 Here is another passage:—
 
 "Here dwell two serpents the terror of enemies Arvouda and Sakravapi.
 Here are the sublime palaces of Swastika and Maninâga." <span
-id="fr_237"></span>[†](#fn_236)
+id="fr_237"></span>[†](#fn_236.md)
 
 Plainly Chakra, the Fish of the Zodiac, is the wheel called Swastika in
-India, <span id="fr_238"></span>[‡](#fn_237) and Cancer the Serpents of
+India, <span id="fr_238"></span>[‡](#fn_237.md) and Cancer the Serpents of
 the mani or pearl. And the palaces of these two are the black and white
 halves of the Zodiac.
 
@@ -354,34 +354,34 @@ chiefly the side that it shows to the world.
 
 ### Footnotes
 
-<span id="fn_229"></span>[227:\*](ipc17.htm#fr_230) Newman, "James and
+<span id="fn_229"></span>[227:\*](ipc17.htm#fr_230.md) Newman, "James and
 Paul," p. 18.
 
-<span id="fn_230"></span>[228:\*](ipc17.htm#fr_231) Eusebius, "Hist.,"
+<span id="fn_230"></span>[228:\*](ipc17.htm#fr_231.md) Eusebius, "Hist.,"
 Eccl. ii. 23.
 
-<span id="fn_231"></span>[228:†](ipc17.htm#fr_232) Clem., "Homilies,"
+<span id="fn_231"></span>[228:†](ipc17.htm#fr_232.md) Clem., "Homilies,"
 XII., 6.
 
-<span id="fn_232"></span>[229:\*](ipc17.htm#fr_233) Tertullian,
+<span id="fn_232"></span>[229:\*](ipc17.htm#fr_233.md) Tertullian,
 "Adversus Valent," C. XXVI.
 
-<span id="fn_233"></span>[230:\*](ipc17.htm#fr_234) Arago, "Popular
+<span id="fn_233"></span>[230:\*](ipc17.htm#fr_234.md) Arago, "Popular
 Astronomy," p. 204.
 
-<span id="fn_234"></span>[230:†](ipc17.htm#fr_235) Siva holds an
+<span id="fn_234"></span>[230:†](ipc17.htm#fr_235.md) Siva holds an
 Antelope in his hand, this may be the earliest form of the symbol.
-([Plate 19](#img_pl19).)
+([Plate 19](#img_pl19)..md)
 
-<span id="fn_235"></span>[231:\*](ipc17.htm#fr_236) Mahabharata, "Adi
+<span id="fn_235"></span>[231:\*](ipc17.htm#fr_236.md) Mahabharata, "Adi
 parva," vv. 1500-1501.
 
-<span id="fn_236"></span>[231:†](ipc17.htm#fr_237) Mahabharata, "Sabha
+<span id="fn_236"></span>[231:†](ipc17.htm#fr_237.md) Mahabharata, "Sabha
 Parva," p. 806.
 
-<span id="fn_237"></span>[231:‡](ipc17.htm#fr_238) See "Bhilsa Topes,"
+<span id="fn_237"></span>[231:‡](ipc17.htm#fr_238.md) See "Bhilsa Topes,"
 p. 31.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Transubstantiation](ipc18)
+[Next: Chapter XV. Transubstantiation](ipc18.md)

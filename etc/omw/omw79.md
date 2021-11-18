@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw78)  [Next](omw80) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw78)  [Next](omw80.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ stones they stand to this day between Calca and Huayllapampa.
 
 ------------------------------------------------------------------------
 
-[Next: In the Beginning](omw80)
+[Next: In the Beginning](omw80.md)

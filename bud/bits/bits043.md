@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits042) [Next](bits044)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits042) [Next](bits044.md)
 
 ------------------------------------------------------------------------
 
@@ -158,7 +158,7 @@ as a disciple from this day forth as long as life shall last."
 
 ------------------------------------------------------------------------
 
-[Next: § 44. The Round of Existence](bits044)
+[Next: § 44. The Round of Existence](bits044.md)
 
  
 

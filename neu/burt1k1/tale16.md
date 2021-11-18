@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale15)  [Next](tale17) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale15)  [Next](tale17.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ it to the place of mercy and acceptance and forgiveness.
 
   And they tell another tale of the adventures of  
 
-(*Next*) [SINDBAD THE SEAMAN AND SINDBAD THE LANDSMAN](tale17)  
+(*Next*) [SINDBAD THE SEAMAN AND SINDBAD THE LANDSMAN](tale17.md)  

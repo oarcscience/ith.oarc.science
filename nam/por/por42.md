@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por41)  [Next](por43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por41)  [Next](por43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 <div style="margin-left: 32px">
 
 Again perhaps you expect to sit up high in your father's canoe <span
-id="fr_5"></span>[\*](#fn_5)  
+id="fr_5"></span>[\*](#fn_5.md)  
     chief-woman, and look around upon all things  
     in front of Upset-Canoe.  
 Be careful, be careful, chief-woman!
@@ -312,11 +312,11 @@ Do not cry!
 
 ### Footnotes
 
-<span id="fn_5"></span>[138:\*](por42.htm#fr_5) Chiefs' children used to
+<span id="fn_5"></span>[138:\*](por42.htm#fr_5.md) Chiefs' children used to
 be placed high up on blankets in the center of trading canoes so that
 they could look about. Here the baby is reminded of what she used to do
 in a former existence.
 
 ------------------------------------------------------------------------
 
-[Next: Bilqula Death Song](por43)
+[Next: Bilqula Death Song](por43.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct07) [Next](bct09)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct07) [Next](bct09.md)
 
 ------------------------------------------------------------------------
 
@@ -212,9 +212,9 @@ Solomon.
    \[Shishak was the first king of the XXIInd Dynasty and reigned about
 20 years (947-928 <span class="small">B.C.</span>): he was of Libyan
 origin. The Egyptian form of his name is S<span
-class="small">HASHANQ</span> ![hieroglyphics](176-1.jpg), and it is
+class="small">HASHANQ</span> ![hieroglyphics](176-1.jpg.md), and it is
 found with his title "beloved of Amen" in a cartouche thus:
-![hieroglyphics](176-2.jpg).\]
+![hieroglyphics](176-2.jpg.md).\]
 
    And Abijah his son reigned after him and he destroyed Jerusalem with
 fornication and with heathen works--now, Melkâ, the mother of
@@ -407,10 +407,10 @@ of the kings in the British Museum which were his tributaries we find--
 </table>
 
 Tiglath Pileser's Babylonian name was P<span class="small">U-LU</span>,
-![cuneiform](181.jpg), which we find in the Bible under the form of
-"Pul." (*See* [II Kings xv. 29](../../bib/kjv/kg2.htm#15:29); [xvi.
-7](../../bib/kjv/kg2.htm#16:7), 10; and [I Chron. v.
-26](../../bib/kjv/ch1.htm#5:26).)**\]**
+![cuneiform](181.jpg.md), which we find in the Bible under the form of
+"Pul." (*See* [II Kings xv. 29](../../bib/kjv/kg2.htm#15:29.md); [xvi.
+7](../../bib/kjv/kg2.htm#16:7.md), 10; and [I Chron. v.
+26](../../bib/kjv/ch1.htm#5:26)..md)**\]**
 
 <span id="page_182">p. 182</span>
 
@@ -434,7 +434,7 @@ sent them into Media, beyond Babel.
 
    **\[**NOTE.--Tiglath Pileser III having conquered Syria carried away
 into captivity the Israelitish tribes of Reuben and Gad, and the half
-tribe of Manasseh. His successor Shelmaneser V, ![cuneiform](182.jpg)
+tribe of Manasseh. His successor Shelmaneser V, ![cuneiform](182.jpg.md)
 (727-722 <span class="small">B.C.</span>) attacked <u>H</u>osea, king of
 Israel, and conquered him and, because he was an ally of the king of
 Egypt, carried him off into captivity.**\]**
@@ -449,13 +449,13 @@ prayer of Hezekiah Jerusalem was saved.
 
  
 
-   **\[**NOTE.--Sennacherib, ![cuneiform](183.jpg), king of Assyria,
+   **\[**NOTE.--Sennacherib, ![cuneiform](183.jpg.md), king of Assyria,
 705-681 <span class="small">B.C.</span>, having brought Padi from
 Jerusalem and made him king of Ekron, then marched on to attack
 
 |                                                    |                           |                          |                           |                         |                          |                            |                          |                          |                          |                                                 |
 |:--------------------------------------------------:|:-------------------------:|:------------------------:|:-------------------------:|:-----------------------:|:------------------------:|:--------------------------:|:------------------------:|:------------------------:|:------------------------:|:-----------------------------------------------:|
-|             ![cuneiform](cnf-king.jpg)             | ![cuneiform](cnf-kha.jpg) | ![cuneiform](cnf-za.jpg) | ![cuneiform](cnf-_ki.jpg) | ![cuneiform](cnf-a.jpg) | ![cuneiform](cnf-u1.jpg) | ![cuneiform](cnf-matu.jpg) | ![cuneiform](cnf-ia.jpg) | ![cuneiform](cnf-u2.jpg) | ![cuneiform](cnf-da.jpg) | ![cuneiform](cnf-a.jpg) ![cuneiform](cnf-a.jpg) |
+|             ![cuneiform](cnf-king.jpg)             | ![cuneiform](cnf-kha.jpg) | ![cuneiform](cnf-za.jpg) | ![cuneiform](cnf-_ki.jpg) | ![cuneiform](cnf-a.jpg) | ![cuneiform](cnf-u1.jpg) | ![cuneiform](cnf-matu.jpg) | ![cuneiform](cnf-ia.jpg) | ![cuneiform](cnf-u2.jpg) | ![cuneiform](cnf-da.jpg) | ![cuneiform](cnf-a.jpg) ![cuneiform](cnf-a.jpg.md) |
 |                                                    |          *Kha-*           |          *za-*           |       *<u>k</u>i-*        |          *a-*           |           *u-*           |          *(matu)*          |          *Ia-*           |           *u-*           |          *da-*           |                      *ai*                       |
 | "Hezekiah \[king of\] the country of the Judeans." |                           |                          |                           |                         |                          |                            |                          |                          |                          |                                                 |
 
@@ -465,7 +465,7 @@ sheep. He then shut up Hezekiah like a caged bird in
 
 |                                          |                          |                          |                          |                          |                          |                           |                            |                          |                                                  |
 |:----------------------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:-------------------------:|:--------------------------:|:------------------------:|:------------------------------------------------:|
-|        ![cuneiform](cnf-city.jpg)        | ![cuneiform](cnf-ur.jpg) | ![cuneiform](cnf-sa.jpg) | ![cuneiform](cnf-li.jpg) | ![cuneiform](cnf-im.jpg) | ![cuneiform](cnf-mu.jpg) | ![cuneiform](cnf-ali.jpg) | ![cuneiform](cnf-shar.jpg) | ![cuneiform](cnf-ti.jpg) | ![cuneiform](cnf-su.jpg) ![cuneiform](cnf-a.jpg) |
+|        ![cuneiform](cnf-city.jpg)        | ![cuneiform](cnf-ur.jpg) | ![cuneiform](cnf-sa.jpg) | ![cuneiform](cnf-li.jpg) | ![cuneiform](cnf-im.jpg) | ![cuneiform](cnf-mu.jpg) | ![cuneiform](cnf-ali.jpg) | ![cuneiform](cnf-shar.jpg) | ![cuneiform](cnf-ti.jpg) | ![cuneiform](cnf-su.jpg) ![cuneiform](cnf-a.jpg.md) |
 |                                          |          *Ur-*           |          *sa-*           |          *li-*           |          *im-*           |           *mu*           |           *ali*           |         *sharru-*          |          *ti-*           |                       *su*                       |
 | "Jerusalem the city of his sovereignty." |                          |                          |                          |                          |                          |                           |                            |                          |                                                  |
 
@@ -537,7 +537,7 @@ His names as "King of the South and North" and "Son of Ra" are
 
 |                              |      |                             |
 |------------------------------|------|-----------------------------|
-| ![hieroglyphics](186-1.jpg)  |      | ![hieroglyphics](186-2.jpg) |
+| ![hieroglyphics](186-1.jpg)  |      | ![hieroglyphics](186-2.jpg.md) |
 | U<u>h</u>em-a{dot-over}b-R¯a |      | N-Ka-u.**\]**               |
 
  
@@ -646,9 +646,9 @@ who took to wife Malkath, the daughter of Ezra the scribe; but no son
 was born to him by her in Babel. In the days of Zerubbabel, the prince
 of Judah, Cyrus the Persian reigned in Babel. \[A reproduction of a
 sculptured relief of Cyrus is given on <span id="pl01"></span>[Plate
-I](bct_pl01). The official account of his conquest of Babylon is found
+I](bct_pl01.md). The official account of his conquest of Babylon is found
 on a baked clay cylinder now in the British Museum. See <span
-id="pl02"></span>[Plate II](bct_pl02).**\]**
+id="pl02"></span>[Plate II](bct_pl02.md).**\]**
 
  
 
@@ -670,7 +670,7 @@ the children of thy people, and go up to Jerusalem in peace; and
 \[re\]build the city of thy fathers, and dwell and reign therein. And
 because Cyrus brought about the return of the children of Israel \[to
 Jerusalem\], God said, "I have taken my servant Cyrus by his right hand"
-([Isa. xliv. 28](../../bib/kjv/isa.htm#44:28); xlv. 1). And the name of
+([Isa. xliv. 28](../../bib/kjv/isa.htm#44:28); xlv. 1.md). And the name of
 Cyrus was called "My shepherd, the anointed of the Lord," because his
 seed was received into the seed of David through Meshayyanath, the
 sister of Zerubbabel, whom he had taken to wife. And the children of
@@ -686,4 +686,4 @@ and the <span class="small">FIFTH THOUSAND YEARS CAME TO AN END</span>.
 
 ------------------------------------------------------------------------
 
-[Next](bct09)
+[Next](bct09.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar091) [Next](gbar093)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar091) [Next](gbar093.md)
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ people were filled with terror and began to weep.
 
 ------------------------------------------------------------------------
 
-[Next](gbar093)
+[Next](gbar093.md)

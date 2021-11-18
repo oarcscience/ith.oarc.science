@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic12)  [Next](tic14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic12)  [Next](tic14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ these delights, lest the devil in the guise of an angel of light should
 deceive those whose only desire is to please Thee.
 
 2\. I said 'some,' but in reality there are very *few* <span
-id="fr_153"></span>[1](#fn_153) who never enter this mansion: some more
+id="fr_153"></span>[1](#fn_153.md) who never enter this mansion: some more
 and some less, but most of them may be said at least
 
 <span id="page_120">p. 120</span>
@@ -49,12 +49,12 @@ to gain admittance into these rooms. I think that certain graces I am
 about to describe are bestowed on only a few of the nuns, but if the
 rest only arrive at the portal they receive a great boon from God, for
 'many are called, but few are chosen.' <span
-id="fr_154"></span>[2](#fn_154) All we who wear the holy habit of the
+id="fr_154"></span>[2](#fn_154.md) All we who wear the holy habit of the
 Carmelites are called to prayer and contemplation. This was the object
-of our Order, <span id="fr_155"></span>[3](#fn_155) to this lineage we
+of our Order, <span id="fr_155"></span>[3](#fn_155.md) to this lineage we
 belong. Our holy Fathers of Mount Carmel sought in perfect solitude and
 utter contempt of the world for this treasure, this precious
-pearl, <span id="fr_156"></span>[4](#fn_156) of which we speak, and we
+pearl, <span id="fr_156"></span>[4](#fn_156.md) of which we speak, and we
 are their descendants. How little do most of us care to prepare our
 souls, that our Lord may reveal this jewel to us! Outwardly we may
 appear to practise the requisite virtues, but we have far more to do
@@ -75,7 +75,7 @@ but is content that each should do his best. Blessed be so just a God!
 
 3\. But, daughters, if you would purchase this treasure of which we are
 speaking, God would have you keep back nothing from Him, little or
-great. He will have it all; <span id="fr_157"></span>[5](#fn_157) in
+great. He will have it all; <span id="fr_157"></span>[5](#fn_157.md) in
 proportion to what you know you have given will your reward be great or
 small. There is no more certain sign whether or not we have reached the
 prayer of union. Do not imagine that this state of prayer is, like the
@@ -89,7 +89,7 @@ the soul can love it knows not how, nor whom it loves, nor what it
 desires. In fact, it has died entirely to this world, to live more truly
 than ever in God. This is a delicious death, for the soul is deprived of
 the faculties it exercised while in the body: <span
-id="fr_158"></span>[6](#fn_158) delicious because, (although not really
+id="fr_158"></span>[6](#fn_158.md) delicious because, (although not really
 the case), it seems to have left its mortal covering to abide more
 entirely in God. So completely does this take place, that I know not
 whether the body retains sufficient life to continue breathing; on
@@ -103,7 +103,7 @@ it does so unconsciously.
 is happening, which is beyond its power; it is so astounded that, if
 consciousness is not completely lost, at least no movement is possible:
 the person may be compared to one who falls into a dead faint with
-dismay. <span id="fr_159"></span>[7](#fn_159)
+dismay. <span id="fr_159"></span>[7](#fn_159.md)
 
 5\. Oh, mighty secrets of God! Never should I weary of trying to explain
 them if I thought it possible to succeed! I would write a thousand
@@ -131,7 +131,7 @@ and united with the essence of the soul, that the evil one dare not
 approach, nor can he even understand this mystery. This is certain, for
 it is said that the devil does not know our thoughts, much less can he
 penetrate a secret so profound that God does not reveal it even to
-us. <span id="fr_160"></span>[8](#fn_160) Oh, blessed state, in which
+us. <span id="fr_160"></span>[8](#fn_160.md) Oh, blessed state, in which
 this cursed one cannot injure us! What riches we receive while God so
 works in us that neither we ourselves nor any one else can impede Him!
 What will He not bestow, Who is so eager to give, and Who can give us
@@ -145,7 +145,7 @@ earthly joys, pleasure, and satisfaction. As great a difference exists
 between their origin and that of worldly pleasures as between their
 opposite effects, as you know by experience.
 
-7\. I said somewhere <span id="fr_161"></span>[9](#fn_161) that the one
+7\. I said somewhere <span id="fr_161"></span>[9](#fn_161.md) that the one
 seems only to touch the surface of the body, while the other penetrates
 to the very marrow: I believe this is
 
@@ -171,7 +171,7 @@ perform far greater wonders. If some of the marvels told are new to
 them, yet they have read of others of the same kind, showing the former
 to be possible. I have had great experience as to this and have also met
 with timid, half-instructed people whose ignorance has cost me very
-dear. <span id="fr_162"></span>[10](#fn_162) I am convinced that those
+dear. <span id="fr_162"></span>[10](#fn_162.md) I am convinced that those
 who refuse to believe that God can do far more than this, and that He is
 pleased now, as in the past, to communicate
 
@@ -185,24 +185,24 @@ yourselves as to whether those who receive these graces are good or
 wicked; as I said, He knows best and it is no business of yours: you
 should serve Him with a single heart and with humility, and should
 praise Him for His works and wonders. <span
-id="fr_163"></span>[11](#fn_163)
+id="fr_163"></span>[11](#fn_163.md)
 
 8\. Let us now speak of the sign which proves the prayer of union to
 have been genuine. As you have seen, God then deprives the soul of all
 its senses that He may the better imprint in it true wisdom: it neither
 sees, hears, nor understands anything while this state lasts, which is
 never more than a very brief time; <span
-id="fr_164"></span>[12](#fn_164) it appears to the soul to be much
+id="fr_164"></span>[12](#fn_164.md) it appears to the soul to be much
 shorter than it really is. God visits the soul in a manner which
 prevents its doubting, on returning to itself, that it dwelt in Him and
 that He was within it, and so firmly is it convinced of this truth that,
 although years may pass before this favour recurs, the soul can never
-forget it nor doubt the fact, <span id="fr_165"></span>[13](#fn_165)
+forget it nor doubt the fact, <span id="fr_165"></span>[13](#fn_165.md)
 setting aside the effects left by this prayer, to which I will refer
 later on. The conviction felt by the soul is the main point.
 
 9\. But, you may ask, how can a person who is incapable of sight and
-hearing see <span id="fr_166"></span>[14](#fn_166) or know these
+hearing see <span id="fr_166"></span>[14](#fn_166.md) or know these
 
 <span id="page_126">p. 126</span>
 
@@ -211,11 +211,11 @@ it clearly afterwards, not by any vision but by a certitude which
 remains in the heart which God alone could give. I know of some one who
 was unaware of God's being in all things by presence, power and essence,
 yet was firmly convinced of it by a divine favour of this sort. <span
-id="fr_167"></span>[15](#fn_167) She asked an ill-instructed priest of
+id="fr_167"></span>[15](#fn_167.md) She asked an ill-instructed priest of
 the kind I mentioned to tell her in what way God dwelt within us: he was
 as ignorant on the subject as she had been before our Lord revealed to
 her the truth, and answered that the Almighty was only present in us by
-grace. <span id="fr_168"></span>[16](#fn_168) Yet so strong was her
+grace. <span id="fr_168"></span>[16](#fn_168.md) Yet so strong was her
 
 <span id="page_127">p. 127</span>
 
@@ -240,13 +240,13 @@ us not strive to understand it.
 10\. Concerning my words: 'We can do nothing on our own part,' I was
 struck by the words of the Bride in the Canticles, which you will
 remember to have heard: 'The King brought me into the cellar of
-wine,' <span id="fr_169"></span>[17](#fn_169) (or 'placed me' I think
+wine,' <span id="fr_169"></span>[17](#fn_169.md) (or 'placed me' I think
 she says): she does not say she went of her own accord,
 
 <span id="page_128">p. 128</span>
 
 although telling us how she wandered up and down seeking her
-Beloved. <span id="fr_170"></span>[18](#fn_170) I think the prayer of
+Beloved. <span id="fr_170"></span>[18](#fn_170.md) I think the prayer of
 union is the 'cellar' in which our Lord places us when and how He
 chooses, but we cannot enter it through any effort of our own. His
 Majesty alone can bring us there and come into the centre of our souls.
@@ -256,7 +256,7 @@ abandonment of all things: He does not require the faculties or senses
 to open the door to Him; they are all asleep. He enters the innermost
 depths of our souls without a door, as He entered the room where the
 disciples sat, saying 'Pax vobis,' <span
-id="fr_171"></span>[19](#fn_171) and as He emerged from the sepulchre
+id="fr_171"></span>[19](#fn_171.md) and as He emerged from the sepulchre
 without removing the stone that closed the entrance. You will see
 farther on, in the seventh mansion, far better than here, how God makes
 the soul enjoy His presence in its very centre. O daughters, what
@@ -269,54 +269,54 @@ ever praised! Amen.
 
 ### Footnotes
 
-<span id="fn_153"></span>[119:1](tic13.htm#fr_153) *Found*. ch. iv. 8.
+<span id="fn_153"></span>[119:1](tic13.htm#fr_153.md) *Found*. ch. iv. 8.
 
-<span id="fn_154"></span>[120:2](tic13.htm#fr_154) St. Matt. xx. 16:
+<span id="fn_154"></span>[120:2](tic13.htm#fr_154.md) St. Matt. xx. 16:
 'Multi enim sunt vocati, pauci vero electi.'
 
-<span id="fn_155"></span>[120:3](tic13.htm#fr_155) Maneant singuli in
+<span id="fn_155"></span>[120:3](tic13.htm#fr_155.md) Maneant singuli in
 cellulis suis, vel juxta eas, die ac nocte in lege Domini meditantes et
 in orationibus vigilantes.' (*Carmelite Rule*).
 
-<span id="fn_156"></span>[120:4](tic13.htm#fr_156) St. Matt, xiii. 46.
+<span id="fn_156"></span>[120:4](tic13.htm#fr_156.md) St. Matt, xiii. 46.
 
-<span id="fn_157"></span>[121:5](tic13.htm#fr_157) 'The reason why there
+<span id="fn_157"></span>[121:5](tic13.htm#fr_157.md) 'The reason why there
 are so few contemplatives is that there are so few persons who wholly
 withdraw themselves from transitory and created things' (*Imitation*,
 bk. iii. ch. xxxi. 1). See also *Way of Perf*. ch. xvi. 5. *Life*, ch.
 xi. 2-4; xxii. 18, 19.
 
-<span id="fn_158"></span>[121:6](tic13.htm#fr_158) *Way of Perf.* ch.
+<span id="fn_158"></span>[121:6](tic13.htm#fr_158.md) *Way of Perf.* ch.
 xxv. 1. *Life*, ch. xvi. *Rel*. I. i; viii. 7.
 
-<span id="fn_159"></span>[122:7](tic13.htm#fr_159) *Life*, ch. xvii. 2.
+<span id="fn_159"></span>[122:7](tic13.htm#fr_159.md) *Life*, ch. xvii. 2.
 
-<span id="fn_160"></span>[123:8](tic13.htm#fr_160) According to St.
+<span id="fn_160"></span>[123:8](tic13.htm#fr_160.md) According to St.
 Thomas, angels--whether good or bad--do not know the thoughts of man
 unless they become manifest by some exterior sign. S. Theol. I. q. lvii.
 art. 4. See also St. John of the Cross, *Dark Night*, bk. II, ch. xxiii.
 2, 5.
 
-<span id="fn_161"></span>[123:9](tic13.htm#fr_161) Mansion iv. ch. i, 5.
+<span id="fn_161"></span>[123:9](tic13.htm#fr_161.md) Mansion iv. ch. i, 5.
 
-<span id="fn_162"></span>[124:10](tic13.htm#fr_162) *Life*, ch. viii.
+<span id="fn_162"></span>[124:10](tic13.htm#fr_162.md) *Life*, ch. viii.
 15.
 
-<span id="fn_163"></span>[125:11](tic13.htm#fr_163) *Life*, ch. xviii.
+<span id="fn_163"></span>[125:11](tic13.htm#fr_163.md) *Life*, ch. xviii.
 16.
 
-<span id="fn_164"></span>[125:12](tic13.htm#fr_164) *Life*, ch. xx. 13,
+<span id="fn_164"></span>[125:12](tic13.htm#fr_164.md) *Life*, ch. xx. 13,
 24.
 
-<span id="fn_165"></span>[125:13](tic13.htm#fr_165) Philippus a SS.
+<span id="fn_165"></span>[125:13](tic13.htm#fr_165.md) Philippus a SS.
 Trinitate, *l.c.*, pars iii. tr. i. disc. iv. art, 2, where he adds some
 further signs. Anton. a Sp. S., *l.c.*, tract. i. no. 116 and 117.
 
-<span id="fn_166"></span>[125:14](tic13.htm#fr_166) 'The soul does not
+<span id="fn_166"></span>[125:14](tic13.htm#fr_166.md) 'The soul does not
 see the good Master who teaches it, although <span id="page_126">p.
 126</span> clearly conscious of His presence.' (*Concept*. ch. iv. 3.)
 
-<span id="fn_167"></span>[126:15](tic13.htm#fr_167) 'There are three
+<span id="fn_167"></span>[126:15](tic13.htm#fr_167.md) 'There are three
 ways in which God is present in the soul. The first is His presence in
 essence, not in holy souls only, but in wretched and sinful souls as
 well, and also in all created things; for it is by this presence that He
@@ -342,20 +342,20 @@ which love begets.' (St. John of the Cross, *Ascent*, bk. ii. ch. v. 3.)
 
 Fr. Gracian, *Peregrinacion de Anastasio* (Burgos, 1905), p. 171.
 
-<span id="fn_168"></span>[126:16](tic13.htm#fr_168) *Life*, ch. xviii.
+<span id="fn_168"></span>[126:16](tic13.htm#fr_168.md) *Life*, ch. xviii.
 20. *Rel*. ix. 17; xi. 8. St. Teresa was so deeply impressed by the
 ignorance of this priest that she very frequently referred to it.
 
-<span id="fn_169"></span>[127:17](tic13.htm#fr_169) Cant. i. 3:
+<span id="fn_169"></span>[127:17](tic13.htm#fr_169.md) Cant. i. 3:
 'Introduxit me rex in cellaria sua.' *Castle*, M. v. ch. i. *Way of
 Perf.* ch. xviii. I. *Concep*. ch. iv. 4-8; v. 5; vi. 7; vii. 2-5. Life,
 ch. xviii. 17.
 
-<span id="fn_170"></span>[128:18](tic13.htm#fr_170) *Cant*. iii. 2: 'Per
+<span id="fn_170"></span>[128:18](tic13.htm#fr_170.md) *Cant*. iii. 2: 'Per
 vicos et plateas quæram quem diligit anima mea.'
 
-<span id="fn_171"></span>[128:19](tic13.htm#fr_171) St. John, xx. 19.
+<span id="fn_171"></span>[128:19](tic13.htm#fr_171.md) St. John, xx. 19.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Effects of Union](tic14)
+[Next: Chapter II. Effects of Union](tic14.md)

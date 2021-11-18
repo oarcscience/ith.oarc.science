@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww15)  [Next](lww17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww15)  [Next](lww17.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ interesting chat."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII--The Mystery of "the Grove"](lww17)
+[Next: Chapter XVII--The Mystery of "the Grove"](lww17.md)

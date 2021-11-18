@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa47)  [Next](tsa49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa47)  [Next](tsa49.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ Shimeon \[b. Jochai\] (*c*. 150), Mish. 1. 3; 2. 4; 3. 3; 7. 1; 9. 2; 9.
 
 ------------------------------------------------------------------------
 
-[Next: General Index](tsa49)
+[Next: General Index](tsa49.md)

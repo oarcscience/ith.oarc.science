@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm19)  [Next](bcm21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm19)  [Next](bcm21.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,11 +19,11 @@ literature, possessing Italian connections, real or imputed, are:--
 I. GRIMORIUM VERUM, or the Most Approved Keys of Solomon the Hebrew
 Rabbin, wherein the Most Hidden Secrets, both Natural and Supernatural,
 are immediately exhibited; but it is necessary that the Demons should be
-contented on their part. <span id="fr_43"></span>[1](#fn_43) Translated
+contented on their part. <span id="fr_43"></span>[1](#fn_43.md) Translated
 from the Hebrew by Plaingière, a Dominican Jesuit, <span
-id="fr_44"></span>[2](#fn_44) with a Collection of Curious Secrets.
+id="fr_44"></span>[2](#fn_44.md) with a Collection of Curious Secrets.
 Published by Alibeck the Egyptian. 1517. <span
-id="fr_45"></span>[3](#fn_45)
+id="fr_45"></span>[3](#fn_45.md)
 
 II\. TRUE BLACK MAGIC, or the Secret of Secrets, an MS. found at
 Jerusalem in the Sepulchre of Solomon, containing: 1. Forty-five
@@ -33,8 +33,8 @@ Talismans with their representation, as also the
 
 manner of using them, together with their Marvellous Properties. 2. All
 Magical Characters known unto this day. <span
-id="fr_46"></span>[1](#fn_46) Translated from the Hebrew of the Magus
-Iroë-Grego. <span id="fr_47"></span>[2](#fn_47) Rome. In the year of
+id="fr_46"></span>[1](#fn_46.md) Translated from the Hebrew of the Magus
+Iroë-Grego. <span id="fr_47"></span>[2](#fn_47.md) Rome. In the year of
 grace, 1750.
 
 III\. THE GRAND GRIMOIRE, with the Powerful Clavicle of Solomon and of
@@ -65,13 +65,13 @@ the powers which it is proposed
 
 <span id="page_98">p. 98</span>
 
-to invoke by the name of Devils. <span id="fr_48"></span>[1](#fn_48) At
+to invoke by the name of Devils. <span id="fr_48"></span>[1](#fn_48.md) At
 the same time it refers them nominally to the four elements, which would
 connect them with the Sylphs, Salamanders and so forth; but the
 classification in question, somewhat incidentally made, does not really
 obtain. There is an account of the Hierarchy of Spirits, with Lucifer,
 Beelzebuth and Astaroth as potentates in chief. <span
-id="fr_49"></span>[2](#fn_49) A portion of this account is drawn from
+id="fr_49"></span>[2](#fn_49.md) A portion of this account is drawn from
 the *Lemegeton*, perhaps through the *Pseudo-monarchia* of Wierus. The
 work purports to be divided into three sections, containing:--(*a*.) The
 Characters and Seals of the Demons, with the forms for their Evocation
@@ -115,7 +115,7 @@ Black Magic. Some are venereal in the more objectionable sense of the
 term, others merely revolting, while yet others, as that of the Magic
 Garters, are derived from the Clavicle. Finally, there are certain
 processes which might claim to be those of White Magic <span
-id="fr_50"></span>[1](#fn_50) and are concerned with the ceremonial
+id="fr_50"></span>[1](#fn_50.md) and are concerned with the ceremonial
 induction of simple clairvoyance.
 
 We may therefore conclude that the *Grimorium Verum* proper is not more
@@ -126,12 +126,12 @@ the ceremonial for the evocation of precisely the same spirits.
 
 ### Footnotes
 
-<span id="fn_43"></span>[96:1](bcm20.htm#fr_43) This is only a
+<span id="fn_43"></span>[96:1](bcm20.htm#fr_43.md) This is only a
 conjectural translation. It is impossible to render such a passage as
 *modo operator per necessaria et contenta facit scia tamen oportit
 Dæmonum potentia dum taxat per agantur*.
 
-<span id="fn_44"></span>[96:2](bcm20.htm#fr_44) It will be scarcely
+<span id="fn_44"></span>[96:2](bcm20.htm#fr_44.md) It will be scarcely
 necessary to advise the reader that a Dominican Jesuit is an absurdity,
 which might be paralleled by "secular monk," "unordained priest," and so
 forth. The order of St. Dominic and the Society of Jesus are totally
@@ -140,19 +140,19 @@ so gross a blunder would be possible only to a Jew or a heretic;
 certainly he would have more reason than would be discoverable in the
 hypothesis of Papus, that priests are the authors of the Grimoires.
 
-<span id="fn_45"></span>[96:3](bcm20.htm#fr_45) On the reverse of the
+<span id="fn_45"></span>[96:3](bcm20.htm#fr_45.md) On the reverse of the
 title:--*The True Clavicles of Solomon*. Memphis. Published by Alibeck
 the Egyptian.
 
-<span id="fn_46"></span>[97:1](bcm20.htm#fr_46) That is, mystic
+<span id="fn_46"></span>[97:1](bcm20.htm#fr_46.md) That is, mystic
 characters for engraving on magical instruments, vessels and vestments.
 The statement is utterly untrue, for the characters given by the
 Grimoire are few in number and exceedingly imperfect as well.
 
-<span id="fn_47"></span>[97:2](bcm20.htm#fr_47) Mr. Mathers reads Iohé
+<span id="fn_47"></span>[97:2](bcm20.htm#fr_47.md) Mr. Mathers reads Iohé
 Grevis. Iroe Gecis is another variation. It is a corruption in any case.
 
-<span id="fn_48"></span>[98:1](bcm20.htm#fr_48) "Here beginneth the
+<span id="fn_48"></span>[98:1](bcm20.htm#fr_48.md) "Here beginneth the
 *Sanctum Regnum*, called the Royalty of Spirits, or the little Keys of
 Solomon, a most learned Hebrew nigromancer and Rabbin, containing
 various combinations of characters, whereby the Powers, Spirits or, more
@@ -162,11 +162,11 @@ compelled to bring whatsoever you may require of them, causing you no
 kind of annoyance, provided only that they are contented on their part,
 for these sorts of creatures give nothing for nothing."
 
-<span id="fn_49"></span>[98:2](bcm20.htm#fr_49) See Part ii. c. 3.
+<span id="fn_49"></span>[98:2](bcm20.htm#fr_49.md) See Part ii. c. 3.
 
-<span id="fn_50"></span>[99:1](bcm20.htm#fr_50) See Part ii. c. 8, §§ 6,
+<span id="fn_50"></span>[99:1](bcm20.htm#fr_50.md) See Part ii. c. 8, §§ 6,
 7, and 8.
 
 ------------------------------------------------------------------------
 
-[Next: Section 2: True Black Magic](bcm21)
+[Next: Section 2: True Black Magic](bcm21.md)

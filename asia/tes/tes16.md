@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes15)  [Next](tes17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes15)  [Next](tes17.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ these seem to be your tracks."--"How can they be mine?" said arctic Fox.
 right," said the Wolf. He followed another track, and caught another
 arctic Fox. "I have you," snarled he. "It is you who made me stick to
 the ice of the river." And he tore him to pieces. <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 Told by Ulashkan, a Lamut man, on the Molonda River, in the Kolyma
 country, summer of 1895.
@@ -68,9 +68,9 @@ country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_17"></span>[33:1](tes16.htm#fr_17) O. Dähnhardt,
+<span id="fn_17"></span>[33:1](tes16.htm#fr_17.md) O. Dähnhardt,
 *Natursagen*, vol. 4, 219.--F. B.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Wolves and Men](tes17)
+[Next: 6. Wolves and Men](tes17.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo43)  [Next](sdo45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo43)  [Next](sdo45.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ to be continued.
 
 ------------------------------------------------------------------------
 
-[Next: Painting and Exchanging Clothing](sdo45)
+[Next: Painting and Exchanging Clothing](sdo45.md)

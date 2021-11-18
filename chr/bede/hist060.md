@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist059) 
-[Next](hist061) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist059.md) 
+[Next](hist061.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ shall speak more fully hereafter in its proper place.
 
 ------------------------------------------------------------------------
 
-[Next: V. Of the life of Bishop Aidan. \[635 A.D.\]](hist061)
+[Next: V. Of the life of Bishop Aidan. \[635 A.D.\]](hist061.md)

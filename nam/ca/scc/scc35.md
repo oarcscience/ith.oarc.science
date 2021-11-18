@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc34)  [Next](scc36) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc34)  [Next](scc36.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ found his son. So each of them succeeded in getting his boy again.
 
 ------------------------------------------------------------------------
 
-[Next: 34.--Yaudanchi Yokuts. Mikiti.](scc36)
+[Next: 34.--Yaudanchi Yokuts. Mikiti.](scc36.md)

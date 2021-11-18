@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe093)  [Next](prwe095) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe093)  [Next](prwe095.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ few examples of these pale sparks will not be without value.
 
 ------------------------------------------------------------------------
 
-[Next: Baal Fires](prwe095)
+[Next: Baal Fires](prwe095.md)

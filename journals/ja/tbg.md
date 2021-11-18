@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ the question: what is the cause that leads to the decline of prosperity?
    2. The person who advances in prosperity may be easily known, and so
 is the person who declines. He who delights (in the performance of the)
 ten meritorious acts<span id="page_226_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_226_note_1) will attain to
+class="small">1</span></sup>](#page_226_note_1.md) will attain to
 prosperity, while he that entertains an aversion thereto will decline in
 prosperity.
 
@@ -197,7 +197,7 @@ METTÂNISAMSA-SUTTA, OR ADVANTAGES OF GENTLENESS.
 
    1. He who never violates friendly feelings<span
 id="page_229_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_229_note_1), whenever he journeys
+class="small">1</span></sup>](#page_229_note_1.md), whenever he journeys
 from his own residence shall obtain abundance of food, and become the
 means of supporting many others.
 
@@ -281,11 +281,11 @@ constituted a holy residence.
 perceives it, subdues his desire for sensual objects, certainly he shall
 not again be a lier in the womb<span
 id="page_231_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_231_note_1).
+class="small">1</span></sup>](#page_231_note_1.md).
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Buddhist Articles](../../bud/etc/index)
+[Journals](../index) [Buddhist Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -293,18 +293,18 @@ class="small">1</span></sup>](#page_231_note_1).
 
 <span id="footnotes_page_226">p. 226</span>
 
-<span id="page_226_note_1"></span>[1](#page_226_fr_1) Dasa puñña-kiriya.
+<span id="page_226_note_1"></span>[1](#page_226_fr_1.md) Dasa puñña-kiriya.
 Vide Clough, Dict. vol. II, p. 262, for the different significations of
 this word.
 
 <span id="footnotes_page_229">p. 229</span>
 
-<span id="page_229_note_1"></span>[1](#page_229_fr_1) I.e. Who maintains
+<span id="page_229_note_1"></span>[1](#page_229_fr_1.md) I.e. Who maintains
 under all circumstances feeling of universal kindness and gentleness.
 
 <span id="footnotes_page_231">p. 231</span>
 
-<span id="page_231_note_1"></span>[1](#page_231_fr_1) That is, he shall
+<span id="page_231_note_1"></span>[1](#page_231_fr_1.md) That is, he shall
 not be born again, but upon death migrate to the highest of the Brahma
 worlds, and after residing there the necessary time, cease to exist.
 

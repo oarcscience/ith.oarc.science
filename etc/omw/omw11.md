@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw10)  [Next](omw12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw10)  [Next](omw12.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ the "Voluspo" is purely a product of heathendom. The roving Norsemen of
 the tenth century, very few of whom had as yet accepted Christianity,
 were nevertheless in close contact with Celtic races which had already
 been converted, and in many ways the Celtic influence was strongly
-felt. <span id="fr_18"></span>[19](#fn_18)
+felt. <span id="fr_18"></span>[19](#fn_18.md)
 
 We owe our knowledge of this mythology to the Poetic and Prose
 Eddas--the first a collection of poems celebrating the gods and heroes
@@ -51,9 +51,9 @@ in the tragic music of Richard Wagner's "Ring" operas.
 
 ### Footnotes
 
-<span id="fn_18"></span>[xx:19](omw11.htm#fr_18) Introduction to the
+<span id="fn_18"></span>[xx:19](omw11.htm#fr_18.md) Introduction to the
 Poetic Edda. New York, the American-Scandinavian Foundation.
 
 ------------------------------------------------------------------------
 
-[Next: Indian](omw12)
+[Next: Indian](omw12.md)

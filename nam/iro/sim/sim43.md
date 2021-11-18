@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim42)  [Next](sim44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim42)  [Next](sim44.md) 
 
 ------------------------------------------------------------------------
 
@@ -693,4 +693,4 @@ in, and all were happy.
 
 ------------------------------------------------------------------------
 
-[Next: Coon Deceives Crawfish](sim44)
+[Next: Coon Deceives Crawfish](sim44.md)

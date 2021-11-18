@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm11)  [Next](tmm13) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm11)  [Next](tmm13.md) 
 
 ------------------------------------------------------------------------
 
@@ -238,4 +238,4 @@ Ruth 7
 
 ------------------------------------------------------------------------
 
-[Next: Midrash Song of Songs](tmm13)
+[Next: Midrash Song of Songs](tmm13.md)

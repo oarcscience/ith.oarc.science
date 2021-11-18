@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim89)  [Next](sim91) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim89)  [Next](sim91.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ appears a little at one side of the others.
 
 ------------------------------------------------------------------------
 
-[Next: The Woman and Dog in the Moon](sim91)
+[Next: The Woman and Dog in the Moon](sim91.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh01)  [Next](hloh03) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh01)  [Next](hloh03.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ Some illustrations are from the author's own snapshots.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](hloh03)
+[Next: Introduction](hloh03.md)

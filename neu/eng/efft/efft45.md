@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft44)  [Next](efft46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft44)  [Next](efft46.md) 
 
 ------------------------------------------------------------------------
 
-# OUTWITTING THE BOGIE  <span id="fr_51"></span>[1](#fn_51)
+# OUTWITTING THE BOGIE  <span id="fr_51"></span>[1](#fn_51.md)
 
 AN elf once asserted a claim to a field hitherto possessed by a farmer,
 and after much disputing they came to an arrangement by agreeing to
@@ -38,9 +38,9 @@ possessor of the soil.
 
 ### Footnotes
 
-<span id="fn_51"></span>[1](efft45.htm#fr_51) T. Sternberg, *The Dialect
+<span id="fn_51"></span>[1](efft45.htm#fr_51.md) T. Sternberg, *The Dialect
 and Folk-Lore of Northamptonshire*, p. 140.
 
 ------------------------------------------------------------------------
 
-[Next: The Hunted Hare](efft46)
+[Next: The Hunted Hare](efft46.md)

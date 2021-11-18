@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](rab04)  [Next](rab06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](rab04)  [Next](rab06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -86,11 +86,11 @@ not follow the coffin (to the cemetery, but only as far as the
 town-gate) may compute (the mourning) from the minute you turn your
 faces away from the town-gate."
 
- <span id="fr_62"></span>[A1](#fn_62)The Boraitha states: R. Simeon
+ <span id="fr_62"></span>[A1](#fn_62.md)The Boraitha states: R. Simeon
 said, etc. Said R. Hyya bar Gamda in the name of Joseph b. Saul, quoting
 Rabbi: "The case is only when he arrived before the condolers departed."
 
- <span id="fr_63"></span>[A2](#fn_63)It is written \[Jerem. xxii. 10\]:
+ <span id="fr_63"></span>[A2](#fn_63.md)It is written \[Jerem. xxii. 10\]:
 "Weep not for the dead and do not bemoan him." Weep not--that is, not
 more than sufficient; and do not bemoan him--that is, not more than
 prescribed. How so? During the first three days--weeping; the
@@ -105,7 +105,7 @@ return any more, and see the land of his birth." R. Levi said: "A
 mourner the first three days must imagine to himself as if a sword is
 placed between his shoulders; between the third and seventh day, as if
 it is opposite him in a corner; from that day on, as if it passes in
-front of him in the street." <span id="fr_64"></span>[A3](#fn_64)
+front of him in the street." <span id="fr_64"></span>[A3](#fn_64.md)
 
 "*The bier of a woman must at no time be set there*," etc. R. Ami said:
 "For what purpose was the death of Miriam stated closely following the
@@ -165,7 +165,7 @@ passage \[ibid., ibid.\]:
 your feasts into mourning." And we find one festival which lasts for one
 day only.
 
-C.  <span id="fr_65"></span>[C1](#fn_65) If he was the only baker in
+C.  <span id="fr_65"></span>[C1](#fn_65.md) If he was the only baker in
 town, he may do his work privately for the sake of the people.
 
 D. If one was cutting another's hair, or was having his hair cut, and he
@@ -179,12 +179,12 @@ allowed in either case.
 
 E. When one mourning succeeds another, he may cut his hair with a knife
 but not with shears. If his clothes are dirty, he may wash them in cold
-water but not in feet-water. <span id="fr_66"></span>[E1](#fn_66) A
+water but not in feet-water. <span id="fr_66"></span>[E1](#fn_66.md) A
 mourner and one who is under the ban, when on the road, are allowed to
 wear sandals; however, they must remove them as soon as they reach the
 town. So is the law also for the 9th of Abh, or a general fast-day.
 
- <span id="fr_67"></span>[E2](#fn_67)It is certain that a mourner must
+ <span id="fr_67"></span>[E2](#fn_67.md)It is certain that a mourner must
 not cut his hair, for the Merciful One expressly directed the sons of
 Aaron \[ibid. x. 6\]: "The hair of your head you shall *not* let grow
 long"; hence the case is not so with other mourners. The question,
@@ -197,7 +197,7 @@ a heap of stones, as was the case with Achan \[Josh. vii. 26\], but it
 means that the Beth Din places a big stone on his coffin, to teach that
 whoever dies while under the ban, his coffin is stoned.
 
- <span id="fr_68"></span>[E3](#fn_68)A mourner must wrap up his head,
+ <span id="fr_68"></span>[E3](#fn_68.md)A mourner must wrap up his head,
 for the Merciful One
 
 <span id="page_23">p. 23</span>
@@ -213,9 +213,9 @@ the law in regard to a leper? Come and hear: It is written \[Lev. xiii.
 45\]: "And he shall cover himself up to his upper lip." Hence we see
 that wrapping up is necessary. A mourner must not wear phylacteries, for
 Ezekiel was commanded \[Ezek. xxiv. 17\] to put them on. <span
-id="fr_69"></span>[E4](rab06.htm#fn_69) Hence we must say that others
+id="fr_69"></span>[E4](rab06.htm#fn_69.md) Hence we must say that others
 must not. But the question is as to one who is under the ban, in regard
-to phylacteries? <span id="fr_70"></span>[E5](rab06.htm#fn_70) This
+to phylacteries? <span id="fr_70"></span>[E5](rab06.htm#fn_70.md) This
 question was not decided. It is certain that a mourner must not greet
 any one, as Ezekiel was commanded \[ibid.\]: "Sigh in silence." But how
 is the case with one who is under the ban? Said R. Joseph: Come and hear
@@ -234,34 +234,34 @@ peaceably.
 
 ### Footnotes
 
-<span id="fn_62"></span>[20:A1](rab05.htm#fr_62)
+<span id="fn_62"></span>[20:A1](rab05.htm#fr_62.md)
 
 ### CHAPTER V.
 
 A. *Gemara* from Moed Katan.
 
-<span id="fn_63"></span>[20:A2](rab05.htm#fr_63) *Gemara* from Moed
+<span id="fn_63"></span>[20:A2](rab05.htm#fr_63.md) *Gemara* from Moed
 Katan.
 
-<span id="fn_64"></span>[20:A3](rab05.htm#fr_64) This illustrates the
+<span id="fn_64"></span>[20:A3](rab05.htm#fr_64.md) This illustrates the
 different degrees in which it must be borne in mind.
 
-<span id="fn_65"></span>[22:C1](rab05.htm#fr_65) *C*. For former
+<span id="fn_65"></span>[22:C1](rab05.htm#fr_65.md) *C*. For former
 Mishnas, see Moed Katan, pp. 19-20.
 
-<span id="fn_66"></span>[22:E1](rab05.htm#fr_66) *E*. In Tract Krithath,
+<span id="fn_66"></span>[22:E1](rab05.htm#fr_66.md) *E*. In Tract Krithath,
 where it speaks of the preparation of the spices for the incense, the
 Gemara says: To make it stronger--*mei raglayim*; literally, "feet-water
 (wine, according to some commentators) would be good for it"; but this
 must not be brought into the Temple court. The same term is found in
 Nidah, 61*b*, in the Mishna, among the spices which remove stains.
 
-<span id="fn_67"></span>[22:E2](rab05.htm#fr_67) *Gemara* from Moed
+<span id="fn_67"></span>[22:E2](rab05.htm#fr_67.md) *Gemara* from Moed
 Katan.
 
-<span id="fn_68"></span>[22:E3](rab05.htm#fr_68) *Gemara* from Moed
+<span id="fn_68"></span>[22:E3](rab05.htm#fr_68.md) *Gemara* from Moed
 Katan.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](rab06)
+[Next: Chapter VI](rab06.md)

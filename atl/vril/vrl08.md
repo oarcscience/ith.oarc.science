@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl07)  [Next](vrl09) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl07)  [Next](vrl09.md) 
 
 ------------------------------------------------------------------------
 
@@ -297,4 +297,4 @@ inclination.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER X](vrl09)
+[Next: CHAPTER X](vrl09.md)

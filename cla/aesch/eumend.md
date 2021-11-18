@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Aeschylus](index) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Aeschylus](index.md) 
 
 ------------------------------------------------------------------------
 

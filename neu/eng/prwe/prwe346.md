@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe345)  [Next](prwe347) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe345)  [Next](prwe347.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ plain, a down--same as *Goon*.
 
 ------------------------------------------------------------------------
 
-[Next: St Piran - Perran Zabuloe](prwe347)
+[Next: St Piran - Perran Zabuloe](prwe347.md)

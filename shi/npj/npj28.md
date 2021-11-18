@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj27) 
-[Next](npj29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj27.md) 
+[Next](npj29.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ man's estate, I have not sought Buddha's way, but have drifted from dusk
 to dawn and dawn to dusk.
 
 They tell me that on the Hill of the Flying Sheep in the land of
-So <span id="fr_148"></span>[1](#fn_146) there lives a mighty sage; and
+So <span id="fr_148"></span>[1](#fn_146.md) there lives a mighty sage; and
 now I am hastening to visit him that he may tell by what rule I should
 conduct my life.
 
@@ -135,7 +135,7 @@ But who are you?
 ENVOY.
 
 I am come as a messenger to tell you that the Emperor of the Land of
-So <span id="fr_149"></span>[1](#fn_147) resigns his throne and commands
+So <span id="fr_149"></span>[1](#fn_147.md) resigns his throne and commands
 that Rosei shall reign in his stead.
 
 ROSEI.
@@ -164,13 +164,13 @@ In jewelled palanquin
 On the Way of Wisdom you are borne; here shall you learn  
 That the flower of glory fades like a moment's dream.  
 See, you are become a cloud-man of the sky. <span
-id="fr_150"></span>[1](#fn_148)  
+id="fr_150"></span>[1](#fn_148.md)  
 The palaces of ancient kings  
 Rise up before you, Abō's Hall, the Dragon's Tower; <span
-id="fr_151"></span>[2](#fn_149)  
+id="fr_151"></span>[2](#fn_149.md)  
 High over the tall clouds their moonlit gables gleam.  
 The light wells and wells like a rising tide. <span
-id="fr_152"></span>[3](#fn_150)  
+id="fr_152"></span>[3](#fn_150.md)  
 Oh splendid vision! A courtyard strewn  
 With golden and silver sand;  
 And they that at the four sides  
@@ -204,10 +204,10 @@ And in the west
 Over a golden hill of thirty cubits height  
 A silver moon-wheel rose,  
 To prove his words who sang  
-"In the Palace of Long Life <span id="fr_153"></span>[1](#fn_151)  
+"In the Palace of Long Life <span id="fr_153"></span>[1](#fn_151.md)  
 The Springs and Autumns cease.  
-Before the Gate of Endless Youth <span id="fr_154"></span>[2](#fn_152)  
-The days and months pass slow." <span id="fr_155"></span>[3](#fn_153)
+Before the Gate of Endless Youth <span id="fr_154"></span>[2](#fn_152.md)  
+The days and months pass slow." <span id="fr_155"></span>[3](#fn_153.md)
 
 COURTIER.
 
@@ -265,13 +265,13 @@ Go circling, magic cup,
 
 CHORUS.
 
-Circling from hand to hand; <span id="fr_156"></span>[1](#fn_154)  
-As at the Feast of Floating Cups <span id="fr_157"></span>[2](#fn_155)  
+Circling from hand to hand; <span id="fr_156"></span>[1](#fn_154.md)  
+As at the Feast of Floating Cups <span id="fr_157"></span>[2](#fn_155.md)  
 Hands thrust from damask sleeves detain  
 The goblet whirling in the eager stream;  
-Now launched, now landed! <span id="fr_158"></span>[3](#fn_156)  
+Now launched, now landed! <span id="fr_158"></span>[3](#fn_156.md)  
 Oh merry flashing light, that shall endure  
-Long as the Silver Chalice <span id="fr_159"></span>[4](#fn_157) circles
+Long as the Silver Chalice <span id="fr_159"></span>[4](#fn_157.md) circles
 space.
 
 BOY DANCER.
@@ -282,7 +282,7 @@ CHORUS.
 
 "The dew of the flowers dripping day by day  
 In how many thousand years  
-Will it have grown into a pool?" <span id="fr_160"></span>[5](#fn_158)  
+Will it have grown into a pool?" <span id="fr_160"></span>[5](#fn_158.md)  
 It shall not fail, it shall not fail,  
 The fountain of our Immortality;  
 He draws, and yet it wells;  
@@ -441,7 +441,7 @@ Dreamed while the millet cooked.
 
 ROSEI.
 
-Glory be to the Trinity, <span id="fr_161"></span>[1](#fn_159)  
+Glory be to the Trinity, <span id="fr_161"></span>[1](#fn_159.md)  
 Glory to the Trinity!
 
 CHORUS.
@@ -459,55 +459,55 @@ Turn homeward from the village of Kantan.
 
 ### Footnotes
 
-<span id="fn_146"></span>[156:1](npj28.htm#fr_148) Corresponds to the
+<span id="fn_146"></span>[156:1](npj28.htm#fr_148.md) Corresponds to the
 modern province Hupeh.
 
-<span id="fn_147"></span>[158:1](npj28.htm#fr_149) So, Chinese "Ch'u"
+<span id="fn_147"></span>[158:1](npj28.htm#fr_149.md) So, Chinese "Ch'u"
 was formerly an independent feudal State. The name means "thorn," as
 does the Japanese "Ibara." Chamberlain calls it "The Country of Ibara,"
 but in this case the reading "So" is indicated by both Owada and Haga.
 
-<span id="fn_148"></span>[159:1](npj28.htm#fr_150) Kings and princes are
+<span id="fn_148"></span>[159:1](npj28.htm#fr_150.md) Kings and princes are
 often called "thou above the clouds."
 
-<span id="fn_149"></span>[159:2](npj28.htm#fr_151) Palaces of the First
+<span id="fn_149"></span>[159:2](npj28.htm#fr_151.md) Palaces of the First
 Emperor. An attendant has removed the pillow from the "bed." From this
 moment the bed becomes a magnificent palace, as described in the verses
 which follow.
 
-<span id="fn_150"></span>[159:3](npj28.htm#fr_152) At this point the Boy
+<span id="fn_150"></span>[159:3](npj28.htm#fr_152.md) At this point the Boy
 Dancer enters.
 
-<span id="fn_151"></span>[160:1](npj28.htm#fr_153) Name of a famous
+<span id="fn_151"></span>[160:1](npj28.htm#fr_153.md) Name of a famous
 Chinese palace.
 
-<span id="fn_152"></span>[160:2](npj28.htm#fr_154) Famous Gate in the
+<span id="fn_152"></span>[160:2](npj28.htm#fr_154.md) Famous Gate in the
 palace of the T'ang Emperors.
 
-<span id="fn_153"></span>[160:3](npj28.htm#fr_155) These lines are from
+<span id="fn_153"></span>[160:3](npj28.htm#fr_155.md) These lines are from
 a poem by Yasutane, d. 997 A. n. (Chamberlain attributes them to Po
 Chü-i)
 
-<span id="fn_154"></span>[161:1](npj28.htm#fr_156) Here the Boy Dancer
+<span id="fn_154"></span>[161:1](npj28.htm#fr_156.md) Here the Boy Dancer
 begins to dance the Dream-dance.
 
-<span id="fn_155"></span>[161:2](npj28.htm#fr_157) On the third day of
+<span id="fn_155"></span>[161:2](npj28.htm#fr_157.md) On the third day of
 the third mouth people floated cups in the stream. Each person as the
 cup passed in front of him, had to compose a poem and drink the contents
 of the cup.
 
-<span id="fn_156"></span>[161:3](npj28.htm#fr_158) These words also
+<span id="fn_156"></span>[161:3](npj28.htm#fr_158.md) These words also
 describe the dancer's movements.
 
-<span id="fn_157"></span>[161:4](npj28.htm#fr_159) The Moon.
+<span id="fn_157"></span>[161:4](npj28.htm#fr_159.md) The Moon.
 
-<span id="fn_158"></span>[161:5](npj28.htm#fr_160) See Waley, *Japanese
+<span id="fn_158"></span>[161:5](npj28.htm#fr_160.md) See Waley, *Japanese
 Poetry*, p. 77.
 
-<span id="fn_159"></span>[164:1](npj28.htm#fr_161) I. e. Buddha, the Law
+<span id="fn_159"></span>[164:1](npj28.htm#fr_161.md) I. e. Buddha, the Law
 and the Priesthood. A pious exclamation of astonishment like the Spanish
 "Jesù, Maria. José!"
 
 ------------------------------------------------------------------------
 
-[Next: The Hōka Priests](npj29)
+[Next: The Hōka Priests](npj29.md)

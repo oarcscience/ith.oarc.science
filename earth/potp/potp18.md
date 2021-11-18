@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp17)  [Next](potp19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp17)  [Next](potp19.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ Eskimo summer tents, and gathered near them a large number
 
 [![Sled found by Greely during one of his trips farthest
 north.](tn/20700.jpg)  
-Click to enlarge](img/20700.jpg)  
+Click to enlarge](img/20700.jpg.md)  
 Sled found by Greely during one of his trips farthest north.  
 
 of relics. The circles varied from five to fifteen feet in diameter.
@@ -149,4 +149,4 @@ unknown to our Danish Eskimo."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. What Produces Colored Snow in the Arctic?](potp19)
+[Next: Chapter XV. What Produces Colored Snow in the Arctic?](potp19.md)

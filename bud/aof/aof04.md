@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](aof03)  [Next](aof05) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](aof03)  [Next](aof05.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ this Faith of the New Buddhism.
 
 ------------------------------------------------------------------------
 
-[Next: 3: Expositions of the Mahayana Faith](aof05)
+[Next: 3: Expositions of the Mahayana Faith](aof05.md)

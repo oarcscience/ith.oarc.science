@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog26)  [Next](hlog28) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog26)  [Next](hlog28.md) 
 
 ------------------------------------------------------------------------
 
@@ -336,4 +336,4 @@ The dragons, or mo-os, were the most terrible kupuas in the islands.
 
 ------------------------------------------------------------------------
 
-[Next: The Dragon Ghost-Gods](hlog28)
+[Next: The Dragon Ghost-Gods](hlog28.md)

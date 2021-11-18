@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth148)  [Next](toth150) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth148)  [Next](toth150.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 36.--WATERMELON-RIND WOMAN ([HÖLÖ'KOP](errata.htm#0) WUHTI).
+## 36.--WATERMELON-RIND WOMAN ([HÖLÖ'KOP](errata.htm#0) WUHTI.md).
 
 Pretty maiden refuses all offers of marriage. Grandmother of young man
 called Piwítamni, because he patches her wrappers and blankets, tells
@@ -64,4 +64,4 @@ him. She is no longer called Watermelon-Rind Woman.
 ------------------------------------------------------------------------
 
 [Next: 37.--The Youth And Maiden Who Played Hide And Seek For Their
-Life.](toth150)
+Life.](toth150.md)

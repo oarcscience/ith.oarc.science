@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa06)  [Next](psa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa06)  [Next](psa08.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ to Gokool.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](psa08)
+[Next: Chapter VII](psa08.md)

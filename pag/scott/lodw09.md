@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](lodw08)  [Next](lodw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](lodw08)  [Next](lodw10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ the Maiden of the Covine, and was usually, like Tam o'Shanter's Nannie,
 a girl of personal attractions, whom Satan placed beside himself, and
 treated with particular attention, which greatly provoked the spite of
 the old bags, who felt themselves insulted by the preference. <span
-id="fr_64"></span>[65](#fn_64) When assembled, they dug up graves, and
+id="fr_64"></span>[65](#fn_64.md) When assembled, they dug up graves, and
 possessed themselves of the carcases (of unchristened infants in
 particular), whose joints and members they used in their magic unguents
 and salves. When they desired to secure for their own use the crop of
@@ -209,7 +209,7 @@ was called Ower-the-Dike-with-it.
       Isobel took upon herself, and imputed to her sisters, as already
 mentioned, the death of sundry persons shot with elf-arrows, because
 they had omitted to bless themselves as the aerial flight of the hags
-swept past them. <span id="fr_65"></span>[66](#fn_65) She had herself
+swept past them. <span id="fr_65"></span>[66](#fn_65.md) She had herself
 the temerity to shoot at the Laird of Park as he was riding through a
 ford, but missed him through the influence of the running stream,
 perhaps, for which she thanks God in her confession; and adds, that at
@@ -220,11 +220,11 @@ following lines, placing at the same time in the fire figures composed
 of clay mixed with paste, to represent the object: --  
   
 " We put this water amongst this meal,  
-For long dwining  <span id="fr_66"></span>[67](#fn_66) and ill heal;  
+For long dwining  <span id="fr_66"></span>[67](#fn_66.md) and ill heal;  
 We put it in into the fire,  
-To burn them up stook and stour <span id="fr_67"></span>[68](#fn_67).  
+To burn them up stook and stour <span id="fr_67"></span>[68](#fn_67.md).  
 That they be burned with our will,  
-Like any stikkle  <span id="fr_68"></span>[69](#fn_68) in a kiln."  
+Like any stikkle  <span id="fr_68"></span>[69](#fn_68.md) in a kiln."  
 
      Such was the singular confession of Isobel Gowdie, made
 voluntarily, it would seem, and without compulsion of any kind,
@@ -311,7 +311,7 @@ therefore she desired to die. And really ministers are oft times
 indiscreet in their zeal to have poor creatures to confess in this; and
 I recommend to judges that the wisest ministers should be sent to them,
 and those who are sent should be cautious in this particular." <span
-id="fr_69"></span>[70](#fn_69)
+id="fr_69"></span>[70](#fn_69.md)
 
       As a corollary to this affecting story, I may quote the case of a
 woman in Lauder jail, who lay there with other females on a charge of
@@ -354,7 +354,7 @@ themselves from tears ; so it may be to all a demonstration of Satan's
 subtlety, whose design is stilt to destroy all, partly by tempting many
 to presumption, and some others to despair. These things to be of truth,
 are attested by an eye and ear witness who is yet alive, a faithful
-minister of the gospel." <span id="fr_70"></span>[71](#fn_70) It is
+minister of the gospel." <span id="fr_70"></span>[71](#fn_70.md) It is
 strange the inference does not seem to have been deduced, that as one
 woman out of very despair renounced her own life, the same might have
 been the case in many other instances, wherein the confessions of the
@@ -395,7 +395,7 @@ has recorded that in 1678 the Privy Council received the complaint of a
 poor woman who had been abused by a country magistrate and one of those
 impostors called prickers. They expressed high displeasure against the
 presumption of the parties complained against, and treated the pricker
-as a common cheat. <span id="fr_71"></span>[72](#fn_71)
+as a common cheat. <span id="fr_71"></span>[72](#fn_71.md)
 
       From this and other instances it appears that the predominance of
 the superstition of witchcraft, and the proneness to persecute those
@@ -467,7 +467,7 @@ Mr. George Sinclair tell the rest of e tale.
 
       "After this he grew very famous through the country for is
 charming and curing of diseases in men and beasts, and turned a vagrant
-fellow like a jockie, <span id="fr_72"></span>[73](#fn_72) gaining meal,
+fellow like a jockie, <span id="fr_72"></span>[73](#fn_72.md) gaining meal,
 and flesh, and money by his charms, such was the ignorance of any at
 that time. Whatever house he came to none durst refuse Hatteraick an
 alms, rather for his ill than his good. One day he came to the yait
@@ -502,7 +502,7 @@ brother to make a disposition to her of all his patrimony, to the
 defrauding of his younger brother, George. After that this warlock had
 abused the country for a long time, he was at last apprehended at
 Dunbar, and brought into Edinburgh, and burnt upon the
-Castle-hill." <span id="fr_73"></span>[74](#fn_73)
+Castle-hill." <span id="fr_73"></span>[74](#fn_73.md)
 
       Now, if Hatteraick was really put to death on such evidence, it is
 worth while to consider what was its real amount. A hot-tempered
@@ -570,7 +570,7 @@ feelings of those whom they accounted the enemies of God and man. We
 have already seen that even the conviction that a woman was innocent of
 the crime of witchcraft did not induce a worthy clergyman to use any
 effort to withdraw her from the stake; and in the same collection <span
-id="fr_74"></span>[75](#fn_74) there occur some observable passages of
+id="fr_74"></span>[75](#fn_74.md) there occur some observable passages of
 God's providence to a godly minister in giving him " full clearness"
 concerning Bessie Grahame, suspected of witchcraft. The whole detail is
 a curious illustration of the spirit of credulity which well-disposed
@@ -707,7 +707,7 @@ tract, without adding to them the story of a philtre being applied to a
 cow's hair instead of that of the young woman for whom it was designed,
 and telling how the animal came lowing after the sorcerer to his
 schoolroom door, like a second Pasiphaë, the original of which charm
-occurs in the story of Apuleius. <span id="fr_75"></span>[76](#fn_75)
+occurs in the story of Apuleius. <span id="fr_75"></span>[76](#fn_75.md)
 
       Besides these persons, there was one Barbara Napier, alias
 Douglas, a person of some rank; Geillis Duncan, a very active witch; and
@@ -777,7 +777,7 @@ honoured, generally acting as clerk or recorder, as above mentioned.
 took great delight to be present at the examinations of the accused. He
 sent for Geillis Duncan, and caused her to play before him the same tune
 to which Satan and his companions led the brawl in North Berwick
-churchyard. <span id="fr_76"></span>[77](#fn_76) His ears were gratified
+churchyard. <span id="fr_76"></span>[77](#fn_76.md) His ears were gratified
 in another way, for at this meeting it was said the witches demanded of
 the devil why he did bear such enmity against the king ? who returned
 the flattering answer that the king was the greatest enemy whom he had
@@ -818,7 +818,7 @@ assize and convicted, albeit they persevered constant in their denial to
 the end, yet they were burned quick \[alive\], after such a cruel manner
 that some of them died in despair, renouncing and blaspheming \[God\];
 and others, half burned, brak out of the fire,  <span
-id="fr_77"></span>[78](#fn_77) and were cast quick in it again, till
+id="fr_77"></span>[78](#fn_77.md) and were cast quick in it again, till
 they were burned to the death."
 
       This singular document shows that even in the reign of James, so
@@ -848,7 +848,7 @@ generally speaking, are in detail as monotonous as they are melancholy,
 it may amuse the reader to confine the narrative to a single trial,
 having in the course of it some peculiar and romantic events. It is the
 tale of a sailor's wife, more tragic in its event than that of the
-chestnut-muncher in Macbeth. <span id="fr_78"></span>[79](#fn_78)
+chestnut-muncher in Macbeth. <span id="fr_78"></span>[79](#fn_78.md)
 
       Margaret Barclay, wife of Archibald Dein, burgess of Irvine, had
 been slandered by her sister-in-law, Janet Lyal, the spouse of John
@@ -901,7 +901,7 @@ two women, in making clay figures; one of the figures was made handsome,
 with fair hair, supposed o represent Provost Tran. They then proceeded
 to mould a figure of a ship in clay, and during this labour the devil
 appeared to the company in the shape of a handsome black lap-dog, such
-as ladies use to keep. <span id="fr_79"></span>[80](#fn_79) He added
+as ladies use to keep. <span id="fr_79"></span>[80](#fn_79.md) He added
 that the whole party left the house together, and went into an empty
 waste-house nearer the seaport, which house he pointed out to the city
 magistrates. From this house they went to the sea-side, followed by the
@@ -1246,7 +1246,7 @@ records of criminal jurisprudence.
 late celebrated John Clerk of Eldin, had the honour to be amongst the
 first to decline acting as a commissioner on the trial of a witch, to
 which he was appointed so early as 1678, <span
-id="fr_80"></span>[81](lodw10.htm#fn_80) alleging, drily, that he did
+id="fr_80"></span>[81](lodw10.htm#fn_80.md) alleging, drily, that he did
 not feel himself warlock (that is, conjurer) sufficient to be a judge
 upon such an inquisition. Allan Ramsay, his friend, and who must be
 supposed to speak the sense of his many respectable patrons, had
@@ -1290,7 +1290,7 @@ goodness and esteem than most of their calumniators were defamed for
 witches, and which was occasioned mostly by the forwardness and absurd
 credulity of diverse otherwise worthy ministers of the gospel, and some
 topping professors in and about the city of Glasgow."  <span
-id="fr_81"></span>[82](lodw10.htm#fn_81)
+id="fr_81"></span>[82](lodw10.htm#fn_81.md)
 
       Those who doubted of the sense of the law or reasonableness of the
 practice in such cases, began to take courage and state their objections
@@ -1338,7 +1338,7 @@ to a report, that he, the Sheriff-depute, intended to judge in the case
 himself; " a thing of too great difficulty to be tried without very
 deliberate advice, and beyond the jurisdiction of an inferior court."
 The Sheriff-depute sends, with his apology, the *precognition* <span
-id="fr_82"></span>[83](lodw10.htm#fn_82) of the affair, which is one of
+id="fr_82"></span>[83](lodw10.htm#fn_82.md) of the affair, which is one of
 the most nonsensical in this nonsensical department of the law. A
 certain carpenter, named William Montgomery, was so infested with cats,
 which, as his servant-maid reported, " spoke among themselves," that he
@@ -1389,7 +1389,7 @@ explosions of popular enmity against people suspected of such a crime,
 of which some instances could be produced. The remains of the
 superstition sometimes occur; there can be no doubt that the vulgar are
 still addicted to the custom of scoring above the breath <span
-id="fr_83"></span>[84](lodw10.htm#fn_83) (as it is termed), and other
+id="fr_83"></span>[84](lodw10.htm#fn_83) (as it is termed.md), and other
 counter-spells, evincing that the belief in witchcraft is only asleep,
 and might in remote comers be again awakened to deeds of blood. An
 instance or two may be quoted chiefly as facts known to the author
@@ -1518,13 +1518,13 @@ again the old ideas of sorcery.
 
 ### Footnotes
 
-<span id="fn_61"></span>[62](lodw08.htm#fr_61) omitted.
+<span id="fn_61"></span>[62](lodw08.htm#fr_61.md) omitted.
 
-<span id="fn_62"></span>[63](lodw08.htm#fr_62) omitted.
+<span id="fn_62"></span>[63](lodw08.htm#fr_62.md) omitted.
 
-<span id="fn_63"></span>[64](lodw08.htm#fr_63) omitted.
+<span id="fn_63"></span>[64](lodw08.htm#fr_63.md) omitted.
 
-<span id="fn_64"></span>[65](lodw09.htm#fr_64)
+<span id="fn_64"></span>[65](lodw09.htm#fr_64.md)
 
   \* This word Covine seems to signify a subdivision or squad. The tree
 near the front of an ancient castle was called the *Covine tree*,
@@ -1535,39 +1535,39 @@ And king of the Covine tree;
 He's well loo'd in the western waters,  
 But best of his ain minnie."  
 
-<span id="fn_65"></span>[66](lodw09.htm#fr_65) See p.136
+<span id="fn_65"></span>[66](lodw09.htm#fr_65.md) See p.136
 
-<span id="fn_66"></span>[67](lodw09.htm#fr_66) Pining
+<span id="fn_66"></span>[67](lodw09.htm#fr_66.md) Pining
 
-<span id="fn_67"></span>[68](lodw09.htm#fr_67) We should read perhaps,
+<span id="fn_67"></span>[68](lodw09.htm#fr_67.md) We should read perhaps,
 "limb and lire."
 
-<span id="fn_68"></span>[69](lodw09.htm#fr_68) Stubble.
+<span id="fn_68"></span>[69](lodw09.htm#fr_68.md) Stubble.
 
-<span id="fn_69"></span>[70](lodw09.htm#fr_69) Mackenzie's "Criminal
+<span id="fn_69"></span>[70](lodw09.htm#fr_69.md) Mackenzie's "Criminal
 Law," p. 45
 
-<span id="fn_70"></span>[71](lodw09.htm#fr_70) Sinclair's "Satan's
+<span id="fn_70"></span>[71](lodw09.htm#fr_70.md) Sinclair's "Satan's
 Invisible World Discovered," p. 43.
 
-<span id="fn_71"></span>[72](lodw09.htm#fr_71) Fountainhall's "
+<span id="fn_71"></span>[72](lodw09.htm#fr_71.md) Fountainhall's "
 Decisions," vol. i. p. 15.
 
-<span id="fn_72"></span>[73](lodw09.htm#fr_72) Or Scottish wandering
+<span id="fn_72"></span>[73](lodw09.htm#fr_72.md) Or Scottish wandering
 beggar.
 
-<span id="fn_73"></span>[74](lodw09.htm#fr_73) Sinclair's " Satan's
+<span id="fn_73"></span>[74](lodw09.htm#fr_73.md) Sinclair's " Satan's
 Invisible World Discovered," p. 98.
 
-<span id="fn_74"></span>[75](lodw09.htm#fr_74) "Satan's invisible
+<span id="fn_74"></span>[75](lodw09.htm#fr_74.md) "Satan's invisible
 World," by Mr. George Sinclair. The author was Professor of Moral
 Philosophy in the University of Glasgow, and afterwards minister of
 Eastwood, in Renfrewshire.
 
-<span id="fn_75"></span>[76](lodw09.htm#fr_75) "Lucii Apuleii
+<span id="fn_75"></span>[76](lodw09.htm#fr_75.md) "Lucii Apuleii
 Metamorphoses," lib. iii.
 
-<span id="fn_76"></span>[77](lodw09.htm#fr_76)
+<span id="fn_76"></span>[77](lodw09.htm#fr_76.md)
 
 \* The music of this witch tune is unhappily lost. But that of another,
 believed to have been popular on such occasions, is preserved.  
@@ -1576,21 +1576,21 @@ believed to have been popular on such occasions, is preserved.
 And she will grow mickle,  
 And she will do good."  
 
-<span id="fn_77"></span>[78](lodw09.htm#fr_77) I am obliged to the
+<span id="fn_77"></span>[78](lodw09.htm#fr_77.md) I am obliged to the
 kindness of Mr. Pitcairn for this singular extract. The southern reader
 must be informed that the jurisdiction or regality of Broughton embraced
 Holyrood, Canongate, Leith, and other suburban parts of Edinburgh, and
 bore the same relation to that city as the borough of Southwark to
 London.
 
-<span id="fn_78"></span>[79](lodw09.htm#fr_78) A copy of the record of
+<span id="fn_78"></span>[79](lodw09.htm#fr_78.md) A copy of the record of
 the trial, which took place in Ayrshire, was sent to me by a friend who
 withheld his name, so that I can only thank him in this general
 acknowledgment.
 
-<span id="fn_79"></span>[80](lodw09.htm#fr_79) This may remind the
+<span id="fn_79"></span>[80](lodw09.htm#fr_79.md) This may remind the
 reader of Cazotte's "Diable Amoureux."
 
 ------------------------------------------------------------------------
 
-[Next: Letter 10](lodw10)
+[Next: Letter 10](lodw10.md)

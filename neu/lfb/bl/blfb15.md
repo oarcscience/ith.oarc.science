@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb14)  [Next](blfb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb14)  [Next](blfb16.md) 
 
 </div>
 
@@ -210,6 +210,6 @@ his diversion.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Felicia and the Pot of Pinks](blfb16)
+[Next: Felicia and the Pot of Pinks](blfb16.md)
 
 </div>

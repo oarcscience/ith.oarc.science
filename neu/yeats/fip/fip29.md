@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip28)  [Next](fip30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip28)  [Next](fip30.md) 
 
 ------------------------------------------------------------------------
 
@@ -282,4 +282,4 @@ down in the same spot again, I know that."
 
 ------------------------------------------------------------------------
 
-[Next: The Kildare Pooka, by Patrick Kennedy](fip30)
+[Next: The Kildare Pooka, by Patrick Kennedy](fip30.md)

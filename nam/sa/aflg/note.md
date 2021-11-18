@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -24,9 +24,9 @@ other links, you will be able to use your browser's back button to
 return directly to the section that you were reading (and not to the
 beginning of the file) after following internal links. Citations of
 William Henry Brett's [Legends and Myths of the Aboriginal Indians of
-British Guiana](../lmbg/index) have also been linked, as these books
+British Guiana](../lmbg/index.md) have also been linked, as these books
 were posted to sacred-texts simultaneously.
 
 ------------------------------------------------------------------------
 
-[Index](index)
+[Index](index.md)

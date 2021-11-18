@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp54)  [Next](dmp56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp54)  [Next](dmp56.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ therewith, and lie with her.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXIV](dmp56)
+[Next: Verso Col. XXIV](dmp56.md)

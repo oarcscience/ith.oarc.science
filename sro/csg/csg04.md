@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg03)  [Next](csg05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg03)  [Next](csg05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ THE following extracts are translated from the very rare and valuable
 an intimate friend of the Queen, and who died in 1822.
 
 I have not been able to find a single copy of this rare work <span
-id="fr_32"></span>[1](#fn_32) in any library in England, or on the
+id="fr_32"></span>[1](#fn_32.md) in any library in England, or on the
 Continent, to which I have so far had access. But fortunately a copy
 exists at Odessa in the library of Madame Fadéef, the aunt and friend of
 Madame H. P. Blavatsky, and this may lend it an additional interest in
@@ -63,7 +63,7 @@ that St. Germain died in 1784; some few writers say he only retired from
 
 public work. These varying opinions will be treated later.
 
-Says Madame d’Adhémar <span id="fr_33"></span>[1](#fn_33):--
+Says Madame d’Adhémar <span id="fr_33"></span>[1](#fn_33.md):--
 
 "Since my pen is again writing the name of the Comte de St. Germain, I
 will say something about him. He appeared (that is the word) at the
@@ -210,7 +210,7 @@ Maurepas was the author of it, and he pretended that I had taken away
 the original manuscript from him to send it to the haughty Sultana. His
 exile followed the publication of these wretched verses, and from that
 time he included me in his schemes of vengeance. He will never forgive
-me. [Nevertheless](errata.htm#1), Madame
+me. [Nevertheless](errata.htm#1.md), Madame
 
 <span id="page_60">p. 60</span>
 
@@ -599,7 +599,7 @@ ranked among those who cause the ruin of empires.'
 
 "M. de Saint-Germain, having spoken thus without taking breath, turned
 towards the door again, shut it, and disappeared" <span
-id="fr_34"></span>[1](#fn_34).
+id="fr_34"></span>[1](#fn_34.md).
 
 \*  
 \*   \*
@@ -610,7 +610,7 @@ All efforts to find the Count failed!
 
 ### Footnotes
 
-<span id="fn_32"></span>[53:1](csg04.htm#fr_32) Since this was written I
+<span id="fn_32"></span>[53:1](csg04.htm#fr_32.md) Since this was written I
 have been able to get this work; and the present Comtésse d’Adhémar
 informed me that there are documents concerning the Comte de St. Germain
 in their family papers.
@@ -620,12 +620,12 @@ d’Adhémar in 1884. This was one of the numerous aristocratic families
 which were ruined in the Revolution. The present Comtesse d’Adhémar is
 an American; the documents are in America.
 
-<span id="fn_33"></span>[55:1](csg04.htm#fr_33) ADHÉMAR, *op. cit.*,
+<span id="fn_33"></span>[55:1](csg04.htm#fr_33.md) ADHÉMAR, *op. cit.*,
 vol. I, p. 294.
 
-<span id="fn_34"></span>[73:1](csg04.htm#fr_34) ADHÉMAR, *Op. cit.*,
+<span id="fn_34"></span>[73:1](csg04.htm#fr_34.md) ADHÉMAR, *Op. cit.*,
 ii., pp. 52-72.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Tragical Prophecies](csg05)
+[Next: Chapter IV. Tragical Prophecies](csg05.md)

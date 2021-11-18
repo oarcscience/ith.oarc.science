@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow06)  [Next](vow08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow06)  [Next](vow08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -42,7 +42,7 @@ greater
 
 <span id="page_24">p. 24</span>
 
-king than the rest. <span id="fr_24"></span>[1](#fn_24) The sun, nearer
+king than the rest. <span id="fr_24"></span>[1](#fn_24.md) The sun, nearer
 to God than is the moon, is greater and stronger than she, and to him
 she is subject as much by rank as by power. The king is the last of the
 Gods and the first of men. So long as he sojourns upon earth, his
@@ -57,7 +57,7 @@ infringement of the interior and divine law, receive in royalty a
 penance whereby the suffering and shame of incarnation are mitigated.
 The condition of these in taking a body resembles not that of others;
 they are as blessed as when they were free. <span
-id="fr_25"></span>[2](#fn_25)
+id="fr_25"></span>[2](#fn_25.md)
 
 As to the various characters of these kings, the variety is not in the
 souls, for all are royal, but it is due to the nature of the angels and
@@ -122,7 +122,7 @@ cloudy weather, that which lies immediately before her steps.
 
 And Horos said:--For what reason, my mother, are the minds of men who
 are not of our holy country less open than the minds of those who belong
-to it? And Isis replied <span id="fr_26"></span>[1](#fn_26):--The earth
+to it? And Isis replied <span id="fr_26"></span>[1](#fn_26.md):--The earth
 is set in the midst of the universe like a man lying on his back and
 gazing into heaven, and the various regions of earth correspond to the
 different members of the man. The earth turns her gaze towards heaven as
@@ -215,20 +215,20 @@ herself is tossed about like a man in the midst of tempestuous waves.
 
 ### Footnotes
 
-<span id="fn_24"></span>[24:1](vow07.htm#fr_24) This must not be
+<span id="fn_24"></span>[24:1](vow07.htm#fr_24.md) This must not be
 understood in a vulgar sense of mere earthly monarchy, but of souls
 whose destiny it is to be chiefs and leaders among men, whether
 spiritually, intellectually, or politically.
 
 A.K.
 
-<span id="fn_25"></span>[24:2](vow07.htm#fr_25) This passage perhaps
+<span id="fn_25"></span>[24:2](vow07.htm#fr_25.md) This passage perhaps
 refers, though obscurely, to Avatars of souls who have already attained
 beatitude, though not apotheosis.
 
 A.K.
 
-<span id="fn_26"></span>[26:1](vow07.htm#fr_26) I believe the whole of
+<span id="fn_26"></span>[26:1](vow07.htm#fr_26.md) I believe the whole of
 the ensuing passage to be highly metaphorical, and to relate to the
 occult distinctions and divisions of the seven great races of mankind.
 It is not difficult to interpret the allusions.
@@ -237,4 +237,4 @@ A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](vow08)
+[Next: Part III](vow08.md)

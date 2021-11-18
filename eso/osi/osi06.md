@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi05)  [Next](osi07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi05)  [Next](osi07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -377,7 +377,7 @@ superior spirit which watches over the earth.
 In honor of his tutelary star and of the spirit which animates it, he
 then turns around twelve times, twenty-four times, or if his strength
 enables him twenty-four times, forty-eight times. <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 ![](img/3stars.jpg)
 
@@ -390,7 +390,7 @@ it the following invocation:
 
 *Invocation*.
 
-O Tree Assouata! <span id="fr_5"></span>[2](#fn_5) you are the king of
+O Tree Assouata! <span id="fr_5"></span>[2](#fn_5.md) you are the king of
 the forests and the image and symbol of the gods. Your roots represent
 Brahma, your trunk Vischnou, and your branches Siva; thus you represent
 the Trimourti. All those who honor you in this world by performing the
@@ -680,12 +680,12 @@ spirits will watch over his repose. (*Agrouchada-Parikchai*.)
 
 ### Footnotes
 
-<span id="fn_4"></span>[53:1](osi06.htm#fr_4) This is undoubtedly the
+<span id="fn_4"></span>[53:1](osi06.htm#fr_4.md) This is undoubtedly the
 origin of the Bonzes and whirling dervishes.
 
-<span id="fn_5"></span>[53:2](osi06.htm#fr_5) All Brahmins plant them
+<span id="fn_5"></span>[53:2](osi06.htm#fr_5.md) All Brahmins plant them
 about their temples and dwelling-houses.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The First Degree of Initiation.—(Continued.)](osi07)
+[Next: Chapter VI. The First Degree of Initiation.—(Continued.)](osi07.md)

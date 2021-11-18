@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe02)  [Next](poe04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe02)  [Next](poe04.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ Tragedy as better than in actual life.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Manner of Imitation](poe04)
+[Next: III. The Manner of Imitation](poe04.md)

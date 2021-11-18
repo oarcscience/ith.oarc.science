@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr04)  [Next](sdr06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr04)  [Next](sdr06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ and occult philosophies in all lands. In ancient Greece, in
 
 <span id="img_fig05"></span> <span align="CENTER"> [![Figure 5. Symbol
 of the Universal Androgyne](tn/fig05.jpg)  
-Click to enlarge](img/fig05.jpg)  
+Click to enlarge](img/fig05.jpg.md)  
 Figure 5. Symbol of the Universal Androgyne  
 </span>
 
@@ -80,7 +80,7 @@ distinctive symbolic name and emblem of the Order.
 
 <span id="img_fig06"></span> <span align="CENTER"> [![Figure 6. Symbol
 of the Phallic Cross.](tn/fig06.jpg)  
-Click to enlarge](img/fig06.jpg)  
+Click to enlarge](img/fig06.jpg.md)  
 Figure 6. Symbol of the Phallic Cross.  
 </span>
 
@@ -102,7 +102,7 @@ and the Circle as the letter "O".
 
 <span id="img_fig07"></span> <span align="CENTER"> [![Figure 7. Symbol
 of the Swastica.](tn/fig07.jpg)  
-Click to enlarge](img/fig07.jpg)  
+Click to enlarge](img/fig07.jpg.md)  
 Figure 7. Symbol of the Swastica.  
 </span>
 
@@ -157,7 +157,7 @@ science. But to that one who has mastered the ancient wisdom-teachings,
 and who has likewise become acquainted with the best of modern advanced
 scientific thought, there will seem nothing strange about these
 statements. The ancient teachings taught positively that there was
-present and active Sex in all [Manifested](errata.htm#3) Creation; and
+present and active Sex in all [Manifested](errata.htm#3.md) Creation; and
 Modern Science is beginning to teach that the evidence of the presence
 of Sex in every Thing is conclusive.
 
@@ -293,4 +293,4 @@ becomes the Two, and from the Two proceed the Many.
 
 ------------------------------------------------------------------------
 
-[Next: Part V. The One And The Many](sdr06)
+[Next: Part V. The One And The Many](sdr06.md)

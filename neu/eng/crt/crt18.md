@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt17)  [Next](crt19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt17)  [Next](crt19.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_124">p. 124</span>
 
-<span id="img_12400"></span> ![The Lady Belle Isoult](img/12400.jpg)  
+<span id="img_12400"></span> ![The Lady Belle Isoult](img/12400.jpg.md)  
 The Lady Belle Isoult
 
 <span id="page_125">p. 125</span>
@@ -364,4 +364,4 @@ with Sir Tristram thereat, and with Sir Palamydes thereat.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fourth](crt19)
+[Next: Chapter Fourth](crt19.md)

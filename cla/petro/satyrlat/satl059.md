@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat10.htm#LIX)  [Previous](satl058) 
-[Next](satl060) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat10.htm#LIX)  [Previous](satl058.md) 
+[Next](satl060.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ collegit mirantibusque vitulum partitus est.
 
 ------------------------------------------------------------------------
 
-[Next: LX](satl060)
+[Next: LX](satl060.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar012) [Next](gbar014)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar012) [Next](gbar014.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ in sacrifice, praising and blessing God, who is glorious for ever.
 
 ------------------------------------------------------------------------
 
-[Next](gbar014)
+[Next](gbar014.md)
 
  
 

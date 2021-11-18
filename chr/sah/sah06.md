@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah05)  [Next](sah07) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah05)  [Next](sah07.md) 
 
 ------------------------------------------------------------------------
 
@@ -2163,4 +2163,4 @@ saying that is written, Death is swallowed up in victory" (St. Paul).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII - Physiology](sah07) 
+[Next: Chapter VII - Physiology](sah07.md) 

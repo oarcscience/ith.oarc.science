@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9IO12/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9IO12/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9IO12/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](fsar00)    [Page
-Index](pageidx)    [Text \[Zipped\]](fsar.txt.gz)
+[Contents](#contents)    [Start Reading](fsar00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](fsar.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -50,25 +50,25 @@ highly reliable. These cases are still unexplained.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](fsar00)  
-[Author's Note](fsar01)  
-[Chapter I](fsar02)  
-[Chapter II](fsar03)  
-[Chapter III](fsar04)  
-[Chapter IV](fsar05)  
-[Chapter V](fsar06)  
-[Chapter VI](fsar07)  
-[Chapter VII](fsar08)  
-[Chapter VIII](fsar09)  
-[Chapter IX](fsar10)  
-[Chapter X](fsar11)  
-[Chapter XI](fsar12)  
-[Chapter XII](fsar13)  
-[Chapter XIII](fsar14)  
-[Chapter XIV](fsar15)  
-[Chapter XV](fsar16)  
-[Chapter XVI](fsar17)  
-[Chapter XVII](fsar18)  
-[Chapter XVIII](fsar19)  
-[Chapter XIX](fsar20)  
-[Chapter XX](fsar21)  
+<span id="contents"></span> [Title Page](fsar00.md)  
+[Author's Note](fsar01.md)  
+[Chapter I](fsar02.md)  
+[Chapter II](fsar03.md)  
+[Chapter III](fsar04.md)  
+[Chapter IV](fsar05.md)  
+[Chapter V](fsar06.md)  
+[Chapter VI](fsar07.md)  
+[Chapter VII](fsar08.md)  
+[Chapter VIII](fsar09.md)  
+[Chapter IX](fsar10.md)  
+[Chapter X](fsar11.md)  
+[Chapter XI](fsar12.md)  
+[Chapter XII](fsar13.md)  
+[Chapter XIII](fsar14.md)  
+[Chapter XIV](fsar15.md)  
+[Chapter XV](fsar16.md)  
+[Chapter XVI](fsar17.md)  
+[Chapter XVII](fsar18.md)  
+[Chapter XVIII](fsar19.md)  
+[Chapter XIX](fsar20.md)  
+[Chapter XX](fsar21.md)  

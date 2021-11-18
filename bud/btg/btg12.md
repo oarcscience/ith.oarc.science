@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg11)  [Next](btg13) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg11)  [Next](btg13.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ the truth will enlighten him."
 
 ------------------------------------------------------------------------
 
-[Next: Enlightenment](btg13)
+[Next: Enlightenment](btg13.md)

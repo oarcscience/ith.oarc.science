@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -28,12 +28,12 @@ at Intangible Textual Heritage
 ### VERSE 22
 
 NUMBERS of women with large eyes, like those of the antelope, <span
-id="fr_160"></span>[1](#fn_160) impatient for his love, ever follow him.
+id="fr_160"></span>[1](#fn_160.md) impatient for his love, ever follow him.
 Even the King becomes subject to his control. He becomes like unto
-Kuvera <span id="fr_161"></span>[2](#fn_161) himself. An enemy fears him
+Kuvera <span id="fr_161"></span>[2](#fn_161.md) himself. An enemy fears him
 as if he were a prison. Living in continuous bliss <span
-id="fr_162"></span>[3](#fn_162) the devotee is liberated when yet
-living, and is never again reborn. <span id="fr_163"></span>[4](#fn_163)
+id="fr_162"></span>[3](#fn_162.md) the devotee is liberated when yet
+living, and is never again reborn. <span id="fr_163"></span>[4](#fn_163.md)
 
 Here ends the Hymn by Śrī Mahākāla, entitled *Karpūrādistotra*.
 
@@ -63,12 +63,12 @@ entitled Vimalānandadāyini*.
 OBEISANCE
 
 To Kālī the spouse of Kāla, who destroys all sin and is Kāla. <span
-id="fr_164"></span>[1](#fn_164) She who is Tārā the Saviour the Supreme
+id="fr_164"></span>[1](#fn_164.md) She who is Tārā the Saviour the Supreme
 Brahmavidyā who is adored by the Lotus-born Deva. <span
-id="fr_165"></span>[2](#fn_165)
+id="fr_165"></span>[2](#fn_165.md)
 
 She who is Śrīvidyā, desirous of the welfare of Sādhakas, on the path of
-Liberation, to whom Hari and Hara <span id="fr_166"></span>[3](#fn_166)
+Liberation, to whom Hari and Hara <span id="fr_166"></span>[3](#fn_166.md)
 make obeisance.
 
 May that Devī the Mother, who appears in the form of all things, bring
@@ -102,17 +102,17 @@ OṀ, TAT SAT, OṀ
 
 ### Footnotes
 
-<span id="fn_160"></span>[94:1](htk26.htm#fr_160) *Kuraṅga*, which has
+<span id="fn_160"></span>[94:1](htk26.htm#fr_160.md) *Kuraṅga*, which has
 beautiful large eyes.
 
-<span id="fn_161"></span>[94:2](htk26.htm#fr_161) Lord of wealth.
+<span id="fn_161"></span>[94:2](htk26.htm#fr_161.md) Lord of wealth.
 
-<span id="fn_162"></span>[94:3](htk26.htm#fr_162) <span id="page_95">p.
+<span id="fn_162"></span>[94:3](htk26.htm#fr_162.md) <span id="page_95">p.
 95</span> *Kelikalayā*, by the various entertaining acts
 (*parihāsādinā*) of which there are sixty-four. The meaning here is that
 there is continuous bliss.
 
-<span id="fn_163"></span>[94:4](htk26.htm#fr_163) *Kelihalayā ciraṁ
+<span id="fn_163"></span>[94:4](htk26.htm#fr_163.md) *Kelihalayā ciraṁ
 jivanmuktah sa bhavati ca bhakhtah pratijanuh*, The translation in the
 text reads *pratijanuh* to mean as K. B. says, *Janmanivritti* or
 cessation of birth. But *Pratijanuh* may also mean 'birth after birth.'
@@ -124,9 +124,9 @@ Experience of the Devatā and is reborn life after life as Her devotee.
 According to the translation adopted complete liberation follows and in
 the other case some lower though happy state.
 
-<span id="fn_164"></span>[95:1](htk26.htm#fr_164) The first Kāla is
+<span id="fn_164"></span>[95:1](htk26.htm#fr_164.md) The first Kāla is
 Mahākāla and the second is the produced Kāla.
 
-<span id="fn_165"></span>[95:2](htk26.htm#fr_165) Brahmā.
+<span id="fn_165"></span>[95:2](htk26.htm#fr_165.md) Brahmā.
 
-<span id="fn_166"></span>[95:3](htk26.htm#fr_166) Viṣṇu and Rudra.
+<span id="fn_166"></span>[95:3](htk26.htm#fr_166.md) Viṣṇu and Rudra.

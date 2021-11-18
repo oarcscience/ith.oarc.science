@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce11)  [Next](jce13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce11)  [Next](jce13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -141,7 +141,7 @@ been here before me?"
 "Yes, Herr Liedenbrock; the labours of MM. Olafsen and Povelsen, pursued
 by order of the king, the researches of Troïl the scientific mission of
 MM. Gaimard and Robert on the French corvette *La Recherche*,  <span
-id="fr_4"></span>[5](#fn_4) and lately the observations of scientific
+id="fr_4"></span>[5](#fn_4.md) and lately the observations of scientific
 men who came in the *Reine Hortense*, have added materially to our
 knowledge of Iceland. But I assure you there is plenty left."
 
@@ -236,10 +236,10 @@ day a guide would be waiting upon him.
 
 ### Footnotes
 
-<span id="fn_4"></span>[5](jce12.htm#fr_4) *Recherche* was sent out in
+<span id="fn_4"></span>[5](jce12.htm#fr_4.md) *Recherche* was sent out in
 1835 by Admiral Duperré to learn the fate of the lost expedition of M.
 de Blosseville in the *Lilloise* which has never been heard of.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. A Guide Found to the Centre of the Earth](jce13)
+[Next: Chapter XI. A Guide Found to the Centre of the Earth](jce13.md)

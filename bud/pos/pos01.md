@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos00)  [Next](pos02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos00)  [Next](pos02.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ DEDICATED
 
 ------------------------------------------------------------------------
 
-[Next: Contents](pos02)
+[Next: Contents](pos02.md)

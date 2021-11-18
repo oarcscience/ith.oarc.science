@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Previous](phs07) 
-[Next](phs09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Previous](phs07.md) 
+[Next](phs09.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ triumph of the understanding in man; it is the definite result of all
 the travail of thought and all the aspirations of Faith.
 
 In the principle is Reason, and Reason is in God, and God is
-Reason. <span id="fr_46"></span>[2](#fn_46) All is made by it, and
+Reason. <span id="fr_46"></span>[2](#fn_46.md) All is made by it, and
 without
 
 <span id="page_58">p. 58</span>
@@ -27,7 +27,7 @@ These words are the oracle of Reason itself, and they occur, as all
 know, at the commencement of the Gospel of St. John.
 
 Without this Reason nothing exists; everything has its reason for
-existing, even unreason, <span id="fr_47"></span>[1](#fn_47) which
+existing, even unreason, <span id="fr_47"></span>[1](#fn_47.md) which
 serves as a background to reason as the shadow does to the light.
 
 <span id="page_59">p. 59</span>
@@ -37,7 +37,7 @@ knowledge; for the reason, or to speak more correctly the reasoning of
 each one, is not absolute wisdom.
 
 When I reason ill, I become unreasonable <span
-id="fr_48"></span>[1](#fn_48); it is not then reason that I should
+id="fr_48"></span>[1](#fn_48.md); it is not then reason that I should
 distrust, but my own judgment.
 
 I should turn then willingly to those who know more than I do, but even
@@ -72,7 +72,7 @@ beforehand, of being able to say to him, "I agree with you, there *is*
 no *such* God"; but that God is certainly not my God. If he says to me:
 "Define your God," I should reply, "I will take good care to do nothing
 of the kind, for a God defined is a God dethroned." <span
-id="fr_49"></span>[1](#fn_49) Every positive definition is deniable, the
+id="fr_49"></span>[1](#fn_49.md) Every positive definition is deniable, the
 Infinite is the undefined. "I believe only in matter,"
 
 <span id="page_61">p. 61</span>
@@ -91,7 +91,7 @@ to *believe* in God, I should *know* what he is, but not being able to
 *know* this, I simply believe that he exists, *because it is impossible
 for me not to conceive a directive thought, in this eternally living
 substance that peoples infinite space*. <span
-id="fr_50"></span>[1](#fn_50)
+id="fr_50"></span>[1](#fn_50.md)
 
 <span id="page_62">p. 62</span>
 
@@ -136,7 +136,7 @@ One must e'en restrain fools
 
 <span id="page_64">p. 64</span>
 
-through their folly <span id="fr_51"></span>[1](#fn_51), since they are
+through their folly <span id="fr_51"></span>[1](#fn_51.md), since they are
 not *willing* to be wise.
 
 We teach morality to children by telling them stories, and the nurses
@@ -252,7 +252,7 @@ state should give way to religious reasons. The
 
 \[paragraph continues\] Church is the prototype of the Fatherland; it is
 the Universal Fatherland, and the unity of the Christian world <span
-id="fr_52"></span>[1](#fn_52) is something greater than the unity of
+id="fr_52"></span>[1](#fn_52.md) is something greater than the unity of
 Germany or Italy.
 
 Moral force is superior to physical force, and spiritual power gets the
@@ -271,7 +271,7 @@ irreligion; that liberty of conscience ought not to be permitted; if he
 *believes* himself obliged to turn society upside down; if he protests,
 in a word, against each and everything that appears to him contrary to
 dogma, why, setting aside the justice of the question, the Pope is a
-thousand times right! <span id="fr_53"></span>[2](#fn_53)
+thousand times right! <span id="fr_53"></span>[2](#fn_53.md)
 
 <span id="page_69">p. 69</span>
 
@@ -303,7 +303,7 @@ false. We are at one of such epochs in which prejudices ought
 no longer to be tenderly handled. Nevertheless, we must not be harsh
 with the people who hold them. Let us show, softly and patiently, the
 truth, and the falsehoods will fall of their own accord. <span
-id="fr_54"></span>[1](#fn_54)
+id="fr_54"></span>[1](#fn_54.md)
 
 Prejudices are the bad habits of the mind; they spring from education,
 from ignorance or intellectual sloth, from interests of position,
@@ -328,7 +328,7 @@ almost always displeases women.
 <span id="page_71">p. 71</span>
 
 She is a power, but it is an occult power; she should govern without
-showing her hand. <span id="fr_55"></span>[1](#fn_55)
+showing her hand. <span id="fr_55"></span>[1](#fn_55.md)
 
 It requires a very powerful and firm mind to devote oneself without
 danger to the occult sciences, and above all to the experiences which
@@ -339,7 +339,7 @@ their moments of aberration. Pythagoras remembered to have been
 Euphorbius. Apollonius of Tyana caused an old beggar to be stoned to
 stay the Plague. Paracelsus believed that he had a familiar spirit
 hidden in the pommel of his long sword. <span
-id="fr_56"></span>[2](#fn_56) Cardan allowed himself to die of hunger to
+id="fr_56"></span>[2](#fn_56.md) Cardan allowed himself to die of hunger to
 justify astrology. Duchenteau, who reconstructed and completed the magic
 calendar of Tycho-Brahe, also died miserably in attempting an
 extravagant experiment. Cagliostro compromised himself with a set of
@@ -353,13 +353,13 @@ like Moza by lightning.
 \[paragraph continues\] I *do not speak of the fear, the envy, the hate
 of the vulgar which everywhere pursue the Initiate, who does not know
 how to conceal his knowledge. True sages escape from this danger*. <span
-id="fr_57"></span>[1](#fn_57) The Abbé Trithemus lived and died
+id="fr_57"></span>[1](#fn_57.md) The Abbé Trithemus lived and died
 peacefully while Agrippa, his imprudent disciple, closed prematurely in
 a hospital a life of disquietude and torment. Agrippa, before his death,
 blasphemed against the Science, as Brutus at Philippi had blasphemed
 against Virtue, but despite the despair of Brutus, Virtue is more than
 an empty name, and despite the discouragement of Agrippa, Science <span
-id="fr_58"></span>[2](#fn_58) is a Truth.
+id="fr_58"></span>[2](#fn_58.md) is a Truth.
 
 At the present day, occult sciences are scarcely studied except by
 presumptuous ignoramuses or eccentric savants; women furnish their
@@ -381,7 +381,7 @@ who by a single act of his Will could entail on others sickness or
 death, would be a public Pest, of whom Society ought to rid itself; to
 win love, save by natural means, is to commit a sort of violation; to
 evoke shades is to call down upon oneself the Eternal Shadows*. <span
-id="fr_59"></span>[1](#fn_59) To deal with demons one must be a demon.
+id="fr_59"></span>[1](#fn_59.md) To deal with demons one must be a demon.
 The Devil is the spirit of Evil, the fatal current of misdirected and
 evil wills. To enter this current is to plunge into the abyss. Moreover
 the Spirit of Evil only replies to rash and unhealthy curiosity. Visions
@@ -389,7 +389,7 @@ are the phenomena of drunkenness or delirium. To see spirits? What a
 chimera! It is as though one professed to touch music and bottle
 thought. If the spirits of the dead have gone out from amongst us, it is
 because they could no longer live here. How do you suppose they are to
-come back? <span id="fr_60"></span>[2](#fn_60)
+come back? <span id="fr_60"></span>[2](#fn_60.md)
 
 But then it will be said, what can be the use of magic? It enables men
 to understand better the Truth, and desire Good in a healthier and more
@@ -406,13 +406,13 @@ the Necromancers and Enchanters, but that of the initiated and the Magi.
 
 *True magic is a scientific force placed at the service of Reason. False
 magic is a blind force added to the blunders and disorders of
-Folly*. <span id="fr_61"></span>[1](#fn_61)
+Folly*. <span id="fr_61"></span>[1](#fn_61.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_46"></span>[57:2](phs08.htm#fr_46) Our version reads In the
+<span id="fn_46"></span>[57:2](phs08.htm#fr_46.md) Our version reads In the
 beginning was the Word," etc., but neither reading adequately conveys
 the occult sense of the passage. The *arche* is the primordial evolute,
 which the ONE unconsciously emanates, the beginning of all things. The
@@ -422,7 +422,7 @@ cause of their complex inter- relations, the Word, <span id="page_58">p.
 regulates, and *is*, at the same time, the mainspring of the
 universe.--*Trans*.
 
-<span id="fn_47"></span>[58:1](phs08.htm#fr_47) This is an instance of
+<span id="fn_47"></span>[58:1](phs08.htm#fr_47.md) This is an instance of
 Éliphas Lévi's persistent habit of at one time using words in their
 occult senses, and at another, perhaps in the same sentence, in their
 popular senses, so as to lead the unwary to the conclusion that he is
@@ -450,15 +450,15 @@ frequently himself lose touch with the Higher Doctrine. If these
 weaknesses of our author be kept in mind, many apparent difficulties in
 all his works will disappear.--*Trans*.
 
-<span id="fn_48"></span>[59:1](phs08.htm#fr_48) The original is, *Quand
+<span id="fn_48"></span>[59:1](phs08.htm#fr_48.md) The original is, *Quand
 je raisonne mal, je n'ai point raison*, a play on words which can only
 be approximated in English as above.
 
-<span id="fn_49"></span>[60:1](phs08.htm#fr_49) The original play upon
+<span id="fn_49"></span>[60:1](phs08.htm#fr_49.md) The original play upon
 the words, "*un Dieu défini est un Dieu fini*" cannot be exactly
 reproduced in English.--*Trans*.
 
-<span id="fn_50"></span>[61:1](phs08.htm#fr_50) Within that Substance,
+<span id="fn_50"></span>[61:1](phs08.htm#fr_50.md) Within that Substance,
 within every atom of it, but not outside of it. There is no extra-cosmic
 Deity. *All* matter is God, and God is Matter, or there is no God,--E.
 O.
@@ -489,15 +489,15 @@ believe in that, of which no knowledge exists, and of which no evidence
 can be obtained, but this seems to me wholly different from denying its
 existence, which involves the assumption of omniscience. --*Trans*.
 
-<span id="fn_51"></span>[64:1](phs08.htm#fr_51) And I must say he puts
+<span id="fn_51"></span>[64:1](phs08.htm#fr_51.md) And I must say he puts
 this precept into practice admirably; while laughing at the fools with
 one corner of the mouth, he strengthens their folly with the other.--E.
 O.
 
-<span id="fn_52"></span>[68:1](phs08.htm#fr_52) But when or where has
+<span id="fn_52"></span>[68:1](phs08.htm#fr_52.md) But when or where has
 such Unity ever existed?--*Trans*.
 
-<span id="fn_53"></span>[68:2](phs08.htm#fr_53) it is scarcely necessary
+<span id="fn_53"></span>[68:2](phs08.htm#fr_53.md) it is scarcely necessary
 to tell most readers that all this is elaborate chaff. Still our
 author's <span id="page_70">p. 70</span> persistent habit of saying,
 apparently seriously, what he does not believe and what he does not mean
@@ -505,36 +505,36 @@ any one but "*les fous*" to believe, is likely too often to become
 seriously misleading to this latter large and respectable
 class.--*Trans*.
 
-<span id="fn_54"></span>[70:1](phs08.htm#fr_54) This is true, but only
+<span id="fn_54"></span>[70:1](phs08.htm#fr_54.md) This is true, but only
 half the Truth. Per contra remember that the longer you let the weeds
 stand, the wider will their seeds be disseminated, and the larger and
 stubborner the growth you will have to deal with.--*Trans*.
 
-<span id="fn_55"></span>[71:1](phs08.htm#fr_55) He seems to draw but a
+<span id="fn_55"></span>[71:1](phs08.htm#fr_55.md) He seems to draw but a
 feeble line between "the Occult" and "the Jesuitical".--E. O.
 
 Doubtless because he himself, like many other occultists, was avowedly
 somewhat Jesuitical in his dealings with non-initiates.--*Trans*.
 
-<span id="fn_56"></span>[71:2](phs08.htm#fr_56) Éliphas, as usual, is
+<span id="fn_56"></span>[71:2](phs08.htm#fr_56.md) Éliphas, as usual, is
 here poking fun at his *Public*. He is perfectly aware that all these
 pretended traits of madness have an occult signification.--*Trans*.
 
-<span id="fn_57"></span>[72:1](phs08.htm#fr_57) I am glad he admits the
+<span id="fn_57"></span>[72:1](phs08.htm#fr_57.md) I am glad he admits the
 principle.--E. O.
 
 The principle "*de dissimuler*"? I fear it is a principle all are only
 too ready to admit.--*Trans*.
 
-<span id="fn_58"></span>[72:2](phs08.htm#fr_58) He means here of course
+<span id="fn_58"></span>[72:2](phs08.htm#fr_58.md) He means here of course
 *Occult* Science.--*Trans*.
 
-<span id="fn_59"></span>[73:1](phs08.htm#fr_59) Very right.--E. O.
+<span id="fn_59"></span>[73:1](phs08.htm#fr_59.md) Very right.--E. O.
 
-<span id="fn_60"></span>[73:2](phs08.htm#fr_60) All this is true, in one
+<span id="fn_60"></span>[73:2](phs08.htm#fr_60.md) All this is true, in one
 sense, but, as E. L. well knew, it is not the whole truth.--*Trans*.
 
-<span id="fn_61"></span>[74:1](phs08.htm#fr_61) Darkness, *bad* or evil,
+<span id="fn_61"></span>[74:1](phs08.htm#fr_61.md) Darkness, *bad* or evil,
 as given in the Codex Nazaræus, are merely a gradual waning of the
 Pleroma or akasic light. (*Caligo ubi exstiterat etiam exstitisse
 decrementum et detrimentum*.) The Sorcerer uses the grosser, the
@@ -548,4 +548,4 @@ Godhead bodily."--(Coloss., 2, 9.) E. O.
 
 ------------------------------------------------------------------------
 
-[Next: Paradox VI.--The Imagination Realises What It Invents](phs09)
+[Next: Paradox VI.--The Imagination Realises What It Invents](phs09.md)

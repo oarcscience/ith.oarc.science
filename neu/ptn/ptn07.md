@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ptn06)  [Next](ptn08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn06)  [Next](ptn08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
 Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ stilted Latin, which barely conceals the popular songs and legends from
 which the historian drew his materials, we are enabled to form a perfect
 conception of the creed of the heathen Norsemen. We are enabled to
 trace, as has been traced by the same hand in another place, <span
-id="fr_38"></span>[1](#fn_38) the natural and rational development of
+id="fr_38"></span>[1](#fn_38.md) the natural and rational development of
 that creed from a simple worship of nature and her powers, first to
 monotheism, and then to a polytheistic system. The tertiary system of
 Polytheism is the soil out of which the mythology of the Eddas sprang,
@@ -638,7 +638,7 @@ penitential epistles of medieval divines, and in some few
 <span id="page_ciii">p. ciii</span>
 
 places and churches, even in England, such rites are still yearly
-celebrated. <span id="fr_39"></span>[1](#fn_39)
+celebrated. <span id="fr_39"></span>[1](#fn_39.md)
 
 So, too, again with the ancient gods. They were cast down from honour,
 but not from power. They lost their genial kindly influence as the
@@ -684,7 +684,7 @@ intensely sensuous eye of man in that early time connected with all the
 phenomena of nature, the people were led to believe in a ghastly grisly
 band of ghosts, who followed an infernal warrior or huntsman in hideous
 tumult through the midnight air. No doubt, as Grimm rightly
-remarks, <span id="fr_40"></span>[1](#fn_40) the heathen had fondly
+remarks, <span id="fr_40"></span>[1](#fn_40.md) the heathen had fondly
 fancied that the spirits of those who had gone to Odin followed him in
 his triumphant progress either visibly or invisibly; that they rode with
 him in the whirlwind, just as they followed him to battle, and feasted
@@ -735,7 +735,7 @@ Walk round about an oak, with great ragg'd horns;
 And there he blasts the trees, and takes the cattle,  
 And makes milch-kine yield blood, and shakes a chain  
 In a most hideous and dreadful manner." <span
-id="fr_41"></span>[1](#fn_41)
+id="fr_41"></span>[1](#fn_41.md)
 
 And even yet, in various parts of England, the story of some great man,
 generally a member of one of the county families, who drives about the
@@ -801,23 +801,23 @@ in a true sense, she seemed destined to hold for ever.
 
 ### Footnotes
 
-<span id="fn_37"></span>[lxxxi:1](ptn06.htm#fr_37) "The Deeds of Bogda
+<span id="fn_37"></span>[lxxxi:1](ptn06.htm#fr_37.md) "The Deeds of Bogda
 Gesser Cham," by I. J. Schmidt, Petersburg and Leipzig, 1839.
 
-<span id="fn_38"></span>[lxxxii:1](ptn07.htm#fr_38) *Oxford Essays* for
+<span id="fn_38"></span>[lxxxii:1](ptn07.htm#fr_38.md) *Oxford Essays* for
 1858: "The Norsemen in Iceland."
 
-<span id="fn_39"></span>[ciii:1](ptn07.htm#fr_39) See *Anecd. and
+<span id="fn_39"></span>[ciii:1](ptn07.htm#fr_39.md) See *Anecd. and
 Trad.*, Camd. Soc. 1839, pp. 92 fol. See also the passages from
 Anglo-Saxon laws against "well-waking," which Grimm has collected, *D.
 M.*, p. 550.
 
-<span id="fn_40"></span>[civ:1](ptn07.htm#fr_40) *D. M.*, p. 900.
+<span id="fn_40"></span>[civ:1](ptn07.htm#fr_40.md) *D. M.*, p. 900.
 Wütendes heer.
 
-<span id="fn_41"></span>[cvi:1](ptn07.htm#fr_41) Merry Wives of Windsor,
+<span id="fn_41"></span>[cvi:1](ptn07.htm#fr_41.md) Merry Wives of Windsor,
 Act iv. sc. 4.
 
 ------------------------------------------------------------------------
 
-[Next: Norse Popular Tales](ptn08)
+[Next: Norse Popular Tales](ptn08.md)

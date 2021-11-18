@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](xft14)  [Next](xft16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](xft14)  [Next](xft16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kaffir (Xhosa) Folk-Lore*, by George McCall Theal, \[1886\], at
 Intangible Textual Heritage
 
@@ -84,6 +84,6 @@ when they saw this, that they killed him and made their feast of him.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The Cannibal Mother And Her Children](xft16)
+[Next: The Story Of The Cannibal Mother And Her Children](xft16.md)
 
 </div>

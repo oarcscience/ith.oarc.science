@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy18)  [Next](phy20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy18)  [Next](phy20.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![A](img/10001.jpg) |
+| ![A](img/10001.jpg.md) |
 
 DESIGN for the church was settled, which those who are acquainted with
 the primitive barn-like simplicity of the ecclesiastical architecture of
@@ -254,4 +254,4 @@ remained for some centuries, going gradually to ruin and decay.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](phy20)
+[Next: Chapter VI](phy20.md)

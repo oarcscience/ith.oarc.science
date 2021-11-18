@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe156)  [Next](prwe158) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe156)  [Next](prwe158.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ strangers of taste to pay them a visit."
 
 ------------------------------------------------------------------------
 
-[Next: Arthur Legends](prwe158)
+[Next: Arthur Legends](prwe158.md)

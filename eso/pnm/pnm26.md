@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm25)  [Next](pnm27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm25)  [Next](pnm27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ things of the one to another, desiring such-and-such a thing if it be
 absent, and to move towards it unless it be hindered; and to acquiesce
 in it when it is obtained, shunning the contrary and dreading the
 approach of it, and not resting in or being contented with it.
-Heraclitus, <span id="fr_15"></span>[\*](#fn_15) therefore, being guided
+Heraclitus, <span id="fr_15"></span>[\*](#fn_15.md) therefore, being guided
 by this opinion, professed that all things were made by enmity and
 friendship.
 
@@ -132,7 +132,7 @@ boars, with ivy; hinds, with the herb called cinnara.
 
 ### Footnotes
 
-<span id="fn_15"></span>[79:\*](pnm26.htm#fr_15) Sometimes given as
+<span id="fn_15"></span>[79:\*](pnm26.htm#fr_15.md) Sometimes given as
 Heracleitus, a Greek philosopher who lived about 500 B. C. He was known
 as the "weeping philosopher," so impressed was he by the weaknesses of
 mankind. Only fragments of his philosophical work, "Peri Physeos" (On
@@ -145,4 +145,4 @@ three hundred years earlier.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Of the Inclinations of Enmities](pnm27)
+[Next: Chapter XVIII. Of the Inclinations of Enmities](pnm27.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc14)  [Next](motc16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc14)  [Next](motc16.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ What else could I have done, mother? I got up
 <span id="img_13200"></span>
 
 [![](tn/13200.jpg)  
-Click to enlarge](img/13200.jpg)
+Click to enlarge](img/13200.jpg.md)
 
 <span id="page_133">p. 133</span>
 
@@ -161,4 +161,4 @@ proverb says, burst the rope by pulling it too taut.
 
 ------------------------------------------------------------------------
 
-[Next: Abandoned](motc16)
+[Next: Abandoned](motc16.md)

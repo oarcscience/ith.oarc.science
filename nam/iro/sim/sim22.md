@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim21)  [Next](sim23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim21)  [Next](sim23.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ said to be in the mountains now. Whirlwind is still living.
 
 ------------------------------------------------------------------------
 
-[Next: Owl and his Jealous Wife](sim23)
+[Next: Owl and his Jealous Wife](sim23.md)

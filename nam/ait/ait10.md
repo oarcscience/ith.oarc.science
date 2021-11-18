@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait09)  [Next](ait11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait09)  [Next](ait11.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ id="page_65">p. 65</span>
 
 |                     |
 |---------------------|
-| ![W](img/06500.jpg) |
+| ![W](img/06500.jpg.md) |
 
 HITE HAWK was known as the laziest boy in the tribe. When his father set
 his nets, even on the coldest days in winter, he had to do it alone; for
@@ -240,4 +240,4 @@ as "The Strong Man."
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Feather](ait11)
+[Next: The Magic Feather](ait11.md)

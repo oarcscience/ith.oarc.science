@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb37)  [Next](gnfb39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb37)  [Next](gnfb39.md) 
 
 </div>
 
@@ -176,6 +176,6 @@ Grimm.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of a Clever Tailor](gnfb39)
+[Next: The Story of a Clever Tailor](gnfb39.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Next](wsgr01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Next](wsgr01.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,13 +16,13 @@ STORM GOD RIDES
 <span id="img_cover"></span>
 
 [![Cover and spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover and spine  
 
 <span id="img_front"></span>
 
 [![Frontispiece](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 
 # WHEN THE
@@ -56,13 +56,13 @@ Frontispiece
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 Scanned at Intangible Textual Heritage, January, 2007. Proofed and
@@ -74,4 +74,4 @@ this notice is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](wsgr01)
+[Next: Foreword](wsgr01.md)

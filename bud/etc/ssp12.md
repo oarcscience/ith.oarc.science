@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [Buddhist Articles](index)
+[Intangible Textual Heritage](../../index) [Buddhist Articles](index.md)
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ ignorance), and demolished the threshold (of lust, anger, and
 ignorance), they are moving like unto young elephants, being destitute
 of desire, free from passions, pure, endued with eyes (the five
 eyes<span id="page_290_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_290_note_1)), and orderly in their
+class="small">1</span></sup>](#page_290_note_1).md), and orderly in their
 conduct.
 
    Then the other deva said in the presence of Buddha the following
@@ -131,17 +131,17 @@ the multitude of devas is present: do ye know them? and the priests
 hearing the directions of Buddha, instantly obeyed the same. They became
 endowed with the faculty of perceiving the Amanussas<span
 id="page_291_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_291_note_1) (invisible or spiritual
+class="small">1</span></sup>](#page_291_note_1.md) (invisible or spiritual
 beings). Some of them saw hundreds of invisible beings, some saw
 thousands, and others seventy thousand. Some perceived hundred thousand
 invisible beings; some, beyond number, every quarter being filled with
 them. Cakkhumâ<span id="page_291_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_291_note_2) Buddha knowing the whole
+class="small">2</span></sup>](#page_291_note_2.md) Buddha knowing the whole
 distinctly and well, subsequently called his disciples devotedly
 attached to his religion and said thus: Bhikkhus, shall I announce to
 you in due order any devas? Know ye them, they being present: seven
 thousands of Yakkhas<span id="page_291_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_291_note_3) born in Kapilavatthu
+class="small">3</span></sup>](#page_291_note_3.md) born in Kapilavatthu
 <span id="page_292">p. 292</span> city, who are possessed of the faculty
 of iddhi, of power, of personal attractions, and of a retinue of
 attendants, have come rejoicing to the assembly of priests in the
@@ -164,21 +164,21 @@ priests in the forest.
    The king Dhatara.t.tha regent of the East; he rules the inhabitants
 of the East; he is the chief of the Gandhabbas<span
 id="page_292_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_292_note_1); he is attended by a
+class="small">1</span></sup>](#page_292_note_1.md); he is attended by a
 retinue of attendants. His many sons also of vast power and of the name
 of Inda, endowed with the faculty of iddhi, etc.
 
    The king Virû.lha regent of the South; he rules the inhahitants of
 the South; he is the chief of the Kumbha.n.das<span
 id="page_292_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_292_note_2), and he is attended by a
+class="small">2</span></sup>](#page_292_note_2.md), and he is attended by a
 retinue of attendants. His many sons also of vast power and of the name
 of Inda, endowed with the faculty of iddhi, etc.
 
    The king Virupakkha the regent of the West; he rules the inhahitants
 of the West; he is the chief of the Nâgas<span
 id="page_292_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_292_note_3), and he is attended by a
+class="small">3</span></sup>](#page_292_note_3.md), and he is attended by a
 retinue of attendants. His many sons also of <span id="page_293">p.
 293</span> vast power and of the name of Inda, endowed with the faculty
 of iddhi, etc.
@@ -186,7 +186,7 @@ of iddhi, etc.
    The king Kuvera the regent of the North; he rules the inhabitants of
 the North; he is the chief of the Yakkhas<span
 id="page_293_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_293_note_1), and he is attended by a
+class="small">1</span></sup>](#page_293_note_1.md), and he is attended by a
 retinue of attendants. His many sons also of vast power and of the name
 of Inda, endowed with the faculty of iddhi, etc.
 
@@ -306,7 +306,7 @@ rejoicing with the arahats of the religion of Buddha," departed.
 
 ------------------------------------------------------------------------
 
-[Buddhist Articles](index)
+[Buddhist Articles](index.md)
 
 ------------------------------------------------------------------------
 
@@ -314,37 +314,37 @@ rejoicing with the arahats of the religion of Buddha," departed.
 
 <span id="footnotes_page_290">p. 290</span>
 
-<span id="page_290_note_1"></span>[1](#page_290_fr_1) The five eyes of
+<span id="page_290_note_1"></span>[1](#page_290_fr_1.md) The five eyes of
 Buddha are, his divine eye, his human eye, his mental eye, his
 omniscient eye, the eye of a Buddha i.e. knowledgc of Nibbâna.
 
 <span id="footnotes_page_291">p. 291</span>
 
-<span id="page_291_note_1"></span>[1](#page_291_fr_1) Literally inhuman
+<span id="page_291_note_1"></span>[1](#page_291_fr_1.md) Literally inhuman
 beings.
 
-<span id="page_291_note_2"></span>[2](#page_291_fr_2) An epithet applied
+<span id="page_291_note_2"></span>[2](#page_291_fr_2.md) An epithet applied
 to Buddha in allusion to his five faculties of perception explained
 above. Literally one endowed with eyes.
 
-<span id="page_291_note_3"></span>[3](#page_291_fr_3) Yakkha means deva
+<span id="page_291_note_3"></span>[3](#page_291_fr_3.md) Yakkha means deva
 or god throughout this Sutta.
 
 <span id="footnotes_page_292">p. 292</span>
 
-<span id="page_292_note_1"></span>[1](#page_292_fr_1) The heavenly
+<span id="page_292_note_1"></span>[1](#page_292_fr_1.md) The heavenly
 musicians.
 
-<span id="page_292_note_2"></span>[2](#page_292_fr_2) A class of
+<span id="page_292_note_2"></span>[2](#page_292_fr_2.md) A class of
 demi-gods.
 
-<span id="page_292_note_3"></span>[3](#page_292_fr_3) Cobra capello with
+<span id="page_292_note_3"></span>[3](#page_292_fr_3.md) Cobra capello with
 superhuman powers who can assume the human form and intermarry with the
 human race.
 
 <span id="footnotes_page_293">p. 293</span>
 
-<span id="page_293_note_1"></span>[1](#page_293_fr_1) Commonly called in
+<span id="page_293_note_1"></span>[1](#page_293_fr_1.md) Commonly called in
 English devils, but answering to the demonia of the Greeks.
 
  

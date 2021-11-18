@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
-[Popular Tales of the West Highlands Index](../ptwh)  
-[Vol. I](../pt1/index)    [Vol. II](../pt2/index)    [Vol.
-III](../pt3/index)    **Vol IV.**
+[Popular Tales of the West Highlands Index](../ptwh.md)  
+[Vol. I](../pt1/index)    [Vol. II](../pt2/index.md)    [Vol.
+III](../pt3/index.md)    **Vol IV.**
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ III](../pt3/index)    **Vol IV.**
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pt400)
+[Contents](#contents)    [Start Reading](pt400.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ A large part of this volume is focused on a passionate (and sometimes
 cranky) defense of the Scottish Ossian myth-cycle; if not Macpherson and
 his best-selling poem *per se*. (An electronic text of Macpherson's
 Ossian is also available at Intangible Textual Heritage [at this
-location](../../ossian/index).) An undertone of the backlash to
+location](../../ossian/index)..md) An undertone of the backlash to
 Macpherson's Ossian was a mean-spirited attack on Scottish culture in
 general; Campbell uses a counterattack on this as the keystone of the
 entire work. After an extensive review of the literature, Campbell
@@ -63,45 +63,45 @@ through the minutiae of the Ossian controversy well worth one's time.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pt400)  
-[Contents](pt401)  
-[List of Illustrations](pt402)  
-[Postscript](pt403)  
+<span id="contents"></span> [Title Page](pt400.md)  
+[Contents](pt401.md)  
+[List of Illustrations](pt402.md)  
+[Postscript](pt403.md)  
 <span id="section_000"></span>
 
 ### I. Ossian.
 
-[Points for Argument, Statement of the Case, Current Opinions](pt404)  
-[Authorities](pt405)  
-[Ossian. Published Evidence](pt406)  
-[Popular Ballads](pt407)  
-[Current Gaelic Traditions--Ossian and Ballads](pt408)  
-[Gaelic Ossian--Internal Evidence, etc.](pt409)  
-[On the Gaelic Poetry of Known and Unknown Bards](pt410)  
-[Proverbs](pt411)  
-[Family History](pt412)  
+[Points for Argument, Statement of the Case, Current Opinions](pt404.md)  
+[Authorities](pt405.md)  
+[Ossian. Published Evidence](pt406.md)  
+[Popular Ballads](pt407.md)  
+[Current Gaelic Traditions--Ossian and Ballads](pt408.md)  
+[Gaelic Ossian--Internal Evidence, etc.](pt409.md)  
+[On the Gaelic Poetry of Known and Unknown Bards](pt410.md)  
+[Proverbs](pt411.md)  
+[Family History](pt412.md)  
 <span id="section_001"></span>
 
 ### II. Traditions
 
-[British Traditions](pt413)  
-[Welsh Stories](pt414)  
+[British Traditions](pt413.md)  
+[Welsh Stories](pt414.md)  
 <span id="section_002"></span>
 
 ### III. Mythology
 
-[Origin of Such Stories](pt415)  
-[Mythology--Aryan Theory](pt416)  
-[West Highland Stories](pt417)  
+[Origin of Such Stories](pt415.md)  
+[Mythology--Aryan Theory](pt416.md)  
+[West Highland Stories](pt417.md)  
 
  
 
-[A Plea for Gaelic](pt418)  
-[Dress](pt419)  
-[Celtic Art](pt420)  
-[Music](pt421)  
-[Conclusion](pt422)  
-[Ossianic Ballads--References to Books, etc.](pt423)  
-[List of Stories: English](pt424)  
-[List of Stories: Gaelic](pt425)  
-[Fairy Eggs](pt426)  
+[A Plea for Gaelic](pt418.md)  
+[Dress](pt419.md)  
+[Celtic Art](pt420.md)  
+[Music](pt421.md)  
+[Conclusion](pt422.md)  
+[Ossianic Ballads--References to Books, etc.](pt423.md)  
+[List of Stories: English](pt424.md)  
+[List of Stories: Gaelic](pt425.md)  
+[Fairy Eggs](pt426.md)  

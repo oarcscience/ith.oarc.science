@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic32)  [Next](tic34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic32)  [Next](tic34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ the mansions by your own power, however great it may appear to you,
 unless the Lord of the castle Himself admits you. Therefore I advise you
 to use no violence if you meet with any obstacle, for that would
 displease Him so much that He would never give you admission to them. He
-dearly loves humility: <span id="fr_455"></span>[1](#fn_455) if you
+dearly loves humility: <span id="fr_455"></span>[1](#fn_455.md) if you
 think yourselves unworthy to enter the third mansion, He will grant you
 all the sooner the favour of entering the fifth. Then, if you serve Him
 well there and often repair to it, He will draw you into the mansion
@@ -81,9 +81,9 @@ A.D. MCMXXI
 
 ### Footnotes
 
-<span id="fn_455"></span>[298:1](tic33.htm#fr_455) *Way of Perf*. ch.
+<span id="fn_455"></span>[298:1](tic33.htm#fr_455.md) *Way of Perf*. ch.
 xvi. 1.
 
 ------------------------------------------------------------------------
 
-[Next: Index](tic34)
+[Next: Index](tic34.md)

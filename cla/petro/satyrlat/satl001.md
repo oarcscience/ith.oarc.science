@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat02.htm#I)  [Next](satl002) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat02.htm#I)  [Next](satl002.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ dicta factaque quasi papavere et sesamo sparsa.
 
 ------------------------------------------------------------------------
 
-[Next: II](satl002)
+[Next: II](satl002.md)

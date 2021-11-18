@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits002) [Next](bits004)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits002) [Next](bits004.md)
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ he discovered, not only the perfection which is called alms, but also
 all the others that go to make a Buddha. And in fulfilling them he
 reached his Vessantara existence.<span
 id="page_33_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_33_note_1) In so doing, all the
+class="small">1</span></sup>](#page_33_note_1.md) In so doing, all the
 blessings celebrated in the following stanzas as belonging to Future
 Buddhas who make the earnest wish were attained by him:--
 
@@ -150,7 +150,7 @@ as when he was born as the Brahman Akitti, the Brahman Samkha, king
 Dhanañjaya, Mahâ-Sudassana, Mahâ-Govinda, king Nimi, prince Canda,
 Visayha the treasurer, king Sivi, and king Vessantara. But the acme was
 reached when as the Wise Hare<span id="page_35_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_35_note_1) he said,--
+class="small">1</span></sup>](#page_35_note_1.md) he said,--
 
 <table data-align="center" data-cellpadding="5">
 <colgroup>
@@ -434,7 +434,7 @@ Distant Epoch.
 
 ------------------------------------------------------------------------
 
-[Next: § 4. The Birth of a Buddha](bits004)
+[Next: § 4. The Birth of a Buddha](bits004.md)
 
 ------------------------------------------------------------------------
 
@@ -442,24 +442,24 @@ Distant Epoch.
 
 <span id="footnotes_page_33">p. 33</span>
 
-<span id="page_33_note_1"></span>[1](#page_33_fr_1) The Vessantara
+<span id="page_33_note_1"></span>[1](#page_33_fr_1.md) The Vessantara
 Birth-Story is the last of the five hundred and fifty, and is not yet
 published.
 
 <span id="footnotes_page_34">p. 34</span>
 
-<span id="page_34_note_1"></span>[1](#page_34_fr_1) I despair of giving
+<span id="page_34_note_1"></span>[1](#page_34_fr_1.md) I despair of giving
 in metre more than the general drift of these two lines. See Hardy,
 "Manual of Budhism {sic}," chap. ii. § 11.
 
-<span id="page_34_note_2"></span>[2](#page_34_fr_2) See [page
-289](bits059.htm#page_289).
+<span id="page_34_note_2"></span>[2](#page_34_fr_2.md) See [page
+289](bits059.htm#page_289.md).
 
 <span id="footnotes_page_35">p. 35</span>
 
-<span id="page_35_note_1"></span>[1](#page_35_fr_1) The story of the
+<span id="page_35_note_1"></span>[1](#page_35_fr_1.md) The story of the
 Future Buddha's existence as the Wise Hare is given further on under the
-caption, ["The Hare-Mark in the Moon."](bits056) It is the only one of
+caption, ["The Hare-Mark in the Moon."](bits056.md) It is the only one of
 the numerous Birth-Stories above-mentioned that is to be found in this
 book. The stanza quoted, however, is not taken from that account, but
 from another work called the Cariyâ-Pitaka, which is wholly in poetry.

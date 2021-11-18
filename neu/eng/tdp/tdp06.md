@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](tdp05)  [Next](tdp07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](tdp05)  [Next](tdp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -196,4 +196,4 @@ meeting with some mishap.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI: The Ungrateful Farmer.--The Pixy
-Threshers.--Rewarding a Pixy](tdp07)
+Threshers.--Rewarding a Pixy](tdp07.md)

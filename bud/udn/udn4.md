@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn3) [Next](udn5)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn3) [Next](udn5.md)
 
 ------------------------------------------------------------------------
 
@@ -495,7 +495,7 @@ of rags taken from a dust-heap, possessor of the three garments of a
 monk, content with little, satisfied, solitary, living apart <span
 id="page_59">p. 59</span> from men, strenuous and eager, a keeper of the
 Dhutangas<span id="page_59_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_59_note_1), and addicted to lofty
+class="small">1</span></sup>](#page_59_note_1.md), and addicted to lofty
 thoughts.
 
    And the Blessed One beheld the venerable Pindolabharadvâja, sitting
@@ -593,7 +593,7 @@ Jetavana.
 
    And since these wandering monks of the heretical party knew that many
 people living in the Jetavana<span id="page_61_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_61_note_1) would have an opportunity
+class="small">1</span></sup>](#page_61_note_1.md) would have an opportunity
 of seeing the sudden arrival there of Sundari, the wandering nun, (they
 went there themselves) and (secretly) depriving her of life, threw her
 into a ruined well in the Jetavana. And they went to where the King
@@ -761,7 +761,7 @@ forth this solemn utterance:--
 
 ------------------------------------------------------------------------
 
-[Next](udn5)
+[Next](udn5.md)
 
 ------------------------------------------------------------------------
 
@@ -769,17 +769,17 @@ forth this solemn utterance:--
 
 <span id="footnotes_page_54">p. 54</span>
 
-<span id="page_54_note_1"></span>[1](#page_54_fr_1) Vide: *Buddhism*.
+<span id="page_54_note_1"></span>[1](#page_54_fr_1.md) Vide: *Buddhism*.
 Rhys Davids. p. 129.
 
 <span id="footnotes_page_59">p. 59</span>
 
-<span id="page_59_note_1"></span>[1](#page_59_fr_1) Thirteen ascetic
+<span id="page_59_note_1"></span>[1](#page_59_fr_1.md) Thirteen ascetic
 practises.
 
 <span id="footnotes_page_61">p. 61</span>
 
-<span id="page_61_note_1"></span>[1](#page_61_fr_1) "This passage seems
+<span id="page_61_note_1"></span>[1](#page_61_fr_1.md) "This passage seems
 to be very corrupt." *Paul Steinthal. Ed. of Text.*
 
  

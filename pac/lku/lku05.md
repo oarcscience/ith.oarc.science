@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku04)  [Next](lku06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku04)  [Next](lku06.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Night was rolled for the pleasure of gods,
 Night gave birth to the split-back turtle.  
 Watch in the night for the land turtle.  
 Night gave birth to the brown lobster,  
-The night of commotion for the [Alii (?)](errata.htm#0) lobster,  
+The night of commotion for the [Alii (?)](errata.htm#0.md) lobster,  
 The birth night of the lazy monster  
 Was a wet night for the rolling monster.  
 Night gave birth to clinging beings,  
@@ -149,4 +149,4 @@ Where families of creepers were born in one night.
 
 ------------------------------------------------------------------------
 
-[Next: The Fifth Era](lku06)
+[Next: The Fifth Era](lku06.md)

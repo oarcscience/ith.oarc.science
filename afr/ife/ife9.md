@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife8)
+[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife8.md)
 
 ------------------------------------------------------------------------
 
@@ -637,4 +637,4 @@ men down and breaks their ankles.
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Africa](../index) [Index](index)
+[Sacred-Texts](../../index) [Africa](../index) [Index](index.md)

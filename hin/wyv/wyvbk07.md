@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk06)  [Next](wyvbk08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk06)  [Next](wyvbk08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -147,7 +147,7 @@ For Indra, thee, etc. For Indra-Agni, thee, etc. For Indra-
 Varuna, thee, etc. For Indra-Brihaspati thee, etc. For  
 Indra-Vishnu thee, etc.  
 24 Him, messenger of earth and head of heaven, Agni
-[Vaisvânara](errata.htm#2),  
+[Vaisvânara](errata.htm#2.md),  
 born in holy Order,  
 The Sage, the King, the Guest of men, a vessel fit for their  
 mouths, the Gods have generated.  
@@ -302,4 +302,4 @@ and Desire receiver. This, O Desire, to thee is dedicated.
 
 ------------------------------------------------------------------------
 
-[Next: Book VIII](wyvbk08)
+[Next: Book VIII](wyvbk08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi139)  [Next](mtsi141) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi139)  [Next](mtsi141.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ grasped them and they pulled her out.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Fire](mtsi141)
+[Next: 5. Fire](mtsi141.md)

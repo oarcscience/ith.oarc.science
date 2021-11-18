@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](nop21)  [Next](nop23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](nop21)  [Next](nop23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Numbers, Their Occult Power and Mystic Virtues*, by W. Wynn Westcott,
 \[1911\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Christ, sacrificed on the 14th day of the month: an amulet of 14 points
 has been used to cure the sick.
 
 There are 14 Books of the Apocrypha; they were written originally in
-[Greek](errata.htm#1), never in Hebrew. An Israelite had to partake of
+[Greek](errata.htm#1.md), never in Hebrew. An Israelite had to partake of
 14 meals in the Booth during the Feast of Tabernacles.
 
 The Israelites killed the Paschal Lamb on the 14th day of the Month
@@ -168,7 +168,7 @@ Sephiroth and 22 letters of the Hebrew alphabet.
 years: the number of vertebræ in the human spinal column.
 
 35\. The number of Agla, AGLA, a composite Kabalistic wonder-working
-name. See page [27](nop06.htm#page_27).
+name. See page [27](nop06.htm#page_27.md).
 
 36\. Abaji said there are never less than 36 holy men of any generation
 upon whom the Shekinah does not rest.
@@ -631,7 +631,7 @@ made which, when he looked through, he could see objects at 2000 cubits
 distance; this is the earliest suggestion of the telescope. Eiruvin, 43.
 2.
 
-2368\. The [Greek](errata.htm#2) number of Iesous Christos.
+2368\. The [Greek](errata.htm#2.md) number of Iesous Christos.
 
 3000\. Rav Hammunah says that Solomon spoke 3000 proverbs. At the
 mourning for Moses 3000 precepts were forgotten.
@@ -705,6 +705,6 @@ equinox entered Taurus.
 
 ------------------------------------------------------------------------
 
-[Next: The Apocalyptic Numbers](nop23)
+[Next: The Apocalyptic Numbers](nop23.md)
 
 </div>

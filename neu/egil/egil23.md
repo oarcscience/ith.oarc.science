@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil22)  [Next](egil24) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil22)  [Next](egil24.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ friendship so long as they both lived.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXIII. The slaying of Hildirida's sons.](egil24)
+[Next: CHAPTER XXIII. The slaying of Hildirida's sons.](egil24.md)

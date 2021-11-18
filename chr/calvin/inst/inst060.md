@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst059)  [Next](inst061) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst059)  [Next](inst061.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Beveridge \[1845\], at Intangible Textual Heritage
 ### <span id="iv.iii.viii-p0.1"></span>CHAPTER 7.
 
 <span id="iv.iii.viii-p1"></span>A SUMMARY OF THE CHRISTIAN LIFE. OF
-SELF-DENIAL.  <span id="fr_386"></span>[387](#fn_386)
+SELF-DENIAL.  <span id="fr_386"></span>[387](#fn_386.md)
 
 <span id="iv.iii.viii-p3"></span>The divisions of the chapter are,—I.
 The rule which permits us not to go astray in the study of
@@ -88,7 +88,7 @@ which is enjoined in the Law; and the leading principle in the method
 is, that it is the duty of believers to present their “bodies a living
 sacrifice, holy and acceptable unto God, which is their reasonable
 service,” (<span id="iv.iii.viii-p15.1"></span>[Rom.
-12:1](../../../bib/kjv/rom012.htm#001)<span
+12:1](../../../bib/kjv/rom012.htm#001.md)<span
 id="iv.iii.viii-p15.1"></span>). Hence he draws the exhortation: “Be not
 conformed to this world: but be ye transformed by the renewing of your
 mind, that ye may prove what is that good, and acceptable, and perfect
@@ -105,7 +105,7 @@ our own; therefore, as far as possible, let us forget ourselves and the
 things that are ours. On the other hand, we are God’s; let us,
 therefore, live and die to him (<span
 id="iv.iii.viii-p15.2"></span>[Rom.
-14:8](../../../bib/kjv/rom014.htm#008)<span
+14:8](../../../bib/kjv/rom014.htm#008.md)<span
 id="iv.iii.viii-p15.2"></span>). We are God’s; therefore, let his wisdom
 and will preside over all our actions. We are God’s; to him, then, as
 the only legitimate end, let every part of our life be directed. O how
@@ -120,10 +120,10 @@ only that which consists in verbal obedience, but that by which the
 mind, divested of its own carnal feelings, implicitly obeys the call of
 the Spirit of God. This transformation (which Paul calls *the renewing
 of the mind*, <span id="iv.iii.viii-p15.3"></span>[Rom.
-12:2](../../../bib/kjv/rom012.htm#002)<span
+12:2](../../../bib/kjv/rom012.htm#002.md)<span
 id="iv.iii.viii-p15.3"></span>; <span
 id="iv.iii.viii-p15.4"></span>[Eph.
-4:23](../../../bib/kjv/eph004.htm#023)<span
+4:23](../../../bib/kjv/eph004.htm#023.md)<span
 id="iv.iii.viii-p15.4"></span>), though it is the first entrance to
 life, was unknown to all the philosophers. They give the government of
 man to reason alone, thinking that she alone is to be listened to; in
@@ -131,7 +131,7 @@ short, they assign to her the sole direction of the conduct. But
 Christian philosophy bids her give place, and yield complete submission
 to the Holy Spirit, so that the man himself no longer lives, but Christ
 lives and reigns in him (<span id="iv.iii.viii-p15.5"></span>[Gal.
-2:20](../../../bib/kjv/gal002.htm#020)<span
+2:20](../../../bib/kjv/gal002.htm#020.md)<span
 id="iv.iii.viii-p15.5"></span>).
 
 <span id="iv.iii.viii-p16"></span>2. Hence follows the other principle,
@@ -150,7 +150,7 @@ learned to look to God in everything he does, is at the same time
 diverted from all vain thoughts. This is that self-denial which Christ
 so strongly enforces on his disciples from the very outset (<span
 id="iv.iii.viii-p16.1"></span>[Mt.
-16:24](../../../bib/kjv/mat016.htm#024)<span
+16:24](../../../bib/kjv/mat016.htm#024.md)<span
 id="iv.iii.viii-p16.1"></span>), which, as soon as it takes hold of the
 mind, leaves no place either, first, for pride, show, and ostentation;
 or, secondly, for avarice, lust, luxury, effeminacy, or other vices
@@ -168,11 +168,11 @@ pride. So far, therefore, is God from being delighted with these hunters
 after popular applause with their swollen breasts, that he declares they
 have received their reward in this world (<span
 id="iv.iii.viii-p16.2"></span>[Mt.
-6:2](../../../bib/kjv/mat006.htm#002)<span
+6:2](../../../bib/kjv/mat006.htm#002.md)<span
 id="iv.iii.viii-p16.2"></span>), and that harlots and publicans are
 nearer the kingdom of heaven than they (<span
 id="iv.iii.viii-p16.3"></span>[Mt.
-21:31](../../../bib/kjv/mat021.htm#031)<span
+21:31](../../../bib/kjv/mat021.htm#031.md)<span
 id="iv.iii.viii-p16.3"></span>). We have not yet sufficiently explained
 how great and numerous are the obstacles by which a man is impeded in
 the pursuit of rectitude, so long as he has not renounced himself. The
@@ -192,7 +192,7 @@ great God and our Saviour Jesus Christ; who gave himself for us, that he
 might redeem us from all iniquity, and purify to himself a peculiar
 people, zealous of good works,” (<span
 id="iv.iii.viii-p17.1"></span>[Tit.
-2:11-14](../../../bib/kjv/tit002.htm#011)<span
+2:11-14](../../../bib/kjv/tit002.htm#011.md)<span
 id="iv.iii.viii-p17.1"></span>). After holding forth the grace of God to
 animate us, and pave the way for His true worship, he removes the two
 greatest obstacles which stand in the way—viz. ungodliness, to which we
@@ -226,10 +226,10 @@ that self-denial has respect partly to men and partly (more especially)
 to God (sec. 8-10). For when Scripture enjoins us, in regard to our
 fellow men, to prefer them in honour to ourselves, and sincerely labour
 to promote their advantages (<span id="iv.iii.viii-p18.1"></span>[Rom.
-12:10](../../../bib/kjv/rom012.htm#010)<span
+12:10](../../../bib/kjv/rom012.htm#010.md)<span
 id="iv.iii.viii-p18.1"></span>; <span
 id="iv.iii.viii-p18.2"></span>[Phil.
-2:3](../../../bib/kjv/phi002.htm#003)<span
+2:3](../../../bib/kjv/phi002.htm#003.md)<span
 id="iv.iii.viii-p18.2"></span>), he gives us commands which our mind is
 utterly incapable of obeying until its natural feelings are suppressed.
 For so blindly do we all rush in the direction of self-love, that every
@@ -264,7 +264,7 @@ themselves upon them betray their ingratitude. “Who maketh thee to
 differ,” saith Paul, “and what hast thou that thou didst not receive?
 now if thou didst receive it, why dost thou glory, as if thou hadst not
 received it?” (<span id="iv.iii.viii-p18.3"></span>[1 Cor.
-4:7](../../../bib/kjv/co1004.htm#007)<span
+4:7](../../../bib/kjv/co1004.htm#007.md)<span
 id="iv.iii.viii-p18.3"></span>). Then by a diligent examination of our
 faults let us keep ourselves humble. Thus while nothing will remain to
 swell our pride, there will be much to subdue it. Again, we are
@@ -274,7 +274,7 @@ having been pleased to bestow honour upon them, it would ill become us
 to deprive them of it. Then we are told to overlook their faults, not,
 indeed, to encourage by flattering them, but not because of them to
 insult those whom we ought to regard with honour and good will.39  <span
-id="fr_387"></span>[388](#fn_387) In this way, with regard to all with
+id="fr_387"></span>[388](#fn_387.md) In this way, with regard to all with
 whom we have intercourse, our behaviour will be not only moderate and
 modest, but courteous and friendly. The only way by which you can ever
 attain to true meekness, is to have your heart imbued with a humble
@@ -286,7 +286,7 @@ thought of yourself and in a manner cease to be yourself, you will never
 accomplish it. How can you exhibit those works of charity which Paul
 describes unless you renounce yourself, and become wholly devoted to
 others? “Charity (says he, <span id="iv.iii.viii-p20.1"></span>[1 Cor.
-13:4](../../../bib/kjv/co1013.htm#004)<span
+13:4](../../../bib/kjv/co1013.htm#004.md)<span
 id="iv.iii.viii-p20.1"></span>) suffereth long, and is kind; charity
 envieth not; charity vaunteth not itself, is not puffed up, doth not
 behave itself unseemly, seeketh not her own, is not easily provoked,”
@@ -305,7 +305,7 @@ we possess are divine deposits entrusted to us for the very purpose of
 being distributed for the good of our neighbour. But Scripture proceeds
 still farther when it likens these endowments to the different members
 of the body (<span id="iv.iii.viii-p20.2"></span>[1 Cor.
-12:12](../../../bib/kjv/co1012.htm#012)<span
+12:12](../../../bib/kjv/co1012.htm#012.md)<span
 id="iv.iii.viii-p20.2"></span>). No member has its function for itself,
 or applies it for its own private use, but transfers it to its
 fellow-members; nor does it derive any other advantage from it than that
@@ -326,7 +326,7 @@ own kindness. He commanded the first-fruits to be offered to him as an
 attestation by the people that it was impious to reap any advantage from
 goods not previously consecrated to him (<span
 id="iv.iii.viii-p20.3"></span>[Exod.
-22:29](../../../bib/kjv/exo022.htm#029)<span
+22:29](../../../bib/kjv/exo022.htm#029.md)<span
 id="iv.iii.viii-p20.3"></span>; 23:19). But if the gifts of God are not
 sanctified to us until we have with our own hand dedicated them to the
 Giver, it must be a gross abuse that does not give signs of such
@@ -334,8 +334,8 @@ dedication. It is in vain to contend that you cannot enrich the Lord by
 your offerings. Though, as the Psalmist says “Thou art my Lord: my
 goodness extendeth not unto thee,” yet you can extend it “to the saints
 that are in the earth,” (<span id="iv.iii.viii-p20.4"></span>[Ps.
-16:2](../../../bib/kjv/psa016.htm#002),
-[3](../../../bib/kjv/psa016.htm#003)<span
+16:2](../../../bib/kjv/psa016.htm#002.md),
+[3](../../../bib/kjv/psa016.htm#003.md)<span
 id="iv.iii.viii-p20.4"></span>); and therefore a comparison is drawn
 between sacred oblations and alms as now corresponding to the offerings
 under the Law.
@@ -345,7 +345,7 @@ well-doing (as would otherwise forthwith and infallibly be the case), we
 must add the other quality in the Apostle’s enumeration, “Charity
 suffiereth long, and is kind, is not easily provoked,” (<span
 id="iv.iii.viii-p21.1"></span>[1 Cor.
-13:4](../../../bib/kjv/co1013.htm#004)<span
+13:4](../../../bib/kjv/co1013.htm#004.md)<span
 id="iv.iii.viii-p21.1"></span>). The Lord enjoins us to do good to all
 without exception, though the greater part, if estimated by their own
 merit, are most unworthy of it. But Scripture subjoins a most excellent
@@ -359,11 +359,11 @@ needing your assistance, you have no ground for declining to give it to
 him. Say he is a stranger. The Lord has given him a mark which ought to
 be familiar to you: for which reason he forbids you to despise your own
 flesh (<span id="iv.iii.viii-p21.2"></span>[Gal.
-6:10](../../../bib/kjv/gal006.htm#010)<span
+6:10](../../../bib/kjv/gal006.htm#010.md)<span
 id="iv.iii.viii-p21.2"></span>). Say he is mean and of no consideration.
 The Lord points him out as one whom he has distinguished by the lustre
 of his own image (<span id="iv.iii.viii-p21.3"></span>[Isaiah
-58:7](../../../bib/kjv/isa058.htm#007)<span
+58:7](../../../bib/kjv/isa058.htm#007.md)<span
 id="iv.iii.viii-p21.3"></span>). Say that you are bound to him by no
 ties of duty. The Lord has substituted him as it were into his own
 place, that in him you may recognize the many great obligations under
@@ -374,11 +374,11 @@ he not only merits no good, but has provoked you by injury and mischief,
 still this is no good reason why you should not embrace him in love, and
 visit him with offices of love. He has deserved very differently from
 me, you will say. But what has the Lord deserved?39  <span
-id="fr_388"></span>[389](#fn_388) Whatever injury he has done you, when
+id="fr_388"></span>[389](#fn_388.md) Whatever injury he has done you, when
 he enjoins you to forgive him, he certainly means that it should be
 imputed to himself. In this way only we attain to what is not to say
 difficult but altogether against nature,39  <span
-id="fr_389"></span>[390](#fn_389) to love those that hate us, render
+id="fr_389"></span>[390](#fn_389.md) to love those that hate us, render
 good for evil, and blessing for cursing, remembering that we are not to
 reflect on the wickedness of men, but look to the image of God in them,
 an image which, covering and obliterating their faults, should by its
@@ -495,8 +495,8 @@ to his guidance, declares, “Neither do I exercise myself in great
 matters, or in things too high for me. Surely I have behaved and quieted
 myself as a child that is weaned of his mother,” (<span
 id="iv.iii.viii-p26.1"></span>[Ps.
-131:1](../../../bib/kjv/psa131.htm#001),
-[2](../../../bib/kjv/psa131.htm#002)<span
+131:1](../../../bib/kjv/psa131.htm#001.md),
+[2](../../../bib/kjv/psa131.htm#002.md)<span
 id="iv.iii.viii-p26.1"></span>).
 
 <span id="iv.iii.viii-p27"></span>10. Nor is it in this respect only
@@ -522,11 +522,11 @@ even then he will not cease to bless the Lord; his thought will be,
 Still the grace of the Lord, which dwells within my house, will not
 leave it desolate. If his crops are blasted, mildewed, or cut off by
 frost, or struck down by hail,39  <span
-id="fr_390"></span>[391](#fn_390) and he sees famine before him, he will
+id="fr_390"></span>[391](#fn_390.md) and he sees famine before him, he will
 not however despond or murmur against God, but maintain his confidence
 in him; “We thy people, and sheep of thy pasture, will give thee thanks
 for ever,” (<span id="iv.iii.viii-p28.1"></span>[Ps.
-79:13](../../../bib/kjv/psa079.htm#013)<span
+79:13](../../../bib/kjv/psa079.htm#013.md)<span
 id="iv.iii.viii-p28.1"></span>); he will supply me with food, even in
 the extreme of sterility. If he is afflicted with disease, the sharpness
 of the pain will not so overcome him, as to make him break out with
@@ -548,7 +548,7 @@ good and evil with perfect regularity.
 
 ### Footnotes
 
-<span id="fn_386"></span>[387](inst060.htm#fr_386) <span
+<span id="fn_386"></span>[387](inst060.htm#fr_386.md) <span
 id="iv.iii.viii-p1.1"></span>
 
 <span id="iv.iii.viii-p2"></span>93 393 On this and the three following
@@ -556,13 +556,13 @@ chapters, which contain the second part of the Treatise on the Christian
 Life, see Augustine, De Moribus Ecclesiae Catholicae, and Calvin de
 Scandalis.
 
-<span id="fn_387"></span>[388](inst060.htm#fr_387) <span
+<span id="fn_387"></span>[388](inst060.htm#fr_387.md) <span
 id="iv.iii.viii-p18.4"></span>
 
 <span id="iv.iii.viii-p19"></span>94 394 Calvin. de Sacerdotiis Eccles.
 Papal. in fine.
 
-<span id="fn_388"></span>[389](inst060.htm#fr_388) <span
+<span id="fn_388"></span>[389](inst060.htm#fr_388.md) <span
 id="iv.iii.viii-p21.4"></span>
 
 <span id="iv.iii.viii-p22"></span>95 395 French, “Car si nous disons
@@ -571,18 +571,18 @@ nous a fait, lui dont nous tenons tout notre bien;”— For if we say that
 he has deserved nothing of us but evil, God may ask us what evil he has
 done us, he of whom we hold our every blessing.
 
-<span id="fn_389"></span>[390](inst060.htm#fr_389) <span
+<span id="fn_389"></span>[390](inst060.htm#fr_389.md) <span
 id="iv.iii.viii-p22.1"></span>
 
 <span id="iv.iii.viii-p23"></span>96 396 <span
 id="iv.iii.viii-p23.1"></span>[Mt.
-5:44](../../../bib/kjv/mat005.htm#044)<span
+5:44](../../../bib/kjv/mat005.htm#044.md)<span
 id="iv.iii.viii-p23.1"></span>; 6:14; 18:35; <span
 id="iv.iii.viii-p23.2"></span>[Luke
-17:3](../../../bib/kjv/luk017.htm#003)<span
+17:3](../../../bib/kjv/luk017.htm#003.md)<span
 id="iv.iii.viii-p23.2"></span>.
 
-<span id="fn_390"></span>[391](inst060.htm#fr_390) <span
+<span id="fn_390"></span>[391](inst060.htm#fr_390.md) <span
 id="iv.iii.viii-p27.1"></span>
 
 <span id="iv.iii.viii-p28"></span>97 397 The French is, “Soit que ses
@@ -593,4 +593,4 @@ hail, or other tempest.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 8. - OF BEARING THE CROSSONE BRANCH OF
-SELF-DENIAL.](inst061)
+SELF-DENIAL.](inst061.md)

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa17)  [Next](tsoa19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa17)  [Next](tsoa19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -342,7 +342,7 @@ can always be measured by your BELIEF in yourself.
 <span id="page_279">p. 279</span>
 
 Are your surroundings discouraging? Do you feel that if you were in
-[another's](errata.htm#7) place success would be easier? Just bear in
+[another's](errata.htm#7.md) place success would be easier? Just bear in
 mind that your real environment is within you. All the factors of
 success or failure are in your inner world. *You* make that own inner
 world—and through it your outer world. You can choose the material from
@@ -447,4 +447,4 @@ thing you want. When you reach that point, *YOU WILL HAVE IT!*   
 
 ------------------------------------------------------------------------
 
-[Next: X. “This Freedom”](tsoa19)
+[Next: X. “This Freedom”](tsoa19.md)

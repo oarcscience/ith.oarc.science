@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo29)  [Next](beo31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo29)  [Next](beo31.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ loss and exacts fearful penalty from the people round about.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXXII](beo31)
+[Next: Part XXXII](beo31.md)

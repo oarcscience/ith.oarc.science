@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc34)  [Next](osc36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc34)  [Next](osc36.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ still puts such slices under their pillows and dream of their lovers.
 
 ------------------------------------------------------------------------
 
-[Next: (4) Bridesmaids and Best Man](osc36)
+[Next: (4) Bridesmaids and Best Man](osc36.md)

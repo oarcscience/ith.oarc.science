@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki229)  [Next](liki231) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki229)  [Next](liki231.md) 
 
 ------------------------------------------------------------------------
 
@@ -397,6 +397,6 @@ fortunate in a wife, but in a husband evil."'
 
 ------------------------------------------------------------------------
 
-[Next: XXXI. Pan Sang or Rules on Hurrying to Mourning Rites](liki231)
+[Next: XXXI. Pan Sang or Rules on Hurrying to Mourning Rites](liki231.md)
 
   

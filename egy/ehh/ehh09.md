@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh08)  [Next](ehh10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh08)  [Next](ehh10.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ good both for gods and men.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Third Division of the Tuat. I. The Kingdom of
-Khenti-Amenti-Osiris, According to the Book Am-Tuat](ehh10)
+Khenti-Amenti-Osiris, According to the Book Am-Tuat](ehh10.md)

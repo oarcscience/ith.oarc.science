@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe260)  [Next](prwe262) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe260)  [Next](prwe262.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ character from that day."
 
 ------------------------------------------------------------------------
 
-[Next: The Bonfire Test](prwe262)
+[Next: The Bonfire Test](prwe262.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis02)  [Next](kis04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis02)  [Next](kis04.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,4 +159,4 @@ that Fedelma would come to him and give him shelter for that night.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](kis04)
+[Next: Part IV](kis04.md)

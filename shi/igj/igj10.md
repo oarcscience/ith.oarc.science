@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj09)  [Next](igj11) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj09)  [Next](igj11.md) 
 
 ------------------------------------------------------------------------
 
@@ -276,4 +276,4 @@ the intelligence of Buddhahood itself.\]
 
 ------------------------------------------------------------------------
 
-[Next: Bits of Poetry](igj11)
+[Next: Bits of Poetry](igj11.md)

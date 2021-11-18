@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](aenl11)  [Previous](aen10) 
-[Next](aen12) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](aenl11)  [Previous](aen10.md) 
+[Next](aen12.md) 
 
 ------------------------------------------------------------------------
 
@@ -1377,4 +1377,4 @@ While Night with sable wings involves the sky.
 
 ------------------------------------------------------------------------
 
-[Next: Book XII](aen12)
+[Next: Book XII](aen12.md)

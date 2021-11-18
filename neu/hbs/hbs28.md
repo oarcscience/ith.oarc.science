@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs27) [Next](hbs29)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs27) [Next](hbs29.md)
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ Whereby the monasteries and churches fair I rear.”
 
 ------------------------------------------------------------------------
 
-[Next](hbs29)
+[Next](hbs29.md)
 
  
 

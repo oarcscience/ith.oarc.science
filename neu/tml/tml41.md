@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml40)  [Next](tml42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml40)  [Next](tml42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ Flames--Unconquered Heroes--Gunther and Hagen overcome--Gladness ends in
 Grief.
 
 IT fell that thirteen years after Siegfried's death Queen Helche of the
-Huns died, and King Etzel <span id="fr_113"></span>[1](#fn_113), who was
+Huns died, and King Etzel <span id="fr_113"></span>[1](#fn_113.md), who was
 a heathen, sought another bride. Rudiger, the rich margrave, surnamed
 "The Good", was sent as envoy to Worms to win Kriemhild; whereat Gunther
 was made glad, because Etzel was a mighty monarch, but grim Hagen grew
@@ -381,7 +381,7 @@ hewn and battered sore."
 <span id="img_40000"></span> <span align="CENTER"> [![THE FIGHT ON THE
 STAIRS OF ETZEL'S PALACE&lt;br&gt; &lt;i&gt;From the painting by Schnorr
 von Carolsfeld&lt;/i&gt;](tn/40000.jpg)  
-Click to enlarge](img/40000.jpg)  
+Click to enlarge](img/40000.jpg.md)  
 THE FIGHT ON THE STAIRS OF ETZEL'S PALACE  
 *From the painting by Schnorr von Carolsfeld*  
 </span>
@@ -470,7 +470,7 @@ What befell thereafter I can tell not. Knights and
 <span id="img_40200"></span> <span align="CENTER"> [![DEITRICH OVERCOMES
 HAGEN&lt;br&gt; &lt;i&gt;From the painting by Schnorr von
 Carolsfeld&lt;/i&gt;](tn/40200.jpg)  
-Click to enlarge](img/40200.jpg)  
+Click to enlarge](img/40200.jpg.md)  
 DEITRICH OVERCOMES HAGEN  
 *From the painting by Schnorr von Carolsfeld*  
 </span>
@@ -504,9 +504,9 @@ Siegfried, whom she had loved.
 
 ### Footnotes
 
-<span id="fn_113"></span>[391:1](tml41.htm#fr_113) Attila, "the scourge
+<span id="fn_113"></span>[391:1](tml41.htm#fr_113.md) Attila, "the scourge
 of God".
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVII. Dietrich of Bern](tml42)
+[Next: Chapter XXXVII. Dietrich of Bern](tml42.md)

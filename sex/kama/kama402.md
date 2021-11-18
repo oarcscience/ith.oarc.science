@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama401) 
-[Next](kama501) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama401.md) 
+[Next](kama501.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -156,9 +156,9 @@ are to behave, and therefore we shall now speak separately only about
 the king.
 
 The female attendants in the harem (called severally Kanchukiyas, <span
-id="fr_50"></span>[1](kama101.htm#fn_0) Mahallarikas, <span
-id="fr_51"></span>[2](kama101.htm#fn_1) and Mahallikas <span
-id="fr_52"></span>[3](kama101.htm#fn_2)) should bring flowers, ointments
+id="fr_50"></span>[1](kama101.htm#fn_0.md) Mahallarikas, <span
+id="fr_51"></span>[2](kama101.htm#fn_1.md) and Mahallikas <span
+id="fr_52"></span>[3](kama101.htm#fn_2).md) should bring flowers, ointments
 and clothes from the king's wives to the king, and he having received
 these things should give them as presents to the servants, along with
 the things worn by him the previous day. In the afternoon the king,
@@ -181,7 +181,7 @@ wives, marked with the seal of her ring, and their names and their
 reasons for sending the ointments should be told to the king. After this
 the king accepts the ointment of one of them, who then is informed that
 her ointment has been accepted, and that her day has been settled. <span
-id="fr_53"></span>[4](kama102.htm#fn_6)
+id="fr_53"></span>[4](kama102.htm#fn_6.md)
 
 At festivals, singing parties and exhibitions, all the wives of the king
 should be treated with respect and served with drinks.
@@ -215,22 +215,22 @@ Thus ends the conduct of a husband towards many wives.
 
 ### Footnotes
 
-<span id="fn_50"></span>[1](#fr_-1) A name given to the maid servants of
+<span id="fn_50"></span>[1](#fr_-1.md) A name given to the maid servants of
 the zenana of the kings in ancient times, on account of their always
 keeping their breasts covered with a cloth called Kanchuki. It was
 customary in the olden time for the maid servants to cover their breasts
 with a cloth, while the queens kept their breasts uncovered. This custom
 is distinctly to be seen in the Ajunta cave paintings.
 
-<span id="fn_51"></span>[2](#fr_-1) The meaning of this word is a
+<span id="fn_51"></span>[2](#fr_-1.md) The meaning of this word is a
 superior woman, so it would seem that a Mahallarika must be a person in
 authority over the maid servants of the house.
 
-<span id="fn_52"></span>[3](#fr_-1) This was also appertaining to the
+<span id="fn_52"></span>[3](#fr_-1.md) This was also appertaining to the
 rank of women employed in the harem. In latter times this place was
 given to eunuchs.
 
-<span id="fn_53"></span>[4](#fr_-1) As kings generally had many wives,
+<span id="fn_53"></span>[4](#fr_-1.md) As kings generally had many wives,
 it was usual for them to enjoy their wives by turns. But as it happened
 sometimes that some of them lost their turns owing to the king's
 absence, or to their being unwell, then in such cases the women whose
@@ -241,4 +241,4 @@ question.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. On the Characteristics of Men And Women...](kama501)
+[Next: Chapter I. On the Characteristics of Men And Women...](kama501.md)

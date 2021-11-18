@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](amo)  [Next](jon) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](amo)  [Next](jon.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ for at holde Dom over Esaus Bjerge. Og så skal Riget være HERRENs.
 
 ------------------------------------------------------------------------
 
-[Next: Jonah](jon)
+[Next: Jonah](jon.md)

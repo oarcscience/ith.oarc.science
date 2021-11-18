@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat16.htm#CXXXI) 
-[Previous](satl130)  [Next](satl132) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat16.htm#CXXXI.md) 
+[Previous](satl130)  [Next](satl132.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ satietatem osculis fruor. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CXXXII](satl132)
+[Next: CXXXII](satl132.md)

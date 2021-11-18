@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig02)  [Next](vig04) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig02)  [Next](vig04.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ to any man the next morning; and as we are told in the Grettir’s Saga it
 did happen very often in Norway when those pests of the society of that
 day, the Berserkers, were allowed to make their way in the world, and
 advance their fortunes as professional bullies.  <span
-id="fr_0"></span>[1](#fn_0)  
+id="fr_0"></span>[1](#fn_0.md)  
         The story is not always intelligible unless the reader keeps in
 mind the personal relations of the actors, and I have therefore appended
 to the translation two or three pedigrees of the families to which they
@@ -184,9 +184,9 @@ London, *December,* 1865.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](vig03.htm#fr_0) See Grettir’s Saga, chap.
+<span id="fn_0"></span>[1](vig03.htm#fr_0.md) See Grettir’s Saga, chap.
 xix. 40.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](vig04)
+[Next: Chapter I](vig04.md)

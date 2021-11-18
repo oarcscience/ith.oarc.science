@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt33)  [Next](egt35) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt33)  [Next](egt35.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ white,--go, know thou that fear and hope are one.
 ------------------------------------------------------------------------
 
 [Next: ON THE JUSTICE OF THE PRINCE AND THE SECURITY OF HIS
-SUBJECTS.](egt35)
+SUBJECTS.](egt35.md)

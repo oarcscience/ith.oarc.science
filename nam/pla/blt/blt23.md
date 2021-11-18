@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt22)  [Next](blt24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt22)  [Next](blt24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ deer from the people. He has a wife and a little son."
 
 Then they went close to the lodge, and Old Man changed himself into a
 little dog, and he said, "That is I." Then the young man changed himself
-into a root-digger, <span id="fr_26"></span>[1](#fn_26) and he said,
+into a root-digger, <span id="fr_26"></span>[1](#fn_26.md) and he said,
 "That is I."
 
 Now the little boy, playing about, found the dog, and he carried it to
@@ -130,10 +130,10 @@ shall die."
 
 ### Footnotes
 
-<span id="fn_26"></span>[145:1](blt23.htm#fr_26) A carved and painted
+<span id="fn_26"></span>[145:1](blt23.htm#fr_26.md) A carved and painted
 stick about three feet long, shaped like a sacking needle, used by women
 to unearth roots.
 
 ------------------------------------------------------------------------
 
-[Next: The Bears](blt24)
+[Next: The Bears](blt24.md)

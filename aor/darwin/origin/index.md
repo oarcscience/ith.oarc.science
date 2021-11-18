@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGUD04/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGUD04/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGUD04/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](orintro)
+[Contents](#contents)    [Start Reading](orintro.md)
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ cautious. The word *evolve*, even then considered 'fightin' words,' only
 occurs six times in the entire book. In addition, nowhere does he state
 or imply in Origin of Species that apes and men are related; this is
 left as an exercise for the student. [The Descent of
-Man](../descent/index), published two years later, outlines his thinking
+Man](../descent/index.md), published two years later, outlines his thinking
 about the evolution of *Homo Sapiens*. Nonetheless, Origin of Species
 set off a firestorm of controversy, and created an instant split in the
 Church of England. Today this unassuming, well-written, and occasionally
@@ -86,7 +86,7 @@ which pretends to have an explanation for everything, in my experience,
 a prime indicator of psedoscience. For instance, Darwin acknowledges
 that the actual mechanism of inheritance was a mystery to science at
 that point in time. It wasn't until the discovery of
-[DNA](../../../dna/index) that we began to make inroads into that
+[DNA](../../../dna/index.md) that we began to make inroads into that
 particular secret of nature.
 
 Science continues to explore points which Darwin could not explain, or
@@ -101,7 +101,7 @@ singularity, or the Hegelian and Marxist 'quantity becoming quality,'
 species cluster around optimally adapted points in a continuum of
 attributes, and when an accumulation of environmental or other forces
 destabilize that optimal point, species will coalesce elsewhere. In the
-[words of W.B. Yeats](../../../neu/yeats/lpy/lpy163): 'Things fall
+[words of W.B. Yeats](../../../neu/yeats/lpy/lpy163.md): 'Things fall
 apart; the centre cannot hold.'
 
 Darwin does not deny the existence of a creator of some sort. He points
@@ -113,28 +113,28 @@ automaton, 'endless forms most beautiful and most wonderful have been,
 and are being evolved.' While this may differ from the literal text of
 Genesis, it is not incompatible in spirit: "And God said, Let the waters
 *bring forth* abundantly the moving creature that hath life" ([Gen.
-1:20](../../../bib/kjv/gen001.htm#020)).
+1:20](../../../bib/kjv/gen001.htm#020).md).
 
 <span id="contents"></span>
 
 ------------------------------------------------------------------------
 
-[Introduction](orintro)  
-[Chapter I: Variation Under Domestication](or01)  
-[Chapter II: Variation Under Nature](or02)  
-[Chapter III: Struggle For Existence](or03)  
-[Chapter IV: Natural Selection; Or the Survival of the Fittest](or04)  
-[Chapter V: Laws of Variation](or05)  
-[Chapter VI: Difficulties of the Theory](or06)  
+[Introduction](orintro.md)  
+[Chapter I: Variation Under Domestication](or01.md)  
+[Chapter II: Variation Under Nature](or02.md)  
+[Chapter III: Struggle For Existence](or03.md)  
+[Chapter IV: Natural Selection; Or the Survival of the Fittest](or04.md)  
+[Chapter V: Laws of Variation](or05.md)  
+[Chapter VI: Difficulties of the Theory](or06.md)  
 [Chapter VII: Miscellaneous Objections to the Theory of Natural
-Selection](or07)  
-[Chapter VIII: Instinct](or08)  
-[Chapter IX: Hybridism](or09)  
-[Chapter X: On the Imperfection of the Geological Record](or10)  
-[Chapter XI: On the Geological Succession of Organic Beings](or11)  
-[Chapter XII: Geographical Distribution](or12)  
-[Chapter XIII: Geographical Distribution Continued](or13)  
+Selection](or07.md)  
+[Chapter VIII: Instinct](or08.md)  
+[Chapter IX: Hybridism](or09.md)  
+[Chapter X: On the Imperfection of the Geological Record](or10.md)  
+[Chapter XI: On the Geological Succession of Organic Beings](or11.md)  
+[Chapter XII: Geographical Distribution](or12.md)  
+[Chapter XIII: Geographical Distribution Continued](or13.md)  
 [Chapter XIV: Mutual Affinities of Organic Beings: Morphology:
-Embryology: Rudimentary Organs](or14)  
-[Chapter XV: Recapitulation and Conclusion](or15)  
-[Glossary of Terms](orgloss)  
+Embryology: Rudimentary Organs](or14.md)  
+[Chapter XV: Recapitulation and Conclusion](or15.md)  
+[Glossary of Terms](orgloss.md)  

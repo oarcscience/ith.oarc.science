@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah29)  [Next](oah31) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah29)  [Next](oah31.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ his name exists to this day as Jah, amongst mortals.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](oah31)
+[Next: Chapter XV](oah31.md)

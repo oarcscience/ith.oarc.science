@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb35)  [Next](crfb37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb35)  [Next](crfb37.md) 
 
 </div>
 
@@ -332,6 +332,6 @@ people of the land happy and contented too.
 
 ------------------------------------------------------------------------
 
-[Next: Clever Maria](crfb37)
+[Next: Clever Maria](crfb37.md)
 
 </div>

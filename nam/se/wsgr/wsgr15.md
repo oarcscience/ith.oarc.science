@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr14)  [Next](wsgr16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr14)  [Next](wsgr16.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ wounded
 <span id="img_08000"></span>
 
 [![](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)
+Click to enlarge](img/08000.jpg.md)
 
 <span id="page_81">p. 81</span>
 
@@ -109,4 +109,4 @@ of them were the children of the great blue horse from far away Spain.
 
 ------------------------------------------------------------------------
 
-[Next: The Wise Man's Big Bald Head](wsgr16)
+[Next: The Wise Man's Big Bald Head](wsgr16.md)

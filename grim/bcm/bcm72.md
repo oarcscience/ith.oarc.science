@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm71)  [Next](bcm73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm71)  [Next](bcm73.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,7 +178,7 @@ superiority may, however, be inferred from the title.
 TO CAUSE A GIRL TO SEEK YOU OUT, HOWEVER PRUDENT SHE MAY BE
 
 <span id="img_30400"></span> [![](tn/generic.jpg)  
-Click to view](img/30400.jpg)
+Click to view](img/30400.jpg.md)
 
 Whether in the increase or wane of the Moon, a star must be observed
 between eleven o'clock and midnight. But before beginning do as follows.
@@ -233,4 +233,4 @@ Clavicle.
 
 ------------------------------------------------------------------------
 
-[Next: Section 3: Concerning the Experiment of Invisibility](bcm73)
+[Next: Section 3: Concerning the Experiment of Invisibility](bcm73.md)

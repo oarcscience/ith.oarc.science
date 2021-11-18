@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](emec05)  [Next](emec07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](emec05)  [Next](emec07.md) 
 
 ------------------------------------------------------------------------
 
@@ -272,10 +272,10 @@ ground, lest they should see the basket and the priestesses, who were
 too pure for them to look upon. What was shut up in the basket was, of
 course, a secret meant never to be known beyond the walls of the temple;
 and it is only after two centuries that we learn from a coin of Asia
-Minor (see Fig. [85](#img_85)) that this sacred
+Minor (see Fig. [85](#img_85).md) that this sacred
 
 <span id="img_85"></span> [![](tn/generic.jpg)  
-Click to view](img/08400.jpg)
+Click to view](img/08400.jpg.md)
 
 Fig. 85
 
@@ -283,7 +283,7 @@ Fig. 85
 
 basket held a serpent, the enemy of the human race, who introduced sin
 and death into the world. This is the serpent of which we have seen the
-conquest in page [46](emec03.htm#page_46), the serpent of the third
+conquest in page [46](emec03.htm#page_46.md), the serpent of the third
 chapter of Genesis, which misled Eve, and the serpent of wickedness of
 the Gnostics. Within the temple the hierophant wore the dress and mask
 of the god Kneph, the crier the mask of Thoth, the priest at the altar
@@ -326,7 +326,7 @@ Egyptian slave and Greek freeman, which clogged the hitherto unchecked
 despotism of the rulers.
 
 <span id="img_08600"></span> [![](tn/generic.jpg)  
-Click to view](img/08600.jpg)
+Click to view](img/08600.jpg.md)
 
 The Bull Apis and Winged Sun on Coins of Cyprus.
 
@@ -334,4 +334,4 @@ The Bull Apis and Winged Sun on Coins of Cyprus.
 
 ------------------------------------------------------------------------
 
-[Next: The Religion Under the Romans](emec07)
+[Next: The Religion Under the Romans](emec07.md)

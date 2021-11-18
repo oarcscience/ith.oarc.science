@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft04)  [Next](efft06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft04)  [Next](efft06.md) 
 
 ------------------------------------------------------------------------
 
-# "TOM TIT TOT."  <span id="fr_5"></span>[1](#fn_5)
+# "TOM TIT TOT."  <span id="fr_5"></span>[1](#fn_5.md)
 
 <span id="img_05"></span> [![](tn/05.jpg)  
-Click to enlarge](img/05.jpg)  
+Click to enlarge](img/05.jpg.md)  
 "'WHERE'S THE FLAX?' SAYS HE."
 
 ONCE upon a time there were a woman, and she baked five pies. And when
 they come out of the oven, they was that overbaked the crust were too
 hard to eat. So she says to her darter:
 
-"Maw'r,"  <span id="fr_6"></span>[2](#fn_6) says she, "put you them
+"Maw'r,"  <span id="fr_6"></span>[2](#fn_6.md) says she, "put you them
 there pies on the shelf, an' leave 'em there a little, an' they'll come
 again."--She meant, you know, the crust 'ud get soft.
 
@@ -258,11 +258,11 @@ dark, an' she niver saw it noo more.
 
 ### Footnotes
 
-<span id="fn_5"></span>[1](efft05.htm#fr_5) *Folk-Lore Journal*, vol.
+<span id="fn_5"></span>[1](efft05.htm#fr_5.md) *Folk-Lore Journal*, vol.
 vii. p. 138, quoted by Mr. Edward Clodd from an old number of the
 *Ipswich Journal*.
 
-<span id="fn_6"></span>[2](efft05.htm#fr_6) "Mawther," remarks J. G.
+<span id="fn_6"></span>[2](efft05.htm#fr_6.md) "Mawther," remarks J. G.
 Nail in his *Glossary of tile Dialect and Provincialisms of East Anglia*
 (Longinan, 1866), "is the most curious word in the East Anglian
 vocabulary. A woman and her mawther means a woman and her daughter." The
@@ -271,4 +271,4 @@ words, upon which cf. Skeat's *Etymol. Dictionary*, i. v.
 
 ------------------------------------------------------------------------
 
-[Next: Jack and the Bean-stalk](efft06)
+[Next: Jack and the Bean-stalk](efft06.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](mrm05)  [Next](mrm07) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](mrm05)  [Next](mrm07.md) 
 
 ------------------------------------------------------------------------
 
@@ -467,4 +467,4 @@ was to smother men.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Maori Chief of Olden Time](mrm07)
+[Next: Chapter V. The Maori Chief of Olden Time](mrm07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs02)  [Next](lrs04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs02)  [Next](lrs04.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ themselves about the\[paragraph continues\]
 Spanish soul. In a later day an openly avowed admiration for the art and
 culture of the Moslem leavened the ancient hate, and the Moorish
 cavalier imitated the chivalry, if not the verse, of the Castilian
-knight.  <span id="fr_0"></span>[1](#fn_0)
+knight.  <span id="fr_0"></span>[1](#fn_0.md)
 
  
 
@@ -117,7 +117,7 @@ the Castilian tongue was a mere
 jargon, composed of the elements of the Roman *lingua* *rustica* and the
 rude Gothic, and, according to some authorities, still lacking in
 grammatical arrangement and fixity of idiom.  <span
-id="fr_1"></span>[2](#fn_1) It is certainly clear that the final phases
+id="fr_1"></span>[2](#fn_1.md) It is certainly clear that the final phases
 in the evolution of the Castilian took place subsequently to the Arabic
 invasion, but it is a straining of such scanty evidence as we possess to
 impute to the form of Castilian speech current immediately before that
@@ -155,7 +155,7 @@ children the Roman tongue. The necessary intercourse between conqueror
 and conquered in time produced a sort of pidgin-Latin, which stood in
 much the same relation to the classic speech of Rome as the trade
 language of the Pacific did to English.  <span
-id="fr_2"></span>[3](#fn_2)
+id="fr_2"></span>[3](#fn_2.md)
 
 The use of Latin as a literary tongue in that part of Spain where the
 Castilian speech was evolved considerably retarded its development from
@@ -192,7 +192,7 @@ of the Catalan coast and the province of Aragon deeply imbued with the
 chivalry and gallantry of the more northerly home of the *Gai Saber* .
 
 Throughout the whole Provençal-Catalan  <span
-id="fr_3"></span>[4](#fn_3) tract were held those romantic courts of
+id="fr_3"></span>[4](#fn_3.md) tract were held those romantic courts of
 love in which the erotic subtleties of its men and women of song were
 debated with a seriousness which shows that the art of love had entered
 into competition with the forces of law and
@@ -239,7 +239,7 @@ brocaded flowers occupy regular intervals in the pattern and a
 monotonous sameness of colour is the distinctive note. No episode of the
 chase nor pastoral scene charms us by its liveliness or reality, nor do
 we find the silken hues distributed in a natural and pleasing manner.
- <span id="fr_4"></span>[5](#fn_4)
+ <span id="fr_4"></span>[5](#fn_4.md)
 
 The Provençal and Catalan troubadours had, indeed, a certain influence
 upon the fortunes of Castilian poetry and romance, and proofs of their
@@ -249,7 +249,7 @@ the rather later *History of the Crusades*. During the persecution they
 suffered at the period of the Albigensian wars numbers of them fled into
 Spain where they found a refuge from their intolerant enemies. Thus
 Aimeric de Bellinai fled to the Court of Alfonso IX,  <span
-id="fr_5"></span>[6](#fn_5) and was later at the Court of Alfonso X, as
+id="fr_5"></span>[6](#fn_5.md) and was later at the Court of Alfonso X, as
 were Montagnagunt and Folquet de Lunel, as well as Raimon de Tours and
 Bertrand Carbunel, who, with\[paragraph continues\]
 
@@ -260,9 +260,9 @@ elegies on the occasion of his death. King Alfonso himself wrote verses
 of a decidedly Provençal cast, and even as late as 1433 the Marquis de
 Villena, a kinsman of the famous Marquis de Santillana, whom we shall
 encounter later, wrote a treatise upon the art of the Troubadours,
- <span id="fr_6"></span>[7](#fn_6) which, following the instinct of a
+ <span id="fr_6"></span>[7](#fn_6.md) which, following the instinct of a
 pedant, he desired to see resuscitated in Castile.  <span
-id="fr_7"></span>[8](#fn_7)
+id="fr_7"></span>[8](#fn_7.md)
 
 The Galician, a Romance language which sprang from the same root as the
 Portuguese, is nearly allied to the Castilian. But it is not as rich in
@@ -314,7 +314,7 @@ Saracen occupation of their native land. As the Castilian warriors by
 generations of hard fighting gradually regained city after city and
 district by district rather than province by province, their language
 encroached by degrees upon the area of that of their Arab enemies,
- <span id="fr_8"></span>[9](#fn_8) until at length the stronghold of the
+ <span id="fr_8"></span>[9](#fn_8.md) until at length the stronghold of the
 Moors fell and left them not a foothold in the Peninsula. "It was indeed
 a rude training
 
@@ -322,7 +322,7 @@ a rude training
 
 which our forefathers, mighty and hardy, had as a prelude to so many
 glories and to the conquest of the world," says Martinez in his novel
-*Isabel de Solis*.  <span id="fr_9"></span>[10](#fn_9) "Weighed down by
+*Isabel de Solis*.  <span id="fr_9"></span>[10](#fn_9.md) "Weighed down by
 their harness and with sword in hand, they slept at ease for no single
 night for eight centuries."
 
@@ -455,16 +455,16 @@ Alfonso XI composed a *General Chronicle* in the easy, flowing rhyme of
 the native *redondillas*, instead of the stiff, monkish Alexandrines
 then current in literary circles, and caused books to be written in
 Castilian prose on the art of hunting and the genealogy of the
-nobility. <span id="fr_11"></span>[12](#fn_11) His relative Don Juan
+nobility. <span id="fr_11"></span>[12](#fn_11.md) His relative Don Juan
 Manuel did much to discipline Spanish imagination and give fixity to
 Spanish prose in
 
 <span id="page_25">p. 25</span>
 
-his *Conde Lucanor*,  <span id="fr_12"></span>[13](#fn_12) a volume of
+his *Conde Lucanor*,  <span id="fr_12"></span>[13](#fn_12.md) a volume of
 ethical and political maxims, the morals of which are well pointed by
 tales and fables drawn from history and historical literature. Juan II,
- <span id="fr_13"></span>[14](#fn_13) although a weak and idle monarch,
+ <span id="fr_13"></span>[14](#fn_13.md) although a weak and idle monarch,
 was a great patron of letters, wrote letters, associated with poets, and
 caused a large collection of the best existing Spanish verse to be made
 in 1449. But the spirit of his Court was a pedantic one; it strayed
@@ -534,7 +534,7 @@ history *matière de Rome*.
 Until comparatively recent times these immense works, many of which
 comprise six or seven thousand lines of verse, were practically unknown,
 even to the generality of literary authorities.  <span
-id="fr_14"></span>[15](#fn_14) As we now possess them they are
+id="fr_14"></span>[15](#fn_14.md) As we now possess them they are
 comparatively late in form, and have undergone much revisal, probably
 for the worse. But they are the oldest examples of elaborate verse in
 any modern language, with the exception of English and Norse, and
@@ -587,7 +587,7 @@ Basques,
 who resented the passage of the Frankish army through their mountain
 passes. The whole piece is an effusion written in Basque by a Basque
 student named Duhalde, who translated it from the French of François
-Goray de Montglave (c. 1833).  <span id="fr_15"></span>[16](#fn_15) A
+Goray de Montglave (c. 1833).  <span id="fr_15"></span>[16](#fn_15.md) A
 second battle of Roncesvalles took place in the reign of Louis le
 Debonair in 824, when two Frankish counts returning from Spain were
 again surprised and defeated by the Pyrenean mountaineers. But there
@@ -638,7 +638,7 @@ scillions’ hall. Many of them were worked into the substance of
 chronicles and histories; but the *juglares* who now sang them altered
 them, when they passed out of fashion, into corrupt abridgements, or
 broke them up into ballads to suit the taste of a more popular
-audience. <span id="fr_16"></span>[17](#fn_16)
+audience. <span id="fr_16"></span>[17](#fn_16.md)
 
 <span id="page_31">p. 31</span>
 
@@ -721,7 +721,7 @@ of Spain. But in this place we are considering it merely from the point
 of view of its bearings upon Romance. That it has a close affinity with
 the Romantic literature of the Peninsula is evident from the name given
 to these poems by the Spaniards, who call them *romanceros*.  <span
-id="fr_17"></span>[18](#fn_17) Some of them are, indeed, romances or
+id="fr_17"></span>[18](#fn_17.md) Some of them are, indeed, romances or
 *cantares de gesta* in title, and in fact they deal with all the great
 subjects sung of in the *cantares* or prosed upon in the chronicles,
 such as the Cid, Bernaldo de Carpio, Count Alarcos and so forth. But
@@ -778,19 +778,19 @@ Amadis had for sequel a long line of similar tales, all of which the
 reader will encounter later in these pages. By general consent of
 critics, from Cervantes onward, it is the best and most distinct of the
 Spanish romances, and was translated into French, Italian, and indeed
-into most European languages,  <span id="fr_18"></span>[19](#fn_18) a
+into most European languages,  <span id="fr_18"></span>[19](#fn_18.md) a
 special translation, it is said, even being made for Jewish readers. At
 a stroke Peninsular romanticism had beaten French chivalric fiction upon
 its own ground. But *Amadis* was not, as Cervantes seems to think, the
 first book of chivalry printed in Spain, for this distinction belongs to
 *Tirante the White* (1490) which, according to Southey, is lacking in
-the spirit of chivalry. <span id="fr_19"></span>[20](#fn_19) Among other
+the spirit of chivalry. <span id="fr_19"></span>[20](#fn_19.md) Among other
 figures it introduces that of Warwick the King-maker, who successfully
 withstands an invasion of England by the King of the Canary Islands, and
 ultimately slays the invader single-handed and routs his forces. But if
 Cervantes errs in his bibliography, his barber’s summing-up of *Amadis*
 as "the best of all books of its kind that has been written" is not far
-from the truth.  <span id="fr_20"></span>[21](#fn_20) Tasso thought of
+from the truth.  <span id="fr_20"></span>[21](#fn_20.md) Tasso thought of
 it "the most beautiful and perhaps the most profitable story of its kind
 that can be read." Did he merely follow the tonsorial critic’s opinion,
 as his language would tempt one to believe?
@@ -804,7 +804,7 @@ efforts, in consequence if not in chronology, is that of *Palmerin de
 Oliva,* the earliest known edition of which appeared at Seville in 1525,
 and was followed, like the *Amadis,* by similar continuations,
 *Primaleón, Platir,* and *Palmerin of England,* perhaps the best of the
-series.  <span id="fr_21"></span>[22](#fn_21) Regarding the alleged
+series.  <span id="fr_21"></span>[22](#fn_21.md) Regarding the alleged
 Portuguese origin of *Amadis* and *Palmerin* I have more to say
 elsewhere, and will content myself here by observing that no Portuguese
 original printed or manuscript, exists, although the priority of such
@@ -1038,7 +1038,7 @@ Of Moorish grandeur of thought and luxuriance of emotion we find little
 in Spanish literature, at least until the beginning of the fifteenth
 century. Its note is distinctively, nay almost aggressively, *European*
 , as will be readily understood from the circumstances of its origin.
- <span id="fr_22"></span>[23](#fn_22) But it would seem that with the
+ <span id="fr_22"></span>[23](#fn_22.md) But it would seem that with the
 Castilian occupation of the Moorish parts of Spain the atmosphere which
 the Saracen had left behind him powerfully affected the Spaniard, who
 appears to have cast a halo of romance round the character of the
@@ -1083,7 +1083,7 @@ doubt, too, that Arabic was the spoken language of thousands of
 Christians in Southern Spain. But that it had a determined opponent in
 the native Spanish is becoming more and more clear—an opponent which it
 found as merciless as the Moor found the Spaniard.  <span
-id="fr_23"></span>[24](#fn_23)
+id="fr_23"></span>[24](#fn_23.md)
 
 Perhaps the best measure of the decline of Arabic as a spoken language
 in Spain is the fact that the authors of many romances declare them to
@@ -1165,26 +1165,26 @@ And the death of Oliver. <span id="fr_24"></span><a href="#fn_24">25</a></p></t
 
 ### Footnotes
 
-<span id="fn_0"></span>[13:1](lrs03.htm#fr_0) The *moro latinado*, is a
+<span id="fn_0"></span>[13:1](lrs03.htm#fr_0.md) The *moro latinado*, is a
 prominent figure in later Spanish story.
 
-<span id="fn_1"></span>[14:2](lrs03.htm#fr_1) Bishop Odor’s will (747)
+<span id="fn_1"></span>[14:2](lrs03.htm#fr_1) Bishop Odor’s will (747.md)
 shows the break-up of Hispanic Spain, and Charles the Bald in an edict
 in 844 alludes to the *usitato vocabulo* of the Spaniards—their
 "customary speech." On the Gothic period, see Peré Jules Taillham, in
 the fourth volume of Cahier and Martin’s *Nouvaeux Mélanges d’
 Archéologie, de Histoire, et de Littérature sur le Moyen Age* (1877).
 
-<span id="fn_2"></span>[15:3](lrs03.htm#fr_2) This jargon owed much more
+<span id="fn_2"></span>[15:3](lrs03.htm#fr_2.md) This jargon owed much more
 to the *lingua rustica* than to Gothic, which has left its mark more
 deeply upon the pronunciation and syntax of Spanish than on its
 vocabulary.
 
-<span id="fn_3"></span>[16:4](lrs03.htm#fr_3) Catalan differed slightly
+<span id="fn_3"></span>[16:4](lrs03.htm#fr_3.md) Catalan differed slightly
 in a dialectic sense from Provençal. It was divided into *plá Catalá*
 and *Lemosé*, the common speech and the literary tongue.
 
-<span id="fn_4"></span>[18:5](lrs03.htm#fr_4) "On the whole," says
+<span id="fn_4"></span>[18:5](lrs03.htm#fr_4.md) "On the whole," says
 Professor Saintsbury, "the ease, accomplishments, and, within certain
 strict limits, variety of form, are more remarkable than any intensity
 or volume of passion or of thought." (*Flourishing of Romance and Rise
@@ -1192,74 +1192,74 @@ of Allegory,* pp. 368-369). He further states that the Provençal rule
 "is a rule of ‘minor poetry,’ accomplished, scholarly, agreeable, but
 rarely rising out of minority."
 
-<span id="fn_5"></span>[18:6](lrs03.htm#fr_5) *D*. 1214.
+<span id="fn_5"></span>[18:6](lrs03.htm#fr_5.md) *D*. 1214.
 
-<span id="fn_6"></span>[19:7](lrs03.htm#fr_6) It was entitled *El Arte
+<span id="fn_6"></span>[19:7](lrs03.htm#fr_6.md) It was entitled *El Arte
 de Trobar*, and is badly abridged in Mayan’s *Origenes de la Lengua
 Española* (Madrid, 1737).
 
-<span id="fn_7"></span>[19:8](lrs03.htm#fr_7) On Provençal influence
+<span id="fn_7"></span>[19:8](lrs03.htm#fr_7.md) On Provençal influence
 upon Castilian literature see Manuel Milá y Fontanal, *Trovadores en
 España* (Barcelona, 1887); and E. Baret, *Espagne et Provence* (1857),
 on a lesser scale.
 
-<span id="fn_8"></span>[20:9](lrs03.htm#fr_8) Still they found many
+<span id="fn_8"></span>[20:9](lrs03.htm#fr_8.md) Still they found many
 Spanish-speaking people in that area; and it was the Romance speech of
 these which finally prevailed in Spain.
 
-<span id="fn_9"></span>[21:10](lrs03.htm#fr_9) Madrid, 1839.
+<span id="fn_9"></span>[21:10](lrs03.htm#fr_9.md) Madrid, 1839.
 
-<span id="fn_10"></span>[22:11](lrs03.htm#fr_10) In the *Cancionero de
+<span id="fn_10"></span>[22:11](lrs03.htm#fr_10.md) In the *Cancionero de
 Romances* (Antwerp, 1555).
 
-<span id="fn_11"></span>[24:12](lrs03.htm#fr_11) See the article on
+<span id="fn_11"></span>[24:12](lrs03.htm#fr_11.md) See the article on
 Alfonso XI in N. Antonio, *Bibliotheca Hispana Vetus*.
 
-<span id="fn_12"></span>[25:13](lrs03.htm#fr_12) English translation by
+<span id="fn_12"></span>[25:13](lrs03.htm#fr_12.md) English translation by
 James York.
 
-<span id="fn_13"></span>[25:14](lrs03.htm#fr_13) Reigned 1407-54.
+<span id="fn_13"></span>[25:14](lrs03.htm#fr_13.md) Reigned 1407-54.
 
-<span id="fn_14"></span>[27:15](lrs03.htm#fr_14) Gaston Paris, *La
+<span id="fn_14"></span>[27:15](lrs03.htm#fr_14.md) Gaston Paris, *La
 Littèrature Française au Moyen Age* (Paris, 1888), and Lèon Gautier,
 *Les Épopèes Française* (Paris, 1878-92), are the leading authorities
 upon the *chansons de gestes*. Accounts of these in English can be found
 in Ludlow’s *Popular Epics of the Middle Ages* (1865) and in my
 *Dictionary of Medieval Romance* (1913).
 
-<span id="fn_15"></span>[29:16](lrs03.htm#fr_15) See W. Wentworth
+<span id="fn_15"></span>[29:16](lrs03.htm#fr_15.md) See W. Wentworth
 Webster, in the *Boletin* of the Academia de Historia for 1883.
 
-<span id="fn_16"></span>[30:17](lrs03.htm#fr_16) See Manuel Milá y
+<span id="fn_16"></span>[30:17](lrs03.htm#fr_16.md) See Manuel Milá y
 Fontunal*, Poesíá heróico-popular Castellana* (Barcelona, 1874).
 
-<span id="fn_17"></span>[33:18](lrs03.htm#fr_17) The term, first
+<span id="fn_17"></span>[33:18](lrs03.htm#fr_17.md) The term, first
 employed by Count William of Poitiers, the earliest troubadour, at first
 implied any work written in the vernacular Romance languages. Later in
 Spain it was used as an equivalent for *cantar*, and finally indiciated
 a lyrico-narrative poem in octosyllabic assonants.
 
-<span id="fn_18"></span>[35:19](lrs03.htm#fr_18) In German it was known
+<span id="fn_18"></span>[35:19](lrs03.htm#fr_18.md) In German it was known
 from 1583, and in English from 1619, Southey’s translation (London,
 1803) is (happily) an abridgement, and has been reprinted in the
 "Library of Old Authors" (1872). I provide full bibliographical details
 when dealing with the romance more fully.
 
-<span id="fn_19"></span>[35:20](lrs03.htm#fr_19) *Omniana*, t. ii, p.
+<span id="fn_19"></span>[35:20](lrs03.htm#fr_19.md) *Omniana*, t. ii, p.
 219 (London, 1812).
 
-<span id="fn_20"></span>[35:21](lrs03.htm#fr_20) *Don Quixote*, Part I,
+<span id="fn_20"></span>[35:21](lrs03.htm#fr_20.md) *Don Quixote*, Part I,
 chap. vi.
 
-<span id="fn_21"></span>[36:22](lrs03.htm#fr_21) English translation by
+<span id="fn_21"></span>[36:22](lrs03.htm#fr_21.md) English translation by
 Southey, 4 vols. (1807).
 
-<span id="fn_22"></span>[43:23](lrs03.htm#fr_22) In the chapter entitled
+<span id="fn_22"></span>[43:23](lrs03.htm#fr_22.md) In the chapter entitled
 "Moorish Romances of Spain" the reader will find specimens of the
 romantic fictions of that people, from which he can judge for himself of
 their affinity or otherwise with the Spanish romances.
 
-<span id="fn_23"></span>[45:24](lrs03.htm#fr_23) See Dozy, *History of
+<span id="fn_23"></span>[45:24](lrs03.htm#fr_23.md) See Dozy, *History of
 the Moors in Spain*, Eng. Trans., and *Recherches sur l’ Histoire
 politique et littéraire de l’ Espagne* (1881); F.J. Simonet,
 Introduction to his *Glosario de Voces iberias y latinas usadas entre
@@ -1267,9 +1267,9 @@ los Muzdrabes* (1888); Renan, *Averroës et Averröisme* (1866). Gayangos’
 *Mohammedan Dynasties in Spain* (London, 1843) is somewhat obsolete, as
 is Condé’s *Dominación de los Arabes*.
 
-<span id="fn_24"></span>[47:25](lrs03.htm#fr_24) "The Raid," an old
+<span id="fn_24"></span>[47:25](lrs03.htm#fr_24.md) "The Raid," an old
 Spanish poem.
 
 ------------------------------------------------------------------------
 
-[Next: II. The "Cantares de Gesta" and the "Poema del Cid"](lrs04)
+[Next: II. The "Cantares de Gesta" and the "Poema del Cid"](lrs04.md)

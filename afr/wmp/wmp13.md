@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp12)  [Next](wmp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp12)  [Next](wmp14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -370,7 +370,7 @@ A kindred belief as to the power of such rags to inflict the curse of
 sterility is recorded from our own northern climes. To quote Dr. Haddon,
 "In Germany and Denmark . . . to hang rags from the clothing of a dead
 man upon a vine is to render it barren." <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 Such beliefs are hardly to be wondered at when one considers that the
 dread of witchcraft is still so powerful in out of the way parts of the
@@ -439,12 +439,12 @@ room so that his spirit may be induced to return and enjoy it.
 
 ### Footnotes
 
-<span id="fn_29"></span>[173:1](wmp13.htm#fr_29) "Magic and Fetishism."
+<span id="fn_29"></span>[173:1](wmp13.htm#fr_29.md) "Magic and Fetishism."
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 12: Jujus](wmp14)
+[Next: Chapter 12: Jujus](wmp14.md)
 
 </div>

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb40)  [Next](pifb42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb40)  [Next](pifb42.md) 
 
 </div>
 
@@ -159,6 +159,6 @@ died, and no man regretted her.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Ciccu](pifb42)
+[Next: The Story of Ciccu](pifb42.md)
 
 </div>

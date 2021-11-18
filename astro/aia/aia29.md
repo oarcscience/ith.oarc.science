@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia28)  [Next](aia30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia28)  [Next](aia30.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,7 +174,7 @@ turn rather to good than evil. Mercury, or the planet to whom he or ☽
 applies, being retrograde or afflicted, or if either of these two be
 lord of the ascendant, it signifies that the rumour shall vanish to
 nothing, or shall be converted to good. If the lord of the ascendant be
-under the beams of ☉ <span id="fr_83"></span>[1](#fn_83), the matter is
+under the beams of ☉ <span id="fr_83"></span>[1](#fn_83.md), the matter is
 kept secret, and few shall ever know the truth.
 
 *Of Counsel or Advice given by a Neighbour, or Relation, Friend, &c*.
@@ -189,7 +189,7 @@ heart, and the advice is intended for your good. If ♅, ♄, ♂, or ☋ be
 there, or if ☽ apply by evil aspect, they intend deceitfully. *Haly*
 affirms, that if the sign ascending be moveable, and the ☽ and lord of
 the ascendant are both in moveable signs, the party comes to
-deceive. <span id="fr_84"></span>[2](#fn_84)
+deceive. <span id="fr_84"></span>[2](#fn_84.md)
 
 *Of short Journeys, whether good to go or not*?
 
@@ -225,7 +225,7 @@ which were put on the occasion will be found to follow.
 <span id="img_fig07"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt; 7.](tn/fig07.jpg)  
-Click to enlarge](img/fig07.jpg)  
+Click to enlarge](img/fig07.jpg.md)  
 *Fig* 7.  
 
 QUESTIONS REGARDING AN ABSENT BROTHER.
@@ -301,7 +301,7 @@ did, and do, live very amicably together.
 <span id="img_fig08"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 8.](tn/fig08.jpg)  
-Click to enlarge](img/fig08.jpg)  
+Click to enlarge](img/fig08.jpg.md)  
 *Fig*. 8.  
 
 QUERY.--*If a Rumour or Report were true or not*?
@@ -335,7 +335,7 @@ or rumour, and no benefit to the enemy. The ☐ of ♄ and ♂ assured me that
 our enemies were so full of division and treason, and so thwarting one
 the other's designs, that no good should come unto them by this report.
 And so, in short, I judged that Cambridge was not taken, and that what
-we heard was false. <span id="fr_85"></span>[1](#fn_85)
+we heard was false. <span id="fr_85"></span>[1](#fn_85.md)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -351,16 +351,16 @@ feminine.
 
 ### Footnotes
 
-<span id="fn_83"></span>[127:1](aia29.htm#fr_83) This signifies within a
+<span id="fn_83"></span>[127:1](aia29.htm#fr_83.md) This signifies within a
 distance of 12 degrees of ☉. Modern authors say 17 degrees.
 
-<span id="fn_84"></span>[127:2](aia29.htm#fr_84) If the advice be
+<span id="fn_84"></span>[127:2](aia29.htm#fr_84.md) If the advice be
 intended for your benefit, yet it may not be well to follow it. This may
 be seen by the lord of the 4th, and planets therein; for if malefics be
 there, or the lord of the 4th afflict the lord of the ascendant, it will
 end ill: if good planets be there. it ends well.--ZAD.
 
-<span id="fn_85"></span>[133:1](aia29.htm#fr_85) If the student erect a
+<span id="fn_85"></span>[133:1](aia29.htm#fr_85.md) If the student erect a
 figure for 10h. 53m. A.M. Dec. 23d, 1834, he will find ♐ 15 on the 10th,
 and ☽ in ♎ 0: 15 in the 7th, applying to ☐ of ☉, lord of the 7th. We
 erected this figure on hearing a rumour of several persons being cruelly
@@ -374,4 +374,4 @@ the transaction. The coroner's jury found a verdict of *wilful murder*.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVII. Of the Fourth House, and Judgments Depending
-Thereon](aia30)
+Thereon](aia30.md)

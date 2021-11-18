@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico105) 
-[Next](nico107) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico105.md) 
+[Next](nico107.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ The presence of friends, then, seems desirable in all circumstances.
 ------------------------------------------------------------------------
 
 [Next: Chapter 12. The essence of friendship is living
-together](nico107)
+together](nico107.md)

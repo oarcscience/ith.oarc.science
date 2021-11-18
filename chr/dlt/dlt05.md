@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt04)  [Next](dlt06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt04)  [Next](dlt06.md) 
 
 ------------------------------------------------------------------------
 
@@ -349,13 +349,13 @@ rise and share the blessedness of the regenerate nation (xxvi. 19). This
 notable verse should, with Duhm and Cheyne, be read as follows: *Thy
 dead men (Israel) shall arise; the inhabitants of the dust shall awake
 and shout for joy; for a dew of lights is thy dew, and the earth shall
-bring to life the Shades*. <span id="fr_14"></span>[1](#fn_14) Most
+bring to life the Shades*. <span id="fr_14"></span>[1](#fn_14.md) Most
 
 <span id="page_60">p. 60</span>
 
 likely based on this passage is Dan. xii. 2, 3: *And many of them that
 sleep in the dust of the earth shall awake, some to*
-[*everlasting*](errata.htm#0) *life and some to shame and everlasting
+[*everlasting*](errata.htm#0.md) *life and some to shame and everlasting
 contempt. And they that be wise shall shine as the brightness of the
 firmament; and they that turn many to righteousness as the stars for
 ever and ever*. The mention here of the resurrection of the wicked
@@ -367,7 +367,7 @@ the doctrine, the Resurrection was confined to the Holy Land--those
 buried elsewhere would have to burrow through the ground to
 Palestine--and to Israelites. The trumpet-blast which was to be the
 signal for the ingathering of the exiles would also rouse the sleeping
-dead. <span id="fr_15"></span>[1](#fn_15)
+dead. <span id="fr_15"></span>[1](#fn_15.md)
 
 #### §v. *The Messianic Banquet*.
 
@@ -461,13 +461,13 @@ supernatural *traits* seem to foreshadow more spiritual ideas.
 
 ### Footnotes
 
-<span id="fn_14"></span>[59:1](dlt05.htm#fr_14) Charles in *Encycl.
+<span id="fn_14"></span>[59:1](dlt05.htm#fr_14.md) Charles in *Encycl.
 Bibl.* ii. 1364.
 
-<span id="fn_15"></span>[60:1](dlt05.htm#fr_15) *Cf.* Oesterley and Box,
+<span id="fn_15"></span>[60:1](dlt05.htm#fr_15.md) *Cf.* Oesterley and Box,
 *The Religion and Worship of the Synagogue*, p. 224.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. The Antecedents of the Gospel Teaching. The
-Apocalyptic Literature: Introductory.](dlt06)
+Apocalyptic Literature: Introductory.](dlt06.md)

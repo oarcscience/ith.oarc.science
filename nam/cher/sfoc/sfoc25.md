@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc24)  [Next](sfoc26) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc24)  [Next](sfoc26.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ his efforts will be crowned with success.
 
 ------------------------------------------------------------------------
 
-[Next: Language of the Formulas](sfoc26)
+[Next: Language of the Formulas](sfoc26.md)

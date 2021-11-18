@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb26)  [Next](brfb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb26)  [Next](brfb28.md) 
 
 </div>
 
@@ -237,6 +237,6 @@ weeping at having lost in one moment both the ball and the prince.
 
 ------------------------------------------------------------------------
 
-[Next: Which was the Foolishest?](brfb28)
+[Next: Which was the Foolishest?](brfb28.md)
 
 </div>

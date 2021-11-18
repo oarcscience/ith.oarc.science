@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo40)  [Next](sdo42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo40)  [Next](sdo42.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ hour, during which some of the women began preparation for the feast.
 
 ------------------------------------------------------------------------
 
-[Next: Waving the Wands](sdo42)
+[Next: Waving the Wands](sdo42.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp10) [Next](onp12)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp10) [Next](onp12.md)
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp10) [N
 
 N<span class="small">ORWAY</span> enters into the full daylight of
 recorded history with King Harold, surnamed Fairhair<span
-id="fr_1"></span>[1](#note_1) (ca. 860-933), the son of Halvdan the
+id="fr_1"></span>[1](#note_1) (ca. 860-933.md), the son of Halvdan the
 Black, a petty king of Southeastern Norway. While still a youth, Harold
 after a bitter struggle with the independence-loving nobles brought the
 whole realm under his sway. The final victorious battle, against a
@@ -23,15 +23,15 @@ Isles and, chiefly, in Iceland.
  Among the engaging qualities of this masterful ruler must be reckoned
 his fondness for poetry. We are told in the reliable *Egils saga* that
 “of all his followers, he valued most his skalds,”<span
-id="fr_2"></span>[2](#note_2) thus probably initiating the tradition of
+id="fr_2"></span>[2](#note_2.md) thus probably initiating the tradition of
 court poets that lasted for centuries. In fact, he is said to have been
 a poet in his own right, like many of his successors. Several of his
 court poets are named in the sagas and represented by poems. Of
-Thórbiorn hornklofi’s<span id="fr_3"></span>[3](#note_3) personality we
+Thórbiorn hornklofi’s<span id="fr_3"></span>[3](#note_3.md) personality we
 know little, except that he was of high birth and “an old friend of
 kings, who had always been attached to their courts.” Two longer poems
 are attributed to him, the G*lymdrápa,*<span
-id="fr_4"></span>[4](#note_4) a lay apparently descriptive of Harold’s
+id="fr_4"></span>[4](#note_4.md) a lay apparently descriptive of Harold’s
 many battles before accomplishing the unification of Norway, thoroughly
 Skaldic in manner, which exists only in inconsiderable fragments; and
 the present poem, much simpler in style, which is given no name in the
@@ -39,9 +39,9 @@ sources. This, the *Haraldskvæthi* <span id="page_57">p. 57</span> or
 *Hrafnsmól,* as it has been called by some editors, is in a most
 deplorable condition.
 
- As here given<span id="fr_5"></span>[5](#note_5) it is pieced together
+ As here given<span id="fr_5"></span>[5](#note_5.md) it is pieced together
 from fragments found mainly in the large historical work called
-*Fagrskinna,*<span id="fr_6"></span>[6](#note_6) which contains a
+*Fagrskinna,*<span id="fr_6"></span>[6](#note_6.md) which contains a
 history of the Norwegian kings. There is considerable difficulty about
 the authorship of these portions, some editors considering stanzas 7 to
 11, in particular, as a separate poem dealing with the battle in the
@@ -55,7 +55,7 @@ about Harold’s deeds—naturally all warlike ones. For once, the scenes of
 carnage here described are individualized. There is grim Viking humor, a
 dramatic tension, a zest in these descriptions which one inevitably
 associates with a contemporary and participant.<span
-id="fr_7"></span>[7](#note_7) Upon her further questioning we are given
+id="fr_7"></span>[7](#note_7.md) Upon her further questioning we are given
 realistic, even coarse-grained, glimpses of Harold’s youth, his many
 marriages, and his life at court with berserkers, skalds, and jugglers.
 In all this, the poem is likely to have set the fashion; possibly also
@@ -287,7 +287,7 @@ their flapping fools’-caps they tuck fast in their belts—<br />
 
 ------------------------------------------------------------------------
 
-[Next](onp12)
+[Next](onp12.md)
 
 ------------------------------------------------------------------------
 
@@ -295,104 +295,104 @@ their flapping fools’-caps they tuck fast in their belts—<br />
 
 <span id="footnotes_page_56">p. 56</span>
 
-<span id="note_1"></span>[1](#fr_1) Concerning his name, cf. the
-[note](#note_27) on stanza 10.
+<span id="note_1"></span>[1](#fr_1.md) Concerning his name, cf. the
+[note](#note_27.md) on stanza 10.
 
-<span id="note_2"></span>[2](#fr_2) Their gratitude finds typical
+<span id="note_2"></span>[2](#fr_2.md) Their gratitude finds typical
 expression in stanza 19.
 
-<span id="note_3"></span>[3](#fr_3) This surname probably means
+<span id="note_3"></span>[3](#fr_3.md) This surname probably means
 “raven”—given him with reference, it may be, to his most famous poem.
 
-<span id="note_4"></span>[4](#fr_4) “War-alarum drápa (song of praise).”
+<span id="note_4"></span>[4](#fr_4) “War-alarum drápa (song of praise.md).”
 
 <span id="footnotes_page_57">p. 57</span>
 
-<span id="note_5"></span>[5](#fr_5) I follow Finnur Jónsson’s
+<span id="note_5"></span>[5](#fr_5.md) I follow Finnur Jónsson’s
 arrangement.
 
-<span id="note_6"></span>[6](#fr_6) “Beautiful skin (Parchment).”
+<span id="note_6"></span>[6](#fr_6) “Beautiful skin (Parchment.md).”
 
-<span id="note_7"></span>[7](#fr_7) To be sure, it has been observed
+<span id="note_7"></span>[7](#fr_7.md) To be sure, it has been observed
 that the king could not be said to reside on the estates of Útstein and
 Kvinnar until some time after the conquest of the districts in which
 they are located.
 
-<span id="note_8"></span>[8](#fr_8) Kenning for “warriors.”
+<span id="note_8"></span>[8](#fr_8.md) Kenning for “warriors.”
 
-<span id="note_9"></span>[9](#fr_9) As lovers or husbands. The line is
+<span id="note_9"></span>[9](#fr_9.md) As lovers or husbands. The line is
 difficult.
 
 <span id="footnotes_page_58">p. 58</span>
 
-<span id="note_10"></span>[10](#fr_10) According to *Grimnismól,* st.
+<span id="note_10"></span>[10](#fr_10.md) According to *Grimnismól,* st.
 40, the sky was made of the giant Hymir’s skull. The raven cleaves the
 sky in his flight.
 
-<span id="note_11"></span>[11](#fr_11) No such estate is known. Very
+<span id="note_11"></span>[11](#fr_11.md) No such estate is known. Very
 likely, the famous royal farm on Ogvaldsnes, on the island of Karm
 (Rogaland), near the present town of Haugesund, is meant.
 
-<span id="note_12"></span>[12](#fr_12) Adopting Finnur Jónsson’s
+<span id="note_12"></span>[12](#fr_12.md) Adopting Finnur Jónsson’s
 emendation.
 
-<span id="note_13"></span>[13](#fr_13) The awnings under which the crew
+<span id="note_13"></span>[13](#fr_13.md) The awnings under which the crew
 slept at night.
 
-<span id="note_14"></span>[14](#fr_14) *I.e.,* at sea.
+<span id="note_14"></span>[14](#fr_14.md) *I.e.,* at sea.
 
-<span id="note_15"></span>[15](#fr_15) The great banquet and reunion,
+<span id="note_15"></span>[15](#fr_15.md) The great banquet and reunion,
 called the “Yule-ale,” was held at the winter solstice.
 
-<span id="note_16"></span>[16](#fr_16) Frey is the god of fertility and
+<span id="note_16"></span>[16](#fr_16.md) Frey is the god of fertility and
 not associated with warfare. One should expect a valkyrie’s name; but as
 it happens the text is clear, and no valkyrie’s name begins with the
 alliterating F.
 
-<span id="note_17"></span>[17](#fr_17) Or “pillows.”
+<span id="note_17"></span>[17](#fr_17.md) Or “pillows.”
 
-<span id="note_18"></span>[18](#fr_18) “Goat-firth,” on the coast of the
+<span id="note_18"></span>[18](#fr_18.md) “Goat-firth,” on the coast of the
 old district of Rogaland in southwestern Norway.
 
-<span id="note_19"></span>[19](#fr_19) “The Fat”; which is supposed to
+<span id="note_19"></span>[19](#fr_19.md) “The Fat”; which is supposed to
 be the nickname for King Guthrœth of Agthir.
 
 <span id="footnotes_page_59">p. 59</span>
 
-<span id="note_20"></span>[20](#fr_20) That of the allies: owing to the
+<span id="note_20"></span>[20](#fr_20.md) That of the allies: owing to the
 lay of the land in Western Norway, “east” came frequently to be used for
 “south.”
 
-<span id="note_21"></span>[21](#fr_21) The warships of the Viking Age
+<span id="note_21"></span>[21](#fr_21.md) The warships of the Viking Age
 frequently had their stems and sterns carved in the likeness of a
 dragon’s head and tail. Hence the term “dragon-ship.”
 
-<span id="note_22"></span>[22](#fr_22) Both designations for fierce
+<span id="note_22"></span>[22](#fr_22.md) Both designations for fierce
 warriors; cf. *Hárbarthslióth,* 37, note.
 
-<span id="note_23"></span>[23](#fr_23) Harold, whose home dominions were
+<span id="note_23"></span>[23](#fr_23.md) Harold, whose home dominions were
 in southeastern Norway.
 
-<span id="note_24"></span>[24](#fr_24) This estate, like those mentioned
+<span id="note_24"></span>[24](#fr_24.md) This estate, like those mentioned
 above, is situated in southwestern Norway.
 
-<span id="note_25"></span>[25](#fr_25) Nokkvi is the name of a mythical
+<span id="note_25"></span>[25](#fr_25.md) Nokkvi is the name of a mythical
 sea-king; his steed, therefore, is the “ship.”
 
-<span id="note_26"></span>[26](#fr_26) “Long-chin” (or “Long One with
+<span id="note_26"></span>[26](#fr_26.md) “Long-chin” (or “Long One with
 the Harelip”); which is thought to be the nickname for Ólaf the White,
 famous Viking chief of Dublin.
 
-<span id="note_27"></span>[27](#fr_27) “Untidy shock of hair,” Harold’s
+<span id="note_27"></span>[27](#fr_27.md) “Untidy shock of hair,” Harold’s
 nickname. The legend tells that, when rejected by the fair Gytha, as not
 being the lord of all Norway, he made the vow neither to cut nor comb
 his hair till he had brought the whole land under his sway, or else
 died. But after he had fulfilled his vow, and had it cut and cleansed,
 he was called “Hairfair,” from his long silky hair.
 
-<span id="note_28"></span>[28](#fr_28) *I.e.,* in fleeing.
+<span id="note_28"></span>[28](#fr_28.md) *I.e.,* in fleeing.
 
-<span id="note_29"></span>[29](#fr_29) *Glathsheimr* “the shining
+<span id="note_29"></span>[29](#fr_29.md) *Glathsheimr* “the shining
 abode,” the dwelling of Óthin in Valholl (see *Grimnismól,* stanza 8),
 is here substituted by the translator for *Sváfnis salnæfrar*
 “the-shingles-of-Óthin’s-hall,” *i.e.,* the shields with which (*ibid*.,
@@ -400,55 +400,55 @@ stanza 9) the roof of Óthin’s hall is covered.
 
 <span id="footnotes_page_60">p. 60</span>
 
-<span id="note_30"></span>[30](#fr_30) The present Jæ(de)ren, the
+<span id="note_30"></span>[30](#fr_30) The present Jæ(de.md)ren, the
 southwesternmost district of Norway.
 
-<span id="note_31"></span>[31](#fr_31) *I.e.,* to be home again at their
+<span id="note_31"></span>[31](#fr_31.md) *I.e.,* to be home again at their
 ease; but the interpretation is doubtful.
 
-<span id="note_32"></span>[32](#fr_32) Óthin. Fulla, a hypostasis of
+<span id="note_32"></span>[32](#fr_32.md) Óthin. Fulla, a hypostasis of
 Frigg, his wife, is substituted here by the translator.
 
-<span id="note_33"></span>[33](#fr_33) *I.e.,* the ravens. There is the
+<span id="note_33"></span>[33](#fr_33.md) *I.e.,* the ravens. There is the
 suspicion that something is lacking after this line.
 
-<span id="note_34"></span>[34](#fr_34) The Danish princess who
+<span id="note_34"></span>[34](#fr_34.md) The Danish princess who
 superseded Harold’s many other wives.
 
-<span id="note_35"></span>[35](#fr_35) *I.e.,* the wolves.
+<span id="note_35"></span>[35](#fr_35.md) *I.e.,* the wolves.
 
-<span id="note_36"></span>[36](#fr_36) The meaning of this difficult
+<span id="note_36"></span>[36](#fr_36.md) The meaning of this difficult
 stanza is, that the Danish women can now no longer taunt Harold for not
 having fed the wolves on the carcasses of the slain, *i.e.,* for not
 being warlike. It has been supposed that stanzas 13 and 14 may be
 fragments of another poem.
 
-<span id="note_37"></span>[37](#fr_37) In order, these districts lie in
+<span id="note_37"></span>[37](#fr_37.md) In order, these districts lie in
 the southeast, the west, the east center, and the north, of Norway. The
 order has been changed here.
 
-<span id="note_38"></span>[38](#fr_38) The king.
+<span id="note_38"></span>[38](#fr_38.md) The king.
 
-<span id="note_39"></span>[39](#fr_39) Or, perhaps, the game referred to
+<span id="note_39"></span>[39](#fr_39.md) Or, perhaps, the game referred to
 in *Heithrek’s Riddles,* 26.
 
 <span id="footnotes_page_61">p. 61</span>
 
-<span id="note_40"></span>[40](#fr_40) Here, probably generalized names.
+<span id="note_40"></span>[40](#fr_40.md) Here, probably generalized names.
 
-<span id="note_41"></span>[41](#fr_41) It was by no means below the
+<span id="note_41"></span>[41](#fr_41.md) It was by no means below the
 dignity of warriors to ply the oars in warships; cf. the situation in
 *Atlamól hin grœnlænzku,* stanza 34. The oar moved against a tholepin
 and was secured by thongs.
 
-<span id="note_42"></span>[42](#fr_42) *I.e.,* the hilts, which were
+<span id="note_42"></span>[42](#fr_42.md) *I.e.,* the hilts, which were
 wound with silver wire.
 
-<span id="note_43"></span>[43](#fr_43) *I.e.,* the shirts of mail.
+<span id="note_43"></span>[43](#fr_43.md) *I.e.,* the shirts of mail.
 
 <span id="footnotes_page_62">p. 62</span>
 
-<span id="note_44"></span>[44](#fr_44) The valkyrie rather falls out of
+<span id="note_44"></span>[44](#fr_44.md) The valkyrie rather falls out of
 her rôle in asking about Harold’s jesters and jugglers. The raven voices
 the scorn generally felt, and expressed by the skalds, of the low
 buffoonery of these foreigners—for such they were generally—who competed

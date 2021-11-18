@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh02)  [Next](seh04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh02)  [Next](seh04.md) 
 
 ------------------------------------------------------------------------
 
@@ -334,7 +334,7 @@ identified herself with us that I never heard her use phrases like
 'Indian need' or Indian women': it was always 'our need,' 'our women.'
 She was never as an outsider who came to help, but one of us who was
 striving and groping about to find salvation." <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 It needs not to be said that this was the secret of her extraordinary
 power. India instinctively understands every form of renunciation, and
@@ -434,7 +434,7 @@ school in the university quarter. The quadrangle was densely crowded
 with youths and men, and on a dais was seated, alongside the symbolic
 *tulsi* plant, a *Katkak* (one of the last survivals of the ancient
 minstrels), who as we entered began a recital from the Ramayana. For an
-hour or so he continued, [declaiming](errata.htm#0) and intoning, while
+hour or so he continued, [declaiming](errata.htm#0.md) and intoning, while
 his hearers listened enrapt and a friendly interpreter explained to me,
 the one outsider present, the movement of the story. When the recital
 was finished Sister Nivedita rose to speak, without any preliminary (she
@@ -585,9 +585,9 @@ S. K. RATCLIFFE.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xx:1](seh03.htm#fr_0) Mrs. J. C. Bose, in the
+<span id="fn_0"></span>[xx:1](seh03.htm#fr_0.md) Mrs. J. C. Bose, in the
 *Modern Review* (Calcutta), November 1911.
 
 ------------------------------------------------------------------------
 
-[Next: A Few Tributes](seh04)
+[Next: A Few Tributes](seh04.md)

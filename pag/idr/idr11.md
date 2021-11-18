@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr10) 
-[Next](idr12) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr10.md) 
+[Next](idr12.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ German Belgæ of South Britain with having them.
 
 ------------------------------------------------------------------------
 
-[Next: Druidical Magic](idr12)
+[Next: Druidical Magic](idr12.md)

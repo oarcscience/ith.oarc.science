@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat01)  [Next](jat03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat01)  [Next](jat03.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ is the chairman.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Emergence](jat03)
+[Next: 1. The Emergence](jat03.md)

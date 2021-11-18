@@ -1,37 +1,37 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat23)  [Next](yat25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat23)  [Next](yat25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
 <span id="page_209">p. 209</span>
 
-# III. SUPPLEMENTARY YANA MYTHS  <span id="fr_148"></span>[329](#fn_144)
+# III. SUPPLEMENTARY YANA MYTHS  <span id="fr_148"></span>[329](#fn_144.md)
 
 ##### (COLLECTED By DR. R. B. DIXON)
 
-### I. THE CREATION OF MEN. <span id="fr_149"></span>[330](#fn_145)
+### I. THE CREATION OF MEN. <span id="fr_149"></span>[330](#fn_145.md)
 
 Lizard, Gray Squirrel, and Coyote lived in a big sweat-house at
-Wamā'rawi. <span id="fr_150"></span>[331](#fn_146) They had no wives or
+Wamā'rawi. <span id="fr_150"></span>[331](#fn_146.md) They had no wives or
 children. Coyote wanted to make people, but the others thought that they
 themselves were enough. Finally Lizard agreed, "We'll make people,
 different kinds of people." So Lizard went out and cut three sticks like
 gambling sticks. The others wanted to know how he was going to make
 people out of these. Lizard said, "I'll show you." One stick he took for
 the Hat Creeks (Tc‘unô'yāna), one for the Wintun (Yā'?wi), and one for
-the Pit Rivers (Wa‘djā'mi). <span id="fr_151"></span>[332](#fn_147) When
+the Pit Rivers (Wa‘djā'mi). <span id="fr_151"></span>[332](#fn_147.md) When
 he looked at them he said, "There is something lacking." Coyote asked,
 "Who has been left out?" Lizard said, "The Yana." So he took any kind of
 a stick, broke it up into little pieces, and put them in a pile for the
@@ -57,7 +57,7 @@ got up, then covered the door with a large rock to keep the people out.
 They did not talk or answer those outside. For a long time the people
 were talking. One called out, "Where is the door?" Coyote said, "Keep
 still, that talk does not sound right." <span
-id="fr_152"></span>[333](#fn_148) Others then spoke, asked also. Then
+id="fr_152"></span>[333](#fn_148.md) Others then spoke, asked also. Then
 Coyote said, "Now it sounds right," and then they opened the door. Then
 all the people came crowding in, all came into the sweat-house. Then the
 three said, "It is well. There are people."
@@ -66,7 +66,7 @@ three said, "It is well. There are people."
 
 ### Footnotes
 
-<span id="fn_144"></span>[209:329](yat24.htm#fr_148) Besides the two
+<span id="fn_144"></span>[209:329](yat24.htm#fr_148.md) Besides the two
 texts given above (nos. XXIII and XXIV) Dr. Dixon's manuscript Yana
 material comprises a number of myths obtained in English. These are here
 made accessible with Dr. Dixon's consent; only such changes have been
@@ -79,7 +79,7 @@ Chief's Entertainment," "The Bringing of Fire," "The First Death,"
 "‘I'lhat?aina" (first part), "Coyote and Frost," and "Coyote and his
 Sister." Dr. Dixon's informants were Sam Bat‘wī and Round Mountain Jack.
 
-<span id="fn_145"></span>[209:330](yat24.htm#fr_149) What is here given
+<span id="fn_145"></span>[209:330](yat24.htm#fr_149.md) What is here given
 is only the first episode of Dr. Dixon's myth of "The Creation of Men,"
 the other two dealing with the origin of sex and the making of hands by
 Lizard. Dr. Dixon's version of the making of the Yana and other tribes
@@ -91,14 +91,14 @@ years later. It is noteworthy that Dr. Dixon's "Creation of Men" does
 not include the origin of death; this was obtained by him as a separate
 myth.
 
-<span id="fn_146"></span>[209:331](yat24.htm#fr_150) See note 111.
+<span id="fn_146"></span>[209:331](yat24.htm#fr_150.md) See note 111.
 
-<span id="fn_147"></span>[209:332](yat24.htm#fr_151) literally,
+<span id="fn_147"></span>[209:332](yat24.htm#fr_151.md) literally,
 "dwelling-north."
 
-<span id="fn_148"></span>[210:333](yat24.htm#fr_152) That is, they had
+<span id="fn_148"></span>[210:333](yat24.htm#fr_152.md) That is, they had
 not yet learned to talk Yana correctly.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Contest of Fox and Coyote](yat25)
+[Next: II. The Contest of Fox and Coyote](yat25.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs50)  [Next](sfs52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs50)  [Next](sfs52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -154,7 +154,7 @@ dove!' But he slept as if he were dead, and heard nothing. Then,
 when they were about to fly away again, the one which had perched on his
 horse turned round, and said to his servant: When your master wakes up,
 tell him to roll the under peg on the upper, and then he will find
-me.' <span id="fr_13"></span>[\*](#fn_13) Then she flew off, and those
+me.' <span id="fr_13"></span>[\*](#fn_13.md) Then she flew off, and those
 from the lake after her. When they had flown away, he awoke again, and
 asked his servant: 'Did they come?' He replied: 'They did; and the one
 that had perched on your horse told me to tell you to roll the upper peg
@@ -403,10 +403,10 @@ the empress's dominions, and reigned honourably as long as they lived.
 
 ### Footnotes
 
-<span id="fn_13"></span>[191:\*](sfs51.htm#fr_13) I do not understand
+<span id="fn_13"></span>[191:\*](sfs51.htm#fr_13.md) I do not understand
 this expression. It is afterwards inverted by the servant. But it has no
 further bearing on the story.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIX. The Language of Animals](sfs52)
+[Next: XXXIX. The Language of Animals](sfs52.md)

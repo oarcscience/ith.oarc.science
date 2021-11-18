@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](facade) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](facade.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ Kuwait
 
 ------------------------------------------------------------------------
 
-[Next: Facade](facade)
+[Next: Facade](facade.md)

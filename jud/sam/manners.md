@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Samaritans](index)  [Previous](enlight2)  [Next](messiah) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Samaritans](index)  [Previous](enlight2)  [Next](messiah.md) 
 
 ------------------------------------------------------------------------
 
@@ -442,4 +442,4 @@ Literature*, under the article *Ezra.*
 
 ------------------------------------------------------------------------
 
-[Next: The Messianic Hope of the Samaritans](messiah)
+[Next: The Messianic Hope of the Samaritans](messiah.md)

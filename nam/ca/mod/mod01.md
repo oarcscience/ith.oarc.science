@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mod00)  [Next](mod02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mod00)  [Next](mod02.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ tradition.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Creation](mod02)
+[Next: The Story of the Creation](mod02.md)

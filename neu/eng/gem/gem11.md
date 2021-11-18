@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](gem10)  [Next](gem12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](gem10)  [Next](gem12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Histories of the Kings of Britain, by Geoffry of Monmouth*, tr. by
 Sebastian Evans, \[1904\], at Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ Greeks; Mustensar, King of the Africans; Alifantinas, King of Spain;
 Hirtacius, King of the Parthians; Bocchus of the Medes; Sertorius of
 Libya; Teucer, King of Phrygia; Serses, King of the Ituraeans;
 Pandrasus, King of Egypt; Micipsa, King of Babylon; Polytetes, Duke of
-Bithynia; Evander of Syria; Aethion of [Bœotia](errata.htm#3);
+Bithynia; Evander of Syria; Aethion of [Bœotia](errata.htm#3.md);
 Hippolytus of Crete, with the dukes and barons of their allegiance. Of
 the senatorial order, moreover, Lucius Catellus, Marius Lepidus, Caius
 Metellus Cotta, Quintus Milvius Catulus, Quintus Carutius, and so many
@@ -803,4 +803,4 @@ the Queen in despite of her former marriage.
 
 ------------------------------------------------------------------------
 
-[Next: Book XI](gem12)
+[Next: Book XI](gem12.md)

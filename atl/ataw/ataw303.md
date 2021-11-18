@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw302)  [Next](ataw304) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw302)  [Next](ataw304.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -225,7 +225,7 @@ ELEPHANT-TRUNK HEAD-DRESS, PALENQUE.</td>
 </table>
 
 the animal which they delineated." We copy the representation of this
-mound on [page 168](#img_16800).
+mound on [page 168](#img_16800.md).
 
 On a farm in Louisa County, Iowa, a pipe was ploughed up which also
 represents an elephant. We are indebted to the valuable work of John T.
@@ -242,7 +242,7 @@ In the ruined city of Palenque we find, in one of the palaces,
 
 a stucco bass-relief of a priest. His elaborate head-dress or helmet
 represents very faithfully the head of an elephant. The [cut on page
-169](#img_16900) is from a drawing made by Waldeck.
+169](#img_16900.md) is from a drawing made by Waldeck.
 
 The decoration known as "elephant-trunks" is found in many parts of the
 ancient ruins of Central America, projecting from above the door-ways of
@@ -261,4 +261,4 @@ MEXICAN REPRESENTATION OF ELEPHANT.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Corroborating Circumstances.](ataw304)
+[Next: Chapter IV: Corroborating Circumstances.](ataw304.md)

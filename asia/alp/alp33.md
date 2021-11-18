@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp32) 
-[Next](alp34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp32.md) 
+[Next](alp34.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ becoming a Christian.
 
 ------------------------------------------------------------------------
 
-[Next: Cradle Song](alp34)
+[Next: Cradle Song](alp34.md)

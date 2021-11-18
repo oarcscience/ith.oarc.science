@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale16)  [Next](tale18) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale16)  [Next](tale18.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ came to pass by doom of Fortune and Fate. For from what Destiny doth
 write there is neither refuge nor flight. Know, then, good my lords,"
 continued he, "that I am about to relate the
 
-(*Next*) [FIRST VOYAGE OF SINDBAD HIGHT THE SEAMAN](tale18)  
+(*Next*) [FIRST VOYAGE OF SINDBAD HIGHT THE SEAMAN](tale18.md)  

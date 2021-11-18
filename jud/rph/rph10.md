@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph09)  [Next](rph11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph09)  [Next](rph11.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,12 +15,12 @@
 Enthusiastic partisans of the Kabbalah declare it to have been brought
 down by angels from heaven to teach the first man, after his
 disobedience, the way to recover his primal nobility and bliss. <span
-id="fr_71"></span>[1](#fn_71) Others supposed that the lawgiver of the
+id="fr_71"></span>[1](#fn_71.md) Others supposed that the lawgiver of the
 Hebrews, during his forty days' stay on Mount Sinai, received it
 directly from God, that He transmitted it to seventy old men who partook
 with Him of the gifts of the Holy Spirit, and that these passed it on by
 word of mouth until the time when Ezra was given the order to transcribe
-it together with the Law. <span id="fr_72"></span>[2](#fn_72) But, no
+it together with the Law. <span id="fr_72"></span>[2](#fn_72.md) But, no
 matter how carefully we may read all the books of the Old Testament, we
 shall fail to find a single word which refers to secret teachings or to
 a doctrine more profound and more pure, reserved solely for a small
@@ -62,10 +62,10 @@ which have as yet not been published. These commentaries and new
 traditions, which multiplied prodigiously for more than three hundred
 years, were finally united under the name of Gemara ‏גמרא‎, i.e.
 termination and completion of the tradition. <span
-id="fr_73"></span>[3](#fn_73) It is, therefore, in these two
+id="fr_73"></span>[3](#fn_73.md) It is, therefore, in these two
 collections, religiously preserved since their formation until this day
 and united under the name of *Talmud*, <span
-id="fr_74"></span>[4](#fn_74) that we must, above all, search, if not
+id="fr_74"></span>[4](#fn_74.md) that we must, above all, search, if not
 for the very ideas which form the foundation of the Kabbalistic system,
 at least, for some data on the origin and epoch of their birth.
 
@@ -85,14 +85,14 @@ the chapters may be transmitted to him." ‏מוסרים לו ראשי פרקי�
 
 A rabbi of the Talmud, R. Zerah (ibid) is still more severe, for he adds
 that even the summaries of the chapters may be divulged only to men
-clothed with high dignity, or <span id="fr_75"></span>[5](#fn_75) known
+clothed with high dignity, or <span id="fr_75"></span>[5](#fn_75.md) known
 by their extreme prudence; or, to translate literally the original
 expression, "who carry within them a heart full of solicitude." ‏אין
 מוסרים ראשי פרקים אלא לאב בית דין ולכל מי שלבו דואג בקרבו‎
 
 Evidently this can not refer to the text of Genesis or to that of
 Ezekiel wherein the prophet tells of his vision on the banks of the
-river Hebar. <span id="fr_76"></span>[6](#fn_76) The entire Scriptures
+river Hebar. <span id="fr_76"></span>[6](#fn_76.md) The entire Scriptures
 were, so to speak, in the mouth of everybody; from time immemorial, the
 most scrupulous observers of all the traditions have made it their duty
 to read them through in their temples at least once during the year.
@@ -124,8 +124,8 @@ although a stranger to the Kabbalah, could not deny its existence--the
 first half, entitled "The Story of Genesis or of the Creation" (‏מעשה
 בראשית‎) taught the science of Nature, the second half called "The Story
 of the Chariot" (‏מעשה מרכבה‎) contained a treatise on theology. <span
-id="fr_77"></span>[7](#fn_77) This opinion was also accepted by all the
-Kabbalists. <span id="fr_78"></span>[8](#fn_78)
+id="fr_77"></span>[7](#fn_77.md) This opinion was also accepted by all the
+Kabbalists. <span id="fr_78"></span>[8](#fn_78.md)
 
 Here is another passage wherein the same fact is presented to us in a no
 less evident manner. "One day R. Johanan said to R. Eliezer: 'Come, I
@@ -142,7 +142,7 @@ and sacred science, it was not
 sufficient to be distinguished by intelligence and by eminent position,
 one had to attain also an advanced age; and even when all these
 conditions, equally observed by modern Kabbalists, <span
-id="fr_79"></span>[9](#fn_79) were fulfilled, one was not always so sure
+id="fr_79"></span>[9](#fn_79.md) were fulfilled, one was not always so sure
 of his intelligence or moral force to accept the burden of these
 formidable secrets, which were not absolutely without danger to the
 positive belief and to the other observance of religious law.
@@ -152,18 +152,18 @@ language which it afterwards explains. "The teachers taught: Four
 (persons) entered the garden of delight, namely: ben Azai, ben Zomah,
 Aher and R. Akkiba. Ben Azai looked around and died. To him may be
 applied the verse of the Scriptures: Precious <span
-id="fr_80"></span>[10](#fn_80) in the sight of the Lord is the death of
+id="fr_80"></span>[10](#fn_80.md) in the sight of the Lord is the death of
 his saints' (Psalm CXVI, 15). Ben Zoma also looked around and lost his
 reason. The Scriptures say of (such as) him: 'Hast thou found honey, eat
 so much as is sufficient for thee; lest thou be filled therewith and
 vomit it' (Prov. XXV, 16). Aher made ravages in the plantations. Akkiba
 entered in peace and came out in peace." <span
-id="fr_81"></span>[11](#fn_81)
+id="fr_81"></span>[11](#fn_81.md)
 
 This passage can not possibly be taken literally, in the sense that it
 refers to a material vision of the splendors of another life; for, above
 all, the Talmud never uses the purely mystical terms of the text quoted
-when speaking of Paradise. <span id="fr_82"></span>[12](#fn_82) For, how
+when speaking of Paradise. <span id="fr_82"></span>[12](#fn_82.md) For, how
 can we admit that a man could lose either faith or reason, as it
 happened to two of this legend, if, while still on earth, he had become
 aware of the heavenly powers awaiting the elect? We must, therefore,
@@ -174,28 +174,28 @@ agree with the best reputed authorities of the
 <span class="contnote">\[paragraph continues\]</span> Synagogue, that
 the Garden of Delight entered by the four doctors, is nothing else but
 the mysterious science spoken of before; <span
-id="fr_83"></span>[13](#fn_83) a science dangerous to weak
+id="fr_83"></span>[13](#fn_83.md) a science dangerous to weak
 intelligences, because it may lead them either to insanity or to errors
 more fatal than impiety. It is this last result that the Gemara wishes
 to indicate when it says in speaking of Aher, that he made ravages in
 the plantations. It tells us that this person, so famous in Talmudic
 narrations, was before this one of the wisest teachers in Israel; his
 real name was Elishah ben Abuah, which was substituted by Aher to
-indicate the change in him. <span id="fr_84"></span>[14](#fn_84) And, in
+indicate the change in him. <span id="fr_84"></span>[14](#fn_84.md) And, in
 fact, when he issued from the allegorical garden into which his fatal
 curiosity had led him, he became an open infidel. He abandoned himself,
 says the text, to the generation of evil <span
-id="fr_85"></span>[15](#fn_85) he lacked morals, betrayed his faith, led
+id="fr_85"></span>[15](#fn_85.md) he lacked morals, betrayed his faith, led
 a scandalous life, and some people even accused him of the murder of a
 child. Where, really, is his first error to be found? Whither have his
 researches into the most important secrets of religion led him? The
 Jerusalem Talmud plainly states that he recognized two supreme
-principles, <span id="fr_86"></span>[16](#fn_86) and the Babylonian
+principles, <span id="fr_86"></span>[16](#fn_86.md) and the Babylonian
 Talmud, from which we have taken the whole of this story, gives us to
 understand the same thing. It informs us that when Aher saw in the
 heavens the power of Metatron, the angel next to God, <span
-id="fr_87"></span>[17](#fn_87) he exclaimed: "Perhaps there are, far be
-it, two supreme powers." <span id="fr_88"></span>[18](#fn_88)
+id="fr_87"></span>[17](#fn_87.md) he exclaimed: "Perhaps there are, far be
+it, two supreme powers." <span id="fr_88"></span>[18](#fn_88.md)
 
 <span id="page_69">p. 69</span>
 
@@ -210,7 +210,7 @@ intelligible forms of the divine essence, and spirits, so pure, that
 they can not exercise any immediate action over material things. It has
 also been found that his name, interpreted in numbers (‏גימטריא‎) is no
 less than the synonym of the All-Mighty. <span
-id="fr_90"></span>[19](#fn_90)
+id="fr_90"></span>[19](#fn_90.md)
 
 The Kabbalah is undoubtedly, as we shall soon prove, much further
 removed from dualism than from that which is nowadays called in a
@@ -233,23 +233,23 @@ the majority, circulated freely enough inside the schools. "The
 <span id="page_70">p. 70</span>
 
 wise men," the text says, "taught it once a week to their sons and to
-their disciples." <span id="fr_91"></span>[20](#fn_91)
+their disciples." <span id="fr_91"></span>[20](#fn_91.md)
 
 The twelve-lettered name was originally still more widely known. "It was
 imparted to everybody. But when the number of the impious multiplied, it
 was entrusted to the most reticent among the priests, and these tried to
 make it inaudible by the singing of their brethren, the priests." <span
-id="fr_92"></span>[21](#fn_92) Finally, the name composed of forty-two
+id="fr_92"></span>[21](#fn_92.md) Finally, the name composed of forty-two
 letters was looked upon as the most holy of the mysteries. <span
-id="fr_93"></span>[22](#fn_93) "It was taught only to the one who was
+id="fr_93"></span>[22](#fn_93.md) "It was taught only to the one who was
 discreet, of ripe age, neither high-tempered, nor immoderate, nor
 stubborn, and who was gentle in his associations." <span
-id="fr_94"></span>[23](#fn_94) "He who has been instructed in this
+id="fr_94"></span>[23](#fn_94.md) "He who has been instructed in this
 secret," adds the Talmud, "and guards it with vigilance and a pure
 heart, may count on the love of God and on the favor of men; his name
 inspires respect, his knowledge is protected against oblivion, and he
 finds himself heir to two worlds, the world we now live in and the world
-to come." <span id="fr_95"></span>[24](#fn_95)
+to come." <span id="fr_95"></span>[24](#fn_95.md)
 
 Maimonides very ingeniously remarks that there is no name composed of
 forty-two letters in any language, and that this would be still more
@@ -258,7 +258,7 @@ alphabet. He, therefore, thought himself justified in concluding that
 the forty-two letters formed several words, each one of which expressed
 a definite idea or a fundamental attribute of the Supreme Being, and
 when taken all together, they formed the true definition of the divine
-essence. <span id="fr_96"></span>[25](#fn_96) The statement, continues
+essence. <span id="fr_96"></span>[25](#fn_96.md) The statement, continues
 the same author, that the name just spoken of embraced a study in
 itself, and that the knowledge thereof was entrusted to the wisest only,
 undoubtedly means that,
@@ -277,12 +277,12 @@ is, therefore, nothing but a small part of theology or metaphysics (‏קצת
 חכמה אלהית‎) and it is for this reason that it has been said to be proof
 against oblivion; for oblivion is not possible to ideas which have their
 seat in active intelligence, that is, in reason. <span
-id="fr_97"></span>[26](#fn_97)
+id="fr_97"></span>[26](#fn_97.md)
 
 It would be difficult not to yield to these reflections, recommended no
 less by the common sense of the free-thinker, as well as by profound
 science and the generally recognized authority of the Talmudists. <span
-id="fr_98"></span>[27](#fn_98) We shall add here one more observation,
+id="fr_98"></span>[27](#fn_98.md) We shall add here one more observation,
 undoubtedly of very questionable importance in the eyes of common sense,
 but which is not valueless to the order of ideas which these researches
 bear, and which we shall be obliged to accept as an historical fact: By
@@ -290,7 +290,7 @@ counting all the letters that compose the Hebrew names, the sacred,
 essential names of the ten Sefiroth of the Kabbalah, and by prefixing to
 the last name of the Sefiroth the conjunctive particle "v" (‏ו‎)--as it
 is done in all enumerations and in all languages--we obtain exactly the
-number 42. <span id="fr_99"></span>[28](#fn_99) Is it not, therefore,
+number 42. <span id="fr_99"></span>[28](#fn_99.md) Is it not, therefore,
 possible to think that this is the thrice holy name which even to the
 elite of the wise men was
 
@@ -324,7 +324,7 @@ shrouded its origin? It is this question which we shall now attempt to
 answer. In the opinion of the historians most worthy of our confidence,
 the editing of the Mishnah came to an end no later than the year 3949 of
 the creation, 189 years after the birth of Christ. <span
-id="fr_100"></span>[29](#fn_100) We must also bear in mind that Judah
+id="fr_100"></span>[29](#fn_100.md) We must also bear in mind that Judah
 the Holy did but collect the precepts and traditions transmitted to him
 by the Tannaim, his predecessors; the words cited at first by us, and
 which forbid the imprudent delivery of the secrets of the Creation and
@@ -353,7 +353,7 @@ ancient and most remarkable fragments of the Zohar--counts among the
 intimate friends and most fervent disciples of Simeon ben Yohai. It is
 evidently to him that the talmudic treatise, from which we have drawn
 the majority of our citations, attributes a knowledge of the holy
-Merkaba. <span id="fr_101"></span>[30](#fn_101) Among the number of
+Merkaba. <span id="fr_101"></span>[30](#fn_101.md) Among the number of
 authorities who testify to the antiquity, if not of the books, at least
 of the Kabbalistic ideas, we do not hesitate to count the Chaldaic
 translation of the Five Books of Moses by Onkelos.
@@ -372,7 +372,7 @@ believed they have found in it the foundation of Christianity. They
 maintained particularly that they had recognized the second divine
 person in the word Memra (‏מימרא‎), which really signifies the "word,"
 or the "thought," and which the translator has placed everywhere for the
-name of Jehovah. <span id="fr_102"></span>[31](#fn_102)
+name of Jehovah. <span id="fr_102"></span>[31](#fn_102.md)
 
 This much is certain, that there rules in this translation a spirit
 opposed to that of the Mishnah, of the Talmud, of common Judaism, and
@@ -384,7 +384,7 @@ show the divine attributes in their nakedness.
 
 At a time when the worship of the dead letter degenerated into idolatry;
 at a time when men passed their lives in counting the verses, the words
-and the letters of the Law; <span id="fr_103"></span>[32](#fn_103) at a
+and the letters of the Law; <span id="fr_103"></span>[32](#fn_103.md) at a
 time when the official preceptors, the legitimate representatives of
 religion, saw nothing better to do than to crush the intellect as well
 as the will under an always increasing mass of external practices, that
@@ -406,9 +406,9 @@ by changing the value of the letters, or better, by substituting one for
 the other according to a definite order, is frequently employed in the
 Talmud, and made use of in a translation older than the one just spoken
 of, namely, the Aramaic paraphrase of Jonathan ben Uzziel, <span
-id="fr_104"></span>[33](#fn_104) contemporary and disciple of Hillel the
+id="fr_104"></span>[33](#fn_104.md) contemporary and disciple of Hillel the
 Aged (‏הלל חזקן‎), who taught with great authority during the first
-years of the reign of Herod. <span id="fr_105"></span>[34](#fn_105)
+years of the reign of Herod. <span id="fr_105"></span>[34](#fn_105.md)
 
 To be sure, such procedures may serve equivocally the most diverse
 ideas; but men do not invent an artificial language, the key to which is
@@ -436,7 +436,7 @@ designate by the name of "Kabbalists," should not and can not be
 confounded with the Essenes, whose name was already known at a much
 earlier epoch, but who still preserved their customs and beliefs until
 some time under the reign of Justinian. <span
-id="fr_106"></span>[35](#fn_106) In fact, if we refer to Josephus, (De
+id="fr_106"></span>[35](#fn_106.md) In fact, if we refer to Josephus, (De
 Bello Jud., 8, I), and Philo, (De vita contemplativa, in his collected
 works), the only ones deserving confidence on this point, the aim of
 this famous sect was essentially a moral and practical one; it
@@ -478,34 +478,34 @@ found to be untrue to these habits of prudence.
 
 ### Footnotes
 
-<span id="fn_71"></span>[63:1](rph10.htm#fr_71) See Reuchlin, de Arte
+<span id="fn_71"></span>[63:1](rph10.htm#fr_71.md) See Reuchlin, de Arte
 Cabalistica, fol. 9, 10, ed. Hagenau.
 
-<span id="fn_72"></span>[63:2](rph10.htm#fr_72) Pico de la Mirandola,
+<span id="fn_72"></span>[63:2](rph10.htm#fr_72.md) Pico de la Mirandola,
 Apology, p. 116 et sequ. tome I.
 
-<span id="fn_73"></span>[64:3](rph10.htm#fr_73) I believe that the root
+<span id="fn_73"></span>[64:3](rph10.htm#fr_73.md) I believe that the root
 ‏גמר‎ in ‏גמרא‎ is to be taken not in the biblical sense, perficit, but
 in the talmudical sense, didicit, docuit. ‏גמרא‎ is, accordingly, but
 the pure Aramaic expression for the synonym ‏תלמור‎.--Jellinek.
 
-<span id="fn_74"></span>[64:4](rph10.htm#fr_74) ‏תלמור‎, i.e. the study
+<span id="fn_74"></span>[64:4](rph10.htm#fr_74.md) ‏תלמור‎, i.e. the study
 of the science.
 
-<span id="fn_75"></span>[65:5](rph10.htm#fr_75) I digressed here from
+<span id="fn_75"></span>[65:5](rph10.htm#fr_75.md) I digressed here from
 the original text which has "et," because the talmudical passage quoted
 by the author does not intend to refer both requirements to the same
 person. According to another variation of this talmudical passage, where
 instead of ‏ולבל‎ ,‏והוא מי‎ is read, the translation of the author is
 justified.--Jellinek.
 
-<span id="fn_76"></span>[65:6](rph10.htm#fr_76) Compare the commentaries
+<span id="fn_76"></span>[65:6](rph10.htm#fr_76.md) Compare the commentaries
 of Rashi and of the Tosaphoth to that Mishnah--Jellinek.
 
-<span id="fn_77"></span>[66:7](rph10.htm#fr_77) Morah Nebuhim, pref.
+<span id="fn_77"></span>[66:7](rph10.htm#fr_77.md) Morah Nebuhim, pref.
 ‏מעשה בראשית הוא חכמת הטבע, ומעשה מרכבה היא חכמת האלהות‪.‫‎
 
-<span id="fn_78"></span>[66:8](rph10.htm#fr_78) That by ‏מעשה בראשית‎
+<span id="fn_78"></span>[66:8](rph10.htm#fr_78.md) That by ‏מעשה בראשית‎
 was understood a theory of cosmogony similar to that of the Zohar, is
 evident also from a Gemara passage to the quoted Mishnah. "R. Eliezer
 said: Adam reached primarily from earth to heaven; but after he sinned,
@@ -514,87 +514,87 @@ smaller. ‏אמר רבי אלעזר ארם הראשון מן הארץ עד לר
 הקב״ת יגין עלין ומיעמו‪.‫‎ (Haggiga, fol. 12a). Compare Zohar, Part III,
 fol. 83b. Sec.: ‏כיון דהטא אתחשד ואזעיר נרמיה‎--Jellinek.
 
-<span id="fn_79"></span>[67:9](rph10.htm#fr_79) They are not permitted
+<span id="fn_79"></span>[67:9](rph10.htm#fr_79.md) They are not permitted
 to read the Zohar or other Kabbalistic books before they reach the age
 of forty.
 
-<span id="fn_80"></span>[67:10](rph10.htm#fr_80) According to the
+<span id="fn_80"></span>[67:10](rph10.htm#fr_80.md) According to the
 literal conception of this Talmudical passage, should have been
 translated by "heavy," "heavily," "disagreeable." Compare Rashi to the
 same passage.--Jellinek.
 
-<span id="fn_81"></span>[67:11](rph10.htm#fr_81) Tractat Haggiga, 14b.
+<span id="fn_81"></span>[67:11](rph10.htm#fr_81.md) Tractat Haggiga, 14b.
 
-<span id="fn_82"></span>[67:12](rph10.htm#fr_82) Paradise is always
+<span id="fn_82"></span>[67:12](rph10.htm#fr_82.md) Paradise is always
 called ‏נן עדן‎ (the Garden of Eden), or the World to Come (‏עולם הבא‎);
 while here the word ‏פרדס‎ (Pardes) is used, which the modern Kabbalists
 have also consecrated to their science.
 
-<span id="fn_83"></span>[68:13](rph10.htm#fr_83) In hac Gemara neque
+<span id="fn_83"></span>[68:13](rph10.htm#fr_83.md) In hac Gemara neque
 Paradisus neque ingredi ilium ad litteram exponendum est, sed potius de
 subtili et coelesti cognitione, secundum quam magistri arcanum opus
 currus intellexerunt, Deum ejusque palabra de Dios es su escritura; y la
 consideration de Dios es su majestatem scrutando invenire cupiverunt.--;
 Huttinger, Discur. Gemaricus, p. 97.)
 
-<span id="fn_84"></span>[68:14](rph10.htm#fr_84) The literal meaning of
+<span id="fn_84"></span>[68:14](rph10.htm#fr_84.md) The literal meaning of
 the word Aher (‏אחר‎) is another, another man.
 
-<span id="fn_85"></span>[68:15](rph10.htm#fr_85) In the Talmud really:
+<span id="fn_85"></span>[68:15](rph10.htm#fr_85.md) In the Talmud really:
 ‏נפק לתרבות רעה‎ or ‏יצא‎--Jellinek-
 
-<span id="fn_86"></span>[68:16](rph10.htm#fr_86) ‏שחשב שיש שתי
+<span id="fn_86"></span>[68:16](rph10.htm#fr_86.md) ‏שחשב שיש שתי
 רשויות‪.‫‎
 
-<span id="fn_87"></span>[68:17](rph10.htm#fr_87) ‏מטטרון‎ is apparently
+<span id="fn_87"></span>[68:17](rph10.htm#fr_87.md) ‏מטטרון‎ is apparently
 composed of the two Greek words μετὰ θρόνος. According to the
 Kabbalists, the angel who bears this name really presides over the world
 of Yetzirah, or the world of Spheres which comes immediately after the
 world of pure spirits, the world Beriah, called the Throne of Glory,
 (‏כסא חכבוד‎), or simply the Throne (‏כורסייא‎).
 
-<span id="fn_88"></span>[68:18](rph10.htm#fr_88) ‏שמא הס ושלום שתי
-רשויות הן‎  <span id="fr_89"></span>[a](#fn_89)
+<span id="fn_88"></span>[68:18](rph10.htm#fr_88.md) ‏שמא הס ושלום שתי
+רשויות הן‎  <span id="fr_89"></span>[a](#fn_89.md)
 
-<span id="fn_89"></span>[68:a](rph10.htm#fr_89) <span id="page_69">p.
+<span id="fn_89"></span>[68:a](rph10.htm#fr_89.md) <span id="page_69">p.
 69</span> I adopted here the version of Dr. Jellinek rather than that of
 the author, as coming nearer to the meaning of the original Hebrew
 text.--Transl.
 
-<span id="fn_90"></span>[69:19](rph10.htm#fr_90) The word Metatron
+<span id="fn_90"></span>[69:19](rph10.htm#fr_90.md) The word Metatron
 (‏מטטרון‎) like the word Shaddai (‏שדי‎) which is translated by
 "Almighty," results in the number 314.
 
-<span id="fn_91"></span>[70:20](rph10.htm#fr_91) ‏שם בן ארבע אותיות
+<span id="fn_91"></span>[70:20](rph10.htm#fr_91.md) ‏שם בן ארבע אותיות
 הכמים טמרו איתי לבניהם ותלטידיהם פעםאחת בשבוע‪.‫‎
 
-<span id="fn_92"></span>[70:21](rph10.htm#fr_92) Babyl. Talmud, Tract.
+<span id="fn_92"></span>[70:21](rph10.htm#fr_92.md) Babyl. Talmud, Tract.
 Berachoth and Maimonides, Moreh Nebuhim, Part I, ch. 62.
 
-<span id="fn_93"></span>[70:22](rph10.htm#fr_93) ‏שם בן ארבעים ושתים
+<span id="fn_93"></span>[70:22](rph10.htm#fr_93.md) ‏שם בן ארבעים ושתים
 אותיות קרוש וטקודש‪.‫‎ Ib. supr.
 
-<span id="fn_94"></span>[70:23](rph10.htm#fr_94) ‏ואין מוסרים אותו אלא
+<span id="fn_94"></span>[70:23](rph10.htm#fr_94.md) ‏ואין מוסרים אותו אלא
 למי שצנוע ועומד בחצי ימיו ואינו מזעם ואינו משתכר ואינו מעמיד על מדותיו
 ודוברו בנהת עם הבריות.‎ Ib. supr.
 
-<span id="fn_95"></span>[70:24](rph10.htm#fr_95) Ib. supr.
+<span id="fn_95"></span>[70:24](rph10.htm#fr_95.md) Ib. supr.
 
-<span id="fn_96"></span>[70:25](rph10.htm#fr_96) Maimonides, Moreh
+<span id="fn_96"></span>[70:25](rph10.htm#fr_96.md) Maimonides, Moreh
 Nebuhim. ‏ואין ספק שהמלות ההם מורים על ענינים בהכרח הענינים ההם יקרבו
 לאמתת ציור עצמו יתעלה‪.‫‎
 
-<span id="fn_97"></span>[71:26](rph10.htm#fr_97) Ib. l.c. ‏וכבר התבאר
+<span id="fn_97"></span>[71:26](rph10.htm#fr_97.md) Ib. l.c. ‏וכבר התבאר
 בספרים המחוברים בחכטה האלהות שזאת החכמה אי אפשר לשבחה ו״ל השנת השכל
 הפועל.‎
 
-<span id="fn_98"></span>[71:27](rph10.htm#fr_98) Maimonides is not only
+<span id="fn_98"></span>[71:27](rph10.htm#fr_98.md) Maimonides is not only
 the author of the philosophic work entitled "Moreh Nebuhim," he has also
 composed under the title of "The Strong Hand" (‏יד הזקה‎) a great
 talmudical work which is to this day the indispensable manual of the
 rabbis.
 
-<span id="fn_99"></span>[71:28](rph10.htm#fr_99) Here are the names and
+<span id="fn_99"></span>[71:28](rph10.htm#fr_99.md) Here are the names and
 the figures which indicate the number of their letters:
 
 <div align="center">
@@ -606,22 +606,22 @@ the figures which indicate the number of their letters:
 
 </div>
 
-<span id="fn_100"></span>[72:29](rph10.htm#fr_100) See "Shalsheleth
+<span id="fn_100"></span>[72:29](rph10.htm#fr_100.md) See "Shalsheleth
 ha-Kabbalah, or the Chain of Tradition," by R. Gedalya, p. 23b, and
 David Gans' "Zemach David," p. 23a.
 
-<span id="fn_101"></span>[73:30](rph10.htm#fr_101) ‏ר׳ יוסי יודע במרכבה
+<span id="fn_101"></span>[73:30](rph10.htm#fr_101.md) ‏ר׳ יוסי יודע במרכבה
 הקדישה‪.‫‎
 
-<span id="fn_102"></span>[74:31](rph10.htm#fr_102) See especially
+<span id="fn_102"></span>[74:31](rph10.htm#fr_102.md) See especially
 Rittangel's commentary and translation of the "Sefer Yetzirah," p. 84.
 
-<span id="fn_103"></span>[74:32](rph10.htm#fr_103) Babyl. Talmud, Tract.
+<span id="fn_103"></span>[74:32](rph10.htm#fr_103.md) Babyl. Talmud, Tract.
 Kidushin, 30a. From this, according to the Talmudists, comes the word
 ‏סופר‎ which really means "to count," but which is translated by
 "Scribe."
 
-<span id="fn_104"></span>[75:33](rph10.htm#fr_104) We refer here to the
+<span id="fn_104"></span>[75:33](rph10.htm#fr_104.md) We refer here to the
 Kabbalistic alphabet called Ath Bash, ‏את בש,‎, because it consists in
 giving to the first letter Aleph, ‏א‎, the value of the last letter
 Thau, ‏ת‎, and again reciprocally, in replacing the second letter Beth,
@@ -639,14 +639,14 @@ often repeated. However, this translation was preserved by St. Jerome
 (see his works, 5. IV, "Commentary on the Book of Jeremiah") and by
 Rashi.
 
-<span id="fn_105"></span>[75:34](rph10.htm#fr_105) See Shalsheleth
+<span id="fn_105"></span>[75:34](rph10.htm#fr_105.md) See Shalsheleth
 ha-Kabbalah, fol. 18, a and b, and Zemach David, fol. 19a, Amsterdam
 edition.
 
-<span id="fn_106"></span>[76:35](rph10.htm#fr_106) Peter Beer, part I,
+<span id="fn_106"></span>[76:35](rph10.htm#fr_106.md) Peter Beer, part I,
 p. 88.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. The Kabbalistic Books. Authenticity of the Sefer
-Yetzirah](rph11)
+Yetzirah](rph11.md)

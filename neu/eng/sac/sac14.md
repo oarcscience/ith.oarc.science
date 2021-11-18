@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac13)  [Next](sac15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac13)  [Next](sac15.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ the "azimuths" already referred to and others which are to follow may be
 fully understood.
 
 There is another matter, at which I hinted on pp.
-[36](sac08.htm#page_36) and [42](sac08.htm#page_42). We have to inquire
+[36](sac08.htm#page_36) and [42](sac08.htm#page_42.md). We have to inquire
 whether there are any stones or barrows marking the direction of the
 rising or setting of stars, as well as those which deal with the rising
 and setting of the sun at different times of the year, which we have
@@ -158,7 +158,7 @@ Having then true azimuths, the next question concerns. the declinations
 of the stars which may have been observed.
 
 The work of Stockwell in America, Danckworth in Germany, <span
-id="fr_18"></span>[1](#fn_18) and Dr. W. J. S. Lockyer in England, has
+id="fr_18"></span>[1](#fn_18.md) and Dr. W. J. S. Lockyer in England, has
 provided us with tables of the changing declinations of stars throughout
 past time, or enough of it for our purpose.
 
@@ -213,7 +213,7 @@ assumption of hills ½° high:
 
 [![FIG. 33.—Diagram from finding declination from given amplitudes of
 azimuth in British latitudes](tn/fig33.jpg)  
-Click to enlarge](img/fig33.jpg)  
+Click to enlarge](img/fig33.jpg.md)  
 FIG. 33.—Diagram from finding declination from given amplitudes of
 azimuth in British latitudes  
 
@@ -248,7 +248,7 @@ follows:—
 
 </div>
 
-On [Fig. 35](#img_fig35), dealing with the Southern stars, the names are
+On [Fig. 35](#img_fig35.md), dealing with the Southern stars, the names are
 given along the curves.
 
  
@@ -274,7 +274,7 @@ follows for the critical
 
 [![FIG. 34.—Declinations of Northern Stars from 250 A.D. to 2150
 B.C.](tn/fig34.jpg)  
-Click to enlarge](img/fig34.jpg)  
+Click to enlarge](img/fig34.jpg.md)  
 FIG. 34.—Declinations of Northern Stars from 250 A.D. to 2150 B.C.  
 
 <span id="page_116">p. 116</span>
@@ -283,7 +283,7 @@ FIG. 34.—Declinations of Northern Stars from 250 A.D. to 2150 B.C.
 
 [![FIG. 35.—Declinations of Southern Stars from 250 A.D. to 2150
 B.C.](tn/fig35.jpg)  
-Click to enlarge](img/fig35.jpg)  
+Click to enlarge](img/fig35.jpg.md)  
 FIG. 35.—Declinations of Southern Stars from 250 A.D. to 2150 B.C.  
 
 α Ceti, α Aquarii, β Orionis, α Capricorni, α Canis Majoris, α Scorpii,
@@ -314,7 +314,7 @@ as in Grecian temples.
 
 ### Footnotes
 
-<span id="fn_18"></span>[111:1](sac14.htm#fr_18) Dr. O. Danckworth,
+<span id="fn_18"></span>[111:1](sac14.htm#fr_18.md) Dr. O. Danckworth,
 *Vierteljahrschrift der Astronomischen Gesellschaft*, 16 Jahrgang 1881,
 p. 9. Dr: Stockwell's results have been communicated to me by letter.
 Some, but not all, of Dr. Lockyer's calculations appeared in *The Dawn
@@ -323,4 +323,4 @@ of Astronomy*.
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. Astronomical Hints for
-Archæologists—Continued](sac15)
+Archæologists—Continued](sac15.md)

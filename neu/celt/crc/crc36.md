@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc35)  [Next](crc37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc35)  [Next](crc37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Intangible Textual Heritage
 ### <span class="smallcaps">The Muster of the Men of Ireland Here</span>
 
 Ailill Mac Matae sang that night before the battle, and said: 'Arise,
-arise,' etc. <span id="fr_114"></span>[2](#fn_109)
+arise,' etc. <span id="fr_114"></span>[2](#fn_109.md)
 
 As for Cuchulainn, this is what is told here now.
 
@@ -55,13 +55,13 @@ manifest like the rest.'
 
 ### Footnotes
 
-<span id="fn_109"></span>[133:2](crc36.htm#fr_114) Here follows a list
+<span id="fn_109"></span>[133:2](crc36.htm#fr_114.md) Here follows a list
 of names.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Battle on Garach and Irgarach](crc37)
+[Next: The Battle on Garach and Irgarach](crc37.md)
 
 </div>

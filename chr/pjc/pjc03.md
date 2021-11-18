@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc02)  [Next](pjc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc02)  [Next](pjc04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -466,7 +466,7 @@ believed was the cause of the pain in her hands and feet, for she did
 not dare to think that her prayer had been granted. Often she was unable
 to walk, and the pain in her hands prevented her from working as usual
 in the garden. On the 3d December 1811, the convent was
-suppressed, <span id="fr_4"></span>[1](#fn_4) and the church closed. The
+suppressed, <span id="fr_4"></span>[1](#fn_4.md) and the church closed. The
 nuns dispersed in all directions, but Anne Catherine remained, poor and
 ill. A kindhearted servant belonging to the monastery attended upon her
 out of charity, and an aged emigrant priest, who said Mass in the
@@ -1338,7 +1338,7 @@ obstinate and hardened heretics. I saw and felt in this manner every
 wound and its signification. The body reached up to heaven. It was the
 body of the Bride of Christ, and most painful to behold. I wept
 bitterly, but feeling at once deeply grieved and strengthened by sorrow
-and [compassion](errata.htm#0), I began again to labour with all my
+and [compassion](errata.htm#0.md), I began again to labour with all my
 strength.'
 
 Sinking beneath the weight of life and of the task imposed upon her she
@@ -1783,9 +1783,9 @@ spot where her mortal remains lie awaiting the Day of Resurrection.
 
 ### Footnotes
 
-<span id="fn_4"></span>[27:1](pjc03.htm#fr_4) Under the Government of
+<span id="fn_4"></span>[27:1](pjc03.htm#fr_4.md) Under the Government of
 Jerome Bonaparte. King of Westphalia. (Abbé Cazalès)
 
 ------------------------------------------------------------------------
 
-[Next: To the Reader](pjc04)
+[Next: To the Reader](pjc04.md)

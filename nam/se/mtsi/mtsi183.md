@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi182)  [Next](mtsi184) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi182)  [Next](mtsi184.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ squirrels.
 
 ------------------------------------------------------------------------
 
-[Next: 48. A War Between the Alabama and the Choctaw](mtsi184)
+[Next: 48. A War Between the Alabama and the Choctaw](mtsi184.md)

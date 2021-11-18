@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt29)  [Next](pyt31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt29)  [Next](pyt31.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,4 +187,4 @@ Isis;
 
 ------------------------------------------------------------------------
 
-[Next: 28. A Litany of Ascension, Utterance 539](pyt31)
+[Next: 28. A Litany of Ascension, Utterance 539](pyt31.md)

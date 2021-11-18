@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh26)  [Next](ulh28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh26)  [Next](ulh28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -47,14 +47,14 @@ its most frenzied manifestations.
 
 <div style="margin-left: 32px">
 
-Pa au i ka ihe a Kane; <span id="fr_331"></span>[a](#fn_325)  
-Nana ka maka ia Koolau; <span id="fr_332"></span>[b](#fn_326)  
-Kau ka opua <span id="fr_333"></span>[c](#fn_327) ma ka moana.  
-Lu’u a e-a, lu’u a e-a, <span id="fr_334"></span>[d](#fn_328)  
+Pa au i ka ihe a Kane; <span id="fr_331"></span>[a](#fn_325.md)  
+Nana ka maka ia Koolau; <span id="fr_332"></span>[b](#fn_326.md)  
+Kau ka opua <span id="fr_333"></span>[c](#fn_327.md) ma ka moana.  
+Lu’u a e-a, lu’u a e-a, <span id="fr_334"></span>[d](#fn_328.md)  
 5 Hiki i Wai-ko-loa.  
 Aole loa ke kula  
-I ka pai-lani a Kane. <span id="fr_335"></span>[e](#fn_329)  
-Ke kane <span id="fr_336"></span>[e](#fn_329) ia no hoi ia  
+I ka pai-lani a Kane. <span id="fr_335"></span>[e](#fn_329.md)  
+Ke kane <span id="fr_336"></span>[e](#fn_329.md) ia no hoi ia  
 Ka hula pe-pe’e
 
 </div>
@@ -162,28 +162,28 @@ originally.
 
 ### Footnotes
 
-<span id="fn_325"></span>[183:a](ulh27.htm#fr_331) *Ihe a Kane*. The
+<span id="fn_325"></span>[183:a](ulh27.htm#fr_331.md) *Ihe a Kane*. The
 spear of Kane. What else can this be than that old enemy to man's peace
 and comfort, love, passion?
 
-<span id="fn_326"></span>[183:b](ulh27.htm#fr_332) *Koolau*. The name
+<span id="fn_326"></span>[183:b](ulh27.htm#fr_332.md) *Koolau*. The name
 applied to the weather side of an island; the direction in which one
 would naturally turn first to judge of the weather.
 
-<span id="fn_327"></span>[183:c](ulh27.htm#fr_333) *Opua*. A bunch of
+<span id="fn_327"></span>[183:c](ulh27.htm#fr_333.md) *Opua*. A bunch of
 clouds; a cloud-omen; a heavenly phenomenon; a portent. In this case it
 probably means a lover. The present translation is founded on this view.
 
-<span id="fn_328"></span>[183:d](ulh27.htm#fr_334) *Lu’u a e-a*. To dive
+<span id="fn_328"></span>[183:d](ulh27.htm#fr_334.md) *Lu’u a e-a*. To dive
 and then come up to take breath, as one does in swimming out to sea
 against the incoming breakers, or as one might do in escaping from a
 pursuer, or in avoiding detection, after the manner of a loon.
 
-<span id="fn_329"></span>[183:e](ulh27.htm#fr_336) *A Kane* and *Ke
+<span id="fn_329"></span>[183:e](ulh27.htm#fr_336.md) *A Kane* and *Ke
 kane*. Instances of word-repetition, previously mentioned as a fashion
 much used in Hawaiian poetry. See instances also of the same figure in
 lines 13 and 14 and in lines 16 and 17.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV.--The Hula Pele](ulh28)
+[Next: XXIV.--The Hula Pele](ulh28.md)

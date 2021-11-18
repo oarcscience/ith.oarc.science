@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb21)  [Next](lifb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb21)  [Next](lifb23.md) 
 
 </div>
 
@@ -170,6 +170,6 @@ From 'Folk Lore,' by A. F. Mackenzie.
 
 ------------------------------------------------------------------------
 
-[Next: The Sea King's Gift](lifb23)
+[Next: The Sea King's Gift](lifb23.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd10)  [Next](bsd12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd10)  [Next](bsd12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -62,7 +62,7 @@ were taught and learned with utmost care. Table manners grew to be a
 science. Tea serving and drinking were raised to ceremony. A man of
 education is, of course, expected to be master of all these. Very fitly
 does Mr. Veblen, in his interesting book, <span
-id="fr_11"></span>[1](#fn_11) call decorum "a product and an exponent of
+id="fr_11"></span>[1](#fn_11.md) call decorum "a product and an exponent of
 the leisure-class life."
 
 I have heard slighting remarks made by Europeans upon our elaborate
@@ -113,7 +113,7 @@ words, that by constant exercise in correct manners, one brings all the
 parts and faculties of his body into perfect order and into such harmony
 with itself and its environment as to express the mastery of spirit over
 the flesh. What a new and deep significance the French word
-*biensèance* <span id="fr_12"></span>[1](#fn_12), comes to contain.
+*biensèance* <span id="fr_12"></span>[1](#fn_12.md), comes to contain.
 
 <span id="page_55">p. 55</span>
 
@@ -145,7 +145,7 @@ little room, shut off from sight and sound of the madding crowd, is in
 itself conducive to direct one's thoughts from the world. The bare
 interior does not engross one's attention like the innumerable pictures
 and bric-a-brac of a Western parlour; the presence of *kakémono* <span
-id="fr_13"></span>[1](#fn_13) calls our attention more to grace of
+id="fr_13"></span>[1](#fn_13.md) calls our attention more to grace of
 design than to beauty of colour. The utmost refinement of taste is the
 object aimed at; whereas anything like display is banished with
 religious horror. The very fact that it was invented by a contemplative
@@ -236,15 +236,15 @@ sincerity.
 
 ### Footnotes
 
-<span id="fn_11"></span>[52:1](bsd11.htm#fr_11) *Theory of the Leisure
+<span id="fn_11"></span>[52:1](bsd11.htm#fr_11.md) *Theory of the Leisure
 Class*, N. Y., 1899, p. 46.
 
-<span id="fn_12"></span>[54:1](bsd11.htm#fr_12) Etymologically,
+<span id="fn_12"></span>[54:1](bsd11.htm#fr_12.md) Etymologically,
 well-seatedness.
 
-<span id="fn_13"></span>[56:1](bsd11.htm#fr_13) Hanging scrolls, which
+<span id="fn_13"></span>[56:1](bsd11.htm#fr_13.md) Hanging scrolls, which
 may be either paintings or ideograms, used for decorative purposes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Veracity and Sincerity](bsd12)
+[Next: Chapter VII: Veracity and Sincerity](bsd12.md)

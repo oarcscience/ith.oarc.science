@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index) [Christianity](../index)
-[Pilgrim's Progress](../bunyan/index)  
-[Index](index) [Previous](chap05) [Next](chap07)
+[Intangible Textual Heritage](../../index) [Christianity](../index.md)
+[Pilgrim's Progress](../bunyan/index.md)  
+[Index](index) [Previous](chap05) [Next](chap07.md)
 
 ------------------------------------------------------------------------
 
@@ -330,4 +330,4 @@ long as hope was possible, that good might come out of the Stuarts.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Life and Death of Mr. Badman](chap07)
+[Next: Chapter VII. Life and Death of Mr. Badman](chap07.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai03)  [Next](kwai05) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai03)  [Next](kwai05.md) 
 
 ------------------------------------------------------------------------
 
@@ -170,4 +170,4 @@ thereafter remained.
 
 ------------------------------------------------------------------------
 
-[Next: Ubazakura](kwai05)
+[Next: Ubazakura](kwai05.md)

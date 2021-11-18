@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo64)  [Next](hoo66) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo64)  [Next](hoo66.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Of counsels impious, arrogant, and base. 20
 
 ------------------------------------------------------------------------
 
-[Next: LXI: To Justice](hoo66)
+[Next: LXI: To Justice](hoo66.md)

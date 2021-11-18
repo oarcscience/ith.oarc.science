@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](boo02)  [Next](boo04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](boo02)  [Next](boo04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9P0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9P0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Odes*, by L. Cranmer-Byng, \[1908\], at Intangible Textual
 Heritage
 
@@ -31,7 +31,7 @@ remains among us after many generations. He is the model for such as
 would be wise. By all, from the Son of Heaven down to the meanest
 student, the supremacy of his principles is fully and freely admitted.
 He may, indeed, be pronounced the divinest of men." <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 This is the tribute of Ssŭ-Ma Ch’ien, the author of the first great
 History of China, who lived in the first century before Christ. Many
@@ -72,7 +72,7 @@ in thought. Confucius, on seeing his son, addressed him thus—
 He replied, "Not yet."
 
 "Then," said Confucius, "if you do not learn the Odes, you will not be
-fit to converse with." <span id="fr_1"></span>[\*](#fn_1)
+fit to converse with." <span id="fr_1"></span>[\*](#fn_1.md)
 
 <span id="page_7">p. 7</span>
 
@@ -254,7 +254,7 @@ falling dynasty.
 
 I have put, or tried to put, these poems back into poetry. Four of these
 pieces have been exquisitely rendered by my friend Mr. Allen Upward, and
-speak for themselves. <span id="fr_2"></span>[\*](#fn_2) As regards my
+speak for themselves. <span id="fr_2"></span>[\*](#fn_2.md) As regards my
 own reasons for rendering Chinese poetry into English verse, I am
 content to shelter myself behind the great authority and judgment of Sir
 John Davis, who, in his "Poetry of the Chinese," contends that "verse
@@ -277,16 +277,16 @@ L. <span class="smallcaps">Cranmer-Byng</span>.
 
 ### Footnotes
 
-<span id="fn_0"></span>[5:\*](boo03.htm#fr_0) "Gems of Chinese
+<span id="fn_0"></span>[5:\*](boo03.htm#fr_0.md) "Gems of Chinese
 Literature," by Herbert Giles (Quaritch).
 
-<span id="fn_1"></span>[6:\*](boo03.htm#fr_1) "Confucianism and Taoism,"
+<span id="fn_1"></span>[6:\*](boo03.htm#fr_1.md) "Confucianism and Taoism,"
 by Sir Robert Douglas (S.K.C.K.)
 
-<span id="fn_2"></span>[13:\*](boo03.htm#fr_2) Namely:—"The Prayer of
+<span id="fn_2"></span>[13:\*](boo03.htm#fr_2.md) Namely:—"The Prayer of
 Ching," p. 25; "Through Eastern Gates," p. 30; "The Pear-Tree," p. 34;
 "Blue Collar," p. 39.
 
 ------------------------------------------------------------------------
 
-[Next: The Deserted Wife](boo04)
+[Next: The Deserted Wife](boo04.md)

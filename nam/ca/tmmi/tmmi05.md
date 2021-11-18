@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](tmmi04)  [Next](tmmi06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](tmmi04)  [Next](tmmi06.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ one of the family, a young woman, died.
 
 ------------------------------------------------------------------------
 
-[Next: The Pauma Luiseño Story of Dakwish](tmmi06)
+[Next: The Pauma Luiseño Story of Dakwish](tmmi06.md)

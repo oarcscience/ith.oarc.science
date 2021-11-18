@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das06)  [Next](das08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das06)  [Next](das08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -60,7 +60,7 @@ ability, has held the office almost from the founding of the town. The
 other, settling later, simply announced that he was mayor. Both
 officials have a following of political supporters.
 
-Nathaniel John Lewis, <span id="fr_12"></span>[1](#fn_12) the first
+Nathaniel John Lewis, <span id="fr_12"></span>[1](#fn_12.md) the first
 mayor, has a neat little one-room dwelling behind a board fence. As he
 politely apologized for not being at his best, a certain amount of
 schooling was evident in his speech, which was extremely soft, slow, and
@@ -69,21 +69,21 @@ about conjure or spells.
 
 "Cunjuh?" he repeated. "That's what is wrong with this ahm of mine. As I
 sit heah, I know that my enemy brought about this
-affliction. [15](das26.htm#xref_15) One night two, three yeahs ago, I
+affliction. [15](das26.htm#xref_15.md) One night two, three yeahs ago, I
 put out my hand to open my gate. Pain went into my palm jus like stabbin
 with a shahp needle. This ahm has been no use since then."
 
 "Perhaps it is rheumatism?" we suggested.
 
 "No, sir. It isn't. I know. An cunjuh must be fought with
-cunjuh. [6](das26.htm#xref_6) If I know my enemy's name I could get
+cunjuh. [6](das26.htm#xref_6.md) If I know my enemy's name I could get
 somethin frum a cunjuh doctuh to help me seek revenge. But I am
 helpless."
 
 "What would the doctor do about it?" we asked.
 
 "The toe nails, the finguh nails, even the scrapins frum the bottom of
-the foot are all very powuhful. [10](das26.htm#xref_10) If the doctuh
+the foot are all very powuhful. [10](das26.htm#xref_10.md) If the doctuh
 could get any of these frum my enemy, he would mix them in whiskey an
 make my enemy drink. That is all."
 
@@ -104,7 +104,7 @@ snake's mouth when he is hungry, she would foam. But she couldn't eat."
 
 "No. It was predicted that she would have a spell put on uh to die by
 fyuh and sho enough one night she was burned to death with the snakes
-still inside uh." [15](das26.htm#xref_15)
+still inside uh." [15](das26.htm#xref_15.md)
 
 "But how were the snakes given to her?"
 
@@ -118,7 +118,7 @@ ferns, which showed careful cultivation.
 
 "You like my gahden?" Lewis said mournfully. "That's all I can think of,
 my gahden. Theah's a bush out theah that's goin to protect me frum any
-othuh enemies. [34](das26.htm#xref_34) Nobody can cunjuh me now because
+othuh enemies. [34](das26.htm#xref_34.md) Nobody can cunjuh me now because
 of that bush. If only I'd had a little piece of that plant befo, Hattie
 would be alive an me well an strong. But I kept puttin off goin to get a
 piece. You have to go to the woods in the dahk of night an find it faw
@@ -130,31 +130,31 @@ a melancholy look around his meagerly furnished domain, "I should've had
 it befo. My enemy has even prevented me from gettin on relief."
 
 Lewis showed us his single treasured book, which he said contained magic
-art. <span id="fr_13"></span>[1](#fn_13)
+art. <span id="fr_13"></span>[1](#fn_13.md)
 
 "This book has helped me some," he said, "but I didn't
 
 <span id="page_14">p. 14</span>
 
 really need it. I was birthed with my wisdom because I was the seventh
-child an bawn with a caul." [4](das26.htm#xref_4)
+child an bawn with a caul." [4](das26.htm#xref_4.md)
 
 We asked if he could see and talk with spirits.
 
-"I see them," he said simply. [54](das26.htm#xref_54),
- [55](das26.htm#xref_55), [59](das26.htm#xref_59) "Theah is a little
+"I see them," he said simply. [54](das26.htm#xref_54.md),
+ [55](das26.htm#xref_55), [59](das26.htm#xref_59.md) "Theah is a little
 ghos that stays right roun this house. The firs night I moved in heah he
 walked right in an jumped on me. I managed to throw him off. Now he
 comes every night. Sometimes he stands at the gate with his feet so high
 off the groun," measuring about a foot, "an his face is turned
-backwards, [57](das26.htm#xref_57) but he can always see you. I don't
+backwards, [57](das26.htm#xref_57.md) but he can always see you. I don't
 talk to him any aw try to come close, because he would hahm me aw cause
 me to hahm myself. I jus pass him by as if he wasn't theah. But I see
 him.
 
 "I know theah must be buried treasure wheah this house is built, fuh
 wheahevuh theah is money aw othuh treasure a ghos is put theah to gahd
-it. [61](das26.htm#xref_61) One time I went out to Deptford with two
+it. [61](das26.htm#xref_61.md) One time I went out to Deptford with two
 othuh men to dig up a pot of money that I knew was buried theah. I saw
 three spirits, one man an two women. We dug and dug an finally we could
 see the pot of money. Jus then one of the women laughed, 'Ha! Ha! Ha!'',
@@ -168,14 +168,14 @@ me, but I wouldn't try to get it. It is bad luck. That spirit warned me.
 I can. Theah's an old woman on Gwinnett Street with some cows. Othuh
 people don't know it, but she's the worse kind of witch. Not very long
 ago she came and rode a woman heah in Tin City and sucked uh
-blood. [69c](das26.htm#xref_69c) You ought to see that woman. She's so
+blood. [69c](das26.htm#xref_69c.md) You ought to see that woman. She's so
 thin and weak she can't stand up."
 
 "But isn't there some way to keep witches out?" we asked.
 
 "Yes, you can lay a bruhmstick cross the doe befo night an they can't
 come in. A little salt is good. They don't take to
-salt." [69a](das26.htm#xref_69a)
+salt." [69a](das26.htm#xref_69a.md)
 
 Then he insisted on returning to the subject of his magic book. We
 evinced the proper interest and he showed us a strange recipe jotted
@@ -192,7 +192,7 @@ salt--1 box
 
 "That's a cunjuh mixin," the old man explained. "I don't know what it's
 faw. It was in the book when Joe Fraser, a root
-doctuh, [48](das26.htm#xref_48) gave it to me."
+doctuh, [48](das26.htm#xref_48.md) gave it to me."
 
 "Where is Joe Fraser?"
 
@@ -207,7 +207,7 @@ the roof.
 
 From the doorway of one of the little tin houses, two heads peered out
 curiously at us. We stopped and talked for a few minutes with Paul
-Singleton <span id="fr_14"></span>[1](#fn_14) and his wife.
+Singleton <span id="fr_14"></span>[1](#fn_14.md) and his wife.
 
 The old man told us that he had been born during slavery times on a
 plantation near Darien. His master had owned about thirty-five
@@ -222,7 +222,7 @@ bout fifty slabes on bode. Duh slabe runnuhs tie rocks roun duh slabes'
 necks and tro um ovuhbode tuh drown. Dey say yuh kin heah um moanin an
 groanin in duh creek ef yuh goes neah deah tuh-day.
 
-"I bin seein ghos all muh life. [59](das26.htm#xref_59) One time a ghos
+"I bin seein ghos all muh life. [59](das26.htm#xref_59.md) One time a ghos
 try tuh skeah me an uh git mad and den he leab me. Muh fus wife is dead,
 an muh second wife heah kin see uh come roun mos any time. She kin see
 any uh duh kin folks wut dead.
@@ -233,14 +233,14 @@ any uh duh kin folks wut dead.
 one uh duh dead folks standin at duh head bode uh deah grabe. Den dey
 settle down an disappeah."
 
-Mose Brown <span id="fr_15"></span>[1](#fn_15) who lived near by told
-us, "I bin rid by witches [69](das26.htm#xref_69) an seed a thousandn mo
-ghos. [59](das26.htm#xref_59) I see um mos any time. Dey jis float long
+Mose Brown <span id="fr_15"></span>[1](#fn_15.md) who lived near by told
+us, "I bin rid by witches [69](das26.htm#xref_69.md) an seed a thousandn mo
+ghos. [59](das26.htm#xref_59.md) I see um mos any time. Dey jis float long
 bout two feet frum duh groun. Sometime dey come in a wirlwin.
 
 "One day at duh rosin yahd deah come up a wirlwin. I see a big wite man
 in it. I show im tuh duh udduh men but dey dohn see im. I kin see im cuz
-uh wuz bawn wid a double caul [4](das26.htm#xref_4) an foot foemos. Dat
+uh wuz bawn wid a double caul [4](das26.htm#xref_4.md) an foot foemos. Dat
 gib yuh duh powuh tuh see um. A ghos come heah ebry night an peep in duh
 soouh obuh deah. He look in duh soouh, walk tuh duh cawnuh, an den
 disappeah. Any night I'm on dis stoop I kin see im.
@@ -251,20 +251,20 @@ so hahd, dey jis fret an fret. One day dey wuz standin wid some udduh
 slabes an all uh a sudden dey say, 'We gwine back tuh Africa. So goodie
 bye, goodie bye.' Den dey flied right out uh sight."
 
-"No, I nebuh see no ghos, but uh kin feel em," [59](das26.htm#xref_59)
+"No, I nebuh see no ghos, but uh kin feel em," [59](das26.htm#xref_59.md)
 said another resident of the community. This was Emma Monroe, <span
-id="fr_16"></span>[2](#fn_16) an elderly woman who had formerly been a
+id="fr_16"></span>[2](#fn_16.md) an elderly woman who had formerly been a
 slave on a plantation known as Wilton Bluff Plantation. "Wen a ghos is
 roun muh haiah rise up on muh head an sumpm tech me an uh feel strange
 all tru. It's duh same wen witches is roun. Deah's plenty folks roun yuh
-duh witches ride. [69](das26.htm#xref_69) Dey kin git in yuh house nebuh
+duh witches ride. [69](das26.htm#xref_69.md) Dey kin git in yuh house nebuh
 mine how yuh shut up.
 
 "Duh ole folks use tuh tell us chillun duh story bout people dat flied
-off tuh Africa. [69c](das26.htm#xref_69c) I blieb um bout flyin. Some
+off tuh Africa. [69c](das26.htm#xref_69c.md) I blieb um bout flyin. Some
 folks kin wuk roots too. Dey hab duh powuh tuh lay down sumpm tuh hahm
-yuh, [15](das26.htm#xref_15) an udduhs hab duh powuh tuh moob wut dey
-done put down fuh yuh. [6](das26.htm#xref_6) I ain nebuh bin rooted yit,
+yuh, [15](das26.htm#xref_15.md) an udduhs hab duh powuh tuh moob wut dey
+done put down fuh yuh. [6](das26.htm#xref_6.md) I ain nebuh bin rooted yit,
 cuz I stay way frum sech people.
 
 "One ting I do blieb in is signs. Ef yuh watch signs, dey alluz mean
@@ -280,50 +280,50 @@ strange lan aw go tuh duh grabeyahd. Dogs an chickens an buds all make
 signs dat mean sumpm. Ef somebody is comin, a roostuh come right up tuh
 duh doe an crow. Ef a dog sets up a howlin, somebody in duh neighbuhhood
 gwine die. A screech owl screechin roun tells yuh somebody neah by gwine
-die." [44](das26.htm#xref_44)
+die." [44](das26.htm#xref_44.md)
 
-Christine Nelson, <span id="fr_17"></span>[1](#fn_17) a middle-aged
+Christine Nelson, <span id="fr_17"></span>[1](#fn_17.md) a middle-aged
 Negro woman, admitted that she, too, believed in witches and ghosts and
 that she knew there was a good deal of conjuring going on in the
-neighborhood. [15](das26.htm#xref_15)
+neighborhood. [15](das26.htm#xref_15.md)
 
 "Cunjuh is magic some folks is bawn wid," she explained. "It gibs um
-powuh obuh tings udduh folks dohn unnuhstan. [22a](das26.htm#xref_22a),
- [22e](das26.htm#xref_22e) Dey kin wuk dat powuh fuh good aw bad. Dey
+powuh obuh tings udduh folks dohn unnuhstan. [22a](das26.htm#xref_22a.md),
+ [22e](das26.htm#xref_22e.md) Dey kin wuk dat powuh fuh good aw bad. Dey
 kin put spells on yuh an lif duh spell some udduh root wukuh hab put on
-yuh. [6](das26.htm#xref_6) Ef a root wukuh break yuh spirit, he kin hanl
+yuh. [6](das26.htm#xref_6.md) Ef a root wukuh break yuh spirit, he kin hanl
 yuh lak he want tuh. A witch is a cunjuh man dat somebody paid tuh
 tawment yuh. I know uh folks dat wuz rid so much by witches dat dey jis
-pine way an die." [69b](das26.htm#xref_69b)
+pine way an die." [69b](das26.htm#xref_69b.md)
 
 The case of a man who had been conjured was described to us by James
-Moore. <span id="fr_18"></span>[2](#fn_18) "He jis mope roun--couldn git
+Moore. <span id="fr_18"></span>[2](#fn_18.md) "He jis mope roun--couldn git
 spirit nuff tuh wuk. Den all uh a sudden he swell up an duh doctuhs
-couldn tell wut ail im. We tink he gonuh die. [15](das26.htm#xref_15)
-Den long come a man we call Professuh. [48](das26.htm#xref_48) He say ef
-we kin git any money he kin lif duh spell. [6](das26.htm#xref_6) We git
+couldn tell wut ail im. We tink he gonuh die. [15](das26.htm#xref_15.md)
+Den long come a man we call Professuh. [48](das26.htm#xref_48.md) He say ef
+we kin git any money he kin lif duh spell. [6](das26.htm#xref_6.md) We git
 some money tuhgedduh and he go out in duh stable an wen he come back he
 hab a lill black sack. He say dis hab duh cunjuh in
-it. [8a](das26.htm#xref_8a),  [8h](das26.htm#xref_8h) Den he bile up
+it. [8a](das26.htm#xref_8a),  [8h](das26.htm#xref_8h.md) Den he bile up
 some mullen leaves and bathe muh frien in um. He tell us tuh keep on
 doin dis. In two weeks duh swellin go down an he all right. Deah's root
 men wukin gense yuh all duh time. Dey kin lay tings down fuh yuh an ef
 yuh walk obuh dis, yuh fall unduh duh spell. Less yuh kin fine somebody
-else wut kin wuk roots an kin lif duh spell, [6](das26.htm#xref_6) yuh
+else wut kin wuk roots an kin lif duh spell, [6](das26.htm#xref_6.md) yuh
 is doomed.
 
-"I kin see duh spirits uh people fo dey die. [59a](das26.htm#xref_59a)
+"I kin see duh spirits uh people fo dey die. [59a](das26.htm#xref_59a.md)
 Duh spirit is most lak duh natchul pusson but wen I see it I know dat
 duh pusson will soon die. Attuh a pusson die, I see duh
 
 <span id="page_18">p. 18</span>
 
-ghos [56](das26.htm#xref_56) an sometime dey is lak
-animals, [54](das26.htm#xref_54) and den agen lak people, jis floatin
+ghos [56](das26.htm#xref_56.md) an sometime dey is lak
+animals, [54](das26.htm#xref_54.md) and den agen lak people, jis floatin
 long lak a piece uh papuh in duh win. Sometime dey hab no head aw feet
 an dey's alluz dressed in wite.
 
-"Witches done ride me plenty times. [69](das26.htm#xref_69) I spicioned
+"Witches done ride me plenty times. [69](das26.htm#xref_69.md) I spicioned
 who dey wuz but nebuh could ketch one. Dey alluz tun out tuh be somebody
 right in yuh neighbuhhood. Yuh kin keep em away by puttin sulphuh roun
 yuh house aw by placin a knife aw a Bible unduh yuh pilluh.
@@ -333,31 +333,31 @@ fo muh eyes. Jis go right out uh sight. Dey do say dat people brought
 frum Africa in slabery times could disappeah an fly right back tuh
 Africa. Frum duh tings I see mysef I blieb dat dey could do dis."
 
-Ozie Cohen <span id="fr_19"></span>[1](#fn_19) said that he too saw the
+Ozie Cohen <span id="fr_19"></span>[1](#fn_19.md) said that he too saw the
 spirits of people just before they were about to
-die. [59a](das26.htm#xref_59a) He told us, "Not long ago a frien uh mine
+die. [59a](das26.htm#xref_59a.md) He told us, "Not long ago a frien uh mine
 wuz sick. Duh night befo he die I see his spirit floatin long befo me in
 duh street. Duh nex day he pass away. Eben aftuh some uh muh friens die,
-I see deah spirits nuff tuh know em. [56](das26.htm#xref_56)
+I see deah spirits nuff tuh know em. [56](das26.htm#xref_56.md)
 
 "Hags worry me too. I see um slide in from noweah. I try tuh call out,
-den all at once I'm hepless an strugglin. [69](das26.htm#xref_69) Ef I
+den all at once I'm hepless an strugglin. [69](das26.htm#xref_69.md) Ef I
 membuh tuh put a Bible unduh muh pilluh, dey dohn bodduh me.
 
 "I hab heahd duh story bout folks flyin back tuh Africa. I tink it mus
 be true wen I tink bout how witches kin come tru a keyhole
-tuhday. [69c](das26.htm#xref_69c)
+tuhday. [69c](das26.htm#xref_69c.md)
 
-"Yuh heah lots bout roots an fixin. [15](das26.htm#xref_15) Folks is
+"Yuh heah lots bout roots an fixin. [15](das26.htm#xref_15.md) Folks is
 alluz sayin somebody bin rooted mos anytime somebody git sick fuh a long
 spell. Den yuh heah dem sayin, duh sickness ain feah. Dey bin rooted."
 
 Down one long lane and up another we came upon the two or three-room
 dwelling of the second mayor, George Boddison, <span
-id="fr_20"></span>[2](#fn_20) built on the banks of the old rice canal.
+id="fr_20"></span>[2](#fn_20.md) built on the banks of the old rice canal.
 Boddison came out of his home to meet us. His wrists and arms were
 encircled by copper wire strung with good luck
-charms; [8](das26.htm#xref_8) his fingers were covered with several
+charms; [8](das26.htm#xref_8.md) his fingers were covered with several
 large plain rings. A copper wire was bound around his head and attached
 to this wire
 
@@ -375,7 +375,7 @@ beliefs and superstitions.
 "I hab a deep suspicious mine dat way muhsef. I know deah is luck an
 unluck an some people kin wuk it. it's a science in mos ebryting dey
 does. Dey kin swap yuh frum good luck place tuh bad luck
-place." [15](das26.htm#xref_15)
+place." [15](das26.htm#xref_15.md)
 
 "Has anyone tried to harm you?"
 
@@ -386,18 +386,18 @@ uh caahn wuk. Den I know strong currents is directed tuh do me ebil. If
 dey res on me, uh would be sick, maybe die. But deze dat I weahs,"
 indicating the copper wire, the mirrors, and the other charms, "keeps
 all deze tings frum huttn me. Duh ebil caahn dwell on me. It hab tuh
-pass on. [12a](das26.htm#xref_12a),  [12c](das26.htm#xref_12c),
- [12d](das26.htm#xref_12d)
+pass on. [12a](das26.htm#xref_12a),  [12c](das26.htm#xref_12c.md),
+ [12d](das26.htm#xref_12d.md)
 
 "Many tings kin be done tuh cause people hahm aw make em disability," he
 went on. "Dis is wut I hab confidence in. A pusson kin take sech as a
 cat aw dog aw a lizud, sech creatures as libin. Dey kin kill dis animal
 an dey hab some way tuh cause its spirit tuh be ebil. Dis spirit moobs
 on currents tuh somebody duh pusson do not lak an is so powuhful dat it
-cause eben duh flesh tuh rot. [5](das26.htm#xref_5)
+cause eben duh flesh tuh rot. [5](das26.htm#xref_5.md)
 
 "So I weahs deze," he ended. "Long as I weahs em deah is nuttn kin do me
-reel hahm." [8](das26.htm#xref_8)
+reel hahm." [8](das26.htm#xref_8.md)
 
 When we thanked him, he did not smile but only bowed his head. To the
 end of the interview he kept his dignified and serious demeanor.
@@ -411,34 +411,34 @@ the fragments of mirror bound to his head glittering in the sun.
 
 ### Footnotes
 
-<span id="fn_12"></span>[12:1](das07.htm#fr_12) Nathaniel John Lewis,
+<span id="fn_12"></span>[12:1](das07.htm#fr_12.md) Nathaniel John Lewis,
 Tin City.
 
-<span id="fn_13"></span>[13:1](das07.htm#fr_13) W. de Laurence, "The
+<span id="fn_13"></span>[13:1](das07.htm#fr_13.md) W. de Laurence, "The
 Book of Magical Art, Hindu Magic and East Indian Occultism." Chicago:
 The de Laurence Company, Twelfth Edition, Revised, 1914.
 
-<span id="fn_14"></span>[15:1](das07.htm#fr_14) Paul Singleton, Tin
+<span id="fn_14"></span>[15:1](das07.htm#fr_14.md) Paul Singleton, Tin
 City.
 
-<span id="fn_15"></span>[16:1](das07.htm#fr_15) Mose Brown, Tin City.
+<span id="fn_15"></span>[16:1](das07.htm#fr_15.md) Mose Brown, Tin City.
 
-<span id="fn_16"></span>[16:2](das07.htm#fr_16) Emma Monroe, Tin City.
+<span id="fn_16"></span>[16:2](das07.htm#fr_16.md) Emma Monroe, Tin City.
 
-<span id="fn_17"></span>[17:1](das07.htm#fr_17) Christine Nelson, Tin
+<span id="fn_17"></span>[17:1](das07.htm#fr_17.md) Christine Nelson, Tin
 City.
 
-<span id="fn_18"></span>[17:2](das07.htm#fr_18) James Moore, Tin City.
+<span id="fn_18"></span>[17:2](das07.htm#fr_18.md) James Moore, Tin City.
 
-<span id="fn_19"></span>[18:1](das07.htm#fr_19) Ozie Cohen, Tin City.
+<span id="fn_19"></span>[18:1](das07.htm#fr_19.md) Ozie Cohen, Tin City.
 
-<span id="fn_20"></span>[18:2](das07.htm#fr_20) George Boddison, Tin
+<span id="fn_20"></span>[18:2](das07.htm#fr_20.md) George Boddison, Tin
 City.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Yamacraw](das08)
+[Next: Yamacraw](das08.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [Previous](../oth/oth)  [Next](../raj/raj) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [Previous](../oth/oth)  [Next](../raj/raj.md) 
 
 ------------------------------------------------------------------------
 
@@ -3881,4 +3881,4 @@ Index](../index)  [Previous](../oth/oth)  [Next](../raj/raj) 
 
 ------------------------------------------------------------------------
 
-[Next: Romeo and Juliet](../raj/raj) 
+[Next: Romeo and Juliet](../raj/raj.md) 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aar03)  [Next](aar05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aar03)  [Next](aar05.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ status, passes to another and a younger.
 
 Magical dancing still goes on in Europe to-day. In Swabia and among the
 Transylvanian Saxons it is a common custom, says Dr. Frazer, <span
-id="fr_4"></span>[1](#fn_4) for a man who has some hemp to leap high in
+id="fr_4"></span>[1](#fn_4.md) for a man who has some hemp to leap high in
 the field in the belief that this will make the hemp grow tall. In many
 parts of Germany and Austria the peasant thinks he can make the flax
 grow tall by dancing of leaping high or by jumping backwards from a
@@ -196,7 +196,7 @@ does the *dromenon*, the *rite done*, pass over into the *drama*?
 The genius of the Greek language *felt*, before it consciously *knew*,
 the difference. This feeling ahead for distinctions is characteristic of
 all languages, as has been well shown by Mr. Pearsall Smith <span
-id="fr_5"></span>[1](#fn_5) in another manual of our series. It is an
+id="fr_5"></span>[1](#fn_5.md) in another manual of our series. It is an
 instinctive process arising independently of reason, though afterwards
 justified by it. What, then, is the distinction between art and ritual
 which the genius of the
@@ -449,12 +449,12 @@ child's-play.
 
 ### Footnotes
 
-<span id="fn_4"></span>[31:1](aar04.htm#fr_4) These instances are all
+<span id="fn_4"></span>[31:1](aar04.htm#fr_4.md) These instances are all
 taken from *The Golden Bough*.<sup>3</sup> *The Magic Art*, I, 139 *ff*.
 
-<span id="fn_5"></span>[37:1](aar04.htm#fr_5) "The English Language,"
+<span id="fn_5"></span>[37:1](aar04.htm#fr_5.md) "The English Language,"
 *Home University Library*, p. 28.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Seasonal Rites: The Spring Festival](aar05)
+[Next: Chapter III. Seasonal Rites: The Spring Festival](aar05.md)

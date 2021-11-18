@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph82)  [Next](sph84) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph82)  [Next](sph84.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 Ἕστι μοι κάλα πάισ χρυσίοισιν ἀνθέμοισιν  
 ἐμφέρην ἔχοισα μόρφαν, Κλῆισ ἀγαπάτα,  
 ἀντι τᾶσ ἔγω οὐδὲ Λυδίαν παῖσαν οὐδ᾽
-ἔρανναν. [\[transcription\]](xlatall.htm#105)
+ἔρανναν. [\[transcription\]](xlatall.htm#105.md)
 
 I have a fair daughter with a form like golden flowers, Cleis the
 belovedest whom I cherish more than all Lydia or lovely \[Lesbos\].
@@ -23,4 +23,4 @@ Quoted and commented upon by Hephaestion.
 
 ------------------------------------------------------------------------
 
-[Next: 83: From all joy to me...](sph84)
+[Next: 83: From all joy to me...](sph84.md)

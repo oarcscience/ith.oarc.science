@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi197)  [Next](mtsi199) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi197)  [Next](mtsi199.md) 
 
 ------------------------------------------------------------------------
 
-### 62. THE MONSTER (79) <span id="fr_49"></span>[1](#fn_49)
+### 62. THE MONSTER (79) <span id="fr_49"></span>[1](#fn_49.md)
 
 A man and his two children lived together in one house. The older son
 planted a peach tree. He went away and said, "If I die that peach tree
@@ -53,9 +53,9 @@ the man who had killed the monster took the chief's daughter.
 
 ### Footnotes
 
-<span id="fn_49"></span>[164:1](mtsi198.htm#fr_49) A garbled fairy story
+<span id="fn_49"></span>[164:1](mtsi198.htm#fr_49.md) A garbled fairy story
 from the whites.
 
 ------------------------------------------------------------------------
 
-[Next: 63. Story of the Mule's Return](mtsi199)
+[Next: 63. Story of the Mule's Return](mtsi199.md)

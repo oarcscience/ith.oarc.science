@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog06)  [Next](hlog08) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog06)  [Next](hlog08.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,4 +201,4 @@ their lives.
 
 ------------------------------------------------------------------------
 
-[Next: III. A Giant's Rock-Throwing](hlog08)
+[Next: III. A Giant's Rock-Throwing](hlog08.md)

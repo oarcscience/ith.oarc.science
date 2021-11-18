@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil24)  [Next](seil26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil24)  [Next](seil26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -39,8 +39,8 @@ waves of the sea (p. 145).
 ### THE TENTH DAY
 
 **Tenth Day**. How the Lord preached in the <span
-id="fr_13"></span>[14](seil83.htm#fn_13) Temple (p. 151).
+id="fr_13"></span>[14](seil83.htm#fn_13) Temple (p. 151.md).
 
 ------------------------------------------------------------------------
 
-[Next: Eleventh to Twelfth Day](seil26)
+[Next: Eleventh to Twelfth Day](seil26.md)

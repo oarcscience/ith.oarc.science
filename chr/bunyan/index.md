@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0192803611/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0192803611/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0192803611/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pp00)
+[Contents](#contents)    [Start Reading](pp00.md)
 
 ------------------------------------------------------------------------
 
@@ -46,28 +46,28 @@ Christians who are on the spritual path in a world of temptations.
 
 ------------------------------------------------------------------------
 
-[Map of Pilgrim's Progress](img/map.jpg) (*269 Kb*)
+[Map of Pilgrim's Progress](img/map.jpg) (*269 Kb*.md)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Pilgrim's Progress: Apology](pp00)  
-[Pilgrim's Progress: Part One, Section I.](pp01)  
-[Pilgrim's Progress: Part One, Section II.](pp02)  
-[Pilgrim's Progress: Part One, Section III.](pp03)  
-[Pilgrim's Progress: Part One, Section IV.](pp04)  
-[Pilgrim's Progress: Part One, Section V.](pp05)  
-[Pilgrim's Progress: Part One, Section VI.](pp06)  
-[Pilgrim's Progress: Part One, Section VII.](pp07)  
-[Pilgrim's Progress: Part One, Section VIII.](pp08)  
-[Pilgrim's Progress: Part One, Section IX.](pp09)  
-[Pilgrim's Progress: Part One, Section X.](pp10)  
-[Pilgrim's Progress: Part Two, Section I.](pp11)  
-[Pilgrim's Progress: Part Two, Section II.](pp13)  
-[Pilgrim's Progress: Part Two, Section III.](pp14)  
-[Pilgrim's Progress: Part Two, Section IV.](pp15)  
-[Pilgrim's Progress: Part Two, Section V.](pp16)  
-[Pilgrim's Progress: Part Two, Section VI.](pp17)  
-[Pilgrim's Progress: Part Two, Section VII.](pp18)  
-[Pilgrim's Progress: Part Two, Section VIII.](pp19)  
-[Pilgrim's Progress: Part Two, Section IX.](pp20)  
-[Pilgrim's Progress: Part Two, Section X.](pp21)  
+<span id="contents"></span> [Pilgrim's Progress: Apology](pp00.md)  
+[Pilgrim's Progress: Part One, Section I.](pp01.md)  
+[Pilgrim's Progress: Part One, Section II.](pp02.md)  
+[Pilgrim's Progress: Part One, Section III.](pp03.md)  
+[Pilgrim's Progress: Part One, Section IV.](pp04.md)  
+[Pilgrim's Progress: Part One, Section V.](pp05.md)  
+[Pilgrim's Progress: Part One, Section VI.](pp06.md)  
+[Pilgrim's Progress: Part One, Section VII.](pp07.md)  
+[Pilgrim's Progress: Part One, Section VIII.](pp08.md)  
+[Pilgrim's Progress: Part One, Section IX.](pp09.md)  
+[Pilgrim's Progress: Part One, Section X.](pp10.md)  
+[Pilgrim's Progress: Part Two, Section I.](pp11.md)  
+[Pilgrim's Progress: Part Two, Section II.](pp13.md)  
+[Pilgrim's Progress: Part Two, Section III.](pp14.md)  
+[Pilgrim's Progress: Part Two, Section IV.](pp15.md)  
+[Pilgrim's Progress: Part Two, Section V.](pp16.md)  
+[Pilgrim's Progress: Part Two, Section VI.](pp17.md)  
+[Pilgrim's Progress: Part Two, Section VII.](pp18.md)  
+[Pilgrim's Progress: Part Two, Section VIII.](pp19.md)  
+[Pilgrim's Progress: Part Two, Section IX.](pp20.md)  
+[Pilgrim's Progress: Part Two, Section X.](pp21.md)  

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac13)  [Next](ybac15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac13)  [Next](ybac15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Those who escaped aroused themselves to building and cultivating the
 land, and multiplied greatly during fifteen years of health and
 abundance, the last year being the most fertile of all. Then as they
 were about to begin gathering the crops there came an epidemic of
-[pestilential](errata.htm#3) fevers that lasted for twenty-four hours;
+[pestilential](errata.htm#3.md) fevers that lasted for twenty-four hours;
 then on its abating the bodies of those attacked swelled
 
 <span id="page_19">p. 19</span>
@@ -71,4 +71,4 @@ marvel there is any of the population left, small as it is.
 ------------------------------------------------------------------------
 
 [Next: XI. Prophecies of the Coming of the Spaniards. History of
-Francisco de Montejo, First Admiral of Yucatan](ybac15)
+Francisco de Montejo, First Admiral of Yucatan](ybac15.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas010n)  [Next](jas012n)   
- \[[11. Throwing away Knives.](jas011)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas010n)  [Next](jas012n.md)   
+ \[[11. Throwing away Knives.](jas011.md)\]
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ appear.
 
 ------------------------------------------------------------------------
 
-[Next: Note 12. Grace before Meat.](jas012n)
+[Next: Note 12. Grace before Meat.](jas012n.md)

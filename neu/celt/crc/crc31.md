@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc30)  [Next](crc32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc30)  [Next](crc32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ edges pierced it.
 
 Medb sent messengers to bring Fer Diad. Fer Diad did not come with those
 messengers. Medb sent poets and bards and satirists <span
-id="fr_92"></span>[1](#fn_90) to him, that they might satirise him and
+id="fr_92"></span>[1](#fn_90.md) to him, that they might satirise him and
 mock him and put him to ridicule, that he might not find a place for his
 head in the world, until he should come to the tent of Medb and Ailill
 on the Foray. Fer Diad came with those messengers, for the fear of their
@@ -63,7 +63,7 @@ men of Ireland are there. What is there less fitting for me to be there
 than for any other good warrior?'
 
 'It is not that indeed,' said Medb; 'but to give you a chariot worth
-three sevens of cumals, <span id="fr_93"></span>[1](#fn_91) and the
+three sevens of cumals, <span id="fr_93"></span>[1](#fn_91.md) and the
 equipment of twelve men, and the equal of Mag Murthemne from the arable
 land of Mag Ai; and that you should be in Cruachan always, and wine to
 be poured for you there; and freedom of your descendants and of your
@@ -94,7 +94,7 @@ province to which he should come.'
 
 'To say that was not fitting for him. For it is not weariness or
 cowardice that he has ever known in me, day nor night. I swear,
-etc., <span id="fr_94"></span>[1](#fn_92) that I will be the first man
+etc., <span id="fr_94"></span>[1](#fn_92.md) that I will be the first man
 who will come to-morrow morning to the ford of combat.'
 
 'May victory and blessing come to you,' said Medb. 'And I think it
@@ -140,7 +140,7 @@ to the ford of combat where Cuchulainn was.
 
 'One chariot coming hither towards us, O Cuchulainn!' said Loeg. For it
 is thus the lad was, with his back towards his lord. He used to win
-every other game of *brandub* <span id="fr_95"></span>[1](#fn_93) and of
+every other game of *brandub* <span id="fr_95"></span>[1](#fn_93.md) and of
 chess-playing from his master: the sentinel and watchman on the four
 quarters of Ireland over and above that.
 
@@ -324,7 +324,7 @@ Fer Diad came to the ford of combat.
 lad.
 
 'It is true, O boy, until to-day Cuchulainn has not heard of the coming
-of a good warrior <span id="fr_96"></span>[1](#fn_94) against him on the
+of a good warrior <span id="fr_96"></span>[1](#fn_94.md) against him on the
 Cattle Foray of Cualnge, and when he has heard of it he has left the
 ford.'
 
@@ -352,7 +352,7 @@ Cuchulainn.'
 
 'What you have done is wrong,' said Fer Diad, 'for I would not have come
 to seek the combat if you had said it to me at first. Why do you not
-pull the cushions <span id="fr_97"></span>[1](#fn_95) of the chariot
+pull the cushions <span id="fr_97"></span>[1](#fn_95.md) of the chariot
 under my side and my skin-cover under my head, so that I might sleep
 now?'
 
@@ -365,7 +365,7 @@ hounds here.'
 you, they will not come at all from east or west to seek you without
 warning and observation.'
 
-The cushions <span id="fr_98"></span>[1](#fn_95) of his chariot were
+The cushions <span id="fr_98"></span>[1](#fn_95.md) of his chariot were
 pulled under his
 
 <span id="page_109">p. 109</span>
@@ -454,7 +454,7 @@ It is not long afterwards that they met in the middle of the ford, and
 Fer Diad said to Cuchulainn:
 
 'Whence come you, O Cua?' said he (for <span
-id="fr_99"></span>[1](#fn_96) *cua* was the name of squinting in old
+id="fr_99"></span>[1](#fn_96.md) *cua* was the name of squinting in old
 Gaelic; and there were seven pupils in Cuchulainn's royal eye, and two
 of these pupils were squinting, and the ugliness of it is no greater
 than its beauty on him; and if there had been a greater blemish on
@@ -512,33 +512,33 @@ and put under foot. Alas, O golden brooch, O Fer Diad!'
 
 ### Footnotes
 
-<span id="fn_90"></span>[100:1](crc31.htm#fr_92) Ir. *aes glamtha
+<span id="fn_90"></span>[100:1](crc31.htm#fr_92.md) Ir. *aes glamtha
 gruaidi*, the folk who brought blotches on the cheeks (*i.e.* by their
 lampoons).
 
-<span id="fn_91"></span>[101:1](crc31.htm#fr_93) See note on [p.
-49](crc11.htm#page_49).
+<span id="fn_91"></span>[101:1](crc31.htm#fr_93.md) See note on [p.
+49](crc11.htm#page_49.md).
 
-<span id="fn_92"></span>[102:1](crc31.htm#fr_94) The usual oath, 'by the
+<span id="fn_92"></span>[102:1](crc31.htm#fr_94.md) The usual oath, 'by the
 god by whom my people swear,' understood.
 
-<span id="fn_93"></span>[103:1](crc31.htm#fr_95) *Brandub*, the name of
-a game; probably, like *fidchill* ([p. 17](crc03.htm#page_17)) and
-buanfach ([p. 130](crc35.htm#page_130)), of the nature of chess or
+<span id="fn_93"></span>[103:1](crc31.htm#fr_95.md) *Brandub*, the name of
+a game; probably, like *fidchill* ([p. 17](crc03.htm#page_17).md) and
+buanfach ([p. 130](crc35.htm#page_130).md), of the nature of chess or
 draughts.
 
-<span id="fn_94"></span>[107:1](crc31.htm#fr_96) Gloss incorporated in
+<span id="fn_94"></span>[107:1](crc31.htm#fr_96.md) Gloss incorporated in
 the text: 'or a good man.'
 
-<span id="fn_95"></span>[108:1](crc31.htm#fr_98) LL *fortchai*. YBL has
+<span id="fn_95"></span>[108:1](crc31.htm#fr_98.md) LL *fortchai*. YBL has
 *feirtsi*, 'shafts,' both here and in the passage below.
 
-<span id="fn_96"></span>[111:1](crc31.htm#fr_99) An interpolation.
+<span id="fn_96"></span>[111:1](crc31.htm#fr_99.md) An interpolation.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Long Warning of Sualtaim](crc32)
+[Next: The Long Warning of Sualtaim](crc32.md)
 
 </div>

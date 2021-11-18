@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Daniel](dan)  [Joel](joe)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Daniel](dan)  [Joel](joe.md)
 
 ------------------------------------------------------------------------
 
@@ -9,30 +9,30 @@
 
 ------------------------------------------------------------------------
 
-[Hosea 1](hos001)  
+[Hosea 1](hos001.md)  
 
-[Hosea 2](hos002)  
+[Hosea 2](hos002.md)  
 
-[Hosea 3](hos003)  
+[Hosea 3](hos003.md)  
 
-[Hosea 4](hos004)  
+[Hosea 4](hos004.md)  
 
-[Hosea 5](hos005)  
+[Hosea 5](hos005.md)  
 
-[Hosea 6](hos006)  
+[Hosea 6](hos006.md)  
 
-[Hosea 7](hos007)  
+[Hosea 7](hos007.md)  
 
-[Hosea 8](hos008)  
+[Hosea 8](hos008.md)  
 
-[Hosea 9](hos009)  
+[Hosea 9](hos009.md)  
 
-[Hosea 10](hos010)  
+[Hosea 10](hos010.md)  
 
-[Hosea 11](hos011)  
+[Hosea 11](hos011.md)  
 
-[Hosea 12](hos012)  
+[Hosea 12](hos012.md)  
 
-[Hosea 13](hos013)  
+[Hosea 13](hos013.md)  
 
-[Hosea 14](hos014)  
+[Hosea 14](hos014.md)  

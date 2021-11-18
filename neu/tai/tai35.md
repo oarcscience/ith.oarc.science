@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai34)  [Next](tai36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai34)  [Next](tai36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,11 +23,11 @@ THE MSTÍSLAVIČI.
 
 [![Table VIII. The Mstíslaviči \[Eight Generations from
 Rurik\]](tn/tab08.jpg)  
-Click to enlarge](img/tab08.jpg)  
+Click to enlarge](img/tab08.jpg.md)  
   
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Table IX. House of Suzdal & Moscow](tai36)
+[Next: Table IX. House of Suzdal & Moscow](tai36.md)

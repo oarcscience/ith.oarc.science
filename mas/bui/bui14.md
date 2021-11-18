@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui13)  [Next](bui15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui13)  [Next](bui15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ of persons*!
 ### The Masonic Philosophy
 
 HAST any philosophy in thee, Shepherd?" <span
-id="fr_172"></span>[1](#fn_172) was the question of Touchstone in the
+id="fr_172"></span>[1](#fn_172.md) was the question of Touchstone in the
 Shakespeare play; and that is the question we must always ask ourselves.
 Long ago Kant said that it is the mission of philosophy, not to discover
 truth, but to set it in order, to seek out the rhythm of things and
@@ -58,7 +58,7 @@ subject. Spacious, humane, eloquent, it is "a blend of science,
 
 <span id="page_260">p. 260</span>
 
-poetry, religion and logic" <span id="fr_173"></span>[1](#fn_173)—a
+poetry, religion and logic" <span id="fr_173"></span>[1](#fn_173.md)—a
 softening, enlarging, ennobling influence, giving us a wider and clearer
 outlook, more air, more room, more light, and more background.
 
@@ -95,7 +95,7 @@ truths, the first truth and the last, the sovereign and supreme Reality.
 Upon the threshold of its Lodges every man, whether prince or peasant,
 is asked to confess his faith in God the Father Almighty, the Architect
 and Master-Builder of the Universe. <span
-id="fr_174"></span>[1](#fn_174) That is not a mere form of words, but
+id="fr_174"></span>[1](#fn_174.md) That is not a mere form of words, but
 the deepest and most solemn affirmation that human lips can
 
 <span id="page_262">p. 262</span>
@@ -115,11 +115,11 @@ Therefore, it endures and grows, and the gates of hell cannot prevail
 against it!
 
 While Masonry is theocratic in its faith and philosophy, <span
-id="fr_175"></span>[1](#fn_175) it does not limit its conception of the
+id="fr_175"></span>[1](#fn_175.md) it does not limit its conception of the
 Divine, much less insist upon any one name for "the Nameless One of a
 hundred names." Indeed, no feature of Masonry is more fascinating that
 its age-long quest of the Lost Word, <span
-id="fr_176"></span>[2](#fn_176) the Ineffable Name; a quest that never
+id="fr_176"></span>[2](#fn_176.md) the Ineffable Name; a quest that never
 tires, never tarries, knowing the
 
 <span id="page_263">p. 263</span>
@@ -165,7 +165,7 @@ With eloquent unanimity our Masonic thinkers
 proclaim the unity and love of God—whence their vision of the ultimate
 unity and love of mankind—to be the great truth of the Masonic
 philosophy; the unity of God and the immortality of the soul. <span
-id="fr_177"></span>[1](#fn_177) Amidst polytheisms, dualisms, and
+id="fr_177"></span>[1](#fn_177.md) Amidst polytheisms, dualisms, and
 endless confusions, they hold it to have been the great mission of
 Masonry to preserve these precious truths, beside which, in the long
 result of thought and faith, all else fades and grows dim. Of this there
@@ -190,7 +190,7 @@ And earth's base built on stubble.</span>
 
 Upon the altar of Masonry lies the open Bible which, despite the changes
 and advances of the ages, remains the greatest Modern Book—the moral
-manual of civilization. <span id="fr_178"></span>[1](#fn_178) All
+manual of civilization. <span id="fr_178"></span>[1](#fn_178.md) All
 through its pages, through the smoke of Sinai, through "the forest of
 the Psalms," through proverbs and parables, along the dreamy ways of
 prophecy, in gospels and epistles is heard the everlasting truth of one
@@ -294,7 +294,7 @@ of right reason, and the voice of conscience. In other words, it dares
 to read the meaning of the universe through what is highest in man, not
 through what is lower, asserting that the soul is akin to the Eternal
 Spirit, and that by a life of righteousness its eternal quality is
-revealed. <span id="fr_179"></span>[1](#fn_179) Upon this philosophy
+revealed. <span id="fr_179"></span>[1](#fn_179.md) Upon this philosophy
 Masonry rests, and finds a rock beneath:
 
 <div style="margin-left: 32px">
@@ -406,7 +406,7 @@ the ecclesiastical chariot—always and everywhere Masonry has stood for
 the right of the soul to know the truth, and to look up unhindered from
 the lap of earth into the face of God. Not freedom from faith, but
 freedom of faith, has been its watchword, on the ground that as
-[despotism](errata.htm#11) is the mother of anarchy, so bigoted
+[despotism](errata.htm#11.md) is the mother of anarchy, so bigoted
 dogmatism is the prolific source of scepticism—knowing, also, that our
 race has made its most rapid advance in those fields where it has been
 free the longest.
@@ -502,7 +502,7 @@ picture—the oldest, if not the greatest drama in the world—the better to
 make men feel those truths which no mortal words can utter. It shows us
 the black tragedy of life in its darkest hour; the forces of evil, so
 cunning yet so stupid, which come up against the soul, tempting it to
-treachery, and even to the [degradation](errata.htm#12) of saving life
+treachery, and even to the [degradation](errata.htm#12.md) of saving life
 by giving up all that makes life worth living; a tragedy which, in its
 simplicity and power, makes the heart ache and stand still. Then, out of
 the thick darkness there rises, like a beautiful white star, that in man
@@ -511,7 +511,7 @@ highest, and his willingness to go down into the night of death, if only
 virtue may live and shine like a pulse of fire in the evening sky. Here
 is the ultimate and final witness of our divinity and immortality—the
 sublime, death-defying moral heroism of the human soul! Surely the
-eternal [paradox](errata.htm#13) holds true at the gates of the grave:
+eternal [paradox](errata.htm#13.md) holds true at the gates of the grave:
 he who loses his life for the sake of truth, shall find it anew! And
 here Masonry rests the matter, assured that since there is that in man
 which makes him hold to the moral ideal, and the integrity of his
@@ -585,7 +585,7 @@ Leaving thine outgrown shell by life's unresting sea!</span>
 
 ### Footnotes
 
-<span id="fn_172"></span>[259:1](bui14.htm#fr_172) *As You Like It* (act
+<span id="fn_172"></span>[259:1](bui14.htm#fr_172.md) *As You Like It* (act
 ii, scene ii). Shakespeare makes no reference to any secret society, but
 some of his allusions suggest that he knew more than he wrote. He
 describes "The singing Masons building roofs of gold" (*Henry V*, act i,
@@ -599,10 +599,10 @@ Charges*. But Hawkins in his edition of the *Angler* recalls that Walton
 was a friend of Elias Ashmole, and may have learned of Masonry from him.
 (*A Short Masonic History*, by F. Armitage, vol. ii, chap. 3.)
 
-<span id="fn_173"></span>[260:1](bui14.htm#fr_173) *Some Problems of
+<span id="fn_173"></span>[260:1](bui14.htm#fr_173.md) *Some Problems of
 Philosophy*, by William James.
 
-<span id="fn_174"></span>[261:1](bui14.htm#fr_174) In 1877 the Grand
+<span id="fn_174"></span>[261:1](bui14.htm#fr_174.md) In 1877 the Grand
 Orient of France removed the Bible from its altar and erased from its
 ritual all reference to Deity; and for so doing it was disfellowshiped
 by nearly every Grand Lodge in the world. The writer of the article on
@@ -631,15 +631,15 @@ liberty of thought and a loftier faith. (*The Religion of Plutarch*, by
 Oakesmith; also the Bacon essay on *Superstition*.) We may deem this
 unwise, but we ought at least to understand its spirit and purpose.
 
-<span id="fn_175"></span>[262:1](bui14.htm#fr_175) *Theocratic
+<span id="fn_175"></span>[262:1](bui14.htm#fr_175.md) *Theocratic
 Philosophy of Freemasonry*, by Oliver.
 
-<span id="fn_176"></span>[262:2](bui14.htm#fr_176)  "History of the Lost
+<span id="fn_176"></span>[262:2](bui14.htm#fr_176.md)  "History of the Lost
 Word," by J. F. Garrison, appendix to *Early History and Antiquities of
 Freemasonry*, by G. F. Fort—one of the most brilliant Masonic books,
 both in scholarship and literary style.
 
-<span id="fn_177"></span>[264:1](bui14.htm#fr_177) *Symbolism of
+<span id="fn_177"></span>[264:1](bui14.htm#fr_177.md) *Symbolism of
 Masonry*, by Dr. Mackey (chap. i) and other books too many to name. It
 need hardly be said that the truth of the trinity, whereof the triangle
 is an emblem—though with Pythagoras it was a symbol of holiness, of
@@ -656,13 +656,13 @@ tenderness of the truth of the trinity—which, as said on an earlier
 page, was a vision of God through the family (*Christian Doctrine of
 God*).
 
-<span id="fn_178"></span>[265:1](bui14.htm#fr_178) *The Bible, the Great
+<span id="fn_178"></span>[265:1](bui14.htm#fr_178.md) *The Bible, the Great
 Source of Masonic Secrets and Observances*, by Dr. Oliver. No Mason need
 be told what a large place the Bible has in the symbolism, ritual, and
 teaching of the Order, and it has an equally large place in its
 literature.
 
-<span id="fn_179"></span>[269:1](bui14.htm#fr_179) Read the great
+<span id="fn_179"></span>[269:1](bui14.htm#fr_179.md) Read the great
 argument of Plato in *The Republic* (book vi). The present writer does
 not wish to impose upon Masonry any dogma of technical Idealism,
 subjective, objective, or otherwise. No more than others does he hold to
@@ -683,4 +683,4 @@ means much to those who are seeking the truth to know it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Spirit of Masonry](bui15)
+[Next: Chapter III. The Spirit of Masonry](bui15.md)

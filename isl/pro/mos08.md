@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos07)  [Next](mos09) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos07)  [Next](mos09.md) 
 
 ------------------------------------------------------------------------
 
@@ -238,4 +238,4 @@ is obvious.
 
 ------------------------------------------------------------------------
 
-[Next: The Nine Continuous Miracles by Moses (PUH)](mos09)
+[Next: The Nine Continuous Miracles by Moses (PUH)](mos09.md)

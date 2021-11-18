@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc06)  [Next](pcc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc06)  [Next](pcc08.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,12 +16,12 @@ represented on one side, and clearly enough, the beginnings of
 Religion--i.e. the instinctive sense of Man's inner continuity with the
 world around him, *taking shape*: a fanciful shape it is true, but with
 very real reaction on his practical life and feelings. <span
-id="fr_104"></span>[1](#fn_104) On the other side it represented the
+id="fr_104"></span>[1](#fn_104.md) On the other side it represented the
 beginnings of Science. It was his first attempt not merely to *feel* but
 to *understand* the mystery of things.
 
 Inevitably these first efforts to understand were very puerile, very
-superficial. As E. B. Tylor says <span id="fr_105"></span>[2](#fn_105)
+superficial. As E. B. Tylor says <span id="fr_105"></span>[2](#fn_105.md)
 of primitive folk in general, "they mistook an imaginary for a real
 connection." And he instances the case of the inhabitants of the City of
 Ephesus, who laid down a rope, seven furlongs in length, from the City
@@ -30,7 +30,7 @@ protection of the latter! *We* should lay down a telephone wire, and
 consider that we established a much more efficient connection; but in
 the beginning, and quite naturally, men, like children, rely on surface
 associations. Among the Dyaks of Borneo, <span
-id="fr_106"></span>[3](#fn_106) when the men are away fighting,
+id="fr_106"></span>[3](#fn_106.md) when the men are away fighting,
 
 <span id="page_87">p. 87</span>
 
@@ -51,7 +51,7 @@ Twins was thought peculiarly lucky.) Perhaps after a time it was
 discovered that twins sometimes run in families, and in such cases
 really do bring fertility with them. In cattle it is known nowadays that
 there are more twins of the female sex than of the male sex. <span
-id="fr_107"></span>[1](#fn_107)
+id="fr_107"></span>[1](#fn_107.md)
 
 Observations of this kind were naturally made by the ablest members of
 the tribe--who were in all probability the medicine-men and wizards--and
@@ -96,7 +96,7 @@ the blameless king in the Odyssey, under his sway
                                "the dark earth beareth in season  
 Barley and wheat, and the trees are laden with fruitage, and alway  
 Yean unfailing the flocks, and the sea gives fish in abundance." <span
-id="fr_108"></span>[1](#fn_108)
+id="fr_108"></span>[1](#fn_108.md)
 
  
 
@@ -104,7 +104,7 @@ id="fr_108"></span>[1](#fn_108)
 
 \[paragraph continues\] As a magician too he was trusted for success in
 warfare; and Schoolcraft, in a passage quoted by Andrew Lang, <span
-id="fr_109"></span>[1](#fn_109) says of the Dacotah Indians "the
+id="fr_109"></span>[1](#fn_109.md) says of the Dacotah Indians "the
 war-chief who leads the party to war is always one of these
 medicine-men." This connection, however, by which the magician is
 transformed into the king has been abundantly studied, and need not be
@@ -139,7 +139,7 @@ country. There the souls of the dead men and
 
 women of the totem, but no others, congregate, and are born again in
 human form when a favorable opportunity presents itself." <span
-id="fr_110"></span>[1](#fn_110)
+id="fr_110"></span>[1](#fn_110.md)
 
 And what the early people believed of the human spirit, they believed of
 the corn-spirits and the tree and vegetation spirits also. At the great
@@ -152,10 +152,10 @@ the dead, raising the whole dead world with him. The Greeks called him
 in this stage 'The Third One' \[*Tritos Sotêr*\] or 'the Saviour'; and
 the renovation ceremonies were accompanied by a casting-off of the old
 year, the old garments, and everything that is polluted by the infection
-of death." <span id="fr_111"></span>[2](#fn_111) Thus the multiplication
+of death." <span id="fr_111"></span>[2](#fn_111.md) Thus the multiplication
 of the crops and the renovation of the tribe, and at the same time the
 evasion and placation of death, were all assured by similar rites and
-befitting ceremonial magic. <span id="fr_112"></span>[3](#fn_112)
+befitting ceremonial magic. <span id="fr_112"></span>[3](#fn_112.md)
 
 In all these cases, and many others that I have not mentioned--of the
 magical worship of Bulls and Bears and Rams and Cats and Emus and
@@ -180,7 +180,7 @@ essentially poetic and imaginative.
 Moreover it will be seen that in this age of magic and the belief in
 spirits, though there was an intense sense of every thing being alive,
 the gods, in the more modern sense of the world, hardly existed <span
-id="fr_113"></span>[1](#fn_113)--that is, there was no very clear
+id="fr_113"></span>[1](#fn_113.md)--that is, there was no very clear
 vision, to these people, of supra-mundane beings, sitting apart and
 ordaining the affairs of earth, as it were from a distance. Doubtless
 this conception was slowly evolving, but it was only incipient. For the
@@ -212,7 +212,7 @@ so in the mental sphere of each member of a tribe the many images of the
 well-known Warriors or Priests or wise and gracious Women of that tribe
 did inevitably combine at last to composite figures of gods and
 goddesses--on whom the enthusiasm and adoration of the tribe was
-concentrated. <span id="fr_114"></span>[1](#fn_114) Miss Harrison has
+concentrated. <span id="fr_114"></span>[1](#fn_114.md) Miss Harrison has
 ingeniously suggested how the leading figures in the magic rituals of
 the past--being the figures on which all eyes would be concentrated; and
 whose importance would be imprinted on every mind--lent themselves to
@@ -241,7 +241,7 @@ inaccessible mountain. If the mountain is once climbed the god will move
 to the upper sky. The medicine-chief meanwhile stays on earth, still
 influential. He has some connection with the great god more intimate
 than that of other men . . . he knows the rules for approaching him and
-making prayers to him." <span id="fr_115"></span>[1](#fn_115) Thus did
+making prayers to him." <span id="fr_115"></span>[1](#fn_115.md) Thus did
 the Medicine-man, or Priest, or Magician (for these are but three names
 for one figure) represent one step in the evolution of the god.
 
@@ -387,7 +387,7 @@ powerful, in all visible things"; and continues, "old as I am this same
 primitive faculty which manifested itself in my early boyhood, still
 persists, and in those early years was so powerful that I am almost
 afraid to say how deeply I was moved by it." <span
-id="fr_116"></span>[1](#fn_116) Nor will it be *quite* forgotten that
+id="fr_116"></span>[1](#fn_116.md) Nor will it be *quite* forgotten that
 Shelley once said:--
 
 The moveless pillar of a mountain's weight  
@@ -453,51 +453,51 @@ all his fellows to be divine and the origin and perfect fruition of all.
 
 ### Footnotes
 
-<span id="fn_104"></span>[86:1](pcc07.htm#fr_104) For an excellent
+<span id="fn_104"></span>[86:1](pcc07.htm#fr_104.md) For an excellent
 account of the relation of Magic to Religion see W. McDougall, *Social
 Psychology* (1908), pp. 317-320.
 
-<span id="fn_105"></span>[86:2](pcc07.htm#fr_105) *Primitive Culture*,
+<span id="fn_105"></span>[86:2](pcc07.htm#fr_105.md) *Primitive Culture*,
 vol. i, p. 106.
 
-<span id="fn_106"></span>[86:3](pcc07.htm#fr_106) See *The Golden
+<span id="fn_106"></span>[86:3](pcc07.htm#fr_106.md) See *The Golden
 Bough*, i, 127.
 
-<span id="fn_107"></span>[87:1](pcc07.htm#fr_107) See *Evolution of
+<span id="fn_107"></span>[87:1](pcc07.htm#fr_107.md) See *Evolution of
 Sex*, by Geddes and Thomson (1901), p. 41, note.
 
-<span id="fn_108"></span>[88:1](pcc07.htm#fr_108) Odyssey xix, 109 *sq*.
+<span id="fn_108"></span>[88:1](pcc07.htm#fr_108.md) Odyssey xix, 109 *sq*.
 Translation by H. B. Cotterill.
 
-<span id="fn_109"></span>[89:1](pcc07.htm#fr_109) *Myth, Ritual and
+<span id="fn_109"></span>[89:1](pcc07.htm#fr_109.md) *Myth, Ritual and
 Religion*, vol. i, p. 113.
 
-<span id="fn_110"></span>[90:1](pcc07.htm#fr_110) *The Golden Bough*,
+<span id="fn_110"></span>[90:1](pcc07.htm#fr_110.md) *The Golden Bough*,
 vol. i, p. 96.
 
-<span id="fn_111"></span>[90:2](pcc07.htm#fr_111) Gilbert Murray, *Four
+<span id="fn_111"></span>[90:2](pcc07.htm#fr_111.md) Gilbert Murray, *Four
 Stages*, p. 46.
 
-<span id="fn_112"></span>[90:3](pcc07.htm#fr_112) It is interesting to
+<span id="fn_112"></span>[90:3](pcc07.htm#fr_112.md) It is interesting to
 find, with regard to the renovation of the tribe, that among the Central
 Australians the foreskins or male members of those who died were
 deposited in the above-mentioned *nanja* spots-- the idea evidently
 being that like the seeds of the corn the seeds of the human crop must
 be carefully and ceremonially preserved for their re-incarnation.
 
-<span id="fn_113"></span>[91:1](pcc07.htm#fr_113) For a discussion of
+<span id="fn_113"></span>[91:1](pcc07.htm#fr_113.md) For a discussion of
 the evolution of *religion* out of *magic*, see Westermarck's *Origin of
 Moral Ideas*, ch. 47.
 
-<span id="fn_114"></span>[92:1](pcc07.htm#fr_114) See *The Art of
+<span id="fn_114"></span>[92:1](pcc07.htm#fr_114.md) See *The Art of
 Creation*, ch. viii, "The Gods as Apparitions of the Race-Life."
 
-<span id="fn_115"></span>[93:1](pcc07.htm#fr_115) *The Four Stages*, p.
+<span id="fn_115"></span>[93:1](pcc07.htm#fr_115.md) *The Four Stages*, p.
 140.
 
-<span id="fn_116"></span>[97:1](pcc07.htm#fr_116) *Far Away and Long
+<span id="fn_116"></span>[97:1](pcc07.htm#fr_116.md) *Far Away and Long
 Ago*, ch. xiii, p. 225.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Rites Of Expiation And Redemption](pcc08)
+[Next: VII. Rites Of Expiation And Redemption](pcc08.md)

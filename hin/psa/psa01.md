@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa00)  [Next](psa02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa00)  [Next](psa02.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ W. HOLLINGS, *Captain*,       
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](psa02)
+[Next: Chapter I](psa02.md)

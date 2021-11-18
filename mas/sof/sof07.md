@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof06)  [Next](sof08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof06)  [Next](sof08.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head05.png"></span> ![Header Chapter V.](img/head05.png)
+<span id="img_head05.png"></span> ![Header Chapter V.](img/head05.png.md)
 
 ## V.
 
@@ -30,11 +30,11 @@ It was on the Lake of Sais that the solemn ceremonies of the Osirian
 initiation were performed. "On this lake," says Herodotus, "it is that
 the Egyptians represent by night his sufferings whose name I refrain
 from mentioning; and this representation they call their Mysteries."
- [17](sof37.htm#xref_17)
+ [17](sof37.htm#xref_17.md)
 
 Osiris, the husband of Isis, was an ancient king of the Egyptians.
 Having been slain by Typhon, his body was cut into
-pieces [18](sof37.htm#xref_18) by his murderer, and the mangled remains
+pieces [18](sof37.htm#xref_18.md) by his murderer, and the mangled remains
 cast upon the waters of the Nile, to be dispersed to the four winds of
 heaven. His wife, Isis, mourning for the death and the mutilation of her
 husband, for many days searched diligently with her companions for the
@@ -64,10 +64,10 @@ soul shall still live.
 "Can we doubt," says the Baron Sainte Croix, "that such ceremonies as
 those practised in the Mysteries of Osiris had been originally
 instituted to impress more profoundly on the mind the dogma of future
-rewards and punishments?"  [19](sof37.htm#xref_19)
+rewards and punishments?"  [19](sof37.htm#xref_19.md)
 
 "The sufferings and death of Osiris," says Mr.
-Wilkinson, [20](sof37.htm#xref_20) "were the great Mystery of the
+Wilkinson, [20](sof37.htm#xref_20.md) "were the great Mystery of the
 Egyptian religion; and some traces of it are perceptible among other
 people of antiquity. His being the divine goodness and the abstract idea
 of 'good,' his manifestation upon earth (like an Indian god), his death
@@ -83,7 +83,7 @@ design of these rites and that of Freemasonry, which must already begin
 to appear, will enable us to give its full value to the expression of
 Hutchinson, when he says that "the Master Mason represents a man under
 the Christian doctrine saved from the grave of iniquity and raised to
-the faith of salvation."  [21](sof37.htm#xref_21)
+the faith of salvation."  [21](sof37.htm#xref_21.md)
 
 In Phoenicia similar Mysteries were celebrated in honor of Adonis, the
 favorite lover of Venus, who, having, while hunting, been slain by a
@@ -91,7 +91,7 @@ wild boar on Mount Lebanon, was restored to life by Proserpine. The
 mythological story is familiar to every classical scholar. In the
 popular theology, Adonis was the son of Cinyras, king of Cyrus, whose
 untimely death was wept by Venus and her attendant nymphs: in the
-physical theology of the philosophers, [22](sof37.htm#xref_22) he was a
+physical theology of the philosophers, [22](sof37.htm#xref_22.md) he was a
 symbol of the sun, alternately present to and absent from the earth; but
 in the initiation into the Mysteries of his worship, his resurrection
 and return from Hades were adopted as a type of the immortality of the
@@ -100,7 +100,7 @@ for his loss,--or, as the prophet Ezekiel expresses it, "Behold, there
 sat women weeping for Thammuz,"--for such was the name under which his
 worship was introduced among the Jews; and they ended with the most
 extravagant demonstrations of joy at the representation of his return to
-life, [23](sof37.htm#xref_23) while the hierophant exclaimed, in a
+life, [23](sof37.htm#xref_23.md) while the hierophant exclaimed, in a
 congratulatory strain,--
 
 > "Trust, ye initiates; the god is safe,  
@@ -124,9 +124,9 @@ to the fact (which will be hereafter more fully developed) that all the
 ceremonies in the first degree of masonry are symbolic of an internal
 purification.
 
-In the lesser Mysteries [24](sof37.htm#xref_24) the candidate took an
+In the lesser Mysteries [24](sof37.htm#xref_24.md) the candidate took an
 oath of secrecy, which was administered to him by the mystagogue, and
-then received a preparatory instruction, [25](sof37.htm#xref_25) which
+then received a preparatory instruction, [25](sof37.htm#xref_25.md) which
 enabled him afterwards to understand the developments of the higher and
 subsequent division. He was now called a *Mystes*, or initiate, and may
 be compared to the Fellow Craft of Freemasonry.
@@ -146,6 +146,6 @@ unrighteousness."
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Dionysiac Artificers](sof08)
+[Next: VI. The Dionysiac Artificers](sof08.md)
 
 </div>

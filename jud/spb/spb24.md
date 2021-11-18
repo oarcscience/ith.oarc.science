@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb23)  [Next](spb25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb23)  [Next](spb25.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -64,7 +64,7 @@ of the earth shall fear him.
 ------------------------------------------------------------------------
 
 *For Evening Service, Amidah and Kaddish to "And say ye Amen," see pp.
-[128](spb12.htm#page_128)–[149](spb13.htm#page_149). Then say the
+[128](spb12.htm#page_128)–[149](spb13.htm#page_149.md). Then say the
 following:*
 
 And let the pleasantness of the Lord our God be upon us: and establish
@@ -103,7 +103,7 @@ last verse*.
 But thou art holy, O thou that dwellest amid the praises of Israel And
 one cried unto another, and said, Holy, holy, holy is the Lord of hosts:
 the whole earth is full of his glory.  <span
-id="fr_47"></span>[\*](#fn_43)And they receive sanction the one from the
+id="fr_47"></span>[\*](#fn_43.md)And they receive sanction the one from the
 other, and say, Holy in the highest heavens, the place of his divine
 abode; holy upon earth, the work of his might; holy for ever and to all
 eternity is the Lord of hosts; the whole earth is full of the radiance
@@ -112,11 +112,11 @@ eternity is the Lord of hosts; the whole earth is full of the radiance
 
 of his glory. Then a wind lifted me up, and I heard behind me the voice
 of a great rushing (saying), Blessed be the glory of the Lord from his
-place.  <span id="fr_48"></span>[\*](#fn_44)Then a wind lifted me up,
+place.  <span id="fr_48"></span>[\*](#fn_44.md)Then a wind lifted me up,
 and I heard behind me the voice of a great rushing, of those who uttered
 praises, and said, Blessed be the glory of the Lord from the region of
 his divine abode. The Lord shall reign for ever and ever.  <span
-id="fr_49"></span>[\*](#fn_44)The kingdom of the Lord endureth for ever
+id="fr_49"></span>[\*](#fn_44.md)The kingdom of the Lord endureth for ever
 and to all eternity. O Lord, the God of Abraham, of Isaac and of Israel,
 our fathers, keep this for ever in the imagination of the thoughts of
 the heart of thy people, and direct their heart unto thee. And he, being
@@ -316,7 +316,7 @@ Rabbi Jochanan said, In every passage where thou findest
 
 the greatness of God mentioned, there thou findest also his humility.
 This is written in the Law, repeated in the Prophets, and a third time
-stated in the Writings. <span id="fr_50"></span>[\*](#fn_45) It is
+stated in the Writings. <span id="fr_50"></span>[\*](#fn_45.md) It is
 written in the Law, for the Lord your God, he is God of gods, and Lord
 of lords, the great, mighty and revered God, who regardeth not persons,
 nor taketh a bribe. And it is written afterwards, He doth execute the
@@ -353,7 +353,7 @@ the Lord bless thee out of Zion: mayest thou see the good of Jerusalem
 all the days of thy life. Yea, mayest thou see thy children's children.
 Peace be upon Israel.
 
-*The Reader says Habdalah, [p. 310](#page_310), omitting the
+*The Reader says Habdalah, [p. 310](#page_310.md), omitting the
 Introductory Verses*.
 
 It is our duty to praise the Lord of all things, to ascribe greatness to
@@ -496,19 +496,19 @@ as the stars in the night.
 
 ### Footnotes
 
-<span id="fn_43"></span>[300:\*](spb24.htm#fr_47) The Chaldee paraphrase
+<span id="fn_43"></span>[300:\*](spb24.htm#fr_47.md) The Chaldee paraphrase
 of the preceding verse.
 
-<span id="fn_44"></span>[301:\*](spb24.htm#fr_49) The Chaldee paraphrase
+<span id="fn_44"></span>[301:\*](spb24.htm#fr_49.md) The Chaldee paraphrase
 of the preceding verse.
 
-<span id="fn_45"></span>[307:\*](spb24.htm#fr_50) The third division of
+<span id="fn_45"></span>[307:\*](spb24.htm#fr_50.md) The third division of
 the Holy Scriptures, the fist two being the Law and the Prophets.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Meditation and Blessings on Taking the Lulab](spb25)
+[Next: Meditation and Blessings on Taking the Lulab](spb25.md)
 
 </div>

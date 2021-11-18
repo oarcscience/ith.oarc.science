@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had19)  [Next](had21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had19)  [Next](had21.md) 
 
 ------------------------------------------------------------------------
 
@@ -272,4 +272,4 @@ hadīth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII: Pilgrimage (Hajj And 'Umrah)](had21)
+[Next: Chapter XVIII: Pilgrimage (Hajj And 'Umrah)](had21.md)

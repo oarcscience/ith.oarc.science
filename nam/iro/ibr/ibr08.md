@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr07)  [Next](ibr09) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr07)  [Next](ibr09.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ that the united nations were not distinct tribes, associated by a
 temporary league, but one great family, clustered for convenience about
 separate hearths in a common dwelling; and it proclaimed their readiness
 to receive new members into the general household. <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 The names of the six great chiefs who, as representatives of their
 several nations, formed the confederacy, are in this narrative linked
@@ -108,7 +108,7 @@ while a third
 defined it as meaning "between two words." The root-word of the name is
 the Canienga *orihwa*, or *karihwa* (properly *karihöa*), which is
 defined "thing, affair, speech, news." <span
-id="fr_43"></span>[1](#fn_43) It also apparently means office; thus we
+id="fr_43"></span>[1](#fn_43.md) It also apparently means office; thus we
 have the derivatives *garihont*, "to give some charge or duty to some
 one," and *atrihont*, "to be an officer, or captain." The name is in the
 peculiar dual or rather duplicative form which is indicated by the
@@ -120,7 +120,7 @@ or received it from them, is uncertain. In other instances the Council
 name of a nation appears to have been applied in the singular number to
 the leading chief of the nation. Thus the head-chief of the Onondagas
 was often known by the title of *Sakosennakehte*, "the
-Name-carrier." <span id="fr_44"></span>[2](#fn_44)
+Name-carrier." <span id="fr_44"></span>[2](#fn_44.md)
 
 The name of the Oneida nation in the Council was *Nihatirontakowa*--or,
 in the Onondaga dialect, *Nihatientakona*--usually rendered the
@@ -162,7 +162,7 @@ the great edifice." This is sufficient evidence that the Canienga "Book
 of Rites" was composed in its present form after the Tuscaroras, and
 possibly after the Nanticokes and Tuteloes, were received into the
 League. The Tuscaroras were admitted in 1714; the two other nations were
-received about the year 1753. <span id="fr_45"></span>[1](#fn_45)
+received about the year 1753. <span id="fr_45"></span>[1](#fn_45.md)
 
 An outburst of lamentation follows. The speaker has recited the names of
 the heroes and statesmen to whom the united nations were indebted for
@@ -199,7 +199,7 @@ or "class":--
 Etho natejonhne,  
 Sewaterihwakhaonghkwe,  
 Sewarihwisaanonghkwe,  
-Kayanerenhkowa.  <span id="fr_46"></span>[1](#fn_46)
+Kayanerenhkowa.  <span id="fr_46"></span>[1](#fn_46.md)
 
 This litany is sung in the usual style of their mourning or religious
 chants, with many long-drawn repetitions of the customary
@@ -255,30 +255,30 @@ true character both of those who composed and of those who received it.
 
 ### Footnotes
 
-<span id="fn_42"></span>[76:1](ibr08.htm#fr_42) The people of the
+<span id="fn_42"></span>[76:1](ibr08.htm#fr_42.md) The people of the
 confederacy were known as *Rotinoñsioñni*,---They of the Extended
 House." In the Seneca dialect this was altered and abridged to
 Hotinoñsoñni, the ñ having the French nasal sound. This word is written
 by Mr. Morgan, "Hodenosaunee."
 
-<span id="fn_43"></span>[78:1](ibr08.htm#fr_43) See Bruyas, *sub voce
+<span id="fn_43"></span>[78:1](ibr08.htm#fr_43.md) See Bruyas, *sub voce
 Garihöa*. Mr. Morgan (*League of the Iroquois*, p. 97), who derived his
 information from the Senecas, says that the name "was a term of respect,
 and signifies 'neutral,' or, as it may be rendered, the shield." He
 adds, "its origin is lost in obscurity."
 
-<span id="fn_44"></span>[78:2](ibr08.htm#fr_44) "Il y avait en cette
+<span id="fn_44"></span>[78:2](ibr08.htm#fr_44.md) "Il y avait en cette
 bande un Capitaine qui porte le nom le plus considerable de toute sa
 Nation, Sagochiendagehtè."--*Relation* of 1654, p. 8. Elsewhere, as in
 the *Relation* for 1657, p. 17, this name is spelt Agochiendagueté.
 
-<span id="fn_45"></span>[79:1](ibr08.htm#fr_45) The former date is well
+<span id="fn_45"></span>[79:1](ibr08.htm#fr_45.md) The former date is well
 known; for the latter, see *N. Y Hist. Col.*, Vol. 6, p. 311; Stone's
 *Life of Sir William Johnson*, p. 434.
 
-<span id="fn_46"></span>[80:1](ibr08.htm#fr_46) For the translation, see
+<span id="fn_46"></span>[80:1](ibr08.htm#fr_46.md) For the translation, see
 *ante*, p. 33.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: The Iroquois Character](ibr09)
+[Next: Chapter VIII: The Iroquois Character](ibr09.md)

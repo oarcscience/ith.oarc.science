@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar193) [Next](gbar195)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar193) [Next](gbar195.md)
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ perception of God.
 
 ------------------------------------------------------------------------
 
-[Next](gbar195)
+[Next](gbar195.md)

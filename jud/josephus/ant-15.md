@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -78,7 +78,7 @@ executioner, as I have formerly related.
 him after a very gentle manner, as having already learned of what an
 illustrious family he was; on which account he set him free from his
 bonds, and gave him a habitation at Babylon, <span
-id="EndNote Ant 15.1a"></span>[(1)](#EndNote%20Ant%2015.1b) where there
+id="EndNote Ant 15.1a"></span>[(1)](#EndNote%20Ant%2015.1b.md) where there
 were Jews in great numbers. These Jews honored Hyrcanus as their high
 priest and king, as did all the Jewish nation that dwelt as far as
 Euphrates; which respect was very much to his satisfaction. But when he
@@ -128,7 +128,7 @@ suspicion of any treacherous design against him. He also did other
 things, in order to secure his government, which yet occasioned a
 sedition in his own family; for being cautious how he made any
 illustrious person the high priest of God, <span
-id="EndNote Ant 15.2a"></span>[(2)](#EndNote%20Ant%2015.2b) he sent for
+id="EndNote Ant 15.2a"></span>[(2)](#EndNote%20Ant%2015.2b.md) he sent for
 an obscure priest out of Babylon, whose name was Ananelus, and bestowed
 the high priesthood upon him.
 
@@ -145,7 +145,7 @@ care to have her letters carried) to desire her intercession with
 Antony, in order to gain the high priesthood for her son.
 
 6\. But as Antony was slow in granting this request, his friend Dellius
-<span id="EndNote Ant 15.3a"></span>[(3)](#EndNote%20Ant%2015.3b) came
+<span id="EndNote Ant 15.3a"></span>[(3)](#EndNote%20Ant%2015.3b.md) came
 into Judea upon some affairs; and when he saw Aristobulus, he stood in
 admiration at the tallness and handsomeness of the child, and no less at
 Mariarune, the king's wife, and was open in his commendations of
@@ -221,7 +221,7 @@ those Jews that had been carried captive beyond Euphrates; for there
 were not a few ten thousands of this people that had been carried
 captives, and dwelt about Babylonia, whence Ananelus came. He was one of
 the stock of the high priests <span
-id="EndNote Ant 15.4a"></span>[(4)](#EndNote%20Ant%2015.4b) and had been
+id="EndNote Ant 15.4a"></span>[(4)](#EndNote%20Ant%2015.4b.md) and had been
 of old a particular friend of Herod; and when he was first made king, he
 conferred that dignity upon him, and now put him out of it again, in
 order to quiet the troubles in his family, though what he did was
@@ -283,7 +283,7 @@ who was now in the seventeenth year of his age, went up to the altar,
 according to the law, to offer the sacrifices, and this with the
 ornaments of his high priesthood, and when he performed the sacred
 offices, <span
-id="EndNote Ant 15.5a"></span>[(5)](#EndNote%20Ant%2015.5b) he seemed to
+id="EndNote Ant 15.5a"></span>[(5)](#EndNote%20Ant%2015.5b.md) he seemed to
 be exceedingly comely, and taller than men usually were at that age, and
 to exhibit in his countenance a great deal of that high family he was
 sprung from, - a warm zeal and affection towards him appeared among the
@@ -297,7 +297,7 @@ happiness they had received from his family than was fit under a
 monarchy to have done. Upon all this, Herod resolved to complete what he
 had intended against the young man. When therefore the festival was
 over, and he was feasting at Jericho <span
-id="EndNote Ant 15.6a"></span>[(6)](#EndNote%20Ant%2015.6b) with
+id="EndNote Ant 15.6a"></span>[(6)](#EndNote%20Ant%2015.6b.md) with
 Alexandra, who entertained them there, he was then very pleasant with
 the young man, and drew him into a lonely place, and at the same time
 played with him in a juvenile and ludicrous manner. Now the nature of
@@ -313,7 +313,7 @@ swimming, and plunged him under water, in the dark of the evening, as if
 it had been done in sport only; nor did they desist till he was entirely
 suffocated. And thus was Aristobulus murdered, having lived no more in
 all than eighteen years, <span
-id="EndNote Ant 15.7a"></span>[(7)](#EndNote%20Ant%2015.7b) and kept the
+id="EndNote Ant 15.7a"></span>[(7)](#EndNote%20Ant%2015.7b.md) and kept the
 high priesthood one year only; which high priesthood Ananelus now
 recovered again.
 
@@ -668,7 +668,7 @@ restore his affairs to their old state.
 
 2\. At this time it was that the fight happened at Actium, between
 Octavius Caesar and Antony, in the seventh year of the reign of Herod
-<span id="EndNote Ant 15.8a"></span>[(8)](#EndNote%20Ant%2015.8b) and
+<span id="EndNote Ant 15.8a"></span>[(8)](#EndNote%20Ant%2015.8b.md) and
 then it was also that there was an earthquake in Judea, such a one as
 had not happened at any other time, and which earthquake brought a great
 destruction upon the cattle in that country. About ten thousand men also
@@ -750,7 +750,7 @@ Arabians have done what both the Greeks and barbarians own to be an
 instance of the grossest wickedness, with regard to our ambassadors,
 which they have beheaded, while the Greeks declare that such ambassadors
 are sacred and inviolable. <span
-id="EndNote Ant 15.9a"></span>[(9)](#EndNote%20Ant%2015.9b) And for
+id="EndNote Ant 15.9a"></span>[(9)](#EndNote%20Ant%2015.9b.md) And for
 ourselves, we have learned from God the most excellent of our doctrines,
 and the most holy part of our law, by angels or ambassadors; for this
 name brings God to the knowledge of mankind, and is sufficient to
@@ -810,7 +810,7 @@ impious, and always inferior to you in valor."
 4\. When the Jews heard this speech, they were much raised in their
 minds, and more disposed to fight than before. So Herod, when he had
 offered the sacrifices appointed by the law <span
-id="EndNote Ant 15.10a"></span>[(10)](#EndNote%20Ant%2015.10b) made
+id="EndNote Ant 15.10a"></span>[(10)](#EndNote%20Ant%2015.10b.md) made
 haste, and took them, and led them against the Arabians; and in order to
 that passed over Jordan, and pitched his camp near to that of the enemy.
 He also thought fit to seize upon a certain castle that lay in the midst
@@ -1204,7 +1204,7 @@ he had always for her. She came in accordingly, but would not lie down
 by him; and when he was very desirous of her company, she showed her
 contempt of him; and added, by way of reproach, that he had caused her
 father and her brother to be slain. <span
-id="EndNote Ant 15.11a"></span>[(11)](#EndNote%20Ant%2015.11b) And when
+id="EndNote Ant 15.11a"></span>[(11)](#EndNote%20Ant%2015.11b.md) And when
 he took this injury very unkindly, and was ready to use violence to her,
 in a precipitate manner, the king's sister Salome, observing that he was
 more than ordinarily disturbed, sent in to the king his cup-bearer, who
@@ -1385,7 +1385,7 @@ attempt.
 
 10\. But some time afterward, when Salome happened to quarrel with
 Costobarus, she sent him a bill of divorce <span
-id="EndNote Ant 15.12a"></span>[(12)](#EndNote%20Ant%2015.12b) and
+id="EndNote Ant 15.12a"></span>[(12)](#EndNote%20Ant%2015.12b.md) and
 dissolved her marriage with him, though this was not according to the
 Jewish laws; for with us it is lawful for a husband to do so; but a
 wife; if she departs from her husband, cannot of herself be married to
@@ -1484,7 +1484,7 @@ were greatly surprised and delighted at the vastness of the expenses
 here exhibited, and at the great dangers that were here seen; but to
 natural Jews, this was no better than a dissolution of those customs for
 which they had so great a veneration. <span
-id="EndNote Ant 15.13a"></span>[(13)](#EndNote%20Ant%2015.13b) It
+id="EndNote Ant 15.13a"></span>[(13)](#EndNote%20Ant%2015.13b.md) It
 appeared also no better than an instance of barefaced impiety, to throw
 men to wild beasts, for the affording delight to the spectators; and it
 appeared an instance of no less impiety, to change their own laws for
@@ -1636,7 +1636,7 @@ CITIES.**
 Herod, very great calamities came upon the country; whether they were
 derived from the anger of God, or whether this misery returns again
 naturally in certain periods of time <span
-id="EndNote Ant 15.14a"></span>[(14)](#EndNote%20Ant%2015.14b) for, in
+id="EndNote Ant 15.14a"></span>[(14)](#EndNote%20Ant%2015.14b.md) for, in
 the first place, there were perpetual droughts, and for that reason the
 ground was barren, and did not bring forth the same quantity of fruits
 that it used to produce; and after this barrenness of the soil, that
@@ -1655,7 +1655,7 @@ increased upon them; and this not only on that year, while they had
 nothing for themselves left \[at the end of it\], but what seed they had
 sown perished also, by reason of the ground not yielding its fruits on
 the second year. <span
-id="EndNote Ant 15.15a"></span>[(15)](#EndNote%20Ant%2015.15b) This
+id="EndNote Ant 15.15a"></span>[(15)](#EndNote%20Ant%2015.15b.md) This
 distress they were in made them also, out of necessity, to eat many
 things that did not use to be eaten; nor was the king himself free from
 this distress any more than other men, as being deprived of that tribute
@@ -1730,7 +1730,7 @@ their necessities proved him now to be.
 
 3\. About this time it was that he sent five hundred chosen men out of
 the guards of his body as auxiliaries to Caesar, whom Aelius Gallus
-<span id="EndNote Ant 15.16a"></span>[(16)](#EndNote%20Ant%2015.16b) led
+<span id="EndNote Ant 15.16a"></span>[(16)](#EndNote%20Ant%2015.16b.md) led
 to the Red Sea, and who were of great service to him there. When
 therefore his affairs were thus improved, and were again in a
 flourishing condition, he built himself a palace in the upper city,
@@ -1797,7 +1797,7 @@ indeed, for that would not have been borne, it being forbidden for us to
 pay any honor to images, or representations of animals, after the manner
 of the Greeks; but still he did thus in the country \[properly\] out of
 our bounds, and in the cities thereof <span
-id="EndNote Ant 15.17a"></span>[(17)](#EndNote%20Ant%2015.17b) The
+id="EndNote Ant 15.17a"></span>[(17)](#EndNote%20Ant%2015.17b.md) The
 apology which he made to the Jews for these things was this: That all
 was done, not out of his own inclinations, but by the commands and
 injunctions of others, in order to please Caesar and the Romans, as
@@ -1864,7 +1864,7 @@ and washed it all clean. Herod also built therein a theater of stone;
 and on the south quarter, behind the port, an amphitheater also, capable
 of holding a vast number of men, and conveniently situated for a
 prospect to the sea. So this city was thus finished in twelve years;
-<span id="EndNote Ant 15.18a"></span>[(18)](#EndNote%20Ant%2015.18b)
+<span id="EndNote Ant 15.18a"></span>[(18)](#EndNote%20Ant%2015.18b.md)
 during which time the king did not fail to go on both with the work, and
 to pay the charges that were necessary.
 
@@ -1879,13 +1879,13 @@ ESSENS AND MANAHEM.**
 re-edified Sebaste, \[Samaria,\] he resolved to send his sons Alexander
 and Aristobulus to Rome, to enjoy the company of Caesar; who, when they
 came thither, lodged at the house of Pollio, <span
-id="EndNote Ant 15.19a"></span>[(19)](#EndNote%20Ant%2015.19b) who was
+id="EndNote Ant 15.19a"></span>[(19)](#EndNote%20Ant%2015.19b.md) who was
 very fond of Herod's friendship; and they had leave to lodge in Caesar's
 own palace, for he received these sons of Herod with all humanity, and
 gave Herod leave to give his, kingdom to which of his sons he pleased;
 and besides all this, he bestowed on him Trachon, and Batanea, and
 Auranitis, which he gave him on the occasion following: One Zenodorus
-<span id="EndNote Ant 15.20a"></span>[(20)](#EndNote%20Ant%2015.20b) had
+<span id="EndNote Ant 15.20a"></span>[(20)](#EndNote%20Ant%2015.20b.md) had
 hired what was called the house of Lysanias, who, as he was not
 satisfied with its revenues, became a partner with the robbers that
 inhabited the Trachonites, and so procured himself a larger income; for
@@ -1986,7 +1986,7 @@ Agrippa, who was his principal favorite, Caesar preferred no one to
 Herod besides Agrippa, and Agrippa made no one his greater friend than
 Herod besides Caesar. And when he had acquired such freedom, he begged
 of Caesar a tetrarchy <span
-id="EndNote Ant 15.21a"></span>[(21)](#EndNote%20Ant%2015.21b) for his
+id="EndNote Ant 15.21a"></span>[(21)](#EndNote%20Ant%2015.21b.md) for his
 brother Pheroras, while he did himself bestow upon him a revenue of a
 hundred talents out of his own kingdom, that in case he came to any harm
 himself, his brother might be in safety, and that his sons might not
@@ -2082,7 +2082,7 @@ CALLED ANTONIA.**
 1\. AND now Herod, in the eighteenth year of his reign, and after the
 acts already mentioned, undertook a very great work, that is, to build
 of himself the temple of God, <span
-id="EndNote Ant 15.22a"></span>[(22)](#EndNote%20Ant%2015.22b) and make
+id="EndNote Ant 15.22a"></span>[(22)](#EndNote%20Ant%2015.22b.md) and make
 it larger in compass, and to raise it to a most magnificent altitude, as
 esteeming it to be the most glorious of all his actions, as it really
 was, to bring it to perfection; and that this would be sufficient for an
@@ -2148,7 +2148,7 @@ work.
 the temple upon them, being in length a hundred cubits, and in height
 twenty additional cubits, which \[twenty\], upon the sinking of their
 foundations <span
-id="EndNote Ant 15.23a"></span>[(23)](#EndNote%20Ant%2015.23b) fell
+id="EndNote Ant 15.23a"></span>[(23)](#EndNote%20Ant%2015.23b.md) fell
 down; and this part it was that we resolved to raise again in the days
 of Nero. Now the temple was built of stones that were white and strong,
 and each of their length was twenty-five cubits, their height was eight,
@@ -2282,7 +2282,7 @@ temple, whereinto it was not lawful for any but the priests alone to
 enter. The temple itself was within this; and before that temple was the
 altar, upon which we offer our sacrifices and burnt-offerings to God.
 Into none of these three did king Herod enter, <span
-id="EndNote Ant 15.24a"></span>[(24)](#EndNote%20Ant%2015.24b) for he
+id="EndNote Ant 15.24a"></span>[(24)](#EndNote%20Ant%2015.24b.md) for he
 was forbidden, because he was not a priest. However, he took care of the
 cloisters and the outer enclosures, and these he built in eight years.
 
@@ -2305,7 +2305,7 @@ erected for himself a tower, that he might have the opportunity of a
 subterraneous ascent to the temple, in order to guard against any
 sedition which might be made by the people against their kings. It is
 also reported, <span
-id="EndNote Ant 15.25a"></span>[(25)](#EndNote%20Ant%2015.25b) that
+id="EndNote Ant 15.25a"></span>[(25)](#EndNote%20Ant%2015.25b.md) that
 during the time that the temple was building, it did not rain in the
 daytime, but that the showers fell in the nights, so that the work was
 not hindered. And this our fathers have delivered to us; nor is it
@@ -2314,14 +2314,14 @@ thus was performed the work of the rebuilding of the temple.
 
 ENDNOTE
 
-<span id="EndNote Ant 15.1b"></span>[(1)](#EndNote%20Ant%2015.1a) The
+<span id="EndNote Ant 15.1b"></span>[(1)](#EndNote%20Ant%2015.1a.md) The
 city here called "Babylon" by Josephus, seems to be one which was built
 by some of the Seleucidae upon the Tigris, which long after the utter
 desolation of old Babylon was commonly so called, and I suppose not far
 from Seleueia; just as the latter adjoining city Bagdat has been and is
 often called by the same old name of Babylon till this very day.
 
-<span id="EndNote Ant 15.2b"></span>[(2)](#EndNote%20Ant%2015.2a) Here
+<span id="EndNote Ant 15.2b"></span>[(2)](#EndNote%20Ant%2015.2a.md) Here
 we have an eminent example of Herod's worldly and profane politics, when
 by the abuse of his unlawful and usurped power, to make whom he pleased
 high priest, in the person of Ananelus, he occasioned such disturbances
@@ -2336,10 +2336,10 @@ corruption of religion by it; and the punishment of whose family for it
 was most remarkable. The case is too well known to stand in need of
 particular citations.
 
-<span id="EndNote Ant 15.3b"></span>[(3)](#EndNote%20Ant%2015.3a) Of
+<span id="EndNote Ant 15.3b"></span>[(3)](#EndNote%20Ant%2015.3a.md) Of
 this wicked Dellius, see the note on the War, B. I. ch. 15. sect. 3.
 
-<span id="EndNote Ant 15.4b"></span>[(4)](#EndNote%20Ant%2015.4a) When
+<span id="EndNote Ant 15.4b"></span>[(4)](#EndNote%20Ant%2015.4a.md) When
 Josephus says here that this Ananelus, the new high priest, was "of the
 stock of the high priests," and since he had been just telling us that
 he was a priest of an obscure family or character, ch. 2. sect. 4, it is
@@ -2354,24 +2354,24 @@ Maccabees; and this tyrant king Herod the Great, although afterward that
 infamous practice became frequent, till the very destruction of
 Jerusalem, when the office of high priesthood was at an end.
 
-<span id="EndNote Ant 15.5b"></span>[(5)](#EndNote%20Ant%2015.5a) This
+<span id="EndNote Ant 15.5b"></span>[(5)](#EndNote%20Ant%2015.5a.md) This
 entirely confutes the Talmudists, who pretend that no one under twenty
 years of age could officiate as high priest among the Jews.
 
-<span id="EndNote Ant 15.6b"></span>[(6)](#EndNote%20Ant%2015.6a) A
+<span id="EndNote Ant 15.6b"></span>[(6)](#EndNote%20Ant%2015.6a.md) A
 Hebrew chronicle, cited by Reland, says this drowning was at Jordan, not
 at Jericho, and this even when he quote Josephus. I suspect the
 transcriber of the Hebrew chronicle mistook the name, and wrote Jordan
 for Jericho.
 
-<span id="EndNote Ant 15.7b"></span>[(7)](#EndNote%20Ant%2015.7a) The
+<span id="EndNote Ant 15.7b"></span>[(7)](#EndNote%20Ant%2015.7a.md) The
 reading of one of Josephus's Greek MSS. seems here to be right, that
 Aristobulus was "not eighteen years old" when he was drowned, for he was
 not seventeen when he was made high priest, ch. 2. sect. 6, ch. 3. sect.
 3, and he continued in that office but one year, as in the place before
 us.
 
-<span id="EndNote Ant 15.8b"></span>[(8)](#EndNote%20Ant%2015.8a) The
+<span id="EndNote Ant 15.8b"></span>[(8)](#EndNote%20Ant%2015.8a.md) The
 reader is here to take notice, that this seventh year of the reign of
 Herod, and all the other years of his reign, in Josephus, are dated from
 the death of Antigonus, or at the soonest from the conclusion of
@@ -2379,13 +2379,13 @@ Antigonus, and the taking of Jerusalem a few months before, and never
 from his first obtaining the kingdom at Rome, above three years before,
 as some have very weakly and injudiciously done.
 
-<span id="EndNote Ant 15.9b"></span>[(9)](#EndNote%20Ant%2015.9a) Herod
+<span id="EndNote Ant 15.9b"></span>[(9)](#EndNote%20Ant%2015.9a.md) Herod
 says here, that as ambassadors were sacred when they carried messages to
 others, so did the laws of the Jews derive a sacred authority by being
 delivered from God by angels, \[or Divine ambassadors,\] which is St.
 Paul's expression about the same laws, Galatians 3:19; Hebrews 2;2.
 
-<span id="EndNote Ant 15.10b"></span>[(10)](#EndNote%20Ant%2015.10a)
+<span id="EndNote Ant 15.10b"></span>[(10)](#EndNote%20Ant%2015.10a.md)
 This piece of religion, the supplicating God with sacrifices, by Herod,
 before he went to this fight with the Arabians, taken notice of also in
 the first book of the War, ch. 19. sect. 5, is worth remarking, because
@@ -2400,7 +2400,7 @@ victors, and so much elevated upon the earthquake in Judea as to venture
 to slay the Jewish ambassadors, were now under a strange consternation,
 and hardly able to fight at all.
 
-<span id="EndNote Ant 15.11b"></span>[(11)](#EndNote%20Ant%2015.11a)
+<span id="EndNote Ant 15.11b"></span>[(11)](#EndNote%20Ant%2015.11a.md)
 Whereas Mariamne is here represented as reproaching: Herod with the
 murder of her father \[Alexander\], as well as her brother
 \[Aristobulus\], while it was her grandfather Hyrcanus, and not her
@@ -2410,7 +2410,7 @@ which is here grandfather, rightly, or else we must, as before, ch. 1.
 sect. 1, allow a slip of Josephus's pen or memory in the place before
 us.
 
-<span id="EndNote Ant 15.12b"></span>[(12)](#EndNote%20Ant%2015.12a)
+<span id="EndNote Ant 15.12b"></span>[(12)](#EndNote%20Ant%2015.12a.md)
 Here is a plain example of a Jewish lady giving a bill of divorce to her
 husband, though in the days of Josephus it was not esteemed lawful for a
 woman so to do. See the like among the Parthians, Antiq. B. XVIII. ch.
@@ -2431,7 +2431,7 @@ ignorance, or such as he supposed he had been guilty of, but did not
 distinctly remember. See somewhat like it of Agrippa the Great, Antiq.
 B. XIX. ch. 3. sect. 3, and Job 1:4, 5.
 
-<span id="EndNote Ant 15.13b"></span>[(13)](#EndNote%20Ant%2015.13a)
+<span id="EndNote Ant 15.13b"></span>[(13)](#EndNote%20Ant%2015.13a.md)
 These grand plays, and shows, and Thymelici, or music meetings, and
 chariot races, when the chariots were drawn by two, three, or four pair
 of horses, etc., instituted by Herod in his theatres, were still, as we
@@ -2444,7 +2444,7 @@ is the case of our modern masquerades, plays, operas, and the like
 "pomps and vanities of this wicked world," of any better tendency under
 Christianity.
 
-<span id="EndNote Ant 15.14b"></span>[(14)](#EndNote%20Ant%2015.14a)
+<span id="EndNote Ant 15.14b"></span>[(14)](#EndNote%20Ant%2015.14a.md)
 Here we have an eminent example of the language of Josephus in his
 writing to Gentiles, different from that when he wrote to Jews; in his
 writing to whom he still derives all such judgments from the anger of
@@ -2452,7 +2452,7 @@ God; but because he knew many of the Gentiles thought they might
 naturally come in certain periods, he complies with them in the
 following sentence. See the note on the War. B. I. ch. 33. sect. 2.
 
-<span id="EndNote Ant 15.15b"></span>[(15)](#EndNote%20Ant%2015.15a)
+<span id="EndNote Ant 15.15b"></span>[(15)](#EndNote%20Ant%2015.15a.md)
 This famine for two years that affected Judea and Syria, the thirteenth
 mid fourteenth years of Herod, which are the twenty-third and
 twenty-fourth years before the Christian era, seems to have been more
@@ -2468,13 +2468,13 @@ to provide a triple crop beforehand; but became now, when the Jews had
 forfeited that blessing, the greatest years of famine to them ever since
 the days of Ahab, 1 Kings 17., 18.
 
-<span id="EndNote Ant 15.16b"></span>[(16)](#EndNote%20Ant%2015.16a)
+<span id="EndNote Ant 15.16b"></span>[(16)](#EndNote%20Ant%2015.16a.md)
 This Aelius Gallus seems to be no other than that Aelius Lagus whom Dio
 speaks of as conducting an expedition that was about this time made into
 Arabia Felix, according to Betarius, who is here cited by Spanheim. See
 a full account of this expedition in Prideaux, at the years 23 and 24.
 
-<span id="EndNote Ant 15.17b"></span>[(17)](#EndNote%20Ant%2015.17a) One
+<span id="EndNote Ant 15.17b"></span>[(17)](#EndNote%20Ant%2015.17a.md) One
 may here take notice, that how tyrannical and extravagant soever Herod
 were in himself, and in his Grecian cities, as to those plays, and
 shows, and temples for idolatry, mentioned above, ch. 8. sect. 1, and
@@ -2501,31 +2501,31 @@ world receives from government be sufficient to make amends for the
 calamities which it suffers from the follies, mistakes, and
 real-administrations of those that manage it."
 
-<span id="EndNote Ant 15.18b"></span>[(18)](#EndNote%20Ant%2015.18a)
+<span id="EndNote Ant 15.18b"></span>[(18)](#EndNote%20Ant%2015.18a.md)
 Cesarea being here said to be rebuilt and adorned in twelve years, and
 soon afterwards in ten years, Antiq. B. XVI. ch. 5. sect. 1, there must
 be a mistake in one of the places as to the true number, but in which of
 them it is hard positively to determine.
 
-<span id="EndNote Ant 15.19b"></span>[(19)](#EndNote%20Ant%2015.19a)
+<span id="EndNote Ant 15.19b"></span>[(19)](#EndNote%20Ant%2015.19a.md)
 This Pollio, with whom Herod's sons lived at Rome, was not Pollio the
 Pharisee, already mentioned by Josephus, ch. 1. sect. 1, and again
 presently after this, ch. 10. sect. 4; but Asinine Pollo, the Roman, as
 Spanheim here observes.
 
-<span id="EndNote Ant 15.20b"></span>[(20)](#EndNote%20Ant%2015.20a) The
+<span id="EndNote Ant 15.20b"></span>[(20)](#EndNote%20Ant%2015.20a.md) The
 character of this Zenodorus is so like that of a famous robber of the
 same name in Strabo, and that about this very country, and about this
 very time also, that I think Dr. Hudson hardly needed to have put a
 overlaps to his determination that they were the same.
 
-<span id="EndNote Ant 15.21b"></span>[(21)](#EndNote%20Ant%2015.21a) A
+<span id="EndNote Ant 15.21b"></span>[(21)](#EndNote%20Ant%2015.21a.md) A
 tetrarchy properly and originally denoted the fourth part of an entire
 kingdom or country, and a tetrarch one that was ruler of such a fourth
 part, which always implies somewhat less extent of dominion and power
 than belong to a kingdom and to a king.
 
-<span id="EndNote Ant 15.22b"></span>[(22)](#EndNote%20Ant%2015.22a) We
+<span id="EndNote Ant 15.22b"></span>[(22)](#EndNote%20Ant%2015.22a.md) We
 may here observe, that the fancy of the modern Jews, in calling this
 temple, which was really the third of their temples, the second temple,
 followed so long by later Christians, seems to be without any solid
@@ -2538,7 +2538,7 @@ largest, and most glorious one, described by Ezekiel; whence I take the
 former notion, how general soever, to be a great mistake. See Lit.
 Accorap. of Proph. p. 2.
 
-<span id="EndNote Ant 15.23b"></span>[(23)](#EndNote%20Ant%2015.23a)
+<span id="EndNote Ant 15.23b"></span>[(23)](#EndNote%20Ant%2015.23a.md)
 Some of our modem students in architecture have made a strange blunder
 here, when they imagine that Josephus affirms the entire foundations of
 the temple or holy house sunk down into the rocky mountain on which it
@@ -2556,7 +2556,7 @@ first king of the Jews, appears by the parallel place, Antiq. B. XX. ch.
 9. sect. 7, and other places, to be meant only the first of David's
 posterity, and the first builder of the temple.
 
-<span id="EndNote Ant 15.24b"></span>[(24)](#EndNote%20Ant%2015.24a)
+<span id="EndNote Ant 15.24b"></span>[(24)](#EndNote%20Ant%2015.24a.md)
 "Into none Of these three did king Herod enter," i.e. 1. Not into the
 court of the priests; 2. Nor into the holy house itself; 3. Nor into the
 separate place belonging to the altar, as the words following imply; for
@@ -2565,7 +2565,7 @@ of them. See Antiq. B. XVI. ch. 4. sect. 6, when Herod goes into the
 temple, and makes a speech in it to the people, but that could only be
 into the court of Israel, whither the people could come to hear him.
 
-<span id="EndNote Ant 15.25b"></span>[(25)](#EndNote%20Ant%2015.25a)
+<span id="EndNote Ant 15.25b"></span>[(25)](#EndNote%20Ant%2015.25a.md)
 This tradition which Josephus here mentions, as delivered down from
 fathers to their children, of this particular remarkable circumstance
 relating to the building of Herod's temple, is a demonstration that such
@@ -2579,4 +2579,4 @@ was not then much greater than it soon may be, whether or not our St.
 Paul's church in London was burnt down in the fire of London, A.D. 1666,
 and rebuilt by Sir Christopher Wren a little afterward.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

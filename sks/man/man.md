@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/man)  [Previous](../mac/mac) 
-[Next](../mfm/mfm) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/man)  [Previous](../mac/mac.md) 
+[Next](../mfm/mfm.md) 
 
 ------------------------------------------------------------------------
 
@@ -4074,4 +4074,4 @@ Index](../index)  [First Folio](../ff/man)  [Previous](../mac/mac) 
 
 ------------------------------------------------------------------------
 
-[Next: Measure for Measure](../mfm/mfm) 
+[Next: Measure for Measure](../mfm/mfm.md) 

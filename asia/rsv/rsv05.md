@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv04)  [Next](rsv06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv04)  [Next](rsv06.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,4 +130,4 @@ Movement</u>, Boston, Beacon Press, 1957
 
 ------------------------------------------------------------------------
 
-[Next: III. Confucianism in Vietnam](rsv06)
+[Next: III. Confucianism in Vietnam](rsv06.md)

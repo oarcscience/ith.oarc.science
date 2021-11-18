@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe357)  [Next](prwe359) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe357)  [Next](prwe359.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ common. "Scaw" was applied to several families.
 
 ------------------------------------------------------------------------
 
-[Next: The Harlyn Pie](prwe359)
+[Next: The Harlyn Pie](prwe359.md)

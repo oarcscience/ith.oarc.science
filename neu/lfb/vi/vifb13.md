@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb12)  [Next](vifb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb12)  [Next](vifb14.md) 
 
 </div>
 
@@ -446,6 +446,6 @@ show his face in the world again.
 
 ------------------------------------------------------------------------
 
-[Next: The Two Frogs](vifb14)
+[Next: The Two Frogs](vifb14.md)
 
 </div>

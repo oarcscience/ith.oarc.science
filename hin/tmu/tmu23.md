@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu22)  [Next](tmu24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu22)  [Next](tmu24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -42,9 +42,9 @@ the musical motes of Sa, Ri, Ga, Ma, Pa, Ḍha, and Ni (of the gamut),
 able to impart indifference to objects and to make one look down upon
 the universe, and instilling divine devotion, fixed and movable (or
 mental and bodily), he entered (the forest), fascinating the crowds of
-beings human, animal, Kimpurushas <span id="fr_104"></span>[1](#fn_103),
-celestials, Kinnaras, <span id="fr_105"></span>[2](#fn_104) Apsaras
-(Houris), and Uragas <span id="fr_106"></span>[3](#fn_105) (collected
+beings human, animal, Kimpurushas <span id="fr_104"></span>[1](#fn_103.md),
+celestials, Kinnaras, <span id="fr_105"></span>[2](#fn_104.md) Apsaras
+(Houris), and Uragas <span id="fr_106"></span>[3](#fn_105.md) (collected
 there). (Thereupon the) great Ṛshis Śāunaka and others who had been
 engaged for twelve years in saṭṭra sacrifice well-skilled in the
 recitation of Veḍas, the knowers of all, and the good practisers of
@@ -66,11 +66,11 @@ observance of Brahmacharya (celibacy), such as the service of the guru,
 etc.; then for twenty-five years the āśrama (order of life) of a
 gṛhasṭha (householder), and for twenty-five years the āśrama of a
 vānaprasṭha (forester). After thus practising well the fourfold
-celibacy, <span id="fr_107"></span>[1](#fn_106) the sixfold <span
-id="fr_108"></span>[2](#fn_107) householder's life, and the
-fourfold <span id="fr_109"></span>[3](#fn_108) forester's life, and
+celibacy, <span id="fr_107"></span>[1](#fn_106.md) the sixfold <span
+id="fr_108"></span>[2](#fn_107.md) householder's life, and the
+fourfold <span id="fr_109"></span>[3](#fn_108.md) forester's life, and
 having performed all the duties thereof, he should acquire the
-fourfold <span id="fr_110"></span>[4](#fn_109) means of salvation; thus
+fourfold <span id="fr_110"></span>[4](#fn_109.md) means of salvation; thus
 the sannyāsin who gives up the desires along with the karmas of mind,
 speech, and body in this samsāra as well as the vāsanā towards the
 threefold desire (of son, wife, and wealth), and being without malice
@@ -366,7 +366,7 @@ life of an ascetic; or from the life of a celibate, or householder, or
 forester may (directly) enter that of an ascetic. The moment vairāgya
 arises in him, he may become an ascetic that moment, whether he is with
 vraṭa (religious observance) or not, is snāṭaka <span
-id="fr_111"></span>[1](#fn_110) or not, or with a discontinued
+id="fr_111"></span>[1](#fn_110.md) or not, or with a discontinued
 fire-sacrifice or not. On account of that, some perform
 Prājāpaṭya-sacrifice alone; or Āgneya-sacrifice may be performed. Is not
 agni, prāṇa? Through this alone, one should perform that sacrifice only
@@ -463,14 +463,14 @@ waist-string, loin-cloth, stick, and cloth. He should ever be engaged in
 the pairs, without receiving anything, being ever settled firmly in the
 Brāhmic path, having a pure mind, eating the food that is obtained
 without asking, in the palm as vessel, or in another's vessel in order
-to merely protect the body at the [time](errata.htm#9) required, being
+to merely protect the body at the [time](errata.htm#9.md) required, being
 of equal mind whether the object is gained or not, without having aught
 of his own, always meditating upon Brahman, being with Āṭma-nishthā,
 having eradicated all actions, virtuous and sinful, and having given up
 all—that one who ever utters Brahma-Praṇava, that "I am Brahman" alone,
 with the blissful and non-dual jñāna, and after rising above the three
 bodies (to Brahman), like the analogy of the wasp and the worm, <span
-id="fr_112"></span>[1](#fn_111) gives up the body as a
+id="fr_112"></span>[1](#fn_111.md) gives up the body as a
 
 <span id="page_146">p. 146</span>
 
@@ -715,7 +715,7 @@ jealousy, envy, ahaṅkāra and all sannyāsa productive of identification,
 after giving up the three vāsanās of the body, books and world, which
 are of the form of desires for women, wealth and earth, and after
 thinking that the whole of the universe should be given up, like vomited
-food. A jñānavairāgya-[sannyāsin](errata.htm#10) is one who becomes an
+food. A jñānavairāgya-[sannyāsin](errata.htm#10.md) is one who becomes an
 ascetic as nature made him, after practising and enjoying all, and
 having the body alone remaining, through jñāna and vairāgya, in the
 realisation of the Reality. A karma-sannyāsin is one who, though he has
@@ -766,7 +766,7 @@ like cows, or if he is an eater of food, may beg food from three houses.
 The naked man having the body alone has the bodily actions (quiescent),
 like the dead body. Such an one is the ṭurīyāṭiṭa. The avaḍhūṭa is he
 who is without any rules, gets his food (in his mouth), following the
-course of the boa constrictor, <span id="fr_113"></span>[1](#fn_112)
+course of the boa constrictor, <span id="fr_113"></span>[1](#fn_112.md)
 from all persons except persons of ill-repute and outcastes, and is ever
 engaged in the realisation of the Real. Should the āṭura-sannyāsin be
 alive (after taking sannyāsa), he should take up regular sannyāsa. The
@@ -867,7 +867,7 @@ Mahāraurava. (The sense of) greatness in his case is likened by the
 ṛshis to the pig's dung. Having given it up, he should move about like a
 worm. Food and cloth without being begged for by him should be obtained
 involuntarily through the will of others. A naked (ascetic) may bathe at
-the wish of another. A man who practises [the](errata.htm#11) meditation
+the wish of another. A man who practises [the](errata.htm#11.md) meditation
 upon Self in the dreaming state as in the waking is said to be the
 foremost and first of Brahmavāḍins. He should neither grieve for things
 not obtained, nor rejoice at things obtained. With the organs not
@@ -1022,7 +1022,7 @@ witness and without qualities appears (as many) through the differences
 of Viśva, Ṭaijasa, Prājña, and Ṭatasṭha (the neutral). One should
 (always) utter: 'I am Brahman alone.' Else in the waking state, (he is)
 in the four states of the waking state and others: <span
-id="fr_114"></span>[1](#fn_113) in the dreaming state, (he is) in the
+id="fr_114"></span>[1](#fn_113) in the dreaming state, (he is.md) in the
 four states of the dreaming state and others; in the dreamless sleeping
 state, (he is) in the four states of the dreamless sleeping and others;
 in the ṭurya, (he is) in the four states of ṭurya and others; to the
@@ -1043,7 +1043,7 @@ the abhimāna of the body, there is the abhimāna of the jīva. The state
 of the jīva is as a screen (to screen Brahman) like (the pot and house
 in) the pot-ākāś and the house-ākāś. Through such a screen, he reaches
 self-realisation through the manṭra—'Hamsa-So’ham' <span
-id="fr_115"></span>[1](#fn_114) having the characteristics of
+id="fr_115"></span>[1](#fn_114.md) having the characteristics of
 inspiration and expiration. Having known thus, if he should give up the
 identification with the body, then he does not identify himself with the
 body (*i.e.*, not attain the state of jīva). Such a one is stated to be
@@ -1185,8 +1185,8 @@ effort, ever intent upon the realisation, through meditation, of
 Brahma-Praṇava, being freed from all karmas, having burnt up all
 passion, anger, greed, delusion, pride, malice, etc., having transcended
 the three guṇas, being without the six human infirmities, <span
-id="fr_116"></span>[1](#fn_115) without the six changes, <span
-id="fr_117"></span>[2](#fn_116) speaking the truth and being opposed to
+id="fr_116"></span>[1](#fn_115.md) without the six changes, <span
+id="fr_117"></span>[2](#fn_116.md) speaking the truth and being opposed to
 all savoury things, he should live for one day in a village, five days
 in a town, five days in a sacred place, and five days in sacred waters.
 With no settled place of residence and with a firm mind, he should dwell
@@ -1198,7 +1198,7 @@ organs. Having attained wealth of vairāgya through the non-dissipated
 jñāna, and having deliberated within himself that there is none other
 than the Self, he should attain Jīvanmukṭi, having seen the Reality
 everywhere. Till prārabḍha karma is over, he should understand the four
-kinds of svarūpa <span id="fr_118"></span>[3](#fn_117) (in Ṭaṭṭvamasi)
+kinds of svarūpa <span id="fr_118"></span>[3](#fn_117) (in Ṭaṭṭvamasi.md)
 and should live in the realisation of Reality, till his body falls (a
 prey to death).
 
@@ -1303,7 +1303,7 @@ as well as the enjoyer of the subtle, and through his identification
 (with the third body) enjoying bliss in the fourth. He has four feet.
 The one presiding over the waking state is gross; and since he is the
 enjoyer of Viśva (the universe), he becomes the sṭhūla-prajñā (gross
-consciousness). He has nineteen <span id="fr_119"></span>[1](#fn_118)
+consciousness). He has nineteen <span id="fr_119"></span>[1](#fn_118.md)
 facets and eight parts. He is pervading everywhere and the Lord. He is
 the enjoyer of the gross and is the chaṭurāṭma called Viśva. He alone is
 the Purusha called Vaiśvānara. He alone is Viśvajiṭ (the conqueror of
@@ -1361,7 +1361,7 @@ as Brahman) escapes out of the mouth of death. There is no other path to
 salvation.
 
 "Is time the cause (of origination of universes)? <span
-id="fr_120"></span>[1](#fn_119) or nature? or karma? or accident? or the
+id="fr_120"></span>[1](#fn_119.md) or nature? or karma? or accident? or the
 (great) elements? or Purusha? This should be considered. It is not the
 union of them. (Then) there is the Āṭmā, but (jīva-) Āṭmā is not the
 Lord, as it is subject to pleasures and pains. Those (Ṛshis) following
@@ -1474,66 +1474,66 @@ Such is the Upanishaḍ.
 
 ### Footnotes
 
-<span id="fn_103"></span>[134:1](tmu23.htm#fr_104) A higher being with
+<span id="fn_103"></span>[134:1](tmu23.htm#fr_104.md) A higher being with
 the form of a horse but with a human head.
 
-<span id="fn_104"></span>[134:2](tmu23.htm#fr_105) A higher being with a
+<span id="fn_104"></span>[134:2](tmu23.htm#fr_105.md) A higher being with a
 human form but with the head of a horse.
 
-<span id="fn_105"></span>[134:3](tmu23.htm#fr_106) A semidivine serpent
+<span id="fn_105"></span>[134:3](tmu23.htm#fr_106.md) A semidivine serpent
 with a human face.
 
-<span id="fn_106"></span>[135:1](tmu23.htm#fr_107) The four
+<span id="fn_106"></span>[135:1](tmu23.htm#fr_107.md) The four
 Brahmacharyas are: (1) Gāyaṭrī; (2) Prājāpaṭya; (3) Vaiḍika; (4)
 Naishtika.
 
-<span id="fn_107"></span>[135:2](tmu23.htm#fr_108) The six Gṛhasṭhas
+<span id="fn_107"></span>[135:2](tmu23.htm#fr_108.md) The six Gṛhasṭhas
 are: (1) Vārṭāvṛtṭi; *viz*., Agriculture; (2) Sālinavṛṭṭi; (3) Yāyāvara;
 (4) Ghorasannyāsin; etc.
 
-<span id="fn_108"></span>[135:3](tmu23.htm#fr_109) The four Vānaprasṭhas
+<span id="fn_108"></span>[135:3](tmu23.htm#fr_109.md) The four Vānaprasṭhas
 are: (1) Auḍumbara; (2) Vaikhānasa; (3) Samprakshāli; (4) Pourṇama.
 
-<span id="fn_109"></span>[135:4](tmu23.htm#fr_110) They are Viveka,
+<span id="fn_109"></span>[135:4](tmu23.htm#fr_110.md) They are Viveka,
 Vairagya, etc.
 
-<span id="fn_110"></span>[143:1](tmu23.htm#fr_111) A celibate who has
+<span id="fn_110"></span>[143:1](tmu23.htm#fr_111.md) A celibate who has
 completed his first Āsrama.
 
-<span id="fn_111"></span>[145:1](tmu23.htm#fr_112) Referring to the idea
+<span id="fn_111"></span>[145:1](tmu23.htm#fr_112.md) Referring to the idea
 of the worm becoming the wasp, with the latter's frequent stinging.
 
-<span id="fn_112"></span>[153:1](tmu23.htm#fr_113) The snake, or boa
+<span id="fn_112"></span>[153:1](tmu23.htm#fr_113.md) The snake, or boa
 constrictor, is said to remain in one place only on account of its huge
 body, taking any food that may come to its mouth as it is lying there.
 
-<span id="fn_113"></span>[160:1](tmu23.htm#fr_114) Probably "others"
+<span id="fn_113"></span>[160:1](tmu23.htm#fr_114.md) Probably "others"
 refer to the subdivisions of the dreaming; so also of other states.
 
-<span id="fn_114"></span>[161:1](tmu23.htm#fr_115) With Hamsa, there is
+<span id="fn_114"></span>[161:1](tmu23.htm#fr_115.md) With Hamsa, there is
 the inspiration, and with So’ham, there is the expiration.
 
-<span id="fn_115"></span>[165:1](tmu23.htm#fr_116) The six human
+<span id="fn_115"></span>[165:1](tmu23.htm#fr_116.md) The six human
 infirmities are hunger, thirst, grief, delusion, dotage, and death.
 
-<span id="fn_116"></span>[165:2](tmu23.htm#fr_117) The six changes are
+<span id="fn_116"></span>[165:2](tmu23.htm#fr_117.md) The six changes are
 birth, existence, growth, transformation, decrease, and annihilation.
 
-<span id="fn_117"></span>[165:3](tmu23.htm#fr_118) "Ṭaṭ" has its two
+<span id="fn_117"></span>[165:3](tmu23.htm#fr_118.md) "Ṭaṭ" has its two
 aspects of the word and its meaning which is Nirguṇa. In "Ṭvam" also
 there are two, *viz*., the disciple and the jīva.
 
-<span id="fn_118"></span>[168:1](tmu23.htm#fr_119) The nineteen are the
+<span id="fn_118"></span>[168:1](tmu23.htm#fr_119.md) The nineteen are the
 five organs of sense, the five organs of action, the five prāṇas, and
 the four of the mind.
 
-<span id="fn_119"></span>[170:1](tmu23.htm#fr_120) The Sveṭāsvaṭara
+<span id="fn_119"></span>[170:1](tmu23.htm#fr_120.md) The Sveṭāsvaṭara
 Upanishaḍ begins thus.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 22. Śāṇdilya-Upanishaḍ of Aṭharvaṇaveḍa](tmu24)
+[Next: 22. Śāṇdilya-Upanishaḍ of Aṭharvaṇaveḍa](tmu24.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,8 +31,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mcm00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mcm.txt.gz)
+[Contents](#contents)    [Start Reading](mcm00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mcm.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -44,25 +44,25 @@ This short collection of texts featuring Chuang Tzu (Zhuangzi), the
 Taoist sage, is a good introduction to the core concepts of the Taoist
 worldview. The author, Lionel Giles, was an eminent Victorian scholar of
 Chinese society, who, most notably, also translated [Sun Tsu's Art of
-War](../../cfu/artwar.txt).
+War](../../cfu/artwar.txt.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](mcm00)  
-[Contents](mcm01)  
-[Note](mcm02)  
-[Editorial Note](mcm03)  
-[Introduction](mcm04)  
-[The Doctrine of Relativity](mcm05)  
-[The Identity of Contraries](mcm06)  
-[Illusions](mcm07)  
-[The Mysterious Immanence of Tao](mcm08)  
-[The Hidden Spring](mcm09)  
-[Non-Interference With Nature](mcm10)  
-[Passive Virtue](mcm11)  
-[Self-Adaptation to Externals](mcm12)  
-[Immortality of the Soul](mcm13)  
-[The Sage, or Perfect Man](mcm14)  
-[Random Gleanings](mcm15)  
-[Personal Anecdotes](mcm16)  
-[Advertisements](mcm17)  
+<span id="contents"></span> [Title Page and Front Matter](mcm00.md)  
+[Contents](mcm01.md)  
+[Note](mcm02.md)  
+[Editorial Note](mcm03.md)  
+[Introduction](mcm04.md)  
+[The Doctrine of Relativity](mcm05.md)  
+[The Identity of Contraries](mcm06.md)  
+[Illusions](mcm07.md)  
+[The Mysterious Immanence of Tao](mcm08.md)  
+[The Hidden Spring](mcm09.md)  
+[Non-Interference With Nature](mcm10.md)  
+[Passive Virtue](mcm11.md)  
+[Self-Adaptation to Externals](mcm12.md)  
+[Immortality of the Soul](mcm13.md)  
+[The Sage, or Perfect Man](mcm14.md)  
+[Random Gleanings](mcm15.md)  
+[Personal Anecdotes](mcm16.md)  
+[Advertisements](mcm17.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp18)  [Next](dmp20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp18)  [Next](dmp20.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ finger, (that) of the ..., of your (30) right hand.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XVII](dmp20)
+[Next: Col. XVII](dmp20.md)

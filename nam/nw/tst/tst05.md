@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](tst04)  [Next](tst06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](tst04)  [Next](tst06.md) 
 
 ------------------------------------------------------------------------
 
@@ -163,4 +163,4 @@ That is the end of the story.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Story of the Porcupine](tst06)
+[Next: 5. Story of the Porcupine](tst06.md)

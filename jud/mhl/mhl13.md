@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl12)  [Next](mhl14) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl12)  [Next](mhl14.md) 
 
 ------------------------------------------------------------------------
 
@@ -589,4 +589,4 @@ To praise and laud thy holiness.
 
 ------------------------------------------------------------------------
 
-[Next: Later Poets](mhl14)
+[Next: Later Poets](mhl14.md)

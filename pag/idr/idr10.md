@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr09) 
-[Next](idr11) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr09.md) 
+[Next](idr11.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ heroes.
 
 ------------------------------------------------------------------------
 
-[Next: German Druidism](idr11)
+[Next: German Druidism](idr11.md)

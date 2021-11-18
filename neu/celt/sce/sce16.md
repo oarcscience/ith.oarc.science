@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce15)  [Next](sce17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce15)  [Next](sce17.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ capable to be a Receptacle of Life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](sce17)
+[Next: Chapter 7](sce17.md)

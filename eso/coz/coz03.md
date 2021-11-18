@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](coz02)  [Next](coz04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](coz02)  [Next](coz04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ for it.*
 
 \_\_\_\_\_\_\_\_
 
-4\. For the Eternal Æon <span id="fr_7"></span>[\*](#fn_7)--according to
+4\. For the Eternal Æon <span id="fr_7"></span>[\*](#fn_7.md)--according to
 the Oracle--is the cause of never failing life, of unwearied power and
 unsluggish energy.
 
@@ -84,7 +84,7 @@ power of the Mind alone.
 
 Proclus in *Theologiam Platonis*, 321. T.
 
-*[Inscrutable](errata.htm#0). Taylor gives "stable;" perhaps
+*[Inscrutable](errata.htm#0.md). Taylor gives "stable;" perhaps
 "incomprehensible" is better*.
 
 \_\_\_\_\_\_\_\_
@@ -95,7 +95,7 @@ Phœnician tongue (instead of
 <span id="page_25">p. 25</span>
 
 the Intelligible Light), and he is also called Sabaoth, <span
-id="fr_8"></span>[\*](#fn_8) signifying that he is above the Seven
+id="fr_8"></span>[\*](#fn_8.md) signifying that he is above the Seven
 poles, that is the Demiurgos.
 
 Lydus, *De Mensibus*, 83. T.
@@ -292,7 +292,7 @@ Anon. Z. or T.
 Damascius in *Parmenidem*. T.
 
 37\. The First Course is Sacred, in the middle place courses the
-Sun, <span id="fr_9"></span>[\*](#fn_9) in the third the Earth is heated
+Sun, <span id="fr_9"></span>[\*](#fn_9.md) in the third the Earth is heated
 by the internal fire.
 
 Anon. Z. or T.
@@ -307,17 +307,17 @@ Simplicius in his *Physica*, 143. Z. or T.
 
 ### Footnotes
 
-<span id="fn_7"></span>[24:\*](coz03.htm#fr_7) *"For the First Æon, the
+<span id="fn_7"></span>[24:\*](coz03.htm#fr_7.md) *"For the First Æon, the
 Eternal one," or as Taylor gives, "Eternity."*
 
-<span id="fn_8"></span>[25:\*](coz03.htm#fr_8) *This word is Chaldee,
+<span id="fn_8"></span>[25:\*](coz03.htm#fr_8.md) *This word is Chaldee,
 TzBAUT, meaning hosts; but there is also a word SHBOH, meaning The
 Seven*.
 
-<span id="fn_9"></span>[29:\*](coz03.htm#fr_9) *Jones gives Sun from
+<span id="fn_9"></span>[29:\*](coz03.htm#fr_9.md) *Jones gives Sun from
 Helios, but some Greek versions give Herios, which Cory translates,
 air*.
 
 ------------------------------------------------------------------------
 
-[Next: Ideas](coz04)
+[Next: Ideas](coz04.md)

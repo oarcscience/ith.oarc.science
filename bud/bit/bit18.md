@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit17)  [Next](bit19) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit17)  [Next](bit19.md) 
 
 ------------------------------------------------------------------------
 
@@ -1516,4 +1516,4 @@ the dead person is buried.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Systems of Reckoning Time](bit19)
+[Next: Chapter XVI. The Systems of Reckoning Time](bit19.md)

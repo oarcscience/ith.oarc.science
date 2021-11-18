@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe176)  [Next](prwe178) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe176)  [Next](prwe178.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ shore, and compel her to peace.
 
 ------------------------------------------------------------------------
 
-[Next: Trewa, the Home of Witches](prwe178)
+[Next: Trewa, the Home of Witches](prwe178.md)

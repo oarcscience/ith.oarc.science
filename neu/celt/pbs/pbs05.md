@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
-[Index](index)  [Previous](pbs04)  [Next](pbs06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
+[Index](index)  [Previous](pbs04)  [Next](pbs06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![K](img/01301.jpg) |
+| ![K](img/01301.jpg.md) |
 
 ENNETH foretold "that, however unlikely it may now appear, the Island of
 Lews will be laid waste by a destructive war, which will continue till
@@ -49,7 +49,7 @@ aware that such a
 
 <span id="page_14">p. 14</span>
 
-calamity as is here foretold has yet [occurred](errata.htm#1), nor are
+calamity as is here foretold has yet [occurred](errata.htm#1.md), nor are
 we aware of the locality of the loch or the village.
 
 We have received various versions of the, as yet, unfulfilled prediction
@@ -363,4 +363,4 @@ unfortunately take place.
 
 ------------------------------------------------------------------------
 
-[Next: Prophecies as to The Fulfilment of Which There is a Doubt](pbs06)
+[Next: Prophecies as to The Fulfilment of Which There is a Doubt](pbs06.md)

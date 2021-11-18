@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index)  [Index](index)  [Previous](ipm04)  [Next](ipm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index)  [Index](index)  [Previous](ipm04)  [Next](ipm06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From India to the Planet Mars*, by Théodore Flournoy; tr. Daniel B.
 Vermilye, \[1900\], at Intangible Textual Heritage
 
@@ -238,7 +238,7 @@ well as for colors, for which latter she has a very delicate perception.
 There is no trace of tactile anæsthesia in her hands. There is no known
 motor trouble. The tremor of the index-finger gives a line, of four
 oscillations per second on an average, differing not at all from the
-lines obtained from persons perfectly normal (see [Fig. 2](#img_fig02)).
+lines obtained from persons perfectly normal (see [Fig. 2](#img_fig02).md).
 
 It cannot be expected that I should paint a full moral and intellectual
 portrait of Mlle. Smith, as I should be in danger of hurting her
@@ -334,8 +334,8 @@ written by him with her hand, as if to
 
 <span id="page_46">p. 46</span>
 
-give more weight to his declarations (see [Fig. 8](ipm06.htm#img_fig08),
-[p. 137](ipm06.htm#page_137).)
+give more weight to his declarations (see [Fig. 8](ipm06.htm#img_fig08.md),
+[p. 137](ipm06.htm#page_137)..md)
 
 It is incontestable that Hélène has a very well-organized brain, as is
 evidenced by the admirable manner in which she manages the important and
@@ -435,7 +435,7 @@ never abused the suggestibility which she shows on such occasions, by
 suggesting ideas of such a nature as to cause her annoyance on the
 following days. The most that has been attempted has been the suggestion
 of some small matters by way of harmless experiment, to be
-[executed](errata.htm#0) by her a few moments after awaking from her
+[executed](errata.htm#0.md) by her a few moments after awaking from her
 trance. There is no need of intentional suggestions to influence her in
 a lasting manner; therefore we have avoided as far as possible
 everything that might leave disagreeable traces behind, and have
@@ -588,7 +588,7 @@ The following is an example of a case of ecstasy:
 Having ascended one day to an upper story, to look for something in a
 dark store-room, she had an apparition of a man in a turban and large
 white cloak, whom she had the impression of recognizing, <span
-id="fr_3"></span>[\*](#fn_3) and whose presence filled her with a
+id="fr_3"></span>[\*](#fn_3.md) and whose presence filled her with a
 delightful calm and profound happiness. She could not recall the
 conversation which passed between them, which, though in an unknown
 language, she nevertheless had the feeling of having perfectly
@@ -612,7 +612,7 @@ and in connection with the most trifling matters.
 There are times when, in spite of herself, she feels compelled to speak
 in distinct rhymes of eight feet, which she does not prepare, and does
 not perceive until the moment she has finished uttering them. <span
-id="fr_4"></span>[\*](#fn_4) In this particular case it is by a quatrain
+id="fr_4"></span>[\*](#fn_4.md) In this particular case it is by a quatrain
 (a very unusual occurrence) that she replies to some one who had
 consulted her in regard to some blue
 
@@ -625,13 +625,13 @@ depending on the underlying Royal cycle; while in the following letter,
 in which she narrates the affair to M. Lemaître, her pen inscribes, all
 unknown to her, strange characters evidently due to the cropping out of
 the Martian cycle, of which she speaks in the letter (see [Fig.
-1](#img_fig01), a passage of that letter making a Martian M and V in the
+1](#img_fig01.md), a passage of that letter making a Martian M and V in the
 words *vers* and *rimait*):
 
 <span id="img_fig01"></span> <span align="CENTER"> [![Fig. 1. Fragment
 of a letter (normal handwriting) of Mlle. Smith, containing two Martian
 letters. (Collection of M. Lemaître.)](tn/fig01.jpg)  
-Click to enlarge](img/fig01.jpg)  
+Click to enlarge](img/fig01.jpg.md)  
 Fig. 1. Fragment of a letter (normal handwriting) of Mlle. Smith,
 containing two Martian letters. (Collection of M. Lemaître.)  
 </span>
@@ -860,7 +860,7 @@ the presence of which can be often
 <span id="page_64">p. 64</span>
 
 established before all the others by investigation, is a complete
-allochiria, <span id="fr_5"></span>[\*](#fn_5) ordinarily accompanied by
+allochiria, <span id="fr_5"></span>[\*](#fn_5.md) ordinarily accompanied by
 various other sensory and motor disturbances. If, at the beginning of
 the seance, Hélène is asked, for example, to raise her right hand, to
 move the left index-finger, or to close one eye, she begins straightway
@@ -877,7 +877,7 @@ curious discussions between him and Hélène, she insisting that such a
 hand was her right, or that the Isle Rousseau is on the left as one
 passes the bridge of Mont Blanc or coming from the railway station, and
 Leopold all the while, by means of raps upon the table, giving her
-clearly to understand she was wrong. <span id="fr_6"></span>[†](#fn_6)
+clearly to understand she was wrong. <span id="fr_6"></span>[†](#fn_6.md)
 
 A little after the allochiria, and sometimes simultaneously with it, are
 to be found various other phenomena, extremely variable, of which I here
@@ -1014,7 +1014,7 @@ appeared to be as perfect immediately after awaking as before the
 seance. The tremor of the index-finger; normal before the seance, is
 very much exaggerated in its amplitude for a certain time after awaking
 and reflects sometimes the respiratory movements, as can be seen by the
-curves of [Fig. 2](#img_fig02). This denotes a great diminution of
+curves of [Fig. 2](#img_fig02.md). This denotes a great diminution of
 kinesthetic sensibility and of voluntary control over the immobility of
 the hand.
 
@@ -1040,7 +1040,7 @@ her apparent awaking, in order not
 
 <span id="img_fig02"></span> <span align="CENTER"> [![Fig. 2. Tremor of
 right index-finger.](tn/fig02.jpg)  
-Click to enlarge](img/fig02.jpg)  
+Click to enlarge](img/fig02.jpg.md)  
   
 </span>
 
@@ -1192,10 +1192,10 @@ fantasy.
 
 ### Footnotes
 
-<span id="fn_3"></span>[54:\*](ipm05.htm#fr_3) Vision relating to the
+<span id="fn_3"></span>[54:\*](ipm05.htm#fr_3.md) Vision relating to the
 Oriental cycle; the man was the Arab sheik, the father of Simandini.
 
-<span id="fn_4"></span>[55:\*](ipm05.htm#fr_4) The following are some of
+<span id="fn_4"></span>[55:\*](ipm05.htm#fr_4.md) The following are some of
 these impromptu rhymes, surely up to the level of the circumstances
 which inspired them, but by which we ought not to judge the *conscious*
 poetic faculties of Mile. Smith:
@@ -1227,14 +1227,14 @@ To a person slightly vain:
 
 </div>
 
-<span id="fn_5"></span>[64:\*](ipm05.htm#fr_5) The confusion of
+<span id="fn_5"></span>[64:\*](ipm05.htm#fr_5.md) The confusion of
 sensations in the two sides of the body, as when a person locates in the
 right leg a touch upon the left leg.
 
-<span id="fn_6"></span>[64:†](ipm05.htm#fr_6) See, on allochiria, P.
+<span id="fn_6"></span>[64:†](ipm05.htm#fr_6.md) See, on allochiria, P.
 Janet, *Stigmates mentaux des hysteriques*, pp. 66-71; and *Nevroses et
 ideés fixes*, vol. i. p. 234.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Personality of Leopold](ipm06)
+[Next: Chapter IV. The Personality of Leopold](ipm06.md)

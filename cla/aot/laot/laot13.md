@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot12) 
-[Next](laot14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot12.md) 
+[Next](laot14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -163,7 +163,7 @@ of old and the people of Thurium and Tarentum, as well as the Melians
 and all who set store by the fashions of Sparta; and they bind a white
 turban on their heads, and their feet are naked for walking and they cut
 their garments to resemble the *exomis* <span
-id="fr_6"></span>[1](#fn_6). But the material of which they make their
+id="fr_6"></span>[1](#fn_6.md). But the material of which they make their
 raiment is a wool that springs wild from the ground, white like that of
 the Pamphylians, though it is of softer growth, and a grease like olive
 oil distills from off it. This is what they make their sacred vesture
@@ -355,10 +355,10 @@ that other.
 
 ### Footnotes
 
-<span id="fn_6"></span>[1:261:1](laot13.htm#fr_6) An overmantle leaving
+<span id="fn_6"></span>[1:261:1](laot13.htm#fr_6.md) An overmantle leaving
 one arm and shoulder bare. Buddhist monks still wear a similar garment.
 The so-called wool was asbestos.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 21-30](laot14)
+[Next: Chapters 21-30](laot14.md)

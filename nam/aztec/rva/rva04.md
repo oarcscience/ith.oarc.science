@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva03)  [Next](rva05) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva03)  [Next](rva05.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### IV. Teteuynan ycuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Ahuiya coçauic xochitla oya cueponca yeua tonana teumechaue
 moquiçican tamoanchan, auayye, auayya, yyao, yya, yyeo, aye ayo, ayy
@@ -122,4 +122,4 @@ species of ornament. (cf. Sahagun, Historia, Lib. II., cap. 37.)
 
 ------------------------------------------------------------------------
 
-[Next: V. Hymn to the Virgin-Mother.](rva05) 
+[Next: V. Hymn to the Virgin-Mother.](rva05.md) 

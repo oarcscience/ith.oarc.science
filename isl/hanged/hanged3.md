@@ -1,9 +1,9 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](hanged2)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](hanged2.md)
 
 ------------------------------------------------------------------------
 
-## THE POEM OF ZUHAIR<span id="fr_1"></span>[1](#note_1)
+## THE POEM OF ZUHAIR<span id="fr_1"></span>[1](#note_1.md)
 
    "Does the blackened ruin, situated in the stony ground between Durraj
 and Mutathallam, which did not speak to me, when addressed, belong to
@@ -29,7 +29,7 @@ morning, oh spot; may you be safe from dangers.'
 
    "Look, oh my friend! do you see any women traveling on camels, going
 over the high ground above the stream of Jurthum?<span
-id="fr_2"></span>[2](#note_2)
+id="fr_2"></span>[2](#note_2.md)
 
    "They have covered their howdahs with coverlets of high value, and
 with a thin screen, the fringes of which are red, resembling blood.
@@ -55,18 +55,18 @@ lodging there,) like the dweller who has pitched his tents.
 
    "They kept the hill of Qanan and the rough ground about it on their
 hand; while there are many, dwelling in Qanan, the shedding of whose
-blood is lawful and unlawful.<span id="fr_3"></span>[3](#note_3)
+blood is lawful and unlawful.<span id="fr_3"></span>[3](#note_3.md)
 
    "They came out from the valley of Soobán, then they crossed it,
 riding in every Qainian howdah new and widened.
 
    "Then I swear by the temple, round which walk the men who built it
 from the tribes of Quraish and Jurhum.<span
-id="fr_4"></span>[4](#note_4)
+id="fr_4"></span>[4](#note_4.md)
 
    "An oath, that you are verily two excellent chiefs, who are found
 worthy of honor in every condition, between ease and distress.<span
-id="fr_5"></span>[5](#note_5)
+id="fr_5"></span>[5](#note_5.md)
 
    "The two endeavorers from the tribe of Ghaiz bin Murrah strove in
 making peace after the connection between the tribes had become broken,
@@ -74,7 +74,7 @@ on account of the shedding of blood.
 
    "You repaired with peace the condition of the tribes of 'Abs and
 Zubyán, after they had fought with one another, and ground up the
-perfume of Manshim between them.<span id="fr_6"></span>[6](#note_6)
+perfume of Manshim between them.<span id="fr_6"></span>[6](#note_6.md)
 
    "And indeed you said, 'if we bring about peace perfectly by the
 spending of money and the conferring of benefits, and by good words, we
@@ -119,11 +119,11 @@ fiercely.
 
    "Then it will grind you as the grinding of the upper millstone
 against the lower, and it will conceive immediately after one birth and
-it will produce twins.<span id="fr_7"></span>[7](#note_7)
+it will produce twins.<span id="fr_7"></span>[7](#note_7.md)
 
    "By my life I swear, how good a tribe it is upon whom Husain Bin
 Zamzam brought an injury by committing a crime which did not please
-them.<span id="fr_8"></span>[8](#note_8)
+them.<span id="fr_8"></span>[8](#note_8.md)
 
    "And he had concealed his hatred, and did not display it, and did not
 proceed to carry out his intention until he got a good opportunity.
@@ -134,19 +134,19 @@ me.'
 
    "Then he attacked his victim from 'Abs, but did not cause fear to the
 people of the many houses, near which death had thrown down his
-baggage.<span id="fr_9"></span>[9](#note_9)
+baggage.<span id="fr_9"></span>[9](#note_9.md)
 
    "They allowed their animals to graze until when the interval between
 the hours of drinking was finished, they took them to the deep pool,
 which is divided by weapons and by shedding of blood.<span
-id="fr_10"></span>[10](#note_10)
+id="fr_10"></span>[10](#note_10.md)
 
    "They accomplished their object amongst themselves, then they led the
 animals back to the pasture of unwholesome indigestible grass.
 
    "I have grown weary of the troubles of life; and he, who lives eighty
 years will, mayest thou have no father if thou doubt<span
-id="fr_11"></span>[11](#note_11) grow weary.
+id="fr_11"></span>[11](#note_11.md) grow weary.
 
    "And I know what has happened to-day and yesterday, before it, but
 verily, of the knowledge of what will happen to-morrow; I am ignorant.
@@ -174,7 +174,7 @@ be a reproach against him, and he will repent of having shown kindness.
 
    "And he who rebels against the butt ends of the spears, then verily
 he will have to obey the spear points joined to every long spear
-shaft.<span id="fr_12"></span>[12](#note_12)
+shaft.<span id="fr_12"></span>[12](#note_12.md)
 
    "And he who does not repulse with his weapons from his tank, will
 have it broken; and he who does not oppress the people will be
@@ -210,43 +210,43 @@ disappointed."
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Islam](../index) [Index](index)
+[Sacred-Texts](../../index) [Islam](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="note_1"></span>[1](#fr_1) This poem begins, as do most Arab
+<span id="note_1"></span>[1](#fr_1.md) This poem begins, as do most Arab
 poems, with love longings, but soon drifts into praise of two
 peacemakers and the story of the feud between two tribes which preceded
 the peace. From this field the poem soon wanders to the philosophic
 maxims of the author. Zuhair is above, all a philosopher.
 
-<span id="note_2"></span>[2](#fr_2) He fancies he sees the women again
+<span id="note_2"></span>[2](#fr_2.md) He fancies he sees the women again
 whom he saw twenty years previously, and he appeals to his companion to
 know if what he sees is real.
 
-<span id="note_3"></span>[3](#fr_3) There are many enemies and many
+<span id="note_3"></span>[3](#fr_3.md) There are many enemies and many
 friends dwelling there.
 
-<span id="note_4"></span>[4](#fr_4) This refers to the temple at Mecca
+<span id="note_4"></span>[4](#fr_4.md) This refers to the temple at Mecca
 which was built by Ismail, son of Abraham, ancestor of the tribe of
 Quraish, who married a woman of Jurhum, an old tribe of Yaman, who were
 the keepers of the temple before Quraish.
 
-<span id="note_5"></span>[5](#fr_5) The theme changes here abruptly, to
+<span id="note_5"></span>[5](#fr_5.md) The theme changes here abruptly, to
 praise of two peacemakers.
 
-<span id="note_6"></span>[6](#fr_6) Some Arabs, making a league to be
+<span id="note_6"></span>[6](#fr_6.md) Some Arabs, making a league to be
 revenged against their enemies, took oath with their hands plunged in a
 certain perfume, made by Manshim, as a sign of their coalition. They
 fought until they were slain to the last of them. Hence the proverb,
 "More unlucky than the perfume of Manshim."
 
-<span id="note_7"></span>[7](#fr_7) The misfortunes arising from war are
+<span id="note_7"></span>[7](#fr_7.md) The misfortunes arising from war are
 double.
 
-<span id="note_8"></span>[8](#fr_8) Husain Bin Zamzam's father was
+<span id="note_8"></span>[8](#fr_8.md) Husain Bin Zamzam's father was
 killed during the war between the Benî Zubyán and the Benî 'Abs. When
 peace was concluded between the tribes, he made a vow secretly that he
 would kill one of the tribe of 'Abs out of the revenge for his father.
@@ -255,16 +255,16 @@ Ibn 'Awf offered them one hundred camels as blood money or his own son
 to kill. The 'Absioms took the camels and spared his son. The poet is
 now praising them for their act.
 
-<span id="note_9"></span>[9](#fr_9) He killed no one while the peace was
+<span id="note_9"></span>[9](#fr_9.md) He killed no one while the peace was
 in force except the one person on whom he meant to take revenge.
 
-<span id="note_10"></span>[10](#fr_10) By the deep pool is meant war,
+<span id="note_10"></span>[10](#fr_10.md) By the deep pool is meant war,
 and the meaning of the lines is that the tribes refrained from war for a
 certain time, after which they again had recourse to arms.
 
-<span id="note_11"></span>[11](#fr_11) A common term of imprecation.
+<span id="note_11"></span>[11](#fr_11.md) A common term of imprecation.
 
-<span id="note_12"></span>[12](#fr_12) The wandering desert Arabs when
+<span id="note_12"></span>[12](#fr_12.md) The wandering desert Arabs when
 they met used to present the butt ends of their spears toward one
 another if their intentions were peaceful, the points if they intended
 fighting.

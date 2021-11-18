@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](kas12)  [Next](kas14) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](kas12)  [Next](kas14.md) 
 
 ------------------------------------------------------------------------
 
@@ -546,4 +546,4 @@ He can't be wrong whose life is in the right.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](kas14)
+[Next: Conclusion](kas14.md)

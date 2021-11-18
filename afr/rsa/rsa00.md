@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Next](rsa01)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Next](rsa01.md)
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ The illustrations are from J. C. Wood: *The Natural History of Man*.
 
 ------------------------------------------------------------------------
 
-[Next](rsa01)
+[Next](rsa01.md)

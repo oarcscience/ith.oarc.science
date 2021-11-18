@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw58)  [Next](omw60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw58)  [Next](omw60.md) 
 
 ------------------------------------------------------------------------
 
@@ -328,4 +328,4 @@ world of the Gods had been searched through and through with fire.
 
 ------------------------------------------------------------------------
 
-[Next: Loki's Punishment](omw60)
+[Next: Loki's Punishment](omw60.md)

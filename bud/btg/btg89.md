@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg88)  [Next](btg90) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg88)  [Next](btg90.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ learn, strong in energy, active in mind, and full of wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: Sariputta's Faith](btg90)
+[Next: Sariputta's Faith](btg90.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](pps01)  [Next](pps03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](pps01)  [Next](pps03.md) 
 
 ------------------------------------------------------------------------
 
@@ -792,4 +792,4 @@ of truth. 3 21, 22 Therefore they will die the death of profaners. 3
 
 ------------------------------------------------------------------------
 
-[Next: 101-150](pps03)
+[Next: 101-150](pps03.md)

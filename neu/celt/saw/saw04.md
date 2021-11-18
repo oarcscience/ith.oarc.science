@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](saw03)  [Next](saw05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](saw03)  [Next](saw05.md) 
 
 ------------------------------------------------------------------------
 
@@ -904,4 +904,4 @@ Ireland after him.
 
 ------------------------------------------------------------------------
 
-[Next: Book Five. Great Wonders of the Olden Time](saw05)
+[Next: Book Five. Great Wonders of the Olden Time](saw05.md)

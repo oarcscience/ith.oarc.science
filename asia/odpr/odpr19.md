@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](odpr18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](odpr18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
 <span id="img_map"></span>
 
 [![Sketch Map of Syria and Palestine (ca. 1924)](tn/map.jpg)  
-Click to enlarge](img/map.jpg)  
+Click to enlarge](img/map.jpg.md)  
 Sketch Map of Syria and Palestine (ca. 1924)  
 
  

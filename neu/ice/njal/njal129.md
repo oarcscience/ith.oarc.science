@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal128)  [Next](njal130) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal128)  [Next](njal130.md) 
 
 ------------------------------------------------------------------------
 
@@ -216,4 +216,4 @@ Gollnir.
 
 ------------------------------------------------------------------------
 
-[Next: 130. Of Kari Solmund's Son](njal130)
+[Next: 130. Of Kari Solmund's Son](njal130.md)

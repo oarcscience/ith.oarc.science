@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn07)  [Next](dbn09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn07)  [Next](dbn09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ older workings must date back to one or even three thousand years before
 the Christian era.
 
 "There are other mines," writes De Barros in the seventeenth
-century, <span id="fr_29"></span>[1](#fn_29) "in a district called
+century, <span id="fr_29"></span>[1](#fn_29.md) "in a district called
 Toroa, which is otherwise known as the kingdom of Butua, whose ruler is
 a prince, by name Burrow, a vassal of Benomotapa. This land is near the
 other which we said consisted of extensive plains, and those ruins are
@@ -150,7 +150,7 @@ people came from the interior called the Cabires, or cannibals. They
 entered the kingdom of Monomotapa, and the reigning king, being weak,
 was in great terror. Thus gradually the Monomotapa fell, and its power
 was scattered until the Kaffir-Zulu raids of our day. <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 The Arab writer, Macoudi, in the tenth century visited the East African
 coast somewhere north of the equator. He found the Indian Sea at that
@@ -214,7 +214,7 @@ and was "built of handsome houses of stone and lime, and very lofty,
 with their windows like those of the Christians; in the same way it has
 streets, and these houses have got terraces, and the wood-work is with
 the masonry, with plenty of gardens, in which there are many fruit trees
-and much water." <span id="fr_31"></span>[1](#fn_31) Kilwa after a time
+and much water." <span id="fr_31"></span>[1](#fn_31.md) Kilwa after a time
 captured Sofala, seizing it from Magadosho. Eventually Kilwa became
 mistress of the island of Zanzibar, of Mozambique, and of much other
 territory. The forty-third ruler of Kilwa after Ali was named Abraham,
@@ -236,7 +236,7 @@ tribute each year.
 Vasco da Gama doubled the Cape of Good Hope in 1497 and went north on
 the east coast as far as India. In the next ten years the Portuguese had
 occupied more than six different points on that coast, including
-Sofala. <span id="fr_32"></span>[1](#fn_32)
+Sofala. <span id="fr_32"></span>[1](#fn_32.md)
 
 Thus civilization waxed and waned in East Africa among prehistoric
 Negroes, Arab and Persian mulattoes on the coast, in the Zend or Zeng
@@ -307,16 +307,16 @@ its cost.
 
 ### Footnotes
 
-<span id="fn_29"></span>[47:1](dbn08.htm#fr_29) Quoted in Bent: *Ruined
+<span id="fn_29"></span>[47:1](dbn08.htm#fr_29.md) Quoted in Bent: *Ruined
 Cities of Mashonaland*, pp. 203 ff.
 
-<span id="fn_30"></span>[49:1](dbn08.htm#fr_30) Cf. "Ethiopia Oriental,"
+<span id="fn_30"></span>[49:1](dbn08.htm#fr_30.md) Cf. "Ethiopia Oriental,"
 by J. Dos Santos, in Theal's *Records of South Africa*, Vol. VII.
 
-<span id="fn_31"></span>[50:1](dbn08.htm#fr_31) Barbosa, quoted in
+<span id="fn_31"></span>[50:1](dbn08.htm#fr_31.md) Barbosa, quoted in
 Keane, II, 482.
 
-<span id="fn_32"></span>[51:1](dbn08.htm#fr_32) It was called Sofala,
+<span id="fn_32"></span>[51:1](dbn08.htm#fr_32.md) It was called Sofala,
 from an Arabic word, and may be associated with the Ophir of Solomon.
 So, too, the river Sabi, a little off Sofala, may be associated with the
 name of the Queen of Sheba, whose lineage was supposed to be perpetuated
@@ -326,6 +326,6 @@ in the powerful Monomotapa as well as the Abyssinians.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The War of Races at Land's End](dbn09)
+[Next: VII. The War of Races at Land's End](dbn09.md)
 
 </div>

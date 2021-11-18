@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow26)  [Next](dow28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow26)  [Next](dow28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -58,7 +58,7 @@ Meadowlark and ate no other game, and *Ol'-le* the Coyote-man ate
 nothing at all.
 
 One day *Wek'-wek* said: "Grandfather, I want to see what is on the
-other side of *Mel'-le-a-loo'-mah*. <span id="fr_14"></span>[15](#fn_14)
+other side of *Mel'-le-a-loo'-mah*. <span id="fr_14"></span>[15](#fn_14.md)
 I want to see the country on the other side."
 
 "All right," answered *Ol'-le*.
@@ -86,7 +86,7 @@ mountain at the south end of the lake, from which he could see over all
 the valley. The flat ground at the base of the mountain was covered with
 geese of the black-neck kind called *Lah'-kah*. At the foot of the peak
 was a small flat-topped blue oak tree, the kind called *moo-le*. <span
-id="fr_15"></span>[16](#fn_15) When the geese, which were walking on the
+id="fr_15"></span>[16](#fn_15.md) When the geese, which were walking on the
 ground, came up to this tree, *Wek'-wek* took careful aim with his
 *low'-ke* and let fly and the stone flew down among them and killed more
 than two hundred, and then came back to his hand. He at once fired again
@@ -105,7 +105,7 @@ someone coming. It was *Sah'-te* the Weasel-man, who lives under the
 [![&lt;i&gt;Ol'-le&lt;/i&gt; the Coyote-man and
 &lt;i&gt;Wek'-wek&lt;/i&gt; the Falcon-man at their
 Roundhouse](tn/14100.jpg)  
-Click to enlarge](img/14100.jpg)  
+Click to enlarge](img/14100.jpg.md)  
 *Ol'-le* the Coyote-man and *Wek'-wek* the Falcon-man at their
 Roundhouse  
 </span>
@@ -239,7 +239,7 @@ side in another place, and so on in each place
 
 <span id="img_14700"></span> <span align="CENTER"> [![Wek'-wek on the
 hilltop killing Geese with his Sling](tn/14700.jpg)  
-Click to enlarge](img/14700.jpg)  
+Click to enlarge](img/14700.jpg.md)  
 Wek'-wek on the hilltop killing Geese with his Sling  
 </span>
 
@@ -325,15 +325,15 @@ tree.
 
 ### Footnotes
 
-<span id="fn_14"></span>[139:15](dow27.htm#fr_14) *Mel'-le-a-loo'-mah*
+<span id="fn_14"></span>[139:15](dow27.htm#fr_14.md) *Mel'-le-a-loo'-mah*
 is the name of the hill-country south of Lower Lake--between Lower Lake
 and Coyote Valley.
 
-<span id="fn_15"></span>[140:16](dow27.htm#fr_15) My informant pointed
+<span id="fn_15"></span>[140:16](dow27.htm#fr_15.md) My informant pointed
 out this little old tree to me and said that when he was a little boy
 his father told him that it had always been there, just as it was in the
 days of *Wek'-wek*.
 
 ------------------------------------------------------------------------
 
-[Next: How *Cha'-ka* the Tule-wren Shot out the Sun](dow28)
+[Next: How *Cha'-ka* the Tule-wren Shot out the Sun](dow28.md)

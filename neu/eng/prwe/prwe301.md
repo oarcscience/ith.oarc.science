@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe300)  [Next](prwe302) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe300)  [Next](prwe302.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ of Cornwall.*
 
 ------------------------------------------------------------------------
 
-[Next: Weather at Liskeard](prwe302)
+[Next: Weather at Liskeard](prwe302.md)

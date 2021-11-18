@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](irl00)    [Page
-Index](pageidx)    [Text (Zipped)](irltxt.zip)
+[Contents](#contents)    [Start Reading](irl00.md)    [Page
+Index](pageidx)    [Text (Zipped)](irltxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -87,40 +87,40 @@ become accepted UFO canon.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](irl00)  
-[Foreword](irl01)  
+<span id="contents"></span> [Title Page](irl00.md)  
+[Foreword](irl01.md)  
 <span id="section_000"></span>
 
 ### I Remember Lemuria
 
-[Chapter I. City of the Titans](irl02)  
-[Chapter II. From Art to Embryology](irl03)  
-[Chapter III. Terror in Tean City](irl04)  
-[Chapter IV. Escape Into Space](irl05)  
-[Chapter V, The Princess Vanue](irl06)  
-[Chapter VI. Conclave of the Elders](irl07)  
-[Chapter VII. A Wedding on Nor](irl08)  
-[Chapter VIII. Return to Mu](irl09)  
-[Chapter IX. The Abandondero](irl10)  
-[Chapter X. Into the Tunnels of the Dero](irl11)  
-[Chapter XI. Battle to the Death](irl12)  
+[Chapter I. City of the Titans](irl02.md)  
+[Chapter II. From Art to Embryology](irl03.md)  
+[Chapter III. Terror in Tean City](irl04.md)  
+[Chapter IV. Escape Into Space](irl05.md)  
+[Chapter V, The Princess Vanue](irl06.md)  
+[Chapter VI. Conclave of the Elders](irl07.md)  
+[Chapter VII. A Wedding on Nor](irl08.md)  
+[Chapter VIII. Return to Mu](irl09.md)  
+[Chapter IX. The Abandondero](irl10.md)  
+[Chapter X. Into the Tunnels of the Dero](irl11.md)  
+[Chapter XI. Battle to the Death](irl12.md)  
 <span id="section_001"></span>
 
 ### The Return of Sathanas
 
-[Chapter I. Quest of the Darkome](irl13)  
-[Chapter II. Whence Came Sathanas?](irl14)  
-[Chapter III. Back on Mother Mu](irl15)  
-[Chapter IV. Pact with the Aesir](irl16)  
-[Chapter V. War Against the Jotuns](irl17)  
-[Chapter VI. In the Hands of Sathanas](irl18)  
-[Chapter VII. A Valuable Chunk of Meat](irl19)  
-[Chapter VIII. Under The Pain Ray](irl20)  
-[Chapter IX. Seizing the Satana](irl21)  
-[Chapter X. A Satanic Hostage](irl22)  
-[Chapter XI. Plot Against Pandral](irl23)  
-[Chapter XII. Harald's Hostages](irl24)  
+[Chapter I. Quest of the Darkome](irl13.md)  
+[Chapter II. Whence Came Sathanas?](irl14.md)  
+[Chapter III. Back on Mother Mu](irl15.md)  
+[Chapter IV. Pact with the Aesir](irl16.md)  
+[Chapter V. War Against the Jotuns](irl17.md)  
+[Chapter VI. In the Hands of Sathanas](irl18.md)  
+[Chapter VII. A Valuable Chunk of Meat](irl19.md)  
+[Chapter VIII. Under The Pain Ray](irl20.md)  
+[Chapter IX. Seizing the Satana](irl21.md)  
+[Chapter X. A Satanic Hostage](irl22.md)  
+[Chapter XI. Plot Against Pandral](irl23.md)  
+[Chapter XII. Harald's Hostages](irl24.md)  
 
  
 
-[Mr. Shaver's Lemurian Alphabet](irl25)  
+[Mr. Shaver's Lemurian Alphabet](irl25.md)  

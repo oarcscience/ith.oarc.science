@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](nop00)    [Page
-Index](pageidx)    [Text \[Zipped\]](nop.txt.gz)
+[Contents](#contents)    [Start Reading](nop00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](nop.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -39,31 +39,31 @@ short book includes many rare snippets of information.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](nop00)  
-[Contents](nop01)  
-[Preface to the First Edition, 1890](nop02)  
-[Preface to the Second Edition, 1902](nop03)  
-[Part I. Pythagoras, his Tenets and his Followers](nop04)  
-[Part II. Pythagorean Views on Numbers](nop05)  
-[Part III. The Kabalah On Numbers](nop06)  
+<span id="contents"></span> [Title Page](nop00.md)  
+[Contents](nop01.md)  
+[Preface to the First Edition, 1890](nop02.md)  
+[Preface to the Second Edition, 1902](nop03.md)  
+[Part I. Pythagoras, his Tenets and his Followers](nop04.md)  
+[Part II. Pythagorean Views on Numbers](nop05.md)  
+[Part III. The Kabalah On Numbers](nop06.md)  
 <span id="section_000"></span>
 
 ### Part IV. The Individual Numerals
 
-[The Monad. 1.](nop07)  
-[The Dyad. 2.](nop08)  
-[The Triad. 3.](nop09)  
-[Three and A Half, 3½](nop10)  
-[The Tetrad. 4.](nop11)  
-[The Pentad. 5](nop12)  
-[The Hexad. 6.](nop13)  
-[The Heptad. 7.](nop14)  
-[The Ogdoad. 8.](nop15)  
-[The Ennead. 9.](nop16)  
-[The Decad. 10.](nop17)  
-[Eleven. 11.](nop18)  
-[Twelve. 12.](nop19)  
-[Thirteen. 13.](nop20)  
-[Some Hindoo Uses Of Numbers](nop21)  
-[Other Higher Numbers](nop22)  
-[The Apocalyptic Numbers](nop23)  
+[The Monad. 1.](nop07.md)  
+[The Dyad. 2.](nop08.md)  
+[The Triad. 3.](nop09.md)  
+[Three and A Half, 3½](nop10.md)  
+[The Tetrad. 4.](nop11.md)  
+[The Pentad. 5](nop12.md)  
+[The Hexad. 6.](nop13.md)  
+[The Heptad. 7.](nop14.md)  
+[The Ogdoad. 8.](nop15.md)  
+[The Ennead. 9.](nop16.md)  
+[The Decad. 10.](nop17.md)  
+[Eleven. 11.](nop18.md)  
+[Twelve. 12.](nop19.md)  
+[Thirteen. 13.](nop20.md)  
+[Some Hindoo Uses Of Numbers](nop21.md)  
+[Other Higher Numbers](nop22.md)  
+[The Apocalyptic Numbers](nop23.md)  

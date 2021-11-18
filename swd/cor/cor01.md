@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](cor00)  [Next](cor02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](cor00)  [Next](cor02.md) 
 
 ------------------------------------------------------------------------
 
@@ -1259,7 +1259,7 @@ by all hurtful and death-producing waters, therefore also by waters from
 an inundation of which man dies, consequently by the Noahian flood.
 \[2\] That falsities in a mass are described by "inundations," may he
 evident from the following passages: Jehovah <span
-id="fr_0"></span>[34-1](#fn_0) is causing to come up upon them the
+id="fr_0"></span>[34-1](#fn_0.md) is causing to come up upon them the
 waters of the river (Euphrates) strong and many it shall pass through
 Judah, it shall inundate, it shall pass through, it shall reach even to
 the neck (Isa. 8:7, 8). By the "waters of the river Euphrates," are
@@ -1914,9 +1914,9 @@ what follows.
 
 ### Footnotes
 
-<span id="fn_0"></span>[34-1](cor01.htm#fr_0) Dr. Worcester has
+<span id="fn_0"></span>[34-1](cor01.htm#fr_0.md) Dr. Worcester has
 "dominus," which agrees with the Hebrew.
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](cor02)
+[Next: 51-100](cor02.md)

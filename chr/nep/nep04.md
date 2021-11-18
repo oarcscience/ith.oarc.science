@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep03)  [Next](nep05) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep03)  [Next](nep05.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ the power, and the glory, for ever. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: The Ten Commandments](nep05)
+[Next: The Ten Commandments](nep05.md)

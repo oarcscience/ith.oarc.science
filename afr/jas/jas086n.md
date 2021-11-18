@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas085n)  [Next](jas087n)   
- \[[86. The Girls who married the Devil.](jas086)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas085n)  [Next](jas087n.md)   
+ \[[86. The Girls who married the Devil.](jas086.md)\]
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ to the exclusion of any further development of the flight theme.
 
 ------------------------------------------------------------------------
 
-[Next: Note 87. Bull as Bridegroom.](jas087n)
+[Next: Note 87. Bull as Bridegroom.](jas087n.md)

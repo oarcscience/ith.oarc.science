@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb10)  [Next](orfb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb10)  [Next](orfb12.md) 
 
 </div>
 
@@ -454,6 +454,6 @@ stepdaughter lived happily to the end of her days.
 
 ------------------------------------------------------------------------
 
-[Next: The Goldsmith's Fortune](orfb12)
+[Next: The Goldsmith's Fortune](orfb12.md)
 
 </div>

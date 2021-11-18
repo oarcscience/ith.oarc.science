@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](toa13)  [Next](toa15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](toa13)  [Next](toa15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Treasure of Atlantis*, by J. Allan Dunn, \[1916\], at Intangible
 Textual Heritage
 
@@ -188,7 +188,7 @@ increased the temperature perceptibly before the opening closed again.
 
 "The Spot of Sacrifice," whispered Laidlaw. "Connected by a shaft with
 the volcano itself, I think. At dawn, the sun shines through a crack
-that penetrates the roof and faces the east. The [gem](errata.htm#15) is
+that penetrates the roof and faces the east. The [gem](errata.htm#15.md) is
 the finger of Minos which stirs his emblem, the sun flower, to life.
 With its opening the shaft is uncovered, and the victim is hot into the
 incandescent lava.
@@ -207,7 +207,7 @@ happened to Kiron. He's got to be here before daylight to do us any good
 or to avoid discovery."
 
 Ru and his followers, satisfied that the hellish
-[machinery](errata.htm#16) was in working order, departed. The lights
+[machinery](errata.htm#16.md) was in working order, departed. The lights
 still burned in the Hall of Sacrifice, and from beyond the walls the
 silent watchers could hear the faint sound of chanting.
 
@@ -227,7 +227,7 @@ Four of the priests received the victims, as the priestesses took up a
 station to the right of the altar, standing opposite to the attendants
 of Ru. There was a long pause.
 
-In the [hidden](errata.htm#17) cavity behind the calendar stone, Morse
+In the [hidden](errata.htm#17.md) cavity behind the calendar stone, Morse
 and Laidlaw could hear the beating of their hearts as they prayed for
 Kiron's coming. They counted a double company of guards within the Hall
 of Sacrifice, and another detachment entered in company with Rana, who
@@ -347,6 +347,6 @@ out the furious attackers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII—The End of Atlantis](toa15)
+[Next: Chapter XIII—The End of Atlantis](toa15.md)
 
 </div>

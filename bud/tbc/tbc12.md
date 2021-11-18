@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](tbc11)  [Next](tbc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](tbc11)  [Next](tbc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddhist Catechism*, by Henry S. Olcott \[1908\], at Intangible
 Textual Heritage
 
@@ -326,7 +326,7 @@ A. They gradually develop in one who pursues a certain course of ascetic
 practice called Dhyâna.
 
 369\. Q. *Can this Iddhî power be lost?* <span
-id="fr_24"></span>[\*](#fn_25)
+id="fr_24"></span>[\*](#fn_25.md)
 
 A. The Bahira can be lost, but the Sasanika never, when once acquired.
 Lokottara knowledge once obtained is never lost, and it is by this
@@ -357,7 +357,7 @@ had foretold he would.
 
 A. Normally, they gradually develop themselves. as the disciple
 progressively gains control over his lower nature in a series of
-girths. <span id="fr_25"></span>[\*](#fn_26)
+girths. <span id="fr_25"></span>[\*](#fn_26.md)
 
 374\. Q. *Does Buddhism pretend that the miracle of raising those who
 are dead is possible?*
@@ -418,7 +418,7 @@ by magicians and sorcerers learned in the Laukika, or the baser form of
 monks are among the unpardonable sins (*Tevijga Sutta*).
 
 381\. Q. *You spoke of a 'deva' having appeared to the Prince
-[Siddhârtha](errata.htm#5) under a variety of forms; what do Buddhists
+[Siddhârtha](errata.htm#5.md) under a variety of forms; what do Buddhists
 believe respecting races of elemental invisible beings having relations
 with mankind?*
 
@@ -449,22 +449,22 @@ invite their approach.
 
 ### Footnotes
 
-<span id="fn_25"></span>[105:\*](tbc12.htm#fr_24) Sumangala Sthavira
+<span id="fn_25"></span>[105:\*](tbc12.htm#fr_24.md) Sumangala Sthavira
 explains to me that those transcendent powers are permanently possessed
 only by one who has subdued all the passions (*Klesa*), in other words,
 an Arhat. The powers may be developed by a bad man and used for doing
 evil things, but their activity is but brief, the rebellious passions
 again dominate the sorcerer, and he becomes at last their victim.
 
-<span id="fn_26"></span>[106:\*](tbc12.htm#fr_25) When the powers
+<span id="fn_26"></span>[106:\*](tbc12.htm#fr_25.md) When the powers
 suddenly show themselves, the inference is that the individual had
-[developed](errata.htm#4) himself in the next anterior-birth. We do not
+[developed](errata.htm#4.md) himself in the next anterior-birth. We do not
 believe in eccentric breaks in natural law.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](tbc13)
+[Next: Appendix](tbc13.md)
 
 </div>

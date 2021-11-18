@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas084n)  [Next](jas086n)   
- \[[85. Man-Snake as Bridegroom.](jas085)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas084n)  [Next](jas086n.md)   
+ \[[85. Man-Snake as Bridegroom.](jas085.md)\]
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ story popular.
 
 ------------------------------------------------------------------------
 
-[Next: Note 86. The Girls who married the Devil.](jas086n)
+[Next: Note 86. The Girls who married the Devil.](jas086n.md)

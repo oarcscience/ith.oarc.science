@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil28)  [Next](seil30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil28)  [Next](seil30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -99,7 +99,7 @@ which he has for the thing which he chooses, is only for his Creator and
 Lord.
 
 **Second Rule**. The second, to set before me a man whom I have never
-seen nor known, and I <span id="fr_16"></span>[17](seil83.htm#fn_16)
+seen nor known, and I <span id="fr_16"></span>[17](seil83.htm#fn_16.md)
 desiring all his perfection, to consider what I would tell him to do and
 elect for the greater glory of God our Lord, and the greater perfection
 of his soul, and I, doing likewise, to keep the rule which I set for the
@@ -112,7 +112,7 @@ me make my decision in everything.
 
 **Fourth Rule**. The fourth, looking and considering how I shall find
 myself on the Day of Judgment, to think how I would then want to
-have <span id="fr_17"></span>[18](seil83.htm#fn_17) deliberated about
+have <span id="fr_17"></span>[18](seil83.htm#fn_17.md) deliberated about
 the present matter, and to take now the rule which I would then wish to
 have kept, in order that I may then find myself in entire pleasure and
 joy.
@@ -123,4 +123,4 @@ conformably to the sixth Point of the First Way of making election.
 
 ------------------------------------------------------------------------
 
-[Next: To Amend and Reform One's Own Life](seil30)
+[Next: To Amend and Reform One's Own Life](seil30.md)

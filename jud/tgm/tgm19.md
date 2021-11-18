@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm18)  [Next](tgm20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm18)  [Next](tgm20.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ God does, he does for the best."
 <span id="img_09000"></span>
 
 [![](tn/09000.jpg)  
-Click to enlarge](img/09000.jpg)
+Click to enlarge](img/09000.jpg.md)
 
  
 
@@ -152,4 +152,4 @@ And Akiba continued on his journey.
 
 ------------------------------------------------------------------------
 
-[Next: 17. Fish Out of Water](tgm20)
+[Next: 17. Fish Out of Water](tgm20.md)

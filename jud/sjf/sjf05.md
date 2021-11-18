@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sjf04)  [Next](sjf06) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sjf04)  [Next](sjf06.md) 
 
 ------------------------------------------------------------------------
 
@@ -209,4 +209,4 @@ wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV.](sjf06)
+[Next: Chapter IV.](sjf06.md)

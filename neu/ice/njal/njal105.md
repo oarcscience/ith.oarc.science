@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal104)  [Next](njal106) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal104)  [Next](njal106.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ and now all is quiet for a long while.
 
 ------------------------------------------------------------------------
 
-[Next: 106. Of Valgard The Guileful](njal106)
+[Next: 106. Of Valgard The Guileful](njal106.md)

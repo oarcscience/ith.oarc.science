@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Next](err01) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Next](err01.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ Probably an error--Charles G. Leland)
 
 ------------------------------------------------------------------------
 
-[Next: Contents](err01)
+[Next: Contents](err01.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof03)  [Next](otof05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof03)  [Next](otof05.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ single cell that originally developed because of a freak accident in
 nature? Are we alone in the Universe?" Reason tells them that out of
 billions and quadrillions of worlds life must exist on many of them. And
 those who have complete faith in their Creator realize He wouldn't
-[create](errata.htm#0) Man and place him on one planet alone. They know
+[create](errata.htm#0.md) Man and place him on one planet alone. They know
 He wouldn't create other worlds to be merely floating balls of poisonous
 gas or vapor. First came inhabitable worlds, then came Man!
 
@@ -215,4 +215,4 @@ George Hunt Williamson
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. The Great Influx](otof05)
+[Next: Chapter 1. The Great Influx](otof05.md)

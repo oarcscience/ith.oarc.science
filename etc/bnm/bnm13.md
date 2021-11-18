@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm12)  [Next](bnm14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm12)  [Next](bnm14.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ called snipes.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Serpent Sheds His Skin.](bnm14)
+[Next: Why The Serpent Sheds His Skin.](bnm14.md)

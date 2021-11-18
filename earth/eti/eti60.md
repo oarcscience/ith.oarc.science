@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti59)  [Next](eti61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti59)  [Next](eti61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ and induce another to publish the book if you shrink from the
 responsibility, but in your revision do not in any way alter the meaning
 of the statements made in the manuscript; have it copied for the
 printer, and take no part in comments that may arise among men
-concerning its reception. <span id="fr_14"></span>[\*](#fn_14) Those who
+concerning its reception. <span id="fr_14"></span>[\*](#fn_14.md) Those who
 are
 
 <span id="page_361">p. 361</span>
@@ -74,7 +74,7 @@ the truths contained in these details will be disclosed. Finally, you
 must mutilate a page of the manuscript that you may select, and preserve
 the fragment intact and in secret. Do not print another edition unless
 you are presented with the words of the part that is missing. <span
-id="fr_15"></span>[\*](#fn_15)
+id="fr_15"></span>[\*](#fn_15.md)
 
 (Signed.) I—AM—THE—MAN.
 
@@ -128,12 +128,12 @@ THE END.
 
 <span id="img_36300"></span> <span align="CENTER">
 [![Manuscript](tn/36300.jpg)  
-Click to enlarge](img/36300.jpg)  
+Click to enlarge](img/36300.jpg.md)  
   
 </span>
 
 Had the above communication and the missing fragment of manuscript been
-withheld (see page [161](eti31.htm#page_161)), it is needless to say
+withheld (see page [161](eti31.htm#page_161).md), it is needless to say
 that this second edition of Etidorhpa would not have appeared.
 
 On behalf of the undersigned, who is being most liberally scolded by
@@ -146,7 +146,7 @@ scolded.—J. U. L.
 
 <span id="img_36400"></span> <span align="CENTER">
 [![Manuscript](tn/36400.jpg)  
-Click to enlarge](img/36400.jpg)  
+Click to enlarge](img/36400.jpg.md)  
   
 </span>
 
@@ -158,20 +158,20 @@ misconstrued.—J. U. L.
 
 ### Footnotes
 
-<span id="fn_14"></span>[360:\*](eti60.htm#fr_14) From a review of the
-fac simile (see [p. 35](eti11.htm#page_35)), it will be seen that an
+<span id="fn_14"></span>[360:\*](eti60.htm#fr_14.md) From a review of the
+fac simile (see [p. 35](eti11.htm#page_35).md), it will be seen that an
 exact print word for word could not be expected. In more than one
 instance subsequent study demonstrated that the first conception was
 erroneous, and in the interview with Etidorhpa (see [p.
-252](eti47.htm#page_252)), after the <span id="page_360">p. 360</span>
+252](eti47.htm#page_252).md), after the <span id="page_360">p. 360</span>
 page had been plated, it was discovered that the conveyed meaning was
 exactly the reverse of the original. Luckily the error was discovered in
 time to change the verse, and leave the spirit of this fair creature
 unblemished.—J. U. L.
 
-<span id="fn_15"></span>[361:\*](eti60.htm#fr_15) I have excised a
-portion (see [p. 190](eti36.htm#page_190)).—J. U. L.
+<span id="fn_15"></span>[361:\*](eti60.htm#fr_15.md) I have excised a
+portion (see [p. 190](eti36.htm#page_190).md).—J. U. L.
 
 ------------------------------------------------------------------------
 
-[Next: The Life of Prof. Daniel Vaughn](eti61)
+[Next: The Life of Prof. Daniel Vaughn](eti61.md)

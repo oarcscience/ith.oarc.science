@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia22)  [Next](aia24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia22)  [Next](aia24.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ proceed further in his demands. yea or nay.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXI. To Know Whether a Thing Demanded will be Brought to
-Perfection, Yea or Nay](aia24)
+Perfection, Yea or Nay](aia24.md)

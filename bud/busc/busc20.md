@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc19)  [Next](busc21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc19)  [Next](busc21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -41,7 +41,7 @@ and,
 
 <span id="page_98">p. 98</span>
 
-asking him what he had done <span id="fr_13"></span>[1](#fn_13) spoke
+asking him what he had done <span id="fr_13"></span>[1](#fn_13.md) spoke
 this verse:
 
 <div style="margin-left: 32px">
@@ -79,7 +79,7 @@ Become not thou a pig-faced ghost.</span>
 
 Then the elder Nārada went for alms, and, returning in the afternoon
 with his food, related the matter, while the Master sat in the midst of
-the fourfold assembly. <span id="fr_14"></span>[2](#fn_14) The Master
+the fourfold assembly. <span id="fr_14"></span>[2](#fn_14.md) The Master
 said, "Even before now I have seen this being." And he declared the
 doctrine, explaining the manifold worthlessness and evil results due to
 misbehaviour in speech, and the blessings resulting from right speech.
@@ -90,16 +90,16 @@ Comm.*)
 
 ### Footnotes
 
-<span id="fn_13"></span>[98:1](busc20.htm#fr_13) *I.e.* what karma had
+<span id="fn_13"></span>[98:1](busc20.htm#fr_13.md) *I.e.* what karma had
 brought him to that state.
 
-<span id="fn_14"></span>[98:2](busc20.htm#fr_14) Brethren, sisters, lay
+<span id="fn_14"></span>[98:2](busc20.htm#fr_14.md) Brethren, sisters, lay
 brethren, lay sisters.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. The Jewel Discourse. A Spell](busc21)
+[Next: XVIII. The Jewel Discourse. A Spell](busc21.md)
 
 </div>

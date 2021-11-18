@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow12)  [Next](wow14) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow12)  [Next](wow14.md) 
 
 ------------------------------------------------------------------------
 
@@ -223,4 +223,4 @@ Shepperton and the hot, still splendour of the sunset.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fourteen: In London](wow14)
+[Next: Chapter Fourteen: In London](wow14.md)

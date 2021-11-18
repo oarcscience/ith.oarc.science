@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](sou02)  [Next](sou04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](sou02)  [Next](sou04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -180,7 +180,7 @@ mean.<span id="img__01202"></span>
 
 |                                                          |
 |----------------------------------------------------------|
-| ![signature of Hendrick Willem Van Loon](img/_01202.jpg) |
+| ![signature of Hendrick Willem Van Loon](img/_01202.jpg.md) |
 
 And I shall be content.
 
@@ -198,4 +198,4 @@ Kiruna, Lapland,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One](sou04)
+[Next: Chapter One](sou04.md)

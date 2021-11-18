@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar037) [Next](gbar039)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar037) [Next](gbar039.md)
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ but sought only God and his honour.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar039)
+[Next](gbar039.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo83)  [Next](hoo85) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo83)  [Next](hoo85.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ And wipe from moisture, Æther's beauteous eye.
 
 ------------------------------------------------------------------------
 
-[Next: LXXX: To The West Wind](hoo85)
+[Next: LXXX: To The West Wind](hoo85.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa22)  [Next](soa24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa22)  [Next](soa24.md) 
 
 ------------------------------------------------------------------------
 
@@ -180,4 +180,4 @@ ruler and as a chief high priest.
 
 ------------------------------------------------------------------------
 
-[Next: Emigrations](soa24)
+[Next: Emigrations](soa24.md)

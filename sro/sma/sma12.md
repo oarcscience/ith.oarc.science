@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma11)  [Next](sma13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma11)  [Next](sma13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -93,7 +93,7 @@ female attendants, to undertake the pilgrimage to the holy city of
 Mecca, to worship at the tomb of the Prophet. The sacred banner was,
 according to custom, borne before the caravan of the pilgrims from
 Alamoot, and the Tesbeel, or distribution of water to the pilgrims,
-usual on such occasions <span id="fr_57"></span>[\*](#fn_57), was
+usual on such occasions <span id="fr_57"></span>[\*](#fn_57.md), was
 performed by the harem of the mountain-prince on such a scale of
 magnificence and liberality as far eclipsed that of the great Shah of
 Khaurism, whose caravan reached Bagdad at the same time on its way to
@@ -146,7 +146,7 @@ The mountain range named Demavend, on the south side of which Roodbar,
 the territory of the Ismaïlites, lies, is the northern termination of
 the province of Irak Ajemee, or Persian Irak. Beyond it stretches to the
 Caspian Sea a fertile region, partly hilly, partly plain <span
-id="fr_58"></span>[\*](#fn_58). This country is divided into five
+id="fr_58"></span>[\*](#fn_58.md). This country is divided into five
 districts, which were in those times distinct from and independent of
 each other. At the foot of the mountains lay Taberistan and Dilem, the
 former to the east, the latter to the west. Dilem is celebrated as
@@ -154,7 +154,7 @@ having been the native country of the family of Buyah, which, rising
 from the humblest station, exercised under the khalifs, and with the
 title of Ameer-al-Omra (*Prince of the Princes*), a power nearly regal
 over Persia during a century and a half <span
-id="fr_59"></span>[†](#fn_59). North of Dilem lay Ghilan, and north of
+id="fr_59"></span>[†](#fn_59.md). North of Dilem lay Ghilan, and north of
 Taberistan Mazenderan, the ancient Hyrcania. In the midst of
 
 <span id="page_136">p. 136</span>
@@ -162,7 +162,7 @@ Taberistan Mazenderan, the ancient Hyrcania. In the midst of
 these four provinces lay Ruyan and Rostemdar, remarkable for having been
 governed for a space of 800 years by one family of princes, while
 dynasty after dynasty rose and fell in the neighbouring states. In these
-provinces the names of the royal lines [recall](errata.htm#8) to our
+provinces the names of the royal lines [recall](errata.htm#8.md) to our
 mind the ancient history, both true and fabulous, of Irân (Persia), as
 we find it in the poem of Ferdoosee, the Homer of that country. The
 family of Kawpara, which governed Ruyan and Rostemdar, affected to
@@ -265,7 +265,7 @@ with a cow's head at the end of it,
 
 <span id="img_13900"></span> <span align="CENTER"> [![From the Shah
 Nameh, illuminated Persian MS.](tn/13900.jpg)  
-Click to enlarge](img/13900.jpg)  
+Click to enlarge](img/13900.jpg.md)  
 From the Shah Nameh, illuminated Persian MS.  
 </span>
 
@@ -281,7 +281,7 @@ direction of the angel, imprisons him in a cavern of the mountain
 Demavend. Feridoon, on ascending the throne of his forefathers, governed
 with such mildness, firmness, and justice, that his name is to the
 present day in Persia significative of the ideal of a perfect
-monarch <span id="fr_60"></span>[\*](#fn_60).
+monarch <span id="fr_60"></span>[\*](#fn_60.md).
 
 Mazenderan is not less celebrated in Persian romance than the region at
 the foot of Demavend. It was the scene of the dangers of the
@@ -338,7 +338,7 @@ chiefs.
 
 <span id="img_14200"></span> <span align="CENTER"> [![From the
 Same.](tn/14200.jpg)  
-Click to enlarge](img/14200.jpg)  
+Click to enlarge](img/14200.jpg.md)  
 From the Same.  
 </span>
 
@@ -347,8 +347,8 @@ From the Same.
 The history of the Shah-nameh (*King-book*), in which these legends are
 contained, is one of the most curious in literature. The fanaticism of
 the Arabs, who conquered Persia, raged with indiscriminate fury
-[against](errata.htm#9) the literature, as well as the religion, of that
-[country](errata.htm#10); and when, in the time of Al-Mansoor and
+[against](errata.htm#9.md) the literature, as well as the religion, of that
+[country](errata.htm#10.md); and when, in the time of Al-Mansoor and
 
 <span id="page_143">p. 143</span>
 
@@ -383,7 +383,7 @@ Ferdoosee
 <span id="page_144">p. 144</span>
 
 <span class="contnote">\[paragraph continues\]</span> (*Paradisal* <span
-id="fr_61"></span>[\*](#fn_61)), either from his father's employment as
+id="fr_61"></span>[\*](#fn_61).md), either from his father's employment as
 a gardener, or from the beauty of his verses, he introduced him to the
 sultan, who gladly committed the task to him. Ferdoosee laboured with
 enthusiasm in the celebration of the ancient glories of his country; and
@@ -396,7 +396,7 @@ east. It consists of 60,000 rhymed couplets, and embraces the history of
 Persia, from the beginning of the world to the period of its conquest by
 the Arabs. The verses move on with spirit and rapidity, resembling more
 the flow of our lyrical, than that of our common heroic, lines <span
-id="fr_62"></span>[†](#fn_62).
+id="fr_62"></span>[†](#fn_62.md).
 
 Ferdoosee wrote his poem in the early part of the eleventh century from
 a book which had been in existence a long time before, for he always
@@ -488,7 +488,7 @@ We now return to the history of the Assassins
 
 ### Footnotes
 
-<span id="fn_57"></span>[133:\*](sma12.htm#fr_57) "Sebil, in Arabic 'the
+<span id="fn_57"></span>[133:\*](sma12.htm#fr_57.md) "Sebil, in Arabic 'the
 way,' means generally the road, and the traveller is hence called
 *Ibn-es-sebil*, the son of the road; but it more particularly signifies
 the way of piety and good works, which leads to Paradise. Whatever
@@ -503,12 +503,12 @@ distribution of water to the exhausted and wounded warriors is the
 highest female merit in the holy war on God's way."--*Hammer's History
 of the Assassins*, Wood's translation, p. 144.
 
-<span id="fn_58"></span>[135:\*](sma12.htm#fr_58) This part of Persia
+<span id="fn_58"></span>[135:\*](sma12.htm#fr_58.md) This part of Persia
 also acquires interest from the circumstance of Russia being believed to
 be looking forward to obtaining it, one day or other, by conquest or
 cession.
 
-<span id="fn_59"></span>[135:†](sma12.htm#fr_59) Azed-ud-dowlah, one of
+<span id="fn_59"></span>[135:†](sma12.htm#fr_59.md) Azed-ud-dowlah, one of
 the most celebrated of these princes, had a dyke constructed across the
 river Kur, in the plain of Murdasht, near the ruins of Persepolis, to
 confine the water, and permit of its being distributed over the country.
@@ -534,7 +534,7 @@ Do the roses still bloom by the *calm* Bendameer?"
 <span class="contnote">\[paragraph continues\]</span> Calm and still,
 beyond doubt, is the Bendameer.
 
-<span id="fn_60"></span>[140:\*](sma12.htm#fr_60) Four lines, quoted by
+<span id="fn_60"></span>[140:\*](sma12.htm#fr_60.md) Four lines, quoted by
 Sir J. Malcolm from the Gulistan of Saadi, may be thus *literally*
 rendered in the measure of the original:--
 
@@ -547,12 +547,12 @@ Be just and merciful, thou ’lt a Feridoon be.</span>
 
 </div>
 
-<span id="fn_61"></span>[144:\*](sma12.htm#fr_61) Paradise, we are to
+<span id="fn_61"></span>[144:\*](sma12.htm#fr_61.md) Paradise, we are to
 recollect, is a word of Persian origin, adopted by the Greeks, from whom
 we have received it. A Paradise was a place planted with trees, a park,
 garden, or pleasure-ground, as we may term it.
 
-<span id="fn_62"></span>[144:†](sma12.htm#fr_62) Hammer has, in his
+<span id="fn_62"></span>[144:†](sma12.htm#fr_62.md) Hammer has, in his
 "Belles Lettres of Persia" (*Schöne* *Redekunst Persians*), and in the
 "Mines de l’Orient," translated a considerable portion of the Shah-nameh
 in the measure of the original. MM. Campion and Atkinson have rendered a
@@ -563,4 +563,4 @@ Atkinson, has also lately appeared.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](sma13)
+[Next: Chapter X](sma13.md)

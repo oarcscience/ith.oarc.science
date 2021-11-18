@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr01)  [Next](arr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr01)  [Next](arr03.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ parts of the philosophy of the whole World.
 
 ------------------------------------------------------------------------
 
-[Next: Foreword, By Sir Dudley Borron Myers](arr03)
+[Next: Foreword, By Sir Dudley Borron Myers](arr03.md)

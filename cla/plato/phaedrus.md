@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Plato](index)
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Plato](index.md)
 
 ------------------------------------------------------------------------
 

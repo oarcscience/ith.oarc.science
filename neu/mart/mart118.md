@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK VI CHAPTER XVIII
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK VI](book05) 
-[Previous](mart117)  [Next](mart119) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK VI](book05.md) 
+[Previous](mart117)  [Next](mart119.md) </span>
 
 ------------------------------------------------------------------------
 

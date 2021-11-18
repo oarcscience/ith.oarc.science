@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](more04)  [Next](more06) 
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](more04)  [Next](more06.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ happiness of life consists.
 
 ------------------------------------------------------------------------
 
-[Next: Of Their Traffic](more06)
+[Next: Of Their Traffic](more06.md)

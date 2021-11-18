@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa04)  [Next](soa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa04)  [Next](soa06.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ the parent continent of Atlantis.
 
 ------------------------------------------------------------------------
 
-[Next: Similarity of Religious Belief, Ritual and Architecture](soa06)
+[Next: Similarity of Religious Belief, Ritual and Architecture](soa06.md)

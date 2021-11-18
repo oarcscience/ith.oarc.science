@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Chinese
-Articles](../../cfu/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Chinese
+Articles](../../cfu/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ is impossible.
 now over the millions of people, we have conformed our mind to the mind
 of our sacred father and our government to his, morning and evening, and
 with untiring<span id="page_735_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_735_note_1) energy, we endeavor to
+class="small">1</span></sup>](#page_735_note_1.md) energy, we endeavor to
 conform to the ancient traditions and customs. . . .
 
    "With great reverence, we publish the sixteen maxims of the Sacred
@@ -154,7 +154,7 @@ penmanship.
  
 
 TEXT OF THE SIXTEEN MAXIMS.<span id="page_736_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_736_note_1)
+class="small">1</span></sup>](#page_736_note_1.md)
 
 <img src="kang-hi.jpg" style="height:100.0%" />
 
@@ -166,7 +166,7 @@ TRANSLATION OF THE HOLY EDICT.
 
  
 
-[MAXIM](#commI) <span id="I">I</span>.
+[MAXIM](#commI.md) <span id="I">I</span>.
 
    Cultivate filial piety and brotherly love, for thereby will be
 honored social morality.
@@ -176,21 +176,21 @@ honored social morality.
 MAXIM <span id="II">II</span>.
 
    Render family relations<span id="page_737_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_737_note_1) cordial, for thereby
+class="small">1</span></sup>](#page_737_note_1.md) cordial, for thereby
 appears the bliss of harmony.
 
  
 
-[MAXIM](#commIII) <span id="III">III</span>.
+[MAXIM](#commIII.md) <span id="III">III</span>.
 
    Let concord prevail among neighbors,<span
 id="page_737_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_737_note_2) for thereby you prevent
+class="small">2</span></sup>](#page_737_note_2.md) for thereby you prevent
 quarrels and law suits.
 
  
 
-[MAXIM](#commIV) <span id="IV">IV</span>.
+[MAXIM](#commIV.md) <span id="IV">IV</span>.
 
    Honor husbandry and silk industry, for thereby is supplied raiment
 and food.
@@ -200,30 +200,30 @@ and food.
 MAXIM <span id="V">V</span>.
 
    Esteem thrift and economy,<span id="page_737_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_737_note_3) for thereby is saved
+class="small">3</span></sup>](#page_737_note_3.md) for thereby is saved
 money in business.
 
  
 
-[MAXIM](#commVI) <span id="VI">VI</span>.
+[MAXIM](#commVI.md) <span id="VI">VI</span>.
 
    Promote academic institutions, for thereby are established scholarly
 habits.
 
  
 
-[MAXIM](#commVII) <span id="VII">VII</span>.
+[MAXIM](#commVII.md) <span id="VII">VII</span>.
 
    Do away with heretical systems, for thereby is exalted the orthodox
 doctrine.
 
  
 
-[MAXIM](#commVIII) <span id="VIII">VIII</span>.
+[MAXIM](#commVIII.md) <span id="VIII">VIII</span>.
 
    Explain laws and ordinances,<span
 id="page_737_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_737_note_4) for thereby are warned
+class="small">4</span></sup>](#page_737_note_4.md) for thereby are warned
 the foolish and obstinate.
 
 <span id="page_738">p. 738</span>
@@ -234,7 +234,7 @@ MAXIM <span id="IX">IX</span>.
 
    Recommend polite manners, for thereby is refined the social
 atmosphere.<span id="page_738_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_738_note_1)
+class="small">1</span></sup>](#page_738_note_1.md)
 
  
 
@@ -248,16 +248,16 @@ rendered pacific.
 MAXIM <span id="XI">XI</span>.
 
    Instruct the youth,<span id="page_738_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_738_note_2) for thus you prevent
+class="small">2</span></sup>](#page_738_note_2.md) for thus you prevent
 crime.
 
  
 
-[MAXIM](#commXII) <span id="XII">XII</span>.
+[MAXIM](#commXII.md) <span id="XII">XII</span>.
 
    Suppress false denunciations, for thereby you protect the good and
 the worthy.<span id="page_738_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_738_note_3)
+class="small">3</span></sup>](#page_738_note_3.md)
 
  
 
@@ -265,16 +265,16 @@ MAXIM <span id="XIII">XIII</span>.
 
    Warn those who conceal deserters, for thereby they escape being
 entangled in their fate.<span id="page_738_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_738_note_4)
+class="small">4</span></sup>](#page_738_note_4.md)
 
  
 
-[MAXIM](#commXIV) <span id="XIV">XIV</span>.
+[MAXIM](#commXIV.md) <span id="XIV">XIV</span>.
 
    Enforce the payment<span id="page_738_fr_5"></span>[<sup><span
-class="small">5</span></sup>](#page_738_note_5) of taxes,<span
+class="small">5</span></sup>](#page_738_note_5.md) of taxes,<span
 id="page_738_fr_6"></span>[<sup><span
-class="small">6</span></sup>](#page_738_note_6) for thereby you avoid
+class="small">6</span></sup>](#page_738_note_6.md) for thereby you avoid
 the imposition of fines.
 
  
@@ -283,16 +283,16 @@ MAXIM <span id="XV">XV</span>.
 
    Keep disciplined the police forces,<span
 id="page_738_fr_7"></span>[<sup><span
-class="small">7</span></sup>](#page_738_note_7) for thereby are
+class="small">7</span></sup>](#page_738_note_7.md) for thereby are
 prevented thefts and robberies.
 
  
 
-[MAXIM](#commXVI) <span id="XVI">XVI</span>.
+[MAXIM](#commXVI.md) <span id="XVI">XVI</span>.
 
    Settle enmities and dissensions, for thereby you protect human
 lives.<span id="page_738_fr_8"></span>[<sup><span
-class="small">8</span></sup>](#page_738_note_8)
+class="small">8</span></sup>](#page_738_note_8.md)
 
 <span id="page_739">p. 739</span>
 
@@ -319,7 +319,7 @@ which may be characterised as sermons on the bliss of virtue and the
 curse of evil-doing.
 
 <span id="commI"></span>   Yung Ching's comments on the [first
-Maxim](#I) are typical Chinese expositions of the significance of \#\#\#
+Maxim](#I.md) are typical Chinese expositions of the significance of \#\#\#
 *hsiao*, i.e., "filial piety," the cardinal virtue of Confucian ethics.
 It reads as follows:
 
@@ -385,7 +385,7 @@ should not be borne in mind, and you thus trespass the bounds of the
 human relations."
 
 <span id="commIII"></span>   In his amplification of the [third
-Maxim](#III), Yung Ching quotes a saying of his father, which reads:
+Maxim](#III.md), Yung Ching quotes a saying of his father, which reads:
 
 <span class="small"></span>
 
@@ -425,7 +425,7 @@ prosper, litigations cease, and man enjoy repose through the age of
 ages! The union of peace will extend to myriads of countries, and
 superabounding harmony diffuse itself through the universe!"
 
-<span id="commIV"></span>   Concerning the [fourth Maxim](#IV), Yung
+<span id="commIV"></span>   Concerning the [fourth Maxim](#IV.md), Yung
 Ching writes:
 
 <span class="small"></span>
@@ -438,7 +438,7 @@ political economy."
 
 <span id="commVI"></span>   Learning is perhaps more highly honored in
 China than in any other country. Yung Ching amplifies the [sixth
-Maxim](#VI) in a sermon on the duties of a scholar:
+Maxim](#VI.md) in a sermon on the duties of a scholar:
 
 <span class="small"></span>
 
@@ -474,13 +474,13 @@ fully understood by superiors, affection and kindness will be displayed
 among inferiors.' Then it is evident that the schools were not intended
 for the learned only, but for the instruction of the people also."
 
-<span id="commVII"></span>   As to the [seventh Maxim](#VII), we find
+<span id="commVII"></span>   As to the [seventh Maxim](#VII.md), we find
 what may be considered as a suppression of religious liberty in China,
 and such it is in a certain way and with certain limitations.
 
    Professor De Groot has devoted an elaborate essay<span
 id="page_742_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_742_note_1) on the subject which we
+class="small">1</span></sup>](#page_742_note_1.md) on the subject which we
 have reviewed in *The Monist* for January, 1904. The present edict truly
 expresses the spirit of the Chinese government in matters of religion.
 The great emperor K'ang-Hi is anxious to establish the orthodox religion
@@ -515,7 +515,7 @@ must despise the sages of yore, that they must repudiate their family
 (which is frequently demanded by missionaries on account of the ritual
 of ancestor worship), and that they place the authority of Christ (which
 practically means the church) above the authority of their parents, as
-indicated in the passage ([Luke xiv. 26](../../bib/kjv/luk.htm#14:26))
+indicated in the passage ([Luke xiv. 26](../../bib/kjv/luk.htm#14:26).md)
 where Christ says: "If any man come to me and hate not his father, and
 mother, and wife, and children, and brethren, and sisters, yea, and his
 own life also, he cannot be my disciple." The very words "to hate father
@@ -577,7 +577,7 @@ Obey this true, equitable, and undeviating doctrine. Then false
 religions will not wait to be driven away: they will retire of their own
 accord."
 
-<span id="commVIII"></span>   Concerning the [knowledge of laws](#VIII),
+<span id="commVIII"></span>   Concerning the [knowledge of laws](#VIII.md),
 Yung Ching says:
 
 <span class="small"></span>
@@ -588,7 +588,7 @@ and its norm is reason.' Heavenly reason and man's common sense can be
 understood by all. When the heart is directed by common sense and by
 reason, the body will never be subject to punishment."
 
-<span id="commXII"></span>   In the amplification to [Maxim XII](#XII)
+<span id="commXII"></span>   In the amplification to [Maxim XII](#XII.md)
 we find the following exhortation:
 
 <span class="small"></span>
@@ -603,7 +603,7 @@ entrapping others, is the same as to dig a pit into which they
 themselves shall fall."
 
 <span id="commXIV"></span>   Yung Ching's sermon on the [fourteenth
-Maxim](#XIV) on taxes shows that the Chinese officials had sometimes
+Maxim](#XIV.md) on taxes shows that the Chinese officials had sometimes
 great trouble in collecting the taxes. He says:
 
 <span class="small"></span>
@@ -678,7 +678,7 @@ having faithfully exerted your ability, and at home, peacefully enjoy
 the fruits of it. The mandarins will neither trouble you, nor the clerks
 vex you—what joy equal to this!"
 
-<span id="commXVI"></span>   The [sixteenth Maxim](#XVI) is practically
+<span id="commXVI"></span>   The [sixteenth Maxim](#XVI.md) is practically
 a sermon on anger. Yung Ching says:
 
 <span class="small"></span>
@@ -714,7 +714,7 @@ EDITOR.   
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Chinese Articles](../../cfu/etc/index)
+[Journals](../index) [Chinese Articles](../../cfu/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -722,7 +722,7 @@ EDITOR.   
 
 <span id="footnotes_page_735">p. 735</span>
 
-<span id="page_735_note_1"></span>[1](#page_735_fr_1). The larva of the
+<span id="page_735_note_1"></span>[1](#page_735_fr_1.md). The larva of the
 mosquito is an animalcule which is constantly wriggling in the water. It
 has a name of its own in Chinese, being called *Chieh-Chieh*, which
 serves as a well-known symbol of an indefatigable activity. For the sake
@@ -730,7 +730,7 @@ of simplicity, we have simp1y translated it "untiring."
 
 <span id="footnotes_page_736">p. 736</span>
 
-<span id="page_736_note_1"></span>[1](#page_736_fr_1). The text of the
+<span id="page_736_note_1"></span>[1](#page_736_fr_1.md). The text of the
 Holy Edict has been incorporated in an edition of the *T'ai Shang Kan
 Ying P'ien*, published by the Association of the Middle Flower, a
 Chinese society at Yokohama. The text agrees wlth the present one with
@@ -741,53 +741,53 @@ possible.
 
 <span id="footnotes_page_737">p. 737</span>
 
-<span id="page_737_note_1"></span>[1](#page_737_fr_1). Literally: "Make
+<span id="page_737_note_1"></span>[1](#page_737_fr_1.md). Literally: "Make
 cordial \|\|relatives\|\| \[and\] kin."—Here as well as elsewhere, two
 synonyms are used to express one idea. They had perhaps been better
 translated by one word.
 
-<span id="page_737_note_2"></span>[2](#page_737_fr_2). Literally:
+<span id="page_737_note_2"></span>[2](#page_737_fr_2.md). Literally:
 "Harmonise \|\|the village's\|\| inhabitants."
 
-<span id="page_737_note_3"></span>[3](#page_737_fr_3). See [note to
-Maxim II](#page_737_note_1).
+<span id="page_737_note_3"></span>[3](#page_737_fr_3.md). See [note to
+Maxim II](#page_737_note_1.md).
 
-<span id="page_737_note_4"></span>[4](#page_737_fr_4). See [note to
-Maxim II](#page_737_note_1).
+<span id="page_737_note_4"></span>[4](#page_737_fr_4.md). See [note to
+Maxim II](#page_737_note_1.md).
 
 <span id="footnotes_page_738">p. 738</span>
 
-<span id="page_738_note_1"></span>[1](#page_738_fr_1). Literally: "Wind
+<span id="page_738_note_1"></span>[1](#page_738_fr_1.md). Literally: "Wind
 and habits"; \#\#\# *Feng* = "wind," means also "climate," and
 "atmosphere." Both characters together are best translated "social
 atmosphere."
 
-<span id="page_738_note_2"></span>[2](#page_738_fr_2). Literally: "Boys
-and youngsters." See [note to Maxim II](#page_737_note_1).
+<span id="page_738_note_2"></span>[2](#page_738_fr_2.md). Literally: "Boys
+and youngsters." See [note to Maxim II](#page_737_note_1.md).
 
-<span id="page_738_note_3"></span>[3](#page_738_fr_3). See [note to
-Maxim II](#page_737_note_1).
+<span id="page_738_note_3"></span>[3](#page_738_fr_3.md). See [note to
+Maxim II](#page_737_note_1.md).
 
-<span id="page_738_note_4"></span>[4](#page_738_fr_4). Literally:
+<span id="page_738_note_4"></span>[4](#page_738_fr_4.md). Literally:
 "Escape bush entanglement," which means "being entangled in the (same)
 bush," i.e., "being caught with criminals."
 
-<span id="page_738_note_5"></span>[5](#page_738_fr_5). Literally:
+<span id="page_738_note_5"></span>[5](#page_738_fr_5.md). Literally:
 "Complete," which means "be punctual in collecting."
 
-<span id="page_738_note_6"></span>[6](#page_738_fr_6). The term "taxes"
+<span id="page_738_note_6"></span>[6](#page_738_fr_6.md). The term "taxes"
 means in Chinese "cash payments and food products," because the tax
 payers have their choice to pay either in coin or in produce.
 
-<span id="page_738_note_7"></span>[7](#page_738_fr_7). Literally:
+<span id="page_738_note_7"></span>[7](#page_738_fr_7.md). Literally:
 "Protecting armies."
 
-<span id="page_738_note_8"></span>[8](#page_738_fr_8). Literally:
+<span id="page_738_note_8"></span>[8](#page_738_fr_8.md). Literally:
 "Persons and their destinies."
 
 <span id="footnotes_page_742">p. 742</span>
 
-<span id="page_742_note_1"></span>[1](#page_742_fr_1). *Sectarianism and
+<span id="page_742_note_1"></span>[1](#page_742_fr_1.md). *Sectarianism and
 Religious Persecution in China*. Amsterdam: Johannes Müller.
 
  

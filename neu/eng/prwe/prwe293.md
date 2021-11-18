@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe292)  [Next](prwe294) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe292)  [Next](prwe294.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ sweetheart is thinking of her.
 
 ------------------------------------------------------------------------
 
-[Next: To Cure the Hiccough](prwe294)
+[Next: To Cure the Hiccough](prwe294.md)

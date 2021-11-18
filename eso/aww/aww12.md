@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](aww11)  [Next](aww13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](aww11)  [Next](aww13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of Worldly Wisdom*, by Balthasar Gracian, tr. by Joseph Jacobs,
 \[1892\], at Intangible Textual Heritage
 
@@ -718,7 +718,7 @@ at times the advice of others. He is an in-corrigible ass who will never
 listen to any one. Even the most surpassing intellect should find a
 place for friendly counsel. Sovereignty itself must learn to lean. There
 are some that are incorrigible simply because they are
-[inaccessible](errata.htm#7): they fall to ruin because none dares to
+[inaccessible](errata.htm#7.md): they fall to ruin because none dares to
 extricate them. The highest should have the door open for friendship; it
 may prove the gate of help. A friend must be free to advise, and even to
 upbraid, without feeling embarrassed. Our satisfaction in him and our
@@ -765,4 +765,4 @@ undertakings.
 
 ------------------------------------------------------------------------
 
-[Next: 150-199](aww13)
+[Next: 150-199](aww13.md)

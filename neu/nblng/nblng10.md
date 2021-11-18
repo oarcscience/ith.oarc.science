@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng09)  [Next](nblng11) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng09)  [Next](nblng11.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,4 +204,4 @@ herbs and spice and left to stand until clear.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure IX: How Siegfried Was Sent To Worms.](nblng11)
+[Next: Adventure IX: How Siegfried Was Sent To Worms.](nblng11.md)

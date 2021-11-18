@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic049)  [Next](lfic051) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic049)  [Next](lfic051.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ authorities, one of them being the principal witness of the apparition.
 
 ------------------------------------------------------------------------
 
-[Next: The Doctor's Fetch](lfic051)
+[Next: The Doctor's Fetch](lfic051.md)

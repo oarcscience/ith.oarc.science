@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim35)  [Next](sim37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim35)  [Next](sim37.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ The woman was a ghost woman.
 
 ------------------------------------------------------------------------
 
-[Next: Wíshakon and his Friend Visit the Pléthoak (Thunders)](sim37)
+[Next: Wíshakon and his Friend Visit the Pléthoak (Thunders)](sim37.md)

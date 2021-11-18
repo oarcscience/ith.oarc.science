@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai39)  [Next](iai41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai39)  [Next](iai41.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ There stood within the centre of the plain,
 High built on terraces, with walls of gold,  
 Where palaces and mansions there enfold  
 A temple of the gods, that stands within  
-'Mid feathery palms and *gesdin*, <span id="fr_251"></span>[1](#fn_248)
+'Mid feathery palms and *gesdin*, <span id="fr_251"></span>[1](#fn_248.md)
 bowers green,  
 The city rises to a dizzy height,  
 With jewelled turrets flashing in the light,  
@@ -231,7 +231,7 @@ Within that world, I too shall ceaseless moan,
 Where dwell the lord and the unconquered one,  
 And seers and great men dwell within that deep,  
 With dragons of those realms we all shall sleep;  
-Where King Etana <span id="fr_252"></span>[1](#fn_249) and god Ner doth
+Where King Etana <span id="fr_252"></span>[1](#fn_249.md) and god Ner doth
 reign  
 With Allat, the dark Under-World's great queen,  
 Who reigns o'er all within her regions lone,  
@@ -249,14 +249,14 @@ And he is gone;--'tis clay remaineth here,
 
 ### Footnotes
 
-<span id="fn_248"></span>[117:1](iai40.htm#fr_251) "Gesdin," the Tree of
+<span id="fn_248"></span>[117:1](iai40.htm#fr_251.md) "Gesdin," the Tree of
 Life and Immortality.
 
-<span id="fn_249"></span>[120:1](iai40.htm#fr_252) "Etana," Lord or King
+<span id="fn_249"></span>[120:1](iai40.htm#fr_252.md) "Etana," Lord or King
 of Hades. He is mentioned in the Creation series of, Legends as having
 reigned before the flood.
 
 ------------------------------------------------------------------------
 
 [Next: Column IV. The Grief of the King over the Loss of his
-Seer](iai41)
+Seer](iai41.md)

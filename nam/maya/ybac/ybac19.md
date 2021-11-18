@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac18)  [Next](ybac20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac18)  [Next](ybac20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ great numbers of women and men captive in their service, with similar
 treatment. It is affirmed that Don Francisco de Montejo was not guilty
 of any of those cruelties nor approved them, but condemned them
 severely, yet was unable to do more. <span
-id="fr_16"></span>[\*](#fn_16)
+id="fr_16"></span>[\*](#fn_16.md)
 
 In their defense the Spaniards urge that being so few in numbers they
 could not have reduced so populous a country save through the fear of
@@ -81,7 +81,7 @@ Spaniard had killed him. Of such instances of valor there are many.
 
 ### Footnotes
 
-<span id="fn_16"></span>[25:\*](ybac19.htm#fr_16) This reduction of
+<span id="fn_16"></span>[25:\*](ybac19.htm#fr_16.md) This reduction of
 Cochuah and Chetumal was entrusted to Captain Gaspar Pacheco and his
 son, who had already served against the Zapotecs. For sheer lusting
 cruelty for its own sake, their record there vies with that of Pedro de
@@ -95,4 +95,4 @@ powers, see elsewhere.
 
 [Next: XVI. State of the Country Before the Conquest. Royal Decree in
 Favor of the Indians. Health of the Admiral Montejo. His
-Descendants](ybac20)
+Descendants](ybac20.md)

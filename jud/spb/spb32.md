@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb31)  [Next](spb33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb31)  [Next](spb33.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -18,13 +18,13 @@ Intangible Textual Heritage
 
 ### SERVICE FOR NEW YEAR
 
-*The lighting of the Festival Lamp as on [p. 325](spb28.htm#page_325)*.
+*The lighting of the Festival Lamp as on [p. 325](spb28.htm#page_325.md)*.
 
 *Afternoon Service as on Fridays. For Evening Service, see pp.
-[159](spb15.htm#page_159)–[166](spb15.htm#page_166). Should the first
+[159](spb15.htm#page_159)–[166](spb15.htm#page_166.md). Should the first
 evening of the New Year fall on Friday, the Evening Service commences
 with "A Psalm, a Song for the Sabbath Day," [p.
-156](spb14.htm#page_156)*.
+156](spb14.htm#page_156.md)*.
 
 *The following Amidah is said at the Evening, Morning and Afternoon
 Services*.
@@ -270,6 +270,6 @@ May you be inscribed for a happy year.
 
 ------------------------------------------------------------------------
 
-[Next: Kiddush for New Year](spb33)
+[Next: Kiddush for New Year](spb33.md)
 
 </div>

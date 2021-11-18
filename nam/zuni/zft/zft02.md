@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft01)  [Next](zft03) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft01)  [Next](zft03.md) 
 
 ------------------------------------------------------------------------
 
@@ -308,4 +308,4 @@ WASHINGTON CITY,
 ------------------------------------------------------------------------
 
 [Next: The Trial Of Lovers: or The Maiden Of Mátsaki And The Red
-Feather](zft03)
+Feather](zft03.md)

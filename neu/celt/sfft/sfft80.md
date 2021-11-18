@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft79)  [Next](sfft81) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft79)  [Next](sfft81.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,9 +18,9 @@ Intangible Textual Heritage
 
 <span id="page_312">p. 312</span>
 
-# LITERARY TALES. <span id="fr_158"></span>[1](#fn_158)
+# LITERARY TALES. <span id="fr_158"></span>[1](#fn_158.md)
 
-### THE HAUNTED SHIPS. <span id="fr_159"></span>[2](#fn_159)
+### THE HAUNTED SHIPS. <span id="fr_159"></span>[2](#fn_159.md)
 
 "ALEXANDER MACHARG, besides being the laird of three acres of peatmoss,
 two kale gardens, and the owner of seven good milch cows, a pair of
@@ -55,9 +55,9 @@ flower.
 "So it fell on a time that Laird Macharg took his half-net on his back,
 and his steel spear in his hand, and down to Blawhooly Bay gade he, and
 into the water he went right between the two haunted hulks, <span
-id="fr_160"></span>[1](#fn_160) and, placing his net, awaited the coming
+id="fr_160"></span>[1](#fn_160.md) and, placing his net, awaited the coming
 of the tide. The night, ye maun ken, was mirk, and the wind lowne, <span
-id="fr_161"></span>[2](#fn_161) and the singing of the increasing waters
+id="fr_161"></span>[2](#fn_161.md) and the singing of the increasing waters
 among the shells and the peebles was heard for sundry miles. All at once
 lights began to glance and
 
@@ -97,7 +97,7 @@ wise woman was she.
 "Near the mid hour of the night the rush of a horse's feet was heard,
 and the sound of a rider leaping from its back, and a heavy knock came
 to the door, accompanied by a voice, saying, 'The cummer drink's <span
-id="fr_162"></span>[1](#fn_162) hot, and the knave bairn is expected at
+id="fr_162"></span>[1](#fn_162.md) hot, and the knave bairn is expected at
 Laird Laurie's to-night; sae mount, gudewife, and come.'
 
 "'Preserve me!' said the wife of Sandie Macharg; 'that's news indeed;
@@ -132,7 +132,7 @@ a summer sun. O man, you a douce man, and fitter to be an elder than
 even Willie Greer himself,--I have the minister's ain word for't,--to
 put on these hard-hearted looks, and gang waving your arms that way, as
 if ye said, "I winna take the counsel of sic a hempie <span
-id="fr_163"></span>[1](#fn_163) as you." I'm your ain leal wife, and
+id="fr_163"></span>[1](#fn_163.md) as you." I'm your ain leal wife, and
 will and maun have an explanation.'
 
 "To all this Sandie Macharg replied, 'It is written--"Wives, obey your
@@ -142,7 +142,7 @@ beside them knelt their household, and all lights were extinguished.
 
 "'Now this beats a',' muttered his wife to herself; 'however, I shall be
 obedient for a time; but if I dinna ken what all this is for before the
-morn by sunket-time, <span id="fr_164"></span>[2](#fn_164) my tongue is
+morn by sunket-time, <span id="fr_164"></span>[2](#fn_164.md) my tongue is
 nae langer a tongue, nor my hands worth wearing.'
 
 "The voice of her husband in prayer interrupted this mental soliloquy;
@@ -201,26 +201,26 @@ bold men, say I, and obedient wives!"
 
 ### Footnotes
 
-<span id="fn_158"></span>[312:1](sfft80.htm#fr_158) The Editor has
+<span id="fn_158"></span>[312:1](sfft80.htm#fr_158.md) The Editor has
 adopted this term to denote popular tales, or tales founded upon popular
 superstition, which have received a literary clothing.
 
-<span id="fn_159"></span>[312:2](sfft80.htm#fr_159) Allan Cunningham,
+<span id="fn_159"></span>[312:2](sfft80.htm#fr_159.md) Allan Cunningham,
 *Traditional Tales of the English and Scottish Peasantry*.
 
-<span id="fn_160"></span>[313:1](sfft80.htm#fr_160) Two ancient wrecked
+<span id="fn_160"></span>[313:1](sfft80.htm#fr_160.md) Two ancient wrecked
 vessels, to which the peasantry of the Solway shore ascribe a sinister
 character.
 
-<span id="fn_161"></span>[313:2](sfft80.htm#fr_161) Still.
+<span id="fn_161"></span>[313:2](sfft80.htm#fr_161.md) Still.
 
-<span id="fn_162"></span>[315:1](sfft80.htm#fr_162) Gossips' drink.
+<span id="fn_162"></span>[315:1](sfft80.htm#fr_162.md) Gossips' drink.
 
-<span id="fn_163"></span>[316:1](sfft80.htm#fr_163) Hussy.
+<span id="fn_163"></span>[316:1](sfft80.htm#fr_163.md) Hussy.
 
-<span id="fn_164"></span>[316:2](sfft80.htm#fr_164) Breakfast-time; any
+<span id="fn_164"></span>[316:2](sfft80.htm#fr_164.md) Breakfast-time; any
 meal-time.
 
 ------------------------------------------------------------------------
 
-[Next: Elphin Irving](sfft81)
+[Next: Elphin Irving](sfft81.md)

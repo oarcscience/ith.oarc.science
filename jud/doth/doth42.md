@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth41)  [Next](doth43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth41)  [Next](doth43.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -29,10 +29,10 @@ by reason, by Scripture, and by the tradition handed down through the
 Sages of the Talmud.
 
 Reason tells us that the superiority of the human being <span
-id="fr_13"></span>[\*](#fn_12) over the dumb creature <span
-id="fr_14"></span>[†](#fn_13) consists in his superior recognition and
+id="fr_13"></span>[\*](#fn_12.md) over the dumb creature <span
+id="fr_14"></span>[†](#fn_13.md) consists in his superior recognition and
 perception, enabling him to understand, with all their subtle
-differences, <span id="fr_15"></span>[‡](#fn_14) the secrets of the
+differences, <span id="fr_15"></span>[‡](#fn_14.md) the secrets of the
 Divine wisdom and of natural science; that are manifested in the facts
 of the universe, and in his superior power of receiving fruitful
 knowledge from these perceptions. . . . And when a man thinks, meditates
@@ -73,19 +73,19 @@ sexual purity from the dove, honesty from the ant, and so forth."
 
 ### Footnotes
 
-<span id="fn_12"></span>[50:\*](doth42.htm#fr_13) *Hammedabbayr*, the
+<span id="fn_12"></span>[50:\*](doth42.htm#fr_13.md) *Hammedabbayr*, the
 being who can put words in order, the speaking and reasoning being.
 
-<span id="fn_13"></span>[50:†](doth42.htm#fr_14) *Sheäyno medabbayer*,
+<span id="fn_13"></span>[50:†](doth42.htm#fr_14.md) *Sheäyno medabbayer*,
 who cannot put words in order.
 
-<span id="fn_14"></span>[50:‡](doth42.htm#fr_15) This is the meaning,
+<span id="fn_14"></span>[50:‡](doth42.htm#fr_15.md) This is the meaning,
 *beenah*, understanding; compare *bayn*, between.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: What is Repentance?](doth43)
+[Next: What is Repentance?](doth43.md)
 
 </div>

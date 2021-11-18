@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](iwwk06)  [Next](iwwk08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](iwwk06)  [Next](iwwk08.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ next day to trust him with a ten-pound note.
 
 ------------------------------------------------------------------------
 
-[Next: Glencree](iwwk08)
+[Next: Glencree](iwwk08.md)

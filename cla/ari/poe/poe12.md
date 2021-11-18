@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe11)  [Next](poe13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe11)  [Next](poe13.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ such as death on the stage, bodily agony, wounds and the like.
 
 ------------------------------------------------------------------------
 
-[Next: XII. The 'quantitative parts' of Tragedy defined.](poe13)
+[Next: XII. The 'quantitative parts' of Tragedy defined.](poe13.md)

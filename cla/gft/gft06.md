@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft05)  [Next](gft07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft05)  [Next](gft07.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ Then they wept, and chattered, and scolded; but in vain.
 
 [![Then they wept, and chattered and scolded; but in
 vain.](tn/02200.jpg)  
-Click to enlarge](img/02200.jpg)  
+Click to enlarge](img/02200.jpg.md)  
 Then they wept, and chattered and scolded; but in vain.  
 
  
@@ -164,7 +164,7 @@ garden, and carry off our golden fruit?" And he answered,--
 <span id="img_02400"></span>
 
 [![So he stepped forward and saw them dancing](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)  
+Click to enlarge](img/02400.jpg.md)  
 So he stepped forward and saw them dancing  
 
  
@@ -345,4 +345,4 @@ out to sea.
 
 ------------------------------------------------------------------------
 
-[Next: Part Four: How Perseus Came to the Æthiops](gft07)
+[Next: Part Four: How Perseus Came to the Æthiops](gft07.md)

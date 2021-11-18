@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst075)  [Next](inst077) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst075)  [Next](inst077.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ unlawful for the creature to quarrel with its Creator. Then how will
 those who refuse to admit that any are reprobated by God explain the
 following words of Christ? “Every plant which my heavenly Father has not
 planted shall be rooted up,” (<span id="iv.iii.xxiv-p18.1"></span>[Mt.
-15:13](../../../bib/kjv/mat015.htm#013)<span
+15:13](../../../bib/kjv/mat015.htm#013.md)<span
 id="iv.iii.xxiv-p18.1"></span>). They are plainly told that all whom the
 heavenly Father has not been pleased to plant as sacred trees in his
 garden, are doomed and devoted to destruction. If they deny that this is
@@ -119,8 +119,8 @@ his power known, endured with much long-suffering the vessels of wrath
 fitted for destruction: and that he might make known the riches of his
 glory on the vessels of mercy, which he had store prepared unto glory,”
 (<span id="iv.iii.xxiv-p18.2"></span>[Rom.
-9:22](../../../bib/kjv/rom009.htm#022),
-[23](../../../bib/kjv/rom009.htm#023)<span
+9:22](../../../bib/kjv/rom009.htm#022.md),
+[23](../../../bib/kjv/rom009.htm#023.md)<span
 id="iv.iii.xxiv-p18.2"></span>). Let my readers observe that Paul, to
 cut off all handle for murmuring and detraction, attributes supreme
 sovereignty to the wrath and power of God; for it were unjust that those
@@ -168,7 +168,7 @@ divine will, since it is itself, and justly ought to be, the cause of
 all that exists. For if his will has any cause, there must be something
 antecedent to it, and to which it is annexed; this it were impious to
 imagine. The will of God is the supreme rule of righteousness,50  <span
-id="fr_494"></span>[495](#fn_494) so that everything which he wills must
+id="fr_494"></span>[495](#fn_494.md) so that everything which he wills must
 be held to be righteous by the mere fact of his willing it. Therefore,
 when it is asked why the Lord did so, we must answer, Because he
 pleased. But if you proceed farther to ask why he pleased, you ask for
@@ -182,7 +182,7 @@ defend himself by his own righteousness, without our assistance, when
 depriving their consciences of all means of evasion, he shall hold them
 under conviction, and make them feel their guilt. We, however, give no
 countenance to the fiction of absolute power,50  <span
-id="fr_495"></span>[496](#fn_495) which, as it is heathenish, so it
+id="fr_495"></span>[496](#fn_495.md) which, as it is heathenish, so it
 ought justly to be held in detestation by us. We do not imagine God to
 be lawless. He is a law to himself; because, as Plato says, men laboring
 under the influence of concupiscence need law; but the will of God is
@@ -193,7 +193,7 @@ to give judgment in such a case. Wherefore, when we are tempted to go
 farther than we ought, let this consideration deter us, Thou shalt be
 “justified when thou speakest, and be clear when thou judges,” (<span
 id="iv.iii.xxiv-p21.1"></span>[Ps.
-51:4](../../../bib/kjv/psa051.htm#004)<span
+51:4](../../../bib/kjv/psa051.htm#004.md)<span
 id="iv.iii.xxiv-p21.1"></span>).
 
 <span id="iv.iii.xxiv-p22"></span>3. God may thus quell his enemies by
@@ -241,8 +241,8 @@ thing formed say to him that formed it, Why hast thou made me thus? Has
 not the potter power over the clay, of the same lump to make one vessel
 unto honor, and another unto dishonor?” (<span
 id="iv.iii.xxiv-p23.1"></span>[Rom.
-9:20](../../../bib/kjv/rom009.htm#020),
-[21](../../../bib/kjv/rom009.htm#021)<span
+9:20](../../../bib/kjv/rom009.htm#020.md),
+[21](../../../bib/kjv/rom009.htm#021.md)<span
 id="iv.iii.xxiv-p23.1"></span>). They will deny that the justice of God
 is thus truly defended, and will allege that we seek an evasion, such as
 those are wont to employ who have no good excuse. For what more seems to
@@ -264,7 +264,7 @@ not with our reason. There is a well-known saying of Solomon (which,
 however, few properly understand), “The great God that formed all things
 both rewardeth the fool and rewardeth transgressors,” (<span
 id="iv.iii.xxiv-p23.2"></span>[Prov.
-26:10](../../../bib/kjv/pro026.htm#010)<span
+26:10](../../../bib/kjv/pro026.htm#010.md)<span
 id="iv.iii.xxiv-p23.2"></span>). For he is speaking of the greatness of
 God, whose pleasure it is to inflict punishment on fools and
 transgressors though he is not pleased to bestow his Spirit upon them.
@@ -273,11 +273,11 @@ no bounds to the little measure of their reason. Paul gives the name of
 *elect* to the angels who maintained their integrity. If their
 steadfastness was owing to the good pleasure of God, the revolt of the
 others proves that they were abandoned.50  <span
-id="fr_496"></span>[497](#fn_496) Of this no other cause can be adduced
+id="fr_496"></span>[497](#fn_496.md) Of this no other cause can be adduced
 than reprobation, which is hidden in the secret counsel of God.
 
 <span id="iv.iii.xxiv-p25"></span>5. Now, should some Manes or
-Cœlestinus50  <span id="fr_497"></span>[498](#fn_497) come forward to
+Cœlestinus50  <span id="fr_497"></span>[498](#fn_497.md) come forward to
 arraign Divine Providence (see sec. 8), I say with Paul, that no account
 of it can be given, because by its magnitude it far surpasses our
 understanding. Is there any thing strange or absurd in this? Would we
@@ -298,7 +298,7 @@ the greatness of his works to your meagre capacity? As if every thing
 must be perverse that is hidden from the flesh. The immensity of the
 divine judgments is known to you by clear experience. You know that they
 are called “a great deep” (<span id="iv.iii.xxiv-p26.2"></span>[Ps.
-36:6](../../../bib/kjv/psa036.htm#006)<span
+36:6](../../../bib/kjv/psa036.htm#006.md)<span
 id="iv.iii.xxiv-p26.2"></span>). Now, look at the narrowness of your own
 minds and say whether it can comprehend the decrees of God. Why then
 should you, by infatuated inquisitiveness, plunge yourselves into an
@@ -345,7 +345,7 @@ cannot be charged upon him as a crime. Let us, therefore, see what is
 the proper method of solving the difficulty. First, all must admit what
 Solomon says, “The Lord has made all things for himself; yea, even the
 wicked for the day of evil,” (<span id="iv.iii.xxiv-p27.1"></span>[Prov.
-16:4](../../../bib/kjv/pro016.htm#004)<span
+16:4](../../../bib/kjv/pro016.htm#004.md)<span
 id="iv.iii.xxiv-p27.1"></span>). Now, since the arrangement of all
 things is in the hand of God, since to him belongs the disposal of life
 and death, he arranges all things by his sovereign counsel, in such a
@@ -372,7 +372,7 @@ sovereign appointment.
 
 <span id="iv.iii.xxiv-p28"></span>7. They deny that it is ever said in
 distinct terms, God decreed that Adam should perish by his revolt.50
- <span id="fr_498"></span>[499](#fn_498) As if the same God, who is
+ <span id="fr_498"></span>[499](#fn_498.md) As if the same God, who is
 declared in Scripture to do whatsoever he pleases, could have made the
 noblest of his creatures without any special purpose. They say that, in
 accordance with free-will, he was to be the architect of his own
@@ -443,7 +443,7 @@ must be just. Man therefore falls, divine providence so ordaining, but
 he falls by his own fault. The Lord had a little before declared that
 all the things which he had made were very good (<span
 id="iv.iii.xxiv-p30.1"></span>[Gen.
-1:31](../../../bib/kjv/gen001.htm#031)<span
+1:31](../../../bib/kjv/gen001.htm#031.md)<span
 id="iv.iii.xxiv-p30.1"></span>). Whence then the depravity of man, which
 made him revolt from God? Lest it should be supposed that it was from
 his creation, God had expressly approved what proceeded from himself
@@ -498,24 +498,24 @@ Thus Peter and Paul say, that the Lord is no acceptor of persons,
 because he makes no distinction between the Jew and the Greek; does not
 make the mere circumstance of country the ground for rejecting, one or
 embracing the other (<span id="iv.iii.xxiv-p32.1"></span>[Acts
-10:34](../../../bib/kjv/act010.htm#034)<span
+10:34](../../../bib/kjv/act010.htm#034.md)<span
 id="iv.iii.xxiv-p32.1"></span>; <span
 id="iv.iii.xxiv-p32.2"></span>[Rom.
-2:10](../../../bib/kjv/rom002.htm#010)<span
+2:10](../../../bib/kjv/rom002.htm#010.md)<span
 id="iv.iii.xxiv-p32.2"></span>, <span
 id="iv.iii.xxiv-p32.3"></span>[Gal.
-3:28](../../../bib/kjv/gal003.htm#028)<span
+3:28](../../../bib/kjv/gal003.htm#028.md)<span
 id="iv.iii.xxiv-p32.3"></span>). Thus James also uses the same words,
 when he would declare that God has no respect to riches in his judgment
 (<span id="iv.iii.xxiv-p32.4"></span>[James
-2:5](../../../bib/kjv/jam002.htm#005)<span
+2:5](../../../bib/kjv/jam002.htm#005.md)<span
 id="iv.iii.xxiv-p32.4"></span>). Paul also says in another passage, that
 in judging God has no respect to slavery or freedom (<span
 id="iv.iii.xxiv-p32.5"></span>[Eph.
-6:9](../../../bib/kjv/eph006.htm#009)<span
+6:9](../../../bib/kjv/eph006.htm#009.md)<span
 id="iv.iii.xxiv-p32.5"></span>; <span
 id="iv.iii.xxiv-p32.6"></span>[Col.
-3:25](../../../bib/kjv/col003.htm#025)<span
+3:25](../../../bib/kjv/col003.htm#025.md)<span
 id="iv.iii.xxiv-p32.6"></span>). There is nothing inconsistent with this
 when we say, that God, according to the good pleasure of his will,
 without any regard to merit, elects those whom he chooses for sons,
@@ -533,7 +533,7 @@ and exert itself when and where he pleases. For we have elsewhere seen,
 that in order to humble the pride of the flesh, “not many wise men after
 the flesh, not many mighty, not many noble, are called,” (<span
 id="iv.iii.xxiv-p32.7"></span>[1 Cor.
-1:26](../../../bib/kjv/co1001.htm#026)<span
+1:26](../../../bib/kjv/co1001.htm#026.md)<span
 id="iv.iii.xxiv-p32.7"></span>); so far is God in the exercise of his
 favor from showing any respect to persons.
 
@@ -567,8 +567,8 @@ deserve. For when Paul says, “God has concluded them all in unbelief,
 that he might have mercy upon all,” it ought also to be added, that he
 is debtor to none; for “who has first given to him and it shall be
 recompensed unto him again?” (<span id="iv.iii.xxiv-p33.1"></span>[Rom.
-11:32](../../../bib/kjv/rom011.htm#032),
-[33](../../../bib/kjv/rom011.htm#033)<span
+11:32](../../../bib/kjv/rom011.htm#032.md),
+[33](../../../bib/kjv/rom011.htm#033.md)<span
 id="iv.iii.xxiv-p33.1"></span>).
 
 <span id="iv.iii.xxiv-p34"></span>12. Another argument which they employ
@@ -597,7 +597,7 @@ because, if they are of the number of the elect, their vices will be no
 obstacle to the ultimate attainment of life. But Paul reminds us that
 the end for which we are elected is, “that we should be holy, and
 without blame before him,” (<span id="iv.iii.xxiv-p34.1"></span>[Eph.
-1:4](../../../bib/kjv/eph001.htm#004)<span
+1:4](../../../bib/kjv/eph001.htm#004.md)<span
 id="iv.iii.xxiv-p34.1"></span>). If the end of election is holiness of
 life, it ought to arouse and stimulate us strenuously to aspire to it,
 instead of serving as a pretext for sloth. How wide the difference
@@ -631,11 +631,11 @@ has not called us to uncleanness; that every one should possess his
 vessel in honor; that we are the workmanship of God, “created in Christ
 Jesus unto good works, which God has before ordained that we should walk
 in them,” (<span id="iv.iii.xxiv-p35.1"></span>[1 Thess.
-4:4](../../../bib/kjv/th1004.htm#004),
-[7](../../../bib/kjv/th1004.htm#007)<span
+4:4](../../../bib/kjv/th1004.htm#004.md),
+[7](../../../bib/kjv/th1004.htm#007.md)<span
 id="iv.iii.xxiv-p35.1"></span>; <span
 id="iv.iii.xxiv-p35.2"></span>[Eph.
-2:10](../../../bib/kjv/eph002.htm#010)<span
+2:10](../../../bib/kjv/eph002.htm#010.md)<span
 id="iv.iii.xxiv-p35.2"></span>). In one word, those who have any
 tolerable acquaintance with the writings of Paul will understand,
 without a long demonstration, how well he reconciles the two things
@@ -644,7 +644,7 @@ commands us to believe in him, and yet there is nothing false or
 contrary to this command in the statement which he afterwards makes: “No
 man can come unto me, except it were given him of my Father,” (<span
 id="iv.iii.xxiv-p35.3"></span>[John
-6:65](../../../bib/kjv/joh006.htm#065)<span
+6:65](../../../bib/kjv/joh006.htm#065.md)<span
 id="iv.iii.xxiv-p35.3"></span>). Let preaching then have its free
 course, that it may lead men to faith, and dispose them to persevere
 with uninterrupted progress. Nor, at the same time, let there be any
@@ -652,12 +652,12 @@ obstacle to the knowledge of predestination, so that those who obey may
 not plume themselves on anything of their own, but glory only in the
 Lord. It is not without cause our Savior says, “Who has ears to hear,
 let him hear,” (<span id="iv.iii.xxiv-p35.4"></span>[Mt.
-13:9](../../../bib/kjv/mat013.htm#009)<span
+13:9](../../../bib/kjv/mat013.htm#009.md)<span
 id="iv.iii.xxiv-p35.4"></span>). Therefore, while we exhort and preach,
 those who have ears willingly obey: in those again, who have no ears is
 fulfilled what is written: “Hear ye indeed, but understand not,” (<span
 id="iv.iii.xxiv-p35.5"></span>[Isaiah
-6:9](../../../bib/kjv/isa006.htm#009)<span
+6:9](../../../bib/kjv/isa006.htm#009.md)<span
 id="iv.iii.xxiv-p35.5"></span>). “But why (says Augustine) have some
 ears, and others not? Who has known the mind of the Lord? Are we,
 therefore, to deny what is plain because we cannot comprehend what is
@@ -747,13 +747,13 @@ to those whom he has foreknown and predestinated.”
 
 ### Footnotes
 
-<span id="fn_494"></span>[495](inst076.htm#fr_494) <span
+<span id="fn_494"></span>[495](inst076.htm#fr_494.md) <span
 id="iv.iii.xxiv-p19.1"></span>
 
 <span id="iv.iii.xxiv-p20"></span>01 501 This is taken from Auguste Dein
 Gen. cont. Manich., Lib. 1 c. 3.
 
-<span id="fn_495"></span>[496](inst076.htm#fr_495) <span
+<span id="fn_495"></span>[496](inst076.htm#fr_495.md) <span
 id="iv.iii.xxiv-p20.1"></span>
 
 <span id="iv.iii.xxiv-p21"></span>02 502 French. “Toutesfois en parlant
@@ -762,7 +762,7 @@ touchant la puissance absolue de Dieu;”—still in speaking thus, we
 approve not of the reverie of the Popish theologians touching the
 absolute power of God.
 
-<span id="fn_496"></span>[497](inst076.htm#fr_496) <span
+<span id="fn_496"></span>[497](inst076.htm#fr_496.md) <span
 id="iv.iii.xxiv-p23.3"></span>
 
 <span id="iv.iii.xxiv-p24"></span>03 503 French, “Si leur constance er
@@ -772,13 +772,13 @@ constancy and firmness was founded on the good pleasure of God, the
 revolt of the devils shows that they were not restrained, but rather
 abandoned.
 
-<span id="fn_497"></span>[498](inst076.htm#fr_497) <span
+<span id="fn_497"></span>[498](inst076.htm#fr_497.md) <span
 id="iv.iii.xxiv-p25.1"></span>
 
 <span id="iv.iii.xxiv-p26"></span>04 504 The French adds, “ou autre
 heretique;”—or other heretic.
 
-<span id="fn_498"></span>[499](inst076.htm#fr_498) <span
+<span id="fn_498"></span>[499](inst076.htm#fr_498.md) <span
 id="iv.iii.xxiv-p28.1"></span>
 
 <span id="iv.iii.xxiv-p29"></span>05 505 See Calvin, De Prædestinatione.
@@ -787,4 +787,4 @@ id="iv.iii.xxiv-p28.1"></span>
 
 [Next: CHAPTER 24. - ELECTION CONFIRMED BY THE CALLING OF GOD. THE
 REPROBATE BRING UPON THEMSELVES THE RIGHTEOUS DESTRUCTION TO WHICH THEY
-ARE DOOMED.](inst077)
+ARE DOOMED.](inst077.md)

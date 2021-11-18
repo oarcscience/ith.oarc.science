@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc02)  [Next](mtc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc02)  [Next](mtc04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -136,7 +136,7 @@ And the harp-songs of Ch‘u.
 Then after prelude from the flutes of Chao  
 The ballad-singer's voice rises alone.  
 O Soul come back to the hollow mulberry-tree! <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 Eight and eight the dancers sway,  
 Weaving their steps to the poet's voice
@@ -259,21 +259,21 @@ And arrows under arm,
 Each archer does obeisance to each,  
 Willing to yield his rights of precedence.  
 O Soul come back to where men honour still  
-The name of the Three Kings. <span id="fr_2"></span>[2](#fn_2)
+The name of the Three Kings. <span id="fr_2"></span>[2](#fn_2.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[16:1](mtc03.htm#fr_1) The harp.
+<span id="fn_1"></span>[16:1](mtc03.htm#fr_1.md) The harp.
 
-<span id="fn_2"></span>[20:2](mtc03.htm#fr_2) Yü, T‘ang and Wēn, the
+<span id="fn_2"></span>[20:2](mtc03.htm#fr_2.md) Yü, T‘ang and Wēn, the
 three just rulers of antiquity.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Prose Letter](mtc04)
+[Next: Prose Letter](mtc04.md)
 
 </div>

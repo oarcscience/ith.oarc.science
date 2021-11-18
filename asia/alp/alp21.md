@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp20) 
-[Next](alp22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp20.md) 
+[Next](alp22.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ Whither comest thou, O Spring?
 
 ------------------------------------------------------------------------
 
-[Next: Cradle Song](alp22)
+[Next: Cradle Song](alp22.md)

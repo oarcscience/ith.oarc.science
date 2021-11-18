@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp04)  [Next](wgp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp04)  [Next](wgp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,16 +36,16 @@ cross, a curious intimation of the adoption of the worship of the
 generative powers among Christians. These leaden tokens, found in the
 river Seine, were first collected and made known to antiquaries by M.
 Forgeais, who published examples of them in his work on the leaden
-figures found in that river. <span id="fr_46"></span>[47](#fn_46) We
+figures found in that river. <span id="fr_46"></span>[47](#fn_46.md) We
 give five examples of the medals of each sex, obverse and reverse. <span
-id="fr_47"></span>[48](#fn_47) It will be seen that the phalli
+id="fr_47"></span>[48](#fn_47.md) It will be seen that the phalli
 
 <span id="page_61">p. 61</span>
 
  
 
 <span id="img_pl09"></span> [![](tn/generic.jpg)  
-Click to view](img/pl09.jpg)  
+Click to view](img/pl09.jpg.md)  
 PLATE IX  
 ORNAMENTS FROM THE CHURCH OF SAN FEDELE
 
@@ -62,28 +62,28 @@ existing--possibly the latter. But this is not necessary, for the bells
 borne by two examples, given in our next plate, and also taken from the
 collection of M. Forgeais are mediæval, and not Roman bells, though
 these also represent well-known ancient forms of treating the subject.
-In the first, <span id="fr_48"></span>[49](#fn_48) a female is riding
+In the first, <span id="fr_48"></span>[49](#fn_48.md) a female is riding
 upon the phallus, which has men's legs, and is held by a bridle. This
 figure was evidently intended to be attached to the dress as a brooch,
 for the pin which fixed it still remains on the back. Two other examples
- <span id="fr_49"></span>[50](#fn_49) present figures of winged phalli,
+ <span id="fr_49"></span>[50](#fn_49.md) present figures of winged phalli,
 one with a bell, and the other with the ring remaining from which the
 bell has no doubt been broken. One of these has the dog's legs. A fourth
-example <span id="fr_50"></span>[51](#fn_50) represents an enormous
+example <span id="fr_50"></span>[51](#fn_50.md) represents an enormous
 phallus attached to the middle of a small man. In another, <span
-id="fr_51"></span>[52](#fn_51) which was evidently intended for
+id="fr_51"></span>[52](#fn_51.md) which was evidently intended for
 suspension, probably
 
 <span id="page_64">p. 64</span>
 
 at the neck, the organs of the two sexes are joined together. Three
-other leaden figures, <span id="fr_52"></span>[53](#fn_52) apparently
+other leaden figures, <span id="fr_52"></span>[53](#fn_52.md) apparently
 amulets, which were in the Forgeais collection, offer a very peculiar
 variety of form, representing a figure, which we might suppose to be a
 male by its attributes, though it has a very feminine look, and wears
 the robe and hood of a woman. Its peculiarity consists in having a
 phallus before and behind. We have on the same plate  <span
-id="fr_53"></span>[54](#fn_53) a still more remarkable example of the
+id="fr_53"></span>[54](#fn_53.md) a still more remarkable example of the
 combination of the cross with the emblems of the worship of which we are
 treating, in an object found at San Agati di Goti, near Naples, which
 was formerly in the Beresford Fletcher collection, and is now in that of
@@ -94,7 +94,7 @@ cross is of gold, it had no doubt been made for some personage of rank,
 possibly an ecclesiastic; and we can hardly help suspecting that it had
 some connection with priapic ceremonies or festivities. The last figure
 on the same plate is also taken from the collection of M.
-Forgeais. <span id="fr_54"></span>[55](#fn_54) From the monkish cowl and
+Forgeais. <span id="fr_54"></span>[55](#fn_54.md) From the monkish cowl and
 the cord
 
 <span id="page_65">p. 65</span>
@@ -106,7 +106,7 @@ great corruptors of female morals.
 In Italy we can trace the continuous use of these phallic amulets down
 to the present time much more distinctly than in our more Western
 countries. There they are still in very common use, and we give two
-examples <span id="fr_55"></span>[56](wgp06.htm#fn_55) of bronze amulets
+examples <span id="fr_55"></span>[56](wgp06.htm#fn_55.md) of bronze amulets
 of this description, which are commonly sold in Naples at the present
 day for a carlo, equivalent to fourpence in English money, each. One of
 them, it will be seen, is encircled by a serpent. So important are these
@@ -118,34 +118,34 @@ carries in his waistcoat pocket.
 
 ### Footnotes
 
-<span id="fn_46"></span>[60:47](wgp05.htm#fr_46) Notice sur des Plombs
+<span id="fn_46"></span>[60:47](wgp05.htm#fr_46.md) Notice sur des Plombs
 Historiés trouvés dans la Seine, et recueillis par Arthur Forgeais. 8vo.
 Paris, 1858.
 
-<span id="fn_47"></span>[60:48](wgp05.htm#fr_47) See our [Plate
-IX](#img_pl09).
+<span id="fn_47"></span>[60:48](wgp05.htm#fr_47.md) See our [Plate
+IX](#img_pl09.md).
 
-<span id="fn_48"></span>[63:49](wgp05.htm#fr_48) [Plate X, Fig.
-1](wgp06.htm#img_pl10).
+<span id="fn_48"></span>[63:49](wgp05.htm#fr_48.md) [Plate X, Fig.
+1](wgp06.htm#img_pl10.md).
 
-<span id="fn_49"></span>[63:50](wgp05.htm#fr_49) [Plate X, Figs. 2 and
-3](wgp06.htm#img_pl10).
+<span id="fn_49"></span>[63:50](wgp05.htm#fr_49.md) [Plate X, Figs. 2 and
+3](wgp06.htm#img_pl10.md).
 
-<span id="fn_50"></span>[63:51](wgp05.htm#fr_50) [Plate X, Fig.
-4](wgp06.htm#img_pl10).
+<span id="fn_50"></span>[63:51](wgp05.htm#fr_50.md) [Plate X, Fig.
+4](wgp06.htm#img_pl10.md).
 
-<span id="fn_51"></span>[63:52](wgp05.htm#fr_51) [Plate X, Fig.
-5](wgp06.htm#img_pl10).
+<span id="fn_51"></span>[63:52](wgp05.htm#fr_51.md) [Plate X, Fig.
+5](wgp06.htm#img_pl10.md).
 
-<span id="fn_52"></span>[64:53](wgp05.htm#fr_52) [Plate XI, Figs. 1, 2,
-and 3](wgp07.htm#img_pl11).
+<span id="fn_52"></span>[64:53](wgp05.htm#fr_52.md) [Plate XI, Figs. 1, 2,
+and 3](wgp07.htm#img_pl11.md).
 
-<span id="fn_53"></span>[64:54](wgp05.htm#fr_53) [Plate XI, Fig.
-4](wgp07.htm#img_pl11).
+<span id="fn_53"></span>[64:54](wgp05.htm#fr_53.md) [Plate XI, Fig.
+4](wgp07.htm#img_pl11.md).
 
-<span id="fn_54"></span>[64:55](wgp05.htm#fr_54) [Plate XI, Fig.
-5](wgp07.htm#img_pl11).
+<span id="fn_54"></span>[64:55](wgp05.htm#fr_54.md) [Plate XI, Fig.
+5](wgp07.htm#img_pl11.md).
 
 ------------------------------------------------------------------------
 
-[Next: The 'Fig'](wgp06)
+[Next: The 'Fig'](wgp06.md)

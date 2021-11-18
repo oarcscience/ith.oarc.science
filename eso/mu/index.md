@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mu00)
+[Contents](#contents)    [Start Reading](mu00.md)
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ different places at once, and that the Sponsors had advanced technology
 which would allow the dead to be resurrected on a distant planet
 \[Dohrman p. 72\]. In 1951 Bell abdicated and the cult withered away
 completely. Unlike other groups of that time such as '[I
-AM](../um/index)' there were no successors.
+AM](../um/index.md)' there were no successors.
 
 This book, Mankind United, was the primary text of the cult. It was
 undoubtedly written by Arthur Bell. The date of publication is
@@ -76,48 +76,48 @@ library entries vary from 1936 to 1938. Much of the cult income was
 derived from sales of this book. It is written in a turgid, repetitive
 style, with overuse of bold type and large blocks of capitalized text.
 Of interest is the description of the ant-hill dystopia that the Hidden
-Rulers had in store for humanity ([Chapter VI](mu09)), which could be
+Rulers had in store for humanity ([Chapter VI](mu09).md), which could be
 straight out of a Golden Age science fiction yarn.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](mu00)  
-[Contents](mu01)  
-[A Topical and Statistical Index](mu02)  
-[Preface](mu03)  
+<span id="contents"></span> [Title Page and Front Matter](mu00.md)  
+[Contents](mu01.md)  
+[A Topical and Statistical Index](mu02.md)  
+[Preface](mu03.md)  
 [Chapter 1. Our Early History and Sixty Successful Years of Secret
-Service](mu04)  
-[Chapter II. The World's Hidden Rulers](mu05)  
+Service](mu04.md)  
+[Chapter II. The World's Hidden Rulers](mu05.md)  
 [Chapter III. The International Legion of Vigilantes and the Leadership
-of Eternal Right Ideas](mu06)  
+of Eternal Right Ideas](mu06.md)  
 [Chapter IV. Universal Security, Peace and Happiness Versus Poverty,
-Fear and War](mu07)  
+Fear and War](mu07.md)  
 [Chapter V. The Golden Rule—Or—The Rule of Gold—Which Shall It
-Be?](mu08)  
-[Chapter VI. 40,000 Principalities—One Thousand Million Slaves](mu09)  
-[Chapter VIII. Shall Jesus—or—Judas Prevail?](mu10)  
-[Chapter VIII. Christians Wanted!](mu11)  
+Be?](mu08.md)  
+[Chapter VI. 40,000 Principalities—One Thousand Million Slaves](mu09.md)  
+[Chapter VIII. Shall Jesus—or—Judas Prevail?](mu10.md)  
+[Chapter VIII. Christians Wanted!](mu11.md)  
 [Chapter IX. Mankind's Self-Appointed Gods and the Monster Called
-“Greed”](mu12)  
-[Chapter X. The Priceless Gift of Life and What We Do With It](mu13)  
+“Greed”](mu12.md)  
+[Chapter X. The Priceless Gift of Life and What We Do With It](mu13.md)  
 [Chapter XI. Shall We Be Master Builders Or Master Murderers . . .
 “Extermination” or “Economic Equality”? . . . Mankind Must
-Choose](mu14)  
+Choose](mu14.md)  
 [Chapter XII. Limitless Fields Of Interest . . . A “Universe” To
-Explore](mu15)  
+Explore](mu15.md)  
 [Chapter XIII. Does Our World Belong Any More to One Than to
-Another?](mu16)  
+Another?](mu16.md)  
 [Chapter XIV. Earnings—Hours—Education—Generous Benefits and Ample
-Vacations](mu17)  
+Vacations](mu17.md)  
 [Chapter XV. The Universal Service Corporation Equally Owned—Equally
-Controlled Equally Beneficial](mu18)  
+Controlled Equally Beneficial](mu18.md)  
 [Chapter XVI. Bigoted Skepticism and Inevitable
 Extermination—Or—Intelligent Co-Operation And “Economic Equality” . . .
-Which Shall It Be?](mu19)  
+Which Shall It Be?](mu19.md)  
 [Chapter XVII. Mankind United—And—The International 4-4-8-3-4
-Club](mu20)  
-[Chapter XVIII. Not A Mad Dream](mu21)  
+Club](mu20.md)  
+[Chapter XVIII. Not A Mad Dream](mu21.md)  
 [Chapter XIX. Christians of the World! . . . Have You the Courage to
-Accept Our Invitation?](mu22)  
+Accept Our Invitation?](mu22.md)  
 [Chapter XX. A Call to Arms and a Brief Summary of the Institute's
-Program—What You Can Do to Help](mu23)  
+Program—What You Can Do to Help](mu23.md)  

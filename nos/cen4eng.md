@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](cen3eng)  [Next](cen5eng) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](cen3eng)  [Next](cen5eng.md) 
 
 ------------------------------------------------------------------------
 
@@ -606,6 +606,6 @@ Rouen, Evreux the King will not fail.
 
 ------------------------------------------------------------------------
 
-[Next: Century V](cen5eng)
+[Next: Century V](cen5eng.md)
 
   

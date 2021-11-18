@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont31)  [Next](ont33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont31)  [Next](ont33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -100,7 +100,7 @@ afterwards asked to name her sister's
 
 <span id="img_39700"></span> <span align="CENTER"> [![TWO SISTERS—GREEN
 SNARE WOMAN AND BLUE SNAKE WOMAN.](tn/39700.jpg)  
-Click to enlarge](img/39700.jpg)  
+Click to enlarge](img/39700.jpg.md)  
 TWO SISTERS—GREEN SNARE WOMAN AND BLUE SNAKE WOMAN.  
 </span>
 
@@ -127,7 +127,7 @@ Another custom was to name a child in honour of a
 <span id="img_39800"></span> <span align="CENTER">
 [![LAST-ONE-TO-SWIM-IN-WITH-THE-WILLOWS AND HIS
 SISTERS.](tn/39800.jpg)  
-Click to enlarge](img/39800.jpg)  
+Click to enlarge](img/39800.jpg.md)  
 LAST-ONE-TO-SWIM-IN-WITH-THE-WILLOWS AND HIS SISTERS.  
 </span>
 
@@ -268,11 +268,11 @@ things will be found in Brings-down-the-Sun's
 <span id="page_402">p. 402</span>
 
 topography of the Old North Trail
-(pp.[434](ont36.htm#page_434)-[440](ont36.htm#page_440)); in his
+(pp.[434](ont36.htm#page_434)-[440](ont36.htm#page_440).md); in his
 discourses on the names and habits of birds (pp.
-[481](ont40.htm#page_481)-[484](ont40.htm#page_484)); and on the names
+[481](ont40.htm#page_481)-[484](ont40.htm#page_484).md); and on the names
 of the different moons, the constellations and signs in the heavens (pp.
-[486](ont40.htm#page_486)-[488](ont40.htm#page_488)).
+[486](ont40.htm#page_486)-[488](ont40.htm#page_488).md).
 
 They also had phrases and proverbs tersely expressing both wisdom and
 humour.
@@ -315,7 +315,7 @@ The Blackfeet, because of their central location on the
 <span id="img_40300"></span> <span align="CENTER"> [![VISITING INDIANS
 CONVERSING IN SIGN LANGUAGE.&lt;br&gt; (Second from left end is making
 sign for buffalo by crooking forefingers.)](tn/40300.jpg)  
-Click to enlarge](img/40300.jpg)  
+Click to enlarge](img/40300.jpg.md)  
 VISITING INDIANS CONVERSING IN SIGN LANGUAGE.  
 (Second from left end is making sign for buffalo by crooking
 forefingers.)  
@@ -417,4 +417,4 @@ extended fingers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX. Onesta Gives the Crow Beaver Ceremonial](ont33)
+[Next: Chapter XXX. Onesta Gives the Crow Beaver Ceremonial](ont33.md)

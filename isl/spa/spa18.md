@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa17)  [Next](spa19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa17)  [Next](spa19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -82,7 +82,7 @@ that of Mīrzā, is deeply tinged with the mysticisms of that sect.
 The fame of <u>Sh</u>aidā's poetry soon began to be noised abroad; and
 at length, Mī’ān Muḥammadī, son of Mī’ān Æabd-ullah of Sirhind, who
 belonged to the family of <u>Sh</u>aidā's spiritual guide, <span
-id="fr_348"></span>[\*](#fn_348)
+id="fr_348"></span>[\*](#fn_348.md)
 
 <span id="page_307">p. 307</span>
 
@@ -115,9 +115,9 @@ chieftains, and their families, have, for centuries past, been interred.
 
 ### Footnotes
 
-<span id="fn_348"></span>[306:\*](spa18.htm#fr_348) See Introduction,
-page [xiii](spa03.htm#page_xiii).
+<span id="fn_348"></span>[306:\*](spa18.htm#fr_348.md) See Introduction,
+page [xiii](spa03.htm#page_xiii.md).
 
 ------------------------------------------------------------------------
 
-[Next: The Poems of Kāzim <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak](spa19)
+[Next: The Poems of Kāzim <u>Kh</u>ān, <u>Kh</u>a<u>tt</u>ak](spa19.md)

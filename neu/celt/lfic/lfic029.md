@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic028)  [Next](lfic030) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic028)  [Next](lfic030.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ us.
 
 ------------------------------------------------------------------------
 
-[Next: The Kildare Pooka](lfic030)
+[Next: The Kildare Pooka](lfic030.md)

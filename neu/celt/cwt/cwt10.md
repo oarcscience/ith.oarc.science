@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cwt09)  [Next](cwt11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cwt09)  [Next](cwt11.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,4 +270,4 @@ laughter of Brigit.
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Fly](cwt11)
+[Next: The Golden Fly](cwt11.md)

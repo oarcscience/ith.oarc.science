@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch16) 
-[Next](branch18) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch16.md) 
+[Next](branch18.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -478,5 +478,5 @@ King Arthur was.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XVIII](branch18)  
+XVIII](branch18.md)  
 </span>

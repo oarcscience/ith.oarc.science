@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray050)  [Next](pray052) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray050)  [Next](pray052.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ taught what he willed; he willed what was necessary.
 
 ------------------------------------------------------------------------
 
-[Next: 50.](pray052)
+[Next: 50.](pray052.md)

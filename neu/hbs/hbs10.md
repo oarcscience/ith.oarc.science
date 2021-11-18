@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs09) [Next](hbs11)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs09) [Next](hbs11.md)
 
 ------------------------------------------------------------------------
 
@@ -187,7 +187,7 @@ And fled with his twelve thousand men, the traitor cavalier!”
 
 ------------------------------------------------------------------------
 
-[Next](hbs11)
+[Next](hbs11.md)
 
  
 

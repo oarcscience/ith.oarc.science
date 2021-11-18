@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki222)  [Next](liki224) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki222)  [Next](liki224.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,6 +154,6 @@ error of a thousand 1î\[1\].'
 
 ------------------------------------------------------------------------
 
-[Next: XXIV. Âi Kung Wan or Questions of Duke Âi](liki224)
+[Next: XXIV. Âi Kung Wan or Questions of Duke Âi](liki224.md)
 
   

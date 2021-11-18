@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Their Customs, Legends and Beliefs, and the Story of Yosemite</h5>
 
 ------------------------------------------------------------------------
 
-[Jump to contents](#contents)    [Start Reading](lly00)
+[Jump to contents](#contents)    [Start Reading](lly00.md)
 
 ------------------------------------------------------------------------
 
@@ -55,108 +55,108 @@ the other animal-people inhabitants of the dreamtime.
 
 ------------------------------------------------------------------------
 
-[Title Page](lly00)  
-[Contents](lly01)  
-[List Of Illustrations](lly02)  
-[Introductory Note](lly03)  
+[Title Page](lly00.md)  
+[Contents](lly01.md)  
+[List Of Illustrations](lly02.md)  
+[Introductory Note](lly03.md)  
 <span id="section_000"></span>
 
 ### Chapter I. The Coming of the White Man to Yosemite
 
-[Chapter I. The Coming of the White Man to Yosemite](lly04)  
+[Chapter I. The Coming of the White Man to Yosemite](lly04.md)  
 <span id="section_001"></span>
 
 ### Chapter II. The Story of Yosemite
 
-[The Story of Yosemite](lly05)  
-[The Gateway](lly06)  
-[Bridal Veil Fall](lly07)  
-[El Capitan](lly08)  
-[Ribbon Fall](lly09)  
-[The Valley](lly10)  
-[Cathedral Rocks](lly11)  
-[Cathedral Spires](lly12)  
-[The Three Brothers](lly13)  
-[Sentinel Rock](lly14)  
-[Yosemite Fall](lly15)  
-[Glacier Point](lly16)  
-[Half Dome](lly17)  
-[North Dome and Basket Dome](lly18)  
-[Happy Isles](lly19)  
-[Mirror Lake](lly20)  
-[Clouds Rest](lly21)  
+[The Story of Yosemite](lly05.md)  
+[The Gateway](lly06.md)  
+[Bridal Veil Fall](lly07.md)  
+[El Capitan](lly08.md)  
+[Ribbon Fall](lly09.md)  
+[The Valley](lly10.md)  
+[Cathedral Rocks](lly11.md)  
+[Cathedral Spires](lly12.md)  
+[The Three Brothers](lly13.md)  
+[Sentinel Rock](lly14.md)  
+[Yosemite Fall](lly15.md)  
+[Glacier Point](lly16.md)  
+[Half Dome](lly17.md)  
+[North Dome and Basket Dome](lly18.md)  
+[Happy Isles](lly19.md)  
+[Mirror Lake](lly20.md)  
+[Clouds Rest](lly21.md)  
 <span id="section_002"></span>
 
 ### Chapter III. Sunset in the Yosemite
 
-[Chapter III. Sunset in the Yosemite](lly22)  
+[Chapter III. Sunset in the Yosemite](lly22.md)  
 <span id="section_003"></span>
 
 ### Chapter IV. Big Trees of the Mariposa Grove
 
-[Chapter IV. Big Trees of the Mariposa Grove](lly23)  
-[Introduction to Myths and Legends](lly24)  
+[Chapter IV. Big Trees of the Mariposa Grove](lly23.md)  
+[Introduction to Myths and Legends](lly24.md)  
 <span id="section_004"></span>
 
 ### Chapter V. Indian Myths and Legends
 
-[The Legend Of Tu-tok-a-na](lly25)  
-[The Legend Of Tu-tok-a-nu-la And Tis-sa-ack](lly26)  
-[The Legend of the Lost Arrow](lly27)  
-[The Legend Of Tis-sa-ack](lly28)  
-[The Legend Of Po-ho-no](lly29)  
-[The Legend Of Yo-sem-i-te](lly30)  
-[The Legend Of Pi-wy-ack](lly31)  
-[The Legend Of Loi-ya](lly32)  
-[Legend of the Origin of Thunder and Lightning](lly33)  
-[Legend of the Fish-Women (Mermaids)](lly34)  
+[The Legend Of Tu-tok-a-na](lly25.md)  
+[The Legend Of Tu-tok-a-nu-la And Tis-sa-ack](lly26.md)  
+[The Legend of the Lost Arrow](lly27.md)  
+[The Legend Of Tis-sa-ack](lly28.md)  
+[The Legend Of Po-ho-no](lly29.md)  
+[The Legend Of Yo-sem-i-te](lly30.md)  
+[The Legend Of Pi-wy-ack](lly31.md)  
+[The Legend Of Loi-ya](lly32.md)  
+[Legend of the Origin of Thunder and Lightning](lly33.md)  
+[Legend of the Fish-Women (Mermaids)](lly34.md)  
 <span id="section_005"></span>
 
 ### Chapter VI. Creation
 
-[Chapter VI. Creation](lly35)  
+[Chapter VI. Creation](lly35.md)  
 <span id="section_006"></span>
 
 ### Chapter VII. The Coming of the Indian to Yosemite
 
-[The Coming of the Indian to Yosemite](lly36)  
-[Acorns](lly37)  
-[Grasshoppers](lly38)  
-[Clover Grasses, Grass Seeds, and Edible Roots](lly39)  
-[Berries and Nuts](lly40)  
-[Fish](lly41)  
-[Deer](lly42)  
-[Small Game, Mushrooms, Worms, and Beetles](lly43)  
-[Dwellings](lly44)  
-[Bedding](lly45)  
-[Sweat-Houses](lly46)  
-[Clothing](lly47)  
-[Baskets](lly48)  
-[Weapons](lly49)  
+[The Coming of the Indian to Yosemite](lly36.md)  
+[Acorns](lly37.md)  
+[Grasshoppers](lly38.md)  
+[Clover Grasses, Grass Seeds, and Edible Roots](lly39.md)  
+[Berries and Nuts](lly40.md)  
+[Fish](lly41.md)  
+[Deer](lly42.md)  
+[Small Game, Mushrooms, Worms, and Beetles](lly43.md)  
+[Dwellings](lly44.md)  
+[Bedding](lly45.md)  
+[Sweat-Houses](lly46.md)  
+[Clothing](lly47.md)  
+[Baskets](lly48.md)  
+[Weapons](lly49.md)  
 <span id="section_007"></span>
 
 ### Chapter VIII. His Customs, Religious Beliefs, and Ceremonies
 
-[His Customs, Religious Beliefs, and Ceremonies](lly50)  
-[Division of Territory](lly51)  
-[Commerce](lly52)  
-[Communications](lly53)  
-[Annual Feasts](lly54)  
-[Dances](lly55)  
-[Hand Game](lly56)  
-[Medicine Men](lly57)  
-[Marriage](lly58)  
-[Widows](lly59)  
-[Children](lly60)  
-[Disposal of Their Dead](lly61)  
-[The Present Day Indian in Yosemite](lly62)  
+[His Customs, Religious Beliefs, and Ceremonies](lly50.md)  
+[Division of Territory](lly51.md)  
+[Commerce](lly52.md)  
+[Communications](lly53.md)  
+[Annual Feasts](lly54.md)  
+[Dances](lly55.md)  
+[Hand Game](lly56.md)  
+[Medicine Men](lly57.md)  
+[Marriage](lly58.md)  
+[Widows](lly59.md)  
+[Children](lly60.md)  
+[Disposal of Their Dead](lly61.md)  
+[The Present Day Indian in Yosemite](lly62.md)  
 <span id="section_008"></span>
 
 ### Chapter IX. Retrospection and Prophecy
 
-[Chapter IX. Retrospection and Prophecy](lly63)  
+[Chapter IX. Retrospection and Prophecy](lly63.md)  
 <span id="section_009"></span>
 
 ### Chapter X. Geology of the Yosemite Valley
 
-[Chapter X. Geology of the Yosemite Valley](lly64)  
+[Chapter X. Geology of the Yosemite Valley](lly64.md)  

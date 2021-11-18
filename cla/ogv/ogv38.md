@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv37)  [Next](ogv39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv37)  [Next](ogv39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ of inspiration, should fill the understanding
 with a light intense enough to dissipate all the illusions of the
 senses, to exalt the soul and release it wholly from things material.
 Thus it was explained by Socrates and Plato. <span
-id="fr_584"></span>[a](#fn_583) These philosophers and their numerous
+id="fr_584"></span>[a](#fn_583.md) These philosophers and their numerous
 disciples put no limit to the advantages of autopsy, or theophany, as
 they sometimes named this highest degree of the telestic science. They
 believed that the contemplation of God could be carried so far during
@@ -37,14 +37,14 @@ this same life, that the soul became not only united to this Being of
 beings, but that it was mingled and blended with it. Plotinus boasted
 having experienced the joy of this beatific vision four times, according
 to Porphyry, who himself claimed to have been honoured with it at the
-age of sixty-eight <span id="fr_585"></span>[b](#fn_584). The great aim
+age of sixty-eight <span id="fr_585"></span>[b](#fn_584.md). The great aim
 of the mysteries was to teach the initiates the possibility of this
 union of man with God, and to indicate to them the means. All
 initiations, all mythological doctrines, tended only to alleviate the
 soul of the weight of material things, to purify it, so that, desirous
 of spiritual welfare, and being projected beyond the circle of
 generations, it could rise to the source of its existence. <span
-id="fr_586"></span>[c](#fn_585) If one examines carefully the different
+id="fr_586"></span>[c](#fn_585.md) If one examines carefully the different
 cults which still dominate upon earth, one will see that they have not
 been animated by any other spirit. The knowledge of the Being of beings
 has been offered everywhere as the aim of wisdom; its similitude, as the
@@ -61,20 +61,20 @@ which they live after being emanated from it,
 
 toward which they aspire, and in which they are finally absorbed, this
 Spirit is that, to the knowledge of which thou shouldst aspire, the
-Great Being. <span id="fr_587"></span>[a](#fn_586)—The Universe is one
-of its forms. <span id="fr_588"></span>[b](#fn_587) —It is the Being of
+Great Being. <span id="fr_587"></span>[a](#fn_586.md)—The Universe is one
+of its forms. <span id="fr_588"></span>[b](#fn_587.md) —It is the Being of
 beings: without form, without quality, without passion; immense,
-incomprehensible, infinite, indivisible, [incorporeal](errata.htm#5),
+incomprehensible, infinite, indivisible, [incorporeal](errata.htm#5.md),
 irresistible: no intelligence can conceive of its operations and its
 will suffices to move all intelligences. <span
-id="fr_589"></span>[c](#fn_588)—It is the Truth and the Science which
-never perish. <span id="fr_590"></span>[d](#fn_589)—Its wisdom, its
+id="fr_589"></span>[c](#fn_588.md)—It is the Truth and the Science which
+never perish. <span id="fr_590"></span>[d](#fn_589.md)—Its wisdom, its
 power, and its plan, are as an immense and limitless sea which no being
 is in condition either to traverse or to fathom. There is no other God
 than it. The Universe is filled with its immensity. It is the principle
 of all things without having principles. <span
-id="fr_591"></span>[e](#fn_590) God is one, <span
-id="fr_592"></span>[f](#fn_591) eternal, like unto a perfect sphere
+id="fr_591"></span>[e](#fn_590.md) God is one, <span
+id="fr_592"></span>[f](#fn_591.md) eternal, like unto a perfect sphere
 which has neither beginning nor end. He rules and governs all that
 exists by a general providence, resultant of fixed and determined
 principles. Man ought not to seek to penetrate the nature or the essence
@@ -134,7 +134,7 @@ fear that giddiness may seize me . . . for as
 long as I ascend, I am convinced of my impulse; but it is not the same
 when I turn my; head and when I wish to descend; then I am troubled, I
 am bewildered, it seems to me that I shall fall." <span
-id="fr_593"></span>[a](#fn_592) And in truth he fell so rapidly that he
+id="fr_593"></span>[a](#fn_592.md) And in truth he fell so rapidly that he
 did not perceive, either the terrible disparity between his ideas and
 his expressions, nor the manifest contradictions into which his
 prejudices had drawn him.
@@ -184,11 +184,11 @@ you may not connect with one of the kinds whose origin I have indicated.
 I have said that the Divinity, considered in the human intelligence, is
 shown under the emblem of the universal Ternary; hence all the cults
 which are dominated by three principal gods as in India. <span
-id="fr_594"></span>[a](#fn_593) in Greece and in Italy, <span
-id="fr_595"></span>[b](#fn_594) three principal modifications in the
-same God, as in China, <span id="fr_596"></span>[c](#fn_595) in Japan,
+id="fr_594"></span>[a](#fn_593.md) in Greece and in Italy, <span
+id="fr_595"></span>[b](#fn_594.md) three principal modifications in the
+same God, as in China, <span id="fr_596"></span>[c](#fn_595.md) in Japan,
 in Tibet and among the considerable followers of Fo-Hi or Buddha. <span
-id="fr_597"></span>[d](#fn_596) This cult, which has been called that
+id="fr_597"></span>[d](#fn_596.md) This cult, which has been called that
 
 <span id="page_248">p. 248</span>
 
@@ -208,7 +208,7 @@ Greeks, and Latins. This cult could be considered as a natural
 *Diarchy*, and those who follow it, *Diarchists*. Judgment and reason
 conform very well in it; one also sees ordinarily, profound reasoners
 and skeptics, inclining there *nolens volens*. <span
-id="fr_598"></span>[a](#fn_597) Its abuse leads to atheism; but it
+id="fr_598"></span>[a](#fn_597.md) Its abuse leads to atheism; but it
 offers great means, when one knows how to make good use of it, to
 penetrate the essence of things and succeed to the explanation of
 natural phenomena.
@@ -264,18 +264,18 @@ exposed to give false ideas of the absolute essence of a Being that
 neither time nor space can contain. Many have dared the undertaking. One
 knows, in delving into ages long since past, that the ancient Magians of
 Persia erected no temple and set up no statue. <span
-id="fr_599"></span>[a](#fn_598) The Druids acted in the same
-manner. <span id="fr_600"></span>[b](#fn_599) The former invoked the
+id="fr_599"></span>[a](#fn_598.md) The Druids acted in the same
+manner. <span id="fr_600"></span>[b](#fn_599.md) The former invoked the
 Principle of all things upon the summits of mountains; the latter, in
 the depths of the forests. Both deemed it unworthy of the divine Majesty
 to enclose it within precincts and to represent it by a material
-image. <span id="fr_601"></span>[c](#fn_600) It even appears that the
-early Romans shared this opinion. <span id="fr_602"></span>[d](#fn_601)
+image. <span id="fr_601"></span>[c](#fn_600.md) It even appears that the
+early Romans shared this opinion. <span id="fr_602"></span>[d](#fn_601.md)
 But this cult, entirely intellectual and destitute of forms, could not
 subsist long. Perceptible objects were needed by the people, on which
 they might place their ideas. These objects, even in spite of the
 legislator who sought to proscribe them, insinuated themselves. <span
-id="fr_603"></span>[e](#fn_602) Images, statues, temples were multiplied
+id="fr_603"></span>[e](#fn_602.md) Images, statues, temples were multiplied
 notwithstanding the laws which prohibited them. At that time if the cult
 did not undergo a salutary reform, it was changed, either into a gross
 anthropomorphism, or into an absolute materialism: that is to say, that
@@ -294,64 +294,64 @@ lifted
 
 to his gaze, and the principle and end of all things, the Being of
 beings, in all its unfathomable Unity, was delivered to his
-contemplation. <span id="fr_604"></span>[a](#fn_603)
+contemplation. <span id="fr_604"></span>[a](#fn_603.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_578"></span>[242:a](ogv37.htm#fr_579) Origen., *Contr.
+<span id="fn_578"></span>[242:a](ogv37.htm#fr_579.md) Origen., *Contr.
 Cels.*, l. i., p. 19.
 
-<span id="fn_579"></span>[242:b](ogv37.htm#fr_580) Synés., *De Insomn.*,
+<span id="fn_579"></span>[242:b](ogv37.htm#fr_580.md) Synés., *De Insomn.*,
 p. 134 et seq.; Niceph. Greg., *Schol. in Synes.*, p. 360 et seq.
 
-<span id="fn_580"></span>[242:c](ogv37.htm#fr_581) *Voyez* Naudé,
+<span id="fn_580"></span>[242:c](ogv37.htm#fr_581.md) *Voyez* Naudé,
 *Apolog. des grands Hommes accusés de Magie*.
 
-<span id="fn_581"></span>[242:d](ogv37.htm#fr_582) Com. Cels., *De Re
+<span id="fn_581"></span>[242:d](ogv37.htm#fr_582.md) Com. Cels., *De Re
 Medic.*, l. i., *Præf*.
 
-<span id="fn_582"></span>[242:e](ogv37.htm#fr_583) Hiérocl., *Aur.
+<span id="fn_582"></span>[242:e](ogv37.htm#fr_583.md) Hiérocl., *Aur.
 Carm.*, v. 48 et 49, et *ibid*., v. 46.
 
-<span id="fn_583"></span>[243:a](ogv38.htm#fr_584) Plat., In *Georgiâ*,
+<span id="fn_583"></span>[243:a](ogv38.htm#fr_584.md) Plat., In *Georgiâ*,
 *In Phæd.*; *Ibid*., *De Rep.*, l. vii.; August., *De Civit. Dei*, l.
 iii., c. 1 et l. x., c. 29.
 
-<span id="fn_584"></span>[243:b](ogv38.htm#fr_585) *Acad. des
+<span id="fn_584"></span>[243:b](ogv38.htm#fr_585.md) *Acad. des
 Insc*ript., t. xxxi., p. 319.
 
-<span id="fn_585"></span>[243:c](ogv38.htm#fr_586) Procl., *In Tim.*, l.
+<span id="fn_585"></span>[243:c](ogv38.htm#fr_586.md) Procl., *In Tim.*, l.
 v., p. 330; Cicer., *Somn. Scip.*, c. 2, 3, 4, et 6; Hierocl., *In Aur.
 Carm.*, v. 70.
 
-<span id="fn_586"></span>[244:a](ogv38.htm#fr_587) Veda, cité par W.
+<span id="fn_586"></span>[244:a](ogv38.htm#fr_587.md) Veda, cité par W.
 Jones, *Asiat. Resear.*, t. iv., p. 173.
 
-<span id="fn_587"></span>[244:b](ogv38.htm#fr_588) *Premier Pourâna*,
+<span id="fn_587"></span>[244:b](ogv38.htm#fr_588.md) *Premier Pourâna*,
 intitulé *Matsya*.
 
-<span id="fn_588"></span>[244:c](ogv38.htm#fr_589) *Boushznda-Ramayan*.
+<span id="fn_588"></span>[244:c](ogv38.htm#fr_589.md) *Boushznda-Ramayan*.
 
-<span id="fn_589"></span>[244:d](ogv38.htm#fr_590) *Institut. of Menou*,
+<span id="fn_589"></span>[244:d](ogv38.htm#fr_590.md) *Institut. of Menou*,
 ch. 1, v. 1.
 
-<span id="fn_590"></span>[244:e](ogv38.htm#fr_591) *Shanda-Pourdna*.
+<span id="fn_590"></span>[244:e](ogv38.htm#fr_591.md) *Shanda-Pourdna*.
 
-<span id="fn_591"></span>[244:f](ogv38.htm#fr_592) *Ekhamesha*.
+<span id="fn_591"></span>[244:f](ogv38.htm#fr_592.md) *Ekhamesha*.
 
-<span id="fn_592"></span>[246:a](ogv38.htm#fr_593) *Aurore naissante*
+<span id="fn_592"></span>[246:a](ogv38.htm#fr_593.md) *Aurore naissante*
 (*Morgens röte im Aufgang: durch Jacob Böhmen zu* Amsterdam, 1682), ch.
 14, § 41.
 
-<span id="fn_593"></span>[247:a](ogv38.htm#fr_594) Brahma, Vishnu, and
+<span id="fn_593"></span>[247:a](ogv38.htm#fr_594.md) Brahma, Vishnu, and
 Rudra.
 
-<span id="fn_594"></span>[247:b](ogv38.htm#fr_595) Jupiter, Neptune, and
+<span id="fn_594"></span>[247:b](ogv38.htm#fr_595.md) Jupiter, Neptune, and
 Pluto.
 
-<span id="fn_595"></span>[247:c](ogv38.htm#fr_596) In the *Tao-te-King*
+<span id="fn_595"></span>[247:c](ogv38.htm#fr_596.md) In the *Tao-te-King*
 of Lao-Tse, a work which has held a high reputation among the numerous
 followers of this theosophist, one finds that the absolute, universal
 Being which he declares can neither be named, nor defined, is triple.
@@ -369,7 +369,7 @@ it cannot be fathomed; so great that it contains the Universe; when one
 looks on high one sees no beginning; when one follows it in its
 productions, one finds in it no end."
 
-<span id="fn_596"></span>[247:d](ogv38.htm#fr_597) One of the principal
+<span id="fn_596"></span>[247:d](ogv38.htm#fr_597.md) One of the principal
 dogmas of Fo-Hi is the existence of one God in <span id="page_248">p.
 248</span> three persons, whose image is man. All his doctrine is
 limited to leading, by meditation and repression of the passions, the
@@ -380,30 +380,30 @@ together, this ternary should make but One. Then its duration will have
 no limit and its faculties will be indestructible. *Voyez* Duhalde, t.
 iii., *in fol.*, p. 50.
 
-<span id="fn_597"></span>[248:a](ogv38.htm#fr_598) This is noticeable
+<span id="fn_597"></span>[248:a](ogv38.htm#fr_598.md) This is noticeable
 particularly in Bayle.
 
-<span id="fn_598"></span>[250:a](ogv38.htm#fr_599) Herod., *In Clio*, §
+<span id="fn_598"></span>[250:a](ogv38.htm#fr_599.md) Herod., *In Clio*, §
 131; Strab., l. xv.; Boehm., *Mores Gentium*.
 
-<span id="fn_599"></span>[250:b](ogv38.htm#fr_600) Pelloutier, *Hist.
+<span id="fn_599"></span>[250:b](ogv38.htm#fr_600.md) Pelloutier, *Hist.
 des Celtes*, t. v., c. 3.
 
-<span id="fn_600"></span>[250:c](ogv38.htm#fr_601) Tacit., *De Morib.
+<span id="fn_600"></span>[250:c](ogv38.htm#fr_601.md) Tacit., *De Morib.
 Germ.*, c. 9; Lactant., *Præm.*, p. 5.
 
-<span id="fn_601"></span>[250:d](ogv38.htm#fr_602) August., *De Civit.
+<span id="fn_601"></span>[250:d](ogv38.htm#fr_602.md) August., *De Civit.
 Dei*, l. iv., c. 31; Clem. Alex., l. i., p. 304; *Strom.*
 
-<span id="fn_602"></span>[250:e](ogv38.htm#fr_603) Plutar., In Vitâ
+<span id="fn_602"></span>[250:e](ogv38.htm#fr_603.md) Plutar., In Vitâ
 Numa; *ibid*., *In Mar.*; Pelloutier, *Hist. des Celt*., l. iv., c. i.;
 Lucan., *Phars*., l. iii., v. 412; Clem. Alex., *Cohort. ad Gent.*, p.
 57.
 
-<span id="fn_603"></span>[251:a](ogv38.htm#fr_604) Euseb., *Præp.
+<span id="fn_603"></span>[251:a](ogv38.htm#fr_604.md) Euseb., *Præp.
 Evang.*, l. xiii., c. 12; Henric. Steph., *Poes. philosop.*, p. 78.
 
 ------------------------------------------------------------------------
 
 [Next: 28. If Heaven Wills It, Thou Shalt Know That Nature, Alike in
-Everything, Is the Same in Every Place](ogv39)
+Everything, Is the Same in Every Place](ogv39.md)

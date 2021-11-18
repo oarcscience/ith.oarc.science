@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws47)  [Next](cws49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws47)  [Next](cws49.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 #### CONCERNING THE POET, AS TYPE OF THE HEAVENLY PERSONALITY
 
 \[Extract from Diary, Paris, Christmas Day, 1882. <span
-id="fr_172"></span>[1](#fn_172)
+id="fr_172"></span>[1](#fn_172.md)
 
 "It is strange how I forget! This evening I have re-read several
 passages and chapters written by my own hand, and conceived in my own
@@ -110,7 +110,7 @@ the wrath of the storm thine heart is shaken: and thy prayer goeth up
 with the wind unto God.
 
 Thou art multiplied in the conscience <span
-id="fr_173"></span>[1](#fn_173) of all living creatures; thou art young
+id="fr_173"></span>[1](#fn_173.md) of all living creatures; thou art young
 with the youth of Nature; thou art all-seeing as the starry skies:
 
 Like unto the Gods,--therefore art thou their beloved: yea, if thou
@@ -137,22 +137,22 @@ by intuition, which is the memory of the soul. For the soul takes no
 pains to remember; she knows divinely. Is it not said that the
 immaculate woman brings forth without a pang? The sorrow and travail of
 conception belong to her whose desire is unto "Adam." <span
-id="fr_174"></span>[1](#fn_174)
+id="fr_174"></span>[1](#fn_174.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_172"></span>[108:1](cws48.htm#fr_172) Referred to in *Life
+<span id="fn_172"></span>[108:1](cws48.htm#fr_172.md) Referred to in *Life
 of Anna Kingsford*, vol. ii, pp. 96-97, 100-102.
 
-<span id="fn_173"></span>[110:1](cws48.htm#fr_173) An archaism for
+<span id="fn_173"></span>[110:1](cws48.htm#fr_173.md) An archaism for
 consciousness. In the French there is still but one
 word--*conscience*--for the two things.    E. M.
 
-<span id="fn_174"></span>[111:1](cws48.htm#fr_174) *I.e.* the outer
+<span id="fn_174"></span>[111:1](cws48.htm#fr_174.md) *I.e.* the outer
 sense and lower reason.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. XLV: Concerning Psyche](cws49)
+[Next: No. XLV: Concerning Psyche](cws49.md)

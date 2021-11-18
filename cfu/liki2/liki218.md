@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki217)  [Next](liki219) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki217)  [Next](liki219.md) 
 
 ------------------------------------------------------------------------
 
@@ -1256,6 +1256,6 @@ at ease, she wore her hair without the pin, on each side of her head.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. Sang Tâ Ki or The Greater Record of Mourning Rites](liki219)
+[Next: XIX. Sang Tâ Ki or The Greater Record of Mourning Rites](liki219.md)
 
   

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil04)  [Next](seil06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil04)  [Next](seil06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ tendencies, and, after it is rid, to seek and find the Divine Will as to
 the management of one's life for the salvation of the soul, is called a
 Spiritual Exercise.
 
-**Second Annotation**. <span id="fr_0"></span>[1](seil83.htm#fn_0) The
+**Second Annotation**. <span id="fr_0"></span>[1](seil83.htm#fn_0.md) The
 second is that the person who gives to another the way and order in
 which to meditate or contemplate, ought to relate faithfully the events
 of such Contemplation or Meditation, going over the Points with only a
@@ -79,9 +79,9 @@ in thirty days, a little more or less.
 **Fifth Annotation**. The fifth: It is very helpful to him who is
 receiving the Exercises to enter into them with great courage and
 generosity towards his Creator and Lord, offering <span
-id="fr_1"></span>[2](seil83.htm#fn_1) Him all his will and liberty, that
+id="fr_1"></span>[2](seil83.htm#fn_1.md) Him all his will and liberty, that
 His Divine Majesty may make use of his person and of all he has
-according <span id="fr_2"></span>[3](seil83.htm#fn_2) to His most Holy
+according <span id="fr_2"></span>[3](seil83.htm#fn_2.md) to His most Holy
 Will.
 
 **Sixth Annotation**. The sixth: When he who is giving the Exercises
@@ -279,4 +279,4 @@ graces and gifts from His Divine and Sovereign Goodness.
 
 ------------------------------------------------------------------------
 
-[Next: Presupposition](seil06)
+[Next: Presupposition](seil06.md)

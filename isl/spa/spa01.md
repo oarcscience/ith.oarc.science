@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa00)  [Next](spa02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa00)  [Next](spa02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -23,7 +23,7 @@ DURING my lengthened researches in, and long study of the Pu<u>s’h</u>to
 language, for so many years past, and particularly when making
 selections for my work entitled "<span
 class="smallcaps">Gul<u>sh</u>an-i-Roh</span>," <span
-id="fr_0"></span>[\*](#fn_0) I could not fail being much struck with the
+id="fr_0"></span>[\*](#fn_0.md) I could not fail being much struck with the
 beauty of some of the poetry of the Af<u>gh</u>āns; so much so, indeed,
 that I long since determined, and, at length, now venture to submit to
 the European reader, a literal translation of several poems of the most
@@ -119,9 +119,9 @@ H. G. R.
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:\*](spa01.htm#fr_0) See List at the end of
+<span id="fn_0"></span>[v:\*](spa01.htm#fr_0.md) See List at the end of
 this volume.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](spa02)
+[Next: Contents](spa02.md)

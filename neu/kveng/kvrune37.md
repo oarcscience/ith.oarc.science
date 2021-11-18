@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)   
-[Finnish](../kvfin/37)   
-[Previous](kvrune36)  [Next](kvrune38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index.md)   
+[Finnish](../kvfin/37.md)   
+[Previous](kvrune36)  [Next](kvrune38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Kalevala*, by John Martin Crawford, \[1888\], at Intangible Textual
 Heritage
 
@@ -268,4 +268,4 @@ Silver breathes the breath of sorrow."
 
 ------------------------------------------------------------------------
 
-[Next: Rune XXXVIII. Ilmarinen's Fruitless Wooing.](kvrune38)
+[Next: Rune XXXVIII. Ilmarinen's Fruitless Wooing.](kvrune38.md)

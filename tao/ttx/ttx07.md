@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx06) [Next](ttx08)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx06) [Next](ttx08.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ they received at birth, as one whole, and therefore it is they die.
 
 ------------------------------------------------------------------------
 
-[Next](ttx08)
+[Next](ttx08.md)
 
  
 

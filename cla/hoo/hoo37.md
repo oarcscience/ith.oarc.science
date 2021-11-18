@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo36)  [Next](hoo38) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo36)  [Next](hoo38.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ And find, led on by thee immortal Fame.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIII: To Apollo](hoo38)
+[Next: XXXIII: To Apollo](hoo38.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib19)  [Next](shib21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib19)  [Next](shib21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ were it practiced in this age of intelligence.
 
 <span id="page_54">p. 54</span>
 
-<span id="img_05400"></span> ![FIRST. SECOND. THIRD.](img/05400.jpg)
+<span id="img_05400"></span> ![FIRST. SECOND. THIRD.](img/05400.jpg.md)
 
 1\. Fear God and keep his commandments.
 
@@ -224,7 +224,7 @@ xxvii: 24-37.
 
 <span id="page_58">p. 58</span>
 
-<span id="img_05800"></span> ![FOURTH.](img/05800.jpg)
+<span id="img_05800"></span> ![FOURTH.](img/05800.jpg.md)
 
 <span id="img_starsep"></span> ![](img/starsep.jpg)
 
@@ -358,4 +358,4 @@ Seeking thee above the skies.</span>
 
 ------------------------------------------------------------------------
 
-[Next: Close of Seven Years of Preparation](shib21)
+[Next: Close of Seven Years of Preparation](shib21.md)

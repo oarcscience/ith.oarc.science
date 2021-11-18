@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl37)  [Next](flhl39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl37)  [Next](flhl39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -87,7 +87,7 @@ perform the ceremony. The house is carefully cleared of all books,
 papers, etc., on which the name of God or any words of Scripture are
 written, and even the "Mezuzahs" are removed from the doorposts. The
 patient is instructed that he must carefully abstain from offering up
-any prayer to the Almighty, quoting words of [Scripture](errata.htm#10),
+any prayer to the Almighty, quoting words of [Scripture](errata.htm#10.md),
 or mentioning any of the names, attributes, etc., of the Most High,
 during the nights on which the invocation of the demons is to take
 place. The "wise woman" brings with her a small quantity of wheat,
@@ -118,7 +118,7 @@ salt between us and you." The woman then breaks the eggs into the
 latrines, etc., prostrates herself on the floor in the attitude of
 worship, and after kissing the pavement several times, continues the
 invocation as follows: "Lo this shall be to you the sacrifice of a soul
-in substitution for a soul, <span id="fr_168"></span>[1](#fn_167) in
+in substitution for a soul, <span id="fr_168"></span>[1](#fn_167.md) in
 order that ye may restore to us the soul of this sick person and grant
 his desire." This invocation is several times repeated, and during three
 successive nights. It may be done, should three nights not prove
@@ -206,10 +206,10 @@ charm or amulet, which bears on the subject.
 
 ### Footnotes
 
-<span id="fn_167"></span>[300:1](flhl38.htm#fr_168) As an egg contains
+<span id="fn_167"></span>[300:1](flhl38.htm#fr_168.md) As an egg contains
 the germ of a life, it is supposed to be a fit substitute for a human
 life.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. A Popular Calendar and Some Sayings](flhl39)
+[Next: XIV. A Popular Calendar and Some Sayings](flhl39.md)

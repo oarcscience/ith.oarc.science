@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma12)  [Next](oma14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma12)  [Next](oma14.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,10 +12,10 @@ It happened that a man came and wanted to be a chaianyi. So Oak Man told
 was going to represent. Iatiku said he would represent Tiamuni (her
 husband). Iatiku left it to Tiamuni to say how the altar would be made.
 So Tiamuni instructed Oak Man to make a tsamai'ya <span
-id="fr_99"></span>[100](#fn_99). Tiamuni told Oak Man to gather two ears
+id="fr_99"></span>[100](#fn_99.md). Tiamuni told Oak Man to gather two ears
 of corn, one to represent the male (long), the other the female (small).
 The male was to be named tsamaiya; the female, umahia. <span
-id="fr_100"></span>[1](#fn_100) The materials needed were the same as
+id="fr_100"></span>[1](#fn_100.md) The materials needed were the same as
 for making honani, except that more feathers were necessary. He was to
 get feathers from as many birds of prey as possible. After this was done
 Tiamuni came and instructed Oak Man how to make it up and he blew his
@@ -26,7 +26,7 @@ the honani except
 
 that the "seat" was abalone shell wrapped in cotton. It was then wrapped
 halfway up from the bottom with buckskin ([pl. 13, fig.
-2](oma46.htm#img_pl13b)).
+2](oma46.htm#img_pl13b).md).
 
 When Tiamuni blew in his breath he put in flesh from bashya, "kangaroo
 mouse." This was the first flesh animal given Nautsiti and Iatiku to
@@ -45,7 +45,7 @@ the same as for the honani altar excepting that tracks
 <span id="img_03800"></span>
 
 [![FIGURE 3.--Kapina society altar.](tn/03800.jpg)  
-Click to enlarge](img/03800.jpg)  
+Click to enlarge](img/03800.jpg.md)  
 FIGURE 3.--Kapina society altar.  
 
  
@@ -150,20 +150,20 @@ has nothing to do with curing sickness.)
 
 ### Footnotes
 
-<span id="fn_96"></span>[37:97](oma12.htm#fr_96) Recruiting members for
+<span id="fn_96"></span>[37:97](oma12.htm#fr_96.md) Recruiting members for
 the secret societies is a common practice among the Pueblos. For Acoma,
 see White (1922, pp. 111-112, and 1942); Santo Domingo (White, 1935, pp.
 131-132); San Felipe (White, 1932 a, p. 18); Cochiti (Goldfrank, 1927,
 pp. 52-53); Tewa (Parsons, 1929, pp. 128-129); Zuñi (Kroeber, 1919, p.
 167).
 
-<span id="fn_97"></span>[37:98](oma12.htm#fr_97) Cf. White, 1932, p. 97;
+<span id="fn_97"></span>[37:98](oma12.htm#fr_97.md) Cf. White, 1932, p. 97;
 1935, pp. 30, 52; 1942.
 
-<span id="fn_98"></span>[37:99](oma12.htm#fr_98) Cf. White, 1932 a, p.
+<span id="fn_98"></span>[37:99](oma12.htm#fr_98.md) Cf. White, 1932 a, p.
 17, and Stevenson, 1894, pl. 10, A; White, 1935, pl. 3.
 
-<span id="fn_99"></span>[37:100](oma13.htm#fr_99) Cf. White, 1932, p.
+<span id="fn_99"></span>[37:100](oma13.htm#fr_99.md) Cf. White, 1932, p.
 48; 1942. The fetishes are called Tsamai'ya and Tsamahi'ya. In general,
 these terms refer to (1) spirit warriors (Stevenson, 1894, p. 130), to
 (2) war chiefs in Keresan pueblos (Parsons, 1920 a, p. 66; White, 1925,
@@ -171,9 +171,9 @@ p. 39) or to (3) ceremonial stones placed on altars (Parsons, 1920, pp.
 118-119; Boas, 1928, pt. 1, p. 39; Fewkes, 1902, p. 489; Stephen, 1936,
 p. 745, fig. 332, pl. 17).
 
-<span id="fn_100"></span>[37:1](oma13.htm#fr_100) Yu'mahaia is the
+<span id="fn_100"></span>[37:1](oma13.htm#fr_100.md) Yu'mahaia is the
 warrior of the south in Sia cosmology (Stevenson, 1894, p. 130).
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part V](oma14)
+[Next: Wanderings, Part V](oma14.md)

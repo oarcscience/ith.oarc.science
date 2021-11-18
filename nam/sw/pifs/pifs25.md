@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs24)  [Next](pifs26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs24)  [Next](pifs26.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,12 +101,12 @@ body. And looking at it, the false friend said:
 <span id="page_150">p. 150</span>
 
 "I see nothing but to play the *gallo* race; and because we have no
-horses <span id="fr_81"></span>[1](#fn_80) we will ride this arm of the
+horses <span id="fr_81"></span>[1](#fn_80.md) we will ride this arm of the
 pine-tree--first I will ride, and then you."
 
 So he climbed the pine-tree, and sat astride the limb as upon a horse,
 and rode, reaching over to the ground as if to pick up the
-chicken. <span id="fr_82"></span>[2](#fn_81)
+chicken. <span id="fr_82"></span>[2](#fn_81.md)
 
 "Now you," he said, coming down; and Kahp-too-óo-yoo climbed the tree
 and rode on the swinging branch. But the false friend bewitched the
@@ -209,7 +209,7 @@ astonished, and said:
 
 [![SOUTH, LAST, NORM, AND WEST IN SEARCH OF
 KAHP-TOO-ÓO-YOO.](tn/15300.jpg)  
-Click to enlarge](img/15300.jpg)  
+Click to enlarge](img/15300.jpg.md)  
 SOUTH, LAST, NORM, AND WEST IN SEARCH OF KAHP-TOO-ÓO-YOO.  
 
  
@@ -402,14 +402,14 @@ come out; and no one wept for him.
 
 ### Footnotes
 
-<span id="fn_80"></span>[150:1](pifs25.htm#fr_81) This mention of the
+<span id="fn_80"></span>[150:1](pifs25.htm#fr_81.md) This mention of the
 horse is, of course, modern. I think it is an interpolation. The rest of
 the story bears traces of great antiquity.
 
-<span id="fn_81"></span>[150:2](pifs25.htm#fr_82) In imitation of one of
+<span id="fn_81"></span>[150:2](pifs25.htm#fr_82.md) In imitation of one of
 the most popular and exciting sports of the Southwestern Indians and
 Mexicans.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. The Man Who Wouldn't Keep Sunday](pifs26)
+[Next: XIII. The Man Who Wouldn't Keep Sunday](pifs26.md)

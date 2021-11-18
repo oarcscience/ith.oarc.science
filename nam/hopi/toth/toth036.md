@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth035)  [Next](toth037) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth035)  [Next](toth037.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 33. TWO YÁYAPONCHATU TRADE IN ORAÍBI. <span id="fr_85"></span>[2](#fn_83)
+## 33. TWO YÁYAPONCHATU TRADE IN ORAÍBI. <span id="fr_85"></span>[2](#fn_83.md)
 
 Halíksai! A long time ago the Oraíbi were living in Oraíbi. North of the
 present peach orchards (about three-fourths of a mile north of Oraíbi),
@@ -39,7 +39,7 @@ the Yáyaponchatu heard that the Oraíbi were again trading. They were out
 of native tobacco (píva), so they sent two of their number to the
 village to trade for some tobacco. West of the place where now
 Nakwáyeshtiwa lives was then a kiva called Blue-bird Height
-(Chórzhovi). <span id="fr_86"></span>[1](toth037.htm#fn_84)
+(Chórzhovi). <span id="fr_86"></span>[1](toth037.htm#fn_84.md)
 
 To this kiva the two Yáyaponchatus came first. They laid down on the
 roof of the kiva and let down the bunches of broom grass (wúhci), which
@@ -65,12 +65,12 @@ they smoked the tobacco that they had obtained from the Oraíbi.
 
 ### Footnotes
 
-<span id="fn_82"></span>[123:1](toth035.htm#fr_84) Told by Lomávântiwa
+<span id="fn_82"></span>[123:1](toth035.htm#fr_84.md) Told by Lomávântiwa
 (Shupaúlavi).
 
-<span id="fn_83"></span>[123:2](toth036.htm#fr_85) Told by Tangákhoyoma
+<span id="fn_83"></span>[123:2](toth036.htm#fr_85.md) Told by Tangákhoyoma
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 34. The Kóhonino Hunter](toth037)
+[Next: 34. The Kóhonino Hunter](toth037.md)

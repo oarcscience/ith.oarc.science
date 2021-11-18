@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut13)  [Next](hut15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut13)  [Next](hut15.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XI.
 
-### The Cause of the Lunar Eclipse. <span id="fr_41"></span>[1](#fn_41)
+### The Cause of the Lunar Eclipse. <span id="fr_41"></span>[1](#fn_41.md)
 
 <span id="page_196">p. 196</span>
 
@@ -35,10 +35,10 @@ given them, then they eat him.
 
 ### Footnotes
 
-<span id="fn_41"></span>[195:1](hut14.htm#fr_41) Told at Hupa, October
+<span id="fn_41"></span>[195:1](hut14.htm#fr_41.md) Told at Hupa, October
 1902, by McCann, who has lived for many years on the left bank of the
 Trinity river, near the cañon.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Origin of Fire](hut15)
+[Next: XII. Origin of Fire](hut15.md)

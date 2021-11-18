@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nbr01)  [Next](nbr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nbr01)  [Next](nbr03.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ period of forty-two months. But it is not only the priestly associations
 which are preserved here, but the witnessing or prophetic character.
 That is, efficacy was given to their testimony, "given to the prayers of
 the saints," or given to "my two witnesses," which signifies efficacy to
-the subject of the gift <span id="fr_41"></span>[1](#fn_41)
+the subject of the gift <span id="fr_41"></span>[1](#fn_41.md)
 
 <span id="page_46">p. 46</span>
 
@@ -35,7 +35,7 @@ and desecrated, has, I doubt not, been always in such cases afforded. It
 was not the time for open appearance in judgment, but always to
 interfere in watchful vindication of their testimony when needed. If
 they took the sword in such cases, it was an effort to alter the perfect
-order <span id="fr_42"></span>[1](#fn_42) of God's providence which
+order <span id="fr_42"></span>[1](#fn_42.md) of God's providence which
 always preserves His principles--they would perish by the sword.
 
 What follows seems analogous to the circumstances of Moses and Elias,
@@ -96,8 +96,8 @@ scripture in those who seem most accurate themselves. The mystery of
 iniquity working, the apostasy, and the wicked one, may all be looked at
 as distinct things, though intimately connected; nor is ἄνομος identical
 with Antichrist, though it may be very likely <span
-id="fr_43"></span>[1](#fn_43) they may be the same person. <span
-id="fr_44"></span>[2](#fn_44)
+id="fr_43"></span>[1](#fn_43.md) they may be the same person. <span
+id="fr_44"></span>[2](#fn_44.md)
 
 With regard to the denial of symbols, and the assertion that it is so
 literal a book, it seems to me untenable. Thus, when the third part of
@@ -107,7 +107,7 @@ investigation into detail will shew that much of what has been recently
 said on the subject will not bear examination.
 
 There is another point which the advocates of literalism <span
-id="fr_45"></span>[3](#fn_45) and crisis often insist on, which deserves
+id="fr_45"></span>[3](#fn_45.md) and crisis often insist on, which deserves
 notice (though I am unwilling to detain myself for questions)--days
 being
 
@@ -119,7 +119,7 @@ such an idea both in the passage in Numbers and in that in Ezekiel.
 The seventy weeks, however, stand strongly in the way; and the ingenuity
 of criticism has been called into service to say that it is simply
 seventy sevens, not seventy weeks, and may thus literally be years. Now,
-if the conventional reading <span id="fr_46"></span>[1](#fn_46) be
+if the conventional reading <span id="fr_46"></span>[1](#fn_46.md) be
 taken, it is simply weeks; if not, it cannot mean sevens at all, but
 seventy seventies. I think this criticism, therefore, cannot be
 maintained. It is either seventy weeks or seventy times seventy, not
@@ -127,7 +127,7 @@ seventy sevens.
 
 But, as regards the numbers here, there is another important question:
 it is alleged that, looked at as in crisis and literally, this is not
-the last half week at all. <span id="fr_47"></span>[2](#fn_47) In the
+the last half week at all. <span id="fr_47"></span>[2](#fn_47.md) In the
 last half week at Jerusalem, it is said they are not times of testimony,
 but of vengeance--not of testimony of any one, Christian or Jew. The
 disciples, who had been giving testimony, and called to possess their
@@ -202,7 +202,7 @@ on themselves
 <span id="page_52">p. 52</span>
 
 that did this--the earthquake and slaying of men, names of men, their
-pride and title put down. <span id="fr_48"></span>[1](#fn_48)
+pride and title put down. <span id="fr_48"></span>[1](#fn_48.md)
 
 All this took place before the sounding of the last trumpet; but when it
 closed, the sixth woe was passed.
@@ -212,7 +212,7 @@ crisis, there is nothing in the revival of the witnesses, which renders
 it strictly literal; on the contrary, the terms are, for the most part,
 symbolical. A spirit of life from God, though it may be applied, is not
 so strictly characteristic of mere quickening. <span
-id="fr_49"></span>[2](#fn_49) It was distinct, however, from a mere
+id="fr_49"></span>[2](#fn_49.md) It was distinct, however, from a mere
 renewal of prophecy in sackcloth. The testimony now was by their
 exaltation publicly, not by their faithfulness in trial.
 
@@ -233,13 +233,13 @@ of the beast out of the bottomless pit; for till the war (ver. 7) his
 existence is not in question. When he makes war on them, he overcomes
 and kills them; but they have power in testimony till then--till their
 testimony is fulfilled. Their testimony, <span
-id="fr_50"></span>[1](#fn_50) then, was not properly under the
+id="fr_50"></span>[1](#fn_50.md) then, was not properly under the
 oppression of his power; at least that is not the way God distinguishes
 it. It is carried on in sorrow while the external sacred things are
 defiled, but the priestly remnant, and what pertained to them,
 preserved; and this for the forty-two months. And in these circumstances
 they fulfil their testimony: then the beast out of the bottomless pit
-makes war upon them and kills them. <span id="fr_51"></span>[2](#fn_51)
+makes war upon them and kills them. <span id="fr_51"></span>[2](#fn_51.md)
 When the question as to power comes on, and Antichrist rises up in his
 full form against the Lamb, he is finally cast down, and put, with the
 false prophet, in the lake of fire, and his followers killed. It is
@@ -273,7 +273,7 @@ completeness or principles: but it was the actual anticipation of the
 facts as now coming in,--as having the mind of Christ.
 
 It would seem that the last woe had a wider aspect <span
-id="fr_52"></span>[1](nbr03.htm#fn_52) than the others--much, though
+id="fr_52"></span>[1](nbr03.htm#fn_52.md) than the others--much, though
 containing the scene and object of them. In verse 12 of the succeeding
 chapter, after Satan is cast down, woe indeed is pronounced on the
 inhabiters of the earth, who were the former objects of the woes; and
@@ -287,7 +287,7 @@ woe there had been reserved; here, all are concerned in it under heaven.
 
 ### Footnotes
 
-<span id="fn_41"></span>[45:1](nbr02.htm#fr_41) Power was given them
+<span id="fn_41"></span>[45:1](nbr02.htm#fr_41.md) Power was given them
 that they should prophesy in sack-cloth for the period of the treading
 down of the outside holy place while the inner was preserved. It is
 given in days here, I apprehend, to shew the continuity and constancy of
@@ -304,16 +304,16 @@ earth--a witness to the truth, but not the accomplishment of it: not its
 order, beauty, and regularity, but a testimony to God's title to have it
 so. Such were these witnesses.
 
-<span id="fn_42"></span>[46:1](nbr02.htm#fr_42) It would be, in fact
+<span id="fn_42"></span>[46:1](nbr02.htm#fr_42.md) It would be, in fact
 too, acting on the principles God was judging.
 
-<span id="fn_43"></span>[48:1](nbr02.htm#fr_43) As I suppose they are.
+<span id="fn_43"></span>[48:1](nbr02.htm#fr_43.md) As I suppose they are.
 
-<span id="fn_44"></span>[48:2](nbr02.htm#fr_44) \[I have left out a
+<span id="fn_44"></span>[48:2](nbr02.htm#fr_44.md) \[I have left out a
 passage here, referring to a work, containing the year-day views, which
 I cannot with any certainty point out.\]
 
-<span id="fn_45"></span>[48:3](nbr02.htm#fr_45) The application of Old
+<span id="fn_45"></span>[48:3](nbr02.htm#fr_45.md) The application of Old
 Testament allusions or prophecies in the sense in which they are used
 there, seems to me to be equally <span id="page_49">p. 49</span>
 untenable; they are borrowed thence to be applied to heavenly subjects,
@@ -324,16 +324,16 @@ apostle uses prophetic language to carry it up into further scenes, we
 are arrested where the former prophecy left us: simply, I conceive,
 darkening, instead of enlightening.
 
-<span id="fn_46"></span>[49:1](nbr02.htm#fr_46) *i.e.*, by points.
+<span id="fn_46"></span>[49:1](nbr02.htm#fr_46.md) *i.e.*, by points.
 
-<span id="fn_47"></span>[49:2](nbr02.htm#fr_47) \[I have changed this
+<span id="fn_47"></span>[49:2](nbr02.htm#fr_47.md) \[I have changed this
 paragraph, as I, at the time of writing these notes, followed the usual
 division in chapter xi. into two half weeks, applying it as an answer to
 the writers just alluded to. As I do not now accept this division, I
 have of course changed the paragraph into short observations on the
 question; but I hare given what is alleged for it.\]
 
-<span id="fn_48"></span>[52:1](nbr02.htm#fr_48) Babel's word was, "Let
+<span id="fn_48"></span>[52:1](nbr02.htm#fr_48.md) Babel's word was, "Let
 us make ourselves a name." God only is entitled to a name, or to give
 it. Adam had title as regards the beasts, as set over them by God; "and
 he brought them unto Adam." The enemy may give a name, in derision, to
@@ -341,17 +341,17 @@ saints, over-ruled of God; but they are gathered only to the name of the
 Son of God, the Lord Jesus Christ, and should bear His name, and, in
 Him, the Father's only.
 
-<span id="fn_49"></span>[52:2](nbr02.htm#fr_49) Observe, it is neither
+<span id="fn_49"></span>[52:2](nbr02.htm#fr_49.md) Observe, it is neither
 resurrection nor changing them who are alive, but a special act. Man had
 killed them; but God quickened and called them up.
 
-<span id="fn_50"></span>[53:1](nbr02.htm#fr_50) \[I say their testimony,
+<span id="fn_50"></span>[53:1](nbr02.htm#fr_50.md) \[I say their testimony,
 because as to his general character the beast will persecute the
 saints.\]
 
-<span id="fn_51"></span>[53:2](nbr02.htm#fr_51) To the joy of the
+<span id="fn_51"></span>[53:2](nbr02.htm#fr_51.md) To the joy of the
 dwellers upon earth; and thus, doubtless, he is their great friend.
 
 ------------------------------------------------------------------------
 
-[Next: Part Three](nbr03)
+[Next: Part Three](nbr03.md)

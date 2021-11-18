@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb05)  [Next](gyfb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb05)  [Next](gyfb07.md) 
 
 </div>
 
@@ -792,6 +792,6 @@ quarrel.
 
 ------------------------------------------------------------------------
 
-[Next: Janni and the Draken](gyfb07)
+[Next: Janni and the Draken](gyfb07.md)
 
 </div>

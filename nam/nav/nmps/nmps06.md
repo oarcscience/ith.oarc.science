@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](nmps05)  [Next](nmps07) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](nmps05)  [Next](nmps07.md) 
 
 ------------------------------------------------------------------------
 
@@ -236,4 +236,4 @@ said four times instead of twice.)
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Bekotsidi.](nmps07)
+[Next: The Story of Bekotsidi.](nmps07.md)

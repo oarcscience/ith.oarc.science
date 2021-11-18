@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt86)  [Next](egt88) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt86)  [Next](egt88.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ comes forth lovely and joyous from out her gauzy veil.
 
 ------------------------------------------------------------------------
 
-[Next: OF THE GUIDANCE OF THE QUR'ÂN.](egt88)
+[Next: OF THE GUIDANCE OF THE QUR'ÂN.](egt88.md)

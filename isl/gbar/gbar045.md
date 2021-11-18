@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar044) [Next](gbar046)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar044) [Next](gbar046.md)
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ doctors, if ye be such for God will take away from you the priesthood!'
 
 ------------------------------------------------------------------------
 
-[Next](gbar046)
+[Next](gbar046.md)

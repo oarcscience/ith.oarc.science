@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil43)  [Next](egil45) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil43)  [Next](egil45.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ down to sleep.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XLIV. The slaying of Bard.](egil45)
+[Next: CHAPTER XLIV. The slaying of Bard.](egil45.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb12)  [Next](olfb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb12)  [Next](olfb14.md) 
 
 </div>
 
@@ -422,6 +422,6 @@ wedding song.
 
 ------------------------------------------------------------------------
 
-[Next: Diamond Cut Diamond](olfb14)
+[Next: Diamond Cut Diamond](olfb14.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Next](lgh01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Next](lgh01.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,13 +31,13 @@
 <span id="img_front"></span>
 
 [![NIOBE](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 NIOBE  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 NOTICE OF ATTRIBUTION  
@@ -69,4 +69,4 @@ AUTHOR.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](lgh01)
+[Next: Preface](lgh01.md)

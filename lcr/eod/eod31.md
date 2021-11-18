@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod30)  [Next](eod32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod30)  [Next](eod32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ Textual Heritage
 In delving into the remotely distant history of our species we cannot
 fail to be impressed with the persistence with which, throughout the
 whole of his career, man (of the species *sapiens*) has been
-seeking <span id="fr_248"></span>[4](#fn_248) for an elixir of life, to
+seeking <span id="fr_248"></span>[4](#fn_248.md) for an elixir of life, to
 give added "vitality" to the dead (whose existence was not consciously
 regarded as ended), to prolong the days of active life to the living, to
 restore youth, and to protect his own life from all assaults, not merely
@@ -40,7 +40,7 @@ striving after those objects which our earliest forefathers called
 collectively the "givers of life".
 
 From statements in the earliest literature <span
-id="fr_249"></span>[5](#fn_249) that has come down to us from antiquity,
+id="fr_249"></span>[5](#fn_249.md) that has come down to us from antiquity,
 no less than from the views that still prevail among
 
 <span id="page_146">p. 146</span>
@@ -101,7 +101,7 @@ acceptance as an article of faith.
 
 Let us consider for a moment what were considered to be elements of
 vitality by the earliest members of our species. <span
-id="fr_250"></span>[1](#fn_250)
+id="fr_250"></span>[1](#fn_250.md)
 
 From the remotest times man seems to have been aware of the fact that he
 could kill animals or his fellow men by means of certain physical
@@ -109,7 +109,7 @@ injuries. He associated these results with the effusion of blood. The
 loss of blood could cause unconsciousness and death. Blood, therefore,
 must be the vehicle of consciousness and life, the material whose escape
 from the body could bring life to an end. <span
-id="fr_251"></span>[2](#fn_251)
+id="fr_251"></span>[2](#fn_251.md)
 
 The first pictures painted by man, with which we are at present
 acquainted, are found upon the walls and roofs of certain caves in
@@ -118,7 +118,7 @@ representatives of our own species, *Homo sapiens*, in the phase of
 culture now distinguished by the name "Aurignacian".
 
 The animals man was in the habit of hunting for food are depicted. <span
-id="fr_252"></span>[3](#fn_252) In some of them arrows are shown
+id="fr_252"></span>[3](#fn_252.md) In some of them arrows are shown
 implanted in the animal's flank near the region of the heart; and in
 others the heart itself is represented.
 
@@ -156,7 +156,7 @@ ideas of physiology current in Aurignacian times, but also certain
 cultural applications of them had been inaugurated even then. The
 remarkable method of blood-letting by chopping off part of a finger
 seems to have been practised even in Aurignacian times. <span
-id="fr_253"></span>[1](#fn_253)
+id="fr_253"></span>[1](#fn_253.md)
 
 If it is legitimate to attempt to guess at the meaning these early
 people attached to so singular a procedure, we may be guided by the
@@ -169,7 +169,7 @@ cetera, was the offering of the life-giving fluid.
 Once it was recognized that the state of unconsciousness or death. was
 due to the loss of blood it was a not illogical or irrational procedure
 to imagine that offerings of blood might restore consciousness and life
-to the dead. <span id="fr_254"></span>[2](#fn_254) If the blood was
+to the dead. <span id="fr_254"></span>[2](#fn_254.md) If the blood was
 seriously believed to be the vehicle of feeling and knowledge, the
 exchange of blood or the offering of blood to the community was a
 reasonable method for initiating anyone into the wider knowledge of and
@@ -177,7 +177,7 @@ sympathy with his fellow-men.
 
 Blood-letting, therefore, played a part in a great variety of
 ceremonies, of burial and of initiation, and also those of a
-therapeutic <span id="fr_255"></span>[3](#fn_255) and, later, of a
+therapeutic <span id="fr_255"></span>[3](#fn_255.md) and, later, of a
 religious significance.
 
 <span id="page_149">p. 149</span>
@@ -232,7 +232,7 @@ represent
 <span id="page_150">p. 150</span>
 
 the blood of the goddess and was applied to the mummy "to stimulate the
-functions of his blood"; <span id="fr_256"></span>[1](eod32.htm#fn_256)
+functions of his blood"; <span id="fr_256"></span>[1](eod32.htm#fn_256.md)
 or perhaps it would be more accurate to say that it was intended to add
 to the vital substance, which was so obviously lacking in the corpse.
 
@@ -240,36 +240,36 @@ to the vital substance, which was so obviously lacking in the corpse.
 
 ### Footnotes
 
-<span id="fn_248"></span>[145:4](eod31.htm#fr_248) In response to the
+<span id="fn_248"></span>[145:4](eod31.htm#fr_248.md) In response to the
 prompting of the most fundamental of all instincts, that of the
 preservation of life.
 
-<span id="fn_249"></span>[145:5](eod31.htm#fr_249) See Alan Gardiner,
+<span id="fn_249"></span>[145:5](eod31.htm#fr_249.md) See Alan Gardiner,
 *Journal of Egyptian Archæology*, Vol. IV, Parts II-III, April-July,
 1917, p. 205. Compare also the Babylonian story of Gilgamesh.
 
-<span id="fn_250"></span>[147:1](eod31.htm#fr_250) Some of these have
+<span id="fn_250"></span>[147:1](eod31.htm#fr_250.md) Some of these have
 been discussed in Chapter I ("Incense and Libations") and will not be
 further considered here.
 
-<span id="fn_251"></span>[147:2](eod31.htm#fr_251) "The life which is
+<span id="fn_251"></span>[147:2](eod31.htm#fr_251.md) "The life which is
 the blood thereof" (Gen. ix. 4).
 
-<span id="fn_252"></span>[147:3](eod31.htm#fr_252) See, for example,
+<span id="fn_252"></span>[147:3](eod31.htm#fr_252.md) See, for example,
 Sollas, "Ancient Hunters," 2nd Edition, 1915, pp. 326 (fig. 163), 333
 (fig. 171), and 36 (fig. 189).
 
-<span id="fn_253"></span>[148:1](eod31.htm#fr_253) Sollas, *op. cit.*,
+<span id="fn_253"></span>[148:1](eod31.htm#fr_253.md) Sollas, *op. cit.*,
 pp. 347 *et seq*.
 
-<span id="fn_254"></span>[148:2](eod31.htm#fr_254) The "redeeming
+<span id="fn_254"></span>[148:2](eod31.htm#fr_254.md) The "redeeming
 blood," Φαρμακον ἀθανασίας.
 
-<span id="fn_255"></span>[148:3](eod31.htm#fr_255) The practice of
+<span id="fn_255"></span>[148:3](eod31.htm#fr_255.md) The practice of
 blood-letting for therapeutic purposes was probably first suggested by a
 confused rationalization. The act of blood-letting was a means of
 healing; and the victim himself supplied the vitalizing fluid!
 
 ------------------------------------------------------------------------
 
-[Next: The Cowry as a Giver of Life](eod32)
+[Next: The Cowry as a Giver of Life](eod32.md)

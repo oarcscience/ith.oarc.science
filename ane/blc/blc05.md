@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc04)  [Next](blc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc04)  [Next](blc06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ been made.
 
 <span id="img_003"></span> <span align="CENTER"> [![The Bilingual
 Version of the Creation Legend. \[No. 93,014.\]](tn/003.png)  
-Click to enlarge](img/003.png)  
+Click to enlarge](img/003.png.md)  
 The Bilingual Version of the Creation Legend. \[No. 93,014.\]  
 </span>
 
@@ -37,7 +37,7 @@ Nippur) had not been made, E-kur <span id="img_c002"></span>
 made, E-Aena <span id="img_c004"></span> ![](img/c004.png) had not been
 built,
 
-8\. The Deep <span id="fr_3"></span>[4](blc17.htm#fn_3) (or Abyss) had
+8\. The Deep <span id="fr_3"></span>[4](blc17.htm#fn_3) (or Abyss.md) had
 not been made, Eridu <span id="img_c005"></span> ![](img/c005.png) had
 not been built.
 
@@ -51,7 +51,7 @@ not been made.
 12\. "At that time Eridu was made, and E-sagil was built,
 
 13\. "The E-sagil where in the midst of the Deep the god
-Lugal-dul-azaga <span id="fr_4"></span>[5](blc17.htm#fn_4) dwelleth,
+Lugal-dul-azaga <span id="fr_4"></span>[5](blc17.htm#fn_4.md) dwelleth,
 
 14\. "Babylon was made, E-sagil was completed.
 
@@ -82,7 +82,7 @@ in the field.
 <span id="img_004"></span> <span align="CENTER"> [![Terra-cotta figure
 of a god. From a foundation deposit at Babylon. \[No.
 90,9961\]](tn/004.png)  
-Click to enlarge](img/004.png)  
+Click to enlarge](img/004.png.md)  
 Terra-cotta figure of a god. From a foundation deposit at Babylon. \[No.
 90,9961\]  
 </span>
@@ -127,11 +127,11 @@ possibly the great temple of Nabu at Borsippa.\]
 
 <span id="img_005"></span> <span align="CENTER"> [![Bronze figure of a
 Babylonian god. \[No. 91,147\]](tn/005.png)  
-Click to enlarge](img/005.png)  
+Click to enlarge](img/005.png.md)  
 Bronze figure of a Babylonian god. \[No. 91,147\]  
 </span>
 
 ------------------------------------------------------------------------
 
 [Next: The Legend of the Creation According to Berosus and
-Damascius](blc06)
+Damascius](blc06.md)

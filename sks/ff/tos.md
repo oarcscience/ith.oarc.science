@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../tos/tos) 
-[Previous](ayl)  [Next](aww) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../tos/tos.md) 
+[Previous](ayl)  [Next](aww.md) 
 
 ------------------------------------------------------------------------
 
@@ -3603,4 +3603,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: All's Well, that Ends Well](aww) 
+[Next: All's Well, that Ends Well](aww.md) 

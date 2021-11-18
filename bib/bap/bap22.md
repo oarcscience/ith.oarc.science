@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap21) 
-[Next](bap23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap21.md) 
+[Next](bap23.md) 
 
 ------------------------------------------------------------------------
 
 ### CHAPTER VI.
 
-VI. <span id="fr_30"></span>[2](#fn_30) Then all they that had been
+VI. <span id="fr_30"></span>[2](#fn_30.md) Then all they that had been
 divided and
 
 <span id="page_90">p. 90</span>
@@ -32,7 +32,7 @@ them with fire: and that which is thoroughly burned shall be for mortar
 and brick. (*Perhaps*, that which is not thoroughly burned shall be for
 mortar, and that which is, for brick.)
 
-3\.  <span id="fr_31"></span>[1](#fn_31) And they took every man their
+3\.  <span id="fr_31"></span>[1](#fn_31.md) And they took every man their
 bricks, saving 12 men, which would not take them, and these are their
 names: Abraham, Nachor, Loth, Ruge, Tenute, Zaba, Armodath, Iobab, Esar,
 Abimahel, Saba, Auphin. 4. And the people of the land laid hands on them
@@ -77,7 +77,7 @@ deliver you and save you. And now lo, I have commanded So men to take
 
 <span id="page_92">p. 92</span>
 
-into the hill country <span id="fr_32"></span>[1](#fn_32) and wait for
+into the hill country <span id="fr_32"></span>[1](#fn_32.md) and wait for
 you in the valley: and I will give you other 50 men which shall guide
 you thither: go ye therefore and hide yourselves there in the valley,
 having water to drink that floweth down from the rocks: hold yourselves
@@ -167,20 +167,20 @@ which is being interpreted, God.
 
 ### Footnotes
 
-<span id="fn_30"></span>[89:2](bap22.htm#fr_30) VI. This particular
+<span id="fn_30"></span>[89:2](bap22.htm#fr_30.md) VI. This particular
 legend of the rescue of Abram from the fire is peculiar to *Philo*. Most
 of the stories make Nimrod the principal actor. Various forms may be
 seen in <span id="page_90">p. 90</span> Beer's *Leben Abrahams* or
 Baring-Gould's *Legends of O. T. Characters*.
 
-<span id="fn_31"></span>[90:1](bap22.htm#fr_31) 3. Several of the names
+<span id="fn_31"></span>[90:1](bap22.htm#fr_31.md) 3. Several of the names
 here are those of the sons of Jectan in IV. 10. Auphin is probably for
 Ophir.
 
-<span id="fn_32"></span>[92:1](bap22.htm#fr_32) 9. *and go before you*,
+<span id="fn_32"></span>[92:1](bap22.htm#fr_32.md) 9. *and go before you*,
 etc., et praecedite uos in montana et sustinete uos in ualle. Some such
 change as I have made in the translation appears necessary.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](bap23)
+[Next: Chapter VII](bap23.md)

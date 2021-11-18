@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah18)  [Next](mah20) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah18)  [Next](mah20.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ SPIRIT! HE WILL ENTER!
 ------------------------------------------------------------------------
 
 [Next: Chapter XVII: Physical Environment The Result Of Spiritual
-Causes](mah20)
+Causes](mah20.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia29)  [Next](aia31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia29)  [Next](aia31.md) 
 
 ------------------------------------------------------------------------
 
@@ -257,7 +257,7 @@ ascendant, let the day be observed in the Ephemeris when the separates
 from one and applies to the other, (by good aspect if possible), and on
 that day endeavour a reconcilement: and it is not to be doubted that he
 may obtain his desire, .as I have found many times by good
-experience. <span id="fr_86"></span>[1](#fn_86)
+experience. <span id="fr_86"></span>[1](#fn_86.md)
 
 If the lord of the 5th dispose of the ⊕, and be in the ascendant or 2d,
 the querent shall gain his desires. ♃ or
@@ -323,7 +323,7 @@ best aspect to the lords of the ascendant or 2d; and according to the
 quarter of heaven the sign that planet is in signifies, I advise the
 querent to remove. I do not remember that any ever repented the
 following my advice, though many have afterwards returned me both thanks
-and rewards. <span id="fr_87"></span>[1](#fn_87)
+and rewards. <span id="fr_87"></span>[1](#fn_87.md)
 
 If ☽ separate from a fortunate planet, stay; if she separate from an
 infortune, remove. An infortune in the ascendant, or a fortune in the
@@ -364,7 +364,7 @@ of heaven following.
 <span id="img_fig09"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 9.](tn/fig09.jpg)  
-Click to enlarge](img/fig09.jpg)  
+Click to enlarge](img/fig09.jpg.md)  
 *Fig*. 9.  
 
 *Resolution of the above Question*.
@@ -447,15 +447,15 @@ measure upon my labours.
 
 ### Footnotes
 
-<span id="fn_86"></span>[140:1](aia30.htm#fr_86) This method of electing
+<span id="fn_86"></span>[140:1](aia30.htm#fr_86.md) This method of electing
 times for application to individuals for any favour, or to gain any
 point, may be safely practised after any other horary question, as well
 as this particular one.--ZAD.
 
-<span id="fn_87"></span>[142:1](aia30.htm#fr_87) Let the querent also
+<span id="fn_87"></span>[142:1](aia30.htm#fr_87.md) Let the querent also
 attend to the places ruled by the sign in which the planet is; as London
 for ♊, Dublin for ♉, &c.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII. Of the Fifth House and its Questions](aia31)
+[Next: Chapter XXVIII. Of the Fifth House and its Questions](aia31.md)

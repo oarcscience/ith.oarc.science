@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic087)  [Next](lfic089) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic087)  [Next](lfic089.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ Dawson-street.
 
 ------------------------------------------------------------------------
 
-[Next: The Progress of the Wicked Bard](lfic089)
+[Next: The Progress of the Wicked Bard](lfic089.md)

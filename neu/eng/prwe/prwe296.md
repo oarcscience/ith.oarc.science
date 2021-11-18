@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe295)  [Next](prwe297) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe295)  [Next](prwe297.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ entrance of witches.
 
 ------------------------------------------------------------------------
 
-[Next: The Black Cat's Tail](prwe297)
+[Next: The Black Cat's Tail](prwe297.md)

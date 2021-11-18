@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth030)  [Next](toth032) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth030)  [Next](toth032.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 28. A JOURNEY TO THE SKELETON HOUSE. <span id="fr_76"></span>[1](#fn_74)
+## 28. A JOURNEY TO THE SKELETON HOUSE. <span id="fr_76"></span>[1](#fn_74.md)
 
 In Oraíbi the people were living, and over there at Hónletsnöma's house
 there lived a youth. He was always sitting at the edge of the mesa early
@@ -157,7 +157,7 @@ he again came upon them who were
 being punished there, those who because they had stolen. They were going
 to the Skeleton House, but were still punished there, but they were
 concerned that their thieving should come to an end, <span
-id="fr_77"></span>[1](#fn_75) and then sometime they might arrive at
+id="fr_77"></span>[1](#fn_75.md) and then sometime they might arrive at
 them in the Skeleton House. Now when he came upon them the one that was
 sitting there said to him: "So you have come back again!" "Yes," the
 young man replied, and at once proceeded, running very fast. Now he came
@@ -223,14 +223,14 @@ they continued to live there.
 
 ### Footnotes
 
-<span id="fn_74"></span>[109:1](toth031.htm#fr_76) Told by Qöyáwaima
+<span id="fn_74"></span>[109:1](toth031.htm#fr_76.md) Told by Qöyáwaima
 (Oraíbi).
 
-<span id="fn_75"></span>[113:1](toth031.htm#fr_77) The meaning is
+<span id="fn_75"></span>[113:1](toth031.htm#fr_77.md) The meaning is
 somewhat obscure, but the narrator explained that those souls wished
 that their thefts and the attending punishment might terminate so that
 they could go on to the other world.
 
 ------------------------------------------------------------------------
 
-[Next: 29. A Journey to the Skeleton House](toth032)
+[Next: 29. A Journey to the Skeleton House](toth032.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce25)  [Next](sce27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce25)  [Next](sce27.md) 
 
 ------------------------------------------------------------------------
 
@@ -285,4 +285,4 @@ Thus far my Lord Tarbett.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusions](sce27)
+[Next: Conclusions](sce27.md)

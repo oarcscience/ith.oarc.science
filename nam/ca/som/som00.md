@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ friends and children. He was told to go up into the San Bernardino
 Mountains, into a small valley there, and lie down in a certain spot to
 await his end. He died peacefully and calmly, as one who went to sleep.
 He was beloved of the Gods above and Siwash, the God of Earth, so that
-no pain came to [him](errata.htm#0) to make his death distressful.
+no pain came to [him](errata.htm#0.md) to make his death distressful.
 
 "As soon as he was dead the ants came and ate all the flesh from his
 bones. But the spirit messengers of Those Above looked after him and

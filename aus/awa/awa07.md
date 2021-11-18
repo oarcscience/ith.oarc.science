@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa06)  [Next](awa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa06)  [Next](awa08.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ to somewhat mitigate the rigour of the law!
 
 ------------------------------------------------------------------------
 
-[Next: Law](awa08)
+[Next: Law](awa08.md)

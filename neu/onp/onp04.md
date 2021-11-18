@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp03) [Next](onp05)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp03) [Next](onp05.md)
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Icelandic *Víkarsbálk,* is to be inferred from Saxo’s prose narrative.
 That there were current lays about Starkath, not only in Scandinavia,
 but also in Anglo-Saxon England, brought thither from the old home, and
 that they were in favor, is amply evident from that reproachful passage
-in one of Alcuin’s letters:<span id="fr_1"></span>[1](#note_1) “Quid
+in one of Alcuin’s letters:<span id="fr_1"></span>[1](#note_1.md) “Quid
 enim Hinieldus cum Christo? Angusta est domus; utrosque tenere non
 poterit”—What hath Ingiald to do with Christ? Small is the house, it
 will not hold both—even if we did not have the well-known Ingeld episode
@@ -29,7 +29,7 @@ reaction to it are typical of the Germanic North in pre-Christian times.
 
  According to the oldest, and no doubt most original, account as found
 in *Bēowulf,* the matter is as follows: In a great battle with the
-Heathobards,<span id="fr_2"></span>[2](#note_2) their king, Frōda, was
+Heathobards,<span id="fr_2"></span>[2](#note_2.md) their king, Frōda, was
 slain. In order to effect a reconciliation between the two hostile
 nations, the Danish king, Hrōthgār, gave his daughter, Frēawaru, in
 marriage to Ingeld, the son of Frōda; but at the marriage feast—it
@@ -51,7 +51,7 @@ brothers-in-law (here called the sons of Sverting), and arouses him by
 bitter denunciation of his supineness to slay them and put away their
 sister, his wife. To the rôle of the formidable hereditary enemies of
 the land have succeeded the Germans<span
-id="fr_3"></span>[3](#note_3)—as well they might under the powerful and
+id="fr_3"></span>[3](#note_3.md)—as well they might under the powerful and
 aggressive (Saxon) Ottones, who finally compelled the Danes to accept
 their overlordship and Christianity. The lay has gained, furthermore, by
 the fierce denunciation of the new and hated Southron ways and by
@@ -70,7 +70,7 @@ that the lay was composed during the tenth century.
 
  As for its contents, we are altogether dependent on Saxo’s prolix and
 highly rhetorical Latin version—in Sapphic stanzas and hexameters.<span
-id="fr_4"></span>[4](#note_4) From these, Olrik by judicious reduction
+id="fr_4"></span>[4](#note_4.md) From these, Olrik by judicious reduction
 brought out the lay approximately as it may have come to the knowledge
 of Saxo. The version here offered leans on Olrik’s, but is shorter by
 nine stanzas through the elimination of some fulsome details improbable
@@ -317,7 +317,7 @@ over the lands of the Danes and Leire’s high-seat.”<br />
 
 ------------------------------------------------------------------------
 
-[Next](onp05)
+[Next](onp05.md)
 
 ------------------------------------------------------------------------
 
@@ -325,51 +325,51 @@ over the lands of the Danes and Leire’s high-seat.”<br />
 
 <span id="footnotes_page_12">p. 12</span>
 
-<span id="note_1"></span>[1](#fr_1) A.D. 797.
+<span id="note_1"></span>[1](#fr_1.md) A.D. 797.
 
-<span id="note_2"></span>[2](#fr_2) This warlike tribe was located south
+<span id="note_2"></span>[2](#fr_2.md) This warlike tribe was located south
 of Denmark, north of the lower Elbe.
 
 <span id="footnotes_page_13">p. 13</span>
 
-<span id="note_3"></span>[3](#fr_3) Or “Saxons” as they are called, from
+<span id="note_3"></span>[3](#fr_3.md) Or “Saxons” as they are called, from
 the nearest German tribe.
 
-<span id="note_4"></span>[4](#fr_4) The metre of the original is assumed
+<span id="note_4"></span>[4](#fr_4.md) The metre of the original is assumed
 to have been *málaháttr*.
 
 <span id="footnotes_page_14">p. 14</span>
 
-<span id="note_5"></span>[5](#fr_5) The raised seat of honor in the
+<span id="note_5"></span>[5](#fr_5.md) The raised seat of honor in the
 middle of the hall. The seats for servants and hangers-on were at the
 gable-end, near the door.
 
-<span id="note_6"></span>[6](#fr_6) Cf. *Biarkamól,* [note
-25](onp03.htm#note_25).
+<span id="note_6"></span>[6](#fr_6.md) Cf. *Biarkamól,* [note
+25](onp03.htm#note_25.md).
 
 <span id="footnotes_page_15">p. 15</span>
 
-<span id="note_7"></span>[7](#fr_7) With whom Starkath had dwelt during
+<span id="note_7"></span>[7](#fr_7.md) With whom Starkath had dwelt during
 his absence.
 
-<span id="note_8"></span>[8](#fr_8) Cf. the *Second Lay of Helgi,*
+<span id="note_8"></span>[8](#fr_8.md) Cf. the *Second Lay of Helgi,*
 stanzas 8, 9.
 
-<span id="note_9"></span>[9](#fr_9) Typical name for a viking.
+<span id="note_9"></span>[9](#fr_9.md) Typical name for a viking.
 
-<span id="note_10"></span>[10](#fr_10) Kenning for “ship.”
+<span id="note_10"></span>[10](#fr_10.md) Kenning for “ship.”
 
 <span id="footnotes_page_16">p. 16</span>
 
-<span id="note_11"></span>[11](#fr_11) To “carry one’s kinsman in one’s
+<span id="note_11"></span>[11](#fr_11.md) To “carry one’s kinsman in one’s
 purse” was a current expression of utmost contumely for enriching one’s
 self by accepting weregild, instead of avenging him.
 
-<span id="note_12"></span>[12](#fr_12) The king of the Saxons.
+<span id="note_12"></span>[12](#fr_12.md) The king of the Saxons.
 
 <span id="footnotes_page_17">p. 17</span>
 
-<span id="note_13"></span>[13](#fr_13) “The Destroyer;” which seems to
+<span id="note_13"></span>[13](#fr_13.md) “The Destroyer;” which seems to
 be a name of Óthin, the inciter to warfare.
 
  

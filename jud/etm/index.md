@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F21C4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F21C4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F21C4/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](etm000)    [Page
-Index](pageidx)    [Text \[Zipped\]](etm.txt.gz)
+[Contents](#contents)    [Start Reading](etm000.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](etm.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -48,274 +48,274 @@ Mishna and Talmud.
 PRODUCTION NOTES: This etext uses Unicode Hebrew extensively, and in
 order to view these files, you will need to ensure that your browser is
 set up to view Unicode. (refer to [the Unicode help
-file](../../unicode))--<span class="small">J. B. Hare, January 12th,
+file](../../unicode).md)--<span class="small">J. B. Hare, January 12th,
 2009.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](etm000)  
-[Preface](etm001)  
+<span id="contents"></span> [Title Page](etm000.md)  
+[Preface](etm001.md)  
 <span id="section_000"></span>
 
 ### I. Treatise Berachoth
 
-[Chapter I](etm002)  
-[Chapter II](etm003)  
-[Chapter III](etm004)  
-[Chapter IV](etm005)  
-[Chapter V](etm006)  
-[Chapter VI](etm007)  
-[Chapter VII](etm008)  
-[Chapter VIII](etm009)  
-[Chapter IX](etm010)  
+[Chapter I](etm002.md)  
+[Chapter II](etm003.md)  
+[Chapter III](etm004.md)  
+[Chapter IV](etm005.md)  
+[Chapter V](etm006.md)  
+[Chapter VI](etm007.md)  
+[Chapter VII](etm008.md)  
+[Chapter VIII](etm009.md)  
+[Chapter IX](etm010.md)  
 
  
 
-[Treatises II. Peah to III. Demai \[synopses\]](etm011)  
+[Treatises II. Peah to III. Demai \[synopses\]](etm011.md)  
 <span id="section_001"></span>
 
 ### IV. Treatise Kilaim
 
-[Chapter I](etm012)  
-[Chapter II](etm013)  
-[Chapter III](etm014)  
-[Chapter IV](etm015)  
-[Chapter V](etm016)  
-[Chapter VI](etm017)  
-[Chapter VII](etm018)  
-[Chapter VIII](etm019)  
-[Chapter IX](etm020)  
+[Chapter I](etm012.md)  
+[Chapter II](etm013.md)  
+[Chapter III](etm014.md)  
+[Chapter IV](etm015.md)  
+[Chapter V](etm016.md)  
+[Chapter VI](etm017.md)  
+[Chapter VII](etm018.md)  
+[Chapter VIII](etm019.md)  
+[Chapter IX](etm020.md)  
 
  
 
-[Treatises V. Shebiith to XI. Bikoorim \[synopses\]](etm021)  
+[Treatises V. Shebiith to XI. Bikoorim \[synopses\]](etm021.md)  
 <span id="section_002"></span>
 
 ### XII. Treatise Sabbath
 
-[Introduction](etm022)  
-[Chapter I](etm023)  
-[Chapter II](etm024)  
-[Chapter III](etm025)  
-[Chapter IV](etm026)  
-[Chapter V](etm027)  
-[Chapter VI](etm028)  
-[Chapter VII](etm029)  
-[Chapter VIII](etm030)  
-[Chapter IX](etm031)  
-[Chapter X](etm032)  
-[Chapter IX](etm033)  
-[Chapter XII](etm034)  
-[Chapter XIII](etm035)  
-[Chapter XIV](etm036)  
-[Chapter XV](etm037)  
-[Chapter XVI](etm038)  
-[Chapter XVII](etm039)  
-[Chapter XVIII](etm040)  
-[Chapter XIX](etm041)  
-[Chapter XX](etm042)  
-[Chapter XXI](etm043)  
-[Chapter XXII](etm044)  
-[Chapter XXIII](etm045)  
-[Chapter XXIV](etm046)  
+[Introduction](etm022.md)  
+[Chapter I](etm023.md)  
+[Chapter II](etm024.md)  
+[Chapter III](etm025.md)  
+[Chapter IV](etm026.md)  
+[Chapter V](etm027.md)  
+[Chapter VI](etm028.md)  
+[Chapter VII](etm029.md)  
+[Chapter VIII](etm030.md)  
+[Chapter IX](etm031.md)  
+[Chapter X](etm032.md)  
+[Chapter IX](etm033.md)  
+[Chapter XII](etm034.md)  
+[Chapter XIII](etm035.md)  
+[Chapter XIV](etm036.md)  
+[Chapter XV](etm037.md)  
+[Chapter XVI](etm038.md)  
+[Chapter XVII](etm039.md)  
+[Chapter XVIII](etm040.md)  
+[Chapter XIX](etm041.md)  
+[Chapter XX](etm042.md)  
+[Chapter XXI](etm043.md)  
+[Chapter XXII](etm044.md)  
+[Chapter XXIII](etm045.md)  
+[Chapter XXIV](etm046.md)  
 <span id="section_003"></span>
 
 ### XIII. Treatise Erubin
 
-[Introduction](etm047)  
-[Chapter I](etm048)  
-[Chapter II](etm049)  
-[Chapter III](etm050)  
-[Chapter IV](etm051)  
-[Chapter V](etm052)  
-[Chapter VI](etm053)  
-[Chapter VII](etm054)  
-[Chapter VIII](etm055)  
-[Chapter IX](etm056)  
-[Chapter X](etm057)  
+[Introduction](etm047.md)  
+[Chapter I](etm048.md)  
+[Chapter II](etm049.md)  
+[Chapter III](etm050.md)  
+[Chapter IV](etm051.md)  
+[Chapter V](etm052.md)  
+[Chapter VI](etm053.md)  
+[Chapter VII](etm054.md)  
+[Chapter VIII](etm055.md)  
+[Chapter IX](etm056.md)  
+[Chapter X](etm057.md)  
 <span id="section_004"></span>
 
 ### XIV. Treatise Pesachim
 
-[Introduction](etm058)  
-[Chapter I](etm059)  
-[Chapter II](etm060)  
-[Chapter III](etm061)  
-[Chapter IV](etm062)  
-[Chapter V](etm063)  
-[Chapter VI](etm064)  
-[Chapter VII](etm065)  
-[Chapter VIII](etm066)  
-[Chapter IX](etm067)  
-[Chapter X](etm068)  
+[Introduction](etm058.md)  
+[Chapter I](etm059.md)  
+[Chapter II](etm060.md)  
+[Chapter III](etm061.md)  
+[Chapter IV](etm062.md)  
+[Chapter V](etm063.md)  
+[Chapter VI](etm064.md)  
+[Chapter VII](etm065.md)  
+[Chapter VIII](etm066.md)  
+[Chapter IX](etm067.md)  
+[Chapter X](etm068.md)  
 
  
 
-[Treatise XV. Shekalim \[synopsis\]](etm069)  
+[Treatise XV. Shekalim \[synopsis\]](etm069.md)  
 <span id="section_005"></span>
 
 ### XVI. Treatise Yomah
 
-[Introduction](etm070)  
-[Chapter VIII](etm071)  
+[Introduction](etm070.md)  
+[Chapter VIII](etm071.md)  
 <span id="section_006"></span>
 
 ### XVII. Treatise Succah
 
-[Introduction](etm072)  
-[Chapter I](etm073)  
-[Chapter II](etm074)  
-[Chapter III](etm075)  
-[Chapter IV](etm076)  
-[Chapter V](etm077)  
+[Introduction](etm072.md)  
+[Chapter I](etm073.md)  
+[Chapter II](etm074.md)  
+[Chapter III](etm075.md)  
+[Chapter IV](etm076.md)  
+[Chapter V](etm077.md)  
 <span id="section_007"></span>
 
 ### XVIII. Treatise Yom Tob
 
-[Introduction](etm078)  
-[Chapter I](etm079)  
-[Chapter II](etm080)  
-[Chapter III](etm081)  
-[Chapter IV](etm082)  
-[Chapter V](etm083)  
+[Introduction](etm078.md)  
+[Chapter I](etm079.md)  
+[Chapter II](etm080.md)  
+[Chapter III](etm081.md)  
+[Chapter IV](etm082.md)  
+[Chapter V](etm083.md)  
 <span id="section_008"></span>
 
 ### XIX. Treatise Rosh Hashanah
 
-[Introduction](etm084)  
-[Chapter I](etm085)  
-[Chapter II](etm086)  
-[Chapter III](etm087)  
-[Chapter IV](etm088)  
+[Introduction](etm084.md)  
+[Chapter I](etm085.md)  
+[Chapter II](etm086.md)  
+[Chapter III](etm087.md)  
+[Chapter IV](etm088.md)  
 <span id="section_009"></span>
 
 ### XX. Treatise Taanith
 
-[Introduction](etm089)  
-[Chapter I](etm090)  
-[Chapter II](etm091)  
-[Chapter III](etm092)  
-[Chapter IV](etm093)  
+[Introduction](etm089.md)  
+[Chapter I](etm090.md)  
+[Chapter II](etm091.md)  
+[Chapter III](etm092.md)  
+[Chapter IV](etm093.md)  
 <span id="section_010"></span>
 
 ### XXI. Treatise Meguillah
 
-[Introduction](etm094)  
-[Chapter I](etm095)  
-[Chapter II](etm096)  
-[Chapter III](etm097)  
-[Chapter IV](etm098)  
+[Introduction](etm094.md)  
+[Chapter I](etm095.md)  
+[Chapter II](etm096.md)  
+[Chapter III](etm097.md)  
+[Chapter IV](etm098.md)  
 <span id="section_011"></span>
 
 ### XXII. Treatise Moed Katan
 
-[Introduction](etm099)  
-[Chapter I](etm100)  
-[Chapter II](etm101)  
-[Chapter III](etm102)  
+[Introduction](etm099.md)  
+[Chapter I](etm100.md)  
+[Chapter II](etm101.md)  
+[Chapter III](etm102.md)  
 
  
 
-[Treatise Hagigah \[synopsis\]](etm103)  
+[Treatise Hagigah \[synopsis\]](etm103.md)  
 <span id="section_012"></span>
 
 ### XXIII. Treatise Yebamoth
 
-[Introduction](etm104)  
-[Chapter I](etm105)  
-[Chapter II](etm106)  
-[Chapter III](etm107)  
-[Chapter IV](etm108)  
-[Chapter V](etm109)  
-[Chapter VII](etm110)  
-[Chapter IX](etm111)  
-[Chapter X](etm112)  
-[Chapter XI](etm113)  
-[Chapter XII](etm114)  
-[Chapter XIII](etm115)  
-[Chapter XIV](etm116)  
-[Chapter XV](etm117)  
-[Chapter XVI](etm118)  
+[Introduction](etm104.md)  
+[Chapter I](etm105.md)  
+[Chapter II](etm106.md)  
+[Chapter III](etm107.md)  
+[Chapter IV](etm108.md)  
+[Chapter V](etm109.md)  
+[Chapter VII](etm110.md)  
+[Chapter IX](etm111.md)  
+[Chapter X](etm112.md)  
+[Chapter XI](etm113.md)  
+[Chapter XII](etm114.md)  
+[Chapter XIII](etm115.md)  
+[Chapter XIV](etm116.md)  
+[Chapter XV](etm117.md)  
+[Chapter XVI](etm118.md)  
 <span id="section_013"></span>
 
 ### XXIV. Treatise Ketuboth
 
-[Introduction](etm119)  
-[Chapter I](etm120)  
-[Chapter II](etm121)  
-[Chapter III](etm122)  
-[Chapter IV](etm123)  
-[Chapter V](etm124)  
-[Chapter VI](etm125)  
-[Chapter VII](etm126)  
-[Chapter VIII](etm127)  
-[Chapter IX](etm128)  
-[Chapter X](etm129)  
-[Chapter XI](etm130)  
-[Chapter XII](etm131)  
-[Chapter XIII](etm132)  
+[Introduction](etm119.md)  
+[Chapter I](etm120.md)  
+[Chapter II](etm121.md)  
+[Chapter III](etm122.md)  
+[Chapter IV](etm123.md)  
+[Chapter V](etm124.md)  
+[Chapter VI](etm125.md)  
+[Chapter VII](etm126.md)  
+[Chapter VIII](etm127.md)  
+[Chapter IX](etm128.md)  
+[Chapter X](etm129.md)  
+[Chapter XI](etm130.md)  
+[Chapter XII](etm131.md)  
+[Chapter XIII](etm132.md)  
 
  
 
-[Treatises XXV. Nedarim to XXVII. Sootah \[synopses\]](etm133)  
+[Treatises XXV. Nedarim to XXVII. Sootah \[synopses\]](etm133.md)  
 <span id="section_014"></span>
 
 ### XXVIII. Treatise Gittin
 
-[Introduction](etm134)  
-[Chapter I](etm135)  
-[Chapter II](etm136)  
-[Chapter III](etm137)  
-[Chapter IV](etm138)  
-[Chapter V](etm139)  
-[Chapter VI](etm140)  
-[Chapter VII](etm141)  
-[Chapter VIII](etm142)  
-[Chapter IX](etm143)  
+[Introduction](etm134.md)  
+[Chapter I](etm135.md)  
+[Chapter II](etm136.md)  
+[Chapter III](etm137.md)  
+[Chapter IV](etm138.md)  
+[Chapter V](etm139.md)  
+[Chapter VI](etm140.md)  
+[Chapter VII](etm141.md)  
+[Chapter VIII](etm142.md)  
+[Chapter IX](etm143.md)  
 <span id="section_015"></span>
 
 ### XXIX. Treatise Kedushin
 
-[Introduction](etm144)  
-[Chapter I](etm145)  
-[Chapter II](etm146)  
-[Chapter III](etm147)  
-[Chapter IV](etm148)  
+[Introduction](etm144.md)  
+[Chapter I](etm145.md)  
+[Chapter II](etm146.md)  
+[Chapter III](etm147.md)  
+[Chapter IV](etm148.md)  
 
  
 
-[Treatises XXX. Babah Kaman to XLI. Minchoth (synopses)](etm149)  
+[Treatises XXX. Babah Kaman to XLI. Minchoth (synopses)](etm149.md)  
 <span id="section_016"></span>
 
 ### XLII. Treatise Cholin
 
-[Introduction](etm150)  
-[Chapter I](etm151)  
-[Chapter II](etm152)  
-[Chapter III](etm153)  
-[Chapter IV](etm154)  
-[Chapter V](etm155)  
-[Chapter VI](etm156)  
-[Chapter VII](etm157)  
-[Chapter VIII](etm158)  
-[Chapter IX](etm159)  
-[Chapter X](etm160)  
-[Chapter XI](etm161)  
-[Chapter XII](etm162)  
+[Introduction](etm150.md)  
+[Chapter I](etm151.md)  
+[Chapter II](etm152.md)  
+[Chapter III](etm153.md)  
+[Chapter IV](etm154.md)  
+[Chapter V](etm155.md)  
+[Chapter VI](etm156.md)  
+[Chapter VII](etm157.md)  
+[Chapter VIII](etm158.md)  
+[Chapter IX](etm159.md)  
+[Chapter X](etm160.md)  
+[Chapter XI](etm161.md)  
+[Chapter XII](etm162.md)  
 
  
 
-[Treatises XLIII. Bechoroth to LX. Tebul Yom (synopses)](etm163)  
+[Treatises XLIII. Bechoroth to LX. Tebul Yom (synopses)](etm163.md)  
 <span id="section_017"></span>
 
 ### LXI. Treatise Yadaim
 
-[Introduction](etm164)  
-[Chapter I](etm165)  
-[Chapter II](etm166)  
-[Chapter III](etm167)  
-[Chapter IV](etm168)  
+[Introduction](etm164.md)  
+[Chapter I](etm165.md)  
+[Chapter II](etm166.md)  
+[Chapter III](etm167.md)  
+[Chapter IV](etm168.md)  
 
  
 
-[LXII. Treatise Ookezin (synopsis)](etm169)  
+[LXII. Treatise Ookezin (synopsis)](etm169.md)  

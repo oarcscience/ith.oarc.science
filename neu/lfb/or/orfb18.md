@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb17)  [Next](orfb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb17)  [Next](orfb19.md) 
 
 </div>
 
@@ -242,6 +242,6 @@ was trotting peacefully back to the shepherd.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventures of the Jackal's Eldest Son](orfb19)
+[Next: The Adventures of the Jackal's Eldest Son](orfb19.md)
 
 </div>

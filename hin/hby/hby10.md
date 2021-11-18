@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hby09)  [Next](hby11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hby09)  [Next](hby11.md) 
 
 ------------------------------------------------------------------------
 
@@ -403,7 +403,7 @@ perfect self-mastery
 
 <span id="page_149">p. 149</span>
 
-and consequent freedom do not come to one who [has](errata.htm#0) not
+and consequent freedom do not come to one who [has](errata.htm#0.md) not
 learned the secret of regulating the vital energy, and who has not
 acquired the power to direct it wherever it is needed. Before anyone can
 control this invisible vital force, he must know its principal seat in
@@ -599,4 +599,4 @@ and that Supreme Bliss which is eternal and everlasting.
 
 ------------------------------------------------------------------------
 
-[Next: Was Christ a Yogi?](hby11)
+[Next: Was Christ a Yogi?](hby11.md)

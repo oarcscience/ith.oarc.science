@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh09)  [Next](ehh11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh09)  [Next](ehh11.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ following day.
 ------------------------------------------------------------------------
 
 [Next: Third Division of the Tuat. II. The Kingdom of
-Khenti-Amenti-Osiris According to the Book of Gates](ehh11)
+Khenti-Amenti-Osiris According to the Book of Gates](ehh11.md)

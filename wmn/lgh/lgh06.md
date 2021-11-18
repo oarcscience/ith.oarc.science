@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](lgh05) 
-[Next](lgh07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](lgh05.md) 
+[Next](lgh07.md) 
 
 ------------------------------------------------------------------------
 
@@ -372,7 +372,7 @@ this Iasius would not permit, for the day was far spent and both
 Atalanta and her wooer stood in need of food and rest. So they went home
 to the palace and partook of the well-appointed banquet, and of the
 sweet wine, seasoning the food with much pleasant talk of men and
-places, and listening to the long-haired Thamyris, [6](lgh14.htm#xref_6)
+places, and listening to the long-haired Thamyris, [6](lgh14.htm#xref_6.md)
 who was sojourning at the court of Iasius, a sweet minstrel truly, but
 not yet so famous or so proud of his skill as to challenge the Muses,
 daughters of aegis-bearing Jove!
@@ -434,4 +434,4 @@ ever haunt the mountain glades and shun the paths of men.
 
 ------------------------------------------------------------------------
 
-[Next: Antigone](lgh07)
+[Next: Antigone](lgh07.md)

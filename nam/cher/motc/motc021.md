@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc020) 
-[Next](motc022) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc020.md) 
+[Next](motc022.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ live.'"--Cherokee Advocate, December 18, 1845.
 
 ------------------------------------------------------------------------
 
-[Next: 22. The Rabbit And The Possum After A Wife](motc022)
+[Next: 22. The Rabbit And The Possum After A Wife](motc022.md)

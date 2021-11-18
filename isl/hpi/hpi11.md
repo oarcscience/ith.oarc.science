@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi10)  [Next](hpi12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi10)  [Next](hpi12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -105,7 +105,7 @@ If the falcon should escape you,
 Take, content, the humble bunting:  
 If you finger not the dinars,  
 Coppers still are worth the counting" <span
-id="fr_12"></span>[1](#fn_12).
+id="fr_12"></span>[1](#fn_12.md).
 
 3\. The Annalistic of the ancient Arabs, like their Poetry, was
 distinguished by a clear perception of particulars, but
@@ -225,9 +225,9 @@ acquisitions of Mankind.
 
 ### Footnotes
 
-<span id="fn_12"></span>[67:1](hpi11.htm#fr_12) V. Rückerts Uebers. d.
+<span id="fn_12"></span>[67:1](hpi11.htm#fr_12.md) V. Rückerts Uebers. d.
 Makamen II, p. 299.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Natural Philosophy](hpi12)
+[Next: 1. Natural Philosophy](hpi12.md)

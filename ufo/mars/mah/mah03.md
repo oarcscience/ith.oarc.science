@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah02)  [Next](mah04) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah02)  [Next](mah04.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ the way and was becoming a menace to neighboring planets.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Planet Mars And Its Inhabitants](mah04)
+[Next: Chapter I: The Planet Mars And Its Inhabitants](mah04.md)

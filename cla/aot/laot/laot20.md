@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot19) 
-[Next](laot21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot19.md) 
+[Next](laot21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -266,8 +266,8 @@ luxury. And seeing them to have smooth legs, and sleek hair, and that
 they did not even wear beards, nay were even dressed in soft raiment, he
 sent such a letter to the Ephors that the latter issued a public
 proclamation and forbade the use of pitch plasters in the baths <span
-id="fr_8"></span>[1](#fn_8), and drove out of the city the men who
-professed to rejuvenate dandies <span id="fr_9"></span>[2](#fn_9), and
+id="fr_8"></span>[1](#fn_8.md), and drove out of the city the men who
+professed to rejuvenate dandies <span id="fr_9"></span>[2](#fn_9.md), and
 they restored the ancient régime in every respect. The consequence was
 that the wrestling grounds were filled once more with the youth, and the
 jousts and the common meals were restored, and Lacedaemon became once
@@ -386,12 +386,12 @@ that you are embarking on a subject which transcends the power of man."
 
 ### Footnotes
 
-<span id="fn_8"></span>[1:411:1](laot20.htm#fr_8) Adhesive plasters were
+<span id="fn_8"></span>[1:411:1](laot20.htm#fr_8.md) Adhesive plasters were
 used to remove superfluous hair from the body.
 
-<span id="fn_9"></span>[1:411:2](laot20.htm#fr_9) Literally
+<span id="fn_9"></span>[1:411:2](laot20.htm#fr_9.md) Literally
 "hair-pluckers."
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 31-40](laot21)
+[Next: Chapters 31-40](laot21.md)

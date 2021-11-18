@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe00)  [Next](toe02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe00)  [Next](toe02.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Textual Heritage
 <span id="img_pl01"></span>
 
 [![Plate I](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 Plate I  
 
  
@@ -26,7 +26,7 @@ Plate I
 <span id="img_pl02"></span>
 
 [![Plate II](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 Plate II  
 
  
@@ -35,4 +35,4 @@ Plate II
 
 ------------------------------------------------------------------------
 
-[Next: Part I. Prospect of the Subject to be treated of.](toe02)
+[Next: Part I. Prospect of the Subject to be treated of.](toe02.md)

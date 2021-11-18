@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,10 +14,10 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](ycw00)  
-[Contents.](ycw01)  
-[Introduction.](ycw02)  
-[The Tract of the Quiet Way.](ycw03)  
-[Notes of the Chinese Commentator.](ycw04)  
-[Translator's Notes.](ycw05)  
-[Index.](ycw06)  
+[Title Page](ycw00.md)  
+[Contents.](ycw01.md)  
+[Introduction.](ycw02.md)  
+[The Tract of the Quiet Way.](ycw03.md)  
+[Notes of the Chinese Commentator.](ycw04.md)  
+[Translator's Notes.](ycw05.md)  
+[Index.](ycw06.md)  

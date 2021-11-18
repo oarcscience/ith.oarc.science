@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia16)  [Next](aia18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia16)  [Next](aia18.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,16 +19,16 @@ colours.
 red; ♋ green or russet; ♌ red or green; ♍ black speckled with blue; ♎
 black or dark crimson, or tawny colour; ♏ brown; ♐ yellow, or a green
 sanguine; ♑ black or russet, or a swarthy brown; ♒ a sky colour with
-blue; ♓ white, glistening colour. <span id="fr_42"></span>[1](#fn_42)
+blue; ♓ white, glistening colour. <span id="fr_42"></span>[1](#fn_42.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_42"></span>[57:1](aia17.htm#fr_42) Like a fish just taken
+<span id="fn_42"></span>[57:1](aia17.htm#fr_42.md) Like a fish just taken
 out of the water.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XV. The Nature, Place, Countries, General Description,
-and Diseases Signified by the Twelve Signs](aia18)
+and Diseases Signified by the Twelve Signs](aia18.md)

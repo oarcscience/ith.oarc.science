@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst063)  [Next](inst065) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst063)  [Next](inst065.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,7 +131,7 @@ An example of the doctrine of Justification by Faith from the works of
 Ambrose.
 
 <span id="iv.iii.xii-p28"></span>1. I trust I have now sufficiently
-shown  <span id="fr_397"></span>[398](#fn_397) how man’s only resource
+shown  <span id="fr_397"></span>[398](#fn_397.md) how man’s only resource
 for escaping from the curse of the law, and recovering salvation, lies
 in faith; and also what the nature of faith is, what the benefits which
 it confers, and the fruits which it produces. The whole may be thus
@@ -194,11 +194,11 @@ he will easily convince himself of its truth. I will only mention a few
 passages in which the justification of which we speak is expressly
 handled. First, when Luke relates that all the people that heard Christ
 “justified God,” (<span id="iv.iii.xii-p31.1"></span>[Luke
-7:29](../../../bib/kjv/luk007.htm#029)<span
+7:29](../../../bib/kjv/luk007.htm#029.md)<span
 id="iv.iii.xii-p31.1"></span>), and when Christ declares, that “Wisdom
 is justified of all her children,” (<span
 id="iv.iii.xii-p31.2"></span>[Luke
-7:35](../../../bib/kjv/luk007.htm#035)<span
+7:35](../../../bib/kjv/luk007.htm#035.md)<span
 id="iv.iii.xii-p31.2"></span>), Luke means not that they conferred
 righteousness which always dwells in perfection with God, although the
 whole world should attempt to wrest it from him, nor does Christ mean
@@ -207,7 +207,7 @@ nature; but both modes of expression are equivalent to attributing due
 praise to God and his doctrine. On the other hand, when Christ upbraids
 the Pharisees for justifying themselves (<span
 id="iv.iii.xii-p31.3"></span>[Luke
-16:15](../../../bib/kjv/luk016.htm#015)<span
+16:15](../../../bib/kjv/luk016.htm#015.md)<span
 id="iv.iii.xii-p31.3"></span>), he means not that they acquired
 righteousness by acting properly, but that they ambitiously courted a
 reputation for righteousness of which they were destitute. Those
@@ -218,20 +218,20 @@ when Bathsheba says, “I and my son Solomon shall be counted offenders,”
 she does not acknowledge a crime, but complains that she and her son
 will be exposed to the disgrace of being numbered among reprobates and
 criminals (<span id="iv.iii.xii-p31.4"></span>[1 Kings
-1:21](../../../bib/kjv/kg1001.htm#021)<span
+1:21](../../../bib/kjv/kg1001.htm#021.md)<span
 id="iv.iii.xii-p31.4"></span>). It is, indeed, plain from the context,
-that the term even in Latin40  <span id="fr_398"></span>[399](#fn_398)
+that the term even in Latin40  <span id="fr_398"></span>[399](#fn_398.md)
 must be thus understood—viz. *relatively*—and does not denote any
 quality. In regard to the use of the term with reference to the present
 subject, when Paul speaks of the Scripture, “foreseeing that God would
 justify the heathen through faith,” (<span
 id="iv.iii.xii-p32.1"></span>[Gal.
-3:8](../../../bib/kjv/gal003.htm#008)<span
+3:8](../../../bib/kjv/gal003.htm#008.md)<span
 id="iv.iii.xii-p32.1"></span>), what other meaning can you give it than
 that God imputes righteousness by faith? Again, when he says, “that he
 (God) might be just, and the justifier of him who believeth in Jesus,”
 (<span id="iv.iii.xii-p32.2"></span>[Rom.
-3:26](../../../bib/kjv/rom003.htm#026)<span
+3:26](../../../bib/kjv/rom003.htm#026.md)<span
 id="iv.iii.xii-p32.2"></span>), what can the meaning be, if not that
 God, in consideration of their faith, frees them from the condemnation
 which their wickedness deserves? This appears still more plainly at the
@@ -240,8 +240,8 @@ God’s elect? It is God that justifieth. Who is he that condemneth? It is
 Christ that died, yea rather, that is risen again, who is even at the
 right hand of God, who also maketh intercession for us” (<span
 id="iv.iii.xii-p32.3"></span>[Rom.
-8:33](../../../bib/kjv/rom008.htm#033),
-[34](../../../bib/kjv/rom008.htm#034)<span
+8:33](../../../bib/kjv/rom008.htm#033.md),
+[34](../../../bib/kjv/rom008.htm#034.md)<span
 id="iv.iii.xii-p32.3"></span>). For it is just as if he had said, Who
 shall accuse those whom God has acquitted? Who shall condemn those for
 whom Christ pleads? To *justify*, therefore, is nothing else than to
@@ -254,8 +254,8 @@ righteous in Christ. Thus it is said, in Paul’s discourse in the Acts,
 him all that believe are justified from all things from which ye could
 not be justified by the law of Moses,” (<span
 id="iv.iii.xii-p32.4"></span>[Acts
-13:38](../../../bib/kjv/act013.htm#038),
-[39](../../../bib/kjv/act013.htm#039)<span
+13:38](../../../bib/kjv/act013.htm#038.md),
+[39](../../../bib/kjv/act013.htm#039.md)<span
 id="iv.iii.xii-p32.4"></span>). You see that after remission of sins
 justification is set down by way of explanation; you see plainly that it
 is used for acquittal; you see how it cannot be obtained by the works of
@@ -264,7 +264,7 @@ Christ; you see that it is obtained by faith; you see, in fine, that
 satisfaction intervenes, since it is said that we are justified from our
 sins by Christ. Thus when the publican is said to have gone down to his
 house “justified,” (<span id="iv.iii.xii-p32.5"></span>[Luke
-18:14](../../../bib/kjv/luk018.htm#014)<span
+18:14](../../../bib/kjv/luk018.htm#014.md)<span
 id="iv.iii.xii-p32.5"></span>), it cannot be held that he obtained this
 justification by any merit of works. All that is said is, that after
 obtaining the pardon of sins he was regarded in the sight of God as
@@ -272,7 +272,7 @@ righteous. He was justified, therefore, not by any approval of works,
 but by gratuitous acquittal on the part of God. Hence Ambrose elegantly
 terms confession of sins “legal justification,” (Ambrose on <span
 id="iv.iii.xii-p32.6"></span>[Psalm
-118](../../../bib/kjv/psa118.htm#000)<span id="iv.iii.xii-p32.6"></span>
+118](../../../bib/kjv/psa118.htm#000.md)<span id="iv.iii.xii-p32.6"></span>
 Serm. 10).
 
 <span id="iv.iii.xii-p33"></span>4. Without saying more about the term,
@@ -283,30 +283,30 @@ justification by the term *acceptance*, when he says to the Ephesians,
 to himself, according to the good pleasure of his will, to the praise of
 the glory of his grace, wherein he has made us accepted in the Beloved,”
 (<span id="iv.iii.xii-p33.1"></span>[Eph.
-1:5](../../../bib/kjv/eph001.htm#005),
-[6](../../../bib/kjv/eph001.htm#006)<span
+1:5](../../../bib/kjv/eph001.htm#005.md),
+[6](../../../bib/kjv/eph001.htm#006.md)<span
 id="iv.iii.xii-p33.1"></span>). His meaning is the very same as where he
 elsewhere says, “being justified freely by his grace,” (<span
 id="iv.iii.xii-p33.2"></span>[Rom.
-3:24](../../../bib/kjv/rom003.htm#024)<span
+3:24](../../../bib/kjv/rom003.htm#024.md)<span
 id="iv.iii.xii-p33.2"></span>). In the fourth chapter of the Epistle to
 the Romans, he first terms it the *imputation* of righteousness, and
 hesitates not to place it in forgiveness of sins: “Even as David also
 describeth the blessedness of the man unto whom God imputeth
 righteousness without works, saying, Blessed are they whose iniquities
 are forgiven,” &c. (<span id="iv.iii.xii-p33.3"></span>[Rom.
-4:6-8](../../../bib/kjv/rom004.htm#006)<span
+4:6-8](../../../bib/kjv/rom004.htm#006.md)<span
 id="iv.iii.xii-p33.3"></span>). There, indeed, he is not speaking of a
 part of justification, but of the whole. He declares, moreover, that a
 definition of it was given by David, when he pronounced him *blessed*
 who has obtained the *free* pardon of his sins. Whence it appears that
 this righteousness of which he speaks is simply opposed to judicial
-guilt.40  <span id="fr_399"></span>[400](#fn_399) But the most
+guilt.40  <span id="fr_399"></span>[400](#fn_399.md) But the most
 satisfactory passage on this subject is that in which he declares the
 sum of the Gospel message to be reconciliation to God, who is pleased,
 through Christ, to receive us into favor by not imputing our sins (<span
 id="iv.iii.xii-p34.1"></span>[2 Cor.
-5:18-21](../../../bib/kjv/co2005.htm#018)<span
+5:18-21](../../../bib/kjv/co2005.htm#018.md)<span
 id="iv.iii.xii-p34.1"></span>). Let my readers carefully weigh the whole
 context. For Paul shortly after adding, by way of explanation, in order
 to designate the mode of reconciliation, that Christ who knew no sin was
@@ -314,7 +314,7 @@ made sin for us, undoubtedly understands by reconciliation nothing else
 than justification. Nor, indeed, could it be said, as he elsewhere does,
 that we are made righteous “by the obedience” of Christ (<span
 id="iv.iii.xii-p34.2"></span>[Rom.
-5:19](../../../bib/kjv/rom005.htm#019)<span
+5:19](../../../bib/kjv/rom005.htm#019.md)<span
 id="iv.iii.xii-p34.2"></span>), were it not that we are deemed righteous
 in the sight of God in him and not in ourselves.
 
@@ -322,7 +322,7 @@ in the sight of God in him and not in ourselves.
 kind of monstrosity termed *essential righteousness*, by which, although
 he designed not to abolish free righteousness, he involves it in
 darkness, and by that darkness deprives pious minds of a serious sense
-of divine grace40  <span id="fr_400"></span>[401](#fn_400) ; before I
+of divine grace40  <span id="fr_400"></span>[401](#fn_400.md) ; before I
 pass to other matters, it may be proper to refute this delirious dream.
 And, first, the whole speculation is mere empty curiosity. He indeed,
 heaps together many passages of scripture showing that Christ is one
@@ -331,7 +331,7 @@ he entangles himself by not attending to the bond of this unity. The
 explanation of all difficulties is easy to us, who hold that we are
 united to Christ by the secret agency of his Spirit, but he had formed
 some idea akin to that of the Manichees, desiring to transfuse the
-divine essence into men.40  <span id="fr_401"></span>[402](#fn_401)
+divine essence into men.40  <span id="fr_401"></span>[402](#fn_401.md)
 Hence his other notion, that Adam was formed in the image of God,
 because even before the fall Christ was destined to be the model of
 human nature. But as I study brevity, I will confine myself to the
@@ -372,7 +372,7 @@ divine nature is diffused into us, he might indulge his dreams with less
 harm, and, perhaps, it were less necessary to contest the matter with
 him; but since this principle is like a cuttle-fish, which, by the
 ejection of dark and inky blood, conceals its many tails,40  <span
-id="fr_402"></span>[403](#fn_402) if we would not knowingly and
+id="fr_402"></span>[403](#fn_402.md) if we would not knowingly and
 willingly allow ourselves to be robbed of that righteousness which alone
 gives us full assurance of our salvation, we must strenuously resist.
 For, in the whole of this discussion, the noun *righteousness* and the
@@ -406,7 +406,7 @@ separately, that it may the better display the manifold grace of God.
 Nor is Paul’s statement superfluous, that Christ is made unto us
 “righteousness and sanctification,” (<span
 id="iv.iii.xii-p39.1"></span>[1 Cor.
-1:30](../../../bib/kjv/co1001.htm#030)<span
+1:30](../../../bib/kjv/co1001.htm#030.md)<span
 id="iv.iii.xii-p39.1"></span>). And whenever he argues from the
 salvation procured for us, from the paternal love of God and the grace
 of Christ, that we are called to purity and holiness, he plainly
@@ -451,7 +451,7 @@ when we hold that, previous to his righteousness, he himself is received
 by faith. Still, however, I admit not the tortuous figure of the
 sophist, that faith is Christ; as if a vessel of clay were a treasure,
 because gold is deposited in it.41  <span
-id="fr_403"></span>[404](#fn_403) And yet this is no reason why faith,
+id="fr_403"></span>[404](#fn_403.md) And yet this is no reason why faith,
 though in itself of no dignity or value, should not justify us by giving
 Christ; Just as such a vessel filled with coin may give wealth. I say,
 therefore, that faith, which is only the instrument for receiving
@@ -464,7 +464,7 @@ when treating of justification.
 regard to the mode of receiving Christ, holding, that by the ministry of
 the external word the internal word is received; that he may thus lead
 us away from the priesthood of Christ, and his office of Mediator, to
-his eternal divinity.41  <span id="fr_404"></span>[405](#fn_404) We,
+his eternal divinity.41  <span id="fr_404"></span>[405](#fn_404.md) We,
 indeed, do not divide Christ, but hold that he who, reconciling us to
 God in his flesh, bestowed righteousness upon us, is the eternal Word of
 God; and that he could not perform the office of Mediator, nor acquire
@@ -482,13 +482,13 @@ the divine nature, yet he receives his own proper title, that he may be
 distinguished from the Father and the Spirit. But he makes a ridiculous
 boast of a single passage of Jeremiah, in which it is said, that Jehovah
 will be our righteousness (<span id="iv.iii.xii-p43.1"></span>[Jer.
-23:6](../../../bib/kjv/jer023.htm#006)<span
+23:6](../../../bib/kjv/jer023.htm#006.md)<span
 id="iv.iii.xii-p43.1"></span>; 33:16). But all he can extract from this
 is, that Christ, who is our righteousness, was God manifest in the
 flesh. We have elsewhere quoted from Paul’s discourse, that God
 purchased the Church with his own blood (<span
 id="iv.iii.xii-p43.2"></span>[Acts
-20:28](../../../bib/kjv/act020.htm#028)<span
+20:28](../../../bib/kjv/act020.htm#028.md)<span
 id="iv.iii.xii-p43.2"></span>). Were any one to infer from this that the
 blood by which sins were expiated was divine, and of a divine nature,
 who could endure so foul a heresy? But Osiander, thinking that he has
@@ -498,7 +498,7 @@ obvious—viz. that Jehovah, when made of the seed of David, was indeed to
 be the righteousness of believers, but in what sense Isaiah declares,
 “By his knowledge shall my righteous servant justify many,” (<span
 id="iv.iii.xii-p43.3"></span>[Isa.
-53:11](../../../bib/kjv/isa053.htm#011)<span
+53:11](../../../bib/kjv/isa053.htm#011.md)<span
 id="iv.iii.xii-p43.3"></span>). Let us observe that it is the Father who
 speaks. He attributes the office of justifying to the Son, and adds the
 reason,—because he is “righteous.” He places the method, or *medium* (as
@@ -533,18 +533,18 @@ not blush repeatedly to quote), he places the fountain of righteousness
 entirely in the incarnation of Christ, “He has made him to be sin for us
 who knew no sin, that we might be made the righteousness of God in him,”
 (<span id="iv.iii.xii-p45.1"></span>[2 Cor.
-5:21](../../../bib/kjv/co2005.htm#021)<span
+5:21](../../../bib/kjv/co2005.htm#021.md)<span
 id="iv.iii.xii-p45.1"></span>). Osiander in turgid sentences lays hold
 of the expression, *righteousness of God*, and shouts victory! as if he
 had proved it to be his own phantom of essential righteousness,41  <span
-id="fr_405"></span>[406](#fn_405) though the words have a very different
+id="fr_405"></span>[406](#fn_405.md) though the words have a very different
 meaning—viz. that we are justified through the expiation made by Christ.
 That the righteousness of God is used for the righteousness which is
 approved by God, should be known to mere tyros, as in John, the praise
 of God is contrasted with the praise of men41  <span
-id="fr_406"></span>[407](#fn_406) (<span
+id="fr_406"></span>[407](#fn_406.md) (<span
 id="iv.iii.xii-p47.1"></span>[John
-12:43](../../../bib/kjv/joh012.htm#043)<span
+12:43](../../../bib/kjv/joh012.htm#043.md)<span
 id="iv.iii.xii-p47.1"></span>). I know that by the righteousness of God
 is sometimes meant that of which God is the author, and which he bestows
 upon us; but that here the only thing meant is, that being supported by
@@ -558,7 +558,7 @@ to us, he holds forth the sure pledge of it in his flesh. He indeed
 calls himself “living bread,” but, in explanation of the mode, adds, “my
 flesh is meat indeed, and my blood is drink indeed,” (<span
 id="iv.iii.xii-p47.2"></span>[John
-6:55](../../../bib/kjv/joh006.htm#055)<span
+6:55](../../../bib/kjv/joh006.htm#055.md)<span
 id="iv.iii.xii-p47.2"></span>). The same doctrine is clearly seen in the
 sacraments; which, though they direct our faith to the whole, not to a
 part of Christ, yet, at the same time, declare that the materials of
@@ -568,7 +568,7 @@ a Mediator, to manifest his own hidden and incomprehensible nature.
 Hence I often repeat, that Christ has been in a manner set before us as
 a fountain, whence we may draw what would otherwise lie without use in
 that deep and hidden abyss which streams forth to us in the person of
-the Mediator.41  <span id="fr_407"></span>[408](#fn_407) In this way,
+the Mediator.41  <span id="fr_407"></span>[408](#fn_407.md) In this way,
 and in this meaning, I deny not that Christ, as he is God and man,
 justifies us; that this work is common also to the Father and the Holy
 Spirit; in fine, that the righteousness of which God makes us partakers
@@ -590,7 +590,7 @@ rights when we say, that, destitute in ourselves, we draw near to him by
 faith, to make way for his grace, that he alone may fill us. But
 Osiander, spurning this spiritual union, insists on a gross mixture of
 Christ with believers; and, accordingly, to excite prejudice, gives the
-name of Zuinglians41  <span id="fr_408"></span>[409](#fn_408) to all who
+name of Zuinglians41  <span id="fr_408"></span>[409](#fn_408.md) to all who
 subscribe not to his fanatical heresy of essential righteousness,
 because they do not hold that, in the supper, Christ is eaten
 substantially. For my part, I count it the highest honor to be thus
@@ -601,7 +601,7 @@ not concern me, as I plead not my own cause, and plead the more
 sincerely that I am free from every sinister feeling. In insisting so
 vehemently on essential righteousness, and an essential inhabitation of
 Christ within us, his meaning is, first, that God by a gross mixture41
- <span id="fr_409"></span>[410](#fn_409) transfuses himself into us, as
+ <span id="fr_409"></span>[410](#fn_409.md) transfuses himself into us, as
 he pretends that there is a carnal eating in the supper; And, secondly
 that by instilling his own righteousness into us, he makes us really
 righteous with himself since, according to him, this righteousness is as
@@ -612,13 +612,13 @@ wrests to our present state. Peter says, that through the knowledge of
 Christ “are given unto us exceeding great and precious promises, that by
 them ye might be partakers of the divine nature,” (<span
 id="iv.iii.xii-p51.1"></span>[2 Pet.
-1:4](../../../bib/kjv/pe2001.htm#004)<span
+1:4](../../../bib/kjv/pe2001.htm#004.md)<span
 id="iv.iii.xii-p51.1"></span>);41  <span
-id="fr_410"></span>[411](#fn_410) as if we now were what the gospel
+id="fr_410"></span>[411](#fn_410.md) as if we now were what the gospel
 promises we shall be at the final advent of Christ; nay, John reminds
 us, that “when he shall appear we shall be like him, for we shall see
 him as he is” (<span id="iv.iii.xii-p52.1"></span>[1 John
-3:2](../../../bib/kjv/jo1003.htm#002)<span
+3:2](../../../bib/kjv/jo1003.htm#002.md)<span
 id="iv.iii.xii-p52.1"></span>). I only wished to give my readers a
 slender specimen of Osiander, it being my intention to decline the
 discussion of his frivolities, not because there is any difficulty in
@@ -643,13 +643,13 @@ reconciling the world unto himself, not imputing their trespasses unto
 them”? “He made him to be sin for us who knew no sin; that we might be
 made the righteousness of God in him,” (<span
 id="iv.iii.xii-p53.1"></span>[2 Cor.
-5:19](../../../bib/kjv/co2005.htm#019),
-[21](../../../bib/kjv/co2005.htm#021)<span
+5:19](../../../bib/kjv/co2005.htm#019.md),
+[21](../../../bib/kjv/co2005.htm#021.md)<span
 id="iv.iii.xii-p53.1"></span>). Here I learn, first, that those who are
 reconciled to God are regarded as righteous: then the method is stated,
 God justifies by pardoning; and hence, in another place, justification
 is opposed to accusation (<span id="iv.iii.xii-p53.2"></span>[Rom.
-8:33](../../../bib/kjv/rom008.htm#033)<span
+8:33](../../../bib/kjv/rom008.htm#033.md)<span
 id="iv.iii.xii-p53.2"></span>); this antithesis clearly demonstrating
 that the mode of expression is derived from forensic use. And, indeed,
 no man, moderately verdant in the Hebrew tongue (provided he is also of
@@ -658,10 +658,10 @@ thereafter derived its tendency and force. Now, then, when Paul says
 that David “describeth the blessedness of the man unto whom God imputeth
 righteousness without works, saying, Blessed are they whose iniquities
 are forgiven,” (<span id="iv.iii.xii-p53.3"></span>[Rom.
-4:6](../../../bib/kjv/rom004.htm#006),
-[7](../../../bib/kjv/rom004.htm#007)<span id="iv.iii.xii-p53.3"></span>;
+4:6](../../../bib/kjv/rom004.htm#006.md),
+[7](../../../bib/kjv/rom004.htm#007.md)<span id="iv.iii.xii-p53.3"></span>;
 <span id="iv.iii.xii-p53.4"></span>[Ps.
-32:1](../../../bib/kjv/psa032.htm#001)<span
+32:1](../../../bib/kjv/psa032.htm#001.md)<span
 id="iv.iii.xii-p53.4"></span>), let Osiander say whether this is a
 complete or only a partial definition. He certainly does not adduce the
 Psalmist as a witness that pardon of sins is a part of righteousness, or
@@ -693,7 +693,7 @@ retarded; yea, whenever rest and tranquillity with spiritual joy are not
 established. Hence Paul argues against objectors, that “if the
 inheritance be of the law, it is no more of promise,” (<span
 id="iv.iii.xii-p54.1"></span>[Gal.
-3:18](../../../bib/kjv/gal003.htm#018)<span
+3:18](../../../bib/kjv/gal003.htm#018.md)<span
 id="iv.iii.xii-p54.1"></span>). that in this way faith would be made
 vain; for if respect be had to works it fails, the holiest of men in
 that case finding nothing in which they can confide. This distinction
@@ -703,7 +703,7 @@ Speaking of his real righteousness, or the integrity bestowed upon him
 (which Osiander terms his essential righteousness), he mournfully
 exclaims, “O wretched man that I am! who shall deliver me from the body
 of this death?” (<span id="iv.iii.xii-p54.2"></span>[Rom.
-7:24](../../../bib/kjv/rom007.htm#024)<span
+7:24](../../../bib/kjv/rom007.htm#024.md)<span
 id="iv.iii.xii-p54.2"></span>); but retaking himself to the
 righteousness which is founded solely on the mercy of God, he breaks
 forth thus magnificently into the language of triumph: “Who shall lay
@@ -711,8 +711,8 @@ any thing to the charge of God’s elect? It is God that justifieth.” “Who
 shall separate us from the love of Christ? shall tribulation, or
 distress, or persecution, or famine, or nakedness, or peril, or sword?”
 (<span id="iv.iii.xii-p54.3"></span>[Rom.
-8:33](../../../bib/kjv/rom008.htm#033),
-[35](../../../bib/kjv/rom008.htm#035)<span
+8:33](../../../bib/kjv/rom008.htm#033.md),
+[35](../../../bib/kjv/rom008.htm#035.md)<span
 id="iv.iii.xii-p54.3"></span>). He clearly declares that the only
 righteousness for him is that which alone suffices for complete
 salvation in the presence of God, so that that miserable bondage, the
@@ -736,7 +736,7 @@ prescribe a law to God is not the judge in this cause. But this saying
 will ever stand true, “That thou mightest be justified when thou
 speakest, and be clear when thou judges,” (<span
 id="iv.iii.xii-p54.4"></span>[Ps.
-51:4](../../../bib/kjv/psa051.htm#004)<span
+51:4](../../../bib/kjv/psa051.htm#004.md)<span
 id="iv.iii.xii-p54.4"></span>). What arrogance to condemn the Supreme
 Judge when he acquits freely, and try to prevent the response from
 taking affect: “I will have mercy on whom I will have mercy.” And yet
@@ -763,14 +763,14 @@ two righteousnesses, but plainly deprives the human nature of Christ of
 the office of justifying. It is worth while to understand what the
 nature of his argument is. It is said in the same passage that Christ is
 made unto us *wisdom* (<span id="iv.iii.xii-p55.1"></span>[1 Cor.
-1:30](../../../bib/kjv/co1001.htm#030)<span
+1:30](../../../bib/kjv/co1001.htm#030.md)<span
 id="iv.iii.xii-p55.1"></span>); but this is true only of the eternal
 Word, and, therefore, it is not the man Christ that is made
 *righteousness*. I answer, that the only begotten Son of God was indeed
 his eternal wisdom, but that this title is applied to him by Paul in a
 different way—viz. because “in him are hid all the treasures of wisdom
 and righteousness,” (<span id="iv.iii.xii-p55.2"></span>[Col.
-2:3](../../../bib/kjv/col002.htm#003)<span
+2:3](../../../bib/kjv/col002.htm#003.md)<span
 id="iv.iii.xii-p55.2"></span>). That, therefore, which he had with the
 Father he manifested to us; and thus Paul’s expression refers not to the
 essence of the Son of God, but to our use, and is fitly applied to the
@@ -785,7 +785,7 @@ they could have no success, because they are not appointed for this
 purpose, it being the peculiar office of Christ, who “has redeemed us
 from the curse of the law, being made a curse for us,” (<span
 id="iv.iii.xii-p55.3"></span>[Gal.
-3:13](../../../bib/kjv/gal003.htm#013)<span
+3:13](../../../bib/kjv/gal003.htm#013.md)<span
 id="iv.iii.xii-p55.3"></span>). Those who deny that Christ is our
 righteousness, in respect of his divine nature, are wickedly charged by
 Osiander with leaving only a part of Christ, and (what is worse) with
@@ -794,7 +794,7 @@ still insist that we are not justified by the righteousness of God. For
 though we call Christ the author of life, inasmuch as he endured death
 that he might destroy him who had the power of death (<span
 id="iv.iii.xii-p55.4"></span>[Heb.
-2:14](../../../bib/kjv/heb002.htm#014)<span
+2:14](../../../bib/kjv/heb002.htm#014.md)<span
 id="iv.iii.xii-p55.4"></span>), we do not thereby rob him of this honor,
 in his whole character as God manifested in the flesh. We only make a
 distinction as to the manner in which the righteousness of God comes to
@@ -814,7 +814,7 @@ meaning. Not a whit more solid is his objection, that the name of
 righteousness is rightly and properly applied to that by which we are
 moved to act aright, but that it is God only that worketh in us both to
 will and to do (<span id="iv.iii.xii-p55.5"></span>[Phil.
-2:13](../../../bib/kjv/phi002.htm#013)<span
+2:13](../../../bib/kjv/phi002.htm#013.md)<span
 id="iv.iii.xii-p55.5"></span>). For we deny not that God by his Spirit
 forms us anew to holiness and righteousness of life; but we must first
 see whether he does this of himself, immediately, or by the hand of his
@@ -824,7 +824,7 @@ although righteousness comes to us from the secret fountain of the
 Godhead, it does not follow that Christ, who sanctified himself in the
 flesh on our account, is our righteousness in respect of his divine
 nature (<span id="iv.iii.xii-p55.6"></span>[John
-17:19](../../../bib/kjv/joh017.htm#019)<span
+17:19](../../../bib/kjv/joh017.htm#019.md)<span
 id="iv.iii.xii-p55.6"></span>). Not less frivolous is his observation,
 that the righteousness with which Christ himself was righteous was
 divine; for had not the will of the Father impelled him, he could not
@@ -837,7 +837,7 @@ of our righteousness, we are essentially righteous, and the essence of
 the divine righteousness dwells in us? In redeeming us, says Isaiah, “he
 (God) put on righteousness as a breastplate, and an helmet of salvation
 upon his head,” (<span id="iv.iii.xii-p55.7"></span>[Isaiah
-59:17](../../../bib/kjv/isa059.htm#017)<span
+59:17](../../../bib/kjv/isa059.htm#017.md)<span
 id="iv.iii.xii-p55.7"></span>), was this to deprive Christ of the armour
 which he had given him, and prevent him from being a perfect Redeemer?
 All that the Prophet meant was, that God borrowed nothing from an
@@ -847,7 +847,7 @@ that God set him forth “to declare his righteousness for the remission
 of sins.” This is not the least repugnant to his doctrine: in another
 place, that “by the obedience of one shall many be made righteous,”
 (<span id="iv.iii.xii-p55.8"></span>[Rom.
-5:19](../../../bib/kjv/rom005.htm#019)<span
+5:19](../../../bib/kjv/rom005.htm#019.md)<span
 id="iv.iii.xii-p55.8"></span>). In short, every one who, by the
 entanglement of a twofold righteousness, prevents miserable souls from
 resting entirely on the mere mercy of God, mocks Christ by putting on
@@ -864,8 +864,8 @@ may win Christ, and be found in him, not having mine own righteousness,
 which is of the law, but that which is through the faith of Christ, the
 righteousness which is of God by faith,” (<span
 id="iv.iii.xii-p56.1"></span>[Phil.
-3:8](../../../bib/kjv/phi003.htm#008),
-[9](../../../bib/kjv/phi003.htm#009)<span
+3:8](../../../bib/kjv/phi003.htm#008.md),
+[9](../../../bib/kjv/phi003.htm#009.md)<span
 id="iv.iii.xii-p56.1"></span>). You here see a comparison of contraries,
 and an intimation that every one who would obtain the righteousness of
 Christ must renounce his own. Hence he elsewhere declares the cause of
@@ -873,13 +873,13 @@ the rejection of the Jews to have been, that “they being ignorant of
 God’s righteousness, and going about to establish their own
 righteousness, have not submitted themselves unto the righteousness of
 God,” (<span id="iv.iii.xii-p56.2"></span>[Rom.
-10:3](../../../bib/kjv/rom010.htm#003)<span
+10:3](../../../bib/kjv/rom010.htm#003.md)<span
 id="iv.iii.xii-p56.2"></span>). If we destroy the righteousness of God
 by establishing our own righteousness, then, in order to obtain his
 righteousness, our own must be entirely abandoned. This also he shows,
 when he declares that boasting is not excluded by the Law, but by faith
 (<span id="iv.iii.xii-p56.3"></span>[Rom.
-3:27](../../../bib/kjv/rom003.htm#027)<span
+3:27](../../../bib/kjv/rom003.htm#027.md)<span
 id="iv.iii.xii-p56.3"></span>). Hence it follows, that so long as the
 minutes portion of our own righteousness remains, we have still some
 ground for boasting. Now if faith utterly excludes boasting, the
@@ -889,7 +889,7 @@ fourth chapter to the Romans as to leave no room for cavil or evasion.
 “If Abraham were justified by works he has whereof to glory;” and then
 it is added, “but not before God,” (<span
 id="iv.iii.xii-p56.4"></span>[Rom.
-4:2](../../../bib/kjv/rom004.htm#002)<span
+4:2](../../../bib/kjv/rom004.htm#002.md)<span
 id="iv.iii.xii-p56.4"></span>). The conclusion, therefore, is, that he
 was not justified by works. He then employs another argument from
 contraries—viz. when *reward* is paid to works, it is done *of debt*,
@@ -903,7 +903,7 @@ sporting with Scripture and in empty cavils, think they have a subtle
 evasion when they expound *works* to mean, such as unregenerated men do
 literally, and by the effect of free will, without the grace of Christ,
 and deny that these have any reference to spiritual works.41  <span
-id="fr_411"></span>[412](#fn_411) Thus according to them, man is
+id="fr_411"></span>[412](#fn_411.md) Thus according to them, man is
 justified by faith as well as by works, provided these are not his own
 works, but gifts of Christ and fruits of regeneration; Paul’s only
 object in so expressing himself being to convince the Jews, that in
@@ -913,13 +913,13 @@ alone, and not by studied efforts of our own nature. But they observe
 not that in the antithesis between Legal and Gospel righteousness, which
 Paul elsewhere introduces, all kinds of works, with whatever name
 adorned, are excluded (<span id="iv.iii.xii-p58.1"></span>[Gal.
-3:11](../../../bib/kjv/gal003.htm#011),
-[12](../../../bib/kjv/gal003.htm#012)<span
+3:11](../../../bib/kjv/gal003.htm#011.md),
+[12](../../../bib/kjv/gal003.htm#012.md)<span
 id="iv.iii.xii-p58.1"></span>). For he says that the righteousness of
 the Law consists in obtaining salvation by doing what the Law requires,
 but that the righteousness of faith consists in believing that Christ
 died and rose again (<span id="iv.iii.xii-p58.2"></span>[Rom.
-10:5-9](../../../bib/kjv/rom010.htm#005)<span
+10:5-9](../../../bib/kjv/rom010.htm#005.md)<span
 id="iv.iii.xii-p58.2"></span>). Moreover, we shall afterwards see, at
 the proper place, that the blessings of sanctification and
 justification, which we derive from Christ, are different. Hence it
@@ -948,7 +948,7 @@ gratuitous righteousness, but the assistance of the Spirit in the study
 of holiness. They quote from an Apostle: “He that comes to God must
 believe that he is, and that he is the rewarder of them that diligently
 seek him,” (<span id="iv.iii.xii-p59.1"></span>[Heb.
-11:6](../../../bib/kjv/heb011.htm#006)<span
+11:6](../../../bib/kjv/heb011.htm#006.md)<span
 id="iv.iii.xii-p59.1"></span>). But they observe not what the method of
 seeking is. Then in regard to the term *grace*, it is plain from their
 writings that they labour under a delusion. For Lombard holds that
@@ -1008,8 +1008,8 @@ the righteousness which is of faith speaketh on this wise,—If thou shalt
 confess with thy mouth the Lord Jesus, and shalt believe in thine heart
 that God has raised him from the dead, thou shalt be saved,” (<span
 id="iv.iii.xii-p61.1"></span>[Rom.
-10:5](../../../bib/kjv/rom010.htm#005),
-[6](../../../bib/kjv/rom010.htm#006)<span
+10:5](../../../bib/kjv/rom010.htm#005.md),
+[6](../../../bib/kjv/rom010.htm#006.md)<span
 id="iv.iii.xii-p61.1"></span>:9). Do you see how he makes the
 distinction between the Law and the Gospel to be, that the former gives
 justification to works, whereas the latter bestows it freely without any
@@ -1019,7 +1019,7 @@ by the Gospel is free from any terms of Law. It is for this reason he
 more than once places the promise in diametrical opposition to the Law.
 “If the inheritance be of the law, it is no more of promise,” (<span
 id="iv.iii.xii-p61.2"></span>[Gal.
-3:18](../../../bib/kjv/gal003.htm#018)<span
+3:18](../../../bib/kjv/gal003.htm#018.md)<span
 id="iv.iii.xii-p61.2"></span>). Expressions of similar import occur in
 the same chapter. Undoubtedly the Law also has its promises; and,
 therefore, between them and the Gospel promises there must be some
@@ -1041,10 +1041,10 @@ of no value as a ground of merit.
 is justified by the law in the sight of God, it is evident: for, The
 just shall live by faith. And the law is not of faith: but, The man that
 does them shall live in them,” (<span id="iv.iii.xii-p62.1"></span>[Gal.
-3:11](../../../bib/kjv/gal003.htm#011),
-[12](../../../bib/kjv/gal003.htm#012)<span
+3:11](../../../bib/kjv/gal003.htm#011.md),
+[12](../../../bib/kjv/gal003.htm#012.md)<span
 id="iv.iii.xii-p62.1"></span>; <span id="iv.iii.xii-p62.2"></span>[Hab.
-2:4](../../../bib/kjv/hab002.htm#004)<span
+2:4](../../../bib/kjv/hab002.htm#004.md)<span
 id="iv.iii.xii-p62.2"></span>). How could the argument hold unless it be
 true that works are not to be taken into account, but are to be
 altogether separated? The Law, he says, is different from faith. Why?
@@ -1058,7 +1058,7 @@ confine justification to works, but places it entirely in the mercy of
 God. In like manner, Paul contends, in the Epistle to the Romans, that
 Abraham had no ground of glorying, because faith was imputed to him for
 righteousness (<span id="iv.iii.xii-p62.3"></span>[Rom.
-4:2](../../../bib/kjv/rom004.htm#002)<span
+4:2](../../../bib/kjv/rom004.htm#002.md)<span
 id="iv.iii.xii-p62.3"></span>); and he adds in confirmation, that the
 proper place for justification by faith is where there are no works to
 which reward is due. “To him that worketh is the reward not reckoned of
@@ -1066,14 +1066,14 @@ grace, but of debt.” What is given to faith is gratuitous, this being
 the force of the meaning of the words which he there employs. Shortly
 after he adds, “Therefore it is of faith, that it might be by grace,”
 (<span id="iv.iii.xii-p62.4"></span>[Rom.
-4:16](../../../bib/kjv/rom004.htm#016)<span
+4:16](../../../bib/kjv/rom004.htm#016.md)<span
 id="iv.iii.xii-p62.4"></span>); and hence infers that the inheritance is
 gratuitous because it is procured by faith. How so but just because
 faiths without the aid of works leans entirely on the mercy of God? And
 in the same sense, doubtless, he elsewhere teaches, that the
 righteousness of God without the Law was manifested, being witnessed by
 the Law and the Prophets (<span id="iv.iii.xii-p62.5"></span>[Rom.
-3:21](../../../bib/kjv/rom003.htm#021)<span
+3:21](../../../bib/kjv/rom003.htm#021.md)<span
 id="iv.iii.xii-p62.5"></span>); for excluding the Law, he declares that
 it is not aided by worlds, that we do not obtain it by working, but are
 destitute when we draw near to receive it.
@@ -1082,17 +1082,17 @@ destitute when we draw near to receive it.
 fairness the Sophists of the present day cavil at our doctrine, when we
 say that a man is justified by faith alone (<span
 id="iv.iii.xii-p63.1"></span>[Rom.
-4:2](../../../bib/kjv/rom004.htm#002)<span
+4:2](../../../bib/kjv/rom004.htm#002.md)<span
 id="iv.iii.xii-p63.1"></span>). They dare not deny that *he is justified
 by faith*, seeing Scripture so often declares it; but as the word
 *alone* is nowhere expressly used they will not tolerate its being
-added.41  <span id="fr_412"></span>[413](#fn_412) Is it so? What answer,
+added.41  <span id="fr_412"></span>[413](#fn_412.md) Is it so? What answer,
 then will they give to the words of Paul, when he contends that
 righteousness is not of faith unless it be gratuitous? How can it be
 gratuitous, and yet by works? By what cavils, moreover, will they evade
 his declaration in another place, that in the Gospel the righteousness
 of God is manifested? (<span id="iv.iii.xii-p64.1"></span>[Rom.
-1:17](../../../bib/kjv/rom001.htm#017)<span
+1:17](../../../bib/kjv/rom001.htm#017.md)<span
 id="iv.iii.xii-p64.1"></span>). If righteousness is manifested in the
 Gospel, it is certainly not a partial or mutilated, but a full and
 perfect righteousness. The Law, therefore, has no part in its and their
@@ -1102,9 +1102,9 @@ faith alone when he disconnects it with works? What I would ask, is
 meant by the expressions, “The righteousness of God without the law is
 manifested;” “Being justified freely by his grace;” “Justified by faith
 without the deeds of the law?” (<span id="iv.iii.xii-p64.2"></span>[Rom.
-3:21](../../../bib/kjv/rom003.htm#021),
-[24](../../../bib/kjv/rom003.htm#024),
-[28](../../../bib/kjv/rom003.htm#028)<span
+3:21](../../../bib/kjv/rom003.htm#021.md),
+[24](../../../bib/kjv/rom003.htm#024.md),
+[28](../../../bib/kjv/rom003.htm#028.md)<span
 id="iv.iii.xii-p64.2"></span>). Here they have an ingenious subterfuge,
 one which, though not of their own devising but taken from Origin and
 some ancient writers, is most childish. They pretend that the works
@@ -1113,11 +1113,11 @@ their constant wrangling, that they possess not even the first elements
 of logic. Do they think the Apostle was raving when he produced, in
 proof of his doctrine, these passages? “The man that does them shall
 live in them,” (<span id="iv.iii.xii-p64.3"></span>[Gal.
-3:12](../../../bib/kjv/gal003.htm#012)<span
+3:12](../../../bib/kjv/gal003.htm#012.md)<span
 id="iv.iii.xii-p64.3"></span>). “Cursed is every one that continueth not
 in all things that are written in the book of the law to do them,”
 (<span id="iv.iii.xii-p64.4"></span>[Gal.
-3:10](../../../bib/kjv/gal003.htm#010)<span
+3:10](../../../bib/kjv/gal003.htm#010.md)<span
 id="iv.iii.xii-p64.4"></span>). Unless they are themselves raving, they
 will not say that life was promised to the observers of ceremonies, and
 the curse denounced only against the transgressors of them. If these
@@ -1126,10 +1126,10 @@ that moral works also are excluded from the power of justifying. To the
 same effect are the arguments which he employs. “By the deeds of the law
 there shall no flesh be justified in his sight: for by the law is the
 knowledge of sin,” (<span id="iv.iii.xii-p64.5"></span>[Rom.
-3:20](../../../bib/kjv/rom003.htm#020)<span
+3:20](../../../bib/kjv/rom003.htm#020.md)<span
 id="iv.iii.xii-p64.5"></span>). “The law worketh wrath,” (<span
 id="iv.iii.xii-p64.6"></span>[Rom.
-4:15](../../../bib/kjv/rom004.htm#015)<span
+4:15](../../../bib/kjv/rom004.htm#015.md)<span
 id="iv.iii.xii-p64.6"></span>), and therefore not righteousness. “The
 law cannot pacify the conscience,” and therefore cannot confer
 righteousness. “Faith is imputed for righteousness,” and therefore
@@ -1139,8 +1139,8 @@ there been a law given which could have given life, verily righteousness
 should have been by the law. But the Scripture has concluded all under
 sin, that the promise by faith of Jesus Christ might be given to them
 that believe,” (<span id="iv.iii.xii-p64.7"></span>[Gal.
-3:21](../../../bib/kjv/gal003.htm#021),
-[22](../../../bib/kjv/gal003.htm#022)<span
+3:21](../../../bib/kjv/gal003.htm#021.md),
+[22](../../../bib/kjv/gal003.htm#022.md)<span
 id="iv.iii.xii-p64.7"></span>). Let them maintain, if they dare, that
 these things apply to ceremonies, and not to morals, and the very
 children will laugh at their effrontery. The true conclusion, therefore,
@@ -1163,7 +1163,7 @@ the covenant, that was confirmed before of God in Christ, the law, which
 was four hundred and thirty years after, cannot disannul, that it should
 make the promise of none effect,” (<span
 id="iv.iii.xii-p65.1"></span>[Gal.
-3:17](../../../bib/kjv/gal003.htm#017)<span
+3:17](../../../bib/kjv/gal003.htm#017.md)<span
 id="iv.iii.xii-p65.1"></span>). The unskillful would ridicule the
 argument that there could be righteous works before the promulgation of
 the Law, but the Apostle, knowing that works could derive this value
@@ -1175,8 +1175,8 @@ such works that a question could be raised; although he sometimes,
 without addition, excepts all kinds of works whatever, as when on the
 testimony of David he speaks of the man to whom the Lord imputeth
 righteousness without works (<span id="iv.iii.xii-p65.2"></span>[Rom.
-4:5](../../../bib/kjv/rom004.htm#005),
-[6](../../../bib/kjv/rom004.htm#006)<span
+4:5](../../../bib/kjv/rom004.htm#005.md),
+[6](../../../bib/kjv/rom004.htm#006.md)<span
 id="iv.iii.xii-p65.2"></span>). No cavils, therefore, can enable them to
 prove that the exclusion of works is not general. In vain do they lay
 hold of the frivolous subtilty, that the *faith alone*, by which we are
@@ -1184,7 +1184,7 @@ justified, “*worketh by love*,” and that love, therefore, is the
 foundation of justification. We, indeed, acknowledge with Paul, that the
 only faith which justifies is that which works by love (<span
 id="iv.iii.xii-p65.3"></span>[Gal.
-3:6](../../../bib/kjv/gal003.htm#006)<span
+3:6](../../../bib/kjv/gal003.htm#006.md)<span
 id="iv.iii.xii-p65.3"></span>); but love does not give it its justifying
 power. Nay, its only means of justifying consists in its bringing us
 into communication with the righteousness of Christ. Otherwise the whole
@@ -1207,15 +1207,15 @@ shortened, that it cannot save; neither his ear heavy, that it cannot
 hear: but your iniquities have separated between you and your God, and
 your sins have hid his face from you, that he will not hear,” (<span
 id="iv.iii.xii-p66.1"></span>[Isa.
-59:1](../../../bib/kjv/isa059.htm#001),
-[2](../../../bib/kjv/isa059.htm#002)<span
+59:1](../../../bib/kjv/isa059.htm#001.md),
+[2](../../../bib/kjv/isa059.htm#002.md)<span
 id="iv.iii.xii-p66.1"></span>). We are here told that sin is a
 separation between God and man; that His countenance is turned away from
 the sinner; and that it cannot be otherwise, since, to have any
 intercourse with sin is repugnant to his righteousness. Hence the
 Apostle shows that man is at enmity with God until he is restored to
 favour by Christ (<span id="iv.iii.xii-p66.2"></span>[Rom.
-5:8-10](../../../bib/kjv/rom005.htm#008)<span
+5:8-10](../../../bib/kjv/rom005.htm#008.md)<span
 id="iv.iii.xii-p66.2"></span>). When the Lord, therefore, admits him to
 union, he is said to justify him, because he can neither receive him
 into favor, nor unite him to himself, without changing his condition
@@ -1235,7 +1235,7 @@ unto us the word of reconciliation.” He then subjoins the sum of his
 embassy: “He has made him to be sin for us who knew no sin; that we
 might be made the righteousness of God in him,” (<span
 id="iv.iii.xii-p67.1"></span>[2 Cor.
-5:19-21](../../../bib/kjv/co2005.htm#019)<span
+5:19-21](../../../bib/kjv/co2005.htm#019.md)<span
 id="iv.iii.xii-p67.1"></span>). He here uses righteousness and
 reconciliation indiscriminately, to make us understand that the one
 includes the other. The mode of obtaining this righteousness he explains
@@ -1247,17 +1247,17 @@ righteousness is imputed without works, because he declares the man to
 be blessed “whose transgression is forgiven, whose sin is covered,” and
 “unto whom the Lord imputeth not iniquity,” (<span
 id="iv.iii.xii-p67.2"></span>[Rom.
-4:6](../../../bib/kjv/rom004.htm#006)<span
+4:6](../../../bib/kjv/rom004.htm#006.md)<span
 id="iv.iii.xii-p67.2"></span>; <span id="iv.iii.xii-p67.3"></span>[Ps.
-32:1](../../../bib/kjv/psa032.htm#001),
-[2](../../../bib/kjv/psa032.htm#002)<span
+32:1](../../../bib/kjv/psa032.htm#001.md),
+[2](../../../bib/kjv/psa032.htm#002.md)<span
 id="iv.iii.xii-p67.3"></span>). There he undoubtedly uses blessedness
 for righteousness; and as he declares that it consists in forgiveness of
 sins, there is no reason why we should define it otherwise. Accordingly,
 Zacharias, the father of John the Baptist, sings that the knowledge of
 salvation consists in the forgiveness of sins (<span
 id="iv.iii.xii-p67.4"></span>[Luke
-1:77](../../../bib/kjv/luk001.htm#077)<span
+1:77](../../../bib/kjv/luk001.htm#077.md)<span
 id="iv.iii.xii-p67.4"></span>). The same course was followed by Paul
 when, in addressing the people of Antioch, he gave them a summary of
 salvation. Luke states that he concluded in this way: “Through this man
@@ -1265,8 +1265,8 @@ is preached unto you the forgiveness of sins, and by him all that
 believe are justified from all things from which ye could not be
 justified by the law of Moses,” (<span
 id="iv.iii.xii-p67.5"></span>[Acts
-13:38](../../../bib/kjv/act013.htm#038),
-[39](../../../bib/kjv/act013.htm#039)<span
+13:38](../../../bib/kjv/act013.htm#038.md),
+[39](../../../bib/kjv/act013.htm#039.md)<span
 id="iv.iii.xii-p67.5"></span>). Thus the Apostle connects forgiveness of
 sins with justification in such a way as to show that they are
 altogether the same; and hence he properly argues that justification,
@@ -1293,11 +1293,11 @@ it brings him under the influence of the Spirit of God by whom he is
 rendered righteous. This is so repugnant to the above doctrine that it
 never can be reconciled with it. There can be no doubt that he who is
 taught to seek righteousness out of himself does not previously possess
-it in himself.42  <span id="fr_413"></span>[414](#fn_413) This is most
+it in himself.42  <span id="fr_413"></span>[414](#fn_413.md) This is most
 clearly declared by the Apostle, when he says, that he who knew no sin
 was made an expiatory victim for sin, that we might be made the
 righteousness of God in him (<span id="iv.iii.xii-p69.1"></span>[2 Cor.
-5:21](../../../bib/kjv/co2005.htm#021)<span
+5:21](../../../bib/kjv/co2005.htm#021.md)<span
 id="iv.iii.xii-p69.1"></span>). You see that our righteousness is not in
 ourselves, but in Christ; that the only way in which we become possessed
 of it is by being made partakers with Christ, since with him we possess
@@ -1305,8 +1305,8 @@ all riches. There is nothing repugnant to this in what he elsewhere
 says: “God sending his own Son in the likeness of sinful flesh, and for
 sin condemned sin in the flesh: that the righteousness of the law might
 be fulfilled in us,” (<span id="iv.iii.xii-p69.2"></span>[Rom.
-8:3](../../../bib/kjv/rom008.htm#003),
-[4](../../../bib/kjv/rom008.htm#004)<span
+8:3](../../../bib/kjv/rom008.htm#003.md),
+[4](../../../bib/kjv/rom008.htm#004.md)<span
 id="iv.iii.xii-p69.2"></span>). Here the only fulfillment to which he
 refers is that which we obtain by imputation. Our Lord Jesus Christ
 communicates his righteousness to us, and so by some wondrous ways in so
@@ -1315,7 +1315,7 @@ That this was the Apostle’s view is abundantly clear from another
 sentiment which he had expressed a little before: “As by one man’s
 disobedience many were made sinners, so by the obedience of one shall
 many be made righteous,” (<span id="iv.iii.xii-p69.3"></span>[Rom.
-5:19](../../../bib/kjv/rom005.htm#019)<span
+5:19](../../../bib/kjv/rom005.htm#019.md)<span
 id="iv.iii.xii-p69.3"></span>). To declare that we are deemed righteous,
 solely because the obedience of Christ is imputed to us as if it where
 our own, is just to place our righteousness in the obedience of Christ.
@@ -1326,7 +1326,7 @@ brother, put on his garments which gave forth a most pleasant odour, and
 thus introduced himself to his father that he might receive a blessing
 to his own advantage, though under the person of another, so we conceal
 ourselves under the precious purity42  <span
-id="fr_414"></span>[415](#fn_414) of Christ, our first-born brother,
+id="fr_414"></span>[415](#fn_414.md) of Christ, our first-born brother,
 that we may obtain an attestation of righteousness from the presence of
 God. The words of Ambrose are,—“Isaac’s smelling the odour of his
 garments, perhaps means that we are justified not by works, but by
@@ -1341,19 +1341,19 @@ covered and buried by his perfection.
 
 ### Footnotes
 
-<span id="fn_397"></span>[398](inst064.htm#fr_397) <span
+<span id="fn_397"></span>[398](inst064.htm#fr_397.md) <span
 id="iv.iii.xii-p28.1"></span>
 
 <span id="iv.iii.xii-p29"></span>04 404 See Institutes, Book 2 chap. 6
 and 7, and Book 3 from the commencement to the present chapter.
 
-<span id="fn_398"></span>[399](inst064.htm#fr_398) <span
+<span id="fn_398"></span>[399](inst064.htm#fr_398.md) <span
 id="iv.iii.xii-p31.5"></span>
 
 <span id="iv.iii.xii-p32"></span>05 405 Latin, “etiam dum Latine
 legitur.”—French, “mesme en Grec et en Latin;” even in Greek and Latin
 
-<span id="fn_399"></span>[400](inst064.htm#fr_399) <span
+<span id="fn_399"></span>[400](inst064.htm#fr_399.md) <span
 id="iv.iii.xii-p33.4"></span>
 
 <span id="iv.iii.xii-p34"></span>06 406 French, “Dont il appert qu’il
@@ -1363,20 +1363,20 @@ failli;”—whence it appears that he sets down as oppopsites the two
 things, To be justified, and To be held guilty, in that the process is
 brought against man who has failed.
 
-<span id="fn_400"></span>[401](inst064.htm#fr_400) <span
+<span id="fn_400"></span>[401](inst064.htm#fr_400.md) <span
 id="iv.iii.xii-p35.1"></span>
 
 <span id="iv.iii.xii-p36"></span>07 407 French “Que les poures ames ne
 sauroyent comprendre en telle obscurité la grace de Christ;”—that poor
 souls cannot in such obscurity comprehend the grace of Christ.
 
-<span id="fn_401"></span>[402](inst064.htm#fr_401) <span
+<span id="fn_401"></span>[402](inst064.htm#fr_401.md) <span
 id="iv.iii.xii-p36.1"></span>
 
 <span id="iv.iii.xii-p37"></span>08 408 French, “C’est, que l’ame est de
 l’essence de Dieu;”—that is, that the soul is of the essence of God.
 
-<span id="fn_402"></span>[403](inst064.htm#fr_402) <span
+<span id="fn_402"></span>[403](inst064.htm#fr_402.md) <span
 id="iv.iii.xii-p38.1"></span>
 
 <span id="iv.iii.xii-p39"></span>09 409 French, “Mais comme le principe
@@ -1386,7 +1386,7 @@ multitude de queuse;”—But as the principle which he adopts is like a
 cuttlefish, which, casting out its blood, which is black as ink,
 troubles the water all around, to hide a great multitude of tails.
 
-<span id="fn_403"></span>[404](inst064.htm#fr_403) <span
+<span id="fn_403"></span>[404](inst064.htm#fr_403.md) <span
 id="iv.iii.xii-p40.1"></span>
 
 <span id="iv.iii.xii-p41"></span>10 410 French, “Quant à d’autres folies
@@ -1397,14 +1397,14 @@ extravagant follies of Osiander, every man of sound judgment will reject
 them; for instance, when he says that faith is Jesus Christ, as much as
 if he said, that an earthen pot is the treasure which is hidden in it.
 
-<span id="fn_404"></span>[405](inst064.htm#fr_404) <span
+<span id="fn_404"></span>[405](inst064.htm#fr_404.md) <span
 id="iv.iii.xii-p42.1"></span>
 
 <span id="iv.iii.xii-p43"></span>11 411 French, “Faisant samblant de les
 rauir à la divinité d’icelui;”—under pretence of leading them to his
 divinity.
 
-<span id="fn_405"></span>[406](inst064.htm#fr_405) <span
+<span id="fn_405"></span>[406](inst064.htm#fr_405.md) <span
 id="iv.iii.xii-p45.2"></span>
 
 <span id="iv.iii.xii-p46"></span>12 412 French, “Il magnifie la justice
@@ -1413,7 +1413,7 @@ ce poinct, que la justice de Dieu nous est essencielle;”—He magnifies
 the righteousness of God above measure; but it is to triumph, as if he
 had gained this point, that the righteousness of God is essential to us.
 
-<span id="fn_406"></span>[407](inst064.htm#fr_406) <span
+<span id="fn_406"></span>[407](inst064.htm#fr_406.md) <span
 id="iv.iii.xii-p46.1"></span>
 
 <span id="iv.iii.xii-p47"></span>13 413 The French adds “signifiant, que
@@ -1423,7 +1423,7 @@ Dieu;”—meaning, that those of whom he speaks were swimming between two
 streams; that they preferred keeping their good reputation in the world,
 to being prized in the sight of God.
 
-<span id="fn_407"></span>[408](inst064.htm#fr_407) <span
+<span id="fn_407"></span>[408](inst064.htm#fr_407.md) <span
 id="iv.iii.xii-p47.3"></span>
 
 <span id="iv.iii.xii-p48"></span>14 414 French, “Pour ceste cause j’ay
@@ -1437,28 +1437,28 @@ ease, and to the fill; and that by his means heavenly blessings rise and
 flow to us, which blessings would profit us nothing, remaining in the
 majesty of God, which is, as it were, a profound abyss.
 
-<span id="fn_408"></span>[409](inst064.htm#fr_408) <span
+<span id="fn_408"></span>[409](inst064.htm#fr_408.md) <span
 id="iv.iii.xii-p49.1"></span>
 
 <span id="iv.iii.xii-p50"></span>15 415 The Latin, “ideo Zuinglianos
 odiose nominat;” is in the French simply, “condamne
 furieusement;”—furiously condemns.
 
-<span id="fn_409"></span>[410](inst064.htm#fr_409) <span
+<span id="fn_409"></span>[410](inst064.htm#fr_409.md) <span
 id="iv.iii.xii-p50.1"></span>
 
 <span id="iv.iii.xii-p51"></span>16 416 Latin, “crassa mixtura;”—French,
 “mixtion telle que les viandes qu nous mangeons;”—mixture such as the
 victuals we eat.
 
-<span id="fn_410"></span>[411](inst064.htm#fr_410) <span
+<span id="fn_410"></span>[411](inst064.htm#fr_410.md) <span
 id="iv.iii.xii-p51.2"></span>
 
 <span id="iv.iii.xii-p52"></span>17 417 The French adds, “Osiander tire
 de la que Dieu a meslée son essence avec la nostre;”—Osiander implies
 from this that God has mingled his essence with ours.
 
-<span id="fn_411"></span>[412](inst064.htm#fr_411) <span
+<span id="fn_411"></span>[412](inst064.htm#fr_411.md) <span
 id="iv.iii.xii-p57.1"></span>
 
 <span id="iv.iii.xii-p58"></span>18 418 French, “Ainsi ils disent que
@@ -1467,7 +1467,7 @@ la vertu du Sainct Esprit;”—Thus they say that has no reference at all
 to the good works of believers, which are done by the power of the Holy
 Spirit.
 
-<span id="fn_412"></span>[413](inst064.htm#fr_412) <span
+<span id="fn_412"></span>[413](inst064.htm#fr_412.md) <span
 id="iv.iii.xii-p63.2"></span>
 
 <span id="iv.iii.xii-p64"></span>19 419 French, “Mais pource que ce mot
@@ -1475,7 +1475,7 @@ Seule, n’y est point exprimé, ils nous reprochent qu’il est adjousté du
 notre;”—but because this word Alone is not expressed, they upbraid us
 with having it added of our own accord.
 
-<span id="fn_413"></span>[414](inst064.htm#fr_413) <span
+<span id="fn_413"></span>[414](inst064.htm#fr_413.md) <span
 id="iv.iii.xii-p68.1"></span>
 
 <span id="iv.iii.xii-p69"></span>20 420 French, “Ceci est fort contraire
@@ -1485,7 +1485,7 @@ propre;”—This is quite contrary to the doctrine above laid down; for
 there is no doubt, that he who is to seek righteousness out of himself,
 is devoid of righteousness in himself.
 
-<span id="fn_414"></span>[415](inst064.htm#fr_414) <span
+<span id="fn_414"></span>[415](inst064.htm#fr_414.md) <span
 id="iv.iii.xii-p69.4"></span>
 
 <span id="iv.iii.xii-p70"></span>21 421 French, “Sous la robbe;”—under
@@ -1495,4 +1495,4 @@ the robe.
 
 [Next: CHAPTER 12. - NECESSITY OF CONTEMPLATING THE JUDGMENT-SEAT OF
 GOD, IN ORDER TO BE SERIOUSLY CONVINCED OF THE DOCTRINE OF GRATUITOUS
-JUSTIFICATION.](inst065)
+JUSTIFICATION.](inst065.md)

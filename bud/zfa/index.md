@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](zfa00)    [Page
-Index](pageidx)    [Text \[Zipped\]](zfa.txt.gz)
+[Contents](#contents)    [Start Reading](zfa00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](zfa.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -57,29 +57,29 @@ his anti-war declaration.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](zfa00)  
-[Translator's Preface](zfa01)  
-[Contents](zfa02)  
-[The Sutra of Forty-Two Chapters](zfa03)  
-[The God-Conception of Buddhism](zfa04)  
-[Assertions and Denials](zfa05)  
-[Immortality](zfa06)  
-[Buddhist Faith](zfa07)  
-[Buddhist Ethics](zfa08)  
-[What is Buddhism?](zfa09)  
-[The Middle Way](zfa10)  
-[The Wheel of the Good Law](zfa11)  
-[The Phenomenal And The Supraphenomenal](zfa12)  
-[Reply to a Christian Critic](zfa13)  
-[Ignorance and Enlightenment](zfa14)  
-[Spiritual Enlightenment](zfa15)  
-[Practice of Dhyana](zfa16)  
-[Kwannon Bosatz](zfa17)  
-[Buddhism and Oriental Culture](zfa18)  
-[The Story of Deer Park](zfa19)  
-[The Story of the Gem-Hunting](zfa20)  
-[The Sacrifice for a Stanza](zfa21)  
-[Buddhist View of War](zfa22)  
-[At The Battle of Nan-Shan Hill](zfa23)  
+<span id="contents"></span> [Title Page](zfa00.md)  
+[Translator's Preface](zfa01.md)  
+[Contents](zfa02.md)  
+[The Sutra of Forty-Two Chapters](zfa03.md)  
+[The God-Conception of Buddhism](zfa04.md)  
+[Assertions and Denials](zfa05.md)  
+[Immortality](zfa06.md)  
+[Buddhist Faith](zfa07.md)  
+[Buddhist Ethics](zfa08.md)  
+[What is Buddhism?](zfa09.md)  
+[The Middle Way](zfa10.md)  
+[The Wheel of the Good Law](zfa11.md)  
+[The Phenomenal And The Supraphenomenal](zfa12.md)  
+[Reply to a Christian Critic](zfa13.md)  
+[Ignorance and Enlightenment](zfa14.md)  
+[Spiritual Enlightenment](zfa15.md)  
+[Practice of Dhyana](zfa16.md)  
+[Kwannon Bosatz](zfa17.md)  
+[Buddhism and Oriental Culture](zfa18.md)  
+[The Story of Deer Park](zfa19.md)  
+[The Story of the Gem-Hunting](zfa20.md)  
+[The Sacrifice for a Stanza](zfa21.md)  
+[Buddhist View of War](zfa22.md)  
+[At The Battle of Nan-Shan Hill](zfa23.md)  
 [An Address Delivered at a Service Held in Memory of Those Who Died in
-The Russo-Japanese War](zfa24)  
+The Russo-Japanese War](zfa24.md)  

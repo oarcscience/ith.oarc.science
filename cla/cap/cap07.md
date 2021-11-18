@@ -1,10 +1,10 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](cap06)  [Next](cap08) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](cap06)  [Next](cap08.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_08"></span> [![](tn/08.jpg)  
-Click to enlarge](img/08.jpg)  
+Click to enlarge](img/08.jpg.md)  
 Cupid Rebuked
 
 # Part VI.
@@ -436,4 +436,4 @@ ground, and lay there as a sleeping corpse.
 
 ------------------------------------------------------------------------
 
-[Next: Part VII](cap08)
+[Next: Part VII](cap08.md)

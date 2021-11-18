@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft39)  [Next](pft41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft39)  [Next](pft41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ it did not seem crowded.
 Then he told the people that he was going on a long journey and that all
 who believed he had great power could go with him, while all who
 remained behind would be changed into animals and buso.  <span
-id="fr_124"></span>[125](pft68.htm#fn_124) He started out, many
+id="fr_124"></span>[125](pft68.htm#fn_124.md) He started out, many
 following him, and it was as he said. For those that refused to go were
 immediately changed into animals and buso.
 
@@ -82,7 +82,7 @@ go to his father, so he leaned an arrow against a baliti tree and sat
 down on it. Slowly it began to go down and carried him to his father's
 place, but when he arrived he could find no people. He looked here and
 there and could find nothing but a gun made of gold.  <span
-id="fr_125"></span>[126](pft68.htm#fn_125) This made him very sorrowful
+id="fr_125"></span>[126](pft68.htm#fn_125.md) This made him very sorrowful
 and he did not know what to do until some white bees which were in the
 house said to him:
 
@@ -102,8 +102,8 @@ Finally Manama told the spirits to allow him to go, so they made a chain
 of the leaves of the karan grass and tied it to his legs. Then they let
 him down slowly head first, and when he reached the ground he was no
 longer a man but an owl.  <span
-id="fr_126"></span>[127](pft68.htm#fn_126)
+id="fr_126"></span>[127](pft68.htm#fn_126.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Creation](pft41)
+[Next: The Story of the Creation](pft41.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs21)  [Next](pifs23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs21)  [Next](pifs23.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ the rejoicing of all the people of Acoma.
 
 ------------------------------------------------------------------------
 
-[Next: XX. The Town of the Snake-Girls](pifs23)
+[Next: XX. The Town of the Snake-Girls](pifs23.md)

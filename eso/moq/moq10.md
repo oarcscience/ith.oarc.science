@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](moq09)  [Next](moq11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](moq09)  [Next](moq11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysteries of the Qabalah*, by Elias Gewurz, \[1922\], at Intangible
 Textual Heritage
 
@@ -160,7 +160,7 @@ evil, so that <span class="smallcaps">nothing</span> is left but the
 Perfected One, the Tahar or Arhat.
 
 This is an illustration of the method called Temura. Let us now study
-that of Gematria or numerical valuation and [incidentally](errata.htm#5)
+that of Gematria or numerical valuation and [incidentally](errata.htm#5.md)
 learn the secret of the wonderful number thirty-three, a secret
 especially interesting to Freemasons.
 
@@ -244,4 +244,4 @@ brothers, remembering the jewels from the Hall of Wisdom as set down in
 
 ------------------------------------------------------------------------
 
-[Next: The Literature of the Qabalah Throughout the Ages](moq11)
+[Next: The Literature of the Qabalah Throughout the Ages](moq11.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft13)  [Next](gft15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft13)  [Next](gft15.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ who became a worthy king, and won his people's love.
 
 ------------------------------------------------------------------------
 
-[Next: Part One: How Theseus Lifted the Stone](gft15)
+[Next: Part One: How Theseus Lifted the Stone](gft15.md)

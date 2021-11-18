@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate14)  [Next](gate16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate14)  [Next](gate16.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ intruder, and served to catch any rain-water which might make its way
 down the corridors from the entrance. Beyond this chamber are two halls,
 and from the first of these Belzoni passed through other corridors and
 rooms until he entered the vaulted chamber in which stood the
-sarcophagus. <span id="fr_0"></span>[1](#fn_0) The sarcophagus chamber
+sarcophagus. <span id="fr_0"></span>[1](#fn_0.md) The sarcophagus chamber
 is situated at a distance of 320 feet from the entrance to the first
 corridor, and is 180 feet below the level of the ground. Belzoni
 succeeded in bringing the sarcophagus from its chamber into the light of
@@ -53,7 +53,7 @@ hollowed out of monolithic blocks of alabaster,
 <span id="page_45">p. 45</span>
 
 and it is probable, as Mr. Sharpe says, <span
-id="fr_1"></span>[1](#fn_1) that these were quarried in the mountains
+id="fr_1"></span>[1](#fn_1.md) that these were quarried in the mountains
 near Alabastronpolis, i.e., the district which was known to the
 Egyptians by the name of Het-nub, and is situated near the ruins known
 in modern times by the name of Tell al-'Amarna. In the Yet-nub quarries
@@ -297,7 +297,7 @@ VII\. Osiris, the king, the lord of the two lands, MEN-MAAT-RA, whose
 word is *maat*, the son of the Sun, loving him, SETI MER-EN-PTAH, saith
 the
 
-### CHAPTER OF COMING FORTH BY DAY AND OF MAKING A WAY THROUGH AMMEHET. <span id="fr_2"></span>[1](#fn_2)
+### CHAPTER OF COMING FORTH BY DAY AND OF MAKING A WAY THROUGH AMMEHET. <span id="fr_2"></span>[1](#fn_2.md)
 
 Saith Osiris, the king, the lord of the two lands, MEN-MAAT-RA, whose
 word is *maat*, the son of the Sun, \[proceeding\] from his body, loving
@@ -326,7 +326,7 @@ your arms against the Osiris, the king, the lord of the two lands,
 MEN-MAAT-RA, whose word is *maat*, the son of the Sun, \[proceeding\]
 from his body, loving him, the lord of diadems, SETI MER-EN-PTAH, whose
 word is *maat*, because \[my\] bread is in the city of PE, <span
-id="fr_3"></span>[1](#fn_3) and my ale is in the city Of TEP, and my
+id="fr_3"></span>[1](#fn_3.md) and my ale is in the city Of TEP, and my
 arms are united
 
 <span id="page_63">p. 63</span>
@@ -335,7 +335,7 @@ in the divine house which my father hath given unto me. He hath
 stablished for me a house in the high place of the lands, and there are
 wheat and barley therein, the quantity of which is unknown. The son of
 my body acteth for me there as *kher-heb*. <span
-id="fr_4"></span>[1](#fn_4) Grant ye, unto me sepulchral offerings, that
+id="fr_4"></span>[1](#fn_4.md) Grant ye, unto me sepulchral offerings, that
 is to say, incense, and *merhet* unguent, and all beautiful and pure
 things of every kind whereon the God liveth. Osiris, the king,
 MEN-MAAT-RA, whose word is *maat*, the son of the Sun, \[proceeding\]
@@ -343,9 +343,9 @@ from his body, loving him, the lord of diadems, the ruler of joy of
 heart, SETI MER-EN-PTAH, whose word is *maat*, existeth for ever in all
 the transformations which it pleaseth \[him to make\]. He floateth down
 the river, he saileth up into SEKHET-AARU, <span
-id="fr_5"></span>[2](#fn_5) he reacheth SEKHET-HETEP. <span
-id="fr_6"></span>[3](#fn_6) I am the double Lion-god." <span
-id="fr_7"></span>[4](#fn_7)
+id="fr_5"></span>[2](#fn_5.md) he reacheth SEKHET-HETEP. <span
+id="fr_6"></span>[3](#fn_6.md) I am the double Lion-god." <span
+id="fr_7"></span>[4](#fn_7.md)
 
 VIII\. Saith Osiris, the king, the lord of the two lands, MEN-MAAT-RA,
 whose word is *maat*, son of the Sun, loving him, SETI MER-EN-PTAH,
@@ -371,7 +371,7 @@ IX\. Saith Osiris, the king, the lord of the two lands, MEN-MAAT-RA,
 whose word is *maat*, the son of the Sun, \[proceeding\] from his body,
 loving him, the lord of diadems, SETI MER-EN-PTAH, whose word is *maat*,
 
-### \[THE CHAPTER OF CAUSING THE SOUL TO BE UNITED TO ITS BODY IN THE UNDERWORLD\] <span id="fr_8"></span>[1](#fn_8)
+### \[THE CHAPTER OF CAUSING THE SOUL TO BE UNITED TO ITS BODY IN THE UNDERWORLD\] <span id="fr_8"></span>[1](#fn_8.md)
 
 Hail, ye gods who bring (ANNIU)! \[Hail\] ye gods who run (PEHIU)!
 \[Hail\] thou who dwellest in his embrace, thou great god, grant thou
@@ -671,31 +671,31 @@ direction of the whole runs straight south-west."
 
 ### Footnotes
 
-<span id="fn_0"></span>[44:1](gate15.htm#fr_0) As Belzoni's narrative is
+<span id="fn_0"></span>[44:1](gate15.htm#fr_0.md) As Belzoni's narrative is
 of interest, his account of his discovery of Seti's tomb is given in the
 Appendix to this Chapter.
 
-<span id="fn_1"></span>[45:1](gate15.htm#fr_1) *The Alabaster
+<span id="fn_1"></span>[45:1](gate15.htm#fr_1.md) *The Alabaster
 Sarcophagus of Oimenepthah I*., King of Egypt. London, 1864, p. 14.
 
-<span id="fn_2"></span>[59:1](gate15.htm#fr_2) This is Chapter LXXII. of
+<span id="fn_2"></span>[59:1](gate15.htm#fr_2.md) This is Chapter LXXII. of
 the *Book of the Dead*.
 
-<span id="fn_3"></span>[61:1](gate15.htm#fr_3) Pe and Tep formed a
+<span id="fn_3"></span>[61:1](gate15.htm#fr_3.md) Pe and Tep formed a
 double city in the Delta.
 
-<span id="fn_4"></span>[63:1](gate15.htm#fr_4) The *kher-heb* was the
+<span id="fn_4"></span>[63:1](gate15.htm#fr_4.md) The *kher-heb* was the
 priestly official who read the funeral service.
 
-<span id="fn_5"></span>[63:2](gate15.htm#fr_5) I.e., the Field of Reeds.
+<span id="fn_5"></span>[63:2](gate15.htm#fr_5.md) I.e., the Field of Reeds.
 
-<span id="fn_6"></span>[63:3](gate15.htm#fr_6) I.e., the Field of Peace.
+<span id="fn_6"></span>[63:3](gate15.htm#fr_6.md) I.e., the Field of Peace.
 
-<span id="fn_7"></span>[63:4](gate15.htm#fr_7) I.e., Shu and Tefnut.
+<span id="fn_7"></span>[63:4](gate15.htm#fr_7.md) I.e., Shu and Tefnut.
 
-<span id="fn_8"></span>[65:1](gate15.htm#fr_8) This is Chapter LXXXIX.
+<span id="fn_8"></span>[65:1](gate15.htm#fr_8.md) This is Chapter LXXXIX.
 of the *Book of the Dead*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Ante-Chamber of the Tuat](gate16)
+[Next: Chapter II. The Ante-Chamber of the Tuat](gate16.md)

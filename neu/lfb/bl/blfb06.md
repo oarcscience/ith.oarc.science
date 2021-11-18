@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb05)  [Next](blfb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb05)  [Next](blfb07.md) 
 
 </div>
 
@@ -124,6 +124,6 @@ Riding-Hood, and ate her all up.
 
 ------------------------------------------------------------------------
 
-[Next: The Sleeping Beauty in the Wood](blfb07)
+[Next: The Sleeping Beauty in the Wood](blfb07.md)
 
 </div>

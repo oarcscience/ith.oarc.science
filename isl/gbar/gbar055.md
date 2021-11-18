@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar054) [Next](gbar056)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar054) [Next](gbar056.md)
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ given us to thy messenger."
 
 ------------------------------------------------------------------------
 
-[Next](gbar056)
+[Next](gbar056.md)

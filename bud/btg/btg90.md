@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg89)  [Next](btg91) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg89)  [Next](btg91.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ heed that it be well grounded."
 
 ------------------------------------------------------------------------
 
-[Next: The Visit To Pataliputta](btg91)
+[Next: The Visit To Pataliputta](btg91.md)

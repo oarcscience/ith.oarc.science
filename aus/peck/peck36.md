@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck35)  [Next](peck37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck35)  [Next](peck37.md) 
 
 ------------------------------------------------------------------------
 
@@ -326,4 +326,4 @@ South Wales.
 
 ------------------------------------------------------------------------
 
-[Next: The Black Satin](peck37)
+[Next: The Black Satin](peck37.md)

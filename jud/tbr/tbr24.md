@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tbr23)  [Next](tbr25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tbr23)  [Next](tbr25.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,17 +15,17 @@ Textual Heritage
 children are exempt from the recitation of the Shma‘, and from the
 Phylacteries, but are under obligation in the case of the Prayer, and
 the Mezuzah, and the Benediction after meals. <span
-id="fr_148"></span>[1](#fn_147)
+id="fr_148"></span>[1](#fn_147.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_147"></span>[23:1](tbr24.htm#fr_148) *the Benediction after
+<span id="fn_147"></span>[23:1](tbr24.htm#fr_148.md) *the Benediction after
 meals*. But they are not "invited to say the Benediction." *M*. VII. 3
-(2) (*infra*, [p. 60](tbr42.htm#page_60)).
+(2) (*infra*, [p. 60](tbr42.htm#page_60).md).
 
 ------------------------------------------------------------------------
 
 [Next: M. III. 4-6; T. II, 12-21. The Shma‘, etc., in cases of Sexual
-Uncleanness](tbr25)
+Uncleanness](tbr25.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk25)  [Next](brk27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk25)  [Next](brk27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
@@ -22,7 +22,7 @@ course of alternate creation, maintenance, and dissolution of worlds
 which later became general in India. The earlier texts several times
 describe Brahma or some cognate power as consuming his creatures
 separately; but a collective destruction is nowhere mentioned in
-them. <span id="fr_3"></span>[1](#fn_3)
+them. <span id="fr_3"></span>[1](#fn_3.md)
 
 In the later Vedānta the theory of periodical cataclysms is formally
 accepted. Again and again the universe is created, and after a time
@@ -45,10 +45,10 @@ consequent worldly welfare, its *jnāna-kāṇḍa* or theoretical section
 
 ### Footnotes
 
-<span id="fn_3"></span>[49:1](brk26.htm#fr_3) See especially B.A. I. ii.
+<span id="fn_3"></span>[49:1](brk26.htm#fr_3.md) See especially B.A. I. ii.
 1, Ch. I. ix. 1, Taitt. III. 1, Kaṭh. II. 25. Universal dissolution
 appears first in Śvet. III. 2, IV. 1.
 
 ------------------------------------------------------------------------
 
-[Next: Salvation](brk27)
+[Next: Salvation](brk27.md)

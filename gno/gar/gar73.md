@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar72)  [Next](gar74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar72)  [Next](gar74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_a"></span> <span align="CENTER"> [![Plate
 A](tn/pl_a.jpg)  
-Click to enlarge](img/pl_a.jpg)  
+Click to enlarge](img/pl_a.jpg.md)  
 Plate A  
 </span>
 
@@ -51,4 +51,4 @@ largely in the sigillum of the "Pistis-Sophia."
 
 ------------------------------------------------------------------------
 
-[Next: Plate B](gar74)
+[Next: Plate B](gar74.md)

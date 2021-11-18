@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Bibles](../eb) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mat)   
+[Contents](#contents)    [Start Reading](mat.md)   
 
 ------------------------------------------------------------------------
 
@@ -29,30 +29,30 @@ was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Matthew](mat)  
-[Mark](mar)  
-[Luke](luk)  
-[John](joh)  
-[Acts](act)  
-[Romans](rom)  
-[1 Corinthians](co1)  
-[2 Corinthians](co2)  
-[Galatians](gal)  
-[Ephesians](eph)  
-[Philippians](phi)  
-[Colossians](col)  
-[1 Thessalonians](th1)  
-[2 Thessalonians](th2)  
-[1 Timothy](ti1)  
-[2 Timothy](ti2)  
-[Titus](tit)  
-[Philemon](plm)  
-[Hebrews](heb)  
-[James](jam)  
-[1 Peter](pe1)  
-[2 Peter](pe2)  
-[1 John](jo1)  
-[2 John](jo2)  
-[3 John](jo3)  
-[Jude](jde)  
-[Revelation](rev)  
+<span id="contents"></span> [Matthew](mat.md)  
+[Mark](mar.md)  
+[Luke](luk.md)  
+[John](joh.md)  
+[Acts](act.md)  
+[Romans](rom.md)  
+[1 Corinthians](co1.md)  
+[2 Corinthians](co2.md)  
+[Galatians](gal.md)  
+[Ephesians](eph.md)  
+[Philippians](phi.md)  
+[Colossians](col.md)  
+[1 Thessalonians](th1.md)  
+[2 Thessalonians](th2.md)  
+[1 Timothy](ti1.md)  
+[2 Timothy](ti2.md)  
+[Titus](tit.md)  
+[Philemon](plm.md)  
+[Hebrews](heb.md)  
+[James](jam.md)  
+[1 Peter](pe1.md)  
+[2 Peter](pe2.md)  
+[1 John](jo1.md)  
+[2 John](jo2.md)  
+[3 John](jo3.md)  
+[Jude](jde.md)  
+[Revelation](rev.md)  

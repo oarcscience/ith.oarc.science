@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog20)  [Next](hlog22) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog20)  [Next](hlog22.md) 
 
 ------------------------------------------------------------------------
 
@@ -281,4 +281,4 @@ and his final escape from her.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Ke-au-nini](hlog22)
+[Next: XVII. Ke-au-nini](hlog22.md)

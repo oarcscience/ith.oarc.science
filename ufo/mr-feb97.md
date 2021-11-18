@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](mr-dec96)  [Next](mystic-e) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](mr-dec96)  [Next](mystic-e.md) 
 
 ### Stanton Friedman Monthly Report Feb. 1997
 
@@ -295,4 +295,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: Mystic Encyclopedia](mystic-e)
+[Next: Mystic Encyclopedia](mystic-e.md)

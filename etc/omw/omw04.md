@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw03)  [Next](omw05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw03)  [Next](omw05.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ purity of his body and soul, then, after four periods, of three thousand
 years each, in the world's history, when the time shall arrive for final
 victory of good over evil and of Ormuzd over Ariman--the general
 resurrection of the dead and the last judgment will assure him his place
-among the saved and the righteous. <span id="fr_8"></span>[9](#fn_8)
+among the saved and the righteous. <span id="fr_8"></span>[9](#fn_8.md)
 
 The Persian religion had strong influence upon both Judaism and early
 Christianity: a king who was the champion of early Zoroastrianism ended
@@ -87,7 +87,7 @@ epithets of Yima are striking
 
 in this respect. He is commonly called *Khshaēta* ('brilliant'), an
 adjective which is at the same time a regular epithet of the sun." <span
-id="fr_9"></span>[10](#fn_9) The story of Jamshīd is the most explicit
+id="fr_9"></span>[10](#fn_9.md) The story of Jamshīd is the most explicit
 piece of mythology that has come down to us from ancient Iran--it is
 preserved in a very late work--in the Shāhnāmah, written by the poet
 Firdausī, who died about 1025 A. D. Firdausī used old traditions which
@@ -103,12 +103,12 @@ Mabinogion.
 
 ### Footnotes
 
-<span id="fn_8"></span>[xii:9](omw04.htm#fr_8) A History of the Ancient
+<span id="fn_8"></span>[xii:9](omw04.htm#fr_8.md) A History of the Ancient
 World, Vol. I.
 
-<span id="fn_9"></span>[xiv:10](omw04.htm#fr_9) Iranian Mythology,
+<span id="fn_9"></span>[xiv:10](omw04.htm#fr_9.md) Iranian Mythology,
 Volume VI of Mythology of All Races.
 
 ------------------------------------------------------------------------
 
-[Next: Jewish: Post-Christian Period](omw05)
+[Next: Jewish: Post-Christian Period](omw05.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip88)  [Next](fip90) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip88)  [Next](fip90.md) 
 
 ------------------------------------------------------------------------
 
-### THE GANCONER OR GANCANAGH \[GEAN-CANACH\].--Page [207](fip55.htm#page_207).
+### THE GANCONER OR GANCANAGH \[GEAN-CANACH\].--Page [207](fip55.htm#page_207.md).
 
 O'Kearney, a Louthman, deeply versed in Irish lore, writes of the
 *gean-cānach* (love-talker) that he is "another diminutive being of the
@@ -41,4 +41,4 @@ Douglas Hyde*.\]
 
 ------------------------------------------------------------------------
 
-[Next: Father John O'Hart](fip90)
+[Next: Father John O'Hart](fip90.md)

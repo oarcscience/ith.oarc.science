@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](aenl05)  [Previous](aen04) 
-[Next](aen06) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](aenl05)  [Previous](aen04.md) 
+[Next](aen06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1181,4 +1181,4 @@ Thy naked corpse is doom'd on shores unknown to lie."
 
 ------------------------------------------------------------------------
 
-[Next: Book VI](aen06)
+[Next: Book VI](aen06.md)

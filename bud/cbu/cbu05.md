@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu04)  [Next](cbu06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu04)  [Next](cbu06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -78,7 +78,7 @@ expected that what Colebrooke and others have done in elucidating
 Buddhism from the polemical writings of the Brahmans, would receive
 useful corrections and additions as well from Chinese sources as from
 the Sanscrit manuscripts of Buddhist books obtained by Hodgson. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 <span id="page_3">p. 3</span>
 
@@ -103,7 +103,7 @@ with a moral are found in Chinese Buddhist books. Many specimens of this
 peculiar mode of composition, which, originating in Greece, was adopted
 by the Hindoos, and spread into the various literatures of modern Europe
 and Asia, have long since been made to wear a Chinese garb. <span
-id="fr_2"></span>[1](#fn_2) Further, the elements of grammar and the
+id="fr_2"></span>[1](#fn_2.md) Further, the elements of grammar and the
 knowledge of the alphabet, with some important contributions from
 mathematical science, have reached China through the same medium.
 Several openings are thus presented into the old Hindoo world. The
@@ -131,9 +131,9 @@ scene of a popular Buddhist work called the "Diamond Classic" a few
 passages, where he appears in the midst of his disciples, instructing
 them in some of the principles of his system. The time, according to the
 Singhalese chronology, was in the sixth century before Christ. The place
-is Sha-wei, <span id="fr_3"></span>[1](#fn_3) a city in Central India.
+is Sha-wei, <span id="fr_3"></span>[1](#fn_3.md) a city in Central India.
 The hero is Shakyamuni himself, *i.e.*, Buddha or Julai. The subordinate
-characters are the Bikshu <span id="fr_4"></span>[2](#fn_4) or religious
+characters are the Bikshu <span id="fr_4"></span>[2](#fn_4.md) or religious
 mendicants, who are so denominated because they beg instruction for the
 mind and food for the body. They consist of two classes, says the editor
 of the Diamond Classic. Those who have abandoned vice and are aiming at
@@ -159,7 +159,7 @@ give all this gold for a hall to teach it, gave it for nothing. In a
 house "in this garden, which lay outside the city Sha-wei, Buddha with
 his disciples, 1250 in number, assembled. It was the time of taking
 food. Buddha put on the robe" called *seng-gha-li*, and with his
-*pat* <span id="fr_5"></span>[1](#fn_5) or "mendicant's rice bowl" in
+*pat* <span id="fr_5"></span>[1](#fn_5.md) or "mendicant's rice bowl" in
 his hand, entered the city to beg for food. When having gone from door
 to door he had finished his task, he returned to his lodging-place. "His
 meal being ended, he put his robe and rice vessel aside, and washed his
@@ -174,14 +174,14 @@ Buddha in the following words:—"Rare is it to meet with the world's
 
 <span id="page_6">p. 6</span>
 
-honoured one, <span id="fr_6"></span>[1](#fn_6) Julai, <span
-id="fr_7"></span>[2](#fn_7) who in the best manner protects his
+honoured one, <span id="fr_6"></span>[1](#fn_6.md) Julai, <span
+id="fr_7"></span>[2](#fn_7.md) who in the best manner protects his
 disciples (Bosat), keeps them in his thoughts, and gives them his
 instructions. World-honoured sage! (*Shï-tsun*) if good men and good
 women exhibit *the unsurpassed just and enlightened heart*, how should
 they place it firmly, and how should the evil risings of the heart be
 suppressed and subdued?" The words in italics, corresponding to the
-Sanscrit *anutara samyaksambuddhi*, <span id="fr_8"></span>[3](#fn_8)
+Sanscrit *anutara samyaksambuddhi*, <span id="fr_8"></span>[3](#fn_8.md)
 are written with Chinese characters in the text, and are explained by
 the commentator as consisting of *an*, "not," *utara*, "superior,"
 *samya*, "right and equal," *sambodi*, "rightly knowing." Buddha
@@ -198,8 +198,8 @@ mammalia, or are like the fish," sprung from spawn, instinctively
 following the multitude in the path of evil, "or are of the same class
 with animals born by transformation," and pass through remarkable
 changes, should enter that state which is final and unchangeable <span
-id="fr_9"></span>[4](#fn_9)—the Nirvâna, <span
-id="fr_10"></span>[5](#fn_10) "Whether they still
+id="fr_9"></span>[4](#fn_9.md)—the Nirvâna, <span
+id="fr_10"></span>[5](#fn_10.md) "Whether they still
 
 <span id="page_7">p. 7</span>
 
@@ -294,49 +294,49 @@ recognised and appreciated.
 
 ### Footnotes
 
-<span id="fn_1"></span>[2:1](cbu05.htm#fr_1) During his residence in
+<span id="fn_1"></span>[2:1](cbu05.htm#fr_1.md) During his residence in
 Nepaul. Of these works, the *Lotus of the Good* <span id="page_3">p.
 3</span> *Law*, in Chinese *Miau-fa-lien-hwa-king*, has been translated
 by Burnouf, Paris, 1852. The Rev. S. Beal, Professor of Chinese in
 University College, London, has translated from Chinese *A Catena of
 Buddhist Scriptures*, and *The Romantic Legend of Sâkya Buddha*.
 
-<span id="fn_2"></span>[3:1](cbu05.htm#fr_2) Of these works Stanislas
+<span id="fn_2"></span>[3:1](cbu05.htm#fr_2.md) Of these works Stanislas
 Julien has translated *Les Avadanas*, consisting of tales and apologues.
 1859.
 
-<span id="fn_3"></span>[4:1](cbu05.htm#fr_3) Sha-wei was on the north of
+<span id="fn_3"></span>[4:1](cbu05.htm#fr_3.md) Sha-wei was on the north of
 the Ganges, about 200 miles above Benares. It is also written Shravasti.
 All the upper part of the valley of the Ganges was embraced in what was
 known as Central India.
 
-<span id="fn_4"></span>[4:2](cbu05.htm#fr_4) This Sanscrit word is
+<span id="fn_4"></span>[4:2](cbu05.htm#fr_4.md) This Sanscrit word is
 pronounced according to K‘ang-hi *Bi-k‘u*. The orthography here adopted
 for Chinese and Sanscrit words, agrees nearly with that of Sir T. Wade
 and of the French writers on kindred subjects. For *ou*, the *oo* of
 Morrison, u is here written.
 
-<span id="fn_5"></span>[5:1](cbu05.htm#fr_5) In modern Chinese the *t*
+<span id="fn_5"></span>[5:1](cbu05.htm#fr_5.md) In modern Chinese the *t*
 is dropped and the *a* (*a* in father) changed to *o*. In Sanscrit the
 word is *pâtra*.
 
-<span id="fn_6"></span>[6:1](cbu05.htm#fr_6) A title of
+<span id="fn_6"></span>[6:1](cbu05.htm#fr_6.md) A title of
 Buddha—*Shï-tsun* in Sanscrit, *Lokês’vararâja* (Eitel's *Handbook of
 Chinese Buddhism*), or *Lokadjyesht‘a*, v. Remusat's *Mélanges
 Asiatiques*, vol. i. p. 164.
 
-<span id="fn_7"></span>[6:2](cbu05.htm#fr_7) *Julai* is the Chinese
+<span id="fn_7"></span>[6:2](cbu05.htm#fr_7.md) *Julai* is the Chinese
 translation of Tathagata. It means literally "thus come," and is
 explained, "bringing human nature as it truly is, with perfect knowledge
 and high intelligence, he comes and manifests himself."
 
-<span id="fn_8"></span>[6:3](cbu05.htm#fr_8) These words are pronounced
+<span id="fn_8"></span>[6:3](cbu05.htm#fr_8.md) These words are pronounced
 in old Chinese *a nu-ta-la sam-mia sam-bo-di*, and in Mandarin *a
 neu-to-lo san-miau san-p‘u-t‘i*.
 
-<span id="fn_9"></span>[6:4](cbu05.htm#fr_9) Without remainder, *Wu-yü*.
+<span id="fn_9"></span>[6:4](cbu05.htm#fr_9.md) Without remainder, *Wu-yü*.
 
-<span id="fn_10"></span>[6:5](cbu05.htm#fr_10) *Nit* is translated by
+<span id="fn_10"></span>[6:5](cbu05.htm#fr_10.md) *Nit* is translated by
 the commentator "go out if," and *ban*, "harassment." By the French
 Sinologues it is identified with Nirvâna, the happy condition of perfect
 rest at which the Hindoos aim. The dictionary *Ching-tsz-t‘ung*, says,
@@ -352,4 +352,4 @@ would pronounce Nirwana. The Chinese character used for *ni* was called
 ------------------------------------------------------------------------
 
 [Next: Chapter I: Life of Shakyamuni Till His Appearance at Benares as a
-Teacher](cbu06)
+Teacher](cbu06.md)

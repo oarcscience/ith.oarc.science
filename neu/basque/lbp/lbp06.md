@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp05)  [Next](lbp07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp05)  [Next](lbp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,11 +9,11 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 
 <span id="img_08000"></span> ![](img/08000.jpg)
 
-# MAITAGARRI. <span id="fr_4"></span>[1](#fn_4)
+# MAITAGARRI. <span id="fr_4"></span>[1](#fn_4.md)
 
 ### I.
 
-## ITURRIOZ. <span id="fr_5"></span>[2](#fn_5)
+## ITURRIOZ. <span id="fr_5"></span>[2](#fn_5.md)
 
 <span id="img_08001"></span>
 
@@ -275,7 +275,7 @@ The girl left the house to seek the desired roots, followed by the
 mastiff. Then the wily pythoness drew from her pocket a leathern bag and
 took out of it a bundle of rags. She began to unfold most carefully this
 bundle until she discovered the hand of a child <span
-id="fr_6"></span>[1](#fn_6) in perfect preservation, and around this
+id="fr_6"></span>[1](#fn_6.md) in perfect preservation, and around this
 little hand were some curls of silky, golden hair. Out of a small
 earthenware
 
@@ -829,7 +829,7 @@ speed.
 
 ### V.
 
-## MAITAGARRI. <span id="fr_7"></span>[1](#fn_7)
+## MAITAGARRI. <span id="fr_7"></span>[1](#fn_7.md)
 
 At nightfall an the following day, Juan de Arpide found himself sitting
 in the most concealed part of the valley of Articuza; near him, and at
@@ -1347,7 +1347,7 @@ rejoicing.
 
 Two days after the marriage of Inez and Juan, deep-drawn sighs could
 have been heard about midnight issuing from the valley, of
-Articuza. <span id="fr_8"></span>[1](#fn_8) Favoured by the moonlight
+Articuza. <span id="fr_8"></span>[1](#fn_8.md) Favoured by the moonlight
 could be seen, close to the rivulet, a decrepit old woman, pitifully
 torn and wounded in body. At her side were some shadows, or rather
 phantoms, that were beating and belabouring her unpityingly, and this
@@ -1390,13 +1390,13 @@ eagle took it away on the winds in its powerful clutches.
 
 ### Footnotes
 
-<span id="fn_4"></span>[80:1](lbp06.htm#fr_4) Fairy, or Hade, which
+<span id="fn_4"></span>[80:1](lbp06.htm#fr_4.md) Fairy, or Hade, which
 inhabits the lakes.
 
-<span id="fn_5"></span>[80:2](lbp06.htm#fr_5) Iturrioz--*Fonte
+<span id="fn_5"></span>[80:2](lbp06.htm#fr_5.md) Iturrioz--*Fonte
 fria*--the cold fountain.
 
-<span id="fn_6"></span>[88:1](lbp06.htm#fr_6) *The left hand of a
+<span id="fn_6"></span>[88:1](lbp06.htm#fr_6.md) *The left hand of a
 child*. It was a general belief among the mountain dwellers of the
 Basque provinces that the left hand of a child, if severed during sleep,
 and wrapped round with curls of its own hair, became a valuable amulet
@@ -1410,7 +1410,7 @@ of severe provisions having been adopted against these barbarians. It
 was also a popular belief that the blood of children was useful for
 invigorating the weak bodies of women.
 
-<span id="fn_7"></span>[105:1](lbp06.htm#fr_7) *Maitagarri*. Among the
+<span id="fn_7"></span>[105:1](lbp06.htm#fr_7.md) *Maitagarri*. Among the
 Basque people this stands for the "Peri," or the Genius of the Persians.
 According to the legend or popular tradition, this fairy, or hade, fell
 in love with a shepherd called Luzaide, and she took him to the summit
@@ -1418,11 +1418,11 @@ of Ahuñemendi, where she had her palace made of crystal. This legend
 evidently forms the basis of the narrative which the author gives in
 this chapter.
 
-<span id="fn_8"></span>[123:1](lbp06.htm#fr_8) *Articuza*. Palace and
+<span id="fn_8"></span>[123:1](lbp06.htm#fr_8.md) *Articuza*. Palace and
 stronghold close to the shores of that name. They are situated in the
 centre of the mountains of Goizueta, ten kilometres from this town, and
 surrounded by dense woods and forests.
 
 ------------------------------------------------------------------------
 
-[Next: Roldan's Bugle-Horn](lbp07)
+[Next: Roldan's Bugle-Horn](lbp07.md)

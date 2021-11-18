@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico000) 
-[Next](nico002) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico000.md) 
+[Next](nico002.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ activities, as in the case of the sciences just mentioned.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. The science of the good for man is politics](nico002)
+[Next: Chapter 2. The science of the good for man is politics](nico002.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia20)  [Next](aia22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia20)  [Next](aia22.md) 
 
 ------------------------------------------------------------------------
 
@@ -267,4 +267,4 @@ appear more evident to the eye, and is useful for reference.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Considerations Before Judgment](aia22)
+[Next: Chapter XIX. Considerations Before Judgment](aia22.md)

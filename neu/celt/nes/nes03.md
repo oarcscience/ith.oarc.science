@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes02)  [Next](nes04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes02)  [Next](nes04.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 HAVE paidlt in its burns and tumbled on its fairy hillocks. I have
 wandered through its woods by day and by night. I have trudged over its
@@ -105,4 +105,4 @@ That my defaut here correcte can."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Birth](nes04)
+[Next: Chapter I. Birth](nes04.md)

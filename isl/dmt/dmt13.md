@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt12)  [Next](dmt14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt12)  [Next](dmt14.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ basal part in the structure of Muslim theology. That basis, in spite, or
 rather on account of the work of the mutakallims had previously been
 lacking. Such a scepticism as their atomic system had practically
 amounted to, could disprove much but could prove little. If all the
-[categories](errata.htm#4) but substance and quality are mere
+[categories](errata.htm#4.md) but substance and quality are mere
 subjectivities, existing in the
 
 <span id="page_216">p. 216</span>
@@ -781,4 +781,4 @@ prophets. Such was the result of the destruction of philosophy in Islam.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](dmt14)
+[Next: Chapter V](dmt14.md)

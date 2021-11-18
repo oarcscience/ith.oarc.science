@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat42)  [Next](flat44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat42)  [Next](flat44.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ of Fate.
 
 ------------------------------------------------------------------------
 
-[Next: The Rock of the Candle](flat44)
+[Next: The Rock of the Candle](flat44.md)

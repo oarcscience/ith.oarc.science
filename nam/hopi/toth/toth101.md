@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth100)  [Next](toth102) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth100)  [Next](toth102.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 98. HOW THE BEETLES PRODUCED PAIN. <span id="fr_183"></span>[1](#fn_181)
+## 98. HOW THE BEETLES PRODUCED PAIN. <span id="fr_183"></span>[1](#fn_181.md)
 
 In Oraíbi they were living, and at the Hohóyaw village lived the
 Hohóyawtu (certain black Beetles). It was always hot and the wind was
@@ -59,9 +59,9 @@ because they were no longer thirsty.
 
 ### Footnotes
 
-<span id="fn_181"></span>[238:1](toth101.htm#fr_183) Told by Kwáyeshva,
+<span id="fn_181"></span>[238:1](toth101.htm#fr_183.md) Told by Kwáyeshva,
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 99. Why the Ants Are So Thin](toth102)
+[Next: 99. Why the Ants Are So Thin](toth102.md)

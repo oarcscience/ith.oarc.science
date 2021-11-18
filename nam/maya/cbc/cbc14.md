@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](cbc13)  [Next](cbc15) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](cbc13)  [Next](cbc15.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,9 +8,9 @@ American](../../index)  [Maya](../index)  [Index](index) 
 
 ### (THE INTERROGATION OF THE CHIEFS)
 
-This is the language of Zuyua <span id="fr_235"></span>[1](#fn_234) and
+This is the language of Zuyua <span id="fr_235"></span>[1](#fn_234.md) and
 the understanding for our lord, Señor Governor Mariscal, <span
-id="fr_236"></span>[2](#fn_235) who has settled at Tzuc-uaxim to the
+id="fr_236"></span>[2](#fn_235.md) who has settled at Tzuc-uaxim to the
 east of Ichcanziho (Merida). This is the land where his garden and
 homestead were, where he settled. Then the day will come when his period
 of office shall end also. The command of the head-chief comes. Vigorous
@@ -32,7 +32,7 @@ FIG. 10--The lord of the katun(Chumayel MS.).</td>
 </tbody>
 </table>
 
- <span id="fr_237"></span>[1](#fn_236) On this day, in the language of
+ <span id="fr_237"></span>[1](#fn_236.md) On this day, in the language of
 Zuyua, this is the question asked by the head-chief of the town; then
 the day shall arrive when the law of Katun 3 Ahau shall end, when
 another katun shall be set &lt;in its place&gt;, Katun 1 Ahau, as stated
@@ -71,10 +71,10 @@ FIG. 12--The lord of the katun (Chumayel MS.).</td>
 </table>
 
 This is Katun 1 Ahau, which is set within the house of Katun 3
-Ahau. <span id="fr_238"></span>[2](#fn_237) There it is its guest, while
+Ahau. <span id="fr_238"></span>[2](#fn_237.md) There it is its guest, while
 it is given its power by Katun 3 Ahau. Things are shameful, they say,
-&lt;in [the](errata.htm#0) place&gt; where they dwell./ <span
-id="fr_239"></span>[3](#fn_238)
+&lt;in [the](errata.htm#0.md) place&gt; where they dwell./ <span
+id="fr_239"></span>[3](#fn_238.md)
 
 |          |
 |----------|
@@ -94,13 +94,13 @@ FIG. 13--The lord of the katun (Chumayel MS.).</td>
 </tbody>
 </table>
 
-This is the examination <span id="fr_240"></span>[4](#fn_239) which
+This is the examination <span id="fr_240"></span>[4](#fn_239.md) which
 takes place in the katun which ends today. The time has arrived for
 examining the knowledge of the chiefs of the towns, &lt;to see&gt;
 whether they know how the ruling men came, whether they have explained
 the coming of the chiefs, of the head-chiefs, whether they are of the
 lineage of rulers, whether they are of the lineage of chiefs, that they
-may prove it. <span id="fr_241"></span>[5](#fn_240)
+may prove it. <span id="fr_241"></span>[5](#fn_240.md)
 
 <span id="img_fig14"></span>
 
@@ -124,7 +124,7 @@ lofty cross, in the middle of its heart. A green jaguar is seated over
 the sun to drink its blood." Of Zuyua is the wisdom. This is what the
 sun is which is demanded of them: a very large fried egg. This is the
 lance and the lofty cross planted in its heart of which he speaks: it is
-the benediction. <span id="fr_242"></span>[6](#fn_241) This is what the
+the benediction. <span id="fr_242"></span>[6](#fn_241.md) This is what the
 green jaguar is which is set
 
 <span id="page_90">p. 90</span>
@@ -150,7 +150,7 @@ This is the second question that will be asked of them: let them go and
 get the brains of the sky, so the head-chief may see how large they are.
 "It is my desire to see them; let me see them." This is what he would
 say to them. This is what the brains of the sky are: it is copal
-gum. <span id="fr_243"></span>[1](#fn_242) Zuyua &lt;language&gt;. /
+gum. <span id="fr_243"></span>[1](#fn_242.md) Zuyua &lt;language&gt;. /
 
 |          |
 |----------|
@@ -171,16 +171,16 @@ FIG. 16--The lord of the katun (Chumayel MS.).</td>
 </table>
 
 This is the third question which will be asked of them: let them
-construct a large house. <span id="fr_244"></span>[2](#fn_243) Six
-*thils* <span id="fr_245"></span>[3](#fn_244) is its length., one such
+construct a large house. <span id="fr_244"></span>[2](#fn_243.md) Six
+*thils* <span id="fr_245"></span>[3](#fn_244.md) is its length., one such
 &lt;measure&gt; is that of its upright timbers. This is what the large
 house is: it is a very large hat set on the floor. He shall be told to
 mount a very large white horse. White shall be his mantle and his cape,
 and he shall grasp a white rattle in his hand, while he rattles it at
 his horse. There is coagulated blood on the rosette <span
-id="fr_246"></span>[4](#fn_245) of his rattle, which comes out of it.
+id="fr_246"></span>[4](#fn_245.md) of his rattle, which comes out of it.
 This is what the white horse is: it is a stirrup <span
-id="fr_247"></span>[5](#fn_246) of henequen fiber. This is the white
+id="fr_247"></span>[5](#fn_246.md) of henequen fiber. This is the white
 rattle mentioned, and the white cape: they are a Plumeria flower
 &lt;and&gt; a white wreath. This is the coagulated blood on the rosette
 of the rattle, which is demanded of them: it is the gold in the middle,
@@ -206,7 +206,7 @@ his house and then they shall be told: "When you come, you shall be
 visible at midday. You shall be children again, you shall creep
 &lt;again&gt;. When you arrive, your little dog shall be just behind
 you. This little dog of yours carries with its teeth the soul of our
-holy mistress, <span id="fr_248"></span>[6](#fn_247) when you come with
+holy mistress, <span id="fr_248"></span>[6](#fn_247.md) when you come with
 it." This is what the second childhood at midday is, which is mentioned
 to him. He shall go where he casts a shadow, this is what is called
 creeping. Then he shall come to the house of the head-chief. This is
@@ -236,7 +236,7 @@ FIG. 18--The lord of the katun (Chumayel MS.).</td>
 
 This is the fifth question which will be asked of them. They shall be
 told to go and get the heart of God the Father in heaven. "Then you
-shall bring me thirteen layers <span id="fr_249"></span>[1](#fn_248)
+shall bring me thirteen layers <span id="fr_249"></span>[1](#fn_248.md)
 wrapped up in a coarse white fabric." This is the heart of God the
 Father, of which they are told: it is a bead of precious stone. This is
 what the covering of thirteen layers is, which is mentioned. It is an
@@ -259,12 +259,12 @@ FIG. 19--The lord of the katun (Chumayel MS.).</td>
 </table>
 
 This is the sixth question which will be asked of them: to go and get
-the branch of the *pochote* tree, <span id="fr_250"></span>[2](#fn_249)
+the branch of the *pochote* tree, <span id="fr_250"></span>[2](#fn_249.md)
 and a cord of three strands, and a living liana. This he will relish.
-"My food for tomorrow. <span id="fr_251"></span>[3](#fn_250) It is my
+"My food for tomorrow. <span id="fr_251"></span>[3](#fn_250.md) It is my
 desire to eat it." It is not bad to gnaw the trunk of the *pochote*
 tree, so they are told. This is what the trunk of the *pochote* tree is:
-it is a lizard. <span id="fr_252"></span>[4](#fn_251) This is the cord
+it is a lizard. <span id="fr_252"></span>[4](#fn_251.md) This is the cord
 of three strands, the tail of an iguana. This is the living liana, it is
 the entrails of a pig. This is the trunk of the *pochote* tree, the base
 of the tail of a lizard. The language of Zuyua.
@@ -285,11 +285,11 @@ FIG. 20--The lord of the katun (Chumayel MS.).</td>
 
 This is the seventh question which will be asked of them. They shall be
 told: "Go and gather for me those things which plug <span
-id="fr_253"></span>[5](#fn_252) the bottom of the cenote, two white
+id="fr_253"></span>[5](#fn_252.md) the bottom of the cenote, two white
 ones, two yellow ones. I desire to eat them." These are the things which
 plug the bottom of the cenote, which are demanded of them. They are
 &lt;two&gt; white and two yellow jícamas. <span
-id="fr_254"></span>[6](#fn_253) These are the things to be understood in
+id="fr_254"></span>[6](#fn_253.md) These are the things to be understood in
 order to become chiefs of the town, when they are brought before the
 ruler, the first head-chief. /
 
@@ -299,7 +299,7 @@ ruler, the first head-chief. /
 
 These are the words. If they are not understood by the chiefs of the
 towns, ill-omened is the star adorning the night. Frightful is its
-house. Sad is the havoc <span id="fr_255"></span>[7](#fn_254) in the
+house. Sad is the havoc <span id="fr_255"></span>[7](#fn_254.md) in the
 courtyards of the nobles. Those who die are those who do not understand;
 those who live will understand it. This competitive test shall hang over
 the chiefs of the towns; it has been copied so that the severity may be
@@ -309,7 +309,7 @@ a wooden collar. They are pulled along with the cord. They are taken to
 <span id="page_92">p. 92</span>
 
 the house of the ruler, the first head-chief. This is the end of the
-chiefs. This shall hang over <span id="fr_256"></span>[1](#fn_255) the
+chiefs. This shall hang over <span id="fr_256"></span>[1](#fn_255.md) the
 unrestrained lewd ones of the day and of the katun. They shall feel
 anguish when the affairs of the chiefs of the towns shall come to an
 end. This shall occur on the day when the law of the katun shall come to
@@ -320,7 +320,7 @@ be seized because they are lacking in understanding. /
 |----------|
 | p\. 33 C |
 
- <span id="fr_257"></span>[2](#fn_256)<span id="img_fig21"></span>
+ <span id="fr_257"></span>[2](#fn_256.md)<span id="img_fig21"></span>
 
 <table data-align="LEFT">
 <colgroup>
@@ -344,7 +344,7 @@ day the end shall come.
 
 But those who are of the lineage shall come forth before their lord on
 bended knees in order that their wisdom may be made known. Then their
-mat <span id="fr_258"></span>[3](#fn_257) is delivered to them and their
+mat <span id="fr_258"></span>[3](#fn_257.md) is delivered to them and their
 throne as well. The test is to be seen as it is copied here. Those of
 the lineage of the first head-chief here in the land are viewed with
 favor. They shall live on that day, and they shall also receive their
@@ -353,7 +353,7 @@ established again in the Province of Yucatan. God shall be first, when
 all things are accomplished here on earth. He is the true ruler, he
 shall come to demand of us our government, those things which we hold
 sacred, precious stones, precious beads; and he shall demand the planted
-wine, the *balché*. <span id="fr_259"></span>[4](#fn_258) He who has
+wine, the *balché*. <span id="fr_259"></span>[4](#fn_258.md) He who has
 none shall be killed. He who obeys, godly is his action according to the
 law. But perhaps God will not desire all the things which have been
 written to come to pass. /
@@ -385,7 +385,7 @@ or <em>halach-uinic</em><br />
 </tbody>
 </table>
 
- <span id="fr_260"></span>[1](#fn_259) their throne shall be delivered
+ <span id="fr_260"></span>[1](#fn_259.md) their throne shall be delivered
 to them by our lord, the first head-chief. This is their mat and their
 throne. &lt;But&gt; the unrestrained upstart of the day and katun, the
 offspring of the mad woman, the offspring of the harlot, the son of
@@ -393,12 +393,12 @@ evil, the two-day occupant of the mat, the two-day occupant of the
 throne, the rogue of the reign, the rogue of the katun, he shall be
 roughly handled, his face covered with earth, trampled into the ground,
 and befouled, as he is dragged along. <span
-id="fr_261"></span>[2](#fn_260) &lt;On the other hand&gt;, the ruling
+id="fr_261"></span>[2](#fn_260.md) &lt;On the other hand&gt;, the ruling
 men of noble lineage have walked abroad in Katun 3 Ahau; &lt;they
 are&gt; placated in the fullness of their hearts when they are told to
 go and take the chiefs of the towns. Then let them go and take them.
 
-"Son, go and bring the flower <span id="fr_262"></span>[3](#fn_261) of
+"Son, go and bring the flower <span id="fr_262"></span>[3](#fn_261.md) of
 the night to me here." This is what will be said. Then let him go on his
 knees before the head-chief who demands this of him. "Father, here is
 the flower of the night for which you ask me; I come with it and with
@@ -411,8 +411,8 @@ the vile thing of the night. There it is with me." These are his words.
 | p\. 35 C |
 
 with you, have you with you the first captive <span
-id="fr_263"></span>[4](#fn_262) and the great álamo tree?" <span
-id="fr_264"></span>[5](#fn_263) "Father, they are with me. I have come
+id="fr_263"></span>[4](#fn_262.md) and the great álamo tree?" <span
+id="fr_264"></span>[5](#fn_263.md) "Father, they are with me. I have come
 with them."
 
 "Then, &lt;my&gt; son, if you have come with them, go and call your
@@ -432,14 +432,14 @@ in the land?" The language of Zuyua.
 
 This is the flower of the night which is demanded of him: a star in the
 sky. This is the vile thing of the night: it is the moon. <span
-id="fr_265"></span>[1](#fn_264) This is the first woman captive and the
+id="fr_265"></span>[1](#fn_264.md) This is the first woman captive and the
 great álamo tree: it is the town official, <span
-id="fr_266"></span>[2](#fn_265) named "he who falls to the ground." This
+id="fr_266"></span>[2](#fn_265.md) named "he who falls to the ground." This
 is the old man with nine sons who is demanded of him: it is his great
 toe. This is the old woman demanded of him: it is his thumb. These are
 the stones of the savannah which are sought for and which his son is to
 gather to his breast: they are quails. <span
-id="fr_267"></span>[3](#fn_266)
+id="fr_267"></span>[3](#fn_266.md)
 
 "Also, &lt;my&gt; son, where is the smooth green thing of which you were
 told? You were not told to look at its face." Here it is with me,
@@ -449,7 +449,7 @@ close behind you." "So be it, father," he says.
 
 This is what the smooth green thing is, which is with him when he
 arrives: it is the rind of a squash. <span
-id="fr_268"></span>[4](#fn_267) This is the placenta of the sky which is
+id="fr_268"></span>[4](#fn_267.md) This is the placenta of the sky which is
 demanded of him: it is moulded copal-gum shaped into thirteen layers.
 This is what is said to come close behind him: it is the shadow at his
 back early in the afternoon.
@@ -466,11 +466,11 @@ precious stone. Then he shall be asked how many days he prays. "Father,"
 he says, "for one day I pray, and for ten days I pray." "On what day
 does your prayer arise?" "Father, on the ninth day and on the thirteenth
 day. It is to Bolon-ti-ku and Oxlahun-ti-citbil <span
-id="fr_269"></span>[5](#fn_268) that I count my beads."
+id="fr_269"></span>[5](#fn_268.md) that I count my beads."
 
 "&lt;My&gt; son, go and get me your loin-cloth that I may perceive its
 odor here with the wide spread odor of my loin-cloth, the odor of my
-mantle, the odor of my censer, <span id="fr_270"></span>[6](#fn_269) the
+mantle, the odor of my censer, <span id="fr_270"></span>[6](#fn_269.md) the
 supreme odor at the center of the sky, at the center of the clouds,
 &lt;also&gt; that which glues together my mouth, it is in a white carved
 &lt;cup&gt;. &lt;Do this&gt; if you are a head-chief." "Father, I will
@@ -500,10 +500,10 @@ wine. These are the entrails /
 | p\. 37 C |
 
 of his daughter: it is an empty bee-hive. <span
-id="fr_271"></span>[1](#fn_270) This is his daughter's head: it is an
-unused jar for steeping wine. <span id="fr_272"></span>[2](#fn_271) This
+id="fr_271"></span>[1](#fn_270.md) This is his daughter's head: it is an
+unused jar for steeping wine. <span id="fr_272"></span>[2](#fn_271.md) This
 is what his daughter's green stool is: it is the stone pestle <span
-id="fr_273"></span>[3](#fn_272) for &lt;pounding&gt; honey. This is what
+id="fr_273"></span>[3](#fn_272.md) for &lt;pounding&gt; honey. This is what
 the left ear of the wild bee is: it is &lt;a drop of&gt; the moisture of
 the wine. This is what the bone of his daughter is: it is the flexible
 bark of the balché. This is the thigh of which he speaks: it is the
@@ -528,9 +528,9 @@ your mat and your throne and your authority to you, son; yours is the
 government, yours is the authority also, &lt;my&gt; son."
 
 Thus, then, the chiefs of the towns are to obey <span
-id="fr_274"></span>[4](#fn_273) him when they depart with the
+id="fr_274"></span>[4](#fn_273.md) him when they depart with the
 first/head-chief, there at the head <span
-id="fr_275"></span>[5](#fn_274) of the province. Then let them
+id="fr_275"></span>[5](#fn_274.md) of the province. Then let them
 
 |          |
 |----------|
@@ -540,13 +540,13 @@ go to his house. There they are at his house, when they give his food to
 the head-chief, and when he asks them for his food, as he shall specify
 in its order.
 
-"Son, bring me four cardinals <span id="fr_276"></span>[6](#fn_275)
+"Son, bring me four cardinals <span id="fr_276"></span>[6](#fn_275.md)
 which are at the mouth of the cave. They are to be set over <span
-id="fr_277"></span>[7](#fn_276) the first thing which glues together my
+id="fr_277"></span>[7](#fn_276.md) the first thing which glues together my
 mouth. It is to be red, that which I call the crest over the first thing
 which glues together my mouth, when it shall be brought before me." "It
 is well, father." What he asks for are little cakes of achiote. <span
-id="fr_278"></span>[8](#fn_277) This is the crest of which he speaks: it
+id="fr_278"></span>[8](#fn_277.md) This is the crest of which he speaks: it
 is the froth on the chocolate.
 
 <span id="page_96">p. 96</span>
@@ -557,7 +557,7 @@ is cacao which has been ground. &lt;The language of&gt; Zuyua.
 "Son, bring me the bird of the night and the drilled &lt;stone&gt; of
 the night, and with them the brains of the sky. Great is my desire to
 see them here." "It is well, father." What he wants is a stick used to
-scrape <span id="fr_279"></span>[1](#fn_278) copal gum &lt;from the
+scrape <span id="fr_279"></span>[1](#fn_278.md) copal gum &lt;from the
 tree&gt;. This the drilled &lt;stone&gt; of the night for which he asks,
 a bead of precious stone. The brains of the sky are copal gum. Language
 of Zuyua.
@@ -568,8 +568,8 @@ wants, it is cassava baked in a pit. Then let him go and give it to the
 head-chief.
 
 "Son, bring me an old man whose coat <span
-id="fr_280"></span>[2](#fn_279) is not buttoned, Homtochac <span
-id="fr_281"></span>[3](#fn_280) is his name." "It is well, father." What
+id="fr_280"></span>[2](#fn_279.md) is not buttoned, Homtochac <span
+id="fr_281"></span>[3](#fn_280.md) is his name." "It is well, father." What
 he asks for is a nine-banded armadillo, a female armadillo.
 
 "Son, bring me three segments split from the sky. I desire to eat them."
@@ -585,36 +585,36 @@ This is what he demands, it is *atole* shaken to a froth, the froth of
 "Son, bring me a stock of maguey, the thick stalk of the maguey without
 branches. Do not remove its tip. Also bring with it three strands of
 ravelled cord." "It is well, father." This is what he asks for, a
-hog's <span id="fr_282"></span>[4](#fn_281) head baked in a pit. Then he
+hog's <span id="fr_282"></span>[4](#fn_281.md) head baked in a pit. Then he
 shall go and give it to him. The tip of which he speaks is its tongue,
 because its tip is fresh and tender. <span
-id="fr_283"></span>[5](#fn_282)
+id="fr_283"></span>[5](#fn_282.md)
 
-"Son, bring me the hawks <span id="fr_284"></span>[6](#fn_283) of the
+"Son, bring me the hawks <span id="fr_284"></span>[6](#fn_283.md) of the
 night for me to eat." It is well, father." What he asks for are
 chickens, cocks.
 
 "Son, say to the first female captive, called Otlom-cabal, to bring me a
-basket of blackbirds <span id="fr_285"></span>[7](#fn_284) caught
+basket of blackbirds <span id="fr_285"></span>[7](#fn_284.md) caught
 beneath the great álamo tree, heaped up there in the shadow of the
 álamo." "Even so, father." What he asks for are some black beans that
 are in the house of the town official, that is, the so-called first
 female captive and the thing which falls limply to the ground of which
-he speaks. <span id="fr_286"></span>[8](#fn_285) Language of Zuyua.
+he speaks. <span id="fr_286"></span>[8](#fn_285.md) Language of Zuyua.
 
 "Son, go and catch the jaguar of the cave, so that by means of you it
 may give savour to my food. I desire to eat the jaguar." "It is well,
 father." This is the jaguar for which he asks, it is an agouti. <span
-id="fr_287"></span>[9](#fn_286) The language of Zuyua.
+id="fr_287"></span>[9](#fn_286.md) The language of Zuyua.
 
 "Son, bring me seven coverings of the fatherless &lt;orphan&gt;. It is
 my desire to eat them at the time when they should be eaten." "Even so,
 father." This is what he asks for, it is the pressed &lt;leaves of
-the&gt; chaya. <span id="fr_288"></span>[10](#fn_287)
+the&gt; chaya. <span id="fr_288"></span>[10](#fn_287.md)
 
 "Son, bring me the green gallants here. Let them come and dance, that I
 may look on with pleasure. Let them come with drum and rattle, fan and
-drum-stick. I am expecting them." <span id="fr_289"></span>[11](#fn_288)
+drum-stick. I am expecting them." <span id="fr_289"></span>[11](#fn_288.md)
 "Even so, father." What he asks for is a turkey-cock.
 
 <span id="page_97">p. 97</span>
@@ -622,7 +622,7 @@ drum-stick. I am expecting them." <span id="fr_289"></span>[11](#fn_288)
 \[paragraph continues\] The drum is its crop. The rattle is its head.
 The fan is its tail. The drum-stick is its leg. The language of Zuyua.
 
-"Son, bring me the fanciful desire <span id="fr_290"></span>[1](#fn_289)
+"Son, bring me the fanciful desire <span id="fr_290"></span>[1](#fn_289.md)
 of the district. I desire /
 
 |          |
@@ -634,15 +634,15 @@ Zuyua.
 
 "Son, bring me a stone from burned over land, it is burning hot. Bring
 with it the liquor for me to extinguish it, so it will crack here before
-me." What he wants is a *macal* <span id="fr_291"></span>[2](#fn_290)
+me." What he wants is a *macal* <span id="fr_291"></span>[2](#fn_290.md)
 baked in a pit. The liquor to extinguish it is clarified honey. The
 language of Zuyua.
 
 "Son, bring me the firefly of the night. Its odor shall pass to the
 north and to the west. Bring with it the beckoning tongue <span
-id="fr_292"></span>[3](#fn_291) of the jaguar." "It is well, father."
+id="fr_292"></span>[3](#fn_291.md) of the jaguar." "It is well, father."
 What he asks for is a smoking tube filled with tobacco. <span
-id="fr_293"></span>[4](#fn_292) The beckoning tongue of the jaguar for
+id="fr_293"></span>[4](#fn_292.md) The beckoning tongue of the jaguar for
 which he asks is fire.
 
 "Son, bring me your daughter that I may see her. Pale is her face and
@@ -676,19 +676,19 @@ eating. The language of Zuyua.
 
 "Son, bring to me here a farmer, an old man. I wish to see his face."
 "Even so, father." What he asks for is a *cucut-macal* <span
-id="fr_294"></span>[5](#fn_293) to eat. &lt;This is&gt; the
+id="fr_294"></span>[5](#fn_293.md) to eat. &lt;This is&gt; the
 questionnaire.
 
 "Son, bring me a farmer's wife, an old woman, a dark colored person. She
 is seven palms across the hips. It is my desire to see her." What he
 wants is the green fruit of a squash-vine. <span
-id="fr_295"></span>[6](#fn_294) The language of Zuyua.
+id="fr_295"></span>[6](#fn_294.md) The language of Zuyua.
 
 The day shall come.
 
 On this day our lord, the first head-chief, trampled them under foot,
 when he arrived here in the land, in the land of Yucalpeten. <span
-id="fr_296"></span>[7](#fn_295) He calls the chiefs, and the chiefs
+id="fr_296"></span>[7](#fn_295.md) He calls the chiefs, and the chiefs
 shall come. They are called by our lord, the first head-chief. "Are you
 chieftains?" "We are, &lt;my&gt; lord." These are their words.
 
@@ -716,22 +716,22 @@ but let him bring it before him. This jaguar for which he asks is the
 chief's horse which he wishes to eat. It is a horse raised about the
 house. This is the bead collar: it is its little bells. This is its
 crest: it is a red thread. It is to be completely saddled and bridled.
-The language of Zuyua. <span id="fr_297"></span>[1](#fn_296)
+The language of Zuyua. <span id="fr_297"></span>[1](#fn_296.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_234"></span>[88:1](cbc14.htm#fr_235) Zuyua is Nahuatl, a
+<span id="fn_234"></span>[88:1](cbc14.htm#fr_235.md) Zuyua is Nahuatl, a
 mythical place-name associated with the "Seven Caves" believed to be the
 origin of the Nahuas (Brinton 1882, p. 110).
 
-<span id="fn_235"></span>[88:2](cbc14.htm#fr_236) Probably Don Carlos de
+<span id="fn_235"></span>[88:2](cbc14.htm#fr_236.md) Probably Don Carlos de
 Luna y Arellano, governor of Yucatan from 1604 to 1612. Cogolludo Bk. 8,
 Chap. 12. His period of office was, however, in Katun 5 Ahau, and not 3
 Ahau as stated here.
 
-<span id="fn_236"></span>[89:1](cbc14.htm#fr_237) This and the other
+<span id="fn_236"></span>[89:1](cbc14.htm#fr_237.md) This and the other
 blurred crowned heads in this chapter seem to represent the so-called
 "ruler" of the katun-prophecies in Chapter XXII. It is of especial
 interest to find these heads pictured in connection with the present
@@ -739,227 +739,227 @@ questionnaire, and it suggests that we have here an important ceremony
 associated with the establishment of a new katun-marker. The crowned
 head probably represents the glyph Ahau.
 
-<span id="fn_237"></span>[89:2](cbc14.htm#fr_238) When a katun was half
+<span id="fn_237"></span>[89:2](cbc14.htm#fr_238.md) When a katun was half
 finished, the idol of the succeeding katun was set up and also
 worshipped (Landa 1929, p. 98).
 
-<span id="fn_238"></span>[89:3](cbc14.htm#fr_239) Probably a reference
+<span id="fn_238"></span>[89:3](cbc14.htm#fr_239.md) Probably a reference
 to the erotic religious practices of which the early Spanish
 missionaries complained.
 
-<span id="fn_239"></span>[89:4](cbc14.htm#fr_240) Lit.: the demand for
+<span id="fn_239"></span>[89:4](cbc14.htm#fr_240.md) Lit.: the demand for
 knowledge or understanding.
 
-<span id="fn_240"></span>[89:5](cbc14.htm#fr_241) See Appendix E.
+<span id="fn_240"></span>[89:5](cbc14.htm#fr_241.md) See Appendix E.
 
-<span id="fn_241"></span>[89:6](cbc14.htm#fr_242) It is not known what
+<span id="fn_241"></span>[89:6](cbc14.htm#fr_242.md) It is not known what
 sort of a blessing the pagan Maya recited over their ordinary meals.
 Here the usual Christian benediction is no doubt meant.
 
-<span id="fn_242"></span>[90:1](cbc14.htm#fr_243) The gum of the copal
+<span id="fn_242"></span>[90:1](cbc14.htm#fr_243.md) The gum of the copal
 (*Protium copal* Engl.) was the principal incense used by the Maya. The
 thick clouds of smoke may have suggested the convolutions of the brain.
 
-<span id="fn_243"></span>[90:2](cbc14.htm#fr_244) Lit. let them bind a
+<span id="fn_243"></span>[90:2](cbc14.htm#fr_244.md) Lit. let them bind a
 large house.
 
-<span id="fn_244"></span>[90:3](cbc14.htm#fr_245) *Thil* is the Maya
+<span id="fn_244"></span>[90:3](cbc14.htm#fr_245.md) *Thil* is the Maya
 measure for the distance between the uprights of a house.
 
-<span id="fn_245"></span>[90:4](cbc14.htm#fr_246) Mexican rattles were
+<span id="fn_245"></span>[90:4](cbc14.htm#fr_246.md) Mexican rattles were
 certainly ornamented with rosettes. *Cf.* Seler 1904, pp. 674, 675 and
 700. The Maya word here is *lol*, which usually means a large blossom.
 
-<span id="fn_246"></span>[90:5](cbc14.htm#fr_247) Lit. a pierced shoe,
+<span id="fn_246"></span>[90:5](cbc14.htm#fr_247.md) Lit. a pierced shoe,
 which suggests an old Spanish stirrup of the Arab type.
 
-<span id="fn_247"></span>[90:6](cbc14.htm#fr_248) Our holy mistress (*ca
+<span id="fn_247"></span>[90:6](cbc14.htm#fr_248.md) Our holy mistress (*ca
 cilich colel*) is a term usually applied to the Holy Virgin.
 
-<span id="fn_248"></span>[91:1](cbc14.htm#fr_249) Probably a reference
+<span id="fn_248"></span>[91:1](cbc14.htm#fr_249.md) Probably a reference
 to the thirteen heavens of the Maya cosmos.
 
-<span id="fn_249"></span>[91:2](cbc14.htm#fr_250) *Ceiba schottii*
+<span id="fn_249"></span>[91:2](cbc14.htm#fr_250.md) *Ceiba schottii*
 Britt. & Baker.
 
-<span id="fn_250"></span>[91:3](cbc14.htm#fr_251) Alternative
+<span id="fn_250"></span>[91:3](cbc14.htm#fr_251.md) Alternative
 translation: odorous food.
 
-<span id="fn_251"></span>[91:4](cbc14.htm#fr_252) *Chop*, a red and
+<span id="fn_251"></span>[91:4](cbc14.htm#fr_252.md) *Chop*, a red and
 black lizard. The term is also applied to the dried lizards used by the
 native doctors.
 
-<span id="fn_252"></span>[91:5](cbc14.htm#fr_253) Possible alternative
+<span id="fn_252"></span>[91:5](cbc14.htm#fr_253.md) Possible alternative
 translation: tortoises.
 
-<span id="fn_253"></span>[91:6](cbc14.htm#fr_254) *Pachyrhizus erosus*
+<span id="fn_253"></span>[91:6](cbc14.htm#fr_254.md) *Pachyrhizus erosus*
 (L.) Urban. The Maya name, *chicam*, appears to be derived from the
 Nahuatl jícama, and this edible root may have been introduced by the
 Toltecs.
 
-<span id="fn_254"></span>[91:7](cbc14.htm#fr_255) *Bulcum*, a misfortune
+<span id="fn_254"></span>[91:7](cbc14.htm#fr_255.md) *Bulcum*, a misfortune
 frequently associated in these pages with swarming flies.
 
-<span id="fn_255"></span>[92:1](cbc14.htm#fr_256) Alternative
+<span id="fn_255"></span>[92:1](cbc14.htm#fr_256.md) Alternative
 translation: There shall be weeping among, etc.
 
-<span id="fn_256"></span>[92:2](cbc14.htm#fr_257) Prisoners are also
+<span id="fn_256"></span>[92:2](cbc14.htm#fr_257.md) Prisoners are also
 portrayed as nude in one of the frescos of the Temple of the Warriors
 (Morris, Charlot and Morris 1931, Pl. 139).
 
-<span id="fn_257"></span>[92:3](cbc14.htm#fr_258) Here, as among the
+<span id="fn_257"></span>[92:3](cbc14.htm#fr_258.md) Here, as among the
 Aztecs, the mat and throne are symbols of authority. Believing Cortez to
 be the returning Quetzalcoatl, Montezuma greeted him with these words:
 "My royal ancestors have said that you would come to visit your city and
 that you would sit upon your mat and chair when you returned" (Seler
 1923, p. 447).
 
-<span id="fn_258"></span>[92:4](cbc14.htm#fr_259) An intoxicating drink
+<span id="fn_258"></span>[92:4](cbc14.htm#fr_259.md) An intoxicating drink
 made of fermented honey and the bark of the *Lonchocarpus longistylus*
 Pitt. and used in religious ceremonies.
 
-<span id="fn_259"></span>[93:1](cbc14.htm#fr_260) This portrayal of the
+<span id="fn_259"></span>[93:1](cbc14.htm#fr_260.md) This portrayal of the
 *halach-uinic* dressed as a Spanish dignitary is probably due to an
 effort to make it real to the Seventeenth or Eighteenth Century Maya
 reader, rather than because of ignorance.
 
-<span id="fn_260"></span>[93:2](cbc14.htm#fr_261) A very similar passage
-on page [106](cbc15.htm#page_106) states that these usurpers who ruled
+<span id="fn_260"></span>[93:2](cbc14.htm#fr_261.md) A very similar passage
+on page [106](cbc15.htm#page_106.md) states that these usurpers who ruled
 in Katun 3 Ahau were Itzá (who called themselves "the Zuyua people.")
 This suggests that our questionnaire was originally a method by which
 the Xius, a 'West Zuyua people," ousted Itzá chieftains from the towns
 over which they (the Xius) had gained control. We shall see on page
-[137](cbc24.htm#page_137) that the Itzá also had a questionnaire of
+[137](cbc24.htm#page_137.md) that the Itzá also had a questionnaire of
 their own.
 
-<span id="fn_261"></span>[93:3](cbc14.htm#fr_262) Lit.: a large flower.
+<span id="fn_261"></span>[93:3](cbc14.htm#fr_262.md) Lit.: a large flower.
 
-<span id="fn_262"></span>[93:4](cbc14.htm#fr_263) Alternative
+<span id="fn_262"></span>[93:4](cbc14.htm#fr_263.md) Alternative
 translation: the green weak one.
 
-<span id="fn_263"></span>[93:5](cbc14.htm#fr_264) *Ficus cotinifolia* H.
+<span id="fn_263"></span>[93:5](cbc14.htm#fr_264.md) *Ficus cotinifolia* H.
 B. K. The miter-like head-dress of the Maya chiefs, like those seen on
 the sculptures of Chichen Itzá, was made of the bark of this tree
 (Relaciones de Yucatan, I, P. 82).
 
-<span id="fn_264"></span>[94:1](cbc14.htm#fr_265) We know little of the
+<span id="fn_264"></span>[94:1](cbc14.htm#fr_265.md) We know little of the
 Maya conception of the moon. It is certain, however, that in their later
 history they were greatly influenced by the Mexicans among whom the moon
 was associated with the rabbit, the symbol of drunkenness, and with
 Tlaçolteotl, the goddess of sinful love.
 
-<span id="fn_265"></span>[94:2](cbc14.htm#fr_266) Maya, *ah-cuch-cab*,
+<span id="fn_265"></span>[94:2](cbc14.htm#fr_266.md) Maya, *ah-cuch-cab*,
 which could also mean the honey-bearer. The translator believes the town
 official is meant because he was so subservient before any higher
 authority.
 
-<span id="fn_266"></span>[94:3](cbc14.htm#fr_267) The quail is also
-associated with a stone on page [128](cbc21.htm#page_128).
+<span id="fn_266"></span>[94:3](cbc14.htm#fr_267.md) The quail is also
+associated with a stone on page [128](cbc21.htm#page_128.md).
 
-<span id="fn_267"></span>[94:4](cbc14.htm#fr_268) Maya, *ca*, a certain
+<span id="fn_267"></span>[94:4](cbc14.htm#fr_268.md) Maya, *ca*, a certain
 white and striped squash. The Maya word, *haan*, is variously defined as
 something made smooth or scrubbed, father-in-law and son-in-law.
 
-<span id="fn_268"></span>[94:5](cbc14.htm#fr_269) Lit.: nine gods and
+<span id="fn_268"></span>[94:5](cbc14.htm#fr_269.md) Lit.: nine gods and
 thirteen fathers, probably the gods of the nine underworlds and the
 thirteen heavens.
 
-<span id="fn_269"></span>[94:6](cbc14.htm#fr_270) Written *yubak* in our
+<span id="fn_269"></span>[94:6](cbc14.htm#fr_270.md) Written *yubak* in our
 text and corrected to *yubkak*, which means censer.
 
-<span id="fn_270"></span>[95:1](cbc14.htm#fr_271) The Maya bee-hive is
+<span id="fn_270"></span>[95:1](cbc14.htm#fr_271.md) The Maya bee-hive is
 made of the hollow section of a log.
 
-<span id="fn_271"></span>[95:2](cbc14.htm#fr_272) *Balché*, the native
+<span id="fn_271"></span>[95:2](cbc14.htm#fr_272.md) *Balché*, the native
 wine is made by steeping the bark or root of the *balché* tree
 (Lonchocarpus longistylus Pitt.) in a mixture of fermenting honey and
 water.
 
-<span id="fn_272"></span>[95:3](cbc14.htm#fr_273) The text reads "*couoh
+<span id="fn_272"></span>[95:3](cbc14.htm#fr_273.md) The text reads "*couoh
 tun*" (lit. tarantula stone) here, but it is assumed that *cocoh tun*
 (stone hammer) is meant, and translated accordingly.
 
-<span id="fn_273"></span>[95:4](cbc14.htm#fr_274) Alternative
+<span id="fn_273"></span>[95:4](cbc14.htm#fr_274.md) Alternative
 translation: then ends the speech of the chiefs, etc.
 
-<span id="fn_274"></span>[95:5](cbc14.htm#fr_275) Cumkal is called "the
-head of the land" on pages [86](cbc12.htm#page_86) and
-[126](cbc21.htm#page_126) of the Chumayel, so it is likely that the
+<span id="fn_274"></span>[95:5](cbc14.htm#fr_275.md) Cumkal is called "the
+head of the land" on pages [86](cbc12.htm#page_86.md) and
+[126](cbc21.htm#page_126.md) of the Chumayel, so it is likely that the
 territory of Ceh Pech is the source of this ritual.
 
-<span id="fn_275"></span>[95:6](cbc14.htm#fr_276) Chac-¢i¢ib is
+<span id="fn_275"></span>[95:6](cbc14.htm#fr_276.md) Chac-¢i¢ib is
 *Cardinalis cardinalis yucatanicus* Ridg. Bull. Mus. Comp. Zool.
 Harvard, 50, p. 141. Its feathers are a cure for yellow fever (Libro del
 Judío, p. 80).
 
-<span id="fn_276"></span>[95:7](cbc14.htm#fr_277) The text reads: I am
+<span id="fn_276"></span>[95:7](cbc14.htm#fr_277.md) The text reads: I am
 set over, etc. Probably an error.
 
-<span id="fn_277"></span>[95:8](cbc14.htm#fr_278) *Bixa orellana* L.,
+<span id="fn_277"></span>[95:8](cbc14.htm#fr_278.md) *Bixa orellana* L.,
 the butter-color of commerce.
 
-<span id="fn_278"></span>[96:1](cbc14.htm#fr_279) *Tocabal* could mean
+<span id="fn_278"></span>[96:1](cbc14.htm#fr_279.md) *Tocabal* could mean
 either "removed" or "burned." In connection with *hoyob*, a stick for
 scraping something, the former definition is applied here. It is
 possible, ho ever, that a spoonlike censer is meant.
 
-<span id="fn_279"></span>[96:2](cbc14.htm#fr_280) *Habon*, in the text,
+<span id="fn_279"></span>[96:2](cbc14.htm#fr_280.md) *Habon*, in the text,
 is assumed to be a corruption of the Spanish *habito*. The Maya *hobon*,
 hollow, may be intended.
 
-<span id="fn_280"></span>[96:3](cbc14.htm#fr_281) *Hom-toch-ac* could
+<span id="fn_280"></span>[96:3](cbc14.htm#fr_281.md) *Hom-toch-ac* could
 mean hollow stiff tortoise-shell.
 
-<span id="fn_281"></span>[96:4](cbc14.htm#fr_282) *Keken* originally was
+<span id="fn_281"></span>[96:4](cbc14.htm#fr_282.md) *Keken* originally was
 a large variety of peccary, but the term was later applied to European
 swine.
 
-<span id="fn_282"></span>[96:5](cbc14.htm#fr_283) *Ol* is a tender tip
+<span id="fn_282"></span>[96:5](cbc14.htm#fr_283.md) *Ol* is a tender tip
 or sprout. *Ak* means tongue, also something fresh or tender.
 
-<span id="fn_283"></span>[96:6](cbc14.htm#fr_284) *Coz*, *Micrastur
+<span id="fn_283"></span>[96:6](cbc14.htm#fr_284.md) *Coz*, *Micrastur
 melanoleucus* Viellot. Bull. Mus. Comp. Zool Harvard, 50, p. 121.
 
-<span id="fn_284"></span>[96:7](cbc14.htm#fr_285) Pic~~h~~um, or
+<span id="fn_284"></span>[96:7](cbc14.htm#fr_285.md) Pic~~h~~um, or
 pic~~h~~: *Dives dives* Lichtenstein. Pueblo Blackbird. *Ibid*., 50, p.
 141.
 
-<span id="fn_285"></span>[96:8](cbc14.htm#fr_286) *Cf.* p. 94, note
- [2](#fn_265).
+<span id="fn_285"></span>[96:8](cbc14.htm#fr_286.md) *Cf.* p. 94, note
+ [2](#fn_265.md).
 
-<span id="fn_286"></span>[96:9](cbc14.htm#fr_287) *Dasyprocta punctata
+<span id="fn_286"></span>[96:9](cbc14.htm#fr_287.md) *Dasyprocta punctata
 yucatana* Goldman. Mexican agouti, *haleu*.
 
-<span id="fn_287"></span>[96:10](cbc14.htm#fr_288) *Chay*: *Jatropha
+<span id="fn_287"></span>[96:10](cbc14.htm#fr_288.md) *Chay*: *Jatropha
 aconitifolia* Mill. "They eat the leaves of this tree much as they do
 cabbages, but they are not as tasty ("Relaciones de Yucatan, I, p. 56).
 
-<span id="fn_288"></span>[96:11](cbc14.htm#fr_289) Alternative
+<span id="fn_288"></span>[96:11](cbc14.htm#fr_289.md) Alternative
 translation: they are useful to me.
 
-<span id="fn_289"></span>[97:1](cbc14.htm#fr_290) Maya, *caz*. Probably
+<span id="fn_289"></span>[97:1](cbc14.htm#fr_290.md) Maya, *caz*. Probably
 *çaz*, something clear, is intended.
 
-<span id="fn_290"></span>[97:2](cbc14.htm#fr_291) *Xanthosoma yucatanse*
+<span id="fn_290"></span>[97:2](cbc14.htm#fr_291.md) *Xanthosoma yucatanse*
 Engl.; also the yam, a European importation.
 
-<span id="fn_291"></span>[97:3](cbc14.htm#fr_292) The Maya were
+<span id="fn_291"></span>[97:3](cbc14.htm#fr_292.md) The Maya were
 accustomed to make a furtive signal with the tongue. Motul.
 
-<span id="fn_292"></span>[97:4](cbc14.htm#fr_293) A reference to puffing
+<span id="fn_292"></span>[97:4](cbc14.htm#fr_293.md) A reference to puffing
 tobacco smoke toward the four world-quarters.
 
-<span id="fn_293"></span>[97:5](cbc14.htm#fr_294) This name is applied
+<span id="fn_293"></span>[97:5](cbc14.htm#fr_294.md) This name is applied
 to the imported taro, but here probably a form of *Xanthosoma* is meant
 (Standley, 1930, p. 224).
 
-<span id="fn_294"></span>[97:6](cbc14.htm#fr_295) <u>¢</u>ol. Certain
+<span id="fn_294"></span>[97:6](cbc14.htm#fr_295.md) <u>¢</u>ol. Certain
 green flattish squashes, good and palatable. Motul.
 
-<span id="fn_295"></span>[97:7](cbc14.htm#fr_296) *Yucalpeten* is an
+<span id="fn_295"></span>[97:7](cbc14.htm#fr_296.md) *Yucalpeten* is an
 attempt to turn Yucatan into a name comprehensible in Maya.
 
-<span id="fn_296"></span>[98:1](cbc14.htm#fr_297) The frequent mention
+<span id="fn_296"></span>[98:1](cbc14.htm#fr_297.md) The frequent mention
 of the language of Zuyua, a mythical place-name of the Nahua peoples,
 suggests that this interrogatory once abounded in terms familiar to the
 Toltec conquerors of Yucatan but not understood by the people of the
@@ -974,4 +974,4 @@ of caste and chieftainship among the Maya will be found in Appendix E.
 
 ------------------------------------------------------------------------
 
-[Next: X: The Creation of the World](cbc15)
+[Next: X: The Creation of the World](cbc15.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str10)  [Next](str12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str10)  [Next](str12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Stukeley, \[1740\], at Intangible Textual Heritage
 <span id="img_pl21"></span> <span align="CENTER"> [![Plate 21. An inward
 View of Stonehenge or Side view of the cell. AA the
 altar.](tn/pl21.jpg)  
-Click to enlarge](img/pl21.jpg)  
+Click to enlarge](img/pl21.jpg.md)  
 Plate 21. An inward View of Stonehenge or Side view of the cell. AA the
 altar.  
 </span>
@@ -40,7 +40,7 @@ or when holy days are observ’d." This great work is included between two
 ditches running east and west in a parallel, which are 350 foot asunder.
 When I mention 350 foot, I speak in the gross, and as we should set it
 down in an *English* scale: but if we look into *Plate*
-[VI.](str04.htm#img_pl06) where I have given a <span
+[VI.](str04.htm#img_pl06.md) where I have given a <span
 class="margnote">TAB. VI.</span> comparative view of our *English* foot,
 and the most ancient cubit; at first sight we discern, this measure
 means 200 of the Druid cubits. This *cursus* is a little above l0000
@@ -163,7 +163,7 @@ Extensi rapiuntur*.---------------------
 
 <span id="img_pl22"></span> <span align="CENTER"> [![Plate 22: An inward
 view of the Cell obliquely](tn/pl22.jpg)  
-Click to enlarge](img/pl22.jpg)  
+Click to enlarge](img/pl22.jpg.md)  
 Plate 22: An inward view of the Cell obliquely  
 </span>
 
@@ -205,4 +205,4 @@ describe these more largely, another time. We read in *Homer* and
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](str12)
+[Next: Chapter X](str12.md)

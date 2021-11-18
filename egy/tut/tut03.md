@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](tut02)  [Next](tut04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](tut02)  [Next](tut04.md) 
 
 ------------------------------------------------------------------------
 
@@ -228,7 +228,7 @@ statues, etc., piled up 4 or 5 feet high. Then we come to the sealed
 door behind which, I am sure, is the king and God knows what. Some of
 the stuff is in excellent condition, some is poor, but the whole thing
 is marvellous; and then there is that sealed door!! Even Lacau <span
-id="fr_0"></span>[1](#fn_0) was touched by the sight. \[Two paragraphs
+id="fr_0"></span>[1](#fn_0.md) was touched by the sight. \[Two paragraphs
 omitted.\] It is going to cost me something awful, but I am going to try
 to do it all myself. I think it will take Carter and three assistants
 nearly two years to remove, if we find much behind the seals. I am
@@ -322,9 +322,9 @@ British Museum,
 
 ### Footnotes
 
-<span id="fn_0"></span>[xix:1](tut03.htm#fr_0) The present Director of
+<span id="fn_0"></span>[xix:1](tut03.htm#fr_0.md) The present Director of
 the Service of Antiquities.
 
 ------------------------------------------------------------------------
 
-[Next: The Reign Of Tutankhamen](tut04)
+[Next: The Reign Of Tutankhamen](tut04.md)

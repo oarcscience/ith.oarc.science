@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow09)  [Next](fow11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow09)  [Next](fow11.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ lives."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Woman's Hate](fow11)
+[Next: Chapter IX: Woman's Hate](fow11.md)

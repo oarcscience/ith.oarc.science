@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb16)  [Next](mlb18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb16)  [Next](mlb18.md) 
 
 ------------------------------------------------------------------------
 
@@ -502,4 +502,4 @@ So much for the rainbow.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Doctors, Prophets, and Witches](mlb18)
+[Next: Chapter XVI: Doctors, Prophets, and Witches](mlb18.md)

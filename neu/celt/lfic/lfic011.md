@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic010)  [Next](lfic012) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic010)  [Next](lfic012.md) 
 
 ------------------------------------------------------------------------
 
@@ -331,4 +331,4 @@ her into a fresh young lass.when she is hot enough.
 
 ------------------------------------------------------------------------
 
-[Next: The Goban Saor](lfic012)
+[Next: The Goban Saor](lfic012.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas16)  [Next](sas18)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas16)  [Next](sas18.md)  
 
 ------------------------------------------------------------------------
 
@@ -474,4 +474,4 @@ systems here discussed.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Eighteen: Shakta Advaitavada](sas18)
+Next: [Chapter Eighteen: Shakta Advaitavada](sas18.md)

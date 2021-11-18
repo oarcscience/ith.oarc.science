@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc24)  [Next](busc26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc24)  [Next](busc26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -23,7 +23,7 @@ Heritage
 
 <span class="smallcaps">For</span> the two following passages from the
 *Questions of Milinda* see the Introduction, pp.
-[14](busc03.htm#page_14), [19](busc03.htm#page_19).
+[14](busc03.htm#page_14), [19](busc03.htm#page_19.md).
 
 The denial of the individual in the following is not the denial of a
 fact of existence, but of the theory which was then and is still held,
@@ -63,7 +63,7 @@ medicines necessary for the sick? Who enjoys them? Who keeps the
 commandments? Who practises meditation? Who realizes Nirvana of great
 fruit? Who destroys life? Who takes what is not given? Who indulges in
 evil lusts? Who speaks untruth? Who drinks intoxicants? Who commits the
-five crimes <span id="fr_22"></span>[1](#fn_22) that bring their fruit
+five crimes <span id="fr_22"></span>[1](#fn_22.md) that bring their fruit
 even in this life? Therefore there is no good, no bad, there is no doer
 of good or evil deeds, and no one who causes them to be done. There is
 no fruit or ripening of the fruit of good and bad actions. If, reverend
@@ -74,7 +74,7 @@ Nāgasena, any one were to kill you, he would not
 be guilty of taking life, nor have you even a teacher, or instructor, or
 ordination. When you say that your fellow brethren call you Nāgasena,
 who in this matter is Nāgasena? Can it be, reverend sir, that Nāgasena
-is the hair <span id="fr_23"></span>[1](#fn_23)?" "No, O king." "Is he
+is the hair <span id="fr_23"></span>[1](#fn_23.md)?" "No, O king." "Is he
 the hair of the body?" "No, O king." "Is Nāgasena the nails, teeth,
 skin, flesh, sinews, bones, marrow, kidneys, heart, liver, abdomen,
 spleen, lungs, intestines, mesentery, stomach, excrement, bile, phlegm,
@@ -152,11 +152,11 @@ Milinda*, 25 ff.)
 
 ### Footnotes
 
-<span id="fn_22"></span>[119:1](busc25.htm#fr_22) The first five of the
+<span id="fn_22"></span>[119:1](busc25.htm#fr_22.md) The first five of the
 six great crimes mentioned in the Jewel Discourse, see [p.
-101](busc21.htm#page_101).
+101](busc21.htm#page_101.md).
 
-<span id="fn_23"></span>[120:1](busc25.htm#fr_23) This list is the
+<span id="fn_23"></span>[120:1](busc25.htm#fr_23.md) This list is the
 Formula of the thirty-two parts of the body, a subject of meditation for
 realizing the doctrine of the impermanence of things. It occurs in the
 first section of the Miscellaneous Collection of Discourses.
@@ -165,6 +165,6 @@ first section of the Miscellaneous Collection of Discourses.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII. Non-Individuality and Moral Responsibility](busc26)
+[Next: XXIII. Non-Individuality and Moral Responsibility](busc26.md)
 
 </div>

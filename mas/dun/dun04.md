@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](dun03)  [Next](dun05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](dun03)  [Next](dun05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Duncan's Masoic Ritual and Monitor*, by Malcom C. Duncan, \[1866\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 <span id="img_08700"></span> ![](img/08700.jpg)
 
-# MASTER MASON, OR THIRD DEGREE. <span id="fr_30"></span>[1](#fn_30)
+# MASTER MASON, OR THIRD DEGREE. <span id="fr_30"></span>[1](#fn_30.md)
 
 THE ceremony of opening and conducting the business of a Lodge of Master
 Masons is nearly the same as in the Entered Apprentice and Fellow
@@ -75,7 +75,7 @@ about it.
 A Master Masons' Lodge is styled by the Craft the "Sanctum Sanctorum, or
 Holy of Holies, of King Solomon's Temple," and when the Lodge is opened
 on this Degree, both points of the compasses are elevated above the
-square. (See [engraving](#img_08800).)
+square. (See [engraving](#img_08800)..md)
 
 A candidate for the sublime Degree of a Master Mason is generally (as in
 the preceding Degrees) prepared by the Junior Deacon and the two
@@ -90,7 +90,7 @@ candidate's knees, and both arms are taken out of his shirt-sleeves,
 leaving his legs and breast bare. A rope, technically called, by Masons,
 a cable-tow, is wound around his body three times, and a bandage, or
 hoodwink, is tied very closely over his eyes. (See
-[engraving](#img_08900).)
+[engraving](#img_08900)..md)
 
 When the candidate is prepared, the Deacon takes him by the left arm,
 leads him up to the door of the Lodge, and gives three *loud, distinct
@@ -99,7 +99,7 @@ knocks*.
 The Senior Deacon, who has stationed himself at the inner door, at the
 right of the Senior Warden, on hearing these raps rises to his feet,
 makes the sign of a Master Mason to the Master (see [Fig.
-6](dun02.htm#img_01800), [p. 18](dun02.htm#page_18)), and says:
+6](dun02.htm#img_01800), [p. 18](dun02.htm#page_18).md), and says:
 
 <span id="page_89">p. 89</span>
 
@@ -124,7 +124,7 @@ CANDIDATE DULY AND TRULY PREPARED.</td>
 </tbody>
 </table>
 
-(See Note  [J](dun10.htm#xref_J), Appendix.)
+(See Note  [J](dun10.htm#xref_J), Appendix..md)
 
 S. D.--Who comes here?
 
@@ -178,7 +178,7 @@ The Deacon then closes the door, repairs to the centre of the Lodge-room
 before the altar, and sounds his rod on the floor three times (• • •),
 which is responded to by the Master with three raps of the gavel, when
 the Senior Deacon makes the sign of a Master Mason (see [Fig.
-6](dun02.htm#img_01800), [p. 18](dun02.htm#page_18)), and says:
+6](dun02.htm#img_01800), [p. 18](dun02.htm#page_18).md), and says:
 
 <span id="page_90">p. 90</span>
 
@@ -389,10 +389,10 @@ Brother, you will step off with your left foot one full step, and bring
 the heel of your right in the hollow of your left foot; now step off
 with your right foot, and bring the heel of your left in the hollow of
 your right foot; now step off with your left foot, and bring both heels
-together. (See [Fig. 14](#img_09300).)
+together. (See [Fig. 14](#img_09300)..md)
 
 <span id="img_09300"></span> ![FIG. 14. FIRST THREE STEPS IN
-MASONRY.](img/09300.jpg)  
+MASONRY.](img/09300.jpg.md)  
 FIG. 14. FIRST THREE STEPS IN MASONRY.
 
 S. W.--The candidate is in order, Worshipful, and awaits your further
@@ -411,7 +411,7 @@ willing to take the oath?
 <span id="page_94">p. 94</span>
 
 <span id="img_09400"></span> ![FIG. 15. CANDIDATE TAKING THE OATH OF A
-MASTER MASON.](img/09400.jpg)  
+MASTER MASON.](img/09400.jpg.md)  
 FIG. 15. CANDIDATE TAKING THE OATH OF A MASTER MASON.
 
 (left to right: Worshipful Master Altar, Candidate. Conductor.)
@@ -498,7 +498,7 @@ than losing my own.
 steady resolution to perform the same, without any hesitation, mental
 reservation, or secret evasion of mind what-ever, binding myself, under
 no less penalty than that of having my body severed in two, <span
-id="fr_31"></span>[1](#fn_31) my bowels taken from thence and burned to
+id="fr_31"></span>[1](#fn_31.md) my bowels taken from thence and burned to
 ashes, the ashes scattered before the four winds of heaven, that no more
 remembrance might be had of so vile and wicked a wretch as I would be,
 should I ever, knowingly, violate this my Master Mason's obligation. So
@@ -513,8 +513,8 @@ W. M.--Let him receive further light.
 
 Conductor here takes off the hoodwink and removes the cable-tow, and all
 around the altar place their hands in the position of the duegard of a
-Master Mason. (See [Fig. 5](dun02.htm#img_01703), [p.
-17](dun02.htm#page_17).) The Worshipful Master gives one rap with his
+Master Mason. (See [Fig. 5](dun02.htm#img_01703.md), [p.
+17](dun02.htm#page_17)..md) The Worshipful Master gives one rap with his
 gavel, when all the brethren retire to their seats, leaving at the altar
 the Master, conductor, and candidate.
 
@@ -590,15 +590,15 @@ Conductor--Tu.
 W. M.--Bal.
 
 Conductor--Cain. (Pronounced by the conductor--Tubal Cain.) <span
-id="fr_32"></span>[1](#fn_32)
+id="fr_32"></span>[1](#fn_32.md)
 
 W. M. (lifting the candidate up.)--You will arise, and salute the Junior
 and Senior Wardens as an obligated Master Mason.
 
 Here Lodges differ in their mode of work; some only pass the candidate
 around the Lodge once, and as he passes the Junior and Senior Wardens he
-gives the Master's sign. (See [Fig. 6](dun02.htm#img_01800), [p.
-18](dun02.htm#page_18).) The Master should instruct the candidate (and
+gives the Master's sign. (See [Fig. 6](dun02.htm#img_01800.md), [p.
+18](dun02.htm#page_18)..md) The Master should instruct the candidate (and
 he generally does) how to make the signs before he gets up from the
 altar, after taking the obligation.
 
@@ -621,8 +621,8 @@ Conductor--By the pass and token of the pass of a Master Mason.
 
 J. W. (offering his hand to candidate.)--Advance the token. (They take
 hold of each other's hands by the real grip of a Fellow Craft. See real
-grip of a Fellow Craft, [Fig. 12](dun03.htm#img_06700), [p.
-67](dun03.htm#page_67).)
+grip of a Fellow Craft, [Fig. 12](dun03.htm#img_06700.md), [p.
+67](dun03.htm#page_67)..md)
 
 J. W.--Will you be off, or from?
 
@@ -634,7 +634,7 @@ Conductor--From the real grip of a Fellow Craft to the pass grip of a
 Master Mason.
 
 J. W.--Pass. (They now pass to the pass grip of a Master Mason. (See
-[Fig. 16](#img_09700), [p. 97](#page_97).)
+[Fig. 16](#img_09700), [p. 97](#page_97)..md)
 
 J. W.--What is that?
 
@@ -662,7 +662,7 @@ Conductor--Tu.
 
 J. W.--Bal.
 
-Conductor--Cain. ([Pronounced](errata.htm#2) by conductor--Tubal Cain.)
+Conductor--Cain. ([Pronounced](errata.htm#2) by conductor--Tubal Cain..md)
 
 J. W.--The token is right, and the pass is right. You will pass on to
 the Senior Warden's station in the west, for his examination.
@@ -711,7 +711,7 @@ The conductor now conducts the candidate back to the Worshipful Master
 in the east.
 
 W. M.--Brother Gabe, as you are clothed as a Master Mason, <span
-id="fr_33"></span>[1](#fn_33) it is necessary that you should have the
+id="fr_33"></span>[1](#fn_33.md) it is necessary that you should have the
 working-tools or a Master Mason. (Master has a small trowel, which he
 shows the candidate as he commences to read concerning it.)
 
@@ -750,8 +750,8 @@ divested of, and await my further will and pleasure.
 
 The conductor then leads the candidate to the centre of the Lodge, at
 the altar, and makes duegard and sign of a Master Mason (see Figs.
-[5](dun02.htm#img_01703), [6](dun02.htm#img_01800), pp.
-[17](dun02.htm#page_17), [18](dun02.htm#page_18)), which is responded to
+[5](dun02.htm#img_01703), [6](dun02.htm#img_01800.md), pp.
+[17](dun02.htm#page_17), [18](dun02.htm#page_18).md), which is responded to
 by the Master, after which the conductor and candidate pass out of the
 Lodge. While they are going out, the Master gives three sounds with his
 gavel (• • •), and says, in a loud tone of voice:
@@ -829,8 +829,8 @@ J. W. (making sign.)--Nothing, Worshipful.
 
 W. M.--Have you any thing on your desk, Brother Secretary?
 
-Sec. (makes the sign, see [Fig. 6](dun02.htm#img_01800), [p.
-18](dun02.htm#page_18).)--Nothing, Worshipful.
+Sec. (makes the sign, see [Fig. 6](dun02.htm#img_01800.md), [p.
+18](dun02.htm#page_18)..md)--Nothing, Worshipful.
 
 W. M.--Has any brother present any thing to offer for the benefit of
 Masonry? (nothing being said, Worshipful Master continues): We will then
@@ -911,7 +911,7 @@ silently out from his seat to the floor, and confronts the blind-folded
 candidate, clinching him by the collar in a very rough manner, and at
 the same time exclaiming:
 
-<span id="img_10300"></span> ![The First Ruffian](img/10300.jpg)
+<span id="img_10300"></span> ![The First Ruffian](img/10300.jpg.md)
 
 <span class="small">left to right: S. D., or Conductor. Candidate. First
 Ruffian, Jubela, generally the J. W. in the south.</span>
@@ -948,7 +948,7 @@ take your life in a moment!
 
 Conductor--I shall not!
 
-<span id="img_10400"></span> ![The Second Ruffian](img/10400.jpg)
+<span id="img_10400"></span> ![The Second Ruffian](img/10400.jpg.md)
 
 <span class="small">left to right: S. D., or Conductor. Candidate.
 Second Ruffian, Jubelo, generally the S. W. in the west.</span>
@@ -1013,7 +1013,7 @@ Conductor--I will not!
 Ruffian--Then die!
 
 The Worshipful Master here gives the candidate a blow on his head with a
-buckskin bag, or setting-maul; <span id="fr_34"></span>[1](#fn_34) at
+buckskin bag, or setting-maul; <span id="fr_34"></span>[1](#fn_34.md) at
 the same
 
 <span id="page_106">p. 106</span>
@@ -1023,7 +1023,7 @@ edge of the canvas, trips him up, and the candidate falls upon his back,
 caught in the canvas clear of the floor, unharmed, but, in many
 instances, badly frightened.
 
-<span id="img_10600"></span> ![The Third Ruffian](img/10600.jpg)
+<span id="img_10600"></span> ![The Third Ruffian](img/10600.jpg.md)
 
 <div align="center">
 
@@ -1078,7 +1078,7 @@ First Ruffian--Is that you, Jubela?
 Answer--Yes.
 
 Second Ruffian--Is that you, Jubelum? <span
-id="fr_35"></span>[1](#fn_35)
+id="fr_35"></span>[1](#fn_35.md)
 
 Answer--Yes.
 
@@ -1263,7 +1263,7 @@ into the Lodge, stamping and scuffling along, especially if only a few
 of them, to impress upon the candidate's mind the idea that there are
 more. They advance before the Master in the east, and form across the
 Lodge, when all make the duegard and sign of a Fellow Craft ([Figs.
-3](dun02.htm#img_01701) and [p. 17](dun02.htm#page_17)) which is
+3](dun02.htm#img_01701) and [p. 17](dun02.htm#page_17).md) which is
 responded to by the Master. Then one of the best posted relates the
 responded following, in a clear and distinct voice:
 
@@ -1354,7 +1354,7 @@ One of the brethren then replies: "We will go a southwesterly course,
 and will come up with our brothers." Attempting to get up, he exclaims,
 "Hallo! what's this?" at the same time pulling up the evergreen--or
 acacia, as it is styled--at the head of the grave. <span
-id="fr_36"></span>[1](#fn_36) "What means this acacia coming up so
+id="fr_36"></span>[1](#fn_36.md) "What means this acacia coming up so
 easily? The ground has been newly broken; this has the appearance of a
 grave," pointing to the candidate on the floor.
 
@@ -1407,7 +1407,7 @@ Master:
 course, and, on my return, after several days of fruit-less search,
 being more weary than my companions, sat down on the brow of a hill to
 rest and refresh myself; and, on rising, accidentally caught hold of a
-sprig of acacia, <span id="fr_37"></span>[1](#fn_37) which, easily
+sprig of acacia, <span id="fr_37"></span>[1](#fn_37.md) which, easily
 giving way, excited my suspicions. Having my curiosity aroused, I
 examined it, and found it to be a grave."
 
@@ -1417,7 +1417,7 @@ with the ruffians, and reports as follows:
 "Most Worshipful King Solomon, while sitting down to rest and refresh
 ourselves, we heard the following horrid exclamations from the clefts of
 the adjacent rocks. The first was the voice of Jubela exclaiming: <span
-id="fr_38"></span>[2](#fn_38) 'Oh! that my throat had been cut across,
+id="fr_38"></span>[2](#fn_38.md) 'Oh! that my throat had been cut across,
 
 <span id="page_114">p. 114</span>
 
@@ -1484,7 +1484,7 @@ Lodge, when one of them reports, in a loud tone of voice:
 
 "Most Worshipful King Solomon, your orders have been duly executed upon
 the three murderers of Grand Master, Hiram Abiff." <span
-id="fr_39"></span>[1](#fn_39)
+id="fr_39"></span>[1](#fn_39.md)
 
 K. S.--You twelve Fellow Crafts will go in search of the body, and, if
 found, observe whether the Master's word, or a key to it, or any thing
@@ -1538,7 +1538,7 @@ refresh himself.
 
 K. S.--Was the Master's word, or a key to it, or any thing appertaining
 to the Master's Degree, on or about it? <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 Answer--Most Worshipful King Solomon, we are but Fellow Crafts; we
 therefore know nothing about the Master's word or the Master's Degree.
@@ -1570,8 +1570,8 @@ All now form in a circle around the body, the Master and
 <span class="contnote">\[paragraph continues\]</span> Wardens at the
 head, when the Master makes the sign of "distress" of a Master Mason,
 which is done by raising both hands and arms above the head. (See grand
-hailing sign of distress, [Fig. 7](dun02.htm#img_01801), [p.
-18](dun02.htm#page_18).) As the Master makes this sign, he says:
+hailing sign of distress, [Fig. 7](dun02.htm#img_01801.md), [p.
+18](dun02.htm#page_18)..md) As the Master makes this sign, he says:
 
 "O Lord my God, I fear the Master's word is forever lost!"
 
@@ -1579,12 +1579,12 @@ I would remark here, that in some Lodges the Master does not make the
 sign of distress first at the body, but only gives the sign of a Master
 Mason, which is done by drawing the right hand across the body, with the
 thumb inward. (See sign of a Master Mason, [Fig.
-6](dun02.htm#img_01800), [p. 18](dun02.htm#page_18).) After the sign is
+6](dun02.htm#img_01800), [p. 18](dun02.htm#page_18)..md) After the sign is
 made, the whole party commence marching around the body with the sun,
 singing the following dirge; and, if the Lodge has an organ or melodeon,
 it is played on this occasion, in a very solemn and impressive manner.
 
-<span id="img_11700"></span> ![Sheet music](img/11700.jpg)
+<span id="img_11700"></span> ![Sheet music](img/11700.jpg.md)
 
 <div style="margin-left: 32px">
 
@@ -1619,15 +1619,15 @@ Take us to thy Lodge on High."
 </div>
 
 Master (as K. S.) makes the "grand hailing sign of distress" (see [Fig.
-7](dun02.htm#img_01801), [p. 18](dun02.htm#page_18)--some Masters make
+7](dun02.htm#img_01801), [p. 18](dun02.htm#page_18.md)--some Masters make
 this sign twice), accompanied by the following exclamation, viz.: "O
 Lord my God, I fear the Master's word is forever lost!" He then turns to
 the Junior Warden, and says: "You will take the body by the Entered
 Apprentice grip, and see if it can be raised."
 
 The Junior Warden then takes hold of the candidate's right hand, giving
-him the Entered Apprentice's grip (see [Fig. 9](dun02.htm#img_03600),
-[p. 36](dun02.htm#page_36)), and then lets his hand slip off in a
+him the Entered Apprentice's grip (see [Fig. 9](dun02.htm#img_03600.md),
+[p. 36](dun02.htm#page_36).md), and then lets his hand slip off in a
 careless manner, and reports:
 
 "Most Worshipful King Solomon, owing to the high state of putrefaction,
@@ -1643,8 +1643,8 @@ K. S.--My worthy brother of Tyre, I will thank you to endeavor to raise
 the body by the Fellow Craft's grip.
 
 The Senior Warden then takes the candidate's right hand, giving the real
-grip of a Fellow Craft (see [Fig. 12](dun03.htm#img_06700), [p.
-67](dun03.htm#page_67)), and letting his hand slip off quickly, he
+grip of a Fellow Craft (see [Fig. 12](dun03.htm#img_06700.md), [p.
+67](dun03.htm#page_67).md), and letting his hand slip off quickly, he
 reports as follows:
 
 "Owing to the reason before given, the flesh cleaves from the bone, and
@@ -1656,7 +1656,7 @@ K. S.--O Lord my God! O Lord my God!! O Lord my God!!! Is there no hope
 for the widow's son?
 
 At each exclamation he gives the grand hailing sign of distress (see
-[Fig. 7](dun02.htm#img_01801), [p. 18](dun02.htm#page_18)), which would
+[Fig. 7](dun02.htm#img_01801), [p. 18](dun02.htm#page_18).md), which would
 be three times, then, turning to the Senior Warden, says:
 
 "My worthy brother of Tyre, what shall we do?"
@@ -1681,7 +1681,7 @@ cannot pass; turn from him that he may rest, till he shall accomplish
 his day. For there is hope of a tree, if it be cut down, that it will
 
 <span id="img_11900"></span> ![BRETHREN KNEELING AT PRAYER AROUND THE
-GRAVE OF HIRAM ABIFF, THE WIDOW'S SON.](img/11900.jpg)  
+GRAVE OF HIRAM ABIFF, THE WIDOW'S SON.](img/11900.jpg.md)  
 BRETHREN KNEELING AT PRAYER AROUND THE GRAVE OF HIRAM ABIFF, THE WIDOW'S
 SON.
 
@@ -1701,7 +1701,7 @@ All the brethren now rise to their feet.
 
 K. S. (to the S. W.)--My worthy brother of Tyre, I shall endeavor (with
 your assistance) to raise the body by the strong grip, or lion's paw, of
-the tribe of Judah. (See [Fig. 17](#img_12000).)
+the tribe of Judah. (See [Fig. 17](#img_12000)..md)
 
 The Master steps to the feet of the candidate, bending over, takes him
 by the real grip of a Master Mason, places his right foot against the
@@ -1724,14 +1724,14 @@ brethren, raises him up perpendicularly in a standing position, and,
 when fairly on his feet, gives him the
 
 grand Masonic word on the five points of fellowship. (See [Fig.
-18](#img_12100).) In the mean time, the canvas is slipped out of the
+18](#img_12100)..md) In the mean time, the canvas is slipped out of the
 Lodge, and as the Master commences to give or whisper the word in the
 candidate's ear, some one of the brethren slips off the hoodwink, and
 this is the first time he has seen light, probably, in an hour. The
 following is the representation of the Master giving candidate the grand
 Masonic word, or at least this is a substitute, for, ac-cording to
 Masonic tradition, the right one was lost at the death of Hiram
-Abiff. <span id="fr_41"></span>[1](#fn_41) This word cannot be given in
+Abiff. <span id="fr_41"></span>[1](#fn_41.md) This word cannot be given in
 any other way, and by Masons is considered a test of all book Masons.
 
 The Master having given the word, which is MAH-HAH-BONE, in low breath,
@@ -1751,7 +1751,7 @@ which he has received it. The Master, stepping back one pace, now says:
 "Brother Gabe, you have now received that grand Masonic word, which you
 have solemnly sworn never to give in any other way or form than that in
 which you have received it, which is on the five points of fellowship,
-and then in low breath. (See page [247](dun08.htm#page_247).)
+and then in low breath. (See page [247](dun08.htm#page_247)..md)
 
 'The five points of fellowship are--foot to foot, knee to knee, breast
 to breast, hand to back, and cheek to cheek, or mouth to ear.
@@ -1762,7 +1762,7 @@ the inside of your right foot to the inside of the right foot of the one
 to whom you are going to give the word, the inside of your own knee to
 his, laying your breast close against his, your left hands on each
 other's back, and each one putting his mouth to the other's right
-ear.](img/12100.jpg)  
+ear.](img/12100.jpg.md)  
 FIG 18. MASTER GIVING THE GRAND MASONIC WORD ON THE FIVE POINTS OF
 FELLOWSHIP.  
 It is done by putting the inside of your right foot to the inside of the
@@ -1800,7 +1800,7 @@ Master continues:
 historical account of this degree."
 
 Master now takes his seat in the east, and requests candidate
-[to](errata.htm#3) stand before him.
+[to](errata.htm#3.md) stand before him.
 
 ### HISTORICAL ACCOUNT.
 
@@ -1941,7 +1941,7 @@ a duegard of a Master Mason, which alludes to the manner in which his
 hands were placed when he took the oath of a Master Mason), to guard
 their nostrils--but nothing was found on or about the body excepting the
 jewel of his office, by which his body was easily discovered. <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 King Solomon then ordered them to go and assist in raising the body; and
 it was agreed between him and Hiram, king of Tyre, that as the Master's
@@ -1996,11 +1996,11 @@ and perseverance accomplish all things.
 
 The Master now gives and explains to the candidate the several signs and
 tokens of this Degree, commencing with the first (see Figs.
-[5](dun02.htm#img_01703), [6](dun02.htm#img_01800), and
-[7](dun02.htm#img_01801), pages [17](dun02.htm#page_17) and
-[18](dun02.htm#page_18)) and ending with the grips. (See Figs.
-[16](#img_09700) and [17](#img_12000), pages [97](#page_97) and
-[120](#page_120); also see Note  [L](dun10.htm#xref_L), Appendix.)
+[5](dun02.htm#img_01703), [6](dun02.htm#img_01800.md), and
+[7](dun02.htm#img_01801), pages [17](dun02.htm#page_17.md) and
+[18](dun02.htm#page_18).md) and ending with the grips. (See Figs.
+[16](#img_09700) and [17](#img_12000), pages [97](#page_97.md) and
+[120](#page_120); also see Note  [L](dun10.htm#xref_L), Appendix..md)
 
 The Master next calls the candidate's attention to the three grand
 Masonic pillars, usually delineated on Master's carpet (a
@@ -2038,7 +2038,7 @@ thousand Entered Apprentices, or bearers of burdens. All these were,
 classed and arranged in such a manner, by the wisdom of Solomon, that
 neither envy, discord, nor confusion was suffered to interrupt that
 universal peace and tranquillity which pervaded the world at that
-important period." <span id="fr_43"></span>[1](#fn_43)
+important period." <span id="fr_43"></span>[1](#fn_43.md)
 
 <span id="page_127">p. 127</span>
 
@@ -2108,7 +2108,7 @@ glorious immortality.
 
 |                                      |
 |--------------------------------------|
-| ![The Pot of Incense](img/12800.jpg) |
+| ![The Pot of Incense](img/12800.jpg.md) |
 
 Is an emblem of a pure heart, which is always an acceptable sacrifice to
 the Deity; and as this glows with fervent heat, so should our hearts
@@ -2121,7 +2121,7 @@ our existence, for the manifold blessings and comforts we enjoy.
 
 |                               |
 |-------------------------------|
-| ![The Beehive](img/12801.jpg) |
+| ![The Beehive](img/12801.jpg.md) |
 
 Is an emblem of industry, and recommends the practice of that virtue to
 all created beings, from the highest seraph in heaven to the lowest
@@ -2154,7 +2154,7 @@ protection as Masons.
 
 |                                                                           |
 |---------------------------------------------------------------------------|
-| ![The Book of Constitutions, Guarded by the Tyler's Sword](img/12802.jpg) |
+| ![The Book of Constitutions, Guarded by the Tyler's Sword](img/12802.jpg.md) |
 
 Reminds us that we should be ever watchful and guarded in our thoughts,
 words, and actions, particularly when before the enemies of Masonry;
@@ -2169,7 +2169,7 @@ circumspection.
 
 |                                                       |
 |-------------------------------------------------------|
-| ![The Sword Pointing to a Naked Heart](img/12900.jpg) |
+| ![The Sword Pointing to a Naked Heart](img/12900.jpg.md) |
 
 Demonstrates that justice will sooner or later overtake us; and although
 our thoughts, words, and actions may be hidden from the eyes of man, yet
@@ -2181,7 +2181,7 @@ that
 
 |                                      |
 |--------------------------------------|
-| ![The All-seeing eye](img/12901.jpg) |
+| ![The All-seeing eye](img/12901.jpg.md) |
 
 whom the sun, moon, and stars obey, and under whose watchful care even
 comets perform their stupendous revolutions, beholds the inmost recesses
@@ -2193,7 +2193,7 @@ of the human heart, and will reward us according to our works.
 
 |                                          |
 |------------------------------------------|
-| ![The Anchor and the Ark](img/12902.jpg) |
+| ![The Anchor and the Ark](img/12902.jpg.md) |
 
 Are emblems of a well-grounded hope and a well-spent life. They are
 emblematical of that divine ark which safely bears us over this
@@ -2201,7 +2201,7 @@ tempestuous sea of troubles, and that anchor which shall safely moor us
 in a peaceful harbor, where the wicked cease from troubling, and the
 weary shall find rest.
 
-### THE FORTY-SEVENTH PROBLEM OF EUCLID. <span id="fr_44"></span>[1](#fn_44)
+### THE FORTY-SEVENTH PROBLEM OF EUCLID. <span id="fr_44"></span>[1](#fn_44.md)
 
 This was an invention of our ancient friend and brother, the great
 Pythagoras, who, in his travels through Asia, Africa, and <span
@@ -2209,7 +2209,7 @@ id="img_12903"></span>
 
 |                                              |
 |----------------------------------------------|
-| ![The 47th Problem of Euclid](img/12903.jpg) |
+| ![The 47th Problem of Euclid](img/12903.jpg.md) |
 
 Europe, was initiated into several orders of priesthood, and raised to
 the sublime degree of a Master Mason. This wise philosopher enriched his
@@ -2231,7 +2231,7 @@ id="img_13000"></span>
 
 |                                 |
 |---------------------------------|
-| ![The Hourglass](img/13000.jpg) |
+| ![The Hourglass](img/13000.jpg.md) |
 
 without astonishment behold the little particles which are contained in
 this machine, how they pass away almost imperceptibly, and yet, to our
@@ -2249,7 +2249,7 @@ id="img_13001"></span>
 
 |                              |
 |------------------------------|
-| ![The Scythe](img/13001.jpg) |
+| ![The Scythe](img/13001.jpg.md) |
 
 launches us into eternity. Behold! what havoc the scythe of time makes
 among the human race: if by chance we should escape the numerous evils
@@ -2602,7 +2602,7 @@ the cement, which unites a building into one common mass; but we, as
 free and accepted Masons, are taught to make use of it for the more
 noble and glorious purpose of spreading the cement of brotherly love and
 affection, &c., &c. (See *Monitor* for the balance of this answer, or
-page [99](#page_99) of this work.)
+page [99](#page_99) of this work..md)
 
 Q. How were you then disposed of?
 
@@ -2653,7 +2653,7 @@ on the atrocity of the crime, twelve of them recanted; the other three
 persisted in their murderous designs.
 
 Q. At what hour was our Grand Master, Hiram Abiff, slain? A. At high
-twelve. <span id="fr_45"></span>[1](#fn_45)
+twelve. <span id="fr_45"></span>[1](#fn_45.md)
 
 <span id="page_138">p. 138</span>
 
@@ -2663,7 +2663,7 @@ A. It was his usual practice at high twelve, while the Craft were called
 from labor to refreshment, to enter into the unfinished Sanctum
 Sanctorum, or Holy of Holies of the Temple, and there to offer up his
 adorations to Deity, and there to draw his designs on the
-trestle-board. <span id="fr_46"></span>[1](#fn_46)
+trestle-board. <span id="fr_46"></span>[1](#fn_46.md)
 
 Q. Who were the murderers?
 
@@ -2687,7 +2687,7 @@ make his escape out at the east gate, where he was accosted by Jubelum,
 who, in like manner, thrice demanded of him the secrets of a Master
 .Mason, or the Master's word: and, on his being refused, gave him a
 violent blow with a setting-maul, on his forehead, which felled him dead
-on the spot. <span id="fr_47"></span>[2](#fn_47)
+on the spot. <span id="fr_47"></span>[2](#fn_47.md)
 
 <span id="page_139">p. 139</span>
 
@@ -2765,8 +2765,8 @@ rise, accidentally caught hold of an acacia, which easily giving way,
 aroused his curiosity; upon which he hailed his companions, and on
 examination found it to be a grave.
 
-Q. What followed? (See Note  [P](dun10.htm#xref_P), page
-[272](dun10.htm#page_272).)
+Q. What followed? (See Note  [P](dun10.htm#xref_P.md), page
+[272](dun10.htm#page_272)..md)
 
 A. At this time a party arrived with the ruffians, and related that,
 while sitting down to rest and refresh themselves, they heard the
@@ -2779,8 +2779,8 @@ my bowels taken from thence," &c., &c. (See p. 112.) Upon which they
 rushed in, seized, bound, and brought them before King Solomon; who,
 after due conviction of their guilt, ordered them to be executed
 according to their several imprecations upon their own heads, uttered
-from the clefts of the rocks. <span id="fr_48"></span>[1](#fn_48) (See
-Note  [P](dun10.htm#xref_P), page [271](dun10.htm#page_271).)
+from the clefts of the rocks. <span id="fr_48"></span>[1](#fn_48.md) (See
+Note  [P](dun10.htm#xref_P), page [271](dun10.htm#page_271)..md)
 
 <span id="page_141">p. 141</span>
 
@@ -2817,7 +2817,7 @@ Temple?
 
 A. Three Grand Masters, three thousand three hundred Masters or
 overseers of the work, eighty thousand Fellow Crafts, and seventy
-thousand Entered Apprentices, &c., &c. (See [p. 126](#page_126).)
+thousand Entered Apprentices, &c., &c. (See [p. 126](#page_126)..md)
 
 Q. How many constitute an Entered Apprentices' Lodge?
 
@@ -2861,13 +2861,13 @@ the Hour-Glass, the Scythe, and the Three Steps on the Master's Carpet.
 
 Q. How are they explained?
 
-These answers are monitorial. (See pp. [127](#page_127)-130.)
+These answers are monitorial. (See pp. [127](#page_127)-130..md)
 
 Q. What are the second class of emblems?
 
 A. The Setting-Maul, Spade, Coffin, Grave, and Sprig of Acacia; and are
-thus explained. <span id="fr_49"></span>[1](#fn_49) (See [p.
-130](#page_130).)
+thus explained. <span id="fr_49"></span>[1](#fn_49.md) (See [p.
+130](#page_130)..md)
 
 Reader, I have given you the whole of the first three Degrees in
 Masonry. This ends the third, or Master Masons' Degree.
@@ -2988,7 +2988,7 @@ S. W.--At the right hand of the Senior Warden in the west.
 W. M. (two raps, all the officers rise to their feet.)--Your duty there,
 Brother Junior Deacon?
 
-J. D.--(See opening ceremony, [p. 14](dun02.htm#page_14).)
+J. D.--(See opening ceremony, [p. 14](dun02.htm#page_14)..md)
 
 W. M.--The Senior Deacon's station?
 
@@ -2996,7 +2996,7 @@ J. D.--At the right hand of the Worshipful Master in the east.
 
 W. M.--Your duty there, Brother Senior Deacon?
 
-S. D.--(See opening ceremony, [p. 14](dun02.htm#page_14).)
+S. D.--(See opening ceremony, [p. 14](dun02.htm#page_14)..md)
 
 W. M.--The Secretary's station?
 
@@ -3004,7 +3004,7 @@ S. D.--At the left hand of the Worshipful Master in the east.
 
 W. M.--Your duty there, Brother Secretary?
 
-Sec.--(See opening ceremony, [p. 14](dun02.htm#page_14).)
+Sec.--(See opening ceremony, [p. 14](dun02.htm#page_14)..md)
 
 W. M.--The Treasurer's station?
 
@@ -3012,7 +3012,7 @@ S. D.--At the left hand of the Worshipful Master in the east.
 
 W. M.--Your duty there, Brother Treasurer?
 
-Treasurer--(See opening ceremony, [p. 14](dun02.htm#page_14).)
+Treasurer--(See opening ceremony, [p. 14](dun02.htm#page_14)..md)
 
 W. M.--The Junior Warden's station?
 
@@ -3020,7 +3020,7 @@ Treasurer--In the south, Worshipful.
 
 W. M.--Why in the south, and your duty there, Brother Junior?
 
-J. W.--(See opening ceremony, [p. 15](dun02.htm#page_15).)
+J. W.--(See opening ceremony, [p. 15](dun02.htm#page_15)..md)
 
 W. M.--The Senior Warden's station?
 
@@ -3028,7 +3028,7 @@ J. W.--In the west, Worshipful Master.
 
 W. M.-- Why in the west, and your duty there, Brother Senior?
 
-S. W.--(See opening ceremony, [p. 15](dun02.htm#page_15).)
+S. W.--(See opening ceremony, [p. 15](dun02.htm#page_15)..md)
 
 W. M.--The Worshipful Master's station?
 
@@ -3063,8 +3063,8 @@ communicated to me through the Senior Warden in the west--you will take
 notice, and govern yourselves accordingly.
 
 W. M.--Brethren, together on the signs. (The signs are just the same as
-at opening. See pp. [16](dun02.htm#page_16), [17](dun02.htm#page_17),
-[18](dun02.htm#page_18); also [p. 155](dun05.htm#page_155).)
+at opening. See pp. [16](dun02.htm#page_16), [17](dun02.htm#page_17.md),
+[18](dun02.htm#page_18); also [p. 155](dun05.htm#page_155)..md)
 
 After the signs are gone through with by the whole Lodge, the Master
 gives one rap with his gavel, which is responded to by the Senior
@@ -3130,7 +3130,7 @@ Tyler.
 Worshipful Master gives one rap with his gavel, when the Lodge is
 closed, and the brethren divest themselves of their regalia, preparatory
 to returning to their respective homes. <span
-id="fr_50"></span>[1](#fn_50)
+id="fr_50"></span>[1](#fn_50.md)
 
 <span id="page_147">p. 147</span>
 
@@ -3141,7 +3141,7 @@ difficult thing to get exactly at the proper responses to some of the
 Masonic interrogatories. No three States in the Union "work" alike. Each
 Grand Lodge has a "work" of its own, which is taught the subordinate
 Lodges annually by its Grand Lecturer. <span
-id="fr_51"></span>[1](#fn_51)
+id="fr_51"></span>[1](#fn_51.md)
 
 It is generally known among Masons, that in the Northwestern States the
 lectures and "work" are those as taught by Barney. There is a great
@@ -3193,7 +3193,7 @@ would adopt the lectures then in use among them; that, desiring to
 pursue his occupation there, he learned the different systems of
 lecturing existing among them, and made use of his newly acquired
 knowledge under the sanction of the respective Grand Masters." (See Note
- [Q](dun10.htm#xref_Q), Appendix.)
+ [Q](dun10.htm#xref_Q), Appendix..md)
 
 These facts will account for the want of agreement between the East and
 the West and Southwest, as to what are the true Barney Lectures.
@@ -3207,30 +3207,30 @@ The "work" known among Masons as the "Webb Work,"
 
 <span id="page_149">p. 149</span>
 
-and inculcated by Robert Morris, <span id="fr_52"></span>[1](#fn_52) is
+and inculcated by Robert Morris, <span id="fr_52"></span>[1](#fn_52.md) is
 generally accepted as the "Work" of ancient origin, and there is not
 much doubt but that it will be adopted by the Grand Lodges throughout
 the United States.
 
-<span id="img_14900"></span> ![Masonic Trowel](img/14900.jpg)
+<span id="img_14900"></span> ![Masonic Trowel](img/14900.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_30"></span>[87:1](dun04.htm#fr_30) Our present Third Degree
+<span id="fn_30"></span>[87:1](dun04.htm#fr_30.md) Our present Third Degree
 is not architectural, but traditionary, historical, and legendary; its
 traditions being unfortunately hyperbolical; its history apocryphal, and
 its legends fabulous.--*The Freemason's Treasury*, p. 222.
 
-<span id="fn_31"></span>[96:1](dun04.htm#fr_31) Here the conductor or
+<span id="fn_31"></span>[96:1](dun04.htm#fr_31.md) Here the conductor or
 some brother draws his hand across candidate's naked belly: the sword is
 often used, especially if the initiation takes place in winter, the
 sword is left in a cold place--and when it is drawn across candidate's
 belly, it has a very shocking effect, causing the candidate to jump or
 tremble.
 
-<span id="fn_32"></span>[97:1](dun04.htm#fr_32) What does it denote?
+<span id="fn_32"></span>[97:1](dun04.htm#fr_32.md) What does it denote?
 Worldly possession.--*Dr. Hemming*.
 
 That Tubal Cain gave first occasion to the name and worship of Vulcan
@@ -3241,7 +3241,7 @@ Vulcan, Jubal had to Tubal Cain, who was the inventor of music, or the
 father of all such as handle the harp and organ, which the Greeks
 attribute to Apollo.--*Historical Landmarks*, vol. ii. pp. 204--5.
 
-<span id="fn_33"></span>[99:1](dun04.htm#fr_33) The jewels of a Masters'
+<span id="fn_33"></span>[99:1](dun04.htm#fr_33.md) The jewels of a Masters'
 Lodge are suspended from blue velvet collars, bordered and embroidered
 with silver. At the point is a blue rosette, in the centre of which is a
 silver five-pointed star.
@@ -3267,7 +3267,7 @@ The following are the jewels:
 | The Masters of Ceremonies | "     | cross swords.                          |
 | The Tyler                 | "     | a sabre.                               |
 
-<span id="fn_34"></span>[105:1](dun04.htm#fr_34) In the progress of
+<span id="fn_34"></span>[105:1](dun04.htm#fr_34.md) In the progress of
 Masonry during the last century the fatal weapons underwent several
 changes. At the revival in 1717, they were called setting-tool, setting
 maul, and setting-beetle; later in the century, it was the
@@ -3275,14 +3275,14 @@ twenty-four-inch gauge, square, and gavel; then the setting-tool,
 square, and rule; and now the plumb-rule, square, and strong or heavy
 maul.--*The Freemason's Treasury*, p. 306.
 
-<span id="fn_35"></span>[107:1](dun04.htm#fr_35) Professor Stuart, of
+<span id="fn_35"></span>[107:1](dun04.htm#fr_35.md) Professor Stuart, of
 Andover, one of the most skilful linguists and earned men in the United
 States, has endeavored to show that the legend of the Third Degree is an
 imposture, "since the names of the criminals are formed from the Latin
 language, and not from the Hebrew, to which they have no affinity
 whatever."--*The Freemason's Treasury*, p. 213.
 
-<span id="fn_36"></span>[112:1](dun04.htm#fr_36) The system of
+<span id="fn_36"></span>[112:1](dun04.htm#fr_36.md) The system of
 Freemasonry, as practised in different countries and at different
 periods, is not uniform on this subject; and I feel so little at liberty
 to bring forward evidence on such a delicate point, that I am afraid it
@@ -3297,7 +3297,7 @@ Moriah; the French, Monet Lebanon. In one account, the brethren disperse
 widely, east, west, and south; in another, they keep within hail of each
 other.--*Historical Landmarks*, vol. ii. p. 148.
 
-<span id="fn_37"></span>[113:1](dun04.htm#fr_37) CASSIA--sometimes
+<span id="fn_37"></span>[113:1](dun04.htm#fr_37.md) CASSIA--sometimes
 improperly and ignorantly used for acacia. (See ACACIA.) According to
 the Jewish law, no interments were permitted within the walls of the
 city, and as it was unlawful for the cohens or priests to pass over a
@@ -3305,7 +3305,7 @@ grave, it became necessary to place marks wherever a dead body had been
 interred, to enable them to avoid it. For this purpose the ACACIA was
 used.--*Lexicon*.
 
-<span id="fn_38"></span>[113:2](dun04.htm#fr_38) Brother Goodacre, of
+<span id="fn_38"></span>[113:2](dun04.htm#fr_38.md) Brother Goodacre, of
 the Witham Lodge, Lincoln, suggests that the various penalties which
 have been introduced into Freemasonry appear to have reference to a
 particular kind of covenant which was common among the Hebrews. but
@@ -3331,7 +3331,7 @@ may pass between them from east to west, *and the carcase was then left
 as a prey to voracious animals*. The other example of such a covenant is
 in Genesis xv.--*Historical Landmarks*, vol. ii. p. 178.
 
-<span id="fn_39"></span>[115:1](dun04.htm#fr_39) Their real names (if
+<span id="fn_39"></span>[115:1](dun04.htm#fr_39.md) Their real names (if
 there be any thing real in the whole transaction, which is more than
 doubtful), as preserved in a subsidiary degree. were GRAVELOT, QUIBO,
 and AKIROP. In one form of the Degree of Elect of Fifteen, they assume
@@ -3339,13 +3339,13 @@ the Protean names of JUBELA-KURMAVIL (another corruption of Cromwell),
 JUBELO-GRAVELOT, and JUBELUM-AKIROP.--*The Freemason's Treasury*, pp.
 305-6.
 
-<span id="fn_40"></span>[116:1](dun04.htm#fr_40) The occasion of the
+<span id="fn_40"></span>[116:1](dun04.htm#fr_40.md) The occasion of the
 brethren searching so diligently for their Master was, to receive from
 him the secret word of Masonry, which should be delivered down as a test
 to the fraternity of after ages.--*Historical Land marks*, vol. ii. p.
 175.
 
-<span id="fn_41"></span>[120:1](dun04.htm#fr_41) Respecting the lost
+<span id="fn_41"></span>[120:1](dun04.htm#fr_41.md) Respecting the lost
 word and its substitute, some say that King Solomon advised the change,
 while others affirm that the three Fellow Crafts adopted the substituted
 word without consulting him. And Dalcho observes that the interpolated
@@ -3353,14 +3353,14 @@ word is not to be found in any language that ever was used. It is, in
 fact, not a word, but merely a jumble of letters, forming a sound
 without meaning."--*The Freemason's Treasury*, p. 301.
 
-<span id="fn_42"></span>[124:1](dun04.htm#fr_42) Can any living Mason be
+<span id="fn_42"></span>[124:1](dun04.htm#fr_42.md) Can any living Mason be
 simple enough to believe that Dr. Anderson, in his "Defence of Masonry,"
 intended to prove a real historical fact when he explained the
 exhumation of the body of H. A. B.? Why, it is well known that the
 celebrated artist was living at Tyre many years after the Temple was
 completed.--*The Freemason's Treasury*, p. 291.
 
-<span id="fn_43"></span>[126:1](dun04.htm#fr_43) Among such a vast
+<span id="fn_43"></span>[126:1](dun04.htm#fr_43.md) Among such a vast
 concourse of people as were assembled together at the construction of
 this edifice, it is natural to expect every variety of propensities,
 both good and evil. Accordingly our traditions furnish in stances, both
@@ -3386,13 +3386,13 @@ prudence and unshrinking fidelity, it inspires the most cheering hone of
 that final reward which belongs alone to "just made
 perfect."--*Lexicon*.
 
-<span id="fn_44"></span>[129:1](dun04.htm#fr_44) THEOREM.--In any
+<span id="fn_44"></span>[129:1](dun04.htm#fr_44.md) THEOREM.--In any
 right-angled triangle, the square which is described <span
 id="page_130">p. 130</span> upon the side subtending the right angle, is
 equal to the squares described upon the sides which contain the right
 angle.--*Euclid*, Lib. i. Prop. 47.
 
-<span id="fn_45"></span>[137:1](dun04.htm#fr_45) We are told that when
+<span id="fn_45"></span>[137:1](dun04.htm#fr_45.md) We are told that when
 *the Temple was nearly finished*, it was customary at the hour of H.
 (high) XII., when the men were called from labor to refreshment, for H.
 A. B. (Hiram Abiff) to retire to the Most Holy Place, to draw his plans
@@ -3428,7 +3428,7 @@ but also, according to the testimony of Josephus, who calls him ABDEMON,
 he returned to Tyre, and died there at a good old age.--*The Freemason's
 Treasury*, pp. 299-300.
 
-<span id="fn_46"></span>[138:1](dun04.htm#fr_46) Our traditions further
+<span id="fn_46"></span>[138:1](dun04.htm#fr_46.md) Our traditions further
 say, that the time when this celebrated use went into the H. of H.
 (*Holy of Holies*) to offer up his orisons to God, at the hour of H
 (*high*) twelve, the Ark of the Covenant had not been removed thither,
@@ -3440,7 +3440,7 @@ drawn forth from the S. S. (*Sanctum Santorum*) in case sudden death
 should occur while he officiated there.--Historical Land-marks, vol. it.
 p. 154.
 
-<span id="fn_47"></span>[138:2](dun04.htm#fr_47) A similar divergence
+<span id="fn_47"></span>[138:2](dun04.htm#fr_47.md) A similar divergence
 from uniformity will be found in describing the <span id="page_139">p.
 139</span> places where the above-mentioned instruments were supposed to
 have been used with such terrible effect. In the primitive
@@ -3457,13 +3457,13 @@ originally *south*, north, and east, but now *west*, south, and east. In
 the Adonhiramite Masonry, which was used there about 1787, the doors are
 not mentioned at all.--*The Freemason's Treasury*, p. 307.
 
-<span id="fn_48"></span>[140:1](dun04.htm#fr_48) The questions and
+<span id="fn_48"></span>[140:1](dun04.htm#fr_48.md) The questions and
 answers in this lecture, relative to the disposition of the body and its
 discovery, &c., &c., are precisely like the historical part of this
-Degree, page [122](#page_122), or that portion describing the conferring
-of the Degree, page [107](#page_107).
+Degree, page [122](#page_122.md), or that portion describing the conferring
+of the Degree, page [107](#page_107.md).
 
-<span id="fn_49"></span>[142:1](dun04.htm#fr_49) LECTURE.--In the
+<span id="fn_49"></span>[142:1](dun04.htm#fr_49.md) LECTURE.--In the
 Masters' Degree, the first section illustrates the ancient and proper
 mode of raising a candidate to this sublime Degree. In the second
 section, the historical traditions of the Order are introduced, and an
@@ -3471,7 +3471,7 @@ important instance of Masonic virtue is exemplified. In the third
 section, our emblems are explained, and the construction of Solomon's
 Temple described.--*Lexicon*.
 
-<span id="fn_50"></span>[146:1](dun04.htm#fr_50) "In the performance of
+<span id="fn_50"></span>[146:1](dun04.htm#fr_50.md) "In the performance of
 a ceremony so solemn and momentous as the closing of a Mason's Lodge,
 every member has a lively interest. At the usual report, preceded by an
 inquiry involving the best interests of Masonry, the brethren are again
@@ -3539,15 +3539,15 @@ finishing the Temple beyond all doubt, it is said (2 Chron. iv. 11),
 "And Hiram *finished the work* that he was to make for King Solomon for
 the house of God,"--*Historical Landmarks*, vol. ii. p. 166.
 
-<span id="fn_51"></span>[147:1](dun04.htm#fr_51) A Grand Lecturer is
+<span id="fn_51"></span>[147:1](dun04.htm#fr_51.md) A Grand Lecturer is
 elected annually at the session of the Grand Lodge of each State. His
 business is to teach the subordinate Lodges the Ritual of Freemasonry,
 and he is paid generally by salary, or so much from each Lodge before
 whom he may lecture.
 
-<span id="fn_52"></span>[149:1](dun04.htm#fr_52) See Robert Morris's
+<span id="fn_52"></span>[149:1](dun04.htm#fr_52.md) See Robert Morris's
 *Freemason's Monitor*, 1860.
 
 ------------------------------------------------------------------------
 
-[Next: Mark Master, or Fourth Degree](dun05)
+[Next: Mark Master, or Fourth Degree](dun05.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw20)  [Next](sahw22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw20)  [Next](sahw22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -59,17 +59,17 @@ died on the 15th January 1894.
 
 Three days after death, on the morning of the 18th, the corpse, arrayed
 in ecclesiastical vestments of a *gokō* <span
-id="fr_110"></span>[\*](#fn_110) colour, was placed in a sitting posture
+id="fr_110"></span>[\*](#fn_110.md) colour, was placed in a sitting posture
 on a *Kyokuroku*, or camp-chair, in one of the official rooms of his
 private residence. Devout laymen were constantly in attendance, and at
 intervals, as groups of mourners passed through to pay their last
 respects to the deceased prelate, the light curtain of split bamboo was
 silently raised, so that they might gaze freely upon the dead, the face,
 however, being veiled so that only the eyes were visible. <span
-id="fr_111"></span>[†](#fn_111)
+id="fr_111"></span>[†](#fn_111.md)
 
 On the evening of the following day the corpse was washed (for the
-second time), <span id="fr_112"></span>[‡](#fn_112) put into a coffin,
+second time), <span id="fr_112"></span>[‡](#fn_112.md) put into a coffin,
 and removed to the Head Temple, where a special mortuary chapel had been
 fitted up, with a picture of Amida hanging in a conspicuous place behind
 the coffin. Here it was kept for ten days, constantly attended by
@@ -187,7 +187,7 @@ from the building.
 this phrase are interesting, as giving Pali forms instead of Sanskrit,
 thus pointing to a Buddhism of Magadhan origin, by the side of that
 which came via Central Asia and China. <span
-id="fr_113"></span>[\*](#fn_113) After the cremation, the ashes were
+id="fr_113"></span>[\*](#fn_113.md) After the cremation, the ashes were
 carried back to Uchino, secretly and under guard, a custom observed in
 the Shinshu ever since the fifteenth century, when, on the death of
 Rennyo Shōnin, the jealous Tendai monks attempted to waylay the
@@ -204,7 +204,7 @@ in
 
 <span class="contnote">\[paragraph continues\]</span> Buddhist belief, a
 very critical day in the history of the soul after death. <span
-id="fr_114"></span>[\*](#fn_114) On that day its future destiny is
+id="fr_114"></span>[\*](#fn_114.md) On that day its future destiny is
 decided, and it goes from the intermediate state into its proper place
 in . the world to come. A Buddhist, who was much interested in
 Christianity, once pointed out to me the similarity between his beliefs,
@@ -219,27 +219,27 @@ Spirit!"
 
 ### Footnotes
 
-<span id="fn_110"></span>[135:\*](sahw21.htm#fr_110) *Go* is the
+<span id="fn_110"></span>[135:\*](sahw21.htm#fr_110.md) *Go* is the
 honorific, *Kō* (\#) is incense.—"Incense colour" is a sort of grey,
 smoky, colour.
 
-<span id="fn_111"></span>[135:†](sahw21.htm#fr_111) It is universal in
+<span id="fn_111"></span>[135:†](sahw21.htm#fr_111.md) It is universal in
 the funerals of clerics, thus to expose the corpse in a sitting posture.
 This is not done for laymen.
 
-<span id="fn_112"></span>[135:‡](sahw21.htm#fr_112) The first washing of
+<span id="fn_112"></span>[135:‡](sahw21.htm#fr_112.md) The first washing of
 the corpse (for laymen; the only took place a few hours after death.
 
-<span id="fn_113"></span>[139:\*](sahw21.htm#fr_113) *Jhāyati*,
+<span id="fn_113"></span>[139:\*](sahw21.htm#fr_113.md) *Jhāyati*,
 *Jhāpeti* are not words peculiar to Shinshu. They are used in all sects.
 Of Pali words surviving in Japan we may instance *dabi* a cremation.
 Some words survive in two forms: e. g. *biku*, which is Pali, *bishū*
 which is the Sanskrit *bhikshu*, "a monk." Also *abidon* = the Pali
 *abhidamma*, and *abidatsuma* = Skt *abhidharma*.
 
-<span id="fn_114"></span>[140:\*](sahw21.htm#fr_114) § 94.
+<span id="fn_114"></span>[140:\*](sahw21.htm#fr_114.md) § 94.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XX. The Care of the Dead. (ii) Days of Mourning
-&c.](sahw22)
+&c.](sahw22.md)

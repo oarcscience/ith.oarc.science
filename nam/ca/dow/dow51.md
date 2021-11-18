@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow50)  [Next](dow52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow50)  [Next](dow52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ Textual Heritage
 *The Northern Mewuk say*:
 
 *Po'-ko-moo* the small black spider with a red spot under his belly is
-poison. <span id="fr_20"></span>[22](#fn_20) Sometimes he scratches
+poison. <span id="fr_20"></span>[22](#fn_20.md) Sometimes he scratches
 people with his long fingers, and the scratch makes a bad sore.
 
 The *Wal'-le*-kah'-pah hills at the north opening are evidently the same
@@ -37,9 +37,9 @@ make use of the poison.\]
 
 ### Footnotes
 
-<span id="fn_20"></span>[214:22](dow51.htm#fr_20) This is true. The name
+<span id="fn_20"></span>[214:22](dow51.htm#fr_20.md) This is true. The name
 of the poison spider is *Lathrodectus mactens*.
 
 ------------------------------------------------------------------------
 
-[Next: Where *Koo'-tah* the Money-clam Came From](dow52)
+[Next: Where *Koo'-tah* the Money-clam Came From](dow52.md)

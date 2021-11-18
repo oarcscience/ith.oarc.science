@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](odpr14)  [Next](odpr16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](odpr14)  [Next](odpr16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,24 +18,24 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
 
 ### APPENDIX D
 
-### EXCERPT FROM THE EPISTLE ENTITLED AL-QUSṬANṬĪNIYYAH ADDRESSED BY BAHĀ’-AL-DĪN TO THE BYZANTINE EMPEROR CONSTANTINE <span id="fr_203"></span>[1](#fn_203)
+### EXCERPT FROM THE EPISTLE ENTITLED AL-QUSṬANṬĪNIYYAH ADDRESSED BY BAHĀ’-AL-DĪN TO THE BYZANTINE EMPEROR CONSTANTINE <span id="fr_203"></span>[1](#fn_203.md)
 
 As for what you say in the special canticle for the Eucharist that "He
 suffered, was crucified in the time of Fayṭus, son of Qīlāṭūs, <span
-id="fr_204"></span>[2](#fn_204) was buried and arose on the third day,"
+id="fr_204"></span>[2](#fn_204.md) was buried and arose on the third day,"
 it is all recorded in the Gospel of John, chapter two, where Jesus
 addressing the Jews said to them: "Destroy the temple and I will raise
-it up in three days." <span id="fr_205"></span>[3](#fn_205) The Jews
+it up in three days." <span id="fr_205"></span>[3](#fn_205.md) The Jews
 refused to believe his word that he would build the temple in three
 days. But what he meant was the temple of his body. And having mentioned
 \[later\] to his disciples what he had said they believed in the
-book <span id="fr_206"></span>[4](#fn_206) and in the word. Such is the
+book <span id="fr_206"></span>[4](#fn_206.md) and in the word. Such is the
 text in the Gospel of John.
 
 You should therefore know, you assembly of saints, that what he meant by
 the three days of his disappearance is firstly the day in which he
 declared his mission and called all mankind to the religion of Unity and
-truth <span id="fr_207"></span>[5](#fn_207) and revealed himself to the
+truth <span id="fr_207"></span>[5](#fn_207.md) and revealed himself to the
 nations as a "true God from a true God." By that he meant that the
 Creator (may his power remain exalted!) is existent in his creatures,
 and that he manifests himself to them, as he has predetermined, in forms
@@ -49,13 +49,13 @@ assertion and beseech the Lord of guidance and might to accord you
 success.
 
 As for the second day, that is the day of the appearance of the
-Paraclete. <span id="fr_208"></span>[1](#fn_208) Jesus has announced the
+Paraclete. <span id="fr_208"></span>[1](#fn_208.md) Jesus has announced the
 Paraclete and predicted his coming, as Jesus has said in the Gospel of
 John: "Moses has written about me and predicted the mention of my
-name." <span id="fr_209"></span>[2](#fn_209) As for the Paraclete, he is
+name." <span id="fr_209"></span>[2](#fn_209.md) As for the Paraclete, he is
 Muḥammad, who is one of the legislators by whom I mean: Noah, Abraham,
 and Moses who appeared prior to the lord Messiah. And behold the saying
-of Jesus in the fifteenth chapter, <span id="fr_210"></span>[3](#fn_210)
+of Jesus in the fifteenth chapter, <span id="fr_210"></span>[3](#fn_210.md)
 when he realized the coming of the Paraclete, *i.e.*, Muḥammad: "If you
 loved me you would rejoice at my departure to my Father, for my Father
 has a son who is greater than I. And now I have said this to you before
@@ -85,7 +85,7 @@ not call mankind to a belief in the adorable Unity, as the Lord
 of adoration.
 
 As for the third day, it is the rise of al-Mahdi <span
-id="fr_211"></span>[1](#fn_211) (may Allah's blessing be upon him!) in
+id="fr_211"></span>[1](#fn_211) (may Allah's blessing be upon him!.md) in
 order to call mankind to the inner interpretation of the four books
 which show the people of truth the fact of Unity. These four books are:
 the Psalter, the Torah \[Bible\], the Evangile and the Koran.
@@ -108,7 +108,7 @@ something to restrain them; and anyone possessed with the least notions
 of the science of truths would find material for reflection.
 
 The third day is the complement of the first, according to the seventh
-chapter of the Gospel of John. <span id="fr_212"></span>[2](#fn_212)
+chapter of the Gospel of John. <span id="fr_212"></span>[2](#fn_212.md)
 When the brothers of Jesus said to him: "Depart from here, so that your
 disciples may see the things you are doing, because no one should do a
 thing in secret, and reveal yourself to the world," the brothers of
@@ -127,7 +127,7 @@ the time of those who did not know the word of Unity—was always ready.
 That is the last day which is the completion of the first. In it he
 \[the lord Messiah\] has manifested his glory and his praise and has
 shown himself to his apostles as he had promised them in chapter
-sixteen, <span id="fr_213"></span>[1](#fn_213) saying: "I have come down
+sixteen, <span id="fr_213"></span>[1](#fn_213.md) saying: "I have come down
 from heaven not to do my will, but the will of him who sent me. The will
 of him who sent me is that whosoever obeys me him will I resurrect on
 the last day; for this is the pleasure of my Father. For everyone who
@@ -139,7 +139,7 @@ is fixed to the last day."
 Written seven days before the end of Safar, in the eleventh year of the
 era of the Ruler of the Age \[Ḥamzah\] at the end of the seventh year
 from the "disappearance \[of al-Ḥakīm\] for our test." <span
-id="fr_214"></span>[2](#fn_214) This is the end; and praise be to our
+id="fr_214"></span>[2](#fn_214.md) This is the end; and praise be to our
 lord al-Ḥakīm alone, and thanks to the Messiah of the nations \[Ḥamzah\]
 and their guide, his servant.
 
@@ -147,40 +147,40 @@ and their guide, his servant.
 
 ### Footnotes
 
-<span id="fn_203"></span>[64:1](odpr15.htm#fr_203) Constantine VIII
+<span id="fn_203"></span>[64:1](odpr15.htm#fr_203.md) Constantine VIII
 (1025-1028 A.D.).
 
-<span id="fn_204"></span>[64:2](odpr15.htm#fr_204) Pontius Pilate.
+<span id="fn_204"></span>[64:2](odpr15.htm#fr_204.md) Pontius Pilate.
 
-<span id="fn_205"></span>[64:3](odpr15.htm#fr_205) *Cf*. John 2: 19-22.
+<span id="fn_205"></span>[64:3](odpr15.htm#fr_205.md) *Cf*. John 2: 19-22.
 
-<span id="fn_206"></span>[64:4](odpr15.htm#fr_206) Arabic *kitāb*
+<span id="fn_206"></span>[64:4](odpr15.htm#fr_206.md) Arabic *kitāb*
 referring to a book containing a revelation.
 
-<span id="fn_207"></span>[64:5](odpr15.htm#fr_207) Arabic *sidq*, always
+<span id="fn_207"></span>[64:5](odpr15.htm#fr_207.md) Arabic *sidq*, always
 spelled in the Druze MSS. with a *sīn* instead of a *ṣād* so that the
 numerical value of the letters composing it may become 164, which is the
 number of the Druze ministers and missionaries.
 
-<span id="fn_208"></span>[65:1](odpr15.htm#fr_208) Arabic *fāraqlīṭ* =
+<span id="fn_208"></span>[65:1](odpr15.htm#fr_208.md) Arabic *fāraqlīṭ* =
 Comforter, Holy Ghost.
 
-<span id="fn_209"></span>[65:2](odpr15.htm#fr_209) *Cf*. Johns: 46.
+<span id="fn_209"></span>[65:2](odpr15.htm#fr_209.md) *Cf*. Johns: 46.
 
-<span id="fn_210"></span>[65:3](odpr15.htm#fr_210) It is in John 14:
+<span id="fn_210"></span>[65:3](odpr15.htm#fr_210.md) It is in John 14:
 28-31.
 
-<span id="fn_211"></span>[66:1](odpr15.htm#fr_211) Sa‘id al-Mahdi, one
+<span id="fn_211"></span>[66:1](odpr15.htm#fr_211.md) Sa‘id al-Mahdi, one
 of the missionaries preceding al-Ḥakīm.
 
-<span id="fn_212"></span>[66:2](odpr15.htm#fr_212) John 7: 6.
+<span id="fn_212"></span>[66:2](odpr15.htm#fr_212.md) John 7: 6.
 
-<span id="fn_213"></span>[67:1](odpr15.htm#fr_213) John 6: 38-40 and 47.
+<span id="fn_213"></span>[67:1](odpr15.htm#fr_213.md) John 6: 38-40 and 47.
 
-<span id="fn_214"></span>[67:2](odpr15.htm#fr_214) Corresponding to
+<span id="fn_214"></span>[67:2](odpr15.htm#fr_214.md) Corresponding to
 March 23, 1028 A.D.
 
 ------------------------------------------------------------------------
 
 [Next: Appendix E: Excerpt From Bahā’-al-Dīn's Epistle Entitled
-Christianity](odpr16)
+Christianity](odpr16.md)

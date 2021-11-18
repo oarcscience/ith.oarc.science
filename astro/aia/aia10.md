@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia09)  [Next](aia11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia09)  [Next](aia11.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ neither fearing God nor
 <span id="page_41">p. 41</span>
 
 caring for man; unthankful, treacherous; oppressors, ravenous, cheaters,
-furious, and violent. <span id="fr_25"></span>[1](#fn_25)
+furious, and violent. <span id="fr_25"></span>[1](#fn_25.md)
 
 *Corporature*.--Generally martialists have this form; they are but of
 middle stature, their bodies strong, and their bones large, rather lean
@@ -65,7 +65,7 @@ meagrims in the head,, carbuncles, the plague, and all plague sores,
 burnings, ringworms, blisters, phrensies, mad sudden distempers in the
 head, yellow jaundice, bloody flux, fistulas; all wounds and diseases in
 men's genitals, the stone both in the reins and bladder, scars or
-smallpox in the face. <span id="fr_26"></span>[2](#fn_26)
+smallpox in the face. <span id="fr_26"></span>[2](#fn_26.md)
 
 <span id="page_42">p. 42</span>
 
@@ -74,7 +74,7 @@ arise by too much choler, anger, or passion.
 
 *Places*.--Smiths' shops, furnaces, slaughter-houses, places where
 bricks or charcoal are burned, or have been burned; chimneys, and
-forges. <span id="fr_27"></span>[1](#fn_27)
+forges. <span id="fr_27"></span>[1](#fn_27.md)
 
 His orb is only seven degrees.
 
@@ -87,19 +87,19 @@ to 56; his greatest year is 264; greater 66, lower 40, and least 15.
 
 ### Footnotes
 
-<span id="fn_25"></span>[41:1](aia10.htm#fr_25) These extremely evil
+<span id="fn_25"></span>[41:1](aia10.htm#fr_25.md) These extremely evil
 qualities obtain only when the ☽ and ☿ are also very much afflicted.
 
-<span id="fn_26"></span>[41:2](aia10.htm#fr_26) ♂ coming to ill aspect
+<span id="fn_26"></span>[41:2](aia10.htm#fr_26.md) ♂ coming to ill aspect
 of the ascendant by direction early in nativities generally causes
 either smallpox, measles, or scarlet fever; but if the nativity denote
 it, he may give hurts, wounds, fevers, &c.
 
-<span id="fn_27"></span>[42:1](aia10.htm#fr_27) To this may be added,
+<span id="fn_27"></span>[42:1](aia10.htm#fr_27.md) To this may be added,
 cutlers' shops, and places where iron is manufactured in any manner,
 armouries, &c.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. Of the Sun, His General and Particular
-Significations](aia11)
+Significations](aia11.md)

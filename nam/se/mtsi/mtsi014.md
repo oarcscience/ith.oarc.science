@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi013)  [Next](mtsi015) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi013)  [Next](mtsi015.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ Jackson Lewis.)
 
 ------------------------------------------------------------------------
 
-[Next: 13. Man-eater and the Little Girl](mtsi015)
+[Next: 13. Man-eater and the Little Girl](mtsi015.md)

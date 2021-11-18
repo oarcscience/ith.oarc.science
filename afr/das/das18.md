@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das17)  [Next](das19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das17)  [Next](das19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ Two women about thirty-five years old and nine or ten small children all
 approached the fence. At first they were rather wary, but their attitude
 gradually turned to friendliness and they hung over the high board
 fence, talking and laughing in great good humor. Elizabeth
-Roberts, <span id="fr_118"></span>[1](#fn_118) the young girl whom we
+Roberts, <span id="fr_118"></span>[1](#fn_118.md) the young girl whom we
 had first seen, appeared to be the leader of the group.
 
 We were interested to know if these people had river baptisms any more.
@@ -53,7 +53,7 @@ dey go. Dey alluz hab duh baptizin wen duh tide is goin out so duh watuh
 will wash duh sins away. Attuh dey all gits tuh duh ribbuh, dey stop an
 duh preachuh ast duh candidates tuh step fawwud. One by one he dip em in
 duh watuh an dey is buried in baptism. Wen dey is all baptize, duh
-preachuh pray tuh duh ribbuh an [63](das26.htm#xref_63) ast dat all sins
+preachuh pray tuh duh ribbuh an [63](das26.htm#xref_63.md) ast dat all sins
 be taken away. Den all duh folks sing an shout an praise duh Lawd."
 
 The little group leaning on the railing nodded in agreement and as if in
@@ -69,7 +69,7 @@ told us that "settin-ups" were still held for those who died.
 said one of them.
 
 Another added, "At duh fewnul we sing an we puts our hands on duh cawpse
-tuh say goodbye. It bad luck not tuh do dis." [31](das26.htm#xref_31)
+tuh say goodbye. It bad luck not tuh do dis." [31](das26.htm#xref_31.md)
 
 We had heard in other communities that in case of death away from home
 the body is brought back to its native town for burial. This custom is
@@ -77,16 +77,16 @@ also prevalent in Sunbury, we learned.
 
 "Ebrybody wannuh be buried in deah own town,"' Elizabeth said. "An we
 nebuh bury strainjuhs wid our own folks. Ef a strainjuh die yuh, we bury
-em in duh strainjah's lot." [3](das26.htm#xref_3)
+em in duh strainjah's lot." [3](das26.htm#xref_3.md)
 
-Emma Stevens, <span id="fr_119"></span>[1](#fn_119) tall and slim, a
+Emma Stevens, <span id="fr_119"></span>[1](#fn_119.md) tall and slim, a
 baby in her arms and several small children gathered about her, spoke
 up, "Yuh got tuh be plenty keahful bout duh spirits. Duh spirit is
 hungry jis lak duh pusson. Yuh hab tuh put food in duh ruhm fuh duh
-spirit tuh come eat." [58](das26.htm#xref_58)
+spirit tuh come eat." [58](das26.htm#xref_58.md)
 
 "Dat is duh truth," agreed young Elizabeth. "Ef duh spirit is hungry, it
-will sho come back an hant yuh." [58f](das26.htm#xref_58f)
+will sho come back an hant yuh." [58f](das26.htm#xref_58f.md)
 
 This talk of spirits started us on a new train of thought
 
@@ -95,11 +95,11 @@ This talk of spirits started us on a new train of thought
 and we were curious to learn of the local theories regarding ghosts and
 witches.
 
-"Duh spirit nebuh go in duh groun wid duh body," [56](das26.htm#xref_56)
+"Duh spirit nebuh go in duh groun wid duh body," [56](das26.htm#xref_56.md)
 volunteered Emma. "It jis wanduh roun. Dey come out wen duh moon is
 noo."
 
-Mary Stevens, <span id="fr_120"></span>[1](#fn_120) whose short, stocky
+Mary Stevens, <span id="fr_120"></span>[1](#fn_120.md) whose short, stocky
 figure was clad in bright pink and who wore a sailor hat perched
 rakishly on her head, stated, "Duh spirits is ebryweah. Dey peah mosly
 at duh fus dahk an in duh middle night."
@@ -107,7 +107,7 @@ at duh fus dahk an in duh middle night."
 Young Elizabeth, too, had something to say about spirits. "I sees em all
 duh time," she said. "Dey dohn hurt yuh none, jis walk long wid yuh an
 talk. Some hab duh head on an some hab duh head
-off." [59a](das26.htm#xref_59a)
+off." [59a](das26.htm#xref_59a.md)
 
 From ghosts and shadows of the night the discussion followed its natural
 course to even darker powers, such as conjure, evil roots, and counter
@@ -115,21 +115,21 @@ charms. The little group glanced slyly at one another. It was in lowered
 tones that they volunteered remarks on this subject.
 
 "We do heah bout folks rootin each udduh all duh
-time. [15](das26.htm#xref_15) Yuh sho hab tuh be keahful. Some folks
+time. [15](das26.htm#xref_15.md) Yuh sho hab tuh be keahful. Some folks
 weahs a dime aw a penny tied on duh ankle an wen it tun black, dey knows
-somebody is tryin tuh root em." [12a](das26.htm#xref_12a),
- [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d)
+somebody is tryin tuh root em." [12a](das26.htm#xref_12a.md),
+ [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d.md)
 
 "What are the conjures made of?" we wanted to know.
 
 "Dey make em uh haiah an nails an frum lots uh tings," we were
-told. [10](das26.htm#xref_10)
+told. [10](das26.htm#xref_10.md)
 
 Elizabeth said, "Duh heabiest root I ebuh heard bout waz a cunjuh made
 uh some funny oily stuff in a bottle. Duh enemy ketch duh pusson's
-spirit in dat bottle an dat wuz a powuhful spell. [8](das26.htm#xref_8)
+spirit in dat bottle an dat wuz a powuhful spell. [8](das26.htm#xref_8.md)
 Duh man fell sick an had tuh go tuh a root
-doctuh [48](das26.htm#xref_48) fo he git cuod."
+doctuh [48](das26.htm#xref_48.md) fo he git cuod."
 
 "Yuh sho hab bad luck ef yuh do a lot uh tings," warned one of the
 women. "Nobody ebuh carry a hoe aw a rake tru duh house. Das a bad
@@ -145,17 +145,17 @@ to this information.
 <span id="page_108">p. 108</span>
 
 "It's fuh good luck. All duh people roun yuh carries Lucky Hahts and
-Lucky Mojoes an sech tings." [8](das26.htm#xref_8)
+Lucky Mojoes an sech tings." [8](das26.htm#xref_8.md)
 
 Respecting harvest festivals one of the women said, "I hab heah tell how
-dey dohn do dat no mo." [38](das26.htm#xref_38)
+dey dohn do dat no mo." [38](das26.htm#xref_38.md)
 
 "We do git tuhgedduh an hab dance an pahties an big suppuhs," stated
 another. Her eyes sparkled at the pleasant memory. "We does duh Snake
 Hip an duh Buzzud Lope."
 
 The others chorused, "An addalas dance we did duh Fish Tail an duh Fish
-Bone an duh Camel Walk." [17](das26.htm#xref_17)
+Bone an duh Camel Walk." [17](das26.htm#xref_17.md)
 
 All efforts failed to persuade the women to describe these dances.
 Evidently thinking of the antics of their neighbors at the recent dance
@@ -164,7 +164,7 @@ refusing to be cajoled into a demonstration.
 
 After learning that we wished to record the old customs as far back as
 possible, the women suggested that we visit Uncle Jonah, <span
-id="fr_121"></span>[1](#fn_121) who was the great grandfather of
+id="fr_121"></span>[1](#fn_121.md) who was the great grandfather of
 Elizabeth. In answer to repeated halloos the old man came trudging down
 the road. As he drew nearer the car, we could see that he was a spry,
 erect little figure, clad in a blue chambray shirt and a pair of dark
@@ -201,17 +201,17 @@ die an dey bury um widout duh udduh knowin bout it. Pretty soon he lun
 bout how he frien die an he make um dig um up. He say he wannuh say a
 few wuds tuh um. Dey dig up duh man an he speak tuh um an den put um
 back in duh grabe. It wuz all right attuh he say
-goodbye." [30](das26.htm#xref_30)
+goodbye." [30](das26.htm#xref_30.md)
 
 "Uncle Jonah," we asked, "do you remember much conjuring in those days?"
 
 The white head nodded slowly. "Yes'm, deah sho wuz cunjuhin, but deah's
-mo cunjuhin [15](das26.htm#xref_15) in deze days dan deah wuz in doze. I
+mo cunjuhin [15](das26.htm#xref_15.md) in deze days dan deah wuz in doze. I
 heah bout it all duh time roun yuh."
 
 Our interview concluded, we set out in search of Siras Bowen, who, we
 had been told, carved wooden
-tombstones. [70a](das26.htm#xref_70a), [70h](das26.htm#xref_70h) We rode
+tombstones. [70a](das26.htm#xref_70a), [70h](das26.htm#xref_70h.md) We rode
 down the sandy, tree-lined road until we came to the Sunbury Baptist
 Church, a white frame building set back from the highway against a
 background of verdant spreading trees. The Bowen family burial ground
@@ -222,12 +222,12 @@ These were wooden images set on graves that were close together. One
 resembled a large bird; another represented a snake writhing upon a
 stand; and the third was the figure of a man, round and pole-like of
 body, with a head that resembled a ball and rudely sculptured
-features. [41e](das26.htm#xref_41e) Another Bowen marker was of clay
+features. [41e](das26.htm#xref_41e.md) Another Bowen marker was of clay
 painted yellow; in its surface was roughly cut the outline of an open
 hand with a small mirror glittering in the palm.
 
 Most of the graves were decorated with possessions of the departed
-persons. [47](das26.htm#xref_47) There were many glasses, bottles, and
+persons. [47](das26.htm#xref_47.md) There were many glasses, bottles, and
 vases, most of which had been turned a shimmering purple from long
 exposure to the sun. For a time we wandered
 
@@ -268,7 +268,7 @@ The subject of food led us to inquire if she knew of any persons who
 refused to eat certain things.
 
 "Muh huzbun wohn nebuh eat chicken. Ain nebuh eat it sence he wuz bawn,
-an needuh his mudduh befo him." [65](das26.htm#xref_65)
+an needuh his mudduh befo him." [65](das26.htm#xref_65.md)
 
 "Why is that? Doesn't he like it?"
 
@@ -289,26 +289,26 @@ dances obuh on St. Catherine Ilun."
 
 "How would you know when they were going to hold a dance?"
 
-"Dey beat duh drums on St. Catherine. [26](das26.htm#xref_26) Den dey
+"Dey beat duh drums on St. Catherine. [26](das26.htm#xref_26.md) Den dey
 heah it at Harris Neck an folks deah tell all ub us yuh bout duh dance.
 We all go obuh tuh St. Catherine in a boat an dance an dance till mos
 daylight."
 
 When the talk finally turned to roots and other potent elements of
 conjure, we were told of a recent incident in the
-neighborhood. [15](das26.htm#xref_15)
+neighborhood. [15](das26.htm#xref_15.md)
 
 "I sees dis wid muh own eyes," asserted the story-teller. "Deah wuz a
 ole man roun yuh wut wuz cunjuhed an hab lots uh trouble wid his eyes.
 He dig roun his yahd tuh see ef any dose is buried deah. Attuh a time he
-fine a dawl baby buried unduh duh doe step. [8](das26.htm#xref_8) Its
+fine a dawl baby buried unduh duh doe step. [8](das26.htm#xref_8.md) Its
 two finguhs wuz stuck in its eye. Duh man tro duh dawl in duh ribbuh an
 duh trouble disappeah."
 
 She said that she knew of no other recent case of conjure, but it
 appeared that both women had had experiences with witches. We were
 informed that it was a common occurrence for "folks tuh hab witches ride
-um at night." [69](das26.htm#xref_69) The girl contributed little to the
+um at night." [69](das26.htm#xref_69.md) The girl contributed little to the
 conversation, but occasionally nodded her head in agreement when the
 older woman made a statement. Only once did she speak, and then it was
 to issue a brief sharp rebuke to a very small child who was scampering
@@ -327,22 +327,22 @@ continuing.
 
 ### Footnotes
 
-<span id="fn_118"></span>[105:1](das18.htm#fr_118) Elizabeth Roberts,
+<span id="fn_118"></span>[105:1](das18.htm#fr_118.md) Elizabeth Roberts,
 Sunbury.
 
-<span id="fn_119"></span>[106:1](das18.htm#fr_119) Emma Stevens,
+<span id="fn_119"></span>[106:1](das18.htm#fr_119.md) Emma Stevens,
 Sunbury.
 
-<span id="fn_120"></span>[107:1](das18.htm#fr_120) Mary Stevens,
+<span id="fn_120"></span>[107:1](das18.htm#fr_120.md) Mary Stevens,
 Sunbury.
 
-<span id="fn_121"></span>[108:1](das18.htm#fr_121) "Uncle Jonah,"
+<span id="fn_121"></span>[108:1](das18.htm#fr_121.md) "Uncle Jonah,"
 Sunbury.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Harris Neck](das19)
+[Next: Harris Neck](das19.md)
 
 </div>

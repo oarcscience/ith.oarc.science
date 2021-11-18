@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod38)  [Next](eod40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod38)  [Next](eod40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -23,9 +23,9 @@ Textual Heritage
 #### ARTEMIS AND THE GUARDIAN OF THE PORTAL.
 
 Sir Gardner Wilkinson states (see text-figure, [p.
-179](eod38.htm#page_179), *b*) that "a basket of sycamore figs" was
+179](eod38.htm#page_179), *b*.md) that "a basket of sycamore figs" was
 originally the hieroglyphic sign for a woman, a goddess, or a mother.
-Later on ([p. 199](eod40.htm#page_199)) I shall refer to the possible
+Later on ([p. 199](eod40.htm#page_199).md) I shall refer to the possible
 bearing of this Egyptian idea upon the origin of the Hebrew word for
 mandrakes and the allusion to "a basket of figs" in the Book of
 Jeremiah.
@@ -55,11 +55,11 @@ lotus and other water plants. Any doubt as to the reality of these
 associations and Egyptian connexions is banished by the evidence of
 Artemis's male counterpart Apollo Hyakinthos and his relations to the
 sacred lily and other water plants. <span
-id="fr_337"></span>[1](#fn_337) Artemis was a gynæcological specialist:
+id="fr_337"></span>[1](#fn_337.md) Artemis was a gynæcological specialist:
 for she assisted women not only in childbirth and the expulsion of the
 placenta, but also in cases of amenorrhœa and affections of the uterus.
 She was regarded as the goddess of the portal, not merely of
-birth, <span id="fr_338"></span>[2](#fn_338) but also of gold and
+birth, <span id="fr_338"></span>[2](#fn_338.md) but also of gold and
 treasure, of which she possessed the key, and of the year (January).
 
 This brings us back to the guardianship of gold and treasures which
@@ -69,13 +69,13 @@ conchological ancestry of these deities and their connexion with the
 guardians of the subterranean palaces where pearls are found. But
 Artemis was not only the opener of the treasure-houses, but she also
 possessed the secret of the philosopher's stone: she could transmute
-base substances into gold, <span id="fr_339"></span>[3](#fn_339) for was
+base substances into gold, <span id="fr_339"></span>[3](#fn_339.md) for was
 she not the offspring of the Golden Hathor? To open the portal either of
 birth or wealth she used her magic wand or key. As *Nūb*, the lady of
 gold, the Great Mother could not only change other substances into gold,
 but she was also the guardian of the treasure house of gold, pearls, and
 precious stones. Hence she could grant riches. Elsewhere in this chapter
-([p. 221](eod43.htm#page_221)) I shall explain how the goddess came to
+([p. 221](eod43.htm#page_221).md) I shall explain how the goddess came to
 be identified with gold.
 
 Just as Hathor, the Eye of Re, descended to provide the elixir of youth
@@ -83,7 +83,7 @@ for the king who was the sun-god, so Artemis is described as
 
 <span id="img_fig25"></span> <span align="CENTER"> [![Fig.
 25.](tn/fig25.jpg)  
-Click to enlarge](img/fig25.jpg)  
+Click to enlarge](img/fig25.jpg.md)  
 Fig. 25.  
 </span>
 
@@ -117,7 +117,7 @@ wing-pattern, possibly suggesting the doubling of each axe-blade in *g*.
 Goddess of the Portal.
 
 (*k*) Persian Winged Disk (Ward, Fig. 1144) above a fire-altar in the
-form suggestive of the mountains of dawn (compare [Fig. 26](#img_fig26),
+form suggestive of the mountains of dawn (compare [Fig. 26](#img_fig26.md),
 *c*).
 
 (*l*) An Assyrian Tree of Life and Winged Disk crudely conventionalized
@@ -129,9 +129,9 @@ in a crescent replacing the Disk (Ward, Fig. 695).
 <span id="page_185">p. 185</span>
 
 travelling through the air in a car drawn by two serpents <span
-id="fr_340"></span>[1](#fn_340) seeking the most pious of kings in order
+id="fr_340"></span>[1](#fn_340.md) seeking the most pious of kings in order
 that she might establish her cult with him and bless him with renewed
-youth. <span id="fr_341"></span>[2](#fn_341)
+youth. <span id="fr_341"></span>[2](#fn_341.md)
 
 Artemis was a moon-goddess closely related to Britomartis and Diktynna,
 the Cretan prototype of Aphrodite. These goddesses afforded help to
@@ -145,7 +145,7 @@ essence and so cause disease or death; but she possessed the means of
 curing the ills she inflicted. Artemis, in fact, like all the other
 goddesses, was a witch.
 
-In former lectures <span id="fr_342"></span>[3](#fn_342) I have often
+In former lectures <span id="fr_342"></span>[3](#fn_342.md) I have often
 discussed the remarkable feature of Egyptian architecture, which is
 displayed in the tendency to exaggerate the door-posts and lintels,
 until in the New Empire the great temples become transformed into little
@@ -160,7 +160,7 @@ and, symbolically, the portal by which the dead acquired a rebirth into
 a new form of existence. It was presumably for this reason that the
 winged disk as a symbol of life-giving, was placed above the lintels of
 these doors, not merely in Egypt, Phœnicia, the Mediterranean Area, and
-Western Asia, but also in America, <span id="fr_343"></span>[4](#fn_343)
+Western Asia, but also in America, <span id="fr_343"></span>[4](#fn_343.md)
 and in modified forms in India, Indonesia, Melanesia, Cambodia, China,
 and Japan.
 
@@ -180,16 +180,16 @@ in Egypt by the use of the winged disk (the sun-god).
 Over the lintel of the famous "Lion Gate" at Mycenæ, instead of the
 winged disk, we find a vertical pillar to represent the Mother Goddess,
 flanked by two lions which are nothing more than other representatives
-of herself ([Fig. 26](#img_fig26)).
+of herself ([Fig. 26](#img_fig26).md).
 
 In his "Mycenæan Tree and Pillar Cult," Sir Arthur Evans has shown that
 all possible transitional forms can be found (in Crete and the Ægean
 area) between the representation of the actual goddess and her pillar-
 and tree-manifestations, until the stage is reached where the sun itself
 appears above the pillar between the lions. <span
-id="fr_344"></span>[1](#fn_344) In the large series of seals from
+id="fr_344"></span>[1](#fn_344.md) In the large series of seals from
 Mesopotamia and Western Asia which have been described in Mr. William
-Hayes Ward's monograph, <span id="fr_345"></span>[2](#fn_345) we find
+Hayes Ward's monograph, <span id="fr_345"></span>[2](#fn_345.md) we find
 manifold links between both the Egyptian and the Minoan cults.
 
 The tree-form of the Great Mother there becomes transformed into the
@@ -197,20 +197,20 @@ The tree-form of the Great Mother there becomes transformed into the
 have a duplication of the life-giving deities. The "tree of life" of the
 Great Mother surmounted by the winged disk which is really her surrogate
 or that of the sun-god, who took over from her the power of life-giving
-(Figs. [25](#img_fig25) and [26](#img_fig26)).
+(Figs. [25](#img_fig25) and [26](#img_fig26).md).
 
 In an interesting Cretan sarcophagus from Hagia Triada <span
-id="fr_346"></span>[3](#fn_346) the life-giving power is *tripled*.
+id="fr_346"></span>[3](#fn_346.md) the life-giving power is *tripled*.
 There is not only the tree representing the Great Mother herself; but
 also the double axe (the winged-disk homologue of the sun-god); and the
 more direct representation of him as a bird perched upon the axe ([Fig.
-25](#img_fig25), *f*).
+25](#img_fig25), *f*.md).
 
 The identification of the Great Mother with the tree or pillar seems
 also to have led to her confusion with the pestle with which the
 materials for her draught of immortality was pounded. She was also the
 bowl or mortar in which the pestle worked. <span
-id="fr_347"></span>[4](#fn_347)
+id="fr_347"></span>[4](#fn_347.md)
 
 <span id="page_187">p. 187</span>
 
@@ -219,7 +219,7 @@ Soma-plant, whose stalks are crushed by the priests to make the
 Soma-libation, becomes in the Vedas itself the Crusher or Smiter, by a
 very characteristic and frequent Oriental conceit in accordance with
 which the agent and the person or thing acted on are identified". <span
-id="fr_348"></span>[1](#fn_348)
+id="fr_348"></span>[1](#fn_348.md)
 
 "The pressing-stones by means of which Soma is crushed typify
 thunderbolts." "In the *Rig-Veda*, we read of him \[Soma\] as
@@ -256,7 +256,7 @@ rain-phenomena and the gods that controlled them played some part in the
 <span id="page_188">p. 188</span>
 
 development of the symbolism of mountains. \[When I referred (in Chapter
-II, [p. 98](eod22.htm#page_98)) to the fact that what Sir Arthur Evans
+II, [p. 98](eod22.htm#page_98).md) to the fact that what Sir Arthur Evans
 calls "the horns of consecration" was primarily the split mountain of
 the dawn, I was not aware that Professor Newberry ("Two Cults of the Old
 Kingdom," Annals of *Archæology and Anthropology*, Liverpool, Vol. I,
@@ -267,14 +267,14 @@ pound the materials for the food of immortality. In the Indian version,
 the gods, aware of their mortality, desired to discover some elixir
 which would make them immortal. To this end, Mount Meru \[the Great
 Mother\] was cast into the sea \[of milk\]. Vishnu, in his second
-*avatar* as a tortoise <span id="fr_349"></span>[1](#fn_349) supported
+*avatar* as a tortoise <span id="fr_349"></span>[1](#fn_349.md) supported
 the mountain on his back; and the Nâga serpent Vasuki was then twisted
 around the mountain, the gods seizing its head and the demons his tail
 twirled the mountain until they had churned the amrita or water of life.
 Wilfrid Jackson has called attention to the fact that this scene has
 been depicted, not only in India and Japan, but also in the Precolumbian
 *Codex Cortes* drawn by some Maya artist in Central America. <span
-id="fr_350"></span>[2](#fn_350)
+id="fr_350"></span>[2](#fn_350.md)
 
 The horizon is the birthplace of the gods; and the birth of the deity is
 depicted with literal crudity as an emergence from the portal between
@@ -293,12 +293,12 @@ the portal, and is not only a helper in childbirth, but also grows in
 her garden a magical herb which is capable of opening locks. This
 reputation, however, was acquired not merely by reason of her skill in
 midwifery, but also as an outcome of the legend <span
-id="fr_351"></span>[3](#fn_351) of the treasure-house of pearls which
+id="fr_351"></span>[3](#fn_351.md) of the treasure-house of pearls which
 was under the guardianship of the great “giver
 
 <span id="img_fig26"></span> <span align="CENTER"> [![Fig.
 26.](tn/fig26.jpg)  
-Click to enlarge](img/fig26.jpg)  
+Click to enlarge](img/fig26.jpg.md)  
 Fig. 26.  
 </span>
 
@@ -381,9 +381,9 @@ subject-matter of this book. I mean the custom of suspending or
 representing the life-giving symbol above the portal of temples and
 houses. Thus the plant peculiar to Artemis herself, the mugwort or
 Artemisia, was hung above the door, <span
-id="fr_352"></span>[1](#fn_352) just as the winged disk was sculptured
+id="fr_352"></span>[1](#fn_352.md) just as the winged disk was sculptured
 upon the lintel, or the thunder-stone was placed above the door of the
-cowhouse <span id="fr_353"></span>[2](#fn_353) to afford the protection
+cowhouse <span id="fr_353"></span>[2](#fn_353.md) to afford the protection
 of the Great Mother's powers of life-giving to her own cattle.
 
 In the Pyramid Texts the rebirth of a dead pharaoh is described with
@@ -396,12 +396,12 @@ this Neferkere takes possession of his body. Behold this Neferkere—his
 feet are kissed by the pure waters which are from Atum, which the
 phallus of Shu made, which the vulva of Tefnut brought into being. They
 have come, they have brought for thee the pure waters from their
-father." <span id="fr_354"></span>[3](#fn_354)
+father." <span id="fr_354"></span>[3](#fn_354.md)
 
 <span id="page_190">p. 190</span>
 
 The Egyptians entertained the belief <span
-id="fr_355"></span>[1](#fn_355) that the sun-god was born of the
+id="fr_355"></span>[1](#fn_355.md) that the sun-god was born of the
 celestial cow Mehetwēret, a name which means "Great Flood," and is the
 equivalent of the primeval ocean Nun. In other words the celestial cow
 Hathor, the embodiment of the life-giving waters of heaven and earth, is
@@ -409,19 +409,19 @@ the mother of Horus. So also Aphrodite was born of the "Great Flood"
 which is the ocean.
 
 In his report upon the hieroglyphs of Beni Hasan, <span
-id="fr_356"></span>[2](#fn_356) Mr. Griffith refers to the picture of "a
+id="fr_356"></span>[2](#fn_356.md) Mr. Griffith refers to the picture of "a
 woman of the marshes," which is read *sekht*, and is "used to denote the
 goddess Sekhet, the goddess of the marshes, who presided over the
 occupations of the dwellers there. Chief among these occupations must
 have been the capture of fish and fowl and the culture and gathering of
 water-plants, especially the papyrus and the lotus". Sekhet was in fact
 a rude prototype of Artemis in the character depicted by Dr. Rendel
-Harris." <span id="fr_357"></span>[3](#fn_357)
+Harris." <span id="fr_357"></span>[3](#fn_357.md)
 
 It is perhaps not without significance that the root of a marsh plant,
-the *Iris pseudacorus* <span id="fr_358"></span>[4](#fn_358) is regarded
+the *Iris pseudacorus* <span id="fr_358"></span>[4](#fn_358.md) is regarded
 in Germany as a luck-bringer which can take the place of the
-mandrake. <span id="fr_359"></span>[5](#fn_359)
+mandrake. <span id="fr_359"></span>[5](#fn_359.md)
 
 The Great Mother wields a magic wand which the ancient Egyptian scribes
 called the "Great Magician". It was endowed with the two-fold powers of
@@ -439,14 +439,14 @@ of a conventionalized
 
 <span id="page_191">p. 191</span>
 
-picture of the uterus, <span id="fr_360"></span>[1](#fn_360) in its
+picture of the uterus, <span id="fr_360"></span>[1](#fn_360.md) in its
 aspect as a giver of life. But it is possible also that its other
 significance as an "opener of the ways" may have helped in the confusion
 of the hieroglyphic uterus-symbol with the key-symbol, and possibly also
 with double-axe symbol which the vaguely defined early Cretan
 Mother-Goddess wielded. For, as we have already seen (*supra*, [p.
-122](eod25.htm#page_122)), the axe also was a life-giving divinity and a
-magic wand ([fig. 8](#img_19100)).
+122](eod25.htm#page_122).md), the axe also was a life-giving divinity and a
+magic wand ([fig. 8](#img_19100).md).
 
 In his chapter on "the Origin of the Cult of Artemis," Dr. Rendel Harris
 refers to the reputation of Artemis as the patron of travellers, and to
@@ -455,7 +455,7 @@ some of the hearbe \[Artemisia\] with him, he shall feele no weariness
 at all in his journey" (p. 72). Hence the high Dutch name *Beifuss* is
 applied to it.
 
-<span id="img_19100"></span> ![Fig. 8.](img/19100.jpg)
+<span id="img_19100"></span> ![Fig. 8.](img/19100.jpg.md)
 
 (*a*) "Ceremonial forked object," or "magic wand," used in the ceremony
 of "opening the mouth," possibly connected with (*b*) (a bicornuate
@@ -467,7 +467,7 @@ uterus), according to Griffith ("Hieroglyphics," p. 60).
 
 The left foot of the dead was called "the staff of Hathor" by the
 Egyptians; and the goddess was said "to make the deceased's legs to
-walk". <span id="fr_361"></span>[2](#fn_361)
+walk". <span id="fr_361"></span>[2](#fn_361.md)
 
 It was a common practice to tie flowers to a mummy's feet, as I
 discovered in unwrapping the royal mummies. According to Moret (*op.
@@ -476,7 +476,7 @@ feet at the celebration of the Sed festival.
 
 Mr. Battiscombe Gunn (quoted by Dr. Alan Gardiner) states that the
 familiar symbol of life known as the *ankh* represents the string of a
-sandal. <span id="fr_362"></span>[3](#fn_362)
+sandal. <span id="fr_362"></span>[3](#fn_362.md)
 
 It seems to be worth considering whether the symbolism of the
 sandal-string may not have been derived from the life-girdle, which in
@@ -494,43 +494,43 @@ symbolism, claims that reference to the foot has such a significance.
 
 ### Footnotes
 
-<span id="fn_337"></span>[184:1](eod39.htm#fr_337) Evans, *op. cit.*, p.
+<span id="fn_337"></span>[184:1](eod39.htm#fr_337.md) Evans, *op. cit.*, p.
 50.
 
-<span id="fn_338"></span>[184:2](eod39.htm#fr_338) Her Latin
+<span id="fn_338"></span>[184:2](eod39.htm#fr_338.md) Her Latin
 representative, Diana, had a male counterpart and conjugate, Dianus,
 *i.e.* Janus, of whom it was said: "Ipse primum Janus cum puerperium
 concipitur … aditum aperit recipiendo semini". For other quotations see
 Rendel Harris, *op. cit.*, p. 88 and the article "Janus" in Roscher's
 "Lexikon".
 
-<span id="fn_339"></span>[184:3](eod39.htm#fr_339) Rendel Harris, p. 73.
+<span id="fn_339"></span>[184:3](eod39.htm#fr_339.md) Rendel Harris, p. 73.
 
-<span id="fn_340"></span>[185:1](eod39.htm#fr_340) No doubt the two uræi
+<span id="fn_340"></span>[185:1](eod39.htm#fr_340.md) No doubt the two uræi
 of the Saga of the Winged Disk.
 
-<span id="fn_341"></span>[185:2](eod39.htm#fr_341) A. B. Cook, "Zeus;"
+<span id="fn_341"></span>[185:2](eod39.htm#fr_341.md) A. B. Cook, "Zeus;"
 Vol. I, p. 244.
 
-<span id="fn_342"></span>[185:3](eod39.htm#fr_342) *Journal of the
+<span id="fn_342"></span>[185:3](eod39.htm#fr_342.md) *Journal of the
 Manchester Egyptian and Oriental Society*, 1916.
 
-<span id="fn_343"></span>[185:4](eod39.htm#fr_343) "The Influence of
+<span id="fn_343"></span>[185:4](eod39.htm#fr_343.md) "The Influence of
 Egyptian Civilization in the East and in America," *Bulletin of the John
 Rylands Library*, 1916.
 
-<span id="fn_344"></span>[186:1](eod39.htm#fr_344) Evans's, Fig. 41, p.
+<span id="fn_344"></span>[186:1](eod39.htm#fr_344.md) Evans's, Fig. 41, p.
 63.
 
-<span id="fn_345"></span>[186:2](eod39.htm#fr_345) "The Seal Cylinders
+<span id="fn_345"></span>[186:2](eod39.htm#fr_345.md) "The Seal Cylinders
 of Western Asia," 1910.
 
-<span id="fn_346"></span>[186:3](eod39.htm#fr_346) Paribeni, "Monumenti
+<span id="fn_346"></span>[186:3](eod39.htm#fr_346.md) Paribeni, "Monumenti
 antichi dell’ accademia dei Lincei," XIX, punt. 1, pll. 1-3; and V.
 Duhn, "*Arch. f. Religionswissensch.*," XII, p. 161, pll. 2-4; quoted by
 Blinkenberg, "The Thunder Weapon," pp. 20 and 21, Fig. 9.
 
-<span id="fn_347"></span>[186:4](eod39.htm#fr_347) Without just reason,
+<span id="fn_347"></span>[186:4](eod39.htm#fr_347.md) Without just reason,
 many writers have assumed that the pestle, which was identified with the
 handle used in the churning of the ocean (see de Gubernatis, <span
 id="page_287">p. 287</span> "Zoological Mythology," Vol. II, p. 361),
@@ -539,19 +539,19 @@ the churn at a later period, when the churn itself was regarded as the
 Mother Pot or uterus; but we are not justified in assuming that this was
 its primary significance.
 
-<span id="fn_348"></span>[187:1](eod39.htm#fr_348) Gladys M. N. Davis,
+<span id="fn_348"></span>[187:1](eod39.htm#fr_348.md) Gladys M. N. Davis,
 "The Asiatic Dionysos," p. 172.
 
-<span id="fn_349"></span>[188:1](eod39.htm#fr_349) The tortoise was the
+<span id="fn_349"></span>[188:1](eod39.htm#fr_349.md) The tortoise was the
 vehicle of Aphrodite also and her representatives in Central America.
 
-<span id="fn_350"></span>[188:2](eod39.htm#fr_350) Jackson, "Shells,
+<span id="fn_350"></span>[188:2](eod39.htm#fr_350.md) Jackson, "Shells,
 etc.," pp. 57 *et seq*.
 
-<span id="fn_351"></span>[188:3](eod39.htm#fr_351) Vide *supra*, [p.
-158](eod35.htm#page_158).
+<span id="fn_351"></span>[188:3](eod39.htm#fr_351.md) Vide *supra*, [p.
+158](eod35.htm#page_158.md).
 
-<span id="fn_352"></span>[189:1](eod39.htm#fr_352) Rendel Harris, "The
+<span id="fn_352"></span>[189:1](eod39.htm#fr_352.md) Rendel Harris, "The
 Ascent of Olympus," p. 80. In the building up of the idea of rebirth the
 ancients kept constantly before their minds a very concrete picture of
 the actual process of parturition and of the anatomy of the organs
@@ -562,40 +562,40 @@ which are divided at the birth of the deity: but the real significance
 of the primitive imagery cannot be wholly ignored if we want to
 understand the meaning of the phraseology used by the ancient writers.
 
-<span id="fn_353"></span>[189:2](eod39.htm#fr_353) Blinckenberg, "The
+<span id="fn_353"></span>[189:2](eod39.htm#fr_353.md) Blinckenberg, "The
 Thunder-weapon," p. 72.
 
-<span id="fn_354"></span>[189:3](eod39.htm#fr_354) Aylward M. Blackman,
+<span id="fn_354"></span>[189:3](eod39.htm#fr_354.md) Aylward M. Blackman,
 "Sacramental Ideas and Usages in Ancient Egypt," *Proceedings of the
 Society of Biblical Archæology*, March, 1918, p. 64.
 
-<span id="fn_355"></span>[190:1](eod39.htm#fr_355) *Op. cit.*, p. 60.
+<span id="fn_355"></span>[190:1](eod39.htm#fr_355.md) *Op. cit.*, p. 60.
 
-<span id="fn_356"></span>[190:2](eod39.htm#fr_356) "Archæol. Survey of
+<span id="fn_356"></span>[190:2](eod39.htm#fr_356.md) "Archæol. Survey of
 Egypt," 5th Memoir, 1896, p. 31.
 
-<span id="fn_357"></span>[190:3](eod39.htm#fr_357) See especially *op.
+<span id="fn_357"></span>[190:3](eod39.htm#fr_357.md) See especially *op.
 cit.*, p. 35, the goddess of streams and marshes, who was also herself
 "the mother plant," like the mother of Horus.
 
-<span id="fn_358"></span>[190:4](eod39.htm#fr_358) Whose cultural
+<span id="fn_358"></span>[190:4](eod39.htm#fr_358.md) Whose cultural
 associations with the Great Mother in the Eastern Mediterranean littoral
 has been discussed by Sir Arthur Evans, "Mycenæan Tree and Pillar Cult,"
 pp. 49 *et seq*. Compare also *Apollo hyakinthos* as further evidence of
 the link with Artemis.
 
-<span id="fn_359"></span>[190:5](eod39.htm#fr_359) P. J. Veth,
+<span id="fn_359"></span>[190:5](eod39.htm#fr_359.md) P. J. Veth,
 "Internat. Arch. f. Ethnol.," Bd. 7, pp. 203 and 204.
 
-<span id="fn_360"></span>[191:1](eod39.htm#fr_360) "Hieroglyphics," p.
+<span id="fn_360"></span>[191:1](eod39.htm#fr_360.md) "Hieroglyphics," p.
 60.
 
-<span id="fn_361"></span>[191:2](eod39.htm#fr_361) Budge, "The Gods of
+<span id="fn_361"></span>[191:2](eod39.htm#fr_361.md) Budge, "The Gods of
 the Egyptians," Vol. I, pp. 436 and 437.
 
-<span id="fn_362"></span>[191:3](eod39.htm#fr_362) Alan Gardiner, "Life
+<span id="fn_362"></span>[191:3](eod39.htm#fr_362.md) Alan Gardiner, "Life
 and Death (Egyptian)," Hastings’ *Encyclopædia of Religion and Ethics*.
 
 ------------------------------------------------------------------------
 
-[Next: The Mandrake](eod40)
+[Next: The Mandrake](eod40.md)

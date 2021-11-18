@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog14)  [Next](bog16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog14)  [Next](bog16.md) 
 
 ------------------------------------------------------------------------
 
@@ -591,4 +591,4 @@ This is the sum of all mysteries.
 
 ------------------------------------------------------------------------
 
-[Next: Athena](bog16)
+[Next: Athena](bog16.md)

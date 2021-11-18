@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma19)  [Next](oma21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma19)  [Next](oma21.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,17 +46,17 @@ All were to help in taking these things along.
 <span id="img_06700"></span>
 
 [![FIGURE 4.--Diagram of rite of exorcism.](tn/06700.jpg)  
-Click to enlarge](img/06700.jpg)  
+Click to enlarge](img/06700.jpg.md)  
 FIGURE 4.--Diagram of rite of exorcism.  
 
  
 
 When the fourth day came, Country Chief told the chaianyi to go on ahead
-four lengths (măati'), <span id="fr_148"></span>[49](#fn_148) a long
+four lengths (măati'), <span id="fr_148"></span>[49](#fn_148.md) a long
 ways, and to prepare a place to stop. So the chaianyi started. They
 dressed up in their official costumes when they made their first stop.
 They made a sand painting on the south side of the camp, representing
-four mountains ([pl. 15, fig. 1](oma48.htm#img_pl15a)). When the people
+four mountains ([pl. 15, fig. 1](oma48.htm#img_pl15a).md). When the people
 came, they were to cross these four mountains and valleys and thus put
 the sickness that much more in their
 
@@ -69,7 +69,7 @@ chaianyi explained how the people were to stop first halfway on the
 mountain, then on the top, then in the valley, then halfway up, etc.
 (fig. 4). The chaianyi would say, as they brushed them off, "Come,
 Raven! You represent the whirlwind, <span
-id="fr_149"></span>[60](#fn_149) sweep away from us this disease and all
+id="fr_149"></span>[60](#fn_149.md) sweep away from us this disease and all
 diseases and sadness. You are the one who has the real power to do
 this." They would repeat this for each person that approached to cross
 the sand painting. Two chaianyi were at the other end of the sand
@@ -85,7 +85,7 @@ ground, were yucca leaves tied at the
 
 [![FIGURE 5.--Frame made of yucca plants, used in rite of
 exorcism.](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)  
+Click to enlarge](img/06800.jpg.md)  
 FIGURE 5.--Frame made of yucca plants, used in rite of exorcism.  
 
  
@@ -98,7 +98,7 @@ place where there were two more chaianyi. Before going there they were
 to pick up any object that caught their eye, any stick or stone, and
 then to brush themselves with the object they had picked up, speaking to
 it to take away sickness and sorrow. <span
-id="fr_150"></span>[61](#fn_150) From there they were allowed to go on.
+id="fr_150"></span>[61](#fn_150.md) From there they were allowed to go on.
 All the people did the same and the chaianyi buried the objects carrying
 the sickness in the hole that had been dug between them. The medicine
 men finished their work by destroying the mountains and finally
@@ -107,12 +107,12 @@ other. Then they made four marks on
 
 <span id="page_69">p. 69</span>
 
-the ground <span id="fr_151"></span>[52](oma21.htm#fn_151) with an
+the ground <span id="fr_151"></span>[52](oma21.htm#fn_151.md) with an
 arrowhead, as a barrier to disease, <span
-id="fr_152"></span>[53](oma21.htm#fn_152) blocking their trail. They
+id="fr_152"></span>[53](oma21.htm#fn_152.md) blocking their trail. They
 traveled for a long time, slowly, as they were on foot and heavily
 burdened. They came to a place they named Wash'pashŭkă (sage
-basin). <span id="fr_153"></span>[54](oma21.htm#fn_153) They found water
+basin). <span id="fr_153"></span>[54](oma21.htm#fn_153.md) They found water
 there and the country was beautiful. So Country Chief said to the
 people, "We will stop here for 4 years and make a pueblo; here we will
 take along rest." So they made houses with stones and settled down, they
@@ -122,19 +122,19 @@ built their kivas, carried on their ceremonies, and lived as before.
 
 ### Footnotes
 
-<span id="fn_148"></span>[67:49](oma20.htm#fr_148) Informant's note:
+<span id="fn_148"></span>[67:49](oma20.htm#fr_148.md) Informant's note:
 Maati is the span of thumb and forefinger. Four maati was the old way of
 saying "far"; the modern word is teetsa.
 
-<span id="fn_149"></span>[68:60](oma20.htm#fr_149) Probably
+<span id="fn_149"></span>[68:60](oma20.htm#fr_149.md) Probably
 ha·'yactc’ιTcun<sup>y</sup>i hα'tc‘tcTse, Whirlwind old man (cf. Boas,
 1928, pt. 2, p. 190, ll. 19, 26).
 
-<span id="fn_150"></span>[68:61](oma20.htm#fr_150) This is the rite
+<span id="fn_150"></span>[68:61](oma20.htm#fr_150.md) This is the rite
 observed by other Pueblos and by Navaho on a journey. It is South
 American practice also. There, among Andean peoples, the sticks or
 stones are left in a pile.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part XII](oma21)
+[Next: Wanderings, Part XII](oma21.md)

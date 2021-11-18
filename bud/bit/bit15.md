@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit14)  [Next](bit16) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit14)  [Next](bit16.md) 
 
 ------------------------------------------------------------------------
 
@@ -1064,4 +1064,4 @@ Mission to India and High Asia."\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Religious Buildings and Monuments](bit16)
+[Next: Chapter XII. Religious Buildings and Monuments](bit16.md)

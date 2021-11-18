@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot05) 
-[Next](aot07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot05.md) 
+[Next](aot07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -34,21 +34,21 @@ Philostratus, and only finally did so (in 1501) with the text of
 Eusebius as an appendix, so that, as he piously phrases it, "the
 antidote might accompany the poison." Together with it appeared a Latin
 translation by the Florentine Rinucci. <span
-id="fr_34"></span>[\*](#fn_34)
+id="fr_34"></span>[\*](#fn_34.md)
 
 <span id="page_43">p. 43</span>
 
 In addition to the Latin version the sixteenth century also produced an
-Italian <span id="fr_35"></span>[\*](#fn_35) and French
-translation. <span id="fr_36"></span>[†](#fn_36)
+Italian <span id="fr_35"></span>[\*](#fn_35.md) and French
+translation. <span id="fr_36"></span>[†](#fn_36.md)
 
 The *editio princeps* of Aldus was superseded a century later by the
-edition of Morel <span id="fr_37"></span>[‡](#fn_37), which in its turn
+edition of Morel <span id="fr_37"></span>[‡](#fn_37.md), which in its turn
 was followed a century still later by that of Olearius. <span
-id="fr_38"></span>[§](#fn_38) Nearly a century and a half later again
+id="fr_38"></span>[§](#fn_38.md) Nearly a century and a half later again
 the text of Olearius was superseded by that of Kayser (the first
 critical text), whose work in its last edition contains the latest
-critical apparatus. <span id="fr_39"></span>[\*\*](#fn_39) All
+critical apparatus. <span id="fr_39"></span>[\*\*](#fn_39.md) All
 information with regard to the MSS. will be found in Kayser's Latin
 Prefaces.
 
@@ -67,27 +67,27 @@ venture on an opinion of his own with a clear conscience.
 
 Sectarian prejudice against Apollonius characterises nearly every
 opinion prior to the nineteenth century. <span
-id="fr_40"></span>[\*](#fn_40) Of books distinctly dedicated to the
-subject the works of the Abbé Dupin <span id="fr_41"></span>[†](#fn_41)
-and of de Tillemont <span id="fr_42"></span>[‡](#fn_42) are bitter
+id="fr_40"></span>[\*](#fn_40.md) Of books distinctly dedicated to the
+subject the works of the Abbé Dupin <span id="fr_41"></span>[†](#fn_41.md)
+and of de Tillemont <span id="fr_42"></span>[‡](#fn_42.md) are bitter
 attacks
 
 <span id="page_45">p. 45</span>
 
 on the Philosopher of Tyana in defence of the monopoly of Christian
 miracles; while those of the Abbé Houtteville <span
-id="fr_43"></span>[\*](#fn_43) and Lüderwald <span
-id="fr_44"></span>[†](#fn_44) are less violent, though on the same
+id="fr_43"></span>[\*](#fn_43.md) and Lüderwald <span
+id="fr_44"></span>[†](#fn_44.md) are less violent, though on the same
 lines. A pseudonymous writer, however, of the eighteenth century strikes
 out a somewhat different line by classing together the miracles of the
 Jesuits and other Monastic Orders with those of Apollonius, and dubbing
 them all spurious, while maintaining the sole authenticity of those of
-Jesus. <span id="fr_45"></span>[‡](#fn_45)
+Jesus. <span id="fr_45"></span>[‡](#fn_45.md)
 
 Nevertheless, Bacon and Voltaire speak of Apollonius in the highest
-terms, <span id="fr_46"></span>[§](#fn_46) and even a century before the
+terms, <span id="fr_46"></span>[§](#fn_46.md) and even a century before the
 latter the English Deist, Charles Blount, <span
-id="fr_47"></span>[\*\*](#fn_47) raised his voice against the
+id="fr_47"></span>[\*\*](#fn_47.md) raised his voice against the
 
 <span id="page_46">p. 46</span>
 
@@ -97,7 +97,7 @@ however, was speedily suppressed.
 In the midst of this war about miracles in the eighteenth century it is
 pleasant to remark the short treatise of Herzog, who endeavours to give
 a sketch of the philosophy and religious life of Apollonius, <span
-id="fr_48"></span>[\*](#fn_48) but, alas! there were no followers of so
+id="fr_48"></span>[\*](#fn_48.md) but, alas! there were no followers of so
 liberal an example in this century of strife.
 
 So far then for the earlier literature of the subject. Frankly none of
@@ -121,7 +121,7 @@ beginning of the nineteenth century, in chronological order.
 A glance over this list will show that the last century has produced an
 English (Berwick's), an Italian (Lancetti's), a French (Chassang's), and
 two German translations (Jacobs’ and Baltzer's). <span
-id="fr_49"></span>[\*](#fn_49) The Rev. E. Berwick's translation is the
+id="fr_49"></span>[\*](#fn_49.md) The Rev. E. Berwick's translation is the
 only English version; in his Preface the author, while asserting the
 falsity of the miraculous element in the Life, says that the rest of the
 work deserves careful attention. No harm will accrue to the Christian
@@ -175,7 +175,7 @@ Eusebius? For Lactantius frankly admits the point brought forward by
 Hierocles (to exemplify which Hierocles only referred to Apollonius as
 one instance out of many)—that "miracles" do not prove divinity. We rest
 our claims, says Lactantius, *not* on miracles, but on the fulfilment of
-prophecy. <span id="fr_50"></span>[\*](#fn_50) Had this more sensible
+prophecy. <span id="fr_50"></span>[\*](#fn_50.md) Had this more sensible
 position been revived
 
 <span id="page_50">p. 50</span>
@@ -196,7 +196,7 @@ though he does not go thoroughly into the matter, decides that the
 account of Philostratus is purely a "*fabularis narratio*," but is well
 opposed by I. Müller, who contends for a strong element of history as a
 background. But by far the best sifting of the sources is that of
-Jensen. <span id="fr_51"></span>[\*](#fn_51) Priaulx’s study deals
+Jensen. <span id="fr_51"></span>[\*](#fn_51.md) Priaulx’s study deals
 solely with the Indian episode and is of no critical value for the
 estimation of the sources. Of all previous studies, however, the works
 of Chassang and
@@ -223,7 +223,7 @@ dissertation on the first century in general from his own standpoint.
 
 This is all regrettable, for with the exception of Berwick's
 translation, which is almost unprocurable, we have nothing of value in
-English for the general reader, <span id="fr_52"></span>[\*](#fn_52)
+English for the general reader, <span id="fr_52"></span>[\*](#fn_52.md)
 except Sinnett's short
 
 <span id="page_52">p. 52</span>
@@ -239,16 +239,16 @@ his life and work.
 
 ### Footnotes
 
-<span id="fn_34"></span>[42:\*](aot06.htm#fr_34) Philostratus de Vita
+<span id="fn_34"></span>[42:\*](aot06.htm#fr_34.md) Philostratus de Vita
 Apollonii Tyanei Libri Octo, tr. by A. Rinuccinus, and Eusebius contra
 Hieroclem, tr. by Z. Acciolus (Venice; 1501-04, fol.). Rinucci's
 translation was improved by Beroaldus and printed at Lyons (1504 7), and
 again at Cologne, 1534.
 
-<span id="fn_35"></span>[43:\*](aot06.htm#fr_35) F. Baldelli, Filostrato
+<span id="fn_35"></span>[43:\*](aot06.htm#fr_35.md) F. Baldelli, Filostrato
 Lemnio della Vita di Apollonio Tianeo (Florence; 1549, 8vo).
 
-<span id="fn_36"></span>[43:†](aot06.htm#fr_36) B. de Vignère,
+<span id="fn_36"></span>[43:†](aot06.htm#fr_36.md) B. de Vignère,
 Philostrate de la Vie d’Apollonius (Paris; 1596, 1599, 1611). Blaise de
 Vignère's translation was subsequently corrected by Frédéric Morel and
 later by Thomas Artus, Sieur d’Embry, with bombastic notes in which he
@@ -257,13 +257,13 @@ was also made by Th. Sibilet about 1560, but never published; the MS.
 was in the Bibliothèque Imperiale. See Miller, Journal des Savants,
 1849, p. 625, quoted by Chassang, op. infr. cit., p. iv.
 
-<span id="fn_37"></span>[43:‡](aot06.htm#fr_37) F. Morellus, Philostrati
+<span id="fn_37"></span>[43:‡](aot06.htm#fr_37.md) F. Morellus, Philostrati
 Lemnii Opera, Gr. and Lat. (Paris; 1608).
 
-<span id="fn_38"></span>[43:§](aot06.htm#fr_38) G. Olearius,
+<span id="fn_38"></span>[43:§](aot06.htm#fr_38.md) G. Olearius,
 Philostratorum quæ supersunt Omnia, Gr. and Lat. (Leipzig; 1709).
 
-<span id="fn_39"></span>[43:\*\*](aot06.htm#fr_39) C. L. Kayser, Flavii
+<span id="fn_39"></span>[43:\*\*](aot06.htm#fr_39.md) C. L. Kayser, Flavii
 Philostrati quæ supersunt, etc. (Zürich; 1844, 4to). In 1849 A.
 Westermann also edited a text, Philostratorum et Callistrati Opera, in
 Didot's "Scriptorum Græcorum Bibliotheca" (Paris; 1849, 8vo). But Kayser
@@ -271,39 +271,39 @@ brought out a new edition in 1853 (2), and again a third, with
 additional information in the Preface, in the "Bibliotheca Teubneriana"
 (Leipzig; 1870).
 
-<span id="fn_40"></span>[44:\*](aot06.htm#fr_40) For a general summary
+<span id="fn_40"></span>[44:\*](aot06.htm#fr_40.md) For a general summary
 of opinions prior to 1807, of writers who mention Apollonius
 incidentally, see Legrand d’Aussy, op. cit., ii. pp. 313-327.\]
 
-<span id="fn_41"></span>[44:†](aot06.htm#fr_41) L’Histoire d’Apollone de
+<span id="fn_41"></span>[44:†](aot06.htm#fr_41.md) L’Histoire d’Apollone de
 Tyane convaincue de Fausseté et d’Imposture (Paris; 1705).
 
-<span id="fn_42"></span>[44:‡](aot06.htm#fr_42) An Account of the Life
+<span id="fn_42"></span>[44:‡](aot06.htm#fr_42.md) An Account of the Life
 of Apollonius Tyaneus (London; 1702), tr. out of the French, from vol.
 ii. of Lenain de Tillemont's Histoire des Empereurs (2nd ed., Paris;
 1720): to which is added Some Observations upon Apollonius. De
 Tillemont's view is that Apollonius was sent by the Devil to destroy the
 work of the Saviour.
 
-<span id="fn_43"></span>[45:\*](aot06.htm#fr_43) A Critical and
+<span id="fn_43"></span>[45:\*](aot06.htm#fr_43.md) A Critical and
 Historical Discourse upon the Method of the Principal Authors who wrote
 for and against Christianity from its Beginning (London; 1739), tr. from
 the French of M. l’Abbé Houtteville; to which is added a "Dessertation
 on the Life of Apollonius Tyanæus, with some Observations on the
 Platonists of the Latter School," pp. 213-254.
 
-<span id="fn_44"></span>[45:†](aot06.htm#fr_44) Anti-Hierocles oder
+<span id="fn_44"></span>[45:†](aot06.htm#fr_44.md) Anti-Hierocles oder
 Jesus Christus and Apollonius von Tyana in ihrer grossen Ungleichheit,
 dargestellt v. J. B. Lüderwald (Halle; 1793).
 
-<span id="fn_45"></span>[45:‡](aot06.htm#fr_45) Phileleutherus
+<span id="fn_45"></span>[45:‡](aot06.htm#fr_45.md) Phileleutherus
 Helvetius, De Miraculis quæ Pythagoræ, Apollonio Tyanensi, Francisco
 Asisio, Dominico, et Ignatio Lojolæ tribuuntur Libellus (Draci; 1734).
 
-<span id="fn_46"></span>[45:§](aot06.htm#fr_46) See Legrand d’Aussy, op.
+<span id="fn_46"></span>[45:§](aot06.htm#fr_46.md) See Legrand d’Aussy, op.
 cit., ii. p. 314, where the texts are given.
 
-<span id="fn_47"></span>[45:\*\*](aot06.htm#fr_47) The Two First Books
+<span id="fn_47"></span>[45:\*\*](aot06.htm#fr_47.md) The Two First Books
 of Philostratus concerning the Life of Apollonius Tyaneus (London; 1680,
 fol.). Blount's notes (generally ascribed to Lord Herbert) raised such
 an outcry that the book was condemned in 1693, and few <span
@@ -315,31 +315,31 @@ donnés en Anglois par Charles Blount sur les deux Premiers Livres de cet
 Ouvrage (Amsterdam; 1779, 4 vols., 8vo), with an ironical dedication to
 Pope Clement XIV., signed "Philalethes."
 
-<span id="fn_48"></span>[46:\*](aot06.htm#fr_48) Philosophiam Practicam
+<span id="fn_48"></span>[46:\*](aot06.htm#fr_48.md) Philosophiam Practicam
 Apollonii Tyanæi in Sciagraphia, exponit M. Io. Christianus Herzog
 (Leipzig; 1709); an academical oration of 20 pp.
 
-<span id="fn_49"></span>[47:\*](aot06.htm#fr_49) Philostratus is a
+<span id="fn_49"></span>[47:\*](aot06.htm#fr_49.md) Philostratus is a
 difficult author to translate, nevertheless Chassang and Baltzer have
 succeeded very well with him; Berwick also is readable, but in most
 places gives us a paraphrase rather than a translation and frequently
 mistakes the meaning. Chassang's and Baltzer's are by far the best
 translations.
 
-<span id="fn_50"></span>[49:\*](aot06.htm#fr_50) This would have at
+<span id="fn_50"></span>[49:\*](aot06.htm#fr_50.md) This would have at
 least restored Apollonius to his natural environment, and confined the
 question of the divinity of Jesus to its proper Judæo-Christian ground.
 
-<span id="fn_51"></span>[50:\*](aot06.htm#fr_51) I am unable to offer
+<span id="fn_51"></span>[50:\*](aot06.htm#fr_51.md) I am unable to offer
 any opinion on Nielsen's book, from ignorance of Danish, but it has all
 the appearance of a careful, scholarly treatise with abundance of
 references.
 
-<span id="fn_52"></span>[51:\*](aot06.htm#fr_52) Réville's Pagan Christ
+<span id="fn_52"></span>[51:\*](aot06.htm#fr_52.md) Réville's Pagan Christ
 is quite a misrepresentation of the subject, and Newman's treatment of
 the matter renders his treatise an anachronism for the twentieth
 century.
 
 ------------------------------------------------------------------------
 
-[Next: Section VI. The Biographer of Apollonius](aot07)
+[Next: Section VI. The Biographer of Apollonius](aot07.md)

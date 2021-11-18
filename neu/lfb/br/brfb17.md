@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb16)  [Next](brfb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb16)  [Next](brfb18.md) 
 
 </div>
 
@@ -427,6 +427,6 @@ princess.
 
 ------------------------------------------------------------------------
 
-[Next: Pivi and Kabo](brfb18)
+[Next: Pivi and Kabo](brfb18.md)
 
 </div>

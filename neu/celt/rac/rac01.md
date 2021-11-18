@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](rac00)  [Next](rac02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](rac00)  [Next](rac02.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ interpretations, his Hibbert Lectures must remain as a source of
 inspiration to all Celtic students. More recently the studies of M.
 Salomon Reinach and of M. Dottin, and the valuable little book on
 *Celtic Religion*, by Professor Anwyl, have broken fresh ground. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 In this book I have made use of all the available sources, and have
 endeavoured to study the subject from the comparative point of view and
@@ -85,9 +85,9 @@ THE RECTORY,
 
 ### Footnotes
 
-<span id="fn_0"></span>[viii:1](rac01.htm#fr_0) See also my article
+<span id="fn_0"></span>[viii:1](rac01.htm#fr_0.md) See also my article
 'Celts' in Hastings' *Encyclopedia of Religion and Ethics*, vol. iii.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](rac02)
+[Next: Contents](rac02.md)

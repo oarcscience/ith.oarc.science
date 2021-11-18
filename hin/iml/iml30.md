@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml29)  [Next](iml31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml29)  [Next](iml31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -238,7 +238,7 @@ sandals of Rama were the symbol of royal authority.
 Meanwhile Rama with Sita and Lakshmana went southward towards deeper
 jungles, visiting various holy sages, and having crossed the Vindhya
 mountains, they wandered together in the Deccan and Southern India. At
-Panchavati <span id="fr_340"></span>[1](#fn_339), nigh to the sources of
+Panchavati <span id="fr_340"></span>[1](#fn_339.md), nigh to the sources of
 the river Godavari, the royal exiles built a hut with four rooms, and
 lived peaceful and pious lives. Thirteen years and a half went over
 their heads.
@@ -259,7 +259,7 @@ thou who hast
 
 [![RAMA SPURNS THE DEMON LOVER&lt;br&gt; &lt;i&gt;From the painting by
 Warwick Goble&lt;/i&gt;.](tn/40000.jpg)  
-Click to enlarge](img/40000.jpg)  
+Click to enlarge](img/40000.jpg.md)  
 RAMA SPURNS THE DEMON LOVER  
 *From the painting by Warwick Goble*.  
 
@@ -421,7 +421,7 @@ lonely and sad-hearted Sita. The jungle had grown silent. Ravana saw
 that Sita was beautiful as the solitary moon at midnight when it
 illumines the gloomy forest. He spake, saying: "O woman of golden
 beauty, O shy one in full bloom, robed in silk and adorned with flowers,
-art thou Sri, or Gauri, <span id="fr_341"></span>[1](#fn_340) or the
+art thou Sri, or Gauri, <span id="fr_341"></span>[1](#fn_340.md) or the
 goddess of love, or a nymph of the forest? Red as coral are thy lips;
 thy teeth shine like to jasmine; love dwelleth in thine eyes so soft and
 lustrous. Slender art thou and tall, with shapely limbs, and a bosom
@@ -466,7 +466,7 @@ placed her in his chariot and went away swifter than the wind.
 
 The unseen spirits of the jungle looked on, and they heard the cries of
 Sita as she called in vain for Rama and Lakshmana. Jatayus <span
-id="fr_342"></span>[1](#fn_341), Monarch of Vultures, who lay asleep on
+id="fr_342"></span>[1](#fn_341.md), Monarch of Vultures, who lay asleep on
 a mountain top, heard her and awoke; he darted upon Ravana like to the
 thunderbolt of Indra. A fierce battle was fought in mid air. Jatayus
 destroyed the chariot and killed the Rakshasa asses, but Ravana
@@ -493,14 +493,14 @@ whither he knew not.
 
 ### Footnotes
 
-<span id="fn_339"></span>[400:1](iml30.htm#fr_340) Nasik. About too
+<span id="fn_339"></span>[400:1](iml30.htm#fr_340.md) Nasik. About too
 miles from Bombay.
 
-<span id="fn_340"></span>[405:1](iml30.htm#fr_341) Names of the wives of
+<span id="fn_340"></span>[405:1](iml30.htm#fr_341.md) Names of the wives of
 Vishnu and Shiva.
 
-<span id="fn_341"></span>[406:1](iml30.htm#fr_342) *Pron*. Jata´yus.
+<span id="fn_341"></span>[406:1](iml30.htm#fr_342.md) *Pron*. Jata´yus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI. Rama's Mission Fulfilled](iml31)
+[Next: Chapter XXVI. Rama's Mission Fulfilled](iml31.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal022)  [Next](njal024) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal022)  [Next](njal024.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: 24. Gunnar And Hrut Strive At The Thing.](njal024)
+[Next: 24. Gunnar And Hrut Strive At The Thing.](njal024.md)

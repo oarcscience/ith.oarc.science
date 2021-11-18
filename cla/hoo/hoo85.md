@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo84)  [Next](hoo86) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo84)  [Next](hoo86.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Zephyrs unseen, light-wing'd, and form'd from air.
 
 ------------------------------------------------------------------------
 
-[Next: LXXXI: To the South Wind](hoo86)
+[Next: LXXXI: To the South Wind](hoo86.md)

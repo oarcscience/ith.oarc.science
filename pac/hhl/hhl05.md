@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl04)  [Next](hhl06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl04)  [Next](hhl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ habitable for man.
 
 ------------------------------------------------------------------------
 
-[Next: II. Maui Seeking Immortality](hhl06)
+[Next: II. Maui Seeking Immortality](hhl06.md)

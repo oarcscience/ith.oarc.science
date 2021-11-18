@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao06)   
-[Previous](tao05)  [Next](tao07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao06.md)   
+[Previous](tao05)  [Next](tao07.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ to the effort with *wu-wei* of mind and sensitive expectancy.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](tao07)
+[Next: Chapter 7](tao07.md)

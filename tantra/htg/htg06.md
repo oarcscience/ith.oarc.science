@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htg05)  [Next](htg07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htg05)  [Next](htg07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Bhairavī (Bhairavīstotra) from the Tantrasāra](htg07)
+[Next: Bhairavī (Bhairavīstotra) from the Tantrasāra](htg07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb42)  [Next](ptb44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb42)  [Next](ptb44.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ applies to the general qualities pervading the several quarters of the
 year, and has therefore the most extended scope. In order to learn these
 qualities, it is necessary, in every quarter, to observe, as above
 directed, the new or full Moon which may happen before <span
-id="fr_114"></span>[1](#fn_114) the period of the Sun's transit through
+id="fr_114"></span>[1](#fn_114.md) the period of the Sun's transit through
 
 <span id="page_67">p. 67</span>
 
@@ -41,7 +41,7 @@ succeeding sign, until the commencement of the next quarter, are to be
 observed; but, if a full Moon should have so happened, then similar
 observation is to be made of each subsequent full Moon. The angles,
 also, must be duly attended to, as well as the planets and stars ruling
-in both the places <span id="fr_115"></span>[1](#fn_115); and especially
+in both the places <span id="fr_115"></span>[1](#fn_115.md); and especially
 the nearest phases, applications, and separations of the planets, and
 their properties. The peculiar qualities of the two places, and the
 winds, liable to be excited by the planets themselves and by those parts
@@ -95,16 +95,16 @@ towards the production of the particular effects.
 
 ### Footnotes
 
-<span id="fn_114"></span>[66:1](ptb43.htm#fr_114) "*Before*." Although I
+<span id="fn_114"></span>[66:1](ptb43.htm#fr_114.md) "*Before*." Although I
 have thus Englished the word, προ, I think it properly requires to
-[be](errata.htm#8) here rendered, by "*at*" or "*near to*," rather than
+[be](errata.htm#8.md) here rendered, by "*at*" or "*near to*," rather than
 "*before*." Firstly, because my author (in speaking of the commencement
 of each quarter of the year, in the 11th Chapter, [p.
-93](ptb58.htm#page_93)), has expressly stated that "the spring is to be
+93](ptb58.htm#page_93).md), has expressly stated that "the spring is to be
 dated from the new or full Moon taking place when the Sun is *nearest*
 (εγγισα) to the first point of Aries; the summer from that, when he is
 nearest the first point of Cancer," &c., &c.; and (in [p.
-94](ptb58.htm#page_94)) he states that certain general effects are
+94](ptb58.htm#page_94).md) he states that certain general effects are
 brought about by the new or full Moon occurring *at* (κατα) the
 aforesaid points." Secondly, because, in a few lines further on, in
 speaking of the monthly consideration, p. 98, he again uses only εγγισα,
@@ -137,10 +137,10 @@ so great a distance before the important ingress, would have a greater
 influence over the ensuing quarter of the year, than a *subsequent*
 lunation taking place so closely after the said ingress.
 
-<span id="fn_115"></span>[67:1](ptb43.htm#fr_115) "*Both the places*."
+<span id="fn_115"></span>[67:1](ptb43.htm#fr_115.md) "*Both the places*."
 These are the places of the new or full Moon, and of the following
 angle; as before mentioned with regard to the quarterly consideration.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. The Signification of Meteors](ptb44)
+[Next: Chapter XIV. The Signification of Meteors](ptb44.md)

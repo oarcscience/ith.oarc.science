@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo05)  [Next](aoo07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo05)  [Next](aoo07.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ youths listening to the song that Phemius the minstrel sang.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](aoo07)
+[Next: Chapter VII](aoo07.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](sou03)  [Next](sou05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](sou03)  [Next](sou05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ was in the midst of a similar period of disorder and violence that Sir
 Thomas More laid the foundations for his imaginary commonwealth: Utopia
 was the bridge by which he sought to span the gap between the old order
 of the Middle Age, and the new interests and institutions of the
-[Renaissance](errata.htm#0).
+[Renaissance](errata.htm#0.md).
 
 In presenting this history and criticism of utopias we are perhaps being
 pulled by the same interests that led Plato and More onwards, for it is
@@ -497,4 +497,4 @@ anchor again until we reach the coasts of Utopia.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two](sou05)
+[Next: Chapter Two](sou05.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff56)  [Next](fff58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff56)  [Next](fff58.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -364,12 +364,12 @@ Museum codex, is almost undoubtedly from the stylus of Bardaisan.
 Nöldeke and Macke were the first scholars to call attention to the fact.
 (See Lipsius’ *Die apokryphen Apostelgeschichten*, i. 299, *sqq*.,
 1885). It is a beautiful legend of initiation, and was first translated
-by Wright ([*Apocryphal*](errata.htm#37) *Acts of the Apostles*, ii.
+by Wright ([*Apocryphal*](errata.htm#37.md) *Acts of the Apostles*, ii.
 238-245; 1871); it has now quite recently (1898) been retranslated by
 Bevan, using Wright's version as a basis. Since the time of Wright so
 much work has been done on this "master-piece of religious poetry," as
 the Cambridge Reader in Arabic justly calls it, that the translation of
-the pupil is to be [preferred](errata.htm#38) to that of the teacher,
+the pupil is to be [preferred](errata.htm#38.md) to that of the teacher,
 and Professor Bevan's work must now be considered not only to have
 superseded Wright's, but to be the best on the subject.
 
@@ -400,7 +400,7 @@ Since Bardaisan, like all the great Gnostics, believed in reincarnation,
 such a conception as the resurrection of the same physical body must
 have been regarded by him as a gross superstition of the ignorant. Such
 a "proof" of identity of doctrine as is here brought
-[forward](errata.htm#39) could hardly occur to one who has realised the
+[forward](errata.htm#39.md) could hardly occur to one who has realised the
 meaning of the doctrine of rebirth.
 
 "The true clothing of the soul, according to the poet, is the ideal form
@@ -433,4 +433,4 @@ venture to call:
 
 ------------------------------------------------------------------------
 
-[Next: The Hymn of the Robe of Glory](fff58)
+[Next: The Hymn of the Robe of Glory](fff58.md)

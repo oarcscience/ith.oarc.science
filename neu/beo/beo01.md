@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo00)  [Next](beo02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo00)  [Next](beo02.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ followers.  
 
 ------------------------------------------------------------------------
 
-[Next: Part I](beo02)
+[Next: Part I](beo02.md)

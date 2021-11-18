@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb23)  [Next](boeb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb23)  [Next](boeb25.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_15400"></span> ![](img/15400.jpg)
 
 <span id="img_15401"></span> [![](tn/15401.jpg)  
-Click to enlarge](img/15401.jpg)
+Click to enlarge](img/15401.jpg.md)
 
 # The Battle of Otterburn
 
@@ -357,7 +357,7 @@ Of four and forty thousand Scots,
  
 
 <span id="img_16700"></span> [![](tn/16700.jpg)  
-Click to enlarge](img/16700.jpg)
+Click to enlarge](img/16700.jpg.md)
 
  
 
@@ -407,4 +407,4 @@ To bring his soul to the bliss of heaven,
 
 ------------------------------------------------------------------------
 
-[Next: The Lament of the Border Widow](boeb25)
+[Next: The Lament of the Border Widow](boeb25.md)

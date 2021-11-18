@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal135)  [Next](njal137) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal135)  [Next](njal137.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ such a crowded Thing before, that men could call to mind.
 
 ------------------------------------------------------------------------
 
-[Next: 137. Of Eyjolf Bolverk's Son](njal137)
+[Next: 137. Of Eyjolf Bolverk's Son](njal137.md)

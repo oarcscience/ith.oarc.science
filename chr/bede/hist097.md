@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist096) 
-[Next](hist098) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist096.md) 
+[Next](hist098.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ whose doctrine he had learned to hope for heavenly things.
 ------------------------------------------------------------------------
 
 [Next: XII. How Haedde succeeded Leutherius in the bishopric of the West
-Saxons; how Cuichelm](hist098)
+Saxons; how Cuichelm](hist098.md)

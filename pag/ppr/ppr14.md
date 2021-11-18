@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr13)  [Next](ppr15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr13)  [Next](ppr15.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ not be driven away from the presence of the great company of the gods!
 
 ------------------------------------------------------------------------
 
-[Next: A Prayer for Preservation of the Heart (Egyptian)](ppr15)
+[Next: A Prayer for Preservation of the Heart (Egyptian)](ppr15.md)

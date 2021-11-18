@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](freher)  [Next](harcanum) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](freher)  [Next](harcanum.md) 
 
 ------------------------------------------------------------------------
 
@@ -428,6 +428,6 @@ Suggestive Inquiry into the Hermetic Mystery," (London, 1850.) \]
 
 ------------------------------------------------------------------------
 
-[Next: The Hermetic Arcanum](harcanum)
+[Next: The Hermetic Arcanum](harcanum.md)
 
   

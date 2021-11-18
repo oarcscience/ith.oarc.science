@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](mtar01) 
-[Next](mtar03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](mtar01.md) 
+[Next](mtar03.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,4 +193,4 @@ Reversed.
 
 ------------------------------------------------------------------------
 
-[Next: Meanings of the Cards](mtar03)
+[Next: Meanings of the Cards](mtar03.md)

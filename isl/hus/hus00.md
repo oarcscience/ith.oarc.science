@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Shiite
-Documents](../shi)  [Index](index)  [Next](hus01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Shiite
+Documents](../shi)  [Index](index)  [Next](hus01.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ Kuwait
 
 ------------------------------------------------------------------------
 
-[Next: A Biography of \`Abdul-Zahrá' Al-Ka\`bee (MMAUH)](hus01)
+[Next: A Biography of \`Abdul-Zahrá' Al-Ka\`bee (MMAUH)](hus01.md)

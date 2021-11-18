@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft01)  [Next](meft03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft01)  [Next](meft03.md) 
 
 ------------------------------------------------------------------------
 
 # The Pied Piper
 
 <span id="img_001"></span> [![](tn/001.jpg)  
-Click to enlarge](img/001.jpg)
+Click to enlarge](img/001.jpg.md)
 
 NEWTOWN, or Franchville, as 'twas called of old, is a sleepy little
 town, as you all may know, upon the Solent shore. Sleepy as it is now,
@@ -129,4 +129,4 @@ amongst the ancient oaks of the forest.
 
 ------------------------------------------------------------------------
 
-[Next: Hereafterthis](meft03)
+[Next: Hereafterthis](meft03.md)

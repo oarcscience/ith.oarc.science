@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp45)  [Next](dmp47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp45)  [Next](dmp47.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ know with any woman.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XV](dmp47)
+[Next: Verso Col. XV](dmp47.md)

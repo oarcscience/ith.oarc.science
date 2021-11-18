@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac59)  [Next](ybac61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac59)  [Next](ybac61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Gates, \[1937\], at Intangible Textual Heritage
 <span id="img_12000"></span>
 
 [![](tn/12000.jpg)  
-Click to enlarge](img/12000.jpg)
+Click to enlarge](img/12000.jpg.md)
 
 <span id="page_121">p. 121</span>
 
@@ -243,7 +243,7 @@ family heads for over 300 years, from at least 1608 down to Bernabe, was
 still intact in his possession a couple of years before his death, when
 (as stated in a letter from Sylvanus Morley to me in 1920) it "was
 stolen, bought or received from Bernabe Xiu." <span
-id="fr_48"></span>[\*](#fn_48)
+id="fr_48"></span>[\*](#fn_48.md)
 
 The final links were then made when given to me on a visit to Oxkutzcab
 in the autumn of 1917, by old Doña Felipa, daughter of Bernabe and
@@ -625,7 +625,7 @@ Dated in Mérida this 12th of September, 1665.
 
 ### Footnotes
 
-<span id="fn_48"></span>[125:\*](ybac60.htm#fr_48) In confirmation of
+<span id="fn_48"></span>[125:\*](ybac60.htm#fr_48.md) In confirmation of
 this I can add the following, from my own visit of 1917. Having already,
 as stated above, made a full photographic copy of the Xiu volume, and
 later translating it, I spoke of this to Doña Felipa and others of the
@@ -646,4 +646,4 @@ Mérida?
 
 ------------------------------------------------------------------------
 
-[Next: The Map, and the Meeting at Maní](ybac61)
+[Next: The Map, and the Meeting at Maní](ybac61.md)

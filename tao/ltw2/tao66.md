@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao66)   
-[Previous](tao65)  [Next](tao67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao66.md)   
+[Previous](tao65)  [Next](tao67.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ does not seek to rival others, others have no desire to rival him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 67](tao67)
+[Next: Chapter 67](tao67.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](seil00)    [Text
-\[Zipped\]](seil.txt.gz)
+[Contents](#contents)    [Start Reading](seil00.md)    [Text
+\[Zipped\]](seil.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,121 +45,121 @@ Increasingly, lay people and even non-Catholics follow this path.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](seil00)  
-[Approbation of the Latin Texts](seil01)  
-[Preface](seil02)  
-[General Note](seil03)  
-[Prayer of Father Diertins](seil04)  
-[Annotations](seil05)  
-[Presupposition](seil06)  
+<span id="contents"></span> [Title Page](seil00.md)  
+[Approbation of the Latin Texts](seil01.md)  
+[Preface](seil02.md)  
+[General Note](seil03.md)  
+[Prayer of Father Diertins](seil04.md)  
+[Annotations](seil05.md)  
+[Presupposition](seil06.md)  
 <span id="section_000"></span>
 
 ### First Week
 
-[Principle and Foundation](seil07)  
-[Particular and Daily Examen](seil08)  
-[General Examen of Conscience](seil09)  
-[General Confession with Communion](seil10)  
+[Principle and Foundation](seil07.md)  
+[Particular and Daily Examen](seil08.md)  
+[General Examen of Conscience](seil09.md)  
+[General Confession with Communion](seil10.md)  
 [First Exercise: A Meditation on the First, Second, and Third
-Sin](seil11)  
-[Second Exercise: Meditation on Sins](seil12)  
-[Third Exercise: First Repetition](seil13)  
-[Fourth Exercise: Second Repetition](seil14)  
-[Fifth Exercise: Meditation on Hell](seil15)  
+Sin](seil11.md)  
+[Second Exercise: Meditation on Sins](seil12.md)  
+[Third Exercise: First Repetition](seil13.md)  
+[Fourth Exercise: Second Repetition](seil14.md)  
+[Fifth Exercise: Meditation on Hell](seil15.md)  
 <span id="section_001"></span>
 
 ### Second Week
 
-[The Call of the Temporal King](seil16)  
-[First Day: First Contemplation on The Incarnation](seil17)  
-[Second Contemplation: On the Nativity](seil18)  
-[Second Day](seil19)  
-[Third Day](seil20)  
-[Preamble to Consider States](seil21)  
-[Fourth Day: Meditation on Two Standards](seil22)  
-[Three Pairs of Men](seil23)  
-[Fifth Day](seil24)  
-[Sixth -- Tenth Day](seil25)  
-[Eleventh to Twelfth Day](seil26)  
-[Prelude for Making Election](seil27)  
-[Matter for Election](seil28)  
-[Times for Making Election](seil29)  
-[To Amend and Reform One's Own Life](seil30)  
+[The Call of the Temporal King](seil16.md)  
+[First Day: First Contemplation on The Incarnation](seil17.md)  
+[Second Contemplation: On the Nativity](seil18.md)  
+[Second Day](seil19.md)  
+[Third Day](seil20.md)  
+[Preamble to Consider States](seil21.md)  
+[Fourth Day: Meditation on Two Standards](seil22.md)  
+[Three Pairs of Men](seil23.md)  
+[Fifth Day](seil24.md)  
+[Sixth -- Tenth Day](seil25.md)  
+[Eleventh to Twelfth Day](seil26.md)  
+[Prelude for Making Election](seil27.md)  
+[Matter for Election](seil28.md)  
+[Times for Making Election](seil29.md)  
+[To Amend and Reform One's Own Life](seil30.md)  
 <span id="section_002"></span>
 
 ### Third Week
 
-[First Contemplation](seil31)  
-[Second Contemplation](seil32)  
-[Eating](seil33)  
+[First Contemplation](seil31.md)  
+[Second Contemplation](seil32.md)  
+[Eating](seil33.md)  
 <span id="section_003"></span>
 
 ### Fourth Week
 
-[First Contemplation](seil34)  
+[First Contemplation](seil34.md)  
 
  
 
-[Contemplation to Gain Love](seil35)  
+[Contemplation to Gain Love](seil35.md)  
 <span id="section_004"></span>
 
 ### Three Methods of Prayer
 
-[First Method of Prayer](seil36)  
-[Second Method of Prayer](seil37)  
-[Third Method of Prayer](seil38)  
+[First Method of Prayer](seil36.md)  
+[Second Method of Prayer](seil37.md)  
+[Third Method of Prayer](seil38.md)  
 <span id="section_005"></span>
 
 ### The Mysteries of the Life of Christ Our Lord
 
-[The Annunciation of Our Lady](seil39)  
-[The Visitation of Our Lady to Elizabeth](seil40)  
-[The Birth of Christ Our Lord](seil41)  
-[The Shepherds](seil42)  
-[The Circumcision](seil43)  
-[The Three Magi Kings](seil44)  
+[The Annunciation of Our Lady](seil39.md)  
+[The Visitation of Our Lady to Elizabeth](seil40.md)  
+[The Birth of Christ Our Lord](seil41.md)  
+[The Shepherds](seil42.md)  
+[The Circumcision](seil43.md)  
+[The Three Magi Kings](seil44.md)  
 [The Purification of Our Lady and Presentation of the Child
-Jesus](seil45)  
-[The Flight to Egypt](seil46)  
-[How Christ Our Lord Returned from Egypt](seil47)  
-[The Life of Christ Our Lord From Twelve to Thirty Years](seil48)  
-[The Coming of Christ to the Temple](seil49)  
-[How Christ Was Baptized](seil50)  
-[How Christ Was Tempted](seil51)  
-[The Call of the Apostles](seil52)  
-[The First Miracle](seil53)  
-[How Christ Cast Out of the Temple Those who were Selling](seil54)  
-[The Sermon on the Mount](seil55)  
-[The Calming of the Sea](seil56)  
-[How Christ Walked on the Sea](seil57)  
-[How the Apostles were Sent to Preach](seil58)  
-[The Conversion of Magdalen](seil59)  
-[The Feeding of Five Thousand](seil60)  
-[The Transfiguration of Christ](seil61)  
-[The Resurrection of Lazarus](seil62)  
-[The Supper at Bethany](seil63)  
-[Palm Sunday](seil64)  
-[The Preaching in the Temple](seil65)  
-[The Supper](seil66)  
-[Mysteries Done from the Supper to the Garden](seil67)  
-[Mysteries Done from the Garden to the House of Annas](seil68)  
+Jesus](seil45.md)  
+[The Flight to Egypt](seil46.md)  
+[How Christ Our Lord Returned from Egypt](seil47.md)  
+[The Life of Christ Our Lord From Twelve to Thirty Years](seil48.md)  
+[The Coming of Christ to the Temple](seil49.md)  
+[How Christ Was Baptized](seil50.md)  
+[How Christ Was Tempted](seil51.md)  
+[The Call of the Apostles](seil52.md)  
+[The First Miracle](seil53.md)  
+[How Christ Cast Out of the Temple Those who were Selling](seil54.md)  
+[The Sermon on the Mount](seil55.md)  
+[The Calming of the Sea](seil56.md)  
+[How Christ Walked on the Sea](seil57.md)  
+[How the Apostles were Sent to Preach](seil58.md)  
+[The Conversion of Magdalen](seil59.md)  
+[The Feeding of Five Thousand](seil60.md)  
+[The Transfiguration of Christ](seil61.md)  
+[The Resurrection of Lazarus](seil62.md)  
+[The Supper at Bethany](seil63.md)  
+[Palm Sunday](seil64.md)  
+[The Preaching in the Temple](seil65.md)  
+[The Supper](seil66.md)  
+[Mysteries Done from the Supper to the Garden](seil67.md)  
+[Mysteries Done from the Garden to the House of Annas](seil68.md)  
 [Mysteries Done from the House of Annas to the House of
-Caiphas](seil69)  
-[Mysteries Done from the House of Caiphas to that of Pilate](seil70)  
-[Mysteries Done from the House of Pilate to that of Herod](seil71)  
-[Mysteries Done from the House of Herod to that of Pilate](seil72)  
-[Mysteries Done from the House of Pilate to the Cross](seil73)  
-[The Mysteries on the Cross](seil74)  
-[Mysteries from the Cross to the Sepulchre](seil75)  
-[The Apparitions of Christ](seil76)  
-[The Ascension](seil77)  
+Caiphas](seil69.md)  
+[Mysteries Done from the House of Caiphas to that of Pilate](seil70.md)  
+[Mysteries Done from the House of Pilate to that of Herod](seil71.md)  
+[Mysteries Done from the House of Herod to that of Pilate](seil72.md)  
+[Mysteries Done from the House of Pilate to the Cross](seil73.md)  
+[The Mysteries on the Cross](seil74.md)  
+[Mysteries from the Cross to the Sepulchre](seil75.md)  
+[The Apparitions of Christ](seil76.md)  
+[The Ascension](seil77.md)  
 <span id="section_006"></span>
 
 ### Rules
 
-[Rules for Perceiving the Movements Cause in the Soul](seil78)  
-[Rules for the Discernment of Spirits](seil79)  
-[Rules for Distributing Alms](seil80)  
-[Notes on the Scruples and Persuasions of our Enemy](seil81)  
-[Rules to have the True Seniment in the Church](seil82)  
-[Footnotes](seil83)  
+[Rules for Perceiving the Movements Cause in the Soul](seil78.md)  
+[Rules for the Discernment of Spirits](seil79.md)  
+[Rules for Distributing Alms](seil80.md)  
+[Notes on the Scruples and Persuasions of our Enemy](seil81.md)  
+[Rules to have the True Seniment in the Church](seil82.md)  
+[Footnotes](seil83.md)  

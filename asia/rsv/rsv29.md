@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv28)  [Next](rsv30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv28)  [Next](rsv30.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ speeding truck. It might miss you, but the angered "spirits" would not!
 ------------------------------------------------------------------------
 
 [Next: Use of Votive Paper as an Act of Worship in Vietnamese
-Temples](rsv30)
+Temples](rsv30.md)

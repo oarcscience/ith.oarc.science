@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj25)  [Next](chj27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj25)  [Next](chj27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -69,7 +69,7 @@ master until such time as he is ready to take upon himself the Vows of
 the Order.
 
 Nichiren took his life seriously. One of his first acts after entering
-the Kiyozumi Temple <span id="fr_394"></span>[1](#fn_392) as a student
+the Kiyozumi Temple <span id="fr_394"></span>[1](#fn_392.md) as a student
 was
 
 <span id="page_289">p. 289</span>
@@ -93,7 +93,7 @@ Those who know the precociousness of youthful Japanese will not be
 surprised at Nichiren's forming this plan before he was twenty years of
 age. The idea seems to have been suggested to him by the reading of that
 very remarkable book, the "Saddharmapundarika Sutra." <span
-id="fr_395"></span>[1](#fn_393)
+id="fr_395"></span>[1](#fn_393.md)
 
 <span id="page_290">p. 290</span>
 
@@ -126,7 +126,7 @@ Hieizan. To these he
 had added the more recent foundations of the Jōdo and Zen, having
 pursued his studies at Kamakura and Kyōtō, at Hieizan and Onjōji, at
 Kōbo's great shrine on Kōyasan, and Shōtoku's temple of Tennōji at
-Osaka. <span id="fr_396"></span>[1](#fn_394) At the conclusion of his
+Osaka. <span id="fr_396"></span>[1](#fn_394.md) At the conclusion of his
 studies he had some very bitter things to say about the older sects into
 which Buddhism, "which should be one," had crumbled.
 
@@ -165,7 +165,7 @@ dangerous disease.
 and look around you. No man is born with two fathers or two mothers.
 Look at the heavens above you: there are no two suns in the sky. Look at
 the earth at your feet: no two kings can rule a country." <span
-id="fr_397"></span>[1](#fn_395)
+id="fr_397"></span>[1](#fn_395.md)
 
 And yet that was precisely what Japan was trying to do. Politically, she
 was giving her allegiance to Emperor, Shōgun, Regent; spiritually, to
@@ -182,7 +182,7 @@ homage rested on no sound rock of Buddhist doctrine.
 He therefore constantly condemned the already existing sects of
 Buddhism. He denounced them in his first sermon; he continued his
 denunciations to the very end. *Nembutsu wa mugen no gō*. <span
-id="fr_398"></span>[1](#fn_396) The Nembutsu was consistently deprecated
+id="fr_398"></span>[1](#fn_396.md) The Nembutsu was consistently deprecated
 as a practice which leads men to the lowest of the hells. Nichiren never
 treated Amida as being in any sense a Buddhist divinity. He looked on
 him, in the garb which the Shinshu made him wear, as an unauthorized
@@ -198,7 +198,7 @@ the man whose house, "empty, swept, and garnished," stood open for the
 return of a company of evil spirits larger than the one that had been
 cast out. The Zen house was just in that position. Bodhidharma had cast
 out of his Buddhism all the superstitious books and doctrines with which
-the miracle-mongering [Mahāyānism](errata.htm#10) of Central Asia and
+the miracle-mongering [Mahāyānism](errata.htm#10.md) of Central Asia and
 China had overlaid the original simplicity of S’akyamuni's teaching. He
 had put nothing in its place, and had bidden his followers look within
 to see what form they should see, and to listen for what voice they
@@ -249,7 +249,7 @@ of Japan" (*Nihon no dai mōgo*).
 As for the images of Amida, Kwannon, and the rest; he was charged with
 recommending that they should be cast into the fire or the sea. They
 had, in his judgment; wrought enough mischief in Japan. <span
-id="fr_399"></span>[1](#fn_397)
+id="fr_399"></span>[1](#fn_397.md)
 
 Nichiren first enunciated these views in a sermon preached in the
 neighbourhood of his native village; which he visited again at the end
@@ -297,7 +297,7 @@ where, after an eventful trial which his followers to-day read with
 something of the reverence with which we listen to the recital of the
 familiar story of our Lord's Passion, he was condemned to death, and led
 out for execution on the sands of Tatsu no Kuchi, <span
-id="fr_400"></span>[1](#fn_398) halfway between Kamakura and Enoshima.
+id="fr_400"></span>[1](#fn_398.md) halfway between Kamakura and Enoshima.
 
 But the Regent must have felt that Nichiren was in the right. His
 conscience troubled him after he had passed the sentence of death, and
@@ -324,7 +324,7 @@ conclusions as to time, etc., through
 <span id="page_298">p. 298</span>
 
 <span class="contnote">\[paragraph continues\]</span> "discerning the
-face of the heavens." <span id="fr_401"></span>[1](#fn_399) He now bore
+face of the heavens." <span id="fr_401"></span>[1](#fn_399.md) He now bore
 a charmed life, and was quite secure in the affection of his followers.
 His later years were devoted to Minobu and Ikegami, the two monasteries
 especially connected with the memories of his personality, and at the
@@ -353,7 +353,7 @@ the insult which had thus been offered to the lawful Lord of Buddhism.
 
 <span id="page_299">p. 299</span>
 
-in one of his voluminous writings, <span id="fr_402"></span>[1](#fn_400)
+in one of his voluminous writings, <span id="fr_402"></span>[1](#fn_400.md)
 "is the lord of this Saba-world, for three reasons—firstly, because he
 is the World-honoured One for all sentient Beings; secondly, because he
 is both Father and Mother of all sentient Beings in this Saba-world; and
@@ -365,13 +365,13 @@ Light of the World, had always been so, would always remain so. Whatever
 teaching there was in the world, whatever hope there was for man of
 ultimate perfection, all came to him from S’akyamuni, whose mercies were
 over all the world, but more especially over the fortunate inhabitants
-of the *ichi-embudai* <span id="fr_403"></span>[2](#fn_401)—India,
+of the *ichi-embudai* <span id="fr_403"></span>[2](#fn_401.md)—India,
 China, and Japan—which had embraced his Faith.
 
 S’akyamuni's teachings are summed up, said Nichiren (following herein
 the teachings of the Japanese Tendai), in the Hokekyō or
 Saddharmapundarika Sūtra, spoken on the Vulture's Peak during the last
-few years of his earthly life. <span id="fr_404"></span>[3](#fn_402) But
+few years of his earthly life. <span id="fr_404"></span>[3](#fn_402.md) But
 this Sūtra he interpreted in a new manner, with great ingenuity.
 
 <span id="page_300">p. 300</span>
@@ -403,14 +403,14 @@ under Kaniskha. At the
 
 close of that period there comes the "great rain of divine flowers," and
 the ray of light travels from S’akyamuni eastward. The first
-"Millennium," <span id="fr_405"></span>[1](#fn_403) the period of the
+"Millennium," <span id="fr_405"></span>[1](#fn_403.md) the period of the
 Upright Law (*Sho Hō*), was over, the activities of As’vaghosha and
 Nāgārjuna represent a kind of Pentecostal shower of Buddhist revival,
 and Buddhism travels to China. When the Lord awakes from his trance, he
 explains the meaning of the shower and ray. The wheel of the Law is to
 receive a fresh turn, a higher form of Buddhism is to be preached, and
 the idea of the twofold Vehicle of Salvation is enforced by many
-parables. <span id="fr_406"></span>[2](#fn_404) The early Apostles of
+parables. <span id="fr_406"></span>[2](#fn_404.md) The early Apostles of
 Buddhism, Kaśyapa, Ananda, Rahula, etc., whose labours had kept Buddhism
 alive during the first Millennium of its existence, are praised and
 thanked, and the reward prepared for them is announced. A number of
@@ -420,7 +420,7 @@ referring to the discontented Hīnayānists who opposed the Mahāyāna at
 its first inception), but eighty thousand remain faithful, and
 S’akyamuni turns to Bhaishajyarāja (Jap. Yaku-Ō) as the representative
 of the new order of preachers. The period of Image Law (*zō hō*) <span
-id="fr_407"></span>[3](#fn_405) has begun; a *stupa*, or
+id="fr_407"></span>[3](#fn_405.md) has begun; a *stupa*, or
 
 <span id="page_302">p. 302</span>
 
@@ -431,9 +431,9 @@ Buddhas, partial manifestations (*bunshin*) of S’akyamuni the One and
 Eternal, sit on lotus-thrones around the throne. The great preachers of
 the New Law are the Bodhisattvas, Manjuśri, Avalokites’vara, Yakuō,
 etc., whom Nichiren treats as having been historical personages, <span
-id="fr_408"></span>[1](#fn_406) and the work before them is to prepare
+id="fr_408"></span>[1](#fn_406.md) and the work before them is to prepare
 for the third Millennium, the Period of the Destruction of the Law <span
-id="fr_409"></span>[2](#fn_407) (*Mappō*), which Nichiren places about
+id="fr_409"></span>[2](#fn_407) (*Mappō*.md), which Nichiren places about
 the middle of the eleventh century A.D. Thanks to Chisha Daishi, Dengyō,
 and other labourers in the field of the Mahāyāna, the true meaning of
 S’akyamuni's teaching was gradually being brought out during the whole
@@ -443,7 +443,7 @@ lying thick and gloomy over two continents, the phrase must have been a
 significant one.
 
 But Nichiren had a word of comfort for this period of gloom. <span
-id="fr_410"></span>[3](#fn_408) In chap. xiv. of the "Saddharma
+id="fr_410"></span>[3](#fn_408.md) In chap. xiv. of the "Saddharma
 pundarika"
 
 <span id="page_303">p. 303</span>
@@ -475,7 +475,7 @@ painted on wood, which is found all over Japan as the honoured symbol of
 the Nichirenist worship, the name which is constantly on the lips of the
 Nichirenist believer. The title signifies the doctrine contained in the
 whole book, and that doctrine is one of Unity. <span
-id="fr_411"></span>[1](#fn_409) There
+id="fr_411"></span>[1](#fn_409.md) There
 
 <span id="page_304">p. 304</span>
 
@@ -486,7 +486,7 @@ manifestations or, in some cases, spurious counterfeits. The teachings
 of that One Buddha are absolutely true and conformable to Reason and
 Nature; for the Oneness is more than a mere Unity of Person. The One
 Eternal Buddha is one with all Reason, and one with all Nature. There
-are not two; there is only One. <span id="fr_412"></span>[1](#fn_410)
+are not two; there is only One. <span id="fr_412"></span>[1](#fn_410.md)
 
 <span id="page_305">p. 305</span>
 
@@ -497,9 +497,9 @@ what Nichiren calls the first period cannot have ended earlier than the
 first century A.D. We feel sure that if Manjuśri, Yaku-ō, and the other
 Bodhisattvas are meant to be true historical personages, the prophecies
 announcing their future destinies must be put on a par with, *e.g.*, the
-prophecy in the Lankāvatāra Sūtra, <span id="fr_413"></span>[1](#fn_411)
+prophecy in the Lankāvatāra Sūtra, <span id="fr_413"></span>[1](#fn_411.md)
 which mentions the coming of Nāgārjuna, or that which announced the
-coming of King Kanishka, <span id="fr_414"></span>[2](#fn_412)
+coming of King Kanishka, <span id="fr_414"></span>[2](#fn_412.md)
 prophecies made up after the event. What is really of interest is the
 connection traceable between the millennarian teachings of the Hokekyō
 and the similar teachings which were so rife among some of the Gnostics
@@ -509,7 +509,7 @@ thought between Nichiren and
 <span id="page_306">p. 306</span>
 
 <span class="contnote">\[paragraph continues\]</span> Abbot
-Joachim <span id="fr_415"></span>[1](#fn_413) of the Franciscan Order,
+Joachim <span id="fr_415"></span>[1](#fn_413.md) of the Franciscan Order,
 who was almost his contemporary. The Christian Friar, who had travelled
 in the East, and was the protégé of three successive Popes, also
 postulated three millenniums or periods of 1000 years, connected
@@ -517,14 +517,14 @@ respectively with the names of the Three Persons of the Trinity. His
 calculations did not quite coincide with those which Nichiren based on
 the Hokekyō, but he significantly gave the year 1260 as the date for the
 inauguration of the third millennium, that of the Holy Ghost. And 1260
-brings him very close to Nichiren. <span id="fr_416"></span>[2](#fn_414)
+brings him very close to Nichiren. <span id="fr_416"></span>[2](#fn_414.md)
 Possibly our next chapters may throw some light on the subject.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_392"></span>[288:1](chj26.htm#fr_394) I take my materials
+<span id="fn_392"></span>[288:1](chj26.htm#fr_394.md) I take my materials
 for Nichiren's life from the following sources: (1) Principally from the
 "Seigoroku," a collection of extracts from his writings, which is a
 veritable mine of information; (2) from two Japanese lives of the Saint,
@@ -532,7 +532,7 @@ which appeared, one in 1893 and one in 1909; (3) from a play entitled
 *Nichirengi*, which was brought out in 1894; and (4) from the chapters
 on Nichiren in vol. v. of "Bukkyō-Kakushū Kōyō" (1885).
 
-<span id="fn_393"></span>[289:1](chj26.htm#fr_395) I have already, in my
+<span id="fn_393"></span>[289:1](chj26.htm#fr_395.md) I have already, in my
 book "The Wheat among the Tares," written at some length on the
 "Saddharmapundarika." I wish here to add that the book falls into two
 portions, viz. (1) *Shakumon*, as it is called in Japanese, which
@@ -559,7 +559,7 @@ once the object of adoration, the protective charm, and the *Kaidan*, or
 Ordination Vow of the sect. One sub-sect considers only two chapters of
 the *Hommon* to be really genuine and authentic.
 
-<span id="fn_394"></span>[291:1](chj26.htm#fr_396) I give Nichiren's
+<span id="fn_394"></span>[291:1](chj26.htm#fr_396.md) I give Nichiren's
 exact words from a modern Japanese edition of extracts from Nichiren's
 writings, which has made this great Buddhist leader's mind accessible to
 me. The book is entitled "Seigōroku," and was published in 1907.
@@ -575,14 +575,14 @@ yo nen no aida Kamakura to, Kyō to, Hieizan to, Onjō to, Kōya to,
 Tennōji tō no kuniguni tera-dera ara-ara narai mi-mawari sōraishi," etc.
 ("Seigōroku," p. 764).
 
-<span id="fn_395"></span>[292:1](chj26.htm#fr_397) "Same yo hitobito, ma
+<span id="fn_395"></span>[292:1](chj26.htm#fr_397.md) "Same yo hitobito, ma
 no atari sono mi wo futari no chichi naku, futari no haha nakute
 umaretaru hitobito, aogi miyo, Ten ni ni-jitsu naku, fushite miyo, chi
 ni ni-Ō nashi" ("Nichiren," by Murakumo. Tokyo: Minyūsha. 1909).
 
-<span id="fn_396"></span>[293:1](chj26.htm#fr_398) "Seigōroku," p. 774.
+<span id="fn_396"></span>[293:1](chj26.htm#fr_398.md) "Seigōroku," p. 774.
 
-<span id="fn_397"></span>[295:1](chj26.htm#fr_399) "Nembutsu wa mugen no
+<span id="fn_397"></span>[295:1](chj26.htm#fr_399.md) "Nembutsu wa mugen no
 gō: Zenshū wa Tenma, hajun no setsu: Dai-shō no Kairitsu wa seken ōwaku
 no ha: Toshigoro no Honzon, Mida Kwannon tō no zō wo hi ni ire midzu ni
 nagasu" ("Seigōroku," p. 774).
@@ -605,11 +605,11 @@ Invisible Buddha, who is supposed to be within the tabernacle. For the
 historical S’akyamuni there is a distinct building in another part of
 the grounds. This is, I believe, the universal practice.
 
-<span id="fn_398"></span>[297:1](chj26.htm#fr_400) To the prosaic
+<span id="fn_398"></span>[297:1](chj26.htm#fr_400.md) To the prosaic
 foreign resident of Tokyo and Yokohama the place is known as "Poker
 Flat." "What is Nichiren to him, or he to Nichiren?"
 
-<span id="fn_399"></span>[298:1](chj26.htm#fr_401) "Kyōmon ni wa bunmyō
+<span id="fn_399"></span>[298:1](chj26.htm#fr_401.md) "Kyōmon ni wa bunmyō
 in toshi-tsuki wo sashitaru koto wa nakeredomo, Ten no on-keshiki wo
 haikenshitatematsuru ni," etc. ("Seigoroku," p. 807). Yet it is quite
 possible that Nichiren, as a priest, had means of obtaining information
@@ -617,20 +617,20 @@ about foreign countries, which were not accessible to the statesmen of
 Kamakura. It was still the practice for Buddhist priests to go over to
 China for purposes of study.
 
-<span id="fn_400"></span>[299:1](chj26.htm#fr_402) "Kono Shaka Nyorai wa
+<span id="fn_400"></span>[299:1](chj26.htm#fr_402.md) "Kono Shaka Nyorai wa
 mitsu no yue mashimashite, ta-Butsu ni kawarase tamaite, Shabo sekai no
 issai shūjō u-en no Hotoke to nari tamau: ichiniwa, Kono Shabo-sekai no
 issai shūjō no seson nite o washimasu; … ni ni wa, … Shabo-sekai issai
 shūjo no fu-mo nari:… san ni wa, … issai shūjō no honshi nari"
 ("Seigōroku," p. 131).
 
-<span id="fn_401"></span>[299:2](chj26.htm#fr_403) The term *ichi
+<span id="fn_401"></span>[299:2](chj26.htm#fr_403.md) The term *ichi
 embudai* is used in Nichiren's writings to embrace all the countries
 which had adopted the Buddhist Faith. It is, therefore, strictly
 analogous to our word "Christendom," used to denote the sum-total of
 Christian countries.
 
-<span id="fn_402"></span>[299:3](chj26.htm#fr_404) Nichiren was,
+<span id="fn_402"></span>[299:3](chj26.htm#fr_404.md) Nichiren was,
 however, fully aware of the chronological difficulties connected with
 the acceptance of the Hokekyō as a genuine Sūtra actually preached by
 S’akyamuni himself. In a passage quoted in <span id="page_300">p.
@@ -646,7 +646,7 @@ S’akyamuni, and that for this reason it lay fallow for several
 centuries, gradually winning recognition for itself as the spiritual
 intelligence of the Buddhist communities increased.
 
-<span id="fn_403"></span>[301:1](chj26.htm#fr_405) We must remember that
+<span id="fn_403"></span>[301:1](chj26.htm#fr_405.md) We must remember that
 Nichiren, in common with all northern Buddhists until quite recent
 times, placed S’akyamuni's birth B.C. 1027, and his death, consequently,
 about B.C. 947. The true date places the end of the first age in the
@@ -656,15 +656,15 @@ the pre-Mahāyāna Sūtras as ni zen ("before the rain"), an expression
 which somehow seems to be an echo, as it were, of phrases like
 "Pentecostal showers."
 
-<span id="fn_404"></span>[301:2](chj26.htm#fr_406) See "S.B.E.," vol.
+<span id="fn_404"></span>[301:2](chj26.htm#fr_406.md) See "S.B.E.," vol.
 xxi., and my "Wheat among the Tares" (Macmillan, 1908).
 
-<span id="fn_405"></span>[301:3](chj26.htm#fr_407) It is significant
+<span id="fn_405"></span>[301:3](chj26.htm#fr_407.md) It is significant
 that this period of the Imago Law should coincide so strangely with the
 testimony of the Buddhist Stupas in India. See Dahlmann's "Indische
 Fahrten," vol. ii. capp. 22–27.
 
-<span id="fn_406"></span>[302:1](chj26.htm#fr_408) Similarly, the
+<span id="fn_406"></span>[302:1](chj26.htm#fr_408.md) Similarly, the
 Thibetan history of Buddhism published by Sarat Chandra Das (Calcutta,
 1908) speaks of the conversion of India as due to S’akyamuni; of Udyāna,
 to Vajrapani; Bactria, to the frightful manifestations of the
@@ -673,24 +673,24 @@ Bodhisattva; of China, to Monjughosha; of Thibet, to Avalokites’vara;
 "Une Bibliothēque Médievale retrouvée à Kansou," in *Bulletin École
 Franç. de l’Extreme Orient*, viii. 3, 4 (Hanoi, 1908).
 
-<span id="fn_407"></span>[302:2](chj26.htm#fr_409) See, for instance,
+<span id="fn_407"></span>[302:2](chj26.htm#fr_409.md) See, for instance,
 "Sacred Books of the East," vol. xxi. p. 273.
 
-<span id="fn_408"></span>[302:3](chj26.htm#fr_410) Nichiren divided the
+<span id="fn_408"></span>[302:3](chj26.htm#fr_410.md) Nichiren divided the
 "Saddharma pundarika" into two parts. The first thirteen chapters he
 calls the *Shakumon*, or Preliminary part. This part was understood by
 the Tendai doctors. The second part, *Hommon*, or the Real Section, was
 not understood until its meaning was revealed to and through Nichiren.
 See chapter on Nichiren in "Bukkyō, Kakuḥa Koyō," vol. v.
 
-<span id="fn_409"></span>[303:1](chj26.htm#fr_411) Some years ago I had
+<span id="fn_409"></span>[303:1](chj26.htm#fr_411.md) Some years ago I had
 a pupil who always spoke of himself as a Unitarian, who afterwards went
 to America, and there again posed as a Unitarian. When he returned from
 America he turned out to <span id="page_304">p. 304</span> be a Nichiren
 priest. He had no intention to deceive. The term "Unitarian," to his
 mind, exactly described what he was.
 
-<span id="fn_410"></span>[304:1](chj26.htm#fr_412) I think it is best to
+<span id="fn_410"></span>[304:1](chj26.htm#fr_412.md) I think it is best to
 let Nichiren speak for himself here. He says as follows*:—*
 
 "Our merciful Father, the Tathāgata, manifested himself in Central India
@@ -736,17 +736,17 @@ light. At that time shall Visishta-c’aritra be manifested, and shall
 give the medicine of the Five Syllables of the *Myō-hō-ren-ge-kyō* to
 the Sentient Beings within Buddhadom.'"
 
-<span id="fn_411"></span>[305:1](chj26.htm#fr_413) Mr. Tada Kanae quotes
+<span id="fn_411"></span>[305:1](chj26.htm#fr_413.md) Mr. Tada Kanae quotes
 this prophecy in his chapters on Nāgārjuna in "Shōshinge Wasan" (p.
 224).
 
-<span id="fn_412"></span>[305:2](chj26.htm#fr_414) See Kern's
+<span id="fn_412"></span>[305:2](chj26.htm#fr_414.md) See Kern's
 "Buddhismus" (German Trans.), vol. ii. p. 187 (150).
 
-<span id="fn_413"></span>[306:1](chj26.htm#fr_415) Abbot Joachim was
+<span id="fn_413"></span>[306:1](chj26.htm#fr_415.md) Abbot Joachim was
 born 1145, and was Abbot of Corace (1178) and of Floris (1196).
 
-<span id="fn_414"></span>[306:2](chj26.htm#fr_416) Nichiren, however,
+<span id="fn_414"></span>[306:2](chj26.htm#fr_416.md) Nichiren, however,
 writing about 1254, speaks of himself as 220 years after the
 commencement of the Last Period, which must therefore have begun about
 1034. The student will perhaps remember the peculiar wave of excitement
@@ -754,4 +754,4 @@ which swept over Europe as the year A.D. 1000 approached.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV. “Risshō Ankoku Ron”](chj27)
+[Next: Chapter XXV. “Risshō Ankoku Ron”](chj27.md)

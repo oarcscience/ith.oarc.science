@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](smog03)  [Next](smog05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](smog03)  [Next](smog05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Smoky God*, by Willis George Emerson, \[1908\], at Intangible
 Textual Heritage
 
@@ -49,7 +49,7 @@ might we not expect in this strange latitude where ship had never
 <span id="page_83">p. 83</span>
 
 before sailed and the splash of an oar had never been heard? <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 We had scarcely appeased our hunger when a breeze began filling the idle
 sails, and, glancing at the coin-
@@ -73,7 +73,7 @@ were sailing slightly north by
 <span id="page_85">p. 85</span>
 
 northeast. Our course, however, was ever tending northward. <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 <span id="page_86">p. 86</span>
 
@@ -124,7 +124,7 @@ for several hours; and while we were
 <span id="img_08900"></span> <span align="CENTER"> [![“It could hardly
 be said to resemble the sun except in its circular
 shape.”](tn/08900.jpg)  
-Click to enlarge](img/08900.jpg)  
+Click to enlarge](img/08900.jpg.md)  
 “It could hardly be said to resemble the sun except in its circular
 shape.”  
 </span>
@@ -150,7 +150,7 @@ luminous cloud, as if reflecting some greater light beyond.
 We finally agreed in our discussion of this smoky furnace-colored sun,
 that, whatever the cause of the phenomenon, it was not a reflection of
 our sun, but a planet of some sort—a reality. <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 <span id="page_93">p. 93</span>
 
@@ -188,7 +188,7 @@ had at Stockholm. The dipping of the needle had ceased. What could this
 mean? Then, too, our many days of sailing had certainly carried us far
 past the North Pole. And yet the needle continued to point north. We
 were sorely perplexed, for surely our direction was now south. <span
-id="fr_13"></span>[1](#fn_13)
+id="fr_13"></span>[1](#fn_13.md)
 
 <span id="page_96">p. 96</span>
 
@@ -237,7 +237,7 @@ melody. The accompaniment was played on stringed instruments not unlike
 our harps.
 
 It was a larger ship than any we bad ever seen, and was differently
-constructed. <span id="fr_14"></span>[1](#fn_14)
+constructed. <span id="fr_14"></span>[1](#fn_14.md)
 
 <span id="page_100">p. 100</span>
 
@@ -254,7 +254,7 @@ spoke to us in a strange language. We knew from their manner, however,
 
 <span id="img_10100"></span> <span align="CENTER"> [![“They spoke to us
 in a strange language.”](tn/10100.jpg)  
-Click to enlarge](img/10100.jpg)  
+Click to enlarge](img/10100.jpg.md)  
 “They spoke to us in a strange language.”  
 </span>
 
@@ -310,7 +310,7 @@ refined, while their
 <span id="page_106">p. 106</span>
 
 complexion was of a most delicate tint heightened by a healthful
-glow. <span id="fr_15"></span>[1](#fn_15)
+glow. <span id="fr_15"></span>[1](#fn_15.md)
 
 Both men and women seemed to possess that particular ease of manner
 which we deem a sign of good breeding, and, notwithstanding their huge
@@ -542,7 +542,7 @@ shrubs, trees,
 
 <span id="img_12100"></span> <span align="CENTER"> [![“We were brought
 before the Great High Priest.”](tn/12100.jpg)  
-Click to enlarge](img/12100.jpg)  
+Click to enlarge](img/12100.jpg.md)  
 “We were brought before the Great High Priest.”  
 </span>
 
@@ -555,7 +555,7 @@ fountain. They divide and flow in four directions. This place is called
 by the inhabitants the "navel of the earth," or the beginning, "the
 cradle of the human race." The names of the rivers are the Euphrates,
 the Pison, the Gihon, and the Hiddekel. <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 The unexpected awaited us in this palace of beauty, in the finding of
 our little fishing-craft. It had been brought before the High Priest in
@@ -606,7 +606,7 @@ continent.
 
 ### Footnotes
 
-<span id="fn_10"></span>[83:1](smog04.htm#fr_10) *In vol. I, page* 196*,
+<span id="fn_10"></span>[83:1](smog04.htm#fr_10.md) *In vol. I, page* 196*,
 Nansen writes: "It is a peculiar phenomenon,—this dead water. We had at
 present a better opportunity of studying it than we desired. It occurs
 where a surface layer of fresh water rests upon the salt water of the
@@ -616,7 +616,7 @@ between the two strata was in this case so great that while we had
 drinking water on the surface, the water we got from the bottom cock of
 the engine-room was far too salt to be used for the boiler."*
 
-<span id="fn_11"></span>[85:1](smog04.htm#fr_11) *In volume II, pages*
+<span id="fn_11"></span>[85:1](smog04.htm#fr_11.md) *In volume II, pages*
 18 *and* 19*, Nansen writes about the inclination of the needle.
 Speaking of Johnson, his aide: "One day—it was November* 24*th—he came
 in to supper a little after six o'clock, quite alarmed, and said: 'There
@@ -634,7 +634,7 @@ curious phenomenon of the directive power of the needle becoming so weak
 as to be completely overcome by the attraction of the ship, so that the
 needle might now be said to point to the north pole of the ship."*
 
-<span id="fn_12"></span>[92:1](smog04.htm#fr_12) *Nansen, on page* 394*,
+<span id="fn_12"></span>[92:1](smog04.htm#fr_12.md) *Nansen, on page* 394*,
 says: "Today another noteworthy thing happened, which was that about
 midday we saw the sun, or to be more correct, an image of the sun, for
 it was only a mirage. A peculiar impression was produced by the sight of
@@ -653,7 +653,7 @@ I could see four, or even five, such horizontal lines directly over one
 another, all of equal length, as if one could only imagine a square,
 dull-red sun, with horizontal dark streaks across it."*
 
-<span id="fn_13"></span>[95:1](smog04.htm#fr_13) *Peary's first voyage,
+<span id="fn_13"></span>[95:1](smog04.htm#fr_13.md) *Peary's first voyage,
 pages* 69 *and* 95 <span id="page_96">p. 96</span> 70, *says: "On,
 reaching Sir Byam Martin's Island, the nearest to Melville Island, the
 latitude of the place of observation was* 75 *degrees*-09´-23″, *and the
@@ -668,7 +668,7 @@ those spots upon the globe where the needle would have been found to
 vary* 180 *degrees, or in other words, where the North Pole would have
 pointed to the south."*
 
-<span id="fn_14"></span>[99:1](smog04.htm#fr_14) *Asiatic
+<span id="fn_14"></span>[99:1](smog04.htm#fr_14.md) *Asiatic
 Mythology,—page* 240, *"Paradise Found"—from translation by Sayce, in a
 book called "Records of the Past," we were told of a "dwelling" which
 "the gods created for" the first human beings,—a dwellin*g <span
@@ -677,7 +677,7 @@ in numbers," and the location of which is described in words exactly
 corresponding to those of Iranian, Indian, Chinese, Eddaic and Aztecan
 literature; namely, "in the center of the earth."—Warren*.
 
-<span id="fn_15"></span>[106:1](smog04.htm#fr_15) *"According to all
+<span id="fn_15"></span>[106:1](smog04.htm#fr_15.md) *"According to all
 procurable data, that spot at the era of man's appearance upon the stage
 was in the now lost 'Miocene continent,' which then surrounded the
 Arctic Pole. That in that true, original Eden some of the early
@@ -685,11 +685,11 @@ generations of men attained to a stature and longevity unequaled in any
 countries known to postdiluvian history is by no means scientifically
 incredible."—Wm. F. Warren, "Paradise Found," p.* 284.
 
-<span id="fn_16"></span>[123:1](smog04.htm#fr_16) *"And the Lord God
+<span id="fn_16"></span>[123:1](smog04.htm#fr_16.md) *"And the Lord God
 planted a garden, and out of the ground made the Lord God to grow every
 tree that is pleasant to the sight and good for food."—The Book of
 Genesis*.
 
 ------------------------------------------------------------------------
 
-[Next: Part Four: In the Under World](smog05)
+[Next: Part Four: In the Under World](smog05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal143)  [Next](njal145) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal143)  [Next](njal145.md) 
 
 ------------------------------------------------------------------------
 
@@ -396,4 +396,4 @@ southeast.
 
 ------------------------------------------------------------------------
 
-[Next: 145. Of Kari And Thorgeir](njal145)
+[Next: 145. Of Kari And Thorgeir](njal145.md)

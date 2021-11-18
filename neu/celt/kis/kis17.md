@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis16)  [Next](kis18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis16)  [Next](kis18.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,4 +190,4 @@ heard that word they sat up and considered.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](kis18)
+[Next: Part III](kis18.md)

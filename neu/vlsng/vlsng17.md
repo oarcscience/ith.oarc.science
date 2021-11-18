@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng16)  [Next](vlsng18) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng16)  [Next](vlsng18.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ so that every child loved him well.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: The prophecy of Grifir.](vlsng18)
+[Next: Chapter XVI: The prophecy of Grifir.](vlsng18.md)

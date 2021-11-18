@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa19)  [Next](psa21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa19)  [Next](psa21.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ destroying Buldeo, he killed Purlunt with blows.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX](psa21)
+[Next: Chapter XX](psa21.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa14)  [Next](soa16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa14)  [Next](soa16.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ encamped until driven south again by the winter cold.
 
 ------------------------------------------------------------------------
 
-[Next: The Tlavatli Race](soa16)
+[Next: The Tlavatli Race](soa16.md)

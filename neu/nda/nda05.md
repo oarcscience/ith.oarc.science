@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda04)  [Next](nda06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda04)  [Next](nda06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ Icelandic histories, says in the prologue to his work:
 of men here in the land \[Iceland\] to write ancient and modern lore in
 the Northern tongue; he wrote chiefly in the beginning of his book
 concerning Iceland's colonization and legislation, then of the
-law-speakers ( [2](nda12.htm#xref_2)), how long each was in office, down
+law-speakers ( [2](nda12.htm#xref_2).md), how long each was in office, down
 to the introduction of Christianity into Iceland, and then on to his own
 day. Therein he also treats of much other old lore, both of the lives of
 the kings of Norway and Denmark, as well as of those of England, as
@@ -201,14 +201,14 @@ as follows:
 
 ". . . their son was Ari. He was driven out of his course at sea to
 White-men's-land \[Hvitramanna-land\], which is called by some persons
-Ireland the Great ( [58](nda12.htm#xref_58)); it lies westward in the
+Ireland the Great ( [58](nda12.htm#xref_58).md); it lies westward in the
 sea near Wineland the Good; it is said to he six "dœgra" sail west of
 Ireland; Ari could not depart thence, and was baptized there." The first
 account of this was given by Rafn who sailed to Limerick
-( [3](nda12.htm#xref_3)) \[Hlimreksfari\], and who remained for a long
+( [3](nda12.htm#xref_3).md) \[Hlimreksfari\], and who remained for a long
 time at Limerick in Ireland. So Thorkel Geitisson states that Icelanders
 report, who have heard Thorfirm, Earl of the Orkneys
-( [4](nda12.htm#xref_4)) say, that Ari had been recognized there, and
+( [4](nda12.htm#xref_4).md) say, that Ari had been recognized there, and
 was not permitted to leave \[*lit*. could not leave\], but was treated
 with great respect there.
 
@@ -247,7 +247,7 @@ be more fully described. The history of the Wineland discovery is
 contained in the eleventh chapter of the printed edition of the
 Kristni-Saga, in the following words:
 
-"That summer ( [5](nda12.htm#xref_5)) King Olaf \[Tryggvason\] went from
+"That summer ( [5](nda12.htm#xref_5).md) King Olaf \[Tryggvason\] went from
 the country southward to Vindland \[the land of the Wends\]; then,
 moreover, he sent Leif Ericsson \[Leifr Eiriksson\] to Greenland, to
 proclaim the faith there. On this voyage \[lit. then\] Leif found
@@ -359,10 +359,10 @@ Wineland passage appears as follows:
 Markland; thence it is not far to Wineland the Good, which some men
 believe extends from Africa, and, if this be so, then there is an open
 sea flowing in between Wineland and Markland. It is said, that Thorfinn
-Karlsefni hewed a "house-neat-timber" ( [6](nda12.htm#xref_6)) and then
+Karlsefni hewed a "house-neat-timber" ( [6](nda12.htm#xref_6).md) and then
 went to seek Wineland the Good, and came to where they believed this
 land to be, but they did not succeed in exploring it, or in obtaining
-any of its products ( [7](nda12.htm#xref_7)). Leif the Lucky first found
+any of its products ( [7](nda12.htm#xref_7).md). Leif the Lucky first found
 Wineland, and he then found merchants in evil plight at sea, and
 restored them to life by God's mercy; and he introduced Christianity
 into Greenland, which waxed there so *that an episcopal seat was
@@ -457,4 +457,4 @@ in the leading narrative of the discovery, now to be considered.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Saga of Eric the Red](nda06)
+[Next: Chapter II. The Saga of Eric the Red](nda06.md)

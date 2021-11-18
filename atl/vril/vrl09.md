@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl08)  [Next](vrl10) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl08)  [Next](vrl10.md) 
 
 ------------------------------------------------------------------------
 
@@ -147,4 +147,4 @@ pairs.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XI](vrl10)
+[Next: CHAPTER XI](vrl10.md)

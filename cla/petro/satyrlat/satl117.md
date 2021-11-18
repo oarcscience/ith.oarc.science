@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXVII) 
-[Previous](satl116)  [Next](satl118) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXVII.md) 
+[Previous](satl116)  [Next](satl118.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ clamore prosequebatur. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CXVIII](satl118)
+[Next: CXVIII](satl118.md)

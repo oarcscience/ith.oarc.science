@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap45) 
-[Next](bap47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap45.md) 
+[Next](bap47.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ planting of his vineyard?
 
 5\. And after the people had fasted 7 days, sitting in sackcloth, the
 Lord sent unto them on the 7th day Debbora, who said unto them: Can the
-sheep <span id="fr_121"></span>[1](#fn_121) that is appointed to the
+sheep <span id="fr_121"></span>[1](#fn_121.md) that is appointed to the
 slaughter answer before him that slayeth it, when both he that slayeth
 &lt; . . . &gt; and he that is slain keepeth silence, when he is
 sometimes provoked against it? Now ye were born to be a flock before our
@@ -83,10 +83,10 @@ dead, but God, which made a covenant with them, is life.
 
 ### Footnotes
 
-<span id="fn_121"></span>[170:1](bap46.htm#fr_121) XXX. 5. *Can the
+<span id="fn_121"></span>[170:1](bap46.htm#fr_121.md) XXX. 5. *Can the
 sheep*, etc. Something is wrong with this sentence. I suggest that words
 are wanting after occidit. See the App. on Readings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXI.](bap47)
+[Next: Chapter XXXI.](bap47.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp32)  [Next](dmp34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp32)  [Next](dmp34.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ causes a blister.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. II](dmp34)
+[Next: Verso Col. II](dmp34.md)

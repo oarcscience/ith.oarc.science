@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog15)  [Next](bog17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog15)  [Next](bog17.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ Goddess who holds the invincible aegis.
 
 ------------------------------------------------------------------------
 
-[Next: Maria](bog17)
+[Next: Maria](bog17.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](coli08)  [Next](coli10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](coli08)  [Next](coli10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Culture of the Luiseño Indians*, by Philip Stedman Sparkman,
 \[1908\], at Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ The twine made from the plants mentioned is usually two-ply,
 <span id="page_203">p. 203</span>
 
 but three-ply and four-ply twine is also made. <span
-id="fr_3"></span>[2a](#fn_2) Bowstrings are made from such twine,
+id="fr_3"></span>[2a](#fn_2.md) Bowstrings are made from such twine,
 generally of dogbane.
 
 A large-meshed net for carrying bulky or heavy articles, ikut, is also
@@ -129,10 +129,10 @@ never made this class of baskets.
 
 ### Footnotes
 
-<span id="fn_2"></span>[203:2a](coli09.htm#fr_3) The twine made by the
+<span id="fn_2"></span>[203:2a](coli09.htm#fr_3.md) The twine made by the
 California Indians was almost invariably two-ply. Perhaps the Luiseño
 three-ply and four-ply string is due to European influence.
 
 ------------------------------------------------------------------------
 
-[Next: Bows and Arrows](coli10)
+[Next: Bows and Arrows](coli10.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](chaup01)  [Next](chaup03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](chaup01)  [Next](chaup03.md) 
 
 ------------------------------------------------------------------------
 
@@ -196,4 +196,4 @@ each other. This ends the story of the eagles.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Chaup (Continued)](chaup03)
+[Next: The Story of the Chaup (Continued)](chaup03.md)

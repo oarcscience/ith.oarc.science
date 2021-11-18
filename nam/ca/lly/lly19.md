@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly18)  [Next](lly20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly18)  [Next](lly20.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ Fall, one of the most beautiful and picturesque in the region.
 
 ------------------------------------------------------------------------
 
-[Next: Mirror Lake](lly20)
+[Next: Mirror Lake](lly20.md)

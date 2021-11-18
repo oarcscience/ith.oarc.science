@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw27)  [Next](sahw29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw27)  [Next](sahw29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -39,7 +39,7 @@ their faith.
 \(ii\) The same author shows that Manichaean Temples are mentioned as
 existing in Singanfu in the years 510 (?), 621, 631, 760, being known
 successively as Tenji, Taishinji, and, finally, as Dai-un Kōmyōji.
-[Manichaeanism](errata.htm#22) must therefore have been quite as
+[Manichaeanism](errata.htm#22.md) must therefore have been quite as
 prominently before Zendō's mind as Nestorianism, and the name of Kōmyōji
 seems almost conclusive proof of a Manichaean affiliation.
 
@@ -100,4 +100,4 @@ of the Shinshu.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix III. Caulaucau](sahw29)
+[Next: Appendix III. Caulaucau](sahw29.md)

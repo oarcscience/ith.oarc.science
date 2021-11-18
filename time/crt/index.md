@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](crt00)
+[Contents](#contents)    [Start Reading](crt00.md)
 
 ------------------------------------------------------------------------
 
@@ -44,38 +44,38 @@ celebration of renewal and friendship.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](crt00)  
-[Preface](crt01)  
-[Contents](crt02)  
-[Illustrations](crt03)  
-[Chapter I. Introduction](crt04)  
+<span id="contents"></span> [Title Page](crt00.md)  
+[Preface](crt01.md)  
+[Contents](crt02.md)  
+[Illustrations](crt03.md)  
+[Chapter I. Introduction](crt04.md)  
 <span id="section_000"></span>
 
 ### Part I. The Christian Feast
 
-[Chapter II. Christmas Poetry (I)](crt05)  
-[Chapter III. Christmas Poetry (II)](crt06)  
-[Chapter IV. Christmas in Liturgy and Popular Devotion](crt07)  
-[Chapter V. Christmas Drama](crt08)  
-[Postscript](crt09)  
+[Chapter II. Christmas Poetry (I)](crt05.md)  
+[Chapter III. Christmas Poetry (II)](crt06.md)  
+[Chapter IV. Christmas in Liturgy and Popular Devotion](crt07.md)  
+[Chapter V. Christmas Drama](crt08.md)  
+[Postscript](crt09.md)  
 <span id="section_001"></span>
 
 ### Part II. Pagan Survivals
 
-[Chapter VI. Pre-Christian Winter Festivals](crt10)  
-[Chapter VII. All Hallow Tide to Martinmas](crt11)  
-[Chapter VIII. St. Clement to St. Thomas](crt12)  
-[Chapter IX. Christmas Eve and the Twelve Days](crt13)  
-[Chapter X. The Yule Log](crt14)  
-[Chapter XI. The Christmas-Tree, Decorations, and Gifts](crt15)  
-[Chapter XII. Christmas Feasting and Sacrificial Survivals](crt16)  
+[Chapter VI. Pre-Christian Winter Festivals](crt10.md)  
+[Chapter VII. All Hallow Tide to Martinmas](crt11.md)  
+[Chapter VIII. St. Clement to St. Thomas](crt12.md)  
+[Chapter IX. Christmas Eve and the Twelve Days](crt13.md)  
+[Chapter X. The Yule Log](crt14.md)  
+[Chapter XI. The Christmas-Tree, Decorations, and Gifts](crt15.md)  
+[Chapter XII. Christmas Feasting and Sacrificial Survivals](crt16.md)  
 [Chapter XIII. Masking, the Mummers' Play, the Feast of Fools, and the
-Boy Bishop](crt17)  
+Boy Bishop](crt17.md)  
 [Chapter XIV. St. Stephen's, St. Johns, and Holy Innocents'
-Days](crt18)  
-[Chapter XV. New Year's Day](crt19)  
-[Chapter XVI. Epiphany to Candlemas](crt20)  
-[Conclusion](crt21)  
-[Notes and Bibliography](crt22)  
-[Index](crt23)  
-[Footnotes](crt24)  
+Days](crt18.md)  
+[Chapter XV. New Year's Day](crt19.md)  
+[Chapter XVI. Epiphany to Candlemas](crt20.md)  
+[Conclusion](crt21.md)  
+[Notes and Bibliography](crt22.md)  
+[Index](crt23.md)  
+[Footnotes](crt24.md)  

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh05)  [Next](lsbh07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh05)  [Next](lsbh07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ IV\. Socrates saw a woman who had hanged herself on a tree, and he said,
 "Would that all trees bore such fruit as this!"
 
 V. A certain woman saw Socrates as they were carrying him along to
-crucify <span id="fr_22"></span>[1](#fn_22) him, and she wept and said,
+crucify <span id="fr_22"></span>[1](#fn_22.md) him, and she wept and said,
 "Woe is me, for they are about to slay thee without having committed any
 offence." And Socrates
 
@@ -142,10 +142,10 @@ XXII\. Another philosopher saw a city with a mighty wall round about it,
 and he said, "This is a dwelling-place for women and befitteth not men."
 
 XXIII\. A certain philosopher, who was a cynic from Alexandria, asked
-the king for a *mathḳâl* <span id="fr_23"></span>[1](#fn_23) of gold,
+the king for a *mathḳâl* <span id="fr_23"></span>[1](#fn_23.md) of gold,
 and the king made answer to him, saying, "This is not of the gifts which
 kings are wont to give." The philosopher then asked him for a talent
-\[of gold\] <span id="fr_24"></span>[2](#fn_24), and the king replied,
+\[of gold\] <span id="fr_24"></span>[2](#fn_24.md), and the king replied,
 "This is not a request which should be made by a cynic."
 
 XXIV\. Aristotle was asked, "Why have the envious always sad and gloomy
@@ -157,7 +157,7 @@ they are not only grieved over their own wickednesses, but also over the
 virtues of others."
 
 XXV\. Another philosopher was asked, "What is the occupation of
-orators?" <span id="fr_25"></span>[1](#fn_25) He replied, "To magnify
+orators?" <span id="fr_25"></span>[1](#fn_25.md) He replied, "To magnify
 those who are little and to belittle him that is great."
 
 XXVI\. Dixit philosophus alius quidam, "Quatuor sunt genera corporalium
@@ -195,13 +195,13 @@ replied, saying, "If thou also didst eat such food as this thou wouldst
 have no need to serve the king."
 
 XXXIII\. It is said that when Alexander \[the Great\] had been
-poisoned <span id="fr_26"></span>[1](#fn_26) and was nigh unto death, he
+poisoned <span id="fr_26"></span>[1](#fn_26.md) and was nigh unto death, he
 wrote to his mother and said unto her, "When thou hast read this letter
 make ready much meat and make a feast for \[thy\] people, but do not
 allow to eat those who have not lost some relative by death." Now he did
 this so that when she considered and saw that no man had escaped this
 calamity she might be consoled and not be sad <span
-id="fr_27"></span>[2](#fn_27).
+id="fr_27"></span>[2](#fn_27.md).
 
 XXXIV\. To another philosopher it was said, "How "is it that thou dost
 condescend to learn from every "man?" He replied, "Because I know that
@@ -235,7 +235,7 @@ indicating the philosophers by the word "men".
 XL\. He was also asked, "What thing is the most difficult for a man \[to
 do\]?" And he replied, "To know himself and to conceal his secret."
 
-XLI\. A certain friend of Socrates <span id="fr_28"></span>[1](#fn_28)
+XLI\. A certain friend of Socrates <span id="fr_28"></span>[1](#fn_28.md)
 took counsel with him concerning the marrying a wife, and he replied,
 "Take heed that there happen not unto thee that which befel the fish in
 the matter of the net; those which were inside longed to go out, and
@@ -303,7 +303,7 @@ was asked why he had done so replied, "I chose the lesser evil."
 LIV\. It was reported to Alexander that the daughters of Darius were
 exceedingly beautiful, and he replied, "It would be a most shameful
 thing for us to be conquered by the men \[of any nation whatsoever\],
-\[how much more <span id="fr_29"></span>[1](#fn_29) then would it be a
+\[how much more <span id="fr_29"></span>[1](#fn_29.md) then would it be a
 disgrace to us\] if their women were to do so?"
 
 LV\. It happened to Socrates that he became once a fellow-traveller on
@@ -328,14 +328,14 @@ until I do desire to eat it."
 LVIII\. When Alexander was going to wage war against the Amazons he
 said, "If we conquer this race it will not be a matter of boasting for
 us, and if they vanquish me it will be a great disgrace." <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 LIX\. Hippocrates said, "Whosoever injureth himself in order to do his
 neighbour any good whatsoever is a fool."
 
 LX\. Dixit idem philosophus, "Duobus tantum commiscere fas est
 feminae—conjugi scilicet et pulveri sepulchri." <span
-id="fr_31"></span>[2](#fn_31)
+id="fr_31"></span>[2](#fn_31.md)
 
 LXI\. It was to him that his wife said, "Behold thy son doth not
 resemble thee in any way." He replied, "I gave thee the shapeless matter
@@ -364,7 +364,7 @@ would that the captain of your host were your physician, because he is
 far more careful about killing men than the physician."
 
 LXV\. Plato said, "It is a very great disgrace <span
-id="fr_32"></span>[1](#fn_32) indeed for a man to be both ignorant and
+id="fr_32"></span>[1](#fn_32.md) indeed for a man to be both ignorant and
 not anxious to gain instruction, for two vices are gathered together in
 him."
 
@@ -382,37 +382,37 @@ they had not been well delivered."
 
 ### Footnotes
 
-<span id="fn_22"></span>[7:1](lsbh06.htm#fr_22) See the note to story
+<span id="fn_22"></span>[7:1](lsbh06.htm#fr_22.md) See the note to story
 No. XCIII.
 
-<span id="fn_23"></span>[10:1](lsbh06.htm#fr_23) A gold coin equal in
+<span id="fn_23"></span>[10:1](lsbh06.htm#fr_23.md) A gold coin equal in
 value to about nine shillings of our money.
 
-<span id="fn_24"></span>[10:2](lsbh06.htm#fr_24) *I.e.*, about £4,217
+<span id="fn_24"></span>[10:2](lsbh06.htm#fr_24.md) *I.e.*, about £4,217
 sterling.
 
-<span id="fn_25"></span>[11:1](lsbh06.htm#fr_25) Read \#\#\#.
+<span id="fn_25"></span>[11:1](lsbh06.htm#fr_25.md) Read \#\#\#.
 
-<span id="fn_26"></span>[12:1](lsbh06.htm#fr_26) See my *Life and
+<span id="fn_26"></span>[12:1](lsbh06.htm#fr_26.md) See my *Life and
 Exploits of Alexander the Great*, pp. 339, 373, 427 and 430.
 
-<span id="fn_27"></span>[12:2](lsbh06.htm#fr_27) Compare *Historia
+<span id="fn_27"></span>[12:2](lsbh06.htm#fr_27.md) Compare *Historia
 Compendiosa Dynastiarum*, ed. Pococke, Arabic text, p. 96; and
 *Contextio Gemmarum*, ed. Pococke, p. 287.
 
-<span id="fn_28"></span>[13:1](lsbh06.htm#fr_28) Variant, Diogenes.
+<span id="fn_28"></span>[13:1](lsbh06.htm#fr_28.md) Variant, Diogenes.
 
-<span id="fn_29"></span>[15:1](lsbh06.htm#fr_29) Compare \#\#\#.
+<span id="fn_29"></span>[15:1](lsbh06.htm#fr_29.md) Compare \#\#\#.
 Pseudo-Callisthenes, ed. Milner, p. 74, col. 2.
 
-<span id="fn_30"></span>[16:1](lsbh06.htm#fr_30) Compare the words of
+<span id="fn_30"></span>[16:1](lsbh06.htm#fr_30.md) Compare the words of
 the Amazons to Alexander:—\#\#\# See my *History of Alexander*, Syr.
 text, p. 229.
 
-<span id="fn_31"></span>[16:2](lsbh06.htm#fr_31) Or, "Duo tantum lecti
+<span id="fn_31"></span>[16:2](lsbh06.htm#fr_31.md) Or, "Duo tantum lecti
 ascendendi sunt feminae—genialis scilicet et funebris.
 
-<span id="fn_32"></span>[17:1](lsbh06.htm#fr_32) On p. 16 of the Syr.
+<span id="fn_32"></span>[17:1](lsbh06.htm#fr_32.md) On p. 16 of the Syr.
 text, l. 12, for \#\#\# read \#\#\#.
 
 <div class="filenav">
@@ -420,6 +420,6 @@ text, l. 12, for \#\#\# read \#\#\#.
 ------------------------------------------------------------------------
 
 [Next: The Second Chapter: Profitable Sayings of the Persian
-Sages](lsbh07)
+Sages](lsbh07.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [Previous](../ta/ta)  [Next](../tem/tem) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [Previous](../ta/ta)  [Next](../tem/tem.md) 
 
 ------------------------------------------------------------------------
 
@@ -5453,4 +5453,4 @@ Index](../index)  [Previous](../ta/ta)  [Next](../tem/tem) 
 
 ------------------------------------------------------------------------
 
-[Next: Tempest](../tem/tem) 
+[Next: Tempest](../tem/tem.md) 

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,8 +23,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Page Index](pageidx)    [Start
-Reading](kymf00)    [Text \[Zipped\]](kymftxt.zip)
+[Contents](#contents)    [Page Index](pageidx.md)    [Start
+Reading](kymf00)    [Text \[Zipped\]](kymftxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -44,17 +44,17 @@ one's wallet).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](kymf00)  
-[Contents](kymf01)  
-[Chapter One. Introduction](kymf02)  
-[Chapter Two. Mechanics](kymf03)  
-[Chapter Three. Nerve Fuel](kymf04)  
-[Chapter Four. Heart Energy](kymf05)  
-[Chapter Five. Life Energy Control](kymf06)  
-[Chapter Six. Spastic Conditions](kymf07)  
-[Chapter Seven. Stroke](kymf08)  
-[Chapter Eight. Arthritis](kymf09)  
-[Chapter Nine. Sleeping Sickness](kymf10)  
-[Chapter Ten. Fluid Accumulation.](kymf11)  
-[Chapter Eleven. Rheumatic Fever Nerves](kymf12)  
-[Chapter Twelve. Conclusion](kymf13)  
+<span id="contents"></span> [Title Page and Front Matter](kymf00.md)  
+[Contents](kymf01.md)  
+[Chapter One. Introduction](kymf02.md)  
+[Chapter Two. Mechanics](kymf03.md)  
+[Chapter Three. Nerve Fuel](kymf04.md)  
+[Chapter Four. Heart Energy](kymf05.md)  
+[Chapter Five. Life Energy Control](kymf06.md)  
+[Chapter Six. Spastic Conditions](kymf07.md)  
+[Chapter Seven. Stroke](kymf08.md)  
+[Chapter Eight. Arthritis](kymf09.md)  
+[Chapter Nine. Sleeping Sickness](kymf10.md)  
+[Chapter Ten. Fluid Accumulation.](kymf11.md)  
+[Chapter Eleven. Rheumatic Fever Nerves](kymf12.md)  
+[Chapter Twelve. Conclusion](kymf13.md)  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr00)  [Next](abr02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr00)  [Next](abr02.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ we have no doubt about that, and may God help us.
 
 ------------------------------------------------------------------------
 
-[Next: The Birth of Abraham (PUH)](abr02)
+[Next: The Birth of Abraham (PUH)](abr02.md)
 
 </div>
 

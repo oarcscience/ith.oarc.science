@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp14) [Next](ycgp16)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp14) [Next](ycgp16.md)
 
 ------------------------------------------------------------------------
 
@@ -10,11 +10,11 @@ Y<span class="small">ANG</span> C<span class="small">HU</span> said:
 
    "The memory of things of highest antiquity is faded. Who recollects
 them? Of the time of the three generations of Emperors<span
-id="page_59_fr_1"></span>[1](#page_59_note_1) something is preserved,
+id="page_59_fr_1"></span>[1](#page_59_note_1.md) something is preserved,
 but the rest is lost. Of the five rulers<span
-id="page_59_fr_2"></span>[2](#page_59_note_2) something is still known,
+id="page_59_fr_2"></span>[2](#page_59_note_2.md) something is still known,
 the rest is only guessed at. Of the events during the time of the three
-emperors<span id="page_59_fr_3"></span>[3](#page_59_note_3) some are
+emperors<span id="page_59_fr_3"></span>[3](#page_59_note_3.md) some are
 veiled in deep obscurity, and some are clear, yet out of a hundred
 thousand not one is recollected. Of the things of our present life some
 are heard, others seen, yet not one out of ten thousand is recollected.
@@ -34,7 +34,7 @@ joy of living?"
 
 ------------------------------------------------------------------------
 
-[Next](ycgp16)
+[Next](ycgp16.md)
 
 ------------------------------------------------------------------------
 
@@ -42,15 +42,15 @@ joy of living?"
 
 <span id="footnotes_page_59">p. 59</span>
 
-<span id="page_59_note_1"></span>[1](#page_59_fr_1) The three
+<span id="page_59_note_1"></span>[1](#page_59_fr_1.md) The three
 generations of Emperors, namely, those of heaven, those of the earth,
 and the human emperors, forming the first fabulous epoch of Chinese
 history.
 
-<span id="page_59_note_2"></span>[2](#page_59_fr_2) The five rulers are
+<span id="page_59_note_2"></span>[2](#page_59_fr_2.md) The five rulers are
 Fw-hsi, Shen-nung, Huang-ti, Yao and Shun.
 
-<span id="page_59_note_3"></span>[3](#page_59_fr_3) The three emperors
+<span id="page_59_note_3"></span>[3](#page_59_fr_3.md) The three emperors
 are, Yü, T’eng and Wen-Wang, the founders of the first three dynasties.
 
  

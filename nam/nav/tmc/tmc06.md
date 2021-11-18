@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](tmc05)  [Next](tmc07) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](tmc05)  [Next](tmc07.md) 
 
 ------------------------------------------------------------------------
 
@@ -718,4 +718,4 @@ the dance ceases, their significance is apparent.
 
 ------------------------------------------------------------------------
 
-[Next: Other Songs and Extracts.](tmc07)
+[Next: Other Songs and Extracts.](tmc07.md)

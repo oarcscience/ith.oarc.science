@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar006) [Next](gbar008)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar006) [Next](gbar008.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ announcing all that they had seen in Judaea.
 
 ------------------------------------------------------------------------
 
-[Next](gbar008)
+[Next](gbar008.md)
 
  
 

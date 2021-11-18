@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](bep06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](bep06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Enoch the Prophet*, tr. by Richard Laurence, \[1883\], at
 Intangible Textual Heritage
 
@@ -28,11 +28,11 @@ that it may not descend upon earth on your account, what will you do?
 
 3\. And if He send his wrath upon you, and upon all your deeds, you are
 not they who can supplicate him; you who utter <span
-id="fr_278"></span>[1](#fn_276) against his righteousness, language
-proud and powerful. <span id="fr_279"></span>[2](#fn_277) To you there
+id="fr_278"></span>[1](#fn_276.md) against his righteousness, language
+proud and powerful. <span id="fr_279"></span>[2](#fn_277.md) To you there
 shall be no peace.
 
-4\. Do you not see the commanders <span id="fr_280"></span>[3](#fn_278)
+4\. Do you not see the commanders <span id="fr_280"></span>[3](#fn_278.md)
 of ships, how their vessels are tossed about by the waves, torn to
 pieces by the winds, and exposed to the greatest peril?
 
@@ -41,7 +41,7 @@ with them on the ocean; and}
 
 <span id="page_167">p. 167</span>
 
-that they forbode evil <span id="fr_281"></span>[1](#fn_279) in their
+that they forbode evil <span id="fr_281"></span>[1](#fn_279.md) in their
 hearts, because it may swallow them up, and they may perish in it?
 
 6\. Is not the whole sea, all its waters, and all its commotion, the
@@ -61,7 +61,7 @@ not sinners be terrified at the Most High?
 
 <span class="margnote"><span id="an_CII">CII</span></span>
 
-### CHAP. CII <span id="fr_282"></span>[2](#fn_280)
+### CHAP. CII <span id="fr_282"></span>[2](#fn_280.md)
 
 1\. In those days, when He shall cast the calamity of fire upon you,
 whither will you fly, and where will you be safe?
@@ -88,16 +88,16 @@ the day of your death in righteousness. Grieve not, because your souls
 descend in great trouble, with groaning, lamentation, and sorrow, to the
 receptacle of the dead. In your lifetime your bodies have not received a
 recompense in proportion to your goodness, <span
-id="fr_283"></span>[1](#fn_281) but in the period of your existence have
+id="fr_283"></span>[1](#fn_281.md) but in the period of your existence have
 sinners existed; in the period of execration and of punishment.
 
 7\. And when you die, sinners say concerning you, "As we die, the
 righteous die. What profit have they in their works? Behold, like us,
 they expire in sorrow and in darkness. What advantage have they over us?
 Henceforward are we equal. What will be within their grasp, and what
-before their eyes <span id="fr_284"></span>[2](#fn_282) for ever? For
+before their eyes <span id="fr_284"></span>[2](#fn_282.md) for ever? For
 behold they are dead; and never will they again <span
-id="fr_285"></span>[3](#fn_283) perceive the light." I say unto you, ye
+id="fr_285"></span>[3](#fn_283.md) perceive the light." I say unto you, ye
 sinners, You have been satiated
 
 <span id="page_169">p. 169</span>
@@ -121,7 +121,7 @@ discovered what is written and impressed on it concerning you.
 
 2\. *I have seen* that all goodness, joy, and glory has been prepared
 for you, and been written down for the spirits of them who die eminently
-righteous and good. <span id="fr_286"></span>[1](#fn_284) To you it
+righteous and good. <span id="fr_286"></span>[1](#fn_284.md) To you it
 shall be given in return for your troubles; and your portion *of
 happiness* shall far exceed the portion of the living.
 
@@ -135,10 +135,10 @@ generation to generation. Nor shall they now fear disgrace.
 
 4\. Woe to you, sinners, when you die in your sins; and they, who are
 like you, say respecting you, Blessed are these sinners. They have lived
-out their whole period; <span id="fr_287"></span>[1](#fn_285) and now
-they die in happiness <span id="fr_288"></span>[2](#fn_286) and in
+out their whole period; <span id="fr_287"></span>[1](#fn_285.md) and now
+they die in happiness <span id="fr_288"></span>[2](#fn_286.md) and in
 wealth. Distress and slaughter they knew not <span
-id="fr_289"></span>[3](#fn_287) while alive; in honour they die; nor
+id="fr_289"></span>[3](#fn_287.md) while alive; in honour they die; nor
 ever in their lifetime did judgment overtake them.
 
 5\. *But* has it not been shown to them, that, when to the receptacle of
@@ -146,13 +146,13 @@ the dead t heir souls shall be made to descend, their evil deeds shall
 become their greatest torment? Into darkness, into the snare, and into
 the flame, which shall burn to the great judgment, shall their spirits
 enter; and the great judgment shall take effect for ever and for
-ever. <span id="fr_290"></span>[4](#fn_288)
+ever. <span id="fr_290"></span>[4](#fn_288.md)
 
 6\. Woe to you; for to you there shall be no peace. Neither can you say
 to the righteous, and to the good who are alive, "In the days of our
 trouble have we been afflicted; every *species of* trouble have we seen,
 and many evil things have suffered. <span
-id="fr_291"></span>[5](#fn_289)
+id="fr_291"></span>[5](#fn_289.md)
 
 7\. Our spirits have been consumed, lessened, and diminished.
 
@@ -163,14 +163,14 @@ id="fr_291"></span>[5](#fn_289)
 of help for us in word or in deed: we have found none, but have been
 tormented and destroyed.
 
-9\. We have not expected to live <span id="fr_292"></span>[1](#fn_290)
+9\. We have not expected to live <span id="fr_292"></span>[1](#fn_290.md)
 day after day.
 
 10\. We hoped indeed to have been the head;
 
 11\. But we have become the tail. We have been afflicted, when we have
 exerted ourselves; but we have been devoured by sinners <span
-id="fr_293"></span>[2](#fn_291) and the ungodly; their yoke has been
+id="fr_293"></span>[2](#fn_291.md) and the ungodly; their yoke has been
 heavy upon us.
 
 12\. Those have exercised dominion over us who detest and who goad us;
@@ -209,10 +209,10 @@ joy shall be yours, like that of the angels in heaven. Conduct
 yourselves as you may, still you shall not be concealed in the day of
 the great judgment. You shall not be found like sinners; and eternal
 condemnation shall be far from you, so long as the world exists. <span
-id="fr_294"></span>[1](#fn_292)
+id="fr_294"></span>[1](#fn_292.md)
 
 4\. And now fear not, ye righteous, when you see sinners flourishing and
-prosperous <span id="fr_295"></span>[2](#fn_293) in their ways.
+prosperous <span id="fr_295"></span>[2](#fn_293.md) in their ways.
 
 5\. Be not associates with them; but keep yourselves at a distance from
 their oppression; be you associated with the host of heaven. You, ye
@@ -223,7 +223,7 @@ sinners, say, All our transgressions shall not be taken
 account of, and be recorded. But all your transgressions shall be
 recorded daily.
 
-6\. And be assured by me, <span id="fr_296"></span>[1](#fn_294) that
+6\. And be assured by me, <span id="fr_296"></span>[1](#fn_294.md) that
 light and darkness, day and night, behold all your transgressions. Be
 not impious in your thoughts; lie not; surrender not the word of
 uprightness; lie not against the word of the holy and the mighty One;
@@ -234,7 +234,7 @@ for righteousness, but for great crime.
 transgress against the word of uprightness.
 
 8\. They shall speak evil things; they shall utter falsehood; execute
-great undertakings; <span id="fr_297"></span>[2](#fn_295) and compose
+great undertakings; <span id="fr_297"></span>[2](#fn_295.md) and compose
 books in their own words. But when they shall write all my words
 correctly in their own languages,
 
@@ -253,7 +253,7 @@ path.
 
 <span class="margnote"><span id="an_CIVb">CIVb</span></span>
 
-### CHAP. CIV. <span id="fr_298"></span>[1](#fn_296)
+### CHAP. CIV. <span id="fr_298"></span>[1](#fn_296.md)
 
 1\. In those days, saith the Lord, they shall call to the children of
 the earth, and make them listen to their wisdom. Show them that you are
@@ -262,14 +262,14 @@ their leaders;
 2\. And that renumeration *shall take place* over the whole earth; for I
 and my Son will for ever hold communion with them in the paths of
 uprightness, while they are still alive. <span
-id="fr_299"></span>[2](#fn_297) Peace shall be yours. Rejoice, children
+id="fr_299"></span>[2](#fn_297.md) Peace shall be yours. Rejoice, children
 of integrity, in the truth.
 
 <span class="margnote"><span id="an_CV">CV</span></span>
 
 ### CHAP. CV.
 
-1\. After a time, <span id="fr_300"></span>[3](#fn_298) my son Mathusala
+1\. After a time, <span id="fr_300"></span>[3](#fn_298.md) my son Mathusala
 took a wife for his son Lamech.
 
 2\. She became pregnant by him, and brought forth a child, the flesh of
@@ -286,7 +286,7 @@ mouth, he spoke to the
 <span class="contnote">\[paragraph continues\]</span> Lord of
 righteousness. Then Lamech his father was afraid of him; and flying away
 came to his own father Mathusala, and said, I have begotten a son,
-unlike *to other children*. <span id="fr_301"></span>[1](#fn_299) He is
+unlike *to other children*. <span id="fr_301"></span>[1](#fn_299.md) He is
 not human; but, resembling the offspring of the angels of heaven, is of
 a different nature *from ours*, being altogether unlike to us.
 
@@ -371,18 +371,18 @@ is no deception.
 
 <span class="contnote">\[paragraph continues\]</span> Enoch, who had
 shown hint every secret thing, he returned with understanding, <span
-id="fr_302"></span>[1](#fn_300) and called the name of that child Noah;
+id="fr_302"></span>[1](#fn_300.md) and called the name of that child Noah;
 because he was to console the earth on account of all its destruction.
 
 21\. Another book, which Enoch wrote for his son Mathusala, and for
 those who should come after him, and preserve their purity of
-conduct <span id="fr_303"></span>[2](#fn_301) in the latter days. You,
+conduct <span id="fr_303"></span>[2](#fn_301.md) in the latter days. You,
 who have laboured, shall wait in those days, until the evil doers be
 consumed, and the power of the guilty be annihilated. Wait, until sin
 pass away; for their names shall be blotted out of the holy books; their
 seed shall be destroyed, and their spirits slain. They shall cry out and
 lament in the invisible waste, and in the bottomless fire shall they
-burn. <span id="fr_304"></span>[3](#fn_302) There I perceived, as it
+burn. <span id="fr_304"></span>[3](#fn_302.md) There I perceived, as it
 were, a cloud which could not be seen through; for from the depth of it
 I was unable to look upwards. I beheld also a flame of fire blazing
 brightly, and, as it were, glittering mountains whirled around, and
@@ -410,10 +410,10 @@ been attached neither to gold nor silver, nor to any good thing in the
 world, but have given their bodies to torment;
 
 24\. To those who from the period of their birth <span
-id="fr_305"></span>[1](#fn_303) have not been covetous of earthly
+id="fr_305"></span>[1](#fn_303.md) have not been covetous of earthly
 riches; but have regarded themselves as a breath passing away.
 
-25\. Such has been their conduct; <span id="fr_306"></span>[2](#fn_304)
+25\. Such has been their conduct; <span id="fr_306"></span>[2](#fn_304.md)
 and much has the Lord tried them; and their spirits have been found
 pure, that they might bless his name. All their blessings have I related
 in a book; and He has rewarded them; for they have been found to love
@@ -435,11 +435,11 @@ name: and I will place each of them on a throne of glory, of glory
 periods. Righteous is the judgment of God;
 
 27\. For to the faithful shall he give faith in the habitations of
-uprightness. <span id="fr_307"></span>[1](#fn_305) They shall see those,
+uprightness. <span id="fr_307"></span>[1](#fn_305.md) They shall see those,
 who having been born in darkness unto darkness shall be cast; while the
 righteous shall be at rest. Sinners shall cry out, beholding them, while
 they exist in splendour and proceed forwards to the days and periods
-prescribed to them. <span id="fr_308"></span>[2](#fn_306)
+prescribed to them. <span id="fr_308"></span>[2](#fn_306.md)
 
  
 
@@ -465,83 +465,83 @@ SONS, LIMITED, LONDON AND BECCLES.</span></span>
 
 ### Footnotes
 
-<span id="fn_276"></span>[166:1](bep07.htm#fr_278) *for you utter*.
+<span id="fn_276"></span>[166:1](bep07.htm#fr_278.md) *for you utter*.
 
-<span id="fn_277"></span>[166:2](bep07.htm#fr_279) *great and powerful
+<span id="fn_277"></span>[166:2](bep07.htm#fr_279.md) *great and powerful
 things*.
 
-<span id="fn_278"></span>[166:3](bep07.htm#fr_280) *kings*.
+<span id="fn_278"></span>[166:3](bep07.htm#fr_280.md) *kings*.
 
-<span id="fn_279"></span>[167:1](bep07.htm#fr_281) *think not good*.
+<span id="fn_279"></span>[167:1](bep07.htm#fr_281.md) *think not good*.
 
-<span id="fn_280"></span>[167:2](bep07.htm#fr_282) There is no chap. ci.
+<span id="fn_280"></span>[167:2](bep07.htm#fr_282.md) There is no chap. ci.
 in the MSS.
 
-<span id="fn_281"></span>[168:1](bep07.htm#fr_283) *your flesh has not
+<span id="fn_281"></span>[168:1](bep07.htm#fr_283.md) *your flesh has not
 found according to your goodness*.
 
-<span id="fn_282"></span>[168:2](bep07.htm#fr_284) *What will they
+<span id="fn_282"></span>[168:2](bep07.htm#fr_284.md) *What will they
 obtain, and what behold*.
 
-<span id="fn_283"></span>[168:3](bep07.htm#fr_285) *henceforward for
+<span id="fn_283"></span>[168:3](bep07.htm#fr_285.md) *henceforward for
 ever*.
 
-<span id="fn_284"></span>[169:1](bep07.htm#fr_286) *in righteousness and
+<span id="fn_284"></span>[169:1](bep07.htm#fr_286.md) *in righteousness and
 in much goodness*.
 
-<span id="fn_285"></span>[170:1](bep07.htm#fr_287) *They have seen all
+<span id="fn_285"></span>[170:1](bep07.htm#fr_287.md) *They have seen all
 their days*.
 
-<span id="fn_286"></span>[170:2](bep07.htm#fr_288) *in goodness*.
+<span id="fn_286"></span>[170:2](bep07.htm#fr_288.md) *in goodness*.
 
-<span id="fn_287"></span>[170:3](bep07.htm#fr_289) *they saw not*.
+<span id="fn_287"></span>[170:3](bep07.htm#fr_289.md) *they saw not*.
 
-<span id="fn_288"></span>[170:4](bep07.htm#fr_290) *shall be for every
+<span id="fn_288"></span>[170:4](bep07.htm#fr_290.md) *shall be for every
 generation, even for ever*.
 
-<span id="fn_289"></span>[170:5](bep07.htm#fr_291) *found*.
+<span id="fn_289"></span>[170:5](bep07.htm#fr_291.md) *found*.
 
-<span id="fn_290"></span>[171:1](bep07.htm#fr_292) *to see life*.
+<span id="fn_290"></span>[171:1](bep07.htm#fr_292.md) *to see life*.
 
-<span id="fn_291"></span>[171:2](bep07.htm#fr_293) *food for sinners*.
+<span id="fn_291"></span>[171:2](bep07.htm#fr_293.md) *food for sinners*.
 
-<span id="fn_292"></span>[172:1](bep07.htm#fr_294) *during every
+<span id="fn_292"></span>[172:1](bep07.htm#fr_294.md) *during every
 generation of the world*.
 
-<span id="fn_293"></span>[172:2](bep07.htm#fr_295) *strong and worthy*.
+<span id="fn_293"></span>[172:2](bep07.htm#fr_295.md) *strong and worthy*.
 
-<span id="fn_294"></span>[173:1](bep07.htm#fr_296) *I will show you*.
+<span id="fn_294"></span>[173:1](bep07.htm#fr_296.md) *I will show you*.
 
-<span id="fn_295"></span>[173:2](bep07.htm#fr_297) *create a great
+<span id="fn_295"></span>[173:2](bep07.htm#fr_297.md) *create a great
 creation*.
 
-<span id="fn_296"></span>[174:1](bep07.htm#fr_298) This chapter occurs
+<span id="fn_296"></span>[174:1](bep07.htm#fr_298.md) This chapter occurs
 twice.
 
-<span id="fn_297"></span>[174:2](bep07.htm#fr_299) *we will for ever mix
+<span id="fn_297"></span>[174:2](bep07.htm#fr_299.md) *we will for ever mix
 with them in the paths of uprightness in their lives*.
 
-<span id="fn_298"></span>[174:3](bep07.htm#fr_300) *after days*.
+<span id="fn_298"></span>[174:3](bep07.htm#fr_300.md) *after days*.
 
-<span id="fn_299"></span>[175:1](bep07.htm#fr_301) *a changed son*.
+<span id="fn_299"></span>[175:1](bep07.htm#fr_301.md) *a changed son*.
 
-<span id="fn_300"></span>[178:1](bep07.htm#fr_302) *seeing*.
+<span id="fn_300"></span>[178:1](bep07.htm#fr_302.md) *seeing*.
 
-<span id="fn_301"></span>[178:2](bep07.htm#fr_303) *their state of
+<span id="fn_301"></span>[178:2](bep07.htm#fr_303.md) *their state of
 life*.
 
-<span id="fn_302"></span>[178:3](bep07.htm#fr_304) *in the fire shall
+<span id="fn_302"></span>[178:3](bep07.htm#fr_304.md) *in the fire shall
 they burn, where there is no earth*.
 
-<span id="fn_303"></span>[179:1](bep07.htm#fr_305) *from the time they
+<span id="fn_303"></span>[179:1](bep07.htm#fr_305.md) *from the time they
 were*.
 
-<span id="fn_304"></span>[179:2](bep07.htm#fr_306) *And this have they
+<span id="fn_304"></span>[179:2](bep07.htm#fr_306.md) *And this have they
 kept*.
 
-<span id="fn_305"></span>[180:1](bep07.htm#fr_307) *of upright ways*.
+<span id="fn_305"></span>[180:1](bep07.htm#fr_307.md) *of upright ways*.
 
-<span id="fn_306"></span>[180:2](bep07.htm#fr_308) *written down for
+<span id="fn_306"></span>[180:2](bep07.htm#fr_308.md) *written down for
 them*.
 
  

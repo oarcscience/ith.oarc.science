@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs15)  [Next](mhs17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs15)  [Next](mhs17.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ if required.
 ------------------------------------------------------------------------
 
 [Next: XIV. The Position Of The Horse-shoe As A Protector Of
-Buildings](mhs17)
+Buildings](mhs17.md)

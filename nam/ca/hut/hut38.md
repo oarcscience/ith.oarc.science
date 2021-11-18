@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut37)  [Next](hut39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut37)  [Next](hut39.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXXV.
 
-### Formula of Medicine to Cause the Infant to Grow Strong. <span id="fr_79"></span>[1](#fn_79)
+### Formula of Medicine to Cause the Infant to Grow Strong. <span id="fr_79"></span>[1](#fn_79.md)
 
 <span id="page_291">p. 291</span>
 
@@ -52,10 +52,10 @@ the one who did this way there.' She will sit the way I sit."
 
 ### Footnotes
 
-<span id="fn_79"></span>[288:1](hut38.htm#fr_79) Told at Hupa, December
+<span id="fn_79"></span>[288:1](hut38.htm#fr_79.md) Told at Hupa, December
 1901, by Emma Lewis.
 
 ------------------------------------------------------------------------
 
 [Next: XXXVI. Formula of Medicine to Insure Long Life for an
-Infant](hut39)
+Infant](hut39.md)

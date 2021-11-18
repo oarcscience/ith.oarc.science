@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXIV) 
-[Previous](satl113)  [Next](satl115) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXIV.md) 
+[Previous](satl113)  [Next](satl115.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ crudelitatem in auxilium. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CXV](satl115)
+[Next: CXV](satl115.md)

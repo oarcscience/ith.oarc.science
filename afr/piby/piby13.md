@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby12)  [Next](piby14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby12)  [Next](piby14.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ Ghost for ever and ever. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9. The Word of the Lord](piby14)
+[Next: Chapter 9. The Word of the Lord](piby14.md)

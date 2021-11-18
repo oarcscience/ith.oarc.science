@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr34) 
-[Next](idr36) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr34.md) 
+[Next](idr36.md) 
 
 ------------------------------------------------------------------------
 
@@ -339,4 +339,4 @@ Edinburgh, and London have specimens of ogham writing.
 
 ------------------------------------------------------------------------
 
-[Next: The Lia Fail, or the Stone of Destiny](idr36)
+[Next: The Lia Fail, or the Stone of Destiny](idr36.md)

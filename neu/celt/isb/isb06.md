@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb05)  [Next](isb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb05)  [Next](isb07.md) 
 
 ------------------------------------------------------------------------
 
@@ -319,4 +319,4 @@ prussic-acid to any one who may have a wish to go out of the world.
 
 ------------------------------------------------------------------------
 
-[Next: Cork](isb07)
+[Next: Cork](isb07.md)

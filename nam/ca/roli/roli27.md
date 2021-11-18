@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli26)  [Next](roli28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli26)  [Next](roli28.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ songs of Munival to tell how they traveled from Temecula to Rincon,
 where they now live as the Calacs.
 
 The people from Temecula called themselves Exvayum. <span
-id="fr_311"></span>[295](#fn_305) Temecula was ruined after Ouiot died,
+id="fr_311"></span>[295](#fn_305.md) Temecula was ruined after Ouiot died,
 so they scattered in groups. The Diegueños went off with a separate
 language when they left Temecula.
 
@@ -69,9 +69,9 @@ most important ones could lead the ceremonies.
 
 ### Footnotes
 
-<span id="fn_305"></span>[161:295](roli27.htm#fr_311) Exvayam (x German
+<span id="fn_305"></span>[161:295](roli27.htm#fr_311.md) Exvayam (x German
 ch), people of Exva, a place near Temecula.—S.
 
 ------------------------------------------------------------------------
 
-[Next: Star Lore And Calendar](roli28)
+[Next: Star Lore And Calendar](roli28.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain20)  [Next](ain22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain20)  [Next](ain22.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ a general spree.
 A sort of large worm (larva) was also gathered in large quantities,
 boiled and eaten with salt.
 
-The confusion in the Pima [thought](errata.htm#17) on religious matters
+The confusion in the Pima [thought](errata.htm#17.md) on religious matters
 is well revealed in this tale, in which Ee-ee-toy, who may be regarded
 as a god, frankly admits that in some matters an old woman may be wiser
 and more powerful than he. Nothing appears to have been very clearly
@@ -67,4 +67,4 @@ anything.
 
 ------------------------------------------------------------------------
 
-[Next: How Nooee Killed Ee-Ee-Toy](ain22)
+[Next: How Nooee Killed Ee-Ee-Toy](ain22.md)

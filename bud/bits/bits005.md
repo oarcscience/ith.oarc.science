@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits004) [Next](bits006)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits004) [Next](bits006.md)
 
 ------------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ the duties of a monk.
    And after the Great Being had achieved the absolute and supreme
 wisdom, Nâlaka came to him, and had him prescribe the Nâlaka course of
 conduct.<span id="page_51_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_51_note_1) Then, returning to the
+class="small">1</span></sup>](#page_51_note_1.md) Then, returning to the
 Himalaya Mountains, he attained to saintship, and adopted that excellent
 course. And keeping alive for seven months more, and being at the time
 near a certain Gold Hill, he passed out of existence by that final
@@ -169,7 +169,7 @@ They from the magic books disclosed his fortune."<br />
 
 These eight Brahmans were the fortune-tellers, being the same<span
 id="page_51_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_51_note_2) who had interpreted the
+class="small">2</span></sup>](#page_51_note_2.md) who had interpreted the
 dream of the night of the
 
 |                                 |                                                 |
@@ -355,7 +355,7 @@ doubted him no longer.
 
 ------------------------------------------------------------------------
 
-[Next: § 6. The Great Retirement](bits006)
+[Next: § 6. The Great Retirement](bits006.md)
 
 ------------------------------------------------------------------------
 
@@ -363,12 +363,12 @@ doubted him no longer.
 
 <span id="footnotes_page_51">p. 51</span>
 
-<span id="page_51_note_1"></span>[1](#page_51_fr_1) The Nâlaka course of
+<span id="page_51_note_1"></span>[1](#page_51_fr_1.md) The Nâlaka course of
 conduct is given in the Nâlaka Sutta of the Sutta-Nipâta, and consists
 of a number of precepts for leading the holy life.
 
-<span id="page_51_note_2"></span>[2](#page_51_fr_2) See [p.
-43](bits004.htm#page_43). They presumably were the spokesmen for the
+<span id="page_51_note_2"></span>[2](#page_51_fr_2.md) See [p.
+43](bits004.htm#page_43.md). They presumably were the spokesmen for the
 sixty-four, as here for the one hundred and eight.
 
  

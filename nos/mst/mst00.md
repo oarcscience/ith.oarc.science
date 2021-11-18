@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Next](mst01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Next](mst01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ left intact in all copies.
 
 <span id="img_front"></span> <span align="CENTER"> [![Frontispiece of
 the edition printed in Amsterdam in 1668.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece of the edition printed in Amsterdam in 1668.  
 </span>
 
@@ -53,4 +53,4 @@ BOOK BE WRITTEN
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mst01)
+[Next: Contents](mst01.md)

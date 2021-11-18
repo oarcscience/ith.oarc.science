@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc07)  [Next](blc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc07)  [Next](blc09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -12,10 +12,10 @@ at Intangible Textual Heritage
 
 ## The Seven Tablets of Creation.--Translation.
 
-### FIRST TABLET. <span id="fr_21"></span>[22](blc17.htm#fn_21)
+### FIRST TABLET. <span id="fr_21"></span>[22](blc17.htm#fn_21.md)
 
 1\. When the heavens above were yet unnamed, <span
-id="fr_22"></span>[23](blc17.htm#fn_22)
+id="fr_22"></span>[23](blc17.htm#fn_22.md)
 
 2\. And the name of the earth beneath had not been recorded,
 
@@ -32,7 +32,7 @@ id="fr_22"></span>[23](blc17.htm#fn_22)
 <span id="img_018"></span> <span align="CENTER"> [![Portion of a tablet
 inscribed in Assyrian with a text of the First Tablet of the Creation
 Series. \[K. 5419C.\]](tn/018.png)  
-Click to enlarge](img/018.png)  
+Click to enlarge](img/018.png.md)  
 Portion of a tablet inscribed in Assyrian with a text of the First
 Tablet of the Creation Series. \[K. 5419C.\]  
 </span>
@@ -109,7 +109,7 @@ him.
 41\. Tiâmat on hearing this
 
 42\. Was stirred up to wrath and shrieked to her husband, <span
-id="fr_23"></span>[24](blc17.htm#fn_23)
+id="fr_23"></span>[24](blc17.htm#fn_23.md)
 
 43\. ... unto sickness. She raged all alone,
 
@@ -178,9 +178,9 @@ without ceasing.
 111\. They offered battle, fuming and raging.
 
 112\. They set the battle in array, they uttered cries <span
-id="fr_24"></span>[25](blc17.htm#fn_24) of hostility,
+id="fr_24"></span>[25](blc17.htm#fn_24.md) of hostility,
 
-113\. Ummu-Khubur, <span id="fr_25"></span>[26](blc17.htm#fn_25) who
+113\. Ummu-Khubur, <span id="fr_25"></span>[26](blc17.htm#fn_25.md) who
 fashioned all things,
 
 114\. Set up the unrivalled weapon, she spawned huge serpents,
@@ -207,7 +207,7 @@ attack,
 123\. The mighty Storm-wind, the Fish-man, the horned Beast (Capricorn?)
 
 124\. They carried the Weapon <span
-id="fr_26"></span>[27](blc17.htm#fn_26) which spared not, nor flinched
+id="fr_26"></span>[27](blc17.htm#fn_26.md) which spared not, nor flinched
 from the battle.
 
 125\. Most mighty were Tiâmat's decrees, they could not be resisted,
@@ -250,11 +250,11 @@ forth from thy mouth shall be established."
 140\. He fixed the destinies for the gods his sons,
 
 141\. Open your mouths, let the Fire-god <span
-id="fr_27"></span>[28](blc17.htm#fn_27) be quenched,
+id="fr_27"></span>[28](blc17.htm#fn_27.md) be quenched,
 
 142\. He who is glorious in battle and is most mighty, shall do great
 deeds.
 
 ------------------------------------------------------------------------
 
-[Next: Second Tablet](blc09)
+[Next: Second Tablet](blc09.md)

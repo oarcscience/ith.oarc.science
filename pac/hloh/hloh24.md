@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh23)  [Next](hloh25) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh23)  [Next](hloh25.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,4 +227,4 @@ district of Koolau, on the island Oahu.
 
 ------------------------------------------------------------------------
 
-[Next: XXI. Pikoi the Rat-killer](hloh25)
+[Next: XXI. Pikoi the Rat-killer](hloh25.md)

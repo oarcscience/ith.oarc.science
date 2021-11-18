@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Hebrews](heb)  [1 Peter](pe1)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Hebrews](heb)  [1 Peter](pe1.md)
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@
 
 ------------------------------------------------------------------------
 
-[James 1](jam001)  
+[James 1](jam001.md)  
 
-[James 2](jam002)  
+[James 2](jam002.md)  
 
-[James 3](jam003)  
+[James 3](jam003.md)  
 
-[James 4](jam004)  
+[James 4](jam004.md)  
 
-[James 5](jam005)  
+[James 5](jam005.md)  

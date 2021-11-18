@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws13)  [Next](cws15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws13)  [Next](cws15.md) 
 
 ------------------------------------------------------------------------
 
 ### No. X
 
-#### CONCERNING THE PROPHECY OF THE VISION OF NEBUCHADNEZZAR <span id="fr_64"></span>[2](#fn_64)
+#### CONCERNING THE PROPHECY OF THE VISION OF NEBUCHADNEZZAR <span id="fr_64"></span>[2](#fn_64.md)
 
 THE King Nebuchadnezzar is mystically identical with king Assuerus, in
 that each alike denotes the spirit of the latter age, that, namely, of
@@ -60,9 +60,9 @@ which are of the intuition, shall usher in the kingdom of God, and the
 
 ### Footnotes
 
-<span id="fn_64"></span>[22:2](cws14.htm#fr_64) London, February 22,
+<span id="fn_64"></span>[22:2](cws14.htm#fr_64.md) London, February 22,
 1881. Received in sleep.
 
 ------------------------------------------------------------------------
 
-[Next: No. XI: Concerning The Prophecy Of The Time Of The End](cws15)
+[Next: No. XI: Concerning The Prophecy Of The Time Of The End](cws15.md)

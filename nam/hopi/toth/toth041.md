@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth040)  [Next](toth042) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth040)  [Next](toth042.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 38. THE MAIDEN WHO STOLE THE YOUTH'S COSTUME. <span id="fr_99"></span>[1](#fn_97)
+## 38. THE MAIDEN WHO STOLE THE YOUTH'S COSTUME. <span id="fr_99"></span>[1](#fn_97.md)
 
 Halíksai! A long time ago the people were living in Shupaúlavi. In the
 north-east corner of the village lived a maiden, and in another part of
@@ -131,10 +131,10 @@ me. Now since she has given your costume back to us, do not go again,"
 
 ### Footnotes
 
-<span id="fn_97"></span>[141:1](toth041.htm#fr_99) Told by Sik'áhpik'i
+<span id="fn_97"></span>[141:1](toth041.htm#fr_99.md) Told by Sik'áhpik'i
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
 [Next: 39. The Two Pueblo Maidens Who Were Married to the
-Night](toth042)
+Night](toth042.md)

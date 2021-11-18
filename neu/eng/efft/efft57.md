@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft56)  [Next](efft58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft56)  [Next](efft58.md) 
 
 ------------------------------------------------------------------------
 
-# A CLERGYMAN'S GHOST.  <span id="fr_65"></span>[1](#fn_65)
+# A CLERGYMAN'S GHOST.  <span id="fr_65"></span>[1](#fn_65.md)
 
 IN the south of Devon, some eighteen or twenty years ago, a reverend
 gentleman, of large landed property, held a small benefice in his
@@ -35,10 +35,10 @@ immediate knowledge of the writer of this anecdote.
 
 ### Footnotes
 
-<span id="fn_65"></span>[1](efft57.htm#fr_65) *Athenaeum*, 7th November
+<span id="fn_65"></span>[1](efft57.htm#fr_65.md) *Athenaeum*, 7th November
 1846, p. 1142, quoted by Jabez Allies, *On the Antiquities and Folk-Lore
 of Worcestershire*, p 464.
 
 ------------------------------------------------------------------------
 
-[Next: The Haunted House](efft58)
+[Next: The Haunted House](efft58.md)

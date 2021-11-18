@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg07) [Next](aflg09)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg07) [Next](aflg09.md)
 
 ------------------------------------------------------------------------
 
@@ -7,35 +7,35 @@ American](../index) [Index](index) [Previous](aflg07) [Next](aflg09)
 
 ## C<span class="small">HAPTER</span> VIII THE SPIRITS OF THE BUSH <span class="small">NATURAL HISTORY</span>
 
-   <span class="small">Various names applied (*[94](#pp_94)*); the
-Yàwahu—Tukuyuha, Dai-dai, etc., general appearance (*[95](#pp_95)*), and
-special association with the silk-cotton tree (*[96](#pp_96)*); Ekkekuli
-and Mansinskiri (*[97](#pp_97)*); an unusual form of Bush Spirit
-(*[98](#pp_98)*); the Hebu (*[99](#pp_99)*); the Immawari
-(*[100](#pp_100)*); the Yurokon, etc. (*[101](#pp_101)*). But Bush
+   <span class="small">Various names applied (*[94](#pp_94)*.md); the
+Yàwahu—Tukuyuha, Dai-dai, etc., general appearance (*[95](#pp_95)*.md), and
+special association with the silk-cotton tree (*[96](#pp_96)*.md); Ekkekuli
+and Mansinskiri (*[97](#pp_97)*.md); an unusual form of Bush Spirit
+(*[98](#pp_98)*); the Hebu (*[99](#pp_99)*.md); the Immawari
+(*[100](#pp_100)*); the Yurokon, etc. (*[101](#pp_101)*.md). But Bush
 Spirits may be zoomorphic—able to change into animals, as Tigers,
-Goat-suckers (*[102](#pp_102), [103](#pp_103)*). They can be recognized
-by Sound (*[104](#pp_104)*) or by Smell (*[105](#pp_105)*).  
+Goat-suckers (*[102](#pp_102), [103](#pp_103)*.md). They can be recognized
+by Sound (*[104](#pp_104)*) or by Smell (*[105](#pp_105)*.md).  
    They are very shrewd; can bring the dead to life, and render
-themselves invisible (*[106](#pp_106)*); may occasionally do kindnesses
-to people (*[107](#pp_107)*), but generally prefer mischief, though this
-may be due to the Indians' own fault (*[108](#pp_108)*); they cause all
-the mishaps and accidents of daily life (*[109](#pp_109)*)—damage crops,
+themselves invisible (*[106](#pp_106)*.md); may occasionally do kindnesses
+to people (*[107](#pp_107)*.md), but generally prefer mischief, though this
+may be due to the Indians' own fault (*[108](#pp_108)*.md); they cause all
+the mishaps and accidents of daily life (*[109](#pp_109)*.md)—damage crops,
 raise disputes, bring death and sickness, produce transformations
-(*[110](#pp_110)-115*); they are excellent hunters (*[116](#pp_116)*).  
+(*[110](#pp_110)-115*); they are excellent hunters (*[116](#pp_116)*.md).  
    They are fond of women, human flesh, and children at the breast
-(*[117](#pp_117)-120*), and of tobacco (*[121](#pp_121)-122*); are
-usually of abnormally large size (*[123](#pp_123)*); shrink from
+(*[117](#pp_117)-120*), and of tobacco (*[121](#pp_121)-122*.md); are
+usually of abnormally large size (*[123](#pp_123)*.md); shrink from
 exposure of all descriptions; as to daylight, or in connection with name
-or origin (*[124](#pp_124)*); can not endure being mimicked or chaffed
-(*[125](#pp_125)*).  
+or origin (*[124](#pp_124)*.md); can not endure being mimicked or chaffed
+(*[125](#pp_125)*.md).  
    It is best to leave these Bush Spirits strictly to themselves, as
-they bring only harm in the long run (*[126](#pp_126)-128*); if
+they bring only harm in the long run (*[126](#pp_126)-128*.md); if
 circumstances force one into their company, measures can be taken to rid
-the house and neighborhood of them (*[129](#pp_129)*); also the road
-when one is traveling (*[130](#pp_130)*).</span>
+the house and neighborhood of them (*[129](#pp_129)*.md); also the road
+when one is traveling (*[130](#pp_130)*.md).</span>
 
-   <span id="pp_94"></span>**94.**[\*](#pp_94) Those Spirits which,
+   <span id="pp_94"></span>**94.**[\*](#pp_94.md) Those Spirits which,
 emanating from the human corpse, ultimately find a resting place in the
 tree, field, forest, or bush, are known collectively as Forest Spirits
 or Bush Spirits. But let us not forget that certain of the Bush Spirits
@@ -55,10 +55,10 @@ Curupari (ibid., 36), and Jurupari (ibid., 381), but this word is said
 to be Lingoa Geral (KG, <span class="small">I</span>, 113). It will be
 noticed how the term Yurokon, in the form of Hyorokon, Hyrouca, Yolok,
 Iolok-iamo, Iya-imi, is spread throughout the extent of the Guianas,
-while in the form of Juluca ([Sect. *216*](aflg13.htm#pp_216)) it is met
+while in the form of Juluca ([Sect. *216*](aflg13.htm#pp_216).md) it is met
 with on the islands, as the personification of the Rainbow. I have also
 <span id="page_171">p. 171</span> shown the probability of its identity
-with the Shadow Spirit ([Sect. *68*](aflg05.htm#pp_68)). Equally
+with the Shadow Spirit ([Sect. *68*](aflg05.htm#pp_68).md). Equally
 striking is its resemblance to the word Huracan, the name given by the
 Aztecs to the autumnal equinox. (Cordonazo de San Francisco). Huracan
 means the Spirit (*corazon*) of the Sea, the Spirit of Heaven and Earth:
@@ -72,7 +72,7 @@ subdivided into Konoko-(Tu)kuyuha and Adda-(Tu)kuyuha, according as they
 are more specially associated with the bush and forest, or trees,
 respectively.
 
-   <span id="pp_95"></span>**95.**[\*](#pp_95) Each tribe seems to
+   <span id="pp_95"></span>**95.**[\*](#pp_95.md) Each tribe seems to
 exhibit variations in the ideas held as to the form, shape, and
 peculiarities assumed by its respective Bush Spirits. Of some of these I
 am able to furnish the following particulars: Starting with the Arawak
@@ -84,7 +84,7 @@ live underground in the forest; they may be men or women; they are met
 with suddenly, but may often give a premonitory sign or token of their
 coming. The token varies greatly, and even when taken note of is usually
 recognized only after the event of which it has given warning has taken
-place ([Sect. *220*](aflg14.htm#pp_220) et seq.). Having no bows and
+place ([Sect. *220*](aflg14.htm#pp_220) et seq..md). Having no bows and
 arrows, these Spirits are accustomed to fight only with their limbs, so
 that when an Indian has been attacked and returns home, where he is sure
 to die shortly after, no marks will be found on his body. Sometimes the
@@ -92,14 +92,14 @@ Konoko-(Tu)kuyuha will not even allow the victim to return alive, but
 will eat him, causing him to disappear totally; the friends and
 relatives never see any further signs of him. The attack may be made at
 any time, day or night. Now, because these beings ([Sect.
-*331*](aflg18.htm#pp_331)) have no bows, or rather what bows they have
+*331*](aflg18.htm#pp_331).md) have no bows, or rather what bows they have
 are broken, the old-time Arawak people used to call them
 Shimarabu-akaradáni (*lit*., bows-broken), and when returning home from
 some hunting or trading expedition, would sing out that name before
 reaching their houses, with the view of preventing these undesirable
-Spirits making an entry ([Sect. *129*](aflg08.htm#pp_129)).
+Spirits making an entry ([Sect. *129*](aflg08.htm#pp_129).md).
 
-   <span id="pp_96"></span>**96.**[\*](#pp_96) The Adda variety of
+   <span id="pp_96"></span>**96.**[\*](#pp_96.md) The Adda variety of
 Tukuyuha Spirits, particularly associated with trees, are sometimes in
 the shape of birds: among such notable trees are the silk-cotton
 (*Bombax* sp.) and the kofa (*Clusia grandiflora*). In Cayenne it would
@@ -109,9 +109,9 @@ id="page_172">p. 172</span> which thus far I have not been able to
 identify. The Indian guide breaks his arrow and asks pardon from the
 Spirit for his European visitor having touched the timber with unclean
 victims—a fish and an agouti.<span
-id="page_172_fr_1"></span>[1](#page_172_note_1)
+id="page_172_fr_1"></span>[1](#page_172_note_1.md)
 
-   <span id="pp_97"></span>**97.**[\*](#pp_97) When perceptible to human
+   <span id="pp_97"></span>**97.**[\*](#pp_97.md) When perceptible to human
 eyes, the Ekkekuli or Manahau have the appearance of black people
 (negroes): they are of a savage nature, killing Indians, and abducting
 children. If anywhere in the neighboring caves and gullies and their
@@ -137,7 +137,7 @@ told him what had happened to her. Within the week the woman died.
  
 
 <span id="story_14"></span><span
-id="pp_97A"></span>**97A.**[\*](#pp_97A) T<span class="small">HE</span>
+id="pp_97A"></span>**97A.**[\*](#pp_97A.md) T<span class="small">HE</span>
 M<span class="small">AIHISIKIRI</span> C<span class="small">HANGES
 THE</span> W<span class="small">OMAN INTO A</span> B<span
 class="small">USH</span> S<span class="small">PIRIT</span> (W)
@@ -167,18 +167,18 @@ class="small">USH</span> S<span class="small">PIRIT</span> (W)
 > me, I am indeed sorry for you, for you will have to die before you can
 > become one."
 
-   <span id="pp_98"></span>**98.**[\*](#pp_98) An unusual form of Arawak
+   <span id="pp_98"></span>**98.**[\*](#pp_98.md) An unusual form of Arawak
 Bush Spirit is that of the scrub-turkey (*Tinamus* sp.)—a woman's leg:
 there are several references, however, to a leg in the folk-lore
-([Sects. *38*](aflg02.htm#pp_38), [*208*](aflg13.htm#pp_208),
-[*362*](aflg20.htm#pp_362)). The connection between this astral limb and
+([Sects. *38*](aflg02.htm#pp_38), [*208*](aflg13.htm#pp_208.md),
+[*362*](aflg20.htm#pp_362).md). The connection between this astral limb and
 the bird under consideration is that when the "leg" is above the horizon
 just before daybreak, then will the scrub-turkey's "call" be heard.<span
-id="page_173_fr_1"></span>[1](#page_173_note_1)
+id="page_173_fr_1"></span>[1](#page_173_note_1.md)
 
  
 
-<span id="story_15"></span>[\*](#story_15)T<span class="small">HE</span>
+<span id="story_15"></span>[\*](#story_15.md)T<span class="small">HE</span>
 M<span class="small">AN</span> W<span class="small">HO</span> A<span
 class="small">LWAYS</span> H<span class="small">UNTED</span> S<span
 class="small">CRUB</span>-T<span class="small">URKEY</span> (A)
@@ -187,7 +187,7 @@ class="small">CRUB</span>-T<span class="small">URKEY</span> (A)
 > (*Tinamus* sp.); he would regularly bring home four or five of these
 > scrub-turkeys, and people warned him that if he continued in this way
 > he would get into trouble with the maam's "mother," (*i. e.*, Spirit),
-> for killing so many or her brood ([Sect. *242*](aflg15.htm#pp_242)).
+> for killing so many or her brood ([Sect. *242*](aflg15.htm#pp_242).md).
 > But he did not care, and went on destroying the birds in the same
 > wasteful manner. On one occasion he stayed out later thau usual,
 > waiting to see on which particular trees the maams were going to
@@ -203,7 +203,7 @@ class="small">CRUB</span>-T<span class="small">URKEY</span> (A)
 > he succeeded finally in coming up with the quarry. Locating the tree,
 > he peered in among the branches to see where the bird was "hollo"-ing,
 > but could see only a woman's leg. Recognizing this to be the Arch
-> Spirit of the maams ([Sect. *210*](aflg13.htm#pp_210)), he took
+> Spirit of the maams ([Sect. *210*](aflg13.htm#pp_210).md), he took
 > careful aim, and shot an arrow right into the center of the foot. The
 > leg fell down, and directly it touched ground, changed into an
 > extraordinarily big scrub-turkey, which he immediately killed and
@@ -215,19 +215,19 @@ class="small">CRUB</span>-T<span class="small">URKEY</span> (A)
 > destroyed the maam-Spirit, he was not afraid of killing as many birds
 > as he liked.
 
-   <span id="pp_99"></span>**99.**[\*](#pp_99) The Hebus are more or
+   <span id="pp_99"></span>**99.**[\*](#pp_99.md) The Hebus are more or
 less hairy beings, recognizable in a near view by the absence of
 buttocks, their place being taken by a fire-hearth, with glowing embers,
 giving rise to the name Huta-kurakura, "Red-back," which is often
-applied to these folk ([Sects. *21*](aflg02.htm#pp_21),
-[*27*](aflg02.htm#pp_27)). Another peculiarity they possess is the
+applied to these folk ([Sects. *21*](aflg02.htm#pp_21.md),
+[*27*](aflg02.htm#pp_27).md). Another peculiarity they possess is the
 extraordinary prominence of the eye-brows (supra-orbital region), which
 prevents them having a look at the skies except when standing on their
-heads ([Sect. *22*](aflg02.htm#pp_22)). Perhaps this conception is a
+heads ([Sect. *22*](aflg02.htm#pp_22).md). Perhaps this conception is a
 survival of the custom of artificial head-compression which certainly
 used to be practised in the Guianas. As is the case with the Yurokons,
 Hebus may sometimes appear in the form of skulls or skeletons ([Sect.
-*26*](aflg02.htm#pp_26)). Like all other Forest Spirits they have strong
+*26*](aflg02.htm#pp_26).md). Like all other Forest Spirits they have strong
 patriarchal tendencies. They seem to be specially digtinguished by the
 size of their purses \[scrotums\].
 
@@ -235,7 +235,7 @@ size of their purses \[scrotums\].
 
  
 
-<span id="story_16"></span>[\*](#story_16)T<span class="small">HE</span>
+<span id="story_16"></span>[\*](#story_16.md)T<span class="small">HE</span>
 S<span class="small">HREWD</span> L<span class="small">ITTLE</span>
 B<span class="small">OY AND THE</span> H<span class="small">EBU</span>
 (W)
@@ -263,19 +263,19 @@ B<span class="small">OY AND THE</span> H<span class="small">EBU</span>
 > his little sister, carried her home But before going he called out,
 > *Kau-nassa! Kau-nassa!* So angered and dismayed was the Spirit at
 > being discovered and hearing her name called ([Sect.
-> *124*](aflg08.htm#pp_124)) that she burst into wind and flame and flew
+> *124*](aflg08.htm#pp_124).md) that she burst into wind and flame and flew
 > away.
 
-   <span id="pp_100"></span>**100.**[\*](#pp_100) Of the Immawari I can
+   <span id="pp_100"></span>**100.**[\*](#pp_100.md) Of the Immawari I can
 not get much information, there being few reliable old Akawai in my
 district: on the authority of Warraus, however, these Spirits have two
 immense teeth protruding from their stomachs. Had elephants roamed the
 country within recent geological periods, one could perhaps have
 obtained an insight into the origin of so extraordinary a belief: on the
 other hand it is possible that it may be an idea borrowed from the
-African ([Sect. *113*](aflg08.htm#pp_113)).
+African ([Sect. *113*](aflg08.htm#pp_113).md).
 
-   <span id="pp_101"></span>**101.**[\*](#pp_101) So also with the
+   <span id="pp_101"></span>**101.**[\*](#pp_101.md) So also with the
 Yurokons. All I can glean is that, in common with the other Forest
 Spirits, the face, body, and limbs are covered with a luxuriant growth
 of hair. As to the Caypor, a kind of sylvan deity similar to the
@@ -293,7 +293,7 @@ demon is a bearded dwarf: he jeers the hunters and drives away the
 quarry from right under their very noses. At times, he kills people with
 his poisoned arrows (KG, <span class="small">I</span>, 137).
 
-   <span id="pp_102"></span>**102.**[\*](#pp_102) But the Spirits of the
+   <span id="pp_102"></span>**102.**[\*](#pp_102.md) But the Spirits of the
 Forest need not necessarily be anthropomorphic. They may take the
 likeness of animals (*e. g.*, "tigers," birds), an especially favored
 feathered form being the goat-sucker <span id="page_175">p. 175</span>
@@ -332,15 +332,15 @@ negro's or Indian's hut, from that night misfortune sits brooding over
 it; and they await the event in terrible suspense" (W, 177). Reference
 has already been made to the "souls" of people departed being changed
 into goat-suckers in the cavern of Guacharo ([Sect.
-*82*](aflg05.htm#pp_82)).
+*82*](aflg05.htm#pp_82).md).
 
-   <span id="pp_103"></span>**103.**[\*](#pp_103) The following legend,
+   <span id="pp_103"></span>**103.**[\*](#pp_103.md) The following legend,
 current among both Caribs and Arawaks is of special interest in that the
 bird in question is derived from the head of the Spirit itself:
 
  
 
-<span id="story_17"></span>[\*](#story_17)T<span class="small">HE</span>
+<span id="story_17"></span>[\*](#story_17.md)T<span class="small">HE</span>
 S<span class="small">PIRIT'S</span> B<span class="small">RAIN AND
 THE</span> G<span class="small">OAT</span>-S<span
 class="small">UCKER</span> (A)
@@ -355,14 +355,14 @@ class="small">UCKER</span> (A)
 > appearance, and seeing the man in this guise, and not knowing what it
 > was, could not help exelaiming, "What a fine smooth head you have! How
 > did you manage to get it?"<span
-> id="page_176_fr_1"></span>[1](#page_176_note_1) The man told him that
+> id="page_176_fr_1"></span>[1](#page_176_note_1.md) The man told him that
 > he had just taken a knife and cut his head all the way round, and that
 > if he wished he would gladly do the same for him. The Spirit was
 > delighted, and allowed the skin all round his head to be cut, and
 > peppers to be rubbed over the raw surface to make it heal the quicker;
 > the latter process, however, caused him to groan in pain, but by this
 > time the huntsman had quietly slipped out of sight.<span
-> id="page_176_fr_2"></span>[2](#page_176_note_2) A long time afterward,
+> id="page_176_fr_2"></span>[2](#page_176_note_2.md) A long time afterward,
 > many years in fact, the same man, going out into the bush close to the
 > neighborhood where the above event had occurred, met the same
 > Konoko-kuyuha, whom he recognized by the peppers on his head, which
@@ -390,9 +390,9 @@ class="small">UCKER</span> (A)
 > always dread these birds, and leave them severely alone; they come
 > from the Spirits of the Bush, and give us warning of evil—a token that
 > we may expect trouble of various sorts.<span
-> id="page_176_fr_3"></span>[3](#page_176_note_3)
+> id="page_176_fr_3"></span>[3](#page_176_note_3.md)
 
-   <span id="pp_104"></span>**104.**[\*](#pp_104) Speaking generally,
+   <span id="pp_104"></span>**104.**[\*](#pp_104.md) Speaking generally,
 the Spirits of the Forest can be recognized, even when invisible, by
 means of the whistling sound which they make. "The first night after
 leaving Peaimah \[Mazaruni River\] we heard a long, loud, and most
@@ -401,7 +401,7 @@ forest, at which some of the men exclaimed, in an awed tone of voice,
 'The Didi' \[Dai-dai\]. Two or three times the whistle was repeated,
 sounding like that made by a human being, beginning in a high key, and
 dying slowly and gradually away in a low one" (Bro, 87). But instead of
-a whistle ([Sect. *118*](aflg08.htm#pp_118)) they may indicate their
+a whistle ([Sect. *118*](aflg08.htm#pp_118).md) they may indicate their
 presence by a noise somewhat like the neighing of a horse, in places
 where horses are known not to exist. <span id="page_177">p. 177</span>
 They are then described as Kawaiho-Kuyuha, evidently so called from the
@@ -409,7 +409,7 @@ corrupted Spanish form *caballo*, and with anthropophagous tastes have
 unconquerable attraction toward infant at the breast and women encientes
 (Da, 183). The Hebus, after dark, make sudden sharp noises like the
 sounds caused by the breaking of branches: as stated elsewhere ([Sect.
-*19*](aflg02.htm#pp_19)), "You can always distinguish a Spirit's road
+*19*](aflg02.htm#pp_19).md), "You can always distinguish a Spirit's road
 from any other pathway in the forest, because the Hebus occupying the
 trees that lie alongside it are always, especially at night, striking
 the branches and trunks, and so producing sharp crackling noises." Of
@@ -427,9 +427,9 @@ get him to go alone, and whenever he heard any of the strange noises
 mentioned above \[due to the Curupira\] he used to tremble with fear"
 (HWB, 36). Dance (262) writes on this same subject of what the duties of
 a traveler are, and how the influences of evil Bush Spirits may be
-avoided ([Sect. *128*](aflg08.htm#pp_128)).
+avoided ([Sect. *128*](aflg08.htm#pp_128).md).
 
-   <span id="pp_105"></span>**105.**[\*](#pp_105) Bush Spirits may also
+   <span id="pp_105"></span>**105.**[\*](#pp_105.md) Bush Spirits may also
 be recognized through the sense of smell. "When the Island Caribs smell
 something offensive in a place, they will say 'The Evil Spirit (Maboya)
 is here: let us therefore go away.' . . . They also give the name of
@@ -437,14 +437,14 @@ Maboya to certain plants, to toadstools, of a bad odor, and to
 eyerything that is capable of imparting dread to them" (RoP, 464). The
 Pomeroon Arawaks have the same idea.
 
-   <span id="pp_106"></span>**106.**[\*](#pp_106) Bush Spirits are
+   <span id="pp_106"></span>**106.**[\*](#pp_106.md) Bush Spirits are
 certainly very clever people; nothing comes amiss to them, and they can
 even bring the dead to life. They may render themselves invisible
-([Sect. *119*](aflg08.htm#pp_119)).
+([Sect. *119*](aflg08.htm#pp_119).md).
 
  
 
-<span id="story_18"></span>[\*](#story_18)T<span class="small">HE</span>
+<span id="story_18"></span>[\*](#story_18.md)T<span class="small">HE</span>
 M<span class="small">UTILATED</span> H<span class="small">USBAND
 IS</span> M<span class="small">ADE</span> W<span
 class="small">HOLE</span> (W)
@@ -509,10 +509,10 @@ class="small">HOLE</span> (W)
 > and relatives tried to piece the bits together and "make them alive,"
 > but this they could not do. It is only Spirits who can do such things.
 
-   <span id="pp_107"></span>**107.**[\*](#pp_107) Certain of the Forest
+   <span id="pp_107"></span>**107.**[\*](#pp_107.md) Certain of the Forest
 Spirits have come from the bodies of old-time medicine-men: the
 present-day celebrant invokes them with his rattle ([Sect.
-*309*](aflg17.htm#pp_309)). Such Spirits may be considered beneficent in
+*309*](aflg17.htm#pp_309).md). Such Spirits may be considered beneficent in
 the sense of assisting the piai by giving him information concerning the
 source of the illness from which his patient is suffering, and in other
 ways. Evidently others have been kindly disposed occasionally in that
@@ -525,7 +525,7 @@ Sometimes these Spirits do positive good, as in <span id="page_179">p.
 179</span> the Jurupari festival, whereby sicknesses can be dispelled,
 and large wounds healed (KG, <span class="small">I</span>, 320).
 
-   <span id="pp_108"></span>**108.**[\*](#pp_108) Sufficient has already
+   <span id="pp_108"></span>**108.**[\*](#pp_108.md) Sufficient has already
 been said to indicate that the Spirits of the Forest may have their good
 points as well as bad; they may indeed have in their nature more of the
 imp than the rogue. They have not always borne bad reputations, but the
@@ -535,11 +535,11 @@ for the introduction of pain, misery, and death.
 
  
 
-<span id="story_19"></span>[\*](#story_19)H<span class="small">OW</span>
+<span id="story_19"></span>[\*](#story_19.md)H<span class="small">OW</span>
 P<span class="small">AIN,</span> M<span class="small">ISERY, AND</span>
 D<span class="small">EATH</span> C<span class="small">AME INTO
 THE</span> W<span class="small">ORLD</span> (C)<span
-id="page_179_fr_1"></span>[1](#page_179_note_1)
+id="page_179_fr_1"></span>[1](#page_179_note_1.md)
 
 >    In the olden times, there was no contention, all were happy, and no
 > one became sick or died. It was then that the Yurokons used to come
@@ -583,9 +583,9 @@ id="page_179_fr_1"></span>[1](#page_179_note_1)
 > even more offensive. And she asked them the same question a third
 > time, but on this occasion they told her that she had gone to dig
 > sweet potatoes. As soon as they mentioned the word "potatoes," Yurokon
-> disappeared.<span id="page_179_fr_2"></span>[2](#page_179_note_2)
+> disappeared.<span id="page_179_fr_2"></span>[2](#page_179_note_2.md)
 
-   <span id="pp_109"></span>**109.**[\*](#pp_109) The general tendency
+   <span id="pp_109"></span>**109.**[\*](#pp_109.md) The general tendency
 of these Spirits, however, is to do bad, the degree of wickedness of
 which they can be guilty varying with <span id="page_180">p. 180</span>
 circumstances and locality. Such a Spirit for instance may "be believed
@@ -598,7 +598,7 @@ following Warrau story is illustrative of this belief.
 
  
 
-<span id="story_20"></span>[\*](#story_20)W<span class="small">HY
+<span id="story_20"></span>[\*](#story_20.md)W<span class="small">HY
 THE</span> D<span class="small">RINK</span> T<span
 class="small">URNED</span> S<span class="small">OUR</span>
 
@@ -650,7 +650,7 @@ class="small">URNED</span> S<span class="small">OUR</span>
 The Caribs, however, know how to circumvent the latter, by making a
 string puzzle, which is left on the pathway: the object of this puzzle
 consists in removing, without cutting or breaking, an endless string
-from off two sticks upon which it has been placed (see [fig. 1](#p180)).
+from off two sticks upon which it has been placed (see [fig. 1](#p180).md).
 The Spirit coming along sees the puzzle, starts examining it, and tries
 to get the string off: indeed, so engrossed with it does he become, that
 he forgets all about the wanderer, who is now free to find the <span
@@ -659,9 +659,9 @@ interesting to note that Bates speaks of his Indian boy, on the lower
 Amazon, making a charm to protect them from the Curupari: "For this
 purpose he took a young palm-leaf, plaited it, and formed it into a ring
 which he hung to a branch on our track" (HWB, 35).<span
-id="page_181_fr_1"></span>[1](#page_181_note_1)
+id="page_181_fr_1"></span>[1](#page_181_note_1.md)
 
-   <span id="pp_110"></span>**110.**[\*](#pp_110) On the Orinoco, the
+   <span id="pp_110"></span>**110.**[\*](#pp_110.md) On the Orinoco, the
 Mapoyes blamed the Spirits of the Forest for damage to their fields, the
 Guayquiries held them responsible for all their strifes and disputes,
 the Guamos ascribed sickness to their occult powers, while the Betoyes
@@ -677,7 +677,7 @@ the following:
 
  
 
-<span id="story_21"></span>[\*](#story_21)W<span class="small">HY</span>
+<span id="story_21"></span>[\*](#story_21.md)W<span class="small">HY</span>
 C<span class="small">HILDREN</span> B<span class="small">ECOME</span>
 S<span class="small">ICK AND</span> C<span class="small">RY</span> (C)
 
@@ -699,7 +699,7 @@ S<span class="small">ICK AND</span> C<span class="small">RY</span> (C)
 > as that Indian shot my boy, so will my husband shoot his people's
 > children, and make them cry without any one knowing the reason."
 
-   <span id="pp_111"></span>**111.**[\*](#pp_111) In Cayenne, it is
+   <span id="pp_111"></span>**111.**[\*](#pp_111.md) In Cayenne, it is
 Hyorokon, the Bush Spirit, who strangles some, corrupts the blood of
 others, covers this one with ulcers, and that one inflicts with
 jaundice. The same Indians believe also in a Spirit called Chinay \[thus
@@ -716,9 +716,9 @@ the fate of their child <span id="page_182">p. 182</span> (DA, 290). So
 again, because sickness is regarded chiefly as due to Spirits, the
 method of cure is therefore mainly directed to driving them out by means
 of presents, through the agency of the piai, etc.<span
-id="page_182_fr_1"></span>[1](#page_182_note_1)
+id="page_182_fr_1"></span>[1](#page_182_note_1.md)
 
-   <span id="pp_112"></span>**112.**[\*](#pp_112) Death, sickness, and
+   <span id="pp_112"></span>**112.**[\*](#pp_112.md) Death, sickness, and
 other calamities may be inflicted by the Spirits upon mankind, not only
 out of pure malevolence, but also by way of punishment for
 transgressions committed against the recognized rules of law and order
@@ -729,7 +729,7 @@ and Arawaks illustrate these points pretty clearly.
 
  
 
-<span id="story_22"></span>[\*](#story_22)T<span class="small">HE</span>
+<span id="story_22"></span>[\*](#story_22.md)T<span class="small">HE</span>
 W<span class="small">OMAN</span> K<span class="small">ILLED BY</span>
 H<span class="small">ER</span> H<span class="small">USBAND'S</span>
 S<span class="small">PIRIT</span> (W)
@@ -787,7 +787,7 @@ S<span class="small">PIRIT</span> (W)
  
 
 <span id="story_23"></span><span
-id="pp_112A"></span>**112A.**[\*](#pp_112A) T<span
+id="pp_112A"></span>**112A.**[\*](#pp_112A.md) T<span
 class="small">HE</span> R<span class="small">ESULT OF</span> S<span
 class="small">TEALING</span> O<span class="small">THER</span> P<span
 class="small">EOPLE'S</span> P<span class="small">ROPERTY</span> (W)
@@ -826,7 +826,7 @@ class="small">EOPLE'S</span> P<span class="small">ROPERTY</span> (W)
 > possessed such little girls grieved sorely, and said: "We have little
 > girls at home, and as yet we have never had anything to do with them.
 > Alas! Alas! If we had only made women of them before this trouble fell
-> on us."<span id="page_183_fr_1"></span>[1](#page_183_note_1) So as to
+> on us."<span id="page_183_fr_1"></span>[1](#page_183_note_1.md) So as to
 > get home again, the blind ones told their uninjured mates to loosen
 > the strings from all their bows and tie their ends together so as to
 > make one long string of them. The eighteen held on to this string, and
@@ -849,7 +849,7 @@ class="small">EOPLE'S</span> P<span class="small">ROPERTY</span> (W)
  
 
 <span id="story_24"></span><span
-id="pp_113"></span>**113.**[\*](#pp_113) T<span class="small">HE</span>
+id="pp_113"></span>**113.**[\*](#pp_113.md) T<span class="small">HE</span>
 M<span class="small">AN</span> C<span class="small">HANGED INTO A</span>
 B<span class="small">EAST</span> (W)
 
@@ -887,20 +887,20 @@ B<span class="small">EAST</span> (W)
 > he put in an appearance. At last the latter came out into the clearing
 > and they shot him. It was lucky they did so, because he was already
 > changed into a beast from the neck downward, with two big teeth on his
-> belly ([Sect. *100*](aflg08.htm#pp_100)). Had he kept quiet when his
+> belly ([Sect. *100*](aflg08.htm#pp_100).md). Had he kept quiet when his
 > brother warned him, all this trouble would not have happened.
 
  
 
 <span id="story_25"></span><span
-id="pp_114"></span>**114.**[\*](#pp_114) T<span class="small">HE</span>
+id="pp_114"></span>**114.**[\*](#pp_114.md) T<span class="small">HE</span>
 M<span class="small">AN WHO</span> D<span class="small">INED</span>
 A<span class="small">FTER</span> D<span class="small">ARK</span> (A)
 
 >    \[*Note*.—It would appear that in the olden times, it was strictly
 > "taboo" for anyone to take a meal after nightfall, though the true
 > reasons for such a restriction are seemingly not now obtainable.
-> ([Sect. *246*](aflg15.htm#pp_246).) The certain punishment for
+> ([Sect. *246*](aflg15.htm#pp_246)..md) The certain punishment for
 > infringement of this taboo was the transformation of the offender into
 > some bird or beast. The following legend bears on this belief.\]
 >
@@ -940,7 +940,7 @@ A<span class="small">FTER</span> D<span class="small">ARK</span> (A)
  
 
 <span id="story_26"></span><span
-id="pp_115"></span>**115.**[\*](#pp_115) H<span class="small">OW
+id="pp_115"></span>**115.**[\*](#pp_115.md) H<span class="small">OW
 THE</span> H<span class="small">AIMARA</span> C<span class="small">AME
 TO</span> H<span class="small">AVE</span> S<span
 class="small">UCH</span> F<span class="small">INE</span> B<span
@@ -953,7 +953,7 @@ class="small">IG</span> E<span class="small">YES</span> (A)
 > face, body, and limbs covered with thick hair. He asked the Spirit
 > what it was doing, but the only word it deigned to answer was *bako*,
 > the shortened form of *bako-ké*.<span
-> id="page_185_fr_1"></span>[1](#page_185_note_1) At any rate, when he
+> id="page_185_fr_1"></span>[1](#page_185_note_1.md) At any rate, when he
 > reached home, he related his experiences to his family and friends,
 > and advised them strongly not to go to sleep that night, because *It*,
 > whatever it was, might pay them a surprise visit after nightfall; all
@@ -991,7 +991,7 @@ class="small">IG</span> E<span class="small">YES</span> (A)
 > other fish to play about with perfect freedom in the water, where they
 > have since remained. They were punished for their unbelief.
 
-   <span id="pp_116"></span>**116.**[\*](#pp_116) Bush Spirits are
+   <span id="pp_116"></span>**116.**[\*](#pp_116.md) Bush Spirits are
 excellent hunters, and some of them even know how to employ the rattle,
 just like a medicine-man.
 
@@ -999,7 +999,7 @@ just like a medicine-man.
 
  
 
-<span id="story_27"></span>[\*](#story_27)T<span class="small">HE</span>
+<span id="story_27"></span>[\*](#story_27.md)T<span class="small">HE</span>
 W<span class="small">RONG</span> R<span class="small">ATTLE, THE</span>
 B<span class="small">USH-HOG, AND THE</span> B<span
 class="small">ABY</span> (W)
@@ -1011,12 +1011,12 @@ class="small">ABY</span> (W)
 > they strolled along, a peculiar sort of cry. It was really Siwara, the
 > Hebu (Bush Spirit), intentionally misleading them by imitating the
 > call of the oto, a bird bigger than the Baridi hawk. So they
-> challenged it in the usual way ([Sect. *130*](aflg08.htm#pp_130)),
+> challenged it in the usual way ([Sect. *130*](aflg08.htm#pp_130).md),
 > shouting, "Don't cry, but show yourself, or kill something for us."
 > They saw nothing, and they heard nothing further. However, after
 > reaching home, and resting awhile, a young man approached the house,
 > and greeting them with "Good-day, Cousins!" he entered.<span
-> id="page_186_fr_1"></span>[1](#page_186_note_1) "Where are your
+> id="page_186_fr_1"></span>[1](#page_186_note_1.md) "Where are your
 > parents?" was the next inquiry of the stranger, who of course was no
 > other than Siwara, he having put in an appearance in obedience to the
 > challenge to show himself. And the girls, telling him that they were
@@ -1036,11 +1036,11 @@ class="small">ABY</span> (W)
 > him." By and by, the powis was cooked and eaten, and as the old father
 > was chewing the portion he had just picked out of the pot, he came
 > across a piece of arrow in it, a kokerite one.<span
-> id="page_186_fr_2"></span>[2](#page_186_note_2) Turning to his
+> id="page_186_fr_2"></span>[2](#page_186_note_2.md) Turning to his
 > daughters, he inquired of them: "If an oto killed the bird, how did
 > this kokerite arrow get in?" and they had to admit that the powis had
 > been brought to them by their "uncle."<span
-> id="page_186_fr_3"></span>[3](#page_186_note_3) "Then why did you not
+> id="page_186_fr_3"></span>[3](#page_186_note_3.md) "Then why did you not
 > tell me so at first?" he rejoined. "Why did you not let me know that
 > he had visited you while your mother and I were away? Go straight away
 > now, and call him in!" So they went outside and shouted, *Daku! Daku!*
@@ -1072,12 +1072,12 @@ class="small">ABY</span> (W)
 > of her family's possessions, and removed his own property, which he
 > had hitherto kept in the bush, into his father-in-law's house, which
 > henceforth became his own hearth and home.<span
-> id="page_187_fr_1"></span>[1](#page_187_note_1) Among the property
+> id="page_187_fr_1"></span>[1](#page_187_note_1.md) Among the property
 > which he brought with him to his new home were four rattles used for
 > bush-hog only. There are two kinds of hog, the timid (*eburi*) and the
 > very savage (*eburi-oriassi*), and there were a pair of marakas for
 > each kind: one rattle to call the beast, the other to drive it away
-> ([Sect. *298*](aflg17.htm#pp_298)). So after he had hung them up
+> ([Sect. *298*](aflg17.htm#pp_298).md). So after he had hung them up
 > Siwara warned his wife's people that on no account must they touch
 > these marakas during his absence, because trouble would be certain to
 > ensue. Siwara soon afterward went away to cut a field; during his
@@ -1099,7 +1099,7 @@ class="small">ABY</span> (W)
 > orders, and was so angered that he left them. It is very hard for them
 > to get food now.
 
-   <span id="pp_117"></span>**117.**[\*](#pp_117) The Spirits of the
+   <span id="pp_117"></span>**117.**[\*](#pp_117.md) The Spirits of the
 Forest are blessed, or cursed, with strong patriarchal tendencies, are
 very fond of women, and of human flesh generally. They have an
 unconquerable attraction toward suckling babes and pregnant women (Da,
@@ -1107,7 +1107,7 @@ unconquerable attraction toward suckling babes and pregnant women (Da,
 legends. I do not know the reason of their supposed relationship to
 children, but certain it is that among the Pomeroon Arawaks, it was the
 Yawahus who were asked by the piais to bring babies to those women who
-wanted them ([Sect. *302*](aflg17.htm#pp_302)). On the upper Orinoco it
+wanted them ([Sect. *302*](aflg17.htm#pp_302).md). On the upper Orinoco it
 was the Bush Spirit Iolok-iamo who, together with the tikitiki bird, was
 considered responsible for the deformities of new-born children (AVH,
 <span class="small">II</span>, 249).
@@ -1116,7 +1116,7 @@ considered responsible for the deformities of new-born children (AVH,
 
  
 
-<span id="story_28"></span>[\*](#story_28)T<span class="small">HE</span>
+<span id="story_28"></span>[\*](#story_28.md)T<span class="small">HE</span>
 K<span class="small">ILLING OF THE</span> B<span
 class="small">USH</span> S<span class="small">PIRIT AND HIS</span>
 W<span class="small">IFE</span> (A)
@@ -1198,7 +1198,7 @@ W<span class="small">IFE</span> (A)
  
 
 <span id="story_29"></span><span
-id="pp_117A"></span>**117A.**[\*](#pp_117A) T<span
+id="pp_117A"></span>**117A.**[\*](#pp_117A.md) T<span
 class="small">HE</span> W<span class="small">OMAN</span> K<span
 class="small">ILLS THE</span> H<span class="small">EBU</span> (W)
 
@@ -1232,7 +1232,7 @@ class="small">ILLS THE</span> H<span class="small">EBU</span> (W)
  
 
 <span id="story_30"></span><span
-id="pp_118"></span>**118.**[\*](#pp_118) T<span class="small">HE</span>
+id="pp_118"></span>**118.**[\*](#pp_118.md) T<span class="small">HE</span>
 B<span class="small">USH</span> S<span class="small">PIRIT AND
 THE</span> P<span class="small">REGNANT</span> W<span
 class="small">OMAN</span> (A)
@@ -1275,7 +1275,7 @@ class="small">OMAN</span> (A)
  
 
 <span id="story_31"></span><span
-id="pp_119"></span>**119.**[\*](#pp_119) T<span class="small">HE</span>
+id="pp_119"></span>**119.**[\*](#pp_119.md) T<span class="small">HE</span>
 C<span class="small">ONTENTED AND</span> H<span
 class="small">APPY</span> S<span class="small">ON-IN-LAW</span> (W)
 
@@ -1295,7 +1295,7 @@ class="small">APPY</span> S<span class="small">ON-IN-LAW</span> (W)
 > my man were not so far away!" So taking aim, and waiting for a chance
 > not to hurt his wife, he let fly and shot the Spirit. Both Spirit and
 > wife simultaneously disappeared.<span
-> id="page_190_fr_1"></span>[1](#page_190_note_1) It would seem that the
+> id="page_190_fr_1"></span>[1](#page_190_note_1.md) It would seem that the
 > Hebu had dragged his victim to the water's edge and thence thrown her
 > in; fortunately she had caught hold of the bushes alongside the river
 > bank, and came up to the surfuce. On meeting her husband, she told him
@@ -1316,7 +1316,7 @@ class="small">APPY</span> S<span class="small">ON-IN-LAW</span> (W)
 > before. But the parents of the deceased girl were very fond of their
 > good old son-in-law, and gave him the younger of their two remaining
 > daughters as a helpmate.<span
-> id="page_190_fr_2"></span>[2](#page_190_note_2) But the elder one
+> id="page_190_fr_2"></span>[2](#page_190_note_2.md) But the elder one
 > becoming jealous, went over to the husband's place and picked a
 > quarrel with her younger sister; this made the latter go and tell the
 > old man that she was afraid to remain with him any longer. But he
@@ -1336,7 +1336,7 @@ class="small">APPY</span> S<span class="small">ON-IN-LAW</span> (W)
  
 
 <span id="story_32"></span><span
-id="pp_120"></span>**120.**[\*](#pp_120) T<span class="small">HE</span>
+id="pp_120"></span>**120.**[\*](#pp_120.md) T<span class="small">HE</span>
 B<span class="small">USH</span> S<span class="small">PIRIT</span> T<span
 class="small">RICKED</span> W<span class="small">HILE</span> H<span
 class="small">UNTING</span> F<span class="small">ROGS</span> (A)
@@ -1349,10 +1349,10 @@ class="small">UNTING</span> F<span class="small">ROGS</span> (A)
 > was her old friend Dai-adalla (*lit*., 'My-Knife'), but in reality her
 > visitor was Yawahu, who had taken on the real friend's shape and
 > appearance, the better to carry out his evil designs.<span
-> id="page_191_fr_1"></span>[1](#page_191_note_1) Being such supposedly
+> id="page_191_fr_1"></span>[1](#page_191_note_1.md) Being such supposedly
 > good friends, the Yawahu addressed the girl as Dai-adalla, and asked
 > what she was doing at home all by herself.<span
-> id="page_191_fr_2"></span>[2](#page_191_note_2) When the girl had told
+> id="page_191_fr_2"></span>[2](#page_191_note_2.md) When the girl had told
 > her that she had refused to go to the drink-party, the Yawahu said:
 > "Oh, very well. I will stay to-night and keep you company," and so she
 > did. In the evening when darkness was coming on, a lot of frogs were
@@ -1389,14 +1389,14 @@ class="small">UNTING</span> F<span class="small">ROGS</span> (A)
 > Yawahu had visited her in the disguise of her friend. The father said,
 > "Next time we tell you to come with us, you will obey."
 
-   <span id="pp_121"></span>**121.**[\*](#pp_121) Since Spirits are
+   <span id="pp_121"></span>**121.**[\*](#pp_121.md) Since Spirits are
 supposed to have a peculiar fondness for tobacco ([Sect.
-*27*](aflg02.htm#pp_27)), and to be continually inhaling its fumes, the
+*27*](aflg02.htm#pp_27).md), and to be continually inhaling its fumes, the
 smoke of the fragrant weed is largely used in their invocation
-([Sect.](aflg17.htm#pp_308) <span id="page_192">p. 192</span>
-[*308*](aflg17.htm#pp_308)). Among the Caribs, the first two Spirits
+([Sect.](aflg17.htm#pp_308.md) <span id="page_192">p. 192</span>
+[*308*](aflg17.htm#pp_308).md). Among the Caribs, the first two Spirits
 that are called on by the medicine-man with his rattle are Mawári
-([Sect. *309*](aflg17.htm#pp_309)) and Makai-abáni. The latter puts in
+([Sect. *309*](aflg17.htm#pp_309).md) and Makai-abáni. The latter puts in
 an appearance with the tobacco smoke, in which he is enveloped:
 otherwise he remains in the rattle (*maraka*), coming out only when this
 is shaken. The former's weakness for tobacco constitutes the subject of
@@ -1405,7 +1405,7 @@ the Carib legend here given.
  
 
 <span id="story_33"></span><span
-id="pp_122"></span>**122.**[\*](#pp_122) M<span class="small">AWÁRI
+id="pp_122"></span>**122.**[\*](#pp_122.md) M<span class="small">AWÁRI
 AND</span> T<span class="small">OBACCO</span> S<span
 class="small">MOKE</span> (C)
 
@@ -1430,7 +1430,7 @@ class="small">MOKE</span> (C)
 > with the Bush Spirits as the son-in-law of a Yurokon. When he was
 > given the alligator stool to sit upon, he felt a bit scared, but his
 > wife told him not to be afraid, because the creature would not bite
-> him.<span id="page_192_fr_1"></span>[1](#page_192_note_1) He remained
+> him.<span id="page_192_fr_1"></span>[1](#page_192_note_1.md) He remained
 > a long time with these Spirits, so long indeed that a luxuriant growth
 > of hair began to cover his face, body, and limbs. His marital
 > relations prospered, Mawári's daughter in the meanwhile having borne
@@ -1449,21 +1449,21 @@ class="small">MOKE</span> (C)
 > to his mother, being ever busy preparing the tobacco for his
 > father-in-law.
 
-   <span id="pp_123"></span>**123.**[\*](#pp_123) Whenever my Indian
+   <span id="pp_123"></span>**123.**[\*](#pp_123.md) Whenever my Indian
 friends wished to impress me with the power and importance of any of
 their legendary beings, they invariably ascribed to it great size: thus,
 a black tiger as big as a house meant a very dangerous brute; a bat as
 big as a tree indicated the "vampire," that sucks people's blood at
 night with fatal results. I learned that for similar reasons these
 Forest Spirits are always associated with unusually big things ([Sects.
-*27*](aflg02.htm#pp_27), [*147*](aflg09.htm#pp_147)). Both Arawaks and
+*27*](aflg02.htm#pp_27), [*147*](aflg09.htm#pp_147).md). Both Arawaks and
 Warraus have a story of this nature: I attach the former version.
 
 <span id="page_193">p. 193</span>
 
  
 
-<span id="story_34"></span>[\*](#story_34)T<span class="small">HE</span>
+<span id="story_34"></span>[\*](#story_34.md)T<span class="small">HE</span>
 B<span class="small">USH</span> S<span class="small">PIRIT WITH</span>
 B<span class="small">IG</span> I<span class="small">DEAS</span> (A)
 
@@ -1481,7 +1481,7 @@ B<span class="small">IG</span> I<span class="small">DEAS</span> (A)
 > these were not what the Spirit wanted. They went to a neighboring
 > tree, where, pointing to an immense toad-stool, the Konoko-kuyuha
 > changed it into a cassava cake, explaining that this was what he
-> meant.<span id="page_193_fr_1"></span>[1](#page_193_note_1) The Spirit
+> meant.<span id="page_193_fr_1"></span>[1](#page_193_note_1.md) The Spirit
 > then sent him for a cooking-pot, telling him that he would find one
 > lying among the roots of a certain tree, which he described to him.
 > The man went as directed, but could see only a bush-master snake. When
@@ -1500,7 +1500,7 @@ B<span class="small">IG</span> I<span class="small">DEAS</span> (A)
 > but the man could eat only a portion of his. "Why haven't you finished
 > yours?" remarked the former; "No wonder you Indians are so thin. Look
 > at me. I am big and fat and strong because I have swallowed the whole
-> of my armadillo."<span id="page_193_fr_2"></span>[2](#page_193_note_2)
+> of my armadillo."<span id="page_193_fr_2"></span>[2](#page_193_note_2.md)
 > Having rested in their hammocks, they started hunting again, and by
 > evening time returned with a large quantity of game. When their
 > bellies were satisfied, they stacked and smoked the remainder of the
@@ -1516,34 +1516,34 @@ B<span class="small">IG</span> I<span class="small">DEAS</span> (A)
 > mean by *his* kind of tiger?" He thus became much frightened, and
 > cleared out, leaving Ronoko-kuyuha in the hammock.
 
-   <span id="pp_124"></span>**124.**[\*](#pp_124) To conclude this
+   <span id="pp_124"></span>**124.**[\*](#pp_124.md) To conclude this
 natural history, so to speak, of the Spirits of the Forest, it may be
 mentioned that, with very rare exceptions, as the Mansinskiri ([Sect.
-*97*](aflg08.htm#pp_97)), they shrink from exposure to sunlight or
+*97*](aflg08.htm#pp_97).md), they shrink from exposure to sunlight or
 firelight, from hearing their names called, or particulars of their
 origin talked about. This idea explains why an Indian will almost
 invariably refuse to tell these spirit-legends in the daytime, when
 <span id="page_194">p. 194</span> he might be heard by the particular
 Spirit spoken about and subsequently be mysteriously punished.<span
-id="page_194_fr_1"></span>[1](#page_194_note_1) There are certainly many
+id="page_194_fr_1"></span>[1](#page_194_note_1.md) There are certainly many
 examples in the Indian folk-lore illustrative of the dire results
 consequent on mentioning either the Spirit's name or his particular
-origin ([Sects. *99*](aflg08.htm#pp_99), [*133*](aflg09.htm#pp_133),
-[*135*](aflg09.htm#pp_135), [*176*](aflg11.htm#pp_176)).
+origin ([Sects. *99*](aflg08.htm#pp_99), [*133*](aflg09.htm#pp_133.md),
+[*135*](aflg09.htm#pp_135), [*176*](aflg11.htm#pp_176).md).
 
-   <span id="pp_125"></span>**125.**[\*](#pp_125) To mimic the sounds of
+   <span id="pp_125"></span>**125.**[\*](#pp_125.md) To mimic the sounds of
 their voices is of course as bad as laughing at Spirits ([Sect.
-*59*](aflg04.htm#pp_59)) or mentioning their names.
+*59*](aflg04.htm#pp_59).md) or mentioning their names.
 
  
 
-<span id="story_35"></span>[\*](#story_35)T<span class="small">HE</span>
+<span id="story_35"></span>[\*](#story_35.md)T<span class="small">HE</span>
 W<span class="small">OMAN</span> W<span class="small">HO</span> M<span
 class="small">IMICKED THE</span> B<span class="small">USH</span> S<span
 class="small">PIRIT</span> (A)
 
 >    A man went out hunting one day, taking his wife with him.<span
-> id="page_194_fr_2"></span>[2](#page_194_note_2) Leaving her one
+> id="page_194_fr_2"></span>[2](#page_194_note_2.md) Leaving her one
 > morning at the banab, he warned her that a Yawahu would be passing,
 > and that he would be whistling like a bird, but that she must not
 > imitate the sound in any way, because if she did each of her feet
@@ -1552,7 +1552,7 @@ class="small">PIRIT</span> (A)
 > somewhat lonely without any company, thought she would "call" it. No
 > sooner had she imitated the sound than the Yawahu, which it really
 > was, became extremely angry, and changed her feet into two
-> sharp-pointed stones (cf. [Sect. *126*](aflg08.htm#pp_126)): more than
+> sharp-pointed stones (cf. [Sect. *126*](aflg08.htm#pp_126).md): more than
 > this, the Spirit changed her heart into stone also, thus making her
 > "wild" toward her husband. The result was, that when her husband
 > joined her in the afternoon, she tried to kill him, but he,
@@ -1586,7 +1586,7 @@ class="small">PIRIT</span> (A)
 
 <span id="page_195">p. 195</span>
 
-   <span id="pp_126"></span>**126.**[\*](#pp_126) And so, when all is
+   <span id="pp_126"></span>**126.**[\*](#pp_126.md) And so, when all is
 said and done, it is just as well that we should be circumspect in our
 conduct and not incur the enmity, with all its attendant consequences,
 of these denizens of the forest. Indeed, it is far better to keep out of
@@ -1596,7 +1596,7 @@ insist on associating with them.
 
  
 
-<span id="story_36"></span>[\*](#story_36)T<span class="small">HE</span>
+<span id="story_36"></span>[\*](#story_36.md)T<span class="small">HE</span>
 D<span class="small">ANGER OF</span> A<span class="small">SSOCIATING
 WITH</span> S<span class="small">PIRITS</span> (W)
 
@@ -1615,7 +1615,7 @@ WITH</span> S<span class="small">PIRITS</span> (W)
 > a matter of fact, the latter's suspicions were correct, because the
 > people at the house who were sporting were really not people after all
 > but the Spirits of the Warekki, or large Rain-frogs, who had taken on
-> human shapes.<span id="page_195_fr_1"></span>[1](#page_195_note_1)
+> human shapes.<span id="page_195_fr_1"></span>[1](#page_195_note_1.md)
 > After awhile, both the men came away, and as night was fast
 > approaching they made themselves a banab, and the elder sent the
 > younger to fetch firewood; he did so. When the banab had been built
@@ -1628,7 +1628,7 @@ WITH</span> S<span class="small">PIRITS</span> (W)
 > his brother's legs hanging from out his hammock close over the fire.
 > "Look out! your legs are getting scorched." But all his brother did
 > was to say, *Akka´! Akka´!*<span
-> id="page_195_fr_2"></span>[2](#page_195_note_2) and draw his feet into
+> id="page_195_fr_2"></span>[2](#page_195_note_2.md) and draw his feet into
 > the hammock. And it was not long before he again put his feet into
 > danger, a fact which, considering that he had not been drunk at the
 > party, led the vigilant brother to know that it was a token of some
@@ -1640,13 +1640,13 @@ WITH</span> S<span class="small">PIRITS</span> (W)
 > the flesh around the shin-bones destroyed. All he did was to clean the
 > flesh off in its entirety, and then, with his knife, scrape both
 > shin-bones down to sharp points (cf. [Sect.
-> *125*](aflg08.htm#pp_125)). There he lay helpless in his hammock. He
+> *125*](aflg08.htm#pp_125).md). There he lay helpless in his hammock. He
 > could not hunt any more, though it is true that now and again when a
 > bird flew past, or any little animal ran along, he would cock out a
 > leg and spear it with the pointed tip, a trick in which he soon got
-> very expert.<span id="page_195_fr_3"></span>[3](#page_195_note_3)
+> very expert.<span id="page_195_fr_3"></span>[3](#page_195_note_3.md)
 >
->    <span id="pp_127"></span>**127.**[\*](#pp_127) His younger brother
+>    <span id="pp_127"></span>**127.**[\*](#pp_127.md) His younger brother
 > would sometimes carry him carefully to the shade of some bullet tree,
 > and then climb the trunk and shake the branches, so as to enable him
 > <span id="page_196">p. 196</span> to pick the fruit as it fell to the
@@ -1682,10 +1682,10 @@ WITH</span> S<span class="small">PIRITS</span> (W)
 > at the foot now. It has toes—one, two, three. I'll count mine now.
 > One, two, three—four! five!!" And thus he pondered and finally
 > concluded that the creature he had just slain could not possibly be
-> his brother ([Sect. *26*](aflg02.htm#pp_26)). He thereupon returned to
+> his brother ([Sect. *26*](aflg02.htm#pp_26).md). He thereupon returned to
 > his banab, where he laid himself in his hammock.
 >
->    <span id="pp_128"></span>**128.**[\*](#pp_128) In the meantime the
+>    <span id="pp_128"></span>**128.**[\*](#pp_128.md) In the meantime the
 > fugitive reached home and told the others: "Something has happened to
 > my brother. We can not be friends with him any more. We must kill
 > him." So, leading the way, the others followed him into the bush where
@@ -1708,7 +1708,7 @@ WITH</span> S<span class="small">PIRITS</span> (W)
 > the ring of people around. And when he got quite near, they fell upon
 > and destroyed him.
 
-   <span id="pp_129"></span>**129.**[\*](#pp_129) Should unforeseen
+   <span id="pp_129"></span>**129.**[\*](#pp_129.md) Should unforeseen
 circumstances, however, force one into close quarters with Bush Spirits,
 various procedures may be adopted to get rid of them. Warraus and
 Makusis took measures to exorcise evil spirits from the dancing-ground.
@@ -1736,14 +1736,14 @@ plate and food, one of them will shout, "Here! you devil of a dog
 (*perro demonio*)! Take this food, and don't come and upset our fun!"
 (G, <span class="small">I</span>, 160). To prevent the Bush Spirits
 coming into the house, a hunter, on his return from the chase, will
-shout out the name Shimarabu-akaradani ([Sect. *95*](aflg08.htm#pp_95))
-before entering ([Sect. *124*](aflg08.htm#pp_124)). Other methods may be
+shout out the name Shimarabu-akaradani ([Sect. *95*](aflg08.htm#pp_95).md)
+before entering ([Sect. *124*](aflg08.htm#pp_124).md). Other methods may be
 adopted for withstanding the vengeance of the Spirits of those animals
 which the hunter has just returned from slaughtering ([Sect.
-*243*](aflg15.htm#pp_243)). An alligator skull stuck up in a Carib house
-will prevent the Yurokon entering it ([Sect. *251*](aflg15.htm#pp_251)).
+*243*](aflg15.htm#pp_243).md). An alligator skull stuck up in a Carib house
+will prevent the Yurokon entering it ([Sect. *251*](aflg15.htm#pp_251).md).
 
-   <span id="pp_130"></span>**130.**[\*](#pp_130) So also, when
+   <span id="pp_130"></span>**130.**[\*](#pp_130.md) So also, when
 traveling in the bush, forest, and other places, where all these Spirits
 are lurking, one should never be without a companion, and it is always
 advisable to satisfy oneself as to the cause and origin of any unusual
@@ -1752,7 +1752,7 @@ of evil spirits is so great, that he will subject himself to great
 inconvenience rather than travel alone" (ScG, 262). "It is a duty to
 one's self to turn and look about when a stick falls from a tree, or
 when a crackling of twigs is heard: for there walk together always a bad
-and a good spirit ([Sect. *84*](aflg05.htm#pp_84))—the one wishing to
+and a good spirit ([Sect. *84*](aflg05.htm#pp_84).md)—the one wishing to
 injure, the other to protect living people. At sight of any one in the
 forest or on the river, the evil spirit is ready to harm: but the good
 spirit says, 'Stay! he may be a friend of mine. Let us see if he will
@@ -1761,16 +1761,16 @@ person is saved from harm if he looks around, but is in danger of being
 hurt if he will not look." (Da, 262.) Whenever Indians—Warraus and
 others—traveling in the bush hear any unusual cry or uncanny noise, they
 will sing out, "Show who you are, or else bring something to eat!" or
-some similar expression ([Sects. *116*](aflg08.htm#pp_116),
-[*130*](aflg08.htm#pp_130)). If a Spirit is met on the road, the Caribs
-know how to divert its attention ([Sect. *109*](aflg08.htm#pp_109)) with
+some similar expression ([Sects. *116*](aflg08.htm#pp_116.md),
+[*130*](aflg08.htm#pp_130).md). If a Spirit is met on the road, the Caribs
+know how to divert its attention ([Sect. *109*](aflg08.htm#pp_109).md) with
 a string puzzle.
 
 <span id="page_198">p. 198</span>
 
  
 
-<span id="story_37"></span>[\*](#story_37)T<span class="small">HE</span>
+<span id="story_37"></span>[\*](#story_37.md)T<span class="small">HE</span>
 R<span class="small">AIN-FROG</span> W<span class="small">IFE</span> (W)
 
    A party of hunters were walking along the pathway in the bush, one
@@ -1793,7 +1793,7 @@ can always hear her, however, at the commencement of the rainy season.
 
 ------------------------------------------------------------------------
 
-[Next](aflg09)
+[Next](aflg09.md)
 
 ------------------------------------------------------------------------
 
@@ -1801,29 +1801,29 @@ can always hear her, however, at the commencement of the rainy season.
 
 <span id="footnotes_page_172">p. 172</span>
 
-<span id="page_172_note_1"></span>[1](#page_172_fr_1) Further details of
+<span id="page_172_note_1"></span>[1](#page_172_fr_1.md) Further details of
 this and similar association will be discussed in connection with plants
-([Chap. X](aflg10)).
+([Chap. X](aflg10).md).
 
 <span id="footnotes_page_173">p. 173</span>
 
-<span id="page_173_note_1"></span>[1](#page_173_fr_1) compare a similar
+<span id="page_173_note_1"></span>[1](#page_173_fr_1.md) compare a similar
 connection between the powis and the Southern Cross ([Sect.
-*206*](aflg13.htm#pp_206)).
+*206*](aflg13.htm#pp_206).md).
 
 <span id="footnotes_page_176">p. 176</span>
 
-<span id="page_176_note_1"></span>[1](#page_176_fr_1) Baldness is
+<span id="page_176_note_1"></span>[1](#page_176_fr_1.md) Baldness is
 practically unknown among the Indians; thus far I have not come across
 any record of its occurrence.—W .E. R.
 
-<span id="page_176_note_2"></span>[2](#page_176_fr_2) This is the first
+<span id="page_176_note_2"></span>[2](#page_176_fr_2.md) This is the first
 and only reference to scalping that has been met with in Guiana
 folk-lore. Scalping was practised both in the Guianas and elsewhere in
 South America, for example, in Ecuador (AS, 90).
 
-<span id="page_176_note_3"></span>[3](#page_176_fr_3) Brett's version
-([BrB, 176](../lmbg/lmbg5b.htm#page_176)) is as follows: Peaima was an
+<span id="page_176_note_3"></span>[3](#page_176_fr_3.md) Brett's version
+([BrB, 176](../lmbg/lmbg5b.htm#page_176).md) is as follows: Peaima was an
 Arai-dai who had become dissatisfied with his coarse and matted looks
 and wished them to be made like those of human beings. Pahadun, a
 captive, undertook to gratify him; he shaved his head close, and on the
@@ -1833,57 +1833,57 @@ man with lying tongue outwitted his pursuer.
 
 <span id="footnotes_page_179">p. 179</span>
 
-<span id="page_179_note_1"></span>[1](#page_179_fr_1) See [Sect.
-*100*](aflg08.htm#pp_100).
+<span id="page_179_note_1"></span>[1](#page_179_fr_1.md) See [Sect.
+*100*](aflg08.htm#pp_100.md).
 
-<span id="page_179_note_2"></span>[2](#page_179_fr_2) According to Carib
+<span id="page_179_note_2"></span>[2](#page_179_fr_2.md) According to Carib
 tradition their Spirits of the Bush have a marked aversion to sweet
 potatoes.
 
 <span id="footnotes_page_181">p. 181</span>
 
-<span id="page_181_note_1"></span>[1](#page_181_fr_1) Compare the
+<span id="page_181_note_1"></span>[1](#page_181_fr_1.md) Compare the
 offerings to a medicine-man, or to his Spirit, in [Sect.
-*286*](aflg17.htm#pp_286).
+*286*](aflg17.htm#pp_286.md).
 
 <span id="footnotes_page_182">p. 182</span>
 
-<span id="page_182_note_1"></span>[1](#page_182_fr_1) I shall revert to
+<span id="page_182_note_1"></span>[1](#page_182_fr_1.md) I shall revert to
 this subject when dealing with the medicine-man ([Chap.
-XVII](aflg17)).—W. E. R.
+XVII](aflg17).md).—W. E. R.
 
 <span id="footnotes_page_183">p. 183</span>
 
-<span id="page_183_note_1"></span>[1](#page_183_fr_1) It is not an
+<span id="page_183_note_1"></span>[1](#page_183_fr_1.md) It is not an
 uncommon thing to see an Indian who has already a wife and family of
 young children bringing up a little girl who will be his second wife
 (Br, 352).
 
 <span id="footnotes_page_185">p. 185</span>
 
-<span id="page_185_note_1"></span>[1](#page_185_fr_1) This word is the
+<span id="page_185_note_1"></span>[1](#page_185_fr_1.md) This word is the
 Arawak term for an eye-socket; it is applied to a particular variety of
 basket, characterized by having an oblong concavity in its base, a
 peculiarity which the name suggests.
 
 <span id="footnotes_page_186">p. 186</span>
 
-<span id="page_186_note_1"></span>[1](#page_186_fr_1) *Ija-sanuka* is
+<span id="page_186_note_1"></span>[1](#page_186_fr_1.md) *Ija-sanuka* is
 Warrau for 'cousin,' the word used by the narrator. An Indian will greet
 any other female of his tribe in three ways: If older, as 'mother' or
 'auntie'; if about the same age, as 'sister' or 'cousin'; and if much
 younger, as 'child,' 'daughter,' etc.
 
-<span id="page_186_note_2"></span>[2](#page_186_fr_2) Kokerite is used
+<span id="page_186_note_2"></span>[2](#page_186_fr_2.md) Kokerite is used
 only for the blow-pipe, that is, poisoned arrows.
 
-<span id="page_186_note_3"></span>[3](#page_186_fr_3) The Warrau word
+<span id="page_186_note_3"></span>[3](#page_186_fr_3.md) The Warrau word
 for 'uncle' as used here is *daku*: not only does this mean the parents'
 brother but practically every male of about corresponding age.
 
 <span id="footnotes_page_187">p. 187</span>
 
-<span id="page_187_note_1"></span>[1](#page_187_fr_1) Among all these
+<span id="page_187_note_1"></span>[1](#page_187_fr_1.md) Among all these
 Indians, the husband becomes a member of his wife's family. His
 permanent retention of his wife depends on the satisfactory completion
 by him of various tasks, as the cutting or a field and the building or a
@@ -1907,42 +1907,42 @@ reproach.
 
 <span id="footnotes_page_190">p. 190</span>
 
-<span id="page_190_note_1"></span>[1](#page_190_fr_1) When a person
+<span id="page_190_note_1"></span>[1](#page_190_fr_1.md) When a person
 suddenly disappears from any place without leaving a trace, under
 circumstances which in plain English would be described as murder and
 disposal of the body, the Indians ascribe it to the Evil Spirit.
 
-<span id="page_190_note_2"></span>[2](#page_190_fr_2) Among many savage
+<span id="page_190_note_2"></span>[2](#page_190_fr_2.md) Among many savage
 races, the husband has marital rights over his wife's sisters, and vice
 versa; I have found several traces of this communal form or marriage in
 the Guianas.—W. E. R.
 
 <span id="footnotes_page_191">p. 191</span>
 
-<span id="page_191_note_1"></span>[1](#page_191_fr_1) The "knife" which
+<span id="page_191_note_1"></span>[1](#page_191_fr_1.md) The "knife" which
 gave rise to the girl's name was probably the labba-tooth instrument
 employed by the old-time Arawaks. Among the other Indians there are
 records of knives and kindred implements being made from the teeth of
 the pirai fish, from a piece of bamboo, etc.
 
-<span id="page_191_note_2"></span>[2](#page_191_fr_2) Intimate friends
+<span id="page_191_note_2"></span>[2](#page_191_fr_2.md) Intimate friends
 call one another by the identical name: the same thing occurs among men
-([Sect. *265*](aflg15.htm#pp_265)).
+([Sect. *265*](aflg15.htm#pp_265).md).
 
 <span id="footnotes_page_192">p. 192</span>
 
-<span id="page_192_note_1"></span>[1](#page_192_fr_1) The stool upon
+<span id="page_192_note_1"></span>[1](#page_192_fr_1.md) The stool upon
 which the Carib medicine-man sits during the incantation is generally in
 the form of an alligator.
 
 <span id="footnotes_page_193">p. 193</span>
 
-<span id="page_193_note_1"></span>[1](#page_193_fr_1) According to Dance
+<span id="page_193_note_1"></span>[1](#page_193_fr_1.md) According to Dance
 (p. 202), the large woody fungi growing out of the fallen and decayed
 trunks of trees are named by the Demerara River Arawaks "kamara-sana"
 and also the "Bush-devil's cassava bread."
 
-<span id="page_193_note_2"></span>[2](#page_193_fr_2) In the Warrau
+<span id="page_193_note_2"></span>[2](#page_193_fr_2.md) In the Warrau
 version of this story the Bush Spirit asks the man to bring him peppers,
 but he means a scorpion; then a hammock, but he means a tiger, whose
 color-stripes represent the cotton "cross-ties;" and finally a
@@ -1950,13 +1950,13 @@ hammock-rope, but he means a snake.
 
 <span id="footnotes_page_194">p. 194</span>
 
-<span id="page_194_note_1"></span>[1](#page_194_fr_1) We ourselves are
+<span id="page_194_note_1"></span>[1](#page_194_fr_1.md) We ourselves are
 blessed with a corresponding weakness in believing that the best
 occasion for a real good ghost-story is when gathered around the
 fireside, and that there is much truth in the old adage, "Talk of the
 Devil, and He is sure to appear."
 
-<span id="page_194_note_2"></span>[2](#page_194_fr_2) A man *never*
+<span id="page_194_note_2"></span>[2](#page_194_fr_2.md) A man *never*
 takes his wife or child with him on the actual hunt, where one or the
 other would only be in his way. She always accompanies him if he
 proposes being out some days, when he will leave her during the daytime
@@ -1970,14 +1970,14 @@ babracote, as well as dry and cook the food.
 
 <span id="footnotes_page_195">p. 195</span>
 
-<span id="page_195_note_1"></span>[1](#page_195_fr_1) These Rain-frogs
+<span id="page_195_note_1"></span>[1](#page_195_fr_1.md) These Rain-frogs
 are peculiar in that they make an especially loud noise at the time of
 the first rainy season after which they cease.
 
-<span id="page_195_note_2"></span>[2](#page_195_fr_2) This is an
+<span id="page_195_note_2"></span>[2](#page_195_fr_2.md) This is an
 exclamation denoting astonishment or surprise.
 
-<span id="page_195_note_3"></span>[3](#page_195_fr_3) In a Carib version
+<span id="page_195_note_3"></span>[3](#page_195_fr_3.md) In a Carib version
 of the story, it is a Yurokon by name of Araiyokó who gives the brother
 his pointed feet, by way of punishment.
 

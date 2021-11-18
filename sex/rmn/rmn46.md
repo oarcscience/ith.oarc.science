@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn45)  [Next](rmn47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn45)  [Next](rmn47.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,15 +106,15 @@ unaccustomed."
 "It will not be your death," he said, laughingly. "Much younger women
 than you have made themselves famous among us by putting their body to a
 similar use. The loss of your virginity formerly cost you very
-dear." <span id="fr_44"></span>[1](#fn_44)
+dear." <span id="fr_44"></span>[1](#fn_44.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_44"></span>[90:1](rmn46.htm#fr_44) JOANNIS MEURSII.
+<span id="fn_44"></span>[90:1](rmn46.htm#fr_44.md) JOANNIS MEURSII.
 *Elegantia Latini Sermonis*.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XLVI: Spinthria](rmn47)
+[Next: Plate XLVI: Spinthria](rmn47.md)

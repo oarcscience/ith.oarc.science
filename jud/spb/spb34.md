@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb33)  [Next](spb35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb33)  [Next](spb35.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -473,11 +473,11 @@ as in ancient years. Then shall the offering of Judah and Jerusalem be
 pleasant unto the Lord, as in the days of old, and as in ancient years.
 
 *For the Blessing of the Priests when the New Year falls on a week-day,
-see pp. [347](spb31.htm#page_347)–[348](spb31.htm#page_348)*.
+see pp. [347](spb31.htm#page_347)–[348](spb31.htm#page_348.md)*.
 
 ------------------------------------------------------------------------
 
-*On the [First](errata.htm#8) Day of New Year, or, when New Year falls
+*On the [First](errata.htm#8.md) Day of New Year, or, when New Year falls
 on Sabbath, on the Second Day, after the Afternoon Service, it is
 customary to go to the banks of a river, or of any other piece of water,
 and to say the following:—*
@@ -502,6 +502,6 @@ days of old.
 
 ------------------------------------------------------------------------
 
-[Next: Service for the Eve of the Day of Atonement](spb35)
+[Next: Service for the Eve of the Day of Atonement](spb35.md)
 
 </div>

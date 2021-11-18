@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw13)  [Next](sahw15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw13)  [Next](sahw15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -41,7 +41,7 @@ of my own, but I shall do so in such a way as to make what is my own
 clearly distinguishable from what I have derived from ancient Japanese
 sources.
 
-127. <span id="fr_90"></span>[\*](#fn_90) "They who travel along the Way
+127. <span id="fr_90"></span>[\*](#fn_90.md) "They who travel along the Way
 make Faith their starting point."
 
 Genshin 942–1017.
@@ -53,7 +53,7 @@ Cause of Supreme Perfect Enlightenment. There are in truth innumerable
 causes of Enlightenment, but if you understand what a Believing Heart is
 you embrace them all."
 
-Anon. <span id="fr_91"></span>[\*](#fn_91)
+Anon. <span id="fr_91"></span>[\*](#fn_91.md)
 
 127\. "In the House of Life and Death we stay for a while with doubt and
 fear: into the City of Nirvana we make our entrance through Faith."
@@ -232,7 +232,7 @@ Genkū.
 </div>
 
 146\. "In the Gate of Holy Path (*Shōdōmon*, see above chap. ii, [p.
-12](sahw04.htm#page_12)) men work out Wisdom, and thus escape from life
+12](sahw04.htm#page_12).md) men work out Wisdom, and thus escape from life
 and death: by the Gate of the Pure Land, men return to foolishness, and
 thereby enter into Life (*ō-jō*). They put no trust in Wisdom, they
 profess themselves
@@ -335,13 +335,13 @@ Genkū.
 
 ### Footnotes
 
-<span id="fn_90"></span>[93:\*](sahw14.htm#fr_90) The numbers refer to
+<span id="fn_90"></span>[93:\*](sahw14.htm#fr_90.md) The numbers refer to
 the pages in *Shinshu Seikun*.
 
-<span id="fn_91"></span>[94:\*](sahw14.htm#fr_91) When I put "Anon"
+<span id="fn_91"></span>[94:\*](sahw14.htm#fr_91.md) When I put "Anon"
 after a quotation I mean that I have not been able to find the author's
 name. In the *Shinshu Seikun* only the names of the books are given.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Of Faith in General, (ii).](sahw15)
+[Next: Chapter XIII. Of Faith in General, (ii).](sahw15.md)

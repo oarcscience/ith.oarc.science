@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Theosophy](../index)
-[Index](index) [Previous](chap07) [Next](chap09)
+[Intangible Textual Heritage](../../index) [Theosophy](../index.md)
+[Index](index) [Previous](chap07) [Next](chap09.md)
 
 ------------------------------------------------------------------------
 
@@ -327,4 +327,4 @@ wider knowledge and still more wonderful spiritual powers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: The Planetary Chains](chap09)
+[Next: Chapter IX: The Planetary Chains](chap09.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ftmg06)  [Next](ftmg08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ftmg06)  [Next](ftmg08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fairy Tales of Modern Greece*, by Theodore P. Gianakoulis and Georgia
 H. MacPherson, \[1930\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ begin her work or to return home.
 <span id="img_04900"></span> <span align="CENTER"> [![She thought she
 saw the forms of three maidens combing out their long
 hair.](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)  
+Click to enlarge](img/04900.jpg.md)  
 She thought she saw the forms of three maidens combing out their long
 hair.  
 </span>
@@ -246,4 +246,4 @@ Màro the *Neraidomagemene*, fairy-bewitched.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Fairy Comb](ftmg08)
+[Next: V. The Fairy Comb](ftmg08.md)

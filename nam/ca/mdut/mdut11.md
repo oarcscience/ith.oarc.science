@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut10)  [Next](mdut12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut10)  [Next](mdut12.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ olden time he was one who was swallowed continually," they say.
 
 And he himself, after he had ceased from being killed, after he had
 staid there for some time, spoke to that woman (his sister). <span
-id="fr_11"></span>[1](#fn_11) "You ought to travel at night," he said.
+id="fr_11"></span>[1](#fn_11.md) "You ought to travel at night," he said.
 "You must be the night sun (moon)." Then she replied, "Very well."--"I
 shall be the day sun," said he. And thereupon he set out. And so the
 woman went at night.
@@ -173,9 +173,9 @@ shall be so to the end." (?) It is finished, it is said.
 
 ### Footnotes
 
-<span id="fn_11"></span>[181:1](mdut11.htm#fr_11) Not the frog-woman,
+<span id="fn_11"></span>[181:1](mdut11.htm#fr_11.md) Not the frog-woman,
 but his sister who lived with him.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Girls Who Married the Stars](mdut12)
+[Next: 10. The Girls Who Married the Stars](mdut12.md)

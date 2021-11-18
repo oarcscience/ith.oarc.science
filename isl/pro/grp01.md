@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](grp00)  [Next](grp02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](grp00)  [Next](grp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ knows.
 
 ------------------------------------------------------------------------
 
-[Next: Ishmael, Other Than The Son of Abraham (PUT)](grp02)
+[Next: Ishmael, Other Than The Son of Abraham (PUT)](grp02.md)

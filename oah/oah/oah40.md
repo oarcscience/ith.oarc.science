@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah39)  [Next](oah41) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah39)  [Next](oah41.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ clothing themselves.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](oah41)
+[Next: Chapter II](oah41.md)

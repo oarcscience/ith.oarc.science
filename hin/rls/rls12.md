@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls11)  [Next](rls13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls11)  [Next](rls13.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ fabulous, nor should I venture to say that they
 
 are what we mean by well authenticated. The fact, how-ever, that some of
 these Sa*m*nyâsins reduced themselves by ascetic exercises to mere
-skeletons <span id="fr_7"></span>[1](#fn_7) or became raving mad-men can
+skeletons <span id="fr_7"></span>[1](#fn_7.md) or became raving mad-men can
 hardly be doubted, if we may judge by the warnings against such excesses
 which appear at a very early time in the ancient literature of the
 country. A well-known instance is that of Buddha himself, who, before he
@@ -48,9 +48,9 @@ it as much as possible unaltered, I have a reason for it.
 
 ### Footnotes
 
-<span id="fn_7"></span>[24:1](rls12.htm#fr_7) See a remarkable instance
+<span id="fn_7"></span>[24:1](rls12.htm#fr_7.md) See a remarkable instance
 in Mrs. Flora Annie Steel's 'In the Permanent Way,' 1898.
 
 ------------------------------------------------------------------------
 
-[Next: The Dialogic Process](rls13)
+[Next: The Dialogic Process](rls13.md)

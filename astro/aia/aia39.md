@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia38)  [Next](aia40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia38)  [Next](aia40.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ the 2d, or a planet therein.
 
 ------------------------------------------------------------------------
 
-[Next: Explanation of the Hieroglyphics](aia40)
+[Next: Explanation of the Hieroglyphics](aia40.md)

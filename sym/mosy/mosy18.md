@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Index](index)  [Previous](mosy17)  [Next](mosy19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Index](index)  [Previous](mosy17)  [Next](mosy19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Migration of Symbols*, by Goblet d'Alviella, \[1894\], at
 Intangible Textual Heritage
 
@@ -83,7 +83,7 @@ assumed by M. Terrien de la Couperie, who has brought together a
 considerable amount of presumptive evidence in support of this theory,
 the ancestors of the Chinese were descended from the nation which
 occupied Chaldæa and Elam some three and twenty centuries before our
-era. <span id="fr_506"></span>[1](#fn_506) At any rate, it would be
+era. <span id="fr_506"></span>[1](#fn_506.md) At any rate, it would be
 astonishing if, in the course of so many centuries, infiltrations had
 not occurred between the civilizations which were developing in this
 parallel manner on the Asiatic continent.
@@ -152,7 +152,7 @@ the fusion of symbols, the unity of the gods and the identity of creeds,
 as in the mystic monogram wherein the Brahmaists of contemporary India
 have testified to their religious eclecticism by interweaving the *Om*
 of the Hindus with the Trident, the Crescent, and the Cross. <span
-id="fr_507"></span>[1](#fn_507)
+id="fr_507"></span>[1](#fn_507.md)
 
 Sometimes, too, the sacerdotal interest must have tended towards
 accentuating the analogies rather than the dissimilarities of symbols,
@@ -176,11 +176,11 @@ Christian king of Norway. According to an old song of the Shetland
 Islands, Hakon Adalsteinfostri, obliged to drink to Odin at an official
 banquet, traced quickly upon the bowl the sign of the Cross; and when
 his companions reproached him for doing so, he told them that it was the
-sign of Thor's Hammer. <span id="fr_508"></span>[1](#fn_508) We know,
+sign of Thor's Hammer. <span id="fr_508"></span>[1](#fn_508.md) We know,
 indeed, that in Germanic and Scandinavian countries the Cross of Christ
 more than once drew near in appearance to the Two-headed Hammer of Thor,
 as in Egypt it assumed, in more than one inscription, the aspect of the
-Key of Life. <span id="fr_509"></span>[2](#fn_509)
+Key of Life. <span id="fr_509"></span>[2](#fn_509.md)
 
 Buddhism was even less scrupulous. In some of its sanctuaries it did not
 hesitate to preserve the images of the worship paid by the natives of
@@ -205,7 +205,7 @@ when a minute investigation showed that it was merely an ancient temple
 of the sun taken possession of by the Buddhists at a later date. They
 had contented themselves with placing on the figured representations of
 the solar worship inscriptions which connected them with their own
-creed. <span id="fr_510"></span>[1](#fn_510)
+creed. <span id="fr_510"></span>[1](#fn_510.md)
 
  
 
@@ -234,11 +234,11 @@ contemporary creeds. We must call to mind the reply of a Father of the
 Church to those who accused the Christians of celebrating the festival
 of the sun:—"We solemnize this day, not, like the heathen, on account of
 the sun, but on account of Him who made the sun." <span
-id="fr_511"></span>[1](#fn_511) Constantine went further still when he
+id="fr_511"></span>[1](#fn_511.md) Constantine went further still when he
 composed, to be recited on Sundays by his legions, a prayer which,
 according to M. V. Duruy, could at once satisfy the worshippers of
 Mithras, of Serapis, of the sun, and of Christ. <span
-id="fr_512"></span>[2](#fn_512)
+id="fr_512"></span>[2](#fn_512.md)
 
 Symbolism may combine with the most mystical tendencies, but, like
 mysticism itself, it is a powerful ally of the religious sentiment
@@ -249,7 +249,7 @@ and ceremonies, the conservative ritualism of the Old Believers has
 managed to arrive at the liberty of doctrines, and even, in some
 instances, at a complete rationalism, without breaking with the
 traditional symbols of Christianity, and even of the Eastern
-Church. <span id="fr_513"></span>[3](#fn_513)
+Church. <span id="fr_513"></span>[3](#fn_513.md)
 
 There comes a time when religions which deal largely with the
 supernatural come into collision with the progress of the different
@@ -302,19 +302,19 @@ as also with the superficial platitudes of a false realism.
 
 ### Footnotes
 
-<span id="fn_506"></span>[262:1](mosy18.htm#fr_506) *Origin from
+<span id="fn_506"></span>[262:1](mosy18.htm#fr_506.md) *Origin from
 Babylonia and Elam of the early Chinese Civilization*, in the
 *Babylonian and Oriental Record*, vol. iii., No. 3 *et seq.*
 
-<span id="fn_507"></span>[264:1](mosy18.htm#fr_507) <span
+<span id="fn_507"></span>[264:1](mosy18.htm#fr_507.md) <span
 class="smallcaps">Protap Chunder Mozoumdar</span>. *Life and Teaching of
 Keshub Chunder Sen*. Calcutta, 1887, p. 501.
 
-<span id="fn_508"></span>[265:1](mosy18.htm#fr_508) <span
+<span id="fn_508"></span>[265:1](mosy18.htm#fr_508.md) <span
 class="smallcaps">Karl Blind</span>. *Odinic Songs in Shetland*, in the
 *Nineteenth Century*, 1879, p. 1098.
 
-<span id="fn_509"></span>[265:2](mosy18.htm#fr_509) The Abbe Ansault has
+<span id="fn_509"></span>[265:2](mosy18.htm#fr_509.md) The Abbe Ansault has
 shown, without any difficulty, in his *Mémoire sur le culte de la croix
 avant Jesus-Christ* (Paris, 1891, p. 68 *et seq.*), first of all, that
 heathen nations used as religious emblems Greek, Latin, Maltese,
@@ -323,22 +323,22 @@ crosses; and, secondly, that the Christian Church has always accepted
 these different forms of the Cross as the representation of its own
 symbol.
 
-<span id="fn_510"></span>[266:1](mosy18.htm#fr_510) <span
+<span id="fn_510"></span>[266:1](mosy18.htm#fr_510.md) <span
 class="smallcaps">Edw. Thomas</span>. *Numismatic Chronicle*, vol. xx.
 (new series), p. 27.
 
-<span id="fn_511"></span>[267:1](mosy18.htm#fr_511) <span
+<span id="fn_511"></span>[267:1](mosy18.htm#fr_511.md) <span
 class="smallcaps">S. Augustin</span>. *In natale Domini*, sermon 390,
 <span class="smallcaps">Migne</span> edition, vol. v., 1st part, p.
 1007.
 
-<span id="fn_512"></span>[267:2](mosy18.htm#fr_512) <span
+<span id="fn_512"></span>[267:2](mosy18.htm#fr_512.md) <span
 class="smallcaps">V. Duruy</span>. *Histoire des Romains*. Paris, 1885,
 vol. vii., p. 54.
 
-<span id="fn_513"></span>[267:3](mosy18.htm#fr_513) *L’Empire des
+<span id="fn_513"></span>[267:3](mosy18.htm#fr_513.md) *L’Empire des
 Tzars*, vol. iii., p. 451.
 
 ------------------------------------------------------------------------
 
-[Next: Addenda](mosy19)
+[Next: Addenda](mosy19.md)

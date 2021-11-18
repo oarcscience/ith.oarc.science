@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar096) [Next](gbar098)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar096) [Next](gbar098.md)
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ messenger: O Mohammed, come quickly for the salvation of the world!'
 
 ------------------------------------------------------------------------
 
-[Next](gbar098)
+[Next](gbar098.md)

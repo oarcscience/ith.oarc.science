@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe012)  [Next](prwe014) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe012)  [Next](prwe014.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ Nancy's family became the wealthiest in the parish of Gulval.
 
 ------------------------------------------------------------------------
 
-[Next: The Giant of St. Michael's Mount loses his wife](prwe014)
+[Next: The Giant of St. Michael's Mount loses his wife](prwe014.md)

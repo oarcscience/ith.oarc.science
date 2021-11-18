@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo55)  [Next](hoo57) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo55)  [Next](hoo57.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Pupil of Proserpine, mysterious pow'r,
 Triple, ineffable, Jove's secret flow'r:  
 Ericapæus, first-begotten nam'd,  
 Of Gods the father, and the offspring fam'd: 10  <span
-id="fr_112"></span>[10](#fn_112)  
+id="fr_112"></span>[10](#fn_112.md)  
 Bearing a sceptre, leader of the choir,  
 Whose dancing feet, fanatic Furies fire,  
 When the triennial band thou dost inspire.  
@@ -41,8 +41,8 @@ Propitious come, and in these rites rejoice.
 
 ### Footnotes
 
-<span id="fn_112"></span>[183:10](hoo56.htm#fr_112) Ver. 10.\] *Of Gods
-the father*, &c. [According](errata.htm#11) to the fragment preserved by
+<span id="fn_112"></span>[183:10](hoo56.htm#fr_112.md) Ver. 10.\] *Of Gods
+the father*, &c. [According](errata.htm#11.md) to the fragment preserved by
 Ficinus, and translated in our Dissertation, Trietericus is the nostic
 power, or intellect of the Sun; and the Sun is in the sensible world,
 what Protogonus or Phanes is in the intelligible world, or, in other
@@ -55,4 +55,4 @@ Gods.
 
 ------------------------------------------------------------------------
 
-[Next: LII: To Amphietus Bacchus](hoo57)
+[Next: LII: To Amphietus Bacchus](hoo57.md)

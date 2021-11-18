@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe29)  [Next](boe31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe29)  [Next](boe31.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ exteriors of life close, and rest as in their common basis."
 
 ------------------------------------------------------------------------
 
-[Next: Wheels upon Wheels](boe31)
+[Next: Wheels upon Wheels](boe31.md)

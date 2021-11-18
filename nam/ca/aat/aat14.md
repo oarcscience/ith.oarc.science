@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat13)  [Next](aat15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat13)  [Next](aat15.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ B. DIXON.\]
 
 ------------------------------------------------------------------------
 
-[Next: 1. Pine-Marten Marries the Bead Sisters](aat15)
+[Next: 1. Pine-Marten Marries the Bead Sisters](aat15.md)

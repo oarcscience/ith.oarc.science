@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx07) [Next](ttx09)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx07) [Next](ttx09.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ is his sanctity that a daily miracle is performed of which he is the
 subject. As it is impossible, however, to write this in plain English,
 we relegate the explanation of it to the Chinese note which will be
 found at the bottom of the page,<span
-id="page_70_fr_*"></span>[\*](#page_70_note_*) for the benefit of such
+id="page_70_fr_*"></span>[\*](#page_70_note_*.md) for the benefit of such
 as may be curious about the subject.
 
    Towards the close of an interesting conversation with the strange
@@ -166,7 +166,7 @@ book will ascend bodily to the Purple Clouds—where the Immortals live.
 
 ------------------------------------------------------------------------
 
-[Next](ttx09)
+[Next](ttx09.md)
 
 ------------------------------------------------------------------------
 
@@ -174,7 +174,7 @@ book will ascend bodily to the Purple Clouds—where the Immortals live.
 
 <span id="footnotes_page_70">p. 70</span>
 
-<span id="page_70_note_*"></span>[\*](#page_70_fr_*) \#\#\#.
+<span id="page_70_note_*"></span>[\*](#page_70_fr_*.md) \#\#\#.
 
  
 

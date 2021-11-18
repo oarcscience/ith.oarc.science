@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain02)  [Next](ain04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain02)  [Next](ain04.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ his father to teach him, which his father did, and now he knew them all.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Creation](ain04)
+[Next: The Story of the Creation](ain04.md)

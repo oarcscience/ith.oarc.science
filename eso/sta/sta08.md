@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta07)  [Next](sta09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta07)  [Next](sta09.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ describes one of their ceremonial processions as follows:
 <span id="img_03700"></span>
 
 [![HERMES MERCURIUS TRISMEGISTUS.](tn/03700.jpg)  
-Click to enlarge](img/03700.jpg)  
+Click to enlarge](img/03700.jpg.md)  
 HERMES MERCURIUS TRISMEGISTUS.  
 
 From *Historia Deorum Fatidicorum*.
@@ -306,7 +306,7 @@ from the Light swallowed up in the darkness. His mind told Hermes that
 <span id="img_03800"></span>
 
 [![THOTH, THE IBIS-HEADED.](tn/03800.jpg)  
-Click to enlarge](img/03800.jpg)  
+Click to enlarge](img/03800.jpg.md)  
 THOTH, THE IBIS-HEADED.  
 
 From Wilkinson's *Manners & Customs of the Ancient Egyptians*.
@@ -470,7 +470,7 @@ himself enters into the state of Good.'
 <span id="img_03900"></span>
 
 [![A GREEK FORM OF HERMES.](tn/03900.jpg)  
-Click to enlarge](img/03900.jpg)  
+Click to enlarge](img/03900.jpg.md)  
 A GREEK FORM OF HERMES.  
 
 From *Bryant's Mythology*.
@@ -681,4 +681,4 @@ into the presence of the True Mind.
 
 ------------------------------------------------------------------------
 
-[Next: The Initiation of the Pyramid](sta09)
+[Next: The Initiation of the Pyramid](sta09.md)

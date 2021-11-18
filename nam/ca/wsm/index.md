@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,49 +37,49 @@ trickster Coyote, and other primordial zoomorphic demigods.
 
 ------------------------------------------------------------------------
 
-[Title Page](wsm00)  
-[Contents](wsm01)  
-[Introduction](wsm02)  
-[The Theft of Fire (Saline Valley, California. Shoshoni)](wsm03)  
-[The Theft of Fire (Panamint Valley, California. Shoshoni)](wsm04)  
-[The Theft of Pine Nuts (Saline Valley, California. Shoshoni)](wsm05)  
-[The Origin of People (Smith Valley, Nevada. Shoshoni)](wsm06)  
-[The Theft of Pine Nuts (Elko, Nevada. Shoshoni)](wsm07)  
-[The Theft of Pine Nuts (Winnemucca, Nevada. Northern Paiute)](wsm08)  
-[The Origin of People (Panamint Valley, California. Shoshoni)](wsm09)  
-[The Origin of People (Death Valley, California. Shoshoni)](wsm10)  
-[The Origin of People (Beatty, Nevada. Shoshoni)](wsm11)  
-[The Origin of People (Ash Meadows, Nevada. Shoshoni)](wsm12)  
-[The Origin Of People (Big Smoky Valley, Nevada. Shoshoni)](wsm13)  
-[The Origin of People (Skull Valley, Utah. Gosiute)](wsm14)  
+[Title Page](wsm00.md)  
+[Contents](wsm01.md)  
+[Introduction](wsm02.md)  
+[The Theft of Fire (Saline Valley, California. Shoshoni)](wsm03.md)  
+[The Theft of Fire (Panamint Valley, California. Shoshoni)](wsm04.md)  
+[The Theft of Pine Nuts (Saline Valley, California. Shoshoni)](wsm05.md)  
+[The Origin of People (Smith Valley, Nevada. Shoshoni)](wsm06.md)  
+[The Theft of Pine Nuts (Elko, Nevada. Shoshoni)](wsm07.md)  
+[The Theft of Pine Nuts (Winnemucca, Nevada. Northern Paiute)](wsm08.md)  
+[The Origin of People (Panamint Valley, California. Shoshoni)](wsm09.md)  
+[The Origin of People (Death Valley, California. Shoshoni)](wsm10.md)  
+[The Origin of People (Beatty, Nevada. Shoshoni)](wsm11.md)  
+[The Origin of People (Ash Meadows, Nevada. Shoshoni)](wsm12.md)  
+[The Origin Of People (Big Smoky Valley, Nevada. Shoshoni)](wsm13.md)  
+[The Origin of People (Skull Valley, Utah. Gosiute)](wsm14.md)  
 [The Race to Koso Hot Springs (Death Valley, California.
-Shoshoni)](wsm15)  
+Shoshoni)](wsm15.md)  
 [The Race to Koso Hot Springs (Saline Valley, California.
-Shoshoni)](wsm16)  
+Shoshoni)](wsm16.md)  
 [Coyote Learns to Fly; The Origin of People (Saline Valley, California.
-Shoshoni)](wsm17)  
+Shoshoni)](wsm17.md)  
 [Coyote Learns to Fly; Coyote Becomes a Mother (Ash Meadows, Nevada.
-Shoshoni)](wsm18)  
-[Coyote Learns to Fly (Lida, Nevada. Shoshoni)](wsm19)  
-[Coyote Learns to Fly (Big Smoky Valley, Nevada. Shoshoni)](wsm20)  
+Shoshoni)](wsm18.md)  
+[Coyote Learns to Fly (Lida, Nevada. Shoshoni)](wsm19.md)  
+[Coyote Learns to Fly (Big Smoky Valley, Nevada. Shoshoni)](wsm20.md)  
 [Cottontail Shoots the Sun (Saline Valley, California.
-Shoshoni)](wsm21)  
-[Cottontail Shoots the Sun (Elko, Nevada. Shoshoni)](wsm22)  
+Shoshoni)](wsm21.md)  
+[Cottontail Shoots the Sun (Elko, Nevada. Shoshoni)](wsm22.md)  
 [The Length of Winter; Coyote is Bitten (Saline Valley, California.
-Shoshoni)](wsm23)  
-[Hawk and the Gambler (Saline Valley, California. Shoshoni)](wsm24)  
-[The Flood (Saline Valley, California. Shoshoni)](wsm25)  
-[Rat and Mountain Sheep (Saline Valley, California. Shoshoni)](wsm26)  
-[Cottontail and Wind (Saline Valley, California. Shoshoni)](wsm27)  
-[The Deer Stealer (Death Valley, California. Shoshoni)](wsm28)  
-[The Sky Brothers (Death Valley, California. Shoshoni)](wsm29)  
-[Origin of Death (Big Smoky Valley, Nevada. Shoshoni)](wsm30)  
+Shoshoni)](wsm23.md)  
+[Hawk and the Gambler (Saline Valley, California. Shoshoni)](wsm24.md)  
+[The Flood (Saline Valley, California. Shoshoni)](wsm25.md)  
+[Rat and Mountain Sheep (Saline Valley, California. Shoshoni)](wsm26.md)  
+[Cottontail and Wind (Saline Valley, California. Shoshoni)](wsm27.md)  
+[The Deer Stealer (Death Valley, California. Shoshoni)](wsm28.md)  
+[The Sky Brothers (Death Valley, California. Shoshoni)](wsm29.md)  
+[Origin of Death (Big Smoky Valley, Nevada. Shoshoni)](wsm30.md)  
 [Coyote Kills Wolf's Wives (Big Smoky Valley, Nevada.
-Shoshoni)](wsm31)  
-[Badger, Coyote, and the Woodchucks (Lida, Nevada. Shoshoni)](wsm32)  
+Shoshoni)](wsm31.md)  
+[Badger, Coyote, and the Woodchucks (Lida, Nevada. Shoshoni)](wsm32.md)  
 [Coyote and the Bear Cubs; The Death of Wolf (Ash Meadows, Nevada.
-Shoshoni.)](wsm33)  
-[Pole Cat, Takadoa, and Hawk (Elko, Nevada, Shoshoni)](wsm34)  
+Shoshoni.)](wsm33.md)  
+[Pole Cat, Takadoa, and Hawk (Elko, Nevada, Shoshoni)](wsm34.md)  
 [Coyote Liberates Game Animals; Wolf is Killed and Restored (Winnemucca,
-Nevada. Northern Paiute)](wsm35)  
-[The Ice Barrier (Winnemucca, Nevada. Northern Paiute)](wsm36)  
+Nevada. Northern Paiute)](wsm35.md)  
+[The Ice Barrier (Winnemucca, Nevada. Northern Paiute)](wsm36.md)  

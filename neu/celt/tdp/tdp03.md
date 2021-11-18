@@ -1,25 +1,25 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tdp02)  [Next](tdp04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tdp02)  [Next](tdp04.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_35">p. 35</span>
 
-<span id="img_03500"></span> ![THE ENCHANTING OF DOIRENN](img/03500.jpg)
+<span id="img_03500"></span> ![THE ENCHANTING OF DOIRENN](img/03500.jpg.md)
 
 <span id="page_36">p. 36</span>
 
 <span id="img_03600"></span>
 
 [![Love's Story: Sheet-music](tn/03600.jpg)  
-Click to enlarge](img/03600.jpg)  
+Click to enlarge](img/03600.jpg.md)  
   
 
 <span id="page_37">p. 37</span>
 
-<span id="img_03700"></span> ![THE ENCHANTING OF DOIRENN](img/03700.jpg)
+<span id="img_03700"></span> ![THE ENCHANTING OF DOIRENN](img/03700.jpg.md)
 
 # THE ENCHANTING OF DOIRENN
 
@@ -27,7 +27,7 @@ Click to enlarge](img/03600.jpg)
 
 |                      |
 |----------------------|
-| ![N](img/n2init.jpg) |
+| ![N](img/n2init.jpg.md) |
 
 OT lucky is it for a man when his own clan gives him low looks, and
 Ruadan of Ardsolais saw how the wind blew in the rath of Fethna in Meath
@@ -150,7 +150,7 @@ Bevind gasped and rolled her eyes.
 "I did hear old Aillve tell a tale or enchantment by love, and the man
 was old as the world, yet looked young, and he snared maids and took
 them to his rath where they were changed to white cats. His forest was
-[full](errata.htm#0) of beautiful white cats, waiting for a brave and
+[full](errata.htm#0.md) of beautiful white cats, waiting for a brave and
 pure youth to ride their way and make prayers there; and that would free
 them, and nothing else would free them."
 
@@ -201,7 +201,7 @@ mountains."
 
 |                     |
 |---------------------|
-| ![B](img/binit.jpg) |
+| ![B](img/binit.jpg.md) |
 
 OUT Doirenn cared not where he lived, nor when he wived. She carried the
 last tablet of Geroid out through the arbor where she could read over
@@ -221,7 +221,7 @@ thing to shrink from; and the thought of Geroid was another reason!
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 T was there in the arbor Ruadan saw her, while his kinsmen fed and
 Fethna did a host's duty. At first he could see little but the glory of
@@ -271,7 +271,7 @@ with his kinsmen, who planted his fields and counted his herds.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 MONTH went by, and again he stood at the gate of Fethna.
 
@@ -405,7 +405,7 @@ famed for its learning from Gaul even to Egypt.
 
 |                     |
 |---------------------|
-| ![B](img/binit.jpg) |
+| ![B](img/binit.jpg.md) |
 
 UT the year of her preparation had not ended when Ruadan again rode to
 the dun of Fethna. He was hollow of eye, and his spent horses were glad
@@ -486,7 +486,7 @@ that place.
 
 |                        |
 |------------------------|
-| ![''W](img/qwinit.jpg) |
+| ![''W](img/qwinit.jpg.md) |
 
 HAT of Doirenn who was fosterling of Fethna?" asked Ruadan of the
 fleeing host.
@@ -509,7 +509,7 @@ It is a sad time under the dreadful star for the people of Erinn."
 
 |                     |
 |---------------------|
-| ![R](img/rinit.jpg) |
+| ![R](img/rinit.jpg.md) |
 
 UADAN looked about the little huddled group, pale with horror of what
 had been, and in further dread of what might be: with one army of the
@@ -543,7 +543,7 @@ when the time comes, rest you easy on that."
 
 |                     |
 |---------------------|
-| ![S](img/sinit.jpg) |
+| ![S](img/sinit.jpg.md) |
 
 O, with his servant, he went on in deep thought and silence, striving to
 find ways to answer that call of Doirenn, who held him in bitter
@@ -594,7 +594,7 @@ life is."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HEN he mounted his horse and when his servant looked downcast at the
 parting, Ruadan tried to cheer him, and sang words of the hymn of Saint
@@ -630,7 +630,7 @@ There is nothing to fear on that road*!
 
 |                     |
 |---------------------|
-| ![Q](img/qinit.jpg) |
+| ![Q](img/qinit.jpg.md) |
 
 UEEN OTA, wife of Ragnor who was called Thor's servant,
 Thorgille--"Turgesius" by the christian land--was a thing of strange
@@ -764,7 +764,7 @@ men she had grown tired of.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 DAY went by and the spoils were not divided. She carried the key of the
 treasure tower at her girdle, and walked among the ruins her fierce
@@ -796,7 +796,7 @@ Erinn.
 
 |                     |
 |---------------------|
-| ![F](img/finit.jpg) |
+| ![F](img/finit.jpg.md) |
 
 OR a runner from the south hills came to her with strange word, and she
 put secrecy on him, and told Barolf and told Gurtha that a strong ally
@@ -852,7 +852,7 @@ steady while the head men were there, and Gurtha was there.
 
 |                     |
 |---------------------|
-| ![B](img/binit.jpg) |
+| ![B](img/binit.jpg.md) |
 
 UT when they were gone, it was not a gift of shield or spear she would
 give Ruadan for the enchantings of his wine-brown eyes. Ota had been
@@ -894,7 +894,7 @@ wine of the cloisters was good.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was starlight and it pleased Ota to walk with Ruadan in the night.
 And the cell where he had once slept was where she would go. It was
@@ -927,7 +927,7 @@ for the place of Amlaf, my brother, and it is making troubles."
 
 |                     |
 |---------------------|
-| ![R](img/rinit.jpg) |
+| ![R](img/rinit.jpg.md) |
 
 UADAN looked up at the tower where a white face moved at the narrow slit
 in the stone wall--the face did not reach the height of a man. "You have
@@ -960,7 +960,7 @@ follow their will in a raiding, and take their women as they choose, but
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE sun was high in the morning when Ota the queen took her serving-man,
 who was her slave, and her new guest, of the Irish, to the tower of the
@@ -1047,7 +1047,7 @@ to a lover! So choose your gift from the spoils of kings, O Ruadan!"
 
 |                     |
 |---------------------|
-| ![H](img/hinit.jpg) |
+| ![H](img/hinit.jpg.md) |
 
 E laughed with her and fastened a great gold brooch in her sweeping
 cloak. "My choice is only a jewel for your wearing," he said. "Are you
@@ -1125,7 +1125,7 @@ are ye so fearful? How is it that ye have no faith*?"
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE wine feast of Queen Ota was a victory feast for all. Gurtha was
 angered that it was given before Amlaf returned; neither had Barolf
@@ -1585,7 +1585,7 @@ the queen unlace it in the tower.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE sun set, and the other suns rose ere he wakened to knowledge.
 Troubled phantoms of blood and death were with him in his weakness, and
@@ -1659,7 +1659,7 @@ him.
 
 |                     |
 |---------------------|
-| ![W](img/winit.jpg) |
+| ![W](img/winit.jpg.md) |
 
 HEN he wakened his thoughts were more steady, and he asked if the golden
 chalice had been a thing of dreaming.
@@ -1744,7 +1744,7 @@ her was under shadow from the thought.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 S strength came back and the wound healed, he had curious looks at her,
 ever with the book of amber and pearl of sea on the cover. But when he
@@ -1825,7 +1825,7 @@ So he carried her secret--and with it the mystery of her.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 S they could, they went from the hut of hiding and went seaward in the
 nights through the great lough, and hid in forest or swamp meadows or
@@ -1999,7 +1999,7 @@ quietness.
 
 |                     |
 |---------------------|
-| ![S](img/sinit.jpg) |
+| ![S](img/sinit.jpg.md) |
 
 HE still bore the precious book, making prayer on it through all the
 terrible ways they trod, but he bore the leathern bag in which the food
@@ -2019,7 +2019,7 @@ grew angry with herself and went to her prayers.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 LL of a day did Ruadan of Ardsolais and Doirenn na Marvan lay in hiding
 of the hills where the path to the high cell of Saint Senan could be
@@ -2156,7 +2156,7 @@ breed the evils of carnal loves?"
 
 |                     |
 |---------------------|
-| ![R](img/rinit.jpg) |
+| ![R](img/rinit.jpg.md) |
 
 UADAN stared at him as at a wild dog he would throttle, and then let
 fall the sack, looking at the wasted form and the wild eyes. He tried to
@@ -2247,7 +2247,7 @@ face of Amlaf, brother of Ota the queen!
 
 |                     |
 |---------------------|
-| ![H](img/hinit.jpg) |
+| ![H](img/hinit.jpg.md) |
 
 E looked up and laughed, and the thing he laughed at was Doirenn, who
 stood on the narrow ledge waiting Ruadan, and in her hand was his
@@ -2311,7 +2311,7 @@ always to walk with you."
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 MONG the Manes, that wood by Lough Dearg gained weird tales of Irish
 enchantings, and the reason was that Amlaf the prince had ridden along
@@ -2331,7 +2331,7 @@ also by this time weary of their raiding, back to their own shores.
 
 |                     |
 |---------------------|
-| ![F](img/finit.jpg) |
+| ![F](img/finit.jpg.md) |
 
 AR north in Connaught a youth in dress of the northmen was seen with
 Ruadan riding a black steed with royal chains of silver in his
@@ -2356,7 +2356,7 @@ hills after she came.
 
 |                     |
 |---------------------|
-| ![B](img/binit.jpg) |
+| ![B](img/binit.jpg.md) |
 
 ECAUSE of the vanishing of Amlaf the prince no Danes climbed again to
 the cell of the solitary monk, and after the weakening of the Danes the
@@ -2374,7 +2374,7 @@ climbed that hard way for holiness.
 
 |                     |
 |---------------------|
-| ![B](img/binit.jpg) |
+| ![B](img/binit.jpg.md) |
 
 UT in after years, a strange harmless babbler appeared one day among a
 herd of cattle in Thomond, shouting to them of heavenly crowns and wings
@@ -2468,7 +2468,7 @@ buried under moss, and shells of eggs, and bones of animals.
 
 |                     |
 |---------------------|
-| ![L](img/linit.jpg) |
+| ![L](img/linit.jpg.md) |
 
 EGENDS grew up about that finding, for after they were blest by the
 cleric that no evil thing might leave smirch on their beauty, they were
@@ -2493,7 +2493,7 @@ to the roof where he was sheltered.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 ND when Ruadan came back victorious from battle with the Danes, it was
 Fergus who discoursed to him of a great church as their shrine. He made
@@ -2546,7 +2546,7 @@ on the son she had borne him.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 ND in the edge of the wild field where the forest came down from the
 mountains, the cattle lifted their heads as a man, hairy and clad in
@@ -2570,4 +2570,4 @@ of beasts--and his reward is his."
 
 ------------------------------------------------------------------------
 
-[Next: Liadan and Kurithir](tdp04)
+[Next: Liadan and Kurithir](tdp04.md)

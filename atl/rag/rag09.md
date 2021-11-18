@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag08)  [Next](rag10) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag08)  [Next](rag10.md) 
 
 ------------------------------------------------------------------------
 
@@ -582,4 +582,4 @@ Let us go a step further.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Great Heat A Prerequisite](rag10)
+[Next: Chapter VIII. Great Heat A Prerequisite](rag10.md)

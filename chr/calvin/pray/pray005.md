@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray004)  [Next](pray006) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray004)  [Next](pray006.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Textual Heritage
 without a monitor both what our difficulties are, and what is meet for
 our interest, so that it seems in some measure superfluous to solicit
 him by our prayers, as if he were winking, or even sleeping, until
-aroused by the sound of our voice? <span id="fr_0"></span>[1](#fn_0)
+aroused by the sound of our voice? <span id="fr_0"></span>[1](#fn_0.md)
 Those who argue thus attend not to the end for which the Lord taught us
 to pray. It was not so much for his sake as for ours. He wills indeed,
 as is just, that due honour be paid him by acknowledging that all which
@@ -31,7 +31,7 @@ Elijah, who being assured of the purpose of God had good ground for the
 promise of rain which he gives to Ahab, and yet prays anxiously upon his
 knees, and sends his servant seven times to inquire (<span
 id="iii.iii-p1.3"></span>[1 Kings
-18:42](../../../bib/kjv/kg1018.htm#042)<span id="iii.iii-p1.3"></span>);
+18:42](../../../bib/kjv/kg1018.htm#042)<span id="iii.iii-p1.3"></span>.md);
 not that he discredits the oracle, but because he knows it to be his
 duty to lay his desires before God, lest his faith should become drowsy
 or torpid. Wherefore, although it is true that while we are listless or
@@ -65,7 +65,7 @@ government of the universes is in vain importuned by our supplications,
 when, on the contrary, the Lord himself declares, that he is "nigh unto
 all that call upon him, to all that call upon him in truth (<span
 id="iii.iii-p1.4"></span>[Psalm
-145:18](../../../bib/kjv/psa145.htm#018)<span
+145:18](../../../bib/kjv/psa145.htm#018.md)<span
 id="iii.iii-p1.4"></span>). No better is the frivolous allegation of
 others, that it is superfluous to pray for things which the Lord is
 ready of his own accord to bestow; since it is his pleasure that those
@@ -74,7 +74,7 @@ acknowledged as conceded to our prayers. This is testified by that
 memorable sentence in the psalms to which many others corresponds: "The
 eyes of the Lord are upon the righteous, and his ears are open unto
 their cry" (<span id="iii.iii-p1.5"></span>[Psalm
-34:15](../../../bib/kjv/psa034.htm#015)<span id="iii.iii-p1.5"></span>).
+34:15](../../../bib/kjv/psa034.htm#015)<span id="iii.iii-p1.5"></span>.md).
 This passage, while extolling the care which Divine Providence
 spontaneously exercises over the safety of believers, omits not the
 exercise of faith by which the mind is aroused from sloth. The eyes of
@@ -82,7 +82,7 @@ God are awake to assist the blind in their necessity, but he is likewise
 pleased to listen to our groans, that he may give us the better proof of
 his love. And thus both things are true, "He that keepeth Israel shall
 neither slumber nor sleep" (<span id="iii.iii-p1.6"></span>[Psalm
-121:4](../../../bib/kjv/psa121.htm#004)<span id="iii.iii-p1.6"></span>);
+121:4](../../../bib/kjv/psa121.htm#004)<span id="iii.iii-p1.6"></span>.md);
 and yet whenever he sees us dumb and torpid, he withdraws as if he had
 forgotten us.
 
@@ -90,7 +90,7 @@ forgotten us.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](pray005.htm#fr_0) <span
+<span id="fn_0"></span>[1](pray005.htm#fr_0.md) <span
 id="iii.iii-p1.1"></span>French, "<span id="iii.iii-p1.2"></span>Dont il
 sembleroit que ce fust chose supeflue de le soliciter par prieres; veu
 que nous avons accoustumé de soliciter ceux qui ne pensent à nostre
@@ -100,4 +100,4 @@ solicit those who think not of our business and who are slumbering.
 
 ------------------------------------------------------------------------
 
-[Next: 4.](pray006)
+[Next: 4.](pray006.md)

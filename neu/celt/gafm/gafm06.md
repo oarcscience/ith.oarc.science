@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](gafm05)  [Next](gafm07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](gafm05)  [Next](gafm07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gods and Fighting Men*, by Lady Gregory, \[1904\], at Intangible
 Textual Heritage
 
@@ -865,8 +865,8 @@ And their father cried and lamented over his three beautiful sons, that
 had the making of a king of Ireland in each of them, and his strength
 left him and he died; and they were buried in the one grave.
 
-[Next: Part I Book III: The Great Battle of Magh Tuireadh](gafm06)
+[Next: Part I Book III: The Great Battle of Magh Tuireadh](gafm06.md)
 
 ------------------------------------------------------------------------
 
-[Next: Part I Book III: The Great Battle of Magh Tuireadh](gafm07)
+[Next: Part I Book III: The Great Battle of Magh Tuireadh](gafm07.md)

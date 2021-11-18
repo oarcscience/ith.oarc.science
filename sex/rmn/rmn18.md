@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn17)  [Next](rmn19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn17)  [Next](rmn19.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ one common belief, and gave rise to the same identical forms of worship.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XVIII: The Tripod](rmn19)
+[Next: Plate XVIII: The Tripod](rmn19.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps23)  [Next](rps25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps23)  [Next](rps25.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ King Alpha and Queen Omega, The First and The Last.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 23. Ethiopia's Banqueting Chamber](rps25)
+[Next: Chapter 23. Ethiopia's Banqueting Chamber](rps25.md)

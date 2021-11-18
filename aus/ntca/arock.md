@@ -1,13 +1,13 @@
-[Sacred-Texts](../../index)  [Australia](../index) 
-[Paleolithic](../../nel/index)  [Shamanism](../../sha/index) 
-[African](../../afr/index)  [Native American](../../nam/index) 
+[Sacred-Texts](../../index)  [Australia](../index.md) 
+[Paleolithic](../../nel/index)  [Shamanism](../../sha/index.md) 
+[African](../../afr/index)  [Native American](../../nam/index.md) 
 
 ------------------------------------------------------------------------
 
 # Australian Aboriginal Rock Art
 
 These reproductions of rock art from Australia are from [The Native
-Tribes of Central Australia](index) by Baldwin Spencer and F. J. Gillen
+Tribes of Central Australia](index.md) by Baldwin Spencer and F. J. Gillen
 \[1899\]. Although these images are clearly in the public domain, if you
 use them please respect their sacred nature.
 
@@ -27,11 +27,11 @@ highest level of culture on Earth on the basis of this art.
 
 |                                        |
 |----------------------------------------|
-| [![](tn/arock00.jpg)](img/arock00.jpg) |
-| [![](tn/arock01.jpg)](img/arock01.jpg) |
-| [![](tn/arock02.jpg)](img/arock02.jpg) |
-| [![](tn/arock03.jpg)](img/arock03.jpg) |
-| [![](tn/arock04.jpg)](img/arock04.jpg) |
-| [![](tn/arock05.jpg)](img/arock05.jpg) |
-| [![](tn/arock06.jpg)](img/arock06.jpg) |
-| [![](tn/arock07.jpg)](img/arock07.jpg) |
+| [![](tn/arock00.jpg)](img/arock00.jpg.md) |
+| [![](tn/arock01.jpg)](img/arock01.jpg.md) |
+| [![](tn/arock02.jpg)](img/arock02.jpg.md) |
+| [![](tn/arock03.jpg)](img/arock03.jpg.md) |
+| [![](tn/arock04.jpg)](img/arock04.jpg.md) |
+| [![](tn/arock05.jpg)](img/arock05.jpg.md) |
+| [![](tn/arock06.jpg)](img/arock06.jpg.md) |
+| [![](tn/arock07.jpg)](img/arock07.jpg.md) |

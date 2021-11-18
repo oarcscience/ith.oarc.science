@@ -1,4 +1,4 @@
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ second-hand from German translations of the originals, but the fact
 remains that they are the only substantial source material on Mandæanism
 that is in the public domain. More texts relating to the Mandæans are
 available at the [Gnostic
-Archives](https://www.gnosis.org/library/mand).
+Archives](https://www.gnosis.org/library/mand.md).
 
  
 
@@ -45,13 +45,13 @@ This edition has been fully unicode-enabled. It utilizes the characters
 the characters in red do not display properly, you will need to install
 a good unicode font to see them. Arial Unicode MS Font for Publisher
 2000 is probably the most complete font available now for Windows. The
-[Code 2000 shareware font](https://home.att.net/~jameskass/CODE2000.ZIP)
+[Code 2000 shareware font](https://home.att.net/~jameskass/CODE2000.ZIP.md)
 is also a very extensive Windows font.
 
 NOTE: The Microsoft font mentioned above is no longer available. For
 information about Unicode fonts, and general issues related to the use
 of Unicode at Intangible Textual Heritage, please refer to [this
-page](../../../unicode).--JBH
+page](../../../unicode.md).--JBH
 
 Quotations set in a smaller font in the original text have been rendered
 indented (*i.e.* inside of &lt;BLOCKQUOTE&gt; tags).

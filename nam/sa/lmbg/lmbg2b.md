@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](lmbg2a) [Next](lmbg3a)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](lmbg2a) [Next](lmbg3a.md)
 
 ------------------------------------------------------------------------
 
@@ -1618,7 +1618,7 @@ Than his forefathers were, is the Christian Warau.<br />
 
 ------------------------------------------------------------------------
 
-[Next](lmbg3a)
+[Next](lmbg3a.md)
 
 ------------------------------------------------------------------------
 
@@ -1626,17 +1626,17 @@ Than his forefathers were, is the Christian Warau.<br />
 
 <span id="footnotes_page_52">p. 52</span>
 
-<span id="page_52_note_1"></span>[1](#page_52_fr_1) The mauritia (or
+<span id="page_52_note_1"></span>[1](#page_52_fr_1.md) The mauritia (or
 morische) palm, called by the Arawâks "ité."
 
 <span id="footnotes_page_53">p. 53</span>
 
-<span id="page_53_note_1"></span>[1](#page_53_fr_1) Warau—pronounce the
+<span id="page_53_note_1"></span>[1](#page_53_fr_1.md) Warau—pronounce the
 latter syllable like "row," a quarrel.
 
 <span id="footnotes_page_75">p. 75</span>
 
-<span id="page_75_note_1"></span>[1](#page_75_fr_1) C. Kingsley's "At
+<span id="page_75_note_1"></span>[1](#page_75_fr_1.md) C. Kingsley's "At
 Last," chap. viii. One can imagine the delight with which the author of
 "Westward Ho," with the tropical scenery he had long read and dreamed of
 in all its glorious reality around him, must have listened to the legend

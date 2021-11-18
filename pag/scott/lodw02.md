@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](lodw01)  [Next](lodw03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](lodw01)  [Next](lodw03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -794,7 +794,7 @@ mythology of the ancients. The cloven foot is the attribute of Pan -- to
 whose talents for inspiring terror we owe the word *panic* -- the snaky
 tresses are borrowed from the shield of Minerva, and the dragon train
 alone seems to be connected with the Scriptural history.  <span
-id="fr_4"></span>[5](#fn_4)
+id="fr_4"></span>[5](#fn_4.md)
 
       Other heathen nations, whose creeds could not have directly
 contributed to the system of demonology, because their manners and even
@@ -839,7 +839,7 @@ jugglery and the knowledge of some medical herbs and secrets, the
 understanding of the colonists was unable to trace to their real source
 -- legerdemain and imposture. By the account, however, of the Reverend
 Cotton Mather, in his *Magnalia*, book vi., <span
-id="fr_5"></span>[6](#fn_5) he does not ascribe to these Indian
+id="fr_5"></span>[6](#fn_5.md) he does not ascribe to these Indian
 conjurers any skill greatly superior to a maker of almanacks or common
 fortuneteller. " They," says the Doctor, " universally acknowledged and
 worshipped many gods, and therefore highly esteemed and reverenced their
@@ -921,7 +921,7 @@ napkin crammed into his mouth, sat howling like a chastised cur. But on
 being finally transported to America, John Gibb, we are assured, was
 much admired by the heathen for his familiar converse with the devil
 bodily, and offering sacrifices to him. " He died there," says Walker, "
-about the year 1720." <span id="fr_6"></span>[7](#fn_6) We Must
+about the year 1720." <span id="fr_6"></span>[7](#fn_6.md) We Must
 necessarily infer that the pretensions of the natives to supernatural
 communication could not be of a high class, since we find them honouring
 this poor madman as their superior; and, in general, that the magic, or
@@ -946,7 +946,7 @@ though they exchanged fire with the settlers, never killed or scalped
 any one, the English became convinced that they were not real Indians
 and Frenchmen, but that the devil and his agents had assumed such an
 appearance, although seemingly not enabled effectually to support it,
-for the molestation of the colony. <span id="fr_7"></span>[8](#fn_7)
+for the molestation of the colony. <span id="fr_7"></span>[8](#fn_7.md)
 
       It appears, then, that the ideas of superstition which the more
 ignorant converts to the Christian faith borrowed from the wreck of the
@@ -979,23 +979,23 @@ demonology.
 
 ### Footnotes
 
-<span id="fn_4"></span>[5](lodw02.htm#fr_4) The chart alluded to is one
+<span id="fn_4"></span>[5](lodw02.htm#fr_4.md) The chart alluded to is one
 of the *facsimiles* of an ancient planisphere, engraved in bronze about
 the end of the 15th century, and called the Borgian Table, from its
 possessor, Cardinal Stephen Borgia, end preserved in his museum at
 Veletri.
 
-<span id="fn_5"></span>[6](lodw02.htm#fr_5) "On Remarkable Mercies of
+<span id="fn_5"></span>[6](lodw02.htm#fr_5.md) "On Remarkable Mercies of
 Divine Providence."
 
-<span id="fn_6"></span>[7](lodw02.htm#fr_6) See Patrick Walker's "
+<span id="fn_6"></span>[7](lodw02.htm#fr_6.md) See Patrick Walker's "
 Biographia Presbyteriana," vol. ii. p. 23; also " God's judgment upon
 Persecutors," and Wodrow's " History," upon the article John Gibb.
 
-<span id="fn_7"></span>[8](lodw02.htm#fr_7) "Magnalia," book vii.
+<span id="fn_7"></span>[8](lodw02.htm#fr_7.md) "Magnalia," book vii.
 article xviii. The fact is also alleged in the " Life of Sir William
 Phipps."
 
 ------------------------------------------------------------------------
 
-[Next: Letter 3](lodw03)
+[Next: Letter 3](lodw03.md)

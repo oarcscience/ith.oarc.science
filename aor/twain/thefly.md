@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Age of Reason](../index) 
-[Twain](index)
+[Intangible Textual Heritage](../../index)  [Age of Reason](../index.md) 
+[Twain](index.md)
 
 ------------------------------------------------------------------------
 

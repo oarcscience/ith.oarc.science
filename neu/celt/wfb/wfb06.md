@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb05)  [Next](wfb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb05)  [Next](wfb07.md) 
 
 ------------------------------------------------------------------------
 
@@ -392,4 +392,4 @@ about.
 
 ------------------------------------------------------------------------
 
-[Next: Elidyr's Sojurn in Fairy Land](wfb07)
+[Next: Elidyr's Sojurn in Fairy Land](wfb07.md)

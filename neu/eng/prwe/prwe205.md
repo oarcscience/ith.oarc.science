@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe204)  [Next](prwe206) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe204)  [Next](prwe206.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ from the shore to a rock off Morva, be but another version of this story
 
 ------------------------------------------------------------------------
 
-[Next: The Drowned "Hailing their Names"](prwe206)
+[Next: The Drowned "Hailing their Names"](prwe206.md)

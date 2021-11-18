@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb08)  [Next](mlb10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb08)  [Next](mlb10.md) 
 
 ------------------------------------------------------------------------
 
@@ -517,4 +517,4 @@ song.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Heroes and Demi-Gods](mlb10)
+[Next: Chapter VIII: Heroes and Demi-Gods](mlb10.md)

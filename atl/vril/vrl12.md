@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl11)  [Next](vrl13) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl11)  [Next](vrl13.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ world, as the reader will see in the next chapter.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XIV](vrl13)
+[Next: CHAPTER XIV](vrl13.md)

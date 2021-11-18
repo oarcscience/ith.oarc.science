@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont34)  [Next](ont36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont34)  [Next](ont36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -123,7 +123,7 @@ come from the direction of that peak. When my eldest son died, I felt
 his loss so deeply, that I climbed to its summit and lay there fasting,
 for ten days and ten nights. During that time I had a dream, in which
 the Spirit of the Mountain appeared and gave me a Medicine Robe <span
-id="fr_39"></span>[1](#fn_35) with a song. He instructed me how to make
+id="fr_39"></span>[1](#fn_35.md) with a song. He instructed me how to make
 the robe, and said that, if I used it in doctoring, or when I appeared
 before the assembled people, I would be endowed with wisdom and
 supernatural power.
@@ -173,7 +173,7 @@ little thing turn its diminutive face towards me and wrinkle up its nose
 (one of her baby tricks).
 
 When I inquired of Brings-down-the-Sun as to the number of his
-children, <span id="fr_40"></span>[1](#fn_36) he said, "There are nine
+children, <span id="fr_40"></span>[1](#fn_36.md) he said, "There are nine
 living, four sons and five daughters; Running Wolf (named as directed by
 the Medicine Wolf), Iron Shirt (after his
 
@@ -219,12 +219,12 @@ they were exhausted from exposure and lack of food."
 
 ### Footnotes
 
-<span id="fn_35"></span>[430:1](ont35.htm#fr_39) See
-[Appendix](ont44.htm#an_29).
+<span id="fn_35"></span>[430:1](ont35.htm#fr_39.md) See
+[Appendix](ont44.htm#an_29.md).
 
-<span id="fn_36"></span>[431:1](ont35.htm#fr_40) See
-[Appendix](ont46.htm#an_431).
+<span id="fn_36"></span>[431:1](ont35.htm#fr_40.md) See
+[Appendix](ont46.htm#an_431.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIII. The Old North Trail](ont36)
+[Next: Chapter XXXIII. The Old North Trail](ont36.md)

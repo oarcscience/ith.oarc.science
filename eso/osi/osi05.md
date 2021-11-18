@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi04)  [Next](osi06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi04)  [Next](osi06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -120,14 +120,14 @@ pronounce his name three times and offer him adoration.
 ![](img/3stars.jpg)
 
 He should then contemplate the infinite perfection of Brahma. He should
-ponder over the three triads, <span id="fr_2"></span>[1](#fn_2) which
+ponder over the three triads, <span id="fr_2"></span>[1](#fn_2.md) which
 have sprung from him, and have created the eight million four hundred
 thousand kinds of living creatures, at the head of which is man.
 
 ![](img/3stars.jpg)
 
 He should then ponder over the existence of the universe, which is to
-last a hundred years of the gods, <span id="fr_3"></span>[2](#fn_3)
+last a hundred years of the gods, <span id="fr_3"></span>[2](#fn_3.md)
 which are divided into four periods, of which the first, second, and
 half of the third have already elapsed. He should then perform an
 oblation to the universe.
@@ -524,7 +524,7 @@ a stalk of sacred cousa grass.
 
 ![](img/3stars.jpg)
 
-The Brahmatchary should never cause the [slightest](errata.htm#2)
+The Brahmatchary should never cause the [slightest](errata.htm#2.md)
 trouble to the Guru who has undertaken to educate him and to instruct
 him in the knowledge of the sacred scriptures. He should venerate him
 like a father and mother.
@@ -564,12 +564,12 @@ present.
 
 ### Footnotes
 
-<span id="fn_2"></span>[34:1](osi05.htm#fr_2) Nara-Nara-Viradj
+<span id="fn_2"></span>[34:1](osi05.htm#fr_2.md) Nara-Nara-Viradj
 ![](img/3star2.jpg) Ayni-Voya-Sourya \* Brahma \* Vischnou-Siva.
 
-<span id="fn_3"></span>[34:2](osi05.htm#fr_3) Each year of the gods is
+<span id="fn_3"></span>[34:2](osi05.htm#fr_3.md) Each year of the gods is
 equal to several thousands of the lunar years.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The First Degree of Initiation](osi06)
+[Next: Chapter V. The First Degree of Initiation](osi06.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc07)  [Next](ogc09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc07)  [Next](ogc09.md) 
 
 ------------------------------------------------------------------------
 
@@ -215,4 +215,4 @@ divisible, a body can fall into separate parts.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9](ogc09)
+[Next: Chapter 9](ogc09.md)

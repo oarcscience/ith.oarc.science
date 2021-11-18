@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str13)  [Next](str15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str13)  [Next](str15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -75,7 +75,7 @@ that
 of the Cursus & Stonehenge from the North Aug. 6, 1723.&lt;br&gt; A. The
 Entrance of the Avenue. B. The 7 Barrows. C. The Kings Barrow. D.
 Salisbury Steeple. E. Stonehenge.](tn/pl29.jpg)  
-Click to enlarge](img/pl29.jpg)  
+Click to enlarge](img/pl29.jpg.md)  
 Plate 29. Prospect of the Cursus & Stonehenge from the North Aug. 6,
 1723.  
 A. The Entrance of the Avenue. B. The 7 Barrows. C. The Kings Barrow. D.
@@ -94,7 +94,7 @@ the other to the right hand, eastward. They go off with a like angle,
 and that angle varies the like quantity. The western wing goes to the
 *cursus*, before observ’d, the place upon the downs, half a mile off
 *Stonehenge*, made for races with chariots and horses. The right hand
-wing of the [avenue](errata.htm#7) runs directly eastward for a mile
+wing of the [avenue](errata.htm#7.md) runs directly eastward for a mile
 together, pointing to a place on an angle of the river, called *Radfin*.
 This part of the avenue, which was intended by the founders, to have
 been drawn precisely east and west, varies about 5 or 6 degrees to the
@@ -228,7 +228,7 @@ the deity who thus
 <span id="img_pl30"></span> <span align="CENTER"> [![Plate 30. Prospect
 from the west end of the Cursus of Stonehenge&lt;br&gt; A. the eastern
 meta. B. the eastern wing of the avenue. C. Stonehenge.](tn/pl30.jpg)  
-Click to enlarge](img/pl30.jpg)  
+Click to enlarge](img/pl30.jpg.md)  
 Plate 30. Prospect from the west end of the Cursus of Stonehenge  
 A. the eastern meta. B. the eastern wing of the avenue. C. Stonehenge.  
 </span>
@@ -377,7 +377,7 @@ Prospect of the barrows in Lake field called the Eleven barrows & lately
 the prophets barrows 2&lt;sup&gt;d&lt;/sup&gt;.
 Sep&lt;sup&gt;r&lt;/sup&gt;. 1723.&lt;br&gt; A. Stonehenge. P. barrow
 opened by L. Pembroke. SS by Stukeley.](tn/pl31.jpg)  
-Click to enlarge](img/pl31.jpg)  
+Click to enlarge](img/pl31.jpg.md)  
 Plate 31. A Prospect of the barrows in Lake field called the Eleven
 barrows & lately the prophets barrows 2<sup>d</sup>. Sep<sup>r</sup>.
 1723.  
@@ -529,7 +529,7 @@ such coin in the
 <span id="img_pl32"></span> <span align="CENTER"> [![Plate 32. Female
 Celtic ornaments found in a barrow north of Stonehenge which I opend 5
 July 1723. among burnt bones, all drawn as big as Life.](tn/pl32.jpg)  
-Click to enlarge](img/pl32.jpg)  
+Click to enlarge](img/pl32.jpg.md)  
 Plate 32. Female Celtic ornaments found in a barrow north of Stonehenge
 which I open’d 5 July 1723. among burnt bones, all drawn as big as
 Life.  
@@ -677,7 +677,7 @@ is always 2 degrees and a half
 <span id="img_pl33"></span> <span align="CENTER"> [![Plate 33. Prospect
 from Bushbarrow.&lt;br&gt; a. Runway hill. b. Oldbury. D.
 Stonehenge.](tn/pl33.jpg)  
-Click to enlarge](img/pl33.jpg)  
+Click to enlarge](img/pl33.jpg.md)  
 Plate 33. Prospect from Bushbarrow.  
 a. Runway hill. b. Oldbury. D. Stonehenge.  
 </span>
@@ -806,7 +806,7 @@ upon the return, and as it were, stationary: like the sun's motion at
 the tropics, when it is returning. So that the nice determination of its
 circle, and of its motion, is reserved for remote posterity. Dr. Halley
 conjectures, that the whole period of variation, is perform’d in about
-700 years. Upon this supposition, in gross, [we](errata.htm#8) may thus
+700 years. Upon this supposition, in gross, [we](errata.htm#8.md) may thus
 found our conjecture, of the time of building of *Stonehenge*.
 
 By what we can find, the variation is about 9 minutes in a year, or a
@@ -823,7 +823,7 @@ toward no variation and so to west. This must be the foundation of our
 *calculus*.
 
 Therefore at the time of the founding of *Stonehenge*, the variation was
-about the same quantity and place, as [about](errata.htm#9) A.D. 1620.
+about the same quantity and place, as [about](errata.htm#9.md) A.D. 1620.
 in our preceeding table. Supposing with Dr. *Halley*, the revolution of
 this variation be about 700 years, three intire revolutions thereof,
 bring us to about the year of the city of *Rome* 280. which is about 460
@@ -877,7 +877,7 @@ three parts, and bound up with guards.
 <span id="img_pl34"></span> <span align="CENTER"> [![Plate 34. Carvilii
 Regis Tumulus Iuly 29 1723.&lt;br&gt; Sorbiodunum. C. Salisbury. D. the
 Icening street road. F. Harnham hill.](tn/pl34.jpg)  
-Click to enlarge](img/pl34.jpg)  
+Click to enlarge](img/pl34.jpg.md)  
 Plate 34. Carvilii Regis Tumulus Iuly 29 1723.  
 Sorbiodunum. C. Salisbury. D. the Icening street road. F. Harnham
 hill.  
@@ -886,11 +886,11 @@ hill.
 <span id="img_pl35"></span> <span align="CENTER"> [![Plate 35. The
 Perspective of the Second Temple at Persepolis.&lt;br&gt; (inset)
 Groundplot of the Second Temple at Persepolis.](tn/pl35.jpg)  
-Click to enlarge](img/pl35.jpg)  
+Click to enlarge](img/pl35.jpg.md)  
 Plate 35. The Perspective of the Second Temple at Persepolis.  
 (inset) Groundplot of the Second Temple at Persepolis.  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Index](str15)
+[Next: Index](str15.md)

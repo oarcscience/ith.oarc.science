@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf18)  [Next](sunf20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf18)  [Next](sunf20.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -112,6 +112,6 @@ So they went all of them up to the house, and were merry and joyful.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Elfhild Hears of the Slaying](sunf20)
+[Next: Chapter XVIII. Elfhild Hears of the Slaying](sunf20.md)
 
 </div>

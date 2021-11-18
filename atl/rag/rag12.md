@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag11)  [Next](rag13) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag11)  [Next](rag13.md) 
 
 ------------------------------------------------------------------------
 
@@ -642,4 +642,4 @@ I pass now to the next question.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Could A Comet Strike The Earth?](rag13)
+[Next: Chapter III. Could A Comet Strike The Earth?](rag13.md)

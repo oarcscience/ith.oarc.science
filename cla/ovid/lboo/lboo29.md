@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo28)  [Next](lboo30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo28)  [Next](lboo30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -61,10 +61,10 @@ per Venerem iuro puerique volatilis arcus,<br />
 <span id="img_04400"></span>
 
 [![A BACK COVERED WITH WEALS](tn/04400.jpg)  
-Click to enlarge](img/04400.jpg)  
+Click to enlarge](img/04400.jpg.md)  
 A BACK COVERED WITH WEALS  
 
 ------------------------------------------------------------------------
 
 [Next: Elegy VIII: He Asks Cypassis How In The World Corinna Could Have
-Found Them Out.](lboo30)
+Found Them Out.](lboo30.md)

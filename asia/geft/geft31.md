@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft30)  [Next](geft32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft30)  [Next](geft32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -71,7 +71,7 @@ and he too disappeared, amid the jeers of the mob.
 The competition lasted throughout the whole of that day and the next, to
 the delight of the people, until at last they thought of getting a
 certain Nasr-Eddin, a wit well known throughout the East, to oppose to
-the shah. <span id="fr_54"></span>[1](#fn_53)
+the shah. <span id="fr_54"></span>[1](#fn_53.md)
 
 On the third, and last, day appeared Nasr-Eddin, tattered and almost
 naked, dragging with him two great clay jars. Addressing the shah, he
@@ -101,10 +101,10 @@ rascal, you have outwitted me.'
 
 ### Footnotes
 
-<span id="fn_53"></span>[161:1](geft31.htm#fr_54) The Mullah Nasr-Eddin
+<span id="fn_53"></span>[161:1](geft31.htm#fr_54.md) The Mullah Nasr-Eddin
 is the hero of hundreds of witty tales. A French translation of some of
 them (from the Turkish) was published, by Decourdemanche, in 1878.
 
 ------------------------------------------------------------------------
 
-[Next: V. The King's Son](geft32)
+[Next: V. The King's Son](geft32.md)

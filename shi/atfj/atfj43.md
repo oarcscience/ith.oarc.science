@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj42)  [Next](atfj44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj42)  [Next](atfj44.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_47"></span> <span align="CENTER"> [![47. The Spirit of the
 One-Eyed Priest, Yenoki, Appears to Sonobé](tn/47.jpg)  
-Click to enlarge](img/47.jpg)  
+Click to enlarge](img/47.jpg.md)  
 47. The Spirit of the One-Eyed Priest, Yenoki, Appears to Sonobé  
 </span>
 
 ### XLI
 
-### THE SPIRIT OF YENOKI <span id="fr_42"></span>[1](#fn_42)
+### THE SPIRIT OF YENOKI <span id="fr_42"></span>[1](#fn_42.md)
 
 THERE is a mountain in the province of Idsumi called Oki-yama (or Oji
 Yam a); it is connected with the Mumaru-Yama mountains. I will not vouch
@@ -253,7 +253,7 @@ Fudo-myo-o Temple. It is spoken of as 'the nine-families rice of Oki.'
 
 ### Footnotes
 
-<span id="fn_42"></span>[259:1](atfj43.htm#fr_42) Fukuga Sei said that
+<span id="fn_42"></span>[259:1](atfj43.htm#fr_42.md) Fukuga Sei said that
 this was an old story told him by his nurse, who was a native of the
 village of Oki-yama; also, that a solid gold Buddha, eighteen inches in
 height, had been stolen from the temple three years ago.
@@ -262,6 +262,6 @@ height, had been stolen from the temple three years ago.
 
 ------------------------------------------------------------------------
 
-[Next: XLII. The Spirit of the Lotus Lily](atfj44)
+[Next: XLII. The Spirit of the Lotus Lily](atfj44.md)
 
 </div>

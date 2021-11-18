@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](pro)  [Next](sol) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](pro)  [Next](sol.md) 
 
 ------------------------------------------------------------------------
 
@@ -833,4 +833,4 @@ judgment, with every hidden thing, whether good or bad.'
 
 ------------------------------------------------------------------------
 
-[Next: Song of Solomon](sol)
+[Next: Song of Solomon](sol.md)

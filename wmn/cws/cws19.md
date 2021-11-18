@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws18)  [Next](cws20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws18)  [Next](cws20.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### No. XV
 
-#### CONCERNING THE "POWERS OF THE AIR" <span id="fr_80"></span>[1](#fn_80)
+#### CONCERNING THE "POWERS OF THE AIR" <span id="fr_80"></span>[1](#fn_80.md)
 
 ##### PART I
 
@@ -24,7 +24,7 @@ swept around them was written, "The Powers of the Air."
 And I said to my genius, "Are these the spirits which control mediums?"
 And he said, "Do not use that word *Medium*; for it is misleading. These
 are the powers which affect and influence *Sensitives*. <span
-id="fr_81"></span>[2](#fn_81) They do not control, for they have no
+id="fr_81"></span>[2](#fn_81.md) They do not control, for they have no
 force. They are light as vapour. See!" Then he breathed on the table,
 and they were dispersed on all sides like smoke. And I said, "Whence do
 these spirits come, and what is their origin and nature?" And he
@@ -110,7 +110,7 @@ them, he be humble and self-abased, and obedient to the Divine Word.
 of Hosts; and turn out of it the money-changers, the dove-sellers, and
 the dealers in curious arts, yea, with a scourge of cords if need be."
 
-##### PART 2 <span id="fr_82"></span>[1](#fn_82)
+##### PART 2 <span id="fr_82"></span>[1](#fn_82.md)
 
 "The astral existences, although they are not intelligent personalities,
 are frequently the media of intelligent ideas, and operate as means of
@@ -157,16 +157,16 @@ to extinction."
 
 ### Footnotes
 
-<span id="fn_80"></span>[43:1](cws19.htm#fr_80) London, November 17,
+<span id="fn_80"></span>[43:1](cws19.htm#fr_80.md) London, November 17,
 1880. See *Life of Anna Kingsford*, vol. i, pp. 391-393.
 
-<span id="fn_81"></span>[43:2](cws19.htm#fr_81) That this is not
+<span id="fn_81"></span>[43:2](cws19.htm#fr_81.md) That this is not
 intended to be an exhaustive account of the experiences of Sensitives
 will be seen from Nos. XXXIX, XL, and XLVI.
 
-<span id="fn_82"></span>[45:1](cws19.htm#fr_82) Referred to in *Life of
+<span id="fn_82"></span>[45:1](cws19.htm#fr_82.md) Referred to in *Life of
 Anna Kingsford*, vol. i, pp. 400-402.
 
 ------------------------------------------------------------------------
 
-[Next: No. XVI: Concerning The Devil And Devils](cws20)
+[Next: No. XVI: Concerning The Devil And Devils](cws20.md)

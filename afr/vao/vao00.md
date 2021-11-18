@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [African](../index) 
-[Index](index)  [Next](vao01) 
+[Intangible Textual Heritage](../../index)  [African](../index.md) 
+[Index](index)  [Next](vao01.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ BY THE VAIL-BALLOU PRESS, INC., BINGHAMTON, N. Y.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](vao01)
+[Next: Introduction](vao01.md)

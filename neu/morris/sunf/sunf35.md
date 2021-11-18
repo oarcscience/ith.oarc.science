@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf34)  [Next](sunf36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf34)  [Next](sunf36.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -74,6 +74,6 @@ them, has ever since been called Shooters' Knowe.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIV. Osberne Sorrows for the Loss of Elfhild](sunf36)
+[Next: Chapter XXXIV. Osberne Sorrows for the Loss of Elfhild](sunf36.md)
 
 </div>

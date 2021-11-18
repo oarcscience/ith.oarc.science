@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli19)  [Next](roli21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli19)  [Next](roli21.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
 Some years ago the people from the Potrero district used to go up to an
 old village site on Palomar mountain, Pahamuk, <span
-id="fr_292"></span>[277](#fn_287) near where Bailey's place is now, at
+id="fr_292"></span>[277](#fn_287.md) near where Bailey's place is now, at
 the season for gathering acorns; and while they still lived there, a
 young man abused his wife. He scolded and beat her all the time, and she
 was always sad. She got sick and did not want to live. She would rather
@@ -40,7 +40,7 @@ could stay with him as long as he was kind to her, but no longer.
 So he promised never to treat her harshly again.
 
 She used to make the wiwish, acorn mush; <span
-id="fr_293"></span>[277](#fn_287) but it was never good. It was always
+id="fr_293"></span>[277](#fn_287.md) but it was never good. It was always
 watery. The man was sure he would never abuse his wife again. But when
 she made the mush just as she used to, and it was thin, he acted as
 before and lifted his hand to beat her.
@@ -56,8 +56,8 @@ The man fell on his back; and he and his baby stayed alone.
 
 ### Footnotes
 
-<span id="fn_287"></span>[153:277](roli20.htm#fr_293) *Ibid*.—S.
+<span id="fn_287"></span>[153:277](roli20.htm#fr_293.md) *Ibid*.—S.
 
 ------------------------------------------------------------------------
 
-[Next: The Dance of the Spirits](roli21)
+[Next: The Dance of the Spirits](roli21.md)

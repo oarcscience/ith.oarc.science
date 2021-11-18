@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs07)  [Next](mhs09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs07)  [Next](mhs09.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,4 +190,4 @@ theory does not appear to warrant serious consideration.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Iron As A Protective Charm](mhs09)
+[Next: VI. Iron As A Protective Charm](mhs09.md)

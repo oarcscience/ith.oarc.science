@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt23)  [Next](ettt25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt23)  [Next](ettt25.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -66,9 +66,9 @@ Dharmakaya, the Sambhogakaya, the Nirmanakaya, in the all-encompassing
 ##### 3
 
 Until I attain the Four Bodies of Buddha,  
-May even the name of Samsaric miseries [and](errata.htm#84) sins  
+May even the name of Samsaric miseries [and](errata.htm#84.md) sins  
 Be unheard in all my future lives  
-While I [enjoy](errata.htm#85) the happy Dharma-Oceans.
+While I [enjoy](errata.htm#85.md) the happy Dharma-Oceans.
 
 <span class="small">It is a long journey from sentient being to
 Buddhahood. Even a diligent and well-gifted person, after strenuous
@@ -139,7 +139,7 @@ which transcends Yes and No, which goes beyond the truth of either
 existence or non-existence. The Path of Mahamudra is knowing the mind in
 its essence without either adding or deducting anything to its original
 nature. The Fruit is Buddhahood, the realization which transcends the
-concepts of both Nirvana and [Saṃsāra](errata.htm#86). This Fruit is
+concepts of both Nirvana and [Saṃsāra](errata.htm#86.md). This Fruit is
 expressed in the Two Benefits—blessings accruing to oneself and
 blessings bestowed on others.</span>
 
@@ -203,7 +203,7 @@ consciousness</span>
 <span id="page_296">p. 296</span>
 
 <span class="small">as the ego. 2) The Clinging of Dharma—clinging to
-objects and [manifestations](errata.htm#87) as real.</span>
+objects and [manifestations](errata.htm#87.md) as real.</span>
 
 ##### 11
 
@@ -221,7 +221,7 @@ can be understood only if one learns to think from the standpoint of
 different categories of truth. For instance, in the Mundane category (or
 point-of-view) everything exists; but from the standpoint of
 Transcendental truth, nothing exists. <span
-id="fr_29"></span>[\*](#fn_29) This distinction in Buddhist philosophy
+id="fr_29"></span>[\*](#fn_29.md) This distinction in Buddhist philosophy
 between the Mundane and Transcendental views must be kept in
 mind.</span>
 
@@ -285,7 +285,7 @@ meditation is that in Mahamudra no meditation-effort and no correction
 is employed; but in most other types of meditations such as visualizing
 a subject, holding the breath, meditating on love and divine mercy a
 mental effort is always required <span
-id="fr_30"></span>[\*](#fn_30),</span>
+id="fr_30"></span>[\*](#fn_30.md),</span>
 
 <span id="page_299">p. 299</span>
 
@@ -378,7 +378,7 @@ Since Mind-essence is intrinsically apart from the subject-object
 pattern of thought, the teaching of realizing the Mind-essence is in
 this respect called the teaching of the Great Middle Way (Tib. Dwu Ma
 Chen Po). Since Mind-essence intrinsically encompasses all and its
-teaching is the [consummation](errata.htm#90) of all teachings, it is
+teaching is the [consummation](errata.htm#90.md) of all teachings, it is
 called the Great Perfection (Tib. Rdzogs Pa Chen Po). If one succeeds in
 practicing one teaching, no matter by what name it is called, he
 succeeds in realizing all.
@@ -419,7 +419,7 @@ Away from words, let me realize the truth of Dharma Essence.
 <span class="small">It is common for the yogi to cling to the rapture,
 brightness, and pleasant visions and feelings experienced during
 meditation-practice. Buddha, however, has warned that those who continue
-to crave such experiences cannot liberate [themselves](errata.htm#91).
+to crave such experiences cannot liberate [themselves](errata.htm#91.md).
 In practicing Mahamudra rightly, the yogi will find his craving for such
 ecstasies diminish and finally dissolve.</span>
 
@@ -427,7 +427,7 @@ ecstasies diminish and finally dissolve.</span>
 
 Dharma-dhatu may be translated as "the Universal Whole" in which evil
 thoughts and virtues, blindness and enlightenment are innately
-identical <span id="fr_31"></span>[\*](#fn_31).
+identical <span id="fr_31"></span>[\*](#fn_31.md).
 
 There is a famous Zen story that once a monk asked the Zen master Chow
 Chu, "What is Tao (reality or path)?" The master answered, "The ordinary
@@ -442,10 +442,10 @@ disclaim, since it excludes all discriminations and includes all
 differentiations.
 
 Before actually and directly realized the Mind-essence, whatever
-philosophy or theories [one](errata.htm#92) holds ("Reality is one,"
+philosophy or theories [one](errata.htm#92.md) holds ("Reality is one,"
 "Reality is two," "Truth is this or that") are nonsense like 'Playwords'
 of children. When one directly and actually realizes the Mind-essence,
-he reaches the [world](errata.htm#93)-beyond or the state called here
+he reaches the [world](errata.htm#93.md)-beyond or the state called here
 "Away From Playwords."
 
 <span id="page_304">p. 304</span>
@@ -469,7 +469,7 @@ And practice it day and night.
 
 The teaching of Buddhism on Great Voidness and Great Compassion is not
 rightly understood by most people. These two are, actually, one entity
-[manifested](errata.htm#96) in two aspects. But to the Sangsaric beings,
+[manifested](errata.htm#96.md) in two aspects. But to the Sangsaric beings,
 these two are seemingly irreconcilable since in many characteristics
 they seem opposed, the wisdom seems 'cold' while the compassion is
 'warm'; the Voidness has no object while the Compassion demands an
@@ -515,22 +515,22 @@ And the benevolent wishes of others may be readily fulfilled!
 
 ### Footnotes
 
-<span id="fn_29"></span>[296:\*](ettt24.htm#fr_29) We most strongly
+<span id="fn_29"></span>[296:\*](ettt24.htm#fr_29.md) We most strongly
 disagree with the translation of the idea that there is nothing that is
 not Sūnyatā as "there is nothing that exists." Sūnyatā is by no means
 non-existence (see our comments on notes 55 and 96). Until this is
 clearly understood, Zen and Mahamudra will remain word-play, only
 sparkling but unenlightening. Without experienced knowledge of the
 nature of Sūnyatā no treatise on Mahamudra is very helpful, and with
-such experiences, such treatises are [unnecessary](errata.htm#88) except
+such experiences, such treatises are [unnecessary](errata.htm#88.md) except
 as confirmation. The transcendental view is not that "nothing exists,"
 but rather that it is not true to say either "nothing exists" or
-"everything exists." The view that there is [nothing](errata.htm#89)
+"everything exists." The view that there is [nothing](errata.htm#89.md)
 that exists is the "Nihilistic Extreme" criticized in Tsong-kha-pa's
 text of Nāropā. See note 95 and the text of page
-[238](ettt17.htm#page_238). *Ed*.
+[238](ettt17.htm#page_238.md). *Ed*.
 
-<span id="fn_30"></span>[298:\*](ettt24.htm#fr_30) Here the translator
+<span id="fn_30"></span>[298:\*](ettt24.htm#fr_30.md) Here the translator
 is repeating, and we fear incorrectly, a conversation between himself
 and the editor, who pointed out to him that in the true meditation of
 love (not "on" love, as it is a meditation without seed) there is a
@@ -544,13 +544,13 @@ practice of Patanjali taught the effortless meditation—become part and
 parcel of spontaneous living—"without seed" or partaking of the nature
 of the unconditioned.
 
-<span id="fn_31"></span>[303:\*](ettt24.htm#fr_31) Here we strongly
+<span id="fn_31"></span>[303:\*](ettt24.htm#fr_31.md) Here we strongly
 disagree; Dharma-dhātu may *not* so be translated; defilements and the
 buddha-nature are not at all identical in the context of Dharma-dhātu,
-much less innately so. If [they](errata.htm#94) were, and hence if
+much less innately so. If [they](errata.htm#94.md) were, and hence if
 blindness and enlightenment were innately identical, there would be no
 point in either the translator's translation or comments, nor indeed in
-the existence of this or [any](errata.htm#95) other book. The expression
+the existence of this or [any](errata.htm#95.md) other book. The expression
 of the matter by the translator tends to confusion. We would rather see
 it put that the essential Buddha-nature is the self-nature of all
 things, and constitutes the ultimate reality stripped of all
@@ -564,6 +564,6 @@ forms) of the Buddha-nature.—*Ed*.
 
 ------------------------------------------------------------------------
 
-[Next: Errata from original](ettt25)
+[Next: Errata from original](ettt25.md)
 
 </div>

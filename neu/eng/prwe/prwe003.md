@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe002)  [Next](prwe004) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe002)  [Next](prwe004.md) 
 
 ------------------------------------------------------------------------
 
@@ -428,4 +428,4 @@ and in its solitude pursue his studies.
 
 ------------------------------------------------------------------------
 
-[Next: Corineus and Gogmagog](prwe004)
+[Next: Corineus and Gogmagog](prwe004.md)

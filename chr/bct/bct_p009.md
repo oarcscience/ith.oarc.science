@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Return
-to text](bct03.htm#p009)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md) [Return
+to text](bct03.htm#p009.md)
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ entered when he went into the presence of Eve.</span>
 
 ------------------------------------------------------------------------
 
-[Return to text](bct03.htm#p009)
+[Return to text](bct03.htm#p009.md)

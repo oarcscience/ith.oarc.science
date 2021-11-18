@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara18)  [Next](ara20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara18)  [Next](ara20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ Grande uomo sicuro tu sarei.'
 Great man shalt thou be!'
 
 Then the young man, who had only a *paolo* <span
-id="fr_34"></span>[1](#fn_34) in his purse, touched it, saying:--
+id="fr_34"></span>[1](#fn_34.md) in his purse, touched it, saying:--
 
 "Luna mia, bella Luna,  
 Mia sempre bella Luna!"
@@ -157,9 +157,9 @@ But oftener to those who work."
 
 ### Footnotes
 
-<span id="fn_34"></span>[122:1](ara19.htm#fr_34) Fivepence Roman money.
+<span id="fn_34"></span>[122:1](ara19.htm#fr_34.md) Fivepence Roman money.
 
 ------------------------------------------------------------------------
 
 [Next: Diana, Queen of the Serpents, Giver of the Gift of
-Languages](ara20)
+Languages](ara20.md)

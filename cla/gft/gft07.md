@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft06)  [Next](gft08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft06)  [Next](gft08.md) 
 
 ------------------------------------------------------------------------
 
@@ -314,7 +314,7 @@ falcon carries a dove?
 
 [![Andromeda crouched trembling on the rock waiting for what might
 befall.](tn/04000.jpg)  
-Click to enlarge](img/04000.jpg)  
+Click to enlarge](img/04000.jpg.md)  
 Andromeda crouched trembling on the rock waiting for what might
 befall.  
 
@@ -382,7 +382,7 @@ Then he unveiled the Gorgon's head, and said: "This has
 
 [![As he spoke Phineus and all his men-at-arms stopped
 short](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 As he spoke Phineus and all his men-at-arms stopped short  
 
  
@@ -439,4 +439,4 @@ utterly, and dwelt in their cities for many a hundred years.
 
 ------------------------------------------------------------------------
 
-[Next: Part Five: How Perseus Came Home Again](gft08)
+[Next: Part Five: How Perseus Came Home Again](gft08.md)

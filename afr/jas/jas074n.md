@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas073n)  [Next](jas075n)   
- \[[74. Two Sisters.](jas074)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas073n)  [Next](jas075n.md)   
+ \[[74. Two Sisters.](jas074.md)\]
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ lady, but betrayed her origin when a mouse ran across the floor.
 
 ------------------------------------------------------------------------
 
-[Next: Note 75. Assonah.](jas075n)
+[Next: Note 75. Assonah.](jas075n.md)

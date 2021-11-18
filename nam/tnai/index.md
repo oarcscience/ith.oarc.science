@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index)  [Native American](../index) 
+[Sacred-Texts](../../index)  [Native American](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -6,16 +6,16 @@
 
 ------------------------------------------------------------------------
 
-[Preface, Table of Contents, Introduction](tnai00) *31,159 bytes*  
-[Chapter I: Mythological Stories](tnai01) *81,974 bytes*  
-[Chapter II: Mythical Incidents](tnai02) *33,954 bytes*  
-[Chapter III: Trickster Tales](tnai03) *58,621 bytes*  
-[Chapter IV: Hero Tales](tnai04) *116,201 bytes*  
-[Chapter V: Journeys to the Other World](tnai05) *57,176 bytes*  
-[Chapter VI: Animal Wives and Husbands](tnai06) *57,424 bytes*  
-[Chapter VII: Miscellaneous Tales](tnai07) *63,630 bytes*  
-[Chapter VIII: Tales Borrowed From Europeans](tnai08) *143,429 bytes*  
-[Chapter IX: Bible Stories](tnai09) *12,158 bytes*  
+[Preface, Table of Contents, Introduction](tnai00.md) *31,159 bytes*  
+[Chapter I: Mythological Stories](tnai01.md) *81,974 bytes*  
+[Chapter II: Mythical Incidents](tnai02.md) *33,954 bytes*  
+[Chapter III: Trickster Tales](tnai03.md) *58,621 bytes*  
+[Chapter IV: Hero Tales](tnai04.md) *116,201 bytes*  
+[Chapter V: Journeys to the Other World](tnai05.md) *57,176 bytes*  
+[Chapter VI: Animal Wives and Husbands](tnai06.md) *57,424 bytes*  
+[Chapter VII: Miscellaneous Tales](tnai07.md) *63,630 bytes*  
+[Chapter VIII: Tales Borrowed From Europeans](tnai08.md) *143,429 bytes*  
+[Chapter IX: Bible Stories](tnai09.md) *12,158 bytes*  
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ ethnographic literature. His chief contribution to the field was his
 themes that occur in folktales.
 
 Reading through the traditional folk stories of
-[Africa](../../afr/index), [Europe](../../neu/index), and [Native
-America](../../nam/index), it becomes obvious that there are a broad set
+[Africa](../../afr/index), [Europe](../../neu/index.md), and [Native
+America](../../nam/index.md), it becomes obvious that there are a broad set
 of motifs that are appear across geographic boundaries. Is this evidence
 of diffusion or something buried deeper in our cultural matrix that goes
 back to our common origins? This is still a mystery.
@@ -66,7 +66,7 @@ corpus.
 This text is believed to be in the public domain in the United States.
 The book was originally published in 1929, and was not renewed in a
 timely fashion (per the [Catalog of Copyright
-Renewals](https://www.kingkong.demon.co.uk/ccer/ccer)). Hence it entered
+Renewals](https://www.kingkong.demon.co.uk/ccer/ccer).md). Hence it entered
 the public domain in 1957. This is reflected in the Midland paperback
 edition of 1966, which bears no copyright notice. The text was scanned
 from the Midland paperback edition.

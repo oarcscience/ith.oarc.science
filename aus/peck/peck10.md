@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck09)  [Next](peck11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck09)  [Next](peck11.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ The eye left in the sky is the moon.
 
 ------------------------------------------------------------------------
 
-[Next: How The White Waratah Became Red](peck11)
+[Next: How The White Waratah Became Red](peck11.md)

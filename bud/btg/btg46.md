@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg45)  [Next](btg47) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg45)  [Next](btg47.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ he will make an end of all suffering even in this life."
 
 ------------------------------------------------------------------------
 
-[Next: Avoiding The Ten Evils](btg47)
+[Next: Avoiding The Ten Evils](btg47.md)

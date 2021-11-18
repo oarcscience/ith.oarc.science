@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat04.htm#XIV)  [Previous](satl013) 
-[Next](satl015) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat04.htm#XIV)  [Previous](satl013.md) 
+[Next](satl015.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ discussit, qui silentio facto:
 
 ------------------------------------------------------------------------
 
-[Next: XV](satl015)
+[Next: XV](satl015.md)

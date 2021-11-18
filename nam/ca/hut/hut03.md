@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut02)  [Next](hut04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut02)  [Next](hut04.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ dj the corresponding voiced sound equivalent to j or soft g in English.
 
 ------------------------------------------------------------------------
 
-[Next: I. Yīmantūwiñyai.--Creator and Culture Hero](hut04)
+[Next: I. Yīmantūwiñyai.--Creator and Culture Hero](hut04.md)

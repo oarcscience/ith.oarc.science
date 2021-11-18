@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp79)  [Next](prp81) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp79)  [Next](prp81.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ suggests that Labdace had been overworking both in anus and coynte.\]
 ------------------------------------------------------------------------
 
 [Next: 81. Know that this crass coarse yard nor lengthens nor stands as
-becomes it](prp81)
+becomes it](prp81.md)

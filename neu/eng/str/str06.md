@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str05)  [Next](str07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str05)  [Next](str07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -22,19 +22,19 @@ MANY drawings have been made and publish’d, of *Stonehenge*. But they
 are not done in a scientific way, so as may prove any point, or improve
 our understanding in the work. I have therefore drawn four
 architectonic<span class="margnote">TAB. XII.</span> orthographies: one,
-[TAB. XII.](#img_pl12) is of the front and outside: three are different
+[TAB. XII.](#img_pl12.md) is of the front and outside: three are different
 sections upon the two principal diameters of the work. These will for
 ever preserve the memory of the thing, when the ruins even of these
 ruins are perish’d; because from them and the ground-plot, at any time,
 an exact model<span class="margnote">TAB. XIV, XV, XVI.</span> may be
-made. TAB. [XIV](str07.htm#img_pl14), [XV](str07.htm#img_pl15),
-[XVI.](str08.htm#img_pl16)these orthographies show the primary intent of
+made. TAB. [XIV](str07.htm#img_pl14), [XV](str07.htm#img_pl15.md),
+[XVI.](str08.htm#img_pl16.md)these orthographies show the primary intent of
 the founders; they are the designs, which the Druids made, before they
 put the work in execution. And by comparing them with the drawings
 correspondent, of the ruins, we gain a just idea of the place, when it
 was in its perfection. But now as we are going to enter into the
 building, it will <span class="margnote">TAB. XI.</span> be proper again
-to survey the ground-plot, [pl11](#img_pl11) which is so different from
+to survey the ground-plot, [pl11](#img_pl11.md) which is so different from
 that publish’d by Mr. *Webb*. Instead of an imaginary hexagon, we see a
 most noble and beautiful ellipsis, which composes the cell, as he names
 it, I think *adytum* a proper word. There is nothing like it, to my
@@ -56,7 +56,7 @@ line of the circumference wherein they set these stones. The stones that
 compote it are 40 in number, forming with the outward circle (as it
 were) a circular portico: a most beautiful walk, and of a pretty effect.
 Somewhat of the beauty of it may be <span class="margnote">TAB.
-XVII.</span> seen in *Plate* [XVII.](str08.htm#img_pl17) where, at
+XVII.</span> seen in *Plate* [XVII.](str08.htm#img_pl17.md) where, at
 present, ’tis most perfect. We are impos’d on, in Mr. *Webb's* scheme,
 where he places only 30 stones equal to the number of the outer circle,
 the better to humour his fancy of the dipteric aspect, p. 76. He is for
@@ -81,13 +81,13 @@ regularity there, would have been
 
 <span id="img_pl12"></span> <span align="CENTER"> [![Plate 12. The
 Orthography of Stonehenge](tn/pl12.jpg)  
-Click to enlarge](img/pl12.jpg)  
+Click to enlarge](img/pl12.jpg.md)  
 Plate 12. The Orthography of Stonehenge  
 </span>
 
 <span id="img_pl11"></span> <span align="CENTER"> [![Plate 11. The
 Geometrical Ground plot of Stonehenge](tn/pl11.jpg)  
-Click to enlarge](img/pl11.jpg)  
+Click to enlarge](img/pl11.jpg.md)  
 Plate 11. The Geometrical Ground plot of Stonehenge  
 </span>
 
@@ -157,7 +157,7 @@ portico put in execution, would have a marvellous effect, much exceed a
 common gallery in use, because ’tis a perpetual walk, without turning
 back, and well becomes a royal residence. The best view of this sort, to
 be had from our work, is from the north, as in [TAB.
-XVII.](str08.htm#img_pl17) the reader cannot <span class="margnote">TAB.
+XVII.](str08.htm#img_pl17.md) the reader cannot <span class="margnote">TAB.
 XVII.</span> but observe, how little pretence here is for an imitation
 of *Greek* or *Roman* portico's, notwithstanding the grand and agreeable
 curve of the outward circle.
@@ -187,7 +187,7 @@ But when we consider the cell, as Mr. *Webb* names it, we find him
 guilty of great disingenuity, in ill conceiving the form of it, and in
 distorting his ground-plots, to colour it over the better. The minute
 you enter this *adytum*, <span class="margnote">TAB. XVIII.</span> as in
-[TAB. XVIII.](str10.htm#img_pl18) you discover ’tis not a hexagon, nor
+[TAB. XVIII.](str10.htm#img_pl18.md) you discover ’tis not a hexagon, nor
 ever was intended for one, and there can be no greater absurdity than to
 imagine it one. It is in truth compos’d of certain *compages* of stones,
 which I shall call *trilithons*, because made, each of two upright
@@ -248,8 +248,8 @@ of the work, and quite obstructs the view and entrance into it. It is
 altogether as ridiculous, as if a dead wall was built under St. Paul's
 organ-loft, which is and ought to be the chief entrance into the choir.
 Besides, by *Webb's* ground-plots and uprights, it seems as if, when you
-[entered](errata.htm#1) this *adytum*, there were 3 *trilithons* on the
-right, and 3 on the left, whereas it is most [obvious](errata.htm#2),
+[entered](errata.htm#1.md) this *adytum*, there were 3 *trilithons* on the
+right, and 3 on the left, whereas it is most [obvious](errata.htm#2.md),
 there are but two on the right, and two on the left; when you advance
 into it, the orderly way, from the northeast grand entrance of the
 avenue; which he himself p. 55. owns to be the principal. But I am tired
@@ -258,4 +258,4 @@ me.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](str07)
+[Next: Chapter V](str07.md)

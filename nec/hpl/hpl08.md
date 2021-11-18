@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl07)  [Next](hpl09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl07)  [Next](hpl09.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,4 +250,4 @@ Mnar.
 
 ------------------------------------------------------------------------
 
-[Next: Nyarlathotep (1920)](hpl09)
+[Next: Nyarlathotep (1920)](hpl09.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm30)  [Next](bcm32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm30)  [Next](bcm32.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Click to view</a><br />
 
 ------------------------------------------------------------------------
 
-[Next: Talismans of the Sage of the Pyramids: XIII, XIV](bcm32)
+[Next: Talismans of the Sage of the Pyramids: XIII, XIV](bcm32.md)

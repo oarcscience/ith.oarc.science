@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly03)  [Next](lly05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly03)  [Next](lly05.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 <span id="img_01300"></span> [![ROYAL ARCHES AND NORTH
 DOME](tn/01300.jpg)  
-Click to enlarge](img/01300.jpg)  
+Click to enlarge](img/01300.jpg.md)  
 ROYAL ARCHES AND NORTH DOME  
 
 # CHAPTER I
@@ -58,7 +58,7 @@ at the strange goods and ways of the white
 
 <span id="img_01500"></span> [![EL CAPITAN (TU-TOK-A-NU-LA)&lt;BR&gt;
 &lt;I&gt;Photo H. C. Tibbitts&lt;/I&gt;](tn/01500.jpg)  
-Click to enlarge](img/01500.jpg)  
+Click to enlarge](img/01500.jpg.md)  
 EL CAPITAN (TU-TOK-A-NU-LA)  
 *Photo H. C. Tibbitts*  
 
@@ -370,7 +370,7 @@ influence of the white man's so-called civilization. They
 <span id="img_02700"></span> [![CATHEDRAL SPIRES (OR PU-SEE-NA CHUCK-AH)
 AND CATHEDRAL ROCKS&lt;BR&gt; &lt;I&gt;Photo A. C.
 Pillsbury&lt;/I&gt;](tn/02700.jpg)  
-Click to enlarge](img/02700.jpg)  
+Click to enlarge](img/02700.jpg.md)  
 CATHEDRAL SPIRES (OR PU-SEE-NA CHUCK-AH) AND CATHEDRAL ROCKS  
 *Photo A. C. Pillsbury*  
 
@@ -434,4 +434,4 @@ descendants are to be found today.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Yosemite](lly05)
+[Next: The Story of Yosemite](lly05.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha01)  [Next](maha03) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha01)  [Next](maha03.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,6 +141,6 @@ of Brahman."
 ------------------------------------------------------------------------
 
 [Next: Chapter 3 - Description of the Worship of the Supreme
-Brahman](maha03)
+Brahman](maha03.md)
 
   

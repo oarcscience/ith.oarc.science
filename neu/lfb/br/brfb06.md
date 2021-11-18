@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb05)  [Next](brfb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb05)  [Next](brfb07.md) 
 
 </div>
 
@@ -128,6 +128,6 @@ it.
 
 ------------------------------------------------------------------------
 
-[Next: Father Grumbler](brfb07)
+[Next: Father Grumbler](brfb07.md)
 
 </div>

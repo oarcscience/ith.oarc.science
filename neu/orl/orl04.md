@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl03)  [Next](orl05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl03)  [Next](orl05.md) 
 
 ------------------------------------------------------------------------
 
@@ -830,4 +830,4 @@ What to another canto I postpone.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 5](orl05)
+[Next: Canto 5](orl05.md)

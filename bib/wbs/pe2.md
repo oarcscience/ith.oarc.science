@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](pe1)  [Next](jo1) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](pe1)  [Next](jo1.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ ever. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: 1 John](jo1)
+[Next: 1 John](jo1.md)

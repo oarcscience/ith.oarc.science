@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas003n)  [Next](jas005n)   
- \[[4. Tiger's Sheep-skin Suit.](jas004)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas003n)  [Next](jas005n.md)   
+ \[[4. Tiger's Sheep-skin Suit.](jas004.md)\]
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ him because he wears the sheep-skin.
 
 ------------------------------------------------------------------------
 
-[Next: Note 5. Tiger Catching the Sheep-thief.](jas005n)
+[Next: Note 5. Tiger Catching the Sheep-thief.](jas005n.md)

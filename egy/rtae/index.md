@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rtae00)    [Page
-Index](pageidx)    [Text \[Zipped\]](rtae.txt.gz)
+[Contents](#contents)    [Start Reading](rtae00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](rtae.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -48,29 +48,29 @@ anyone interested in Egyptian religion.--J.B. Hare, April 25th, 2009.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rtae00)  
-[Preface](rtae01)  
-[Epitome of the Development](rtae02)  
-[Contents](rtae03)  
-[Chronology](rtae04)  
+<span id="contents"></span> [Title Page](rtae00.md)  
+[Preface](rtae01.md)  
+[Epitome of the Development](rtae02.md)  
+[Contents](rtae03.md)  
+[Chronology](rtae04.md)  
 [Lecture I. The Origins: Nature and the State in their Impression on
-Religion—Earliest Systems](rtae05)  
+Religion—Earliest Systems](rtae05.md)  
 [Lecture II. Life After Death—The Sojourn in the Tomb—Death Makes its
-Impression on Religion](rtae06)  
+Impression on Religion](rtae06.md)  
 [Lecture III. The Realms of the Dead—The Pyramid Texts—The Ascent to the
-Sky](rtae07)  
+Sky](rtae07.md)  
 [Lecture IV. Realms of the Dead—The Earliest Celestial
-Hereafter](rtae08)  
-[Lecture V. The Osirianization of the Hereafter](rtae09)  
+Hereafter](rtae08.md)  
+[Lecture V. The Osirianization of the Hereafter](rtae09.md)  
 [Lecture VI. The Emergence of the Moral Sense—Moral Worthiness and the
-Hereafter—Scepticism and the Problem of Suffering](rtae10)  
+Hereafter—Scepticism and the Problem of Suffering](rtae10.md)  
 [Lecture VII. The Social Forces make their Impression on Religion—The
-Rise of Social Reformers—The Earliest Social Regeneration](rtae11)  
+Rise of Social Reformers—The Earliest Social Regeneration](rtae11.md)  
 [Lecture VIII. Popularization of the Old Royal Hereafter—Triumph of
-Osiris—Conscience and the Book of the Dead—Magic and Morals](rtae12)  
+Osiris—Conscience and the Book of the Dead—Magic and Morals](rtae12.md)  
 [Lecture IX. The Imperial Age—The World-State Makes its Impression on
 Religion—Triumph of Re—Earliest Monotheism—Ikhnaton (Amenhotep
-IV)](rtae13)  
+IV)](rtae13.md)  
 [Lecture X. The Age of Personal Piety—Sacerdotalism and Final
-Decadence](rtae14)  
-[Index](rtae15)  
+Decadence](rtae14.md)  
+[Index](rtae15.md)  

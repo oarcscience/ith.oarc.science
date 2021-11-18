@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog21)  [Next](hlog23) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog21)  [Next](hlog23.md) 
 
 ------------------------------------------------------------------------
 
@@ -1680,4 +1680,4 @@ midst of all the people of Molokai.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. The Bride From the Under-world](hlog23)
+[Next: XVIII. The Bride From the Under-world](hlog23.md)

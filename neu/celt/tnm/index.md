@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
-[Iceland](../../ice/index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
+[Iceland](../../ice/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,18 +13,18 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](tnm00)  
-[Traces of the Norse Mythology in the Isle of Man](tnm01)  
-[Mythology](tnm02)  
+[Title Page](tnm00.md)  
+[Traces of the Norse Mythology in the Isle of Man](tnm01.md)  
+[Mythology](tnm02.md)  
 <span id="section_000"></span>
 
 ### Illustrations
 
-[I.--Origin of Poetry](tnm03)  
-[II.--Odin Carries the Hero to Valhall](tnm04)  
-[III.--View of Valhalla](tnm05)  
-[IV.--Valkyrie](tnm06)  
-[V.--Odin, Thor, Giants, Demons, Dwarves](tnm07)  
-[VI.--The Wind-Giant, Hræ-svelgr, Carrion-Swallower](tnm08)  
-[VII.--Heimdall.--The Sybil Hyndla](tnm09)  
-[VIII.--Odin and the Fenri Monster](tnm10)  
+[I.--Origin of Poetry](tnm03.md)  
+[II.--Odin Carries the Hero to Valhall](tnm04.md)  
+[III.--View of Valhalla](tnm05.md)  
+[IV.--Valkyrie](tnm06.md)  
+[V.--Odin, Thor, Giants, Demons, Dwarves](tnm07.md)  
+[VI.--The Wind-Giant, Hræ-svelgr, Carrion-Swallower](tnm08.md)  
+[VII.--Heimdall.--The Sybil Hyndla](tnm09.md)  
+[VIII.--Odin and the Fenri Monster](tnm10.md)  

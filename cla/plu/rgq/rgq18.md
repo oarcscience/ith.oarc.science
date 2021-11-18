@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](rgq17)  [Next](rgq19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](rgq17)  [Next](rgq19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roman and Greek Questions*, by Plutarch, tr. Frank Cole Babbitt,
 \[1936\], at Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ the Chalcidians, the Andrians, in the neighbourhood of this place, made
 a solemn vow against the Parians that they would never give a woman in
 marriage to the Parians nor take one from them. And for this reason they
 called the place the Beach of Araenus, <span
-id="fr_310"></span>[a](#fn_308) although it had formerly been named the
+id="fr_310"></span>[a](#fn_308.md) although it had formerly been named the
 Serpent's Beach.
 
  
@@ -58,7 +58,7 @@ Serpent's Beach.
 31\. <span class="smallcaps">Why</span> is it that at the Thesmophoria
 the Eretrian women cook their meat, not by fire, but by the rays of the
 sun; and why do they not call upon Calligeneia? <span
-id="fr_311"></span>[b](#fn_309)
+id="fr_311"></span>[b](#fn_309.md)
 
 Is it because it happened that the captive women whom Agamemnon was
 bringing home from Troy were celebrating the Thesmophoria at this place,
@@ -73,7 +73,7 @@ the Milesians?
 When the despots associated with Thoas and Damasenor had been
 overthrown, two political parties came into control of the city, one of
 which was called Plutis, the other Cheiromacha. <span
-id="fr_312"></span>[c](#fn_310) When, accordingly, the men of influence
+id="fr_312"></span>[c](#fn_310.md) When, accordingly, the men of influence
 gained the upper hand and
 
 <span id="page_214">p. 214</span> <span id="page_215">p. 215</span>
@@ -102,7 +102,7 @@ Nauplius.
  
 
 34\. <span class="smallcaps">Who</span> was the man that slew an ox
-for <span id="fr_313"></span>[a](#fn_311) his benefactor?
+for <span id="fr_313"></span>[a](#fn_311.md) his benefactor?
 
 Anchored off the island of Ithaca was a pirate vessel in which there
 chanced to be an old man with earthenware jars containing pitch. By
@@ -125,7 +125,7 @@ benefactor."
 
 35\. <span class="smallcaps">Why</span> was it the custom for the
 Bottiaean maidens to chant as they danced, "Let us go to Athens <span
-id="fr_314"></span>[a](#fn_312)"?
+id="fr_314"></span>[a](#fn_312.md)"?
 
 They relate that the Cretans in accordance with a vow sent a consecrated
 offering of men to Delphi; but the men who had been sent, when they saw
@@ -143,8 +143,8 @@ to sing in their festivals, "Let us go to Athens."
 
 36\. <span class="smallcaps">Why</span> is it that the women of the
 Eleans, when they sing hymns to Dionysus, call upon him to come to them
-"with the foot of a bull" <span id="fr_315"></span>[b](#fn_313)? The
-hymn <span id="fr_316"></span>[c](#fn_314) runs as follows:
+"with the foot of a bull" <span id="fr_315"></span>[b](#fn_313.md)? The
+hymn <span id="fr_316"></span>[c](#fn_314.md) runs as follows:
 
 <span id="page_218">p. 218</span> <span id="page_219">p. 219</span>
 
@@ -163,8 +163,8 @@ twice the refrain: "O worthy bull."
 
 Is it because some address the god as "kine-born" or as "bull "? Or by
 "ox-foot" do they mean "with thy mighty foot," even as the Poet used
-"ox-eyed" <span id="fr_317"></span>[a](#fn_315) to signify "large-eyed,"
-and "bully" <span id="fr_318"></span>[b](#fn_316) for "loudmouthed"?
+"ox-eyed" <span id="fr_317"></span>[a](#fn_315.md) to signify "large-eyed,"
+and "bully" <span id="fr_318"></span>[b](#fn_316.md) for "loudmouthed"?
 
 Or is it rather because the foot of the bull is harmless, but the part
 that bears horns is harmful, and thus they call upon the god to come in
@@ -179,14 +179,14 @@ ploughing and sowing?
 before their city an Achilleum, that is, a place bearing this name? For
 it is related that Achilles actually had more enmity than friendship for
 the city, since he carried off Stratonicê, the mother of Poemander, and
-slew Acestor, the son of Ephippus. <span id="fr_319"></span>[c](#fn_317)
+slew Acestor, the son of Ephippus. <span id="fr_319"></span>[c](#fn_317.md)
 
 While the territory of Tanagra was still inhabited in village
 communities, Poemander, the father of Ephippus, had been besieged by the
 Achaeans in the place called Stephon, because of his unwillingness to
-join their expedition. <span id="fr_320"></span>[d](#fn_318) But he
+join their expedition. <span id="fr_320"></span>[d](#fn_318.md) But he
 abandoned that stronghold by night and fortified Poemandria. <span
-id="fr_321"></span>[e](#fn_319)
+id="fr_321"></span>[e](#fn_319.md)
 
 <span id="page_220">p. 220</span> <span id="page_221">p. 221</span>
 
@@ -195,7 +195,7 @@ master-builder, however, who was present, spoke slightingly of the
 fortifications and, in derision, leaped over the moat. Poemander was
 enraged and hastened to throw at him a great stone which had been hidden
 there from ancient days, set aside for use in the ritual of the
-Nyctelia. <span id="fr_322"></span>[a](#fn_320) This stone Poemander
+Nyctelia. <span id="fr_322"></span>[a](#fn_320.md) This stone Poemander
 snatched up in his ignorance, and hurled. He missed Polycrithus, but
 slew his son Leucippus. According to the law, therefore, he had to
 depart from Boeotia and become a suppliant at a stranger's hearth. But
@@ -216,7 +216,7 @@ kept its name.
 
 They relate that the daughters of Minyas, Leucippê and Arsinoê and
 Alcathoê, becoming insane, conceived a craving for human flesh, and drew
-lots for their children. <span id="fr_323"></span>[b](#fn_321) The lot
+lots for their children. <span id="fr_323"></span>[b](#fn_321.md) The lot
 fell upon Leucippê to contribute her son Hippasus to be torn to pieces,
 and their husbands, who put on ill-favoured garments for very grief and
 sorrow, were called "Grimy" (*Psoloeis*);
@@ -226,7 +226,7 @@ sorrow, were called "Grimy" (*Psoloeis*);
 but the Minyads themselves were called "Oleiae," that is to say,
 'Murderesses.' And even to-day the people of Orchomenus give this name
 to the women descended from this family; and every year, at the festival
-of Agrionia, <span id="fr_324"></span>[a](#fn_322) there takes place a
+of Agrionia, <span id="fr_324"></span>[a](#fn_322.md) there takes place a
 flight and pursuit of them by the priest of Dionysus with sword in hand.
 Any one of them that he catches he may kill, and in my time the priest
 Zoïlus killed one of them. But this resulted in no benefit for the
@@ -250,7 +250,7 @@ of Satisfaction"?
 
 Or is it in accordance with the legend, since Eleuther and Lebadus were
 the only sons of Lycaon that had no share in the abomination prepared
-for Zeus, <span id="fr_325"></span>[b](#fn_323) but instead they fled to
+for Zeus, <span id="fr_325"></span>[b](#fn_323.md) but instead they fled to
 Boeotia, and there is community of citizenship between the people of
 Lebadeia and the Arcadians, and do they accordingly
 
@@ -259,22 +259,22 @@ Lebadeia and the Arcadians, and do they accordingly
 send away to Eleutherae those who involuntarily enter the inviolate
 sanctuary of Zeus?
 
-Or is it as Architimus <span id="fr_326"></span>[a](#fn_324) relates in
+Or is it as Architimus <span id="fr_326"></span>[a](#fn_324.md) relates in
 his *Arcadian History*, that certain men who entered through ignorance
 were handed over by the Arcadians to the Phliasians, and by the
 Phliasians to the Megarians, and, as they were being conducted from
 Megara to Thebes, they were stopped near Eleutherae <span
-id="fr_327"></span>[b](#fn_325) by rain and thunder and other signs from
+id="fr_327"></span>[b](#fn_325.md) by rain and thunder and other signs from
 heaven? Whence, in fact, some assert that the place acquired the name of
 Eleutherae.
 
 The tale, however, that no shadow is cast by a person who enters the
 Lycaeon is not true, although it has acquired widespread credence. <span
-id="fr_328"></span>[c](#fn_326) Is it because the air turns to clouds,
+id="fr_328"></span>[c](#fn_326.md) Is it because the air turns to clouds,
 and lowers darkly upon those who enter? Or is it because he that enters
 is condemned to death, and the followers of Pythagoras declare that the
 spirits of the dead cast no shadow, <span
-id="fr_329"></span>[d](#fn_327) neither do they blink? Or is it because
+id="fr_329"></span>[d](#fn_327.md) neither do they blink? Or is it because
 it is the sun which causes shadow, but the law deprives him that enters
 of the sunlight?
 
@@ -289,31 +289,31 @@ ordered them to give back "the deer."
 
 ### Footnotes
 
-<span id="fn_308"></span>[213:a](rgq18.htm#fr_310) <span
+<span id="fn_308"></span>[213:a](rgq18.htm#fr_310.md) <span
 id="page_212">p. 212</span> Plutarch, or his source, imagined that this
 meant "Beach of Vowing."
 
-<span id="fn_309"></span>[213:b](rgq18.htm#fr_311) The name of the third
+<span id="fn_309"></span>[213:b](rgq18.htm#fr_311.md) The name of the third
 and last day of this festival at Athens; probably also a cult title
 applied to some goddess, perhaps to Demeter.
 
-<span id="fn_310"></span>[213:c](rgq18.htm#fr_312) "Capital and Labour."
+<span id="fn_310"></span>[213:c](rgq18.htm#fr_312.md) "Capital and Labour."
 
-<span id="fn_311"></span>[215:a](rgq18.htm#fr_313) Possibly "sacrificed
+<span id="fn_311"></span>[215:a](rgq18.htm#fr_313.md) Possibly "sacrificed
 an ox to his benefactor"; but an animal sacrifice to a living man seems
 incredible.
 
-<span id="fn_312"></span>[217:a](rgq18.htm#fr_314) <span
+<span id="fn_312"></span>[217:a](rgq18.htm#fr_314.md) <span
 id="page_216">p. 216</span> Plutarch (*Life of Theseus*, chap. xvi. p. 6
 <span class="smallcaps">E</span> ff.) states that his source for this is
 Aristotle's *Constitution of the Bottiaeans* (Frag. 485 (ed. V. Rose));
 *cf*. Edmonds, *Lyra Graeca* (in L.C.L. iii. 540).
 
-<span id="fn_313"></span>[217:b](rgq18.htm#fr_315) For Dionysus as a
+<span id="fn_313"></span>[217:b](rgq18.htm#fr_315.md) For Dionysus as a
 bull *cf*. *e.g.* Athenaeus 35 <span class="smallcaps">E</span>, 38
 <span class="smallcaps">E</span>.
 
-<span id="fn_314"></span>[217:c](rgq18.htm#fr_316) <span
+<span id="fn_314"></span>[217:c](rgq18.htm#fr_316.md) <span
 id="page_217">p. 217</span> The text is uncertain; Hartman has attempted
 a reconstruction in Mnemosyne, xli. 217; *cf*. also the other references
 in E. Diehl, Anthologia Lyrica Graeca, ii. p. 206. *Cf*. also *Moralia*,
@@ -321,49 +321,49 @@ in E. Diehl, Anthologia Lyrica Graeca, ii. p. 206. *Cf*. also *Moralia*,
 *Poet. Lyr. Graec.* iii. p. 656, or Edmonds, *Lyra Graeca* (L.C.L. iii.
 510).
 
-<span id="fn_315"></span>[219:a](rgq18.htm#fr_317) Homer, *Il*. i. 551
+<span id="fn_315"></span>[219:a](rgq18.htm#fr_317.md) Homer, *Il*. i. 551
 and often.
 
-<span id="fn_316"></span>[219:b](rgq18.htm#fr_318) βουγάιος, *Il*. xiii.
+<span id="fn_316"></span>[219:b](rgq18.htm#fr_318.md) βουγάιος, *Il*. xiii.
 824: *Od*. xviii. 79.
 
-<span id="fn_317"></span>[219:c](rgq18.htm#fr_319) A grandson of
+<span id="fn_317"></span>[219:c](rgq18.htm#fr_319.md) A grandson of
 Poemander.
 
-<span id="fn_318"></span>[219:d](rgq18.htm#fr_320) Against Troy.
+<span id="fn_318"></span>[219:d](rgq18.htm#fr_320.md) Against Troy.
 
-<span id="fn_319"></span>[219:e](rgq18.htm#fr_321) *Cf*. Pausanias, ix.
+<span id="fn_319"></span>[219:e](rgq18.htm#fr_321.md) *Cf*. Pausanias, ix.
 20. 1.
 
-<span id="fn_320"></span>[221:a](rgq18.htm#fr_322) <span
+<span id="fn_320"></span>[221:a](rgq18.htm#fr_322.md) <span
 id="page_220">p. 220</span> These rites resembled those of the rending
 and resurrection of Osiris; *cf*. *Moralia* 367 <span
 class="smallcaps">F</span>.
 
-<span id="fn_321"></span>[221:b](rgq18.htm#fr_323) <span
+<span id="fn_321"></span>[221:b](rgq18.htm#fr_323.md) <span
 id="page_221">p. 221</span> *Cf*. Aelian, *Varia Historia*, iii. 42;
 Antonius Liberalis, *Metamorphoses*, x. Ovid's account (*Met*. iv. 1
 ff.; 389 ff.) is rather different and omits the murder of Hippasus.
 
-<span id="fn_322"></span>[223:a](rgq18.htm#fr_324) *Cf*. *Moralia*, 717
+<span id="fn_322"></span>[223:a](rgq18.htm#fr_324.md) *Cf*. *Moralia*, 717
 <span class="smallcaps">A</span>; 291 <span class="smallcaps">A</span>
 *supra*.
 
-<span id="fn_323"></span>[223:b](rgq18.htm#fr_325) The serving of human
+<span id="fn_323"></span>[223:b](rgq18.htm#fr_325.md) The serving of human
 flesh. *Cf*. Ovid, *Metamorphoses*, <span id="page_223">p. 223</span> i.
 163 ff. and Frazer's note on Apollodorus, *Bibliotheca* iii. 8. 1
 (L.C.L. vol. i. pp. 390 ff.).
 
-<span id="fn_324"></span>[225:a](rgq18.htm#fr_326) Müller, *Frag. Hist.
+<span id="fn_324"></span>[225:a](rgq18.htm#fr_326.md) Müller, *Frag. Hist.
 Graec*. vol. iv. p. 317.
 
-<span id="fn_325"></span>[225:b](rgq18.htm#fr_327) A town in Attica not
+<span id="fn_325"></span>[225:b](rgq18.htm#fr_327.md) A town in Attica not
 far from the borders of Boeotia.
 
-<span id="fn_326"></span>[225:c](rgq18.htm#fr_328) *Cf*. Pausanias,
+<span id="fn_326"></span>[225:c](rgq18.htm#fr_328.md) *Cf*. Pausanias,
 viii. 38. 6; Polybius, xvi. 12. 7, whose source is Theopompus.
 
-<span id="fn_327"></span>[225:d](rgq18.htm#fr_329) *Cf*. *Moralia*, 564
+<span id="fn_327"></span>[225:d](rgq18.htm#fr_329.md) *Cf*. *Moralia*, 564
 <span class="smallcaps">D</span>. See also Dante, *Purgatorio*, iii.
 25–30, 94–97.
 
@@ -371,6 +371,6 @@ viii. 38. 6; Polybius, xvi. 12. 7, whose source is Theopompus.
 
 ------------------------------------------------------------------------
 
-[Next: 40-49.](rgq19)
+[Next: 40-49.](rgq19.md)
 
 </div>

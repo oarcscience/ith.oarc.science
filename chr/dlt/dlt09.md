@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt08)  [Next](dlt10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt08)  [Next](dlt10.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ may trace development, in others it is nothing more than the
 crystallisation of traditions that have been handed down for
 generations.
 
-#### §i. *The Signs which precede the End*. <span id="fr_44"></span>[1](#fn_44)
+#### §i. *The Signs which precede the End*. <span id="fr_44"></span>[1](#fn_44.md)
 
 In Rabbinical writings the technical term for the terrors of the "last
 times," previous
@@ -27,7 +27,7 @@ times," previous
 <span id="page_129">p. 129</span>
 
 to the Advent of the Messiah, is *Cheble ha-Meshiach* or *Cheblo shel
-Mashiach*, the "birth-pangs," <span id="fr_45"></span>[1](#fn_45) or
+Mashiach*, the "birth-pangs," <span id="fr_45"></span>[1](#fn_45.md) or
 "travail" of the Messiah (*Shabbath* 118*a*). In the Mishnah tractate,
 *Sota* ix. 15, we have the following account of these travails: "As
 traces of the approach of Messiah are to be regarded that arrogance
@@ -40,7 +40,7 @@ the godly despised, truth is absent. Boys insult old men, old men stand
 in the presence of children. The son depreciates his father, the
 daughter rebels against the mother, the daughter-in-law against the
 mother-in-law. A man's enemies are his house-fellows." <span
-id="fr_46"></span>[2](#fn_46) In the "years" immediately preceding the
+id="fr_46"></span>[2](#fn_46.md) In the "years" immediately preceding the
 Advent of the Messiah each year is to be characterised by a special
 plague; the rise of false Messiahs
 
@@ -48,7 +48,7 @@ plague; the rise of false Messiahs
 
 is also one of the signs of the end the study of the *Torah* ("Law")
 will cease, heresy will increase, and men will give up hoping for the
-Messiah <span id="fr_47"></span>[1](#fn_47) (*Sanhedrin* 97*a*); see
+Messiah <span id="fr_47"></span>[1](#fn_47) (*Sanhedrin* 97*a*.md); see
 also *Pesikta* 51*b*. In the *Apocalypse of Abraham* xxx., a Jewish work
 of the second century A.D., ten "plagues" are mentioned as portents of
 the Advent of the Messiah: distress, fire, pestilence among the beasts,
@@ -63,7 +63,7 @@ chapter).
 
 In Rabbinical literature there is never any ambiguity about the central
 person of the Eschatological Drama; in the Old Testament it is sometimes
-[Jehovah](errata.htm#2) Himself Whose Advent as Judge is looked for, at
+[Jehovah](errata.htm#2.md) Himself Whose Advent as Judge is looked for, at
 other times it is one who is subordinate to Him; in the Apocalyptic
 literature also we come across passages in which God Himself is the
 central
@@ -75,10 +75,10 @@ the writings which we are now considering it is invariably the Messiah,
 and none other, whose Advent is spoken of. But it is taught that the
 Advent of the Messiah is only an episode in the life of one who has
 existed from all time; King Messiah, it is said, pre-existed before the
-Creation of the world. <span id="fr_48"></span>[1](#fn_48) According to
+Creation of the world. <span id="fr_48"></span>[1](#fn_48.md) According to
 Weber, however, the meaning of this statement is that it was God's will
 from all eternity to create the Messiah and to send Him into the
-world; <span id="fr_49"></span>[2](#fn_49) that is to say, He existed
+world; <span id="fr_49"></span>[2](#fn_49.md) that is to say, He existed
 potentially, but not actually, from all time. In the later Jewish
 theology it is taught that the Messiah lives in the Garden of Eden. But
 in spite of this pre-existence of the Messiah, whether from all eternity
@@ -86,9 +86,9 @@ or of more limited duration, He is to be born of a woman and is to be of
 the seed of David (*Bereshith rabbah* c. xii., *Sanhedrin* 93*b*); it is
 said in *Pesikta* 149*a*: "Happy the hour in which the Messiah was born,
 happy the womb from which he came forth! <span
-id="fr_50"></span>[3](#fn_50) Happy the generation that sees him; happy
+id="fr_50"></span>[3](#fn_50.md) Happy the generation that sees him; happy
 the eye that is honoured by looking up him!" <span
-id="fr_51"></span>[4](#fn_51) Thus the Messiah is always regarded
+id="fr_51"></span>[4](#fn_51.md) Thus the Messiah is always regarded
 
 <span id="page_132">p. 132</span>
 
@@ -124,7 +124,7 @@ manifest himself first, and then hide himself from the people. For how
 long?--For forty-five days, according to Dan. xii. 11. 12. And whither
 will he lead them? Some say: into the Judæan desert; others: into the
 desert of Sihon and Og, according to Hos. ii. 16. . . ." <span
-id="fr_52"></span>[1](#fn_52)
+id="fr_52"></span>[1](#fn_52.md)
 
 These passages are sufficient to show that the teaching in Rabbinical
 literature concerning the actual Advent differs considerably from that
@@ -167,14 +167,14 @@ Zech. xiv. 3 (*Then shall the Lord go forth, and fight against those
 nations, as when he fought in the day of battle*) as referring to the
 "last times," and God is made to say to the Gentiles: "Sinner, thou
 comest to try conclusions with Me! As thou livest, I will make war
-against thee." <span id="fr_53"></span>[1](#fn_53) In the same way in
+against thee." <span id="fr_53"></span>[1](#fn_53.md) In the same way in
 *Mechilta* 48*b*, Psalm ii. is explained as referring to the War of Gog
 and Magog; Jehovah laughs them to scorn, the armies of Gog and Magog
 will suffer the fate of Pharaoh and his host, they will be swallowed up
 by the deep, so that the very fish will tremble (*cf.* Ezek. xxxviii.
 20); it is Jehovah Himself Who will fight against Gog and Magog, and
 will destroy the Gentile hosts, Israel alone will be saved. <span
-id="fr_54"></span>[2](#fn_54) (See, further, the next section.)
+id="fr_54"></span>[2](#fn_54) (See, further, the next section..md)
 
 Speaking generally, therefore, the Judgement
 
@@ -226,7 +226,7 @@ Gentiles who have forsaken God and served idols
 \[paragraph continues\] (*Sanhedrin* 105*a*), so that here the
 blessedness of the Righteous among the Gentiles is contemplated. Later
 Judaism takes this milder and more rational view. <span
-id="fr_55"></span>[1](#fn_55) Of the lot of the Righteous and the
+id="fr_55"></span>[1](#fn_55.md) Of the lot of the Righteous and the
 Wicked, generally, after the "last times," the few following references
 will give a good idea: in *Abodah Zarah* 3*b* it is said of the sun that
 with its blazing rays it will torment the Wicked, but refresh the
@@ -263,7 +263,7 @@ blossom forth like grass (*Kethuboth* 111*b*, after Psalm lxxii. 16).
 Those that are buried elsewhere will therefore be compelled to creep
 through cavities in the earth until they reach the Holy Land (*Pesikta
 rabbah* i., with reference to Ezek. xxxvii. 13; *Kethuboth*
-111*a*)." <span id="fr_56"></span>[1](#fn_56) Here again we meet with
+111*a*)." <span id="fr_56"></span>[1](#fn_56.md) Here again we meet with
 Particularistic views (in later times Universalistic ideas on the
 subject came to the fore, see below), and
 
@@ -278,7 +278,7 @@ this, of course, precluded the Gentiles, according to the early
 Rabbinical view, from hoping for the Resurrection. It was further taught
 that all those who are imprisoned in Sheol should be brought out by the
 Messiah, who Himself would come and fetch them thence (*cf.* 1 Pet. iii.
-19); <span id="fr_57"></span>[1](#fn_57) in *Bereshith rabbah* we read:
+19); <span id="fr_57"></span>[1](#fn_57.md) in *Bereshith rabbah* we read:
 "And when they that were bound in Gehinnom saw the light of the Messiah,
 they rejoiced in receiving Him, and said, This is He who will lead us
 out of darkness" (see Jellinek, *Beth Hamidrash* ii. 50). After they
@@ -299,7 +299,7 @@ earth naked, but covered in its garment (*cf.* 1 Cor. xv. 37); and if
 this is so with a grain of wheat, how much more with the human body! It
 is for this reason that minute directions are given by dying Rabbis
 regarding the clothes in which they are going to be buried. <span
-id="fr_58"></span>[1](#fn_58) But in later times the circumscribed idea
+id="fr_58"></span>[1](#fn_58.md) But in later times the circumscribed idea
 of the Resurrection of Israel alone gave way to that of a general
 Resurrection; "as in the course of time the national hope with its
 national resurrection and final day of judgement no longer satisfied the
@@ -314,7 +314,7 @@ brought upon the heathen solely as such.
 \[paragraph continues\] All evil-doers who have blasphemed God and His
 Law, or acted unrighteously, will meet with their punishment (*Tos.
 Sanh.* xiii.; *Midr. Teh.* vi. 1, ix. 15)." <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 #### §vi. The Messianic Banquet.
 
@@ -344,23 +344,23 @@ slaying Leviathan, but he will not be able to accomplish it without the
 help of God, Who will therefore come and divide the monster with His
 sword. According to another haggadah, when Gabriel fails, God will order
 Leviathan to engage in a battle with the "ox of the mountain," which
-will result in the death of both of them (*Baba [Bathra](errata.htm#3)*
+will result in the death of both of them (*Baba [Bathra](errata.htm#3.md)*
 75*a*); then Leviathan will be cut up and eaten by the Righteous. These
 haggadahs are probably based upon such passages as Isa. xxvii. 1: *In
 that day the Lord with his sore and great and strong sword shall punish
 Leviathan the swift serpent, and Leviathan the crooked serpent; and he
 shall slay the dragon that is in the sea?* Psalm lxxiv. 12-15: . . . .
 *Thou didst break the heads of the Leviathan, thou wilt give him for
-food* . . . .; <span id="fr_60"></span>[1](#fn_60) Job. xxvi.
+food* . . . .; <span id="fr_60"></span>[1](#fn_60.md) Job. xxvi.
 
 <span id="page_144">p. 144</span>
 
 \[paragraph continues\] 12, 13, and others. As Leviathan represents the
 principle of evil, his destruction symbolises the end of sin; <span
-id="fr_61"></span>[1](#fn_61) the banquet on his flesh, which is a much
+id="fr_61"></span>[1](#fn_61.md) the banquet on his flesh, which is a much
 later idea, is interpreted by Maimonides as being an allusion to the
 spiritual enjoyment of the intellect; <span
-id="fr_62"></span>[2](#fn_62) originally it probably connoted something
+id="fr_62"></span>[2](#fn_62.md) originally it probably connoted something
 far more materialistic, and it may be safe to say that it was based upon
 the ordinary custom of royal banquets.
 
@@ -406,74 +406,74 @@ to ask him, Who art thou?*). But the most important part of the
 Rabbinical teaching on the subject is that Elijah will lead the Jews to
 repentance when he appears; thus in *Pirqe de-Rabbi Elieser* c. 43, it
 says "Israel will not bring forth the 'great repentance' before Elijah
-comes" <span id="fr_63"></span>[1](#fn_63) (see Luke i. 16, 17).
+comes" <span id="fr_63"></span>[1](#fn_63) (see Luke i. 16, 17.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_44"></span>[128:1](dlt09.htm#fr_44) These sections should
+<span id="fn_44"></span>[128:1](dlt09.htm#fr_44.md) These sections should
 be compared with the corresponding ones in chaps. ii., iii., v., vi.
 
-<span id="fn_45"></span>[129:1](dlt09.htm#fr_45) The meaning assigned to
+<span id="fn_45"></span>[129:1](dlt09.htm#fr_45.md) The meaning assigned to
 the expression "birth-pangs of the Messiah" is, perhaps, a later
 figurative adaptation of what was in the first place understood
 literally. It may be a survival of the myth wherein the birth of the
 Messiah of the "woman" was described (*cf.* Rev. xii. 1 ff.; Oesterley
 and Box, *op. cit.* p. 218).
 
-<span id="fn_46"></span>[129:2](dlt09.htm#fr_46) See Schürer, *The
+<span id="fn_46"></span>[129:2](dlt09.htm#fr_46.md) See Schürer, *The
 Jewish People in the Time of Jesus Christ*, II. ii. p. 155.
 
-<span id="fn_47"></span>[120:1](dlt09.htm#fr_47) A saying of Rabbi Simon
+<span id="fn_47"></span>[120:1](dlt09.htm#fr_47.md) A saying of Rabbi Simon
 ben Jochai.
 
-<span id="fn_48"></span>[121:1](dlt09.htm#fr_48) *Cf.* John viii. 68.
+<span id="fn_48"></span>[121:1](dlt09.htm#fr_48.md) *Cf.* John viii. 68.
 
-<span id="fn_49"></span>[121:2](dlt09.htm#fr_49) Weber, *Juedische
+<span id="fn_49"></span>[121:2](dlt09.htm#fr_49.md) Weber, *Juedische
 Theologie*, p. 366 ff.
 
-<span id="fn_50"></span>[121:3](dlt09.htm#fr_50) *Cf.* Luke xi. 27.
+<span id="fn_50"></span>[121:3](dlt09.htm#fr_50.md) *Cf.* Luke xi. 27.
 
-<span id="fn_51"></span>[121:4](dlt09.htm#fr_51) Weber, *op. cit.* p.
+<span id="fn_51"></span>[121:4](dlt09.htm#fr_51.md) Weber, *op. cit.* p.
 366.
 
-<span id="fn_52"></span>[133:1](dlt09.htm#fr_52) Weber, *op. cit.* p..3
+<span id="fn_52"></span>[133:1](dlt09.htm#fr_52.md) Weber, *op. cit.* p..3
 4.
 
-<span id="fn_53"></span>[135:1](dlt09.htm#fr_53) Weber, *op. cit.* p.
+<span id="fn_53"></span>[135:1](dlt09.htm#fr_53.md) Weber, *op. cit.* p.
 389.
 
-<span id="fn_54"></span>[135:2](dlt09.htm#fr_54) *Ibid*.
+<span id="fn_54"></span>[135:2](dlt09.htm#fr_54.md) *Ibid*.
 
-<span id="fn_55"></span>[138:1](dlt09.htm#fr_55) Weber, *op. cit.* pp.
+<span id="fn_55"></span>[138:1](dlt09.htm#fr_55.md) Weber, *op. cit.* pp.
 390 ff.
 
-<span id="fn_56"></span>[139:1](dlt09.htm#fr_56) *Jewish Encycl.* x.
+<span id="fn_56"></span>[139:1](dlt09.htm#fr_56.md) *Jewish Encycl.* x.
 383b.
 
-<span id="fn_57"></span>[140:1](dlt09.htm#fr_57) Weber, *op. cit.* p.
+<span id="fn_57"></span>[140:1](dlt09.htm#fr_57.md) Weber, *op. cit.* p.
 368.
 
-<span id="fn_58"></span>[141:1](dlt09.htm#fr_58) Weber, *op. cit.* p.
+<span id="fn_58"></span>[141:1](dlt09.htm#fr_58.md) Weber, *op. cit.* p.
 370.
 
-<span id="fn_59"></span>[142:1](dlt09.htm#fr_59) *Jewish Encycl.* x.
+<span id="fn_59"></span>[142:1](dlt09.htm#fr_59.md) *Jewish Encycl.* x.
 384*a*.
 
-<span id="fn_60"></span>[143:1](dlt09.htm#fr_60) *Cf.* *The Evolution of
+<span id="fn_60"></span>[143:1](dlt09.htm#fr_60.md) *Cf.* *The Evolution of
 the Messianic Idea*, p. 53.
 
-<span id="fn_61"></span>[144:1](dlt09.htm#fr_61) *Cf.* *The Evolution of
+<span id="fn_61"></span>[144:1](dlt09.htm#fr_61.md) *Cf.* *The Evolution of
 the Messianic Idea*, pp. 185 ff.
 
-<span id="fn_62"></span>[144:2](dlt09.htm#fr_62) *Jewish Encycl.* viii.
+<span id="fn_62"></span>[144:2](dlt09.htm#fr_62.md) *Jewish Encycl.* viii.
 38a.
 
-<span id="fn_63"></span>[146:1](dlt09.htm#fr_63) For these references to
+<span id="fn_63"></span>[146:1](dlt09.htm#fr_63.md) For these references to
 the Rabbinical literature see Weber, *op. cit.* pp. 352 ff., *Jewish
 Encycl.* v. 126 ff., where many more examples will be found.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Coming of the Messiah, The Son of Man](dlt10)
+[Next: Chapter VIII. The Coming of the Messiah, The Son of Man](dlt10.md)

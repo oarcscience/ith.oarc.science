@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv43)  [Next](ogv45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv43)  [Next](ogv45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,12 +27,12 @@ his Commentaries, and he expresses it in these terms: "If God is able to
 bring back all men to virtue and to happiness, and if he does not will
 to do so, is God therefore unjust and wicked? Or if he wills to bring
 them back and if he is unable, is God therefore weak and
-impotent?" <span id="fr_638"></span>[a](#fn_637) Long before Hierocles,
+impotent?" <span id="fr_638"></span>[a](#fn_637.md) Long before Hierocles,
 Epicurus seized upon this argument to support his system, and had
 extended it without augmenting its force. His design had been to prove
 by its means that, according as he had advanced it, God does not
 interfere with the things of this world, and that there is,
-consequently, no Providence. <span id="fr_639"></span>[b](#fn_638)
+consequently, no Providence. <span id="fr_639"></span>[b](#fn_638.md)
 Lactantius, thinking that he was answering this, has quoted from
 Epicurus and has afforded Bayle, the most learned and the most
 formidable of modern skeptics, the occasion for demonstrating that,
@@ -51,7 +51,7 @@ sovereignly potential, how is he exposed to the maladies of cold, heat,
 hunger, thirst, pain, and sorrow? How has he so many wicked
 inclinations? How does he commit so many crimes? Can the sovereign
 sanctity produce a criminal creature? Can the sovereign bounty produce
-an unfortunate creature? <span id="fr_640"></span>[c](#fn_639)
+an unfortunate creature? <span id="fr_640"></span>[c](#fn_639.md)
 
 Bayle, content with his anti-providential declaration, believes that he
 has triumphed over all the dogmatists of
@@ -69,13 +69,13 @@ pitiable reason! Is it that the glorified souls, the saints, are equal
 to God, being predestined to good, and deprived of what is called *free
 will*, which, according to Saint Augustine, is only the possibility of
 evil when the divine grace does not incline man towards the good?" <span
-id="fr_641"></span>[a](#fn_640)
+id="fr_641"></span>[a](#fn_640.md)
 
 Bayle, after several outbursts of this sort, finishes by declaring that
 the way in which evil is introduced under the rule of a sovereign being,
 infinitely good, infinitely potential, infinitely holy, is not only
 inexplicable but even incomprehensible. <span
-id="fr_642"></span>[b](#fn_641) Bayle is right on this point; also I
+id="fr_642"></span>[b](#fn_641.md) Bayle is right on this point; also I
 have always said, in the course of this work, that the origin of evil,
 comprehensible or not, could never be divulged. But the matter of the
 origin of evil is not the question here. Bayle was too good a reasoner
@@ -107,12 +107,12 @@ accord with God. If he can and does not will it, he is wicked; which
 accords with him no better. If he does not will it nor can, he is wicked
 and weak, which could not be. If he can and wills it, that which alone
 is worthy of his divinity, whence then come the evils? Or why does he
-not take them away? <span id="fr_643"></span>[a](#fn_642)
+not take them away? <span id="fr_643"></span>[a](#fn_642.md)
 
 Lactantius, to whom Bayle owed his argument, had thought to overthrow
 it, by saying that God, being able to take away evil, did not will it;
 so as to give to men, by its means, wisdom and virtue. <span
-id="fr_644"></span>[b](#fn_643) But the skeptic philosopher had no
+id="fr_644"></span>[b](#fn_643.md) But the skeptic philosopher had no
 trouble to prove that this answer was worth nothing, and that the
 doctrine that it contained was monstrous; since it was certain that God
 was able to give wisdom and virtue without the means of evil; since he
@@ -128,16 +128,16 @@ glorified
 <span id="page_266">p. 266</span>
 
 souls do not enjoy the fatal privilege of being able to sin. <span
-id="fr_645"></span>[a](#fn_644) And with the same blow with which he
+id="fr_645"></span>[a](#fn_644.md) And with the same blow with which he
 struck him, he brought down Malebranche who had said the same
-thing. <span id="fr_646"></span>[b](#fn_645) The downfall of
+thing. <span id="fr_646"></span>[b](#fn_645.md) The downfall of
 Malebranche, and the desire to avenge him, bestirred in vain a crowd of
 audacious metaphysicians. Bayle pierced them one after another with the
 weapons of Epicurus, whose steel they did not know, and died with the
 glory of their having said the greatest piece of stupidity which could
 be said upon a like matter: namely, that it was possible that God might
 prescribe another end, in creating the world, than to make his creatures
-happy. <span id="fr_647"></span>[c](#fn_646)
+happy. <span id="fr_647"></span>[c](#fn_646.md)
 
 The death of Bayle did not extinguish the ardour that his works had
 excited. Leibnitz, justly displeased with all that had been said,
@@ -148,7 +148,7 @@ beings choosing among an infinity of worlds, all possible, all present
 at his thought, the actual world, as most conformable to his attributes,
 the most worthy of him, the best finally, the most capable of attaining
 to the greatest and most excellent end that this all-perfect Being may
-have been able to purpose. <span id="fr_648"></span>[d](#fn_647) But
+have been able to purpose. <span id="fr_648"></span>[d](#fn_647.md) But
 what is this magnificent and worthy end which the Divinity has chosen,
 this goal which not alone constitutes the actual world such as it is,
 but which also presents it to the mind, according to the system of
@@ -164,7 +164,7 @@ greatest possible number of intelligent
 
 creatures, by endowing them with as much knowledge, happiness, and
 beauty as the Universe might admit without going away from the immutable
-order established by his wisdom. <span id="fr_649"></span>[a](#fn_648)
+order established by his wisdom. <span id="fr_649"></span>[a](#fn_648.md)
 
 Up to this point, the system of Leibnitz sustained itself, and was able
 even to lead to a relative truth; but its work was not accomplished. It
@@ -199,7 +199,7 @@ the plan of its work; Nature, the object of its labour; and Good,
 
 its result. You know, and Bayle himself agrees, that there exists a
 mixture of good and evil: and I repeat to you here what I have already
-said <span id="fr_650"></span>[a](#fn_649); and I maintain that this
+said <span id="fr_650"></span>[a](#fn_649.md); and I maintain that this
 good emanates from Providence, and is its work, and replaces in the
 sphere where it has been transported, an equivalent amount of evil which
 it has transmuted into good; I maintain that this good continues
@@ -217,7 +217,7 @@ whom the extremes are touching so forcibly, that it is impossible for
 you to distinguish upon the same dial the movement of the needle which
 traverses it in a cycle, from the movement of that which traverses it in
 less than a second; one of these needles appearing to you immobile and
-the other not existing for you. <span id="fr_651"></span>[b](#fn_650)
+the other not existing for you. <span id="fr_651"></span>[b](#fn_650.md)
 
 If you deny what I affirm, bring other proofs of your denial than your
 weakness and cease, from the little corner where Nature has placed you,
@@ -262,49 +262,49 @@ with Lysis:
 
 ### Footnotes
 
-<span id="fn_637"></span>[263:a](ogv44.htm#fr_638) *Aur. Carm.*, v.
+<span id="fn_637"></span>[263:a](ogv44.htm#fr_638.md) *Aur. Carm.*, v.
 62-77.
 
-<span id="fn_638"></span>[263:b](ogv44.htm#fr_639) Lactant., *De Irâ
+<span id="fn_638"></span>[263:b](ogv44.htm#fr_639.md) Lactant., *De Irâ
 Dei*, c. 13, p. 548.
 
-<span id="fn_639"></span>[263:c](ogv44.htm#fr_640) *Dict. crit.*, art.
+<span id="fn_639"></span>[263:c](ogv44.htm#fr_640.md) *Dict. crit.*, art.
 MANICHÉENS, rem. D.
 
-<span id="fn_640"></span>[264:a](ogv44.htm#fr_641) *Dict. crit.* art.
+<span id="fn_640"></span>[264:a](ogv44.htm#fr_641.md) *Dict. crit.* art.
 MARCIONITES, rem. E et G.
 
-<span id="fn_641"></span>[264:b](ogv44.htm#fr_642) *Ibid*., art.
+<span id="fn_641"></span>[264:b](ogv44.htm#fr_642.md) *Ibid*., art.
 PAULICIENS, rem. E.
 
-<span id="fn_642"></span>[265:a](ogv44.htm#fr_643) Bayle, *Dict. crit.*,
+<span id="fn_642"></span>[265:a](ogv44.htm#fr_643.md) Bayle, *Dict. crit.*,
 art. PAULICIENS, rem. E.
 
-<span id="fn_643"></span>[265:b](ogv44.htm#fr_644) *De Irâ Dei*, c. 13,
+<span id="fn_643"></span>[265:b](ogv44.htm#fr_644.md) *De Irâ Dei*, c. 13,
 p. 548.
 
-<span id="fn_644"></span>[266:a](ogv44.htm#fr_645) Basilius, t. i., *In
+<span id="fn_644"></span>[266:a](ogv44.htm#fr_645.md) Basilius, t. i., *In
 Homil. quod Deus non sit auctor mali*, p. 369; Bayle. *Dict. crit.*,
 art. MARCIONITES, rem. E et G.
 
-<span id="fn_645"></span>[266:b](ogv44.htm#fr_646) *Traité de Morale*.
+<span id="fn_645"></span>[266:b](ogv44.htm#fr_646.md) *Traité de Morale*.
 
-<span id="fn_646"></span>[266:c](ogv44.htm#fr_647) *Réponse à deux
+<span id="fn_646"></span>[266:c](ogv44.htm#fr_647.md) *Réponse à deux
 object. de M. Bayle*, par Delaplacette, *in*-12, 1707.
 
-<span id="fn_647"></span>[266:d](ogv44.htm#fr_648) *Essai de Théodicée*,
+<span id="fn_647"></span>[266:d](ogv44.htm#fr_648.md) *Essai de Théodicée*,
 part iii., No. 405 *et suiv*.
 
-<span id="fn_648"></span>[267:a](ogv44.htm#fr_649) *Essai de Théodicée*,
+<span id="fn_648"></span>[267:a](ogv44.htm#fr_649.md) *Essai de Théodicée*,
 part. iii., No. 405 *et suiv*.
 
-<span id="fn_649"></span>[268:a](ogv44.htm#fr_650) Ci-dessus,
+<span id="fn_649"></span>[268:a](ogv44.htm#fr_650.md) Ci-dessus,
 25<sup>e</sup> Examen.
 
-<span id="fn_650"></span>[268:b](ogv44.htm#fr_651) *Mém. de l’Acad. des
+<span id="fn_650"></span>[268:b](ogv44.htm#fr_651.md) *Mém. de l’Acad. des
 Sciences*, ann., 1765, p. 439.
 
 ------------------------------------------------------------------------
 
 [Next: 34. But No: ’Tis For the Humans of a Race Divine, to Discern
-Error, and to See the Truth](ogv45)
+Error, and to See the Truth](ogv45.md)

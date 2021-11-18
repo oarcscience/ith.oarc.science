@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rufo00)    [Page
-Index](pageidx)    [Text \[Zipped\]](rufotxt.zip)
+[Contents](#contents)    [Start Reading](rufo00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](rufotxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -65,30 +65,30 @@ extraterrestrial hypothesis, and some who were skeptics.
 Fully a quarter of the reports were still unexplained after this
 rigorous filtering. Ruppelt is decidedly agnostic, but open-minded,
 about the reality behind the 'unexplained' sightings. Unlike
-[Keyhoe](../fsar/index), he does not claim that UFOs are interplanetary
+[Keyhoe](../fsar/index.md), he does not claim that UFOs are interplanetary
 spacecraft, only that this is one of the *possible* explanations. <span
 class="small">--J.B. Hare, May 13, 2008.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](rufo00)  
-[Foreword](rufo01)  
-[Contents](rufo02)  
-[Chapter One. Project Blue Book and the UFO Story](rufo03)  
-[Chapter Two. The Era of Confusion Begins](rufo04)  
-[Chapter Three. The Classics](rufo05)  
+<span id="contents"></span> [Title Page and Front Matter](rufo00.md)  
+[Foreword](rufo01.md)  
+[Contents](rufo02.md)  
+[Chapter One. Project Blue Book and the UFO Story](rufo03.md)  
+[Chapter Two. The Era of Confusion Begins](rufo04.md)  
+[Chapter Three. The Classics](rufo05.md)  
 [Chapter Four. Green Fireballs, Project Twinkle, Little Lights, and
-Grudge](rufo06)  
-[Chapter Five. The Dark Ages](rufo07)  
-[Chapter Six. The Presses Roll—The Air Force Shrugs](rufo08)  
-[Chapter Seven. The Pentagon Rumbles](rufo09)  
-[Chapter Eight. The Lubbock Lights, Unabridged](rufo10)  
-[Chapter Nine. The New Project Grudge](rufo11)  
-[Chapter Ten. Project Blue Book and the Big Build-Up](rufo12)  
-[Chapter Eleven. The Big Flap](rufo13)  
-[Chapter Twelve. The Washington Merry-Go-Round](rufo14)  
-[Chapter Thirteen. Hoax or Horror?](rufo15)  
-[Chapter Fourteen. Digesting the Data](rufo16)  
-[Chapter Fifteen. The Radiation Story](rufo17)  
-[Chapter Sixteen. The Hierarchy Ponders](rufo18)  
-[Chapter Seventeen. What Are UFO's?](rufo19)  
+Grudge](rufo06.md)  
+[Chapter Five. The Dark Ages](rufo07.md)  
+[Chapter Six. The Presses Roll—The Air Force Shrugs](rufo08.md)  
+[Chapter Seven. The Pentagon Rumbles](rufo09.md)  
+[Chapter Eight. The Lubbock Lights, Unabridged](rufo10.md)  
+[Chapter Nine. The New Project Grudge](rufo11.md)  
+[Chapter Ten. Project Blue Book and the Big Build-Up](rufo12.md)  
+[Chapter Eleven. The Big Flap](rufo13.md)  
+[Chapter Twelve. The Washington Merry-Go-Round](rufo14.md)  
+[Chapter Thirteen. Hoax or Horror?](rufo15.md)  
+[Chapter Fourteen. Digesting the Data](rufo16.md)  
+[Chapter Fifteen. The Radiation Story](rufo17.md)  
+[Chapter Sixteen. The Hierarchy Ponders](rufo18.md)  
+[Chapter Seventeen. What Are UFO's?](rufo19.md)  

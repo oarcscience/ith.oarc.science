@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](rok11)  [Next](rok13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](rok11)  [Next](rok13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH82/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH82/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Koran*, by Arthur N. Wollaston, \[1911\], at
 Intangible Textual Heritage
 
@@ -55,4 +55,4 @@ are seduced; and, verily, Hell is promised to them all together!"
 
 ------------------------------------------------------------------------
 
-[Next: Predestination](rok13)
+[Next: Predestination](rok13.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey12)  [Next](grey14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey12)  [Next](grey14.md) 
 
 ------------------------------------------------------------------------
 
@@ -474,4 +474,4 @@ sprang the war, the events of which have now been recounted.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Hatupatu and His Brothers](grey14)
+[Next: The Legend of Hatupatu and His Brothers](grey14.md)

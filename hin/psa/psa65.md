@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa64)  [Next](psa66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa64)  [Next](psa66.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ procession, contributed greatly to the fine effect and beauty of the
 scene. The dust flew up, and spread to the sky, the sun was hid and
 became like night; the ruddy goose and its mate were 'separated; wives
 enjoyed themselves with their lords, the lotus bloomed, and the white
-esculent lotus withered, [nocturnal](errata.htm#17) animals prowled
+esculent lotus withered, [nocturnal](errata.htm#17.md) animals prowled
 about, supposing that it was night.
 
 Having recited thus much of' the history, Shree Shookdeo Jee, said,--O
@@ -364,4 +364,4 @@ and being highly pleased at seeing her, adorned her with ornaments.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXV](psa66)
+[Next: Chapter LXV](psa66.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce04)  [Next](sce06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce04)  [Next](sce06.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ tells me, in Piccadilly. The other passed without notice: the officer
 hesitated about following him, did not, and in some fifty yards met his
 man. There is probably no more in this than resemblance and coincidence,
 but this is the kind of thing which was worked by the Highlanders into
-their metaphysics. <span id="fr_3"></span>[1](#fn_3)
+their metaphysics. <span id="fr_3"></span>[1](#fn_3.md)
 
 The end of the Co-walker is obscure. "This
 
@@ -165,14 +165,14 @@ ballad
 A bonny, bonny cow lowe,"
 
 in C. Kirkpatrick Sharpe's *Ballad Book*. <span
-id="fr_4"></span>[1](#fn_4) This part of the superstition is not easy to
+id="fr_4"></span>[1](#fn_4.md) This part of the superstition is not easy to
 elucidate. Kirk repeats the well-known tales of the blinding of the
 mortal who saw too clearly "by making use of their Oyntments."
 Well-known examples occur in Gervase of Tilbury, and are cited in
 Scott's note on *Tamlane* in the *Border Minstrelsy*. As Homer fables of
 the dead, their speech is a kind of whistling like the cry of
 bats--another indication of the pre-Christian Hades. <span
-id="fr_5"></span>[2](#fn_5) They have feasts and burials; and Pashley,
+id="fr_5"></span>[2](#fn_5.md) They have feasts and burials; and Pashley,
 in his *Travels in Crete*, tells the well-known Border story of a man
 who fired on a
 
@@ -270,7 +270,7 @@ story.
 
 ### Footnotes
 
-<span id="fn_3"></span>[xxviii:1](sce05.htm#fr_3) A much odder case is
+<span id="fn_3"></span>[xxviii:1](sce05.htm#fr_3.md) A much odder case is
 reported. Two young men photographed a reach of a river. In the
 photograph, when printed, was visible the dead body of a woman floating
 on the stream. The water was dragged. Nothing was found; but two or
@@ -279,12 +279,12 @@ the Psychical Society sometimes say, "no confirmation has been
 obtained;" but this is a pleasing instance of the Reflex, and of second
 sight in a photographic camera.
 
-<span id="fn_4"></span>[xxx:1](sce05.htm#fr_4) It is also published in
+<span id="fn_4"></span>[xxx:1](sce05.htm#fr_4.md) It is also published in
 Mrs. Graham Tomson's *Border Ballads* (Walter Scott).
 
-<span id="fn_5"></span>[xxx:2](sce05.htm#fr_5) Note
-( [b](sce29.htm#xref_b)), [p. 81](sce29.htm#page_81).
+<span id="fn_5"></span>[xxx:2](sce05.htm#fr_5.md) Note
+( [b](sce29.htm#xref_b)), [p. 81](sce29.htm#page_81.md).
 
 ------------------------------------------------------------------------
 
-[Next: V. Fairies and Psychical Research](sce06)
+[Next: V. Fairies and Psychical Research](sce06.md)

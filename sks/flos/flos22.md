@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos21)  [Next](flos23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos21)  [Next](flos23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Intangible Textual Heritage
 <span class="smallcaps">It</span> would be difficult to enumerate the
 manifold forms of superstition which have, in most countries, in the
 course of past centuries, clustered round the human body. Many
-[of](errata.htm#9) these, too, may still be found scattered, here and
+[of](errata.htm#9.md) these, too, may still be found scattered, here and
 there, throughout our own country. One of the most deep-rooted being
 palmistry, several allusions to which are made by Shakespeare.
 
@@ -111,7 +111,7 @@ set forth at large in its connection with physic in Sir Philip Sydney's
 </div>
 
    This notion was substantially adopted by Galen, and embraced by the
-physicians of the olden times. <span id="fr_904"></span>[1](#fn_901)
+physicians of the olden times. <span id="fr_904"></span>[1](#fn_901.md)
 
    *Blood*.—In old phraseology this word was popularly used for
 disposition or temperament. In "Timon of Athens" (iv. 2), Flavius
@@ -187,7 +187,7 @@ himself to Portia, and urging his claims for her hand, says—
 <span class="small">"Bring me the fairest creature northward born,  
  Where Phoebus’ fire scarce thaws the icicles,  
  And let us make incision for your love, <span
-id="fr_905"></span>[1](#fn_902)  
+id="fr_905"></span>[1](#fn_902.md)  
  To prove whose blood is reddest, his or mine."</span>
 
 </div>
@@ -199,13 +199,13 @@ as milk," and an effeminate man is termed a "milksop." Macbeth, too, (v.
 3) calls one of his frighted soldiers a "lily-liver’d boy." And in "King
 Lear" (ii. 2), the Earl of Kent makes use of the same phrase. In
 illustration of this notion Mr Douce <span
-id="fr_906"></span>[1](#fn_903) quotes from Bartholomew Glantville, who
+id="fr_906"></span>[1](#fn_903.md) quotes from Bartholomew Glantville, who
 says—"Reed clothes have been layed upon deed men in remembrance of theyr
 hardynes and boldnes, whyle they were in theyr bloudde."
 
    The absence of blood in the liver as the supposed property of a
 coward, originated, says Dr Bucknill, <span
-id="fr_907"></span>[2](#fn_904) in the old theory of the circulation of
+id="fr_907"></span>[2](#fn_904.md) in the old theory of the circulation of
 the blood, which explains Sir Toby's remarks on his dupe in "Twelfth
 Night" (iii. 2)—"For Andrew, if he were opened, and you find so much
 blood in his liver as will clog the foot of a flea, I'll eat the rest of
@@ -250,10 +250,10 @@ Macbeth (i. 7), speaking of Duncan's two chamberlains, says—
 connected with the spinal marrow and the rest of the body; the memory is
 posted in the cerebellum like a warder or sentinel to warn the reason
 against attack. Thus, when the memory is converted by intoxication into
-a mere fume, <span id="fr_908"></span>[1](#fn_905) then it fills the
+a mere fume, <span id="fr_908"></span>[1](#fn_905.md) then it fills the
 brain itself—the receipt or receptacle of reason, which thus becomes
 like an alembic or cap of a still." <span
-id="fr_909"></span>[2](#fn_906)
+id="fr_909"></span>[2](#fn_906.md)
 
    A popular nickname, in former times, for the skull, was "brain-pan;"
 to which Cade, in "2 Henry VI." (iv. 10), refers:—"Many a time, but for
@@ -282,7 +282,7 @@ addressing Isabel tells her:—
 </div>
 
 denoted "much mental capacity either of attention, ingenuity, or
-remembrance." <span id="fr_910"></span>[3](#fn_907) Thus in Marston's
+remembrance." <span id="fr_910"></span>[3](#fn_907.md) Thus in Marston's
 "Dutch Courtezan" (1605), we read:—
 
 <div style="margin-left: 32px">
@@ -322,7 +322,7 @@ and the tingling of the right ear the enemy. In "Much ado about Nothing"
 </div>
 
 the reference, no doubt, being to this popular fancy. Sir Thomas
-Browne <span id="fr_911"></span>[1](#fn_908) ascribes the idea to the
+Browne <span id="fr_911"></span>[1](#fn_908.md) ascribes the idea to the
 belief in guardian angels, who touch the right or left ear according as
 the conversation is favourable or not to the person.
 
@@ -334,7 +334,7 @@ delinquents:—
 <div style="margin-left: 32px">
 
 <span class="small">"I know him; a’ wears a lock." <span
-id="fr_912"></span>[2](#fn_909)</span>
+id="fr_912"></span>[2](#fn_909.md)</span>
 
 </div>
 
@@ -392,11 +392,11 @@ There is too the well-known passage in the "Merchant of Venice" (v. 1):—
 </div>
 
 According to the Italian proverb:—"Whom God loves not, that man loves
-not music." <span id="fr_913"></span>[1](#fn_910)
+not music." <span id="fr_913"></span>[1](#fn_910.md)
 
    *Elbow*.—According to a popular belief the itching of the elbow
 denoted an approaching change of some kind or other. <span
-id="fr_914"></span>[2](#fn_911) Thus in "1 Henry IV." (v. 1), the King
+id="fr_914"></span>[2](#fn_911) Thus in "1 Henry IV." (v. 1.md), the King
 speaks of—
 
 <div style="margin-left: 32px">
@@ -418,7 +418,7 @@ the body. Thus in "Macbeth" (iv. 1), one of the Witches exclaims:—
 </div>
 
 Again, in "Troilus and Cressida" (ii. 1), Ajax says, "My fingers
-itch," <span id="fr_915"></span>[3](#fn_912) and an itching palm was
+itch," <span id="fr_915"></span>[3](#fn_912.md) and an itching palm was
 said to be an indication that the person would shortly receive money.
 Hence it denoted a hand ready to receive bribes. Thus in "Julius Cæsar"
 (iv. 3), Brutus says to Cassius:—
@@ -486,7 +486,7 @@ referred to by old writers, as for instance by Drayton in his "Ideas"—
 <span class="small">"But O, see, see! we need enquire no further,  
  Upon your lips the scarlet drops are found,  
  And in your eye, the boy that did the murder." <span
-id="fr_916"></span>[1](#fn_913)</span>
+id="fr_916"></span>[1](#fn_913.md)</span>
 
 </div>
 
@@ -601,7 +601,7 @@ Ephesus says:—
 </div>
 
    *Feet*.—Stumbling has from the earliest period been considered
-ominous. <span id="fr_917"></span>[1](#fn_914) Thus Cicero mentions it
+ominous. <span id="fr_917"></span>[1](#fn_914.md) Thus Cicero mentions it
 amongst the superstitions of his day; and numerous instances of this
 unlucky act have been handed down from bygone times. We are told by Ovid
 how Myrrha, on her way to Cinyra's chamber stumbled thrice, but was not
@@ -626,7 +626,7 @@ deterred by the omen from an unnatural and fatal crime; and Tibullus
 </div>
 
    In "Richard III." (iii. 4), Hastings relates:— <span
-id="fr_918"></span>[2](#fn_915)
+id="fr_918"></span>[2](#fn_915.md)
 
 <div style="margin-left: 32px">
 
@@ -659,7 +659,7 @@ ugly and unfashionable, and on this account a person with red hair would
 soon be regarded with contempt. It has been conjectured, too, that the
 odium took its rise from the aversion to the red-haired Danes. In "As
 You Like It" (iii. 4), Rosalind, when speaking of Orlando, refers to
-this notion:— <span id="fr_919"></span>[1](#fn_916)
+this notion:— <span id="fr_919"></span>[1](#fn_916.md)
 
 <div style="margin-left: 32px">
 
@@ -680,7 +680,7 @@ esteemed a deformity. In ancient pictures and tapestries both Cain and
 Judas are represented with yellow beards, in allusion to which Simple,
 in the "Merry Wives of Windsor" (i. 4), when interrogated, says of his
 master, "He hath but a little wee face, with a little yellow beard—a
-Cain coloured beard." <span id="fr_920"></span>[2](#fn_917)
+Cain coloured beard." <span id="fr_920"></span>[2](#fn_917.md)
 
    In speaking of beards, it may be noted that formerly they gave rise
 to various customs. Thus, in Shakespeare's day, dyeing beards was a
@@ -689,7 +689,7 @@ fashionable custom, and so Bottom, in "A Midsummer Night's Dream" (i.
 Duke. He says, "I will discharge it in either your straw-colour beard,
 your orange-tawny beard, your purple-in-grain beard, or your French
 crown-colour beard, your perfect yellow." <span
-id="fr_921"></span>[3](#fn_918)
+id="fr_921"></span>[3](#fn_918.md)
 
    To mutilate a beard in any way was considered an irreparable outrage,
 a practice to which Hamlet refers (ii. 2):—
@@ -792,7 +792,7 @@ Antipholus of Syracuse in the "Comedy of Errors" (ii. 2):—"There's many
 a man hath more hair than wit." In the "Two Gentlemen of Verona" (iii.
 1), the same proverbial sentence is mentioned by Speed. Malone quotes
 the following lines upon Suckling's "Aglaura," as an illustration of
-this saying <span id="fr_922"></span>[1](#fn_919):—
+this saying <span id="fr_922"></span>[1](#fn_919.md):—
 
 <div style="margin-left: 32px">
 
@@ -943,7 +943,7 @@ the palm of the hand."
    A dry hand, however, has been supposed to denote age and debility. In
 "2 Henry IV." (i. 2), the Lord Chief Justice enumerates this amongst the
 characteristics of such a constitution. <span
-id="fr_923"></span>[1](#fn_920)
+id="fr_923"></span>[1](#fn_920.md)
 
    In the "Merchant of Venice" (ii. 2), Launcelot, referring to the
 language of palmistry, calls the hand "the table," meaning thereby the
@@ -984,7 +984,7 @@ cunningly picke out with needles, and are most common in the handes."
 
    A popular term formerly in use for the nails on the ten fingers was
 the "ten commandments," which, says Nares, <span
-id="fr_924"></span>[1](#fn_921) "doubtless led to the swearing by them,
+id="fr_924"></span>[1](#fn_921.md) "doubtless led to the swearing by them,
 as by the real commandments." Thus, in "2 Henry VI." (i. 3), the Duchess
 of Gloucester says to the Queen:—
 
@@ -1004,7 +1004,7 @@ size; a hand being the measure of four inches." So in the "Merry Wives
 of Windsor" (i. 4), Simple says:—"Ay, forsooth: but he is as tall a man
 of his hands as any is between this and his head," "the expression being
 used probably for the sake of a jocular equivocation in the word tall,
-which meant either bold or high." <span id="fr_925"></span>[2](#fn_922)
+which meant either bold or high." <span id="fr_925"></span>[2](#fn_922.md)
 
    Again, in the "Winter's Tale" (v. 2), the Clown tells the
 Shepherd:—"I'll swear to the prince thou art a tall fellow of thy hands
@@ -1039,7 +1039,7 @@ in "Romeo and Juliet" (i. 1), Sampson says:—"I will bite my thumb at
 them; which is a disgrace to them, if they hear it."
 
 The thumb in this action we are told "represented a fig, and the whole
-was equivalent to a fig for you." <span id="fr_926"></span>[1](#fn_923)
+was equivalent to a fig for you." <span id="fr_926"></span>[1](#fn_923.md)
 Decker in his "Dead Term" (1608), speaking of the various groups that
 daily frequented St Pauls’ Church, says:—"What swearing is there, what
 shouldering, what justling, what jeering, what byting of thumbs, to
@@ -1177,8 +1177,8 @@ says:—
 Once more, in "Merry Wives of Windsor" (ii. 1), Pistol alludes to the
 liver as being the inspirer of amorous passions, for, speaking of
 Falstaff, he refers to his loving Ford's wife "with liver burning
-hot." <span id="fr_927"></span>[1](#fn_924) Douce says, <span
-id="fr_928"></span>[2](#fn_925) "there is some reason for thinking that
+hot." <span id="fr_927"></span>[1](#fn_924.md) Douce says, <span
+id="fr_928"></span>[2](#fn_925.md) "there is some reason for thinking that
 this superstition was borrowed from the Arabian physicians, or at least
 adopted by them; for in the Turkish tales, an amorous tailor is made to
 address his wife by the titles of 'thou corner of my liver, and soul of
@@ -1199,7 +1199,7 @@ that "the liver is the place of voluptuousness and lyking of the flesh."
 
    *Moles*.—These have from time immemorial been regarded as ominous,
 and special attention has been paid by the superstitious to their
-position on the body. <span id="fr_929"></span>[3](#fn_926) In "A
+position on the body. <span id="fr_929"></span>[3](#fn_926.md) In "A
 Midsummer
 
 <span id="page_464">p. 464</span>
@@ -1296,10 +1296,10 @@ thee, thou mongrel beef-witted lord!"
 
 ### Footnotes
 
-<span id="fn_901"></span>[446:1](flos22.htm#fr_904) See Bucknill's
+<span id="fn_901"></span>[446:1](flos22.htm#fr_904.md) See Bucknill's
 "Medical Knowledge of Shakespeare," p. 120.
 
-<span id="fn_902"></span>[447:1](flos22.htm#fr_905) Mr Singer, in a note
+<span id="fn_902"></span>[447:1](flos22.htm#fr_905.md) Mr Singer, in a note
 on this passage, says, "it was customary in the East, for lovers to
 testify the violence of their passion, by cutting themselves in the
 sight of their mistresses; and the fashion seems to have been adopted
@@ -1307,13 +1307,13 @@ here as a mark of gallantry in Shakespeare's time, when young men
 frequently stabbed their arms with daggers, and, mingling the blood with
 wine, drank it off to the healths of their mistresses."—ii., p. 417.
 
-<span id="fn_903"></span>[448:1](flos22.htm#fr_906) Cf. "Illustrations
+<span id="fn_903"></span>[448:1](flos22.htm#fr_906.md) Cf. "Illustrations
 of Shakspeare," 1839, p. 156.
 
-<span id="fn_904"></span>[448:2](flos22.htm#fr_907) "Medical Knowledge
+<span id="fn_904"></span>[448:2](flos22.htm#fr_907.md) "Medical Knowledge
 of Shakespeare," p. 124.
 
-<span id="fn_905"></span>[449:1](flos22.htm#fr_908) Cf. "Tempest," (v.
+<span id="fn_905"></span>[449:1](flos22.htm#fr_908.md) Cf. "Tempest," (v.
 1.):—
 
 <div style="margin-left: 32px">
@@ -1323,35 +1323,35 @@ of Shakespeare," p. 124.
 
 </div>
 
-<span id="fn_906"></span>[449:2](flos22.htm#fr_909) Clarke and Wright's
+<span id="fn_906"></span>[449:2](flos22.htm#fr_909.md) Clarke and Wright's
 "Notes to Macbeth," 1877, p. 101.
 
-<span id="fn_907"></span>[449:3](flos22.htm#fr_910) Singer's
+<span id="fn_907"></span>[449:3](flos22.htm#fr_910.md) Singer's
 "Shakespeare," viii. p. 123.
 
-<span id="fn_908"></span>[450:1](flos22.htm#fr_911) "Vulgar Errors,"
+<span id="fn_908"></span>[450:1](flos22.htm#fr_911.md) "Vulgar Errors,"
 book v., chap. 23 (Bohn's edition, 1852, ii. p. 82).
 
-<span id="fn_909"></span>[450:2](flos22.htm#fr_912) Prynne attacked the
+<span id="fn_909"></span>[450:2](flos22.htm#fr_912.md) Prynne attacked the
 fashion in his "Unloveliness of Love-locks."
 
-<span id="fn_910"></span>[451:1](flos22.htm#fr_913) See Douce's
+<span id="fn_910"></span>[451:1](flos22.htm#fr_913.md) See Douce's
 "Illustrations of Shakspeare," pp. 165, 166.
 
-<span id="fn_911"></span>[451:2](flos22.htm#fr_914) Ibid, p. 273.
+<span id="fn_911"></span>[451:2](flos22.htm#fr_914.md) Ibid, p. 273.
 
-<span id="fn_912"></span>[451:3](flos22.htm#fr_915) See "Romeo and
+<span id="fn_912"></span>[451:3](flos22.htm#fr_915.md) See "Romeo and
 Juliet" (iii. 5), where Capulet says, "My fingers itch," denoting
 anxiety.
 
-<span id="fn_913"></span>[452:1](flos22.htm#fr_916) See Nares’
+<span id="fn_913"></span>[452:1](flos22.htm#fr_916.md) See Nares’
 "Glossary," i. p. 44.
 
-<span id="fn_914"></span>[454:1](flos22.htm#fr_917) See Brand's "Pop.
+<span id="fn_914"></span>[454:1](flos22.htm#fr_917.md) See Brand's "Pop.
 Antiq.," 1849, iii. p. 249; Jones’ "Credulities Past and Present," pp.
 529–531; "Notes and Queries," 5th S., viii. p. 201.
 
-<span id="fn_915"></span>[454:2](flos22.htm#fr_918) The following is
+<span id="fn_915"></span>[454:2](flos22.htm#fr_918.md) The following is
 from Holinshed, who copies Sir Thomas More:—"In riding toward the Tower
 the same morning in which he (Hastings) was beheaded, his horse twice or
 thrice stumbled with him, almost to the falling; which thing, albeit
@@ -1359,29 +1359,29 @@ each man wot well daily happeneth to them to whome no such mischance is
 toward; yet hath it beene of an olde rite and custome observed as a
 token oftentimes notablie foregoing some great misfortune."
 
-<span id="fn_916"></span>[455:1](flos22.htm#fr_919) See Nares’
+<span id="fn_916"></span>[455:1](flos22.htm#fr_919.md) See Nares’
 "Glossary," i. p. 127; Dyce's "Glossary," pp. 61, 230.
 
-<span id="fn_917"></span>[455:2](flos22.htm#fr_920) The quartos of 1602
+<span id="fn_917"></span>[455:2](flos22.htm#fr_920.md) The quartos of 1602
 read "a kane-coloured beard."
 
-<span id="fn_918"></span>[455:3](flos22.htm#fr_921) See Jaques’
+<span id="fn_918"></span>[455:3](flos22.htm#fr_921.md) See Jaques’
 Description of the Seven Ages in "As You Like It," (ii. 6).
 
-<span id="fn_919"></span>[457:1](flos22.htm#fr_922) "Parnassus Biceps,"
+<span id="fn_919"></span>[457:1](flos22.htm#fr_922.md) "Parnassus Biceps,"
 1656.
 
-<span id="fn_920"></span>[459:1](flos22.htm#fr_923) See Brand's "Pop.
+<span id="fn_920"></span>[459:1](flos22.htm#fr_923.md) See Brand's "Pop.
 Antiq.," 1849, iii. p. 179.
 
-<span id="fn_921"></span>[460:1](flos22.htm#fr_924) "Glossary," ii. p.
+<span id="fn_921"></span>[460:1](flos22.htm#fr_924.md) "Glossary," ii. p.
 871.
 
-<span id="fn_922"></span>[460:2](flos22.htm#fr_925) Ibid., i. p. 402.
+<span id="fn_922"></span>[460:2](flos22.htm#fr_925.md) Ibid., i. p. 402.
 
-<span id="fn_923"></span>[461:1](flos22.htm#fr_926) See page 207.
+<span id="fn_923"></span>[461:1](flos22.htm#fr_926.md) See page 207.
 
-<span id="fn_924"></span>[463:1](flos22.htm#fr_927) Cf. "Antony and
+<span id="fn_924"></span>[463:1](flos22.htm#fr_927.md) Cf. "Antony and
 Cleopatra" (i. 2)—
 
 <div style="margin-left: 32px">
@@ -1392,12 +1392,12 @@ beloved.
 
 </div>
 
-<span id="fn_925"></span>[463:2](flos22.htm#fr_928) "Illustrations of
+<span id="fn_925"></span>[463:2](flos22.htm#fr_928.md) "Illustrations of
 Shakspeare," 1839, pp. 38, 39.
 
-<span id="fn_926"></span>[463:3](flos22.htm#fr_929) See Brand's "Pop.
+<span id="fn_926"></span>[463:3](flos22.htm#fr_929.md) See Brand's "Pop.
 Antiq." 1849, iii. pp. 252–5.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. Fishes](flos23)
+[Next: Chapter XXI. Fishes](flos23.md)

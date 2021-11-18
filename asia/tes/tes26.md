@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes25)  [Next](tes27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes25)  [Next](tes27.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_50">p. 50</span>
 
-### 5. A BEAR TALE. <span id="fr_37"></span>[1](#fn_37)
+### 5. A BEAR TALE. <span id="fr_37"></span>[1](#fn_37.md)
 
 A clan of the Tungus lived in three tents. The family in the first tent
 had two daughters. The elder daughter was married, and the younger lived
@@ -38,7 +38,7 @@ At last the warm season came again. The bear left his lair and roamed
 about, looking for food. Every day he brought back all kinds of
 game--reindeer, hare, or at least ptarmigan. He never came home without
 something. He ate the raw meat. She could not eat it. So she prayed to
-the bear, "O bear! grandfather. <span id="fr_38"></span>[2](#fn_38) You
+the bear, "O bear! grandfather. <span id="fr_38"></span>[2](#fn_38.md) You
 see I cannot eat raw meat. How shall I subsist? Please bring me some
 fire!" He let forth a growl and set off. For a long time he did not
 return. Then he brought in his mouth a firebrand. He procured a knife
@@ -110,10 +110,10 @@ in the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_37"></span>[50:1](tes26.htm#fr_37) Similar tales are met
+<span id="fn_37"></span>[50:1](tes26.htm#fr_37.md) Similar tales are met
 among all the native tribes of these countries.--W. B.
 
-<span id="fn_38"></span>[50:2](tes26.htm#fr_38) The Russianized natives
+<span id="fn_38"></span>[50:2](tes26.htm#fr_38.md) The Russianized natives
 of the Kolyma have a very strong superstitious fear of the bear. They
 never mention its name, but call him "he" or "grandfather." The bear is
 considered as a mighty shaman, the man of the wood. "He knows
@@ -128,4 +128,4 @@ natives.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Grass-Blade Girl](tes27)
+[Next: 6. Grass-Blade Girl](tes27.md)

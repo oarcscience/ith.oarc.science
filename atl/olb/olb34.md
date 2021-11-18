@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb33)  [Next](olb35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb33)  [Next](olb35.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ not take its place. The coastguard deserted their beacons, and no one
 was to be seen on any of the paths. When the fog rose, the sun scarcely
 appeared among the clouds; but the people all came out shouting with
 joy, and the young folks went about singing to their bagpipes <span
-id="fr_50"></span>[\*](#fn_50), filling the air with their melody. But
+id="fr_50"></span>[\*](#fn_50.md), filling the air with their melody. But
 while every one was intoxicated with pleasure, treachery had landed with
 its horses and riders. As usual, darkness had favoured the wicked, and
 they had slipped in through the paths of Linda's wood. Before Adela's
@@ -59,10 +59,10 @@ her bosom! The treacherous Magy had poisoned it, and she died of it.
 
 ### Footnotes
 
-<span id="fn_50"></span>[131:\*](olb34.htm#fr_50) Gürbam. C. Niebuhr,
+<span id="fn_50"></span>[131:\*](olb34.htm#fr_50.md) Gürbam. C. Niebuhr,
 Travels, vol. L p. 174. The bagpipe is called by the Egyptians *Sumâra
 el Kürbe*.
 
 ------------------------------------------------------------------------
 
-[Next: The Elegy of the Burgtmaagd](olb35)
+[Next: The Elegy of the Burgtmaagd](olb35.md)

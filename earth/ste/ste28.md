@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste27)  [Next](ste29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste27)  [Next](ste29.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,15 +48,15 @@
 
 [![Portrait of the Author: Frontispiece to Books 3 and
 4](tn/front34.jpg)  
-Click to enlarge](img/front34.jpg)  
+Click to enlarge](img/front34.jpg.md)  
 Portrait of the Author: Frontispiece to Books 3 and 4  
 
 <span id="img_title34"></span>
 
 [![Title Page of Books 3 and 4](tn/title34.jpg)  
-Click to enlarge](img/title34.jpg)  
+Click to enlarge](img/title34.jpg.md)  
 Title Page of Books 3 and 4  
 
 ------------------------------------------------------------------------
 
-[Next: Dedication (Books 3 and 4)](ste29)
+[Next: Dedication (Books 3 and 4)](ste29.md)

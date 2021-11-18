@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes40)  [Next](tes42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes40)  [Next](tes42.md) 
 
 ------------------------------------------------------------------------
 
-### 19. STEPMOTHER AND STEPDAUGHTER. <span id="fr_60"></span>[2](#fn_60)
+### 19. STEPMOTHER AND STEPDAUGHTER. <span id="fr_60"></span>[2](#fn_60.md)
 
 There was an old man with his wife. They had one daughter. After some
 time the old woman died. He married another woman, and also had a
@@ -21,7 +21,7 @@ this way, and the young girl suffered much. At last she could
 
 endure it no longer; so when the father came back in the evening, she
 said, "O father! take me away! I cannot live here any longer. Take me
-rather to the Unclean Idol." <span id="fr_61"></span>[1](#fn_61) The
+rather to the Unclean Idol." <span id="fr_61"></span>[1](#fn_61.md) The
 father said, "Why, my child, if you feel so badly, I will rather stay
 here and watch over you. Perhaps then life will become more bearable for
 you." So the next day he did not go hunting, but stayed at home. His
@@ -133,10 +133,10 @@ in the Kolyma country, winter of 1895--W. B.
 
 ### Footnotes
 
-<span id="fn_60"></span>[83:2](tes41.htm#fr_60) This is a version of the
+<span id="fn_60"></span>[83:2](tes41.htm#fr_60.md) This is a version of the
 well-known Russian tale, but with some details of local life.--W. B.
 
-<span id="fn_61"></span>[84:1](tes41.htm#fr_61) "Unclean Idol" (Russian
+<span id="fn_61"></span>[84:1](tes41.htm#fr_61.md) "Unclean Idol" (Russian
 идолъ поганый) is usually applied in Russian stories to representations
 of heathenism. The word поганый (unclean) is derived from the Latin
 paganis ("pagan"). Here, however, it is simply a monster.--W. B.--See
@@ -144,4 +144,4 @@ Bolte und Polívka, *l. c.*, vol. 1, 207--F. B.
 
 ------------------------------------------------------------------------
 
-[Next: 21. Sea-Wanderers](tes42)
+[Next: 21. Sea-Wanderers](tes42.md)

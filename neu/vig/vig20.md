@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig19)  [Next](vig21) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig19)  [Next](vig21.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,15 +38,15 @@ him for theft. I don’t think, if I make this charge against him, Glum
 will go the lengths of clearing him by the oath of twelve men." "No,"
 answered Bárd, "it will be a difficult matter for him to get the oath of
 twelve men out of Glum and Vigfuss and their people."  <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_15"></span>[1](vig20.htm#fr_15) See the Supplementary Note
+<span id="fn_15"></span>[1](vig20.htm#fr_15.md) See the Supplementary Note
 at the end of the book.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII](vig21)
+[Next: Chapter XVIII](vig21.md)

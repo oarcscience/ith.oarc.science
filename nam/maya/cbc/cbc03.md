@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](cbc02)  [Next](cbc04) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](cbc02)  [Next](cbc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,17 +11,17 @@ American](../../index)  [Maya](../index)  [Index](index) 
 PLATE 1
 
 <span id="img_pl1a"></span> [![](tn/generic.jpg)  
-Click to view](img/pl1a.jpg)  
+Click to view](img/pl1a.jpg.md)  
 
 a
 
 <span id="img_pl1b"></span> [![](tn/generic.jpg)  
-Click to view](img/pl1b.jpg)  
+Click to view](img/pl1b.jpg.md)  
 
 b
 
 <span id="img_pl1c"></span> [![](tn/generic.jpg)  
-Click to view](img/pl1c.jpg)  
+Click to view](img/pl1c.jpg.md)  
 
 c
 
@@ -35,4 +35,4 @@ Sculptured panel of the Temple of the Wall Panels at Chichen Itzá.
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations](cbc04)
+[Next: List of Illustrations](cbc04.md)

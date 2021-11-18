@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc02)  [Next](osc04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc02)  [Next](osc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -311,4 +311,4 @@ the race.
 
 ------------------------------------------------------------------------
 
-[Next: (1) Candlemas Day](osc04)
+[Next: (1) Candlemas Day](osc04.md)

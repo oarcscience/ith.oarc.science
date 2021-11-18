@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp29)  [Next](hmvp31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp29)  [Next](hmvp31.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ followers persecuted, the temple was
 
 <span id="img_24900"></span> <span align="CENTER">
 [![JAGANNĀTH.](tn/24900.jpg)  
-Click to enlarge](img/24900.jpg)  
+Click to enlarge](img/24900.jpg.md)  
 JAGANNĀTH.  
 </span>
 
@@ -51,7 +51,7 @@ temple, or as it is being bathed, or drawn in its ponderous car, that is
 so eagerly desired as a means by which sin in the worshipper is
 destroyed.
 
-Professor Goldstücker <span id="fr_227"></span>[\*](#fn_227) gives the
+Professor Goldstücker <span id="fr_227"></span>[\*](#fn_227.md) gives the
 following legend from the Ain-i-Akbari, in which some of the ordinary
 notions of the people respecting Jagannāth are described. A king
 desirous of founding a city sent a learned Brāhman to select a proper
@@ -71,14 +71,14 @@ his dream; and, when he had set up the image received from the sea,
 called it Jagannāth, the Lord of the World, and it became the object of
 worship of all ranks of people.
 
-Ward <span id="fr_228"></span>[†](#fn_228) gives a somewhat fuller
+Ward <span id="fr_228"></span>[†](#fn_228.md) gives a somewhat fuller
 account. When Krishna was accidentally shot by the hunter Jara, his
 
 <span id="page_251">p. 251</span>
 
 bones were left to rot under the tree where he died, until some pious
 person collected and placed them in a box. <span
-id="fr_229"></span>[\*](#fn_229) There they remained, until Indradhumna,
+id="fr_229"></span>[\*](#fn_229.md) There they remained, until Indradhumna,
 a king who was earnestly striving to propitiate Vishnu, was directed to
 form an image, and place in it these bones, with the assurance that he
 would afterwards obtain a rich reward for his religious deeds.
@@ -158,12 +158,12 @@ him.
 
 ### Footnotes
 
-<span id="fn_227"></span>[250:\*](hmvp30.htm#fr_227) Chambers's
+<span id="fn_227"></span>[250:\*](hmvp30.htm#fr_227.md) Chambers's
 Cyclopædia, *s.v.*
 
-<span id="fn_228"></span>[250:†](hmvp30.htm#fr_228) Vol. ii. 163.
+<span id="fn_228"></span>[250:†](hmvp30.htm#fr_228.md) Vol. ii. 163.
 
-<span id="fn_229"></span>[251:\*](hmvp30.htm#fr_229) What appears far
+<span id="fn_229"></span>[251:\*](hmvp30.htm#fr_229.md) What appears far
 more likely is that some valued relics of Buddha were placed in the
 image, but as it was dangerous at that time to avow any connection with
 him and his worship, these relics were said to be the bones of Krishna.
@@ -175,4 +175,4 @@ that though professedly Hindu it is really a Buddhist shrine.
 
 ------------------------------------------------------------------------
 
-[Next: Chaitanya](hmvp31)
+[Next: Chaitanya](hmvp31.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal084)  [Next](njal086) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal084)  [Next](njal086.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Drontheim.
 
 ------------------------------------------------------------------------
 
-[Next: 86. Hrapp's Voyage From Iceland](njal086)
+[Next: 86. Hrapp's Voyage From Iceland](njal086.md)

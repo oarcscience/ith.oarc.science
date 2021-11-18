@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah82)  [Next](oah84) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah82)  [Next](oah84.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ Lords of heaven.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](oah84)
+[Next: Chapter VII](oah84.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo65)  [Next](sdo67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo65)  [Next](sdo67.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ why the direction of the North Wind is called Waziyata.
 
 ------------------------------------------------------------------------
 
-[Next: How the West Wind Became the Companion of the Winged God](sdo67)
+[Next: How the West Wind Became the Companion of the Winged God](sdo67.md)

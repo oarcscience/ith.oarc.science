@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](ecc)  [Next](isa) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](ecc)  [Next](isa.md) 
 
 ------------------------------------------------------------------------
 
@@ -424,4 +424,4 @@ or a young stag on the mountains of spices!
 
 ------------------------------------------------------------------------
 
-[Next: Isaiah](isa)
+[Next: Isaiah](isa.md)

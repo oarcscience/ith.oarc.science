@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku11)  [Next](tku13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku11)  [Next](tku13.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ of crystal."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Further Concerning the Skull of Macroprosopus](tku13)
+[Next: Chapter V: Further Concerning the Skull of Macroprosopus](tku13.md)

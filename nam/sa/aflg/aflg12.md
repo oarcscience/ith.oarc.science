@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg11) [Next](aflg13)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg11) [Next](aflg13.md)
 
 ------------------------------------------------------------------------
 
@@ -8,21 +8,21 @@ American](../index) [Index](index) [Previous](aflg11) [Next](aflg13)
 ## C<span class="small">HAPTER</span> XII THE SPIRITS OF THE WATER
 
    <span class="small">Names and general appearance: Anthropomorphic
-(*[177](#pp_177)*); partly human, partly animal (*[178](#pp_178)*);
-Zoomorphic, as porpoise, manati, macaw (*[179](#pp_179)*), snake
-(*[180](#pp_180)*), big fish, Omar (*[181](#pp_181)-182*); derived from
-men or animals (*[183](#pp_183)*); kindly disposed on the whole—they
-gave man his water-jug and potato (*[184](#pp_184)*), the rattle and
-tobacco (*[185](#pp_185)*); of an amorous disposition
-(*[186](#pp_186)-187*), with strong likings for menstruating women
-(*[188](#pp_188)-189*); share, with Bush Spirits, the responsibility for
-sickness, accident, and death (*[190](#pp_190)*); responsible also for
-the Tidal Wave (*[191](#pp_191)*); they object to mention of their names
-and antecedents (*[192](#pp_192)*); to a pot-spoon being washed outside
-the traveling boat (*[193](#pp_193)*); and woe betide the yoyager if he
-dares to utter certain forbidden words (*[194](#pp_194)*).</span>
+(*[177](#pp_177)*); partly human, partly animal (*[178](#pp_178)*.md);
+Zoomorphic, as porpoise, manati, macaw (*[179](#pp_179)*.md), snake
+(*[180](#pp_180)*), big fish, Omar (*[181](#pp_181)-182*.md); derived from
+men or animals (*[183](#pp_183)*.md); kindly disposed on the whole—they
+gave man his water-jug and potato (*[184](#pp_184)*.md), the rattle and
+tobacco (*[185](#pp_185)*.md); of an amorous disposition
+(*[186](#pp_186)-187*.md), with strong likings for menstruating women
+(*[188](#pp_188)-189*.md); share, with Bush Spirits, the responsibility for
+sickness, accident, and death (*[190](#pp_190)*.md); responsible also for
+the Tidal Wave (*[191](#pp_191)*.md); they object to mention of their names
+and antecedents (*[192](#pp_192)*.md); to a pot-spoon being washed outside
+the traveling boat (*[193](#pp_193)*.md); and woe betide the yoyager if he
+dares to utter certain forbidden words (*[194](#pp_194)*.md).</span>
 
-   <span id="pp_177"></span>**177.**[\*](#pp_177) The Water Spirits,
+   <span id="pp_177"></span>**177.**[\*](#pp_177.md) The Water Spirits,
 whether anthropomorphic or zoomorphic, are known as Ori-yu or Orehu
 (Arawak), Ho-aránni (Warrau), Oko-yumo (Carib), etc. The Warraus,
 especially a swamp-inhabiting tribe, seem to have made several
@@ -41,12 +41,12 @@ friendship with the Land People. There are two reasons for the
 termination of this ideal state of existence. The Warraus used to
 exchange wives with them in those days, that is, a wife would be taken
 as required alternately from the one and the other tribe (see [Sect.
-*190*](aflg12.htm#pp_190)). The Warrau supply ran short, however, and
+*190*](aflg12.htm#pp_190).md). The Warrau supply ran short, however, and
 the Water Spirits accordingly became vexed and angered with them. The
 second alleged reason is that the Warraus insisted on the isolation of
 the women at their menstrual periods, a practice to which the Water
 Spirits were unaccustomed and strongly objected ([Sect.
-*190*](aflg12.htm#pp_190)).
+*190*](aflg12.htm#pp_190).md).
 
    Though some of the Water Spirits have been repeatedly described by
 certain authors as the Water-mamma, they have nothing whatever to do
@@ -78,7 +78,7 @@ can be seen bathing on the banks of a stream, or combing her long hair
 with a silver comb, which she occasionally forgets and leaves behind in
 her hurry to return to the water when suddenly surprised.
 
-   <span id="pp_178"></span>**178.**[\*](#pp_178) Oriyu sometimes
+   <span id="pp_178"></span>**178.**[\*](#pp_178.md) Oriyu sometimes
 splashes and tramples the water like a horse where horses are known not
 to exist; Brett even goes so far as to tell us that "she sometimes
 presents herself above the water with the head of a horse or other
@@ -90,8 +90,8 @@ Thurn as the Huroni (cf. the Warrau term Ho-aránni, Water Spirits in
 general), "a tribe of Indians living beyond the Pakaraima \[mountains\],
 who are men by night, but fish by day," etc. (IT, 384), will doubtless
 remind the reader strongly of the Huri Fish story ([Sect.
-*152*](aflg09.htm#pp_152)). People may actually be transformed into fish
-([Sect. *115*](aflg08.htm#pp_115)). The Piapocos of the lower Guaviar, a
+*152*](aflg09.htm#pp_152).md). People may actually be transformed into fish
+([Sect. *115*](aflg08.htm#pp_115).md). The Piapocos of the lower Guaviar, a
 branch of the Orinoco, have a belief in Evil Spirits who live by day at
 the bottom of the water, but emerge at night, when they walk about,
 screaming like little children: they call these Spirits Mami-naïmis, and
@@ -118,9 +118,9 @@ stated that it was currently reported among the surrounding inhabitants
 that now that a white man had come among them, their country would sink
 under water (Bro, 283).
 
-   <span id="pp_179"></span>**179.**[\*](#pp_179) When zoomorphic the
+   <span id="pp_179"></span>**179.**[\*](#pp_179.md) When zoomorphic the
 Water Spirit may take on the form of a porpoise, manati ([Sect.
-*183*](aflg12.htm#pp_183)), macaw, snake, or fish. Thus, the Pomeroon
+*183*](aflg12.htm#pp_183).md), macaw, snake, or fish. Thus, the Pomeroon
 Arawaks believe in the kassi-kuyuha, a white or a black variety of
 porpoise: the latter will hunt and injure a person who happens to fall
 into the water, whereas the white species will save one from drowning
@@ -134,14 +134,14 @@ friend of mine told me that it is the macaw who tells the Ho-aránni to
 come and upset the canoe, as well as to destroy the occupants: the bird
 itself may also assist directly in the work of destruction.
 
-   <span id="pp_180"></span>**180.**[\*](#pp_180) The Caribs talk of
+   <span id="pp_180"></span>**180.**[\*](#pp_180.md) The Caribs talk of
 their Okoyumo being like a camudi snake, but much bigger; it lives in
 underground water: in habitat, it corresponds closely to the variety of
 Water Spirit which the Warraus call Ahúba. In cases of snake-bite among
 certain tribes, in addition to any other treatment the bitten person
 must neither drink water, bathe, nor come into the neighborhood of
 water, during the period immediately following the accident \[cf. [Sect.
-*317*](aflg17.htm#pp_317)\]: the same prohibition, for a similar period,
+*317*](aflg17.htm#pp_317.md)\]: the same prohibition, for a similar period,
 is incumbent on his children, his parents, and his brothers and sisters
 so long as they reside in the same settlement. His wife alone is free
 from the taboo (ScR, <span class="small">II</span>, 130). The freedom of
@@ -151,7 +151,7 @@ snake-poison.
 
 <span id="page_244">p. 244</span>
 
-   <span id="pp_181"></span>**181.**[\*](#pp_181) Of Water Spirits in
+   <span id="pp_181"></span>**181.**[\*](#pp_181.md) Of Water Spirits in
 the form of fish I must note the Omars, of which, so far as the name is
 concerned, the only record I can find is given by im Thurn. These are
 beings—
@@ -176,12 +176,12 @@ weave fabulous embellishment, though there is a suspicion that the word
 is but a play on the word Jonah, the exploits of these extraordinary
 individuals being so closely parallel.
 
-   <span id="pp_182"></span>**182.**[\*](#pp_182) I obtained a somewhat
+   <span id="pp_182"></span>**182.**[\*](#pp_182.md) I obtained a somewhat
 similar story from the Warraus of the Moruca River.
 
  
 
-<span id="story_80"></span>[\*](#story_80)T<span class="small">HE</span>
+<span id="story_80"></span>[\*](#story_80.md)T<span class="small">HE</span>
 P<span class="small">IAI IN THE</span> W<span class="small">ATER</span>
 S<span class="small">PIRIT'S</span> B<span class="small">ELLY</span> (W)
 
@@ -233,15 +233,15 @@ S<span class="small">PIRIT'S</span> B<span class="small">ELLY</span> (W)
 > present Warraus, our ancestors killed most of them, and this is the
 > reason they are so scarce now.
 
-   <span id="pp_183"></span>**183.**[\*](#pp_183) Some of these Water
+   <span id="pp_183"></span>**183.**[\*](#pp_183.md) Some of these Water
 Spirits have been derived from human mortals as well as from animals.
 
    <span class="small">(In connection with the following story see Sect.
-*[162D](aflg09.htm#pp_162D)*.)</span>
+*[162D](aflg09.htm#pp_162D)*..md)</span>
 
  
 
-<span id="story_81"></span>[\*](#story_81)S<span
+<span id="story_81"></span>[\*](#story_81.md)S<span
 class="small">ISTERS</span> P<span class="small">ORPOISE AND</span>
 S<span class="small">EA-COW</span> (*Manatus*) (? A)
 
@@ -277,14 +277,14 @@ the bubble": this is believed to be the spot where some gigantic
 Salapentas (lizards) after being vanquished by the Indians threw
 themselves into the river and became Oriyus.
 
-   <span id="pp_184"></span>**184.**[\*](#pp_184) Certain of the Water
+   <span id="pp_184"></span>**184.**[\*](#pp_184.md) Certain of the Water
 Spirits are of a kindly nature, in the sense of having conferred gifts
-and blessings on mankind ([Sect. *185*](aflg12.htm#pp_185)), in saving
-men from drowning ([Sect. *179*](aflg12.htm#pp_179)), and in other ways.
+and blessings on mankind ([Sect. *185*](aflg12.htm#pp_185).md), in saving
+men from drowning ([Sect. *179*](aflg12.htm#pp_179).md), and in other ways.
 
  
 
-<span id="story_82"></span>[\*](#story_82)T<span class="small">HE</span>
+<span id="story_82"></span>[\*](#story_82.md)T<span class="small">HE</span>
 F<span class="small">lSHERMAN'S</span> W<span class="small">ATER-JUG
 AND</span> P<span class="small">OTATO</span> (A)
 
@@ -328,10 +328,10 @@ AND</span> P<span class="small">OTATO</span> (A)
 > low-low as the fisherman's water-jug, and of the imiri as his
 > potatoes.
 
-   <span id="pp_185"></span>**185.**[\*](#pp_185) Brett mentions certain
+   <span id="pp_185"></span>**185.**[\*](#pp_185.md) Brett mentions certain
 other good qualities of the Oriyus. Out on one of the islands all the
 men, women, and children were struck down with sickness. Arawánili \[cf.
-Hariwali, [Sect. *3*](aflg02.htm#pp_3)\], the island chieftain, begged
+Hariwali, [Sect. *3*](aflg02.htm#pp_3.md)\], the island chieftain, begged
 Oriyu for some charm to withstand the Evil Spirit's power which had made
 his people sick. She gave him the branch of an Ida tree, which she told
 him to go and plant, and to bring back to her the first fruit that
@@ -342,29 +342,29 @@ and dived into the sea whence she brought the shining white stones to
 put into it; with these she thereupon showed him how to invoke the
 Spirits. Thus was the first *maraka* (rattle) formed. Besides this, she
 taught Arawánili the use of tobacco, till then unknown to man ([BrB,
-18](../lmbg/lmbg1b.htm#page_18)).
+18](../lmbg/lmbg1b.htm#page_18).md).
 
-   <span id="pp_186"></span>**186.**[\*](#pp_186) Like the Spirits of
+   <span id="pp_186"></span>**186.**[\*](#pp_186.md) Like the Spirits of
 the Forest, the Oriyus have strong sexual predilections. Every night, in
 their anthropomorphic form, both males and females may come after
 Indians of the opposite sex respectively, and no disastrous result
 follows the intimacy.<span
-id="page_246_fr_1"></span>[1](#page_246_note_1) But the Indians who
+id="page_246_fr_1"></span>[1](#page_246_note_1.md) But the Indians who
 happen to have such dealings must keep the fact absolutely secret: if
 divulged, either they will not live long, or they <span id="page_247">p.
 247</span> will never be visited again by their Spirit friends.
 Furthermore, those Indians who foster such friendships must on no
 account have similar dealing with their own people.<span
-id="page_247_fr_1"></span>[1](#page_247_note_1) Perhaps it is as a
+id="page_247_fr_1"></span>[1](#page_247_note_1.md) Perhaps it is as a
 result of these sexual weaknesses of the Spirits that some of the
 Arawaks believe in the possibility of an Oriyu introducing into the womb
 a full-term fetus, provided the woman really wants to be pregnant
-([Sect. *284A*](aflg16.htm#pp_284A).)—a real water-baby.
+([Sect. *284A*](aflg16.htm#pp_284A)..md)—a real water-baby.
 
  
 
 <span id="story_83"></span><span
-id="pp_187"></span>**187.**[\*](#pp_187) H<span class="small">OW
+id="pp_187"></span>**187.**[\*](#pp_187.md) H<span class="small">OW
 THE</span> W<span class="small">ATER</span> S<span
 class="small">PIRIT</span> G<span class="small">OT THE</span> M<span
 class="small">AN'S</span> W<span class="small">IFE FROM</span> H<span
@@ -423,7 +423,7 @@ class="small">IM</span> (W)
  
 
 <span id="story_84"></span><span
-id="pp_187A"></span>**187A.**[\*](#pp_187A) H<span class="small">OW
+id="pp_187A"></span>**187A.**[\*](#pp_187A.md) H<span class="small">OW
 THE</span> W<span class="small">ATER</span> W<span
 class="small">OMAN</span> S<span class="small">ECURED A</span> L<span
 class="small">ANDSMAN FOR</span> H<span class="small">USBAND</span> (W)
@@ -433,7 +433,7 @@ class="small">ANDSMAN FOR</span> H<span class="small">USBAND</span> (W)
 > the party heard a noise behind him, and turning around was much
 > surprised to see a young woman there, and still more so when he heard
 > her say: "Brother! I am come.<span
-> id="page_248_fr_1"></span>[1](#page_248_note_1) My father sent me to
+> id="page_248_fr_1"></span>[1](#page_248_note_1.md) My father sent me to
 > you to give me a quake of crabs." Having handed them over to her, she
 > paid him with the loan of her body. Before taking her departure she
 > told him that, while the boat containing him and his friends would be
@@ -452,7 +452,7 @@ class="small">ANDSMAN FOR</span> H<span class="small">USBAND</span> (W)
 > husband asked what had become of him. They told her that he had acted
 > wrongly with a girl, and that they had left him behind. In the
 > meantime the erring spouse was taken by the Ho-aránni girl \[[Sect.
-> *177*](aflg12.htm#pp_177)\] to her people below, and her father told
+> *177*](aflg12.htm#pp_177.md)\] to her people below, and her father told
 > him that he had been sent for because his daughter wanted him. But he
 > added: "You can go home to your own people this very day, and enjoy
 > the feast of crabs that you and your friends have been gathering. I
@@ -474,14 +474,14 @@ class="small">ANDSMAN FOR</span> H<span class="small">USBAND</span> (W)
 > threatened to beat him, they took him back into the water, where the
 > old Ho-aránni father said, "Take my two daughters to wife."
 
-   <span id="pp_188"></span>**188.**[\*](#pp_188) These Water People
+   <span id="pp_188"></span>**188.**[\*](#pp_188.md) These Water People
 have great liking for women at the menstrual period, so much so that, at
 such a time, no Carib, Akawai, Warrau, or Arawak woman will travel by
 boat or even cross water.
 
  
 
-<span id="story_85"></span>[\*](#story_85)T<span class="small">HE</span>
+<span id="story_85"></span>[\*](#story_85.md)T<span class="small">HE</span>
 M<span class="small">OON-SICK</span> G<span class="small">IRL AND
 THE</span> W<span class="small">ATER</span> S<span
 class="small">PIRIT</span> (C)
@@ -504,7 +504,7 @@ class="small">PIRIT</span> (C)
  
 
 <span id="story_86"></span><span
-id="pp_189"></span>**189.**[\*](#pp_189) T<span class="small">HE</span>
+id="pp_189"></span>**189.**[\*](#pp_189.md) T<span class="small">HE</span>
 M<span class="small">OON-SICK</span> G<span class="small">IRL AND
 THE</span> W<span class="small">ATER</span> S<span
 class="small">PIRIT</span> (W)
@@ -555,20 +555,20 @@ class="small">PIRIT</span> (W)
 > Because he ought not to have gone alone; when people start on such
 > expeditions they should always have company.
 
-   <span id="pp_190"></span>**190.**[\*](#pp_190) Like the Bush Spirits,
+   <span id="pp_190"></span>**190.**[\*](#pp_190.md) Like the Bush Spirits,
 the denizens of the deep are in large measure responsible for the
 disease and sickness existent in the world: the Carib medicine-man still
-invokes them ([Sect. *309*](aflg17.htm#pp_309)).
+invokes them ([Sect. *309*](aflg17.htm#pp_309).md).
 
 <span id="page_250">p. 250</span>
 
  
 
-<span id="story_87"></span>[\*](#story_87)H<span class="small">OW</span>
+<span id="story_87"></span>[\*](#story_87.md)H<span class="small">OW</span>
 S<span class="small">ICKNESS AND</span> D<span class="small">EATH</span>
 C<span class="small">AME INTO THE</span> W<span
 class="small">ORLD</span> (W)<span
-id="page_250_fr_1"></span>[1](#page_250_note_1)
+id="page_250_fr_1"></span>[1](#page_250_note_1.md)
 
 >    A man went fishing, and wished for a wife from among the Water
 > People, the Ho-aránnis. Every time he went to the water his heart
@@ -603,7 +603,7 @@ id="page_250_fr_1"></span>[1](#page_250_note_1)
 > up to the surface again, They got into the corial and reached his home
 > once more. She then said to him: "Remember, when I am moon-sick you
 > must not send me away to the *naibo-manoko*,<span
-> id="page_250_fr_2"></span>[2](#page_250_note_2) but you must let me
+> id="page_250_fr_2"></span>[2](#page_250_note_2.md) but you must let me
 > remain in the hut with you. In fact, if you insist on my going there I
 > shall die, and if I die, my father will have a spite against you, and
 > send you sickness and death." Now the Warrau people were strongly
@@ -623,10 +623,10 @@ id="page_250_fr_1"></span>[1](#page_250_note_1)
 > you? You see how you have killed her. From now on sickness, accident,
 > and death will come among your people from mine, and what is more, if
 > any of your women-folk travel on water while they are moon-sick
-> \[[Sects. *188*](aflg12.htm#pp_188), [*189*](aflg12.htm#pp_189)\], my
+> \[[Sects. *188*](aflg12.htm#pp_188), [*189*](aflg12.htm#pp_189.md)\], my
 > people will 'draw their shadows'." \[[Sect.
-> *253*](aflg15.htm#pp_253).\]<span
-> id="page_250_fr_3"></span>[3](#page_250_note_3) The man was much
+> *253*](aflg15.htm#pp_253.md).\]<span
+> id="page_250_fr_3"></span>[3](#page_250_note_3.md) The man was much
 > grieved to <span id="page_251">p. 251</span> hear all this, and
 > returned to his own home by the way that he had come. By and by he
 > arranged with his friends and relatives to go to sea, never thinking
@@ -642,7 +642,7 @@ id="page_250_fr_1"></span>[1](#page_250_note_1)
 > accidents or death; they had only moon-sickness. It was in this manner
 > that the Water People punished the Warraus.
 
-   <span id="pp_191"></span>**191.**[\*](#pp_191) Not only are many of
+   <span id="pp_191"></span>**191.**[\*](#pp_191.md) Not only are many of
 the troubles afflicting mankind, as just recorded in the legend,
 ascribable to the machinations of Oriyu, but he (or she) is held
 responsible for more than one natural phenomenon. The tidal wave, or
@@ -660,12 +660,12 @@ of the Potaro, is so called from a part of the human body, and is
 believed to be the home of Oriyu: the turbulence of the water as it runs
 into the Potaro is caused by water issuing from the body of that Spirit.
 
-   <span id="pp_192"></span>**192.**[\*](#pp_192) The Water Spirits must
+   <span id="pp_192"></span>**192.**[\*](#pp_192.md) The Water Spirits must
 not be talked about, nor may their names be mentioned.
 
  
 
-<span id="story_88"></span>[\*](#story_88)A<span class="small">MANNA AND
+<span id="story_88"></span>[\*](#story_88.md)A<span class="small">MANNA AND
 HER</span> T<span class="small">ALKATIVE</span> H<span
 class="small">USBAND</span> (C)
 
@@ -714,14 +714,14 @@ class="small">USBAND</span> (C)
 > friends and relatives set on him and killed him for having mentioned
 > her name and telling people who she was.
 
-   <span id="pp_193"></span>**193.**[\*](#pp_193) Besides their dislike
+   <span id="pp_193"></span>**193.**[\*](#pp_193.md) Besides their dislike
 to hearing mention of their names and antecedents, as well as their
 passion for menstruating women, it is interesting to note the strong
 objection of the Water Spirits to a pot-spoon being washed outside of
 the traveling boat in either river or sea ([Sects.
-*214*](aflg13.htm#pp_214), [*219*](aflg13.htm#pp_219)).
+*214*](aflg13.htm#pp_214), [*219*](aflg13.htm#pp_219).md).
 
-   <span id="pp_194"></span>**194.**[\*](#pp_194) The surest way of
+   <span id="pp_194"></span>**194.**[\*](#pp_194.md) The surest way of
 offending the Water Spirits, however, and thereby getting caught in a
 storm, and being capsized, wrecked, or drowned by way of punishment, is
 to utter certain words strictry forbidden under the circumstances. Thus,
@@ -759,7 +759,7 @@ but it can be noticed by shouting *Lyca!* "It is there!" (BBR, 245).
 
 ------------------------------------------------------------------------
 
-[Next](aflg13)
+[Next](aflg13.md)
 
 ------------------------------------------------------------------------
 
@@ -767,14 +767,14 @@ but it can be noticed by shouting *Lyca!* "It is there!" (BBR, 245).
 
 <span id="footnotes_page_246">p. 246</span>
 
-<span id="page_246_note_1"></span>[1](#page_246_fr_1) Among some of the
+<span id="page_246_note_1"></span>[1](#page_246_fr_1.md) Among some of the
 old Warraus the product of an abortion is described as the Water
 Spirit's child, being 2 or 3 inches long, with the head like that of a
 horse and the feet like those of a lizard.
 
 <span id="footnotes_page_247">p. 247</span>
 
-<span id="page_247_note_1"></span>[1](#page_247_fr_1) This explains a
+<span id="page_247_note_1"></span>[1](#page_247_fr_1.md) This explains a
 curious phase of Indian character: Celibacy in either sex is regarded as
 something uncanny or unnatural. It is on this account that two very
 respected residents in my district, leading presumably irreproachable
@@ -783,15 +783,15 @@ intimate relations with the Oriyu.
 
 <span id="footnotes_page_248">p. 248</span>
 
-<span id="page_248_note_1"></span>[1](#page_248_fr_1) For this mode of
-address, see [Sect. *116*](aflg08.htm#pp_116).
+<span id="page_248_note_1"></span>[1](#page_248_fr_1.md) For this mode of
+address, see [Sect. *116*](aflg08.htm#pp_116.md).
 
 <span id="footnotes_page_250">p. 250</span>
 
-<span id="page_250_note_1"></span>[1](#page_250_fr_1) See [Sect.
-*108*](aflg08.htm#pp_108).
+<span id="page_250_note_1"></span>[1](#page_250_fr_1.md) See [Sect.
+*108*](aflg08.htm#pp_108.md).
 
-<span id="page_250_note_2"></span>[2](#page_250_fr_2) The Naibo-manoko
+<span id="page_250_note_2"></span>[2](#page_250_fr_2.md) The Naibo-manoko
 is the little out-house for the special use of women at their periods,
 and sometimes for the use of a female during confinement. It can always
 be distinguished by the tassels of "skinned" Mauritia leaves (those from
@@ -800,7 +800,7 @@ the posts and other parts. This building is of course taboo to the
 males, though I am afraid that advantage is often taken by bachelor
 friends of this isolation of the females from their husbands.—W. E. R.
 
-<span id="page_250_note_3"></span>[3](#page_250_fr_3) What is intended
+<span id="page_250_note_3"></span>[3](#page_250_fr_3.md) What is intended
 is, that just as a person draws the entrails out of a fowl, so will the
 Water People, or Ho-aránnis, draw the Shadow, or Life-essence, out of a
 person, that is, kill him.

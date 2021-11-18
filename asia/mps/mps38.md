@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps37) 
-[Next](mps39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps37.md) 
+[Next](mps39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -532,7 +532,7 @@ to gallop in pursuit.'
 entered the stable, I loosed the best steed, I saddled it, set her upon
 it; cheerful was she, not sighing. She was like the sun, the best of
 heaven's lights, when it mounts the Lion <span
-id="fr_32"></span>[1](#fn_31)My labour was lost; I could not harvest
+id="fr_32"></span>[1](#fn_31.md)My labour was lost; I could not harvest
 what I had sown.
 
 <span class="margnote"><span id="1180">1180</span></span>"The day drew
@@ -548,7 +548,7 @@ king and all his familiars mourn. Behold the palace folk; they go in
 
 <span id="page_192">p. 192</span>
 
-in raiment) dyed violet colour <span id="fr_33"></span>[1](#fn_32). The
+in raiment) dyed violet colour <span id="fr_33"></span>[1](#fn_32.md). The
 sun went away from us; since then we lack light.
 
 <span class="margnote"><span id="1182">1182</span></span>"Now I shall
@@ -558,7 +558,7 @@ my buck; Timidity slurs a man, and wantonness a woman.
 
 <span class="margnote"><span id="1183">1183</span></span>"I am not
 content with my husband, for he is lean and ill-favoured; this man, the
-[Chachnagir](errata.htm#0), was a gentleman high at court; we loved each
+[Chachnagir](errata.htm#0.md), was a gentleman high at court; we loved each
 other, though I shall wear no mourning weeds for him; would that one
 might give me a cup of his blood to sip!
 
@@ -609,13 +609,13 @@ fields was brought to nought."
 
 ### Footnotes
 
-<span id="fn_31"></span>[191:1](mps38.htm#fr_32) i.e., when it enters
+<span id="fn_31"></span>[191:1](mps38.htm#fr_32.md) i.e., when it enters
 Leo.
 
-<span id="fn_32"></span>[192:1](mps38.htm#fr_33) For mourning,
-[1479](mps49.htm#1479).
+<span id="fn_32"></span>[192:1](mps38.htm#fr_33.md) For mourning,
+[1479](mps49.htm#1479.md).
 
 ------------------------------------------------------------------------
 
 [Next: XXXVI. The Story of the Capture of Nestan-Daredjan by the Kadjis,
-Told by P’hatman to Avt’handil](mps39)
+Told by P’hatman to Avt’handil](mps39.md)

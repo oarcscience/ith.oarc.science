@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt02)  [Next](ebt04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt02)  [Next](ebt04.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ help you.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](ebt04)
+[Next: Introduction](ebt04.md)

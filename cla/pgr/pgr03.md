@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pgr02)  [Next](pgr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pgr02)  [Next](pgr04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 The First Two Chapters of *Prolegomena to the Study of Greek Religion*,
 by Jane Ellen Harrison, \[1922\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ part of the general splendid unreality of the heroic saga, but sober
 historians of the fifth century B.C. express the same spirit. Thucydides
 is assuredly by nature no reveller, yet religion is to him in the main
 'a rest from toil.' He makes Pericles say <span
-id="fr_0"></span>[1](#fn_0): 'Moreover we have
+id="fr_0"></span>[1](#fn_0.md): 'Moreover we have
 
 <span id="page_2">p. 2</span>
 
@@ -55,7 +55,7 @@ celebration of games and sacrifices throughout the year.'
 
 Much the same external, quasi-political, and always cheerful attitude
 towards religion is taken by the 'Old Oligarch <span
-id="fr_1"></span>[1](#fn_1): He is of course thoroughly orthodox and
+id="fr_1"></span>[1](#fn_1.md): He is of course thoroughly orthodox and
 even pious, yet to him the main gist of religion appears to be a
 decorous social enjoyment. In easy aristocratic fashion he rejoices that
 religious ceremonials exist to provide for the less well-to-do citizens
@@ -66,7 +66,7 @@ have sanctuaries and a beautiful and ample city, has discovered by what
 means he may enjoy these privileges. The whole state accordingly at the
 common cost sacrifices many victims, while it is the People who feast on
 them and divide them among themselves by lot'; and again <span
-id="fr_2"></span>[2](#fn_2), as part of the splendour of Athens, he
+id="fr_2"></span>[2](#fn_2.md), as part of the splendour of Athens, he
 notes that 'she celebrates twice as many religious holidays as any other
 city.' The very language used by this typical Athenian gentleman speaks
 for itself. Burnt-sacrifice (θυσία), feasting, agonistic games, stately
@@ -81,11 +81,11 @@ him himself sad and dissatisfied, but that adequately embodied popular
 sentiment and is of importance for our enquiry. The end of the
 Euthyphron is the most disappointing thing in Plato; Socrates extracts
 from Euthyphron what he thinks religion is; what Socrates thought he
-cannot or will not tell <span id="fr_3"></span>[3](#fn_3).
+cannot or will not tell <span id="fr_3"></span>[3](#fn_3.md).
 
 Socrates in his enquiry uses not one abstract term for religion --the
 Greeks have in fact no one word that covers the whole field--he uses
-two <span id="fr_4"></span>[4](#fn_4), piety (τὸ εὐσεβές) and holiness
+two <span id="fr_4"></span>[4](#fn_4), piety (τὸ εὐσεβές.md) and holiness
 (τὸ ὅσιον).
 
 <span id="page_3">p. 3</span>
@@ -136,7 +136,7 @@ beatitude.
 seems to him in his ignorance a reasonable service to gods conceived of
 as human and rational. There is no trace of scepticism; the gods
 certainly exist, otherwise as Sextus Empiricus <span
-id="fr_5"></span>[1](#fn_5) quaintly argues 'you could not serve them':
+id="fr_5"></span>[1](#fn_5.md) quaintly argues 'you could not serve them':
 and they have human natures. 'You do not serve Hippocentauri, because
 Hippocentauri are non-existent.'
 
@@ -156,9 +156,9 @@ and this to some extent bears out Mr Ruskin's assertion. By the time of
 Theophrastos ὁ δεισιδαίμων is frankly in our sense the superstitious
 man,' and superstition Theophrastos defines as not just and proper
 reverence but simply cowardice in regard to the supernatural.' Professor
-Jebb <span id="fr_6"></span>[2](#fn_6) has pointed out that already in
+Jebb <span id="fr_6"></span>[2](#fn_6.md) has pointed out that already in
 Aristotle the word δεισιδαίμων has about it a suspicion of its weaker
-side. An absolute ruler, Aristotle <span id="fr_7"></span>[3](#fn_7)
+side. An absolute ruler, Aristotle <span id="fr_7"></span>[3](#fn_7.md)
 says, will be the more powerful if his subjects believe that he fears
 the spiritual beings' (ἐὰν δεισιδαίμονα νομίζωσιν εἶναι) but he adds
 significantly 'he must show himself such without fatuity' (ἄνευ
@@ -169,7 +169,7 @@ supernatural.' He saw in this fear, this superstition, the great element
 of danger and weakness in the religion that he loved so well. His
 intellect steeped in Platonism revolted from its unmeaning folly, and
 his gentle gracious temperament shrank from its cruelty. He sees <span
-id="fr_8"></span>[4](#fn_8) in superstition not only an error, a wrong
+id="fr_8"></span>[4](#fn_8.md) in superstition not only an error, a wrong
 judgment of the mind, but that worse thing a 'wrong judgment inflamed by
 passion.' Atheism is a cold error, a mere dislocation of the mind:
 superstition is a 'dislocation complicated, inflamed,
@@ -191,13 +191,13 @@ out of the difficulty, a way he explains in his treatise on 'How the
 poets ought to be taken.' 'If Ares be evil spoken of we must imagine it
 to be said of 'War, if Hephaistos of Fire, if Zeus of Fate, but if
 anything honourable it is said of the real gods <span
-id="fr_9"></span>[1](#fn_9).' Plutarch was too gentle to say sharply and
+id="fr_9"></span>[1](#fn_9.md).' Plutarch was too gentle to say sharply and
 frankly:
 
 <div style="margin-left: 32px">
 
 <span class="small">'If gods do aught that's shameful, they are no
-gods <span id="fr_10"></span>[2](#fn_10),'</span>
+gods <span id="fr_10"></span>[2](#fn_10.md),'</span>
 
 </div>
 
@@ -205,7 +205,7 @@ but he shifted the element of evil, of fear and hate, from his
 theological ideals to the natural and purely human phenomena from which
 they had emerged. He wants to treat the gods and regard them as he
 himself would be treated and regarded, as kindly civilized men. 'What!'
-he says <span id="fr_11"></span>[3](#fn_11), 'is he who thinks there are
+he says <span id="fr_11"></span>[3](#fn_11.md), 'is he who thinks there are
 no gods an impious man, while he who describes them as the superstitious
 man does, does he not hold views much more impious? Well anyhow I for my
 part would rather people would say of me there never was or is any such
@@ -219,7 +219,7 @@ turn his beast loose into your crops and spoil your harvest.'
 But though he is concerned for the reputation of the gods, his chief
 care and pity are for man. Atheism shuts out a man, he says, from the
 pleasant things of life. 'These most pleasant things,' he adds <span
-id="fr_12"></span>[4](#fn_12) in characteristic fashion, 'are festivals
+id="fr_12"></span>[4](#fn_12.md) in characteristic fashion, 'are festivals
 and feastings in
 
 <span id="page_6">p. 6</span>
@@ -245,7 +245,7 @@ become best when we approach the gods, for those who fear spirits when
 they approach the shrines and dwellings of the gods make as though they
 came to the dens of bears and the holes of snakes and the lairs of
 sea-monsters."' In his protest against the religion of fear Plutarch
-rises to a real eloquence <span id="fr_13"></span>[1](#fn_13). 'He that
+rises to a real eloquence <span id="fr_13"></span>[1](#fn_13.md). 'He that
 dreads the gods dreads all things, earth and sea, air and heaven,
 darkness and light, a voice, a silence, a dream. Slaves forget their
 masters in sleep, sleep looses their fetters, salves their gangrened
@@ -290,7 +290,7 @@ its own tale, but the thing itself was born long before it was baptized.
 Arguments drawn from the use of the word δεισιδαιμονία by particular
 authors are of necessity vague and somewhat unsatisfactory; the use of
 the word depends much on the attitude of mind of the writer.
-Xenophon <span id="fr_14"></span>[1](#fn_14) for example uses
+Xenophon <span id="fr_14"></span>[1](#fn_14.md) for example uses
 δεισιδαιμονία in a good sense, as of a bracing confidence rather than a
 degrading fear. 'The more men are god-fearing, spirit-fearing
 (δεισιδαίμονες), the less do they fear man.' It would be impossible to
@@ -315,7 +315,7 @@ of Greek religion.
 
 First it must clearly be established that the Greeks themselves
 recognised two diverse elements in the ritual of their state. The
-evidence of the orator Isocrates <span id="fr_15"></span>[1](#fn_15) on
+evidence of the orator Isocrates <span id="fr_15"></span>[1](#fn_15.md) on
 this point is indefeasible. He is extolling the mildness and humanity of
 the Greeks. In this respect they are, he points out, 'like the better
 sort of gods.' 'Some of the gods are mild and humane, others harsh and
@@ -349,7 +349,7 @@ word has connotations of magic and degraded superstition I prefer to use
 the somewhat awkward term 'ceremonies of riddance.'
 
 Plato more than once refers to these ceremonies of riddance. In the
-*Laws* <span id="fr_16"></span>[2](#fn_16) he bids the citizen, if some
+*Laws* <span id="fr_16"></span>[2](#fn_16.md) he bids the citizen, if some
 prompting intolerably
 
 <span id="page_9">p. 9</span>
@@ -361,13 +361,13 @@ back.' The reference to a peculiar set of rites presided over by special
 gods is clear. These gods were variously called ἀποτρόπαιοι and
 ἀποπομπαῖοι, the gods of Aversion and of Sending-away.
 
-Harpocration <span id="fr_17"></span>[1](#fn_17) tells us that
+Harpocration <span id="fr_17"></span>[1](#fn_17.md) tells us that
 Apollodorus devoted the sixth book of his treatise *Concerning the gods*
 to the discussion of the θεοὶ ἀποπομπαῖοι, the gods of Sending-away. The
 loss of this treatise is a grave one for the history of ritual, but
 scattered notices enable us to see in broad outline what the character
 of these gods of Aversion was. Pausanias <span
-id="fr_18"></span>[2](#fn_18) at Titane saw an altar, and in front of it
+id="fr_18"></span>[2](#fn_18.md) at Titane saw an altar, and in front of it
 a barrow erected to the hero Epopeus, and 'near to the tomb,' he says,
 'are the gods of Aversion, beside whom are performed the ceremonies
 which the Greeks observe for the averting of evils.' Here it is at least
@@ -378,7 +378,7 @@ Aversion by the time of Pausanias, and probably long before, were
 regarded as gods who presided over the aversion of evil; there is little
 doubt that to begin with these gods were the very evil men sought to
 avert. The domain of the spirits of the underworld was confined to
-things evil. Babrius <span id="fr_19"></span>[3](#fn_19) tells us that
+things evil. Babrius <span id="fr_19"></span>[3](#fn_19.md) tells us that
 in the courtyard of a pious man there was a precinct of a hero, and the
 pious man was wont to sacrifice and pour libations to the hero, and pray
 to him for a return for his hospitality. But the ghost of the dead hero
@@ -405,7 +405,7 @@ than 'tendance.'
 <span id="page_10">p. 10</span>
 
 A like distinction is drawn by Hippocrates <span
-id="fr_20"></span>[1](#fn_20) between the attributes, spheres, and
+id="fr_20"></span>[1](#fn_20.md) between the attributes, spheres, and
 ritual of Olympian and chthonic divinities. He says: we ought to pray to
 the gods, for good things to Helios, to Zeus Ouranios, to Zeus Ktesias,
 to Athene Ktesia, to Hermes, to Apollo; but in the case of things that
@@ -415,7 +415,7 @@ things may be averted.'
 It is clear then that Greek religion contained two diverse, even
 opposite, factors: on the one hand the element of *service* (θεραπεία),
 on the other the element of *aversion* <span
-id="fr_21"></span>[2](#fn_21) (ἀποτροπή). The rites of service were
+id="fr_21"></span>[2](#fn_21) (ἀποτροπή.md). The rites of service were
 connected by ancient tradition with the Olympians, or as they are
 sometimes called the Ouranians: the rites of *aversion* with ghosts,
 heroes, underworld divinities. The rites of service were of a cheerful
@@ -455,7 +455,7 @@ contests, but rites of a gloomy underworld character, connected mainly
 with purification and the worship of ghosts. The conclusion is almost
 forced upon us that we have here a theological stratification, that the
 rites of the Olympians have been superimposed on another order of
-worship. The [contrast](errata.htm#0) between the two classes of rites
+worship. The [contrast](errata.htm#0.md) between the two classes of rites
 is so marked, so sharp, that the unbroken development from one to the
 other is felt to be almost impossible.
 
@@ -470,7 +470,7 @@ vary in essentials; an instance of sacrifice to Zeus is selected because
 we are about to examine the Diasia, a festival of Zeus, and thereby
 uniformity is secured.
 
-Agamemnon <span id="fr_22"></span>[1](#fn_22), beguiled by Zeus in a
+Agamemnon <span id="fr_22"></span>[1](#fn_22.md), beguiled by Zeus in a
 dream, is about to go forth to battle. Zeus intends to play him false,
 but all the same he accepts the sacrifice. It is a clear instance of *do
 ut des*.
@@ -513,7 +513,7 @@ They feasted, in their hearts no stint of feasting and delight.'</span>
 
 <span id="page_12">p. 12</span>
 
-Dr Leaf <span id="fr_23"></span>[1](#fn_23) observes on the passage:
+Dr Leaf <span id="fr_23"></span>[1](#fn_23.md) observes on the passage:
 'The significance of the various acts of the sacrifice evidently refers
 to a supposed invitation to the gods to take part in a banquet. Barley
 meal is scattered on the victim's head that the gods may share in the
@@ -531,7 +531,7 @@ Homer knows of victims slain to revive by their blood the ghosts of
 those below, knows of victims on which oaths have been taken and which
 are utterly consumed and abolished, but the normal service of the
 Olympians is a *meal shared*. The gods are as Plato <span
-id="fr_24"></span>[2](#fn_24) would say 'fellow guests' with man. The
+id="fr_24"></span>[2](#fn_24.md) would say 'fellow guests' with man. The
 god is Ouranios, so his share is burnt, and the object of the burning is
 manifestly sublimation not destruction.
 
@@ -545,8 +545,8 @@ do with the worship of Olympian Zeus.
 
 Our investigation begins with a festival which at first sight seems of
 all others for our purpose most unpromising, the Diasia <span
-id="fr_25"></span>[3](#fn_25). Pollux, in his chapter <span
-id="fr_26"></span>[4](#fn_26) on 'Festivals which take their names from
+id="fr_25"></span>[3](#fn_25.md). Pollux, in his chapter <span
+id="fr_26"></span>[4](#fn_26.md) on 'Festivals which take their names from
 the divinities worshipped,' cites the Diasia as an instance--'the
 
 <span id="page_13">p. 13</span>
@@ -570,7 +570,7 @@ Diasia was a festival of Zeus, of Zeus with the title Meilichios.
 Our first notice of the Diasia comes to us in a bit of religious history
 as amusing as it is instructive, the story of the unworthy trick played
 by the Delphic oracle on Cylon. Thucydides <span
-id="fr_27"></span>[1](#fn_27) tells how Cylon took counsel of the oracle
+id="fr_27"></span>[1](#fn_27.md) tells how Cylon took counsel of the oracle
 how he might seize the Acropolis, and the priestess made answer that he
 should attempt it on 'the greatest festival of Zeus.' Cylon never
 doubted that 'the greatest festival of Zeus' was the Olympian festival,
@@ -605,7 +605,7 @@ still of wide application, and as there is nothing in it specially
 characteristic of the Diasia it need not be further exemplified.
 
 Two notices of the Diasia in the *Clouds* of Aristophanes <span
-id="fr_28"></span>[1](#fn_28) yield nothing. The fact that Strepsiades
+id="fr_28"></span>[1](#fn_28.md) yield nothing. The fact that Strepsiades
 bought a little cart at the Diasia for his boy or even cooked a sausage
 for his relations is of no significance. Wherever any sort of religious
 ceremony goes on, there among primitive peoples a fair will be set up
@@ -617,7 +617,7 @@ importance however is the notice of the Scholiast on line 408 where the
 exact date of the Diasia is given. It was celebrated on the 8th day of
 the last decade of the month Anthesterion--i.e. about the 14th of March.
 The Diasia was a Spring festival and therein as will be shown later ([p.
-52](pgr04.htm#page_52)) lies its true significance.
+52](pgr04.htm#page_52).md) lies its true significance.
 
 From Lucian we learn that by his time the Diasia had fallen somewhat
 into abeyance; in the *Icaro-Menippos* Zeus complains that his altars
@@ -627,7 +627,7 @@ men thought it sufficient if they sacrificed every six years at Olympia.
 have left out the Diasia?' It is significant that here again, as in the
 case of Cylon, the Olympian Zeus has tended to efface from men's mind
 the ritual of him who bore the title Meilichios. The Scholiast <span
-id="fr_29"></span>[2](#fn_29) feels that some explanation of an obsolete
+id="fr_29"></span>[2](#fn_29.md) feels that some explanation of an obsolete
 festival is desirable, and explains: 'the Diasia, a festival at Athens,
 which they keep with a certain element of
 
@@ -645,7 +645,7 @@ it remains to examine the title Meilichios.
  
 
 Xenophon in returning from his Asiatic expedition was hindered, we are
-told <span id="fr_30"></span>[1](#fn_30), by lack of funds. He piously
+told <span id="fr_30"></span>[1](#fn_30.md), by lack of funds. He piously
 consulted a religious specialist and was informed that 'Zeus Meilichios'
 stood in his way and that he must sacrifice to the god as he was wont to
 do at home. Accordingly on the following day Xenophon 'sacrificed and
@@ -698,7 +698,7 @@ Zeus of Homer. The next passage makes still clearer the nature of this
 service.
 
 Most fortunately for us Pausanias, when at Myonia in Locris,
-visited <span id="fr_31"></span>[1](#fn_31) a sanctuary, not indeed of
+visited <span id="fr_31"></span>[1](#fn_31.md) a sanctuary, not indeed of
 Zeus Meilichios, but of 'the Meilichians.' He saw there no temple, only
 a grove and an altar, and he learnt the nature of the ritual. 'The
 sacrifices to "the Meilichians" are at night-time and it is customary to
@@ -708,7 +708,7 @@ and with nocturnal ceremonies. The suspicion begins to take shape that
 Zeus must have taken over the worship of these dread Meilichian
 divinities with its nocturnal ceremonial. The suspicion is confirmed
 when we find that Zeus Meilichios is, like the Erinyes, the avenger of
-kindred blood. Pausanias <span id="fr_32"></span>[2](#fn_32) saw near
+kindred blood. Pausanias <span id="fr_32"></span>[2](#fn_32.md) saw near
 the Kephissos 'an ancient altar of Zeus Meilichios; on it Theseus
 received purification from the descendants of Phytalos after he had
 slain among other robbers Sinis who was related to himself through
@@ -716,21 +716,21 @@ Pittheus.'
 
 <span id="page_17">p. 17</span>
 
-Again Pausanias <span id="fr_33"></span>[1](#fn_33) tells us that, after
+Again Pausanias <span id="fr_33"></span>[1](#fn_33.md) tells us that, after
 an internecine fray, the Argives took measures to purify themselves from
 the guilt of kindred blood, and one measure was that they set up an
 image of Zeus Meilichios. Meilichios, Easy-to-be-entreated, the Gentle,
 the Gracious One, is naturally the divinity of purification, but he is
 also naturally the other euphemistic face of *Maimaktes*, he who rages
 eager, panting and thirsting for blood. This Hesychius <span
-id="fr_34"></span>[2](#fn_34) tells us in an instructive gloss.
+id="fr_34"></span>[2](#fn_34.md) tells us in an instructive gloss.
 Maimaktes-Meilichios is double-faced like the Erinyes-Eumenides. Such
 undoubtedly would have been the explanation of the worship of Zeus
 Meilichios by any educated Greek of the fifth century B.C. with his
 monotheistic tendencies. Zeus he would have said is all in all, Zeus
 Meilichios is Zeus in his underworld aspect--Zeus-Hades.
 
-Pausanias <span id="fr_35"></span>[3](#fn_35) saw at Corinth three
+Pausanias <span id="fr_35"></span>[3](#fn_35.md) saw at Corinth three
 images of Zeus, all under the open sky. One he says had no title,
 another was called He of the underworld (χθόνιος), the third The
 Highest. What earlier cults this triple Zeus had absorbed into himself
@@ -743,13 +743,13 @@ suspicions only, art compels a clearer definition.
 
  
 
-The two reliefs in figs. [1](#img_001) and [2](#img_002) were found at
+The two reliefs in figs. [1](#img_001) and [2](#img_002.md) were found at
 the Peiraeus and are now in the Berlin Museum <span
-id="fr_36"></span>[4](#fn_36). From the inscription on the relief in
-[fig. 1](#img_001) and from numerous other inscribed reliefs found with
+id="fr_36"></span>[4](#fn_36.md). From the inscription on the relief in
+[fig. 1](#img_001.md) and from numerous other inscribed reliefs found with
 it, it is practically certain that at the place in which they were found
 Zeus Meilichios was worshipped. In any case the relief in [fig.
-1](#img_001) is clearly dedicated to him. Above the splendid coiled
+1](#img_001.md) is clearly dedicated to him. Above the splendid coiled
 beast is plainly inscribed to Zeus Meilichios'
 
 <span id="page_18">p. 18</span>
@@ -773,7 +773,7 @@ FIG. 1<br />
 </table>
 
 So astonishing is the inscription that M. Foucart <span
-id="fr_37"></span>[1](#fn_37), who first discussed these reliefs,
+id="fr_37"></span>[1](#fn_37.md), who first discussed these reliefs,
 suggested that in Zeus Meilichios we have merely a Hellenic rendering of
 a Phenician divinity, Baal Melek or Moloch. The worship of such a
 divinity would be well in place at the harbour of Munychia, and as M.
@@ -814,14 +814,14 @@ FIG. 2<br />
 </table>
 
 The explanation of the snake as merely an attribute is indeed impossible
-to any unbiassed critic who looks at the relief in [fig. 2](#img_002).
+to any unbiassed critic who looks at the relief in [fig. 2](#img_002.md).
 Here clearly the snake is the object worshipped by the woman and two men
 who approach with gestures of adoration. The colossal size of the beast
 as it towers above its human adorers is the *Magnificat* of the artist
 echoed by the worshippers. When we confront the relief in [fig.
-3](#img_003), also found at the Peiraeus, with those in figs.
-[1](#img_001) and [2](#img_002), the secret is out at last. In [fig.
-3](#img_003) a man followed by a woman and child approaches an altar,
+3](#img_003.md), also found at the Peiraeus, with those in figs.
+[1](#img_001) and [2](#img_002.md), the secret is out at last. In [fig.
+3](#img_003.md) a man followed by a woman and child approaches an altar,
 behind which is seated a bearded god holding a sceptre and patera for
 libation. Above is clearly inscribed 'Aristarche to Zeus Meilichios'
 (Ἀριστάρχη Διὶ Μειλιχίῳ). And the truth is nothing more or less than
@@ -839,12 +839,12 @@ How the shift may have been effected art again helps us to
 
 <span id="img_003"></span> <span align="CENTER"> [![FIG.
 3](tn/003.jpg)  
-Click to enlarge](img/003.jpg)  
+Click to enlarge](img/003.jpg.md)  
 FIG. 3  
 </span>
 
 conjecture. In the same sanctuary at the Peiraeus that yielded the
-reliefs in figs. [1](#img_001) and [2](#img_002) was found<span
+reliefs in figs. [1](#img_001) and [2](#img_002.md) was found<span
 id="img_004"></span>
 
 <table data-align="RIGHT">
@@ -861,8 +861,8 @@ FIG. 4<br />
 </tbody>
 </table>
 
-the inscribed relief <span id="fr_38"></span>[1](#fn_38) in [fig.
-4](#img_004). We have a similar bearded snake and above is inscribed
+the inscribed relief <span id="fr_38"></span>[1](#fn_38.md) in [fig.
+4](#img_004.md). We have a similar bearded snake and above is inscribed
 'Heracleides to the god.' The worshipper is not fencing, uncertain
 whether he means Meilichios or Zeus; he brings his offering to the local
 precinct where the god is a snake and dedicates it to *the* god, the god
@@ -870,7 +870,7 @@ of that precinct. It is not monotheism, rather it is parochialism, but
 it is a conception tending towards a later monotheism. When and where
 the snake is simply 'the god,' the fusion with Zeus is made easy.
 
-In [fig. 5](#img_005) is figured advisedly a monument of snake worship,
+In [fig. 5](#img_005.md) is figured advisedly a monument of snake worship,
 which it must be distinctly noted comes, not from the precinct of Zeus
 Meilichios at the Peiraeus, but from\_ Eteonos in Boeotia. When we come
 to the discussion of hero-worship, it will be seen that all over Greece
@@ -883,20 +883,20 @@ relief from Boeotia is a good instance of such worship and is
 
 <span id="img_005"></span> <span align="CENTER"> [![FIG.
 5](tn/005.jpg)  
-Click to enlarge](img/005.jpg)  
+Click to enlarge](img/005.jpg.md)  
 FIG. 5  
 </span>
 
 chosen because of the striking parallelism of its art type with that of
-the Peiraeus relief in [fig. 3](#img_003). The maker of this class of
+the Peiraeus relief in [fig. 3](#img_003.md). The maker of this class of
 votive reliefs seems to have kept in stock designs of groups of pious
 worshippers which he could modify as required and to which the necessary
 god or snake and the appropriate victim could easily be appended. Midway
 in conception between the Olympian Zeus with his sceptre and the snake
-demon stands another relief <span id="fr_39"></span>[1](#fn_39) ([fig.
-6](#img_006)), also from the Peiraeus sanctuary. Meilichios is human, a
+demon stands another relief <span id="fr_39"></span>[1](#fn_39.md) ([fig.
+6](#img_006).md), also from the Peiraeus sanctuary. Meilichios is human, a
 snake no longer, but he is an earth god, he bears the cornucopia <span
-id="fr_40"></span>[2](#fn_40), his victim is the pig. He is that
+id="fr_40"></span>[2](#fn_40.md), his victim is the pig. He is that
 Meilichios to whom Xenophon offered the holocaust of pigs, praying for
 wealth; he is also the Zeus-Hades of Euripides. We might have been
 tempted to call him simply Hades or Ploutos but for the inscription
@@ -915,7 +915,7 @@ how can we sever it from Διός?
 
 <span id="img_006"></span> <span align="CENTER"> [![FIG.
 6](tn/006.jpg)  
-Click to enlarge](img/006.jpg)  
+Click to enlarge](img/006.jpg.md)  
 FIG. 6  
 </span>
 
@@ -924,9 +924,9 @@ ease in deriving Diasia from Διός. Naturally they were not troubled by
 difficulties as to long and short vowels, but they had their misgivings
 as to the connotation of the word, and they try round uneasily for
 etymologies of quite other significance. The Scholiast on Lucian's
-*Timon* <span id="fr_41"></span>[1](#fn_41) says the word is probably
+*Timon* <span id="fr_41"></span>[1](#fn_41.md) says the word is probably
 derived from διασαίνειν 'to fawn on,' 'to propitiate.' Suidas <span
-id="fr_42"></span>[2](#fn_42) says it comes from διαφυγεῖν αὐτοὺς εὐχαῖς
+id="fr_42"></span>[2](#fn_42.md) says it comes from διαφυγεῖν αὐτοὺς εὐχαῖς
 τὰς ἄσας, because in the Diasia 'men escaped from curses by prayers.' If
 etymologically absurd, certainly, as will be seen, a happy guess.
 
@@ -944,10 +944,10 @@ arrived at by independent
 <span id="page_23">p. 23</span>
 
 investigation of the ritual and art representations of Zeus Meilichios.
-Mr Neil <span id="fr_43"></span>[1](#fn_43) suggests that in several
+Mr Neil <span id="fr_43"></span>[1](#fn_43.md) suggests that in several
 Greek words showing the stem δῑο this stem may stand by the regular
 falling away of the medial σ for δῑσο and is identical with the Latin
-*dīro* <span id="fr_44"></span>[2](#fn_44). *dirus*, he notes, was
+*dīro* <span id="fr_44"></span>[2](#fn_44.md). *dirus*, he notes, was
 originally a purely religious word. Such words would be the Dīasia,
 whatever the termination may be, the Δῖα of Teos, and perhaps the Πάνδια
 of Athens. Seen in the light of this new etymology the Diasia becomes
@@ -973,7 +973,7 @@ his festival.
 Polemon, writing at the beginning of the second century B.C.,
 undoubtedly accepted the current derivation, and on the statement of
 Polemon most of our notices of 'the fleece of Zeus' appear to be based.
-Hesychius <span id="fr_45"></span>[3](#fn_45) writes thus: 'The fleece
+Hesychius <span id="fr_45"></span>[3](#fn_45.md) writes thus: 'The fleece
 of Zeus: they use this expression when the victim has been sacrificed to
 Zeus, and those who were being purified stood on it with their left
 foot.
@@ -990,7 +990,7 @@ conviction that the Διὸς κώδιον is necessarily 'the fleece of Zeus' 
 somewhat loosened when we find that this fleece was by no means confined
 to the ritual of Zeus, and in so far as it was connected with Zeus, was
 used in the ritual only of a Zeus who bore the titles Meilichios and
-Ktesios. Suidas <span id="fr_46"></span>[1](#fn_46) expressly states
+Ktesios. Suidas <span id="fr_46"></span>[1](#fn_46.md) expressly states
 that 'they sacrifice to Meilichios and to Zeus Ktesios and they keep the
 fleeces of these (victims) and call them "Dian," and they use them when
 they send out the procession in the month of Skirophorion, and the
@@ -1004,7 +1004,7 @@ One, the spirit of purification; we conjecture that he had also taken
 over the fleece of purification.
 
 Final conviction comes from a passage in the commentary of
-Eustathius <span id="fr_47"></span>[2](#fn_47) on the purification of
+Eustathius <span id="fr_47"></span>[2](#fn_47.md) on the purification of
 the house of Odysseus after the slaying of the suitors. Odysseus purges
 his house by two things, first after the slaying of the suitors by
 water, then after the hanging
@@ -1062,7 +1062,7 @@ Eustathius a salient instance, the very
 fleece we are discussing. He continues: 'Those who interpret the word
 διοπομπεῖν say that they applied the term δῖον to the fleece of the
 animal that had been sacrificed to Zeus Meilichios in purifications at
-the end of the month of Maimakterion <span id="fr_48"></span>[1](#fn_48)
+the end of the month of Maimakterion <span id="fr_48"></span>[1](#fn_48.md)
 when they performed the Sendings and when the castings out of pollutions
 at the triple ways took place: and they held in their hands a sender
 which was they say the kerukeion, the attribute of Hermes, and from a
@@ -1090,7 +1090,7 @@ The explanation of the strange word ἀποδιοπομπεῖν, to which Eusta
 at the close of his remarks piously reverts, is still accredited by
 modern lexicons. ἀποδιοπομπεῖσθαι--the middle form is the more
 usual--means, we are told, 'to avert threatened evils by offerings to
-Zeus <span id="fr_49"></span>[2](#fn_49).' Are scholars really prepared
+Zeus <span id="fr_49"></span>[2](#fn_49.md).' Are scholars really prepared
 to believe that ἀποδιοπομπεῖσθαι means, to put it shortly, 'to Zeus
 things away'? The lexicons after this desperate etymology proceed:
 'hence, to conjure away, to reject with abhorrence,' and finally, under
@@ -1124,7 +1124,7 @@ ghostly infection.
 Magical fleeces were of use in ceremonies apparently the most diverse,
 but at the bottom of each usage lies the same thought, that the skin of
 the victim has magical efficacy as medicine against impurities.
-Dicaearchus <span id="fr_50"></span>[1](#fn_50) tells us that at the
+Dicaearchus <span id="fr_50"></span>[1](#fn_50.md) tells us that at the
 rising of the dog-star, when the heat was greatest, young men in the
 flower of their age and of the noblest families went to a cave called
 the sanctuary of Zeus Aktaios, and also (very significantly it would
@@ -1136,7 +1136,7 @@ the magic fleeces, newly slain because all 'medicine' must be fresh,
 belong to his order as they belonged to the order of Meilichios.
 
 Again we learn that whoever would take counsel of the oracle of
-Amphiaraos <span id="fr_51"></span>[2](#fn_51) must first purify
+Amphiaraos <span id="fr_51"></span>[2](#fn_51.md) must first purify
 himself, and Pausanias himself
 
 <span id="page_28">p. 28</span>
@@ -1149,7 +1149,7 @@ revelation of a dream'; here again, though the name is not used, we have
 a δῖον κώδιον, a magic fleece with purifying properties. It is curious
 to note that Zeus made an effort to take over the cult of Amphiaraos, as
 he had taken that of Meilichios; we hear of a Zeus Amphiaraos <span
-id="fr_52"></span>[1](#fn_52), but the attempt was not a great success;
+id="fr_52"></span>[1](#fn_52.md), but the attempt was not a great success;
 probably the local hero Amphiaraos, himself all but a god, was too
 strong for the Olympian.
 
@@ -1281,7 +1281,7 @@ early summer, and in each case the ceremonies of the several seasons can
 be further elucidated by the examination of the like ceremonies in the
 Roman calendar. To make clear the superposition of the two strata, which
 for convenience' sake may be called Olympian and chthonic, the
-Diasia <span id="fr_53"></span>[1](#fn_53) has already been examined. In
+Diasia <span id="fr_53"></span>[1](#fn_53.md) has already been examined. In
 the typical festivals now to be discussed a like superposition will be
 made apparent, and from the detailed examination of the lower chthonic
 stratum it will be possible to determine the main outlines of Greek
@@ -1299,18 +1299,18 @@ the *Anthesteria*.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](pgr03.htm#fr_0) Thuc. II. 38, and in the
+<span id="fn_0"></span>[1:1](pgr03.htm#fr_0.md) Thuc. II. 38, and in the
 same spirit Plato (*Legg*. 653 n) writes ....
 
-<span id="fn_1"></span>[2:1](pgr03.htm#fr_1) Ps.-Xen. *Rep. Athen*. n.
+<span id="fn_1"></span>[2:1](pgr03.htm#fr_1.md) Ps.-Xen. *Rep. Athen*. n.
 99.
 
-<span id="fn_2"></span>[2:2](pgr03.htm#fr_2) Ps.-Xen. *Rep. Athen*. III.
+<span id="fn_2"></span>[2:2](pgr03.htm#fr_2.md) Ps.-Xen. *Rep. Athen*. III.
 8.
 
-<span id="fn_3"></span>[2:3](pgr03.htm#fr_3) Plat. *Euthyph*. 15 D.
+<span id="fn_3"></span>[2:3](pgr03.htm#fr_3.md) Plat. *Euthyph*. 15 D.
 
-<span id="fn_4"></span>[2:4](pgr03.htm#fr_4) So far as it is possible to
+<span id="fn_4"></span>[2:4](pgr03.htm#fr_4.md) So far as it is possible to
 distinguish the two, τὸ εὐσεβές is religion from man's side, his
 attitude towards the gods, τὸ ὅσιον religion from the gods' side, the
 claim they make on man. τὸ ὅσιον is the field of what is made over,
@@ -1318,46 +1318,46 @@ consecrated to the gods. The further connotations of the word as
 employed by Orphism will be discussed later. 'Holiness' is perhaps the
 nearest equivalent τὸ ὅσιον in the *Euthyphron*.
 
-<span id="fn_5"></span>[4:1](pgr03.htm#fr_5) Sext. Empir. *adv. Math*.
+<span id="fn_5"></span>[4:1](pgr03.htm#fr_5.md) Sext. Empir. *adv. Math*.
 ix. 123.
 
-<span id="fn_6"></span>[4:2](pgr03.htm#fr_6) *The Characters of
+<span id="fn_6"></span>[4:2](pgr03.htm#fr_6.md) *The Characters of
 Theophrastus*, p. 264.
 
-<span id="fn_7"></span>[4:3](pgr03.htm#fr_7) Arist. *Polit*. p. 1315 a
+<span id="fn_7"></span>[4:3](pgr03.htm#fr_7.md) Arist. *Polit*. p. 1315 a
 1.
 
-<span id="fn_8"></span>[4:4](pgr03.htm#fr_8) Plut. *de Superstit*. I.
+<span id="fn_8"></span>[4:4](pgr03.htm#fr_8.md) Plut. *de Superstit*. I.
 
-<span id="fn_9"></span>[5:1](pgr03.htm#fr_9) Plut. *de aud. poet*. 4.
+<span id="fn_9"></span>[5:1](pgr03.htm#fr_9.md) Plut. *de aud. poet*. 4.
 
-<span id="fn_10"></span>[5:2](pgr03.htm#fr_10) Eur. frg. 292.
+<span id="fn_10"></span>[5:2](pgr03.htm#fr_10.md) Eur. frg. 292.
 
-<span id="fn_11"></span>[5:3](pgr03.htm#fr_11) Plut. *de Superstit.* X.
+<span id="fn_11"></span>[5:3](pgr03.htm#fr_11.md) Plut. *de Superstit.* X.
 
-<span id="fn_12"></span>[5:4](pgr03.htm#fr_12) Plut, *de Superstit*. IX.
+<span id="fn_12"></span>[5:4](pgr03.htm#fr_12.md) Plut, *de Superstit*. IX.
 
-<span id="fn_13"></span>[6:1](pgr03.htm#fr_13) Plut. *de Superstit*.
+<span id="fn_13"></span>[6:1](pgr03.htm#fr_13.md) Plut. *de Superstit*.
 III.
 
-<span id="fn_14"></span>[7:1](pgr03.htm#fr_14) Xen. *Cyropaed*. III. 3.
+<span id="fn_14"></span>[7:1](pgr03.htm#fr_14.md) Xen. *Cyropaed*. III. 3.
 58.
 
-<span id="fn_15"></span>[8:1](pgr03.htm#fr_15) Isocr. *Or*. v. 117.
+<span id="fn_15"></span>[8:1](pgr03.htm#fr_15.md) Isocr. *Or*. v. 117.
 
-<span id="fn_16"></span>[8:2](pgr03.htm#fr_16) Plat. *Legg*. 854 B ....
+<span id="fn_16"></span>[8:2](pgr03.htm#fr_16.md) Plat. *Legg*. 854 B ....
 
-<span id="fn_17"></span>[9:1](pgr03.htm#fr_17) Harpocrat. s.v.
+<span id="fn_17"></span>[9:1](pgr03.htm#fr_17.md) Harpocrat. s.v.
 ἀποπομπάς.
 
-<span id="fn_18"></span>[9:2](pgr03.htm#fr_18) P. II. 11. 1.
+<span id="fn_18"></span>[9:2](pgr03.htm#fr_18.md) P. II. 11. 1.
 
-<span id="fn_19"></span>[9:3](pgr03.htm#fr_19) Babr. *Fab*. 63.
+<span id="fn_19"></span>[9:3](pgr03.htm#fr_19.md) Babr. *Fab*. 63.
 
-<span id="fn_20"></span>[10:1](pgr03.htm#fr_20) Hippocr. περὶ ἐνυπνίων
+<span id="fn_20"></span>[10:1](pgr03.htm#fr_20.md) Hippocr. περὶ ἐνυπνίων
 639, ....
 
-<span id="fn_21"></span>[10:2](pgr03.htm#fr_21) English has no
+<span id="fn_21"></span>[10:2](pgr03.htm#fr_21.md) English has no
 convenient equivalent for ἀποτροπή, which may mean either turning
 ourselves away from the thing or turning the thing away from us.
 *Aversion*, which for lack of a better word I have been obliged to
@@ -1367,18 +1367,18 @@ unconsciousness of θεραπεία and ἀποτροπή uses in conjunction t
 words Cultus and Abwehr. To his book, *Die Religion des Veda*, though he
 hardly touches on Greek matters, I owe much.
 
-<span id="fn_22"></span>[11:1](pgr03.htm#fr_22) Hom. *Il*. II. 421.
+<span id="fn_22"></span>[11:1](pgr03.htm#fr_22.md) Hom. *Il*. II. 421.
 
-<span id="fn_23"></span>[12:1](pgr03.htm#fr_23) *Companion to the
+<span id="fn_23"></span>[12:1](pgr03.htm#fr_23.md) *Companion to the
 Iliad*, p. 77. I have advisedly translated οὐλοχύται by barley grain,
 not meal, because I believe the οὐλοχύταιto be a primitive survival of
 the custom of offering actual grain, but this disputed question is here
 irrelevant. I follow Dr H. von Fritze, *Hermes* XXXII. 1897, p. 236.
 
-<span id="fn_24"></span>[12:2](pgr03.htm#fr_24) *Legg*. 653
+<span id="fn_24"></span>[12:2](pgr03.htm#fr_24.md) *Legg*. 653
 ξυνεορταστάς.
 
-<span id="fn_25"></span>[12:3](pgr03.htm#fr_25) The sources for the
+<span id="fn_25"></span>[12:3](pgr03.htm#fr_25.md) The sources for the
 Diasia are all collected in the useful and so far as I am aware complete
 work, Oskar Band, *Die Attischen Diasien--ein Beitrag zur Griechischen
 Heortologie*, Wissenschaftliche Beilage zum Programm der Victoriaschule,
@@ -1388,32 +1388,32 @@ accessible in Mr Farnell's *Cults of the Greek States*, vol. I. pp. 171,
 Zeus, not as a *contaminatio* of two primarily distinct religious
 conceptions.
 
-<span id="fn_26"></span>[12:4](pgr03.htm#fr_26) *On*. I. 37.
+<span id="fn_26"></span>[12:4](pgr03.htm#fr_26.md) *On*. I. 37.
 
-<span id="fn_27"></span>[13:1](pgr03.htm#fr_27) Thucyd. I. 126 ....
+<span id="fn_27"></span>[13:1](pgr03.htm#fr_27.md) Thucyd. I. 126 ....
 
-<span id="fn_28"></span>[14:1](pgr03.htm#fr_28) *vv*. 864 and 408.
+<span id="fn_28"></span>[14:1](pgr03.htm#fr_28.md) *vv*. 864 and 408.
 
-<span id="fn_29"></span>[14:2](pgr03.htm#fr_29) Luc. *Icaro-Menip*. 24
+<span id="fn_29"></span>[14:2](pgr03.htm#fr_29.md) Luc. *Icaro-Menip*. 24
 schol. ad loc. ....
 
-<span id="fn_30"></span>[15:1](pgr03.htm#fr_30) Xen *Anab*. VII. 9. 4.
+<span id="fn_30"></span>[15:1](pgr03.htm#fr_30.md) Xen *Anab*. VII. 9. 4.
 .... The incident probably took place in February, the month of the
 Diasia. See Mr H. G. Dakyns, *Xen*. vol. I. p. 315.
 
-<span id="fn_31"></span>[16:1](pgr03.htm#fr_31) P. x. 38. 8.
+<span id="fn_31"></span>[16:1](pgr03.htm#fr_31.md) P. x. 38. 8.
 
-<span id="fn_32"></span>[16:2](pgr03.htm#fr_32) P. I. 37. 4.
+<span id="fn_32"></span>[16:2](pgr03.htm#fr_32.md) P. I. 37. 4.
 
-<span id="fn_33"></span>[17:1](pgr03.htm#fr_33) P. II. 20. 1.
+<span id="fn_33"></span>[17:1](pgr03.htm#fr_33.md) P. II. 20. 1.
 
-<span id="fn_34"></span>[17:2](pgr03.htm#fr_34) Hesych. s.v. Μαιμάκτης·
+<span id="fn_34"></span>[17:2](pgr03.htm#fr_34.md) Hesych. s.v. Μαιμάκτης·
 μειλίχιος, καθάρσιος.
 
-<span id="fn_35"></span>[17:3](pgr03.htm#fr_35) P. II. 2. 8.
+<span id="fn_35"></span>[17:3](pgr03.htm#fr_35.md) P. II. 2. 8.
 
-<span id="fn_36"></span>[17:4](pgr03.htm#fr_36) Permission to republish
-the two reliefs figured here and that in [fig. 5](#img_005) has been
+<span id="fn_36"></span>[17:4](pgr03.htm#fr_36.md) Permission to republish
+the two reliefs figured here and that in [fig. 5](#img_005.md) has been
 courteously granted me by Professor Kekulé von Stradowitz, Director of
 the Berlin Museum, and I owe to his kindness the excellent photographs
 from which the reproductions are made. From the official catalogue
@@ -1427,7 +1427,7 @@ Inscribed ΔΙΙ ΜΕΙΛΙΧΙΩΙ. Date fourth century D.C., see *CIA*. II. 3,
 
 2\. *Cat*. 723, material, provenance, date, same as 722.
 
-<span id="fn_37"></span>[18:1](pgr03.htm#fr_37) *Bull. de Corr. Hell*.
+<span id="fn_37"></span>[18:1](pgr03.htm#fr_37.md) *Bull. de Corr. Hell*.
 vii. p. 507. I regret that in the first edition of my book I treated M.
 Foucart's theory with, I fear, scant ceremony. The possibility of a
 *contaminatio* between the Phenician Baal and Zeus Meilichios cannot be
@@ -1438,26 +1438,26 @@ until evidence is forthcoming of the snake-form of Moloch it is simpler
 to see in the snake Meilichios an indigenous snake demon of the under
 world.
 
-<span id="fn_38"></span>[20:1](pgr03.htm#fr_38) *Bull. de Corr. Hell*.
+<span id="fn_38"></span>[20:1](pgr03.htm#fr_38.md) *Bull. de Corr. Hell*.
 1883, p. 510.
 
-<span id="fn_39"></span>[21:1](pgr03.htm#fr_39) From a photograph
+<span id="fn_39"></span>[21:1](pgr03.htm#fr_39.md) From a photograph
 (Peiraeus 12) published by kind permission of the German Archaeological
 Institute, see *Eph. Arch*. 1886, p. 47.
 
-<span id="fn_40"></span>[21:2](pgr03.htm#fr_40) The cornucopia would be
+<span id="fn_40"></span>[21:2](pgr03.htm#fr_40.md) The cornucopia would be
 a natural attribute for Zeus Ktesios who Dr Martin Nilsson kindly tells
 me appears in snake form (inscribed) on a votive relief in the local
 Museum at Thebes.
 
-<span id="fn_41"></span>[22:1](pgr03.htm#fr_41) Lucian, *Tim*. c. 7.
+<span id="fn_41"></span>[22:1](pgr03.htm#fr_41.md) Lucian, *Tim*. c. 7.
 
-<span id="fn_42"></span>[22:2](pgr03.htm#fr_42) Suidas s.v. Διάσια.
+<span id="fn_42"></span>[22:2](pgr03.htm#fr_42.md) Suidas s.v. Διάσια.
 
-<span id="fn_43"></span>[23:1](pgr03.htm#fr_43) *J.H.S.* XIX. p. 114,
+<span id="fn_43"></span>[23:1](pgr03.htm#fr_43.md) *J.H.S.* XIX. p. 114,
 note 1.
 
-<span id="fn_44"></span>[23:2](pgr03.htm#fr_44) Mr P. Giles kindly tells
+<span id="fn_44"></span>[23:2](pgr03.htm#fr_44.md) Mr P. Giles kindly tells
 me that a rare Sanskrit word *dveshas* meaning 'hate' and the like
 exists and phonetically would nearly correspond to the Latin *dirus*.
 The corresponding form in Greek would appear as δειος, unless in late
@@ -1472,28 +1472,28 @@ supported by a statement of Servius (if the statement be accurate) on
 though *s* between vowels passes in Latin and Umbrian into *r*, it
 remains an *s* sound in Sabine.
 
-<span id="fn_45"></span>[23:3](pgr03.htm#fr_45) Hesych. s.v. .... From
+<span id="fn_45"></span>[23:3](pgr03.htm#fr_45.md) Hesych. s.v. .... From
 Athenaeus also we learn that Polemon had treated in some detail of the
 'fleece of Zeus'; Athenaeus says (XI. p. 478 c), ......
 
-<span id="fn_46"></span>[24:1](pgr03.htm#fr_46) Suidas s.v. .... For Δία
+<span id="fn_46"></span>[24:1](pgr03.htm#fr_46.md) Suidas s.v. .... For Δία
 Gaisford conjectures Διὸς but from the passage of Eustathius (see infr.)
 it is clear that we must read δῖα.
 
-<span id="fn_47"></span>[24:2](pgr03.htm#fr_47) Eustath. ad *Od*. XXII.
+<span id="fn_47"></span>[24:2](pgr03.htm#fr_47.md) Eustath. ad *Od*. XXII.
 481 § 1934-5 .... Eustathius passes on to speak of purification by blood
 and the φαρμακοί, see .
 
-<span id="fn_48"></span>[26:1](pgr03.htm#fr_48) Maimaktes, it will be
+<span id="fn_48"></span>[26:1](pgr03.htm#fr_48.md) Maimaktes, it will be
 remembered, is the other face of Meilichios, see supra.
 
-<span id="fn_49"></span>[26:2](pgr03.htm#fr_49) See Liddell and Scott,
+<span id="fn_49"></span>[26:2](pgr03.htm#fr_49.md) See Liddell and Scott,
 s.v.
 
-<span id="fn_50"></span>[27:1](pgr03.htm#fr_50) Dicaearch. *Frg. Hist*.
+<span id="fn_50"></span>[27:1](pgr03.htm#fr_50.md) Dicaearch. *Frg. Hist*.
 II. 262.
 
-<span id="fn_51"></span>[27:2](pgr03.htm#fr_51) P. I. 34. 2-5. Strabo
+<span id="fn_51"></span>[27:2](pgr03.htm#fr_51.md) P. I. 34. 2-5. Strabo
 (VI. p. 284) says that the Daunians when they consulted the oracle of
 the hero Calchas sacrificed a black ram to him and slept on the fleece.
 The worshippers of the 'Syrian Goddess,' Lucian says (*De Syr. Dea* 35),
@@ -1502,9 +1502,9 @@ the head of the victim on their heads. He probably means that they got
 inside the skin and wore it with the front paws tied round the neck as
 Heracles wears the lion-skin.
 
-<span id="fn_52"></span>[28:1](pgr03.htm#fr_52) Dicaearchus I. 6.
+<span id="fn_52"></span>[28:1](pgr03.htm#fr_52.md) Dicaearchus I. 6.
 
-<span id="fn_53"></span>[31:1](pgr03.htm#fr_53) For all questions
+<span id="fn_53"></span>[31:1](pgr03.htm#fr_53.md) For all questions
 respecting *Zeus* I am now able to refer to Mr A. B. Cook's great work
 *Zeus, a study in ancient religion*, Cambridge University Press, 1914. I
 would draw special attention to his criticism of my view of the Diasia
@@ -1512,4 +1512,4 @@ which will appear in vol. II of *Zeus*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Anthesteria](pgr04)
+[Next: Chapter II. The Anthesteria](pgr04.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt03)  [Next](dmt05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt03)  [Next](dmt05.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ to the understanding of Islam among us is the object of this book.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](dmt05)
+[Next: Chapter I](dmt05.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](aenl01)  [Previous](aen00) 
-[Next](aen02) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](aenl01)  [Previous](aen00.md) 
+[Next](aen02.md) 
 
 ------------------------------------------------------------------------
 
@@ -1112,4 +1112,4 @@ The winter banish'd, and the spring renew'd."
 
 ------------------------------------------------------------------------
 
-[Next: Book II](aen02)
+[Next: Book II](aen02.md)

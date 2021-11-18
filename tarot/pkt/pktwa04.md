@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktwa05)  [Next](pktwa03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktwa05)  [Next](pktwa03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Four
 
 <span id="img_wa04"></span> <span align="CENTER"> [![](tn/wa04.jpg)  
-Click to enlarge](img/wa04.jpg)</span>
+Click to enlarge](img/wa04.jpg.md)</span>
 
 From the four great staves planted in the foreground there is a great
 garland suspended; two female figures uplift nosegays; at their side is
@@ -33,4 +33,4 @@ embellishment.
 
 ------------------------------------------------------------------------
 
-[Next: Three of Wands](pktwa03)
+[Next: Three of Wands](pktwa03.md)

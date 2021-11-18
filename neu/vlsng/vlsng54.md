@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng53)  [Next](vlsng55) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng53)  [Next](vlsng55.md) 
 
 ------------------------------------------------------------------------
 
@@ -260,4 +260,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Appendix X: The Lament Of Oddrun](vlsng55)
+[Next: Appendix X: The Lament Of Oddrun](vlsng55.md)

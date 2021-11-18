@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](cap00)  [Next](cap02) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](cap00)  [Next](cap02.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ W. H. D ROUSE.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](cap02)
+[Next: Part I](cap02.md)

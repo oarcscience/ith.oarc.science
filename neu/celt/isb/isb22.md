@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb21)  [Next](isb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb21)  [Next](isb23.md) 
 
 ------------------------------------------------------------------------
 
@@ -168,4 +168,4 @@ upsetting that coach.
 
 ------------------------------------------------------------------------
 
-[Next: Ballinasloe to Dublin](isb23)
+[Next: Ballinasloe to Dublin](isb23.md)

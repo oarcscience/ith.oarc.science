@@ -456,4 +456,4 @@ cataloging early American heavier-than-air flying machines.]
 ---
 ------------------------------------------------------------------------
 
-[Next: Eyewitness Testimony and the Paranormal](testimon)
+[Next: Eyewitness Testimony and the Paranormal](testimon.md)

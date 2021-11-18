@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws72)  [Next](cws74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws72)  [Next](cws74.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XVII
 
-#### THE MYSTERIES OF THE KINGDOMS OF THE SEVEN SPHERES <span id="fr_225"></span>[1](#fn_225)
+#### THE MYSTERIES OF THE KINGDOMS OF THE SEVEN SPHERES <span id="fr_225"></span>[1](#fn_225.md)
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
 <colgroup>
@@ -75,11 +75,11 @@ No, XIV, part 2, "Concerning the Genius."\]
 
 ### Footnotes
 
-<span id="fn_225"></span>[173:1](cws73.htm#fr_225) Home, Received
+<span id="fn_225"></span>[173:1](cws73.htm#fr_225.md) Home, Received
 September 18, 1884. Referred to in *Life of Anna Kingsford*, vol. ii, p.
 213.
 
 ------------------------------------------------------------------------
 
 [Next: Part The Third: Concerning The Divine Image Or The Vision Of
-Adonai](cws74)
+Adonai](cws74.md)

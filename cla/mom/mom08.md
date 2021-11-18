@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mom07)  [Next](mom09) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mom07)  [Next](mom09.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,13 +72,13 @@ These strange appellations were not empty epithets with no practical
 bearing. On certain occasions the celebrants donned garbs suited to the
 title that had been accorded them. On the bas-reliefs we see them
 carrying the counterfeit heads of animals, of soldiers, and of Persians.
-(See Fig. [38](#img_38), [p. 159](#page_159)) "Some flap their wings
+(See Fig. [38](#img_38), [p. 159](#page_159).md) "Some flap their wings
 like birds, imitating
 
 <span id="page_153">p. 153</span>
 
 the cry of crows; others growl like lions," says a Christian writer of
-the fourth century; <span id="fr_37"></span>[1](#fn_37) "in such manner
+the fourth century; <span id="fr_37"></span>[1](#fn_37.md) "in such manner
 are they that are called wise basely travestied."
 
 These sacred masks, of which the ecclesiastical writer exhibits the
@@ -110,7 +110,7 @@ for the purpose of attaining the sacred number seven. The seven degrees
 of initiation through which the mystic was forced to pass in order to
 acquire perfect wisdom and purity, answered to the seven planetary
 spheres which the soul was forced to traverse in order to reach the
-abode of the blessed. <span id="fr_38"></span>[1](#fn_38) After having
+abode of the blessed. <span id="fr_38"></span>[1](#fn_38.md) After having
 been Raven, the initiates were promoted to the rank of Occult (κρύφιος).
 The members of this class, hidden by some veil, probably remained
 invisible to the rest of the congregation. To exhibit them (*ostendere*)
@@ -154,7 +154,7 @@ placed
 
 under their authority were called brethren by one another, because the
 fellow-initiates (*consacranei*) were expected to cherish mutual
-affection. <span id="fr_39"></span>[1](#fn_39)
+affection. <span id="fr_39"></span>[1](#fn_39.md)
 
 Admission (acceptio) to the lower orders could be accorded even to
 children. We do not know whether the initiates were obliged to remain in
@@ -205,12 +205,12 @@ custom with new-born children. It was honey also
 <span id="page_158">p. 158</span>
 
 that was presented to the Persian because of its preservative virtue, as
-Porphyry tells us; <span id="fr_40"></span>[1](#fn_40) in fact,
+Porphyry tells us; <span id="fr_40"></span>[1](#fn_40.md) in fact,
 marvellous properties appear to have been associated with this
 substance, which was believed to have been produced under the influence
 of the moon. According to the ancient ideas, it was the food of the
 "blessed, and its absorption by the neophyte made him a peer of the
-gods. <span id="fr_41"></span>[2](#fn_41)
+gods. <span id="fr_41"></span>[2](#fn_41.md)
 
 In the Mazdean service, the celebrant consecrated the bread and the
 water which he mingled with the intoxicating juice of the Haoma prepared
@@ -242,7 +242,7 @@ Lion. (Fragment of a bas-relief recently discovered in Konjica, Bosnia.)
 <span id="page_160">p. 160</span>
 
 was given to them. A curious bas-relief recently published shows us the
-spectacle of this sacred repast (Fig. [38](#img_38)). Before two persons
+spectacle of this sacred repast (Fig. [38](#img_38).md). Before two persons
 stretched upon a couch covered with pillows is placed a tripod bearing
 four tiny loaves of bread, each marked with a cross. Around them are
 grouped the initiates of the different orders, and one of them, the
@@ -250,7 +250,7 @@ Persian, presents to the two a drinking-horn; whilst a second vessel is
 held in the hands of one of the Participants. These love feasts are
 evidently the ritual commemoration of the banquet which Mithra
 celebrated with the Sun before his ascension. <span
-id="fr_42"></span>[1](#fn_42) From this mystical banquet, and especially
+id="fr_42"></span>[1](#fn_42.md) From this mystical banquet, and especially
 from the imbibing of the sacred wine, supernatural effects were
 expected. The intoxicating liquor gave not only vigor of body and
 material prosperity, but wisdom of mind; it communicated to the neophyte
@@ -268,7 +268,7 @@ dramatic expiations of strange character and
 
 of which we know neither the number nor the succession. If we can
 believe a Christian writer of the fourth century, <span
-id="fr_43"></span>[1](#fn_43) the eyes of the neophyte were bandaged,
+id="fr_43"></span>[1](#fn_43.md) the eyes of the neophyte were bandaged,
 his hands were bound with the entrails of chickens, and he was compelled
 to leap over a ditch filled with water; finally, a liberator approached
 with a sword and sundered his loathsome bonds. Sometimes, the terrified
@@ -297,7 +297,7 @@ original barbarism, of the time when in the forests, in the depths of
 some dark cave, corybantes, enveloped in the skins of beasts, sprinkled
 the altars with their blood. In the Roman towns, the secluded caverns of
 the mountains were replaced by subterranean vaults (*spelæa*) of far
-less imposing aspect (Fig. [39](#img_39)). But even in these artificial
+less imposing aspect (Fig. [39](#img_39).md). But even in these artificial
 grottos the scenes of initiation were calculated to produce on the
 neophyte a profound impression. When, after having traversed the
 approaches of the temple, he descended the stairs of the crypt, he
@@ -343,7 +343,7 @@ the utmost pitch; he murmured his mystic formulas, and they evoked
 before his distracted imagination divine apparitions. In his ecstasy, he
 believed himself transported beyond the limits of the world, and having
 issued from his trance he repeated, as did the mystic of Apuleius: <span
-id="fr_44"></span>[1](#fn_44) "I have transcended the boundaries of
+id="fr_44"></span>[1](#fn_44.md) "I have transcended the boundaries of
 death, I have trodden the threshold of Proserpine, and having traversed
 all the elements I am returned to the earth. In the middle of the night
 I have seen the Sun scintillating with a pure light; I have approached
@@ -366,10 +366,10 @@ or that of *antistes*, was often, but not always, a member of the
 Fathers. We find one vicar, and sometimes several, in each temple. There
 is every ground for believing that a certain hierarchy existed in this
 "sacerdotal order." Tertullian tells us that the chief pontiff (*summus
-Pontifex*) <span id="fr_45"></span>[1](#fn_45) could marry but once; he
+Pontifex*) <span id="fr_45"></span>[1](#fn_45.md) could marry but once; he
 doubtless designated by this Roman name the "Father of the Fathers," who
 appears to have exercised general jurisdiction over all the initiates
-residing in the city. <span id="fr_46"></span>[2](#fn_46) This is the
+residing in the city. <span id="fr_46"></span>[2](#fn_46.md) This is the
 only indication we possess regarding an organization which was perhaps
 as solidly constituted as that of the Magi in the Sassanian kingdom, or
 that of the Manichæans of the Roman empire. The same apologist adds that
@@ -418,7 +418,7 @@ informed. Possibly the sixteenth or middle day of the month continued
 (as in Persia) to have Mithra for its patron. On the other hand, there
 is never a word in the Occident concerning the celebration of the
 Mithrakana, which were so popular in Asia. <span
-id="fr_47"></span>[1](#fn_47) They were doubtless merged in the
+id="fr_47"></span>[1](#fn_47.md) They were doubtless merged in the
 celebration of the 25th of December, for a very wide-spread custom
 required that the new birth of the Sun (*Natalis invicti*), which began
 to wax great again on the termination of the winter solstice, should be
@@ -432,7 +432,7 @@ solemnities, as generally with everything connected with
 
 <span id="page_168">p. 168</span>
 
-the heortology <span id="fr_48"></span>[1](#fn_48) of the Mysteries, our
+the heortology <span id="fr_48"></span>[1](#fn_48.md) of the Mysteries, our
 ignorance is almost absolute.
 
 The Mithraic communities were not only brotherhoods united by spiritual
@@ -476,7 +476,7 @@ the interior decoration of the crypt and the modelling of the sacred
 images, other Brothers supplied the necessary sum, and a honorific
 inscription perpetuated the memory of their munificence. Three votive
 inscriptions found in Rome enable us to witness the founding of one of
-these Mithraic congregations. <span id="fr_49"></span>[1](#fn_49) A
+these Mithraic congregations. <span id="fr_49"></span>[1](#fn_49.md) A
 freedman. and a freeman
 
 <span id="page_170">p. 170</span>
@@ -591,48 +591,48 @@ paganism.
 
 ### Footnotes
 
-<span id="fn_37"></span>[153:1](mom08.htm#fr_37) Ps. Augustine, *Quaest.
+<span id="fn_37"></span>[153:1](mom08.htm#fr_37.md) Ps. Augustine, *Quaest.
 vet. et novi Test.*, (*T. et M.*, Vol. II., p. 8).
 
-<span id="fn_38"></span>[154:1](mom08.htm#fr_38) See *supra*, [p.
-144](mom07.htm#page_144).
+<span id="fn_38"></span>[154:1](mom08.htm#fr_38.md) See *supra*, [p.
+144](mom07.htm#page_144.md).
 
-<span id="fn_39"></span>[156:1](mom08.htm#fr_39) See *infra*, [p.
-190](mom09.htm#page_190), footnote.
+<span id="fn_39"></span>[156:1](mom08.htm#fr_39.md) See *infra*, [p.
+190](mom09.htm#page_190.md), footnote.
 
-<span id="fn_40"></span>[158:1](mom08.htm#fr_40) Porph., *De antro
+<span id="fn_40"></span>[158:1](mom08.htm#fr_40.md) Porph., *De antro
 nymph*., c. 15 (*T. et M.*, Vol. II., p. 40).
 
-<span id="fn_41"></span>[158:2](mom08.htm#fr_41) The liturgic use of
+<span id="fn_41"></span>[158:2](mom08.htm#fr_41.md) The liturgic use of
 honey has recently been elucidated by Usener, "Milch und Honig"
 (*Hermes*, LVII), 1902, p. 177 ff.
 
-<span id="fn_42"></span>[160:1](mom08.htm#fr_42) See above, [p.
-138](mom07.htm#page_138).
+<span id="fn_42"></span>[160:1](mom08.htm#fr_42.md) See above, [p.
+138](mom07.htm#page_138.md).
 
-<span id="fn_43"></span>[161:1](mom08.htm#fr_43) See above, [p.
-153](#page_153), footnote.
+<span id="fn_43"></span>[161:1](mom08.htm#fr_43.md) See above, [p.
+153](#page_153.md), footnote.
 
-<span id="fn_44"></span>[164:1](mom08.htm#fr_44) Apuleius, *Metam*. XI,
+<span id="fn_44"></span>[164:1](mom08.htm#fr_44.md) Apuleius, *Metam*. XI,
 23, *à propos* of the mystics of Isis.
 
-<span id="fn_45"></span>[165:1](mom08.htm#fr_45) Tertull., De praescr.
+<span id="fn_45"></span>[165:1](mom08.htm#fr_45.md) Tertull., De praescr.
 haeret., XL.
 
-<span id="fn_46"></span>[165:2](mom08.htm#fr_46) Cf. *supra*, [p.
-155](#page_155). I adopt here the suggestion of M. Wissova, *Religion
+<span id="fn_46"></span>[165:2](mom08.htm#fr_46.md) Cf. *supra*, [p.
+155](#page_155.md). I adopt here the suggestion of M. Wissova, *Religion
 der Römer*, 1902, p. 309.
 
-<span id="fn_47"></span>[167:1](mom08.htm#fr_47) See above, [p.
-9](mom04.htm#page_9).
+<span id="fn_47"></span>[167:1](mom08.htm#fr_47.md) See above, [p.
+9](mom04.htm#page_9.md).
 
-<span id="fn_48"></span>[168:1](mom08.htm#fr_48) The science of
+<span id="fn_48"></span>[168:1](mom08.htm#fr_48.md) The science of
 festivals. From ἑορτή, festival, holiday.--*Tr*.
 
-<span id="fn_49"></span>[169:1](mom08.htm#fr_49) *Corpus inscriptionum
+<span id="fn_49"></span>[169:1](mom08.htm#fr_49.md) *Corpus inscriptionum
 latinarum*, Vol. VI., Nos. 556, 717, 734 = 30822 (*T. et M.*, Vol. II.
 p. 202, n<sup>os</sup> 47-48<sup>bis</sup>).
 
 ------------------------------------------------------------------------
 
-[Next: Mithraism and the Religions of the Empire](mom09)
+[Next: Mithraism and the Religions of the Empire](mom09.md)

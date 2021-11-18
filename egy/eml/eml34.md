@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml33)  [Next](eml35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml33)  [Next](eml35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -76,7 +76,7 @@ wish. So he caused him to be provided with all kinds of weapons, and
 consented that the dog should follow him.
 
 A servant of the king conducted the young prince to the eastern
-frontier, <span id="fr_131"></span>[1](#fn_131) and said: "Now you may
+frontier, <span id="fr_131"></span>[1](#fn_131.md) and said: "Now you may
 go wherever you desire."
 
 The lad called his dog, and set his face toward the north. He hunted on
@@ -317,13 +317,13 @@ story is discovered.
 
 ### Footnotes
 
-<span id="fn_131"></span>[295:1](eml34.htm#fr_131) Apparently the prince
+<span id="fn_131"></span>[295:1](eml34.htm#fr_131.md) Apparently the prince
 was safe from attack so long as he was away from Egypt.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV: Changes in Social and Religious Life](eml35)
+[Next: Chapter XXIV: Changes in Social and Religious Life](eml35.md)
 
 </div>

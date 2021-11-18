@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](spc04)  [Next](spc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](spc04)  [Next](spc06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sacred Places in China*, by Carl F. Kupfer, \[1911\], at Intangible
 Textual Heritage
 
@@ -68,7 +68,7 @@ the information obtained is tinged with mythological superstition.
 *Huang-li-ta*, the yellow rice, which is said to grow high up the
 valleys. It was originally brought from Siam by Ti Tsang-Wang, being
 different from all other rice. It is very productive, of a reddish
-yellow color, [fragrant](errata.htm#0), and soft.
+yellow color, [fragrant](errata.htm#0.md), and soft.
 
 *Chu-shih*, seed-producing bamboo. It happened twice during the *Ming*
 Dynasty that the bamboo on these hills produced seeds. In spring and
@@ -181,18 +181,18 @@ leaves emit a most pleasant fragrance.
 
 <span id="img_03100"></span> <span align="CENTER"> [![FOOTHILL
 BRIDGE.](tn/03100.jpg)  
-Click to enlarge](img/03100.jpg)  
+Click to enlarge](img/03100.jpg.md)  
 FOOTHILL BRIDGE.  
 </span>
 
 <span id="img_03101"></span> <span align="CENTER"> [![THE BRIDGE
 TEMPLE.](tn/03101.jpg)  
-Click to enlarge](img/03101.jpg)  
+Click to enlarge](img/03101.jpg.md)  
 THE BRIDGE TEMPLE.  
 </span>
 
 <span class="small">On a ridge 4,000 feet above the
-[plain](errata.htm#1)</span>.
+[plain](errata.htm#1.md)</span>.
 
 <span id="page_32">p. 32</span>
 
@@ -323,13 +323,13 @@ permission.
 
 <span id="img_03500"></span> <span align="CENTER"> [![TEMPLE OF
 REFRESHING DEW.](tn/03500.jpg)  
-Click to enlarge](img/03500.jpg)  
+Click to enlarge](img/03500.jpg.md)  
 TEMPLE OF REFRESHING DEW.  
 </span>
 
 <span id="img_03501"></span> <span align="CENTER"> [![THE GOD LING KWANG
 AND INCENSE BURNERS BY THE WAYSIDE.](tn/03501.jpg)  
-Click to enlarge](img/03501.jpg)  
+Click to enlarge](img/03501.jpg.md)  
 THE GOD LING KWANG AND INCENSE BURNERS BY THE WAYSIDE.  
 </span>
 
@@ -446,19 +446,19 @@ of Hades. In the southeast and south-west
 
 <span id="img_03900"></span> <span align="CENTER"> [![HALL OF
 TRANSMIGRATION.](tn/03900.jpg)  
-Click to enlarge](img/03900.jpg)  
+Click to enlarge](img/03900.jpg.md)  
 HALL OF TRANSMIGRATION.  
 </span>
 
 <span id="img_03901"></span> <span align="CENTER"> [![THE CENTENARIANS
 TEMPLE.](tn/03901.jpg)  
-Click to enlarge](img/03901.jpg)  
+Click to enlarge](img/03901.jpg.md)  
 THE CENTENARIANS TEMPLE.  
 </span>
 
 <span id="img_03902"></span> <span align="CENTER"> [![PAGODA OVER GATE
 OF HEAVEN.](tn/03902.jpg)  
-Click to enlarge](img/03902.jpg)  
+Click to enlarge](img/03902.jpg.md)  
 PAGODA OVER GATE OF HEAVEN.  
 </span>
 
@@ -567,4 +567,4 @@ Tsang Wang*—Earth's Hidden King.
 
 ------------------------------------------------------------------------
 
-[Next: Poot’oo: China's Sacred Island](spc06)
+[Next: Poot’oo: China's Sacred Island](spc06.md)

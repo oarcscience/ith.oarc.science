@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Masonry](../index) 
-[Index](index)  [Previous](mom06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Masonry](../index.md) 
+[Index](index)  [Previous](mom06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0517331942/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0517331942/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH2O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH2O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Meaning of Masonry*, by W.L. Wilmshurst, \[1922\], at Intangible
 Textual Heritage
 
@@ -531,7 +531,7 @@ the prophetic or forward-seeing faculty of seer-ship (*providentia*);
 
 <span class="contnote">\[paragraph continues\]</span> Justice,
 unswerving righteousness of thought and action. <span
-id="fr_1"></span>[\*](#fn_1) The "arts and sciences" were called
+id="fr_1"></span>[\*](#fn_1.md) The "arts and sciences" were called
 "liberal" because they tended to liberate the soul from defects and
 illusions normally enslaving it, thus totally differing from science in
 the modern sense, the tendency of which is, as we know, materialistic
@@ -607,7 +607,7 @@ product. Every year far more seeds are borne, far more eggs are laid or
 spawned, than reach maturity, although every seed and egg is potentially
 capable of growth and fruition. Plato, speaking of the Mysteries in his
 own day, quotes a still older authority that "the thyrsus-bearers <span
-id="fr_2"></span>[\*](#fn_2) (or candidates for initiation) are
+id="fr_2"></span>[\*](#fn_2) (or candidates for initiation.md) are
 numerous, but the Bacchuses (or perfected initiates) are few." The same
 truth is restated in the words in the Gospels, "Many are called, but few
 are chosen."
@@ -729,7 +729,7 @@ history of the soul, its destiny
 <span id="page_195">p. 195</span>
 
 and prospects, and the doctrine of reincarnation <span
-id="fr_3"></span>[\*](#fn_3) was emphasized.
+id="fr_3"></span>[\*](#fn_3.md) was emphasized.
 
 Now Masonry follows this traditional method of instruction by myths. Its
 canon of teaching in the Craft degrees contains two myths. One is that
@@ -1340,17 +1340,17 @@ is but a form from which its native spirit has departed.
 
 ### Footnotes
 
-<span id="fn_1"></span>[188:\*](mom07.htm#fr_1) The four cardinal
+<span id="fn_1"></span>[188:\*](mom07.htm#fr_1.md) The four cardinal
 virtues are referred to in both Plato's *Phædo* and the *Book of
 Wisdom*, ch. viii, 5-7, indicating community of teaching between the
 Greek and Hebrew schools.
 
-<span id="fn_2"></span>[190:\*](mom07.htm#fr_2) The thyrsus (or
+<span id="fn_2"></span>[190:\*](mom07.htm#fr_2.md) The thyrsus (or
 *Caduceus*) was an elaborate wand borne by the candidate, to the
 symbolism of which deep meaning attached. Its present form is the wand
 carried by the deacon accompanying the candidate.
 
-<span id="fn_3"></span>[195:\*](mom07.htm#fr_3) As this doctrine is not
+<span id="fn_3"></span>[195:\*](mom07.htm#fr_3.md) As this doctrine is not
 popularly inculcated in the West as it is in the East, and will be novel
 and probably unacceptable to some readers, its acceptance is not pressed
 here. We are merely recording what the secret doctrine teaches.

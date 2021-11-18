@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp07) [Next](ycgp09)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp07) [Next](ycgp09.md)
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 Y<span class="small">EN</span>-P<span class="small">ING</span>-C<span
 class="small">HUNG</span> asked Kuan-Yi-Wu<span
-id="page_43_fr_1"></span>[1](#page_43_note_1) as to cherishing life.
+id="page_43_fr_1"></span>[1](#page_43_note_1.md) as to cherishing life.
 
    Kuan-Yi-Wu replied:
 
@@ -80,7 +80,7 @@ death."
 
 ------------------------------------------------------------------------
 
-[Next](ycgp09)
+[Next](ycgp09.md)
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ death."
 
 <span id="footnotes_page_43">p. 43</span>
 
-<span id="page_43_note_1"></span>[1](#page_43_fr_1) Both famous
+<span id="page_43_note_1"></span>[1](#page_43_fr_1.md) Both famous
 statesmen of antiquity in the service of the dukes of Chi.
 
  

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst18)  [Next](myst20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst18)  [Next](myst20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -64,7 +64,7 @@ confined to any one religion. . . . From the medicine man of the lowest
 savages up to St. John, St. Peter, and St. Paul, with Buddha and Mahomet
 on the way, we find records which, though morally and intellectually
 much differing, are in psychological essence the same.”  <span
-id="fr_731"></span>[732](#fn_731)
+id="fr_731"></span>[732](#fn_731.md)
 
 <span id="an_iv.viii-p4"></span>There are three distinct aspects under
 which the ecstatic state may be studied: ( *a* ) the physical, ( *b* )
@@ -89,14 +89,14 @@ remaining in the exact position which it occupied at the oncoming of the
 ecstasy, however difficult and unnatural this pose may be. Sometimes
 entrancement is so deep that there is complete anaesthesia, as in the
 case which I quote from the life of St. Catherine of Siena.  <span
-id="fr_732"></span>[733](#fn_732) Credible witnesses report that
+id="fr_732"></span>[733](#fn_732.md) Credible witnesses report that
 Bernadette, the visionary of Lourdes, held the flaming end of a candle
 in her hand for fifteen minutes during one of her ecstasies. She felt no
 pain, neither did the flesh show any marks <span id="page_360">p.
 360</span> <span id="an_iv.viii-Page_360"></span> of burning. Similar
 instances of ecstatic anesthesia abound in the lives of the saints, and
 are also characteristic of certain pathological states.  <span
-id="fr_733"></span>[734](#fn_733)
+id="fr_733"></span>[734](#fn_733.md)
 
 <span id="an_iv.viii-p9"></span>The trance includes, according to the
 testimony of the ecstatics, two distinct phases—( *a* ) the short period
@@ -115,7 +115,7 @@ rapture comes on when it is standing or kneeling it remains so; and the
 soul is so full of the joy of that which Our Lord is setting before it,
 that it seems to forget to animate the body and abandons it. If the
 rapture lasts, the nerves are made to feel it.”  <span
-id="fr_734"></span>[735](#fn_734)
+id="fr_734"></span>[735](#fn_734.md)
 
 <span id="an_iv.viii-p11"></span>Such ecstasy as this, so far as its
 physical symptoms go, is not of course the peculiar privilege of the
@@ -149,10 +149,10 @@ which fills his life is so great a one—the idea of God—that, in
 proportion as it is vivid, real, and intimate, it inevitably tends to
 monopolize the field of consciousness. Here the emphasis is on the
 overpowering strength of spirit, not on the feeble and unhealthy state
-of body or mind.  <span id="fr_735"></span>[736](#fn_735) This true
+of body or mind.  <span id="fr_735"></span>[736](#fn_735.md) This true
 ecstasy, says Godferneaux, is not a malady, but “the extreme form of a
 state which must be classed amongst the ordinary accidents of conscious
-life.”  <span id="fr_736"></span>[737](#fn_736)
+life.”  <span id="fr_736"></span>[737](#fn_736.md)
 
 <span id="an_iv.viii-p15"></span>The mystics themselves are fully aware
 of the importance of this distinction. Ecstasies, no less than visions
@@ -169,7 +169,7 @@ Feminine Weakness. The other sort of Rapture is, on the contrary, the
 effect of pure intellectual vision in those who have a great and
 generous love for God. To generous souls who have utterly renounced
 themselves, God never fails in these raptures to communicate high
-things.”  <span id="fr_737"></span>[738](#fn_737)
+things.”  <span id="fr_737"></span>[738](#fn_737.md)
 
 <span id="an_iv.viii-p17"></span>All the mystics agree with Malaval in
 finding the test of a true ecstasy, not in its outward sign, but in its
@@ -187,11 +187,11 @@ disease, on the contrary is always bad for life. Its concentration being
 upon the lower instead of the higher levels of mentality, it depresses
 rather than enhances the vitality, the fervour, or the intelligence of
 its subject: and leaves behind it an enfeebled will, and often moral and
-intellectual chaos.  <span id="fr_738"></span>[739](#fn_738) “Ecstasies
+intellectual chaos.  <span id="fr_738"></span>[739](#fn_738.md) “Ecstasies
 that do not produce considerable profit either to the persons themselves
 or others, deserve to be suspected,” says Augustine Baker, “and when any
 marks of their approaching are perceived, the persons ought to divert
-their minds some other way.”  <span id="fr_739"></span>[740](#fn_739) It
+their minds some other way.”  <span id="fr_739"></span>[740](#fn_739.md) It
 is the difference between a healthy appetite for nourishing food and a
 morbid craving for garbage. The same organs of digestion are used in
 satisfying both: yet he would be a hardy physiologist who undertook to
@@ -210,7 +210,7 @@ there is evidence that Catherine of Genoa, that acute self-critic, was
 conscious of this. “Those who attended on her did not know how to
 distinguish one state from the other. And hence on coming to; she would
 sometimes say, ‘Why did you let me remain in this quietude, from which I
-have almost died?’”  <span id="fr_740"></span>[741](#fn_740) Her earlier
+have almost died?’”  <span id="fr_740"></span>[741](#fn_740.md) Her earlier
 ecstasies, on the contrary, had in a high degree the positive character
 of exaltation and life-enhancement consequent upon extreme concentration
 on the Absolute; as well as the merely negative character of
@@ -229,17 +229,17 @@ beyond herself, drawn by the impulse of love, she did this. And certain
 other times she remained for the space of six hours as if dead: but
 hearing herself called, suddenly she got up, and answering she would at
 once go about all that needed to be done even the humblest things.
- <span id="fr_741"></span>[742](#fn_741) And in thus leaving the All,
+ <span id="fr_741"></span>[742](#fn_741.md) And in thus leaving the All,
 she went without any grief, because she fled all selfhood (*la
 proprietà*) as if it were the devil. And when she came forth from her
 hiding-place her face was rosy as it might be a cherub’s; and it seemed
 as if she might have said, ‘Who shall separate me from the love of
-God?’”  <span id="fr_742"></span>[743](#fn_742) “Very often,” says St.
+God?’”  <span id="fr_742"></span>[743](#fn_742.md) “Very often,” says St.
 Teresa, describing the results of such rapturous communion with Pure
 Love as that from which St. Catherine came joyous and rosy-faced, “he
 who was before sickly and full of pain comes forth healthy and even with
 new strength: for it is something great that is given to the soul in
-rapture.”  <span id="fr_743"></span>[744](#fn_743)
+rapture.”  <span id="fr_743"></span>[744](#fn_743.md)
 
 <span id="an_iv.viii-p25"></span>B. Psychologically considered, all
 ecstasy is a form—the most perfect form—of the state which is
@@ -259,7 +259,7 @@ the mind. Contemplation implies exercise of will, and the power of
 interrupting the extreme tension of the mind. In ecstasy, which is
 contemplation carried to its highest pitch, the will, although in the
 strictest sense able to provoke the state, is nevertheless unable to
-suspend it.”  <span id="fr_744"></span>[745](#fn_744)
+suspend it.”  <span id="fr_744"></span>[745](#fn_744.md)
 
 <span id="an_iv.viii-p28"></span>In “complete mono-ideism” then, the
 attention to one thing and the inattention to all else, is so entire
@@ -307,12 +307,12 @@ sacraments and mysteries of faith have always provided such a *point
 d’appui*; and these often play a large part in the production of their
 ecstasies. For St. Catherine of Siena, and also very often for her
 namesake of Genoa, the reception of Holy Communion was the prelude to
-ecstasy. Julian of Norwich  <span id="fr_745"></span>[746](#fn_745) and
-St. Francis of Assissi  <span id="fr_746"></span>[747](#fn_746) became
+ecstasy. Julian of Norwich  <span id="fr_745"></span>[746](#fn_745.md) and
+St. Francis of Assissi  <span id="fr_746"></span>[747](#fn_746.md) became
 entranced whilst gazing on the crucifix. We are told of Denis the
 Carthusian that towards the end of his life, hearing the *Veni Creator*
 or certain verses of the psalms, he was at once rapt in God and lifted
-up from the earth.  <span id="fr_747"></span>[748](#fn_747) <span
+up from the earth.  <span id="fr_747"></span>[748](#fn_747.md) <span
 id="page_365">p. 365</span> <span id="an_iv.viii-Page_365"></span>
 
 <span id="an_iv.viii-p34"></span>Of St. Catherine of Siena, her
@@ -326,7 +326,7 @@ Another, “catching sight of her in the church when she was in ecstasy,
 came down and pricked her in many places with a needle. Catherine was
 not aroused in the least from her trance, but afterwards, when she came
 back to her senses, she felt the pain in her body and perceived that she
-had thus been wounded.”  <span id="fr_748"></span>[749](#fn_748)
+had thus been wounded.”  <span id="fr_748"></span>[749](#fn_748.md)
 
 <span id="an_iv.viii-p36"></span>It is interesting to compare with this
 objective description, the subjective account of ecstatic union which
@@ -365,7 +365,7 @@ not speak; except as the abundance of the heart will sometimes permit
 it, for the alleviation of the heart and the praise and glory of My
 Name. The hand does not touch and the feet walk not, because the members
 are bound with the sentiment of Love.”  <span
-id="fr_749"></span>[750](#fn_749)
+id="fr_749"></span>[750](#fn_749.md)
 
 <span id="an_iv.viii-p39"></span>A healthy ecstasy so deep as this seems
 to be the exclusive prerogative of the mystics: perhaps because so great
@@ -435,7 +435,7 @@ freedom, and is united for an instant with the “great life of the All.”
 point of view, is the development and completion of the orison of union,
 and he is not always at pains to distinguish the two degrees, a fact
 which adds greatly to the difficulties of students.  <span
-id="fr_750"></span>[751](#fn_750) In both states—though he may, for want
+id="fr_750"></span>[751](#fn_750.md) In both states—though he may, for want
 of better language, describe his experience in terms of sight—the
 Transcendent is perceived by contact, not by vision: as, enfolded in
 darkness with one whom we love, we obtain a knowledge far more complete
@@ -450,7 +450,7 @@ content to meet his Beloved. The true note of ecstasy, however, its only
 valid distinction from infused contemplation, lies in <span
 id="page_368">p. 368</span> <span id="an_iv.viii-Page_368"></span>
 *entrancement;* in “being ravished out of fleshly feeling,” as St. Paul
-caught up to the Third Heaven,  <span id="fr_751"></span>[752](#fn_751)
+caught up to the Third Heaven,  <span id="fr_751"></span>[752](#fn_751.md)
 not in “the lifting of mind unto God.” This, of course, is an outward
 distinction only, and a rough one at that, since entrancement has many
 degrees: but it will be found the only practical basis of
@@ -474,7 +474,7 @@ produce effects both within and without \[ *i.e.* , both physical and
 psychical\]. . . . A rapture is absolutely irresistible; whilst union,
 inasmuch as we are then on our own ground, may be hindered, though that
 resistance be painful and violent.”  <span
-id="fr_752"></span>[753](#fn_752)
+id="fr_752"></span>[753](#fn_752.md)
 
 <span id="an_iv.viii-p47"></span>From the point of view of mystical
 psychology, our interest in ecstasy will centre in two points. (1) What
@@ -512,13 +512,13 @@ gives life. And on this manner saints sometime are ravished, to their
 profit and other men’s learning; as Paul ravished to the third heaven.
 And on this manner sinners also in vision sometime are ravished, that
 they may see joys of saints and pains of damned for their correction.
- <span id="fr_753"></span>[754](#fn_753) And many other as we read of.
+ <span id="fr_753"></span>[754](#fn_753.md) And many other as we read of.
 Another manner of ravishing there is, that is lifting of mind into God
 by contemplation. And this manner of ravishing is in all that are
 perfect lovers of God, and in none of them but that love God. And as
 well this is called a ravishing as the other; for with a violence it is
 done, and as it were against nature.”  <span
-id="fr_754"></span>[755](#fn_754)
+id="fr_754"></span>[755](#fn_754.md)
 
 <span id="an_iv.viii-p52"></span>It is, however, very confusing to the
 anxious inquirer when—as too often—“lifting of mind by contemplation” is
@@ -536,14 +536,14 @@ short, and always an indescribable moment—in which he enjoys a supreme
 knowledge of or participation in Divine Reality. He tells us under
 various metaphors that he then attains Pure Being, his Source, his
 Origin, his Beloved: “is engulphed in the very thing for which he longs,
-which is God.”  <span id="fr_755"></span>[756](#fn_755) “Oh, wonder of
+which is God.”  <span id="fr_755"></span>[756](#fn_755.md) “Oh, wonder of
 wonders,” cries Eckhart, “when I think of the union the soul has with
 God! He makes the enraptured soul to flee out of herself, for she is no
 more satisfied with anything that can be named. The spring of <span
 id="page_370">p. 370</span> <span id="an_iv.viii-Page_370"></span>
 Divine Love flows out of the soul and draws her out of herself into the
 unnamed Being, into her first source, which is God alone.”  <span
-id="fr_756"></span>[757](#fn_756)
+id="fr_756"></span>[757](#fn_756.md)
 
 <span id="an_iv.viii-p56"></span>This momentary attainment of the
 Source, the Origin, is the theme of all descriptions of mystic ecstasy.
@@ -553,10 +553,10 @@ ascents. “The vision of the Infinite lasted only for a moment: when he
 came to himself he felt inundated with life and joy. He asked, ‘Where
 have I been?’ and he was answered, ‘In the upper school of the Holy
 Spirit. There you were surrounded by the dazzling pages of the Book of
-Divine Wisdom.  <span id="fr_757"></span>[758](#fn_757) Your soul
+Divine Wisdom.  <span id="fr_757"></span>[758](#fn_757.md) Your soul
 plunged therein with delight, and the Divine Master of the school has
 filled her with an exuberant love by which even your physical nature has
-been transfigured.’”  <span id="fr_758"></span>[759](#fn_758) Another
+been transfigured.’”  <span id="fr_758"></span>[759](#fn_758.md) Another
 Friend of God, Ellina von Crevelsheim, who was of so abnormal a psychic
 constitution that her absorption in the Divine Love caused her to remain
 dumb for seven years, was “touched by the Hand of God” at the end of
@@ -564,7 +564,7 @@ that period, and fell into a five-days’ ecstasy, in which “pure truth”
 was revealed to her, and she was lifted up to an immediate experience of
 the Absolute. There she “saw the interior of the Father’s heart,” and
 was “bound with chains of love, enveloped in light, and filled with
-peace and joy.”  <span id="fr_759"></span>[760](#fn_759)
+peace and joy.”  <span id="fr_759"></span>[760](#fn_759.md)
 
 <span id="an_iv.viii-p60"></span>In this transcendent act of union, the
 mystic sometimes says that he is “conscious of nothing.” But it is clear
@@ -576,7 +576,7 @@ longer recognizable or describable in human speech. In the paradoxical
 language of Richard of St. Victor, “In a wondrous fashion remembering we
 do not remember, seeing we do not see, understanding we not understand,
 penetrating we do not penetrate.”  <span
-id="fr_760"></span>[761](#fn_760) In this indescribable but most actual
+id="fr_760"></span>[761](#fn_760.md) In this indescribable but most actual
 state, the whole self, exalted and at white heat, is unified and poured
 out in one vivid act of impassioned perception, which leaves no room for
 reflection or self-observation. That aloof “somewhat” in us which
@@ -592,7 +592,7 @@ itself is at an end.
 > <span id="an_iv.viii-p61.4"></span> *All ceased, and I was not,*  
 > Leaving my cares and shame  
 > Among the lilies, and forgetting them.” <span
-> id="fr_761"></span>[762](#fn_761)  
+> id="fr_761"></span>[762](#fn_761.md)  
 
 <span id="an_iv.viii-p63"></span>This is that perfect unity of
 consciousness, that utter concentration on an experience of love, which
@@ -608,20 +608,20 @@ nought.”
 <span id="an_iv.viii-p64"></span>The ecstatic consciousness is not
 self-conscious: it is intuitive not discursive. Under the sway of a
 great passion, possessed by a great Idea, it has become “a single state
-of enormous intensity.”  <span id="fr_762"></span>[763](#fn_762) In this
+of enormous intensity.”  <span id="fr_762"></span>[763](#fn_762.md) In this
 state, it transcends our ordinary processes of knowledge, and plunges
 deep into the Heart of Reality. A fusion which is the anticipation of
 the unitive life takes place: and the ecstatic returns from this brief
 foretaste of freedom saying, “I know, as having known, the meaning of
 Existence; the sane centre of the universe—at once the wonder and the
-assurance of the soul.”  <span id="fr_763"></span>[764](#fn_763) “This
+assurance of the soul.”  <span id="fr_763"></span>[764](#fn_763.md) “This
 utter transformation of the soul in God,” says St. Teresa, describing
 the same experience in the official language of theology, “continues
 only for an instant: yet while it continues no faculty of the soul is
 aware of it, or knows what is passing there. Nor can it be understood
 while we are living on the earth; at least God will not have us
 understand it, because we must be incapable of understanding it. *I know
-is* by *experience.* ”  <span id="fr_764"></span>[765](#fn_764)
+is* by *experience.* ”  <span id="fr_764"></span>[765](#fn_764.md)
 Theutterances of those who know by experience are here of more worth
 than all the statements of psychology, which are concerned of necessity
 with the “outward signs” of this “inward and spiritual grace.” To these
@@ -640,7 +640,7 @@ rapture the soul disappears, but not yet entirely. It acquires, it is
 true, certain qualities of divinity, but does not naturally become
 divine. . . . To speak in the common language, the soul is rapt, by the
 divine power of resplendent Being, above its natural faculties, into the
-nakedness of the Nothing.”  <span id="fr_765"></span>[766](#fn_765)
+nakedness of the Nothing.”  <span id="fr_765"></span>[766](#fn_765.md)
 
 <span id="an_iv.viii-p70"></span>Here Suso is trying to describe his
 rapturous attainment of God in the negative terms of Dionysian theology.
@@ -665,7 +665,7 @@ nothing stirred within him, neither anger, nor desire, nor even reason,
 nor a certain intellectual perception nor, in short, was he himself
 moved, if we may assert this; but being in an ecstasy, tranquil and
 alone with God, he enjoyed an unbreakable calm.”  <span
-id="fr_766"></span>[767](#fn_766) Ecstasy, says Plotinus in another part
+id="fr_766"></span>[767](#fn_766.md) Ecstasy, says Plotinus in another part
 of the same treatise, is “another mode of seeing, a simplification and
 abandonment of oneself, a desire of contact, rest, and a striving after
 union.” All the phases of the contemplative experience seem to be summed
@@ -692,7 +692,7 @@ hearts: that “by love He may be gotten and holden, but by thought
 never.” He, no less than the mediaeval contemplatives, is convinced—to
 quote his own words—that the Vision is only for the desirous; for him
 who has that “loving passion” which “causes the lover to rest in the
-object of his love.”  <span id="fr_767"></span>[768](#fn_767) The simile
+object of his love.”  <span id="fr_767"></span>[768](#fn_767.md) The simile
 of marriage, of conjunction as the soul’s highest bliss, which we are
 sometimes told that we owe in part to the unfortunate popularity of the
 Song of Songs, in part to the sexual aberrations of celibate saints, is
@@ -714,7 +714,7 @@ highest levels accessible to the human soul. Self-mergence, then—that
 state of transcendence in which, the barriers of selfhood abolished, we
 “receive the communication of Life and of Beatitude, in which all things
 are consummated and all things are renewed”  <span
-id="fr_768"></span>[769](#fn_768) —is the secret of ecstasy, as it was
+id="fr_768"></span>[769](#fn_768.md) —is the secret of ecstasy, as it was
 the secret of contemplation. On their spiritual side the two states
 cannot, save for convenience of description, be divided. Where
 contemplation becomes expansive, out-going, self-giving, and receives a
@@ -739,7 +739,7 @@ id="an_iv.viii-Page_374"></span>
 > Tutto lo suo sentire  
 > en ben sí va notando,  
 > belleza contemplando  
-> la qual non ha colore.” <span id="fr_769"></span>[770](#fn_769)  
+> la qual non ha colore.” <span id="fr_769"></span>[770](#fn_769.md)  
 
 <span id="an_iv.viii-p77"></span>Thus sang Jacopone da Todi of the
 ecstatic soul: and here the descriptive powers of one who was both a
@@ -766,7 +766,7 @@ reveal the utmost secrets of the mystic life:—
 > Perché non ha tenuto  
 > en sé altra mistura,  
 > quel ben senza figura  
-> recere en abondanza.” <span id="fr_770"></span>[771](#fn_770) <span
+> recere en abondanza.” <span id="fr_770"></span>[771](#fn_770.md) <span
 > id="page_375">p. 375</span> <span id="an_iv.viii-Page_375"></span>  
 
 <span id="an_iv.viii-p80"></span>This ineffable “awareness,” <span
@@ -845,14 +845,14 @@ outward things, losing the senses and living unto God. But a transport
 comes on by one sole act of His Majesty, wrought in the innermost part
 of the soul with such swiftness that it is as if the higher part thereof
 were carried away, and the soul were leaving the body.”  <span
-id="fr_771"></span>[772](#fn_771)
+id="fr_771"></span>[772](#fn_771.md)
 
 <span id="an_iv.viii-p86"></span>Rapture, says St. Teresa in another
 place, “comes in general as a shock, quick and sharp, before you can
 collect your thoughts, or help yourself in any way; and you see and feel
 it as a cloud, or a strong eagle rising upwards and carrying you away on
 its wings. I repeat it: you feel and see yourself carried away, you know
-not whither.”  <span id="fr_772"></span>[773](#fn_772) This
+not whither.”  <span id="fr_772"></span>[773](#fn_772.md) This
 carrying-away sensation may even assume the concrete form which is known
 as levitation: when the upward and outward sensations so dominate the
 conscious field that the subject is convinced that she is raised bodily
@@ -866,15 +866,15 @@ indeed at first; for when I saw my body thus lifted up from the earth,
 how could I help it? Though the spirit draws it upwards after itself,
 and that with great sweetness if unresisted, the senses are not lost;
 *at least I was so much myself as to be able to see that I was being
-lifted up* .”  <span id="fr_773"></span>[774](#fn_773)
+lifted up* .”  <span id="fr_773"></span>[774](#fn_773.md)
 
 <span id="an_iv.viii-p89"></span>So Rulman Merswin said that in the
 rapture which accompanied his conversion, he was carried round the
 garden with his feet off the ground:  <span
-id="fr_774"></span>[775](#fn_774) and St. Catherine of Siena, in a
+id="fr_774"></span>[775](#fn_774.md) and St. Catherine of Siena, in a
 passage which I have already quoted, speaks of the strength of the
 spirit, which raises the body from the earth.  <span
-id="fr_775"></span>[776](#fn_775)
+id="fr_775"></span>[776](#fn_775.md)
 
 <span id="an_iv.viii-p92"></span>The subjective nature of this feeling
 of levitation is practically acknowledged by St. Teresa when she says,
@@ -885,7 +885,7 @@ the body is very often as it were dead, perfectly powerless. It
 continues in the position it was in when the rapture came upon it—if
 sitting, sitting.” Obviously here the outward conditions of physical
 immobility coexisted with the subjective sensation of being “lifted Up.”
- <span id="fr_776"></span>[777](#fn_776)
+ <span id="fr_776"></span>[777](#fn_776.md)
 
 <span id="an_iv.viii-p94"></span>The self’s consciousness when in the
 condition of rapture may vary from the complete possession of her
@@ -893,7 +893,7 @@ faculties claimed by St. Teresa to a complete entrancement. However
 abrupt the oncoming of the transport, it does not follow that the mystic
 instantly loses his surface-consciousness. “There remains the power of
 seeing and hearing; but it is as if the things heard and seen were at a
-great distance far away.”  <span id="fr_777"></span>[778](#fn_777) They
+great distance far away.”  <span id="fr_777"></span>[778](#fn_777.md) They
 have retreated, that is to say, to the fringe of the conscious field,
 but may still remain just within it. Though the senses may not be
 entirely entranced, however, it seems that the power of movement is
@@ -912,7 +912,7 @@ breathing can be detected. This condition lasts but a short while, I
 mean in the same degree, for when this profound suspension diminishes
 the body seems to come to itself and gain strength to return again to
 this *death* which gives more vigorous *life* to the soul.”  <span
-id="fr_778"></span>[779](#fn_778)
+id="fr_778"></span>[779](#fn_778.md)
 
 <span id="an_iv.viii-p98"></span>This spiritual storm, then, in St.
 Teresa’s opinion, enhances the vitality of those who experience it:
@@ -926,7 +926,7 @@ so transported out of itself that for a day, or sometimes for several
 days, such a person is incapable of attending to anything but what
 excites the will to the love of God; although wide awake enough to this,
 she seems asleep as regards all earthly matters.”  <span
-id="fr_779"></span>[780](#fn_779)
+id="fr_779"></span>[780](#fn_779.md)
 
 <span id="an_iv.viii-p100"></span>But when equilibrium is
 re-established, the true effects of this violent and beatific intuition
@@ -943,7 +943,7 @@ the Absolute, which assumes in ecstasy its most positive form, spurs him
 on towards that permanent union with the Divine which is his goal. “Such
 great graces,” says St. Teresa, “leave the soul avid of total possession
 of that Divine Bridegroom who has conferred them.”  <span
-id="fr_780"></span>[781](#fn_780)
+id="fr_780"></span>[781](#fn_780.md)
 
 <span id="an_iv.viii-p102"></span>Hence the ecstatic states do not
 merely lift the self to an abnormal degree of knowledge: they enrich her
@@ -973,7 +973,7 @@ place of the divine mystery and is surrounded on all sides by the fire
 of divine love, it is inwardly penetrated and inflamed by this fire, and
 utterly puts off itself and puts on a divine love: and being conformed
 to that Beauty which it has beheld, it passes utterly into that other
-glory.”  <span id="fr_781"></span>[782](#fn_781)
+glory.”  <span id="fr_781"></span>[782](#fn_781.md)
 
 <span id="an_iv.viii-p105"></span>Thus does the state of ecstasy
 contribute to the business of deification; of the remaking of the soul’s
@@ -989,29 +989,29 @@ deep but dazzling darkness of its home.
 
 ### Footnotes
 
-<span id="fn_731"></span>[359:732](myst19.htm#fr_731) <span
+<span id="fn_731"></span>[359:732](myst19.htm#fr_731.md) <span
 id="an_iv.viii-p2.1"></span>
 
 <span id="an_iv.viii-p3"></span> “Human Personality and its Survival of
 Bodily Death,” vol. ii. p. 260.
 
-<span id="fn_732"></span>[359:733](myst19.htm#fr_732) <span
+<span id="fn_732"></span>[359:733](myst19.htm#fr_732.md) <span
 id="an_iv.viii-p6.1"></span>
 
 <span id="an_iv.viii-p7"></span> *Vide infra,* p. 365.
 
-<span id="fn_733"></span>[360:734](myst19.htm#fr_733) <span
+<span id="fn_733"></span>[360:734](myst19.htm#fr_733.md) <span
 id="an_iv.viii-p7.1"></span>
 
 <span id="an_iv.viii-p8"></span> An interesting modern case is reported
 in the *Lancet,* 18 March, 1911.
 
-<span id="fn_734"></span>[360:735](myst19.htm#fr_734) <span
+<span id="fn_734"></span>[360:735](myst19.htm#fr_734.md) <span
 id="an_iv.viii-p9.1"></span>
 
 <span id="an_iv.viii-p10"></span> Relaccion, viii. 8.
 
-<span id="fn_735"></span>[361:736](myst19.htm#fr_735) <span
+<span id="fn_735"></span>[361:736](myst19.htm#fr_735.md) <span
 id="an_iv.viii-p12.1"></span>
 
 <span id="an_iv.viii-p13"></span> St. Thomas proves ecstasies to be
@@ -1023,38 +1023,38 @@ mind that sees the divine substance must be totally divorced from the
 bodily senses, either by death or *by* *some rapture”* (“Sultana contra
 Gentiles,” I. iii. cap. xlvii., Rickaby’s translation).
 
-<span id="fn_736"></span>[361:737](myst19.htm#fr_736) <span
+<span id="fn_736"></span>[361:737](myst19.htm#fr_736.md) <span
 id="an_iv.viii-p13.1"></span>
 
 <span id="an_iv.viii-p14"></span> “Sur la Psychologie du Mysticisme”
 *(Revue Philosophique,* February, 1902).
 
-<span id="fn_737"></span>[361:738](myst19.htm#fr_737) <span
+<span id="fn_737"></span>[361:738](myst19.htm#fr_737.md) <span
 id="an_iv.viii-p15.1"></span>
 
 <span id="an_iv.viii-p16"></span> Malaval, “La Pratique de la Vraye
 Théologie Mystique,” vol. i. p. 89.
 
-<span id="fn_738"></span>[362:739](myst19.htm#fr_738) <span
+<span id="fn_738"></span>[362:739](myst19.htm#fr_738.md) <span
 id="an_iv.viii-p17.1"></span>
 
 <span id="an_iv.viii-p18"></span> Pierre Janet (“The Major Symptoms of
 Hysteria,” p. 316) says that a lowering of the mental level in an
 invariable symptom or “stigma” of hysteria.
 
-<span id="fn_739"></span>[362:740](myst19.htm#fr_739) <span
+<span id="fn_739"></span>[362:740](myst19.htm#fr_739.md) <span
 id="an_iv.viii-p18.1"></span>
 
 <span id="an_iv.viii-p19"></span> “Holy Wisdom,” Treatise iii. § iv.
 cap. iii.
 
-<span id="fn_740"></span>[362:741](myst19.htm#fr_740) <span
+<span id="fn_740"></span>[362:741](myst19.htm#fr_740.md) <span
 id="an_iv.viii-p20.1"></span>
 
 <span id="an_iv.viii-p21"></span> Von Hügel, “The Mystical Element of
 Religion,” vol. i. p. 206 .
 
-<span id="fn_741"></span>[363:742](myst19.htm#fr_741) <span
+<span id="fn_741"></span>[363:742](myst19.htm#fr_741.md) <span
 id="an_iv.viii-p21.1"></span>
 
 <span id="an_iv.viii-p22"></span> This power of detecting and hearing
@@ -1064,70 +1064,70 @@ hears no sounds, save, in some cases, the voice of one specific person,
 which is always able to penetrate the trance. (“Les Maladies de la
 Volonté,” p. 125.)
 
-<span id="fn_742"></span>[363:743](myst19.htm#fr_742) <span
+<span id="fn_742"></span>[363:743](myst19.htm#fr_742.md) <span
 id="an_iv.viii-p22.1"></span>
 
 <span id="an_iv.viii-p23"></span> Vita e Dottrina, cap. v.
 
-<span id="fn_743"></span>[363:744](myst19.htm#fr_743) <span
+<span id="fn_743"></span>[363:744](myst19.htm#fr_743.md) <span
 id="an_iv.viii-p23.1"></span>
 
 <span id="an_iv.viii-p24"></span> Vida, cap. xx. § 29.
 
-<span id="fn_744"></span>[363:745](myst19.htm#fr_744) <span
+<span id="fn_744"></span>[363:745](myst19.htm#fr_744.md) <span
 id="an_iv.viii-p26.1"></span>
 
 <span id="an_iv.viii-p27"></span> A. Maury, “Le Sommeil et les Rèves,”
 p. 235.
 
-<span id="fn_745"></span>[364:746](myst19.htm#fr_745) <span
+<span id="fn_745"></span>[364:746](myst19.htm#fr_745.md) <span
 id="an_iv.viii-p30.1"></span>
 
 <span id="an_iv.viii-p31"></span> “Revelations of Divine Love,” cap.
 iii.
 
-<span id="fn_746"></span>[364:747](myst19.htm#fr_746) <span
+<span id="fn_746"></span>[364:747](myst19.htm#fr_746.md) <span
 id="an_iv.viii-p31.1"></span>
 
 <span id="an_iv.viii-p32"></span> *Vide* *supra,* p. 181.
 
-<span id="fn_747"></span>[364:748](myst19.htm#fr_747) <span
+<span id="fn_747"></span>[364:748](myst19.htm#fr_747.md) <span
 id="an_iv.viii-p32.1"></span>
 
 <span id="an_iv.viii-p33"></span> D. A. Mougel, “Denys le Chartreux,” p.
 32.
 
-<span id="fn_748"></span>[365:749](myst19.htm#fr_748) <span
+<span id="fn_748"></span>[365:749](myst19.htm#fr_748.md) <span
 id="an_iv.viii-p34.1"></span>
 
 <span id="an_iv.viii-p35"></span> E. Gardner, “St. Catherine of Siena,”
 p. 50.
 
-<span id="fn_749"></span>[366:750](myst19.htm#fr_749) <span
+<span id="fn_749"></span>[366:750](myst19.htm#fr_749.md) <span
 id="an_iv.viii-p37.1"></span>
 
 <span id="an_iv.viii-p38"></span> Dialogo, cap. lxxix.
 
-<span id="fn_750"></span>[367:751](myst19.htm#fr_750) <span
+<span id="fn_750"></span>[367:751](myst19.htm#fr_750.md) <span
 id="an_iv.viii-p42.1"></span>
 
 <span id="an_iv.viii-p43"></span> In the case of Dante, for instance, we
 do not know whether his absorption in the Eternal light did or did not
 entail the condition of trance.
 
-<span id="fn_751"></span>[368:752](myst19.htm#fr_751) <span
+<span id="fn_751"></span>[368:752](myst19.htm#fr_751.md) <span
 id="an_iv.viii-p43.1"></span>
 
 <span id="an_iv.viii-p44"></span> <span id="an_iv.viii-p44.1"></span>[2
-Cor. xii. 1-6](../../bib/kjv/co2012.htm#001)<span
+Cor. xii. 1-6](../../bib/kjv/co2012.htm#001.md)<span
 id="an_iv.viii-p44.1"></span>.
 
-<span id="fn_752"></span>[368:753](myst19.htm#fr_752) <span
+<span id="fn_752"></span>[368:753](myst19.htm#fr_752.md) <span
 id="an_iv.viii-p45.1"></span>
 
 <span id="an_iv.viii-p46"></span> Vida, cap. xx. §§ 1 and 3.
 
-<span id="fn_753"></span>[369:754](myst19.htm#fr_753) <span
+<span id="fn_753"></span>[369:754](myst19.htm#fr_753.md) <span
 id="an_iv.viii-p49.1"></span>
 
 <span id="an_iv.viii-p50"></span> Compare Dante, Letter to Can Grande,
@@ -1136,90 +1136,90 @@ their correction,” in support of his claim that the “Divine Comedy” is
 the fruit of experience, and that he had indeed “navigated the great Sea
 of Being” of which he writes.
 
-<span id="fn_754"></span>[369:755](myst19.htm#fr_754) <span
+<span id="fn_754"></span>[369:755](myst19.htm#fr_754.md) <span
 id="an_iv.viii-p50.1"></span>
 
 <span id="an_iv.viii-p51"></span> Richard Rolle, “The Fire of Love,” bk.
 ii. cap. vii.
 
-<span id="fn_755"></span>[369:756](myst19.htm#fr_755) <span
+<span id="fn_755"></span>[369:756](myst19.htm#fr_755.md) <span
 id="an_iv.viii-p53.1"></span>
 
 <span id="an_iv.viii-p54"></span> Dante, *loc. cit.*
 
-<span id="fn_756"></span>[370:757](myst19.htm#fr_756) <span
+<span id="fn_756"></span>[370:757](myst19.htm#fr_756.md) <span
 id="an_iv.viii-p54.1"></span>
 
 <span id="an_iv.viii-p55"></span> Eckhart, “On the Steps of the Soul”
 (Pfeiffer, p. 153).
 
-<span id="fn_757"></span>[370:758](myst19.htm#fr_757) <span
+<span id="fn_757"></span>[370:758](myst19.htm#fr_757.md) <span
 id="an_iv.viii-p56.1"></span>
 
 <span id="an_iv.viii-p57"></span> Compare Par. xxxiii. 85 ( *vide supra*
 , p. 135).
 
-<span id="fn_758"></span>[370:759](myst19.htm#fr_758) <span
+<span id="fn_758"></span>[370:759](myst19.htm#fr_758.md) <span
 id="an_iv.viii-p57.1"></span>
 
 <span id="an_iv.viii-p58"></span> Jundt, “Rulman Merswin,” p. 27. Note
 that this was a “good ecstasy,” involving healthful effects for life.
 
-<span id="fn_759"></span>[370:760](myst19.htm#fr_759) <span
+<span id="fn_759"></span>[370:760](myst19.htm#fr_759.md) <span
 id="an_iv.viii-p58.1"></span>
 
 <span id="an_iv.viii-p59"></span> Jundt, “Les Amis de Dieu,” p. 39.
 Given also by Rufus Jones, “Studies in Mystical Religion,” p. 271.
 
-<span id="fn_760"></span>[370:761](myst19.htm#fr_760) <span
+<span id="fn_760"></span>[370:761](myst19.htm#fr_760.md) <span
 id="an_iv.viii-p60.1"></span>
 
 <span id="an_iv.viii-p61"></span> “Benjamin Major.”
 
-<span id="fn_761"></span>[371:762](myst19.htm#fr_761) <span
+<span id="fn_761"></span>[371:762](myst19.htm#fr_761.md) <span
 id="an_iv.viii-p61.8"></span>
 
 <span id="an_iv.viii-p62"></span> St. John of the Cross, “En una Noche
 Escura.”
 
-<span id="fn_762"></span>[371:763](myst19.htm#fr_762) <span
+<span id="fn_762"></span>[371:763](myst19.htm#fr_762.md) <span
 id="an_iv.viii-p64.1"></span>
 
 <span id="an_iv.viii-p65"></span> Ribot, “Psychologie de l’Attention,”
 cap. iii.
 
-<span id="fn_763"></span>[371:764](myst19.htm#fr_763) <span
+<span id="fn_763"></span>[371:764](myst19.htm#fr_763.md) <span
 id="an_iv.viii-p65.1"></span>
 
 <span id="an_iv.viii-p66"></span> B. P. Blood. See William James, “A
 Pluralistic Mystic,” in the *Hibbert Journal,* July, 1910 .
 
-<span id="fn_764"></span>[371:765](myst19.htm#fr_764) <span
+<span id="fn_764"></span>[371:765](myst19.htm#fr_764.md) <span
 id="an_iv.viii-p66.1"></span>
 
 <span id="an_iv.viii-p67"></span> Vida, cap. xx. § 24.
 
-<span id="fn_765"></span>[372:766](myst19.htm#fr_765) <span
+<span id="fn_765"></span>[372:766](myst19.htm#fr_765.md) <span
 id="an_iv.viii-p68.1"></span>
 
 <span id="an_iv.viii-p69"></span> Leben, cap. vl.
 
-<span id="fn_766"></span>[372:767](myst19.htm#fr_766) <span
+<span id="fn_766"></span>[372:767](myst19.htm#fr_766.md) <span
 id="an_iv.viii-p70.1"></span>
 
 <span id="an_iv.viii-p71"></span> Ennead vi. 9
 
-<span id="fn_767"></span>[373:768](myst19.htm#fr_767) <span
+<span id="fn_767"></span>[373:768](myst19.htm#fr_767.md) <span
 id="an_iv.viii-p72.1"></span>
 
 <span id="an_iv.viii-p73"></span> *Op. cit., loc. cit.*
 
-<span id="fn_768"></span>[373:769](myst19.htm#fr_768) <span
+<span id="fn_768"></span>[373:769](myst19.htm#fr_768.md) <span
 id="an_iv.viii-p74.1"></span>
 
 <span id="an_iv.viii-p75"></span> Ruysbroeck, “De Calculo,” cap. xii.
 
-<span id="fn_769"></span>[374:770](myst19.htm#fr_769) <span
+<span id="fn_769"></span>[374:770](myst19.htm#fr_769.md) <span
 id="an_iv.viii-p75.19"></span>
 
 <span id="an_iv.viii-p76"></span> “The activity of the mind is lulled to
@@ -1230,7 +1230,7 @@ transformed, it hath another vesture. All its perceptions have gone
 forth to gaze upon the Good, and contemplate that Beauty which has no
 likeness” (Lauda xci.).
 
-<span id="fn_770"></span>[374:771](myst19.htm#fr_770) <span
+<span id="fn_770"></span>[374:771](myst19.htm#fr_770.md) <span
 id="an_iv.viii-p78.18"></span>
 
 <span id="an_iv.viii-p79"></span> “The doors are flung wide: conjoined
@@ -1241,33 +1241,33 @@ possesses that height of Unmeasured Perfection. Because it has not
 retained in itself the mixture of any other thing, it has received in
 abundance that Imageless Good” ( *op. cit* .).
 
-<span id="fn_771"></span>[376:772](myst19.htm#fr_771) <span
+<span id="fn_771"></span>[376:772](myst19.htm#fr_771.md) <span
 id="an_iv.viii-p84.1"></span>
 
 <span id="an_iv.viii-p85"></span> Relaccion viii. 8 and 10.
 
-<span id="fn_772"></span>[376:773](myst19.htm#fr_772) <span
+<span id="fn_772"></span>[376:773](myst19.htm#fr_772.md) <span
 id="an_iv.viii-p86.1"></span>
 
 <span id="an_iv.viii-p87"></span> Vida, cap. xx. § 3.
 
-<span id="fn_773"></span>[377:774](myst19.htm#fr_773) <span
+<span id="fn_773"></span>[377:774](myst19.htm#fr_773.md) <span
 id="an_iv.viii-p87.1"></span>
 
 <span id="an_iv.viii-p88"></span> St. Teresa, *op. cit., loc. cit.,* §§
 7 and 9.
 
-<span id="fn_774"></span>[377:775](myst19.htm#fr_774) <span
+<span id="fn_774"></span>[377:775](myst19.htm#fr_774.md) <span
 id="an_iv.viii-p89.1"></span>
 
 <span id="an_iv.viii-p90"></span> *Supra* , p. 186.
 
-<span id="fn_775"></span>[377:776](myst19.htm#fr_775) <span
+<span id="fn_775"></span>[377:776](myst19.htm#fr_775.md) <span
 id="an_iv.viii-p90.1"></span>
 
 <span id="an_iv.viii-p91"></span> Dialogo, cap. lxxix.
 
-<span id="fn_776"></span>[377:777](myst19.htm#fr_776) <span
+<span id="fn_776"></span>[377:777](myst19.htm#fr_776.md) <span
 id="an_iv.viii-p92.1"></span>
 
 <span id="an_iv.viii-p93"></span> Vida, cap, xx. § 23. At the same time
@@ -1276,28 +1276,28 @@ cases of levitation, it is impossible to dogmatise on this subject. The
 supernaturalist view is given in its extreme form by Farges, “Mystical
 Phenomena,” pp. 536 *seq.*
 
-<span id="fn_777"></span>[377:778](myst19.htm#fr_777) <span
+<span id="fn_777"></span>[377:778](myst19.htm#fr_777.md) <span
 id="an_iv.viii-p94.1"></span>
 
 <span id="an_iv.viii-p95"></span> Teresa, *loc. cit.*
 
-<span id="fn_778"></span>[378:779](myst19.htm#fr_778) <span
+<span id="fn_778"></span>[378:779](myst19.htm#fr_778.md) <span
 id="an_iv.viii-p96.1"></span>
 
 <span id="an_iv.viii-p97"></span> St. Teresa, “El Castillo Interior,”
 Moradas Sextas, cap. iv.
 
-<span id="fn_779"></span>[378:780](myst19.htm#fr_779) <span
+<span id="fn_779"></span>[378:780](myst19.htm#fr_779.md) <span
 id="an_iv.viii-p98.1"></span>
 
 <span id="an_iv.viii-p99"></span> *Op. cit., loc. cit* .
 
-<span id="fn_780"></span>[378:781](myst19.htm#fr_780) <span
+<span id="fn_780"></span>[378:781](myst19.htm#fr_780.md) <span
 id="an_iv.viii-p100.1"></span>
 
 <span id="an_iv.viii-p101"></span> St. Teresa, *op. cit.,* cap. vi.
 
-<span id="fn_781"></span>[379:782](myst19.htm#fr_781) <span
+<span id="fn_781"></span>[379:782](myst19.htm#fr_781.md) <span
 id="an_iv.viii-p103.1"></span>
 
 <span id="an_iv.viii-p104"></span> “De Quatuor Gradibus Violentae
@@ -1307,6 +1307,6 @@ Charitatis” (paraphrase).
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Dark Night of the Soul](myst20)
+[Next: IX. The Dark Night of the Soul](myst20.md)
 
 </div>

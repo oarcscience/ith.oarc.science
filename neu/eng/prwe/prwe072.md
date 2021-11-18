@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe071)  [Next](prwe073) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe071)  [Next](prwe073.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ but it cannot be necessary.
 
 ------------------------------------------------------------------------
 
-[Next: The Twelve-o'-clock Stone](prwe073)
+[Next: The Twelve-o'-clock Stone](prwe073.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ron06)  [Next](ron08) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ron06)  [Next](ron08.md) 
 
 ------------------------------------------------------------------------
 
@@ -472,4 +472,4 @@ departing hero*.\]
 
 ------------------------------------------------------------------------
 
-[Next: The First Act](ron08)
+[Next: The First Act](ron08.md)

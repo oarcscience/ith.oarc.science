@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic074)  [Next](lfic076) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic074)  [Next](lfic076.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ domestic.
 
 ------------------------------------------------------------------------
 
-[Next: Legend of the Lake of Inchiquin](lfic076)
+[Next: Legend of the Lake of Inchiquin](lfic076.md)

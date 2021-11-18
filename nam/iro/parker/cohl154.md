@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl153)  [Next](cohl155) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl153)  [Next](cohl155.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ session of the lodge was not one of the "regular" ones.
 
 ------------------------------------------------------------------------
 
-[Next: The Eagle Society](cohl155)
+[Next: The Eagle Society](cohl155.md)

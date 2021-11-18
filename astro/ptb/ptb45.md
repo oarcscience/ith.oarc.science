@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb44)  [Next](ptb46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb44)  [Next](ptb46.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,13 +61,13 @@ Hence, therefore, at the origin of the subjected matter, all the
 proper-ties and peculiarities of its contemperament must be observed;
 and then the subsequent events, which will happen at certain periods,
 sooner or later, are to be considered by means of the division of time,
-or the scale of the ensuing years. <span id="fr_120"></span>[1](#fn_120)
+or the scale of the ensuing years. <span id="fr_120"></span>[1](#fn_120.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_120"></span>[72:1](ptb45.htm#fr_120) The Division of Time
+<span id="fn_120"></span>[72:1](ptb45.htm#fr_120.md) The Division of Time
 is subsequently laid down by the author, in the last Chapter of the
 fourth Book.
 
@@ -75,4 +75,4 @@ fourth Book.
 
 [Next: Chapter II. The Conception and the Parturition, or Birth; by
 Which Latter Event the Animal Quits the Womb, and Assumes Another State
-of Existence](ptb46)
+of Existence](ptb46.md)

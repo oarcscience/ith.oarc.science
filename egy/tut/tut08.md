@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](tut07)  [Next](tut09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](tut07)  [Next](tut09.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ that of Ti, and transported to Thebes, where it was buried as her mummy.
 Dr. Elliot Smith examined the skeleton, and decided that it was that of
 a man 25 or 26 years of age, "without excluding the possibility that he
 may have been several years older." His evidence <span
-id="fr_42"></span>[1](#fn_42) is very important, for he adds, "The
+id="fr_42"></span>[1](#fn_42.md) is very important, for he adds, "The
 cranium, however, exhibits in an unmistakable manner the distortion
 characteristic of a condition of hydrocephalus." So then if the skeleton
 be that of Amenhetep IV, the king suffered from water on the brain; and
@@ -64,14 +64,14 @@ as the result of the
  
 
 <span id="img_pl07"></span> [![](tn/pl07.jpg)  
-Click to enlarge](img/pl07.jpg)  
+Click to enlarge](img/pl07.jpg.md)  
 *Plate VII*.  
 Portion of a painted stone tablet with a portrait figure of Amenhetep IV
 in hollow relief. On him shine the rays of Aten which terminate in human
 hands. British Museum, No. 24431.
 
 <span id="img_pl08"></span> [![](tn/pl08.jpg)  
-Click to enlarge](img/pl08.jpg)  
+Click to enlarge](img/pl08.jpg.md)  
 *Plate VIII*.  
 Portion of a head of a portrait figure of Amenhetep IV.  
 British Museum, No. 13366.
@@ -105,7 +105,7 @@ revolutionist," the "first *individual* in human history," etc. But, in
 view of the known facts of history, and Dr. Elliot Smith's remarks
 quoted above on the distortion of the skull of Amenhetep IV, we are
 fully justified in wondering with Dr. Hall if the king "was not really
-half insane." <span id="fr_43"></span>[1](#fn_43) None but a man half
+half insane." <span id="fr_43"></span>[1](#fn_43.md) None but a man half
 insane
 
 <span id="page_78">p. 78</span>
@@ -117,7 +117,7 @@ centred. He
  
 
 <span id="img_07800"></span> [![](tn/07800.jpg)  
-Click to enlarge](img/07800.jpg)  
+Click to enlarge](img/07800.jpg.md)  
 Aten, the great god, lord of heaven, from whom proceeds "life"; beneath
 is Amenhetep IV who is here represented conventionally as a Pharaoh.
 
@@ -160,7 +160,7 @@ his name of Shu-who-is-in-the-Disk."
 <span id="page_80">p. 80</span>
 
 It is followed by the words, "ever-living, eternal, great living Disk,
-he who is in the Set Festival, <span id="fr_44"></span>[1](#fn_44) lord
+he who is in the Set Festival, <span id="fr_44"></span>[1](#fn_44.md) lord
 of the Circle (*i.e.*, everything which the Disk shines on in every
 direction), lord of the Disk, lord of heaven, lord of the earth."
 Amenhetep IV worshipped Horus of the two horizons as the "Shu who was in
@@ -239,7 +239,7 @@ Without, apparently, considering the probable
  
 
 <span id="img_pl09"></span> [![](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 *Plate IX.*  
 Sphinx, with the head of Amenhetep IV, making an offering of Maat to
 Aten.
@@ -247,7 +247,7 @@ Aten.
  
 
 <span id="img_pl10"></span> [![](tn/pl10.jpg)  
-Click to enlarge](img/pl10.jpg)  
+Click to enlarge](img/pl10.jpg.md)  
 *Plate X.*  
 Two of the daughters of Amenhetep IV.  
 Reproduced by permission of the Egyptian Exploration Society.  
@@ -408,7 +408,7 @@ old
  
 
 <span id="img_08800"></span> [![](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)  
+Click to enlarge](img/08800.jpg.md)  
 Amenhetep IV, accompanied by his queen and family, making offerings to
 Aten.
 
@@ -447,7 +447,7 @@ mentioned on one of the Tall
  
 
 <span id="img_09000"></span> [![](tn/09000.jpg)  
-Click to enlarge](img/09000.jpg)  
+Click to enlarge](img/09000.jpg.md)  
 Amenhetep IV and his queen and family worshipping Aten.
 
  
@@ -455,7 +455,7 @@ Amenhetep IV and his queen and family worshipping Aten.
 <span id="page_91">p. 91</span>
 
 al-'Amarnah tablets in the British Museum under the form
-Hi-na-tu-na. <span id="fr_45"></span>[1](#fn_45)
+Hi-na-tu-na. <span id="fr_45"></span>[1](#fn_45.md)
 
 As the buildings increased in Aakhutaten and the cult of Aten developed,
 the king's love for his new city grew, and he devoted all his time to
@@ -466,7 +466,7 @@ rewarded for
  
 
 <span id="img_09100"></span> [![](tn/09100.jpg)  
-Click to enlarge](img/09100.jpg)  
+Click to enlarge](img/09100.jpg.md)  
 Amenhetep IV and his Queen Nefertiti bestowing gold-collars upon
 favourite courtiers. Between the king and queen is the princess
 Ankh-s-en-pa-Aten, who married Tutankhamen, and behind the queen are two
@@ -484,12 +484,12 @@ ceremonies of the Aten worship, but hymns
 <span id="page_92">p. 92</span>
 
 and songs and choruses must have filled the temple daily. And the stele
-of Tutankhamen proves (see [p. 9](tut04.htm#page_9)) that a considerable
+of Tutankhamen proves (see [p. 9](tut04.htm#page_9).md) that a considerable
 number of dancing men and acrobats were maintained by the king in
 connection with the service of Aten. Not only was the king no warrior,
 he was not even a lover of the chase. As he had no son to train in manly
 sports and to teach the arts of government and war, for his offspring
-consisted of seven daughters, <span id="fr_46"></span>[1](#fn_46) his
+consisted of seven daughters, <span id="fr_46"></span>[1](#fn_46.md) his
 officers must: have wondered how long the state in which they were then
 living would last. The life in the City of Aten was no doubt pleasant
 enough for the Court and the official classes, for the king was generous
@@ -498,14 +498,14 @@ old, he gave them when they died tombs in the hills in which to be
 buried. The names of many of these officers are well known, *e.g.*,
 Merira I, Merira II, Pa-nehsi (the Negro), Hui, Aahmes, Penthu, Mahu,
 Api, Rames, Suti, Nefer-kheperu-her-sekheper, Parennefer, Tutu, Ai, Mai,
-Ani, etc. <span id="fr_47"></span>[2](#fn_47)
+Ani, etc. <span id="fr_47"></span>[2](#fn_47.md)
 
 <span id="page_93">p. 93</span>
 
  
 
 <span id="img_09300"></span> [![](tn/09300.jpg)  
-Click to enlarge](img/09300.jpg)  
+Click to enlarge](img/09300.jpg.md)  
 Amenhetep IV and his Queen Nefertiti and some of the daughters seated
 with the rays of Aten falling upon them. The queen wears the disk, horns
 and plumes of Hathor and Isis. The abnormal development of the lower
@@ -555,7 +555,7 @@ Grasshoppers, the Field of Offerings in the
  
 
 <span id="img_09500"></span> [![](tn/09500.jpg)  
-Click to enlarge](img/09500.jpg)  
+Click to enlarge](img/09500.jpg.md)  
 The four grandsons of Horus the Aged. They were the gods of the four
 cardinal points, and later, as the sons of Osiris, protected the viscera
 of the dead.
@@ -612,7 +612,7 @@ General
  
 
 <span id="img_09700"></span> [![](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)  
+Click to enlarge](img/09700.jpg.md)  
 Amenhetep IV seated on his portable lion-throne beneath the rays of
 Aten; he holds in his hands the old Pharaonic symbols of
 sovereignty<span id="img_09701"></span> ![](img/09701.jpg) and
@@ -666,7 +666,7 @@ loyalty were coupled with requests for
  
 
 <span id="img_09900"></span> [![](tn/09900.jpg)  
-Click to enlarge](img/09900.jpg)  
+Click to enlarge](img/09900.jpg.md)  
 The rays of Aten giving "life" ☥ to Amenhetep IV whilst he is bestowing
 gifts on his favourite courtiers.
 
@@ -682,7 +682,7 @@ times did I fall down at the feet of the king
 my lord, both upon my belly and upon my back. Let the king, my lord,
 know that I am alone, and let the king, my lord, send troops in great
 multitudes, let the king, my lord, know this. <span
-id="fr_48"></span>[1](#fn_48)
+id="fr_48"></span>[1](#fn_48.md)
 
 The people of Tunip, who were vassals of Thothmes III, wrote and told
 the king that Aziru had plundered an Egyptian caravan, and that if help
@@ -771,7 +771,7 @@ and thick, protruding lips, and he was somewhat round-shouldered, and
 had a long slim body, and he must have had some deformity of knees and
 thighs. On the bas-reliefs and in the paintings all these physical
 characteristics are exaggerated, and the figures of the king are
-undignified caricatures. <span id="fr_49"></span>[1](#fn_49) But these
+undignified caricatures. <span id="fr_49"></span>[1](#fn_49.md) But these
 must have been made with the king's knowledge and approval, and must be
 faithful representations of him as he appeared to those who made them.
 In other words, they are examples of the realism in art (which he so
@@ -800,7 +800,7 @@ writing noteworthy events in his life. Up to the present nothing has
 been found at Tall al-'Amarnah or in Egypt which would lead us to
 suppose that his son Amenhetep IV copied his example, but a very
 interesting scarab found at Sadenga in the Egyptian Sudan <span
-id="fr_50"></span>[1](#fn_50) proves that he did, at least on one
+id="fr_50"></span>[1](#fn_50.md) proves that he did, at least on one
 occasion. This scarab is now in the British Museum (No. 51084). On one
 side of the body of the scarab is the king's prenomen and on the other
 is his nomen. the base, which is mutilated at the sides, are seven lines
@@ -833,7 +833,7 @@ interesting, for he was, of course, one of the "gods" whom Amenhetep IV
 at a later period of his life wished to abolish. Can this inscription
 represent an attempt to assimilate an indigenous Sudani Thunder-god with
 Aten? The writer of one of the Tall al-'Amarnah Letters quoted above
-([p. 101](#page_101)) speaks of the Thundering of Amenhetep IV, and says
+([p. 101](#page_101).md) speaks of the Thundering of Amenhetep IV, and says
 that when he thunders all the people quake with fear. From this it seems
 that some phase of Aten was associated in the minds of foreigners with
 the Thunder-god, but there is no evidence to show who that god was.
@@ -930,12 +930,12 @@ only here can possibly be found material for the real history of
 Amenhetep IV and his reign. The discoveries already made there prove
 this, for over three hundred Letters and Despatches written in cuneiform
 from kings and governors in Western Asia were found on the site by a
-woman in 1887, <span id="fr_51"></span>[1](#fn_51) and she sold them to
+woman in 1887, <span id="fr_51"></span>[1](#fn_51.md) and she sold them to
 a neighbour for 10 piastres (2*s*.). As a result of the woman's
 discovery Petrie made excavations at Tall al-'Amarnah and succeeded in
 finding several small fragments and chips of lists of signs and words,
 etc., and some beautifully painted pavements. <span
-id="fr_52"></span>[2](#fn_52) The Deutsche Orient-Gesellschaft began to
+id="fr_52"></span>[2](#fn_52.md) The Deutsche Orient-Gesellschaft began to
 excavate there in 1913, and in the year following they discovered a
 number of very important objects, among which may be specially mentioned
 a cuneiform tablet and a marvellously beautiful head of Queen Nefertiti,
@@ -962,7 +962,7 @@ it in 1914. During the course of the work a considerable number of very
 interesting objects were found, including a fragment of a cuneiform
 tablet, inscribed with a list of signs, and some fine examples of
 variegated glass vessels and pottery. The data he collected <span
-id="fr_53"></span>[1](#fn_53) answered a number of questions and settled
+id="fr_53"></span>[1](#fn_53.md) answered a number of questions and settled
 some difficulties, and the Society determined to continue their
 excavation of the site. In 1922 Mr. Woolley succeeded Prof. Peet as
 Director of the Expedition, and continued the work as long as funds
@@ -995,7 +995,7 @@ the "Shorter Hymn to Aten." Several copies of it have been found in the
 tombs at Tall al-'Amarnah. Texts of it have been published by Bouriant,
 Daressy, Piehl and others, but the most correct version is that copied
 from the tomb of Api and published by Mr. N. de G. Davies. <span
-id="fr_54"></span>[1](#fn_54) The second Hymn (B) is found in the tomb
+id="fr_54"></span>[1](#fn_54) The second Hymn (B.md) is found in the tomb
 of Ai, and is known as the "Longer Hymn to Aten." The text was first
 published by Bouriant in *Mission Archéologique*, tom. I, p. 2, but
 badly, and he revised it in his *Monuments du Culte d'Atonou*, I., pl.
@@ -1010,7 +1010,7 @@ Egypt*, p. 315, and in other publications. Other versions and extracts
 have been published by Griffith, *World's Literature*, p. 5225;
 Wiedemann, *Religion*, pp. 40-42; Hall, *Ancient History*, p. 306;
 Erman, *Religion*, p. 64, etc. The best text yet published is that of
-Davies <span id="fr_55"></span>[1](#fn_55) and that, with a few trivial
+Davies <span id="fr_55"></span>[1](#fn_55.md) and that, with a few trivial
 alterations, is reproduced in the following pages. In recent years this
 Hymn has been extolled as a marvellously beautiful religious
 composition, and parts of it have been compared with some of the Hebrew
@@ -1042,13 +1042,13 @@ the sun shining in full strength, "the golden-eyed, the golden-handed,
 and golden tongued." "As the Vivifier and Quickener, he raises his long
 arms of gold in the morning, rouses all beings from their slumber,
 infuses energy into them, and buries them in sleep in the
-evening." <span id="fr_56"></span>[1](#fn_56) Surya, the rising and
+evening." <span id="fr_56"></span>[1](#fn_56.md) Surya, the rising and
 setting sun, like Aten, was the great source of light and heat, and
 therefore Lord of life itself. He is the Dyaus Pitar, the
 "Heaven-Father." Aten, like Surya, was the "fountain of living
-Light," <span id="fr_57"></span>[2](#fn_57), with the all-seeing, eye,
+Light," <span id="fr_57"></span>[2](#fn_57.md), with the all-seeing, eye,
 whose beams revealed his presence, and "gleaming like brilliant flames
-" <span id="fr_58"></span>[3](#fn_58) went to nation after nation. Aten
+" <span id="fr_58"></span>[3](#fn_58.md) went to nation after nation. Aten
 was not only the light of the sun which seems to give new life to man
 and to ail creation, but the giver of light and all life in general. The
 bringer of light and life to-day, he is the same who brought light and
@@ -1077,7 +1077,7 @@ Light-giving Varuna! Thy piercing glance doth scan
 In quick succession all this stirring active world.  
 And penetrateth, too, the broad ethereal space,  
 Measuring our days and nights and spying out all creatures. <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 But Varuna possessed one attribute, which, so far as we know, was
 wanting in Aten; he spied out sin and judged the sinner. The early Aryan
@@ -1086,7 +1086,7 @@ sinned through want of power; be gracious. What great sin is it, Varuna,
 for which thou seekest in thy worshipper and friend? Tell me, O
 unassailable and self-dependent god; and, freed from sin, I shall
 speedily come to thee for adoration." <span
-id="fr_60"></span>[2](#fn_60)
+id="fr_60"></span>[2](#fn_60.md)
 
 <span id="page_115">p. 115</span>
 
@@ -1096,7 +1096,7 @@ him the Gayatri, a formula which is the mother of the Vedas and of the
 Brahmans. He said to the god, "May we attain the excellent glory of the
 divine Vivifier: so may he enlighten or stimulate our understanding."
 The words secured salvation for a man. <span
-id="fr_61"></span>[1](#fn_61) No consciousness of sin is expressed in
+id="fr_61"></span>[1](#fn_61.md) No consciousness of sin is expressed in
 any Aten text now known, and the Hymns to Aten contain no petition for
 spiritual enlightenment, understanding or wisdom. For what then did the
 follower of Aten pray? An answer to this question is given in the
@@ -1107,39 +1107,39 @@ rising,
 Say, Grant to me, I beseech, strength \[and\] health.  
 He will give thy provision for the life.  
 And thou shalt be safe from that which would terrify \[thee\]." <span
-id="fr_62"></span>[2](#fn_62)
+id="fr_62"></span>[2](#fn_62.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_42"></span>[75:1](tut08.htm#fr_42) See Davis, The Tomb of
+<span id="fn_42"></span>[75:1](tut08.htm#fr_42.md) See Davis, The Tomb of
 Queen Tiyi, London, 1910.
 
-<span id="fn_43"></span>[77:1](tut08.htm#fr_43) Ancient History of the
+<span id="fn_43"></span>[77:1](tut08.htm#fr_43.md) Ancient History of the
 Near East, p. 298.
 
-<span id="fn_44"></span>[80:1](tut08.htm#fr_44) The object of this
+<span id="fn_44"></span>[80:1](tut08.htm#fr_44.md) The object of this
 festival seems to have been to prolong the life of the king, who dressed
 himself as Osiris, and assumed the attributes of Osiris, and by means of
 the rites and ceremonies performed became absorbed into the god. In this
 way the king renewed his life and divinity.
 
-<span id="fn_45"></span>[91:1](tut08.htm#fr_45) Babylonian Room,
+<span id="fn_45"></span>[91:1](tut08.htm#fr_45.md) Babylonian Room,
 Table-Case F. No. 72 (29855).
 
-<span id="fn_46"></span>[92:1](tut08.htm#fr_46) The names of the seven
+<span id="fn_46"></span>[92:1](tut08.htm#fr_46.md) The names of the seven
 daughters of Aakhunaten were 1. Aten-merit, 2. Maket-Aten, 3.
 Ankh-s-en-pa-Aten, 4. Nefer-neferu-Aten the little, 5. Nefer-neferu-Ra,
 6. Setep-en-Ra, 7. Bakt-Aten. The first daughter married her father's
 co-regent, Sakara. The second died young and was buried in a tomb in the
 eastern hills. The third married Tutankhaten (Amen).
 
-<span id="fn_47"></span>[92:2](tut08.htm#fr_47) The tombs of all these
+<span id="fn_47"></span>[92:2](tut08.htm#fr_47.md) The tombs of all these
 have been admirably published by Davies, *The Rock Tombs of El-Amarna*.
 Six vols. London, 1903-08.
 
-<span id="fn_48"></span>[100:1](tut08.htm#fr_48) All these letters and
+<span id="fn_48"></span>[100:1](tut08.htm#fr_48.md) All these letters and
 reports are written in cuneiform upon clay tablets, of which over three
 hundred were found by a native woman at Tall al-'Amarnah in 1887-8.
 Summaries of the contents of those in the British Museum were published
@@ -1153,54 +1153,54 @@ of the six letters acquired by the Louvre in 1918, are published in
 from Palestinian governors and two from Syrian chiefs; the third is by
 the King of Egypt and is addressed to Intaruda, governor of Aksaph.
 
-<span id="fn_49"></span>[103:1](tut08.htm#fr_49) Some interesting
+<span id="fn_49"></span>[103:1](tut08.htm#fr_49.md) Some interesting
 remarks by Dr. H. Asselbergs on the old and new style of bas-relief work
 in the reign of Amenhetep IV, with a photographic reproduction of a
 block published by Prisse in his *Monuments*, plate 10, No. 1, will be
 found in *Aegyptische Zeitschrift*, Band 58 (1923), P. 36 ff.
 
-<span id="fn_50"></span>[104:1](tut08.htm#fr_50) It was first Published
+<span id="fn_50"></span>[104:1](tut08.htm#fr_50.md) It was first Published
 by Hall, Catalogue of Scarabs, p. 302.
 
-<span id="fn_51"></span>[109:1](tut08.htm#fr_51) This discovery has been
+<span id="fn_51"></span>[109:1](tut08.htm#fr_51.md) This discovery has been
 attributed to Petrie by Mr. Garvin in the *Observer*, February 25, 1923.
 I have told the true story of the "find" in my *Nile and Tigris*, Vol.
 I, p. 140 ff.
 
-<span id="fn_52"></span>[109:2](tut08.htm#fr_52) He dug there from
+<span id="fn_52"></span>[109:2](tut08.htm#fr_52.md) He dug there from
 November, 1891, to the end of March, 1892. See his *Tell el Amarna*,
 London, 1894, 4to.
 
-<span id="fn_53"></span>[110:1](tut08.htm#fr_53) See his preliminary
+<span id="fn_53"></span>[110:1](tut08.htm#fr_53.md) See his preliminary
 Report in the *Journal of Egyptian Archæology*, Vol. VII (1921), p. 169
 ff.
 
-<span id="fn_54"></span>[111:1](tut08.htm#fr_54) For the published
+<span id="fn_54"></span>[111:1](tut08.htm#fr_54.md) For the published
 literature see his *Rock Tombs*, Vol. IV, p. 28.
 
-<span id="fn_55"></span>[112:1](tut08.htm#fr_55) *Ibid*., Vol. VI, pl.
+<span id="fn_55"></span>[112:1](tut08.htm#fr_55.md) *Ibid*., Vol. VI, pl.
 xxvii.
 
-<span id="fn_56"></span>[113:1](tut08.htm#fr_56) Wilkins, *Hindu
+<span id="fn_56"></span>[113:1](tut08.htm#fr_56.md) Wilkins, *Hindu
 Mythology*, p. 33.
 
-<span id="fn_57"></span>[113:2](tut08.htm#fr_57) See Martin, *Gods of
+<span id="fn_57"></span>[113:2](tut08.htm#fr_57.md) See Martin, *Gods of
 India*, p. 35.
 
-<span id="fn_58"></span>[113:3](tut08.htm#fr_58) Monier-Williams,
+<span id="fn_58"></span>[113:3](tut08.htm#fr_58.md) Monier-Williams,
 *Indian Wisdom*, p. 19.
 
-<span id="fn_59"></span>[114:1](tut08.htm#fr_59) Monier-Williams'
+<span id="fn_59"></span>[114:1](tut08.htm#fr_59.md) Monier-Williams'
 translation.
 
-<span id="fn_60"></span>[114:2](tut08.htm#fr_60) Rig-Veda, VII, 86, 3-6.
+<span id="fn_60"></span>[114:2](tut08.htm#fr_60.md) Rig-Veda, VII, 86, 3-6.
 
-<span id="fn_61"></span>[115:1](tut08.htm#fr_61) Martin, *The Gods of
+<span id="fn_61"></span>[115:1](tut08.htm#fr_61.md) Martin, *The Gods of
 India*, p. 39.
 
-<span id="fn_62"></span>[115:2](tut08.htm#fr_62) *Hieratic Papyri in the
+<span id="fn_62"></span>[115:2](tut08.htm#fr_62.md) *Hieratic Papyri in the
 British Museum*, ed. Budge, 2nd Series, London, 1923, pl. 5.
 
 ------------------------------------------------------------------------
 
-[Next: A.--A Hymn to Aten by the King](tut09)
+[Next: A.--A Hymn to Aten by the King](tut09.md)

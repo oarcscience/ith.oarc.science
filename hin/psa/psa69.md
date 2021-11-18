@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa68)  [Next](psa70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa68)  [Next](psa70.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ to the descendants of Judoo.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXIX](psa70)
+[Next: Chapter LXIX](psa70.md)

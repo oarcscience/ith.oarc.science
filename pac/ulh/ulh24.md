@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh23)  [Next](ulh25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh23)  [Next](ulh25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="img_pl15"></span> <span align="CENTER"> [![PLATE XV&lt;br&gt;
 WOMAN PLAYING ON THE NOSE FLUTE (OHE-HANO-IHU)](tn/pl15.jpg)  
-Click to enlarge](img/pl15.jpg)  
+Click to enlarge](img/pl15.jpg.md)  
 PLATE XV  
 WOMAN PLAYING ON THE NOSE FLUTE (OHE-HANO-IHU)  
 </span>
@@ -53,15 +53,15 @@ The musical range of the nose-flute was very limited; it had but two or,
 at the most, three stops. The player with his left hand held the flute
 to the nostril, at the same time applying a finger of the same hand to
 keep the other nostril closed. With the fingers of his right hand he
-operated the stops ([pl. XV](#img_pl15)).
+operated the stops ([pl. XV](#img_pl15).md).
 
 *Mele*
 
 <div style="margin-left: 32px">
 
 E pi’ i ka nahele,  
-E ike ia Ka-wai-kini, <span id="fr_301"></span>[a](#fn_295)  
-Nana ia Pihana-ka-lani, <span id="fr_302"></span>[b](#fn_296)
+E ike ia Ka-wai-kini, <span id="fr_301"></span>[a](#fn_295.md)  
+Nana ia Pihana-ka-lani, <span id="fr_302"></span>[b](#fn_296.md)
 
 </div>
 
@@ -69,19 +69,19 @@ Nana ia Pihana-ka-lani, <span id="fr_302"></span>[b](#fn_296)
 
 <div style="margin-left: 32px">
 
-I kela manu hulu ma’e-ma’e, <span id="fr_303"></span>[a](#fn_297)  
+I kela manu hulu ma’e-ma’e, <span id="fr_303"></span>[a](#fn_297.md)  
 5 Noho pu me Ka-hale-lehua,  
-Punahele ia Kaua-kahi-alii. <span id="fr_304"></span>[b](#fn_298)  
-E Kaili, <span id="fr_305"></span>[c](#fn_299) e Kaili, e!  
+Punahele ia Kaua-kahi-alii. <span id="fr_304"></span>[b](#fn_298.md)  
+E Kaili, <span id="fr_305"></span>[c](#fn_299.md) e Kaili, e!  
 E Kaili, lau o ke koa,  
 E Kaili, lau o ke koa,  
 10 Moopuna a Hooipo-i-ka-Malanai, <span
-id="fr_306"></span>[d](#fn_300)  
-Hiwa-hiwa a ka Lehua-wehe! <span id="fr_307"></span>[e](#fn_301)  
+id="fr_306"></span>[d](#fn_300.md)  
+Hiwa-hiwa a ka Lehua-wehe! <span id="fr_307"></span>[e](#fn_301.md)  
 Aia ka nani i Wai-ehu,  
 I ka wai kaili puuwai o ka makemake.  
 Makemake au i ke kalukalu o Kewá, <span
-id="fr_308"></span>[f](#fn_302)  
+id="fr_308"></span>[f](#fn_302.md)  
 15 E he’e ana i ka nalu o Maka-iwa.  
 He iwa-iwa oe na ke aloha,  
 I Wai-lua nui hoano.  
@@ -140,7 +140,7 @@ island.
 
 ### Footnotes
 
-<span id="fn_295"></span>[135:a](ulh24.htm#fr_301) *Ida-wai-kini*. The
+<span id="fn_295"></span>[135:a](ulh24.htm#fr_301.md) *Ida-wai-kini*. The
 name of a rocky bluff that stands on the side of Mount Wai-ale-ale,
 looking to Wailua. It is said to divide the flow from the great morass,
 the natural reservoir formed by the hollow at the top of the mountain,
@@ -153,7 +153,7 @@ first two or three verses may be taken as if they were the utterance of
 this Wai-lua lover, saying "I will go up and see my sweetheart
 Ida-wai-kini."
 
-<span id="fn_296"></span>[135:b](ulh24.htm#fr_302) *Pihana-ka-lani*.
+<span id="fn_296"></span>[135:b](ulh24.htm#fr_302.md) *Pihana-ka-lani*.
 Literally, the fullness of heaven. This was a forest largely of lehua
 that covered the mountain slope below Ka-wai-kini. It seems as if the
 purpose of its mention was to represent the beauties and charms of the
@@ -163,15 +163,15 @@ princes--*alii kupua* the Hawaiians called them--<span id="page_136">p.
 sister *Ka-hale-lehua*. The second name mentioned was the one who
 married the famous heroine of the romantic story of *Laie-i-ka-wai*.
 
-<span id="fn_297"></span>[136:a](ulh24.htm#fr_303) *Manu hulu ma’ema’e*.
+<span id="fn_297"></span>[136:a](ulh24.htm#fr_303.md) *Manu hulu ma’ema’e*.
 An allusion to the great number of plumage birds that were reputed to be
 found in this place.
 
-<span id="fn_298"></span>[136:b](ulh24.htm#fr_304) *Puna-hale ia
+<span id="fn_298"></span>[136:b](ulh24.htm#fr_304.md) *Puna-hale ia
 Kaua-kahi-alii*. The birds of the region are said to have been on very
 intimate and friendly terms with Kaua-kahi-alii. (See note b, p. 135.)
 
-<span id="fn_299"></span>[136:c](ulh24.htm#fr_305) *Kaili*. The full
+<span id="fn_299"></span>[136:c](ulh24.htm#fr_305.md) *Kaili*. The full
 form is said to be *Ka-ili-lau-o-he-koa*--Skin-like-the-leaf-of-the-koa.
 In the text of the mele this name is analyzed into its parts and written
 as if the phrase at the end were an appellative and not an integral part
@@ -179,17 +179,17 @@ of the name itself. This was a mythical character of unusual beauty, a
 person of superhuman power, kupua, a mistress of the art of surf-riding,
 which passion she indulged in the waters about Wai-lua.
 
-<span id="fn_300"></span>[136:d](ulh24.htm#fr_306)
+<span id="fn_300"></span>[136:d](ulh24.htm#fr_306.md)
 *Hooipo-i-ha-Malanai*. A mythical princess of Wailua, the grandmother of
 Kaili. This oft-quoted phrase, literally meaning to make love in the
 (gently-blowing) trade-wind, has become almost a stock expression,
 standing for romantic love, or love-making.
 
-<span id="fn_301"></span>[136:e](ulh24.htm#fr_307) *Lehua-wehe*. The
+<span id="fn_301"></span>[136:e](ulh24.htm#fr_307.md) *Lehua-wehe*. The
 piece of ocean near the mouth of the Wailua river in which Kaili
 indulged her passion for surf-riding.
 
-<span id="fn_302"></span>[136:f](ulh24.htm#fr_308) *Kalu-kalu o Kewá*.
+<span id="fn_302"></span>[136:f](ulh24.htm#fr_308.md) *Kalu-kalu o Kewá*.
 *Kalu-kalu* may mean a species of soft, smooth grass specially fitted
 for sliding upon, which flourished on the inclined plain of Kewá, Kauai.
 One would sit upon a mat, the butt end of a coconut leaf, or a sled,
@@ -226,4 +226,4 @@ probability.
 
 ------------------------------------------------------------------------
 
-[Next: XXI.--The Music and Musical Instruments of the Hawaiians](ulh25)
+[Next: XXI.--The Music and Musical Instruments of the Hawaiians](ulh25.md)

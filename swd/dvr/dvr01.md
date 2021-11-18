@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dvr00) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dvr00.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ that they were not to be played with in a childish manner, but wisely.
 Afterwards there appeared a harlot, and then a horse lying dead. It was
 then perceived that thus was represented the sense of the letter of the
 Word, in which is the spiritual sense. <span
-id="fr_0"></span>[1-1](#fn_0) Those great purses filled with silver
+id="fr_0"></span>[1-1](#fn_0.md) Those great purses filled with silver
 signified the knowledges of truth in great abundance therein. That they
 were open and yet guarded by angels, signified that everyone may take
 thence the knowledges of truth, but that care must be taken lest its
@@ -289,7 +289,7 @@ the vowels there are for the sake of the sound, which corresponds to the
 affection, and that they cannot utter the vowels i and e, but for i they
 pronounce y or eu, and for e pronounce eu, and that the vowels a, o and
 u are in use with them, because these vowels give a full sound, while i
-and e have a close sound. <span id="fr_1"></span>[4-1](#fn_1) They said
+and e have a close sound. <span id="fr_1"></span>[4-1](#fn_1.md) They said
 further that they do not pronounce any consonants with aspiration, but
 with a smooth sound, and that the aspirated letters, as \_ \[dh\] and \_
 \[qh\] and others, do not mean anything to them, except when uttered
@@ -619,7 +619,7 @@ Babylon, and they who are of Babel, and have confirmed themselves in its
 falsities, are for the most part natural, sensual men, and these are
 neither able nor willing to apprehend what is spiritual, thus what is
 the correspondence of natural things with spiritual. <span
-id="fr_2"></span>[7-1](#fn_2) But after the Reformation, because they
+id="fr_2"></span>[7-1](#fn_2.md) But after the Reformation, because they
 began to make a distinction between faith and charity, and to worship
 one God under three Persons, the three Gods, whom they only named one,
 heavenly truths were then concealed from them, lest if revealed they
@@ -653,7 +653,7 @@ the spiritual sense of the Word has been revealed from the Lord, because
 the doctrine of genuine truth has now been revealed, which doctrine is
 partly contained in the Doctrine of the New Jerusalem, and now in the
 small works, which are being given to the public; <span
-id="fr_3"></span>[7-2](#fn_3) and because that doctrine, and no other,
+id="fr_3"></span>[7-2](#fn_3.md) and because that doctrine, and no other,
 agrees with the spiritual sense of the Word, therefore that sense,
 together with the science of correspondences, has now for the first time
 been disclosed. That sense is also signified by the Lord's appearing in
@@ -784,7 +784,7 @@ spiritual and angels.
 
 <span class="margnote"><span id="10.">10.</span></span>
 
-X. THE ULTIMATE SENSE OF THE WORD, <span id="fr_4"></span>[10-1](#fn_4)
+X. THE ULTIMATE SENSE OF THE WORD, <span id="fr_4"></span>[10-1](#fn_4.md)
 WHICH IS THE SENSE OF THE LETTER ONLY, CORRESPONDS TO THE BEARD, AND TO
 THE HAIRS OF THE HEAD, ON A MAN ANGEL. That the hairs of the head and
 the beard correspond to the Word in its ultimates, may seem strange when
@@ -1572,7 +1572,7 @@ created, and so finite.
 
 <span class="margnote"><span id="26.">26.</span></span>
 
-XXVI. <span id="fr_5"></span>[26-1](#fn_5) \[THE WORD WITH THE SPIRITUAL
+XXVI. <span id="fr_5"></span>[26-1](#fn_5.md) \[THE WORD WITH THE SPIRITUAL
 ANGELS.\] Exploration was made as to how the spiritual angels express
 the words of their speech, and it was found that they express or speak
 them according to ideas, and from the ideas of the things which they
@@ -1598,33 +1598,33 @@ spoken of, or illumination and enlightenment; and to fire or spiritual
 heat when heavenly fire is spoken of, as that which enkindles hearts,
 not knowing that fire and heat therefrom correspond to love, which is of
 the heart, that is, to the will, and light to truth, which is of the
-understanding. <span id="fr_6"></span>[26-2](#fn_6)
+understanding. <span id="fr_6"></span>[26-2](#fn_6.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[1-1](dvr01.htm#fr_0) \[MARGINAL NOTE.\] The
+<span id="fn_0"></span>[1-1](dvr01.htm#fr_0.md) \[MARGINAL NOTE.\] The
 sense of the letter is the foundation of the wall of Jerusalem and the
 twelve precious stones there; these are the Urim and Thummin upon the
 ephod of Aaron.
 
-<span id="fn_1"></span>[4-1](dvr01.htm#fr_1) We are to understand by all
+<span id="fn_1"></span>[4-1](dvr01.htm#fr_1.md) We are to understand by all
 these vowels their Continental, not their English sounds.
 
-<span id="fn_2"></span>[7-1](dvr01.htm#fr_2) \[MARGINAL NOTE.\] For thus
+<span id="fn_2"></span>[7-1](dvr01.htm#fr_2.md) \[MARGINAL NOTE.\] For thus
 they would be convinced that by Peter is not meant Peter, also that the
 Word even to its inmosts is Divine; and that a papal decree is of no
 account in comparison.
 
-<span id="fn_3"></span>[7-2](dvr01.htm#fr_3) The Four Leading
+<span id="fn_3"></span>[7-2](dvr01.htm#fr_3.md) The Four Leading
 Doctrines.--TR.
 
-<span id="fn_4"></span>[10-1](dvr01.htm#fr_4) \[MARGINAL NOTE.\] From
+<span id="fn_4"></span>[10-1](dvr01.htm#fr_4.md) \[MARGINAL NOTE.\] From
 the correspondence of natural things with spiritual, the ultimate sense
 of the word is meant by the twelve precious stones or which the
 foundations of the wall of the New Jerusalem consisted.
 
-<span id="fn_5"></span>[26-1](dvr01.htm#fr_5) No number 25 is found.
+<span id="fn_5"></span>[26-1](dvr01.htm#fr_5.md) No number 25 is found.
 
-<span id="fn_6"></span>[26-2](dvr01.htm#fr_6) The manuscript ends here.
+<span id="fn_6"></span>[26-2](dvr01.htm#fr_6.md) The manuscript ends here.

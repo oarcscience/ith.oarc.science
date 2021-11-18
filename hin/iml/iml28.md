@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml27)  [Next](iml29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml27)  [Next](iml29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ fingers were unscorched by the flames. Water flows at his will, and as
 quickly it vanisheth. And lo! I beheld another marvel. When he lifted up
 flowers that had faded they were immediately refreshed, so that they had
 greater beauty and richer fragrance than before." <span
-id="fr_321"></span>[1](#fn_320)
+id="fr_321"></span>[1](#fn_320.md)
 
 Damayantí was fully assured that Váhuka was no other than her husband in
 altered form, and, weeping, she said softly: "Ah! go once again to the
@@ -137,7 +137,7 @@ when Damayantí, who had oft-times tried the food which had been cooked
 by her husband, tasted thereof, she uttered a loud cry in her anguish,
 and said: "Yon charioteer is Nala!"
 
-Then she sipped water of ablution, <span id="fr_322"></span>[2](#fn_321)
+Then she sipped water of ablution, <span id="fr_322"></span>[2](#fn_321.md)
 and sent her two children with Keśiní to the kitchen. Immediately that
 the charioteer beheld Indrasena and her brother he embraced them
 tenderly: he gazed lovingly upon the children, who were as beautiful as
@@ -191,7 +191,7 @@ sternly, "may a high-born lady choose her another husband, as thou
 wouldst fain do, even now, O faint heart? The heralds have gone up and
 down the land saying: '*The daughter of Bhima will hold her second
 swayamvara because such is her fancy*.' And for this reason Rituparna
-made haste to come hither." <span id="fr_323"></span>[1](#fn_322)
+made haste to come hither." <span id="fr_323"></span>[1](#fn_322.md)
 
 Damayantí shook with emotion when these hard words were spoken, and she
 addressed Nala, saying: "Do not suspect me, O noble one, of such
@@ -202,7 +202,7 @@ this stratagem with purpose to bring thee hither. Faithful of heart have
 I remained, nor ever have I thought evil of thee. I call upon the wind
 to slay me now if I have sinned: on the sun I call also and on the moon,
 which enters into every thought of living beings. Let these three gods
-who govern the three worlds <span id="fr_324"></span>[2](#fn_323) speak
+who govern the three worlds <span id="fr_324"></span>[2](#fn_323.md) speak
 now to prove my words, or else turn against me."
 
 <span id="page_370">p. 370</span>
@@ -215,7 +215,7 @@ daughter of Bhima: the daughter of Bhima hath found thee. Take now thine
 own wife to thy bosom."
 
 Even as the wind was speaking, flowers fell out of heaven all around
-them, <span id="fr_325"></span>[1](#fn_324) and the soft music of the
+them, <span id="fr_325"></span>[1](#fn_324.md) and the soft music of the
 gods floated down the wind. Nala marvelled greatly, and gazed with love
 upon the innocent Damayantí. Then he put on the holy garment and thought
 upon the king of serpents. Immediately he resumed his own form, and the
@@ -329,23 +329,23 @@ with munificence and devotion.
 
 ### Footnotes
 
-<span id="fn_320"></span>[367:1](iml28.htm#fr_321) The powers given Nala
+<span id="fn_320"></span>[367:1](iml28.htm#fr_321.md) The powers given Nala
 by the gods as marriage gifts are here illustrated.
 
-<span id="fn_321"></span>[367:2](iml28.htm#fr_322) A part of the
+<span id="fn_321"></span>[367:2](iml28.htm#fr_322.md) A part of the
 ceremony of purification. The mouth was washed after eating, drinking,
 expectorating, slumbering, &c.
 
-<span id="fn_322"></span>[369:1](iml28.htm#fr_323) According to the laws
+<span id="fn_322"></span>[369:1](iml28.htm#fr_323.md) According to the laws
 of Manu, second marriages were unlawful. Apparently, however, they were
 permissible at the early period of the poem, at least in some districts.
 
-<span id="fn_323"></span>[369:2](iml28.htm#fr_324) Heaven, the earth,
+<span id="fn_323"></span>[369:2](iml28.htm#fr_324.md) Heaven, the earth,
 and the underworld.
 
-<span id="fn_324"></span>[370:1](iml28.htm#fr_325) A sign of divine
+<span id="fn_324"></span>[370:1](iml28.htm#fr_325.md) A sign of divine
 approval and favour.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV. Story of Rama: How Sita was Won](iml29)
+[Next: Chapter XXIV. Story of Rama: How Sita was Won](iml29.md)

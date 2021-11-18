@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog00)  [Next](hlog02) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog00)  [Next](hlog02.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](hlog02)
+[Next: Foreword](hlog02.md)

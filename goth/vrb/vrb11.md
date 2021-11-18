@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vrb10)  [Next](vrb12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vrb10)  [Next](vrb12.md) 
 
 ------------------------------------------------------------------------
 
@@ -570,4 +570,4 @@ To share this companionship and to celebrate this bond.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Ten: Other Prayers and Invocations](vrb12)
+[Next: Chapter Ten: Other Prayers and Invocations](vrb12.md)

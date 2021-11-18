@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](dtp00)    [Page
-Index](pageidx)    [Text \[Zipped\]](dtp.txt.gz)
+[Contents](#contents)    [Start Reading](dtp00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](dtp.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -81,8 +81,8 @@ unforgettable and very compelling.
 
 This book is openly acknowledged as source material for many new age
 belief systems, including the once-popular "[I
-AM](../../eso/index.htm#iam)" movement (whose founder, Guy Ballard,
-[plagiarized](../../eso/um/index) extensively from this book), the
+AM](../../eso/index.htm#iam.md)" movement (whose founder, Guy Ballard,
+[plagiarized](../../eso/um/index) extensively from this book.md), the
 Lemurian Fellowship, and Elizabeth Claire Prophet. According to Shirley
 MacLaine, A Dweller on Two Planets jumped out of a bookshelf into her
 hands in a New Age bookstore in Hong Kong (and obviously had an big
@@ -94,82 +94,82 @@ such as Manly P. Hall.
 
 The Lemurian Fellowship published a sequel in 1940 titled *An Earth
 Dweller's Return*. This rehashed the plot of the original, and had some
-radically different maps, which I've included on the [maps page](dtp04).
+radically different maps, which I've included on the [maps page](dtp04.md).
 
 Introduction © 2002, John B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](dtp00)  
-[Index](dtp01)  
-[Glossary](dtp02)  
-[Amanuensis' Preface](dtp03)  
-[Maps](dtp04)  
+<span id="contents"></span> [Title Page](dtp00.md)  
+[Index](dtp01.md)  
+[Glossary](dtp02.md)  
+[Amanuensis' Preface](dtp03.md)  
+[Maps](dtp04.md)  
 <span id="section_000"></span>
 
 ### Book the First
 
-[Chapter I: Atlantis, Queen of the Waves](dtp05)  
-[Chapter II: Caiphul](dtp06)  
+[Chapter I: Atlantis, Queen of the Waves](dtp05.md)  
+[Chapter II: Caiphul](dtp06.md)  
 [Chapter III: Faith Is Knowledge Also, And It Giveth To Removing
-Mountains](dtp07)  
-[Chapter IV: Axte Incal, Axtuce Mun](dtp08)  
-[Chapter V: Life In Caiphul](dtp09)  
-[Chapter VI: No Good Thing Can Ever Perish](dtp10)  
-[Chapter VII: Contain Thyself](dtp11)  
-[Chapter VIII: A Grave Prophecy](dtp12)  
-[Chapter IX: Curing Crime](dtp13)  
-[Chapter X: Realization](dtp14)  
-[Chapter XI: The Recital](dtp15)  
-[Chapter XII: The Unexpected Happens](dtp16)  
-[Chapter XIII: The Language of the Soul](dtp17)  
-[Chapter XIV: The Adoption of Zailm](dtp18)  
-[Chapter XV: A Maternal Desertion](dtp19)  
-[Chapter XVI: The Voyage to Suern](dtp20)  
-[Chapter XVII: Rai Ni Incal--Ashes To Ashes](dtp21)  
-[Chapter XVIII: Le Grand Voyage](dtp22)  
-[Chapter XIX: A Well-Met Problem](dtp23)  
-[Chapter XX: Duplicity](dtp24)  
-[Chapter XXI: The Mistake of a Life](dtp25)  
-[Chapter XXII: Zailm Proposes](dtp26)  
-[Chapter XXIII: A Witness Before The Criminal](dtp27)  
-[Chapter XXIV: Devachan](dtp28)  
+Mountains](dtp07.md)  
+[Chapter IV: Axte Incal, Axtuce Mun](dtp08.md)  
+[Chapter V: Life In Caiphul](dtp09.md)  
+[Chapter VI: No Good Thing Can Ever Perish](dtp10.md)  
+[Chapter VII: Contain Thyself](dtp11.md)  
+[Chapter VIII: A Grave Prophecy](dtp12.md)  
+[Chapter IX: Curing Crime](dtp13.md)  
+[Chapter X: Realization](dtp14.md)  
+[Chapter XI: The Recital](dtp15.md)  
+[Chapter XII: The Unexpected Happens](dtp16.md)  
+[Chapter XIII: The Language of the Soul](dtp17.md)  
+[Chapter XIV: The Adoption of Zailm](dtp18.md)  
+[Chapter XV: A Maternal Desertion](dtp19.md)  
+[Chapter XVI: The Voyage to Suern](dtp20.md)  
+[Chapter XVII: Rai Ni Incal--Ashes To Ashes](dtp21.md)  
+[Chapter XVIII: Le Grand Voyage](dtp22.md)  
+[Chapter XIX: A Well-Met Problem](dtp23.md)  
+[Chapter XX: Duplicity](dtp24.md)  
+[Chapter XXI: The Mistake of a Life](dtp25.md)  
+[Chapter XXII: Zailm Proposes](dtp26.md)  
+[Chapter XXIII: A Witness Before The Criminal](dtp27.md)  
+[Chapter XXIV: Devachan](dtp28.md)  
 <span id="section_001"></span>
 
 ### Seven Shasta Scenes; Interlude
 
-[I](dtp29)  
-[II](dtp30)  
-[III](dtp31)  
-[IV](dtp32)  
-[V](dtp33)  
-[VI](dtp34)  
-[VII](dtp35)  
+[I](dtp29.md)  
+[II](dtp30.md)  
+[III](dtp31.md)  
+[IV](dtp32.md)  
+[V](dtp33.md)  
+[VI](dtp34.md)  
+[VII](dtp35.md)  
 <span id="section_002"></span>
 
 ### Book Second
 
-[Chapter I](dtp36)  
-[Chapter II: A Soul In Peril](dtp37)  
-[Chapter III: Take Therefore No Thought For the Morrow](dtp38)  
-[Chapter IV: Paying Life's Rewards](dtp39)  
-[Chapter V: Human Life On Venus](dtp40)  
-[Chapter VI: An Indirect Answer](dtp41)  
-[Chapter VII: The Desert Is Before Thy Feet](dtp42)  
-[Chapter VIII: Old Teachers Taught Of God](dtp43)  
-[Chapter IX: They Who Heed Have Peace](dtp44)  
-[Chapter X: After the Years, Return](dtp45)  
-[Chapter XI: Text: St. Matthew IV](dtp46)  
+[Chapter I](dtp36.md)  
+[Chapter II: A Soul In Peril](dtp37.md)  
+[Chapter III: Take Therefore No Thought For the Morrow](dtp38.md)  
+[Chapter IV: Paying Life's Rewards](dtp39.md)  
+[Chapter V: Human Life On Venus](dtp40.md)  
+[Chapter VI: An Indirect Answer](dtp41.md)  
+[Chapter VII: The Desert Is Before Thy Feet](dtp42.md)  
+[Chapter VIII: Old Teachers Taught Of God](dtp43.md)  
+[Chapter IX: They Who Heed Have Peace](dtp44.md)  
+[Chapter X: After the Years, Return](dtp45.md)  
+[Chapter XI: Text: St. Matthew IV](dtp46.md)  
 <span id="section_003"></span>
 
 ### Book the Third
 
-[Chapter I: Ye Shall Reap As Ye Have Sown. The Perception](dtp47)  
-[Chapter II: Job xxxviii:7](dtp48)  
+[Chapter I: Ye Shall Reap As Ye Have Sown. The Perception](dtp47.md)  
+[Chapter II: Job xxxviii:7](dtp48.md)  
 [Chapter III: Fair forms and hoary seers of ages put, an in one mighty
-sepulcher](dtp49)  
-[Chapter IV: The Fall Of Atlantis](dtp50)  
-[Chapter V: Man's Inhumanity To Man](dtp51)  
-[Chapter VI: Why Atlantis Perished](dtp52)  
-[Chapter VII: The Transfiguration](dtp53)  
-[Note By The Author](dtp54)  
+sepulcher](dtp49.md)  
+[Chapter IV: The Fall Of Atlantis](dtp50.md)  
+[Chapter V: Man's Inhumanity To Man](dtp51.md)  
+[Chapter VI: Why Atlantis Perished](dtp52.md)  
+[Chapter VII: The Transfiguration](dtp53.md)  
+[Note By The Author](dtp54.md)  

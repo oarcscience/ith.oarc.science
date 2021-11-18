@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort04)  [Next](kort06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort04)  [Next](kort06.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_12">p. 12</span>
 
-# I. Little-Bird-Man and Raven-Man. <span id="fr_8"></span>[1](#fn_8)
+# I. Little-Bird-Man and Raven-Man. <span id="fr_8"></span>[1](#fn_8.md)
 
 Raven-Man and Little-Bird-Man wooed (the daughter) of Big-Raven.
 Big-Raven preferred Little- Bird-Man. He said, "I will give my daughter
@@ -64,7 +64,7 @@ excrement?"--
 <span id="page_16">p. 16</span>
 
 \[paragraph continues\] "Why! it is because I have had no bread for a
-long time. <span id="fr_9"></span>[1](#fn_9) She said to him, "Enough,
+long time. <span id="fr_9"></span>[1](#fn_9.md) She said to him, "Enough,
 go away! You have done nothing to quiet this storm." He went away.
 Little-Bird-Man married Yini'a-ñawġut.
 
@@ -121,7 +121,7 @@ man!" and he felt flattered. Afterwards she killed him.
 
 Yini'a-ñawġut put Raven-Man's (head) on above. She said, "That spotted
 palate of yours, let it grow to be a fine cloudless sky!" <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 She came home. And they said to her, "What have you been doing?" She
 said, "I killed Raven-Man. He had the sun in his mouth." From that time
@@ -167,17 +167,17 @@ pack-sledges. They lived in joy. They staid there.
 
 ### Footnotes
 
-<span id="fn_8"></span>[12:1](kort05.htm#fr_8) Compare W. Jochelson, The
+<span id="fn_8"></span>[12:1](kort05.htm#fr_8.md) Compare W. Jochelson, The
 Koryak (Publications of the Jesup North Pacific Expedition, vol. vi),
 No. 82, p. 250.
 
-<span id="fn_9"></span>[16:1](kort05.htm#fr_9) This is meant
+<span id="fn_9"></span>[16:1](kort05.htm#fr_9.md) This is meant
 sarcastically. Bread is considered a delicacy among the Koryak. The
 Raven, who eats excrement, pretends to feed on bread.
 
-<span id="fn_10"></span>[20:1](kort05.htm#fr_10) These words are used
+<span id="fn_10"></span>[20:1](kort05.htm#fr_10.md) These words are used
 also as an incantation against bad weather.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Big-Raven and the Mice](kort06)
+[Next: 2. Big-Raven and the Mice](kort06.md)

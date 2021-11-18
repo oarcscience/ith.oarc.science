@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll12)  [Next](oll14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll12)  [Next](oll14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -31,7 +31,7 @@ themselves by the throne* (R.).)
 
   *Tupac Yupanqui*. This day, O Councillors and Chiefs,  
 Let all receive my benison;  
-You Holy Virgins of the Sun <span id="fr_60"></span>[1](#fn_60)  
+You Holy Virgins of the Sun <span id="fr_60"></span>[1](#fn_60.md)  
 Receive our father's tenderest care.  
 The realm, rejoicing, hails me king;  
 From deep recesses of my heart  
@@ -66,7 +66,7 @@ So many thousands of my men.
   *Rumi-ñaui*. Before his death thy father knew  
 Disaster had befallen me;  
 'Tis true, O King, it was my fault,  
-Like a stone <span id="fr_61"></span>[1](#fn_61) I gave my orders,  
+Like a stone <span id="fr_61"></span>[1](#fn_61.md) I gave my orders,  
 And volleying stones soon beat me down;  
 It was with stones I had to fight,  
 And in the end they crushed my men.  
@@ -84,7 +84,7 @@ Unless thy worthiness is proved.
   *Uillac Uma*. Not many days shall pass, O King,  
 E'er all the Antis are subdued.  
 I've seen it in the *quipu* roll,  
-Haste! Haste! thou Rumi Tunqui. <span id="fr_62"></span>[1](#fn_62)
+Haste! Haste! thou Rumi Tunqui. <span id="fr_62"></span>[1](#fn_62.md)
 
 \[*Exeunt*.
 
@@ -92,7 +92,7 @@ Haste! Haste! thou Rumi Tunqui. <span id="fr_62"></span>[1](#fn_62)
 
 ### Footnotes
 
-<span id="fn_60"></span>[382:1](oll13.htm#fr_60) *Intic Huamin Caccunan*
+<span id="fn_60"></span>[382:1](oll13.htm#fr_60.md) *Intic Huamin Caccunan*
 (*Intic Huarminca Caycuna*, correct), 'Ye women of the Sun.' Zegarra
 thought, on the authority of Garcilasso de la Vega, that these could not
 be select Virgins of the Sun, because the virgins were never allowed
@@ -103,10 +103,10 @@ greatest honour and respect. They took part in great receptions and
 festivals, and when they passed along the streets they had a guard of
 honour.
 
-<span id="fn_61"></span>[383:1](oll13.htm#fr_61) Rumi. He keeps playing
+<span id="fn_61"></span>[383:1](oll13.htm#fr_61.md) Rumi. He keeps playing
 upon his name.
 
-<span id="fn_62"></span>[384:1](oll13.htm#fr_62) Again playing upon the
+<span id="fn_62"></span>[384:1](oll13.htm#fr_62.md) Again playing upon the
 name of Rumi-ñaui. The High Priest calls for haste, so he substitutes
 *Tunqui* for Ñaui (eye), the *tunqui* (*Rupicola Peruviana*) being one
 of the most beautiful birds in the forests.
@@ -115,6 +115,6 @@ of the most beautiful birds in the forests.
 
 ------------------------------------------------------------------------
 
-[Next: Scene 3](oll14)
+[Next: Scene 3](oll14.md)
 
 </div>

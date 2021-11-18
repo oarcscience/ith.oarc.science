@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut39)  [Next](hut41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut39)  [Next](hut41.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXXVII.
 
-### Formula of Medicine to Protect Children in Strange Places. <span id="fr_81"></span>[1](#fn_81)
+### Formula of Medicine to Protect Children in Strange Places. <span id="fr_81"></span>[1](#fn_81.md)
 
 <span id="page_302">p. 302</span>
 
@@ -29,7 +29,7 @@ a time they returned. "Come, run into
 back where their mother lived. "Come, run into Lōh*w*ûnme (Bald Hill),"
 she told them. They went into Lōh*w*ûnme and came back into the middle
 of this world. "Come, run into Lōkyō," <span
-id="fr_82"></span>[1](#fn_82) she said to them. They came back again to
+id="fr_82"></span>[1](#fn_82.md) she said to them. They came back again to
 the middle of this world. "Come, Xaïsdilme (Hooker's Ridge) run in," she
 told them. They went and came back again. "Come, run into
 Yidatciñdinûndiñ (Weitchpec Butte)," she said. They came back again to
@@ -77,12 +77,12 @@ will accomplish what I did."
 
 ### Footnotes
 
-<span id="fn_81"></span>[299:1](hut40.htm#fr_81) Told at Hupa, December
+<span id="fn_81"></span>[299:1](hut40.htm#fr_81.md) Told at Hupa, December
 1901, by Emma Lewis.
 
-<span id="fn_82"></span>[303:1](hut40.htm#fr_82) A mountain near the
+<span id="fn_82"></span>[303:1](hut40.htm#fr_82.md) A mountain near the
 Eight-mile camp on the Redcap trail from Hupa to Orleans.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVIII. Formula of Woman's Love Medicine](hut41)
+[Next: XXXVIII. Formula of Woman's Love Medicine](hut41.md)

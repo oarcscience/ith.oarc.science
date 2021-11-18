@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc11)  [Next](sfoc13) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc11)  [Next](sfoc13.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ the mouth.
 
 ------------------------------------------------------------------------
 
-[Next: Selected List of Plants Used](sfoc13)
+[Next: Selected List of Plants Used](sfoc13.md)

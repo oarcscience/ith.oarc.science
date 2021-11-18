@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli09)  [Next](roli11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli09)  [Next](roli11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
 The Chungichnish worship was a religion of fear. When the people sent
 the sun, Temet, into the heavens, he was to watch the people as
-Tukmit, <span id="fr_44"></span>[40a](#fn_41) the Sky, also watches
+Tukmit, <span id="fr_44"></span>[40a](#fn_41.md) the Sky, also watches
 them, to see if anyone does wrong, such as stealing food during a fast.
 The North-star was also put there to watch and spy out everything. It is
 like our spirit.
@@ -47,14 +47,14 @@ It was rubbed on his body. But if anyone unauthorized touched it, he was
 punished.
 
 All of the things mentioned as First People <span
-id="fr_45"></span>[40b](#fn_42) were sacred to Chungichnish. There were
+id="fr_45"></span>[40b](#fn_42.md) were sacred to Chungichnish. There were
 many other things not remembered or not given in the list of them
 obtained. Tukmul, the sacred winnowing basket, has already been
 described.
 
 <span id="page_98">p. 98</span>
 
-The sacred stick, Sivut paviut, <span id="fr_46"></span>[40c](#fn_43)
+The sacred stick, Sivut paviut, <span id="fr_46"></span>[40c](#fn_43.md)
 was brought from one pueblo to another in a ceremony, and served the
 same purpose as money, being given in return for presents of food. These
 sticks were painted red, white, and black. The old Diegueño chief, Cinon
@@ -63,11 +63,11 @@ Springs, long since lost.
 
 The feather objects were sacred: the feather head-dress, the
 eagle-feather skirt, and the feather band or "rope," Luiseño
-tuminet, <span id="fr_47"></span>[40d](#fn_44) mentioned in the Diegueño
+tuminet, <span id="fr_47"></span>[40d](#fn_44.md) mentioned in the Diegueño
 story of Chaup. Of the only specimen seen by the author, one part is in
 the American Museum of Natural History, the remainder at the University
 of California, where it is number 1-9580 in the Museum of the Department
-of Anthropology ([Pl. 3](roli32.htm#img_pl03)) . This portion, very old
+of Anthropology ([Pl. 3](roli32.htm#img_pl03).md) . This portion, very old
 and much worn, is in three pieces, aggregating a total length of over
 seven feet, the longest single piece being five feet, with an average
 width of seven to eight inches. It is made of black feathers, four to
@@ -120,20 +120,20 @@ tourmaline formations.
 
 ### Footnotes
 
-<span id="fn_41"></span>[97:40a](roli10.htm#fr_44) Tukomit, night;
+<span id="fn_41"></span>[97:40a](roli10.htm#fr_44.md) Tukomit, night;
 tupash, sky.—S.
 
-<span id="fn_42"></span>[97:40b](roli10.htm#fr_45) See lists given in
+<span id="fn_42"></span>[97:40b](roli10.htm#fr_45.md) See lists given in
 the Creation myths below.
 
-<span id="fn_43"></span>[98:40c](roli10.htm#fr_46) Paviut, stick with
+<span id="fn_43"></span>[98:40c](roli10.htm#fr_46.md) Paviut, stick with
 crystal inserted in one end, and having a ceremonial use; shi’valum, sea
 shells; perhaps sivut or shi’vul denotes pieces of shell glued to the
 paviut.—S. The Diegueños call it Kotat.
 
-<span id="fn_44"></span>[98:40d](roli10.htm#fr_47) Tuminut, wide feather
+<span id="fn_44"></span>[98:40d](roli10.htm#fr_47.md) Tuminut, wide feather
 band slung over shoulder at tanish dance.—S.
 
 ------------------------------------------------------------------------
 
-[Next: The Image Ceremony](roli11)
+[Next: The Image Ceremony](roli11.md)

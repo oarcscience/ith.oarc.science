@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob28) 
-[Next](tob30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob28.md) 
+[Next](tob30.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob28) 
 
 <span id="img_wiar13"></span>
 
-![DEATH.](img/wiar13.jpg)  
+![DEATH.](img/wiar13.jpg.md)  
 DEATH.
 
    <span id="img_msar13"></span>
 
-![DEATH.](img/msar13.jpg)  
+![DEATH.](img/msar13.jpg.md)  
 DEATH.
 
 13\. מ
@@ -179,4 +179,4 @@ Death.
 
 ------------------------------------------------------------------------
 
-[Next: 14. Temperance](tob30)
+[Next: 14. Temperance](tob30.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot10)  [Next](lot12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot10)  [Next](lot12.md) 
 
 ------------------------------------------------------------------------
 
@@ -631,4 +631,4 @@ silent.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 12](lot12)
+[Next: Chapter 12](lot12.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku02)  [Next](tku04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku02)  [Next](tku04.md) 
 
 ------------------------------------------------------------------------
 
@@ -389,8 +389,8 @@ Furthermore, the first letter of the Bible is B, which is the initial
 letter of BRKH, *Berakhah*, blessing; and not A, which is that of ARR,
 *Arar*, cursing. Again, the letters of Berashith, taking their numerical
 powers, express the number of years between the Creation and the birth
-of Christ, thus:  <span id="fr_2"></span>[1](#fn_2)B = 2,000, R = 200,
- <span id="fr_3"></span>[1](#fn_2)A =
+of Christ, thus:  <span id="fr_2"></span>[1](#fn_2.md)B = 2,000, R = 200,
+ <span id="fr_3"></span>[1](#fn_2.md)A =
 
 <span id="page_13">p. 13</span>
 
@@ -600,7 +600,7 @@ clearly proved and made comprehensible to you, you will no longer
 
 33\. In the "Bhagavadgîtâ," ch. ix., it is said: "I am Immortality and
 also death; and I, O Arguna! am that which is and that which is
-not." <span id="fr_4"></span>[1](#fn_3) And again (ch. ix.): "And, O
+not." <span id="fr_4"></span>[1](#fn_3) And again (ch. ix..md): "And, O
 descendant of Bharata! see wonders in numbers, unseen before. Within my
 body, O Gudâkesa! see to-day the whole universe, including everything
 movable and immovable, all in one." And again (*ibid*.) Arguna said: "O
@@ -689,7 +689,7 @@ Sephiroth, Kether, the Crown, the First Sephira; which therefore may be
 said to be the Malkuth or number ten of the hidden Sephiroth. (See Plate
 II.). Thus, "Kether is in Malkuth, and Malkuth is in Kether." Or, as an
 alchemical author of great repute (Thomas Vaughan, better known as
-Eugenius Philalethes) says, <span id="fr_5"></span>[1](#fn_4)
+Eugenius Philalethes) says, <span id="fr_5"></span>[1](#fn_4.md)
 
  
 
@@ -1155,7 +1155,7 @@ Atziloth, Briah, Yetzirah, and Asiah; and again, the Tetragrammaton is
 said to go forth written in a certain manner in each of these four
 worlds. The secret name of Atziloth is *Aub*, OB; that of Briah is
 *Seg*, SG; that of Yetzirah is *Mah*, MH; and that of Asiah is
-*Ben*, <span id="fr_6"></span>[1](#fn_5) BN. The subjoined Table will
+*Ben*, <span id="fr_6"></span>[1](#fn_5.md) BN. The subjoined Table will
 show the mode of writing the name in each of the four worlds.
 
 69\. These names operate together with the Sephiroth through the "231
@@ -1187,7 +1187,7 @@ have before remarked.
 71\. And "the mystery of the earthly and mortal man is after the mystery
 of the supernal and immortal One;" and thus was he created the image of
 God upon earth. In the form of the body is the Tetragrammaton found. The
-head is I, <span id="fr_7"></span>[1](#fn_6) the arms and shoulders are
+head is I, <span id="fr_7"></span>[1](#fn_6.md) the arms and shoulders are
 like H, the body is V, and the legs are represented by the H final.
 Therefore, as the outward form of man corresponds to the Tetragrammaton,
 so does the animating soul correspond to the ten supernal Sephiroth; and
@@ -1336,7 +1336,7 @@ are the nights with their dreams.
 by divine influence and reflex.
 
 "The angels aspire to become men, for the perfect man, the
-man-God, <span id="fr_8"></span>[1](#fn_7) is above every angel.
+man-God, <span id="fr_8"></span>[1](#fn_7.md) is above every angel.
 
 "The planetary lives are composed of ten dreams of a hundred years each,
 and each solar life is a thousand years; therefore is it said that a
@@ -1364,7 +1364,7 @@ soul; that is to say, the synthetical hieroglyph of the evil ideas, the
 Karma" of a man. And the Tzelem, or image, is double, for it reflects
 alike Michael and Samäel.
 
-76\. The following is Dr. Jellinek's <span id="fr_9"></span>[1](#fn_8)
+76\. The following is Dr. Jellinek's <span id="fr_9"></span>[1](#fn_8.md)
 analysis of the sephirotic ideas, according to the ethics of Spinoza:--
 
 1\. DEFINITION.--By the Being who is the cause and governor of all
@@ -1459,7 +1459,7 @@ successor--*i.e.*, be receptive and imparting.
 VI\. PROPOSITION.--The first Sephira is called *Inscrutable Height*, RVM
 MOLH, *Rom Maaulah*; the second, *Wisdom*, ChKMH, *Chokmah*; the third,
 *Intelligence*, BINH, *Binah*; the fourth, Love, ChSD, *Chesed*; the
-fifth, *Justice*, [PChD](errata.htm#0), *Pachad*; the sixth, *Beauty*,
+fifth, *Justice*, [PChD](errata.htm#0.md), *Pachad*; the sixth, *Beauty*,
 ThPARTh, *Tiphereth*; the seventh, *Firmness*, NTZCh, *Netzach*; the
 eighth, *Splendour*, HVD, *Hod*; the ninth, *the Righteous is the
 Foundation of the World*, TzDIQ ISVD OVLM, *Tzediq Yesod Olahm*; and the
@@ -1481,7 +1481,7 @@ flesh, and the tenth on the skin.
 
 (*e*) *Scholion*.--The first *Sephira* is like the concealed light, the
 second like sky-blue, the third like yellow, the fourth like white, the
-fifth like red, <span id="fr_10"></span>[1](#fn_9) the sixth like
+fifth like red, <span id="fr_10"></span>[1](#fn_9.md) the sixth like
 white-red,
 
 <span id="page_41">p. 41</span>
@@ -1515,7 +1515,7 @@ differences. The one is AHIH, *Eheieh*; the other is the V, *Vau*, of
 the Tetragrammaton. The first two letters, I and H, *Yod* and *He*, are
 the father and mother of Microprosopus, and the H final is his bride.
 But in these forms is expressed the equilibrium of severity and
-mercy; <span id="fr_11"></span>[1](#fn_10) severity being symbolized by
+mercy; <span id="fr_11"></span>[1](#fn_10.md) severity being symbolized by
 the two Hs, *Hes*, the mother and the bride, but especially by the
 latter. But while the excess of Mercy is not an evil tendency, but
 rather conveys a certain idea of weakness and want of force, too great
@@ -1544,34 +1544,34 @@ teaching there given.
 
 ### Footnotes
 
-<span id="fn_2"></span>[12:1](tku03.htm#fr_3) See note to the numerical
+<span id="fn_2"></span>[12:1](tku03.htm#fr_3.md) See note to the numerical
 values in the Table of the Hebrew Alphabet, &c.. Plate I.
 
-<span id="fn_3"></span>[18:1](tku03.htm#fr_4) Or, "which exists
+<span id="fn_3"></span>[18:1](tku03.htm#fr_4.md) Or, "which exists
 negatively."
 
-<span id="fn_4"></span>[20:1](tku03.htm#fr_5) "Euphrates; or, The Waters
+<span id="fn_4"></span>[20:1](tku03.htm#fr_5.md) "Euphrates; or, The Waters
 of the East."
 
-<span id="fn_5"></span>[32:1](tku03.htm#fr_6) BN, *Ben*, means "Son."
+<span id="fn_5"></span>[32:1](tku03.htm#fr_6.md) BN, *Ben*, means "Son."
 
-<span id="fn_6"></span>[34:1](tku03.htm#fr_7) See Plate I., the Table of
+<span id="fn_6"></span>[34:1](tku03.htm#fr_7.md) See Plate I., the Table of
 the Hebrew Alphabet, for the forms of the letters of the Tetragrammaton.
 
-<span id="fn_7"></span>[37:1](tku03.htm#fr_8) As distinguished from the
+<span id="fn_7"></span>[37:1](tku03.htm#fr_8.md) As distinguished from the
 God-man.
 
-<span id="fn_8"></span>[38:1](tku03.htm#fr_9) Beiträge zur Geschichte
+<span id="fn_8"></span>[38:1](tku03.htm#fr_9.md) Beiträge zur Geschichte
 der Kabbalah, Erstes Heft." Leipzig. 1852.
 
-<span id="fn_9"></span>[40:1](tku03.htm#fr_10) This mixture of white and
+<span id="fn_9"></span>[40:1](tku03.htm#fr_10.md) This mixture of white and
 red refers to Microprosopus, as will be seen in the greater and lesser
 Holy Assembly.
 
-<span id="fn_10"></span>[41:1](tku03.htm#fr_11) Regarding the
+<span id="fn_10"></span>[41:1](tku03.htm#fr_11.md) Regarding the
 equilibrium of severity and mercy of which the universe is the result.
 See especially Greater Holy Assembly," §838, *et seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](tku04)
+[Next: Chapter I](tku04.md)

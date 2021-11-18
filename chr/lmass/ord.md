@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](ord00) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](ord00.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 The Ordinary of the Mass (Latin/English), at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -819,6 +819,6 @@ puerórum*, &c*.
 <span id="page_477">p. 477</span>
 
 <span id="img_47700"></span> <span align="CENTER"> [![](tn/47700.jpg)  
-Click to enlarge](img/47700.jpg)</span>
+Click to enlarge](img/47700.jpg.md)</span>
 
  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm02)  [Next](bcm04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm02)  [Next](bcm04.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ Kabalistic doctrine edited in English a text of Ceremonial Magic,
 entitled *Clavicula Salomonis*, or, the *Key of Solomon the King*. In an
 introduction prefixed to the work he stated that he saw no reason to
 doubt, and therefore presumably accepted, the tradition of its
-authorship, <span id="fr_0"></span>[1](#fn_0) which in respect of the
+authorship, <span id="fr_0"></span>[1](#fn_0.md) which in respect of the
 critical sense may be taken to summarise his qualifications for a
 *mentor stultorum*. It should be added, as an additional light, that he
 undertook his translation more especially for the use of occult
@@ -212,7 +212,7 @@ aberration; nor has it been a pleasing exercise which has thus sought to
 make it plain, once and for all.
 
 <span id="img_xxix00"></span> [![](tn/generic.jpg)  
-Click to view](img/xxix00.jpg)  
+Click to view](img/xxix00.jpg.md)  
 A SERPENT BEFORE THE CURSE.  
 From the "*Speculum Salvationis*."
 
@@ -220,11 +220,11 @@ From the "*Speculum Salvationis*."
 
 ### Footnotes
 
-<span id="fn_0"></span>[xxv:1](bcm03.htm#fr_0) The work as it now stands
+<span id="fn_0"></span>[xxv:1](bcm03.htm#fr_0.md) The work as it now stands
 quotes Ezekiel, Daniel, the fourth Gospel, and mentions SS. Peter and
 Paul. Many of these anachronisms are to be found in the pentacles
 accompanying the text.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](bcm04)
+[Next: Introduction](bcm04.md)

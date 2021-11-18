@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr05)  [Next](ibr07) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr05)  [Next](ibr07.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ received,--Tuteloes, Nanticokes, Delawares and others. In the Onondaga
 portion of the book the younger tribes speak as "we three brothers." The
 earliest of the later accessions seems to have taken place about the
 year 1753, when the Tuteloes and Nanticokes were admitted. <span
-id="fr_30"></span>[1](#fn_30) These circumstances afford additional
+id="fr_30"></span>[1](#fn_30.md) These circumstances afford additional
 evidence that the Book was originally written prior to that date and
 subsequent to the year 1714, when the Tuscaroras were received into the
 League.
@@ -156,7 +156,7 @@ which, as usual, many changes of fortune took place. If the Hurons, as
 has been shown, were expelled from their abode on the northern shore of
 the St. Lawrence, the Mohegans, on the other hand, inflicted some
 serious blows upon the eastern nations of the confederacy. <span
-id="fr_31"></span>[1](#fn_31) The Delawares were not conquered and
+id="fr_31"></span>[1](#fn_31.md) The Delawares were not conquered and
 reduced to subjection without a long and sanguinary struggle. In a
 Condoling Council we might expect that the tone of feeling would be
 lugubrious; but the sense of loss and of danger is too marked in all the
@@ -229,7 +229,7 @@ her the title of Oyander, that is, honorable (*considérable*)--a title
 which they esteem highly, and which she had inherited from her
 ancestors, and deserved by her good judgment, her prudence, and her
 excellent conduct and at the same time they installed another in her
-place." <span id="fr_32"></span>[1](#fn_32)
+place." <span id="fr_32"></span>[1](#fn_32.md)
 
 The complete equality of the sexes in social estimation and influence is
 apparent in all the narratives of the early missionaries, who were the
@@ -251,13 +251,13 @@ rulers.
 
 ### Footnotes
 
-<span id="fn_30"></span>[59:1](ibr06.htm#fr_30) N.Y. Hist. Col., Vol. 6,
+<span id="fn_30"></span>[59:1](ibr06.htm#fr_30.md) N.Y. Hist. Col., Vol. 6,
 p. 811. Stone's Life of Sir William Johnson, p. 414.
 
-<span id="fn_31"></span>[63:1](ibr06.htm#fr_31) See the *Jesuit
+<span id="fn_31"></span>[63:1](ibr06.htm#fr_31.md) See the *Jesuit
 Relation* for 1660, p. 6.
 
-<span id="fn_32"></span>[65:1](ibr06.htm#fr_32) Relation of 1671, p. 6.
+<span id="fn_32"></span>[65:1](ibr06.htm#fr_32.md) Relation of 1671, p. 6.
 The word *oyander* in modern pronunciation becomes *oyaner*. It is
 derived from the root *yaner*, noble, and is the feminine form of the
 word *royaner*, lord, or nobleman,---the title applied to the members of
@@ -265,4 +265,4 @@ the federal council.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: The Laws of the League](ibr07)
+[Next: Chapter VI: The Laws of the League](ibr07.md)

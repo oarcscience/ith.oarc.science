@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes19)  [Next](nes21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes19)  [Next](nes21.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Your charms, and everything beside."</td>
 
 |                     |
 |---------------------|
-| ![M](img/minit.jpg) |
+| ![M](img/minit.jpg.md) |
 
 EANS were frequently taken to find out who was to be the husband or
 wife. There were various modes of doing this. Some of the incantations
@@ -83,7 +83,7 @@ Come aifter me, and pu’ me."
 
 \[paragraph continues\] On looking over the left shoulder she saw the
 apparition of him who was to be her mate crossing the ridges, as it
-were, in the act of pulling flax. <span id="fr_57"></span>[1](#fn_57)
+were, in the act of pulling flax. <span id="fr_57"></span>[1](#fn_57.md)
 
 *Fathoming a Rick*.--This incantation was performed by measuring or
 fathoming with the arms round a stack of oats or barley three times,
@@ -112,7 +112,7 @@ stream, or to a ford where the dead and the living crossed, and washed
 the sleeve of her shirt. She returned home, put on a large fire, and
 hung the shirt in front of it. She went to bed, and from it kept a
 careful watch. The apparition of him who was to be her partner in life
-came and turned the wet sleeve. <span id="fr_58"></span>[1](#fn_58)
+came and turned the wet sleeve. <span id="fr_58"></span>[1](#fn_58.md)
 
 *Roasting Peas*.--A live coal was taken, and two peas (nuts were not
 always to be had) were placed upon it, the one to represent the lad and
@@ -220,7 +220,7 @@ The lore about colours was embodied in these words:--
 Green  
 ’S love deen,  
 Yellow  
-’S forsaken. <span id="fr_59"></span>[1](#fn_59)
+’S forsaken. <span id="fr_59"></span>[1](#fn_59.md)
 
 Wooing was for the most part carried on under cover of night. At a late
 hour the young man set out for the abode of his lady-love. By the time
@@ -241,7 +241,7 @@ of the parents. At times the mothers might be let into the secret, but
 it was only after all the arrangements were completed the subject was
 broken to the fathers. The marriage day was either Tuesday or Thursday,
 more rarely Saturday, during the increase of the moon, and any month
-except May. <span id="fr_60"></span>[1](#fn_60) It was, however, unlucky
+except May. <span id="fr_60"></span>[1](#fn_60.md) It was, however, unlucky
 for two of a family to be married during the same year.
 
 In the interval between the final contract of marriage and its
@@ -305,7 +305,7 @@ have been the cause of troubles of many kinds during the married life.
 Between the Sunday on which the banns were published and the day of the
 marriage it was customary for the young friends of both bride and
 bridegroom on meeting them to "rub shoulders" with them, as if to catch
-the infection of marriage. <span id="fr_61"></span>[1](#fn_61)
+the infection of marriage. <span id="fr_61"></span>[1](#fn_61.md)
 
 On the evening before the marriage there was the "feet-washing." A few
 of the bridegroom's most intimate friends assembled at his house, when a
@@ -317,7 +317,7 @@ and nearly filled with water. The bridegroom was stripped of shoes and
 stockings, and his feet and legs were plunged in the water. One seized a
 besom, and began to rub them lustily, while another was busy besmearing
 them with soot or shoe-blacking, and a third was practising some other
-vagary. <span id="fr_62"></span>[1](#fn_62) Such a meeting could not
+vagary. <span id="fr_62"></span>[1](#fn_62.md) Such a meeting could not
 take place without the board of hospitality being spread.
 
 The state of the weather on the marriage day was watched most narrowly,
@@ -335,7 +335,7 @@ as can fall to the lot of man in time:--
 
 "Happy's the bride the sin shines on,  
 Happy's the corps the rain falls on." <span
-id="fr_63"></span>[2](#fn_63)
+id="fr_63"></span>[2](#fn_63.md)
 
 The bride was usually dressed by her maid, and every article of dress
 must be new. The bridal dress could on no account be fitted on. When it
@@ -358,7 +358,7 @@ dancing till the hour of going to church came.
 
 Two men, called the *sens*, were despatched from the house of be
 bridegroom to demand the bride. On making their appearance a volley of
-fire-arms met them. <span id="fr_64"></span>[1](#fn_64) When they came
+fire-arms met them. <span id="fr_64"></span>[1](#fn_64.md) When they came
 up to the door of the bride's home they asked,
 
 "Does ------ bide here?"
@@ -410,7 +410,7 @@ account could the bride and bridegroom meet on the marriage day till
 they met on the bride-stool. Such a meeting would have been followed by
 some calamity or series of calamities. After the celebration of the
 marriage the minister frequently kissed the bride. <span
-id="fr_65"></span>[1](#fn_65) In certain districts the bride pinned a
+id="fr_65"></span>[1](#fn_65.md) In certain districts the bride pinned a
 marriage favour to the minister's right arm. The two received the
 congratulations of all present.
 
@@ -429,7 +429,7 @@ from it. Bread and cheese and a *dram* were given as before to the
 *first fit* on the homeward journey. On coming near the house a few of
 the swiftest runners of the unmarried set out "to win the kail," and he
 or she who did so was the first of the party to be married. <span
-id="fr_66"></span>[2](#fn_66)
+id="fr_66"></span>[2](#fn_66.md)
 
 When the bride arrived, she was welcomed by the bridegroom's mother, if
 alive. If she was dead, the welcome was given by one of the bridegroom's
@@ -444,7 +444,7 @@ times an oatmeal cake was broken over her head. In later times a
 thin cake of "short-bread," called the bride-cake, was substituted for
 the oatmeal cake. It was distributed among the guests, who carefully
 preserved it, particularly the unmarried, who placed it below their
-pillows to "dream on." <span id="fr_67"></span>[1](#fn_67) In some
+pillows to "dream on." <span id="fr_67"></span>[1](#fn_67.md) In some
 districts, when the sieve was in the act of being placed over her head,
 or the bread broken, it was the bridegroom's duty to snatch her from
 below it. She was led straight to the hearth, and into her hands was put
@@ -490,7 +490,7 @@ The Presbytery also enacted laws for the prevention of excesses at
 disorders that falls out at penny brydals, speciali of plays and
 drunkennes, it is ordained that no persone heirefter sall be maryed
 wlnes thai consigue pands that thai be no abuse at theair brydall, vnder
-paine of tenne pund." <span id="fr_68"></span>[1](#fn_68)
+paine of tenne pund." <span id="fr_68"></span>[1](#fn_68.md)
 
 All the tables belonging to the household were called into use, and a
 few might be borrowed. If these were not sufficient, deals were placed
@@ -548,7 +548,7 @@ who wished to win favours. Two jumped to the floor, danced with the
 bride and her maid, and earned the honour on the left arm. Dancing was
 carried on far into the morning with the utmost vigour, each dance being
 begun and elided by the partners saluting each other. <span
-id="fr_69"></span>[1](#fn_69)
+id="fr_69"></span>[1](#fn_69.md)
 
 At intervals the dancing ceased, and all seated themselves, when bread
 and cheese and home-brewed ale and punch reeking hot were served round.
@@ -590,7 +590,7 @@ The one who fell asleep first was the first to die. "My ane’s awa noo,"
 an aged woman was heard to say not long ago, with the tears in her eyes,
 "an a myne weel he fell asleep first. A speert at ------ (another widow)
 gehn she mynt filk o’ them fell asleep first, bit she said she didna
-myne." <span id="fr_70"></span>[1](#fn_70) In other places it was
+myne." <span id="fr_70"></span>[1](#fn_70.md) In other places it was
 augured that the one who awoke first was the first to depart.
 
 If the husband arose before the wife, he carried the pains and sorrows
@@ -644,7 +644,7 @@ the marriage. A common form of words in giving the invitation
 
 is: "Ye ken faht’s adee the morn at twal o'clock. Come our, an fess a’
 yir oose wi ye," or, "Come ane, come athegeethir." <span
-id="fr_71"></span>[1](#fn_71) The number of guests is usually large,
+id="fr_71"></span>[1](#fn_71.md) The number of guests is usually large,
 ranging from forty to a hundred or a hundred and twenty.
 
 On the morning of the marriage day, the bride, after being decked in
@@ -727,7 +727,7 @@ without the danger
 <span id="page_100">p. 100</span>
 
 of being broken, as a looking-glass, a picture, a chimney
-ornament. <span id="fr_72"></span>[1](#fn_72)
+ornament. <span id="fr_72"></span>[1](#fn_72.md)
 
 In Crovie, in Banffshire, the marriage very often takes place on
 Saturday. During the week of the marriage the bridegroom does not go to
@@ -777,51 +777,51 @@ taken to the green to dance when music could be got.
 
 ### Footnotes
 
-<span id="fn_57"></span>[84:1](nes20.htm#fr_57) Cf. *F. L. Record*, vol.
+<span id="fn_57"></span>[84:1](nes20.htm#fr_57.md) Cf. *F. L. Record*, vol.
 i. p. 33 (107).
 
-<span id="fn_58"></span>[85:1](nes20.htm#fr_58) Cf. *F. L. Record*, vol.
+<span id="fn_58"></span>[85:1](nes20.htm#fr_58.md) Cf. *F. L. Record*, vol.
 i. p. 33 (108).
 
-<span id="fn_59"></span>[87:1](nes20.htm#fr_59) Cf. Henderson, p. 35,
+<span id="fn_59"></span>[87:1](nes20.htm#fr_59.md) Cf. Henderson, p. 35,
 and *F. L. Record*, vol. i. p. 12 (44, 45).
 
-<span id="fn_60"></span>[88:1](nes20.htm#fr_60) Cf. Henderson, p. 34.
+<span id="fn_60"></span>[88:1](nes20.htm#fr_60.md) Cf. Henderson, p. 34.
 *Usi nuzial*i, p. 196, De Gubernatis.
 
-<span id="fn_61"></span>[89:1](nes20.htm#fr_61) Cf. Henderson, p. 35.
+<span id="fn_61"></span>[89:1](nes20.htm#fr_61.md) Cf. Henderson, p. 35.
 
-<span id="fn_62"></span>[90:1](nes20.htm#fr_62) *Usi nuziali*, pp. 121
+<span id="fn_62"></span>[90:1](nes20.htm#fr_62.md) *Usi nuziali*, pp. 121
 and following, De Gubernatis.
 
-<span id="fn_63"></span>[90:2](nes20.htm#fr_63) Cf. Henderson, p. 34.
+<span id="fn_63"></span>[90:2](nes20.htm#fr_63.md) Cf. Henderson, p. 34.
 
-<span id="fn_64"></span>[91:1](nes20.htm#fr_64) Ralston's *Songs of the
+<span id="fn_64"></span>[91:1](nes20.htm#fr_64.md) Ralston's *Songs of the
 Russian People*, pp. 284, 285. *Usi nuziali*, pp. 131, 132, De
 Gubernatis. Cf. Henderson, p. 38.
 
-<span id="fn_65"></span>[92:1](nes20.htm#fr_65) Cf. Henderson, p. 39.
+<span id="fn_65"></span>[92:1](nes20.htm#fr_65.md) Cf. Henderson, p. 39.
 
-<span id="fn_66"></span>[92:2](nes20.htm#fr_66) *Ibid*. pp. 37, 41.
+<span id="fn_66"></span>[92:2](nes20.htm#fr_66.md) *Ibid*. pp. 37, 41.
 
-<span id="fn_67"></span>[93:1](nes20.htm#fr_67) Cf. Henderson, p. 36.
+<span id="fn_67"></span>[93:1](nes20.htm#fr_67.md) Cf. Henderson, p. 36.
 *Songs of the Russian People*, p. 280.
 
-<span id="fn_68"></span>[94:1](nes20.htm#fr_68) *Extracts from the
+<span id="fn_68"></span>[94:1](nes20.htm#fr_68.md) *Extracts from the
 Presbytery Book of Strathbogie*, p. 4. Spalding Club, Aberdeen, A.D.
 1843.
 
-<span id="fn_69"></span>[95:1](nes20.htm#fr_69) *Usi nuziali*, chap,
-xviii. p. 170, De [Gubernatis](errata.htm#0).
+<span id="fn_69"></span>[95:1](nes20.htm#fr_69.md) *Usi nuziali*, chap,
+xviii. p. 170, De [Gubernatis](errata.htm#0.md).
 
-<span id="fn_70"></span>[96:1](nes20.htm#fr_70) Cf. Henderson, p. 42.
+<span id="fn_70"></span>[96:1](nes20.htm#fr_70.md) Cf. Henderson, p. 42.
 
-<span id="fn_71"></span>[98:1](nes20.htm#fr_71) *Usi nuziali*, p. 119.
+<span id="fn_71"></span>[98:1](nes20.htm#fr_71.md) *Usi nuziali*, p. 119.
 De Gubernatis.
 
-<span id="fn_72"></span>[100:1](nes20.htm#fr_72) *Usi nuziali*, pp.
+<span id="fn_72"></span>[100:1](nes20.htm#fr_72.md) *Usi nuziali*, pp.
 113-115. De Gubernatis.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Place Rhymes](nes21)
+[Next: Chapter XVIII. Place Rhymes](nes21.md)

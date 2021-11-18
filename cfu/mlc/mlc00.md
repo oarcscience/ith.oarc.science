@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Next](mlc01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Next](mlc01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ Intangible Textual Heritage
 
 <span id="img_p000"></span> <span align="CENTER"> [![Frontispiece;
 Confucius: Teacher and Philosopher](tn/p000.jpg)  
-Click to enlarge](img/p000.jpg)  
+Click to enlarge](img/p000.jpg.md)  
 Frontispiece; Confucius: Teacher and Philosopher  
 </span>
 
@@ -52,6 +52,6 @@ Gladys Nina Chalmers Werner
 
 ------------------------------------------------------------------------
 
-[Next: Preface](mlc01)
+[Next: Preface](mlc01.md)
 
 </div>

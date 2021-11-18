@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb13)  [Next](olb15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb13)  [Next](olb15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -12,7 +12,7 @@ Textual Heritage
 
 ### <span class="smallcaps">Useful Extracts from the Writings left by Minno.</span>
 
-Minno <span id="fr_6"></span>[†](#fn_6) was an ancient sea-king. He was
+Minno <span id="fr_6"></span>[†](#fn_6.md) was an ancient sea-king. He was
 a seer and a philosopher, and he gave laws to the Cretans. He was born
 at Lindaoord, and after all his wanderings he had the happiness to die
 at Lindahem.
@@ -122,9 +122,9 @@ over every freeman's neck.
 
 ### Footnotes
 
-<span id="fn_6"></span>[43:†](olb14.htm#fr_6) *Minno*, *Minos* (the
+<span id="fn_6"></span>[43:†](olb14.htm#fr_6.md) *Minno*, *Minos* (the
 Ancient).
 
 ------------------------------------------------------------------------
 
-[Next: From Minno's Writings](olb15)
+[Next: From Minno's Writings](olb15.md)

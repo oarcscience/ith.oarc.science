@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws44)  [Next](cws46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws44)  [Next](cws46.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XLI
 
-#### CONCERNING THE TRUE EGO <span id="fr_163"></span>[1](#fn_163)
+#### CONCERNING THE TRUE EGO <span id="fr_163"></span>[1](#fn_163.md)
 
 \[This illumination followed upon a meditation on the following passage
 from G. H. Lewes: "The evolution of organisms, like the evolution of
@@ -88,7 +88,7 @@ and the power which causes this generation is centrifugal.
 
 ### Footnotes
 
-<span id="fn_163"></span>[99:1](cws45.htm#fr_163) Paris, December 6,
+<span id="fn_163"></span>[99:1](cws45.htm#fr_163.md) Paris, December 6,
 1882. Having previously studied materialistic science in Paris, Mrs
 Kingsford returned thither to study materialistic philosophy, when this
 and the following Illuminations, to No. XLVII inclusive, were received
@@ -100,4 +100,4 @@ Referred to in *Life of Anna Kingsford*, vol. ii, pp. 96-97.
 
 ------------------------------------------------------------------------
 
-[Next: No. XLII: Concerning God](cws46)
+[Next: No. XLII: Concerning God](cws46.md)

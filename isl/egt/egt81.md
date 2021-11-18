@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt80)  [Next](egt82) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt80)  [Next](egt82.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ decree! leave the black mire, lift thy feet out of it.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE DESIRE FOR GOD](egt82)
+[Next: ON THE DESIRE FOR GOD](egt82.md)

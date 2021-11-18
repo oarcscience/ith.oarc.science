@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kat01)  [Next](kat03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kat01)  [Next](kat03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ cleanse them. One may also repair the roads (streets), the market
 (public) places, and the spring-baths. In short, it is allowed to do
 whatever the exigencies of the public (service) require. Tombs may be
 marked, and messengers are to be sent out on account of possible
-Kilaim. <span id="fr_1"></span>[1](#fn_1)
+Kilaim. <span id="fr_1"></span>[1](#fn_1.md)
 
 GEMARA: As the Mishna permits irrigation from a newly sprung fountain,
 although its sides are likely to cave in, it is self-understood then
@@ -95,7 +95,7 @@ is for the purpose of indicating the extent of R. Meir's permission,
 viz., that dry land may be irrigated, and even from a newly sprung
 fountain. It was taught: "One who weeds or waters plants on Sabbath,
 against what principal labor must he be warned?" <span
-id="fr_2"></span>[1](#fn_2) Said Rabba: "Ploughing, as, these are
+id="fr_2"></span>[1](#fn_2.md) Said Rabba: "Ploughing, as, these are
 derivative from it." R. Joseph, however, said: "Sowing, as these are
 derivative from it."
 
@@ -269,7 +269,7 @@ order not to pass over them.) As R. Joshua b. Levi said: One who weighs
 his ways will be rewarded in seeing the salvation of the Holy One,
 blessed be He. As the Hebrew term of the above passage is "Vessom
 derech," do not read "vessom," but "veshom." <span
-id="fr_3"></span>[1](#fn_3) A pupil of R. Janai who was wont to ask
+id="fr_3"></span>[1](#fn_3.md) A pupil of R. Janai who was wont to ask
 questions of the latter whenever he was lecturing, refrained from doing
 so on the Sabbath preceding a holiday, when a multitude of people used
 to gather (for fear that R. Janai might not be able to answer him and
@@ -294,7 +294,7 @@ should be done unless there is the Elder (of the congregation) or a
 scholar, for not every one is experienced in such things." Said Abayi:
 "From this we may infer, that if there is a young scholar in the city,
 all the business of the congregation must be attended to by him" (if
-there is no one else [to do](errata.htm#12) it).
+there is no one else [to do](errata.htm#12) it.md).
 
 "*And messengers are to be sent out on account of Kilaim*." Were
 messengers sent out on the middle days? Have we not learned in a Mishna
@@ -357,7 +357,7 @@ Rabha bar Ishmael, and according to others R. Yemar bar Shlamia: Where
 is it mentioned in the Scripture that Ishuth is an eyeless insect? It is
 written \[Psalms, lviii. 9\]: "As a snail which melted, let him pass
 away, like the untimely birth of a woman: (Ehsheth) <span
-id="fr_4"></span>[1](#fn_4) *which hath not seen the sun*."
+id="fr_4"></span>[1](#fn_4.md) *which hath not seen the sun*."
 
 "*But that in a cornfield it must not be caught in the usual manner*."
 We have learned in a Boraitha: "R. Simeon ben Elazar (or ben Jacob)
@@ -394,7 +394,7 @@ decision seems to be the more proper one in the case of one who was
 decidedly afflicted with the disease." Said Rabha: They all agree that
 no examination is made (during the middle days) of a clean person; they
 also all agree that an inspection may be made during the first
-seclusion; <span id="fr_5"></span>[1](#fn_5) in what they differ is: in
+seclusion; <span id="fr_5"></span>[1](#fn_5.md) in what they differ is: in
 the case of the second seclusion. One holds that it is discretionary
 with the priest. If he finds him clean, he informs him; but if he finds
 him unclean, he keeps silent. And the other holds that, as it is written
@@ -413,7 +413,7 @@ him (it relieves his mind). But R. Jose said: "It is a grief to him"
 funeral oration for thirty days before the festival.
 
 GEMARA: There is a contradiction: We have learned in a Boraitha (Ebel
-Rabbatti, XII.): <span id="fr_6"></span>[2](#fn_6) "One who gathers the
+Rabbatti, XII.): <span id="fr_6"></span>[2](#fn_6.md) "One who gathers the
 bones of his dead father or mother shall mourn over them the whole day,
 but not in the evening. Said R. Hisda: This is applicable even if they
 are wrapped up in his mantle (and are not readily seen by him?) Said
@@ -464,7 +464,7 @@ and boards cut therefrom, privately in the house."
 
 MISHNA: One must not espouse a wife on the middle days--neither virgins
 nor widows; nor must one marry the childless widow of his deceased
-brother, <span id="fr_7"></span>[1](#fn_7) as that (the espousal) is a
+brother, <span id="fr_7"></span>[1](#fn_7) as that (the espousal.md) is a
 cause of joy to him (individually), but one may receive back his own
 divorced wife. A woman may prepare her ornaments on the middle days. R.
 Jehudah said: "She must not apply lime (chalk as a cosmetic), because it
@@ -740,29 +740,29 @@ should have preference over wine.'"
 
 ### Footnotes
 
-<span id="fn_1"></span>[1:1](kat02.htm#fr_1) *Vide* Shekalim, Chap. I.,
+<span id="fn_1"></span>[1:1](kat02.htm#fr_1.md) *Vide* Shekalim, Chap. I.,
 M. *a*.
 
-<span id="fn_2"></span>[3:1](kat02.htm#fr_2) No capital punishment, nor
+<span id="fn_2"></span>[3:1](kat02.htm#fr_2.md) No capital punishment, nor
 even that of stripes, is inflicted without a previous, warning. *Vide*
 Introduction to Sabbath, p. xxvi.
 
-<span id="fn_3"></span>[7:1](kat02.htm#fr_3) The letter "Shin" in Hebrew
+<span id="fn_3"></span>[7:1](kat02.htm#fr_3.md) The letter "Shin" in Hebrew
 when pointed rightward reads "sh"; when pointed left reads "ss." The
 word "shom" in question is pointed left and the rabbi reads it as if
 pointed right, and explains it to have the meaning of the Aramaic
 "Shomin"--to weigh, to estimate.
 
-<span id="fn_4"></span>[9:1](kat02.htm#fr_4) "Ishuth" and Ehsheth are
+<span id="fn_4"></span>[9:1](kat02.htm#fr_4.md) "Ishuth" and Ehsheth are
 similar in pronunciation, and it states, "which hath not seen the sun."
 
-<span id="fn_5"></span>[10:1](kat02.htm#fr_5) See Lev. xiii. 5.
+<span id="fn_5"></span>[10:1](kat02.htm#fr_5.md) See Lev. xiii. 5.
 
-<span id="fn_6"></span>[10:2](kat02.htm#fr_6) See our introduction to
+<span id="fn_6"></span>[10:2](kat02.htm#fr_6.md) See our introduction to
 same tract.
 
-<span id="fn_7"></span>[11:1](kat02.htm#fr_7) See Deut. xxv. 5-11.
+<span id="fn_7"></span>[11:1](kat02.htm#fr_7.md) See Deut. xxv. 5-11.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](kat03)
+[Next: Chapter II](kat03.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf18) [Next](bulf20) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf18) [Next](bulf20.md) 
 
 # CHAPTER XX.
 
@@ -328,4 +328,4 @@ Macaulay, in his "Lays of Ancient Rome," thus alludes to the legend:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XXI. Bacchus- Ariadne.](bulf20)
+Next: [CHAPTER XXI. Bacchus- Ariadne.](bulf20.md)

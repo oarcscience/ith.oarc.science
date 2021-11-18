@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca11)  [Next](ntca13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca11)  [Next](ntca13.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ F. J. Gillen \[1899\], at Intangible Textual Heritage
 
 <span id="page_387">p. 387</span>
 
-# Chapter X <span id="fr_134"></span>[\*](#fn_134) Traditions Dealing with the Origin of the Alcheringa Ancestors of the Arunta Tribe and with Particular Customs
+# Chapter X <span id="fr_134"></span>[\*](#fn_134.md) Traditions Dealing with the Origin of the Alcheringa Ancestors of the Arunta Tribe and with Particular Customs
 
 **The early, middle and later Alcheringa—The early
 Alcheringa—Transformation of the *Inapertwa* creatures into human beings
@@ -73,13 +73,13 @@ The earliest tradition with which we are acquainted is as follows. In
 the early Alcheringa the country was covered with salt water (*Kwatcha
 alia*). This was gradually withdrawn towards the north by the people of
 that country who always wanted to get it and to keep it for
-themselves. <span id="fr_135"></span>[1](#fn_135) At last they succeeded
+themselves. <span id="fr_135"></span>[1](#fn_135.md) At last they succeeded
 in doing so, and the salt water has remained with them ever since. At
 this time there dwelt in the *Alkira aldorla*, that is the western sky,
 two beings of whom it is said that they were *Ungambikula*, a word which
 means “out of nothing,” or “self-existing.” From their elevated
 dwelling-place they could see, far away to the east, a number of
-*Inapertwa* creatures, <span id="fr_136"></span>[2](#fn_136) that is
+*Inapertwa* creatures, <span id="fr_136"></span>[2](#fn_136.md) that is
 rudimentary human beings or incomplete men, whom it was their mission to
 make into men and women.
 
@@ -132,7 +132,7 @@ the special kind of lizard into which they changed.
 
 In the case of a group of plum tree men who lived at a <span
 id="page_390">p. 390</span> spot called Quiurnpa, <span
-id="fr_137"></span>[1](#fn_137) which is associated with many traditions
+id="fr_137"></span>[1](#fn_137.md) which is associated with many traditions
 and in the case also of certain of the Unguitchika (grass seed totem)
 men, the *Ungambikula* first of all made them into human beings but did
 not circumcise them, so that they were what the natives call
@@ -243,14 +243,14 @@ tribes as exemplified by the Arunta, and the southern central tribes as
 exemplified by the Urabunna.
 
 We may now pass on to deal with the middle Alcheringa period. Tradition
-relates that a great *Oknirabata* <span id="fr_138"></span>[1](#fn_138)
+relates that a great *Oknirabata* <span id="fr_138"></span>[1](#fn_138.md)
 of the Ullakupera or little hawk totem arose at a place called Atnaturka
 by the side of a stream now called Love's Creek. He and the men of his
 group were remarkable for the possession of very fine stone knives,
 called *Lalira*, with which they performed the operation of *Lartna* or
 circumcision. Amongst the men of all other totems up to that time stone
 knives were not used for this purpose, and the operation was always
-performed with a fire-stick. <span id="fr_139"></span>[2](#fn_139)
+performed with a fire-stick. <span id="fr_139"></span>[2](#fn_139.md)
 
 One of the Ullakupera men, who was a Purula named Ulpmurintha, flew from
 Atnaturka to Utiara, a place about ten miles north of Alice Springs,
@@ -503,14 +503,14 @@ Ullakupera totem.
 It will be seen that there are two points of importance so far as these
 Ullakupera men and the work which they carried out is concerned. In the
 first place they introduced the use of a stone knife in place of the
-fire-stick <span id="fr_140"></span>[1](#fn_140) at the ceremony of
+fire-stick <span id="fr_140"></span>[1](#fn_140.md) at the ceremony of
 circumcision. They were apparently not the only men who possessed stone
 knives, as the Echidna men are distinctly stated to have had them, and
 in the southern part of the tribe a woman of the frog totem is said to
 have possessed one. Probably we have in this tradition an indication of
 a time when a more primitive method of cutting was retained in
 connection with a sacred ceremony than was used in the case of the
-ordinary operations of life. <span id="fr_141"></span>[2](#fn_141) In
+ordinary operations of life. <span id="fr_141"></span>[2](#fn_141.md) In
 the southern Arunta tradition
 
 <span id="page_402">p. 402</span>
@@ -677,12 +677,12 @@ Kumara. Each of them possessed a *Nurtunja* and *quabara undattha*, and
 when the Achilpa men attempted to interfere with the woman they could
 not do so because of her *quabara*. Leaving here they were seen by a
 Purula man of the witchetty grub totem <span
-id="fr_142"></span>[1](#fn_142) who had originated in the locality, but
+id="fr_142"></span>[1](#fn_142.md) who had originated in the locality, but
 as he hid himself the Achilpa did not see him.
 
 The next camping place was at a small hill on the Emily Plains on the
 top of which a stone arose to mark the spot; here they made
-*Ampurtanurra*, <span id="fr_143"></span>[2](#fn_143) that is a long
+*Ampurtanurra*, <span id="fr_143"></span>[2](#fn_143.md) that is a long
 series of ceremonies concerned with the Achilpa totem, and then they
 went on to Okirra-kulitha, a depression in the Macdonnell Range a little
 to the east of the Emily gap. They camped right on the top of the range,
@@ -866,7 +866,7 @@ started to march on they left one man, a <span id="page_412">p.
 412</span> Panunga, behind them, as he was too ill with *Erkincha* to
 walk any further. They considered that the unlawful intercourse with the
 wattle seed woman had spread the disease and increased their
-sufferings. <span id="fr_144"></span>[1](#fn_144) Still travelling
+sufferings. <span id="fr_144"></span>[1](#fn_144.md) Still travelling
 amongst the ranges, they camped at various places, at one of which,
 called Lilpuririka, which means running like a creek, the old men were
 again nourished with blood given to them by the young men. Leaving
@@ -913,7 +913,7 @@ vicinity of Mount Wells, where dwelt an old Panunga man of the Unjiamba
 totem, whose name was Achichingarinia. He possessed a large Nurtunja
 which the leader of the Achilpa men tried to take by force, but the old
 man clung to it so closely, and made such a very loud *arriinkuma* <span
-id="fr_145"></span>[1](#fn_145) that he was forced to desist.
+id="fr_145"></span>[1](#fn_145.md) that he was forced to desist.
 
 The party here made *quabara undattha* and changed its language to
 Achicha, which is a mixture of the Ilpirra and Kaitish tongues. Turning
@@ -996,7 +996,7 @@ undattha* they went on and crossed Mount Sonder, which is one of the
 highest peaks in the Macdonnell Ranges. While crossing they saw an old
 Illuta (bandicoot) man making large wooden *pitchis*, and therefore they
 called the place Urichipma, which means “the place of *pitchis*.” <span
-id="fr_146"></span>[1](#fn_146) Here they paused and, presumably from
+id="fr_146"></span>[1](#fn_146.md) Here they paused and, presumably from
 the summit from which a very extensive view is to be obtained, looked
 back to see their tracks and a row of stones arose and still
 
@@ -1010,7 +1010,7 @@ charge of the store-house and Engwura ceremonies.
 Leaving here they proceeded to Poara, where they performed *Ariltha* and
 made Engwura, and where they also found a number of women of the Kakwa
 (hawk) totem, all of whom were Purula and some of whom were called
-*Illapurinja*. <span id="fr_147"></span>[1](#fn_147) These women had a
+*Illapurinja*. <span id="fr_147"></span>[1](#fn_147.md) These women had a
 *Nurtunja* and sacred ceremonies which they showed to the Achilpa men.
 The old leader of the latter had intercourse with a great number of the
 women, many of the younger ones dying in consequence. The *Urliara*,
@@ -1141,7 +1141,7 @@ when a man always married a woman of his own totem. The references to
 men and women of one totem always living together in groups would appear
 to be too frequent and explicit to admit of any other satisfactory
 explanation. We never meet with an instance of a man living with a woman
-who was not of his own totem <span id="fr_148"></span>[1](#fn_148) as we
+who was not of his own totem <span id="fr_148"></span>[1](#fn_148.md) as we
 surely might expect to
 
 <span id="page_420">p. 420</span>
@@ -1249,38 +1249,38 @@ in the north, and are now slowly spreading southwards through the tribe.
 
 ### Footnotes
 
-<span id="fn_134"></span>[387:\*](ntca12.htm#fr_134) A folding map
+<span id="fn_134"></span>[387:\*](ntca12.htm#fr_134.md) A folding map
 referring to this chapter is attached to the inside back cover of this
 book.
 
-<span id="fn_135"></span>[388:1](ntca12.htm#fr_135) Though it is
+<span id="fn_135"></span>[388:1](ntca12.htm#fr_135.md) Though it is
 scarcely credible that there can be any tradition relating to a time so
 far past, yet it is a remarkable coincidence that this tradition
 reflects what geological evidence shows to have been the case, so far as
 the existence of a great inland sea is concerned.
 
-<span id="fn_136"></span>[388:2](ntca12.htm#fr_136) In the *Report of
+<span id="fn_136"></span>[388:2](ntca12.htm#fr_136.md) In the *Report of
 the Horn Expedition*, vol. iv., p. 184, this word was written
 *Inaperlwa*, and translated “Echidna,” or “Native Porcupine.” The
 spelling and explanation now given are the correct ones.
 
-<span id="fn_137"></span>[390:1](ntca12.htm#fr_137) The locality of the
+<span id="fn_137"></span>[390:1](ntca12.htm#fr_137.md) The locality of the
 various places named is indicated on the maps.
 
-<span id="fn_138"></span>[394:1](ntca12.htm#fr_138) This term is applied
+<span id="fn_138"></span>[394:1](ntca12.htm#fr_138.md) This term is applied
 to a man who is especially learned in all matters appertaining to tribal
 customs and traditions; the term is never applied except to old men, and
 is regarded as a very high distinction.
 
-<span id="fn_139"></span>[394:2](ntca12.htm#fr_139) In the southern
+<span id="fn_139"></span>[394:2](ntca12.htm#fr_139.md) In the southern
 Arunta tradition ascribes the introduction of a stone knife for this
 purpose to an old woman of the Unchichera or frog totem.
 
-<span id="fn_140"></span>[401:1](ntca12.htm#fr_140) We have translated
+<span id="fn_140"></span>[401:1](ntca12.htm#fr_140.md) We have translated
 the word *ura-ilyabara* by the usual term fire-stick. In reality
 *ilyabara* means a piece of bark.
 
-<span id="fn_141"></span>[401:2](ntca12.htm#fr_141) It is not perhaps
+<span id="fn_141"></span>[401:2](ntca12.htm#fr_141.md) It is not perhaps
 without interest to note that even in savage tribes, such as those of
 Central Australia, we meet with evidence of the remarkable way in which
 ancient customs are preserved in connection with “sacred” rites. The
@@ -1289,22 +1289,22 @@ implements was evidently known, finds its parallel in the retention of
 stone implements for the same operation after the use of iron was well
 known. Cf. Tylor, *Early History of Mankind* 3rd Edit., 1878, p. 217.
 
-<span id="fn_142"></span>[406:1](ntca12.htm#fr_142) This is one of the
+<span id="fn_142"></span>[406:1](ntca12.htm#fr_142.md) This is one of the
 very few cases in which the Alcheringa witchetty grubs were not Panunga
 or Bulthara.
 
-<span id="fn_143"></span>[406:2](ntca12.htm#fr_143) Various totems have
+<span id="fn_143"></span>[406:2](ntca12.htm#fr_143.md) Various totems have
 a name similar to this which is applied to a long series of ceremonies
 concerned with that special totem. In the owl totem, for example, it is
 *Latunpa*.
 
-<span id="fn_144"></span>[412:1](ntca12.htm#fr_144) This does not mean
+<span id="fn_144"></span>[412:1](ntca12.htm#fr_144.md) This does not mean
 that they reasoned from a strictly medical point of view; their idea in
 a case of this kind is that a man suffering from *Erkincha* conveys a
 magic evil influence, which they call *Arungquiltha*, to the women, and
 by this means it is conveyed, as a punishment, to other men.
 
-<span id="fn_145"></span>[413:1](ntca12.htm#fr_145) This is a loud sound
+<span id="fn_145"></span>[413:1](ntca12.htm#fr_145.md) This is a loud sound
 made by shouting *au-au-au* repeatedly, while the hand is held with the
 fingers slightly bent, and the palm towards the face, and moved rapidly
 backwards and forwards upon the wrist in front of the mouth. It is
@@ -1313,15 +1313,15 @@ distance. During the Engwura ceremony, for example, it was the signal
 used to call up the men who had been away from the ground while the
 ceremony was being prepared.
 
-<span id="fn_146"></span>[415:1](ntca12.htm#fr_146) The natives of this
+<span id="fn_146"></span>[415:1](ntca12.htm#fr_146.md) The natives of this
 part of the country are noted for the large *pitchis*, or wooden
 troughs, which they make out of the wood of the bean tree (*Erythrina
 vespertilio*).
 
-<span id="fn_147"></span>[416:1](ntca12.htm#fr_147) *Ilalpurinja* means
+<span id="fn_147"></span>[416:1](ntca12.htm#fr_147.md) *Ilalpurinja* means
 “the changed one.”
 
-<span id="fn_148"></span>[419:1](ntca12.htm#fr_148) That is in
+<span id="fn_148"></span>[419:1](ntca12.htm#fr_148.md) That is in
 connection with those groups with whom the various wandering parties
 came in contact. The members of all wandering parties appear to have had
 intercourse more or less freely with women of other totems.
@@ -1330,4 +1330,4 @@ intercourse more or less freely with women of other totems.
 
 [Next: Chapter XI. Traditions Dealing with the Origin of the Alcheringa
 Ancestors of the Arunta Tribe and with Particular Customs
-(Continued)](ntca13)
+(Continued)](ntca13.md)

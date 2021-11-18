@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn11)  [Next](dbn13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn11)  [Next](dbn13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ alarm and concluded that Stephen "must be a spy or guide for some
 nations who intended to come and conquer them, because it seemed to them
 unreasonable for him to say that the people were white in the country
 from which he came, being black himself and being sent by them." <span
-id="fr_75"></span>[1](#fn_75)
+id="fr_75"></span>[1](#fn_75.md)
 
 Slaves imported under the Asiento treaties went to all parts of the
 Americas. Spanish America had by the close of the eighteenth century ten
@@ -146,7 +146,7 @@ to-day amalgamating into a new race. "At
 the present moment there is scarcely a lowly or a highly placed federal
 or provincial official at the head of or within any of the great
 departments of state that has not more or less Negro or Amer-Indian
-blood in his veins." <span id="fr_76"></span>[1](#fn_76)
+blood in his veins." <span id="fr_76"></span>[1](#fn_76.md)
 
 Lord Bryce says, "It is hardly too much to say that along the coast from
 Rio to Bahia and Pernambuco, as well as in parts of the interior behind
@@ -170,10 +170,10 @@ judge from a few remarkable cases, it will not necessarily reduce the
 intellectual standard. One of the ablest and most refined Brazilians I
 have known had some color; and other such cases have been mentioned to
 me. Assumptions and preconceptions must be eschewed, however plausible
-they may seem." <span id="fr_77"></span>[2](#fn_77)
+they may seem." <span id="fr_77"></span>[2](#fn_77.md)
 
 A Brazilian writer said at the First Races Congress: "The coöperation of
-the *metis* <span id="fr_78"></span>[3](#fn_78) in the advance of Brazil
+the *metis* <span id="fr_78"></span>[3](#fn_78.md) in the advance of Brazil
 is notorious and far from inconsiderable. They played the chief part
 during many years in Brazil in the campaign for the abolition of
 slavery. I could quote celebrated names of more than one of these metis
@@ -190,12 +190,12 @@ Paraguay, fighting heroically at the boarding of the ships in the naval
 battle of Riachuelo and in the attacks on the Brazilian army, on
 numerous occasions in the course of this long South American war. It was
 owing to their support that the republic was erected on the ruins of the
-empire." <span id="fr_79"></span>[1](#fn_79)
+empire." <span id="fr_79"></span>[1](#fn_79.md)
 
 The Dutch brought the first slaves to the North American continent. John
 Rolfe relates that the last of August, 1619, there came to Virginia "a
 Dutch man of warre that sold us twenty Negars." <span
-id="fr_80"></span>[2](#fn_80) This was probably one of the ships of the
+id="fr_80"></span>[2](#fn_80.md) This was probably one of the ships of the
 numerous private Dutch trading companies which early entered into the
 developed and the lucrative African slave trade. Although the Dutch thus
 commenced the continental slave trade they did not actually furnish a
@@ -282,7 +282,7 @@ and social organization; "the soldiers regarded him as a superior being,
 and the farmers prostrated themselves before him. All his generals
 trembled before him (Dessalines did not dare to look in his face), and
 all the world trembled before his generals." <span
-id="fr_81"></span>[1](#fn_81)
+id="fr_81"></span>[1](#fn_81.md)
 
 The revolt once started, blacks and mulattoes murdered whites without
 mercy and the whites retaliated. Commissioners were sent from France,
@@ -318,7 +318,7 @@ perhaps of poison, after studied humiliations, April 7, 1803.
 Thus perished the greatest of American Negroes and one of the great men
 of all time, at the age of fifty-six. A French planter said, "God in his
 terrestrial globe did not commune with a purer spirit." <span
-id="fr_82"></span>[1](#fn_82) Wendell Phillips said, "Some doubt the
+id="fr_82"></span>[1](#fn_82.md) Wendell Phillips said, "Some doubt the
 courage of the Negro. Go to Hayti and stand on those fifty thousand
 graves of the best soldiers France ever had and ask them what they think
 of the Negro's sword. I would call him Napoleon, but Napoleon made his
@@ -349,7 +349,7 @@ Washington and Oregon states, came to us as the indirect work of a
 despised Negro. Praise, if you will, the work of a Robert Livingstone or
 a Jefferson, but to-day let us not forget our debt to Toussaint
 L’Ouverture, who was indirectly the means of America's expansion by the
-Louisiana Purchase of 1803." <span id="fr_83"></span>[2](#fn_83)
+Louisiana Purchase of 1803." <span id="fr_83"></span>[2](#fn_83.md)
 
 With the freedom of Hayti in 1801 came a century of struggle to fit the
 people for the freedom they had won. They were yet slaves, crushed by a
@@ -365,7 +365,7 @@ discipline which he insisted on. He had other characteristics of African
 chieftains. "There were seasons when he broke through his natural
 sullenness and showed himself open, affable, and even generous. His
 vanity was excessive and manifested itself in singular
-perversities." <span id="fr_84"></span>[1](#fn_84) He was a man of great
+perversities." <span id="fr_84"></span>[1](#fn_84.md) He was a man of great
 personal bravery and succeeded in maintaining the independence of Hayti,
 which had already cost the Frenchmen fifty thousand lives.
 
@@ -379,7 +379,7 @@ the social history and peculiarities of their people. There was nothing
 in the constitution which did not have its companion in Africa, where
 the organization of society was despotic, with elective hereditary
 chiefs, royal families, polygamic marriages, councils, and
-regencies." <span id="fr_85"></span>[2](#fn_85)
+regencies." <span id="fr_85"></span>[2](#fn_85.md)
 
 The population was divided into soldiers and laborers. The territory was
 parceled out to chiefs, and the laborers were bound to the soil and
@@ -427,7 +427,7 @@ republic, Petion received them and gave them four thousand rifles with
 ammunition, provisions, and last and best a printing press. He also
 settled some international quarrels among members of the groups, and
 Bolivar expressed himself afterward as being "overwhelmed with
-magnanimous favors." <span id="fr_86"></span>[1](#fn_86)
+magnanimous favors." <span id="fr_86"></span>[1](#fn_86.md)
 
 Petion died in 1818 and was succeeded by his friend Boyer. Christophe
 committed suicide the following year and Boyer became not simply ruler
@@ -525,7 +525,7 @@ transported them to the snows of Nova Scotia! The legislature then voted
 a sword worth twenty-five hundred dollars to General Walpole, which he
 indignantly refused to accept. Eventually these exiled Maroons found
 their way to Sierra Leone, West Africa, in time to save that colony to
-the British crown. <span id="fr_87"></span>[1](#fn_87)
+the British crown. <span id="fr_87"></span>[1](#fn_87.md)
 
 The pressing desire for peace with the Maroons on the part of the white
 planters arose from the new sugar culture introduced in 1673. A greatly
@@ -565,7 +565,7 @@ The result was that Governor Eyre tried and executed by court-martial
 Negroes flogged or mutilated. Children had their brains dashed out,
 pregnant women were murdered, and Gordon was tried by court-martial and
 hanged. In fact the punishment was, as the royal commissioners said,
-"reckless and positively barbarous." <span id="fr_88"></span>[1](#fn_88)
+"reckless and positively barbarous." <span id="fr_88"></span>[1](#fn_88.md)
 
 This high-handed act aroused England. Eyre was not punished, but the
 island was made a crown colony in 1866, and given representation in the
@@ -600,52 +600,52 @@ everywhere in process of rapid amalgamation with whites and Indians.
 
 ### Footnotes
 
-<span id="fn_75"></span>[97:1](dbn12.htm#fr_75). H. O. Flipper's
+<span id="fn_75"></span>[97:1](dbn12.htm#fr_75.md). H. O. Flipper's
 translation of Castaneda de Nafera's narrative.
 
-<span id="fn_76"></span>[99:1](dbn12.htm#fr_76) Johnston: *Negro in the
+<span id="fn_76"></span>[99:1](dbn12.htm#fr_76.md) Johnston: *Negro in the
 New World*, p. 109.
 
-<span id="fn_77"></span>[99:2](dbn12.htm#fr_77) Bryce: *South America*,
+<span id="fn_77"></span>[99:2](dbn12.htm#fr_77.md) Bryce: *South America*,
 pp. 479-480.
 
-<span id="fn_78"></span>[99:3](dbn12.htm#fr_78) I.e., mulattoes.
+<span id="fn_78"></span>[99:3](dbn12.htm#fr_78.md) I.e., mulattoes.
 
-<span id="fn_79"></span>[100:1](dbn12.htm#fr_79) *Inter-Racial
+<span id="fn_79"></span>[100:1](dbn12.htm#fr_79.md) *Inter-Racial
 Problems*, p. 381.
 
-<span id="fn_80"></span>[100:2](dbn12.htm#fr_80) Smith: *General History
+<span id="fn_80"></span>[100:2](dbn12.htm#fr_80.md) Smith: *General History
 of Virginia*.
 
-<span id="fn_81"></span>[102:1](dbn12.htm#fr_81) La Croix: *Mémoires sur
+<span id="fn_81"></span>[102:1](dbn12.htm#fr_81.md) La Croix: *Mémoires sur
 la Révolution*, I, 253, 408.
 
-<span id="fn_82"></span>[103:1](dbn12.htm#fr_82) Marquis d’Hermonas. Cf.
+<span id="fn_82"></span>[103:1](dbn12.htm#fr_82.md) Marquis d’Hermonas. Cf.
 Johnston: *Negro in the New World*, p. 158.
 
-<span id="fn_83"></span>[103:2](dbn12.htm#fr_83) DeWitt Talmage, in
+<span id="fn_83"></span>[103:2](dbn12.htm#fr_83.md) DeWitt Talmage, in
 *Christian Herald*, November 18, 1906.
 
-<span id="fn_84"></span>[104:1](dbn12.htm#fr_84) Aimes: *African
+<span id="fn_84"></span>[104:1](dbn12.htm#fr_84.md) Aimes: *African
 Institutions in America* (reprinted from *Journal of American Folk
 Lore*), p. 25.
 
-<span id="fn_85"></span>[104:2](dbn12.htm#fr_85) Brown: *History of San
+<span id="fn_85"></span>[104:2](dbn12.htm#fr_85.md) Brown: *History of San
 Domingo*, II, 158-159.
 
-<span id="fn_86"></span>[105:1](dbn12.htm#fr_86) See Leger: *Hayti*,
+<span id="fn_86"></span>[105:1](dbn12.htm#fr_86.md) See Leger: *Hayti*,
 Chap. XI.
 
-<span id="fn_87"></span>[107:1](dbn12.htm#fr_87) Cf. Chapter V, [p.
-69](dbn10.htm#page_69).
+<span id="fn_87"></span>[107:1](dbn12.htm#fr_87.md) Cf. Chapter V, [p.
+69](dbn10.htm#page_69.md).
 
-<span id="fn_88"></span>[108:1](dbn12.htm#fr_88) Johnston: *Negro in the
+<span id="fn_88"></span>[108:1](dbn12.htm#fr_88.md) Johnston: *Negro in the
 New World*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Negro in the United States](dbn13)
+[Next: XI. The Negro in the United States](dbn13.md)
 
 </div>

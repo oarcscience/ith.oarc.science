@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip17)  [Next](fip19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip17)  [Next](fip19.md) 
 
 ------------------------------------------------------------------------
 
@@ -338,4 +338,4 @@ untold wealth at his father-in-law's death.
 
 ------------------------------------------------------------------------
 
-[Next: The Stolen Child, by W. B. Yeats](fip19)
+[Next: The Stolen Child, by W. B. Yeats](fip19.md)

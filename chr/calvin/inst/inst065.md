@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst064)  [Next](inst066) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst064)  [Next](inst066.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,26 +97,26 @@ wise in their own craftiness, a purity before which all things become
 impure, a righteousness to which not even angels are equal (so far is it
 from making the guilty innocent), a vengeance which once kindled burns
 to the lowest hell (<span id="iv.iii.xiii-p12.1"></span>[Exod.
-34:7](../../../bib/kjv/exo034.htm#007)<span
+34:7](../../../bib/kjv/exo034.htm#007.md)<span
 id="iv.iii.xiii-p12.1"></span>; <span
 id="iv.iii.xiii-p12.2"></span>[Nahum
-1:3](../../../bib/kjv/nah001.htm#003)<span
+1:3](../../../bib/kjv/nah001.htm#003.md)<span
 id="iv.iii.xiii-p12.2"></span>; <span
 id="iv.iii.xiii-p12.3"></span>[Deut.
-32:22](../../../bib/kjv/deu032.htm#022)<span
+32:22](../../../bib/kjv/deu032.htm#022.md)<span
 id="iv.iii.xiii-p12.3"></span>). Let Him, I say, sit in judgment on the
 actions of men, and who will feel secure in sisting himself before his
 throne? “Who among us,” says the prophets “shall dwell with the
 devouring fire? who among us shall dwell with everlasting burnings? He
 that walketh righteously, and speaketh uprightly,” &c. (<span
 id="iv.iii.xiii-p12.4"></span>[Isa.
-33:14](../../../bib/kjv/isa033.htm#014),
-[15](../../../bib/kjv/isa033.htm#015)<span
+33:14](../../../bib/kjv/isa033.htm#014.md),
+[15](../../../bib/kjv/isa033.htm#015.md)<span
 id="iv.iii.xiii-p12.4"></span>). Let whoso will come forth. Nay, the
 answer shows that no man can. For, on the other hand, we hear the
 dreadful voice: “If thou, Lord, shouldst mark our iniquities, O Lord,
 who shall stand?” (<span id="iv.iii.xiii-p12.5"></span>[Ps.
-130:3](../../../bib/kjv/psa130.htm#003)<span
+130:3](../../../bib/kjv/psa130.htm#003.md)<span
 id="iv.iii.xiii-p12.5"></span>). All must immediately perish, as Job
 declares, “Shall mortal man be more just than God? shall a man be more
 pure than his Maker? Behold, he put no trust in his servants; and his
@@ -124,13 +124,13 @@ angels he charged with folly: How much less in them that dwell in houses
 of clay, whose foundation is in the dust, which are crushed before the
 moth? They are destroyed from morning to evening,” (<span
 id="iv.iii.xiii-p12.6"></span>[Job
-4:17-20](../../../bib/kjv/job004.htm#017)<span
+4:17-20](../../../bib/kjv/job004.htm#017.md)<span
 id="iv.iii.xiii-p12.6"></span>). Again, “Behold, he putteth no trust in
 his saints; yea, the heavens are not clean in his sight. How much more
 abominable and filthy is man, which drinketh iniquity like water?”
 (<span id="iv.iii.xiii-p12.7"></span>[Job
-15:15](../../../bib/kjv/job015.htm#015),
-[16](../../../bib/kjv/job015.htm#016)<span
+15:15](../../../bib/kjv/job015.htm#015.md),
+[16](../../../bib/kjv/job015.htm#016.md)<span
 id="iv.iii.xiii-p12.7"></span>). I confess, indeed, that in the Book of
 Job reference is made to a righteousness of a more exalted description
 than the observance of the Law. It is of importance to attend to this
@@ -146,7 +146,7 @@ filled with dread at the many maledictions which God has employed for
 the purpose of arousing us, and among others, the following general one:
 “Cursed be he that confirmeth not all the words of this law to do them,”
 (<span id="iv.iii.xiii-p12.8"></span>[Deut.
-27:26](../../../bib/kjv/deu027.htm#026)<span
+27:26](../../../bib/kjv/deu027.htm#026.md)<span
 id="iv.iii.xiii-p12.8"></span>). In short, the whole discussion of this
 subject will be insipid and frivolous, unless we sist ourselves before
 the heavenly Judge, and anxious for our acquittal, voluntarily humble
@@ -171,27 +171,27 @@ as he did the Pharisees, “Ye are they which justify yourselves before
 men; but God knoweth your hearts: for that which is highly esteemed
 among men is abomination in the sight of God,” (<span
 id="iv.iii.xiii-p13.1"></span>[Luke
-16:15](../../../bib/kjv/luk016.htm#015)<span
+16:15](../../../bib/kjv/luk016.htm#015.md)<span
 id="iv.iii.xiii-p13.1"></span>). Go now and make a proud boast of your
 righteousness among men, while God in heaven abhors it. But what are the
 feelings of the servants of God, of those who are truly taught by his
 Spirit? “Enter not into judgment with thy servant; for in thy sight
 shall no man living be justified,” (<span
 id="iv.iii.xiii-p13.2"></span>[Ps.
-143:2](../../../bib/kjv/psa143.htm#002)<span
+143:2](../../../bib/kjv/psa143.htm#002.md)<span
 id="iv.iii.xiii-p13.2"></span>). Another, though in a sense somewhat
 different, says, “How should man be just with God? If he will contend
 with him he cannot answer him one of a thousand,” (<span
 id="iv.iii.xiii-p13.3"></span>[Job
-9:2](../../../bib/kjv/job009.htm#002),
-[3](../../../bib/kjv/job009.htm#003)<span
+9:2](../../../bib/kjv/job009.htm#002.md),
+[3](../../../bib/kjv/job009.htm#003.md)<span
 id="iv.iii.xiii-p13.3"></span>). Here we are plainly told what the
 righteousness of God is, namely, a righteousness which no human works
 can satisfy which charges us with a thousand sins, while not one sin can
 be excused. Of this righteousness Paul, that chosen vessel of God, had
 formed a just idea, when he declared, “I know nothing by myself, yet am
 I not hereby justified,” (<span id="iv.iii.xiii-p13.4"></span>[1 Cor.
-4:4](../../../bib/kjv/co1004.htm#004)<span
+4:4](../../../bib/kjv/co1004.htm#004.md)<span
 id="iv.iii.xiii-p13.4"></span>).
 
 <span id="iv.iii.xiii-p14"></span>3. Such examples exist not in the
@@ -226,8 +226,8 @@ merits may we hope for blessings, especially when you hear in the
 prophet, ‘Thus saith the Lord God, I do not this for your sakes, O house
 of Israel, but for mine holy name’s sake,’ (<span
 id="iv.iii.xiii-p14.1"></span>[Ezek.
-36:22](../../../bib/kjv/eze036.htm#022),
-[32](../../../bib/kjv/eze036.htm#032)<span
+36:22](../../../bib/kjv/eze036.htm#022.md),
+[32](../../../bib/kjv/eze036.htm#032.md)<span
 id="iv.iii.xiii-p14.1"></span>). It is sufficient for merit to know that
 merits suffice not; but as it is sufficient for merit not to presume on
 merit, so to be without merits is sufficient for condemnation,”
@@ -251,7 +251,7 @@ penetrating to the most hidden thoughts of the heart. As Paul says, it
 “will bring to light the hidden things of darkness and will make
 manifest the counsels of the heart,” (<span
 id="iv.iii.xiii-p15.1"></span>[1 Cor.
-4:5](../../../bib/kjv/co1004.htm#005)<span
+4:5](../../../bib/kjv/co1004.htm#005.md)<span
 id="iv.iii.xiii-p15.1"></span>); will compel the reluctant and
 dissembling conscience to bring forward every thing, even things which
 have now escaped our memory. The devil, aware of all the iniquities
@@ -280,10 +280,10 @@ deluded in this matter, seeing none of us can avoid that pestilential
 self-indulgence, which, as Scripture proclaims, is naturally inherent in
 all: “Every way of a man is right in his own eyes,” says Solomon (<span
 id="iv.iii.xiii-p16.1"></span>[Prov.
-21:2](../../../bib/kjv/pro021.htm#002)<span
+21:2](../../../bib/kjv/pro021.htm#002.md)<span
 id="iv.iii.xiii-p16.1"></span>). And again, “All the ways of a man are
 clean in his own eyes,” (<span id="iv.iii.xiii-p16.2"></span>[Prov.
-16:2](../../../bib/kjv/pro016.htm#002)<span
+16:2](../../../bib/kjv/pro016.htm#002.md)<span
 id="iv.iii.xiii-p16.2"></span>). What then? does this hallucination
 excuse him? No, indeed, as Solomon immediately adds, “The Lord weigheth
 the spirits;” that is, while man flatters himself by wearing an external
@@ -298,17 +298,17 @@ man, so far from being just before God, is but rottenness and a worm,
 abominable and vain, drinking in “iniquity like water.” For “who can
 bring a clean thing out of an unclean? not one,” (<span
 id="iv.iii.xiii-p16.3"></span>[Job
-14:5](../../../bib/kjv/job014.htm#005)<span
+14:5](../../../bib/kjv/job014.htm#005.md)<span
 id="iv.iii.xiii-p16.3"></span>). Then we shall experience the truth of
 what Job said of himself: “If I justify myself, mine own mouth shall
 condemn me: if I say I am perfect, it shall prove me perverse,” (<span
 id="iv.iii.xiii-p16.4"></span>[Job
-9:20](../../../bib/kjv/job009.htm#020)<span
+9:20](../../../bib/kjv/job009.htm#020.md)<span
 id="iv.iii.xiii-p16.4"></span>). Nor does the complaint which the
 prophet made concerning Israel apply to one age only. It is true of
 every age, that “all we like sheep have gone astray; we have turned
 every one to his own way,” (<span id="iv.iii.xiii-p16.5"></span>[Isaiah
-53:6](../../../bib/kjv/isa053.htm#006)<span
+53:6](../../../bib/kjv/isa053.htm#006.md)<span
 id="iv.iii.xiii-p16.5"></span>). Indeed, he there comprehends all to
 whom the gift of redemption was to come. And the strictness of the
 examination ought to be continued until it have completely alarmed us,
@@ -317,7 +317,7 @@ deceived who thinks himself capable of enjoying it, until he have laid
 aside all loftiness of mind. There is a well-known declaration, “God
 resisteth the proud, but giveth grace to the humble,” (<span
 id="iv.iii.xiii-p16.6"></span>[1 Pet.
-5:5](../../../bib/kjv/pe1005.htm#005)<span
+5:5](../../../bib/kjv/pe1005.htm#005.md)<span
 id="iv.iii.xiii-p16.6"></span>).
 
 <span id="iv.iii.xiii-p17"></span>6. But what means is there of humbling
@@ -332,7 +332,7 @@ every thing like a ground of boasting is completely crushed. Therefore,
 when you hear from the prophets “thou wilt save the afflicted people;
 but wilt bring down high looks” (<span
 id="iv.iii.xiii-p17.1"></span>[Ps.
-18:27](../../../bib/kjv/psa018.htm#027)<span
+18:27](../../../bib/kjv/psa018.htm#027.md)<span
 id="iv.iii.xiii-p17.1"></span>), consider, first, that there is no
 access to salvation unless all pride is laid aside and true humility
 embraced; secondly, that that humility is not a kind of moderation by
@@ -347,8 +347,8 @@ midst of thee them that rejoice in thy pride, and thou shalt no more be
 haughty because of my holy mountain. I will also leave in the midst of
 thee an afflicted and poor people, and they shall trust in the name of
 the Lord,” (<span id="iv.iii.xiii-p17.2"></span>[Zeph.
-3:11](../../../bib/kjv/zep003.htm#011),
-[12](../../../bib/kjv/zep003.htm#012)<span
+3:11](../../../bib/kjv/zep003.htm#011.md),
+[12](../../../bib/kjv/zep003.htm#012.md)<span
 id="iv.iii.xiii-p17.2"></span>), does he not plainly show who are the
 humble—viz. those who lie afflicted by a knowledge of their poverty? On
 the contrary, he describes the proud as rejoicing (*exultantes*), such
@@ -357,13 +357,13 @@ To the humble, whom he designs to save, he leaves nothing but hope in
 the Lord. Thus, also, in Isaiah, “To this man will I look, even to him
 that is poor and of a contrite spirit, and trembleth at my word,” (<span
 id="iv.iii.xiii-p17.3"></span>[Isaiah
-66:2](../../../bib/kjv/isa066.htm#002)<span
+66:2](../../../bib/kjv/isa066.htm#002.md)<span
 id="iv.iii.xiii-p17.3"></span>). again, “Thus saith the high and lofty
 One that inhabiteth eternity, whose name is Holy; I dwell in the high
 and holy place, with him also that is of a contrite and humble spirit,
 to revive the spirit of the humble, and to revive the heart of the
 contrite ones,” (<span id="iv.iii.xiii-p17.4"></span>[Isaiah
-57:15](../../../bib/kjv/isa057.htm#015)<span
+57:15](../../../bib/kjv/isa057.htm#015.md)<span
 id="iv.iii.xiii-p17.4"></span>). By the term *contrition* which you so
 often hear, understand a wounded heart, which, humbling the individual
 to the earth, allows him not to rise. With such contrition must your
@@ -377,7 +377,7 @@ representation of true humility. He brings forward a publican, who
 standing afar off, and not daring to lift up his eyes to heaven, smites
 upon his breast, laments aloud, and exclaims, “ God be merciful to me a
 sinner,” (<span id="iv.iii.xiii-p18.1"></span>[Luke
-18:13](../../../bib/kjv/luk018.htm#013)<span
+18:13](../../../bib/kjv/luk018.htm#013.md)<span
 id="iv.iii.xiii-p18.1"></span>). Let us not suppose that he gives the
 signs of a fictitious modesty when he dares not come near or lift up his
 eyes to heaven, but, smiting upon his breast, confesses himself a
@@ -401,13 +401,13 @@ our God; to comfort all that mourn; to appoint unto them that mourn in
 Zion to give unto them beauty for ashes, the oil of joy for mourning,
 the garment of praise for the spirit of heaviness,” (<span
 id="iv.iii.xiii-p18.2"></span>[Isa.
-61:1-3](../../../bib/kjv/isa061.htm#001)<span
+61:1-3](../../../bib/kjv/isa061.htm#001.md)<span
 id="iv.iii.xiii-p18.2"></span>). In fulfillment of that mission, the
 only persons whom he invites to share in his beneficence are the “weary
 and heavy laden.” In another passage he says, “ I am not come to call
 the righteous, but sinners to repentance,” (<span
 id="iv.iii.xiii-p18.3"></span>[Mt.
-11:28](../../../bib/kjv/mat011.htm#028)<span
+11:28](../../../bib/kjv/mat011.htm#028.md)<span
 id="iv.iii.xiii-p18.3"></span>; 9:13).
 
 <span id="iv.iii.xiii-p19"></span>8. Therefore if we would make way for
@@ -415,7 +415,7 @@ the call of Christ, we must put far from us all arrogance and
 confidence. The former is produced by a foolish persuasion of
 self-righteousness, when a man thinks that he has something in himself
 which deservedly recommends him to God; the latter may exist without any
-confidence in works.42  <span id="fr_415"></span>[416](#fn_415) For many
+confidence in works.42  <span id="fr_415"></span>[416](#fn_415.md) For many
 sinners, intoxicated with the pleasures of vice, think not of the
 judgment of God. Lying stupefied, as it were, by a kind of lethargy,
 they aspire not to the offered mercy. It is not less necessary to shake
@@ -445,7 +445,7 @@ to the same extent he impedes the beneficence of God.
 
 ### Footnotes
 
-<span id="fn_415"></span>[416](inst065.htm#fr_415) <span
+<span id="fn_415"></span>[416](inst065.htm#fr_415.md) <span
 id="iv.iii.xiii-p19.1"></span>
 
 <span id="iv.iii.xiii-p20"></span>22 422 French, “Par arrogance j’enten
@@ -461,4 +461,4 @@ any confidence in works.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 13. - TWO THINGS TO BE OBSERVED IN GRATUITOUS
-JUSTIFICATION.](inst066)
+JUSTIFICATION.](inst066.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp002) [Next](ycgp02)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp002) [Next](ycgp02.md)
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ and pleasure and sorrow and grief.
 
 ------------------------------------------------------------------------
 
-[Next](ycgp02)
+[Next](ycgp02.md)
 
  
 

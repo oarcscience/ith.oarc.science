@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa03)  [Next](zfa05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa03)  [Next](zfa05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Heritage
 
 <span id="page_25">p. 25</span>
 
-### THE GOD-CONCEPTION OF BUDDHISM <span id="fr_23"></span>[1](#fn_23)
+### THE GOD-CONCEPTION OF BUDDHISM <span id="fr_23"></span>[1](#fn_23.md)
 
 AMONG the many critical opinions which are passed upon Buddhism by
 Christian or Western scholars, there are two which stand out most
@@ -363,10 +363,10 @@ we lie blissfully at rest in the bosom of eternal motherliness.
 
 ### Footnotes
 
-<span id="fn_23"></span>[25:1](zfa04.htm#fr_23) It may be interesting
+<span id="fn_23"></span>[25:1](zfa04.htm#fr_23.md) It may be interesting
 for our readers to read in connection with this article Dr. Paul Carus's
 Buddhist story entitled *Amitâbha*.
 
 ------------------------------------------------------------------------
 
-[Next: Assertions and Denials](zfa05)
+[Next: Assertions and Denials](zfa05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku15)  [Next](tku17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku15)  [Next](tku17.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ is assuaged, and the prayer ascendeth.
 unto Thee, O Tetragrammaton! in an acceptable time.'
 
 96\. "And the time of acceptance by the Ancient of Days <span
-id="fr_22"></span>[1](#fn_21) is here to be understood, and of the
+id="fr_22"></span>[1](#fn_21.md) is here to be understood, and of the
 unveiling of the forehead; and because it is thus disposed at the
 offering of the evening prayer on the Sabbath."
 
@@ -51,7 +51,7 @@ uncovered, there is found fixed shamelessness.
 99\. This is the same which is written, Jer. iii. 3: "Yet thou hadst the
 forehead of a shameless woman, thou refusedst to be ashamed."
 
-100\. But when this forehead <span id="fr_23"></span>[2](#fn_22) is
+100\. But when this forehead <span id="fr_23"></span>[2](#fn_22.md) is
 uncovered, inclination and acceptation are found in perfect form, and
 all wrath is quieted and subdued before Him.
 
@@ -101,10 +101,10 @@ most abstruse of all.
 
 ### Footnotes
 
-<span id="fn_21"></span>[123:1](tku16.htm#fr_22) Macroprosopus.
+<span id="fn_21"></span>[123:1](tku16.htm#fr_22.md) Macroprosopus.
 
-<span id="fn_22"></span>[123:2](tku16.htm#fr_23) That of Macroprosopus.
+<span id="fn_22"></span>[123:2](tku16.htm#fr_23.md) That of Macroprosopus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Concerning the Eyes of Macroprosopus](tku17)
+[Next: Chapter IX: Concerning the Eyes of Macroprosopus](tku17.md)

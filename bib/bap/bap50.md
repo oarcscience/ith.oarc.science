@@ -1,14 +1,14 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap49) 
-[Next](bap51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap49.md) 
+[Next](bap51.md) 
 
 ------------------------------------------------------------------------
 
 ### CHAPTER XXXIV.
 
 XXXIV\. And at that time there came up a certain Aod <span
-id="fr_127"></span>[1](#fn_127) of the priests of Madian, and he was a
+id="fr_127"></span>[1](#fn_127.md) of the priests of Madian, and he was a
 wizard, and he spake unto Israel, saying: Wherefore give ye ear to your
 law? Come and I
 
@@ -25,7 +25,7 @@ sacrifice unto them. 3. &lt;&lt;*For this was formerly in the power of
 the angels and was*&gt;&gt; performed by the angels before they were
 judged, and they would have destroyed the unmeasurable world; and
 because they transgressed, it came to pass that the angels had no longer
-the power. <span id="fr_128"></span>[1](#fn_128) For when they were
+the power. <span id="fr_128"></span>[1](#fn_128.md) For when they were
 judged, then the power was not committed unto the rest: and by these
 *signs* (or *powers*) do they work who minister unto men in sorceries,
 until the unmeasurable age shall come. 4. And at that time Aod by art
@@ -46,12 +46,12 @@ began to bring Israel into bondage.
 
 ### Footnotes
 
-<span id="fn_127"></span>[180:1](bap50.htm#fr_127) XXXIV. Aod reminds us
+<span id="fn_127"></span>[180:1](bap50.htm#fr_127.md) XXXIV. Aod reminds us
 of the traditional Antichrist, one of whose great feats will be to make
 the sun appear at night: *Ascension of Isaiah* (4:5): "and at his word
 the sun will shine at night."
 
-<span id="fn_128"></span>[181:1](bap50.htm#fr_128) 3. The sentences
+<span id="fn_128"></span>[181:1](bap50.htm#fr_128.md) 3. The sentences
 about the angels who preside over sorceries are somewhat obscure. They
 depend upon the story, told at such length in *Enoch*, of the fallen
 angels who made known secret arts to mankind. The powers possessed by
@@ -59,4 +59,4 @@ these were not conferred upon those who replaced them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXV](bap51)
+[Next: Chapter XXXV](bap51.md)

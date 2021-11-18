@@ -1,20 +1,20 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mrci12)  [Next](mrci14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mrci12)  [Next](mrci14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Mission Record of the California Indians*, by A.L. Kroeber, \[1908\],
 at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-#### *San Juan Bautista*. <span id="fr_56"></span>[56](#fn_56)
+#### *San Juan Bautista*. <span id="fr_56"></span>[56](#fn_56.md)
 
 They say that the first Indians to settle this country came from the
-north after a great flood; <span id="fr_57"></span>[57](#fn_57) that
+north after a great flood; <span id="fr_57"></span>[57](#fn_57.md) that
 some went back and did not return; and that here sprung the single
 common language which is spoken in the seven missions about here,
 although somewhat changed \[from place to place.\]
@@ -26,7 +26,7 @@ out to their wars. Every man acted as he wished.
 
 ### Footnotes
 
-<span id="fn_56"></span>[24:56](mrci13.htm#fr_56) The mission of San
+<span id="fn_56"></span>[24:56](mrci13.htm#fr_56.md) The mission of San
 Juan Bautista is farthest inland of those in Costanoan territory. The
 dialect of San Juan Bautista, named Mutsun after a village near the
 mission, is known from a grammar and phrase-book prepared by Father
@@ -34,7 +34,7 @@ Felipe Arroyo de la Cuesta, who is probably the author of the following
 replies, as he was at San Juan Bautista at the time the report was
 called for.
 
-<span id="fn_57"></span>[24:57](mrci13.htm#fr_57) That the Indians of
+<span id="fn_57"></span>[24:57](mrci13.htm#fr_57.md) That the Indians of
 this region believed in a great flood or primeval water, is corroborated
 by such information as there is in existence about their mythology. That
 they had a tradition of a migration from the north seems more doubtful,
@@ -47,4 +47,4 @@ fourth volume of the present series.
 
 ------------------------------------------------------------------------
 
-[Next: Santa Cruz](mrci14)
+[Next: Santa Cruz](mrci14.md)

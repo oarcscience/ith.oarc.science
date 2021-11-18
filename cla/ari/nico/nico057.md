@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico056) 
-[Next](nico058) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico056.md) 
+[Next](nico058.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ Let this, then, be taken as our account of scientific knowledge.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4. Art--knowledge of how to make things](nico058)
+[Next: Chapter 4. Art--knowledge of how to make things](nico058.md)

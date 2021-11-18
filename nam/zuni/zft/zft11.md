@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft10)  [Next](zft12) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft10)  [Next](zft12.md) 
 
 ------------------------------------------------------------------------
 
@@ -299,4 +299,4 @@ So shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Warrior Suitor Of Moki](zft12)
+[Next: The Warrior Suitor Of Moki](zft12.md)

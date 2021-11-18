@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn09)  [Next](rmn11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn09)  [Next](rmn11.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ This stone was found at Pompeii, on the door of a baker's shop.
 
 ------------------------------------------------------------------------
 
-[Next: Plate: X: Two Little Votive Columns](rmn11)
+[Next: Plate: X: Two Little Votive Columns](rmn11.md)

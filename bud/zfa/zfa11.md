@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa10)  [Next](zfa12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa10)  [Next](zfa12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -264,16 +264,16 @@ The statements above made are usually put down in formula and called the
 Fourfold Noble Truth; viz., (1) Life is suffering, (2) There is cause
 for it, which is ignorance, (3) Nirvâna, which transcends pain and
 pleasure, is the goal of our life, and (4) To reach it the moral laws
-must be put into practice. <span id="fr_31"></span>[1](#fn_31)
+must be put into practice. <span id="fr_31"></span>[1](#fn_31.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_31"></span>[110:1](zfa11.htm#fr_31) As for what is the
+<span id="fn_31"></span>[110:1](zfa11.htm#fr_31.md) As for what is the
 practical ethics of Buddhism, read the article entitled "Buddhist
-Ethics." ([p. 69](zfa08.htm#page_69).)
+Ethics." ([p. 69](zfa08.htm#page_69)..md)
 
 ------------------------------------------------------------------------
 
-[Next: The Phenomenal And The Supraphenomenal](zfa12)
+[Next: The Phenomenal And The Supraphenomenal](zfa12.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app79)  [Next](app81) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app79)  [Next](app81.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -74,7 +74,7 @@ are Greeks be the slaves of Archelaus a barbarian?
 3\. (*Title: 'The Great Text-book'*).
 
 4\. (*From the 'Prooemia': Timocreon*, <span
-id="fr_107"></span>[1](#fn_100) *entertained by the Great King, ate so
+id="fr_107"></span>[1](#fn_100.md) *entertained by the Great King, ate so
 much that the King inquired his purpose; Timocreon replied, 'To thrash
 innumerable Persians'. Next day, having beaten numbers of them one after
 another, he went on to shadowboxing; asked why, he said that these were
@@ -106,10 +106,10 @@ see mankind not using this virtue.
 
 ### Footnotes
 
-<span id="fn_100"></span>[142:1](app80.htm#fr_107) Lyric poet of Rhodes,
+<span id="fn_100"></span>[142:1](app80.htm#fr_107.md) Lyric poet of Rhodes,
 sixth-fifth centuries B.C., famous for large appetite, great strength,
 and invective.
 
 ------------------------------------------------------------------------
 
-[Next: 86. Hippias of Êlis](app81)
+[Next: 86. Hippias of Êlis](app81.md)

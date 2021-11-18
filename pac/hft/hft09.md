@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hft08)  [Next](hft10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hft08)  [Next](hft10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hawaiian Folk Tales*, by Thomas G. Thrum, \[1907\], at Intangible
 Textual Heritage
 
@@ -95,7 +95,7 @@ followed after you, that you might teach me the art of healing."
 
 The *kahuna lapaau* (medical priest) then said, "Open your mouth." When
 Lono opened his mouth, the kahuna spat into it, <span
-id="fr_5"></span>[1](#fn_5) by which he would become proficient in the
+id="fr_5"></span>[1](#fn_5.md) by which he would become proficient in the
 calling he had chosen, and in which he eventually became, in fact, very
 skilful.
 
@@ -211,10 +211,10 @@ vain for his body. Thus was seen the result of repeated disobedience.
 
 ### Footnotes
 
-<span id="fn_5"></span>[53:1](hft09.htm#fr_5) An initiatory act, as in
+<span id="fn_5"></span>[53:1](hft09.htm#fr_5.md) An initiatory act, as in
 the priesthood.
 
 ------------------------------------------------------------------------
 
 [Next: VII. A Visit to the Spirit Land; or, the Strange Experience of a
-Woman in Kona, Hawaii](hft10)
+Woman in Kona, Hawaii](hft10.md)

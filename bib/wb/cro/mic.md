@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jon)  [Next](nah) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jon)  [Next](nah.md) 
 
 ------------------------------------------------------------------------
 
@@ -387,4 +387,4 @@ svoju Abrahamu, kako si se zakleo ocima našim od dana iskonskih.
 
 ------------------------------------------------------------------------
 
-[Next: Nahum](nah)
+[Next: Nahum](nah.md)

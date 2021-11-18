@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl16)  [Next](jftl18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl16)  [Next](jftl18.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 <span id="img_17200"></span> <span align="CENTER"> [![Behind him a
 fierce roar indicated that the lion was in pursuit.&lt;br&gt;
 (&lt;i&gt;Page 176&lt;/i&gt;).](tn/17200.jpg)  
-Click to enlarge](img/17200.jpg)  
+Click to enlarge](img/17200.jpg.md)  
 Behind him a fierce roar indicated that the lion was in pursuit.  
 (*Page 176*).  
 </span>
@@ -144,4 +144,4 @@ the words of his song into one of his Psalms.
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Palace](jftl18)
+[Next: The Magic Palace](jftl18.md)

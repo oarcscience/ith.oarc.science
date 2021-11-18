@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod33)  [Next](ebod35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod33)  [Next](ebod35.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ concerning me."
 
 ------------------------------------------------------------------------
 
-[Next: Plates XXIX. and XXX.](ebod35)
+[Next: Plates XXIX. and XXX.](ebod35.md)

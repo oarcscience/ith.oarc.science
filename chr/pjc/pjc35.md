@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc34)  [Next](pjc36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc34)  [Next](pjc36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -66,7 +66,7 @@ that he had treated him as such, and now sent him back. Pilate was quite
 satisfied at finding that Herod had come to the same conclusion as
 himself, and therefore returned a polite message. From that hour they
 became friends, having been enemies many years; in fact, ever since the
-falling-in of the aqueduct. <span id="fr_10"></span>[1](#fn_10) Jesus
+falling-in of the aqueduct. <span id="fr_10"></span>[1](#fn_10.md) Jesus
 was
 
 <span id="page_202">p. 202</span>
@@ -175,7 +175,7 @@ people, and condemned Jesus to be scourged.
 
 ### Footnotes
 
-<span id="fn_10"></span>[201:1](pjc35.htm#fr_10) The cause of the
+<span id="fn_10"></span>[201:1](pjc35.htm#fr_10.md) The cause of the
 quarrel between Pilate and Herod was, according to the account of Sister
 Emmerich, simply this: Pilate had undertaken to build an aqueduct on the
 south-east side of the mountain on which the Temple stood, at the edge
@@ -232,4 +232,4 @@ seen by what means their reconciliation was affected.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. The Scourging of Jesus](pjc36)
+[Next: Chapter XXI. The Scourging of Jesus](pjc36.md)

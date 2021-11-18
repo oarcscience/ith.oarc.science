@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK VII CHAPTER XXV
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK VII](book06) 
-[Previous](mart142)  [Next](mart144) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK VII](book06.md) 
+[Previous](mart142)  [Next](mart144.md) </span>
 
 ------------------------------------------------------------------------
 

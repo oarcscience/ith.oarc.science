@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft29)  [Next](zft31) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft29)  [Next](zft31.md) 
 
 ------------------------------------------------------------------------
 
@@ -599,4 +599,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Hermit Mítsina](zft31)
+[Next: The Hermit Mítsina](zft31.md)

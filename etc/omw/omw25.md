@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw24)  [Next](omw26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw24)  [Next](omw26.md) 
 
 ------------------------------------------------------------------------
 
@@ -254,4 +254,4 @@ entered into it.
 
 ------------------------------------------------------------------------
 
-[Next: Ishtar's Descent into the World Below](omw26)
+[Next: Ishtar's Descent into the World Below](omw26.md)

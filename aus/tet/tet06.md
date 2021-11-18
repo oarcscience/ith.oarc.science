@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet05)  [Next](tet07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet05)  [Next](tet07.md) 
 
 ------------------------------------------------------------------------
 
@@ -342,4 +342,4 @@ tracks of snakes, which renders the bites of those snakes innocuous.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. More About the Medicine Men and Leechcraft](tet07)
+[Next: Chapter V. More About the Medicine Men and Leechcraft](tet07.md)

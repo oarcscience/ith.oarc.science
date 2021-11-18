@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge20) 
-[Next](pge22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge20.md) 
+[Next](pge22.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ our harems."
 What these monstrous instruments of lust were may be gathered from the
 sixth mime of Herodas, where one of them is described in detail.
 Philænis may, perhaps, be the poetess of an obscene book on sensual
-refinements, to whom [Athenæus](errata.htm#7) alludes (*Deinosophistæ*,
+refinements, to whom [Athenæus](errata.htm#7.md) alludes (*Deinosophistæ*,
 viii, 335). It is also possible that Philænis had become the common
 designation of a Lesbian lover, a tribad. In the later periods of Greek
 literature, as I have elsewhere shown, certain fixed masks of Attic
@@ -105,4 +105,4 @@ as both forms of homosexual passion in the, modern European world are.
 ------------------------------------------------------------------------
 
 [Next: XX. Greek love did not exist at
-Rome--Christianity--Chivalry](pge22)
+Rome--Christianity--Chivalry](pge22.md)

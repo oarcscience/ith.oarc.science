@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft08)  [Next](pft10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft08)  [Next](pft10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,14 +18,14 @@ Intangible Textual Heritage
 
 *Tinguian*
 
-When the rice  <span id="fr_59"></span>[60](pft68.htm#fn_59) had grown
+When the rice  <span id="fr_59"></span>[60](pft68.htm#fn_59.md) had grown
 tall and it was near the time for it to ripen, Aponitolau and
 Aponibolinayen grew fearful lest the wild pigs should break in and
 destroy all their crop, so they sent their son, Kanag, to the field to
 guard the grain. Kanag willingly went to the place, but when he found
 that the fences were all strong so that the pigs could not get in, and
 he was left with nothing to do, life in the little watch-house  <span
-id="fr_60"></span>[61](pft68.htm#fn_60) grew lonely, and the boy became
+id="fr_60"></span>[61](pft68.htm#fn_60.md) grew lonely, and the boy became
 very unhappy.
 
 Each day Aponitolau carried cooked rice and meat to his son in the
@@ -43,7 +43,7 @@ from the top of a bamboo tree a little bird answered him. Realizing what
 had happened, the father was very sad and begged his son to come back
 and be a boy again, but Kanag only answered:
 
-"I would rather be a bird  <span id="fr_61"></span>[62](pft68.htm#fn_61)
+"I would rather be a bird  <span id="fr_61"></span>[62](pft68.htm#fn_61.md)
 and carry the messages of the spirits to the people."
 
 At last the father went home alone, and he and the boy's mother were
@@ -89,7 +89,7 @@ enemies."
 
 "Yes," said the man, and as he started on the home-ward journey the
 little bird always flew near him. When he reached home, he stuck the
-heads around the town,  <span id="fr_62"></span>[63](pft68.htm#fn_62)
+heads around the town,  <span id="fr_62"></span>[63](pft68.htm#fn_62.md)
 and commanded the people to go out all over the world and invite
 everyone and especially the pretty girls to come to a party in
 celebration of his victory.
@@ -118,7 +118,7 @@ By and by they stopped near a well, and there the spirit servants used
 magic so that all the pretty girls nearby felt very hot; and in the
 early morning, they came to the well to bathe. One among them was so
 beautiful that she looked like a flame of fire  <span
-id="fr_63"></span>[64](pft68.htm#fn_63) among the betel-nut blossoms,
+id="fr_63"></span>[64](pft68.htm#fn_63.md) among the betel-nut blossoms,
 and when the servants saw her washing her hair they ran to Kanag and
 begged him to come and see her. At first he would not listen to them,
 but after a while he flew into the top of a betel-nut tree near by, and
@@ -170,4 +170,4 @@ went with Aponitolau and Aponibolinayen.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Tikgi](pft10)
+[Next: The Story of the Tikgi](pft10.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](rosart01)  [Next](roswel01) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](rosart01)  [Next](roswel01.md) 
 
 ### Richland WA UFO, 1947 (Part 2)
 
@@ -117,4 +117,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: Roswell New Mexico UFO Crash Incident, 1947](roswel01)
+[Next: Roswell New Mexico UFO Crash Incident, 1947](roswel01.md)

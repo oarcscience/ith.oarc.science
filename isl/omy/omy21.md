@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy20)  [Next](omy22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy20)  [Next](omy22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -98,7 +98,7 @@ sun illumines them all, and though every one of them should be
 destroyed, the sun would not be lessened or diminished. The sun is the
 lord of the sensible world, and the exponent of the attributes of the
 Primal Spirit. The Primal Spirit is the lord of the invisible world and
-the exponent of the Nature of God <span id="fr_31"></span>[1](#fn_31).
+the exponent of the Nature of God <span id="fr_31"></span>[1](#fn_31.md).
 
 When the heart of man has been revivified and <span
 class="margnote">Intelligence the aim of the Upward
@@ -206,7 +206,7 @@ nature, reaching which the Traveller's Upward Progress is complete; for
 
 ### Footnotes
 
-<span id="fn_31"></span>[61:1](omy21.htm#fr_31) The following from
+<span id="fn_31"></span>[61:1](omy21.htm#fr_31.md) The following from
 Tennyson's *In Memoriam* forms a beautiful protest against the ideas
 here set forth:
 
@@ -226,4 +226,4 @@ And I shall know him when we meet.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Conclusion](omy22)
+[Next: Chapter V. Conclusion](omy22.md)

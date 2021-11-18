@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil88)  [Next](egil90) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil88)  [Next](egil90.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ it, and things remained quiet.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXXIX. Thorstein goes to a feast.](egil90)
+[Next: CHAPTER LXXXIX. Thorstein goes to a feast.](egil90.md)

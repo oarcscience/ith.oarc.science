@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mes00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mes.txt.gz)
+[Contents](#contents)    [Start Reading](mes00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mes.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ said to comprise 25,700 couplets. This translation is of the first book
 (of six) of the Masnavi; this was as far as Redhouse apparently got with
 his translation. Later, in 1898, E.H. Whinfield released an abridged
 translation of the first six books, also available at this site
-([here](../masnavi/index)). The first complete translation of the
+([here](../masnavi/index).md). The first complete translation of the
 Masnavi was by R.A. Nicholson, published in London by Luzac and Co. from
 1925-40. A.J. Arberry also published several ground-breaking
 translations of Rumi in the mid-20th century.
@@ -58,44 +58,44 @@ Intangible Textual Heritage.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mes00)  
-[Contents](mes01)  
-[Translator's Preface](mes02)  
+<span id="contents"></span> [Title Page](mes00.md)  
+[Contents](mes01.md)  
+[Translator's Preface](mes02.md)  
 <span id="section_000"></span>
 
 ### The Acts of the Adepts
 
-[Title Page](mes03)  
-[Chapter I](mes04)  
-[Chapter II](mes05)  
-[Chapter III](mes06)  
-[Chapter IV](mes07)  
-[Chapter V](mes08)  
-[Chapter VI](mes09)  
-[Chapter VII](mes10)  
-[Chapter VIII](mes11)  
-[Chapter IX](mes12)  
+[Title Page](mes03.md)  
+[Chapter I](mes04.md)  
+[Chapter II](mes05.md)  
+[Chapter III](mes06.md)  
+[Chapter IV](mes07.md)  
+[Chapter V](mes08.md)  
+[Chapter VI](mes09.md)  
+[Chapter VII](mes10.md)  
+[Chapter VIII](mes11.md)  
+[Chapter IX](mes12.md)  
 <span id="section_001"></span>
 
 ### The Book of the Mesnevī
 
-[Title Page](mes13)  
-[Preface](mes14)  
-[Proem: The Reed Flute](mes15)  
-[I. The Prince and the Handmaid](mes16)  
-[II. The Oilman and the Parrot](mes17)  
-[III. The Jewish King, Persecutor of the Christians](mes18)  
-[IV. Another Jewish King, Persecutor of Christians](mes19)  
-[V. The Lion and the Beasts](mes20)  
-[VI. The Greater (Spiritual) Warfare](mes21)  
-[VII. The Merchant and the Parrot](mes22)  
-[VIII. The Harper](mes23)  
-[IX. The Poor Scenite Arab and his Wife](mes24)  
-[X. Patience and Perseverance Under a Teacher](mes25)  
-[XI. The Lion's Hunt, in Company](mes26)  
-[XII. Joseph and the Mirror](mes27)  
-[XIII. The Prophet's First Amanuensis](mes28)  
-[XIV. The Chinese and Roman Artists](mes29)  
-[XV. Zeyd's Inspiration](mes30)  
-[XVI. ‘Alī's Forbearance](mes31)  
-[XVII. Conclusion](mes32)  
+[Title Page](mes13.md)  
+[Preface](mes14.md)  
+[Proem: The Reed Flute](mes15.md)  
+[I. The Prince and the Handmaid](mes16.md)  
+[II. The Oilman and the Parrot](mes17.md)  
+[III. The Jewish King, Persecutor of the Christians](mes18.md)  
+[IV. Another Jewish King, Persecutor of Christians](mes19.md)  
+[V. The Lion and the Beasts](mes20.md)  
+[VI. The Greater (Spiritual) Warfare](mes21.md)  
+[VII. The Merchant and the Parrot](mes22.md)  
+[VIII. The Harper](mes23.md)  
+[IX. The Poor Scenite Arab and his Wife](mes24.md)  
+[X. Patience and Perseverance Under a Teacher](mes25.md)  
+[XI. The Lion's Hunt, in Company](mes26.md)  
+[XII. Joseph and the Mirror](mes27.md)  
+[XIII. The Prophet's First Amanuensis](mes28.md)  
+[XIV. The Chinese and Roman Artists](mes29.md)  
+[XV. Zeyd's Inspiration](mes30.md)  
+[XVI. ‘Alī's Forbearance](mes31.md)  
+[XVII. Conclusion](mes32.md)  

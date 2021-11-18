@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb41)  [Next](spb43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb41)  [Next](spb43.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -84,18 +84,18 @@ Accursed be Haman who sought to destroy me; blessed be Mordecai the Jew;
 accursed be Zeresh, the wife of him that terrified me; blessed be Esther
 my protectress, and may Harbonah also be remembered for good.
 
-*"But thou art holy," etc., [p. 300](spb24.htm#page_300), to
-"honorable," [p. 302](spb24.htm#page_302). On Saturday evening begin
-"And let the pleasantness," etc., [p. 299](spb24.htm#page_299). The
-Reader says Kaddish, [p. 302](spb24.htm#page_302), omitting "May the
-prayers," etc. "It is our duty," etc., [p. 308](spb24.htm#page_308). On
+*"But thou art holy," etc., [p. 300](spb24.htm#page_300.md), to
+"honorable," [p. 302](spb24.htm#page_302.md). On Saturday evening begin
+"And let the pleasantness," etc., [p. 299](spb24.htm#page_299.md). The
+Reader says Kaddish, [p. 302](spb24.htm#page_302.md), omitting "May the
+prayers," etc. "It is our duty," etc., [p. 308](spb24.htm#page_308.md). On
 Saturday evening say the Conclusion Service, [p.
-303](spb24.htm#page_303)*.
+303](spb24.htm#page_303.md)*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Grace Before and After Meals](spb43)
+[Next: Grace Before and After Meals](spb43.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps02)  [Next](rps04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps02)  [Next](rps04.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ The regulations, points you to the baseses of the Kingdom.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. The Royal Move](rps04)
+[Next: Chapter 2. The Royal Move](rps04.md)

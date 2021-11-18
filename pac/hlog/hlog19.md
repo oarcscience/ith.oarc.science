@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog18)  [Next](hlog20) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog18)  [Next](hlog20.md) 
 
 ------------------------------------------------------------------------
 
@@ -216,4 +216,4 @@ Honolulu.
 
 ------------------------------------------------------------------------
 
-[Next: XV. Ke-ao-mele-mele, The Maid of the Golden Cloud](hlog20)
+[Next: XV. Ke-ao-mele-mele, The Maid of the Golden Cloud](hlog20.md)

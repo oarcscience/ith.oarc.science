@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Celtic
-Fairies](../../celt/index.htm#fairies)  [Index](index) 
-[Previous](cof07)  [Next](cof09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index.md)  [Celtic
+Fairies](../../celt/index.htm#fairies)  [Index](index.md) 
+[Previous](cof07)  [Next](cof09.md) 
 
 ------------------------------------------------------------------------
 
@@ -318,4 +318,4 @@ should describe him as distinctly low class.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Independent Evidence for Fairies](cof09)
+[Next: Chapter VI. Independent Evidence for Fairies](cof09.md)

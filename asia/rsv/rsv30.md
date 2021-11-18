@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv29)  [Next](rsv31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv29)  [Next](rsv31.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ being inhuman.
 Feeling that such a custom might be unkind, or at least expensive,
 someone came up with the idea of using wooden or straw figures,
 representing common objects used in the persons lifetime. These figures
-were burned or buried with the deceased. [Incidentally](errata.htm#36),
+were burned or buried with the deceased. [Incidentally](errata.htm#36.md),
 such burial customs have provided archeologists with valuable
 information of bygone ages. According to tradition, about the first
 century B.C. a government official developed the idea of making votive
@@ -46,7 +46,7 @@ accompanied by a great number of figurines made of votive paper.
 
 Just as the heavy coffin was to be lowered into the tomb, the "dead" man
 was heard to groan and moan; then as the lid was raised, the
-[haggard](errata.htm#37) and pale "corpse" sat up and spoke to the
+[haggard](errata.htm#37.md) and pale "corpse" sat up and spoke to the
 mourners. He told them that while he had been taken to the Infernal
 Regions (Hell), he had been released because his family had substituted
 money and paper figures for his person. Apparently, the story was
@@ -82,4 +82,4 @@ tour of duty.
 
 ------------------------------------------------------------------------
 
-[Next: The Lotus](rsv31)
+[Next: The Lotus](rsv31.md)

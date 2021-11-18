@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph21)  [Next](rph23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph21)  [Next](rph23.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ alphabet.
 
 It is impossible to suppose that the names of the months were not
 accompanied by certain astronomical knowledge, <span
-id="fr_656"></span>[1](#fn_656) probably
+id="fr_656"></span>[1](#fn_656.md) probably
 
 <span id="page_283">p. 283</span>
 
@@ -39,7 +39,7 @@ of such a nature as we have met in the Sefer Yetzirah, and that the
 names of the angels were separated from the entire celestial and
 infernal hierarchy adopted by the Magi. It has also long since been
 noted that Satan appears for the first time in the sacred writings in
-the story of the Chaldean Job. <span id="fr_659"></span>[2](#fn_659)
+the story of the Chaldean Job. <span id="fr_659"></span>[2](#fn_659.md)
 This rich and learned mythology, which has been adopted by the Talmud
 and spread in the Mishnah, constitutes also the poetical part and, if I
 may use the expression, the outer cover of the Zohar. But we do not wish
@@ -62,13 +62,13 @@ We must first point out that all chronologists, whether Jewish
 
 <span id="page_284">p. 284</span>
 
-or Christian, <span id="fr_660"></span>[3](#fn_660) agree that the first
+or Christian, <span id="fr_660"></span>[3](#fn_660.md) agree that the first
 deliverance of the Israelites who remained captives in Chaldea since
 Nebuchadnezzar (Ezra, I, 1) took place during the first years of the
 reign of Cyrus over Babylon, 536 to 530 before the Christian era. The
 divergence of opinion confines itself to this very limited period. If we
 are to believe the calculations of Anquetil-Dupperon, <span
-id="fr_661"></span>[4](#fn_661) Zoroaster had already commenced his
+id="fr_661"></span>[4](#fn_661.md) Zoroaster had already commenced his
 religious mission in 549, that is at least fourteen years before the
 first return of the captive Hebrews to their fatherland. Zoroaster was
 then forty years old; the most brilliant epoch of his life had begun,
@@ -82,7 +82,7 @@ yield to the irresistible power of their adversary. From 539 to 524,
 finally, Zoroaster openly taught his religion in the capital of the
 Babylonian empire, which he converted entirely by connecting wisely his
 own teachings with the already existing traditions. <span
-id="fr_662"></span>[5](#fn_662)
+id="fr_662"></span>[5](#fn_662.md)
 
 Is it reasonable to suppose that the Israelites, who witnessed such a
 revolution, and returned to their fatherland at a time when that
@@ -107,7 +107,7 @@ their conquerors, and admitted with the latter to the highest dignities
 of the empire.
 
 This is just the character of Daniel, Zerubabel and Nehemia, <span
-id="fr_663"></span>[6](#fn_663) the two latter playing such an active
+id="fr_663"></span>[6](#fn_663.md) the two latter playing such an active
 part in the deliverance of their brethren. But this is not all. Besides
 forty thousand people who returned to Jerusalem under Zerubabel, a
 second emigration, headed by Ezra, took place under the reign of
@@ -123,7 +123,7 @@ their eyes and minds turned to Jerusalem. The Babylonian Synagogue arose
 under the civil and religious influence of the "Heads of Captivity"
 (‏ריש גלותה‎--Raysh G’lutho), and it co-operated with the one in
 Palestine for the definite organization of Rabbinic Judaism. <span
-id="fr_664"></span>[7](#fn_664)
+id="fr_664"></span>[7](#fn_664.md)
 
 <span id="page_286">p. 286</span>
 
@@ -156,26 +156,26 @@ traditions much older than he, it is not necessary, yes, it is even not
 permissible from the standpoint of impartial criticism, to regard the
 following as having been borrowed from his doctrine: the six days of the
 creation, so easily recognized in the six Gahanbars; <span
-id="fr_665"></span>[8](#fn_665) the earthly paradise and the
+id="fr_665"></span>[8](#fn_665.md) the earthly paradise and the
 
 <span id="page_287">p. 287</span>
 
 ruse of the demon who, in the shape of a serpent, kindled the revolt in
-the soul of our first parents; <span id="fr_666"></span>[9](#fn_666) the
+the soul of our first parents; <span id="fr_666"></span>[9](#fn_666.md) the
 terrible punishment and the increasing forfeiture of the latter who,
 after having lived like angels, were obliged to cover themselves with
 the skins of animals, to wrest the metals from the bowels of the earth
 and to invent all the arts by which we subsist; <span
-id="fr_667"></span>[10](#fn_667) finally, the last judgment with its
+id="fr_667"></span>[10](#fn_667.md) finally, the last judgment with its
 accompanying terrors, with the resurrection in spirit and flesh. <span
-id="fr_668"></span>[11](#fn_668) All these beliefs are found, it is
+id="fr_668"></span>[11](#fn_668.md) All these beliefs are found, it is
 true, in
 
 <span id="page_288">p. 288</span>
 
 just as explicit a form in the Bundehesh <span
-id="fr_669"></span>[12](#fn_669) and in the Zend Avesta as in
-Genesis; <span id="fr_670"></span>[13](#fn_670) but we repeat again that
+id="fr_669"></span>[12](#fn_669.md) and in the Zend Avesta as in
+Genesis; <span id="fr_670"></span>[13](#fn_670.md) but we repeat again that
 we are fully convinced that the source is to be looked for at a much
 earlier age. 'We can not say the same of Rabbinical Judaism, which is
 much more modern than the religion of Zoroaster. The traces of Parseeism
@@ -210,11 +210,11 @@ those children of Ahriman and darkness, are just as numerous as the
 creatures of Ormuzd. There are more than a thousand species who present
 themselves under all kinds of forms, and who wander over the earth to
 spread disease and sickness among man. <span
-id="fr_671"></span>[14](#fn_671) "Where," asks Zoroaster of Ormuzd, "is
+id="fr_671"></span>[14](#fn_671.md) "Where," asks Zoroaster of Ormuzd, "is
 the place of the male, where the place of the female devis; where roam
 the devis in mobs from fifty, from a hundred, from a thousand, from ten
 thousand, and, finally, from all sides? . . .  <span
-id="fr_672"></span>[15](#fn_672) Destroy the devis that enfeeble man and
+id="fr_672"></span>[15](#fn_672.md) Destroy the devis that enfeeble man and
 those that produce sickness, those that carry off the human heart as the
 wind sweeps away the clouds." (Zend Av., vol. II, p. 113.)
 
@@ -223,12 +223,12 @@ Benjamin said: 'No creature could withstand the evil creatures
 (‏מזיקין‎--Mazikin), had the eye the faculty of seeing them.' Abbaye
 adds: "They are more numerous than we, and surround us as a ditch
 surrounds a field." "Every one of us," says Rab Hunna, <span
-id="fr_673"></span>[16](#fn_673) "has a thousand of them to the left and
+id="fr_673"></span>[16](#fn_673.md) "has a thousand of them to the left and
 ten thousand to the right side. When we feel ourselves pressed in a
 crowd, it is because of their presence; when our knees give way under
 our body, they alone are the cause; when we feel as though our
 extremities had been broken, it is to them again that we must attribute
-this suffering." <span id="fr_674"></span>[17](#fn_674) "The devis,"
+this suffering." <span id="fr_674"></span>[17](#fn_674.md) "The devis,"
 says the Zend Avesta, "unite with one another and reproduce themselves
 as man does." (Zend Av., vol. II, p. 336.) But they reproduce themselves
 also through our own impurities, through the disgraceful acts of
@@ -241,14 +241,14 @@ a voluptuous thought during sleep. According to the
 resemble the angels in three things, and in three other things they
 resemble man. Like the angels they read the future, have wings and fly
 in a moment from one end of the world to the other; but they eat, drink,
-reproduce and die as man does. <span id="fr_676"></span>[18](#fn_676)
+reproduce and die as man does. <span id="fr_676"></span>[18](#fn_676.md)
 Furthermore, they all originated from the lascivious dreams that
 troubled the nights of our first father during the years passed in
-solitude, <span id="fr_677"></span>[19](#fn_678) and the same cause even
+solitude, <span id="fr_677"></span>[19](#fn_678.md) and the same cause even
 today produces the same effect in his descendents. <span
-id="fr_678"></span>[20](#fn_680) Certain formulated prayers, therefore,
+id="fr_678"></span>[20](#fn_680.md) Certain formulated prayers, therefore,
 were adopted by Jews and Parsees, whose power is to avert such
-calamity. <span id="fr_679"></span>[21](#fn_681) The same phantoms, the
+calamity. <span id="fr_679"></span>[21](#fn_681.md) The same phantoms, the
 same terrors, finally, besiege these as well as the others at their last
 moment.
 
@@ -260,7 +260,7 @@ separated from the body, arrives then at the bridge Tchinevad, which
 separates our world from the invisible world; there it is judged by two
 angels, one of whom is Mithra, of colossal proportions, with ten
 thousand eyes, and holding a club in his hand. <span
-id="fr_680"></span>[22](#fn_682) The rabbis, retaining
+id="fr_680"></span>[22](#fn_682.md) The rabbis, retaining
 
 <span id="page_291">p. 291</span>
 
@@ -275,19 +275,19 @@ But when he comes to know that it is impossible for him to escape, he
 looks into the face of the one standing before him and delivers himself
 entirely into his power. If the dying man is a righteous one, the divine
 presence (Shekinah) appears to him and the soul soon disappears beyond
-the body." <span id="fr_683"></span>[23](#fn_683)
+the body." <span id="fr_683"></span>[23](#fn_683.md)
 
 This first test is followed by another, which is called the torture or
 the ordeal of the grave (‏היבוט הקבר‎--; Hibut Hakover). <span
-id="fr_684"></span>[24](#fn_684) "As soon as the dead is put in his
+id="fr_684"></span>[24](#fn_684.md) "As soon as the dead is put in his
 grave, the soul unites again with him, and opening his eyes, he sees
-two <span id="fr_685"></span>[25](#fn_685) angels who come to judge him.
+two <span id="fr_685"></span>[25](#fn_685.md) angels who come to judge him.
 Each holds in his hand two fiery rods (others say fiery chains), and the
 soul and the body are judged at the same time for the evil they have
 done together. Woe to the man when he is found guilty, for no one will
 defend him! At the first blow all his limbs are dislocated; at the
 second, all his bones are broken. But his body is soon reconstructed and
-the punishment begins anew." <span id="fr_686"></span>[26](#fn_686)
+the punishment begins anew." <span id="fr_686"></span>[26](#fn_686.md)
 
 We must value these traditions the more, since they have been taken
 nearly literally from the Zohar, from where they
@@ -299,28 +299,28 @@ collections. We can add to these beliefs a host of religious customs and
 practices, equally commanded by the Talmud and the Zend Avesta. Thus the
 Parsee, when leaving his bed in the morning, must not make four steps
 before having put on the holy girdle which is called the Kosti, <span
-id="fr_687"></span>[27](#fn_687) under the pretext that during the night
+id="fr_687"></span>[27](#fn_687.md) under the pretext that during the night
 he had been contaminated by contact with the demons, and he must not
 touch any part of his body before having washed his hands and face three
-times. <span id="fr_688"></span>[28](#fn_688) We shall find the same
+times. <span id="fr_688"></span>[28](#fn_688.md) We shall find the same
 duties, based upon the same reasons, with the followers of the
-rabbinical law; <span id="fr_689"></span>[29](#fn_689) with the
+rabbinical law; <span id="fr_689"></span>[29](#fn_689.md) with the
 difference that the Kosti is replaced by a garment of another shape. The
 disciples of Zoroaster and the followers of the Talmud consider
 themselves duty bound to greet the moon at its first quarter with
-prayers <span id="fr_690"></span>[30](#fn_690) and thanksgivings. <span
-id="fr_691"></span>[31](#fn_691) The practice of keeping from the dead
+prayers <span id="fr_690"></span>[30](#fn_690.md) and thanksgivings. <span
+id="fr_691"></span>[31](#fn_691.md) The practice of keeping from the dead
 or from the newborn the demons who try to take possession of them, are
-nearly the same with both. <span id="fr_692"></span>[32](#fn_692)
+nearly the same with both. <span id="fr_692"></span>[32](#fn_692.md)
 
 <span id="page_293">p. 293</span>
 
 The Parsee as well as the Jew carry their devotion, if I may say so,
 even to profanation. There are prayers and religious duties for every
 moment, for every action, for every situation of the physical and moral
-life. <span id="fr_693"></span>[33](#fn_693) Although we do not lack
+life. <span id="fr_693"></span>[33](#fn_693.md) Although we do not lack
 material for further expansion on this subject, <span
-id="fr_694"></span>[34](#fn_694) we think it time to finish this
+id="fr_694"></span>[34](#fn_694.md) we think it time to finish this
 parallel. But even the fantastic and eccentric facts which we have
 collected lend greater certainty to the conclusion which we draw from
 them. For it is surely not in such beliefs and in such actions that we
@@ -347,16 +347,16 @@ most impartial.
 1\. The part played in the Kabbalah by the Ayn Sof, the infinite without
 name and without form, is given by the theology of the Magi to eternal
 time (Zervane Akerene), and, according to others, to limitless
-space. <span id="fr_695"></span>[35](#fn_695) We want to note right here
+space. <span id="fr_695"></span>[35](#fn_695.md) We want to note right here
 that the term "space" or "absolute place" (‏מקום‎--Mokaum) has become
 with the Hebrews the very name of the divinity. Furthermore, this first
 principle, this only and supreme source of all existence, is only an
 abstract God, without direct action upon the beings, without active
 relation to the world, and consequently, without any appreciable form to
 us; for good as well as evil, light as well as darkness are still
-huddled together in His bosom. <span id="fr_696"></span>[36](#fn_696)
+huddled together in His bosom. <span id="fr_696"></span>[36](#fn_696.md)
 According to the sect of the Zervanites, whose opinion has been
-conserved by a Persian historian, <span id="fr_697"></span>[37](#fn_697)
+conserved by a Persian historian, <span id="fr_697"></span>[37](#fn_697.md)
 the principle we just mentioned, Zervan himself, would be, like the
 crown of the Kabbalists, but the first emanation of the infinite light.
 
@@ -374,11 +374,11 @@ pure man, before the devis, before all the existing worlds, before all
 the good things." But the very same word Ormuzd created the world, and
 by it he acts and exists. (Zend Av., vol. II, p. 138.) But the word
 existed not only before the world; although "given by God,"--as the Zend
-books say-- <span id="fr_698"></span>[38](#fn_698) it is eternal as He
+books say-- <span id="fr_698"></span>[38](#fn_698.md) it is eternal as He
 is. It takes the part of mediator between limitless time and the
 existences that flow from its bosom. It embraces the source and model of
 all perfection, and has the power to realize them in all beings. <span
-id="fr_699"></span>[39](#fn_699) What establishes, finally, its
+id="fr_699"></span>[39](#fn_699.md) What establishes, finally, its
 resemblance with the Kabbalistic "Word," is that it has a body and a
 spirit, that is to say, that it is the Spirit and the Word at the same
 time. It is the Spirit, because it is no less than the soul of Ormuzd,
@@ -406,7 +406,7 @@ man of the Kabbalists, he combines in him the
 true knowledge, the highest intelligence, the greatness, the goodness,
 the beauty, the energy or the strength, the purity or the splendor; it
 is he, finally, who had created, or formed at least, and who nourishes
-all beings. <span id="fr_700"></span>[40](#fn_700) These qualities in
+all beings. <span id="fr_700"></span>[40](#fn_700.md) These qualities in
 themselves and their resemblance to the Sefiroth can not, of course,
 lead us to any conclusion; but we can not help noticing that they are
 all united in Ormuzd, whose role, in relation to infinity and to
@@ -414,17 +414,17 @@ unlimited time, is the same as that of the Adam Kadmon in relation to
 the Ayn Sof. Indeed, if we are to believe an already quoted historian,
 there existed among the Persians a very numerous sect in whose
 estimation Ormuzd was the divine will manifested in a highly resplendent
-human form. <span id="fr_701"></span>[41](#fn_701) It is also true that
+human form. <span id="fr_701"></span>[41](#fn_701.md) It is also true that
 the Zend books say nothing of how Ormuzd brought forth the world, in
 what manner he himself and his enemy sprang from the bosom of the
 Eternal, and, finally, what constitutes the primitive substance of
-things. <span id="fr_702"></span>[42](#fn_702) But when God is compared
+things. <span id="fr_702"></span>[42](#fn_702.md) But when God is compared
 to light, when the efficient cause of the world is subordinated to a
 higher principle, and the universe considered as the body of the
 invisible word, we must necessarily consider the beings as isolated
 words of that infinite light. We wish also to remark that the gnostic
 pantheism is more or less connected with the fundamental principle of
-the theology of the Parsees. <span id="fr_703"></span>[43](#fn_703)
+the theology of the Parsees. <span id="fr_703"></span>[43](#fn_703.md)
 
 4\. According to the Kabbalistic belief, as well as according
 
@@ -441,14 +441,14 @@ known that by "Ferouer" the Persians understood the divine type of each
 intelligently endowed thing, its idea in the thought of Ormuzd and the
 higher spirit that breathes in it and watches over it. This meaning is
 supported by the tradition as well as by the texts." <span
-id="fr_704"></span>[44](#fn_704)
+id="fr_704"></span>[44](#fn_704.md)
 
 The interpretation of Auquetil-Duperron agrees perfectly with this
-one, <span id="fr_705"></span>[45](#fn_705) and we shall not cite all
+one, <span id="fr_705"></span>[45](#fn_705.md) and we shall not cite all
 the passages of the Zend Avesta that confirm it. We would rather point
 out a very remarkable coincidence on one particular point of this
 doctrine between the Kabbalists and the disciples of Zoroaster. We still
-recall that [magnificent](errata.htm#32) passage in the Zohar where the
+recall that [magnificent](errata.htm#32.md) passage in the Zohar where the
 souls, about to be sent to earth, represent to God how they will suffer
 while away from Him; what misery and contamination awaits them in our
 world. Well then, in the religious traditions of the Parsees the
@@ -457,7 +457,7 @@ Jehovah answers those souls which are grieved over leaving heaven. He
 tells them that they were born for struggle, to combat evil and make it
 disappear from the creation, that they can only then enjoy immortality
 and heaven, when their task upon earth shall have been
-accomplished. <span id="fr_706"></span>[46](#fn_706) "Think what
+accomplished. <span id="fr_706"></span>[46](#fn_706.md) "Think what
 advantage you will have when, in the world, I shall permit you to stay
 in bodies. Fight and make the children of Ahriman disappear. In the end
 I shall rehabilitate you in your first estate and you
@@ -474,7 +474,7 @@ prophecies of Daniel, (Ch. X, 10 ff.) was probably long since widely
 spread among the Chaldeans before their political and religious fusion
 with the Persians.
 
-5\. If the psychology of the [Kabbalists](errata.htm#33) has some
+5\. If the psychology of the [Kabbalists](errata.htm#33.md) has some
 resemblance with that of Plato, it has greater resemblance with that of
 the Parsecs, as represented in a collection of very old traditions which
 have been, for the most part, reproduced by Auquetil-Duperron in the
@@ -489,7 +489,7 @@ is the principle of motion and sensation, the vital spirit
 (‏נפש‎--Nefesh) whose task ends at the brink of the grave. Between these
 two extremes, finally, is the seat of good and of evil, the free and
 responsible principle, the moral person (‏רוח‎--Roo-ah). <span
-id="fr_707"></span>[47](#fn_707)
+id="fr_707"></span>[47](#fn_707.md)
 
 We must add that several Kabbalists and some philosophers of great
 authority in Judaism have added to these three principal elements two
@@ -524,12 +524,12 @@ knowledge of our duties, to the prevision of future life and to
 resurrection, in short, to moral consciousness. We finally come to the
 soul proper or the moral person, which is one, notwithstanding the
 diversity of its faculties, and which alone is responsible to divine
-judgment for our actions <span id="fr_708"></span>[48](#fn_708) Another
+judgment for our actions <span id="fr_708"></span>[48](#fn_708.md) Another
 distinction, though much less philosophical but equally admitted by the
 Zend books, is the one which makes man the image of the world and which
 recognizes in his consciousness two opposite principles, two Kedras,
 one, coming from heaven, leads us to good, while the other, created by
-Ahriman, tempts us to do evil. <span id="fr_709"></span>[49](#fn_709)
+Ahriman, tempts us to do evil. <span id="fr_709"></span>[49](#fn_709.md)
 These two principles which, nevertheless, do not exclude liberty
 
 <span id="page_300">p. 300</span>
@@ -547,7 +547,7 @@ principle is matter, or, as the Kabbalists say, the "shell," the last
 degree of existence, it is found, without straining the subject, in the
 sect of the Zerdustians who established between the divine light and the
 kingdom of darkness the same relation as between the body and its
-shadow. <span id="fr_710"></span>[50](#fn_710)
+shadow. <span id="fr_710"></span>[50](#fn_710.md)
 
 But another fact, more worthy of our attention, because not to be found
 elsewhere, is that we find in the oldest parts of. the religious codes
@@ -594,7 +594,7 @@ descend from Adam, we ask if it is possible that Adam travelled in all
 these regions for the purpose of populating them with his children? How
 many wives did he have? But Adam lived only in that part of the earth
 which is the most elevated and which is enveloped by the higher
-heaven." <span id="fr_711"></span>[51](#fn_711) The only difference that
+heaven." <span id="fr_711"></span>[51](#fn_711.md) The only difference that
 separates this opinion from that of the Parsees is that instead of
 considering the seven parts of the earth as natural divisions of the
 same surface, they represent them as enveloped one in another, like the
@@ -621,7 +621,7 @@ true existence--the exercise of its inner faculties--and being content
 with a borrowed life, and if I may also say, with a borrowed soul. We
 can not possibly consider the Kabbalah as an isolated fact, as
 accidental in Judaism; on the contrary, it is its heart and life. <span
-id="fr_712"></span>[52](#fn_712) For, while the Talmud took possession
+id="fr_712"></span>[52](#fn_712.md) For, while the Talmud took possession
 of all that relates to the outward practice and the material execution
 of the Law, the Kabbalah reserved for itself exclusively the domain of
 speculation and the most formidable problems of the natural and revealed
@@ -638,7 +638,7 @@ what influence it exerted upon popular imagination. The sentiments it
 once instilled have remained to the days nearest to us; for it was by
 depending upon the Kabbalistic ideas that the modern Bar Kochba,
 Sabbathai Zebi, had disturbed for a while all the Jews of the
-world. <span id="fr_714"></span>[53](#fn_714) The ideas also caused the
+world. <span id="fr_714"></span>[53](#fn_714.md) The ideas also caused the
 liveliest agitation among the Jews of Hungary and Poland towards the
 close of the eighteenth century by giving birth to the sect of the
 Zoharites and Neo-Hassidim, and by leading thousands of Israelites into
@@ -806,31 +806,31 @@ revolution is about to break loose.
 
 ### Footnotes
 
-<span id="fn_656"></span>[282:1](rph22.htm#fr_656) I should also have
+<span id="fn_656"></span>[282:1](rph22.htm#fr_656.md) I should also have
 said "astrological;" for the influence of the stars played at that time
 quite an important role in the religious ideas of the Jewish people. The
 Talmud distinguishes auspicious and inauspicious <span id="page_283">p.
 283</span> days; and even to-day the Jews wish one another a lucky
 influence of the stars (‏מזל טוב‎--Mazol Tov) at any important event in
 their life when they wish to show mutual interest. <span
-id="fr_657"></span>[\*](#fn_657)
+id="fr_657"></span>[\*](#fn_657.md)
 
-<span id="fn_657"></span>[282:\*](rph22.htm#fr_657) Although this fact
+<span id="fn_657"></span>[282:\*](rph22.htm#fr_657.md) Although this fact
 is correct, yet it does not prove what the author has in mind. For, just
 as little as the German thinks of the astrological origin of the word
 "Unstern," or the French of "desastre," or the Italian of "disastro," so
 little does the Jew think of the influence of the stars when wishing
 ‏מזל טוב‎.‏מזל‎ (Mazol) in the Jewish idiom has a meaning identical with
-"luck." <span id="fr_658"></span>[a](#fn_658)--Jellinek
+"luck." <span id="fr_658"></span>[a](#fn_658.md)--Jellinek
 
-<span id="fn_658"></span>[282:a](rph22.htm#fr_658) The author probably
+<span id="fn_658"></span>[282:a](rph22.htm#fr_658.md) The author probably
 meant the ‏מזלות ככבים‎ (Mazoleth K’chovim)--astral fates--; by which
 the Jews designate the Zodiacal signs.--Transl.
 
-<span id="fn_659"></span>[283:2](rph22.htm#fr_659) Compare Zunz,
+<span id="fn_659"></span>[283:2](rph22.htm#fr_659.md) Compare Zunz,
 "Religious Sermons of the Jews," p. 158.--Jellinek
 
-<span id="fn_660"></span>[284:3](rph22.htm#fr_660) Scaliger, Emendatio
+<span id="fn_660"></span>[284:3](rph22.htm#fr_660.md) Scaliger, Emendatio
 tempor., p. 576. Alph. Desvignoles, Chronology, vol. II, p. 582.
 Bossuet, General History, vol. II. Seder Olam Raba, ch. XXIX, p. 86.
 David Ganz, liv. I., year 3392, and liv. II, 3390. Zunz, the twenty-four
@@ -840,20 +840,20 @@ Jewish and the Christian chronologists we need only note that the Jews
 fixed the advent of Christ on the conventional date of 3760 after the
 creation.
 
-<span id="fn_661"></span>[284:4](rph22.htm#fr_661) Zend Avesta, vol. II,
+<span id="fn_661"></span>[284:4](rph22.htm#fr_661.md) Zend Avesta, vol. II,
 Life of Zoroaster.
 
-<span id="fn_662"></span>[284:5](rph22.htm#fr_662) Zend Avesta, vol. II,
+<span id="fn_662"></span>[284:5](rph22.htm#fr_662.md) Zend Avesta, vol. II,
 Life of Zoroaster.
 
-<span id="fn_663"></span>[285:6](rph22.htm#fr_663) Daniel, I, 1, Ezra,
+<span id="fn_663"></span>[285:6](rph22.htm#fr_663.md) Daniel, I, 1, Ezra,
 I, 2; II, 1. Josephus, Antiquities, Book XI, ch. IV, V.
 
-<span id="fn_664"></span>[285:7](rph22.htm#fr_664) Yost, General History
+<span id="fn_664"></span>[285:7](rph22.htm#fr_664.md) Yost, General History
 of the Israelites, Book X, ch. XI and XII,--Same author, History of the
 Israelites since the Maccabees, vol. XIV, the entire XIVth book.
 
-<span id="fn_665"></span>[286:8](rph22.htm#fr_665) The word Gahanbars
+<span id="fn_665"></span>[286:8](rph22.htm#fr_665.md) The word Gahanbars
 denotes the six creative epochs as well as the six festivals established
 as reminders for the faithful (M. Burnouf, Commentary to the Yacna, p.
 309). In the first epoch Ormuzd created <span id="page_287">p.
@@ -865,7 +865,7 @@ system of creation was taught already before Zoroaster by another Median
 or Chaldean prophet, called Djemshid.--Auquetil-Duperron, Life of
 Zoroaster, p. 67; Kleuker, vol. III, p. 59.
 
-<span id="fn_666"></span>[287:9](rph22.htm#fr_666) Ormuzd himself tells
+<span id="fn_666"></span>[287:9](rph22.htm#fr_666.md) Ormuzd himself tells
 his servant Zoroaster that he, Ormuzd, has given (or created) a place of
 delight and of abundance, called Eeriene Veedjo. This place, more
 beautiful than the entire world, resembled the Behesht (the celestial
@@ -879,7 +879,7 @@ water, the earth, the trees and the animals. Thus Ahriman fooled them at
 the very beginning, and until the end this cruel one endeavored to
 seduce them."--Zend Avesta, vol. III, p. 351 and 378.
 
-<span id="fn_667"></span>[287:10](rph22.htm#fr_667) "Devi, whose speech
+<span id="fn_667"></span>[287:10](rph22.htm#fr_667.md) "Devi, whose speech
 is all lie (Ahriman), becoming still bolder, came a second time and
 brought them (to the first couple) fruit of which they ate, and thus
 only the advantage of all the advantages was left to them." (Ib.,
@@ -890,7 +890,7 @@ from leaves for Adam and Eve. They then discovered iron, made an axe,
 felled trees and made tents for themselves; they finally united carnally
 and their children inherited their misery. (Ib. supr.)
 
-<span id="fn_668"></span>[287:11](rph22.htm#fr_668) On the day of
+<span id="fn_668"></span>[287:11](rph22.htm#fr_668.md) On the day of
 resurrection the soul will appear first; it will know its body and all
 men will recognize one another. They will be divided into two classes,
 the righteous and the darwands (the wicked). The righteous will go to
@@ -905,40 +905,40 @@ resurrected dead will enjoy the same rest. This could be called the
 seventh epoch of the creation, or the Sabbath of the Parsees.--Zend
 Avesta, vol. II, p. 414.
 
-<span id="fn_669"></span>[288:12](rph22.htm#fr_669) According to the
+<span id="fn_669"></span>[288:12](rph22.htm#fr_669.md) According to the
 Zend Avesta, the Bundehesh is the oldest religious book of the
 Parsees.--Zend Avesta, vol. III, p. 337.
 
-<span id="fn_670"></span>[288:13](rph22.htm#fr_670) All, except the last
+<span id="fn_670"></span>[288:13](rph22.htm#fr_670.md) All, except the last
 two. Although resurrection has been put down by Maimonides as one of the
 "Thirteen Articles of Faith."--Transl.
 
-<span id="fn_671"></span>[289:14](rph22.htm#fr_671) Zend Avesta, vol.
+<span id="fn_671"></span>[289:14](rph22.htm#fr_671.md) Zend Avesta, vol.
 II, p. 235; vol. III, p. 158.
 
-<span id="fn_672"></span>[289:15](rph22.htm#fr_672) Vendidad Sade, vol.
+<span id="fn_672"></span>[289:15](rph22.htm#fr_672.md) Vendidad Sade, vol.
 II, of the Zend Avesta, p. 325.
 
-<span id="fn_673"></span>[289:16](rph22.htm#fr_673) This scholar was
+<span id="fn_673"></span>[289:16](rph22.htm#fr_673.md) This scholar was
 generally influenced by many Persian views. Compare Sanhedrin, fol.
 07.--Jellinek
 
-<span id="fn_674"></span>[289:17](rph22.htm#fr_674) Tract. Berakoth,
+<span id="fn_674"></span>[289:17](rph22.htm#fr_674.md) Tract. Berakoth,
 fol. 6a. Another doctor even accuses the demons of wearing out the
 clothes of the rabbis by rubbing against them, <span
-id="fr_675"></span>[\*](#fn_675) ‏הני מאני דרבנן דבלן מחיפיה
+id="fr_675"></span>[\*](#fn_675.md) ‏הני מאני דרבנן דבלן מחיפיה
 דידהו.‎--Ib.
 
-<span id="fn_675"></span>[289:\*](rph22.htm#fr_675) ‏דידהו‎ is the
+<span id="fn_675"></span>[289:\*](rph22.htm#fr_675.md) ‏דידהו‎ is the
 possessive pronoun, talmudic for ‏דידהין‎. The author who translates
 with "par le frottement de leur mains" found the noun ‏די‎ "hand" in
 ‏דידהו‎.--Jellinek.
 
-<span id="fn_676"></span>[290:18](rph22.htm#fr_676) This passage was
+<span id="fn_676"></span>[290:18](rph22.htm#fr_676.md) This passage was
 translated into Latin by Buxtorf in his "Lexicon Talmudicus," p.
-2339. <span id="fr_681"></span>[\*](#fn_677)
+2339. <span id="fr_681"></span>[\*](#fn_677.md)
 
-<span id="fn_677"></span>[290:\*](rph22.htm#fr_681) It is found in
+<span id="fn_677"></span>[290:\*](rph22.htm#fr_681.md) It is found in
 Tractat Haggigah, fol. 16a. I have already corrected the original French
 text where the author omits the words "and die." For corroboration I
 quote literally from the Talmud:
@@ -951,30 +951,30 @@ quote literally from the Talmud:
 The phrase ‏תנן רבון‎ (our rabbis taught) and the expression ‏נאמרו‎ (it
 was said) may testify to the old age of this translation.--Jellinek
 
-<span id="fn_678"></span>[290:19](rph22.htm#fr_677) Ib. supr. <span
-id="fr_682"></span>[\*\*](#fn_679)
+<span id="fn_678"></span>[290:19](rph22.htm#fr_677.md) Ib. supr. <span
+id="fr_682"></span>[\*\*](#fn_679.md)
 
-<span id="fn_679"></span>[290:\*\*](rph22.htm#fr_682) Compare also
+<span id="fn_679"></span>[290:\*\*](rph22.htm#fr_682.md) Compare also
 Tract. Erubin, fol. 18h. ‏בל אותן שנים שהיה אדם הראשון בנדוי הוליד רוחין
 ושדין ולילין‎--Jellinek
 
-<span id="fn_680"></span>[290:20](rph22.htm#fr_678) See in the ‏קיצור
+<span id="fn_680"></span>[290:20](rph22.htm#fr_678.md) See in the ‏קיצור
 שני לוחות הברית‎, (p. 108a of the Amsterdam ed.) quite a curious extract
 from Rabbi Menahem, the Babylonian.
 
-<span id="fn_681"></span>[290:21](rph22.htm#fr_679) Zend Avesta, vol.
+<span id="fn_681"></span>[290:21](rph22.htm#fr_679.md) Zend Avesta, vol.
 II, p. 408. Kitzur, in the edition quoted in the previous note, p. 92b,
 45a.
 
-<span id="fn_682"></span>[290:22](rph22.htm#fr_680) Zend Avesta, vol.
+<span id="fn_682"></span>[290:22](rph22.htm#fr_680.md) Zend Avesta, vol.
 II, p. 114, 151. Ib., vol. III, p. 205, 206, 211-222.
 
-<span id="fn_683"></span>[291:23](rph22.htm#fr_683) Zohar, part III,
+<span id="fn_683"></span>[291:23](rph22.htm#fr_683.md) Zohar, part III,
 sect. (blank--JBH) p. 126b, Amsterdam ed. While taking the foundation of
 this scene from the Zohar we have added a few details from the Kitzur,
 p. 20, 21.
 
-<span id="fn_684"></span>[291:24](rph22.htm#fr_684) According to the
+<span id="fn_684"></span>[291:24](rph22.htm#fr_684.md) According to the
 Kabbalists there are seven ordeals: 1, the separation of body and soul;
 2, the recapitulation of the deeds of our life; 3, the time of burial;
 4, the ordeal or judgment of the grave; 5, the time when the dead, still
@@ -982,20 +982,20 @@ animated by the vital spirit ‏נפש‎.--Nefesh), feels the biting of the
 worms; 6, the punishment of hell; 7 the metempsychosis.--Zohar, ib.
 supr.
 
-<span id="fn_685"></span>[291:25](rph22.htm#fr_685) According to the
+<span id="fn_685"></span>[291:25](rph22.htm#fr_685.md) According to the
 Zohar text there are three angels. ‏תלתא בי דינא ממנן על דינא דקברא ותלת
 שרביטא דאשא בידייהו.‎--Jellinek
 
-<span id="fn_686"></span>[291:26](rph22.htm#fr_686) The same passage of
+<span id="fn_686"></span>[291:26](rph22.htm#fr_686.md) The same passage of
 the Zohar and of the Kitzur.
 
-<span id="fn_687"></span>[292:27](rph22.htm#fr_687) Zend Avesta, vol.
+<span id="fn_687"></span>[292:27](rph22.htm#fr_687.md) Zend Avesta, vol.
 II, p. 409, Vendidad Sade.
 
-<span id="fn_688"></span>[292:28](rph22.htm#fr_688) Thomas Hyde, Religio
+<span id="fn_688"></span>[292:28](rph22.htm#fr_688.md) Thomas Hyde, Religio
 veterum Persarum, p. 465, 477.
 
-<span id="fn_689"></span>[292:29](rph22.htm#fr_689) Orach Haim,
+<span id="fn_689"></span>[292:29](rph22.htm#fr_689.md) Orach Haim,
 directions for the washing of the hands (‏הלכית נטילת ידים‎), p. 54. The
 same is recommended by the Kabbalists. According to the latter, the
 higher soul leaves us during sleep, and we thus remain only with the
@@ -1003,7 +1003,7 @@ vital soul which is incapable of defending the body against impure
 spirits and deadly emanations.--Zohar, part I, sect. ‏וישב‎. See also
 the Talmud, Tract. Sabbath, ch. VIII.
 
-<span id="fn_690"></span>[292:30](rph22.htm#fr_690) This grouping of the
+<span id="fn_690"></span>[292:30](rph22.htm#fr_690.md) This grouping of the
 Talmudists with the followers of the Zoroastrian doctrine is incorrect.
 The Parsee praises the moon as an "Umshaspand that has light in it,"
 while the Jew praises God Who "renewed the moon." To the Parsee the moon
@@ -1014,11 +1014,11 @@ that we must refer the origin of the benediction of the moon (‏ברכית
 לבנה‎) to Parseeism, but only in so far as the Rabbis were compelled to
 consider the influence of Parseeism upon the people.--Jellinek
 
-<span id="fn_691"></span>[292:31](rph22.htm#fr_691) Zend Avesta, vol.
+<span id="fn_691"></span>[292:31](rph22.htm#fr_691.md) Zend Avesta, vol.
 III, p. 313. This custom is still extant to-day under the name of
 "Sanctification of the moon" (‏קידוש לבנה‎).
 
-<span id="fn_692"></span>[292:32](rph22.htm#fr_692) As soon as a Parsee
+<span id="fn_692"></span>[292:32](rph22.htm#fr_692.md) As soon as a Parsee
 woman has been delivered of a child, a burning lamp or a fire is
 maintained in her room for three days and three nights. Zend Av., vol.
 III, p. 565. Th. Hyde, I. c. p. 445. The Jews observe the same custom at
@@ -1026,7 +1026,7 @@ the death of a person. The ceremony of keeping away the demon Lillith
 from the newborn is still more complicated. But the reason for and the
 description of it are given in the book of Raziel.
 
-<span id="fn_693"></span>[293:33](rph22.htm#fr_693) In the litany
+<span id="fn_693"></span>[293:33](rph22.htm#fr_693.md) In the litany
 collection called "Yeshts Sades" we find prescribed prayers which the
 Parsee must say when cutting his nails, before and after attending to
 the call of nature, and before attending to conjugal duty.--Zend Av.,
@@ -1034,7 +1034,7 @@ vol. III, p. 117 120, 121, 123, 124. Similar prayers for the same
 circumstances are prescribed for the Jews. See Joseph Karo, Schulchan
 Aruch, p. 2, ‏הנהנות בית הכסא‎, and Kitzur, p. 32 ‏עניני זיננב‎
 
-<span id="fn_694"></span>[293:34](rph22.htm#fr_694) I want to emphasize
+<span id="fn_694"></span>[293:34](rph22.htm#fr_694.md) I want to emphasize
 a few points where the influence of Parseeism upon Judaism appears very
 plainly. Three steps backward are to be taken after finishing the
 "eighteen benedictions" (‏שמונה עשרה‎) Compare Tract. Yoma 53b; Orach
@@ -1046,51 +1046,51 @@ Taanit, fol. 56: .‏אמר ׳ר יוחנן אין מסיתין בסעודה‎ 
 CLXX, part Q. But we must hold on here to the viewpoint I established in
 my foregoing note. Because of the long sojourn in the Babylonian empire
 and because of the constant intercourse with it, the Jews adopted the
-Persian superstition and disbelief. The [superstition](errata.htm#31)
+Persian superstition and disbelief. The [superstition](errata.htm#31.md)
 rooted deep in the people, while the strange source whence it came was
 forgotten and vanished from memory. The talmudical teachers, therefore,
 could do no better than instigate religious feeling and reverence to God
 by utilizing, with some modifications, the popular superstition.
 Jellinek
 
-<span id="fn_695"></span>[294:35](rph22.htm#fr_695) Auquetil-Duperron,
+<span id="fn_695"></span>[294:35](rph22.htm#fr_695.md) Auquetil-Duperron,
 in the "Memoires de l’Academie des Inscriptions," vol. XXXVII, p. 584.
 
-<span id="fn_696"></span>[294:36](rph22.htm#fr_696) Vol. II of the Zend
+<span id="fn_696"></span>[294:36](rph22.htm#fr_696.md) Vol. II of the Zend
 Av., Vendidad. Ib., vol. III, Bundehesh. Ormuzd and Ahriman are called
 in this book a single people of limitless time.
 
-<span id="fn_697"></span>[294:37](rph22.htm#fr_697) Sharistani, ap.
+<span id="fn_697"></span>[294:37](rph22.htm#fr_697.md) Sharistani, ap.
 Thomas Hyde, de Veter. Pers, relig., p. 297. "Altera magorum secta sunt
 Zervanitae qui asserunt lucem produxisse personas ex luce, quae omnes
 erant spirituales, luminosae, dominales. Sed quod harum maxima persona,
 cui nomen Zervan, dubitavit de re aliqua, ex ista dubitatione emersit
 Satanas."
 
-<span id="fn_698"></span>[295:38](rph22.htm#fr_698) Memoires de
+<span id="fn_698"></span>[295:38](rph22.htm#fr_698.md) Memoires de
 l’Academie des Inscriptions, vol. XXXVII, p. 620.
 
-<span id="fn_699"></span>[295:39](rph22.htm#fr_699) Ib. supr. Here are
+<span id="fn_699"></span>[295:39](rph22.htm#fr_699.md) Ib. supr. Here are
 the words of the author: "The Honover combines, according to Zoroaster,
 the source and the model of all the perfection of the beings, the power
 to produce, and it manifests itself only by a kind of prolation of
 infinite time and of Ormuzd."
 
-<span id="fn_700"></span>[296:40](rph22.htm#fr_700) See Eugene Burnouf,
+<span id="fn_700"></span>[296:40](rph22.htm#fr_700.md) See Eugene Burnouf,
 Commentaire sur le Yacna, ch. I, to p. 146.
 
-<span id="fn_701"></span>[296:41](rph22.htm#fr_701) This is the sect of
+<span id="fn_701"></span>[296:41](rph22.htm#fr_701.md) This is the sect of
 the Zerdustians. The following is their view as given by Sharistani in
 the Latin translation of Thomas Hyde (de Vet., Pers. rel., p. 928): "et
 postquam effluxissent 3000 anni, transmisisse voluntatem suam in forma
 lucis fulgentis in figuram humanam."
 
-<span id="fn_702"></span>[296:42](rph22.htm#fr_702) They say that Ormuzd
+<span id="fn_702"></span>[296:42](rph22.htm#fr_702.md) They say that Ormuzd
 and Ahriman were *given* by Zervan, the eternal time. That Ormuzd has
 *given* the heavens and all its products. But the sense of this
 important word is nowhere determined clearly.
 
-<span id="fn_703"></span>[296:43](rph22.htm#fr_703) It is nevertheless
+<span id="fn_703"></span>[296:43](rph22.htm#fr_703.md) It is nevertheless
 important to note that in the Zend Avesta (Vol. II, p. 180) Ormuzd is
 called the "body of the bodies." Is it not, perhaps, the "substance of
 the substances," the "basis" (‏יסוד‎--Y’sod) of the Kabbalists? Burnouf
@@ -1099,21 +1099,21 @@ Sefer Yetzirah and in the Zohar, both worlds represented by the symbol
 of a burning coal; the higher world is the flame, and the visible nature
 is the burning matter.--Comment. sur le Yacna, p. 172.
 
-<span id="fn_704"></span>[297:44](rph22.htm#fr_704) Comment. sur le
+<span id="fn_704"></span>[297:44](rph22.htm#fr_704.md) Comment. sur le
 Yacna, p. 270.
 
-<span id="fn_705"></span>[297:45](rph22.htm#fr_705) See "Explanatory
+<span id="fn_705"></span>[297:45](rph22.htm#fr_705.md) See "Explanatory
 compendium of the Theological system of Zoroaster," Zend Av., vol. III,
 O. 595, and the Memoires de l’Academie des Inscript., vol. XXXVII, p.
 623.
 
-<span id="fn_706"></span>[297:46](rph22.htm#fr_706) Mem. de l’Acad. des
+<span id="fn_706"></span>[297:46](rph22.htm#fr_706.md) Mem. de l’Acad. des
 Inscript., vol. XXXVII, p. 640.
 
-<span id="fn_707"></span>[298:47](rph22.htm#fr_707) See Part II, ch.
+<span id="fn_707"></span>[298:47](rph22.htm#fr_707.md) See Part II, ch.
 III.
 
-<span id="fn_708"></span>[299:48](rph22.htm#fr_708) The soul proper or
+<span id="fn_708"></span>[299:48](rph22.htm#fr_708.md) The soul proper or
 the moral person, is itself composed of three faculties; 1, the
 principle of sensation; 2, the Roe or intelligence proper; 3, the Rouan,
 which holds the centre between the power of judgment and imagination.
@@ -1121,33 +1121,33 @@ These three faculties are inseparable and make up the one soul.
 Otherwise, I admit that this part of the psychology of the Parsees is
 not very clear to me.
 
-<span id="fn_709"></span>[299:49](rph22.htm#fr_709) Mem. de l’Acad. des
+<span id="fn_709"></span>[299:49](rph22.htm#fr_709.md) Mem. de l’Acad. des
 Inscript., passage quoted.
 
-<span id="fn_710"></span>[300:50](rph22.htm#fr_710) Thomas Hyde, work
+<span id="fn_710"></span>[300:50](rph22.htm#fr_710.md) Thomas Hyde, work
 cited, p. 296, 298, ch. XXII.
 
-<span id="fn_711"></span>[301:51](rph22.htm#fr_711) Zohar, part III, p.
+<span id="fn_711"></span>[301:51](rph22.htm#fr_711.md) Zohar, part III, p.
 9b, 10a, sect. ‏ויקרא‎, Amsterdam ed. We consider it our duty to note
 here that the ideas do not follow one after the other in the text. We
 were obliged to omit many repetitions and digressions which were not
 only useless, but extremely wearisome and entirely too long.
 
-<span id="fn_712"></span>[302:52](rph22.htm#fr_712) The author should
+<span id="fn_712"></span>[302:52](rph22.htm#fr_712.md) The author should
 have added: "Judaism after the return from the Babylonian exile until
 the conclusion of the Talmud." For the present-day Judaism the Kabbalah
 is an entirely strange element <span
-id="fr_713"></span>[a](#fn_713)--Jellinek
+id="fr_713"></span>[a](#fn_713.md)--Jellinek
 
-<span id="fn_713"></span>[302:a](rph22.htm#fr_713) A rather unfortunate
+<span id="fn_713"></span>[302:a](rph22.htm#fr_713.md) A rather unfortunate
 remark by the German translator. Can any one deny the preponderant
 influence of the Kabbalah upon Judaism during the Middle Ages, and even
 now through its direct descendant--Hassidism?--Transl.
 
-<span id="fn_714"></span>[303:53](rph22.htm#fr_714) See Lacroix,
+<span id="fn_714"></span>[303:53](rph22.htm#fr_714.md) See Lacroix,
 Memoires de l’empire Ottoman, p. 259 ff--Peter Beer, work cited, vol.
 II, p. 260 ff. Basnage, Histoire des Juifs, Book IX, etc.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](rph23)
+[Next: Appendix](rph23.md)

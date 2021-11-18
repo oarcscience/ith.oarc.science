@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](tee14)  [Next](tee16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](tee14)  [Next](tee16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Evil Eye*, by Frederick Thomas Elworthy, \[1895\], at Intangible
 Textual Heritage
 
@@ -36,7 +36,7 @@ most obvious examples. Their virtue was supposed to rest in the written
 words shut up in the little leather case; their Hebrew name was
 *tephillim*, but the name, by which we know them in the New Testament
 sufficiently proves that they were amulets. <span
-id="fr_640"></span>[609](#fn_640)
+id="fr_640"></span>[609](#fn_640.md)
 
 On Turkish horses and Arab camels at this day are hung little bags
 wherein are passages from the Koran; on Neapolitan horses, too, besides
@@ -69,23 +69,23 @@ the obligation, and to express his thanks for this unique rendering into
 English of a most curious document--a document proving up to the hilt
 all the statements put forward as to the world-wide prevalence, even in
 these latter days, of the firm belief in the power of the evil
-eye. <span id="fr_641"></span>[610](#fn_641) The eyes themselves
+eye. <span id="fr_641"></span>[610](#fn_641.md) The eyes themselves
 
 <span id="page_391">p. 391</span>
 
  
 
 <span id="img_39100"></span> <span align="CENTER"> [![](tn/39100.jpg)  
-Click to enlarge](img/39100.jpg)</span>
+Click to enlarge](img/39100.jpg.md)</span>
 
 <span id="img_39101"></span> <span align="CENTER"> [![](tn/39101.jpg)  
-Click to enlarge](img/39101.jpg)</span>
+Click to enlarge](img/39101.jpg.md)</span>
 
 <span id="img_39102"></span> <span align="CENTER"> [![](tn/39102.jpg)  
-Click to enlarge](img/39102.jpg)</span>
+Click to enlarge](img/39102.jpg.md)</span>
 
 <span id="img_39103"></span> <span align="CENTER"> [![](tn/39103.jpg)  
-Click to enlarge](img/39103.jpg)</span>
+Click to enlarge](img/39103.jpg.md)</span>
 
 FIG 186. ETHIOPIC CHARM AND CASE
 
@@ -106,7 +106,7 @@ One God. Prayer.
 For (against) the sickness of the slave (epilepsy) and the (evil) eye.
 
 4\. Awlo-mela-el: Metowé-mela-el: Corooking. <span
-id="fr_642"></span>[611](#fn_642)
+id="fr_642"></span>[611](#fn_642.md)
 
 5\. Bè illoo asmat  
 By these names
@@ -117,7 +117,7 @@ eye,
 
 7\. A\_ye\_né sella wa a\_ye\_né Za\_r,  
 The shadow of the eye and the eye of the Za\_r, <span
-id="fr_643"></span>[612](#fn_643)
+id="fr_643"></span>[612](#fn_643.md)
 
 <span id="page_392">p. 392</span>
 
@@ -131,7 +131,7 @@ Colic and headache,
 Rending, and sharp pain, and painful micturition.
 
 11\. Ikerba lamatka welata Tekla Haimanoot. <span
-id="fr_644"></span>[613](#fn_644)  
+id="fr_644"></span>[613](#fn_644.md)  
 Keep thy servant, the daughter of Tekla Haimanoot.
 
 12\. Ave\_ isa^t, weld isa^t, wa manfar ke^doos isa^t,  
@@ -142,7 +142,7 @@ The chain of the demons.
 
 14\. Betaranyou: Bejune: Cashoon: wa Veaifa-satavias  
 15. Mashfatanersh: Keeyakee: Borons: Carityanos. <span
-id="fr_645"></span>[614](#fn_645)
+id="fr_645"></span>[614](#fn_645.md)
 
 16\. Bè illoo asmat iseromoo lè aganant.  
 By these names chain the demons (viz. the following),
@@ -155,9 +155,9 @@ Za\_r and Nagergar: plague and sudden sickness
 
 18\. Mitch wa Mitat; Nahavi wa goosimt:  
 Sharp pain and stroke; the hunter and the toucher; <span
-id="fr_646"></span>[615](#fn_646)
+id="fr_646"></span>[615](#fn_646.md)
 
-19\. Tavive wa Booda: <span id="fr_647"></span>[616](#fn_647) Googooha
+19\. Tavive wa Booda: <span id="fr_647"></span>[616](#fn_647.md) Googooha
 wa tigrida:  
 The clever-wicked and sorcerers; choking and wild paroxysm;
 
@@ -167,7 +167,7 @@ The clever-wicked and sorcerers; choking and wild paroxysm;
 Fever and ague; fever and periodic illness.
 
 21\. Cama iyikravoo imlaila amatea Welata Tekla Haimanoot. <span
-id="fr_648"></span>[617](#fn_648)  
+id="fr_648"></span>[617](#fn_648.md)  
 Lest they approach her, (and fall) on thy servant, the daughter of Tekla
 Haimanoot.
 
@@ -182,17 +182,17 @@ Coltekolcol, Coltekolcol. (Repetition in Sevens.)
 25\. Gohajir, Gohajir, Gohajir, Gohajir, Gohajir, Gohajir, Gohajir.
 
 26\. Gorgovajir, Gorgovajir, Gorgovajir, Gorgovajir, Gorgovajir,
-Gorgovajir, Gorgovajir. <span id="fr_649"></span>[618](#fn_649)
+Gorgovajir, Gorgovajir. <span id="fr_649"></span>[618](#fn_649.md)
 
 27\. Bè illoo asmat, Ikaba imdingaza aganant,  
 By these names keep her from the terror of the demons,
 
 28\. Baraya wa magaña, Za\_r wa kuraña, Algoom wa Koomaña. <span
-id="fr_650"></span>[619](#fn_650)  
+id="fr_650"></span>[619](#fn_650.md)  
 still birth, evil possession, dumbness and standing sickness.
 
 29\. Adihinna, lamatika, Welata Tekla Haimanoot. <span
-id="fr_651"></span>[620](#fn_651)  
+id="fr_651"></span>[620](#fn_651.md)  
 Deliver her, thy servant, daughter of Tekla Haimanoot.
 
 30\. Wa ga\_zoo zalizoom lé zilmat, firha wa dangaza Dia\_volos
@@ -205,7 +205,7 @@ When he saw the mighty one who was born in the flesh (even) God, in
 hell.
 
 32\. El; M'el; Jan'el; Ililfarsangana-el; M'el; Telk-el; Walil-el; Z'el;
-B'el; M'el. <span id="fr_652"></span>[621](#fn_652)
+B'el; M'el. <span id="fr_652"></span>[621](#fn_652.md)
 
 33\. Fatare samayat wa midir, Adihinnani lamatika Eon Kalloo deerè taviv
 wa booda goorgooha wa tigrida, Welata Tekla Haimanoot.
@@ -229,7 +229,7 @@ words: "Bind him! Bind him! Bind him!"
 
 Coming back from Abyssinia to England, we subjoin to the above the
 following genuine recipes. They are taken from a book which belonged to
-the "Conjurer" referred to in note [80](tee04.htm#fn_83), Chap. II. p.
+the "Conjurer" referred to in note [80](tee04.htm#fn_83.md), Chap. II. p.
 55:--
 
 A Receipt for Ill Wishing
@@ -259,7 +259,7 @@ first
 
 thirteen verses of the 28th chapter of Duteronomy (*sic*) and no more
 every morning before you go to see your Cattle. <span
-id="fr_653"></span>[621a](#fn_653)
+id="fr_653"></span>[621a](#fn_653.md)
 
 The Ethiopic and the Somerset charms are exactly contemporary. The man
 who used the latter was well known to the writer.
@@ -272,7 +272,7 @@ Greek) of about the second century A.D. It came from Egypt, and was
 discovered in one of the later tombs. The magic arts practised in the
 early years of the Christian era, which Irenæus, Origen, Epiphanius, and
 other Fathers lay to the charge of the heretics of their day, are
-he-rein laid bare. <span id="fr_654"></span>[622](#fn_654)
+he-rein laid bare. <span id="fr_654"></span>[622](#fn_654.md)
 
 Several spells are given in this document for various purposes, amongst
 which is one for producing an immediate vision of the god evoked by the
@@ -319,11 +319,11 @@ one untimely dead. And after the characters write also these words below
 the ring as a base (five lines of Greek) and the . . . spell which you
 also place within.
 
-We give a facsimile (Fig. [187](#img_39700)) of the figure to which the
+We give a facsimile (Fig. [187](#img_39700).md) of the figure to which the
 above refers, taken from Mr. Goodwin's paper; to this for further
 particulars the reader is referred. So valuable a relic of the doings of
 past ages ought to be well known. <span
-id="fr_655"></span>[623](#fn_655)
+id="fr_655"></span>[623](#fn_655.md)
 
 Written charms of this kind, intended to cast a spell as well as to be
 protectives, have been found
@@ -336,13 +336,13 @@ by M. Fauvel. These latter are on leaden tablets, and are called
 
 <span id="img_39700"></span> <span align="CENTER"> [![FIG.
 187.](tn/39700.jpg)  
-Click to enlarge](img/39700.jpg)  
+Click to enlarge](img/39700.jpg.md)  
 FIG. 187.  
 </span>
 
 in the same manner as is done in that just described, and in the
 Ethiopic charm. The whole household of the man named are placed under
-the same spell. <span id="fr_656"></span>[624](#fn_656)
+the same spell. <span id="fr_656"></span>[624](#fn_656.md)
 
 Among the gems at the British Museum is a very beautiful little golden
 scroll, which was found rolled up in a gold case of precisely the same
@@ -351,7 +351,7 @@ shape as the Ethiopian charm. It is of course very minute, being
 <span id="page_398">p. 398</span>
 
 no thicker than an ordinary lead pencil, and about two inches
-long. <span id="fr_657"></span>[625](#fn_657) It is marked
+long. <span id="fr_657"></span>[625](#fn_657.md) It is marked
 Petilia·S·Italy \[C. ·I·5772 M·\].
 
 There does not appear to be anything which may be termed Magical in the
@@ -359,7 +359,7 @@ words, but neither is there in passages from Scripture or the Koran worn
 at the present day. It is very difficult in most cases to perceive any
 connection between the actual words or figures used, and the purpose for
 which they are inscribed. This one is based on the ancient Orphic
-mysticism. <span id="fr_658"></span>[626](#fn_658) The shape of the case
+mysticism. <span id="fr_658"></span>[626](#fn_658.md) The shape of the case
 and general conditions, however, prove it incontestably to have been a
 charm for the protection of the wearer.
 
@@ -381,13 +381,13 @@ FIG. 188<br />
 </table>
 
 have to be prepared with such accompaniments as white of egg mixed with
-oak charcoal, to be wrapped in paper having Fig. [188](#img_39800) upon
+oak charcoal, to be wrapped in paper having Fig. [188](#img_39800.md) upon
 it. A prayer is to be uttered in German gibberish, of which he says:
 "Sed modus hic est absurdus, impius, magicus et Diabolicus." In the same
 chapter he discusses the meaning of *cauculator*, whence German
 *Gauckler*. He inquires whence Okos Bokos? He says: "Agyrtæ vocant *Okos
 Bokos*, vocabulis a vero vel ficto nomine Itali cuiusdam." <span
-id="fr_659"></span>[627](#fn_659) He gives several
+id="fr_659"></span>[627](#fn_659.md) He gives several
 
 <span id="page_399">p. 399</span>
 
@@ -396,21 +396,21 @@ not only against hemitritæum, but also against fevers and other
 maladies. This famous cabalistic form is of very ancient date, for even
 in the third century it was a traditional prescription, set out at
 length by Qu. Serenus Ammoniacus, <span
-id="fr_660"></span>[628](#fn_660) physician to Gordian Junior. <span
-id="fr_661"></span>[629](#fn_661) He directs it to be written in the
+id="fr_660"></span>[628](#fn_660.md) physician to Gordian Junior. <span
+id="fr_661"></span>[629](#fn_661.md) He directs it to be written in the
 form of an inverted cone, *i.e.* each line of repetition drops the final
 letter until A alone remains as the apex. Frommannd (p. 309) says that
 this is like the amulet of the Talmudists, worn on their necks against
-blindness. <span id="fr_662"></span>[630](#fn_662)
+blindness. <span id="fr_662"></span>[630](#fn_662.md)
 
 Very closely allied to these writings for the protection of the living,
 is the remarkable custom still surviving in Russia, of placing in the
 hands of the dead a sort of passport to the nether-world almost
 precisely analogous to the "Book of the Dead" of ancient Egypt, see
-*ante*, pp. [50](tee04.htm#page_50), [51](tee04.htm#page_51).
+*ante*, pp. [50](tee04.htm#page_50), [51](tee04.htm#page_51.md).
 
 At the burial of the late Czar we read:-- <span
-id="fr_663"></span>[630a](#fn_663)
+id="fr_663"></span>[630a](#fn_663.md)
 
 A prayer was chanted, described as the Prayer of Absolution. It begins
 with the words: "Our Lord Jesus Christ, by virtue of His divine grace,
@@ -443,7 +443,7 @@ The first words of the Gospel of St. John in any of the Aryan languages
 have always been held of great virtue when carried on the person. These
 should be written upon virgin parchment, enclosed in a goose quill, an
 hour before sunrise on the first Sunday in the year. <span
-id="fr_664"></span>[631](#fn_664)
+id="fr_664"></span>[631](#fn_664.md)
 
 Brand (iii. 319) gives a number of similar inscriptions, which were
 called *Characts*, but the real collector of them must go to Frommannd
@@ -458,7 +458,7 @@ several
 <span id="page_401">p. 401</span>
 
 times. The performer is to repeat the Lord's Prayer five times for the
-five wounds of Christ, etc. <span id="fr_665"></span>[632](#fn_665)
+five wounds of Christ, etc. <span id="fr_665"></span>[632](#fn_665.md)
 
 |     |     |     |     |     |
 |-----|-----|-----|-----|-----|
@@ -504,7 +504,7 @@ In den Namen der 3, Gestern, Gafalon, Samalecti, etc. etc.
 <span id="page_402">p. 402</span>
 
 Other amulets to be worn against fascination <span
-id="fr_666"></span>[633](#fn_666) are the following, engraved upon
+id="fr_666"></span>[633](#fn_666.md) are the following, engraved upon
 silver plates.
 
 <span id="img_40200"></span> ![](img/40200.jpg)
@@ -512,7 +512,7 @@ silver plates.
 Besides seventeenth-century metal objects of this kind to be worn as
 charms, there are a great many written formulæ in Latin and German, or
 rather in gibberish, intended both to be worn as amulets in suitable
-cases like the three on Fig. [112](tee11.htm#img_25900), and to be
+cases like the three on Fig. [112](tee11.htm#img_25900.md), and to be
 uttered in mumbo-jumbo incantation.
 
 Combinations of figures, too, have long had high reputation as efficient
@@ -544,7 +544,7 @@ latter is
 said to be a veritable amulet, and if your enemy's name be written
 underneath it, and you wear this as a charm, his envy will be baffled
 and his eye will be powerless against you. <span
-id="fr_667"></span>[634](#fn_667)
+id="fr_667"></span>[634](#fn_667.md)
 
 Not only do we find great store set upon the many combinations such as
 these, but very wonderful things are done with figures outside the
@@ -558,7 +558,7 @@ the Book of Daniel, whereby the end of the world has been so often
 foretold, and the "number of the beast" deciphered!
 
 In an article called "In Calabria-Passeggiate," by Caterina
-Pignorini-Beri, <span id="fr_668"></span>[635](#fn_668) is a description
+Pignorini-Beri, <span id="fr_668"></span>[635](#fn_668.md) is a description
 of what was seen in a peasant's house:--
 
 In an angle just over the doorway was affixed a horseshoe; above this
@@ -572,7 +572,7 @@ the evil eye, Miss" ("*Pel fora fascino, signorina*"). "And what is the
 evil eye?" "Ah!" said the old woman, pointing the fore and little
 fingers towards the ground:--
 
-"Ah! eight nine, eight nine!" <span id="fr_669"></span>[636](#fn_669)
+"Ah! eight nine, eight nine!" <span id="fr_669"></span>[636](#fn_669.md)
 
 But why eight nine?"
 
@@ -626,7 +626,7 @@ The Egyptians had triads of divinities, specially worshipped in
 particular cities, while the Romans had their Diana Triformis. In the
 Hebrides the accounts given in Chap. II. on sun-worship show that each
 act was performed three times. We are told <span
-id="fr_670"></span>[637](#fn_670) that in Ireland a cure for
+id="fr_670"></span>[637](#fn_670.md) that in Ireland a cure for
 whooping-cough, called there *chin-cough*, is to pass the child three
 times over and under a donkey, certain prayers being said during the
 operation. So spitting as a preventive act had to be done three times,
@@ -661,7 +661,7 @@ Perhaps in these latter days, however, the magic number seven is the one
 most used. It is that of the strega in Calabria, and of the white-witch
 in England. A seventh son of a seventh son is a born doctor--he has
 miraculous powers of healing by touch. <span
-id="fr_671"></span>[638](#fn_671) "The doctor" is the recognised name
+id="fr_671"></span>[638](#fn_671.md) "The doctor" is the recognised name
 here in
 
 <span id="page_407">p. 407</span>
@@ -676,11 +676,11 @@ seven; seven weeks divided the great feasts. There were seven Churches
 in Asia; the great dragon of the Revelation had seven heads; there were
 seven angels with seven vials; besides a host of sevens, where perhaps
 only an indefinite number was implied. <span
-id="fr_672"></span>[639](#fn_672) Curiously, too, the common name for
+id="fr_672"></span>[639](#fn_672.md) Curiously, too, the common name for
 the dormouse is the "seven-sleeper," no doubt from the Seven Sleepers of
-Ephesus. <span id="fr_673"></span>[640](#fn_673) We west-country folks
+Ephesus. <span id="fr_673"></span>[640](#fn_673.md) We west-country folks
 talk of a person who sleeps soundly as a "proper zeb'm-slaiper." <span
-id="fr_674"></span>[640a](#fn_674) Again, there is a very common belief
+id="fr_674"></span>[640a](#fn_674.md) Again, there is a very common belief
 that in seven years a man changes every atom in his body, and that each
 seventh year of his life is a climacteric in which he has to pass
 through dangers physical and moral. The sixty-third year, that is the
@@ -702,7 +702,7 @@ Arthur Hopton, 1612, gives a chapter headed "Of the infortunate and
 fatall dayes of the yeare," etc., which throws some light upon the
 methods of "wise men." It sets out the infortunate days, beginning--
 
-January the 1, 2, 4, 5, 10, <span id="fr_675"></span>[641](#fn_675) 15,
+January the 1, 2, 4, 5, 10, <span id="fr_675"></span>[641](#fn_675.md) 15,
 17, 19.
 
 February the 8, 10, and the 17.
@@ -768,24 +768,24 @@ composed, whereby such discoveries can be made.
 
 ### Footnotes
 
-<span id="fn_640"></span>[389:609](tee15.htm#fr_640) The *tephillah* of
+<span id="fn_640"></span>[389:609](tee15.htm#fr_640.md) The *tephillah* of
 the arm and of the forehead have been already explained ([p.
-124](tee06.htm#page_124)), and the Scripture texts recited.
+124](tee06.htm#page_124).md), and the Scripture texts recited.
 
-<span id="fn_641"></span>[390:610](tee15.htm#fr_641) In Mr. Theodore
+<span id="fn_641"></span>[390:610](tee15.htm#fr_641.md) In Mr. Theodore
 Bent's *Sacred City of the Ethiopians*, pp. 165, 166, are facsimiles of
 charms of just this character, and also drawings of several <span
 id="page_391">p. 391</span> leather cases like the one here produced
-(Fig. [186](#img_39100)). There is also a learned chapter on
+(Fig. [186](#img_39100).md). There is also a learned chapter on
 "Inscriptions," by Dr. David Heinrich Müller of Vienna, but none of the
 charms are described or translated. In fact it is confidently believed
 that at present there is no European now in Europe who can read them, or
 the one here lithographed.
 
-<span id="fn_642"></span>[391:611](tee15.htm#fr_642) Mr. Weakley's
+<span id="fn_642"></span>[391:611](tee15.htm#fr_642.md) Mr. Weakley's
 Notes. Secret names of God.
 
-<span id="fn_643"></span>[391:612](tee15.htm#fr_643) Za\_r. The
+<span id="fn_643"></span>[391:612](tee15.htm#fr_643.md) Za\_r. The
 following paragraph is copied from Isenberg's *Amharic Dictionary*,
 C.M.S. London, 1841--a very scarce book--under the word "Za\_r," p. 156:
 "Name of a sort of demons or genii, to whose influence the people of
@@ -810,17 +810,17 @@ into which they work themselves by vehemently smoking, praying, and
 shaking of the head, their language alters so as to call everything by
 names which are known only to the Za\_r worshippers."
 
-<span id="fn_644"></span>[392:613](tee15.htm#fr_644) Tecla Halmanoot,
+<span id="fn_644"></span>[392:613](tee15.htm#fr_644.md) Tecla Halmanoot,
 "one of the most celebrated Abyssinian saints, a native of Shoa, who
 flourished in the thirteenth century" (Isenberg's *Amharic Dictionary*).
 
-<span id="fn_645"></span>[392:614](tee15.htm#fr_645) Secret names of
+<span id="fn_645"></span>[392:614](tee15.htm#fr_645.md) Secret names of
 God.
 
-<span id="fn_646"></span>[392:615](tee15.htm#fr_646) i.e. the demon who
+<span id="fn_646"></span>[392:615](tee15.htm#fr_646.md) i.e. the demon who
 hunts to death, and the demon who touches gently to death.
 
-<span id="fn_647"></span>[392:616](tee15.htm#fr_647) *Cf.* "Taviv wa
+<span id="fn_647"></span>[392:616](tee15.htm#fr_647.md) *Cf.* "Taviv wa
 Booda." The latter word in Isenberg's *Dictionary* is explained "as an
 adjective: '*Mad*,' Esp. '*sorcerer*,' generally sorceress.' The
 Abyssinian's belief in witchcraft goes so far as to ascribe to its
@@ -835,52 +835,52 @@ than common skill or genius, are looked upon as Boodas. The hyæna is
 generally believed to be a transformation of a Booda."
 
 These people have been so called ever since the days of Herodotus, see
-*ante*, Chap. 1. [p. 28](tee03.htm#page_28).
+*ante*, Chap. 1. [p. 28](tee03.htm#page_28.md).
 
-<span id="fn_648"></span>[393:617](tee15.htm#fr_648) See note
-[613](#fn_644), p. 392.
+<span id="fn_648"></span>[393:617](tee15.htm#fr_648.md) See note
+[613](#fn_644.md), p. 392.
 
-<span id="fn_649"></span>[393:618](tee15.htm#fr_649) Secret names.
+<span id="fn_649"></span>[393:618](tee15.htm#fr_649.md) Secret names.
 
-<span id="fn_650"></span>[393:619](tee15.htm#fr_650) Koomaña, "standing
+<span id="fn_650"></span>[393:619](tee15.htm#fr_650.md) Koomaña, "standing
 sickness." A disease which works imperceptibly and fatally while the
 person affected is "on his feet," *i.e.* going about as if in health.
 
-<span id="fn_651"></span>[393:620](tee15.htm#fr_651) See note
-[613](#fn_644), p. 392.
+<span id="fn_651"></span>[393:620](tee15.htm#fr_651.md) See note
+[613](#fn_644.md), p. 392.
 
-<span id="fn_652"></span>[393:621](tee15.htm#fr_652) Names of God.
+<span id="fn_652"></span>[393:621](tee15.htm#fr_652.md) Names of God.
 
-<span id="fn_653"></span>[395:621a](tee15.htm#fr_653) These recipes are
+<span id="fn_653"></span>[395:621a](tee15.htm#fr_653.md) These recipes are
 inserted here by way of comparison of language with the Abyssinian;
 naturally their place would be in the next chapter.
 
-<span id="fn_654"></span>[395:622](tee15.htm#fr_654) The part preserved
+<span id="fn_654"></span>[395:622](tee15.htm#fr_654.md) The part preserved
 is apparently imperfect; but an account of it with a translation
 alongside the text is given by Mr. Charles Wycliffe Goodwin for the
 Cambridge Antiquarian Society, 1852, in a paper called *Fragment of a
 Græco-Egyptian Work upon Magic*.
 
-<span id="fn_655"></span>[396:623](tee15.htm#fr_655) See also R. Stuart
+<span id="fn_655"></span>[396:623](tee15.htm#fr_655.md) See also R. Stuart
 Poole in Smith's *Dict. Bible*, s, v. "Magic," p. 197.
 
-<span id="fn_656"></span>[397:624](tee15.htm#fr_656) Miss L. Macdonald,
+<span id="fn_656"></span>[397:624](tee15.htm#fr_656.md) Miss L. Macdonald,
 *Proc. Soc. Bib. Archæol.* Feb. 1891, p. 162 sq. In the article quoted
 from, much information is given about tablets and injurious
 inscriptions. The author refers to the papyrus we have mentioned known
 as the "Goodwin Cambridge Fragment." There is also a similar "binding"
 Latin inscription quoted by Jahn, *Aberglauben*, p. 55
 
-<span id="fn_657"></span>[398:625](tee15.htm#fr_657) The case is
+<span id="fn_657"></span>[398:625](tee15.htm#fr_657.md) The case is
 described in *Bullettino dell' Istit. di Corr. Archeol.* 1836, p. 149.
 
-<span id="fn_658"></span>[398:626](tee15.htm#fr_658) On this see Lobeck,
+<span id="fn_658"></span>[398:626](tee15.htm#fr_658.md) On this see Lobeck,
 *Aglaophamus*, p. 643. A facsimile of the original inscription with a
 translation into literary Greek by Mr. Cecil Smith will be found in an
 article by G. Comparetti, in *Journal of Hellenic Studies*, vol. iii. p.
 112.
 
-<span id="fn_659"></span>[398:627](tee15.htm#fr_659) Here is a new
+<span id="fn_659"></span>[398:627](tee15.htm#fr_659.md) Here is a new
 etymology of *hocus pocus* for Dr. Murray! For this he <span
 id="page_399">p. 399</span> quotes Voetius, lib. iii. *Dispp*. p. 542.
 Ady (*Candle in the Dark*) says that in King James's time a juggler went
@@ -888,67 +888,67 @@ about who called himself "the King's Majesty's most excellent *Hocus
 Pocus*" (Hone, *Year-Book*, 1832, p. 1477). This seems to match
 Frommannd.
 
-<span id="fn_660"></span>[399:628](tee15.htm#fr_660) Frommannd, pp. 45,
+<span id="fn_660"></span>[399:628](tee15.htm#fr_660.md) Frommannd, pp. 45,
 307.
 
-<span id="fn_661"></span>[399:629](tee15.htm#fr_661) King, *Gnostics*,
+<span id="fn_661"></span>[399:629](tee15.htm#fr_661.md) King, *Gnostics*,
 p. 105, gives a translation of the Abracadabra prescription.
 
-<span id="fn_662"></span>[399:630](tee15.htm#fr_662) He gives the Hebrew
+<span id="fn_662"></span>[399:630](tee15.htm#fr_662.md) He gives the Hebrew
 formula, and several others written in the same cone shape.
 
-<span id="fn_663"></span>[399:630a](tee15.htm#fr_663) *Daily Telegraph*,
+<span id="fn_663"></span>[399:630a](tee15.htm#fr_663.md) *Daily Telegraph*,
 Nov. 20, 1894; also *Spectator*, Nov. 24, 1894, p. 733.
 
-<span id="fn_664"></span>[400:631](tee15.htm#fr_664) Thiers, *Traité des
+<span id="fn_664"></span>[400:631](tee15.htm#fr_664.md) Thiers, *Traité des
 Superstitions*, i. 414. Freemasons again will recognise something here.
 
-<span id="fn_665"></span>[401:632](tee15.htm#fr_665) Frommannd, p. 46.
+<span id="fn_665"></span>[401:632](tee15.htm#fr_665.md) Frommannd, p. 46.
 We are told (J. Lewes André, in *Reliquary*, October 1893, p. 195) that
 this is a Roman charm found at Cirencester on a piece of plaster; it
 evidently was well known elsewhere; also that it was written upon the
 binding cloth of a woman in the Middle Ages. The Cirencester charm had
 the same words differently arranged.
 
-<span id="fn_666"></span>[402:633](tee15.htm#fr_666) *Tract. de Fasc.*
+<span id="fn_666"></span>[402:633](tee15.htm#fr_666.md) *Tract. de Fasc.*
 p. 306. Many other cabalistic formulæ will be found.
 
-<span id="fn_667"></span>[403:634](tee15.htm#fr_667) Chambers's
+<span id="fn_667"></span>[403:634](tee15.htm#fr_667.md) Chambers's
 *Cyclopædia*, s.v. "Magic."
 
-<span id="fn_668"></span>[403:635](tee15.htm#fr_668) *Nuova Antologia*,
+<span id="fn_668"></span>[403:635](tee15.htm#fr_668.md) *Nuova Antologia*,
 Roma, Luglio, 1883, p. 71.
 
-<span id="fn_669"></span>[404:636](tee15.htm#fr_669) It is to be noted
+<span id="fn_669"></span>[404:636](tee15.htm#fr_669.md) It is to be noted
 as a curious coincidence that the magic square sums up in each line the
 same product as these two potent factors--8 x 9 = 72.
 
-<span id="fn_670"></span>[405:637](tee15.htm#fr_670) Le Fanu, *Seventy
+<span id="fn_670"></span>[405:637](tee15.htm#fr_670.md) Le Fanu, *Seventy
 Years of Irish Life*, 1894, p. 113
 
-<span id="fn_671"></span>[406:638](tee15.htm#fr_671) Lupton, *Notable
+<span id="fn_671"></span>[406:638](tee15.htm#fr_671.md) Lupton, *Notable
 Things*, 1660, bk. ii. p. 25. See also Thiers, *Traité des
 Superstitions*, 1679, p. 436.
 
-<span id="fn_672"></span>[407:639](tee15.htm#fr_672) In the *Nineteenth
+<span id="fn_672"></span>[407:639](tee15.htm#fr_672.md) In the *Nineteenth
 Century* for October 1894 is an article on "The Seven Lord Roseberys,"
 discussed, however, in twelve divisions!
 
-<span id="fn_673"></span>[407:640](tee15.htm#fr_673) For an account of
+<span id="fn_673"></span>[407:640](tee15.htm#fr_673.md) For an account of
 the Seven Sleepers see Baring-Gould, *Curious Myths of the Middle Ages*,
 p. 93. At Ephesus the story is devoutly believed. The writer has been
 shown into the cave in which they slept.
 
-<span id="fn_674"></span>[407:640a](tee15.htm#fr_674) "For no sooner did
+<span id="fn_674"></span>[407:640a](tee15.htm#fr_674.md) "For no sooner did
 Abraham pay the eighteenpence than he slept as sound as a sebem-sleeper,
 and began to get the good of his victuals."--W. Raymond, "Love and Quiet
 Life," *Somerset Idylls*, 1894, p. 206. See *West Somerset Word-Book*.
 
-<span id="fn_675"></span>[408:641](tee15.htm#fr_675) The present writer
+<span id="fn_675"></span>[408:641](tee15.htm#fr_675.md) The present writer
 has no practical reason to complain of this day, during the many "happy
 returns of it" for which he has given thanks.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. Spitting, Incantation, and Other Protective Acts.
-Pixies](tee16)
+Pixies](tee16.md)

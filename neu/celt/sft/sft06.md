@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sft05)  [Next](sft07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sft05)  [Next](sft07.md) 
 
 ------------------------------------------------------------------------
 
@@ -1376,4 +1376,4 @@ Changelings
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Robberies from Fairyland](sft07)
+[Next: Chapter VI: Robberies from Fairyland](sft07.md)

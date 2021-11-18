@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt06)  [Next](ettt08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt06)  [Next](ettt08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 
 ### THE SUPERB INITIATION RITUAL
 
-### OF AHM GTSUG[1](ettt07.htm#an_n_6:1)<span id="an_r_6:1"></span> VAJRAPĀṆI
+### OF AHM GTSUG[1](ettt07.htm#an_n_6:1.md)<span id="an_r_6:1"></span> VAJRAPĀṆI
 
 <span id="img_09200"></span>
 
@@ -37,7 +37,7 @@ preparations are required, and the Vase and Gtor-ma should be arranged.
 
 The yogi should think that both he and the front Gtor-ma instantaneously
 become Vajrapani, whose hair is as white as a shell, appearing in a form
-of Drang Strong[2](ettt07.htm#an_n_6:2)<span id="an_r_6:2"></span>. His
+of Drang Strong[2](ettt07.htm#an_n_6:2.md)<span id="an_r_6:2"></span>. His
 right hand lifts up in a threatening manner of conquering all the
 hindrances, and his left hand holds the bell in front of his breast as a
 sign of attracting and increasing longevity, merits, and prosperities.
@@ -82,7 +82,7 @@ One-Hundred-and-Eight Praisings*. These different forms can be
 classified as the Wrathful Ones, the Peaceful Ones, and the
 Wrathful-Peaceful Ones. This initiation belongs to the Wrathful-Peaceful
 form. According to the *Heart Treasury of the Heavenly Dharma*,
-Vajrapani has thirteen different [ ](errata.htm#12) forms; this
+Vajrapani has thirteen different [ ](errata.htm#12.md) forms; this
 Vajrapani is the one appearing in the form of Ahm Gtsug. He is not known
 heretofore on earth.
 
@@ -110,7 +110,7 @@ him the thunderbolt as the symbol of initiation. Then Vajrapani said to
 the Buddha, "O my Lord Bhaghavan! I am the protector of all Buddhas in
 the three times; I was the protector of the seven Buddhas in the past; I
 am the protector of the present Buddha and will be the protector of the
-nine-hundred-and-ninety-two[3](ettt07.htm#an_n_6:3)<span
+nine-hundred-and-ninety-two[3](ettt07.htm#an_n_6:3.md)<span
 id="an_r_6:3"></span> Buddhas in the future. I shall be their protectors
 until all of the one thousand Buddhas in this Kalpa have completed their
 missions. I shall protect them from all hindrances. I have besought the
@@ -392,7 +392,7 @@ incantation and add: *Gaya Ahbi Ahi Tsa Mam!*
 
 <span id="img_pl02"></span> <span align="CENTER"> [![PLATE
 II](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 PLATE II  
 </span>
 
@@ -471,7 +471,7 @@ I beseech all of you!
 1 pray you bless my disciples!
 
 I pray you protect them from all kinds of demons and sickness from the
-planets[4](ettt07.htm#an_n_6:4)<span id="an_r_6:4"></span>… \[and\]
+planets[4](ettt07.htm#an_n_6:4.md)<span id="an_r_6:4"></span>… \[and\]
 epilepsy,
 
 I pray you increase their merits and advance their meditation
@@ -493,29 +493,29 @@ At the end of this initiation the disciples all say to the guru:
 
 ##### NOTES
 
-[1](ettt07.htm#an_r_6:1)<span id="an_n_6:1"></span>. *Ahm Gtsug:* This
+[1](ettt07.htm#an_r_6:1.md)<span id="an_n_6:1"></span>. *Ahm Gtsug:* This
 word is obviously a mistake made by the copyist. The translator presumes
 that this word should be spelled Ahm Gtsigs, which means using the upper
 teeth to press the lower lip when one is in despair or anger. <span
-id="fr_5"></span>[\*](#fn_5)
+id="fr_5"></span>[\*](#fn_5.md)
 
-[2](ettt07.htm#an_r_6:2)<span id="an_n_6:2"></span>. *Drang Srong:* The
+[2](ettt07.htm#an_r_6:2.md)<span id="an_n_6:2"></span>. *Drang Srong:* The
 sages, hermits, or anchorites. Also means the *Rishi*, the deific sages
 who can perform miracles.
 
-[3](ettt07.htm#an_r_6:3)<span id="an_n_6:3"></span>. According to
+[3](ettt07.htm#an_r_6:3.md)<span id="an_n_6:3"></span>. According to
 Buddhist tradition, one thousand Buddhas will appear in this world in
 this Kalpa. Eight Buddhas have already appeared, therefore the
 Buddhas-to-come total nine hundred and ninety-two.
 
-[4](ettt07.htm#an_r_6:4)<span id="an_n_6:4"></span>. That is,
+[4](ettt07.htm#an_r_6:4.md)<span id="an_n_6:4"></span>. That is,
 astrologically indicated illnesses.—*Ed*.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_5"></span>[103:\*](ettt07.htm#fr_5) The editor disagrees
+<span id="fn_5"></span>[103:\*](ettt07.htm#fr_5.md) The editor disagrees
 here. The same (Gtsug) spelling is repeated in the ritual consistently.
 The editor believes this to be a technical tantric term designating one
 of the thirteen forms of Vajrapani, and specifically the one with the
@@ -527,6 +527,6 @@ braided hair.—*Ed*.
 
 [Next: Chapter Seven: A Compendium of the Initiation Rituals of
 Performance or All-Accomplishing Wisdom Presided Over by
-Amoghasiddhi](ettt08)
+Amoghasiddhi](ettt08.md)
 
 </div>

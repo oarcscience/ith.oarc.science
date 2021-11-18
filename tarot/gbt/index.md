@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gbt00)
+[Contents](#contents)    [Start Reading](gbt00.md)
 
 ------------------------------------------------------------------------
 
@@ -57,17 +57,17 @@ and images are not in the original book.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gbt00)  
-[Contents](gbt01)  
-[Introduction](gbt02)  
+<span id="contents"></span> [Title Page](gbt00.md)  
+[Contents](gbt01.md)  
+[Introduction](gbt02.md)  
 <span id="section_000"></span>
 
 ### I. The Doctrine
 
-[The Doctrine](gbt03)  
-[The Lesser Arcana](gbt04)  
-[The Greater Arcana](gbt05)  
-[The Method of Divination](gbt06)  
+[The Doctrine](gbt03.md)  
+[The Lesser Arcana](gbt04.md)  
+[The Greater Arcana](gbt05.md)  
+[The Method of Divination](gbt06.md)  
 <span id="section_001"></span>
 
 ### II. Significance of the Cards
@@ -76,107 +76,107 @@ and images are not in the original book.
 
 ### The Greater Arcana
 
-[The Greater Arcana](gbt07)  
-[I. The Magician. Aries](gbt08)  
-[II. The High Priestess. Taurus](gbt09)  
-[III. The Empress. Gemini](gbt10)  
-[IV. The Emperor. Cancer](gbt11)  
-[V. The Hierophant. Leo](gbt12)  
-[VI. The Lovers. Virgo](gbt13)  
-[VII. The Chariot. Libra](gbt14)  
-[VIII. Justice. Scorpio](gbt15)  
-[IX. The Hermit. Sagittarius](gbt16)  
-[X. The Wheel of Fortune. Capricorn](gbt17)  
-[XI. Strength. Aquarius](gbt18)  
-[XII. The Hanged Man. Pisces](gbt19)  
-[XIII. Death. Saturn](gbt20)  
-[XIV. Temperance. Mercury](gbt21)  
-[XV. The Devil. Mars](gbt22)  
-[XVI. The Tower. Uranus](gbt23)  
-[XVII. The Star. Venus](gbt24)  
-[XVIII. The Moon](gbt25)  
-[XIX. The Sun](gbt26)  
-[XX. The Last Judgment. Jupiter](gbt27)  
-[XXI. The World. Neptune](gbt28)  
-[0. (Zero) The Fool. Our Earth](gbt29)  
+[The Greater Arcana](gbt07.md)  
+[I. The Magician. Aries](gbt08.md)  
+[II. The High Priestess. Taurus](gbt09.md)  
+[III. The Empress. Gemini](gbt10.md)  
+[IV. The Emperor. Cancer](gbt11.md)  
+[V. The Hierophant. Leo](gbt12.md)  
+[VI. The Lovers. Virgo](gbt13.md)  
+[VII. The Chariot. Libra](gbt14.md)  
+[VIII. Justice. Scorpio](gbt15.md)  
+[IX. The Hermit. Sagittarius](gbt16.md)  
+[X. The Wheel of Fortune. Capricorn](gbt17.md)  
+[XI. Strength. Aquarius](gbt18.md)  
+[XII. The Hanged Man. Pisces](gbt19.md)  
+[XIII. Death. Saturn](gbt20.md)  
+[XIV. Temperance. Mercury](gbt21.md)  
+[XV. The Devil. Mars](gbt22.md)  
+[XVI. The Tower. Uranus](gbt23.md)  
+[XVII. The Star. Venus](gbt24.md)  
+[XVIII. The Moon](gbt25.md)  
+[XIX. The Sun](gbt26.md)  
+[XX. The Last Judgment. Jupiter](gbt27.md)  
+[XXI. The World. Neptune](gbt28.md)  
+[0. (Zero) The Fool. Our Earth](gbt29.md)  
 <span id="section_003"></span>
 
 ### The Lesser Arcana
 
-[The Lesser Arcana](gbt30)  
+[The Lesser Arcana](gbt30.md)  
 <span id="section_004"></span>
 
 ### Wands
 
-[Ace of Wands](gbt31)  
-[Two of Wands](gbt32)  
-[Three of Wands](gbt33)  
-[Four of Wands](gbt34)  
-[Five of Wands](gbt35)  
-[Six of Wands](gbt36)  
-[Seven of Wands](gbt37)  
-[Eight of Wands](gbt38)  
-[Nine of Wands](gbt39)  
-[Ten of Wands](gbt40)  
-[King of Wands](gbt41)  
-[Queen of Wands](gbt42)  
-[Page of Wands](gbt43)  
-[Knight of Wands](gbt44)  
+[Ace of Wands](gbt31.md)  
+[Two of Wands](gbt32.md)  
+[Three of Wands](gbt33.md)  
+[Four of Wands](gbt34.md)  
+[Five of Wands](gbt35.md)  
+[Six of Wands](gbt36.md)  
+[Seven of Wands](gbt37.md)  
+[Eight of Wands](gbt38.md)  
+[Nine of Wands](gbt39.md)  
+[Ten of Wands](gbt40.md)  
+[King of Wands](gbt41.md)  
+[Queen of Wands](gbt42.md)  
+[Page of Wands](gbt43.md)  
+[Knight of Wands](gbt44.md)  
 <span id="section_005"></span>
 
 ### Pentacles
 
-[Ace of Pentacles](gbt45)  
-[Two of Pentacles](gbt46)  
-[Three of Pentacles](gbt47)  
-[Four of Pentacles](gbt48)  
-[Five of Pentacles](gbt49)  
-[Six of Pentacles](gbt50)  
-[Seven of Pentacles](gbt51)  
-[Eight of Pentacles](gbt52)  
-[Nine of Pentacles](gbt53)  
-[Ten of Pentacles](gbt54)  
-[King of Pentacles](gbt55)  
-[Queen of Pentacles](gbt56)  
-[Page of Pentacles](gbt57)  
-[Knight of Pentacles](gbt58)  
+[Ace of Pentacles](gbt45.md)  
+[Two of Pentacles](gbt46.md)  
+[Three of Pentacles](gbt47.md)  
+[Four of Pentacles](gbt48.md)  
+[Five of Pentacles](gbt49.md)  
+[Six of Pentacles](gbt50.md)  
+[Seven of Pentacles](gbt51.md)  
+[Eight of Pentacles](gbt52.md)  
+[Nine of Pentacles](gbt53.md)  
+[Ten of Pentacles](gbt54.md)  
+[King of Pentacles](gbt55.md)  
+[Queen of Pentacles](gbt56.md)  
+[Page of Pentacles](gbt57.md)  
+[Knight of Pentacles](gbt58.md)  
 <span id="section_006"></span>
 
 ### Cups
 
-[Ace of Cups](gbt59)  
-[Two of Cups](gbt60)  
-[Three of Cups](gbt61)  
-[Four of Cups](gbt62)  
-[Five of Cups](gbt63)  
-[Six of Cups](gbt64)  
-[Seven of Cups](gbt65)  
-[Eight of Cups](gbt66)  
-[Nine of Cups](gbt67)  
-[Ten of Cups](gbt68)  
-[King of Cups](gbt69)  
-[Queen of Cups](gbt70)  
-[Page of Cups](gbt71)  
-[Knight of Cups](gbt72)  
+[Ace of Cups](gbt59.md)  
+[Two of Cups](gbt60.md)  
+[Three of Cups](gbt61.md)  
+[Four of Cups](gbt62.md)  
+[Five of Cups](gbt63.md)  
+[Six of Cups](gbt64.md)  
+[Seven of Cups](gbt65.md)  
+[Eight of Cups](gbt66.md)  
+[Nine of Cups](gbt67.md)  
+[Ten of Cups](gbt68.md)  
+[King of Cups](gbt69.md)  
+[Queen of Cups](gbt70.md)  
+[Page of Cups](gbt71.md)  
+[Knight of Cups](gbt72.md)  
 <span id="section_007"></span>
 
 ### Swords
 
-[Ace of Swords](gbt73)  
-[Two of Swords](gbt74)  
-[Three of Swords](gbt75)  
-[Four of Swords](gbt76)  
-[Five of Swords](gbt77)  
-[Six of Swords](gbt78)  
-[Seven of Swords](gbt79)  
-[Eight of Swords](gbt80)  
-[Nine of Swords](gbt81)  
-[Ten of Swords](gbt82)  
-[King of Swords](gbt83)  
-[Queen of Swords](gbt84)  
-[Page of Swords](gbt85)  
-[Knight of Swords](gbt86)  
+[Ace of Swords](gbt73.md)  
+[Two of Swords](gbt74.md)  
+[Three of Swords](gbt75.md)  
+[Four of Swords](gbt76.md)  
+[Five of Swords](gbt77.md)  
+[Six of Swords](gbt78.md)  
+[Seven of Swords](gbt79.md)  
+[Eight of Swords](gbt80.md)  
+[Nine of Swords](gbt81.md)  
+[Ten of Swords](gbt82.md)  
+[King of Swords](gbt83.md)  
+[Queen of Swords](gbt84.md)  
+[Page of Swords](gbt85.md)  
+[Knight of Swords](gbt86.md)  
 
  
 
-[Epilogue](gbt87)  
+[Epilogue](gbt87.md)  

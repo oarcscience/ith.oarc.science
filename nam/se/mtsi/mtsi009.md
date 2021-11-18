@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi008)  [Next](mtsi010) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi008)  [Next](mtsi010.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ fire." They said they had no place for her and added "Maybe they will
 give you a place at the next camp." But the, people at the next camp
 said the same thing, and so it was with all of them until she came to
 the last, which was the Alligator camp. <span
-id="fr_4"></span>[1](#fn_4) There they said to her "Why, there is plenty
+id="fr_4"></span>[1](#fn_4.md) There they said to her "Why, there is plenty
 of room here. You can stay here." Next morning the men started out
 hunting and the women went for potatoes, leaving the children at home.
 Now this woman was Corn itself and, while they were away, she made
@@ -130,10 +130,10 @@ time. (Told by Big Jack of Hilibi.)
 
 ### Footnotes
 
-<span id="fn_4"></span>[13:1](mtsi009.htm#fr_4) See Story 5. The
+<span id="fn_4"></span>[13:1](mtsi009.htm#fr_4.md) See Story 5. The
 Alligator, Tåmålgi, and Turkey clans were considered as practically
 identical.
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Orphan and the Origin of Corn (Second Version)](mtsi010)
+[Next: 8. The Orphan and the Origin of Corn (Second Version)](mtsi010.md)

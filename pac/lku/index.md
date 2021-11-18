@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,8 +37,8 @@ part of the chant is a genealogy which enumerates thousands of ancestors
 of the Hawaiian royal family.
 
 The Kumulipo is also available at this site in [the 1951 translation of
-Martha Warren Beckwith](../ku/index), with comprehensive analysis and
-[the complete Hawaiian text](../ku/ku31). However Liliuokalani's version
+Martha Warren Beckwith](../ku/index.md), with comprehensive analysis and
+[the complete Hawaiian text](../ku/ku31.md). However Liliuokalani's version
 is of some historical significance. The last Queen of Hawaii,
 Liliuokalani was extremely literate, and steeped in Hawaiian tradition.
 She was the author of the well-known Hawaiian anthem, Aloha 'Oe as well
@@ -46,22 +46,22 @@ as a Hawaiian history book, Hawai'i's Story by Hawai'i's Queen.
 
 ------------------------------------------------------------------------
 
-[Title Page](lku00)  
-[Introduction](lku01)  
-[The First Era](lku02)  
-[Second Era](lku03)  
-[The Third Era](lku04)  
-[The Fourth Era](lku05)  
-[The Fifth Era](lku06)  
-[The Sixth Era](lku07)  
-[The Seventh Era](lku08)  
-[The Eighth Era](lku09)  
-[The Ninth Era](lku10)  
-[The Tenth Era](lku11)  
-[The Eleventh Era](lku12)  
-[The Twelfth Era](lku13)  
-[A Branch of the Twelfth Era](lku14)  
-[The Fourteenth Era](lku15)  
-[The Fifteenth Era](lku16)  
-[The Sixteenth Era](lku17)  
-[Kalakaua And Liliuokalani's Genealogy](lku18)  
+[Title Page](lku00.md)  
+[Introduction](lku01.md)  
+[The First Era](lku02.md)  
+[Second Era](lku03.md)  
+[The Third Era](lku04.md)  
+[The Fourth Era](lku05.md)  
+[The Fifth Era](lku06.md)  
+[The Sixth Era](lku07.md)  
+[The Seventh Era](lku08.md)  
+[The Eighth Era](lku09.md)  
+[The Ninth Era](lku10.md)  
+[The Tenth Era](lku11.md)  
+[The Eleventh Era](lku12.md)  
+[The Twelfth Era](lku13.md)  
+[A Branch of the Twelfth Era](lku14.md)  
+[The Fourteenth Era](lku15.md)  
+[The Fifteenth Era](lku16.md)  
+[The Sixteenth Era](lku17.md)  
+[Kalakaua And Liliuokalani's Genealogy](lku18.md)  

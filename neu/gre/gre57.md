@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre56)  [Next](gre58) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre56)  [Next](gre58.md) 
 
 ------------------------------------------------------------------------
 
@@ -223,4 +223,4 @@ came to pass whereby none of them would harbour him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LIII: Grettir with Thorstein Kuggson](gre58)
+[Next: Chapter LIII: Grettir with Thorstein Kuggson](gre58.md)

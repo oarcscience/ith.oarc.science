@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs13)  [Next](abs15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs13)  [Next](abs15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -50,7 +50,7 @@ Indian Ocean. Whether individual examples of these emigrated from one
 side to the other, or vice versa, is no concern of ours, but it is
 certain that there was from very early times such a connection between
 the two sides of this ocean. A good example is the Lorisoid Lemurs of
-Africa, and of the Orient  <span id="fr_27"></span>[\*](#fn_26); another
+Africa, and of the Orient  <span id="fr_27"></span>[\*](#fn_26.md); another
 is the flightless birds called Ratites,. including the Ostriches
 (*Struthio*), on the one hand,
 
@@ -58,7 +58,7 @@ is the flightless birds called Ratites,. including the Ostriches
 
 <span id="img_map08"></span> <span align="CENTER"> [![MAP VIII. MALAYA
 AND SUMATRA](tn/map08.jpg)  
-Click to enlarge](img/map08.jpg)  
+Click to enlarge](img/map08.jpg.md)  
 MAP VIII. MALAYA AND SUMATRA  
 </span>
 
@@ -109,7 +109,7 @@ still earlier people in
 <span id="page_212">p. 212</span>
 
 their country. Malays call these "Devil Sakai,"  <span
-id="fr_28"></span>[\*](#fn_27) (Hantu Sakai) and say that they live in
+id="fr_28"></span>[\*](#fn_27) (Hantu Sakai.md) and say that they live in
 and move about through the trees; an astonishing statement since the
 Senoi also readily take to the trees, and are highly agile therein.
 There is evidence that these proto-Pigmies \[which simply means,
@@ -159,7 +159,7 @@ neglect throughout history. It, with the foot of the Malay Peninsula,
 Java, Borneo, and some associated smaller islands \[and possibly
 Palawan, which is usually grouped with the Philippines\] forms a
 zoogeographical sub-area with most special aspects (see [Map
-X](abs15.htm#img_map10)). Not only does this sub-area contain elephants,
+X](abs15.htm#img_map10).md). Not only does this sub-area contain elephants,
 rhinoceroses, tigers, and other mainland Asiatic animals, it has some
 even odder and more ancient animals—the Malayan Tapir, the Orang-utan
 (or *Mia*), the Siamangs, the Tarsiers, and the little, most primitive
@@ -241,7 +241,7 @@ who had a 3-inch job clothed in reddish-brown, fine hair about an inch
 long.\] This is said to be an "atavism." This is hardly the right word
 for it, as it would then be a throwback to the time before either apes
 or men got started. \[I show a photograph of a Malayan-Filipino
-gentleman so equipped—see [Fig. 54.](abs04.htm#img_pl54)\]
+gentleman so equipped—see [Fig. 54.](abs04.htm#img_pl54.md)\]
 
 Let us, then, return to Sumatra and investigate the matter of the
 *Sedapa*. The existence of wild men in this island has been rumored
@@ -680,7 +680,7 @@ scientists." And that, frankly, is the last that was ever heard of it.
 It was also said to have been taken to Palembang, en route. The only
 thing I can add to this bizarre news-story is that there is a form of
 Coloboid Monkey named the *Simpai*, or Banded Leaf-Monkey (*Presbytis*
-to zoologists) .  <span id="fr_29"></span>[\*](#fn_28) As far as I am
+to zoologists) .  <span id="fr_29"></span>[\*](#fn_28.md) As far as I am
 concerned, therefore and in the meantime, I preserve not a little
 restraint in trying to assess the matter. I feel that there are
 sufficient reports that look genuine enough to warrant a lively interest
@@ -737,7 +737,7 @@ tradition about this last type that needs airing.
 It is reported that they live (and only) in the upper montane mist
 forests of the higher mountain ranges, both in the boot of the Malay
 Peninsula and in the next bit north—*vide*: Tenasserim (see [Map
-X](abs15.htm#img_map10)): and that they customarily stay up there.
+X](abs15.htm#img_map10).md): and that they customarily stay up there.
 However, it is likewise reported that they do sometimes come
 
 <span id="page_228">p. 228</span>
@@ -911,7 +911,7 @@ reservations.
 
 The number of ABSMs that jumped into the river has now changed from
 "all" to some; they are now alleged to have pulled tapioca roots and
-eaten them;  <span id="fr_30"></span>[\*](#fn_29) they had a language. I
+eaten them;  <span id="fr_30"></span>[\*](#fn_29.md) they had a language. I
 cannot find any of these facts in the original reports of the Christmas,
 1953 case but they do indeed appear in earlier cases, and in other parts
 of Malaya. In fact, it appears quite obvious from these latter that
@@ -998,15 +998,15 @@ primitives to move, and come looking for handouts?
 
 ### Footnotes
 
-<span id="fn_26"></span>[209:\*](abs14.htm#fr_27) The Pottos
+<span id="fn_26"></span>[209:\*](abs14.htm#fr_27.md) The Pottos
 (*Periodicticus*) and Bushbabies (*Galago*) of Africa and the Lorises
 (*Loris*) of the Orient.
 
-<span id="fn_27"></span>[212:\*](abs14.htm#fr_28) The term Sakai means
+<span id="fn_27"></span>[212:\*](abs14.htm#fr_28.md) The term Sakai means
 degenerate and is not the real name of a people though applied to the
 Vedda-like Senoi of Malaya.
 
-<span id="fn_28"></span>[226:\*](abs14.htm#fr_29) It should be carefully
+<span id="fn_28"></span>[226:\*](abs14.htm#fr_29.md) It should be carefully
 noted that modern nomenclature has now adopted the name *Trachypithecus*
 for the Lutongs, *Semnopithecus* for the true Langurs, *Kasi* for the
 Purple-faced Monkeys, and *Pyagathrix* for the Doucs. One of the
@@ -1014,7 +1014,7 @@ Purple-faced Monkeys, and *Pyagathrix* for the Doucs. One of the
 Philologists tell me that a conversion of *simpai* to *sindai* is almost
 natural!
 
-<span id="fn_29"></span>[232:\*](abs14.htm#fr_30) "Tapioca" is made from
+<span id="fn_29"></span>[232:\*](abs14.htm#fr_30.md) "Tapioca" is made from
 the juices squeezed from the root of the Cassava, a woody-stemmed
 herbaceous plant. The roots are deadly poisonous unless macerated and
 the juice pressed out of them. A few animals, however, manage to eat
@@ -1022,4 +1022,4 @@ them raw.
 
 ------------------------------------------------------------------------
 
-[Next: 11. The Great Mix-Up](abs15)
+[Next: 11. The Great Mix-Up](abs15.md)

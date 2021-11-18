@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw12)  [Next](sahw14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw12)  [Next](sahw14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -25,7 +25,7 @@ Heritage
 
 "Amida," "says the Shinshuist, saves us by the exercise of His two great
 attributes of Mercy and Wisdom" (*hi-chi* no ni-toku wo motte warera wo
-sukuu § 52). <span id="fr_88"></span>[\*](#fn_88) He saves the world by
+sukuu § 52). <span id="fr_88"></span>[\*](#fn_88.md) He saves the world by
 Wisdom, when He allows a part of himself to become incarnate in one of
 the *Nirmanakaya* or *Keshin* forms, to become the spiritual teachers of
 suffering humanity. In this way many of the Buddhas and Saints in the
@@ -89,7 +89,7 @@ puts his whole trust and confidence in Amida, the roots of his sins are
 cut, the past Karma destroyed, and if he does not enter Paradise at
 once, yet he is placed in safe keeping in the Sacred Heart of Amida.
 (*Dai-jihi, dai-chie no Busshin ni ireru koto ni narimasu*.) <span
-id="fr_89"></span>[†](#fn_89)
+id="fr_89"></span>[†](#fn_89.md)
 
 <span id="page_92">p. 92</span>
 
@@ -106,14 +106,14 @@ according to Shinran, to testify in India to Amida and Hōzō Biku.
 
 ### Footnotes
 
-<span id="fn_88"></span>[89:\*](sahw13.htm#fr_88) We may perhaps see
+<span id="fn_88"></span>[89:\*](sahw13.htm#fr_88.md) We may perhaps see
 traces of the same thought in the juxtaposition in our Creed of the Holy
 Catholic Church and the Communion of Saints. The Church is the Body
-through which is [declared](errata.htm#9) unto angels and men the
+through which is [declared](errata.htm#9.md) unto angels and men the
 "manifold wisdom of God": the Saints are the special recipients of his
 love.
 
-<span id="fn_89"></span>[91:†](sahw13.htm#fr_89) Shinshu Hyakuwa § 54
+<span id="fn_89"></span>[91:†](sahw13.htm#fr_89.md) Shinshu Hyakuwa § 54
 quotes the authority of the Chinese Patriarch *Zendō*, (who is also
 mentioned in the *Shōshinge*). It is also remarkable that Zendō speaks
 of the *Myōgō*, or the Call of Amida to the Soul, as a "sharp sword," a
@@ -136,4 +136,4 @@ Buddhism to Christ.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Of Faith in General, (i).](sahw14)
+[Next: Chapter XII. Of Faith in General, (i).](sahw14.md)

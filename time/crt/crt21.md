@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt20)  [Next](crt22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt20)  [Next](crt22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ and intellectually “advanced.” Yet amongst the most sceptical and
 “enlightened” of moderns there is generally a large residuum of
 tradition. “Emotionally,” it has been said, “we are hundreds of
 thousands of years old; rationally we are
-embryos”﻿ [18-1](crt22.htm#Note_18-1)<span id="Nanchor_18-1"></span> ;
+embryos”﻿ [18-1](crt22.htm#Note_18-1.md)<span id="Nanchor_18-1"></span> ;
 and many people who deem themselves “emancipated” are willing for once
 in the year to plunge into the stream of tradition, merge themselves in
 inherited social custom, and give way to sentiments and impressions
@@ -140,4 +140,4 @@ id="page_363">p. 363</span> <span id="Page_363"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Notes and Bibliography](crt22)
+[Next: Notes and Bibliography](crt22.md)

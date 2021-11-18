@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao25)   
-[Previous](tao24)  [Next](tao26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao25.md)   
+[Previous](tao24)  [Next](tao26.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ in accordance with its own self-nature.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 26](tao26)
+[Next: Chapter 26](tao26.md)

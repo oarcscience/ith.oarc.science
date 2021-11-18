@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo24)  [Next](sdo26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo24)  [Next](sdo26.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ complete the formalities of the third holy day.
 
 ------------------------------------------------------------------------
 
-[Next: Greeting the Sun on the Fourth, or Mid-Year Day](sdo26)
+[Next: Greeting the Sun on the Fourth, or Mid-Year Day](sdo26.md)

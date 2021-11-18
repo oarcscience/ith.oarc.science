@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti08)  [Next](eti10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti08)  [Next](eti10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -134,7 +134,7 @@ His experiences are interesting and possibly suggestive. Let me read
 some of them to you."
 
 The Professor hereupon glanced over his bookshelf, selected a volume,
-and proceeded to read: <span id="fr_0"></span>[\*](#fn_0)
+and proceeded to read: <span id="fr_0"></span>[\*](#fn_0.md)
 
 "I generally saw human forms of both sexes; but they usually seemed not
 to take the smallest notice of each other, moving as in a market place,
@@ -345,11 +345,11 @@ cautious remark:
 
 ### Footnotes
 
-<span id="fn_0"></span>[18:\*](eti09.htm#fr_0) This work I have found to
+<span id="fn_0"></span>[18:\*](eti09.htm#fr_0.md) This work I have found to
 be Vol. IV. of Chambers’ Miscellany, published by Gould and Lincoln,
 Boston.—J. U. L.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. A Second Interview With the Mysterious
-Visitor](eti10)
+Visitor](eti10.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp18)  [Next](ptp20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp18)  [Next](ptp20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -384,12 +384,12 @@ ejaculated in the
 
 <span id="img_32900"></span> <span align="CENTER"> [![Pope Pius
 VII](tn/32900.jpg)  
-Click to enlarge](img/32900.jpg)  
+Click to enlarge](img/32900.jpg.md)  
 Pope Pius VII  
 </span>
 
 <span class="small">This is the man from whom Napoleon took the crown.
-See pages [317](ptp18.htm#page_317) to [329](#page_329).</span>
+See pages [317](ptp18.htm#page_317) to [329](#page_329.md).</span>
 
 accents of the final agony, were *Savona!* *Fontainbleau!* 
 
@@ -431,7 +431,7 @@ were set to report their observance. The sale of wine was restricted in
 the Papal States and a great gloom descended upon the traditionally
 festive taverns of Rome. The strictness of the Pope even disapproved of
 the realism of historic works of art and much to the general
-[indignation](errata.htm#9) he caused some of the ancient ornaments to
+[indignation](errata.htm#9.md) he caused some of the ancient ornaments to
 be removed from the public gaze and in others ordered a covering to be
 put over the anatomical portions he deemed offensive. An intense
 unpopularity was of course the result of such harsh tactics but Leo XII
@@ -908,13 +908,13 @@ demonstrations of papal popularity, accompanied
 
 <span id="img_34400"></span> <span align="CENTER"> [![Pope Benedict
 XV](tn/34400.jpg)  
-Click to enlarge](img/34400.jpg)  
+Click to enlarge](img/34400.jpg.md)  
 Pope Benedict XV  
 </span>
 
 <span class="small">This is the death mask of the man who said when he
 died, "We offer our life to God in behalf of the peace of the world."
-See pages [365](ptp20.htm#page_365) to [373](ptp20.htm#page_373).</span>
+See pages [365](ptp20.htm#page_365) to [373](ptp20.htm#page_373.md).</span>
 
 <span id="page_345">p. 345</span>
 
@@ -1369,4 +1369,4 @@ to his office.
 
 ------------------------------------------------------------------------
 
-[Next: Twentieth Century](ptp20)
+[Next: Twentieth Century](ptp20.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt07)  [Next](dlt09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt07)  [Next](dlt09.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ the Gentiles would take place in order that their salvation, too, might
 be proclaimed. These two attitudes also figure in the Apocalyptic
 literature. The different works incorporated into *The Ethiopic Book of
 Enoch* are almost wholly Universalistic in character; <span
-id="fr_36"></span>[1](#fn_36) the two great divisions of mankind are not
+id="fr_36"></span>[1](#fn_36.md) the two great divisions of mankind are not
 Jew and Gentile, but the righteous and the sinners, the differentiation
 between Jew and Gentile scarcely ever occurs in the eschatological
 portions, a notable exception to this, however, will be noted presently.
@@ -75,7 +75,7 @@ the resting-place of those who have denied the Lord of Spirits? It had
 been good for them if they had not been born." Still more pointed is
 xlviii. 4, 5: "He will be a staff to the righteous on which they will
 support themselves and not fall, and He will be the light of the
-Gentiles <span id="fr_37"></span>[1](#fn_37) and the hope of those who
+Gentiles <span id="fr_37"></span>[1](#fn_37.md) and the hope of those who
 are troubled of heart. All who dwell on the earth will fall down and bow
 the knee before Him, and will bless and laud and celebrate with song the
 Lord of Spirits." A feature which occurs both in the Old Testament and
@@ -91,7 +91,7 @@ sinners will be delivered into
 
 the hands of the righteous." An instance of the superiority of Israel
 over the Gentiles, the only one in the book, <span
-id="fr_38"></span>[1](#fn_38) is found in l. 2-5: "And on the day of
+id="fr_38"></span>[1](#fn_38.md) is found in l. 2-5: "And on the day of
 affliction, evil will gather over the sinners, but the righteous will be
 victorious in the name of the Lord of Spirits: and He will cause the
 Gentiles (literally 'the others') to witness (this judgement) that they
@@ -249,10 +249,10 @@ God, but to the commandments of men, being corrupted through wickedness.
 And therefore shall ye be scattered as Gad and Dan, my brethren, and ye
 shall know not your own lords, tribe and tongue. But the Lord will
 gather you together in faith through His tender mercy, and for the sake
-of Abraham, Isaac and Jacob." <span id="fr_39"></span>[1](#fn_39) For an
+of Abraham, Isaac and Jacob." <span id="fr_39"></span>[1](#fn_39.md) For an
 example illustrating the thought that Israel is to be the means whereby
 in the last day others shall be saved, see *Sibylline Oracles* iii. 194
-ff quoted in §i. of this chapter, <span id="fr_40"></span>[2](#fn_40)
+ff quoted in §i. of this chapter, <span id="fr_40"></span>[2](#fn_40.md)
 and *cf.* *Eth. Enoch* xc. 30.
 
 #### §iii. *The Resurrection of the Dead*.
@@ -296,7 +296,7 @@ Resurrection, but only the righteous are chosen for eternal life, the
 wicked are personally destined for eternal punishment: "And in those
 days will the earth also give back those who are treasured up within it,
 and Sheol also will give back that which it has received, and Hell will
-give back that which it owes. <span id="fr_41"></span>[1](#fn_41) And He
+give back that which it owes. <span id="fr_41"></span>[1](#fn_41.md) And He
 will choose the righteous and holy from among them; for the day of their
 redemption has drawn nigh" (*cf.* . lxi. 5). Professor Charles holds
 that the resurrection here is a resurrection of all Israel, but not of
@@ -317,7 +317,7 @@ on the right hand in gladness. Then shall we also rise, each one over
 our tribe, worshipping the King of heaven. Then also all men shall rise,
 some unto glory and some unto shame. And the Lord shall judge Israel
 first, for their uprighteousness. And then shall He judge all the
-Gentiles. . . . " <span id="fr_42"></span>[1](#fn_42) It is to be noted
+Gentiles. . . . " <span id="fr_42"></span>[1](#fn_42.md) It is to be noted
 that the wicked as well as the righteous rise, according to this
 passage; that is a considerable development upon earlier teaching. In
 *Slav. Enoch* there does not appear to be any direct reference to a
@@ -442,7 +442,7 @@ sometimes stated to be God Himself, at other times the Messiah, who, in
 *The Book of Enoch*, is often spoken of as the Son of Man; the
 expression "the throne of His glory" is often used in the same book in
 connection with the Advent. Jerusalem is to be the centre of the new
-Kingdom which is to be founded, <span id="fr_43"></span>[1](#fn_43)
+Kingdom which is to be founded, <span id="fr_43"></span>[1](#fn_43.md)
 though this is not always stated, any more than it is in the Old
 Testament accounts. Thirdly, the punishment of the Wicked in that day is
 often described, and here again with more detail than in the Old
@@ -496,28 +496,28 @@ development has taken place in the later writings.
 
 ### Footnotes
 
-<span id="fn_36"></span>[107:1](dlt08.htm#fr_36) *The Book of Celestial
+<span id="fn_36"></span>[107:1](dlt08.htm#fr_36.md) *The Book of Celestial
 Physics* does not come into consideration here.
 
-<span id="fn_37"></span>[108:1](dlt08.htm#fr_37) *Cf.* Luke ii. 32.
+<span id="fn_37"></span>[108:1](dlt08.htm#fr_37.md) *Cf.* Luke ii. 32.
 
-<span id="fn_38"></span>[109:1](dlt08.htm#fr_38) Charles shows, however,
+<span id="fn_38"></span>[109:1](dlt08.htm#fr_38.md) Charles shows, however,
 that this passage is an interpolation, see his edition, pp. 138 ff.
 
-<span id="fn_39"></span>[116:1](dlt08.htm#fr_39) This passage belongs,
+<span id="fn_39"></span>[116:1](dlt08.htm#fr_39.md) This passage belongs,
 according to Charles, to the first century B.C.
 
-<span id="fn_40"></span>[116:2](dlt08.htm#fr_40) Page [110](#page_110).
+<span id="fn_40"></span>[116:2](dlt08.htm#fr_40) Page [110](#page_110.md).
 
-<span id="fn_41"></span>[118:1](dlt08.htm#fr_41) *Cf.* Rev. xx. 13.
+<span id="fn_41"></span>[118:1](dlt08.htm#fr_41.md) *Cf.* Rev. xx. 13.
 
-<span id="fn_42"></span>[119:1](dlt08.htm#fr_42) The interpolations are
+<span id="fn_42"></span>[119:1](dlt08.htm#fr_42.md) The interpolations are
 omitted, *see* Charles's edition.
 
-<span id="fn_43"></span>[125:1](dlt08.htm#fr_43) On this point see
+<span id="fn_43"></span>[125:1](dlt08.htm#fr_43.md) On this point see
 further below, chap. x.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Eschatological Teaching in Rabbinical
-Literature](dlt09)
+Literature](dlt09.md)

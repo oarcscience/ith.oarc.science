@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm09)  [Next](tdm11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm09)  [Next](tdm11.md) 
 
 ------------------------------------------------------------------------
 
@@ -735,4 +735,4 @@ countenance. That was surely a good omen, and she anticipated the timid
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](tdm11)
+[Next: Chapter IX](tdm11.md)

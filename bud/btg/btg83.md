@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg82)  [Next](btg84) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg82)  [Next](btg84.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ doctrine and took refuge in the Buddha.
 
 ------------------------------------------------------------------------
 
-[Next: In The Realm Of Yamaraja](btg84)
+[Next: In The Realm Of Yamaraja](btg84.md)

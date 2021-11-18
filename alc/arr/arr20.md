@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr19)  [Next](arr21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr19)  [Next](arr21.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ and from poverty and straits to a free and ample fortune."
 
 ------------------------------------------------------------------------
 
-[Next: Section II](arr21)
+[Next: Section II](arr21.md)

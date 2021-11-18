@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd14)  [Next](bsd16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd14)  [Next](bsd16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -50,7 +50,7 @@ problem.
 From what has been said, it will not surprising to note that the
 curriculum of studies, according to the pedagogics of Bushido, consisted
 mainly of the following:--fencing, archery, *jiujutsu* <span
-id="fr_19"></span>[1](#fn_19) or *yawara*,
+id="fr_19"></span>[1](#fn_19.md) or *yawara*,
 
 <span id="page_96">p. 96</span>
 
@@ -184,10 +184,10 @@ disciplines, self-control, which was universally required of samurai.
 
 ### Footnotes
 
-<span id="fn_19"></span>[95:1](bsd15.htm#fr_19) The same word as that
+<span id="fn_19"></span>[95:1](bsd15.htm#fr_19.md) The same word as that
 misspelled jiu-jitsu in common English parlance. It is the gentle art.
 It "uses no weapon." (W. E. G.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: Self-Control](bsd16)
+[Next: Chapter XI: Self-Control](bsd16.md)

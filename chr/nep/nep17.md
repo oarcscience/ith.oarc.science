@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep16)  [Next](nep18) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep16)  [Next](nep18.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ before God.
 
 ------------------------------------------------------------------------
 
-[Next: The Dutiful Child's Promise](nep18)
+[Next: The Dutiful Child's Promise](nep18.md)

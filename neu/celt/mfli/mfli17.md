@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli16)  [Next](mfli18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli16)  [Next](mfli18.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,4 +270,4 @@ south of Ballyshannon.
 
 ------------------------------------------------------------------------
 
-[Next: Fin MacCumhail and the Son of the King of Alba](mfli18)
+[Next: Fin MacCumhail and the Son of the King of Alba](mfli18.md)

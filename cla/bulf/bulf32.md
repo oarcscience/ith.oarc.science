@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf31) [Next](bulf33) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf31) [Next](bulf33.md) 
 
 # CHAPTER XXXIII.
 
@@ -415,4 +415,4 @@ sense," he says:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XXXIV. Pythagoras- Egyptian Deities- Oracles.](bulf33)
+Next: [CHAPTER XXXIV. Pythagoras- Egyptian Deities- Oracles.](bulf33.md)

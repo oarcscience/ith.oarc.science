@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Copyright FAQ](../faq)  [Index](index)  [Previous](tcc02) 
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Copyright FAQ](../faq)  [Index](index)  [Previous](tcc02.md) 
 
 ------------------------------------------------------------------------
 

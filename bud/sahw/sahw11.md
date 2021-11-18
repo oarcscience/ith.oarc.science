@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw10)  [Next](sahw12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw10)  [Next](sahw12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -34,12 +34,12 @@ compassion the miseries of blind and ignorant creatures. He resolved to
 save them, to bring them back to Himself from their ceaseless
 entanglements with Life and Death, and, to do so, determined to become
 man and live as man among the creatures he had come to save. He emptied
-Himself <span id="fr_76"></span>[\*](#fn_76), therefore, of His Divinity
+Himself <span id="fr_76"></span>[\*](#fn_76.md), therefore, of His Divinity
 and appeared on earth as a King's Son. He emptied Himself of His Royal
 State, and became a monk, and then, coming into the presence of the
-Buddha of his time <span id="fr_77"></span>[†](#fn_77)—*Sejizai-ō-butsu*
+Buddha of his time <span id="fr_77"></span>[†](#fn_77.md)—*Sejizai-ō-butsu*
 (in Sanskrit, Lokes’vara Rāja), "the King-Buddha, Lord of the World,"
-made the Vow <span id="fr_78"></span>[‡](#fn_78) on which the Shinshu
+made the Vow <span id="fr_78"></span>[‡](#fn_78.md) on which the Shinshu
 believer
 
 <span id="page_78">p. 78</span>
@@ -51,15 +51,15 @@ contemporaries knew who it was that dwelt concealed beneath that humble
 form, for the Supreme had emptied Himself and veiled His glory. It was
 as *man for man* that He must work out the task of Man's Salvation.
 
-Having accomplished that work, <span id="fr_79"></span>[\*](#fn_79) He
+Having accomplished that work, <span id="fr_79"></span>[\*](#fn_79.md) He
 returned to where He was before, and received a Name more precious even
 than that which he had borne originally. *Amida Nyorai*, as the Japanese
 call him, had become *Namu-Amida-Butsu*. <span
-id="fr_80"></span>[†](#fn_80) The name signifies the import of the work
+id="fr_80"></span>[†](#fn_80.md) The name signifies the import of the work
 accomplished. Amida is no longer merely the Infinite, the God afar off,
 but the Infinite that has become Finite, that has worked out man's
 Salvation, that has conquered death (*amrita*) <span
-id="fr_81"></span>[‡](#fn_81) and that remains the personified and
+id="fr_81"></span>[‡](#fn_81.md) and that remains the personified and
 personal object of the believer's worship and thanksgiving. It requires
 no great ingenuity to recognize the wonderful parallels to the Story of
 *our* Redemption as we humbly believe it.
@@ -83,12 +83,12 @@ responsible, by affixing to the wall of a house in the Market Square a
 tablet indicating the spot where David sat whilst waiting for his Aunt.)
 Historicity is not the sole Test of Truth, it is only a spiritual
 short-sightedness that would induce us to think so <span
-id="fr_82"></span>[\*](#fn_82) (§ 43). When Hōzō lived, and when he
+id="fr_82"></span>[\*](#fn_82) (§ 43.md). When Hōzō lived, and when he
 fulfilled his Vow, we have no means of determining: the statements of
 the Sūtra vary between a period of ten kalpas ago and a period, still
 more remote, of indefinite magnitude. In things religious there are no
 distinctions of time, near or remote, <span
-id="fr_83"></span>[†](#fn_83) a thousand years are but as one day, and
+id="fr_83"></span>[†](#fn_83.md) a thousand years are but as one day, and
 we must be content with a general expression that it took place at some
 period of remote antiquity. What is of the utmost importance for us to
 believe is that the
@@ -166,7 +166,7 @@ Shinshu writings.
 I do not ask my readers to accept my conclusions hastily and without due
 consideration. I only venture to ask that the question be investigated,
 carefully and prayerfully, by all those, whether Christian or Buddhist,
-who are concerned in the religious [welfare](errata.htm#7) of Japan. I
+who are concerned in the religious [welfare](errata.htm#7.md) of Japan. I
 believe the identification which I have pointed out to be one of prime
 importance: it will indeed be a day of gladness when we realize that we
 of the East and West are children, in a very special sense, of One
@@ -179,37 +179,37 @@ the bettering and uplifting of the world.
 
 ### Footnotes
 
-<span id="fn_76"></span>[77:\*](sahw11.htm#fr_76) Dr. Anezaki reminds me
+<span id="fn_76"></span>[77:\*](sahw11.htm#fr_76.md) Dr. Anezaki reminds me
 that there is a similar *Kenosis* spoken of in the case of S’akyamuni.
 
-<span id="fn_77"></span>[77:†](sahw11.htm#fr_77) A list of 81 Buddhas is
+<span id="fn_77"></span>[77:†](sahw11.htm#fr_77.md) A list of 81 Buddhas is
 given, Sacred Books of the East, vol. XLIX, *Description of Sukhavati*
 p. 6. They are not Buddhas in the sense in which Amitābha is one, merely
 perfectly enlightened Human Teachers.
 
-<span id="fn_78"></span>[77:‡](sahw11.htm#fr_78) For Amida's Vow see
+<span id="fn_78"></span>[77:‡](sahw11.htm#fr_78.md) For Amida's Vow see
 *ibid*. pp. 12–24
 
-<span id="fn_79"></span>[78:\*](sahw11.htm#fr_79) Hōzo's life is
+<span id="fn_79"></span>[78:\*](sahw11.htm#fr_79.md) Hōzo's life is
 summarized in the work already quoted pp. 24–27.
 
-<span id="fn_80"></span>[78:†](sahw11.htm#fr_80) *Shinshu Hyakuwa*, §
+<span id="fn_80"></span>[78:†](sahw11.htm#fr_80.md) *Shinshu Hyakuwa*, §
 14, speaks of the Vow as the *Chōsemujō no Hongwan*, and of Amida as
 *Dai jihi-emman no Myōhō-ō*—"the mysterious spiritual king that has
 perfected mercy."
 
-<span id="fn_81"></span>[78:‡](sahw11.htm#fr_81) In the Shingon books
+<span id="fn_81"></span>[78:‡](sahw11.htm#fr_81.md) In the Shingon books
 Amida is generally *Amrita*, "the One that has Immortality."
 
-<span id="fn_82"></span>[79:\*](sahw11.htm#fr_82) The Nichiren Sect (the
+<span id="fn_82"></span>[79:\*](sahw11.htm#fr_82.md) The Nichiren Sect (the
 subject is constantly alluded to in the Nichiren Organ, the Myōshū)
 frequently charges the Shinshu with the absence of historical warrant
 for their interpretations of Buddhism.
 
-<span id="fn_83"></span>[79:†](sahw11.htm#fr_83) *Enkin kokon no
+<span id="fn_83"></span>[79:†](sahw11.htm#fr_83.md) *Enkin kokon no
 shabetsu nashi*. cf. the expression in the N.T. "the Lamb slain from the
 foundation of the world."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Shinnyo Hōshō.](sahw12)
+[Next: Chapter X. Shinnyo Hōshō.](sahw12.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy05)  [Next](phy07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy05)  [Next](phy07.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![E](img/01201.jpg) |
+| ![E](img/01201.jpg.md) |
 
 VERY evening, punctually as the twilight hour approached, did Kitty
 Kerruish feel an irresistible fascination steal over her that drew her
@@ -46,7 +46,7 @@ attend. He
 <span id="img_01300"></span>
 
 [![MAGHER-GLASS OF GLEN KUSHEN](tn/01300.jpg)  
-Click to enlarge](img/01300.jpg)  
+Click to enlarge](img/01300.jpg.md)  
 MAGHER-GLASS OF GLEN KUSHEN  
 
 described to her wondering and delighted ear how the dancing would be
@@ -90,4 +90,4 @@ both of them this proof of his love would be obtained.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](phy07)
+[Next: Chapter IV](phy07.md)

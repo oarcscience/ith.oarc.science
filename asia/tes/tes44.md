@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes43)  [Next](tes45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes43)  [Next](tes45.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### 23. THE TALE OF LA'LA.
 
-(*Anadyr Version*) <span id="fr_75"></span>[1](#fn_75)
+(*Anadyr Version*) <span id="fr_75"></span>[1](#fn_75.md)
 
 There were some Chuvantzi people, among them was an old man who had four
 sons. The middle one was of great strength. His name was La'la. He
@@ -103,9 +103,9 @@ Sophie Bogoras, in the village of Markova, the Anadyr country, summer of
 
 ### Footnotes
 
-<span id="fn_75"></span>[95:1](tes44.htm#fr_75) Inserted here for the
+<span id="fn_75"></span>[95:1](tes44.htm#fr_75.md) Inserted here for the
 purpose of ready comparison with the preceding tale.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 24. The Woman's Head](tes45)
+[Next: 24. The Woman's Head](tes45.md)

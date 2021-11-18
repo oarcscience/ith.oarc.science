@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,15 +20,15 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ebm00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ebm.txt.gz)
+[Contents](#contents)    [Start Reading](ebm00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ebm.txt.gz.md)
 
 ------------------------------------------------------------------------
 
 This is Thomas Taylor's essay on the ancient initiation rituals of
 Eleusis and Bacchus. Taylor (1758-1835) was an English Neoplatonist who
 was the first to translate Aristotle and Plato into English. His
-translation of the [Orphic Hymns](../hoo/index) is also available at
+translation of the [Orphic Hymns](../hoo/index.md) is also available at
 this site, among other works. The inner teachings of these ancient
 Mediterranean mystery religions have been lost for two millennia, but
 Taylor believed that he had found the skeleton key in classical
@@ -37,16 +37,16 @@ theory.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ebm00)  
-[Dedication](ebm01)  
-[Contents](ebm02)  
-[Fable is Love’s World, Poem by Schiller](ebm03)  
-[Introduction](ebm04)  
-[Section I., Eleusinian Mysteries](ebm05)  
-[Section II., Bacchic Mysteries](ebm06)  
-[Hymn to Minerva](ebm07)  
-[Appendix](ebm08)  
-[Orphic Hymns](ebm09)  
-[Hymn of Cleanthes](ebm10)  
-[Glossary](ebm11)  
-[List of Illustrations](ebm12)  
+<span id="contents"></span> [Title Page](ebm00.md)  
+[Dedication](ebm01.md)  
+[Contents](ebm02.md)  
+[Fable is Love’s World, Poem by Schiller](ebm03.md)  
+[Introduction](ebm04.md)  
+[Section I., Eleusinian Mysteries](ebm05.md)  
+[Section II., Bacchic Mysteries](ebm06.md)  
+[Hymn to Minerva](ebm07.md)  
+[Appendix](ebm08.md)  
+[Orphic Hymns](ebm09.md)  
+[Hymn of Cleanthes](ebm10.md)  
+[Glossary](ebm11.md)  
+[List of Illustrations](ebm12.md)  

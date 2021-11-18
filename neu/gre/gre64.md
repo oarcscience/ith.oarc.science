@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre63)  [Next](gre65) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre63)  [Next](gre65.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,4 +220,4 @@ set on foot many a plot to get Grettir driven away or slain.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LX: Of the Fight at Hitriver](gre65)
+[Next: Chapter LX: Of the Fight at Hitriver](gre65.md)

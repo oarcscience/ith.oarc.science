@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](chtitle)  [Next](chbib) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](chtitle)  [Next](chbib.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ from the true popular ballads, the spontaneous products of nature, are
 the works of the professional ballad-maker, which make up the bulk of
 Garlands and Broadsides. These, though sometimes not without grace, more
 frequently not lacking in humor, belong to artificial literature,--of
-course to an humble department. <span id="fr_0"></span>[1](#fn_0) As
+course to an humble department. <span id="fr_0"></span>[1](#fn_0.md) As
 
 <span id="page_viii">p. viii</span>
 
@@ -148,7 +148,7 @@ May, 1860.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](chpref.htm#fr_0) This distinction is not
+<span id="fn_0"></span>[vii:1](chpref.htm#fr_0.md) This distinction is not
 absolute, for several of the ancient ballads have a sort of literary
 character, and many broadsides were printed from oral tradition. The
 only popular ballads excluded from this selection that require mention,
@@ -163,4 +163,4 @@ for.
 ------------------------------------------------------------------------
 
 [Next: List of the Principal Collections of English and Scottish Ballads
-and Songs](chbib)
+and Songs](chbib.md)

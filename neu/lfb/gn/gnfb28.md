@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb27)  [Next](gnfb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb27)  [Next](gnfb29.md) 
 
 </div>
 
@@ -282,6 +282,6 @@ Grimm.
 
 ------------------------------------------------------------------------
 
-[Next: Jorinde and Joringel](gnfb29)
+[Next: Jorinde and Joringel](gnfb29.md)
 
 </div>

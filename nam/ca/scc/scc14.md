@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc13)  [Next](scc15) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc13)  [Next](scc15.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ people of old times did, and so people die now and do not come back.
 
 ------------------------------------------------------------------------
 
-[Next: 13.--Gashowu Yokuts. The Owl Doctor.](scc15)
+[Next: 13.--Gashowu Yokuts. The Owl Doctor.](scc15.md)

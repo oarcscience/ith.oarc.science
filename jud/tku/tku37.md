@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku36)  [Next](tku38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku36)  [Next](tku38.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,15 +59,15 @@ ears.
 God, and hear."
 
 583\. And in those curls there are found alike right and left, <span
-id="fr_102"></span>[1](#fn_101) light and dark, mercy and judgment, and
+id="fr_102"></span>[1](#fn_101.md) light and dark, mercy and judgment, and
 everything (*that hath in itself the qualities of*) right and left
 dependeth thence (*from Microprosopus*), and not from the Ancient
-One. <span id="fr_103"></span>[2](#fn_102)
+One. <span id="fr_103"></span>[2](#fn_102.md)
 
 584\. In the parting of the hair appeareth a certain slender path, which
 hath a certain connection with that path of the Ancient of Days, and
 from that path are divided six hundred and thirteen paths, <span
-id="fr_104"></span>[3](#fn_103) which are
+id="fr_104"></span>[3](#fn_103.md) which are
 
 <span id="page_183">p. 183</span>
 
@@ -90,20 +90,20 @@ mercy, who is an equilibrium between these); and therefore is He
 
 ### Footnotes
 
-<span id="fn_100"></span>[181:1](tku36.htm#fr_101) As the mediating path
+<span id="fn_100"></span>[181:1](tku36.htm#fr_101.md) As the mediating path
 between them.
 
-<span id="fn_101"></span>[182:1](tku37.htm#fr_102) Whereas Macroprosopus
+<span id="fn_101"></span>[182:1](tku37.htm#fr_102.md) Whereas Macroprosopus
 is symbolized only by the right side of the profile.
 
-<span id="fn_102"></span>[182:2](tku37.htm#fr_103) For the reason I have
+<span id="fn_102"></span>[182:2](tku37.htm#fr_103.md) For the reason I have
 given in the preceding note.
 
-<span id="fn_103"></span>[182:3](tku37.htm#fr_104) The precepts of the
+<span id="fn_103"></span>[182:3](tku37.htm#fr_104.md) The precepts of the
 law are said to be 613 in number, which is also expressed by Gematria in
 the words "Moses our Rabbi"; MShH RBINV, *Mosheh Rabbino* = 40 + 300 + 5
 + 200 + 2 + 10 + 50 + 6 = 613.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX: Concerning the Forehead of Microprosopus](tku38)
+[Next: Chapter XXX: Concerning the Forehead of Microprosopus](tku38.md)

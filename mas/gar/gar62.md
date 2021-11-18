@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar61)  [Next](gar63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar61)  [Next](gar63.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -45,7 +45,7 @@ the noble science and the royal art?
 The Deputy replies:
 
 MOST WORSHIPFUL GRAND MASTER: I have carefully examined, and so find
-him. <span id="fr_34"></span>[\*](#fn_34)
+him. <span id="fr_34"></span>[\*](#fn_34.md)
 
 *G. M.* You will then present him at the altar for installation.
 
@@ -220,10 +220,10 @@ are to see carefully and punctually executed.
 You will now be solemnly inducted into the oriental chair of King
 SOLOMON; during the performance of this ceremony it is requested that
 all but regularly-installed Masters of Lodges and Past Masters will
-retire. <span id="fr_35"></span>[\*](#fn_35)
+retire. <span id="fr_35"></span>[\*](#fn_35.md)
 
 All but actual Masters and Past Masters of Warranted Lodges <span
-id="fr_36"></span>[†](#fn_36) are required to retire (or, if more
+id="fr_36"></span>[†](#fn_36.md) are required to retire (or, if more
 convenient, are
 
 <span id="page_247">p. 247</span>
@@ -256,7 +256,7 @@ time the following Installation Ode may be sung:
 
 <span id="img_24800"></span> <span align="CENTER">
 [![Music—&lt;i&gt;Italian Hymn&lt;/i&gt;.](tn/24800.jpg)  
-Click to enlarge](img/24800.jpg)  
+Click to enlarge](img/24800.jpg.md)  
 Music—*Italian Hymn*.  
 </span>
 
@@ -295,7 +295,7 @@ short Charge, as follows:
 
 #### THE SENIOR WARDEN.
 
-BROTHER C. D.: You are appointed <span id="fr_37"></span>[\*](#fn_37)
+BROTHER C. D.: You are appointed <span id="fr_37"></span>[\*](#fn_37.md)
 Senior Warden of this Lodge, and are now invested with the insignia of
 your office.
 
@@ -395,7 +395,7 @@ doubting your vigilance and attention.
 
 They are conducted to their stations.
 
-#### THE STEWARDS, OR MASTERS OF CEREMONIES. <span id="fr_38"></span>[\*](#fn_38)
+#### THE STEWARDS, OR MASTERS OF CEREMONIES. <span id="fr_38"></span>[\*](#fn_38.md)
 
 BROTHERS R. S. AND T. U.: You are appointed Stewards (Masters of
 Ceremonies) of this Lodge, and are now invested with the badge of your
@@ -523,7 +523,7 @@ The following, or some other appropriate ODE may he sung:
 
 <span id="img_25800"></span> <span align="CENTER">
 [![Music—&lt;i&gt;Italian hymn&lt;/i&gt;.](tn/25800.jpg)  
-Click to enlarge](img/25800.jpg)  
+Click to enlarge](img/25800.jpg.md)  
 Music—*Italian hymn*.  
 </span>
 
@@ -540,7 +540,7 @@ And friendship never cease,
 </div>
 
 <span id="img_25900"></span> <span align="CENTER"> [![](tn/25900.jpg)  
-Click to enlarge](img/25900.jpg)</span>
+Click to enlarge](img/25900.jpg.md)</span>
 
 <div style="margin-left: 32px">
 
@@ -588,28 +588,28 @@ The Grand Lodge returns to its own hall, and closes.
 
 ### Footnotes
 
-<span id="fn_34"></span>[240:\*](gar62.htm#fr_34) A private examination
+<span id="fn_34"></span>[240:\*](gar62.htm#fr_34.md) A private examination
 is understood to precede the installation of the Master.
 
-<span id="fn_35"></span>[246:\*](gar62.htm#fr_35) If the installation is
+<span id="fn_35"></span>[246:\*](gar62.htm#fr_35.md) If the installation is
 performed in a public place, this as well as other private ceremonies
 are omitted.
 
-<span id="fn_36"></span>[246:†](gar62.htm#fr_36) Chapter Past Masters,
+<span id="fn_36"></span>[246:†](gar62.htm#fr_36.md) Chapter Past Masters,
 who have never presided over a Symbolic Lodge are not permitted to be
 present at this ceremony.
 
-<span id="fn_37"></span>[249:\*](gar62.htm#fr_37) When the Installation
+<span id="fn_37"></span>[249:\*](gar62.htm#fr_37.md) When the Installation
 is not of the officers of a new Lodge, the words "have been elected,"
 should be substituted for the words "are appointed." in all cases where
 the officer is chosen by ballot.
 
-<span id="fn_38"></span>[253:\*](gar62.htm#fr_38) Many Lodges have
+<span id="fn_38"></span>[253:\*](gar62.htm#fr_38.md) Many Lodges have
 abolished the title of Stewards, and substituted that of Masters of
 Ceremonies, who perform the duties appertaining to the former.
 
 ------------------------------------------------------------------------
 
-[Next: Installation of the Officers of a Grand Lodge](gar63)
+[Next: Installation of the Officers of a Grand Lodge](gar63.md)
 
 </div>

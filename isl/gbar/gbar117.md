@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar116) [Next](gbar118)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar116) [Next](gbar118.md)
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ are not idolaters.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar118)
+[Next](gbar118.md)

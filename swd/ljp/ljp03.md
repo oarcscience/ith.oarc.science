@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ljp02)  [Next](ljp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ljp02)  [Next](ljp04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ to himself the Divine power, and so of being worshipped as God; and that
 hell, and not heaven, is in such a decree. And it was shown from what
 spirits it is said, and who it is that then breathe into and move the
 breast; that they are infernal spirits, who are not willing to believe
-in salvation by the Holy Spirit, <span id="fr_8"></span>[103-1](#fn_8)
+in salvation by the Holy Spirit, <span id="fr_8"></span>[103-1](#fn_8.md)
 but he reasoned against those things.
 
 <span class="margnote"><span id="104.">104.</span></span>
@@ -158,7 +158,7 @@ teach the truths of faith; for they are more teachable than others.
 <span class="margnote"><span id="109.">109.</span></span>
 
 \[110\] There was a vast multitude of Papists dwelling to the east,
-occupying all those mountains, <span id="fr_9"></span>[109-1](#fn_9)
+occupying all those mountains, <span id="fr_9"></span>[109-1](#fn_9.md)
 even from the eastern quarter to the southern, who introduced themselves
 to the Gentiles upon the mountains and plains there. All that multitude
 was transferred by a direct way to the west, where a settlement was
@@ -492,7 +492,7 @@ by angels in other matters of faith and love.
 about God, but who nevertheless had led a moral life amongst each other;
 they were said to live on a certain island. They appeared to me not like
 men but like apes and yet with a human face. <span
-id="fr_10"></span>[129-1](#fn_10) They so appeared because they knew
+id="fr_10"></span>[129-1](#fn_10.md) They so appeared because they knew
 nothing about God, and the Divine is in the likeness of a man. One of
 the Christians is set over them by the Lord. I have spoken with him, and
 he said that they obey him and love him; that they are modest and are
@@ -502,7 +502,7 @@ nearer communication with the Christians, and they are beginning to
 receive something of religion, and he cherished the hope that they could
 be reformed, for the reason that they had lived a moral life, and are in
 obedience and are industrious. As to similar people elsewhere, see
-below. <span id="fr_11"></span>[129-2](#fn_11)
+below. <span id="fr_11"></span>[129-2](#fn_11.md)
 
 <span class="margnote"><span id="130.">130.</span></span>
 
@@ -522,7 +522,7 @@ to inform such spirits and to lead them to heaven.
 <span class="margnote"><span id="131.">131.</span></span>
 
 \[132\] I was once in a sweet sleep, and when I awoke I saw around me
-some Chinese, <span id="fr_12"></span>[131-1](#fn_12) and I noticed that
+some Chinese, <span id="fr_12"></span>[131-1](#fn_12.md) and I noticed that
 they sat with their legs crosswise, and were talking with each other.
 And it was ascertained that they had been sent to me by the Lord in
 order that I might know of what quality many of them are. The angels
@@ -536,7 +536,7 @@ genius.
 <span class="margnote"><span id="132.">132.</span></span>
 
 \[133\] There were with me some spirits from Tartary, <span
-id="fr_13"></span>[132-1](#fn_13) who dwelt outside the Chinese wall,
+id="fr_13"></span>[132-1](#fn_13.md) who dwelt outside the Chinese wall,
 saying that their country is populous; nor do they know anything about
 war, saying that they are without the love of reigning and that they
 give the government to those who say they can rule and govern, but if he
@@ -621,7 +621,7 @@ and the good are either sent to the sides of the society or are taken
 away. Then the city with the evil sinks down into hell, to a depth
 according to their wickedness. Once I saw that four angels were sent to
 such a city, who when they came thither entered into a house; <span
-id="fr_14"></span>[135-1](#fn_14) but the criminal spirits who were
+id="fr_14"></span>[135-1](#fn_14.md) but the criminal spirits who were
 there, being excited by their presence into interior malice, as takes
 place, rushed to the house where the angels were, shouting out to them,
 Did they wish to come out and commit whoredom? They wished to urge them
@@ -683,7 +683,7 @@ was given after the wickedness of its nations had been consummated.
 \[140\] After many destructions and partial judgments had been executed,
 which were premonitory of the general destruction and judgment, and
 hordes of spirits who were impure had been cast into pools, <span
-id="fr_15"></span>[139-1](#fn_15) lakes, and chasms, that is into hells,
+id="fr_15"></span>[139-1](#fn_15.md) lakes, and chasms, that is into hells,
 then some came who were skilled in the art of breathing into others and
 exciting them to evils of interior thought. They incited some souls
 against the Lord and against Divine truth from Him, and from these the
@@ -746,7 +746,7 @@ fruit.
 hope, were collected in the middle, where they were arranged according
 to their kingdoms in the world; for according to these were also the
 diversities of their dispositions or affections. But above them <span
-id="fr_16"></span>[141-1](#fn_16) and also around them were those who
+id="fr_16"></span>[141-1](#fn_16.md) and also around them were those who
 had read the Word and had frequented temples, but yet had made nothing
 of evils of life, loving themselves and the world above all things;
 there was an immense multitude there. Surrounding the middle region, in
@@ -788,7 +788,7 @@ and many other things, and that, therefore, they, above others, would be
 saved. They were led away in a multitude, first to the west, afterwards
 to the south, on the other side of the waste Babylonish tract there, and
 even towards the east and still farther. <span
-id="fr_17"></span>[144-1](#fn_17) And they were divided; \[some\] were
+id="fr_17"></span>[144-1](#fn_17.md) And they were divided; \[some\] were
 scattered towards the north, nor were they seen anymore. And many were
 led back, but hither and thither; this transfer was effected in order
 that they might be explored as to whether they had any faith such as
@@ -856,33 +856,33 @@ yet this is so far from religion of life that it is no religion at all.
 
 ### Footnotes
 
-<span id="fn_8"></span>[103-1](ljp03.htm#fr_8) Tafel has, qui non volunt
+<span id="fn_8"></span>[103-1](ljp03.htm#fr_8.md) Tafel has, qui non volunt
 credere salutem per spiritum sanctum. The reading is doubtful. Acton
 translates it, "Who at heart wish to be saluted as the Holy Spirit."
 
-<span id="fn_9"></span>[109-1](ljp03.htm#fr_9) See SE 5341-5343.
+<span id="fn_9"></span>[109-1](ljp03.htm#fr_9.md) See SE 5341-5343.
 
-<span id="fn_10"></span>[129-1](ljp03.htm#fr_10) See SE 5822.
+<span id="fn_10"></span>[129-1](ljp03.htm#fr_10.md) See SE 5822.
 
-<span id="fn_11"></span>[129-2](ljp03.htm#fr_11) See SS 116; SE 393,
+<span id="fn_11"></span>[129-2](ljp03.htm#fr_11.md) See SS 116; SE 393,
 5822.
 
-<span id="fn_12"></span>[131-1](ljp03.htm#fr_12) See AC 2596; SE 6067.
+<span id="fn_12"></span>[131-1](ljp03.htm#fr_12.md) See AC 2596; SE 6067.
 
-<span id="fn_13"></span>[132-1](ljp03.htm#fr_13) See SE 607; R 11; T
+<span id="fn_13"></span>[132-1](ljp03.htm#fr_13.md) See SE 607; R 11; T
 279; Coro 39.
 
-<span id="fn_14"></span>[135-1](ljp03.htm#fr_14) See SE 4932
+<span id="fn_14"></span>[135-1](ljp03.htm#fr_14.md) See SE 4932
 
-<span id="fn_15"></span>[139-1](ljp03.htm#fr_15) In the M.S. stagna is
+<span id="fn_15"></span>[139-1](ljp03.htm#fr_15.md) In the M.S. stagna is
 written twice; in SE 5202, lacus, "lakes," is given in place of the
 second stagna.
 
-<span id="fn_16"></span>[141-1](ljp03.htm#fr_16) See SE 5347.
+<span id="fn_16"></span>[141-1](ljp03.htm#fr_16.md) See SE 5347.
 
-<span id="fn_17"></span>[144-1](ljp03.htm#fr_17) See SE 5355, 5535,
+<span id="fn_17"></span>[144-1](ljp03.htm#fr_17.md) See SE 5355, 5535,
 5538.
 
 ------------------------------------------------------------------------
 
-[Next: 151-200](ljp04)
+[Next: 151-200](ljp04.md)

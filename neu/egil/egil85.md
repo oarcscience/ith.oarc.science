@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil84)  [Next](egil86) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil84)  [Next](egil86.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ are called Myra-men, all those that sprang from Skallagrim.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXXV. Of Aunund Sjoni and Steinar his son.](egil86)
+[Next: CHAPTER LXXXV. Of Aunund Sjoni and Steinar his son.](egil86.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos20)  [Next](mos22) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos20)  [Next](mos22.md) 
 
 ------------------------------------------------------------------------
 
@@ -214,4 +214,4 @@ which We have given you..etc(Al-A\`râf:171).
 
 ------------------------------------------------------------------------
 
-[Next: Qârun (Korah) and What He Was Given and His End](mos22)
+[Next: Qârun (Korah) and What He Was Given and His End](mos22.md)

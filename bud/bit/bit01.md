@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit00)  [Next](bit02) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit00)  [Next](bit02.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ in German was inserted in the Proceedings of this Institution (February,
 
 ------------------------------------------------------------------------
 
-[Next: Alphabet Used For Transcription](bit02)
+[Next: Alphabet Used For Transcription](bit02.md)

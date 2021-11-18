@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph12)  [Next](rph14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph12)  [Next](rph14.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ long a time to be associated with a science that was considered a
 terrible and inviolable secret at its very inception. Other fragments,
 undoubtedly the latest, show such servile proclivity and such
 narrow-minded pharisaism as to resemble the talmudic traditions
-which, <span id="fr_208"></span>[1](#fn_208) because of pride and
+which, <span id="fr_208"></span>[1](#fn_208.md) because of pride and
 
 <span id="page_124">p. 124</span>
 
@@ -80,10 +80,10 @@ which led the father of the Hebrews from the worship of the stars to the
 worship of the eternal God. The character just noted is so evident, that
 it was commented on and very correctly defined by a writer of the
 twelfth century. "The Sefer Yetzirah," said Judah Halevi, <span
-id="fr_210"></span>[2](#fn_210) "teaches the unity and omnipotence of
+id="fr_210"></span>[2](#fn_210.md) "teaches the unity and omnipotence of
 God by means of various examples, which are multiform on one side and
 uniform on the other. They are in harmony with regard to the One, their
-Director. . . ." <span id="fr_211"></span>[3](#fn_211)
+Director. . . ." <span id="fr_211"></span>[3](#fn_211.md)
 
 So far everything is within bounds of reason; but instead of looking in
 the universe for the laws that govern it in order to read in these very
@@ -92,7 +92,7 @@ gross analogy between the things and these signs of the thought, or the
 means by which the wisdom is making itself heard and maintained among
 men. Before we go any further, let us note that mysticism, at whatever
 time and under whatever form it manifests itself, attaches
-[immeasurable](errata.htm#9)
+[immeasurable](errata.htm#9.md)
 
 <span id="page_126">p. 126</span>
 
@@ -100,7 +100,7 @@ importance to everything that represents outwardly acts of intelligence,
 and it is not so long since that a well-known French writer wanted to
 prove that the art of writing was not a human invention, but was a
 present given to humanity by revelation <span
-id="fr_213"></span>[4](#fn_213)
+id="fr_213"></span>[4](#fn_213.md)
 
 The question here is of the twenty-two letters of the Hebrew alphabet
 and of the first ten numbers which, while preserving their proper value,
@@ -114,27 +114,27 @@ dwells in Eternity, Whose name is high and holy, founded His Name."
 
 To these thirty-two paths of Wisdom, which are not to be confounded with
 the subtle distinctions of an entirely different order admitted in their
-place by the modern Kabbalists, <span id="fr_214"></span>[5](#fn_214) we
+place by the modern Kabbalists, <span id="fr_214"></span>[5](#fn_214.md) we
 must add three other forms designated by three terms of very doubtful
 meaning, but which do resemble closely, by their grammatical genealogy,
 at least, the Greek terms which designate the subject, the object, and
-the very act of thought. <span id="fr_215"></span>[6](#fn_215) We
+the very act of thought. <span id="fr_215"></span>[6](#fn_215.md) We
 believe it has been shown previously that these detached words are
 foreign to the text; nevertheless, we must note the fact that they have
 been understood quite differently, in a way repugnant neither to the
 general character of the book, nor to laws of etymology, by the Spanish
-writer <span id="fr_216"></span>[7](#fn_216) mentioned above.
+writer <span id="fr_216"></span>[7](#fn_216.md) mentioned above.
 
 He expresses himself on this subject as follows: "The first
 
 <span id="page_127">p. 127</span>
 
-of these three terms (S’far), <span id="fr_218"></span>[8](#fn_218) is
+of these three terms (S’far), <span id="fr_218"></span>[8](#fn_218.md) is
 used to designate the numbers, which alone gives us a means of
 appreciating the disposition and the proportions necessary for each body
 in order to attain the purpose for which it was created; for the measure
 of length, of capacity, and of weight, <span
-id="fr_219"></span>[9](#fn_219) as well as of motion and of harmony, are
+id="fr_219"></span>[9](#fn_219.md) as well as of motion and of harmony, are
 all regulated by numbers. The second term (Sippur) signifies the word
 and the voice; for it is the Divine Word, the voice of the Living God,
 that produced the beings in all their different forms, whether internal
@@ -143,13 +143,13 @@ words: 'And God said let there be light, and there was light.' The third
 term (Sefer) signifies the writing. The writing of God is the work of
 the Creation; the Word of God is His writing; the thought of God is His
 word. Thus, the thought, the word, and the writing <span
-id="fr_220"></span>[10](#fn_220) are one
+id="fr_220"></span>[10](#fn_220.md) are one
 
 <span id="page_128">p. 128</span>
 
 and the same in God, while in man they are three." <span
-id="fr_221"></span>[11](#fn_221) This interpretation has the merit that,
-while [ennobling](errata.htm#10), it also characterizes well this
+id="fr_221"></span>[11](#fn_221.md) This interpretation has the merit that,
+while [ennobling](errata.htm#10.md), it also characterizes well this
 strange system that confounds the idea with the generally known symbols
 in order to make the idea somewhat visible in the total as well as in
 the different parts of the universe,
@@ -157,7 +157,7 @@ the different parts of the universe,
 Under the name of Sefiroth, which play such a prominent part elsewhere
 but which appear here for the first time in the language of the
 Kabbalah, the ten numbers, or the abstract enumerations are first taken
-notice of. <span id="fr_222"></span>[12](#fn_222) They are represented
+notice of. <span id="fr_222"></span>[12](#fn_222.md) They are represented
 as the most general and therefore as the most essential form of all that
 is, and if I may use the expression, as the categories of the universe.
 Thus, according to the ideas interpreted by us, we must always meet with
@@ -170,7 +170,7 @@ all things upon their principle, and re-establish the Creator on
 
 <span id="page_129">p. 129</span>
 
-his base." <span id="fr_223"></span>[13](#fn_223) In other words, the
+his base." <span id="fr_223"></span>[13](#fn_223.md) In other words, the
 divine action as well as the existence of the world equally shape
 themselves to the eyes of the intelligence under this abstract form of
 ten numbers; each one of which represents some infinity, whether that of
@@ -180,15 +180,15 @@ This, at least, is the meaning which we attach to the following
 proposition: "To the ten Sefiroth there is no end, either in the future
 or in the past, either in good or in evil, either in height or in depth,
 either in the East or in the West, either in the South or in the
-North." <span id="fr_224"></span>[14](#fn_224) It must be noted that the
+North." <span id="fr_224"></span>[14](#fn_224.md) It must be noted that the
 different aspects under which the infinite is considered here, are
 few--no more, no less; this passage, therefore, teaches us not only the
 general character of all the Sefiroth, but we see herein to what
 elements and principles they correspond. And as these different
 viewpoints, although opposite--two to two, nevertheless belong to one
 idea, to one infinite, it is added: <span
-id="fr_225"></span>[15](#fn_225) "The ten Sefiroth are like the ten
-fingers, <span id="fr_226"></span>[16](#fn_226) five against five, but
+id="fr_225"></span>[15](#fn_225.md) "The ten Sefiroth are like the ten
+fingers, <span id="fr_226"></span>[16](#fn_226.md) five against five, but
 amidst them is the link of unity." (ch. I, Prop. 3.) The last words give
 us the explanation as well as the proof of all the preceding.
 
@@ -210,13 +210,13 @@ blessed be His name, blessed be the name of the One who lives in
 Eternity! The Spirit, the Voice, and the Word, that is the Holy Ghost.
 
 "Two is the breath proceeding from the spirit, <span
-id="fr_227"></span>[17](#fn_227) in it are graven and carved the
+id="fr_227"></span>[17](#fn_227.md) in it are graven and carved the
 twenty-two letters which form, nevertheless, but one single
-breath. <span id="fr_228"></span>[18](#fn_228)
+breath. <span id="fr_228"></span>[18](#fn_228.md)
 
 "Three is water, which proceeds from the breath or from the air. Into
 the water He dug darkness and void, mud and clay, and graved it like a
-(garden) bed, <span id="fr_229"></span>[19](#fn_229) carved it like a
+(garden) bed, <span id="fr_229"></span>[19](#fn_229.md) carved it like a
 wall and covered it in the shape of a roof."
 
 <span id="page_131">p. 131</span>
@@ -225,14 +225,14 @@ wall and covered it in the shape of a roof."
 throne of His glory, the celestial wheels (Ophanim), the Seraphim and
 the angelic servitors. With the three together He built His habitation,
 as it was written: "He made the winds His messengers, and His ministers
-a flaming fire." <span id="fr_230"></span>[20](#fn_230)
+a flaming fire." <span id="fr_230"></span>[20](#fn_230.md)
 
 The six following numbers represent the different extremities of the
 world, that is to say, the four cardinal points (East, West, North and
 South), as well as height and depth. Those extremities have for emblems
 the different combinations which may be formed with the first three
-letters of the word Jehovah, <span id="fr_231"></span>[21](#fn_231),
- <span id="fr_232"></span>[22](#fn_232)
+letters of the word Jehovah, <span id="fr_231"></span>[21](#fn_231.md),
+ <span id="fr_232"></span>[22](#fn_232.md)
 
 Thus, apart from the different points distinguishable in space, which in
 themselves hold nothing real, all the elements of which the world is
@@ -253,9 +253,9 @@ immediately added: "Close your mouth that you speak
 
 not, and your heart that you do not ponder; and if your heart be too
 hasty, bring it back to its place, for therefore it is said: hasten and
-return, <span id="fr_233"></span>[23](#fn_233) and it is upon this that
+return, <span id="fr_233"></span>[23](#fn_233.md) and it is upon this that
 a covenant was made." (Ch. I, prop. 8.) <span
-id="fr_234"></span>[24](#fn_234) I suppose that the last words were
+id="fr_234"></span>[24](#fn_234.md) I suppose that the last words were
 meant to allude to some oath used by the Kabbalists to conceal their
 principles from the masses. The singular comparison contained in the
 first of the two passages is frequently repeated in the Zohar; we shall
@@ -323,15 +323,15 @@ and combining them in
 <span id="page_134">p. 134</span>
 
 different ways, God made the soul of all that is formed, and of all that
-shall be formed <span id="fr_235"></span>[25](#fn_235) And on these same
+shall be formed <span id="fr_235"></span>[25](#fn_235.md) And on these same
 letters the Holy One, blessed be He, founded His sublime and holy
-name," <span id="fr_236"></span>[26](#fn_237)
+name," <span id="fr_236"></span>[26](#fn_237.md)
 
 Those letters are divided into different classes called the "three
 mothers," the "seven doubles," and the "twelve simples." <span
-id="fr_237"></span>[27](#fn_238) It is entirely useless for the aim we
+id="fr_237"></span>[27](#fn_238.md) It is entirely useless for the aim we
 have in view to give the reason for those strange names. <span
-id="fr_238"></span>[28](#fn_239) Moreover, the function of the letters
+id="fr_238"></span>[28](#fn_239.md) Moreover, the function of the letters
 is wholly encroached by the division that we have noted, and by the
 numbers resulting from the division, or, to speak more clearly, an
 attempt is made to find, per fas et nefas (whether right or wrong), the
@@ -364,7 +364,7 @@ The number three seems here, as in all other mystical combinations, to
 be such an indispensable form that it is taken also as the symbol of the
 moral man in whom is discernible, according to the original expression,
 "the scale of merit, the scale of culpability, and the tongue of the law
-decides between the two." <span id="fr_241"></span>[29](#fn_241)
+decides between the two." <span id="fr_241"></span>[29](#fn_241.md)
 
 By the seven doubles are represented the contraries, or at least such
 things of this world which may serve two opposite ends. There are seven
@@ -398,12 +398,12 @@ constitutes a system which has its centre and, in some way, its
 hierarchy; "for," says the text, "Unity prevails over the three, the
 three over the seven, and the seven over the twelve, but each part of
 the system is inseparable from all the other parts." <span
-id="fr_242"></span>[30](#fn_242) The celestial dragon is the centre of
+id="fr_242"></span>[30](#fn_242.md) The celestial dragon is the centre of
 the universe, the heart is the centre of man; finally, the revolutions
 of the zodiac form the basis of the years. The first, it is said, is
 compared to a king upon his throne; the second to a king among his
 subjects; the third to a king in war. <span
-id="fr_243"></span>[31](#fn_243)
+id="fr_243"></span>[31](#fn_243.md)
 
 We believe that this comparison was meant to indicate the perfect
 regularity reigning in the universe, and the contrasts which exist in
@@ -411,7 +411,7 @@ man without destroying his unity. In fact, it is added that the twelve
 principal organs which form the body of man "are aligned one against
 another, as in order of battle. Three of them serve love, three produce
 hatred, three give life, and three summon death. <span
-id="fr_244"></span>[32](#fn_244) Thus evil confronts good, and from evil
+id="fr_244"></span>[32](#fn_244.md) Thus evil confronts good, and from evil
 comes forth evil only." (Prop. 9.) But immediately the remark is made
 that one can not be understood without the other.
 
@@ -422,7 +422,7 @@ above time; above letters as well as above the numbers of the Sefiroth,
 <span id="page_137">p. 137</span>
 
 over all things from the place of His holiness forever and ever." <span
-id="fr_245"></span>[33](#fn_245) Following these words, which form the
+id="fr_245"></span>[33](#fn_245.md) Following these words, which form the
 true conclusion of the book, comes the dramatic final event, of which we
 have spoken before--the conversion of Abraham, the idol worshipper, to
 the religion of the true God.
@@ -431,7 +431,7 @@ The final word of this system is the substitution of absolute unity for
 every form of dualism; the dualism of Pagan philosophy which would find
 in matter an eternal substance whose laws are not always in accord with
 the Divine Will, as well as the dualism of the Bible, which by the idea
-of creation sees [indeed (?)](errata.htm#11) in the Divine Will, and
+of creation sees [indeed (?)](errata.htm#11.md) in the Divine Will, and
 consequently in the Infinite Being, the only cause, the only real origin
 of the world, but which, at the same time, regards these two things, the
 universe and God, as two substances, absolutely distinct and separate.
@@ -482,8 +482,8 @@ of thought, substituted for the letters and the numbers, in a word,
 *ideas*, in the widest and in the noblest meaning of the word. The
 divine word (λόγος), instead of manifesting itself exclusively in
 nature, will appear to us above all in man and in intelligence; it will
-be called the "[archetype](errata.htm#12)" or "celestial" man: Adam
-Kadmon, ‏אדם עלאי, אדם קדמון‎. <span id="fr_246"></span>[34](#fn_246)
+be called the "[archetype](errata.htm#12.md)" or "celestial" man: Adam
+Kadmon, ‏אדם עלאי, אדם קדמון‎. <span id="fr_246"></span>[34](#fn_246.md)
 
 In certain fragments whose high antiquity can not be contested, we see,
 without prejudice to Absolute Unity, thought itself taken for universal
@@ -512,76 +512,76 @@ it was found in the identity of their duties and their rights, or in the
 unity of their nature and their task? This is not the place to dwell any
 longer upon a general fact; but we hope to have made clear at least the
 relations existing between the Sefer Yetzirah and the more extensive and
-more important work, <span id="fr_247"></span>[35](#fn_247) the
+more important work, <span id="fr_247"></span>[35](#fn_247.md) the
 substance of which we shall soon give.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_208"></span>[123:1](rph13.htm#fr_208) This judgment on the
+<span id="fn_208"></span>[123:1](rph13.htm#fr_208.md) This judgment on the
 Talmud by the author is, on the whole, unjust. The Talmud is a work
 compiled by many authors, and ought not to suffer the guilt of
 individual authors. Furthermore, the differing elements contained must
 be separated. Considered in the light of revelation, the Halakah is the
 necessary consequence of Mosaism; the <span id="page_124">p. 124</span>
-Haggadah, <span id="fr_209"></span>[a](#fn_209) wherever appearing in
+Haggadah, <span id="fr_209"></span>[a](#fn_209.md) wherever appearing in
 the mystic-allegoric-fantastic form, is generally an offspring of
 orientalism.--Jellinek.
 
-<span id="fn_209"></span>[123:a](rph13.htm#fr_209) By Halakah is meant
+<span id="fn_209"></span>[123:a](rph13.htm#fr_209.md) By Halakah is meant
 the entire legal part of Jewish tradition. Haggadah stands for the
 non-legal part of Jewish tradition and falls under the heading of
 folk-lore, history, illustrations, etc., mostly for a moralizing
 effect.--Transl.
 
-<span id="fn_210"></span>[125:2](rph13.htm#fr_210) Spanish philosopher
+<span id="fn_210"></span>[125:2](rph13.htm#fr_210.md) Spanish philosopher
 and Hebrew poet. c. 1085-1140.--Trans!.
 
-<span id="fn_211"></span>[125:3](rph13.htm#fr_211) Cuzari, IV, 25.
+<span id="fn_211"></span>[125:3](rph13.htm#fr_211.md) Cuzari, IV, 25.
 Instead of the Hebrew text which few would understand, we cite the
 excellent Spanish translation from Jacob Abendana. <span
-id="fr_212"></span>[a](#fn_212) "Ensena la deydad y la unidad por cosas
+id="fr_212"></span>[a](#fn_212.md) "Ensena la deydad y la unidad por cosas
 que son varias y multiplicadas por una parte, pero per otra parte, son
 unidas y concordantes, y su union proscede del uno que los ordena."
 
-<span id="fn_212"></span>[125:a](rph13.htm#fr_212) I am taking here the
+<span id="fn_212"></span>[125:a](rph13.htm#fr_212.md) I am taking here the
 English translation by Hartwig Hirschfeld.--Transl.
 
-<span id="fn_213"></span>[126:4](rph13.htm#fr_213) M. de Bonald,
+<span id="fn_213"></span>[126:4](rph13.htm#fr_213.md) M. de Bonald,
 Recherches Philosoph., ch. III. See also de Maistre, Soirees de
 Saint-Petersbourg, tome II, p. 112 ff.
 
-<span id="fn_214"></span>[126:5](rph13.htm#fr_214) Introduction to
+<span id="fn_214"></span>[126:5](rph13.htm#fr_214.md) Introduction to
 Abraham ben Dior's commentary on the Sefer Yetzirah, Mantua edition.
 
-<span id="fn_215"></span>[126:6](rph13.htm#fr_215) ‏בספר וספר וספיר‎
+<span id="fn_215"></span>[126:6](rph13.htm#fr_215.md) ‏בספר וספר וספיר‎
 Sefer Yetzirah, ch. I, first proposition (Mishnah).
 
-<span id="fn_216"></span>[126:7](rph13.htm#fr_216) Judah ha Levi of
+<span id="fn_216"></span>[126:7](rph13.htm#fr_216.md) Judah ha Levi of
 Andalusia wrote his religious-philosophical book "Cuzari" in Arabic.
 This was translated into Hebrew by Judah ibn Tibbon. From the Hebrew
 translation, Abendana completed in Spanish, Buxtorf, a Latin, and lately
 D. Cassel and Dr. Yolowicz <span id="page_127">p. 127</span> commenced a
 German translation, of which two numbers appeared until now. <span
-id="fr_217"></span>[a](#fn_217)--Jellinek
+id="fr_217"></span>[a](#fn_217.md)--Jellinek
 
-<span id="fn_217"></span>[126:a](rph13.htm#fr_217) Cassel's German
+<span id="fn_217"></span>[126:a](rph13.htm#fr_217.md) Cassel's German
 translation is now complete. There is also an English translation from
 the original Arabic by Dr. Hartwig Hirschfeld.--Transl.
 
-<span id="fn_218"></span>[127:8](rph13.htm#fr_218) The three words ‏ספר‎
+<span id="fn_218"></span>[127:8](rph13.htm#fr_218.md) The three words ‏ספר‎
 (S’far), ‏ספור‎ (Sippur) and ‏ספר‎ (S’for) signify according to the
 author of the Cuzzari: Number, Language (Speech, Narration),
 Writing.--Jellinek
 
-<span id="fn_219"></span>[127:9](rph13.htm#fr_219) Abendana's
+<span id="fn_219"></span>[127:9](rph13.htm#fr_219.md) Abendana's
 translation of the two words of the original text ‏השיעור והפלום‎ by "la
 cantidad y el peso" is incorrect. He uses the same words to translate
 also ‏והמשורה והמשקל‎. To further develop this would lead us too far, as
 we would have to refer to the Arabic.--Jellinek
 
-<span id="fn_220"></span>[127:10](rph13.htm#fr_220) It may interest the
+<span id="fn_220"></span>[127:10](rph13.htm#fr_220.md) It may interest the
 reader to know the direct translation of this passage, and I give here
 Dr. Hirschfeld's English translation: "As to S’far it means the
 calculation and weighing of the created bodies. The calculation which is
@@ -599,7 +599,7 @@ God means His creatures, the speech of God is His writing, the will of
 God is His speech. In the nature of God, therefore, S’far, Sippur, and
 Sefer are a unity, whilst they are three in human reckoning."--Transl.
 
-<span id="fn_221"></span>[128:11](rph13.htm#fr_221) Quizo dezir en la
+<span id="fn_221"></span>[128:11](rph13.htm#fr_221.md) Quizo dezir en la
 palabra Sephar la cantidad y el peso de los cuerpos criados, por quanto
 la cantidad en modo que sea el cuerpo ordenado y proporcionado, apto
 para lo que es criado, no es sino por numero; y la medida, y la
@@ -613,7 +613,7 @@ Dios son sus criaciones; y la palabra conque el Sephar, y el Sipur, y el
 Sepher en Dios son una cosa, y en el hombre son tres.--Cuzary, Discors.,
 vol. 4 S 25.
 
-<span id="fn_222"></span>[128:12](rph13.htm#fr_222) ‏עשר ספירות בלי מה‎
+<span id="fn_222"></span>[128:12](rph13.htm#fr_222.md) ‏עשר ספירות בלי מה‎
 (Esser S’firoth b’lee mah--Ten Sefiroth without what (anything). This
 expression in itself as well as the developments following it, compel
 this interpretation and permit no others, like those of "Sphere" which
@@ -622,20 +622,20 @@ the word "Sapphir" (‏ספיר‎). The book of Raziel, despite the
 extravagances contained in it, came near the truth on this point. ‏כל
 ההשבונות בלולות בלי מה לשון שתימה‎--Raziel, edit. Amsterdam, Vol. Sb.
 
-<span id="fn_223"></span>[129:13](rph13.htm#fr_223) Sefer Yetzirah. Ch.
+<span id="fn_223"></span>[129:13](rph13.htm#fr_223.md) Sefer Yetzirah. Ch.
 I, proposition 9. (Should be prop. 4.--Transl.)
 
-<span id="fn_224"></span>[129:14](rph13.htm#fr_224) Ch. I, proposition
+<span id="fn_224"></span>[129:14](rph13.htm#fr_224.md) Ch. I, proposition
 4. (Should be prop. 5.--Transl.)
 
-<span id="fn_225"></span>[129:15](rph13.htm#fr_225) Unless the author
+<span id="fn_225"></span>[129:15](rph13.htm#fr_225.md) Unless the author
 pleases to disregard the order in which the propositions of the Sefer
 Yetzirah are given in the original text, he can, not very well say here
 "it is added (on ajoute)"; for this, the third proposition, really
 precedes the previous one, fifth proposition (wrongly given as the
 4th).--Transl.
 
-<span id="fn_226"></span>[129:16](rph13.htm#fr_226) The author's own
+<span id="fn_226"></span>[129:16](rph13.htm#fr_226.md) The author's own
 conception of this passage may have induced him to insert the words "de
 la main (of the hand)," but they are not to be found in the original
 text, and are very properly omitted by Dr. Jellinek in his German
@@ -648,7 +648,7 @@ specifically of the fingers of the hand, it refers as well to the
 fingers (toes) of the feet. Thus is symbolized here the diverging
 polarity which always converges again in an indifferent point."--Transl.
 
-<span id="fn_227"></span>[130:17](rph13.htm#fr_227) ‏רוח מרוח‎. The same
+<span id="fn_227"></span>[130:17](rph13.htm#fr_227.md) ‏רוח מרוח‎. The same
 word (‏רוח‎--Ru-ah) has the meaning of air, and spirit; therefore, we
 might have just as well said "the spirit which proceeds from the
 spirit." But then it would have to be admitted that the spirit
@@ -658,7 +658,7 @@ but the spirit of God; consequently the second number can not be
 anything but the expression of that spirit, the breath into which the
 twenty-two letters in some way finally resolved themselves.
 
-<span id="fn_228"></span>[130:18](rph13.htm#fr_228) The translation of
+<span id="fn_228"></span>[130:18](rph13.htm#fr_228.md) The translation of
 this proposition is not complete. I shall attempt its translation
 according to Dr. Bloch: "Two is the breath which comes from the spirit.
 In it He graved and formed 22 letters and the principle of which are
@@ -667,7 +667,7 @@ another version is added: "In them (are) the four heavenly regions
 (cardinal points), East and West, North and South, and a breath (wind)
 is in every one of these."--Transl.
 
-<span id="fn_229"></span>[130:19](rph13.htm#fr_229) The author
+<span id="fn_229"></span>[130:19](rph13.htm#fr_229.md) The author
 disregarded entirely the original text in this phrase, and Dr. Jellinek,
 in his German translation, tried to save the situation by correcting at
 least one word of it. The original Hebrew text has: ‏חקקן כמין ערונה‎
@@ -682,7 +682,7 @@ the word is "‏ערג‎--orag," to ascend, to mount, to rise, and written
 with an ‏ע‎--Ain. The Hebrew word for carpet is "‏מד‎--Mahd" or
 "‏שמיכה‎--Smehah."--Transl.
 
-<span id="fn_230"></span>[131:20](rph13.htm#fr_230) This proposition is
+<span id="fn_230"></span>[131:20](rph13.htm#fr_230.md) This proposition is
 also not rendered strictly according to the original Hebrew text, and I
 shall again refer to Dr. Bloch's translation as the truer one. It should
 read: Three is water (which comes) from the fire. In it He graved and
@@ -691,37 +691,37 @@ Ministering Angels, and of these three He formed His dwelling, for it is
 written: Who maketh angels spirits; His ministers a flaming fire.
 (Psalms, CIV).--Transl.
 
-<span id="fn_231"></span>[131:21](rph13.htm#fr_231) Ch. I, from prop. 9
+<span id="fn_231"></span>[131:21](rph13.htm#fr_231.md) Ch. I, from prop. 9
 to prop. 12.
 
-<span id="fn_232"></span>[131:22](rph13.htm#fr_232) I H W H
+<span id="fn_232"></span>[131:22](rph13.htm#fr_232.md) I H W H
 (‏יהוה‎)--Transl.
 
-<span id="fn_233"></span>[132:23](rph13.htm#fr_233) Referring to Ezekiel
+<span id="fn_233"></span>[132:23](rph13.htm#fr_233.md) Referring to Ezekiel
 I, 14: "And the living creatures ran and returned as the appearance of a
 flash of lightning."--Transl.
 
-<span id="fn_234"></span>[132:24](rph13.htm#fr_234) I have again
+<span id="fn_234"></span>[132:24](rph13.htm#fr_234.md) I have again
 deviated from the translation of the author and of Dr. Jellinek in order
 to adhere to the original Hebrew text.--Transl.
 
-<span id="fn_235"></span>[134:25](rph13.htm#fr_235) ‏עשרים ושתים אותיות
+<span id="fn_235"></span>[134:25](rph13.htm#fr_235.md) ‏עשרים ושתים אותיות
 חקקן חצבן שקלן והמירן צרפן יצר בהן נפש כל היצור ובפש כל העתיד לצור.‎ Ch.
-II prop. 2. <span id="fr_239"></span>[a](#fn_236)
+II prop. 2. <span id="fr_239"></span>[a](#fn_236.md)
 
-<span id="fn_236"></span>[134:a](rph13.htm#fr_239) Not fully translated.
+<span id="fn_236"></span>[134:a](rph13.htm#fr_239.md) Not fully translated.
 The literal translation is as follows: (With the) twenty-two letters
 (which) He carved them, graved them, weighed them and changed them
 around, He formed in them the soul of all that has been formed and the
 soul of all that will be formed.--Transl.
 
-<span id="fn_237"></span>[134:26](rph13.htm#fr_236) ‏אלו ב׳ב אותיות שבהם
+<span id="fn_237"></span>[134:26](rph13.htm#fr_236.md) ‏אלו ב׳ב אותיות שבהם
 יסד הקב״ה שמו מרום וקדוש.‎
 
-<span id="fn_238"></span>[134:27](rph13.htm#fr_237) ‏אלו ב׳ב אותיות יסוד
+<span id="fn_238"></span>[134:27](rph13.htm#fr_237.md) ‏אלו ב׳ב אותיות יסוד
 שלוש אמות ושבע כפולות ושתים עשרה פשטות.‎ Ch. I, prop. 8.
 
-<span id="fn_239"></span>[134:28](rph13.htm#fr_238) The simples
+<span id="fn_239"></span>[134:28](rph13.htm#fr_238.md) The simples
 represent one sound only; the doubles express two sounds, one mild, the
 other hard. To the first class belong the following letters: ‏הוז חטי לן
 מעצק‎; the last class is represented by these two words: ‏בגד כפרת‎.
@@ -729,38 +729,38 @@ Finally, in the word ‏אמש ‎are gathered the three mothers, one of which
 the ‏ש‎, because it is a sibilant letter, represents fire; the second
 ‏מ‎ which is silent, represents water; and, finally, the first letter
 ‏א‎, which is slightly aspirate, is the symbol of air. <span
-id="fr_240"></span>[\*](#fn_240).
+id="fr_240"></span>[\*](#fn_240.md).
 
-<span id="fn_240"></span>[134:\*](rph13.htm#fr_240) It should also be
+<span id="fn_240"></span>[134:\*](rph13.htm#fr_240.md) It should also be
 mentioned that ‏א‎ (Aleph) is the first letter in the word ‏אויר‎
 (Ahveer)--air, ‏מ‎ (Mem) is the first letter of the word ‏מים‎
 (Ma-yim)--water, and ‏ש‎ (Shin) is the last letter of the word ‏אש‎
 (Aysh)--fire. Compare ch. III, prop. 3.--Jellinek
 
-<span id="fn_241"></span>[135:29](rph13.htm#fr_241) ‏אמש יסודן בף חובה
+<span id="fn_241"></span>[135:29](rph13.htm#fr_241.md) ‏אמש יסודן בף חובה
 וכף זכות ולשון הוק מכריע בנתיים.‎ III, prop. 1.
 
-<span id="fn_242"></span>[136:30](rph13.htm#fr_242) ‏אהד על נבי שלשה,
+<span id="fn_242"></span>[136:30](rph13.htm#fr_242.md) ‏אהד על נבי שלשה,
 שלשה על גבי שבעה, שבעה על גבי שנים עשר.‎ Ch. VI. prop. 13.
 
-<span id="fn_243"></span>[136:31](rph13.htm#fr_243) ‏הלי בעולם כמלד על
+<span id="fn_243"></span>[136:31](rph13.htm#fr_243.md) ‏הלי בעולם כמלד על
 כסאו. גלגל בשנה כמלךּ במדינה. לב בנפש במלךּ במלחמה.‎--Ch. VI, prop. 7.
 
-<span id="fn_244"></span>[136:32](rph13.htm#fr_244) ‏שנים עשר עומדים
+<span id="fn_244"></span>[136:32](rph13.htm#fr_244.md) ‏שנים עשר עומדים
 במלהמה שלשת אוהבים שלשה שונאים שלשת מחיים שלשה ממיתימ.‎ Ch. VI, prop.
 11.
 
-<span id="fn_245"></span>[137:33](rph13.htm#fr_245) ‏אל מלךּ נאמז מושל
+<span id="fn_245"></span>[137:33](rph13.htm#fr_245.md) ‏אל מלךּ נאמז מושל
 בבולם ממעון קדשו ועד עדי עד.‎ After having been applied in its entirety
 to the ten Sefiroth, this passage appears only in part in the place
 indicated. The four last words are cut short.
 
-<span id="fn_246"></span>[138:34](rph13.htm#fr_246) ‏אדם עלאי‎ (Adam
+<span id="fn_246"></span>[138:34](rph13.htm#fr_246.md) ‏אדם עלאי‎ (Adam
 Eelo-o), literally: High man, therefore: Ideal man, Celestial man. ‏אדמ
 קדמון‎ (Adam Kadmon),, literally: Previous man, therefore: Archetype
 man.--Transl.
 
-<span id="fn_247"></span>[139:35](rph13.htm#fr_247) The Amsterdam
+<span id="fn_247"></span>[139:35](rph13.htm#fr_247.md) The Amsterdam
 edition of the Zohar consists of three great volumes in octavo, each one
 of which contains nearly six hundred pages in rabbinical characters,
 very finely and very closely printed.
@@ -768,4 +768,4 @@ very finely and very closely printed.
 ------------------------------------------------------------------------
 
 [Next: Chapter II. Analysis of the Zohar. Allegorical Method Of The
-Kabbalists](rph14)
+Kabbalists](rph14.md)

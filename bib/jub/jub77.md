@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub76) 
-[Next](jub78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub76.md) 
+[Next](jub78.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ before Pharaoh that his two dreams were one, and he said unto him:
 "Seven years will come (in which there will be) plenty over all the land
 of Egypt, and after that seven years of famine, such a famine as hath
 not been in all the land. 4. And now let Pharaoh appoint overseers <span
-id="fr_850"></span>[1](#fn_842) in all the land of Egypt, and let them
+id="fr_850"></span>[1](#fn_842.md) in all the land of Egypt, and let them
 store up food in every city throughout the days of the years of plenty,
 and there will be food for the seven years of famine, and the land will
 not perish through the famine, for it will be very severe." 5. And the
@@ -32,7 +32,7 @@ appointed him the second in all his kingdom and gave him authority over
 all Egypt, and caused him to ride in the second chariot of Pharaoh. 7.
 And he clothed him with byssus garments, and he put a gold chain upon
 his neck, and (a herald) proclaimed before him "’Êl ’Êl wa’
-Abîrĕr," <span id="fr_851"></span>[2](#fn_843) and he placed a ring on
+Abîrĕr," <span id="fr_851"></span>[2](#fn_843.md) and he placed a ring on
 his hand and made him ruler over all his house, and magnified him, and
 said unto him: "Only on the throne shall I be greater than thou." 8. And
 Joseph ruled over all the land of Egypt, and all the princes of Pharaoh,
@@ -47,11 +47,11 @@ land of Egypt was at peace before Pharaoh because of Joseph, for the
 Lord was with him, and gave him favour and mercy for all his generations
 before all those who knew him and those who heard concerning him, and
 Pharaoh's kingdom was well ordered, and there was no Satan <span
-id="fr_852"></span>[1](jub78.htm#fn_844) and no evil person (therein).
+id="fr_852"></span>[1](jub78.htm#fn_844) and no evil person (therein.md).
 10. And the king called Joseph's name Sĕphânṭîphâns, <span
-id="fr_853"></span>[2](jub78.htm#fn_845) and gave Joseph to wife the
+id="fr_853"></span>[2](jub78.htm#fn_845.md) and gave Joseph to wife the
 daughter of Potiphar, the daughter of the priest of Heliopolis, the
-chief cook. <span id="fr_854"></span>[3](jub78.htm#fn_846) 11. And on
+chief cook. <span id="fr_854"></span>[3](jub78.htm#fn_846.md) 11. And on
 the day that Joseph stood before Pharaoh he was thirty years old \[when
 he stood before Pharaoh\]. 12. And in that year Isaac died. And it came
 to pass as Joseph had said in the interpretation of his two dreams,
@@ -65,9 +65,9 @@ longer count and measure it for its multitude.
 
 ### Footnotes
 
-<span id="fn_842"></span>[187:1](jub77.htm#fr_850) Cf. Gen. xli. 34.
+<span id="fn_842"></span>[187:1](jub77.htm#fr_850.md) Cf. Gen. xli. 34.
 
-<span id="fn_843"></span>[187:2](jub77.htm#fr_851) *’Êl ’Êl wa’ Abîrĕr*
+<span id="fn_843"></span>[187:2](jub77.htm#fr_851.md) *’Êl ’Êl wa’ Abîrĕr*
 = Heb. *’el ’el wa’ăbîr ’el*, "God, God, the mighty one of God." This is
 a peculiar amplification of the Hebrew *’abrēk* (R.V. "bow the knee ")
 of Gen. xli. 43. "Mighty one of God" may be a technical term for a great
@@ -76,4 +76,4 @@ magician; cf. Acts viii. 10.
 ------------------------------------------------------------------------
 
 [Next: Judah's Incest with Tamar; his Repentance and Forgiveness (xli.
-1-28)](jub78)
+1-28)](jub78.md)

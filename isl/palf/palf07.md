@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](palf06)  [Next](palf08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](palf06)  [Next](palf08.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ being which deals with quantities and numbers. Medicine is the science
 of being insofar as it is healthy or sick. Metaphysics, however, knows
 no such restrictions. Its field is all reality, namely, Being. And it is
 all equally extensive with the concept of Being (One, True,
-Good.)" <span id="fr_22"></span>[23](#fn_22)
+Good.)" <span id="fr_22"></span>[23](#fn_22.md)
 
 Metaphysics, in the opinion of Alfarabi, treats of things which are
 separate from matter. In this connection he distinguishes two kinds of
@@ -75,7 +75,7 @@ Substances." The former alone have substantial existence, and because of
 that, one is led to think that First Substances are more substances than
 the Second Substances. On the other hand, the universal, being permanent
 and subsistent, has more right to the name of substance than mortal
-individuals." <span id="fr_23"></span>[24](#fn_23)
+individuals." <span id="fr_23"></span>[24](#fn_23.md)
 
 "How do universals exist?" asks Alfarabi. "The universals
 
@@ -92,7 +92,7 @@ As to the definition of universals, Alfarabi says that "The universal is
 *unum de multis et in multis* (the one found in many and affirmed of
 many). The inference is that the universal has no existence apart from
 the individual (non habet esse separatum a multis)." <span
-id="fr_24"></span>[25](#fn_24) Here we must recall that Albertus Magnus
+id="fr_24"></span>[25](#fn_24.md) Here we must recall that Albertus Magnus
 quotes the Alfarabian definition of the universal, a fact which proves
 beyond all doubt that both he and his pupil, St. Thomas, were acquainted
 with the writings of our philosopher. \[See Albertus Magnus, De praed.
@@ -135,7 +135,7 @@ that the judgments be coordinated in order to arrive at an ultimate
 judgment-principle, in like manner in the definition of a concept, it is
 necessary that the concept be resolved into other simpler concepts until
 one arrives at the simplest and most universal concept, which is
-Being." <span id="fr_25"></span>[26](#fn_25) Now, St. Thomas describes
+Being." <span id="fr_25"></span>[26](#fn_25.md) Now, St. Thomas describes
 Being in much the same way. Not only does he unfold the same ideas as
 those of Alfarabi, but the suprising thing is that the ideas are couched
 in exactly the same words as those of Alfarabi. A glance at the writings
@@ -145,7 +145,7 @@ Here is what St. Thomas says about Being:
 
 Illud autem quod primo intellectus concipit quasi notissimum, et in quo
 omnes conceptiones resolvit, est ens. <span
-id="fr_26"></span>[27](#fn_26)
+id="fr_26"></span>[27](#fn_26.md)
 
 In another place he says:
 
@@ -155,7 +155,7 @@ propositiones usque ad principia ipsa, ad quae necesse est stare
 rationem, ita in apprehensione praedictorum oportet stare ad ens quod in
 quolibet cognito naturaliter cognoscitur, sicut et principium in omnibus
 propositionibus que sunt post principia. <span
-id="fr_27"></span>[28](#fn_27)
+id="fr_27"></span>[28](#fn_27.md)
 
 <span id="page_13">p. 13</span>
 
@@ -164,14 +164,14 @@ id="fr_27"></span>[28](#fn_27)
 For Alfarabi ens, unum, verum et bonum convertuntur. By that he means
 that the concept of Being coincides with that of unity, truth and
 goodness, and that every being is one, true and good. <span
-id="fr_28"></span>[29](#fn_28)
+id="fr_28"></span>[29](#fn_28.md)
 
 #### DIVISION OF BEING INTO NECESSARY AND CONTINGENT
 
 According to Alfarabi, *Necessary Being* is that which exists in itself
 or that which cannot but exist. *Contingent Being* is that which
 receives its being from another, and whose non-existence is
-possible. <span id="fr_29"></span>[30](#fn_29)
+possible. <span id="fr_29"></span>[30](#fn_29.md)
 
 #### METAPHYSICAL PRINCIPLES OF BEING POTENTIALITY AND ACTUALITY
 
@@ -190,7 +190,7 @@ respect to future modifications. Hence, *substance* and *accident*.
 *Substance* is that which exists in itself and is the foundation of
 certain accidents or accidental differences. Its fundamental
 characteristic is to exist in itself and not in another as its
-subject. <span id="fr_30"></span>[31](#fn_30) *Accident* is that which
+subject. <span id="fr_30"></span>[31](#fn_30.md) *Accident* is that which
 needs a subject in which
 
 <span id="page_14">p. 14</span>
@@ -198,13 +198,13 @@ needs a subject in which
 and by which it may exist. For example, a coat is a substance, because
 it exists in itself; white or black are accidents, because they do not
 exist without a substance in which they may inhere. <span
-id="fr_31"></span>[32](#fn_31)
+id="fr_31"></span>[32](#fn_31.md)
 
 In every created being there are two constituent principles, *essence*
 and *existence*, which are conceived as actuality and potentiality
 respectively. *Essence* is the reason why a thing is what it is.
 *Existence* is the actuality of essence. <span
-id="fr_32"></span>[33](#fn_32)
+id="fr_32"></span>[33](#fn_32.md)
 
 To the question, "What is the nature of the distinction between essence
 and existence in created substances?" Alfarabi replies that "A real
@@ -226,7 +226,7 @@ know whether it exists in reality. On the other hand, if there was no
 distinction between essence and existence in created beings, then these
 could be said to exist by their essence. But there is one being alone
 whose essence is His very existence, and that is God. <span
-id="fr_33"></span>[34](#fn_33)
+id="fr_33"></span>[34](#fn_33.md)
 
 <span id="page_15">p. 15</span>
 
@@ -240,7 +240,7 @@ aliquid intelligatur de esse suo facto: possum enim intelligere quid est
 homo, et tamen ignorare an esse habeat in rerum natura. Ergo patet, quod
 esse est aliud ab essentia vel quidditate, nisi forte sit aliqua res,
 cujus quidditas sit suum esse, et haec res non potest esse nisi una et
-prima. <span id="fr_34"></span>[35](#fn_34)
+prima. <span id="fr_34"></span>[35](#fn_34.md)
 
 The finite, concrete thing is composed of two other principles, *matter*
 and *form*. *Matter* is nothing but a reality indeterminate as body.
@@ -255,7 +255,7 @@ the form proper to them, but also the opposite. Matter and form are real
 elements or principles of being, and together they form a real and
 integral whole. If either were taken away, there would be no concrete
 thing at all. That is the reason why form is immanent in matter. <span
-id="fr_35"></span>[36](#fn_35)
+id="fr_35"></span>[36](#fn_35.md)
 
 #### THE FIRST PRINCIPLES
 
@@ -277,7 +277,7 @@ to be and not to be at the same time.
 *The principle of causality* is thus formulated by Alfarabi: "Whatever
 exists after having not existed, must be brought into being by a cause;
 nothing (not-being) cannot be the cause of being." <span
-id="fr_36"></span>[37](#fn_36) Alfarabi arrived at the principle of
+id="fr_36"></span>[37](#fn_36.md) Alfarabi arrived at the principle of
 causality through the analysis of the idea of motion. Motion or change
 involves a transition from not-being into being, from potentiality into
 actuality. And since not-being of itself cannot rise to being, we
@@ -297,7 +297,7 @@ cannot do a thing without relying on external causes, which are not of
 his choice, and these causes rely on the order, and the order on the
 decree, and the decree on the judgment, and the judgment comes from the
 commandment. And so everything is de-creed. <span
-id="fr_37"></span>[38](#fn_37)
+id="fr_37"></span>[38](#fn_37.md)
 
 <span id="page_17">p. 17</span>
 
@@ -359,7 +359,7 @@ true of God. The imperfect knowledge we have of God is due to the fact
 that He is infinitely perfect. That explains why His infinitely perfect
 being bewilders our mind. But if we could strip our nature of all that
 we call 'matter; then certainly our knowledge of His being would be
-quite perfect. <span id="fr_38"></span>[39](#fn_38)
+quite perfect. <span id="fr_38"></span>[39](#fn_38.md)
 
 <span id="page_19">p. 19</span>
 
@@ -367,7 +367,7 @@ In another place he says:
 
 God is knowable and unknowable, evident and hidden, and the best
 knowledge of Him is to know that He is something the human mind cannot
-thoroughly understand. <span id="fr_39"></span>[40](#fn_39)
+thoroughly understand. <span id="fr_39"></span>[40](#fn_39.md)
 
 A glance, however, into Alfarabi's later teaching leads us to the
 conclusion that he must have implicitly admitted the proposition, "God
@@ -377,10 +377,10 @@ subject. But since our mind is unable to understand the selfsame thing
 of both these terms, the implication is that Alfarabi must have come to
 the tacit conclusion that this proposition, "God is", is self-evident in
 itself, although not to us, and what is not evident to us can be
-demonstrated. <span id="fr_40"></span>[41](#fn_40) According to him, the
+demonstrated. <span id="fr_40"></span>[41](#fn_40.md) According to him, the
 knowledge of God is the object of philosophy, and the duty of man is to
 rise, as far as is humanly possible, up to the likeness of God. <span
-id="fr_41"></span>[42](#fn_41)
+id="fr_41"></span>[42](#fn_41.md)
 
 #### PROOFS OF GOD'S EXISTENCE
 
@@ -411,7 +411,7 @@ similarity between them.
 
 |                                                                                                                      |                                                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| and things moved. Therefore, there must be an immovable mover, and this is God. <span id="fr_42"></span>[43](#fn_42) | it is necessary to arrive at a first mover, put in motion by no other; and this everyone understands to be God. <span id="fr_43"></span>[44](#fn_43) |
+| and things moved. Therefore, there must be an immovable mover, and this is God. <span id="fr_42"></span>[43](#fn_42) | it is necessary to arrive at a first mover, put in motion by no other; and this everyone understands to be God. <span id="fr_43"></span>[44](#fn_43.md) |
 
  
 
@@ -419,11 +419,11 @@ similarity between them.
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2\. Proof of Efficient Cause.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                 |
-| In contemplating the changeable world, one sees that it is composed of beings which have a cause, and this cause, in turn, is the cause of another. Now, in the series of efficient causes it is not possible to proceed to infinity. For, if A were the cause of B, B of C, C of D, and so on, here A would be the cause of it-self, which is not admissible. Therefore, outside the series of efficient causes, there must be an uncaused efficient cause, and this is God. <span id="fr_44"></span>[45](#fn_44) | In the world of sense we find there is an order of efficient causes. There is no case known (neither is possible) in which a thing is found to be the efficient cause of itself ... Now, in efficient causes it is not possible to go on to infinity Therefore, it is necessary to admit a first efficient cause, to which everyone gives the name of God. <span id="fr_45"></span>[46](#fn_45) |
+| In contemplating the changeable world, one sees that it is composed of beings which have a cause, and this cause, in turn, is the cause of another. Now, in the series of efficient causes it is not possible to proceed to infinity. For, if A were the cause of B, B of C, C of D, and so on, here A would be the cause of it-self, which is not admissible. Therefore, outside the series of efficient causes, there must be an uncaused efficient cause, and this is God. <span id="fr_44"></span>[45](#fn_44) | In the world of sense we find there is an order of efficient causes. There is no case known (neither is possible) in which a thing is found to be the efficient cause of itself ... Now, in efficient causes it is not possible to go on to infinity Therefore, it is necessary to admit a first efficient cause, to which everyone gives the name of God. <span id="fr_45"></span>[46](#fn_45.md) |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Another form of the same proof:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Transition from not-being to being demands an actual cause. This cause either has its essence identical with its existence or not. If it does, then being is uncaused. If it does not, then existence must be from another, and that from another, and so on until we arrive at a First Cause, whose essence differs in no way from its existence. <span id="fr_46"></span>[47](#fn_46)                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Transition from not-being to being demands an actual cause. This cause either has its essence identical with its existence or not. If it does, then being is uncaused. If it does not, then existence must be from another, and that from another, and so on until we arrive at a First Cause, whose essence differs in no way from its existence. <span id="fr_46"></span>[47](#fn_46.md)                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                 |
 
  
 
@@ -439,7 +439,7 @@ similarity between them.
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| have a cause. To this effect Alfarabi makes a distinction between a necessary being and a contingent being. "Contingent beings," he says, "have had a beginning. Now, that which begins to exist must owe its existence to the action of a cause. This cause, in turn, either is or is not contingent. If it is contingent, it also must have received its existence by the action of another cause, and so on. But a series of contingent beings which would produce one another cannot proceed to infinity or move in a circle. Therefore, the series of causes and effects must arrive at a cause that holds its existence from itself, and this is the first cause (ens primum)." <span id="fr_47"></span>[48](#fn_47) | be ... But it is impossible for these always to exist ... Therefore, not all beings are merely possible, but there must exist something, the existence of which is necessary. But every necessary being either has its necessity caused by another or not. Now, it is impossible to go on to infinity in necessary things which have their necessity caused by another. Therefore, we can-not but postulate the existence of some being having of itself its own necessity, and not receiving it from another, but rather causing in others their necessity. This all men speak of as God. <span id="fr_48"></span>[49](#fn_48) |
+| have a cause. To this effect Alfarabi makes a distinction between a necessary being and a contingent being. "Contingent beings," he says, "have had a beginning. Now, that which begins to exist must owe its existence to the action of a cause. This cause, in turn, either is or is not contingent. If it is contingent, it also must have received its existence by the action of another cause, and so on. But a series of contingent beings which would produce one another cannot proceed to infinity or move in a circle. Therefore, the series of causes and effects must arrive at a cause that holds its existence from itself, and this is the first cause (ens primum)." <span id="fr_47"></span>[48](#fn_47) | be ... But it is impossible for these always to exist ... Therefore, not all beings are merely possible, but there must exist something, the existence of which is necessary. But every necessary being either has its necessity caused by another or not. Now, it is impossible to go on to infinity in necessary things which have their necessity caused by another. Therefore, we can-not but postulate the existence of some being having of itself its own necessity, and not receiving it from another, but rather causing in others their necessity. This all men speak of as God. <span id="fr_48"></span>[49](#fn_48.md) |
 
  
 
@@ -511,7 +511,7 @@ process: first, by exclusion \[Via Remotionis\], by which we remove from
 God whatever implies defect, as limitation, dependence, mutability; and
 second, by pre-eminence \[Via Eminentiae\], by which we attribute to God
 in an infinite degree all perfections, such as goodness, wisdom,
-etc. <span id="fr_49"></span>[50](#fn_49)
+etc. <span id="fr_49"></span>[50](#fn_49.md)
 
 Concerning the method to be followed in determining God's nature, St.
 Thomas says exactly the same thing in the following words:
@@ -519,11 +519,11 @@ Thomas says exactly the same thing in the following words:
 We have some knowledge thereof (divine essence) by knowing what it is
 not: and we shall approach all the nearer to the knowledge thereof
 according as we shall be enabled to remove by our intellect a greater
-number of things therefrom. <span id="fr_50"></span>[51](#fn_50)
+number of things therefrom. <span id="fr_50"></span>[51](#fn_50.md)
 
 In another place St. Thomas says: "Quaelibet creatura potest in Deum
 venire tribus modis, scilicet, per causalitatem, remotionem,
-eminentiam." <span id="fr_51"></span>[52](#fn_51)
+eminentiam." <span id="fr_51"></span>[52](#fn_51.md)
 
 The following are the attributes of God as considered by Alfarabi and
 St. Thomas.
@@ -539,9 +539,9 @@ St. Thomas.
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span class="contnote">\[paragraph continues\]</span> Physical composition may be either substantial or accidental. It is substantial if the composite substance consists of body and soul, of matter and form. Now, an infinite being cannot be a substantial composite of matter and form, because this would mean that God results from the union of finite parts which would exist before Him in time, and therefore be the cause of His being. Nor can an accidental composition be attributed to the infinite, because this would imply a capacity for an increase in perfection, which the very notion of the infinite excludes. Therefore, there is not and cannot be any physical composition. <span id="fr_52"></span>[53](#fn_52)                                                                                                        | <span class="contnote">\[paragraph continues\]</span> But in God there is no potentiality. Therefore, in Him there is no composition ... Every composite is subsequent to its components. Therefore, the first being, namely God, has no component parts. <span id="fr_53"></span>[54](#fn_53)                                                                                                                                                                                                                                    |
+| <span class="contnote">\[paragraph continues\]</span> Physical composition may be either substantial or accidental. It is substantial if the composite substance consists of body and soul, of matter and form. Now, an infinite being cannot be a substantial composite of matter and form, because this would mean that God results from the union of finite parts which would exist before Him in time, and therefore be the cause of His being. Nor can an accidental composition be attributed to the infinite, because this would imply a capacity for an increase in perfection, which the very notion of the infinite excludes. Therefore, there is not and cannot be any physical composition. <span id="fr_52"></span>[53](#fn_52)                                                                                                        | <span class="contnote">\[paragraph continues\]</span> But in God there is no potentiality. Therefore, in Him there is no composition ... Every composite is subsequent to its components. Therefore, the first being, namely God, has no component parts. <span id="fr_53"></span>[54](#fn_53.md)                                                                                                                                                                                                                                    |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Neither can there be that kind of composition known as metaphysical, which results from the union of two different concepts so referred to the same real thing that neither one by itself signifies the whole reality as meant by their union. Thus, every contingent being is a metaphysical composite of essence and existence. Essence, as such, in reference to a contingent being, implies its conceivableness or. possibility, and abstracts from actual existence; while existence, as such, must be added to essence before we can speak of the being as actual. But the composite of essence and existence in a contingent being can-not be applied to the self-existent or infinite being in whom essence and existence are one. Therefore, there is no composition of essence and existence in God. <span id="fr_54"></span>[55](#fn_54) | Existence denotes a kind of actuality ... Now everything to which an act is becoming, and which is distinct from that act, is related thereto as potentiality to act ... Accordingly if the divine essence is distinct from its existence, it follows that His essence and existence are mutually related as potentiality and act. Now it has been proved that in God there is nothing of potentiality, and that He is pure act. Therefore God's essence is not distinct from His existence. <span id="fr_55"></span>[56](#fn_55) |
+| Neither can there be that kind of composition known as metaphysical, which results from the union of two different concepts so referred to the same real thing that neither one by itself signifies the whole reality as meant by their union. Thus, every contingent being is a metaphysical composite of essence and existence. Essence, as such, in reference to a contingent being, implies its conceivableness or. possibility, and abstracts from actual existence; while existence, as such, must be added to essence before we can speak of the being as actual. But the composite of essence and existence in a contingent being can-not be applied to the self-existent or infinite being in whom essence and existence are one. Therefore, there is no composition of essence and existence in God. <span id="fr_54"></span>[55](#fn_54) | Existence denotes a kind of actuality ... Now everything to which an act is becoming, and which is distinct from that act, is related thereto as potentiality to act ... Accordingly if the divine essence is distinct from its existence, it follows that His essence and existence are mutually related as potentiality and act. Now it has been proved that in God there is nothing of potentiality, and that He is pure act. Therefore God's essence is not distinct from His existence. <span id="fr_55"></span>[56](#fn_55.md) |
 
  
 
@@ -778,7 +778,7 @@ only united to them.
 There are six kinds of bodies: the celestial, the rational animal, the
 irrational animal, the vegetal, the mineral and the four elements (air,
 water, fire, earth). All of these principles and bodies taken together
-make up the universe. <span id="fr_78"></span>[79](#fn_78)
+make up the universe. <span id="fr_78"></span>[79](#fn_78.md)
 
 The theory of separate intellects such as taught by Alfarabi and other
 Arabian philosophers is simply a mixture of Aristotelian theories on the
@@ -813,7 +813,7 @@ in this case is inseparable from the effect, it follows that He could
 not, in a given moment, start making it. For, if He could, that would
 simply imply imperfection on His part while He had been trying to
 achieve His goal. This, of course, is incompatible with the absolute
-perfection of God. <span id="fr_79"></span>[80](#fn_79)
+perfection of God. <span id="fr_79"></span>[80](#fn_79.md)
 
 The eternity of the world and of matter as held by Alfarabi and Avicenna
 was rejected by Averroes and Maimonides, who taught the "creatio mundi
@@ -833,7 +833,7 @@ in the world is not to be attributed to chance. Evil is under divine
 control and is united to corruptible things. That evil exists in the
 world is good accidentally, because if it did not exist, a great deal of
 good in the world would never come about. <span
-id="fr_80"></span>[81](#fn_80)
+id="fr_80"></span>[81](#fn_80.md)
 
 In conclusion, it should be noted that Alfarabi's Metaphysical
 
@@ -860,14 +860,14 @@ body, simply because he accepts the Aristotelian definition of the soul
 as the entelechy or the substantial form of the body. By this he means
 that the soul is the principle of life in man, a principle by which he
 thinks, feels and wills, and by which his body is animated. <span
-id="fr_81"></span>[82](#fn_81) This is also borne out by the fact that
+id="fr_81"></span>[82](#fn_81.md) This is also borne out by the fact that
 
 Man is composed of two principles, body and soul. The body is composed
 of parts, limited by space, measurable, divisible; while the soul is
 free from all bodily qualities. The former is a product of the created
 world, while the latter is simply the product of the last separate
 intellect of the supersensible world. <span
-id="fr_82"></span>[83](#fn_82)
+id="fr_82"></span>[83](#fn_82.md)
 
 #### SPIRITUALITY OF THE HUMAN SOUL
 
@@ -889,20 +889,20 @@ In addition to this, he says:
 its cause, for the soul can give to its operations only what it has
 itself. Therefore, the spiritual operations of the soul give us true
 knowledge of the nature of the soul itself. <span
-id="fr_83"></span>[84](#fn_83)
+id="fr_83"></span>[84](#fn_83.md)
 
 #### IMMORTALITY OF THE HUMAN SOUL
 
 Alfarabi held that the human soul cannot exist before the body, as Plato
 had said. Nor can it migrate from one body to another, as taught by the
-author of Metempsychosis. <span id="fr_84"></span>[85](#fn_84) However,
+author of Metempsychosis. <span id="fr_84"></span>[85](#fn_84.md) However,
 it is very doubtful whether Alfarabi believed in the immortality of the
 human soul. For, he wrote passages for and against immortality. Against
 immortality we find the following passages:
 
 The only thing that survives the dissolution of the body is the active
 intellect, the *dator formarum* which is incorruptible. <span
-id="fr_85"></span>[86](#fn_85)
+id="fr_85"></span>[86](#fn_85.md)
 
 And in his lost commentary on the Nicomachean Ethics, he is reported by
 Averroes to have said that
@@ -923,12 +923,12 @@ This statement of Alfarabi brought much reproof on him, and
 <span id="page_36">p. 36</span>
 
 for it Immanuel Ben Solomon, in his *Final Judgment*, consigns him to
-the infernal regions. <span id="fr_86"></span>[87](#fn_86)
+the infernal regions. <span id="fr_86"></span>[87](#fn_86.md)
 
 However, in contrast with these passages, we find one in favor of
 immortality. "After death," he says, "the human soul will be happy or
 unhappy according to its merits or demerits." <span
-id="fr_87"></span>[88](#fn_87) In the face of these statements for and
+id="fr_87"></span>[88](#fn_87.md) In the face of these statements for and
 against the immortality of the soul, it is difficult indeed to tell
 whether or not Alfarabi believed in it. Most probably he did not.
 
@@ -936,44 +936,44 @@ whether or not Alfarabi believed in it. Most probably he did not.
 
 ### Footnotes
 
-<span id="fn_22"></span>[9:23](palf07.htm#fr_22) Alfarabi, *The Scope of
+<span id="fn_22"></span>[9:23](palf07.htm#fr_22.md) Alfarabi, *The Scope of
 Aristotle In The Book of Metaphysics*, in Collection, op. cit. pp.
 40-44.
 
-<span id="fn_23"></span>[10:24](palf07.htm#fr_23) Alfarabi, *A Letter in
+<span id="fn_23"></span>[10:24](palf07.htm#fr_23.md) Alfarabi, *A Letter in
 Reply to Certain Questions*, in Collection, op. cit. n. 14, pp. 95-96.
 
-<span id="fn_24"></span>[11:25](palf07.htm#fr_24) Id. op. cit. N. 10, p.
+<span id="fn_24"></span>[11:25](palf07.htm#fr_24.md) Id. op. cit. N. 10, p.
 94.
 
-<span id="fn_25"></span>[12:26](palf07.htm#fr_25) Alfarabi, *The Sources
+<span id="fn_25"></span>[12:26](palf07.htm#fr_25.md) Alfarabi, *The Sources
 of Questions*, in Collection, op. cit., n. 1-2, p. 65.
 
-<span id="fn_26"></span>[12:27](palf07.htm#fr_26) St. Thomas, Quest.
+<span id="fn_26"></span>[12:27](palf07.htm#fr_26.md) St. Thomas, Quest.
 disp., *De Veritate*, Q. I, a. 1.
 
-<span id="fn_27"></span>[12:28](palf07.htm#fr_27) St. Thomas, Opusculum
+<span id="fn_27"></span>[12:28](palf07.htm#fr_27.md) St. Thomas, Opusculum
 XXXIX, *De Natura Generis*, cap. II.
 
-<span id="fn_28"></span>[13:29](palf07.htm#fr_28) Alfarabi, *The Scope
+<span id="fn_28"></span>[13:29](palf07.htm#fr_28.md) Alfarabi, *The Scope
 of Aristotle in the Book of Metaphysics*, in Collection, op. cit. p. 42.
 
-<span id="fn_29"></span>[13:30](palf07.htm#fr_29) Alfarabi, *The Sources
+<span id="fn_29"></span>[13:30](palf07.htm#fr_29.md) Alfarabi, *The Sources
 of Questions*, in Collection, op. cit. n. 3 p. 66.
 
-<span id="fn_30"></span>[13:31](palf07.htm#fr_30) Alfarabi, *The Gems of
+<span id="fn_30"></span>[13:31](palf07.htm#fr_30.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit. p. 174.
 
-<span id="fn_31"></span>[14:32](palf07.htm#fr_31) Alfarabi, *A Letter in
+<span id="fn_31"></span>[14:32](palf07.htm#fr_31.md) Alfarabi, *A Letter in
 Reply to Certain Questions*, in Collection, op. cit. n. 22, p. 101.
 
-<span id="fn_32"></span>[14:33](palf07.htm#fr_32) Alfarabi, *The Gems of
+<span id="fn_32"></span>[14:33](palf07.htm#fr_32.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit. pp. 115-125.
 
-<span id="fn_33"></span>[14:34](palf07.htm#fr_33) Alfarabi, *The Gems of
+<span id="fn_33"></span>[14:34](palf07.htm#fr_33.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit. pp. 115-125.
 
-<span id="fn_34"></span>[15:35](palf07.htm#fr_34) "But every essence or
+<span id="fn_34"></span>[15:35](palf07.htm#fr_34.md) "But every essence or
 quiddity can be understood without anything being known of its
 existence; for, I can understand what a man is, and yet not know whether
 it has existence in the natural order. Therefore, it is clear that
@@ -983,171 +983,171 @@ this thing must needs be one and the first." St. Thomas *De Ente et
 Essentia*, c. 4, tr. from the Latin by Clare C. Riedl, Chapter IV, p.
 34.
 
-<span id="fn_35"></span>[15:36](palf07.htm#fr_35) Alfarabi, *Political
+<span id="fn_35"></span>[15:36](palf07.htm#fr_35.md) Alfarabi, *Political
 Regime*, 1 Arabic ed. p. 26.
 
-<span id="fn_36"></span>[16:37](palf07.htm#fr_36) Alfarabi, *The Gems of
+<span id="fn_36"></span>[16:37](palf07.htm#fr_36.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit. p. 164.
 
-<span id="fn_37"></span>[16:38](palf07.htm#fr_37) Alfarabi, *The Gems of
+<span id="fn_37"></span>[16:38](palf07.htm#fr_37.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit. pp. 164-165.
 
-<span id="fn_38"></span>[18:39](palf07.htm#fr_38) Alfarabi, *Political
+<span id="fn_38"></span>[18:39](palf07.htm#fr_38.md) Alfarabi, *Political
 Regime*, 1st Arabic ed. Cairo, Nile Press, pp. 12-13.
 
-<span id="fn_39"></span>[19:40](palf07.htm#fr_39) Alfarabi, *The Gems of
+<span id="fn_39"></span>[19:40](palf07.htm#fr_39.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit. p. 173.
 
-<span id="fn_40"></span>[19:41](palf07.htm#fr_40) Alfarabi, *The Gems of
+<span id="fn_40"></span>[19:41](palf07.htm#fr_40.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit. pp. 115-125.
 
-<span id="fn_41"></span>[19:42](palf07.htm#fr_41) Alfarabi, *What Must
+<span id="fn_41"></span>[19:42](palf07.htm#fr_41.md) Alfarabi, *What Must
 Precede the Study of Philosophy*, in Collection, op. cit. n. 4, p. 62.
 
-<span id="fn_42"></span>[20:43](palf07.htm#fr_42) Alfarabi, *The Sources
+<span id="fn_42"></span>[20:43](palf07.htm#fr_42.md) Alfarabi, *The Sources
 of Questions*, in Collection, op. cit. n. 13, pp. 70-71.
 
-<span id="fn_43"></span>[20:44](palf07.htm#fr_43) St. Thomas, *Summa
+<span id="fn_43"></span>[20:44](palf07.htm#fr_43.md) St. Thomas, *Summa
 Theologica*, part I, Q. 2, Art. 3.
 
-<span id="fn_44"></span>[20:45](palf07.htm#fr_44) Alfarabi, *The Gems of
+<span id="fn_44"></span>[20:45](palf07.htm#fr_44.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit. pp. 115-125.
 
-<span id="fn_45"></span>[20:46](palf07.htm#fr_45) St. Thomas, Ibid. op.
+<span id="fn_45"></span>[20:46](palf07.htm#fr_45.md) St. Thomas, Ibid. op.
 cit.
 
-<span id="fn_46"></span>[20:47](palf07.htm#fr_46) Alfarabi, *The Sources
+<span id="fn_46"></span>[20:47](palf07.htm#fr_46.md) Alfarabi, *The Sources
 of Questions*, in Collection, op. cit. n. 2, p. 65.
 
-<span id="fn_47"></span>[21:48](palf07.htm#fr_47) Alfarabi, *The Sources
+<span id="fn_47"></span>[21:48](palf07.htm#fr_47.md) Alfarabi, *The Sources
 of Questions*, in Collection, op. cit. n. 3, p. 66.
 
-<span id="fn_48"></span>[21:49](palf07.htm#fr_48) St. Thomas, Ibid. op.
+<span id="fn_48"></span>[21:49](palf07.htm#fr_48.md) St. Thomas, Ibid. op.
 cit.
 
-<span id="fn_49"></span>[23:50](palf07.htm#fr_49) Alfarabi, *The
+<span id="fn_49"></span>[23:50](palf07.htm#fr_49.md) Alfarabi, *The
 Knowledge of God*, in Traites inedits d’anciens philosophes arabes.
 Published by Malouf, Edde and Cheiko, 2nd Arabic ed., Beirut, 1911, pp.
 21-22.
 
-<span id="fn_50"></span>[23:51](palf07.htm#fr_50) St. Thomas, *Summa
+<span id="fn_50"></span>[23:51](palf07.htm#fr_50.md) St. Thomas, *Summa
 Contra Gentiles*, first bk. Tr. by the English Dominican Fathers, chap.
 XIV, p. 33.
 
-<span id="fn_51"></span>[23:52](palf07.htm#fr_51) 5t. Thomas, *I Sent*.,
+<span id="fn_51"></span>[23:52](palf07.htm#fr_51.md) 5t. Thomas, *I Sent*.,
 III, quest. 1, a. 3.
 
-<span id="fn_52"></span>[24:53](palf07.htm#fr_52) Alfarabi, *Political
+<span id="fn_52"></span>[24:53](palf07.htm#fr_52.md) Alfarabi, *Political
 Regime*. Second Arabic ed. Cairo, Nile Press, p. 2.
 
-<span id="fn_53"></span>[24:54](palf07.htm#fr_53) St. Thomas, *Summa
+<span id="fn_53"></span>[24:54](palf07.htm#fr_53.md) St. Thomas, *Summa
 Contra Gentiles*. First Bk., op. cit. Chap. XVIII, p. 39.
 
-<span id="fn_54"></span>[24:55](palf07.htm#fr_54) Alfarabi, *The Gems of
+<span id="fn_54"></span>[24:55](palf07.htm#fr_54.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit. pp. 115-125.
 
-<span id="fn_55"></span>[24:56](palf07.htm#fr_55) St. Thomas, *Summa
+<span id="fn_55"></span>[24:56](palf07.htm#fr_55.md) St. Thomas, *Summa
 Contra Gentiles*, First Bk., Ch. XXII, p. 55.
 
-<span id="fn_56"></span>[25:57](palf07.htm#fr_56) Alfarabi, *The Gems of
+<span id="fn_56"></span>[25:57](palf07.htm#fr_56.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit. p. 132.
 
-<span id="fn_57"></span>[25:58](palf07.htm#fr_57) St. Thomas, *Summa
+<span id="fn_57"></span>[25:58](palf07.htm#fr_57.md) St. Thomas, *Summa
 Contra Gentiles*. First Bk., Ch. XXV, p. 61.
 
-<span id="fn_58"></span>[25:59](palf07.htm#fr_58) Alfarabi, *Political
+<span id="fn_58"></span>[25:59](palf07.htm#fr_58.md) Alfarabi, *Political
 Regime*. Second Arabic ed. Nile Press, p. 7.
 
-<span id="fn_59"></span>[25:60](palf07.htm#fr_59) St. Thomas, *Summa
+<span id="fn_59"></span>[25:60](palf07.htm#fr_59.md) St. Thomas, *Summa
 Contra Gentiles*. First Bk., Ch. XLIII, p. 96.
 
-<span id="fn_60"></span>[25:61](palf07.htm#fr_60) Alfarabi, *Political
+<span id="fn_60"></span>[25:61](palf07.htm#fr_60.md) Alfarabi, *Political
 Regime*, op. cit. p. 7.
 
-<span id="fn_61"></span>[25:62](palf07.htm#fr_61) St. Thomas, *Summa
+<span id="fn_61"></span>[25:62](palf07.htm#fr_61.md) St. Thomas, *Summa
 Theologica*. Part I, Q. 9, Art. 1 ad 1, pp. 91-92.
 
-<span id="fn_62"></span>[26:63](palf07.htm#fr_63) Alfarabi, *Political
+<span id="fn_62"></span>[26:63](palf07.htm#fr_63.md) Alfarabi, *Political
 Regime*, op. cit. pp. 3-5.
 
-<span id="fn_63"></span>[26:64](palf07.htm#fr_62) St. Thomas, *Summa
+<span id="fn_63"></span>[26:64](palf07.htm#fr_62.md) St. Thomas, *Summa
 Contra Gentiles*. First Bk., Ch. XLII, p. 90.
 
-<span id="fn_64"></span>[26:65](palf07.htm#fr_64) St. Thomas, *Summa
+<span id="fn_64"></span>[26:65](palf07.htm#fr_64.md) St. Thomas, *Summa
 Theologica*. Part I, Q. 11, Art. 3, pp. 116-117.
 
-<span id="fn_65"></span>[26:66](palf07.htm#fr_65) St. Thomas, *Summa
+<span id="fn_65"></span>[26:66](palf07.htm#fr_65.md) St. Thomas, *Summa
 Theologica*. Part I, Q. 4, Art. 2, p. 48.
 
-<span id="fn_66"></span>[26:67](palf07.htm#fr_66) Alfarabi, Id. op. cit.
+<span id="fn_66"></span>[26:67](palf07.htm#fr_66.md) Alfarabi, Id. op. cit.
 pp. 7-8.
 
-<span id="fn_67"></span>[26:68](palf07.htm#fr_67) St. Thomas, *Summa
+<span id="fn_67"></span>[26:68](palf07.htm#fr_67.md) St. Thomas, *Summa
 Theologica*. Part I, Q. 11, Art. 4, p. 118.
 
-<span id="fn_68"></span>[27:69](palf07.htm#fr_68) Alfarabi, Id., op.
+<span id="fn_68"></span>[27:69](palf07.htm#fr_68.md) Alfarabi, Id., op.
 cit. p. 8.
 
-<span id="fn_69"></span>[27:70](palf07.htm#fr_69) St. Thomas, *Summa
+<span id="fn_69"></span>[27:70](palf07.htm#fr_69.md) St. Thomas, *Summa
 Contra Gentiles*. First Bk., Ch. XLIV, p. 100.
 
-<span id="fn_70"></span>[27:71](palf07.htm#fr_70) Alfarabi, *Political
+<span id="fn_70"></span>[27:71](palf07.htm#fr_70.md) Alfarabi, *Political
 Regime*, p. 8-9.
 
-<span id="fn_71"></span>[27:72](palf07.htm#fr_71) St. Thomas, *Summa
+<span id="fn_71"></span>[27:72](palf07.htm#fr_71.md) St. Thomas, *Summa
 Contra Gentiles*. First Bk., Ch. XLVII, p. 105.
 
-<span id="fn_72"></span>[28:73](palf07.htm#fr_72) Alfarabi, *The Gems of
+<span id="fn_72"></span>[28:73](palf07.htm#fr_72.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit., p. 170.
 
-<span id="fn_73"></span>[28:74](palf07.htm#fr_73) St. Thomas, *Summa
+<span id="fn_73"></span>[28:74](palf07.htm#fr_73.md) St. Thomas, *Summa
 Theologica*. Part I, Q. 14, Art. 5, p. 190.
 
-<span id="fn_74"></span>[28:75](palf07.htm#fr_74) Alfarabi, *Political
+<span id="fn_74"></span>[28:75](palf07.htm#fr_74.md) Alfarabi, *Political
 Regime*, op. cit., pp. 10-11.
 
-<span id="fn_75"></span>[28:76](palf07.htm#fr_75) St. Thomas, *Summa
+<span id="fn_75"></span>[28:76](palf07.htm#fr_75.md) St. Thomas, *Summa
 Contra Gentiles*. First Bk., Ch. LXII, pp. 131-132.
 
-<span id="fn_76"></span>[28:77](palf07.htm#fr_76) Alfarabi, *Political
+<span id="fn_76"></span>[28:77](palf07.htm#fr_76.md) Alfarabi, *Political
 Regime*, op. cit., p. 11.
 
-<span id="fn_77"></span>[28:78](palf07.htm#fr_77) St. Thomas, *Summa
+<span id="fn_77"></span>[28:78](palf07.htm#fr_77.md) St. Thomas, *Summa
 Theologica*. Part I, Q. 18, Art. 3, p. 255.
 
-<span id="fn_78"></span>[31:79](palf07.htm#fr_78) Alfarabi, *The Sources
+<span id="fn_78"></span>[31:79](palf07.htm#fr_78.md) Alfarabi, *The Sources
 of Questions*, in Collection, op. cit. n. 6, pp. 67-75.
 
-<span id="fn_79"></span>[32:80](palf07.htm#fr_79) Alfarabi, *The Sources
+<span id="fn_79"></span>[32:80](palf07.htm#fr_79.md) Alfarabi, *The Sources
 of Questions*, in Collection, op. cit. n. 6, pp. 67-68.
 
 See also: Alfarabi, *A Letter in Reply to Certain Questions*, in
 Collection, op. cit. n. p. 93.
 
-<span id="fn_80"></span>[32:81](palf07.htm#fr_80) Alfarabi, *The Sources
+<span id="fn_80"></span>[32:81](palf07.htm#fr_80.md) Alfarabi, *The Sources
 of Questions in Collection*, op. cit., n. 22, p. 75.
 
-<span id="fn_81"></span>[34:82](palf07.htm#fr_81) Alfarabi, *A Letter in
+<span id="fn_81"></span>[34:82](palf07.htm#fr_81.md) Alfarabi, *A Letter in
 Reply to Certain Questions*, in Collection, op. cit., n. 33, p. 108.
 
-<span id="fn_82"></span>[34:83](palf07.htm#fr_82) Alfarabi, *The Gems of
+<span id="fn_82"></span>[34:83](palf07.htm#fr_82.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit., p. 145.
 
-<span id="fn_83"></span>[35:84](palf07.htm#fr_83) Alfarabi, *The Gems of
+<span id="fn_83"></span>[35:84](palf07.htm#fr_83.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit., p. 145.
 
-<span id="fn_84"></span>[35:85](palf07.htm#fr_84) Alfarabi, *The Sources
+<span id="fn_84"></span>[35:85](palf07.htm#fr_84.md) Alfarabi, *The Sources
 of Questions*, in Collection, op. cit., n. 22, p. 75.
 
-<span id="fn_85"></span>[35:86](palf07.htm#fr_85) Alfarabi, *The Sources
+<span id="fn_85"></span>[35:86](palf07.htm#fr_85.md) Alfarabi, *The Sources
 of Questions*, in Collection, op. cit. n. 21, pp. 74-75.
 
-<span id="fn_86"></span>[36:87](palf07.htm#fr_86) Cf. *Mahberot* by
+<span id="fn_86"></span>[36:87](palf07.htm#fr_86.md) Cf. *Mahberot* by
 Immanuel. Ch. XXVIII, Berlin. P. 251.
 
-<span id="fn_87"></span>[36:88](palf07.htm#fr_87) Alfarabi, *The Sources
+<span id="fn_87"></span>[36:88](palf07.htm#fr_87.md) Alfarabi, *The Sources
 of Questions*, in Collection, op. cit., n. 22, p. 75.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Psychology](palf08)
+[Next: Chapter III. Psychology](palf08.md)

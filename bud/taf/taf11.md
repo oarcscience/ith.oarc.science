@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf10)  [Next](taf12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf10)  [Next](taf12.md) 
 
 ------------------------------------------------------------------------
 
 ### AS AN ARTIST.
 
 We cannot conclude the accounts concerning Açvaghosha without mentioning
-an anecdote from a Chinese source. <span id="fr_52"></span>[2](#fn_52)
+an anecdote from a Chinese source. <span id="fr_52"></span>[2](#fn_52.md)
 The *Çraddhotpâdaçâstra* (*The Awakening* 
 
 <span id="page_35">p. 35</span>
@@ -16,7 +16,7 @@ The *Çraddhotpâdaçâstra* (*The Awakening* 
 *Buddhacaritakâvya* (*The life of Buddha*) and the *Mahâlamkâraçâstra*
 (*The Book of Great Glory*) reveal his poetical genius; and the
 following story indicates that he was a musician: <span
-id="fr_53"></span>[1](#fn_53)
+id="fr_53"></span>[1](#fn_53.md)
 
 He \[Açvaghosha\] then went to Pâtaliputra for his propaganda-tour,
 where he composed an excellent tune called Lai cha huo lo (<span
@@ -58,10 +58,10 @@ the people never to play this music hereafter.
 
 ### Footnotes
 
-<span id="fn_52"></span>[34:2](taf11.htm#fr_52) The Transmission of the
+<span id="fn_52"></span>[34:2](taf11.htm#fr_52.md) The Transmission of the
 *Dharmapitaka* (*Fu fa tsang chuan*, *fas*. 5).
 
-<span id="fn_53"></span>[35:1](taf11.htm#fr_53) The fact agrees well
+<span id="fn_53"></span>[35:1](taf11.htm#fr_53.md) The fact agrees well
 with Târanâtha's statement which in its German translation reads as
 follows: "Die von ihm verfassten Loblieder sind auch in allen Ländern
 verbreitet; da zuletzt Sänger und Possenreisser dieselben vortrugen und
@@ -71,4 +71,4 @@ erwuchs durch die Loblieder grösserer Nutzen zur Verbreitung der Lehre.
 
 ------------------------------------------------------------------------
 
-[Next: Works in Chinese Translations](taf12)
+[Next: Works in Chinese Translations](taf12.md)

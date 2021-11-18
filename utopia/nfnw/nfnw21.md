@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw20)  [Next](nfnw22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw20)  [Next](nfnw22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ had grown old and wiser, and I was to see my hope realised at last!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII: Hampton Court And A Praiser Of Past Times](nfnw22)
+[Next: Chapter XXII: Hampton Court And A Praiser Of Past Times](nfnw22.md)

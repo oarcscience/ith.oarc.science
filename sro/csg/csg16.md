@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg15)  [Next](csg17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg15)  [Next](csg17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -147,7 +147,7 @@ journey to Holland is merely some financial business. The gazettes and
 the people say that the King of Prussia reckoned on attacking the
 Austrians on the 25th inst. and the persons in office assert that this
 monarch will open the campaign with 150,000 men <span
-id="img_23300"></span> ![m over 150 ?](img/23300.jpg)
+id="img_23300"></span> ![m over 150 ?](img/23300.jpg.md)
 
 It is certain that the Allies will muster in formidable strength this
 year in the campaign.
@@ -407,4 +407,4 @@ French ministry.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](csg17)
+[Next: Bibliography](csg17.md)

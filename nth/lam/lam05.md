@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam04)  [Next](lam06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam04)  [Next](lam06.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ misfortune,
 <span id="page_31">p. 31</span>
 
 unhappiness and numerous other undesirable conditions as things that
-just [accidentally](errata.htm#0) happen, whereas they are created by
+just [accidentally](errata.htm#0.md) happen, whereas they are created by
 the individual's wrong habits of thinking.
 
 Similarly, liberation from these conditions is achieved through *right*
@@ -205,4 +205,4 @@ not beggars, but heirs to the Kingdom*.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Telepathy](lam06)
+[Next: IV. Telepathy](lam06.md)

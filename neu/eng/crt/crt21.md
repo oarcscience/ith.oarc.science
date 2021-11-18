@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt20)  [Next](crt22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt20)  [Next](crt22.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_16000"></span>
 
 [![Sir Tristram sits with Sir Launcelot](tn/16000.jpg)  
-Click to enlarge](img/16000.jpg)  
+Click to enlarge](img/16000.jpg.md)  
 Sir Tristram sits with Sir Launcelot  
 
 <span id="page_161">p. 161</span>
@@ -455,4 +455,4 @@ how it fared with Sir Tristram.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seventh](crt22)
+[Next: Chapter Seventh](crt22.md)

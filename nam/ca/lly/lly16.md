@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly15)  [Next](lly17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly15)  [Next](lly17.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ Merced River a glimmering, silvery ribbon winding across a bed of green.
 
 ------------------------------------------------------------------------
 
-[Next: Half Dome](lly17)
+[Next: Half Dome](lly17.md)

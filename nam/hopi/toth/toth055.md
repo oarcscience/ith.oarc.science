@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth054)  [Next](toth056) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth054)  [Next](toth056.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 52. THE KALÁTÖTÖ <span id="fr_119"></span>[1](#fn_117) WHO WISHED TO HAVE HAIR ON HIS HEAD. <span id="fr_120"></span>[2](#fn_118)
+## 52. THE KALÁTÖTÖ <span id="fr_119"></span>[1](#fn_117) WHO WISHED TO HAVE HAIR ON HIS HEAD. <span id="fr_120"></span>[2](#fn_118.md)
 
 Halíksai! At Kutúkwûhschomo (so called after a certain kind of grass,
 Kutúkwûhci, that grew on that hill), used to live a Kalátötö. In' the
@@ -82,15 +82,15 @@ and no one brought him anything to eat, he perished there.
 
 ### Footnotes
 
-<span id="fn_117"></span>[172:1](toth055.htm#fr_119) Not fully
+<span id="fn_117"></span>[172:1](toth055.htm#fr_119.md) Not fully
 identified. The Hopi say it looks somewhat like a locust but has short
 wings and is of a light brown color with darker stripes across its back.
 It is larger than a cricket, to which also it bears a resemblance in
 certain respects.
 
-<span id="fn_118"></span>[172:2](toth055.htm#fr_120) Told by Kwáyeshva
+<span id="fn_118"></span>[172:2](toth055.htm#fr_120.md) Told by Kwáyeshva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 53. The Child Who Turned Into An Owl](toth056)
+[Next: 53. The Child Who Turned Into An Owl](toth056.md)

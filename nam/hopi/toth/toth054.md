@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth053)  [Next](toth055) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth053)  [Next](toth055.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 51. MÚYINGWA, TWO CHILDREN, AND THE HUMMING-BIRD <span id="fr_116"></span>[1](#fn_114)
+## 51. MÚYINGWA, TWO CHILDREN, AND THE HUMMING-BIRD <span id="fr_116"></span>[1](#fn_114.md)
 
 A long time ago the Oraíbi had nothing to eat as it did not rain for
 about four or five years. The first year the corn became large enough so
@@ -64,7 +64,7 @@ She took the little bird by the wings and said: "This is the way I did
 it," throwing it upward, whereupon the bird was alive again and flew
 away. Sitting upon a rock south of the village the little bird looked
 southward and all at once detected at Tü'wanashabe, <span
-id="fr_117"></span>[1](#fn_115) a cactus plant with a single red
+id="fr_117"></span>[1](#fn_115.md) a cactus plant with a single red
 blossom. The bird at once flew towards this plant and removing it found
 an opening under it. Entering this opening it found itself in a kiva
 where some grass and herbs were growing. At the north end of this kiva
@@ -73,7 +73,7 @@ itself in a second kiva. Here it found some corn with some pollen on it,
 and ate some of it. At the north end of this kiva there was also an
 opening leading into a third kiva. Entering this kiva the bird found
 grass, herbs, and corn of all kinds, and here also lived Mû'yingwa, the
-God of Growth and Germination. <span id="fr_118"></span>[2](#fn_116)
+God of Growth and Germination. <span id="fr_118"></span>[2](#fn_116.md)
 
 There were also all kinds of birds in this last kiva, but it was the
 Humming-birds that first noticed the little intruder and told Mû'yingwa
@@ -157,17 +157,17 @@ knows it is longer, but he has forgotten some of the details about it.)
 
 ### Footnotes
 
-<span id="fn_114"></span>[169:1](toth054.htm#fr_116) Told by Qöyáwaima
+<span id="fn_114"></span>[169:1](toth054.htm#fr_116.md) Told by Qöyáwaima
 (Oraíbi).
 
-<span id="fn_115"></span>[170:1](toth054.htm#fr_117) A place about three
+<span id="fn_115"></span>[170:1](toth054.htm#fr_117.md) A place about three
 miles south of Oraíbi.
 
-<span id="fn_116"></span>[170:2](toth054.htm#fr_118) Those who speak of
+<span id="fn_116"></span>[170:2](toth054.htm#fr_118.md) Those who speak of
 three kivas under the earth consider the kivas in the village as the
 first kiva, making only four. According to others, there are four kivas
 besides those in the village.
 
 ------------------------------------------------------------------------
 
-[Next: 52. The Kalátötö Who Wished To Have Hair On His Head](toth055)
+[Next: 52. The Kalátötö Who Wished To Have Hair On His Head](toth055.md)

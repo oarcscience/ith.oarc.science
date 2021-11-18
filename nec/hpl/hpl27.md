@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl26)  [Next](hpl28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl26)  [Next](hpl28.md) 
 
 ------------------------------------------------------------------------
 
@@ -1078,4 +1078,4 @@ my sleep.
 
 ------------------------------------------------------------------------
 
-[Next: The Horror at Red Hook (Weird Tales, 1927)](hpl28)
+[Next: The Horror at Red Hook (Weird Tales, 1927)](hpl28.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb13)  [Next](crfb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb13)  [Next](crfb15.md) 
 
 </div>
 
@@ -256,6 +256,6 @@ all the days of his life.
 
 ------------------------------------------------------------------------
 
-[Next: The Strong Prince](crfb15)
+[Next: The Strong Prince](crfb15.md)
 
 </div>

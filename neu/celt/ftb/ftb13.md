@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb12)  [Next](ftb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb12)  [Next](ftb14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -24,19 +24,19 @@ Textual Heritage
 
 <span id="img_12400"></span> <span align="CENTER"> [![The dame peered at
 Téphany](tn/12400.jpg)  
-Click to enlarge](img/12400.jpg)  
+Click to enlarge](img/12400.jpg.md)  
 The dame peered at Téphany  
 </span>
 
 <span id="page_125">p. 125</span>
 
-<span id="img_12500"></span> ![The Four Gifts](img/12500.jpg)
+<span id="img_12500"></span> ![The Four Gifts](img/12500.jpg.md)
 
 <span id="img_12501"></span>
 
 |                     |
 |---------------------|
-| ![I](img/12501.jpg) |
+| ![I](img/12501.jpg.md) |
 
 F I had three hundred crowns a year, I should go and live at Quimper,
 where is the finest church in all Cornouailles and where all the houses
@@ -450,4 +450,4 @@ the devoted husband that her heart had longed to have.
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Rocks and the Beggar](ftb14)
+[Next: The Magic Rocks and the Beggar](ftb14.md)

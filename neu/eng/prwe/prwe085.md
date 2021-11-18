@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe084)  [Next](prwe086) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe084)  [Next](prwe086.md) 
 
 ------------------------------------------------------------------------
 
@@ -232,4 +232,4 @@ Cudden Rock, a wood."
 
 ------------------------------------------------------------------------
 
-[Next: Cudden Point and the Silver Table](prwe086)
+[Next: Cudden Point and the Silver Table](prwe086.md)

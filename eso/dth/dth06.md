@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth05) 
-[Next](dth07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth05.md) 
+[Next](dth07.md) 
 
 ------------------------------------------------------------------------
 
@@ -495,4 +495,4 @@ use of this faculty, the clearer and more certain will be the results.
 
 ------------------------------------------------------------------------
 
-[Next: Part VI](dth07)
+[Next: Part VI](dth07.md)

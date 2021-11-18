@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar032) [Next](gbar034)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar032) [Next](gbar034.md)
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ of God upon the idolaters!'
 
 ------------------------------------------------------------------------
 
-[Next](gbar034)
+[Next](gbar034.md)

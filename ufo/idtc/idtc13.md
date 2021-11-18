@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](idtc12)  [Next](idtc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](idtc12)  [Next](idtc14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Days To Come*, by Ashtar (Ethel P. Hill), \[1957\], at Intangible
 Textual Heritage
 
@@ -18,11 +18,11 @@ A definite change has come over the minds and hearts of many people in
 this and, to a lesser extent, other countries. Where, heretofore they
 viewed the appearance of ourselves in our Space Ships in the light of a
 curious phenomenon to be regarded with suspicion or shrugged off as
-[irrelevant](errata.htm#13) to current affairs, they are now seriously
+[irrelevant](errata.htm#13.md) to current affairs, they are now seriously
 weighing our possible involvement in any coming conflict.
 
 I am taking this means to advise you that most assuredly we shall
-[intervene](errata.htm#14) to protect this or any country on the planet
+[intervene](errata.htm#14.md) to protect this or any country on the planet
 Shan which places its trust in God Almighty and His Son who is His
 personal representative on this globe.
 
@@ -101,4 +101,4 @@ My Love!           
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](idtc14)
+[Next: Chapter XII](idtc14.md)

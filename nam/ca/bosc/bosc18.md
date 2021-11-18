@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc17)  [Next](bosc19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc17)  [Next](bosc19.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ with signs, which alluded to certain passages in the fable.
 
 ------------------------------------------------------------------------
 
-[Next: Characteristic Anecdotes](bosc19)
+[Next: Characteristic Anecdotes](bosc19.md)

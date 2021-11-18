@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht11)  [Next](cht13) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht11)  [Next](cht13.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ ate, together with her children.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Câ'xaL](cht13)
+[Next: 10. Câ'xaL](cht13.md)

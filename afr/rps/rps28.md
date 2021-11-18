@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps27)  [Next](rps29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps27)  [Next](rps29.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ and I am His Majesty King Alpha the King of Kings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 27. World's Building](rps29)
+[Next: Chapter 27. World's Building](rps29.md)

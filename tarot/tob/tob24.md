@@ -1,18 +1,18 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob23) 
-[Next](tob25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob23.md) 
+[Next](tob25.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_wiar10"></span>
 
-![THE WHEEL OF FORTUNE.](img/wiar10.jpg)  
+![THE WHEEL OF FORTUNE.](img/wiar10.jpg.md)  
 THE WHEEL OF FORTUNE.
 
    <span id="img_msar10"></span>
 
-![THE WHEEL OF FORTUNE.](img/msar10.jpg)  
+![THE WHEEL OF FORTUNE.](img/msar10.jpg.md)  
 THE WHEEL OF FORTUNE.
 
 10\. י
@@ -25,7 +25,7 @@ The hieroglyphic meaning of the Yod is the finger of man; the forefinger
 extended as a sign of command. This letter has therefore become the
 image of potential manifestation, of spiritual duration; lastly of the
 eternity of time, with all the ideas relating to it. <span
-id="fr_61"></span>[1](#fn_61)
+id="fr_61"></span>[1](#fn_61.md)
 
 <span id="page_146">p. 146</span>
 
@@ -148,9 +148,9 @@ displayed in the following arcanum.
 
 ### Footnotes
 
-<span id="fn_61"></span>[145:1](tob24.htm#fr_61) See the study of the
+<span id="fn_61"></span>[145:1](tob24.htm#fr_61.md) See the study of the
 word *Yod-he-vau-he*.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Strength](tob25)
+[Next: 11. Strength](tob25.md)

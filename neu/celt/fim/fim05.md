@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim04)  [Next](fim06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim04)  [Next](fim06.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE following legends are of entirely different character and origin from
 the early myths. Those relating to the "Conversion of St. Maughold,"
@@ -37,7 +37,7 @@ introduction to the legends.
 The *Tripartite Life of St. Patrick* contains the following interesting
 account of the conversion of Manxmen to Christianity:--St. Patrick
 having by means of a miracle converted a wicked man of
-[Ulster](errata.htm#3), called Macc Cuill, and his men, the following
+[Ulster](errata.htm#3.md), called Macc Cuill, and his men, the following
 incident is related:--"Then they were silent, and said, 'Truly this man
 Patrick is a man of God.' They all forthwith believed, and Macc Cuill
 believed, and at Patrick's behest he went into the sea in a coracle of
@@ -54,7 +54,7 @@ Macc Cuill in his coracle, they took him from the sea, and received him
 with a welcome; and he learnt the divine rule with them, until he took
 the bishopric after them. This is Macc Cuill from the sea," the
 illustrious bishop and prelate of Arduimen. <span
-id="fr_35"></span>[1](#fn_34) It has been conjectured with reasonable
+id="fr_35"></span>[1](#fn_34.md) It has been conjectured with reasonable
 probability, for reasons that need not be given here, that Macc Cuill is
 identical with Maughold. In this story of the conversion of the Manx
 there is probably a substratum of fact mingled with fiction. The
@@ -113,7 +113,7 @@ Now we will pass by these holy men,
 And commit their souls to the Son of God.  
 It profiteth them not to praise them more  
 Until they appear before the King of Kings. <span
-id="fr_36"></span>[1](#fn_35)
+id="fr_36"></span>[1](#fn_35.md)
 
 The St. Maughold referred to above is said to have been one of St.
 Patrick's earliest disciples. The "Book of Armagh" gives the marvellous
@@ -183,7 +183,7 @@ with which St. Patrick had secured his chain. It was at once applied to
 its proper use, and he had the happiness of being ordained next day,
 unencumbered by spiritual or material bonds. At the death of his kind
 patron and instructor, he was raised to the dignity of the Bishop of
-Man. <span id="fr_37"></span>[1](#fn_36)
+Man. <span id="fr_37"></span>[1](#fn_36.md)
 
 <span id="page_23">p. 23</span>
 
@@ -196,7 +196,7 @@ into their dwelling, and when the fish was opened before them, a key was
 found in his belly, and Machaldus being released from his chains, gave
 thanks unto God, and went henceforth free; and he increased in holiness,
 and after the decease of these holy Bishops, <span
-id="fr_38"></span>[1](#fn_37) attained to the episcopal degree, and
+id="fr_38"></span>[1](#fn_37.md) attained to the episcopal degree, and
 being eminent in his miracles and in his virtues, there did he rest. In
 that Island there was a city called after him, of no small extent, the
 remains of whose walls may yet be seen, and in the cemetery of its
@@ -257,7 +257,7 @@ weaker sex, also, with dishevelled locks, ran frantic about the walls of
 the church, yelling and crying with a loud voice, "Where art thou
 departed, Holy Maughold? Where are the wonders that, in the old time
 before us, thou wroughtest in this spot--hast thou abandoned us for
-[our](errata.htm#5) transgressions--wilt thou forsake thy people in such
+[our](errata.htm#5.md) transgressions--wilt thou forsake thy people in such
 an extremity? If not in compassion towards us, yet for thine own honour,
 once more send us deliverance."
 
@@ -307,7 +307,7 @@ home.
 #### A LEGEND OF MYRESCOGH LAKE.
 
 There was a certain person called Donald, a veteran
-[Chieftain](errata.htm#6), and a particular favourite of Harald
+[Chieftain](errata.htm#6.md), and a particular favourite of Harald
 Olaveson. This man, flying the persecution raised by Harald Godredson,
 took sanctuary with his infant child in St. Mary's Monastery, at Rushen.
 Thither Harald Godredson followed, and as he could not offer violence in
@@ -346,7 +346,7 @@ the help of Heaven, got clear, and on the third day he reached St.
 Mary's Abbey at Rushen, where he put up thanksgivings to God and the
 most merciful Mother for the deliverance. This declaration, adds the
 chronicler, we have recorded from the man's own mouth. This took place
-in 1249. <span id="fr_39"></span>[1](#fn_38)
+in 1249. <span id="fr_39"></span>[1](#fn_38.md)
 
 #### THE STONE CROSS OF BALLAFLETCHER.
 
@@ -592,7 +592,7 @@ subterranean passage. venturing in, he proceeded for some distance.
 Onward he went, till a great door arrested his progress. After some
 difficulty it yielded to his endeavours, and he passed through. Suddenly
 a piercing shriek, which reverberated along the echoing vaults
-[fixed](errata.htm#7) him horror-struck for a moment to the place. It
+[fixed](errata.htm#7.md) him horror-struck for a moment to the place. It
 was repeated faintly several times. A faint glimmer of light now broke
 in upon his path, and he found himself in a vaulted chamber. Passing
 through it, another cry met his ear; and rushing impetuously forward, he
@@ -619,23 +619,23 @@ generous love, heightened by mutual admiration and gratitude.
 
 ### Footnotes
 
-<span id="fn_34"></span>[20:1](fim05.htm#fr_35) Stoke's Translation, p.
+<span id="fn_34"></span>[20:1](fim05.htm#fr_35.md) Stoke's Translation, p.
 223.
 
-<span id="fn_35"></span>[21:1](fim05.htm#fr_36) Manx Society, vol. xxi.,
+<span id="fn_35"></span>[21:1](fim05.htm#fr_36.md) Manx Society, vol. xxi.,
 pp. 29-33; or Train's History of Isle of Man, p. 52.
 
-<span id="fn_36"></span>[22:1](fim05.htm#fr_37) From
-[Kennedy's](errata.htm#4) *Legendary Fictions of the Irish Celts*,
+<span id="fn_36"></span>[22:1](fim05.htm#fr_37.md) From
+[Kennedy's](errata.htm#4.md) *Legendary Fictions of the Irish Celts*,
 London, 1866; original authority *The Book of Armagh*, probably written
 in the eighth century.
 
-<span id="fn_37"></span>[23:1](fim05.htm#fr_38) Conindrius and Romuilus,
+<span id="fn_37"></span>[23:1](fim05.htm#fr_38.md) Conindrius and Romuilus,
 supposed to have been the two first Bishops of the Island.
 
-<span id="fn_38"></span>[26:1](fim05.htm#fr_39) Founded on the account
+<span id="fn_38"></span>[26:1](fim05.htm#fr_39.md) Founded on the account
 given in the *Chronicon Manniæ*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Fairies and Familiar Spirits](fim06)
+[Next: Chapter III. Fairies and Familiar Spirits](fim06.md)

@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao50)   
-[Previous](tao49)  [Next](tao51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao50.md)   
+[Previous](tao49)  [Next](tao51.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ so? Because his spirit transcends mortality.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 51](tao51)
+[Next: Chapter 51](tao51.md)

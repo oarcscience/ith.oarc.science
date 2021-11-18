@@ -1,26 +1,26 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc19)  [Next](crc21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc19)  [Next](crc21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### The Death of the Princes <span id="fr_67"></span>[1](#fn_66)
+### The Death of the Princes <span id="fr_67"></span>[1](#fn_66.md)
 
 'Let a sword-truce be asked of Cuchulainn for us,' said Ailill and Medb.
 
@@ -41,12 +41,12 @@ They go next day, and Cuchulainn slew the six of them.
 
 ### Footnotes
 
-<span id="fn_66"></span>[67:1](crc20.htm#fr_67) Or 'royal mercenaries.'
+<span id="fn_66"></span>[67:1](crc20.htm#fr_67.md) Or 'royal mercenaries.'
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Cur](crc21)
+[Next: The Death of Cur](crc21.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw08)  [Next](tfgw10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw08)  [Next](tfgw10.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ Tom Daly and the Nut-Eating Ghost
 
 ------------------------------------------------------------------------
 
-[Next: Tom Connors and the Dead Girl](tfgw10)
+[Next: Tom Connors and the Dead Girl](tfgw10.md)

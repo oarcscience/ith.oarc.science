@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gpr08)  [Next](gpr10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gpr08)  [Next](gpr10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Greek Popular Religion*, by Martin P. Nilsson, \[1940\], at Intangible
 Textual Heritage
 
@@ -43,7 +43,7 @@ the city population, and the tyrants strove to promote the interests of
 the masses. But this was only an interlude. The tyrants were expelled
 before the early age reached its end, and democracy, or at least a
 mitigated aristocracy, was established. <span
-id="fr_102"></span>[1](#fn_102)
+id="fr_102"></span>[1](#fn_102.md)
 
 After this time the cities were the leaders in Greek culture, although
 many parts of Greece remained rural and backward. We have heard how the
@@ -62,7 +62,7 @@ Many of them were venerated by the rural population. We have met several
 of them already. But the cults of the countryside were not responsible
 for their greatness. For this they were indebted to the cults of the
 cities and to art and literature. According to Herodotus, <span
-id="fr_103"></span>[2](#fn_103) Homer and Hesiod created the Greek gods,
+id="fr_103"></span>[2](#fn_103.md) Homer and Hesiod created the Greek gods,
 and this statement is true to a certain degree. Homer impressed his
 representations of the gods indelibly on the Greek mind. I may add that
 the great temples of the gods adorned with works of art were, of course,
@@ -82,7 +82,7 @@ erected great buildings in order to give occupation to the people. Their
 wish to make a show of their power and glory was certainly another
 reason. The great temple at Corinth, of which seven heavy columns are
 still standing, belongs to the age of the tyrants. <span
-id="fr_104"></span>[3](#fn_104) At Athens, Pisistratus rebuilt the
+id="fr_104"></span>[3](#fn_104.md) At Athens, Pisistratus rebuilt the
 temple of Athena on a magnificent scale and began building a colossal
 temple of Zeus Olympios.
 
@@ -119,7 +119,7 @@ Religion was to a certain degree secularized. When Aristophanes mentions
 the festivals, he speaks only of the feasting and the markets connected
 with them, and in one passage he refers to certain ceremonies of the
 Dipolia as to something antediluvian. <span
-id="fr_105"></span>[4](#fn_105) The great gods became greater and more
+id="fr_105"></span>[4](#fn_105.md) The great gods became greater and more
 glorious, but religious feeling gave way to feelings of patriotism and
 to display in festivals and sacrifices. The state gods, the great gods,
 thus became more remote from human beings. We shall soon see examples of
@@ -141,7 +141,7 @@ to the great gods of the town. In a sanctuary of Poseidon at Corinth was
 found a great mass of painted clay tablets, some of which represent
 scenes connected with the potters' art--the making and firing of
 vessels, their exportation, and so forth. <span
-id="fr_106"></span>[5](#fn_106) The tablets are votive offerings
+id="fr_106"></span>[5](#fn_106.md) The tablets are votive offerings
 dedicated to Poseidon by potters.
 
 The potters feared lesser gods and daemons who might destroy their work.
@@ -173,12 +173,12 @@ Athena among the artisans at this time some verses of Sophocles are
 characteristic: "Come out in the street you, all the people of the
 handicraftsmen, who venerate the daughter of Zeus, Ergane, with
 sacrificial baskets and beside the heavy anvil, beaten with
-hammers." <span id="fr_107"></span>[6](#fn_107) Evidently Sophocles
+hammers." <span id="fr_107"></span>[6](#fn_107.md) Evidently Sophocles
 hints at some popular festival of Athena celebrated by the artisans in
 the streets of the town. There was such a festival, the Chalkeia. The
 word signifies the festival of the coppersmiths. It belonged to Athena,
 but at a later date another god of the Athenian artisans, Hephaistos,
-was associated with Athena. <span id="fr_108"></span>[7](#fn_108) These
+was associated with Athena. <span id="fr_108"></span>[7](#fn_108.md) These
 two even had a common temple. In Homer, Hephaistos is the divine
 goldsmith. He probably came from the island of Lemnos or, perhaps, from
 Asia Minor. In origin he was a daemon of fire coming up from the earth.
@@ -202,7 +202,7 @@ dedications to Athena, and of these
 <span id="page_90">p. 90</span>
 
 twenty-two belong to the fourth century B.C., one to the Hellenistic
-age, and ten to the Roman age. <span id="fr_109"></span>[8](#fn_109) The
+age, and ten to the Roman age. <span id="fr_109"></span>[8](#fn_109.md) The
 few inscriptions from the time after 403 B.C. reflect the decline of
 Athenian industry and Athenian importance, but the small number from the
 fourth century B.C. is also significant. It cannot be explained except
@@ -221,10 +221,10 @@ corner of Asia Minor, as early as the early archaic age. Propaganda was
 resorted to on behalf of her cult, as is apparent in the *Homeric Hymn
 to Demeter* and in a long passage inserted into Hesiod's *Theogony*, in
 which she is praised as omnipotent. <span
-id="fr_110"></span>[9](#fn_110) That Hecate originated in Caria is
+id="fr_110"></span>[9](#fn_110.md) That Hecate originated in Caria is
 proved by the fact that proper names compounded with her name are very
 frequent in this district and rare or absent elsewhere. <span
-id="fr_111"></span>[10](#fn_111) We do not know what kind of goddess
+id="fr_111"></span>[10](#fn_111.md) We do not know what kind of goddess
 Hecate was in Caria. In Greece the attempt to make a great goddess of
 her did not succeed. She was always the goddess of witchcraft and
 sorcery who walked at the crossroads on moonless nights, accompanied by
@@ -235,7 +235,7 @@ crossroads, and her image was triple because she had to look
 
 in three directions. She was often called Enodia (she of the roads).
 Some scholars think that Enodia was a native Greek goddess of
-witchcraft, <span id="fr_112"></span>[11](#fn_112) but their arguments
+witchcraft, <span id="fr_112"></span>[11](#fn_112.md) but their arguments
 are not very convincing. At all events Hecate was accepted by the Greeks
 because there was a place for a goddess of witchcraft and ghosts. Her
 popularity is accounted for by this fact, and it proves that base
@@ -255,22 +255,22 @@ lamia still lives on among the Greek people. The lamia is mentioned in
 the Middle Ages, and nowadays it is customary to frighten children with
 the name. If a child dies suddenly, it is said that the lamia strangled
 it. An ugly or insatiable woman is called a lamia. <span
-id="fr_113"></span>[12](#fn_113) Such ghosts seem to be immortal. The
+id="fr_113"></span>[12](#fn_113.md) Such ghosts seem to be immortal. The
 gods were not so.
 
 We return to the foreign gods who migrated into Greece. The Great Mother
 of Asia Minor came to Athens before the Persian Wars, and a temple, the
-Metroon, was built for her <span id="fr_114"></span>[13](#fn_114)
+Metroon, was built for her <span id="fr_114"></span>[13](#fn_114.md)
 
 <span id="page_92">p. 92</span>
 
 <span class="contnote">\[paragraph continues\]</span> ([Fig.
-35](gpr24.htm#img_fig35)). Pindar celebrates her and mentions her
+35](gpr24.htm#img_fig35).md). Pindar celebrates her and mentions her
 orgiastic cult with its cymbals, castanets, and torches. <span
-id="fr_115"></span>[14](#fn_115) He also celebrates Ammon, the god from
+id="fr_115"></span>[14](#fn_115.md) He also celebrates Ammon, the god from
 the Great Oasis who had ram's horns, knowledge of whom was probably
 transmitted by the Cyrenaeans, for from Cyrene there was a road to the
-Great Oasis. <span id="fr_116"></span>[15](#fn_116) His oracle was
+Great Oasis. <span id="fr_116"></span>[15](#fn_116.md) His oracle was
 frequented by the Greeks when their belief in their own oracles began to
 wane, and the Athenians brought him a sacrifice on behalf of the state
 in the fourth century B.C. These cults seem, however, not to have been
@@ -280,7 +280,7 @@ orgiastic character. In this case there was a return to native customs.
 Ammon seems hardly to have been popular in the strict sense of the word.
 
 Other foreign gods were popular. The Cabiri <span
-id="fr_117"></span>[16](#fn_117) are mentioned in the fifth century B.C.
+id="fr_117"></span>[16](#fn_117.md) are mentioned in the fifth century B.C.
 Aristophanes, in his comedy *The Peace*, makes Trygaios turn to the
 spectators and ask the help of those who had been initiated into the
 mysteries of the Cabiri on the island of Samothrace, for he sees a great
@@ -291,16 +291,16 @@ seafaring people, the Greeks were apparently not content with their own
 sea-gods.
 
 The Thracian goddess Bendis was introduced by Thracians living at
-Peiraeus ([Fig. 36](gpr24.htm#img_fig36)). She was so respected that the
+Peiraeus ([Fig. 36](gpr24.htm#img_fig36).md). She was so respected that the
 state approved a great festival for her, which is described
 
 <span id="page_93">p. 93</span>
 
-by Plato, <span id="fr_118"></span>[17](#fn_118) and paid large sums for
+by Plato, <span id="fr_118"></span>[17](#fn_118.md) and paid large sums for
 sacrifices to her. There is, however, nothing to indicate that she had
 any real religious importance. Another Thracian goddess, Kotyto, was
 perhaps a little more popular at Corinth and in Sicily. <span
-id="fr_119"></span>[18](#fn_119) One of the rites in her cult was
+id="fr_119"></span>[18](#fn_119.md) One of the rites in her cult was
 baptism, and her cult seems to have had an orgiastic character. The
 Phrygian god Sabazios, who was another form of Dionysus, is better known
 because of the graphic description of his cult in Demosthenes' speech
@@ -317,13 +317,13 @@ orgiastic cults.
 
 Very characteristic of the age is the sudden rise of the cult of
 Asclepius at the end of the fifth century B.C. ([Fig.
-38](gpr25.htm#img_fig38)). He was a healing hero, mentioned by Homer
+38](gpr25.htm#img_fig38).md). He was a healing hero, mentioned by Homer
 only as the father of the surgeons Machaon and Podaleirios. Apollo was
 the great god of healing for the Greeks, but in many places various
 heroes served as gods of healing, like the saints in Mohammedan
 countries today. Asclepius supplanted them all. His most famous
 sanctuary was at Epidaurus, but he had many derivative cults ([Fig.
-37](gpr25.htm#img_fig37)). There was one on the island of Aegina, one at
+37](gpr25.htm#img_fig37).md). There was one on the island of Aegina, one at
 Sicyon, one at Delphi, one at Pergamum, and no less than three in
 Attica--one at Peiraeus, one near
 
@@ -364,7 +364,7 @@ away.
 <span id="page_95">p. 95</span>
 
 But man needs divine help and comfort. <span
-id="fr_120"></span>[19](#fn_120) The great gods had become too exalted
+id="fr_120"></span>[19](#fn_120.md) The great gods had become too exalted
 to give help in the concerns of daily life. Even if men were
 materialistic they still needed aid and solace at least in sickness. In
 our own day we have seen people stream to certain places and churches to
@@ -406,7 +406,7 @@ allowed to take part in certain nocturnal festivals. The violating of a
 virgin on such an occasion is a common motif in the New Comedy.
 Aristophanes informs us that the women were proud of the sacred
 ceremonies in which they had taken part. <span
-id="fr_121"></span>[20](#fn_121)
+id="fr_121"></span>[20](#fn_121.md)
 
 Nevertheless, women had only a subordinate position. Men had fashioned
 the religion according to their own ideas and had left too little room
@@ -416,12 +416,12 @@ that when the women gathered in the sanctuaries of Bacchos, Pan,
 Genetyllis, or Kolias (Genetyllis and Kolias were special goddesses of
 women) it was hardly possible to get through because of the cymbals, and
 he gives us to understand that the women were devoted to the cults of
-Sabazios and Adonis. <span id="fr_122"></span>[21](#fn_122) Sabazios has
+Sabazios and Adonis. <span id="fr_122"></span>[21](#fn_122.md) Sabazios has
 already been mentioned. Adonis, according to the myth, was the beloved
 of Aphrodite and was killed in his youth while hunting. His cult came
 from the Orient and was highly emotional. One of the customs associated
 with the cult was the growing of plants in pots, where they sprouted
-quickly and soon withered ([Fig. 39](gpr25.htm#img_fig39)) They were
+quickly and soon withered ([Fig. 39](gpr25.htm#img_fig39).md) They were
 symbolic of the vegetation cycle, which Adonis represented. The women
 bewailed him, tore their clothes,
 
@@ -429,13 +429,13 @@ bewailed him, tore their clothes,
 
 and beat their breasts. According to Plutarch, they did this when the
 Athenian fleet was about to sail for Sicily. <span
-id="fr_123"></span>[22](#fn_123)
+id="fr_123"></span>[22](#fn_123.md)
 
 It may be added that Hecate, the goddess of witchcraft, was one of the
 deities to whom the women were especially devoted. Aristophanes makes a
 woman pray to Hecate before the door when she leaves her house, <span
-id="fr_124"></span>[23](#fn_124) and he records a game performed by
-women in her honor. <span id="fr_125"></span>[24](#fn_125) The reason
+id="fr_124"></span>[23](#fn_124.md) and he records a game performed by
+women in her honor. <span id="fr_125"></span>[24](#fn_125.md) The reason
 for her popularity with women is that in ancient Greece sorcery and
 witchcraft were the concern of women. It is a notable fact that we hear
 of witches but not of sorcerers.
@@ -445,7 +445,7 @@ the classical age. It was much more emotional than the ordinary
 religion. Women had scarcely any influence on the religious development
 of this age, but one may guess that they contributed to the
 dissemination, which was then beginning, of mystic and orgiastic forms
-of religion. <span id="fr_126"></span>[25](#fn_126) In late antiquity
+of religion. <span id="fr_126"></span>[25](#fn_126.md) In late antiquity
 such forms became increasingly popular. In the long run, therefore, the
 exclusion of women was disastrous to the old religion.
 
@@ -453,7 +453,7 @@ I wish now to discuss briefly a subject which students of Greek religion
 generally pass over lightly because it seems to have little to do with
 religion, although religion is its foundation. I mean the great
 festivals and meetings which the Greeks called *panegyreis* (gatherings
-of all). <span id="fr_127"></span>[26](#fn_127) They took place in some
+of all). <span id="fr_127"></span>[26](#fn_127.md) They took place in some
 sacred precinct, they were dedicated to some god, and they were
 accompanied by sacrifices. In some of these gatherings games were the
 most important element. There were great festivals, huge sacrifices, and
@@ -592,91 +592,91 @@ Greek religion rendered through them should not be undervalued.
 
 ### Footnotes
 
-<span id="fn_102"></span>[85:1](gpr09.htm#fr_102) See my Dill lecture,
+<span id="fn_102"></span>[85:1](gpr09.htm#fr_102.md) See my Dill lecture,
 *The Age of the Early Greek Tyrants* (Belfast, 1936).
 
-<span id="fn_103"></span>[85:2](gpr09.htm#fr_103) Herodotus, II, 53.
+<span id="fn_103"></span>[85:2](gpr09.htm#fr_103.md) Herodotus, II, 53.
 
-<span id="fn_104"></span>[86:3](gpr09.htm#fr_104) Weinberg in
+<span id="fn_104"></span>[86:3](gpr09.htm#fr_104.md) Weinberg in
 *Hesperia*, VIII (1939), 191 ff., seems on archaeological grounds to
 have proved that this temple was built about 540 B.C. and that it was
 preceded by an earlier temple.
 
-<span id="fn_105"></span>[87:4](gpr09.htm#fr_105) *Nubes*, vs. 984.
+<span id="fn_105"></span>[87:4](gpr09.htm#fr_105.md) *Nubes*, vs. 984.
 
-<span id="fn_106"></span>[88:5](gpr09.htm#fr_106) Published in *Antike
+<span id="fn_106"></span>[88:5](gpr09.htm#fr_106.md) Published in *Antike
 Denkmäler*, II (1908), Pls. 23, 24.
 
-<span id="fn_107"></span>[89:6](gpr09.htm#fr_107) Frag. 760, in Nauck,
+<span id="fn_107"></span>[89:6](gpr09.htm#fr_107.md) Frag. 760, in Nauck,
 *Tragicorum Graecorum fragmenta*.
 
-<span id="fn_108"></span>[89:7](gpr09.htm#fr_108) L. Malten,
+<span id="fn_108"></span>[89:7](gpr09.htm#fr_108.md) L. Malten,
 "Hephaistos," *Jahrbuch des Deutschen archäol. Instituts*, XXVII (1912),
 232 ff.
 
-<span id="fn_109"></span>[90:8](gpr09.htm#fr_109) Noted by A. Körte in
+<span id="fn_109"></span>[90:8](gpr09.htm#fr_109.md) Noted by A. Körte in
 Gnomon, XI (1935), 639.
 
-<span id="fn_110"></span>[90:9](gpr09.htm#fr_110) *Theogony*, vss.
+<span id="fn_110"></span>[90:9](gpr09.htm#fr_110.md) *Theogony*, vss.
 411-52.
 
-<span id="fn_111"></span>[90:10](gpr09.htm#fr_111) E. Sittig, *De
+<span id="fn_111"></span>[90:10](gpr09.htm#fr_111.md) E. Sittig, *De
 Graecorum nominibus theophoris* (Dissertation, Halle, 1911), pp. 61 ff.
 
-<span id="fn_112"></span>[91:11](gpr09.htm#fr_112) U. von
+<span id="fn_112"></span>[91:11](gpr09.htm#fr_112.md) U. von
 Wilamowitz-Moellendorff, *Der Glaube der Hellenen* (Berlin, 1931-32), I,
 169 ff.
 
-<span id="fn_113"></span>[91:12](gpr09.htm#fr_113) Lawson, *Modern Greek
+<span id="fn_113"></span>[91:12](gpr09.htm#fr_113.md) Lawson, *Modern Greek
 Folklore and Ancient Greek Religion*, pp. 173 ff.
 
-<span id="fn_114"></span>[91:13](gpr09.htm#fr_114) See my forthcoming
+<span id="fn_114"></span>[91:13](gpr09.htm#fr_114.md) See my forthcoming
 *Gesch. der griech. Rel.*, I, 687 ff.
 
-<span id="fn_115"></span>[92:14](gpr09.htm#fr_115) For Magna Mater see
+<span id="fn_115"></span>[92:14](gpr09.htm#fr_115.md) For Magna Mater see
 Pindar, *Pythia*, III, vss. 77 ff., and frags. 79, 80, 95, in Bergk,
 *Poetae lyrici Graeci*.
 
-<span id="fn_116"></span>[92:15](gpr09.htm#fr_116) For Ammon see
+<span id="fn_116"></span>[92:15](gpr09.htm#fr_116.md) For Ammon see
 *Pausanias*, IX, 16, 1.
 
-<span id="fn_117"></span>[92:16](gpr09.htm#fr_117) See O. Kern,
+<span id="fn_117"></span>[92:16](gpr09.htm#fr_117.md) See O. Kern,
 "Kabeiros and Kabeiroi," in A. Pauly, *Real-encyclopädie der classischen
 Altertumswissenschaft*, new ed. by G. Wissowa (Stuttgart, 1894-).
 
-<span id="fn_118"></span>[93:17](gpr09.htm#fr_118) *Republic*, p. 327;
+<span id="fn_118"></span>[93:17](gpr09.htm#fr_118.md) *Republic*, p. 327;
 and *Inscriptiones Graecae*, Editio minor, Vols. II-III, Pt. 2, No.
 1496, A, a, l. 86, and b, l. 117.
 
-<span id="fn_119"></span>[93:18](gpr09.htm#fr_119) S. Srebrny, "Kult der
+<span id="fn_119"></span>[93:18](gpr09.htm#fr_119.md) S. Srebrny, "Kult der
 thrakischen Göttin Kotyto in Korinth and Sicilien," *Mélanges Franz
 Cumont* (Brussels, 1936), pp. 423 ff.
 
-<span id="fn_120"></span>[95:19](gpr09.htm#fr_120) See my paper,
+<span id="fn_120"></span>[95:19](gpr09.htm#fr_120.md) See my paper,
 "Reflexe von dem Durchbruch des Individualismus in der griechischen
 Religion um die Wende des 5. and 4. Jhts. v. Chr.," *Mélanges Franz
 Cumont*, pp. 365 ff.
 
-<span id="fn_121"></span>[96:20](gpr09.htm#fr_121) *Lysistrata*, vss.
+<span id="fn_121"></span>[96:20](gpr09.htm#fr_121.md) *Lysistrata*, vss.
 641 ff.
 
-<span id="fn_122"></span>[96:21](gpr09.htm#fr_122) *Ibid*., vss. 388 ff.
+<span id="fn_122"></span>[96:21](gpr09.htm#fr_122.md) *Ibid*., vss. 388 ff.
 
-<span id="fn_123"></span>[97:22](gpr09.htm#fr_123) *Nicias*, 13, and
+<span id="fn_123"></span>[97:22](gpr09.htm#fr_123.md) *Nicias*, 13, and
 *Alcibiades*, 18.
 
-<span id="fn_124"></span>[97:23](gpr09.htm#fr_124) *Lysistrata*, vs. 64.
+<span id="fn_124"></span>[97:23](gpr09.htm#fr_124.md) *Lysistrata*, vs. 64.
 
-<span id="fn_125"></span>[97:24](gpr09.htm#fr_125) *Ibid*., vs. 700.
+<span id="fn_125"></span>[97:24](gpr09.htm#fr_125.md) *Ibid*., vs. 700.
 
-<span id="fn_126"></span>[97:25](gpr09.htm#fr_126) Cf. what is related
+<span id="fn_126"></span>[97:25](gpr09.htm#fr_126.md) Cf. what is related
 of the mother of Aeschines by Demosthenes, XVIII, 259 ff., and of the
 priestess Ninos by Demosthenes, XVIII, 281 and scholion.
 
-<span id="fn_127"></span>[97:26](gpr09.htm#fr_127) Little attention has
+<span id="fn_127"></span>[97:26](gpr09.htm#fr_127.md) Little attention has
 been paid to this subject. See my forthcoming *Gesch. der griech. Rel.*,
 I, 778 ff.
 
 ------------------------------------------------------------------------
 
-[Next: Legalism and Superstition; Hell](gpr10)
+[Next: Legalism and Superstition; Hell](gpr10.md)

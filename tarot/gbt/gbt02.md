@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](gbt01)  [Next](gbt03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](gbt01)  [Next](gbt03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Textual Heritage
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 F ever a book should be written on the Romance of Symbolism, its
 hypothesis of interpretation, its traditional and imputed histories, a
@@ -34,7 +34,7 @@ the prospect extending in front, since every year brings forth some new
 proposition and provides material for future imaginative flights. It is
 very curious to contrast those comparatively sober terms in which Court
 de Gebelin introduced his discovery of the cards, <span
-id="fr_0"></span>[\*](#fn_0) though he sought to prove that their origin
+id="fr_0"></span>[\*](#fn_0.md) though he sought to prove that their origin
 was in Ancient Egypt, with the fantastic declamations of Éliphas Lévi,
 who affirmed not only that they were the Alphabet of Enoch, Hermes
 Trismegistus and Cadmus but the Gospel of all Gospels, a synthesis of
@@ -69,7 +69,7 @@ Major in Egyptian vestures and affirmed that he had restored the Tarot
 in its primitive hieroglyphical form. By a fortunate chance there had
 preceded him in 1857 another fantasiast, J. F. Vaillant, with a gift in
 etymologies, more stupefying than anything produced before him. <span
-id="fr_1"></span>[\*](#fn_1) Between them there deployed all Babylon and
+id="fr_1"></span>[\*](#fn_1.md) Between them there deployed all Babylon and
 all its idols. But Egypt loomed behind Babylon and the Kabbalah behind
 Egypt. It is post-Talmudic in unadorned fact, but for them it was older
 than Moses and older even than Abraham. In fine, behind the Kabbalah
@@ -184,9 +184,9 @@ But French occultism, apart from specific schools and incorporated
 pretensions, seems very much alive, and Oswald Wirth produced recently
 the most decorative Tarot study, so far as form is concerned, which has
 appeared since we first heard of the subject. <span
-id="fr_2"></span>[\*](#fn_2) His attention is directed to the Trumps
+id="fr_2"></span>[\*](#fn_2.md) His attention is directed to the Trumps
 Major solely and he has little to say on the divinatory side
-[of](errata.htm#0) the subject, that so-called practical side which
+[of](errata.htm#0.md) the subject, that so-called practical side which
 engrosses most persons who would call themselves Tarot students. It is
 none of my own business, but it is clear from my knowledge of the
 literature that under this aspect there is room for new treatment. Dr.
@@ -196,7 +196,7 @@ to do so because very little has been printed previously on the zodiacal
 attributions of the cards and because it happens that I am acquainted
 with unpublished divinatory methods making use of these attributions for
 many years past in one of the occult circles. <span
-id="fr_3"></span>[†](#fn_3) There is a literature of the Tarot which has
+id="fr_3"></span>[†](#fn_3.md) There is a literature of the Tarot which has
 not emerged so far into the light of day and some of it is excessively
 curious. It was said of old in a very different connexion: *Quod tenet
 nunc teneat donec de medio fiat;* and I do not know whether certain
@@ -224,7 +224,7 @@ symbol is suspended head downward and as such it is comparable to the
 Microprosopus or God of Reflections in the so-called Great Symbol or
 Double Triangle of Solomon, prefixed by Lévi to this *Dogme et Rituel de
 la Haute Magie*, being the frontispiece of the first volume. <span
-id="fr_4"></span>[\*](#fn_4) It follows that the true symbol belonging
+id="fr_4"></span>[\*](#fn_4.md) It follows that the true symbol belonging
 to Trump Major No. XII, though it is by no means that of Lévi, is not a
 Hanged Man at all; but it will continue to be depicted in this manner
 unless and until the Greater Arcana are issued by the authority of
@@ -249,22 +249,22 @@ ARTHUR EDWARD WAITE.
 
 ### Footnotes
 
-<span id="fn_0"></span>[7:\*](gbt02.htm#fr_0) *Monde Primitif, analysé
+<span id="fn_0"></span>[7:\*](gbt02.htm#fr_0.md) *Monde Primitif, analysé
 et comparé avec le Monde Moderne*, par M. Court de Gebelin, g vols. The
 account and examination of the Tarot will be found in Vol. VIII,
 published in 1781.
 
-<span id="fn_1"></span>[8:\*](gbt02.htm#fr_1) Les Romes appeared at the
+<span id="fn_1"></span>[8:\*](gbt02.htm#fr_1.md) Les Romes appeared at the
 date in question and maintained that the history of the Tarot is lost in
 the night of time, but everything justifies the hypothesis that it is of
 Indo-Tartarian origin and that it has been transmitted to modern times
 by the Romany tribes of his title.
 
-<span id="fn_2"></span>[11:\*](gbt02.htm#fr_2) *Le Tarot des Imagiers du
+<span id="fn_2"></span>[11:\*](gbt02.htm#fr_2.md) *Le Tarot des Imagiers du
 Moyen Age*, 1927, accompanied by a separative portfolio of coloured
 plates and with many illustrations in the text.
 
-<span id="fn_3"></span>[11:†](gbt02.htm#fr_3) Oswald Wirth has a short
+<span id="fn_3"></span>[11:†](gbt02.htm#fr_3.md) Oswald Wirth has a short
 excursus on Astrology at the end of his work, in which he enumerates the
 zodiacal implicities allocated to the four elements, but no Tarot
 connection is suggested. It is rather curious that a study of the
@@ -273,10 +273,10 @@ marriage effected by Éliphas Lévi has not produced speculations long
 since on the astronomical and astrological correspondences of the Tarot
 Trumps.
 
-<span id="fn_4"></span>[12:\*](gbt02.htm#fr_4) See my annotated
+<span id="fn_4"></span>[12:\*](gbt02.htm#fr_4.md) See my annotated
 translation, entitled *Transcendental Magic: Its Doctrine and Ritual*,
 new and revised edition, 1923.
 
 ------------------------------------------------------------------------
 
-[Next: The Doctrine](gbt03)
+[Next: The Doctrine](gbt03.md)

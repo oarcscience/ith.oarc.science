@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig17)  [Next](vig19) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig17)  [Next](vig19.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ settled down as a householder and a good useful man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI](vig19)
+[Next: Chapter XVI](vig19.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe23)  [Next](poe25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe23)  [Next](poe25.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ of the Fleet.
 ------------------------------------------------------------------------
 
 [Next: XXIV. (Epic Poetry continued.) Further points of agreement with
-Tragedy.](poe25)
+Tragedy.](poe25.md)

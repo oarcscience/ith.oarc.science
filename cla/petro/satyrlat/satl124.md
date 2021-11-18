@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXXIV) 
-[Previous](satl123)  [Next](satl125) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXXIV.md) 
+[Previous](satl123)  [Next](satl125.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ cum certamine in Eumolpium congesserunt. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CXXV](satl125)
+[Next: CXXV](satl125.md)

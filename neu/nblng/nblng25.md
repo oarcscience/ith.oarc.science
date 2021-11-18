@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng24)  [Next](nblng26) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng24)  [Next](nblng26.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ his youth as a hostage at Etzel's court.
 ------------------------------------------------------------------------
 
 [Next: Adventure XXIV: How Werbel And Swemmel Brought The
-Message.](nblng26)
+Message.](nblng26.md)

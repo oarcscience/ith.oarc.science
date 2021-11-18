@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,17 +14,17 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](yor00)  
-[Contents.](yor01)  
-[Chapter I: Introductory.](yor02)  
-[Chapter II: Chief Gods.](yor03)  
-[Chapter III: Minor Gods.](yor04)  
-[Chapter IV: Remarks on the Foregoing.](yor05)  
-[Chapter V: Priests and Worship.](yor06)  
-[Chapter VI: Egungun, Oro, Abiku, and Various Superstitions.](yor07)  
-[Chapter VII: The In-Dwelling Spirits And Souls of Men.](yor08)  
-[Chapter VIII: Measurements of Time.](yor09)  
-[Chapter IX: Ceremonies at Birth, Marriage, and Death.](yor10)  
-[Chapter XIII: Proverbs.](yor11)  
-[Chapter XIV: Folk-Lore Tales.](yor12)  
-[Chapter XV: Conclusions.](yor13)  
+[Title Page](yor00.md)  
+[Contents.](yor01.md)  
+[Chapter I: Introductory.](yor02.md)  
+[Chapter II: Chief Gods.](yor03.md)  
+[Chapter III: Minor Gods.](yor04.md)  
+[Chapter IV: Remarks on the Foregoing.](yor05.md)  
+[Chapter V: Priests and Worship.](yor06.md)  
+[Chapter VI: Egungun, Oro, Abiku, and Various Superstitions.](yor07.md)  
+[Chapter VII: The In-Dwelling Spirits And Souls of Men.](yor08.md)  
+[Chapter VIII: Measurements of Time.](yor09.md)  
+[Chapter IX: Ceremonies at Birth, Marriage, and Death.](yor10.md)  
+[Chapter XIII: Proverbs.](yor11.md)  
+[Chapter XIV: Folk-Lore Tales.](yor12.md)  
+[Chapter XV: Conclusions.](yor13.md)  

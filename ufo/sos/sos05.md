@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](sos04)  [Next](sos06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](sos04)  [Next](sos06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Saucers*, by Orfeo M. Angelucci, \[1955\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ is almost impossible to explain my state of mind. But the great
 spiritual illumination I had received in the saucer left me something of
 a stranger to my own planet, Earth.
 
-I longed to tell the world, to [blazon](errata.htm#3) out the truths of
+I longed to tell the world, to [blazon](errata.htm#3.md) out the truths of
 my discoveries; yet I knew that for the greater part I must forever
 remain silent. Among other glimpses of reality, I attained the
 realization that TIME IS NON-EXISTENT. What we call Time exists only in
@@ -85,7 +85,7 @@ insistence upon the absolute truth of my experiences finally appeared to
 be definitely alienating my friends and even my family. My story was
 unbelieved upon Earth and the mysterious visitors were doing nothing to
 aid me. I actually began to doubt my own sanity, to wonder if the
-[bizarre](errata.htm#4) experiences had been an illusion or
+[bizarre](errata.htm#4.md) experiences had been an illusion or
 hallucination of some sort. And yet an inner tribunal of Truth assured
 me that such was not the case for WITH THEM I HAD SEEN AND KNOWN
 REALITY—and I could never forget that.
@@ -218,7 +218,7 @@ are not like earthmen in that we function in dimensions unknown to your
 world. Earth is a three-dimensional world and because of this it is
 preponderantly false. I may tell you that to the entities of certain
 other worlds Earth is regarded as 'the accursed planet', the 'home of
-[the](errata.htm#5) reprobate, fallen ones'. Others call your Earth 'the
+[the](errata.htm#5.md) reprobate, fallen ones'. Others call your Earth 'the
 home of sorrows'. For Earth's evolution is evolution through pain,
 sorrow, sin, suffering and the illusion of physical death. Believe me,
 all evolutions are not similar to Earth's, despite the *present* beliefs
@@ -241,7 +241,7 @@ sorrow, suffering, sickness or death. But in the glory and wonder of
 their world they grew proud and arrogant. They made war among themselves
 and finally turned against the Great Giver of Life. Ultimately they
 destroyed their own planet which today exists only as a sterile and
-barren ring of [asteroids](errata.htm#6) and debris in the solar system.
+barren ring of [asteroids](errata.htm#6.md) and debris in the solar system.
 In order that those entities might gain understanding, compassion and
 brotherly love they were born into the animalistic, material evolution
 of a lesser planet, Earth. Suffering, sorrow, frustration and death
@@ -436,4 +436,4 @@ sorrows'."
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. “We Can Appear and Function As Earthmen,
-Orfeo!”](sos06)
+Orfeo!”](sos06.md)

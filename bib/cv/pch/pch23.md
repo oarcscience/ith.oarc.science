@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch22) 
-[Next](pch24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch22.md) 
+[Next](pch24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -38,7 +38,7 @@ determines the general thought.
 In ancient Babylonia, the scholars are now agreed, there was a highly
 evolved yet not highly imperialised State, ruled by an enlightened
 Akkado-Babylonian king named Hammurabi, <span
-id="fr_306"></span>[5](#fn_306) two
+id="fr_306"></span>[5](#fn_306.md) two
 
 <span id="page_79">p. 79</span>
 
@@ -66,12 +66,12 @@ transfiguration of its sinister battlefield.
 
 In no ancient State, certainly not in pre-exilic Jewry, did men think
 and brood more over religion, in theory and practice, than they did in
-Babylon; <span id="fr_307"></span>[1](#fn_307) and in such a hotbed
+Babylon; <span id="fr_307"></span>[1](#fn_307.md) and in such a hotbed
 "religious genius" must be presumed to have arisen. But while it could
 leave its traces in higher doctrine, and join hands fruitfully with
 nascent science, it could never restore the freer polity of
 Sumer-Akkadia, though it could humbly cherish the Akkadian dream that
-Hammurabi would come again, <span id="fr_308"></span>[2](#fn_308) as
+Hammurabi would come again, <span id="fr_308"></span>[2](#fn_308.md) as
 Messiah, to begin a new age. On the broad fields of sword-ruled
 ignorance there could thrive only such vain hopes and the rank growths
 of superstition. Better Gods were not to be set up, save in unseen
@@ -105,16 +105,16 @@ and which is beset by heresies of the same derivation.
 
 ### Footnotes
 
-<span id="fn_306"></span>[78:5](pch23.htm#fr_306) Winckler, *Gesch.
+<span id="fn_306"></span>[78:5](pch23.htm#fr_306.md) Winckler, *Gesch.
 Babyloniens and Assyriens*, 1892, pp. 64-65; Jastrow, *Relig. of Bab.
 and Assyr.*, pp. 38-39. Cp. Miss Simcox's *Primitive Civilisations*,
 1894, i, 282-3.
 
-<span id="fn_307"></span>[79:1](pch23.htm#fr_307) Jastrow, pp. 245-8;
+<span id="fn_307"></span>[79:1](pch23.htm#fr_307.md) Jastrow, pp. 245-8;
 Tiele, *Hist. comp.*, Pp. 243-247.
 
-<span id="fn_308"></span>[79:2](pch23.htm#fr_308) Jastrow, pp. 532-3.
+<span id="fn_308"></span>[79:2](pch23.htm#fr_308.md) Jastrow, pp. 532-3.
 
 ------------------------------------------------------------------------
 
-[Next: § 6. The Hebrew Evolution](pch24)
+[Next: § 6. The Hebrew Evolution](pch24.md)

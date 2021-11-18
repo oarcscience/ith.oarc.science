@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate17)  [Next](gate19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate17)  [Next](gate19.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ angle, near
  
 
 <span id="img_10100"></span> [![](tn/generic.jpg)  
-Click to view](img/10100.jpg)  
+Click to view](img/10100.jpg.md)  
 The Gate of the serpent Aqebi.
 
  
@@ -82,11 +82,11 @@ and at intervals seven gods, who are called "the
  
 
 <span id="img_10400"></span> [![](tn/generic.jpg)  
-Click to view](img/10400.jpg)  
+Click to view](img/10400.jpg.md)  
 The Gods of the Third Division of the Tuat towing the Boat of Ra.
 
 <span id="img_10401"></span> [![](tn/generic.jpg)  
-Click to view](img/10401.jpg)  
+Click to view](img/10401.jpg.md)  
 The Eight Bearers of the Boat of the Earth and its Seven Gods.
 
  
@@ -130,7 +130,7 @@ of the year,
  
 
 <span id="img_10700"></span> [![](tn/generic.jpg)  
-Click to view](img/10700.jpg)  
+Click to view](img/10700.jpg.md)  
 The Tuat-gods address the Utau.
 
  
@@ -154,7 +154,7 @@ of their apparel in the Tuat."
  
 
 <span id="img_10800"></span> [![](tn/generic.jpg)  
-Click to view](img/10800.jpg)  
+Click to view](img/10800.jpg.md)  
 The-Twelve holy Gods who are in the Tuat.
 
  
@@ -209,7 +209,7 @@ duty it is
  
 
 <span id="img_11200"></span> [![](tn/generic.jpg)  
-Click to view](img/11200.jpg)  
+Click to view](img/11200.jpg.md)  
 The Gods of the Boiling Lake.
 
  
@@ -248,7 +248,7 @@ gods are called "Nebu khert," i.e., Lords of destinies.
  
 
 <span id="img_11400"></span> [![](tn/generic.jpg)  
-Click to view](img/11400.jpg)  
+Click to view](img/11400.jpg.md)  
 The Tchatcha who repulse Apep.
 
  
@@ -281,7 +281,7 @@ unto them by the lord of food (or, as lords of food) before Ra."
  
 
 <span id="img_11700"></span> [![](tn/generic.jpg)  
-Click to view](img/11700.jpg)  
+Click to view](img/11700.jpg.md)  
 The Lords of Destinies(?).
 
  
@@ -309,4 +309,4 @@ upon them."
 ------------------------------------------------------------------------
 
 [Next: Chapter V. The Gate Of Tchetbi. The Fourth Division of the
-Tuat](gate19)
+Tuat](gate19.md)

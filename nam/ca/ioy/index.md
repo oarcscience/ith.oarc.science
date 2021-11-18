@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ American](../../index)  [California](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ioy00)
+[Contents](#contents)    [Start Reading](ioy00.md)
 
 ------------------------------------------------------------------------
 
@@ -39,21 +39,21 @@ reluctant to open up about the details of their mythology and culture,
 even to comparatively benign individuals such as Clark. However, this is
 one of the few first-hand accounts from this period, and the information
 in this book has been rehashed in many others, such as [The Lore and
-Lure of the Yosemite](../lly/index).
+Lure of the Yosemite](../lly/index.md).
 
 --J. B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ioy00)  
-[Contents](ioy01)  
-[List of Illustrations](ioy02)  
-[Introduction and Sketch of the Author](ioy03)  
-[Chapter One: Early History](ioy04)  
-[Chapter Two: Effects of the War.](ioy05)  
-[Chapter Three: Customs and Characteristics](ioy06)  
-[Chapter Four: Sources of Food Supply](ioy07)  
-[Chapter Five: Religious Ceremonies and Beliefs](ioy08)  
-[Chapter Six: Native Industries](ioy09)  
-[Chapter Seven: Myths and Legends](ioy10)  
-[Appendix](ioy11)  
+<span id="contents"></span> [Title Page](ioy00.md)  
+[Contents](ioy01.md)  
+[List of Illustrations](ioy02.md)  
+[Introduction and Sketch of the Author](ioy03.md)  
+[Chapter One: Early History](ioy04.md)  
+[Chapter Two: Effects of the War.](ioy05.md)  
+[Chapter Three: Customs and Characteristics](ioy06.md)  
+[Chapter Four: Sources of Food Supply](ioy07.md)  
+[Chapter Five: Religious Ceremonies and Beliefs](ioy08.md)  
+[Chapter Six: Native Industries](ioy09.md)  
+[Chapter Seven: Myths and Legends](ioy10.md)  
+[Appendix](ioy11.md)  

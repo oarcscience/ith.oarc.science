@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat13)  [Next](bat15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat13)  [Next](bat15.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ which guideth this great god is SEBIT-NEBT-UAA-KHESFET-SEBA-EM-PERT-F."
  
 
 <span id="img_23300"></span> [![](tn/generic.jpg)  
-Click to view](img/23300.jpg)  
+Click to view](img/23300.jpg.md)  
 The Boat of the Sun in the Eleventh Division of the Tuat.
 
  
@@ -69,15 +69,15 @@ serpent MEHEN on their heads; their names are:--
  
 
 <span id="img_23500"></span> [![](tn/generic.jpg)  
-Click to view](img/23500.jpg)  
+Click to view](img/23500.jpg.md)  
 Mehni.     Semsem.     Sekhennu.     Shetu.
 
 <span id="img_23501"></span> [![](tn/generic.jpg)  
-Click to view](img/23501.jpg)  
+Click to view](img/23501.jpg.md)  
 Ama.     Amu.     Erta.     Shepu.
 
 <span id="img_23502"></span> [![](tn/generic.jpg)  
-Click to view](img/23502.jpg)  
+Click to view](img/23502.jpg.md)  
 Neteru.     Athpi.     Ermenu.     Fa (?).
 
  
@@ -108,7 +108,7 @@ them:--'O ye who keep ward over your serpent-figures with your two
  
 
 <span id="img_23700"></span> [![](tn/generic.jpg)  
-Click to view](img/23700.jpg)  
+Click to view](img/23700.jpg.md)  
 (*Left*) Sem-Nebt-het. (*Right*) Sem-shet.
 
  
@@ -149,7 +149,7 @@ are in
  
 
 <span id="img_23900"></span> [![](tn/generic.jpg)  
-Click to view](img/23900.jpg)  
+Click to view](img/23900.jpg.md)  
 Neith the Young.     Neith of the White Crown.     Neith of the Red
 Crown.     Neith of the phallus.
 
@@ -188,7 +188,7 @@ for Ra, and he never departeth from his place in the Tuat."
  
 
 <span id="img_24100"></span> [![](tn/generic.jpg)  
-Click to view](img/24100.jpg)  
+Click to view](img/24100.jpg.md)  
 The god Aper-hra-neb-tchetta.
 
  
@@ -209,7 +209,7 @@ words \#\#\# may form the name of the winged serpent.
  
 
 <span id="img_24200"></span> [![](tn/generic.jpg)  
-Click to view](img/24200.jpg)
+Click to view](img/24200.jpg.md)
 
  
 
@@ -227,7 +227,7 @@ who follow the god."
  
 
 <span id="img_24300"></span> [![](tn/generic.jpg)  
-Click to view](img/24300.jpg)  
+Click to view](img/24300.jpg.md)  
 The god Tepui.
 
  
@@ -266,7 +266,7 @@ The text which refers to these reads:
  
 
 <span id="img_24400"></span> [![](tn/generic.jpg)  
-Click to view](img/24400.jpg)  
+Click to view](img/24400.jpg.md)  
 (*Left*) Aaui-f-em-kha-nef. (*Center*) Nerta. (*Right*) Khnem-renit.
 
  
@@ -274,11 +274,11 @@ Click to view](img/24400.jpg)
 <span id="page_245">p. 245</span>
 
 <span id="img_24500"></span> [![](tn/generic.jpg)  
-Click to view](img/24500.jpg)  
+Click to view](img/24500.jpg.md)  
 Reset-Afu.     Au-en-aaui-f.     Mer-en-aaui-f.     Apt-taui.
 
 <span id="img_24501"></span> [![](tn/generic.jpg)  
-Click to view](img/24501.jpg)  
+Click to view](img/24501.jpg.md)  
 Hepa.     Mesekhti.     Maa.      Tua-Heru.
 
  
@@ -305,11 +305,11 @@ appear with this great god in the upper heaven."
  
 
 <span id="img_24700"></span> [![](tn/generic.jpg)  
-Click to view](img/24700.jpg)  
+Click to view](img/24700.jpg.md)  
 (*Left*) Nebt-khu. (*Right*) Nebt-ankhiu.
 
 <span id="img_24701"></span> [![](tn/generic.jpg)  
-Click to view](img/24701.jpg)  
+Click to view](img/24701.jpg.md)  
 (*Left*) Mer-ent-neteru. (*Right*) Nert-abui.
 
  
@@ -340,7 +340,7 @@ a boomerang, one end of which is in the form of a serpent's head.
  
 
 <span id="img_24900"></span> [![](tn/generic.jpg)  
-Click to view](img/24900.jpg)  
+Click to view](img/24900.jpg.md)  
 Horus and the serpent Set-heh.
 
  
@@ -351,7 +351,7 @@ tail.
  
 
 <span id="img_24901"></span> [![](tn/generic.jpg)  
-Click to view](img/24901.jpg)  
+Click to view](img/24901.jpg.md)  
 The pit of fire, Hatet-ketits.
 
  
@@ -367,7 +367,7 @@ in her hands a large knife, and pours fire into it from her mouth.
  
 
 <span id="img_25000"></span> [![](tn/generic.jpg)  
-Click to view](img/25000.jpg)  
+Click to view](img/25000.jpg.md)  
 The pit of fire, Hatet-hantu-s.
 
  
@@ -380,7 +380,7 @@ hands a large knife, and pours fire into it from her mouth.
  
 
 <span id="img_25001"></span> [![](tn/generic.jpg)  
-Click to view](img/25001.jpg)  
+Click to view](img/25001.jpg.md)  
 The pit of fire, Hat-nekenit.
 
  
@@ -394,7 +394,7 @@ as in No. 4.
  
 
 <span id="img_25100"></span> [![](tn/generic.jpg)  
-Click to view](img/25100.jpg)  
+Click to view](img/25100.jpg.md)  
 The pit of fire, Hat-nemmat-set.
 
  
@@ -406,7 +406,7 @@ by a goddess as in No. 4.
  
 
 <span id="img_25101"></span> [![](tn/generic.jpg)  
-Click to view](img/25101.jpg)  
+Click to view](img/25101.jpg.md)  
 The pit of fire, Hat-sefu-s.
 
  
@@ -439,15 +439,15 @@ of "life," an ankh, in his right. The text reads:
  
 
 <span id="img_25300"></span> [![](tn/generic.jpg)  
-Click to view](img/25300.jpg)  
+Click to view](img/25300.jpg.md)  
 The pit of fire, Ant-sekhetu.
 
 <span id="img_25301"></span> [![](tn/generic.jpg)  
-Click to view](img/25301.jpg)  
+Click to view](img/25301.jpg.md)  
 (*Left*) Her-shau-s. (*Center*) Rekhit. (*Right*) Pesi.
 
 <span id="img_25302"></span> [![](tn/generic.jpg)  
-Click to view](img/25302.jpg)  
+Click to view](img/25302.jpg.md)  
 (*Left*) The god Her-utu-f. (*Right*) Sait.
 
  
@@ -487,4 +487,4 @@ of fire."
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. The Twelfth Division of the Tuat, Which Is Called
-Then-Neteru](bat15)
+Then-Neteru](bat15.md)

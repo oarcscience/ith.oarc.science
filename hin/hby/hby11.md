@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hby10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hby10.md) 
 
 ------------------------------------------------------------------------
 
@@ -365,7 +365,7 @@ the dry nut the kernel becomes separate from the shell, and so when the
 shell is pierced, the kernel is not touched. Jesus was like the dry nut,
 i.e., His inner soul was separate from His physical shell, and
 consequently the sufferings of the body did not affect him." <span
-id="fr_6"></span>[1](#fn_6) Therefore He could pray for the forgiveness
+id="fr_6"></span>[1](#fn_6.md) Therefore He could pray for the forgiveness
 of His persecutors even when His body was suffering; and all true Yogis
 are able to do the same. There have been many instances of Yogis whose
 bodies have been cut into pieces, but their souls never for a moment
@@ -430,7 +430,7 @@ Supreme Spirit,
 
 ### Footnotes
 
-<span id="fn_6"></span>[184:1](hby11.htm#fr_6) See "The Life and Sayings
+<span id="fn_6"></span>[184:1](hby11.htm#fr_6.md) See "The Life and Sayings
 of Râmakrishna," by Prof. F. Max Müller. Published by Charles Scribners'
 Sons, New York. P. 111.
 

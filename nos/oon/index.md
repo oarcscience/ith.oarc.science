@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start reading](oon00)    [Page
-Index](pageidx)    [Text \[Zipped\]](oon.txt.gz)
+[Contents](#contents)    [Start reading](oon00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](oon.txt.gz.md)
 
 |                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------|
@@ -40,7 +40,7 @@ amount of linguistic and historical erudition to make his case. He is
 also a consummate stylist; his convoluted Victorian prose will leave
 many readers rubbing their eyes. At times his writing becomes almost
 (inadvertantly) Joycean (for instance, his rhapsody on Napoleon on [p.
-250](oon19)).
+250](oon19).md).
 
 Ward makes some key points for any prospective interpreter of
 Nostradamus. First of all, Nostradamus' text is not written entirely in
@@ -49,11 +49,11 @@ French. He mixes 16th Century French, Latin, Lang d'Oc (a Provençal
 dialect of French similar to Catalan), words of his own invention such
 as anagrams and strange amalgams; as well as (cue the echo chamber)
 *words from the future*. I've already pointed out the startling term
-'Eussouis' (USA) in my [essay on 9/11](../091101). Ward notes (see [page
-130](oon11.htm#page_130)) that Nostradamus uses a slang word, in
+'Eussouis' (USA) in my [essay on 9/11](../091101.md). Ward notes (see [page
+130](oon11.htm#page_130).md) that Nostradamus uses a slang word, in
 context, for a component of an improved flintlock ('dog') nearly a
 century before it was invented. Nostradamus also uses a term for
-conscription (see [p. 248](oon18.htm#page_248)) in a sense not used
+conscription (see [p. 248](oon18.htm#page_248).md) in a sense not used
 until about 1800.
 
 Another point which comes up again and again is that it is almost
@@ -90,26 +90,26 @@ should be the cornerstone of any Nostradamus collection.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](oon00)  
-[Dedication](oon01)  
-[Three Prophecies of Old Time](oon02)  
-[Preface](oon03)  
-[Contents](oon04)  
-[Life of Nostradamus](oon05)  
-[The Preface of Michael Nostradamus to His Prophecies](oon06)  
-[Epistle to Henry II](oon07)  
-[Magic](oon08)  
-[Historical Fragments](oon09)  
-[Henri Quatre](oon10)  
-[Louis XIII](oon11)  
-[Louis XIV](oon12)  
-[Louis XV](oon13)  
-[England](oon14)  
-[French Revolution](oon15)  
-[Louis XVI](oon16)  
-[The National Convention](oon17)  
-[Pius VI](oon18)  
-[Napoleonic Rule](oon19)  
-[Louis XVIII and Louis Philippe](oon20)  
-[Republic, 1848, and Napoleon III](oon21)  
-[Appendix](oon22)  
+<span id="contents"></span> [Title Page](oon00.md)  
+[Dedication](oon01.md)  
+[Three Prophecies of Old Time](oon02.md)  
+[Preface](oon03.md)  
+[Contents](oon04.md)  
+[Life of Nostradamus](oon05.md)  
+[The Preface of Michael Nostradamus to His Prophecies](oon06.md)  
+[Epistle to Henry II](oon07.md)  
+[Magic](oon08.md)  
+[Historical Fragments](oon09.md)  
+[Henri Quatre](oon10.md)  
+[Louis XIII](oon11.md)  
+[Louis XIV](oon12.md)  
+[Louis XV](oon13.md)  
+[England](oon14.md)  
+[French Revolution](oon15.md)  
+[Louis XVI](oon16.md)  
+[The National Convention](oon17.md)  
+[Pius VI](oon18.md)  
+[Napoleonic Rule](oon19.md)  
+[Louis XVIII and Louis Philippe](oon20.md)  
+[Republic, 1848, and Napoleon III](oon21.md)  
+[Appendix](oon22.md)  

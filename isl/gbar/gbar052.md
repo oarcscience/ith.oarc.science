@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar051) [Next](gbar053)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar051) [Next](gbar053.md)
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ answered: 'Amen, Amen.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar053)
+[Next](gbar053.md)

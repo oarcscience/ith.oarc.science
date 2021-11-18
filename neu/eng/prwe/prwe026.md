@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe025)  [Next](prwe027) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe025)  [Next](prwe027.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ afterwards. Of this, however, tradition leaves us in ignorance.
 
 ------------------------------------------------------------------------
 
-[Next: A Native Pigsey Story](prwe027)
+[Next: A Native Pigsey Story](prwe027.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls08)  [Next](rls10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls08)  [Next](rls10.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ but his recent death has created a painful
 sensation all over India. He had lived for about thirty years at
 Ghazipur, and was venerated as a Saint by the whole native community.
 The last nine years, however, he had almost entirely withdrawn from the
-world <span id="fr_5"></span>[1](#fn_5), living by himself in a compound
+world <span id="fr_5"></span>[1](#fn_5.md), living by himself in a compound
 surrounded by high walls and protected by a formidable gate. Inside
 there was a small flower-garden, a well, a small temple, and his own
 dwelling-house, which consisted of one room. He never allowed the gate
@@ -85,9 +85,9 @@ extreme self-denial, as much as that of any Paramaha*m*sa.
 
 ### Footnotes
 
-<span id="fn_5"></span>[14:1](rls09.htm#fr_5) *Interpreter*, June, 1898.
+<span id="fn_5"></span>[14:1](rls09.htm#fr_5.md) *Interpreter*, June, 1898.
 *Indian Social Reformer*, June 19, 1898.
 
 ------------------------------------------------------------------------
 
-[Next: Debendranâth Tagore](rls10)
+[Next: Debendranâth Tagore](rls10.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj02)  [Next](chj04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj02)  [Next](chj04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -67,7 +67,7 @@ own missionary zeal. The boundaries of India were supposed to enlarge
 themselves as the missionaries of Buddhism advanced towards the East.
 The Hindu Kush and the Himalayas ceased to be the boundaries of the
 sacred land of Jambudvīpa. In process of time Jambudvīpa included
-Central Asia, China, and even Japan. <span id="fr_0"></span>[1](#fn_0)
+Central Asia, China, and even Japan. <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_3">p. 3</span>
 
@@ -128,7 +128,7 @@ simultaneously into life.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](chj03.htm#fr_0) Nichiren, for instance,
+<span id="fn_0"></span>[2:1](chj03.htm#fr_0.md) Nichiren, for instance,
 constantly speaks of *ichi em bu dai* (which is his way of writing
 Jambudvīpa) as = India, China, and Japan. It was a protest, by way of
 adaptation, against the idea that a Buddha could not be born outside of
@@ -137,4 +137,4 @@ India.
 ------------------------------------------------------------------------
 
 [Next: Chapter II. The Stage on which S’akyamuni made his
-Appearance](chj04)
+Appearance](chj04.md)

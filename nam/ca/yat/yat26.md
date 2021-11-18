@@ -1,24 +1,24 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat25)  [Next](yat27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat25)  [Next](yat27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### III. THE LOST BROTHER. <span id="fr_159"></span>[339](#fn_154)
+### III. THE LOST BROTHER. <span id="fr_159"></span>[339](#fn_154.md)
 
 Pine Marten's brother Weasel was stolen by Lizard (k!uwi'lla). Pine
-Marten was living at Big Bend. <span id="fr_160"></span>[340](#fn_155)
+Marten was living at Big Bend. <span id="fr_160"></span>[340](#fn_155.md)
 He went out to hunt and left Weasel at home. He told him to hide under
 the edge of the sweat-house roof. Weasel did so. By and by something
 came into the house saying, "Tsä, tsä, tsä." Weasel looked and saw that
@@ -104,18 +104,18 @@ were burned but one woman, a duck.
 
 ### Footnotes
 
-<span id="fn_152"></span>[214:337](yat25.htm#fr_157) That is "wished"
+<span id="fn_152"></span>[214:337](yat25.htm#fr_157.md) That is "wished"
 for it by means of his supernatural power.
 
-<span id="fn_153"></span>[214:338](yat25.htm#fr_158) Pitch was daubed on
+<span id="fn_153"></span>[214:338](yat25.htm#fr_158.md) Pitch was daubed on
 the face as a sign of mourning.
 
-<span id="fn_154"></span>[214:339](yat26.htm#fr_159) Compare the Pit
+<span id="fn_154"></span>[214:339](yat26.htm#fr_159.md) Compare the Pit
 River myth in Dixon, "Achomawi and Atsugewi Tales," Journ. Amer.
 Folk-lore, XXI, 167, 168.
 
-<span id="fn_155"></span>[214:340](yat26.htm#fr_160) See note 245.
+<span id="fn_155"></span>[214:340](yat26.htm#fr_160.md) See note 245.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Flints and Grizzly Bears](yat27)
+[Next: IV. The Flints and Grizzly Bears](yat27.md)

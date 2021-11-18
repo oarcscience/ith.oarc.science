@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../coe/coe) 
-[Previous](mfm)  [Next](man) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../coe/coe.md) 
+[Previous](mfm)  [Next](man.md) 
 
 ------------------------------------------------------------------------
 
@@ -2501,4 +2501,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Much adoe about Nothing](man) 
+[Next: Much adoe about Nothing](man.md) 

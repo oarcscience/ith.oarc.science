@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar09)  [Next](gar11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar09)  [Next](gar11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 The origin of the Kabbala is placed by most authors much later than that
 of Christianity; and, indeed, it is not impossible that its doctrines
 may have received great developments *after* that epoch; <span
-id="fr_3"></span>[\*](#fn_3) nevertheless, the elements of them go back
+id="fr_3"></span>[\*](#fn_3.md) nevertheless, the elements of them go back
 to a much more remote antiquity. The Book of Daniel bears the most
 conspicuous traces of this antiquity, and to the attestation of this
 record are added other proofs no less convincing. The idea of
@@ -60,7 +60,7 @@ conceptive forces; being both father and mother in the sublimest sense,
 pervading all, and without which nothing can for an instant subsist.
 
 From this Double Force, designated by the first two letters of the name
-Jehovah (*Yod*, *He* <span id="fr_4"></span>[\*](#fn_4)), emanated the
+Jehovah (*Yod*, *He* <span id="fr_4"></span>[\*](#fn_4).md), emanated the
 First-born of God, the *Tikkun*, or "Universal Type" (Platonic *Idea*),
 and the general container of all beings, united within himself by means
 of the Primal Ray. He is the creator, preserver, and prime animator of
@@ -165,7 +165,7 @@ the beginning, it was the
 <span id="page_37">p. 37</span>
 
 result of a revolution in heaven, called the "Fall of the Seven Kings,"
-from whom <span id="fr_5"></span>[\*](#fn_5) the Creator, as a
+from whom <span id="fr_5"></span>[\*](#fn_5.md) the Creator, as a
 punishment, extracted the principle of good and light, and bestowed it
 upon the inhabitants of the three superior spheres.
 
@@ -257,7 +257,7 @@ The head of them is Metatron, the "number of his name" being three
 hundred and fourteen, and therefore equivalent to that of *Shaddai*,
 "the Almighty." Metatron is the Persian Mithras; the names of the others
 are all compounded with *El* "God," and contain his titles, or
-invocations to him. <span id="fr_6"></span>[\*](#fn_6) All this
+invocations to him. <span id="fr_6"></span>[\*](#fn_6.md) All this
 celestial roll-call fully explains St. Paul's warning to his flock at
 Colossae against being reduced into a "voluntary (that is, an uncalled
 for) humility, and the worshipping of Angels," whilst the copious
@@ -287,7 +287,7 @@ writer on magic quoted by Camillo di Leonardo, lays down that "a woman
 with her hair hanging down loose, and a man approaching her making a
 gesture of love, engraved upon a crystal, or jacinth, being placed under
 the head upon going to sleep, will make one see in a dream whatsoever
-one desires." <span id="fr_7"></span>[\*](#fn_7)
+one desires." <span id="fr_7"></span>[\*](#fn_7.md)
 
 Such being the nature of the case, the existing productions of
 Gnosticism will be most appropriately investigated in the present
@@ -314,10 +314,10 @@ will naturally at first be regarded.
 
  
 
-<span id="img_fig02"></span> ![FIG. 2.](img/fig02.jpg)  
+<span id="img_fig02"></span> ![FIG. 2.](img/fig02.jpg.md)  
 FIG. 2.
 
-[(\*)](gar71.htm#an_fig02)
+[(\*)](gar71.htm#an_fig02.md)
 
  
 
@@ -325,18 +325,18 @@ FIG. 2.
 
 ### Footnotes
 
-<span id="fn_3"></span>[33:\*](gar10.htm#fr_3) The tradition is that it
+<span id="fn_3"></span>[33:\*](gar10.htm#fr_3.md) The tradition is that it
 was first committed to writing by Simon Ben Jochai, who, being
 proscribed by Titus, concealed himself in a cavern for the space of
 eleven years, the whole of which he devoted to this work, in which he
 was assisted by the prophet Elias.
 
-<span id="fn_4"></span>[34:\*](gar10.htm#fr_4) The I. H. so
+<span id="fn_4"></span>[34:\*](gar10.htm#fr_4.md) The I. H. so
 conspicuously placed on some Gnostic stones probably expresses this
 name; as being the nearest equivalents the Greek alphabet could furnish
 for the Hebrew letters.
 
-<span id="fn_5"></span>[37:\*](gar10.htm#fr_5) The author of the Book of
+<span id="fn_5"></span>[37:\*](gar10.htm#fr_5.md) The author of the Book of
 Enoch alludes to the same legend: "Over these fountains also I perceived
 a place which had neither the firmament of heaven above it, nor the
 solid ground underneath it; neither was there water above it, nor any
@@ -349,7 +349,7 @@ before their time arrived, for they came not in their proper season.
 Therefore was he offended with them, and bound them until the
 consummation of their crimes in the secret year."--Chap. xviii.
 
-<span id="fn_6"></span>[39:\*](gar10.htm#fr_6) The Book of Enoch thus
+<span id="fn_6"></span>[39:\*](gar10.htm#fr_6.md) The Book of Enoch thus
 states the names and offices of the "Angels who watch": Uriel presides
 over clamour and terror; Raphael over the spirits of men; Ragiel
 inflicts punishment on the world and the luminaries; Michael, who
@@ -357,7 +357,7 @@ presides over human virtue, commands the nations. Sarakiel over the
 spirits of the children of men who transgress; Gabriel over Ikisat, over
 Paradise, and over the Cherubim.
 
-<span id="fn_7"></span>[40:\*](gar10.htm#fr_7) And again, the "sigil of
+<span id="fn_7"></span>[40:\*](gar10.htm#fr_7.md) And again, the "sigil of
 a man having a long face and beard, and eyebrows raised, seated upon a
 plough, and holding a fox and vulture, with four men lying upon his
 neck; such a gem being placed under your head when asleep, makes you
@@ -369,4 +369,4 @@ head of a sleeping person makes him see delightful visions."
 
 ------------------------------------------------------------------------
 
-[Next: Indian Sources of Gnosticism.--Manes](gar11)
+[Next: Indian Sources of Gnosticism.--Manes](gar11.md)

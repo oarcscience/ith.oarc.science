@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto42) 
-[Next](aoto44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto42.md) 
+[Next](aoto44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ would be on the establishment of the Phœnicians at Drepanum) to be
 rediscovered, when people had become convinced that the "Odyssey" was
 not written by the writer of the "Iliad." This idea has not yet been
 generally accepted for more than a hundred years, <span
-id="fr_92"></span>[\*](#fn_92) if so long, but until it was seized and
+id="fr_92"></span>[\*](#fn_92.md) if so long, but until it was seized and
 held firmly, no one was likely to suspect that the "Odyssey" could have
 come from Sicily, much less that it could have been written by a woman,
 for there is not one line in the "Iliad" which even hints at the
@@ -349,10 +349,10 @@ enough to justify me in having stated it. And so I leave it.
 
 ### Footnotes
 
-<span id="fn_92"></span>[262:\*](aoto43.htm#fr_92) I see that my
+<span id="fn_92"></span>[262:\*](aoto43.htm#fr_92.md) I see that my
 grandfather, Dr. Butler, of Shrewsbury, accepts it in his *Antient
 Geography*, published in 1813, but I do not know where he got if from.
 
 ------------------------------------------------------------------------
 
-[Next: Index](aoto44)
+[Next: Index](aoto44.md)

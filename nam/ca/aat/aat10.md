@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat09)  [Next](aat11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat09)  [Next](aat11.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ was from holding up the Sun that Mole's hands are bent so far back.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Coyote And Cloud (Achomawi)](aat11)
+[Next: 10. Coyote And Cloud (Achomawi)](aat11.md)

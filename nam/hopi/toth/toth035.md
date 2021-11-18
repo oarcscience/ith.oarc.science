@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth034)  [Next](toth036) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth034)  [Next](toth036.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 32. MÁSAUWUU AND THE HÁNO HUNTERS. <span id="fr_84"></span>[1](toth036.htm#fn_82)
+## 32. MÁSAUWUU AND THE HÁNO HUNTERS. <span id="fr_84"></span>[1](toth036.htm#fn_82.md)
 
 In Háno the people were living. In the winter it snowed very much and
 there was much snow, and the Hano went hunting. North of the village
@@ -43,4 +43,4 @@ been going around there the Másauwuu would still have a white head.
 
 ------------------------------------------------------------------------
 
-[Next: 33. Two Yáyaponchatu Trade In Oraíbi](toth036)
+[Next: 33. Two Yáyaponchatu Trade In Oraíbi](toth036.md)

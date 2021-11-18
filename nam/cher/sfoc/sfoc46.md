@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc45)  [Next](sfoc47) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc45)  [Next](sfoc47.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ any fears for his wife after performing it.
 
 ------------------------------------------------------------------------
 
-[Next: For Separation (of Lovers)](sfoc47)
+[Next: For Separation (of Lovers)](sfoc47.md)

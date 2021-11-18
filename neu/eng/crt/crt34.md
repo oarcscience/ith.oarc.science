@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt33)  [Next](crt35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt33)  [Next](crt35.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_26800"></span>
 
 [![The Lady Yvette the Fair.](tn/26800.jpg)  
-Click to enlarge](img/26800.jpg)  
+Click to enlarge](img/26800.jpg.md)  
 The Lady Yvette the Fair.  
 
 <span id="page_269">p. 269</span>
@@ -572,4 +572,4 @@ rode away in that direction whither Percival had gone.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Second](crt35)
+[Next: Chapter Second](crt35.md)

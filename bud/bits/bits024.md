@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits023) [Next](bits025)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits023) [Next](bits025.md)
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ instance, he then in the same way reflects on all other forms of Nature.
 
 ------------------------------------------------------------------------
 
-[Next: § 25. The Middle Doctrine](bits025)
+[Next: § 25. The Middle Doctrine](bits025.md)
 
  
 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti54)  [Next](eti56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti54)  [Next](eti56.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -155,7 +155,7 @@ I bowed my head.
 
 <span id="img_33100"></span> <span align="CENTER"> [![DESCRIPTION OF
 JOURNEY FROM K. \[KENTUCKY\] TO P.THE END OF EARTH.](tn/33100.jpg)  
-Click to enlarge](img/33100.jpg)  
+Click to enlarge](img/33100.jpg.md)  
 DESCRIPTION OF JOURNEY FROM K. \[KENTUCKY\] TO P.—“THE END OF EARTH.”  
 </span>
 
@@ -193,4 +193,4 @@ S, South Pole.
 ------------------------------------------------------------------------
 
 [Next: Chapter XLIX. Oscillating Through Space.—Earth's Shell Above
-Me](eti56)
+Me](eti56.md)

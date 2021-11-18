@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat15)  [Next](sat17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat15)  [Next](sat17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -31,7 +31,7 @@ CHRIST'S RESURRECTION</span>
 
 1\. <span class="smallcaps">We</span> are not to think that when Christ
 died the natural death in the human property, that he died as to his
-creaturely soul, <span id="fr_223"></span>[1](#fn_223) much less as to
+creaturely soul, <span id="fr_223"></span>[1](#fn_223.md) much less as to
 the Deity; also he did not disappear or die in the heavenly essentiality
 and in the heavenly tincture: This cannot be; only the will and dominion
 of self, viz. of the outward world, which domineered in man unto the own
@@ -167,7 +167,7 @@ introduced the voice which sounds in his presence again into us, viz.
 into his instrument, he is become that which I am, and has made me that
 which he is, so that I may say, that I am in my resignation in him his
 trumpet, and the sound of his instrument and divine voice, <span
-id="fr_224"></span>[1](#fn_224) at which now I rejoice in all my
+id="fr_224"></span>[1](#fn_224.md) at which now I rejoice in all my
 fellow-strings and voices, which with me are tuned and set as an eternal
 work, to the praise and glory of God.
 
@@ -220,7 +220,7 @@ him, as he pleases.
 which of grace he has put into me, thereby to allure my self-hood to
 him, viz. into the resignation; and so likewise, dear brethren, it shall
 again be represented to you out of his glass, <span
-id="fr_225"></span>[1](#fn_225) which he has set forth through my
+id="fr_225"></span>[1](#fn_225.md) which he has set forth through my
 capacity in him, as his instrument.
 
 19\. Thus it goes also in the philosophic work; Sulphur, Mercury, and
@@ -276,7 +276,7 @@ lustre, viz. to the white and red colour from the fire and light, which
 is the majestical \[colour, lustre, or glory\].
 
 23\. <span class="smallcaps">Christ</span> after his resurrection
-walked <span id="fr_226"></span>[1](#fn_226) forty days in the mystery
+walked <span id="fr_226"></span>[1](#fn_226.md) forty days in the mystery
 of all the three principles at once, in the property of the first Adam
 after his creation before his sleep, and before his Eve was formed, and
 appeared to his disciples in his property which he had here from the
@@ -313,7 +313,7 @@ arises in the tincture; for the spirit is the life; the body is only a
 figure of the life, and the blood is a mansion of the spirit.
 
 27\. The artist must well observe this; in the blood of the young man,
-when his pearl <span id="fr_227"></span>[1](#fn_227) gives itself to the
+when his pearl <span id="fr_227"></span>[1](#fn_227.md) gives itself to the
 three murtherers, that it also sheds its blood in and with the young
 man's, then the champion stands in hell, and disclaims the human
 self-hood: Then the white lion appears upon his crimson-coloured beast;
@@ -361,7 +361,7 @@ the other in love, and then there is no more any strife and contest.
 death with the pure life, and how he may awaken the dead and disappeared
 life, which is heavenly, and lies hidden and captivated in the curse, so
 that it may again receive the fire-soul; and if he does but bring it so
-far, it works of itself. <span id="fr_228"></span>[1](#fn_228)
+far, it works of itself. <span id="fr_228"></span>[1](#fn_228.md)
 
 32\. When the virgin again receives her bridegroom, who has been
 faithless, then he is prepared and fitted to the work; otherwise he is
@@ -396,7 +396,7 @@ soul again into heaven, or else there is no possibility: Now he cannot
 bring the soul in its iniquity into heaven, for it will not, and
 therefore he must bring the heaven into the soul, and wholly give in the
 heaven to the soul, that the soul may eat of heaven, whether she will or
-no; the heaven must be as death <span id="fr_229"></span>[1](#fn_229) in
+no; the heaven must be as death <span id="fr_229"></span>[1](#fn_229.md) in
 the soul, so that the soul cannot get rid of it, how angry soever she
 be, and vehemently rages against it, till she be overcome in her wrath,
 and enters with the desire into heaven, viz. into the disappeared
@@ -409,7 +409,7 @@ the murtherer is dismayed at the dear love-life, and arises in the
 flagrat in the heavenly essentiality; thus the disappeared essence does
 again receive the fire flagrat into itself, and wholly unites itself
 with the fire-life; and so the fire must burn in love and meekness, and
-forego <span id="fr_230"></span>[2](#fn_230) its right in the centre, as
+forego <span id="fr_230"></span>[2](#fn_230.md) its right in the centre, as
 the light which shines from the fire; thus and no otherwise the heavenly
 essence obtains its life; and as a fire does thoroughly heat an iron
 that it appears as if it were mere fire, and it is so, but the iron does
@@ -418,7 +418,7 @@ is manifest in the poisonful mercurial and martial fire-soul, and makes
 of seven wills only one, and yet seven remain, but the enmity ceases.
 
 36\. This is an universal, which also changes the enmity <span
-id="fr_231"></span>[3](#fn_231) or malignity of all diseases in the
+id="fr_231"></span>[3](#fn_231.md) or malignity of all diseases in the
 human body into one will \[into unity\]; so that the raging and raving,
 viz. the seven forms of life in their enmity become unanimous; and then
 the hunger of the disease ceases, and the process to the universal is as
@@ -443,25 +443,25 @@ for the way is child-like \[plain and easy\].
 
 ### Footnotes
 
-<span id="fn_223"></span>[152:1](sat16.htm#fr_223) Soulish creature.
+<span id="fn_223"></span>[152:1](sat16.htm#fr_223.md) Soulish creature.
 
-<span id="fn_224"></span>[155:1](sat16.htm#fr_224) Breath, air, tune.
+<span id="fn_224"></span>[155:1](sat16.htm#fr_224.md) Breath, air, tune.
 
-<span id="fn_225"></span>[156:1](sat16.htm#fr_225) Mirror.
+<span id="fn_225"></span>[156:1](sat16.htm#fr_225.md) Mirror.
 
-<span id="fn_226"></span>[157:1](sat16.htm#fr_226) Or conversed.
+<span id="fn_226"></span>[157:1](sat16.htm#fr_226.md) Or conversed.
 
-<span id="fn_227"></span>[158:1](sat16.htm#fr_227) Or virgin.
+<span id="fn_227"></span>[158:1](sat16.htm#fr_227.md) Or virgin.
 
-<span id="fn_228"></span>[159:1](sat16.htm#fr_228) It makes itself, or
+<span id="fn_228"></span>[159:1](sat16.htm#fr_228.md) It makes itself, or
 it has its own faber in itself.
 
-<span id="fn_229"></span>[160:1](sat16.htm#fr_229) Or as dead.
+<span id="fn_229"></span>[160:1](sat16.htm#fr_229.md) Or as dead.
 
-<span id="fn_230"></span>[160:2](sat16.htm#fr_230) Or leave.
+<span id="fn_230"></span>[160:2](sat16.htm#fr_230.md) Or leave.
 
-<span id="fn_231"></span>[160:3](sat16.htm#fr_231) Contrariety.
+<span id="fn_231"></span>[160:3](sat16.htm#fr_231.md) Contrariety.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](sat17)
+[Next: Chapter XIII](sat17.md)

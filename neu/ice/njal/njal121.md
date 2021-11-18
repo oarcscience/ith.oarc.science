@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal120)  [Next](njal122) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal120)  [Next](njal122.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ and proper vantage."
 
 ------------------------------------------------------------------------
 
-[Next: 122. Of The Judges](njal122)
+[Next: 122. Of The Judges](njal122.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng29)  [Next](nblng31) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng29)  [Next](nblng31.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ part in the fight at first, out of friendship for Walther.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXIX: How Hagen Would Not Rise For Kriemhild.](nblng31)
+[Next: Adventure XXIX: How Hagen Would Not Rise For Kriemhild.](nblng31.md)

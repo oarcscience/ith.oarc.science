@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar198) [Next](gbar200)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar198) [Next](gbar200.md)
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ condemned.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar200)
+[Next](gbar200.md)

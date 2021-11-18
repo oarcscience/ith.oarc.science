@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal012)  [Next](njal014) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal012)  [Next](njal014.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ house. And now all is quiet till men ride to the wedding.
 
 ------------------------------------------------------------------------
 
-[Next: 14. Glum's Wedding](njal014)
+[Next: 14. Glum's Wedding](njal014.md)

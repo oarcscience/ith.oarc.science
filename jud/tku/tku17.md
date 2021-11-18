@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku16)  [Next](tku18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku16)  [Next](tku18.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### CONCERNING THE EYES OF MACROPROSOPUS.
 
-112\. THE eyes of the White Head <span id="fr_24"></span>[1](#fn_23) are
+112\. THE eyes of the White Head <span id="fr_24"></span>[1](#fn_23.md) are
 diverse from all other eyes. Above the eye is no eyelid, neither is
 there an eyebrow over it.
 
@@ -67,7 +67,7 @@ in gladness and in perfection.
 descendeth, and darteth forth its rays, and igniteth three other lights,
 which are called NTzCh, *Netzach*, Victory, ChSD, *Chesed*, and
 Benignity, ThPARTh, *Tiphereth*, and Beauty; and they radiate in
-perfection and in gladness. <span id="fr_25"></span>[1](#fn_24)
+perfection and in gladness. <span id="fr_25"></span>[1](#fn_24.md)
 
 126\. "The third whiteness radiateth and shineth, and descendeth and
 ascendeth, and goeth forth from the part enclosing the brain, and
@@ -89,7 +89,7 @@ odours, in better than he at first possessed.
 
 131\. The second whiteness descendeth and ascendeth and shineth in three
 lights on the right-hand side, and they radiate and are bathed in that
-whiteness, like as when a man batheth in good [unguents](errata.htm#3)
+whiteness, like as when a man batheth in good [unguents](errata.htm#3.md)
 and odours, in better than he at first possessed.
 
 132\. The third whiteness shineth and ascendeth and descendeth, and
@@ -165,7 +165,7 @@ being beheld by the superior benign eye.
 
 147\. This is what is written, Gen. xlix. 23: "Joseph is the son of a
 fruitful bough; the son of a fruitful bough above Ayin." Why, "the son
-of a fruitful bough above Ayin?" <span id="fr_26"></span>[1](#fn_25) As
+of a fruitful bough above Ayin?" <span id="fr_26"></span>[1](#fn_25.md) As
 though to imply, "because of that eye which beheld him."
 
 148\. Also it is written, Prov. xxii. 9: "The bountiful eye shall be
@@ -259,16 +259,16 @@ of Days!"
 
 ### Footnotes
 
-<span id="fn_23"></span>[124:1](tku17.htm#fr_24) This, like
+<span id="fn_23"></span>[124:1](tku17.htm#fr_24.md) This, like
 Macroprosopus, is a title of Kether, the first Sephira. (See
 introduction.)
 
-<span id="fn_24"></span>[126:1](tku17.htm#fr_25) Netzach. Chesed, and
+<span id="fn_24"></span>[126:1](tku17.htm#fr_25.md) Netzach. Chesed, and
 Tiphereth, are respectively the seventh, fourth, and sixth Sephiroth.
 
-<span id="fn_25"></span>[128:1](tku17.htm#fr_26) The word Ayin means
+<span id="fn_25"></span>[128:1](tku17.htm#fr_26.md) The word Ayin means
 eye.--TRANS.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Concerning the Nose of Macroprosopus](tku18)
+[Next: Chapter X: Concerning the Nose of Macroprosopus](tku18.md)

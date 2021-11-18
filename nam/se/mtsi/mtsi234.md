@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi233)  [Next](mtsi235) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi233)  [Next](mtsi235.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ and they pulled all the hair out of his head.
 
 ------------------------------------------------------------------------
 
-[Next: 35. The Owl Persecutors (Second Version)](mtsi235)
+[Next: 35. The Owl Persecutors (Second Version)](mtsi235.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Next](dmp01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Next](dmp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](dmp01)
+[Next: Preface](dmp01.md)

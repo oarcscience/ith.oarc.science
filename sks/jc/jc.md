@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/jc)  [Previous](../ham/ham) 
-[Next](../kh41/kh41) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/jc)  [Previous](../ham/ham.md) 
+[Next](../kh41/kh41.md) 
 
 ------------------------------------------------------------------------
 
@@ -4118,4 +4118,4 @@ Index](../index)  [First Folio](../ff/jc)  [Previous](../ham/ham) 
 
 ------------------------------------------------------------------------
 
-[Next: King Henry the Fourth, Part I](../kh41/kh41) 
+[Next: King Henry the Fourth, Part I](../kh41/kh41.md) 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa02)  [Next](soa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa02)  [Next](soa04.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ From the fauna and flora we now turn to man.
 
 ------------------------------------------------------------------------
 
-[Next: Similarity of Language](soa04)
+[Next: Similarity of Language](soa04.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd08)  [Next](odd10) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd08)  [Next](odd10.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 <span id="img_13"></span> ![](img/13.jpg)
 
 ONCE upon a time there was a Rajah whose name was Chandra Rajah,  <span
-id="fr_36"></span>[1](#fn_36) and he had a learned Wuzeer or Minister,
+id="fr_36"></span>[1](#fn_36.md) and he had a learned Wuzeer or Minister,
 named Butti. Their mutual love was so great that they were more Like
 brothers than master and servant. Neither the Rajah nor the Wuzeer had
 any children, and both were equally anxious to have a son. At last, in
@@ -88,7 +88,7 @@ was resumed on its former footing. Then Rama said to Luxman, 'Four
 nights ago I dreamed a strange dream. I thought that for miles and miles
 I wandered through a dense jungle, after which I came upon a grove of
 Cocoa. nut trees, passing through which I reached one composed entirely
-of Guava trees, then one of Supari  <span id="fr_37"></span>[2](#fn_37)
+of Guava trees, then one of Supari  <span id="fr_37"></span>[2](#fn_37.md)
 trees, and lastly one of Copal trees. Beyond this lay a garden of
 flowers, of which the Malee's wife gave me a bunch; round the garden ran
 a large river, and on the other side of this I saw a fair palace
@@ -187,7 +187,7 @@ Rajah received them very graciously, but when he heard the object of
 their journey he shook his head, and said, 'My pretty fellows, far be it
 from me to thwart your intentions, if you are really determined to win
 my daughter the Princess Bargaruttee,  <span
-id="fr_38"></span>[3](#fn_38)--but as a friend I would counsel you to
+id="fr_38"></span>[3](#fn_38.md)--but as a friend I would counsel you to
 desist from the attempt,--you can find a hundred Princesses elsewhere
 willing to marry you; why, therefore, come here, where already a
 thousand Princes as fair as you have lost their lives? Cease to think of
@@ -229,7 +229,7 @@ Bargaruttee went to their tent; but Luxman (whose tender love for them
 was so great, that he usually watched all night through at their door)
 was sitting under a large tree close by, when two little owls flew over
 his head, and perching on one of the highest branches, began chatting to
-each other.  <span id="fr_39"></span>[4](#fn_39) The Wuzeer's son, who
+each other.  <span id="fr_39"></span>[4](#fn_39.md) The Wuzeer's son, who
 was in many ways wiser than most men, could understand their language.
 To his surprise he heard the little lady owl say to her husband, 'I wish
 you would tell me a story, my dear, it is such a long time since I have
@@ -367,15 +367,15 @@ husbands, and wives, and children do.
 
 ### Footnotes
 
-<span id="fn_36"></span>[1](odd09.htm#fr_36) Moon-King.
+<span id="fn_36"></span>[1](odd09.htm#fr_36.md) Moon-King.
 
-<span id="fn_37"></span>[2](odd09.htm#fr_37) Areca Catechu, the
+<span id="fn_37"></span>[2](odd09.htm#fr_37.md) Areca Catechu, the
 Betel-Nut Palm.
 
-<span id="fn_38"></span>[3](odd09.htm#fr_38) A name of the Ganges.
+<span id="fn_38"></span>[3](odd09.htm#fr_38.md) A name of the Ganges.
 
-<span id="fn_39"></span>[4](odd09.htm#fr_39) See Notes at the end.
+<span id="fn_39"></span>[4](odd09.htm#fr_39.md) See Notes at the end.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Little Surya Bai](odd10)
+[Next: VI. Little Surya Bai](odd10.md)

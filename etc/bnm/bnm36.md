@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm35)  [Next](bnm37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm35)  [Next](bnm37.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ bees were stinging them and driving the tree from the forest.
 
 ------------------------------------------------------------------------
 
-[Next: How The Blossoms Came To The Heather.](bnm37)
+[Next: How The Blossoms Came To The Heather.](bnm37.md)

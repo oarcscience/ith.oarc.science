@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml47)  [Next](yml49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml47)  [Next](yml49.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ great fire, and into it they threw the poor coyote. Here ends the story.
 
 ------------------------------------------------------------------------
 
-[Next: The Black Horse](yml49)
+[Next: The Black Horse](yml49.md)

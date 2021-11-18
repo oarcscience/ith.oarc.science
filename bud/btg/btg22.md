@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg21)  [Next](btg23) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg21)  [Next](btg23.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ religious discourse, rose from his seat and went away.
 
 ------------------------------------------------------------------------
 
-[Next: Sariputta And Moggallana](btg23)
+[Next: Sariputta And Moggallana](btg23.md)

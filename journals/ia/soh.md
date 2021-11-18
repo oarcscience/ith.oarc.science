@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Islamic
-Articles](../../isl/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Islamic
+Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -81,8 +81,8 @@ Strains from her Hafiz fond and true,<br />
 
 <span class="small">{This song is available in another translation as
 selection X in Gertrude Bell's [*Teachings of
-Hafiz*](../../isl/hafiz).}</span>
+Hafiz*](../../isl/hafiz.md).}</span>
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Islamic Articles](../../isl/etc/index)
+[Journals](../index) [Islamic Articles](../../isl/etc/index.md)

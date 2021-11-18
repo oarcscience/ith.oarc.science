@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som17) 
-[Next](som19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som17.md) 
+[Next](som19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ impersonal and neither knows nor cares who uses It, nor for what
 purpose; but, because It is impersonal, It is compelled, by Its very
 nature, to return to the thinker exactly what he thinks into It. The Law
 of mental equivalents must never be overlooked; for "Whatsoever a man
-soweth, that shall he also reap." <span id="fr_57"></span>[58](#fn_57)
+soweth, that shall he also reap." <span id="fr_57"></span>[58](#fn_57.md)
 
 **THE POSSIBILITIES OF THE LAW**
 
@@ -106,7 +106,7 @@ daily train our thought to recognize the Spirit in everything we do,
 say, or think. There is no other way, and to try any other way would be
 to make a complete failure. "Render to Cæsar the things that are
 Cæsar's; and to God the things that are God's." <span
-id="fr_58"></span>[59](#fn_58)
+id="fr_58"></span>[59](#fn_58.md)
 
 A constant realization of the Presence of Spirit will provide a sense of
 Divine Companionship that no other attitude could produce. Why should we
@@ -214,10 +214,10 @@ may become a part of our experience.
 
 ### Footnotes
 
-<span id="fn_57"></span>[176:58](som18.htm#fr_57) Gal. 6:7.
+<span id="fn_57"></span>[176:58](som18.htm#fr_57.md) Gal. 6:7.
 
-<span id="fn_58"></span>[177:59](som18.htm#fr_58) Mark 12:17.
+<span id="fn_58"></span>[177:59](som18.htm#fr_58.md) Mark 12:17.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson Four: The Control of Conditions](som19)
+[Next: Lesson Four: The Control of Conditions](som19.md)

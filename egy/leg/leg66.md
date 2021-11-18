@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg65.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,11 +31,11 @@ into it, and thus good and evil became mixed together. In § XLVIII.
 Plutarch quotes Empedocles, Anaxagoras, Aristotle, and Plato in support
 of his hypothesis of the Two Principles, and refers to Plato's Third
 Principle. § XLIX. Osiris represents the good qualities of the universal
-Soul, and Typhon the bad; Bebo <span id="fr_345"></span>[1](#fn_343) is
+Soul, and Typhon the bad; Bebo <span id="fr_345"></span>[1](#fn_343.md) is
 a malignant being like Typhon, with whom Manetho identifies him. § L.
 The ass, crocodile, and hippopotamus are all associated with Typhon; in
 the form of a crocodile Typhon escaped from Horus. <span
-id="fr_346"></span>[2](#fn_344)
+id="fr_346"></span>[2](#fn_344.md)
 
 <span id="page_248">p. 248</span>
 
@@ -51,11 +51,11 @@ Egyptians, of which the Egyptian texts now available give no proofs.
 
 ### Footnotes
 
-<span id="fn_342"></span>[246:1](leg65.htm#fr_344) Marked in the papyrus
+<span id="fn_342"></span>[246:1](leg65.htm#fr_344.md) Marked in the papyrus
 Sallier IV. as a particularly unlucky day.
 
-<span id="fn_343"></span>[247:1](leg66.htm#fr_345) In Egyptian, BEBI, or
+<span id="fn_343"></span>[247:1](leg66.htm#fr_345.md) In Egyptian, BEBI, or
 BABA, or BABAI, he was the first-born Son of Osiris.
 
-<span id="fn_344"></span>[247:2](leg66.htm#fr_346) See the Legend of
-*Heru-Behutet*, [p. 67](leg21.htm#page_67).
+<span id="fn_344"></span>[247:2](leg66.htm#fr_346.md) See the Legend of
+*Heru-Behutet*, [p. 67](leg21.htm#page_67.md).

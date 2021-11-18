@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Next](twp01) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Next](twp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ scanned at Intangible Textual Heritage, June 2002
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents.](twp01)
+[Next: Table of Contents.](twp01.md)

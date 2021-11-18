@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale02)  [Next](tale04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale02)  [Next](tale04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ steward asked to speak to me in private.
 <span id="img_01500"></span>
 
 [![THE CALF BEGS FOR ITS LIFE](tn/01500.jpg)  
-Click to enlarge](img/01500.jpg)  
+Click to enlarge](img/01500.jpg.md)  
 THE CALF BEGS FOR ITS LIFE  
 
 <span id="page_16">p. 16</span> <span id="page_17">p. 17</span>
@@ -165,4 +165,4 @@ With this agreement the second old man began in this way.
 ------------------------------------------------------------------------
 
 [Next: The Story of the Second Old Man, and of the Two Black
-Dogs](tale04)
+Dogs](tale04.md)

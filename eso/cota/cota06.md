@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cota05)  [Next](cota07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cota05)  [Next](cota07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Consciousness of the Atom*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 
 This is the fourth in the series of talks which we have had the past
 month, and perhaps by means of them we have been able to get an idea of
-one of the fundamental principles which [underlie](errata.htm#1)
+one of the fundamental principles which [underlie](errata.htm#1.md)
 evolution, and which can be seen working out in the solar system.
 
 Let us first briefly recapitulate, in order that we may approach our
@@ -453,4 +453,4 @@ following words:
 
 ------------------------------------------------------------------------
 
-[Next: Lecture V. The Evolution of Consciousness](cota07)
+[Next: Lecture V. The Evolution of Consciousness](cota07.md)

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](msj12) 
-[Next](msj14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](msj12.md) 
+[Next](msj14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master-Singers of Japan*, by Clara A. Walsh, \[1914\], at
 Intangible Textual Heritage
 
@@ -68,7 +68,7 @@ In rustling heaps piled high,
 
 Known and Unknown, the stranger guest,  
 Returning friends whom comrades greet,  
-Up to the Hill of Meeting's <span id="fr_4"></span>[\*](#fn_4) crest,  
+Up to the Hill of Meeting's <span id="fr_4"></span>[\*](#fn_4.md) crest,  
 Press the wayfarers' eager feet.  
 For here the fateful Barrier stands,  
 And some will part—and some will meet.
@@ -91,7 +91,7 @@ Sleep, baby, sleep! to the lilt of my song!
 
 ### Footnotes
 
-<span id="fn_4"></span>[71:\*](msj13.htm#fr_4) The allusion is to the
+<span id="fn_4"></span>[71:\*](msj13.htm#fr_4.md) The allusion is to the
 Octroi or Barriers formerly existing on the boundaries of the different
 provinces.
 
@@ -99,6 +99,6 @@ provinces.
 
 ------------------------------------------------------------------------
 
-[Next: XIII.](msj14)
+[Next: XIII.](msj14.md)
 
 </div>

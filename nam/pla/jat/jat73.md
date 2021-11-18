@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat72)  [Next](jat74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat72)  [Next](jat74.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ provided with a string. This way they make them.
 
 ------------------------------------------------------------------------
 
-[Next: 72. Making the Tipi](jat74)
+[Next: 72. Making the Tipi](jat74.md)

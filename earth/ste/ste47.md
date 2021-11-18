@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste46)  [Next](ste48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste46)  [Next](ste48.md) 
 
 ------------------------------------------------------------------------
 
@@ -222,4 +222,4 @@ asserted.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](ste48)
+[Next: Chapter II](ste48.md)

@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103498/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103498/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103498/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sbg00)    [Page
-Index](pageidx)    [Text \[Zipped\]](sbg.txt.gz)
+[Contents](#contents)    [Start Reading](sbg00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](sbg.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -42,11 +42,11 @@ Index](pageidx)    [Text \[Zipped\]](sbg.txt.gz)
 This is an early 20th century translation of the Bhagavad Gita into
 readable modern English prose. Because it is a fairly close translation,
 the line numbering will correspond closely to the [Sanskrit
-text](../bgs/index). The original book includes the Sanskrit text, but
+text](../bgs/index.md). The original book includes the Sanskrit text, but
 could not be incorporated into this etext for technical reasons.
 
 There is some debate over whether this was actually written by [Sister
-Nivedita](../niv/index) (Margaret Noble), and published under
+Nivedita](../niv/index) (Margaret Noble.md), and published under
 Swarupananda's byline for unknown reasons. It has been claimed that
 publishing a Gita translation by a woman or a foreigner would have been
 seen as inappropriate. However, Nivedita published numerous books openly
@@ -57,33 +57,33 @@ fit.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sbg00)  
-[Preface](sbg01)  
-[Contents](sbg02)  
-[Foreword](sbg03)  
-[Meditation](sbg04)  
-[Invocation](sbg05)  
-[First Chapter. The Grief of Arjuna](sbg06)  
-[Second Chapter. The Way of Knowledge](sbg07)  
-[Third Chapter. The Way of Action](sbg08)  
+<span id="contents"></span> [Title Page](sbg00.md)  
+[Preface](sbg01.md)  
+[Contents](sbg02.md)  
+[Foreword](sbg03.md)  
+[Meditation](sbg04.md)  
+[Invocation](sbg05.md)  
+[First Chapter. The Grief of Arjuna](sbg06.md)  
+[Second Chapter. The Way of Knowledge](sbg07.md)  
+[Third Chapter. The Way of Action](sbg08.md)  
 [Fourth Chapter. The Way of Renunciation of Action in
-Knowledge](sbg09)  
-[Fifth Chapter. The Way of Renunciation](sbg10)  
-[Sixth Chapter. The Way of Meditation](sbg11)  
-[Seventh Chapter. The Way of Knowledge with Realisation](sbg12)  
-[Eighth Chapter. The Way to the Imperishable Brahman](sbg13)  
+Knowledge](sbg09.md)  
+[Fifth Chapter. The Way of Renunciation](sbg10.md)  
+[Sixth Chapter. The Way of Meditation](sbg11.md)  
+[Seventh Chapter. The Way of Knowledge with Realisation](sbg12.md)  
+[Eighth Chapter. The Way to the Imperishable Brahman](sbg13.md)  
 [Ninth Chapter. The Way of Kingly Knowledge and the Kingly
-Secret](sbg14)  
-[Tenth Chapter. Glimpses of the Divine Glory](sbg15)  
-[Eleventh Chapter. The Vision of the Universal Form](sbg16)  
-[Twelfth Chapter. The Way of Devotion](sbg17)  
+Secret](sbg14.md)  
+[Tenth Chapter. Glimpses of the Divine Glory](sbg15.md)  
+[Eleventh Chapter. The Vision of the Universal Form](sbg16.md)  
+[Twelfth Chapter. The Way of Devotion](sbg17.md)  
 [Thirteenth Chapter. The Discrimination of the Kshetra and the
-Kshetrajna](sbg18)  
-[Fourteenth Chapter. The Discrimination of the Three Gunas](sbg19)  
-[Fifteenth Chapter. The Way to the Supreme Spirit](sbg20)  
+Kshetrajna](sbg18.md)  
+[Fourteenth Chapter. The Discrimination of the Three Gunas](sbg19.md)  
+[Fifteenth Chapter. The Way to the Supreme Spirit](sbg20.md)  
 [Sixteenth Chapter. The Classification of the Divine and the Non-Divine
-Attributes](sbg21)  
-[Seventeenth Chapter. The Enquiry into the Threefold Shraddha](sbg22)  
-[Eighteenth Chapter. The Way of Liberation in Renunciation](sbg23)  
-[The Greatness of the Gita](sbg24)  
-[Index](sbg25)  
+Attributes](sbg21.md)  
+[Seventeenth Chapter. The Enquiry into the Threefold Shraddha](sbg22.md)  
+[Eighteenth Chapter. The Way of Liberation in Renunciation](sbg23.md)  
+[The Greatness of the Gita](sbg24.md)  
+[Index](sbg25.md)  

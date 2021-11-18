@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca40)  [Next](fsca42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca40)  [Next](fsca42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ id="img_18200"></span>
 
 |                                                            |
 |------------------------------------------------------------|
-| ![A Pelican in her piety, wings displayed.](img/18200.jpg) |
+| ![A Pelican in her piety, wings displayed.](img/18200.jpg.md) |
 
 gluttonous, piscivorous water-bird, it was by the growth of legends
 transformed into a mystic emblem of Christ, whom Dante terms "Nostro
@@ -58,7 +58,7 @@ against the male bird and provoke his anger, so that he kills them; the
 mother returns to the nest in three days,
 
 <span id="img_18300"></span> ![Heraldic Pelican in her
-piety.](img/18300.jpg)
+piety.](img/18300.jpg.md)
 
 sits on the dead birds, pours tier blood over them, and they feed on the
 blood.
@@ -83,7 +83,7 @@ flames of Troy.
 The myth that pelicans feed their young with their
 
 <span id="img_18400"></span> ![Crest, a Pelican vulning herself proper,
-wings endorsed.](img/18400.jpg)
+wings endorsed.](img/18400.jpg.md)
 
 blood arose from the following habit, on which the whole superstructure
 of fable has been erected: They have a large bag attached to their
@@ -135,7 +135,7 @@ id="img_18600"></span>
 
 |                                        |
 |----------------------------------------|
-| ![The natural Pelican.](img/18600.jpg) |
+| ![The natural Pelican.](img/18600.jpg.md) |
 
 clemens" ("Tender-hearted to others, not himself").
 
@@ -151,4 +151,4 @@ Other mottoes for the pelican:
 
 ------------------------------------------------------------------------
 
-[Next: The Martlet](fsca42)
+[Next: The Martlet](fsca42.md)

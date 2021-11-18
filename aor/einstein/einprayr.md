@@ -10,17 +10,17 @@ University Press, 1979.*
 
 **Einstein on:**
 
--   **[Prayer](#PRAYER)**
--   **[Purpose in Nature](#PURPOSE)**
--   **the [Meaning of Life](#MEANING)**
--   **the [Soul](#SOUL)**
--   **a [Personal God](#GOD)**
+-   **[Prayer](#PRAYER.md)**
+-   **[Purpose in Nature](#PURPOSE.md)**
+-   **the [Meaning of Life](#MEANING.md)**
+-   **the [Soul](#SOUL.md)**
+-   **a [Personal God](#GOD.md)**
 
 ------------------------------------------------------------------------
 
 <span id="PRAYER"></span>Einstein on Prayer (pp. 32-33)
 
--   Return to **[Top](#TOP)**
+-   Return to **[Top](#TOP.md)**
 
 *A child in the sixth grade in a Sunday School in New York City, with
 the encouragement of her teacher, wrote to Einstein in Princeton on 19
@@ -31,7 +31,7 @@ pray for. Einstein replied as follows on 24 January 1936:*
 
 <span id="PURPOSE"></span>Einstein on Purpose in Nature (p. 39)
 
--   Return to **[Top](#TOP)**
+-   Return to **[Top](#TOP.md)**
 
 *In 1954 or 1955 Einstein received a letter citing a statement of his
 and a seemingly contradictory statement by a noted evolutionist
@@ -43,7 +43,7 @@ reply was actually sent:*
 
 <span id="MEANING"></span>Einstein on the Meaning of Life (pp. 26-27)
 
--   Return to **[Top](#TOP)**
+-   Return to **[Top](#TOP.md)**
 
 *The next excerpt is a letter written by Einstein in response to a
 19-year-old Rutger's University student, who had written to Einstein of
@@ -60,7 +60,7 @@ days of receiving the letter:*
 
 <span id="SOUL"></span>Einstein on the Soul
 
--   Return to **[Top](#TOP)**
+-   Return to **[Top](#TOP.md)**
 
 From p. 39
 
@@ -85,7 +85,7 @@ after death. There were other questions of a similar sort. On 5 February
 
 <span id="GOD"></span>Einstein on a Personal God
 
--   Return to **[Top](#TOP)**
+-   Return to **[Top](#TOP.md)**
 
 *On 22 March 1954 a self-made man sent Einstein in Princeton a long
 handwritten letter-four closely packed pages in English. The

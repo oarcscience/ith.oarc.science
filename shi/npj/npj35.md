@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj34) 
-[Next](npj36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj34.md) 
+[Next](npj36.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 
 PART I
 
-By SEAMI <span id="fr_186"></span>[1](#fn_184)
+By SEAMI <span id="fr_186"></span>[1](#fn_184.md)
 
 PERSONS
 
@@ -309,7 +309,7 @@ It is too much! Can it all be real?
 TRAVELLER.
 
 The father said "I will not show weakness," yet while he was
-[speaking](errata.htm#3) bravely  
+[speaking](errata.htm#3.md) bravely  
 Because she was his dear daughter  
 His secret tears  
 Could not be checked.
@@ -346,10 +346,10 @@ the girl restored to life.\]
 
 ### Footnotes
 
-<span id="fn_184"></span>[196:1](npj35.htm#fr_186) The play is given in
+<span id="fn_184"></span>[196:1](npj35.htm#fr_186.md) The play is given in
 a list of Seami's works composed on the authority of his great-grandson,
 Kwanze Nagatoshi, in 1524. Owada gives it as anonymous.
 
 ------------------------------------------------------------------------
 
-[Next: Hatsuyuki (Early Snow)](npj36)
+[Next: Hatsuyuki (Early Snow)](npj36.md)

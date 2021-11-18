@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl079)  [Next](cohl081) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl079)  [Next](cohl081.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 "Now it is said that you must relate what the messengers say about the
 coming end of the earth. Relate how all those who refuse to believe in
-Gai'wiio\` will suffer hardships. <span id="fr_73"></span>[1](#fn_73)
+Gai'wiio\` will suffer hardships. <span id="fr_73"></span>[1](#fn_73.md)
 Now when the earth is about to end the chiefs and head-men will disagree
 and that will be a sign. So also, the Honon'diont will disagree. Then
 will the relations know the truth."
@@ -21,9 +21,9 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_73"></span>[58:1](cohl080.htm#fr_73) See Introduction, [p.
-26](cohl012.htm#page_26).
+<span id="fn_73"></span>[58:1](cohl080.htm#fr_73.md) See Introduction, [p.
+26](cohl012.htm#page_26.md).
 
 ------------------------------------------------------------------------
 
-[Next: Section 70](cohl081)
+[Next: Section 70](cohl081.md)

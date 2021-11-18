@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama102) 
-[Next](kama104) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama102.md) 
+[Next](kama104.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ elephants train these animals without knowing the science of training
 animals, but from practice only. And similarly the people of the most
 distant provinces obey the laws of the kingdom from practice, and
 because there is a king over them, and without further reason. <span
-id="fr_7"></span>[1](kama101.htm#fn_0) And from experience we find that
+id="fr_7"></span>[1](kama101.htm#fn_0.md) And from experience we find that
 some women, such as daughters of princes and their ministers, and public
 women, are actually versed in the Kama Shastra.
 
@@ -57,7 +57,7 @@ of it, by studying its practice from some confidential friend. She
 should study alone in private the sixty-four practices that form a part
 of the Kama Shastra. Her teacher should be one of the following persons:
 the daughter of a nurse brought up with her and already married, <span
-id="fr_8"></span>[2](kama101.htm#fn_1) or a female friend who can be
+id="fr_8"></span>[2](kama101.htm#fn_1.md) or a female friend who can be
 trusted in everything, or the sister of her mother (i.e. her aunt), or
 an old female servant, or a female beggar who may have formerly lived in
 the family, or her own sister who can always be trusted.
@@ -185,16 +185,16 @@ is only acquainted with them for a short time.
 
 ### Footnotes
 
-<span id="fn_7"></span>[1](#fr_-1) The author wishes to prove that a
+<span id="fn_7"></span>[1](#fr_-1.md) The author wishes to prove that a
 great many things are done by people from practice and custom, without
 their being acquainted with the reason of things, or the laws on which
 they are based, and this is perfectly true.
 
-<span id="fn_8"></span>[2](#fr_-1) The proviso of being married applies
+<span id="fn_8"></span>[2](#fr_-1.md) The proviso of being married applies
 to all the teachers.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. On the Arrangements of a House, and Household
 Furniture; and About the Daily Life of a Citizen, His Companions,
-Amusements, Etc.](kama104)
+Amusements, Etc.](kama104.md)

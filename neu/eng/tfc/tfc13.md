@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tfc12)  [Next](tfc14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tfc12)  [Next](tfc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales from Chaucer*, by Charles Cowden Clarke, \[1833\], at Intangible
 Textual Heritage
 
@@ -104,7 +104,7 @@ all that my father bequeathed to me is gone to rack and ruin; a curse,
 therefore, light upon you, brother John!"
 
 "Stand still and hold your peace, you gadling," <span
-id="fr_34"></span>[\*](#fn_34) answered John, "you shall be glad enough
+id="fr_34"></span>[\*](#fn_34.md) answered John, "you shall be glad enough
 to have your food and clothing; what have you to do with lands?"
 
 <span id="page_151">p. 151</span>
@@ -213,7 +213,7 @@ It was night, and the bright moon was shining, when
 
 the two wrestlers came together. The champion cast about to throw his
 fellow, but he stood still, and bade him do his best. "Now that I have
-proved many of your turns," <span id="fr_35"></span>[\*](#fn_35) said
+proved many of your turns," <span id="fr_35"></span>[\*](#fn_35.md) said
 Gamelin, "you must prove one or two of mine." With that he went briskly
 in to his antagonist, and of all the turns he was master of he showed
 him but one. He threw him on his left side and broke three of his ribs:
@@ -308,7 +308,7 @@ knight told those who came in and looked upon him that he was mad.
 "Now, by my head, brother," said Gamelin, "I see that you are a false
 one." And when he had remained there two days and two nights without
 food, he said at last to Adam le Dispenser, <span
-id="fr_36"></span>[\*](#fn_36) "Adam, I have fasted over long; I beseech
+id="fr_36"></span>[\*](#fn_36.md) "Adam, I have fasted over long; I beseech
 you, therefore, of the great love which my father bore you, if you can
 come by the keys, that you will release me from bondage, and I will
 divide my inheritance with you."
@@ -434,7 +434,7 @@ gained his leave to bring them away by force.
 
 <span id="img_16100"></span> <span align="CENTER"> [![The
 Cook](tn/16100.jpg)  
-Click to enlarge](img/16100.jpg)  
+Click to enlarge](img/16100.jpg.md)  
 The Cook  
 </span>
 
@@ -493,7 +493,7 @@ said Gamelin; "help comes after sorrow, and, if I see right, there is
 good meat and drink." Adam looked under the bough, and was glad enough
 when he surely saw the fare, for sorely did he long after a good meal.
 Just at that moment, the master of the band noticed the two standing
-under the shaw, <span id="fr_37"></span>[\*](#fn_37) and desired his men
+under the shaw, <span id="fr_37"></span>[\*](#fn_37.md) and desired his men
 to go and bring them to him that he might inquire who they were. And
 quickly at the word seven started up from their
 
@@ -537,7 +537,7 @@ for a while he held sway under the woody shaws.
 The false knight, his brother, was now created sheriff, and through
 hatred and revenge he issued out an indictment against him. Then were
 all the bondmen of the knight sorry that the hue and cry of "Wolf's
-Head" <span id="fr_38"></span>[\*](#fn_38) should be proclaimed against
+Head" <span id="fr_38"></span>[\*](#fn_38.md) should be proclaimed against
 their young lord, and they sent messengers to seek him in the wilds and
 inform him of the event; also that all his goods were forfeit and taken
 away and his hirelings scattered. "Alas!" said Gamelin, "that my hand
@@ -689,24 +689,24 @@ AND NEXT BEGINS
 
 ### Footnotes
 
-<span id="fn_34"></span>[150:\*](tfc13.htm#fr_34) Gadling—an idle
+<span id="fn_34"></span>[150:\*](tfc13.htm#fr_34.md) Gadling—an idle
 vagabond. The brother calls him this name on account of its similarity
 to that of Gamelin, as well as through contempt.
 
-<span id="fn_35"></span>[154:\*](tfc13.htm#fr_35) Turn, a sleight in
+<span id="fn_35"></span>[154:\*](tfc13.htm#fr_35.md) Turn, a sleight in
 wrestling.
 
-<span id="fn_36"></span>[157:\*](tfc13.htm#fr_36) The dispenser was the
+<span id="fn_36"></span>[157:\*](tfc13.htm#fr_36.md) The dispenser was the
 steward of the store-room.
 
-<span id="fn_37"></span>[162:\*](tfc13.htm#fr_37) Shaw: a shade of
+<span id="fn_37"></span>[162:\*](tfc13.htm#fr_37.md) Shaw: a shade of
 trees.
 
-<span id="fn_38"></span>[164:\*](tfc13.htm#fr_38) This term evidently
+<span id="fn_38"></span>[164:\*](tfc13.htm#fr_38.md) This term evidently
 took its origin from the well-known proclamation of King Edgar, who, to
 clear the country of wolves, set a price upon every head that should be
 brought into the hundred or tithing court.
 
 ------------------------------------------------------------------------
 
-[Next: The Canon's Yeoman's Tale](tfc14)
+[Next: The Canon's Yeoman's Tale](tfc14.md)

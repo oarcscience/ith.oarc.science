@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,11 +20,11 @@ By Florence Mary Bennett
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rca00)
+[Contents](#contents)    [Start Reading](rca00.md)
 
 ------------------------------------------------------------------------
 
-After I finished the etext of [The Amazons](../ama/index), I did a
+After I finished the etext of [The Amazons](../ama/index.md), I did a
 search to see if there was any other material on the same subject in the
 public domain. This dissertation is the only other item that turned up.
 Bennett's thesis explores the possible religious beliefs of the Amazons.
@@ -47,12 +47,12 @@ literature. This monograph is a superb summation of this evidence.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rca00)  
-[Contents](rca01)  
-[Chapter I: The Amazons in Greek Legend](rca02)  
-[Chapter II: The Great Mother](rca03)  
-[Chapter III: Ephesian Artemis](rca04)  
-[Chapter IV: Artemis Astrateia and Apollo Amazonius](rca05)  
-[Chapter V: Ares](rca06)  
-[Conclusion](rca07)  
-[Bibliography](rca08)  
+<span id="contents"></span> [Title Page](rca00.md)  
+[Contents](rca01.md)  
+[Chapter I: The Amazons in Greek Legend](rca02.md)  
+[Chapter II: The Great Mother](rca03.md)  
+[Chapter III: Ephesian Artemis](rca04.md)  
+[Chapter IV: Artemis Astrateia and Apollo Amazonius](rca05.md)  
+[Chapter V: Ares](rca06.md)  
+[Conclusion](rca07.md)  
+[Bibliography](rca08.md)  

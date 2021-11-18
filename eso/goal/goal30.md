@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal29)  [Next](goal31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal29)  [Next](goal31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -126,7 +126,7 @@ past, has obscured the covenant relations that the Ten Commandments
 bear to God and to man. This covenant begins with the words, as
 translated in King James Version, "I am the <span
 class="smallcaps">Lord</span> thy God, who brought thee out of the land
-of [Egypt](errata.htm#18), out of the house of bondage," but when
+of [Egypt](errata.htm#18.md), out of the house of bondage," but when
 translated in the light of the meaning of the divine name these words
 read thus, "I will be your power like I have been in bringing you out of
 the land of Egypt, out of the house of servitude."
@@ -376,7 +376,7 @@ overcoming, for, "He that overcometh shall inherit all things; and I
 will be his God, and he shall be my son." First you must have dominion
 over the basic principles of your own body, and then over the dark souls
 from the invisible side, and as you go on step by step through this
-borderland that lies [between](errata.htm#19) the world of creation and
+borderland that lies [between](errata.htm#19.md) the world of creation and
 the world of eternal sabbath—rest with God—by the power of God you can
 conquer and subordinate to yourself every creative-law, headed and
 personified by dark intelligences. And when you have overcome your own
@@ -437,4 +437,4 @@ it</span>."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI. Part VI. Prayer](goal31)
+[Next: Chapter XXVI. Part VI. Prayer](goal31.md)

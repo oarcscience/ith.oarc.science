@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs31)  [Next](mhs33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs31)  [Next](mhs33.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ Ceres and Neptune were sometimes worshiped together in the same temple.
 
 ------------------------------------------------------------------------
 
-[Next: II. Salt Uncongenial To Witches And Devils](mhs33)
+[Next: II. Salt Uncongenial To Witches And Devils](mhs33.md)

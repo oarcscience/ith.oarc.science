@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt09)  [Next](egt11) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt09)  [Next](egt11.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ way, how could man ever have become acquainted with Divinity?
 
 ------------------------------------------------------------------------
 
-[Next: ON THE KNOWLEDGE OF GOD.](egt11)
+[Next: ON THE KNOWLEDGE OF GOD.](egt11.md)

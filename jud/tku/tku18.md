@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku17)  [Next](tku19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku17)  [Next](tku19.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ four comprehended in the seven steps of which we have just spoken, §
 
 199\. And this is the tradition: All things are comprehended in this
 Spirit of the Ancient of the Ancient Ones, <span
-id="fr_27"></span>[1](#fn_26) Who proceedeth from the concealed brain,
+id="fr_27"></span>[1](#fn_26.md) Who proceedeth from the concealed brain,
 into the gallery of the nostrils.
 
 200\. And come--see! Wherein is the difference between the nose (*of
@@ -156,9 +156,9 @@ they are not seen by any others.
 
 ### Footnotes
 
-<span id="fn_26"></span>[133:1](tku18.htm#fr_27) *I.e.*, The Spirit.
+<span id="fn_26"></span>[133:1](tku18.htm#fr_27.md) *I.e.*, The Spirit.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XI: Concerning the Beard of Macroprosopus in
-General](tku19)
+General](tku19.md)

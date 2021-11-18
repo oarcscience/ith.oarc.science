@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe14)  [Next](toe16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe14)  [Next](toe16.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,7 +250,7 @@ less changed with regard to the state in which they had been originally
 formed:—But it is here denied, that there are any parts of the earth
 which do not appear to have had the same origin with all the rest, so
 far as this consists in the collection of materials deposited at the
-bottom of the waters <span id="fr_27"></span>[21](#fn_27); for there is
+bottom of the waters <span id="fr_27"></span>[21](#fn_27.md); for there is
 no solid mass of land that may not be traced to this origin, either from
 its composition, or from its local connection with other masses, the
 nature of which in this respect are known. We have already given
@@ -467,7 +467,7 @@ that are at the place nearly vertical. In the neighbourhood, a slate
 quarry is worked of a pure blue slate; several of the strata of slate
 near the limestone are filled with fragments of limestone scattered
 about like the fragments of schist in the sandstone in the neighbourhood
-of the junction on our coast. <span id="fr_28"></span>[22](#fn_28)
+of the junction on our coast. <span id="fr_28"></span>[22](#fn_28.md)
 
 "Among the masses of limestone lately broken off for use, and having the
 fractures fresh, I found the forms of cockles quite distinct; and in
@@ -572,7 +572,7 @@ organisés. S'il s'en est trouvé, c'est apparemment dans des fentes de
 ces roches où ces corps ont été apportés par un deluge, et encastrées
 apres dans une matière infiltrée, de même qu'on a trouvé des restes
 d'Eléphans dans le filon de la mine d'argent du Schlangenberg. <span
-id="fr_29"></span>[23](#fn_29) Les caractères par lesquels plusieurs de
+id="fr_29"></span>[23](#fn_29.md) Les caractères par lesquels plusieurs de
 ces roches semblent avoir souffert des effets d'un feu-très-violent, les
 puissantes veines et amas des minéraux les plus riches qui se trouvent
 principalement dans la bande qui en est composée, leur position
@@ -1016,7 +1016,7 @@ sur-tout convaincu de la réalité d'un déluge arrivé sur notre terre,
 d'une catastrophe, dont j'avoue n'avoir pu concevoir la vraisemblance
 avant d'avoir parcouru ces places, et vu, par moi-même, tout ce qui peut
 y servir de preuve à cet évènement mémorable <span
-id="fr_30"></span>[24](#fn_30). Une infinité de ces ossemens couchés
+id="fr_30"></span>[24](#fn_30.md). Une infinité de ces ossemens couchés
 dans des lits mêlés de petites tellines calcinées, d'os de poissons, de
 glossopètres, de bois chargés d'ocre, etc. prouve déjà qu'ils ont été
 transportés par des inondations. Mais la carcasse d'un rhinocéros,
@@ -1044,7 +1044,7 @@ earth, in the resolution or decay of which they had been set at liberty,
 and were transported in the floods, our author would have no reason from
 those appearances to conclude, there had existed any other deluge than
 those produced by the waters of the land <span
-id="fr_31"></span>[25](#fn_31).
+id="fr_31"></span>[25](#fn_31.md).
 
 Having thus endeavoured to remove this prevailing prejudice, of there
 being primitive parts in this earth, parts of which the composition and
@@ -1060,18 +1060,18 @@ the same principles which apply so well to all the rest.
 
 ### Footnotes
 
-<span id="fn_27"></span>[v1:21](toe15.htm#fr_27) There are no collection
+<span id="fn_27"></span>[v1:21](toe15.htm#fr_27.md) There are no collection
 of those alpine masses in which may not be found in some of them sand,
 mica, and gravel; but these materials prove the existence of an earth,
 on which those fragments of greater masses had been formed, and more or
 less worn by attrition.
 
-<span id="fn_28"></span>[v1:22](toe15.htm#fr_28) This has a reference to
+<span id="fn_28"></span>[v1:22](toe15.htm#fr_28.md) This has a reference to
 very curious observations which we made upon the east coast where these
 mountains terminate, and which I am to describe in the course of this
 work.
 
-<span id="fn_29"></span>[v1:23](toe15.htm#fr_29) This is a very natural
+<span id="fn_29"></span>[v1:23](toe15.htm#fr_29.md) This is a very natural
 way of reasoning when a philosopher finds a fact, related by some
 naturalists, that does not correspond with his theory or systematic view
 of things. Here our author follows the general opinion in concluding
@@ -1085,11 +1085,11 @@ mineral vein, is certainly a fact of that kind, which should not be
 given as an example in geology without the most accurate scientifical
 examination of the subject.
 
-<span id="fn_30"></span>[v1:24](toe15.htm#fr_30) Voyez le Mémoire,
+<span id="fn_30"></span>[v1:24](toe15.htm#fr_30.md) Voyez le Mémoire,
 imprimé dans le XVII. volume des nouveaux Commentaires de l'Académie
 Imperiale de Petersbourgh.
 
-<span id="fn_31"></span>[v1:25](toe15.htm#fr_31) Since writing this, I
+<span id="fn_31"></span>[v1:25](toe15.htm#fr_31.md) Since writing this, I
 find my doubts in a great measure resolved, in reading M. Pallas's
 Journal, translated from the German by M. Gauthier de la Peyronie. What
 I had suspected is, I think, confirmed in the distinct account which M.
@@ -1116,4 +1116,4 @@ Tom. II. p. 377 and 403.)
 ------------------------------------------------------------------------
 
 [Next: Chapter V. Concerning that which may be termed the Primary Part
-of the Present Earth](toe16)
+of the Present Earth](toe16.md)

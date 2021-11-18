@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jon)  [Next](mar) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jon)  [Next](mar.md) 
 
 ------------------------------------------------------------------------
 
@@ -3934,4 +3934,4 @@ meriu kinjagh, eer gys jerrey yn theihll.
 
 ------------------------------------------------------------------------
 
-[Next: Mark](mar)
+[Next: Mark](mar.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip62)  [Next](fip64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip62)  [Next](fip64.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ blessed hands on."
 
 ------------------------------------------------------------------------
 
-[Next: The Demon Cat, by Lady Wilde](fip64)
+[Next: The Demon Cat, by Lady Wilde](fip64.md)

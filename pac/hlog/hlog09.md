@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog08)  [Next](hlog10) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog08)  [Next](hlog10.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ allegiance to some neighboring ruler.
 
 ------------------------------------------------------------------------
 
-[Next: V. Legendary Canoe-Making](hlog10)
+[Next: V. Legendary Canoe-Making](hlog10.md)

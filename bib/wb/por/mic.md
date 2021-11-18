@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jon)  [Next](nah) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jon)  [Next](nah.md) 
 
 ------------------------------------------------------------------------
 
@@ -415,4 +415,4 @@ a benignidade, conforme juraste a nossos pais desde os dias antigos.
 
 ------------------------------------------------------------------------
 
-[Next: Nahum](nah)
+[Next: Nahum](nah.md)

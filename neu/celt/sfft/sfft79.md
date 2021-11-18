@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft78)  [Next](sfft80) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft78)  [Next](sfft80.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE WITTY EXPLOITS OF MR. GEORGE BUCHANAN, THE KING'S FOOL. <span id="fr_157"></span>[1](#fn_157)
+### THE WITTY EXPLOITS OF MR. GEORGE BUCHANAN, THE KING'S FOOL. <span id="fr_157"></span>[1](#fn_157.md)
 
 #### I.
 
@@ -229,9 +229,9 @@ jump over the window, and so the tailor got clear off.
 
 ### Footnotes
 
-<span id="fn_157"></span>[303:1](sfft79.htm#fr_157) *John Cheap the
+<span id="fn_157"></span>[303:1](sfft79.htm#fr_157.md) *John Cheap the
 Chapman's Library*. By Dougal Graham (?).
 
 ------------------------------------------------------------------------
 
-[Next: The Haunted Ships](sfft80)
+[Next: The Haunted Ships](sfft80.md)

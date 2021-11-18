@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt11)  [Next](crt13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt11)  [Next](crt13.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_07400"></span>
 
 [![Sir Launcelot climbs to catch the lady's falcon](tn/07400.jpg)  
-Click to enlarge](img/07400.jpg)  
+Click to enlarge](img/07400.jpg.md)  
 Sir Launcelot climbs to catch the lady's falcon  
 
 <span id="page_75">p. 75</span>
@@ -562,4 +562,4 @@ and of his fellows.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eighth](crt13)
+[Next: Chapter Eighth](crt13.md)

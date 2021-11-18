@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog03)  [Next](kog05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog03)  [Next](kog05.md) 
 
 ------------------------------------------------------------------------
 
@@ -364,4 +364,4 @@ She married a kind husband, and they both lived happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Víťazko](kog05)
+[Next: 2. Víťazko](kog05.md)

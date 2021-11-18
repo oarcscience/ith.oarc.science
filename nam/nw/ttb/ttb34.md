@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb33)  [Next](ttb35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb33)  [Next](ttb35.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 <span id="page_47">p. 47</span>
 
 <span id="img_04700"></span> ![He’-e-tlik, The Lightning
-Snake](img/04700.jpg)
+Snake](img/04700.jpg.md)
 
 ### He’-e-tlik, THE LIGHTNING SNAKE
 
@@ -33,14 +33,14 @@ Thunder Bird who flew to his abode at the top of a high mountain.
 Tootooch lived on the flesh of whales and when in search of this food he
 would put on his feathered coat, wings and mask. Lightning Snake would
 attach himself to his master and they would then fly over the sea. When
-the whale was sighted Thunder Bird would [maneuver](errata.htm#21) in
+the whale was sighted Thunder Bird would [maneuver](errata.htm#21.md) in
 such a way as to be able to drop Lightning Snake onto the whale's back
 so as to pierce the animal's body. The shock of the lightning would kill
 the whale instantly. Thunder Bird would then seize the prey in his
 powerful talons and make off home.
 
 The power of Lightning Snake was often felt by mortals of the earth for
-their evil deeds. Once he [visited](errata.htm#22) his wrath upon a
+their evil deeds. Once he [visited](errata.htm#22.md) his wrath upon a
 whole tribe, punishing them for forgetting Nature's Code of Morals and
 the rules of hunting and fishing, thereby becoming selfish and
 aggressive to their neighbors instead of working for themselves. To
@@ -60,4 +60,4 @@ high." His power is never worshipped but is held in reverence.
 
 ------------------------------------------------------------------------
 
-[Next: Eh-Kolie, The Whale](ttb35)
+[Next: Eh-Kolie, The Whale](ttb35.md)

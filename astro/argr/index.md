@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](argr00)    [Page
-Index](pageidx)    [Text \[Zipped\]](argr.txt.gz)
+[Contents](#contents)    [Start Reading](argr00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](argr.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -50,15 +50,15 @@ Christ.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](argr00)  
-[Preface](argr01)  
-[Announcement](argr02)  
-[Introduction](argr03)  
-[Contents](argr04)  
-[Dedication](argr05)  
-[Lecture I. The Chaldeans](argr06)  
-[Lecture II. Babylon and Greece](argr07)  
-[Lecture III. The Dissemination in the West](argr08)  
-[Lecture IV. Theology](argr09)  
-[Lecture V. Astral Mysticism--Ethics and Cult](argr10)  
-[Lecture VI. Eschatology](argr11)  
+<span id="contents"></span> [Title Page](argr00.md)  
+[Preface](argr01.md)  
+[Announcement](argr02.md)  
+[Introduction](argr03.md)  
+[Contents](argr04.md)  
+[Dedication](argr05.md)  
+[Lecture I. The Chaldeans](argr06.md)  
+[Lecture II. Babylon and Greece](argr07.md)  
+[Lecture III. The Dissemination in the West](argr08.md)  
+[Lecture IV. Theology](argr09.md)  
+[Lecture V. Astral Mysticism--Ethics and Cult](argr10.md)  
+[Lecture VI. Eschatology](argr11.md)  

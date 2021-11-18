@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft24)  [Next](pft26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft24)  [Next](pft26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -166,8 +166,8 @@ All these contests had brought much money to Dogedog, and now he had to
 buy two horses to carry his sacks of silver. As soon as he reached home,
 he bought the house of a very rich man and went to live in it. And he
 was very happy, for he did not have to work any more.  <span
-id="fr_91"></span>[92](pft68.htm#fn_91)
+id="fr_91"></span>[92](pft68.htm#fn_91.md)
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](pft26)
+[Next: Introduction](pft26.md)

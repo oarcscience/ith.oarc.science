@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale23)  [Next](tale25) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale23)  [Next](tale25.md) 
 
 ------------------------------------------------------------------------
 
@@ -320,4 +320,4 @@ Shatterer of palaces and the Caterer for Cemeteries; to wit, the Cup of
 Death, and glory be to the Living One who dieth not! And there is a tale
 touching
 
-(*Next*) [THE LADY AND HER FIVE SUITORS](tale25)  
+(*Next*) [THE LADY AND HER FIVE SUITORS](tale25.md)  

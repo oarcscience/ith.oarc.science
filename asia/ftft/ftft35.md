@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft34)  [Next](ftft36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft34)  [Next](ftft36.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_266">p. 266</span>
 
-<span id="img_26600"></span> ![Little Hyacinth's Kiosk](img/26600.jpg)
+<span id="img_26600"></span> ![Little Hyacinth's Kiosk](img/26600.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a Padishah who had a son of incomparable beauty. Whoever
 saw him was struck with the handsome young Prince, and his father could
@@ -88,7 +88,7 @@ a minaret, sat in the valley, one leg upon the mountain and the other
 stretched out before her. She chewed a piece
 
 <span id="img_26800"></span> ![''O Father who art thou''? Asked the
-Padishah](img/26800.jpg)
+Padishah](img/26800.jpg.md)
 
 <span id="page_269">p. 269</span>
 
@@ -142,14 +142,14 @@ different directions to seek the missing ring, but failed to find it.
 After, wards they went to their mother and asked her whether
 
 <span id="img_27000"></span> ![In three strides she was back to her
-house](img/27000.jpg)
+house](img/27000.jpg.md)
 
 <span id="page_271">p. 271</span>
 
 <span id="img_27100"></span>
 
 [![He kissed her cheeks](tn/27100.jpg)  
-Click to enlarge](img/27100.jpg)  
+Click to enlarge](img/27100.jpg.md)  
 He kissed her cheeks  
 
 <span id="page_272">p. 272</span>
@@ -163,7 +163,7 @@ sent her sons away.
 
 |                     |
 |---------------------|
-| ![N](img/ninit.jpg) |
+| ![N](img/ninit.jpg.md) |
 
 EXT evening the Shah begged the Dew-mother to let him see the maiden
 once more. The woman took him again to the kiosk, strewed sand as
@@ -233,4 +233,4 @@ the Dew-mother.
 
 ------------------------------------------------------------------------
 
-[Next: Prince Ahmed](ftft36)
+[Next: Prince Ahmed](ftft36.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](boi02)  [Next](boi04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](boi02)  [Next](boi04.md) 
 
 ------------------------------------------------------------------------
 
@@ -271,4 +271,4 @@ eventually overwhelmed her, and put an end to her existence as a nation.
 
 ------------------------------------------------------------------------
 
-[Next: The Laments of Isis and Nephthys](boi04)
+[Next: The Laments of Isis and Nephthys](boi04.md)

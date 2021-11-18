@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu03)  [Next](cwiu05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu03)  [Next](cwiu05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -26,15 +26,15 @@ nearly everything else, originates, of course, with the Greeks; and it
 is certain that the speculations of the Greek thinkers about the
 infinity of space and the multiplicity of worlds have played an
 important part in the history we shall be dealing
-with.[4](cwiu16.htm#an_1_4) It seems to me, however, impossible to
+with.[4](cwiu16.htm#an_1_4.md) It seems to me, however, impossible to
 reduce the history of the infinitization of the universe to the
 rediscovery of the world-view of the Greek atomists which became better
-known through the newly discovered Lucretius[5](cwiu16.htm#an_1_5) or
-the newly translated Diogenes Laertius.[6](cwiu16.htm#an_1_6) We must
+known through the newly discovered Lucretius[5](cwiu16.htm#an_1_5.md) or
+the newly translated Diogenes Laertius.[6](cwiu16.htm#an_1_6.md) We must
 not forget that the infinitist conceptions of the Greek atomists were
 rejected by the main trend, or trends, of Greek philosophical and
 scientific thought—the Epicurean tradition was not a scientific
-one[7](cwiu16.htm#an_1_7)—and that for this very reason, though never
+one[7](cwiu16.htm#an_1_7.md)—and that for this very reason, though never
 forgotten, they could not be accepted by the mediaevals.
 
 We must not forget, moreover, that "influence" is not a simple, but on
@@ -70,7 +70,7 @@ the world) tells the latter that after all "the Cardinal of Cusa and
 several other Divines have supposed the world to be infinite, without
 ever being reproached by the Church; on the contrary, it is believed
 that to make His works appear very great is to honor
-God."[8](cwiu16.htm#an_1_8) The Cartesian interpretation of the teaching
+God."[8](cwiu16.htm#an_1_8.md) The Cartesian interpretation of the teaching
 of Nicholas of Cusa is rather plausible as, indeed, Nicholas of Cusa
 denies the finitude of the world and its enclosure by the walls of the
 heavenly spheres. But he
@@ -80,7 +80,7 @@ heavenly spheres. But he
 <span id="img_00700"></span> <span align="CENTER"> [![FIGURE 1&lt;br&gt;
 &lt;i&gt;Typical pre-Copernican diagram of the
 universe&lt;/i&gt;](tn/00700.jpg)  
-Click to enlarge](img/00700.jpg)  
+Click to enlarge](img/00700.jpg.md)  
 FIGURE 1  
 *Typical pre-Copernican diagram of the universe*  
 </span>
@@ -99,7 +99,7 @@ not "terminated" in its constituents, that is, that it utterly lacks
 precision and strict determination. It never reaches the "limit"; it is,
 in the full sense of the word, indetermined. It cannot, therefore, be
 the object of total and precise knowledge, but only that of a partial
-and conjectural one.[9](cwiu16.htm#an_1_9) It is the recognition of this
+and conjectural one.[9](cwiu16.htm#an_1_9.md) It is the recognition of this
 necessarily partial—and relative—character of our knowledge, of the
 impossibility of building a univocal and objective representation of the
 universe, that constitutes—in one of its aspects—the *docta ignorantia*,
@@ -112,7 +112,7 @@ lead, at least in his own thinking, to a revolution in science. Nicholas
 of Cusa, though it has often been so claimed, is not a forerunner of
 Nicholas Copernicus. And yet his conception is extremely interesting
 and, in some of its bold assertions—or negations—it goes far beyond
-anything that Copernicus ever dared to think of.[10](cwiu16.htm#an_1_10)
+anything that Copernicus ever dared to think of.[10](cwiu16.htm#an_1_10.md)
 
 The universe of Nicholas of Cusa is an expression or a development
 (*explicatio*), though, of course, necessarily imperfect and inadequate,
@@ -170,7 +170,7 @@ slowness or rest) are both outside it, and, as we have seen, coincide.
 Nicholas of Cusa is well aware of the originality of his thought and
 even more so of the rather paradoxical and strange character of the
 conclusion to which he is led by *learned
-ignorance*.[11](cwiu16.htm#an_1_11)
+ignorance*.[11](cwiu16.htm#an_1_11.md)
 
 <div class="iq">
 
@@ -181,7 +181,7 @@ astonished.
 </div>
 
 Nicholas of Cusa cannot help it: it has, indeed, been established by
-*learned ignorance*[12](cwiu16.htm#an_1_12)
+*learned ignorance*[12](cwiu16.htm#an_1_12.md)
 
 <div class="iq">
 
@@ -216,7 +216,7 @@ that is, beginning and end, foundation and limit, the "place" that
 
 Indeed, pursues Nicholas of Cusa, curiously reversing a famous
 Aristotelian argument in favour of the limitation of the
-world:[13](cwiu16.htm#an_1_13)
+world:[13](cwiu16.htm#an_1_13.md)
 
 <div class="iq">
 
@@ -234,7 +234,7 @@ circumference of it.
 
 <div class="iq">
 
-Thus,[14](cwiu16.htm#an_1_14)
+Thus,[14](cwiu16.htm#an_1_14.md)
 
 </div>
 
@@ -329,7 +329,7 @@ cannot ascribe to Nicholas of Cusa.
 
 Yet, in spite of this retention of the spheres, there is a good deal of
 relativism in Nicholas of Cusa's world-view. Thus he
-continues:[15](cwiu16.htm#an_1_15)
+continues:[15](cwiu16.htm#an_1_15.md)
 
 <div class="iq">
 
@@ -424,7 +424,7 @@ that of being the center of the universe), we have to admit the possible
 existence of different, equivalent world-images, the relative—in the
 full sense of the word—character of each of them, and the utter
 impossibility of forming an objectively valid representation of the
-universe.[16](cwiu16.htm#an_1_16)
+universe.[16](cwiu16.htm#an_1_16.md)
 
 <div class="iq">
 
@@ -452,14 +452,14 @@ it will appear almost as a wheel within a wheel, and a sphere within a
 sphere, having nowhere, as we have seen, either a center or a
 circumference.
 
-The ancients \[continues Nicholas of Cusa[17](cwiu16.htm#an_1_17)\] did
+The ancients \[continues Nicholas of Cusa[17](cwiu16.htm#an_1_17.md)\] did
 not arrive at the things that we have brought forth, because they were
 deficient in *learned ignorance*. But for us it is clear that this earth
 really moves, though it does not appear to us to do so, because we do
 not apprehend motion except by a certain comparison with something
 fixed. Thus if a man in a boat, in the middle of a stream, did not know
 that the water was flowing and did not see the bank, how would he
-apprehend that the boat was moving?[18](cwiu16.htm#an_1_18) Accordingly,
+apprehend that the boat was moving?[18](cwiu16.htm#an_1_18.md) Accordingly,
 as it will always seem to the observer, whether he be on the earth, or
 on the sun or on another star, that he is in the *quasi*-motionless
 center and that all the other \[things\] are in motion, he will
@@ -498,16 +498,16 @@ We cannot but admire the boldness and depth of Nicholas of Cusa's
 cosmological conceptions which culminate in the astonishing transference
 to the universe of the pseudo-Hermetic characterization of God: "a
 sphere of which the center is everywhere, and the circumference
-nowhere."[19](cwiu16.htm#an_1_19) But we must recognize also that,
+nowhere."[19](cwiu16.htm#an_1_19.md) But we must recognize also that,
 without going far beyond him, it is impossible to link them with
 astronomical science or to base upon them a "reformation of astronomy."
 This is probably why his conceptions were so utterly disregarded by his
 contemporaries, and even by his successors for more than a hundred
 years. No one, not even Lefèvre d’Etaples who edited his works, seems to
-have paid much attention to them,[20](cwiu16.htm#an_1_20) and it was
+have paid much attention to them,[20](cwiu16.htm#an_1_20.md) and it was
 only *after* Copernicus—who knew the works of Nicholas of Cusa, at least
 his treatise on the quadrature of the circle, but does not seem to have
-been influenced by him[21](cwiu16.htm#an_1_21)—and even *after* Giordano
+been influenced by him[21](cwiu16.htm#an_1_21.md)—and even *after* Giordano
 Bruno, who drew his chief inspiration from him, that Nicholas of Cusa
 achieved fame as a forerunner
 
@@ -548,7 +548,7 @@ as, for instance,
 <span id="page_20">p. 20</span>
 
 the attribution to the moon, and even to the earth, of a light of their
-own.[22](cwiu16.htm#an_1_22)
+own.[22](cwiu16.htm#an_1_22.md)
 
 <div class="iq">
 
@@ -569,7 +569,7 @@ it \[the sun\] would not appear as brilliant as it does to us; indeed,
 the body of the sun must have a certain more central part, a *quasi*
 earth, and a certain circumferential *quasi*-fiery lucidity, and in the
 middle a *quasi*-watery cloud and clear air, just as this earth has its
-elements.[23](cwiu16.htm#an_1_23) Thus someone outside the region of
+elements.[23](cwiu16.htm#an_1_23.md) Thus someone outside the region of
 fire would see \[the earth as\] a brilliant star, just as to us, who are
 outside the region of the sun, the sun appears very luminous.
 
@@ -578,7 +578,7 @@ outside the region of the sun, the sun appears very luminous.
 Having thus destroyed the very basis of the opposition of the "dark"
 earth and the "luminous" sun by establishing the similarity of their
 fundamental structure, Nicholas proclaims
-victoriously:[24](cwiu16.htm#an_1_24)
+victoriously:[24](cwiu16.htm#an_1_24.md)
 
 <div class="iq">
 
@@ -607,7 +607,7 @@ play a subservient part; on the contrary, it is by being themselves, and
 asserting their own natures, that the various components of the universe
 contribute to the perfection of the whole. Thus the earth in its way is
 just as perfect as the sun, or the fixed stars. Accordingly, Nicholas of
-Cusa continues:[25](cwiu16.htm#an_1_25)
+Cusa continues:[25](cwiu16.htm#an_1_25.md)
 
 <div class="iq">
 
@@ -618,7 +618,7 @@ fire, is large. And though the earth is smaller than the sun, as is
 known to us from its shadow and the eclipses, still we do not know
 whether the region of the sun is greater or smaller than the region of
 the earth; however, they cannot be precisely equal, as no star can be
-equal to another. Nor is the earth [the](errata.htm#0) smallest star,
+equal to another. Nor is the earth [the](errata.htm#0.md) smallest star,
 for it is larger than the moon, as we are taught by the experience of
 the eclipses, and even, as some people say, larger than Mercury, and
 possibly than some other stars. Thus the argument from the dimension to
@@ -634,7 +634,7 @@ planets because it receives an influence
 <div class="iq">
 
 from them: it is, as a matter of fact, quite possible that it influences
-them in its turn:[26](cwiu16.htm#an_1_26)
+them in its turn:[26](cwiu16.htm#an_1_26.md)
 
 </div>
 
@@ -649,7 +649,7 @@ unlimited but also everywhere populated, Nicholas of Cusa tells us that
 no conclusion as to the imperfection of the earth can be drawn from the
 alleged imperfection of its inhabitants, a conclusion that nobody, as
 far as I know, ever made, at least not in his time. Be that as it may,
-in any case Nicholas of Cusa asserts that,[27](cwiu16.htm#an_1_27)
+in any case Nicholas of Cusa asserts that,[27](cwiu16.htm#an_1_27.md)
 
 <div class="iq">
 
@@ -681,7 +681,7 @@ by flesh.
 
 And, finally, the great argument from change and corruptibility to
 baseness is declared by Nicholas of Cusa as having no more value than
-the rest. For[28](cwiu16.htm#an_1_28) "since there is one universal
+the rest. For[28](cwiu16.htm#an_1_28.md) "since there is one universal
 world, and since all the particular stars influence each other in a
 certain proportion," there is no reason to suppose that change and decay
 occur only here, on the earth, and not everywhere in the universe. Nay,
@@ -711,7 +711,7 @@ the infinite universe of the moderns.
 
 The honor of having asserted the infinity of the universe has also been
 claimed by modern historians for a sixteenth century writer, Marcellus
-Stellatus Palingenius,[29](cwiu16.htm#an_1_29) author of a widely read
+Stellatus Palingenius,[29](cwiu16.htm#an_1_29.md) author of a widely read
 and very popular book, *Zodiacus vitae*, which was published in Venice,
 in Latin, in 1534 (and translated into English in 1560); but, in my
 opinion, with even less reason than in the case of Nicholas of Cusa.
@@ -727,7 +727,7 @@ not find in his teaching any reference to the particular tenets of the
 cosmology of Nicholas of Cusa.
 
 Thus, for instance, when in discussing the general structure of the
-universe he tells us[30](cwiu16.htm#an_1_30)
+universe he tells us[30](cwiu16.htm#an_1_30.md)
 
 <div class="iq">
 
@@ -748,7 +748,7 @@ the terrestrial and the celestial regions; and it is. just the
 imperfection of the former that leads him to the denial of its being the
 only populated place in the world.
 
-Indeed,[31](cwiu16.htm#an_1_31)
+Indeed,[31](cwiu16.htm#an_1_31.md)
 
 <div class="iq">
 
@@ -760,7 +760,7 @@ O rather void and empty mindes, that thus yourselves persuade.
 </div>
 
 It is clear that we cannot share the errors of these "empty mindes." It
-is clear, too, that[32](cwiu16.htm#an_1_32)
+is clear, too, that[32](cwiu16.htm#an_1_32.md)
 
 <div class="iq">
 
@@ -773,8 +773,8 @@ But perfect Kings and people eke, all things are perfect there.
 
 Yet Palingenius does not assert the infinity of the world. It is true
 that, applying consistently the principle to which Professor Lovejoy has
-given the name of *principle* of *plenitude*,[33](cwiu16.htm#an_1_33) he
-denies the finitude of God's creation, and says:[34](cwiu16.htm#an_1_34)
+given the name of *principle* of *plenitude*,[33](cwiu16.htm#an_1_33.md) he
+denies the finitude of God's creation, and says:[34](cwiu16.htm#an_1_34.md)
 
 <div class="iq">
 
@@ -799,7 +799,7 @@ did.
 </div>
 
 Nevertheless he maintains the finitude of the *material world*, enclosed
-and encompassed by the eight heavenly spheres:[35](cwiu16.htm#an_1_35)
+and encompassed by the eight heavenly spheres:[35](cwiu16.htm#an_1_35.md)
 
 <div class="iq">
 
@@ -833,4 +833,4 @@ infinite.
 
 ------------------------------------------------------------------------
 
-[Next: II. The New Astronomy and the New Metaphysics](cwiu05)
+[Next: II. The New Astronomy and the New Metaphysics](cwiu05.md)

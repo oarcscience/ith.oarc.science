@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr09)  [Next](wsgr11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr09)  [Next](wsgr11.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ one of the
 <span id="img_04600"></span>
 
 [![](tn/04600.jpg)  
-Click to enlarge](img/04600.jpg)
+Click to enlarge](img/04600.jpg.md)
 
 <span id="page_47">p. 47</span>
 
@@ -148,4 +148,4 @@ called frijolitos.
 
 ------------------------------------------------------------------------
 
-[Next: The Magnolia Babies](wsgr11)
+[Next: The Magnolia Babies](wsgr11.md)

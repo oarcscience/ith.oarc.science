@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](spc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](spc09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sacred Places in China*, by Carl F. Kupfer, \[1911\], at Intangible
 Textual Heritage
 
@@ -51,7 +51,7 @@ transgressors.
 
 This religious indifference upon the part of the Government has not
 existed without showing signs of weakness and
-[vacillation](errata.htm#5). Notice, for example, the policy pursued by
+[vacillation](errata.htm#5.md). Notice, for example, the policy pursued by
 the most enlightened and energetic Emperor of the present dynasty, *Kang
 Hsi*. As Emperor he was the nation's High Priest, and worshiped
 *Shangti*—the High Ruler, at the Altar of Heaven. And in his sacred
@@ -82,7 +82,7 @@ With such lack of conviction, is it strange that Confucianism
 <span id="img_10900"></span> <span align="CENTER"> [![THE FOUNDERS OF
 THREE RELIGIONS.&lt;br&gt; LAOTSZ,    CONFUCIUS,    BUDDHA,&lt;br&gt;
 ONCE ANTAGONISTIC, NOW SILENT PARTNERS.](tn/10900.jpg)  
-Click to enlarge](img/10900.jpg)  
+Click to enlarge](img/10900.jpg.md)  
 THE FOUNDERS OF THREE RELIGIONS.  
 LAOTSZ,    CONFUCIUS,    BUDDHA,  
 ONCE ANTAGONISTIC, NOW SILENT PARTNERS.  

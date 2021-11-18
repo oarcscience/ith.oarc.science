@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst082)  [Next](inst084) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst082)  [Next](inst084.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,13 +96,13 @@ should be exercised and administered solely by his word; yet as he does
 not dwell among us in visible presence, so as to declare his will to us
 by his own lips, he in this (as we have said) uses the ministry of men,
 by making them, as it were, his substitutes,53  <span
-id="fr_537"></span>[538](#fn_537) not by transferring his right and
+id="fr_537"></span>[538](#fn_537.md) not by transferring his right and
 honour to them, but only doing his own work by their lips, just as an
 artificer uses a tool for any purpose. What I have previously expounded
 (chap. 1 sec. 5) I am again forced to repeat. God might have acted, in
 this respect, by himself, without any aid or instrument, or might even
 have done it by angels; but there are several reasons why he rather
-chooses to employ men.53  <span id="fr_538"></span>[539](#fn_538) First,
+chooses to employ men.53  <span id="fr_538"></span>[539](#fn_538.md) First,
 in this way he declares his condescension towards us, employing men to
 perform the function of his ambassadors in the world, to be the
 interpreters of his secret will; in short, to represent his own person.
@@ -120,7 +120,7 @@ name of God, we give the best proof of our piety and obedience, by
 listening with docility to his servant, though not in any respect our
 superior. Accordingly, he hides the treasure of his heavenly wisdom in
 frail earthen vessels (<span id="iv.iv.iv-p22.1"></span>[2 Cor.
-4:7](../../../bib/kjv/co2004.htm#007)<span id="iv.iv.iv-p22.1"></span>),
+4:7](../../../bib/kjv/co2004.htm#007)<span id="iv.iv.iv-p22.1"></span>.md),
 that he may have a more certain proof of the estimation in which it is
 held by us. Moreover, nothing was fitter to cherish mutual charity than
 to bind men together by this tie, appointing one of them as a pastor to
@@ -154,7 +154,7 @@ whole body fitly joined together and compacted by that which every joint
 supplieth, according to the effectual working in the measure of every
 part, maketh increase of the body unto the edifying of itself in love”
 (<span id="iv.iv.iv-p22.2"></span>[Eph
-4:4-16](../../../bib/kjv/eph004.htm#004)<span
+4:4-16](../../../bib/kjv/eph004.htm#004.md)<span
 id="iv.iv.iv-p22.2"></span>).
 
 <span id="iv.iv.iv-p23"></span>2. By these words he shows that the
@@ -164,7 +164,7 @@ intimates, that the Church cannot be kept safe, unless supported by
 those guards to which the Lord has been pleased to commit its safety.
 Christ “ascended up far above all heavens, that he might fill all
 things” (<span id="iv.iv.iv-p23.1"></span>[Eph.
-4:10](../../../bib/kjv/eph004.htm#010)<span
+4:10](../../../bib/kjv/eph004.htm#010.md)<span
 id="iv.iv.iv-p23.1"></span>). The mode of filling is this: By the
 ministers to whom he has committed this office, and given grace to
 discharge it, he dispenses and distributes his gifts to the Church, and
@@ -191,16 +191,16 @@ that in raising up teachers, he confers a special benefit on men, when
 he bids his prophet exclaim, “How beautiful upon the mountains are the
 feet of him that bringeth good tidings, that publisheth peace” (<span
 id="iv.iv.iv-p24.1"></span>[Isa.
-52:7](../../../bib/kjv/isa052.htm#007)<span
+52:7](../../../bib/kjv/isa052.htm#007.md)<span
 id="iv.iv.iv-p24.1"></span>); when he calls the apostles the light of
 the world and the salt of the earth (<span
 id="iv.iv.iv-p24.2"></span>[Matt.
-5:13](../../../bib/kjv/mat005.htm#013),
-[14](../../../bib/kjv/mat005.htm#014)<span id="iv.iv.iv-p24.2"></span>).
+5:13](../../../bib/kjv/mat005.htm#013.md),
+[14](../../../bib/kjv/mat005.htm#014)<span id="iv.iv.iv-p24.2"></span>.md).
 Nor could the office be more highly eulogised than when he said, “He
 that heareth you heareth me; and he that despiseth you despiseth me”
 (<span id="iv.iv.iv-p24.3"></span>[Luke
-10:16](../../../bib/kjv/luk010.htm#016)<span
+10:16](../../../bib/kjv/luk010.htm#016.md)<span
 id="iv.iv.iv-p24.3"></span>). But the most striking passage of all is
 that in the Second Epistle to the Corinthians, where Paul treats as it
 were professedly of this question. He contends, that there is nothing in
@@ -214,13 +214,13 @@ very necessary it is, he has declared not only by words but also by
 examples. When he was pleased to shed the light of his truth in greater
 effulgence on Cornelius, he sent an angel from heaven to despatch Peter
 to him (<span id="iv.iv.iv-p24.4"></span>[Acts
-10:3](../../../bib/kjv/act010.htm#003)<span
+10:3](../../../bib/kjv/act010.htm#003.md)<span
 id="iv.iv.iv-p24.4"></span>). When he was pleased to call Paul to the
 knowledge of himself, and ingraft him into the Church, he does not
 address him with his own voice, but sends him to a man from whom he may
 both obtain the doctrine of salvation and the sanctification of baptism
 (<span id="iv.iv.iv-p24.5"></span>[Acts
-9:6-20](../../../bib/kjv/act009.htm#006)<span
+9:6-20](../../../bib/kjv/act009.htm#006.md)<span
 id="iv.iv.iv-p24.5"></span>). If it was not by mere accident that the
 angel, who is the interpreter of God, abstains from declaring the will
 of God, and orders a man to be called to declare it; that Christ, the
@@ -228,7 +228,7 @@ only Master of believers, commits Paul to the teaching of a man, that
 Paul whom he had determined to carry into the third heaven, and honour
 with a wondrous revelation of things that could not be spoken (<span
 id="iv.iv.iv-p24.6"></span>[2 Cor.
-12:2](../../../bib/kjv/co2012.htm#002)<span
+12:2](../../../bib/kjv/co2012.htm#002.md)<span
 id="iv.iv.iv-p24.6"></span>), who will presume to despise or disregard
 as superfluous that ministry, whose utility God has been pleased to
 attest by such evidence?
@@ -238,14 +238,14 @@ of the Church, according to the institution of Christ, are named by
 Paul, first, *Apostles*; secondly, *Prophets*; thirdly, *Evangelists*;
 fourthly, *Pastors*; and, lastly, *Teachers* (<span
 id="iv.iv.iv-p25.1"></span>[Eph.
-4:11](../../../bib/kjv/eph004.htm#011)<span
+4:11](../../../bib/kjv/eph004.htm#011.md)<span
 id="iv.iv.iv-p25.1"></span>). Of these, only the two last have an
 ordinary office in the Church. The Lord raised up the other three at the
 beginning of his kingdom, and still occasionally raises them up when the
 necessity of the times requires. The nature of the apostolic function is
 clear from the command, “Go ye into all the world, and preach the Gospel
 to every creature” (<span id="iv.iv.iv-p25.2"></span>[Mark
-16:15](../../../bib/kjv/mar016.htm#015)<span
+16:15](../../../bib/kjv/mar016.htm#015.md)<span
 id="iv.iv.iv-p25.2"></span>). No fixed limits are given them, but the
 whole world is assigned to be reduced under the obedience of Christ,
 that by spreading the Gospel as widely as they could, they might
@@ -265,7 +265,7 @@ were next them in office, and even acted as their substitutes. Such were
 Luke, Timothy, Titus, and the like; perhaps, also, the seventy disciples
 whom our Saviour appointed in the second place to the apostles (<span
 id="iv.iv.iv-p25.3"></span>[Luke
-10:1](../../../bib/kjv/luk010.htm#001)<span
+10:1](../../../bib/kjv/luk010.htm#001.md)<span
 id="iv.iv.iv-p25.3"></span>). According to this interpretation, which
 appears to me consonant both to the words and the meaning of Paul, those
 three functions were not instituted in the Church to be perpetual, but
@@ -294,7 +294,7 @@ accompanied it, but the office of teachers was almost of the same
 nature, and had altogether the same end. In like manner, the twelve,
 whom the Lord chose to publish the new preaching of the Gospel to the
 world (<span id="iv.iv.iv-p26.1"></span>[Luke
-6:13](../../../bib/kjv/luk006.htm#013)<span
+6:13](../../../bib/kjv/luk006.htm#013.md)<span
 id="iv.iv.iv-p26.1"></span>), excelled others in rank and dignity. For
 although, from the nature of the case, and etymology of the word, all
 ecclesiastical officers may be properly called apostles, because they
@@ -305,7 +305,7 @@ the twelve (to the number of whom Paul was afterwards added) should be
 distinguished from others by a peculiar title. The same name, indeed, is
 given by Paul to Andronicus and Junia, who, he says, were “of note among
 the apostles” (<span id="iv.iv.iv-p26.2"></span>[Rom.
-16:7](../../../bib/kjv/rom016.htm#007)<span
+16:7](../../../bib/kjv/rom016.htm#007.md)<span
 id="iv.iv.iv-p26.2"></span>); but when he would speak properly, he
 confines the term to that primary order. And this is the common use of
 Scripture. Still pastors (except that each has the government of a
@@ -318,9 +318,9 @@ Gospel, and baptise those who believed for the remission of sins. He had
 previously commanded that they should distribute the sacred symbols of
 his body and blood after his example (<span
 id="iv.iv.iv-p27.1"></span>[Mt.
-28:19](../../../bib/kjv/mat028.htm#019)<span
+28:19](../../../bib/kjv/mat028.htm#019.md)<span
 id="iv.iv.iv-p27.1"></span>; <span id="iv.iv.iv-p27.2"></span>[Luke
-22:19](../../../bib/kjv/luk022.htm#019)<span
+22:19](../../../bib/kjv/luk022.htm#019.md)<span
 id="iv.iv.iv-p27.2"></span>). Such is the sacred, inviolable, and
 perpetual law, enjoined on those who succeed to the place of the
 apostles,—they receive a commission to preach the Gospel and administer
@@ -329,12 +329,12 @@ falsely pretend to the office of apostles. But what shall we say of
 pastors? Paul speaks not of himself only but of all pastors, when he
 says, “Let a man so account of us, as of the ministers of Christ, and
 stewards of the mysteries of God” (<span id="iv.iv.iv-p27.3"></span>[I
-Cor. 4:1](../../../bib/kjv/co1004.htm#001)<span
+Cor. 4:1](../../../bib/kjv/co1004.htm#001.md)<span
 id="iv.iv.iv-p27.3"></span>). Again, in another passage, he describes a
 bishop as one “holding fast the faithful word as he hath been taught,
 that he may be able by sound doctrine both to exhort and convince the
 gainsayers” (<span id="iv.iv.iv-p27.4"></span>[Tit.
-1:9](../../../bib/kjv/tit001.htm#009)<span id="iv.iv.iv-p27.4"></span>).
+1:9](../../../bib/kjv/tit001.htm#009)<span id="iv.iv.iv-p27.4"></span>.md).
 From these and similar passages which everywhere occur, we may infer
 that the two principal parts of the office of pastors are to preach the
 Gospel and administer the sacraments. But the method of teaching
@@ -346,8 +346,8 @@ also to the Greeks, repentance toward God, and faith toward our Lord
 Jesus Christ.” A little after he says, “Remember, that, for the space of
 three years, I ceased not to warn every one night and day with tears”
 (<span id="iv.iv.iv-p27.5"></span>[Acts
-20:20](../../../bib/kjv/act020.htm#020),
-[31](../../../bib/kjv/act020.htm#031)<span id="iv.iv.iv-p27.5"></span>).
+20:20](../../../bib/kjv/act020.htm#020.md),
+[31](../../../bib/kjv/act020.htm#031)<span id="iv.iv.iv-p27.5"></span>.md).
 Our present purpose, however, is not to enumerate the separate qualities
 of a good pastor, but only to indicate what those profess who call
 themselves pastors—viz. that in presiding over the Church they have not
@@ -359,12 +359,12 @@ die; and thou givest him not warning, nor speakest to warn the wicked
 from his wicked way, to save his life; the same wicked man shall die in
 his iniquity; but his blood will I require at thine hand” (<span
 id="iv.iv.iv-p27.6"></span>[Ezek.
-3:18](../../../bib/kjv/eze003.htm#018)<span
+3:18](../../../bib/kjv/eze003.htm#018.md)<span
 id="iv.iv.iv-p27.6"></span>). What Paul says of himself is applicable to
 all pastors: “For though I preach the Gospel, I have nothing to glory
 of: for necessity is laid upon me; yea, woe is unto me if I preach not
 the Gospel” (<span id="iv.iv.iv-p27.7"></span>[1 Cor.
-4:16](../../../bib/kjv/co1004.htm#016)<span
+4:16](../../../bib/kjv/co1004.htm#016.md)<span
 id="iv.iv.iv-p27.7"></span>). In short, what the apostles did to the
 whole world, every pastor should do to the flock over which he is
 appointed.
@@ -384,20 +384,20 @@ province. Nor is this a human invention. It is an ordinance of God. For
 we read that Paul and Barnabas appointed presbyters over each of the
 churches of Lystra, Antioch, and Iconium (<span
 id="iv.iv.iv-p28.1"></span>[Acts
-14:23](../../../bib/kjv/act014.htm#023)<span
+14:23](../../../bib/kjv/act014.htm#023.md)<span
 id="iv.iv.iv-p28.1"></span>); and Paul himself enjoins Titus to ordain
 presbyters in every town (<span id="iv.iv.iv-p28.2"></span>[Tit.
-1:5](../../../bib/kjv/tit001.htm#005)<span id="iv.iv.iv-p28.2"></span>).
+1:5](../../../bib/kjv/tit001.htm#005)<span id="iv.iv.iv-p28.2"></span>.md).
 In like manner, he mentions the bishops of the Philippians, and
 Archippus, the bishop of the Colossians (<span
 id="iv.iv.iv-p28.3"></span>[Phil.
-1:1](../../../bib/kjv/phi001.htm#001)<span id="iv.iv.iv-p28.3"></span>;
+1:1](../../../bib/kjv/phi001.htm#001.md)<span id="iv.iv.iv-p28.3"></span>;
 <span id="iv.iv.iv-p28.4"></span>[Col.
-4:17](../../../bib/kjv/col004.htm#017)<span
+4:17](../../../bib/kjv/col004.htm#017.md)<span
 id="iv.iv.iv-p28.4"></span>). And in the Acts we have his celebrated
 address to the presbyters of the Church of Ephesus (<span
 id="iv.iv.iv-p28.5"></span>[Acts
-20:28](../../../bib/kjv/act020.htm#028)<span
+20:28](../../../bib/kjv/act020.htm#028.md)<span
 id="iv.iv.iv-p28.5"></span>). Let every one, then, who undertakes the
 government and care of one church, know that he is bound by this law of
 divine vocation, not that he is astricted to the soil (as lawyers
@@ -415,15 +415,15 @@ I have done it on the authority of Scripture, which uses the words as
 synonymous. To all who discharge the ministry of the word it gives the
 name of bishops. Thus Paul, after enjoining Titus to ordain elders in
 every city, immediately adds, “A bishop must be blameless,” &c. (<span
-id="iv.iv.iv-p29.1"></span>[Titus 1:5](../../../bib/kjv/tit001.htm#005),
-[7](../../../bib/kjv/tit001.htm#007)<span id="iv.iv.iv-p29.1"></span>).
+id="iv.iv.iv-p29.1"></span>[Titus 1:5](../../../bib/kjv/tit001.htm#005.md),
+[7](../../../bib/kjv/tit001.htm#007)<span id="iv.iv.iv-p29.1"></span>.md).
 So in another place he salutes several bishops in one church (<span
 id="iv.iv.iv-p29.2"></span>[Phil.
-1:1](../../../bib/kjv/phi001.htm#001)<span id="iv.iv.iv-p29.2"></span>).
+1:1](../../../bib/kjv/phi001.htm#001)<span id="iv.iv.iv-p29.2"></span>.md).
 And in the Acts, the elders of Ephesus, whom he is said to have called
 together, he, in the course of his address, designates as bishops (<span
 id="iv.iv.iv-p29.3"></span>[Acts
-20:17](../../../bib/kjv/act020.htm#017)<span
+20:17](../../../bib/kjv/act020.htm#017.md)<span
 id="iv.iv.iv-p29.3"></span>). Here it is to be observed, that we have
 hitherto enumerated those offices only which consist in the ministry of
 the word; nor does Paul make mention of any others in the passage which
@@ -432,9 +432,9 @@ But in the Epistle to the Romans, and the First Epistle to the
 Corinthians, he enumerates other offices, as powers, gifts of healing,
 interpretation, government, care of the poor (<span
 id="iv.iv.iv-p29.4"></span>[Rom.
-12:7](../../../bib/kjv/rom012.htm#007)<span id="iv.iv.iv-p29.4"></span>;
+12:7](../../../bib/kjv/rom012.htm#007.md)<span id="iv.iv.iv-p29.4"></span>;
 <span id="iv.iv.iv-p29.5"></span>[1 Cor.
-12:28](../../../bib/kjv/co1012.htm#028)<span
+12:28](../../../bib/kjv/co1012.htm#028.md)<span
 id="iv.iv.iv-p29.5"></span>). As to those which were temporary, I say
 nothing, for it is not worth while to dwell upon them. But there are two
 of perpetual duration—viz. government and care of the poor. By these
@@ -442,9 +442,9 @@ governors I understand seniors selected from the people to unite with
 the bishops in pronouncing censures and exercising discipline. For this
 is the only meaning which can be given to the passage, “He that ruleth
 with diligence” (<span id="iv.iv.iv-p29.6"></span>[Rom.
-12:8](../../../bib/kjv/rom012.htm#008)<span
+12:8](../../../bib/kjv/rom012.htm#008.md)<span
 id="iv.iv.iv-p29.6"></span>). From the beginning, therefore, each church
-had its senate,53  <span id="fr_539"></span>[540](#fn_539) composed of
+had its senate,53  <span id="fr_539"></span>[540](#fn_539.md) composed of
 pious, grave, and venerable men, in whom was lodged the power of
 correcting faults. Of this power we shall afterwards speak. Moreover,
 experience shows that this arrangement was not confined to one age, and
@@ -456,7 +456,7 @@ deacons, of whom two classes are mentioned by Paul in the Epistle to the
 Romans, “He that giveth, let him do it with simplicity;” “he that
 showeth mercy, with cheerfulness” (<span
 id="iv.iv.iv-p31.1"></span>[Rom.
-12:8](../../../bib/kjv/rom012.htm#008)<span
+12:8](../../../bib/kjv/rom012.htm#008.md)<span
 id="iv.iv.iv-p31.1"></span>). As it is certain that he is here speaking
 of public offices of the Church, there must have been two distinct
 classes. If I mistake not, he in the former clause designates deacons,
@@ -464,7 +464,7 @@ who administered alms; in the latter, those who had devoted themselves
 to the care of the poor and the sick. Such were the widows of whom he
 makes mention in the Epistle to Timothy (<span
 id="iv.iv.iv-p31.2"></span>[1 Tim.
-5:10](../../../bib/kjv/ti1005.htm#010)<span
+5:10](../../../bib/kjv/ti1005.htm#010.md)<span
 id="iv.iv.iv-p31.2"></span>). For there was no public office which women
 could discharge save that of devoting themselves to the service of the
 poor. If we admit this (and it certainly ought to be admitted), there
@@ -476,7 +476,7 @@ Church appoints to dispense alms, and take care of the poor,
 constituting them as it were stewards of the public treasury of the
 poor. Their origin, institution, and office, is described by Luke (<span
 id="iv.iv.iv-p31.3"></span>[Acts
-6:3](../../../bib/kjv/act006.htm#003)<span id="iv.iv.iv-p31.3"></span>).
+6:3](../../../bib/kjv/act006.htm#003)<span id="iv.iv.iv-p31.3"></span>.md).
 When a murmuring arose among the Greeks, because in the administration
 of the poor their widows were neglected, the apostles, excusing
 themselves that they were unable to discharge both offices, to preach
@@ -487,7 +487,7 @@ Apostolic Church had, it becomes us to have after her example.
 <span id="iv.iv.iv-p32"></span>10. Now seeing that in the sacred
 assembly all things ought to be done decently and in order (<span
 id="iv.iv.iv-p32.1"></span>[1 Cor.
-14:40](../../../bib/kjv/co1014.htm#040)<span
+14:40](../../../bib/kjv/co1014.htm#040.md)<span
 id="iv.iv.iv-p32.1"></span>), there is nothing in which this ought to be
 more carefully observed than in settling government, irregularity in any
 respect being nowhere more perilous. Wherefore, lest restless and
@@ -495,9 +495,9 @@ turbulent men should presumptuously push themselves forward to teach or
 rule (an event which actually was to happen), it was expressly provided
 that no one should assume a public office in the Church without a call
 (<span id="iv.iv.iv-p32.2"></span>[Heb.
-5:4](../../../bib/kjv/heb005.htm#004)<span id="iv.iv.iv-p32.2"></span>;
+5:4](../../../bib/kjv/heb005.htm#004.md)<span id="iv.iv.iv-p32.2"></span>;
 <span id="iv.iv.iv-p32.3"></span>[Jer.
-17:16](../../../bib/kjv/jer017.htm#016)<span
+17:16](../../../bib/kjv/jer017.htm#016.md)<span
 id="iv.iv.iv-p32.3"></span>). Therefore, if any one would be deemed a
 true minister of the Church, he must *first* be duly called; and,
 *secondly*, he must answer to his calling; that is, undertake and
@@ -538,9 +538,9 @@ us now proceed to it.
 <span id="iv.iv.iv-p34"></span>12. What persons should be elected
 bishops is treated at length by Paul in two passages (<span
 id="iv.iv.iv-p34.1"></span>[Tit.
-1:7](../../../bib/kjv/tit001.htm#007)<span id="iv.iv.iv-p34.1"></span>;
+1:7](../../../bib/kjv/tit001.htm#007.md)<span id="iv.iv.iv-p34.1"></span>;
 <span id="iv.iv.iv-p34.2"></span>[1 Tim.
-3:1](../../../bib/kjv/ti1003.htm#001)<span id="iv.iv.iv-p34.2"></span>).
+3:1](../../../bib/kjv/ti1003.htm#001)<span id="iv.iv.iv-p34.2"></span>.md).
 The substance is, that none are to be chosen save those who are of sound
 doctrine and holy lives, and not notorious for any defect which might
 destroy their authority and bring disgrace on the ministry. The
@@ -550,7 +550,7 @@ unequal to the burden imposed upon them; in other words, that they are
 provided with the means which will be necessary to fulfil their office.
 Thus our Saviour, when about to send his apostles, provided them with
 the arms and instruments which were indispensably requisite.53  <span
-id="fr_540"></span>[541](#fn_540) And Paul, after portraying the
+id="fr_540"></span>[541](#fn_540.md) And Paul, after portraying the
 character of a good and genuine bishop, admonishes Timothy not to
 contaminate himself by choosing an improper person for the office. The
 expression, *in what way*, I use not in reference to the rite of
@@ -558,7 +558,7 @@ choosing, but only to the religious fear which is to be observed in
 election. Hence the fastings and prayers which Luke narrates that the
 faithful employed when they elected presbyters (<span
 id="iv.iv.iv-p35.5"></span>[Acts
-14:23](../../../bib/kjv/act014.htm#023)<span
+14:23](../../../bib/kjv/act014.htm#023.md)<span
 id="iv.iv.iv-p35.5"></span>). For, understanding that the business was
 the most serious in which they could engage, they did not venture to act
 without the greatest reverence and solicitude. But above all, they were
@@ -578,12 +578,12 @@ desirous to substitute another in the place of Judas, they did not
 venture to nominate any one certainly, but brought forward two, that the
 Lord might declare by lot which of them he wished to succeed (<span
 id="iv.iv.iv-p36.1"></span>[Acts
-1:23](../../../bib/kjv/act001.htm#023)<span
+1:23](../../../bib/kjv/act001.htm#023.md)<span
 id="iv.iv.iv-p36.1"></span>). In this way we ought to understand Paul’s
 declaration, that he was made an apostle, “not of men, neither by man,
 but by Jesus Christ, and God the Father” (<span
 id="iv.iv.iv-p36.2"></span>[Gal.
-1:1](../../../bib/kjv/gal001.htm#001)<span id="iv.iv.iv-p36.2"></span>).
+1:1](../../../bib/kjv/gal001.htm#001)<span id="iv.iv.iv-p36.2"></span>.md).
 The former—viz. *not of men*—he had in common with all the pious
 ministers of the word, for no one could duly perform the office unless
 called by God. The other was proper and peculiar to him. And while he
@@ -610,7 +610,7 @@ meantime to the discipline of an ecclesiastical call: for Luke relates,
 “As they ministered to the Lord, and fasted, the Holy Ghost said,
 Separate me Barnabas and Saul for the work whereunto I have called them”
 (<span id="iv.iv.iv-p37.1"></span>[Acts
-13:2](../../../bib/kjv/act013.htm#002)<span
+13:2](../../../bib/kjv/act013.htm#002.md)<span
 id="iv.iv.iv-p37.1"></span>). Why this separation and laying on of hands
 after the Holy Spirit had attested their election, unless that
 ecclesiastical discipline might be preserved in appointing ministers by
@@ -628,11 +628,11 @@ might not be disregarded.
 minister should be chosen *by the whole Church*, or only by *colleagues*
 and *elders*, who have the charge of discipline; or whether they may be
 appointed by the authority of one individual?53  <span
-id="fr_541"></span>[542](#fn_541) Those who attribute this right to one
+id="fr_541"></span>[542](#fn_541.md) Those who attribute this right to one
 individual quote the words of Paul to Titus “For this cause left I thee
 in Crete, that thou shouldest set in order the things that are wanting,
 and ordain elders in every city” (<span id="iv.iv.iv-p39.2"></span>[Tit.
-1:5](../../../bib/kjv/tit001.htm#005)<span id="iv.iv.iv-p39.2"></span>);
+1:5](../../../bib/kjv/tit001.htm#005)<span id="iv.iv.iv-p39.2"></span>.md);
 and also to Timothy, “Lay hands suddenly on no man” (l Tim. 5:22). But
 they are mistaken if they suppose that Timothy so reigned at Ephesus,
 and Titus in Crete, as to dispose of all things at their own pleasure.
@@ -644,7 +644,7 @@ ordained elders throughout the churches, but he at the same time marks
 the plan or mode when he says that it was done by suffrage. The words
 are, Χειροτονήσαντες πρεσβυτέρους κατ᾽ ἐκκλησίαν (<span
 id="iv.iv.iv-p39.3"></span>[Acts
-14:23](../../../bib/kjv/act014.htm#023)<span
+14:23](../../../bib/kjv/act014.htm#023.md)<span
 id="iv.iv.iv-p39.3"></span>). They therefore selected (*creabant*) two;
 but the whole body, as was the custom of the Greeks in elections,
 declared by a show of hands which of the two they wished to have. Thus
@@ -664,7 +664,7 @@ priests was to bring them forward in view of the people before
 consecration. Nor is Matthias enrolled among the number of the apostles,
 nor are the seven deacons elected in any other way, than at the sight
 and approval of the people (<span id="iv.iv.iv-p39.4"></span>[Acts
-6:2](../../../bib/kjv/act006.htm#002)<span id="iv.iv.iv-p39.4"></span>).
+6:2](../../../bib/kjv/act006.htm#002)<span id="iv.iv.iv-p39.4"></span>.md).
 “Those examples,” says Cyprian, “show that the ordination of a priest
 behoved not to take place, unless under the consciousness of the people
 assisting, so that that ordination was just and legitimate which was
@@ -684,11 +684,11 @@ who, by the laying on of hands, in a manner presented to God whatever
 they wished to be blessed and consecrated. Thus Jacob, when about to
 bless Ephraim and Manasseh, placed his hands upon their heads (<span
 id="iv.iv.iv-p40.1"></span>[Gen.
-48:14](../../../bib/kjv/gen048.htm#014)<span
+48:14](../../../bib/kjv/gen048.htm#014.md)<span
 id="iv.iv.iv-p40.1"></span>). The same thing was done by our Lord, when
 he prayed over the little children (<span
 id="iv.iv.iv-p40.2"></span>[Mt.
-19:15](../../../bib/kjv/mat019.htm#015)<span
+19:15](../../../bib/kjv/mat019.htm#015.md)<span
 id="iv.iv.iv-p40.2"></span>). With the same intent (as I imagine), the
 Jews, according to the injunction of the law, laid hands upon their
 sacrifices. Wherefore, the apostles, by the laying on of hands,
@@ -696,7 +696,7 @@ intimated that they made an offering to God of him whom they admitted to
 the ministry; though they also did the same thing over those on whom
 they conferred the visible gifts of the Spirit (<span
 id="iv.iv.iv-p40.3"></span>[Acts
-8:17](../../../bib/kjv/act008.htm#017)<span id="iv.iv.iv-p40.3"></span>;
+8:17](../../../bib/kjv/act008.htm#017.md)<span id="iv.iv.iv-p40.3"></span>;
 19:6). However this be, it was the regular form, whenever they called
 any one to the sacred ministry. In this way they consecrated pastors and
 teachers; in this way they consecrated deacons. But though there is no
@@ -715,12 +715,12 @@ whole people, but only pastors, who laid hands on ministers, though it
 is uncertain whether or not several always laid their hands: it is
 certain, that in the case of the deacons, it was done by Paul and
 Barnabas, and some few others (<span id="iv.iv.iv-p40.4"></span>[Acts
-6:6](../../../bib/kjv/act006.htm#006)<span id="iv.iv.iv-p40.4"></span>;
+6:6](../../../bib/kjv/act006.htm#006.md)<span id="iv.iv.iv-p40.4"></span>;
 13:3). But in another place, Paul mentions that he himself, without any
 others, laid hands on Timothy. “Wherefore, I put thee in remembrance,
 that thou stir up the gift of God which is in thee, by the putting on of
 my hands” (<span id="iv.iv.iv-p40.5"></span>[2 Tim.
-1:6](../../../bib/kjv/ti2001.htm#006)<span id="iv.iv.iv-p40.5"></span>).
+1:6](../../../bib/kjv/ti2001.htm#006)<span id="iv.iv.iv-p40.5"></span>.md).
 For what is said in the First Epistle, of the *laying on of the hands of
 the presbytery*, I do not understand as if Paul were speaking of the
 college of Elders. By the expression, I understand the ordination
@@ -731,48 +731,48 @@ the laying on of hands, when I made you a presbyter, may not be in vain.
 
 ### Footnotes
 
-<span id="fn_537"></span>[538](inst083.htm#fr_537) <span
+<span id="fn_537"></span>[538](inst083.htm#fr_537.md) <span
 id="iv.iv.iv-p20.1"></span>
 
 <span id="iv.iv.iv-p21"></span>34 534 Latin, “quasi vicariam
 operam.”—French, “les faisans comme ses lieutenans;”—making them as it
 were his substitutes.
 
-<span id="fn_538"></span>[539](inst083.htm#fr_538) <span
+<span id="fn_538"></span>[539](inst083.htm#fr_538.md) <span
 id="iv.iv.iv-p21.1"></span>
 
 <span id="iv.iv.iv-p22"></span>35 535 See on this subject August. de
 Doctrina Christiana, Lib. 1
 
-<span id="fn_539"></span>[540](inst083.htm#fr_539) <span
+<span id="fn_539"></span>[540](inst083.htm#fr_539.md) <span
 id="iv.iv.iv-p29.7"></span>
 
 <span id="iv.iv.iv-p30"></span>36 536 Latin, “senatum.”—French, “conseil
 ou consistoire;”—council or consistory.
 
-<span id="fn_540"></span>[541](inst083.htm#fr_540) <span
+<span id="fn_540"></span>[541](inst083.htm#fr_540.md) <span
 id="iv.iv.iv-p34.3"></span>
 
 <span id="iv.iv.iv-p35"></span>37 537 <span
 id="iv.iv.iv-p35.1"></span>[Luke
-21:15](../../../bib/kjv/luk021.htm#015)<span
+21:15](../../../bib/kjv/luk021.htm#015.md)<span
 id="iv.iv.iv-p35.1"></span>; 24:49; <span
 id="iv.iv.iv-p35.2"></span>[Mark
-6:15](../../../bib/kjv/mar006.htm#015)<span id="iv.iv.iv-p35.2"></span>;
+6:15](../../../bib/kjv/mar006.htm#015.md)<span id="iv.iv.iv-p35.2"></span>;
 <span id="iv.iv.iv-p35.3"></span>[Acts
-1](../../../bib/kjv/act001.htm#000)<span id="iv.iv.iv-p35.3"></span> 8;
+1](../../../bib/kjv/act001.htm#000.md)<span id="iv.iv.iv-p35.3"></span> 8;
 <span id="iv.iv.iv-p35.4"></span>[1 Tim.
-5:22](../../../bib/kjv/ti1005.htm#022)<span id="iv.iv.iv-p35.4"></span>.
+5:22](../../../bib/kjv/ti1005.htm#022.md)<span id="iv.iv.iv-p35.4"></span>.
 
-<span id="fn_541"></span>[542](inst083.htm#fr_541) <span
+<span id="fn_541"></span>[542](inst083.htm#fr_541.md) <span
 id="iv.iv.iv-p38.1"></span>
 
 <span id="iv.iv.iv-p39"></span>38 538 See chap. 4 sec. 10, 11; chap. 5
 sec. 2, 3. Also Calv. in <span id="iv.iv.iv-p39.1"></span>[Acts
-6:3](../../../bib/kjv/act006.htm#003)<span id="iv.iv.iv-p39.1"></span>,
+6:3](../../../bib/kjv/act006.htm#003.md)<span id="iv.iv.iv-p39.1"></span>,
 and Luther, tom. 2 p 374.
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 4. - OF THE STATE OF THE PRIMITIVE CHURCH, AND THE MODE
-OF GOVERNMENT IN USE BEFORE THE PAPACY.](inst084)
+OF GOVERNMENT IN USE BEFORE THE PAPACY.](inst084.md)

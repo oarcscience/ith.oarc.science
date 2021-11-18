@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor24)  [Next](sor26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor24)  [Next](sor26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -106,7 +106,7 @@ especial foible of lady abbesses, their most cherished pretension, to
 confess their nuns,—as is permitted by St. Theresa. This was bound to
 come of itself, under the pleasant conditions arranged. The girl would
 surely make her confessors only trifling confidences,
-[keeping](errata.htm#9) the innermost privacy of her heart for the one
+[keeping](errata.htm#9.md) the innermost privacy of her heart for the one
 person of her predilection. Of evenings, at night, behind the
 bed-curtains, under the caresses of a companion eager to penetrate her
 soul, she would let slip many a secret,—both of her own and other
@@ -358,7 +358,7 @@ wounds bleed for him to see, and the water with which he washed off
 <span id="page_269">p. 269</span>
 
 this blood was then drunk between him and her, <span
-id="fr_92"></span>[1](#fn_92) by which odious communion he believed
+id="fr_92"></span>[1](#fn_92.md) by which odious communion he believed
 himself to have bound her soul to his.
 
 This took up two or three hours, and it was nearly midday. The abbess
@@ -860,10 +860,10 @@ brother, the Jacobin (Nov. 10, 1730).
 
 ### Footnotes
 
-<span id="fn_92"></span>[269:1](sor25.htm#fr_92) This was a custom of
+<span id="fn_92"></span>[269:1](sor25.htm#fr_92.md) This was a custom of
 the *Reiters*, the northern soldiery, to make themselves blood-brothers
 by this sort of communion (see Michelet, *Origines du Droit*).
 
 ------------------------------------------------------------------------
 
-[Next: 24. Trial of Charlotte Cadière (1730, 1731)](sor26)
+[Next: 24. Trial of Charlotte Cadière (1730, 1731)](sor26.md)

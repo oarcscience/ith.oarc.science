@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut53.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # LI.
 
-### Formula of Medicine for the Purification of Those Who Have Buried the Dead. <span id="fr_103"></span>[1](#fn_103)
+### Formula of Medicine for the Purification of Those Who Have Buried the Dead. <span id="fr_103"></span>[1](#fn_103.md)
 
 <span id="page_366">p. 366</span>
 
@@ -20,7 +20,7 @@ from them to the southern end of the world. There also he saw two women
 and there he begot a boy.
 
 In the morning about this time of day <span
-id="fr_104"></span>[1](#fn_104) while he was sitting outside he heard
+id="fr_104"></span>[1](#fn_104.md) while he was sitting outside he heard
 someone calling. A man came running toward him, wearing a woodpecker
 head-dress, saying, "I have just came to tell you that they have put
 your children into the ground alive. The children came up again, saying,
@@ -117,9 +117,9 @@ this there would not be dances in this world.
 
 ### Footnotes
 
-<span id="fn_103"></span>[360:1](hut54.htm#fr_103) Told at Hupa, June
+<span id="fn_103"></span>[360:1](hut54.htm#fr_103.md) Told at Hupa, June
 1901, by Lillie Hostler, wife of Henry Hostler. She is a native of
 TakimiLdiñ, about 55 years of age. Compare, Life and Culture of the
 Hupa, pp. 71 and 72.
 
-<span id="fn_104"></span>[366:1](hut54.htm#fr_104) About 9 A.M.
+<span id="fn_104"></span>[366:1](hut54.htm#fr_104.md) About 9 A.M.

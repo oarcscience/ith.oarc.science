@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc089) 
-[Next](motc091) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc089.md) 
+[Next](motc091.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ three Cherokee scalps as trophies of his victory and prowess.
 
 ------------------------------------------------------------------------
 
-[Next: 91. The Two Mohawks](motc091)
+[Next: 91. The Two Mohawks](motc091.md)

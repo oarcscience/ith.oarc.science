@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft65)  [Next](efft67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft65)  [Next](efft67.md) 
 
 ------------------------------------------------------------------------
 
-# BILLY B----'S ADVENTURE  <span id="fr_79"></span>[1](#fn_79)
+# BILLY B----'S ADVENTURE  <span id="fr_79"></span>[1](#fn_79.md)
 
 "You see, sir, as how I'd been a clock-dressing at Gurston
 (Grassington), and I'd staid rather lat, and maybe gitten a li'le sup o'
@@ -51,10 +51,10 @@ but I nivver seed it since--and that's a true story."
 
 ### Footnotes
 
-<span id="fn_79"></span>[1](efft66.htm#fr_79) Robert Hunt, *Popular
+<span id="fn_79"></span>[1](efft66.htm#fr_79.md) Robert Hunt, *Popular
 Romances of the West of England*, 1st series, p. 315, quoting from
 Hone's *Every-day Book*.
 
 ------------------------------------------------------------------------
 
-[Next: The Wise Fools of Gotham](efft67)
+[Next: The Wise Fools of Gotham](efft67.md)

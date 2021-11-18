@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](dbg6)  [Next](dbg8) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](dbg6)  [Next](dbg8.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140444335/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140444335/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ McDevitte and W.S. Bohn \[1869\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Gallic Wars Book 8 (51-50 B.C.E.)](dbg8)
+[Next: Gallic Wars Book 8 (51-50 B.C.E.)](dbg8.md)

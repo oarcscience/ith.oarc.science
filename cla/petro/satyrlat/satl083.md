@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat12.htm#LXXXIII) 
-[Previous](satl082)  [Next](satl084) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#LXXXIII.md) 
+[Previous](satl082)  [Next](satl084.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ atque inopi lingua desertas invocat artes.
 
 ------------------------------------------------------------------------
 
-[Next: LXXXIV](satl084)
+[Next: LXXXIV](satl084.md)

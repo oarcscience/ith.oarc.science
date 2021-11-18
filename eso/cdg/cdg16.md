@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg15)  [Next](cdg17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg15)  [Next](cdg17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ id="img_21200"></span>
 
 |                     |
 |---------------------|
-| ![S](img/21200.jpg) |
+| ![S](img/21200.jpg.md) |
 
 AINT PAUL AN INITIATE. Authority for this statement is found in St.
 Paul's own I CORINTHIANS, ll., 6, 7. We speak wisdom among the
@@ -38,7 +38,7 @@ initiated*,
 Bishop Lightfoot states that "τέλεοις is properly that of which the
 parts are fully developed. Hence it signifies full-grown,' and
 accordingly τέλεοις is used by St. Paul as opposed to νήπιος. <span
-id="fr_171"></span>[\*](#fn_171) Pythagoras also is said to have
+id="fr_171"></span>[\*](#fn_171.md) Pythagoras also is said to have
 distinguished his disciples as τέλειοι and νήπιοι. But besides this
 meaning of full development,' the term here most probably bears the
 collateral sense of 'initiated' according to its classical usage,
@@ -65,7 +65,7 @@ TO THE CORINTHIANS, PAGES 173-4.
 But the wisdom of the life-giving Breath or Force is here implied. "αἰών
 is so connected with ἂημι, *to breathe, blow*, as to denote properly
 *that which causes life, vital force;*" (or life-giving Force). <span
-id="fr_172"></span>[\*](#fn_172) GREEK-ENGLISH LEXICON OF THE NEW
+id="fr_172"></span>[\*](#fn_172.md) GREEK-ENGLISH LEXICON OF THE NEW
 TESTAMENT, EDITED BY JOSEPH HENRY THAYER, D.D. PAGE 18. This passage is
 a subtle play upon words conveying one meaning to the Initiate who has
 knowledge of the life-giving Force and its manifestation for the
@@ -131,11 +131,11 @@ EXTRACTS FROM GREEK-ENGLISH LEXICON OF THE NEW TESTAMENT, PAGE 156.
 
 ### Footnotes
 
-<span id="fn_171"></span>[212:\*](cdg16.htm#fr_171) *Infant, little
+<span id="fn_171"></span>[212:\*](cdg16.htm#fr_171.md) *Infant, little
 child.*
 
-<span id="fn_172"></span>[213:\*](cdg16.htm#fr_172) Solar Force.
+<span id="fn_172"></span>[213:\*](cdg16.htm#fr_172.md) Solar Force.
 
 ------------------------------------------------------------------------
 
-[Next: G. Plato, His Place as a Philosopher](cdg17)
+[Next: G. Plato, His Place as a Philosopher](cdg17.md)

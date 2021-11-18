@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc05)  [Next](ipc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc05)  [Next](ipc07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -62,7 +62,7 @@ Lumbini Garden where Queen Mâyâ gave birth to her distinguished son.
 Then came a second triumph. Choked up in the luxurious jungle by
 colossal ferns and creepers, emerged a dead city of *stûpas*, and
 monasteries, and villages and buildings. More important still was
-another column set up by King [Asoka](errata.htm#8). This is the
+another column set up by King [Asoka](errata.htm#8.md). This is the
 translation of it:
 
 "King Piyadasi (Asoka) the beloved of the gods, having been anointed
@@ -108,7 +108,7 @@ to prove the blue blood of King Śuddhodana, who, like Joseph, had
 nothing to do with the paternity of the child. "King Mahasammata had a
 son named Roja, whose son was Varaoja, whose son was Kalyana, whose son
 was Varakalyana," and so on, and so on. <span
-id="fr_24"></span>[\*](#fn_24)
+id="fr_24"></span>[\*](#fn_24.md)
 
 How does a Buddha come down to earth? The sign of Capricorn in the old
 Indian Zodiac is an elephant issuing from a Makara (leviathan), and
@@ -118,7 +118,7 @@ consequence, Buddha comes
 
 <span id="img_pl04"></span> <span align="CENTER"> [![PLATE 4.&lt;br&gt;
 THE BUDDHIST VIRGIN AND CHILD.](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 PLATE 4.  
 THE BUDDHIST VIRGIN AND CHILD.  
 </span>
@@ -172,13 +172,13 @@ independently, and a want of consistency is the result.
 
 When Buddha was in his mother's womb, that womb was transparent. The
 Virgin Mary was thus represented in mediaeval frescoes. <span
-id="fr_25"></span>[\*](#fn_25)
+id="fr_25"></span>[\*](#fn_25.md)
 
 #### "WE HAVE SEEN HIS STAR IN THE EAST."
 
 In the Buddhist legend the *devas* in heaven announce that Buddha will
 be born when the Flower star in seen *in the East*." <span
-id="fr_26"></span>[†](#fn_26)
+id="fr_26"></span>[†](#fn_26.md)
 
 In the "Lalita Vistara" two serpents, Nanda and Uponanda, show their
 forms in the sky, and rain down baptismal water on the young infant.
@@ -187,12 +187,12 @@ Saurasthra."
 
 Amongst the thirty-two signs that indicate the mother of a Buddha, the
 fifth is that, like Mary, the mother of Jesus, she should be "on a
-journey" <span id="fr_27"></span>[‡](#fn_27) at the moment of
+journey" <span id="fr_27"></span>[‡](#fn_27.md) at the moment of
 parturition: this happened. A tree (palasa, the scarlet butea) bent down
 its branches and overshadowed her, and Buddha came forth. Voltaire says
 that in the library of Berne there is a copy of the first gospel of the
 Infancy, which records that a palm-tree bent down in a similar manner to
-Mary. <span id="fr_28"></span>[§](#fn_28) The Koran calls it a "withered
+Mary. <span id="fr_28"></span>[§](#fn_28.md) The Koran calls it a "withered
 date-tree."
 
 In the First "Gospel of the Infancy" it is stated that, when Christ was
@@ -208,7 +208,7 @@ light, said: "I am in my last birth. None is my equal. I have come to
 conquer death, sickness, old age. I have come to subdue the spirit of
 evil, and give peace and joy to the souls tormented in hell."
 
-In the same scriptures <span id="fr_29"></span>[\*](#fn_29) it is
+In the same scriptures <span id="fr_29"></span>[\*](#fn_29.md) it is
 announced that at the birth of the Divine child, the devas (angels) sang
 thus:—"O Purusha, the equal to thee exists not here; where will a
 superior be found?"
@@ -227,7 +227,7 @@ to Jesus.
 
 #### HEROD AND THE WISE MEN.
 
-It is recorded in the Chinese life <span id="fr_30"></span>[†](#fn_30)
+It is recorded in the Chinese life <span id="fr_30"></span>[†](#fn_30.md)
 that King Bimbisâra, the monarch of Râjâgriha was told by his ministers
 that a boy was alive for whom the stars predicted a mighty destiny. They
 advised him to raise an army and go and destroy this child, lest he
@@ -353,7 +353,7 @@ prophets—things which the mind of no creature could reach.
 knowledge! What do you think that boy will be?
 
 "(9) Then a certain astronomer who was present asked the Lord Jesus
-whether He had studied [astronomy](errata.htm#9).
+whether He had studied [astronomy](errata.htm#9.md).
 
 <span id="page_55">p. 55</span>
 
@@ -518,7 +518,7 @@ that another attempt should be made. But this time the precautions were
 doubled.
 
 On the first occasion the prince left the Palace of Summer by the
-eastern gate. The second [expedition](errata.htm#10) went through the
+eastern gate. The second [expedition](errata.htm#10.md) went through the
 southern gate.
 
 But another untoward event occurred. As the prince was driving along in
@@ -554,11 +554,11 @@ shortly show.
 
 In the Southern scriptures it is explained that the Spirits of the Pure
 Abode dwell in the heaven of Brahma. <span
-id="fr_31"></span>[\*](#fn_31) I may mention, too, that in a valuable
+id="fr_31"></span>[\*](#fn_31.md) I may mention, too, that in a valuable
 inscription, copied from an old column in the island of Ceylon by Dr.
 Rhys Davids, it is announced that in the reign of the king who erected
 it, the Buddha devatas "talked with men" <span
-id="fr_32"></span>[†](#fn_32) in the great temple. Here we have plainly
+id="fr_32"></span>[†](#fn_32.md) in the great temple. Here we have plainly
 the Buddhas of the past, of the "Lalita Vistara." The disciples of the
 "Carriage which drives to the Great Nowhere" have senselessly,
 interlarded this book with certain "Bodhisatwas of the Ten Regions,"
@@ -571,7 +571,7 @@ them.
 
 For another valuable fact we are indebted to the Southern scriptures.
 They announce that the answers of the charioteer were given under
-inspiration from the unseen world. <span id="fr_33"></span>[‡](#fn_33)
+inspiration from the unseen world. <span id="fr_33"></span>[‡](#fn_33.md)
 On the surface this is plausible, for we shall see that the speeches of
 the charioteer were not always pitched in so high a key.
 
@@ -634,7 +634,7 @@ sea-water—they mock man's thirst instead of quenching it. I will seek
 the divine vision, and give immortality (the Amrita) to man."
 
 In the "Lalita Vistara" the remedy for age, sickness, and death is
-immortality. <span id="fr_34"></span>[\*](#fn_34) In Dr. Rhys Davids’
+immortality. <span id="fr_34"></span>[\*](#fn_34.md) In Dr. Rhys Davids’
 "Buddhism," the remedy for death is death. If the apologue was composed
 outside of Bedlam, it is plain that the "Lalita Vistara" gives us the
 correct version. If a prick with a dagger is the amrita, why go through
@@ -684,7 +684,7 @@ In the presence of reviling be patient, O conqueror of self!
 Lord of those who possess two feet, go forth on thy mission?  
 Conquer the evil one and his army."  
 Thus run some more of these gâthâs:—  
-Light of the world! <span id="fr_35"></span>[\*](#fn_35)  
+Light of the world! <span id="fr_35"></span>[\*](#fn_35.md)  
 In former kalpas this vow was made by thee;  
 "For the worlds that are a prey to death and sickness I will be a
 refuge!"  
@@ -718,7 +718,7 @@ strong;
 And when he went away and brought back men to kill thee, thou forgavest
 him!  
 Once when thou wert the white horse, <span
-id="fr_36"></span>[\*](#fn_36)  
+id="fr_36"></span>[\*](#fn_36.md)  
 In pity for the suffering of man,  
 Thou didst fly across heaven to the region of the evil demons,  
 To secure the happiness of mankind,  
@@ -868,11 +868,11 @@ He is now indivisible.</span>
 
 Then Brahma in person appeared to the ascetic and commissioned him to
 preach the "glad tidings" (suba shita), <span
-id="fr_37"></span>[\*](#fn_37) and to turn the wheel of the law.
+id="fr_37"></span>[\*](#fn_37.md) and to turn the wheel of the law.
 
 <span id="img_pl05"></span> <span align="CENTER"> [![PLATE 5.&lt;br&gt;
 BUDDHA PREACHING.](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 PLATE 5.  
 BUDDHA PREACHING.  
 </span>
@@ -881,47 +881,47 @@ BUDDHA PREACHING.
 
 ### Footnotes
 
-<span id="fn_24"></span>[48:\*](ipc06.htm#fr_24) Dipawanso, see "Jour.
+<span id="fn_24"></span>[48:\*](ipc06.htm#fr_24.md) Dipawanso, see "Jour.
 As. Soc.," Bengal, Vol. VIII., p. 925.
 
-<span id="fn_25"></span>[50:\*](ipc06.htm#fr_25) See illustration.
+<span id="fn_25"></span>[50:\*](ipc06.htm#fr_25.md) See illustration.
 
-<span id="fn_26"></span>[50:†](ipc06.htm#fr_26) Lefman, XXI., 124;
+<span id="fn_26"></span>[50:†](ipc06.htm#fr_26.md) Lefman, XXI., 124;
 Wassiljew, p. 95.
 
-<span id="fn_27"></span>[50:‡](ipc06.htm#fr_27) Beal, "Roman History,"
+<span id="fn_27"></span>[50:‡](ipc06.htm#fr_27.md) Beal, "Roman History,"
 p. 32.
 
-<span id="fn_28"></span>[50:§](ipc06.htm#fr_28) "Oeuvres," Vol. XL.
+<span id="fn_28"></span>[50:§](ipc06.htm#fr_28.md) "Oeuvres," Vol. XL.
 
-<span id="fn_29"></span>[51:\*](ipc06.htm#fr_29) See Turnour's "Pali
+<span id="fn_29"></span>[51:\*](ipc06.htm#fr_29.md) See Turnour's "Pali
 Legendary Life."
 
-<span id="fn_30"></span>[51:†](ipc06.htm#fr_30) Beal, "Romantic
+<span id="fn_30"></span>[51:†](ipc06.htm#fr_30.md) Beal, "Romantic
 History," p. 103.
 
-<span id="fn_31"></span>[60:\*](ipc06.htm#fr_31) Turnour, "Journ. Beng.
+<span id="fn_31"></span>[60:\*](ipc06.htm#fr_31.md) Turnour, "Journ. Beng.
 As. Soc.," Vol. VII., p. 798.
 
-<span id="fn_32"></span>[60:†](ipc06.htm#fr_32) "Journ. As. Soc.," Vol.
+<span id="fn_32"></span>[60:†](ipc06.htm#fr_32.md) "Journ. As. Soc.," Vol.
 VII., p. 364.
 
-<span id="fn_33"></span>[60:‡](ipc06.htm#fr_33) Spence Hardy, "Manual,"
+<span id="fn_33"></span>[60:‡](ipc06.htm#fr_33.md) Spence Hardy, "Manual,"
 p. 157.
 
-<span id="fn_34"></span>[62:\*](ipc06.htm#fr_34) "Un fruit de vie, de
+<span id="fn_34"></span>[62:\*](ipc06.htm#fr_34.md) "Un fruit de vie, de
 bien être, et d’immortalité," Foucaux, p. 185.
 
-<span id="fn_35"></span>[63:\*](ipc06.htm#fr_35) "Lampe du Monde,"
+<span id="fn_35"></span>[63:\*](ipc06.htm#fr_35.md) "Lampe du Monde,"
 Foucaux's translation.
 
-<span id="fn_36"></span>[64:\*](ipc06.htm#fr_36) Yearly the sun-god as
+<span id="fn_36"></span>[64:\*](ipc06.htm#fr_36.md) Yearly the sun-god as
 the zodiacal horse (Aries) was supposed by the Vedic Aryans to die to
 save all flesh. Hence the horse-sacrifice.
 
-<span id="fn_37"></span>[68:\*](ipc06.htm#fr_37) See Rajendra Lala
+<span id="fn_37"></span>[68:\*](ipc06.htm#fr_37.md) See Rajendra Lala
 Mitra, "Northern Buddhist Literature," p. 29.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. “The Wisdom of the Other Bank”](ipc07)
+[Next: Chapter IV. “The Wisdom of the Other Bank”](ipc07.md)

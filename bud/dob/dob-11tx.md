@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-11in) [Next](dob-12in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-11in) [Next](dob-12in.md)
 
 ------------------------------------------------------------------------
 
@@ -157,7 +157,7 @@ what is called "The wonder of education."
 world, &c.'
 
    \[The text repeats the Sâma*ññ*a-phala Suttanta, [§§ 40 to
-84](dob-02tx.htm#p.%2078), and [§ 97](dob-02tx.htm#p.%2092), that is to
+84](dob-02tx.htm#p.%2078), and [§ 97](dob-02tx.htm#p.%2092.md), that is to
 say:
 
    1. The preaching of the Buddha.
@@ -167,7 +167,7 @@ say:
    3. His self-training in act, word, and speech.
 
    4. The minor details of mere morality (summarised above at [p.
-58](dob-02in.htm#p.%2058)) which he observes.
+58](dob-02in.htm#p.%2058).md) which he observes.
 
    5. The absence of fear, confidence of heart thence arising.
 
@@ -227,7 +227,7 @@ who sent him on to their king, Santusita; who sent him on
 
 <span class="small">{1. From here to the end has been translated by the
 late Henry C. Warren in his 'Buddhism in Translations,' [pp.
-308](../bits/bits067) foll.}</span>
+308](../bits/bits067.md) foll.}</span>
 
 <span id="p. 281">{p. 281}</span>
 
@@ -271,7 +271,7 @@ the Ruler, the
 {1. The question and answer in §68 is repeated, in the text, in each
 case.
 
-2\. So also above, [p. 31](dob-01tx.htm#p.%2031).}
+2\. So also above, [p. 31](dob-01tx.htm#p.%2031.md).}
 
 <span id="p. 282">{p. 282}</span>
 
@@ -400,5 +400,5 @@ Here ends the Kevaddha Suttanta.
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the Lohi*kk*a
-Sutta](dob-12in)
+[Return to top](#top.md)   [Next: Introduction to the Lohi*kk*a
+Sutta](dob-12in.md)

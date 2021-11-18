@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps15) 
-[Next](mps17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps15.md) 
+[Next](mps17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -420,4 +420,4 @@ the earth; kill me! if I need any foreign helpers.'
 
 ------------------------------------------------------------------------
 
-[Next: XIV. Tariel Hears Tidings of the Loss of Nestan-Daredjan](mps17)
+[Next: XIV. Tariel Hears Tidings of the Loss of Nestan-Daredjan](mps17.md)

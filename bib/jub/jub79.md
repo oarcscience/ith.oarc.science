@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub78) 
-[Next](jub80) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub78.md) 
+[Next](jub80.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,10 +17,10 @@ the forty-fifth jubilee the famine began to come into the land, and the
 rain refused to be given to the earth, for none whatever fell. 2. And
 the earth grew barren, but in the land of Egypt there was food, for
 Joseph had gathered the seed of the land in the seven years of plenty
-and had preserved it. <span id="fr_863"></span>[4](#fn_855) 3 . And the
+and had preserved it. <span id="fr_863"></span>[4](#fn_855.md) 3 . And the
 Egyptians came to Joseph that he might give them food, and he opened the
 storehouses where was the grain of the first year, and he sold it to the
-people of the land for gold. <span id="fr_864"></span>[5](#fn_856) 4.
+people of the land for gold. <span id="fr_864"></span>[5](#fn_856.md) 4.
 (Now the famine was very sore in the land of Canaan), and Jacob heard
 that there
 
@@ -43,11 +43,11 @@ of the country had spoken roughly to them, and had seized Simeon till
 they should bring Benjamin. 10. And Jacob said: "Me have ye bereaved of
 my children! Joseph is not and Simeon also is not, and ye will take
 Benjamin away. On me hath your wickedness come." <span
-id="fr_865"></span>[1](#fn_857) 11. And he said: "My son will not go
+id="fr_865"></span>[1](#fn_857.md) 11. And he said: "My son will not go
 down with you lest perchance he fall sick; for their mother gave birth
 to two sons, and one hath perished, and this one also ye will take from
 me. If perchance he took a fever on the road, <span
-id="fr_866"></span>[2](#fn_858) ye would bring down my old age with
+id="fr_866"></span>[2](#fn_858.md) ye would bring down my old age with
 sorrow unto death." 12. For he saw that their money had been returned to
 every man in his sack, and for this reason he feared to send him. 13.
 And the famine increased and became sore in the land of Canaan, and in
@@ -95,25 +95,25 @@ vessels, and my cup, the silver cup out of which I
 <span id="page_194">p. 194</span>
 
 drink, put it in the sack of the youngest, and send them away." <span
-id="fr_867"></span>[1](#fn_859)
+id="fr_867"></span>[1](#fn_859.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_855"></span>[191:4](jub79.htm#fr_863) Cf. Gen. xli. 54.
+<span id="fn_855"></span>[191:4](jub79.htm#fr_863.md) Cf. Gen. xli. 54.
 
-<span id="fn_856"></span>[191:5](jub79.htm#fr_864) Cf. Gen. xli. 56.
+<span id="fn_856"></span>[191:5](jub79.htm#fr_864.md) Cf. Gen. xli. 56.
 
-<span id="fn_857"></span>[192:1](jub79.htm#fr_865) ? An interpretation
+<span id="fn_857"></span>[192:1](jub79.htm#fr_865.md) ? An interpretation
 of Gen. xlii. 36 (" All these things are against me ").
 
-<span id="fn_858"></span>[192:2](jub79.htm#fr_866) "If mischief befall
+<span id="fn_858"></span>[192:2](jub79.htm#fr_866.md) "If mischief befall
 him by the way in the which ye go" (Gen. xlii. 38).
 
-<span id="fn_859"></span>[194:1](jub79.htm#fr_867) Cf. Gen. xliv. 1, 2.
+<span id="fn_859"></span>[194:1](jub79.htm#fr_867.md) Cf. Gen. xliv. 1, 2.
 
 ------------------------------------------------------------------------
 
 [Next: Joseph finally tests his Brethren, and then makes himself known
-to them (xliii. 1-24](jub80)
+to them (xliii. 1-24](jub80.md)

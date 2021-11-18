@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt31)  [Next](crt33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt31)  [Next](crt33.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ noble behavior as he exhibited.
 
 ------------------------------------------------------------------------
 
-[Next: Prologue](crt33)
+[Next: Prologue](crt33.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr09)  [Next](arr11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr09)  [Next](arr11.md) 
 
 ------------------------------------------------------------------------
 
@@ -321,4 +321,4 @@ Sendivogius with his transmuting powder.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: the Comte De St. Germain](arr11)
+[Next: Chapter VIII: the Comte De St. Germain](arr11.md)

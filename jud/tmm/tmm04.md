@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm03)  [Next](tmm05) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm03)  [Next](tmm05.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ became demons, another had their language confused, and the third were
 
 When Esau is styled the 'hairy man,' this indicates that he was a demon.
 The name of demons is 'hairy ones.' <span
-id="fr_14"></span>[1](#fn_14)--Gen. Rabba 65.
+id="fr_14"></span>[1](#fn_14.md)--Gen. Rabba 65.
 
 That demons themselves do not enjoy immunity from injury by other
 demons, the following story will illustrate. Rabbi Abba b. Dowsa passed
@@ -198,9 +198,9 @@ Temple.--Song of Songs Rabba 1.
 
 ### Footnotes
 
-<span id="fn_14"></span>[25:1](tmm04.htm#fr_14) See Dr. Ludwig
+<span id="fn_14"></span>[25:1](tmm04.htm#fr_14.md) See Dr. Ludwig
 Philipsohn's *Prophet Jeschajah*, cap. 13.
 
 ------------------------------------------------------------------------
 
-[Next: Ashmedai, The King Of Demons](tmm05)
+[Next: Ashmedai, The King Of Demons](tmm05.md)

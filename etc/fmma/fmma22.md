@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma21)  [Next](fmma23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma21)  [Next](fmma23.md) 
 
 ------------------------------------------------------------------------
 
@@ -168,4 +168,4 @@ floor, where his body was found by his servants.
 
 ------------------------------------------------------------------------
 
-[Next: Peter The Hermit. About 1050-1115](fmma23)
+[Next: Peter The Hermit. About 1050-1115](fmma23.md)

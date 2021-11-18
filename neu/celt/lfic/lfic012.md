@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic011)  [Next](lfic013) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic011)  [Next](lfic013.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ Gallic War.
 ------------------------------------------------------------------------
 
 [Next: The Three Advices which the King with the Red Soles gave to his
-Son](lfic013)
+Son](lfic013.md)

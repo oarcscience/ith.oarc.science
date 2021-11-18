@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](scl06)  [Next](scl08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](scl06)  [Next](scl08.md) 
 
 ------------------------------------------------------------------------
 
@@ -369,4 +369,4 @@ The mass of a stock must supply our data for judging the stock..
 
 ------------------------------------------------------------------------
 
-[Next: Part VI](scl08)
+[Next: Part VI](scl08.md)

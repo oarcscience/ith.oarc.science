@@ -5,7 +5,7 @@ title: "Site Catalog Index"
 ---
 <div class="filenav">
 
-[Intangible Textual Heritage](../index) 
+[Intangible Textual Heritage](../index.md) 
 
 </div>
 
@@ -33,11 +33,11 @@ title: "Site Catalog Index"
 
 ------------------------------------------------------------------------
 
-[Titles by Keyword](tkwidx)  
-[Authors by Keyword](akwidx)  
-[Subjects by Keyword](skwidx)  
-[Title List](tlsidx)  
-[Author List](alsidx)  
+[Titles by Keyword](tkwidx.md)  
+[Authors by Keyword](akwidx.md)  
+[Subjects by Keyword](skwidx.md)  
+[Title List](tlsidx.md)  
+[Author List](alsidx.md)  
 
 ------------------------------------------------------------------------
 
@@ -51,10 +51,10 @@ listed in this catalog is no indication of its copyright status, or lack
 thereof: some copyrighted items are listed here, and some files based on
 public domain material have specific restrictions on reuse. For more
 information on copyrights, please refer to the site [Terms of
-Service](../tos) and [Copyright](../cnote) pages.
+Service](../tos) and [Copyright](../cnote.md) pages.
 
 If you notice anything *at this site* that hasn't been cataloged here
-but should, please feel free to [contact us](../contact). (If so, please
+but should, please feel free to [contact us](../contact.md). (If so, please
 indicate which file you think should be cataloged by specifying its URL:
 there are tens of thousands of files at the site and we may or may not
 be able to guess which one you are referring to).
@@ -78,7 +78,7 @@ or know the exact title of a book.
 Note that the subject keywords are extracted from data manually supplied
 by the etext preparer. It is not a comprehensive listing of keywords,
 nor is it a full-text index of the site. To search the full text of the
-site, you will need to use [the search page](../search), (or the box at
+site, you will need to use [the search page](../search.md), (or the box at
 the upper right hand corner of this page).
 
 The term 'Author' here, for convenience, includes principal authors,

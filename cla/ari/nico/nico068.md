@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico067) 
-[Next](nico069) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico067.md) 
+[Next](nico069.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ gain.--These, then, are the things that are said.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. Contradictions involved in these opinions](nico069)
+[Next: Chapter 2. Contradictions involved in these opinions](nico069.md)

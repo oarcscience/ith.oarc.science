@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb30)  [Next](ttb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb30)  [Next](ttb32.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_44">p. 44</span>
 
-<span id="img_04400"></span> ![Kwaie’tek, The Sea Gull](img/04400.jpg)
+<span id="img_04400"></span> ![Kwaie’tek, The Sea Gull](img/04400.jpg.md)
 
 ### Kwaie’tek, THE SEA GULL
 
@@ -56,4 +56,4 @@ waters today. Sea Gull, ever since that day, has always been known as
 
 ------------------------------------------------------------------------
 
-[Next: Mateeh, The Goat](ttb32)
+[Next: Mateeh, The Goat](ttb32.md)

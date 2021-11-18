@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe338)  [Next](prwe340) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe338)  [Next](prwe340.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ smelting."
 
 ------------------------------------------------------------------------
 
-[Next: Moses Pitt's Letter Respecting Anne Jeffries](prwe340)
+[Next: Moses Pitt's Letter Respecting Anne Jeffries](prwe340.md)

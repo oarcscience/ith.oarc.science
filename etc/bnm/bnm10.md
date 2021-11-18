@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm09)  [Next](bnm11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm09)  [Next](bnm11.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ is why the magpie's nest is not well built.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Raven's Feathers Are Black.](bnm11)
+[Next: Why The Raven's Feathers Are Black.](bnm11.md)

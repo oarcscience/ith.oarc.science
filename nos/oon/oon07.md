@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon06)  [Next](oon08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon06)  [Next](oon08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -79,7 +79,7 @@ days and hours of best election and disposition,
 <span id="page_52">p. 52</span>
 
 and with all the accuracy I could attain to at a moment \[blessed\]
-"*Minerva libera et non invita*," <span id="fr_35"></span>[1](#fn_35) my
+"*Minerva libera et non invita*," <span id="fr_35"></span>[1](#fn_35.md) my
 calculations looking forward to events through a space of time to come
 that nearly equals that of the past even up to the present, and by this
 they will know in the lapse of time and in all regions what is to
@@ -87,7 +87,7 @@ happen, all written down thus particularly, immingled with nothing
 superfluous.
 
 Notwithstanding that some say, "*Quod de futuris non est determinata
-omnino veritas*," <span id="fr_36"></span>[2](#fn_36) I will confess,
+omnino veritas*," <span id="fr_36"></span>[2](#fn_36.md) I will confess,
 Sire, that I believed myself capable of presage from the natural
 instinct I inherit of my ancestors, adjusted and regulated by elaborate
 calculation, and the endeavour to free the soul, mind, and heart from
@@ -152,7 +152,7 @@ some natural emotional effusion, that resembles the sentential delivery
 of the thousand and two Prophets, that have been from the Creation of
 the world, according to the calculation and Punic Chronicle of Joel:
 "*Effundum spiritum meum super omnem carnem, et prophetabunt filii
-vestri, et filiæ vestræ*." <span id="fr_37"></span>[1](#fn_37) But this
+vestri, et filiæ vestræ*." <span id="fr_37"></span>[1](#fn_37.md) But this
 prophecy proceeded from the mouth of the Holy Spirit, which was the
 sovereign power eternal, in conjunction with the celestial bodies, has
 caused some of the number to predict great and marvellous events.
@@ -161,7 +161,7 @@ As to myself in this place, I set up no claim to such a title--never,
 please God. I fully confess that all proceeds from God, and for that I
 return Him thanks, honour, and immortal praise, and have mingled nothing
 with it of the divination which proceeds *à fato*, but *à Deo à
-naturâ*, <span id="fr_38"></span>[2](#fn_38) and for the most part
+naturâ*, <span id="fr_38"></span>[2](#fn_38.md) and for the most part
 accompanied with the movement of the celestial courses. Much as, if
 looking into a burning mirror \[we see\], as with darkened vision, the
 great events, sad or portentous, and calamitous occurrences that are
@@ -316,7 +316,7 @@ the leap of liberty since the first taking by the Mahometans. Their
 assaults shall not be at all in vain, and in the place where the
 habitation of Abraham was, it shall be assailed by those who hold the
 Jovialists \[followers of Jupiter (Napoleon I.?)\] in reverence. The
-city of Achem \[in the [Island](errata.htm#0) of Sumatra\] shall be
+city of Achem \[in the [Island](errata.htm#0.md) of Sumatra\] shall be
 encompassed and assaulted on all sides by a great force of armed men.
 Their maritime forces shall be weakened by the Westerns. Upon this
 kingdom a great desolation shall come, and the great cities shall be
@@ -331,7 +331,7 @@ for the most part by the Northern and Western men, who will kill him,
 overthrow him, and put the rest to flight, and his children, the
 offspring of many women, imprisoned. Then will come to its fulfilment
 the prophecy of the Royal Prophet, "Ut audiret gemitus compeditorum, et
-solveret filios interemptorum." <span id="fr_39"></span>[1](#fn_39)
+solveret filios interemptorum." <span id="fr_39"></span>[1](#fn_39.md)
 
 <span id="page_60">p. 60</span>
 
@@ -474,7 +474,7 @@ crimes against the Church that are incredible. Human blood will flow in
 the public streets and churches, like water after impetuous rain, and
 will crimson with blood the neighbouring rivers, and by another naval
 war redden the sea to such a degree that one king shall say to another,
-"*Bellis rubuit navalibus æquor*." <span id="fr_40"></span>[1](#fn_40)
+"*Bellis rubuit navalibus æquor*." <span id="fr_40"></span>[1](#fn_40.md)
 Then in the same year and those following there will ensue the most
 horrible pestilence and the most astonishing on account of the famine
 that will precede, and such tribulation that nothing approaching it ever
@@ -531,7 +531,7 @@ quædam facta, horrida fata pauca libanda sunt, quamvis tanta sit in
 omnes tua amplitudo et humanitas homines, deosque pietas, ut solos
 amplissimo et Christianissimo Regis nomine, et ad quem summa totius
 religionis auctoritas deferatur dignus esse videare*." <span
-id="fr_41"></span>[1](#fn_41) But I shall only beseech you, O most
+id="fr_41"></span>[1](#fn_41.md) But I shall only beseech you, O most
 clement King, by this your singular and most prudent goodness, to
 understand rather the desire of my heart, and the sovereign wish I have
 to obey your most excellent Majesty, ever since my eyes approached so
@@ -548,25 +548,25 @@ From Salon this 27th June, 1558.
 
 ### Footnotes
 
-<span id="fn_35"></span>[52:1](oon07.htm#fr_35) "When Minerva was free
+<span id="fn_35"></span>[52:1](oon07.htm#fr_35.md) "When Minerva was free
 and favourable."
 
-<span id="fn_36"></span>[52:2](oon07.htm#fr_36) "There can be no truth
+<span id="fn_36"></span>[52:2](oon07.htm#fr_36.md) "There can be no truth
 entirely determined for certain which concerns the future."
 
-<span id="fn_37"></span>[54:1](oon07.htm#fr_37) See Joel ii. 28.
+<span id="fn_37"></span>[54:1](oon07.htm#fr_37.md) See Joel ii. 28.
 
-<span id="fn_38"></span>[54:2](oon07.htm#fr_38) Which proceeds from
+<span id="fn_38"></span>[54:2](oon07.htm#fr_38.md) Which proceeds from
 fate, but from God, and nature.
 
-<span id="fn_39"></span>[59:1](oon07.htm#fr_39) "Let the sighing of the
+<span id="fn_39"></span>[59:1](oon07.htm#fr_39.md) "Let the sighing of the
 prisoner come before thee. to release the children of death" (Ps.
 lxxviii. 11).
 
-<span id="fn_40"></span>[64:1](oon07.htm#fr_40) "The sea blushed red
+<span id="fn_40"></span>[64:1](oon07.htm#fr_40.md) "The sea blushed red
 with the blood of naval fights."
 
-<span id="fn_41"></span>[66:1](oon07.htm#fr_41) "Many things, O most
+<span id="fn_41"></span>[66:1](oon07.htm#fr_41.md) "Many things, O most
 potent king of all, of the most remarkable kind are shortly to happen,
 that I neither could nor would interweave them all into this epistle;
 but in order to comprehend certain facts, a few horrible destinies must
@@ -577,4 +577,4 @@ highest authority in all religion should be deferred."
 
 ------------------------------------------------------------------------
 
-[Next: Magic](oon08)
+[Next: Magic](oon08.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof00)  [Next](otof02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof00)  [Next](otof02.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ BIBLIOGRAPHY
 
 ------------------------------------------------------------------------
 
-[Next: Plates](otof02)
+[Next: Plates](otof02.md)

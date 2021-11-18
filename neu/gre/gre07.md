@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre06)  [Next](gre08) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre06)  [Next](gre08.md) 
 
 ------------------------------------------------------------------------
 
 # CHAP. II.
 
 IN those days were there great troubles in Norway. Harald the
-Unshorn, <span id="fr_5"></span>[\*](#fn_5) son of Halfdan the Black,
+Unshorn, <span id="fr_5"></span>[\*](#fn_5.md) son of Halfdan the Black,
 was pushing forth for the kingdom. Before that he was King of the
 Uplands; then he went north through the land, and had many battles
 there, and ever won the day. Thereafter he harried south in the land,
@@ -69,7 +69,7 @@ Treefoot.
 
 ### Footnotes
 
-<span id="fn_5"></span>[2:\*](gre07.htm#fr_5) "Harald the Unshorn:" he
+<span id="fn_5"></span>[2:\*](gre07.htm#fr_5.md) "Harald the Unshorn:" he
 was so called at first because he made a vow not to cut his hair till he
 was sole king of Norway. When he had attained to this, and Earl Rognvald
 had taken him to the bath and trimmed his hair, he was called
@@ -77,4 +77,4 @@ had taken him to the bath and trimmed his hair, he was called
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](gre08)
+[Next: Chapter III](gre08.md)

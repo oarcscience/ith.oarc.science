@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh43)  [Next](ulh45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh43)  [Next](ulh45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -98,20 +98,20 @@ hint and fled hot-foot.
 
 <div style="margin-left: 32px">
 
-Ka wai opua-makani o Wailua, <span id="fr_520"></span>[a](#fn_504)  
+Ka wai opua-makani o Wailua, <span id="fr_520"></span>[a](#fn_504.md)  
 I hulihia e ke kai;  
 Awahia ka lau hau,  
 Ai pála-ka-há, ka ai o Maká'u-kiu.  
 5 He kiu ka pua kukui,  
-He elele hooholo na ke Koolau; <span id="fr_521"></span>[b](#fn_505)  
-Ke kipaku mai la i ka wa’a-- <span id="fr_522"></span>[c](#fn_506)  
+He elele hooholo na ke Koolau; <span id="fr_521"></span>[b](#fn_505.md)  
+Ke kipaku mai la i ka wa’a-- <span id="fr_522"></span>[c](#fn_506.md)  
 "E holo oe!"  
 Holo newa ka lau maia me ka pua hau,  
 10 I pili aloha me ka mokila ula i ka wai;  
 Maalo pulelo i ka wai o Malu-aka.  
 He aka kaua makani kaili-hoa;  
 Kaili ino ka lau Malua-kele,  
-Lalau, hopu hewa i ka hoa kanáka; <span id="fr_523"></span>[d](#fn_507)
+Lalau, hopu hewa i ka hoa kanáka; <span id="fr_523"></span>[d](#fn_507.md)
 
 </div>
 
@@ -122,12 +122,12 @@ Lalau, hopu hewa i ka hoa kanáka; <span id="fr_523"></span>[d](#fn_507)
 15 Koe a kau me ka manao iloko.  
 Ke apo wale la no i ke one,  
 I ka uwe wale iho no i Mo’o-mo’o-iki, <span
-id="fr_524"></span>[a](#fn_508) e!  
+id="fr_524"></span>[a](#fn_508.md) e!  
 He ike moolelo na ke kuhi wale,  
 Aole ma ka waha mai o kánaka.  
 20 Hewa, pono ai la hoi au, e ka hoa;  
 Nou ka ke aloha,  
-I lua-ai-ele <span id="fr_525"></span>[b](#fn_509) ai i o, i anei;  
+I lua-ai-ele <span id="fr_525"></span>[b](#fn_509.md) ai i o, i anei;  
 Ua kuewa i ke ala me ka wai-maka.  
 Aohe wa, ua uku i kou hale--  
 25 Hewa au, e!
@@ -173,28 +173,28 @@ Yes, truly, I'm wrong!
 
 ### Footnotes
 
-<span id="fn_504"></span>[255:a](ulh44.htm#fr_520) The scene is laid in
+<span id="fn_504"></span>[255:a](ulh44.htm#fr_520.md) The scene is laid in
 the region about the *Wailua*, a river on Kauai. This stream, tossed
 with waves driven up from the sea, represents figuratively the
 disturbance of the woman's mind at the coming of the officers.
 
-<span id="fn_505"></span>[255:b](ulh44.htm#fr_521) *Koolau*, The name of
+<span id="fn_505"></span>[255:b](ulh44.htm#fr_521.md) *Koolau*, The name of
 a wind; stands for the messengers of the king, whose instructions were
 to expel (*kipaku*, verse 7) and then to slay.
 
-<span id="fn_506"></span>[255:c](ulh44.htm#fr_522) *Wa’a*. Literally
+<span id="fn_506"></span>[255:c](ulh44.htm#fr_522.md) *Wa’a*. Literally
 canoe; stands for the woman herself.
 
-<span id="fn_507"></span>[255:d](ulh44.htm#fr_523) *Hoa kanáka*. Human
+<span id="fn_507"></span>[255:d](ulh44.htm#fr_523.md) *Hoa kanáka*. Human
 companion: is an allusion to the bundle of her husband's bones which she
 carries with her, but which are torn away and lost in the flood.
 
-<span id="fn_508"></span>[256:a](ulh44.htm#fr_524) *Mo’o-mo’o-iki*. A
+<span id="fn_508"></span>[256:a](ulh44.htm#fr_524.md) *Mo’o-mo’o-iki*. A
 land at Wailua. Kauai.
 
-<span id="fn_509"></span>[256:b](ulh44.htm#fr_525) *Lua-ai-ele*. To
+<span id="fn_509"></span>[256:b](ulh44.htm#fr_525.md) *Lua-ai-ele*. To
 carry about with one a sorrow.
 
 ------------------------------------------------------------------------
 
-[Next: XLI.--The Water of Kane](ulh45)
+[Next: XLI.--The Water of Kane](ulh45.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Judaica
-Articles](../../jud/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Judaica
+Articles](../../jud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Articles](../../jud/etc/index)
 
 <span id="page_272">p. 272</span>
 
-## THE MESSIANIC HOPE OF THE SAMARITANS.<span id="page_272_fr_1"></span>[<sup><span class="small">1</span></sup>](#page_272_note_1)
+## THE MESSIANIC HOPE OF THE SAMARITANS.<span id="page_272_fr_1"></span>[<sup><span class="small">1</span></sup>](#page_272_note_1.md)
 
 <span class="small">BY JACOB, SON OF AARON, HIGH PRIEST OF THE
 SAMARITANS.</span>
@@ -149,7 +149,7 @@ And when he had gathered apostles, he delegated them to various
 countries. Among these, Peter was sent to Rome and Andrew to the Soudan,
 Matthew accompanying him. This Matthew wrote a Gospel; (this word is
 Greek<span id="page_276_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_276_note_2) and signifies "good
+class="small">2</span></sup>](#page_276_note_2.md) and signifies "good
 news"). This Matthew wrote his Gospel <span id="page_277">p. 277</span>
 in the year 41 after the death of Jesus, and it is said that he wrote it
 in Judea. Thomas was sent to Babylon, and Philip to Kerwan, and Africa,
@@ -187,7 +187,7 @@ carpenter; Herod the king sought to slay him, and he fled from his hands
 and was a fugitive in hiding from him and from his relatives the Jews.
 At this time the High Priest Yahokeem<span
 id="page_278_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_278_note_3) died, in the mercy of
+class="small">3</span></sup>](#page_278_note_3.md) died, in the mercy of
 God, and was succeeded by the High Priest Jonathan, who held the office
 twenty-seven years. In his day Jesus, the <span id="page_279">p.
 279</span> son of Mary, was crucified by the Emperor Tiberius. With him
@@ -195,7 +195,7 @@ were crucified two sinners, who, according to the law of the Jews, were
 worthy of death. One of them was crucified on his right, and the other
 on his left, and this was in the Jebusite city of Aelia,<span
 id="page_279_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_279_note_4) through the
+class="small">4</span></sup>](#page_279_note_4.md) through the
 instrumentality of Pilateh who ruled over the sect of the Jews.
 
    "This Jesus never molested the Samaritans, all the days of his life;
@@ -491,7 +491,7 @@ love the Lord thy God," etc. <span id="page_291">p. 291</span> Then they
 shall come up and rule the land and truth shall triumph. Compare verse
 3: "And the Lord thy God will return, 'with' thy *repentance*,<span
 id="page_291_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_291_note_2) and pity thee and will
+class="small">2</span></sup>](#page_291_note_2.md) and pity thee and will
 gather thee again from among nations." Also as far as "More than thy
 fathers."
 
@@ -553,7 +553,7 @@ alight upon the Shekinah, in the house of God, on mount Gerizim. This is
 in fulfilment of Ex. xv. 17: "Thou, O God, hast made a sanctuary: O Lord
 build it up with thy might by the ever presence of the Shekinah and of
 offerings."<span id="page_293_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_293_note_3) The ever presence of the
+class="small">3</span></sup>](#page_293_note_3.md) The ever presence of the
 Shekinah is linked with God's eternity, as the next verse indicates:
 "The Lord will reign for ever and ever." They will say, "*Torah asher
 sy-wah lanu Mosheh*," i.e., "The law which Moses commanded us," thereby
@@ -605,7 +605,7 @@ attestation for Israel. For Deut. xxix. 29 says: "It shall be there
 the veracity af our Torah; it has only twenty-two letters, in harmony
 with the numerical value of "B" and "K,"<span
 id="page_294_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_294_note_4) with no addition or
+class="small">4</span></sup>](#page_294_note_4.md) with no addition or
 detraction, and not as the Jews pretend, for their version possesses
 twenty-eight letters.
 
@@ -653,7 +653,7 @@ knows best!*
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Judaica Articles](../../jud/etc/index)
+[Journals](../index) [Judaica Articles](../../jud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -661,13 +661,13 @@ knows best!*
 
 <span id="footnotes_page_272">p. 272</span>
 
-<span id="page_272_note_1"></span>[1](#page_272_fr_1) Translated by
+<span id="page_272_note_1"></span>[1](#page_272_fr_1.md) Translated by
 Abdullah Ben Kori, Professor in Pacific University, Forest Grove,
 Oregon. Edited with an introduction, by William E. Barton. D. D.
 
 <span id="footnotes_page_276">p. 276</span>
 
-<span id="page_276_note_2"></span>[2](#page_276_fr_2) The high priest's
+<span id="page_276_note_2"></span>[2](#page_276_fr_2.md) The high priest's
 definition of the meaning of "Gospel" is better than his knowledge of
 the language from which it has been derived It is good <span
 id="footnotes_page_277">p. 277</span> Old English and means "God-story."
@@ -675,29 +675,29 @@ The Greek εὐαγγέλιον means "good news."
 
 <span id="footnotes_page_278">p. 278</span>
 
-<span id="page_278_note_3"></span>[3](#page_278_fr_3) In a translation
+<span id="page_278_note_3"></span>[3](#page_278_fr_3.md) In a translation
 made in Jerusalem this name is spelled Ay Yam; and in another made in
 Nablous it is Yahonata; but the Samaritan reads Yhkeem.
 
 <span id="footnotes_page_279">p. 279</span>
 
-<span id="page_279_note_4"></span>[4](#page_279_fr_4) The high priest
+<span id="page_279_note_4"></span>[4](#page_279_fr_4.md) The high priest
 and his predecessors avoid the name Jerusalem when convenient to do so:
 and use the name Aelia, or Jebish.
 
 <span id="footnotes_page_291">p. 291</span>
 
-<span id="page_291_note_2"></span>[2](#page_291_fr_2) The High Priest
+<span id="page_291_note_2"></span>[2](#page_291_fr_2.md) The High Priest
 renders *Shebooth ka* as "repentance."
 
 <span id="footnotes_page_293">p. 293</span>
 
-<span id="page_293_note_3"></span>[3](#page_293_fr_3) The High Priest's
+<span id="page_293_note_3"></span>[3](#page_293_fr_3.md) The High Priest's
 rendering of the quotation is very loose.—A. Ben Kori.
 
 <span id="footnotes_page_294">p. 294</span>
 
-<span id="page_294_note_4"></span>[4](#page_294_fr_4) The components of
+<span id="page_294_note_4"></span>[4](#page_294_fr_4.md) The components of
 "in thee" or "for thee." B = 2, and K = 20: total, 22.
 
  

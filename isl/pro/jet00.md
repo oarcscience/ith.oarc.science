@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](job02)  [Next](mos00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](job02)  [Next](mos00.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,4 +193,4 @@ may peace be upon him and upon our prophet (PUT).
 
 ------------------------------------------------------------------------
 
-[Next: Musa ben \`Imrân (Moses ben Amram) (PUH)](mos00)
+[Next: Musa ben \`Imrân (Moses ben Amram) (PUH)](mos00.md)

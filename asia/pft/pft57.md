@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft56)  [Next](pft58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft56)  [Next](pft58.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ such dreadful mistakes that he might better not have tried.
 His family grew very impatient with him, scolding and beating him
 whenever he did anything wrong. One day his mother, who was almost
 discouraged with him, gave him a bolo  <span
-id="fr_156"></span>[157](pft68.htm#fn_156) and sent him to the forest,
+id="fr_156"></span>[157](pft68.htm#fn_156.md) and sent him to the forest,
 for she thought he could at least cut firewood. Juan walked leisurely
 along, contemplating some means of escape. At last he came to a tree
 that seemed easy to cut, and then he drew his long knife and prepared to
@@ -45,7 +45,7 @@ show his treasure to his mother.
 
 On the way he met a friend who was more cunning than Juan, and when he
 heard of the boy's rich goat he decided to rob him. Knowing Juan's
-fondness for tuba  <span id="fr_157"></span>[158](pft68.htm#fn_157), he
+fondness for tuba  <span id="fr_157"></span>[158](pft68.htm#fn_157.md), he
 persuaded him to drink, and while he was drunk, the friend substituted
 another goat for the magic one. As soon as he was sober again, Juan
 hastened home with the goat and told his people of the wonderful tree,
@@ -108,8 +108,8 @@ would have been robbed and killed had it not been for the magic words
 
 Some time after this he married a beautiful princess, and because of the
 kindness of the magic tree they always lived happily.  <span
-id="fr_158"></span>[159](pft68.htm#fn_158)
+id="fr_158"></span>[159](pft68.htm#fn_158.md)
 
 ------------------------------------------------------------------------
 
-[Next: Juan Gathers Guavas](pft58)
+[Next: Juan Gathers Guavas](pft58.md)

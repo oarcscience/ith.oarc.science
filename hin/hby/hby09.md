@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hby08)  [Next](hby10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hby08)  [Next](hby10.md) 
 
 ------------------------------------------------------------------------
 
@@ -269,4 +269,4 @@ the Absolute Divinity on this earth.
 
 ------------------------------------------------------------------------
 
-[Next: Science of Breathing](hby10)
+[Next: Science of Breathing](hby10.md)

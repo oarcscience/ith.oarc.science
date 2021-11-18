@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr00)  [Next](corr02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr00)  [Next](corr02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,9 +18,9 @@ Textual Heritage
 
 <span id="page_275">p. 275</span>
 
-### LETTER I. (I. <span id="fr_0"></span>[1](#fn_0))
+### LETTER I. (I. <span id="fr_0"></span>[1](#fn_0).md)
 
-#### HENRY OLDENBURG <span id="fr_1"></span>[2](#fn_1) TO B. DE SPINOZA.
+#### HENRY OLDENBURG <span id="fr_1"></span>[2](#fn_1.md) TO B. DE SPINOZA.
 
 \[*Oldenburg, after complimenting Spinoza, asks him to enter into a
 philosophical correspondence*.\]
@@ -63,7 +63,7 @@ laid on me to repay you, as far as possible, with similar services.
 
 There is at present in the press a collection of physiological
 discourses written by an Englishman of noble family and distinguished
-learning. <span id="fr_2"></span>[1](#fn_2) They treat of the nature and
+learning. <span id="fr_2"></span>[1](#fn_2.md) They treat of the nature and
 elasticity of the air, as proved by forty-three experiments; also of its
 fluidity, solidity, and other analogous matters. As soon as the work is
 published, I shall make a point of sending it to you by any friend who
@@ -79,14 +79,14 @@ London, 12/26 Aug., 1661.
 
 ### Footnotes
 
-<span id="fn_0"></span>[275:1](corr01.htm#fr_0) The number of each
+<span id="fn_0"></span>[275:1](corr01.htm#fr_0.md) The number of each
 letter as arranged in Van Vluten's edition is given in brackets.
 
-<span id="fn_1"></span>[275:2](corr01.htm#fr_1) See Introduction, p.
+<span id="fn_1"></span>[275:2](corr01.htm#fr_1.md) See Introduction, p.
 xvi.
 
-<span id="fn_2"></span>[276:1](corr01.htm#fr_2) Robert Boyle.
+<span id="fn_2"></span>[276:1](corr01.htm#fr_2.md) Robert Boyle.
 
 ------------------------------------------------------------------------
 
-[Next: Letter II. To Oldenburg](corr02)
+[Next: Letter II. To Oldenburg](corr02.md)

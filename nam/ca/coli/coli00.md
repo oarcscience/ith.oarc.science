@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Next](coli01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Next](coli01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Culture of the Luiseño Indians*, by Philip Stedman Sparkman,
 \[1908\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ because it was published prior to 1923.
 
 <span id="img_pl20"></span> <span align="CENTER"> [![GROUND-PAINTING AT
 BOYS AND GIRLS PUBERTY CEREMONIES.](tn/pl20.jpg)  
-Click to enlarge](img/pl20.jpg)  
+Click to enlarge](img/pl20.jpg.md)  
 GROUND-PAINTING AT BOYS’ AND GIRLS’ PUBERTY CEREMONIES.  
 </span>
 
@@ -68,4 +68,4 @@ GROUND-PAINTING AT BOYS’ AND GIRLS’ PUBERTY CEREMONIES.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](coli01)
+[Next: Contents](coli01.md)

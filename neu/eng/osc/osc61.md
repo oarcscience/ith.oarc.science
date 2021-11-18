@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc60)  [Next](osc62) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc60)  [Next](osc62.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ cleric than in the mechanics.
 
 ------------------------------------------------------------------------
 
-[Next: (21) Knife Superstitions](osc62)
+[Next: (21) Knife Superstitions](osc62.md)

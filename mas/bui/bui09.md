@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui08)  [Next](bui10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui08)  [Next](bui10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ clime, creed, and condition.
 
 Turning to the *Regius MS*, we find fifteen "points" or rules set forth
 for the guidance of Fellowcrafts, and as many for the rule of Master
-Masons. <span id="fr_82"></span>[1](#fn_82) Later the number was reduced
+Masons. <span id="fr_82"></span>[1](#fn_82.md) Later the number was reduced
 to nine,
 
 <span id="page_129">p. 129</span>
@@ -133,11 +133,11 @@ all speed.
 
 After seven long years the Apprentice brought his masterpiece to the
 Lodge—or, in earlier times, to the annual Assembly <span
-id="fr_83"></span>[1](#fn_83)—and on strict trial and due examination
+id="fr_83"></span>[1](#fn_83.md)—and on strict trial and due examination
 was declared a Master. Thereupon he ceased to be a pupil and servant,
 passed into the yanks of F'ellowcrafts, and became a free man capable,
 for the first time in his life, of earning his living and choosing his
-own employer. Having selected a Mark <span id="fr_84"></span>[2](#fn_84)
+own employer. Having selected a Mark <span id="fr_84"></span>[2](#fn_84.md)
 by which his work could be identified,
 
 <span id="page_132">p. 132</span>
@@ -228,7 +228,7 @@ craft, and Apprentices serving their time. Besides these we find
 subordinate laborers, not of the Lodge though in it, termed layers,
 setters, tilers, and so forth. Masters and Fellows wore a distinctive
 costume, which remained almost unchanged in its fashion for no less than
-three centuries. <span id="fr_85"></span>[1](#fn_85) Withal, it was a
+three centuries. <span id="fr_85"></span>[1](#fn_85.md) Withal, it was a
 serious
 
 <span id="page_136">p. 136</span>
@@ -260,7 +260,7 @@ erect a church, containing such stipulations as, that a Lodge covered
 with tiles should be built for their accommodation, and that every
 laborer should be provided with a white apron of a peculiar kind of
 leather and gloves to shield the hands from stone and slime. <span
-id="fr_86"></span>[1](#fn_86) At all events, the picture we have is that
+id="fr_86"></span>[1](#fn_86.md) At all events, the picture we have is that
 of a little community or village of workmen, living in rude dwellings,
 with a Lodge room at the center adjoining a slowly rising cathedral—the
 Master busy with his plans and the care of his craft; Fellows shaping
@@ -277,8 +277,8 @@ followed by the directions of the Master for the work of the day, which
 no doubt included study of the laws of the art, plans of construction,
 and the mystical meaning of ornaments and emblems. Only Masons were in
 attendance at such times, the Lodge being closed to all others, and
-guarded by a Tiler <span id="fr_87"></span>[1](#fn_87) against "the
-approach of cowans <span id="fr_88"></span>[2](#fn_88) and
+guarded by a Tiler <span id="fr_87"></span>[1](#fn_87.md) against "the
+approach of cowans <span id="fr_88"></span>[2](#fn_88.md) and
 eavesdroppers." Thus the
 
 <span id="page_139">p. 139</span>
@@ -303,7 +303,7 @@ known
 <span id="page_140">p. 140</span>
 
 to the men of his craft by certain signs, grips, and words. <span
-id="fr_89"></span>[1](#fn_89) Such tokens of recognition were necessary
+id="fr_89"></span>[1](#fn_89.md) Such tokens of recognition were necessary
 to men who traveled afar in those uncertain days, especially when
 references or other means of identification were ofttimes impossible.
 All that many people knew about the order was that its members had a
@@ -340,14 +340,14 @@ sum up what seems to be the truth arrived
 
 <span id="page_142">p. 142</span>
 
-at. <span id="fr_90"></span>[1](#fn_90) While such a thing as a written
+at. <span id="fr_90"></span>[1](#fn_90.md) While such a thing as a written
 record of an ancient degree—aside from the *Old Charges*, which formed a
 part of the earliest rituals—is unthinkable, we are not left altogether
 to the mercy of conjecture in a matter so important. Cesare Cantu tells
 us that the Comacine Masters "were called together in the Loggie by a
 grand-master to treat of affairs common to the order, to receive
 novices, and *confer superior degrees on others*." <span
-id="fr_91"></span>[2](#fn_91) Evidence of a sort similar is abundant,
+id="fr_91"></span>[2](#fn_91.md) Evidence of a sort similar is abundant,
 but not a little confusion will be avoided if the following
 considerations be kept in mind:
 
@@ -361,14 +361,14 @@ its fellowship, of necessity its rites became more
 <span id="page_143">p. 143</span>
 
 formal—"*very formall*," as Dugdale said in 1686, <span
-id="fr_92"></span>[1](#fn_92)—portraying in ceremony what had long been
+id="fr_92"></span>[1](#fn_92.md)—portraying in ceremony what had long been
 present in its symbolism and practice.
 
 Second, that with the decline of the old religious art of building—for
 such it was in very truth—some of its symbolism lost its luster, its
 form surviving but its meaning obscured, if not entirely faded. Who
 knows, for example—even with the Klein essay on *The Great Symbol* <span
-id="fr_93"></span>[2](#fn_93) in hand—what Pythagoras meant by his
+id="fr_93"></span>[2](#fn_93.md) in hand—what Pythagoras meant by his
 lesser and greater Tetractys? That they were more than mathematical
 theorems is plain, yet even Plutarch missed their meaning. In the same
 way, some of the emblems in our Lodges are veiled, or else wear meanings
@@ -393,7 +393,7 @@ had come down from the past.
 Keeping in mind this order of evolution in the history of Masonry, we
 may now state the facts, so far as they are known, as to its early
 degrees; dividing it into two periods, the Operative and the
-Speculative. <span id="fr_94"></span>[1](#fn_94) An Apprentice in the
+Speculative. <span id="fr_94"></span>[1](#fn_94.md) An Apprentice in the
 olden days was "entered" as a novice of the craft, first, as a purely
 business proceeding, not unlike our modern indentures, or articles.
 Then, or shortly afterwards—probably
@@ -411,7 +411,7 @@ initiation, as Hallam remarks, and if we may trust the Findel version of
 the ceremony used among the German Stone-masons, it was very like the
 first degree as we now have it—though one has always the feeling that it
 was embellished in the light of later time. <span
-id="fr_95"></span>[1](#fn_95)
+id="fr_95"></span>[1](#fn_95.md)
 
 So far there is no dispute, but the question is whether any other degree
 was known in the early lodges. Both the probabilities of the case,
@@ -432,7 +432,7 @@ fondness of the men of the Middle Ages for ceremony, it is hardly
 conceivable that the day of all days when an Apprentice, having worked
 for seven long years, acquired the status of a Fellow, was allowed to go
 unmarked, least of all in an order of men to whom building was at once
-an art and an allegory. So that, not only the [exigencies](errata.htm#6)
+an art and an allegory. So that, not only the [exigencies](errata.htm#6.md)
 of his occupation, but the importance of the day to a young man, and the
 spirit of the order, justify such a conclusion.
 
@@ -474,7 +474,7 @@ Fellows made acquainted with the secrets of an Apprentice? If
 so, then the two degrees were either conferred in one evening, or
 else—what seems to have been the fact—they were welded into one; since
 we hear of men being made Masons in a single evening. <span
-id="fr_96"></span>[1](#fn_96) Customs differed, no doubt, in different
+id="fr_96"></span>[1](#fn_96.md) Customs differed, no doubt, in different
 Lodges, some of which were chiefly operative, or made up of men who had
 been working Masons, with only a sprinkling of men not workmen who had
 been admitted; while others were purely symbolical Lodges as far back as
@@ -497,13 +497,13 @@ nature and details cannot be discussed without grave indiscretion;
 
 but nothing is plainer than that *we need not go outside Masonry itself
 to find the materials out of which all three degrees, as they now exist,
-were developed*. <span id="fr_97"></span>[1](#fn_97) Even the French
+were developed*. <span id="fr_97"></span>[1](#fn_97.md) Even the French
 Companionage, or Sons of Solomon, had the legend of the Third Degree
 long before 1717, when some imagine it to have been invented. If little
 or no mention of it is found among English Masons before that date, that
 is no reason for thinking that it was unknown. *Not until 1841 was it
 known to have been a secret of the Companionage in Prance, so deeply and
-carefully was it hidden*. <span id="fr_98"></span>[2](#fn_98) Where so
+carefully was it hidden*. <span id="fr_98"></span>[2](#fn_98.md) Where so
 much is dim one may not be dogmatic, but what seems to have taken place
 in 1717 was, not the *addition* of a third degree
 
@@ -533,7 +533,7 @@ whence Masonry came, and where it got its symbols and degrees.
 
 ### Footnotes
 
-<span id="fn_82"></span>[128:1](bui09.htm#fr_82) Our present craft
+<span id="fn_82"></span>[128:1](bui09.htm#fr_82.md) Our present craft
 nomenclature is all wrong; the old order was first Apprentice, then
 Master, then Fellowcraft—mastership being, <span id="page_129">p.
 129</span> not a degree conferred, but a reward of skill as a workman
@@ -552,7 +552,7 @@ both Masters and Fellows. Any Master (or Fellow) could become a Master
 of the Work at any time, provided he was of sufficient skill and had the
 luck to be chosen as such either by the employer, or the Lodge, or both.
 
-<span id="fn_83"></span>[131:1](bui09.htm#fr_83) The older MSS indicate
+<span id="fn_83"></span>[131:1](bui09.htm#fr_83.md) The older MSS indicate
 that initiations took place, for the most part, at the annual
 Assemblies, which were bodies not unlike the Grand Lodges of today,
 presided over by a President—a Grand Master in fact, though not in name.
@@ -562,7 +562,7 @@ disputes, and regulated the craft; but they were also occasions of
 festival and social good will. At a later time they declined, and the
 functions of initiation more and more reverted to the Lodges.
 
-<span id="fn_84"></span>[131:2](bui09.htm#fr_84) The subject of Mason's
+<span id="fn_84"></span>[131:2](bui09.htm#fr_84.md) The subject of Mason's
 Marks is most interesting, particularly with reference to the origin and
 growth of Gothic architecture, but too intricate to be entered upon
 here. As for example, an essay entitled "Scottish Mason's Marks Compared
@@ -573,7 +573,7 @@ East, as shown by the <span id="page_132">p. 132</span> difference in
 Mason's Marks as compared with those of the Norman period. (Also
 proceedings of *A. Q. C.*, iii, 65-81.)
 
-<span id="fn_85"></span>[135:1](bui09.htm#fr_85) *History of Masonry*,
+<span id="fn_85"></span>[135:1](bui09.htm#fr_85.md) *History of Masonry*,
 Steinbrenner. It consisted of a short black tunic—in summer made of
 linen, in winter of wool—open at the sides, with a gorget to which a
 hood was attached; round the waist was a leathern girdle, from which
@@ -586,7 +586,7 @@ titled (*History of Agriculture and Prices* in England, T. Rogers). On
 their heads they wore large felt or straw hats, and tight leather
 breeches and long boots completed the garb.
 
-<span id="fn_86"></span>[137:1](bui09.htm#fr_86) Gloves were more widely
+<span id="fn_86"></span>[137:1](bui09.htm#fr_86.md) Gloves were more widely
 used in the olden times than now, and the practice of giving them as
 presents was common in mediaeval times. Often, when the harvest was
 over, gloves were distributed to the laborers who gathered it (*History
@@ -601,7 +601,7 @@ interesting article by Rylands, *A. Q. C.*, vol. v, and the delightful
 essay on "Gloves," by Dr. Mackey, in his *Symbolism of Freemasonry*.)
 Not only the tools of the builder, but his clothing, had moral meaning.
 
-<span id="fn_87"></span>[138:1](bui09.htm#fr_87) *Tiler*—like the word
+<span id="fn_87"></span>[138:1](bui09.htm#fr_87.md) *Tiler*—like the word
 *cable-tow*—is a word peculiar to the language of Masonry, and means one
 who guards the Lodge to see that only Masons are within ear-shot. It
 probably derives from the Middle Ages when the makers of tiles for
@@ -611,7 +611,7 @@ work of covering buildings. Some tiler was appointed to act as sentinel
 to keep off intruders, and hence, in course of time, the name of Tiler
 came to be applied to any Mason who guarded the Lodge.
 
-<span id="fn_88"></span>[138:2](bui09.htm#fr_88) Much has been written
+<span id="fn_88"></span>[138:2](bui09.htm#fr_88.md) Much has been written
 of the derivation and meaning of the word *cowan*, some finding its
 origin in a Greek term meaning "dog." (See "An Inquiry Concerning
 Cowans," by D. Ramsay, Review of Freemasonry, vol. i.) But its origin is
@@ -630,7 +630,7 @@ neck and out at the heels. What penalty was inflicted in dry weather, we
 are not informed. At any rate, they had contempt for a man who tried to
 make use of the signs of the craft without knowing its art and ethics.
 
-<span id="fn_89"></span>[140:1](bui09.htm#fr_89) This subject is most
+<span id="fn_89"></span>[140:1](bui09.htm#fr_89.md) This subject is most
 fascinating. Even in primitive ages there seems to have been a kind of
 universal sign-language employed, at times, by all peoples. Among widely
 separated tribes the signs were very similar, owing, perhaps, to the
@@ -651,7 +651,7 @@ the order for the old, the universal, the *human*; its genius for making
 use of all the ways and means whereby men may be brought to know and
 love and help one another.
 
-<span id="fn_90"></span>[142:1](bui09.htm#fr_90) Once more it is a
+<span id="fn_90"></span>[142:1](bui09.htm#fr_90.md) Once more it is a
 pleasure to refer to the transactions of the Quatuor Coronati Lodge of
 Research, whose essays and discussions of this issue, as of so many
 others, are the best survey of the whole question from all sides. The
@@ -661,15 +661,15 @@ with the materials for the third, cover the field quite thoroughly and
 in full light of all the facts (*A. Q. C.*, vol. x, 127; vol. xi, 47).
 As for the Third Degree, that will be considered further along.
 
-<span id="fn_91"></span>[142:2](bui09.htm#fr_91) *Storia di Como*, vol.
+<span id="fn_91"></span>[142:2](bui09.htm#fr_91.md) *Storia di Como*, vol.
 i, 440.
 
-<span id="fn_92"></span>[143:1](bui09.htm#fr_92) *Natural History of
+<span id="fn_92"></span>[143:1](bui09.htm#fr_92.md) *Natural History of
 Wiltshire*, by John Aubrey, written, but not published, in 1686.
 
-<span id="fn_93"></span>[143:2](bui09.htm#fr_93) *A. Q. C.*, vol. x, 82.
+<span id="fn_93"></span>[143:2](bui09.htm#fr_93.md) *A. Q. C.*, vol. x, 82.
 
-<span id="fn_94"></span>[144:1](bui09.htm#fr_94) Roughly speaking, the
+<span id="fn_94"></span>[144:1](bui09.htm#fr_94.md) Roughly speaking, the
 year 1600 may be taken as a date dividing the two periods. Addison,
 writing in the *Spectator*, March 1, 1711, draws the following
 distinction between a speculative and an operative member of a trade or
@@ -686,13 +686,13 @@ as moral emblems in a way quite unknown to builders of our day. ’Tis a
 pity that this light of poetry has faded from our toil, and with it the
 joy of work.
 
-<span id="fn_95"></span>[145:1](bui09.htm#fr_95) *History of Masonry*,
+<span id="fn_95"></span>[145:1](bui09.htm#fr_95.md) *History of Masonry*,
 p. 66.
 
-<span id="fn_96"></span>[148:1](bui09.htm#fr_96) For a single example,
+<span id="fn_96"></span>[148:1](bui09.htm#fr_96.md) For a single example,
 the *Diary* of Elias Ashmole, under date of 1646.
 
-<span id="fn_97"></span>[149:1](bui09.htm#fr_97) Time out of mind it has
+<span id="fn_97"></span>[149:1](bui09.htm#fr_97.md) Time out of mind it has
 been the habit of writers, both within the order and without, to treat
 Masonry as though it were a kind of agglomeration of archaic remains and
 platitudinous moralizings, made up of the heel-taps of Operative legend
@@ -707,11 +707,11 @@ chapter following, to which those are respectfully referred who go
 everywhere else, *except to Masonry itself*, to learn what Masonry is
 and how it came to be.
 
-<span id="fn_98"></span>[149:2](bui09.htm#fr_98) *Livre du
+<span id="fn_98"></span>[149:2](bui09.htm#fr_98.md) *Livre du
 Compagnonnage*, by Agricol Perdiguier, 1841. George Sand's novel, *Le
 Compagnon du Tour de France*, was published the same year. See full
 account of this order in Gould, *History of Masonry*, vol. i, chap. v.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Accepted Masons](bui10)
+[Next: Chapter III. Accepted Masons](bui10.md)

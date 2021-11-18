@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi16)  [Next](hpi18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi16)  [Next](hpi18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ in reality care for Aristotle? It was not his concern to commit himself
 wholly to the spirit of any system. He took what was to his liking,
 wherever he found it, but he had a preference for the shallow
 paraphrases of Themistius. Thus he became the great philosopher of
-[accommodation](errata.htm#7) in the East, and the true forerunner of
+[accommodation](errata.htm#7.md) in the East, and the true forerunner of
 compendium-writers for the whole world. He knew how to group with skill
 his material, collected as it was from every quarter,.
 
@@ -262,7 +262,7 @@ the Elements. It is not the inseparable Form of the body, but is
 accidental to it. From the Giver of Forms, that is--from the Active
 Spirit over us, every Body receives its own Soul, which is adapted to it
 and to it alone. From its very beginning each Soul is an individual
-substance, and it [develops](errata.htm#8) increasing individuality
+substance, and it [develops](errata.htm#8.md) increasing individuality
 throughout its life in the body. It must be admitted that this does not
 agree
 
@@ -308,7 +308,7 @@ second case, the representation is extended to the Universal. Then, in
 the hinder part of the brain, the Representative Memory, or store-house
 of the representations formed by combined Sensuous Impression and
 Rational Reflection, follows as a fifth power. In this way five Internal
-Senses <span id="fr_17"></span>[1](#fn_17) correspond to the five
+Senses <span id="fr_17"></span>[1](#fn_17.md) correspond to the five
 External Senses, although with quite another reference than the five
 Internal Senses of the Faithful Brethren. The question which is
 raised--as to whether one should farther separate Recollection, as a
@@ -411,7 +411,7 @@ cannot satisfy.
 
 8\. The theoretical development of Ethics and Politics may be left to
 the teachers of the '*fiqh*'. Our philosopher feels himself on the level
-of a inspired person, exalted like a God [above](errata.htm#9) all human
+of a inspired person, exalted like a God [above](errata.htm#9.md) all human
 laws. Religious or Civil Law is binding only on the Many. Mohammed's
 object was, to civilize the Bedouins; and, in order to aid in
 accomplishing that object, he preached, among other doctrines, that of
@@ -539,7 +539,7 @@ Ibn Sina's writings, as part of a certain judge's philosophical library.
 
 ### Footnotes
 
-<span id="fn_17"></span>[141:1](hpi17.htm#fr_17) \[*Translator's
+<span id="fn_17"></span>[141:1](hpi17.htm#fr_17.md) \[*Translator's
 note*.--Accordingly Ibn Sina's Five Internal Senses are: 1. The General
 or Co-ordinating Sense; 2. Memory of the Collective sense-images; 3.
 Unconscious Apperception, referring to individuals; 4. Conscious
@@ -548,4 +548,4 @@ apperceptions\].
 
 ------------------------------------------------------------------------
 
-[Next: 5. Ibn al-Haitham](hpi18)
+[Next: 5. Ibn al-Haitham](hpi18.md)

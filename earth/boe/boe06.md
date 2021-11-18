@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe05)  [Next](boe07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe05)  [Next](boe07.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ sphere represents water; the pyramid or triangular tongue, fire or the
 elements in motion; the crescent or inverted vault of the
 
 <span id="img_fig001"></span> ![FIGURE I. &lt;i&gt;The Stupa&lt;/i&gt;.
-(From &lt;i&gt;Foe koue ki&lt;/i&gt;, by Fa-heen.)](img/fig001.jpg)  
+(From &lt;i&gt;Foe koue ki&lt;/i&gt;, by Fa-heen.)](img/fig001.jpg.md)  
 FIGURE I. *The Stupa*. (From *Foe koue ki*, by Fa-heen.)
 
 sky, air or wind; the acuminated sphere or body-pyri-form, ether
@@ -52,7 +52,7 @@ the figure of Earth directly, or a direct relation of the Earth to the
 universe.
 
 <span id="img_fig002"></span> ![FIGURE 2. &lt;i&gt;The
-Tetrahedron&lt;/i&gt;.](img/fig002.jpg)  
+Tetrahedron&lt;/i&gt;.](img/fig002.jpg.md)  
 FIGURE 2. *The Tetrahedron*.
 
 Take the five regular solids, for instance: the tetrahedron, the
@@ -61,7 +61,7 @@ has been a tetrahedron, and it has been, many, many times, a cube. It
 has been conceived of as an eight-sided figure--one of the Siberian
 
 <span id="img_fig003"></span> ![FIGURE 3. &lt;i&gt;The
-Octahedron&lt;/i&gt;.](img/fig003.jpg)  
+Octahedron&lt;/i&gt;.](img/fig003.jpg.md)  
 FIGURE 3. *The Octahedron*.
 
 tribes believes to-day that the octahedron is the true figure of Earth.
@@ -77,14 +77,14 @@ five regular solids fitted between the six spheres in a very curious
 order, and he elaborated on
 
 <span id="img_fig004"></span> ![FIGURE 4. &lt;i&gt;The
-Icosahedron&lt;/i&gt;.](img/fig004.jpg)  
+Icosahedron&lt;/i&gt;.](img/fig004.jpg.md)  
 FIGURE 4. *The Icosahedron*.
 
 the nature of these solids and their relation to our solar system all of
 his life. The "nature" of the tetrahedron
 
 <span id="img_fig005"></span> ![FIGURE 5. &lt;i&gt;The
-Cube&lt;/i&gt;.](img/fig005.jpg)  
+Cube&lt;/i&gt;.](img/fig005.jpg.md)  
 FIGURE 5. *The Cube*.
 
 was of fire. The nature of the octahedron was of "flying birds." The
@@ -97,7 +97,7 @@ place between Saturn and Jupiter, and the nature of the dodecahedron was
 that of the celestial vault, or ether.
 
 <span id="img_fig006"></span> ![FIGURE 6. &lt;i&gt;The
-Dodecahedron&lt;/i&gt;.](img/fig006.jpg)  
+Dodecahedron&lt;/i&gt;.](img/fig006.jpg.md)  
 FIGURE 6. *The Dodecahedron*.
 
 Earth has been given, also, at one time or another and in one way or
@@ -124,7 +124,7 @@ rest on the outermost plaine, then wolde it
 <span id="img_fig007-13"></span>
 
 [![Figures 7 through 13](tn/fig007-13.jpg)  
-Click to enlarge](img/fig007-13.jpg)  
+Click to enlarge](img/fig007-13.jpg.md)  
   
 
 <div align="center">
@@ -186,7 +186,7 @@ a watch-spring, which, stretched, or
 <span id="img_fig014"></span>
 
 [![FIGURE 14. &lt;i&gt;Spiral forms&lt;/i&gt;.](tn/fig014.jpg)  
-Click to enlarge](img/fig014.jpg)  
+Click to enlarge](img/fig014.jpg.md)  
 FIGURE 14. *Spiral forms*.  
 
  
@@ -200,7 +200,7 @@ him the vine--Nature's handiwork, and he used it to symbolise that for
 which he was always seeking, the connecting link, the path of
 communication between Earth and Heaven.
 
-Of the spiral forms given in [Fig. 14](#img_fig014) the two small ones
+Of the spiral forms given in [Fig. 14](#img_fig014.md) the two small ones
 in the centre are modern drawings of radium and helium atoms, but their
 duplicates are to be found in the oldest, crudest pictographs of the
 cosmos--man's attempt to represent by a line either Earth's creative
@@ -233,7 +233,7 @@ and tombs and sacred rocks had been engraved with significant "studies"
 in spiral forms--many of those of the Eastern world based beyond all
 doubt on the struggle of the lotus with the elements and on the analogy
 of the lotus to the Earth--even to the cosmos itself. The ancient
-*Stupa* ([Fig. 1](#img_fig001)) was not only a symbol of the five great
+*Stupa* ([Fig. 1](#img_fig001).md) was not only a symbol of the five great
 elements, but it was also, for the Orient, an almost literal drawing of
 the lotus plant, rooted in Earth, climbing through water, by grace of
 its inner fire, to air, lifting there its acuminated spherical bud, and
@@ -275,7 +275,7 @@ We are," he adds, "more beholdynge to those men, for devising our easy
 walkynge, than we are
 
 <span id="img_fig017"></span> ![FIGURE 17. ''&lt;i&gt;A playne
-Flatte&lt;/i&gt;.''](img/fig017.jpg)  
+Flatte&lt;/i&gt;.''](img/fig017.jpg.md)  
 FIGURE 17. ''*A playne Flatte*.''
 
 bound to them for their wise doctrine. The fourthe secte, fearyng least
@@ -301,11 +301,11 @@ rectangular box and shutting down the lid. Man lived inside his box,
 like a squirrel in a cage.
 
 <span id="img_fig018"></span> ![FIGURE 18. ''&lt;i&gt;Square like a
-box&lt;/i&gt;.''](img/fig018.jpg)  
+box&lt;/i&gt;.''](img/fig018.jpg.md)  
 FIGURE 18. ''*Square like a box*.''
 
 The Cosmasian idea was a simpler scheme of world-making than the model
-offered in [Fig. 19](#img_fig019), but it happens that this simple
+offered in [Fig. 19](#img_fig019.md), but it happens that this simple
 geometric figure is very similar to the Babylonian conception of the
 universe--Earth as a series of "stages" or steps, pyramidal in
 structure, enclosed within a series of concentric spheres. For the idea
@@ -327,7 +327,7 @@ ancients greatly feared that Heaven, illy supported, might
 
 [![FIGURE 19. &lt;i&gt;Squares, or ''stages,'' within
 circles&lt;/i&gt;.](tn/fig019.jpg)  
-Click to enlarge](img/fig019.jpg)  
+Click to enlarge](img/fig019.jpg.md)  
 FIGURE 19. *Squares, or ''stages,'' within circles*.  
 
 collapse and destroy its foundation; they feared also that, if Heaven
@@ -356,7 +356,7 @@ Earth. This particular
 <span id="img_fig020"></span> ![FIGURE 20. &lt;i&gt;The six-faced
 tetrahedron&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Vestiges of the Molten
 Globe&lt;/i&gt;; William Lowthian Green, 1875, Plate
-I.)](img/fig020.jpg)  
+I.)](img/fig020.jpg.md)  
 FIGURE 20. *The six-faced tetrahedron*.  
 (From *Vestiges of the Molten Globe*; William Lowthian Green, 1875,
 Plate I.)
@@ -373,7 +373,7 @@ surface from the least possible substance.
 <span id="img_fig021-3"></span>
 
 [![Figures 21 through 23](tn/fig021-3.jpg)  
-Click to enlarge](img/fig021-3.jpg)  
+Click to enlarge](img/fig021-3.jpg.md)  
   
 
 FIGURE 23. "*Parallel Circles*."
@@ -399,7 +399,7 @@ World was Oviform, hath been the sence and Language of all Antiquity,
 Burnet did not overstate his case, for this was his theory also. The
 concept of the Earth as the Mundane Egg or
 
-<span id="img_fig024"></span> ![FIGURE 24.](img/fig024.jpg)  
+<span id="img_fig024"></span> ![FIGURE 24.](img/fig024.jpg.md)  
 FIGURE 24.
 
 of the universe as the Cosmic Egg is one of the ancient of ancient
@@ -409,7 +409,7 @@ Heaven encloses the Earth from without as the shell encloses the yolk.
 Or the Earth's
 
 <span id="img_fig025"></span> ![FIGURE 25. ''&lt;i&gt;Convex,
-concave&lt;/i&gt;.''](img/fig025.jpg)  
+concave&lt;/i&gt;.''](img/fig025.jpg.md)  
 FIGURE 25. ''*Convex, concave*.''
 
 crust is the shell of the Mundane Egg; Burnet's whole theory of the
@@ -426,7 +426,7 @@ describe it. Shapes are irregular things compared with geometrical
 figures, but they may be accurate nevertheless. "Pear-shaped," for
 
 <span id="img_fig026"></span> ![FIGURE 26. ''&lt;i&gt;Right, Crooked,
-Mixt&lt;/i&gt;.''](img/fig026.jpg)  
+Mixt&lt;/i&gt;.''](img/fig026.jpg.md)  
 FIGURE 26. ''*Right, Crooked, Mixt*.''
 
 instance, is for descriptive purposes just as exact as "triangular" or
@@ -461,4 +461,4 @@ not yet been determined, with all of man's questionings and guesses.
 
 ------------------------------------------------------------------------
 
-[Next: Creation of the World](boe07)
+[Next: Creation of the World](boe07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Next](taf01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Next](taf01.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ purpose, provided this notice of attribution is left intact.
 
 ------------------------------------------------------------------------
 
-[Next: Publisher's Preface](taf01)
+[Next: Publisher's Preface](taf01.md)

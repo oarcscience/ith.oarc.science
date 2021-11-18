@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj07)  [Next](atfj09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj07)  [Next](atfj09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_07"></span> <span align="CENTER"> [![7. Rosetsu Watches
 the Carp](tn/07.jpg)  
-Click to enlarge](img/07.jpg)  
+Click to enlarge](img/07.jpg.md)  
 7. Rosetsu Watches the Carp  
 </span>
 
 ### VI
 
-### A CARP GIVES A LESSON IN PERSEVERANCE <span id="fr_19"></span>[1](#fn_19)
+### A CARP GIVES A LESSON IN PERSEVERANCE <span id="fr_19"></span>[1](#fn_19.md)
 
 BETWEEN the years 1750 and 1760 there lived in Kyoto a great painter
 named Okyo-Maruyama Okyo. His paintings were such as to fetch high
@@ -109,7 +109,7 @@ Rosetsu took for crest the leaping carp.
 
 ### Footnotes
 
-<span id="fn_19"></span>[44:1](atfj08.htm#fr_19) One day my old painter
+<span id="fn_19"></span>[44:1](atfj08.htm#fr_19.md) One day my old painter
 Busetsu was talking with me about Japan's greatest painters, and of one
 of them he told a strange story. It was interesting in one thing
 especially, and that was that the name of *Rosetsu* I could not find
@@ -123,6 +123,6 @@ Rosetsu was one of Okyo's best pupils, perhaps the best.'
 
 ------------------------------------------------------------------------
 
-[Next: VII. Legends Told by a Fisherman on Lake Biwa, At Zeze](atfj09)
+[Next: VII. Legends Told by a Fisherman on Lake Biwa, At Zeze](atfj09.md)
 
 </div>

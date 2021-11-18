@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor13)  [Next](sor15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor13)  [Next](sor15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -144,14 +144,14 @@ worsening his lot yet further by multiplying a long family he cannot
 possibly feed. The priest and the baron both would have him augment the
 number of their serfs, would like to see his wife everlastingly with
 child; and the strangest sermons were preached on this subject, <span
-id="fr_49"></span>[1](#fn_49)—occasionally savage recriminations and
+id="fr_49"></span>[1](#fn_49.md)—occasionally savage recriminations and
 murderous threats indulged in. All this only made the husband more
 obstinate in his precautions. As for the wife, who poor creature could
 never hope to rear children under such conditions, and found only cause
 for tears in their arrival, she dreaded nothing so much as pregnancy.
 She only ventured to attend the nocturnal festival on the express
 assurance repeated again and again that "no woman ever returned
-therefrom heavier than she came." <span id="fr_50"></span>[2](#fn_50)
+therefrom heavier than she came." <span id="fr_50"></span>[2](#fn_50.md)
 
 <span id="page_113">p. 113</span>
 
@@ -196,7 +196,7 @@ The eldest son only could marry. The younger brothers and
 <span id="page_114">p. 114</span>
 
 the sisters all worked under him and for him. <span
-id="fr_51"></span>[3](#fn_51) In the isolated mountain farmsteads of the
+id="fr_51"></span>[3](#fn_51.md) In the isolated mountain farmsteads of the
 south, far removed from all intercourse with neighbours or other women,
 the brothers lived with their sisters, who were their servants and
 belonged to them body and soul,—a state of morals corresponding to that
@@ -329,7 +329,7 @@ who fostered and favoured so many causes,—love, self-devotion, crime! .
 . . What is her fate? Behold her all alone on the deserted heath!
 
 She is far, very far, from being, as represented, the horror of all
-mankind. Many will bless her name. <span id="fr_52"></span>[4](#fn_52)
+mankind. Many will bless her name. <span id="fr_52"></span>[4](#fn_52.md)
 More than one has found her fair, more than one would sell his share of
 Paradise if he dared but approach her. . . . But round about her is a
 great gulf,—the admiration she excites passes all bounds, and the terror
@@ -356,33 +356,33 @@ asked in terror, "Oh, what, what will become of her?" As she went she
 laughed, a horrid peal of fiendish mirth, and disappeared from sight
 like an arrow from a bow. Men fain would know, but know they never
 shall, what was the unhappy creature's final doom. <span
-id="fr_53"></span>[5](#fn_53)
+id="fr_53"></span>[5](#fn_53.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_49"></span>[112:1](sor14.htm#fr_49) It is only a very short
+<span id="fn_49"></span>[112:1](sor14.htm#fr_49.md) It is only a very short
 while ago that my witty and accomplished friend, M. Génin, brought
 together a mass of most curious information on the point in question.
 
-<span id="fn_50"></span>[112:2](sor14.htm#fr_50) Boguet, Lancre, all the
+<span id="fn_50"></span>[112:2](sor14.htm#fr_50.md) Boguet, Lancre, all the
 authorities are at one on this point. A flat contradiction on Satan's
 part, but a state of things entirely agreeable to the serf, the peasant,
 the poor man. The Devil makes the harvest sprout, but renders woman
 barren; wheat in abundance, but never a child.
 
-<span id="fn_51"></span>[114:3](sor14.htm#fr_51) A very common condition
+<span id="fn_51"></span>[114:3](sor14.htm#fr_51.md) A very common condition
 of things in France, I have often been told by the learned and accurate
 M. Monteil.
 
-<span id="fn_52"></span>[117:4](sor14.htm#fr_52) Lancre speaks of
+<span id="fn_52"></span>[117:4](sor14.htm#fr_52.md) Lancre speaks of
 Sorceresses who won both love and adoration.
 
-<span id="fn_53"></span>[118:5](sor14.htm#fr_53) This is almost exactly
+<span id="fn_53"></span>[118:5](sor14.htm#fr_53.md) This is almost exactly
 the end of an English Witch whose history is told by Wyer.
 
 ------------------------------------------------------------------------
 
 [Next: 13. The Sorceress in Her Decadence—Satan Multiplied and
-Vulgarised](sor15)
+Vulgarised](sor15.md)

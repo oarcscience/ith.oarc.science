@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das22)  [Next](das24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das22)  [Next](das24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ that have persisted since the days when slave ships brought their
 ancestors to the new country.
 
 One of the oldest inhabitants is Katie Brown, <span
-id="fr_141"></span>[1](#fn_141) whose grandmother, Margaret, was a
+id="fr_141"></span>[1](#fn_141.md) whose grandmother, Margaret, was a
 daughter of Belali Mohomet, the Mohammedan slave driver of Thomas
 Spalding. Katie, sunning herself on the back steps of her small house,
 was disposed to be gracious to us. Shaking her head at the size of the
@@ -72,16 +72,16 @@ the sight of some pipe tobacco and began to talk:
 
 "I dunno bout drums at chuches. Use tuh hab um long time ago, but not
 now on duh ilun,--leas I ain heah um. Hahves time wuz time fuh drums.
-Den dey hab big times. [38](das26.htm#xref_38) Wen hahves in, dey hab
+Den dey hab big times. [38](das26.htm#xref_38.md) Wen hahves in, dey hab
 big gadderin. Dey beat drum, rattle dry goad wid seed in um, an beat big
-flat tin plates. [23](das26.htm#xref_23),  [25](das26.htm#xref_25) Dey
+flat tin plates. [23](das26.htm#xref_23),  [25](das26.htm#xref_25.md) Dey
 shout an moob roun in succle an look lak mahch goin tuh heabm. Hahves
 festival, dey call it."
 
 In response to our query about "set-ups" Katie replied, "Yes'm, we hab
 set-ups wid duh dead, but I ain know bout killin chicken. At duh fewnul,
-dey kills hawg an hab [40](das26.htm#xref_40) plenty tuh
-eat. [37b](das26.htm#xref_37b),  [37c](das26.htm#xref_37c) Duh reason
+dey kills hawg an hab [40](das26.htm#xref_40.md) plenty tuh
+eat. [37b](das26.htm#xref_37b),  [37c](das26.htm#xref_37c.md) Duh reason
 fuh dis is so dat sperrit hab plenty at duh las. Wen fewnul pruhcession
 gits tuh grabeyahd, dey stops. I ain know wy dey do it but dey stops at
 duh gate, and dey ax leab tuh come in. Deah ain nobody at
@@ -90,7 +90,7 @@ duh gate, and dey ax leab tuh come in. Deah ain nobody at
 
 duh gate, but dey alluz ax jis duh same. Dey say, 'Fambly, we come tuh
 put our brudduh away in mudduh dus. Please leh us go tru
-gate.'" [60](das26.htm#xref_60)
+gate.'" [60](das26.htm#xref_60.md)
 
 About conjure, however, the old woman was not very communicative. "I ain
 know bout cunjuh," she said. "I heahs bout spells on people, but I ain
@@ -99,7 +99,7 @@ place weah road tun, an I heah sumpin behine me runnin long close tuh
 groun. He got big long tus, dis long, an he tongue hangin out. He pas
 close tuh me, an he look a me. I see um good. He got long tick haiah lak
 Noofounlan. Deah ain nebuh bin dog lak um on ilun. He mus be
-shadduh. [54](das26.htm#xref_54)
+shadduh. [54](das26.htm#xref_54.md)
 
 "Den one night, I come frum clinch wid huzbun. We gits tuh tun, I heahs
 sumpm agen. I looks, an deah is sumpm look lak man. Huzbun he ain see
@@ -113,7 +113,7 @@ yuh see um, yuh musn talk bout um.
 "No'm, I dunno no animal stories. I heah um, but I fuhgits. I know bout
 lizzud an rabbit, dough. Yuh ain know bout lizzud an rabbit? Well,
 lizzud, he wuk hahd. He hab sode wut he cut crop wid, an it wuk by itsef
-an it cut so fine, nuttn lef. [39](das26.htm#xref_39) Lizzud he speak
+an it cut so fine, nuttn lef. [39](das26.htm#xref_39.md) Lizzud he speak
 wuds tuh it--it do all duh wuk. Now, rabbit, he smaht. He ain got no
 sode lak lizzud got an he wahn one. He hide behine bush, an he watch da
 sode wuk fuh lizzud, an he wahn it bad. One day wen lizzud not at home,
@@ -188,11 +188,11 @@ Before the cabin stood a crudely constructed wooden mortar made many
 years before by Katie's husband and used originally for the pounding of
 rice. A deep basin-like aperture had been hewn out of the center of a
 log which was about three feet long and from eighteen to twenty inches
-wide. [43](das26.htm#xref_43)
+wide. [43](das26.htm#xref_43.md)
 
 Across the dusty road from Katie Brown's another narrow wooden gate
 opened into a field where a winding path led to the small cabin of Julia
-Grovernor, <span id="fr_142"></span>[1](#fn_142) called Juno by the
+Grovernor, <span id="fr_142"></span>[1](#fn_142.md) called Juno by the
 island Negroes. Julia, very black, tall and gaunt, was slightly hostile
 and suspicious and disinclined to talk. Even the pipe tobacco, potent in
 most cases, she indifferently dropped.
@@ -227,7 +227,7 @@ saw huh ahnt agen an nebuh saw duh baby agen. Wen she wuz let out uh duh
 sack, she wuz on boat an nebuh saw Africa agen."
 
 A back path from Julia's house led to the house of her sister,
-Katie, <span id="fr_143"></span>[1](#fn_143) who had a regal and
+Katie, <span id="fr_143"></span>[1](#fn_143.md) who had a regal and
 impressive bearing. She, too, had a hostile and taciturn manner.
 
 "No'm, Ise younguh dan Juno. I dohn membuh nuttn uh doze times. No'm, I
@@ -237,7 +237,7 @@ Calina wen deys ole, but I young chile, an I dohn membuh nuttn bout um.
 No'm, I cahn unnuhstan um; dey talks a funny talk. I cahn unnuhstan um."
 
 In the afternoon we went to see Phoebe Gilbert, <span
-id="fr_144"></span>[2](#fn_144) another descendant of the Ibos, Calina
+id="fr_144"></span>[2](#fn_144.md) another descendant of the Ibos, Calina
 and Hannah. Phoebe, black, buxom, and comely, lived in a comfortable
 cottage in Shell Hammock. Obviously embarrassed at being the center of a
 rapidly increasing crowd of Negro listeners, she evaded most questions.
@@ -258,34 +258,34 @@ tuh watuh edge tuh see flannel an see wut doin. Den duh mens comes off
 boat an ketch um, an wen duh ole folks come in frum duh fiels dey ain no
 chillun in village. Dey's all on boat. Den dey brings um yuh."
 
-Cuffy [20a](das26.htm#xref_20a) Wilson, <span
-id="fr_145"></span>[1](#fn_145) sitting in the clean-swept yard which
+Cuffy [20a](das26.htm#xref_20a.md) Wilson, <span
+id="fr_145"></span>[1](#fn_145.md) sitting in the clean-swept yard which
 surrounded his whitewashed house, told us about the much discussed
 experience of a neighbor of his. This dealt with the current belief
 concerning the necessity of asking leave to enter the graveyard.
 
 "Grant Johnson, he wannuh cut some wood an he git obuh duh fence uh duh
 cimiterry," he explained to us. "He didn ax leab uh
-nobody. [60](das26.htm#xref_60) He wuz a cuttin duh wood down as fas as
+nobody. [60](das26.htm#xref_60.md) He wuz a cuttin duh wood down as fas as
 he could wen all ub a sudden he see a big black dog
-wut [54](das26.htm#xref_54) come attuh im. Dat wuz a shadduh an he ain
+wut [54](das26.htm#xref_54.md) come attuh im. Dat wuz a shadduh an he ain
 lose no time in jumpin obuh duh fence.
 
 "Wen yuh hab a fewnul eben today, yuh hab tuh ax leab tuh entuh duh
 cimiterry gate. Duh spirit ain gonuh let yuh in lessn yuh ask leab ub
 it."
 
-We visited Nero Jones, <span id="fr_146"></span>[2](#fn_146) an elderly
+We visited Nero Jones, <span id="fr_146"></span>[2](#fn_146.md) an elderly
 Negro who lived on his sixty-five-acre tract of land with a daughter,
 Henrietta. Sitting beneath the protecting shade of an arbor which
 overlooked a peanut field, the old man was busily engaged in shucking a
 large basket of the nuts.
 
 He, too, remembered having seen harvest dances. "We use tuh hab big time
-at hahves," [38](das26.htm#xref_38) he began. "We pray an sing duh night
+at hahves," [38](das26.htm#xref_38.md) he began. "We pray an sing duh night
 tru. Wen duh sun riz we go out an dance. We hab big beatin uh drums an
 sometimes we dry duh goads an leab duh seed in um. Dey make good
-rattle. [23](das26.htm#xref_23),  [25](das26.htm#xref_25)
+rattle. [23](das26.htm#xref_23),  [25](das26.htm#xref_25.md)
 
 "I membuh Uncle Calina an An Hannah well. Dey mighty Ole an dey bun up
 in duh house. Dey talk lot uh funny talk tuh each udduh an dey is mighty
@@ -303,7 +303,7 @@ marshes, clumps of feathery bush, all contributed to the tropical beauty
 of the island.
 
 At Hog Hammock we visited Shad Hall, <span
-id="fr_147"></span>[1](#fn_147) another Belali Mohomet descendant, who
+id="fr_147"></span>[1](#fn_147.md) another Belali Mohomet descendant, who
 came to the door of his neat cottage clad in blue denim. Delighted to
 have visitors, Shad was eager for conversation. With a few polite words
 of thanks for the pipe tobacco, he began to talk of the old days.
@@ -361,26 +361,26 @@ Shad furnished us additional information regarding "setups." "Yes'm,
 Gran Hestuh tell me uh set-ups. Dey kill a wite chicken wen dey hab
 set-ups tuh keep duh spirits way. She say a wite chicken is duh only
 ting dat will keep duh spirits way an she alluz keep wite chicken fuh
-dat in yahd. [35](das26.htm#xref_35) Lak dis. Hestuh, she hab frien an
+dat in yahd. [35](das26.htm#xref_35.md) Lak dis. Hestuh, she hab frien an
 frien die. Ebry ebenin friens spirit come back an call tuh
-Hestuh. [56](das26.htm#xref_56) Hestuh knowd ef she keep it up, she die
+Hestuh. [56](das26.htm#xref_56.md) Hestuh knowd ef she keep it up, she die
 too. Hestuh den kills wite chicken, tro it out uh doze, an shut doe
 quick. Wen she tro it out, she say, 'Heah, spirit, moob away--dohn come
 back no mo.' I dunno wut she do wid duh blood an fedduhs.
 
 "Yes'm, I heah tell uh witches, but I ain see um. I know eel skin tie
 roun neck bring good luck an cuo yuh ef Yuh sick. Yes'm, I see um bury
-sack unduh doe step tuh [11](das26.htm#xref_11) pruhtec house; I see um
-tie rag tuh gate tuh pruhtec too. [11b](das26.htm#xref_11b),
- [11c](das26.htm#xref_11c) I ain know snake-skin bring good luck, but
+sack unduh doe step tuh [11](das26.htm#xref_11.md) pruhtec house; I see um
+tie rag tuh gate tuh pruhtec too. [11b](das26.htm#xref_11b.md),
+ [11c](das26.htm#xref_11c.md) I ain know snake-skin bring good luck, but
 eel-skin, yes'm.
 
 "Yuh ain heah so much bout cunjuh on dis ilun, but deah's a few wut does
 a mighty lot uh talkin. Nellie Dixon, she lib right obuh deah in dem
 trees, she alluz talkin bout roots. She say somebody go tru duh yahd an
 drap a root fuhrum. She tote a sack roun uh neck tuh gahd
-um." [8](das26.htm#xref_8), [12a](das26.htm#xref_12a),
- [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d)
+um." [8](das26.htm#xref_8), [12a](das26.htm#xref_12a.md),
+ [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d.md)
 
 <span id="page_160">p. 160</span>
 
@@ -396,23 +396,23 @@ festivals and dances.
 "Hahves time dey hab big time. It come once a yeah an dey pray an dey
 sing all night long till duh fus cock crow. Den dey staht tuh dance an
 tuh bow tuh duh sun as it riz in duh sky. Dey dance roun in a succle an
-sing an shout. Sho is a big time. [38](das26.htm#xref_38)
+sing an shout. Sho is a big time. [38](das26.htm#xref_38.md)
 
 "Wen yuh hab a buryin, yuh alluz hab tuh ask leab tuh duh grabeyahd. Dey
 do dat tuh dis day. Yuh say, 'Fambly, please let us lay yuh brudduh in
-mudduh dus.'" [60](das26.htm#xref_60)
+mudduh dus.'" [60](das26.htm#xref_60.md)
 
 The story which Cuffy Wilson had already told us about Grant Johnson's
 having been chased from the grave-yard by a shadow was also verified
 from this source. Shad told us, "Grant Johnson he go deah one time tuh
 cut wood widout askin leab. He busy cuttin wood wen all ub a sudden he
 see big black dog comin tuh um wid one paw raise an red eye an big
-grinnin teet. [54](das26.htm#xref_54) Grant he ain lose no time in
+grinnin teet. [54](das26.htm#xref_54.md) Grant he ain lose no time in
 gittin way. Dat dog wuz shadduh wut come attuh um.
 
 "Duh ole folks use tuh tell dat story bout duh hoe wut could wuk by
 itsef. It stan right up in duh fiel widout nobody holdin tuh
-it. [39](das26.htm#xref_39) Das ef yuh knowd how tuh wuk it. Doze
+it. [39](das26.htm#xref_39.md) Das ef yuh knowd how tuh wuk it. Doze
 Africans knowd how tuh make dat hoe wuk an dey knowd how tuh wuk roots.
 
 "Doze folks could fly too. Dey tell me deah's a lot ub un, wut wuz bring
@@ -431,7 +431,7 @@ shahp. He kin spin he tread an riz
 right up in duh eah widout nuttn tuh hep um. He see a fly an begin tuh
 spin roun an roun um till he ketch um in he web. Den he caahn git way
 an An Nancy got um. Das wut duh chillun say tuh dis day wen dey see a
-spiduh ketch a fly--An Nancy got um.'" [51](das26.htm#xref_51)
+spiduh ketch a fly--An Nancy got um.'" [51](das26.htm#xref_51.md)
 
 On Sunday evening Julius drove us through black swamp and bush to the
 church at Silver Bluff. The little white frame building with yellow
@@ -471,7 +471,7 @@ In each part he began slowly, quietly, persuading and reasoning
 <span id="page_162">p. 162</span>
 
 with his congregation. His voice would carry a pleading question to them
-and they would answer, "Huh." [29](das26.htm#xref_29) As he progressed,
+and they would answer, "Huh." [29](das26.htm#xref_29.md) As he progressed,
 the quiet reasoning diminished; he shouted to his listeners. The
 "Huh-Huh's" became loud, guttural, vibrating grunts that echoed through
 the little building. Regular stamping of the feet began; the vibration
@@ -485,7 +485,7 @@ to act as a great emotional purge to the listeners and leave them
 happily exhausted.
 
 When the sermon ended, spirituals were sung under the able direction of
-a young Negro named George Smith. <span id="fr_148"></span>[1](#fn_148)
+a young Negro named George Smith. <span id="fr_148"></span>[1](#fn_148.md)
 The singing was enhanced by the fervor and the earnest simplicity with
 which it was presented. Shining countenances raised heavenward, voices
 lifted exultantly, and feet beating rhythmically in accompaniment, the
@@ -500,10 +500,10 @@ the Rabbit digging them up.
 
 Prevalent beliefs covered wider ground. If an owl hoots on top of the
 house or near the house, it is supposed to be a sign of
-death. [44](das26.htm#xref_44) A counteractive is to throw salt on the
+death. [44](das26.htm#xref_44.md) A counteractive is to throw salt on the
 fire, burn an old shoe, or turn pockets wrong side out. If a rooster
 comes upon the porch and starts crowing, it is a sign of death in the
-house. [13b](das26.htm#xref_13b) It is also considered bad luck to start
+house. [13b](das26.htm#xref_13b.md) It is also considered bad luck to start
 on a journey and have to turn back. The method employed to ward off
 disaster is to draw a cross where you turned back and spit on it. We
 were told that most of the island Negroes believed
@@ -520,7 +520,7 @@ wanted very badly that person would be haunted by the spirit.
 A frizzled chicken is known as a wise chicken and is used to find lost
 articles. If something has been buried and its place forgotten, a
 frizzled chicken can, according to the islanders, find the place and
-scratch up the lost article. [13a](das26.htm#xref_13a)
+scratch up the lost article. [13a](das26.htm#xref_13a.md)
 
 Smith remembered hearing the older Negroes tell of having watches on
 certain definite occasions when they sat up all night waiting for
@@ -534,7 +534,7 @@ the person's mouth to see if he were still breathing.
 
 We questioned young Smith about the festivals that the other Negroes had
 described and he told us that during the harvesting season various
-celebrations are still held. [38](das26.htm#xref_38)
+celebrations are still held. [38](das26.htm#xref_38.md)
 
 The boat neared the mainland. Our trip was over. As we bade goodbye to
 our guide, we cast a look of farewell at the dim outline of the tropical
@@ -548,34 +548,34 @@ seemed to follow us across the water.
 
 ### Footnotes
 
-<span id="fn_141"></span>[152:1](das23.htm#fr_141) Katie Brown, Sapelo
+<span id="fn_141"></span>[152:1](das23.htm#fr_141.md) Katie Brown, Sapelo
 Island.
 
-<span id="fn_142"></span>[155:1](das23.htm#fr_142) Julia Grovernor,
+<span id="fn_142"></span>[155:1](das23.htm#fr_142.md) Julia Grovernor,
 Sapelo Island. Deceased winter, 1938.
 
-<span id="fn_143"></span>[156:1](das23.htm#fr_143) Katie Grovernor,
+<span id="fn_143"></span>[156:1](das23.htm#fr_143.md) Katie Grovernor,
 Sapelo Island.
 
-<span id="fn_144"></span>[156:2](das23.htm#fr_144) Phoebe Gilbert,
+<span id="fn_144"></span>[156:2](das23.htm#fr_144.md) Phoebe Gilbert,
 Sapelo Island.
 
-<span id="fn_145"></span>[157:1](das23.htm#fr_145) Cuffy Wilson, Sapelo
+<span id="fn_145"></span>[157:1](das23.htm#fr_145.md) Cuffy Wilson, Sapelo
 Island.
 
-<span id="fn_146"></span>[157:2](das23.htm#fr_146) Nero Jones, Sapelo
+<span id="fn_146"></span>[157:2](das23.htm#fr_146.md) Nero Jones, Sapelo
 Island.
 
-<span id="fn_147"></span>[158:1](das23.htm#fr_147) Shad Hall, Sapelo
+<span id="fn_147"></span>[158:1](das23.htm#fr_147.md) Shad Hall, Sapelo
 Island.
 
-<span id="fn_148"></span>[162:1](das23.htm#fr_148) George Smith, Sapelo
+<span id="fn_148"></span>[162:1](das23.htm#fr_148.md) George Smith, Sapelo
 Island and Brunswick.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: St. Simons Island](das24)
+[Next: St. Simons Island](das24.md)
 
 </div>

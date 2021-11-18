@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi33)  [Next](osi35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi33)  [Next](osi35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -72,7 +72,7 @@ leisure to complete.
 The special scope of the present work forbids any extended excursion
 into this field. The mere fact of our undertaking it would have
 necessarily led us to devote the same space to the mysterious
-initiations of [Egypt](errata.htm#7), Chaldea, and Persia, and, as the
+initiations of [Egypt](errata.htm#7.md), Chaldea, and Persia, and, as the
 reader will readily see, it would have compelled us to write a general
 history of the ancient civilizations of the East, such as forms a part
 of the ethnographical studies published by us elsewhere.
@@ -134,7 +134,7 @@ follows:
 
 "I am attacked by two classes of persons, the learned and the ignorant.
 Both of them treat me with ridicule, and say that I am only fit to be *a
-dancing-master for frogs*, <span id="fr_12"></span>[1](#fn_12) and yet I
+dancing-master for frogs*, <span id="fr_12"></span>[1](#fn_12.md) and yet I
 think that I have discovered one of the grandest forces in nature."
 
 In short, with regard to certain physical facts, which have nothing in
@@ -179,10 +179,10 @@ superstitions.
 
 ### Footnotes
 
-<span id="fn_12"></span>[201:1](osi34.htm#fr_12) Alluding to his
+<span id="fn_12"></span>[201:1](osi34.htm#fr_12.md) Alluding to his
 experiments on frogs.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter I. As to Who Are Initiated Into the Different Classes of
-Occult Power](osi35)
+Occult Power](osi35.md)

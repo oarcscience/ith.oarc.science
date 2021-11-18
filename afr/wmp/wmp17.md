@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp16)  [Next](wmp18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp16)  [Next](wmp18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ everyone who passed by knew the place to be the grave of a twin, and
 avoided it lest the ghost should catch them. Women especially avoided
 the place and threw grass upon the grave to prevent the ghost from
 entering into them and being reborn." <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 <span id="page_214">p. 214</span>
 
@@ -66,7 +66,7 @@ ancient Babylonians, among whose most dreaded wraiths are mentioned:
 "A woman that hath died in travail,  
 Or a woman that hath died with a babe at the breast,  
 Or a weeping woman that hath died with a babe at the breast." <span
-id="fr_41"></span>[1](#fn_41)
+id="fr_41"></span>[1](#fn_41.md)
 
 When the bearers come back after disposing of these pitiful dead they
 may not enter their houses, but must wait outside that of the dead
@@ -94,7 +94,7 @@ different a fate is meted out:
 Their beds are made in Heaven high,  
 Full lowly down by our dear Lord's knee,  
 All girt about wi' gilly flowers,  
-A right fair company for to see." <span id="fr_42"></span>[1](#fn_42)
+A right fair company for to see." <span id="fr_42"></span>[1](#fn_42.md)
 
 Yet, though among Ibibios but little sentiment is wasted on these
 unfortunates, their lot, in the old days at least, was happier than that
@@ -127,7 +127,7 @@ Faust--
 
 "For goblins and for spectres it is law  
 That where we enter in, there also we withdraw." <span
-id="fr_43"></span>[1](#fn_43)
+id="fr_43"></span>[1](#fn_43.md)
 
 In the country round Awa, a superstition obtains much like that of the
 Malayan "langsuir," a description of which is thus given by Sir William
@@ -358,31 +358,31 @@ the three women left the burial room. Boards were placed before the
 entrance and earth piled against these until the passage was filled up.
 Bolts of cloth and the less costly articles, were then laid in the first
 compartment, immediately beneath the shaft. Lastly soil was thrown in
-and beaten down over all." <span id="fr_44"></span>[1](#fn_44)
+and beaten down over all." <span id="fr_44"></span>[1](#fn_44.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_40"></span>[213:1](wmp17.htm#fr_40) "The Baganda, their
+<span id="fn_40"></span>[213:1](wmp17.htm#fr_40.md) "The Baganda, their
 Customs and Beliefs," p. 125. Roscoe.
 
-<span id="fn_41"></span>[214:1](wmp17.htm#fr_41) Devils and Evil Spirits
+<span id="fn_41"></span>[214:1](wmp17.htm#fr_41.md) Devils and Evil Spirits
 of Babylonia." R. C. Thompson.
 
-<span id="fn_42"></span>[215:1](wmp17.htm#fr_42) "The Ballad of Clerk
+<span id="fn_42"></span>[215:1](wmp17.htm#fr_42.md) "The Ballad of Clerk
 Saunders."
 
-<span id="fn_43"></span>[216:1](wmp17.htm#fr_43) Aymonier, quoted in
+<span id="fn_43"></span>[216:1](wmp17.htm#fr_43.md) Aymonier, quoted in
 "The Mystic Rose," p. 95. A. E. Crawley.
 
-<span id="fn_44"></span>[224:1](wmp17.htm#fr_44) "By Haunted Waters." P.
+<span id="fn_44"></span>[224:1](wmp17.htm#fr_44.md) "By Haunted Waters." P.
 Amaury Talbot.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 16: Widowhood And Burial Customs (continued)](wmp18)
+[Next: Chapter 16: Widowhood And Burial Customs (continued)](wmp18.md)
 
 </div>

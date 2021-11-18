@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi092)  [Next](mtsi094) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi092)  [Next](mtsi094.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ ran away.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Bear, Tiger, Rattlesnake, And Fire](mtsi094)
+[Next: 1. Bear, Tiger, Rattlesnake, And Fire](mtsi094.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist084) 
-[Next](hist086) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist084.md) 
+[Next](hist086.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ place.
 
 [Next: XXX. How the East Saxons, during a pestilence, returned to
 idolatry, but were soon brought back from their error by the zeal of
-Bishop Jaruman. \[665 A.D.\]](hist086)
+Bishop Jaruman. \[665 A.D.\]](hist086.md)

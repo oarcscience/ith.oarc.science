@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index.md) 
 
 </div>
 
@@ -25,22 +25,22 @@ Sagas](../../index)  [Dunsany](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](swos00)    [Text
-\[Zipped\]](swos.txt.gz)
+[Contents](#contents)    [Start Reading](swos00.md)    [Text
+\[Zipped\]](swos.txt.gz.md)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](swos00)  
-[Contents](swos01)  
-[The Sword of Welleran](swos02)  
-[The Fall of Babbulkund](swos03)  
-[The Kith of the Elf Folk](swos04)  
-[The Highwaymen](swos05)  
-[In The Twilight](swos06)  
-[The Ghosts](swos07)  
-[The Whirlpool](swos08)  
-[The Hurricane](swos09)  
-[The Fortress Unvanquishable, Save For Sacnoth](swos10)  
-[The Lord of Cities](swos11)  
-[The Doom of La Traviata](swos12)  
-[On The Dry Land](swos13)  
+<span id="contents"></span> [Title Page](swos00.md)  
+[Contents](swos01.md)  
+[The Sword of Welleran](swos02.md)  
+[The Fall of Babbulkund](swos03.md)  
+[The Kith of the Elf Folk](swos04.md)  
+[The Highwaymen](swos05.md)  
+[In The Twilight](swos06.md)  
+[The Ghosts](swos07.md)  
+[The Whirlpool](swos08.md)  
+[The Hurricane](swos09.md)  
+[The Fortress Unvanquishable, Save For Sacnoth](swos10.md)  
+[The Lord of Cities](swos11.md)  
+[The Doom of La Traviata](swos12.md)  
+[On The Dry Land](swos13.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft02)  [Next](gft04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft02)  [Next](gft04.md) 
 
 ------------------------------------------------------------------------
 
@@ -213,4 +213,4 @@ myths, not in their original shape, but in a Roman disguise.\]
 
 ------------------------------------------------------------------------
 
-[Next: Part One: How Perseus and His Mother Came to Seriphos](gft04)
+[Next: Part One: How Perseus and His Mother Came to Seriphos](gft04.md)

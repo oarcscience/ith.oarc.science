@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray036)  [Next](pray038) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray036)  [Next](pray038.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,9 +21,9 @@ Evangelist, who appears to have intended to unite the two members
 together; as if he had said, Do not allow us to be overcome by
 temptation, but rather bring assistance to our frailty, and deliver us
 that we may not fall. Ancient writers <span
-id="fr_21"></span>[22](#fn_21) also agree with us, that what is added by
+id="fr_21"></span>[22](#fn_21.md) also agree with us, that what is added by
 Matthew as a seventh head is to be considered as explanatory of the
-sixth petition. <span id="fr_22"></span>[23](#fn_22) But though in every
+sixth petition. <span id="fr_22"></span>[23](#fn_22.md) But though in every
 part of the prayer the first place is assigned to the glory of God,
 still this is more especially the object of the three first petitions,
 in which we are to look to the glory of God alone, without any reference
@@ -45,9 +45,9 @@ have examples in Moses and Paul, who did not count it grievous to turn
 away their eyes and minds from themselves, and with intense and fervent
 zeal long for death, if by their loss the kingdom and glory of God might
 be promoted (<span id="iii.xxxv-p1.4"></span>[Exodus
-32:32](../../../bib/kjv/exo032.htm#032)<span id="iii.xxxv-p1.4"></span>;
+32:32](../../../bib/kjv/exo032.htm#032.md)<span id="iii.xxxv-p1.4"></span>;
 <span id="iii.xxxv-p1.5"></span>[Romans
-9:3](../../../bib/kjv/rom009.htm#003)<span id="iii.xxxv-p1.5"></span>).
+9:3](../../../bib/kjv/rom009.htm#003)<span id="iii.xxxv-p1.5"></span>.md).
 On the other hand, when we ask for daily bread, although we desire what
 is advantageous for ourselves, we ought also especially to seek the
 glory of God, so much so that we would not ask at all unless it were to
@@ -61,11 +61,11 @@ turn to his glory. Let us now proceed to an exposition of the Prayer.
 
 ### Footnotes
 
-<span id="fn_21"></span>[22](pray037.htm#fr_21) <span
+<span id="fn_21"></span>[22](pray037.htm#fr_21.md) <span
 id="iii.xxxv-p1.1"></span>Augustine in Enchiridion ad Laurent. xxx. 116.
 Pseudo-Chrysost. in Homilies on Matthew, hom. xiv. See end of sec. 53.
 
-<span id="fn_22"></span>[23](pray037.htm#fr_22) <span
+<span id="fn_22"></span>[23](pray037.htm#fr_22.md) <span
 id="iii.xxxv-p1.2"></span>"<span id="iii.xxxv-p1.3"></span>Dont il est
 facile de juger que ce qui est adjousté en S. Matthieu, et qu’aucuns ont
 pris pour une septieme requeste, n’est qu’un explication de la sixieme,
@@ -76,4 +76,4 @@ to it.
 
 ------------------------------------------------------------------------
 
-[Next: 36.](pray038)
+[Next: 36.](pray038.md)

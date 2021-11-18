@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg02) [Next](aflg04)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg02) [Next](aflg04.md)
 
 ------------------------------------------------------------------------
 
@@ -9,15 +9,15 @@ American](../index) [Index](index) [Previous](aflg02) [Next](aflg04)
 
    <span class="small">Evidence very scarce, but recognizable in
 Familiar Spirits, and in the kickshaws of the Medicine-man
-(*[43](#pp_43)*); Dancing with noisy instruments in front of Idols
-(*[44](#pp_44)*); the Sacred Trumpets or Flutes (*[45](#pp_45)*); Frogs
-and Toads as divinities (*[46](#pp_46)*); Snakes (*[47](#pp_47)*). On
-the Amazons: Idols (*[48](#pp_48)*); Other objects, of obscure
-signification, recorded from within (*[49](#pp_49)*) and without
-(*[50](#pp_50)*) the Guianas, can hardly be regarded as Idols or
+(*[43](#pp_43)*.md); Dancing with noisy instruments in front of Idols
+(*[44](#pp_44)*); the Sacred Trumpets or Flutes (*[45](#pp_45)*.md); Frogs
+and Toads as divinities (*[46](#pp_46)*); Snakes (*[47](#pp_47)*.md). On
+the Amazons: Idols (*[48](#pp_48)*.md); Other objects, of obscure
+signification, recorded from within (*[49](#pp_49)*.md) and without
+(*[50](#pp_50)*.md) the Guianas, can hardly be regarded as Idols or
 Fetishes.</span>
 
-   <span id="pp_43"></span>**43.**[\*](#pp_43) It must be admitted that
+   <span id="pp_43"></span>**43.**[\*](#pp_43.md) It must be admitted that
 the positive evidence of idol or fetish worship among the Guiana Indians
 is very scarce, even Schomburgk recording (ScR, <span
 class="small">II</span>, 321) that he never found the slightest trace of
@@ -28,16 +28,16 @@ fetish cult leads one to the belief that the Guiana natives, at some not
 very remote period of their history, may possibly have pursued similar
 practices. Their northern neighbors, living on the islands, apparently
 worshiped *Cemi*, or so-called familiar spirits, a cult still traceable,
-as I propose showing ([Sect. *93*](aflg07.htm#pp_93)), in certain
+as I propose showing ([Sect. *93*](aflg07.htm#pp_93).md), in certain
 kickshaws of the mainland medicine-man.
 
-   <span id="pp_44"></span>**44.**[\*](#pp_44) Among their western
+   <span id="pp_44"></span>**44.**[\*](#pp_44.md) Among their western
 tribesmen a religious rite performed by some of the Orinoco tribes "was
 that of dancing to the sound of very noisy instruments, before two small
 idols, to which they paid reverence by chanting extemporaneous couplets"
 (FD, 52).
 
-   <span id="pp_45"></span>**45.**[\*](#pp_45) This reference to noisy
+   <span id="pp_45"></span>**45.**[\*](#pp_45.md) This reference to noisy
 instruments suggests the sacred trumpet, or *botuto*, which was an
 object of veneration on the upper reaches of the Orinoco, the Atabapo,
 and the Inirida. It was sounded under the palm trees that they might
@@ -103,32 +103,32 @@ to cure them of their laziness, but I am strongly inclined to the view,
 corroborated as it is by the examples already given, that flagellation
 is a propitiation for favors already received or expected, that the
 object of the whole festival in fact is comparable with that met with in
-connection with the cassava plant ([Sects. 165](aflg10.htm#pp_165),
-[166](aflg10.htm#pp_166)). The flagellations inflicted at the burial
-ceremonies ([Sect. *75*](aflg05.htm#pp_75)) would seem to have a
+connection with the cassava plant ([Sects. 165](aflg10.htm#pp_165.md),
+[166](aflg10.htm#pp_166).md). The flagellations inflicted at the burial
+ceremonies ([Sect. *75*](aflg05.htm#pp_75).md) would seem to have a
 different origin.
 
-   <span id="pp_46"></span>**46.**[\*](#pp_46) "Some other tribes of
+   <span id="pp_46"></span>**46.**[\*](#pp_46.md) "Some other tribes of
 Indians, who likewise dwelt upon the banks of the river Oronoka, paid to
 toads the honours due to the divinity \[[Sect.
-*342*](aflg19.htm#pp_342)\]. Far from injuring these animals, they
+*342*](aflg19.htm#pp_342.md)\]. Far from injuring these animals, they
 carefully <span id="page_139">p. 139</span> kept them under pots, in
 order to obtain rain or fine weather; and so fully persuaded were they
 of their power in this respect, that they scourged them as often as
 their petitions were not answered." (FD, 52.) It is known that for the
 Chaimas, Cumanagotos, Tamanacs, and other original tribes of the Caribs,
-the frog was the god of the waters (cf. [Sect. *18*](aflg02.htm#pp_18)):
+the frog was the god of the waters (cf. [Sect. *18*](aflg02.htm#pp_18).md):
 Ruiz Blanco (*Conversion de Piritu*) says that the Cumanagotos never
 killed a frog, but kept one like a domestic animal, beating it when the
 rain did not fall (AR, 185). There is an intimate connection between
 frogs, toads, and certain other animals, and success in the chase
-([Sect. *349*](aflg19.htm#pp_349)).
+([Sect. *349*](aflg19.htm#pp_349).md).
 
-   <span id="pp_47"></span>**47.**[\*](#pp_47) Beyond the mention of
+   <span id="pp_47"></span>**47.**[\*](#pp_47.md) Beyond the mention of
 certain snake dances, I can find nothing akin to actual worship and
 similar ceremonies in connection with these creatures, notwithstanding
 the very deep-rooted belief in the relationship of the serpent to sexual
-matters ([Sect. *347*](aflg19.htm#pp_347)). At Maroa, River Guainia,
+matters ([Sect. *347*](aflg19.htm#pp_347).md). At Maroa, River Guainia,
 (upper Rio Negro), Humboldt (<span class="small">II</span>, 386) talks
 of "that ancient *dance of serpents*, the *Queti*, in which these wily
 animals are represented as issuing from the forests, and coming to drink
@@ -140,7 +140,7 @@ forty feet long, and about a foot in diameter. . . . They divided
 themselves into two parties of twelve or fifteen each, and lifting the
 snakes on their shoulders, began dancing."
 
-   <span id="pp_48"></span>**48.**[\*](#pp_48) South of the Guianas,
+   <span id="pp_48"></span>**48.**[\*](#pp_48.md) South of the Guianas,
 there is the evidence of Acuña (92) from the Amazons, in 1639:
 
 >    The Religion of these barbarous People is much alike: they all
@@ -156,11 +156,11 @@ there is the evidence of Acuña (92) from the Amazons, in 1639:
 > them so long as they imagine they have no occasion for their Help; but
 > when they are ready to march out to war, they set up the Idol in which
 > they have placed the hopes of their Victories, at the Prow of their
-> Canoes (Cf. [Sect. *84*](aflg05.htm#pp_84)): so, when they go a
+> Canoes (Cf. [Sect. *84*](aflg05.htm#pp_84).md): so, when they go a
 > fishing, they take that Idol with them to which they attribute the
 > government of the waters.
 
-   <span id="pp_49"></span>**49.**[\*](#pp_49) On the other hand, there
+   <span id="pp_49"></span>**49.**[\*](#pp_49.md) On the other hand, there
 are a few accounts of the existence of various cult objects, the actual
 signification of which has so far not been satisfactorily explained;
 lest these should ever be claimed as examples of a fetish cult, it would
@@ -195,7 +195,7 @@ hang as decorations from the crossbeams of the houses: the boys blow at
 them with nonpoisoned arrows (KG, <span class="small">I</span>, 102;
 <span class="small">II</span>, 244).
 
-   <span id="pp_50"></span>**50.**[\*](#pp_50) Outside of the Guianas to
+   <span id="pp_50"></span>**50.**[\*](#pp_50.md) Outside of the Guianas to
 the westward, among the Carijonas of the upper Yapura, Crévaux (361)
 speaks of a bench with rough carvings representing a bird of prey; also
 of the wooden figure of a man with legs wide apart. To the southward,
@@ -212,4 +212,4 @@ of the Amazon, near its junction with the Rio Negro:
 
 ------------------------------------------------------------------------
 
-[Next](aflg04)
+[Next](aflg04.md)

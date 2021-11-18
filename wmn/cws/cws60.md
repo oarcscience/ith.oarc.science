@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws59)  [Next](cws61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws59)  [Next](cws61.md) 
 
 ------------------------------------------------------------------------
 
 ### No. IV
 
-#### CONCERNING SIN AND DEATH <span id="fr_195"></span>[2](#fn_195)
+#### CONCERNING SIN AND DEATH <span id="fr_195"></span>[2](#fn_195.md)
 
 AS is the outer so is the inner: He that worketh is One.
 
@@ -95,15 +95,15 @@ anarchy.
 
 ### Footnotes
 
-<span id="fn_194"></span>[135:1](cws59.htm#fr_194) Paris. Received
+<span id="fn_194"></span>[135:1](cws59.htm#fr_194.md) Paris. Received
 October 19, 1878. Referred to in *Life of Anna Kingsford*, Vol. i, pp.
 282, 283.
 
-<span id="fn_195"></span>[135:2](cws60.htm#fr_195) Paris, October 3,
+<span id="fn_195"></span>[135:2](cws60.htm#fr_195.md) Paris, October 3,
 1878. Received in sleep. Referred to in *Life of Anna Kingsford*, Vol.
 i, p. 282.
 
 ------------------------------------------------------------------------
 
 [Next: No. V: Concerning The ''Great Work,'' The Redemption, And The
-Share Of Christ Jesus Therein](cws61)
+Share Of Christ Jesus Therein](cws61.md)

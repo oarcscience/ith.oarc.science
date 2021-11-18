@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot07) 
-[Next](bot09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot07.md) 
+[Next](bot09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -184,7 +184,7 @@ Hotei, the god of Contentment and Good Fortune
 are all Talismans for the virtues which they express.
 
 <span class="smallcaps">Hotei</span> (Illustration No. 42, [Plate
-III](bot07.htm#img_pl03)), the children's god, bringing happiness and
+III](bot07.htm#img_pl03).md), the children's god, bringing happiness and
 good fortune, is found in every household; he is represented seated on
 his bag, which is well-filled with the good things he dispenses, his
 corpulent figure denoting his high attainment and personal importance.
@@ -216,7 +216,7 @@ against the perils of wave and flood, it being the sacred bread of the
 Nation, and in its circular shape is the symbol of the Sun.
 
 <span class="smallcaps">The Carp</span> (Illustration No. 37, [Plate
-III](bot07.htm#img_pl03)) is worn as a Talisman for endurance and pluck,
+III](bot07.htm#img_pl03).md) is worn as a Talisman for endurance and pluck,
 because according to an old legend a Carp by the exercise of these
 virtues succeeded in leaping all cataracts, and in finally reaching the
 Chariot Cloud, which carried him to Heaven and eternal happiness. On all
@@ -256,13 +256,13 @@ the source of life, representing the elements of Fire, Air, and
 
 <span class="contnote">\[paragraph continues\]</span> Water. It is worn
 to protect the household and person from Fire, Flood, and Theft (see
-Illustration No. 43, [Plate III](bot07.htm#img_pl03)). This diagram is
+Illustration No. 43, [Plate III](bot07.htm#img_pl03).md). This diagram is
 considered to symbolise ceaseless change, and is said by some
 authorities to have had its. origin in a three-limbed Swastika Cross.
 
 <span class="smallcaps">The Fan</span>, which is regarded as an emblem
 of Power and Authority, is .a Talisman to ensure the safety of its
-wearers (Illustration No. 41, [Plate III](bot07.htm#img_pl03)).
+wearers (Illustration No. 41, [Plate III](bot07.htm#img_pl03).md).
 
 <span class="smallcaps">The Hammer</span> of Daikoku, the god of Wealth,
 is worn for success and good fortune.
@@ -323,6 +323,6 @@ The temple is rebuilt of new wood exactly on the lines of the old one.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](bot09)
+[Next: Chapter VI](bot09.md)
 
 </div>

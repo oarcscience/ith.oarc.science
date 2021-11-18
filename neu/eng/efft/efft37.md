@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft36)  [Next](efft38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft36)  [Next](efft38.md) 
 
 ------------------------------------------------------------------------
 
-# THE CAULD LAD OF HILTON  <span id="fr_43"></span>[1](#fn_43)
+# THE CAULD LAD OF HILTON  <span id="fr_43"></span>[1](#fn_43.md)
 
 HILTON HALL, in the vale of the Wear, was in former times the resort of
 a Brownie or House-spirit, called The Cauld Lad. Every night the
@@ -48,10 +48,10 @@ of the barons of Hilton had killed unintentionally in a fit of passion.
 
 ### Footnotes
 
-<span id="fn_43"></span>[1](efft37.htm#fr_43) T . Keightley, *The Fairy
+<span id="fn_43"></span>[1](efft37.htm#fr_43.md) T . Keightley, *The Fairy
 Mythology*, p. 296, quoting M. A. Richardson *The Local Historian's
 Table Book*.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Thieves](efft38)
+[Next: The Fairy Thieves](efft38.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp23)  [Next](prp25) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp23)  [Next](prp25.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ the scrotum would be thrust into the thief.\]
 
 ------------------------------------------------------------------------
 
-[Next: 25. Hither, Quirites! (here what limit is?)](prp25)
+[Next: 25. Hither, Quirites! (here what limit is?)](prp25.md)

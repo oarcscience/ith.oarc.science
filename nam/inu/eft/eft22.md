@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft21)  [Next](eft23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft21)  [Next](eft23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -36,7 +36,7 @@ dead.
 
  Now when his comrades came to look at the bear, its teeth began to
 whisper, and then they knew that Ukaleq had been killed by a Magic
-Bear.<span id="page_73_fr_*"></span>[\*](#page_73_note_*) And as there
+Bear.<span id="page_73_fr_*"></span>[\*](#page_73_note_*.md) And as there
 was no help for it, they took the dead man home with them. And then his
 mother said:
 
@@ -104,7 +104,7 @@ the spot.
 
 <span id="footnotes_page_73">p. 73</span>
 
-<span id="page_73_note_*"></span>[\*](#page_73_fr_*) I.e. a creature
+<span id="page_73_note_*"></span>[\*](#page_73_fr_*.md) I.e. a creature
 fashioned by an enemy, after the same manner as a Tupilak.
 
  
@@ -139,4 +139,4 @@ fashioned by an enemy, after the same manner as a Tupilak.
 
 ------------------------------------------------------------------------
 
-[Next: ÍKARDLÍTUARSSUK](eft23)
+[Next: ÍKARDLÍTUARSSUK](eft23.md)

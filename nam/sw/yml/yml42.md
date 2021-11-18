@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml41)  [Next](yml43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml41)  [Next](yml43.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ grasshopper and the cricket. He hides in places where there is no
 
 ------------------------------------------------------------------------
 
-[Next: Turtle and Coyote](yml43)
+[Next: Turtle and Coyote](yml43.md)

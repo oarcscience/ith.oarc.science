@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err13)  [Next](err15) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err13)  [Next](err15.md) 
 
 ------------------------------------------------------------------------
 
@@ -252,7 +252,7 @@ But not long after I had written the foregoing remarks, I came across a
 certain passage in the *Symbolik* of Creuzer (whom, by the way, I knew
 in Heidelberg in 1847), which seems to cast much light on this
 connection of the pig-pen with the temple. <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 "Unto Demeter or Ceres pregnant sows were specially offered in
 sacrifice, as Cornutus, the Stoic, who lived sixty-eight years after
@@ -263,7 +263,7 @@ cellars of the temple of Ceres and Proserpine, as Creuzer relates: "In
 honour of these goddesses the Böotians put little pigs into subterranean
 chapels, which the next year were seen in the meadows of Dodona.
 Pausanias and Clemens Alexandrinus speaks of the same thing as observed
-in other places." <span id="fr_31"></span>[2](#fn_31) Ceres was
+in other places." <span id="fr_31"></span>[2](#fn_31.md) Ceres was
 pre-eminently a goddess of fertility, therefore of good luck and all
 genial influences; hence little gold and silver pigs were offered to
 her, and also worn by Roman ladies, partly to insure pregnancy, and
@@ -378,7 +378,7 @@ life itself, and that very deeply and significantly. Therefore, when it
 was found growing of itself on a statue, it was of course supposed to be
 very effective. The early Christians borrowed much from the
 Dionysiacs--among other things, the Ivy. They laid it in coffins as a
-symbol of new life in Christ. <span id="fr_32"></span>[1](#fn_32)
+symbol of new life in Christ. <span id="fr_32"></span>[1](#fn_32.md)
 
 I have said that ivy on the head of a statue was especially typical of
 health and life in Roman symbolism. It also signified on any head--as a
@@ -645,7 +645,7 @@ Which is to the effect that when you see a spider weaving upwards, you
 name your invalid, and take the spider, and put it in a bag of virgin
 linen, and hang it round the neck of the patient, but while taking and
 bagging your spider, spit thrice on the ground.  <span
-id="fr_33"></span>[1](#fn_33)
+id="fr_33"></span>[1](#fn_33.md)
 
 All of which is nearly the same in Tuscany, but with it there must be
 pronounced the following incantation:--
@@ -868,7 +868,7 @@ up--*deinde vas gypsabis*. Open it on the fifth or seventh day, and you
 will find the lizard--*sanis luminibus*--with his eyes well again. Then
 you let him go away, but keep the rings and wear them, and touch the
 eyes with them; but especially you must look sometimes through the hole
-or circle of the ring. <span id="fr_34"></span>[1](#fn_34)
+or circle of the ring. <span id="fr_34"></span>[1](#fn_34.md)
 
 When an old woman in Florence was asked if she knew this spell, she said
 "Yes," adding that it was, however imperfect, because the incantation
@@ -1017,7 +1017,7 @@ of the same form, which dwelt habitually in the flame, and such as was
 seen once by Benevenuto Cellini, who tells us that on the occasion his
 father gave him very solemnly a good whipping to make him remember it.
 Of which, as I have remarked in my translation of Heine's
-*Germany*, <span id="fr_35"></span>[1](#fn_35) the same flagellation to
+*Germany*, <span id="fr_35"></span>[1](#fn_35.md) the same flagellation to
 prevent him from lying would not have been misapplied.
 
 As the lizard is such a bright, uncanny, lively, odd, and wild little
@@ -1067,34 +1067,34 @@ And grass in the wind a-waving!"
 
 ### Footnotes
 
-<span id="fn_30"></span>[255:1](err14.htm#fr_30) L. *Annæus Cornutus de
+<span id="fn_30"></span>[255:1](err14.htm#fr_30.md) L. *Annæus Cornutus de
 natura deorum*, 211, pub. by Fr. Osann, 1844
 
-<span id="fn_31"></span>[255:2](err14.htm#fr_31) Pausanii De. Græciæ,
+<span id="fn_31"></span>[255:2](err14.htm#fr_31.md) Pausanii De. Græciæ,
 lib. ix., c. 8
 
-<span id="fn_32"></span>[257:1](err14.htm#fr_32) "Hedera quoque vel
+<span id="fn_32"></span>[257:1](err14.htm#fr_32.md) "Hedera quoque vel
 laurus et hujusmodi: quæ semper servant vivorem in sarcophago corpori
 substernantur ad significandum, quod qui moriantur in Christo, vivere
 non desinant, nam licet mundo noriantur secundum corpus, tamen secundum
 animam vivunt et reviviscunt in Deo."--DURANDUS, *Ration. Div. Offic*.,
 lib, vii., c. 35
 
-<span id="fn_33"></span>[262:1](err14.htm#fr_33) The spiders that come
+<span id="fn_33"></span>[262:1](err14.htm#fr_33.md) The spiders that come
 to your house (so says the negro), indicate the number of your friends.
 If you kill a spider you will certainly lose a friend. At the same time,
 certain kinds of spiders cooked in the food are supposed to cause death.
 "A spider in the dumpling " is a name for secret poisoning. Spider-webs
 are found on the bodies of feeble babies.--Note by MARY A. OWEN
 
-<span id="fn_34"></span>[266:1](err14.htm#fr_34) Mr. Neville told me the
+<span id="fn_34"></span>[266:1](err14.htm#fr_34.md) Mr. Neville told me the
 Cingalese kill a lizard over a slow fire, and the froth that runs from
 its eyes is a cure for sore eyes.--Note by MARY A. OWEN
 
-<span id="fn_35"></span>[268:1](err14.htm#fr_35) *Vide* *Germany*, by
+<span id="fn_35"></span>[268:1](err14.htm#fr_35.md) *Vide* *Germany*, by
 Heinrich Heine, translated, with notes, by Charles G. Leland. London: W.
 Heinemann. 1872
 
 ------------------------------------------------------------------------
 
-[Next: Part Two: Chapter II--BIRDS AND TREASURES](err15)
+[Next: Part Two: Chapter II--BIRDS AND TREASURES](err15.md)

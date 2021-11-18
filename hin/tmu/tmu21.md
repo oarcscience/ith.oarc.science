@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu20)  [Next](tmu22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu20)  [Next](tmu22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,15 +21,15 @@ Intangible Textual Heritage
 
 <span id="page_130">p. 130</span>
 
-### KALISANṬĀRAṆA UPANISHAḌ <span id="fr_97"></span>[1](#fn_96)
+### KALISANṬĀRAṆA UPANISHAḌ <span id="fr_97"></span>[1](#fn_96.md)
 
 ### OF
 
 ### KṚSHṆA-YAJURVEḌA
 
 <span class="smallcaps">At</span> the end of Ḍvāpara yuga, Nāraḍa <span
-id="fr_98"></span>[2](#fn_97) went to Brahma and addressed him thus: "O
-Lord, how shall I, roaming <span id="fr_99"></span>[3](#fn_98) over the
+id="fr_98"></span>[2](#fn_97.md) went to Brahma and addressed him thus: "O
+Lord, how shall I, roaming <span id="fr_99"></span>[3](#fn_98.md) over the
 earth, be able to cross Kali?" To which Brahma thus replied: "Well
 asked. Hearken to that which all Śruṭis (the Veḍas) keep secret and
 hidden, through which one may cross the samsāra (mundane existence) of
@@ -57,7 +57,7 @@ world of, or proximity with, or the same form of, or absorption into
 Brahma.
 
 Whoever utters three and a half kotis <span
-id="fr_100"></span>[1](#fn_99) (or thirty-five millions) times this
+id="fr_100"></span>[1](#fn_99) (or thirty-five millions.md) times this
 manṭra composed of sixteen names (or words) crosses the sin of the
 murder of a Brāhmaṇa. He becomes purified from the sin of the theft of
 gold. He becomes purified from the sin of cohabitation with a woman of
@@ -70,11 +70,11 @@ released from all bondage is the Upanishaḍ.
 
 ### Footnotes
 
-<span id="fn_96"></span>[130:1](tmu21.htm#fr_97) This Upanishaḍ treats
+<span id="fn_96"></span>[130:1](tmu21.htm#fr_97.md) This Upanishaḍ treats
 of the means of crossing Kali completely: Nāraḍa having asked the
 question in Ḍvāpara yuga—the third of the four yugas.
 
-<span id="fn_97"></span>[130:2](tmu21.htm#fr_98) Nāraḍa is called
+<span id="fn_97"></span>[130:2](tmu21.htm#fr_98.md) Nāraḍa is called
 Kali-Kāraka or the generator of kali or strife and discord. If Nāraḍa is
 himself the strife-maker, why should he go to Brahma for the means of
 crossing Kali? Nāraḍa being himself an adjuster of the laws of karma,
@@ -83,11 +83,11 @@ Kali-age when the whole of nature is thrown off its balance by the
 depraved tendencies of men. The jive, has sixteen kalās, corresponding
 to which sixteen manṭras or words are given.
 
-<span id="fn_98"></span>[130:3](tmu21.htm#fr_99) The story is that he
+<span id="fn_98"></span>[130:3](tmu21.htm#fr_99.md) The story is that he
 was cursed by Ḍaksha to roam over the worlds with a lute in his hand
 (*viz*., to adjust the laws of harmony).
 
-<span id="fn_99"></span>[131:1](tmu21.htm#fr_100) This number can be
+<span id="fn_99"></span>[131:1](tmu21.htm#fr_100.md) This number can be
 reached by uttering the manṭra completely within one year if uttered at
 the rate of a lakh per day: and within ten years if uttered at the rate
 of 10,000 per day; and within 100 years if uttered at the rate of 1,000
@@ -97,6 +97,6 @@ of 10,000 per day; and within 100 years if uttered at the rate of 1,000
 
 ------------------------------------------------------------------------
 
-[Next: 20. Bhikshuka-Upanishaḍ of Śukla-Yajurveḍa](tmu22)
+[Next: 20. Bhikshuka-Upanishaḍ of Śukla-Yajurveḍa](tmu22.md)
 
 </div>

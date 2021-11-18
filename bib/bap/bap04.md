@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap03) 
-[Next](bap05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap03.md) 
+[Next](bap05.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ present edition is inadequate. In preparing it he has aimed at following
 his manuscripts as closely as possible, and in issuing it now has judged
 that the evils of delay are greater than those of haste; especially as
 he looks forward to putting forth a greatly improved text in the
-future. <span id="fr_4"></span>[1](#fn_4)
+future. <span id="fr_4"></span>[1](#fn_4.md)
 
 <span id="page_13">p. 13</span>
 
@@ -96,7 +96,7 @@ libraries.
 <span id="page_15">p. 15</span>
 
 However, the paucity of authorities here brought to bear is of little
-importance. What Dr. Lehmann tells us <span id="fr_5"></span>[1](#fn_5)
+importance. What Dr. Lehmann tells us <span id="fr_5"></span>[1](#fn_5.md)
 is sufficient to show that none of the MSS. present a completer text
 than we already know. All must go back to an ancestor which was already
 mutilated when our first transcripts of it were made. Upon this point
@@ -127,7 +127,7 @@ It is clear from what has been said that Sichardus was wrong in
 regarding the Fulda MS. as a copy of that of Lorsch, and that the latter
 represented an old and valuable tradition: and, further, that he
 exaggerates greatly when he says that the two MSS. were as alike as two
-eggs. <span id="fr_6"></span>[1](#fn_6) Dr. Lehmann's final remark is
+eggs. <span id="fr_6"></span>[1](#fn_6.md) Dr. Lehmann's final remark is
 that the disappearance of the Lorsch MS. is very much to be deplored,
 for, judged by the Greek fragments and the Armenian version of the
 *Quaestiones*, it represented a better tradition than all the extant
@@ -140,7 +140,7 @@ that from Tegernsee (18481) is to all appearance the parent of the other
 two. Probably the monk who wrote to Tegernsee to borrow a Philo (see p.
 10) was a member of Benedictbeuren or Schäftlarn. The Schäftlarn copy
 (17133) was written between 1160 and 1164. <span
-id="fr_7"></span>[2](#fn_7)
+id="fr_7"></span>[2](#fn_7.md)
 
 I now proceed to give a detailed account of the three complete MSS.
 which I have been able to use, and of certain subsidiary authorities.
@@ -310,7 +310,7 @@ point to an "insular" ancestor somewhere in the pedigree. There is an a
 priori likelihood that a rare text current in the Rhenish district would
 have attracted the notice of Irish monks and have been preserved by
 them. A closer study of the variants may perhaps confirm this
-notion. <span id="fr_8"></span>[1](#fn_8)
+notion. <span id="fr_8"></span>[1](#fn_8.md)
 
 External and internal evidence combined lead me to the conclusion that
 our text was preserved in a single imperfect copy written in uncials,
@@ -537,7 +537,7 @@ not regard this as a really satisfactory explanation.
 
 ### Footnotes
 
-<span id="fn_4"></span>[12:1](bap04.htm#fr_4) The important sentences in
+<span id="fn_4"></span>[12:1](bap04.htm#fr_4.md) The important sentences in
 the original are : ut sensimus . . . exemplaria, quorum duo habuimus,
 tam constanter <span id="page_13">p. 13</span> tamque ex composito
 mendos suos tueri, consilium, quod mutandorum quorundam coeperamus,
@@ -553,24 +553,24 @@ ab exemplaribus quam minimum discederemus, ut sicubi fortasse extaret
 aliud exemplar, id quod tum inaudieramus, eius collatione nostra . . .
 absolverentur.
 
-<span id="fn_5"></span>[15:1](bap04.htm#fr_5) P. Lehmann: *Johannes
+<span id="fn_5"></span>[15:1](bap04.htm#fr_5.md) P. Lehmann: *Johannes
 Sichardus und die von ihm benutzten Bibliotheken und Handschriften*
 (*Quellen und Untersuchungen zur Lateinische Philologie des
 Mittelalters*, IV. 1. 19 12).
 
-<span id="fn_6"></span>[16:1](bap04.htm#fr_6) Dr. Lehmann quotes a
+<span id="fn_6"></span>[16:1](bap04.htm#fr_6.md) Dr. Lehmann quotes a
 number of instances in which Sichardus has deviated from the MS. in
 spelling: he is also clear that conjecture was resorted to. This last
 statement applies especially, I think, to the *Quaestiones*.
 
-<span id="fn_7"></span>[16:2](bap04.htm#fr_7) The printed catalogue
+<span id="fn_7"></span>[16:2](bap04.htm#fr_7.md) The printed catalogue
 gives the title of the *Antiquities* in 4569 and 18481 as *Historia ab
 initio mundi usque ad Dauid regem*. In 18481 it is preceded by Jerome's
 notice *of Philo*.
 
-<span id="fn_8"></span>[21:1](bap04.htm#fr_8) In XVI. 7 *in syna* seems
+<span id="fn_8"></span>[21:1](bap04.htm#fr_8.md) In XVI. 7 *in syna* seems
 to be a mistake for *in gyro*.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Title, and Attribution to Philo](bap05)
+[Next: 4. Title, and Attribution to Philo](bap05.md)

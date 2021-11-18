@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb13)  [Next](brfb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb13)  [Next](brfb15.md) 
 
 </div>
 
@@ -345,6 +345,6 @@ bottom.
 
 ------------------------------------------------------------------------
 
-[Next: The Wicked Wolverine](brfb15)
+[Next: The Wicked Wolverine](brfb15.md)
 
 </div>

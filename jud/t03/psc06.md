@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc05)  [Next](psc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc05)  [Next](psc07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -79,7 +79,7 @@ leaven notwithstanding the fact that eating during the time mentioned is
 rendered unlawful by rabbinical enactments only; for R. Giddel said in
 the name of R. Hyya bar Joseph, quoting R. Johanan: "If a man betroth a
 woman on the eve of Passover after the sixth hour even with hard
-wheat, <span id="fr_12"></span>[1](#fn_12) it is not considered a valid
+wheat, <span id="fr_12"></span>[1](#fn_12.md) it is not considered a valid
 betrothal."
 
 "*Nor even use it for fuel*." Is this not self-evident? The Mishna means
@@ -198,7 +198,7 @@ non-permissibility of using such objects as are forbidden to be eaten.
 Upon what point then *do* they disagree? They differ concerning leaven
 on Passover, according to the sages, who prohibit its use, and
 concerning the ox, which must be stoned for goring a man, <span
-id="fr_13"></span>[1](#fn_13) and the flesh of which all agree must not
+id="fr_13"></span>[1](#fn_13.md) and the flesh of which all agree must not
 be used. According to Hezkyah, it must not be used on account of the
 passage which states "his flesh shall not be eaten," while R. Abbahu
 declares, that no passage to that effect is necessary, as by being
@@ -374,7 +374,7 @@ use on the inside and not on account of its shade."
 
 "*Or to light therewith an oven or a stove*," etc. The rabbis taught: An
 oven which was fed with the peel of fruit from newly planted trees <span
-id="fr_14"></span>[1](#fn_14) or with the straw of Kilaim (divers seeds)
+id="fr_14"></span>[1](#fn_14) or with the straw of Kilaim (divers seeds.md)
 of a vineyard (if the oven was new and by such burning had become fit),
 must be demolished. If the oven, however, was an old one, it must only
 be allowed to cool off and may subsequently be used. If bread was baked
@@ -687,7 +687,7 @@ permanently? Rabha bar Ahilayi can make no answer to this question.
 Said Rabhina to R. Ashi: "Now, if Rabha bar Ahilayi's statement was
 effectually refuted by the Boraitha, why should Rabh decree, that the
 pots which were used during the year must be destroyed before the
-Passover, <span id="fr_15"></span>[1](#fn_15) why could they not be
+Passover, <span id="fr_15"></span>[1](#fn_15.md) why could they not be
 burnt out and then used again?" and R. Ashi answered: "With an oven it
 is different. That is heated on the inside; hence as soon as it is
 heated again no traces of the fat will be left and it becomes the same
@@ -726,7 +726,7 @@ not be used; but we refer to such as were perfectly smooth. Ameimar
 replied: I noticed that the fat cooked in such pots oozes out on the
 other side, and hence it is obvious that they absorb it; and the
 Scriptures attested that an earthen pot never yields forth what it has
-once absorbed." <span id="fr_16"></span>[1](#fn_16)
+once absorbed." <span id="fr_16"></span>[1](#fn_16.md)
 
 Said Rabba bar Abba in the name of R. Hyya bar Ashi, quoting Samuel:
 "All vessels in which leavened food had been kept while cold may be used
@@ -818,7 +818,7 @@ depth be, however? Said Raphram bar Papa of Sikhra: "One span."
 
 MISHNA: If any person should eat leavened heave-offering during the
 Passover by mistake, he must pay the principal and a fifth part <span
-id="fr_17"></span>[1](#fn_17) in addition; but if he ate it wilfully, he
+id="fr_17"></span>[1](#fn_17.md) in addition; but if he ate it wilfully, he
 is exempt from the obligation of making restitution and also from
 payment of its value as wood (fuel) in case of the heave-offering being
 unclean.
@@ -877,7 +877,7 @@ no restitution for the damage inflicted
 from the fact that he has committed an offence punishable with death by
 stoning; should he have done likewise on the Day of Atonement, the fact
 that he incurs the punishment of Kareth (being cut off) also exempts him
-from making restitution. <span id="fr_18"></span>[1](#fn_18) Thus in
+from making restitution. <span id="fr_18"></span>[1](#fn_18.md) Thus in
 this case, where by eating leavened heave-offering the man incurs the
 punishment of Kareth, he need not make restitution for the article
 consumed.)
@@ -1067,7 +1067,7 @@ implies, that the dough should not be kneaded with wine, oil, or honey.
 \[What could R. Aqiba, however, say to the claim of R. Jose, that second
 tithes cannot be eaten as "bread of affliction"? R. Aqiba can say: Is it
 then written "bread of affliction"? it is written "poor bread." <span
-id="fr_19"></span>[1](#fn_19)\]
+id="fr_19"></span>[1](#fn_19.md)\]
 
 Does R. Aqiba, then, hold that one cannot acquit himself of the duty
 with dough kneaded with wine, oil, or honey? Have we not learned in a
@@ -1099,7 +1099,7 @@ be distinguished from the other.)
 
 The rabbis taught: Shall we assume that a man may acquit himself of the
 duty of eating unleavened bread with firstfruits <span
-id="fr_20"></span>[1](#fn_20) (brought as a meat-offering on Pentecost)?
+id="fr_20"></span>[1](#fn_20) (brought as a meat-offering on Pentecost.md)?
 To that end it is written \[Exod. xii. 20\]: "In all your habitations
 shall ye eat unleavened bread," which signifies, that only such things
 as may be eaten in all your habitations may be used for the acquittal of
@@ -1229,7 +1229,7 @@ Unleavened bread baked from such dough cannot, according to R. Meir,
 serve for the acquittal of the obligation of eating unleavened bread on
 the Passover, while according to the sages it may. According to R. Meir
 the citron, which must be used on the first day of the Feast of
-Tabernacles, <span id="fr_21"></span>[1](#fn_21) must not be bought with
+Tabernacles, <span id="fr_21"></span>[1](#fn_21.md) must not be bought with
 the proceeds of second tithes, while according to the sages it may."
 
 "*Neither with cakes of thanksgiving-offering nor the thin cakes of the
@@ -1280,9 +1280,9 @@ himself."
 
 MISHNA: The duty of eating bitter herbs on the Passover may be acquitted
 with the following herbs: with lettuce, wild endive and garden
-endive, <span id="fr_22"></span>[1](#fn_22) with Harhabinah, <span
-id="fr_23"></span>[2](#fn_23) with bitter coriander, <span
-id="fr_24"></span>[3](#fn_24) and bitter herbs (horseradish), either
+endive, <span id="fr_22"></span>[1](#fn_22.md) with Harhabinah, <span
+id="fr_23"></span>[2](#fn_23.md) with bitter coriander, <span
+id="fr_24"></span>[3](#fn_24) and bitter herbs (horseradish.md), either
 fresh or in a dried state, but not if pickled, boiled, or cooked in any
 way; they may also be combined to the size of an olive, and the
 obligation is discharged if the stalks of them only had been used; also
@@ -1293,8 +1293,8 @@ second tithe, or of redeemed consecrated things.
 GEMARA: The disciples of R. Samuel taught: "The duty of eating bitter
 herbs may be acquitted with the following herbs: with lettuce, wild
 endive and garden endive, with Harhabinah and bitter coriander, with
-oleander <span id="fr_25"></span>[4](#fn_25) and Harginin and
-Hardafni <span id="fr_26"></span>[5](#fn_26)
+oleander <span id="fr_25"></span>[4](#fn_25.md) and Harginin and
+Hardafni <span id="fr_26"></span>[5](#fn_26.md)
 
 <span id="page_60">p. 60</span>
 
@@ -1338,7 +1338,7 @@ earth, so should also the bitterness be derived from the fruit of the
 earth." "Cannot this also refer to oleander (which is poisonous)?"
 queried R. Rehumi, and Abayi replied: "Fruit of the earth is required,
 and not fruit of trees." "Cannot this also refer to Harzapha? <span
-id="fr_27"></span>[1](#fn_27)"
+id="fr_27"></span>[1](#fn_27.md)"
 
 <span id="page_61">p. 61</span>
 
@@ -1472,7 +1472,7 @@ R. Papa permitted the bakers in the house of the Exilarch to strew a pot
 with dry flour, and Rabha would even strew his own Pot', with dry flour.
 
 MISHNA: It is unlawful to put flour in Harosoth (sauce) <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 <span id="page_64">p. 64</span>
 
@@ -1559,7 +1559,7 @@ punishment by stripes, because he transgresses two distinct
 commandments, viz.: 'Ye shall not eat it raw' and 'but roasted by the
 fire.'" Rabha, however, said: "For the violation of a negative
 commandment, which is derived from a positive regulation, no stripes
-should be inflicted." <span id="fr_29"></span>[1](#fn_29)
+should be inflicted." <span id="fr_29"></span>[1](#fn_29.md)
 
 <span id="page_66">p. 66</span>
 
@@ -1585,7 +1585,7 @@ from a positive, and it is known that the violation of such a
 commandment is only equal to the violation of a positive commandment?
 Said R. Hisda: "This is in accordance with the opinion of R. Jehudah,
 who maintains that even for the violation of such a commandment,
-punishment may be inflicted. <span id="fr_30"></span>[1](#fn_30)
+punishment may be inflicted. <span id="fr_30"></span>[1](#fn_30.md)
 
 "*Water used by a baker must immediately be thrown away*," etc. In one
 Boraitha we have learned, that the water must be thrown where it will
@@ -1596,7 +1596,7 @@ is a large quantity of water, while the latter treats of a small
 quantity which is absorbed by the soil of the pit.
 
 R. Jehudah said: A woman should not knead dough (on Passover) except
-with water "Shelanu." <span id="fr_31"></span>[2](#fn_31) R. Mathna
+with water "Shelanu." <span id="fr_31"></span>[2](#fn_31.md) R. Mathna
 repeated the same words in Papunia. On the morrow, all of the
 inhabitants came to him with jugs in their hands and begged him for
 water (thinking that the word "Shelanu" meant "our" and that he had the
@@ -1628,16 +1628,16 @@ remains so, but where it was not taught, it is not so."
 
 ### Footnotes
 
-<span id="fn_12"></span>[31:1](psc06.htm#fr_12) A betrothal is not made
+<span id="fn_12"></span>[31:1](psc06.htm#fr_12.md) A betrothal is not made
 effective unless the man gives something to the woman and she accepts
 it. The gift may consist of anything whatever, if of any value.
 
-<span id="fn_13"></span>[34:1](psc06.htm#fr_13) See Exod. xxi. 28.
+<span id="fn_13"></span>[34:1](psc06.htm#fr_13.md) See Exod. xxi. 28.
 
-<span id="fn_14"></span>[38:1](psc06.htm#fr_14) Concerning the law of
+<span id="fn_14"></span>[38:1](psc06.htm#fr_14.md) Concerning the law of
 newly planted trees, see Leviticus xix. 23.
 
-<span id="fn_15"></span>[45:1](psc06.htm#fr_15) Why was the decree of
+<span id="fn_15"></span>[45:1](psc06.htm#fr_15.md) Why was the decree of
 Rabh confronted with the fact that Rabba bar Ahilayi's statement had
 been effectually refuted by the Boraitha? Why could not the Boraitha
 itself have been used in order to counteract Rabh's decree? In our
@@ -1650,57 +1650,57 @@ the Boraitha, hence we must assume that Rabh is in accordance with the
 Boraitha. Now, then, if such is the case, the question why Rabh holds
 that the pots must be destroyed according to Rabh is a logical one.
 
-<span id="fn_16"></span>[46:1](psc06.htm#fr_16) Vide Leviticus vi. 21.
+<span id="fn_16"></span>[46:1](psc06.htm#fr_16.md) Vide Leviticus vi. 21.
 
-<span id="fn_17"></span>[48:1](psc06.htm#fr_17) *Vide* Leviticus xxii.
+<span id="fn_17"></span>[48:1](psc06.htm#fr_17.md) *Vide* Leviticus xxii.
 14.
 
-<span id="fn_18"></span>[50:1](psc06.htm#fr_18) The sages do not concur
+<span id="fn_18"></span>[50:1](psc06.htm#fr_18.md) The sages do not concur
 in this opinion of R. Nehunia where the punishment of Kareth is
 incurred.
 
-<span id="fn_19"></span>[54:1](psc06.htm#fr_19) The difference between
+<span id="fn_19"></span>[54:1](psc06.htm#fr_19.md) The difference between
 the two is as follows: The Hebrew term for affliction is Oni, written
 Ayni, Nun, Vav, Iod; and the term for "poor" is also Oni, but is written
 Ayni, Nun, Iod, and in the verse it is spelled in the latter manner.
 
-<span id="fn_20"></span>[55:1](psc06.htm#fr_20) Vide Leviticus ii. 12-14
+<span id="fn_20"></span>[55:1](psc06.htm#fr_20.md) Vide Leviticus ii. 12-14
 
-<span id="fn_21"></span>[58:1](psc06.htm#fr_21) See Leviticus xxiii. 40.
+<span id="fn_21"></span>[58:1](psc06.htm#fr_21.md) See Leviticus xxiii. 40.
 
-<span id="fn_22"></span>[59:1](psc06.htm#fr_22) Hebrew for endive is
+<span id="fn_22"></span>[59:1](psc06.htm#fr_22.md) Hebrew for endive is
 Thamchah. According to De Pomis, it is the "*Carduus marrbuim*." Others
 consider it to be the green tops of horseradish.
 
-<span id="fn_23"></span>[59:2](psc06.htm#fr_23) A species of nettle.
+<span id="fn_23"></span>[59:2](psc06.htm#fr_23.md) A species of nettle.
 Landau's dictionary translates it *Urtica*.
 
-<span id="fn_24"></span>[59:3](psc06.htm#fr_24) According to De Pomis,
+<span id="fn_24"></span>[59:3](psc06.htm#fr_24.md) According to De Pomis,
 this should be the *Lactuca agrestis* (wild lettuce).
 
-<span id="fn_25"></span>[59:4](psc06.htm#fr_25) Oleander is poisonous,
+<span id="fn_25"></span>[59:4](psc06.htm#fr_25.md) Oleander is poisonous,
 but here a certain non-poisonous species is meant.
 
-<span id="fn_26"></span>[59:5](psc06.htm#fr_26) In explanation of this
+<span id="fn_26"></span>[59:5](psc06.htm#fr_26.md) In explanation of this
 word, see Hamashbir (Warsaw, 58), opposing the Aruch in this matter.
 
-<span id="fn_27"></span>[60:1](psc06.htm#fr_27) Probably myrrh, or Greek
+<span id="fn_27"></span>[60:1](psc06.htm#fr_27.md) Probably myrrh, or Greek
 πυρέτρον.
 
-<span id="fn_28"></span>[63:1](psc06.htm#fr_28) Presumably a mixture of
+<span id="fn_28"></span>[63:1](psc06.htm#fr_28.md) Presumably a mixture of
 almonds, vinegar, and spice, in which food was dipped by the ancients.
 
-<span id="fn_29"></span>[65:1](psc06.htm#fr_29) Of the two statements in
+<span id="fn_29"></span>[65:1](psc06.htm#fr_29.md) Of the two statements in
 this paragraph, in the old edition the former is attributed to Rabha,
 while the latter is credited to Abayi; but the latter statement always
 appears in other portions of the Talmud as the opinion of Rabha; hence
 we have exchanged the places of the two names. In this we are borne out
 also by R. Joseph Karo in his commentary entitled "Keseph Mishna."
 
-<span id="fn_30"></span>[66:1](psc06.htm#fr_30) This will be explained
+<span id="fn_30"></span>[66:1](psc06.htm#fr_30.md) This will be explained
 in Tract Tamurah, Chap. I.
 
-<span id="fn_31"></span>[66:2](psc06.htm#fr_31) "Shelanu" has a twofold
+<span id="fn_31"></span>[66:2](psc06.htm#fr_31.md) "Shelanu" has a twofold
 meaning. The more general definition is "our" or "of us," and the other,
 which is more seldom used, is "which has remained over night." See
 Appendix at the end of this Tract.
@@ -1709,4 +1709,4 @@ Appendix at the end of this Tract.
 
 [Next: Chapter III: Regulations Concerning Articles Which Cause
 Transgression of the Law Prohibiting Leaven to be Seen or Found in the
-House of an Israelite.](psc07)
+House of an Israelite.](psc07.md)

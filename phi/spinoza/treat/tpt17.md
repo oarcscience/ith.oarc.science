@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](tpt16)  [Next](tpt18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](tpt16)  [Next](tpt18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -269,4 +269,4 @@ religion freed also from all the trammels of superstition!
 ------------------------------------------------------------------------
 
 [Next: Chapter XII.—Of The True Original of the Divine Law, and
-Wherefore Scripture Is Called Sacred, and the Word of God...](tpt18)
+Wherefore Scripture Is Called Sacred, and the Word of God...](tpt18.md)

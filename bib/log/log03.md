@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](log02)  [Next](log04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](log02)  [Next](log04.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ transmitted to us: notably Genesis vi. 1-4 is nothing but a torso.
 We are led to similar conclusions when we compare the primitive legends
 with the allusions to the myths which we find in the poets and prophets
 of the Old Testament and the later apocalyptic writers; <span
-id="fr_1"></span>[1](#fn_1) as, for instance, the myths of Jahveh's
+id="fr_1"></span>[1](#fn_1.md) as, for instance, the myths of Jahveh's
 combat with Rahab or Leviathan, of the fall of Helal, and so on. The
 same result very clearly follows a comparison of the primitive legends
 of Genesis with the myths of the Orient, especially of the biblical
@@ -161,7 +161,7 @@ theology and of philosophy. It is no wonder that especial emphasis has
 been laid upon these features, and that every generation, since Genesis
 has been known, has read into it its own deepest thoughts.
 
-### THE LEGENDS OF THE [PATRIARCHS](errata.htm#0).
+### THE LEGENDS OF THE [PATRIARCHS](errata.htm#0.md).
 
 The primitive legends are followed in Genesis by the legends of the
 patriarchs. The distinctive feature of these legends is that they tell
@@ -437,7 +437,7 @@ explanation in a miraculous utterance of God or some of the patriarchs,
 and the legend has to tell how this miraculous utterance came to be made
 in olden times. And this sort of explanation was regarded as completely
 satisfactory, so that there came to be later a distinct literary variety
-of "charm" or "'blessing." <span id="fr_2"></span>[1](#fn_2)
+of "charm" or "'blessing." <span id="fr_2"></span>[1](#fn_2.md)
 
 Childish as these explanations now seem to us, and impossible as it was
 for the men of old to find out the true reasons of such things, yet we
@@ -670,7 +670,7 @@ conditions; in one feature it is allied
 
 to the ceremonial legends, its explanation of the sacredness of
 Lacha-roi; furthermore it has etymological elements in its
-[interpretation](errata.htm#1) of the names Lacha-roi and Ishmael.--The
+[interpretation](errata.htm#1.md) of the names Lacha-roi and Ishmael.--The
 legend of Paradise treats all at once a number of questions.--The legend
 of Bethel explains at once the worship at Bethel and the name of the
 place.--The legends of Beersheba (xxi., xxii. ff., xxvi.) contain
@@ -721,11 +721,11 @@ portrayal of the subject matter given.
 
 ### Footnotes
 
-<span id="fn_1"></span>[15:1](log03.htm#fr_1) Compare the material
+<span id="fn_1"></span>[15:1](log03.htm#fr_1.md) Compare the material
 gathered in my work *Creation and Chaos*, 1895.
 
-<span id="fn_2"></span>[27:1](log03.htm#fr_2) Cp. Genesis xlix.
+<span id="fn_2"></span>[27:1](log03.htm#fr_2.md) Cp. Genesis xlix.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Literary Form of the Legends](log04)
+[Next: III. The Literary Form of the Legends](log04.md)

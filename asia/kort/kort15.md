@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort14)  [Next](kort16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort14)  [Next](kort16.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ flood. They had to climb upwards. That is all.
 
 ------------------------------------------------------------------------
 
-[Next: 12. Ermine-People.--II](kort16)
+[Next: 12. Ermine-People.--II](kort16.md)

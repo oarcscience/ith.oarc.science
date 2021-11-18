@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar66)  [Next](gar68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar66)  [Next](gar68.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 ### Mithraicism
 
-The strange and obscene <span id="fr_257"></span>[\*](#fn_255)
+The strange and obscene <span id="fr_257"></span>[\*](#fn_255.md)
 ceremonies observed on the admission of neophytes into the various
 secret societies that
 
@@ -42,7 +42,7 @@ Druidas eorum et hoc genus vatum medicorumque per senatus consultum.
 Quid ego hæc commemorem in arte Oceanum quoque transgressa, et ad Naturæ
 inane pervecta? *Britannia* hodieque celebrat, tantis ceremonies ut
 *dedisse Persis* videri possit; adeo ista toto mundo consensere quamquam
-discordi et sibi ignoto. Nee satis æstumari [potest](errata.htm#27)
+discordi et sibi ignoto. Nee satis æstumari [potest](errata.htm#27.md)
 quantum Romanis debeatur, qui sustulere monstra in quibus hominem
 occidere religiosissimum erat, *mandi* verò etiam saluberrimum." A
 hundred years before, Cæsar (Bell. Gall. vi. 13) had stated: "Disciplina
@@ -76,7 +76,7 @@ creed (according to Epiphanius) by engrafting upon the original the
 transcendental Buddhistic notions picked up by his true master,
 Scythicus, during his travels in India. Is there not then a possibility
 that some sparks of the ancient Mithraic doctrine may have lingered
-unnoticed in the West <span id="fr_258"></span>[\*](#fn_256) until made
+unnoticed in the West <span id="fr_258"></span>[\*](#fn_256.md) until made
 to blaze up anew by the congenial breath of the Paulician Apostles?
 Indeed, one may even now discern the awful antique ceremonial as
 parodied to the minutest particular in the procedure of the modern
@@ -115,13 +115,13 @@ quoque profundissimum monte continuo circumseptum, cum *spelunca*
 subterranea quam quondam Draco ingens fecerat et inhabitavit, in loco
 qui *Wurmenhert* dicitur, in quantum potuit explanavit, vestigia tamen
 æterna habitationis serpentinae derelinquens." <span
-id="fr_259"></span>[\*](#fn_257)
+id="fr_259"></span>[\*](#fn_257.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_255"></span>[420:\*](gar67.htm#fr_257) "*Art*. 26. Item,
+<span id="fn_255"></span>[420:\*](gar67.htm#fr_257.md) "*Art*. 26. Item,
 quod in receptione Fratrum hujus Ordinis, vel circa, interdum recipiens
 et receptus aliquando se deosculabantur in ore, vel in umbilico seu in
 ventre nudo, vel in ano seu in spina dorsi."
@@ -131,15 +131,15 @@ ventre nudo, vel in ano seu in spina dorsi."
 "*Art*. 30. Item, quod in receptione sua illa faciebant juxta eos quos
 recipiebant quod Ordinem non exierint."
 
-<span id="fn_256"></span>[422:\*](gar67.htm#fr_258) Similarly there is
+<span id="fn_256"></span>[422:\*](gar67.htm#fr_258.md) Similarly there is
 every reason to believe that the mediæval Witches' *Sabbat* preserved
 uninterrupted the ceremonial of the ancient rural *orgia*, the only
 change being in the name of the presiding deity. Michelet is of this
 opinion in describing the immense *Sabbats* of the 17th century.
 
-<span id="fn_257"></span>[423:\*](gar67.htm#fr_259) *Gesta Abbatum S.
+<span id="fn_257"></span>[423:\*](gar67.htm#fr_259.md) *Gesta Abbatum S.
 Albani*, ed. H. T. Riley, vol. i., page 25.
 
 ------------------------------------------------------------------------
 
-[Next: The Transmission of Gnostic Symbols](gar68)
+[Next: The Transmission of Gnostic Symbols](gar68.md)

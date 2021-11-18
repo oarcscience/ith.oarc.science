@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](eru10)  [Next](eru12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru10)  [Next](eru12.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -137,7 +137,7 @@ but on a level with the ground of
 
 <span id="page_182">p. 182</span>
 
-the other, <span id="fr_47"></span>[1](#fn_47) the wall is ceded to the
+the other, <span id="fr_47"></span>[1](#fn_47.md) the wall is ceded to the
 latter court and considered part of its ground, but to the former court
 it is an ordinary wall ten spans high. Why so? Because the use of the
 wall is more convenient for the latter than for the former, and where an
@@ -472,7 +472,7 @@ The Boraitha continues further: "The one wishing to make use of his
 court should lock up the house and resign his right to the ground."
 What, do both? Lock the house and resign his right to the ground? Yea;
 both are necessary, for the man is accustomed to use the house on
-Sabbath, <span id="fr_48"></span>[1](#fn_48) and he might perchance, if
+Sabbath, <span id="fr_48"></span>[1](#fn_48.md) and he might perchance, if
 he leave it unlocked, come and use it.
 
 Continuing, the Boraitha states: "If he did so, he must not carry, but
@@ -548,7 +548,7 @@ R. Na'hman said: "We are in possession of a tradition which teaches us,
 that whether Erubin of legal limits or Erubin of courts or combinations
 of entries are concerned, a transfer of ownership must be effected. Now
 the question arises as to Erubin of cooked articles, <span
-id="fr_49"></span>[1](#fn_49) whether a transfer of ownership is
+id="fr_49"></span>[1](#fn_49.md) whether a transfer of ownership is
 necessary or not." Said R. Jose: "What question is this? Did R. Na'hman
 not hear the dictum of R. Na'hman bar R. Ada in the name of Samuel, that
 in the case of Erubin of cooked articles a transfer of ownership must
@@ -600,7 +600,7 @@ there were no partitions (hence it was difficult to watch the entry).
 According to another interpretation, Where an act is committed out of
 spite, with the intention to injure another, it is different (*i.e.*, a
 man may be compelled to desist as explained in Chapter IV., page
-[109](eru08.htm#page_109)). <span id="fr_50"></span>[1](#fn_50)
+[109](eru08.htm#page_109)). <span id="fr_50"></span>[1](#fn_50.md)
 
 <span id="page_193">p. 193</span>
 
@@ -675,7 +675,7 @@ Chapter III., Mishna i), that the Erub or combination may be effected
 with all kinds of nutriment except water and salt? Said Rabba bar bar
 Hana: This Mishna repeats the ordinance solely on account of R.
 Jehoshua, who maintains, that only a whole loaf is a
-[lawful](errata.htm#8) Erub, but not a broken loaf. Hence we are taught
+[lawful](errata.htm#8.md) Erub, but not a broken loaf. Hence we are taught
 that with *all kinds* of nutriment it may be effected, including a
 broken loaf.
 
@@ -735,7 +735,7 @@ money to the wine-seller or the baker
 <span id="page_196">p. 196</span>
 
 did not draw his purchase toward him, hence no sale or purchase was
-effected. <span id="fr_51"></span>[1](#fn_51)
+effected. <span id="fr_51"></span>[1](#fn_51.md)
 
 Answered R. Na'hman in the name of Rabba bar Abahu: "R. Eliezer makes
 this case analogous with the case mentioned in the Mishna (Tract Cholin,
@@ -782,7 +782,7 @@ disagree with him?" Did not R. Jehoshua ben Levi say, that whenever we
 find in a Mishna the statement: "Said R. Jehudah. 'When is this the
 case?' or 'When do these regulations apply?'" it is not to be accepted
 as a refutation of previous decrees, but merely as a further explanation
-of the [decree](errata.htm#9) of the sages? \[How can it be said, that
+of the [decree](errata.htm#9.md) of the sages? \[How can it be said, that
 it is not to be accepted as a refutation? Did we not learn in a previous
 Mishna, that if additional inhabitants came into the alley, the right of
 possession must be transferred to them and they must be notified,
@@ -805,17 +805,17 @@ regulations apply?" he means to differ from the foregoing opinions.
 
 ### Footnotes
 
-<span id="fn_47"></span>[182:1](eru11.htm#fr_47) Rashi explains the term
+<span id="fn_47"></span>[182:1](eru11.htm#fr_47.md) Rashi explains the term
 "on a level with the ground" to signify, that it was less than ten spans
 higher than the ground, in which case it is considered as level with the
 ground.
 
-<span id="fn_48"></span>[189:1](eru11.htm#fr_48) Rashi asserts, that the
+<span id="fn_48"></span>[189:1](eru11.htm#fr_48.md) Rashi asserts, that the
 Tana of this Boraitha maintains, that all those who resign their right
 to the ground of their houses should also lock them, but Tosphath does
 not agree with Rashi.
 
-<span id="fn_49"></span>[191:1](eru11.htm#fr_49) Erubin of cooked
+<span id="fn_49"></span>[191:1](eru11.htm#fr_49.md) Erubin of cooked
 articles, called in Hebrew "Erubin Thabhshilin." When a Sabbath follows
 a festival, no food must be cooked on the festival for the Sabbath, but
 in order to circumvene this ordinance the Rabbis decreed that two
@@ -823,7 +823,7 @@ different kinds of food be set aside on the eve of the festival to serve
 for the Sabbath and thus enable the people to cook, in addition to the
 food set aside, on the festival in order to provide for the Sabbath.
 
-<span id="fn_50"></span>[192:1](eru11.htm#fr_50) What we have rendered
+<span id="fn_50"></span>[192:1](eru11.htm#fr_50.md) What we have rendered
 above with "Where an act is committed out of spite, etc., it is
 different," is expressed in the Hebrew original with but two words,
 viz.: "Metzad Sheäni," literally, "from the side it is different." The
@@ -846,7 +846,7 @@ combine, so that the other inmates of the alley would be prevented from
 carrying on the Sabbath; hence, in this instance no further explanation
 by Rashi was necessary.
 
-<span id="fn_51"></span>[196:1](eru11.htm#fr_51) A sale or a purchase
+<span id="fn_51"></span>[196:1](eru11.htm#fr_51.md) A sale or a purchase
 was not binding or effective unless the purchaser at the time of the
 purchase drew the object bought towards him, and this act of drawing
 towards him is called in the Talmud Meshi'kha, based upon the passage,
@@ -855,4 +855,4 @@ Exod. xii. 21.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII: Erubin of Limits, Food Required for Erubin, Erubin
-of Courts](eru12)
+of Courts](eru12.md)

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,8 +20,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ftu00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ftu.txt.gz)
+[Contents](#contents)    [Start Reading](ftu00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ftu.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -31,11 +31,11 @@ translation makes this a delight to read.--J.B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ftu00)  
-[Contents](ftu01)  
-[Foreword](ftu02)  
-[To G. W. Russell](ftu03)  
-[I. In the House of Death. The First Part](ftu04)  
-[In the House of Death, Second Part](ftu05)  
-[II. A Vedic Master](ftu06)  
-[III. That Thou Art](ftu07)  
+<span id="contents"></span> [Title Page](ftu00.md)  
+[Contents](ftu01.md)  
+[Foreword](ftu02.md)  
+[To G. W. Russell](ftu03.md)  
+[I. In the House of Death. The First Part](ftu04.md)  
+[In the House of Death, Second Part](ftu05.md)  
+[II. A Vedic Master](ftu06.md)  
+[III. That Thou Art](ftu07.md)  

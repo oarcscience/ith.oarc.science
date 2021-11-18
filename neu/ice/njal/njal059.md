@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal058)  [Next](njal060) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal058)  [Next](njal060.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ a feast at Tongue."
 
 ------------------------------------------------------------------------
 
-[Next: 60. An Attack Against Gunnar Agreed On](njal060)
+[Next: 60. An Attack Against Gunnar Agreed On](njal060.md)

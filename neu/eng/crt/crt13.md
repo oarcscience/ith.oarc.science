@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt12)  [Next](crt14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt12)  [Next](crt14.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_08600"></span>
 
 [![Sir Launcelot takes the armor of Sir Kay](tn/08600.jpg)  
-Click to enlarge](img/08600.jpg)  
+Click to enlarge](img/08600.jpg.md)  
 Sir Launcelot takes the armor of Sir Kay  
 
 <span id="page_87">p. 87</span>
@@ -569,4 +569,4 @@ excellent a knight as Sir Launcelot was himself.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](crt14)
+[Next: Conclusion](crt14.md)

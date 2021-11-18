@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto22) 
-[Next](aoto24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto22.md) 
+[Next](aoto24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ The preliminaries being arranged, and fair play bargained <span
 class="margnote"><span id="an_18:58">58</span></span> for by Ulysses, he
 began to strip. When Irus saw his muscles his heart misgave him; but
 Antinous kept him up to it, and the fight began. <span
-id="fr_37"></span>[\*](#fn_37) Ulysses forthwith nearly killed Irus and
+id="fr_37"></span>[\*](#fn_37.md) Ulysses forthwith nearly killed Irus and
 dragged him by the heels into the outer court, where he put his staff in
 his hand and propped him up against the wall more dead than alive.
 Antinous then gave Ulysses a great goat's paunch, and Amphinomus drank
@@ -129,7 +129,7 @@ room, followed by the women, who carried the presents for her.
 
 The suitors now turned to singing and dancing, lighted by <span
 class="margnote"><span id="an_18:304">304</span></span> large braziers
-that were placed in the court, <span id="fr_38"></span>[\*](#fn_38) and
+that were placed in the court, <span id="fr_38"></span>[\*](#fn_38.md) and
 also by <span class="margnote"><span id="an_18:307">307</span></span>
 torches, which the maids held up by turns. Ulysses after a while told
 them to go inside, saying that he would hold the <span
@@ -174,13 +174,13 @@ shortly afterwards left the house.
 
 ### Footnotes
 
-<span id="fn_37"></span>[75:\*](aoto23.htm#fr_37) They might very well
+<span id="fn_37"></span>[75:\*](aoto23.htm#fr_37.md) They might very well
 fight in the middle of an open court, but hardly in a covered hall. They
 would go outside.
 
-<span id="fn_38"></span>[77:\*](aoto23.htm#fr_38) ἐν μεγάροισιν, but not
+<span id="fn_38"></span>[77:\*](aoto23.htm#fr_38.md) ἐν μεγάροισιν, but not
 ἐν μεγάροισι σκιόεσσι.
 
 ------------------------------------------------------------------------
 
-[Next: Book XIX. Ulysses Converses with Penelope](aoto24)
+[Next: Book XIX. Ulysses Converses with Penelope](aoto24.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod00)  [Next](fcod02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod00)  [Next](fcod02.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ August 30th, 1926.
 
 ------------------------------------------------------------------------
 
-[Next: Acknowledgment](fcod02)
+[Next: Acknowledgment](fcod02.md)

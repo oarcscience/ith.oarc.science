@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck14)  [Next](peck16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck14)  [Next](peck16.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ reddening of the epacris.
 
 ------------------------------------------------------------------------
 
-[Next: The Dianella Berry](peck16)
+[Next: The Dianella Berry](peck16.md)

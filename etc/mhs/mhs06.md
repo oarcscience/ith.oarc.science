@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs05)  [Next](mhs07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs05)  [Next](mhs07.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ or metals when wielded by an experienced hand.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Symbol Of The Open Hand](mhs07)
+[Next: IV. The Symbol Of The Open Hand](mhs07.md)

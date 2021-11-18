@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi14)  [Next](rpdi16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi14)  [Next](rpdi16.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ dialect Wukeruk. The corresponding ceremony
 <span id="page_312">p. 312</span>
 
 among the Luiseño is called Tochinish or Tauchanish. <span
-id="fr_94"></span>[87a](#fn_94) Images representing each of the deceased
+id="fr_94"></span>[87a](#fn_94.md) Images representing each of the deceased
 are made out of matting. These are stuffed with grass to give them a
 lifelike appearance, and are dressed in all sorts of finery. Eyes, nose,
 ears, and teeth are represented with bits of haliotis shell. The gum of
@@ -30,7 +30,7 @@ images. These images, together with considerable property, are burned
 amid elaborate rites. The whole forms a long and complicated ceremony.
 
 Mention of this ceremony is made several times in the mythology of the
-Diegueño. <span id="fr_95"></span>[88](#fn_95) Its origin is described
+Diegueño. <span id="fr_95"></span>[88](#fn_95.md) Its origin is described
 in the Creation myth which follows in this paper. It is believed by the
 Diegueño to be the first ceremony ever performed. The author of the
 account of the equivalent Luiseño ceremony says correctly that the
@@ -58,7 +58,7 @@ the deceased persons. On the spot chosen
 
 for the ceremony the small ceremonial house called keruk is erected. It
 is in shape half a hemisphere facing the east. <span
-id="fr_96"></span>[89](#fn_96) When all is in readiness the people
+id="fr_96"></span>[89](#fn_96.md) When all is in readiness the people
 assemble and pass one night in wailing. In the morning they have
 something to eat, and go to sleep. The relatives of the dead fast as
 much as they can and carefully refrain, moreover, from touching any of
@@ -173,15 +173,15 @@ of grief are discontinued.
 
 ### Footnotes
 
-<span id="fn_94"></span>[312:87a](rpdi15.htm#fr_94) DuBois, op. cit.,
+<span id="fn_94"></span>[312:87a](rpdi15.htm#fr_94.md) DuBois, op. cit.,
 pp. 100, 103, 180; Sparkman, p. 227.
 
-<span id="fn_95"></span>[312:88](rpdi15.htm#fr_95) Journ. Am. Folk-Lore,
+<span id="fn_95"></span>[312:88](rpdi15.htm#fr_95.md) Journ. Am. Folk-Lore,
 XIX, 153, 160, 1906.
 
-<span id="fn_96"></span>[313:89](rpdi15.htm#fr_96) East is the
+<span id="fn_96"></span>[313:89](rpdi15.htm#fr_96.md) East is the
 ceremonial direction among the Diegueño, as north is among the Luiseño.
 
 ------------------------------------------------------------------------
 
-[Next: The Eagle Ceremony](rpdi16)
+[Next: The Eagle Ceremony](rpdi16.md)

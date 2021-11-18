@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](toa11)  [Next](toa13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](toa11)  [Next](toa13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Treasure of Atlantis*, by J. Allan Dunn, \[1916\], at Intangible
 Textual Heritage
 
@@ -211,7 +211,7 @@ swung by disdainfully, chanting as they went. Morse barely noticed them,
 waiting for the approach of the high priestess. He sat erect, his face
 alight, his eagerness unconcealed. Rana leaned back, watching him
 intently, as if suddenly suspicious of his interest. Kiron, too, was now
-alert, shaken from the usual [blasé](errata.htm#12) pose which he wore
+alert, shaken from the usual [blasé](errata.htm#12.md) pose which he wore
 in public.
 
 She came at last, abreast with two other litters of ivory on which her
@@ -264,7 +264,7 @@ Morse answered her quietly, wondering at his own calmness.
 <span id="page_93">p. 93</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-[Atlantean](errata.htm#13) cutthroats set upon me. I suspect I have her
+[Atlantean](errata.htm#13.md) cutthroats set upon me. I suspect I have her
 to thank for my life."
 
 "Ah!" Rana relaxed, and some of the cruelty left her eyes, though
@@ -497,7 +497,7 @@ guest, lurking in some out-of-the-way corner and dreaming of his next
 exploration—much to the chagrin of many of the women whose main
 objective seemed to be "seeing Stanley married and securely tied down."
 
-Morse knew that he was not cut out for [such](errata.htm#14) a life,
+Morse knew that he was not cut out for [such](errata.htm#14.md) a life,
 that he was out of place in the society that bred him. But in Le-ol-a,
 priestess of Pasiphae, there was much to lure him. Le-ol-a, mentally
 alert, throwing out a challenge to men that, failing her standard, she
@@ -856,6 +856,6 @@ with a lurid, pulsating glow.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI—The Judgment of Ru](toa13)
+[Next: Chapter XI—The Judgment of Ru](toa13.md)
 
 </div>

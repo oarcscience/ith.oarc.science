@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo62)  [Next](hoo64) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo62)  [Next](hoo64.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 DAUGHTERS of darkling night, much-nam'd, draw near  
 Infinite Fates, and listen to my pray'r;  
 Who in the heav'nly lake (where waters white  <span
-id="fr_116"></span>[3](#fn_116)  
+id="fr_116"></span>[3](#fn_116.md)  
 Burst from a fountain hid in depths of night,  
 And thro' a dark and stony cavern glide, 5  
 A cave profound, invisible) abide;
@@ -48,7 +48,7 @@ And far avert distress with placid mind. 30
 
 ### Footnotes
 
-<span id="fn_116"></span>[190:3](hoo63.htm#fr_116) Ver. 3.\] *Who in the
+<span id="fn_116"></span>[190:3](hoo63.htm#fr_116.md) Ver. 3.\] *Who in the
 heav'nly lake*, &c. Gesner confesses he is ignorant what the poet means
 by the λίμνη Ὀυρανία, or heavenly lake; as likewise of the dark cavern
 in which he places the Fates. At first sight indeed the whole seems
@@ -64,4 +64,4 @@ Fulgentius places the Fates with Pluto.
 
 ------------------------------------------------------------------------
 
-[Next: LIX: To the Graces](hoo64)
+[Next: LIX: To the Graces](hoo64.md)

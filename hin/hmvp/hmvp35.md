@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp34)  [Next](hmvp36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp34)  [Next](hmvp36.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -23,12 +23,12 @@ Purānas differ very considerably in their
 
 <span id="img_32300"></span> <span align="CENTER">
 [![GANESA.](tn/32300.jpg)  
-Click to enlarge](img/32300.jpg)  
+Click to enlarge](img/32300.jpg.md)  
 GANESA.  
 </span>
 
 accounts of his origin. Sir W. Jones says <span
-id="fr_284"></span>[\*](#fn_284) that " Ganesa, the Indian god of
+id="fr_284"></span>[\*](#fn_284.md) that " Ganesa, the Indian god of
 Wisdom, has the same
 
 <span id="page_324">p. 324</span>
@@ -57,7 +57,7 @@ eldest son of Siva and Pārvati (the 'Padma Purāna' alone declares that
 he was the actual child of these deities), and is represented with an
 elephant's head—an emblem of sagacity—and is frequently attended by, or
 is riding upon, a rat. He has generally four hands, but sometimes six,
-or eight, or only two." <span id="fr_285"></span>[\*](#fn_285) He is
+or eight, or only two." <span id="fr_285"></span>[\*](#fn_285.md) He is
 always described as being very corpulent; and pictures or images of him
 are seen over the doors of most shopkeepers. It is not easy to see why
 Ganesa
@@ -67,7 +67,7 @@ Ganesa
 has become so universally worshipped, as there are few legends in the
 Purānas attesting his divine power.
 
-The "Brahmāvaivarta Purāna" <span id="fr_286"></span>[\*](#fn_286) gives
+The "Brahmāvaivarta Purāna" <span id="fr_286"></span>[\*](#fn_286.md) gives
 the following account of his birth:—"Pārvati, after her marriage with
 Siva, being without a child, and very desirous to obtain one, was
 advised by her husband to perform the Panyākavrātā. This is the worship
@@ -150,7 +150,7 @@ his contest with Rāma was in consequence of a curse pronounced upon him
 by the sage Tulasi, with whom he had quarrelled."
 
 We have quite a different account of the origin of Ganesa in the "Matsya
-Purāna." <span id="fr_287"></span>[\*](#fn_287) When Pārvati was
+Purāna." <span id="fr_287"></span>[\*](#fn_287.md) When Pārvati was
 bathing, she took the oil and ointments used at the bath, together with
 the impurities that came from her body, and formed them into the figure
 of a man, to which she gave life by sprinkling it with the water of the
@@ -168,7 +168,7 @@ head that could be found to be brought to him; this happened to be an
 elephant's, which he fitted to the headless trunk and resuscitated his
 son.
 
-In the "Vārāha Purāna" <span id="fr_288"></span>[\*](#fn_288) Ganesa is
+In the "Vārāha Purāna" <span id="fr_288"></span>[\*](#fn_288.md) Ganesa is
 said to have been produced by Siva alone. "The immortals and holy sages
 observing that no difficulty occurred in accomplishing good or evil
 deeds which they and others commenced, consulted together respecting the
@@ -198,7 +198,7 @@ and invoked the first on all occasions, otherwise the object and prayers
 of him who omits to do so shall fail.
 
 "The origin and purpose of Ganesa's existence are more fully taught in
-the Skanda. <span id="fr_289"></span>[\*](#fn_289) Siva addressing
+the Skanda. <span id="fr_289"></span>[\*](#fn_289.md) Siva addressing
 Pārvati says, "During the twilight that intervened between the Dwarpara
 and Kāli Yugas, women, barbarians, Sudras, and other workers of sin
 obtained entrance to heaven by visiting the celebrated shrine of
@@ -256,8 +256,8 @@ object, and a most beneficial result shall he derive from sacrifices,
 pilgrimages, and all other devotional acts."
 
 The following extract from the "Ganapati Upanishad" <span
-id="fr_290"></span>[\*](#fn_290) is a specimen of the addresses to
-Ganesa used by the Ganapatyas: <span id="fr_291"></span>[†](#fn_291)
+id="fr_290"></span>[\*](#fn_290.md) is a specimen of the addresses to
+Ganesa used by the Ganapatyas: <span id="fr_291"></span>[†](#fn_291.md)
 "Praise to thee, O Ganesa! Thou art manifestly the truth; thou art
 undoubtedly the Creator, Preserver, and Destroyer, the Supreme Brahma,
 the eternal Spirit. I speak what is right and true; preserve me
@@ -294,7 +294,7 @@ difficult passages.
 In recent times there has been a supposed incarnation of Ganesa, whose
 descendant and representative was visited by Captain E. Moor during the
 present century. The following is the account of his visit: <span
-id="fr_292"></span>[\*](#fn_292)—"Muraba Goseyn was a Brāhman of Poona
+id="fr_292"></span>[\*](#fn_292.md)—"Muraba Goseyn was a Brāhman of Poona
 who by abstinence, mortification, and prayer, merited above others the
 favourable regards of the Almighty. Ganapati accordingly vouchsafed to
 appear to him at Chinchoor in a vision by night; desired him to arise
@@ -360,7 +360,7 @@ though called the younger son of
 
 <span id="img_33400"></span> <span align="CENTER">
 [![KARTIKEYA.](tn/33400.jpg)  
-Click to enlarge](img/33400.jpg)  
+Click to enlarge](img/33400.jpg.md)  
 KARTIKEYA.  
 </span>
 
@@ -372,7 +372,7 @@ that they formed
 
 him. Brahmā arranged for his birth in answer to the prayers of the gods
 for a competent leader of their forces. The Rāmāyana <span
-id="fr_293"></span>[\*](#fn_293) says: "While Siva, the lord of the
+id="fr_293"></span>[\*](#fn_293.md) says: "While Siva, the lord of the
 gods, was performing austerities, the other deities went to Brahmā and
 asked for a general in the room of Mahādeva, who, it seems, had formerly
 acted in that capacity. 'He,' said they, 'whom thou didst formerly give
@@ -382,7 +382,7 @@ curse of Umā no son could be born of any wives of the gods, but that
 Agni should have a son by the river Gangā, who should be their general."
 
 In the following extract from the Mahābhārata <span
-id="fr_294"></span>[†](#fn_294) is an explanation of the statement in
+id="fr_294"></span>[†](#fn_294.md) is an explanation of the statement in
 the preceding paragraph that Agni was to be the father of this god.
 Kartikeya has just been installed as general, when, "the god whose
 banner is a bull (Siva), arriving with his goddess, paid him honour,
@@ -491,7 +491,7 @@ production of Kartikeya; the germ from which he was born having been
 received by the earth. Agni and Vāyu entered it, and deposited it with
 Gangā, the sister of Umā, and thus this deity was produced.
 
-The "Siva Purāna" <span id="fr_295"></span>[\*](#fn_295) gives a
+The "Siva Purāna" <span id="fr_295"></span>[\*](#fn_295.md) gives a
 different account of his origin, and teaches that he was produced to
 effect the destruction of Tārika. This demon, who was King of Tripura,
 was " exceedingly ambitious and oppressive.
@@ -508,7 +508,7 @@ toe. 3. He took only water as sustenance. 4. He lived similarly on air.
 under the last infliction, in incessant adoration. 7. The same in fire.
 8. He stood on his head. 9. He hung on a tree by his hands. 10. He bore
 the weight of his body on one hand. 11. He hung on a tree with his head
-downwards. <span id="fr_296"></span>[\*](#fn_296)
+downwards. <span id="fr_296"></span>[\*](#fn_296.md)
 
 "Such merit was irresistible, and Indra and a host of demi-gods, alarmed
 lest their sovereignty should be usurped through the potency of this
@@ -574,7 +574,7 @@ quotation that he had done this, and obtained the prize long before his
 brother returned from his weary pilgrimage, to the disquiet of both
 families when Ganesa's sophistry was discovered.
 
-We have still another account <span id="fr_297"></span>[\*](#fn_297) of
+We have still another account <span id="fr_297"></span>[\*](#fn_297.md) of
 the origin of Kartikeya: "Siva emitted sparks of fire from his eyes,
 which, being thrown into the lake Saravana, became six infants, who were
 nursed by the wives of the Rishis, who are seen in the sky as the
@@ -595,48 +595,48 @@ themselves, cannot marry any one.
 
 ### Footnotes
 
-<span id="fn_284"></span>[323:\*](hmvp35.htm#fr_284) "Asiatic
+<span id="fn_284"></span>[323:\*](hmvp35.htm#fr_284.md) "Asiatic
 Researches," i. 227.
 
-<span id="fn_285"></span>[324:\*](hmvp35.htm#fr_285) Moor's "Hindu
+<span id="fn_285"></span>[324:\*](hmvp35.htm#fr_285.md) Moor's "Hindu
 Pantheon," p. 169.
 
-<span id="fn_286"></span>[325:\*](hmvp35.htm#fr_286) Wilson's Works,
+<span id="fn_286"></span>[325:\*](hmvp35.htm#fr_286.md) Wilson's Works,
 iii.
 
-<span id="fn_287"></span>[327:\*](hmvp35.htm#fr_287) Kennedy, "Hindu
+<span id="fn_287"></span>[327:\*](hmvp35.htm#fr_287.md) Kennedy, "Hindu
 Mythology," p. 353.
 
-<span id="fn_288"></span>[328:\*](hmvp35.htm#fr_288) Kennedy, "Hindu
+<span id="fn_288"></span>[328:\*](hmvp35.htm#fr_288.md) Kennedy, "Hindu
 Mythology," p. 353.
 
-<span id="fn_289"></span>[329:\*](hmvp35.htm#fr_289) Kennedy, "Hindu
+<span id="fn_289"></span>[329:\*](hmvp35.htm#fr_289.md) Kennedy, "Hindu
 Mythology," p. 354.
 
-<span id="fn_290"></span>[331:\*](hmvp35.htm#fr_290) Kennedy, "Hindu
+<span id="fn_290"></span>[331:\*](hmvp35.htm#fr_290.md) Kennedy, "Hindu
 Mythology," p. 493.
 
-<span id="fn_291"></span>[331:†](hmvp35.htm#fr_291) Hindus of whom
+<span id="fn_291"></span>[331:†](hmvp35.htm#fr_291.md) Hindus of whom
 Ganesa is the supreme object of worship.
 
-<span id="fn_292"></span>[332:\*](hmvp35.htm#fr_292) "Asiatic
+<span id="fn_292"></span>[332:\*](hmvp35.htm#fr_292.md) "Asiatic
 Researches," vii. 381.
 
-<span id="fn_293"></span>[335:\*](hmvp35.htm#fr_293) Muir, O. S. T., iv.
+<span id="fn_293"></span>[335:\*](hmvp35.htm#fr_293.md) Muir, O. S. T., iv.
 364.
 
-<span id="fn_294"></span>[335:†](hmvp35.htm#fr_294) Ibid., iv. 350.
+<span id="fn_294"></span>[335:†](hmvp35.htm#fr_294.md) Ibid., iv. 350.
 
-<span id="fn_295"></span>[338:\*](hmvp35.htm#fr_295) Moor's " Hindu
+<span id="fn_295"></span>[338:\*](hmvp35.htm#fr_295.md) Moor's " Hindu
 Pantheon," p. 51.
 
-<span id="fn_296"></span>[339:\*](hmvp35.htm#fr_296) Many of these forms
+<span id="fn_296"></span>[339:\*](hmvp35.htm#fr_296.md) Many of these forms
 of penance are resorted to, with some modifications, at the present
 time; these devotees may be seen at Benares, and other shrines.
 
-<span id="fn_297"></span>[341:\*](hmvp35.htm#fr_297) Garrett's
+<span id="fn_297"></span>[341:\*](hmvp35.htm#fr_297.md) Garrett's
 "Classical Dictionary of India."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Puranic Account of the Creation](hmvp36)
+[Next: Chapter IX. The Puranic Account of the Creation](hmvp36.md)

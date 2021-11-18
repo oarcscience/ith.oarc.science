@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm03)  [Next](ssbm05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm03)  [Next](ssbm05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -184,7 +184,7 @@ adult ghost, it is normal *psychic phenomena*.
 The second form of consciousness is that of a super-conscious type of
 being. Its work is characterized by the changing of an object into an
 invisible form before moving it—perhaps moving it many miles. This type
-of movement will be [discussed](errata.htm#1) later on. At present we
+of movement will be [discussed](errata.htm#1.md) later on. At present we
 are dealing mainly with the FORCE used to cause the movement.
 
 *The Cases:*
@@ -695,4 +695,4 @@ distance both the vital force and the healing suggestion.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. The Two Souls of Man and the Proofs That There Are
-Two Instead of One](ssbm05)
+Two Instead of One](ssbm05.md)

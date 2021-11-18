@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl05)  [Next](vrl07) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl05)  [Next](vrl07.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,4 +220,4 @@ to sleep.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER VIII](vrl07)
+[Next: CHAPTER VIII](vrl07.md)

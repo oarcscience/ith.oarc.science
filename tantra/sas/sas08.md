@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas07)  [Next](sas09)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas07)  [Next](sas09.md)  
 
 ------------------------------------------------------------------------
 
@@ -349,4 +349,4 @@ Pañcatattva ritual.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Nine: The Tantra Shastras in China](sas09)
+Next: [Chapter Nine: The Tantra Shastras in China](sas09.md)

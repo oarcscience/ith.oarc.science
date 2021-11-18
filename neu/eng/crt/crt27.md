@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt26)  [Next](crt28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt26)  [Next](crt28.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ that state, and of how he was brought back into his senses again.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter First](crt28)
+[Next: Chapter First](crt28.md)

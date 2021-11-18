@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas05)  [Next](sas07)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas05)  [Next](sas07.md)  
 
 ------------------------------------------------------------------------
 
@@ -1495,4 +1495,4 @@ relation to other Scriptures and their real historical significance."
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Seven: Is Shakti Force?](sas07)
+Next: [Chapter Seven: Is Shakti Force?](sas07.md)

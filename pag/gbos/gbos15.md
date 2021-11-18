@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos14)  [Next](gbos16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos14)  [Next](gbos16.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ not to me of such, it frightens me, 'tis evil luck to speak of it."
 
 ------------------------------------------------------------------------
 
-[Next: Of the Ordeal of the Art Magical](gbos16)
+[Next: Of the Ordeal of the Art Magical](gbos16.md)

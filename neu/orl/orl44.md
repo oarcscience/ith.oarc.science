@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl43)  [Next](orl45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl43)  [Next](orl45.md) 
 
 ------------------------------------------------------------------------
 
@@ -1182,4 +1182,4 @@ What shall by men in other strain be versed.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 45](orl45)
+[Next: Canto 45](orl45.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg40)  [Next](btg42) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg40)  [Next](btg42.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ A bliss increasing evermore."
 
 ------------------------------------------------------------------------
 
-[Next: The Goal](btg42)
+[Next: The Goal](btg42.md)

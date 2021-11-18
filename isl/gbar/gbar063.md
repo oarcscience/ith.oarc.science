@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar062) [Next](gbar064)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar062) [Next](gbar064.md)
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ his health with medicines suitable to his infirmity.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar064)
+[Next](gbar064.md)

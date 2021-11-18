@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw16)  [Next](tnw18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw16)  [Next](tnw18.md) 
 
 ------------------------------------------------------------------------
 
@@ -522,4 +522,4 @@ people of K‘wang do to him?
 
 ------------------------------------------------------------------------
 
-[Next: 17. Exegetics: The Forbidden Fruit](tnw18)
+[Next: 17. Exegetics: The Forbidden Fruit](tnw18.md)

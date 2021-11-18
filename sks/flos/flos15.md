@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos14)  [Next](flos16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos14)  [Next](flos16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ marriage ceremony, may be accurately drawn from the many allusions
 interspersed through his plays. From these, it would seem that the mode
 of love-making was much the same amongst all classes, often lacking that
 polish and refined expression which are distinguishing characteristics
-now-a-days. As Mr Drake remarks, <span id="fr_712"></span>[1](#fn_710)
+now-a-days. As Mr Drake remarks, <span id="fr_712"></span>[1](#fn_710.md)
 the amatory dialogues of Hamlet, Hotspur, and Henry the Fifth, are not
 more refined than those which occur between Master Fenton and Anne Page
 in the "Merry Wives of Windsor," between Lorenzo and Jessica in the
@@ -183,7 +183,7 @@ life
 
 <span class="small"><span class="contnote">\[paragraph
 continues\]</span>  I give my daughter to him, and will make  
- Her portion equal his. <span id="fr_713"></span>[1](#fn_711)  
+ Her portion equal his. <span id="fr_713"></span>[1](#fn_711.md)  
  *Flor*.                        O, that must be  
  I’ the virtue of your daughter: one being dead,  
  I shall have more than you can dream of yet;  
@@ -214,7 +214,7 @@ And then the father, discovering himself, exclaims—
 </div>
 
    Here, then, as Mr Knight remarks, <span
-id="fr_714"></span>[2](#fn_712) in the publicity of a village festival,
+id="fr_714"></span>[2](#fn_712.md) in the publicity of a village festival,
 the hand of the loved one is solemnly taken by her lover, who breathes
 his life before the ancient stranger who is accidentally present. The
 stranger is called to be a witness to the protestation, and so is the
@@ -270,10 +270,10 @@ considered as constituting a valid marriage, if followed up within a
 limited time by the marriage of the Church. However much the Reformed
 Church might have endeavoured to abrogate this practice, it was
 unquestionably the ancient habit of the people. <span
-id="fr_715"></span>[1](#fn_713) It was derived from the Roman law, and
+id="fr_715"></span>[1](#fn_713.md) It was derived from the Roman law, and
 still prevails in the Lutheran Church.
 
-Besides exchanging kisses, <span id="fr_716"></span>[2](#fn_714)
+Besides exchanging kisses, <span id="fr_716"></span>[2](#fn_714.md)
 accompanied with vows of everlasting affection and whispering lovers’
 reassurances of fidelity, it was customary to interchange rings. In
 Shakespeare's plays, however, espousals are made with and without the
@@ -345,7 +345,7 @@ engraved that when fastened together by a single rivet, the whole three
 formed one design—the usual device being a hand. When an engagement was
 contracted the ring was taken apart, each spouse taking a division, and
 the third one being presented to the principal witness of the
-contract. <span id="fr_717"></span>[1](#fn_715) Hence such a ring was
+contract. <span id="fr_717"></span>[1](#fn_715.md) Hence such a ring was
 known as a "Sponsalium Annulis," to which Herrick thus refers:—
 
 <div style="margin-left: 32px">
@@ -390,7 +390,7 @@ Let it presage the ruin of your love."</span>
 </div>
 
 The last act, too, gives several particulars about lovers’ rings, which
-in Elizabethan England, <span id="fr_718"></span>[1](#fn_716) often had
+in Elizabethan England, <span id="fr_718"></span>[1](#fn_716.md) often had
 posies engraved on them, and were worn by men on the left hand.
 Gratiano, for example, says:—
 
@@ -506,7 +506,7 @@ It existed even among our Gothic ancestors, and is mentioned in the
 ordinances of the household of Henry VII., "For the Marriage of a
 Princess:—'Then pottes of ipocrice to be ready, and to be put into cupps
 with soppe, and to be borne to the estates, and to take a soppe and
-drinke." <span id="fr_719"></span>[1](#fn_717)\* It was also practised
+drinke." <span id="fr_719"></span>[1](#fn_717.md)\* It was also practised
 at the magnificent marriage of Queen Mary and Philip, in Winchester
 Cathedral, and at the marriage of the Elector Palatine to the daughter
 of James I., in 1612–13. Indeed, it appears to have been the practice at
@@ -527,7 +527,7 @@ To make them man and wife."
 </div>
 
    Again, in Beaumont and Fletcher's "Scornful Lady," (i. 1), the custom
-is referred to <span id="fr_720"></span>[2](#fn_718):—
+is referred to <span id="fr_720"></span>[2](#fn_718.md):—
 
 <div style="margin-left: 32px">
 
@@ -583,13 +583,13 @@ take."</span>
 </div>
 
    The practice is still kept up among the poor; and Brand <span
-id="fr_721"></span>[1](#fn_719) says it is "still customary among
+id="fr_721"></span>[1](#fn_719.md) says it is "still customary among
 persons of middling rank as well as the vulgar, in most parts of
 England, for the young men present at the marriage ceremony to salute
 the bride, one by one, the moment it is concluded."
 
    Music was the universal accompaniment of weddings in olden
-times. <span id="fr_722"></span>[2](#fn_720) The allusions to wedding
+times. <span id="fr_722"></span>[2](#fn_720.md) The allusions to wedding
 music that may be found in the works of Shakespeare, Ben Jonson, and
 other Elizabethan dramatists, testify, as Mr Jeaffreson points out,
 that, in the opinion of their contemporaries, a wedding without the
@@ -642,7 +642,7 @@ become one of the most conspicuous features of her costume, may be
 nothing more than a milliner's substitute, which in old time concealed
 not a few of the bride's personal attractions, and covered her face when
 she knelt at the altar. Mr Jeaffreson <span
-id="fr_723"></span>[1](#fn_721) thinks it may be ascribed to the Hebrew
+id="fr_723"></span>[1](#fn_721.md) thinks it may be ascribed to the Hebrew
 ceremony; or has come from the East, where veils have been worn from
 time immemorial. Some again connect it with the yellow veil which was
 worn by the Roman brides. Strange, too, as it may appear, it is
@@ -652,7 +652,7 @@ customary accoutrements of brides. Thus, Shakespeare, in the old quarto,
 about to take the potion. This custom, however, is easily accounted for,
 when we consider that women anciently wore a knife suspended from their
 girdle. Many allusions to this practice occur in old writers. <span
-id="fr_724"></span>[2](#fn_722) In Dekker's
+id="fr_724"></span>[2](#fn_722.md) In Dekker's
 
 <span id="page_332">p. 332</span>
 
@@ -703,7 +703,7 @@ and led them about without real intention of marriage, would have them
 still to lead against their will hereafter. In "Much Ado about Nothing"
 (ii. 1), Beatrice says, "Therefore I will even take sixpence in earnest
 of the bear-ward, and lead his apes into hell." Douce <span
-id="fr_725"></span>[1](#fn_723) tells us that homicides and adulterers
+id="fr_725"></span>[1](#fn_723.md) tells us that homicides and adulterers
 were in ancient times compelled, by way of punishment, to lead an ape by
 the neck, with their mouths affixed in a very unseemly manner to the
 animal's tail.
@@ -773,7 +773,7 @@ wedding day," says Mr
 <span id="page_334">p. 334</span>
 
 <span class="contnote">\[paragraph continues\]</span> Jeaffreson, <span
-id="fr_726"></span>[1](#fn_724) "when the married couple sat in state in
+id="fr_726"></span>[1](#fn_724.md) "when the married couple sat in state in
 the bridal-bed, before the exclusion of the guests, who assembled to
 commend them yet again to Heaven's keeping, one or more priests attended
 by acolytes swinging to and fro lighted censors, appeared in the crowded
@@ -817,7 +817,7 @@ Per Dominum—Deinde fiat benedictio super eos in lecto tantum cum oremus.
 Benedicat Deus corpora vestra et animas vestras; et det super eos
 benedictionem sicut benedixit Abraham, Isaac, et Jacob, Amen.—His
 peractis aspergat eos aqua benedicta, et sic discedat et dimittat eos in
-pace." <span id="fr_727"></span>[2](#fn_725)
+pace." <span id="fr_727"></span>[2](#fn_725.md)
 
 <span id="page_335">p. 335</span>
 
@@ -887,7 +887,7 @@ continues\]</span>  The eve’ning witnest that I dy’d.
  Serv’d but as tapers for to burne  
  And light my reliques to their urne.  
  This epitaph which here you see,  
- Supply’d the Epithalamie." <span id="fr_728"></span>[1](#fn_726)</span>
+ Supply’d the Epithalamie." <span id="fr_728"></span>[1](#fn_726.md)</span>
 
 </div>
 
@@ -967,7 +967,7 @@ with Londoners of every social class."
 
    Love charms have from the earliest times been much in request amongst
 the credulous anxious to gain an insight into their matrimonial
-prospects. <span id="fr_729"></span>[1](#fn_727) In the "Merchant of
+prospects. <span id="fr_729"></span>[1](#fn_727.md) In the "Merchant of
 Venice," (v. 1), we have an allusion to the practice of kneeling and
 praying at wayside crosses for a happy marriage, in the passage where
 Stephano tells how his mistress
@@ -982,7 +982,7 @@ For happy wedlock hours."</span>
 
    The use of love potions by a despairing lover to secure the
 affections of another was a superstitious practice much resorted to in
-olden times. <span id="fr_730"></span>[2](#fn_728) This mode of
+olden times. <span id="fr_730"></span>[2](#fn_728.md) This mode of
 enchantment, too, was formerly often employed in our own country, and
 Gay, in his "Shepherd's Week," relates how Hobnelia was guilty of this
 questionable practice:—
@@ -1059,7 +1059,7 @@ Herbarie."
 
    A further allusion to this practice occurs in "A Midsummer Night's
 Dream" (ii. 1), where Puck and Oberon amuse themselves at Titania's
-expense. <span id="fr_731"></span>[1](#fn_729)
+expense. <span id="fr_731"></span>[1](#fn_729.md)
 
    An expression common in Shakespeare's day for any one
 
@@ -1088,7 +1088,7 @@ pathetic allusion to which custom is made by Arthur in "King John" (iv.
 <span class="small">"Methinks, nobody should be sad but I:  
  Yet, I remember, when I was in France,  
  Young gentlemen would be as sad as night,  
- Only for wantonness." <span id="fr_732"></span>[1](#fn_730)</span>
+ Only for wantonness." <span id="fr_732"></span>[1](#fn_730.md)</span>
 
 </div>
 
@@ -1101,10 +1101,10 @@ gentlemanlike than I have been, I'll insure you."
 
 ### Footnotes
 
-<span id="fn_710"></span>[321:1](flos15.htm#fr_712) "Shakspeare and His
+<span id="fn_710"></span>[321:1](flos15.htm#fr_712.md) "Shakspeare and His
 Times," 1817, i. p. 220.
 
-<span id="fn_711"></span>[324:1](flos15.htm#fr_713) On entering into any
+<span id="fn_711"></span>[324:1](flos15.htm#fr_713.md) On entering into any
 contract, or plighting of troth, the clapping of the hands together set
 the seal, as in the "Winter's Tale" (i. 2), where Leontes says—
 
@@ -1130,13 +1130,13 @@ the seal, as in the "Winter's Tale" (i. 2), where Leontes says—
 And in the old play of "Ram Alley," by Barry (1611), we read, "Come,
 clap hands, a match." The custom is not yet disused in common life.
 
-<span id="fn_712"></span>[324:2](flos15.htm#fr_714) "The Stratford
+<span id="fn_712"></span>[324:2](flos15.htm#fr_714.md) "The Stratford
 Shakespeare," 1854, i. p. 70.
 
-<span id="fn_713"></span>[325:1](flos15.htm#fr_715) Knight's "Stratford
+<span id="fn_713"></span>[325:1](flos15.htm#fr_715.md) Knight's "Stratford
 Shakespeare," p. 73.
 
-<span id="fn_714"></span>[325:2](flos15.htm#fr_716) Cf. "King John" (ii.
+<span id="fn_714"></span>[325:2](flos15.htm#fr_716.md) Cf. "King John" (ii.
 2)—
 
 <div style="margin-left: 32px">
@@ -1147,53 +1147,53 @@ That I did so, when I was first assured."</span>
 
 </div>
 
-<span id="fn_715"></span>[326:1](flos15.htm#fr_717) See Nares’
+<span id="fn_715"></span>[326:1](flos15.htm#fr_717.md) See Nares’
 "Glossary," ii. p. 363; "Archæologia," xiv. p. 7; Jones's "Finger Ring
 Lore," 1877, pp. 313–318.
 
-<span id="fn_716"></span>[327:1](flos15.htm#fr_718) See Jeaffreson's
+<span id="fn_716"></span>[327:1](flos15.htm#fr_718.md) See Jeaffreson's
 "Brides and Bridals," 1873, i. pp. 77, 78.
 
-<span id="fn_717"></span>[329:1](flos15.htm#fr_719) Sops in wine.
+<span id="fn_717"></span>[329:1](flos15.htm#fr_719.md) Sops in wine.
 
-<span id="fn_718"></span>[329:2](flos15.htm#fr_720) See "Brand's Pop.
+<span id="fn_718"></span>[329:2](flos15.htm#fr_720.md) See "Brand's Pop.
 Antiq.," 1849, ii. pp. 136, 139.
 
-<span id="fn_719"></span>[330:1](flos15.htm#fr_721) "Pop. Antiq.," ii.
+<span id="fn_719"></span>[330:1](flos15.htm#fr_721.md) "Pop. Antiq.," ii.
 p. 140.
 
-<span id="fn_720"></span>[330:2](flos15.htm#fr_722) "Brides and
+<span id="fn_720"></span>[330:2](flos15.htm#fr_722.md) "Brides and
 Bridals," 1873, i. p. 252.
 
-<span id="fn_721"></span>[331:1](flos15.htm#fr_723) "Brides and
+<span id="fn_721"></span>[331:1](flos15.htm#fr_723.md) "Brides and
 Bridals," i. p. 177.
 
-<span id="fn_722"></span>[331:2](flos15.htm#fr_724) See Brand's "Pop.
+<span id="fn_722"></span>[331:2](flos15.htm#fr_724.md) See Brand's "Pop.
 Antiq.," 1849, ii. pp. 131–133.
 
-<span id="fn_723"></span>[332:1](flos15.htm#fr_725) "Illustrations of
+<span id="fn_723"></span>[332:1](flos15.htm#fr_725.md) "Illustrations of
 Shakspeare," p. 203.
 
-<span id="fn_724"></span>[334:1](flos15.htm#fr_726) "Brides and
+<span id="fn_724"></span>[334:1](flos15.htm#fr_726.md) "Brides and
 Bridals," i. p. 98; see Brand's "Pop. Antiq." ii. p. 175.
 
-<span id="fn_725"></span>[334:2](flos15.htm#fr_727) See Douce's
+<span id="fn_725"></span>[334:2](flos15.htm#fr_727.md) See Douce's
 "Illustrations of Shakspeare," pp. 123, 124.
 
-<span id="fn_726"></span>[336:1](flos15.htm#fr_728) See Brand's "Pop.
+<span id="fn_726"></span>[336:1](flos15.htm#fr_728.md) See Brand's "Pop.
 Antiq." 1849, ii, p. 159.
 
-<span id="fn_727"></span>[337:1](flos15.htm#fr_729) See "Merry Wives of
+<span id="fn_727"></span>[337:1](flos15.htm#fr_729.md) See "Merry Wives of
 Windsor," iv. 2.
 
-<span id="fn_728"></span>[337:2](flos15.htm#fr_730) See Potter's
+<span id="fn_728"></span>[337:2](flos15.htm#fr_730.md) See Potter's
 "Antiquities of Greece"; Brand's "Popular Antiquities," iii, p. 306.
 
-<span id="fn_729"></span>[338:1](flos15.htm#fr_731) See p. 215.
+<span id="fn_729"></span>[338:1](flos15.htm#fr_731.md) See p. 215.
 
-<span id="fn_730"></span>[339:1](flos15.htm#fr_732) See Nares’
+<span id="fn_730"></span>[339:1](flos15.htm#fr_732.md) See Nares’
 "Glossary," ii. p. 563.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Death and Burial](flos16)
+[Next: Chapter XIV. Death and Burial](flos16.md)

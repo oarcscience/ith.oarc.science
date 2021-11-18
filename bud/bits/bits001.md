@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-int1) [Next](bits002)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-int1) [Next](bits002.md)
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 #### 
 
 § 1. THE STORY OF SUMEDHA.<span id="page_5_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_5_note_1)
+class="small">1</span></sup>](#page_5_note_1.md)
 
 <span class="small">Translated from the Introduction to the Jâtaka
 (i.3<sup>1</sup>).</span>
@@ -1879,7 +1879,7 @@ END OF THE STORY OF SUMEDHA.
 
 ------------------------------------------------------------------------
 
-[Next: § 2. A List of Former Buddhas](bits002)
+[Next: § 2. A List of Former Buddhas](bits002.md)
 
 ------------------------------------------------------------------------
 
@@ -1887,32 +1887,32 @@ END OF THE STORY OF SUMEDHA.
 
 <span id="footnotes_page_5">p. 5</span>
 
-<span id="page_5_note_1"></span>[1](#page_5_fr_1) This entire story is
+<span id="page_5_note_1"></span>[1](#page_5_fr_1.md) This entire story is
 related by The Buddha to his disciples, and describes how, in his
 long-ago existence as the Brahman Sumedha, he first resolved to strive
 for the Buddhaship. In stanzas 12-16 he speaks of himself, that is, of
 Sumedha, in the third person, but elsewhere in the first.
 
-<span id="page_5_note_2"></span>[2](#page_5_fr_2) Only six of the ten
+<span id="page_5_note_2"></span>[2](#page_5_fr_2.md) Only six of the ten
 noises indicative of a flourishing town are here mentioned. For the
-complete list, see [p. 101](bits012.htm#page_101).
+complete list, see [p. 101](bits012.htm#page_101.md).
 
-<span id="page_5_note_3"></span>[3](#page_5_fr_3) Probably gold, silver,
+<span id="page_5_note_3"></span>[3](#page_5_fr_3.md) Probably gold, silver,
 pearls, gems (such as sapphire and ruby), cat's-eye, diamond, and coral;
-or perhaps as given on [p. 101, note](bits012.htm#page_101_note_1).
+or perhaps as given on [p. 101, note](bits012.htm#page_101_note_1.md).
 
 <span id="footnotes_page_6">p. 6</span>
 
-<span id="page_6_note_1"></span>[1](#page_6_fr_1) Lust, hatred, and
-infatuation. Compare [page 59](bits006.htm#page_59), and also the
-"Fire-sermon," [page 351](bits073.htm#page_351).
+<span id="page_6_note_1"></span>[1](#page_6_fr_1.md) Lust, hatred, and
+infatuation. Compare [page 59](bits006.htm#page_59.md), and also the
+"Fire-sermon," [page 351](bits073.htm#page_351.md).
 
 <span id="footnotes_page_8">p. 8</span>
 
-<span id="page_8_note_1"></span>[1](#page_8_fr_1) The two eyes, ears,
-and so forth, as enumerated at [page 298](bits062.htm#page_298).
+<span id="page_8_note_1"></span>[1](#page_8_fr_1.md) The two eyes, ears,
+and so forth, as enumerated at [page 298](bits062.htm#page_298.md).
 
-<span id="page_8_note_2"></span>[2](#page_8_fr_2) The Himalaya
+<span id="page_8_note_2"></span>[2](#page_8_fr_2.md) The Himalaya
 mountains. *Himâlaya* and *Himavant* are Sanskrit words of almost
 identical signification. The former means "snow-abode," and is a
 compound of *hima*, "snow," and *âlaya*, "settling-down place," or
@@ -1920,7 +1920,7 @@ compound of *hima*, "snow," and *âlaya*, "settling-down place," or
 
 <span id="footnotes_page_9">p. 9</span>
 
-<span id="page_9_note_1"></span>[1](#page_9_fr_1) Native gloss: Jâtaka,
+<span id="page_9_note_1"></span>[1](#page_9_fr_1.md) Native gloss: Jâtaka,
 vol. i., p. 7, l. 14: *Exempted from the five defects*: The following
 are the five defects in a walking-place: hardness and unevenness; trees
 in the midst; dense underbrush; excessive narrowness; excessive width.
@@ -1946,7 +1946,7 @@ a cubit and a half in breadth, with a margin of a cubit on either side,
 and it should be sixty cubits in length, and it should have a surface
 soft and evenly sprinkled with sand.
 
-<span id="page_9_note_2"></span>[2](#page_9_fr_2) Ibidem, l. 30. *And
+<span id="page_9_note_2"></span>[2](#page_9_fr_2.md) Ibidem, l. 30. *And
 having all the virtues eight*: Having the eight advantages for a monk.
 The following are the eight advantages for a monk: it admits of no
 storing-up of treasure or grain; it favors only a blameless
@@ -1957,7 +1957,7 @@ no passionate desire arises for furniture and implements; there is no
 fear of being plundered by robbers; no intimacies are formed with kings
 and courtiers; and one is not shut in in any of the four directions.
 
-<span id="page_9_note_3"></span>[3](#page_9_fr_3) Native gloss: Jâtaka,
+<span id="page_9_note_3"></span>[3](#page_9_fr_3.md) Native gloss: Jâtaka,
 vol. i., p. 8, l. 27: *For cloaks possess the nine defects*: . . . For
 one who retires from the world and takes up the life of an anchorite,
 there are nine defects inherent in garments of cloth. The great cost is
@@ -1974,7 +1974,7 @@ another.
 
 <span id="footnotes_page_10">p. 10</span>
 
-<span id="page_10_note_1"></span>[1](#page_10_fr_1) The bast, or inner
+<span id="page_10_note_1"></span>[1](#page_10_fr_1.md) The bast, or inner
 bark of certain trees, was much used in India as cloth, to which indeed
 it bears a striking resemblance.--Native gloss: Jâtaka, vol. i., p. 9,
 l. 2: *Which is with virtues twelve endued*: Possessing twelve
@@ -1991,7 +1991,7 @@ to moderation in dress is a tenth. The irreproachableness and
 blamelessness of searching for bark is an eleventh. And the unimportance
 of its loss is a twelfth.
 
-<span id="page_10_note_2"></span>[2](#page_10_fr_2) Native gloss:
+<span id="page_10_note_2"></span>[2](#page_10_fr_2.md) Native gloss:
 Jâtaka, vol. i., p. 9, l.11: *My hut of leaves I then forsook, So
 crowded with the eight defects*: ...(L. 36) For there are eight evils
 connected with the use of a leaf-hut. The great labor involved in
@@ -2008,7 +2008,7 @@ having a companion; this is a seventh. And the sharing of it with many
 others, as for instance with lice, bugs, and house-lizards, is an
 eighth.
 
-<span id="page_10_note_3"></span>[3](#page_10_fr_3) Ibidem, p. 10, l. 9:
+<span id="page_10_note_3"></span>[3](#page_10_fr_3.md) Ibidem, p. 10, l. 9:
 *And at the foot of trees I lived, For such abodes have virtues ten*:
 ...The following are the ten virtues. The smallness of the undertaking
 is one virtue, for all that is necessary is simply to go to the tree.
@@ -2029,17 +2029,17 @@ tenth.
 
 <span id="footnotes_page_11">p. 11</span>
 
-<span id="page_11_note_1"></span>[1](#page_11_fr_1) Translated from the
+<span id="page_11_note_1"></span>[1](#page_11_fr_1.md) Translated from the
 prose of the Jâtaka, vol. i., p. 10, last line but one: At his
 \[Dîpamkara's\] conception, birth, attainment of Buddhaship, and when he
 caused the Wheel of Doctrine to roll, the entire system of ten thousand
 worlds trembled, quivered, and shook, and roared with a mighty roar;
 also the Thirty-Two Prognostics appeared. \[For the Thirty-Two
-Prognostics, see [page 44](bits004.htm#page_44).\]
+Prognostics, see [page 44](bits004.htm#page_44.md).\]
 
 <span id="footnotes_page_14">p. 14</span>
 
-<span id="page_14_note_1"></span>[1](#page_14_fr_1) Native gloss:
+<span id="page_14_note_1"></span>[1](#page_14_fr_1.md) Native gloss:
 Jâtaka, vol. i., p. 13, l. 31: As he lay in the mud, he opened his eyes
 again, and gazing upon the Buddha-glory of Dîpamkara, The Possessor of
 the Ten Forces, he reflected as follows: "If I so wished, I might burn
@@ -2051,7 +2051,7 @@ to go on board the ship of Doctrine and cross the ocean of the round of
 rebirth, and were afterwards to pass into Nirvana! That would be
 something worthy of me!"
 
-<span id="page_14_note_2"></span>[2](#page_14_fr_2) Native gloss:
+<span id="page_14_note_2"></span>[2](#page_14_fr_2.md) Native gloss:
 Jâtaka, vol. i., p. 14, l. 20: For it is only a human being that can
 successfully wish to be a Buddha; a serpent, or a bird, or a deity
 cannot successfully make the wish. Of human beings it is only one of the
@@ -2093,14 +2093,14 @@ the Buddhaship, then, but not otherwise, will his wish succeed.
 
 <span id="footnotes_page_16">p. 16</span>
 
-<span id="page_16_note_1"></span>[1](#page_16_fr_1) Better known as
+<span id="page_16_note_1"></span>[1](#page_16_fr_1.md) Better known as
 Moggallâna and Sâriputta, respectively.
 
-<span id="page_16_note_2"></span>[2](#page_16_fr_2) Ficus religiosa.
+<span id="page_16_note_2"></span>[2](#page_16_fr_2.md) Ficus religiosa.
 
 <span id="footnotes_page_18">p. 18</span>
 
-<span id="page_18_note_1"></span>[1](#page_18_fr_1) There have been many
+<span id="page_18_note_1"></span>[1](#page_18_fr_1.md) There have been many
 beings who, like Sumedha here, were to become Buddhas, and who were
 therefore called Bodhi-sattas or "Future Buddhas." The certainty of
 their ultimate "Illumination," or Buddhaship, was always foretokened by
@@ -2111,18 +2111,18 @@ he will attain Buddhaship.
 
 <span id="footnotes_page_22">p. 22</span>
 
-<span id="page_22_note_1"></span>[1](#page_22_fr_1) This refrain is
+<span id="page_22_note_1"></span>[1](#page_22_fr_1.md) This refrain is
 added to these stanzas in the Buddha-Vamsa. In the Jâtaka it is omitted.
 
 <span id="footnotes_page_23">p. 23</span>
 
-<span id="page_23_note_1"></span>[1](#page_23_fr_1) The four cardinal
+<span id="page_23_note_1"></span>[1](#page_23_fr_1.md) The four cardinal
 points of the compass, the four intermediate points, the zenith and
 nadir.
 
 <span id="footnotes_page_24">p. 24</span>
 
-<span id="page_24_note_1"></span>[1](#page_24_fr_1) As Fausböll
+<span id="page_24_note_1"></span>[1](#page_24_fr_1.md) As Fausböll
 observes, a very similar statement is made by Aelian, περὶ ζώων, xvi.
 11. See also Visuddhi-Magga, chapter i.
 

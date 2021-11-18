@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen15)  [Next](gen17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen15)  [Next](gen17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -256,7 +256,7 @@ set off for their homes. As they proceeded Genji hummed,
 <div style="margin-left: 32px">
 
 <span class="small">"Ima hata onaji Naniwa nal," <span
-id="fr_123"></span>[1](#fn_122)</span>
+id="fr_123"></span>[1](#fn_122.md)</span>
 
 </div>
 
@@ -286,7 +286,7 @@ therefore, of introducing her at Court at some future time.
 
 ### Footnotes
 
-<span id="fn_122"></span>[201:1](gen16.htm#fr_123) A line of an old ode
+<span id="fn_122"></span>[201:1](gen16.htm#fr_123.md) A line of an old ode
 about the beacon in the bay of Naniwa, at the same time expressing the
 desire of meeting with a loved one. It is impossible to translate this
 ode literally, as in the original there is a play upon words, the word
@@ -299,6 +299,6 @@ been taken.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: Overgrown Mugwort](gen17)
+[Next: Chapter XV: Overgrown Mugwort](gen17.md)
 
 </div>

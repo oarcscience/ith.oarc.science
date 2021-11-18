@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag07)  [Next](rag09) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag07)  [Next](rag09.md) 
 
 ------------------------------------------------------------------------
 
@@ -700,4 +700,4 @@ irresistible that the Drift is not due to ice.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Drift A Gigantic Catastrophe](rag09)
+[Next: Chapter VII. The Drift A Gigantic Catastrophe](rag09.md)

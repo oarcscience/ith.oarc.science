@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str08)  [Next](str10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str08)  [Next](str10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -114,7 +114,7 @@ And then retiring slay the animals.
 The skins being stript, they cut off both the thighs,  
 And cover them with cawl; first offer’d crude.  
 The priest then burns a part on plates, <span
-id="fr_0"></span>[†](#fn_0) thereon red wine,  
+id="fr_0"></span>[†](#fn_0.md) thereon red wine,  
 Libation pour’d. The ministring young men  
 Stand by him, with their five-fold spits in hand.  
 But when the thighs are burnt, out of the rest  
@@ -133,7 +133,7 @@ Sung to the Deity, conclude the day.
 
 ### Footnotes
 
-<span id="fn_0"></span>[34:†](str09.htm#fr_0) In another place he adds,
+<span id="fn_0"></span>[34:†](str09.htm#fr_0.md) In another place he adds,
 
 <div style="margin-left: 32px">
 
@@ -156,4 +156,4 @@ their chariots.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](str10)
+[Next: Chapter VIII](str10.md)

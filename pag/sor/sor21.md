@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor20)  [Next](sor22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor20)  [Next](sor22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -88,7 +88,7 @@ Christ, they were his, those of the priest, Christ's Vicar.
 
 <span class="contnote">\[paragraph continues\]</span> He had Masses said
 praying that God might grant him the grace to wed soon with the convent
-in question. <span id="fr_66"></span>[1](#fn_66)
+in question. <span id="fr_66"></span>[1](#fn_66.md)
 
 If a mere passing visit could produce such an effect, we can understand
 what must have been the state of mind of the regular Director of
@@ -131,7 +131,7 @@ clearly the true moral purport of it all. The pious
 devotee, he says, sacrificed in and for himself and annihilated, exists
 henceforth only in God. *Henceforth he can do no wrong*. His higher part
 is so divinely perfect, he has no consciousness left of what the other
-part is doing. <span id="fr_67"></span>[2](#fn_67)
+part is doing. <span id="fr_67"></span>[2](#fn_67.md)
 
 One would have supposed that the zealous Father Joseph, after uttering
 so loud a cry of alarm against these corruptors of morals, would not
@@ -173,7 +173,7 @@ have nothing to do with it."
 
 Thanks to these judicious precautions, a certain degree of obscurity
 really envelopes the case of Urbain Grandier. <span
-id="fr_68"></span>[3](#fn_68) The historian of the affair, the Capuchin
+id="fr_68"></span>[3](#fn_68.md) The historian of the affair, the Capuchin
 Tranquille, proves conclusively and satisfactorily he was a Sorcerer,
 and more than a Sorcerer, a Devil, and he is entitled in the documents
 of the trial (as they might have said of the goddess Ashtoreth)
@@ -206,7 +206,7 @@ a clearer view than we can ever obtain in the fetid darkness of the
 Spanish and Italian monasteries,—the fact that while the nuns of these
 lands of Southern sloth were astonishingly passive and readily submitted
 to the life of the seraglio and worse things still, <span
-id="fr_69"></span>[4](#fn_69) their French sisters were of a very
+id="fr_69"></span>[4](#fn_69.md) their French sisters were of a very
 different temper. Their personality was vigorous, ardent, exacting; very
 devils (in no figurative sense) at once of jealousy and hate, they were
 equally indiscreet, loquacious, and spiteful. Their revelations were
@@ -574,7 +574,7 @@ the end of the fifth or sixth month this appearance vanished completely,
 and the demon that was in her confessed the trick he had played, in
 order to bring discredit on the poor nun by an illusory pregnancy. It is
 the learned historian of Louviers who supplies us with this fragment of
-the history of Loudun. <span id="fr_70"></span>[5](#fn_70)
+the history of Loudun. <span id="fr_70"></span>[5](#fn_70.md)
 
 It is credibly affirmed that Father Joseph arrived incognito, but seeing
 the case was hopeless, quietly withdrew again. The Jesuits also came,
@@ -593,7 +593,7 @@ and their shameless cries for human blood, two or three of them had
 swooned away, and filled with a sick disgust at their own vileness,
 became a horror and a loathing to themselves. In spite of the awful fate
 they must expect if they spoke out, in spite of the certainty of ending
-in a dungeon, <span id="fr_71"></span>[6](#fn_71) they openly declared
+in a dungeon, <span id="fr_71"></span>[6](#fn_71.md) they openly declared
 within the church walls that they were lost souls, that they had played
 into the Devil's hands, that Grandier was an innocent man.
 
@@ -615,7 +615,7 @@ the celibacy of the clergy, the same men who had pronounced him a
 Sorcerer, now thought him a freethinker. They remembered the bold words
 the martyrs of freedom of thought had hurled at their judges’ heads,
 recalling the last, tremendous words of Giordano Bruno <span
-id="fr_72"></span>[7](#fn_72) and Vanini's dying defiance. So they
+id="fr_72"></span>[7](#fn_72.md) and Vanini's dying defiance. So they
 arranged a compromise with Grandier. He was told that, if he kept a
 judicious silence, he should be spared the flames and should be
 strangled before the pile was kindled. The weak priest, a man of the
@@ -658,9 +658,9 @@ and subterfuges.
 
 ### Footnotes
 
-<span id="fn_66"></span>[191:1](sor21.htm#fr_66) Wyer, bk. iii. ch. 7.
+<span id="fn_66"></span>[191:1](sor21.htm#fr_66.md) Wyer, bk. iii. ch. 7.
 
-<span id="fn_67"></span>[192:2](sor21.htm#fr_67) A very old doctrine,
+<span id="fn_67"></span>[192:2](sor21.htm#fr_67.md) A very old doctrine,
 which reappears frequently in the Middle Ages. In the seventeenth
 century it is common in the French and Spanish cloisters, nowhere more
 clearly and naively expressed than in the lessons of a Normandy angel to
@@ -680,7 +680,7 @@ the better to return to a state of innocence. This is what our first
 parents did." Esprit de Bosroger (Capuchin), *La Piété affligée* (Piety
 Afflicted), 1645; pp. 167, 171, 173, 174, 181, 189, 190, 196.
 
-<span id="fn_68"></span>[193:3](sor21.htm#fr_68) The work entitled
+<span id="fn_68"></span>[193:3](sor21.htm#fr_68.md) The work entitled
 *L’Histoire des diables de Loudun* (History of the Devils of Loudun), by
 the Protestant Aubin, is a serious and painstaking book, and its
 statements are confirmed by the Official Reports even of Laubardemont.
@@ -693,16 +693,16 @@ absurd to make a martyr of him, out of dislike for Richelieu. The fact
 is he was a fool, a fop, and libertine, who deserved, not the stake, but
 imprisonment for life.
 
-<span id="fn_69"></span>[194:4](sor21.htm#fr_69) See Del Rio, Llorente,
+<span id="fn_69"></span>[194:4](sor21.htm#fr_69.md) See Del Rio, Llorente,
 Ricci, etc.
 
-<span id="fn_70"></span>[204:5](sor21.htm#fr_70) Esprit de Bossuet, p.
+<span id="fn_70"></span>[204:5](sor21.htm#fr_70.md) Esprit de Bossuet, p.
 135.
 
-<span id="fn_71"></span>[204:6](sor21.htm#fr_71) Such was still the
+<span id="fn_71"></span>[204:6](sor21.htm#fr_71.md) Such was still the
 custom. See Mabillon.
 
-<span id="fn_72"></span>[205:7](sor21.htm#fr_72) These words, which he
+<span id="fn_72"></span>[205:7](sor21.htm#fr_72.md) These words, which he
 addressed to his judges after hearing his sentence pronounced, were:
 "This sentence, delivered in the name of a God of mercy, is perhaps more
 a cause of fear to you than to me." He was burned at the stake at Rome,
@@ -711,4 +711,4 @@ February 17th, 1600.
 ------------------------------------------------------------------------
 
 [Next: 20. The Nuns Of Louviers and Satanic Possession—Madeleine Bavent
-(1640-1647)](sor22)
+(1640-1647)](sor22.md)

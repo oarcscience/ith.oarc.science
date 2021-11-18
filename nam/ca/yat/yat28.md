@@ -1,32 +1,32 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat27)  [Next](yat29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat27)  [Next](yat29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### V. ‘I'LHAT?AINA. <span id="fr_164"></span>[341](#fn_159)
+### V. ‘I'LHAT?AINA. <span id="fr_164"></span>[341](#fn_159.md)
 
 One day Flint Boil said to Djuwa'lk!aina <span
-id="fr_165"></span>[342](#fn_160) "I have been dreaming, I dreamt last
+id="fr_165"></span>[342](#fn_160.md) "I have been dreaming, I dreamt last
 night. I dreamt about a woman and her father. What is his name? I want
 to know." Djuwa'lk!aina said, "In which direction did you dream?" Flint
 Boy said, "I dreamt of Yallo Bally <span
-id="fr_166"></span>[343](#fn_161) mountain." Djuwa'lk!aina said, "I know
+id="fr_166"></span>[343](#fn_161.md) mountain." Djuwa'lk!aina said, "I know
 whom you dreamt of." Flint Boy asked, "What is his name?" Said
 Djuwa'lk!aina, "Tcuitcuiwayu. He lives there." Flint Boy said, "I want
 to go there, and I want to take my nephew <span
-id="fr_167"></span>[344](#fn_162) along." Djuwa'lk!aina said, "Yes."
+id="fr_167"></span>[344](#fn_162.md) along." Djuwa'lk!aina said, "Yes."
 Flint Boy said, "I am going to marry the daughter, but I have no company
 on the road." Djuwa'lk!aina said, "But you are going to take your
 nephew." Flint Boy said, "Yes, but I want something like a bear,
@@ -101,24 +101,24 @@ in the black clouds still. When he barks, it thunders.
 
 ### Footnotes
 
-<span id="fn_159"></span>[221:341](yat28.htm#fr_164) This account of the
+<span id="fn_159"></span>[221:341](yat28.htm#fr_164.md) This account of the
 origin of thunder is only the latter part of the myth of "The Flints and
 Grizzly Bears" obtained by Dr. Dixon from Sam Bat‘wī. It corresponds
 closely enough to my own version, but is published here because of its
 greater wealth of details.
 
-<span id="fn_160"></span>[221:342](yat28.htm#fr_165) Flint Boy's
+<span id="fn_160"></span>[221:342](yat28.htm#fr_165.md) Flint Boy's
 grandmother. The name means "rock-lying-on-ground."
 
-<span id="fn_161"></span>[221:343](yat28.htm#fr_166) The Yallo Bally
+<span id="fn_161"></span>[221:343](yat28.htm#fr_166.md) The Yallo Bally
 mountains are west of the Sacramento at Red Bluff, a very considerable
 distance to the southwest of Redding. The reference is more probably to
 Bally mountain (6246 ft.), one of the main peaks of the Bully Choop
 range. It is within easy sight of and almost due west from Redding.
 
-<span id="fn_162"></span>[221:344](yat28.htm#fr_167) ‘I'lhat?aina, who
+<span id="fn_162"></span>[221:344](yat28.htm#fr_167.md) ‘I'lhat?aina, who
 had been dug up from the ground, is here termed the nephew of Flint Boy.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Fixing the Sun](yat29)
+[Next: VI. Fixing the Sun](yat29.md)

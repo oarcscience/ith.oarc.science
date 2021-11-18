@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](cair09)  [Next](cair11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](cair09)  [Next](cair11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Confucianism and Its Rivals*, by Herbert A. Giles, \[1915\], at
 Intangible Textual Heritage
 
@@ -70,7 +70,7 @@ Governor at a new post, he put his
 garden in order and built himself a kiosque near some running water,
 "intending," as he says, "to use it as a refuge from the business of
 life. In that very year," he continues, "it rained wheat (see [p.
-55](cair04.htm#page_55)); and the soothsayers predicted in consequence
+55](cair04.htm#page_55).md); and the soothsayers predicted in consequence
 that the ensuing year would be most prosperous. However, for a whole
 month no rain fell, and the people became alarmed at the prospect. Then
 rain fell at intervals, but not in sufficient quantities. At length it
@@ -115,7 +115,7 @@ I dedicate this kiosque to Rain."</span>
 </div>
 
 In a very beautiful elegy on Han Wên-kung ([p.
-212](cair09.htm#page_212)) there are several lines which seem to show
+212](cair09.htm#page_212).md) there are several lines which seem to show
 that Su Tung-p‘o's belief in a personal God was a very lively and real
 one. He claims, in highly poetical language, that Han Wên-kung came
 straight from heaven at birth, almost "trailing clouds of glory."
@@ -214,7 +214,7 @@ of his own, in which the God of his fathers was degraded to an
 abstraction. His universe was developed from a state of Nothing, which
 somehow became consolidated into Unity, the primeval mother-cell, the
 bipartition of which produced the *Yin* and the *Yang* ([p.
-4](cair03.htm#page_4)), the female and male principles. The interaction
+4](cair03.htm#page_4).md), the female and male principles. The interaction
 of these gave birth to the five elements—earth, wood, water, fire, and
 metal—and through them to all objects, terrestrial and celestial alike.
 He postulated (1) *ch‘i*, which appears to be a formative agent,
@@ -316,7 +316,7 @@ particular, worship Lao Tzŭ under
 <span id="page_239">p. 239</span>
 
 <span class="contnote">\[paragraph continues\]</span> (another version
-of) the Three Pure Ones (see [p. 174](cair08.htm#page_174)), namely, (1)
+of) the Three Pure Ones (see [p. 174](cair08.htm#page_174)), namely, (1.md)
 as the original revered God, (2) the supreme ruler *Tao*, and (3) the
 supreme ruler Lao Tzŭ (in the flesh). Almighty God (that is, *T‘ien*) is
 ranked below these three, which is nothing short of an outrageous
@@ -451,7 +451,7 @@ founded the religion of Israel, and who was the nineteenth descendant in
 direct line from Adam. Here the writer, presumably thinking that the
 name "Adam" would have no meaning for Chinese ears, identifies him with
 P‘an Ku, the Chinese "first man," already mentioned ([p.
-176](cair08.htm#page_176)) as a member of the Taoist Trinity under one
+176](cair08.htm#page_176).md) as a member of the Taoist Trinity under one
 of its varying forms. Altogether there is the same tendency, as in the
 case of the Manichæans and Nestorians, to work into the new faith as
 many as possible of the old familiar elements of Chinese belief. For
@@ -1024,7 +1024,7 @@ re-established by the President. It is already announced that on the
 so-called Temple of Heaven, and, passing alone into the sacred,
 circular, blue-domed chamber, will report his shortcomings at what is
 really considered to be an interview with the Most High. <span
-id="fr_9"></span>[1](#fn_9) The less impressive parts of the ceremony
+id="fr_9"></span>[1](#fn_9.md) The less impressive parts of the ceremony
 are to consist of genuflexion and burnt
 
 <span id="page_264">p. 264</span>
@@ -1067,13 +1067,13 @@ the later introduction of *Shang Ti*, all those thoughts of reverence
 and gratitude which have been centred so long upon the human, to the
 neglect of the divine. Their stirring battle-cry would then be, "There
 is no God but God, and Confucius is His Prophet!" <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_9"></span>[263:1](cair10.htm#fr_9) "On Dec. 23 President
+<span id="fn_9"></span>[263:1](cair10.htm#fr_9.md) "On Dec. 23 President
 Yuan Shih-k‘ai, as head of the nation and therefore as direct successor
 to the Emperor of China, performed the worship of heaven at the Temple
 of Heaven in accordance with the old-time ceremonial. The old ritual was
@@ -1102,7 +1102,7 @@ silk, soup, wine, grain, and jade. All except the jade were then burnt
 in the great brazier adjoining the altar" (*London and China Telegraph*,
 Feb. 1, 1915).
 
-<span id="fn_10"></span>[265:1](cair10.htm#fr_10) "Mr Annand (a
+<span id="fn_10"></span>[265:1](cair10.htm#fr_10.md) "Mr Annand (a
 missionary) reports, with regard to the condition of affairs in the
 northern provinces, that there has been no evidence of the anti-foreign
 or anti-Christian feeling which was so prevalent a few years ago, but
@@ -1115,4 +1115,4 @@ April 19, 1915).
 
 ------------------------------------------------------------------------
 
-[Next: Index](cair11)
+[Next: Index](cair11.md)

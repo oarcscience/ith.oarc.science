@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft61)  [Next](pft63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft61)  [Next](pft63.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ must go into business to earn some money."
 "That is a good idea," replied his wife. "How much capital have you?"
 
 "I have twenty-five centavos,"  <span
-id="fr_164"></span>[165](pft68.htm#fn_164) answered the man; "and I am
+id="fr_164"></span>[165](pft68.htm#fn_164.md) answered the man; "and I am
 going to buy rice and carry it to the mines, for I have heard that it
 brings a good price there."
 
@@ -124,4 +124,4 @@ their lives.
 
 ------------------------------------------------------------------------
 
-[Next: Why Dogs Wag their Tails](pft63)
+[Next: Why Dogs Wag their Tails](pft63.md)

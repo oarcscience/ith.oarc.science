@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/mov)  [Previous](../mnd/mnd) 
-[Next](../mww/mww) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/mov)  [Previous](../mnd/mnd.md) 
+[Next](../mww/mww.md) 
 
 ------------------------------------------------------------------------
 
@@ -3894,4 +3894,4 @@ Index](../index)  [First Folio](../ff/mov)  [Previous](../mnd/mnd) 
 
 ------------------------------------------------------------------------
 
-[Next: Merry Wives of Windsor](../mww/mww) 
+[Next: Merry Wives of Windsor](../mww/mww.md) 

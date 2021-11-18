@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass24)  [Next](nass26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass24)  [Next](nass26.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [Northwest](../index)  [Index](index) 
 
 # ROTTEN-FEATHERS
 
-\[The continuation of this story from page [100](nass10.htm#page_100),
+\[The continuation of this story from page [100](nass10.htm#page_100.md),
 line 6, was told by Chief Mountain, as follows:\]
 
 Twice she tried to cut it, then the feather snapped and the boys all
@@ -76,4 +76,4 @@ Sleep is used up to this day by the G\*ispawaduwE'da.
 
 ------------------------------------------------------------------------
 
-[Next: Txä'msEm And Lô<u>g</u>ôbolā'](nass26)
+[Next: Txä'msEm And Lô<u>g</u>ôbolā'](nass26.md)

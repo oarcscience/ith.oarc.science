@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](phi)  [Next](th1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](phi)  [Next](th1.md) 
 
 ------------------------------------------------------------------------
 
@@ -348,4 +348,4 @@ Acordaos de mis prisiones. La gracia sea con vosotros. Amén.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Thessalonians](th1)
+[Next: 1 Thessalonians](th1.md)

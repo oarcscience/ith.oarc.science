@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg35)  [Next](cdg37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg35)  [Next](cdg37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ PLATO." TRANSLATED BY THOMAS TAYLOR. PAGES 550-551, EDITION 1793.
 
 ------------------------------------------------------------------------
 
-[Next: AA. Sir Thomas Browne on Man's Place in Nature](cdg37)
+[Next: AA. Sir Thomas Browne on Man's Place in Nature](cdg37.md)

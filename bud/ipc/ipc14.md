@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc13)  [Next](ipc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc13)  [Next](ipc15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -98,7 +98,7 @@ communicate the doctrines to any one in any other way than as imparted
 to themselves; to abstain from robbery, and to keep close, with equal
 care, the books of their sect and the names of the angels. Such are the
 oaths by which they receive those that join them." <span
-id="fr_169"></span>[\*](#fn_168)
+id="fr_169"></span>[\*](#fn_168.md)
 
 As a pendant to this, I will give the early Christian initiation from
 the Clementine Homilies.
@@ -170,7 +170,7 @@ it; but if it be not worthy, let your peace return to you. And .
 whosoever shall not receive you, nor hear your words, when ye depart out
 of that house or city, shake off the dust of your feet. Verily I say
 unto you, it shall be more tolerable for the land of Sodom and
-[Gomorrah](errata.htm#30) in the day of judgment, than for that city.
+[Gomorrah](errata.htm#30.md) in the day of judgment, than for that city.
 Behold I send you forth, as sheep in the midst of wolves: be ye
 therefore wise as serpents, and harmless as doves. But beware of men;
 for they will deliver you up to the councils, and they will scourge you
@@ -236,7 +236,7 @@ The bloody sacrifice forbidden:—
 <span id="page_182">p. 182</span>
 
 "Unless ye cease from sacrificing, the wrath shall not cease from
-you." <span id="fr_170"></span>[\*](#fn_169)
+you." <span id="fr_170"></span>[\*](#fn_169.md)
 
 "To love his neighbour as himself is more than whole burnt offerings and
 sacrifices" (Mark xii. 33).
@@ -244,7 +244,7 @@ sacrifices" (Mark xii. 33).
 Bishop Lightfoot, as I have mentioned, considers that Jesus was an
 orthodox Jew, whose mission was to perpetuate every jot and tittle of
 Mosaism; and that "emancipation" from the "swathing-bands" of the law
-came from the apostles. <span id="fr_171"></span>[†](#fn_170) It might
+came from the apostles. <span id="fr_171"></span>[†](#fn_170.md) It might
 be thought that this was a quaint undertaking, for the Maker of the
 million million starry systems, to come to this insignificant planet in
 bodily form to "perpetuate" institutions that Titus in thirty years was
@@ -438,7 +438,7 @@ they have of the Jews.
 "Who both killed the Lord Jesus and their own prophets, and have
 persecuted us, and are contrary to all men, forbidding us to speak to
 the Gentiles that they might be saved." <span
-id="fr_172"></span>[\*](#fn_171)
+id="fr_172"></span>[\*](#fn_171.md)
 
 Here he plainly confuses the two together. He could never mean that it
 was the Essenes who killed Christ and the prophets, or that it was
@@ -448,13 +448,13 @@ preaching such ideas to the Jews.
 
 Let us turn to the Epistle to the Romans. "The Church of Rome," says
 Renan, "was a Jewish Christian foundation in direct connection with the
-Church of Jerusalem." <span id="fr_173"></span>[†](#fn_172)
+Church of Jerusalem." <span id="fr_173"></span>[†](#fn_172.md)
 
 It was the chief stronghold of the Petrine party outside the Jewish
 capital. St. Paul in his epistle to this community attacks those who
 would be saved by "works," and he states explicitly that his own
 followers are only a remnant, that is a minority. <span
-id="fr_174"></span>[‡](#fn_173) And the fourteenth chapter allows us to
+id="fr_174"></span>[‡](#fn_173.md) And the fourteenth chapter allows us to
 see the nature of the "works" relied on by the majority of the
 Christians in the Roman capital, the Petrine party, in point of fact.
 
@@ -631,7 +631,7 @@ Now a Docetic Gospel would naturally reject the
 <span id="page_192">p. 192</span>
 
 <span class="contnote">\[paragraph continues\]</span> Virgin birth, or
-any birth at all, because the [Docetæ](errata.htm#31) viewed Christ as a
+any birth at all, because the [Docetæ](errata.htm#31.md) viewed Christ as a
 Docetic Phantasm; it would also alter the account of Christ's death to
 suit its dogma, and this it seems to have done by inserting the doubt of
 Pilate and other touches, which have actually induced Huxley and other
@@ -671,7 +671,7 @@ therefore?' The following verse given by Matthew (xix. 28) is omitted by
 Mark (x. 28): 'Verily I say unto you that ye which have followed me in
 the regeneration when the Son of Man shall sit in the Throne of his
 glory, ye also shall sit upon twelve thrones judging the twelve tribes
-of [Israel](errata.htm#32).'" <span id="fr_175"></span>[\*](#fn_174)
+of [Israel](errata.htm#32).'" <span id="fr_175"></span>[\*](#fn_174.md)
 
 On the other hand Mr. Greg holds that there are passages in Matthew that
 were never in the written tradition at all, but are due to the pure
@@ -824,7 +824,7 @@ at any rate altered His ideas since His Ascension.
 I may pause here to make a few remarks about a scripture which I think
 has been much undervalued, the "Gospel of the Infancy." This was
 believed by Origen to be written by Basilides. It was certainly known to
-Irenæus. <span id="fr_176"></span>[\*](#fn_175) As he is the first to
+Irenæus. <span id="fr_176"></span>[\*](#fn_175.md) As he is the first to
 talk of the four Canonical Gospels, it thus receives an antiquity at
 least equal to theirs. But it goes beyond this, for the author only
 knows one Gospel, not four. He calls it the "Gospel of Perfection." And
@@ -888,28 +888,28 @@ Mithras and Zoroaster and were expecting Sosiosh at the time.
 
 ### Footnotes
 
-<span id="fn_168"></span>[178:\*](ipc14.htm#fr_169) Josephus, De B. J.,
+<span id="fn_168"></span>[178:\*](ipc14.htm#fr_169.md) Josephus, De B. J.,
 II., 8, 2, 13.
 
-<span id="fn_169"></span>[182:\*](ipc14.htm#fr_170) Cited from "Gospel
+<span id="fn_169"></span>[182:\*](ipc14.htm#fr_170.md) Cited from "Gospel
 of the Hebrews," by Epiphanius, Hoer, XXX. 16.
 
-<span id="fn_170"></span>[182:†](ipc14.htm#fr_171) "Com. on Galatians,"
+<span id="fn_170"></span>[182:†](ipc14.htm#fr_171.md) "Com. on Galatians,"
 pp. 286, 287.
 
-<span id="fn_171"></span>[187:\*](ipc14.htm#fr_172) i Thess. ii. 14*f*.
+<span id="fn_171"></span>[187:\*](ipc14.htm#fr_172.md) i Thess. ii. 14*f*.
 
-<span id="fn_172"></span>[187:†](ipc14.htm#fr_173) "Conférences
+<span id="fn_172"></span>[187:†](ipc14.htm#fr_173.md) "Conférences
 d’Angleterre," p. 67.
 
-<span id="fn_173"></span>[187:‡](ipc14.htm#fr_174) Romans xi. 4, 6.
+<span id="fn_173"></span>[187:‡](ipc14.htm#fr_174.md) Romans xi. 4, 6.
 
-<span id="fn_174"></span>[193:\*](ipc14.htm#fr_175) "Creed of
+<span id="fn_174"></span>[193:\*](ipc14.htm#fr_175.md) "Creed of
 Christendom," p. 127.
 
-<span id="fn_175"></span>[197:\*](ipc14.htm#fr_176) Migne, "Dictionnaire
+<span id="fn_175"></span>[197:\*](ipc14.htm#fr_176.md) Migne, "Dictionnaire
 des Apocryphes," Tome I.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. More Coincidences](ipc15)
+[Next: Chapter XII. More Coincidences](ipc15.md)

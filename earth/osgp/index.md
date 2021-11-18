@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](osgp00)    [Page
-Index](pageidx)    [Text \[Zipped\]](osgp.txt.gz)
+[Contents](#contents)    [Start Reading](osgp00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](osgp.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -41,14 +41,14 @@ religious motivations for their construction instead.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](osgp00)  
-[Preface](osgp01)  
-[Table of Contents](osgp02)  
-[Chapter I. The Astronomical Theory](osgp03)  
-[Chapter II. Early Egyptian Civilization](osgp04)  
-[Chapter III. The Tomb Theory](osgp05)  
-[Chapter IV. The Religious Theory](osgp06)  
-[Chapter V. Seth And Serpent Worship](osgp07)  
-[Note](osgp08)  
-[Appendix I](osgp09)  
-[Appendix II](osgp10)  
+<span id="contents"></span> [Title Page](osgp00.md)  
+[Preface](osgp01.md)  
+[Table of Contents](osgp02.md)  
+[Chapter I. The Astronomical Theory](osgp03.md)  
+[Chapter II. Early Egyptian Civilization](osgp04.md)  
+[Chapter III. The Tomb Theory](osgp05.md)  
+[Chapter IV. The Religious Theory](osgp06.md)  
+[Chapter V. Seth And Serpent Worship](osgp07.md)  
+[Note](osgp08.md)  
+[Appendix I](osgp09.md)  
+[Appendix II](osgp10.md)  

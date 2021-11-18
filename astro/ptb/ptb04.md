@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb03)  [Next](ptb05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb03)  [Next](ptb05.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ consideration the changes which their aspects create, by means of their
 natural properties, in objects under their influence.
 
 The first mentioned study has been already explained in the
-Syntaxis <span id="fr_29"></span>[1](#fn_29) to the utmost practicable
+Syntaxis <span id="fr_29"></span>[1](#fn_29.md) to the utmost practicable
 extent; for it is complete in itself, and of essential utility even
 without being blended with the second; to which this treatise will be
 devoted, and which is not equally self-complete. The present work shall,
@@ -64,10 +64,10 @@ previously to detailing the particulars of the doctrine.
 
 ### Footnotes
 
-<span id="fn_29"></span>[1:1](ptb04.htm#fr_29) The Almagest, or *Magna
+<span id="fn_29"></span>[1:1](ptb04.htm#fr_29.md) The Almagest, or *Magna
 Constructio*.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. Knowledge May Be Acquired by Astronomy to a Certain
-Extent](ptb05)
+Extent](ptb05.md)

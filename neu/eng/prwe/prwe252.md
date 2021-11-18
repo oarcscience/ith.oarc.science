@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe251)  [Next](prwe253) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe251)  [Next](prwe253.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Island of Scilly" "Notes and Queries," vol. x. p. 181. 1854.
 
 ------------------------------------------------------------------------
 
-[Next: Cures for Whooping Cough](prwe253)
+[Next: Cures for Whooping Cough](prwe253.md)

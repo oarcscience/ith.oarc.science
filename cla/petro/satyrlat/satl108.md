@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat14.htm#CVIII) 
-[Previous](satl107)  [Next](satl109) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat14.htm#CVIII.md) 
+[Previous](satl107)  [Next](satl109.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ gurgitibusque feris alios immittite fluctus."
 
 ------------------------------------------------------------------------
 
-[Next: CIX](satl109)
+[Next: CIX](satl109.md)

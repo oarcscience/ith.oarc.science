@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip54)  [Next](fip56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip54)  [Next](fip56.md) 
 
 ------------------------------------------------------------------------
 
-### LOUGHLEAGH (LAKE OF HEALING) <span id="fr_43"></span>[1](#fn_43)
+### LOUGHLEAGH (LAKE OF HEALING) <span id="fr_43"></span>[1](#fn_43.md)
 
 "Do you see that bit of lake," said my companion, turning his eyes
 towards the acclivity that overhung Loughleagh. "Troth, and as little as
@@ -61,7 +61,7 @@ round spot as green as a leek; and, as poor Shemus was weary, as a body
 would be on a fine summer's day, he lay down on the grass to rest
 himself, just as we're resten ourselves on the cairn here. Begad, he
 hadn't long lain there, sure enough, when, what should he see but whole
-loads of ganconers <span id="fr_44"></span>[1](#fn_44) dancing about
+loads of ganconers <span id="fr_44"></span>[1](#fn_44.md) dancing about
 
 <span id="page_208">p. 208</span>
 
@@ -74,7 +74,7 @@ ball up for as good as half-an-hour, when Shemus cried out, 'Well done,
 my hurler! 'The word wasn't well out of his mouth when whap went the
 ball on his eye, and flash went the fire. Poor Shemus thought he was
 blind, and roared out, 'Mille murdher!' <span
-id="fr_45"></span>[1](#fn_45) but the only thing he heard was a loud
+id="fr_45"></span>[1](#fn_45.md) but the only thing he heard was a loud
 laugh. 'Cross o' Christ about us,' says he to himself, 'what is this
 for?' and afther rubbing his eyes they came to a little, and he could
 see the sun and the sky, and, by-and-by, he could see everything but his
@@ -95,7 +95,7 @@ poor ould mother?' said she.
 "'Och, musha,' said Shemus, 'don't kick up saich a *bollhous* about
 nothing. The ould cow is safe enough, I'll be bail, some place or other,
 though I could find her if I put my eyes upon *kippeens*, <span
-id="fr_46"></span>[2](#fn_46) and, speaking of eyes, faith, I had very
+id="fr_46"></span>[2](#fn_46.md) and, speaking of eyes, faith, I had very
 good luck o' my side, or I had naver a one to look after her.'
 
 "'Why, what happened your eyes, agrah?' axed the ould woman.
@@ -163,7 +163,7 @@ lough when the waters closed over 'em, and they sunk to the bottom. Just
 as Shemus-a-sneidh thought that all was over with him, he found himself
 before a most elegant palace built with jewels and all manner of fine
 stones. Though his eyes were dazzled with the splendour of the place,
-faith he had gomsh <span id="fr_47"></span>[1](#fn_47) enough not to let
+faith he had gomsh <span id="fr_47"></span>[1](#fn_47.md) enough not to let
 go his holt, but in spite of all they could do he held his little cow by
 the horns, He was axed into the palace, but wouldn't go.
 
@@ -177,7 +177,7 @@ masther.
 
 "That's not your mother's cow," said the gentleman.
 
-"Bethershin!" <span id="fr_48"></span>[2](#fn_48) cried Shemus-a-sneidh;
+"Bethershin!" <span id="fr_48"></span>[2](#fn_48.md) cried Shemus-a-sneidh;
 "don't I know hex as well as I know my right hand?"
 
 "Where did you lose her?" axed the gentleman. And so Shemus up and tould
@@ -225,7 +225,7 @@ Adam was a boy--and that's a long time since.
 
 Well, Shemus-a-sneidh drove home his cow, and right glad his mother was
 to see her; but the moment she said 'God bless the beast', she sunk down
-like the *breesha* <span id="fr_49"></span>[1](#fn_49) of a turf rick.
+like the *breesha* <span id="fr_49"></span>[1](#fn_49.md) of a turf rick.
 That was the end of Shemus-a-sneidh's dun cow.
 
 "And, sure," continued my companion, standing up, "it is now time for me
@@ -238,28 +238,28 @@ Of this I assured him there could be no fear; and so we parted.
 
 ### Footnotes
 
-<span id="fn_43"></span>[206:1](fip55.htm#fr_43) *Dublin and London
+<span id="fn_43"></span>[206:1](fip55.htm#fr_43.md) *Dublin and London
 Magazine*, 1825.
 
-<span id="fn_44"></span>[207:1](fip55.htm#fr_44) Ir.
+<span id="fn_44"></span>[207:1](fip55.htm#fr_44.md) Ir.
 *gean-canach*--*i.e.*, love-talker, a kind of fairy appearing in
 lonesome valleys, a dudeen (tobacco-pipe) in his mouth, making love to
 milk-maids, etc.
 
-<span id="fn_45"></span>[208:1](fip55.htm#fr_45) A thousand murders.
+<span id="fn_45"></span>[208:1](fip55.htm#fr_45.md) A thousand murders.
 
-<span id="fn_46"></span>[208:2](fip55.htm#fr_46) Ir. *cipin*--*i.e.*, a
+<span id="fn_46"></span>[208:2](fip55.htm#fr_46.md) Ir. *cipin*--*i.e.*, a
 stick, a twig.
 
-<span id="fn_47"></span>[210:1](fip55.htm#fr_47) Otherwise "gumshun--"
+<span id="fn_47"></span>[210:1](fip55.htm#fr_47.md) Otherwise "gumshun--"
 *i.e.*, sense, cuteness.
 
-<span id="fn_48"></span>[210:2](fip55.htm#fr_48) Ir. *B'édir
+<span id="fn_48"></span>[210:2](fip55.htm#fr_48.md) Ir. *B'édir
 sin*--*i.e.*, "that is possible."
 
-<span id="fn_49"></span>[211:1](fip55.htm#fr_49) Ir. *briseadh*--*i.e.*,
+<span id="fn_49"></span>[211:1](fip55.htm#fr_49.md) Ir. *briseadh*--*i.e.*,
 breaking.
 
 ------------------------------------------------------------------------
 
-[Next: Hy-Brasail--The Isle of the Blest by Gerald Griffin](fip56)
+[Next: Hy-Brasail--The Isle of the Blest by Gerald Griffin](fip56.md)

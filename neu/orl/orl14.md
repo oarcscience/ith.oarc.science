@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl13)  [Next](orl15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl13)  [Next](orl15.md) 
 
 ------------------------------------------------------------------------
 
@@ -1511,4 +1511,4 @@ My canto, hoarse, and needing short repose.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 15](orl15)
+[Next: Canto 15](orl15.md)

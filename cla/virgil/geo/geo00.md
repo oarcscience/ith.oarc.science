@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](geol00)  [Next](geo01) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](geol00)  [Next](geo01.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: First Book](geo01)
+[Next: First Book](geo01.md)

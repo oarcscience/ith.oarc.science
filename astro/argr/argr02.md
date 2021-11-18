@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](argr01)  [Next](argr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](argr01)  [Next](argr03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Astrology and Religion Among the Greeks and Romans*, by Franz Cumont,
 \[1912\], at Intangible Textual Heritage
 
@@ -121,7 +121,7 @@ Religion in Japan.
 Veda.
 
 1907-1908--Prof. A. V. W. Jackson, Ph.D., LL.D.--The Religion of
-Persia. <span id="fr_0"></span>[1](#fn_0)
+Persia. <span id="fr_0"></span>[1](#fn_0.md)
 
 1909-1910--Prof. Morris Jastrow, Jr., Ph.D.--Aspects of Religious Belief
 and Practice in Babylonia and Assyria.
@@ -195,7 +195,7 @@ Committee on Publication</p></td>
 
 ### Footnotes
 
-<span id="fn_0"></span>[ix:1](argr02.htm#fr_0) This course was not
+<span id="fn_0"></span>[ix:1](argr02.htm#fr_0.md) This course was not
 published by the Committee, but will form part of Prof. Jackson's volume
 on the Religion of Persia in the series of "Handbooks on the History of
 Religions," edited by Prof. Morris Jastrow, Jr., and published by
@@ -206,4 +206,4 @@ the ninth in the series.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](argr03)
+[Next: Introduction](argr03.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar182) [Next](gbar184)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar182) [Next](gbar184.md)
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ thou leave not my side."
 
 ------------------------------------------------------------------------
 
-[Next](gbar184)
+[Next](gbar184.md)

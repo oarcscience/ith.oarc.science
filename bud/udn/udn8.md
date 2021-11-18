@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn7)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn7.md)
 
 ------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ round keeping his right side to him, departed.
    And Cunda, the potter's son, at the end of that night having prepared
 in his own house sweet food, both hard and soft and a quantity of
 *Sûkaramaddava*,<span id="page_113_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_113_note_1) announced to the Blessed
+class="small">1</span></sup>](#page_113_note_1.md) announced to the Blessed
 One: "Sire, the time is come, the meal is ready."
 
    And the Blessed One, robing himself in the forenoon, and taking his
@@ -603,7 +603,7 @@ died.
 
    And Visâkha-migâramâta went at unseasonable hours, with hands and
 hair wet (with tears)<span id="page_126_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_126_note_1), to where the Blessed
+class="small">1</span></sup>](#page_126_note_1.md), to where the Blessed
 One was and drawing near she saluted the Blessed One and sat down apart.
 And the Blessed One said to Visâkha-migâramâta, as he sat there:
 Wherefore, O Visâkha, do you come here at unseasonable hours, with hands
@@ -754,7 +754,7 @@ forth this solemn utterance:
 ------------------------------------------------------------------------
 
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index)
+Heritage](../../index) [Buddhism](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -762,7 +762,7 @@ Heritage](../../index) [Buddhism](../index) [Index](index)
 
 <span id="footnotes_page_113">p. 113</span>
 
-<span id="page_113_note_1"></span>[1](#page_113_fr_1) The consistency of
+<span id="page_113_note_1"></span>[1](#page_113_fr_1.md) The consistency of
 this food is unknown. Commentators differ. Lit. desiccated boar's food,
 or boar's flesh.
 
@@ -771,14 +771,14 @@ of boar's fat.
 
 <span id="footnotes_page_125">p. 125</span>
 
-<span id="page_125_note_1"></span>[1](#page_125_fr_1) Those who in
+<span id="page_125_note_1"></span>[1](#page_125_fr_1.md) Those who in
 crossing the ocean of birth and death, hold to the truth, and forsake
 desire, attain to deliverance; while the remainder engaged in
 materialities are left behind.
 
 <span id="footnotes_page_126">p. 126</span>
 
-<span id="page_126_note_1"></span>[1](#page_126_fr_1) Conjectural
+<span id="page_126_note_1"></span>[1](#page_126_fr_1.md) Conjectural
 translation of *allavatthâ, allakesâ*. Lit.: wet robes, wet hair.
 
  

@@ -1,11 +1,11 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs05) [Next](hbs07)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs05) [Next](hbs07.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_15">p. 15</span>
 
-## THE BUILDING OF SKADAR<span id="page_15_fr_1"></span>[1](#page_15_note_1)
+## THE BUILDING OF SKADAR<span id="page_15_fr_1"></span>[1](#page_15_note_1.md)
 
 O<span class="small">NCE</span> there were three born brothers, a hold
 that had begun—  
@@ -16,7 +16,7 @@ With fifteen score of masons three long years labored they,
 But they could not for the fortress the strong foundations lay,  
 Much less raise up the wall thereof, for what was set upright  
 By the masons in the morning, a vila<span
-id="page_15_fr_2"></span>[2](#page_15_note_2) wrecked at night.  
+id="page_15_fr_2"></span>[2](#page_15_note_2.md) wrecked at night.  
 The vila called from the mountain in the spring of the fourth year:  
  “Plague not thyself, Vukáshin, and squander not thy gear!  
 King, thou canst not for the fortress the strong foundation lay,  
@@ -25,7 +25,7 @@ King, thou canst not for the fortress the strong foundation lay,
 
 Much less raise up the wall thereof, until upon a day  
 Come news of Stoya and Stoyan,<span
-id="page_16_fr_1"></span>[1](#page_16_note_1) for like names have the
+id="page_16_fr_1"></span>[1](#page_16_note_1.md) for like names have the
 twain;  
 Sister they are and brother. Into the wall amain  
 Shalt thou wall them. And the fortress shall be stablished in the
@@ -181,13 +181,13 @@ flow.
 As it was then in Skadar, so sweet it runneth now.  
 Yea, even to-day the white milk flows, for a miracle most high,  
 And a healing draught for women whereof the breasts are dry!<span
-id="page_23_fr_1"></span>[1](#page_23_note_1)  
+id="page_23_fr_1"></span>[1](#page_23_note_1.md)  
 
 <span id="page_24">p. 24</span>
 
 ------------------------------------------------------------------------
 
-[Next](hbs07)
+[Next](hbs07.md)
 
 ------------------------------------------------------------------------
 
@@ -195,9 +195,9 @@ id="page_23_fr_1"></span>[1](#page_23_note_1)
 
 <span id="footnotes_page_15">p. 15</span>
 
-<span id="page_15_note_1"></span>[1](#page_15_fr_1) Scútari.
+<span id="page_15_note_1"></span>[1](#page_15_fr_1.md) Scútari.
 
-<span id="page_15_note_2"></span>[2](#page_15_fr_2) “A sort of nymph.
+<span id="page_15_note_2"></span>[2](#page_15_fr_2.md) “A sort of nymph.
 The vilas live in great wooded mountains and in craggy places around
 lakes and rivers. A vila is always young and beautiful, dressed in a
 thin white garment, and with long hair flowing over her back and breast.
@@ -209,7 +209,7 @@ in which case he at once dies.” Karájich, *Servian Dictionary*.
 
 <span id="footnotes_page_16">p. 16</span>
 
-<span id="page_16_note_1"></span>[1](#page_16_fr_1) *Stoyan* is a common
+<span id="page_16_note_1"></span>[1](#page_16_fr_1.md) *Stoyan* is a common
 Servian name (cf. p. 202), of which *Stoya* (for *Stóyana*) is the
 feminine diminutive. But *stoyan* is also an adjective meaning stable,
 enduring; and *stoya* a noun meaning a standing, a position; both are
@@ -217,7 +217,7 @@ from the same root as *stóyati*, to stand.
 
 <span id="footnotes_page_23">p. 23</span>
 
-<span id="page_23_note_1"></span>[1](#page_23_fr_1) “*They say* that
+<span id="page_23_note_1"></span>[1](#page_23_fr_1.md) “*They say* that
 even now from the windows where her <span id="footnotes_page_24">p.
 24</span> breasts were exposed flows a certain moisture, which collects
 below the wall as lime; and women who have no milk, or whose breasts

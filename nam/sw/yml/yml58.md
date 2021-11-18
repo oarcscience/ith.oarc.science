@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml57)  [Next](yml59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml57)  [Next](yml59.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ on peacefully in his lagoon, Bahkwam.
 
 ------------------------------------------------------------------------
 
-[Next: The Five Mended Brothers](yml59)
+[Next: The Five Mended Brothers](yml59.md)

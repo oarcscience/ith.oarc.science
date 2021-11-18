@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm14) 
-[Next](cdm16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm14.md) 
+[Next](cdm16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -23,7 +23,7 @@ Textual Heritage
 
 *Number of Notes apply to the Numbered Sections*.
 
-[1](cdm05.htm#an_p_1). If Duncan's house was not like that, Donald
+[1](cdm05.htm#an_p_1.md). If Duncan's house was not like that, Donald
 MacPhie's house, in which I heard this story told in South Uist, was,
 and Donald told me that Duncan the fisher lived in Skye.
 
@@ -36,7 +36,7 @@ almost always a poor man who lives near the sea, in Gaelic; in Italian
 (*Straparola*), a poor couple; in Swedish, a smith and a fisherman; in
 Russian, a poor man.
 
-[4](cdm05.htm#an_p_4). *Mouth of night*.—This phrase has a relation in
+[4](cdm05.htm#an_p_4.md). *Mouth of night*.—This phrase has a relation in
 Sanskrit, and is the common Gaelic equivalent for a nightfall.
 
 *Mermaid*.—Near the Clyde where ships abound and old sailors tell this
@@ -121,17 +121,17 @@ Fergusson on *Tree and Serpent Worship*, and other books of authority on
 this curious subject). In 1876, while wandering in India, I found the
 serpent worshipped all over the country, at Benares and everywhere.
 
-[5](cdm05.htm#an_p_5). This incident in various shapes occurs in the
+[5](cdm05.htm#an_p_5.md). This incident in various shapes occurs in the
 Swedish collection as was told in various parts of Sweden and in
 Finland. The fish generally is a pike. But in these regions pike
 generally live in the sea, which in the Gulf of Bothnia is brackish. In
 Hindu legend Vishnu took the form of a fish and related the history of
 creation and the deluge.
 
-[6](cdm05.htm#an_p_6). In the Swedish and German collections and in
+[6](cdm05.htm#an_p_6.md). In the Swedish and German collections and in
 others the wife is a grumbler.
 
-[9](cdm06.htm#an_p_9). *The Fisher*.—Told by Alexander MacNeill,
+[9](cdm06.htm#an_p_9.md). *The Fisher*.—Told by Alexander MacNeill,
 fisherman, Ceann Tangaval, Barra; Alasdair Mac Ruaraidh Bhain to Hector
 Maclean, 1859.
 
@@ -151,7 +151,7 @@ The sons result from the eating of two enchanted apples in one Swedish
 story, and from drinking at a well in another. They are sons of a
 princess and her maiden who are shut up in a tower.
 
-[11](cdm06.htm#an_p_11). The sons are twins in one Gaelic version which
+[11](cdm06.htm#an_p_11.md). The sons are twins in one Gaelic version which
 I have. From the sequel these ought to be twins; in home and foreign
 versions they are twins.
 
@@ -175,7 +175,7 @@ epic, so I suspect that three was the original number of brothers and
 that the story is Aryan, older than the Hindu epics, and older than the
 Celtic migration from the East.
 
-[12](cdm06.htm#an_p_12). This incident occurs in one Gaelic version
+[12](cdm06.htm#an_p_12.md). This incident occurs in one Gaelic version
 only. Possibly this may be the enemy who fights the smith's son
 afterwards in the shape of the dragon. He may be the servant or second
 sailor or second character in other versions; he may be the same
@@ -186,24 +186,24 @@ a well and the other a tree.
 
 Probably this sea-baby is one of them, and a water-serpent myth.
 
-[13](cdm06.htm#an_p_13). "West Highland Tales," No. IV., as told by John
+[13](cdm06.htm#an_p_13.md). "West Highland Tales," No. IV., as told by John
 Mackenzie. This is like Varuna, see note on 4.
 
-[15](cdm06.htm#an_p_15). Horses and hounds fourteen years of age vitiate
+[15](cdm06.htm#an_p_15.md). Horses and hounds fourteen years of age vitiate
 the unities. But in some versions of this story the heroes set out as
 soon as they are born. See "Shortshanks" in *Norse Tales*. Being
 gift-children, they probably were superhuman at first.
 
-[18](cdm06.htm#an_p_18). In Swedish the smith forges three swords of
+[18](cdm06.htm#an_p_18.md). In Swedish the smith forges three swords of
 enormous weight, the last the biggest and heaviest. In Russian, Ivan of
 the Ashes makes for himself three iron clubs of like proportions and
 weights. The incident is common in many Gaelic stories and varies
 exceedingly. In other Swedish versions the swords are otherwise
 acquired. All agree in making these iron weapons.
 
-[19](cdm06.htm#an_p_19). This from the telling of a lad near Inveraray.
+[19](cdm06.htm#an_p_19.md). This from the telling of a lad near Inveraray.
 
-[20](cdm06.htm#an_p_20). From the same Inveraray lad. Compare "A Sop for
+[20](cdm06.htm#an_p_20.md). From the same Inveraray lad. Compare "A Sop for
 Cerberus." A similar incident is in a story of Fionn, who went to
 Scandinavia and there captured a mighty hound. The hounds of the Fenians
 are very mythical and
@@ -214,7 +214,7 @@ play a large part in the Fenian Romance. Some of them are transformed
 human creatures. In that they resemble Hindu avatars such as Hunymàn the
 divine monkey.
 
-[26](cdm07.htm#an_p_26). From *An Gille Glas* (p. 370). In Swedish the
+[26](cdm07.htm#an_p_26). From *An Gille Glas* (p. 370.md). In Swedish the
 lad is angry because his father did not make the first sword heavy
 enough. In Russian the lad tosses the iron clubs so high that they are
 up for days, and catches them on his forehead. Two break, the third
@@ -222,7 +222,7 @@ nearly knocks him down; so he is satisfied. Indian jugglers in fact cast
 cocoa-nuts high into the air and catch them on their foreheads, where
 they break. It is a common athletic performance.
 
-[29](cdm07.htm#an_p_29). In the "Rig Veda Sanhita" (Wilson's trans.) it
+[29](cdm07.htm#an_p_29). In the "Rig Veda Sanhita" (Wilson's trans..md) it
 appears that Indra's weapon, the thunderbolt, was originally made of the
 bones of a man. This may indicate the use of bone weapons and of ivory
 clubs by ancient tribes in the East and West or at the centre of the
@@ -239,16 +239,16 @@ and tree accords best with Indian ideas about tree worship. A man told
 me in India that he had been present at the marriage of a pet plant to a
 divinity with all ceremony.
 
-[31](cdm07.htm#an_p_31). *Straparola*.—The foundling discovers his
+[31](cdm07.htm#an_p_31.md). *Straparola*.—The foundling discovers his
 origin and goes to seek his fortune with a horse and a sword.
 
-[32](cdm08.htm#an_p_32). Told by Margaret MacFhingon, in the island of
+[32](cdm08.htm#an_p_32.md). Told by Margaret MacFhingon, in the island of
 Berneray, Sound of Harris, to Hector Maclean. She learned the story from
 John Morrison in Rusgary, Berneray, who, in August 1859, was a tenant in
 North Uist. Her story follows one son—not the oldest—on the way to
 fortune by courting and courage.
 
-[34](cdm08.htm#an_p_34). In Swedish the hero is followed by beasts but
+[34](cdm08.htm#an_p_34.md). In Swedish the hero is followed by beasts but
 they are otherwise obtained. So it is in German. This transformation
 occurs in Gaelic and in Italian.
 
@@ -273,7 +273,7 @@ In "Straparola" the foundling with horse and sword meets (*a*) lion,
 (*b*) eagle, (*c*) ant, (*d*) fox, when he divides a carcase, (*e*) who
 grant him the power to take their shapes.
 
-[35](cdm08.htm#an_p_35). (1) A castle, (2) a castle, (3) a gentleman,
+[35](cdm08.htm#an_p_35). (1) A castle, (2) a castle, (3.md) a gentleman,
 (4) the capital of France, (5) a king's house, (6) a king's house, (7) a
 king's house, (8) the king of the Greeks.
 
@@ -284,7 +284,7 @@ In Swedish the lad goes to be cook's mate at the king's house and hides
 his three swords under a stone. In other versions he takes other
 service. Sometimes he is herd.
 
-[36](cdm09.htm#an_p_36). This varies exceedingly, but the place chosen
+[36](cdm09.htm#an_p_36.md). This varies exceedingly, but the place chosen
 seems to fit the sequel, and the sequel here is herding.
 
 Since this story was translated I have found that the state myth of
@@ -299,7 +299,7 @@ her got a jewel or talisman which is preserved with the regalia. A third
 thing of price so preserved is a mirror. See "My Circular
 Notes"(Macmillan, 1876).
 
-[37](cdm09.htm#an_p_37). (1) A swine herd, (2) a herd, (3) a herd, (4) a
+[37](cdm09.htm#an_p_37). (1) A swine herd, (2) a herd, (3) a herd, (4.md) a
 farmer, (5) a herd, (6) a cook, (7) a king's herd, (8) a herd.
 
 In Swedish also the service varies much; this Gaelic version about
@@ -331,7 +331,7 @@ dragon. That tract of country is pervaded by myths of the "Mahabharata."
 38\. *A park, a glen, a forest*.—The best version here is the "Gray Lad"
 as told by John Smith in South Uist—so that is followed.
 
-[39](cdm09.htm#an_p_39)-[44](cdm09.htm#an_p_44). In Gaelic this new
+[39](cdm09.htm#an_p_39)-[44](cdm09.htm#an_p_44.md). In Gaelic this new
 character is elsewhere called "The Five-Headed Giant," a big giant, a
 "Fuath" or fiend, a big man, a forest lion. He is variously described,
 but in character is the punisher of trespassers and the cattle-lifters'
@@ -376,7 +376,7 @@ Fergusson's book upon Tree and Serpent Worship. They are sculptured at
 many places in Ceylon (*v*. my "Circular Notes"). (11) A version of this
 part of the Highland story is current on the east coast of Africa.
 
-In "Sultan Darai" (*Swahili Tales told at* [*Zanzibar*](errata.htm#1),
+In "Sultan Darai" (*Swahili Tales told at* [*Zanzibar*](errata.htm#1.md),
 Bell and Duldy, 1870) a ruined man buys a gazelle with a coin which he
 finds in a dust-heap. The gazelle plays Puss in Boots. He finds a jewel,
 takes it to a sultan as a gift from his master, asks the sultan's
@@ -413,12 +413,12 @@ sword, and jewel of this African tale.
 *N.B.*—Brahma, Vishnu, and Shiv are represented with serpent hoods on
 old temples near the sources of the Ganges.
 
-[46](cdm09.htm#an_p_46). In the "Mahabharata," Sahadeva, one of the
+[46](cdm09.htm#an_p_46.md). In the "Mahabharata," Sahadeva, one of the
 Pandavas, became herd to Raja Vivata, and the cows yielded three or four
 times as much milk as they had ever done before (210, *History of
 India*).
 
-[39](cdm09.htm#an_p_39)-[67](cdm09.htm#an_p_67). This part is taken
+[39](cdm09.htm#an_p_39)-[67](cdm09.htm#an_p_67.md). This part is taken
 chiefly from "The Gray Lad," as told by John Smith, labourer, in South
 Uist, to Hector Maclean, and written by him. (2) Some incidents and
 variations are taken from the version which was twice told to J. F. C.
@@ -433,7 +433,7 @@ last degree improbable that this can have been taken directly from the
 "Ramayana" or from any book. It is therefore exceedingly remarkable to
 find so much in common in East and West.
 
-[68](cdm09.htm#an_p_68)-[75](cdm09.htm#an_p_75). As yet I have been
+[68](cdm09.htm#an_p_68)-[75](cdm09.htm#an_p_75.md). As yet I have been
 unable to find the Eastern equivalent of this fourth character, the
 hideous wife of one many-headed monster, and the mother of two. Ravana
 had a mother, but she did not come out to fight. It is curious if the
@@ -443,10 +443,10 @@ Western story preserves more characters than the Eastern epics.
 the wife of Shiva, may be the original or another form of the original
 of the terrible hag of the Gaelic tales.\]
 
-[75](cdm09.htm#an_p_75). *Glas* in this translation, but anything that
+[75](cdm09.htm#an_p_75.md). *Glas* in this translation, but anything that
 shines may be the meaning, say polished armour.
 
-[77](cdm10.htm#an_p_77)-[175](cdm11.htm#an_p_175). According to
+[77](cdm10.htm#an_p_77)-[175](cdm11.htm#an_p_175.md). According to
 different versions, the next enemy to be overcome is in Gaelic (1) The
 five-headed giant, (2) a beast \[Smith's son\], (3) a beast \[The Gray
 Lad\], (4) the eldest son of the King of Sorcha
@@ -481,7 +481,7 @@ Europe; see "Dragons and Dragon-slayers" in Good Words for April and May
 Panis, and other mythical foes in "Vedas." Bhima overcomes Vaka, and the
 Kauravas and many other foes in the "Mahabharata." Rama overcomes
 Ravana; Nala overcomes Kali the great serpent; Jupiter beats Typho;
-Ulysses kills [Polyphemus](errata.htm#2); Arthur and Fionn slay boars
+Ulysses kills [Polyphemus](errata.htm#2.md); Arthur and Fionn slay boars
 and robbers and mythical foes. According to theorists, all three mean
 that light fights dark, summer winter, good evil, life death; or fair
 people dark serpent-worshippers. It is impossible as yet to decide what
@@ -514,29 +514,29 @@ traced to a personification of a sacred river with many "mouths" and
 many "heads." The Chinese dragon pictured on walls in Canton, and
 embroidered on dresses, is a water dragon like all the rest.
 
-[78](cdm10.htm#an_p_78). Sometimes he drives the cows to the strand and
+[78](cdm10.htm#an_p_78.md). Sometimes he drives the cows to the strand and
 is still the herd; sometimes he breakfasts with the old herd. He always
 eats, like Bhima the strong hungry brother in the "Mahabharata."
 
-[79](cdm10.htm#an_p_79). The character of Boaster is played in the
+[79](cdm10.htm#an_p_79.md). The character of Boaster is played in the
 "Mahabharata" by Raja Vivata, who claims victories won by Bhima as cook,
 and by Arjuna as music and dancing master. The part is played by various
 characters in the West. In Swedish it is a tailor; in Norse a red
 ritter. In other versions of the story it is a great general; this is
 from the "Five-Headed Giant" from Berneray.
 
-[80](cdm10.htm#an_p_80). In Swedish there was a great turmoil of waves.
+[80](cdm10.htm#an_p_80.md). In Swedish there was a great turmoil of waves.
 In Norse the wind whistles after the ship. This Gaelic description is
 fuller than any other, probably because of familiarity with Atlantic
 weather and marine landscape. In Japan a storm is depicted, and is
 described: when the dragon was slain the storm ended.
 
-[82](cdm10.htm#an_p_82). The mark varies in foreign stories—sometimes a
+[82](cdm10.htm#an_p_82.md). The mark varies in foreign stories—sometimes a
 ring is fastened to the hair. In Gaelic the mark is the "lugmark" of the
 shepherd and herdsman almost invariably where this incident occurs, and
 it is common to many stories.
 
-[90](cdm10.htm#an_p_90). In Swedish each of three sea dragons with a
+[90](cdm10.htm#an_p_90.md). In Swedish each of three sea dragons with a
 superfluity of heads was attended by a dog "as big as a calf," "as big
 as an ox," "as big as any beast." Previous to the great battle there is
 a dog-fight, and the lad's dog is swallowed in the last. In another
@@ -546,7 +546,7 @@ Gaelic version yet found—May 1870.
 
 <span id="page_140">p. 140</span>
 
-[97](cdm10.htm#an_p_97). In Swedish and in Norse the hero goes back to
+[97](cdm10.htm#an_p_97.md). In Swedish and in Norse the hero goes back to
 his service and says nothing. He gives gold rings and pearls and other
 spoil to the cook or kitchenmaid, his chief; and the boaster gets the
 credit. In Swedish the king thinks of a similar proverb: "Oft sits the
@@ -554,40 +554,40 @@ scarlet heart under the Vadmal cloak," *i.e.*, a noble heart under
 hodden gray. In the "Mahabharata" the Pandavas slink off and return to
 their disguises and disappear.
 
-[131](cdm10.htm#an_p_131). From a version told by Dewar and MacNair. In
+[131](cdm10.htm#an_p_131.md). From a version told by Dewar and MacNair. In
 Swedish the princess aids by putting rags on the necks of the monster,
 for the heads when they touch water gain life and hop on again. This
 incident is in Gaelic also, and occurs at the end of this story.
 
-[139](cdm11.htm#an_p_139). Sometimes he is forgotten. In Swedish he is
+[139](cdm11.htm#an_p_139.md). Sometimes he is forgotten. In Swedish he is
 found in the kitchen by three princesses, is sent for, and won't go. In
 Norse the princess desires him to pour out wine; he does at the feast,
 and is there revealed in glorious dresses given him by the princess. In
 Gaelic he wins his own braveries and three castles to boot. A dress of
 honour is part of the story always.
 
-[140](cdm11.htm#an_p_140). From the Fisher.
+[140](cdm11.htm#an_p_140.md). From the Fisher.
 
-[141](cdm11.htm#an_p_141). In other tales this part is played by a great
+[141](cdm11.htm#an_p_141.md). In other tales this part is played by a great
 eagle. The whistle and the yellow-faced servant, a flying horse, and all
 the rest of this indicates a genius and an Eastern origin. In Swedish
 and in German the hero sends his creatures—fox, wolf, bear, and so on—to
 fetch food, drink, and other tokens from the palace.
 
-[142](cdm11.htm#an_p_142). This ought to be the wishing cloth, but it is
+[142](cdm11.htm#an_p_142.md). This ought to be the wishing cloth, but it is
 not in any version of the story yet got except as above. I have not
 found it in any foreign version either.
 
-[143](cdm11.htm#an_p_143). From the Fisher and the Gray Lad.
+[143](cdm11.htm#an_p_143.md). From the Fisher and the Gray Lad.
 
-[162](cdm11.htm#an_p_162). …A magnificent vehicle with as many horses
+[162](cdm11.htm#an_p_162.md). …A magnificent vehicle with as many horses
 harnessed to it as to the chariots of day and night in the Edda or the
 chariot of the sun. The original chariot may have been built in the
 Aryan land … chariots are repeatedly mentioned in the "Vedas" as
 vehicles used by men on earth and gods above. These west country
 chariots are surely Aryan chariots.
 
-[170](cdm11.htm#an_p_170). In Swedish three princesses twist three
+[170](cdm11.htm#an_p_170.md). In Swedish three princesses twist three
 threads with his hair. In Norse a princess throws three magnificent
 garments over the hero, which he
 
@@ -601,7 +601,7 @@ find a wife for a second brother. Other Swedish stories carry the tale
 further, and correspond with the Gaelic versions in a very remarkable
 manner.
 
-[176](cdm11.htm#an_p_176). Some reciters omit this part altogether. But
+[176](cdm11.htm#an_p_176.md). Some reciters omit this part altogether. But
 it is part of the story and in other versions it is made a good deal
 of.… It is neither in Norse nor in Swedish.
 
@@ -613,7 +613,7 @@ might eat men, in the story of Ulysses. The oldest form of the similar
 myth is referred to in a note on No. 4. But that Varuna was a male
 divinity. This might be Varuna come to claim his promised victim.
 
-[187](cdm11.htm#an_p_187). This is chiefly from the telling of an old
+[187](cdm11.htm#an_p_187.md). This is chiefly from the telling of an old
 man in North Uist and of an old wife in Berneray. In "Straparola" the
 wife follows the husband to the Atlantic, in a ship, with her child,
 which was some years old. She gave the baby apples to play with on the
@@ -640,11 +640,11 @@ told in Gaelic.
 
 <span id="page_142">p. 142</span>
 
-[188](cdm11.htm#an_p_188)-[206](cdm11.htm#an_p_206). …not in Swedish,
+[188](cdm11.htm#an_p_188)-[206](cdm11.htm#an_p_206.md). …not in Swedish,
 nor in Norse, nor in French, nor in Italian … this mysterious egg nearly
 related to the egg of the Universe in Hindu, Greek, and Finnish myth.
 
-[207](cdm12.htm#an_p_207). The story now goes off to a second brother.
+[207](cdm12.htm#an_p_207.md). The story now goes off to a second brother.
 In Swedish the second hero has adventures which are in German, but which
 I have not found in any Gaelic story. In Norse some of the adventures
 here given to a second brother are told of a widow's son separately. In
@@ -664,17 +664,17 @@ Berneray, Harris, about same time (MS. No. 120). In this case the dove
 is the most appropriate bird, except where he has to carry warlike
 paraphernalia.
 
-[208](cdm12.htm#an_p_208). This natural history is all right. The rat
+[208](cdm12.htm#an_p_208.md). This natural history is all right. The rat
 meant is the little old Scotch rat now nearly banished by the so-called
 Hanoverian rat, but still to be found in the islands occasionally. He is
 a little short-tailed black creature, and I believe that he hibernates
 like a marmot.
 
-[210](cdm12.htm#an_p_210), [211](cdm12.htm#an_p_211). Bhima took service
+[210](cdm12.htm#an_p_210), [211](cdm12.htm#an_p_211.md). Bhima took service
 as cook, and Draupadi took service in the women's apartments, where her
 husband could not visit her.
 
-[228](cdm12.htm#an_p_228). This is the way the tale is told by a
+[228](cdm12.htm#an_p_228.md). This is the way the tale is told by a
 Highland shoemaker nowadays.
 
 In "Straparola" an Italian princess gave Fortunio, who flew to her room
@@ -688,14 +688,14 @@ embroidered waistcoat to go to the fair.
 
 <span id="page_143">p. 143</span>
 
-[240](cdm12.htm#an_p_240). In the "Mahabharata" a great man falls in
+[240](cdm12.htm#an_p_240.md). In the "Mahabharata" a great man falls in
 love with the wife of the Pandavas; she gives him rendezvous, and Bhima
 meets him and slays him in the music and dancing room.
 
-[254](cdm12.htm#an_p_254). It does not appear how a pigeon carried
+[254](cdm12.htm#an_p_254.md). It does not appear how a pigeon carried
 armour, but that is not the fault of the translator.
 
-[275](cdm12.htm#an_p_275). According to Dewar, he was a second son of a
+[275](cdm12.htm#an_p_275.md). According to Dewar, he was a second son of a
 king of Erin. The Irish king first married the daughter of the King of
 Scotland, and then after her death the daughter of the King of France.
 The stepmother tried to poison the boys, and they fled to seek their
@@ -792,7 +792,7 @@ narrator and his audience, and how easy it is to know incidents after
 learning the nature of oral mythology at the fountain-head amongst the
 people.
 
-[277](cdm12.htm#an_p_277). *Bha an latha falbh s bha an oidhche
+[277](cdm12.htm#an_p_277.md). *Bha an latha falbh s bha an oidhche
 tighinn*. Such phrases are vernacular Gaelic, and are used without any
 thought of mythology. This, according to theory, is an ancient myth
 founded upon metaphorical Sanskrit phrases, used of speaking of day and
@@ -803,7 +803,7 @@ nature of vernacular Gaelic used by peasantry without any double meaning
 at all. The peasant tells his story, another class of mind might easily
 join language and story, but the story itself comes first.
 
-[284](cdm12.htm#an_p_284). According to theory, here is a
+[284](cdm12.htm#an_p_284.md). According to theory, here is a
 personification of light in her castle during the night. As the Gaelic
 for sun is feminine, here she is; but nobody in the West so understands
 the story. In Russian a similar passage is called the "Sun's Sister." I
@@ -812,7 +812,7 @@ to any theory which will account for my facts. In the "Edda" a female
 sun has a daughter who succeeds her mother after the twilight of the
 gods. In Japanese myth the sun is a lady who also is a snake divinity.
 
-[286](cdm12.htm#an_p_286). To me it seems that a moral lesson was
+[286](cdm12.htm#an_p_286.md). To me it seems that a moral lesson was
 intended by somebody. The first brother went headlong to his ends like a
 wolf, the second went swiftly and secretly like a bird, this one goes
 cautiously but courageously on. He does not go in till he has gone all
@@ -822,7 +822,7 @@ fearlessly on with his adventures. He is the youngest, and the youngest
 saves the others at the end of the story. The proverb "Slow and sure
 wins the race "—expresses the spirit of this class of story.
 
-[292](cdm12.htm#an_p_292). If he slept in the chamber of the dawn, of
+[292](cdm12.htm#an_p_292.md). If he slept in the chamber of the dawn, of
 course not. But there is much to explain before any theory can be
 accepted. Here are six doors and
 
@@ -836,7 +836,7 @@ mountains outside, beyond which is darkness. It would be the exploit of
 a divinity to pass seven such barriers and get to the mountain in the
 centre where the gods abide.
 
-[302](cdm12.htm#an_p_302). Any one who knows popular tales will here
+[302](cdm12.htm#an_p_302.md). Any one who knows popular tales will here
 recognise Beauty and the Beast, Cupid and Psyche, Green Serpent, and a
 host of Western tales which are all allied to the Sanskirt story of
 Urvaçi. Theorists explain these by the ancient use of poor metaphorical
@@ -846,25 +846,25 @@ says *the night came* he does not personify night. He speaks Gaelic and
 cannot avoid metaphor, but nevertheless he tells his mythical story
 which is all over the world in various forms and seems to be a lesson.
 
-[309](cdm12.htm#an_p_309). Here is a blank in the first part of the
+[309](cdm12.htm#an_p_309.md). Here is a blank in the first part of the
 story. The first or second son, or both, ought to have gone home to
 enrich the old fisher after the mermaid's death, and the victory over
 the Turks.
 
-[316](cdm12.htm#an_p_316). The Gandharvas, who wanted Urvashi to return
+[316](cdm12.htm#an_p_316.md). The Gandharvas, who wanted Urvashi to return
 to them, caused her to look upon her husband by sending a flash of
 lightning after he had been enticed to rise from his couch. Here the
 case is reversed. The man sees the woman.
 
-[322](cdm12.htm#an_p_322). So far the story is that of Cupid and Psyche
+[322](cdm12.htm#an_p_322.md). So far the story is that of Cupid and Psyche
 with the male character played by the actress. The recovery of the lost
 lady differs from any version known to me in any language.
 
-[328](cdm12.htm#an_p_328). Ants commonly live in skulls which bleach on
+[328](cdm12.htm#an_p_328.md). Ants commonly live in skulls which bleach on
 the shore in the West Highlands. In fact, eagles do prefer to tear
 entrails.
 
-[329](cdm12.htm#an_p_329). The inferior personage who loses the superior
+[329](cdm12.htm#an_p_329.md). The inferior personage who loses the superior
 in this widespread myth always needs some locomotive aid to arrive at
 the other place. Psyche has much to endure before she gets to Cupid in
 heaven. The Norse lassie who married the white bear got help from three
@@ -909,7 +909,7 @@ the West in this form. *Die Herabkunft des Feuers*, by A. Kuhn (Berlin,
 is current in the Isle of Skye, and is in Grimm's "Three Eyes"; part of
 it is in New Zealand, Celebes, and Japan.
 
-[340](cdm12.htm#an_p_340). According to other versions of this incident,
+[340](cdm12.htm#an_p_340.md). According to other versions of this incident,
 the lady ought to have wheedled this knowledge out of the giant at the
 instigation of her mortal lover (*v*. *Young King of Easaidh Ruadh* in
 Gaelic, the giant that had no heart in his body (Norse), and many German
@@ -928,21 +928,21 @@ and some pantheistic notion of a common life for all things. If the
 aborigines held some such creed the conqueror may represent the creed of
 those who invaded them.
 
-[352](cdm12.htm#an_p_352). … The reference to the sun may be taken as
+[352](cdm12.htm#an_p_352.md). … The reference to the sun may be taken as
 evidence in favour of those who count this an Aryan solar myth. The
 conversation of the lions tells for the water-myth theory, which I think
 most probable.
 
-[356](cdm12.htm#an_p_356). There is something of the story of David
+[356](cdm12.htm#an_p_356.md). There is something of the story of David
 (Sam. i. 17, 33) and of Samson about this version which may have come
 into traditions out of the Bible. The other versions have no resemblance
 to holy writ.
 
-[400](cdm14.htm#an_p_400). J. F. C. here has a note on Swedish story and
+[400](cdm14.htm#an_p_400.md). J. F. C. here has a note on Swedish story and
 fire in a forest, and concludes that the story is not the property of
 any nationality, but is universal, human.
 
-[404](cdm14.htm#an_p_404). The incident of two people so like that they
+[404](cdm14.htm#an_p_404.md). The incident of two people so like that they
 could not be distinguished by the wife of one occurs in the "Rigveda
 Sanhita" (*v*. Wilson's trans., vol. iii., 147-8). Indra was like a
 terrible lion when wielding his weapons, in which he resembles these
@@ -965,4 +965,4 @@ with mystical gifts.
 
 ------------------------------------------------------------------------
 
-[Next: Na Trì Rathaidean Móra (The Three Ways) \[Gaelic\]](cdm16)
+[Next: Na Trì Rathaidean Móra (The Three Ways) \[Gaelic\]](cdm16.md)

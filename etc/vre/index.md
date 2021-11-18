@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](vre00)    [Page
-Index](pageidx)    [Text \[Zipped\]](vre.txt.gz)
+[Contents](#contents)    [Start Reading](vre00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](vre.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ this negative sentence. Let me close, then, by briefly enumerating what
 she can do for religion. If she will abandon metaphysics and deduction
 for criticism and induction, and frankly transform herself from theology
 into science of religions, she can make herself enormously useful.--[p.
-445](vre14.htm#page_445)</span>*
+445](vre14.htm#page_445.md)</span>*
 
 William James, one of the founders of modern psychology, delivered the
 Gifford lecture in Edinburgh for 1901-2 at a high point in his career.
@@ -64,24 +64,24 @@ conformance with the source edition. --*J.B. Hare, April 27, 2008*.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](vre00)  
-[Contents](vre01)  
-[Preface](vre02)  
-[Lecture I. Religion And Neurology](vre03)  
-[Lecture II. Circumscription of the Topic](vre04)  
-[Lecture III. The Reality of the Unseen](vre05)  
-[Lectures IV and V. The Religion of Healthy Mindedness](vre06)  
-[Lectures VI and VII. The Sick Soul](vre07)  
+<span id="contents"></span> [Title Page](vre00.md)  
+[Contents](vre01.md)  
+[Preface](vre02.md)  
+[Lecture I. Religion And Neurology](vre03.md)  
+[Lecture II. Circumscription of the Topic](vre04.md)  
+[Lecture III. The Reality of the Unseen](vre05.md)  
+[Lectures IV and V. The Religion of Healthy Mindedness](vre06.md)  
+[Lectures VI and VII. The Sick Soul](vre07.md)  
 [Lecture VIII. The Divided Self, and the Process of its
-Unification](vre08)  
-[Lecture IX. Conversion](vre09)  
-[Lecture X. Conversion—Concluded](vre10)  
-[Lectures XI, XII, and XIII. Saintliness](vre11)  
-[Lectures XIV and XV. The Value of Saintliness](vre12)  
-[Lectures XVI and XVII. Mysticism](vre13)  
-[Lecture XVIII. Philosophy](vre14)  
-[Lecture XIX. Other Characteristics](vre15)  
-[Lecture XX. Conclusions](vre16)  
-[Postscript](vre17)  
-[Index](vre18)  
-[Note on the Author](vre19)  
+Unification](vre08.md)  
+[Lecture IX. Conversion](vre09.md)  
+[Lecture X. Conversion—Concluded](vre10.md)  
+[Lectures XI, XII, and XIII. Saintliness](vre11.md)  
+[Lectures XIV and XV. The Value of Saintliness](vre12.md)  
+[Lectures XVI and XVII. Mysticism](vre13.md)  
+[Lecture XVIII. Philosophy](vre14.md)  
+[Lecture XIX. Other Characteristics](vre15.md)  
+[Lecture XX. Conclusions](vre16.md)  
+[Postscript](vre17.md)  
+[Index](vre18.md)  
+[Note on the Author](vre19.md)  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre95)  [Next](gre97) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre95)  [Next](gre97.md) 
 
 ------------------------------------------------------------------------
 
@@ -229,4 +229,4 @@ do.
 ------------------------------------------------------------------------
 
 [Next: Chapter XCII: Of the Oath that Spes made before the
-Bishop](gre97)
+Bishop](gre97.md)

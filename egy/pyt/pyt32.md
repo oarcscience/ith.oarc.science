@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt31)  [Next](pyt33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt31)  [Next](pyt33.md) 
 
 ------------------------------------------------------------------------
 
@@ -196,4 +196,4 @@ glided (i.e. fell).
 ------------------------------------------------------------------------
 
 [Next: 30. Resurrection, Meal, and Ascension of the Deceased King,
-Utterance 553](pyt33)
+Utterance 553](pyt33.md)

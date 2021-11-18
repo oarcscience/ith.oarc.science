@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar25)  [Next](gar27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar25)  [Next](gar27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 Its covering is no less than the clouded canopy, or starry-decked
 heaven, where all good Masons hope at last to arrive, by the aid of that
-theological ladder <span id="fr_15"></span>[\*](#fn_15) which JACOB, in
+theological ladder <span id="fr_15"></span>[\*](#fn_15.md) which JACOB, in
 his vision, saw extending from earth to heaven; the three *principal
 rounds* of which are denominated FAITH, HOPE, and CHARITY; which
 admonishes us to have *faith* in GOD, *hope* in immortality, and
@@ -86,7 +86,7 @@ Like angels in the ministry
 
 ### Footnotes
 
-<span id="fn_15"></span>[78:\*](gar26.htm#fr_15) Standing firmly on the
+<span id="fn_15"></span>[78:\*](gar26.htm#fr_15.md) Standing firmly on the
 Bible, Square, and Compasses, is a ladder which connects the earth with
 the heavens, or covering of the Lodge, and is a simile of that which
 JACOB saw in a vision when journeying to Padanarum, in Mesopotamia. It
@@ -106,4 +106,4 @@ sense, may justly be deemed to have attained the summit of the science.
 
 ------------------------------------------------------------------------
 
-[Next: The Furniture of the Lodge](gar27)
+[Next: The Furniture of the Lodge](gar27.md)

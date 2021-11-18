@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis37)  [Next](kis39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis37)  [Next](kis39.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ until it died down, and then he slept before it.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](kis39)
+[Next: Part II](kis39.md)

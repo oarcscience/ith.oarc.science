@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku11)  [Next](lku13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku11)  [Next](lku13.md) 
 
 ------------------------------------------------------------------------
 
@@ -2295,4 +2295,4 @@ Disappeared in the darkest night.
 
 ------------------------------------------------------------------------
 
-[Next: The Twelfth Era](lku13)
+[Next: The Twelfth Era](lku13.md)

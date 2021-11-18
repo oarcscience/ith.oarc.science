@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb09)  [Next](ttb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb09)  [Next](ttb11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_23">p. 23</span>
 
-<span id="img_02300"></span> ![Ol-Hiyo, The Seal](img/02300.jpg)
+<span id="img_02300"></span> ![Ol-Hiyo, The Seal](img/02300.jpg.md)
 
 ### Ol-Hiyo, THE SEAL
 
@@ -53,4 +53,4 @@ more seals.
 
 ------------------------------------------------------------------------
 
-[Next: Kutze-ce-te-ut, The Wood Worm](ttb11)
+[Next: Kutze-ce-te-ut, The Wood Worm](ttb11.md)

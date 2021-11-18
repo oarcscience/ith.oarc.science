@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou16)  [Next](hou18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou16)  [Next](hou18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ Humboldt Range near its centre being more than 5,000 feet, and of the
 Wasatch on the east about 7,000 feet, above the level of the basin.
 
     For 300 miles along the western base of the Wasatch Range is a
-narrow strip of alluvial land. <span id="fr_512"></span>[1](#fn_512)
+narrow strip of alluvial land. <span id="fr_512"></span>[1](#fn_512.md)
 Elsewhere in the valley the soil is not for the most part fertile until
 water is conducted to it, and some of the alkali washed out. Rain seldom
 falls in spring
@@ -69,18 +69,18 @@ found in their midst. Other valuable minerals were afterward discovered,
 among them being gold, silver, copper, zinc, lead, sulphur, alum, and
 borax; the waters of Great Salt Lake were so densely impregnated that
 one measure of salt was obtained from five of brine. <span
-id="fr_513"></span>[2](#fn_513)
+id="fr_513"></span>[2](#fn_513.md)
 
     In the streams were fish of several varieties; <span
-id="fr_514"></span>[3](#fn_514) in
+id="fr_514"></span>[3](#fn_514.md) in
 
 <span id="page_323">p. 323</span>
 
 the mountains roamed the deer, elk, antelope, and bear, and on the
 marshy flats amid the plains were smaller game. <span
-id="fr_515"></span>[4](#fn_515) Timber was scarce and of poor quality,
+id="fr_515"></span>[4](#fn_515.md) Timber was scarce and of poor quality,
 except in places difficult of access; <span
-id="fr_516"></span>[5](#fn_516) but with this exception there was no
+id="fr_516"></span>[5](#fn_516.md) but with this exception there was no
 great lack of resources in the territory which the saints had made their
 abode.
 
@@ -92,7 +92,7 @@ herds, the Mormons provided liberally for the cause of education. In the
 third general epistle of the twelve, dated the 12th of April, 1850, it
 is stated that an appropriation of $5,000 per annum, for a period of
 twenty years, had been made for a state university <span
-id="fr_517"></span>[6](#fn_517) in Salt Lake City, branches to be
+id="fr_517"></span>[6](#fn_517.md) in Salt Lake City, branches to be
 established elsewhere throughout the territory as they were needed. In
 the curriculum the Keltic and Teutonic languages were to rank side by
 side with the Romanic, and all living languages spoken by men were to be
@@ -100,7 +100,7 @@ included. Astronomy, geology, chemistry, agriculture, engineering, and
 other branches of science were to be studied; for having sought first
 the kingdom of heaven, the saints were now assured that knowledge and
 all other things should be added unto them. <span
-id="fr_518"></span>[7](#fn_518) The world of science was to be
+id="fr_518"></span>[7](#fn_518.md) The world of science was to be
 revolutionized;
 
 <span id="page_324">p. 324</span>
@@ -113,19 +113,19 @@ Abraham it was revealed that in the centre of the universe was the great
 orb Kolob, the greatest of all the stars seen by that patriarch,
 revolving on its axis once in a thousand years, and around which all
 other suns and planets revolved in endless cycles. <span
-id="fr_519"></span>[8](#fn_519)
+id="fr_519"></span>[8](#fn_519.md)
 
     At first, however, education among the settlers was mainly of an
 elementary nature. There were many, even among the adults, who could not
 write or spell, and not a few who could not read. A parents’ school was
 therefore established at Salt Lake City, for the heads of families and
 for the training of teachers, among the pupils being Brigham
-Young. <span id="fr_520"></span>[9](#fn_520) Primary and other schools
+Young. <span id="fr_520"></span>[9](#fn_520.md) Primary and other schools
 were opened in all the principal settlements, <span
-id="fr_521"></span>[10](#fn_521) and for those who were sufficiently
+id="fr_521"></span>[10](#fn_521.md) and for those who were sufficiently
 advanced, classes were organized as early as the winter of 1848-9, for
 the study of ancient and modern languages. <span
-id="fr_522"></span>[11](#fn_522)
+id="fr_522"></span>[11](#fn_522.md)
 
 <span id="page_325">p. 325</span>
 
@@ -135,21 +135,21 @@ thousand dollars was appropriated for the foundation of a library in
 Salt Lake City. The delegate from Utah was authorized to make a
 selection of books, and several thousand volumes were forwarded from the
 east during this and the following year. <span
-id="fr_523"></span>[12](#fn_523) Rooms were prepared in the
+id="fr_523"></span>[12](#fn_523.md) Rooms were prepared in the
 council-house for their reception, and many periodicals, both Mormon and
 gentile, were added to the stock of reading matter. Among the former was
 the *Millennial Star*, already mentioned, and the *Frontier Guardian*,
 published bi-monthly at Kanesville, Iowa, between February 1849 and
 March 1852, and afterward as a weekly paper under the style of the
 *Frontier Guardian and Iowa Sentinel*. <span
-id="fr_524"></span>[13](#fn_524)
+id="fr_524"></span>[13](#fn_524.md)
 
 <span id="page_326">p. 326</span>
 
     On the 15th of June, 1850, was published at Salt Lake City, under
 the editorship of Willard Richards, the first number of the *Deseret
 News*, a weekly paper, and the church organ of the saints. <span
-id="fr_525"></span>[14](#fn_525) In this number, a copy of which I have
+id="fr_525"></span>[14](#fn_525.md) In this number, a copy of which I have
 before me, is a report of the conflagration which occurred in San
 Francisco on christmas eve of 1849, and of Zachary Taylor's message to
 the house of representatives relating to the admission of California as
@@ -168,19 +168,19 @@ miners, and all kinds of laborers.
 
     At Tooele and several other settlements gristmills and saw-mills
 were established before the close of 1852. <span
-id="fr_526"></span>[15](#fn_526) Near Salt Lake City, a small
-woollen-mill was in operation. <span id="fr_527"></span>[16](#fn_527) At
+id="fr_526"></span>[15](#fn_526.md) Near Salt Lake City, a small
+woollen-mill was in operation. <span id="fr_527"></span>[16](#fn_527.md) At
 Parowan and Cedar City, iron-works were in course of construction; at
 Paragoonah, a tannery had been built; and at Salt Lake City, in addition
 to other branches of manufacture, flannels, linseys, jeans, pottery, and
-cutlery were produced, <span id="fr_528"></span>[17](#fn_528) and sold
+cutlery were produced, <span id="fr_528"></span>[17](#fn_528.md) and sold
 at lower prices than were asked for eastern cods of inferior quality
 "Produce what you consume, writes Governor Brigham Young in his message
 of January 5, 1852; "draw from the native elements the necessaries of
 life; permit no vitiated taste to lead you into indulgence of expensive
 luxuries which can only be obtained by involving yourselves in debt; let
 home industry produce every article of home consumption." <span
-id="fr_529"></span>[18](#fn_529) This excellent advice
+id="fr_529"></span>[18](#fn_529.md) This excellent advice
 
 <span id="page_328">p. 328</span>
 
@@ -188,26 +188,26 @@ was not unheeded; but the supply of home-manufactured goods did not, of
 course, keep pace with the demand. Such commodities as were not the
 products of home industry were, for the most part, obtained by barter
 with passing emigrants, or were brought in wagon trains by way of
-Kanesville; <span id="fr_530"></span>[19](#fn_530) though already
+Kanesville; <span id="fr_530"></span>[19](#fn_530.md) though already
 traffic had been opened with regions far to the westward on either side
-of the Sierra Nevada. <span id="fr_531"></span>[20](#fn_531)
+of the Sierra Nevada. <span id="fr_531"></span>[20](#fn_531.md)
 
     According to the United States census returns for the year 1850, the
 population of the valley of Great Salt Lake mustered 11,354 persons, of
 whom about 53 per cent were males, and 6,000 residents of Salt Lake
-City. <span id="fr_532"></span>[21](#fn_532) There were 16,333 acres
+City. <span id="fr_532"></span>[21](#fn_532.md) There were 16,333 acres
 under cultivation, on which were raised 128,711 bushels of grain. The
 value of live-stock was estimated at $546,698, and of farming implements
 at $84,288. At the close of 1852, the total population was variously
 estimated at from 25,000 to 30,000, <span
-id="fr_533"></span>[22](#fn_533) of whom perhaps 10,000 resided in the
+id="fr_533"></span>[22](#fn_533.md) of whom perhaps 10,000 resided in the
 metropolis. The assessed value of
 
 <span id="page_329">p. 329</span>
 
 taxable property at the latter date was $1,160,883.80, or an average of
 more than $400 per capita. The entire revenue amounted to
-$26,690.58, <span id="fr_534"></span>[23](#fn_534) of which sum
+$26,690.58, <span id="fr_534"></span>[23](#fn_534.md) of which sum
 $9,725.87 was expended for public improvements, the encouragement of
 industries, or educational purposes.
 
@@ -218,12 +218,12 @@ entered the valley of Great Salt Lake, and now the settlers found
 themselves amidst plenty and comfort in the land of promise, where until
 their arrival scarce a human being was to be seen, save the Indians
 whose clothing was the skins of rabbits and whose food was roasted
-crickets. <span id="fr_535"></span>[24](#fn_535) There was no
-destitution in their midst; <span id="fr_536"></span>[25](#fn_536) there
-was little sickness. <span id="fr_537"></span>[26](#fn_537) In these and
+crickets. <span id="fr_535"></span>[24](#fn_535.md) There was no
+destitution in their midst; <span id="fr_536"></span>[25](#fn_536.md) there
+was little sickness. <span id="fr_537"></span>[26](#fn_537.md) In these and
 some other respects, the wildest misstatements have been made by certain
 gentile writers, among them Mr Ferris, who, as we shall see, was
-appointed secretary for Utah. <span id="fr_538"></span>[27](#fn_538) In
+appointed secretary for Utah. <span id="fr_538"></span>[27](#fn_538.md) In
 this pure
 
 <span id="page_330">p. 330</span>
@@ -235,11 +235,11 @@ death, like those amid which the saints encamped on the banks of the
 Missouri. In the valley were mineral springs, the temperature of which
 ranged from 36° to 150° of Fahrenheit, some of them being prized for
 their medicinal properties. From the warm spring <span
-id="fr_539"></span>[28](#fn_539) in the vicinity of Salt Lake City,
+id="fr_539"></span>[28](#fn_539.md) in the vicinity of Salt Lake City,
 waters which varied between 98° in summer and 104° in winter <span
-id="fr_540"></span>[29](#fn_540) were conducted by pipes to a large
+id="fr_540"></span>[29](#fn_540.md) were conducted by pipes to a large
 bath-house in the northern part of the city. <span
-id="fr_541"></span>[30](#fn_541)
+id="fr_541"></span>[30](#fn_541.md)
 
 <span id="page_331">p. 331</span>
 
@@ -249,10 +249,10 @@ id="fr_541"></span>[30](#fn_541)
 
 ### Footnotes
 
-<span id="fn_512"></span>[321:1](hou17.htm#fr_512) *Gunnison's The
+<span id="fn_512"></span>[321:1](hou17.htm#fr_512.md) *Gunnison's The
 Mormons*, 15.
 
-<span id="fn_513"></span>[322:2](hou17.htm#fr_513) An analysis of the
+<span id="fn_513"></span>[322:2](hou17.htm#fr_513.md) An analysis of the
 mineral matter forty years ago showed 97.8 per cent of chloride of
 sodium, 1.12 of sulphate of lime, .24 of magnesium, and .23 of sulphate
 of soda. *Linforth's Route from Liverpool*, 101. The specific gravity of
@@ -264,29 +264,29 @@ Nev*., 11, this series. In chap. i. of that vol. is a further
 description of the great basin, its topography, climate, soil, springs
 and rivers, fauna and flora.
 
-<span id="fn_514"></span>[322:3](hou17.htm#fr_514) 'The angler can
+<span id="fn_514"></span>[322:3](hou17.htm#fr_514.md) 'The angler can
 choose his fish either in the swift torrents of the cañons, where the
 trout delights to live, or in the calmer currents on the plains, <span
 id="page_323">p. 323</span> where he will find abundance of the pike,
 the perch, the bass, and the chub. *Gunnison's The Mormons*, 20.
 
-<span id="fn_515"></span>[323:4](hou17.htm#fr_515) Wild ducks and geese
+<span id="fn_515"></span>[323:4](hou17.htm#fr_515.md) Wild ducks and geese
 were abundant in 1852. *Ibid*. There were also quail and herons. In
 summer, boys filled their baskets with eggs found among the reeds on the
 banks of streams or on the islands in the Great Salt Lake.
 
-<span id="fn_516"></span>[323:5](hou17.htm#fr_516) 'Hidden away in the
+<span id="fn_516"></span>[323:5](hou17.htm#fr_516.md) 'Hidden away in the
 profound chasms and along the streams, whose beds are deeply worn in the
 mountain-sides, are the cedar, pine, dwarf-maple, and occasionally oak,
 where the inhabitants of the vale seek their fuel and building timber,
 making journeys to obtain these necessaries twenty to forty miles from
 their abodes.' *Id*., 21.
 
-<span id="fn_517"></span>[323:6](hou17.htm#fr_517) Under the supervision
+<span id="fn_517"></span>[323:6](hou17.htm#fr_517.md) Under the supervision
 and control of a chancellor, twelve regents, a secretary, and a
 treasurer. *Frontier Guardian*, June 12, 1850.
 
-<span id="fn_518"></span>[323:7](hou17.htm#fr_518) 'But what,' says
+<span id="fn_518"></span>[323:7](hou17.htm#fr_518.md) 'But what,' says
 Phelps in an oration delivered July 24, 1851, 'will all the precious
 things of time, the inventions of men, the records, from Japheth in the
 ark to Jonathan in congress, embracing the wit and the gist, the
@@ -299,7 +299,7 @@ philosophy of truth, the names of our spirits from <span
 id="page_324">p. 324</span> the Lamb's book of life, and the songs of
 the sanctified?' *Deseret News*, July 26, 1851.
 
-<span id="fn_519"></span>[324:8](hou17.htm#fr_519) 'I saw the stars that
+<span id="fn_519"></span>[324:8](hou17.htm#fr_519.md) 'I saw the stars that
 they were very great, and that one of them was nearest unto the throne
 of God; and there were many great ones that were near it; and the Lord
 said unto me, These are the governing ones: and the name of the great
@@ -313,19 +313,19 @@ thousand years according to the time appointed unto that whereon thou
 standest.' *Reynolds’ Book of Abraham*, 29. See also Orson Pratt's
 lecture on astronomy in *Deseret News*, Dec. 27, 1851.
 
-<span id="fn_520"></span>[324:9](hou17.htm#fr_520) The parent school is
+<span id="fn_520"></span>[324:9](hou17.htm#fr_520.md) The parent school is
 in successful operation in the council-house, and schools have been
 built in most of the wards. *Hist. B. Young*, MS., 1851, 32; *Gunnison's
 The Mormons*, 80; *Utah Early Records*, MS., 115. Lyons Collins was
 appointed teacher by the chancellor and board of regents.
 
-<span id="fn_521"></span>[324:10](hou17.htm#fr_521) Jesse W. Fox taught
+<span id="fn_521"></span>[324:10](hou17.htm#fr_521.md) Jesse W. Fox taught
 the first school at Manti in 1850. *Utah Sketches*, MS., 172. The first
 school at Nephi was opened in 1851. *Id*., 111. The best school-house in
 Utah county was at Palmyra; at Provo, Evan M. Greene opened a select
 school in the second ward. *Deseret News*, Dec. 11, 1852.
 
-<span id="fn_522"></span>[324:11](hou17.htm#fr_522) 'There have been a
+<span id="fn_522"></span>[324:11](hou17.htm#fr_522.md) 'There have been a
 large number of schools the past winter, in which the Hebrew, Greek,
 Latin, French, German, Tahitian, and English languages <span
 id="page_325">p. 325</span> have been taught successfully. First General
@@ -333,7 +333,7 @@ Epistle of the Twelve, in *Utah Early Records*, MS., 74, and *Frontier
 Guardian*, May 30, 1849. 'German books were bought in order that the
 elders might learn that language. '*Hist. B. Young*, MS., 1849, 3.
 
-<span id="fn_523"></span>[325:12](hou17.htm#fr_523) Dr Bernhisel was
+<span id="fn_523"></span>[325:12](hou17.htm#fr_523.md) Dr Bernhisel was
 appointed by the president of the U.S. as special agent to expend the
 U.S. appropriation of $5,000. *Hist. B. Young*, MS., 80. Many valuable
 donations of maps, papers, etc., were received. *Contributor*, 270;
@@ -341,7 +341,7 @@ donations of maps, papers, etc., were received. *Contributor*, 270;
 *Millennial Star*, xii. 330-1. William C. Staines was appointed
 librarian. *Deseret News*, Feb. 21, 1852.
 
-<span id="fn_524"></span>[325:13](hou17.htm#fr_524) Of the *Frontier
+<span id="fn_524"></span>[325:13](hou17.htm#fr_524.md) Of the *Frontier
 Guardian*, brief mention has already been made. The first number,
 published Feb. 7, 1849, with Orson Hyde as editor and proprietor, will
 bear comparison with many of the leading newspapers in eastern or
@@ -372,7 +372,7 @@ id="page_326">p. 326</span> of the *Frontier Guardian and Iowa
 Sentinel*, the paper having then passed into the hands of Jacob Dawson &
 Co.
 
-<span id="fn_525"></span>[326:14](hou17.htm#fr_525) Until Aug. 19, 1851,
+<span id="fn_525"></span>[326:14](hou17.htm#fr_525.md) Until Aug. 19, 1851,
 it was issued as an eight-page quarto, the pages being about 8½ by 6½
 in., and without column rules. After that date it was suspended for want
 of paper until Nov. 19th. 'We got short of type, and I happened to have
@@ -430,7 +430,7 @@ surgeon-dentist, who also professes to cure the scurvy. In Nov. 1851 it
 appeared in folio and in greatly improved form; for years it was the
 only paper, and is still the leading Mormon journal, in the territory.
 
-<span id="fn_526"></span>[327:15](hou17.htm#fr_526) The first grist-mill
+<span id="fn_526"></span>[327:15](hou17.htm#fr_526.md) The first grist-mill
 built at Tooele was erected by Ezaias Edwards; in 1849 a saw-mill was
 built at Provo by James Porter and Alex. Williams, and in 1850 a
 grist-mill, by James A. Smith and Isaac Higbee. At American Fork Ezra
@@ -442,15 +442,15 @@ gristmills and five saw-mills. *Utah Early Records*, MS., 158. Near
 Ogden, Lorin Farr built a grist-mill and saw-mill in 1850. *Stanford's
 Ogden City*, MS., 3.
 
-<span id="fn_527"></span>[327:16](hou17.htm#fr_527) In March 1851 the
+<span id="fn_527"></span>[327:16](hou17.htm#fr_527.md) In March 1851 the
 general assembly appropriated $2,000 for this purpose. *Utah Early
 Records*, MS., 123.
 
-<span id="fn_528"></span>[327:17](hou17.htm#fr_528) 'Our pottery is
+<span id="fn_528"></span>[327:17](hou17.htm#fr_528.md) 'Our pottery is
 nearly completed;…cutlery establishments are completed.' *Hist. B.
 Young*, MS., 26.
 
-<span id="fn_529"></span>[327:18](hou17.htm#fr_529) In *Id*., Nov. 6,
+<span id="fn_529"></span>[327:18](hou17.htm#fr_529.md) In *Id*., Nov. 6,
 1852, similar advice is given to the saints: 'Buy no article from the
 stores that you can possibly do without. Stretch our means, skill, and
 wisdom to the utmost to manufacture what we need, beginning with <span
@@ -469,11 +469,11 @@ its appearance in our streets'—a great blessing, 'if it will prove an
 inducement to the people to depend and rely upon their own resources for
 their own supplies.' *Id*., 1852, 16.
 
-<span id="fn_530"></span>[328:19](hou17.htm#fr_530) On May l, 1851, the
+<span id="fn_530"></span>[328:19](hou17.htm#fr_530.md) On May l, 1851, the
 first train of merchandise for the season arrived in the city, laden
 partly with sugar, coffee, and calicoes. *Utah Early Records*, MS., 127.
 
-<span id="fn_531"></span>[328:20](hou17.htm#fr_531) On Nov. 19, 1848,
+<span id="fn_531"></span>[328:20](hou17.htm#fr_531.md) On Nov. 19, 1848,
 Capt. Grant of the Hudson's Bay Company arrived from Fort Hall with
 pack-horses laden with skins, groceries, and other goods. On April 17,
 1851, a small party arrived from Fort Hall in search of provisions and
@@ -481,11 +481,11 @@ Indian trading goods. On the 10th of the same month, Col Reese sent ten
 or twelve wagon-loads of flour to Carson Valley for trading purposes.
 *Id*., 39, 125, 127.
 
-<span id="fn_532"></span>[328:21](hou17.htm#fr_532) The returns were
+<span id="fn_532"></span>[328:21](hou17.htm#fr_532.md) The returns were
 made under the direction of Brigham Young, who was appointed census
 agent. *Utah Early Records*, MS., 112; *Deseret News*, Oct. 5, 1850.
 
-<span id="fn_533"></span>[328:22](hou17.htm#fr_533) Early in 1853 the
+<span id="fn_533"></span>[328:22](hou17.htm#fr_533.md) Early in 1853 the
 *Deseret Almanac* places the number at 30,000, while in Orson Pratt's
 *Seer* it is given at 30,000 to 35,000. *Olshausen's Mormonen*, 192. At
 this date it was estimated at 25,000 by the gentiles. *Burton's City of
@@ -493,23 +493,23 @@ the Saints*, 357. Probably the Mormons exaggerated, as they desired to
 <span id="page_329">p. 329</span> show as soon as possible a population
 of 100,000, which would entitle them to claim admission as a state.
 
-<span id="fn_534"></span>[329:23](hou17.htm#fr_534) Not more than one
+<span id="fn_534"></span>[329:23](hou17.htm#fr_534.md) Not more than one
 tenth was collected in cash, payment being usually made in grain.
 *Contributor*, 332. 'Securing a territorial revenue of $23,000,
 including merchants’ licenses and tax on liquors.' *Hist. B. Young*, MS,
 1852, 2.
 
-<span id="fn_535"></span>[329:24](hou17.htm#fr_535) 'The most exposed
+<span id="fn_535"></span>[329:24](hou17.htm#fr_535.md) 'The most exposed
 parts of the country are annually run over by the fires set by the
 Indians to kill and roast the crickets, which they gather in summer for
 winter food.' *Gunnison's The Mormons*, 21.
 
-<span id="fn_536"></span>[329:25](hou17.htm#fr_536) The country was
+<span id="fn_536"></span>[329:25](hou17.htm#fr_536.md) The country was
 canvassed to ascertain how many inmates there would be for a poor-house,
 then projected. Only two were found, and the Mormons concluded that it
 was not yet time for such an institution. *Id*., 34.
 
-<span id="fn_537"></span>[329:26](hou17.htm#fr_537) The number of deaths
+<span id="fn_537"></span>[329:26](hou17.htm#fr_537.md) The number of deaths
 in the territory during the year ending June 1, 1850, was 239. *U.S.
 Census, 1850*, 997; and in Salt Lake county, which virtually meant Salt
 Lake City, 121; in both, the mortality was therefore less than 20 per
@@ -518,7 +518,7 @@ years. Moreover, the population of Utah included a very large proportion
 of infants. Of 64 deaths reported in the *Deseret News* of March 8,
 1851, 34 occurred between the ages of one and ten.
 
-<span id="fn_538"></span>[329:27](hou17.htm#fr_538) *Utah and the
+<span id="fn_538"></span>[329:27](hou17.htm#fr_538.md) *Utah and the
 Morrmons: the History, Government, Doctrines, Customs, and Prospects of
 the Latter-day Saints; from personal observation during a six months’
 residence at Great Salt Lake City. By Benjamin G. Ferris, late secretary
@@ -535,7 +535,7 @@ proselytizing, and society. While sometimes interesting, there is little
 original information; and aside from what the author saw during his
 residence in Utah, the book has no special value.
 
-<span id="fn_539"></span>[330:28](hou17.htm#fr_539) The water was
+<span id="fn_539"></span>[330:28](hou17.htm#fr_539.md) The water was
 analyzed in 1851 by L. D. Gale. Its specific gravity was found to be
 1.0112; it was strongly impregnated with sulphur, and 100 parts of water
 yielded 1.082 of solid matter. The specific gravity of the hot spring in
@@ -550,12 +550,12 @@ Lake Weekly Herald*, July 29, 1880; *S. L. C. Tribune*, Jan. 5, 1878;
 *Hardy's Through Cities and Prairie*, 121; *Burton's City of the
 Saints*, 222; *Sac. Union*, Aug. 7, 1860.
 
-<span id="fn_540"></span>[330:29](hou17.htm#fr_540) *Contributor*, iv.
+<span id="fn_540"></span>[330:29](hou17.htm#fr_540.md) *Contributor*, iv.
 59. One of the brethren, writing to Orson Hyde from Salt Lake City,
 Sept. 10, 1850, says that the temperature stands, winter and summer, at
 about 92°. *Frontier Guardian*, Jan. 8, 1851.
 
-<span id="fn_541"></span>[330:30](hou17.htm#fr_541) On Nov. 27, 1850,
+<span id="fn_541"></span>[330:30](hou17.htm#fr_541.md) On Nov. 27, 1850,
 the warm-spring bath-house was dedicated and opened with prayer,
 festival, and dance. *Utah Early Records*, MS., 116.
 
@@ -731,4 +731,4 @@ Leader,* 1880, July 24; *Carson (Nev.), State Register,* 1872, Nov. 24;
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Mormonism and Polygamy.](hou18)
+[Next: Chapter XV. Mormonism and Polygamy.](hou18.md)

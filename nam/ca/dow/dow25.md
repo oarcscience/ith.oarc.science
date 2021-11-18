@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow24)  [Next](dow26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow24)  [Next](dow26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -74,7 +74,7 @@ edge of the river; go out where it is deep and get it there."
 
 *Lo'-wut* did as she was told and came back with good clear water, but
 when she reached the house with it, it had turned into snakes and frogs
-and other water animals. <span id="fr_13"></span>[14](#fn_13) Five times
+and other water animals. <span id="fr_13"></span>[14](#fn_13.md) Five times
 she went out into the river for water, each time with the same result.
 The last time she waded out till the water was above her waist.
 
@@ -104,7 +104,7 @@ Their grandmother, *To-to'-kol*,
 <span id="img_12900"></span> <span align="CENTER"> [![Funeral of
 &lt;i&gt;Lo'-wuk&lt;/i&gt;, wife of
 &lt;i&gt;Wek'-wek&lt;/i&gt;](tn/12900.jpg)  
-Click to enlarge](img/12900.jpg)  
+Click to enlarge](img/12900.jpg.md)  
 Funeral of *Lo'-wuk*, wife of *Wek'-wek*  
 </span>
 
@@ -175,9 +175,9 @@ kind of bird it was to be, and became that kind, and went away.
 
 ### Footnotes
 
-<span id="fn_13"></span>[128:14](dow25.htm#fr_13) *Wek'-wek* made this
+<span id="fn_13"></span>[128:14](dow25.htm#fr_13.md) *Wek'-wek* made this
 happen, for he was a magician or witch doctor.
 
 ------------------------------------------------------------------------
 
-[Next: The Defeat of *O-la'-nah* the Coyote-Man](dow26)
+[Next: The Defeat of *O-la'-nah* the Coyote-Man](dow26.md)

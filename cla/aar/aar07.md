@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aar06)  [Next](aar08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aar06)  [Next](aar08.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ reason of our bewilderment is simple enough. These prologues and
 messengers' speeches and ever-present choruses that trouble us are
 ritual forms still surviving at a time when the *drama* has fully
 developed out of the *dromenon*. We cannot here examine all these ritual
-forms in detail; <span id="fr_34"></span>[1](#fn_34) one, however, the
+forms in detail; <span id="fr_34"></span>[1](#fn_34.md) one, however, the
 chorus, strangest and most beautiful of all, it is essential we should
 understand.
 
@@ -133,7 +133,7 @@ The orchestra on which the Dithyramb was danced was just a circular
 dancing-place beaten flat for the convenience of the dancers, and
 sometimes edged by a stone basement to mark the circle. This circular
 orchestra is very well seen in the theatre of Epidaurus, of which a
-sketch is given in [Fig. 1](#img_fig01). The orchestra here is
+sketch is given in [Fig. 1](#img_fig01.md). The orchestra here is
 surrounded by a splendid *theatron*, or spectator place, with seats
 rising tier above tier. If we want to realize the primitive Greek
 orchestra or dancing-place, we must think these stone seats away.
@@ -147,7 +147,7 @@ Threshing-floors are used in Greece to-day as
 
 [![Fig. 1. Theatre of Epidaurus. Showing Circular
 Orchestra](tn/fig01.jpg)  
-Click to enlarge](img/fig01.jpg)  
+Click to enlarge](img/fig01.jpg.md)  
 Fig. 1. Theatre of Epidaurus. Showing Circular Orchestra  
 
  
@@ -240,7 +240,7 @@ a spectator.
 
 I borrow, by his kind permission, a beautiful instance of what he well
 calls "Psychical Distance" from the writings of a psychologist. <span
-id="fr_35"></span>[1](#fn_35)
+id="fr_35"></span>[1](#fn_35.md)
 
 "Imagine a fog at sea: for most people it is an experience of acute
 unpleasantness. Apart from the physical annoyance and remoter forms of
@@ -545,8 +545,8 @@ of the dancing-place is cut clean across. As the drama and the stage
 wax, the *dromenon* and the orchestra wane.
 
 This shift in the relation of dancing-place and stage is very clearly
-seen in [Fig. 2](#img_fig02), a plan of the Dionysiac theatre at Athens
-([p. 144](#page_144)). The old circular orchestra shows the dominance of
+seen in [Fig. 2](#img_fig02.md), a plan of the Dionysiac theatre at Athens
+([p. 144](#page_144).md). The old circular orchestra shows the dominance of
 ritual; the new curtailed orchestra of Roman times and semicircular
 shape shows the dominance of the spectacle.
 
@@ -565,7 +565,7 @@ put on their
 <span id="img_fig02"></span>
 
 [![Dionysiac Theatre at Athens](tn/fig02.jpg)  
-Click to enlarge](img/fig02.jpg)  
+Click to enlarge](img/fig02.jpg.md)  
 Dionysiac Theatre at Athens  
 
  
@@ -620,10 +620,10 @@ Let us look first, then, at what Peisistratos found.
 
 The April festival of Dionysos at which the great dramas were performed
 was not the earliest festival of the god. Thucydides <span
-id="fr_36"></span>[1](#fn_36) expressly tells us that on the 12th day of
+id="fr_36"></span>[1](#fn_36.md) expressly tells us that on the 12th day of
 the month Anthesterion, that is in the quite early spring, at the turn
 of our February and March, were celebrated *the more ancient Dionysia*.
-It was a three-days' festival. <span id="fr_37"></span>[2](#fn_37) On
+It was a three-days' festival. <span id="fr_37"></span>[2](#fn_37.md) On
 the first day, called "Cask-opening," the jars of new wine were
 broached. Among the Bœotians the day was called not the day of Dionysos,
 but the day of the Good or Wealthy Daimon. The next day was called the
@@ -700,7 +700,7 @@ dancing-place, near to a very primitive sanctuary of Dionysos which was
 opened only once in the year, at the Feast of Cups. Just outside the
 gates was celebrated yet another festival of Dionysos equally primitive,
 called the "Dionysia in the Fields." It had the form though not the date
-of our May Day festival. Plutarch <span id="fr_38"></span>[1](#fn_38)
+of our May Day festival. Plutarch <span id="fr_38"></span>[1](#fn_38.md)
 thus laments over the "good old times": "In ancient days," he says, "our
 fathers used to keep the feast of Dionysos in homely, jovial fashion.
 There was a procession, a jar of wine and a *branch*; then some one
@@ -736,7 +736,7 @@ now stands, and consecrated to the god a new and more splendid precinct.
 He did not build the present theatre, we must always remember that. The
 rows of stone seats, the chief priest's splendid marble chair, were not
 erected till two centuries later. What Peisistratos did was to build a
-small stone temple (see [Fig. 2](#img_fig02)), and a great round
+small stone temple (see [Fig. 2](#img_fig02).md), and a great round
 orchestra of stone close beside it. Small fragments of the circular
 foundation can still be seen. The spectators sat on the hill-side or on
 wooden seats; there was as yet no permanent *theātron* or
@@ -780,7 +780,7 @@ democracy. Peisistratos left the Dionysia "in the fields," but he added
 the Great Dionysia "in the city."
 
 Peisistratos was not the only tyrant who concerned himself with the
-*dromena* of Dionysos. Herodotos <span id="fr_39"></span>[1](#fn_39)
+*dromena* of Dionysos. Herodotos <span id="fr_39"></span>[1](#fn_39.md)
 tells the story of another tyrant, a story which is like a window
 opening suddenly on a dark room. At Sicyon, a town near Corinth, there
 was in the *agora* a *heroon*, a hero-tomb, of an Argive hero, Adrastos.
@@ -809,7 +809,7 @@ was not so very unlike a local *dæmon*, a Spring or Winter spirit. We
 have seen in the Anthesteria how the paternal ghosts are expected to
 look after the seeds in spring. The more important the ghost the more
 incumbent is this duty upon him. *Noblesse oblige*. On the river
-Olynthiakos <span id="fr_40"></span>[1](#fn_40) in Northern Greece stood
+Olynthiakos <span id="fr_40"></span>[1](#fn_40.md) in Northern Greece stood
 the tomb of the hero Olynthos, who gave the river its name. In the
 spring months of Anthesterion and Elaphebolion the river rises and an
 immense shoal of fish pass from the lake of Bolbe to the river of
@@ -941,7 +941,7 @@ Homeric heroes.
 
 In a word, the heroic spirit, as seen in heroic poetry, is the outcome
 of a society cut loose from its roots, of a time of migrations, of the
-shifting of populations. <span id="fr_41"></span>[1](#fn_41) But more is
+shifting of populations. <span id="fr_41"></span>[1](#fn_41.md) But more is
 needed, and just this something more the age that gave birth to Homer
 had. We know now that before the northern people whom we call Greeks,
 and who called themselves Hellenes, came down into Greece, there had
@@ -1121,27 +1121,27 @@ which she sprang.
 
 ### Footnotes
 
-<span id="fn_34"></span>[122:1](aar07.htm#fr_34) See Bibliography at end
+<span id="fn_34"></span>[122:1](aar07.htm#fr_34.md) See Bibliography at end
 for Professor Murray's examination.
 
-<span id="fn_35"></span>[129:1](aar07.htm#fr_35) Mr. Edward Bullough,
+<span id="fn_35"></span>[129:1](aar07.htm#fr_35.md) Mr. Edward Bullough,
 *The British Journal of Psychology* (1912), p. 88.
 
-<span id="fn_36"></span>[147:1](aar07.htm#fr_36) II, 15.
+<span id="fn_36"></span>[147:1](aar07.htm#fr_36.md) II, 15.
 
-<span id="fn_37"></span>[147:2](aar07.htm#fr_37) See my *Themis*, p.
+<span id="fn_37"></span>[147:2](aar07.htm#fr_37.md) See my *Themis*, p.
 289, and *Prolegomena*, p. 35.
 
-<span id="fn_38"></span>[150:1](aar07.htm#fr_38) De Cupid. div. 8.
+<span id="fn_38"></span>[150:1](aar07.htm#fr_38.md) De Cupid. div. 8.
 
-<span id="fn_39"></span>[154:1](aar07.htm#fr_39) V, 66.
+<span id="fn_39"></span>[154:1](aar07.htm#fr_39.md) V, 66.
 
-<span id="fn_40"></span>[155:1](aar07.htm#fr_40) *Aiken*. VIII, ii, 334
+<span id="fn_40"></span>[155:1](aar07.htm#fr_40.md) *Aiken*. VIII, ii, 334
 f. See my *Prolegomena*, p. 54.
 
-<span id="fn_41"></span>[161:1](aar07.htm#fr_41) Thanks to Mr. H. M.
+<span id="fn_41"></span>[161:1](aar07.htm#fr_41.md) Thanks to Mr. H. M.
 Chadwick's *Heroic Age* (1912).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Greek Sculpture](aar08)
+[Next: Chapter VI. Greek Sculpture](aar08.md)

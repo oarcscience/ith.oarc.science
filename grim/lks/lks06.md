@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks05)  [Next](lks07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks05)  [Next](lks07.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Jupiter (Tin); Knights' in Saturn (Lead) Presidents' in Mercury
 (Mercury); Earls' in Venus (Copper), and Luna (Silver), alike equal,
 etc. THESE 72 Kings be under the Power of AMAYMON, CORSON, ZIMIMAY or
 ZIMINAIR, and GÖAP, who are the Four Great Kings ruling in the Four
-Quarters, or Cardinal Points, <span id="fr_29"></span>[1](#fn_29) viz.:
+Quarters, or Cardinal Points, <span id="fr_29"></span>[1](#fn_29.md) viz.:
 East, West, North, and South, and are not
 
 <span id="page_47">p. 47</span>
@@ -38,11 +38,11 @@ etc.
 
 ### Footnotes
 
-<span id="fn_29"></span>[46:1](lks06.htm#fr_29) These four Great Kings
+<span id="fn_29"></span>[46:1](lks06.htm#fr_29.md) These four Great Kings
 are usually called Oriens, or Uriens, Paymon or Paymonia, Ariton or
 Egyn, and Amaymon or Amaimon. By the Rabbins they are frequently
 entitled: Samael, Azazel, Azäel, and Mahazael.
 
 ------------------------------------------------------------------------
 
-[Next: Classified List of the 72 Chief Spirits](lks07)
+[Next: Classified List of the 72 Chief Spirits](lks07.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly54)  [Next](lly56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly54)  [Next](lly56.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ their
 
 <span id="img_11400"></span> [![FROM ARTIST'S POINT&lt;BR&gt;
 &lt;I&gt;Photo--H. C. Tibbitts&lt;/I&gt;](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)  
+Click to enlarge](img/11400.jpg.md)  
 FROM ARTIST'S POINT  
 *Photo--H. C. Tibbitts*  
 
@@ -63,4 +63,4 @@ the whites.
 
 ------------------------------------------------------------------------
 
-[Next: Hand Game](lly56)
+[Next: Hand Game](lly56.md)

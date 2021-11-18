@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat67)  [Next](jat69) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat67)  [Next](jat69.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ TseLãye, "stones many".
 
 ------------------------------------------------------------------------
 
-[Next: 67. Hunting Elk](jat69)
+[Next: 67. Hunting Elk](jat69.md)

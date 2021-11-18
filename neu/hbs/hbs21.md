@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs20) [Next](hbs22)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs20) [Next](hbs22.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Milosh sang, and the vila again unto him sang.
 The better voice had Milosh, and angrily she sprang  
 Away to the mountain Miroch; with two white arrows she smote  
 Voývoda Milosh through the heart and likewise in the throat.<span
-id="page_121_fr_1"></span>[1](#page_121_note_1)  
+id="page_121_fr_1"></span>[1](#page_121_note_1.md)  
 
 |               |                                            |
 |---------------|--------------------------------------------|
@@ -106,7 +106,7 @@ And hardly out of them at last alive I got away.”
 
 ------------------------------------------------------------------------
 
-[Next](hbs22)
+[Next](hbs22.md)
 
 ------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ And hardly out of them at last alive I got away.”
 
 <span id="footnotes_page_121">p. 121</span>
 
-<span id="page_121_note_1"></span>[1](#page_121_fr_1) “They must have
+<span id="page_121_note_1"></span>[1](#page_121_fr_1.md) “They must have
 had a singing contest before this, and the vila have forbidden him to
 sing because his voice was better than hers.” (Note by Karájich.)
 

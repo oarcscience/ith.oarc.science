@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht09)  [Next](cht11) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht09)  [Next](cht11.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ weather.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Ênts!X](cht11)
+[Next: 8. Ênts!X](cht11.md)

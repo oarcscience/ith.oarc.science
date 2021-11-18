@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv24)  [Next](rsv26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv24)  [Next](rsv26.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ attitudes. Who's right? Maybe both; maybe neither! But it's Vietnam!
 
 ------------------------------------------------------------------------
 
-[Next: Rearing Vietnamese Children](rsv26)
+[Next: Rearing Vietnamese Children](rsv26.md)

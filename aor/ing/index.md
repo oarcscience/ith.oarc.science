@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Age of Reason](../index)
+[Intangible Textual Heritage](../../index)  [Age of Reason](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -11,5 +11,5 @@ of his complete works, published in 1900.
 
 ------------------------------------------------------------------------
 
-[Volume I: Lectures](vol01/index)  
-[Volume II: Lectures](vol02/index)  
+[Volume I: Lectures](vol01/index.md)  
+[Volume II: Lectures](vol02/index.md)  

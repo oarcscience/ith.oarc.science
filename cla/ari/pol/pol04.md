@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](pol03)  [Next](pol05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](pol03)  [Next](pol05.md) 
 
 ------------------------------------------------------------------------
 
@@ -1148,4 +1148,4 @@ constitutional.
 
 ------------------------------------------------------------------------
 
-[Next: Book V](pol05)
+[Next: Book V](pol05.md)

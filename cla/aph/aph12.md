@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph11)  [Next](aph13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph11)  [Next](aph13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ peopled itself with unknown
 <span id="page_101">p. 101</span>
 
 <span id="img_10100"></span> <span align="CENTER"> [![](tn/10100.jpg)  
-Click to enlarge](img/10100.jpg)</span>
+Click to enlarge](img/10100.jpg.md)</span>
 
 <span id="page_102">p. 102</span> <span id="page_103">p. 103</span>
 
@@ -186,4 +186,4 @@ The two golden doors opened heavily. Then the procession entered.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five. The Invitation](aph13)
+[Next: Chapter Five. The Invitation](aph13.md)

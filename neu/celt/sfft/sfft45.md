@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft44)  [Next](sfft46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft44)  [Next](sfft46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE FAIRY AND THE BIBLE-READER. <span id="fr_66"></span>[1](#fn_66)
+### THE FAIRY AND THE BIBLE-READER. <span id="fr_66"></span>[1](#fn_66.md)
 
 ON a still Sabbath evening in summer, an old man was seated, reading his
 Bible in the open air, at a quiet spot upon the Ross-shire coast. A
@@ -31,9 +31,9 @@ above her head, and with a shriek plunged into the sea.
 
 ### Footnotes
 
-<span id="fn_66"></span>[144:1](sfft45.htm#fr_66) Campbell, *Popular
+<span id="fn_66"></span>[144:1](sfft45.htm#fr_66.md) Campbell, *Popular
 Tales of the West Highlands*.
 
 ------------------------------------------------------------------------
 
-[Next: Thom and Willie](sfft46)
+[Next: Thom and Willie](sfft46.md)

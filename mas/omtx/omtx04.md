@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx03)  [Next](omtx05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx03)  [Next](omtx05.md) 
 
 ------------------------------------------------------------------------
 
@@ -392,4 +392,4 @@ ancient and honorable institution.
 
 ------------------------------------------------------------------------
 
-[Next: Fellow-Craft's Degree](omtx05)
+[Next: Fellow-Craft's Degree](omtx05.md)

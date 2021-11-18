@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](pro)  [Next](sol) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](pro)  [Next](sol.md) 
 
 ------------------------------------------------------------------------
 
@@ -829,4 +829,4 @@ kjo është tërësia e njeriut".
 
 ------------------------------------------------------------------------
 
-[Next: Song of Solomon](sol)
+[Next: Song of Solomon](sol.md)

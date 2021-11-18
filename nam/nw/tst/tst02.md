@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](tst01)  [Next](tst03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](tst01)  [Next](tst03.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_71">p. 71</span>
 
-# 1. The Story of Asdi-wâ'l; <span id="fr_3"></span>[1](#fn_3)
+# 1. The Story of Asdi-wâ'l; <span id="fr_3"></span>[1](#fn_3.md)
 
 ### or, The Meeting on the Ice.
 
@@ -1205,7 +1205,7 @@ his child. He was alone in his canoe. He steered for a town
 G\*<u>î</u>nad<u>â</u>'<sup>0</sup>s; that was where he staid for a
 while. There he made again a great potlatch. Then he took again a
 chief's name. Stone-Slinger (Da-huk-dz'an) <span
-id="fr_4"></span>[1](#fn_4) was his new name.
+id="fr_4"></span>[1](#fn_4.md) was his new name.
 
 After he had given his potlatch, his eldest son by his first wife came.
 He was a young man and a very great hunter. He asked for the bow and the
@@ -1245,13 +1245,13 @@ and his dog and his lance are stone. This is the end.
 
 ### Footnotes
 
-<span id="fn_3"></span>[71:1](tst02.htm#fr_3) This name is also
+<span id="fn_3"></span>[71:1](tst02.htm#fr_3.md) This name is also
 pronounced Asi-wâ'l.
 
-<span id="fn_4"></span>[143:1](tst02.htm#fr_4) Compare Hu<u>x</u>-dzâ'n
+<span id="fn_4"></span>[143:1](tst02.htm#fr_4.md) Compare Hu<u>x</u>-dzâ'n
 ("Evening sky") in the N<u>î</u>sqa'<sup>0</sup> dialect (Boas,
 Tsimshian Texts, Bulletin 27, Bureau of American Ethnology, p. 193)
 
 ------------------------------------------------------------------------
 
-[Next: 2. Story of GunaxnêsEmg\*a'd.](tst03)
+[Next: 2. Story of GunaxnêsEmg\*a'd.](tst03.md)

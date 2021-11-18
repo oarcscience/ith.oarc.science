@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo18)  [Next](aoo20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo18)  [Next](aoo20.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ wept for great Hector who had protected their city.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX](aoo20)
+[Next: Chapter XX](aoo20.md)

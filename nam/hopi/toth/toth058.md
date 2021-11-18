@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth057)  [Next](toth059) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth057)  [Next](toth059.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 55. THE ROOSTER, THE MOCKING-BIRD AND THE MAIDEN. <span id="fr_123"></span>[1](#fn_121)
+## 55. THE ROOSTER, THE MOCKING-BIRD AND THE MAIDEN. <span id="fr_123"></span>[1](#fn_121.md)
 
 Halíksai! In Oraíbi they were living. At the place where now Pongñámana
 lives, lived a Rooster. Somewhat south of Lâ'nangva, among the
@@ -186,9 +186,9 @@ and not talk so much.
 
 ### Footnotes
 
-<span id="fn_121"></span>[176:1](toth058.htm#fr_123) Told by Kiwánhongva
+<span id="fn_121"></span>[176:1](toth058.htm#fr_123.md) Told by Kiwánhongva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 56. The Toad and the Snow Katcínas](toth059)
+[Next: 56. The Toad and the Snow Katcínas](toth059.md)

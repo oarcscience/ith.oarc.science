@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas013n)  [Next](jas015n)   
- \[[14. New Names.](jas014)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas013n)  [Next](jas015n.md)   
+ \[[14. New Names.](jas014.md)\]
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ to number 69.
 
 ------------------------------------------------------------------------
 
-[Next: Note 15. Long Shirt.](jas015n)
+[Next: Note 15. Long Shirt.](jas015n.md)

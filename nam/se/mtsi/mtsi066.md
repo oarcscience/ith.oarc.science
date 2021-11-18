@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi065)  [Next](mtsi067) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi065)  [Next](mtsi067.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ to the Master on the end of the stick.
 Next the Master said, "There is an Alligator over yonder in the lake.
 Bring him to me and I will give you knowledge." So Rabbit went to the
 lake and called out, "Halpata hadjo, halpata hadjo." <span
-id="fr_10"></span>[1](#fn_10)The Alligator came up in the middle of the
+id="fr_10"></span>[1](#fn_10.md)The Alligator came up in the middle of the
 lake and poked his head above the water. "What's the matter?" he said.
 "An ox has been killed for the Master and they want you to come and get
 timbers for
@@ -74,9 +74,9 @@ The end.
 
 ### Footnotes
 
-<span id="fn_10"></span>[58:1](mtsi066.htm#fr_10) "Alligator hadjo" is
+<span id="fn_10"></span>[58:1](mtsi066.htm#fr_10.md) "Alligator hadjo" is
 an honorary name bestowed on the reptile.
 
 ------------------------------------------------------------------------
 
-[Next: 65. The Tasks of Rabbit (Second Version)](mtsi067)
+[Next: 65. The Tasks of Rabbit (Second Version)](mtsi067.md)

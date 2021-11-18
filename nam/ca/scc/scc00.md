@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Next](scc01) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Next](scc01.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ American](../../index)  [Native California](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Contents.](scc01)
+[Next: Contents.](scc01.md)

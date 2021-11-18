@@ -1,5 +1,5 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [Previous](../tgv/tgv)  [Next](../toa/toa) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [Previous](../tgv/tgv)  [Next](../toa/toa.md) 
 
 ------------------------------------------------------------------------
 
@@ -6162,4 +6162,4 @@ Index](../index)  [Previous](../tgv/tgv)  [Next](../toa/toa) 
 
 ------------------------------------------------------------------------
 
-[Next: Timon of Athens](../toa/toa) 
+[Next: Timon of Athens](../toa/toa.md) 

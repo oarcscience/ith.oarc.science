@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh21) 
-[Next](iggh23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh21.md) 
+[Next](iggh23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -49,7 +49,7 @@ order, she will get worse and worse. Therefore we must look to it
 without loss of time.
 
 Thereupon they all came in a body to me <span
-id="fr_38"></span>[f](#fn_38). But I said to them: This is not my
+id="fr_38"></span>[f](#fn_38.md). But I said to them: This is not my
 affair. Go to Náráyana, if you have any complaint to make against <span
 class="smallcaps">Water-lily</span>. For to punish the wife is the duty
 of none but the husband. And I sent
@@ -86,7 +86,7 @@ of space: and the universe echoed to its tone like a lute whose strings
 tremble at the touch of the wind. And as that ubiquitous murmur sank and
 died away into a hush, the sea began to bubble and foam, and suddenly
 the goddess of beauty rose up out of the lather of its waves for the
-second time <span id="fr_39"></span>[g](#fn_39). And she stood with her
+second time <span id="fr_39"></span>[g](#fn_39.md). And she stood with her
 little feet resting on the back of a tortoise, and the sea water
 dropping from her limbs that seemed to sparkle with the beauty of its
 salt. And her neck resembled a shell, and on the pearl of its surface
@@ -137,11 +137,11 @@ alone together in the darkness on the bosom of the sea.
 
 ### Footnotes
 
-<span id="fn_38"></span>[76:f](iggh22.htm#fr_38) sc. Maheshwara.
+<span id="fn_38"></span>[76:f](iggh22.htm#fr_38.md) sc. Maheshwara.
 
-<span id="fn_39"></span>[78:g](iggh22.htm#fr_39) The first time was when
+<span id="fn_39"></span>[78:g](iggh22.htm#fr_39.md) The first time was when
 she was born, at the churning of ocean.
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](iggh23)
+[Next: Epilogue](iggh23.md)

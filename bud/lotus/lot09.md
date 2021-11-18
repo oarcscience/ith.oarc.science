@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot08)  [Next](lot10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot08)  [Next](lot10.md) 
 
 ------------------------------------------------------------------------
 
@@ -196,4 +196,4 @@ that prediction.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10](lot10)
+[Next: Chapter 10](lot10.md)

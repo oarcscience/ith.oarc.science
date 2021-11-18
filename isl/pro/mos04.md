@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos03)  [Next](mos05) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos03)  [Next](mos05.md) 
 
 ------------------------------------------------------------------------
 
@@ -183,4 +183,4 @@ mentioned in a lot of versions of this story.
 
 ------------------------------------------------------------------------
 
-[Next: Moses' Stick and Its Deeds](mos05)
+[Next: Moses' Stick and Its Deeds](mos05.md)

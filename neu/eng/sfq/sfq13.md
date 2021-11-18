@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq12)  [Next](sfq14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq12)  [Next](sfq14.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ learn from Una faith and true religion.
 
 ------------------------------------------------------------------------
 
-[Next: The False Pilgrim](sfq14)
+[Next: The False Pilgrim](sfq14.md)

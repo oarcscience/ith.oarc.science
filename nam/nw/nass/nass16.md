@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass15)  [Next](nass17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass15)  [Next](nass17.md) 
 
 ------------------------------------------------------------------------
 
@@ -291,4 +291,4 @@ became a great chief. His name was Little-eagle.
 
 ------------------------------------------------------------------------
 
-[Next: She-Who-Has-A-Labret-On-One-Side](nass17)
+[Next: She-Who-Has-A-Labret-On-One-Side](nass17.md)

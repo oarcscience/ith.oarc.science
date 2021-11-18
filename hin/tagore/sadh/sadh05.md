@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index)  [Index](index)  [Previous](sadh04)  [Next](sadh06) 
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index)  [Index](index)  [Previous](sadh04)  [Next](sadh06.md) 
 
 ------------------------------------------------------------------------
 
@@ -421,4 +421,4 @@ as a revelation of supreme joy.
 
 ------------------------------------------------------------------------
 
-[Next: IV: The Problem of Self](sadh06)
+[Next: IV: The Problem of Self](sadh06.md)

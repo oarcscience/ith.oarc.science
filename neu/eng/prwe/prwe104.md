@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe103)  [Next](prwe105) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe103)  [Next](prwe105.md) 
 
 ------------------------------------------------------------------------
 
@@ -296,4 +296,4 @@ much respected, but had his eccentricities."
 
 ------------------------------------------------------------------------
 
-[Next: Sir Francis Drake and his Demon](prwe105)
+[Next: Sir Francis Drake and his Demon](prwe105.md)

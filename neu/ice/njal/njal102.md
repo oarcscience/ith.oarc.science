@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal101)  [Next](njal103) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal101)  [Next](njal103.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,4 +193,4 @@ each other great gifts; and so it goes on for a long while.
 
 ------------------------------------------------------------------------
 
-[Next: 103. The Slaying Of Hauskuld Njal's Son](njal103)
+[Next: 103. The Slaying Of Hauskuld Njal's Son](njal103.md)

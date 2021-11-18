@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml06)  [Next](iml08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml06)  [Next](iml08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,19 +49,19 @@ several myths had gathered round the fascinating and wonderful fire god.
 One hymn refers to him as a child whose birth was kept a secret; his
 mother, the queen, concealed him from his sire; he was born in full
 vigour as a youth, and was seen sharpening his weapons at a distance
-from his home which he had forsaken. <span id="fr_66"></span>[1](#fn_65)
+from his home which he had forsaken. <span id="fr_66"></span>[1](#fn_65.md)
 Sometimes he is said to have devoured his parents at birth: this seems
 to signify that he consumed the fire sticks from which holy fire was
 produced by friction. Another hymn says that "Heaven and Earth (Dyaus
 and Prithivi) fled away in fear of (the incarnation of) Twashtri when he
 was born, but they returned to embrace the lion". <span
-id="fr_67"></span>[2](#fn_66)
+id="fr_67"></span>[2](#fn_66.md)
 
 Agni was also given ten mothers who were "twice five sisters", <span
-id="fr_68"></span>[3](#fn_67) but the reference is clearly explained in
+id="fr_68"></span>[3](#fn_67.md) but the reference is clearly explained in
 another passage: "The ten fingers have given him birth, the ancient,
 well-loved Agni, well born of his mothers". <span
-id="fr_69"></span>[4](#fn_68)
+id="fr_69"></span>[4](#fn_68.md)
 
 Dawn, with its darkness-consuming fires, and starry Night, are the
 sisters of Agni; "they celebrate his three births, one in the sea, one
@@ -74,7 +74,7 @@ Who among you hath understood the hidden (god)?
 
 Professor Oldenberg, who suggests that the waters are the "mothers",
 reasons in Oriental mode: "Smoke is Agni, it goes to the clouds, the
-clouds become waters". <span id="fr_70"></span>[5](#fn_69)
+clouds become waters". <span id="fr_70"></span>[5](#fn_69.md)
 
 In his early humanized form Agni bears some resemblance to Heimdal, the
 Teutonic sentinel god, who has
@@ -86,7 +86,7 @@ Teutonic sentinel god, who has
 [![AGNI, THE FIRE GOD&lt;br&gt; &lt;i&gt;From a painting by Nanda Lall
 Bose&lt;/i&gt;&lt;br&gt; (By permission of the Indian Society of
 Oriental Art, Calcutta)](tn/02000.jpg)  
-Click to enlarge](img/02000.jpg)  
+Click to enlarge](img/02000.jpg.md)  
 AGNI, THE FIRE GOD  
 *From a painting by Nanda Lall Bose*  
 (By permission of the Indian Society of Oriental Art, Calcutta)  
@@ -108,20 +108,20 @@ and was named Scef. Scef is identified as the patriarch Scyld in
 tribe. Mankind were descended from Heimdal-Scef: three sons were born to
 him of human mothers--Thrall, from whom thralls are descended; Churl,
 the sire of freemen, and Jarl from whom nobles have sprung. <span
-id="fr_71"></span>[1](#fn_70)
+id="fr_71"></span>[1](#fn_70.md)
 
 In *Mahabharata* there is a fragment of an old legend which relates the
 origin of Karna, the son of Queen Pritha and the sun god: the birth of
 the child is concealed, and he is placed in a basket which is set afloat
 on the river and is carried to a distant country. <span
-id="fr_72"></span>[2](#fn_71)
+id="fr_72"></span>[2](#fn_71.md)
 
 One of the Vedic references to Agni, as we have seen, suggests an origin
 similar to Karna of the epic period. He was connected with the
 introduction of agriculture like the Teutonic Scef, which signifies
 "Sheaf". Agni is stated to have been "carried in the waters. . . . The
 great one has grown up in the wide unbounded space. The waters (have
-made) Agni (grow)". <span id="fr_73"></span>[3](#fn_72) Agni is "sharp
+made) Agni (grow)". <span id="fr_73"></span>[3](#fn_72.md) Agni is "sharp
 faced" (i, 95); he is "the bright, brilliant, and shining one" (iv, I.
 7); he is "gold toothed" (v, 22); he sees "even over the darkness of
 night" (i, 94. 7); he "makes
@@ -135,7 +135,7 @@ ghouls, be they near or far" (i, 94. 9). Heimdal blows a trumpet in
 battle; Agni is "roaring like a bull" (i, 94. 10).
 
 As Heimdal, in his Scef-child form, was sent to mankind by the gods,
-"Matarisvan <span id="fr_74"></span>[1](#fn_73) brought Agni to Bhrigu
+"Matarisvan <span id="fr_74"></span>[1](#fn_73.md) brought Agni to Bhrigu
 as a gift, precious like wealth, of double birth, the carrier, the
 famous, the beacon of the sacrifice, the ready, the immediately
 successful messenger. . . . The Bhrigus worshipping him in the abode of
@@ -152,7 +152,7 @@ sea, became a king over men. Agni "indeed is king, leading all beings to
 gloriousness. As soon as born from here, he looks over the whole world.
 . . . Agni, who has been looked and longed for in Heaven, who has been
 looked for on earth--he who has been looked for has entered all herbs"
-(i, 98). <span id="fr_75"></span>[2](#fn_74) To Agni's love affairs upon
+(i, 98). <span id="fr_75"></span>[2](#fn_74.md) To Agni's love affairs upon
 earth there are epic references, and in the "Vishnu Purana" he is
 mentioned as the father of three human sons.
 
@@ -176,7 +176,7 @@ which may bring glory and high bliss of valiant offspring.
 Agni, whatever sacrifice and worship thou encompassest on every side,
 that indeed goes to the gods. Thou art King of all worship. . . .
 Conduct the gods hither in an easy-moving chariot. <span
-id="fr_76"></span>[1](#fn_75)
+id="fr_76"></span>[1](#fn_75.md)
 
 Like Indra, Agni was a heavy consumer of Soma; his intensely human side
 is not lost in mystic Vedic poetry.
@@ -225,7 +225,7 @@ of the Watlings or Vaetlings; in old English the Milky Way was "Watling
 Street". Comparisons have also been drawn with the wind god Odin--the
 Anglo-Saxon Woden, and ancient German Wuotan (pronounced Vuotan). "The
 etymological connection in this view", writes a critic, "is not free
-from difficulty." <span id="fr_77"></span>[1](#fn_76)
+from difficulty." <span id="fr_77"></span>[1](#fn_76.md)
 
 <span id="page_25">p. 25</span>
 
@@ -264,7 +264,7 @@ All day he races on; he never falters;
 He is the firstborn and the friend of Ocean--  
 Whence did he issue forth? Where is his birthplace?
 
-He is the breath <span id="fr_78"></span>[1](#fn_77) of gods: all life
+He is the breath <span id="fr_78"></span>[1](#fn_77.md) of gods: all life
 is Vata:  
 He cometh, yea, he goeth as he listeth:  
 His voice is heard; his form is unbeholden--  
@@ -308,10 +308,10 @@ brightness, and the stars which appear in the nightly sky,
 <span id="img_02600"></span>
 
 [![SHIVA'S DANCE OF DESTRUCTION, ELLORA](tn/02600.jpg)  
-Click to enlarge](img/02600.jpg)  
+Click to enlarge](img/02600.jpg.md)  
 SHIVA'S DANCE OF DESTRUCTION, ELLORA  
 
-(see pages [147](iml13.htm#page_147)-8)
+(see pages [147](iml13.htm#page_147)-8.md)
 
  
 
@@ -322,7 +322,7 @@ sleepless flow, cannot attain a knowledge of his flower and wrath. But
 he knows the flight of the birds in the sky, the course of the
 far-travelling wind, the paths of ships on the ocean, and beholds all
 secret things that have been or shall be done. He witnesses men's truth
-and falsehood." <span id="fr_79"></span>[1](#fn_78)
+and falsehood." <span id="fr_79"></span>[1](#fn_78.md)
 
 He is the Omniscient One. Man prayed to him for forgiveness for sin, and
 to be spared from the consequences of evil-doing:
@@ -336,7 +336,7 @@ That we as men commit against the heavenly folk,
 When through our want of thought we violate thy laws,  
 Chastise us not, O god, for that iniquity.  
                                           *Rigveda*, vii, 89. <span
-id="fr_80"></span>[2](#fn_79)
+id="fr_80"></span>[2](#fn_79.md)
 
                    His messengers descend  
 Countless from his abode--for ever traversing  
@@ -346,7 +346,7 @@ Yea, all that is beyond, King Varuna perceives. . . .
 May thy destroying snares, cast sevenfold round the wicked,  
 Entangle liars, but the truthful spare, O King!  
                                             *Rigveda*, iv, 16. <span
-id="fr_81"></span>[3](#fn_80)
+id="fr_81"></span>[3](#fn_80.md)
 
 In contrast to the devotional spirit pervading the Varuna hymns is the
 attitude adopted by Indra's worshippers; the following prayer to the god
@@ -393,7 +393,7 @@ to enter his own
 service instead. We may justly infer from all these circumstances that
 the worship of the 'celestials' occupied at one time in the history of
 the race a position of greater importance than its place in the
-*Rigveda* directly suggests." <span id="fr_82"></span>[1](#fn_81)
+*Rigveda* directly suggests." <span id="fr_82"></span>[1](#fn_81.md)
 
 The following extracts from a Mitra-Varuna hymn indicate the attitude of
 the early priests towards the "Celestial deities":--
@@ -417,12 +417,12 @@ Semitic name of the sun god is Samas (Shamash), the Sumerian name is
 Utu; among other non-Semitic names was Mitra, "apparently the Persian
 Mithra". The bright deity also "bears the names of his attendants
 'Truth' and 'Righteousness', who guided him upon his path as judge of
-the earth". <span id="fr_83"></span>[2](#fn_82)
+the earth". <span id="fr_83"></span>[2](#fn_82.md)
 
 It may be that the Indian Mitra was originally a sun god; the religion
 of the sun god Mithra spread into Europe. "Dedications to Mithra the
 Unconquered Sun have been found in abundance." <span
-id="fr_84"></span>[3](#fn_83) Vedic references suggest that Mitra had
+id="fr_84"></span>[3](#fn_83.md) Vedic references suggest that Mitra had
 become a complex god in the pre-Vedic
 
 <span id="page_30">p. 30</span>
@@ -440,7 +440,7 @@ exercised by their cult remained and left its impress upon later Aryan
 religious thought.
 
 The Assyrian word "metru" signifies rain. <span
-id="fr_85"></span>[1](#fn_84) The quickening rain which caused the
+id="fr_85"></span>[1](#fn_84.md) The quickening rain which caused the
 growth of vegetation was, of course, one of the gifts of the Celestials
 of the firmament. It is of interest to note, therefore, in this
 connection that Professor Frazer includes the western Mithra among the
@@ -449,7 +449,7 @@ Mithra as the sacrificer of the harvest bull offering, he says: "On
 certain of these monuments the tail of the bull ends in three stalks of
 corn, and in one of them cornstalks instead of blood are seen issuing
 from the wound inflicted by the knife". <span
-id="fr_86"></span>[2](#fn_85)
+id="fr_86"></span>[2](#fn_85.md)
 
 Commenting on the Assyrian "metru" Professor Moulton says: "If this is
 his (Mithra's) origin, we get a reasonable basis for the Avestan (Early
@@ -515,7 +515,7 @@ Adityas.
 Savitri, who had yellow hair, was of pre-Vedic origin. He was the
 "Stimulator". When he commanded Night to approach, men ceased their
 labours, birds sought their nests, and cattle their sheds. <span
-id="fr_87"></span>[1](#fn_86)
+id="fr_87"></span>[1](#fn_86.md)
 
 During the long centuries covered by the Vedic period many "schools of
 thought" must have struggled for supremacy. The Vivasvat myth belongs,
@@ -534,7 +534,7 @@ partake of divine nature.
 
 [![SURYA IN HIS CHARIOT&lt;br&gt; &lt;i&gt;From the Kailasa Temple,
 Ellora&lt;/i&gt;.](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)  
+Click to enlarge](img/03200.jpg.md)  
 SURYA IN HIS CHARIOT  
 *From the Kailasa Temple, Ellora*.  
 
@@ -554,7 +554,7 @@ the rising sun. It runs:--
 
 Let us meditate on that excellent glory of the divine Vivifier,  
 May he enlighten (or stimulate) our understandings. <span
-id="fr_88"></span>[1](#fn_87)
+id="fr_88"></span>[1](#fn_87.md)
 
 The feeling for Nature pervades the ancient religion and literature of
 India. Priests were poets and singers in early Vedic times. A Rishi was
@@ -600,7 +600,7 @@ Causing the birds to flutter from their nests,
 And rousing men to ply with busy feet  
 Their daily duties and appointed tasks,  
 Toiling for wealth, or pleasure, or renown. <span
-id="fr_89"></span>[1](#fn_88)
+id="fr_89"></span>[1](#fn_88.md)
 
 The Vedic poets "looked before and after". One sang:
 
@@ -627,7 +627,7 @@ The darkness she produces; soon advancing
 She calls her sister Morning to return,  
 And then each darksome shadow melts away.  
                                         *Rigveda*, x. <span
-id="fr_90"></span>[1](#fn_89)
+id="fr_90"></span>[1](#fn_89.md)
 
 The moon is the god Chandra, who became identified with Soma. Among
 ancient peoples the moon was regarded as the source of fertility and
@@ -659,7 +659,7 @@ And cry in loud exulting strains:
   What mortal now can harm,  
     Or foeman vex us more?  
   Through thee beyond alarm,  
-    Immortal god, we soar. <span id="fr_91"></span>[1](#fn_90)
+    Immortal god, we soar. <span id="fr_91"></span>[1](#fn_90.md)
 
 "The sun", declared one of the poets, "has the nature of Agni, the moon
 of Soma." At the same time Agni was a great consumer of Soma; when it
@@ -674,7 +674,7 @@ association of Soma with the moon recalls the Germanic belief that the
 magic mead was kept for Odin, "the champion drinker", by Mani, the moon
 god, who snatched it from the mythical children who are the prototypes
 of "Jack and Jill" of the nursery rhyme. <span
-id="fr_92"></span>[2](#fn_91) Indra was the discoverer of the Soma plant
+id="fr_92"></span>[2](#fn_91.md) Indra was the discoverer of the Soma plant
 and brought it from the mountains. The Persian mead (mada) was called
 Haoma.
 
@@ -690,7 +690,7 @@ Like boys at school their teacher's words repeating. . . .
 They shout aloud like Brahmans drunk with Soma,  
 When they perform their annual devotions.  
                                            *Rigveda*, vii, 103. <span
-id="fr_93"></span>[1](#fn_92)
+id="fr_93"></span>[1](#fn_92.md)
 
 There are references in the *Rigveda* to the marriage of Soma, the moon,
 and Suryá, the maiden of the sun.
@@ -718,85 +718,85 @@ contracts signed in blood are common and widespread.
 
 ### Footnotes
 
-<span id="fn_65"></span>[20:1](iml07.htm#fr_66) *Rigveda*, v, 2.
+<span id="fn_65"></span>[20:1](iml07.htm#fr_66.md) *Rigveda*, v, 2.
 
-<span id="fn_66"></span>[20:2](iml07.htm#fr_67) *Rigveda*, i, 95.
+<span id="fn_66"></span>[20:2](iml07.htm#fr_67.md) *Rigveda*, i, 95.
 
-<span id="fn_67"></span>[20:3](iml07.htm#fr_68) *Rigveda*, iv, 6. 8.
+<span id="fn_67"></span>[20:3](iml07.htm#fr_68.md) *Rigveda*, iv, 6. 8.
 
-<span id="fn_68"></span>[20:4](iml07.htm#fr_69) *Rigveda*, 23. 3.
+<span id="fn_68"></span>[20:4](iml07.htm#fr_69.md) *Rigveda*, 23. 3.
 
-<span id="fn_69"></span>[20:5](iml07.htm#fr_70) *Rigveda*, i, 95. 4, and
+<span id="fn_69"></span>[20:5](iml07.htm#fr_70.md) *Rigveda*, i, 95. 4, and
 note, Oldenberg's *Vedic Hymns* (*Sacred Books of the East*, vol. xlvi).
 
-<span id="fn_70"></span>[21:1](iml07.htm#fr_71) *Teutonic Myth and
+<span id="fn_70"></span>[21:1](iml07.htm#fr_71.md) *Teutonic Myth and
 Legend*, pp. 16 and 187-9.
 
-<span id="fn_71"></span>[21:2](iml07.htm#fr_72) See [Chapter
-X](iml15.htm#ch10).
+<span id="fn_71"></span>[21:2](iml07.htm#fr_72.md) See [Chapter
+X](iml15.htm#ch10.md).
 
-<span id="fn_72"></span>[21:3](iml07.htm#fr_73) Oldenberg, *Rigveda*,
+<span id="fn_72"></span>[21:3](iml07.htm#fr_73.md) Oldenberg, *Rigveda*,
 iii, 1.
 
-<span id="fn_73"></span>[22:1](iml07.htm#fr_74) A demi-god.
+<span id="fn_73"></span>[22:1](iml07.htm#fr_74.md) A demi-god.
 
-<span id="fn_74"></span>[22:2](iml07.htm#fr_75) *Vedic Hymns*, trans. by
+<span id="fn_74"></span>[22:2](iml07.htm#fr_75.md) *Vedic Hymns*, trans. by
 Oldenberg. (*Sacred Books of the East*, vol. xlvi.)
 
-<span id="fn_75"></span>[23:1](iml07.htm#fr_76) *Rigveda*, i, 13 and i,
+<span id="fn_75"></span>[23:1](iml07.htm#fr_76.md) *Rigveda*, i, 13 and i,
 26 (Oldenberg).
 
-<span id="fn_76"></span>[24:1](iml07.htm#fr_77) Art. "Aryan Religion",
+<span id="fn_76"></span>[24:1](iml07.htm#fr_77.md) Art. "Aryan Religion",
 Hastings' *Ency. Rel. and Ethics*.
 
-<span id="fn_77"></span>[25:1](iml07.htm#fr_78) The air of life = the
+<span id="fn_77"></span>[25:1](iml07.htm#fr_78.md) The air of life = the
 spirit.
 
-<span id="fn_78"></span>[27:1](iml07.htm#fr_79) Muir's *Original
+<span id="fn_78"></span>[27:1](iml07.htm#fr_79.md) Muir's *Original
 Sanscrit Texts*, v, 58, ff.
 
-<span id="fn_79"></span>[27:2](iml07.htm#fr_80) Professor Macdonell's *A
+<span id="fn_79"></span>[27:2](iml07.htm#fr_80.md) Professor Macdonell's *A
 History of Sanskrit Literature*.
 
-<span id="fn_80"></span>[27:3](iml07.htm#fr_81) *Indian Wisdom*, Sir
+<span id="fn_80"></span>[27:3](iml07.htm#fr_81.md) *Indian Wisdom*, Sir
 Monier Williams.
 
-<span id="fn_81"></span>[29:1](iml07.htm#fr_82) *The Rigveda*, by
+<span id="fn_81"></span>[29:1](iml07.htm#fr_82.md) *The Rigveda*, by
 Professor E. Vernon Arnold, p. 16 (*Popular Studies in Mythology,
 Romance, and Folklore*).
 
-<span id="fn_82"></span>[29:2](iml07.htm#fr_83) *The Religion of
+<span id="fn_82"></span>[29:2](iml07.htm#fr_83.md) *The Religion of
 Babylonia and Assyria*, by Dr. T. G. Pinches, p. 68.
 
-<span id="fn_83"></span>[29:3](iml07.htm#fr_84) Frazer's "Golden Bough"
+<span id="fn_83"></span>[29:3](iml07.htm#fr_84.md) Frazer's "Golden Bough"
 (*Adonis, Attis, Osiris*, p. 255, n., third edition).
 
-<span id="fn_84"></span>[30:1](iml07.htm#fr_85) Professor H. W. Hogg, in
+<span id="fn_84"></span>[30:1](iml07.htm#fr_85.md) Professor H. W. Hogg, in
 Professor Moulton's *Early Religious Poetry of Persia*, p. 37.
 
-<span id="fn_85"></span>[30:2](iml07.htm#fr_86) "The Golden Bough"
+<span id="fn_85"></span>[30:2](iml07.htm#fr_86.md) "The Golden Bough"
 (*Spirits of the Corn and Wild*, vol. ii, p. 10).
 
-<span id="fn_86"></span>[32:1](iml07.htm#fr_87) *Rigveda*, ii, 38.
+<span id="fn_86"></span>[32:1](iml07.htm#fr_87.md) *Rigveda*, ii, 38.
 
-<span id="fn_87"></span>[33:1](iml07.htm#fr_88) *Indian Wisdom*, p. 20.
+<span id="fn_87"></span>[33:1](iml07.htm#fr_88.md) *Indian Wisdom*, p. 20.
 
-<span id="fn_88"></span>[34:1](iml07.htm#fr_89) *Indian Wisdom*, Sir
+<span id="fn_88"></span>[34:1](iml07.htm#fr_89.md) *Indian Wisdom*, Sir
 Monier Williams.
 
-<span id="fn_89"></span>[35:1](iml07.htm#fr_90) *Indian Wisdom*, Sir
+<span id="fn_89"></span>[35:1](iml07.htm#fr_90.md) *Indian Wisdom*, Sir
 Monier Williams.
 
-<span id="fn_90"></span>[36:1](iml07.htm#fr_91) Muir's *Original
+<span id="fn_90"></span>[36:1](iml07.htm#fr_91.md) Muir's *Original
 Sanskrit Texts*, v, 130.
 
-<span id="fn_91"></span>[36:2](iml07.htm#fr_92) See *Teutonic Myth and
+<span id="fn_91"></span>[36:2](iml07.htm#fr_92.md) See *Teutonic Myth and
 Legend*.
 
-<span id="fn_92"></span>[37:1](iml07.htm#fr_93) Kaegi's *Rigveda*,
+<span id="fn_92"></span>[37:1](iml07.htm#fr_93.md) Kaegi's *Rigveda*,
 Arrowsmith's translation. This was apparently a rain charm; its humour
 was as of the unconscious order, of course.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Yama, the First Man, and King of the Dead](iml08)
+[Next: Chapter III. Yama, the First Man, and King of the Dead](iml08.md)

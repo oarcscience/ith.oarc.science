@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl03)  [Next](mhl05) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl03)  [Next](mhl05.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 # MIDRASH TANHUMA
 
-The Torah <span id="fr_4"></span>[1](#fn_1) is full of holy fire; it was
+The Torah <span id="fr_4"></span>[1](#fn_1.md) is full of holy fire; it was
 written with a black fire upon a white fire.
 
 The Torah has meekness as its footgear, and the fear of God as its
@@ -667,7 +667,7 @@ non-Jew wants to borrow of you, you will perhaps say that since you are
 not permitted to take usury from your own compatriot you may take it
 from a non-Jew. Be assured that such ill-gotten gain will be taken from
 you; probably by the authorities, to erect baths or other sanitary
-buildings <span id="fr_5"></span>[2](#fn_2) for the poor or the
+buildings <span id="fr_5"></span>[2](#fn_2.md) for the poor or the
 stranger.
 
  
@@ -1194,10 +1194,10 @@ death.
 
 ### Footnotes
 
-<span id="fn_1"></span>[12:1](mhl04.htm#fr_4) The Torah means the first
+<span id="fn_1"></span>[12:1](mhl04.htm#fr_4.md) The Torah means the first
 five books of the Bible, the Law of Moses.
 
-<span id="fn_2"></span>[28:2](mhl04.htm#fr_5) It is said in the Talmud
+<span id="fn_2"></span>[28:2](mhl04.htm#fr_5.md) It is said in the Talmud
 that Chebore, King of Persia, laid his Jewish subjects under special
 tribute, and with the money thus raised he built dwellings and other
 accommodations for the poor. Hence the expression of the Midrash, "it
@@ -1206,4 +1206,4 @@ other sanitary buildings."
 
 ------------------------------------------------------------------------
 
-[Next: The Bereshith or Genesis Rabba](mhl05)
+[Next: The Bereshith or Genesis Rabba](mhl05.md)

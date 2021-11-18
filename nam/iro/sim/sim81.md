@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim80)  [Next](sim82) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim80)  [Next](sim82.md) 
 
 ------------------------------------------------------------------------
 
@@ -231,4 +231,4 @@ home in the forest, and he and his family were happy.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventures Of Gányage Gowa](sim82)
+[Next: The Adventures Of Gányage Gowa](sim82.md)

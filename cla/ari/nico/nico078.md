@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico077) 
-[Next](nico079) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico077.md) 
+[Next](nico079.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ but a process.
 ------------------------------------------------------------------------
 
 [Next: Chapter 12. Discussion of the view that pleasure is not a
-good](nico079)
+good](nico079.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc049) 
-[Next](motc051) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc049.md) 
+[Next](motc051.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ be old.
 
 ------------------------------------------------------------------------
 
-[Next: 51. Âgän-uni'tsï's Search For The Uktena](motc051)
+[Next: 51. Âgän-uni'tsï's Search For The Uktena](motc051.md)

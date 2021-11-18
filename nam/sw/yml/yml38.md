@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml37)  [Next](yml39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml37)  [Next](yml39.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ You have heard them. LC
 
 ------------------------------------------------------------------------
 
-[Next: Two Little Lambs](yml39)
+[Next: Two Little Lambs](yml39.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/toa)  [Previous](../tnk/tnk) 
-[Next](../tos/tos) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/toa)  [Previous](../tnk/tnk.md) 
+[Next](../tos/tos.md) 
 
 ------------------------------------------------------------------------
 
@@ -3984,4 +3984,4 @@ Index](../index)  [First Folio](../ff/toa)  [Previous](../tnk/tnk) 
 
 ------------------------------------------------------------------------
 
-[Next: Taming of the Shrew](../tos/tos) 
+[Next: Taming of the Shrew](../tos/tos.md) 

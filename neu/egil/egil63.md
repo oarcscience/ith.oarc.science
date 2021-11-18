@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil62)  [Next](egil64) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil62)  [Next](egil64.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,4 +204,4 @@ he met Arinbjorn. They watched for a fit time to go before the king.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXIII. Egil recites the poem.](egil64)
+[Next: CHAPTER LXIII. Egil recites the poem.](egil64.md)

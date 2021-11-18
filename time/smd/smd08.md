@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd07)  [Next](smd09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd07)  [Next](smd09.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ month.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. July--The Month of Julius Caesar](smd09)
+[Next: Chapter VII. July--The Month of Julius Caesar](smd09.md)

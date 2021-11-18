@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe142)  [Next](prwe144) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe142)  [Next](prwe144.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ Castahian fountain the divination of the future.
 
 ------------------------------------------------------------------------
 
-[Next: The Well of St Constantine](prwe144)
+[Next: The Well of St Constantine](prwe144.md)

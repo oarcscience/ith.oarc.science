@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Next](ntca01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Next](ntca01.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ AUTHORS
 
 ------------------------------------------------------------------------
 
-[Next: Preface](ntca01)
+[Next: Preface](ntca01.md)

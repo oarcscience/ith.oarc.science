@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](rac26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](rac26.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,10 +36,10 @@ Goidels in Britain at an
 
 <span id="page_363">p. 363</span>
 
-early time. <span id="fr_1231"></span>[1](#fn_1229) To this period may
+early time. <span id="fr_1231"></span>[1](#fn_1229.md) To this period may
 belong the tales of Cúchulainn's raid on Falga, carried at a later time
 to Ireland. Tír Tairngiri is also identified with the Isle of Man. <span
-id="fr_1232"></span>[2](#fn_1230)
+id="fr_1232"></span>[2](#fn_1230.md)
 
 A brief résumé of the principal Elysium tales is necessary as a
 preliminary to a discussion of the problems which they involve, though
@@ -53,7 +53,7 @@ music and its fair people, its warm streams, its choice mead and wine.
 There is eternal youth, and love is blameless. It is within Mider's
 *síd*, and Etain accompanies him there. In the sequel King Eochaid's
 Druid discovers the *síd*, which is captured by the king, who then
-regains Etain. <span id="fr_1233"></span>[3](#fn_1231) Other tales refer
+regains Etain. <span id="fr_1233"></span>[3](#fn_1231.md) Other tales refer
 to the *síd* in similar terms, and describe its treasures, its food and
 drink better than those of earth. It is in most respects similar to the
 island Elysium, save that it is localised on earth.
@@ -81,7 +81,7 @@ for each the taste he desired. Finally the tale recounts their
 home-sickness, the warning they received not to set foot on Erin, how
 one of their number leaped ashore and turned to ashes, how Bran from his
 boat told of his wanderings and then disappeared for ever. <span
-id="fr_1234"></span>[1](#fn_1232)
+id="fr_1234"></span>[1](#fn_1232.md)
 
 Another story tells how Connla was visited by a goddess from Mag Mell.
 Her people dwell in a *síd* and are called "men of the *síd*." She
@@ -91,7 +91,7 @@ reappears and tells Conula that "the Ever-Living Ones" desire him to
 join them. She bids him come with her to the Land of Joy where there are
 only women. He steps into her crystal boat and vanishes from his father
 and the Druid who has vainly tried to exercise his spells against
-her. <span id="fr_1235"></span>[2](#fn_1233) In this tale there is a
+her. <span id="fr_1235"></span>[2](#fn_1233.md) In this tale there is a
 confusion between the *síd* and the island Elysium.
 
 The eighteenth century poem of Oisin in Tír na n-Og is probably based on
@@ -104,7 +104,7 @@ sea, and brought them to the land where Oisin spent three
 
 hundred years before returning to Ireland, and there suffering, as has
 been seen, from the breaking of the tabu not to set foot on the soil of
-Erin. <span id="fr_1236"></span>[1](#fn_1234)
+Erin. <span id="fr_1236"></span>[1](#fn_1234.md)
 
 In *Serglige Conculaind*, "Cúchulainn's Sickness," the goddess Fand,
 deserted by Manannan, offers herself to the hero if he will help her
@@ -117,14 +117,14 @@ remains a month with Fand. He returns to Ireland, and now we hear of the
 struggle for him between his wife Emer and Fand. But Manannan suddenly
 appears, reawakens Fand's love, and she departs with him. The god shakes
 his cloak between her and Cúchulainn to prevent their ever meeting
-again. <span id="fr_1237"></span>[2](#fn_1235) In this story Labraid,
+again. <span id="fr_1237"></span>[2](#fn_1235.md) In this story Labraid,
 Fand, and Liban, Fand's sister, though dwellers on an island Elysium,
 are called *síd*-folk. The two regions are partially confused, but not
 wholly, since Manannan is described as coming from his own land
 (Elysium) to woo Fand. Apparently Labraid of the Swift Hand on the Sword
 (who, though called "chief of the *síde*", is certainly a war-god) is at
 enmity with Manannan's hosts, and it is these with whom Cúchulainn has
-to fight. <span id="fr_1238"></span>[3](#fn_1236)
+to fight. <span id="fr_1238"></span>[3](#fn_1236.md)
 
 In an Ossianic tale several of the Fians were carried off to the Land of
 Promise. After many adventures, Fionn, Diarmaid, and others discover
@@ -136,7 +136,7 @@ carries the Fians to Erin on one
 
 horse. Having reached there, he bids them look at a certain field, and
 while they are doing so, he and his men disappear. <span
-id="fr_1239"></span>[1](#fn_1237)
+id="fr_1239"></span>[1](#fn_1237.md)
 
 3\. *Land under Waves*.--Fiachna, of the men of the *síd*, appeared to
 the men of Connaught, and begged their help against Goll, who had
@@ -147,7 +147,7 @@ defeat Goll. Each then obtains a woman of the *síde*, but at the end of
 a year they become homesick. They are warned not to descend from
 horseback in Erin. Arrived among their own people, they describe the
 marvels of Tír fa Tonn, and then return there, and are no more
-seen. <span id="fr_1240"></span>[2](#fn_1238) Here, again, the *síd*
+seen. <span id="fr_1240"></span>[2](#fn_1238.md) Here, again, the *síd*
 Elysium and Land under Waves are confused, and the divine tribes are at
 war, as in the story of Cúchulainn.
 
@@ -155,7 +155,7 @@ In a section of the Ossianic tale just cited, Fionn and his men arrive
 on an island, where Diarmaid reaches a beautiful country at the bottom
 of a well. This is Tír fa Tonn, and Diarmaid fights its king who has
 usurped his nephew's inheritance, and thus recovers it for him. <span
-id="fr_1241"></span>[3](#fn_1239)
+id="fr_1241"></span>[3](#fn_1239.md)
 
 4\. *Co-extensive with this world*.--An early example of this type is
 found in the *Adventures of Cormac*. A divine visitant appeared to
@@ -176,15 +176,15 @@ whole again when a true word was spoken. The god said Cormac's wife had
 now a new husband, and the cup broke, but was restored when the goddess
 declared this to be a lie. Next morning all had disappeared, and Cormac
 and his family found themselves in his own palace, with cup and branch
-by their side. <span id="fr_1242"></span>[1](#fn_1240) Similarly, in
+by their side. <span id="fr_1242"></span>[1](#fn_1240.md) Similarly, in
 *The Champion's Ecstasy*, a mysterious horseman appears out of a mist to
 Conn and leads him to a palace, where he reveals himself as the god Lug,
 and where there is a woman called "the Sovereignty of Erin." Beside the
-palace is a golden tree. <span id="fr_1243"></span>[2](#fn_1241) In the
+palace is a golden tree. <span id="fr_1243"></span>[2](#fn_1241.md) In the
 story of Bran, Mag Mell is said to be all around the hero, though he
 knows it not--an analogous conception to what is found in these tales,
 and another instance is that of the mysterious house entered by
-Conchobar and Dechtire. <span id="fr_1244"></span>[3](#fn_1242) Mag Mell
+Conchobar and Dechtire. <span id="fr_1244"></span>[3](#fn_1242.md) Mag Mell
 may thus have been regarded as a mysterious district of Erin. This magic
 mist enclosing a marvellous dwelling occurs in many other tales, and it
 was in a mist that the Tuatha Dea came to Ireland.
@@ -193,7 +193,7 @@ A certain correspondence to these Irish beliefs is found in Brythonic
 story, but here the Elysium conception has been influenced by Christian
 ideas. Elysium is called *Annwfn*, meaning "an abyss," "the state of the
 dead," "hell," and it is also conceived of as *is elfydd*, "beneath the
-earth." <span id="fr_1245"></span>[4](#fn_1243) But in the tales it
+earth." <span id="fr_1245"></span>[4](#fn_1243.md) But in the tales it
 bears no likeness to these meanings of the word, save in so far as it
 has been confused by their Christian redactors with hell. It is a region
 on the earth's surface or
@@ -212,25 +212,25 @@ exchanging kingdoms with him for a year, and Pwyll defeats Hafgan. It is
 a beautiful land, where merriment and feasting go on continuously, and
 its queen is of great loveliness. It has no subterranean character, and
 is conceived apparently as contiguous to Pwyll's kingdom. <span
-id="fr_1246"></span>[1](#fn_1244) In other tales it is the land whence
+id="fr_1246"></span>[1](#fn_1244.md) In other tales it is the land whence
 Gwydion and others obtain various animals. <span
-id="fr_1247"></span>[2](#fn_1245) The later folk-conception of the
+id="fr_1247"></span>[2](#fn_1245.md) The later folk-conception of the
 demoniac dogs of Annwfn may be based on an old myth of dogs with which
 its king hunted. These are referred to in the story of Pwyll. <span
-id="fr_1248"></span>[3](#fn_1246)
+id="fr_1248"></span>[3](#fn_1246.md)
 
 Annwfn is also the name of a land under waves or over sea, called also
 *Caer Sidi*, "the revolving castle," about which "are ocean's streams."
 It is "known to Manawyddan and Pryderi," just as the Irish Elysium was
-ruled by Manannan. <span id="fr_1249"></span>[4](#fn_1247) Another "Caer
+ruled by Manannan. <span id="fr_1249"></span>[4](#fn_1247.md) Another "Caer
 of Defence" is beneath the waves. <span
-id="fr_1250"></span>[5](#fn_1248) Perhaps the two ideas were
+id="fr_1250"></span>[5](#fn_1248.md) Perhaps the two ideas were
 interchangeable. The people of this land are free from death and
 disease, and in it is "an abundant well, sweeter than white wine the
 drink in it." There also is a cauldron belonging to the lord of Annwfn,
 which was stolen by Arthur and his men. Such a cauldron is the property
 of people belonging to a water world in the *Mabinogion*. <span
-id="fr_1251"></span>[6](#fn_1249)
+id="fr_1251"></span>[6](#fn_1249.md)
 
 <span id="page_369">p. 369</span>
 
@@ -244,7 +244,7 @@ lovely attendants; she cured Arthur of his wounds, hence she is the
 Morgen of other tales, and she and her maidens may be identified with
 the divine women of the Irish isle of women. Morgen is called a *dea
 phantastica*, and she may be compared with Liban, who cured Cúchulainn
-of his sickness. <span id="fr_1252"></span>[1](#fn_1250)
+of his sickness. <span id="fr_1252"></span>[1](#fn_1250.md)
 
 The identification of Avallon with Glastonbury is probably post-pagan,
 and the names applied to Glastonbury--Avallon, *Insula Pomonum*, *Insula
@@ -252,12 +252,12 @@ vitrea*--may be primitive names of Elysium. William of Malmesbury
 derives *Insula Pomonum* in its application to Glastonbury from a native
 name *Insula Avalloniæ*, which he connects with the Brythonic *avalla*,
 "apples," because Glastenig found an apple tree there. <span
-id="fr_1253"></span>[2](#fn_1251) The name may thus have been connected
+id="fr_1253"></span>[2](#fn_1251.md) The name may thus have been connected
 with marvellous apple trees, like those of the Irish Elysium. But be
 also suggests that it may be derived from the name of Avalloc, living
 there with his daughters. Avalloc is evidently the "Rex Avallon"
 (Avallach) to whose palace Arthur was carried and healed by the *regia
-virgo*. <span id="fr_1254"></span>[3](#fn_1252) He may therefore have
+virgo*. <span id="fr_1254"></span>[3](#fn_1252.md) He may therefore have
 been a mythic lord of Elysium, and his daughters would correspond to the
 maidens of the isle. William also derives "Glastonbury" from the name of
 an eponymous founder Glastenig, or from its native name *Ynesuuitron*,
@@ -267,7 +267,7 @@ an eponymous founder Glastenig, or from its native name *Ynesuuitron*,
 
 reappears in Chretien's *Eric* in the form "l'isle de verre." Giraldus
 explains the name from the glassy waters around Glastonbury, but it may
-be an early name of Elysium. <span id="fr_1255"></span>[1](#fn_1253)
+be an early name of Elysium. <span id="fr_1255"></span>[1](#fn_1253.md)
 Glass must have appealed to the imagination of Celt, Teuton, and Slav,
 for we hear of Merlin's glass house, a glass fort discovered by Arthur,
 a glass tower attacked by the Milesians, Etain's glass *grianan*, and a
@@ -322,7 +322,7 @@ Hence, too, the belief that such water-worlds as I-Bresail, or Welsh
 fairy-lands, or sunken cities off the Breton coast, rise periodically to
 the surface, and would remain there permanently, like an island Elysium,
 if some mortal would fulfil certain conditions. <span
-id="fr_1256"></span>[1](#fn_1254)
+id="fr_1256"></span>[1](#fn_1254.md)
 
 The Celtic belief in Tír fa Tonn is closely connected with
 
@@ -334,10 +334,10 @@ prominent are those which tell how the town of Is was submerged because
 of the wickedness of its people, or of Dahut, its king's daughter, who
 sometimes still seeks the love of mortals. It is occasionally seen below
 the waves or even on their surface. <span
-id="fr_1257"></span>[1](#fn_1255) Elsewhere in Celtic regions similar
+id="fr_1257"></span>[1](#fn_1255.md) Elsewhere in Celtic regions similar
 legends are found, and the submersion is the result of a curse, of the
 breaking of a tabu, or of neglect to cover a sacred well. <span
-id="fr_1258"></span>[2](#fn_1256) Probably the tradition of actual
+id="fr_1258"></span>[2](#fn_1256.md) Probably the tradition of actual
 cataclysms or inroads of the sea, such as the Celts encountered on the
 coasts of Holland, may account for some of these legends, which then
 mingled with myths of the divine water-world.
@@ -348,7 +348,7 @@ gods. As the Druids could raise a mist at will, so too might the gods,
 who then created a temporary Elysium in it. From such a mist, usually on
 a hill, supernatural beings often emerged to meet mortals, and in
 *Märchen* fairyland is sometimes found within a mist. <span
-id="fr_1259"></span>[3](#fn_1257) It was already believed that part of
+id="fr_1259"></span>[3](#fn_1257.md) It was already believed that part of
 the gods' land was not far off; it was invisibly on or within the hills
 on whose slopes men saw the mist swirling mysteriously. Hence the mist
 may simply have concealed the *síd* of the gods. But there may also have
@@ -359,7 +359,7 @@ world, for this is believed of fairyland in Welsh and
 
 \[paragraph continues\] Irish folk-lore. Men may unwittingly interfere
 with it, or have it suddenly revealed to them, or be carried into it and
-made invisible. <span id="fr_1260"></span>[1](#fn_1258)
+made invisible. <span id="fr_1260"></span>[1](#fn_1258.md)
 
 In most of the tales Elysium is a land without grief or death, where
 there is immortal youth and peace, and every kind of delight. But in
@@ -380,7 +380,7 @@ must be one of peace and deathlessness. Hence the idea of the peaceful
 Elysium, which perhaps found most favour with the people. Mr. Nutt
 thought that the idea of a warlike Elysium may have resulted from
 Scandinavian influence acting on existing tales of a peaceful
-Elysium, <span id="fr_1261"></span>[2](#fn_1259) but we know that old
+Elysium, <span id="fr_1261"></span>[2](#fn_1259.md) but we know that old
 myths of divine wars already existed. Perhaps this conception arose
 among the Celts as a warlike people, appealing to their warrior
 instincts, while the peaceful Elysium may have been the product of the
@@ -395,18 +395,18 @@ fancies which would appeal to a toiling, agricultural people. There food
 is produced magically, yet naturally, and in agricultural ritual men
 sought to increase their food supply magically. In the tales this
 process is, so to speak, heightened. <span
-id="fr_1262"></span>[1](#fn_1260)
+id="fr_1262"></span>[1](#fn_1260.md)
 
 Some writers have maintained that Elysium is simply the land of the
 dead, although nothing in the existing tales justifies this
 interpretation. M. D'Arbois argues for this view, resting his theory
 mainly on a passage in the story of Connla, interpreted by him in a way
 which does not give its real meaning. <span
-id="fr_1263"></span>[2](#fn_1261) The words are spoken by the goddess to
+id="fr_1263"></span>[2](#fn_1261.md) The words are spoken by the goddess to
 Connla, and their sense is--"The Ever-Living Ones invite thee. Thou art
 a champion to Tethra's people. They, see thee every day in the
 assemblies of thy fatherland, among thy familiar loved ones." <span
-id="fr_1264"></span>[3](#fn_1262) M. D'Arbois assumes that Tethra, a
+id="fr_1264"></span>[3](#fn_1262.md) M. D'Arbois assumes that Tethra, a
 Fomorian, is lord of Elysium, and that after his defeat by the Tuatha
 Dea, he, like Kronos, took refuge there, and now reigns as lord of the
 dead. By translating *ar-dot-chiat* ("they see thee," 3rd plur., pres.
@@ -416,7 +416,7 @@ will be seen among the gatherings of his dead kinsfolk. But the words,
 Tethra is a god of the dead. It means simply that Conula is a mighty
 warrior, one of those whom Tethra, a war-god, would have approved. The
 phrase, "Tethra's mighty men," used elsewhere, <span
-id="fr_1265"></span>[4](#fn_1263)
+id="fr_1265"></span>[4](#fn_1263.md)
 
 <span id="page_375">p. 375</span>
 
@@ -433,7 +433,7 @@ been in Elysium, this would contradict the picture drawn by the goddess
 of the land whither she desires him to go--a land of women, not of men.
 Moreover, the rulers of Elysium are always members of the Tuatha Dé
 Danann or the *síd*-folk, never a Fomorian like Tethra. <span
-id="fr_1266"></span>[1](#fn_1264)
+id="fr_1266"></span>[1](#fn_1264.md)
 
 M. D'Arbois also assumes that "Spain" in Nennius' account of the Irish
 invasions and in Irish texts means the land of the dead, and that it was
@@ -445,7 +445,7 @@ by Tuan MacCaraill about the invaders of Ireland, "They all died," were
 rendered in an original text, now lost according to M. D'Arbois, "They
 set sail for Mag Mór or Mag Mell," a formula in which Nennius saw
 indications of a return to Spain. <span
-id="fr_1267"></span>[2](#fn_1265) Spain, in this hypothetical text, was
+id="fr_1267"></span>[2](#fn_1265.md) Spain, in this hypothetical text, was
 the Land of the Dead or Elysium, whence the invaders
 
 <span id="page_376">p. 376</span>
@@ -454,7 +454,7 @@ came. This "lost original" exists in M. D'Arbois imagination, and there
 is not the slightest evidence for these alterations. Once, indeed,
 Tailtiu is called daughter of Magh Mór, King of Spain, but here a
 person, not a place, is spoken of. <span
-id="fr_1268"></span>[1](#fn_1266) Sir John Rhŷs accepts the
+id="fr_1268"></span>[1](#fn_1266.md) Sir John Rhŷs accepts the
 identification of Spain with Elysium as the land of the dead, and finds
 in every reference to Spain a reference to the Other-world, which he
 regards as a region ruled by "dark divinities." But neither the lords of
@@ -464,10 +464,10 @@ Elysium. The numerous references to Spain probably point to old
 traditions regarding a connection between Spain and Ireland in early
 times, both commercial and social, and it is not impossible that
 Goidelic invaders did reach Ireland from Spain. <span
-id="fr_1269"></span>[2](#fn_1267) Early maps and geographers make
+id="fr_1269"></span>[2](#fn_1267.md) Early maps and geographers make
 Ireland and Spain contiguous; hence in an Irish tale Ireland is visible
 from Spain, and this geographical error would strengthen existing
-traditions. <span id="fr_1270"></span>[3](#fn_1268) "Spain" was used
+traditions. <span id="fr_1270"></span>[3](#fn_1268.md) "Spain" was used
 vaguely, but it does not appear to have meant Elysium or the Land of the
 Dead. If it did, it is strange that the Tuatha Dé Danann are never
 brought into connection with it.
@@ -494,27 +494,27 @@ growing in Mag Mell; their nuts fed three hundred people. The apple
 given by the goddess to Connla was inexhaustible, and he was still
 eating it with her when Teigue, son of Cian, visited Elysium. "When once
 they had partaken of it, nor age nor dimness could. affect them." <span
-id="fr_1271"></span>[1](#fn_1269) Apples, crimson nuts, and rowan
+id="fr_1271"></span>[1](#fn_1269.md) Apples, crimson nuts, and rowan
 berries are specifically said to be the food of the gods in the tale of
 *Diarmaid and Grainne*. Through carelessness one of the berries was
 dropped on earth, and from it grew a tree, the berries of which had the
 effect of wine or mead, and three of them eaten by a man of a hundred
 years made him youthful. It was guarded by a giant. <span
-id="fr_1272"></span>[2](#fn_1270) A similar tree growing on earth--a
+id="fr_1272"></span>[2](#fn_1270.md) A similar tree growing on earth--a
 rowan guarded by a dragon, is found in the tale of Fraoch, who was
 bidden to bring a branch of it to Ailill. Its berries had the virtue of
 nine meals; they healed the wounded, and added a year to a man's
-life. <span id="fr_1273"></span>[3](#fn_1271) At the wells which were
+life. <span id="fr_1273"></span>[3](#fn_1271.md) At the wells which were
 the source of Irish rivers were supposed to grow hazel-trees with
 crimson nuts, which fell into the water and were eaten by salmon. <span
-id="fr_1274"></span>[4](#fn_1272) If these were caught and eaten, the
+id="fr_1274"></span>[4](#fn_1272.md) If these were caught and eaten, the
 eater obtained wisdom and knowledge. These wells were in Erin, but in
 some instances
 
 <span id="page_378">p. 378</span>
 
 the well with its hazels and salmon is in the Other-world, <span
-id="fr_1275"></span>[1](#fn_1273) and it is obvious that the crimson
+id="fr_1275"></span>[1](#fn_1273.md) and it is obvious that the crimson
 nuts are the same as the food of the gods in *Diarmaid and Grainne*.
 
 Why should immortality be dependent on the eating of certain foods? Most
@@ -560,7 +560,7 @@ probably find that they had refrained from eating. The incident of the
 fruit given by an immortal to a mortal may have borrowed something from
 the wide folk-custom of the presentation of an apple as a gage of love
 or as a part of the marriage rite. <span
-id="fr_1276"></span>[1](#fn_1274) Its acceptance denotes willingness to
+id="fr_1276"></span>[1](#fn_1274.md) Its acceptance denotes willingness to
 enter upon betrothal or marriage. But as in the Roman rite of
 *confarreatio* with its savage parallels, the underlying idea is
 probably that which has just been considered, namely, that the giving
@@ -568,7 +568,7 @@ and acceptance of food produces the bond of kinship.
 
 As various nuts and fruits were prized in Ireland as food, and were
 perhaps used in some cases to produce an intoxicant, <span
-id="fr_1277"></span>[2](#fn_1275) it is evident that the trees of
+id="fr_1277"></span>[2](#fn_1275.md) it is evident that the trees of
 Elysium were, primarily, a magnified form of earthly trees. But all such
 trees were doubtless objects of a cult before their produce was
 generally eaten; they were first sacred or totem-trees, and their food
@@ -588,12 +588,12 @@ the sick would sleep to it." It should be noted also that, as Miss Hull
 points out, in some tales the branch of a divine tree becomes a talisman
 leading the mortal to Elysium; in this resembling the golden bough
 plucked by Æneas before visiting the underworld. <span
-id="fr_1278"></span>[1](#fn_1276) This, however, is not the fundamental
+id="fr_1278"></span>[1](#fn_1276.md) This, however, is not the fundamental
 characteristic of the tree, in Irish story. Possibly, as Mr. A. B. Cook
 maintains, the branch giving entrance to Elysium is derived from the
 branch borne by early Celtic kings of the wood, while the tree is an
 imaginative form of those which incarnated a vegetation spirit. <span
-id="fr_1279"></span>[2](#fn_1277) Be this as it may, it is rather the
+id="fr_1279"></span>[2](#fn_1277.md) Be this as it may, it is rather the
 fruit eaten by the mortal which binds him to the Immortal Land.
 
 The inhabitants of Elysium are not only immortal, but also invisible at
@@ -602,7 +602,7 @@ present with him. Connla alone sees the goddess, invisible to his father
 and the Druid. Manannan is visible to Bran, but there are many near the
 hero whom he does not see; and when the same god comes to Fand, he is
 invisible to Cúchulainn and those with him. So Mider says to Etain, "We
-behold, and are not beheld." <span id="fr_1280"></span>[3](#fn_1278)
+behold, and are not beheld." <span id="fr_1280"></span>[3](#fn_1278.md)
 Occasionally, too, the people of Elysium have the power of
 shape-shifting--Fand and Liban appear to Cúchulainn as birds.
 
@@ -618,24 +618,24 @@ prominent place. Dagda possessed such a cauldron and it was
 inexhaustible, and a vat of inexhaustible mead is described in the story
 of *Cúchulainn's Sickness*. Whatever was put into such cauldrons
 satisfied all, no matter how numerous they might be. <span
-id="fr_1281"></span>[1](#fn_1279) Cúchulainn obtained one from the
+id="fr_1281"></span>[1](#fn_1279.md) Cúchulainn obtained one from the
 daughter of the king of Scath, and also carried off the king's three
-cows. <span id="fr_1282"></span>[2](#fn_1280) In an analogous story, he
+cows. <span id="fr_1282"></span>[2](#fn_1280.md) In an analogous story, he
 stole from Cúroi, by the connivance of his wife Bláthnat, her father
 Mider's cauldron, three cows, and the woman herself. But in another
 version Cúchulainn and Curoi go to Mider's stronghold in the Isle of
 Falga (Elysium), and steal cauldron, cows, and Bláthnat. These were
 taken from Cúchulainn by Cúdroi hence his revenge, as in the previous
-tale. <span id="fr_1283"></span>[3](#fn_1281) Thus the theft was from
+tale. <span id="fr_1283"></span>[3](#fn_1281.md) Thus the theft was from
 Elysium. In the Welsh poem "The Spoils of Annwfn," Arthur stole a
 cauldron from Annwfn. Its rim was encrusted with pearls, voices issued
 from it, it was kept boiling by the breath of nine maidens, and it would
-not boil a coward's food. <span id="fr_1284"></span>[4](#fn_1282)
+not boil a coward's food. <span id="fr_1284"></span>[4](#fn_1282.md)
 
 As has been seen from the story of Gwion, he was set to watch a cauldron
 which must boil until it yielded "three drops of the grace of
 inspiration." It belonged to Tegid Voel and Cerridwen, divine rulers of
-a Land under the Waters. <span id="fr_1285"></span>[5](#fn_1283) In the
+a Land under the Waters. <span id="fr_1285"></span>[5](#fn_1283.md) In the
 *Mabinogi* of Branwen, her brother Bran received a cauldron from two
 beings, a man and a huge woman, who came from a lake. This cauldron was
 given by him to the
@@ -643,7 +643,7 @@ given by him to the
 <span id="page_382">p. 382</span>
 
 king of Erin, and it had the property of restoring to life the slain who
-were placed in it. <span id="fr_1286"></span>[1](#fn_1284)
+were placed in it. <span id="fr_1286"></span>[1](#fn_1284.md)
 
 The three properties of the cauldron--inexhaustibility, inspiration, and
 regeneration--may be summed up in one word, fertility, and it is
@@ -658,14 +658,14 @@ mother suggested that the Earth, which produced and nourished, was also
 female. Hence arose the cult of the Earth-mother who was often also a
 goddess of love as well as of fertility. Cerridwen, in all probability,
 was a goddess of fertility, and Branwen a goddess of love. <span
-id="fr_1287"></span>[2](#fn_1285) The cult of fertility was usually
+id="fr_1287"></span>[2](#fn_1285.md) The cult of fertility was usually
 associated with orgiastic and indiscriminate love-making, and it is not
 impossible that the cauldron, like the Hindu *yoni*, was a symbol of
-fertility. <span id="fr_1288"></span>[3](#fn_1286) Again, the slaughter
+fertility. <span id="fr_1288"></span>[3](#fn_1286.md) Again, the slaughter
 and cooking of animals was usually regarded as a sacred act in primitive
 life. The animals were cooked in enormous cauldrons, which were found as
 an invariable part of the furniture of every Celtic house. <span
-id="fr_1289"></span>[4](#fn_1287) The quantities of meat which they
+id="fr_1289"></span>[4](#fn_1287.md) The quantities of meat which they
 contained may have suggested inexhaustibility to people to whom the
 cauldron was already a symbol of fertility. Thus the symbolic cauldron
 of a fertility cult was merged with the cauldron used in the religious
@@ -676,7 +676,7 @@ slaughter and cooking of animal food. The cauldron was also used in
 ritual. The Cimri slaughtered human victims over a cauldron and filled
 it with their blood; victims sacrificed to Teutates were suffocated in a
 vat (*semicupium*); and in Ireland "a cauldron of truth" was used in the
-ordeal of boiling water. <span id="fr_1290"></span>[1](#fn_1288)
+ordeal of boiling water. <span id="fr_1290"></span>[1](#fn_1288.md)
 
 Like the food of men which was regarded as the food of the gods, the
 cauldron of this world became the marvellous cauldron of the
@@ -685,7 +685,7 @@ such cauldrons on earth, myths arose, telling how they had been stolen
 from the divine land by adventurous heroes, Cúchulainn, Arthur, etc. In
 other instances, the cauldron is replaced by a magic vessel or cup
 stolen from supernatural beings by heroes of the Fionn saga or of
-*Märchen*. <span id="fr_1291"></span>[2](#fn_1289) Here, too, it may be
+*Märchen*. <span id="fr_1291"></span>[2](#fn_1289.md) Here, too, it may be
 noted that the Graal of Arthurian romance has affinities with the Celtic
 cauldron. In the *Conte du Graal* of pseudo-Chrétien, a cup comes in of
 itself and serves all present with food. This is a simple conception of
@@ -704,7 +704,7 @@ romantic import as time went on, was taken up
 <span id="page_384">p. 384</span>
 
 by one poet after another, who "used it as a type of the loftiest goal
-of man's effort." <span id="fr_1292"></span>[1](#fn_1290)
+of man's effort." <span id="fr_1292"></span>[1](#fn_1290.md)
 
 In other ways myth told how the gifts of civilisation came from the
 gods' world. When man came to domesticate animals, it was believed in
@@ -713,7 +713,7 @@ animals themselves had come from the gods, only, in this case, the
 animals were of a magical, supernatural kind. Such a belief underlies
 the stories in which Cúchulainn steals cows from their divine owners. In
 other instances, heroes who obtain a wife from the *síd*-folk, obtain
-also cattle from the *síd*. <span id="fr_1293"></span>[2](#fn_1291) As
+also cattle from the *síd*. <span id="fr_1293"></span>[2](#fn_1291.md) As
 has been seen, the swine given too Pryderi by Arawn, king of Annwfn, and
 hitherto unknown to man, are stolen from him by Gwydion, Pryderi being
 son of Pwyll, a temporary king of Annwfn, and in all probability both
@@ -721,10 +721,10 @@ were lords of Elysium. The theft, in the original form of the myth, must
 thus have been from Elysium, though we have a hint in "The Spoils of
 Annwfn" that Gwydion (Gweir) was unsuccessful and was imprisoned in
 Annwfn, to which imprisonment the later blending of Annwfn with hell
-gave a doleful aspect. <span id="fr_1294"></span>[3](#fn_1292) In a late
+gave a doleful aspect. <span id="fr_1294"></span>[3](#fn_1292.md) In a late
 Welsh MS., a white roebuck and a puppy (or, in the *Triads*, a bitch, a
 roebuck, and a lapwing) were stolen by Amæthon from Annwfn, and the
-story presents archaic features. <span id="fr_1295"></span>[4](#fn_1293)
+story presents archaic features. <span id="fr_1295"></span>[4](#fn_1293.md)
 In some of these tales the animals are transferred to earth by a divine
 or semi-divine being, in whom we may see an early Celtic culture-hero.
 The tales are attenuated forms of older myths which showed how all
@@ -740,7 +740,7 @@ with the rise of myths telling of a distant Elysium, it was inevitable
 that some tales should connect the animals and the theft with that
 far-off land. So far as the Irish and Welsh tales are concerned, the
 thefts seem mainly to be from Elysium. <span
-id="fr_1296"></span>[1](#fn_1294)
+id="fr_1296"></span>[1](#fn_1294.md)
 
 Love-making has a large place in the Elysium tales. Goddesses seek the
 love of mortals, and the mortal desires to visit Elysium because of
@@ -750,19 +750,19 @@ ritual sex-unions at stated times for magical influence upon the
 fertility of the earth, these unions not being regarded as immoral, even
 when they trespassed on customary tribal law. In some of the stories
 Elysium is composed of many islands, one of which is the "island of
-women." <span id="fr_1297"></span>[2](#fn_1295) These women and their
+women." <span id="fr_1297"></span>[2](#fn_1295.md) These women and their
 queen give their favours to Bran and his men or to Maelduin and his
 company. Similar "islands of women" occur in *Märchen*, still current
 among Celtic peoples, and actual islands were or still are called by
 that name--Eigg and Groagez off the Breton coast. <span
-id="fr_1298"></span>[3](#fn_1296) Similar islands of women are known to
+id="fr_1298"></span>[3](#fn_1296.md) Similar islands of women are known to
 Chinese, Japanese, and Ainu folk-lore, to Greek mythology (Circe's and
 Calypso's islands), and to ancient Egyptian conceptions of the future
-life. <span id="fr_1299"></span>[4](#fn_1297) They were also
+life. <span id="fr_1299"></span>[4](#fn_1297.md) They were also
 
 <span id="page_386">p. 386</span>
 
-known elsewhere, <span id="fr_1300"></span>[1](#fn_1298) and we may
+known elsewhere, <span id="fr_1300"></span>[1](#fn_1298.md) and we may
 therefore assume that in describing such an island as part of Elysium,
 the Celts were using something common to universal folk-belief. But it
 may also owe something to actual custom, to the memory of a time when
@@ -774,7 +774,7 @@ detriment, because of their temporary partner's extreme erotic madness.
 This is the case in the Chinese tales of the island of women, and this,
 rather than home-sickness, may explain the desire of Bran, Oisin, etc.,
 to leave Elysium. Celtic women performed orgiastic rites, on islands, as
-has been seen. <span id="fr_1301"></span>[2](#fn_1299) All this may have
+has been seen. <span id="fr_1301"></span>[2](#fn_1299.md) All this may have
 originated the belief in an island of beautiful divine women as part of
 Elysium, while it also heightened its sensuous aspect.
 
@@ -842,7 +842,7 @@ people themselves the change had already begun to be made, and the land
 of the gods was simply fairyland. In Wales the same change had taken
 place, as is seen by Giraldus' account of Elidurus enticed to a
 subterranean fairyland by two small people. <span
-id="fr_1302"></span>[1](#fn_1300)
+id="fr_1302"></span>[1](#fn_1300.md)
 
 Some of the Elysium tales have been influenced by Christian conceptions,
 and in a certain group, the *Imrama* or "Voyages," Elysium finally
@@ -858,13 +858,13 @@ waiting for the day of judgment. Another
 
 island resembles the Christian heaven. But in the *Voyage of Brandan*
 the pagan elements have practically disappeared; there is an island of
-hell and an island of paradise. <span id="fr_1303"></span>[1](#fn_1301)
+hell and an island of paradise. <span id="fr_1303"></span>[1](#fn_1301.md)
 The island conception is the last relic of paganism, but now the voyage
 is undertaken for the purpose of revenge or penance or pilgrimage.
 Another series of tales of visionary journeys to hell or heaven are
 purely Christian, yet the joys of heaven have a sensuous aspect which
 recalls those of the pagan Elysium. In one of these, The *Tidings of
-Doomsday*, <span id="fr_1304"></span>[2](#fn_1302) there are two hells,
+Doomsday*, <span id="fr_1304"></span>[2](#fn_1302.md) there are two hells,
 and besides heaven there is a place for the *boni non valde*, resembling
 the island of Enoch and Elijah in the *Voyage of Snedgus*. The
 connection of Elysium with the Christian paradise is seen in the title
@@ -912,237 +912,237 @@ eternal happiness and eternal love.
 
 ### Footnotes
 
-<span id="fn_1229"></span>[363:1](rac27.htm#fr_1231) Nutt-Meyer, i. 213.
+<span id="fn_1229"></span>[363:1](rac27.htm#fr_1231.md) Nutt-Meyer, i. 213.
 
-<span id="fn_1230"></span>[363:2](rac27.htm#fr_1232) Joyce, *OCR* 431.
+<span id="fn_1230"></span>[363:2](rac27.htm#fr_1232.md) Joyce, *OCR* 431.
 
-<span id="fn_1231"></span>[363:3](rac27.htm#fr_1233) D'Arbois, ii. 311;
+<span id="fn_1231"></span>[363:3](rac27.htm#fr_1233.md) D'Arbois, ii. 311;
 *IT* i. 113 f.; O'Curry, *MC* iii. 190.
 
-<span id="fn_1232"></span>[364:1](rac27.htm#fr_1234) Nutt-Meyer, i. 1
+<span id="fn_1232"></span>[364:1](rac27.htm#fr_1234.md) Nutt-Meyer, i. 1
 f., text and translation.
 
-<span id="fn_1233"></span>[364:2](rac27.htm#fr_1235) *LU* 120*a*;
+<span id="fn_1233"></span>[364:2](rac27.htm#fr_1235.md) *LU* 120*a*;
 Windisch, *Irische Gramm.* 120 f.; D'Arbois, v. 384 f.; *Gaelic
 Journal*, ii. 307.
 
-<span id="fn_1234"></span>[365:1](rac27.htm#fr_1236) *TOS* iv. 234. See
+<span id="fn_1234"></span>[365:1](rac27.htm#fr_1236.md) *TOS* iv. 234. See
 also Joyce, *OCR* 385; Kennedy, 240.
 
-<span id="fn_1235"></span>[365:2](rac27.htm#fr_1237) *LU* 43 f.; *IT* i.
+<span id="fn_1235"></span>[365:2](rac27.htm#fr_1237.md) *LU* 43 f.; *IT* i.
 205 L; O'Curry, *Atlantis*, ii., iii.; D'Arbois, v. 170; Leahy, i. 60 f.
 
-<span id="fn_1236"></span>[365:3](rac27.htm#fr_1238) "From Manannan came
+<span id="fn_1236"></span>[365:3](rac27.htm#fr_1238.md) "From Manannan came
 foes."
 
-<span id="fn_1237"></span>[366:1](rac27.htm#fr_1239) Joyce, *OCR* 223 f.
+<span id="fn_1237"></span>[366:1](rac27.htm#fr_1239.md) Joyce, *OCR* 223 f.
 
-<span id="fn_1238"></span>[366:2](rac27.htm#fr_1240) O'Grady, ii. 290.
+<span id="fn_1238"></span>[366:2](rac27.htm#fr_1240.md) O'Grady, ii. 290.
 in this story the sea is identified with Fiachna's wife.
 
-<span id="fn_1239"></span>[366:3](rac27.htm#fr_1241) Joyce, *OCR* 253 f.
+<span id="fn_1239"></span>[366:3](rac27.htm#fr_1241.md) Joyce, *OCR* 253 f.
 
-<span id="fn_1240"></span>[367:1](rac27.htm#fr_1242) *IT* iii. 211 f.;
+<span id="fn_1240"></span>[367:1](rac27.htm#fr_1242.md) *IT* iii. 211 f.;
 D'Arbois, ii. 185.
 
-<span id="fn_1241"></span>[367:2](rac27.htm#fr_1243) O'Curry, *MS. Mat.*
+<span id="fn_1241"></span>[367:2](rac27.htm#fr_1243.md) O'Curry, *MS. Mat.*
 388.
 
-<span id="fn_1242"></span>[367:3](rac27.htm#fr_1244) A similar idea
+<span id="fn_1242"></span>[367:3](rac27.htm#fr_1244.md) A similar idea
 occurs in many Fian tales.
 
-<span id="fn_1243"></span>[367:4](rac27.htm#fr_1245) Evans, Welsh Did.
+<span id="fn_1243"></span>[367:4](rac27.htm#fr_1245.md) Evans, Welsh Did.
 *s.v.* "Annwfn"; Anwyl, 60; Gaidoz, *ZCP* i. 29 f.
 
-<span id="fn_1244"></span>[368:1](rac27.htm#fr_1246) Loth, i. 27 f.; see
-[p. 111](rac09.htm#page_111), *supra*.
+<span id="fn_1244"></span>[368:1](rac27.htm#fr_1246.md) Loth, i. 27 f.; see
+[p. 111](rac09.htm#page_111.md), *supra*.
 
-<span id="fn_1245"></span>[368:2](rac27.htm#fr_1247) Pp.
-[106](rac09.htm#page_106), [112](rac09.htm#page_112), *supra*.
+<span id="fn_1245"></span>[368:2](rac27.htm#fr_1247.md) Pp.
+[106](rac09.htm#page_106), [112](rac09.htm#page_112.md), *supra*.
 
-<span id="fn_1246"></span>[368:3](rac27.htm#fr_1248) Guest, iii. 75;
+<span id="fn_1246"></span>[368:3](rac27.htm#fr_1248.md) Guest, iii. 75;
 Loth, i. 29 f.
 
-<span id="fn_1247"></span>[368:4](rac27.htm#fr_1249) Skene, i. 264, 276.
+<span id="fn_1247"></span>[368:4](rac27.htm#fr_1249.md) Skene, i. 264, 276.
 Cf. the *Ille tournoiont* of the Graal romances and the revolving houses
 of *Märchen*. A revolving rampart occurs in "Maelduin" (*RC* x. 81).
 
-<span id="fn_1248"></span>[368:5](rac27.htm#fr_1250) Skene, i. 285,
+<span id="fn_1248"></span>[368:5](rac27.htm#fr_1250.md) Skene, i. 285,
 
-<span id="fn_1249"></span>[368:6](rac27.htm#fr_1251) Pp.
-[103](rac09.htm#page_103), [116](rac09.htm#page_116), *supra*.
+<span id="fn_1249"></span>[368:6](rac27.htm#fr_1251.md) Pp.
+[103](rac09.htm#page_103), [116](rac09.htm#page_116.md), *supra*.
 
-<span id="fn_1250"></span>[369:1](rac27.htm#fr_1252) Chretien, *Eric*,
+<span id="fn_1250"></span>[369:1](rac27.htm#fr_1252.md) Chretien, *Eric*,
 1933 f.; Geoffrey, *Vita Merlini*, 41; San Marte, *Geoffrey*, 425.
 Another Irish Liban is called Muirgen, which is the same as Morgen. See
 Girald. Cambr. *Spec. Ecel.* Rolls Series, iv. 48.
 
-<span id="fn_1251"></span>[369:2](rac27.htm#fr_1253) William of
+<span id="fn_1251"></span>[369:2](rac27.htm#fr_1253.md) William of
 Malmesbury, *de Ant. Glaston. Ecel*.
 
-<span id="fn_1252"></span>[369:3](rac27.htm#fr_1254) San Marte, 425.
+<span id="fn_1252"></span>[369:3](rac27.htm#fr_1254.md) San Marte, 425.
 
-<span id="fn_1253"></span>[370:1](rac27.htm#fr_1255) *Op. cit.* iv. 49.
+<span id="fn_1253"></span>[370:1](rac27.htm#fr_1255.md) *Op. cit.* iv. 49.
 
-<span id="fn_1254"></span>[371:1](rac27.htm#fr_1256) Joyce, *OCR* 434;
+<span id="fn_1254"></span>[371:1](rac27.htm#fr_1256.md) Joyce, *OCR* 434;
 Rhŷs, *CFL* i. 170; Hardiman, *Irish Minst.* i. 367; Sébillot, ii. 56
 f.; Girald. Cambr. ii. 12. The underworld is sometimes reached through a
-well (cf. [p. 282](rac22.htm#page_282), *supra*; *TI* iii. 209).
+well (cf. [p. 282](rac22.htm#page_282), *supra*; *TI* iii. 209.md).
 
-<span id="fn_1255"></span>[372:1](rac27.htm#fr_1257) Le Braz
+<span id="fn_1255"></span>[372:1](rac27.htm#fr_1257.md) Le Braz
 <sup>2</sup>, i. p. xxxix, ii. 37 f.; Albert le Grand, *Vies de Saints
 de Bretagne*, 63.
 
-<span id="fn_1256"></span>[372:2](rac27.htm#fr_1258) A whole class of
+<span id="fn_1256"></span>[372:2](rac27.htm#fr_1258.md) A whole class of
 such Irish legends is called *Tomhadna*, "Inundations." A typical
 instance is that of the town below Lough Neagh, already referred to by
 Giraldus Cambrensis, *Top. Hib.* ii. 9; of. a Welsh instance in *Itin.
 Cambr.* i. 2. See Rhŷs, *CFL*, *passim*; Kennedy, 282; *Rev. des Trad.
 Pop.* ix. 79.
 
-<span id="fn_1257"></span>[372:3](rac27.htm#fr_1259) Scott. *Celt. Rev.*
+<span id="fn_1257"></span>[372:3](rac27.htm#fr_1259.md) Scott. *Celt. Rev.*
 i. 70; Campbell, *WHT* Nos. 38, 52; Loth, i. 38.
 
-<span id="fn_1258"></span>[373:1](rac27.htm#fr_1260) Curtin, *Tales*,
+<span id="fn_1258"></span>[373:1](rac27.htm#fr_1260.md) Curtin, *Tales*,
 158; Rhŷs, *CFL* i. 230.
 
-<span id="fn_1259"></span>[373:2](rac27.htm#fr_1261) Nutt-Meyer, i. 159.
+<span id="fn_1259"></span>[373:2](rac27.htm#fr_1261.md) Nutt-Meyer, i. 159.
 
-<span id="fn_1260"></span>[374:1](rac27.htm#fr_1262) In the Vedas,
+<span id="fn_1260"></span>[374:1](rac27.htm#fr_1262.md) In the Vedas,
 Elysium has also a strong agricultural aspect, probably for the same
 reasons.
 
-<span id="fn_1261"></span>[374:2](rac27.htm#fr_1263) D'Arbois, ii. 119,
+<span id="fn_1261"></span>[374:2](rac27.htm#fr_1263.md) D'Arbois, ii. 119,
 192, 385, vi. 197, 219; *RC* xxvi. 173; *Les Druides*, 121.
 
-<span id="fn_1262"></span>[374:3](rac27.htm#fr_1264) For the text see
+<span id="fn_1262"></span>[374:3](rac27.htm#fr_1264.md) For the text see
 Windisch, *Ir. Gram.* 120: "Totchurethar bii bithbi at gérait do dáinib
 Tethrach ar-dot-chiat cach dia i n-dálaib tathardai eter dugnathu
 inmaini." Dr. Stokes and Sir John Rhŷs have both privately confirmed the
 interpretation given above.
 
-<span id="fn_1263"></span>[374:4](rac27.htm#fr_1265) "Dialogue of the
+<span id="fn_1263"></span>[374:4](rac27.htm#fr_1265.md) "Dialogue of the
 Sages," *RC* xxvi. 33 f.
 
-<span id="fn_1264"></span>[375:1](rac27.htm#fr_1266) Tethra was husband
+<span id="fn_1264"></span>[375:1](rac27.htm#fr_1266.md) Tethra was husband
 of the war-goddess Badb, and in one text his name is glossed *badb*
 (Cormac, *s.v.* "Tethra"). The name is also glossed *muir*, "sea," by
 O'Cleary, and the sea is called "the plain of Tethra" (*Arch. Rev.* i.
 152). These obscure notices do not necessarily denote that he was ruler
 of an oversea Elysium.
 
-<span id="fn_1265"></span>[375:2](rac27.htm#fr_1267) Nennius, *Hist.
+<span id="fn_1265"></span>[375:2](rac27.htm#fr_1267.md) Nennius, *Hist.
 Brit.* § 13; D'Arbois, ii. 86, 134, 231.
 
-<span id="fn_1266"></span>[376:1](rac27.htm#fr_1268) *LL* 8*b*; Keating,
+<span id="fn_1266"></span>[376:1](rac27.htm#fr_1268.md) *LL* 8*b*; Keating,
 126.
 
-<span id="fn_1267"></span>[376:2](rac27.htm#fr_1269) Both art *motifs*
+<span id="fn_1267"></span>[376:2](rac27.htm#fr_1269.md) Both art *motifs*
 and early burial customs in the two countries are similar. See Reinach,
 *RC* xxi. 88; *L'Anthropologie*, 1889, 397; Siret, *Les Première Ages du
 Metal dans le Sud. Est. de l'Espagne*.
 
-<span id="fn_1268"></span>[376:3](rac27.htm#fr_1270) Orosius, i. 2. 71;
+<span id="fn_1268"></span>[376:3](rac27.htm#fr_1270.md) Orosius, i. 2. 71;
 *LL* 11*b*.
 
-<span id="fn_1269"></span>[377:1](rac27.htm#fr_1271) D'Arbois, v. 384;
+<span id="fn_1269"></span>[377:1](rac27.htm#fr_1271.md) D'Arbois, v. 384;
 O'Grady, ii. 385.
 
-<span id="fn_1270"></span>[377:2](rac27.htm#fr_1272) *TOS* iii. 119;
+<span id="fn_1270"></span>[377:2](rac27.htm#fr_1272.md) *TOS* iii. 119;
 Joyce, *OCR* 314. For a folk-tale version see *Folk-Lore*, vii. 321.
 
-<span id="fn_1271"></span>[377:3](rac27.htm#fr_1273) Leahy, i. 36;
+<span id="fn_1271"></span>[377:3](rac27.htm#fr_1273.md) Leahy, i. 36;
 Campbell, *LF* 29; *CM* xiii. 285; *Dean of Lismore's Book*, 54.
 
-<span id="fn_1272"></span>[377:4](rac27.htm#fr_1274) O'Curry, *MC* ii.
+<span id="fn_1272"></span>[377:4](rac27.htm#fr_1274.md) O'Curry, *MC* ii.
 143; Cormac, 35.
 
-<span id="fn_1273"></span>[378:1](rac27.htm#fr_1275) See [p.
-187](rac15.htm#page_187), *supra*; *IT* iii. 213.
+<span id="fn_1273"></span>[378:1](rac27.htm#fr_1275.md) See [p.
+187](rac15.htm#page_187.md), *supra*; *IT* iii. 213.
 
-<span id="fn_1274"></span>[379:1](rac27.htm#fr_1276) See Gaidoz, "La
+<span id="fn_1274"></span>[379:1](rac27.htm#fr_1276.md) See Gaidoz, "La
 Requisition de l'Arnour et la Symbolisme de la Pomme," *Ann. de l'École
 Pratique des Hautes Études*, 1902; Fraser, *Pausanias*, iii. 67.
 
-<span id="fn_1275"></span>[379:2](rac27.htm#fr_1277) Rhŷs, *HL* 359.
+<span id="fn_1275"></span>[379:2](rac27.htm#fr_1277.md) Rhŷs, *HL* 359.
 
-<span id="fn_1276"></span>[380:1](rac27.htm#fr_1278) "The Silver Bough
+<span id="fn_1276"></span>[380:1](rac27.htm#fr_1278.md) "The Silver Bough
 in Irish Legend," *Folk-Lore*, xii. 431.
 
-<span id="fn_1277"></span>[380:2](rac27.htm#fr_1279) Cook, *Folk-Lore*,
+<span id="fn_1277"></span>[380:2](rac27.htm#fr_1279.md) Cook, *Folk-Lore*,
 xvii. 158.
 
-<span id="fn_1278"></span>[380:3](rac27.htm#fr_1280) *IT* i. 133.
+<span id="fn_1278"></span>[380:3](rac27.htm#fr_1280.md) *IT* i. 133.
 
-<span id="fn_1279"></span>[381:1](rac27.htm#fr_1281) O'Donovan, *Battle
+<span id="fn_1279"></span>[381:1](rac27.htm#fr_1281.md) O'Donovan, *Battle
 of Mag Rath*, 550; D'Arbois, v. 67; *IT* i. 96. Dagda's cauldron came
 from Murias, probably an oversea world.
 
-<span id="fn_1280"></span>[381:2](rac27.htm#fr_1282) Miss Hull, 244.
+<span id="fn_1280"></span>[381:2](rac27.htm#fr_1282.md) Miss Hull, 244.
 Scath is here the Other-world, conceived, however, as a dismal abode.
 
-<span id="fn_1281"></span>[381:3](rac27.htm#fr_1283) O'Curry, *MC* ii.
+<span id="fn_1281"></span>[381:3](rac27.htm#fr_1283.md) O'Curry, *MC* ii.
 97, iii. 79; Keating, 284 f.; *RC* xv. 449.
 
-<span id="fn_1282"></span>[381:4](rac27.htm#fr_1284) Skene, i. 264; cf.
+<span id="fn_1282"></span>[381:4](rac27.htm#fr_1284.md) Skene, i. 264; cf.
 *RC* xxii. 14.
 
-<span id="fn_1283"></span>[381:5](rac27.htm#fr_1285) P.
-[116](rac09.htm#page_116), *supra*.
+<span id="fn_1283"></span>[381:5](rac27.htm#fr_1285.md) P.
+[116](rac09.htm#page_116.md), *supra*.
 
-<span id="fn_1284"></span>[382:1](rac27.htm#fr_1286) Guest, iii. 321 f.
+<span id="fn_1284"></span>[382:1](rac27.htm#fr_1286.md) Guest, iii. 321 f.
 
-<span id="fn_1285"></span>[382:2](rac27.htm#fr_1287) See pp.
-[103](rac09.htm#page_103), [117](rac09.htm#page_117), *supra*.
+<span id="fn_1285"></span>[382:2](rac27.htm#fr_1287.md) See pp.
+[103](rac09.htm#page_103), [117](rac09.htm#page_117.md), *supra*.
 
-<span id="fn_1286"></span>[382:3](rac27.htm#fr_1288) For the use of a
+<span id="fn_1286"></span>[382:3](rac27.htm#fr_1288.md) For the use of a
 vessel in ritual as a symbol of deity, see Crooke, *Folk-Lore*, viii.
 351 f.
 
-<span id="fn_1287"></span>[382:4](rac27.htm#fr_1289) Diod. Sic. v. 28;
+<span id="fn_1287"></span>[382:4](rac27.htm#fr_1289.md) Diod. Sic. v. 28;
 Athen. iv. 34; Joyce, *SH* ii. 124; *Antient Laws of Ireland*, iv. 327.
 The cauldrons of Irish houses are said in the texts to be inexhaustible
 (cf. *RC* xxiii. 397).
 
-<span id="fn_1288"></span>[383:1](rac27.htm#fr_1290) Strabo, vii. 2. 1;
+<span id="fn_1288"></span>[383:1](rac27.htm#fr_1290.md) Strabo, vii. 2. 1;
 Lucan, Usener's ed., p. 32; *IT* iii. 210; *Antient Laws of Ireland*, i.
 195 f.
 
-<span id="fn_1289"></span>[383:2](rac27.htm#fr_1291) Curtin, *HTI* 249,
+<span id="fn_1289"></span>[383:2](rac27.htm#fr_1291.md) Curtin, *HTI* 249,
 262.
 
-<span id="fn_1290"></span>[384:1](rac27.htm#fr_1292) See Villemarqué,
+<span id="fn_1290"></span>[384:1](rac27.htm#fr_1292.md) See Villemarqué,
 *Contes Pop. des anciens Bretons*, Paris, 1842; Rhŷs, *AL* and
 especially Nutt, *Legend of the Holy Grail*, 1888.
 
-<span id="fn_1291"></span>[384:2](rac27.htm#fr_1293) "Adventures of
+<span id="fn_1291"></span>[384:2](rac27.htm#fr_1293.md) "Adventures of
 Nera, " *RC* x. 226; *RC* xvi. 62, 64.
 
-<span id="fn_1292"></span>[384:3](rac27.htm#fr_1294) P.
-[106](rac09.htm#page_106), *supra*.
+<span id="fn_1292"></span>[384:3](rac27.htm#fr_1294.md) P.
+[106](rac09.htm#page_106.md), *supra*.
 
-<span id="fn_1293"></span>[384:4](rac27.htm#fr_1295) P.
-[107](rac09.htm#page_107), *supra*.
+<span id="fn_1293"></span>[384:4](rac27.htm#fr_1295.md) P.
+[107](rac09.htm#page_107.md), *supra*.
 
-<span id="fn_1294"></span>[385:1](rac27.htm#fr_1296) For parallel myths
+<span id="fn_1294"></span>[385:1](rac27.htm#fr_1296.md) For parallel myths
 see *Rig-Veda*, i. 53. 2; Campbell, *Travels in South Africa*, i. 306;
 Johnston, *Uganda Protectorate*, ii. 704; Ling Roth, *Natives of
 Sarawak*, i. 307; and cf. the myth of Prometheus.
 
-<span id="fn_1295"></span>[385:2](rac27.htm#fr_1297) This is found in
+<span id="fn_1295"></span>[385:2](rac27.htm#fr_1297.md) This is found in
 the stories of Bran, Maelduin, Connla, in Fian tales (O'Grady, ii. 228,
 238), in the "Children of Tuirenn," and in Gaelic *Märchen*.
 
-<span id="fn_1296"></span>[385:3](rac27.htm#fr_1298) Martin, 277;
+<span id="fn_1296"></span>[385:3](rac27.htm#fr_1298.md) Martin, 277;
 Sébillot, ii. 76.
 
-<span id="fn_1297"></span>[385:4](rac27.htm#fr_1299) Burton, *Thousand
+<span id="fn_1297"></span>[385:4](rac27.htm#fr_1299.md) Burton, *Thousand
 Nights and a Night*, x. 239; Chamberlain, *Aino Folk-Tales*, 38;
 *L'Anthropologie*, v. 507; Maspero, *Hist. anc. des peuples de
 l'Orient*, i. 183. The lust of the women of these islands is fatal to
 their lovers.
 
-<span id="fn_1298"></span>[386:1](rac27.htm#fr_1300) An island near New
+<span id="fn_1298"></span>[386:1](rac27.htm#fr_1300.md) An island near New
 Guinea is called "the land of women." On it men are allowed to land
 temporarily, but only the female offspring of the women are allowed to
 survive (*L'Anthrop.* v. 507). The Indians of Florida had a tradition of
@@ -1151,20 +1151,20 @@ an island in a lake inhabited by the fairest women (Chateaubriand,
 of goddesses, near the land of the gods, to which a few favoured mortals
 are admitted (Williams, *Fiji*, i. 114).
 
-<span id="fn_1299"></span>[386:2](rac27.htm#fr_1301) P.
-[274](rac21.htm#page_274), *supra*. Islands may have been regarded as
+<span id="fn_1299"></span>[386:2](rac27.htm#fr_1301.md) P.
+[274](rac21.htm#page_274.md), *supra*. Islands may have been regarded as
 sacred because of such cults, as the folk-lore reported by Plutarch
-suggests ([p. 343](rac25.htm#page_343), *supra*). Celtic saints retained
+suggests ([p. 343](rac25.htm#page_343), *supra*.md). Celtic saints retained
 the veneration for islands, and loved to dwell on them, and the idea
 survives in folk-belief. Cf. the veneration of Lewismen for the Flannan
 islands.
 
-<span id="fn_1300"></span>[388:1](rac27.htm#fr_1302) Gir. Camb. *Itin.
+<span id="fn_1300"></span>[388:1](rac27.htm#fr_1302.md) Gir. Camb. *Itin.
 Camb.* i. 8.
 
-<span id="fn_1301"></span>[389:1](rac27.htm#fr_1303) Translations of
+<span id="fn_1301"></span>[389:1](rac27.htm#fr_1303.md) Translations of
 some of these *Voyages* by Stokes are given in *RC*, vols. ix. x. and
 xiv. See also Zimmer, "Brendan's Meerfahrt," *Zeits. für Deut. Alt.*
 xxxiii.; cf. Nutt-Meyer, ch. 4, 8.
 
-<span id="fn_1302"></span>[389:2](rac27.htm#fr_1304) *RC* iv. 243.
+<span id="fn_1302"></span>[389:2](rac27.htm#fr_1304.md) *RC* iv. 243.

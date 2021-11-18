@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp63)  [Next](dmp65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp63)  [Next](dmp65.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ then it gives you great praise, love, and respect.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXXIII](dmp65)
+[Next: Verso Col. XXXIII](dmp65.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep20)  [Next](nep22) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep20)  [Next](nep22.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ again.
 
 ------------------------------------------------------------------------
 
-[Next: The Burning of Mr. John Rogers](nep22)
+[Next: The Burning of Mr. John Rogers](nep22.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim33)  [Next](sim35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim33)  [Next](sim35.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ covered with white blossoms; when the tree was in bloom, its blossoms
 gave light to the people and when the blossoms fell, there was darkness.
 
 One time a woman in that village dreamed and in her dream an
-*oñgwe* <span id="fr_3"></span>[1](#fn_3) said to her, "That tree with
+*oñgwe* <span id="fr_3"></span>[1](#fn_3.md) said to her, "That tree with
 white blossoms on it must be pulled up by the roots."
 
 When the woman told her dream, the people were silent, Some time passed
@@ -229,8 +229,8 @@ The younger brother was angry, and he said "I can't
 
 ### Footnotes
 
-<span id="fn_3"></span>[192:1](sim34.htm#fr_3) Man (Indian).
+<span id="fn_3"></span>[192:1](sim34.htm#fr_3) Man (Indian.md).
 
 ------------------------------------------------------------------------
 
-[Next: The Buffalo Women](sim35)
+[Next: The Buffalo Women](sim35.md)

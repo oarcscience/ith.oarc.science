@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl166)  [Next](cohl168) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl166)  [Next](cohl168.md) 
 
 ------------------------------------------------------------------------
 
@@ -337,4 +337,4 @@ Yondwi'niasswa:'yas (she commits abortion), 30
 
 ------------------------------------------------------------------------
 
-[Next: Index](cohl168)
+[Next: Index](cohl168.md)

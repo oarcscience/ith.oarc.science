@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf37)  [Next](fmf39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf37)  [Next](fmf39.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ MORAL: Let on to be Interested and Pleased.
 
 ------------------------------------------------------------------------
 
-[Next: The Fable of The Girl Who Could Compromise in a Pinch](fmf39)
+[Next: The Fable of The Girl Who Could Compromise in a Pinch](fmf39.md)

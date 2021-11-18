@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes08)  [Next](nes10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes08)  [Next](nes10.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,16 +35,16 @@ Is happy, blithe, and gay."</td>
 </tbody>
 </table>
 
- <span id="fr_16"></span>[1](#fn_16)
+ <span id="fr_16"></span>[1](#fn_16.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE child that was born with a caul was said to be successful in
-life. <span id="fr_17"></span>[2](#fn_17) The caul, or "silly hoo," was
+life. <span id="fr_17"></span>[2](#fn_17.md) The caul, or "silly hoo," was
 much prized. It brought success to the possessor, and the smallest part
 of it was a sure guard against drowning. Many in emigrant has gone to
 the possessor of such a powerful charm, got a nail's breadth of it,
@@ -87,7 +87,7 @@ pride.
 When one's hair was cut, it must be all carefully collected and burned
 to prevent it from being used by birds to build their nests. If used for
 that purpose headache was the result. <span
-id="fr_18"></span>[1](#fn_18)
+id="fr_18"></span>[1](#fn_18.md)
 
 The child who had long slender fingers was believed not to have to make
 a living by any handicraft or manual toil, but by merchandise, or at the
@@ -102,7 +102,7 @@ proves unkind to his wife.
 
 White spots on the nails are called "presents." The nearer the spots are
 to the points of the nails, the nearer are the gifts. <span
-id="fr_19"></span>[2](#fn_19)
+id="fr_19"></span>[2](#fn_19.md)
 
 It was the notion that the marriage ring was put on the ring-finger
 because there goes a vein directly from that finger to the heart.
@@ -123,7 +123,7 @@ letter was lying in the post-office for you; in the palm of the right
 hand, that the hand of a friend was soon to be shaken; in that of the
 left, that money was to be received in a short time; in the soles of the
 feet, that a journey would shortly be undertaken. <span
-id="fr_20"></span>[1](#fn_20)
+id="fr_20"></span>[1](#fn_20.md)
 
 Sneezing held an important place in the fancy of the folk. Here is the
 rhyme about it:--
@@ -134,7 +134,7 @@ Sneeze on Wednesday; kiss a stranger.
 Sneeze on Feersday; sneeze for danger.  
 Sneeze on Friday; sneeze for sorrow.  
 Sneeze on Saiturday; kiss your sweetheart to-morrow." <span
-id="fr_21"></span>[2](#fn_21)
+id="fr_21"></span>[2](#fn_21.md)
 
 ### THE DEAF AND DUMB.
 
@@ -176,19 +176,19 @@ lucky than unfortunate to have such a child.
 
 ### Footnotes
 
-<span id="fn_16"></span>[25:1](nes09.htm#fr_16) Cf. Henderson, p. 9.
+<span id="fn_16"></span>[25:1](nes09.htm#fr_16.md) Cf. Henderson, p. 9.
 
-<span id="fn_17"></span>[25:2](nes09.htm#fr_17) *Ibid*. p. 22.
+<span id="fn_17"></span>[25:2](nes09.htm#fr_17.md) *Ibid*. p. 22.
 
-<span id="fn_18"></span>[26:1](nes09.htm#fr_18) Cf. Henderson, p. 112.
+<span id="fn_18"></span>[26:1](nes09.htm#fr_18.md) Cf. Henderson, p. 112.
 
-<span id="fn_19"></span>[26:2](nes09.htm#fr_19) *Ibid*. p. 113.
+<span id="fn_19"></span>[26:2](nes09.htm#fr_19.md) *Ibid*. p. 113.
 
-<span id="fn_20"></span>[27:1](nes09.htm#fr_20) Cf. Henderson, pp. 112,
+<span id="fn_20"></span>[27:1](nes09.htm#fr_20.md) Cf. Henderson, pp. 112,
 113.
 
-<span id="fn_21"></span>[27:2](nes09.htm#fr_21) *Ibid*, p. 137.
+<span id="fn_21"></span>[27:2](nes09.htm#fr_21.md) *Ibid*, p. 137.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Dreams, Divination, &c.](nes10)
+[Next: Chapter VII. Dreams, Divination, &c.](nes10.md)

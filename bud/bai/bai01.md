@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bai00) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bai00.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076614531X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076614531X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhism and Immortality*, by William Sturgis Bigelow, \[1908\], at
 Intangible Textual Heritage
 
@@ -797,7 +797,7 @@ a watch that registers either the movement of external nature or the
 impulse of the will. The two ways of growth correspond to this. In
 Buddhism they are called respectively the Objective or Exterior and the
 Subjective or Interior Methods or Systems. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 One is through the external acts of daily life, by so ordering them that
 the lower reflexes are gradually eliminated and the higher ones left and
@@ -986,7 +986,7 @@ U . S . A</span></span>
 
 ### Footnotes
 
-<span id="fn_0"></span>[62:1](bai01.htm#fr_0) In Japanese *Kengyo* and
+<span id="fn_0"></span>[62:1](bai01.htm#fr_0.md) In Japanese *Kengyo* and
 *Mikkyo*, literally, "Apparent" and "Non-apparent Systems." Occasional
 erroneous translation of these terms as "Revealed" and "Secret or
 Esoteric Doctrine" has led to some popular misconceptions.

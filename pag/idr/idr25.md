@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr24) 
-[Next](idr26) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr24.md) 
+[Next](idr26.md) 
 
 ------------------------------------------------------------------------
 
@@ -269,4 +269,4 @@ County Cork. The story is related in *the Folly of Pilgrimages*.
 
 ------------------------------------------------------------------------
 
-[Next: The Shamrock, and Other Sacred Plants](idr26)
+[Next: The Shamrock, and Other Sacred Plants](idr26.md)

@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao75)   
-[Previous](tao74)  [Next](tao76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao75.md)   
+[Previous](tao74)  [Next](tao76.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ not absorbed in life is wiser than he who esteems life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 76](tao76)
+[Next: Chapter 76](tao76.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi160)  [Next](mtsi162) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi160)  [Next](mtsi162.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ nothing of his camp and night again came. He sat down between the roots
 of a tree. Not far off from the place he had reached was a large lake
 and he heard something big come out of the water there. When it came
 toward him, however, a horned owl-crawfish <span
-id="fr_41"></span>[1](#fn_41) called. It made a noise and he heard
+id="fr_41"></span>[1](#fn_41.md) called. It made a noise and he heard
 footsteps close to him. In preparation for it he sat with his gun ready
 to shoot. It did not reach him, however, and at daybreak he mounted his
 horse and traveled about until night without seeing anything. Then he
@@ -38,9 +38,9 @@ thought, "He is dead," Others had kept on hunting for him.
 
 ### Footnotes
 
-<span id="fn_41"></span>[145:1](mtsi161.htm#fr_41) A supernatural being
+<span id="fn_41"></span>[145:1](mtsi161.htm#fr_41.md) A supernatural being
 of some sort; perhaps a ghost in disguise.
 
 ------------------------------------------------------------------------
 
-[Next: 26. The Ghost](mtsi162)
+[Next: 26. The Ghost](mtsi162.md)

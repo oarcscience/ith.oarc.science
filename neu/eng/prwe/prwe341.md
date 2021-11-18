@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe340)  [Next](prwe342) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe340)  [Next](prwe342.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ since--and that's a true story." \[a\]
 
 ------------------------------------------------------------------------
 
-[Next: The Mermaid's Revenge](prwe342)
+[Next: The Mermaid's Revenge](prwe342.md)

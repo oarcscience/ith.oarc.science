@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mcb11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mcb11.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,14 +38,14 @@ The nine are as follows:
 
 <span id="page_175">p. 175</span>
 
-### 1. NYORAI <span id="fr_151"></span>[1](#fn_150) AND SAICHI <span id="fr_152"></span>[2](#fn_151)
+### 1. NYORAI <span id="fr_151"></span>[1](#fn_150) AND SAICHI <span id="fr_152"></span>[2](#fn_151.md)
 
 #### 1
 
 I exchange work with Amida:  
 I worship him who in turn deigns to worship me--  
 This is the way I exchange work with him. <span
-id="fr_153"></span>[3](#fn_152)
+id="fr_153"></span>[3](#fn_152.md)
 
 #### 2
 
@@ -76,14 +76,14 @@ I too in turn worship Amida
 The adorable form of Nyorai  
 Is indeed this wretched self's form  
 "Namu-amida-butsu, Namu-amida-butsu! <span
-id="fr_154"></span>[4](#fn_153)
+id="fr_154"></span>[4](#fn_153.md)
 
 #### 5
 
 Buddha is worshiped by \[another\] Buddha:  
 The Namu is worshiped by Amida,  
 Amida is worshiped by the Namu:  
-This is the meaning of *kimyo* <span id="fr_155"></span>[5](#fn_154)  
+This is the meaning of *kimyo* <span id="fr_155"></span>[5](#fn_154.md)  
 As expressed in the "Namu-amida-butsu."
 
 #### 6
@@ -111,7 +111,7 @@ For this favor Saichi is most grateful.
 #### 9
 
 What all the Buddhas of the *Hokkai* <span
-id="fr_156"></span>[6](#fn_155) declare  
+id="fr_156"></span>[6](#fn_155.md) declare  
 Is to make this Saichi turn into a Buddha--  
 "Namu-amida-butsu, Namu-amida-butsu!"
 
@@ -129,7 +129,7 @@ And I am in it--"Namu-amida-butsu!"
 
 <span id="page_178">p. 178</span>
 
-### 2. OYA-SAMA <span id="fr_157"></span>[7](#fn_156)
+### 2. OYA-SAMA <span id="fr_157"></span>[7](#fn_156.md)
 
 #### 12
 
@@ -169,7 +169,7 @@ Saying "Namu-amida-butsu" I return west.
 
 #### 17
 
-Are devils <span id="fr_158"></span>[8](#fn_157) come?  
+Are devils <span id="fr_158"></span>[8](#fn_157.md) come?  
 Are serpents come?  
 I know not.  
 I live my life embraced in the arms of Oya-sama,  
@@ -218,7 +218,7 @@ Being my Oya--
 
 Oya and child--  
 Between them not a shadow of doubt: <span
-id="fr_159"></span>[9](#fn_158)  
+id="fr_159"></span>[9](#fn_158.md)  
 This is my joy!
 
 #### 24
@@ -241,7 +241,7 @@ Really, a wretched man I am!
 
 #### 26
 
-Namu-san <span id="fr_160"></span>[10](#fn_159) and Amida-san are
+Namu-san <span id="fr_160"></span>[10](#fn_159.md) and Amida-san are
 talking:  
 This is the "Namu-amida-butsu" of Oya and son.
 
@@ -269,7 +269,7 @@ How happy I am with the favor, "Namu-amida-butsu!"
 
 <span id="page_182">p. 182</span>
 
-### 3. THE NEMBUTSU <span id="fr_161"></span>[11](#fn_160)
+### 3. THE NEMBUTSU <span id="fr_161"></span>[11](#fn_160.md)
 
 #### 29
 
@@ -434,7 +434,7 @@ Nothing exceeds this feeling of relief.
 
 <span id="page_187">p. 187</span>
 
-### 4. THE KI AND THE HŌ <span id="fr_162"></span>[12](#fn_161)
+### 4. THE KI AND THE HŌ <span id="fr_162"></span>[12](#fn_161.md)
 
 #### 50
 
@@ -519,7 +519,7 @@ How happy with the favor!
 
 If the *Namu* is myself, Amida is myself too:  
 This is the "Namu-amida-butsu" of six syllables. <span
-id="fr_163"></span>[13](#fn_162)
+id="fr_163"></span>[13](#fn_162.md)
 
 #### 58
 
@@ -581,7 +581,7 @@ How grateful for the favor!
 
 <span id="page_191">p. 191</span>
 
-### 5. THE PURE LAND, THIS WORLD AND HELL <span id="fr_164"></span>[14](#fn_163)
+### 5. THE PURE LAND, THIS WORLD AND HELL <span id="fr_164"></span>[14](#fn_163.md)
 
 #### 65
 
@@ -604,7 +604,7 @@ Than this world itself.
 This world is Namu-amida-butsu  
 just as much as the Land of Bliss is.  
 How grateful, how grateful I am!  
-This Saichi's eye <span id="fr_165"></span>[15](#fn_164) is the boundary
+This Saichi's eye <span id="fr_165"></span>[15](#fn_164.md) is the boundary
 line  
 \[Between this world and the Land of Bliss\].  
 "Namu-amida-butsu, Namu-amida-butsu!"
@@ -829,7 +829,7 @@ By means of the "Namu-amida-butsu" this is attained;
 
 <span id="page_198">p. 198</span>
 
-### 6. THE FREE GIFT <span id="fr_166"></span>[16](#fn_165)
+### 6. THE FREE GIFT <span id="fr_166"></span>[16](#fn_165.md)
 
 #### 96
 
@@ -1035,7 +1035,7 @@ The *ki* and *hō* are one in the "Namu-amida-butsu."
 #### 112
 
 "O Saichi, tell us what kind of taste <span
-id="fr_167"></span>[17](#fn_166) is the taste of 'Namu-amida-butsu,  
+id="fr_167"></span>[17](#fn_166.md) is the taste of 'Namu-amida-butsu,  
 Tell us what kind of taste is the taste of 'Namu-amida-butsu.'  
 "The taste of the 'Namu-amida-butsu' is:  
 A joy filling up the bosom,  
@@ -1092,11 +1092,11 @@ And Thy heart received by me!
 
 <span id="page_206">p. 206</span>
 
-### 7. THE HEART-SEARCHINGS <span id="fr_168"></span>[18](#fn_167)
+### 7. THE HEART-SEARCHINGS <span id="fr_168"></span>[18](#fn_167.md)
 
 #### 119
 
-The *bombu* <span id="fr_169"></span>[19](#fn_168) cannot live with
+The *bombu* <span id="fr_169"></span>[19](#fn_168.md) cannot live with
 Buddha,  
 Because he has no humility and joy;  
 Lives with Buddha--  
@@ -1105,7 +1105,7 @@ Lives with Buddha--
 #### 120
 
 Saying "I cannot understand,"  
-They seize upon the *bonnō* <span id="fr_170"></span>[20](#fn_169) and
+They seize upon the *bonnō* <span id="fr_170"></span>[20](#fn_169.md) and
 investigate;  
 But the *bonnō* is the body of merit;  
 This makes me laugh.
@@ -1207,11 +1207,11 @@ How happy I am with the favor!
 The wretched heart of contrition--  
 The thankful heart of joy--  
 The "Namu-amida-butsu" of contrition and joy! <span
-id="fr_171"></span>[21](#fn_170)
+id="fr_171"></span>[21](#fn_170.md)
 
 <span id="page_210">p. 210</span>
 
-### 8. POVERTY <span id="fr_172"></span>[22](#fn_171)
+### 8. POVERTY <span id="fr_172"></span>[22](#fn_171.md)
 
 #### 131
 
@@ -1236,7 +1236,7 @@ And Thou hast given me the *Nembutsu*--"Namu-amida-butsu."
 
 <span id="page_211">p. 211</span>
 
-### 9. THE INNER LIFE <span id="fr_173"></span>[23](#fn_172)
+### 9. THE INNER LIFE <span id="fr_173"></span>[23](#fn_172.md)
 
 #### 134
 
@@ -1261,12 +1261,12 @@ So I am told.
 
 How wretched!  
 Wretchedness too is of suchness. <span
-id="fr_174"></span>[24](#fn_173)  
+id="fr_174"></span>[24](#fn_173.md)  
 How thankful!  
 Buddha's favor too is of suchness.  
 Both *ki* and *hō* are Oya-sama's work. <span
-id="fr_175"></span>[25](#fn_174) <span id="page_212">p. 212</span>  
-All out, nothing kept back! <span id="fr_176"></span>[26](#fn_175)  
+id="fr_175"></span>[25](#fn_174.md) <span id="page_212">p. 212</span>  
+All out, nothing kept back! <span id="fr_176"></span>[26](#fn_175.md)  
 How grateful for the favor!  
 Nothing's left for me to do.  
 How grateful for the favor!  
@@ -1302,9 +1302,9 @@ That there's nothing the matter--this is the "Namu-amida-butsu."
 
 #### 142
 
-To be grateful is not *anjin*; <span id="fr_177"></span>[27](#fn_176)  
+To be grateful is not *anjin*; <span id="fr_177"></span>[27](#fn_176.md)  
 Nothing happening is nothing happening.  
-To be grateful is a fraud--- <span id="fr_178"></span>[28](#fn_177)  
+To be grateful is a fraud--- <span id="fr_178"></span>[28](#fn_177.md)  
 ’Tis true, ’tis true!
 
 #### 143
@@ -1325,7 +1325,7 @@ How to be thankful for the favor--I know not!
 #### 145
 
 I am happy!  
-The root of sinfulness <span id="fr_179"></span>[29](#fn_178) is cut
+The root of sinfulness <span id="fr_179"></span>[29](#fn_178.md) is cut
 off;  
 Though still functioning, it is the same as non-existent.  
 How happy I am!  
@@ -1350,11 +1350,11 @@ How wretched, how wretched I am!
 
 ### Footnotes
 
-<span id="fn_150"></span>[175:1](mcb12.htm#fr_151) *Nyorai* is the
+<span id="fn_150"></span>[175:1](mcb12.htm#fr_151.md) *Nyorai* is the
 Japanese reading for Chinese *ju-lai*, which is the translation of the
 Sanskrit *tathāgata*. It means "one who thus comes (or goes)."
 
-<span id="fn_151"></span>[175:2](mcb12.htm#fr_152) *Cf*. Angelus
+<span id="fn_151"></span>[175:2](mcb12.htm#fr_152.md) *Cf*. Angelus
 Silesius, German mystic-poet:
 
 I know that without me  
@@ -1367,64 +1367,64 @@ And He is small like me;
 He cannot be above,  
 Nor I below Him be.
 
-<span id="fn_152"></span>[175:3](mcb12.htm#fr_153) The Japanese for
+<span id="fn_152"></span>[175:3](mcb12.htm#fr_153.md) The Japanese for
 "worship" is *ogamu*, which literally means "to bow to an object
 reverentially and devotionally." "Worship" may sound too strong, but if
 it is understood in the sense of "religious reverence and homage" as it
 is ordinarily done, there is no harm in the use of the term.
 
-<span id="fn_153"></span>[176:4](mcb12.htm#fr_154) Dreamed on the night
+<span id="fn_153"></span>[176:4](mcb12.htm#fr_154.md) Dreamed on the night
 of May 22.
 
-<span id="fn_154"></span>[176:5](mcb12.htm#fr_155) *Kimyo* is the
+<span id="fn_154"></span>[176:5](mcb12.htm#fr_155.md) *Kimyo* is the
 Japanese for *namu*, meaning "taking refuge," "adoration," "worshiping,"
 etc. The author here probably intends to mean that mutual worshiping of
 Namu and Amida is the meaning of "Namu-amida-butsu," or that
 "Namu-amida-butsu" symbolizes the oneness of Amida and every one of us.
 
-<span id="fn_155"></span>[177:6](mcb12.htm#fr_156) *Hokkai* is
+<span id="fn_155"></span>[177:6](mcb12.htm#fr_156.md) *Hokkai* is
 *dharmadhātu* in Sanskrit, meaning the universe as the totality of all
 things.
 
-<span id="fn_156"></span>[178:7](mcb12.htm#fr_157) *Oya* has no English
+<span id="fn_156"></span>[178:7](mcb12.htm#fr_157.md) *Oya* has no English
 equivalent. It is both motherhood and fatherhood, not in their
 biological sense but as the symbol of loving-kindness. Sama, an
 honorific particle, is sometimes shortened to san which is less formal
 and more friendly and intimate.
 
-<span id="fn_157"></span>[179:8](mcb12.htm#fr_158) *Oni* in Japanese,
+<span id="fn_157"></span>[179:8](mcb12.htm#fr_158.md) *Oni* in Japanese,
 evil spirits under the King of Death (*yāmarāja*).
 
-<span id="fn_158"></span>[180:9](mcb12.htm#fr_159) Meaning absolute
+<span id="fn_158"></span>[180:9](mcb12.htm#fr_159.md) Meaning absolute
 trust between Amida as Oya-sama and Saichi as child.
 
-<span id="fn_159"></span>[181:10](mcb12.htm#fr_160) This is Saichi
+<span id="fn_159"></span>[181:10](mcb12.htm#fr_160.md) This is Saichi
 himself. Namu is personified here.
 
-<span id="fn_160"></span>[182:11](mcb12.htm#fr_161) The Nembutsu
+<span id="fn_160"></span>[182:11](mcb12.htm#fr_161.md) The Nembutsu
 (literally "thinking of Buddha") and the *Myōgō* ("name") are often
 interchangeable. Both refer to the six syllables:
 "*Na-mu-a-mi-da-buts*(*u*)." The syllables serve three purposes: (1) as
 the *Myōgō* itself, (2) as an actual invocation, and (3) as the symbol
 of identity.
 
-<span id="fn_161"></span>[187:12](mcb12.htm#fr_162) The following
+<span id="fn_161"></span>[187:12](mcb12.htm#fr_162.md) The following
 equations hold: the *Ki* = *Jiriki* ("self-power") = the *Namu* = the
 supplicating individual = the sinner = Saichi. The *Hō* = Amida = Buddha
 = Enlightenment = *Tariki* ("other-power") = Reality = the *Dharma* =
 Oya-sama = Tathāgata.
 
-<span id="fn_162"></span>[189:13](mcb12.htm#fr_163) Saichi generally
+<span id="fn_162"></span>[189:13](mcb12.htm#fr_163.md) Saichi generally
 declares *Namu* to be himself and Amida to be Oya-sama. To identify
 himself with both *Namu* and Amida is unusual. We may however remark
 that Saichi often equates himself with "Namu-amida-butsu," which means
 that he is Amida as well as *Namu*.
 
-<span id="fn_163"></span>[191:14](mcb12.htm#fr_164) Jigoku is hell
+<span id="fn_163"></span>[191:14](mcb12.htm#fr_164.md) Jigoku is hell
 generally, *Gokuraku* is the Land of Bliss, *Jōdo* is the Pure Land, and
 *shaba* is "this world" or *sahalokadhātu* in Sanskrit.
 
-<span id="fn_164"></span>[191:15](mcb12.htm#fr_165) This does not
+<span id="fn_164"></span>[191:15](mcb12.htm#fr_165.md) This does not
 necessarily mean that when the eyes are closed which symbolize death we
 are in the Pure Land and that while they are kept open we are in this
 world. Saichi's idea probably is metaphysical or dialectical, though of
@@ -1432,7 +1432,7 @@ course this is not to say that Saichi has reasoned out all these things
 consciously after the fashion of a philosopher. Saichi's allusion to the
 eye reminds us of Eckhart's remark on it.
 
-<span id="fn_165"></span>[198:16](mcb12.htm#fr_166) The gift or favor
+<span id="fn_165"></span>[198:16](mcb12.htm#fr_166.md) The gift or favor
 coming from Amida is a free one, for he never asks anything in exchange
 or in compensation. When the sinner (*ki*) utters "Namu-amida-butsu" in
 all sincerity he is at once made conscious of his being from the first
@@ -1442,12 +1442,12 @@ illusive ideas cherished about himself. When they are wiped away, he
 realizes that the sun has always been there and finds himself basking in
 its light of infinity.
 
-<span id="fn_166"></span>[204:17](mcb12.htm#fr_167) "Taste"--Bible
+<span id="fn_166"></span>[204:17](mcb12.htm#fr_167.md) "Taste"--Bible
 reference: *Imitation Of Christ*, Chapter XXXIV. "To him who tasteth
 Thee, what can be distasteful? And to him who tasteth Thee not, what is
 there which can make him joyous?"
 
-<span id="fn_167"></span>[206:18](mcb12.htm#fr_168) While at the moment
+<span id="fn_167"></span>[206:18](mcb12.htm#fr_168.md) While at the moment
 of exaltation Saichi feels he is Amida himself in company with Buddhas
 and Bodhisattvas who fill the whole universe, there are occasions when
 he feels the contrary. He then is the most despicable creature, like a
@@ -1463,14 +1463,14 @@ as Eckhart would say. Students of the religious consciousness know well
 that there is something of ambivalence in every devout soul. In this
 respect Saichi's utterances are of unusual importance.
 
-<span id="fn_168"></span>[206:19](mcb12.htm#fr_169) *Bombu* is the
+<span id="fn_168"></span>[206:19](mcb12.htm#fr_169.md) *Bombu* is the
 unenlightened and stands in contrast to Buddha.
 
-<span id="fn_169"></span>[206:20](mcb12.htm#fr_170) *Kleśa* in Sanskrit,
+<span id="fn_169"></span>[206:20](mcb12.htm#fr_170.md) *Kleśa* in Sanskrit,
 generally rendered "evil passions." They are the product of ignorance
 (*avidyā*) and thirst (*tṛiṣṇā*).
 
-<span id="fn_170"></span>[209:21](mcb12.htm#fr_171) Logically speaking,
+<span id="fn_170"></span>[209:21](mcb12.htm#fr_171.md) Logically speaking,
 this is a case of identity in absolute contradiction. Saichi
 demonstrates this experientially. When he is conscious of his
 finiteness, being bound to the law of karmic causation, his heart is
@@ -1480,37 +1480,37 @@ his joy knows no limits. The "Namu-amida-butsu" symbolizes the
 unification or rather identification of utter wretchedness and elated
 joyfulness.
 
-<span id="fn_171"></span>[210:22](mcb12.htm#fr_172) Poverty means that
+<span id="fn_171"></span>[210:22](mcb12.htm#fr_172.md) Poverty means that
 all that one thinks to be one's own is taken or carried away by Amida or
 Oya-sama, that the self-power (*Jiriki*) finds itself of no avail
 whatever. More positively, it is a state of self-realization that Amida
 is all in all.
 
-<span id="fn_172"></span>[211:23](mcb12.htm#fr_173) The inner life is
+<span id="fn_172"></span>[211:23](mcb12.htm#fr_173.md) The inner life is
 the life of suchness, of *kono-mama*, of the "nothing's the matter," of
 the "I know not what," of the horse galloping on the heath (Eckhart), of
 the flea in God's is-ness.
 
-<span id="fn_173"></span>[211:24](mcb12.htm#fr_174) The original
+<span id="fn_173"></span>[211:24](mcb12.htm#fr_174.md) The original
 Japanese reads, "*onodzukara*," which means "*as-it-is-ness*," "being
 natural," "being perfect in itself," or "being sufficient in itself."
 This is *kono-mama* or *sono-mama*.
 
-<span id="fn_174"></span>[211:25](mcb12.htm#fr_175) *Hataraki* in the
+<span id="fn_174"></span>[211:25](mcb12.htm#fr_175.md) *Hataraki* in the
 original means "function," "action," or "operation."
 
-<span id="fn_175"></span>[212:26](mcb12.htm#fr_176) *Marude deru*,
+<span id="fn_175"></span>[212:26](mcb12.htm#fr_176.md) *Marude deru*,
 meaning "to come out in all nakedness," "nothing wanting," "in
 perfection," or "in full operation."
 
-<span id="fn_176"></span>[213:27](mcb12.htm#fr_177) *Anjin*, literally,
+<span id="fn_176"></span>[213:27](mcb12.htm#fr_177.md) *Anjin*, literally,
 "mind pacified," meaning "faith confirmed."
 
-<span id="fn_177"></span>[213:28](mcb12.htm#fr_178) Literally,
+<span id="fn_177"></span>[213:28](mcb12.htm#fr_178.md) Literally,
 *bakemono* is "something unreal," "something temporarily assuming a
 certain shape but not at all genuine."
 
-<span id="fn_178"></span>[213:29](mcb12.htm#fr_179) *Bombu* in Japanese.
+<span id="fn_178"></span>[213:29](mcb12.htm#fr_179.md) *Bombu* in Japanese.
 Saichi uses the term also in an abstract sense, in the sense of
 *bombu*-hood, making it contrast with Buddhahood. Sinfulness here is not
 to be understood in its Christian sense.

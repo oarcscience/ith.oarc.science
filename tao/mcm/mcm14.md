@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](mcm13)  [Next](mcm15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](mcm13)  [Next](mcm15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Musings of a Chinese Mystic*, by Lionel Giles, \[1906\], at Intangible
 Textual Heritage
 
@@ -136,8 +136,8 @@ to desire silence, while in truth they had
 <span id="page_90">p. 90</span>
 
 dispensed with language. They saw in penal laws a trunk <span
-id="fr_22"></span>[1](#fn_22); in social ceremonies, wings <span
-id="fr_23"></span>[2](#fn_23); in wisdom, a useful accessory; in
+id="fr_22"></span>[1](#fn_22.md); in social ceremonies, wings <span
+id="fr_23"></span>[2](#fn_23.md); in wisdom, a useful accessory; in
 morality, a guide. For them penal laws meant a merciful administration;
 social ceremonies, a passport through the world; wisdom, an excuse for
 doing what they could not help; and morality, walking like others upon
@@ -200,12 +200,12 @@ the pure and perfect man who can succeed in avoiding both.
 
 ### Footnotes
 
-<span id="fn_22"></span>[90:1](mcm14.htm#fr_22) A natural basis of
+<span id="fn_22"></span>[90:1](mcm14.htm#fr_22.md) A natural basis of
 government.
 
-<span id="fn_23"></span>[90:2](mcm14.htm#fr_23) To aid man's progress
+<span id="fn_23"></span>[90:2](mcm14.htm#fr_23.md) To aid man's progress
 through life.
 
 ------------------------------------------------------------------------
 
-[Next: Random Gleanings](mcm15)
+[Next: Random Gleanings](mcm15.md)

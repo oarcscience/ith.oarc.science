@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar176) [Next](gbar178)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar176) [Next](gbar178.md)
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ of my delights."
 
 ------------------------------------------------------------------------
 
-[Next](gbar178)
+[Next](gbar178.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar058) [Next](gbar060)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar058) [Next](gbar060.md)
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ I say unto you, I hate rest above all things.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar060)
+[Next](gbar060.md)

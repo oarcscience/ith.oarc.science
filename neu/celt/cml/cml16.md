@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml15)  [Next](cml17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml15)  [Next](cml17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Crete. During his reign, nine new lakes and three new rivers broke forth
 from beneath the earth to give their waters to Erin. Under his auspices,
 gold was first smelted, ornaments of gold and silver were first made,
 and clothes first dyed. He is said to have perished mysteriously <span
-id="fr_185"></span>[1](#fn_185) with
+id="fr_185"></span>[1](#fn_185.md) with
 
 <span id="page_154">p. 154</span>
 
@@ -37,18 +37,18 @@ three-fourths of the men of Erin while worshipping Cromm Cruaich on the
 field of Mag Slecht. In him Mr. Nutt sees, no doubt rightly, the great
 mythical king who, in almost all national histories, closes the strictly
 mythological age, and inaugurates a new era of less obviously divine, if
-hardly less apocryphal characters. <span id="fr_186"></span>[1](#fn_186)
+hardly less apocryphal characters. <span id="fr_186"></span>[1](#fn_186.md)
 
 In spite, however, of the worship of the Tuatha Dé Danann instituted by
 Eremon, we find the early kings and heroes of Ireland walking very
 familiarly with their gods. Eochaid Airem, high king of Ireland, was
 apparently reckoned a perfectly fit suitor for the goddess Etain, and
 proved a far from unsuccessful rival of Mider, the Gaelic Pluto. <span
-id="fr_187"></span>[2](#fn_187) And adventures of love or war were
+id="fr_187"></span>[2](#fn_187.md) And adventures of love or war were
 carried quite as cheerfully among the *sídh* dwellers by Eochaid's
 contemporaries--Conchobar son of Nessa, King of Ulster, Curoi son of
 Daire, King of Munster, Mesgegra, King of Leinster, and Ailell and
-Medb <span id="fr_188"></span>[3](#fn_188), King and Queen of Connaught.
+Medb <span id="fr_188"></span>[3](#fn_188.md), King and Queen of Connaught.
 
 All these figures of the second Gaelic cycle (that of the heroes of
 Ulster, and especially of their great champion, Cuchulainn) lived,
@@ -58,7 +58,7 @@ according to Irish tradition, at about the beginning of the
 
 <span class="contnote">\[paragraph continues\]</span> Christian era.
 Conchobar, indeed, is said to have expired in a fit of rage on hearing
-of the death of Christ. <span id="fr_189"></span>[1](#fn_189)
+of the death of Christ. <span id="fr_189"></span>[1](#fn_189.md)
 
 But this is a very transparent monkish interpolation into the original
 story. A quite different view is taken by most modern scholars, who
@@ -69,7 +69,7 @@ Fenians, Arthur and his Knights once living men round whom the
 attributes of gods have gathered, or were they ancient deities renamed
 and stripped of some of their divinity to make them more akin to their
 human worshippers? History or mythology? A mingling, perhaps, of both.
-Cuchulainn <span id="fr_190"></span>[2](#fn_190) may have been the name
+Cuchulainn <span id="fr_190"></span>[2](#fn_190.md) may have been the name
 of a real Gaelic warrior, however suspiciously he may now resemble the
 sun-god, who is said to have been his father. King Conchobar may have
 been the real chief of a tribe of Irish Celts before he became an
@@ -85,14 +85,14 @@ Arthur--demi-gods. Even so, they stand
 definitely apart from the older gods who were greater than they were.
 
 We are stretching no point in calling them demi-gods, for they were
-god-descended. <span id="fr_191"></span>[1](#fn_191) Cuchulainn, the
+god-descended. <span id="fr_191"></span>[1](#fn_191.md) Cuchulainn, the
 greatest hero of the Ulster cycle, was doubly so; for on his mother's
 side he was the grandson of the Dagda, while Lugh of the Long Hand is
 said to have been his father. His mother, Dechtiré, daughter of Maga,
 the daughter of Angus "Son of the Young", was half-sister to King
 Conchobar, and all the other principal heroes were of hardly less lofty
 descent. It is small wonder that they are described in ancient
-manuscripts <span id="fr_192"></span>[2](#fn_192) as terrestrial gods
+manuscripts <span id="fr_192"></span>[2](#fn_192.md) as terrestrial gods
 and goddesses.
 
 "Terrestrial" they may have been in form, but their acts were
@@ -116,7 +116,7 @@ the time of the compilation of the Ulster cycle. At any rate, they make
 no appearance in it. Dead Nuada rests in the *grianan* of Aileach; Ogma
 lies low in *sídh* Airceltrai; while the Dagda, thrust into the
 background by his son Angus, mixes himself very little in the affairs of
-Erin. <span id="fr_193"></span>[1](#fn_193) But the Morrígú is no less
+Erin. <span id="fr_193"></span>[1](#fn_193.md) But the Morrígú is no less
 eager in encouraging human or semi-divine heroes to war than she was
 when she revived the fainting spirits of the folk of the goddess Danu at
 the Battle of Moytura. The gods who appear most often in the cycle of
@@ -129,7 +129,7 @@ divine figures, the ranks of the gods are being recruited from below.
 All manner of inferior divinities claim to be members of the tribe of
 the goddess Danu. The goblins and sprites and demons of the air who
 shrieked around battles are described collectively as Tuatha Dé
-Danann. <span id="fr_194"></span>[2](#fn_194)
+Danann. <span id="fr_194"></span>[2](#fn_194.md)
 
 As for the Fomors, they have lost their distinctive names, though they
 are still recognized as dwellers beneath the deep, who at times raid
@@ -142,15 +142,15 @@ Emain Macha.
 
 This seat of his government, the traditionary site of which is still
 marked by an extensive prehistoric entrenchment called Navan Fort <span
-id="fr_195"></span>[1](#fn_195), near Armagh, was the centre of an
+id="fr_195"></span>[1](#fn_195.md), near Armagh, was the centre of an
 Ulster that stretched southwards as far as the Boyne, and round its
 ruler gathered such a galaxy of warriors as Ireland had never seen
 before, or will again. They called themselves the "Champions of the Red
 Branch"; there was not one of them who was not a hero; but they are all
 dwarfed by one splendid figure--Cuchulainn, whose name means "Culann's
 Hound". Mr. Alfred Nutt calls him "the Irish Achilles" <span
-id="fr_196"></span>[2](#fn_196), while Professor Rhys would rather see
-in him a Heracles of the Gaels. <span id="fr_197"></span>[3](#fn_197)
+id="fr_196"></span>[2](#fn_196.md), while Professor Rhys would rather see
+in him a Heracles of the Gaels. <span id="fr_197"></span>[3](#fn_197.md)
 Like Achilles, he was the chosen hero of his people, invincible in
 battle, and yet "at once to early death and sorrows doomed beyond the
 lot of man", while, like Heracles, his life was a series of wonderful
@@ -178,9 +178,9 @@ was the perpendicular jet of dusky blood which out of his scalp's very
 central point shot upwards and then was scattered to the four cardinal
 points; whereby was formed a magic mist of gloom resembling the smoky
 pall that drapes a regal dwelling, what time a king at nightfall of a
-winter's day draws near to it." <span id="fr_198"></span>[1](#fn_198)
+winter's day draws near to it." <span id="fr_198"></span>[1](#fn_198.md)
 
-So marvellous a being <span id="fr_199"></span>[2](#fn_199) was, of
+So marvellous a being <span id="fr_199"></span>[2](#fn_199.md) was, of
 course, of marvellous birth. His mother, Dechtiré, was on the point of
 being married to an Ulster chieftain called Sualtam, and was sitting at
 the wedding-feast, when a may-fly flew into her cup of wine and was
@@ -256,7 +256,7 @@ killed many of the warriors of Ulster. He was then only seven years old.
 The women of Ulster so loved Cuchulainn after this that the warriors
 grew jealous, and insisted that a wife should be found for him. But
 Cuchulainn was very hard to please. He would have only one, Emer <span
-id="fr_200"></span>[1](#fn_200), the daughter of Forgall the Wily, the
+id="fr_200"></span>[1](#fn_200.md), the daughter of Forgall the Wily, the
 best maiden in Ireland for the six gifts--the gift of beauty, the gift
 of voice, the gift of sweet speech, the gift of needlework, the gift of
 wisdom, and the gift of chastity. So he went to woo her, but she laughed
@@ -275,7 +275,7 @@ time, and he saw him do all his feats.
 <span class="contnote">\[paragraph continues\]</span> He said, loud
 enough to be overheard by all, that if so promising a youth dared to go
 to the Island of Scathach the Amazon, in the east of Alba, <span
-id="fr_201"></span>[1](#fn_201) and learn all her warrior-craft, no
+id="fr_201"></span>[1](#fn_201.md) and learn all her warrior-craft, no
 living man would be able to stand before him. It was hard to reach
 Scathach's Isle, and still harder to return from it, and Forgall felt
 certain that, if Cuchulainn went, he would get his death there.
@@ -302,7 +302,7 @@ rival queen
 
 <span id="page_164">p. 164</span>
 
-of the Amazons, called Aoife <span id="fr_202"></span>[1](#fn_202). He
+of the Amazons, called Aoife <span id="fr_202"></span>[1](#fn_202.md). He
 conquered Aoife, and compelled her to make peace with Scathach.
 
 Then he returned to Ireland, and went in a scythed chariot to Forgall's
@@ -321,7 +321,7 @@ feast and banquet at Emain Macha.
 But all that Cuchulainn had done up to this time was as nothing to the
 deeds he did in the great war which all the rest of Ireland, headed by
 Ailill and Medb, King and Queen of Connaught, made upon Ulster, to get
-the Brown Bull of Cualgne. <span id="fr_203"></span>[2](#fn_203) This
+the Brown Bull of Cualgne. <span id="fr_203"></span>[2](#fn_203.md) This
 Bull was one of two, of fairy descent. They had originally been the
 swineherds of two of the gods, Bodb, King of the Sídhe of Munster, and
 Ochall Ochne, King of the Sídhe of Connaught. As swineherds they were in
@@ -333,7 +333,7 @@ changed themselves into two ravens, and fought for a year;
 <span id="img_16400"></span>
 
 [![QUEEN MEDB'S CAIRN, KNOCKNAREA, Sligo--R. Welch](tn/16400.jpg)  
-Click to enlarge](img/16400.jpg)  
+Click to enlarge](img/16400.jpg.md)  
 QUEEN MEDB'S CAIRN, KNOCKNAREA, Sligo--R. Welch  
 
  
@@ -344,7 +344,7 @@ next they turned into water-monsters, which tore one another for a year
 in the Suir and a year in the Shannon; then they became human again and
 fought as champions; and ended by changing into eels. One of these eels
 went into the River Cruind, in Cualgne <span
-id="fr_204"></span>[1](#fn_204), in Ulster, where it was swallowed by a
+id="fr_204"></span>[1](#fn_204.md), in Ulster, where it was swallowed by a
 cow belonging to Daire of Cualgne, and the other into the spring of
 Uaran Garad, in Connaught, where it passed into the belly of a cow of
 Queen Medb's. Thus were born those two famous beasts, the Brown Bull of
@@ -396,7 +396,7 @@ the bodies mangled by the Hound of
 <span id="page_167">p. 167</span>
 
 the Forge whom I see before me now." <span
-id="fr_205"></span>[1](#fn_205) For Cuchulainn was, for some reason
+id="fr_205"></span>[1](#fn_205.md) For Cuchulainn was, for some reason
 unknown to us, the only man in Ulster who was not subject to the magic
 weakness, and therefore it fell upon him to defend Ulster single-handed
 against the whole of Medb's army.
@@ -438,7 +438,7 @@ thinking it better to lose one man a day than a hundred.
 
 Medb makes the same offer to every famous warrior, to induce him to go
 against Cuchulainn. The reward for the head of the champion will be the
-hand of her daughter, Findabair <span id="fr_206"></span>[1](#fn_206).
+hand of her daughter, Findabair <span id="fr_206"></span>[1](#fn_206.md).
 In spite of this, not one of the aspirants to the princess can stand
 before Cuchulainn. All perish; and Findabair, when she finds out how she
 is being promised to a fresh suitor every day, dies of shame. But, while
@@ -484,7 +484,7 @@ running water, and then as a wolf which seized hold of his right arm.
 But Cuchulainn broke the heifer's leg, and trampled upon the eel, and
 put out one of the wolf's eyes, though, every one of these three times,
 Loch wounded him. In the end, Cuchulainn slew Loch with his invincible
-spear, the *gae bolg* <span id="fr_207"></span>[1](#fn_207), made of a
+spear, the *gae bolg* <span id="fr_207"></span>[1](#fn_207.md), made of a
 sea-monster's bones. The Morrígú came back to Cuchulainn, disguised as
 an old woman, to have her wounds healed by him, for no one could cure
 them but he who had made them. She became his friend after this, and
@@ -569,7 +569,7 @@ they parted
 <span id="img_17200"></span>
 
 [![CUCHULAINN CARRIES FERDIAD ACROSS THE RIVER](tn/17200.jpg)  
-Click to enlarge](img/17200.jpg)  
+Click to enlarge](img/17200.jpg.md)  
 CUCHULAINN CARRIES FERDIAD ACROSS THE RIVER  
 
  
@@ -659,14 +659,14 @@ mysterious realm is an island called *Dún Scaith*, that is, the "Shadowy
 Town", and though its king is not mentioned by name, it seems likely
 that he was Mider, and that Dun Scaith is another name for the Isle of
 Falga, or Man. The story, as a poem <span
-id="fr_208"></span>[1](#fn_208) relates it, is curiously suggestive of a
+id="fr_208"></span>[1](#fn_208.md) relates it, is curiously suggestive of a
 raid which the powers of light, and especially the sun-gods, are
 represented as having made upon
 
 <span id="page_176">p. 176</span>
 
 <span class="contnote">\[paragraph continues\]</span> Hades in kindred
-British myth. <span id="fr_209"></span>[1](#fn_209). The same loathsome
+British myth. <span id="fr_209"></span>[1](#fn_209.md). The same loathsome
 combatants issue out of the underworld to repel its assailants. There
 was a pit in the centre of Din Scaith, out of which swarmed a vast
 throng of serpents. No sooner had Cuchulainn and the heroes of Ulster
@@ -696,17 +696,17 @@ son by
 
 <span class="contnote">\[paragraph continues\]</span> Aoife, and he
 asked that the boy should be called Conlaoch <span
-id="fr_210"></span>[1](#fn_210), and that, when he was of age to travel,
+id="fr_210"></span>[1](#fn_210.md), and that, when he was of age to travel,
 he should be sent to Ireland to find his father. Aoife promised this,
 but, a little later, news came to her that Cuchulainn had married Emer.
 Mad with jealousy, she determined to make the son avenge her slight upon
 the father. She taught him the craft of arms until there was no more
 that he could learn, and sent him to Ireland. Before he started, she
-laid three *geasa* <span id="fr_211"></span>[2](#fn_211) upon him. The
+laid three *geasa* <span id="fr_211"></span>[2](#fn_211.md) upon him. The
 first was that he was not to turn back, the second that he was never to
 refuse a challenge, and the third that he was never to tell his name.
 
-He arrived at Dundealgan <span id="fr_212"></span>[3](#fn_212),
+He arrived at Dundealgan <span id="fr_212"></span>[3](#fn_212.md),
 Cuchulainn's home, and the warrior Conall came down to meet him, and
 asked him his name and lineage. He refused to tell them, and this led to
 a duel, in which Conall was disarmed and humiliated. Cuchulainn next
@@ -755,7 +755,7 @@ And, lest she might fail even then, she waited
 with patience until the Ultonians were again in their magic weakness,
 and there was no one to help Cuchulainn but himself.
 
-Lugaid <span id="fr_213"></span>[1](#fn_213), son of the Curoi, King of
+Lugaid <span id="fr_213"></span>[1](#fn_213.md), son of the Curoi, King of
 Munster whom Cuchulainn had killed for the sake of Blathnat, Mider's
 daughter, gathered the Munster men; Erc, whose father had also fallen at
 Cuchulainn's hands, called the men of Meath; the King of Leinster
@@ -789,7 +789,7 @@ out to his death. But it was as much as all of them could do to keep him
 quiet while he saw the phantom armies and heard the magic sounds.
 
 So they decided that it would be well to remove Cuchulainn from Emain
-Macha to *Glean-na-Bodhar* <span id="fr_214"></span>[1](#fn_214), the
+Macha to *Glean-na-Bodhar* <span id="fr_214"></span>[1](#fn_214.md), the
 "Deaf Valley", until all the enchantments of the daughters of Calatin
 were spent. It was the quality of this valley that, if all the men of
 Ireland were to shout round it at once, no one within it would hear a
@@ -901,7 +901,7 @@ Branch of Ulster.
 
 ### Footnotes
 
-<span id="fn_185"></span>[153:1](cml16.htm#fr_185)
+<span id="fn_185"></span>[153:1](cml16.htm#fr_185.md)
 
 "There came  
 Tigernmas, the prince of Tara yonder,  
@@ -918,53 +918,53 @@ Not a man alive--lasting the snare!
 Escaped without death in his mouth."  
 --Dr. Kuno Meyer's translation of the *Dinnsenchus of Mag Slecht*.
 
-<span id="fn_186"></span>[154:1](cml16.htm#fr_186) Nutt: *Voyage of
+<span id="fn_186"></span>[154:1](cml16.htm#fr_186.md) Nutt: *Voyage of
 Bran*, p. 164.
 
-<span id="fn_187"></span>[154:2](cml16.htm#fr_187) See [chap.
-XI](cml15.htm#ch-11)--"The Gods in Exile".
+<span id="fn_187"></span>[154:2](cml16.htm#fr_187.md) See [chap.
+XI](cml15.htm#ch-11.md)--"The Gods in Exile".
 
-<span id="fn_188"></span>[154:3](cml16.htm#fr_188) Pronounced *Maive*.
+<span id="fn_188"></span>[154:3](cml16.htm#fr_188.md) Pronounced *Maive*.
 
-<span id="fn_189"></span>[155:1](cml16.htm#fr_189) The story of the
+<span id="fn_189"></span>[155:1](cml16.htm#fr_189.md) The story of the
 *Tragical Death of King Conchobar*, translated by Eugene O’Curry from
 the Book of Leinster, will be found in the appendix to his *MS.
 Materials of Irish History*, and (more accessible) in Miss Hull's
 *Cuchullin Saga*.
 
-<span id="fn_190"></span>[155:2](cml16.htm#fr_190) The name is best
+<span id="fn_190"></span>[155:2](cml16.htm#fr_190.md) The name is best
 pronounced *C\\ŭhoolin* or *Cuchullin* (*ch* as in German).
 
-<span id="fn_191"></span>[156:1](cml16.htm#fr_191) The descent of the
+<span id="fn_191"></span>[156:1](cml16.htm#fr_191.md) The descent of the
 principal Red Branch Heroes from the Tuatha Dé Danann is given in a
 table in Miss Hull's Introduction to her *Cuchullin Saga*.
 
-<span id="fn_192"></span>[156:2](cml16.htm#fr_192) Conchobar is called a
+<span id="fn_192"></span>[156:2](cml16.htm#fr_192.md) Conchobar is called a
 terrestrial god of the Ultonians in the Book of the Dun Cow, and
 Dechtiré is termed a goddess in the Book of Leinster.
 
-<span id="fn_193"></span>[157:1](cml16.htm#fr_193) He is last heard of
+<span id="fn_193"></span>[157:1](cml16.htm#fr_193.md) He is last heard of
 as chief cook to Conairé the Great, a mythical king of Ireland.
 
-<span id="fn_194"></span>[157:2](cml16.htm#fr_194) In the Book of
+<span id="fn_194"></span>[157:2](cml16.htm#fr_194.md) In the Book of
 Leinster.
 
-<span id="fn_195"></span>[158:1](cml16.htm#fr_195) For a description of
+<span id="fn_195"></span>[158:1](cml16.htm#fr_195.md) For a description of
 Navan Fort see a paper by M. de Jubainville in the *Revue Celtique*,
 Vol. XVI.
 
-<span id="fn_196"></span>[158:2](cml16.htm#fr_196) *Cuchulainn, the
+<span id="fn_196"></span>[158:2](cml16.htm#fr_196.md) *Cuchulainn, the
 Irish Achilles*. By Alfred Nutt. Popular Studies in Mythology, Romance,
 and Folklore, No. 8.
 
-<span id="fn_197"></span>[158:3](cml16.htm#fr_197) See a series of
+<span id="fn_197"></span>[158:3](cml16.htm#fr_197.md) See a series of
 interesting parallels between Cuchulainn and Heracles in *Studies in the
 Arthurian Legend*, chap. IX and X.
 
-<span id="fn_198"></span>[159:1](cml16.htm#fr_198) The *Táin Bó
+<span id="fn_198"></span>[159:1](cml16.htm#fr_198.md) The *Táin Bó
 Chuailgné*. Translated by Standish Hayes O’Grady.
 
-<span id="fn_199"></span>[159:2](cml16.htm#fr_199) The Irish romances
+<span id="fn_199"></span>[159:2](cml16.htm#fr_199.md) The Irish romances
 relating to Cuchulainn and his cycle, nearly a hundred in number, need
 hardly be referred to severally in this chapter. Of many of the tales,
 too, there exist several slightly-varying versions. Many of them have
@@ -972,46 +972,46 @@ been translated by different scholars. The reader desiring a more
 complete survey of the Cuchulainn legend is referred to Miss Hull's
 *Cuchullin Saga* or to Lady Gregory's *Cuchulain of Muirthemne*.
 
-<span id="fn_200"></span>[162:1](cml16.htm#fr_200) Pronounced *Avair*.
+<span id="fn_200"></span>[162:1](cml16.htm#fr_200.md) Pronounced *Avair*.
 
-<span id="fn_201"></span>[163:1](cml16.htm#fr_201) Usually identified,
+<span id="fn_201"></span>[163:1](cml16.htm#fr_201.md) Usually identified,
 however, with the Isle of Skye.
 
-<span id="fn_202"></span>[164:1](cml16.htm#fr_202) Pronounced *Eefa*.
+<span id="fn_202"></span>[164:1](cml16.htm#fr_202.md) Pronounced *Eefa*.
 
-<span id="fn_203"></span>[164:2](cml16.htm#fr_203) A literal translation
+<span id="fn_203"></span>[164:2](cml16.htm#fr_203.md) A literal translation
 by Miss Winifred Faraday of the *Táin Bo Chuailgné* from the Book of the
 Dun Cow and the Yellow Book of Lecan has been published by Mr.
 Nutt--Grimm Library, No. 16.
 
-<span id="fn_204"></span>[165:1](cml16.htm#fr_204) Pronounced *Cooley*.
+<span id="fn_204"></span>[165:1](cml16.htm#fr_204.md) Pronounced *Cooley*.
 
-<span id="fn_205"></span>[167:1](cml16.htm#fr_205) This prophecy (here
+<span id="fn_205"></span>[167:1](cml16.htm#fr_205.md) This prophecy (here
 much abridged) is, in the original, in verse.
 
-<span id="fn_206"></span>[168:1](cml16.htm#fr_206) Finnavár.
+<span id="fn_206"></span>[168:1](cml16.htm#fr_206.md) Finnavár.
 
-<span id="fn_207"></span>[170:1](cml16.htm#fr_207) "Bellows-dart",
+<span id="fn_207"></span>[170:1](cml16.htm#fr_207.md) "Bellows-dart",
 apparently a kind of harpoon. It had thirty barbs.
 
-<span id="fn_208"></span>[175:1](cml16.htm#fr_208) It is contained in
+<span id="fn_208"></span>[175:1](cml16.htm#fr_208.md) It is contained in
 the Book of the Dun Cow story called the "Phantom Chariot".
 
-<span id="fn_209"></span>[176:1](cml16.htm#fr_209) See [chap.
-XX](cml24.htm#ch-20)--"The Victories of Light over Darkness".
+<span id="fn_209"></span>[176:1](cml16.htm#fr_209.md) See [chap.
+XX](cml24.htm#ch-20.md)--"The Victories of Light over Darkness".
 
-<span id="fn_210"></span>[177:1](cml16.htm#fr_210) Pronounced *Conla*.
+<span id="fn_210"></span>[177:1](cml16.htm#fr_210.md) Pronounced *Conla*.
 
-<span id="fn_211"></span>[177:2](cml16.htm#fr_211) A kind of mystic
+<span id="fn_211"></span>[177:2](cml16.htm#fr_211.md) A kind of mystic
 prohibition or taboo; singular, *geis*.
 
-<span id="fn_212"></span>[177:3](cml16.htm#fr_212) Now called Dundalk.
+<span id="fn_212"></span>[177:3](cml16.htm#fr_212.md) Now called Dundalk.
 
-<span id="fn_213"></span>[179:1](cml16.htm#fr_213) Pronounced *Lewy*.
+<span id="fn_213"></span>[179:1](cml16.htm#fr_213.md) Pronounced *Lewy*.
 
-<span id="fn_214"></span>[180:1](cml16.htm#fr_214) Pronounced *Glen na
+<span id="fn_214"></span>[180:1](cml16.htm#fr_214.md) Pronounced *Glen na
 Mower*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Some Gaelic Love-Stories](cml17)
+[Next: Chapter XIII. Some Gaelic Love-Stories](cml17.md)

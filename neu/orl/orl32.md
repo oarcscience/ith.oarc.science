@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl31)  [Next](orl33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl31)  [Next](orl33.md) 
 
 ------------------------------------------------------------------------
 
@@ -1248,4 +1248,4 @@ What followed shall another canto tell.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 33](orl33)
+[Next: Canto 33](orl33.md)

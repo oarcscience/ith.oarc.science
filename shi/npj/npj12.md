@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj11) 
-[Next](npj13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj11.md) 
+[Next](npj13.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ KUMASAKA.
 
 There is no need to know his name. He is buried in that tomb over there,
 among the rushes to this side of the pine-tree. It is because he cannot
-get free <span id="fr_36"></span>[1](#fn_36) that he needs your prayers.
+get free <span id="fr_36"></span>[1](#fn_36.md) that he needs your prayers.
 
 PRIEST.
 
@@ -130,7 +130,7 @@ Then it was that I used to take with me that pike there and waving it in
 their faces, "Stand and deliver!" I would cry.
 
 But at last a time came when it was not so. <span
-id="fr_37"></span>[1](#fn_37) And after that time I was glad enough to
+id="fr_37"></span>[1](#fn_37.md) And after that time I was glad enough to
 find shelter even in such a place as this. I yielded my will and was
 content. For at last I had indeed resolved to leave the hateful World.
 
@@ -142,7 +142,7 @@ For hand of priest unfit indeed
 Such deeds and weapons had I thought;  
 Yet among gods  
 Hath not the Lord Amida his sharp sword?  
-Doth not the King of Love <span id="fr_38"></span>[2](#fn_38)  
+Doth not the King of Love <span id="fr_38"></span>[2](#fn_38.md)  
 Shoot arrows of salvation from his bow?  
 Tamon with tilted lance  
 Outbattled demons and hath swept away  
@@ -159,16 +159,16 @@ May be sins fouler
 
 CHORUS.
 
-Than the Five Faults of Datta; <span id="fr_39"></span>[1](#fn_39)  
+Than the Five Faults of Datta; <span id="fr_39"></span>[1](#fn_39.md)  
 And the taking of life for faith  
 Be holiness greater  
-Than the six virtues of Bosatsu. <span id="fr_40"></span>[2](#fn_40)  
+Than the six virtues of Bosatsu. <span id="fr_40"></span>[2](#fn_40.md)  
 These things have I seen and heard.  
 But for the rest, is it not Thought alone  
 That either wanders in the trackless night  
 Of Error or awakes to the wide day?  
 "Master thy thoughts, or they will master thee,"  
-An ancient proverb <span id="fr_41"></span>[3](#fn_41) says.
+An ancient proverb <span id="fr_41"></span>[3](#fn_41.md) says.
 
 (*Speaking for Kumasaka*.)
 
@@ -176,7 +176,7 @@ An ancient proverb <span id="fr_41"></span>[3](#fn_41) says.
 rest, Sir; and I too will doze awhile." So he spoke, and seemed to go
 into the bedroom. But suddenly the cottage vanished: nothing was left
 but the tall grass. It was under the shadow of a pine-tree that he <span
-id="fr_42"></span>[4](#fn_42) had rested!
+id="fr_42"></span>[4](#fn_42.md) had rested!
 
 (*There is usually an interlude to occupy the time while Kumasaka is
 changing his costume. An inhabitant of Akasaka tells stories of
@@ -187,7 +187,7 @@ PRIEST.
 I have seen strange things. I cannot sleep, no, not even for a while as
 little as the space between the antlers of a young stag. Under this
 autumn-winded pine-tree lying, all night long I will perform a service
-of chanted prayer. <span id="fr_43"></span>[5](#fn_43)
+of chanted prayer. <span id="fr_43"></span>[5](#fn_43.md)
 
 KUMASAKA.
 
@@ -291,7 +291,7 @@ Fell into a sodden sleep.
 KUMASAKA.
 
 But there was with them a boy of sixteen. <span
-id="fr_44"></span>[1](#fn_44)  
+id="fr_44"></span>[1](#fn_44.md)  
 He put his bright eye to a hole in the wall.  
 He did not make the least noise.
 
@@ -336,7 +336,7 @@ Not even the God of Peril had dared to face them.
 But little Ushiwaka showed no fear.  
 He drew his belt-sword and met them.  
 The Lion Pounce, The Tiger Leap, The Bird Pounce . . . <span
-id="fr_45"></span>[1](#fn_45)  
+id="fr_45"></span>[1](#fn_45.md)  
 He parried them all. They thrust at him but could not prevail.  
 Thirteen there were who attacked him;  
 And now, done to death, on the same pillow head to head they lie.  
@@ -375,7 +375,7 @@ pike
 Struck a blow that would have pierced an iron wall.  
 But Ushiwaka parried it lightly and sprang to the left.  
 Kumasaka was after him in a moment, and as he sprang nimbly over the
-pike, <span id="fr_46"></span>[1](#fn_46)  
+pike, <span id="fr_46"></span>[1](#fn_46.md)  
 Turned the point towards him.  
 But as he drew back the pike, Ushiwaka crossed to the right.  
 Then levelling the pike, Kumasaka struck a great blow.  
@@ -430,40 +430,40 @@ Under the shadow of the pine-trees he has hidden himself away.
 
 ### Footnotes
 
-<span id="fn_36"></span>[61:1](npj12.htm#fr_36) I.e. he is "attached" to
+<span id="fn_36"></span>[61:1](npj12.htm#fr_36.md) I.e. he is "attached" to
 earth and cannot get away to the Western Paradise.
 
-<span id="fn_37"></span>[62:1](npj12.htm#fr_37) I.e. the time of his
+<span id="fn_37"></span>[62:1](npj12.htm#fr_37.md) I.e. the time of his
 encounter with Ushiwaka.
 
-<span id="fn_38"></span>[62:2](npj12.htm#fr_38) Aizen.
+<span id="fn_38"></span>[62:2](npj12.htm#fr_38.md) Aizen.
 
-<span id="fn_39"></span>[63:1](npj12.htm#fr_39) Devadatta, the wicked
+<span id="fn_39"></span>[63:1](npj12.htm#fr_39.md) Devadatta, the wicked
 contemporary of Buddha.
 
-<span id="fn_40"></span>[63:2](npj12.htm#fr_40) The six. paths to
+<span id="fn_40"></span>[63:2](npj12.htm#fr_40.md) The six. paths to
 Bodisattva-hood, i.e. Almsgiving, Observance of Rules, Forbearance,
 Meditation, Knowledge and Singleness of Heart.
 
-<span id="fn_41"></span>[63:3](npj12.htm#fr_41) Actually from the
+<span id="fn_41"></span>[63:3](npj12.htm#fr_41.md) Actually from the
 Nirvāna Sutra.
 
-<span id="fn_42"></span>[63:4](npj12.htm#fr_42) The Priest.
+<span id="fn_42"></span>[63:4](npj12.htm#fr_42.md) The Priest.
 
-<span id="fn_43"></span>[63:5](npj12.htm#fr_43) *Koye-butsuji*,
+<span id="fn_43"></span>[63:5](npj12.htm#fr_43.md) *Koye-butsuji*,
 "Voice-service."
 
-<span id="fn_44"></span>[65:1](npj12.htm#fr_44) Yoshitsune (Ushiwaka)
+<span id="fn_44"></span>[65:1](npj12.htm#fr_44) Yoshitsune (Ushiwaka.md)
 had run away from the temple where he was being educated and joined the
-merchant's caravan; see [p. 70](npj13.htm#page_70).
+merchant's caravan; see [p. 70](npj13.htm#page_70.md).
 
-<span id="fn_45"></span>[66:1](npj12.htm#fr_45) Names of strokes in
+<span id="fn_45"></span>[66:1](npj12.htm#fr_45.md) Names of strokes in
 fencing.
 
-<span id="fn_46"></span>[67:1](npj12.htm#fr_46) I have thought it better
+<span id="fn_46"></span>[67:1](npj12.htm#fr_46.md) I have thought it better
 to print these "recitals" as verse, though in the original (as obviously
 in my translation) they are almost prose.
 
 ------------------------------------------------------------------------
 
-[Next: Eboshi-ori](npj13)
+[Next: Eboshi-ori](npj13.md)

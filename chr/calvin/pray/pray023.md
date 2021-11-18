@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray022)  [Next](pray024) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray022)  [Next](pray024.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ Christ.
 
 ------------------------------------------------------------------------
 
-[Next: 22.](pray024)
+[Next: 22.](pray024.md)

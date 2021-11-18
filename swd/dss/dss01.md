@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dss00)  [Next](dss02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dss00)  [Next](dss02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425344615/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425344615/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ the Lord, who is the same as Jehovah, spoke the Word that is in the
 Gospels, much of it with His own mouth, and the rest from the spirit of
 His mouth, which is the Holy Spirit. This is why, as He Himself says,
 there is Life in His words, that He is the Light which enlightens, and
-that He is the Truth. <span id="fr_0"></span>[2-1](#fn_0) \[2\] That the
+that He is the Truth. <span id="fr_0"></span>[2-1](#fn_0.md) \[2\] That the
 words which the Lord Himself spoke in the Gospels are Life, is declared
 in John: The words that I speak unto you, they are spirit, and they are
 life (John 6:63). Jesus said to the woman at Jacob's well, If thou
@@ -136,7 +136,7 @@ celestial, for they are in the good of love from the Lord. The angels of
 the Lord's spiritual kingdom, of whom is composed the second or middle
 heaven, are in that Divine which proceeds from the Lord that is called
 the spiritual, for they are in truths of wisdom from the Lord. <span
-id="fr_1"></span>[6-1](#fn_1) But the men of the church on earth are in
+id="fr_1"></span>[6-1](#fn_1.md) But the men of the church on earth are in
 the Divine Natural, which also proceeds from the Lord. From this it
 follows that the Divine in proceeding from the Lord to its ultimates
 descends through three degrees, and is named the celestial, the
@@ -459,7 +459,7 @@ which nothing can be drawn except by the aid of the spiritual sense, in
 which all the names in the Word signify things of heaven and the church.
 From this sense it is gathered that these words signify that the whole
 church has been devastated by memory-knowledges \[scientifica\] <span
-id="fr_2"></span>[15-1](#fn_2) perverting all truth, and confirming
+id="fr_2"></span>[15-1](#fn_2.md) perverting all truth, and confirming
 falsity. \[2\] In another place in the same prophet: In that day the
 envy of Ephraim shall depart, and the enemies of Judah shall be cut off;
 Ephraim shall not envy Judah, and Judah shall not straiten Ephraim; but
@@ -642,7 +642,7 @@ rational, natural, and sensuous good and truth of the church; that a
 lamb, sheep, goat, calf, and ox mean innocence, charity, and natural
 affection; that mountains, hills, and valleys, mean higher, lower, and
 lowest things of the church; that Egypt signifies
-memory-knowledge, <span id="fr_3"></span>[18-1](#fn_3) Asshur reason,
+memory-knowledge, <span id="fr_3"></span>[18-1](#fn_3.md) Asshur reason,
 Edom the natural, Moab the adulteration of good, the sons of Ammon the
 adulteration of truth, Tyre and Sidon the knowledges of truth and good,
 and Gog external worship without internal. But when a man knows these
@@ -695,7 +695,7 @@ will. The reason there is in the Word this still more interior sense
 called celestial is that there proceeds from the Lord Divine good and
 Divine truth, Divine good from His Divine love, and Divine truth from
 His Divine wisdom; and both are in the Word, for the Word is the Divine
-proceeding, <span id="fr_4"></span>[19-1](#fn_4) and it is for this
+proceeding, <span id="fr_4"></span>[19-1](#fn_4.md) and it is for this
 reason that the Word gives life to those who devoutly read it. But this
 subject will be spoken of in the chapter in which it will be shown that
 there is a marriage of the Lord and the church, and a derivative
@@ -919,7 +919,7 @@ angels from the third heaven, who all appear like little children. The
 harlot, together with the dead horse, signified the falsification of the
 Word by many of this day, whereby all understanding of truth perishes.
 The harlot signified falsification; and the dead horse, no understanding
-of truth. <span id="fr_5"></span>[26-1](#fn_5)
+of truth. <span id="fr_5"></span>[26-1](#fn_5.md)
 
 <span class="margnote"><span id="27.">27.</span></span>
 
@@ -936,7 +936,7 @@ container and the basis, it is also the support.
 
 The learned reader will comprehend that these three may be called end,
 cause, and effect; also esse, fieri, and existere; <span
-id="fr_6"></span>[28-1](#fn_6) and that the end is the esse, the cause
+id="fr_6"></span>[28-1](#fn_6.md) and that the end is the esse, the cause
 the fieri, and the effect the existere; consequently, that in every
 complete thing there is a trine, which is called first, middle, and
 ultimate; also end, cause, and effect; and also esse, fieri, and
@@ -944,7 +944,7 @@ existere. When these things are comprehended, it is also comprehended
 that every Divine work is complete and perfect in its ultimate; and
 likewise that the whole is in the ultimate, which is a trine, because
 the prior things are together, or simultaneously, in it. <span
-id="fr_7"></span>[28-2](#fn_7)
+id="fr_7"></span>[28-2](#fn_7.md)
 
 <span class="margnote"><span id="29.">29.</span></span>
 
@@ -1003,7 +1003,7 @@ unfolded, so far as can possibly be done, in the treatises mentioned in
 the preface to Doctrine of the Lord - and which will be from angelic
 wisdom - on the Divine Providence, Omnipotence, Omnipresence,
 Omniscience, on Divine Love and Divine Wisdom, and On Life. <span
-id="fr_8"></span>[32-1](#fn_8) For the present it is sufficient to
+id="fr_8"></span>[32-1](#fn_8.md) For the present it is sufficient to
 conclude from what has been said above, that the Word - which is in an
 especial sense a Divine work for the salvation of mankind - in respect
 to its ultimate sense, which is natural and is called the sense of the
@@ -1485,16 +1485,16 @@ in enlightenment from the Lord.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2-1](dss01.htm#fr_0) That Jehovah Himself spoke
+<span id="fn_0"></span>[2-1](dss01.htm#fr_0.md) That Jehovah Himself spoke
 the word through the prophets, has been shown in THE DOCTRINE OF THE NEW
 JERUSALEM CONCERNING THE LORD (n. 52, 53).
 
-<span id="fn_1"></span>[6-1](dss01.htm#fr_1) That there are two kingdoms
+<span id="fn_1"></span>[6-1](dss01.htm#fr_1.md) That there are two kingdoms
 of which the heavens consist, one of which is called the celestial
 kingdom, the other the spiritual kingdom, may be seen in the wok on
 Heaven and Hell (n. 20-28).
 
-<span id="fn_2"></span>[15-1](dss01.htm#fr_2) Note the careful
+<span id="fn_2"></span>[15-1](dss01.htm#fr_2.md) Note the careful
 distinction made by Swedenborg between those knowledges that are merely
 in the external memory, and those which a man has some real knowledge of
 by experience or in some other way, and which are therefore not mere
@@ -1504,7 +1504,7 @@ distinction runs all through these works, and must not be lost sight of,
 the recognition of it being vital to the understanding of important
 doctrines. \[Translator\]
 
-<span id="fn_3"></span>[18-1](dss01.htm#fr_3) Note the careful
+<span id="fn_3"></span>[18-1](dss01.htm#fr_3.md) Note the careful
 distinction made by Swedenborg between those knowledges that are merely
 in the external memory, and those which a man has some real knowledge of
 by experience or in some other way, and which are therefore not mere
@@ -1514,7 +1514,7 @@ distinction runs all through these works, and must not be lost sight of,
 the recognition of it being vital to the understanding of important
 doctrines. \[Translator\]
 
-<span id="fn_4"></span>[19-1](dss01.htm#fr_4) That is, the Divine in the
+<span id="fn_4"></span>[19-1](dss01.htm#fr_4.md) That is, the Divine in the
 act of proceeding. In the expression "Divine proceeding," "Divine" is
 not to be understood as an adjective qualifying "proceeding", but
 "proceeding" is to be taken as a verb (or participle) describing the act
@@ -1523,12 +1523,12 @@ proceeding which is Divine, but a Divine that is in the act of
 proceeding forth. "Divine proceeding," thus understood, exactly
 translates Swedenborg's "Divinum procedens." \[Translator\]
 
-<span id="fn_5"></span>[26-1](dss01.htm#fr_5) Quoted from Spiritual
+<span id="fn_5"></span>[26-1](dss01.htm#fr_5.md) Quoted from Spiritual
 Experiences (n. 3605), and De Verbo (n. 1); and repeated in the
 Apocalypse Revealed (n. 255), and in the True Christian Religion (n.
 277). \[Translator\]
 
-<span id="fn_6"></span>[28-1](dss01.htm#fr_6) That is, "being,"
+<span id="fn_6"></span>[28-1](dss01.htm#fr_6.md) That is, "being,"
 "becoming," and "coming forth." The "being" of a thing is what we call
 its existence; and therefore it was said by the ancients that "in God we
 live, and move, and have our being" (Acts 17:28). Here our being means
@@ -1539,12 +1539,12 @@ the Latin word existere has a very different meaning from the English
 "exist," and cannot be translated by it without causing a complete
 misconception in the mind of the English reader. \[Translator\]
 
-<span id="fn_7"></span>[28-2](dss01.htm#fr_7) That is, the two prior
+<span id="fn_7"></span>[28-2](dss01.htm#fr_7.md) That is, the two prior
 degrees are in the ultimate degree in simultaneous order; for a full
 explanation of which see below at n. 38, and also Angelic Wisdom
 concerning Divine Love and Wisdom (n. 205-207). \[Translator\]
 
-<span id="fn_8"></span>[32-1](dss01.htm#fr_8) Although the treatise here
+<span id="fn_8"></span>[32-1](dss01.htm#fr_8.md) Although the treatise here
 named was never published as a separate work, the subjects of it are
 specially treated of in the first chapter of the True Christian
 Religion. See also the references to the same subjects in the Doctrine
@@ -1553,4 +1553,4 @@ and the Divine Wisdom (n. 9). \[Translator.\]
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](dss02)
+[Next: 51-100](dss02.md)

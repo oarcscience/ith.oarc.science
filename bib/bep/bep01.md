@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](bep00)  [Next](bep02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](bep00)  [Next](bep02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Enoch the Prophet*, tr. by Richard Laurence, \[1883\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ the Lord cometh with ten thousands, of his saints, to execute judgment
 upon all, and to convince all that are ungodly among them of all their
 ungodly deeds which they have ungodly committed, and of all their hard
 speeches which ungodly sinners have spoken against Him." <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 Modern research sees in the Epistle of Jude a work of the second
 century: but as orthodox theologians accept its contents as the inspired
@@ -39,7 +39,7 @@ uninterrupted immortality
 
 <span id="page_iv">p. iv</span>
 
-is assigned by apostolic <span id="fr_1"></span>[1](#fn_1)
+is assigned by apostolic <span id="fr_1"></span>[1](#fn_1.md)
 interpretation of Genesis v. 24. Were the prophecies of Enoch,
 therefore, accepted as a Divine revelation on that momentous day when
 Jesus explained the Scriptures, after his resurrection, to Jude and his
@@ -51,7 +51,7 @@ Clement of Alexandria citing the Book of Enoch without questioning its
 sacred character. Thus, Irenæus, assigning to the Book of Enoch an
 authenticity analogous to that of Mosaic literature, affirms that Enoch,
 although a man, filled the office of God's messenger to the
-angels. <span id="fr_2"></span>[2](#fn_2) Tertullian, who flourished at
+angels. <span id="fr_2"></span>[2](#fn_2.md) Tertullian, who flourished at
 the close of the first and at the beginning of the second century,
 whilst admitting that the "Scripture of Enoch" is not received by some
 because it is not included in the Hebrew Canon, speaks of the author as
@@ -69,7 +69,7 @@ have been disavowed by the Jews like all other scripture which speaks of
 Christ—a fact which should cause us no surprise, as they were not to
 receive him, even when personally addressed by himself." These views
 Tertullian confirms by appealing to the testimony of the Apostle
-Jude. <span id="fr_3"></span>[1](#fn_3) The Book of Enoch was therefore
+Jude. <span id="fr_3"></span>[1](#fn_3.md) The Book of Enoch was therefore
 as sacred as the Psalms or Isaiah in the eyes of the famous theologian,
 on whom modern orthodoxy relies as the chief canonist of New Testament
 scripture.
@@ -85,7 +85,7 @@ treatise on the angels, we read: "We are not to suppose that a special
 office has been assigned by mere accident to a particular angel: as to
 Raphael, the work of curing and healing; to Gabriel, the direction of
 wars; to Michael, the duty of hearing the prayers and supplications of
-men." <span id="fr_4"></span>[2](#fn_4) From what source
+men." <span id="fr_4"></span>[2](#fn_4.md) From what source
 
 <span id="page_vi">p. vi</span>
 
@@ -101,7 +101,7 @@ over every suffering and every affliction of the sons of men, the holy
 Raphael. The third, who presides over all that is powerful, is Gabriel.
 And the fourth, who presides over repentance and the hope of those who
 will inherit eternal life, is Phanuel." <span
-id="fr_5"></span>[1](#fn_5) We thus discover the source of Origen's
+id="fr_5"></span>[1](#fn_5.md) We thus discover the source of Origen's
 apparently superhuman knowledge, and detect his implicit trust in the
 Book of Enoch as a Divine revelation.
 
@@ -202,7 +202,7 @@ written long subsequent to the commencement, and even to the conclusion,
 of the Babylonian Captivity."
 
 That section of the Book of Enoch, extending from chapter
-[lxxxii](bep06.htm#an_LXXXII). to [xc](bep06.htm#an_XC)., contains an
+[lxxxii](bep06.htm#an_LXXXII). to [xc](bep06.htm#an_XC.md)., contains an
 allegorical narrative of the royal dynasties of Israel and Judah, from
 which Archbishop Laurence constructs a history extending from Saul to
 the beginning of the reign of Herod the Great, and infers that the Book
@@ -218,7 +218,7 @@ Archbishop Laurence, furthermore, attains probability
 <span id="page_xi">p. xi</span>
 
 of date through another line of argument. In chapter
-[liv](bep04.htm#an_LIV). 9, of the Book of Enoch we read, "The chiefs of
+[liv](bep04.htm#an_LIV.md). 9, of the Book of Enoch we read, "The chiefs of
 the East, among the Parthians and Medes, shall remove kings, in whom a
 spirit of perturbation shall enter. They shall hurl them from their
 thrones, springing as lions from their dens, and like famished wolves
@@ -291,7 +291,7 @@ calamity, and sudden death,
 <span id="page_xiv">p. xiv</span>
 
 composed in the Chaldean language mingled with Hebrew words, <span
-id="fr_6"></span>[1](#fn_6) and written in characters which combine
+id="fr_6"></span>[1](#fn_6.md) and written in characters which combine
 Syriac and Palmyrene with the ancient Phoenician. These inscriptions are
 undated; but Mr. Ellis attained the conclusion through internal
 evidence, that these cups belonged to the descendants of the Jews who
@@ -328,7 +328,7 @@ parties have on such occasions run away with their judgment. For
 writings of this description, whatever may or may not be their claim to
 inspiration, are at least of considerable utility, where they indicate
 the theological opinions of the periods at which they were composed.
-This I apprehend to be peculiarly [the](errata.htm#0) case of the Book
+This I apprehend to be peculiarly [the](errata.htm#0.md) case of the Book
 of Enoch; which, as having been manifestly written before the doctrines
 of Christianity were promulgated to the world, must afford us, when it
 refers to the nature and character of the Messiah, as it repeatedly does
@@ -344,12 +344,12 @@ generation, to see how deeply his conclusions affected the supernatural
 claims of Christianity.
 
 Turning to the contents of the Book of Enoch, the [first six
-chapters](bep02.htm#an_I) announce the condemnation of transgressors and
+chapters](bep02.htm#an_I.md) announce the condemnation of transgressors and
 the blessings of the righteous, through the triumphal advent of the
 Messiah, forecast in the famous prediction quoted by the author of the
 Epistle attributed to Jude.
 
-Chapters [vii](bep02.htm#an_VII). to [xvi](bep02.htm#an_XVI). record the
+Chapters [vii](bep02.htm#an_VII). to [xvi](bep02.htm#an_XVI.md). record the
 descent of two hundred angels on the earth, their selection of wives,
 the birth of their gigantic offspring, and the instruction of mankind in
 the manufacture of offensive and defensive weapons, the fabrication of
@@ -357,7 +357,7 @@ mirrors, the workmanship of jewellery, and the use of cosmetics and
 dyes, combined with lessons in sorcery, astrology, divination, and
 astronomy—all which Tertullian accepts as Divine revelation, when he
 denounces woman as the "devil's gateway," <span
-id="fr_7"></span>[1](#fn_7) and assures her, on the authority of the
+id="fr_7"></span>[1](#fn_7.md) and assures her, on the authority of the
 inspired Enoch, that Tyrian dyes, Phrygian embroidery, Babylonian cloth,
 golden bracelets, gleaming pearls, flashing onyx-stones, and brilliant
 emeralds, with all the other adjuncts of an elegant toilette, are the
@@ -370,7 +370,7 @@ earth, they are condemned to "the lowest depths of the fire in
 torments," and Enoch, as the messenger of God, announces to them the
 eternity of their punishment.
 
-Chapters [xvii](bep02.htm#an_XVII). to [xxxvi](bep03.htm#an_XXXVII).
+Chapters [xvii](bep02.htm#an_XVII). to [xxxvi](bep03.htm#an_XXXVII.md).
 give a graphic description of the miraculous journeys of Enoch in the
 company of an angel, from whom he learns the secrets of creation and the
 mysteries of Infinity. From the top of a lofty mountain "which reached
@@ -378,7 +378,7 @@ to heaven," he beheld the receptacles of light, thunder, and lightning,
 "the great darkness or mountains of gloom which constitute winter, the
 mouths of rivers and of the deep, the stone which supports the corners
 of the earth, and the four winds which bear up the earth, and constitute
-the pillars of heaven." <span id="fr_8"></span>[1](#fn_8) Is not this
+the pillars of heaven." <span id="fr_8"></span>[1](#fn_8.md) Is not this
 obviously the inspired cosmology, through which the author of the Book
 of Enoch unconsciously condemned mediæval physicists to the stake for
 impiously proclaiming the mobility of the earth? If an inspired prophet
@@ -425,7 +425,7 @@ and from fruit which ever bloomed; and he beheld the "great and glorious
 wonder" of the celestial stars, coming forth through the "gates of
 heaven."
 
-Chapters [xxxvii](bep03.htm#an_XXXVII). to [lxxi](bep05.htm#an_LXXI).
+Chapters [xxxvii](bep03.htm#an_XXXVII). to [lxxi](bep05.htm#an_LXXI.md).
 record the second vision of wisdom, divided into three parables. The
 first depicts the future happiness and glory of the elect, whom Enoch
 beheld reclining on couches in the habitations of angels, or standing in
@@ -438,7 +438,7 @@ existence of Christianity, it is important to learn in what sense he
 understood the doctrine of election. The language of the first parable
 happily leaves no room for doubt—"The righteous will be elected for
 their . good works duly weighed by the Lord of Spirits." <span
-id="fr_9"></span>[1](#fn_9) Election, therefore, traced to its original
+id="fr_9"></span>[1](#fn_9.md) Election, therefore, traced to its original
 source, means nothing more than Divine "selection of the fittest"—a
 theory more consistent with the justice of God, than
 
@@ -448,7 +448,7 @@ the capricious choice of the metamorphical potter, whose arbitrary
 fashioning of plastic clay symbolized, in Pauline theology, the doctrine
 of predestination.
 
-The second parable ([xlv](bep04.htm#an_XLV).-[lv](bep04.htm#an_LV).)
+The second parable ([xlv](bep04.htm#an_XLV).-[lv](bep04.htm#an_LV)..md)
 demands the absorbed attention of modern Jews and Gentiles; for it is
 either the inspired forecast of a great Hebrew prophet, predicting with
 miraculous accuracy the future teaching of Jesus of Nazareth, or the
@@ -462,7 +462,7 @@ that candid and impartial seekers after religious truth can no longer
 delay inquiry into the relationship of the Book of Enoch with the
 revelation, or the evolution, of Christianity.
 
-The third parable ([lvi](bep04.htm#an_LVI).-[lxx](bep05.htm#an_LXX).)
+The third parable ([lvi](bep04.htm#an_LVI).-[lxx](bep05.htm#an_LXX)..md)
 recurs, with glowing eloquence, to the inexhaustible theme of Messianic
 glory, and again depicts the happy future of the righteous in contrast
 with the appalling misery of the wicked. It also records the
@@ -476,7 +476,7 @@ principal fallen angels are also given, among whom we recognize some of
 the invisible powers named in the incantations inscribed on the terra
 cotta cups of Hebrew-Chaldee conjuration.
 
-Chapters [lxxi](bep05.htm#an_LXXI). to [lxxxi](bep06.htm#an_LXXXI).
+Chapters [lxxi](bep05.htm#an_LXXI). to [lxxxi](bep06.htm#an_LXXXI.md).
 contain the "book of the revolutions of the luminaries of heaven," the
 sun, the moon, and the stars, controlled in their movements by the
 administration of angels. In commenting on this section of the Book of
@@ -526,12 +526,12 @@ formed in this respect upon the same principles as the astronomy of
 Homer, who places the situation of the island Συρίη under the *turning
 of the sun*, ὅθι τροπαὶ ἠελίοιο (Odyss. lib. xv. 404)."
 
-Chapters [lxxxiii](bep06.htm#an_LXXXIII). to
-[lxxxix](bep06.htm#an_LXXXIX). contain a vision of Enoch giving an
+Chapters [lxxxiii](bep06.htm#an_LXXXIII.md). to
+[lxxxix](bep06.htm#an_LXXXIX.md). contain a vision of Enoch giving an
 allegorical forecast of the history of the world up to the kingdom of
 the Messiah.
 
-Chapter [xcii](bep06.htm#an_XCII). records a series of prophecies
+Chapter [xcii](bep06.htm#an_XCII.md). records a series of prophecies
 extending from Enoch's own time to about one thousand years beyond the
 present generation. In the system of chronology adopted, a day stands
 for hundred, and a week for seven hundred years. Reference is made to
@@ -549,7 +549,7 @@ attain miraculous fulfilment.
 
 <span id="page_xxiv">p. xxiv</span>
 
-Chapters [xciii](bep06.htm#an_XCIII). to [civ](bep07.htm#an_CIV).
+Chapters [xciii](bep06.htm#an_XCIII). to [civ](bep07.htm#an_CIV.md).
 contain the eloquent exhortations of Enoch, addressed to his children,
 in which he follows Buddha in commending the "Paths of Righteousness,"
 and anticipates Jesus in pronouncing the doom of sinners and the joys of
@@ -572,7 +572,7 @@ their remembrance shall be before the face of the Mighty One from
 
 <span id="page_xxv">p. xxv</span>
 
-generation to generation. <span id="fr_10"></span>[1](#fn_10) How
+generation to generation. <span id="fr_10"></span>[1](#fn_10.md) How
 profound the impression necessarily produced on the Semitic imagination
 by this impassioned language, uttered in an age of faith in inspired
 dreams and celestial visions by a supposed visitant of the unseen world,
@@ -1167,7 +1167,7 @@ to place implicit trust in the final vindication of Divine justice.
 
 Internal evidence indicates the presence of independent Tracts in the
 Book of Enoch, possibly composed by different authors. Thus chapters
-lxiv. to lxvii. <span id="fr_11"></span>[1](#fn_11) record a vision of
+lxiv. to lxvii. <span id="fr_11"></span>[1](#fn_11.md) record a vision of
 the Deluge, narrated as if by Noah instead of Enoch, and inserted in the
 middle of another vision with which it has no connection. But if
 Pseudo-Enoch borrowed from earlier writers, the presence of the language
@@ -1177,7 +1177,7 @@ in their present form before the Christian era.
 
 Christianity obviously borrows the terrors of eternal fire from the Book
 of Enoch. Evangelists and Apostles define the duration of Divine
-retribution by æons of æons <span id="fr_12"></span>[1](#fn_11) (αἱ
+retribution by æons of æons <span id="fr_12"></span>[1](#fn_11.md) (αἱ
 αἰῶνες τῶν αἰώνων), or millions of millions of years, expressive of
 eternity. It is true that the word æon can be used in the sense of
 finite time, but when the authors of New Testament Scripture speak of
@@ -1193,16 +1193,16 @@ form of "hope deferred;" but if modern believers adopt the terminable
 theory of æonian fire, this commutation of sentence becomes equally
 applicable to the devil and his angels, whose punishment has been
 decreed of same duration as that of human sinners; <span
-id="fr_13"></span>[1](#fn_12) and thus the traditional enemies of God
+id="fr_13"></span>[1](#fn_12.md) and thus the traditional enemies of God
 and man may hope for joyful restoration to fellowship with Gabriel,
 Michael, and Raphael, and communion with the saints, whom they once
 sought to betray by arts infernal. And as the righteous are also only
 promised their rewards in heaven for æons of æons, <span
-id="fr_14"></span>[2](#fn_13) if these words mean not eternity, saints
+id="fr_14"></span>[2](#fn_13.md) if these words mean not eternity, saints
 may fear, whilst sinners hope for, the vicissitudes of æonian futurity.
 Again, as the dominion of the Messiah, <span
-id="fr_15"></span>[3](#fn_14) and even the power of God, <span
-id="fr_16"></span>[4](#fn_15) are depicted of æonian duration, any
+id="fr_15"></span>[3](#fn_14.md) and even the power of God, <span
+id="fr_16"></span>[4](#fn_15.md) are depicted of æonian duration, any
 limitation of the infinite in the sacred terminology—æons of
 æons—imperils the eternal in Divinity.
 
@@ -1228,11 +1228,11 @@ convey an infallible meaning to students of Scripture?
 
 The Book of Enoch teaches the pre-existence of the Son of Man, the Elect
 One, the Messiah, who "from the beginning existed in secret," <span
-id="fr_17"></span>[1](#fn_16) and whose "name was invoked in the
+id="fr_17"></span>[1](#fn_16.md) and whose "name was invoked in the
 presence of the Lord of spirits, before the sun and the signs were
-created." <span id="fr_18"></span>[2](#fn_17) The author also refers to
+created." <span id="fr_18"></span>[2](#fn_17.md) The author also refers to
 the "other Power who was upon earth over the water on that day," <span
-id="fr_19"></span>[3](#fn_18)—an apparent reference to the language of
+id="fr_19"></span>[3](#fn_18.md)—an apparent reference to the language of
 Gen. i. 2. We have thus the Lord of spirits, the Elect One, and a third
 Power, seemingly foreshadowing the
 
@@ -1247,7 +1247,7 @@ with the Trinitarianism of the Alexandrine school; more especially as
 
 That remarkable passage in the Book of Enoch, which declares that the
 heathen "sacrificed to devils as to gods," <span
-id="fr_20"></span>[1](#fn_19) is the obvious source of that superstition
+id="fr_20"></span>[1](#fn_19.md) is the obvious source of that superstition
 through which primitive Christianity saw in Olympian deities, not the
 mere phantoms of man's imagination, but the fallen angels who, driven
 forth from heaven, sought compensation in spiritual dominion on earth,—a
@@ -1432,7 +1432,7 @@ productions.
 further impressed by its relationship with New Testament Scripture.
 Thus, the parable of the sheep, rescued by the good Shepherd from
 hireling guardians and ferocious wolves, is obviously borrowed by the
-fourth Evangelist from Enoch [lxxxix](bep06.htm#an_LXXXIX)}., in which
+fourth Evangelist from Enoch [lxxxix](bep06.htm#an_LXXXIX.md)}., in which
 the author depicts the shepherds as killing and destroying the sheep
 before the advent of their Lord, and thus discloses the true meaning of
 that hitherto mysterious passage in the Johannine parable—"All that ever
@@ -1443,58 +1443,58 @@ an obvious reference to the allegorical shepherds of Enoch.\]
 
 ### Footnotes
 
-<span id="fn_0"></span>[iii:1](bep01.htm#fr_0) Compare Book of Enoch ii.
+<span id="fn_0"></span>[iii:1](bep01.htm#fr_0.md) Compare Book of Enoch ii.
 
-<span id="fn_1"></span>[iv:1](bep01.htm#fr_1) Heb. xi. 5.
+<span id="fn_1"></span>[iv:1](bep01.htm#fr_1.md) Heb. xi. 5.
 
-<span id="fn_2"></span>[iv:2](bep01.htm#fr_2) "Against Heresies," iv.
+<span id="fn_2"></span>[iv:2](bep01.htm#fr_2.md) "Against Heresies," iv.
 16. Compare Book of Enoch xv.
 
-<span id="fn_3"></span>[v:1](bep01.htm#fr_3) "On Female Dress," ii.
+<span id="fn_3"></span>[v:1](bep01.htm#fr_3.md) "On Female Dress," ii.
 
-<span id="fn_4"></span>[v:2](bep01.htm#fr_4) "De Principiis," viii.
+<span id="fn_4"></span>[v:2](bep01.htm#fr_4.md) "De Principiis," viii.
 
-<span id="fn_5"></span>[vi:1](bep01.htm#fr_5) Book of Enoch xl. 8, 9.
+<span id="fn_5"></span>[vi:1](bep01.htm#fr_5.md) Book of Enoch xl. 8, 9.
 
-<span id="fn_6"></span>[xiv:1](bep01.htm#fr_6) "Halleluiah" appears upon
+<span id="fn_6"></span>[xiv:1](bep01.htm#fr_6.md) "Halleluiah" appears upon
 the cups; and thus a word, with which ancient Syro-Chaldæans conjured,
 has become, through the vicissitudes of language, the Shibboleth of
 modern "Revivalists."
 
-<span id="fn_7"></span>[xvi:1](bep01.htm#fr_7) "On Female Dress," bk. i.
+<span id="fn_7"></span>[xvi:1](bep01.htm#fr_7.md) "On Female Dress," bk. i.
 chap. i.
 
-<span id="fn_8"></span>[xvii:1](bep01.htm#fr_8) Chap. xviii.
+<span id="fn_8"></span>[xvii:1](bep01.htm#fr_8.md) Chap. xviii.
 
-<span id="fn_9"></span>[xix:1](bep01.htm#fr_9) Chap. xxxviii. 2.
+<span id="fn_9"></span>[xix:1](bep01.htm#fr_9.md) Chap. xxxviii. 2.
 
-<span id="fn_10"></span>[xxv:1](bep01.htm#fr_10) Chap. cii., ciii.
+<span id="fn_10"></span>[xxv:1](bep01.htm#fr_10.md) Chap. cii., ciii.
 
-<span id="fn_11"></span>[xxxviii:1](bep01.htm#fr_12) In "The Evolution
+<span id="fn_11"></span>[xxxviii:1](bep01.htm#fr_12.md) In "The Evolution
 of Christianity," page 355, we mention that "the Greek word αἰών (æon),
 signifying an age, a generation, or time everlasting," was the title
 adopted by Valentinus for Divine emanations.
 
-<span id="fn_12"></span>[xxxix:1](bep01.htm#fr_13) Matt. xxv. 41; Rev.
+<span id="fn_12"></span>[xxxix:1](bep01.htm#fr_13.md) Matt. xxv. 41; Rev.
 xx. 10.
 
-<span id="fn_13"></span>[xxxix:2](bep01.htm#fr_14) Rev. xxii. 5.
+<span id="fn_13"></span>[xxxix:2](bep01.htm#fr_14.md) Rev. xxii. 5.
 
-<span id="fn_14"></span>[xxxix:3](bep01.htm#fr_15) Rev. xi. 15.
+<span id="fn_14"></span>[xxxix:3](bep01.htm#fr_15.md) Rev. xi. 15.
 
-<span id="fn_15"></span>[xxxix:4](bep01.htm#fr_16) Rev. vii. 12.
+<span id="fn_15"></span>[xxxix:4](bep01.htm#fr_16.md) Rev. vii. 12.
 
-<span id="fn_16"></span>[xl:1](bep01.htm#fr_17) Chap.
-[lxi](bep05.htm#an_LXI). 10.
+<span id="fn_16"></span>[xl:1](bep01.htm#fr_17.md) Chap.
+[lxi](bep05.htm#an_LXI.md). 10.
 
-<span id="fn_17"></span>[xl:2](bep01.htm#fr_18) Chap.
-[xlviii](bep04.htm#an_XLVIII).
+<span id="fn_17"></span>[xl:2](bep01.htm#fr_18.md) Chap.
+[xlviii](bep04.htm#an_XLVIII.md).
 
-<span id="fn_18"></span>[xl:3](bep01.htm#fr_19) Chap.
-[lx](bep04.htm#an_LX).
+<span id="fn_18"></span>[xl:3](bep01.htm#fr_19.md) Chap.
+[lx](bep04.htm#an_LX.md).
 
-<span id="fn_19"></span>[xli:1](bep01.htm#fr_20) Chap. xix. 2.
+<span id="fn_19"></span>[xli:1](bep01.htm#fr_20.md) Chap. xix. 2.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I-XX](bep02)
+[Next: Chapter I-XX](bep02.md)

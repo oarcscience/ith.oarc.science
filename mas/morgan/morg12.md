@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](morg11)  [Next](morg13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](morg11)  [Next](morg13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Illustrations of Masonry*, by William Morgan, \[1827\], at Intangible
 Textual Heritage
 
@@ -358,7 +358,7 @@ The Penal Sign is given by putting the right hand to the left side of
 the bowels, the hand open, with the thumb next to the belly, and drawing
 it across the belly, and letting it fall; this is done tolerably quick.
 This alludes to the penalty of the obligation: "Having my body severed
-in twain," etc. See page [75](#page_75). After the Master has given the
+in twain," etc. See page [75](#page_75.md). After the Master has given the
 sign and due guard, which does not take more than a minute. he says,
 "Brother, I now present you with my right hand, in token of brotherly
 love and affection, and with it the pass-grip and word."
@@ -631,7 +631,7 @@ Master's word nor a key to it. I fear the Master's word is forever lost!
 Nothing but a faint resemblance to the letter G! That is not the
 Master's word nor a key to it. I fear the Master's word is forever lost!
 \[The third acclamation is different from the other two; attend to it.
-It has been described on page [76](#page_76).\] Nothing but a faint
+It has been described on page [76](#page_76.md).\] Nothing but a faint
 resemblance of the letter G! That is not the Master's word
 
 <span id="page_84">p. 84</span>
@@ -898,4 +898,4 @@ sections.
 
 ------------------------------------------------------------------------
 
-[Next: First Section of the Master Mason Lecture.](morg13)
+[Next: First Section of the Master Mason Lecture.](morg13.md)

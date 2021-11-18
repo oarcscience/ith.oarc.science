@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo68)  [Next](hoo70) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo68)  [Next](hoo70.md) 
 
 ------------------------------------------------------------------------
 
 ###### LXIV.
 
-### TO MARS <span id="fr_118"></span>[\*](#fn_118).
+### TO MARS <span id="fr_118"></span>[\*](#fn_118.md).
 
 ###### The FUMIGATION from FRANKINCENSE.
 
@@ -31,7 +31,7 @@ And give abundance, with benignant mind.
 
 ### Footnotes
 
-<span id="fn_118"></span>[196:\*](hoo69.htm#fr_118) This deity,
+<span id="fn_118"></span>[196:\*](hoo69.htm#fr_118.md) This deity,
 according to Proclus, in Repub. p. 388. perpetually discerns and
 nourishes, and constantly excites the contrarieties of the universe,
 that the world may exist perfect and entire from its parts. But he
@@ -40,4 +40,4 @@ into things contrary and discordant.
 
 ------------------------------------------------------------------------
 
-[Next: LXV: To Vulcan](hoo70)
+[Next: LXV: To Vulcan](hoo70.md)

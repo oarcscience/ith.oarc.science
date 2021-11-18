@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](gal)  [Next](phi) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](gal)  [Next](phi.md) 
 
 ------------------------------------------------------------------------
 
@@ -510,4 +510,4 @@ Herre Jesus Kristus i uforgjengelighet!
 
 ------------------------------------------------------------------------
 
-[Next: Philippians](phi)
+[Next: Philippians](phi.md)

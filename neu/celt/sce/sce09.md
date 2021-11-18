@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce08)  [Next](sce10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce08)  [Next](sce10.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ among the Scottiƒh-Irifh in Scotland.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page](sce10)
+[Next: Title Page](sce10.md)

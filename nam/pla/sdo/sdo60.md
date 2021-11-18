@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo59)  [Next](sdo61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo59)  [Next](sdo61.md) 
 
 ------------------------------------------------------------------------
 
@@ -157,4 +157,4 @@ other way.
 
 ------------------------------------------------------------------------
 
-[Next: Narratives](sdo61)
+[Next: Narratives](sdo61.md)

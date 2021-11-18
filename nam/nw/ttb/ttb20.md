@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb19)  [Next](ttb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb19)  [Next](ttb21.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_33">p. 33</span>
 
-<span id="img_03300"></span> ![Chet-Woot, The Bear](img/03300.jpg)
+<span id="img_03300"></span> ![Chet-Woot, The Bear](img/03300.jpg.md)
 
 ### Chet-Woot, THE BEAR
 
@@ -61,4 +61,4 @@ writer of these legends has one of the blankets.
 
 ------------------------------------------------------------------------
 
-[Next: Men-a-Mooks, The Otter Spirit](ttb21)
+[Next: Men-a-Mooks, The Otter Spirit](ttb21.md)

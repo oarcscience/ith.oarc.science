@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah10)  [Next](mah12) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah10)  [Next](mah12.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ for humanity on your Earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Mars Has No Political System](mah12)
+[Next: Chapter IX: Mars Has No Political System](mah12.md)

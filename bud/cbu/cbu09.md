@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu08)  [Next](cbu10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu08)  [Next](cbu10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -283,7 +283,7 @@ kingdom, although he had acquired the eyesight and hearing of a Deva,
 and the power to search into other persons' minds and purposes, had not
 been able to put away his pride. He directed Ananda to go to him and say
 that Buddha, who came into the world like the "Udumbara tree" (*Ficus
-glomerata*), <span id="fr_30"></span>[1](#fn_30) would to-night enter
+glomerata*), <span id="fr_30"></span>[1](#fn_30.md) would to-night enter
 the Nirvâna. If he would do anything he should do it quickly.
 
 Ananda went as commanded. Subhadra came with him to see Buddha, who
@@ -327,7 +327,7 @@ Buddha was teaching, and of whom his audience was composed."
 Ananda again asked, "After Julai has entered the Nirvâna, how should the
 burial be conducted?" Answer, "Like that of the wheel kings. The body
 should be wrapped in fine white hair-cloth, <span
-id="fr_31"></span>[1](#fn_31) and coated with a pulp of odoriferous
+id="fr_31"></span>[1](#fn_31.md) and coated with a pulp of odoriferous
 dust. The inner coffin should be of gold, the outer of iron. When the
 body of the king is placed in it, it should be sprinkled with melted
 butter and burned with fragrant wood. When the burning is completed, let
@@ -469,7 +469,7 @@ that the cremation was caused by a flame issuing from Buddha's own body.
 Seven days had passed after the death (literally destruction and
 extrication) of Buddha, when Kashiapa announced to 500 Arhans that they
 should go to all worlds and gather Arhans who possess the six powers of
-penetration. <span id="fr_32"></span>[1](#fn_32) No fewer than 808,000
+penetration. <span id="fr_32"></span>[1](#fn_32.md) No fewer than 808,000
 came and received instruction in Dharma near the two trees.
 
 On the twenty-ninth of the second month, seven days after the cremation
@@ -500,17 +500,17 @@ soon erected with a similar object in view.
 
 ### Footnotes
 
-<span id="fn_30"></span>[53:1](cbu09.htm#fr_30) This tree, a fig-bearing
+<span id="fn_30"></span>[53:1](cbu09.htm#fr_30.md) This tree, a fig-bearing
 fruit without distinct flowers, is said to bloom once in three thousand
 years.
 
-<span id="fn_31"></span>[54:1](cbu09.htm#fr_31) *Tie*, 8, *dip*, "Fine
+<span id="fn_31"></span>[54:1](cbu09.htm#fr_31.md) *Tie*, 8, *dip*, "Fine
 hair-cloth," *cf*. *tapis*, tapestry.
 
-<span id="fn_32"></span>[58:1](cbu09.htm#fr_32) These are such as the
+<span id="fn_32"></span>[58:1](cbu09.htm#fr_32.md) These are such as the
 power of distinguishing all sounds, the feelings and aims of all
 persons, varieties of form, life, death, and retribution, &c.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Patriarchs of the Northern Buddhists](cbu10)
+[Next: Chapter V. The Patriarchs of the Northern Buddhists](cbu10.md)

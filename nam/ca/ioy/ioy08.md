@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ioy07)  [Next](ioy09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ioy07)  [Next](ioy09.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ consented to
 
 [![A YOUNG YOSEMITE.&lt;BR&gt; The babies are tied to their baskets to
 make them straight, and keep them out of mischief.](tn/05300.jpg)  
-Click to enlarge](img/05300.jpg)  
+Click to enlarge](img/05300.jpg.md)  
 A YOUNG YOSEMITE.  
 The babies are tied to their baskets to make them straight, and keep
 them out of mischief.  
@@ -143,7 +143,7 @@ wives, and mothers to whip their children.
 [![LENA AND VIRGIL.&lt;BR&gt; The canopy of the baby basket is called
 Cho-ko'-ni, and the Royal Arches, from their resemblance to It, have
 also received this name from the Indians.](tn/05500.jpg)  
-Click to enlarge](img/05500.jpg)  
+Click to enlarge](img/05500.jpg.md)  
 LENA AND VIRGIL.  
 The canopy of the baby basket is called Cho-ko'-ni, and the Royal
 Arches, from their resemblance to It, have also received this name from
@@ -293,7 +293,7 @@ as a memento of his living earth-wife.
 
 [![OLD KALAPINE.&lt;BR&gt; One of the oldest Indians in the Valley. The
 short hair is a badge of widowhood.](tn/06200.jpg)  
-Click to enlarge](img/06200.jpg)  
+Click to enlarge](img/06200.jpg.md)  
 OLD KALAPINE.  
 One of the oldest Indians in the Valley. The short hair is a badge of
 widowhood.  
@@ -366,4 +366,4 @@ West.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six: Native Industries](ioy09)
+[Next: Chapter Six: Native Industries](ioy09.md)

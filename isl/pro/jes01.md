@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes00)  [Next](jes02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes00)  [Next](jes02.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ Christ..etc.
 
 ------------------------------------------------------------------------
 
-[Next: Jesus is One of Those of Will](jes02)
+[Next: Jesus is One of Those of Will](jes02.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](botd12)  [Next](botd14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](botd12)  [Next](botd14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Brother of the Third Degree*, by Will L. Garver, \[1894\], at
 Intangible Textual Heritage
 
@@ -308,7 +308,7 @@ came to an end and I almost fell upon the floor which had suddenly
 become rough. Stooping down I felt a rock and concluded I would rest
 awhile; but as I sat down on its cold, slimy surface, a hissing sound
 arose, and my hand came in contact with the cold body of [a
-snake](errata.htm#3). Hurriedly rising, a huge bat flew past my head and
+snake](errata.htm#3.md). Hurriedly rising, a huge bat flew past my head and
 a swarm of others commenced to circle around me. Somewhat nervous, but
 still possessing a wonderfully cool head, I made another forward step.
 The air had now become full of flying bats and all around was the
@@ -747,4 +747,4 @@ divinity of love, pure love!"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The White Brotherhood](botd14)
+[Next: Chapter XIII. The White Brotherhood](botd14.md)

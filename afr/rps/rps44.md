@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps43)  [Next](rps45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps43)  [Next](rps45.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Balintine Pettersburgh, Head Biblical Interpreter of Creation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 43. The Man Before Adam Was](rps45)
+[Next: Chapter 43. The Man Before Adam Was](rps45.md)

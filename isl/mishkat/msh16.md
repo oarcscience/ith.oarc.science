@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh15)  [Next](msh17) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh15)  [Next](msh17.md) 
 
 ------------------------------------------------------------------------
 
@@ -968,4 +968,4 @@ And each man finds easy that for which he has been created apt."
 
 ------------------------------------------------------------------------
 
-[Next: PART II.--The Science Of Symbolism.](msh17)
+[Next: PART II.--The Science Of Symbolism.](msh17.md)

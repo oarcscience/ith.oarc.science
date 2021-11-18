@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps23) 
-[Next](mps25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps23.md) 
+[Next](mps25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -118,7 +118,7 @@ remember me, bless me; I shall be thought of.
 worthy of being kept in your treasury, give part to build orphan homes,
 part to build bridges; be not sparing in the spending of mine estate for
 me; I have none save thee to quench the hot fires. <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 <span class="margnote"><span id="786">786</span></span>"Henceforth thou
 shalt learn no more news from me, herewith I commit my soul to thee;
@@ -149,8 +149,8 @@ him and wept over him bloody-hued tears.
 
 ### Footnotes
 
-<span id="fn_17"></span>[125:1](mps24.htm#fr_17) Of purgatory?
+<span id="fn_17"></span>[125:1](mps24.htm#fr_17.md) Of purgatory?
 
 ------------------------------------------------------------------------
 
-[Next: XXII. Avt’handil's Prayer in the Mosque, and His Flight](mps25)
+[Next: XXII. Avt’handil's Prayer in the Mosque, and His Flight](mps25.md)

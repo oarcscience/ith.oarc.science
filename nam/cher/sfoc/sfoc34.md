@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc33)  [Next](sfoc35) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc33)  [Next](sfoc35.md) 
 
 ------------------------------------------------------------------------
 
@@ -210,4 +210,4 @@ described.
 
 ------------------------------------------------------------------------
 
-[Next: This is to Make Children Jump Down](sfoc35)
+[Next: This is to Make Children Jump Down](sfoc35.md)

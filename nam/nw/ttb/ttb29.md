@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb28)  [Next](ttb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb28)  [Next](ttb30.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 <span id="page_42">p. 42</span>
 
 <span id="img_04200"></span> ![Welala, The Mountain
-Spirit](img/04200.jpg)
+Spirit](img/04200.jpg.md)
 
 ### Welala, THE MOUNTAIN SPIRIT
 
@@ -55,4 +55,4 @@ greatness and benevolence.
 
 ------------------------------------------------------------------------
 
-[Next: Quil-Tum-Tum](ttb30)
+[Next: Quil-Tum-Tum](ttb30.md)

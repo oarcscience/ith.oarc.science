@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe123)  [Next](prwe125) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe123)  [Next](prwe125.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ children to Sennen.
 
 ------------------------------------------------------------------------
 
-[Next: The Saint's Path](prwe125)
+[Next: The Saint's Path](prwe125.md)

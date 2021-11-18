@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil35)  [Next](egil37) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil35)  [Next](egil37.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ both with father and son.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXXVI. Of Eric Bloodaxe and Thorolf.](egil37)
+[Next: CHAPTER XXXVI. Of Eric Bloodaxe and Thorolf.](egil37.md)

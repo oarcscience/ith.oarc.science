@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sss09)  [Next](sss11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sss09)  [Next](sss11.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ third or fourth year.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Magic and Man](sss11)
+[Next: IX. Magic and Man](sss11.md)

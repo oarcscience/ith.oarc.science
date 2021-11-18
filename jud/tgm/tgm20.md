@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm19)  [Next](tgm21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm19)  [Next](tgm21.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ The fisherman met*.'
 <span id="img_09600"></span>
 
 [![](tn/09600.jpg)  
-Click to enlarge](img/09600.jpg)
+Click to enlarge](img/09600.jpg.md)
 
  
 
@@ -115,4 +115,4 @@ they studied and taught Torah.
 
 ------------------------------------------------------------------------
 
-[Next: 18. The Guardians of the Torah](tgm21)
+[Next: 18. The Guardians of the Torah](tgm21.md)

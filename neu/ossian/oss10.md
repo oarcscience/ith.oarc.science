@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss09)  [Next](oss11) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss09)  [Next](oss11.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ A tale of the times of old!
 
 ------------------------------------------------------------------------
 
-[Next: Comala, A Dramatic Poem](oss11)
+[Next: Comala, A Dramatic Poem](oss11.md)

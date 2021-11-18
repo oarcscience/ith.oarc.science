@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar59)  [Next](gar61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar59)  [Next](gar61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 #### CONSECRATION, DEDICATION, CONSTITUTION, AND INSTALLATION OF OFFICERS OF A NEW LODGE.
 
 ANY number of Master Masons, not less than seven, desirous of forming a
-new Lodge, must apply, by petition, <span id="fr_30"></span>[\*](#fn_30)
+new Lodge, must apply, by petition, <span id="fr_30"></span>[\*](#fn_30.md)
 to the Grand Master, Deputy Grand Master, or Grand Lodge of the State in
 which they reside, as follows;
 
@@ -46,7 +46,7 @@ Senior Warden; and Brother F. F. to be the first Junior Warden of said
 Lodge. If the prayer of this petition shall be granted, they promise a
 strict conformity to the edicts of the Grand Master, and the
 Constitution, laws, and regulations of the Grand Lodge. <span
-id="fr_31"></span>[\*](#fn_31)
+id="fr_31"></span>[\*](#fn_31.md)
 
 <span id="page_225">p. 225</span>
 
@@ -81,7 +81,7 @@ now met, and await the pleasure of the Most Worshipful Grand Master.
 
 The Grand Lodge then walk in procession to the room of the new Lodge.
 When the Grand Master enters, the grand honors <span
-id="fr_32"></span>[\*](#fn_32) are given, under direction of the Master
+id="fr_32"></span>[\*](#fn_32.md) are given, under direction of the Master
 of the new
 
 <span id="page_227">p. 227</span>
@@ -203,7 +203,7 @@ The Bible, Square, and Compasses, and Book of Constitutions,
 <span id="page_230">p. 230</span>
 
 are placed upon a table in front of the Grand Master; the *Lodge* <span
-id="fr_33"></span>[\*](#fn_33) is placed in the center, upon a platform
+id="fr_33"></span>[\*](#fn_33.md) is placed in the center, upon a platform
 covered with white linen, and encompassed by the three tapers and the
 vessels of corn, wine, and oil.
 
@@ -214,7 +214,7 @@ The following services then take place:
 AIR—*Shirland*. S. M.
 
 <span id="img_23000"></span> <span align="CENTER"> [![](tn/23000.jpg)  
-Click to enlarge](img/23000.jpg)</span>
+Click to enlarge](img/23000.jpg.md)</span>
 
 <div style="margin-left: 32px">
 
@@ -274,7 +274,7 @@ An ORATION, by some competent brother, when practicable.
 AIR—*Duke Street*. L. M.
 
 <span id="img_23200"></span> <span align="CENTER"> [![](tn/23200.jpg)  
-Click to enlarge](img/23200.jpg)</span>
+Click to enlarge](img/23200.jpg.md)</span>
 
 <div style="margin-left: 32px">
 
@@ -287,7 +287,7 @@ Whose hearts, whose faith, whose hopes are one.</span>
 </div>
 
 <span id="img_23300"></span> <span align="CENTER"> [![](tn/23300.jpg)  
-Click to enlarge](img/23300.jpg)</span>
+Click to enlarge](img/23300.jpg.md)</span>
 
 <div style="margin-left: 32px">
 
@@ -379,7 +379,7 @@ Lodge.
 
 <span id="page_236">p. 236</span>
 
-<span id="img_23600"></span> ![VESSELS OF CONSECRATION.](img/23600.jpg)
+<span id="img_23600"></span> ![VESSELS OF CONSECRATION.](img/23600.jpg.md)
 
 The Grand Chaplain then continues:
 
@@ -411,7 +411,7 @@ mote it be.—AMEN.
 
 ### Footnotes
 
-<span id="fn_30"></span>[223:\*](gar60.htm#fr_30) The mode of applying
+<span id="fn_30"></span>[223:\*](gar60.htm#fr_30.md) The mode of applying
 by petition to the Grand Master for a warrant to meet as a regular
 Lodge, commenced only in the year 1718; previous to that time, Lodges
 were empowered, by inherent privileges vested in the Fraternity at
@@ -425,7 +425,7 @@ and universally admitted and acknowledged by the whole Fraternity
 throughout the world, and which no warrant or other instrument of any
 particular Masonic jurisdiction can possibly supersede.
 
-<span id="fn_31"></span>[224:\*](gar60.htm#fr_31) This petition, being
+<span id="fn_31"></span>[224:\*](gar60.htm#fr_31.md) This petition, being
 signed by at least seven regular Masons, and recommended by a Lodge or
 Lodges nearest to the place where the new Lodge is to be holden, is
 delivered to the Grand Secretary, who lays it before the G. Lodge.
@@ -467,7 +467,7 @@ under his hand and private seal, to some worthy Present or Past Master,
 with full power to congregate, dedicate, and constitute the Lodge, and
 install its officers.
 
-<span id="fn_32"></span>[226:\*](gar60.htm#fr_32) The Grand Honors of
+<span id="fn_32"></span>[226:\*](gar60.htm#fr_32.md) The Grand Honors of
 Masonry are those peculiar acts and gestures by which the Craft have
 always been accustomed to express their homage, their joy, or their
 grief, on memorable occasions. They are of two kinds, the private and
@@ -565,7 +565,7 @@ institution, that the "Grand Honors" of Freemasonry are legitimately
 derived from the "pietism" or applaudings practiced by the ancients on
 public occasions.—MACKEY'S *Lexicon of Freemasonry*. SEE NOTE, p. 336.
 
-<span id="fn_33"></span>[230:\*](gar60.htm#fr_33) The *Lodge*,
+<span id="fn_33"></span>[230:\*](gar60.htm#fr_33.md) The *Lodge*,
 technically speaking, is a piece of furniture, made in imitation of the
 Ark of the Covenant, which was constructed according to the form of the
 Temple. The instrument usually used on occasions of Constituting,
@@ -574,4 +574,4 @@ shape, covered with white linen.
 
 ------------------------------------------------------------------------
 
-[Next: Dedication and Constitution of a New Lodge](gar61)
+[Next: Dedication and Constitution of a New Lodge](gar61.md)

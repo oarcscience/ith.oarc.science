@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic107)  [Next](lfic109) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic107)  [Next](lfic109.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ along with himself.
 
 ------------------------------------------------------------------------
 
-[Next: A Legend of St Mogue of Ferns](lfic109)
+[Next: A Legend of St Mogue of Ferns](lfic109.md)

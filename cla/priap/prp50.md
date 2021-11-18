@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp49)  [Next](prp51) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp49)  [Next](prp51.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ our twin garlands.
 
 ------------------------------------------------------------------------
 
-[Next: 51. What be this pother? For what cause suspects](prp51)
+[Next: 51. What be this pother? For what cause suspects](prp51.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal029)  [Next](njal031) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal029)  [Next](njal031.md) 
 
 ------------------------------------------------------------------------
 
@@ -163,4 +163,4 @@ sea-fight.
 
 ------------------------------------------------------------------------
 
-[Next: 31. Gunnar Goes To King Harold Gorm'sson And Earl Hacon](njal031)
+[Next: 31. Gunnar Goes To King Harold Gorm'sson And Earl Hacon](njal031.md)

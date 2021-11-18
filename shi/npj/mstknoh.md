@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Japan](../index)  
-[Nō Plays of Japan Index](index)
+[Intangible Textual Heritage](../../index) [Japan](../index.md)  
+[Nō Plays of Japan Index](index.md)
 
 ------------------------------------------------------------------------
 

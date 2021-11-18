@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls27)  [Next](rls29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls27)  [Next](rls29.md) 
 
 ------------------------------------------------------------------------
 
@@ -624,4 +624,4 @@ free. He can then live both in God and in the world equally well.
 
 ------------------------------------------------------------------------
 
-[Next: Index to the Sayings](rls29)
+[Next: Index to the Sayings](rls29.md)

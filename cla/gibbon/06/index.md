@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Gibbon](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Gibbon](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEIFCE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEIFCE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,13 +27,13 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEIFCE/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](daf06000)
+[Contents](#contents)    [Start Reading](daf06000.md)
 
 ------------------------------------------------------------------------
 
-[Volume 1](../01/index) \|  [Volume 2](../02/index) \|  [Volume
-3](../03/index) \|  [Volume 4](../04/index) \|  [Volume
-5](../05/index) \|  **Volume 6**
+[Volume 1](../01/index) \|  [Volume 2](../02/index.md) \|  [Volume
+3](../03/index) \|  [Volume 4](../04/index.md) \|  [Volume
+5](../05/index.md) \|  **Volume 6**
 
 ------------------------------------------------------------------------
 
@@ -43,73 +43,73 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEIFCE/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](daf06000)  
-[The Crusades. Part I.](daf06001)  
-[Chapter LIX: The Crusades. Part II.](daf06002)  
-[Chapter LIX: The Crusades. Part III.](daf06003)  
-[Chapter LX: The Fourth Crusade. Part I.](daf06004)  
-[Chapter LX: The Fourth Crusade. Part II.](daf06005)  
-[Chapter LX: The Fourth Crusade. Part III.](daf06006)  
+<span id="contents"></span> [Title Page](daf06000.md)  
+[The Crusades. Part I.](daf06001.md)  
+[Chapter LIX: The Crusades. Part II.](daf06002.md)  
+[Chapter LIX: The Crusades. Part III.](daf06003.md)  
+[Chapter LX: The Fourth Crusade. Part I.](daf06004.md)  
+[Chapter LX: The Fourth Crusade. Part II.](daf06005.md)  
+[Chapter LX: The Fourth Crusade. Part III.](daf06006.md)  
 [Chapter LXI: Partition Of The Empire By The French And Venetians. Part
-I.](daf06007)  
+I.](daf06007.md)  
 [Chapter LXI: Partition Of The Empire By The French And Venetians. Part
-II.](daf06008)  
+II.](daf06008.md)  
 [Chapter LXI: Partition Of The Empire By The French And Venetians. Part
-III.](daf06009)  
+III.](daf06009.md)  
 [Chapter LXI: Partition Of The Empire By The French And Venetians. Part
-III.](daf06010)  
+III.](daf06010.md)  
 [Chapter LXII: Greek Emperors Of Nice And Constantinople. Part
-I.](daf06011)  
+I.](daf06011.md)  
 [Chapter LXII: Greek Emperors Of Nice And Constantinople. Part
-II.](daf06012)  
+II.](daf06012.md)  
 [Chapter LXII: Greek Emperors Of Nice And Constantinople. Part
-III.](daf06013)  
+III.](daf06013.md)  
 [Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire. Part
-I.](daf06014)  
+I.](daf06014.md)  
 [Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire. Part
-II.](daf06015)  
-[Chapter LXIV: Moguls, Ottoman Turks. Part I.](daf06016)  
-[Chapter LXIV: Moguls, Ottoman Turks. Part II.](daf06017)  
-[Chapter LXIV: Moguls, Ottoman Turks. Part III.](daf06018)  
-[Chapter LXIV: Moguls, Ottoman Turks. Part IV.](daf06019)  
+II.](daf06015.md)  
+[Chapter LXIV: Moguls, Ottoman Turks. Part I.](daf06016.md)  
+[Chapter LXIV: Moguls, Ottoman Turks. Part II.](daf06017.md)  
+[Chapter LXIV: Moguls, Ottoman Turks. Part III.](daf06018.md)  
+[Chapter LXIV: Moguls, Ottoman Turks. Part IV.](daf06019.md)  
 [Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death. Part
-I.](daf06020)  
+I.](daf06020.md)  
 [Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death. Part
-II.](daf06021)  
+II.](daf06021.md)  
 [Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death. Part
-III.](daf06022)  
+III.](daf06022.md)  
 [Chapter LXVI: Union Of The Greek And Latin Churches. Part
-I.](daf06023)  
+I.](daf06023.md)  
 [Chapter LXVI: Union Of The Greek And Latin Churches. Part
-II.](daf06024)  
+II.](daf06024.md)  
 [Chapter LXVI: Union Of The Greek And Latin Churches. Part
-III.](daf06025)  
+III.](daf06025.md)  
 [Chapter LXVI: Union Of The Greek And Latin Churches. Part
-IV.](daf06026)  
-[Chapter LXVII: Schism Of The Greeks And Latins. Part I.](daf06027)  
-[Chapter LXVII: Schism Of The Greeks And Latins. Part II.](daf06028)  
+IV.](daf06026.md)  
+[Chapter LXVII: Schism Of The Greeks And Latins. Part I.](daf06027.md)  
+[Chapter LXVII: Schism Of The Greeks And Latins. Part II.](daf06028.md)  
 [Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern
-Empire. Part I.](daf06029)  
+Empire. Part I.](daf06029.md)  
 [Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern
-Empire. Part II.](daf06030)  
+Empire. Part II.](daf06030.md)  
 [Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern
-Empire. Part III.](daf06031)  
-[Chapter LXIX: State Of Rome From The Twelfth Century.](daf06032)  
+Empire. Part III.](daf06031.md)  
+[Chapter LXIX: State Of Rome From The Twelfth Century.](daf06032.md)  
 [Chapter LXIX: State Of Rome From The Twelfth Century. Part
-II.](daf06033)  
+II.](daf06033.md)  
 [Chapter LXIX: State Of Rome From The Twelfth Century. Part
-III.](daf06034)  
+III.](daf06034.md)  
 [Chapter LXIX: State Of Rome From The Twelfth Century. Part
-IV.](daf06035)  
+IV.](daf06035.md)  
 [Chapter LXX: Final Settlement Of The Ecclesiastical State. Part
-I.](daf06036)  
+I.](daf06036.md)  
 [Chapter LXX: Final Settlement Of The Ecclesiastical State. Part
-II.](daf06037)  
+II.](daf06037.md)  
 [Chapter LXX: Final Settlement Of The Ecclesiastical State. Part
-III.](daf06038)  
+III.](daf06038.md)  
 [Chapter LXX: Final Settlement Of The Ecclesiastical State. Part
-IV.](daf06039)  
+IV.](daf06039.md)  
 [Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.
-Part I.](daf06040)  
+Part I.](daf06040.md)  
 [Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.
-Part II.](daf06041)  
+Part II.](daf06041.md)  

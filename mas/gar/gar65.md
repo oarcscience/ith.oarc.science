@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar64)  [Next](gar66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar64)  [Next](gar66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -91,7 +91,7 @@ These arrangements being completed, the following or some other
 appropriate ODE is sung:
 
 <span id="img_29400"></span> <span align="CENTER"> [![](tn/29400.jpg)  
-Click to enlarge](img/29400.jpg)</span>
+Click to enlarge](img/29400.jpg.md)</span>
 
 <div style="margin-left: 32px">
 
@@ -103,7 +103,7 @@ Parent of light! illume our ways,
 </div>
 
 <span id="img_29500"></span> <span align="CENTER"> [![](tn/29500.jpg)  
-Click to enlarge](img/29500.jpg)</span>
+Click to enlarge](img/29500.jpg.md)</span>
 
 <div style="margin-left: 32px">
 
@@ -231,7 +231,7 @@ of dedication.
 
 <span id="img_29900"></span> <span align="CENTER"> [![ODE:
 Music—&lt;i&gt;Old Hundred&lt;/i&gt;.](tn/29900.jpg)  
-Click to enlarge](img/29900.jpg)  
+Click to enlarge](img/29900.jpg.md)  
   
 </span>
 
@@ -247,7 +247,7 @@ While we adore thy peaceful reign.</span>
 
 <span id="img_30000"></span> <span align="CENTER"> [![Ode
 continued](tn/30000.jpg)  
-Click to enlarge](img/30000.jpg)  
+Click to enlarge](img/30000.jpg.md)  
   
 </span>
 
@@ -453,4 +453,4 @@ the room where it was opened, and is closed in ample form.
 
 ------------------------------------------------------------------------
 
-[Next: Grand Visitations](gar66)
+[Next: Grand Visitations](gar66.md)

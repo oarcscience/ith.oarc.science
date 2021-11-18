@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr21) 
-[Next](idr23) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr21.md) 
+[Next](idr23.md) 
 
 ------------------------------------------------------------------------
 
@@ -324,4 +324,4 @@ the material author of all earthly life.
 
 ------------------------------------------------------------------------
 
-[Next: Fire-Worship](idr23)
+[Next: Fire-Worship](idr23.md)

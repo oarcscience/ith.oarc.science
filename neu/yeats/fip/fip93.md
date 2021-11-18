@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip92)  [Next](fip94) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip92)  [Next](fip94.md) 
 
 ------------------------------------------------------------------------
 
-### A LEGEND OF KNOCKMANY.--Page [266](fip69.htm#page_266)
+### A LEGEND OF KNOCKMANY.--Page [266](fip69.htm#page_266.md)
 
 Carleton says--"Of the grey stone mentioned in this legend, there is a
 very striking and melancholy anecdote to be told. Some twelve or
@@ -26,4 +26,4 @@ Senachies, gave rise to the superstition annexed to it."
 
 ------------------------------------------------------------------------
 
-[Next: Some Authorities On Irish Folk-Lore](fip94)
+[Next: Some Authorities On Irish Folk-Lore](fip94.md)

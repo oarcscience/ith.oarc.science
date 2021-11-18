@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Commentary](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Commentary](../index.md) 
 
 </div>
 
@@ -23,9 +23,9 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](int)
+[Contents](#contents)    [Start Reading](int.md)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Introduction](int)  
-[Psalms](psa)  
+<span id="contents"></span> [Introduction](int.md)  
+[Psalms](psa.md)  

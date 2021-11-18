@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap32) 
-[Next](bap34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap32.md) 
+[Next](bap34.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ priesthood established by means of the almond rods.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII](bap34)
+[Next: Chapter XVIII](bap34.md)

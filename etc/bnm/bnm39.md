@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm38)  [Next](bnm40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm38)  [Next](bnm40.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ the juniper-tree has berries.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Sea Is Salt.](bnm40)
+[Next: Why The Sea Is Salt.](bnm40.md)

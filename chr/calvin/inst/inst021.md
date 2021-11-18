@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst020)  [Next](inst022) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst020)  [Next](inst022.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ lent to it by the good will of men?
 by a single expression of an apostle. Paul testifies that the Church is
 “built on the foundation of the apostles and prophets,” (<span
 id="iv.i.viii-p11.1"></span>[Eph.
-2:20](../../../bib/kjv/eph002.htm#020)<span
+2:20](../../../bib/kjv/eph002.htm#020.md)<span
 id="iv.i.viii-p11.1"></span>). If the doctrine of the apostles and
 prophets is the foundation of the Church, the former must have had its
 certainty before the latter began to exist. Nor is there any room for
@@ -103,7 +103,7 @@ Christian Church was founded at first on the writings of the prophets,
 and the preaching of the apostles, that doctrine, wheresoever it may be
 found, was certainly ascertained and sanctioned antecedently to the
 Church, since, but for this, the Church herself never could have
-existed.7  <span id="fr_65"></span>[66](#fn_65) Nothings therefore can
+existed.7  <span id="fr_65"></span>[66](#fn_65.md) Nothings therefore can
 be more absurd than the fiction, that the power of judging Scripture is
 in the Church, and that on her nod its certainty depends. When the
 Church receives it, and gives it the stamp of her authority, she does
@@ -149,14 +149,14 @@ internally strengthening and illuminating our minds? These
 unquestionably are the words of Augustine (August. Cont. Epist.
 Fundament. cap. 4); and the obvious inference from them is, that this
 holy man had no intention to suspend our faith in Scripture on the nod
-or decision of the Church,7  <span id="fr_66"></span>[67](#fn_66) but
+or decision of the Church,7  <span id="fr_66"></span>[67](#fn_66.md) but
 only to intimate (what we too admit to be true) that those who are not
 yet enlightened by the Spirit of God, become teachable by reverence for
 the Church, and thus submit to learn the faith of Christ from the
 gospel. In this way, though the authority of the Church leads us on, and
 prepares us to believe in the gospel, it is plain that Augustine would
 have the certainty of the godly to rest on a very different foundation.7
- <span id="fr_67"></span>[68](#fn_67)
+ <span id="fr_67"></span>[68](#fn_67.md)
 
 <span id="iv.i.viii-p17"></span>At the same time, I deny not that he
 often presses the Manichees with the consent of the whole Church, while
@@ -229,7 +229,7 @@ words, “My Spirit that is upon thee, and my words which I have put in
 thy mouth, shall not depart out of thy mouth, nor out of the mouth of
 thy seed, nor out of the mouth of thy seed’s seed, saith the Lord, from
 henceforth and for ever,” (<span id="iv.i.viii-p19.1"></span>[Isa.
-59:21](../../../bib/kjv/isa059.htm#021)<span
+59:21](../../../bib/kjv/isa059.htm#021.md)<span
 id="iv.i.viii-p19.1"></span>). Some worthy persons feel disconcerted,
 because, while the wicked murmur with impunity at the Word of God, they
 have not a clear proof at hand to silence them, forgetting that the
@@ -242,7 +242,7 @@ that those who are inwardly taught by the Holy Spirit acquiesce
 implicitly in Scripture; that Scripture, carrying its own evidence along
 with it, deigns not to submit to proofs and arguments, but owes the full
 conviction with which we ought to receive it to the testimony of the
-Spirit.7  <span id="fr_68"></span>[69](#fn_68) Enlightened by him, we no
+Spirit.7  <span id="fr_68"></span>[69](#fn_68.md) Enlightened by him, we no
 longer believe, either on our own Judgment or that of others, that the
 Scriptures are from God; but, in a way superior to human Judgment, feel
 perfectly assured—as much so as if we beheld the divine image visibly
@@ -261,7 +261,7 @@ God most justly exclaims by the mouth of Isaiah, “Ye are my witnesses,
 saith the Lord, and my servant whom I have chosen, that ye may know and
 believe me, and understand that I am he,” (<span
 id="iv.i.viii-p21.1"></span>[Isa.
-43:10](../../../bib/kjv/isa043.htm#010)<span
+43:10](../../../bib/kjv/isa043.htm#010.md)<span
 id="iv.i.viii-p21.1"></span>).
 
 <span id="iv.i.viii-p22"></span>Such, then, is a conviction which asks
@@ -276,7 +276,7 @@ is that which the Spirit of God seals on our hearts. Nay, the modest and
 teachable reader will find a sufficient reason in the promise contained
 in Isaiah, that all the children of the renovated Church “shall be
 taught of the Lord,” (<span id="iv.i.viii-p22.1"></span>[Isaiah
-54:13](../../../bib/kjv/isa054.htm#013)<span
+54:13](../../../bib/kjv/isa054.htm#013.md)<span
 id="iv.i.viii-p22.1"></span>). This singular privilege God bestows on
 his elect only, whom he separates from the rest of mankind. For what is
 the beginning of true doctrine but prompt alacrity to hear the Word of
@@ -285,8 +285,8 @@ not in heavens that thou shouldest say, Who shall go up for us to
 heaven, and bring it unto us, that we may hear and do it? But the word
 is very nigh unto thee, in thy mouth and in thy heart,” (<span
 id="iv.i.viii-p22.2"></span>[Deut.
-30:12](../../../bib/kjv/deu030.htm#012),
-[14](../../../bib/kjv/deu030.htm#014)<span
+30:12](../../../bib/kjv/deu030.htm#012.md),
+[14](../../../bib/kjv/deu030.htm#014.md)<span
 id="iv.i.viii-p22.2"></span>). God having been pleased to reserve the
 treasure of intelligence for his children, no wonder that so much
 ignorance and stupidity is seen in the *generality* of mankind. In the
@@ -297,7 +297,7 @@ strangers, but also to the Jews, who were desirous to be thought of the
 household of God, subjoins the reason, when he asks, “To whom has the
 arm of the Lord been revealed?” (<span
 id="iv.i.viii-p22.3"></span>[Isaiah
-53:1](../../../bib/kjv/isa053.htm#001)<span
+53:1](../../../bib/kjv/isa053.htm#001.md)<span
 id="iv.i.viii-p22.3"></span>). If at any time, then we are troubled at
 the small number of those who believe, let us, on the other hand, call
 to mind, that none comprehend the mysteries of God save those to whom it
@@ -307,20 +307,20 @@ is given.
 
 ### Footnotes
 
-<span id="fn_65"></span>[66](inst021.htm#fr_65) <span
+<span id="fn_65"></span>[66](inst021.htm#fr_65.md) <span
 id="iv.i.viii-p11.2"></span>
 
 <span id="iv.i.viii-p12"></span>2 72 The French adds, “Comme le
 fondement va deuant l’edifice;”—as the foundation goes before the house.
 
-<span id="fn_66"></span>[67](inst021.htm#fr_66) <span
+<span id="fn_66"></span>[67](inst021.htm#fr_66.md) <span
 id="iv.i.viii-p14.1"></span>
 
 <span id="iv.i.viii-p15"></span>3 73 The French adds,“La destournant du
 seul fondement qu’elle a en l’Escriture;”—diverting it from the only
 foundation which is has in scripture.
 
-<span id="fn_67"></span>[68](inst021.htm#fr_67) <span
+<span id="fn_67"></span>[68](inst021.htm#fr_67.md) <span
 id="iv.i.viii-p15.1"></span>
 
 <span id="iv.i.viii-p16"></span>4 74 Augustin. De Ordine, lib. 2 c. 9
@@ -332,7 +332,7 @@ aptior eruditis: tamen quia nullus hominum nisi ex imperito peritus fit,
 aperiat nisi auctoritas januam,” &c. He has many other excellent things
 to the same effect.
 
-<span id="fn_68"></span>[69](inst021.htm#fr_68) <span
+<span id="fn_68"></span>[69](inst021.htm#fr_68.md) <span
 id="iv.i.viii-p20.1"></span>
 
 <span id="iv.i.viii-p21"></span>5 75 The French adds, “Car jacoit qu’en
@@ -345,4 +345,4 @@ us when it is sealed in our hearts by the Holy Spirit.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 8. - THE CREDIBILITY OF SCRIPTURE SUFFICIENTLY PROVED IN
-SO FAR AS NATURAL REASON ADMITS.](inst022)
+SO FAR AS NATURAL REASON ADMITS.](inst022.md)

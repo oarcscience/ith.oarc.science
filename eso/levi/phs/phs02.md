@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Previous](phs01) 
-[Next](phs03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Previous](phs01.md) 
+[Next](phs03.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ THE TRANSLATOR
 
 ------------------------------------------------------------------------
 
-[Next: Foreword to the 1922 Second Edition](phs03)
+[Next: Foreword to the 1922 Second Edition](phs03.md)

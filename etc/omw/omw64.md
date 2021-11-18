@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw63)  [Next](omw65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw63)  [Next](omw65.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ palace that is built on nothing that is substantial.
 
 ------------------------------------------------------------------------
 
-[Next: The Birth of the Ganges](omw65)
+[Next: The Birth of the Ganges](omw65.md)

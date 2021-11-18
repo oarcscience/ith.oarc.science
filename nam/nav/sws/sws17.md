@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](sws16)  [Next](sws18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](sws16)  [Next](sws18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Spider Woman*, by Gladys A. Reichard, \[1934\], at Intangible Textual
 Heritage
 
@@ -80,26 +80,26 @@ stripes, she is
 
 <span id="img_11000"></span> <span align="CENTER"> [![A GOOD
 EDGE](tn/11000.jpg)  
-Click to enlarge](img/11000.jpg)  
+Click to enlarge](img/11000.jpg.md)  
 A GOOD EDGE  
 </span>
 
 <span id="img_11001"></span> <span align="CENTER"> [![MY FOURTH RUG WITH
 PATTERN&lt;br&gt; FOR THE SECOND](tn/11001.jpg)  
-Click to enlarge](img/11001.jpg)  
+Click to enlarge](img/11001.jpg.md)  
 MY FOURTH RUG WITH PATTERN  
 FOR THE SECOND  
 </span>
 
 <span id="img_11100"></span> <span align="CENTER">
 [![SHEEP](tn/11100.jpg)  
-Click to enlarge](img/11100.jpg)  
+Click to enlarge](img/11100.jpg.md)  
 SHEEP  
 </span>
 
 <span id="img_11101"></span> <span align="CENTER"> [![HUSKING
 BEE](tn/11101.jpg)  
-Click to enlarge](img/11101.jpg)  
+Click to enlarge](img/11101.jpg.md)  
 HUSKING BEE  
 </span>
 
@@ -234,4 +234,4 @@ back again to begin once more.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: Dan](sws18)
+[Next: Chapter XV: Dan](sws18.md)

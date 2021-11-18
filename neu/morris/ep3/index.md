@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [William Morris](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [William Morris](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402184662/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402184662/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,11 +27,11 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402184662/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ep300)
+[Contents](#contents)    [Start Reading](ep300.md)
 
 ------------------------------------------------------------------------
 
-[March-August](../ep1/index) \|  [September-November](../ep2/index) \| 
+[March-August](../ep1/index) \|  [September-November](../ep2/index.md) \| 
 **December-February**
 
 ------------------------------------------------------------------------
@@ -51,32 +51,32 @@ volume was conidered part I and II).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ep300)  
-[Contents](ep301)  
+<span id="contents"></span> [Title Page](ep300.md)  
+[Contents](ep301.md)  
 <span id="section_000"></span>
 
 ### December
 
-[Introduction](ep302)  
-[The Golden Apples](ep303)  
-[The Fostering of Aslaug](ep304)  
+[Introduction](ep302.md)  
+[The Golden Apples](ep303.md)  
+[The Fostering of Aslaug](ep304.md)  
 <span id="section_001"></span>
 
 ### January
 
-[Introduction](ep305)  
-[Bellerophon at Argos](ep306)  
-[The Ring Given to Venus](ep307)  
+[Introduction](ep305.md)  
+[Bellerophon at Argos](ep306.md)  
+[The Ring Given to Venus](ep307.md)  
 <span id="section_002"></span>
 
 ### February
 
-[Introduction](ep308)  
-[Bellerophon in Lycia](ep309)  
-[The Hill of Venus](ep310)  
+[Introduction](ep308.md)  
+[Bellerophon in Lycia](ep309.md)  
+[The Hill of Venus](ep310.md)  
 
  
 
-[Epilogue](ep311)  
-[L’Envoi](ep312)  
-[Advertisements and End Matter](ep313)  
+[Epilogue](ep311.md)  
+[L’Envoi](ep312.md)  
+[Advertisements and End Matter](ep313.md)  

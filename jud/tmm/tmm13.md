@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm12)  [Next](tmm14) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm12)  [Next](tmm14.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ sin, a fear of sin begets saintliness, and saintliness brings the Holy
 Spirit.--Mid. Songs 1.
 
 Moses, Aaron and Miriam died by having their souls drawn out by God's
-kiss. <span id="fr_21"></span>[1](#fn_21)--Mid. Songs 1.
+kiss. <span id="fr_21"></span>[1](#fn_21.md)--Mid. Songs 1.
 
 The nations of the world are not justified in thinking that, because
 Israel is rebellious, God will change them for another nation. It is as
@@ -217,7 +217,7 @@ merchant made his
 way unopposed to the river Euphrates, where he filled his casks with
 water of that river and returned to Rome. The water being used for the
 mixing of the lime and sand, the houses were successfully erected. <span
-id="fr_22"></span>[1](#fn_22)--Mid. Songs 1.
+id="fr_22"></span>[1](#fn_22.md)--Mid. Songs 1.
 
 Jacob went to Beersheba for the purpose of hewing down the groves which
 Abraham had planted there. When on his deathbed Jacob was inspired by
@@ -319,10 +319,10 @@ Ezra.'--Mid. Song of Songs 8.
 
 ### Footnotes
 
-<span id="fn_21"></span>[167:1](tmm13.htm#fr_21) See also *Moreh
+<span id="fn_21"></span>[167:1](tmm13.htm#fr_21.md) See also *Moreh
 Nebuchim*, vol. 3, cap. 51.
 
-<span id="fn_22"></span>[173:1](tmm13.htm#fr_22) This narrative is
+<span id="fn_22"></span>[173:1](tmm13.htm#fr_22.md) This narrative is
 seemingly uninteresting, but it seems to me to be given in connexion
 with what is said about the building of Rome owing to Solomon marrying
 Pharaoh's daughter. The Midrash proceeds to show how the building of
@@ -333,4 +333,4 @@ monuments, was mixed with the building materials.
 
 ------------------------------------------------------------------------
 
-[Next: Midrash Ecclesiastes](tmm14)
+[Next: Midrash Ecclesiastes](tmm14.md)

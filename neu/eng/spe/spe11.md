@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe10)  [Next](spe12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe10)  [Next](spe12.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ ring, tournaments, and jousts.
 All these, and especially the two last, were favourite pastimes with the
 nobility of the middle ages. The progress and decline of tournaments in
 this country has already been mentioned in a general way; <span
-id="fr_424"></span>[1](#fn_424) I shall in this place be a little more
+id="fr_424"></span>[1](#fn_424.md) I shall in this place be a little more
 particular with respect to the nature and distinction of these
 celebrated diversions.
 
@@ -51,7 +51,7 @@ THE QUINTAIN.--Tilting or combating at the quintain is certainly a
 military exercise of high antiquity, and antecedent, I doubt not, to the
 jousts and tournaments. The quintain, originally, was nothing more than
 the trunk of a tree or post set up for the practice of the tyros in
-chivalry. <span id="fr_425"></span>[2](#fn_425) Afterward a staff or
+chivalry. <span id="fr_425"></span>[2](#fn_425.md) Afterward a staff or
 spear was fixed in the earth, and a shield being hung upon it, was the
 mark to strike at: the dexterity of the performer consisted in smiting
 the shield in such a manner as to break the ligatures and bear it to the
@@ -63,7 +63,7 @@ wood was introduced. To render the
 
 appearance of this figure more formidable, it was generally made in the
 likeness of a Turk or a Saracen armed at all points, <span
-id="fr_426"></span>[1](#fn_426) bearing a shield upon his left arm, and
+id="fr_426"></span>[1](#fn_426.md) bearing a shield upon his left arm, and
 brandishing a club or a sabre with his right. Hence this exercise was
 called by the Italians, "running at the armed man, or at the Saracen."
 The quintain thus fashioned was placed upon a pivot, and so contrived as
@@ -75,7 +75,7 @@ turned about with much velocity, and, in case he was not exceedingly
 careful, would give him a severe blow upon the back with the wooden
 sabre held in the right hand, which was considered as highly disgraceful
 to the performer, while it excited the laughter and ridicule of the
-spectators. <span id="fr_427"></span>[2](#fn_427) When many were engaged
+spectators. <span id="fr_427"></span>[2](#fn_427.md) When many were engaged
 in running at the Saracen, the conqueror was declared from the number of
 strokes he had made, and the value of them; for instance, if he struck
 the image upon the top of the nose between the eyes, it was reckoned for
@@ -83,14 +83,14 @@ three; if below the eyes, upon the nose, for two; if under the nose to
 the point of the chin, for one; all other strokes were not counted; but
 whoever struck upon the shield and turned the quintain round, was not
 permitted to run again upon the same day, but forfeited his courses as a
-punishment for his unskilfulness. <span id="fr_428"></span>[3](#fn_428)
+punishment for his unskilfulness. <span id="fr_428"></span>[3](#fn_428.md)
 
 VARIOUS QUINTAINS.--The quintain in its original state was not confined
 to the exercise of young warriors on horseback: it was an object of
 practice for them on foot, in order to acquire strength and skill in
 assaulting an enemy with their swords, spears, and battle-axes. I met
 with a manuscript in the Royal Library, <span
-id="fr_429"></span>[4](#fn_429) written early in the fourteenth century,
+id="fr_429"></span>[4](#fn_429.md) written early in the fourteenth century,
 entitled "Les Etablissmentz des Chevalerie," wherein the author, who
 appears to have been a man scientifically skilled in the military
 tactics of his time, strongly recommends a constant and attentive attack
@@ -116,14 +116,14 @@ of
 <span id="img_pl13"></span>
 
 [![The Quintain (1)](tn/pl13.jpg)  
-Click to enlarge](img/pl13.jpg)  
+Click to enlarge](img/pl13.jpg.md)  
 The Quintain (1)  
 
  
 
 <span id="page_107">p. 107</span>
 
-"Knighthood and Battle," <span id="fr_430"></span>[1](#fn_430) describes
+"Knighthood and Battle," <span id="fr_430"></span>[1](#fn_430.md) describes
 the attack of the pel in the following curious manner:--
 
 Of fight, the disciplyne, and exercise  
@@ -150,10 +150,10 @@ On hym with shield, and sword avised so,
 That thou be cloos, and preste thy foe to smyte,  
 Lest of thyne own dethe thou be to wite.
 
-Empeche <span id="fr_431"></span>[2](#fn_431) his head, his face, have
+Empeche <span id="fr_431"></span>[2](#fn_431.md) his head, his face, have
 at his gorge,  
 Beare at the breste, or sperne him one the side.  
-With myghte knyghtly poost, <span id="fr_432"></span>[3](#fn_432) ene as
+With myghte knyghtly poost, <span id="fr_432"></span>[3](#fn_432.md) ene as
 Seynt George  
 Lepe o thy foe; looke if he dare abide:  
 Will he not flee? wounde him; make woundis wide,  
@@ -173,7 +173,7 @@ sometimes used upon this occasion. The pel was also set up as a mark to
 cast at with spears, as the same poet informs us:
 
 A dart of more wight then is mester, <span
-id="fr_433"></span>[4](#fn_433)  
+id="fr_433"></span>[4](#fn_433.md)  
 Take hym in honde and teche him it to stere;  
 And cast it at the pile as at his foo,  
 So that it conte and right uppon him go.
@@ -196,7 +196,7 @@ Is but a quintain, a mere lifeless block.
 
 DERIVATION OF QUINTAIN.--This exercise is said to have received the name
 of quintain from Quinctus or Quintas the inventor, <span
-id="fr_434"></span>[1](#fn_434) but who he was, or when he lived, is not
+id="fr_434"></span>[1](#fn_434.md) but who he was, or when he lived, is not
 ascertained. The game itself, I doubt not, is of remote origin, and
 especially the exercise of the pel, or post quintain, which is spoken of
 at large by Vegetius; and from him the substance of what the two authors
@@ -205,7 +205,7 @@ that this species of mock combat was in common use among the Romans, who
 caused the young military men to practise at it twice in the day, at
 morning and at noon; he also adds that they used clubs and javelins,
 heavier than common, and fought at the pel as if they were opposing an
-adversary, etc. <span id="fr_435"></span>[2](#fn_435)
+adversary, etc. <span id="fr_435"></span>[2](#fn_435.md)
 
 In the code of laws established by the emperor Justinian, the quintain
 is mentioned as a well-known sport; and permitted to be continued, upon
@@ -229,11 +229,11 @@ with many young persons who are in readiness to rescue the champion from
 danger. It appears to have been a very popular pastime; for the bridge,
 the wharfs, and the houses near the river were crowded with people on
 this occasion, who come, says the author, to see the sports and make
-themselves merry. <span id="fr_436"></span>[3](#fn_436) A representation
+themselves merry. <span id="fr_436"></span>[3](#fn_436.md) A representation
 of the water quintain, taken from a manuscript of the fourteenth century
-in the Royal Library, is given upon [plate fourteen](#img_pl14), where a
+in the Royal Library, is given upon [plate fourteen](#img_pl14.md), where a
 square piece of board is substituted for the shield. <span
-id="fr_437"></span>[4](#fn_437)
+id="fr_437"></span>[4](#fn_437.md)
 
 RUNNING AT THE QUINTAIN PRACTISED BY THE LONDONERS; AND WHY.--Matthew
 Paris mentions the quintain by name, but he speaks of it in a cursory
@@ -245,7 +245,7 @@ about
 <span id="img_pl14"></span>
 
 [![The Quintain (2)](tn/pl14.jpg)  
-Click to enlarge](img/pl14.jpg)  
+Click to enlarge](img/pl14.jpg.md)  
 The Quintain (2)  
 
  
@@ -263,10 +263,10 @@ calling them cowardly knaves and rascally clowns, which the Londoners
 resented by beating them soundly; the king, however, was incensed at the
 indignity put upon his servants, and not taking into consideration the
 provocation on their parts, fined the city one thousand marks. <span
-id="fr_438"></span>[1](#fn_438) Some have thought these fellows were
+id="fr_438"></span>[1](#fn_438.md) Some have thought these fellows were
 sent thither purposely to promote a quarrel, it being known that the
 king was angry with the citizens of London for refusing to join in the
-crusade. <span id="fr_439"></span>[2](#fn_439)
+crusade. <span id="fr_439"></span>[2](#fn_439.md)
 
 We may here observe, that the rules of chivalry, at this time, would not
 admit of any person, under the rank of an esquire, to enter the lists as
@@ -278,17 +278,17 @@ much expense, the quintain was frequently nothing better than a stake
 fixed into the ground, with a flat piece of board made fast to the upper
 part of it, as a substitute for the shield that had been used in times
 remote; and such as could not procure horses, contented themselves with
-running at this mark on foot. On [plate thirteen](#img_pl13) we see a
+running at this mark on foot. On [plate thirteen](#img_pl13.md) we see a
 representation of a lad mounted on a wooden horse with four wheels,
 drawn by two of his comrades, tilting at the immoveable quintain; it is
 taken from a MS. in the Bodleian Library at Oxford, dated 1344. <span
-id="fr_440"></span>[3](#fn_440) Others, again, made use of a moveable
+id="fr_440"></span>[3](#fn_440.md) Others, again, made use of a moveable
 quintain, which was also very simply constructed; consisting only of a
 cross-bar turning upon a pivot, with a broad part to strike against on
 one side, and a bag of earth or sand depending from the other: there was
 a double advantage in these kind of quintains, they were cheap and
 easily to be procured. Their form, at an early period in the fourteenth
-century, is illustrated on plates and [fourteen](#img_pl14), from the
+century, is illustrated on plates and [fourteen](#img_pl14.md), from the
 same manuscript. Both these quintains are marked, I know not why, with
 the figure of a horseshoe.
 
@@ -305,9 +305,9 @@ sound blow upon his neck with a bag full of sand hanged on the other
 
 <span id="page_110">p. 110</span>
 
-end." <span id="fr_441"></span>[1](#fn_441) But the form of the modern
+end." <span id="fr_441"></span>[1](#fn_441.md) But the form of the modern
 quintain is more fully described by Dr Plott, in his *History of
-Oxfordshire*: <span id="fr_442"></span>[2](#fn_442) "They first set a
+Oxfordshire*: <span id="fr_442"></span>[2](#fn_442.md) "They first set a
 post perpendicularly into the ground, and then place a slender piece of
 timber on the top of it on a spindle, with a board nailed to it on one
 end, and a bag of sand hanging at the other; against this board they
@@ -323,7 +323,7 @@ he that breaks the board being counted the best man."
 \* A writer in *Notes and Queries* in 1866 mentions a quintain as then
 standing at Offham Green, near Maidstone, supposed to be of Elizabethan
 date. "The cross-piece and weight at one end turned readily upon its
-pivot." <span id="fr_443"></span>[3](#fn_443)
+pivot." <span id="fr_443"></span>[3](#fn_443.md)
 
 THE QUINTAIN, A PASTIME BEFORE QUEEN ELIZABETH.--Among other sports
 exhibited for the amusement of queen Elizabeth, during her residence at
@@ -346,7 +346,7 @@ would run his race byas, among the thickest of the throng, that down
 they came together hand over head. Another while he directed his course
 to the quintane, his judgment would carry him to a mare among the
 people; another would run and miss the quintane with his staff, and hit
-the board with his head." <span id="fr_444"></span>[4](#fn_444) This
+the board with his head." <span id="fr_444"></span>[4](#fn_444.md) This
 whimsical description may possibly be somewhat exaggerated, but no doubt
 the inexpertness of the riders subjected them to many laughable
 accidents.
@@ -362,7 +362,7 @@ top of which was placed
 <span id="img_pl15"></span>
 
 [![Quintain (3)](tn/pl15.jpg)  
-Click to enlarge](img/pl15.jpg)  
+Click to enlarge](img/pl15.jpg.md)  
 Quintain (3)  
 
  
@@ -385,7 +385,7 @@ reward of the horseman that splinters the board is to be a fine garland
 as a crown of victory, which is to be borne before him to the wedding
 house, and another is to be put round the neck of his steed; the victor
 is to have the honour of dancing with the bride, and to sit on her right
-hand at supper.'" <span id="fr_445"></span>[1](#fn_445)
+hand at supper.'" <span id="fr_445"></span>[1](#fn_445.md)
 
 TILTING AT A WATER BUTT.--At the bottom of plate thirteen is a picture,
 from a MS. in the Bodleian Library, dated 1343, of three boys tilting
@@ -400,7 +400,7 @@ occasionally in Italy, where, he says, a large bucket filled with water
 is set up, against which they tilt their lances; and if the stroke be
 not made with great dexterity, the bucket is overset and the lanceman
 thoroughly drenched with the contents. <span
-id="fr_446"></span>[2](#fn_446)
+id="fr_446"></span>[2](#fn_446.md)
 
 THE HUMAN QUINTAIN.--I shall here say a few words concerning the human
 quintain, which has escaped the notice of most of the writers upon this
@@ -416,9 +416,9 @@ another, "I do not by any means esteem you sufficiently valiant (si bons
 chevalier) for me to take a lance and just with you; therefore I desire
 you to retire some distance from me, and then run at me with all your
 force, and I will be your quintain." <span
-id="fr_447"></span>[3](#fn_447) The satirist Hall, who wrote in the time
+id="fr_447"></span>[3](#fn_447.md) The satirist Hall, who wrote in the time
 of Elizabeth, evidently alludes to a custom of this kind, in a
-satire <span id="fr_448"></span>[4](#fn_448) first printed in 1599, when
+satire <span id="fr_448"></span>[4](#fn_448.md) first printed in 1599, when
 he was twenty-five years of age. He says:
 
 Pawne thou no glove for challenge of the deed,  
@@ -434,7 +434,7 @@ stroke of the pole or lance on one side with his shield, and by doing so
 with adroitness occasion the fall of his adversary.
 
 Something of a similar kind of exercise, though practised in a different
-way, appears on [plate fifteen](#img_pl15), where a man seated, holds up
+way, appears on [plate fifteen](#img_pl15.md), where a man seated, holds up
 one of his feet, opposed to the foot of another man, who, standing upon
 one leg, endeavours to thrust him backwards; and again where his
 opponent is seated in a swing and drawn back by a third person, so that
@@ -462,8 +462,8 @@ is frequently called running or tilting at the quintain. With the
 Italians, says Du Cange, *quintana* sometimes signifies a ring, hence
 the Florentines say, "*correr alla quintana*," which with us is called
 running at the ring: the learned author produces several quotations to
-the same purpose. <span id="fr_449"></span>[1](#fn_449) Commenius also,
-in his vocabulary, <span id="fr_450"></span>[2](#fn_450) says, "At this
+the same purpose. <span id="fr_449"></span>[1](#fn_449.md) Commenius also,
+in his vocabulary, <span id="fr_450"></span>[2](#fn_450.md) says, "At this
 day tilting at the quintain is used where a hoop or ring is struck with
 a lance." Hence it is clear that the ring was put in the place of the
 quintain. The excellency of the pastime was to ride at full speed, and
@@ -484,7 +484,7 @@ century, the
 <span id="img_pl16"></span>
 
 [![Tilting at the Ring](tn/pl16.jpg)  
-Click to enlarge](img/pl16.jpg)  
+Click to enlarge](img/pl16.jpg.md)  
 Tilting at the Ring  
 
  
@@ -502,7 +502,7 @@ ring, and twenty beyond it, were thought to be sufficient. The ring,
 says the same author, ought to be placed with much precision, somewhat
 higher than the left eyebrow of the practitioner, when sitting upon his
 horse; because it was necessary for him to stoop a little in running
-towards it. <span id="fr_451"></span>[1](#fn_451)
+towards it. <span id="fr_451"></span>[1](#fn_451.md)
 
 In tilting at the ring, three courses were allowed to each candidate;
 and he who thrust the point of his lance through it the oftenest, or, in
@@ -510,7 +510,7 @@ case no such thing was done, struck it the most frequently, was the
 victor; but if it so happened, that none of them did either the one or
 the other, or that they were equally successful, the courses were to be
 repeated until the superiority of one put an end to the contest. <span
-id="fr_452"></span>[2](#fn_452)
+id="fr_452"></span>[2](#fn_452.md)
 
 DIFFERENCE BETWEEN TOURNAMENTS AND JOUSTS.--Tournaments and jousts,
 though often confounded with each other, differed materially. The
@@ -519,7 +519,7 @@ engaged at the same time. The joust was a separate trial of skill, when
 only one man was opposed to another. The latter was frequently included
 in the former, but not without many exceptions; for the joust, according
 to the laws of chivalry, might be made exclusive of the
-tournament. <span id="fr_453"></span>[3](#fn_453)
+tournament. <span id="fr_453"></span>[3](#fn_453.md)
 
 In the romantic ages, both these diversions were held in the highest
 esteem, being sanctioned by the countenance and example of the nobility,
@@ -568,7 +568,7 @@ Their darts;---now all in peace together ride.
 
 \[paragraph continues\] Under the domination of the first emperors,
 these games were publicly practised by the young nobility in the circus
-at Rome. <span id="fr_454"></span>[1](#fn_454)
+at Rome. <span id="fr_454"></span>[1](#fn_454.md)
 
 The same kind of sports, or others bearing close resemblance to them,
 were established in this kingdom in the twelfth century, and probably at
@@ -611,9 +611,9 @@ address in handling of their arms, and to prove their strength.
 
 TOURNAMENTS.--Our word tournament, or tournoyement, which signifies to
 turn or wheel about in a circular manner, <span
-id="fr_455"></span>[1](#fn_455) comes from the French word *tournoy*. I
+id="fr_455"></span>[1](#fn_455.md) comes from the French word *tournoy*. I
 am led to adopt the opinion of Fauchet, <span
-id="fr_456"></span>[2](#fn_456) who thinks it came from the practice of
+id="fr_456"></span>[2](#fn_456.md) who thinks it came from the practice of
 the knights running *par tour*, that is, by turns, at the quintain, and
 wheeling about successively in a circle to repeat their course; but,
 says he, in process of time they improved upon this pastime, and to make
@@ -641,7 +641,7 @@ Tournaments were consequently interdicted by the ecclesiastical decrees.
 
 The following quotation from an ancient manuscript romance, in the
 Harleian Collection, entitled *Ipomydon*, <span
-id="fr_457"></span>[3](#fn_457) plainly indicates the performance of the
+id="fr_457"></span>[3](#fn_457.md) plainly indicates the performance of the
 tournament in an open field; and also, that great numbers of the
 combatants were engaged at one time, promiscuously encountering with
 each other; we learn, moreover, that the champion who remained unhorsed
@@ -663,10 +663,10 @@ And there he gaff many a tours;
 For there was none that he mette,  
 But he hys spere on hym woulde sette:  
 Then after within a lytell stounde, <span
-id="fr_458"></span>[1](#fn_458)  
+id="fr_458"></span>[1](#fn_458.md)  
 Horse and man both went to grounde.  
-The Heraudes <span id="fr_459"></span>[2](#fn_459) gaff the child the
-gree, <span id="fr_460"></span>[3](#fn_460)  
+The Heraudes <span id="fr_459"></span>[2](#fn_459.md) gaff the child the
+gree, <span id="fr_460"></span>[3](#fn_460.md)  
 A thousand pound he had to fee;  
 Mynstrellys had giftes of golde  
 And fourty dayes this fest was holde.
@@ -676,10 +676,10 @@ their military skill and horsemanship, and frequently upon their bodily
 strength; but at all times it was highly disgraceful to be unhorsed, by
 whatever exertion it might be effected.
 
-Thomas of Walsingham tells us, <span id="fr_461"></span>[4](#fn_461)
+Thomas of Walsingham tells us, <span id="fr_461"></span>[4](#fn_461.md)
 that when Edward I. returned from Palestine to England, and was on his
 passage through Savoy, the earl of Chabloun invited him to a
-tournament, <span id="fr_462"></span>[5](#fn_462) in which himself and
+tournament, <span id="fr_462"></span>[5](#fn_462.md) in which himself and
 many other knights were engaged. The king with his followers, although
 fatigued by the length of their journey, accepted the challenge. On the
 day appointed both parties met, and, being armed with swords, the
@@ -702,12 +702,12 @@ very serious.
 LISTS AND BARRIERS.--It was a considerable time after the establishment
 of jousts and tournaments, before the combatants thought of making
 either lists or barriers; they contented themselves, says
-Menestrier, <span id="fr_463"></span>[6](#fn_463) with being stationed
+Menestrier, <span id="fr_463"></span>[6](#fn_463.md) with being stationed
 at four angles of an open place, whence they run in parties one against
 another. There were cords stretched before the different companies,
 previous to the commencement of the tournaments, as we learn from the
 following passage in an old English romance, among the Harleian
-manuscripts: <span id="fr_464"></span>[7](#fn_464) "All these thinges
+manuscripts: <span id="fr_464"></span>[7](#fn_464.md) "All these thinges
 donne thei were embatailed eche ageynste the othir, and the corde drawen
 
 <span id="page_117">p. 117</span>
@@ -728,19 +728,19 @@ the precise period when tournaments first made their appearance; nor is
 it less difficult to determine by whom they were invented. Peacham, on
 the authority of Nicetas, tells us, that the emperor Emanuel Comminus,
 at the siege of Constantinople, invented tilts and tournaments; <span
-id="fr_465"></span>[1](#fn_465) but this is certainly a mistake. The
+id="fr_465"></span>[1](#fn_465.md) but this is certainly a mistake. The
 French and the Germans both claim the honour. The historian, Nithard,
 mentions a military game, frequently exhibited in Germany, before the
 emperor Louis, and his brother Charles the Bald, about the year 842,
 which bears great resemblance to the tournament; for he speaks of many
 knights of different nations, divided into parties equal in number, and
 running at each other with great velocity, as though they were in
-battle. <span id="fr_466"></span>[2](#fn_466) Most of the German
+battle. <span id="fr_466"></span>[2](#fn_466.md) Most of the German
 writers, however, make the emperor Henry I., surnamed L’oiseleur, who
 died in 936, the institutor of these pastimes; but others attribute
 their origin to another Henry, at least a century posterior. The French,
 on their side, quote an ancient history, <span
-id="fr_467"></span>[3](#fn_467) which asserts, that Geoffrey, lord of
+id="fr_467"></span>[3](#fn_467.md) which asserts, that Geoffrey, lord of
 Previlli in Anjou, who was slain at Gaunt in 1066, was the inventor of
 the tournament.
 
@@ -755,7 +755,7 @@ decree; and the kings of this realm before king Stephen would not suffer
 it to be frequented within their land, so that such as for exercise of
 this feat of arms were desirous to prove themselves, were driven to pass
 over the seas, and to perform it in some different place in a foreign
-country." <span id="fr_468"></span>[4](#fn_468) This author's statement
+country." <span id="fr_468"></span>[4](#fn_468.md) This author's statement
 of the fact is perfectly correct. In the troublesome reign of king
 Stephen, the rigour of the laws was much relaxed, and tournaments, among
 other splendid species of dissipation, were permitted to be exercised;
@@ -766,7 +766,7 @@ year, as Matthew Paris assures us he did, over the seas, and expended
 <span id="page_118">p. 118</span>
 
 vast sums of money "in conflictibus Gallicis," or French combats,
-meaning tournaments. <span id="fr_469"></span>[1](#fn_469) But Richard
+meaning tournaments. <span id="fr_469"></span>[1](#fn_469.md) But Richard
 I. having, as it is said, observed that the French practising frequently
 in the tournaments, were more expert in the use of their arms than the
 English, permitted his own knights to establish the like martial sports
@@ -780,14 +780,14 @@ particularly excluded.
 \* The holding of tournaments was restricted by Richard to five places
 or districts, namely between (1) Salisbury and Wilton, (2) Warwick and
 Kenilworth, (3) Stamford and Warmington, <span
-id="fr_470"></span>[2](#fn_470) (4) Brackley and Mixbury, and (5)
+id="fr_470"></span>[2](#fn_470) (4) Brackley and Mixbury, and (5.md)
 Tickhill and Blyth. To these must be added Smithfield for the use of the
 citizens of London on Saturdays. Frequent endeavours were made in the
 thirteenth and fourteenth centuries to hold tournaments elsewhere, but
 they were always proclaimed, save when they were held under royal
 license. The act also specifies that the peace should not be broken
 thereby, nor justice hindered, nor damage done to the royal
-forests. <span id="fr_471"></span>[3](#fn_471)
+forests. <span id="fr_471"></span>[3](#fn_471.md)
 
 How long these imposts continued to be collected does not appear; but
 tournaments were occasionally exhibited with the utmost display of
@@ -797,21 +797,21 @@ the conclusion of the sixteenth century. From that period they declined
 rapidly, and fifty years afterwards were entirely out of practice.
 
 LAWS AND ORDINANCES OF JOUSTS AND TOURNAMENTS.--All military men, says
-Fauchet, <span id="fr_472"></span>[4](#fn_472) who bore the title of
+Fauchet, <span id="fr_472"></span>[4](#fn_472.md) who bore the title of
 knights or esquires, were not indiscriminately received at these
 tournaments: there were certain laws to which those who presented
 themselves became subject, and which they swore to obey before they were
 permitted to enter the lists.
 
 In one of the Harleian manuscripts, <span
-id="fr_473"></span>[5](#fn_473) I met with the following ordinance for
+id="fr_473"></span>[5](#fn_473.md) I met with the following ordinance for
 the conducting of the jousts and tournaments according to the ancient
 establishment. It is preceded by a proclamation that was to be
 previously made, which is couched in these terms: Be it known, lords,
 knights, and esquires, ladies, and gentlewomen; you are hereby
 acquainted, that a superb achievement at arms, and a grand and noble
 tournament will be held in the parade <span
-id="fr_474"></span>[6](#fn_474) of Clarencieux, king-at-arms, on the
+id="fr_474"></span>[6](#fn_474.md) of Clarencieux, king-at-arms, on the
 part of the most noble baron, lord of T. C.B., and on the part of the
 most noble baron, the lord of C. B.D., in the parade of
 
@@ -821,7 +821,7 @@ most noble baron, the lord of C. B.D., in the parade of
 follow are these: The two barons on whose parts the tournament is
 undertaken, shall be at their lodges (pavilions) two days before the
 commencement of the sports, when each of them shall cause his arms to be
-attached <span id="fr_475"></span>[1](#fn_475) to his pavilion, and set
+attached <span id="fr_475"></span>[1](#fn_475.md) to his pavilion, and set
 up his banner in the front of his parade; and all those who wish to be
 admitted as combatants on either side, must in like manner set up their
 arms and banners before the parades allotted to them. Upon the evening
@@ -847,18 +847,18 @@ their pleasure; the examination being finished, and the arms returned to
 the owners, the baron who is the challenger shall then cause his banner
 to be placed at the beginning of the parade, and the blazon of his arms
 to be nailed to the roof of the pavilion: <span
-id="fr_476"></span>[2](#fn_476) his example is to be followed by the
+id="fr_476"></span>[2](#fn_476.md) his example is to be followed by the
 baron on the opposite side, and all the knights of either party who are
 not in their stations before the nailing up of the arms, shall forfeit
 their privileges, and not be permitted to tourney.
 
 The kings-at-arms and the heralds are then commanded by the speakers to
 go from pavilion to pavilion, crying aloud, "To achievement, knights and
-esquires, to achievement"; <span id="fr_477"></span>[3](#fn_477) being
+esquires, to achievement"; <span id="fr_477"></span>[3](#fn_477.md) being
 the notice, I presume, for them to arm themselves; and soon afterwards
 the company of heralds shall repeat the former ceremony, having the same
 authority, saying, "Come forth, knights and esquires, come forth": <span
-id="fr_478"></span>[4](#fn_478) and when the two barons have taken their
+id="fr_478"></span>[4](#fn_478.md) and when the two barons have taken their
 places in the lists, each of them facing his own parade, the champions
 on both parties shall arrange themselves, every one by the side of his
 banner; and then two cords shall be stretched between them, and remain
@@ -904,7 +904,7 @@ the other heralds the banners of their confederates according to their
 rank.
 
 PRELIMINARIES OF THE TOURNAMENT.--An illumination to a manuscript
-romance in the Royal Library, <span id="fr_479"></span>[1](#fn_479)
+romance in the Royal Library, <span id="fr_479"></span>[1](#fn_479.md)
 entitled *St Graal*, written in the thirteenth century, represents the
 manner in which the two chief barons anciently entered the lists at the
 commencement of a tournament. The king-at-arms standing in the midst of
@@ -919,7 +919,7 @@ practised upon such occasions.
 In the reign of Henry V. a statute was enacted by the parliament,
 containing the following regulations relative to the tournaments, which
 regulations were said to have been established at the request of all the
-nobility of England. <span id="fr_480"></span>[2](#fn_480) The act
+nobility of England. <span id="fr_480"></span>[2](#fn_480.md) The act
 prohibits any combatant from entering the lists with more than three
 esquires to bear his arms, and wait upon him for that day. In another
 clause it
@@ -929,7 +929,7 @@ clause it
 <span id="img_pl17"></span>
 
 [![Tournament](tn/pl17.jpg)  
-Click to enlarge](img/pl17.jpg)  
+Click to enlarge](img/pl17.jpg.md)  
 Tournament  
 
  
@@ -978,7 +978,7 @@ level, without any great stones or other impediments; also that the
 lists must be made with one door to the east, and another to the west,
 and strongly barred about with good bars seven feet high or more, so
 that a horse may not be able to leap over them." <span
-id="fr_481"></span>[1](#fn_481)
+id="fr_481"></span>[1](#fn_481.md)
 
 RESPECT PAID TO LADIES IN THE TOURNAMENT.--After the conclusion of the
 tournament, the combatants, as we have seen above, returned to their
@@ -996,7 +996,7 @@ both parties, and demanded from them, alternately, the names of those
 who had best performed upon the opposite sides; the double list of names
 was then presented to the ladies who had been present at the pastime,
 and the decision was referred to them respecting the awardment of the
-prizes; <span id="fr_482"></span>[1](#fn_482) who selected one name for
+prizes; <span id="fr_482"></span>[1](#fn_482.md) who selected one name for
 each party, and, as a peculiar mark of their esteem, the favourite
 champions received the rewards of their merits from the hands of two
 young virgins of quality. The statutes and ordinances for jousts and
@@ -1004,7 +1004,7 @@ tournaments made by John Tiptoft, earl of Worcester, at the command of
 Edward IV., in the sixth year of his reign, conclude thus: "Reserving
 always to the queenes highness and the ladyes there present, the
 attribution and gift of the prize after the manner and forme
-accustomed." <span id="fr_483"></span>[2](#fn_483)
+accustomed." <span id="fr_483"></span>[2](#fn_483.md)
 
 Neither was this the only deference that was paid to the fair sex by the
 laws of the tournament, for we are told, that if a knight conducted
@@ -1033,7 +1033,7 @@ tournament, he was privileged to joust without being liable to any
 further demand. This distinction seems to have arisen from the weapons
 used, the sword being appropriated to the tournament, and the lance to
 the joust, and so it is stated in an old document cited by Du
-Cange. <span id="fr_484"></span>[3](#fn_484) "When," says this author,
+Cange. <span id="fr_484"></span>[3](#fn_484.md) "When," says this author,
 "a nobleman makes his first appearance in the tournament, his helmet is
 claimed by the heralds, notwithstanding his having jousted before,
 because the lance cannot give the freedom of the sword, which the sword
@@ -1048,15 +1048,15 @@ lists at the tournament."
 
 THE ROUND TABLE.--The joust, as a military pastime, is mentioned by
 William of Malmsbury, and said to have been practised in the reign of
-king Stephen. <span id="fr_485"></span>[1](#fn_485) During the
+king Stephen. <span id="fr_485"></span>[1](#fn_485.md) During the
 government of Henry III. the joust assumed a different appellation, and
 was also called the Round Table game. <span
-id="fr_486"></span>[2](#fn_486) This name was derived from a fraternity
+id="fr_486"></span>[2](#fn_486.md) This name was derived from a fraternity
 of knights who frequently jousted with each other, and accustomed
 themselves to eat together in one apartment, and, in order to set aside
 all distinction of rank or quality, seated themselves at a circular
 table, where every place was equally honourable. Athenæus, cited by Du
-Cange, <span id="fr_487"></span>[3](#fn_487) says, the knights sat round
+Cange, <span id="fr_487"></span>[3](#fn_487.md) says, the knights sat round
 the table, bearing their shields at their backs: I suppose for safety
 sake. Our historians attribute the institution of the round table to
 Arthur, the son of Uter Pendragon, a celebrated British hero, whose
@@ -1064,7 +1064,7 @@ achievements are so disguised with legendary wonders, that it has been
 doubted if such a person ever existed in reality.
 
 In the eighth year of the reign of Edward I., Roger de Mortimer, <span
-id="fr_488"></span>[4](#fn_488) a noble-man of great opulence,
+id="fr_488"></span>[4](#fn_488.md) a noble-man of great opulence,
 established a round table at Kenilworth, for the encouragement of
 military pastimes; where one hundred knights, with as many ladies, were
 entertained at his expense. The fame of this institution occasioned, we
@@ -1082,7 +1082,7 @@ opportunity of learning, by the way of pastime, all the requisites of a
 soldier. The example of king Edward was followed by Philip of Valois,
 king of France, who also instituted a round table at his court, and by
 that means drew thither many German and Italian knights who were coming
-to England. <span id="fr_489"></span>[5](#fn_489) The contest between
+to England. <span id="fr_489"></span>[5](#fn_489.md) The contest between
 the two monarchs seems to have had the effect of destroying the
 establishment of the round table in both kingdoms, for after this period
 we hear no more concerning it. In England the round table was succeeded
@@ -1106,7 +1106,7 @@ In the jousts the combatants most commonly used spears without heads of
 iron; and the excellency of the performance consisted in striking the
 opponent upon the front of his helmet, so as to beat him backwards from
 his horse or break the spear. Froissart <span
-id="fr_490"></span>[1](#fn_490) mentions a trick used by Reynaud de Roy,
+id="fr_490"></span>[1](#fn_490.md) mentions a trick used by Reynaud de Roy,
 at a tilting match between him and John de Holland: he fastened his
 helmet so slightly upon his head that it gave way, and was beaten off by
 every stroke that was made upon the vizor with the lance of John of
@@ -1120,11 +1120,11 @@ strongly as possible. And again the same historian, speaking of a
 jousting between Thomas Harpingham and Sir John de Barres, says, "As me
 thought the usage was thanne, their helmes wer tied but with a lace, to
 the entente the spere should take no hold"; by which it seems the trick
-became more common afterwards. <span id="fr_491"></span>[2](#fn_491)
+became more common afterwards. <span id="fr_491"></span>[2](#fn_491.md)
 
-On [plate eighteen](#img_pl18) is a representation of the joust, taken
+On [plate eighteen](#img_pl18.md) is a representation of the joust, taken
 from a manuscript in the Royal Library, <span
-id="fr_492"></span>[3](#fn_492) of the thirteenth, or early in the
+id="fr_492"></span>[3](#fn_492.md) of the thirteenth, or early in the
 fourteenth century, where two knights appear in the action of tilting at
 each other with the blunted spears.
 
@@ -1137,7 +1137,7 @@ were thereby prevented from running their horses upon each other.
 \* This dividing of the lists was at first done by having a long cloth
 (*toile*) suspended on a rope along the centre of the ground. The riders
 stationed themselves one at each side and end of this *toile*, which was
-called in English the tilt. <span id="fr_493"></span>[4](#fn_493)The
+called in English the tilt. <span id="fr_493"></span>[4](#fn_493.md)The
 first time the tilt is mentioned in the chronicles of Froissart and
 Monstrelet is on the occasion of some jousting at Dijon in 1443; it was
 not introduced until the beginning of the fifteenth century. At Dijon on
@@ -1150,7 +1150,7 @@ tilt or division was soon, however, found to be ineffective and
 occasionally dangerous, and gave way generally, by the middle of the
 fifteenth century, to a wooden partition. The rules for tilting, or
 jousting over the tilt, were, according to Viscount Dillon, to this
-effect: <span id="fr_494"></span>[1](#fn_494)--
+effect: <span id="fr_494"></span>[1](#fn_494.md)--
 
 |                                                                                                       |          |
 |-------------------------------------------------------------------------------------------------------|----------|
@@ -1178,7 +1178,7 @@ the Tournament Roll of the Heralds' College.
 the occasion of king Francis' marriage at Paris in February 1515, the
 duke of Suffolk wrote to Henry VIII. that many had been hurt at the
 tilting, and one in the throat like to die. <span
-id="fr_495"></span>[2](#fn_495) At the Field of the Cloth of Gold in
+id="fr_495"></span>[2](#fn_495.md) At the Field of the Cloth of Gold in
 1520, where both Henry and Francis distinguished themselves, a Frenchman
 died of a blow he had received on the previous day.
 
@@ -1211,16 +1211,16 @@ an established doctrine, that love made valour perfect, and incited the
 heroes to undertake great enterprises. "Oh that my lady saw me!" said
 one of them as he was mounting a breach at the head of his troops and
 driving the enemy before him. The French writer St Foix, who mentions
-this, <span id="fr_496"></span>[1](#fn_496) says in another place, "It
+this, <span id="fr_496"></span>[1](#fn_496.md) says in another place, "It
 is astonishing that no author has remarked the origin of this devotion
 in the manners of the Germans, our ancestors, as drawn by Tacitus, who,"
 he tells us, "attributed somewhat of divinity to the fair sex." <span
-id="fr_497"></span>[2](#fn_497) Sometimes it seems the knights were
+id="fr_497"></span>[2](#fn_497.md) Sometimes it seems the knights were
 armed and unarmed by the ladies; but this, I presume, was a peculiar
 mark of their favour, and only used upon particular occasions, as, for
 instance, when the heroes undertook an achievement on their behalf, or
 combating in defence of their beauty or their honour. <span
-id="fr_498"></span>[3](#fn_498)
+id="fr_498"></span>[3](#fn_498.md)
 
 GREAT SPLENDOUR OF THESE SPORTS ATTRACTIVE TO THE NOBILITY.--At the
 celebration of these pastimes, the lists were superbly decorated, and
@@ -1259,7 +1259,7 @@ taught in their childhood to relish such exercises as were of a martial
 <span id="img_pl18"></span>
 
 [![Jousts](tn/pl18.jpg)  
-Click to enlarge](img/pl18.jpg)  
+Click to enlarge](img/pl18.jpg.md)  
 Jousts  
 
  
@@ -1273,7 +1273,7 @@ be thrown back-wards by a smart blow upon the top of the shield or the
 front of his helmet, and replaced again with much ease; two such toys
 were requisite, and by the concussion of the spears and shields, if
 dexterously managed, one or both of the men were cast to the ground.
-These toys, as we may see on [plate sixteen](#img_pl16), from a curious
+These toys, as we may see on [plate sixteen](#img_pl16.md), from a curious
 engraving on wood by Hans Burgmair, which makes one of a series of
 prints representing the history and achievements of the emperor
 Maximilian the First, were pushed by the hand upon a table towards each
@@ -1285,17 +1285,17 @@ jousts and the tournaments; but the celebration of these pastimes
 attracted the common mind in a very powerful manner, and led to the
 institution of sports, that bore at least some resemblance to them:
 tilting at the quintain was generally practised at a very early
-period, <span id="fr_499"></span>[1](#fn_499) and jousting upon the ice
+period, <span id="fr_499"></span>[1](#fn_499.md) and jousting upon the ice
 by the young Londoners. The early inclination to join in such kind of
 pastimes is strongly indicated by the two boys represented upon the top
-of [plate eighteen](#img_pl18): the place of the horse is supplied by a
+of [plate eighteen](#img_pl18.md): the place of the horse is supplied by a
 long switch, and that of a lance by another. The original delineation
 occurs in a beautiful MS. book of prayers, written in the fourteenth
 century, in the possession of Mr Douce. Here we may also add the boat
 jousts, or tilting upon the water. The representation of a pastime of
-this kind is given at the bottom of the [same plate](#img_pl18), from a
+this kind is given at the bottom of the [same plate](#img_pl18.md), from a
 manuscript of the fourteenth century in the Royal Library. <span
-id="fr_500"></span>[2](#fn_500)
+id="fr_500"></span>[2](#fn_500.md)
 
 The conqueror at these jousts was the champion who could dexterously
 turn aside the blow of his antagonist with his shield, and at the same
@@ -1307,7 +1307,7 @@ water, "where certain wallounds that could well swym had prepared two
 boates, and in the middle of each boate was placed a borde, upon which
 borde there stood a man, and so they met together, with either of them a
 staff and a shield of wood; and one of them did overthrowe another, at
-which the queene had good sport." <span id="fr_501"></span>[3](#fn_501)
+which the queene had good sport." <span id="fr_501"></span>[3](#fn_501.md)
 The same kind of laughable pastime was practised at London, as we learn
 from Stow. "I have seen," says he, "in the summer season, upon the river
 of Thames, some rowed in wherries, with staves in their hands flat at
@@ -1316,14 +1316,14 @@ both of them were overthrown and well ducked."
 
 CHALLENGES TO ALL COMERS.--I shall now conclude this long chapter with
 the two following extracts from a manuscript in the Harleian
-Collection. <span id="fr_502"></span>[4](#fn_502) Six gentlemen
+Collection. <span id="fr_502"></span>[4](#fn_502.md) Six gentlemen
 challenged "all commers at the just roial, to runne in osting harnies
 
 <span id="page_128">p. 128</span>
 
 along a tilte, and to strike thirteen strokes with swordes, in honour of
 the marriage of Richard duke of York <span
-id="fr_503"></span>[1](#fn_503) with the Lady Anne, daughter to the duke
+id="fr_503"></span>[1](#fn_503.md) with the Lady Anne, daughter to the duke
 of Norfolk."
 
 When Henry VII. created his second son Henry prince of Wales, four
@@ -1358,7 +1358,7 @@ foyne only excepted, and the commers shall have their choice of the
 swords. Here it may be observed, that to foyne, is to thrust, as in
 fencing, which was exceedingly dangerous when the swords were pointed.
 The author of a MS. poem, in the Cotton Collection, <span
-id="fr_504"></span>[2](#fn_504) frequently referred to in the course of
+id="fr_504"></span>[2](#fn_504.md) frequently referred to in the course of
 this work, entitled *Knyghthode and Batayle*, says, in fighting with an
 enemy, "to foyne is better than to smyte," and afterwards two inches,
 "entre foyned," hurteth more than a broader wound with the edge of a
@@ -1391,37 +1391,37 @@ generally, a barrier of wood breast-high between them.
 
 ### Footnotes
 
-<span id="fn_424"></span>[105:1](spe11.htm#fr_424) In the Introduction.
+<span id="fn_424"></span>[105:1](spe11.htm#fr_424.md) In the Introduction.
 
-<span id="fn_425"></span>[105:2](spe11.htm#fr_425) Vegetius, *De re
+<span id="fn_425"></span>[105:2](spe11.htm#fr_425.md) Vegetius, *De re
 militari*, lib. i. cap. xi. et xiv.
 
-<span id="fn_426"></span>[106:1](spe11.htm#fr_426) Menestrier, *Traité
+<span id="fn_426"></span>[106:1](spe11.htm#fr_426.md) Menestrier, *Traité
 des Tournois, Joustes*, etc., p. 264.
 
-<span id="fn_427"></span>[106:2](spe11.htm#fr_427) Menestrier, *ut
+<span id="fn_427"></span>[106:2](spe11.htm#fr_427.md) Menestrier, *ut
 supra*; Du Cange, *Glossary*, in voce *quintana*; Pluvinel, *Sur
 l’exercise de monter à cheval*, part iii. p. 177.
 
-<span id="fn_428"></span>[106:3](spe11.htm#fr_428) Menestrier, p. 112,
+<span id="fn_428"></span>[106:3](spe11.htm#fr_428.md) Menestrier, p. 112,
 et Pluvinel *ut supra*.
 
-<span id="fn_429"></span>[106:4](spe11.htm#fr_429) 20 B. xi.
+<span id="fn_429"></span>[106:4](spe11.htm#fr_429.md) 20 B. xi.
 
-<span id="fn_430"></span>[107:1](spe11.htm#fr_430) *Knyghthode and
+<span id="fn_430"></span>[107:1](spe11.htm#fr_430.md) *Knyghthode and
 Batayle*, MS. Cott. Titus A. xxiii. fols. 6 and 7. This curious poem,
 written early in the fifteenth century, appears to be a translation of a
 former treatise, or rather a paraphrase upon it.
 
-<span id="fn_431"></span>[107:2](spe11.htm#fr_431) From the French
+<span id="fn_431"></span>[107:2](spe11.htm#fr_431.md) From the French
 *empêcher*, to hinder or withstand, here used for attack.
 
-<span id="fn_432"></span>[107:3](spe11.htm#fr_432) Power, strength.
+<span id="fn_432"></span>[107:3](spe11.htm#fr_432.md) Power, strength.
 
-<span id="fn_433"></span>[107:4](spe11.htm#fr_433) Than is required,
+<span id="fn_433"></span>[107:4](spe11.htm#fr_433.md) Than is required,
 that is in time of real action.
 
-<span id="fn_434"></span>[108:1](spe11.htm#fr_434) A quincto auctore
+<span id="fn_434"></span>[108:1](spe11.htm#fr_434.md) A quincto auctore
 nomen habebat, vide Joan Meursi, de Ludis Græcorum, in tit. Κονταξ
 Κυντανος. But this is probably an error. The *Century Dictionary*
 gives--"*Quintana*, a street in a camp between the fifth and sixth
@@ -1429,190 +1429,190 @@ maniples, where were the market and forum of the camp, and, it is
 supposed, the place of martial exercise, etc., whence the Middle Latin
 use *quintana*, a quintain."
 
-<span id="fn_435"></span>[108:2](spe11.htm#fr_435) Vegetius, *De re
+<span id="fn_435"></span>[108:2](spe11.htm#fr_435.md) Vegetius, *De re
 militari*, lib. i. cap. xi. et xiv.
 
-<span id="fn_436"></span>[108:3](spe11.htm#fr_436) Stephanides,
+<span id="fn_436"></span>[108:3](spe11.htm#fr_436.md) Stephanides,
 *Descrip. Lond*.
 
-<span id="fn_437"></span>[108:4](spe11.htm#fr_437) 2 B. vii.
+<span id="fn_437"></span>[108:4](spe11.htm#fr_437.md) 2 B. vii.
 
-<span id="fn_438"></span>[109:1](spe11.htm#fr_438) Matthew Paris, *Hist.
+<span id="fn_438"></span>[109:1](spe11.htm#fr_438.md) Matthew Paris, *Hist.
 Angl.* sub. an 1253.
 
-<span id="fn_439"></span>[109:2](spe11.htm#fr_439) Strype's *Stow*, etc.
+<span id="fn_439"></span>[109:2](spe11.htm#fr_439.md) Strype's *Stow*, etc.
 
-<span id="fn_440"></span>[109:3](spe11.htm#fr_440) Bod. 264.
+<span id="fn_440"></span>[109:3](spe11.htm#fr_440.md) Bod. 264.
 
-<span id="fn_441"></span>[110:1](spe11.htm#fr_441) *Survey of London*.
+<span id="fn_441"></span>[110:1](spe11.htm#fr_441.md) *Survey of London*.
 
-<span id="fn_442"></span>[110:2](spe11.htm#fr_442) First published in
+<span id="fn_442"></span>[110:2](spe11.htm#fr_442.md) First published in
 1677.
 
-<span id="fn_443"></span>[110:3](spe11.htm#fr_443) *Notes and Queries*,
+<span id="fn_443"></span>[110:3](spe11.htm#fr_443.md) *Notes and Queries*,
 Ser. III. x. 312.
 
-<span id="fn_444"></span>[110:4](spe11.htm#fr_444) Lanham in *Queen
+<span id="fn_444"></span>[110:4](spe11.htm#fr_444.md) Lanham in *Queen
 Elizabeth's Progresses*, by Mr Nichols, vol. i. p. 249.
 
-<span id="fn_445"></span>[111:1](spe11.htm#fr_445) Baker's
+<span id="fn_445"></span>[111:1](spe11.htm#fr_445.md) Baker's
 *Northamptonshire*, i. 40.
 
-<span id="fn_446"></span>[111:2](spe11.htm#fr_446) *Traité de Tournois*,
+<span id="fn_446"></span>[111:2](spe11.htm#fr_446.md) *Traité de Tournois*,
 1669, p. 347.
 
-<span id="fn_447"></span>[111:3](spe11.htm#fr_447) Le Roman de Giron le
+<span id="fn_447"></span>[111:3](spe11.htm#fr_447.md) Le Roman de Giron le
 courtois. Du Cange, Gloss. in voce *quintana*.
 
-<span id="fn_448"></span>[111:4](spe11.htm#fr_448) Lib. iv. Sat. 3.
+<span id="fn_448"></span>[111:4](spe11.htm#fr_448.md) Lib. iv. Sat. 3.
 
-<span id="fn_449"></span>[112:1](spe11.htm#fr_449) *Glossary*, in voce
+<span id="fn_449"></span>[112:1](spe11.htm#fr_449.md) *Glossary*, in voce
 *quintana*.
 
-<span id="fn_450"></span>[112:2](spe11.htm#fr_450) *Orbis Sensualium
+<span id="fn_450"></span>[112:2](spe11.htm#fr_450.md) *Orbis Sensualium
 Pictus*, by Hoole, 1658.
 
-<span id="fn_451"></span>[113:1](spe11.htm#fr_451) *Art de monter à
+<span id="fn_451"></span>[113:1](spe11.htm#fr_451.md) *Art de monter à
 cheval*, part iii. p. 156.
 
-<span id="fn_452"></span>[113:2](spe11.htm#fr_452) Menestrier, *Traité
+<span id="fn_452"></span>[113:2](spe11.htm#fr_452.md) Menestrier, *Traité
 de Tournois*, p. 112.
 
-<span id="fn_453"></span>[113:3](spe11.htm#fr_453) Du Cange, *Glossary*,
+<span id="fn_453"></span>[113:3](spe11.htm#fr_453.md) Du Cange, *Glossary*,
 in voce *justa*.
 
-<span id="fn_454"></span>[114:1](spe11.htm#fr_454) Tacitus, *Annal*.
+<span id="fn_454"></span>[114:1](spe11.htm#fr_454.md) Tacitus, *Annal*.
 lib. xi.
 
-<span id="fn_455"></span>[115:1](spe11.htm#fr_455) Cotgrave.
+<span id="fn_455"></span>[115:1](spe11.htm#fr_455.md) Cotgrave.
 
-<span id="fn_456"></span>[115:2](spe11.htm#fr_456) *Origins des
+<span id="fn_456"></span>[115:2](spe11.htm#fr_456.md) *Origins des
 Chevaliers*, etc., p. 9.
 
-<span id="fn_457"></span>[115:3](spe11.htm#fr_457) No. 2252, fol. 61.
+<span id="fn_457"></span>[115:3](spe11.htm#fr_457.md) No. 2252, fol. 61.
 
-<span id="fn_458"></span>[116:1](spe11.htm#fr_458) A small space of
+<span id="fn_458"></span>[116:1](spe11.htm#fr_458.md) A small space of
 time.
 
-<span id="fn_459"></span>[116:2](spe11.htm#fr_459) Heralds, whose office
+<span id="fn_459"></span>[116:2](spe11.htm#fr_459.md) Heralds, whose office
 it was to superintend the ceremonious parts of the tournaments.
 
-<span id="fn_460"></span>[116:3](spe11.htm#fr_460) Reward.
+<span id="fn_460"></span>[116:3](spe11.htm#fr_460.md) Reward.
 
-<span id="fn_461"></span>[116:4](spe11.htm#fr_461) *Hist. Angl.* fol. 3,
+<span id="fn_461"></span>[116:4](spe11.htm#fr_461.md) *Hist. Angl.* fol. 3,
 A.D. 1274.
 
-<span id="fn_462"></span>[116:5](spe11.htm#fr_462) *Ludum militarum*
+<span id="fn_462"></span>[116:5](spe11.htm#fr_462.md) *Ludum militarum*
 (qui vulgo torneamentum dicitur). *Ibid*.
 
-<span id="fn_463"></span>[116:6](spe11.htm#fr_463) *Traité de Tournois*.
+<span id="fn_463"></span>[116:6](spe11.htm#fr_463.md) *Traité de Tournois*.
 
-<span id="fn_464"></span>[116:7](spe11.htm#fr_464) No. 326.
+<span id="fn_464"></span>[116:7](spe11.htm#fr_464.md) No. 326.
 
-<span id="fn_465"></span>[117:1](spe11.htm#fr_465) *Complete Gentleman*,
+<span id="fn_465"></span>[117:1](spe11.htm#fr_465.md) *Complete Gentleman*,
 p. 178.
 
-<span id="fn_466"></span>[117:2](spe11.htm#fr_466) See more upon this
+<span id="fn_466"></span>[117:2](spe11.htm#fr_466.md) See more upon this
 subject in the *Encyclopédie François*, art. "Tournoi."
 
-<span id="fn_467"></span>[117:3](spe11.htm#fr_467) *Chronique de Tours*.
+<span id="fn_467"></span>[117:3](spe11.htm#fr_467.md) *Chronique de Tours*.
 
-<span id="fn_468"></span>[117:4](spe11.htm#fr_468) *Perambulation of
+<span id="fn_468"></span>[117:4](spe11.htm#fr_468.md) *Perambulation of
 Kent*, p. 492.
 
-<span id="fn_469"></span>[118:1](spe11.htm#fr_469) *Hist. Angl.* A.D.
+<span id="fn_469"></span>[118:1](spe11.htm#fr_469.md) *Hist. Angl.* A.D.
 1179.
 
-<span id="fn_470"></span>[118:2](spe11.htm#fr_470) "Stamford and
+<span id="fn_470"></span>[118:2](spe11.htm#fr_470.md) "Stamford and
 Wallingford" is mistakenly given in Godwin's Archeologist's Hand-Book
 and elsewhere. Wallingford, Berks, is absurdly remote from Stamford;
 Warmington is but a little distance from Stamford, on the main road to
 Oundle.
 
-<span id="fn_471"></span>[118:3](spe11.htm#fr_471) Harl. MS. 69. "The
+<span id="fn_471"></span>[118:3](spe11.htm#fr_471.md) Harl. MS. 69. "The
 Booke of Certaine Triumphs," which opens with an account of the
 "Just-Roiall" at the marriage of Richard, duke of York, son of Edward
 IV.
 
-<span id="fn_472"></span>[118:4](spe11.htm#fr_472) *Origines des
+<span id="fn_472"></span>[118:4](spe11.htm#fr_472.md) *Origines des
 Chevaliers*, etc.
 
-<span id="fn_473"></span>[118:5](spe11.htm#fr_473) No. 69.
+<span id="fn_473"></span>[118:5](spe11.htm#fr_473.md) No. 69.
 
-<span id="fn_474"></span>[118:6](spe11.htm#fr_474) *Marche*, part of the
+<span id="fn_474"></span>[118:6](spe11.htm#fr_474.md) *Marche*, part of the
 lists, I presume, or portion of ground appropriated to the tournament.
 
-<span id="fn_475"></span>[119:1](spe11.htm#fr_475) *Feront clouer leurs
+<span id="fn_475"></span>[119:1](spe11.htm#fr_475.md) *Feront clouer leurs
 armes*, literally nail them; the clouage or nail money, as we shall see
 afterwards, was the perquisite of the heralds.
 
-<span id="fn_476"></span>[119:2](spe11.htm#fr_476) "*Mettra sa banier,
+<span id="fn_476"></span>[119:2](spe11.htm#fr_476.md) "*Mettra sa banier,
 an commencement dedits bastons at clouera la blason de ses armes, à
 lautre vout*." The passage is by no means clear; I have therefore given
 the words of the original.
 
-<span id="fn_477"></span>[119:3](spe11.htm#fr_477) *A l’aschevier,
+<span id="fn_477"></span>[119:3](spe11.htm#fr_477.md) *A l’aschevier,
 chevaliers*, etc.
 
-<span id="fn_478"></span>[119:4](spe11.htm#fr_478) *Hors chevaliers*,
+<span id="fn_478"></span>[119:4](spe11.htm#fr_478.md) *Hors chevaliers*,
 etc.
 
-<span id="fn_479"></span>[120:1](spe11.htm#fr_479) No. 14, E. iii.
+<span id="fn_479"></span>[120:1](spe11.htm#fr_479.md) No. 14, E. iii.
 
-<span id="fn_480"></span>[120:2](spe11.htm#fr_480) Harl. MS. 69.
+<span id="fn_480"></span>[120:2](spe11.htm#fr_480.md) Harl. MS. 69.
 
-<span id="fn_481"></span>[121:1](spe11.htm#fr_481) Cotton MS. Nero D.
+<span id="fn_481"></span>[121:1](spe11.htm#fr_481.md) Cotton MS. Nero D.
 vi. and Harl. MS. 69, *ut supra*.
 
-<span id="fn_482"></span>[122:1](spe11.htm#fr_482) "Avec une grêle de
+<span id="fn_482"></span>[122:1](spe11.htm#fr_482.md) "Avec une grêle de
 coups." *Encyclop. Fran*. in voce *tournoi*.
 
-<span id="fn_483"></span>[122:2](spe11.htm#fr_483) Harl. MS. 69.
+<span id="fn_483"></span>[122:2](spe11.htm#fr_483.md) Harl. MS. 69.
 
-<span id="fn_484"></span>[122:3](spe11.htm#fr_484) *Glossary*, in voce
+<span id="fn_484"></span>[122:3](spe11.htm#fr_484.md) *Glossary*, in voce
 *justa*.
 
-<span id="fn_485"></span>[123:1](spe11.htm#fr_485) "Pugnæ facere quod
+<span id="fn_485"></span>[123:1](spe11.htm#fr_485.md) "Pugnæ facere quod
 justam vocant." *Hist. Novellæ*, fol. 106, sub an. 1142.
 
-<span id="fn_486"></span>[123:2](spe11.htm#fr_486) Matthew Paris
+<span id="fn_486"></span>[123:2](spe11.htm#fr_486.md) Matthew Paris
 properly distinguishes it from the tournament. "Non hastiludio, quod
 torneamentum dicitur, sed--ludo militari, qui mensa rotunda dicitur."
 *Hist. Angl.* sub an. 1252.
 
-<span id="fn_487"></span>[123:3](spe11.htm#fr_487) *Glossary*, in voce
+<span id="fn_487"></span>[123:3](spe11.htm#fr_487.md) *Glossary*, in voce
 *Mensa Rotunda*.
 
-<span id="fn_488"></span>[123:4](spe11.htm#fr_488) Rogerus de Mortuo
+<span id="fn_488"></span>[123:4](spe11.htm#fr_488.md) Rogerus de Mortuo
 Mari. Tho. Walsingham, *Hist. Angl.* sub an. 1280, fol. 8.
 
-<span id="fn_489"></span>[123:5](spe11.htm#fr_489) Tho. Walsingham,
+<span id="fn_489"></span>[123:5](spe11.htm#fr_489.md) Tho. Walsingham,
 *Hist. Angl.* sub an. 1344, fol. 154.
 
-<span id="fn_490"></span>[124:1](spe11.htm#fr_490) Vol. iii. chap. lix.
+<span id="fn_490"></span>[124:1](spe11.htm#fr_490.md) Vol. iii. chap. lix.
 
-<span id="fn_491"></span>[124:2](spe11.htm#fr_491) Froissart, vol. iii.
+<span id="fn_491"></span>[124:2](spe11.htm#fr_491.md) Froissart, vol. iii.
 chap. cxxxiii. fol. 148, Lord Berners' translation.
 
-<span id="fn_492"></span>[124:3](spe11.htm#fr_492) No. 14, E. iii.
+<span id="fn_492"></span>[124:3](spe11.htm#fr_492.md) No. 14, E. iii.
 
-<span id="fn_493"></span>[124:4](spe11.htm#fr_493) This word in its
+<span id="fn_493"></span>[124:4](spe11.htm#fr_493.md) This word in its
 original signification tarries with us in the term "waggon-*tilt*,"
 which means a canvas cover.
 
-<span id="fn_494"></span>[125:1](spe11.htm#fr_494) *Archæological
+<span id="fn_494"></span>[125:1](spe11.htm#fr_494.md) *Archæological
 Journal*, v. 296-321, "Tilting in Tudor Times."
 
-<span id="fn_495"></span>[125:2](spe11.htm#fr_495) Calig. D. vi. fol.
+<span id="fn_495"></span>[125:2](spe11.htm#fr_495.md) Calig. D. vi. fol.
 165.
 
-<span id="fn_496"></span>[126:1](spe11.htm#fr_496) *Essais Hist. sur
+<span id="fn_496"></span>[126:1](spe11.htm#fr_496.md) *Essais Hist. sur
 Paris*, vol. iii. p. 263.
 
-<span id="fn_497"></span>[126:2](spe11.htm#fr_497) *Ibid*. vol. i. p.
+<span id="fn_497"></span>[126:2](spe11.htm#fr_497.md) *Ibid*. vol. i. p.
 327.
 
-<span id="fn_498"></span>[126:3](spe11.htm#fr_498) As the ladies, say
+<span id="fn_498"></span>[126:3](spe11.htm#fr_498.md) As the ladies, say
 some modern authors, were *l’âme*, the soul of the jousts, it was proper
 that they should be therein distinguished by some peculiar homage; and
 accordingly, at the termination of a joust with lances, the last course
@@ -1620,22 +1620,22 @@ was made in honour of the sex, and called the lance of the ladies. The
 same deference was paid to them in single combats with the sword, the
 axe, and the dagger.
 
-<span id="fn_499"></span>[127:1](spe11.htm#fr_499) See sect. vii. p.
+<span id="fn_499"></span>[127:1](spe11.htm#fr_499.md) See sect. vii. p.
 118.
 
-<span id="fn_500"></span>[127:2](spe11.htm#fr_500) No. I, B. vii.
+<span id="fn_500"></span>[127:2](spe11.htm#fr_500.md) No. I, B. vii.
 
-<span id="fn_501"></span>[127:3](spe11.htm#fr_501) Nichols'
+<span id="fn_501"></span>[127:3](spe11.htm#fr_501.md) Nichols'
 *Progresses*, vol. i. p. 56.
 
-<span id="fn_502"></span>[127:4](spe11.htm#fr_502) No. 69.
+<span id="fn_502"></span>[127:4](spe11.htm#fr_502.md) No. 69.
 
-<span id="fn_503"></span>[128:1](spe11.htm#fr_503) Son to king Edward
+<span id="fn_503"></span>[128:1](spe11.htm#fr_503.md) Son to king Edward
 IV., who lost his life with his brother Edward in the Tower.
 
-<span id="fn_504"></span>[128:2](spe11.htm#fr_504) Titus, A. xxiii. part
+<span id="fn_504"></span>[128:2](spe11.htm#fr_504.md) Titus, A. xxiii. part
 i. fol. 7.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](spe12)
+[Next: Chapter II](spe12.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe096)  [Next](prwe098) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe096)  [Next](prwe098.md) 
 
 ------------------------------------------------------------------------
 
@@ -157,4 +157,4 @@ in the "virtue of fire," as I have heard it expressed.
 
 ------------------------------------------------------------------------
 
-[Next: Burning Animals Alive](prwe098)
+[Next: Burning Animals Alive](prwe098.md)

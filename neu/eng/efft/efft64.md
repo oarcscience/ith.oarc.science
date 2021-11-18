@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft63)  [Next](efft65) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft63)  [Next](efft65.md) 
 
 ------------------------------------------------------------------------
 
-# THE LADY WITH THE LANTERN  <span id="fr_73"></span>[1](#fn_73)
+# THE LADY WITH THE LANTERN  <span id="fr_73"></span>[1](#fn_73.md)
 
 THE night was dark and the wind high. The heavy waves rolled round the
 point of "the Island" into St. Ives Bay, as Atlantic waves only can
@@ -105,9 +105,9 @@ on this shore.
 
 ### Footnotes
 
-<span id="fn_73"></span>[1](efft64.htm#fr_73) Robert Hunt, *Popular
+<span id="fn_73"></span>[1](efft64.htm#fr_73.md) Robert Hunt, *Popular
 Romances of the West of England*, 2nd series, p. 143.
 
 ------------------------------------------------------------------------
 
-[Next: Spectre-Dogs](efft65)
+[Next: Spectre-Dogs](efft65.md)

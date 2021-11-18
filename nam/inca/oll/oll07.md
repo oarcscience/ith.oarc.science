@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll06)  [Next](oll08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll06)  [Next](oll08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -30,7 +30,7 @@ Thee too I shall lose for ever.
 
 <span id="page_361">p. 361</span>
 
-O the void <span id="fr_32"></span>[1](#fn_32) within my heart,  
+O the void <span id="fr_32"></span>[1](#fn_32.md) within my heart,  
 O my princess! O precious dove!  
 Cuzco! O thou beautiful city!  
 Henceforth behold thine enemy.  
@@ -62,7 +62,7 @@ Tell the Princess I come to-night.
   *Piqui Chaqui*. I have only just come from there--  
 The palace was deserted quite,  
 No soul to tell me what had passed,  
-Not even a dog <span id="fr_33"></span>[2](#fn_33) was there.
+Not even a dog <span id="fr_33"></span>[2](#fn_33.md) was there.
 
 <span id="page_362">p. 362</span>
 
@@ -149,7 +149,7 @@ The eyelids with arrows concealed,
 They open, lo! beauty revealed,  
   Pierces through like a glittering dart.
 
-Her cheeks *Achancara* <span id="fr_34"></span>[1](#fn_34) on snow,  
+Her cheeks *Achancara* <span id="fr_34"></span>[1](#fn_34.md) on snow,  
   Her face more fair than the dawn,  
 From her mouth the laughter doth flow,  
   Between pearls as bright as the morn.
@@ -209,18 +209,18 @@ Let us depart and quickly march.
 
 ### Footnotes
 
-<span id="fn_32"></span>[361:1](oll07.htm#fr_32) *Pisipachiyqui*, to
+<span id="fn_32"></span>[361:1](oll07.htm#fr_32.md) *Pisipachiyqui*, to
 suffer from the void caused by absence. *Pisipay*, to regret the absence
 of, to miss any one.
 
-<span id="fn_33"></span>[361:2](oll07.htm#fr_33) The Dominican text has
+<span id="fn_33"></span>[361:2](oll07.htm#fr_33.md) The Dominican text has
 *misi*, a cat, instead of *allco*, a dog. Von Tschudi thought that
 *misi* was a word of Spanish origin. <span id="page_362">p. 362</span>
 Zegarra says that it is not. Before the Spaniards came, there was a
 small wild cat in the Andes called *misi-puna*. But the Justiniani text
 has *allco*, a dog.
 
-<span id="fn_34"></span>[364:1](oll07.htm#fr_34) *Achancara*, a begonia.
+<span id="fn_34"></span>[364:1](oll07.htm#fr_34.md) *Achancara*, a begonia.
 A red flower in the neighbourhood of Cuzco, according to Zegarra. One
 variety is red and white.
 
@@ -228,6 +228,6 @@ variety is red and white.
 
 ------------------------------------------------------------------------
 
-[Next: Scene 5](oll08)
+[Next: Scene 5](oll08.md)
 
 </div>

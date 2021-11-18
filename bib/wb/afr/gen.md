@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Next](exo) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Next](exo.md) 
 
 ------------------------------------------------------------------------
 
@@ -5736,4 +5736,4 @@ jaar oud. En hulle het hom gebalsem, en hy is in 'n kis gesit in Egipte.
 
 ------------------------------------------------------------------------
 
-[Next: Exodus](exo)
+[Next: Exodus](exo.md)

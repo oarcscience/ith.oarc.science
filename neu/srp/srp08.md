@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp07)  [Next](srp09) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp07)  [Next](srp09.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ various ways, being derived by one philologist from *Kolo*, a wheel, and
 connected by another with *Kolóda*, a kind of yule log; but others are
 decidedly of opinion that it is merely an adaptation of the Roman
 *Kalendæ*, the word having been introduced into the Slavonic languages
-by way of Byzantium <span id="fr_140"></span>[1](#fn_140).
+by way of Byzantium <span id="fr_140"></span>[1](#fn_140.md).
 
 <span id="page_187">p. 187</span>
 
@@ -65,7 +65,7 @@ The song then proceeds to explain that the Moon is the master of the
 house, the Sun is the mistress, and the Stars are their children, and
 concludes by wishing them good health,
 
-"For many years, for many years <span id="fr_141"></span>[2](#fn_141)."
+"For many years, for many years <span id="fr_141"></span>[2](#fn_141.md)."
 
 In all probability the celestial beings were originally introduced as
 objects of worship; but as time went by, and new religious ideas came
@@ -117,7 +117,7 @@ To me myself is the wine needful,
 
 To give in marriage my brother and my sister,  
 And I myself am a young betrothed one <span
-id="fr_142"></span>[3](#fn_142)."
+id="fr_142"></span>[3](#fn_142.md)."
 
 In her the mythologists see the Dawn, to whom the part of a manager of
 weddings is openly ascribed in one Little-Russian song, in which it is
@@ -133,9 +133,9 @@ In his Court, and in his dwelling,
 And in his dwelling are two pleasures:  
 The first pleasure--to get his son married;  
 And the second pleasure--to give his daughter in marriage <span
-id="fr_143"></span>[4](#fn_143)."
+id="fr_143"></span>[4](#fn_143.md)."
 
-Pan <span id="fr_144"></span>[5](#fn_144) Ivan is supposed to be some
+Pan <span id="fr_144"></span>[5](#fn_144.md) Ivan is supposed to be some
 celestial being, marriages between the heavenly bodies being often
 mentioned in Slavonic songs--especially in those of Servia, in one of
 which the Day-star, so closely connected with the Dawn, arranges a
@@ -174,7 +174,7 @@ Oh! when he began to sound the pipe of copper,
 A voice went among the mountain tops;  
 Oh I when he began to play on the aurochs pipe,  
 There went up voices to the heavens <span
-id="fr_145"></span>[6](#fn_145).
+id="fr_145"></span>[6](#fn_145.md).
 
 Some of the Russian *Kolyadki*, also, seem to refer to the thunder-god,
 for they speak of the sacrifice of a goat, one of the animals most
@@ -201,11 +201,11 @@ They are going to kill the goat.
 "Brother Ivanushko,  
 Come forth, spring out!"  
 Gladly would I have sprung out,  
-But the bright stone <span id="fr_146"></span>[7](#fn_146)  
+But the bright stone <span id="fr_146"></span>[7](#fn_146.md)  
 Drags me down to the cauldron:  
 The yellow sands  
 Have sucked dry my heart."  
-  Oi Kolyadka! Oi Kolyadka <span id="fr_147"></span>[8](#fn_147).
+  Oi Kolyadka! Oi Kolyadka <span id="fr_147"></span>[8](#fn_147.md).
 
 Long after heathenish rites had been generally discarded in Russia, they
 were kept up by the Lithuanians, among whom it was customary for the
@@ -222,7 +222,7 @@ popular poetry alone. Some writers, it should be mentioned, are of
 opinion that this song belongs to the Midsummer, rather than to the
 Christmas festival, the pig, and not the goat, being the animal
 generally sacrificed in the winter <span
-id="fr_148"></span>[9](#fn_148). The last few lines of the song are very
+id="fr_148"></span>[9](#fn_148.md). The last few lines of the song are very
 like, if not identical with, those which occur in the story "of the Kid
 Prince," a Russian counterpart of that of *Brüderchen mid Schwesterchen*
 in the *Kinder- mid Hausmärchen*.
@@ -250,7 +250,7 @@ The ears shall be \[plentiful\] as blades of grass!
 The sheaves shall be \[in number\] like the stars!  
 The stacks shall be like hills,  
 The loads shall be gathered together like black clouds <span
-id="fr_149"></span>[1](#fn_149)."
+id="fr_149"></span>[1](#fn_149.md)."
 
 Here the Mother of God is evidently some such benignant divinity as the
 Teutonic Holda. There is a tradition among the Lusatian Wends that the
@@ -291,7 +291,7 @@ The cool waters, the green grass.
 From the blue stone--the blue heavens,  
 The blue heavens, the bright sun,  
 The bright sun, the clear moon,  
-The clear moon and all the stars <span id="fr_150"></span>[2](#fn_150)".
+The clear moon and all the stars <span id="fr_150"></span>[2](#fn_150.md)".
 
 It is chiefly on Christmas Eve that the *Kolyadki* are sung, but the
 Christmas festival itself lasts until the Epiphany. The evenings during
@@ -349,7 +349,7 @@ Glory to God in heaven, Glory!
 
 This song is one of the most prominent among the *Kolyadki*, for with it
 always commences the singing of what are called the *Podblyudnuiya*
-Songs <span id="fr_151"></span>[3](#fn_151). At the Christmas festival a
+Songs <span id="fr_151"></span>[3](#fn_151.md). At the Christmas festival a
 table is covered with a cloth, and on it is set a dish or bowl
 (*blyudo*) containing water. The young people drop rings or other
 trinkets into the dish, which is afterwards covered with a cloth, and
@@ -377,7 +377,7 @@ But this song we sing to the Corn, *Glory*!
 To the Corn we sing, the Corn we honour, *Glory*!  
 For the old folks to enjoy, *Glory*!  
 For the good folks to hear, *Glory* <span
-id="fr_152"></span>[4](#fn_152)!
+id="fr_152"></span>[4](#fn_152.md)!
 
 The word translated "Lord" in the second line is *Gosudar'*, the term
 generally applied to the Emperor, but it seems to be used here in the
@@ -400,7 +400,7 @@ And from the chips a pin, *Glory*!
 In that crown will I be wedded, *Glory*!  
 With that ring will I be betrothed, *Glory*!  
 With that pin will I fasten the nuptial kerchief,  
-     *Glory* <span id="fr_153"></span>[5](#fn_153)!
+     *Glory* <span id="fr_153"></span>[5](#fn_153.md)!
 
 One of the legends about Kuz'ma-Dem'yan is, that once, when he had just
 made a plough, a great snake tried to attack him. But no sooner had it
@@ -410,7 +410,7 @@ devil--harnessed it to the plough, and forced it to plough up the land
 "from sea to sea." The snake vainly prayed for a draught of water from
 the Dnieper; the Saint drove it till it came to the Black Sea. That sea
 it drank half dry, and then it burst <span
-id="fr_154"></span>[6](#fn_154).
+id="fr_154"></span>[6](#fn_154.md).
 
 Some of the songs sung at this time have evidently come from the regions
 inhabited by the South Slavonians, as, for instance, those of which the
@@ -433,7 +433,7 @@ Zenzevei is away from home;
 
 He has gone to Tsargrad  
 To settle questions, to arrange agreements,  
-     *Kolyada* <span id="fr_155"></span>[7](#fn_155)!
+     *Kolyada* <span id="fr_155"></span>[7](#fn_155.md)!
 
 Among the games in vogue at this season by far the most interesting is
 that called "The Burial of the Gold." A number of girls form a circle,
@@ -463,7 +463,7 @@ Give, oh give me back my gold!
   My mother will beat me  
   For three days, for four:  
   With three rods of gold,  
-  With a fourth rod of pearl <span id="fr_156"></span>[8](#fn_156).
+  With a fourth rod of pearl <span id="fr_156"></span>[8](#fn_156.md).
 
 <span id="page_201">p. 201</span>
 
@@ -495,7 +495,7 @@ those festivals, the heavenly doors are thrown open; the radiant realms
 of Paradise in which the Sun dwells, disclose their treasures; the
 waters of springs and rivers become animated, turn into wine, and
 receive a healing efficacy; the trees put forth blossoms, and golden
-fruits ripen upon their boughs <span id="fr_157"></span>[9](#fn_157).
+fruits ripen upon their boughs <span id="fr_157"></span>[9](#fn_157.md).
 
 <span id="page_202">p. 202</span>
 
@@ -510,7 +510,7 @@ the popular belief, not by any properly constituted religious
 authorities. Similar mention is made in another set of songs, called
 *Ovsénevuiya*--of another divine being, also seeming to represent the
 Sun, to whom is given the name of Ovsén <span
-id="fr_158"></span>[1](#fn_158). He is represented as a "good youth,"
+id="fr_158"></span>[1](#fn_158.md). He is represented as a "good youth,"
 who appears together with the New Year, making the way clear for it, and
 bringing from Paradise rich gifts of fruitfulness, which he distributes
 among mortals according to divine decrees. On New Year's Eve boys go
@@ -535,7 +535,7 @@ Who, who will go
 Along that bridge?  
 Ovsen will go there,  
 And the New Year,  
-  Oh, Ovsén!    oh, Ovsén <span id="fr_159"></span>[2](#fn_159)!
+  Oh, Ovsén!    oh, Ovsén <span id="fr_159"></span>[2](#fn_159.md)!
 
 Another songs asks,--
 
@@ -547,7 +547,7 @@ What will he chase?
 This peculiarity seems to link Ovsén with Fro or Freyr, the Teutonic
 sun-god, who possessed a boar, Gullinborsti, whose golden fell made the
 night as clear as the day, whose speed was that of a horse, and who drew
-the car of the god <span id="fr_160"></span>[3](#fn_160). In reference,
+the car of the god <span id="fr_160"></span>[3](#fn_160.md). In reference,
 probably, to this idea, pigs' trotters, and the like, used to be offered
 as a sacrifice to the gods at the beginning of a New Year, and the
 custom still prevails in Russia of preferring such dishes at that time,
@@ -562,7 +562,7 @@ A.D. 1348.
 The commencement of the New Year was then shifted to the 1st of
 September, an arrangement which held good till the year 1700, when it
 was made to begin with the 1st of January <span
-id="fr_161"></span>[4](#fn_161).
+id="fr_161"></span>[4](#fn_161.md).
 
 In some of the songs the name *Ovsén*, or *Govsén*, as it is sometimes
 written, occurs as a refrain under the form of *Tausen*. Here is one, of
@@ -583,7 +583,7 @@ On the bare boards,
 On the warm stove,  
 On the ninth brick.  
                              Koleda Tausen <span
-id="fr_162"></span>[5](#fn_162)!
+id="fr_162"></span>[5](#fn_162.md)!
 
 Among the many strange customs preserved among the people is a very
 singular one, kept up by the peasants of White-Russia, by which they
@@ -613,7 +613,7 @@ so high in his fields that he may be invisible to his children when he
 walks there in harvest-time. A similar custom is said by German writers
 of about the twelfth century to have prevailed in their times among the
 Baltic Slavonians, only in that case it was a priest, who hid himself
-behind a pile of sheaves <span id="fr_163"></span>[6](#fn_163).
+behind a pile of sheaves <span id="fr_163"></span>[6](#fn_163.md).
 
 Another custom, most religiously preserved, is the preparing of
 *Kásha*--a favourite Russian dish made of stewed grain--for the New
@@ -633,7 +633,7 @@ banquet. Off set Buckwheat to visit Tsargrad, with Princes, with Boyars,
 with Honourable Oats, with Golden Barley. They awaited Buckwheat, they
 tarried till its coming at the Stone Gates. Princes and Boyars met
 Buckwheat, they set Buckwheat at the oaken table to feast. As a guest
-has our Buckwheat come unto us <span id="fr_164"></span>[7](#fn_164).
+has our Buckwheat come unto us <span id="fr_164"></span>[7](#fn_164.md).
 
 The singers of the songs about Ovsen receive presents, standing in lieu
 of the old contributions towards a sacrifice to the Gods, for which they
@@ -659,7 +659,7 @@ Of iron wire
 And another of tin.  
 Hither he waves,  
 Thither he waves--  
-Corn grows <span id="fr_165"></span>[8](#fn_165).
+Corn grows <span id="fr_165"></span>[8](#fn_165.md).
 
 An idea which is intended to be conveyed by the custom of scattering
 seeds which is still kept up by the singers of songs to Ovsén.
@@ -676,7 +676,7 @@ Are the fair children
 Ruddy and white,  
 Of one mother.  
 Send forth through the christened world  
-Proposers of marriages <span id="fr_166"></span>[9](#fn_166).
+Proposers of marriages <span id="fr_166"></span>[9](#fn_166.md).
 
 On the feast of the Epiphany, in some places, a number of sheaves of
 various kinds of corn are heaped
@@ -726,7 +726,7 @@ In other places a sort of huge "Christmas Tree" is carried round, an
 emblem of summer fruitfulness. In Archangel an ox, resembling the French
 *bœuf gras*, occupies the place of honour on the sledge; and in Siberia
 a ship, with sails spread, conveying a figure representing "Lady
-Maslyanitsa," and a bear <span id="fr_167"></span>[1](#fn_167). As in
+Maslyanitsa," and a bear <span id="fr_167"></span>[1](#fn_167.md). As in
 mythical speech a ship generally means a cloud, fraught with showers
 destined to enrich the earth, and the bear is one of the familiar
 emblems of the thunder-god, the Siberian equipage is looked upon by the
@@ -836,7 +836,7 @@ She fastens a favour on a bridle.
 Ah, a great sorrow!  
 By whom shall it be obtained?  
 It shall be obtained by my destined husband <span
-id="fr_168"></span>[2](#fn_168).
+id="fr_168"></span>[2](#fn_168.md).
 
 On March 9, the day on which the larks are supposed to arrive, the
 rustics make clay images of those birds, smear them with honey and tip
@@ -856,7 +856,7 @@ winter.
 <span id="page_214">p. 214</span>
 
 Like the Greeks, the Romans, and the Teutons <span
-id="fr_169"></span>[3](#fn_169), the Old Slavonians seem to have greeted
+id="fr_169"></span>[3](#fn_169.md), the Old Slavonians seem to have greeted
 with special joy the return of the swallow, "the bird of God," as it is
 called in Ruthenia, "the Virgin Mary's bird," as the Bohemians name it,
 whose early arrival foretells an abundant harvest, whose presence keeps
@@ -874,7 +874,7 @@ whose name is a contracted form of Jivana, in Polish Ziewonia, that is,
 "the giver of life" (*jizn'*). Many of the other stories about the
 cuckoo and the swallow, mentioned by Mr. Kelly in his "Curiosities of
 Indo-European Tradition and Folklore <span
-id="fr_170"></span>[4](#fn_170)," are known to the Russian peasants.
+id="fr_170"></span>[4](#fn_170.md)," are known to the Russian peasants.
 
 The name of the cuckoo is associated with a singular custom of great
 antiquity. A few weeks after Easter--generally during the seventh week,
@@ -888,13 +888,13 @@ and supposed to represent a cuckoo, and underneath it they hang the
 little pectoral crosses which all Russians bear. Sometimes, instead of
 this, they pull up by the roots the plant called "cuckoo-grass" (*orchis
 latifolia*), dress it up in a shift, and then bury it in the earth
-underneath two semicircles of wood <span id="fr_171"></span>[6](#fn_172)
+underneath two semicircles of wood <span id="fr_171"></span>[6](#fn_172.md)
 set crossways, which they cover with handkerchiefs, and on which they
 hang crosses. In the Orel and Tula Governments they place a small cross
 on the figure of the cuckoo itself, and sing,
 
 Gossips, darlings! (*kumushki, golubushki*) <span
-id="fr_172"></span>[5](#fn_171)  
+id="fr_172"></span>[5](#fn_171.md)  
 Become gossips, love each other, make presents to each other!
 
 This is called the "Christening of the Cuckoos" (*kreshchenie kukusëk*).
@@ -925,12 +925,12 @@ of which each of them keeps in memory of the occasion. Afterwards the
 whole party prepare and eat omelettes, and finish the day with dance and
 song. In the Orel Government. according to Tereshchenko, it is, or used
 to be, customary for men also to enter into the state of mutual
-cuckoo-gossipry <span id="fr_173"></span>[7](#fn_173).
+cuckoo-gossipry <span id="fr_173"></span>[7](#fn_173.md).
 
 The time set apart for the "Christening of the Cuckoos" coincides with
 that in which the souls of little children who have died unchristened
 appear under the form of small Rusalkas <span
-id="fr_174"></span>[8](#fn_174) seeking for the baptism which is
+id="fr_174"></span>[8](#fn_174.md) seeking for the baptism which is
 necessary for their salvation. Coupling this fact with that of the soul
 being constantly represented as a bird, and remarking that the cuckoo is
 a common type in Russia of the orphan state, Afanasief suggests that the
@@ -952,7 +952,7 @@ this day the Servians keep up a custom very similar to the Russian
 Cuckoo-Christening, held at Eastertide in memory of the dead, with
 kissings through willow circlets, and exchanges of red eggs, after which
 the men are called *Pobrati*, "adopted-brothers," and the girls
-"friends <span id="fr_175"></span>[9](#fn_175)."
+"friends <span id="fr_175"></span>[9](#fn_175.md)."
 
 In Lithuania, says Tereshchenko, at Eastertide, the young people of each
 village meet within some cottage. There they first sing various songs,
@@ -991,7 +991,7 @@ Shall I soon be married?
 
 The length of time during which the girl will have to wait will be
 signified to her by the number of repetitions of the Cuckoo's cry <span
-id="fr_176"></span>[1](#fn_176).
+id="fr_176"></span>[1](#fn_176.md).
 
 Among many of the Roman Catholic Slavonians a feast, originally in
 honour of the Spring, is celebrated in the middle of Lent, and some
@@ -1014,7 +1014,7 @@ And rich, like the soil.
 
 Even on Good Friday itself, in some places, the old pagan practices show
 signs of life. Before sunrise on that day it is customary for the
-Bohemians, says Orest Miller <span id="fr_177"></span>[2](#fn_177), to
+Bohemians, says Orest Miller <span id="fr_177"></span>[2](#fn_177.md), to
 go into their gardens, and there, falling on their knees before a tree,
 to say,--
 
@@ -1064,7 +1064,7 @@ has
 <span id="page_221">p. 221</span>
 
 been preserved by us in that of Easter <span
-id="fr_178"></span>[3](#fn_178). In Little-Russia it used to be the
+id="fr_178"></span>[3](#fn_178.md). In Little-Russia it used to be the
 custom at Eastertide to celebrate the funeral of a being called
 Kostrubonko, the deity of the spring. A circle was formed of singers,
 who moved slowly around a girl who lay on the ground as if dead, and as
@@ -1110,7 +1110,7 @@ be merry, deeming that the dead can "rejoice" with them. After their
 meal, the fragments which remain over are thrown to the evil spirits, in
 order to prevent them from troubling the repose of the dead, and with
 similar intent their flasks and drinking-cups are emptied over the
-graves <span id="fr_179"></span>[4](#fn_179). Then they return home,
+graves <span id="fr_179"></span>[4](#fn_179.md). Then they return home,
 dress themselves in holiday attire, and go out to the Krasnaya Gorka, to
 commence their songs and the games to which those songs form an
 accompaniment.
@@ -1160,9 +1160,9 @@ Gorka* festival is that called
 
 "The Sowing of the Millet," of which an account will be given in the
 chapter devoted to songs relating to marriage <span
-id="fr_180"></span>[5](#fn_180). Of the rest we have already given
+id="fr_180"></span>[5](#fn_180.md). Of the rest we have already given
 several examples in the first chapter <span
-id="fr_181"></span>[6](#fn_181). In the "Meeting," or "Coming together"
+id="fr_181"></span>[6](#fn_181.md). In the "Meeting," or "Coming together"
 (*Skhodbishche*), a number of girls go out into the meadows, where they
 are met by "the arrived ones"--the game belonging to the season at which
 the young men arrive in the villages after their winter sojourn in the
@@ -1224,7 +1224,7 @@ To take part in the games,
     Ah! Don, *etc*.
 
 Eventually the song and game resolve themselves into those already
-described (at [p. 8](srp04.htm#page_8)), under the title of "The Murman
+described (at [p. 8](srp04.htm#page_8).md), under the title of "The Murman
 Cap."
 
 <span id="page_226">p. 226</span>
@@ -1251,7 +1251,7 @@ A pelisse of fox's skin will I bring out!
 I will give, I will give it  
 To my harsh mother-in-law!  
 Be thou kind, be thou kind,--  
-Like unto my own mother dear <span id="fr_182"></span>[7](#fn_182)!
+Like unto my own mother dear <span id="fr_182"></span>[7](#fn_182.md)!
 
 In some of the songs which are now sung by the children only, but which
 used not to be confined to them alone, the rains which play so important
@@ -1395,7 +1395,7 @@ And having taken the golden keys,
 Has unlocked the moist earth,  
 Having scattered the clinging dew  
 Over White-Russia and all the world <span
-id="fr_183"></span>[8](#fn_183).
+id="fr_183"></span>[8](#fn_183.md).
 
 In Moravia they "meet the Spring " with the following song:--
 
@@ -1431,7 +1431,7 @@ bald-headed and goat-footed races, and who slept away six months of the
 year at a stretch--a story which Heeren supposed to have referred to the
 length of the Polar night, and which has also been explained as meaning
 that there were people who "lived indoors in comparative darkness half
-the year <span id="fr_184"></span>[9](#fn_184)."
+the year <span id="fr_184"></span>[9](#fn_184.md)."
 
 The mythical character of Yegory the Brave becomes very apparent in some
 of the poems about him which have been preserved among the people by
@@ -1458,7 +1458,7 @@ which are crushed beneath his mace, or pierced by the shafts of his
 lightning. For a time the demon of wintry storms may hide the sun,
 keeping him, as it were, imprisoned, but the spring comes, the sunlight
 bursts out again in all its glory, and the thunder-god once more goes
-forth conquering and to conquer <span id="fr_185"></span>[1](#fn_185).
+forth conquering and to conquer <span id="fr_185"></span>[1](#fn_185.md).
 
 On the Thursday of the seventh week after Easter is held the feast
 called Semík (from *sem* = seven). In heathen times a number of rites
@@ -1541,7 +1541,7 @@ I will stand on the steep bank,
 I will throw my wreath on the waters:  
 I will go afar off and see,  
 Whether sinks, or sinks not,  
-My wreath in the waters <span id="fr_186"></span>[2](#fn_186). . . .
+My wreath in the waters <span id="fr_186"></span>[2](#fn_186.md). . . .
 
 If the wreath swims steadily, without running ashore, its late wearer
 will marry happily and live long; if it circles around one spot, there
@@ -1555,7 +1555,7 @@ refer to a contest between two apparently mythical personages, and two
 mythical names are mentioned in them--those of Lado and of Tur. About
 Tur very little is known, but there seem to be reasonable grounds for
 identifying him with Perun or with Freyr <span
-id="fr_187"></span>[3](#fn_187). Lado, or Did-Lado.
+id="fr_187"></span>[3](#fn_187.md). Lado, or Did-Lado.
 
 <span id="page_237">p. 237</span>
 
@@ -1593,7 +1593,7 @@ Hid his face in his hands,
 Dropped burning tears.  
 His grief he did not dare  
 To good people to tell.  
-Oi, Tur! Did! Lado! to tell <span id="fr_188"></span>[4](#fn_188).
+Oi, Tur! Did! Lado! to tell <span id="fr_188"></span>[4](#fn_188.md).
 
 <span id="page_238">p. 238</span>
 
@@ -1681,7 +1681,7 @@ grass as a sacrifice to evil spirits, after which they wove wreaths out
 of it with which they adorned their heads, and then they lighted fires
 and "sang Satanic songs, and danced, and the Devil danced for joy with
 them, and they prayed to him and magnified him, and forgot God <span
-id="fr_189"></span>[5](#fn_189)." This picking
+id="fr_189"></span>[5](#fn_189.md)." This picking
 
 <span id="page_241">p. 241</span>
 
@@ -1732,7 +1732,7 @@ forth specially bright and dazzling rays. In Lithuania it is supposed
 that on that day the Sun, a female being, goes forth from her chamber in
 a car drawn by three horses--golden, silver, and diamond--to meet her
 spouse the Moon, and on her way she dances and emits fiery sparks <span
-id="fr_190"></span>[6](#fn_190). The Servians assert that the sun stands
+id="fr_190"></span>[6](#fn_190.md). The Servians assert that the sun stands
 still three times on St. John's Day, and they account for its apparent
 pause at the time of the summer solstice by the fear which seizes on it
 at the thought of its downward career towards winter. The mixture of
@@ -1757,9 +1757,9 @@ ceremonies.
 The custom of rolling a blazing wheel on St. John's Day, "to signify
 that the sun ascends at that time to the summit of his circle, and
 immediately begins to descend again <span
-id="fr_191"></span>[7](#fn_191)," common to so many lands, is observed
+id="fr_191"></span>[7](#fn_191.md)," common to so many lands, is observed
 also in some of the Slavonic countries--Croatia, Carinthia, and
-Galicia <span id="fr_192"></span>[8](#fn_192). To the same festival in
+Galicia <span id="fr_192"></span>[8](#fn_192.md). To the same festival in
 all probability belonged in olden days the decidedly heathenish rites
 which in modern times have been celebrated either in the week after
 Whitsuntide, or on the Sunday after St. Peter's Day, June 29. The
@@ -1844,7 +1844,7 @@ Thy nest will not be woven,
 Thy young ones will not be bred:  
 They will not fly through the oak forest,  
 Nor peck the spring wheat.  
-Oi Lado! Oi Lado <span id="fr_193"></span>[9](#fn_193).
+Oi Lado! Oi Lado <span id="fr_193"></span>[9](#fn_193.md).
 
 The 29th of July forms, in the popular calendar, the first autumnal
 festival. That day, it is generally
@@ -1871,7 +1871,7 @@ if a man while eating bread lets pieces fall to the ground, they are
 collected by evil spirits, and if the weight of the heap thus formed
 ever becomes greater than that of the slovenly feeder himself, his soul,
 after death, will be forfeited to the devil <span
-id="fr_194"></span>[1](#fn_194). On the other hand, he who shows fitting
+id="fr_194"></span>[1](#fn_194.md). On the other hand, he who shows fitting
 respect to his bread, eating it oven when it is stale and mouldy, such a
 one will not be injured
 
@@ -1934,7 +1934,7 @@ Father and Son.
 When the crops have ripened, the mistress of each household goes out
 afield, bearing bread and salt and the Candlemas taper, and begins to
 reap the harvest. The first sheaf which she gathers is called the
-*Imyaninnik* <span id="fr_195"></span>[2](#fn_195), and is taken home
+*Imyaninnik* <span id="fr_195"></span>[2](#fn_195.md), and is taken home
 and set in the place of honour near the holy pictures; afterwards it
 
 <span id="page_250">p. 250</span>
@@ -1958,7 +1958,7 @@ For the crown of gold is woven.
 
 In some Governments, as in those of Penza and Simbirsk, the last sheaf
 is dressed up in woman's clothes. In White-Russia the harvest-home feast
-is known by the name of Talaka <span id="fr_196"></span>[3](#fn_196), a
+is known by the name of Talaka <span id="fr_196"></span>[3](#fn_196.md), a
 name which is given also to a girl who plays the leading part in it, as
 may be seen from the following song:--
 
@@ -2005,7 +2005,7 @@ consecrated to St. Nicholas. As it is well known that both the Saint and
 the Prophet have succeeded to the place once held in the estimation of
 the Russian people by Perun, it seems probable that Volos really was, in
 ancient times, one of the names of the thunder-god <span
-id="fr_197"></span>[4](#fn_197).
+id="fr_197"></span>[4](#fn_197.md).
 
 Volos in olden times was known as the God of Cattle, and in that
 capacity he, together with Perun, is appealed to in the oath by which
@@ -2054,7 +2054,7 @@ Day, and accordingly it held that
 <span id="page_254">p. 254</span>
 
 position, as has already been stated, until the year 1700 <span
-id="fr_198"></span>[5](#fn_198).
+id="fr_198"></span>[5](#fn_198.md).
 
 The first week of September bears the name of *Seminskaya Nedyela* or
 Simeon's Week, and it is also known as the *Bab'e Lyeto* or Woman's
@@ -2085,9 +2085,9 @@ swallows are supposed to hide or bury themselves in wells. It is also
 set aside for a very singular funeral ceremony performed by the girls in
 many parts of Russia. They make small coffins of turnips and other
 vegetables, enclose flies and other insects in them, and then bury them
-with a great show of mourning <span id="fr_199"></span>[6](#fn_199). An
+with a great show of mourning <span id="fr_199"></span>[6](#fn_199.md). An
 equally strange custom is the expulsion of tarakans <span
-id="fr_200"></span>[7](#fn_200), which takes place on the eve of St.
+id="fr_200"></span>[7](#fn_200.md), which takes place on the eve of St.
 Philip's Fast, when a thread is fastened to one of these obtrusive
 insects, and all the inmates of a cottage, with closed lips, unite in
 drawing it out of doors. While the "expulsion" is going on, one of the
@@ -2137,7 +2137,7 @@ For that beer shall we stand up again,
 On account of that beer shall we all clap our hands.  
 With that beer shall we all become drunken,  
 Now on account of that beer shall we all take to quarrelling <span
-id="fr_201"></span>[8](#fn_201).
+id="fr_201"></span>[8](#fn_201.md).
 
 <span id="page_257">p. 257</span>
 
@@ -2145,7 +2145,7 @@ With September begins also the threshing-season, The day on which a
 farmer begins to thresh his corn is looked upon, in many parts of
 Russia, as the name-day of his *ovín*. \[The word, which is closely
 connected with the German *Ofen* and our oven <span
-id="fr_202"></span>[9](#fn_202), means the corn-kiln, or place in which
+id="fr_202"></span>[9](#fn_202.md), means the corn-kiln, or place in which
 the corn is dried before being submitted to the flail\]. On the
 preceding evening he begins to heat the *ovin*, and next morning he
 calls together the threshers, and regales them with kasha. After the
@@ -2210,7 +2210,7 @@ Clung to the posts of the door.
 Oaken door-post of mine,  
 Hold me up, the drunken woman,  
 The drunken woman, the tipsy rogue <span
-id="fr_203"></span>[1](#fn_203).
+id="fr_203"></span>[1](#fn_203.md).
 
 The 8th of September, in the year 1380, was a memorable day for Russia,
 for on it the great victory was gained at Kulikovo by Dmitry Donskoi
@@ -2262,192 +2262,192 @@ to show.
 
 ### Footnotes
 
-<span id="fn_140"></span>[186:1](srp08.htm#fr_140) The Croatian verb,
+<span id="fn_140"></span>[186:1](srp08.htm#fr_140.md) The Croatian verb,
 *Kolyadovati*, means "to offer a sacrifice," but the word *Koleda*, as
 used by the Tver peasants, stands for "the daily dole of alms to the
 poor." In Croatia the word has retained its old heathen associations: in
 the Russian provinces it has yielded to the influence of Christianity.
 See Schöpping, *R. N.* p. 13.
 
-<span id="fn_141"></span>[188:2](srp08.htm#fr_141) Tereshchenko, VII.
+<span id="fn_141"></span>[188:2](srp08.htm#fr_141.md) Tereshchenko, VII.
 56.
 
-<span id="fn_142"></span>[190:3](srp08.htm#fr_142) Sakharof, I. iii. 22.
+<span id="fn_142"></span>[190:3](srp08.htm#fr_142.md) Sakharof, I. iii. 22.
 
-<span id="fn_143"></span>[190:4](srp08.htm#fr_143) Sakharof, I. iii 22.
+<span id="fn_143"></span>[190:4](srp08.htm#fr_143.md) Sakharof, I. iii 22.
 
-<span id="fn_144"></span>[190:5](srp08.htm#fr_144) The Little-Russian or
+<span id="fn_144"></span>[190:5](srp08.htm#fr_144.md) The Little-Russian or
 Polish equivalent for the Great-Russian *Gospodin*, the German *Herr*,
 the French *Monsieur*, etc.
 
-<span id="fn_145"></span>[191:6](srp08.htm#fr_145) Afanasief, P. V. S.
+<span id="fn_145"></span>[191:6](srp08.htm#fr_145.md) Afanasief, P. V. S.
 III. 757.
 
-<span id="fn_146"></span>[192:7](srp08.htm#fr_146) Literally "the fiery
+<span id="fn_146"></span>[192:7](srp08.htm#fr_146.md) Literally "the fiery
 or inflammable stone," the epithet being in general purely conventional.
 
-<span id="fn_147"></span>[192:8](srp08.htm#fr_147) Snegiref, R. P. P.
+<span id="fn_147"></span>[192:8](srp08.htm#fr_147.md) Snegiref, R. P. P.
 II. 68.
 
-<span id="fn_148"></span>[193:9](srp08.htm#fr_148) See Schöpping, *R.
+<span id="fn_148"></span>[193:9](srp08.htm#fr_148.md) See Schöpping, *R.
 N.* p. 10. He says that the names *Kolyada* and *Kupalo* were not
 unfrequently confused, and that the latter feast to this day bears the
 name of the former in Dalmatia.
 
-<span id="fn_149"></span>[194:1](srp08.htm#fr_149) Afanasief, P. V. S.
+<span id="fn_149"></span>[194:1](srp08.htm#fr_149.md) Afanasief, P. V. S.
 III. 758.
 
-<span id="fn_150"></span>[195:2](srp08.htm#fr_150) Afanasief, P. V. S.
+<span id="fn_150"></span>[195:2](srp08.htm#fr_150.md) Afanasief, P. V. S.
 II. 466.
 
-<span id="fn_151"></span>[197:3](srp08.htm#fr_151) Snegiref, R. P. P.
+<span id="fn_151"></span>[197:3](srp08.htm#fr_151.md) Snegiref, R. P. P.
 III. 8. Tereshchenko (VII. 150) says that the songs derived their name
 from the fact of their being sung at table during a meal.
 
-<span id="fn_152"></span>[198:4](srp08.htm#fr_152) Sakharof, I. iii. 11.
+<span id="fn_152"></span>[198:4](srp08.htm#fr_152.md) Sakharof, I. iii. 11.
 
-<span id="fn_153"></span>[199:5](srp08.htm#fr_153) Sakharof, I. iii. 12.
+<span id="fn_153"></span>[199:5](srp08.htm#fr_153.md) Sakharof, I. iii. 12.
 
-<span id="fn_154"></span>[199:6](srp08.htm#fr_154) Afanasief, P. V. S.
+<span id="fn_154"></span>[199:6](srp08.htm#fr_154.md) Afanasief, P. V. S.
 I. 561.
 
-<span id="fn_155"></span>[200:7](srp08.htm#fr_155) Sakharof, I. iii. 11.
+<span id="fn_155"></span>[200:7](srp08.htm#fr_155.md) Sakharof, I. iii. 11.
 
-<span id="fn_156"></span>[200:8](srp08.htm#fr_156) Sakharof, I. iii. 21.
+<span id="fn_156"></span>[200:8](srp08.htm#fr_156.md) Sakharof, I. iii. 21.
 There are many variants of the song, but they do not differ materially.
 
-<span id="fn_157"></span>[201:9](srp08.htm#fr_157) Afanasief, P. V. S.
+<span id="fn_157"></span>[201:9](srp08.htm#fr_157.md) Afanasief, P. V. S.
 III. 741.
 
-<span id="fn_158"></span>[202:1](srp08.htm#fr_158) This name (pronounced
+<span id="fn_158"></span>[202:1](srp08.htm#fr_158.md) This name (pronounced
 *avsén*) is derived by some writers from *Oves* (pronounced *av-yós*),
 oats, and connected by others with *Vesná*, Spring. The Feast of Ovsén
 was originally on the first of March.
 
-<span id="fn_159"></span>[203:2](srp08.htm#fr_159) Snegiref, R. P. P.
+<span id="fn_159"></span>[203:2](srp08.htm#fr_159.md) Snegiref, R. P. P.
 II. 111.
 
-<span id="fn_160"></span>[203:3](srp08.htm#fr_160) Grimm, D. M. 194.
+<span id="fn_160"></span>[203:3](srp08.htm#fr_160.md) Grimm, D. M. 194.
 
-<span id="fn_161"></span>[204:4](srp08.htm#fr_161) Tereshchenko, VII.
+<span id="fn_161"></span>[204:4](srp08.htm#fr_161.md) Tereshchenko, VII.
 90.
 
-<span id="fn_162"></span>[204:5](srp08.htm#fr_162) Tereshchenko, VII.
+<span id="fn_162"></span>[204:5](srp08.htm#fr_162.md) Tereshchenko, VII.
 123. The refrain occurs in the original at the end of almost every line.
 
-<span id="fn_163"></span>[205:6](srp08.htm#fr_163) Orest Miller,
+<span id="fn_163"></span>[205:6](srp08.htm#fr_163.md) Orest Miller,
 *Opuit*, etc. I. 52.
 
-<span id="fn_164"></span>[206:7](srp08.htm#fr_164) O. Miller, *Chrest*.
+<span id="fn_164"></span>[206:7](srp08.htm#fr_164.md) O. Miller, *Chrest*.
 I. 5.
 
-<span id="fn_165"></span>[207:8](srp08.htm#fr_165) Tereshchenko, VII.
+<span id="fn_165"></span>[207:8](srp08.htm#fr_165.md) Tereshchenko, VII.
 109.
 
-<span id="fn_166"></span>[207:9](srp08.htm#fr_166) The *Svat* (or
+<span id="fn_166"></span>[207:9](srp08.htm#fr_166.md) The *Svat* (or
 *Svakha*) is the man (or woman) who proposes or arranges a marriage in
 Russia.
 
-<span id="fn_167"></span>[209:1](srp08.htm#fr_167) Snegiref, R. P. P.
+<span id="fn_167"></span>[209:1](srp08.htm#fr_167.md) Snegiref, R. P. P.
 II. 132.
 
-<span id="fn_168"></span>[213:2](srp08.htm#fr_168) Tereshchenko, V. 11.
+<span id="fn_168"></span>[213:2](srp08.htm#fr_168.md) Tereshchenko, V. 11.
 
-<span id="fn_169"></span>[214:3](srp08.htm#fr_169) Grimm, D. M. 723.
+<span id="fn_169"></span>[214:3](srp08.htm#fr_169.md) Grimm, D. M. 723.
 
-<span id="fn_170"></span>[214:4](srp08.htm#fr_170) Pages 97-101. See
+<span id="fn_170"></span>[214:4](srp08.htm#fr_170.md) Pages 97-101. See
 also Grimm, D. M. 1088.
 
-<span id="fn_171"></span>[215:5](srp08.htm#fr_172) *Dugi*. The arch
+<span id="fn_171"></span>[215:5](srp08.htm#fr_172.md) *Dugi*. The arch
 springing from the shafts of a Russian cart or carriage, above the head
 of the draught-horse, is called a *Duga*.
 
-<span id="fn_172"></span>[215:6](srp08.htm#fr_171) The word *Kuma*, dim.
+<span id="fn_172"></span>[215:6](srp08.htm#fr_171.md) The word *Kuma*, dim.
 *Kumashka*, is the French *Commère*, Scotch "Cummer," our own "Gossip,"
 originally a connexion by common godmothership.
 
-<span id="fn_173"></span>[216:7](srp08.htm#fr_173) Afanasief, P. V. S.
+<span id="fn_173"></span>[216:7](srp08.htm#fr_173.md) Afanasief, P. V. S.
 III. 226-228. Tereshchenko, V. 41.
 
-<span id="fn_174"></span>[216:8](srp08.htm#fr_174) See *supra*, chap.
-II. [p. 144](srp06.htm#page_144).
+<span id="fn_174"></span>[216:8](srp08.htm#fr_174.md) See *supra*, chap.
+II. [p. 144](srp06.htm#page_144.md).
 
-<span id="fn_175"></span>[217:9](srp08.htm#fr_175) Afanasief, P. V. S.
+<span id="fn_175"></span>[217:9](srp08.htm#fr_175.md) Afanasief, P. V. S.
 III. 229.
 
-<span id="fn_176"></span>[218:1](srp08.htm#fr_176) Tereshchenko, V.
+<span id="fn_176"></span>[218:1](srp08.htm#fr_176.md) Tereshchenko, V.
 45-49.
 
-<span id="fn_177"></span>[219:2](srp08.htm#fr_177) *Opuit*, etc. I. 48.
+<span id="fn_177"></span>[219:2](srp08.htm#fr_177.md) *Opuit*, etc. I. 48.
 
-<span id="fn_178"></span>[221:3](srp08.htm#fr_178) Grimm, D. M. 268.
+<span id="fn_178"></span>[221:3](srp08.htm#fr_178.md) Grimm, D. M. 268.
 
-<span id="fn_179"></span>[222:4](srp08.htm#fr_179) Tereshchenko, V. 17.
+<span id="fn_179"></span>[222:4](srp08.htm#fr_179.md) Tereshchenko, V. 17.
 For further information on this subject see *infra*, pp.
-[310](srp10.htm#page_310)-313.
+[310](srp10.htm#page_310.md)-313.
 
-<span id="fn_180"></span>[224:5](srp08.htm#fr_180) See *infra*, [p.
-283](srp09.htm#page_283).
+<span id="fn_180"></span>[224:5](srp08.htm#fr_180.md) See *infra*, [p.
+283](srp09.htm#page_283.md).
 
-<span id="fn_181"></span>[224:6](srp08.htm#fr_181) See pp.
-[8](srp04.htm#page_8)-10.
+<span id="fn_181"></span>[224:6](srp08.htm#fr_181.md) See pp.
+[8](srp04.htm#page_8.md)-10.
 
-<span id="fn_182"></span>[226:7](srp08.htm#fr_182) Snegiref, R. P. P.
+<span id="fn_182"></span>[226:7](srp08.htm#fr_182.md) Snegiref, R. P. P.
 III. 37-46.
 
-<span id="fn_183"></span>[231:8](srp08.htm#fr_183) Afanasief, P. V. S.
+<span id="fn_183"></span>[231:8](srp08.htm#fr_183.md) Afanasief, P. V. S.
 II. 402.
 
-<span id="fn_184"></span>[232:9](srp08.htm#fr_184) See Rawlinson's
+<span id="fn_184"></span>[232:9](srp08.htm#fr_184.md) See Rawlinson's
 Herodotus, III. 172.
 
-<span id="fn_185"></span>[233:1](srp08.htm#fr_185) Afanasief, P. V. S.
+<span id="fn_185"></span>[233:1](srp08.htm#fr_185.md) Afanasief, P. V. S.
 I. 699-704. It should, however, be stated that the above-mentioned
 legend about Yegory has been preserved in certain poems, which some
 critics assert to be of a different origin from that of the songs to
 which the present chapter is mainly devoted. The question will be
 discussed on another occasion.
 
-<span id="fn_186"></span>[236:2](srp08.htm#fr_186) Tereshchenko, VI.
+<span id="fn_186"></span>[236:2](srp08.htm#fr_186.md) Tereshchenko, VI.
 169.
 
-<span id="fn_187"></span>[236:3](srp08.htm#fr_187) See Afanasief, P. V.
+<span id="fn_187"></span>[236:3](srp08.htm#fr_187.md) See Afanasief, P. V.
 S. I. 662, 663. The word *tur* (cf. *taurus*) means an aurochs or bison.
 
-<span id="fn_188"></span>[237:4](srp08.htm#fr_188) Snegiref, R. P. P.
+<span id="fn_188"></span>[237:4](srp08.htm#fr_188.md) Snegiref, R. P. P.
 III. 124.
 
-<span id="fn_189"></span>[240:5](srp08.htm#fr_189) Tereshchenko, V. 59.
+<span id="fn_189"></span>[240:5](srp08.htm#fr_189.md) Tereshchenko, V. 59.
 
-<span id="fn_190"></span>[242:6](srp08.htm#fr_190) Tereshchenko, V. 75.
+<span id="fn_190"></span>[242:6](srp08.htm#fr_190.md) Tereshchenko, V. 75.
 
-<span id="fn_191"></span>[243:7](srp08.htm#fr_191) Quoted by Kemble from
+<span id="fn_191"></span>[243:7](srp08.htm#fr_191.md) Quoted by Kemble from
 a mediæval MS. See Kelly's "Curiosities of Indo-European Tradition and
 Folk-lore," p. 58, where a full account is given of similar customs in
 other countries.
 
-<span id="fn_192"></span>[243:8](srp08.htm#fr_192) Grimm, *Deutsche
+<span id="fn_192"></span>[243:8](srp08.htm#fr_192.md) Grimm, *Deutsche
 Mythologie*, 590.
 
-<span id="fn_193"></span>[246:9](srp08.htm#fr_193) Snegiref, R. P. P.
+<span id="fn_193"></span>[246:9](srp08.htm#fr_193.md) Snegiref, R. P. P.
 IV. 67. *Kurgán* is a non-Slavonic word for a tumulus. The *Ivolga*, or
 Oriole, being golden-plumaged, may have been classed among the
 fire-bringing birds.
 
-<span id="fn_194"></span>[247:1](srp08.htm#fr_194) Afanasief, P. V. S.
+<span id="fn_194"></span>[247:1](srp08.htm#fr_194.md) Afanasief, P. V. S.
 III. 763. A number of similar Bohemian traditions are given by Grohmann
 in his *Aberglauben und Gebräuche am Böhmen* etc. pp. 102-104.
 
-<span id="fn_195"></span>[249:2](srp08.htm#fr_195) Imya =name; Imyanínui
+<span id="fn_195"></span>[249:2](srp08.htm#fr_195.md) Imya =name; Imyanínui
 = name-day, day consecrated to the saint after whom a person is named.
 Imyanínnik, one who celebrates his name-day.
 
-<span id="fn_196"></span>[250:3](srp08.htm#fr_196) Toloká in some parts
+<span id="fn_196"></span>[250:3](srp08.htm#fr_196.md) Toloká in some parts
 of Russia means the gathering of the hay or corn harvest by the united
 labour of a man's neighbours, and Tolók is a threshing-floor, or a
 corn-field left to lie fallow.
 
-<span id="fn_197"></span>[252:4](srp08.htm#fr_197) For a similar custom,
+<span id="fn_197"></span>[252:4](srp08.htm#fr_197.md) For a similar custom,
 anciently observed in Mecklenburg in honour of Woden, see Grimm's
 *Deutsche Mythologie*, p. 141. Dr. Mannhardt in an article recently
 published (in Russian) by the Moscow Archæological Society, suggests
@@ -2456,30 +2456,30 @@ Assyrian fashion, and adduces in support of his suggestion the testimony
 of an urn found in a Wendish tomb near Dantzic in 1855, on which is
 represented the face of a man with a barred or chequered beard.
 
-<span id="fn_198"></span>[254:5](srp08.htm#fr_198) Tereshchenko, III.
-10. See *supra*, [p. 203](#page_203).
+<span id="fn_198"></span>[254:5](srp08.htm#fr_198.md) Tereshchenko, III.
+10. See *supra*, [p. 203](#page_203.md).
 
-<span id="fn_199"></span>[255:6](srp08.htm#fr_199) It has been already
+<span id="fn_199"></span>[255:6](srp08.htm#fr_199.md) It has been already
 mentioned that the soul was often represented by the heathen Slavonians
 as a fly, gnat, or other insect. See *supra*, [p.
-118](srp06.htm#page_118).
+118](srp06.htm#page_118.md).
 
-<span id="fn_200"></span>[255:7](srp08.htm#fr_200) The Tarakans are a
+<span id="fn_200"></span>[255:7](srp08.htm#fr_200.md) The Tarakans are a
 kind of cockroaches. They must not be confounded with some other insects
 of a sturdy nature, and not easily to be expelled, or in any way
 subdued, which the people call *Prusáki* or "Prussians."
 
-<span id="fn_201"></span>[256:8](srp08.htm#fr_201) Tereshchenko, V. 146.
+<span id="fn_201"></span>[256:8](srp08.htm#fr_201.md) Tereshchenko, V. 146.
 
-<span id="fn_202"></span>[257:9](srp08.htm#fr_202) Ulfidas translates
+<span id="fn_202"></span>[257:9](srp08.htm#fr_202.md) Ulfidas translates
 the Greek κλίβανος by *Auhns*, in Matt. VI. 30, where our version has
-"cast into the oven." The [Slavonic](errata.htm#2) equivalent used in
+"cast into the oven." The [Slavonic](errata.htm#2.md) equivalent used in
 the Ostromir Gospel (A.D. 1056-7) is *peshch*, the modern *pech*, a
 stove.
 
-<span id="fn_203"></span>[259:1](srp08.htm#fr_203) Tereshchenko, V.
+<span id="fn_203"></span>[259:1](srp08.htm#fr_203.md) Tereshchenko, V.
 149-152.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Marriage Songs](srp09)
+[Next: Chapter IV: Marriage Songs](srp09.md)

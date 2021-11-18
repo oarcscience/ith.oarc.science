@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-08tx) [Next](dob-09tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-08tx) [Next](dob-09tx.md)
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ these priestly manuals by no means exhaust the list of speculations
 about the soul that must have been current in India when Buddhism arose,
 and when our Sutta was composed. There were almost certainly other
 views, allied to one or other of the thirty-two theories controverted
-above ([pp. 44, 45](dob-01tx.htm#p.%2044)), A careful search would no
+above ([pp. 44, 45](dob-01tx.htm#p.%2044).md), A careful search would no
 doubt reveal passages, even in the later priestly literature itself,
 acknowledging views which do not happen to be referred to in the
 Upanishads, but which bear the stamp of great antiquity--such passages
@@ -126,4 +126,4 @@ Lectures,' pp. 64, 65.}</span>
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: IX. Po*tth*apâda Sutta](dob-09tx)
+[Return to top](#top)   [Next: IX. Po*tth*apâda Sutta](dob-09tx.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil08)  [Next](wil10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil08)  [Next](wil10.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ something of opera, sermon, and literature all in one.
 
 Ever since the commencement of our era the Hindu people have possessed
 in their present forms two great poems, the Mahabharata and the
-Ramayana. <span id="fr_9"></span>[\*](#fn_9) The first of these is their
+Ramayana. <span id="fr_9"></span>[\*](#fn_9.md) The first of these is their
 Wars of Troy, their Heimskringla, their Morte d’Arthur. That is to say,
 it is the book of the Deeds and the Wars of the Heroes. Thanks to the
 long-established culture of the race, and the prestige which all
@@ -685,10 +685,10 @@ or Descent into Purgatory, amongst them all.
 
 ### Footnotes
 
-<span id="fn_9"></span>[98:\*](wil09.htm#fr_9) The theory of the dates
+<span id="fn_9"></span>[98:\*](wil09.htm#fr_9.md) The theory of the dates
 of the Mahabharata and Ramayana put forward in this chapter is that of
 Mr. Romesh Chunder Dutt.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Noblesse Oblige: A Study of Indian Caste](wil10)
+[Next: Chapter VIII. Noblesse Oblige: A Study of Indian Caste](wil10.md)

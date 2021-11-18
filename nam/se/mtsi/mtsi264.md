@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi263)  [Next](mtsi265) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi263)  [Next](mtsi265.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ things be given to him. They let him have all.
 
 ------------------------------------------------------------------------
 
-[Next: 65. Money-Spitter](mtsi265)
+[Next: 65. Money-Spitter](mtsi265.md)

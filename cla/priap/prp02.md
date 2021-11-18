@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp01)  [Next](prp03) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp01)  [Next](prp03.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ I put it? Mine is a dull brain.
 
 ------------------------------------------------------------------------
 
-[Next: 3. These tablets, sacred to the Rigid God](prp03)
+[Next: 3. These tablets, sacred to the Rigid God](prp03.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod13)  [Next](hod15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod13)  [Next](hod15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ remained victorious and built a Teutonic empire upon the debris of Rome.
 
 <span id="img_24200"></span> <span align="CENTER"> [![HEL, THE GODDESS
 OF THE NETHER WORLD. (By Johannes Gehrts.)](tn/generic.jpg)  
-Click to view](img/24200.jpg)  
+Click to view](img/24200.jpg.md)  
 HEL, THE GODDESS OF THE NETHER WORLD. (By Johannes Gehrts.)  
 </span>
 
@@ -79,7 +79,7 @@ earthquakes.
 
 <span id="img_24400"></span> <span align="CENTER"> [![RAGNAROK, OR THE
 DOOMSDAY OF THE TEUTONS (By Johannes Gehrts.)](tn/generic.jpg)  
-Click to view](img/24400.jpg)  
+Click to view](img/24400.jpg.md)  
 RAGNAROK, OR THE DOOMSDAY OF THE TEUTONS (By Johannes Gehrts.)  
 </span>
 
@@ -143,7 +143,7 @@ hunter."
 
 Dr. Ernst Krause, who is best known under his *nom de plume* of Carus
 Sterne, has undertaken the work of proving the Northern influence upon
-Southern fairy tales and legends. <span id="fr_121"></span>[1](#fn_120)
+Southern fairy tales and legends. <span id="fr_121"></span>[1](#fn_120.md)
 He finds that all the myths which symbolise the death and resurrection
 of the sun, giving
 
@@ -165,7 +165,7 @@ Dr. Krause proceeds to prove that the conception of hell as depicted in
 Dante's *Divina Comedia*, which may be regarded as the classical
 conception of Roman Catholic Christianity, is in all its essential
 elements the product of a Northern imagination. <span
-id="fr_122"></span>[1](#fn_121) Dante followed closely Teutonic
+id="fr_122"></span>[1](#fn_121.md) Dante followed closely Teutonic
 traditions, which in his time had become a common possession in the
 Christian world through the writings of Saxo Grammaticus, Beda
 Venerabilis, Albericus, Caedmon, Caesarius of Heisterbach, and others.
@@ -187,7 +187,7 @@ Owain's descent into St. Patrick's Purgatory
 
 <span id="img_24800"></span> <span align="CENTER"> [![DANTE'S ICE HELL.
 (By Gustave Doré.)](tn/generic.jpg)  
-Click to view](img/24800.jpg)  
+Click to view](img/24800.jpg.md)  
 DANTE'S ICE HELL. (By Gustave Doré.)  
 </span>
 
@@ -254,7 +254,7 @@ The parades of giant families which form an important feature of Dutch
 and Flemish carnivals may be a relic of older customs representing
 visits of the lords of the ground collecting their rents, which is given
 in refreshments while the people sing the giant-song <span
-id="fr_123"></span>[1](#fn_122) with the refrain:
+id="fr_123"></span>[1](#fn_122.md) with the refrain:
 
 <div style="margin-left: 32px">
 
@@ -274,7 +274,7 @@ of the debt due to the powerful and evil-minded landlords, the owners of
 the soil. And this notion resulted in the superstition of burying alive
 either human beings or animals, a practice which at a certain stage of
 civilisation probably was all but universal and received even the
-sanction of the God of Israel. <span id="fr_124"></span>[1](#fn_123)
+sanction of the God of Israel. <span id="fr_124"></span>[1](#fn_123.md)
 
 Grimm says (*Mythology*, p. 109):
 
@@ -348,11 +348,11 @@ would take the upper or the lower half. When the Devil chose the lower
 half, the farmer planted wheat, and when the upper half, he planted
 turnips, leaving him now the stubble and now the useless turnip tops.
 Whichever way the Devil turned he was outwitted. <span
-id="fr_125"></span>[1](#fn_124)
+id="fr_125"></span>[1](#fn_124.md)
 
 The story came in its migration south to Arabia, where it was discovered
 by Friedrich Rückert, who retold it in his poem "The Devil
-Outwitted," <span id="fr_126"></span>[2](#fn_125) which Mr. E.
+Outwitted," <span id="fr_126"></span>[2](#fn_125.md) which Mr. E.
 
 <span id="page_254">p. 254</span>
 
@@ -391,11 +391,11 @@ The Devil took the stubbles bare
 
 There are innumerable other legends of stupid devils. A miller of the
 Devil-mill in Kleinbautzen tied the Devil to the water-wheel. <span
-id="fr_127"></span>[1](#fn_126) A smith who for his hospitality once had
+id="fr_127"></span>[1](#fn_126.md) A smith who for his hospitality once had
 a wish granted by Christ, bewitched the Devil and placed Lucifer, the
 chief of devils, on his anvil, which frightened him so much that the
 smith, when he died, was not admitted to hell. <span
-id="fr_128"></span>[2](#fn_127) And there is a humorous German folk-song
+id="fr_128"></span>[2](#fn_127.md) And there is a humorous German folk-song
 of a tailor, which begins:
 
 <span id="page_255">p. 255</span>
@@ -418,13 +418,13 @@ tailor utensils in the attempt at dressing
 
 <span id="img_25500"></span> <span align="CENTER"> [![ST. DUNSTAN AND
 THE DEVIL. (Reproduced from Scheible.)](tn/generic.jpg)  
-Click to view](img/25500.jpg)  
+Click to view](img/25500.jpg.md)  
 ST. DUNSTAN AND THE DEVIL. (Reproduced from Scheible.)  
 </span>
 
 them, and they swore that they would never again allow a tailor to come
 near them, even though he might have stolen ever so much cloth. <span
-id="fr_129"></span>[1](#fn_128)
+id="fr_129"></span>[1](#fn_128.md)
 
 Another comical story is told of Dunstan, abbot of Glaston, later
 archbishop of Canterbury. While busily
@@ -479,7 +479,7 @@ While the Demons all set up a 'Hip! hip! hurray!'
 <span id="img_25700"></span> <span align="CENTER"> [![THE LEGEND OF ST.
 CUTHBERT. (From the &lt;i&gt;Ingoldsby
 Legends&lt;/i&gt;.)](tn/generic.jpg)  
-Click to view](img/25700.jpg)  
+Click to view](img/25700.jpg.md)  
 THE LEGEND OF ST. CUTHBERT. (From the *Ingoldsby Legends*.)  
 </span>
 
@@ -504,7 +504,7 @@ bag open, whereupon Old Nick's prisoners escaped.
 <span id="img_25800"></span> <span align="CENTER"> [![THE LEGEND OF ST.
 MEDARD. (From the &lt;i&gt;Ingoldsby
 Legends&lt;/i&gt;.)](tn/generic.jpg)  
-Click to view](img/25800.jpg)  
+Click to view](img/25800.jpg.md)  
 THE LEGEND OF ST. MEDARD. (From the *Ingoldsby Legends*.)  
 </span>
 
@@ -564,7 +564,7 @@ the condition that the soul of the first living creature that crossed it
 should be forfeited. When the work was finished the lad drove a chamois
 over the bridge, which, seeing that he was cheated out of the price he
 had expected, the Devil wrathfully tore into pieces. <span
-id="fr_130"></span>[1](#fn_129)
+id="fr_130"></span>[1](#fn_129.md)
 
 <span id="page_260">p. 260</span>
 
@@ -574,7 +574,7 @@ church doctrines of sin
 
 <span id="img_26000"></span> <span align="CENTER"> [![THE DEVIL'S BRIDGE
 OVER THE REUSS.](tn/generic.jpg)  
-Click to view](img/26000.jpg)  
+Click to view](img/26000.jpg.md)  
 THE DEVIL'S BRIDGE OVER THE REUSS.  
 </span>
 
@@ -614,33 +614,33 @@ may now be called the idea of salvation through sacrifice.
 
 ### Footnotes
 
-<span id="fn_120"></span>[246:1](hod14.htm#fr_121) *Die Trojaburgen
+<span id="fn_120"></span>[246:1](hod14.htm#fr_121.md) *Die Trojaburgen
 Nord-Europas*. Glogau, Carl Flemming, 1893.
 
-<span id="fn_121"></span>[247:1](hod14.htm#fr_122) Vossische Zeitung,
+<span id="fn_121"></span>[247:1](hod14.htm#fr_122.md) Vossische Zeitung,
 1896, Feb. 2, 9, 10; Sonntagsbeilagen.
 
-<span id="fn_122"></span>[250:1](hod14.htm#fr_123) *Floegel's Geschichte
+<span id="fn_122"></span>[250:1](hod14.htm#fr_123.md) *Floegel's Geschichte
 des Grotesk-Komischen*, by Ebeling, p. 286, quotes the giant-song as
 sung in Ypern.
 
-<span id="fn_123"></span>[251:1](hod14.htm#fr_124) I Book of Kings, xvi.
+<span id="fn_123"></span>[251:1](hod14.htm#fr_124.md) I Book of Kings, xvi.
 34.
 
-<span id="fn_124"></span>[253:1](hod14.htm#fr_125) Grimm, *Märchen*, No.
+<span id="fn_124"></span>[253:1](hod14.htm#fr_125.md) Grimm, *Märchen*, No.
 189. *Deutsche Mythologie*, No. 981. Müllenhoff. No. 377. Thiele,
 Dänische Sagen, No. 122.
 
-<span id="fn_125"></span>[253:2](hod14.htm#fr_126) *Der betrogene
+<span id="fn_125"></span>[253:2](hod14.htm#fr_126.md) *Der betrogene
 Teufel*.
 
-<span id="fn_126"></span>[254:1](hod14.htm#fr_127) Preusker, *Blicke in
+<span id="fn_126"></span>[254:1](hod14.htm#fr_127.md) Preusker, *Blicke in
 die vaterländische Vorzeit*, I., p. 182.
 
-<span id="fn_127"></span>[254:2](hod14.htm#fr_128) Mentioned in Grimm's
+<span id="fn_127"></span>[254:2](hod14.htm#fr_128.md) Mentioned in Grimm's
 *Märchen*.
 
-<span id="fn_128"></span>[255:1](hod14.htm#fr_129) Translated by the
+<span id="fn_128"></span>[255:1](hod14.htm#fr_129.md) Translated by the
 author. The song may be found in various collections of German
 folk-songs. Its first verse runs:
 
@@ -654,9 +654,9 @@ Du musst mit mir zur Höll,
 Du sollst die Teufel kleiden,  
 Es koste was es wöll."
 
-<span id="fn_129"></span>[259:1](hod14.htm#fr_130) Grimm, *Deutsche
+<span id="fn_129"></span>[259:1](hod14.htm#fr_130.md) Grimm, *Deutsche
 Sagen*, 336, and Tobler, *Appenzeller Sprachschatz*, 214.
 
 ------------------------------------------------------------------------
 
-[Next: The Devil's Prime.](hod15)
+[Next: The Devil's Prime.](hod15.md)

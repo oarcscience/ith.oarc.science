@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao21)   
-[Previous](tao20)  [Next](tao22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao21.md)   
+[Previous](tao20)  [Next](tao22.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ simply because of the fertilization by his same vitality called TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 22](tao22)
+[Next: Chapter 22](tao22.md)

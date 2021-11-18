@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](dwf03)  [Next](dwf05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](dwf03)  [Next](dwf05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7C6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7C6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Devil Worship in France*, by A.E. Waite, \[1896\], at Intangible
 Textual Heritage
 
@@ -411,4 +411,4 @@ special and separate treatment.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The First Witnesses of Lucifer](dwf05)
+[Next: Chapter III. The First Witnesses of Lucifer](dwf05.md)

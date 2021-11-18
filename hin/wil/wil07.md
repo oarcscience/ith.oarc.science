@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil06)  [Next](wil08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil06)  [Next](wil08.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ country, the eye learns to look to the grazing-lands in order to gauge
 the prosperity of districts. For in climates which horses support with
 difficulty the patient bullock is the friend of agriculture, and without
 his aid the fields could not be kept under the plough. <span
-id="fr_1"></span>[\*](#fn_1) Thus the Aryan and the cow between them
+id="fr_1"></span>[\*](#fn_1.md) Thus the Aryan and the cow between them
 have made India what she is; and never does the peasant forget the fact.
 Five thousand years of love and gratitude have been sufficient, on the
 other hand, to humanise the quadruped; and the soft eyes of the gentle
@@ -134,7 +134,7 @@ mornings, and to sit for an hour or more before hers
 hanging garlands on her neck, offering flowers at her feet, giving her
 delectable things to eat, and repeating texts and verses full of the
 expression of reverence and gratitude. <span
-id="fr_2"></span>[\*](#fn_2)
+id="fr_2"></span>[\*](#fn_2.md)
 
 And, indeed, there is no end to the household debt. "Milk is the only
 food," said a Hindu, "that is the product of love." Probably for this
@@ -167,7 +167,7 @@ to the national righteousness. The domestic necessities of pastoral, may
 bear less heavily upon her than those of peasant communities, leaving
 her more time for the use of the needle; but in Arabia, as in India, the
 ideal must needs be fulfilled, and "Our Lady of the Moslems" <span
-id="fr_3"></span>[\*](#fn_3) is loved for the fact that, though the
+id="fr_3"></span>[\*](#fn_3.md) is loved for the fact that, though the
 daughter of the Prophet, she turned the millstone with her own delicate
 hands, and toiled in frugal household ways for the good of those
 dependent on her care, almost as much as for the sweet intercession by
@@ -343,7 +343,7 @@ thousands of whom the Rajput chronicles tell. Nay, in the supreme act of
 her life, the mystic death on the throne of flame beside the dead
 Sigurd, many a quiet little Bengali woman has been her peer. Joan of Arc
 was not more a patriot than Chand Bibi, <span
-id="fr_4"></span>[\*](#fn_4) or the wonderful Queen of Jhansi, who, in
+id="fr_4"></span>[\*](#fn_4.md) or the wonderful Queen of Jhansi, who, in
 the year 1857, fought in person with the British troops. The children of
 men who saw it talk to this day of the form of this woman's father
 swinging on the gibbet, high above the city walls, hanged there by her
@@ -655,26 +655,26 @@ nor less than the mission of the Asiatic Life.
 
 ### Footnotes
 
-<span id="fn_1"></span>[58:\*](wil07.htm#fr_1) It is a fundamental law
+<span id="fn_1"></span>[58:\*](wil07.htm#fr_1.md) It is a fundamental law
 of Indian economics, but one little known to present administrators,
 that for every acre of land kept in cultivation, the village should have
 the grant of one acre of grazing land free. The reason and the necessity
 are alike obvious.
 
-<span id="fn_2"></span>[61:\*](wil07.htm#fr_2) I was informed by so
+<span id="fn_2"></span>[61:\*](wil07.htm#fr_2.md) I was informed by so
 authoritative a body as the professors in the Minnesota College of
 Agriculture, U.S.A., that this procedure of the Hindu woman is strictly
 scientific. "The cow is only able to yield her full possibility of milk
 to a milker whom she regards as her own child."
 
-<span id="fn_3"></span>[62:\*](wil07.htm#fr_3) Our Lady of the
+<span id="fn_3"></span>[62:\*](wil07.htm#fr_3.md) Our Lady of the
 Moslems.--Fatima, daughter of the Prophet and Khadijah. The Prophet
 loved her more than any other created being.
 
-<span id="fn_4"></span>[67:\*](wil07.htm#fr_4) Chand Bibi.--The heroic
+<span id="fn_4"></span>[67:\*](wil07.htm#fr_4.md) Chand Bibi.--The heroic
 princess, who defended Ahmednagar against the armies of Akbar. Killed by
 mutineers, 1599.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Immediate Problems of the Oriental Woman](wil08)
+[Next: Chapter VI. The Immediate Problems of the Oriental Woman](wil08.md)

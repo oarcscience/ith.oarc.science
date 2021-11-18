@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc061) 
-[Next](motc063) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc061.md) 
+[Next](motc063.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ killed.
 
 ------------------------------------------------------------------------
 
-[Next: 63. Ûñtsaiyï', The Gambler](motc063)
+[Next: 63. Ûñtsaiyï', The Gambler](motc063.md)

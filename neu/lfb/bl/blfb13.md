@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb12)  [Next](blfb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb12)  [Next](blfb14.md) 
 
 </div>
 
@@ -587,6 +587,6 @@ it up too.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Why the Sea is Salt](blfb14)
+[Next: Why the Sea is Salt](blfb14.md)
 
 </div>

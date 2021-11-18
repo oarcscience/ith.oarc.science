@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar71)  [Next](gar73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar71)  [Next](gar73.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -93,7 +93,7 @@ themselves.
 <span id="page_349">p. 349</span> <span id="page_350">p. 350</span>
 
 <span id="img_35000"></span> <span align="CENTER"> [![](tn/35000.jpg)  
-Click to enlarge](img/35000.jpg)</span>
+Click to enlarge](img/35000.jpg.md)</span>
 
 <span id="page_351">p. 351</span>
 
@@ -182,7 +182,7 @@ The following or some other appropriate ODE may here be sung:
 <span id="img_35400"></span> <span align="CENTER"> [![Music by DE.
 LOWELL MASON, arranged for four voices, by T. S.
 NEDHAM.](tn/35400.jpg)  
-Click to enlarge](img/35400.jpg)  
+Click to enlarge](img/35400.jpg.md)  
 Music by DE. LOWELL MASON, arranged for four voices, by T. S. NEDHAM.  
 </span>
 
@@ -297,7 +297,7 @@ be sung:
 
 <span id="img_35900"></span> <span align="CENTER"> [![Music—Naomi. DR.
 LOWELL MASON.](tn/35900.jpg)  
-Click to enlarge](img/35900.jpg)  
+Click to enlarge](img/35900.jpg.md)  
 Music—Naomi. DR. LOWELL MASON.  
 </span>
 
@@ -579,7 +579,7 @@ will be sung, to music of a more cheerful character:
 
 <span id="img_36900"></span> <span align="CENTER">
 [![Music—Simons.](tn/36900.jpg)  
-Click to enlarge](img/36900.jpg)  
+Click to enlarge](img/36900.jpg.md)  
 Music—Simons.  
 </span>
 
@@ -596,7 +596,7 @@ Living or dying, none were blest.</span>
 
 <span id="img_37000"></span> <span align="CENTER"> [![Music
 cont.](tn/37000.jpg)  
-Click to enlarge](img/37000.jpg)  
+Click to enlarge](img/37000.jpg.md)  
 Music cont.  
 </span>
 
@@ -617,7 +617,7 @@ Then follows an ode:
 
 <span id="img_37001"></span> <span align="CENTER"> [![OLD HUNDRED. L.
 M.](tn/37001.jpg)  
-Click to enlarge](img/37001.jpg)  
+Click to enlarge](img/37001.jpg.md)  
 OLD HUNDRED. L. M.  
 </span>
 
@@ -749,4 +749,4 @@ Greet his joyful entrance there
 
 ------------------------------------------------------------------------
 
-[Next: Service for the Consecration of Masonic Cemeteries](gar73)
+[Next: Service for the Consecration of Masonic Cemeteries](gar73.md)

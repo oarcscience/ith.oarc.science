@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov16)  [Next](hlov18) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov16)  [Next](hlov18.md) 
 
 ------------------------------------------------------------------------
 
@@ -233,4 +233,4 @@ to Hopoe.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Hiiaka's Battle With Demons](hlov18)
+[Next: XIII. Hiiaka's Battle With Demons](hlov18.md)

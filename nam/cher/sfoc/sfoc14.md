@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc13)  [Next](sfoc15) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc13)  [Next](sfoc15.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ would fan the disease back into the body of the patient.
 
 ------------------------------------------------------------------------
 
-[Next: Illustration of the Tabu](sfoc15)
+[Next: Illustration of the Tabu](sfoc15.md)

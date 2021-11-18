@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp89) 
-[Next](alp91) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp89.md) 
+[Next](alp91.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ most of the eastern part of Armenia.
 
 ------------------------------------------------------------------------
 
-[Next: Renaissance](alp91)
+[Next: Renaissance](alp91.md)

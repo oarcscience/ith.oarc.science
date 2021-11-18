@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj31) 
-[Next](npj33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj31.md) 
+[Next](npj33.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Note on Tanikō and Ikeniye](npj33)
+[Next: Note on Tanikō and Ikeniye](npj33.md)

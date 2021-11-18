@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb13)  [Next](isb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb13)  [Next](isb15.md) 
 
 ------------------------------------------------------------------------
 
@@ -502,4 +502,4 @@ waters of the bay.
 ------------------------------------------------------------------------
 
 [Next: Galway--Kilroy's Hotel--Galway Nights' Entertainments--First
-Night: An evening with Captain Kenny](isb15)
+Night: An evening with Captain Kenny](isb15.md)

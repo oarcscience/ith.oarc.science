@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph98)  [Next](sph100) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph98)  [Next](sph100.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 Ὀ μὲν γὰρ κάλοσ, ὄσσον ἴδην, πέλεται \[ἄγαθοσ\]  
 ὀ δὲ κἄγαθοσ αὔτικα καὶ κάλοσ
-ἔσσεται. [\[transcription\]](xlatall.htm#124)
+ἔσσεται. [\[transcription\]](xlatall.htm#124.md)
 
 He who is fair to look upon is good, and he who is good, will soon be
 fair also.
@@ -23,4 +23,4 @@ believe Solon when he points out the same."
 
 ------------------------------------------------------------------------
 
-[Next: 99: Do I still long for maidenhood?](sph100)
+[Next: 99: Do I still long for maidenhood?](sph100.md)

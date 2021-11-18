@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj25)  [Next](atfj27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj25)  [Next](atfj27.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_01"></span> <span align="CENTER"> [![1. Iganosuke Dives
 for the Pipe and Finds the Idol](tn/01.jpg)  
-Click to enlarge](img/01.jpg)  
+Click to enlarge](img/01.jpg.md)  
 1. Iganosuke Dives for the Pipe and Finds the Idol  
 </span>
 
@@ -161,7 +161,7 @@ When Iganosuke had thrown on his clothes, he said:
 Takegaki to hunt for the robber who stole the very figure of Kwannon
 which I have just by good fortune while looking for your pipe recovered.
 Is it not wonderful? Truly the old saying, "Nasakewa hito no tame
-naradzu" <span id="fr_30"></span>[1](#fn_30) is quite true!'
+naradzu" <span id="fr_30"></span>[1](#fn_30.md) is quite true!'
 
 Then the old man, in a wild state of delight, cried: 'Even more curious
 is this. My name is Matsure Fujiye of Takamatsu. Only a month ago the
@@ -195,13 +195,13 @@ treasures of Kii.
 
 ### Footnotes
 
-<span id="fn_30"></span>[148:1](atfj26.htm#fr_30) Favour is not for
+<span id="fn_30"></span>[148:1](atfj26.htm#fr_30.md) Favour is not for
 other people.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XXV. Saigyo Hoshi's Rock](atfj27)
+[Next: XXV. Saigyo Hoshi's Rock](atfj27.md)
 
 </div>

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc109) 
-[Next](motc111) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc109.md) 
+[Next](motc111.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ through the thigh, and had therefore been unable to flee with the rest.
 ------------------------------------------------------------------------
 
 [Next: 111. The Mounds And The Constant Fire: The Old Sacred
-Things](motc111)
+Things](motc111.md)

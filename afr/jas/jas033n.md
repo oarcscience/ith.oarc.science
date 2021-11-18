@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas032n)  [Next](jas034n)   
- \[[33. Fling-a-mile.](jas033)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas032n)  [Next](jas034n.md)   
+ \[[33. Fling-a-mile.](jas033.md)\]
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ against it and flings him upon a lance which Anansi has set up.
 
 ------------------------------------------------------------------------
 
-[Next: Note 34. But-but and Anansi.](jas034n)
+[Next: Note 34. But-but and Anansi.](jas034n.md)

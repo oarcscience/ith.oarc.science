@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim40)  [Next](sim42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim40)  [Next](sim42.md) 
 
 ------------------------------------------------------------------------
 
@@ -237,4 +237,4 @@ which the wrath of the great pine had maimed and spread out.
 
 ------------------------------------------------------------------------
 
-[Next: The Bird Medicine](sim42)
+[Next: The Bird Medicine](sim42.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil03)  [Next](egil05) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil03)  [Next](egil05.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ errand had sped; but Kveldulf sat at home on his estates.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER IV. Battle of king Harold and Audbjorn.](egil05)
+[Next: CHAPTER IV. Battle of king Harold and Audbjorn.](egil05.md)

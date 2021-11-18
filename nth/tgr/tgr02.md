@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tgr01)  [Next](tgr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tgr01)  [Next](tgr03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Think and Grow Rich*, by Napoleon Hill \[1938\], at Intangible Textual
 Heritage
 
@@ -27,7 +27,7 @@ Philosophy. His work and writings have been praised by great leaders in
 Finance, Education, Politics, Government.</span>
 
 <span id="img_00300"></span> ![Supreme Court of the United States,
-Washington D.C.](img/00300.jpg)
+Washington D.C.](img/00300.jpg.md)
 
 Dear Mr. Hill:--
 
@@ -47,7 +47,7 @@ sense" philosophy.
 Sincerely yours
 
 <span id="img_00301"></span> ![Signature of President
-Taft](img/00301.jpg)
+Taft](img/00301.jpg.md)
 
 <span class="small">(Former President and former Chief Justice of the
 United States)</span>
@@ -120,4 +120,4 @@ WM. WRIGLEY, JR.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tgr03)
+[Next: Contents](tgr03.md)

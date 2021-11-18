@@ -135,4 +135,4 @@ in the garden" to save it.
 ------------------------------------------------------------------------
 
 [Next: Mysterious Couple Appear To Be Founders of Suicide
-Cult](ufo_cult)
+Cult](ufo_cult.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh11) 
-[Next](iggh13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh11.md) 
+[Next](iggh13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -40,7 +40,7 @@ together. And death
 is no evil, but only an inevitable change: and often for the better, if
 the life to which it puts an end be one of works deserving a reward. For
 once there were two kings of the desert, called Haya and Gaja <span
-id="fr_27"></span>[s](#fn_27): and they were deadly enemies. And Gaja
+id="fr_27"></span>[s](#fn_27.md): and they were deadly enemies. And Gaja
 set upon Haya, and killed his son and captured his wives and his capital
 and drove him away. So being reduced to extremity, Haya entered the
 service of Gaja, who did not know him by sight, as a personal retainer.
@@ -100,9 +100,9 @@ became a spirit of the air.
 
 ### Footnotes
 
-<span id="fn_27"></span>[44:s](iggh12.htm#fr_27) 'Horse' and 'elephant,'
+<span id="fn_27"></span>[44:s](iggh12.htm#fr_27.md) 'Horse' and 'elephant,'
 (Pronounce Gaj- to rhyme with -*trudge*)
 
 ------------------------------------------------------------------------
 
-[Next: X. A Pariah Dog](iggh13)
+[Next: X. A Pariah Dog](iggh13.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog07)  [Next](hlog09) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog07)  [Next](hlog09.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ remembered on Oahu, and so have a cape and a rock received their names.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Kalo-eke-eke, The Timid Taro](hlog09)
+[Next: IV. Kalo-eke-eke, The Timid Taro](hlog09.md)

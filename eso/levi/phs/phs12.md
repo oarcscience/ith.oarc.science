@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Previous](phs11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Previous](phs11.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ obeys man, instinctively.
 
 *But, for man to command the soul of the earth demands great knowledge
 and great wisdom*, or great exaltation. <span
-id="fr_128"></span>[1](#fn_128)
+id="fr_128"></span>[1](#fn_128.md)
 
 Folly has its prodigies, and these more abundantly than wisdom, because
 wisdom does not seek prodigies, but tends naturally towards preventing
@@ -35,7 +35,7 @@ tends to estrange man from Science and Reason is assuredly the work of
 an evil Principle.
 
 The sun has intelligence, but the earth is mindless; <span
-id="fr_129"></span>[1](#fn_129) without the Sun and the labour of man
+id="fr_129"></span>[1](#fn_129.md) without the Sun and the labour of man
 she would produce nothing. The sun is her impregnator and man her
 accoucheur, and reluctantly and with a bad grace does she yield to the
 caresses of her spouse and the attendance of her physician. Animals,
@@ -46,7 +46,7 @@ crime; she is but the creature of Law, and serves as a counterpoise to
 the activity of the sun. According to the hieratic tradition, man, the
 only son of God, ought to command the earth, but man, having infringed
 the law of God, has ceased to be free, and slaves are equals before
-slavery. The soul of the earth <span id="fr_130"></span>[2](#fn_130) is
+slavery. The soul of the earth <span id="fr_130"></span>[2](#fn_130.md) is
 hostile to man, because she feels that he has no longer the right to
 command her; she resists him and deceives him; it is she who produces
 dreams, nightmares, visions and hallucinations, favoured in this by
@@ -67,7 +67,7 @@ come from the influence of the sun.
 The soul of the earth radiates out specially during the night. The light
 restrains and repels its effluvia. It is at midnight, especially in the
 middle of the long nights of winter, that phantoms love to appear. <span
-id="fr_131"></span>[1](#fn_131)
+id="fr_131"></span>[1](#fn_131.md)
 
 A man is not a saint because he has visions, but one may have visions
 and yet be a saint, and even amongst the saints visions always involve
@@ -89,7 +89,7 @@ sockets. This vision of candle-stick sockets reappears at Pontmain,
 where four candles are seen fixed to the wall of the heavens and the
 good Virgin in the middle of them. Ravaillac saw the sacred wafers
 fluttering around his head and heard a voice which told him to kill
-Henry the IV. <span id="fr_132"></span>[1](#fn_132) The instinctive soul
+Henry the IV. <span id="fr_132"></span>[1](#fn_132.md) The instinctive soul
 of the Earth eagerly demands blood, and favours the exaltations which
 lead to its shedding. Spectres, like crows, seem to scent from afar off
 massacres and battles. The death of Cæsar, the civil war which resulted
@@ -116,7 +116,7 @@ at times even a kind of aerial coagulation roughly models out some
 fugitive form: people believe they see lights or hands; dreams take to
 themselves bodies, and nature seems to become delirious: new pythonesses
 scribble at hazard new oracles, as little serious as those of the
-ancients: <span id="fr_133"></span>[1](#fn_133) the same causes produce
+ancients: <span id="fr_133"></span>[1](#fn_133.md) the same causes produce
 always the same effects.
 
 Will man ever succeed in taming entirely this whirling and devouring
@@ -130,7 +130,7 @@ secret of Hermes, that is to say
 <span id="page_164">p. 164</span>
 
 the discovery of a panacea for disease, old age and death, <span
-id="fr_134"></span>[1](#fn_134)
+id="fr_134"></span>[1](#fn_134.md)
 
 The desire for immortality, which has always exercised the human soul,
 is a protest against our subjection to the voracity of the Earth, but
@@ -162,7 +162,7 @@ Creative Power is omnipotent? Because all Force has a Resistance as a
 Fulcrum, because inertia battles against movement, because shadow must
 equilibrise light. All is foreseen by the universal sovereign
 intelligence, and the Providence of God is not a direct and personal
-intervention. <span id="fr_135"></span>[1](#fn_135) If God does not
+intervention. <span id="fr_135"></span>[1](#fn_135.md) If God does not
 create animals, he tells the earth to produce them. God has impregnated
 nature and nature has become a mother, producing unaided; but she
 husbands her efforts and simplifies her great works; she produces life,
@@ -193,7 +193,7 @@ an authority may be delegated, a miracle cannot be delegated.
 
 The yearning for Religion is the primary want of the Human soul: it
 exists side by side with Love, and in Love. "There exist," says Mr.
-Tyndall, <span id="fr_136"></span>[1](#fn_136) one of the foremost
+Tyndall, <span id="fr_136"></span>[1](#fn_136.md) one of the foremost
 scientific men of England, "there
 
 <span id="page_167">p. 167</span>
@@ -227,7 +227,7 @@ paradoxical, designated these
 <span id="page_168">p. 168</span>
 
 the Archidoxes, that is to say, things ultra-reasonable or more than
-reasonable. <span id="fr_137"></span>[1](#fn_137)
+reasonable. <span id="fr_137"></span>[1](#fn_137.md)
 
 God is the great Archidox of the universe. Religion is Archidoxal when
 it appears Paradoxical. Liberty is the Paradox or the Archidox of the
@@ -307,6 +307,6 @@ His body fattens the earth and may cause other trees to germinate; his
 thought grows in the heavens and will make other thoughts blossom. *For
 nothing dies; all is transformed; that which no longer is, shall be
 again, but that which was small shall be great, and that which was ill
-shall be better*. <span id="fr_138"></span>[1](#fn_138)
+shall be better*. <span id="fr_138"></span>[1](#fn_138.md)
 
 This is our faith and hope--AMEN, and so be it!

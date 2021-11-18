@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat06.htm#XXIX) 
-[Previous](satl028)  [Next](satl030) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat06.htm#XXIX.md) 
+[Previous](satl028)  [Next](satl030.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ gladiatorium munus."
 
 ------------------------------------------------------------------------
 
-[Next: XXX](satl030)
+[Next: XXX](satl030.md)

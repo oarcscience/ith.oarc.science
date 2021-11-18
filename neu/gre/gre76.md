@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre75)  [Next](gre77) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre75)  [Next](gre77.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ rede whereby to get Grettir from the island.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXII: Of the Sports at Heron-ness Thing](gre77)
+[Next: Chapter LXXII: Of the Sports at Heron-ness Thing](gre77.md)

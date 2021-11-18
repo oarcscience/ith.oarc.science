@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](psa)  [Next](ecc) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](psa)  [Next](ecc.md) 
 
 ------------------------------------------------------------------------
 
@@ -2816,4 +2816,4 @@ gyümölcsébõl, és dicsérjék õt a kapukban az õ cselekedetei!
 
 ------------------------------------------------------------------------
 
-[Next: Ecclesiastes](ecc)
+[Next: Ecclesiastes](ecc.md)

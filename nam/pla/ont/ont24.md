@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont23)  [Next](ont25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont23)  [Next](ont25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -54,7 +54,7 @@ Eagle and Natosin. Then came Natokema and Gives-to-the-Sun.
 
 <span id="img_28500"></span> <span align="CENTER"> [![FRAMEWORK OF THE
 SWEAT LODGE.](tn/28500.jpg)  
-Click to enlarge](img/28500.jpg)  
+Click to enlarge](img/28500.jpg.md)  
 FRAMEWORK OF THE SWEAT LODGE.  
 </span>
 
@@ -76,7 +76,7 @@ The paint was blessed
 
 <span id="img_28600"></span> <span align="CENTER"> [![MAD DOGS RIDING
 WITH WILLOWS.](tn/28600.jpg)  
-Click to enlarge](img/28600.jpg)  
+Click to enlarge](img/28600.jpg.md)  
 MAD DOGS RIDING WITH WILLOWS.  
 </span>
 
@@ -105,7 +105,7 @@ from the sweet grass burning
 
 <span id="img_28700"></span> <span align="CENTER"> [![PRIESTS WALKING
 AROUND SWEAT LODGE.](tn/28700.jpg)  
-Click to enlarge](img/28700.jpg)  
+Click to enlarge](img/28700.jpg.md)  
 PRIESTS WALKING AROUND SWEAT LODGE.  
 </span>
 
@@ -140,7 +140,7 @@ live to be old and always have water to drink."</span>
 
 <span id="img_28800"></span> <span align="CENTER"> [![SPOTTED EAGLE
 PREPARING BUFFALO SKULL FOR SWEAT LODGE CEREMONIAL.](tn/28800.jpg)  
-Click to enlarge](img/28800.jpg)  
+Click to enlarge](img/28800.jpg.md)  
 SPOTTED EAGLE PREPARING BUFFALO SKULL FOR SWEAT LODGE CEREMONIAL.  
 </span>
 
@@ -160,7 +160,7 @@ ground. The ceremonial was finished, when the Mad
 
 <span id="img_28900"></span> <span align="CENTER"> [![LITTLE
 PLUME.](tn/28900.jpg)  
-Click to enlarge](img/28900.jpg)  
+Click to enlarge](img/28900.jpg.md)  
 LITTLE PLUME.  
 </span>
 
@@ -185,7 +185,7 @@ Preceding the "Raising of the Pole," it was
 
 <span id="img_29000"></span> <span align="CENTER"> [![BLACKFEET
 ASSEMBLING FOR TRIBAL PARADE.](tn/29000.jpg)  
-Click to enlarge](img/29000.jpg)  
+Click to enlarge](img/29000.jpg.md)  
 BLACKFEET ASSEMBLING FOR TRIBAL PARADE.  
 </span>
 
@@ -207,7 +207,7 @@ Mikosta
 
 <span id="img_29100"></span> <span align="CENTER"> [![THE WAR CHIEFS,
 LITTLE PLUME AND LITTLE DOG, LEADERS OF THE PARADE.](tn/29100.jpg)  
-Click to enlarge](img/29100.jpg)  
+Click to enlarge](img/29100.jpg.md)  
 THE WAR CHIEFS, LITTLE PLUME AND LITTLE DOG, LEADERS OF THE PARADE.  
 </span>
 
@@ -222,7 +222,7 @@ neck. One young man was dressed as a clown, or jester. He
 
 <span id="img_29200"></span> <span align="CENTER"> [![TRIBAL
 PARADE.](tn/29200.jpg)  
-Click to enlarge](img/29200.jpg)  
+Click to enlarge](img/29200.jpg.md)  
 TRIBAL PARADE.  
 </span>
 
@@ -236,7 +236,7 @@ tied to long willow sticks,
 
 <span id="img_29300"></span> <span align="CENTER"> [![SACRED TIPI WITH
 GREEN BRANCHES OUTSIDE.](tn/29300.jpg)  
-Click to enlarge](img/29300.jpg)  
+Click to enlarge](img/29300.jpg.md)  
 SACRED TIPI WITH GREEN BRANCHES OUTSIDE.  
 </span>
 
@@ -294,7 +294,7 @@ laying the plant across the altar.
 <span id="img_29500"></span> <span align="CENTER"> [![INTERIOR OF SACRED
 TIPI WITH SUN-DANCE PRIESTS AND MEDICINE WOMEN&lt;br&gt; (Altar is in
 foreground.)](tn/29500.jpg)  
-Click to enlarge](img/29500.jpg)  
+Click to enlarge](img/29500.jpg.md)  
 INTERIOR OF SACRED TIPI WITH SUN-DANCE PRIESTS AND MEDICINE WOMEN  
 (Altar is in foreground.)  
 </span>
@@ -317,7 +317,7 @@ the head of Gives-to-the-Sun. He warned Mad
 
 <span id="img_29600"></span> <span align="CENTER"> [![SACRED WOMAN AND
 HUSBAND WITH RHUBARB STALK.](tn/29600.jpg)  
-Click to enlarge](img/29600.jpg)  
+Click to enlarge](img/29600.jpg.md)  
 SACRED WOMAN AND HUSBAND WITH RHUBARB STALK.  
 </span>
 
@@ -409,7 +409,7 @@ by a hurricane, and she would be left sitting up among her
 
 <span id="img_29900"></span> <span align="CENTER"> [![OLD WOMAN'S SMALL
 TIPI.](tn/29900.jpg)  
-Click to enlarge](img/29900.jpg)  
+Click to enlarge](img/29900.jpg.md)  
 OLD WOMAN'S SMALL TIPI.  
 </span>
 
@@ -483,4 +483,4 @@ to camp and laid beside the open hole made to receive it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. Raising the Centre Pole](ont25)
+[Next: Chapter XXII. Raising the Centre Pole](ont25.md)

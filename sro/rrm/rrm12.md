@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm11)  [Next](rrm13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm11)  [Next](rrm13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -148,7 +148,7 @@ is the 'Ecliptic'--it is figuratively 'on fire', or 'of fire', in the
 path of the sun; and the 'children at home' are the 'months' produced in
 the house of the sun, or the solar year, or the 'signs of the
 Zodiac'--which were originally 'ten', and not twelve' <span
-id="fr_1"></span>[1](#fn_1), each sign answering to one of the letters
+id="fr_1"></span>[1](#fn_1.md), each sign answering to one of the letters
 of the primeval alphabet, which were in number 'ten'. Thus, re-read, the
 lines run:
 
@@ -204,7 +204,7 @@ now recalled to those exceedingly obscure, but very significant, words
 of our Saviour, which have always seemed very erroneously interpreted,
 on account of their obvious contradictions: 'Consider the lilies of the
 field, how they grow; they toil not, neither do they spin' <span
-id="fr_2"></span>[1](#fn_2). Now, in regard to this part of the text,
+id="fr_2"></span>[1](#fn_2.md). Now, in regard to this part of the text,
 what does the judicious speculator think of the following Rosicrucian
 gloss, or explanation? *Lilia non laborant* (like bees); *neque nent*,
 'neither do they spin' (like spiders). Now of the 'lisses', as we shall
@@ -282,7 +282,7 @@ namely, wanton, and the word 'Lech', or 'leche', and 'lecher', etc.
 Consider, also, in the solemn and terrible sense, the name Crom-Lech, or
 'crown', or 'arched entry', or 'gate', of death. The Druidical stones
 were generally called *cromlechs* when placed in groups of two <span
-id="fr_3"></span>[1](#fn_3), with a *coping* or *capstone* over,
+id="fr_3"></span>[1](#fn_3.md), with a *coping* or *capstone* over,
 similarly to the form of the Greek letter *pi* (Π, π), which was
 imitated from that temple of stones which we call a cromlech:
 
@@ -410,7 +410,7 @@ variously depicted, similarly to the following marks:
 <span id="img_05700"></span>
 
 [![Figures 1-5](tn/05700.jpg)  
-Click to enlarge](img/05700.jpg)  
+Click to enlarge](img/05700.jpg.md)  
 Figures 1-5  
 
 <span class="contnote">\[paragraph continues\]</span> These are the
@@ -434,7 +434,7 @@ Three bent spikes, or nails, are unmistakably the
 <span id="img_05800"></span>
 
 [![Figures 6, 7](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 Figures 6, 7  
 
 same symbol that Belus often holds in his extended hand on the
@@ -468,17 +468,17 @@ Fig. 8 is the symbol, or hook, of Saturn, the colour
 
 [![Fig. 8, 9&lt;br&gt; The Templar Banner: the famous
 'Beauséant'](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)  
+Click to enlarge](img/05900.jpg.md)  
 Fig. 8, 9  
 The Templar Banner: the famous 'Beauséant'  
 
 of whom, in the heraldic configuration, is *sab*., *sable*, or black,
 divided, *party per pale*, with the opening light of the first crescent
-moon of the post-diluvian world <span id="fr_4"></span>[1](#fn_4). Fig.
+moon of the post-diluvian world <span id="fr_4"></span>[1](#fn_4.md). Fig.
 9 is the same grandly mystic banner, denominated Beauséant
 ('Beau-Séant'), revealing a whole occult theosophy to the initiate,
 which the leaders of the Templars undoubtedly were. The difference
-[between](errata.htm#1) these two figures, fig. 8 and fig. 9, is, that
+[between](errata.htm#1.md) these two figures, fig. 8 and fig. 9, is, that
 the 'fly' of the ensign marked fig. 9 is bifurcated (or cloven) in the
 'lighted' part.
 
@@ -494,7 +494,7 @@ matter relative to these mysterious
 <span id="img_06000"></span>
 
 [![Figs. 10 and 11](tn/06000.jpg)  
-Click to enlarge](img/06000.jpg)  
+Click to enlarge](img/06000.jpg.md)  
 Figs. 10 and 11  
 
 supposed dreadful Templars. The Parisian '*Templiers*' assert that there
@@ -581,7 +581,7 @@ to supersede and replace, in blazon, the martial, manly 'carmine' or
 
 ### Footnotes
 
-<span id="fn_1"></span>[49:1](rrm12.htm#fr_1)
+<span id="fn_1"></span>[49:1](rrm12.htm#fr_1.md)
 
 Lady-Cow, Lady-Cow,  
   Fly away home!  
@@ -599,19 +599,19 @@ born in the mysterious 'Month of the Propitiation', or the mystical
 Astrological and Astronomical 'Escaped Month' of the Zodiac; and the
 'Stone' is the 'Philosopher's Stone'.
 
-<span id="fn_2"></span>[51:1](rrm12.htm#fr_2) The full quotation is the
+<span id="fn_2"></span>[51:1](rrm12.htm#fr_2.md) The full quotation is the
 following: 'Consider the lilies of the field, how they grow; they toil
 not, neither do they spin: and yet I say unto you, That even Solomon'
 (here steps in some of the lore of the Masonic order) 'in all his glory
 was not arrayed' (or *exalted*, or *dignified*, as it is more correctly
 rendered out of the original) 'like one of these' (*St. Matt*. vi. 28).
 
-<span id="fn_3"></span>[53:1](rrm12.htm#fr_3) The whole forming a
+<span id="fn_3"></span>[53:1](rrm12.htm#fr_3.md) The whole forming a
 'capital', 'chapter', 'chapitre', 'chapel', cancel', or 'chancel'--hence
 our word, and the sublime judicial office of 'Chancellor', and
 'Chancery'.
 
-<span id="fn_4"></span>[59:1](rrm12.htm#fr_4) The Shining Star as the
+<span id="fn_4"></span>[59:1](rrm12.htm#fr_4.md) The Shining Star as the
 Harbinger in the Moon's Embrace. Meaning the Divine Post-diluvian
 Remission and Reconciliation. Thus the sublime Mahometan mythic device
 or cognisance--the Crescent of the New Moon (lying on her back), and the
@@ -621,4 +621,4 @@ Shining Star in this display:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Sacred Fire](rrm13)
+[Next: Chapter IX: Sacred Fire](rrm13.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi204)  [Next](mtsi206) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi204)  [Next](mtsi206.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ some food, and kept up a fire beneath until it boiled.
 
 The two persons traveled about and came back. When they got there he
 said, "I am cooking for you." "Alas! (Hīha)," they said, "it is spoiled
-for us. Now we must leave you." <span id="fr_51"></span>[1](#fn_51)
+for us. Now we must leave you." <span id="fr_51"></span>[1](#fn_51.md)
 
 "To-morrow I will drive bear," said one of them. Together they went on
 to drive the game toward him. They went on and camped four nights
@@ -45,11 +45,11 @@ some of this tobacco and smoke it."
 
 ### Footnotes
 
-<span id="fn_51"></span>[167:1](mtsi205.htm#fr_51) This is not clear.
+<span id="fn_51"></span>[167:1](mtsi205.htm#fr_51.md) This is not clear.
 Perhaps he should not have cooked the food for them because they were
 supernatural beings. They leave him after showing him how to hunt bear
 and giving him corn and tobacco.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Corn Woman](mtsi206)
+[Next: 6. Corn Woman](mtsi206.md)

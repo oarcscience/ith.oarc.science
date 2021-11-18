@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](toe00) 
-[Next](toe02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](toe00.md) 
+[Next](toe02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../laot/img/tease.jpg)](index)  
+[![](../laot/img/tease.jpg)](index.md)  
 *The Treatise of Eusebius Against the Life of Apollonius by
 Philostratus*, by Eusebius, tr. F.C. Conybeare, \[1912\], at Intangible
 Textual Heritage
@@ -24,7 +24,7 @@ Textual Heritage
 <span class="margnote">CHAP. I Most of the *Philalethes* already
 answered by Origen</span><span class="smallcaps">So</span> then, my dear
 friend, you find worthy of no little admiration the parallel <span
-id="fr_0"></span>[1](#fn_0) which, embellished with many marvels, this
+id="fr_0"></span>[1](#fn_0.md) which, embellished with many marvels, this
 author has drawn between the man of Tyana and our own Saviour and
 teacher. For against the rest of the contents of the "Lover of Truth"
 (Philalethes), for so he has thought fit to entitle his work against us,
@@ -342,7 +342,7 @@ Apollonius, that it was divine and superior to humanity. For without
 offering any sacrifice,—for how could he offer one in the prison?—and
 without offering any prayer, without a single word, he just laughed at
 his fetters." And at the end of the book <span
-id="fr_1"></span>[1](#fn_1) we learn that his grave was nowhere to be
+id="fr_1"></span>[1](#fn_1.md) we learn that his grave was nowhere to be
 found on earth; but that he went to heaven in his physical body
 accompanied by hymns and dances. Naturally if he was so great as he is
 described in the above, he may be said "to have wooed philosophy in a
@@ -412,12 +412,12 @@ future stay in Persia, and made a prophecy thereof.
 
 ### Footnotes
 
-<span id="fn_0"></span>[485:1](toe01.htm#fr_0) Or perhaps we should
+<span id="fn_0"></span>[485:1](toe01.htm#fr_0.md) Or perhaps we should
 render "the parallel this writer has paradoxically drawn," etc.
 
-<span id="fn_1"></span>[507:1](toe01.htm#fr_1) Or reader: "And at death
+<span id="fn_1"></span>[507:1](toe01.htm#fr_1.md) Or reader: "And at death
 we," etc.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters XI to XX](toe02)
+[Next: Chapters XI to XX](toe02.md)

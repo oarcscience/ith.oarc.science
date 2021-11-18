@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey15)  [Next](grey17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey15)  [Next](grey17.md) 
 
 ------------------------------------------------------------------------
 
@@ -310,4 +310,4 @@ of children whose fathers are not known.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Hine-Moa](grey17)
+[Next: The Story of Hine-Moa](grey17.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Next](hanged1)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Next](hanged1.md)
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ W. A. Clouston, "Arabian Poetry for English Readers" (Edinburgh).
 
 ------------------------------------------------------------------------
 
-[Next: The Poem of Imru-ul-Quais](hanged1)
+[Next: The Poem of Imru-ul-Quais](hanged1.md)

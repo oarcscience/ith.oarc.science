@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah59)  [Next](oah61) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah59)  [Next](oah61.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ made speed, swift and orderly.
 
 13\. And in the time they came, also rose up the ship of Neph from hada.
 Meanwhile, my ship rested on the borders of Chinvat, in the School of
-Hein, and from the moon seven agus. <span id="fr_12"></span>[1](#fn_12)
+Hein, and from the moon seven agus. <span id="fr_12"></span>[1](#fn_12.md)
 
 14\. Again the voice of Jehovih came to me, saying: My Son, make fast
 thy ship, for thy place shall be the head of the army of My hosts. And
@@ -193,9 +193,9 @@ spirits in chaos.
 
 ### Footnotes
 
-<span id="fn_12"></span>[75a:1](oah60.htm#fr_12) An agus is about a
+<span id="fn_12"></span>[75a:1](oah60.htm#fr_12.md) An agus is about a
 thousand miles
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](oah61)
+[Next: Chapter IV](oah61.md)

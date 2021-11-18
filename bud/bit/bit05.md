@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit04)  [Next](bit06) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit04)  [Next](bit06.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,4 +177,4 @@ the average estimate of Buddhists given above.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Religious System of Sakyamuni](bit06)
+[Next: Chapter III. The Religious System of Sakyamuni](bit06.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr27)  [Next](rhr29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr27)  [Next](rhr29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -319,7 +319,7 @@ goodwill from the Father and from the Lord Jesus.'
 "There was also as well in the book as the letter a great miracle
 wrought, conform to that of the apostles in the originall gift of
 tongues, for there being at that time in this land Hebrews, Persians,
-and Indians, <span id="fr_109"></span>[1](#fn_109) besides the natives,
+and Indians, <span id="fr_109"></span>[1](#fn_109.md) besides the natives,
 every one read upon the book and the letter as if they had been written
 in his own language. Thus was this land saved from infidelity through
 the apostolicall and miraculous evangelism of S. John."
@@ -1197,10 +1197,10 @@ where they come upon all occasions.
 
 ### Footnotes
 
-<span id="fn_109"></span>[358:1](rhr28.htm#fr_109) The island,
+<span id="fn_109"></span>[358:1](rhr28.htm#fr_109.md) The island,
 notwithstanding, had been unvisited by strangers for the space of 36,000
-years. See [p. 354](#page_354).
+years. See [p. 354](#page_354.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Rosicrucianism in France](rhr29)
+[Next: Chapter XIV. Rosicrucianism in France](rhr29.md)

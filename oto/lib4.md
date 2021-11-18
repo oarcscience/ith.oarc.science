@@ -1,5 +1,5 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Sacred texts](../index)  [Thelema](index) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Sacred texts](../index)  [Thelema](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,9 +8,9 @@
 WITH MARY DESTI AND LEILA WADDELL
 
 **Book Four - Parts I-IV  
-[I - Mysticism](aba/aba1)  
-[II - Magick (Elementary Theory)](aba/aba2)  
-[III - Magick in Theory and Practice](aba/aba)  
+[I - Mysticism](aba/aba1.md)  
+[II - Magick (Elementary Theory)](aba/aba2.md)  
+[III - Magick in Theory and Practice](aba/aba.md)  
 IV - THELEMA: The Law**
 
 Edited, annotated and introduced by  

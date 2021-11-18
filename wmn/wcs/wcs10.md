@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wcs09)  [Next](wcs11) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wcs09)  [Next](wcs11.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ eternal principles of justice and how far emanating from ignorance,
 superstition and love of power which is the basis of all despotism.
 Viewing her through the Christian Ages, we find woman has chiefly been
 regarded as an element of wealth; the labor of wife<span
-id="fr_1"></span>[1](#fn_1) and daughters, the sale of the latter in the
+id="fr_1"></span>[1](#fn_1.md) and daughters, the sale of the latter in the
 prostitution of a loveless marriage, having been an universally extended
 form of domestic slavery, one which the latest court decisions recognize
 as still extant. It is the boast of America and Europe that woman holds
@@ -254,7 +254,7 @@ country excluding women from some of the best
 <span id="page_440">p. 440</span>
 
 paid branches of industry, as carpet making, cloth weaving, letter press
-printing.<span id="fr_2"></span>[2](#fn_2) In self defense, the Woman's
+printing.<span id="fr_2"></span>[2](#fn_2.md) In self defense, the Woman's
 Protective and Provident League, and a "Woman's Union Labor Journal"
 were founded. The principle of exclusion has not alone been shown
 against woman's entrance into well paid branches of work, but in those
@@ -288,7 +288,7 @@ chance to work. And that same government does not pay its women
 employees the same amount of wages for the same kind of work.
 
     In the Scottish collieries women are compelled to work in mines
-filled with gas and flooded with water,<span id="fr_3"></span>[3](#fn_3)
+filled with gas and flooded with water,<span id="fr_3"></span>[3](#fn_3.md)
 little girls commencing work in these collieries at four years of age,
 and at six carrying loads of one hundred and fifty pounds upon their
 backs. Half clothed women work by the side of entirely nude men,
@@ -1000,7 +1000,7 @@ for work, and of entering business outside of the household, the
 proceeds belonging entirely to herself. But under this decision of the
 Court of Appeals, the ground was taken that the wife cannot collect
 wages from the husband, and that household work for him is compulsory
-upon her.<span id="fr_4"></span>[4](#fn_4) This decision as to
+upon her.<span id="fr_4"></span>[4](#fn_4.md) This decision as to
 compulsory housework controverts that other right recognized by
 legislation, of entering into business, doing work outside of the home,
 the proceeds to belong solely to herself. Under this decision of the
@@ -1034,7 +1034,7 @@ in the name of "religion?"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Church Of To-day.](wcs11)
+[Next: Chapter IX. The Church Of To-day.](wcs11.md)
 
 ------------------------------------------------------------------------
 
@@ -1042,12 +1042,12 @@ in the name of "religion?"
 
 <span id="fn_page_435">p. 435</span>  
 
-<span id="fn_1"></span>[1.](#fr_1)  See *Decision of New York Court of
+<span id="fn_1"></span>[1.](#fr_1.md)  See *Decision of New York Court of
 Appeals*, 1892, page 463-4.
 
 <span id="fn_page_440">p. 440</span>  
 
-<span id="fn_2"></span>[2.](#fr_2)  During the Parliament Commission
+<span id="fn_2"></span>[2.](#fr_2.md)  During the Parliament Commission
 inquiry, a witness, Peter Garkel, collier, said that he preferred women
 to boys as drawers; they were better to manage and kept time better;
 they would fight and shriek and everything but let anybody pass them.
@@ -1060,12 +1060,12 @@ paid on the same scale as men."
 
 <span id="fn_page_441">p. 441</span>  
 
-<span id="fn_3"></span>[3.](#fr_3)  Lecture by Felix Adler, 1892, *The
+<span id="fn_3"></span>[3.](#fr_3.md)  Lecture by Felix Adler, 1892, *The
 Position of Woman in The Present*.
 
 <span id="fn_page_464">p. 464</span>  
 
-<span id="fn_4"></span>[4.](#fr_4)  "The New York Court of Appeals has
+<span id="fn_4"></span>[4.](#fr_4.md)  "The New York Court of Appeals has
 rendered an opinion which shows that married women in that state are
 still in bondage. A woman fell down a coal-hole and sued for damages,
 recovering $500. The defendant asked for a new trial on the ground that

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw04)  [Next](tfgw06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw04)  [Next](tfgw06.md) 
 
 ------------------------------------------------------------------------
 
@@ -195,4 +195,4 @@ The Knights of Kerry - Rahonain Castle
 
 ------------------------------------------------------------------------
 
-[Next: The Cattle Jobber of Awnascawil](tfgw06)
+[Next: The Cattle Jobber of Awnascawil](tfgw06.md)

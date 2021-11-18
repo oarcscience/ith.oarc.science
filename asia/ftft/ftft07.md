@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft06)  [Next](ftft08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft06)  [Next](ftft08.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_31">p. 31</span>
 
-<span id="img_03100"></span> ![The Rose Beauty](img/03100.jpg)
+<span id="img_03100"></span> ![The Rose Beauty](img/03100.jpg.md)
 
 <span id="img_iinit"></span>
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N olden times, when the camel was a horse-dealer, the mouse a barber,
 the cuckoo a tailor, the tortoise a baker, and the ass still a servant,
@@ -62,7 +62,7 @@ palace to be the wife of the woodcutter.
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N the course of time a beautiful girl-baby was born to them. The
 wood-cutter's wife bitterly lamented the fact that her child must have
@@ -148,7 +148,7 @@ id="img_03400"></span>
 
 |                                                    |
 |----------------------------------------------------|
-| ![Who is that? cried the scavenger](img/03400.jpg) |
+| ![Who is that? cried the scavenger](img/03400.jpg.md) |
 
 The scavenger, reassured, approached the basket, opened it, and saw the
 blind girl and the pearls she had shed, He took her home to his
@@ -177,7 +177,7 @@ scavenger, "but I will part
 <span id="img_03500"></span>
 
 [![''A Rose for sale''](tn/03500.jpg)  
-Click to enlarge](img/03500.jpg)  
+Click to enlarge](img/03500.jpg.md)  
 ''A Rose for sale''  
 
 <span id="page_36">p. 36</span>
@@ -194,7 +194,7 @@ would be cleared up.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE old man took the eye and gave it to the Rose-Beauty. Praising Allah,
 she fixed it in its place, and had the joy of being able to see quite
@@ -245,7 +245,7 @@ id="img_03700"></span>
 
 |                                                          |
 |----------------------------------------------------------|
-| ![Rose-Beauty with her child in her arms](img/03700.jpg) |
+| ![Rose-Beauty with her child in her arms](img/03700.jpg.md) |
 
 Now in the stag's heart was a red coral, that escaped observation; and
 when the Prince's wife was eating it fell to the floor and rolled under
@@ -285,4 +285,4 @@ their happiness lasted for ever.
 
 ------------------------------------------------------------------------
 
-[Next: The Silent Princess](ftft08)
+[Next: The Silent Princess](ftft08.md)

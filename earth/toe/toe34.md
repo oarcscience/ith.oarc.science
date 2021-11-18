@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe33)  [Next](toe35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe33)  [Next](toe35.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ now begin at the bottom of one of those fertile valleys, and ascend,
 tracing the marks of time and labour in those operations by which the
 surface of the earth is modified according to the system of the globe.
 
-(M. Bourrit <span id="fr_70"></span>[20](#fn_70), *Nouvelle Description
+(M. Bourrit <span id="fr_70"></span>[20](#fn_70.md), *Nouvelle Description
 des Alpes*.) «Saint-Maurice est entre le Rhône et une montagne; «Quoique
 la situation de Saint-Maurice paroisse l'exposer au malheur d'être un
 jour ensevelie sous les ruines des montagnes, cependant on ne vit pas
@@ -235,7 +235,7 @@ quartz ordinairement blanc, quelquefois vitreux, transparent, opaque ou
 grenu: nous n'y avons vu des granits que sur le penchant de la montagne;
 ils y étoient isolés et roulés. Quelqu'un qui aura plus de temps, plus
 de loisir, découvrira peut-être d'où ces masses proviennent <span
-id="fr_71"></span>[21](#fn_71).»
+id="fr_71"></span>[21](#fn_71.md).»
 
 We have here a picture of one of those valleys which branch from, or
 join the main valley of the Rhône. In this subordinate valley, there is
@@ -621,7 +621,7 @@ intérieur du cirque.
 d'ailleurs, qu'il existe de montagnes de roches feuilletées, composées
 des mêmes élémens que le granit, et qui sont sorties comme lui des mains
 de la nature sans avoir commencé par êtres elles-mêmes des granits <span
-id="fr_72"></span>[22](#fn_72).»
+id="fr_72"></span>[22](#fn_72.md).»
 
 Here is an example the most interesting that can be imagined. Those
 mountains are the highest in Europe, and their lofty peaks are
@@ -666,7 +666,7 @@ us shut our eyes against the cleared light of reason.
 
 Abundant more examples of this kind, were it necessary, might be given,
 both from this very good observator, and from M. de Luc <span
-id="fr_73"></span>[23](#fn_73).
+id="fr_73"></span>[23](#fn_73.md).
 
 I will now only mention one from this last author, which we find in the
 Journal de Physique, Juin 1792.
@@ -846,7 +846,7 @@ and commodious passage over a valley, which cannot be crossed elsewhere
 for a considerable distance. The stream passing under it is called Cedar
 Creek: it is a water of James's River, and sufficient in the driest
 seasons to turn a grist mill, though its fountain is not more than two
-miles above <span id="fr_74"></span>[24](#fn_74)."
+miles above <span id="fr_74"></span>[24](#fn_74.md)."
 
 Thus both in what is called the Old World and the New, we shall be
 astonished in looking into the operations of time employing water to
@@ -978,7 +978,7 @@ au-dela. On a déjà fait mention de pareils mamelons qui se trouvent dans
 le vallon du Vallais parcouru par le Rhône.»
 
 These examples may also be supported by what this author observes in
-another place <span id="fr_75"></span>[25](#fn_75).
+another place <span id="fr_75"></span>[25](#fn_75.md).
 
 «Le vallon où est situé Meiringen, est visiblement formé par le dépôt
 des eaux, il est de niveau, et s'étend trois lieues en longueur jusqu'au
@@ -1012,36 +1012,36 @@ world proceeds.
 
 ### Footnotes
 
-<span id="fn_70"></span>[v2:20](toe34.htm#fr_70) M. Bourrit, etc.
+<span id="fn_70"></span>[v2:20](toe34.htm#fr_70.md) M. Bourrit, etc.
 
-<span id="fn_71"></span>[v2:21](toe34.htm#fr_71) M. de Saussure, in his
+<span id="fn_71"></span>[v2:21](toe34.htm#fr_71.md) M. de Saussure, in his
 2d volume of Voyages dans les Alpes, has shown the origin of these
 travelled granites, and traced the way by which they have come.
 
-<span id="fn_72"></span>[v2:22](toe34.htm#fr_72) M. de Saussure, upon
+<span id="fn_72"></span>[v2:22](toe34.htm#fr_72.md) M. de Saussure, upon
 the evidence before us, might have gone farther, and maintained that the
 masses of granite, which here traverse the strata in form of veins and
 irregular blocks, had been truly of a posterior formation. But this is a
 subject which we shall have afterwards to consider in a particular
 manner; and then this example must be recollected.
 
-<span id="fn_73"></span>[v2:23](toe34.htm#fr_73) Vid. Discours sur
+<span id="fn_73"></span>[v2:23](toe34.htm#fr_73.md) Vid. Discours sur
 l'Histoire Naturelle de la Suisse, passim; *but more particularly under
 the article of Route du Grindle* wald à meiringen *dans le pays de
 Hasti:* Also Hist: de la Terre, Lettre 30. p. 45, et Lettre 31. page 68,
 etc.
 
-<span id="fn_74"></span>[v2:24](toe34.htm#fr_74) Upon this occasion it
+<span id="fn_74"></span>[v2:24](toe34.htm#fr_74.md) Upon this occasion it
 may be observed, the most wonderful thing, with regard to cosmology, is
 that such remnants, forming bridges, are so rare; this therefore must be
 an extraordinary piece of solid rock, or some very peculiar
 circumstances must have concurred to preserve this monument of the
 former situation of things.
 
-<span id="fn_75"></span>[v2:25](toe34.htm#fr_75) Discours, etc. page
+<span id="fn_75"></span>[v2:25](toe34.htm#fr_75.md) Discours, etc. page
 201.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. Facts and Opinions concerning the Natural
-Construction of Mountains and Valleys](toe35)
+Construction of Mountains and Valleys](toe35.md)

@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao31)   
-[Previous](tao30)  [Next](tao32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao31.md)   
+[Previous](tao30)  [Next](tao32.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ attending a funeral ceremony.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 32](tao32)
+[Next: Chapter 32](tao32.md)

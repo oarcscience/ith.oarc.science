@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](ttlaw06) 
-[Next](ttlaw08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](ttlaw06.md) 
+[Next](ttlaw08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -309,7 +309,7 @@ But the conception we are considering is not
 <span id="page_98">p. 98</span>
 
 limited to concrete entities, whether persons or things. It applies to
-abstractions also, and it [is](errata.htm#2) for this reason that I have
+abstractions also, and it [is](errata.htm#2.md) for this reason that I have
 called it the "Soul of the Subject." We often speak of the "Soul of
 Music," or the "Soul of Poetry," and so on. Thus our ordinary talk
 stands on the threshold of a great mystery, which, however, is simple
@@ -410,4 +410,4 @@ at the back of it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Promises](ttlaw08)
+[Next: Chapter VI. The Promises](ttlaw08.md)

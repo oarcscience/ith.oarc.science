@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi223)  [Next](mtsi225) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi223)  [Next](mtsi225.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ Hawk up with them, and treated him until he got well. This is all.
 
 ------------------------------------------------------------------------
 
-[Next: 25. The Monster Black Snake](mtsi225)
+[Next: 25. The Monster Black Snake](mtsi225.md)

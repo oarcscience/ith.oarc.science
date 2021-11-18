@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap14) [Next](chap16)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap14) [Next](chap16.md)
 
 ------------------------------------------------------------------------
 
@@ -294,4 +294,4 @@ is well known far and wide in the United States.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: The Town and Canyon of American Fork](chap16)
+[Next: Chapter XVI: The Town and Canyon of American Fork](chap16.md)

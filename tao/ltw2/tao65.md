@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao65)   
-[Previous](tao64)  [Next](tao66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao65.md)   
+[Previous](tao64)  [Next](tao66.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ according to the law of its nature.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 66](tao66)
+[Next: Chapter 66](tao66.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv17)  [Next](rsv19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv17)  [Next](rsv19.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,11 +92,11 @@ multiple involved pressures on the villagers, can do much to aid the
 success of assigned missions. The attitude, reaction and action of every
 American is a vital consideration as the lowest man may cause the loss
 of many lives or may promote such rapport that many lives are saved by
-the [simplest](errata.htm#28) acts of kindness, consideration, concern,
+the [simplest](errata.htm#28.md) acts of kindness, consideration, concern,
 or interest. The American serviceman benefits many as he reveals
 interest in other people as human beings even if their language, their
 culture and their daily life patterns do differ from America.
 
 ------------------------------------------------------------------------
 
-[Next: Vietnamese Village Dinh, Market, School](rsv19)
+[Next: Vietnamese Village Dinh, Market, School](rsv19.md)

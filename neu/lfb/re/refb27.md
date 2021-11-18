@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb26)  [Next](refb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb26)  [Next](refb28.md) 
 
 </div>
 
@@ -664,6 +664,6 @@ skins are the colour of gold. They are the descendants of Zizi.\[21\]
 
 ------------------------------------------------------------------------
 
-[Next: The Twelve Brothers](refb28)
+[Next: The Twelve Brothers](refb28.md)
 
 </div>

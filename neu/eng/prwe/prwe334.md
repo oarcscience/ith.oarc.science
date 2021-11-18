@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe333)  [Next](prwe335) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe333)  [Next](prwe335.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ Dugdale's 'Monasticon,' and Bulase's 'Cornwall.'"
 
 ------------------------------------------------------------------------
 
-[Next: Geese Dancing - Guise Dancing - Guizards](prwe335)
+[Next: Geese Dancing - Guise Dancing - Guizards](prwe335.md)

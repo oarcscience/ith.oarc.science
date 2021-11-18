@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod18)  [Next](hod20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod18)  [Next](hod20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -177,7 +177,7 @@ hurried along by a troop of fiends,
 <span id="img_41200"></span> <span align="CENTER"> [![DEMONS ON THE TOMB
 OF DAGOBERT.&lt;br&gt; (On the right of the high altar in the church of
 St. Denys, near Paris.)](tn/generic.jpg)  
-Click to view](img/41200.jpg)  
+Click to view](img/41200.jpg.md)  
 DEMONS ON THE TOMB OF DAGOBERT.  
 (On the right of the high altar in the church of St. Denys, near
 Paris.)  
@@ -187,7 +187,7 @@ who were about to cast him into a volcano. At last his cries to St.
 Denys, St. Michael, and St. Martin, brought to his assistance those
 three venerable and glorious persons, who drove off the devils, and with
 songs of triumph conveyed the rescued soul to Abraham's bosom." <span
-id="fr_227"></span>[1](#fn_226)
+id="fr_227"></span>[1](#fn_226.md)
 
 Among the romances which represent the struggle of man with temptation
 and the powers of evil Spenser's *Faerie Queene* and Bunyan's *Pilgrim's
@@ -201,12 +201,12 @@ but dates back to the fourteenth and thirteenth centuries. A
 manuscript-copy of *Le Romant des trois Pélerinages* by Guillaume de
 Guillauille describes the adventures of a man in his pilgrimage through
 life. In a deep valley the pilgrim meets covetousness, which
-Didron <span id="fr_228"></span>[1](#fn_227) describes as follows:
+Didron <span id="fr_228"></span>[1](#fn_227.md) describes as follows:
 
 <span id="img_41300"></span> <span align="CENTER">
 [![COVETOUSNESS.&lt;br&gt; (From the manuscript-copy in the Library of
 St. Geneviève, Paris.)](tn/generic.jpg)  
-Click to view](img/41300.jpg)  
+Click to view](img/41300.jpg.md)  
 COVETOUSNESS.  
 (From the manuscript-copy in the Library of St. Geneviève, Paris.)  
 </span>
@@ -242,7 +242,7 @@ to have a special passion for
 <span id="img_41400"></span> <span align="CENTER"> [![FAUST SIGNING THE
 CONTRACT WITH THE DEVIL IN BLOOD.&lt;br&gt; (By Franz
 Simm)](tn/generic.jpg)  
-Click to view](img/41400.jpg)  
+Click to view](img/41400.jpg.md)  
 FAUST SIGNING THE CONTRACT WITH THE DEVIL IN BLOOD.  
 (By Franz Simm)  
 </span>
@@ -290,7 +290,7 @@ but now Theophilus
 THEOPHILUS.&lt;br&gt; From Monk Conrad's illumined MS. (Thirteenth
 Century; Monastery Scheiern Now in the Royal Library of
 Munich.)](tn/generic.jpg)  
-Click to view](img/41600.jpg)  
+Click to view](img/41600.jpg.md)  
 THE LEGEND OF THEOPHILUS.  
 From Monk Conrad's illumined MS. (Thirteenth Century; Monastery Scheiern
 Now in the Royal Library of Munich.)  
@@ -657,7 +657,7 @@ Click to view</a></span></p></td>
 </div>
 
 <span class="small">LAST HOURS AND DEATH. (Widman's Faust.)</span> <span
-id="fr_229"></span>[1](#fn_228)
+id="fr_229"></span>[1](#fn_228.md)
 
 A transcription of the Faust-legend in rhymes was published as early as
 1587 in Tübingen. Another version by Widman appeared in Hamburg in 1599.
@@ -715,7 +715,7 @@ inspire Goethe who saw it still performed when
 
 <span id="img_42900"></span> <span align="CENTER"> [![THE DEVIL IN THE
 PUPPET PLAY](tn/generic.jpg)  
-Click to view](img/42900.jpg)  
+Click to view](img/42900.jpg.md)  
 THE DEVIL IN THE PUPPET PLAY  
 </span>
 
@@ -770,7 +770,7 @@ night scene which has become a satirical intermezzo of Goethe's time.
 <span id="img_43100"></span> <span align="CENTER"> [![WITCHES
 CELEBRATING WALPURGIS NIGHT.&lt;br&gt; (By Franz
 Simm.)](tn/generic.jpg)  
-Click to view](img/43100.jpg)  
+Click to view](img/43100.jpg.md)  
 WITCHES CELEBRATING WALPURGIS NIGHT.  
 (By Franz Simm.)  
 </span>
@@ -788,7 +788,7 @@ their rank into his kingdom.
 
 <span id="img_43200"></span> <span align="CENTER">
 [![](tn/generic.jpg)  
-Click to view](img/43200.jpg)</span>
+Click to view](img/43200.jpg.md)</span>
 
 The first man, however, who (so far as I am aware) was wise enough to
 take, as a matter of principle, a humorous view of the Devil and hell
@@ -815,7 +815,7 @@ feelings of a well-bred Englishman.
 <span id="img_43300"></span> <span align="CENTER"> [![HELL ACCORDING TO
 DIONYSIUS KLEIN'S TRAGICO-COMŒDIA.&lt;br&gt; (Reproduced from Bastian's
 &lt;i&gt;Die Denkschöpfung&lt;/i&gt;.)](tn/generic.jpg)  
-Click to view](img/43300.jpg)  
+Click to view](img/43300.jpg.md)  
 HELL ACCORDING TO DIONYSIUS KLEIN'S TRAGICO-COMŒDIA.  
 (Reproduced from Bastian's *Die Denkschöpfung*.)  
 </span>
@@ -851,7 +851,7 @@ The Devil won them both.
 The Devil laughed and swore:  
 'They'll serve my cause, I hope.  
 The one I'll make a pope,  
-The other emperor!'" <span id="fr_230"></span>[1](#fn_229)
+The other emperor!'" <span id="fr_230"></span>[1](#fn_229.md)
 
 \["Un jour Dieu sur la table  
 Jouait avec le diable  
@@ -974,11 +974,11 @@ oil a barbwire
 
 <span id="img_43700"></span> <span align="CENTER"> [![HELL UP TO
 DATE.](tn/generic.jpg)  
-Click to view](img/43700.jpg)  
+Click to view](img/43700.jpg.md)  
 HELL UP TO DATE.  
 </span>
 
- <span id="fr_231"></span>[1](#fn_230)
+ <span id="fr_231"></span>[1](#fn_230.md)
 
 <span id="page_438">p. 438</span>
 
@@ -1000,27 +1000,27 @@ ancestors were more than mere tales that adorn a moral.
 
 ### Footnotes
 
-<span id="fn_226"></span>[412:1](hod19.htm#fr_227) *Gesta Dagob*. (cc.
+<span id="fn_226"></span>[412:1](hod19.htm#fr_227.md) *Gesta Dagob*. (cc.
 23, 44). Baronius (647, 5). D. Bouquet. *Rec. des histoires de France*,
 t. ii. p. 593. Didron, *Christian Iconography*, ii. p. 132.
 
-<span id="fn_227"></span>[413:1](hod19.htm#fr_228) A manuscript-copy of
+<span id="fn_227"></span>[413:1](hod19.htm#fr_228.md) A manuscript-copy of
 an old English translation exists in the University Library of
 Cambridge, England.
 
-<span id="fn_228"></span>[427:1](hod19.htm#fr_229) Most of these
+<span id="fn_228"></span>[427:1](hod19.htm#fr_229.md) Most of these
 illustrations need no further comments. The last three represent the
 storm that was raging during Faust's funeral, the inheritance of Wagner,
 consisting of Faust's books and instruments, and also Helen and her son.
 The last picture shows Faust's ghost haunting his old residence at
 Wittenberg.
 
-<span id="fn_229"></span>[434:1](hod19.htm#fr_230) Translation specially
+<span id="fn_229"></span>[434:1](hod19.htm#fr_230.md) Translation specially
 made by E. F. L Gauss.
 
-<span id="fn_230"></span>[437:1](hod19.htm#fr_231) By permission from A.
+<span id="fn_230"></span>[437:1](hod19.htm#fr_231.md) By permission from A.
 Young's *Hell Up to Date*. Copyright 1892 by F. J. Schulte.
 
 ------------------------------------------------------------------------
 
-[Next: The Philosophical Problem of Good and Evil](hod20)
+[Next: The Philosophical Problem of Good and Evil](hod20.md)

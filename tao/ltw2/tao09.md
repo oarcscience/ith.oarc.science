@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao09)   
-[Previous](tao08)  [Next](tao10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao09.md)   
+[Previous](tao08)  [Next](tao10.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ TAO of Heaven.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10](tao10)
+[Next: Chapter 10](tao10.md)

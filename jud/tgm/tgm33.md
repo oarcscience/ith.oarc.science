@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm32)  [Next](tgm34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm32)  [Next](tgm34.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ kill Moses, was very impatient.
 <span id="img_17900"></span>
 
 [![](tn/17900.jpg)  
-Click to enlarge](img/17900.jpg)
+Click to enlarge](img/17900.jpg.md)
 
  
 
@@ -238,4 +238,4 @@ Caliph remained friends for the rest of their lives.
 
 ------------------------------------------------------------------------
 
-[Next: 31. The Rabbi Wins](tgm34)
+[Next: 31. The Rabbi Wins](tgm34.md)

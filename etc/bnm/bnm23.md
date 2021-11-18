@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm22)  [Next](bnm24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm22)  [Next](bnm24.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ cannot.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Hoofs Of The Deer Are Split.](bnm24)
+[Next: Why The Hoofs Of The Deer Are Split.](bnm24.md)

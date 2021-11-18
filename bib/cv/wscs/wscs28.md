@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs27) 
-[Next](wscs29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs27.md) 
+[Next](wscs29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ of the Father, and
 
 was thus "made flesh." (John i. 2.) Not a word of Christ being born is
 found in John's Gospel, till after his existence as the Word is spoken
-of. (See [first note in back of book](wscs51.htm#note435).)
+of. (See [first note in back of book](wscs51.htm#note435)..md)
 
 #### THE WORD AS CREATOR
 
@@ -219,4 +219,4 @@ forth the Word as Creator."
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIV: The Trinity Very Anciently a Current Heathen
-Doctrine](wscs29)
+Doctrine](wscs29.md)

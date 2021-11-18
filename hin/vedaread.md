@@ -1,6 +1,6 @@
 <span class="small"></span>
 
-[sacred-texts index](../index)  [Hinduism index](index) 
+[sacred-texts index](../index)  [Hinduism index](index.md) 
 
 ------------------------------------------------------------------------
 

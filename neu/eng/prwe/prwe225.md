@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe224)  [Next](prwe226) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe224)  [Next](prwe226.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Every-Day Book.
 
 ------------------------------------------------------------------------
 
-[Next: Midsummer Superstitious Customs](prwe226)
+[Next: Midsummer Superstitious Customs](prwe226.md)

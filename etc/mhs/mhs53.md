@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs52)  [Next](mhs54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs52)  [Next](mhs54.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ whose back the New Year is represented as being mounted.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Sixth Day Of The Week](mhs54)
+[Next: V. The Sixth Day Of The Week](mhs54.md)

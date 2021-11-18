@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb41)  [Next](yefb43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb41)  [Next](yefb43.md) 
 
 </div>
 
@@ -402,6 +402,6 @@ wedding that lasted for a year and a day.
 
 ------------------------------------------------------------------------
 
-[Next: The Tinder-Box](yefb43)
+[Next: The Tinder-Box](yefb43.md)
 
 </div>

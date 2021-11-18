@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ftmg11)  [Next](ftmg13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ftmg11)  [Next](ftmg13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fairy Tales of Modern Greece*, by Theodore P. Gianakoulis and Georgia
 H. MacPherson, \[1930\], at Intangible Textual Heritage
 
@@ -98,7 +98,7 @@ argued
 
 <span id="img_09500"></span> <span align="CENTER"> [![A strange and
 beautiful creature, half woman, half fish.](tn/09500.jpg)  
-Click to enlarge](img/09500.jpg)  
+Click to enlarge](img/09500.jpg.md)  
 A strange and beautiful creature, half woman, half fish.  
 </span>
 
@@ -211,4 +211,4 @@ thought that for one exalted moment he had held a fairy in his power.
 
 ------------------------------------------------------------------------
 
-[Next: X. The Wonder of Skoupa](ftmg13)
+[Next: X. The Wonder of Skoupa](ftmg13.md)

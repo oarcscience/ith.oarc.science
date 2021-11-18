@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe32)  [Next](boe34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe32)  [Next](boe34.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ number of solid concentric spheres, one
 [![PLATE XLII. THE THREE WORLD OCTAVES&lt;br&gt; (From
 &lt;i&gt;Utriusque Cosmi&lt;/i&gt;; Robert Fludd, 1621. Vol.
 I)](tn/pl42.jpg)  
-Click to enlarge](img/pl42.jpg)  
+Click to enlarge](img/pl42.jpg.md)  
 PLATE XLII. THE THREE WORLD OCTAVES  
 (From *Utriusque Cosmi*; Robert Fludd, 1621. Vol. I)  
 
@@ -92,7 +92,7 @@ upwards by some great vine to the outer surface of the Earth, and,
 finding it delightful and habitable, returned and brought their people
 out of the "concave." Indian gods fell from Heaven, through the Earth;
 and vanished races were those who had returned to their first homes. How
-much of this Symmes had picked up through [fraternising](errata.htm#0)
+much of this Symmes had picked up through [fraternising](errata.htm#0.md)
 with the western Indians, or whether he had ever heard any of this
 tradition from them, we shall probably never know.
 
@@ -114,7 +114,7 @@ of spheres, more or less solid, concentric with each
 [![PLATE XLIII. THE SYMMES THEORY OF CONCENTRIC SPHERES&lt;br&gt; (From
 &lt;i&gt;The Symmes Theory of Concentric Spheres&lt;/i&gt;, compiled by
 Americus Symmes, 1878)](tn/pl43.jpg)  
-Click to enlarge](img/pl43.jpg)  
+Click to enlarge](img/pl43.jpg.md)  
 PLATE XLIII. THE SYMMES THEORY OF CONCENTRIC SPHERES  
 (From *The Symmes Theory of Concentric Spheres*, compiled by Americus
 Symmes, 1878)  
@@ -158,7 +158,7 @@ sky; yet he does not doubt that they are sufficiently warmed and lighted
 to support animal and vegetable life.
 
 His "mid-plane-space" theory is interesting, and Gardner's diagram
-([Plate XLIV](#img_pl44)) makes it very clear. Each sphere has a cavity,
+([Plate XLIV](#img_pl44).md) makes it very clear. Each sphere has a cavity,
 or *mid-plane-space* near its centre--the medial line, that is, which
 would split its crust or shell into inner and outer layers--filled with
 this light, subtle, elastic aerial fluid, "partaking somewhat of the
@@ -191,7 +191,7 @@ whalers and fishermen in the northern seas regarding
 at the Verges of the World. their separating atmospheres, and their
 mid-plane spaces&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;A Journey to the
 Earth's Interior&lt;/i&gt;; Marshall B. Gardner, 1920)](tn/pl44.jpg)  
-Click to enlarge](img/pl44.jpg)  
+Click to enlarge](img/pl44.jpg.md)  
 PLATE XLIV. GARDNER'S DIAGRAM OF SYMMES'S EARTH  
 *Showing the five concentric spheres, with their polar openings at the
 Verges of the World. their separating atmospheres, and their mid-plane
@@ -224,7 +224,7 @@ Verge."
 
 THE KORESHAN COSMOGONY is another "hollow Earth" theory, which was first
 given out in 1870 by Cyrus Reed Teed. The chart given in [Plate
-XLV](#img_pl45) contains all the principal diagrams by which the theory
+XLV](#img_pl45.md) contains all the principal diagrams by which the theory
 is illustrated.
 
 This second of modern American cosmogonies holds that the Earth we live
@@ -270,7 +270,7 @@ battery--the central sun, around and with which the heavens revolve in
 twenty-four hours. All the energies of the physical universe are
 engendered through the relation of the positive centre to the negative
 circumference; a great complex battery of physical unity is thus
-attained and perpetuated." <span id="fr_18"></span>[1](#fn_18)
+attained and perpetuated." <span id="fr_18"></span>[1](#fn_18.md)
 
 This shell, one hundred miles in thickness, is composed of seven
 metallic, five mineral, and five geologic strata. The seven metallic
@@ -329,7 +329,7 @@ things that exist in the heavens
 [![PLATE XLV. CHART OF THE KORESHAN COSMOGONY&lt;br&gt; (From
 &lt;i&gt;Cellular Cosmogony&lt;/i&gt;; Cyrus Reed Teed,
 1898)](tn/pl45.jpg)  
-Click to enlarge](img/pl45.jpg)  
+Click to enlarge](img/pl45.jpg.md)  
 PLATE XLV. CHART OF THE KORESHAN COSMOGONY  
 (From *Cellular Cosmogony*; Cyrus Reed Teed, 1898)  
 
@@ -347,7 +347,7 @@ The revolution of the Sun and not the rotation of the
 <span id="img_fig099"></span> ![FIGURE 99. ''&lt;i&gt;All things shew
 great through vapoures or myste&lt;/i&gt;.''&lt;br&gt; (From
 &lt;i&gt;The Castle of Knowledge&lt;/i&gt;; Robert Recorde,
-1556.)](img/fig099.jpg)  
+1556.)](img/fig099.jpg.md)  
 FIGURE 99. ''*All things shew great through vapoures or myste*.''  
 (From *The Castle of Knowledge*; Robert Recorde, 1556.)
 
@@ -388,7 +388,7 @@ in the great shell."
 
 The figures of Earth in this cosmogony are at first bewildering, until
 the eye becomes accustomed to the trick of "reverse." In the upper
-left-hand sphere ([Plate XLV](#img_pl45)) we are looking at the
+left-hand sphere ([Plate XLV](#img_pl45).md) we are looking at the
 "geography" of a concave surface--downwards as into a bowl. In the upper
 right-hand
 
@@ -426,8 +426,8 @@ openings and an interior Sun.
 
 This theory of the figure of the Earth was first published in 1913, in
 Marshall B. Gardner's *A Journey to the Earth's Interior, or Have the
-Poles Really Been Discovered*. [Plate XLVI](#img_pl46) shows the
-exterior of his working model, and [Fig. 100](#img_fig100) is a diagram
+Poles Really Been Discovered*. [Plate XLVI](#img_pl46.md) shows the
+exterior of his working model, and [Fig. 100](#img_fig100.md) is a diagram
 of the Earth bisected through its polar openings and showing the
 interior Sun.
 
@@ -462,7 +462,7 @@ in the planet's interior. which is hollow and contains a central sun
 instead of an ocean of liquid lava&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;A
 Journey to the Earth's Interior&lt;/i&gt;, Marshall B. Gardner,
 1920)](tn/pl46.jpg)  
-Click to enlarge](img/pl46.jpg)  
+Click to enlarge](img/pl46.jpg.md)  
 PLATE. XLVI. *The Earth according to Gardner, as it would appear if
 viewed  
 from space shorting the North Polar opening in the planet's interior.
@@ -547,7 +547,7 @@ corona of the central sun; at the point marked&lt;/i&gt;
 ''&lt;i&gt;E&lt;/i&gt;'' &lt;i&gt;we see the central sun in its
 entirety&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;A Journey to the Earth's
 Interior&lt;/i&gt;; Marshall B. Gardner, 1920.)](tn/fig100.jpg)  
-Click to enlarge](img/fig100.jpg)  
+Click to enlarge](img/fig100.jpg.md)  
 FIGURE 100. *Diagram showing the earth as a hollow sphere with its polar
 openings and central sun. The letters at top and bottom of diagram
 indicate the various steps of an imaginary journey through the planet's
@@ -634,9 +634,9 @@ on which he could float easily out.
 
 ### Footnotes
 
-<span id="fn_18"></span>[244:1](boe33.htm#fr_18) *Cellular Cosmogony*,
+<span id="fn_18"></span>[244:1](boe33.htm#fr_18.md) *Cellular Cosmogony*,
 Cyrus Reed Teed, 1905, p. 172.
 
 ------------------------------------------------------------------------
 
-[Next: The Tetrahedral Earth](boe34)
+[Next: The Tetrahedral Earth](boe34.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh06)  [Next](mbh08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh06)  [Next](mbh08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ foreign lands, or to
 <span id="page_25">p. 25</span>
 
 kill her. She was delivered by him into the hands of Teuthras <span
-id="fr_45"></span>[1](mbh08.htm#fn_45)
+id="fr_45"></span>[1](mbh08.htm#fn_45.md)
 
 According to the current tradition, Auge *exposes the newborn child* and
 escapes to Mysia, where the childless King Teuthras adopts her as his
@@ -55,4 +55,4 @@ of Teuthras he becomes King of Mysia.
 
 ------------------------------------------------------------------------
 
-[Next: Perseus](mbh08)
+[Next: Perseus](mbh08.md)

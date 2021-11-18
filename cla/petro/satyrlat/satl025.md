@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat05.htm#XXV)  [Previous](satl024) 
-[Next](satl026) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat05.htm#XXV)  [Previous](satl024.md) 
+[Next](satl026.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ iniuriam in secreto frater acciperet, consurrexi ad officium nuptiale.
 
 ------------------------------------------------------------------------
 
-[Next: XXVI](satl026)
+[Next: XXVI](satl026.md)

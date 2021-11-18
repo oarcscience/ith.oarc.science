@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot06) 
-[Next](aot08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot06.md) 
+[Next](aot08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -24,11 +24,11 @@ Heritage
 
 <span class="smallcaps">Flavius Philostratus</span>, the writer of the
 only Life of Apollonius which has come down to us, <span
-id="fr_53"></span>[\*](#fn_53) was a distinguished man of letters who
+id="fr_53"></span>[\*](#fn_53.md) was a distinguished man of letters who
 lived in the last quarter of the second and the first half of the third
 century (cir. 175-245 <span class="smallcaps">a.d.</span>). He formed
 one of the circle of famous writers and thinkers gathered round the
-philosopher-empress, <span id="fr_54"></span>[†](#fn_54) Julia Domna,
+philosopher-empress, <span id="fr_54"></span>[†](#fn_54.md) Julia Domna,
 who was the guiding spirit of the Empire during the reigns of her
 husband Septimius Severus and her son Caracalla. All three members of
 the imperial family were students of occult science, and the age was
@@ -48,14 +48,14 @@ man. He had lost his first wife whilst he was governor of the Lionnese
 Gaul. In the choice of a second, he sought only to connect himself with
 some favourite of fortune; and as soon as he had discovered that a young
 lady of Emesa in Syria had *a royal nativity*, <span
-id="fr_55"></span>[\*](#fn_55) he solicited and obtained her hand. Julia
-Domna <span id="fr_56"></span>[†](#fn_56) (for that was her name)
+id="fr_55"></span>[\*](#fn_55.md) he solicited and obtained her hand. Julia
+Domna <span id="fr_56"></span>[†](#fn_56) (for that was her name.md)
 deserved all that the stars could promise her. She possessed, even in an
-advanced age, <span id="fr_57"></span>[‡](#fn_57) the attractions of
+advanced age, <span id="fr_57"></span>[‡](#fn_57.md) the attractions of
 beauty, and united to a lively imagination a firmness of mind, and
 strength of judgment, seldom bestowed on her sex. Her amiable qualities
 never made any deep impression on the dark and jealous temper of her
-husband, <span id="fr_58"></span>[§](#fn_58) but in her son's reign, she
+husband, <span id="fr_58"></span>[§](#fn_58.md) but in her son's reign, she
 administered the principal affairs of the Empire with a prudence that
 supported his authority, and with a moderation that sometimes corrected
 
@@ -64,7 +64,7 @@ supported his authority, and with a moderation that sometimes corrected
 his wild extravagances. Julia applied herself to letters and philosophy
 with some success, and with the most splendid reputation. She was the
 patroness of every art, and the friend of every man of genius." <span
-id="fr_59"></span>[\*](#fn_59)
+id="fr_59"></span>[\*](#fn_59.md)
 
 We thus see, even from Gibbon's somewhat grudging estimate, that Domna
 Julia was a woman of remarkable character, whose outer acts give
@@ -95,32 +95,32 @@ outside, rather than an exposition of the thing itself from one within.
 
 The following is Philostratus’ account of the sources from which he
 derived his information concerning Apollonius: <span
-id="fr_60"></span>[\*](#fn_60)
+id="fr_60"></span>[\*](#fn_60.md)
 
 "I have collected my materials partly from the cities which loved him,
 partly from the temples whose rites and regulations he restored from
 their former state of neglect, partly from what others have said about
 him, and partly from his own letters. <span
-id="fr_61"></span>[†](#fn_61) More detailed information I procured as
+id="fr_61"></span>[†](#fn_61.md) More detailed information I procured as
 follows. Damis was a man of some education who formerly used to
 
 <span id="page_57">p. 57</span>
 
-live in the ancient city of Ninus. <span id="fr_62"></span>[\*](#fn_62)
+live in the ancient city of Ninus. <span id="fr_62"></span>[\*](#fn_62.md)
 He became a disciple of Apollonius and recorded his travels, in which he
 says he himself took part, and also the views, sayings, and predictions
 of his master. A member of Damis’ family brought the Empress Julia the
-note-books <span id="fr_63"></span>[†](#fn_63) containing these memoirs,
+note-books <span id="fr_63"></span>[†](#fn_63.md) containing these memoirs,
 which up to that time had not been known of. As I was one of the circle
 of this princess, who was a lover and patroness of all literary
 productions, she ordered me to rewrite these sketches and improve their
 form of expression, for though the Ninevite expressed himself clearly,
 his style was far from correct. I also have had access to a book by
-Maximus <span id="fr_64"></span>[‡](#fn_64) of Ægæ which contained all
-Apollonius’ doings at Ægæ. <span id="fr_65"></span>[§](#fn_65) There is
+Maximus <span id="fr_64"></span>[‡](#fn_64.md) of Ægæ which contained all
+Apollonius’ doings at Ægæ. <span id="fr_65"></span>[§](#fn_65.md) There is
 also a will written by Apollonius, from which we can learn how he almost
-deified philosophy. <span id="fr_66"></span>[\*\*](#fn_66) As to the
-four books of Mœragenes <span id="fr_67"></span>[¶](#fn_67) on
+deified philosophy. <span id="fr_66"></span>[\*\*](#fn_66.md) As to the
+four books of Mœragenes <span id="fr_67"></span>[¶](#fn_67.md) on
 Apollonius they do not deserve
 
 <span id="page_58">p. 58</span>
@@ -134,7 +134,7 @@ except perhaps a few letters. Nor did Philostratus spare any pains to
 gather information on the subject, for in his concluding words (viii.
 31), he tells us that he has himself travelled into most parts of the
 "world" and everywhere met with the "inspired sayings" <span
-id="fr_68"></span>[\*](#fn_68) of Apollonius, and that he was especially
+id="fr_68"></span>[\*](#fn_68.md) of Apollonius, and that he was especially
 well acquainted with the temple dedicated to the memory of our
 philosopher at Tyana and founded at the imperial expense ("for the
 emperors had judged him not unworthy of like honours with themselves"),
@@ -158,7 +158,7 @@ composition of set speeches.
 Now as the ancient writers did not separate their notes from the text,
 or indicate them in any distinct fashion, we have to be constantly on
 our guard to detect the original sources from the glosses of the
-writer. <span id="fr_69"></span>[\*](#fn_69) In fact Philostratus is
+writer. <span id="fr_69"></span>[\*](#fn_69.md) In fact Philostratus is
 ever taking advantage of the mention of a name or a subject to display
 his own knowledge, which is often of a most legendary and fantastic
 nature. This is especially the ease in his description of Apollonius’
@@ -166,7 +166,7 @@ Indian travels. India at that time and long afterwards was considered
 the "end of the world," and an infinity of the strangest "travellers’
 tales" and mythological fables were in circulation concerning it. One
 has only to read the accounts of the writers on India <span
-id="fr_70"></span>[†](#fn_70) from the time of Alexander onwards to
+id="fr_70"></span>[†](#fn_70.md) from the time of Alexander onwards to
 discover the source of most of the strange incidents
 
 <span id="page_60">p. 60</span>
@@ -183,8 +183,8 @@ perusal of Megasthenes, however, will speedily reduce the long
 Philostratian account of the Indian travels of Apollonius (i. 41–iii.
 58) to a very narrow compass, for page after page is simply padding,
 picked up from any one of the numerous Indica to which our widely read
-author had access. <span id="fr_71"></span>[\*](#fn_71) To judge from
-such writers, Porus <span id="fr_72"></span>[†](#fn_72) (the Rājāh
+author had access. <span id="fr_71"></span>[\*](#fn_71.md) To judge from
+such writers, Porus <span id="fr_72"></span>[†](#fn_72.md) (the Rājāh
 conquered by Alexander) was the immemorial king of India. In fact, in
 speaking of India or any other little-known country, a writer in these
 days had to drag in all that popular legend associated with it or he
@@ -204,7 +204,7 @@ But it would be too long to enter into a detailed investigation of the
 subject, although the writer has prepared notes on all these points, for
 that would be to write a volume and not a sketch. Only a few points are
 therefore set down, to warn the student to be ever on his guard to sift
-out Philostratus from his sources. <span id="fr_73"></span>[\*](#fn_73)
+out Philostratus from his sources. <span id="fr_73"></span>[\*](#fn_73.md)
 
 But though we must be keenly alive to the importance of a thoroughly
 critical attitude where definite facts of history are concerned, we
@@ -277,34 +277,34 @@ life.
 
 ### Footnotes
 
-<span id="fn_53"></span>[53:\*](aot07.htm#fr_53) Consisting of eight
+<span id="fn_53"></span>[53:\*](aot07.htm#fr_53.md) Consisting of eight
 books written in Greek under the general title Τὰ ἐς τὸν Τυανέα
 Ἀπολλώνιον
 
-<span id="fn_54"></span>[53:†](aot07.htm#fr_54) ἡ φιλόσοφος, see art.
+<span id="fn_54"></span>[53:†](aot07.htm#fr_54.md) ἡ φιλόσοφος, see art.
 "Philostratus" in Smith's Dict. of Gr. and Rom. Biog. (London; 1870),
 iii. 327*b*.
 
-<span id="fn_55"></span>[54:\*](aot07.htm#fr_55) The italics are
+<span id="fn_55"></span>[54:\*](aot07.htm#fr_55.md) The italics are
 Gibbon's.
 
-<span id="fn_56"></span>[54:†](aot07.htm#fr_56) More correctly Domna
+<span id="fn_56"></span>[54:†](aot07.htm#fr_56.md) More correctly Domna
 Julia; Domna being not a shortened form of Domina, but the Syrian name
 of the empress.
 
-<span id="fn_57"></span>[54:‡](aot07.htm#fr_57) She died <span
+<span id="fn_57"></span>[54:‡](aot07.htm#fr_57.md) She died <span
 class="smallcaps">a.d.</span> 217.
 
-<span id="fn_58"></span>[54:§](aot07.htm#fr_58) The contrary is held by
+<span id="fn_58"></span>[54:§](aot07.htm#fr_58.md) The contrary is held by
 other historians.
 
-<span id="fn_59"></span>[55:\*](aot07.htm#fr_59) Gibbon's Decline and
+<span id="fn_59"></span>[55:\*](aot07.htm#fr_59.md) Gibbon's Decline and
 Fall, I. vi.
 
-<span id="fn_60"></span>[56:\*](aot07.htm#fr_60) I use the 1846 and 1870
+<span id="fn_60"></span>[56:\*](aot07.htm#fr_60.md) I use the 1846 and 1870
 editions of Kayser's text throughout.
 
-<span id="fn_61"></span>[56:†](aot07.htm#fr_61) A collection of these
+<span id="fn_61"></span>[56:†](aot07.htm#fr_61.md) A collection of these
 letters (but not all of them) had been in the possession of the Emperor
 Hadrian (<span class="smallcaps">a.d.</span> 117138), and had been left
 in his palace at Antium (viii. 20). This proves the great fame that
@@ -313,35 +313,35 @@ while he was still a living memory. It is to be noticed that Hadrian was
 an enlightened ruler, a great traveller, a lover of religion, and an
 initiate of the Eleusinian Mysteries.
 
-<span id="fn_62"></span>[57:\*](aot07.htm#fr_62) Nineveh.
+<span id="fn_62"></span>[57:\*](aot07.htm#fr_62.md) Nineveh.
 
-<span id="fn_63"></span>[57:†](aot07.htm#fr_63) τὰς δέλτους, writing
+<span id="fn_63"></span>[57:†](aot07.htm#fr_63.md) τὰς δέλτους, writing
 tablets. This suggests that the account of Damis could not have been
 very voluminous, although Philostratus further on asserts its detailed
 nature (i. 19).
 
-<span id="fn_64"></span>[57:‡](aot07.htm#fr_64) One of the imperial
+<span id="fn_64"></span>[57:‡](aot07.htm#fr_64.md) One of the imperial
 secretaries of the time, who was famous for his eloquence, and tutor to
 Apollonius.
 
-<span id="fn_65"></span>[57:§](aot07.htm#fr_65) A town not far from
+<span id="fn_65"></span>[57:§](aot07.htm#fr_65.md) A town not far from
 Tarsus.
 
-<span id="fn_66"></span>[57:\*\*](aot07.htm#fr_66) ὡς ὑποθειοάζων τὴν
+<span id="fn_66"></span>[57:\*\*](aot07.htm#fr_66.md) ὡς ὑποθειοάζων τὴν
 φιλοσοφίαν ἐγένετο. The term ὐποθειάζων occurs only in this passage, and
 I am therefore not quite certain of its meaning.
 
-<span id="fn_67"></span>[57:¶](aot07.htm#fr_67) This Life by Mœragenes
+<span id="fn_67"></span>[57:¶](aot07.htm#fr_67.md) This Life by Mœragenes
 is casually mentioned by <span id="page_58">p. 58</span> Origenes,
 Contra Celsum, vi. 41; ed. Lommatzsch (Berlin; 1841), ii. 373.
 
-<span id="fn_68"></span>[58:\*](aot07.htm#fr_68) λόγοις δαιμονίοις
+<span id="fn_68"></span>[58:\*](aot07.htm#fr_68.md) λόγοις δαιμονίοις
 
-<span id="fn_69"></span>[59:\*](aot07.htm#fr_69) Seldom is it that we
+<span id="fn_69"></span>[59:\*](aot07.htm#fr_69.md) Seldom is it that we
 have such a clear indication, for instance, as in i. 25; "The following
 is what *I* have been able to learn . . . about Babylon."
 
-<span id="fn_70"></span>[59:†](aot07.htm#fr_70) See E. A. Schwanbeck,
+<span id="fn_70"></span>[59:†](aot07.htm#fr_70.md) See E. A. Schwanbeck,
 Megasthenis Indica (Bonn; 1846), and J. W. M’Crindle, Ancient India as
 described by Megasthenes and Arrian (Calcutta, Bombay, London; 1877),
 The Commerce and Navigation of the Erythræan Sea (1879), Ancient India
@@ -349,14 +349,14 @@ as described by Ktesias (1882), Ancient India as described by Ptolemy
 (London; 1885), and The Invasion of India by Alexander the Great
 (London; 1893, 1896).
 
-<span id="fn_71"></span>[60:\*](aot07.htm#fr_71) Another good example of
+<span id="fn_71"></span>[60:\*](aot07.htm#fr_71.md) Another good example of
 this is seen in the disquisition on elephants which Philostratus takes
 from Juba's History of Libya (ii. 13 and 16).
 
-<span id="fn_72"></span>[60:†](aot07.htm#fr_72) Perhaps a title, or the
+<span id="fn_72"></span>[60:†](aot07.htm#fr_72.md) Perhaps a title, or the
 king of the Purus.
 
-<span id="fn_73"></span>[61:\*](aot07.htm#fr_73) Not that Philostratus
+<span id="fn_73"></span>[61:\*](aot07.htm#fr_73.md) Not that Philostratus
 makes any disguise of his embellishments; see, for instance, ii. 17,
 where he says: "Let me, however, defer what *I* have to say on the
 subject of serpents, of the manner of hunting which Damis gives a
@@ -364,4 +364,4 @@ description."
 
 ------------------------------------------------------------------------
 
-[Next: Section VII. Early Life](aot08)
+[Next: Section VII. Early Life](aot08.md)

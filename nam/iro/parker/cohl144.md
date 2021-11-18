@@ -1,10 +1,10 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl143)  [Next](cohl145) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl143)  [Next](cohl145.md) 
 
 ------------------------------------------------------------------------
 
-### NE GANEOWO <span id="fr_100"></span>[1](#fn_100)
+### NE GANEOWO <span id="fr_100"></span>[1](#fn_100.md)
 
 One of the four sacred ceremonies of the Seneca
 
@@ -257,11 +257,11 @@ Now you who have sung and are singing, we thank you.
 
 ### Footnotes
 
-<span id="fn_100"></span>[94:1](cohl144.htm#fr_100) Ne?'
+<span id="fn_100"></span>[94:1](cohl144.htm#fr_100.md) Ne?'
 Ga:ne:'o<sup>n</sup>wo<sup>n</sup>, recorded and translated at Newtown,
 Cattaraugus reservation, January 1906.
 
 ------------------------------------------------------------------------
 
 [Next: Outlines of the Cornplanting and the Maple
-Thanksgivings](cohl145)
+Thanksgivings](cohl145.md)

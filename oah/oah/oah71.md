@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah70)  [Next](oah72) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah70)  [Next](oah72.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Lords, for the first resurrection, were established on the earth, and in
 the divisions of the Lords. So that there were allotted to these Lords'
 kingdoms thirty-three years for a resurrection, because thirty-three is
 the division of dan corresponding to one hundred dans to each
-cycle. <span id="fr_15"></span>[2](#fn_15)
+cycle. <span id="fr_15"></span>[2](#fn_15.md)
 
 4\. Accordingly, every thirty-three years thereafter there was one
 migration of a group from the Lord's first resurrection to that of
@@ -76,7 +76,7 @@ in another hundred years I shall have delivered them into etherea
 
 ### Footnotes
 
-<span id="fn_15"></span>[91:2](oah71.htm#fr_15) Thirty-three years is
+<span id="fn_15"></span>[91:2](oah71.htm#fr_15.md) Thirty-three years is
 one generation or mortal dan; thirty-three hundred years is one cycle or
 dan of the earth's life. This was the old way of counting, but three
 times thirty-three is not one hundred, nor is thirty times one hundred
@@ -88,4 +88,4 @@ men will be thirty years.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](oah72)
+[Next: Chapter XV](oah72.md)

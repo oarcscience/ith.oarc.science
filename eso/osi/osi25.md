@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi24)  [Next](osi26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi24)  [Next](osi26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -44,7 +44,7 @@ exorcising Rakchasas, Pisatchas, Nagas, Souparnas, and other evil
 spirits that frequent funeral ceremonies, take possession of men's
 bodies, and disturb the sacrifices.
 
-We have already, in another work, <span id="fr_9"></span>[1](#fn_9)
+We have already, in another work, <span id="fr_9"></span>[1](#fn_9.md)
 discussed that portion of the Book of the Pitris, notwithstanding its
 vulgarity,
 
@@ -638,7 +638,7 @@ which we do not propose to extend further; otherwise we might show that
 the popular traditions with regard to sorcery in India found their way
 also into Greece, Rome, and ancient Chaldea.
 
-One word [however](errata.htm#5) about this latter country, which, as
+One word [however](errata.htm#5.md) about this latter country, which, as
 claimed by Berosus, Æschylus, and Herodotus, was colonized by a
 multitude of unknown people and mixed tribes, speaking different
 languages.
@@ -890,8 +890,8 @@ seem to us to have drank from the same fountain.
 
 ### Footnotes
 
-<span id="fn_9"></span>[136:1](osi25.htm#fr_9) History of the Virgins.
+<span id="fn_9"></span>[136:1](osi25.htm#fr_9.md) History of the Virgins.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Origin of the Cabala](osi26)
+[Next: Chapter I. Origin of the Cabala](osi26.md)

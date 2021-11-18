@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr07)  [Next](abr09) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr07)  [Next](abr09.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ Household), and only God knows what was hidden.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters and Phrases That Mentioned Abraham (PUH)](abr09)
+[Next: Chapters and Phrases That Mentioned Abraham (PUH)](abr09.md)
 
 </div>
 

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj24)  [Next](atfj26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj24)  [Next](atfj26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_28"></span> <span align="CENTER"> [![28. O Kinu San
 Inspects the Place Where Takadai Jiro Committed Suicide](tn/28.jpg)  
-Click to enlarge](img/28.jpg)  
+Click to enlarge](img/28.jpg.md)  
 28. O Kinu San Inspects the Place Where Takadai Jiro Committed Suicide  
 </span>
 
@@ -243,6 +243,6 @@ spirit was now no longer in fear of O Kinu marrying.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV. Theft And Recovery of a Golden Kwannon](atfj26)
+[Next: XXIV. Theft And Recovery of a Golden Kwannon](atfj26.md)
 
 </div>

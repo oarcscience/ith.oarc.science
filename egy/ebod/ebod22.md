@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod21)  [Next](ebod23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod21)  [Next](ebod23.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ Lake of Flowers,\[4\] (3) \[neither shall I have\] a boat wherein to go
 down the Nile, and another wherein to go up, nor shall I go forward in
 the boat with thee. May my mouth be given unto me that I may (4) speak
 with it, and my two feet to it walk withal, and my two hands and arms to
-overthrow my foe. May the doors of heaven be opened unto me\[5\](5); may
+overthrow my foe. May the doors of heaven be opened unto me\[5\](5.md); may
 Seb, the Prince of the gods, open wide his two jaws unto me; may he open
 my two eyes which are blinded; may he cause me to stretch out my (6)
 feet which are bound together; and may Anubis make my legs firm that I
@@ -351,4 +351,4 @@ they be."
 
 ------------------------------------------------------------------------
 
-[Next: Plate XVI.](ebod23)
+[Next: Plate XVI.](ebod23.md)

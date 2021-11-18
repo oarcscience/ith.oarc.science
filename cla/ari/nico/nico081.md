@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico080) 
-[Next](nico082) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico080.md) 
+[Next](nico082.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ others bad; it remains to speak of friendship.
 ------------------------------------------------------------------------
 
 [Next: Chapter 1. Friendship both necessary and noble: main questions
-about it](nico082)
+about it](nico082.md)

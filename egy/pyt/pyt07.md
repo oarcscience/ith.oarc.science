@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt06)  [Next](pyt08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt06)  [Next](pyt08.md) 
 
 ------------------------------------------------------------------------
 
@@ -635,4 +635,4 @@ of Atum.
 ------------------------------------------------------------------------
 
 [Next: 5. The Deceased King Receives Offerings and is Re-Established in
-His Functions and Possessions, Utterances 223-225](pyt08)
+His Functions and Possessions, Utterances 223-225](pyt08.md)

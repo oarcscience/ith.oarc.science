@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](bfd35)  [Next](bfd37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](bfd35)  [Next](bfd37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Filial Duty*, by Ivan Chen, \[1908\], at Intangible Textual
 Heritage
 
@@ -27,7 +27,7 @@ during the troubles of the time, when Wang Mang was plotting to usurp
 the throne, there were years of scarcity, in which he could not procure
 food, and Ts‘ai was compelled to gather mulberries, which he assorted,
 putting them into two vessels. The red-eyebrowed robber <span
-id="fr_4"></span>[\*](#fn_4) saw him, and inquired why he did thus.
+id="fr_4"></span>[\*](#fn_4.md) saw him, and inquired why he did thus.
 Ts‘ai replied: "The black and ripe berries I give to my mother, the
 yellow and unripe ones I eat myself." The bandit admired his filial
 affection, and rewarded him with three measures of white rice and the
@@ -52,9 +52,9 @@ they even forgot that the year was one of dearth.
 
 ### Footnotes
 
-<span id="fn_4"></span>[51:\*](bfd36.htm#fr_4) That is, the usurper Wang
+<span id="fn_4"></span>[51:\*](bfd36.htm#fr_4.md) That is, the usurper Wang
 Mang himself.
 
 ------------------------------------------------------------------------
 
-[Next: No. XVI: He laid up the Oranges for his Mother](bfd37)
+[Next: No. XVI: He laid up the Oranges for his Mother](bfd37.md)

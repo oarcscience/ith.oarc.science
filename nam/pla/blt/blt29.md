@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt28)  [Next](blt30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt28)  [Next](blt30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -147,7 +147,7 @@ must jump."
 
 So Old Man went out toward the creek very slowly, and very much scared.
 He did not know what to do. As he was going along he saw a
-*ni'-po-muk-i* <span id="fr_27"></span>[1](#fn_27) and he said: "Oh my
+*ni'-po-muk-i* <span id="fr_27"></span>[1](#fn_27.md) and he said: "Oh my
 little brother, pity me. Give me some of your power to jump the creek,
 and here is my necklace. See how pretty it is. I will give it to you."
 
@@ -180,7 +180,7 @@ the lodge, facing each other. They had spears, which they held above
 their heads and were to thrust back and forth at each other in time to
 the singing. Near the door-way were placed two old women, facing each
 other. Each one held a *puk'-sah-tchis,* <span
-id="fr_28"></span>[1](#fn_28)—a maul,—with which she was to beat time to
+id="fr_28"></span>[1](#fn_28.md)—a maul,—with which she was to beat time to
 the singing. The other seats in the lodge were taken by people who were
 to sing. Now Old Man hung a big roll of belly fat close over the fire,
 so that the hot grease began to drip, and everything was ready, and the
@@ -219,12 +219,12 @@ but Old Man was gone. They saw him no more.
 
 ### Footnotes
 
-<span id="fn_27"></span>[162:1](blt29.htm#fr_27) The chickadee.
+<span id="fn_27"></span>[162:1](blt29.htm#fr_27.md) The chickadee.
 
-<span id="fn_28"></span>[163:1](blt29.htm#fr_28) A round or oblong
+<span id="fn_28"></span>[163:1](blt29.htm#fr_28.md) A round or oblong
 stone, to which a handle was bound by rawhide thongs, used for breaking
 marrow bones, etc.
 
 ------------------------------------------------------------------------
 
-[Next: The Rock](blt30)
+[Next: The Rock](blt30.md)

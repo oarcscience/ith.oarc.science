@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb04)  [Next](gyfb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb04)  [Next](gyfb06.md) 
 
 </div>
 
@@ -504,6 +504,6 @@ on.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Dschemil and Dschemila](gyfb06)
+[Next: The Story of Dschemil and Dschemila](gyfb06.md)
 
 </div>

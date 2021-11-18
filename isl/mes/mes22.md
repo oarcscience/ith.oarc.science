@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes21)  [Next](mes23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes21)  [Next](mes23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,7 +21,7 @@ Textual Heritage
 ### VII.
 
 <span id="img_m11400"></span> ![The Merchant and the
-Parrot.](img/m11400.jpg)
+Parrot.](img/m11400.jpg.md)
 
 <span class="smallcaps">A merchant</span> there was, who a parrot did
 own;  
@@ -51,7 +51,7 @@ If this is the way in which true friends should act;
 Leave him in his cage, while you forests affect.  
 He wishes you'd call to your mind your lost friend,  
 When drinking your bumpers, ere fieldward you wend. <span
-id="fr_203"></span>[1](#fn_202)
+id="fr_203"></span>[1](#fn_202.md)
 
 <span id="page_m115">p. 115</span>
 
@@ -60,14 +60,14 @@ One's sweetheart, whose love's set one's heart in a flame.
 While you are disporting with those you love best,  
 He's eating his heart out; grief gives him no rest.  
 One bumper you'll drink for the love of poor Poll, <span
-id="fr_204"></span>[1](#fn_203)  
+id="fr_204"></span>[1](#fn_203.md)  
 If only you wish him your love to extol. <span class="margnote"><span
 id="an_15">15</span></span>  
 Or, thinking of him who's in slavery kept,  
 Your bowl's whole contents dash to earth, as though wept.  
 O where is the promise, and where is the oath,  
 Th’ engagements sworn to him by sugarsome tooth? <span
-id="fr_205"></span>[2](#fn_204)  
+id="fr_205"></span>[2](#fn_204.md)  
 If absence of his came from truancy's pranks,  
 You've set your forgetfulness ’gainst his sin's ranks.  
 The ills you inflict out of spite and disdain  
@@ -106,10 +106,10 @@ In anguish he groans; God, in mercy, him hears.
 His cry is: "O Lord!" And God wipes off his tears.  
 Abasement in him, is by God highly prized.  
 His blasphemies, o’er other men's faith are raised. <span
-id="fr_206"></span>[1](#fn_205)  
+id="fr_206"></span>[1](#fn_205.md)  
 Each instant, in soul, he ascends to heaven's gate;  
 His mitre's with crowns capped, of infinite state. <span
-id="fr_207"></span>[2](#fn_206)  
+id="fr_207"></span>[2](#fn_206.md)  
 His frame's here on earth; his pure soul with the Lord  
 <span class="margnote"><span id="an_35">35</span></span> In heaven's
 highest sphere, above man's thought or word.  
@@ -117,11 +117,11 @@ A heaven such as this thou contemplatest not;
 Thou every moment imaginest—what?  
 With him "*where*" and "*nowhere*" are quite equal felt.  
 To angels the "*four rivers*" seem a mere belt. <span
-id="fr_208"></span>[3](#fn_207)
+id="fr_208"></span>[3](#fn_207.md)
 
 Break off we this theme. Let's discuss other things.  
 Cease trifling. "’Tis God who knows best" sense's rings. <span
-id="fr_209"></span>[4](#fn_208)  
+id="fr_209"></span>[4](#fn_208.md)  
 Let's seek to inquire how it fares with our friends,—  
 The merchant, his parrot. Who is’t understands?
 
@@ -171,7 +171,7 @@ Who patience exhibits shall mount to heaven's dome.
 Impatience who showeth, tastes wrath that's to come.
 
 A saint is not hurt, whate’er else may betide, <span
-id="fr_210"></span>[1](#fn_209)  
+id="fr_210"></span>[1](#fn_209.md)  
 To swallow fell poison should he once decide.
 
 <span id="page_m118">p. 118</span>
@@ -194,12 +194,12 @@ A just man's accepted of God, the Most High.
 His deeds are the works of God's hand, still. Eigh! Eigh!  
 Th’ imperfect one's hand is aye Satan's foul limb;  
 <span class="margnote"><span id="an_65">65</span></span> Responsible
-rests he, howe’er he may climb. <span id="fr_211"></span>[1](#fn_210)  
+rests he, howe’er he may climb. <span id="fr_211"></span>[1](#fn_210.md)  
 To him wisdom's self's but a mere misguidance.  
 Th’ imperfect man's science is crass ignorance.  
 Whatever as cause acts, as cause counted is;  
 A perfect man's blasphemy's pure faith, my quiz. <span
-id="fr_212"></span>[2](#fn_211)  
+id="fr_212"></span>[2](#fn_211.md)  
 Rash combatant, fight’st thou on foot ’gainst horseman!  
 Thy point thou’lt not carry;—as sure as thou’rt man.
 
@@ -209,7 +209,7 @@ At length they owned Moses superior was;
 <span class="margnote"><span id="an_70">70</span></span> Men honour,
 revere him, who most of power has.  
 They said to him, then: "Command ’s thine! See! Purely!  
-'Thy rod cast down' first. <span id="fr_213"></span>[3](#fn_212) This
+'Thy rod cast down' first. <span id="fr_213"></span>[3](#fn_212.md) This
 thy wish is; surely."  
 He answered: "Nay, nay! First cast ye down your wands.  
 Produce to our sight the tricks ye’ve in your hands."  
@@ -222,12 +222,12 @@ When they had perceived what was thus due to him,
 They error acknowledged, though somewhat too dim.
 
 The "perfect man "'s free both to eat and to speak. <span
-id="fr_214"></span>[1](#fn_213)  
+id="fr_214"></span>[1](#fn_213.md)  
 If thou art " imperfect," eat, speak not, in freak. <span
 class="margnote"><span id="an_75">75</span></span>  
 Thou art but an ear. He's a tongue;—not like thee.  
 To ear was addressed God's word: "Silent be." <span
-id="fr_215"></span>[2](#fn_214)
+id="fr_215"></span>[2](#fn_214.md)
 
 A newly-born infant, still sucking the breast,  
 Is speechless some while. He's all ear, at the best.  
@@ -350,21 +350,21 @@ And so propagation, seed-sowing, and all;
 Effects of them operate. God's sole, the call.
 
 A saint acquires powers, most astounding, from God. <span
-id="fr_216"></span>[1](#fn_215)  
+id="fr_216"></span>[1](#fn_215.md)  
 The flying bolt he can avert with a nod.  
 The door can be shut between cause, consequence,  
 <span class="margnote"><span id="an_125">125</span></span> On saint's
 reclamation, by God's prescience.  
 He makes said unsaid, from beginning to end.  
 Hence, neither does skewer burn, roast to coal trend. <span
-id="fr_217"></span>[2](#fn_216)  
+id="fr_217"></span>[2](#fn_216.md)  
 From every mind that has knowledge of fact,  
 Remembrance effaced is, though brains may be racked.  
 Of this, dost thou proof require, most worthy friend,  
 The text read: "What verse We annul, or We mend." <span
-id="fr_218"></span>[3](#fn_217)  
+id="fr_218"></span>[3](#fn_217.md)  
 Again: "They my warning made you to forget." <span
-id="fr_219"></span>[4](#fn_218)  
+id="fr_219"></span>[4](#fn_218.md)  
 By these is oblivion's great power ’fore us set.
 
 To make us remember, forget, they power have.  
@@ -373,13 +373,13 @@ hearts subjugated o’er creation's wave.
 Whene’er dull forgetfulness blinds eye of man,  
 No act can he do, howe’er wide his scan.  
 Dost dare, thou, great saints to make laughingstock? <span
-id="fr_220"></span>[5](#fn_219)  
+id="fr_220"></span>[5](#fn_219.md)  
 To words of the Prophet give heed, silly block.  
 Earth's lords have dominion o’er bodies of clay.  
 Enlightened saints rule hold o’er hearts;—their own sway.  
 All acts are fruits, doubtless, of experience.  
 Man, then, is but pupil. All's, else, mere pretence. <span
-id="fr_221"></span>[6](#fn_220)
+id="fr_221"></span>[6](#fn_220.md)
 
 <span id="page_m123">p. 123</span>
 
@@ -439,7 +439,7 @@ Thy tongue to me dearer than gold's wealth untold;
 thy sweet voice my joy was tenfold."
 
 O tongue! Thou’rt a fire, and also a cornstack! <span
-id="fr_222"></span>[1](#fn_221)  
+id="fr_222"></span>[1](#fn_221.md)  
 My patience, the cornstack! Hark! How its flames crack!  
 My soul doth, in secret, of thee complain sore;  
 But whate’er thou wishest, it does evermore.  
@@ -463,7 +463,7 @@ Alas! That swift bird, boldly soaring, of mine,
 fall plumbed, traced my lineage divine.  
 The ignorant, wooers of trouble are, all.  
 "I swear," down to "misery" read, thou poor thrall. <span
-id="fr_223"></span>[2](#fn_222)
+id="fr_223"></span>[2](#fn_222.md)
 
 <span id="page_m125">p. 125</span>
 
@@ -474,7 +474,7 @@ Neglect, stern realities drives not away.
 A zeal for the truth is in God, there's no doubt.  
 The heart, with God's will, is constrained to burst out.  
 He's zeal, Who is "other," far, than all things else, <span
-id="fr_224"></span>[1](#fn_223)  
+id="fr_224"></span>[1](#fn_223.md)  
 Beyond all praise, laud, blessing, thanks, in heart's pulse. <span
 class="margnote"><span id="an_170">170</span></span>  
 Alas! my hot tears have become briny lake,  
@@ -510,7 +510,7 @@ A lion in heat, he, despising all bounds;
 No forest would hold him, nor dense jungle-grounds.
 
 Of rhymes do I dream? ’Tis my love orders me <span
-id="fr_225"></span>[1](#fn_224)  
+id="fr_225"></span>[1](#fn_224.md)  
 Of love still to dream;—swain devoted to be:  
 "Thyself make thou happy. Rhymes leave, now, alone.  
 <span class="margnote"><span id="an_185">185</span></span> The rhyme I
@@ -525,7 +525,7 @@ Suggestion occult, Abeam knew not one jot.
 One secret, that Gabriel as yet conceives not.  
 One mystery, to Jesus that never was known,  
 <span class="margnote"><span id="an_190">190</span></span> In jealousy
-God spake to me all alone." <span id="fr_226"></span>[2](#fn_225)
+God spake to me all alone." <span id="fr_226"></span>[2](#fn_225.md)
 
 What do we with tongue? We affirm; we deny.  
 I'm no affirmation; denial am I.  
@@ -601,9 +601,9 @@ One out of a hundred, alone, here appears.
 The world is right jealous, for reason that best:  
 <span class="margnote"><span id="an_220">220</span></span> God first
 jealous was, long before all the rest. <span
-id="fr_227"></span>[1](#fn_226)  
+id="fr_227"></span>[1](#fn_226.md)  
 He's soul. The two worlds His august body form. <span
-id="fr_228"></span>[2](#fn_227)  
+id="fr_228"></span>[2](#fn_227.md)  
 The body, through soul must receive good or harm.  
 Whoso in his worship turns truly to God,  
 Foul shame ’twould be for him to bow to faith's rod.  
@@ -627,7 +627,7 @@ Man's jealousy budded from that noble rod.
 
 Let's quit that deep subject; take up plaint and wail,  
 Against the great hardship of love's chastening flail. <span
-id="fr_229"></span>[1](#fn_228) <span class="margnote"><span
+id="fr_229"></span>[1](#fn_228.md) <span class="margnote"><span
 id="an_230">230</span></span>  
 I cry, for that He loves to hear all my cries.  
 My moans, lamentations, are what He enjoys.  
@@ -654,7 +654,7 @@ Thou sittest in justice’ seat; threshold I count. <span
 class="margnote"><span id="an_240">240</span></span>  
 From chief seat to threshold! How far raised above!  
 Where stand "*we*" and "*I*" in the sight of our love? <span
-id="fr_230"></span>[2](#fn_229)  
+id="fr_230"></span>[2](#fn_229.md)  
 O Thou who art free, quite from "*I*" and from "*we*,"  
 Thou heart's-joy of all men and women that be;  
 Where men and where women join, One art Thou, Sole!  
@@ -711,16 +711,16 @@ Think not my state that of all these common men;
 Be not benefactor, to tyrannise then.  
 If kindness and tyranny, joy, grief, are new;  
 All new things must die. God inherits. <span
-id="fr_231"></span>[1](#fn_230) That's true.  
+id="fr_231"></span>[1](#fn_230.md) That's true.  
 ’Tis dawn. O of dawn Thou who art the sole cause!  
 Excuse for me make to Husāmu-’d-Dīn's laws. <span
-id="fr_232"></span>[2](#fn_231)  
+id="fr_232"></span>[2](#fn_231.md)  
 Excuses for angels and souls Thou canst see;  
 Thou art the soul's life; coral's shine is from Thee. <span
-id="fr_233"></span>[3](#fn_232) <span class="margnote"><span
+id="fr_233"></span>[3](#fn_232.md) <span class="margnote"><span
 id="an_265">265</span></span>  
 From Thy light have sprung men and brightness of dawn. <span
-id="fr_234"></span>[4](#fn_233)  
+id="fr_234"></span>[4](#fn_233.md)  
 We're all aided by Thee, Thou cup of wine drawn.  
 Why does Thy gift keep me in constant suspense;—  
 Thy spiritual wine, that still charms ev’ry sense.  
@@ -752,7 +752,7 @@ A bridegroom is, surely, not quite free from cares.
 His moans we expect not. Pain's not what he fears.  
 The reason this, why the Lord's blest scripture says:  
 "Each day He's engaged in some one of His ways." <span
-id="fr_235"></span>[1](#fn_234)  
+id="fr_235"></span>[1](#fn_234.md)  
 Therefore thou, my dear son, thyself still exert  
 Until thy last breath. Seek not toil to avert.  
 Then, at the last moment, the time may have come,  
@@ -903,11 +903,11 @@ He flees thee in fright; leaves thee quite to thyself.
 All they who before refuge took in thy power,  
 With horror fly from thee, in this thy fallen hour.  
 Our words are mere lies, all tergiversations. <span
-id="fr_236"></span>[1](#fn_235)  
+id="fr_236"></span>[1](#fn_235.md)  
 Without the divine grace, they're sheer delusions.  
 Without grace of God, holy aid from His saints,  
 Best "record" of man must be blots and complaints. <span
-id="fr_237"></span>[2](#fn_236)  
+id="fr_237"></span>[2](#fn_236.md)  
 O God! Thy grace, sole, ’tis sustains us as men,  
 Another to name with Thee suits not a pen. <span class="margnote"><span
 id="an_340">340</span></span>
@@ -967,30 +967,30 @@ Thou smellest a perfume of flowers. Flowers are not yet;
 Thou dreamest fermentation, though wine is not set. <span
 class="margnote"><span id="an_360">360</span></span>  
 That odour will draw thee to where the flowers grow, <span
-id="fr_238"></span>[1](#fn_237)  
+id="fr_238"></span>[1](#fn_237.md)  
 The joys of sweet paradise, "where rivers flow." <span
-id="fr_239"></span>[2](#fn_238)  
+id="fr_239"></span>[2](#fn_238.md)  
 Of hope it perfume is that leads our souls on;  
 As hope led forth Jacob in quest of his son. <span
-id="fr_240"></span>[3](#fn_239)  
+id="fr_240"></span>[3](#fn_239.md)  
 Bad tidings and fearful cost Jacob his sight.  
 Reunion, in hope, to him brought back the light.  
 If thou’rt not a Joseph, a Jacob be yet.  
 As he did, weep, mourn; joy, like him, thou shalt get.  
 If thou art not Shīrīn, thou may’st Ferhād be; <span
-id="fr_241"></span>[4](#fn_240)  
+id="fr_241"></span>[4](#fn_240.md)  
 And if not Laylà dear, Majnūn's ravings see. <span
-id="fr_242"></span>[5](#fn_241) <span class="margnote"><span
+id="fr_242"></span>[5](#fn_241.md) <span class="margnote"><span
 id="an_365">365</span></span>  
 Accept the advice of old Gazna's sage, wise. <span
-id="fr_243"></span>[6](#fn_242)  
+id="fr_243"></span>[6](#fn_242.md)  
 To thee, ever, new life from old life may rise:  
 "To give one's self airs, requires, first, a fair face;  
 If beauty thou hast not, run not thou that race."  
 An ugly face ugly is, all the world round.  
 A blind eye's affliction, where’er it be found.  
 In presence of Joseph, no coquetries use. <span
-id="fr_244"></span>[7](#fn_243)  
+id="fr_244"></span>[7](#fn_243.md)  
 But humble thyself; soft entreaties infuse.
 
 <span id="page_m138">p. 138</span>
@@ -1010,31 +1010,31 @@ a short time; ’twill give a fresh start.
 
 ### Footnotes
 
-<span id="fn_202"></span>[m114:1](mes22.htm#fr_203) Literally, "your
+<span id="fn_202"></span>[m114:1](mes22.htm#fr_203.md) Literally, "your
 morning cup," drunk at dawn ere leaving a house.
 
-<span id="fn_203"></span>[m115:1](mes22.htm#fr_204) Asiatics drink "to
+<span id="fn_203"></span>[m115:1](mes22.htm#fr_204.md) Asiatics drink "to
 the love" of a friend; not "to his health."
 
-<span id="fn_204"></span>[m115:2](mes22.htm#fr_205) The parrot is known
+<span id="fn_204"></span>[m115:2](mes22.htm#fr_205.md) The parrot is known
 by the title "Sugar-eating."
 
-<span id="fn_205"></span>[m116:1](mes22.htm#fr_206) A shade of an
+<span id="fn_205"></span>[m116:1](mes22.htm#fr_206.md) A shade of an
 explanation to this very hazardous saying of the Sūfī Gnostics is found
 in Qur’ān xvi. 108 "Whoever denieth God after he hath believed, except
 him who shall be compelled against his will, and whose heart continueth
 steadfast in the faith, shall be severely chastised."
 
-<span id="fn_206"></span>[m116:2](mes22.htm#fr_207) The dervish orders
+<span id="fn_206"></span>[m116:2](mes22.htm#fr_207.md) The dervish orders
 call their peculiar cap a "mitre" or "crown" (*tāj*).
 
-<span id="fn_207"></span>[m116:3](mes22.htm#fr_208) The "four rivers" of
+<span id="fn_207"></span>[m116:3](mes22.htm#fr_208.md) The "four rivers" of
 Paradise, of water, milk, wine, and honey. Qur’ān xlvii. 16.
 
-<span id="fn_208"></span>[m116:4](mes22.htm#fr_209) Qur’ān iii. 31; and
+<span id="fn_208"></span>[m116:4](mes22.htm#fr_209.md) Qur’ān iii. 31; and
 numerous other places.
 
-<span id="fn_209"></span>[m117:1](mes22.htm#fr_210) This section
+<span id="fn_209"></span>[m117:1](mes22.htm#fr_210.md) This section
 purports to have been suggested by the following couplet from ‘Attar:—
 
 "O heedless child of lust, weep thou tears of blood.  
@@ -1043,55 +1043,55 @@ purports to have been suggested by the following couplet from ‘Attar:—
 <span class="contnote">\[paragraph continues\]</span> The original
 expression for "saint," here, is: "a man of heart."
 
-<span id="fn_210"></span>[m118:1](mes22.htm#fr_211) Canonical
+<span id="fn_210"></span>[m118:1](mes22.htm#fr_211.md) Canonical
 "responsibility" falls on all of sane mind and adult age.
 
-<span id="fn_211"></span>[m118:2](mes22.htm#fr_212) See note to dist.
+<span id="fn_211"></span>[m118:2](mes22.htm#fr_212.md) See note to dist.
 No. 33 of the present poem.
 
-<span id="fn_212"></span>[m118:3](mes22.htm#fr_213) Qur’ān vii. 112, &c.
+<span id="fn_212"></span>[m118:3](mes22.htm#fr_213.md) Qur’ān vii. 112, &c.
 
-<span id="fn_213"></span>[m119:1](mes22.htm#fr_214) By a "*perfect man*"
+<span id="fn_213"></span>[m119:1](mes22.htm#fr_214.md) By a "*perfect man*"
 a saint is intended; as by "imperfect," hero and before, an ordinary
 mortal is depicted.
 
-<span id="fn_214"></span>[m119:2](mes22.htm#fr_215) Qur’ān vii. 203;
+<span id="fn_214"></span>[m119:2](mes22.htm#fr_215.md) Qur’ān vii. 203;
 xlvi. 28. By "ear" and "tongue" a learner and a teacher are symbolised.
 
-<span id="fn_215"></span>[m122:1](mes22.htm#fr_216) A hazardous
+<span id="fn_215"></span>[m122:1](mes22.htm#fr_216.md) A hazardous
 assertion. See Anecdotes, Chap. iii., Nos. 2, 5, 7, &c.
 
-<span id="fn_216"></span>[m122:2](mes22.htm#fr_217) A proverbial
+<span id="fn_216"></span>[m122:2](mes22.htm#fr_217.md) A proverbial
 expression, like: "All's well that ends well."
 
-<span id="fn_217"></span>[m122:3](mes22.htm#fr_218) Qur’ān ii. 100.
+<span id="fn_217"></span>[m122:3](mes22.htm#fr_218.md) Qur’ān ii. 100.
 
-<span id="fn_218"></span>[m122:4](mes22.htm#fr_219) Qur’ān xxiii. 112.
+<span id="fn_218"></span>[m122:4](mes22.htm#fr_219.md) Qur’ān xxiii. 112.
 
-<span id="fn_219"></span>[m122:5](mes22.htm#fr_220) Also Qur’ān xxiii.
+<span id="fn_219"></span>[m122:5](mes22.htm#fr_220.md) Also Qur’ān xxiii.
 112.
 
-<span id="fn_220"></span>[m122:6](mes22.htm#fr_221) The "*pupil*" of the
+<span id="fn_220"></span>[m122:6](mes22.htm#fr_221.md) The "*pupil*" of the
 eye; in Persian called "*the manikin;*" in Arabic, "*the man*." These
 both allude to the small image of ourselves seen reflected in the pupil.
 
-<span id="fn_221"></span>[m124:1](mes22.htm#fr_222) This rhapsody is
+<span id="fn_221"></span>[m124:1](mes22.htm#fr_222.md) This rhapsody is
 mystical, like the Song of Solomon. A "tongue" is a teacher, informant;
 a prophet; and, apparently, even God himself.
 
-<span id="fn_222"></span>[m124:2](mes22.htm#fr_223) Qur’ān xc. 1-4.
+<span id="fn_222"></span>[m124:2](mes22.htm#fr_223.md) Qur’ān xc. 1-4.
 
-<span id="fn_223"></span>[m125:1](mes22.htm#fr_224) "Other," as opposed
+<span id="fn_223"></span>[m125:1](mes22.htm#fr_224.md) "Other," as opposed
 to self; also opposed to "we two" in the case of lovers; it is a term
 much used in Eastern poetry and philosophy.
 
-<span id="fn_224"></span>[m126:1](mes22.htm#fr_225) The poet's
+<span id="fn_224"></span>[m126:1](mes22.htm#fr_225.md) The poet's
 "*beloved*" appears, here, to be God.
 
-<span id="fn_225"></span>[m126:2](mes22.htm#fr_226) Allusion appears to
+<span id="fn_225"></span>[m126:2](mes22.htm#fr_226.md) Allusion appears to
 be made to Qur’ān xxi. 107.
 
-<span id="fn_226"></span>[m128:1](mes22.htm#fr_227) This section is
+<span id="fn_226"></span>[m128:1](mes22.htm#fr_227.md) This section is
 stated to be a gloss upon the following apostolic tradition: "Verily,
 Sa‘d is really jealous; but I am more jealous than he, and God than I.
 Out of His jealousy hath He made all excesses sinful; whether of outer
@@ -1099,10 +1099,10 @@ or of the inner man." This Sa‘d, son of ‘Ubūda, was a disciple of
 Muhammed, and the most munificent man in Madīna. He embraced the faith
 before the Hijra. See An-Nawāwī, p. 274, l. 5.
 
-<span id="fn_227"></span>[m128:2](mes22.htm#fr_228) The "two worlds,"
+<span id="fn_227"></span>[m128:2](mes22.htm#fr_228.md) The "two worlds,"
 spiritual and material, future and present.
 
-<span id="fn_228"></span>[m129:1](mes22.htm#fr_229) The poet's "love,"
+<span id="fn_228"></span>[m129:1](mes22.htm#fr_229.md) The poet's "love,"
 is still God. This section purports to be an excursus on the following
 distich of the poet Sanā’ī, who died <span class="smallcaps">a.h.</span>
 576 (<span class="smallcaps">a.d.</span> 1180):—
@@ -1110,52 +1110,52 @@ distich of the poet Sanā’ī, who died <span class="smallcaps">a.h.</span>
 "Why leavest thou thy guild, its rules or faith or sin?  
  Why quittest thou thy mistress, be she plump or thin?"
 
-<span id="fn_229"></span>[m129:2](mes22.htm#fr_230) Reflections on God's
+<span id="fn_229"></span>[m129:2](mes22.htm#fr_230.md) Reflections on God's
 unity, and the plurality of created being.
 
-<span id="fn_230"></span>[m131:1](mes22.htm#fr_231) Qur’ān xix. 41, &c.
+<span id="fn_230"></span>[m131:1](mes22.htm#fr_231.md) Qur’ān xix. 41, &c.
 
-<span id="fn_231"></span>[m131:2](mes22.htm#fr_232) Anecdotes, Chap. vi.
+<span id="fn_231"></span>[m131:2](mes22.htm#fr_232.md) Anecdotes, Chap. vi.
 
-<span id="fn_232"></span>[m131:3](mes22.htm#fr_233) "Life" and "coral,"
+<span id="fn_232"></span>[m131:3](mes22.htm#fr_233.md) "Life" and "coral,"
 in Persian "An" and "merjān."
 
-<span id="fn_233"></span>[m131:4](mes22.htm#fr_234) Men from moral, dawn
+<span id="fn_233"></span>[m131:4](mes22.htm#fr_234.md) Men from moral, dawn
 from material light.
 
-<span id="fn_234"></span>[m132:1](mes22.htm#fr_235) Qur’ān lv. 29.
+<span id="fn_234"></span>[m132:1](mes22.htm#fr_235.md) Qur’ān lv. 29.
 
-<span id="fn_235"></span>[m135:1](mes22.htm#fr_236) This section
+<span id="fn_235"></span>[m135:1](mes22.htm#fr_236.md) This section
 purports to be a dissertation on the dictum: "What God wills, is."
 
-<span id="fn_236"></span>[m135:2](mes22.htm#fr_237) Man's "record" is
+<span id="fn_236"></span>[m135:2](mes22.htm#fr_237.md) Man's "record" is
 the register of his thoughts, words, and deeds, kept by angels, to be
 produced in the last judgment.
 
-<span id="fn_237"></span>[m137:1](mes22.htm#fr_238) The same word in
+<span id="fn_237"></span>[m137:1](mes22.htm#fr_238.md) The same word in
 Persian, *bū*, signifies "odour" and "hope." The thing hoped for becomes
 a distant, odoriferous flower.
 
-<span id="fn_238"></span>[m137:2](mes22.htm#fr_239) Qur’ān ii. 23, and
+<span id="fn_238"></span>[m137:2](mes22.htm#fr_239.md) Qur’ān ii. 23, and
 forty places in all.
 
-<span id="fn_239"></span>[m137:3](mes22.htm#fr_240) Jacob is said to
+<span id="fn_239"></span>[m137:3](mes22.htm#fr_240.md) Jacob is said to
 have wept himself blind on losing Joseph; the smell of his son's coat,
 when refound, later, restored him.
 
-<span id="fn_240"></span>[m137:4](mes22.htm#fr_241) Ferhād was Shīrīn's
+<span id="fn_240"></span>[m137:4](mes22.htm#fr_241.md) Ferhād was Shīrīn's
 lover. (See Tale 6, distich 107, note).
 
-<span id="fn_241"></span>[m137:5](mes22.htm#fr_242) Majnūn, in story,
+<span id="fn_241"></span>[m137:5](mes22.htm#fr_242.md) Majnūn, in story,
 went mad for love of Laylà.
 
-<span id="fn_242"></span>[m137:6](mes22.htm#fr_243) The "Sage of Gazna"
+<span id="fn_242"></span>[m137:6](mes22.htm#fr_243.md) The "Sage of Gazna"
 is the poet Sanā‘ī, already mentioned in the notes to the present tale,
 distich 230.
 
-<span id="fn_243"></span>[m137:7](mes22.htm#fr_244) Joseph is held to
+<span id="fn_243"></span>[m137:7](mes22.htm#fr_244.md) Joseph is held to
 have been most superlatively beautiful.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Harper](mes23)
+[Next: VIII. The Harper](mes23.md)

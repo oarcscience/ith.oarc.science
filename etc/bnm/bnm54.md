@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm53)  [Next](bnm55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm53)  [Next](bnm55.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ Sunday.'"
 
 ------------------------------------------------------------------------
 
-[Next: The Twin Stars.](bnm55)
+[Next: The Twin Stars.](bnm55.md)

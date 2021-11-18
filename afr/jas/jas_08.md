@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas154)  [Next](jas_09) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas154)  [Next](jas_09.md) 
 
 ------------------------------------------------------------------------
 
@@ -2533,4 +2533,4 @@ fué un hombre quien se to dió.
 
 ------------------------------------------------------------------------
 
-[Next: INDEX TO RIDDLES.](jas_09)
+[Next: INDEX TO RIDDLES.](jas_09.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov02)  [Next](vov04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov02)  [Next](vov04.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ in his walk.
 
 112
 
-It is [impossible](errata.htm#15) for us to see the wondrous writing on
+It is [impossible](errata.htm#15.md) for us to see the wondrous writing on
 the noble hill in our path, following the shadow of our nose. If we go
 to view, it is perfection. It is Siva.
 
@@ -162,10 +162,10 @@ original being more obscure).
 123
 
 All connections are produced in this world; they are not aboriginal; and
-those ties shall again be [resolved](errata.htm#16) into primordial
+those ties shall again be [resolved](errata.htm#16.md) into primordial
 matter--view this well, if these connections be doomed to become
 resolved into space, then the path to beatitude is found to be in void
-([paraphrase](errata.htm#17)).
+([paraphrase](errata.htm#17).md).
 
 <span id="page_38">p. 38</span>
 
@@ -203,13 +203,13 @@ signification of the Linga, and thereby attain that coalescence.
 129
 
 The teacher, the image of Siva, compounded the three worlds into one,
-and combined the six worlds; thus he [remains](errata.htm#18) firm
+and combined the six worlds; thus he [remains](errata.htm#18.md) firm
 (these nine worlds, or regions are the nine mystic *chacras* of the
 human form).
 
 130
 
-If, ignorant of the postures thou [learn](errata.htm#19) not of thy
+If, ignorant of the postures thou [learn](errata.htm#19.md) not of thy
 teacher, their secret force (*murma & curma*) and fix not thy heart how
 shalt thou become of the second birth? (*Dwija* signifying a Brahmin,
 means, reform-regenerate)
@@ -304,7 +304,7 @@ thou shalt become the self-existent Deity.
 144
 
 He is himself metamorphosed into the worship and into the worshipper
-that performs adoration. He [becomes](errata.htm#20) himself sacrificial
+that performs adoration. He [becomes](errata.htm#20.md) himself sacrificial
 implement. Wherever he performs worship he becomes himself
 (Omnipresent). He is myself, and I myself am, he.
 
@@ -323,7 +323,7 @@ abode of beatitude.
 147
 
 If thou know that the prime existent is single and fix thy mind on that
-prime, never [quitting](errata.htm#21) the prime thou shalt become the
+prime, never [quitting](errata.htm#21.md) the prime thou shalt become the
 unborn. He that path quitted the prime is like to the blind.
 
 <span id="page_44">p. 44</span>
@@ -332,7 +332,7 @@ unborn. He that path quitted the prime is like to the blind.
 
 Without making distinctions of situations (lit, without saying there or
 here) as we behold all things, the god (Vishnu) ever views and
-comprehends all things. The circumambient (God [Vishnu](errata.htm#22))
+comprehends all things. The circumambient (God [Vishnu](errata.htm#22).md)
 goes around the orbit of the world.
 
 149
@@ -370,7 +370,7 @@ becomes a participator in the nature of Siva; he shall become Siva.
 154
 
 The devotee who knoweth the great secret walketh with out considering
-the [burning](errata.htm#23) sunshine, he shall live to all time on the
+the [burning](errata.htm#23.md) sunshine, he shall live to all time on the
 earth. Is the attainment of wisdom in the power of a glutton?
 
 155
@@ -394,7 +394,7 @@ the nature of spirit. (This ataveladi has four versions).
 
 It is only one man here and there who can try and explain the second
 birth of (*yatees*) the recluse with extreme exactitude. It is an
-[extraordinary](errata.htm#24) qualification; sense is more stable than
+[extraordinary](errata.htm#24.md) qualification; sense is more stable than
 even worship.
 
 158
@@ -534,20 +534,20 @@ eye be humbled to see with it is happiness.
 178
 
 Where is shame hidden? Where is the darkness of
-[ignorance](errata.htm#25) hidden? Where is hunger hidden? In the soul!
-Learn ye the hiding of the [hidden](errata.htm#26) sleep of abstraction.
+[ignorance](errata.htm#25.md) hidden? Where is hunger hidden? In the soul!
+Learn ye the hiding of the [hidden](errata.htm#26.md) sleep of abstraction.
 
 179
 
 Look on thy chief (jewels or foes) passions! Haste to destroy them
 nourish the whole of thy friends (or lovers). He who thus behold the
 great light and in the midst of the body fixes his
-[desire](errata.htm#27)--this man is himself Hari.
+[desire](errata.htm#27.md)--this man is himself Hari.
 
 180
 
 Our own shadow is our foe, and our shadow is a witness to us of our bulk
-in [the](errata.htm#28) body; my passions are my enemies and my mind is
+in [the](errata.htm#28.md) body; my passions are my enemies and my mind is
 the only aid I have. This is true.
 
 <span id="page_52">p. 52</span>
@@ -555,8 +555,8 @@ the only aid I have. This is true.
 181
 
 To cut off the evils (diseased) of the body ceasing the look of love
-towards the robbers (evil wishes) knowing the [origin](errata.htm#29),
-attaching our [thought](errata.htm#30) to him and uniting the mind to
+towards the robbers (evil wishes) knowing the [origin](errata.htm#29.md),
+attaching our [thought](errata.htm#30.md) to him and uniting the mind to
 him--If the devotee thus recognizes the (friendship) mutual love between
 the creature and the creator, this is the institute of sanctity.
 
@@ -577,7 +577,7 @@ see god.
 184
 
 He that hath seen and can name the place of his
-[primordial](errata.htm#31) birth, walks in wisdom in the earth; the
+[primordial](errata.htm#31.md) birth, walks in wisdom in the earth; the
 place of our origin is in the divinity (tatwa).
 
 <span id="page_53">p. 53</span>
@@ -591,7 +591,7 @@ that had no father.
 186
 
 Those who in their minds muse on the gem on the summit of essence are
-[skilled](errata.htm#32) in *tatwa*. He who hath truly beheld in the
+[skilled](errata.htm#32.md) in *tatwa*. He who hath truly beheld in the
 midst of darkness, the great light, this is the devotee. He who truly
 knoweth that the soul exists in God and God in the soul hath religious
 vision. He is the pure, who in the *Sankhya yogamu* (which enumerates
@@ -641,7 +641,7 @@ works.
 
 Fruits (senses) produced in a tree (the body) exulting, united in fair
 beauty, ripen--eat the fruits (beatitude) and know the leaves of a tree.
-(Here it is [impossible](errata.htm#33) to discriminate in English
+(Here it is [impossible](errata.htm#33.md) to discriminate in English
 between *caya* and *pandu*).
 
 193
@@ -686,10 +686,10 @@ the three are formed.
 
 199
 
-[Know](errata.htm#34) ye ([ascertain](errata.htm#35) and learn) that
+[Know](errata.htm#34) ye ([ascertain](errata.htm#35) and learn.md) that
 root that knoweth the three. First know Him who is above the three and
 extol him with the tongue.
 
 ------------------------------------------------------------------------
 
-[Next: 200-299](vov04)
+[Next: 200-299](vov04.md)

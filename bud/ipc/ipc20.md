@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc19)  [Next](ipc21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc19)  [Next](ipc21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ Nirvritti Adi Buddha is the author and creator of all things, without
 whom nothing can be done, whose care sustains the world and its
 inhabitants, and the moment he averts his face from them they become
 annihilated, and nothing remains but himself." <span
-id="fr_268"></span>[\*](#fn_267)
+id="fr_268"></span>[\*](#fn_267.md)
 
 <span id="page_263">p. 263</span>
 
@@ -67,7 +67,7 @@ from the unmanifested, the Gnostic Buthos, the Indian Nirvritti. Abrasax
 is plainly the year-god.
 
 In this letter puzzle the mightiest mysteries were said to be
-concealed. <span id="fr_269"></span>[\*](#fn_268)
+concealed. <span id="fr_269"></span>[\*](#fn_268.md)
 
 Matter tells us also that Μειθρας, the Persian Buddhist divinity, has a
 name whose Greek letters also make up three hundred and sixty-five, and
@@ -82,7 +82,7 @@ But the most important of the ideas recorded by Matter as held by
 Basilides, I take to be this:—That Abrasax was at once a single divine
 being, and also the entire body of the Emanations that were manifested
 (la totalité des intelligences qui composent le Pleroma). <span
-id="fr_270"></span>[\*](#fn_268) Does not this bring strangely together
+id="fr_270"></span>[\*](#fn_268.md) Does not this bring strangely together
 the Buddhist and the Christian Vice-God? Sangha
 
 <span id="page_264">p. 264</span>
@@ -101,7 +101,7 @@ Matter tells us the certain stones (les pierres de Basilides) were
 viewed with special importance. These are plainly what in England we
 call the "Gnostic Gems."
 
-[Plate 24](#img_pl24) gives some of the most important.
+[Plate 24](#img_pl24.md) gives some of the most important.
 
 They throw much light on our special subject.
 
@@ -127,7 +127,7 @@ By Philo, as well as by all the philosophy
 
 <span id="img_pl24"></span> <span align="CENTER"> [![PLATE 24.&lt;br&gt;
 GNOSTIC GEMS.](tn/pl24.jpg)  
-Click to enlarge](img/pl24.jpg)  
+Click to enlarge](img/pl24.jpg.md)  
 PLATE 24.  
 GNOSTIC GEMS.  
 </span>
@@ -140,7 +140,7 @@ by his work, he influences the world. His powers, his angels, all in it
 that is best and mightiest, the instrument, the interpreter, the
 mediator and messenger of God, his pattern and first-born, the Son of
 God, the Second God, even God himself, the divine Word is Logos,
-communicate with the world." <span id="fr_271"></span>[\*](#fn_269)
+communicate with the world." <span id="fr_271"></span>[\*](#fn_269.md)
 
 The popular idea is that Philo got all his ideas about the Logos from
 Plato, but in Alexandria at Philo's date there were ideas added that
@@ -177,7 +177,7 @@ accompanied by drums, and lighted torches. The festival lasted fifteen
 days. Then with much mystery a golden sword was carried in a palanquin
 to the nearest river to "cut the water" (arrest its flow). The gold
 sword was apparently as much honoured as the god, and was carried back
-carefully to the Temple. <span id="fr_272"></span>[\*](#fn_270) This
+carefully to the Temple. <span id="fr_272"></span>[\*](#fn_270.md) This
 gold sword explains much of the popular enthusiasm for Kattragam.
 Ignorant natives, in abject terror of the thousands of evil spirits
 around them, would seek a protection in the gold sword. As it is stated,
@@ -185,13 +185,13 @@ that Kattragam was the Son of S’iva and his wife Pattinee or Durgâ and
 was, moreover, the God of War, what better safety?
 
 Now Abrasax and Padmapani, the Buddhist "Præsens Divus" according to
-Hodgson, <span id="fr_273"></span>[†](#fn_271) have each two serpents
-for legs. (See Fig. 2, [Pl. 24](#img_pl24) of Padmapani, taken from a
+Hodgson, <span id="fr_273"></span>[†](#fn_271.md) have each two serpents
+for legs. (See Fig. 2, [Pl. 24](#img_pl24.md) of Padmapani, taken from a
 bas relief of the sculptures of Jemalgiri). And the ritual . of the
 followers of S’iva, when scrambling for the flesh and blood of S’iva as
 the dying year, seems certainly to have reached the Buddhists, for we
 find this amongst Hodgson's quotations:— <span
-id="fr_274"></span>[‡](#fn_272)
+id="fr_274"></span>[‡](#fn_272.md)
 
 "From between his (Padma Pani's) shoulders sprang Brahma, from his
 forehead Mahâdeva, from his two eyes the sun and moon, from his mouth
@@ -200,7 +200,7 @@ the
 <span id="page_267">p. 267</span>
 
 air, from his teeth Sarasvatî," and so on and so on. <span
-id="fr_275"></span>[\*](#fn_273) Remember that from the belly of the
+id="fr_275"></span>[\*](#fn_273.md) Remember that from the belly of the
 S’ivan Victim sprang the Serpent King. Abrasax was certainly two
 serpents from the belly downwards.
 
@@ -248,7 +248,7 @@ Serpentine Durgâ.
 Another plagiarism is noteworthy. Sekkraia, the god, half stone, half
 man, sits on his stone in one of Mr. Upham's drawings, and has in his
 hand a cup of wine. Now the chief god of Alexandria was Serapis, and his
-conventional head ([Pl. 24](#img_pl24), Fig. 4) is crowned with a wine
+conventional head ([Pl. 24](#img_pl24), Fig. 4.md) is crowned with a wine
 cup and tree markings, the wine of the Tavateinza Tree. His hair is a
 coiled serpent.
 
@@ -264,7 +264,7 @@ his arms crossed. Mr. King dates the rise of Serapis from the building
 of Alexandria. The earliest statue—that at Sinope—had Proserpine (Durgâ)
 for his wife. Serapis has two faces like S’iva in India, and Janus at
 Rome. He was called Soter (the Saviour), as Tertullian <span
-id="fr_276"></span>[\*](#fn_274) tells us, for he healed body and soul.
+id="fr_276"></span>[\*](#fn_274.md) tells us, for he healed body and soul.
 But Mr. King says that in his earliest form he was the Lord of Hell, and
 Judge of the dead; these conflicting functions have been worked into
 Christianity. Tertullian talks of the
@@ -278,7 +278,7 @@ Supreme"). Two—the wife, the Buddhist Dharma, the Gnostic Sophia; and
 the third emblem is the Elephant with the Rod of Hermes, two Symbols of
 the Spiritual life. Fig. 5 makes this still more plain. Here we see the
 Elephant, like Buddha, coming from Nirvritti to the manifested
-[Pleroma](errata.htm#34).
+[Pleroma](errata.htm#34.md).
 
 Herodotus, who speaks in a very circumstantial manner of the deities,
 and of the religion of the Egyptians, makes no mention of Serapis, His
@@ -294,9 +294,9 @@ And the reader will perhaps remember Gibbon's account of the Serapion at
 Alexandria whose pompous colonnades, upraised on a vast artificial mound
 one hundred steps above the city, glittered with golden statues like the
 Mahâdewayo Vihara in Ceylon; and possessed "arches, vaults, and
-subterranean apartments," <span id="fr_277"></span>[\*](#fn_275)
+subterranean apartments," <span id="fr_277"></span>[\*](#fn_275.md)
 presided over by the goddess Anaitis, the special patroness of the
-Brides of the God. <span id="fr_278"></span>[†](#fn_276)
+Brides of the God. <span id="fr_278"></span>[†](#fn_276.md)
 
 <span id="page_270">p. 270</span>
 
@@ -309,7 +309,7 @@ body of Serapis, likens them to similar veilings when the body of the
 Bambino of Aracœli is exhibited. But the mythology of Ceylon
 sufficiently explains the matter. If a portion of the body of a god is
 sometimes of flesh and sometimes of stone it would not do to show too
-much of him. <span id="fr_279"></span>[\*](#fn_277)
+much of him. <span id="fr_279"></span>[\*](#fn_277.md)
 
 The ideas which we call Messianic, which were in existence just before
 the epoch of Christianity, were derived from many sources. From the
@@ -321,7 +321,7 @@ according to Daniel he was to be cut off. Then came the influence of a
 very old Persian book, the Bundahesh. In it Soshios or Soshyans comes
 with his angels to effect a general resurrection, and to send the wicked
 to eternal suffering with Ahriman in hell. <span
-id="fr_280"></span>[†](#fn_278)
+id="fr_280"></span>[†](#fn_278.md)
 
 A work, the "Apocryphal Book of Enoch" seems a version of this work
 Judaised, with Jehovah for Ormuzd and Satan for Ahriman. A similar
@@ -329,7 +329,7 @@ resurrection and a judgment is there described, but Soshios is an angel,
 and the leader of the heavenly host in the "Book of Enoch" is Jehovah in
 one part of the book, and "Messiah," the "Son of Man" in another. This
 work is quoted by St. Jude, and it was viewed as part of Scripture by
-Tertullian. <span id="fr_281"></span>[‡](#fn_279)
+Tertullian. <span id="fr_281"></span>[‡](#fn_279.md)
 
 <span id="page_271">p. 271</span>
 
@@ -338,7 +338,7 @@ held by scholars to have had great influence with the Gnostic societies
 at that time abundant.
 
 "Five hundred years Ânanda," said Buddha, in the Culavagga, "will the
-doctrine of the Truth abide." <span id="fr_282"></span>[\*](#fn_280) It
+doctrine of the Truth abide." <span id="fr_282"></span>[\*](#fn_280.md) It
 is urged that this prophecy must have excited the Gnostics, for Buddha's
 death is fixed at 477 B.C., and a new Buddha would be due exactly at the
 time of the coming of Christ. Now it is a noteworthy fact that each of
@@ -360,7 +360,7 @@ centre of the earth, no Satan, no wicked at all, and the verse in Mark
 more than implies that the celestial cohorts would have come to an end.
 It is true that these descriptions in modern pulpits are made to refer
 to the taking of Jerusalem, on the strength of an
-[interpolated](errata.htm#35) passage in Luke, but that is quite
+[interpolated](errata.htm#35.md) passage in Luke, but that is quite
 irrational. The epistles, which were much earlier than the Gospels,
 announce that the heavens being on fire shall be dissolved at the coming
 of the day of God (2 Peter iii. 12).
@@ -382,7 +382,7 @@ periodical destructions that come like a thief in the night. Their
 arrival, says Mr. Turner, can be no more calculated upon than a man can
 guess how many mustard seeds there are in a mountain one yogana in
 height made up entirely of mustard seeds. <span
-id="fr_283"></span>[\*](#fn_281)
+id="fr_283"></span>[\*](#fn_281.md)
 
 "It," says Mr. Upham, writing of Ceylon Buddhism, "is philosophically
 described as a circle. The universe arises in beauty and excellence, and
@@ -395,7 +395,7 @@ period of their destruction, for which three agents are periodically
 assigned, namely fire, water and wind. Each of these causes has its
 exact limits. The last is the final and grand cataclysm, which sweeps
 the whole system into general destruction." <span
-id="fr_284"></span>[†](#fn_282)
+id="fr_284"></span>[†](#fn_282.md)
 
 Matter believes that the chief battle in the early stages of
 Christianity was between the Old Testament dualism derived by the Jews
@@ -438,7 +438,7 @@ before they
 
 <span id="page_274">p. 274</span>
 
-proceed to cure them. <span id="fr_285"></span>[§](#fn_283) In St.
+proceed to cure them. <span id="fr_285"></span>[§](#fn_283.md) In St.
 Luke's Gospel (x. 17) we learn the great success of the seventy who were
 sent forth to "heal the sick."
 
@@ -449,7 +449,7 @@ Christian times.
 devils. Not merely idolatry, but every phase and form of life was ruled
 by them. They sat on thrones. They hovered around cradles. The earth was
 literally a hell, though it was and continued to be, a Creation of
-God." <span id="fr_286"></span>[\*](#fn_284)
+God." <span id="fr_286"></span>[\*](#fn_284.md)
 
 A graver point is the question of sex. The women of the Nicolaites, the
 Prodiciens, the Carpocratiens and others, proclaimed that the laws of
@@ -457,7 +457,7 @@ chastity were not binding; and an influential female leader, a woman
 named Agape, enunciated ideas very similar to those current in a temple
 of S’iva; and she persuaded a large bevy of Agapetes to become in all
 innocence and zeal "Brides of the God." <span
-id="fr_287"></span>[†](#fn_285)
+id="fr_287"></span>[†](#fn_285.md)
 
 One point more. It was held in Ceylon that between the earth and Mienmo
 the fabled holy peak, corresponding to the Jewish Zion and the Greek
@@ -465,40 +465,40 @@ Olympus, were millions of Spirits. The space was called the "Jugandere."
 Had these spirits any affinity with those of the Archon of St. Paul
 (Eph. ii. 2) who had the domination of the air. Hippolytus tells us that
 the Great Archon, Abrasax, had three hundred and sixty-five
-heavens. <span id="fr_288"></span>[‡](#fn_286)
+heavens. <span id="fr_288"></span>[‡](#fn_286.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_267"></span>[262:\*](ipc20.htm#fr_268) Hodgson, "Religion
+<span id="fn_267"></span>[262:\*](ipc20.htm#fr_268.md) Hodgson, "Religion
 of Nepal," p. 46.
 
-<span id="fn_268"></span>[263:\*](ipc20.htm#fr_270) Matter, "Histoire du
+<span id="fn_268"></span>[263:\*](ipc20.htm#fr_270.md) Matter, "Histoire du
 Gnosticisme," p. 413.
 
-<span id="fn_269"></span>[265:\*](ipc20.htm#fr_271) Keim, "Jesus of
+<span id="fn_269"></span>[265:\*](ipc20.htm#fr_271.md) Keim, "Jesus of
 Nazara," Vol. I, p 281.
 
-<span id="fn_270"></span>[266:\*](ipc20.htm#fr_272) Upham, "History of
+<span id="fn_270"></span>[266:\*](ipc20.htm#fr_272.md) Upham, "History of
 Buddhism," p. 52.
 
-<span id="fn_271"></span>[266:†](ipc20.htm#fr_273) Hodgson, "Religion of
+<span id="fn_271"></span>[266:†](ipc20.htm#fr_273.md) Hodgson, "Religion of
 Nepal," p. 88.
 
-<span id="fn_272"></span>[266:‡](ipc20.htm#fr_274) Hodgson, "Religion of
+<span id="fn_272"></span>[266:‡](ipc20.htm#fr_274.md) Hodgson, "Religion of
 Nepal," p. 88.
 
-<span id="fn_273"></span>[267:\*](ipc20.htm#fr_275) Cited by Hodgson
+<span id="fn_273"></span>[267:\*](ipc20.htm#fr_275.md) Cited by Hodgson
 from the "Gunakaranda Vynha," p. 88.
 
-<span id="fn_274"></span>[268:\*](ipc20.htm#fr_276) Adv. Valent. Chap.
+<span id="fn_274"></span>[268:\*](ipc20.htm#fr_276.md) Adv. Valent. Chap.
 xxv.
 
-<span id="fn_275"></span>[269:\*](ipc20.htm#fr_277) Gibbon, "Decline and
+<span id="fn_275"></span>[269:\*](ipc20.htm#fr_277.md) Gibbon, "Decline and
 Fall," Chap. XXVIII.
 
-<span id="fn_276"></span>[269:†](ipc20.htm#fr_278) Mr. King tells us
+<span id="fn_276"></span>[269:†](ipc20.htm#fr_278.md) Mr. King tells us
 that the Serapion was of a style "totally different from the native
 Egyptian or Grecian model," but exactly agreeing with that of the Hindu
 Temple of S’iva in Tanjore. He cites a curious letter from the Emperor
@@ -508,35 +508,35 @@ Serapis. The very Patriarch himself, when he comes to Egypt, is forced
 by some to adore Serapis, by others to adore Christ." ("The Gnostics,"
 pp. 68, 69).
 
-<span id="fn_277"></span>[270:\*](ipc20.htm#fr_279) Conway,
+<span id="fn_277"></span>[270:\*](ipc20.htm#fr_279.md) Conway,
 "Demonology," I., 338.
 
-<span id="fn_278"></span>[270:†](ipc20.htm#fr_280) See Bundahis C. XXX.
+<span id="fn_278"></span>[270:†](ipc20.htm#fr_280.md) See Bundahis C. XXX.
 "Sacred Books of the East," V., p. 120.
 
-<span id="fn_279"></span>[270:‡](ipc20.htm#fr_281) Compare Chap. I.,
+<span id="fn_279"></span>[270:‡](ipc20.htm#fr_281.md) Compare Chap. I.,
 verse 4, with Chap. CCLXI., 4, 10, etc. Laurence's translation.
 
-<span id="fn_280"></span>[271:\*](ipc20.htm#fr_282) Cited by Oldenburg,
+<span id="fn_280"></span>[271:\*](ipc20.htm#fr_282.md) Cited by Oldenburg,
 "Buddhism," p. 327, also Beal, "Romantic History," p. 16.
 
-<span id="fn_281"></span>[272:\*](ipc20.htm#fr_283) Turnour "The
+<span id="fn_281"></span>[272:\*](ipc20.htm#fr_283.md) Turnour "The
 Mahâwanso," p. 12.
 
-<span id="fn_282"></span>[272:†](ipc20.htm#fr_284) Upham, "Buddhism," p.
+<span id="fn_282"></span>[272:†](ipc20.htm#fr_284.md) Upham, "Buddhism," p.
 3.
 
-<span id="fn_283"></span>[274:§](ipc20.htm#fr_285) Tertullian "Apology,"
+<span id="fn_283"></span>[274:§](ipc20.htm#fr_285.md) Tertullian "Apology,"
 Chap. XXII.
 
-<span id="fn_284"></span>[274:\*](ipc20.htm#fr_286) Harnack's "Expansion
+<span id="fn_284"></span>[274:\*](ipc20.htm#fr_286.md) Harnack's "Expansion
 of Christianity," Vol. I., p. 161.
 
-<span id="fn_285"></span>[274:†](ipc20.htm#fr_287) Matter. "Hist.
+<span id="fn_285"></span>[274:†](ipc20.htm#fr_287.md) Matter. "Hist.
 Gnost," Vol. III., pp. 33, 34.
 
-<span id="fn_286"></span>[274:‡](ipc20.htm#fr_288) Hipp. Haer, VII., 14.
+<span id="fn_286"></span>[274:‡](ipc20.htm#fr_288.md) Hipp. Haer, VII., 14.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Ophis and the Serpents](ipc21)
+[Next: Chapter XVIII. Ophis and the Serpents](ipc21.md)

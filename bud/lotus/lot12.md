@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot11)  [Next](lot13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot11)  [Next](lot13.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ word of truth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 13](lot13)
+[Next: Chapter 13](lot13.md)

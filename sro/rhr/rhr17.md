@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr16)  [Next](rhr18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr16)  [Next](rhr18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -69,16 +69,16 @@ cites are entirely inconclusive. He proves the existence in the
 fourteenth century of "an association of physicians and alchemists who
 united their knowledge and their labours to attain the discovery of the
 Philosophic Stone." It is this association to which the alchemist
-Raymond Lully <span id="fr_67"></span>[1](#fn_67) apparently refers in
+Raymond Lully <span id="fr_67"></span>[1](#fn_67.md) apparently refers in
 his "Theatrum
 
 <span id="page_212">p. 212</span>
 
 <span class="contnote">\[paragraph continues\]</span> Chymicum," <span
-id="fr_68"></span>[1](#fn_68) printed at Strasbourg in 1613, as a sec
+id="fr_68"></span>[1](#fn_68.md) printed at Strasbourg in 1613, as a sec
 society existing during the fourteenth century in Italy, and the chief
 of which was called *Rex Physicorum*. Figulus <span
-id="fr_69"></span>[2](#fn_69) states it to have been founded in 1410,
+id="fr_69"></span>[2](#fn_69.md) states it to have been founded in 1410,
 and asserts it to have merged in the Rosicrucian Order about the year
 1607. The same careful investigator cites an anonymous letter, published
 at the end of the sixteenth century, and stating the age of a certain
@@ -218,7 +218,7 @@ Christian sect.
 
 ### Footnotes
 
-<span id="fn_67"></span>[211:1](rhr17.htm#fr_67) This personage is not
+<span id="fn_67"></span>[211:1](rhr17.htm#fr_67.md) This personage is not
 to be confused with the author of the "Ars Magna Sciendi," the
 illuminated philosopher and evangelist of Parma in Majorca, who united
 the saint and the man of science, the metaphysician and the preacher,
@@ -237,13 +237,13 @@ Testamentum," in the "Museum Hermeticum," 4to, Francfurt, 1677-78.
 Camden, in his "Ecclesiastical Monuments," gives also some details of
 Lully's sojourn in England.
 
-<span id="fn_68"></span>[212:1](rhr17.htm#fr_68) C. 87, p. 139.
+<span id="fn_68"></span>[212:1](rhr17.htm#fr_68.md) C. 87, p. 139.
 
-<span id="fn_69"></span>[212:2](rhr17.htm#fr_69) Benedictus Figulus was
+<span id="fn_69"></span>[212:2](rhr17.htm#fr_69.md) Benedictus Figulus was
 the author of "Pandora Magnalium," "Paradisus Aureolus Hermeticus,"
 "Rosarium Novum Olympicum et Benedictum," "Thesaurinella Olympica," all
 published in 1608.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Case of Johann Valentin Andreas](rhr18)
+[Next: Chapter VIII. The Case of Johann Valentin Andreas](rhr18.md)

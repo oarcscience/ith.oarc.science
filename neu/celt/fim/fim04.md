@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim03)  [Next](fim05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim03)  [Next](fim05.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE reliable history of a country may be said to date from the period
 when its written records begin. Before that time, there is an epoch
@@ -72,7 +72,7 @@ which would be the fine weather and the bad weather, and when each of
 these two times would change. *Inde Scoti et Brittones eum deum
 vocaverunt maris*, *et inde filium maris esse dixerunt*, *i.e.*,
 *Maclir*, 'son of sea.' *Et de nomine Manannan* the Isle of Man *dictus
-est*." <span id="fr_9"></span>[1](#fn_9) This theory of the Isle of Man
+est*." <span id="fr_9"></span>[1](#fn_9.md) This theory of the Isle of Man
 being named after Manannan, when so called, has been shown to be highly
 improbable by Professor Rhys, who thinks that "Manannan gave his
 original name corresponding to *Mann* and its congeners to the Island,
@@ -80,7 +80,7 @@ making it *Manavia Insula.* . . . for which we have in Welsh and Irish
 respectively *Manaw* and *Manann.* Then from these names of the Island
 the god derives his in its attested forms of Manawydan and Manannan,
 which would seem to mark an epoch when he had become famous in
-connection with the Isle of Man." <span id="fr_10"></span>[2](#fn_10)
+connection with the Isle of Man." <span id="fr_10"></span>[2](#fn_10.md)
 
 To Cormac's account, O'Donovan has added the following note:--"He was
 the son of Allot, one of the Tuatha Dé Danann
@@ -123,7 +123,7 @@ Mananan, on account of his intercourse with the Isle of Man; and Mac
 Lir, *i.e.*, *sprung from* the sea, because he was an expert diver;
 besides, he understood the dangerous parts of harbours; and, from his
 prescience of the change of weather, always avoided tempests. <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 The same author, in his *West Connaught*, states that Orbsen's proper
 name was Manannan, and that Lough Orbsen was called from him, because
@@ -136,7 +136,7 @@ battle,
 
 and had the killing of Orbsen Mac Alloid, commonly called Mananan (the
 Mankish man), Mac Lir (son of the sea) for- his skill in
-seafaring." <span id="fr_12"></span>[1](#fn_12)
+seafaring." <span id="fr_12"></span>[1](#fn_12.md)
 
 Keating, in his *General History of Ireland*, written early in the 17th
 century, gives Manannan's genealogy as follows: "Mananan, the son of
@@ -157,7 +157,7 @@ it in transcripts of the 11th century, relates that Manannan became
 jealous of Cúchulainn, with whom his wife Fand had fallen in love. He
 shook a cloak of invisibility of forgetfulness between the two and
 carried off Fand with himself to fairy-land, whereupon
-[Cúchulainn](errata.htm#0) returned to his own wife.
+[Cúchulainn](errata.htm#0.md) returned to his own wife.
 
 Professor Rhys remarks of him that "In Irish literature he appears
 mostly as King of the Fairies in the Land of Promise, a mysterious
@@ -185,7 +185,7 @@ appear also that he was connected with the other world, and he figures
 as one of the three landless monarchs of Britain. He had, however, a
 huge prison in the shape of a bee-hive, the walls of which consisted of
 human bones. King Arthur was once incarcerated there for three
-months. <span id="fr_13"></span>[1](#fn_13)
+months. <span id="fr_13"></span>[1](#fn_13.md)
 
 The Gaelic Manannan is represented in Brythonic (Welsh) literature by
 Manawydan, but it is uncertain if there really was a Brythonic sea-god
@@ -201,7 +201,7 @@ the Island home of divinities is really older or not than that which
 figures them as dwelling in the hollow hills. All one can say is that we
 find it earlier in the Irish texts. It has been well studied by
 Professor Zimmer in his admirable essay on the Brendan voyage, <span
-id="fr_14"></span>[2](#fn_14) in which he shows that a number of texts
+id="fr_14"></span>[2](#fn_14.md) in which he shows that a number of texts
 which have come down to us are still completely pagan in conception, and
 reflect a belief which must still have been officially dominant in parts
 of Ireland as late as the sixth century. Unofficially these beliefs
@@ -240,9 +240,9 @@ make of one man to seem an hundred by his art magick, and he never had
 any form of the comons; but each one to bring a certain quantity of
 green rushes on Midsummer Eve--some to a place called Warfield (now
 South Barrule), and some to a place called Man, <span
-id="fr_15"></span>[1](#fn_15) and yet is so called. And long after St.
+id="fr_15"></span>[1](#fn_15.md) and yet is so called. And long after St.
 Patrick disturbed him, the said Manannan, and put Christian folks into
-the said land." <span id="fr_16"></span>[2](#fn_16) The ballad gives
+the said land." <span id="fr_16"></span>[2](#fn_16.md) The ballad gives
 practically the same account. More recent tradition has endowed him with
 the stature of a giant, who by his strength and ferocity became the
 terror of the whole Island. It is said that he used to transport himself
@@ -263,16 +263,16 @@ Celtic lands (see "August I." chap. vi). Lug is thus described: "Like to
 the setting sun was the splendour of his countenance and his forehead;
 and they were not able to look in his face from the greatness of its
 splendour. And he was *Lugh Lamh-fada*, <span
-id="fr_17"></span>[3](#fn_17) and (his army was) the Fairy Cavalcade
+id="fr_17"></span>[3](#fn_17) and (his army was.md) the Fairy Cavalcade
 from the land of Promise, and his own foster brothers, the sons of
-Manannan. <span id="fr_18"></span>[4](#fn_18)" He is said to have been
+Manannan. <span id="fr_18"></span>[4](#fn_18.md)" He is said to have been
 brought up at the Court of Manannan, here called the Land of Promise,
 which in many of the ancient tales is identified with Man. Lug was
 famous for his mighty blows, and his spear became one of the
 
 <span id="page_7">p. 7</span>
 
-treasures of the [Tuatha](errata.htm#1) Dé Danann. When he fought
+treasures of the [Tuatha](errata.htm#1.md) Dé Danann. When he fought
 against the sons of Turenn and imposed upon them the impossible
 eric-fine of procuring certain fabulous weapons, he rode Enbarr of the
 flowing mane, Manannan's steed, who was "as swift as the clear, cold
@@ -346,8 +346,8 @@ Ulster, where he was gladly received by them; but one day, when the
 Ultonian nobles happened to be at a spot bordering on a high cliff,
 Ferceirtne suddenly clasped his arms round Bláthnat, and flinging
 himself over the cliff they died together. <span
-id="fr_19"></span>[1](#fn_19) This old story has been embodied in a
-poem, called "Blanid," <span id="fr_20"></span>[2](#fn_20) by Robert D.
+id="fr_19"></span>[1](#fn_19.md) This old story has been embodied in a
+poem, called "Blanid," <span id="fr_20"></span>[2](#fn_20.md) by Robert D.
 Joyce, of which the following, lines describing the combat between Cúroi
 and Cúchulainn are perhaps the best:--
 
@@ -428,7 +428,7 @@ great poet. in both of which roles he only reproduced the character of
 his father, who was not merely celebrated as a warrior and huntsman, but
 especially as a poet and diviner, as already stated. Finn is connected
 with the Scandinavian Orree in a Manx heroic poem, and if, as has
-recently been conjectured. <span id="fr_21"></span>[1](#fn_21) Finn is
+recently been conjectured. <span id="fr_21"></span>[1](#fn_21.md) Finn is
 identical with Kettle Finn, a Norseman who yielded great influence in
 Ireland and Man about the middle of the ninth century, the connection is
 a very natural one. The poem referred to above is undoubtedly the oldest
@@ -447,14 +447,14 @@ it is fairly close to the original.
 FIN AS OSHIN.
 
 HIE Fin as Oshin magh dy helg,  
- <span id="fr_22"></span>[2](#fn_22)Fal, lal, lo, as fal, lal, la,  
+ <span id="fr_22"></span>[2](#fn_22.md)Fal, lal, lo, as fal, lal, la,  
 Lesh sheshaght trean as moddee elg,  
 Cha row un dooinney sloo ny keead,  
 Coshee cha bieau cha row ny lheid,  
 Lesh feedyn coo eisht hie ad magh,  
 Trooid slieau as coan dy yannoo cragh,  
 Quoi daag ad ec y thie agh Orree beg <span
-id="fr_23"></span>[3](#fn_23)<span id="page_11">p. 11</span>  
+id="fr_23"></span>[3](#fn_23.md)<span id="page_11">p. 11</span>  
 Cadley dy kiune fo scadoo’n creg!  
 Slane three feed quallian aeg gyn unnane sloo,  
         \*        \*        \*        \*  
@@ -466,7 +466,7 @@ Lesh folt y ching chionn gys y clea,
 As chur mayd aile gys y cass cha bieau."  
 Clysht tappee eisht hug Orree ass,  
 Tra dennee’n smuir roie ass e chiass,  
-Loo  <span id="fr_24"></span>[1](#fn_24)*Mollaght Mynney* ad dy
+Loo  <span id="fr_24"></span>[1](#fn_24.md)*Mollaght Mynney* ad dy
 stroie,  
 Va er n’yannoo craid er mac y ree,  
 Dy farbagh breearrey ry ghrian as eayst,  
@@ -496,7 +496,7 @@ Raad plooghit lesh yaagh hayrn ad magh er y cass.
 FIN AND OSHIN.
 
 FIN and Oshin went out to hunt,  
- <span id="fr_25"></span>[2](#fn_25)Fal, lal, loo, as fal, lal, la.  
+ <span id="fr_25"></span>[2](#fn_25.md)Fal, lal, loo, as fal, lal, la.  
 With a noble train of men and dogs,  
 Not less in number than one hundred men,  
 So swift of foot and keen, none were their like;  
@@ -507,7 +507,7 @@ Who slept secure beneath the shadowy rock; <span id="page_12">p.
 12</span>  
 Full three score Greyhounds, with their whelps they left,  
 (With three score lovely maidens, young and fair,) <span
-id="fr_26"></span>[1](#fn_26)  
+id="fr_26"></span>[1](#fn_26.md)  
 As many old dames to attend the young.  
 Says Fin's fair Daughter, in Disdain and Scorn,  
 How on young Orree shall we be revenged?  
@@ -545,7 +545,7 @@ We've nothing left but rueful, ruin’d walls!
 "Who but young Orree,  
 Who fled, and in a rocky Cavern bid himself,  
 --Then choak’d with Smoke, they drag him by the heels,  
- <span id="fr_27"></span>[1](#fn_26)(And tore him Limb from Limb (they
+ <span id="fr_27"></span>[1](#fn_26.md)(And tore him Limb from Limb (they
 say) with Horses wild.)
 
 Cætera desunt.--But the Catastrophe is said to be that they tore him
@@ -583,7 +583,7 @@ Mannica gens de te, damna futura cave.'
 
 'L. ten times told, X thrice, with five beside and twaine,  
 Ware future harmes; Tread (sic) of thy Folke Mann were slaine.'" <span
-id="fr_28"></span>[1](#fn_27)
+id="fr_28"></span>[1](#fn_27.md)
 
 A verse from an old song and a proverbial saying contain the only other
 references to Finn in Manx tradition:--
@@ -614,7 +614,7 @@ are *Sigurd Fafni's Bane* and *The Punishment of Loki*. These tales have
 been preserved neither by tradition, nor by written record, but by
 having been carved on stone. Both are found on a stone in Kirk Andreas
 Church-yard, and the first only on a stone in Malew Church-yard. <span
-id="fr_29"></span>[2](#fn_28)
+id="fr_29"></span>[2](#fn_28.md)
 
 <span id="page_14">p. 14</span>
 
@@ -639,13 +639,13 @@ she would bear, who should become the greatest of the Völsung race.
 Hiordis was carried off by Alf, son of King Hialprek of Denmark, who had
 just landed at the battle-stead with a band of Vikings, and who married
 her after she gave birth to Sigmund's child. This child was named
-Sigurd <span id="fr_30"></span>[1](#fn_29) and grew up in Hialprek's
+Sigurd <span id="fr_30"></span>[1](#fn_29.md) and grew up in Hialprek's
 court, under the care of the dwarf Regin, who taught him all the
 branches of knowledge known at that time. He also urged him to demand
-his father's treasure of [Hialprek](errata.htm#2), but Sigurd only asked
+his father's treasure of [Hialprek](errata.htm#2.md), but Sigurd only asked
 a horse of the king, who allowed him to choose one; and Odin, in the
 guise of an old man with a long beard, aided him to find out Grana, that
-was of Sleipnir's <span id="fr_31"></span>[2](#fn_30) race. Regin then
+was of Sleipnir's <span id="fr_31"></span>[2](#fn_30.md) race. Regin then
 counselled Sigurd to go in quest of Fafni's gold, of which he gave him
 the following account:--
 
@@ -662,7 +662,7 @@ and
 came well satisfied with their prize to Hreidmar's dwelling. Hreidmar
 caused them to be seized, and compelled them to redeem themselves with
 as much gold as would both fill and cover the otter's skin. To obtain
-the gold Loki borrowed Rán's <span id="fr_32"></span>[1](#fn_31) net,
+the gold Loki borrowed Rán's <span id="fr_32"></span>[1](#fn_31.md) net,
 cast it into the waterfall, and caught in it the dwarf Andvari, who was
 accustomed to fish there under the form of a pike. The dwarf was
 compelled to give all his gold-hoard as the price of his liberty; but on
@@ -720,7 +720,7 @@ stretched forward, and the beak open as if addressing Sigurd.
 The head and neck of Sigurd's horse Grana is also shown above that of
 the bird. The whole subject is thus referred to in *Fafnismál*:--
 
-The first bird <span id="fr_33"></span>[1](#fn_32) says:
+The first bird <span id="fr_33"></span>[1](#fn_32.md) says:
 
 "There sits Sigurd sprinkled with blood  
 Fafni's heart at the fire he roasts.  
@@ -737,7 +737,7 @@ The framer of evil will avenge his brother."
 Third bird:
 
 "By the head shorter, let him the hoary sage <span
-id="fr_34"></span>[2](#fn_33)  
+id="fr_34"></span>[2](#fn_33.md)  
 Send hence to Hell; all the gold then can he  
 Possess atone, the mass that under Fafni lay."
 
@@ -831,49 +831,49 @@ still survive.
 
 ### Footnotes
 
-<span id="fn_9"></span>[2:1](fim04.htm#fr_9) Cormac's Glossary.
+<span id="fn_9"></span>[2:1](fim04.htm#fr_9.md) Cormac's Glossary.
 (O'Donovan's edition), p. 114.
 
-<span id="fn_10"></span>[2:2](fim04.htm#fr_10) Rhys, Hibbert Lectures,
+<span id="fn_10"></span>[2:2](fim04.htm#fr_10.md) Rhys, Hibbert Lectures,
 1886, pp. 663-4.
 
-<span id="fn_11"></span>[3:1](fim04.htm#fr_11) Ogygia, p. 26, Dublin,
+<span id="fn_11"></span>[3:1](fim04.htm#fr_11.md) Ogygia, p. 26, Dublin,
 1793.
 
-<span id="fn_12"></span>[4:1](fim04.htm#fr_12) *West Connaught*, Irish
+<span id="fn_12"></span>[4:1](fim04.htm#fr_12.md) *West Connaught*, Irish
 Arch. Soc., Dublin, 1849, p. 54.
 
-<span id="fn_13"></span>[5:1](fim04.htm#fr_13) Rhys, Hibbert Lectures,
+<span id="fn_13"></span>[5:1](fim04.htm#fr_13.md) Rhys, Hibbert Lectures,
 1886, pp. 665-7.
 
-<span id="fn_14"></span>[5:2](fim04.htm#fr_14) Zeitschrift für deut.
+<span id="fn_14"></span>[5:2](fim04.htm#fr_14.md) Zeitschrift für deut.
 Alt., 1889, Mr Alfred Nutt's Summary Folk-Lore June, 1890.
 
-<span id="fn_15"></span>[6:1](fim04.htm#fr_15) This can scarcely mean
+<span id="fn_15"></span>[6:1](fim04.htm#fr_15.md) This can scarcely mean
 the Island.
 
-<span id="fn_16"></span>[6:2](fim04.htm#fr_16) Manx Soc., Vol. XII., p.
+<span id="fn_16"></span>[6:2](fim04.htm#fr_16.md) Manx Soc., Vol. XII., p.
 6.
 
-<span id="fn_17"></span>[6:3](fim04.htm#fr_17) Long hands.
+<span id="fn_17"></span>[6:3](fim04.htm#fr_17.md) Long hands.
 
-<span id="fn_18"></span>[6:4](fim04.htm#fr_18) The Fate of the Sons of
+<span id="fn_18"></span>[6:4](fim04.htm#fr_18.md) The Fate of the Sons of
 Turren, published by O’Curry, in the Atlantis. Vol. iv. p. 160-3.
 
-<span id="fn_19"></span>[8:1](fim04.htm#fr_19) This tale is taken from
+<span id="fn_19"></span>[8:1](fim04.htm#fr_19.md) This tale is taken from
 Rhys, Hibbert Lectures, pp. 473-6, who quotes, as his authorities, Book
 of Leinster, Keating and O'Curry.
 
-<span id="fn_20"></span>[8:2](fim04.htm#fr_20) Published by Roberts
+<span id="fn_20"></span>[8:2](fim04.htm#fr_20.md) Published by Roberts
 Brothers, Boston, U.S.A.
 
-<span id="fn_21"></span>[10:1](fim04.htm#fr_21) See Mr Alfred Nutt's
+<span id="fn_21"></span>[10:1](fim04.htm#fr_21.md) See Mr Alfred Nutt's
 abstract of Professor Zimmer's theory of the Ossianic Saga in 'The
 Academy," of Feb. 14, 1891.
 
-<span id="fn_22"></span>[10:2](fim04.htm#fr_22) Chorus after every line.
+<span id="fn_22"></span>[10:2](fim04.htm#fr_22.md) Chorus after every line.
 
-<span id="fn_23"></span>[10:3](fim04.htm#fr_23) Orree beg--Young
+<span id="fn_23"></span>[10:3](fim04.htm#fr_23.md) Orree beg--Young
 Orree--not from his size, but age;--where there are two of the same
 family, Father and Son, of the same name, the younger is styled
 beg--*i.e.*, the lesser. This Orree beg is supposed to have been a
@@ -889,49 +889,49 @@ gorze and heath, or ting, &c., for firing--hies him to the forest, and
 made up eight large burthens, such as eight modern men could not heave
 from the ground, and with these he fired the house as above described.
 
-<span id="fn_24"></span>[11:1](fim04.htm#fr_24) *Mollaght Mynney*, is
+<span id="fn_24"></span>[11:1](fim04.htm#fr_24.md) *Mollaght Mynney*, is
 the bitterest curse in our language, that leaves neither root nor
 branch, like the Skeabthoan, the besom of destruction.
 
-<span id="fn_25"></span>[11:2](fim04.htm#fr_25) Chorus after every line.
+<span id="fn_25"></span>[11:2](fim04.htm#fr_25.md) Chorus after every line.
 
-<span id="fn_26"></span>[12:1](fim04.htm#fr_27) Not in the Manx.
+<span id="fn_26"></span>[12:1](fim04.htm#fr_27.md) Not in the Manx.
 
-<span id="fn_27"></span>[13:1](fim04.htm#fr_28) \["Ten L, thrice X, with
+<span id="fn_27"></span>[13:1](fim04.htm#fr_28.md) \["Ten L, thrice X, with
 five and two did fall, ye Manx beware of future evil's call," is the
 translation given by Munch in his edition of the Chronicle, Manx
 Society, Vol. xxii.. p. 3.--ED.\]
 
-<span id="fn_28"></span>[13:2](fim04.htm#fr_29) Mr P. M. C. Kermode has
+<span id="fn_28"></span>[13:2](fim04.htm#fr_29.md) Mr P. M. C. Kermode has
 the credit of being the discoverer of the former, and Canon G. F. Browne
 of the latter. Canon Browne, indeed, was the first to indicate the
 existence of this tale on any sculptured stone in the United Kingdom, he
 having identified it on a cross in Leeds Parish Church-yard and having
 pointed out its historical and archaeological significance.
 
-<span id="fn_29"></span>[14:1](fim04.htm#fr_30) The Sigurd here
+<span id="fn_29"></span>[14:1](fim04.htm#fr_30.md) The Sigurd here
 mentioned is the same person as the Siegfried of the Old High German
 *Nibelungenlied*. The northern version, however, is the older, more
 mythical, and more simple of the two. A bold attempt has lately been
 made by Dr. G. Vigfusson to identify Sigurd with the noble Cheruscan
 youth Arminius.--*Sigfried Arminius*, pp. 1-21.
 
-<span id="fn_30"></span>[14:2](fim04.htm#fr_31) *Sleipnir*. "the
+<span id="fn_30"></span>[14:2](fim04.htm#fr_31.md) *Sleipnir*. "the
 slipper," was the eight-footed steed of Odin. *Grana* (commonly *Grani*)
 means the "grey steed."
 
-<span id="fn_31"></span>[15:1](fim04.htm#fr_32) *Rán* was the goddess of
+<span id="fn_31"></span>[15:1](fim04.htm#fr_32.md) *Rán* was the goddess of
 the sea, and caught in her net all those who were drowned.
 
-<span id="fn_32"></span>[16:1](fim04.htm#fr_33) The original word is
+<span id="fn_32"></span>[16:1](fim04.htm#fr_33.md) The original word is
 *igða*, which has been variously interpreted eagle. hawk, nuthatch,
 woodpecker, or magpie; *Egðir* is the poetical word for eagle.
 
-<span id="fn_33"></span>[16:2](fim04.htm#fr_34) The original word is
+<span id="fn_33"></span>[16:2](fim04.htm#fr_34.md) The original word is
 *þulr*, the technical meaning of which is obscure. In the
 Cleasby-Vigfusson *Icelandic Dictionary* it is rendered "a sayer of
 saws, a wise man, a sage (a bard?)."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Hagiogical, and Mytho-historical Legends](fim05)
+[Next: Chapter II. Hagiogical, and Mytho-historical Legends](fim05.md)

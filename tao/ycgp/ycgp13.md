@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp12) [Next](ycgp14)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp12) [Next](ycgp14.md)
 
 ------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ die."
 
 ------------------------------------------------------------------------
 
-[Next](ycgp14)
+[Next](ycgp14.md)
 
  
 

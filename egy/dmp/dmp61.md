@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp60)  [Next](dmp62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp60)  [Next](dmp62.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ feed it in your house.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXX](dmp62)
+[Next: Verso Col. XXX](dmp62.md)

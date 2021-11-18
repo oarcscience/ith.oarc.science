@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor00)  [Next](yor02) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor00)  [Next](yor02.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ APPENDIX
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Introductory.](yor02)
+[Next: Chapter I: Introductory.](yor02.md)

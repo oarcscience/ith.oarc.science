@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift30) 
-[Next](ift32) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift30.md) 
+[Next](ift32.md) 
 
 ------------------------------------------------------------------------
 
@@ -392,4 +392,4 @@ Celtic Fairy Tales.
 
 ------------------------------------------------------------------------
 
-[Next: Story Notes](ift32)
+[Next: Story Notes](ift32.md)

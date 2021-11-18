@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl06)  [Next](jftl08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl06)  [Next](jftl08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ box must surely be packed with wheat."
 <span id="img_06800"></span> <span align="CENTER"> [![He could not see
 what Sarah saw--a figure, a spirit, clutching a big stick.
 (&lt;i&gt;Page 72&lt;/i&gt;).](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)  
+Click to enlarge](img/06800.jpg.md)  
 He could not see what Sarah saw--a figure, a spirit, clutching a big
 stick. (*Page 72*).  
 </span>
@@ -255,4 +255,4 @@ true.
 
 ------------------------------------------------------------------------
 
-[Next: The Red Slipper](jftl08)
+[Next: The Red Slipper](jftl08.md)

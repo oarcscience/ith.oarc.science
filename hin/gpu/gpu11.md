@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu10)  [Next](gpu12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu10)  [Next](gpu12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ a good condition.
 
 3-5. When, by the effects of karma, the embodied leaves his ordinary
 body, then, near to a holy basil tree one should make a ring with
-cowdung. <span id="fr_84"></span>[1](#fn_82)
+cowdung. <span id="fr_84"></span>[1](#fn_82.md)
 
 Next, having scattered sesamum seeds, he should strew darbha-grass, and
 then have the Śālagrāma stone placed on the cleaned platform.
@@ -68,8 +68,8 @@ The darbha grasses, my riches, O Tārkṣhya, are produced from my hairs;
 hence by the mere touch of them men attain heaven.
 
 Brahma is seated at the root of the kuśa-grass; in the middle of the
-kuśa is Janārdana; <span id="fr_85"></span>[1](#fn_83) at the tip of the
-kuśa is Śaṅkaradeva <span id="fr_86"></span>[2](#fn_84)--three shining
+kuśa is Janārdana; <span id="fr_85"></span>[1](#fn_83.md) at the tip of the
+kuśa is Śaṅkaradeva <span id="fr_86"></span>[2](#fn_84.md)--three shining
 ones are seated in the kuśa grass.
 
 14-15. Hence kuśa, fire, mantras, holy basil; Brāhmiṇs and cows do not
@@ -83,9 +83,9 @@ used; and fire, on a cremation-ground.
 
 16-20. One should lay the dying man on the ground cleaned with cow-dung
 and spread over with darbha-grasses; not support him in the air. <span
-id="fr_87"></span>[1](#fn_85)
+id="fr_87"></span>[1](#fn_85.md)
 
-Brahmā, Viṣṇu, Rudra <span id="fr_88"></span>[2](#fn_86) all the shining
+Brahmā, Viṣṇu, Rudra <span id="fr_88"></span>[2](#fn_86.md) all the shining
 ones, and Sacrificial Fire stand upon the ring,---therefore should one
 make a ring.
 
@@ -104,8 +104,8 @@ jewels upon his lips, and give him the Water of the Feet of Vishnu in
 the form of the Śālagrāma.
 
 He who drinks even a drop of the water of the water of the Śālagrāma
-stone <span id="fr_89"></span>[3](#fn_87) is absolved from all sins, and
-goes to the residence Vaikuṇṭḥa. <span id="fr_90"></span>[4](#fn_88)
+stone <span id="fr_89"></span>[3](#fn_87.md) is absolved from all sins, and
+goes to the residence Vaikuṇṭḥa. <span id="fr_90"></span>[4](#fn_88.md)
 
 <span id="page_79">p. 79</span>
 
@@ -121,7 +121,7 @@ fire, so, by his drinking the water of the Ganges, is his sin reduced to
 ashes.
 
 He who drinks the water of the Ganges, heated by the rays of the
-sun <span id="fr_91"></span>[1](#fn_89) is freed from all births and
+sun <span id="fr_91"></span>[1](#fn_89.md) is freed from all births and
 goes to the abode of Hari.
 
 By bathing in other rivers men are purified,--so also by merely
@@ -141,7 +141,7 @@ Ganges, goes to the highest goal.
 
 31-33. Therefore he should contemplate, salute, keep in mind the Ganges,
 and drink its water. Then he should listen, however little, to the
-Bhāgavata, <span id="fr_92"></span>[1](#fn_90) which is a giver of
+Bhāgavata, <span id="fr_92"></span>[1](#fn_90.md) which is a giver of
 liberation.
 
 He who in his last moments repeats a verse, or half or quarter of a
@@ -153,9 +153,9 @@ Vaiṣyas.
 
 34-35. At the time when the breath is leaving the body, he should make a
 fast, O Bird. Dissatisfied with worldly things the twice-born should
-take up relinquishment. <span id="fr_93"></span>[2](#fn_91)
+take up relinquishment. <span id="fr_93"></span>[2](#fn_91.md)
 
-He who says, <span id="fr_94"></span>[3](#fn_92) while life is still
+He who says, <span id="fr_94"></span>[3](#fn_92.md) while life is still
 flickering in his throat, "I have relinquished," goes at death to the
 city of Viṣṇu, and is not born again on earth.
 
@@ -212,38 +212,38 @@ attains heaven, and is honoured by the Holy Ones.
 
 ### Footnotes
 
-<span id="fn_82"></span>[76:1](gpu11.htm#fr_84) Cowdung is extensively
+<span id="fn_82"></span>[76:1](gpu11.htm#fr_84.md) Cowdung is extensively
 used in India as a purifier and antiseptic.
 
-<span id="fn_83"></span>[77:1](gpu11.htm#fr_85) Viṣṇu.
+<span id="fn_83"></span>[77:1](gpu11.htm#fr_85.md) Viṣṇu.
 
-<span id="fn_84"></span>[77:2](gpu11.htm#fr_86) Śiva.
+<span id="fn_84"></span>[77:2](gpu11.htm#fr_86.md) Śiva.
 
-<span id="fn_85"></span>[78:1](gpu11.htm#fr_87) When the people of the
+<span id="fn_85"></span>[78:1](gpu11.htm#fr_87.md) When the people of the
 house are aware that one is about, to die they remove him from the couch
 to the ground.
 
-<span id="fn_86"></span>[78:2](gpu11.htm#fr_88) Siva.
+<span id="fn_86"></span>[78:2](gpu11.htm#fr_88.md) Siva.
 
-<span id="fn_87"></span>[78:3](gpu11.htm#fr_89) Water is [poured
-over](errata.htm#6) the stone, and thus consecrated to Viṣṇu.
+<span id="fn_87"></span>[78:3](gpu11.htm#fr_89.md) Water is [poured
+over](errata.htm#6.md) the stone, and thus consecrated to Viṣṇu.
 
-<span id="fn_88"></span>[78:4](gpu11.htm#fr_90) The heaven of Viṣṇu.
+<span id="fn_88"></span>[78:4](gpu11.htm#fr_90.md) The heaven of Viṣṇu.
 
-<span id="fn_89"></span>[79:1](gpu11.htm#fr_91) Here is a mystical
+<span id="fn_89"></span>[79:1](gpu11.htm#fr_91.md) Here is a mystical
 suggestion.
 
-<span id="fn_90"></span>[80:1](gpu11.htm#fr_92) The Bhāgvata Purāṇa.
+<span id="fn_90"></span>[80:1](gpu11.htm#fr_92.md) The Bhāgvata Purāṇa.
 
-<span id="fn_91"></span>[80:2](gpu11.htm#fr_93) Sannyāsa, giving up
+<span id="fn_91"></span>[80:2](gpu11.htm#fr_93.md) Sannyāsa, giving up
 attachment to worldly life and its objects.
 
-<span id="fn_92"></span>[80:3](gpu11.htm#fr_94) That is, *truly* says.
+<span id="fn_92"></span>[80:3](gpu11.htm#fr_94.md) That is, *truly* says.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Collecting of the Bones from the Fire](gpu12)
+[Next: Chapter X. The Collecting of the Bones from the Fire](gpu12.md)
 
 </div>

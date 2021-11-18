@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi285)  [Next](mtsi287) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi285)  [Next](mtsi287.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,9 +34,9 @@ and fell down dead. So Crane beat Panther.
 
 ### Footnotes
 
-<span id="fn_83"></span>[248:1](mtsi285.htm#fr_84) Translated toad, but
+<span id="fn_83"></span>[248:1](mtsi285.htm#fr_84.md) Translated toad, but
 this must be wrong.
 
 ------------------------------------------------------------------------
 
-[Next: 22. The Opossum](mtsi287)
+[Next: 22. The Opossum](mtsi287.md)

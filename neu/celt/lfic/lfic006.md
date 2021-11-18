@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic005)  [Next](lfic007) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic005)  [Next](lfic007.md) 
 
 ------------------------------------------------------------------------
 
@@ -279,4 +279,4 @@ unwarranted into the mouth of our story-teller.
 
 ------------------------------------------------------------------------
 
-[Next: Jack the Master and Jack the Servant](lfic007)
+[Next: Jack the Master and Jack the Servant](lfic007.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb34)  [Next](yefb36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb34)  [Next](yefb36.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_213">p. 213</span>
 
-THE DEATH OF THE SUN-HERO <span id="fr_26"></span>[1](#fn_26)
+THE DEATH OF THE SUN-HERO <span id="fr_26"></span>[1](#fn_26.md)
 
 Many, many thousand years ago there lived a mighty King whom heaven had
 blessed with a clever and beautiful son.  When he was only ten years old
@@ -127,13 +127,13 @@ wrongfully assumes a title to which he has no right.'
 
 ### Footnotes
 
-<span id="fn_26"></span>[213:1](yefb35.htm#fr_26) From the *Bukowinaer*
+<span id="fn_26"></span>[213:1](yefb35.htm#fr_26.md) From the *Bukowinaer*
 *Tales and Legends*. Von Wliolocki.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Witch](yefb36)
+[Next: The Witch](yefb36.md)
 
 </div>

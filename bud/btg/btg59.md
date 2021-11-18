@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg58)  [Next](btg60) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg58)  [Next](btg60.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ reverence, and disappeared suddenly from the presence of the Buddha.
 
 ------------------------------------------------------------------------
 
-[Next: Words Of Instruction](btg60)
+[Next: Words Of Instruction](btg60.md)

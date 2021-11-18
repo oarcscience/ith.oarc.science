@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam09)  [Next](adam11) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam09)  [Next](adam11.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ this in this position.
 
 ------------------------------------------------------------------------
 
-[Next: Having a tent for them in the place of the Holy house](adam11)
+[Next: Having a tent for them in the place of the Holy house](adam11.md)

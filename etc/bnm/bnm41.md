@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm40)  [Next](bnm42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm40)  [Next](bnm42.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ for the Indians as long as they eat fish."
 
 ------------------------------------------------------------------------
 
-[Next: Was It The First Turtle?](bnm42)
+[Next: Was It The First Turtle?](bnm42.md)

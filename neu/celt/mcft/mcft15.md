@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft14)  [Next](mcft16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft14)  [Next](mcft16.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ Brito, son of Priam, King of Troy.
 
 ------------------------------------------------------------------------
 
-[Next: The Leeching of Kayn's leg](mcft16)
+[Next: The Leeching of Kayn's leg](mcft16.md)

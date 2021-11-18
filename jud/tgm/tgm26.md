@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm25)  [Next](tgm27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm25)  [Next](tgm27.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ For a while all were silent. Then the Caliph spoke:
 <span id="img_12800"></span>
 
 [![](tn/12800.jpg)  
-Click to enlarge](img/12800.jpg)
+Click to enlarge](img/12800.jpg.md)
 
  
 
@@ -136,4 +136,4 @@ hear it?
 
 ------------------------------------------------------------------------
 
-[Next: 24. The Choice](tgm27)
+[Next: 24. The Choice](tgm27.md)

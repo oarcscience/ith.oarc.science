@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](mac02)  [Next](mac04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](mac02)  [Next](mac04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -39,12 +39,12 @@ sections, which may take about twelve volumes or so more. Now to the
 point. There was a criticism in the "Open Court" of Chicago, Vol. XVI.,
 pp. 425-427, accusing us that we have omitted the discussion of some
 sages concerning "evangelium." How it should be written ‏עןנ-גליון‎ or
-‏אונ-גליון‎  <span id="fr_0"></span>[1](#fn_0)
+‏אונ-גליון‎  <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_vi">p. vi</span>
 
 and for such an omission he exclaimed that we have no translation of the
-whole Talmud. <span id="fr_1"></span>[1](#fn_1) We have received also
+whole Talmud. <span id="fr_1"></span>[1](#fn_1.md) We have received also
 some private letters from educated people, asking why they do not find
 any mention of Jesus of Nazareth. And in answer to the criticism as well
 as to the many letters we have received, we beg to give some letters of
@@ -211,8 +211,8 @@ NEW YORK, *May* 25, 1903.
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:1](mac03.htm#fr_0) The meaning of the first
-two words is one and the same. And the [*aleph*](errata.htm#35) here is
+<span id="fn_0"></span>[v:1](mac03.htm#fr_0.md) The meaning of the first
+two words is one and the same. And the [*aleph*](errata.htm#35.md) here is
 the same as the *ayen*. The same differ also about the same letters
 concerning the word "Eidehen," Abuda Zara, p.1. (see foot-note there);
 hence, as it is without any importance for the English reader, we have
@@ -220,7 +220,7 @@ to omit it, according to our method. But that what was said in the name
 of Jesus by Jacob (James) we have translated, although we do not believe
 that this was so (see foot-note, ibid. p. 27).
 
-<span id="fn_1"></span>[vi:1](mac03.htm#fr_1) Some one has called our
+<span id="fn_1"></span>[vi:1](mac03.htm#fr_1.md) Some one has called our
 attention to this article being in the public library about a year ago
 and we only glanced at it for lack of time. And for the same reason we
 could not have the original before us when we are writing our answer. By
@@ -233,4 +233,4 @@ lamented Dr. Mielziner, who agrees with us on this point.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mac04)
+[Next: Contents](mac04.md)

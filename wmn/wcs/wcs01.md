@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wcs00)  [Next](wcs02) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wcs00)  [Next](wcs02.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ or dictate your judgment.
 
 ------------------------------------------------------------------------
 
-[Next: Contents.](wcs02)
+[Next: Contents.](wcs02.md)

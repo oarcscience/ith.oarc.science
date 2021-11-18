@@ -1,25 +1,25 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat21)  [Next](yat23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat21)  [Next](yat23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
 <span id="page_200">p. 200</span>
 
-# SUPPLEMENTARY TEXTS <span id="fr_142"></span>[314](#fn_138)
+# SUPPLEMENTARY TEXTS <span id="fr_142"></span>[314](#fn_138.md)
 
-### XXIII. THE ROLLING SKULL. <span id="fr_143"></span>[315](#fn_139)
+### XXIII. THE ROLLING SKULL. <span id="fr_143"></span>[315](#fn_139.md)
 
 (Round Mountain Jack's Version)
 
@@ -43,7 +43,7 @@ hastening back to this place. He hastened back as far as a hill.
 
 Coyote was coming from the north, from Montgomery creek. The human skull
 was singing. Coyote heard him, and stood still. "Come to me,
-pack-basket!" <span id="fr_144"></span>[318](#fn_140) he said. "Come to
+pack-basket!" <span id="fr_144"></span>[318](#fn_140.md) he said. "Come to
 me, tasselled apron? Come to me, basket-cap! Come to me, bread! Come to
 me, salmon! Come to me, deer-meat! Enough now!" Now he was carrying a
 pack-basket on his back. "Come here, staff!"
@@ -73,7 +73,7 @@ home to the east.
 
 ### Footnotes
 
-<span id="fn_138"></span>[200:314](yat22.htm#fr_142) These two
+<span id="fn_138"></span>[200:314](yat22.htm#fr_142.md) These two
 supplementary texts of myths were obtained in 1900 by Dr. R. B. Dixon
 from Round Mountain Jack, who has since died. Round Mountain Jack, whose
 Indian name was Buī'yas\*i (cf. buī- "to kick"), was recognized as the
@@ -93,14 +93,14 @@ represents voiced r and how far voiceless r (or rt‘, rt?), it has seemed
 most expedient to normalize all eases with variant r in conformity with
 the phonetics of Betty Brown's material.
 
-<span id="fn_139"></span>[200:315](yat22.htm#fr_143) Cf. text IX and
+<span id="fn_139"></span>[200:315](yat22.htm#fr_143.md) Cf. text IX and
 footnote 191.
 
-<span id="fn_140"></span>[202:318](yat22.htm#fr_144) The pack-basket,
+<span id="fn_140"></span>[202:318](yat22.htm#fr_144.md) The pack-basket,
 tasselled apron, and basket cap stamp the woman, the bread, salmon, and
 deer meat are to be the contents of the pack-basket, the staff marks the
 old woman.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV. Grizzly Bear and Deer](yat23)
+[Next: XXIV. Grizzly Bear and Deer](yat23.md)

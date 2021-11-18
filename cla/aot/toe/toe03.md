@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](toe02) 
-[Next](toe04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](toe02.md) 
+[Next](toe04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../laot/img/tease.jpg)](index)  
+[![](../laot/img/tease.jpg)](index.md)  
 *The Treatise of Eusebius Against the Life of Apollonius by
 Philostratus*, by Eusebius, tr. F.C. Conybeare, \[1912\], at Intangible
 Textual Heritage
@@ -457,15 +457,15 @@ was bitten by a mad dog. He is rescued from his distress by Apollonius,
 who forthwith proceeds to divine whose soul it was that the dog had
 inside him; and we learn that it was that of Amasis, a former king of
 Egypt, for the sage's humanity extended to dogs. <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_2"></span>[565:1](toe03.htm#fr_2) Eusebius confuses the mad
+<span id="fn_2"></span>[565:1](toe03.htm#fr_2.md) Eusebius confuses the mad
 dog of VI 43 with the tame lion of V 42.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters XXXI to XL](toe04)
+[Next: Chapters XXXI to XL](toe04.md)

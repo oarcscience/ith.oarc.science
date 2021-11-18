@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](boi03)  [Next](boi05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](boi03)  [Next](boi05.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,10 +11,10 @@
 (BERLIN PAP. 1425)
 
 INVOCATION concerning the glorious things done by the two goddesses of
-the temple of Osiris, Khent-Amentit, <span id="fr_0"></span>[1](#fn_0)
+the temple of Osiris, Khent-Amentit, <span id="fr_0"></span>[1](#fn_0.md)
 the great God of Abydos; performed in the 4th summer month, 25th day;
 likewise to be performed in every shrine of Osiris at every one of his
-Heb-festivals. <span id="fr_1"></span>[2](#fn_1)
+Heb-festivals. <span id="fr_1"></span>[2](#fn_1.md)
 
 Glorify his soul! Establish his dead body!  
 Praise his spirit! Give breath to his nostrils and to his parched
@@ -22,7 +22,7 @@ throat!
 Give gladness unto the heart of Isis and to that of Nephthys;  
 Place Horus upon the throne of his Father  
 Give life, stability and power to Osiris Thentirti, <span
-id="fr_2"></span>[3](#fn_2)  
+id="fr_2"></span>[3](#fn_2.md)  
 Born of the great forsaken one, she who is called also Pelses, the
 truthful--  
 Glorious are her acts, according to the words of the gods.
@@ -31,20 +31,20 @@ Glorious are her acts, according to the words of the gods.
 
 Behold now, Isis speaketh,--  
 Come to thy temple, come to thy temple, oh An! <span
-id="fr_3"></span>[1](#fn_3)  
+id="fr_3"></span>[1](#fn_3.md)  
 Come to thy temple, for thine enemies are not  
 Behold the excellent sistrum-bearer--come to thy temple!  
 Lo I, thy sister, love thee--do not thou depart from me!  
-Behold Hunnu, <span id="fr_4"></span>[2](#fn_4) the beautiful one  
+Behold Hunnu, <span id="fr_4"></span>[2](#fn_4.md) the beautiful one  
 Come to thy temple immediately--come to thy temple immediately! Behold
 thou my heart, which grieveth for thee;  
 Behold me seeking for thee--I am searching for thee to behold thee!  
 Lo, I am prevented from beholding thee--  
 I am prevented from beholding thee, oh An! <span
-id="fr_5"></span>[1](#fn_3)  
+id="fr_5"></span>[1](#fn_3.md)  
 It is blessed to behold thee--come to the one who loveth thee!  
 Come to the one who loveth thee, oh thou who art beautiful,
-Un-Nofer, <span id="fr_6"></span>[3](#fn_5) deceased.  
+Un-Nofer, <span id="fr_6"></span>[3](#fn_5.md) deceased.  
 Come to thy sister--come to thy wife--  
 Come to thy wife, oh thou who makest the heart to rest.  
 I, thy sister, born of thy mother, go about to every temple of thine,  
@@ -82,15 +82,15 @@ Thy foes are subdued, there is not one remaining.
 Lo, I am with thee; I shall protect thy limbs for ever, eternally.
 
 Behold now, Isis speaketh,--  
-Praised be An <span id="fr_7"></span>[1](#fn_6) thou shinest upon us
+Praised be An <span id="fr_7"></span>[1](#fn_6.md) thou shinest upon us
 from heav'n every day,  
 Yet can we not behold thy beams.  
-Tehuti <span id="fr_8"></span>[2](#fn_7) protecteth thee, he causeth thy
+Tehuti <span id="fr_8"></span>[2](#fn_7.md) protecteth thee, he causeth thy
 soul to be established within the Maadet boat, <span
-id="fr_9"></span>[3](#fn_8) by  
+id="fr_9"></span>[3](#fn_8.md) by  
 the power of thy name of "Iah"!  
 Come to me; for I would behold thee and thy beauties by means of the
-Uazit eye,-- <span id="fr_10"></span>[4](#fn_9)  
+Uazit eye,-- <span id="fr_10"></span>[4](#fn_9.md)  
 By the power of thy name of "Lord of the six festivals"!  
 Thy royal attendants are by thy side, nor go they forth from thee;  
 Thou takest possession of heaven by the greatness of thy terrors, and by
@@ -98,7 +98,7 @@ the power of thy name of "Prince of the fifteen festivals"!
 Thou shinest upon us like Ra, the lord--  
 Glow thou above us like Tum.  
 Gods and men live when beholding thee-shine thou upon us;  
-Brighten thou the two lands; <span id="fr_11"></span>[5](#fn_10)  
+Brighten thou the two lands; <span id="fr_11"></span>[5](#fn_10.md)  
 The two horizons are fitted for thy pathways.
 
 <span id="page_24">p. 24</span>
@@ -106,7 +106,7 @@ The two horizons are fitted for thy pathways.
 Gods together with men are with thee;  
 No harm cometh unto them from thy shining,  
 Nor from thy journeying in the celestial boat <span
-id="fr_12"></span>[1](#fn_11) above.  
+id="fr_12"></span>[1](#fn_11.md) above.  
 Thy enemies have ceased to be, for I am protecting thee, oh Ra, lord!  
 Come thou to us as a babe, thou first great Sun god.  
 Depart not from us who behold thee  
@@ -123,7 +123,7 @@ emanations,--
 The day when offerings upon offerings are made to thy spirit, which
 causeth the gods and men likewise to live.  
 Praise be to the Lord, for there is no god like unto thee, oh Tum! <span
-id="fr_13"></span>[2](#fn_12)  
+id="fr_13"></span>[2](#fn_12.md)  
 Thy soul possesseth the earth, and thy likenesses the underworld;
 
 <span id="page_25">p. 25</span>
@@ -134,7 +134,7 @@ the lands.
 
 Behold now, Nephthys speaketh,--  
 Behold the excellent sistrum-bearer! Come to thy temple, Un-Nofer,
-deceased,--come to Deddu! <span id="fr_14"></span>[1](#fn_13)  
+deceased,--come to Deddu! <span id="fr_14"></span>[1](#fn_13.md)  
 Behold the bull, the begotten one!  
 Come thou to Anep (Mendes), the beloved enclosure!  
 Come to Khar! Come to the two Deddus (Mendes and Busiris), the place
@@ -144,7 +144,7 @@ face.
 It is I who doth illuminate and protect thee every day--  
 I will not depart from thee for ever  
 Oh, An, come thou to Sais, for thy name is "Sau" (protector)! <span
-id="fr_15"></span>[2](#fn_14)  
+id="fr_15"></span>[2](#fn_14.md)  
 Come to Aper! Behold thou thy mother, Nut, oh thou lovely child!  
 Depart thou not from her! Come to her breasts; abundance is therein!  
 Thy sister, too, is beautiful, depart thou not from her, oh son!
@@ -190,42 +190,42 @@ Lo! he comes!
 
 ### Footnotes
 
-<span id="fn_0"></span>[20:1](boi04.htm#fr_0) A title of Osiris--"Within
+<span id="fn_0"></span>[20:1](boi04.htm#fr_0.md) A title of Osiris--"Within
 the underworld."
 
-<span id="fn_1"></span>[20:2](boi04.htm#fr_1) Heb--a special festival.
+<span id="fn_1"></span>[20:2](boi04.htm#fr_1.md) Heb--a special festival.
 
-<span id="fn_2"></span>[20:3](boi04.htm#fr_2) Thentirti--name of Osiris.
+<span id="fn_2"></span>[20:3](boi04.htm#fr_2.md) Thentirti--name of Osiris.
 
-<span id="fn_3"></span>[21:1](boi04.htm#fr_5) An, the sun (or moon) god.
+<span id="fn_3"></span>[21:1](boi04.htm#fr_5) An, the sun (or moon.md) god.
 
-<span id="fn_4"></span>[21:2](boi04.htm#fr_4) Name of the sun god.
+<span id="fn_4"></span>[21:2](boi04.htm#fr_4.md) Name of the sun god.
 
-<span id="fn_5"></span>[21:3](boi04.htm#fr_6) One of the titles of
+<span id="fn_5"></span>[21:3](boi04.htm#fr_6.md) One of the titles of
 Osiris.
 
-<span id="fn_6"></span>[23:1](boi04.htm#fr_7) The sun god.
+<span id="fn_6"></span>[23:1](boi04.htm#fr_7.md) The sun god.
 
-<span id="fn_7"></span>[23:2](boi04.htm#fr_8) Thoth, God of Wisdom.
+<span id="fn_7"></span>[23:2](boi04.htm#fr_8.md) Thoth, God of Wisdom.
 
-<span id="fn_8"></span>[23:3](boi04.htm#fr_9) Sunset boat.
+<span id="fn_8"></span>[23:3](boi04.htm#fr_9.md) Sunset boat.
 
-<span id="fn_9"></span>[23:4](boi04.htm#fr_10) Magic eye of
+<span id="fn_9"></span>[23:4](boi04.htm#fr_10.md) Magic eye of
 Osiris,--bringing health and happiness to wearer.
 
-<span id="fn_10"></span>[23:5](boi04.htm#fr_11) Upper and Lower Egypt.
+<span id="fn_10"></span>[23:5](boi04.htm#fr_11.md) Upper and Lower Egypt.
 
-<span id="fn_11"></span>[24:1](boi04.htm#fr_12) Boat of Ra, sun god.
+<span id="fn_11"></span>[24:1](boi04.htm#fr_12.md) Boat of Ra, sun god.
 
-<span id="fn_12"></span>[24:2](boi04.htm#fr_13) Tum or Atum--sun, father
+<span id="fn_12"></span>[24:2](boi04.htm#fr_13.md) Tum or Atum--sun, father
 of Osiris, god of Heliopolis.
 
-<span id="fn_13"></span>[25:1](boi04.htm#fr_14) Mendes, not the
+<span id="fn_13"></span>[25:1](boi04.htm#fr_14.md) Mendes, not the
 celestial Deddu, is here meant.
 
-<span id="fn_14"></span>[25:2](boi04.htm#fr_15) A pun on the word
+<span id="fn_14"></span>[25:2](boi04.htm#fr_15.md) A pun on the word
 "Sais."
 
 ------------------------------------------------------------------------
 
-[Next: The Chants](boi05)
+[Next: The Chants](boi05.md)

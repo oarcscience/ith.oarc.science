@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft15)  [Next](ftft17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft15)  [Next](ftft17.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_102">p. 102</span>
 
-<span id="img_10200"></span> ![The Storm Fiend](img/10200.jpg)
+<span id="img_10200"></span> ![The Storm Fiend](img/10200.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 WO cats made a spring, the frog flew with wings, aunt flea fell down,
 and the rocks fell on her. The cock was an imam, the cow a barber, the
@@ -51,7 +51,7 @@ fast as his legs could carry him.
 
 |                                        |
 |----------------------------------------|
-| ![He bound the old man](img/10300.jpg) |
+| ![He bound the old man](img/10300.jpg.md) |
 
 Now came the turn of the youngest. He took up his handschar, put it in
 his girdle, and went to the cemetery. About midnight arose such a
@@ -88,7 +88,7 @@ to rob it," was the answer, "but we know not how to accomplish it."
 
 |                                                        |
 |--------------------------------------------------------|
-| ![Here a beautiful maiden was sleeping](img/10400.jpg) |
+| ![Here a beautiful maiden was sleeping](img/10400.jpg.md) |
 
 "I will help you," said the Prince, "if you will give me a light" The
 robbers promised quite willingly. He took nails, knocked them in the
@@ -131,7 +131,7 @@ first ask for her."
 On this he took
 
 <span id="img_10500"></span> ![''I want to marry your eldest sister''
-said the lion](img/10500.jpg)
+said the lion](img/10500.jpg.md)
 
 <span id="page_106">p. 106</span>
 
@@ -142,7 +142,7 @@ her.
 
 |                     |
 |---------------------|
-| ![N](img/ninit.jpg) |
+| ![N](img/ninit.jpg.md) |
 
 EXT day came a tiger and demanded the Padishah's second sister. The two
 elder brothers were unwilling to give her to him, but the youngest
@@ -172,7 +172,7 @@ everybody invited thereto.
 
 The feasting lasted forty days and forty nights, and one day the lala
 said: "Everybody has come to the feast except the three Princes."
-[Accordingly](errata.htm#1) they were sent for, and when they came it
+[Accordingly](errata.htm#1.md) they were sent for, and when they came it
 was noticed that the youngest had the sheath belonging to the sword.
 Immediately the Padishah sent for him, and said:
 
@@ -239,7 +239,7 @@ embracing.
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N the evening the Princess said to the Prince: "Soon my husband the lion
 will be here; although he treats me well, he is after all a beast and
@@ -269,7 +269,7 @@ ways.
 
 |                                                  |
 |--------------------------------------------------|
-| ![The tiger manifested great joy](img/10900.jpg) |
+| ![The tiger manifested great joy](img/10900.jpg.md) |
 
 The Prince travelled onward, until he came to another palace, which
 belonged to his second sister. She espied a man coming along the road,
@@ -311,7 +311,7 @@ disposed to receive you." So she hid her brother.
 
 |                     |
 |---------------------|
-| ![W](img/winit.jpg) |
+| ![W](img/winit.jpg.md) |
 
 ITH loud-flapping wings the anka flew in, and he had hardly rested
 before his wife asked him what he would do if one of her brothers should
@@ -353,7 +353,7 @@ here before his forty days' sleep is ended." She
 <span id="img_11000"></span>
 
 [![](tn/11000.jpg)  
-Click to enlarge](img/11000.jpg)
+Click to enlarge](img/11000.jpg.md)
 
 <span id="page_111">p. 111</span>
 
@@ -410,7 +410,7 @@ move."<span id="img_11200"></span>
 
 |                                                                  |
 |------------------------------------------------------------------|
-| ![The bird returned with the old owl on its back](img/11200.jpg) |
+| ![The bird returned with the old owl on its back](img/11200.jpg.md) |
 
 The anka dispatched a bird with orders to bring the owl. So the bird
 flew away and presently returned with the old owl on his back.
@@ -514,7 +514,7 @@ him how he had got there.
 <span id="img_11500"></span>
 
 [![The had just enough time to do it](tn/11500.jpg)  
-Click to enlarge](img/11500.jpg)  
+Click to enlarge](img/11500.jpg.md)  
 The had just enough time to do it  
 
 <span id="page_116">p. 116</span>
@@ -529,7 +529,7 @@ All you have to do is to fill this trough with water every day."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE Prince availed himself of the opportunity and was eager to get a
 glimpse of the ox. The Jew took him to the stall, and as soon as Mahomet
@@ -562,4 +562,4 @@ until the end of their days.
 
 ------------------------------------------------------------------------
 
-[Next: The Laughing Apple and the Weeping Apple](ftft17)
+[Next: The Laughing Apple and the Weeping Apple](ftft17.md)

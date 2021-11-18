@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim13)  [Next](mim15) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim13)  [Next](mim15.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ uncooked.
 
 ------------------------------------------------------------------------
 
-[Next: 13. Bear and the Fawns](mim15)
+[Next: 13. Bear and the Fawns](mim15.md)

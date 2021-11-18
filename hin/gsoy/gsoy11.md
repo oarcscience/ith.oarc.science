@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy10) 
-[Next](gsoy12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy10.md) 
+[Next](gsoy12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -245,7 +245,7 @@ religion to the resolution to achieve, abstinence from unnecessary and
 unsuitable activities, renunciation of pleasures, poverty, patience,
 trust in God and satisfaction—and ten "states"—meditation, nearness to
 God, love, fear, hope, longing, intimacy, tranquillity, contemplation
-and certainty. <span id="fr_81"></span>[1](#fn_81)
+and certainty. <span id="fr_81"></span>[1](#fn_81.md)
 
 The part played by music in the devotional yoga of the Sufis has been
 told very beautifully by Inayat Khan in his *Mysticism of Sound*.
@@ -311,7 +311,7 @@ for about the same length of time that the whirling of the single
 durweesh before had occupied; after which, the whole party sat down to
 rest. They rose again after the lapse of about a quarter of an hour; and
 performed the same exercises a second time. <span
-id="fr_82"></span>[2](#fn_82)</span>
+id="fr_82"></span>[2](#fn_82.md)</span>
 
 <span id="page_163">p. 163</span>
 
@@ -346,12 +346,12 @@ And know only that I love.
 
 ### Footnotes
 
-<span id="fn_81"></span>[160:1](gsoy11.htm#fr_81) See *Sufism*, by A. J.
+<span id="fn_81"></span>[160:1](gsoy11.htm#fr_81.md) See *Sufism*, by A. J.
 Arberry, and *Mystics of Islam*, by R. A. Nicholson. Pub. Macmillan Co.
 
-<span id="fn_82"></span>[162:2](gsoy11.htm#fr_82) Quoted in A. J.
+<span id="fn_82"></span>[162:2](gsoy11.htm#fr_82.md) Quoted in A. J.
 Arberry's *Sufism*.
 
 ------------------------------------------------------------------------
 
-[Next: Index](gsoy12)
+[Next: Index](gsoy12.md)

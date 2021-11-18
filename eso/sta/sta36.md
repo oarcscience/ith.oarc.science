@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta35)  [Next](sta37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta35)  [Next](sta37.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ completely sane and rational on all other problems of philosophy and
 science, yet hopelessly mistaken on this one point, is untenable. Nor is
 it reasonable that the hundreds declaring to have seen and performed
 transmutations of metals could all have been dupes,
-[imbeciles](errata.htm#12), or liars.
+[imbeciles](errata.htm#12.md), or liars.
 
 Those assuming that all alchemists were of unsound mentality would be
 forced to put in this category nearly all the philosophers and
@@ -130,7 +130,7 @@ Masters of this secret science; and the stories of
 <span id="img_14900"></span>
 
 [![PARACELSUS.](tn/14900.jpg)  
-Click to enlarge](img/14900.jpg)  
+Click to enlarge](img/14900.jpg.md)  
 PARACELSUS.  
 
 From *The Complete Writings of Paracelsus, of Hohenheim*.
@@ -283,7 +283,7 @@ Germany and the rest of Austria."
 <span id="img_15000"></span>
 
 [![ ALBERTUS MAGNUS.](tn/15000.jpg)  
-Click to enlarge](img/15000.jpg)  
+Click to enlarge](img/15000.jpg.md)  
 ALBERTUS MAGNUS.  
 
 From Jovius' *Vitae Illustrium Virorum*.
@@ -458,7 +458,7 @@ Abraham the Jew, is best narrated
 
 [![TITLE PAGE OF ALCHEMICAL TRACT ATTRIBUTED TO JOHN
 CREMER.](tn/15100.jpg)  
-Click to enlarge](img/15100.jpg)  
+Click to enlarge](img/15100.jpg.md)  
 TITLE PAGE OF ALCHEMICAL TRACT ATTRIBUTED TO JOHN CREMER.  
 
 From *Musæum Hermeticum Reformatum et Amplificatum*.
@@ -647,7 +647,7 @@ but with mercury, to be the supreme secret of alchemy,
 <span id="img_15200"></span>
 
 [![THE SYMBOLS OF ABRAHAM THE JEW.](tn/15200.jpg)  
-Click to enlarge](img/15200.jpg)  
+Click to enlarge](img/15200.jpg.md)  
 THE SYMBOLS OF ABRAHAM THE JEW.  
 
 From Flammel's *Hieroglyphical Figures*.
@@ -662,4 +662,4 @@ saw and examined it."
 
 ------------------------------------------------------------------------
 
-[Next: The Theory and Practice of Alchemy: Part One](sta37)
+[Next: The Theory and Practice of Alchemy: Part One](sta37.md)

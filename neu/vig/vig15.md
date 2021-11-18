@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig14)  [Next](vig16) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig14)  [Next](vig16.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ Oddbiörg is out of our story.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](vig16)
+[Next: Chapter XIII](vig16.md)

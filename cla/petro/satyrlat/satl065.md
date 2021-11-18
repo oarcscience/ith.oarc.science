@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXV)  [Previous](satl064) 
-[Next](satl066) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXV)  [Previous](satl064.md) 
+[Next](satl066.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ etiam si coacti sumus dimidias potiones super ossucula eius effundere."
 
 ------------------------------------------------------------------------
 
-[Next: LXVI](satl066)
+[Next: LXVI](satl066.md)

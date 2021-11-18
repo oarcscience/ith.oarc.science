@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa14)  [Next](zfa16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa14)  [Next](zfa16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ of one's inmost life. Without spiritual enlightenment, all is an idle
 talk, like a bubble which vanishes under the least pressure. Without the
 awakening of the religious sense or faculty, God is a shadow, the soul a
 ghost, and life a dream. In Buddhism this faculty is known as
-[*Prajñâ*](errata.htm#1).
+[*Prajñâ*](errata.htm#1.md).
 
 If we distinguish faith from knowledge, the latter can be understood as
 simply intellectual, while the former is intuition gained through the
@@ -366,4 +366,4 @@ Prajñâ.
 
 ------------------------------------------------------------------------
 
-[Next: Practice of Dhyana](zfa16)
+[Next: Practice of Dhyana](zfa16.md)

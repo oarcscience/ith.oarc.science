@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph75)  [Next](sph77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph75)  [Next](sph77.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 ὄρπακασ ἀνήτοιο συν ῤραισ᾽ ἀπάλαισι χέψιν,  
 ἐγάνθεσιν ἔκ γὰρ πέλεται καὶ χάριτοσ μακαιρᾶν  
 μᾶλλον προτέρην, ἀστερφανώτοισι δ᾽
-ἀπυστερέφονται. [\[transcription\]](xlatall.htm#98)
+ἀπυστερέφονται. [\[transcription\]](xlatall.htm#98.md)
 
 Do thou, O Dica, set garlands upon thy lovely hair, weaving sprigs of
 dill with thy delicate hands; for those who wear fair blossoms may
@@ -23,4 +23,4 @@ acceptable to them.
 
 ------------------------------------------------------------------------
 
-[Next: 76: I love refinement...](sph77)
+[Next: 76: I love refinement...](sph77.md)

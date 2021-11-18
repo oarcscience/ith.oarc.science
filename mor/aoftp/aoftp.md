@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[About this text](aboutaop)
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[About this text](aboutaop.md)
 
 ------------------------------------------------------------------------
 

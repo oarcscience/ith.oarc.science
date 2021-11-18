@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](eog04)  [Next](eog06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](eog04)  [Next](eog06.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,10 +46,10 @@ Enkidu (there) as he stood gave ear \[to his utterance (?)\], grieving
 other.  
 <span class="margnote">37.</span>\[Holding\] like \[brothers\] their
 grip . . . \[(and) to Gilgamish\] Enkidu answer’d: <span
-id="fr_50"></span>[1](#fn_46)  
+id="fr_50"></span>[1](#fn_46.md)  
 <span class="margnote">40.</span>"Friend, ’tis my darling hath circled
 (her arms) round my neck (to farewell me) <span
-id="fr_51"></span>[2](#fn_47),  
+id="fr_51"></span>[2](#fn_47.md),  
 (Wherefore) my arms lose their power, my bodily vigour is slacken 'd."
 
 (*The Ambition of Gilgamish*).
@@ -65,7 +65,7 @@ Enkidu spake he (in this wise):
 <span class="margnote">5.</span>\[(Aye) and\] Humbaba the Fierce
 \[will\] o’ercome and destroy \[what is evil\]  
 <span class="margnote">10.</span>\[(Then) will I cut down\] the Cedar .
-. . . ." <span id="fr_52"></span>[3](#fn_48)  
+. . . ." <span id="fr_52"></span>[3](#fn_48.md)  
 Enkidu open’d his mouth, and to Gilgamish spake he (in this wise),  
 <span class="margnote">15.</span>"Know, then, my friend, what time I was
 roaming with kine in the mountains  
@@ -96,19 +96,19 @@ Strong, never \[sleeping\], O Gilgamish . . . . . .
 
 *Column IV*.
 
-<span class="margnote">1.</span> <span id="fr_53"></span>[1](#fn_49)So
+<span class="margnote">1.</span> <span id="fr_53"></span>[1](#fn_49.md)So
 that he safeguard the Forest of Cedars a terror to mortals  
 Him hath Enlil appointed—Humbaba, his roar is a whirlwind,  
 Flame (in) his jaws, and his very breath Death! (Aye), if he in the
 Forest.  
-Hear (but) a tread(?) <span id="fr_54"></span>[2](#fn_50) on the
+Hear (but) a tread(?) <span id="fr_54"></span>[2](#fn_50.md) on the
 road—'Who is this come down to his Forest?'  
 So that he safeguard the Forest of Cedars, a terror to mortals,  
 Him hath Enlil appointed, and fell hap will seize him who cometh  
 Down to his Forest."
 
 <span class="margnote">3.</span> <span
-id="fr_55"></span>[3](#fn_51)Gilgamish open’d his mouth and to Enkidu
+id="fr_55"></span>[3](#fn_51.md)Gilgamish open’d his mouth and to Enkidu
 spake he (in this wise):  
 <span class="margnote">5.</span>"Who, O my friend, is unconquer’d by
 \[death\]? A divinity, certes,  
@@ -154,22 +154,22 @@ talents,
 <span class="margnote">35.</span>Blades, thirty manas to each,
 corresponding to fit them: \[the inlay(?)\],  
 Gold thirty manas (each) sword: (so) were Gilgamish <span
-id="fr_56"></span>[1](#fn_52), Enkidu laden  
+id="fr_56"></span>[1](#fn_52.md), Enkidu laden  
 Each with ten talents.
 
 (*Gilgamish takes counsel with the Elders*).
 
        (And now) \[in\] the Seven Bolt \[Portal of Erech\]  
 Hearing \[the bruit(?)\] did the artisans gather, \[assembled the
-people(?)\] <span id="fr_57"></span>[2](#fn_53),  
+people(?)\] <span id="fr_57"></span>[2](#fn_53.md),  
 <span class="margnote">40.</span>(There) in the streets of
 broad-marketed Erech, \[in\] Gilgamish’ honour(?)\] <span
-id="fr_58"></span>[2](#fn_53),  
+id="fr_58"></span>[2](#fn_53.md),  
 \[So did the Elders of Erech\] broad-marketed take seat before him.  
 \[Gilgamish\] spake \[thus: "O Elders of Erech\] broad-marketed, \[hear
 me!\]  
 <span class="margnote">45.</span>\[I go against Humbaba, the Fierce, who
-shall say, when he heareth\] <span id="fr_59"></span>[2](#fn_53),
+shall say, when he heareth\] <span id="fr_59"></span>[2](#fn_53.md),
 
 *Column V*.
 
@@ -186,7 +186,7 @@ Gilgamish (thus) did the Elders of Erech broad-marketed answer:
 thy valour (o’ermuch) doth uplift thee,  
 Nor dost thou know to the full what thou dost seek to accomplish.  
 Unto our ears hath it come of Humbaba, his likeness is twofold. <span
-id="fr_60"></span>[3](#fn_54)  
+id="fr_60"></span>[3](#fn_54.md)  
 <span class="margnote">15.</span>Who (of free will) then would \[seek
 to\] oppose \[in encounter\] his weapons?  
 Who for a distance of two hours’ march from the skirts of the Forest  
@@ -261,18 +261,18 @@ O that the Sun-god \[may grant\] thee \[success to attain\] thine
 O that he level the path that is block’d, cleave a road for thy
 treading,  
 <span class="margnote">35.</span>Cleave, too, the berg for thy foot! May
-the god Lugal-banda <span id="fr_61"></span>[1](#fn_55)  
+the god Lugal-banda <span id="fr_61"></span>[1](#fn_55.md)  
 Bring in thy night-time a message to thee, with which shalt be
 gladden’d,  
-So that it help thine ambition <span id="fr_62"></span>[2](#fn_56),
+So that it help thine ambition <span id="fr_62"></span>[2](#fn_56.md),
 (for), like a boy thine ambition  
 On the o’erthrow of Humbaba thou fixest, as thou hast settled.
 
 <span id="page_24">p. 24</span>
 
 <span class="margnote">40.</span>Wash, (then), thy feet <span
-id="fr_63"></span>[1](#fn_57): when thou haltest <span
-id="fr_64"></span>[2](#fn_58), shalt hollow a pool, so that ever  
+id="fr_63"></span>[1](#fn_57.md): when thou haltest <span
+id="fr_64"></span>[2](#fn_58.md), shalt hollow a pool, so that ever  
 Pure be the water within thy skin-bottle, (aye), cool be the water  
 Unto the Sun-god thou pourest, (and thus) shalt remind Lugal-banda."  
 <span class="margnote">45.</span>Enkidu open’d his mouth, and spake unto
@@ -326,7 +326,7 @@ She will prescribe for our feet."
 
 <span class="margnote">20.</span>Clasp’d they their hands, each to each,
 and went to the Palace of Splendour,  
-Gilgamish <span id="fr_65"></span>[1](#fn_59), Enkidu. Unto the glorious
+Gilgamish <span id="fr_65"></span>[1](#fn_59.md), Enkidu. Unto the glorious
 Queen, (aye) to Nin-sun  
 Gilgamish came, and he enter’d in unto \[the presence of Nin-sun\]:  
 "Nin-sun, O fain would I tell thee \[how\] I a far journey \[am
@@ -356,7 +356,7 @@ Enter’d \[her chamber\] . . . \[and deck’d herself\] with the flowers of
 <span class="margnote">5.</span>\[Put on\] the festal garb of her bosom
 . . ., her head \[with a circlet\]  
 Crown’d, and . . . the ground *ipirani* <span
-id="fr_66"></span>[2](#fn_60).  
+id="fr_66"></span>[2](#fn_60.md).  
 Climb’d \[she the stairway\], ascended the roof, and \[the parapet(?)\]
 mounted,  
 Offer’d her incense to Shamash, (her) sacrifice offer’d \[to
@@ -377,7 +377,7 @@ And from the land destroy all evil things
 Which thou abhor’st; the day which \[thou hast set\]  
 <span class="margnote">20.</span>As term, of (that) strong man (who)
 feareth thee,  
-May Aa <span id="fr_67"></span>[3](#fn_61), (thy) bride, be \[thy\]
+May Aa <span id="fr_67"></span>[3](#fn_61), (thy.md) bride, be \[thy\]
 remembrancer.  
 He the night-watches . . . . ."
 
@@ -411,7 +411,7 @@ Enkidu \[open'd\] his mouth \[and spake unto Gilgamish, saying\]:
 
 ### Footnotes
 
-<span id="fn_46"></span>[20:1](eog05.htm#fr_50) Down to this point the:
+<span id="fn_46"></span>[20:1](eog05.htm#fr_50.md) Down to this point the:
 Assyrian Version has been used, restored in part from the Old
 Babylonian. The Old Babylonian Version runs (Column II. 26 "The eyes
 \[of Enkidu fill'd\] with tears, his heart was \[heavy\] and . . . he
@@ -421,49 +421,49 @@ of tears\] (and) thy \[heart heavy\]? \[Why dost thou\] mourn?' \[Enkidu
 answer'd\] and spake to Gilgamish:" and then it continues as above in
 the text.
 
-<span id="fn_47"></span>[20:2](eog05.htm#fr_51) A difficult phrase. It
+<span id="fn_47"></span>[20:2](eog05.htm#fr_51.md) A difficult phrase. It
 may be that this represents the words for saying farewell, without any
 further explanation, just as our "God be with you" has become,
 "Good-bye." The same convention is apparent in Ruth 1, 14, at the
 parting of the two daughters of Naomi: "And Orpah kissed her
 mother-in-law; but Ruth clave unto her."
 
-<span id="fn_48"></span>[20:3](eog05.htm#fr_52) Ends of three short
+<span id="fn_48"></span>[20:3](eog05.htm#fr_52.md) Ends of three short
 lines here. . . . "the wood," " . . ," "I will open it."
 
-<span id="fn_49"></span>[21:1](eog05.htm#fr_53) From here to "down to
+<span id="fn_49"></span>[21:1](eog05.htm#fr_53.md) From here to "down to
 his Forest" from the Assyrian Version, Second Tablet, Column v.
 
-<span id="fn_50"></span>[21:2](eog05.htm#fr_54) A word or two mutilated
+<span id="fn_50"></span>[21:2](eog05.htm#fr_54.md) A word or two mutilated
 at this point.
 
-<span id="fn_51"></span>[21:3](eog05.htm#fr_55) Old Babylonian Version.
+<span id="fn_51"></span>[21:3](eog05.htm#fr_55.md) Old Babylonian Version.
 
-<span id="fn_52"></span>[22:1](eog05.htm#fr_56) Text has "and,"
+<span id="fn_52"></span>[22:1](eog05.htm#fr_56.md) Text has "and,"
 
-<span id="fn_53"></span>[22:2](eog05.htm#fr_59) Conjecture.
+<span id="fn_53"></span>[22:2](eog05.htm#fr_59.md) Conjecture.
 
-<span id="fn_54"></span>[22:3](eog05.htm#fr_60) A difficult phrase.
+<span id="fn_54"></span>[22:3](eog05.htm#fr_60.md) A difficult phrase.
 
-<span id="fn_55"></span>[23:1](eog05.htm#fr_61) Lugal-banda appears to
+<span id="fn_55"></span>[23:1](eog05.htm#fr_61.md) Lugal-banda appears to
 be the tutelary god of Gilgamish, and possibly his father: he and Tammuz
 are the two kings of Erech preceding Gilgamish in the Kings lists.
 
-<span id="fn_56"></span>[23:2](eog05.htm#fr_62) Lit. "stand to thee in
+<span id="fn_56"></span>[23:2](eog05.htm#fr_62.md) Lit. "stand to thee in
 thine ambition."
 
-<span id="fn_57"></span>[24:1](eog05.htm#fr_63) Doubtful: the meaning of
+<span id="fn_57"></span>[24:1](eog05.htm#fr_63.md) Doubtful: the meaning of
 this brief but difficult line is not obvious. *Mizi* might be from
 another verb "find," rather than "wash."
 
-<span id="fn_58"></span>[24:2](eog05.htm#fr_64) Lit. "at thy halting."
+<span id="fn_58"></span>[24:2](eog05.htm#fr_64.md) Lit. "at thy halting."
 
-<span id="fn_59"></span>[25:1](eog05.htm#fr_65) Lit. "and."
+<span id="fn_59"></span>[25:1](eog05.htm#fr_65.md) Lit. "and."
 
-<span id="fn_60"></span>[25:2](eog05.htm#fr_66) Uncertain.
+<span id="fn_60"></span>[25:2](eog05.htm#fr_66.md) Uncertain.
 
-<span id="fn_61"></span>[25:3](eog05.htm#fr_67) The wife of the Sun-god.
+<span id="fn_61"></span>[25:3](eog05.htm#fr_67.md) The wife of the Sun-god.
 
 ------------------------------------------------------------------------
 
-[Next: The Fourth Tablet: The Arrival at the Gate of the Forest](eog06)
+[Next: The Fourth Tablet: The Arrival at the Gate of the Forest](eog06.md)

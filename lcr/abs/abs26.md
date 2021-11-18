@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs25)  [Next](abs27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs25)  [Next](abs27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -37,7 +37,7 @@ which the name was given to them. Also, it was not until a quarter of a
 century ago that an international agreement was reached upon the
 transliteration of both the written and the spoken word in all
 languages. There is now a sort of universal alphabet—known as the
-P.C.G.N. <span id="fr_57"></span>[\*](#fn_54) System—by which anybody
+P.C.G.N. <span id="fr_57"></span>[\*](#fn_54.md) System—by which anybody
 can transliterate almost any noises made by men; even to the series of
 incomprehensible glottal clicks used by the Bushmen. However, hardly
 anybody uses it; and true linguists, philologists, and etymologists
@@ -135,7 +135,7 @@ errors. One of the most ambiguous of them for example, can mean anything
 from silver spoon in one language to sour turnips, in another! \[See
 *Teh-lma* below.\]
 
-The vast reaches of Central Asia, <span id="fr_58"></span>[\*](#fn_55)
+The vast reaches of Central Asia, <span id="fr_58"></span>[\*](#fn_55.md)
 of course, constitute the prime source
 
 </div>
@@ -252,7 +252,7 @@ were to be found in plenty,
 and what is more, the people to the south were not always sure of the
 meaning of these words, a problem that has been solved for them only
 during the last century. Hindu scholars <span
-id="fr_59"></span>[\*](#fn_56) found themselves in this position more
+id="fr_59"></span>[\*](#fn_56.md) found themselves in this position more
 frequently than Buddhist scholars, who had access to a better class of
 dictionaries. The effect of this literary exchange on Nepal and its
 dependencies was formidable. To this day, Nepal continues to borrow
@@ -513,14 +513,14 @@ Note: Bears in Tibetan are "*dara-unjeh*."
 
 ### Footnotes
 
-<span id="fn_54"></span>[453:\*](abs26.htm#fr_57) Permanent Committee on
+<span id="fn_54"></span>[453:\*](abs26.htm#fr_57.md) Permanent Committee on
 Geographical Place Names.
 
-<span id="fn_55"></span>[455:\*](abs26.htm#fr_58) By this term should be
+<span id="fn_55"></span>[455:\*](abs26.htm#fr_58.md) By this term should be
 understood central and eastern Eurasia, and the Himalayan ranges of the
 continent of Orientalia (see Map XV).
 
-<span id="fn_56"></span>[458:\*](abs26.htm#fr_59) One of the most
+<span id="fn_56"></span>[458:\*](abs26.htm#fr_59.md) One of the most
 notorious examples of such presumption is one "Sri Swami" Pranavananda
 (See *J. Bombay Nat. Hist. Soc.*) whose anxiety to discredit the
 existence of the ABSM led him to betray a complete ignorance of the
@@ -529,4 +529,4 @@ sing. rel. pron.) means "bear"!
 
 ------------------------------------------------------------------------
 
-[Next: Appendix B. The Importance of Feet](abs27)
+[Next: Appendix B. The Importance of Feet](abs27.md)

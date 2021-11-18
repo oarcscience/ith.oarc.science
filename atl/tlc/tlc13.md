@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tlc12)  [Next](tlc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tlc12)  [Next](tlc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Continent*, by Cutcliffe Hyne, \[1900\], at Intangible Textual
 Heritage
 
@@ -75,7 +75,7 @@ try them all."
 
 <span id="img_16200"></span> <span align="CENTER"> [![“‘BACK WITH YOU,
 OUTSIDE THIS CIRCLE’”](tn/16200.jpg)  
-Click to enlarge](img/16200.jpg)  
+Click to enlarge](img/16200.jpg.md)  
 “‘BACK WITH YOU, OUTSIDE THIS CIRCLE’”  
 </span>
 
@@ -638,4 +638,4 @@ have it. I will watch myself while he builds you up living."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. An Affair With the Barbarous Fishers](tlc14)
+[Next: Chapter XI. An Affair With the Barbarous Fishers](tlc14.md)

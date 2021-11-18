@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc02)  [Next](ipc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc02)  [Next](ipc04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -241,7 +241,7 @@ of the Left-handed gods, the Târâ Tântra or Worship of Durgâ, the
 Mahâkâla Tântra or worship of S’iva as Time, the terrible Kâla Chakra
 Tântra, the Nâga Pûjah (Worship of Serpents), etc., amount to
 seventy-four in the Buddhist library of Nepal alone. <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 S’iva-Buddhism reached Alexandria, and it may be asked how it affected
 the religion of Christ. I answer, In no way, if by Religion of Christ
@@ -265,9 +265,9 @@ the followers of Valentinus called some of their rites "left-handed."
 
 ### Footnotes
 
-<span id="fn_0"></span>[7:\*](ipc03.htm#fr_0) Hodgson, "Religion in
+<span id="fn_0"></span>[7:\*](ipc03.htm#fr_0.md) Hodgson, "Religion in
 Nepal," p. 38.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. S’iva](ipc04)
+[Next: Chapter I. S’iva](ipc04.md)

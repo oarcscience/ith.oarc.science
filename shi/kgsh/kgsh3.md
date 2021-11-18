@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Shinto](../index) [Index](index) [Previous](kgsh2) [Next](kgsh4)
+[Sacred-Texts](../../index) [Shinto](../index) [Index](index) [Previous](kgsh2) [Next](kgsh4.md)
 
 ------------------------------------------------------------------------
 
@@ -120,7 +120,7 @@ specially transmitted to and preserved by the Imbe family, just as the
 the same event, and so one may reasonably conclude that the value of the
 *Kogoshūi* is equal to that of the family records preserved by the
 Takahashi family, the Hata family,<span
-id="page_4_fr_*"></span>[\*](#page_4_note_*) and so forth. From this
+id="page_4_fr_*"></span>[\*](#page_4_note_*.md) and so forth. From this
 standpoint, it appears that Moto-Ori and Hirata greatly sympathize with
 Imbe-no-Hironari’s attitude and are against the author Kusakabe (*Vide*
 Moto-Ori, The *Gisai-Ben*. The *Collected Works*, Japanese edition, vol.
@@ -197,11 +197,11 @@ Futotama-no-Mikoto, ancestor of the Imbe family, both united in offering
 prayer to Amaterasu-Ō-Mikami to persuade her to leave the cave, and hung
 five hundred large jewels linked together by an august string, on the
 upper branch of a fine sacred Sakaki<span
-id="page_7_fr_*"></span>[\*](#page_7_note_*) tree with five hundred
+id="page_7_fr_*"></span>[\*](#page_7_note_*.md) tree with five hundred
 branches, which had been brought from the Heavenly Mt. Kagu; an
 eight-hand-span mirror or large mirror on the central branches, and
 offerings of fine cloth both blue and white in colour on the lower
-branches.<span id="page_7_fr_dagger"></span>[†](#page_7_note_dagger)
+branches.<span id="page_7_fr_dagger"></span>[†](#page_7_note_dagger.md)
 Hence it is correct that the Nakatomi and the Imbe should share together
 in offering prayers to the Gods.’
 
@@ -210,7 +210,7 @@ for the Shintō Religion*), ‘On the occasion of the Prayer Service for
 the Yearly Harvest and of the Monthly Service at a <span id="page_8">p.
 8</span> shrine an official of the Nakatomi family is to recite a
 liturgy and one of the Imbe is to deliver the Amatsu-Kami-no-Yogoto<span
-id="page_8_fr_*"></span>[\*](#page_8_note_*) or Congratulatary Address
+id="page_8_fr_*"></span>[\*](#page_8_note_*.md) or Congratulatary Address
 for the new Emperor in reference to the auspicious events of the Divine
 Age in Heaven, whilst the function of the Imbe is to present the Emperor
 with both the Mirror and the Sword—the Divine Imperial Regalia.
@@ -328,7 +328,7 @@ frivolity,” as stated in his preface to the *Kogoshūi*.
 
 ------------------------------------------------------------------------
 
-[Next](kgsh4)
+[Next](kgsh4.md)
 
 ------------------------------------------------------------------------
 
@@ -336,22 +336,22 @@ frivolity,” as stated in his preface to the *Kogoshūi*.
 
 <span id="footnotes_page_4">p. 4</span>
 
-<span id="page_4_note_*"></span>[\*](#page_4_fr_*) For example, the
+<span id="page_4_note_*"></span>[\*](#page_4_fr_*.md) For example, the
 *Takahashi-Ujibumi*, the *Hata-Uji-no-Honkeichō*, *etc*.
 
 <span id="footnotes_page_7">p. 7</span>
 
-<span id="page_7_note_*"></span>[\*](#page_7_fr_*) *Eurya Ochnacea
+<span id="page_7_note_*"></span>[\*](#page_7_fr_*.md) *Eurya Ochnacea
 Szyse* (*Cleyera Japonica*). This tree is still revered as sacred to the
 Gods of Shintō. Some commentators opine that “sakaki” was a name
 originally given to all evergreens.
 
-<span id="page_7_note_dagger"></span>[†](#page_7_fr_dagger) *Vide* W. G.
+<span id="page_7_note_dagger"></span>[†](#page_7_fr_dagger.md) *Vide* W. G.
 Aston. *E.T.N.*, vol. <span class="small">I</span>. pp. 43, 44.
 
 <span id="footnotes_page_8">p. 8</span>
 
-<span id="page_8_note_*"></span>[\*](#page_8_fr_*) Amatsu-Kami-no-Yogoto
+<span id="page_8_note_*"></span>[\*](#page_8_fr_*.md) Amatsu-Kami-no-Yogoto
 otherwise called “Nakatomi-no-Yogoto” or “Congratulatory Address by the
 Nakatomi Family” (*Vide* Fujiwara-no-Yorinaga’s Diary, called
 “Taiki-Bekki” in the Japanese edition).

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm19)  [Next](wsm21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm19)  [Next](wsm21.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ Coyote cried. He did not know what to do.
 ------------------------------------------------------------------------
 
 [Next: Cottontail Shoots the Sun (Saline Valley, California.
-Shoshoni)](wsm21)
+Shoshoni)](wsm21.md)

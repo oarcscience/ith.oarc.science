@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@ American](../../index)  [Inca](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](oll00)    [Page
-Index](pageidx)    [Text \[Zipped\]](oll.txt.gz)
+[Contents](#contents)    [Start Reading](oll00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](oll.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -41,34 +41,34 @@ Markham follows the original closely and is very readable.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](oll00)  
-[Introduction](oll01)  
-[Acts and Scenes](oll02)  
-[Ollantay Dramatis Personæ](oll03)  
+<span id="contents"></span> [Title Page](oll00.md)  
+[Introduction](oll01.md)  
+[Acts and Scenes](oll02.md)  
+[Ollantay Dramatis Personæ](oll03.md)  
 <span id="section_000"></span>
 
 ### Act I
 
-[Scene 1](oll04)  
-[Scene 2](oll05)  
-[Scene 3](oll06)  
-[Scene 4](oll07)  
-[Scene 5](oll08)  
+[Scene 1](oll04.md)  
+[Scene 2](oll05.md)  
+[Scene 3](oll06.md)  
+[Scene 4](oll07.md)  
+[Scene 5](oll08.md)  
 <span id="section_001"></span>
 
 ### Act II
 
-[Scene 1](oll09)  
-[Scene 2](oll10)  
-[Scene 3](oll11)  
+[Scene 1](oll09.md)  
+[Scene 2](oll10.md)  
+[Scene 3](oll11.md)  
 <span id="section_002"></span>
 
 ### Act III
 
-[Scene 1](oll12)  
-[Scene 2](oll13)  
-[Scene 3](oll14)  
-[Scene 4](oll15)  
-[Scene 5](oll16)  
-[Scene 6](oll17)  
-[Scene 7](oll18)  
+[Scene 1](oll12.md)  
+[Scene 2](oll13.md)  
+[Scene 3](oll14.md)  
+[Scene 4](oll15.md)  
+[Scene 5](oll16.md)  
+[Scene 6](oll17.md)  
+[Scene 7](oll18.md)  

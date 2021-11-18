@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts](../../index)  [Sacred-Texts:
-Confucianism](../index)  [Li Ki Index](index)  [Previous](liki00) 
-[Next](liki02) </span>
+<span class="small">[Sacred-Texts](../../index.md)  [Sacred-Texts:
+Confucianism](../index)  [Li Ki Index](index)  [Previous](liki00.md) 
+[Next](liki02.md) </span>
 
 ------------------------------------------------------------------------
 

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre98)  [Next](gre100) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre98)  [Next](gre100.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ Romeward, and many folk prayed well for them.
 ------------------------------------------------------------------------
 
 [Next: Chapter XCV: How Thorstein Dromund and Spes fared to Rowe and
-died there](gre100)
+died there](gre100.md)

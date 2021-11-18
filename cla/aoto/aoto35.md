@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto34) 
-[Next](aoto36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto34.md) 
+[Next](aoto36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -267,7 +267,7 @@ I found the combination
 
 <span id="img_16400"></span> <span align="CENTER"> [![TRAPANI AND MT.
 ERYX](tn/16400.jpg)  
-Click to enlarge](img/16400.jpg)  
+Click to enlarge](img/16400.jpg.md)  
 TRAPANI AND MT. ERYX  
 </span>
 
@@ -333,9 +333,9 @@ work, will find that all these points are necessary.
 They all of them exist at this day, even to the calling of the rock
 "Raven," except one—I mean the mouth of the harbour where the Phæacians
 entered; this is now silted up, like the harbour of Selinunte, <span
-id="fr_61"></span>[\*](#fn_61) which I might almost call on the same
+id="fr_61"></span>[\*](#fn_61.md) which I might almost call on the same
 coast. The inner part of the harbour is still full of sea water, but has
-been converted into Salt Works <span id="fr_62"></span>[†](#fn_62) which
+been converted into Salt Works <span id="fr_62"></span>[†](#fn_62.md) which
 are slightly below the level of the sea. The bed of the old exit is
 clearly seen, and there are still rushes in it though it is quite dry:
 it is very narrow, is often full in winter, and is marked with dotted
@@ -358,13 +358,13 @@ two to three feet, would cause a current
 
 <span id="img_16600"></span> <span align="CENTER"> [![THE HARBOUR
 RHEITHRON, NOW SALT WORKS OF S. CUSUMANO](tn/16600.jpg)  
-Click to enlarge](img/16600.jpg)  
+Click to enlarge](img/16600.jpg.md)  
 THE HARBOUR RHEITHRON, NOW SALT WORKS OF S. CUSUMANO  
 </span>
 
 <span id="img_16700"></span> <span align="CENTER"> [![MOUTH OF THE
 HARBOUR RHEITHRON, NOW SILTED UP](tn/16700.jpg)  
-Click to enlarge](img/16700.jpg)  
+Click to enlarge](img/16700.jpg.md)  
 MOUTH OF THE HARBOUR RHEITHRON, NOW SILTED UP  
 </span>
 
@@ -566,7 +566,7 @@ hours, more or less.
 The site is seen from far and wide, it is bitterly cold in winter, and
 is connected with Trapani by a rough mountain path which Ulysses may
 well have been afraid to travel without a stick (xvii. 195). <span
-id="fr_63"></span>[\*](#fn_63) The path passes close to the round-topped
+id="fr_63"></span>[\*](#fn_63.md) The path passes close to the round-topped
 *Colle di Sta Anna* which answers perfectly to the Ἕρμαιος λόφος of xvi.
 471. The time it takes to walk from the *runzi* to Trapani corresponds
 with all the indications furnished us in the "Odyssey" concerning the
@@ -682,14 +682,14 @@ Trapani for that of Ithaca without more demur.
 
 ### Footnotes
 
-<span id="fn_61"></span>[166:\*](aoto35.htm#fr_61) A few years ago the
+<span id="fn_61"></span>[166:\*](aoto35.htm#fr_61.md) A few years ago the
 stone work at the entrance to the harbour of Selinunte was excavated,
 but it was silted over again in a single winter.
 
-<span id="fn_62"></span>[166:†](aoto35.htm#fr_62) Shown in the plan as
+<span id="fn_62"></span>[166:†](aoto35.htm#fr_62.md) Shown in the plan as
 the Salt Works of S. Cusumano.
 
-<span id="fn_63"></span>[171:\*](aoto35.htm#fr_63) Of recent years an
+<span id="fn_63"></span>[171:\*](aoto35.htm#fr_63.md) Of recent years an
 excellent carriage road has been made from Trapani to the town on the
 top of Mt. Eryx, but pedestrians still use the old path, which in places
 is very rough.
@@ -697,4 +697,4 @@ is very rough.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. The Voyages of Ulysses Shown to be a Sail Round
-Sicily](aoto36)
+Sicily](aoto36.md)

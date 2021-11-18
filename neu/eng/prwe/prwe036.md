@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe035)  [Next](prwe037) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe035)  [Next](prwe037.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ Small Folks.
 
 ------------------------------------------------------------------------
 
-[Next: St Margery and the Piskies](prwe037)
+[Next: St Margery and the Piskies](prwe037.md)

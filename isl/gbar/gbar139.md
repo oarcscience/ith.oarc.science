@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar138) [Next](gbar140)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar138) [Next](gbar140.md)
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ speech.
 
 ------------------------------------------------------------------------
 
-[Next](gbar140)
+[Next](gbar140.md)

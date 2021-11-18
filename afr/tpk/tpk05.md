@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk04)  [Next](tpk06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk04)  [Next](tpk06.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ centuries after the end of eternal life.
 
 ------------------------------------------------------------------------
 
-[Next: Balm Yard](tpk06)
+[Next: Balm Yard](tpk06.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki242)  [Next](liki244) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki242)  [Next](liki244.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,6 +243,6 @@ that is declining what should serve to nourish (those that need it).
 
 ------------------------------------------------------------------------
 
-[Next: XLIV. Yen Î or The Meaning of the Banquet](liki244)
+[Next: XLIV. Yen Î or The Meaning of the Banquet](liki244.md)
 
   

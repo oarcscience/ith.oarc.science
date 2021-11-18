@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw05) 
-[Next](ptw07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw05.md) 
+[Next](ptw07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ even through the material envelope called the physical body, which
 surrounds them with an aura commanding the respect and veneration of all
 who approach. The glory of supermundane light which shines through their
 forms is so great that they may even appear luminous in darkness. <span
-id="fr_5"></span>[\*](#fn_5)
+id="fr_5"></span>[\*](#fn_5.md)
 
 <span id="page_37">p. 37</span>
 
@@ -121,7 +121,7 @@ these, who said that he was of the country of the Usbeks (a Tartar
 tribe) appeared to me more learned than the rest; and *I verily believe
 he spoke all the languages of the world*. After we had conversed for a
 time in the Turkish language, he asked me whether I could speak Latin,
-Spanish or Italian. We then spoke in [Italian](errata.htm#6); but he
+Spanish or Italian. We then spoke in [Italian](errata.htm#6.md); but he
 noticed by my accent that this was not my mother tongue, and when I told
 him that I was a native of France, he spoke to me in as good French as
 if he had been brought up at Paris. I asked him how long he had stayed
@@ -311,12 +311,12 @@ A somewhat similar character was the Count Cagliostro, whose
 physical form was born in Italy and received the name *Giuseppe
 Balsamo*. The latter was incarcerated in the castle *San Angelo at
 Rome*, and is believed to have died in one of its dungeons. The problem
-of [Cagliostro](errata.htm#7) will not be solved by our historians until
+of [Cagliostro](errata.htm#7.md) will not be solved by our historians until
 they study the true nature of man in its normal and abnormal aspects,
 when they may, perhaps, discover the fact that two personalities may
 inhabit one physical organism, and that a man may, perhaps, be a
 *Cagliostro* at one time and a *Balsamo* at another. <span
-id="fr_6"></span>[\*](#fn_6)
+id="fr_6"></span>[\*](#fn_6.md)
 
 I have carefully read the proceedings of the trial of the renowned
 *Count Cagliostro* before the tribunal of the inquisition in Rome, and I
@@ -497,7 +497,7 @@ convinced
 
 <span id="page_45">p. 45</span>
 
-that the latter was not a [villain](errata.htm#8); but he would not
+that the latter was not a [villain](errata.htm#8.md); but he would not
 believe that he was able to make gold, and expressed his doubts to that
 effect. Upon this, Friedrich, who was an honest man, exclaimed, "Oh!
 your Majesty, if at this moment God were to come down from heaven, and
@@ -558,7 +558,7 @@ greater quantity of silver into gold.
 <span id="img_04600"></span>
 
 [![](tn/04600.jpg)  
-Click to enlarge](img/04600.jpg)
+Click to enlarge](img/04600.jpg.md)
 
 4\. During the reign of the *Emperor Leopold*, a monk of the Order of
 St. Augustine, named *Wenzel Seiler*, found a certain red powder in his
@@ -638,7 +638,7 @@ alchemical means.
 
 ### Footnotes
 
-<span id="fn_5"></span>[36:\*](ptw06.htm#fr_5) Before us is a paper,
+<span id="fn_5"></span>[36:\*](ptw06.htm#fr_5.md) Before us is a paper,
 printed in Leipzig, dated May 26th, 1761, which gives the latest news
 from *Köln* (Cologne). It says: "The two prophets who have been
 imprisoned in this place are still keeping the attention of our citizens
@@ -663,7 +663,7 @@ acquainted with the books written by the ancient philosophers, and talk
 about Pythagoras with great respect. We do not know what to think about
 these men. Etc., etc."
 
-<span id="fn_6"></span>[41:\*](ptw06.htm#fr_6) Whether or not the body
+<span id="fn_6"></span>[41:\*](ptw06.htm#fr_6.md) Whether or not the body
 of a person may be inhabited simultaneously or alternatively by two
 different individualities, may be a matter for doubt; but the phenomena
 of obsession and hypnotism go to show that this is not impossible.
@@ -685,4 +685,4 @@ spiritualism has a legion of similar facts.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five. The Rosicrucian “Orders.”](ptw07)
+[Next: Chapter Five. The Rosicrucian “Orders.”](ptw07.md)

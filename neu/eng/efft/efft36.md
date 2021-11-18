@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft35)  [Next](efft37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft35)  [Next](efft37.md) 
 
 ------------------------------------------------------------------------
 
-# THE FAIRIES' CALDRON.   <span id="fr_42"></span>[1](#fn_42)
+# THE FAIRIES' CALDRON.   <span id="fr_42"></span>[1](#fn_42.md)
 
 IN the vestry of Frensham Church, in Surrey, on the north side of the
 chancel, is an extraordinary great kettle or caidron, which the
@@ -27,9 +27,9 @@ no borrowing there.
 
 ### Footnotes
 
-<span id="fn_42"></span>[1](efft36.htm#fr_42) T . Keightley, *The Fairy
+<span id="fn_42"></span>[1](efft36.htm#fr_42.md) T . Keightley, *The Fairy
 Mythology*, p. 295, quoting Aubrey's *Natural History of Surrey*.
 
 ------------------------------------------------------------------------
 
-[Next: The Cauld Lad of Hilton](efft37)
+[Next: The Cauld Lad of Hilton](efft37.md)

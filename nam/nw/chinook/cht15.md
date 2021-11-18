@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht14)  [Next](cht16) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht14)  [Next](cht16.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ the meat only.
 
 ------------------------------------------------------------------------
 
-[Next: 13. Robin and Blue-Jay](cht16)
+[Next: 13. Robin and Blue-Jay](cht16.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar101) [Next](gbar103)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar101) [Next](gbar103.md)
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ the sinner who laugheth at his sins and weepeth not therefor.
 
 ------------------------------------------------------------------------
 
-[Next](gbar103)
+[Next](gbar103.md)

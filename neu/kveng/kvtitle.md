@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Next](kvtoc) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Next](kvtoc.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Kalevala*, by John Martin Crawford, \[1888\], at Intangible Textual
 Heritage
 
@@ -55,16 +55,16 @@ GRATEFULLY INSCRIBED
 
 <span id="img_frontkv1"></span> <span align="CENTER">
 [![](tn/frontkv1.jpg)  
-Click to enlarge](img/frontkv1.jpg)</span>
+Click to enlarge](img/frontkv1.jpg.md)</span>
 
 Frontispiece, volume I
 
 <span id="img_frontkv2"></span> <span align="CENTER">
 [![](tn/frontkv2.jpg)  
-Click to enlarge](img/frontkv2.jpg)</span>
+Click to enlarge](img/frontkv2.jpg.md)</span>
 
 Frontispiece, volume II
 
 ------------------------------------------------------------------------
 
-[Next: Contents](kvtoc)
+[Next: Contents](kvtoc.md)

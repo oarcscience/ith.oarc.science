@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat08)  [Next](sat10) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat08)  [Next](sat10.md) 
 
 ------------------------------------------------------------------------
 
 # CHAPTER EIGHT
 
-\[XLIX <span id="XLIX"></span>[(Latin)](../satyrlat/satl049) \] He was
+\[XLIX <span id="XLIX"></span>[(Latin)](../satyrlat/satl049.md) \] He was
 still in the middle of this nonsense when a tray supporting an enormous
 hog was set on the table. One and all we expressed our admiration at the
 expedition shown, and swore a mere ordinary fowl could not have been
@@ -38,7 +38,7 @@ trembling hand slashed open the animal's belly. In a moment, the
 apertures widening under the weight behind, out tumbled a lot of
 sausages and black-puddings.
 
-\[L <span id="L"></span>[(Latin)](../satyrlat/satl050) \] At this all
+\[L <span id="L"></span>[(Latin)](../satyrlat/satl050.md) \] At this all
 the servants applauded like one man, and chorused, "Gaius for ever!"
 Moreover the cook was gratified with a goblet of wine and a silver
 wreath, and received a drinking cup on a salver of Corinthian metal.
@@ -59,7 +59,7 @@ mass of metal the smiths utilized to make into platters and dishes and
 statuettes. Such was the origin of Corinthian metal, neither one thing
 nor the other, but an amalgam of all.
 
-\[LI <span id="LI"></span>[(Latin)](../satyrlat/satl051) \] "But you
+\[LI <span id="LI"></span>[(Latin)](../satyrlat/satl051.md) \] "But you
 must allow me to say this, I prefer glass ones myself; they are quite
 free from smell at any rate. And if they didn't break, I would rather
 have them than gold itself; but they've got cheap and common now.
@@ -76,7 +76,7 @@ of this glass?' But lo! on his replying in the negative, Caesar ordered
 him to be beheaded, because if once the secret became known, we should
 think no more of gold than of so much dirt.
 
-\[LII <span id="LII"></span>[(Latin)](../satyrlat/satl052) \] "I'm quite
+\[LII <span id="LII"></span>[(Latin)](../satyrlat/satl052.md) \] "I'm quite
 a connoisseur in plate. I've got cups as big as waterpots, a hundred of
 them more or less, representing how Cassandra slew her sons, and there
 lie the lads dead, as natural as life! I've got a thousand bowls Mummius
@@ -106,7 +106,7 @@ buffooneries were beneath his dignity. But nothing could well be more
 uncertain than his humor; one moment he would listen respectfully to
 Fortunata, the next hark back to his natural propensities.
 
-\[LIII <span id="LIII"></span>[(Latin)](../satyrlat/satl053) \] However
+\[LIII <span id="LIII"></span>[(Latin)](../satyrlat/satl053.md) \] However
 his dancing fit was cut short by the entrance of the historiographer,
 who read out solemnly, as if he were reciting the public records:
 
@@ -153,7 +153,7 @@ seeing--acrobats and horn-blowers; all other shows were mere trash.
 their playing Atellanes, and I ordered my conductor to play Latin airs
 and Latin airs only."
 
-\[LIV <span id="LIV"></span>[(Latin)](../satyrlat/satl054) \] In the
+\[LIV <span id="LIV"></span>[(Latin)](../satyrlat/satl054.md) \] In the
 middle of these fine remarks of the great Gaius, the boy suddenly
 tumbled down on top of our host. The domestics all raised a shriek, and
 the guests as well, not for any love they bore the disgusting creature,
@@ -175,7 +175,7 @@ bruised arm with white instead of purple wool. Nor was I far out in my
 suspicions, for in lieu of punishment being inflicted, Trimalchio now
 ruled that the lad must be made free, that none might be able to say so
 noble a gentleman had been injured by a slave. \[LV <span
-id="LV"></span>[(Latin)](../satyrlat/satl055) \] We acclaim the generous
+id="LV"></span>[(Latin)](../satyrlat/satl055.md) \] We acclaim the generous
 act, and indulge in a string of platitudes on the precariousness of
 human affairs. "Well, then!" interposed Trimalchio, "an accident like
 this must not be allowed to pass without an impromptu," and instantly
@@ -210,7 +210,7 @@ Honor and virtue are the truest gems.
 Is't right the bride should wear the woven wind,  
 And stand exposed in garments thin as air?
 
-\[LVI <span id="LVI"></span>[(Latin)](../satyrlat/satl056) \] "Now what
+\[LVI <span id="LVI"></span>[(Latin)](../satyrlat/satl056.md) \] "Now what
 do you hold to be the most difficult calling," he went on, "after
 Literature? I think the doctor's and the money-changer's; the doctor,
 because he's got to know what chaps have in their insides, and when the
@@ -251,4 +251,4 @@ conceits of the same sort that have escaped my memory.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Nine](sat10)
+[Next: Chapter Nine](sat10.md)

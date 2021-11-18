@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar113) [Next](gbar115)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar113) [Next](gbar115.md)
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ render an account in the dreadful day of judgement.
 
 ------------------------------------------------------------------------
 
-[Next](gbar115)
+[Next](gbar115.md)

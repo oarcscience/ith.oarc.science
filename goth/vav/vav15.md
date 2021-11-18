@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav14)  [Next](vav16) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav14)  [Next](vav16.md) 
 
 ------------------------------------------------------------------------
 
@@ -389,4 +389,4 @@ But Dharma Dhwaj answered not a syllable.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion.](vav16)
+[Next: Conclusion.](vav16.md)

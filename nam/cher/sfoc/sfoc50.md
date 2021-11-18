@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc49)  [Next](sfoc51) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc49)  [Next](sfoc51.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ strongly prejudiced against it.
 
 ------------------------------------------------------------------------
 
-[Next: This is to Frighten a Storm](sfoc51)
+[Next: This is to Frighten a Storm](sfoc51.md)

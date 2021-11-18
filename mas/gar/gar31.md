@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar30)  [Next](gar32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar30)  [Next](gar32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -228,7 +228,7 @@ Pythagorean Circle is exactly TEN. Hence, because the first *four*
 digits added into each other made up the number ten, this philosopher
 called the number *four* πάντα ἀριθμὸν, *all number*, or the *whole
 number;* and used it as the symbol of universality. <span
-id="fr_20"></span>[\*](#fn_20) To ascertain, however, the entire meaning
+id="fr_20"></span>[\*](#fn_20.md) To ascertain, however, the entire meaning
 of this symbol, it will be necessary to take the numbers included within
 the Circle in their natural order, and hear what hidden mystery the
 philosophy of PYTHAGORAS attached to each.
@@ -259,7 +259,7 @@ and father of nature; for the whole circle of heaven was called GOD."
 "SERVIUS tells us it was believed that *the center* of a temple was the
 peculiar residence of the Deity; the exterior decorations being merely
 ornamental. Hence the astronomical character used to denote or represent
-the sun, is a Point within a Circle; because that [figure](errata.htm#1)
+the sun, is a Point within a Circle; because that [figure](errata.htm#1.md)
 is the symbol of perfection. The most perfect metal, gold, is also
 designated in chemistry by the same character.
 
@@ -275,7 +275,7 @@ circle it was thought impossible to obtain the favor of the gods."
 
 ### Footnotes
 
-<span id="fn_20"></span>[91:\*](gar31.htm#fr_20) The sum of all the
+<span id="fn_20"></span>[91:\*](gar31.htm#fr_20.md) The sum of all the
 principles of PYTHAGORAS is this:—"The Monad is the principle of all
 things. From the Monad came the Indeterminate Duad, as matter subjected
 to the cause of Monad; from the Monad and the indeterminate Duad,
@@ -286,4 +286,4 @@ and totally changed, the WORLD consists."
 
 ------------------------------------------------------------------------
 
-[Next: Great Tenets of a Freemason](gar32)
+[Next: Great Tenets of a Freemason](gar32.md)

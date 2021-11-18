@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index) 
-[Next](branch01) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index.md) 
+[Next](branch01.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -308,5 +308,5 @@ its first author.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-I](branch01)  
+I](branch01.md)  
 </span>

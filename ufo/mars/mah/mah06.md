@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah05)  [Next](mah07) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah05)  [Next](mah07.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ until the receipt of these revelations.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Planetary Economy](mah07)
+[Next: Chapter IV: Planetary Economy](mah07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll14)  [Next](tll16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll14)  [Next](tll16.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,9 +22,9 @@ never reached beyond the mono-
 
 syllabic phase. The Chinese language of to-day is the sole great lineal
 descendant of ancient Lemurian speech <span
-id="fr_18"></span>[1](tll16.htm#fn_18) for "the whole human race was at
+id="fr_18"></span>[1](tll16.htm#fn_18.md) for "the whole human race was at
 that time of one language and of one lip." <span
-id="fr_19"></span>[2](tll16.htm#fn_19)
+id="fr_19"></span>[2](tll16.htm#fn_19.md)
 
 In Humboldt's classification of language, the Chinese, as we know, is
 called the *isolating* as distinguished from the more highly evolved
@@ -38,4 +38,4 @@ Root Race.
 
 ------------------------------------------------------------------------
 
-[Next: The First Taking of Life](tll16)
+[Next: The First Taking of Life](tll16.md)

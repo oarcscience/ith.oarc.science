@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc07)  [Next](osc09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc07)  [Next](osc09.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ pancake was a sort of kitchen expression of the "sport" of the season.
 
 ------------------------------------------------------------------------
 
-[Next: (6) Good Friday: Hot Cross Buns](osc09)
+[Next: (6) Good Friday: Hot Cross Buns](osc09.md)

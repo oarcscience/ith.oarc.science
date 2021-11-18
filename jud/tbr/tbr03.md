@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tbr02)  [Next](tbr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tbr02)  [Next](tbr04.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ All life, it will be noticed, was to be ordered on strictly religious
 lines, It is therefore only fitting that the collection should begin
 with a series of rules which referred to the conscious service of God by
 each faithful Israelite, There is no treatise upon doctrine as such—when
-Maimonides in the [twelfth](errata.htm#0) century begins his summary of
+Maimonides in the [twelfth](errata.htm#0.md) century begins his summary of
 practical
 
 <span id="page_x">p. x</span>
@@ -103,7 +103,7 @@ forms of thanksgiving and acknowledgement proper to various occasions,
 together with the rules of their observance.
 
 A Synopsis of the Contents of the Tractate will. be found below ([p.
-xx](tbr07.htm#page_xx)). Here it is sufficient to say that the treatise
+xx](tbr07.htm#page_xx).md). Here it is sufficient to say that the treatise
 opens with the consideration of the all—important personal
 acknowledgement of God in the Shma‘, "Hear, O Israel, the LORD our God
 is one LORD," the exact time when it should be said both in every
@@ -128,4 +128,4 @@ careful study of this treatise.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Its Relation to the Teaching of the New Testament](tbr04)
+[Next: 2. Its Relation to the Teaching of the New Testament](tbr04.md)

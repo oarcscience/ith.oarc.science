@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap09)  [Next](chap11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap09)  [Next](chap11.md) 
 
 ------------------------------------------------------------------------
 
@@ -827,4 +827,4 @@ effort, and the pleasure of devotion to his work.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Wisdom and Philosophy--Proverbs and Ecclesiastes](chap11)
+[Next: XI. Wisdom and Philosophy--Proverbs and Ecclesiastes](chap11.md)

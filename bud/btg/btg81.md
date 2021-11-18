@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg80)  [Next](btg82) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg80)  [Next](btg82.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ Sangha, she died in pious submission to the punishment of her crime.
 
 ------------------------------------------------------------------------
 
-[Next: The Marriage-Feast In Jambunada](btg82)
+[Next: The Marriage-Feast In Jambunada](btg82.md)

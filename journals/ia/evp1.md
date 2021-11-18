@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Hindu
-Articles](../../hin/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Hindu
+Articles](../../hin/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -284,24 +284,24 @@ included.--CMW}</span>
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Hindu Articles](../../hin/etc/index)
+[Journals](../index) [Hindu Articles](../../hin/etc/index.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="page_38_note_*"></span>[\*](#page_38_fr_*) The first number is
+<span id="page_38_note_*"></span>[\*](#page_38_fr_*.md) The first number is
 that of the Šâkhâ of the Pada-kalpataru; the second, the Pallab; the
 third, the song; and that in brackets is the consecutive number which
 runs through the whole collection, and is after all the easiest to refer
 to.
 
-<span id="page_38_note_†"></span>[†](#page_38_fr_†) cf. Horace Epod. i.
+<span id="page_38_note_†"></span>[†](#page_38_fr_†.md) cf. Horace Epod. i.
 3--Manum puella suavis opponet tuo, *extrema et in sponda cubet*. {My
 copy has been hand corrected to read iii. 21--Manum puella suavio
 opponat . . . .}
 
-<span id="page_38_note_‡"></span>[‡](#page_38_fr_‡) To wit, the
+<span id="page_38_note_‡"></span>[‡](#page_38_fr_‡.md) To wit, the
 gratification of sensual desires! One cannot help wondering what results
 such teaching as this can be expected to produce; fortunately these
 parts of the Vaish.nava creed are not often sung before women.

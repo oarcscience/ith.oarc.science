@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc108) 
-[Next](motc110) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc108.md) 
+[Next](motc110.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ the other. They did this and the Cherokee leader fell dead.
 
 ------------------------------------------------------------------------
 
-[Next: 110. Incidents Of Personal Heroism](motc110)
+[Next: 110. Incidents Of Personal Heroism](motc110.md)

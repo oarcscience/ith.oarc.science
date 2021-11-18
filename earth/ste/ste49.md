@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste48)  [Next](ste50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste48)  [Next](ste50.md) 
 
 ------------------------------------------------------------------------
 
@@ -219,7 +219,7 @@ precedent Book, ch. 5. And
 <span id="page_331">p. 331</span>
 
 that future state they call’d *Olam Hava*, or the *World to come*,
- <span id="fr_17"></span>[1](#fn_17) which is the very same with St.
+ <span id="fr_17"></span>[1](#fn_17.md) which is the very same with St.
 *Paul*'s *Habitable Earth to come*, *Heb*. 2. 6. Neither can I easily
 believe, that those constitutions of *Moses* that proceed so much upon a
 *Septenary*, or the number Seven, and have no ground or reason, in the
@@ -304,9 +304,9 @@ and a New Earth: and that Earth will be inhabited*.
 
 ### Footnotes
 
-<span id="fn_17"></span>[331:1](ste49.htm#fr_17) הבא עולם, ἡ οἰκουμένη ἡ
+<span id="fn_17"></span>[331:1](ste49.htm#fr_17.md) הבא עולם, ἡ οἰκουμένη ἡ
 μέλλουσα.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](ste50)
+[Next: Chapter IV](ste50.md)

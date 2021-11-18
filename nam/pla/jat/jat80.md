@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat79)  [Next](jat81) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat79)  [Next](jat81.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ They drink the medicine and put it all over their bodies. They get well.
 
 ------------------------------------------------------------------------
 
-[Next: 79. The Medicine Ceremony (Second Description)](jat81)
+[Next: 79. The Medicine Ceremony (Second Description)](jat81.md)

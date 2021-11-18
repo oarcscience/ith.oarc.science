@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf07)  [Next](sbf09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf07)  [Next](sbf09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -55,6 +55,6 @@ us away to a place where no water was.
 
 ------------------------------------------------------------------------
 
-[Next: The Girl Of The Early Race, Who Made Stars.](sbf09)
+[Next: The Girl Of The Early Race, Who Made Stars.](sbf09.md)
 
 </div>

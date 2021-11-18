@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico001) 
-[Next](nico003) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico001.md) 
+[Next](nico003.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ one sense of that term.
 
 [Next: Chapter 3. We must not expect more precision than the
 subject-matter admits. The student should have reached years of
-discretion](nico003)
+discretion](nico003.md)

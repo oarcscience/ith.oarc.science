@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi16)  [Next](osi18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi16)  [Next](osi18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -113,7 +113,7 @@ regard the ordinary meaning of the words we need only turn to human laws
 and we shall often meet with a greater degree of elevation. We have only
 to imitate them and to frame laws after their model and example. But it
 is not so: every word of the law contains a deep and sublime
-mystery." <span id="fr_7"></span>[1](#fn_7)
+mystery." <span id="fr_7"></span>[1](#fn_7.md)
 
 "The texts of the law are the garments of the law: wo to him who takes
 these garments for the law itself. This is the sense in which David
@@ -194,9 +194,9 @@ philosophical history of the world."
 
 ### Footnotes
 
-<span id="fn_7"></span>[104:1](osi17.htm#fr_7) A. Franck's translation
+<span id="fn_7"></span>[104:1](osi17.htm#fr_7.md) A. Franck's translation
 of La Kabbale.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Psychology of the Book of the Pitris](osi18)
+[Next: Chapter VI. Psychology of the Book of the Pitris](osi18.md)

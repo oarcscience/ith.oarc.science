@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap13) [Next](chap15)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap13) [Next](chap15.md)
 
 ------------------------------------------------------------------------
 
@@ -359,4 +359,4 @@ the heads of some rattlers near-by as we passed up the grade.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: A Lively Mining Camp](chap15)
+[Next: Chapter XV: A Lively Mining Camp](chap15.md)

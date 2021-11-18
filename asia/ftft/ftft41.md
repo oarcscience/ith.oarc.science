@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft40)  [Next](ftft42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft40)  [Next](ftft42.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_316">p. 316</span>
 
 <span id="img_31600"></span> ![The Black Dragon and the Red
-Dragon](img/31600.jpg)
+Dragon](img/31600.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a Padishah who had the misfortune to have all his children
 stolen as soon as they reached their seventh year. Grief at this
@@ -41,7 +41,7 @@ him. <span id="img_31700"></span>
 
 |                                                                |
 |----------------------------------------------------------------|
-| ![The Padishah offered him a place at his side](img/31700.jpg) |
+| ![The Padishah offered him a place at his side](img/31700.jpg.md) |
 
 When it came quite near he saw that it was a flight of forty birds,
 which, twittering and cooing, alighted at the spring. Alarmed, the
@@ -99,7 +99,7 @@ keeping together by instinct.
 <span id="img_31800"></span>
 
 [![](tn/31800.jpg)  
-Click to enlarge](img/31800.jpg)
+Click to enlarge](img/31800.jpg.md)
 
 <span id="page_319">p. 319</span>
 
@@ -110,7 +110,7 @@ dragons a wide berth and so continued his way without molestation.
 
 |                     |
 |---------------------|
-| ![N](img/ninit.jpg) |
+| ![N](img/ninit.jpg.md) |
 
 IGHT came on, and as he wended his way among the mountains the sound of
 a terrible howling smote his ears. It was the dragon-mother calling her
@@ -166,7 +166,7 @@ worth troubling about.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE Padishah returned to the dragon-mother and related his terrifying
 experience. Said she: "I forgot to tell you that I am called the Black
@@ -190,7 +190,7 @@ little while the Padishah saw approaching a rather large
 
 |                            |
 |----------------------------|
-| ![The Arab](img/32100.jpg) |
+| ![The Arab](img/32100.jpg.md) |
 
 dragon, and as he came near he felt the heat that glowed from his great
 eyes. This dragon also turned his back toward the Padishah. "My son, if
@@ -266,7 +266,7 @@ accomplished his object, and then accompany both back in safety.
 
 |                                                            |
 |------------------------------------------------------------|
-| ![The Padishah whisked off the youth's cap](img/32300.jpg) |
+| ![The Padishah whisked off the youth's cap](img/32300.jpg.md) |
 
 Arrived at the spring, all hid themselves until the youth came for
 water. While he was filling his bottle the Padishah sprang forth
@@ -290,7 +290,7 @@ flew up twittering merrily. Taking a flask from his girdle, the Arab
 sprinkled them with the liquid it contained, and lo! the birds were
 transformed into forty lovely maidens and handsome youths, who drew up
 in line and stood at attention. " Now, my Shah," said the Arab, "behold
-thy children! Take them and be happy, and [pardon](errata.htm#6) me the
+thy children! Take them and be happy, and [pardon](errata.htm#6.md) me the
 suffering I have caused thee."
 
 Had anyone begged the Padishah's costliest treasure at that moment it
@@ -334,7 +334,7 @@ further mischief.<span id="img_32500"></span>
 
 |                                            |
 |--------------------------------------------|
-| ![The Dew smashed her nose](img/32500.jpg) |
+| ![The Dew smashed her nose](img/32500.jpg.md) |
 
 The Padishah was exceedingly afraid lest he should lose one of his
 children again, but the Red Dragon reassured him. "Fear not, my Shah,"
@@ -387,4 +387,4 @@ end.
 
 ------------------------------------------------------------------------
 
-[Next: ''Madjun''](ftft42)
+[Next: ''Madjun''](ftft42.md)

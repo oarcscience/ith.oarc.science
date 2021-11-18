@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm17)  [Next](tmm19) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm17)  [Next](tmm19.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ sense of his duty.--Mid. Proverbs 31.
 
 ------------------------------------------------------------------------
 
-[Next: Midrash Samuel](tmm19)
+[Next: Midrash Samuel](tmm19.md)

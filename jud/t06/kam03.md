@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam02)  [Next](kam04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam02)  [Next](kam04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 6: Tracts Baba Kama (First Gate), Part II and
 Baba Metzia (Middle Gate)*, tr. by Michael L. Rodkinson, \[1918\], at
 Intangible Textual Heritage
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 ###### OF
 
-# TRACT BABA KAMA (THE FIRST GATE). <span id="fr_1"></span>[1](#fn_1)
+# TRACT BABA KAMA (THE FIRST GATE). <span id="fr_1"></span>[1](#fn_1.md)
 
 ### CHAPTER IX.
 
@@ -43,7 +43,7 @@ you from using a doubtful thing, and also restrained you from possible
 robbery." There was a woman who showed a coin to R. Hyya, etc. Resh
 Lakish showed a dinar to R. Elazar, and he told him it was a good one.
 He said then: "See, I rely upon you," etc.,
-[211](kam04.htm#page_211)-228
+[211](kam04.htm#page_211.md)-228
 
 MISHNAS *IV*. TO *VII*. If one gave wool to the dyer, and it was
 spoiled. To be dyed red, and it is dyed black, or conversely. To make a
@@ -80,7 +80,7 @@ falsely, and after his death he confessed. "I swear you shall have not
 any benefit from my estate." If one robbed a proselyte and swore, and
 afterwards the proselyte died. The priests who receive the robbery of
 the proselyte, are they considered heirs, or only receivers of a
-donation? [228](kam04.htm#page_228)-250
+donation? [228](kam04.htm#page_228.md)-250
 
 ### CHAPTER X.
 
@@ -102,7 +102,7 @@ another one, etc. If one saved an estate from the stream or from
 robbers, etc. Are a woman and a minor qualified to be witnesses? A child
 was telling: It happened that my mother and I were prisoners among the
 heathens, and I did not turn away my eyes from my mother, etc.,
-[250](kam04.htm#page_250)-262
+[250](kam04.htm#page_250.md)-262
 
 MISHNAS *IV*. TO *VI*. If one recognizes his utensils or books by
 another. If a thief has sold out his stolen articles, and later it was
@@ -117,7 +117,7 @@ them possesses, etc. If a robbed field was taken away by land robbers.
 There was a man who showed to the contractor a heap of wheat belonging
 to the Exilarch. There was a man by whom a silver goblet was deposited,
 he presented it when he was attacked by robbers,
-[262](kam05.htm#page_262)-270
+[262](kam05.htm#page_262.md)-270
 
 MISHNAS *VII*. TO *XII*. If a stream has overflowed the robbed field. If
 one says, I have robbed you, and I don't know if I have returned it to
@@ -126,15 +126,15 @@ fruits from the watchman. One who robs his neighbor, even the value of a
 parutha, is considered as if he would take away his life. One shall not
 buy from the carder flocks, because they are not his property. What
 about the splinters which fall out by the carpenter
-[270](kam05.htm#page_270)-277
+[270](kam05.htm#page_270.md)-277
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[iv:1](kam03.htm#fr_1) Continuation of previous
+<span id="fn_1"></span>[iv:1](kam03.htm#fr_1.md) Continuation of previous
 volume.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](kam04)
+[Next: Chapter IX](kam04.md)

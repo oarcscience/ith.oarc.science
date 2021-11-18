@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](tdp03)  [Next](tdp05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](tdp03)  [Next](tdp05.md) 
 
 ------------------------------------------------------------------------
 
@@ -571,4 +571,4 @@ cattle from straying, are termed new-takes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Lough Tor Hole. The Huccaby Courting](tdp05)
+[Next: Chapter IV: Lough Tor Hole. The Huccaby Courting](tdp05.md)

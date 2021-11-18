@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](metatp)
+[Contents](#contents)    [Start Reading](metatp.md)
 
 |                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------|
@@ -34,42 +34,42 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](metatp)  
+<span id="contents"></span> [Title Page](metatp.md)  
 <span id="section_000"></span>
 
 ### English
 
-[Book The First](meta01)  
-[Book the Second](meta02)  
-[Book the Third](meta03)  
-[Book the Fourth](meta04)  
-[Book the Fifth](meta05)  
-[Book the Sixth](meta06)  
-[Book the Seventh](meta07)  
-[Book the Eighth](meta08)  
-[Book the Nine](meta09)  
-[Book the Tenth](meta10)  
-[Book the Eleventh](meta11)  
-[Book the Twelfth](meta12)  
-[Book the Thirteenth](meta13)  
-[Book the Fourteenth](meta14)  
-[Book the Fifteenth](meta15)  
+[Book The First](meta01.md)  
+[Book the Second](meta02.md)  
+[Book the Third](meta03.md)  
+[Book the Fourth](meta04.md)  
+[Book the Fifth](meta05.md)  
+[Book the Sixth](meta06.md)  
+[Book the Seventh](meta07.md)  
+[Book the Eighth](meta08.md)  
+[Book the Nine](meta09.md)  
+[Book the Tenth](meta10.md)  
+[Book the Eleventh](meta11.md)  
+[Book the Twelfth](meta12.md)  
+[Book the Thirteenth](meta13.md)  
+[Book the Fourteenth](meta14.md)  
+[Book the Fifteenth](meta15.md)  
 <span id="section_001"></span>
 
 ### Latin
 
-[Liber Primus](metal01)  
-[Liber Secundus](metal02)  
-[Liber Tertius](metal03)  
-[Liber Quartus](metal04)  
-[Liber Quintus](metal05)  
-[Liber Sextus](metal06)  
-[Liber Septimus](metal07)  
-[Liber Octavus](metal08)  
-[Liber Nonus](metal09)  
-[Liber Decimus](metal10)  
-[Liber Undecimus](metal11)  
-[Liber Duodecimus](metal12)  
-[Liber Tertius Decimus](metal13)  
-[Liber Quartus Decimus](metal14)  
-[Liber Quintus Deciums](metal15)  
+[Liber Primus](metal01.md)  
+[Liber Secundus](metal02.md)  
+[Liber Tertius](metal03.md)  
+[Liber Quartus](metal04.md)  
+[Liber Quintus](metal05.md)  
+[Liber Sextus](metal06.md)  
+[Liber Septimus](metal07.md)  
+[Liber Octavus](metal08.md)  
+[Liber Nonus](metal09.md)  
+[Liber Decimus](metal10.md)  
+[Liber Undecimus](metal11.md)  
+[Liber Duodecimus](metal12.md)  
+[Liber Tertius Decimus](metal13.md)  
+[Liber Quartus Decimus](metal14.md)  
+[Liber Quintus Deciums](metal15.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes74)  [Next](tes76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes74)  [Next](tes76.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 # VI. ANADYR TALES.
 
-### 10. A CHUVANTZI TALE <span id="fr_111"></span>[1](#fn_111) (*Anadyr Version*).
+### 10. A CHUVANTZI TALE <span id="fr_111"></span>[1](#fn_111) (*Anadyr Version*.md).
 
 There was a man, Látka by name, who had an assistant who was called
 PóndandI. When Látka died, his daughter remained alone with PóndandI.
@@ -132,14 +132,14 @@ Markova, the Anadyr country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_111"></span>[136:1](tes75.htm#fr_111) This tale is probably
+<span id="fn_111"></span>[136:1](tes75.htm#fr_111.md) This tale is probably
 of Chuvantzi provenience. It is remarkable from the fact that some
 fragments of verse have been arranged in the form of an old Russian lay,
 although the life it describes is of native color. in the Kolyma country
 this tale has been transformed into a similar lay, more coherent in
 character, used chiefly as a lullaby. See No. 11, [p.
-138](#page_138).--W. B.
+138](#page_138.md).--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Lay Of BóndandI (Kolyma Version)](tes76)
+[Next: 11. Lay Of BóndandI (Kolyma Version)](tes76.md)

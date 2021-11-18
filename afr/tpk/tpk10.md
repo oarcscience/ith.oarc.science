@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk09)  [Next](tpk11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk09)  [Next](tpk11.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ college hogs and dogs, professional swine's; also some very fine people.
 
 ------------------------------------------------------------------------
 
-[Next: Eternal Law Office](tpk11)
+[Next: Eternal Law Office](tpk11.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt18)  [Next](ettt20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt18)  [Next](ettt20.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ enjoyment of the negative embodiment. Through this practice on the
 (excessive) enjoyments, the Enlightenment on the Soleness will be
 elevated to consummation. The Extremely-Without Form Practice denotes
 the practice of the Wisdom-Yoga, which is a practice of enjoying the
-blisses of the negative embodiment <span id="fr_20"></span>[\*](#fn_20).
+blisses of the negative embodiment <span id="fr_20"></span>[\*](#fn_20.md).
 The other practices imply the Karma Yoga. \[Only the
 Extremely-Without-Form is karma-free.\]
 
@@ -94,7 +94,7 @@ and from it are conjured numerous Transformation-Forms.
 
 ### Footnotes
 
-<span id="fn_20"></span>[262:\*](ettt19.htm#fr_20) We feel that 'Body of
+<span id="fn_20"></span>[262:\*](ettt19.htm#fr_20.md) We feel that 'Body of
 Non-Form" better expresses the meaning here, which points to the
 Without-Form Practice of the Anuttara Tantra.—*Ed*.
 
@@ -102,6 +102,6 @@ Without-Form Practice of the Anuttara Tantra.—*Ed*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eleven: Tsong Khopa's Summary of Sources](ettt20)
+[Next: Chapter Eleven: Tsong Khopa's Summary of Sources](ettt20.md)
 
 </div>

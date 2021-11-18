@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Next](idr01) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Next](idr01.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ Neo-Paganism](../index)  [Index](index)  [Next](idr01) 
 
 ------------------------------------------------------------------------
 
-[Next: Preface](idr01)
+[Next: Preface](idr01.md)

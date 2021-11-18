@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg40)  [Next](cdg42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg40)  [Next](cdg42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ the body.... When the soul of man is disengaged from corporeal
 impediments and set at freedom,--in sleep,--it beholds those wonders
 which, when entangled beneath the veil of the flesh, it is unable to
 see," says Cicero in his treatise "On Divination." <span
-id="fr_187"></span>[\*](#fn_187) And this truth regarding the emergence
+id="fr_187"></span>[\*](#fn_187.md) And this truth regarding the emergence
 of the Soul from the body during sleep, as well as the Soul's consequent
 closer union with the Divine Principle, is also set forth in the Koran
 Sura xxxix, The Troops. " God taketh souls unto Himself at death; and
@@ -44,7 +44,7 @@ you: For every one
 <span id="page_266">p. 266</span>
 
 that asketh receiveth; and he that seeketh findeth; and to him that
-knocketh it shall be opened." <span id="fr_188"></span>[\*](#fn_188)
+knocketh it shall be opened." <span id="fr_188"></span>[\*](#fn_188.md)
 Whatever the limitations of an individual's temporal experience, they
 cannot fetter the immortal spirit and soul, which in sleep attain those
 realms of consciousness whose memories, because of the imperfetions of
@@ -61,12 +61,12 @@ Then He (God) openeth the ears of men, and sealeth their instrudtion."
 
 ### Footnotes
 
-<span id="fn_187"></span>[265:\*](cdg41.htm#fr_187) *Chapters xxx, xlix,
+<span id="fn_187"></span>[265:\*](cdg41.htm#fr_187.md) *Chapters xxx, xlix,
 lvii*.
 
-<span id="fn_188"></span>[266:\*](cdg41.htm#fr_188) *St. Matthew vii, 7,
+<span id="fn_188"></span>[266:\*](cdg41.htm#fr_188.md) *St. Matthew vii, 7,
 8*.
 
 ------------------------------------------------------------------------
 
-[Next: Thotmes III](cdg42)
+[Next: Thotmes III](cdg42.md)

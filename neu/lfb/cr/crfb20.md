@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb19)  [Next](crfb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb19)  [Next](crfb21.md) 
 
 </div>
 
@@ -397,6 +397,6 @@ prepared for the prince.
 
 ------------------------------------------------------------------------
 
-[Next: Tritill, Litill, And The Birds](crfb21)
+[Next: Tritill, Litill, And The Birds](crfb21.md)
 
 </div>

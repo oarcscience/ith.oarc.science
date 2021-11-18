@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl007)  [Next](cohl009) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl007)  [Next](cohl009.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ believes that the Great Ruler has heard him and he gives him thanks.
 Now the sick man's bed is beside the fire. At night he looks up through
 the chimney hole and sees the stars and he thanks the Great Ruler that
 he can see them for he knows that he, the Creator, has made them. <span
-id="fr_13"></span>[1](#fn_13)
+id="fr_13"></span>[1](#fn_13.md)
 
 Now it comes to him that because of these new thoughts he may obtain
 help to arise from his bed and walk again in this world. Then again he
@@ -45,19 +45,19 @@ Now this man has been sick four years but he feels that he will now
 recover.
 
 And the name of the sick man is Ganio\`dai'io\` <span
-id="fr_14"></span>[2](#fn_14) a council chief \[Hoya'ne\].
+id="fr_14"></span>[2](#fn_14.md) a council chief \[Hoya'ne\].
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_13"></span>[22:1](cohl008.htm#fr_13) See plate 11.
+<span id="fn_13"></span>[22:1](cohl008.htm#fr_13.md) See plate 11.
 
-<span id="fn_14"></span>[22:2](cohl008.htm#fr_14) Handsome Lake, one of
+<span id="fn_14"></span>[22:2](cohl008.htm#fr_14.md) Handsome Lake, one of
 the fifty hereditary sachems, or lords. Hoya'ne means, *perfect one* or
 *noble*, and is translated *lord* by the Canadian Six Nations. See Hale,
 Book of Rites, p. 31, footnote.
 
 ------------------------------------------------------------------------
 
-[Next: The Strange Death of the Sick Man](cohl009)
+[Next: The Strange Death of the Sick Man](cohl009.md)

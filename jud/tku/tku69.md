@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku68)  [Next](tku70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku68)  [Next](tku70.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,7 +126,7 @@ guile."
 
 610\. Unto this ear is attributed hearing, and under (*the idea of*)
 hearing are those brains comprehended. <span
-id="fr_287"></span>[1](#fn_284)
+id="fr_287"></span>[1](#fn_284.md)
 
 611\. Chokmah is contained therein, as it is written, 1 Kings iii. 9:
 "And wilt Thou give unto Thy servant a hearing heart."
@@ -204,7 +204,7 @@ the place of the Arcanum.
 629\. And whensoever his soul departeth, the same adhereth not unto the
 body of the King, for it is not his place. "Woe unto that man! woe unto
 himself! woe unto his Neschamah!" <span
-id="fr_288"></span>[1](tku70.htm#fn_285)
+id="fr_288"></span>[1](tku70.htm#fn_285.md)
 
 630\. But blessed is the portion of the just who conceal secrets, and
 much more the Supernal Arcana of God the Most Holy One--blessed be
@@ -217,9 +217,9 @@ be all righteous; they shall inherit the land for ever."
 
 ### Footnotes
 
-<span id="fn_284"></span>[321:1](tku69.htm#fr_287) The three divisions
+<span id="fn_284"></span>[321:1](tku69.htm#fr_287.md) The three divisions
 of the Brain of Microprosopus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: Concerning the Countenance of Microprosopus](tku70)
+[Next: Chapter XVII: Concerning the Countenance of Microprosopus](tku70.md)

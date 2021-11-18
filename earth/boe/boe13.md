@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe12)  [Next](boe14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe12)  [Next](boe14.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ Capucin Marie de Rheita&lt;/i&gt; (&lt;i&gt;1645&lt;/i&gt;). &lt;i&gt;At
 the top Tycho is seen in full view, with its diverging
 rays&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Iter Exstaticum
 Coeleste&lt;/i&gt;; Athanasius Kircher, 1660)](tn/pl13.jpg)  
-Click to enlarge](img/pl13.jpg)  
+Click to enlarge](img/pl13.jpg.md)  
 PLATE XIII. *One of the oldest drawings of the Moon. by Pere Capucin
 Marie de Rheita* (*1645*). *At the top Tycho is seen in full view, with
 its diverging rays*.  
@@ -79,7 +79,7 @@ deep," but how were they to be
 (Frontispiece of &lt;i&gt;Lettre d’un gentil-homme de province à une
 dame de qualité sur le sujet de la Comete&lt;/i&gt;; Claude François
 Manestrier, 1681.)](tn/fig041.jpg)  
-Click to enlarge](img/fig041.jpg)  
+Click to enlarge](img/fig041.jpg.md)  
 FIGURE 41. The Comet of 1680 and the marvellous Egg.  
 (Frontispiece of *Lettre d’un gentil-homme de province à une dame de
 qualité sur le sujet de la Comete*; Claude François Manestrier, 1681.)  
@@ -126,7 +126,7 @@ but no better place could be found in this collection of world-pictures
 than just here, for one of his beautiful drawings of the Deluge, the
 second Chaos, when, "upon this Chaos rid the distrest Ark that bore the
 small remains of Mankind," a ship whose cargo was no less than a whole
-world ([Plate XIV](#img_pl14)). It is at once a picture of the Deluge
+world ([Plate XIV](#img_pl14).md). It is at once a picture of the Deluge
 after the dove was sent forth from the Ark, and a "Roughe Globe"; a
 delicate tracery of the broken Earth seen through water, as one looks
 down into a clear lake. There are vague glinting hints of lost or sunken
@@ -151,7 +151,7 @@ fragments of land would change their posture,
 [![PLATE XIV ''AND AGAIN HE SENT FORTH THE DOVE OUT OF THE
 ARK''&lt;br&gt; (From &lt;i&gt;The Theory of the Earth&lt;/i&gt;; Thomas
 Burnet, 1697)](tn/pl14.jpg)  
-Click to enlarge](img/pl14.jpg)  
+Click to enlarge](img/pl14.jpg.md)  
 PLATE XIV ''AND AGAIN HE SENT FORTH THE DOVE OUT OF THE ARK''  
 (From *The Theory of the Earth*; Thomas Burnet, 1697)  
 
@@ -162,4 +162,4 @@ lesser floods until all became poised and settled once again.
 
 ------------------------------------------------------------------------
 
-[Next: The Lost Atlantis](boe14)
+[Next: The Lost Atlantis](boe14.md)

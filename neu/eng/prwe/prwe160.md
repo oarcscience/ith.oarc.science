@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe159)  [Next](prwe161) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe159)  [Next](prwe161.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ text ,  Camden xxxxxxxxxxxxxxx
 
 ------------------------------------------------------------------------
 
-[Next: Traditions of the Danes in Cornwall](prwe161)
+[Next: Traditions of the Danes in Cornwall](prwe161.md)

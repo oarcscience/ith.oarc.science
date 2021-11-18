@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas10)  [Next](sas12)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas10)  [Next](sas12.md)  
 
 ------------------------------------------------------------------------
 
@@ -242,4 +242,4 @@ then with Tao and Tei or Shakti in their true state.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Twelve: Alleged Conflicts of Shastras](sas12)
+Next: [Chapter Twelve: Alleged Conflicts of Shastras](sas12.md)

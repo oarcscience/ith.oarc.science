@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](wov24)  [Next](wov26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](wov24)  [Next](wov26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddha's Way of Virtue*, by W.D.C Wagiswara and K.J. Saunders,
 \[1920\], at Intangible Textual Heritage
 
@@ -65,4 +65,4 @@ man strongly control himself and take his pleasure in the forest glade.
 
 ------------------------------------------------------------------------
 
-[Next: § XXII: Hell](wov26)
+[Next: § XXII: Hell](wov26.md)

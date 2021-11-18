@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml12)  [Next](cml14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml12)  [Next](cml14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
 
 ### CHAPTER IX
 
-### THE WAR WITH THE GIANTS <span id="fr_134"></span>[1](#fn_134)
+### THE WAR WITH THE GIANTS <span id="fr_134"></span>[1](#fn_134.md)
 
 By this time the seven years of preparation had come to an end. A week
 before the Day of Samhain, the Morrígú discovered that the Fomors had
@@ -137,7 +137,7 @@ words, he drove round the ranks, standing on tiptoe, so that all the
 Tuatha Dé Danann might see him.
 
 The Fomors saw him too, and marvelled. "It seems wonderful to me," <span
-id="fr_135"></span>[1](#fn_135) said Bress to his druids, "that the sun
+id="fr_135"></span>[1](#fn_135.md) said Bress to his druids, "that the sun
 should rise in the west to-day and in the east every other day." "It
 would be better for us if it were so," replied the druids. "What else
 can it be, then?" asked Bress. "It is the radiance of the face of Lugh
@@ -208,7 +208,7 @@ It was he that fashioned the tathlum.
 This concrete ball,--no soft missile;--  
 In Mag Tuireadh of shrieking wails,  
 From his hand he threw the tathlum." <span
-id="fr_136"></span>[1](#fn_136)
+id="fr_136"></span>[1](#fn_136.md)
 
 This blinding of the terrible Balor turned the fortunes of the fight;
 for the Fomors wavered, and the Morrígú came and encouraged the people
@@ -234,7 +234,7 @@ Lêr's white horses, the waves of the sea, when a tempest breaks. The
 stand upon the plain of Carrowmore, near Sligo, and form, in the opinion
 of Dr. Petrie, the finest collection of prehistoric monuments in the
 world, with the sole exception of Carnac, in Brittany. <span
-id="fr_137"></span>[1](#fn_137) Megalithic structures of almost every
+id="fr_137"></span>[1](#fn_137.md) Megalithic structures of almost every
 kind are found among them--stone cairns with dolmens in their interiors,
 dolmens standing open and alone, dolmens surrounded by one, two, or
 three circles of stones, and circles without dolmens--to the number of
@@ -251,7 +251,7 @@ the chieftains who were interred as the
 <span id="img_11400"></span>
 
 [![''THE KISSING STONE'', CARROWMORE, SLIGO.--R. Welch](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)  
+Click to enlarge](img/11400.jpg.md)  
 ''THE KISSING STONE'', CARROWMORE, SLIGO.--R. Welch  
 
  
@@ -314,7 +314,7 @@ owner's leave. The Dagda sang to it:
 "Come, oak of the two cries!  
 Come, hand of fourfold music!  
 Come, summer! Come, winter!  
-Voice of harps, bellows <span id="fr_138"></span>[1](#fn_138), and
+Voice of harps, bellows <span id="fr_138"></span>[1](#fn_138.md), and
 flutes!"
 
 <span class="contnote">\[paragraph continues\]</span> For the Dagda's
@@ -344,7 +344,7 @@ Yet the power of the Fomors was not wholly broken. Four of them still
 carried on a desultory warfare by spoiling the corn, fruit, and milk of
 their conquerors. But the Morrígú and Badb and Mider and Angus pursued
 them, and drove them out of Ireland for ever. <span
-id="fr_139"></span>[1](#fn_139)
+id="fr_139"></span>[1](#fn_139.md)
 
 Last of all, the Morrígú and Badb went up on to the summits of all the
 high mountains of Ireland, and proclaimed the victory. All the lesser
@@ -374,31 +374,31 @@ world.
 
 ### Footnotes
 
-<span id="fn_134"></span>[107:1](cml13.htm#fr_134) This chapter is, with
+<span id="fn_134"></span>[107:1](cml13.htm#fr_134.md) This chapter is, with
 slight interpolations, based upon the Harleian MS. in the British Museum
 numbered 5280, and called the *Second Battle of Moytura*, of rather from
 translations made of it by Dr. Whitley Stokes, published in the *Revue
 Celtique*, Vol. XII, and by M. de Jubainville in his *L’Épopée Celtique
 en Irlande*.
 
-<span id="fn_135"></span>[111:1](cml13.htm#fr_135) I have interpolated
+<span id="fn_135"></span>[111:1](cml13.htm#fr_135.md) I have interpolated
 this picturesque passage from the account of a fight between the Tuatha
 Dé Danann and the Fomors in the "Fate of the Children of Tuirenn",
 O’Curry's translation in *Atlantis*, Vol. IV.
 
-<span id="fn_136"></span>[113:1](cml13.htm#fr_136) This translation was
+<span id="fn_136"></span>[113:1](cml13.htm#fr_136.md) This translation was
 made by Eugene O’Curry from an ancient vellum MS. formerly belonging to
 Mr. W. Monck Mason, but since sold by auction in London. See his
 *Manners and Customs of the Ancient Irish*, Lecture XII, p. 252.
 
-<span id="fn_137"></span>[114:1](cml13.htm#fr_137) See Fergusson: Rude
+<span id="fn_137"></span>[114:1](cml13.htm#fr_137.md) See Fergusson: Rude
 Stone Monuments, pp. 180, &c.
 
-<span id="fn_138"></span>[116:1](cml13.htm#fr_138) ? Bagpipes.
+<span id="fn_138"></span>[116:1](cml13.htm#fr_138.md) ? Bagpipes.
 
-<span id="fn_139"></span>[117:1](cml13.htm#fr_139) *Book of Fermoy*. See
+<span id="fn_139"></span>[117:1](cml13.htm#fr_139.md) *Book of Fermoy*. See
 *Revue Celtique*, Vol. I.--"The Ancient Irish Goddess of War".
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Conquest of the Gods by Mortals](cml14)
+[Next: Chapter X. The Conquest of the Gods by Mortals](cml14.md)

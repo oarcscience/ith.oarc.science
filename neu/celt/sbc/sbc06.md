@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sbc05)  [Next](sbc07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sbc05)  [Next](sbc07.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Marg) figures as steward of the King of the Fomori. Marc is the name of
 one of the foes killed by Cuchulainn on the *tain* (*Book of Dun Cow*,
 70<sup>b</sup>). Morc appears as (*a*) having horse's ears, (*b*) a
 king, (*c*) captain of a great fleet: he is horse-man, a monster sharing
-the qualities of both. <span id="fr_152"></span>[1](#fn_152)
+the qualities of both. <span id="fr_152"></span>[1](#fn_152.md)
 
 <span id="page_120">p. 120</span>
 
@@ -35,8 +35,8 @@ The original runs:
 cluinnear farum-fad-as na fadhaide anns a’ choillidh ghruamaich, agus
 gabhar a mach air a h-ionnsaidh. Cò thachair ris ach gum b’ e Morc Na
 Maighe, agus i ’ga deisearadh fein an sùil na greine. 'Gum bu
-sheatha <span id="fr_153"></span>[1](#fn_153) duit fein, a Chaoilte,'
-ars’ ise, ’ma bhrathas <span id="fr_154"></span>[2](#fn_154) tu air an
+sheatha <span id="fr_153"></span>[1](#fn_153.md) duit fein, a Chaoilte,'
+ars’ ise, ’ma bhrathas <span id="fr_154"></span>[2](#fn_154.md) tu air an
 Fheinn mus beir an cuan siar an nochd air a’ ghrein.' '’S gum bu sheatha
 duit fein, a phiullagaich pheallagaich ghrainnde,' arsa Caoilte, 'ma
 chumas do cheithir chasan ris na chi do dhà shùil.' Bha sid air a cois
@@ -64,10 +64,10 @@ agam—cha’n ’eil mi ’n dùil nach teid mi dhachaidh a nis.'"
 
 (*d*) As regards fowl, I can only find few apposite references: Conaire
 the Great, who was held to be descended from a fowl, was interdicted
-from eating its flesh. <span id="fr_155"></span>[1](#fn_155) At 'Goose
+from eating its flesh. <span id="fr_155"></span>[1](#fn_155.md) At 'Goose
 Fair' at Great Crosby, Lancashire, the goose was held as too sacred to
 eat. In parts of Scotland, too, there was a prejudice against eating the
-goose, <span id="fr_156"></span>[2](#fn_156) it being too sacred.
+goose, <span id="fr_156"></span>[2](#fn_156.md) it being too sacred.
 
 Another prejudice existed against white cows. Dalyell in his *Darker
 Superstitions of Scotland* mentions the existence of a prejudice against
@@ -200,7 +200,7 @@ scream and rose like a cloud of mist up the shoulder of the neighbouring
 mountain, and from that time was never seen following the army. It has
 been believed by every generation since that the fairy left a charm with
 the descendants of the forester, which shall stick to them to the
-twentieth generation." <span id="fr_157"></span>[1](#fn_157)
+twentieth generation." <span id="fr_157"></span>[1](#fn_157.md)
 
 <span id="page_126">p. 126</span>
 
@@ -220,7 +220,7 @@ wild beasts into the darkest shades and caves of the glens.
 
 “A young doe rose up in the chase: Fionn, the active white-handed hero,
 saw her beauty; he gave vehement chase and took her to be his
-wife. <span id="fr_158"></span>[1](#fn_158)
+wife. <span id="fr_158"></span>[1](#fn_158.md)
 
 “This lovely doe he shielded from attack of hounds: he let her escape:
 his eye followed her as she bounded from bush to bush, till she reached
@@ -275,10 +275,10 @@ those of the children of Baoisgne.'
 sheared me from head to foot: they washed me and put clothing upon me in
 place of the coarse hair which covered me before. Fionn and all the
 Fenii taught me to speak. Thus was I born in Gremlin of the shady
-thickets." <span id="fr_159"></span>[1](#fn_159)
+thickets." <span id="fr_159"></span>[1](#fn_159.md)
 
 The counsel given by Ossian to his mother, Highland legend expresses
-thus: <span id="fr_160"></span>[2](#fn_160)
+thus: <span id="fr_160"></span>[2](#fn_160.md)
 
   Mas tu mo mhathair ’s gur fiadh thu  
   Éirich mu’n éirich a’ ghrīan ort.
@@ -316,7 +316,7 @@ The Ossraighe have been held to be a pre-Milesian race. Rhys derived
 *os* here from Basque *otso*, 'a wolf.' But compare Gamhanraighe, 'the
 calf-tribe'; Conraighe, 'the hound tribe'; Soghraighe, the bitch-tribe?'
 as Mr. MacNeill renders the names in the *New Ireland Review*. <span
-id="fr_161"></span>[1](#fn_161)
+id="fr_161"></span>[1](#fn_161.md)
 
 The same idea occurs in another old tale of the transformation of Tuan
 mac Cairill, who tells the story to St. Finnian of Moville. "As I was
@@ -343,9 +343,9 @@ twenty years elapsed until he was reborn a man."
 The *Colloquy* tells us that Ossian went to the *síd* of ucht Cleitigh
 (síd octa Cleitig), where was his mother Blái, daughter of Derc surnamed
 *dianscothach*, *i.e.* 'of the forcible language.' <span
-id="fr_162"></span>[1](#fn_162) In another part of the Colloquy we read
+id="fr_162"></span>[1](#fn_162.md) In another part of the Colloquy we read
 of Ubhalroiscc, from the Síd Ochta Cleitig in the plain of Bregia. <span
-id="fr_163"></span>[2](#fn_163) This passage enumerates the chiefs and
+id="fr_163"></span>[2](#fn_163.md) This passage enumerates the chiefs and
 territorial lords of the Tuatha de Danann, and it follows that the deer
 parentage of Ossian connects him with the *Tuatha dé*.
 
@@ -358,7 +358,7 @@ Probably the life of the Lachlins was bound up with the deer
 <span id="page_131">p. 131</span>
 
 on Finchra as the life of the Hays was bound up with the mistletoe on
-Errol's oak. <span id="fr_164"></span>[1](#fn_164) One recollects that
+Errol's oak. <span id="fr_164"></span>[1](#fn_164.md) One recollects that
 the Gauls are referred to as sacrificing to Artemis or Diana (v. Grimm's
 *Teutonic Mythology*, iv. 1592).
 
@@ -374,8 +374,8 @@ certain lands used to be received at the steps of the church by the
 priests in their sacerdotal robes, and with garlands of flowers on their
 heads. Certain it is this ceremony savours more of the worship of Diana
 and of Gentile errours than of the Christian religion." <span
-id="fr_165"></span>[2](#fn_165) Statues and stone-altars to Diana have
-been found in the neighbourhood. <span id="fr_166"></span>[3](#fn_166)
+id="fr_165"></span>[2](#fn_165.md) Statues and stone-altars to Diana have
+been found in the neighbourhood. <span id="fr_166"></span>[3](#fn_166.md)
 The 'playing of the stag,' referred to in penitential books and
 homilies, points in the same direction. Men on New Year's Day clothed
 themselves in the skin of a stag, with its horns upon their heads, and
@@ -393,7 +393,7 @@ Day, May Day and Midsummer Day celebrations are, I think, fossils of the
 old priestesses, often occurring as fossils of the old sacrificial
 animal. The 'playing of the stag' at the church door seems to me,
 therefore, another relic of the old religious rites accompanied by
-choral dance and licentious song. <span id="fr_167"></span>[1](#fn_167)
+choral dance and licentious song. <span id="fr_167"></span>[1](#fn_167.md)
 And I may refer to the stags' horns which I have seen four years ago in
 the church of Abbots Bromley, Staffs., which are carried by the mummers
 who annually enact the 'Hobby Horse.'
@@ -408,7 +408,7 @@ Deer-Bodhisattva approached the king on her behalf. The king said:
 ". . . I am a deer in man's form. Though you are in appearance a lower
 animal, you are in heart a human being. . . . If endowed with a loving
 heart, though a bear in form, one is human. . . ." <span
-id="fr_168"></span>[2](#fn_168)
+id="fr_168"></span>[2](#fn_168.md)
 
 <span id="page_133">p. 133</span>
 
@@ -424,12 +424,12 @@ the form of a raven, (3) that of a seal, sea-dog, (4) that of an eminent
 warrior, (5) the form of a phantom, (6) that of a worm or moth, (7) that
 of a bull. It is distinctly stated in the Táin that the Donn of Cúalnge
 had human reason: 'atchuala Dond Cualngi anní sein acus bae cíall
-dunetta aice' <span id="fr_169"></span>[1](#fn_169) = 'the Dond of C.
+dunetta aice' <span id="fr_169"></span>[1](#fn_169.md) = 'the Dond of C.
 heard this, for it had human understanding.' The two bulls were
 incarnations of rival swine-herds from the Síd. <span
-id="fr_170"></span>[2](#fn_170) 'The Begetting of the Two Swine-herds '
+id="fr_170"></span>[2](#fn_170.md) 'The Begetting of the Two Swine-herds '
 forms a tale in the *Book of Leinster*; <span
-id="fr_171"></span>[3](#fn_171) Friuch and Riucht were their names, "and
+id="fr_171"></span>[3](#fn_171.md) Friuch and Riucht were their names, "and
 there was also friendship between them, viz., both possessed the lore of
 paganism, and used to shape themselves into any shape, as did Mongan the
 son of Fiachna." They underwent various transformations:
@@ -450,7 +450,7 @@ Connaught, where a cow of Medb and Ailill's drank it, so that from them
 sprang the two bulls, the Whitehorn Ai and the Donn of Cualnge.
 
 I suggest that we have here to do with the *Tarbh Boibhre* <span
-id="fr_172"></span>[1](#fn_172) of living Highland tradition. *Boibre*
+id="fr_172"></span>[1](#fn_172.md) of living Highland tradition. *Boibre*
 is given in O’Davoren's glossary and explained as from *boabartach
 abairt amail in mboin*, *i.e.* 'cow-behaviour, behaving like the cow.'
 It was conceived as a sort of hermaphrodite lusting to graze at a loch
@@ -562,7 +562,7 @@ which brought the whip into use, though lightly; no sooner had the thong
 touched him than he instantly assumed the form of a most enormous
 Boobrie, and uttering a shout which appeared to shake the earth, plunged
 into the loch, carrying with him the three horses and plough. <span
-id="fr_173"></span>[1](#fn_173) The tenant and his son had both the
+id="fr_173"></span>[1](#fn_173.md) The tenant and his son had both the
 sense to let go their respective holds. The Boobrie swam out with his
 victims to the middle of the loch, where he dived, carrying them along
 with him to the bottom, where he apparently took his pleasure of them.
@@ -637,7 +637,7 @@ from this stock, and corresponded to the Manx idea of the *far-lheiy*,
 which Cregeen's *Dictionary* defines as "a false conception of a calf,
 said to be generated between a cow and what is called a
 *tarroo-ushtey*." In parts of Inverness-shire it has been defined to me
-a <span id="fr_174"></span>[1](#fn_174)s a serpent-bull, further defined
+a <span id="fr_174"></span>[1](#fn_174.md)s a serpent-bull, further defined
 as a great fly, or as a big striped brown *gobhlachan* or 'ear-wig,' as
 long as one's little finger, with a crave for sucking horse-blood. It
 was thought to be very rare, to appear only in great heat in August and
@@ -648,12 +648,12 @@ September, and to have lots of tentacles or
 feelers (*tha gràinne spògan air*). In the same district the water-horse
 was thought of as at times like unto a man, similar to a carle in
 ribbons and rags; every one will not see it: to see it is an omen of
-drowning. <span id="fr_175"></span>[1](#fn_175)
+drowning. <span id="fr_175"></span>[1](#fn_175.md)
 
 The water-horse (*in t-ech usci*) is spoken of in the *Life of St.
 Féchin of Fore*: "It came to them and was harnessed to the chariot, and
 it was tamer and gentler than any other horse." <span
-id="fr_176"></span>[2](#fn_176) Cossar Ewart has lately spoken of the
+id="fr_176"></span>[2](#fn_176.md) Cossar Ewart has lately spoken of the
 old species of horse of 30,000 years ago, and may be the wild-horse of
 Scotland is reflected in its folklore. Mr. D. M. Rose drew attention to
 this in the *Scotsman*, and as what he says of Sutherland holds further
@@ -784,9 +784,9 @@ gloom from of old: cf. Isaiah xiv. 23, xxxiv. 11; Zephaniah ii. 14.
 Though changed in the Revised Version to porcupine (hedge-hog),
 Principal G. A. Smith, for instance, renders the last passage: "Yea,
 pelican and bittern shall roost on the capitals,"  <span
-id="fr_177"></span>[1](#fn_177) and points out that the other animals
+id="fr_177"></span>[1](#fn_177.md) and points out that the other animals
 mentioned here are birds, and that it is birds which would naturally
-roost on capitals. <span id="fr_178"></span>[1](#fn_177)By the Tigris
+roost on capitals. <span id="fr_178"></span>[1](#fn_177.md)By the Tigris
 the bittern abounds, as in the marshes of Syria. "No traveller," says
 Canon Tristram, "who has heard the weird booming of the bittern in the
 stillness of the night, while encamped near some ruined site, can ever
@@ -904,7 +904,7 @@ Boyne, \**bo-vinda*, 'white-cow,' appearing in legend as a personal
 female name; Dee; Aberdeen, G. *Obair-dhea’on*, 'the mouth or inver of
 the Devona,' a goddess-name; Affric, a river name, older *Aithbhrecc*, a
 female name Affrica, and suitable as a nymph name, which is also the
-case with Ness, from Pictish; <span id="fr_179"></span>[1](#fn_178)
+case with Ness, from Pictish; <span id="fr_179"></span>[1](#fn_178.md)
 Lōchy, the 'nigra dea,' or black goddess of Adamnan's *Life of Columba*.
 The early human attitude may be inferred from what is told regarding
 
@@ -922,7 +922,7 @@ its waters; if they survived the ordeal it was a token of their being
 protected by the common ancestor. Gaulish inscriptions likewise testify
 that rivers were the objects of a cult: *e.g*. **DEÆ SEQVAÆ** (the
 Seine), **DEÆ ICAUNI** (the Yonne). <span
-id="fr_180"></span>[1](#fn_179) In Scotland, too, the river names are
+id="fr_180"></span>[1](#fn_179.md) In Scotland, too, the river names are
 mostly pre-Christian and testify to their having been looked on with
 more than sacred awe. Almost all of them have legends such as Hugh
 Miller tells of the water-wraith of the Conon River in his *Schools and
@@ -949,7 +949,7 @@ the family of the man who is the first to find a victim of drowning: the
 unluck follows from robbing the spirit of the waters of its victim. The
 legends of water-horses in Loch Ness and in the Beauly River, indeed in
 all considerable streams, point to the spirit of the raging flood as an
-external soul in the waters. <span id="fr_181"></span>[1](#fn_180)
+external soul in the waters. <span id="fr_181"></span>[1](#fn_180.md)
 Indeed, other river names, such as Ness, Don, Nevis, Annan, go back to
 early Celtic nomenclature, which reveals them to be names of nymphs,
 especially divine water-nymphs.
@@ -1010,7 +1010,7 @@ a man, probably beardless, clothed in a short tunic; he holds in his
 hands the handle of a long implement which he is about to drive into a
 tree. This tree, the denticulated leaves of which call to mind the
 foliage on the altar found at Paris, supports a bull's head on the left;
-and three great birds, <span id="fr_182"></span>[1](#fn_181) with long
+and three great birds, <span id="fr_182"></span>[1](#fn_181.md) with long
 beak, are on the right thereof. We are in the presence of a
 representation of the same scene as is depicted on the altar of Notre
 Dame—it shows us the woodcutter, the tree, the bull, and the three
@@ -1040,7 +1040,7 @@ is about to be felled by some semi-divine hero known in legend surviving
 among, though not necessarily original to, the Celts. Or if among a
 Celtic people, it may have formed part of legendary belief among the
 forerunners of the Gauls, to wit, the Ligurians, whose speech has been
-called Celtican by Rhŷs, <span id="fr_183"></span>[1](#fn_182) who has
+called Celtican by Rhŷs, <span id="fr_183"></span>[1](#fn_182.md) who has
 essayed recently to show it as most closely allied to Gadhelic. The
 Highland survival of the Boobrie has much that may be traced to a common
 origin with the root idea symbolised in bas-relief at Paris and at
@@ -1055,7 +1055,7 @@ the Gauls: he instances the oak-god (*Fagus deus*, the translation
 
 of the name of a local god), the gods *Sexarbor*, *Sexarbores*, and the
 nameless god on some coniferous tree represented on an altar found at
-Toulouse. <span id="fr_184"></span>[1](#fn_183) Esus, on the Paris
+Toulouse. <span id="fr_184"></span>[1](#fn_183.md) Esus, on the Paris
 altar, may have been the local name in that district, and not at all
 Pan-Celtic. D’Arbois has tried to make out a close parallel for
 Cuchulainn. The primary creation of the root ideas in this myth may be
@@ -1111,7 +1111,7 @@ in the cave which it had
 
 quitted. and seizing it by the nostrils with one hand, with the other he
 plunged deep into its flank his 'hunting knife.' <span
-id="fr_185"></span>[1](#fn_184) In the Mithraic religion, as Justin
+id="fr_185"></span>[1](#fn_184.md) In the Mithraic religion, as Justin
 tells us, there was a 'baptism for the remission of sins': the bull
 being the recognised emblem of life, its blood constituted the
 recognised laver of regeneration. In the rite known as Blood-Baptism or
@@ -1122,18 +1122,18 @@ apertures, as in a shower bath, upon the person to be regenerated. To
 judge from the statement of Lampridius that the priest-emperor
 Heliogabalus submitted to it, the rite must have been an important one,
 and a pit for the purpose has been discovered within the
-[precincts](errata.htm#2) of the temple at Eleusis in Greece.
+[precincts](errata.htm#2.md) of the temple at Eleusis in Greece.
 
 The Celtic personal name, Donno-taurus, 'noble-bull' (lord-bull),
 mentioned by Caesar, may contain a word cognate with Irish *donn*,
 explained in O’Davoren's Glossary by 'noble, judge, king,' and may come,
 according to Stokes, from \**domno-s*, and be cognate with L. *dominus*,
-'lord, master.' <span id="fr_186"></span>[2](#fn_185) This is most
+'lord, master.' <span id="fr_186"></span>[2](#fn_185.md) This is most
 probably the same word that meets us in *Donn*, the name of the divine
 bull located in the Irish epic at Cualnge (Cooley). In course of time it
 easily got confused with an entirely different word, *donn*, 'dun.' In
 referring to this latter, de Jubainville seems to have forgotten the
-former word. <span id="fr_187"></span>[3](#fn_186)
+former word. <span id="fr_187"></span>[3](#fn_186.md)
 
 <span id="page_158">p. 158</span>
 
@@ -1143,19 +1143,19 @@ Minos, and its mother Pasiphae, daughter of the sun. During the Athenian
 war Minos exacted as a condition of peace that each year there should be
 sent to Crete seven youths and seven young maidens to be devoured by the
 Minotaure. The Minotaure was killed by Theseus, as we learn from
-Pherecydes. It has been suggested <span id="fr_188"></span>[1](#fn_187)
+Pherecydes. It has been suggested <span id="fr_188"></span>[1](#fn_187.md)
 that the legend of Pasiphae and the Minotaure contains a reminiscence of
 a marriage ceremony in which the King and Queen of Cnossos figured in
 the disguise of a bull and cow respectively. Marrying a queen to a
 bull-god was portrayed by marrying her to a man disguised as a bull. The
 vine-god Dionysos was annually married to a queen at a building on the
 N.E. slope of the Acropolis at Athens, named the Cattle-Stall, whence
-Miss Harrison <span id="fr_189"></span>[2](#fn_188) conjectured that
+Miss Harrison <span id="fr_189"></span>[2](#fn_188.md) conjectured that
 Dionysos may have been represented as a bull at the marriage. "In that
 case the part of the bridegroom might be played by a man wearing a
 bull's head, just as in Egypt in similar rites the sacred animals were
 represented by men and women wearing the masks of cows, hawks,
-crocodiles, and so forth." <span id="fr_190"></span>[3](#fn_189)
+crocodiles, and so forth." <span id="fr_190"></span>[3](#fn_189.md)
 
 I recall the wake orgy in Ireland mentioned by Lady Wilde, in which a
 bull is married to a cow; compare *Calluinn a’ Bhuilg* ceremonies in the
@@ -1166,20 +1166,20 @@ Horse at Padstow.
 
 Minos is suspected of having been murdered every nine years; his death
 was a secret. His going into the Labyrinth is equivalent to going into
-the Bull god's cave. <span id="fr_191"></span>[1](#fn_190) On Gadhelic
+the Bull god's cave. <span id="fr_191"></span>[1](#fn_190.md) On Gadhelic
 ground, when the Donn or Brown Bull of Cualnge triumphed over its rival
 the Find Bennach, it soon after died itself of its wounds, but
 paralleling the cruelty of the Minotaure it killed one hundred infants,
 or two-thirds of the one hundred and fifty children that came in groups
 of fifty to enjoy themselves after mid-day on its great and glossy
-back. <span id="fr_192"></span>[2](#fn_191)
+back. <span id="fr_192"></span>[2](#fn_191.md)
 
 M. D’Arbois de Jubainville regards the Tarvos Trigaronos, now in the
 museum at Cluny, as identical with the Donn Cualnge, and further, the
 personage called Esus, who is about to apply his axe to the tree,
 appears to him identical with the hero Cuchulainn, who is portrayed as
 felling trees to arrest the march of the forces of Queen Medb: <span
-id="fr_193"></span>[3](#fn_192) "At one blow Cuchulainn cut the chief
+id="fr_193"></span>[3](#fn_192.md) "At one blow Cuchulainn cut the chief
 stem of an oak, root and branch."
 
 Again, Cuchulainn's divine father was Lug of the Long Hand, already
@@ -1193,16 +1193,16 @@ Switzerland, another from Spain. He was the Gaulish Mercury in Caesar's
 
 time who speaks of him as the inventor of all the arts. The Irish Lug,
 according to the account in the 'Second Battle of Moytura,' <span
-id="fr_194"></span>[1](#fn_193) was skilful as poet, warrior, physician,
+id="fr_194"></span>[1](#fn_193.md) was skilful as poet, warrior, physician,
 sorcerer, harpist, poet, and to him is given the epithet of 'master of
 all the arts.' Balor of the evil eye received his death at the hand of
 Lug, who thereupon is accorded the sovereignty of the Tuatha dé Danann
-on the death of Nuada their king. <span id="fr_195"></span>[2](#fn_194)
+on the death of Nuada their king. <span id="fr_195"></span>[2](#fn_194.md)
 In the effort at filling up pre-Christian history, the Annalists of
 course make him figure as king in Ireland. I agree with M. D’Arbois in
 regarding Lug, in his continental aspects, as having been chief among
 the gods of Gaul, the god whom Caesar identified with Mercury: *Deum
-maxime Mercurium colunt*. <span id="fr_196"></span>[3](#fn_195) The
+maxime Mercurium colunt*. <span id="fr_196"></span>[3](#fn_195.md) The
 Mercury of the *menhir* of Kervadel, now preserved at Kernuz, D’Arbois
 identifies with Lug, while he recalls the exploit of Cuchulainn's youth
 when, on having slain the hound of Culann the Smith, he offered
@@ -1242,30 +1242,30 @@ another.
 
 ### Footnotes
 
-<span id="fn_152"></span>[119:1](sbc06.htm#fr_152) For his Midas-like
+<span id="fn_152"></span>[119:1](sbc06.htm#fr_152.md) For his Midas-like
 story see *Y Cymmrodor*, 6, 181-3; cf. for Breton, *Rev. Celt*. ii.
 507-8, *re* le Roi de Portzmarch.
 
-<span id="fn_153"></span>[120:1](sbc06.htm#fr_153) *Gum bu sheatha*
+<span id="fn_153"></span>[120:1](sbc06.htm#fr_153.md) *Gum bu sheatha*
 (spelling doubtful) *duit fein* = 'happy, lucky, may you be.' \[Probably
 *sheagha*; cf. Irish *seaghais*, 'pleasure, joy, delight'—G. H.\]
 *Shèamha* would be possible, only the *e* has no nasality.
 
-<span id="fn_154"></span>[120:2](sbc06.htm#fr_154) *Ma bhrathas tu*,
+<span id="fn_154"></span>[120:2](sbc06.htm#fr_154.md) *Ma bhrathas tu*,
 etc. = 'If you locate, discover.'
 
-<span id="fn_155"></span>[121:1](sbc06.htm#fr_155) O’Curry's *Manners
+<span id="fn_155"></span>[121:1](sbc06.htm#fr_155.md) O’Curry's *Manners
 and Customs*, I. ccclxx.
 
-<span id="fn_156"></span>[121:2](sbc06.htm#fr_156) Gordon-Cumming's
+<span id="fn_156"></span>[121:2](sbc06.htm#fr_156.md) Gordon-Cumming's
 *Hebrides*, 369; transformation into the shape of a wild goose was known
 in some parts of Wales (Trevelyan, 214); cf. *Trans. Gad. Soc. Inv.* 25,
 132 for witch in hen-form.
 
-<span id="fn_157"></span>[125:1](sbc06.htm#fr_157) *Glasgow Herald*,
+<span id="fn_157"></span>[125:1](sbc06.htm#fr_157.md) *Glasgow Herald*,
 Aug. 20, 1910, by the late Alex. Macpherson, Kingussie.
 
-<span id="fn_158"></span>[126:1](sbc06.htm#fr_158) The doe is some fair
+<span id="fn_158"></span>[126:1](sbc06.htm#fr_158.md) The doe is some fair
 lady bound by enchantment, but able, for a short time only, to appear to
 her lover in her natural figure. The enchanter in this instance permits
 her offspring to assume the human form. Bran was the daughter of Fionn
@@ -1274,52 +1274,52 @@ his spells over her as well as over her mother. Oisin was half-brother
 to Bran, who, instinctively, found out the relationship when the hounds
 seized Oisin.
 
-<span id="fn_159"></span>[128:1](sbc06.htm#fr_159) Pp. 221-224 of *Poems
+<span id="fn_159"></span>[128:1](sbc06.htm#fr_159.md) Pp. 221-224 of *Poems
 of Oisin, Bard of Erin*. From the Irish by John Hawkins Simpson. London,
 1857. The section cited comes under the heading of 'Mayo Mythology.'
 
-<span id="fn_160"></span>[128:2](sbc06.htm#fr_160) *Campbell of Islay
+<span id="fn_160"></span>[128:2](sbc06.htm#fr_160.md) *Campbell of Islay
 MSS*., Advocates’ Library, vol. xxii. p. 8.
 
-<span id="fn_161"></span>[129:1](sbc06.htm#fr_161) *v*. MacBain's 'Study
+<span id="fn_161"></span>[129:1](sbc06.htm#fr_161.md) *v*. MacBain's 'Study
 of Highland Personal Names,' *The Celtic Review*, 1905, p. 71; and
 *Trans. Gael. Soc. Inverness*, vol. xx. 304-305.
 
-<span id="fn_162"></span>[130:1](sbc06.htm#fr_162) O’Grady's *Silva
+<span id="fn_162"></span>[130:1](sbc06.htm#fr_162.md) O’Grady's *Silva
 Gad*. p. 102 of the Eng. vol.
 
-<span id="fn_163"></span>[130:2](sbc06.htm#fr_163) *Ib*. 225; also
+<span id="fn_163"></span>[130:2](sbc06.htm#fr_163.md) *Ib*. 225; also
 *Irische Texte*, 4 ser. I heft, p. 140.
 
-<span id="fn_164"></span>[131:1](sbc06.htm#fr_164) Frazer's *Golden
+<span id="fn_164"></span>[131:1](sbc06.htm#fr_164.md) Frazer's *Golden
 Bough*, 1st ed. vol. ii. 363.
 
-<span id="fn_165"></span>[131:2](sbc06.htm#fr_165) Camden's *Britannia*,
+<span id="fn_165"></span>[131:2](sbc06.htm#fr_165.md) Camden's *Britannia*,
 by Gough, ii. 81.
 
-<span id="fn_166"></span>[131:3](sbc06.htm#fr_166) References in Gomme's
+<span id="fn_166"></span>[131:3](sbc06.htm#fr_166.md) References in Gomme's
 *Governance of London*, p. 112.
 
-<span id="fn_167"></span>[132:1](sbc06.htm#fr_167) Karl Pearson's
+<span id="fn_167"></span>[132:1](sbc06.htm#fr_167.md) Karl Pearson's
 *Chances of Death*, ii. 19; in vol. ii. 64 n. he adds: "There are a
 considerable number of local saints,—fossils of district goddesses,—who
 have the roe or stag as their attribute." On the Cult of the Stag, cf.
 *Journal of Hellenic Studies*, 14, 134.
 
-<span id="fn_168"></span>[132:2](sbc06.htm#fr_168)  P. 185 of *Sermons
+<span id="fn_168"></span>[132:2](sbc06.htm#fr_168.md)  P. 185 of *Sermons
 of a Buddhist Abbot*, by Soyer Shaku (Chicago Open Court Publishing
 Co.).
 
-<span id="fn_169"></span>[133:1](sbc06.htm#fr_169) Windisch's ed., l.
+<span id="fn_169"></span>[133:1](sbc06.htm#fr_169.md) Windisch's ed., l.
 6162; and Hull, p. 225.
 
-<span id="fn_170"></span>[133:2](sbc06.htm#fr_170) Faraday, Translation
+<span id="fn_170"></span>[133:2](sbc06.htm#fr_170.md) Faraday, Translation
 of *Tāin*, ix.
 
-<span id="fn_171"></span>[133:3](sbc06.htm#fr_171) Nutt's *Bran*, ii.
+<span id="fn_171"></span>[133:3](sbc06.htm#fr_171.md) Nutt's *Bran*, ii.
 58.
 
-<span id="fn_172"></span>[134:1](sbc06.htm#fr_172) The word rhymes with
+<span id="fn_172"></span>[134:1](sbc06.htm#fr_172.md) The word rhymes with
 *oighre*, but might be spelt *boidhbhre*, as if from bo + od + ber, with
 meaning of cow-giver, cow-bestowing. Different is *boirche*, 'a large
 hind,' O’Brien's *Irish Dictionary*, 1832; others give it as 'buffalo,'
@@ -1331,39 +1331,39 @@ bull.' A writer in an extinct Highland periodical writes *tarbh fhaire*
 would tend to change initial *b* into *bh* in a rare word like
 *boibhre*.
 
-<span id="fn_173"></span>[138:1](sbc06.htm#fr_173) In those days ploughs
+<span id="fn_173"></span>[138:1](sbc06.htm#fr_173.md) In those days ploughs
 were almost always made of wood.
 
-<span id="fn_174"></span>[140:1](sbc06.htm#fr_174) *Tarbh a
+<span id="fn_174"></span>[140:1](sbc06.htm#fr_174.md) *Tarbh a
 nathar-neimhe* (sic) .i. *cuileag mhór no gobhlachan mór riabhach donn;
 fad do lùdaig ann’s e glé dhona air son bhith toirt full a na h-eich*.
 
-<span id="fn_175"></span>[141:1](sbc06.htm#fr_175) Tha’n t-each uisge
+<span id="fn_175"></span>[141:1](sbc06.htm#fr_175.md) Tha’n t-each uisge
 coltach ri duine; ’na bhodach coltach ri creutair is riobanan no
 luideagan air; chan fhaic a h-uile neach e agus is e comharradh romh
 bhàthadh a th’ann.
 
-<span id="fn_176"></span>[141:2](sbc06.htm#fr_176) *Rev. Cel*. 12, 347.
+<span id="fn_176"></span>[141:2](sbc06.htm#fr_176.md) *Rev. Cel*. 12, 347.
 
-<span id="fn_177"></span>[145:1](sbc06.htm#fr_178) *Book of The Twelve
+<span id="fn_177"></span>[145:1](sbc06.htm#fr_178.md) *Book of The Twelve
 Prophets*, vol. ii. 65.
 
-<span id="fn_178"></span>[149:1](sbc06.htm#fr_179) The name is the same
+<span id="fn_178"></span>[149:1](sbc06.htm#fr_179.md) The name is the same
 as in the goddess name Ness, mother of Conchobar; proto-Celtic \*nesta,
 √*ned*, wet, water; German, *netzen*, to wet; *nass*, wet; Sanskrit,
 *nadi*, river; cf. the river Neda in Greece, Nestos in Thrace. MacBain
 in *Trans. Gael. Soc., Inverness*, 25, p. 62.
 
-<span id="fn_179"></span>[150:1](sbc06.htm#fr_180) *Esquisse de la
+<span id="fn_179"></span>[150:1](sbc06.htm#fr_180.md) *Esquisse de la
 Religion des Gaulois*, par H. Gaidoz, Paris, 1879, p. 12. Even Cicero
 reasons: "ergo et flumines et fontes sunt dii" (*De Nat. Deorum*, iii.
 20).
 
-<span id="fn_180"></span>[151:1](sbc06.htm#fr_181) Cf. Mackenzie in
+<span id="fn_180"></span>[151:1](sbc06.htm#fr_181.md) Cf. Mackenzie in
 *Proceed. of Society of Scottish Antiquaries*, 1895-96, pp. 69-76, on
 'Traces of River Worship in Scottish Folk-Lore.'
 
-<span id="fn_181"></span>[153:1](sbc06.htm#fr_182) This signifies the
+<span id="fn_181"></span>[153:1](sbc06.htm#fr_182.md) This signifies the
 presence of divinity or of inspiration in the votary. In the early cult
 of sacred trees and pillars, birds of various kinds play an important
 part: the spirit descends on the tree or stone in the form of a bird. In
@@ -1374,50 +1374,50 @@ Lombards ornamenting their grave-posts with the effigy of a dove." It is
 the dove that bears the nectar to Zeus (*Ody*. xii. 62, 63); *v*.
 Harrison's *The Dove Cult of Primitive Greece*, p. 7.
 
-<span id="fn_182"></span>[154:1](sbc06.htm#fr_183) 'Celtic Inscriptions
+<span id="fn_182"></span>[154:1](sbc06.htm#fr_183.md) 'Celtic Inscriptions
 of France and Italy,' from *Proceedings of the British Academy*:
 reviewed by me in *The Scottish Historical Review*, July, 1908.
 
-<span id="fn_183"></span>[155:1](sbc06.htm#fr_184) v. *Sitzungsberichte*
+<span id="fn_183"></span>[155:1](sbc06.htm#fr_184.md) v. *Sitzungsberichte*
 of Berlin Academy, 16th April, 1896.
 
-<span id="fn_184"></span>[157:1](sbc06.htm#fr_185) Cumont, *The
+<span id="fn_184"></span>[157:1](sbc06.htm#fr_185.md) Cumont, *The
 Mysteries of Mithra*, Eng. trans., Chicago, 1903, pp. 135-6.
 
-<span id="fn_185"></span>[157:2](sbc06.htm#fr_186) *Archiv für Celtische
+<span id="fn_185"></span>[157:2](sbc06.htm#fr_186.md) *Archiv für Celtische
 Phil*. ii. B. p. 310.
 
-<span id="fn_186"></span>[157:3](sbc06.htm#fr_187) *R.C*. 27,
+<span id="fn_186"></span>[157:3](sbc06.htm#fr_187.md) *R.C*. 27,
 329<sup>n</sup>.
 
-<span id="fn_187"></span>[158:1](sbc06.htm#fr_188) A. B. Cook in
+<span id="fn_187"></span>[158:1](sbc06.htm#fr_188.md) A. B. Cook in
 *Classical Review*, xvii. (1903), pp. 410, 412.
 
-<span id="fn_188"></span>[158:2](sbc06.htm#fr_189) *Prolegomena to Greek
+<span id="fn_188"></span>[158:2](sbc06.htm#fr_189.md) *Prolegomena to Greek
 Religion*, p. 537.
 
-<span id="fn_189"></span>[158:3](sbc06.htm#fr_190) Frazer, *On the
+<span id="fn_189"></span>[158:3](sbc06.htm#fr_190.md) Frazer, *On the
 Kingship*, 174-5.
 
-<span id="fn_190"></span>[159:1](sbc06.htm#fr_191) v. Gilbert Murray,
+<span id="fn_190"></span>[159:1](sbc06.htm#fr_191.md) v. Gilbert Murray,
 *The Rise of the Greek Epic*, p. 127<sup>n</sup>; and cf. *The
 Pilgrimage to Loch Derg*.
 
-<span id="fn_191"></span>[159:2](sbc06.htm#fr_192) *Táin bó Cúalnge*,
+<span id="fn_191"></span>[159:2](sbc06.htm#fr_192.md) *Táin bó Cúalnge*,
 ed. Windisch, pp. 190-1, ll. 1532-1536.
 
-<span id="fn_192"></span>[159:3](sbc06.htm#fr_193) *Ib*. p. 82, etc.;
+<span id="fn_192"></span>[159:3](sbc06.htm#fr_193.md) *Ib*. p. 82, etc.;
 also p. 68; Hull's *Cuch. Saga*, p. 128, sec. 8.
 
-<span id="fn_193"></span>[160:1](sbc06.htm#fr_194) Transl. by Stokes,
+<span id="fn_193"></span>[160:1](sbc06.htm#fr_194.md) Transl. by Stokes,
 *Rev. Celt*. 12.
 
-<span id="fn_194"></span>[160:2](sbc06.htm#fr_195) *Book of Leinster*,
+<span id="fn_194"></span>[160:2](sbc06.htm#fr_195.md) *Book of Leinster*,
 p. 9, col. 1, ll. 5-7.
 
-<span id="fn_195"></span>[160:3](sbc06.htm#fr_196) *De Bello Gallico*,
+<span id="fn_195"></span>[160:3](sbc06.htm#fr_196.md) *De Bello Gallico*,
 vi. 17.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Wanderings of Psyche (part 3)](sbc07)
+[Next: II. The Wanderings of Psyche (part 3)](sbc07.md)

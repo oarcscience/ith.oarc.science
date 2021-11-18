@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,8 +31,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](abs00)    [Page
-Index](pageidx)    [Text \[Zipped\]](abs.txt.gz)
+[Contents](#contents)    [Start Reading](abs00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](abs.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Index](pageidx)    [Text \[Zipped\]](abs.txt.gz)
 
 One day this fall, my sister-in-law visited me. We were exploring the
 Santa Cruz mountains when we stumbled on the [Bigfoot
-Museum](https://bigfootdiscoveryproject.com/), a little two-room tourist
+Museum](https://bigfootdiscoveryproject.com/.md), a little two-room tourist
 attraction in downtown Boulder Creek. We were being regaled by the
 proprietor with his tales of encounters with Bigfoot. I noticed this
 book on his shelf and asked him about it. "Oh, that's the Bigfoot
@@ -55,7 +55,7 @@ searching for rare and 'exotic' species in Africa and the Caribbean.
 Born in Scotland, Sanderson later became a US citizen. He was schooled
 at Eton and Cambridge, with degrees in zoology, botany and geology, so
 he was hardly an outsider to the field. He admired the works of [Charles
-Fort](../../fort/index) and coined the word cryptozoology in the early
+Fort](../../fort/index.md) and coined the word cryptozoology in the early
 1940s to describe the study of unknown animals. Sanderson could be
 skeptical, though, as befits a Fortean. His speculations on unknown
 primates were informed by critical thinking and his years of observation
@@ -78,43 +78,43 @@ November 17, 2008.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](abs00)  
-[Dedication](abs01)  
-[Foreword](abs02)  
-[Contents](abs03)  
-[Plates](abs04)  
-[1. A Certain Unpleasantness](abs05)  
-[2. Ubiquitous Woodsmen](abs06)  
-[3. Further Sasquatchery](abs07)  
-[4. The Appearance of Bigfeet](abs08)  
-[5. Footprints on the Sands of …](abs09)  
-[6. In Our Own Back Yard](abs10)  
-[7. Late North Americans](abs11)  
-[8. On the Tracks of …](abs12)  
-[9. Africa—the “Darkest”](abs13)  
-[10. The East—the “Mysterious”](abs14)  
-[11. The Great Mix-Up](abs15)  
-[12. Anyone for Everest?](abs16)  
-[13. The Western Approaches](abs17)  
-[14. The Eastern Horizon](abs18)  
-[15. Some Obnoxious Items](abs19)  
-[16. Our Revered Ancestors](abs20)  
-[17. In the Beginning …](abs21)  
-[18. Some Basic Facts](abs22)  
-[19. Sundry Objectionable Facts](abs23)  
-[20. Certain Abominable Conclusions](abs24)  
+<span id="contents"></span> [Title Page](abs00.md)  
+[Dedication](abs01.md)  
+[Foreword](abs02.md)  
+[Contents](abs03.md)  
+[Plates](abs04.md)  
+[1. A Certain Unpleasantness](abs05.md)  
+[2. Ubiquitous Woodsmen](abs06.md)  
+[3. Further Sasquatchery](abs07.md)  
+[4. The Appearance of Bigfeet](abs08.md)  
+[5. Footprints on the Sands of …](abs09.md)  
+[6. In Our Own Back Yard](abs10.md)  
+[7. Late North Americans](abs11.md)  
+[8. On the Tracks of …](abs12.md)  
+[9. Africa—the “Darkest”](abs13.md)  
+[10. The East—the “Mysterious”](abs14.md)  
+[11. The Great Mix-Up](abs15.md)  
+[12. Anyone for Everest?](abs16.md)  
+[13. The Western Approaches](abs17.md)  
+[14. The Eastern Horizon](abs18.md)  
+[15. Some Obnoxious Items](abs19.md)  
+[16. Our Revered Ancestors](abs20.md)  
+[17. In the Beginning …](abs21.md)  
+[18. Some Basic Facts](abs22.md)  
+[19. Sundry Objectionable Facts](abs23.md)  
+[20. Certain Abominable Conclusions](abs24.md)  
 <span id="section_000"></span>
 
 ### Appendices
 
-[Contents of Appendices](abs25)  
-[Appendix A. ABSMal Connotations](abs26)  
-[Appendix B. The Importance of Feet](abs27)  
-[Appendix C. Where We Come In](abs28)  
-[Appendix D. Others Involved](abs29)  
+[Contents of Appendices](abs25.md)  
+[Appendix A. ABSMal Connotations](abs26.md)  
+[Appendix B. The Importance of Feet](abs27.md)  
+[Appendix C. Where We Come In](abs28.md)  
+[Appendix D. Others Involved](abs29.md)  
 [Appendix E. Sir Edmund Hillary's Scalp—A News Story from
-Nepal](abs30)  
+Nepal](abs30.md)  
 
  
 
-[Bibliography](abs31)  
+[Bibliography](abs31.md)  

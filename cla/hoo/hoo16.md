@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo15)  [Next](hoo17) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo15)  [Next](hoo17.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,12 +26,12 @@ Whose arm can chase the savage tribes away:
 
 Uweary'd, earth's best blossom, offspring fair,  
 To whom calm peace, and peaceful works are dear.  <span
-id="fr_68"></span>[13](#fn_68)
+id="fr_68"></span>[13](#fn_68.md)
 
 <span id="page_135">p. 135</span>
 
 Self-born, with primogenial fires you shine, 15  <span
-id="fr_69"></span>[15](#fn_69)  
+id="fr_69"></span>[15](#fn_69.md)  
 And various names and strength of heart are thine.  
 Thy mighty head supports the morning light,  
 And bears untam'd, the silent gloomy night;  
@@ -53,7 +53,7 @@ Dismiss thy darts and noxious fate disarm.
 
 ### Footnotes
 
-<span id="fn_68"></span>[134:13](hoo16.htm#fr_68) Ver. 13\] *Earth's
+<span id="fn_68"></span>[134:13](hoo16.htm#fr_68.md) Ver. 13\] *Earth's
 best blossom*. Since, according to the Orphic theology, there are two
 worlds, the intelligible and the sensible, the former of which is the
 source of the latter; so, according to the same theology, the first
@@ -87,7 +87,7 @@ we shall find that Saturn in the following hymn is called "blossom of
 the earth;" and Themis, in Hymn 78, "young blossom of the earth;" and
 the Titans, in Hymn 36, "the illustrious progeny of heaven and earth."
 
-<span id="fn_69"></span>[135:15](hoo16.htm#fr_69) Ver. 15.\] *With
+<span id="fn_69"></span>[135:15](hoo16.htm#fr_69.md) Ver. 15.\] *With
 primogenial fires you shine*. Since the intelligible world, which, as we
 have already observed, was produced from Æther and Chaos, is nothing
 else than the comprehension of all the demiurgic ideas in the divine
@@ -110,4 +110,4 @@ following Hymn, τιτὰν i.e. Titan, or the Sun.
 
 ------------------------------------------------------------------------
 
-[Next: XII: To Saturn](hoo17)
+[Next: XII: To Saturn](hoo17.md)

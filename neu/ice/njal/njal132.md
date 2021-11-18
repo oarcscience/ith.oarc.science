@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal131)  [Next](njal133) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal131)  [Next](njal133.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ ended."
 
 ------------------------------------------------------------------------
 
-[Next: 133. Of Flosi's Journey And His Asking For Help](njal133)
+[Next: 133. Of Flosi's Journey And His Asking For Help](njal133.md)

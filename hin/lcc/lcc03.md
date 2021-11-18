@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc02)  [Next](lcc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc02)  [Next](lcc04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ at Intangible Textual Heritage
 ### PREFACE
 
 THE text chosen as the basis of this translation is that given in the
-edition of Parab, <span id="fr_0"></span>[1](#fn_0) and I have chosen it
+edition of Parab, <span id="fr_0"></span>[1](#fn_0.md) and I have chosen it
 for the following reasons. Parab's edition is the most recent, and its
 editor is a most admirable Sanskrit scholar, who, it seems to me, has in
 several places understood the real meaning of the text better than his
@@ -44,7 +44,7 @@ edition of Parab. In these references, the letter P. stands for Parab,
 the letter S. for Stenzler.
 
 There are a few passages in which I have deviated from Parab's text. A
-list of such passages is given on page [177](lcc18.htm#page_177). From
+list of such passages is given on page [177](lcc18.htm#page_177.md). From
 this list
 
 <span id="page_xii">p. xii</span>
@@ -97,11 +97,11 @@ May 23, 1905*
 
 ### Footnotes
 
-<span id="fn_0"></span>[xi:1](lcc03.htm#fr_0) The Mṛichchhakaṭika of
+<span id="fn_0"></span>[xi:1](lcc03.htm#fr_0.md) The Mṛichchhakaṭika of
 Śūdraka with the commentary of Pṛithvīdhara. Edited by Kāshināth
 Pāṇḍurang Parab. Bombay: Nirṇaya-Sāgar Press. 1900. Price 1 Rupee. It
 may be had of O. Harrassowitz in Leipzig for 2½ Marks.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](lcc04)
+[Next: Introduction](lcc04.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos33)  [Next](kos35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos33)  [Next](kos35.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ the Gates of brass, and- smitten the bars of iron in sunder.'
 
 ------------------------------------------------------------------------
 
-[Next: Plate XII](kos35)
+[Next: Plate XII](kos35.md)

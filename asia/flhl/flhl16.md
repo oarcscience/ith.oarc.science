@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl15)  [Next](flhl17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl15)  [Next](flhl17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Hanauer \[1907\], at Intangible Textual Heritage
 
 ### II
 
-#### TURBET BIRKET MAMILLA <span id="fr_39"></span>[1](#fn_39)
+#### TURBET BIRKET MAMILLA <span id="fr_39"></span>[1](#fn_39.md)
 
 THE most conspicuous object in this cemetery is a small domed building
 marking the grave of the Amìr Ala ed din ’Aidi Ghadi ibn ’Abdallah el
@@ -31,7 +31,7 @@ statements of the above-mentioned inscription.
 One affirms that the Amìr here buried was a black man of gigantic
 strength, who, on one occasion, when fighting the Christians, cleft his
 opponent in twain, with a single blow, from the crest of his helmet
-downwards. <span id="fr_40"></span>[2](#fn_40) The other declares the
+downwards. <span id="fr_40"></span>[2](#fn_40.md) The other declares the
 mausoleum to be that of the person in whose charge Saladin left
 Jerusalem after wresting it from the Crusaders in 1187 A.D. The date of
 the inscription suggests the time of Beybars.
@@ -82,7 +82,7 @@ solved his difficulty by obliging him to follow his asses on foot.
 
 On his father's death, Johha inherited the family property, a small
 house. Being in need of money, he managed to raise it by selling the
-building all but one kirât, <span id="fr_41"></span>[1](#fn_41) which he
+building all but one kirât, <span id="fr_41"></span>[1](#fn_41.md) which he
 refused to part with; and, in order to mark that portion of the property
 which he was resolved to retain, he drove a tent-peg into the wall,
 having stipulated with the purchasers that that part of the edifice was
@@ -158,7 +158,7 @@ shepherd seemed astonished at that, observing that he himself was fond
 of sugar. Johha then proposed that he should take his place. The
 simpleton, in the hope of sugar, consented, and after they had exchanged
 clothes, and the shepherd had taught the buffoon his special
-sheep-call, <span id="fr_42"></span>[1](#fn_42) the former let himself
+sheep-call, <span id="fr_42"></span>[1](#fn_42.md) the former let himself
 be bound to the tree, whilst Johha promised to take charge of the flock,
 lead it to a certain cave, and there await the shepherd's return. He
 felt sure that the man would be allowed to go his way when it was
@@ -194,19 +194,19 @@ village soon afterwards, and were never seen again.
 
 ### Footnotes
 
-<span id="fn_39"></span>[83:1](flhl16.htm#fr_39) Cemetery of the Pool of
+<span id="fn_39"></span>[83:1](flhl16.htm#fr_39.md) Cemetery of the Pool of
 Mamilla.
 
-<span id="fn_40"></span>[83:2](flhl16.htm#fr_40) A feat said to have
+<span id="fn_40"></span>[83:2](flhl16.htm#fr_40.md) A feat said to have
 been performed by Godfrey de Bouillon, leader of the first Crusade.
 
-<span id="fn_41"></span>[85:1](flhl16.htm#fr_41) The twenty-fourth part
+<span id="fn_41"></span>[85:1](flhl16.htm#fr_41.md) The twenty-fourth part
 of anything.
 
-<span id="fn_42"></span>[88:1](flhl16.htm#fr_42) "A stranger they will
+<span id="fn_42"></span>[88:1](flhl16.htm#fr_42.md) "A stranger they will
 not follow, but will flee from him; for they know not the voice of
 strangers" (St John x. 6).
 
 ------------------------------------------------------------------------
 
-[Next: III. En Nebi Daûd](flhl17)
+[Next: III. En Nebi Daûd](flhl17.md)

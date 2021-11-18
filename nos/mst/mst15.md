@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -798,7 +798,7 @@ human action. Such a revival has been seen in Germany, and Hitler's
 belief in his relationship to the figures in Wagnerian drama is well
 known to all readers of magazines and newspapers today. The left hand
 meant in the prophet's day, not Communism but peace or
-[pacifism](errata.htm#14). This verse, from a man of peace, is a
+[pacifism](errata.htm#14.md). This verse, from a man of peace, is a
 powerful indictment of the prewar policy of his country.
 
 Interesting is the phraseology of a *New York Times* editorial (June 22,
@@ -1238,7 +1238,7 @@ The treacherous, pre-eminent one will read his book to the country.
 
 </div>
 
-Probably no one will [need](errata.htm#15) to have it pointed out that
+Probably no one will [need](errata.htm#15.md) to have it pointed out that
 the dramatis personae of this verse are Hitler, France and *Mein Kamp*f.
 
 <span id="page_370">p. 370</span>
@@ -1819,7 +1819,7 @@ races."
 
 If 1944, as previously analyzed from the number of verses and Centuries
 (this author may possibly be alone in seeing such a connection;
-certainly the first to say so), it [constitutes](errata.htm#16)
+certainly the first to say so), it [constitutes](errata.htm#16.md)
 Nostradamus’ date for the beginning of "France Second," over which the
 new and great Henry V is to rule.
 

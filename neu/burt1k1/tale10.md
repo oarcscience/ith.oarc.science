@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale09)  [Next](tale11) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale09)  [Next](tale11.md) 
 
 ------------------------------------------------------------------------
 
@@ -1820,4 +1820,4 @@ him a concubine from amongst his own slave girls, and the young man
 became one of his cup companions.
 
 (*Next*) [THE CITY OF MANY-COLUMNED IRAM AND ABDULLAH SON OF ABI
-KILABAH](tale11)  
+KILABAH](tale11.md)  

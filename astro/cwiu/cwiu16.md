@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu15)  [Next](cwiu17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu15)  [Next](cwiu17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -296,7 +296,7 @@ central position of the earth is the lowest possible; only Hell is
 astronomy, fixed stars possess a visible and even measurable diameter.
 Since, on the other hand, they are rather far away from us and in the
 Copernican conception even exceedingly far (cf. *infra*, pp.
-[92](cwiu07.htm#page_92)-9), their real dimensions must be extremely
+[92](cwiu07.htm#page_92)-9.md), their real dimensions must be extremely
 large.
 
 <span id="page_282">p. 282</span>
@@ -323,7 +323,7 @@ class="smallcaps">i</span>, cap. <span class="smallcaps">x</span>.
 the world*, London, 1652, pp. 93 sq.; cf. Bethell, *op. cit.*, pp. 46
 sq.
 
-<span id="an_2_14">14</span>. Cf. *infra*, [p. 94](cwiu07.htm#page_94).
+<span id="an_2_14">14</span>. Cf. *infra*, [p. 94](cwiu07.htm#page_94.md).
 
 <span id="an_2_15">15</span>. Giordano Bruno understands them as
 teaching the infinity of the universe. I have already examined the case
@@ -348,7 +348,7 @@ Johnson-Larkey, pp. 88 sq.; Johnson, pp. 165-167.
 <span id="an_2_19">19</span>. A. O. Lovejoy, *op. cit.*, p. 116.
 Giordano Bruno was born in Nola (near Naples) in 1548, became a
 Dominican in 1566, but, ten years later in 1576, on account of some
-rather heretical views held by him on [transubstantiation](errata.htm#7)
+rather heretical views held by him on [transubstantiation](errata.htm#7.md)
 and the Immaculate Conception, had to leave both the order and Italy. In
 1579 he came to Geneva (where he could not stay), then to Toulouse, and
 to Paris (1581) where he lectured on the logical system of Raymundus
@@ -430,7 +430,7 @@ class="smallcaps">i</span>, v. 968 sq.), but it was already widely used
 in the discussions of the XIII-XIVth centuries about the plurality of
 the worlds and the possibility of the void (cf. my paper quoted in chap.
 in, 40) and will be used by Henry More (cf. *infra*, [p.
-139](cwiu09.htm#page_139)) and even by Locke
+139](cwiu09.htm#page_139).md) and even by Locke
 
 <span id="page_284">p. 284</span>
 
@@ -659,7 +659,7 @@ Kepler, *Gesammelte Werke*, vol. <span class="smallcaps">iv</span>, p.
 
 <span id="an_3_25">25</span>. The fixed stars, as seen by a Galilean
 telescope, do not appear as light-points; they still have visible
-dimensions; cf. *supra*, [p. 191](cwiu11.htm#page_191).
+dimensions; cf. *supra*, [p. 191](cwiu11.htm#page_191.md).
 
 <span id="an_3_26">26</span>. *Epitome astronomiae Copernicanae*, liber
 <span class="smallcaps">i</span>, pars <span
@@ -710,7 +710,7 @@ Venetiis, 1610; there is an English translation by E. S. Carlos, *The
 sidereal messenger*, London, 1880. Large parts of this translation are
 reprinted in Harlow Shapley and Helen E. Howarth, *A source book in
 astronomy*, New York, 1929. Though not using this translation I refer to
-it whenever possible. The [expression](errata.htm#8) *Sidereus Nuncius*
+it whenever possible. The [expression](errata.htm#8.md) *Sidereus Nuncius*
 was used by Galileo as meaning: the *message* of the stars. Yet Kepler
 understood it as meaning: the messenger of stars. This mistranslation
 became generally accepted and was corrected only in the recent edition
@@ -1144,7 +1144,7 @@ class="smallcaps">ii</span>, 13, 32.
 <span id="an_7_19">19</span>. *Ibid*., p. 8.
 
 <span id="an_7_20">20</span>. His pupil, Dr. Clarke, will indeed do it;
-cf. *infra*, [p. 275](cwiu15.htm#page_275).
+cf. *infra*, [p. 275](cwiu15.htm#page_275.md).
 
 <span id="an_7_21">21</span>. *Ibid*., p. 9.
 
@@ -1268,8 +1268,8 @@ above-mentioned appendices, appeared in 1697.
 <span id="an_8_3">3</span>. *De ente infinito*, cap. <span
 class="smallcaps">iv</span>, p. 67.
 
-<span id="an_8_4">4</span>. Cf. *infra*, pp. [193](cwiu11.htm#page_193),
-[196](cwiu11.htm#page_196).
+<span id="an_8_4">4</span>. Cf. *infra*, pp. [193](cwiu11.htm#page_193.md),
+[196](cwiu11.htm#page_196.md).
 
 <span id="an_8_5">5</span>. *De ente infinito*, cap. <span
 class="smallcaps">iv</span>, pp. 57 sq.
@@ -1593,10 +1593,10 @@ assisted him in preparing an historical preface which reviewed the whole
 affair."
 
 <span id="an_11_4">4</span>. Cf. *supra*, pp.
-[181](cwiu10.htm#page_181)-89.
+[181](cwiu10.htm#page_181.md)-89.
 
 <span id="an_11_4a">4a</span>. As a matter of fact (cf. *supra*, [p.
-209](cwiu12.htm#page_209)) Newton, at least once, identified space with
+209](cwiu12.htm#page_209).md) Newton, at least once, identified space with
 God's *sensorium*.
 
 <span id="an_11_5">5</span>. "Dr. Clarke's first reply," *A collection
@@ -1681,7 +1681,7 @@ pp. 115 sq.
 in his fifth paper, n. 48: "To conclude. If the space (which the author
 fancies) void of bodies is not altogether empty: what is it then full
 of? Is it full of extended spirits perhaps, or immaterial
-[substances](errata.htm#9), capable of extending and contracting of
+[substances](errata.htm#9.md), capable of extending and contracting of
 themselves; which move therein and penetrate each other without any
 inconveniency, as the shadows of two bodies penetrate one
 
@@ -1780,4 +1780,4 @@ not, branded as "arbitrariness."
 
 ------------------------------------------------------------------------
 
-[Next: Index](cwiu17)
+[Next: Index](cwiu17.md)

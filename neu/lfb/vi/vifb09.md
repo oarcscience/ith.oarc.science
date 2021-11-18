@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb08)  [Next](vifb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb08)  [Next](vifb10.md) 
 
 </div>
 
@@ -408,6 +408,6 @@ many years.
 
 ------------------------------------------------------------------------
 
-[Next: The Lute Player](vifb10)
+[Next: The Lute Player](vifb10.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu22)  [Next](cbu24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu22)  [Next](cbu24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -205,7 +205,7 @@ He then said to Ananda:—"You and I are akin by birth. We are thus caused
 by heaven to love each other. You formerly felt a desire to follow my
 teaching. What beautiful appearance was it which led you to forsake the
 world's deep love?" Ananda replied: "I saw the thirty-two beauties of
-Tathâgata. <span id="fr_116"></span>[1](#fn_116) They are inexpressibly
+Tathâgata. <span id="fr_116"></span>[1](#fn_116.md) They are inexpressibly
 lovely, and the bodily form to which they belong is transparent as
 crystal. I reflected that such a form cannot be produced by earthly
 love. Because the bodily desires are
@@ -285,7 +285,7 @@ this hall. This house is in the garden of Anáthapindika. And assuredly
 the grove is outside of the house." Buddha again inquired: "In this
 house what do you first see?" Ananda replied: "I first see Tathâgata,
 then the audience, and farther off the trees and the garden." Buddha
-continued: "In [looking](errata.htm#2)
+continued: "In [looking](errata.htm#2.md)
 
 <span id="page_296">p. 296</span>
 
@@ -496,9 +496,9 @@ that "feel" (*ts‘ing*).
 
 ### Footnotes
 
-<span id="fn_116"></span>[293:1](cbu23.htm#fr_116) "Tathâgata," an
+<span id="fn_116"></span>[293:1](cbu23.htm#fr_116.md) "Tathâgata," an
 appellation of Buddha, is, in Chinese, *Ju-lai*, "Calmly approaching.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. The Ekashloka Shastra](cbu24)
+[Next: Chapter XIX. The Ekashloka Shastra](cbu24.md)

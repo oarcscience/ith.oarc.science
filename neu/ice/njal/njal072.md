@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal071)  [Next](njal073) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal071)  [Next](njal073.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ inquest.
 
 ------------------------------------------------------------------------
 
-[Next: 73. Of The Atonement](njal073)
+[Next: 73. Of The Atonement](njal073.md)

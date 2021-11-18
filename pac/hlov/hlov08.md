@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov07)  [Next](hlov09) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov07)  [Next](hlov09.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ volcano Kilauea.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Hills of Pele](hlov09)
+[Next: IV. The Hills of Pele](hlov09.md)

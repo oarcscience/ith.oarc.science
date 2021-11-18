@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda08)  [Next](nda10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda08)  [Next](nda10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ through an
 
 <span id="img_10300"></span> <span align="CENTER"> [![LETTER OF POPE
 INNOCENT III TO NORWAY BISHOPS.](tn/10300.jpg)  
-Click to enlarge](img/10300.jpg)  
+Click to enlarge](img/10300.jpg.md)  
 LETTER OF POPE INNOCENT III TO NORWAY BISHOPS.  
 </span>
 
@@ -208,4 +208,4 @@ visitors belonged.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Notices of Doubtful Value; Fictions](nda10)
+[Next: Chapter VI. Notices of Doubtful Value; Fictions](nda10.md)

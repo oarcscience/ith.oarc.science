@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic17)  [Next](tic19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic17)  [Next](tic19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ they can be compared.
 
 2\. These graces differ entirely from anything we ourselves can gain,
 and even from the spiritual consolation before described. <span
-id="fr_227"></span>[1](#fn_227) In the present case, even when the mind
+id="fr_227"></span>[1](#fn_227.md) In the present case, even when the mind
 is not recollected or even thinking of God, although no sound is heard,
 His
 
@@ -49,7 +49,7 @@ His
 
 <span class="contnote">\[paragraph continues\]</span> Majesty arouses it
 suddenly as if by a swiftly flashing comet or by a clap of
-thunder. <span id="fr_228"></span>[2](#fn_228) Yet the soul thus called
+thunder. <span id="fr_228"></span>[2](#fn_228.md) Yet the soul thus called
 by God hears Him well enough--so well, indeed, that sometimes,
 especially at first, it trembles and even cries out, although it feels
 no pain. It is conscious of having received a delicious wound but cannot
@@ -61,9 +61,9 @@ them aloud; nor can it control itself, knowing that though He is present
 He will not manifest Himself so that it may enjoy Him. This causes a
 pain, keen although sweet and delicious from which the soul could not
 escape even if it wished; but this it never desires. <span
-id="fr_229"></span>[3](#fn_229) This favour is more delightful than the
+id="fr_229"></span>[3](#fn_229.md) This favour is more delightful than the
 pleasing absorption of the faculties in the prayer of quiet which is
-unaccompanied by suffering. <span id="fr_230"></span>[4](#fn_230)
+unaccompanied by suffering. <span id="fr_230"></span>[4](#fn_230.md)
 
 4\. I am at my wits' end, sisters, as to how to make you understand this
 operation of love: I know not how to do so. It seems contradictory to
@@ -76,9 +76,9 @@ inhabitants of the other
 <span id="page_167">p. 167</span>
 
 mansions, the senses, the imagination and the faculties, dare not
-stir. <span id="fr_231"></span>[5](#fn_231)
+stir. <span id="fr_231"></span>[5](#fn_231.md)
 
-5\. O Almighty God! how profound are Thy [secrets](errata.htm#3) and how
+5\. O Almighty God! how profound are Thy [secrets](errata.htm#3.md) and how
 different are spiritual matters from anything that can be seen or heard
 in this world! I can find nothing to which to liken these graces,
 insignificant as they are compared with many others Thou dost bestow on
@@ -89,10 +89,10 @@ more does it desire and why is it pained? What greater good can it seek?
 I cannot tell: I know that this suffering seems to pierce the very
 heart, and when He Who wounded it draws out the dart He seems to draw
 the heart out too, so deep is the love it feels. <span
-id="fr_232"></span>[6](#fn_232)
+id="fr_232"></span>[6](#fn_232.md)
 
 6\. I have been thinking that God might be likened to a burning
-furnace <span id="fr_233"></span>[7](#fn_233) from which a small spark
+furnace <span id="fr_233"></span>[7](#fn_233.md) from which a small spark
 flies into the soul that feels the heat of this great fire, which,
 however, is insufficient to consume it. The sensation is so delightful
 that the spirit lingers in the pain produced by its contact. This seems
@@ -151,7 +151,7 @@ same sort.
 12\. It is very clear that this is no fiction: the imagination may
 counterfeit some favours but not this, which is too manifest to leave
 room for doubt. Should any one still remain uncertain, let her know that
-hers were not genuine impulses; <span id="fr_234"></span>[8](#fn_234)
+hers were not genuine impulses; <span id="fr_234"></span>[8](#fn_234.md)
 that is, if she is dubious as to whether or no she experienced them, for
 they are as certainly perceived by the soul as is a loud voice by the
 ears. It is impossible for these experiences to proceed from melancholy
@@ -166,12 +166,12 @@ reasons to the contrary from
 those who understand these matters. I know some one who has always
 greatly dreaded such deceptions, yet could never bring herself to feel
 any alarm about this state of prayer. <span
-id="fr_235"></span>[9](#fn_235)
+id="fr_235"></span>[9](#fn_235.md)
 
 14\. Our Lord also uses other means of rousing the soul; for
 instance--when reciting vocal prayer without seeking to penetrate the
 sense, a person may be seized with a delightful fervour <span
-id="fr_236"></span>[10](#fn_236) as if suddenly encompassed with a
+id="fr_236"></span>[10](#fn_236.md) as if suddenly encompassed with a
 fragrance powerful enough to diffuse itself through all the senses. I do
 not assert that there really is any perfume but use this comparison
 because it somewhat resembles the manner by which the Spouse makes His
@@ -189,36 +189,36 @@ receiving it with thanksgiving.
 
 ### Footnotes
 
-<span id="fn_227"></span>[165:1](tic18.htm#fr_227) Mansion iv. ch. i.
+<span id="fn_227"></span>[165:1](tic18.htm#fr_227.md) Mansion iv. ch. i.
 *Life*, ch. xxix. 10-15. *Rel*. ch. viii. 15.
 
-<span id="fn_228"></span>[166:2](tic18.htm#fr_228) The saint first wrote
+<span id="fn_228"></span>[166:2](tic18.htm#fr_228.md) The saint first wrote
 'relampago,' flash of lightning, but afterwards altered it to 'trueno,'
 clap of thunder.
 
-<span id="fn_229"></span>[166:3](tic18.htm#fr_229) *Rel*. viii. 16. St.
+<span id="fn_229"></span>[166:3](tic18.htm#fr_229.md) *Rel*. viii. 16. St.
 John of the Cross, *Spiritual Cant*. st. i. 22 *sqq*. *Poems* 7, 8.
 
-<span id="fn_230"></span>[166:4](tic18.htm#fr_230) *Life*, ch. xxix. 18.
+<span id="fn_230"></span>[166:4](tic18.htm#fr_230.md) *Life*, ch. xxix. 18.
 
-<span id="fn_231"></span>[167:5](tic18.htm#fr_231) *Life*, ch. xv. 1.
+<span id="fn_231"></span>[167:5](tic18.htm#fr_231.md) *Life*, ch. xv. 1.
 
-<span id="fn_232"></span>[167:6](tic18.htm#fr_232) *Ibid*. ch. xxix. 17,
+<span id="fn_232"></span>[167:6](tic18.htm#fr_232.md) *Ibid*. ch. xxix. 17,
 18.
 
-<span id="fn_233"></span>[167:7](tic18.htm#fr_233) *Ibid*. ch. xv, 6;
+<span id="fn_233"></span>[167:7](tic18.htm#fr_233.md) *Ibid*. ch. xv, 6;
 xviii. 4.; xxi. 9.
 
-<span id="fn_234"></span>[169:8](tic18.htm#fr_234) *Life*, ch. xv. 15,
+<span id="fn_234"></span>[169:8](tic18.htm#fr_234.md) *Life*, ch. xv. 15,
 16.
 
-<span id="fn_235"></span>[170:9](tic18.htm#fr_235) Life, ch. xxix. 6-10.
+<span id="fn_235"></span>[170:9](tic18.htm#fr_235.md) Life, ch. xxix. 6-10.
 
-<span id="fn_236"></span>[170:10](tic18.htm#fr_236) *Ibid*. ch. xv. 12.
+<span id="fn_236"></span>[170:10](tic18.htm#fr_236.md) *Ibid*. ch. xv. 12.
 On the matter treated by St. Teresa in this chapter, compare St. John of
 the Cross, *Spiritual Canticle*, stanza i. (*circa finem*), stanza ix.;
 *The Living Flame of Love*, stanza ii.
 
 ------------------------------------------------------------------------
 
-[Next: Introductory Note to Chapter III by the Editor](tic19)
+[Next: Introductory Note to Chapter III by the Editor](tic19.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb13)  [Next](boeb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb13)  [Next](boeb15.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ He shall be hanged, and the other be burned,
  
 
 <span id="img_09400"></span> [![](tn/09400.jpg)  
-Click to enlarge](img/09400.jpg)
+Click to enlarge](img/09400.jpg.md)
 
  
 
@@ -109,4 +109,4 @@ Our King, by othe, is King of both
 
 ------------------------------------------------------------------------
 
-[Next: Helen of Kirkconnell](boeb15)
+[Next: Helen of Kirkconnell](boeb15.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac24)  [Next](sac26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac24)  [Next](sac26.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ were parts of one whole.
 Wood-Martin speaks with the most certain sound on this point. "It will
 be seen that, from a review of the whole subject, stone, water, tree,
 and animal-worship are intimately connected." <span
-id="fr_82"></span>[1](#fn_82)
+id="fr_82"></span>[1](#fn_82.md)
 
 What the analysis in the recent chapters, taken in connection with the
 astronomical results previously stated, has done is perhaps to give a
@@ -82,7 +82,7 @@ strong.
 
 The folklore of the Pyrenees, France, Spain and Portugal regarding
 sacred wells is very similar to that of Ireland. Borlase writes: <span
-id="fr_83"></span>[1](#fn_83)
+id="fr_83"></span>[1](#fn_83.md)
 
 "It is interesting to notice that the pre-Christian custom called
 *dessil*, or circuit around a venerated spot; which is practised in
@@ -90,14 +90,14 @@ Ireland in the case of one dolmen at least, as well as at wells and
 Churches innumerable, is found also in Portugal."
 
 In the Pyrenees, too, fairies and spirits are thought much of in this
-connection. Borlase tells us: <span id="fr_84"></span>[2](#fn_84) "They
+connection. Borlase tells us: <span id="fr_84"></span>[2](#fn_84.md) "They
 are the presiding genii of certain wells." He adds:
 
 "It is not in Ireland alone that dolmens are associated with the notion
 of wells and water springs. The Portuguese names, Anta do Fontao, Fonte
 Coberta, Anta do Fonte-de Mouratao, and the French names, Fonte de
 Bourre, and Fonte nay le Marmion, show this to be the case. <span
-id="fr_85"></span>[3](#fn_85)
+id="fr_85"></span>[3](#fn_85.md)
 
 In Persia Sir Wm. Ouseley saw a tree covered with rags, and similar
 trees in the Himalayas are associated with large heaps of stones (Gomme,
@@ -110,7 +110,7 @@ I referred to in the last chapter are invariably associated with cairns,
 megalithic monuments or some such early Pagan institutions; and he adds
 that the area in which traces of well-offerings are found is
 conterminous with the area of the megalithic monuments. <span
-id="fr_86"></span>[1](#fn_86)
+id="fr_86"></span>[1](#fn_86.md)
 
 The idea that the waters of certain wells have marvellous healing powers
 is also not confined to the British Isles, for in a great many parts of
@@ -162,7 +162,7 @@ not universally held; the late General Pitt-Rivers, and I know of no
 higher authority, stated his opinion that "The megalithic monuments . .
 . take us back to pre-Aryan people, and suggest the spread of this
 people over the area covered by their remains." <span
-id="fr_87"></span>[1](#fn_87)
+id="fr_87"></span>[1](#fn_87.md)
 
 Mr. Gomme is of the same opinion (p. 27):
 
@@ -181,7 +181,7 @@ Sergi also points out:—
 civilisations of the earth, those born in the valleys of the Euphrates
 and the Tigris, and in the valley of the Nile; no influence was granted
 to them over Greco-Roman classic civilisation, almost none anywhere in
-the Mediterranean." <span id="fr_88"></span>[1](#fn_88)
+the Mediterranean." <span id="fr_88"></span>[1](#fn_88.md)
 
 It is not necessary for me to deal at length with the great Aryan
 controversy in this book, even if the subject were within my competence,
@@ -190,7 +190,7 @@ say, within twenty years of their use, it is important to bring forward
 some dates arrived at by archæologists and philologists to compare with
 those which the astronomical method of inquiry has revealed.
 
-Hall <span id="fr_89"></span>[2](#fn_89) gives evidence to show that the
+Hall <span id="fr_89"></span>[2](#fn_89.md) gives evidence to show that the
 Aryans did not reach Greece till after the earlier period of the
 Mycenæan age, which he dates at about 1700 B.C.
 
@@ -310,7 +310,7 @@ the more to be regretted since Layard, in addition to many E. and N.
 buildings found at Nimrood; noted at the mound of Kouyunjik, the site of
 Nineveh, lat. 36° 20´ N., that Sennacherib's palace, which appears to
 have been built round a central temple, was oriented to the May
-year. <span id="fr_90"></span>[1](#fn_90) (Az. N. 68° 30´ E. =Dec. N.
+year. <span id="fr_90"></span>[1](#fn_90.md) (Az. N. 68° 30´ E. =Dec. N.
 16°.)
 
 Now, calling in the Babylonians as the originators of what went on in
@@ -320,7 +320,7 @@ some they originated all the voyaging of the early world, though other
 authorities point out that the first ships in the eastern seas must have
 been Indian.
 
-Ihering <span id="fr_91"></span>[2](#fn_91) adduces a series of facts
+Ihering <span id="fr_91"></span>[2](#fn_91.md) adduces a series of facts
 which indicate clearly that the Babylonians carried on maritime
 navigation at least as early as about 3500 B.C. But, whatever this time
 was, the Semites and Egyptians had already a rich culture behind them at
@@ -361,7 +361,7 @@ and the Orkneys,
 <span id="page_243">p. 243</span>
 
 than to get to some of the islands in the Mediterranean itself. <span
-id="fr_92"></span>[1](#fn_92)
+id="fr_92"></span>[1](#fn_92.md)
 
 It is seen then that it is possible that Semites might have built our
 stone monuments between 2000 and 1200 B.C., while it is quite certain
@@ -402,7 +402,7 @@ was hung with gifts; the stones and tree being symbols of the God (p.
 151).
 
 Further, it is certain that the original altar among the northern
-Semites was a great unhewn <span id="fr_93"></span>[1](#fn_93) stone, or
+Semites was a great unhewn <span id="fr_93"></span>[1](#fn_93.md) stone, or
 a cairn, at which the blood of the victim was shed (p. 185).
 
 Monolithic pillars or cairns of stones are frequently mentioned in the
@@ -427,7 +427,7 @@ Greeks,(there is a cave, for instance, at Eleusis) from the Semites.
 
 In later times, when caves or their equivalents were no longer in vogue
 and temples were erected, they enclosed a Bit-ili or Beth-el, an upright
-stone, consecrated by oil. <span id="fr_94"></span>[1](#fn_94)
+stone, consecrated by oil. <span id="fr_94"></span>[1](#fn_94.md)
 
 We next learn (pp. 170 and 183) that no Canaanite high place was
 complete without its sacred tree standing beside the altar.
@@ -499,7 +499,7 @@ by water is not unknown among British customs.
 
 It is interesting to note that special sanctity was attached to groups
 of seven wells (p. 167), and that one such group was called Thorayga =
-Pleiades (p. 153). <span id="fr_95"></span>[1](#fn_95) We may gather
+Pleiades (p. 153). <span id="fr_95"></span>[1](#fn_95.md) We may gather
 from this that one of the most sacred times for Semitic worship was at
 the May festival, marked by the rising of the Pleiades.
 
@@ -561,7 +561,7 @@ altar proper for receiving a burnt offering" (p. 364).
 
 With regard to the worship of the sun and stars by the Semites, we read
 that the Semite addressed his God as Baal or Bal. The simple form of
-Baal was the sun. <span id="fr_96"></span>[1](#fn_96)
+Baal was the sun. <span id="fr_96"></span>[1](#fn_96.md)
 
 By the Semites the stars were, on account of their movements, held to be
 alive; they were therefore gods, and it was in consequence of this
@@ -576,7 +576,7 @@ morning star as a god is the old Semitic conception (Isa., xiv., 12),
 
 We gather from the later practices of the Saracens that the sacrifices
 to the morning star could not be made after the star had disappeared in
-the dawn. <span id="fr_97"></span>[2](#fn_97) The God had to be in the
+the dawn. <span id="fr_97"></span>[2](#fn_97.md) The God had to be in the
 presence of the worshippers.
 
 The Semitic worship was generally carried on in "high places"; in the
@@ -597,7 +597,7 @@ it.
  
 
 Other arguments may be founded upon linguistic considerations. Prof. J.
-Morris Jones <span id="fr_98"></span>[1](#fn_98) finds that the syntax
+Morris Jones <span id="fr_98"></span>[1](#fn_98.md) finds that the syntax
 of Welsh and Irish differs from that of other Aryan languages in many
 important respects, *e.g.* the verb is put first in every simple
 sentence. Prof. Rhys had suggested that these differences represented
@@ -635,36 +635,36 @@ then we must assume accidental origins in each country."
 
 ### Footnotes
 
-<span id="fn_82"></span>[233:1](sac25.htm#fr_82) Wood-Martin, p. 265.
+<span id="fn_82"></span>[233:1](sac25.htm#fr_82.md) Wood-Martin, p. 265.
 
-<span id="fn_83"></span>[234:1](sac25.htm#fr_83) *Dolmens of Ireland*,
+<span id="fn_83"></span>[234:1](sac25.htm#fr_83.md) *Dolmens of Ireland*,
 ii., p. 696.
 
-<span id="fn_84"></span>[234:2](sac25.htm#fr_84) *Ibid*., ii., p. 580.
+<span id="fn_84"></span>[234:2](sac25.htm#fr_84.md) *Ibid*., ii., p. 580.
 
-<span id="fn_85"></span>[234:3](sac25.htm#fr_85) *Ibid*., p. 772.
+<span id="fn_85"></span>[234:3](sac25.htm#fr_85.md) *Ibid*., p. 772.
 
-<span id="fn_86"></span>[235:1](sac25.htm#fr_86) *Journal Eth. Soc.*,
+<span id="fn_86"></span>[235:1](sac25.htm#fr_86.md) *Journal Eth. Soc.*,
 N.S., i., 64
 
-<span id="fn_87"></span>[236:1](sac25.htm#fr_87) *Journ. Eth. Soc.*,
+<span id="fn_87"></span>[236:1](sac25.htm#fr_87.md) *Journ. Eth. Soc.*,
 N.S., i., 64.
 
-<span id="fn_88"></span>[237:1](sac25.htm#fr_88) *The Mediterranean
+<span id="fn_88"></span>[237:1](sac25.htm#fr_88.md) *The Mediterranean
 Races*, p. 4.
 
-<span id="fn_89"></span>[237:2](sac25.htm#fr_89) *The Oldest
+<span id="fn_89"></span>[237:2](sac25.htm#fr_89.md) *The Oldest
 Civilisation of Greece*, p. 105.
 
-<span id="fn_90"></span>[241:1](sac25.htm#fr_90) This I gather from the
+<span id="fn_90"></span>[241:1](sac25.htm#fr_90.md) This I gather from the
 plan prepared by Lieut. Glascott, R.N., who apparently accompanied Mr.
 Layard. He indicates the true north point with a sailor's precision in
 such matters. (See p. 305).
 
-<span id="fn_91"></span>[241:2](sac25.htm#fr_91) *Evolution of the
+<span id="fn_91"></span>[241:2](sac25.htm#fr_91.md) *Evolution of the
 Aryan*, Translation by Drucker, § 32.
 
-<span id="fn_92"></span>[243:1](sac25.htm#fr_92) The prevalence of
+<span id="fn_92"></span>[243:1](sac25.htm#fr_92.md) The prevalence of
 solstitial customs in Sardinia and Corsica, with apparently no trace of
 the May year, tends to support this view, which is also strengthened by
 the fact that the solstitial customs in Morocco are very similar to
@@ -672,11 +672,11 @@ those we read of in Britain: the May year is unnoticed, and there is a
 second feast at Easter (March 16th). See Westermarck in *Folk-lore*,
 vol. xxi., p. 27.
 
-<span id="fn_93"></span>[244:1](sac25.htm#fr_93) And if thou wilt make
+<span id="fn_93"></span>[244:1](sac25.htm#fr_93.md) And if thou wilt make
 me an altar of stone, thou shalt not build it of hewn stone: for if thou
 lift up thy tool upon it, thou hast polluted it.—Exodus, xx., 25.
 
-<span id="fn_94"></span>[245:1](sac25.htm#fr_94) And Jacob rose up early
+<span id="fn_94"></span>[245:1](sac25.htm#fr_94.md) And Jacob rose up early
 in the morning, and took the stone that he had put for his pillows, and
 set it up for a pillar, and poured oil upon the top of it.
 
@@ -684,22 +684,22 @@ And this stone, which I have set for a pillar, shall be God's house; and
 of all that thou shalt give me I will surely give the tenth unto
 thee.—Genesis, xxviii., 18, 22.
 
-<span id="fn_95"></span>[247:1](sac25.htm#fr_95) Herodotus, iii., 8,
+<span id="fn_95"></span>[247:1](sac25.htm#fr_95.md) Herodotus, iii., 8,
 refers to an Arabian rite in which seven stones are smeared with blood
 among peoples whose only gods were Dionysos and Urania, whom they called
 Orotalt and Alilat.
 
-<span id="fn_96"></span>[249:1](sac25.htm#fr_96) Sayce, *Babylonians and
+<span id="fn_96"></span>[249:1](sac25.htm#fr_96.md) Sayce, *Babylonians and
 Assyrians*, p. 234.
 
-<span id="fn_97"></span>[249:2](sac25.htm#fr_97) *Nili op. quaedam*
+<span id="fn_97"></span>[249:2](sac25.htm#fr_97.md) *Nili op. quaedam*
 (Paris, 1639), pp. 28, 117, quoted by Robertson Smith, p. 151.
 
-<span id="fn_98"></span>[250:1](sac25.htm#fr_98) "Pre-Aryan Syntax in
+<span id="fn_98"></span>[250:1](sac25.htm#fr_98.md) "Pre-Aryan Syntax in
 Insular Celtic," in the *Welsh People*, by Rhys and Brynmor-Jones, pp.
 617-641.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIII. The Similarity of the Semitic and British
-Worships](sac26)
+Worships](sac26.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork05)  [Next](gork07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork05)  [Next](gork07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -113,7 +113,7 @@ had come in, the Bhagavân continued: Shivanâth, the leader of the Brâhmo
 Samâj, has great cares, he has to edit a newspaper and do various other
 works In attending to worldly affairs, one naturally loses peace of mind
 and is overwhelmed with worries and anxieties. It is said in the
-Bhâgavat that Avadhuta <span id="fr_18"></span>[\*](#fn_18) made
+Bhâgavat that Avadhuta <span id="fr_18"></span>[\*](#fn_18.md) made
 twenty-four Gurus. The kite was one of them. In a certain place some
 fishermen were catching fish, a kite swooped down and snatched a fish.
 Seeing the kite with the fish in its claw, hundreds of crows flew after
@@ -461,7 +461,7 @@ Concentration, meditation, repetition of the Name of the Lord,
 charitable works, self-sacrifice, these works will remove the scum of
 ignorance which covers the water of Divinity in the pool of the heart.
 
-Mahima, <span id="fr_19"></span>[\*](#fn_19) who had joined the group of
+Mahima, <span id="fr_19"></span>[\*](#fn_19.md) who had joined the group of
 devotees, exclaimed: Oh yes, Bhagavan, such works are absolutely
 necessary. Tireless labor is needed to attain great results. How much we
 must study! Innumerable are the sciences, Scriptures and philosophies.
@@ -664,7 +664,7 @@ carry you to a better place, be equally resigned. The Lord has kept you
 in the world, what can you do? Resign everything to Him, even your own
 dear self; then all trouble will be over. You will see then that He is
 doing everything; everywhere is the will of Râma <span
-id="fr_20"></span>[\*](#fn_20) (God).
+id="fr_20"></span>[\*](#fn_20) (God.md).
 
 <span class="margnote">Parable of the pious weaver.</span>In a certain
 village there lived a weaver. He was very spiritual; everyone trusted
@@ -855,22 +855,22 @@ world; then one will become absolutely emancipated even in this life.
 
 ### Footnotes
 
-<span id="fn_18"></span>[66:\*](gork06.htm#fr_18) "Avadhuta" is a
+<span id="fn_18"></span>[66:\*](gork06.htm#fr_18.md) "Avadhuta" is a
 Sanskrit title which is given to one who has become the absolute master
 of nature and who has realized God. Such a great soul was Dattâtreya. In
 the Purânas he is called the Avadhuta. He was also the author of the
 "Avadhuta Gitâ," a famous work on the Advaita Vedânta.
 
-<span id="fn_19"></span>[81:\*](gork06.htm#fr_19) Mahima was the first
+<span id="fn_19"></span>[81:\*](gork06.htm#fr_19.md) Mahima was the first
 name of a Brâhmin Zemindar and a scholar who was known as Mahima Charan
 Chuckravarti. He lived the life of a pure and spiritual householder and
 regarded Râmakrishna as the greatest Hindu sage of the age.
 
-<span id="fn_20"></span>[90:\*](gork06.htm#fr_20) The word Râma refers
+<span id="fn_20"></span>[90:\*](gork06.htm#fr_20.md) The word Râma refers
 to the Divine Hero described in the Hindu epic called "Râmâyana." It is
 also a name which the Hindu Bhaktas use for the Supreme Lord of the
 universe.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Visit to the Pandit Vidyâsâgara](gork07)
+[Next: Chapter IV. Visit to the Pandit Vidyâsâgara](gork07.md)

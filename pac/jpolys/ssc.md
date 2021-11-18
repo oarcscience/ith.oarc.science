@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [The Pacific](../index)
+[Intangible Textual Heritage](../../index) [The Pacific](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -6,7 +6,7 @@
 
 # The Samoan Story of Creation
 
-[skip to translation](#page_175)
+[skip to translation](#page_175.md)
 
  
 
@@ -80,7 +80,7 @@ Pacific.—E<span class="small">DITORS</span>.
 ------------------------------------------------------------------------
 
    I<span class="small">NTRODUCTION</span>—<span
-id="text_1"></span>[1](#notes_1). All nations have traditions or
+id="text_1"></span>[1](#notes_1.md). All nations have traditions or
 speculations as to their own origin, and these often include a
 Cosmogony, by which they endeavour to account for the existence of the
 world, or at least of their own land, and for the creation of men to be
@@ -99,7 +99,7 @@ his work; then he breathed very hard on them and they lived, and began
 to move about as full-grown men. The one had straight hair, and the
 other had curly hair.
 
-   <span id="text_2"></span>[2](#notes_2). Punjil's brother had control
+   <span id="text_2"></span>[2](#notes_2.md). Punjil's brother had control
 of all waters, great and small; and so, one day, he brought up by a hook
 from a muddy-pool two young women, and they became the companions of the
 two men. Some time after, Punjil came down and visited the camp of the
@@ -116,7 +116,7 @@ by straight-haired and curly-haired blacks; but I have introduced it
 here, because it bears some relation to the Polynesian myth which I am
 now to make known to you.
 
-   <span id="text_3"></span>[3](#notes_3). The Polynesian race of the
+   <span id="text_3"></span>[3](#notes_3.md). The Polynesian race of the
 Eastern Pacific has an elaborate system of Cosmogony, which aims at
 explaining how the heavens were created and sustained, how gods and men
 came to be, how their own islands arose; but the details thereof vary
@@ -141,7 +141,7 @@ consent to tell the tale in its fulness and purity. Now, it is evident
 that this condition of friendship existed between Taua-nu‘u and Mr.
 Powell. Hence my belief in the genuineness of this record.
 
-   <span id="text_4"></span>[4](#notes_4). There is much simple dignity
+   <span id="text_4"></span>[4](#notes_4.md). There is much simple dignity
 in the opening sentence of the myth—"The god Tangaloa dwelt in the
 Expanse" as the sole intelligence there. He was soon to be the creator
 of all things, but as yet there was no sky, no sea, no land. He moved to
@@ -206,7 +206,7 @@ common formative in Polyesian dialects, at least so far as I know, it is
 quite possible that -loa is a separate word, and may be the Samoan loa,
 'long,' 'far off.'
 
-   <span id="text_5"></span>[5](#notes_5). The myth next goes on to say
+   <span id="text_5"></span>[5](#notes_5.md). The myth next goes on to say
 that, in his wandering to and fro in the Expanse, Tangaloa one day stood
 still, and then there grew up păpă, 'a rock,' for him to rest on. In
 another Samoan myth, 'le Solo o le Va,' Tangaloa is, at another time,
@@ -243,13 +243,13 @@ earth and secured in its place by props; then the dimensions Length,
 Breadth, and Height appeared; and then, all things being ready for him,
 Man came upon the scene.
 
-   <span id="text_6"></span>[6](#notes_6). But Man was yet a dull, inert
+   <span id="text_6"></span>[6](#notes_6.md). But Man was yet a dull, inert
 mass of matter; so Tangaloa created Spirit, and Heart, and Will, and
 Thought, and put them within him, and thus Man became a living soul.
 Here the myth duly recognises the composite nature of man, and that too
 with a precision scarcely to be expected from Polynesians.
 
-   <span id="text_7"></span>[7](#notes_7). The Kosmos had been, to some
+   <span id="text_7"></span>[7](#notes_7.md). The Kosmos had been, to some
 extent, arranged already as Land, Sea, and Sky, but now that Man is to
 dwell on earth, Tangaloa proceeds to make him comfortable; and so he
 sends Immensity and Space, as a wedded pair, to dwell in the sky above;
@@ -266,7 +266,7 @@ Australian Aborigines believe similarly that the sky is held up by
 props, and they have a tradition that the props once broke, and then the
 wizards had great work to do in getting the sky propped up again.
 
-   <span id="text_8"></span>[8](#notes_8). The wedded pair, Immensity
+   <span id="text_8"></span>[8](#notes_8.md). The wedded pair, Immensity
 and Space, that had a little before been removed from the earth to the
 sky, now brought forth children— <span id="page_169">p. 169</span> Night
 and Day, and these two, by their united action, produced the Sun and the
@@ -280,7 +280,7 @@ everywhere there is illimitable extension of space. So it must have
 appeared, at all events, to the earliest of myth-makers, when they
 turned their thoughts from earth to heaven.
 
-   <span id="text_9"></span>[9](#notes_9). Our myth now turns to the
+   <span id="text_9"></span>[9](#notes_9.md). Our myth now turns to the
 creation of the other gods; every one of these, however, is a Tangaloa,
 and is therefore not a seperate and independant being, but only a phase,
 as it were, of the supreme Tangaloa—a distinct manifestation of himself
@@ -303,7 +303,7 @@ engaged in fishing in the sea, he pulled up with his line an island here
 and there; and that had not the line at last broken with the pull, some
 of these islands might have been continents.
 
-   <span id="text_11"></span>[11](#notes_11). But the newly-created
+   <span id="text_11"></span>[11](#notes_11.md). But the newly-created
 islands are, as yet, rough and rugged and unfit for the occupation of
 man; and so 'Tangaloa-the-creator' comes down and treads upon them, and
 prepares them for people to dwell in. And he looked on all his work, and
@@ -321,7 +321,7 @@ product of the sun's heat, to procure oil, they slice their cocoa-nuts
 into lumps, and leaving a heap of this 'copra' exposed in a canoe, they
 find that it soon produces oil and worms.
 
-   <span id="text_12"></span>[12](#notes_12). As a parallel to this
+   <span id="text_12"></span>[12](#notes_12.md). As a parallel to this
 account of the origin of man, I now refer to the Australian tradition
 with which I began this introduction. There the creation-god is Baiamai,
 that is, Bai-bai, an intensive and therefore honorific name, formed from
@@ -354,7 +354,7 @@ origin.
 
 TRANSLATION.
 
-   <span id="text_13"></span>[13](#notes_13). The god Tangaloa dwelt in
+   <span id="text_13"></span>[13](#notes_13.md). The god Tangaloa dwelt in
 the Expanse; he made all things; he alone was \[there\]; not any sky,
 not any country; he only went to and fro in the Expanse; there was also
 no sea, and no earth; but, at the place where he stood there grew up a
@@ -362,12 +362,12 @@ rock. Tangaloa-fa‘a-tutupu-nu‘u was his name; all things were about to
 be made, by him, for all things were not yet made; the sky was not made
 nor any thing else; but there grew up a Rock on which he stood.
 
-   <span id="text_14"></span>[14](#notes_14). Then Tangaloa said to the
+   <span id="text_14"></span>[14](#notes_14.md). Then Tangaloa said to the
 Rock, 'Be thou split up.' Then was brought forth Papa-taoto; after that,
 Papa-sosolo; then Papa-lau-a‘au; then Papa-‘ano-‘ano; then Papa-‘ele;
 then Papa-tu; then Papa-‘amu-‘amu and his children.
 
-   <span id="text_15"></span>[15](#notes_15). But Tangaloa stood facing
+   <span id="text_15"></span>[15](#notes_15.md). But Tangaloa stood facing
 the west, and spoke to the Rock. Then Tangaloa struck the Rock with his
 right hand, and it split open towards the right side. Then the Earth was
 brought forth (that is the parent of all the people in the world), and
@@ -377,7 +377,7 @@ in \[the possession of\] your sea.' Then said Papa-sosolo 'Don't bless
 me; the sea will soon reach you too.' All the rocks in like manner
 called him blessed.
 
-   <span id="text_16"></span>[16](#notes_16). Then Tangaloa turned to
+   <span id="text_16"></span>[16](#notes_16.md). Then Tangaloa turned to
 the right side, and the Fresh-water sprang up. Then Tangaloa spake again
 to the Rock, and the Sky was produced. He spake again to the Rock and
 Tui-te‘e-langi was brought forth; then came forth Ilu, 'Immensity,' and
@@ -385,30 +385,30 @@ Mamao, 'Space,' came (that was a woman); then came Niuao.
 
 <span id="page_176">p. 176</span>
 
-   <span id="text_17"></span>[17](#notes_17). Tangaloa spake again to
+   <span id="text_17"></span>[17](#notes_17.md). Tangaloa spake again to
 the Rock; then Lua‘o, a boy, came forth. Tangaloa spake again to the
 Rock, and Lua-vai, a girl, came forth. Tangaloa appointed these two to
 the Sā-tua-langi.
 
-   <span id="text_18"></span>[18](#notes_18). Then Tangaloa spoke again,
+   <span id="text_18"></span>[18](#notes_18.md). Then Tangaloa spoke again,
 and Aoa-lālā, a boy was born, and \[next\] Ngao-ngao-le-tai, a girl;
 then came Man; then came the Spirit; then the Heart; then the Will; then
 Thought.
 
-   <span id="text_19"></span>[19](#notes_19). That is the end of
+   <span id="text_19"></span>[19](#notes_19.md). That is the end of
 Tangaloa's creations which were produced from the Rock; they were only
 floating about on the sea<span
-id="page_176_fr_*"></span>[\*](#page_176_note_*); there was was no
+id="page_176_fr_*"></span>[\*](#page_176_note_*.md); there was was no
 fixedness there.
 
-   <span id="text_20"></span>[20](#notes_20). Then Tangaloa made an
+   <span id="text_20"></span>[20](#notes_20.md). Then Tangaloa made an
 ordinance to the rock and said:—
 
    (1) Let the Spirit and the Heart and Will and Thought go on and join
 together inside the Man; and they joined together there and man became
 intelligent. And this was joined to the earth ('ele-ele'), and it was
 called Fatu-ma-le-‘Ele-‘ele, as a couple,<span
-id="page_176_fr_dagger"></span>[†](#page_176_note_dagger) Fatu the man,
+id="page_176_fr_dagger"></span>[†](#page_176_note_dagger.md) Fatu the man,
 and ‘Ele-‘ele, the woman.
 
    (2) Then he said to Immensity and Space, 'Come now; you two be united
@@ -441,7 +441,7 @@ T<span class="small">HE</span> P<span class="small">RODUCTION OF
 THE</span> N<span class="small">INE</span> H<span
 class="small">EAVENS</span>.
 
-   <span id="text_21"></span>[21](#notes_21). Then Immensity and Space
+   <span id="text_21"></span>[21](#notes_21.md). Then Immensity and Space
 brought forth offspring; they brought forth Po and Ao, 'Night and Day,'
 and this couple was ordained by Tangaloa to produce the 'Eye of Sky,'
 \[the Sun\]. Again Immensity and Space brought forth Le-Langi; that is
@@ -469,7 +469,7 @@ of Ilu and Mamao; it reached to the Ninth Heavens.
 T<span class="small">HE</span> P<span class="small">RODUCTION OF</span>
 O<span class="small">THER</span> G<span class="small">ODS</span>.
 
-   <span id="text_22"></span>[22](#notes_22). Then Tangaloa sat
+   <span id="text_22"></span>[22](#notes_22.md). Then Tangaloa sat
 \[still\]; he is well known as Tangaloa-fa‘a-tutupu-nu‘u; then he
 created Tangaloa-lē-fuli, and Tangaloa-asiasi-nu‘u, and
 Tangaloa-tolo-nu‘u, and Tangaloa-sāváli, and Tuli also, and Longonoa.
@@ -478,7 +478,7 @@ Tangaloa-tolo-nu‘u, and Tangaloa-sāváli, and Tuli also, and Longonoa.
 Tangaloa-lē-fuli, 'Come here; be thou chief in the heavens.' Then
 Tangaloa, 'the immoveable,' was chief in the heavens.
 
-   <span id="text_24"></span>[24](#notes_24). Then Tangaloa, the
+   <span id="text_24"></span>[24](#notes_24.md). Then Tangaloa, the
 creator, said to Tangaloa-sāváli, 'the messenger,' 'Come here; be thou
 ambassador in all the heavens, beginning from the Eighth Heavens down to
 the First Heavens, to tell them all to gather together in the Ninth
@@ -486,7 +486,7 @@ Heavens, where Tangaloa, the immoveable, is chief. Then proclamation was
 made that they should go up to the Ninth Heavens, and then visit below
 the children of Night and Day in the First Heavens.
 
-   <span id="text_25"></span>[25](#notes_25). Then Tangaloa, the
+   <span id="text_25"></span>[25](#notes_25.md). Then Tangaloa, the
 messenger, went down to Night and Day in the First Heavens, and asked
 them thus:—'Have you two any children appointed to you? And they
 answered, 'Come here; these two are our children, appointed to us,
@@ -494,7 +494,7 @@ Langi-‘uli and Langi-mā.'
 
 <span id="page_178">p. 178</span>
 
-   <span id="text_26"></span>[26](#notes_26). All the stars also were
+   <span id="text_26"></span>[26](#notes_26.md). All the stars also were
 their offspring, but we do not have the names of all the stars (the
 stars had each it own name), for they are forgotten now, because they
 dropped out of use. And surely the last injunction of Tangaloa, the
@@ -502,11 +502,11 @@ creator, to Night and Day was that they should produce the
 Eye-of-the-Sky. That was the reason Tangaloa, the messenger, went down
 to ask Night and Day in the First Heavens \[if they had any children\].
 
-   <span id="text_27"></span>[27](#notes_27). Then answered Night and
+   <span id="text_27"></span>[27](#notes_27.md). Then answered Night and
 Day, 'Come now; there remain four boys that are not yet
 appointed,—Manu‘a, Sāmoa, the Sun, and the Moon.'
 
-   <span id="text_28"></span>[28](#notes_28). These are the boys that
+   <span id="text_28"></span>[28](#notes_28.md). These are the boys that
 originated the names of Sāmoa and Manu‘a; these two were the children of
 Night and Day. The name of the one is Sā-tia-i-le-moa, 'obstructed by
 the chest'; the meaning of which is this:—the boy seemed as if he would
@@ -523,7 +523,7 @@ Tangaloa, the creator, and Tangaloa, the immoveable; the Council was
 held in the Ninth Heavens; the ground where they held the Council was
 Malaē-a-Toto‘a, 'the council ground of Tranquillity.'
 
-   <span id="text_30"></span>[30](#notes_30). Then various decrees were
+   <span id="text_30"></span>[30](#notes_30.md). Then various decrees were
 made in the Ninth Heavens; the children of Ilu and Mamoa were appointed
 all of them to be builders, and to come down from the Eighth Heavens to
 this \[earth\] below; perhaps they were ten thousand in all that were
@@ -539,7 +539,7 @@ two boys was attached the name of Tangaloa-lē-fuli who is king ('tupu')
 of the Ninth Heavens; hence the \[Samoan\] kings ('tupu') were named
 'Tui o Manu‘a-tele ma Samoa atoa.'
 
-   <span id="text_32"></span>[32](#notes_32). Then Tangaloa, the
+   <span id="text_32"></span>[32](#notes_32.md). Then Tangaloa, the
 creator, said to Night and Day:—'Let those two boys, the Sun and the
 Moon, go and follow you two; when day comes, let the Sun follow; also
 when Night comes, the Moon too comes on.' These two are the shades of
@@ -548,7 +548,7 @@ Tangaloa; but thus runs the decree of Tangaloa, the creator,—Let there
 be one portion of <span id="page_179">p. 179</span> the heavens, in
 which they pass along; in like manner also shall the Stars pass along.'
 
-   <span id="text_33"></span>[33](#notes_33). Then Tangaloa, the
+   <span id="text_33"></span>[33](#notes_33.md). Then Tangaloa, the
 messenger, went to and fro to visit the land; his visit began in the
 place where are (now) the Eastern groups; these groups were made to
 spring up; then he went off to cause the group of Fiji to grow up; but
@@ -558,12 +558,12 @@ creator, and Tangaloa, the immoveable; Tangaloa looked down to Tangaloa,
 the messenger; and he made the Tongan group spring up; then that land
 sprang up.
 
-   <span id="text_34"></span>[34](#notes_34). Then he turns his face to
+   <span id="text_34"></span>[34](#notes_34.md). Then he turns his face to
 this Manu‘a; and looks up to the heavens, for he is unable to move
 about; then Tangaloa, the creator and Tangaloa, the immovable, looked
 down, and caused Savai‘i to spring up; then that land grew up.
 
-   <span id="text_35"></span>[35](#notes_35). Then Tangaloa, the
+   <span id="text_35"></span>[35](#notes_35.md). Then Tangaloa, the
 messenger, went back to the heavens, and said—'We have (now) got
 countries, the Eastern group and the Fiji group, and the Tongan group,
 and Savai‘i.' Then, as all these lands were grown up, Tangaloa, the
@@ -586,7 +586,7 @@ he took \[with him\] a couple; their names were Atu and Tonga; these two
 peopled that group of islands; their names were the Atu-Tonga; these two
 were the people of Tangaloa.
 
-   <span id="text_38"></span>[38](#notes_38). Then Tangaloa, the
+   <span id="text_38"></span>[38](#notes_38.md). Then Tangaloa, the
 messenger, came back to this Manu‘a, to Le-Fatu and Le-‘Ele-‘ele and
 their children; because the command of Tangaloa, the creator, \[had gone
 forth\] from the heavens, that Le-Fatu and Le-‘Ele-‘ele should go there
@@ -596,7 +596,7 @@ these two people are from this Manu‘a; Savai‘i and this Manu‘a are one;
 these two were the parents of I‘i and Sava; I‘i was the girl, and Sava
 was the boy; that island was peopled by them, and was named Savai‘i.
 
-   <span id="text_39"></span>[39](#notes_39). And Tangaloa, the
+   <span id="text_39"></span>[39](#notes_39.md). And Tangaloa, the
 messenger, went again to this Manu‘a; then he stood and faced the sky,
 as if he were making a prayer; then <span id="page_180">p. 180</span>
 Tangaloa, the creator looked down, and the land of Upólu sprang up. Then
@@ -604,7 +604,7 @@ Tangaloa, the messenger, stood and again faced the heavens towards
 Tangaloa, the creator; and Tangaloa, the creator, looked down from the
 heavens, and the land of Tutuila sprang up.
 
-   <span id="text_40"></span>[40](#notes_40). Then Tangaloa, the
+   <span id="text_40"></span>[40](#notes_40.md). Then Tangaloa, the
 messenger, turned to the heavens, and said, 'Two lands are now gotten
 for me to rest in. And Tangaloa, the creator, said, 'Come now, go you
 with the Peopling-vine; take it and place it outside in the sun; leave
@@ -630,12 +630,12 @@ they two were to people the land now called Tutuila.
 down from heaven, had two names, Fue-tangata and Fue-sa; he peopled the
 two flat lands.
 
-   <span id="text_42"></span>[42](#notes_42). Then Tangaloa gave his
+   <span id="text_42"></span>[42](#notes_42.md). Then Tangaloa gave his
 parting command thus; 'Always show respect to Manu‘a; if any one do not,
 he will be overtaken by calamity; but let each one do as he likes with
 his own lands.'
 
-   <span id="text_43"></span>[43](#notes_43). \[Here\] the story of the
+   <span id="text_43"></span>[43](#notes_43.md). \[Here\] the story of the
 creation of Sāmoa finishes with this parting command, which was given at
 Malae-lā.
 
@@ -646,7 +646,7 @@ Malae-lā.
 NOTES TO THE STORY OF CREATION.
 
    P<span class="small">AR</span>. <span
-id="notes_1"></span>[1](#text_1). *Punjil*; for an account of Punjil and
+id="notes_1"></span>[1](#text_1.md). *Punjil*; for an account of Punjil and
 his works, see R. Brough Smyth's "Aborigines of Victoria," Vol. I., and
 for Baiamai, see Ridley's "Kamilaroi."
 
@@ -663,7 +663,7 @@ requires the spelling Kámălarai, for it is made up of *ka* (dialect
    *Dhara-mulan*; a demiurge figures in many of the ancient cosmogonies.
 The Egyptian demiurge Thoth created light for the world, while as yet
 there was no sun, and in the Orphic hymns, light exists before the sun;
-*cf*. [note 4](#notes_4) s. v. *Aether*. <span id="page_181">p.
+*cf*. [note 4](#notes_4.md) s. v. *Aether*. <span id="page_181">p.
 181</span> In the Kamalarai legends, Dhara-mulan seems to have a
 two-fold aspect, and hence the -*mulan* in his name may be the word
 *bula*, 'two.'
@@ -681,19 +681,19 @@ India also, the Self-existing One *by a thought* made the waters. The
 Babylonian Cosmogony considers water as the primal element from which
 life came; the Polynesian does not.
 
-   <span id="notes_2"></span>[2](#text_2). *Punjil's brother*; *cf*. the
+   <span id="notes_2"></span>[2](#text_2.md). *Punjil's brother*; *cf*. the
 relation of Zeus to Poseidon.
 
    *Cut into pieces*; *cf*. the Hebrew verb *bârâ*, 'to create,' which
 properly means 'to fashion,' 'to shape.'
 
-   *Worms*; *cf*. a subsequent [note on *Fue-tagata*](#notes_40).
+   *Worms*; *cf*. a subsequent [note on *Fue-tagata*](#notes_40.md).
 
-   <span id="notes_3"></span>[3](#text_3). *The details thereof*; for
+   <span id="notes_3"></span>[3](#text_3.md). *The details thereof*; for
 these, see Rev. Dr. Gill's "Myths and Songs" and Sir George Grey's
 "Polynesian Mythology."
 
-   <span id="notes_4"></span>[4](#text_4). *Le atua Tagaloa*; this
+   <span id="notes_4"></span>[4](#text_4.md). *Le atua Tagaloa*; this
 expression shows that this myth is not modern; for the word *atua*,
 'god,' was almost obsolete when the first missionaries went to Samoa.
 
@@ -713,7 +713,7 @@ tent to dwell in" (Is. xl., 22). "He walketh in the circuit of heaven"
 
    *Fale-ula*; *cf*. the 'Solo o le Va.'
 
-   <span id="notes_5"></span>[5](#text_5). *Papa*; not a 'rock' in our
+   <span id="notes_5"></span>[5](#text_5.md). *Papa*; not a 'rock' in our
 sense of the word, but merely 'something flat and solid'; cf. Gen. I.,
 6-8. In the sense of 'foundation,' *papa* has numerous correspondences
 in the Hebrew Scriptures; *cf*. Isaiah xxxi., 17, "the earth's
@@ -730,19 +730,19 @@ Tangaloa,—but a sort of physical Atlas.
    *The sky is lifted up*; *cf*. the English word 'heaven' and the
 Scotch, 'lift.'
 
-   <span id="notes_6"></span>[6](#text_6). *Dull, inert mass*; it had
+   <span id="notes_6"></span>[6](#text_6.md). *Dull, inert mass*; it had
 the worm-life from the Fue-sā, but that was all.
 
-   <span id="notes_7"></span>[7](#text_7). *Southern side*; the limited
+   <span id="notes_7"></span>[7](#text_7.md). *Southern side*; the limited
 knowledge which the ancients had of geography led them to regard the
 north as hyperborean; and thus the south was to them the habitable part
 of the globe.
 
-   <span id="notes_8"></span>[8](#text_8). *Sun and stars*; so also in
+   <span id="notes_8"></span>[8](#text_8.md). *Sun and stars*; so also in
 Genesis I., the sun does not appear till the fourth day. In our myth,
 there is no mention of the moon till further on.
 
-   <span id="notes_9"></span>[9](#text_9). *Ninth Heavens*; 'three times
+   <span id="notes_9"></span>[9](#text_9.md). *Ninth Heavens*; 'three times
 three'; *cf*. the notes on this point in the 'Solo o le Va.' In the
 "Records of the past," we read of the 'nine gods, the masters of
 things,' and of a 'holy nine.' As the basis of their numeration, the
@@ -757,18 +757,18 @@ o le Va.'
    *For the occupation of man*; it seems to me that whatever is
 essential to the Polynesian idea of creation is contained in this
 verse—"He that created (*bârâ*) the heavens" &c. (Is. xlii., 5) see
-below, [note 13](#notes_13).
+below, [note 13](#notes_13.md).
 
-   <span id="notes_11"></span>[11](#text_11). *Outside in the sun*;
+   <span id="notes_11"></span>[11](#text_11.md). *Outside in the sun*;
 *cf*. the reverence given to the scarabæus, as a product of the Nile mud
 under the heat of the sun.
 
    *Fashioned into men*; *cf*. Heb. *bârâ*, as above.
 
-   <span id="notes_12"></span>[12](#text_12). *Into member'd forms*; see
+   <span id="notes_12"></span>[12](#text_12.md). *Into member'd forms*; see
 the 'Solo o le Va.'
 
-   <span id="notes_13"></span>[13](#text_13). *The god Tangaloa*. He is
+   <span id="notes_13"></span>[13](#text_13.md). *The god Tangaloa*. He is
 the great god of the Polynesians; *cf*. the notes on 'Solo o le Va.'
 
    *The Expanse*; 'va-nimo-nimo' is the word used here. *Va* means space
@@ -830,7 +830,7 @@ name thus means 'Tangaloa, the creator of lands.'
 
 <span id="page_183">p. 183</span>
 
-   <span id="notes_14"></span>[14](#text_14). *Be thou split open*;
+   <span id="notes_14"></span>[14](#text_14.md). *Be thou split open*;
 'māvae ia,' said of parturition; *māvae*, 'to open as a crack;' hence
 *māvava*, 'to yawn.'
 
@@ -856,7 +856,7 @@ fingers.
 
    *Children*; the word here is *pau*, not *fanau*, 'offspring.'
 
-   <span id="notes_15"></span>[15](#text_15). *Facing the west*; in the
+   <span id="notes_15"></span>[15](#text_15.md). *Facing the west*; in the
 ancient auguries and other ceremonials, the position of the celebrant
 was important.
 
@@ -900,7 +900,7 @@ at first had not depth of water enough to cover anything but the
 other rocks also, and so make them happy (*amuia*, 'blessed,' used in
 congratulations).
 
-   <span id="notes_16"></span>[16](#text_16). *Fresh-water*, '*vai*;' as
+   <span id="notes_16"></span>[16](#text_16.md). *Fresh-water*, '*vai*;' as
 in the 'Solo o le Va,' so here; the *vai* comes immediately after the
 *tai*.
 
@@ -935,13 +935,13 @@ the three dimensions formed by the bounding sky—viz., Length, Breadth,
 and Height, each of them, however, limited by the sky. *Cf*. the note on
 *the Expanse*.
 
-   <span id="notes_17"></span>[17](#text_17). *Lua‘o and Luavai*;
+   <span id="notes_17"></span>[17](#text_17.md). *Lua‘o and Luavai*;
 *lua-vai* means 'two fresh-waters;' *lua‘o* should, I think, be *luao*,
 for *luā-ao*, 'two clouds.'
 
    *Sā-tua-lagi*; the 'race' at the 'back' of the 'sky;' the north.
 
-   <span id="notes_18"></span>[18](#text_18). *Ngao-ngao-le-tai*. 'the
+   <span id="notes_18"></span>[18](#text_18.md). *Ngao-ngao-le-tai*. 'the
 desolate sea.'
 
    '*Came*;' '*came forth*;' the text has still the same *toe fanau*,
@@ -970,12 +970,12 @@ the Melanesians and Polynesians believe that man has two spirits—the one
 may leave him for a time when he is dreaming or in a faint; the other
 finally leaves his body at death.
 
-   <span id="notes_19"></span>[19](#text_19). *No fixture*; ua leai se
+   <span id="notes_19"></span>[19](#text_19.md). *No fixture*; ua leai se
 mea a mau ai, 'there was no thing to be fast to;' ope-opea, 'they
 floated about.' *Cf*. "The earth was without form and void;" *cf*. also
 Ovid, Meta, i., 1.
 
-   <span id="notes_20"></span>[20](#text_20). *An ordinance*; 'tofiga.'
+   <span id="notes_20"></span>[20](#text_20.md). *An ordinance*; 'tofiga.'
 This word comes from the verb *tofi*, 'to divide an inheritance,' 'to
 apportion a father's property among children.' Tangaloa's *tofiga* is
 thus the exercise of his sovereign pleasure in allotting to his children
@@ -1038,7 +1038,7 @@ Mythology."
 
    Far-receding sky; 'va-nimo-nimo.' See notes above.
 
-   <span id="notes_21"></span>[21](#text_21). *They brought forth*; the
+   <span id="notes_21"></span>[21](#text_21.md). *They brought forth*; the
 text has 'ua fanau Ao, toe fanau Po;' another reading is, 'ua fanau Po
 ma Ao, ua fa‘a-tagata-ina ai le lagi,' 'they brought forth Night and
 Day, who caused-to-be-peopled the sky.' The order *Po ma Ao*, 'Night and
@@ -1073,11 +1073,11 @@ Langi, the 'sky' personified, but they were all peopled by Ilu and
 Mamao. The notion that the stars in the heavens are gods, and men, and
 beasts, and trees, &c., is a very old one.
 
-   <span id="notes_22"></span>[22](#text_22). *Tangaloa sat still*. In
+   <span id="notes_22"></span>[22](#text_22.md). *Tangaloa sat still*. In
 the 'Solo o le Va,' he is represented as a quiet, contemplative god, who
 delights in tranquillity and peace—the Polynesian Brahmā, the origin and
 source of all things. In his active manifestations he is
-*fa‘a-tutupu-nuu* (see [note on *par*. 13](#notes_13)), 'the creator of
+*fa‘a-tutupu-nuu* (see [note on *par*. 13](#notes_13).md), 'the creator of
 lands;' but in his dealings with men he works by intermediary emanations
 from himself, which are all of them persons, and called Tangaloa; *le
 fuli* is the 'immoveable' (*le* 'not,' *fuli*, 'to turn over,' 'to
@@ -1099,7 +1099,7 @@ renowned.' Logonoa would thus be used as a verbal adjective; and in form
 it corresponds with such verbs as *tala-noa* from *tala*. The Longo-noa
 here may be the same as the Rongo of other islands.
 
-   <span id="notes_24"></span>[24](#text_24). *They should go up*. The
+   <span id="notes_24"></span>[24](#text_24.md). *They should go up*. The
 context means that Savali, 'the messenger,' was sent down to summon a
 *fono* or council of the gods whose stations had been appointed in the
 various heavens below, and tell them that *they should go up* to the
@@ -1107,20 +1107,20 @@ Ninth Heavens to deliberate there. This was a council of chiefs, for
 these gods are called *ali‘i*, 'chiefs.' The *fono* determined to send
 Savali down with a message to Night and Day.
 
-   <span id="notes_25"></span>[25](#text_25). *Langi-uli*, 'the dark,
+   <span id="notes_25"></span>[25](#text_25.md). *Langi-uli*, 'the dark,
 cloudy heavens;' *Langi-mā*, 'the bright clear heavens,' called also
 *Langi-lelei* (*lelei*, 'good, beautiful'). *Uli* means 'black,' 'dark
 blue.'
 
-   <span id="notes_26"></span>[26](#text_26). *Last injunction*;
+   <span id="notes_26"></span>[26](#text_26.md). *Last injunction*;
 mavaega, 'a parting command.'
 
-   <span id="notes_27"></span>[27](#text_27). *Manu‘a* and *Samoa*. The
+   <span id="notes_27"></span>[27](#text_27.md). *Manu‘a* and *Samoa*. The
 pride of the race comes in here; Manu‘a is the child of Night and Day,
 and is the brother of the Sun and Moon. The ruler of the 'Celestial
 Empire' even cannot claim a more ancient lineage than that!
 
-   <span id="notes_28"></span>[28](#text_28). *Sa-tia-le-moa*. On this
+   <span id="notes_28"></span>[28](#text_28.md). *Sa-tia-le-moa*. On this
 fabulous account of the origin of the names Samoa and Manu‘a, Mr.
 Powell's MSS. have this note:—This affair of the names is in a very
 confused state. A man, Taua-nu‘u, who is 'keeper of the traditions' for
@@ -1139,13 +1139,13 @@ boys.
    *Malae-a-toto‘a*. It is a peaceful region, a land of rest and
 tranquillity; it is the glassy empyrean, beyond the reach of storms.
 
-   <span id="notes_30"></span>[30](#text_30). *Builders*; 'tūfūga.' see
+   <span id="notes_30"></span>[30](#text_30.md). *Builders*; 'tūfūga.' see
 the 'Solo o le Va.'
 
    *Bright house*. This paragraph seems to mean that the palace in the
 Ninth Heavens was not their work, although they built in all the heavens
 below. <span id="page_187">p. 187</span> *Fale-‘ula*<span
-id="page_187_fr_*"></span>[\*](#page_187_note_*) is the 'bright house';
+id="page_187_fr_*"></span>[\*](#page_187_note_*.md) is the 'bright house';
 *fale*, 'a house,' *‘ula*, 'red,' 'joyful,' 'bright'; hence the name
 means 'house of joy,' or 'the house beautiful.'
 
@@ -1158,20 +1158,20 @@ part of their own names.
    *Tui, &c.*, 'King of great Manu‘a and all Sāmoa.' Tui also means
 'king,' 'high chief.'
 
-   <span id="notes_32"></span>[32](#text_32). *Follow*. The sun and the
+   <span id="notes_32"></span>[32](#text_32.md). *Follow*. The sun and the
 moon are not here the cause of day and night; they only follow them. The
 day breaks, then comes the sun; darkness falls, and ere long the moon
 rises.
 
    *Shades*; ata, 'shade,' 'emblem.' The 'ata' or 'spirit' of Tangaloa
-resides in them, as in the Tuli; see [note on *par*. 22](#notes_22).
+resides in them, as in the Tuli; see [note on *par*. 22](#notes_22.md).
 
    *Portion of the heavens*; itu, 'side,' see [notes on *par*.
-20](#notes_20). The moon and the stars always pass along the sky in the
+20](#notes_20.md). The moon and the stars always pass along the sky in the
 same direction.
 
-   <span id="notes_33"></span>[33](#text_33). *Went to and fro*;
-'fe-alu-alu-mai'; *cf*. [notes on *par*. 13](#notes_13). *To visit the
+   <span id="notes_33"></span>[33](#text_33.md). *Went to and fro*;
+'fe-alu-alu-mai'; *cf*. [notes on *par*. 13](#notes_13.md). *To visit the
 lands*; 'asi-asi i nu‘u.' Here Savali performs the functions *Tangaloa
 asi-asi nu‘u*, another manifestation of the supreme god; in visiting
 these lands he assumed the form of the Tuli; *cf*. the 'Solo o le Va.'
@@ -1187,9 +1187,9 @@ islands.
 
    *The Tongan group*; which is placed as a steppings-stone between the
 Eastern group and Fiji. *That land*; 'lau-‘ele‘ele'; see [note on *par*.
-13](#notes_13).
+13](#notes_13.md).
 
-   <span id="notes_34"></span>[34](#text_34). *This Manu‘a*; the land of
+   <span id="notes_34"></span>[34](#text_34.md). *This Manu‘a*; the land of
 the poet's birth.
 
    *Move about*; 'fe-alu-mai,'—not the frequentative form this time. The
@@ -1197,7 +1197,7 @@ meaning is that Manu‘a was too small an island, and so the land
 ('lau-‘ele‘ele') of Savai‘i was created. Therefore in poetry, these two
 islands are regarded as proceeding from the same act of creation.
 
-   <span id="notes_35"></span>[35](#text_35). *Got countries*; nu‘u,
+   <span id="notes_35"></span>[35](#text_35.md). *Got countries*; nu‘u,
 'lands.' Tangaloa, the supreme god, now goes down to examine the lands
 just created. *Cf*. "And behold every thing that he had made was very
 good." *Delighted in them*, 'fia-fia,' intensive; *said*, 'fetala‘i,' a
@@ -1209,7 +1209,7 @@ presence, a cloud of smoke (*’anân v’âshân*); *cf*. also 1 Kings, viii.,
 10.
 
    *Trample upon*;<span
-id="page_187_fr_dagger"></span>[†](#page_187_note_dagger) 'soli-soli,'
+id="page_187_fr_dagger"></span>[†](#page_187_note_dagger.md) 'soli-soli,'
 reduplication. As man is now about to come on the scene, the supreme god
 prepares the land for him to dwell in and to cultivate.
 
@@ -1221,7 +1221,7 @@ Sasae, Fiji, Tonga, are all personified here and become mythical
 personages. Here, as elsewhere, Fiji, although Melanesian, is included
 in the realms of Tangaloa, the Eastern God.
 
-   <span id="notes_38"></span>[38](#text_38). *Valu‘a* and *Ti‘apa*;
+   <span id="notes_38"></span>[38](#text_38.md). *Valu‘a* and *Ti‘apa*;
 these heroes are celebrated in another *Solo*.
 
    *I‘i* and *Sava*; a myth to account for the name Savai‘i. Mr.
@@ -1235,7 +1235,7 @@ the parents of a girl named I‘i and a boy Sava; hence the name Savai‘i."
 
    *This side of the world*; 'lenei itu lalolagi.'
 
-   <span id="notes_39"></span>[39](#text_39). *As if he were making a
+   <span id="notes_39"></span>[39](#text_39.md). *As if he were making a
 prayer*; 'peiseai se talo-talo ua fai'; *talo-talo* is an intensive
 reduplication of the verb *tatalo*, 'to pray'; *talo-saga* is 'a
 prayer'; *talo* means 'to make signs to,' 'to beckon'; hence 'to stretch
@@ -1246,7 +1246,7 @@ out the hands in prayer.'
    *To rest*; malolo, 'to be quiescent,' 'to rest,' *not* 'to rest from
 work'; *lands*, nu‘u.
 
-   <span id="notes_40"></span>[40](#text_40). *The Peopling Vine*; le
+   <span id="notes_40"></span>[40](#text_40.md). *The Peopling Vine*; le
 Fue-tagata; *cf*. the 'Solo o le Va,' (note 16). Evidently this vine has
 some connection with the Sun.
 
@@ -1268,12 +1268,12 @@ Va.'
 
    *Flat lands*; lau-‘ele‘ele. *Parting command*; 'mavaega.'
 
-   <span id="notes_42"></span>[42](#text_42). *Show respect to*; 'le
+   <span id="notes_42"></span>[42](#text_42.md). *Show respect to*; 'le
 sopoia;' *lit*. 'do not pass over.'
 
    *Do as he likes*; pule, 'have authority and full control.'
 
-   <span id="notes_43"></span>[43](#text_43). As is usual, the poet, at
+   <span id="notes_43"></span>[43](#text_43.md). As is usual, the poet, at
 the close of his tale, enforces the claim of Manua, to have glory and
 honour.
 
@@ -1289,21 +1289,21 @@ translation of the "Codex Ramirez," which was written in Spanish soon
 after the conquest of Mexico: "The first god and the first goddess were
 self-created, and dwelt in the Third Heavens; of their four sons, one
 was born red, another was born black.<span
-id="page_188_fr_*"></span>[\*](#page_188_note_*) Two of these sons, by
+id="page_188_fr_*"></span>[\*](#page_188_note_*.md) Two of these sons, by
 appointment, proceeded to create first fire, then a half-sun, then a man
 and a woman, then the days, then a great fish<span
-id="page_188_fr_*"></span>[\*](#page_188_note_*) like a cayman, out of
+id="page_188_fr_*"></span>[\*](#page_188_note_*.md) like a cayman, out of
 which they made the earth. As yet there was no division of time into
 years; so the creating gods now made a full sun to shine on the earth.
 Then great giants were made, who lived only on acorns, and could carry
 trees in their hands. Soon after it rained<span
-id="page_188_fr_*"></span>[\*](#page_188_note_*) so much that the sky
+id="page_188_fr_*"></span>[\*](#page_188_note_*.md) so much that the sky
 fell down upon the earth. The gods then created four men to help them to
 raise the sky again, and two of the gods changed themselves into
-trees<span id="page_188_fr_*"></span>[\*](#page_188_note_*) for the same
+trees<span id="page_188_fr_*"></span>[\*](#page_188_note_*.md) for the same
 end. The Sun now resumed his place in the sky, and, in order that he
 might have hearts to feed on,<span
-id="page_188_fr_*"></span>[\*](#page_188_note_*) and blood to drink, men
+id="page_188_fr_*"></span>[\*](#page_188_note_*.md) and blood to drink, men
 were compelled to engage in perpetual war. One year after this one of
 the four gods took a rod, <span id="page_189">p. 189</span> and with it
 struck a rock, from which sprang the 'mountaineers,' who occupied the
@@ -1330,7 +1330,7 @@ Varuna is thus more venerable and ancient than Dyaus, the lower sky.
 
 ------------------------------------------------------------------------
 
-[The Pacific](../index)
+[The Pacific](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -1338,14 +1338,14 @@ Varuna is thus more venerable and ancient than Dyaus, the lower sky.
 
 <span id="footnotes_page_176">p. 176</span>
 
-<span id="page_176_note_*"></span>[\*](#page_176_fr_*) Compare with this
+<span id="page_176_note_*"></span>[\*](#page_176_fr_*.md) Compare with this
 the story of Kahu's discovery of the Chatham Islands: "On the arrival of
 the Kahu at this island (Chatham Island) he found it floating about; it
 was Kahu who closed (fixed) all this island, including Pitt Island."
 There are other Polynesian myths of the same character.—E<span
 class="small">DITORS</span>.
 
-<span id="page_176_note_dagger"></span>[†](#page_176_fr_dagger) N<span
+<span id="page_176_note_dagger"></span>[†](#page_176_fr_dagger.md) N<span
 class="small">OTE</span>.—Mr. Powell's manuscript, under date March 21,
 1871, has this note:—"To-day Taua-nu‘u has explained to me the reason of
 his reluctance to disclose his traditions; he is afraid lest contention
@@ -1361,13 +1361,13 @@ different from ‘Ele-‘ele.
 
 <span id="footnotes_page_187">p. 187</span>
 
-<span id="page_187_note_*"></span>[\*](#page_187_fr_*) *Fale-‘ula*, is
+<span id="page_187_note_*"></span>[\*](#page_187_fr_*.md) *Fale-‘ula*, is
 the Whare-kura of Maori tradition, which is described as a temple, or
 use set apart and strictly *tapu*, where the priests taught the ancient
 histories and traditions of the people; it is sometimes called
 Whare-maire.—E<span class="small">DITORS</span>.
 
-<span id="page_187_note_dagger"></span>[†](#page_187_fr_dagger) Compare
+<span id="page_187_note_dagger"></span>[†](#page_187_fr_dagger.md) Compare
 with this, the preparations made by Maui, who in most of the myths
 referring to his "fishing up" of lands is described as trampling on the
 hills to prepare the earth the habitation of man. Had he not been
@@ -1376,7 +1376,7 @@ have presented a level surface.—E<span class="small">DITORS</span>.
 
 <span id="footnotes_page_188">p. 188</span>
 
-<span id="page_188_note_*"></span>[\*](#page_188_fr_*) Parallels to
+<span id="page_188_note_*"></span>[\*](#page_188_fr_*.md) Parallels to
 these are found in others of our Samoan myths.
 
  

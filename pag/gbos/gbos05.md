@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos04)  [Next](gbos06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos04)  [Next](gbos06.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ She draws the banishing pentacle at each quarter.
 
 ------------------------------------------------------------------------
 
-[Next: Cakes and Wine](gbos06)
+[Next: Cakes and Wine](gbos06.md)

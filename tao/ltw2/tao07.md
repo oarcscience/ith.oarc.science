@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao07)   
-[Previous](tao06)  [Next](tao08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao07.md)   
+[Previous](tao06)  [Next](tao08.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ he is disinterested that his own interests are conserved?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](tao08)
+[Next: Chapter 8](tao08.md)

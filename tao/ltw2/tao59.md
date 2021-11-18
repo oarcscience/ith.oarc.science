@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao59)   
-[Previous](tao58)  [Next](tao60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao59.md)   
+[Previous](tao58)  [Next](tao60.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ He will manifest the longevity of TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 60](tao60)
+[Next: Chapter 60](tao60.md)

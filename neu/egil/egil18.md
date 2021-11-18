@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil17)  [Next](egil19) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil17)  [Next](egil19.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ gainsay.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XVIII. Thorolf's ship is taken.](egil19)
+[Next: CHAPTER XVIII. Thorolf's ship is taken.](egil19.md)

@@ -1,25 +1,25 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tdp01)  [Next](tdp03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tdp01)  [Next](tdp03.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_viii">p. viii</span> <span id="page_ix">p. ix</span>
 
-<span id="img__00100"></span> ![THE DRUID PATH](img/_00100.jpg)
+<span id="img__00100"></span> ![THE DRUID PATH](img/_00100.jpg.md)
 
 <span id="page_x">p. x</span>
 
 <span id="img__01000"></span>
 
 [![Una: Traditional Air (sheet-music)](tn/_01000.jpg)  
-Click to enlarge](img/_01000.jpg)  
+Click to enlarge](img/_01000.jpg.md)  
   
 
 <span id="page_1">p. 1</span>
 
-<span id="img_00100"></span> ![THE DRUID PATH](img/00100.jpg)
+<span id="img_00100"></span> ![THE DRUID PATH](img/00100.jpg.md)
 
 # THE DRUID PATH
 
@@ -27,7 +27,7 @@ Click to enlarge](img/_01000.jpg)
 
 |                      |
 |----------------------|
-| ![P](img/p2init.jpg) |
+| ![P](img/p2init.jpg.md) |
 
 HADRAIG, son of Nihil of the Ua Dinan, held silent his white hound on
 the hill of Cromm Cru, and looked down the far valley of blue mists
@@ -583,7 +583,7 @@ curtain and hid him from all of life.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 GES on the bosom of the ocean seemed to pass over him after that storm.
 There was light, and then again there was darkness, but he knew it only
@@ -1001,7 +1001,7 @@ felt the sleep of death was over them both.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 ND on the day of Samhain, as the sun went into the western mists and
 left a path of glory behind, the white hound at the feet of old Roiseen
@@ -1149,7 +1149,7 @@ king, come again in health and safety.
 
 |                     |
 |---------------------|
-| ![N](img/ninit.jpg) |
+| ![N](img/ninit.jpg.md) |
 
 O one ever knew what island in the sea they came to, but come to an
 island they did, and it was far away. The wood grew down to the shore,
@@ -1280,7 +1280,7 @@ Danaan across the water in dusks and dawns.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 ND Roiseen of the Glen went to the great hall of Phadraig, the Ua Dinan,
 and nursed his children there, and gave comfort to Yva of Kilfernora,
@@ -1358,4 +1358,4 @@ heaven and Tir-nan-Ogue.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanting of Doirenn](tdp03)
+[Next: The Enchanting of Doirenn](tdp03.md)

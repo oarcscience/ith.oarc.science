@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs54)  [Next](mhs56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs54)  [Next](mhs56.md) 
 
 ------------------------------------------------------------------------
 
@@ -324,4 +324,4 @@ as much as the old one.
 
 ------------------------------------------------------------------------
 
-[Next: Superstitious Dealings With Animals](mhs56)
+[Next: Superstitious Dealings With Animals](mhs56.md)

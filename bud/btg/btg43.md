@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg42)  [Next](btg44) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg42)  [Next](btg44.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ perform miracles has not understood the doctrine of the Tathagata."
 
 ------------------------------------------------------------------------
 
-[Next: The Vanity Of Worldliness](btg44)
+[Next: The Vanity Of Worldliness](btg44.md)

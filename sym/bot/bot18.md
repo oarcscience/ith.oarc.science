@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot17) 
-[Next](bot19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot17.md) 
+[Next](bot19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -82,7 +82,7 @@ Intellect and Intuition.
 <span id="page_163">p. 163</span>
 
 The symbols of the Twins and Pillars are shown in No. 3 of the coloured
-[Frontispiece](bot00.htm#img_front).
+[Frontispiece](bot00.htm#img_front.md).
 
 Amongst the Romans the month of May was sacred to Maia the goddess of
 Sterility, and this month was, therefore, considered by them a most
@@ -352,6 +352,6 @@ Pisces.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Cancer—The Crab](bot19)
+[Next: Chapter IV. Cancer—The Crab](bot19.md)
 
 </div>

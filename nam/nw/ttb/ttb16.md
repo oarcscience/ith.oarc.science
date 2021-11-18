@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb15)  [Next](ttb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb15)  [Next](ttb17.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_29">p. 29</span>
 
-<span id="img_02900"></span> ![Shwah Kuk, The Frog](img/02900.jpg)
+<span id="img_02900"></span> ![Shwah Kuk, The Frog](img/02900.jpg.md)
 
 ### Shwah Kuk, THE FROG
 
@@ -57,4 +57,4 @@ Tlingets.
 
 ------------------------------------------------------------------------
 
-[Next: Chee-Che-Ka, The Mink](ttb17)
+[Next: Chee-Che-Ka, The Mink](ttb17.md)

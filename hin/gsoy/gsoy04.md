@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy03) 
-[Next](gsoy05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy03.md) 
+[Next](gsoy05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ dating back, according to popular tradition, to at least 300 B.C. His
 *Yoga Sūtras* give definitions and instructions which are accepted by
 all teachers, even when they also make additions in minor matters. He
 begins with a description of yoga as "*Chitta vritti nirodha*." <span
-id="fr_0"></span>[1](#fn_0) *Chitta* is the mind, the instrument that
+id="fr_0"></span>[1](#fn_0.md) *Chitta* is the mind, the instrument that
 stands between the man and the world. As a gardener uses a spade for
 digging, so a man uses the mind for dealing with the world. Acted upon
 by the things of the outer world through the senses, it presents to the
@@ -56,7 +56,7 @@ agitation on its own account, bubbling in a hundred places with
 disturbing visions, excited by uncontrolled emotion or worrying
 thoughts. Let him achieve control of all this, says Patanjali, and his
 reward will be that he shall stand in his own state. <span
-id="fr_1"></span>[2](#fn_1)
+id="fr_1"></span>[2](#fn_1.md)
 
 That a man should be in his own true state has two meanings: first, that
 in his repose he will be utterly himself, not troubled with the
@@ -75,12 +75,12 @@ to be oneself, in one's own true state; all the rest is slavery or
 bondage, willing or unwilling. To its master, the man, the *vrittis* of
 *chitta* are always only objects of knowledge, because of his not being
 involved in them, say Aphorisms iv 18-20. <span
-id="fr_2"></span>[3](#fn_2) These *vrittis* are ideas or items in the
+id="fr_2"></span>[3](#fn_2.md) These *vrittis* are ideas or items in the
 mind.
 
 The final aim of Patanjali's yoga is to cease this slavery and achieve
 freedom. The technical name for this great achievement is *kaivalya*,
-independence. <span id="fr_3"></span>[4](#fn_3) That is really only
+independence. <span id="fr_3"></span>[4](#fn_3.md) That is really only
 another name for divinity, for material things are in bondage, unable to
 move of themselves, and always moved by forces from the outside; but the
 divine is by definition free, able to move of itself. Every man feels in
@@ -104,12 +104,12 @@ yoga, which begins in his Book ii, Patanjali mentions two things which
 are necessary for success in controlling the *vrittis* or thoughts,
 namely *abhyāsa* and *vairāgya*. *Abhyāsa* means constant practice in
 the effort to secure steadiness of mind. <span
-id="fr_4"></span>[5](#fn_4) *Vairāgya* is that condition of the feelings
+id="fr_4"></span>[5](#fn_4.md) *Vairāgya* is that condition of the feelings
 in which they are not colored by outside things, but are directed only
-by our own best judgment. <span id="fr_5"></span>[6](#fn_5) This
+by our own best judgment. <span id="fr_5"></span>[6](#fn_5.md) This
 detachment of the emotions may be "lower" or "higher" according as it is
 born from dislike of external conditions, or from a vision of the
-glorious joy of the pure free life. <span id="fr_6"></span>[7](#fn_6)
+glorious joy of the pure free life. <span id="fr_6"></span>[7](#fn_6.md)
 The higher uncoloredness leads to the highest contemplation, and
 therefore to freedom, the goal of this yoga.
 
@@ -117,9 +117,9 @@ therefore to freedom, the goal of this yoga.
 
 Patanjali's systematic instruction for practical training is given in
 two portions. The first part, called *Kriyā Yoga*, <span
-id="fr_7"></span>[8](#fn_7) is often translated as preliminary yoga
+id="fr_7"></span>[8](#fn_7.md) is often translated as preliminary yoga
 because a person who has not first practiced it is not likely to succeed
-in the main portion, the *ashtanga*, <span id="fr_8"></span>[9](#fn_8)
+in the main portion, the *ashtanga*, <span id="fr_8"></span>[9](#fn_8.md)
 or "eight limbs" of yoga practice. But it is much more than preliminary.
 It is the yoga of action, the yoga which must be practiced all the time
 in daily life. Without it, meditation would be useless, for yoga
@@ -151,7 +151,7 @@ circumstances.
 
 "Ignorance" describes all those activities of the mind which do not take
 into account the fact that man is in himself eternal, pure and
-painless. <span id="fr_9"></span>[10](#fn_9) The man who does not accept
+painless. <span id="fr_9"></span>[10](#fn_9.md) The man who does not accept
 his own true nature as eternal, pure and painless, will judge and value
 all objects improperly. A house, a chair and a pen are something to a
 man, by which he can satisfy his body and mind. They could not be the
@@ -161,7 +161,7 @@ things as for the use of such a being is to begin to see them without
 error. It is to have true motives.
 
 "Egotism" is the tendency to think "I am this," <span
-id="fr_10"></span>[11](#fn_10) and the desire that other people also
+id="fr_10"></span>[11](#fn_10.md) and the desire that other people also
 should think
 
 <span id="page_21">p. 21</span>
@@ -177,12 +177,12 @@ afflictions which are personal liking and disliking. These two are those
 unreasoning impulses which lead men to judge and value things by their
 influence on the comforts and pleasures and prides of the personality,
 not according to their value for an immortal being. <span
-id="fr_11"></span>[12](#fn_11)
+id="fr_11"></span>[12](#fn_11.md)
 
 The fifth affliction is "possessiveness," beginning with clinging to the
 body, which indicates the lack of that insight which causes a man to
 regard the body as a mere instrument which he is willing to use, and
-wear out in the course of time. <span id="fr_12"></span>[13](#fn_12)
+wear out in the course of time. <span id="fr_12"></span>[13](#fn_12.md)
 
 In this affliction we have not merely the fear of death, but that of old
 age as well, for men forget that the bodily life has its
@@ -216,7 +216,7 @@ completely destroy the five afflictions. His object will be attained if
 he succeeds in definitely weakening them. Three kinds of practices are
 prescribed for this purpose in the yoga of action. These are called
 *tapas*, *swādhyāya* and *īshwara-pranidhāna*. <span
-id="fr_13"></span>[14](#fn_13)
+id="fr_13"></span>[14](#fn_13.md)
 
 <span id="page_23">p. 23</span>
 
@@ -239,7 +239,7 @@ the body; speech not causing excitement, truthful, affectionate and
 beneficial, and used in self-study is the *tapas* of speech; clearness
 of thinking, coolness, quietness, self-control, and purity of
 subject-matter are the *tapas* of mind." <span
-id="fr_14"></span>[15](#fn_14)
+id="fr_14"></span>[15](#fn_14.md)
 
 Shri Krishna here gives a wider range to the meaning of *tapas* than
 does Patanjali, who makes it particularly a matter concerning the body.
@@ -353,7 +353,7 @@ The two ethical or moral "limbs" of yoga contain five rules each, which
 the man must practice in his daily life. Put together, they make what we
 may call "the ten commandments." The first five are; "Thou shalt not (a)
 injure, (b) lie, (c) steal, (d) be sensual and (e) be greedy." <span
-id="fr_15"></span>[16](#fn_15)
+id="fr_15"></span>[16](#fn_15.md)
 
 Explaining this aphorism, Vyāsa says that *ahimsā* or non-injury is
 placed first because it is the source of the following nine. Thus the
@@ -381,7 +381,7 @@ pleasure, in any circumstances.
 
 The second five are: "Thou shalt be (a) clean, (b) content, (c)
 self-controlled, (d) studious, and (e) devoted." <span
-id="fr_16"></span>[17](#fn_16) Few comments are needed on these.
+id="fr_16"></span>[17](#fn_16.md) Few comments are needed on these.
 Contentment does not mean satisfaction, but willingness to accept things
 as they are and to make the most of
 
@@ -401,7 +401,7 @@ appear, such as absence of danger, effectiveness of speech, the arrival
 of unsought wealth, vigor of body and mind, understanding of life's
 events, clarity of thought, steadiness of attention, control of the
 senses, great happiness, perfection of body and senses, intuition and
-realization of one's true self. <span id="fr_17"></span>[18](#fn_17)
+realization of one's true self. <span id="fr_17"></span>[18](#fn_17.md)
 These can come only after the cessation of all antagonisms to anybody or
 anything in the world.
 
@@ -419,7 +419,7 @@ which are to be taken up.
 
 First, one must learn to sit quite still in a chosen healthy position.
 "The posture must be steady and pleasant," <span
-id="fr_18"></span>[19](#fn_18) says Patanjali—that is all. There is no
+id="fr_18"></span>[19](#fn_18.md) says Patanjali—that is all. There is no
 recommendation of any particular posture, least of all any distorted,
 painful, or unhealthy position. Posture is achieved when it becomes
 effortless and the mind easily forgets the body. It is chiefly a matter
@@ -429,7 +429,7 @@ often there is fatigue because some of the muscles are weak, yet to sit
 unbalanced for long is almost impossible.
 
 Next, regulation of breath is necessary. <span
-id="fr_19"></span>[20](#fn_19) During meditation, people often forget to
+id="fr_19"></span>[20](#fn_19.md) During meditation, people often forget to
 breathe normally; sometimes they breathe out and forget to breathe in
 again, and so are suddenly recalled to earth by a choking at the throat.
 Many people never breathe well and regularly at all; let them practice
@@ -460,7 +460,7 @@ are not mentioned by Patanjali and should be generally avoided as
 dangerous.
 
 *Pratyāhāra* is the holding back of the senses from the objects of
-sense. <span id="fr_20"></span>[21](#fn_20) One must practice paying no
+sense. <span id="fr_20"></span>[21](#fn_20.md) One must practice paying no
 attention to sounds or sights or skin sensations, quietening
 
 <span id="page_32">p. 32</span>
@@ -495,7 +495,7 @@ and *samādhi*. They are concentration, meditation, and contemplation.
 
 Concentration is really voluntary attentiveness, but this involves
 narrowing the field of view, focusing the mental eye upon a chosen
-object. <span id="fr_21"></span>[22](#fn_21)
+object. <span id="fr_21"></span>[22](#fn_21.md)
 
 When you practice concentration or meditation, always choose the object
 before you begin. Sometimes people sit down and then try to decide what
@@ -520,13 +520,13 @@ will disappear when you are not looking. Calmness—no physical strain—is
 necessary for successful concentration, and, given this, it is not at
 all the difficult thing that it is sometimes supposed to be. Detailed
 methods for practicing concentration are given in my book
-*Concentration*," <span id="fr_22"></span>[23](#fn_22) and regarding
+*Concentration*," <span id="fr_22"></span>[23](#fn_22.md) and regarding
 that and the other seven steps as well in my *Practical Yoga: Ancient
 and Modern*, which contains my translation and explanation of all the
-Patanjali Yoga aphorisms. <span id="fr_23"></span>[24](#fn_23)
+Patanjali Yoga aphorisms. <span id="fr_23"></span>[24](#fn_23.md)
 
 Meditation is a continuous flow or fountain of thought with regard to
-the object of your concentration. <span id="fr_24"></span>[25](#fn_24)
+the object of your concentration. <span id="fr_24"></span>[25](#fn_24.md)
 It involves the realization of that object as fully as possible. You
 must not let the string of thought go so far away on any line that the
 central object is in any way dimmed. On the contrary, every new idea
@@ -561,7 +561,7 @@ specific attentiveness.
 
 Contemplation is another kind of concentration; this time a poise of the
 mind at the top end of your line of thought. <span
-id="fr_25"></span>[26](#fn_25) When in meditation you have reached the
+id="fr_25"></span>[26](#fn_25.md) When in meditation you have reached the
 highest and fullest thought you can about
 
 <span id="page_36">p. 36</span>
@@ -579,7 +579,7 @@ and many powers.
 
 The student is told always to begin with concentration, then proceed to
 meditation. The triple process is a mind-poise called *sanyama*. <span
-id="fr_26"></span>[27](#fn_26)
+id="fr_26"></span>[27](#fn_26.md)
 
 If the candidate wants to have what are commonly called psychic
 faculties and powers, Patanjali explains how he may obtain them—by
@@ -587,13 +587,13 @@ faculties and powers, Patanjali explains how he may obtain them—by
 knowledge of past and future, memory of past lives, reading of others’
 minds, perception of those who have reached perfection, and other powers
 and knowledge connected with "higher hearing, touch, sight, taste and
-smell" <span id="fr_27"></span>[28](#fn_27) but remarks that, though
+smell" <span id="fr_27"></span>[28](#fn_27.md) but remarks that, though
 these are accomplishments of the out-going
 
 <span id="page_37">p. 37</span>
 
 mind, they are obstacles to the full or higher *samādhi*. <span
-id="fr_28"></span>[29](#fn_28) Vāchaspati comments on this that
+id="fr_28"></span>[29](#fn_28.md) Vāchaspati comments on this that
 sometimes the mind is captivated by these psychic powers, just as a
 beggar may think of the possession of a little wealth as abundant
 riches, but the real yogī will reject them all. How can the real man, he
@@ -601,7 +601,7 @@ asks, who has determined to remove all pain—including psychological or
 emotional pains—take pleasure in such accomplishments, which are opposed
 to his true state of being? Only by non-attachment to all such things,
 however great, may the seeds of bondage be destroyed, and independence
-or freedom be attained. <span id="fr_29"></span>[30](#fn_29)
+or freedom be attained. <span id="fr_29"></span>[30](#fn_29.md)
 
 True contemplation, poised on higher matters, Patanjali teaches, leads
 to the complete dispersal of the afflictions, and on to great clarity
@@ -613,73 +613,73 @@ light.
 
 ### Footnotes
 
-<span id="fn_0"></span>[15:1](gsoy04.htm#fr_0) Patanjali, book i, Sūtra
+<span id="fn_0"></span>[15:1](gsoy04.htm#fr_0.md) Patanjali, book i, Sūtra
 or Aphorism i 2.
 
-<span id="fn_1"></span>[16:2](gsoy04.htm#fr_1) Patanjali, Book i,
+<span id="fn_1"></span>[16:2](gsoy04.htm#fr_1.md) Patanjali, Book i,
 Aphorism 3.
 
-<span id="fn_2"></span>[17:3](gsoy04.htm#fr_2) Aphorisms iv 18-20.
+<span id="fn_2"></span>[17:3](gsoy04.htm#fr_2.md) Aphorisms iv 18-20.
 
-<span id="fn_3"></span>[17:4](gsoy04.htm#fr_3) Aphorisms iii 49, 54; iv
+<span id="fn_3"></span>[17:4](gsoy04.htm#fr_3.md) Aphorisms iii 49, 54; iv
 26, 34.
 
-<span id="fn_4"></span>[18:5](gsoy04.htm#fr_4) Aphorism i 13.
+<span id="fn_4"></span>[18:5](gsoy04.htm#fr_4.md) Aphorism i 13.
 
-<span id="fn_5"></span>[18:6](gsoy04.htm#fr_5) Aphorism i 15.
+<span id="fn_5"></span>[18:6](gsoy04.htm#fr_5.md) Aphorism i 15.
 
-<span id="fn_6"></span>[18:7](gsoy04.htm#fr_6) Aphorism i 16.
+<span id="fn_6"></span>[18:7](gsoy04.htm#fr_6.md) Aphorism i 16.
 
-<span id="fn_7"></span>[19:8](gsoy04.htm#fr_7) Aphorism ii *et seq*.
+<span id="fn_7"></span>[19:8](gsoy04.htm#fr_7.md) Aphorism ii *et seq*.
 
-<span id="fn_8"></span>[19:9](gsoy04.htm#fr_8) Aphorism ii 29 *et seq*.
+<span id="fn_8"></span>[19:9](gsoy04.htm#fr_8.md) Aphorism ii 29 *et seq*.
 
-<span id="fn_9"></span>[20:10](gsoy04.htm#fr_9) Aphorism ii 5.
+<span id="fn_9"></span>[20:10](gsoy04.htm#fr_9.md) Aphorism ii 5.
 
-<span id="fn_10"></span>[20:11](gsoy04.htm#fr_10) Aphorism ii 6.
+<span id="fn_10"></span>[20:11](gsoy04.htm#fr_10.md) Aphorism ii 6.
 
-<span id="fn_11"></span>[21:12](gsoy04.htm#fr_11) Aphorisms ii 7, 8.
+<span id="fn_11"></span>[21:12](gsoy04.htm#fr_11.md) Aphorisms ii 7, 8.
 
-<span id="fn_12"></span>[21:13](gsoy04.htm#fr_12) Aphorism ii 9.
+<span id="fn_12"></span>[21:13](gsoy04.htm#fr_12.md) Aphorism ii 9.
 
-<span id="fn_13"></span>[22:14](gsoy04.htm#fr_13) Aphorism ii I.
+<span id="fn_13"></span>[22:14](gsoy04.htm#fr_13.md) Aphorism ii I.
 
-<span id="fn_14"></span>[23:15](gsoy04.htm#fr_14) Verses xvii 14-16.
+<span id="fn_14"></span>[23:15](gsoy04.htm#fr_14.md) Verses xvii 14-16.
 
-<span id="fn_15"></span>[27:16](gsoy04.htm#fr_15) Aphorism ii 30.
+<span id="fn_15"></span>[27:16](gsoy04.htm#fr_15.md) Aphorism ii 30.
 
-<span id="fn_16"></span>[28:17](gsoy04.htm#fr_16) Aphorism ii 32.
+<span id="fn_16"></span>[28:17](gsoy04.htm#fr_16.md) Aphorism ii 32.
 
-<span id="fn_17"></span>[29:18](gsoy04.htm#fr_17) Aphorisms ii 35-45.
+<span id="fn_17"></span>[29:18](gsoy04.htm#fr_17.md) Aphorisms ii 35-45.
 
-<span id="fn_18"></span>[30:19](gsoy04.htm#fr_18) Aphorism ii 46.
+<span id="fn_18"></span>[30:19](gsoy04.htm#fr_18.md) Aphorism ii 46.
 
-<span id="fn_19"></span>[30:20](gsoy04.htm#fr_19) Aphorism ii 49.
+<span id="fn_19"></span>[30:20](gsoy04.htm#fr_19.md) Aphorism ii 49.
 
-<span id="fn_20"></span>[31:21](gsoy04.htm#fr_20) Aphorism ii 54.
+<span id="fn_20"></span>[31:21](gsoy04.htm#fr_20.md) Aphorism ii 54.
 
-<span id="fn_21"></span>[33:22](gsoy04.htm#fr_21) Aphorism iii I.
+<span id="fn_21"></span>[33:22](gsoy04.htm#fr_21.md) Aphorism iii I.
 
-<span id="fn_22"></span>[34:23](gsoy04.htm#fr_22) Pub. by the
+<span id="fn_22"></span>[34:23](gsoy04.htm#fr_22.md) Pub. by the
 Theosophical Publishing House, Adyar, Madras, India.
 
-<span id="fn_23"></span>[34:24](gsoy04.htm#fr_23) Pub. by E. P. Dutton
+<span id="fn_23"></span>[34:24](gsoy04.htm#fr_23.md) Pub. by E. P. Dutton
 and Co., Inc., New York; Rider and Co., Ltd., London, England; Messrs
 Payot, Paris, France (in French), and Edition Orion, Mexico City (in
 Spanish).
 
-<span id="fn_24"></span>[34:25](gsoy04.htm#fr_24) Aphorism iii 2.
+<span id="fn_24"></span>[34:25](gsoy04.htm#fr_24.md) Aphorism iii 2.
 
-<span id="fn_25"></span>[35:26](gsoy04.htm#fr_25) Aphorism iii 3.
+<span id="fn_25"></span>[35:26](gsoy04.htm#fr_25.md) Aphorism iii 3.
 
-<span id="fn_26"></span>[36:27](gsoy04.htm#fr_26) Aphorism iii 4.
+<span id="fn_26"></span>[36:27](gsoy04.htm#fr_26.md) Aphorism iii 4.
 
-<span id="fn_27"></span>[36:28](gsoy04.htm#fr_27) Aphorism iii 35.
+<span id="fn_27"></span>[36:28](gsoy04.htm#fr_27.md) Aphorism iii 35.
 
-<span id="fn_28"></span>[37:29](gsoy04.htm#fr_28) Aphorism iii 36.
+<span id="fn_28"></span>[37:29](gsoy04.htm#fr_28.md) Aphorism iii 36.
 
-<span id="fn_29"></span>[37:30](gsoy04.htm#fr_29) Aphorism iii 49.
+<span id="fn_29"></span>[37:30](gsoy04.htm#fr_29.md) Aphorism iii 49.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three. Shri Krishna's Gita-Yoga](gsoy05)
+[Next: Chapter Three. Shri Krishna's Gita-Yoga](gsoy05.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec19)  [Next](hec21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec19)  [Next](hec21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -38,7 +38,7 @@ Priest of the Church of Jerusalem, and that he died after
 <span class="contnote">\[paragraph continues\]</span> 754, and before
 787, seems to comprise all that has reached us of his biography. His
 enemies, from an unknown reason, called him *Mansur:* <span
-id="fr_2"></span>[\*](#fn_2) whether he were the same with John Arklas,
+id="fr_2"></span>[\*](#fn_2.md) whether he were the same with John Arklas,
 also an ecclesiastical poet, is not so certain.
 
 As a poet, he had a principal share in the Octoechus, of which I have
@@ -53,11 +53,11 @@ has deservedly procured him the title of *The Doctor of Christian Art*.
 
 ### Footnotes
 
-<span id="fn_2"></span>[91:\*](hec20.htm#fr_2) He was called
+<span id="fn_2"></span>[91:\*](hec20.htm#fr_2.md) He was called
 *Ibn-Mansur*, from the name of his father.—Assemani, Bib. Orient. ii.
 97. R. F. L.
 
 ------------------------------------------------------------------------
 
 [Next: Canon for Easter Day, Called the ''Golden Canon,'' or the ''Queen
-of Canons''](hec21)
+of Canons''](hec21.md)

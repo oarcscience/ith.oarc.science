@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
-[Iceland](../../ice/index)  [Index](index)  [Previous](tnm00) 
-[Next](tnm02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
+[Iceland](../../ice/index)  [Index](index)  [Previous](tnm00.md) 
+[Next](tnm02.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ finds scenes and stories from this Viking faith depicted on our
 Christian sculptured stones of the eleventh, or twelfth and thirteenth
 centuries.
 
-The Vikings <span id="fr_0"></span>[1](#fn_0) appeared here first as
+The Vikings <span id="fr_0"></span>[1](#fn_0.md) appeared here first as
 pagans and plunderers, their earliest recorded attack being in 798, when
 they "burned Inis Patrick, broke the shrine of Dachonna, and took the
 spoils of the sea."--"Ann. Ult."
@@ -63,7 +63,7 @@ and fantastic tales
 
 founded on faint echoes of Celtic heathendom and distorted views of the
 Christian religion! Their previous contact with our Celtic cousins in
-the Sudreys, <span id="fr_1"></span>[1](#fn_1) and familiarity with
+the Sudreys, <span id="fr_1"></span>[1](#fn_1.md) and familiarity with
 their language, habits, and customs, and the connection of many of them
 by marriage ties, explain how they came to be received when they settled
 in our poor and sparsely-peopled island, not as foes, but as friends and
@@ -92,7 +92,7 @@ culture.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](tnm01.htm#fr_0) The Vikings, Wick-folk,
+<span id="fn_0"></span>[2:1](tnm01.htm#fr_0.md) The Vikings, Wick-folk,
 supposed to be so called as "men of the bays" from their infesting
 Wicks, creeks, and fiords; but, I prefer Vigfusson's later suggestion
 ("Corp. Poet. Bor.", I., Intro. lxiii.) that it was rather because they
@@ -102,7 +102,7 @@ whence Godfred and Ragnar and Guthrum, aye, and Harold Fairhair and his
 sons, and Cnut also, sailed West whence certainly came the leaders of
 the greatest kingdoms the Northern Emigrants raised in these islands."
 
-<span id="fn_1"></span>[3:1](tnm01.htm#fr_1) The Vikings named the
+<span id="fn_1"></span>[3:1](tnm01.htm#fr_1.md) The Vikings named the
 Orkneys and Shetlands the Nordreys or Northern Isles, and the Hebrides
 and islands off the West of Scotland, the Sudreys, Southern Isles, a
 term which has come down to us in the name of our ecclesiastical
@@ -111,4 +111,4 @@ diocese, Latinized as "*Sodorensis et Manniæ*" which was contracted into
 
 ------------------------------------------------------------------------
 
-[Next: Mythology](tnm02)
+[Next: Mythology](tnm02.md)

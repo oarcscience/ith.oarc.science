@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc62)  [Next](osc64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc62)  [Next](osc64.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ effect that a persistent shark could scent death on board.
 
 ------------------------------------------------------------------------
 
-[Next: (23) Black Cats](osc64)
+[Next: (23) Black Cats](osc64.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](tms00)  [Next](tms02) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](tms00)  [Next](tms02.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ April, 1931
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tms02)
+[Next: Contents](tms02.md)

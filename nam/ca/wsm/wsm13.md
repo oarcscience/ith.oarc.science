@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm12)  [Next](wsm14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm12)  [Next](wsm14.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ touch or open this jug. Be careful!" Then Wolf went away. Coyote said,
 tell me not to open it? I am going to open it." Coyote pulled out the
 stopper.
 
-Many people came out and flew away. <span id="fr_16"></span>[17](#fn_16)
+Many people came out and flew away. <span id="fr_16"></span>[17](#fn_16.md)
 He replaced the stopper,
 
 <span id="page_267">p. 267</span>
@@ -33,10 +33,10 @@ out. They are the Shoshoni.
 
 ### Footnotes
 
-<span id="fn_16"></span>[266:17](wsm13.htm#fr_16) "Flew away" is
+<span id="fn_16"></span>[266:17](wsm13.htm#fr_16.md) "Flew away" is
 probably the informant's confusion, rather than part of the native tale.
 In fact, this legend is not only synoptic, but probably incomplete.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of People (Skull Valley, Utah. Gosiute)](wsm14)
+[Next: The Origin of People (Skull Valley, Utah. Gosiute)](wsm14.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr01) 
-[Next](idr03) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr01.md) 
+[Next](idr03.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,4 +181,4 @@ has links to the correct files.
 
 ------------------------------------------------------------------------
 
-[Next: Who Were The Druids?](idr03)
+[Next: Who Were The Druids?](idr03.md)

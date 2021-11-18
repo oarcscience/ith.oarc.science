@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos13)  [Next](dos15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos13)  [Next](dos15.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,10 +11,10 @@ the sky with Párwati on his breast, looked down to earth, and caught
 sight of Umra-Singh wandering in the forest, uttering lamentations, and
 exclaiming: O Shrí, where art thou hiding? Hast thou, like the desert,
 no pity for the antelope that is dying of thirst for the water of thine
-eyes <span id="fr_68"></span>[r](#fn_68)? And immediately he remembered
+eyes <span id="fr_68"></span>[r](#fn_68.md)? And immediately he remembered
 his boon to Kamalamitra, and grasped the whole story from beginning to
 end. So he said to Umá with a smile: Go now to thy father <span
-id="fr_69"></span>[s](#fn_69), and
+id="fr_69"></span>[s](#fn_69.md), and
 
 <span id="page_81">p. 81</span>
 
@@ -45,7 +45,7 @@ bride. And she on her part will sometime or other be here to join him.
 See that none of you do them actual harm, by devouring or destroying
 them: for they are to work out their redemption in the wood, by the
 decree of destiny and my will and pleasure <span
-id="fr_70"></span>[t](#fn_70). For they fell under a curse, and so
+id="fr_70"></span>[t](#fn_70.md). For they fell under a curse, and so
 became mortals: but when they meet here, and the circumstances are
 favourable, their curse will have an end. Therefore delude them if you
 will, but beware that you touch not a hair of their heads.
@@ -63,19 +63,19 @@ tell her the story and coax away her sulks.
 
 ### Footnotes
 
-<span id="fn_68"></span>[80:r](dos14.htm#fr_68) There is here an
+<span id="fn_68"></span>[80:r](dos14.htm#fr_68.md) There is here an
 untranslateable play on the word *mrigatrishná*, 'the thirst of the
 antelope,' i.e. the *mirage* of the desert, to which he compares her
 eyes.
 
-<span id="fn_69"></span>[80:s](dos14.htm#fr_69) i.e. the Himálaya
+<span id="fn_69"></span>[80:s](dos14.htm#fr_69.md) i.e. the Himálaya
 mountain, of which, or rather whom, Párwati is the daughter, as her name
 signifies.
 
-<span id="fn_70"></span>[82:t](dos14.htm#fr_70) The Hindoos never had a
+<span id="fn_70"></span>[82:t](dos14.htm#fr_70.md) The Hindoos never had a
 Lucian, to laugh at their mythological contradictions. They were always
 too much under the spell.
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Other Body](dos15)
+[Next: XII. The Other Body](dos15.md)

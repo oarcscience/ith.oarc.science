@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe051)  [Next](prwe053) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe051)  [Next](prwe053.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ silver.
 
 ------------------------------------------------------------------------
 
-[Next: The Demon Tregeagle](prwe053)
+[Next: The Demon Tregeagle](prwe053.md)

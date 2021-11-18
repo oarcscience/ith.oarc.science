@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ebm11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ebm11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eleusinian and Bacchic Mysteries*, by Thomas Taylor, \[1891\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 <span id="page_248">p. 248</span>
 
 <span id="img_24801"></span> ![Fortune and the Three
-Fates.](img/24801.png)  
+Fates.](img/24801.png.md)  
 Fortune and the Three Fates.
 
 LIST OF ILLUSTRATIONS.
@@ -306,7 +306,7 @@ here.
 
 <span class="smallcaps">Etruscan Mystic Ceremony.</span>—*Rom. Camp.*
 
-[94](ebm05.htm#page_94)
+[94](ebm05.htm#page_94.md)
 
 36\.
 
@@ -316,26 +316,26 @@ sacred oaks, baskets, drinking-horns, zones, festoon of branches and
 flowers, make very pretty and impressive accessories to two handsome
 priestesses.</span>
 
-[106](ebm05.htm#page_106)
+[106](ebm05.htm#page_106.md)
 
 37\.
 
 <span class="smallcaps">Etruscan Bacchantes.</span>—*Millingen.*  
 <span class="small">These two groups were drawn from a vase (page
-[7](ebm02.htm#page_7)) which is a very fine work of art. The drapery,
+[7](ebm02.htm#page_7).md) which is a very fine work of art. The drapery,
 decoration, symbols, accessories, and all the details of implements used
 in the celebration of the Mysteries are very carefully drawn on the
 vase, which is well preserved. This vase is a strong proof of the
 antiquity of the orgies, for the Etruscans, Tyrrheni, and Tusci were
 ancient before the Romans began to build on the Tiber.</span>
 
-[106](ebm05.htm#page_106)
+[106](ebm05.htm#page_106.md)
 
 38\.
 
 <span class="smallcaps">Etruscan Ceremony.</span>—*Millingen.*
 
-[106](ebm05.htm#page_106)
+[106](ebm05.htm#page_106.md)
 
 39\.
 
@@ -350,7 +350,7 @@ the branches of trees when the wind sweeps through them, meaning,
 whistling, or shrieking in the gale. They were said to be the chief
 attendants on Bacchus, and to delight in revel and wine.</span>
 
-[110](ebm05.htm#page_110)
+[110](ebm05.htm#page_110.md)
 
 40\.
 
@@ -367,7 +367,7 @@ Druzes of Mount Lebanon in Syria now dispense with emblems of wood and
 stone, and use the natural objects in their mystic rites and
 ceremonies.</span>
 
-[110](ebm05.htm#page_110)
+[110](ebm05.htm#page_110.md)
 
 41\.
 
@@ -376,7 +376,7 @@ ceremonies.</span>
 them as they hang on the leaves of the laurel tree, they
 disappear,</span>
 
-[118](ebm05.htm#page_118)
+[118](ebm05.htm#page_118.md)
 
 <span id="page_254">p. 254</span>
 
@@ -691,5 +691,5 @@ disappear,</span>
 </tbody>
 </table>
 
-<span id="img_25801"></span> ![Supper-Scene.](img/25801.png)  
+<span id="img_25801"></span> ![Supper-Scene.](img/25801.png.md)  
 Supper-Scene.

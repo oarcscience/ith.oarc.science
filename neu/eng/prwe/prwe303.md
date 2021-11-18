@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe302)  [Next](prwe304) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe302)  [Next](prwe304.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ of Cornwall.
 
 ------------------------------------------------------------------------
 
-[Next: Peculiar Words and Phrases](prwe304)
+[Next: Peculiar Words and Phrases](prwe304.md)

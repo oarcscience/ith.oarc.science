@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft02)  [Next](mcft04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft02)  [Next](mcft04.md) 
 
 ------------------------------------------------------------------------
 
@@ -593,4 +593,4 @@ he died.
 
 ------------------------------------------------------------------------
 
-[Next: Paddy O'Kelly and the Weasel](mcft04)
+[Next: Paddy O'Kelly and the Weasel](mcft04.md)

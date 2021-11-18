@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst074)  [Next](inst076) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst074)  [Next](inst076.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ cause by opposing it with their names. The truth of God is here too
 certain to be shaken, too clear to be overborne by human authority.
 Others who are neither versed in Scripture, nor entitled to any weight,
 assail sound doctrine with a petulance and improbity which it is
-impossible to tolerate.49  <span id="fr_491"></span>[492](#fn_491)
+impossible to tolerate.49  <span id="fr_491"></span>[492](#fn_491.md)
 Because God of his mere good pleasure electing some passes by others,
 they raise a plea against him. But if the fact is certain, what can they
 gain by quarreling with God? We teach nothing but what experience proves
@@ -112,7 +112,7 @@ man of the seed of David; what, I would ask them, are the virtues by
 which he deserved to become in the very womb, the head of angels the
 only begotten Son of God, the image and glory of the Father, the light,
 righteousness, and salvation of the world? It is wisely observed by
-Augustine,49  <span id="fr_492"></span>[493](#fn_492) that in the very
+Augustine,49  <span id="fr_492"></span>[493](#fn_492.md) that in the very
 head of the Church we have a bright mirror of free election, lest it
 should give any trouble to us the members—viz. that he did not become
 the Son of God by living righteously, but was freely presented with this
@@ -126,7 +126,7 @@ been given to Christ. It will now be proper to attend to what Scripture
 declares concerning each. When Paul declares that we were chosen in
 Christ before the foundation of the world (<span
 id="iv.iii.xxiii-p17.1"></span>[Eph.
-1:4](../../../bib/kjv/eph001.htm#004)<span
+1:4](../../../bib/kjv/eph001.htm#004.md)<span
 id="iv.iii.xxiii-p17.1"></span>), he certainly shows that no regard is
 had to our own worth; for it is just as if he had said, Since in the
 whole seed of Adam our heavenly Father found nothing worthy of his
@@ -138,7 +138,7 @@ ourselves we were incapable of such excellence. This he elsewhere
 observes in another passage, in which he exhorts the Colossians to give
 thanks that they had been made meet to be partakers of the inheritance
 of the saints (<span id="iv.iii.xxiii-p17.2"></span>[Col.
-1:12](../../../bib/kjv/col001.htm#012)<span
+1:12](../../../bib/kjv/col001.htm#012.md)<span
 id="iv.iii.xxiii-p17.2"></span>). If election precedes that divine grace
 by which we are made fit to obtain immortal life, what can God find in
 us to induce him to elect us? What I mean is still more clearly
@@ -147,8 +147,8 @@ the foundation of the world, that we might be holy and without blame
 before him in love: having predestinated us unto the adoption of
 children by Jesus Christ to himself, according to the good pleasure of
 his will,” (<span id="iv.iii.xxiii-p17.3"></span>[Eph.
-1:4](../../../bib/kjv/eph001.htm#004),
-[5](../../../bib/kjv/eph001.htm#005)<span
+1:4](../../../bib/kjv/eph001.htm#004.md),
+[5](../../../bib/kjv/eph001.htm#005.md)<span
 id="iv.iii.xxiii-p17.3"></span>). Here he opposes the good pleasure of
 God to our merits of every description.
 
@@ -184,7 +184,7 @@ explains it in another passage, “Who has called us with a holy calling,
 not according to our works, but according to his own purpose and grace,
 which was given us in Christ Jesus before the world began,” (<span
 id="iv.iii.xxiii-p19.1"></span>[1 Tim.
-2:9](../../../bib/kjv/ti1002.htm#009)<span
+2:9](../../../bib/kjv/ti1002.htm#009.md)<span
 id="iv.iii.xxiii-p19.1"></span>). We have already shown that the
 additional words, “that we might be holy,” remove every doubt. If you
 say that he foresaw they would be holy, and therefore elected them, you
@@ -202,7 +202,7 @@ derived from election are the cause of election? The very thing which
 the Apostle had said, he seems afterwards to confirm by adding,
 “According to his good pleasure which he has purposed in himself,”
 (<span id="iv.iii.xxiii-p19.2"></span>[Eph.
-1:9](../../../bib/kjv/eph001.htm#009)<span
+1:9](../../../bib/kjv/eph001.htm#009.md)<span
 id="iv.iii.xxiii-p19.2"></span>); for the expression that God “purposed
 in himself,” is the same as if it had been said, that in forming his
 decree he considered nothing external to himself; and, accordingly, it
@@ -214,21 +214,21 @@ any individual pay regard to his future works. Hence, what Christ said
 to his disciples is found to be universally applicable to all believers,
 “Ye have not chosen me, but I have chosen you,” (<span
 id="iv.iii.xxiii-p19.3"></span>[John
-15:16](../../../bib/kjv/joh015.htm#016)<span
+15:16](../../../bib/kjv/joh015.htm#016.md)<span
 id="iv.iii.xxiii-p19.3"></span>). Here he not only excludes past merits,
 but declares that they had nothing in themselves for which they could be
 chosen except in so far as his mercy anticipated. And how are we to
 understand the words of Paul, “Who has first given to him, and it shall
 be recompensed unto him again?” (<span
 id="iv.iii.xxiii-p19.4"></span>[Rom.
-11:35](../../../bib/kjv/rom011.htm#035)<span
+11:35](../../../bib/kjv/rom011.htm#035.md)<span
 id="iv.iii.xxiii-p19.4"></span>). His meaning obviously is, that men are
 altogether indebted to the preventing goodness of God, there being
 nothing in them, either past or future, to conciliate his favor.
 
 <span id="iv.iii.xxiii-p20"></span>4. In the Epistle to the Romans
 (<span id="iv.iii.xxiii-p20.1"></span>[Rom.
-9:6](../../../bib/kjv/rom009.htm#006)<span
+9:6](../../../bib/kjv/rom009.htm#006.md)<span
 id="iv.iii.xxiii-p20.1"></span>), in which he again treats this subject
 more reconditely and at greater length, he declares that “they are not
 all Israel which are of Israel;” for though all were blessed in respect
@@ -269,7 +269,7 @@ according to election might stand, not of works, but of him that
 calleth; it was said unto her, \[Rebecca,\] The elder shall serve the
 younger. As it is written, Jacob have I loved, but Esau have I hated,”
 (<span id="iv.iii.xxiii-p21.1"></span>[Rom.
-9:11-13](../../../bib/kjv/rom009.htm#011)<span
+9:11-13](../../../bib/kjv/rom009.htm#011.md)<span
 id="iv.iii.xxiii-p21.1"></span>). If foreknowledge had anything to do
 with this distinction of the brothers, the mention of time would have
 been out of place. Granting that Jacob was elected for a worth to be
@@ -340,7 +340,7 @@ none existed in respect of merit. If you ask the reason the Apostle
 gives it, “For he saith to Moses, I will have mercy on whom I will have
 mercy, and I will have compassion on whom I will have compassion” (<span
 id="iv.iii.xxiii-p23.1"></span>[Rom.
-9:15](../../../bib/kjv/rom009.htm#015)<span
+9:15](../../../bib/kjv/rom009.htm#015.md)<span
 id="iv.iii.xxiii-p23.1"></span>). And what pray, does this mean? It is
 just a clear declaration by the Lord that he finds nothing in men
 themselves to induce him to show kindness, that it is owing entirely to
@@ -353,19 +353,19 @@ mercy why do you turn partly to the view of your own works?
 <span id="iv.iii.xxiii-p24"></span>We must therefore come to that
 smaller number whom Paul elsewhere describes as foreknown of God (<span
 id="iv.iii.xxiii-p24.1"></span>[Rom.
-11:2](../../../bib/kjv/rom011.htm#002)<span
+11:2](../../../bib/kjv/rom011.htm#002.md)<span
 id="iv.iii.xxiii-p24.1"></span>); not foreknown, as these men imagine,
 by idle, inactive contemplations but in the sense which it often bears.
 For surely when Peter says that Christ was “delivered by the determinate
 counsel and foreknowledge of God,” (<span
 id="iv.iii.xxiii-p24.2"></span>[Acts
-2:23](../../../bib/kjv/act002.htm#023)<span
+2:23](../../../bib/kjv/act002.htm#023.md)<span
 id="iv.iii.xxiii-p24.2"></span>), he does not represent God as
 contemplating merely, but as actually accomplishing our salvation. Thus
 also Peter, in saying that the believers to whom he writes are elect
 “according to the foreknowledge of God,” (<span
 id="iv.iii.xxiii-p24.3"></span>[1 Pet.
-1:2](../../../bib/kjv/pe1001.htm#002)<span
+1:2](../../../bib/kjv/pe1001.htm#002.md)<span
 id="iv.iii.xxiii-p24.3"></span>), properly expresses that secret
 predestination by which God has sealed those whom he has been pleased to
 adopt as sons. In using the term *purpose* as synonymous with a term
@@ -374,8 +374,8 @@ undoubtedly shows that God, in being the author of our salvation, does
 not go beyond himself. In this sense he says in the same chapters that
 Christ as “a lamb” “was foreordained before the creation of the world,”
 (<span id="iv.iii.xxiii-p24.4"></span>[1 Pet.
-1:19](../../../bib/kjv/pe1001.htm#019),
-[20](../../../bib/kjv/pe1001.htm#020)<span
+1:19](../../../bib/kjv/pe1001.htm#019.md),
+[20](../../../bib/kjv/pe1001.htm#020.md)<span
 id="iv.iii.xxiii-p24.4"></span>). What could have been more frigid or
 absurd than to have represented God as looking from the height of heaven
 to see whence the salvation of the human race was to come? By a people
@@ -385,7 +385,7 @@ to suppress the vain boasting of those who, while only covered with a
 mask, claim for themselves in the view of the world a first place among
 the godly, Paul says, “The Lord knoweth them that are his,” (<span
 id="iv.iii.xxiii-p24.5"></span>[2 Tim.
-2:19](../../../bib/kjv/ti2002.htm#019)<span
+2:19](../../../bib/kjv/ti2002.htm#019.md)<span
 id="iv.iii.xxiii-p24.5"></span>). In short, by that term he designates
 two classes of people, the one consisting of the whole race of Abraham,
 the other a people separated from that race, and though hidden from
@@ -410,8 +410,8 @@ remove this stumbling-block exclaims, “All that the Father giveth me
 shall come to me.” “And this is the Father’s will which has sent me,
 that of all which he has given me I should lose nothing,” (<span
 id="iv.iii.xxiii-p25.1"></span>[John
-6:37](../../../bib/kjv/joh006.htm#037),
-[39](../../../bib/kjv/joh006.htm#039)<span
+6:37](../../../bib/kjv/joh006.htm#037.md),
+[39](../../../bib/kjv/joh006.htm#039.md)<span
 id="iv.iii.xxiii-p25.1"></span>). Observe that the donation of the
 Father is the first step in our delivery into the charge and protection
 of Christ. Some one, perhaps, will here turn round and object, that
@@ -427,8 +427,8 @@ obscure by any of the mists of caviling. “No man can come to me except
 the Father which has sent me draw him.” “Every man, therefore, that has
 heard and learned of the Father comes unto me,” (<span
 id="iv.iii.xxiii-p25.2"></span>[John
-6:44](../../../bib/kjv/joh006.htm#044),
-[45](../../../bib/kjv/joh006.htm#045)<span
+6:44](../../../bib/kjv/joh006.htm#044.md),
+[45](../../../bib/kjv/joh006.htm#045.md)<span
 id="iv.iii.xxiii-p25.2"></span>). Did all promiscuously bend the knee to
 Christ, election would be common; whereas now in the small number of
 believers a manifest diversity appears. Accordingly our Savior, shortly
@@ -436,7 +436,7 @@ after declaring that the disciples who were given to him were the common
 property of the Father, adds, “I pray not for the world, but for them
 which thou hast given me; for they are thine,” (<span
 id="iv.iii.xxiii-p25.3"></span>[John
-17:9](../../../bib/kjv/joh017.htm#009)<span
+17:9](../../../bib/kjv/joh017.htm#009.md)<span
 id="iv.iii.xxiii-p25.3"></span>). Hence it is that the whole world no
 longer belongs to its Creator, except in so far as grace rescues from
 malediction, divine wrath, and eternal death, some, not many, who would
@@ -445,12 +445,12 @@ it is doomed. Meanwhile, though Christ interpose as a Mediator, yet he
 claims the right of electing in common with the Father, “I speak not of
 you all: I know whom I have chosen” (<span
 id="iv.iii.xxiii-p25.4"></span>[John
-13:18](../../../bib/kjv/joh013.htm#018)<span
+13:18](../../../bib/kjv/joh013.htm#018.md)<span
 id="iv.iii.xxiii-p25.4"></span>). If it is asked whence he has chosen
 them, he answers in another passages “Out of the world;” which he
 excludes from his prayers when he commits his disciples to the Father
 (<span id="iv.iii.xxiii-p25.5"></span>[John
-15:19](../../../bib/kjv/joh015.htm#019)<span
+15:19](../../../bib/kjv/joh015.htm#019.md)<span
 id="iv.iii.xxiii-p25.5"></span>). We must, indeed hold, when he affirms
 that he knows whom he has chosen, first, that some individuals of the
 human race are denoted; and, secondly, that they are not distinguished
@@ -459,7 +459,7 @@ follows, that since Christ makes himself the author of election, none
 excel by their own strength or industry. In elsewhere numbering Judas
 among the elect, though he was a devil (<span
 id="iv.iii.xxiii-p25.6"></span>[John
-6:70](../../../bib/kjv/joh006.htm#070)<span
+6:70](../../../bib/kjv/joh006.htm#070.md)<span
 id="iv.iii.xxiii-p25.6"></span>), he refers only to the apostolical
 office, which though a bright manifestation of divine favor (as Paul so
 often acknowledges it to be in his own person), does not, however,
@@ -469,11 +469,11 @@ worse than a devil; but not one of those whom Christ has once ingrafted
 into his body will he ever permit to perish, for in securing their
 salvation, he will perform what he has promised; that is, exert a divine
 power greater than all (<span id="iv.iii.xxiii-p25.7"></span>[John
-10:28](../../../bib/kjv/joh010.htm#028)<span
+10:28](../../../bib/kjv/joh010.htm#028.md)<span
 id="iv.iii.xxiii-p25.7"></span>). For when he says, “Those that thou
 gavest me I have kept, and none of them is lost but the son of
 perdition,” (<span id="iv.iii.xxiii-p25.8"></span>[John
-17:12](../../../bib/kjv/joh017.htm#012)<span
+17:12](../../../bib/kjv/joh017.htm#012.md)<span
 id="iv.iii.xxiii-p25.8"></span>), the expression, though there is a
 catachresis in it, is not at all ambiguous. The sum is, that God by
 gratuitous adoption forms those whom he wishes to have for sons; but
@@ -502,14 +502,14 @@ foundation of the world, because God foreknow that we would be good, not
 that he himself would make us good. This is not the language of him who
 says, ‘Ye have not chosen me, but I have chosen you,’ (<span
 id="iv.iii.xxiii-p26.1"></span>[John
-15:16](../../../bib/kjv/joh015.htm#016)<span
+15:16](../../../bib/kjv/joh015.htm#016.md)<span
 id="iv.iii.xxiii-p26.1"></span>). For had he chosen us because he
 foreknow that we would be good, he would at the same time also have
 foreknown that we were to choose him,” (August. in Joann. 8, see also
 what follows to the same effect). Let the testimony of Augustine prevail
 with those who willingly acquiesce in the authority of the Fathers:
 although Augustine allows not that he differs from the others,50  <span
-id="fr_493"></span>[494](#fn_493) but shows by clear evidence that the
+id="fr_493"></span>[494](#fn_493.md) but shows by clear evidence that the
 difference which the Pelagians invidiously objected to him is unfounded.
 For he quotes from Ambrose (Lib. de Prædest. Sanct. cap. 19), “Christ
 calls whom he pities.” Again, “Had he pleased he could have made them
@@ -530,7 +530,7 @@ ambiguity, that God favors his elect, because he is pleased to do so,
 and shows mercy because he is pleased to do so. For the words, “I will
 be gracious to whom I will be gracious, and show mercy on whom I will
 show mercy,” (<span id="iv.iii.xxiii-p27.1"></span>[Exod.
-33:19](../../../bib/kjv/exo033.htm#019)<span
+33:19](../../../bib/kjv/exo033.htm#019.md)<span
 id="iv.iii.xxiii-p27.1"></span>), are the same in effect as if it had
 been said, God is moved to mercy by no other reason than that he is
 pleased to show mercy. Augustine’s declaration, therefore, remains true.
@@ -577,21 +577,21 @@ explained, and will again shortly repeat. But the point which they
 assume I deny as false in two respects: for he who threatens that when
 it shall rain on one city there will be drought in another (<span
 id="iv.iii.xxiii-p29.1"></span>[Amos
-4:7](../../../bib/kjv/amo004.htm#007)<span
+4:7](../../../bib/kjv/amo004.htm#007.md)<span
 id="iv.iii.xxiii-p29.1"></span>); and declares in another passage, that
 there will be a famine of the word (<span
 id="iv.iii.xxiii-p29.2"></span>[Amos
-8:11](../../../bib/kjv/amo008.htm#011)<span
+8:11](../../../bib/kjv/amo008.htm#011.md)<span
 id="iv.iii.xxiii-p29.2"></span>), does not lay himself under a fixed
 obligation to call all equally. And he who, forbidding Paul to preach in
 Asian and leading him away from Bithynia, carries him over to Macedonia
 (<span id="iv.iii.xxiii-p29.3"></span>[Acts
-16:6](../../../bib/kjv/act016.htm#006)<span
+16:6](../../../bib/kjv/act016.htm#006.md)<span
 id="iv.iii.xxiii-p29.3"></span>), shows that it belongs to him to
 distribute the treasure in what way he pleases. But it is by Isaiah he
 more clearly demonstrates how he destines the promises of salvation
 specially to the elect (<span id="iv.iii.xxiii-p29.4"></span>[Isa.
-8:16](../../../bib/kjv/isa008.htm#016)<span
+8:16](../../../bib/kjv/isa008.htm#016.md)<span
 id="iv.iii.xxiii-p29.4"></span>); for he declares that his disciples
 would consist of them only, and not indiscriminately of the whole human
 race. Whence it is evident that the doctrine of salvation, which is said
@@ -601,7 +601,7 @@ suffice to observe, that though the word of the gospel is addressed
 generally to all, yet the gift of faith is rare. Isaiah assigns the
 cause when he says that the arm of the Lord is not revealed to all
 (<span id="iv.iii.xxiii-p29.5"></span>[Isa.
-53:1](../../../bib/kjv/isa053.htm#001)<span
+53:1](../../../bib/kjv/isa053.htm#001.md)<span
 id="iv.iii.xxiii-p29.5"></span>). Had he said, that the gospel is
 malignantly and perversely condemned, because many obstinately refuse to
 hear, there might perhaps be some color for this universal call. It is
@@ -614,7 +614,7 @@ faith that makes men sons of God. Certainly when it is said, “As many as
 received him, to them gave he power to become the sons of God, even to
 them that believe on his name,” (<span
 id="iv.iii.xxiii-p29.6"></span>[John
-1:12](../../../bib/kjv/joh001.htm#012)<span
+1:12](../../../bib/kjv/joh001.htm#012.md)<span
 id="iv.iii.xxiii-p29.6"></span>), a confused mass is not set before us,
 but a special order is assigned to believers, who are “born not of
 blood, nor of the will of the flesh, nor of the will of man, but of
@@ -636,15 +636,15 @@ causes and effects, when Paul says, that the Father “has blessed us with
 all spiritual blessings in heavenly places in Christ, according as he
 has chosen us in him before the foundation of the world,” (<span
 id="iv.iii.xxiii-p30.1"></span>[Eph.
-1:3](../../../bib/kjv/eph001.htm#003),
-[4](../../../bib/kjv/eph001.htm#004)<span
+1:3](../../../bib/kjv/eph001.htm#003.md),
+[4](../../../bib/kjv/eph001.htm#004.md)<span
 id="iv.iii.xxiii-p30.1"></span>), that these riches are not common to
 all, because God has chosen only whom he would. And the reason why in
 another passage he commends the faith of the elect is, to prevent any
 one from supposing that he acquires faith of his own nature; since to
 God alone belongs the glory of freely illuminating those whom he had
 previously chosen (<span id="iv.iii.xxiii-p30.2"></span>[Tit.
-1:1](../../../bib/kjv/tit001.htm#001)<span
+1:1](../../../bib/kjv/tit001.htm#001.md)<span
 id="iv.iii.xxiii-p30.2"></span>). For it is well said by Bernard, “His
 friend hear apart when he says to them, Fear not, little flock: to you
 it is given to know the mysteries of the kingdom. Who are these? Those
@@ -660,7 +660,7 @@ everlasting through glorification: the one knows no beginning, the other
 no end.” But why cite Bernard as a witness, when we hear from the lips
 of our Master, “Not that any man has seen the Father, save he which is
 of God”? (<span id="iv.iii.xxiii-p30.3"></span>[John
-6:46](../../../bib/kjv/joh006.htm#046)<span
+6:46](../../../bib/kjv/joh006.htm#046.md)<span
 id="iv.iii.xxiii-p30.3"></span>). By these words he intimates that all
 who are not regenerated by God are amazed at the brightness of his
 countenance. And, indeed, faith is aptly conjoined with election,
@@ -670,8 +670,8 @@ that of all which he has given me I should lose nothing;” “And this is
 the will of him that sent me, that every one which sees the Son, and
 believes on him, may have everlasting life,” (<span
 id="iv.iii.xxiii-p30.4"></span>[John
-6:39](../../../bib/kjv/joh006.htm#039),
-[40](../../../bib/kjv/joh006.htm#040)<span
+6:39](../../../bib/kjv/joh006.htm#039.md),
+[40](../../../bib/kjv/joh006.htm#040.md)<span
 id="iv.iii.xxiii-p30.4"></span>). If he would have all to be saved, he
 would appoint his Son their guardian, and would ingraft them all into
 his body by the sacred bond of faith. It is now clear that faith is a
@@ -680,18 +680,18 @@ adopted. Hence Christ elsewhere says, that the sheep follow the shepherd
 because they know his voice, but that they will not follow a stranger,
 because they know not the voice of strangers (<span
 id="iv.iii.xxiii-p30.5"></span>[John
-10:4](../../../bib/kjv/joh010.htm#004)<span
+10:4](../../../bib/kjv/joh010.htm#004.md)<span
 id="iv.iii.xxiii-p30.5"></span>). But whence that distinction, unless
 that their ears have been divinely bored? For no man makes himself a
 sheep, but is formed by heavenly grace. And why does the Lord declare
 that our salvation will always be sure and certain, but just because it
 is guarded by the invincible power of God? (<span
 id="iv.iii.xxiii-p30.6"></span>[John
-10:29](../../../bib/kjv/joh010.htm#029)<span
+10:29](../../../bib/kjv/joh010.htm#029.md)<span
 id="iv.iii.xxiii-p30.6"></span>). Accordingly, he concludes that
 unbelievers are not of his sheep (<span
 id="iv.iii.xxiii-p30.7"></span>[John
-10:16](../../../bib/kjv/joh010.htm#016)<span
+10:16](../../../bib/kjv/joh010.htm#016.md)<span
 id="iv.iii.xxiii-p30.7"></span>). The reason is, because they are not of
 the number of those who, as the Lord promised by Isaiah, were to be his
 disciples. Moreover, as the passages which I have quoted imply
@@ -701,7 +701,7 @@ election.
 <span id="iv.iii.xxiii-p31"></span>11. We come now to the reprobate, to
 whom the Apostle at the same time refers (<span
 id="iv.iii.xxiii-p31.1"></span>[Rom.
-9:13](../../../bib/kjv/rom009.htm#013)<span
+9:13](../../../bib/kjv/rom009.htm#013.md)<span
 id="iv.iii.xxiii-p31.1"></span>). For as Jacob, who as yet had merited
 nothing by good works, is assumed into favor; so Esau, while as yet
 unpolluted by any crime, is hated. If we turn our view to works, we do
@@ -718,7 +718,7 @@ expressly raised up, in order that the glory of God may thereby be
 displayed. At last, he concludes that God has mercy on whom he will have
 mercy, and whom he will he hardeneth (<span
 id="iv.iii.xxiii-p31.2"></span>[Rom.
-9:18](../../../bib/kjv/rom009.htm#018)<span
+9:18](../../../bib/kjv/rom009.htm#018.md)<span
 id="iv.iii.xxiii-p31.2"></span>). You see how he refers both to the mere
 pleasure of God. Therefore, if we cannot assign any reason for his
 bestowing mercy on his people, but just that it so pleases him, neither
@@ -730,7 +730,7 @@ they are not to seek for any cause beyond his will.
 
 ### Footnotes
 
-<span id="fn_491"></span>[492](inst075.htm#fr_491) <span
+<span id="fn_491"></span>[492](inst075.htm#fr_491.md) <span
 id="iv.iii.xxiii-p15.1"></span>
 
 <span id="iv.iii.xxiii-p16"></span>98 498 French, “Il y en a d’a aucuns,
@@ -742,14 +742,14 @@ Scripture, are not worthy of any credit or reputation, and yet are more
 bold and presumptuous in defaming the doctrine which is unknown to them,
 and hence their arrogance is insupportable.
 
-<span id="fn_492"></span>[493](inst075.htm#fr_492) <span
+<span id="fn_492"></span>[493](inst075.htm#fr_492.md) <span
 id="iv.iii.xxiii-p16.1"></span>
 
 <span id="iv.iii.xxiii-p17"></span>99 499 August. de Corrept. et Gratia
 ad Valent. c. 15. Hom. de Bono Perseveran. c. 8. Item, de Verbis Apost.
 Serm. 8.
 
-<span id="fn_493"></span>[494](inst075.htm#fr_493) <span
+<span id="fn_493"></span>[494](inst075.htm#fr_493.md) <span
 id="iv.iii.xxiii-p26.2"></span>
 
 <span id="iv.iii.xxiii-p27"></span>00 500 Latin, “a reliquis;” French,
@@ -758,4 +758,4 @@ id="iv.iii.xxiii-p26.2"></span>
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 23. - REFUTATION OF THE CALUMNIES BY WHICH THIS DOCTRINE
-IS ALWAYS UNJUSTLY ASSAILED.](inst076)
+IS ALWAYS UNJUSTLY ASSAILED.](inst076.md)

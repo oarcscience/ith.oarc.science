@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc16)  [Next](moc18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc16)  [Next](moc18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -65,7 +65,7 @@ rocks of the whole chain become violet--an optical phenomenon rarely
 seen in the Alps. The poets of classical Greece allude to this violet
 colour in the mountains round Athens. In Italy only the shadows become
 violet, but here in Crete the rocks are violet." <span
-id="fr_331"></span>[1](#fn_331)
+id="fr_331"></span>[1](#fn_331.md)
 
 When the palace of Phæstos was excavated, it was found to be of smaller
 extent than that of Knossos. Beneath its ruins were found traces of an
@@ -98,7 +98,7 @@ to light--a dark and a red. Animal bones included those of the oxen,
 sheep, boars, hares, and birds. Certain pointed bone implements may have
 been potter's tools. The carved femora of great birds are believed by
 Mosso to have been mouthpieces of musical instruments--the pipes of Pan
-or a primitive bagpipe. <span id="fr_332"></span>[1](#fn_332) At a depth
+or a primitive bagpipe. <span id="fr_332"></span>[1](#fn_332.md) At a depth
 of 4 metres there was a roughly-shaped headless figurine of the
 mother-goddess. It has the characteristics of Cycladic and Trojan relics
 of like character. Near the figure lay a piece of magnetite. "According
@@ -107,7 +107,7 @@ be certain that it was a sacred stone from the fact that the Neolithic
 folk had not made a weapon or a hammer of it. Possibly they believed it
 to be a meteoric stone: it was known at that period that these stones
 came from heaven, for they appear with a luminous track and fall to
-earth with a sound." <span id="fr_333"></span>[2](#fn_333)
+earth with a sound." <span id="fr_333"></span>[2](#fn_333.md)
 
 In Egypt iron was anciently known as "the metal of heaven". One theory
 of heaven was that it was formed of a rectangular plate of iron which
@@ -129,7 +129,7 @@ Then Joshua built an altar unto the Lord God of Israel in Mount Ebal, as
 Moses the servant of the Lord commanded the children of Israel, as it is
 written in the book of the law of Moses, an altar of whole stones, over
 which no man hath lift up any iron. <span
-id="fr_334"></span>[1](#fn_334)
+id="fr_334"></span>[1](#fn_334.md)
 
 A piece of magnetic iron was found in the Neolithic stratum of Troy,
 which also yielded small ritual dishes like those of Phæstos. It has
@@ -138,7 +138,7 @@ of Knossos. Obsidian knives gave indication, as elsewhere on the island,
 of trading relations with Melos before the age of metal. "These knives",
 writes Mosso, "cut so well that during the excavation I always kept one
 in my pocket to cut my pencil point." <span
-id="fr_335"></span>[2](#fn_335) They continued in use long after the
+id="fr_335"></span>[2](#fn_335.md) They continued in use long after the
 introduction of bronze. An excavator informed the writer that he found a
 worker with an obsidian razor. Asked why he used it, he remarked that
 his father had done so before him. In Egypt the earliest razors were of
@@ -258,7 +258,7 @@ temple immediately! Behold thou my heart, which
 
 grieveth for thee. Behold me seeking for thee. . . . Lo! I invoke thee
 with walling that reacheth high as heaven." <span
-id="fr_336"></span>[1](#fn_336)
+id="fr_336"></span>[1](#fn_336.md)
 
 This sistrum-bearer on the vase has not a pinched Cretan waist, and may
 represent an Egyptian. He is singing or wailing, as are also three of
@@ -296,18 +296,18 @@ THREE VASES, SCULPTURED IN STONE, FOUND AT AGHIA TRIADHA
 The largest of the three is known as the "Boxer Vase", and measures 18
 inches high. The "Harvester Vase", on the left hand of the centre
 subject, is shown on a larger scale in plate facing, page
-[212](moc14.htm#page_212). The other small vase (actual size, 4 inches
-high) is described on page [286](#page_286).
+[212](moc14.htm#page_212.md). The other small vase (actual size, 4 inches
+high) is described on page [286](#page_286.md).
 
  
 
 <span id="page_289">p. 289</span>
 
 peasants with agricultural implements." <span
-id="fr_337"></span>[1](#fn_337) "Extraordinary technique was required".
+id="fr_337"></span>[1](#fn_337.md) "Extraordinary technique was required".
 write Mr. and Mrs. Hawes, "to represent four abreast, each seen
 distinctly, one beyond another. The Parthenon frieze presents no more
-difficult problem in low relief." <span id="fr_338"></span>[2](#fn_338)
+difficult problem in low relief." <span id="fr_338"></span>[2](#fn_338.md)
 
 Another decorated object found at Aghia Triadha is a sarcophagus of
 limestone shaped like a chest, which has been assigned to a period prior
@@ -406,30 +406,30 @@ reserved in early times for kings and queens and their families.
 
 ### Footnotes
 
-<span id="fn_331"></span>[282:1](moc17.htm#fr_331) *Palaces of Crete and
+<span id="fn_331"></span>[282:1](moc17.htm#fr_331.md) *Palaces of Crete and
 their Builders*, pp. 57, 59.
 
-<span id="fn_332"></span>[283:1](moc17.htm#fr_332) *Dawn of Modern
+<span id="fn_332"></span>[283:1](moc17.htm#fr_332.md) *Dawn of Modern
 Civilization*, pp. 69, 70.
 
-<span id="fn_333"></span>[283:2](moc17.htm#fr_333) *Palaces of Crete and
+<span id="fn_333"></span>[283:2](moc17.htm#fr_333.md) *Palaces of Crete and
 their Builders*, p. 29.
 
-<span id="fn_334"></span>[284:1](moc17.htm#fr_334) *Joshua*, viii, 30,
+<span id="fn_334"></span>[284:1](moc17.htm#fr_334.md) *Joshua*, viii, 30,
 31.
 
-<span id="fn_335"></span>[284:2](moc17.htm#fr_335) *Dawn of
+<span id="fn_335"></span>[284:2](moc17.htm#fr_335.md) *Dawn of
 Mediterranean Civilization*, p. 89.
 
-<span id="fn_336"></span>[288:1](moc17.htm#fr_336) *The Burden of Isis*,
+<span id="fn_336"></span>[288:1](moc17.htm#fr_336.md) *The Burden of Isis*,
 by J. T. Dennis, pp. 21 *et seq*. and 29 *et seq*.
 
-<span id="fn_337"></span>[289:1](moc17.htm#fr_337) *The Ancient History
+<span id="fn_337"></span>[289:1](moc17.htm#fr_337.md) *The Ancient History
 of the Near East*, p. 54
 
-<span id="fn_338"></span>[289:2](moc17.htm#fr_338) *Crete, the
+<span id="fn_338"></span>[289:2](moc17.htm#fr_338.md) *Crete, the
 Forerunner of Greece*, p. 129.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Cave Deities and their Symbols](moc18)
+[Next: Chapter XIII. Cave Deities and their Symbols](moc18.md)

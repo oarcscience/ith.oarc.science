@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb02)  [Next](gyfb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb02)  [Next](gyfb04.md) 
 
 </div>
 
@@ -385,6 +385,6 @@ them as his own father and mother.
 
 ------------------------------------------------------------------------
 
-[Next: The Goblin Pony](gyfb04)
+[Next: The Goblin Pony](gyfb04.md)
 
 </div>

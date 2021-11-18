@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Theosophy](../../the/index)  [Index](index)  [Previous](theo11) 
-[Next](theo13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Theosophy](../../the/index)  [Index](index)  [Previous](theo11.md) 
+[Next](theo13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Theosophy*, by Rudolf Steiner, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -212,7 +212,7 @@ all things in the knowledge and conquest of the physical world. Our
 words have, in fact, received their stamp and significance through being
 applied to this physical world. Nevertheless we have to make use of
 these current words so as to form a link with something known. This
-opens the door to many [misunderstandings](errata.htm#3) on the part of
+opens the door to many [misunderstandings](errata.htm#3.md) on the part of
 those who wish to trust to their external senses
 
 <span id="page_96">p. 96</span>
@@ -537,4 +537,4 @@ Soul Life.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Soul in the Soul World after Death](theo13)
+[Next: 2. The Soul in the Soul World after Death](theo13.md)

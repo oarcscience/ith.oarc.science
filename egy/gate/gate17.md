@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate16)  [Next](gate18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate16)  [Next](gate18.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,15 +44,15 @@ called TUAIU.
 The sun's boat is met in this section by a company of thirteen gods, who
 are under the direction of a god who holds a staff in his hand. The
 names of the first seven gods are:--NEPEMEH <span
-id="fr_9"></span>[1](#fn_9), NENHA,  <span
-id="fr_10"></span>[2](#fn_10), BA, HERU, BEHA-AB, KHNEMU, and SETCHET;
+id="fr_9"></span>[1](#fn_9.md), NENHA,  <span
+id="fr_10"></span>[2](#fn_10.md), BA, HERU, BEHA-AB, KHNEMU, and SETCHET;
 the third has the head of a ram, and the fourth that of a hawk. The last
 six gods
 
  
 
 <span id="img_08800"></span> [![](tn/generic.jpg)  
-Click to view](img/08800.jpg)  
+Click to view](img/08800.jpg.md)  
 The Boat of the Sun towed by Gods of the Tuat.
 
  
@@ -65,12 +65,12 @@ staff has no name. The text which refers to the Sun-god reads:--
  
 
 <span id="img_08900"></span> [![](tn/generic.jpg)  
-Click to view](img/08900.jpg)  
+Click to view](img/08900.jpg.md)  
 Seven of the Gods of the Entrances who tow the Boat of the Sun through
 Saa-Set.
 
 <span id="img_08901"></span> [![](tn/generic.jpg)  
-Click to view](img/08901.jpg)  
+Click to view](img/08901.jpg.md)  
 Six of the Gods of the Entrances who tow the Boat of the Sun through
 Saa-Set, and a god who bears a staff.
 
@@ -117,11 +117,11 @@ accompanying text:--
  
 
 <span id="img_09300"></span> [![](tn/generic.jpg)  
-Click to view](img/09300.jpg)  
+Click to view](img/09300.jpg.md)  
 Nine of the gods who adore Ra and are at peace.
 
 <span id="img_09301"></span> [![](tn/generic.jpg)  
-Click to view](img/09301.jpg)  
+Click to view](img/09301.jpg.md)  
 (*Left*) Five of the righteous gods of the Tuat. (*Right*) Three of the
 gods who adore Ra and are at peace.
 
@@ -156,7 +156,7 @@ fire to those who have
  
 
 <span id="img_09500"></span> [![](tn/generic.jpg)  
-Click to view](img/09500.jpg)  
+Click to view](img/09500.jpg.md)  
 Seven of the righteous gods of the Tuat.
 
  
@@ -184,7 +184,7 @@ words against KHUTI."
  
 
 <span id="img_09600"></span> [![](tn/generic.jpg)  
-Click to view](img/09600.jpg)  
+Click to view](img/09600.jpg.md)  
 The inert Apostates and Blasphemers of Ra.
 
  
@@ -207,7 +207,7 @@ have sent forth the decree concerning you that ye should be
  
 
 <span id="img_09800"></span> [![](tn/generic.jpg)  
-Click to view](img/09800.jpg)  
+Click to view](img/09800.jpg.md)  
 The Apostates and Blasphemers of Ra, who are doomed to destruction, with
 their arms bound.
 
@@ -231,7 +231,7 @@ Hall; your corruptible
  
 
 <span id="img_09900"></span> [![](tn/generic.jpg)  
-Click to view](img/09900.jpg)  
+Click to view](img/09900.jpg.md)  
 The Apostates and Blasphemers of Ra, who are doomed to destruction, with
 their arms bound.
 
@@ -246,11 +246,11 @@ place of destruction."'
 
 ### Footnotes
 
-<span id="fn_9"></span>[88:1](gate17.htm#fr_9) Var., NEPEN.
+<span id="fn_9"></span>[88:1](gate17.htm#fr_9.md) Var., NEPEN.
 
-<span id="fn_10"></span>[88:2](gate17.htm#fr_10) Var., NENA.
+<span id="fn_10"></span>[88:2](gate17.htm#fr_10.md) Var., NENA.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. The Gate Of Aqebi. The Third Division of the
-Tuat.](gate18)
+Tuat.](gate18.md)

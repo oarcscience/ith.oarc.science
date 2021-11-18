@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp87) 
-[Next](alp89) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp87.md) 
+[Next](alp89.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,4 +162,4 @@ not enter into particulars of their work of desolation.
 
 ------------------------------------------------------------------------
 
-[Next: Silver Age of Armenian Literature](alp89)
+[Next: Silver Age of Armenian Literature](alp89.md)

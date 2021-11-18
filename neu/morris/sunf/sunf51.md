@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf50)  [Next](sunf52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf50)  [Next](sunf52.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -92,6 +92,6 @@ Sundering Flood.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter L. The Red Lad Speaks Privily with Sir Godrick](sunf52)
+[Next: Chapter L. The Red Lad Speaks Privily with Sir Godrick](sunf52.md)
 
 </div>

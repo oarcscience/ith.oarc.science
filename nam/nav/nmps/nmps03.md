@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](nmps02)  [Next](nmps04) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](nmps02)  [Next](nmps04.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ Berkeley, Cal., April 14, 1906.
 
 ------------------------------------------------------------------------
 
-[Next: A Tale of Kininaékai](nmps04)
+[Next: A Tale of Kininaékai](nmps04.md)

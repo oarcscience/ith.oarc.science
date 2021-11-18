@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](icintr01)  [Next](icintr03) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](icintr01)  [Next](icintr03.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ The first two and the last two may serve for the present as a specimen
 of those figures: <span id="img_hex111111"></span>
 ![](img/hex111111.jpg), <span id="img_hex000000"></span>
 ![](img/hex000000.jpg), and <span id="img_hex010101"></span>
-![](img/hex010101.jpg) <span id="fr_14"></span>[10:1](#fn_14). The Text
+![](img/hex010101.jpg) <span id="fr_14"></span>[10:1](#fn_14.md). The Text
 says nothing about their origin and formation. There they are. King Wăn
 takes them up, one after another, in the order that suits himself,
 determined, evidently, by the contrast in the lines of each successive
@@ -142,7 +142,7 @@ way into this Appendix in the fifth (?or fourth) century B.C. from a
 Tâoist source. *K*û Hsî, in his 'Lessons on the Yî for the Young,' gives
 for it the figure of a circle,--thus, <span id="img_circle0"></span>
 ![](img/circle0.jpg); observing that he does so from the philosopher Kâu
-(A.D. 1017-1073) <span id="fr_15"></span>[12:1](#fn_15), and cautioning
+(A.D. 1017-1073) <span id="fr_15"></span>[12:1](#fn_15.md), and cautioning
 his readers against thinking that such a representation came from Fû-hsî
 himself. To me the circular symbol appears very unsuccessful. 'The Great
 Extreme,' it is said, 'divided and produced two lines,--a whole line and
@@ -188,7 +188,7 @@ the Yî The more common view is that it was king Wăn; but *K*û Hsî, when
 he was questioned on the subject, rather inclined to hold that Fû-hsî
 had multiplied them himself, but declined to say whether he thought that
 their names were as old as the figures themselves, or only dated from
-the twelfth century B.C. <span id="fr_16"></span>[13:1](#fn_16) I will
+the twelfth century B.C. <span id="fr_16"></span>[13:1](#fn_16.md) I will
 not venture to controvert
 
 <span id="page_14">p. 14</span>
@@ -226,11 +226,11 @@ Yellow River) gave forth the Map.' This map, according to tradition and
 popular belief, contained a scheme which served as a model to Fû-hsî in
 making his 8 trigrams. Apart from this passage in the Yî King, we know
 that Confucius believed in such a map, or spoke at least as if he
-did <span id="fr_17"></span>[14:1](#fn_17). In the 'Record of Rites' it
+did <span id="fr_17"></span>[14:1](#fn_17.md). In the 'Record of Rites' it
 is said that 'the map was borne by a horse <span
-id="fr_18"></span>[14:2](#fn_18);' and the thing, whatever it was, is
+id="fr_18"></span>[14:2](#fn_18.md);' and the thing, whatever it was, is
 mentioned in the Shû as still preserved at court, among other
-curiosities, in B.C. 1079 <span id="fr_19"></span>[14:3](#fn_19). The
+curiosities, in B.C. 1079 <span id="fr_19"></span>[14:3](#fn_19.md). The
 story of it, as now current, is this, that 'a dragon-horse' issued from
 the Yellow River, bearing on its back an arrangement of marks, from
 which Fû-hsî got the idea of the trigrams.
@@ -253,7 +253,7 @@ there was much speculation about its form from the time that the
 restoration of the ancient classics was undertaken in the Han dynasty,
 the first delineation of it given to the public was in the reign of Hui
 Žung of the Sung dynasty (A. D. 1101-1125) <span
-id="fr_20"></span>[15:1](#fn_20). The most approved scheme of it is the
+id="fr_20"></span>[15:1](#fn_20.md). The most approved scheme of it is the
 following:--
 
 <span id="img_01500"></span> ![](img/01500.jpg)
@@ -327,7 +327,7 @@ described, we arrive, very easily, at all the lineal figures, and might
 proceed to multiply them to billions. We cannot tell who devised the
 third account of their formation from the map or scheme on the
 dragon-horse of the, Yellow River <span
-id="fr_21"></span>[17:1](#fn_21). Its object, no doubt, was to impart a
+id="fr_21"></span>[17:1](#fn_21.md). Its object, no doubt, was to impart a
 supernatural character to the trigrams and produce a religious
 veneration for them. It may be doubted whether the scheme as it is now
 fashioned be the correct one,--such as it was in the *K*âu dynasty. The
@@ -359,12 +359,12 @@ But substituting numbers for the number of marks, we have
 
 This is nothing but the arithmetical puzzle, in which the numbers from 1
 to 9 are arranged so as to make 15 in whatever way we add them <span
-id="fr_22"></span>[18:1](#fn_22). If we had the original form of 'the
+id="fr_22"></span>[18:1](#fn_22.md). If we had the original form of 'the
 River Map,' we should probably find it a numerical trifle, not more
 difficult, not more supernatural, than this magic square.
 
 3\. Let us return to the Yî of *K*âu, which, as I have said above on [p.
-10](#page_10), contains, under each of the 64 hexagrams, a brief essay
+10](#page_10.md), contains, under each of the 64 hexagrams, a brief essay
 of a moral, social, or political character, symbolically expressed.
 
 <span id="page_19">p. 19</span>
@@ -390,7 +390,7 @@ laws. There is no certainty that criminals will be apprehended. The
 lesser people rise up and commit violent outrages on one another. The
 dynasty of Yin is sinking in ruin; its condition is like that of one
 crossing a large stream, who can find neither ford nor bank <span
-id="fr_23"></span>[19:1](#fn_23).'
+id="fr_23"></span>[19:1](#fn_23.md).'
 
 This miserable state of the nation was due very much to
 
@@ -407,7 +407,7 @@ and abandons himself to wild idleness and irreverence. He has cut
 himself off from Heaven, and brought enmity between himself and the
 people. He cut through the leg-bones of those who were wading in a
 (winter-)morning he cut out the heart of the good man <span
-id="fr_24"></span>[19:2](#fn_24). His power has been shown in killing
+id="fr_24"></span>[19:2](#fn_24.md). His power has been shown in killing
 and murdering. His honours and confidence are given to the villainous
 and bad. He has driven from him his instructors and guardians. He has
 thrown to the winds the statutes and penal laws. He neglects the
@@ -419,9 +419,9 @@ sacrifices to Heaven and Earth. He has discontinued the offerings
 
 in the ancestral temple. He makes (cruel) contrivances of wonderful
 device and extraordinary ingenuity to please his wife <span
-id="fr_25"></span>[20:1](#fn_25)--.God will no longer bear with him, but
+id="fr_25"></span>[20:1](#fn_25.md)--.God will no longer bear with him, but
 with a curse is sending down his ruin <span
-id="fr_26"></span>[20:2](#fn_26).'
+id="fr_26"></span>[20:2](#fn_26.md).'
 
 Such was the condition of the nation, such the character of the
 sovereign. Meanwhile in the west of the kingdom,
@@ -447,16 +447,16 @@ occupied himself with the lineal figures.
 The use of those figures--of the trigrams at least--had long been
 practised for the purposes of divination. The employment of the divining
 stalks is indicated in 'the Counsels of the Great Yü,' one of the
-earliest Books of the Shû <span id="fr_27"></span>[20:3](#fn_27), and a
+earliest Books of the Shû <span id="fr_27"></span>[20:3](#fn_27.md), and a
 whole section in 'the Great Plan,' also a Book of the Shû, and referred
 to the times of the Hsiâ dynasty, describes how 'doubts were to be
 examined' by means of the tortoise-shell and the stalks <span
-id="fr_28"></span>[20:4](#fn_28). Wăn could not but be familiar with
+id="fr_28"></span>[20:4](#fn_28.md). Wăn could not but be familiar with
 divination as an institution of his
 
 <span id="page_21">p. 21</span>
 
-country <span id="fr_29"></span>[21:1](#fn_29). Possibly it occurred to
+country <span id="fr_29"></span>[21:1](#fn_29.md). Possibly it occurred to
 him that nothing was
 
 |                                                      |
@@ -696,10 +696,10 @@ authority is certainly not inferior to that of king Wăn, or the duke of
 
 ### Footnotes
 
-<span id="fn_14"></span>[10:10:1](icintr02.htm#fr_14) See Plate I at the
+<span id="fn_14"></span>[10:10:1](icintr02.htm#fr_14.md) See Plate I at the
 end of the Introduction.
 
-<span id="fn_15"></span>[12:12:1](icintr02.htm#fr_15) *K*âu-žze, called
+<span id="fn_15"></span>[12:12:1](icintr02.htm#fr_15.md) *K*âu-žze, called
 *K*âu Tun-î and *K*âu Mâu-shuh, and, still more commonly, from the
 rivulet near which was his favourite residence, *K*âu Lien-*kh*î. Mayers
 (Chinese Reader's Manual, p. 23) says:--'He held various offices of
@@ -707,34 +707,34 @@ state, and was for many years at the head of a galaxy of scholars who
 sought for instruction in matters of philosophy and research:--second
 only to *K*û Hsî in literary repute.'
 
-<span id="fn_16"></span>[13:13:1](icintr02.htm#fr_16) *K*û-žze *Kh*wan
+<span id="fn_16"></span>[13:13:1](icintr02.htm#fr_16.md) *K*û-žze *Kh*wan
 shû, or Digest of Works of *K*û-žze, chap. 26 (the first chapter on the
 Yî), art. 16.
 
-<span id="fn_17"></span>[14:14:1](icintr02.htm#fr_17) Analects IX, viii.
+<span id="fn_17"></span>[14:14:1](icintr02.htm#fr_17.md) Analects IX, viii.
 
-<span id="fn_18"></span>[14:14:2](icintr02.htm#fr_18) Lî *K*î VIII, iv,
+<span id="fn_18"></span>[14:14:2](icintr02.htm#fr_18.md) Lî *K*î VIII, iv,
 16.
 
-<span id="fn_19"></span>[14:14:3](icintr02.htm#fr_19) Shû V, xxii, 19.
+<span id="fn_19"></span>[14:14:3](icintr02.htm#fr_19.md) Shû V, xxii, 19.
 
-<span id="fn_20"></span>[15:15:1](icintr02.htm#fr_20) See Mayers'
+<span id="fn_20"></span>[15:15:1](icintr02.htm#fr_20.md) See Mayers'
 Chinese Reader's Manual, pp. 56, 57.
 
-<span id="fn_21"></span>[17:17:1](icintr02.htm#fr_21) Certainly it was
+<span id="fn_21"></span>[17:17:1](icintr02.htm#fr_21.md) Certainly it was
 not Confucius. See on the authorship of the Appendixes, and especially
 of Appendix III, in the next chapter.
 
-<span id="fn_22"></span>[18:18:1](icintr02.htm#fr_22) For this
+<span id="fn_22"></span>[18:18:1](icintr02.htm#fr_22.md) For this
 dissection, which may also be called reductio ad absurdum, of the Lo
 writing, I was indebted first to P. Regis. See his Y-King I, p. 60. But
 *K*û Hsî also has got it in the Appendix to his 'Lessons on the Yî for
 the Young.'
 
-<span id="fn_23"></span>[19:19:1](icintr02.htm#fr_23) The Shû IV, xi, 1,
+<span id="fn_23"></span>[19:19:1](icintr02.htm#fr_23.md) The Shû IV, xi, 1,
 2.
 
-<span id="fn_24"></span>[19:19:2](icintr02.htm#fr_24) These were
+<span id="fn_24"></span>[19:19:2](icintr02.htm#fr_24.md) These were
 well-known instances of Shâu's wanton cruelty. Observing some people one
 winter's day wading through a stream, he ordered their legs to be cut
 through at the shank-bone, that he might see the marrow which could so
@@ -743,23 +743,23 @@ Pî-kan. Having enraged Shâu by the sternness of his rebukes, the tyrant
 ordered his heart to be cut out, that he might see the structure of a
 sage's heart.
 
-<span id="fn_25"></span>[20:20:1](icintr02.htm#fr_25) We do not know
+<span id="fn_25"></span>[20:20:1](icintr02.htm#fr_25.md) We do not know
 what these contrivances were. But to please his wife, the infamous
 Tâ-*k*î, Shâu had made 'the Heater' and, 'the Roaster,' two instruments
 of torture. The latter was a copper pillar laid above a pit of burning
 charcoal, and made slippery; culprits were forced to walk along it.
 
-<span id="fn_26"></span>[20:20:2](icintr02.htm#fr_26) The Shû V, i,
+<span id="fn_26"></span>[20:20:2](icintr02.htm#fr_26.md) The Shû V, i,
 Sect. iii, 2, 3.
 
-<span id="fn_27"></span>[20:20:3](icintr02.htm#fr_27) Shû II, ii, 18.
+<span id="fn_27"></span>[20:20:3](icintr02.htm#fr_27.md) Shû II, ii, 18.
 
-<span id="fn_28"></span>[20:20:4](icintr02.htm#fr_28) Shû V, iv, 20-31.
+<span id="fn_28"></span>[20:20:4](icintr02.htm#fr_28.md) Shû V, iv, 20-31.
 
-<span id="fn_29"></span>[21:21:1](icintr02.htm#fr_29) In the Book of
+<span id="fn_29"></span>[21:21:1](icintr02.htm#fr_29.md) In the Book of
 Poetry we have Wăn's grandfather (Than-fû, III, i, ode 3, 3) divining,
 and his son (king Wû, III, i, ode 10. 7) doing the same.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Appendixes](icintr03)
+[Next: Chapter III: The Appendixes](icintr03.md)

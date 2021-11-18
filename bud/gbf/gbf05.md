@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Shinto](../../shi)  [Index](index)  [Previous](gbf04)  [Next](gbf06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Shinto](../../shi)  [Index](index)  [Previous](gbf04)  [Next](gbf06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F2GHE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F2GHE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gleaings in Buddha-Fields*, by Lafcadio Hearn, \[1897\], at Intangible
 Textual Heritage
 
@@ -305,4 +305,4 @@ particle of dust that does not enter into Buddhahood*.
 
 ------------------------------------------------------------------------
 
-[Next: V. About Faces in Japanese Art](gbf06)
+[Next: V. About Faces in Japanese Art](gbf06.md)

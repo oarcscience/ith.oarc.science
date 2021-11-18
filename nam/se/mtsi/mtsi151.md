@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi150)  [Next](mtsi152) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi150)  [Next](mtsi152.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ had been created.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Lodge Boy and Thrown-Away](mtsi152)
+[Next: 16. Lodge Boy and Thrown-Away](mtsi152.md)

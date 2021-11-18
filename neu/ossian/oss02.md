@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss01)  [Next](oss03) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss01)  [Next](oss03.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ have collected in the original Gaelic, during a tour through the Western
 Highlands and Isles; but a doubt of their authenticity nevertheless
 obtained, and, from their first appearance to this day, has continued in
 various degrees to agitate the literary world. In the present year, "A
-Report," <span id="fr_0"></span>[1](#fn_0) springing from an inquiry
+Report," <span id="fr_0"></span>[1](#fn_0.md) springing from an inquiry
 instituted for the purpose of leaving, with regard to this matter, "no
 hinge or loop to hang a doubt on," has been laid before the public. As
 the committee, in this investigation, followed, in a great measure, that
@@ -67,7 +67,7 @@ yet I am not entirely without my scruples on that head. You think, that
 the internal proofs in favor of the poems are very convincing; so they
 are; but there are also internal reasons against them, particularly from
 the manners, notwithstanding all the art with which you have endeavored
-to throw a vernish <span id="fr_1"></span>[1](#fn_1) on that
+to throw a vernish <span id="fr_1"></span>[1](#fn_1.md) on that
 circumstance; and the preservation of such long and such connected
 poems, by oral tradition alone, during a course of fourteen centuries,
 is so much out of the ordinary course of human affairs, that it requires
@@ -98,7 +98,7 @@ nobody questions that there are traditional poems of that part of the
 country, where the names of Ossian and Fingal, and Oscar and Gaul, are
 mentioned in every stanza. The only doubt is, whether these poems have
 any farther resemblance to the poems published by Macpherson. I was told
-by Bourke, <span id="fr_2"></span>[1](#fn_2) a very ingenious Irish
+by Bourke, <span id="fr_2"></span>[1](#fn_2.md) a very ingenious Irish
 gentleman, the author of a tract on the sublime and beautiful, that on
 the first publication of Macpherson's book, all the Irish cried out, 'We
 know all those poems. We have always heard them from our infancy.' But
@@ -263,7 +263,7 @@ such heroic personages, and the great poet Ossian, the son of Fingal, by
 whom their exploits were sung, is as universal in the Highlands, as the
 belief of any ancient fact whatsoever. It is recorded in proverbs, which
 pass through all ranks and conditions of men, *Ossian dall*, blind
-Ossian, <span id="fr_3"></span>[1](#fn_3) is a person as well known as
+Ossian, <span id="fr_3"></span>[1](#fn_3.md) is a person as well known as
 strong Sampson, or wise Solomon. The very boys in their sports cry out
 for fair play, *Cothram na feine*, the equal combat o the Fingalians.
 Ossian, *an deigh nam fiann*, Ossian, the last of his race, is
@@ -272,7 +272,7 @@ kindred; and servants returning from a fair or wedding, were in use to
 describe the beauty of young women they had seen there, by the words,
 *Tha i cho boidheach reh Agandecca, nighean ant sneachda*, She is as
 beautiful as Agandecca, the daughter of the Snow. <span
-id="fr_4"></span>[2](#fn_4)
+id="fr_4"></span>[2](#fn_4.md)
 
 All this will be readily conceded, and Mr. Macpherson's being at one
 period an "indifferent proficient in the Gaelic language," may seem an
@@ -308,7 +308,7 @@ make them than take wings and fly." p. 96.
 We would here observe, that the sufficiency of a man's knowledge of such
 a language as the Gaelic, for all the purposes of composition, is not to
 be questioned, because he does not speak <span
-id="fr_5"></span>[1](#fn_5) it accurately or elegantly, much less is it
+id="fr_5"></span>[1](#fn_5.md) it accurately or elegantly, much less is it
 to be quibbled into suspicion by the pleasantry of a double entendre.
 But we hold it prudent, and it shall be our endeavor in this place, to
 give
@@ -347,10 +347,10 @@ life, or a particular connection with some reciter of the old school,
 <span id="page_16">p. 16</span>
 
 enabled still to retain them in his memory; <span
-id="fr_6"></span>[1](#fn_6) but those, the committee's correspondents
+id="fr_6"></span>[1](#fn_6.md) but those, the committee's correspondents
 said, were generally less perfect, and more corrupted, than the poems
 which they had, formerly heard, or which might have been obtained at an
-earlier period. <span id="fr_7"></span>[2](#fn_7)
+earlier period. <span id="fr_7"></span>[2](#fn_7.md)
 
 Several collections came to them by presents, as well as by purchase,
 and in these are numerous "shreds and patches," that bear a strong
@@ -362,7 +362,7 @@ of the authenticity of Ossian had quoted as evidently spurious,
 betraying the most convincing marks of its being a close imitation of
 the address to the sun in Milton.
 
-"I got," says Mr. Mac Diarmid, <span id="fr_8"></span>[3](#fn_8) "the
+"I got," says Mr. Mac Diarmid, <span id="fr_8"></span>[3](#fn_8.md) "the
 copy of these poems" (Ossian's address to the sun in Carthon, and a
 similar address in *Carrickthura*) "about thirty years, ago, from an old
 man in Glenlyon. I took it, and several other fragments, now, I fear,
@@ -410,7 +410,7 @@ produced, will often, in the perusal of Mr. Macpherson's translations,
 be induced, with some show of justice. to exclaim with him, when he
 looked over the manuscript copies found in Clanronald's family, "*D--n
 the scoundrel, it is he himself that now speaks, and not Ossian*!' <span
-id="fr_9"></span>[1](#fn_9)
+id="fr_9"></span>[1](#fn_9.md)
 
 To this sentiment the committee has the candor to incline, us it will
 appear by their summing up. After producing or pointing to a large body
@@ -476,12 +476,12 @@ foresee, that Ossian is likely to share the fate of Shakspeare, that is,
 ultimately to be loaded and oppressed by heavy commentators, until his
 immortal spirit groan beneath vast heaps of perishable matter. The
 object of Mr. Laing's commentary, after having elsewhere <span
-id="fr_10"></span>[1](#fn_10) endeavored to show that the poems are
+id="fr_10"></span>[1](#fn_10.md) endeavored to show that the poems are
 spurious, and of no historical authority, "is," says he, it not merely
 to exhibit parallel passages, much less instances of a fortuitous
 resemblance of ideas, but to produce the precise originals from which
 the similes and images arc indisputably derived." <span
-id="fr_11"></span>[2](#fn_11) And these he pretends to find in Holy
+id="fr_11"></span>[2](#fn_11.md) And these he pretends to find in Holy
 Writ, and in the classical poets, both of ancient and modern times. Mr.
 Laing, however, is one of those detectors of plagiarisms, and
 discoverers of coincidences, whose exquisite penetration and acuteness
@@ -490,7 +490,7 @@ conviction with respect to Ossian, even when he affected to seek the
 truth in the heart of the Hebrides, may yet be made useful to the
 Ossianites in canvassing the merits of this redoubted stickler on the
 side of opposition. "Among the innumerable practices," says the
-Rambler, <span id="fr_12"></span>[3](#fn_12) "by which interest or envy
+Rambler, <span id="fr_12"></span>[3](#fn_12.md) "by which interest or envy
 have taught those who live upon literary fame to disturb each other at
 their airy banquets, one of the most common is the charge of plagiarism.
 When the excellence of a now composition can no longer be contested, and
@@ -518,7 +518,7 @@ Majoresque cadunt altis de montibus umbra.
 For see, yon sunny hills the shade extend.--*Dryden*.
 
 As well might we credit that no one ever beheld a natural phenomenon
-except the Mantuan bard. <span id="fr_13"></span>[1](#fn_13) The book of
+except the Mantuan bard. <span id="fr_13"></span>[1](#fn_13.md) The book of
 nature is open to all, and in her pages there are no new readings. "Many
 subjects," it is were said by Johnson, "fall under the consideration of
 an author, which, being limited by nature, can admit only of slight and
@@ -581,21 +581,21 @@ The best defence that can be set up in this case will, perhaps, be to
 repeat, "It is he himself that now speaks, and not Ossian."
 
 Mr. Laing had scarcely thrown down the gauntlet, when Mr. Archibald
-M'Donald <span id="fr_14"></span>[1](#fn_14) appeared
+M'Donald <span id="fr_14"></span>[1](#fn_14.md) appeared
 
-"*Ready, aye, ready*, <span id="fr_15"></span>[2](#fn_15) for the field.
+"*Ready, aye, ready*, <span id="fr_15"></span>[2](#fn_15.md) for the field.
 
 The opinion of the color of his opposition, whether it be that of truth
 or error, will depend on the eye that contemplates it. Those who delight
 to feast with Mr. Laing *on the limbs of a mangled poet*, will think the
-latter unanswered; while those <span id="fr_16"></span>[3](#fn_16) who
+latter unanswered; while those <span id="fr_16"></span>[3](#fn_16.md) who
 continue to indulge
 
 <span id="page_24">p. 24</span>
 
 the animating thought, "that Fingal lived, and that Ossian sung," will
 entertain a different sentiment. After successfully combating several
-old positions, <span id="fr_17"></span>[1](#fn_17) Mr. M'Donald
+old positions, <span id="fr_17"></span>[1](#fn_17.md) Mr. M'Donald
 terminates his discussion of the point at issue with these words:
 
 "He (Mr. Laing) declares, 'if a single poem of Ossian in MS. of an older
@@ -638,8 +638,8 @@ a very imposing nature.
 
 In a small volume published at Dusseldorf in 1787, by Edmond, Baron de
 Harold, an Irishman, of endless titles, <span
-id="fr_18"></span>[1](#fn_18) we are presented with what are called,
-"Poems of Ossian lately discovered." <span id="fr_19"></span>[2](#fn_19)
+id="fr_18"></span>[1](#fn_18.md) we are presented with what are called,
+"Poems of Ossian lately discovered." <span id="fr_19"></span>[2](#fn_19.md)
 
 "I am interested," says the baron in his preface, in no polemical
 dispute or party, and give these poems such as they are found in the
@@ -661,8 +661,8 @@ established by elaborate discussion, and most incontrovertible proofs:"
 pp. v. vi.
 
 We shall not stay to quarrel about "Sir Archy's great
-grandmother," <span id="fr_20"></span>[1](#fn_20) or to contend that
-Fingal, the Irish giant, <span id="fr_21"></span>[2](#fn_21) did not one
+grandmother," <span id="fr_20"></span>[1](#fn_20.md) or to contend that
+Fingal, the Irish giant, <span id="fr_21"></span>[2](#fn_21.md) did not one
 day go "over from Carrickfergus,
 
 <span id="page_27">p. 27</span>
@@ -750,7 +750,7 @@ take thy arms, and win the lovely fair.
 Straight I obeyed. A chosen band followed my steps. O We mounted the
 dark-bosomed ship of the king, spread its white sails to the winds, and
 ploughed through the foam of ocean. Pleasant shone the fine-eyed
-Ull-Erin. <span id="fr_22"></span>[1](#fn_22) With joyal songs we cut
+Ull-Erin. <span id="fr_22"></span>[1](#fn_22.md) With joyal songs we cut
 the liquid way. The moon, regent of the silent night, gleamed majestic
 in the blue vault of heaven, and seemed pleased to bathe her side in the
 trembling wave. My soul was full of my father's words. A thousand
@@ -928,7 +928,7 @@ than that of Ossian, and "the model, perhaps, of his compositions."
 Another, called "Sitric," king of Dublin, which throws some light on the
 history of those times, he places in the ninth century. What faith,
 however, is to be put in the genuineness of the "*Fragments*," <span
-id="fr_23"></span>[1](#fn_23)
+id="fr_23"></span>[1](#fn_23.md)
 
 <span id="page_35">p. 35</span>
 
@@ -950,7 +950,7 @@ to turn their admiration of the ancient poet into contempt of the
 modern. We ourselves love antiquity, not merely however, on account of
 its antiquity, but because it deserves to be loved. No: we honestly own
 with Quintilian, *in quibusdam antiquorum, vix risum, in quibusdam autem
-vix somnum tenere*. <span id="fr_24"></span>[1](#fn_24) The songs of
+vix somnum tenere*. <span id="fr_24"></span>[1](#fn_24.md) The songs of
 other times, when they are, as they frequently are, supremely beautiful,
 merit every praise, but we must not therefore despise all novelty. In
 the days of the Theban bard, it would seem to have been otherwise, for
@@ -969,7 +969,7 @@ widely in regard to novelty in verse. Though warranted in some measure,
 yet all inordinate prepossessions should be moderated, and it would be
 well if we were occasionally to reflect on this question, if the
 ancients had been so inimicable to novelty as we are, what would now be
-old? <span id="fr_25"></span>[1](#fn_25)
+old? <span id="fr_25"></span>[1](#fn_25.md)
 
 We shall not presume to affirm that these poems were originally produced
 by Macpherson, but admitting it, for the sake of argument, it would
@@ -1013,7 +1013,7 @@ Feb. 1, 1806.
 
 ### Footnotes
 
-<span id="fn_0"></span>[6:1](oss02.htm#fr_0) "A Report of the committee
+<span id="fn_0"></span>[6:1](oss02.htm#fr_0.md) "A Report of the committee
 of the Highland Society of Scotland, appointed to inquire into the
 nature and authenticity of the Poems of Ossian. Drawn up, according to
 the directions of the committee, by Henry Mackenzie, Esq., its convener,
@@ -1021,24 +1021,24 @@ or chairman. With a copious appendix, containing some of the principal
 documents on which the report is founded. Edinburgh, 1805." 8 vol. pp.
 343.
 
-<span id="fn_1"></span>[7:1](oss02.htm#fr_1) So in MS.
+<span id="fn_1"></span>[7:1](oss02.htm#fr_1.md) So in MS.
 
-<span id="fn_2"></span>[8:1](oss02.htm#fr_2) So in MS
+<span id="fn_2"></span>[8:1](oss02.htm#fr_2.md) So in MS
 
-<span id="fn_3"></span>[13:1](oss02.htm#fr_3) Γυφλος γ᾽
+<span id="fn_3"></span>[13:1](oss02.htm#fr_3.md) Γυφλος γ᾽
 Ὀμηρος.--Lascaris Const.
 
-<span id="fn_4"></span>[13:2](oss02.htm#fr_4) Report, p. 15.
+<span id="fn_4"></span>[13:2](oss02.htm#fr_4.md) Report, p. 15.
 
-<span id="fn_5"></span>[14:1](oss02.htm#fr_5) We doubt not that Mr.
-Professor Porson [could](errata.htm#0), if he pleased, forge a short
+<span id="fn_5"></span>[14:1](oss02.htm#fr_5.md) We doubt not that Mr.
+Professor Porson [could](errata.htm#0.md), if he pleased, forge a short
 poem in Greek, and ascribing it, for instance, to Theocritus, maintain
 its authenticity with considerable force and probability; and yet were
 it possible for him to speak to the simplest shepherd of ancient Greece,
 he would quickly afford as good reason, as Mr. Macpherson, to be
 suspected of being an "indifferent proficient" in the language.
 
-<span id="fn_6"></span>[16:1](oss02.htm#fr_6) The Rev. Mr. Smith, who
+<span id="fn_6"></span>[16:1](oss02.htm#fr_6.md) The Rev. Mr. Smith, who
 has published translations of many Gaelic poem accompanied by the
 originals, assures us, that "near himself, in the parish of Klimnver,
 lived a person named M'Pheal, whom he has heard, for weeks together,
@@ -1048,63 +1048,63 @@ their hearers in the same manner for a whole winter season. It was from
 persons of this description undoubtedly, that Macpherson recovered a
 great part of the works of Ossian. A. Macdonald's Prelim. Disc. p. 76.
 
-<span id="fn_7"></span>[16:2](oss02.htm#fr_7) See Report.
+<span id="fn_7"></span>[16:2](oss02.htm#fr_7.md) See Report.
 
-<span id="fn_8"></span>[16:3](oss02.htm#fr_8) Date, April 9. 1801, p.
+<span id="fn_8"></span>[16:3](oss02.htm#fr_8.md) Date, April 9. 1801, p.
 71.
 
-<span id="fn_9"></span>[18:1](oss02.htm#fr_9) Report, p. 44.
+<span id="fn_9"></span>[18:1](oss02.htm#fr_9.md) Report, p. 44.
 
-<span id="fn_10"></span>[20:1](oss02.htm#fr_10) In his Critical and
+<span id="fn_10"></span>[20:1](oss02.htm#fr_10.md) In his Critical and
 Historical Dissertation on the Antiquity of Ossian's Poems.
 
-<span id="fn_11"></span>[20:2](oss02.htm#fr_11) Preface, p. v
+<span id="fn_11"></span>[20:2](oss02.htm#fr_11.md) Preface, p. v
 
-<span id="fn_12"></span>[20:3](oss02.htm#fr_12) No. 1-13.
+<span id="fn_12"></span>[20:3](oss02.htm#fr_12.md) No. 1-13.
 
-<span id="fn_13"></span>[21:1](oss02.htm#fr_13) This is not so good,
+<span id="fn_13"></span>[21:1](oss02.htm#fr_13.md) This is not so good,
 because not so amusing in its absurdity, as an attempt formerly made to
 prove the Æneid Earse, from "Arma virumque cano," and "Airm's am fear
 canam," having the saw meaning, and nearly the same sound.
 
-<span id="fn_14"></span>[23:1](oss02.htm#fr_14) "Some of Ossian's lesser
+<span id="fn_14"></span>[23:1](oss02.htm#fr_14.md) "Some of Ossian's lesser
 Poems, rendered into verse, with a Preliminary Discourse, in answer to
 Mr. Laing's Critical and Historical Dissertation on the Antiquity of
 Ossian's Poems, 8 vo. p. 284. Liverpool, 1805."
 
-<span id="fn_15"></span>[23:2](oss02.htm#fr_15) Thirlestane's motto. See
+<span id="fn_15"></span>[23:2](oss02.htm#fr_15.md) Thirlestane's motto. See
 Scott's lay of the Last Minstrel.
 
-<span id="fn_16"></span>[23:3](oss02.htm#fr_16) A professor in the
+<span id="fn_16"></span>[23:3](oss02.htm#fr_16.md) A professor in the
 university of Edinburgh, the amiable and learned Dr. Gregory, is on the
 side of the believers in Ossian. His judgment is a tower of strength.
 See the preface, p. vi. to xii. and <span id="page_24">p. 24</span> p.
 146, of his Comparative view of the State and Faculties of Man with
 those of the Animal World.
 
-<span id="fn_17"></span>[24:1](oss02.htm#fr_17) Such as the silence of
+<span id="fn_17"></span>[24:1](oss02.htm#fr_17.md) Such as the silence of
 Ossian in respect to religion his omission of wolves and bears, &c. See
 also in the Literary Journal, August, 1804, a powerful encounter of many
 of Mr. Laing's other arguments in his Dissertation against the
 authenticity of these poems. His ignorance of the Gaelic, and the
 consequent futility of his etymological remarks, are there ably exposed.
 
-<span id="fn_18"></span>[25:1](oss02.htm#fr_18) "Colonel-commander of
+<span id="fn_18"></span>[25:1](oss02.htm#fr_18.md) "Colonel-commander of
 the regiment of Konigsfield, gentleman of the bedchamber of his most
 serene highness the Elector Palatine, member of the German Society of
 Manheim of the Royal Antiquarian Society of London, and of the Academy
 of Dusseldorf."
 
-<span id="fn_19"></span>[25:2](oss02.htm#fr_19) In some lines in these
+<span id="fn_19"></span>[25:2](oss02.htm#fr_19.md) In some lines in these
 poems we find the lyre of Ossian called "the old Hibernian lyre." The
 idea is not new. See Burke's Observation in Hume's first Letter to Dr.
 Blair. Also, the collections by Min Brooke and W. Kennedy. Compare the
 story of Conloch with that of Carthon in Macpherson.
 
-<span id="fn_20"></span>[26:1](oss02.htm#fr_20) See Macklin's Love
+<span id="fn_20"></span>[26:1](oss02.htm#fr_20.md) See Macklin's Love
 A-la-mode.
 
-<span id="fn_21"></span>[26:2](oss02.htm#fr_21) "Selma is not at all
+<span id="fn_21"></span>[26:2](oss02.htm#fr_21.md) "Selma is not at all
 known in Scotland. When I asked, and particularly those who were
 possessed of any poetry, songs, or tales, who Fion was? (for he is not
 known by the name of Fingal by any;) I was answered that he was an
@@ -1136,10 +1136,10 @@ silver, if I should bring him one from the Highlands, and to swear that
 it was the identical shell out of which Fingal used to drink."--A
 gentleman!
 
-<span id="fn_22"></span>[29:1](oss02.htm#fr_22) The guiding star to
+<span id="fn_22"></span>[29:1](oss02.htm#fr_22.md) The guiding star to
 Ireland.
 
-<span id="fn_23"></span>[34:1](oss02.htm#fr_23) If Mr. Laing should
+<span id="fn_23"></span>[34:1](oss02.htm#fr_23.md) If Mr. Laing should
 choose to take the trouble of, passing them through his alembic, they
 may easily be disposed of. For instance, "Larnel, or the Song of
 despair." <span id="page_35">p. 35</span> The dreary nigh-owl screams in
@@ -1158,11 +1158,11 @@ calls the desolation of nature
 Mr. Laing may pronounce this learned, but it is at any rate as foolish
 as it is learned.
 
-<span id="fn_24"></span>[35:1](oss02.htm#fr_24) Quintilian or Tacitus de
+<span id="fn_24"></span>[35:1](oss02.htm#fr_24.md) Quintilian or Tacitus de
 Oratoribus.
 
-<span id="fn_25"></span>[36:1](oss02.htm#fr_25) See Horace.
+<span id="fn_25"></span>[36:1](oss02.htm#fr_25.md) See Horace.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](oss03)
+[Next: Preface](oss03.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat00)  [Next](sat02) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat00)  [Next](sat02.md) 
 
 ------------------------------------------------------------------------
 
@@ -685,4 +685,4 @@ ALFRED R. ALLINSON.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One](sat02)
+[Next: Chapter One](sat02.md)

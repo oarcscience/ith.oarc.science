@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl05)  [Next](hhl07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl05)  [Next](hhl07.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ So dusk of eve came on."
 
 ------------------------------------------------------------------------
 
-[Next: III. The Water of Life](hhl07)
+[Next: III. The Water of Life](hhl07.md)

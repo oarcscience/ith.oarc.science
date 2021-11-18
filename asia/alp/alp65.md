@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp64) 
-[Next](alp66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp64.md) 
+[Next](alp66.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 <span id="img_09100"></span>
 
 [![THE VISION OF ROSIPHELEE, PRINCESS OF ARMENIA](tn/09100.jpg)  
-Click to enlarge](img/09100.jpg)  
+Click to enlarge](img/09100.jpg.md)  
 THE VISION OF ROSIPHELEE, PRINCESS OF ARMENIA  
 
 ### THE TALE OF ROSIPHELEE
@@ -250,4 +250,4 @@ That sche none haltres wolde bere.
 
 ------------------------------------------------------------------------
 
-[Next: The Song of the Vulture](alp66)
+[Next: The Song of the Vulture](alp66.md)

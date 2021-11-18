@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr29)  [Next](corr31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr29)  [Next](corr31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,13 +18,13 @@ Textual Heritage
 
 ### LETTER XXXI. (XVIII.)
 
-#### WILLIAM DE BLYENBERGH <span id="fr_48"></span>[1](#fn_47) TO SPINOZA.
+#### WILLIAM DE BLYENBERGH <span id="fr_48"></span>[1](#fn_47.md) TO SPINOZA.
 
 <span class="smallcaps">Unknown Friend and Sir</span>,—I have already
 read several times with attention your treatise and its appendix
 recently published. I should narrate to others more becomingly than to
 yourself the extreme solidity I found in it, and the pleasure with which
-I perused it. But I am unable to conceal my [feelings](errata.htm#3)
+I perused it. But I am unable to conceal my [feelings](errata.htm#3.md)
 from you, because the more frequently I study the work with attention,
 the more it pleases me, and I am constantly observing something which I
 had not before remarked. However, I will not too loudly extol its
@@ -66,7 +66,7 @@ nothing more earnestly than to see the promise made in your book
 fulfilled by a more detailed exposition of your opinions. I should have
 communicated to you by word of mouth what I now commit to paper; but my
 ignorance of your address, the infectious disease, <span
-id="fr_49"></span>[1](#fn_48) and my duties here, prevented me. I must
+id="fr_49"></span>[1](#fn_48.md) and my duties here, prevented me. I must
 defer the pleasure for the present.
 
 However, in order that this letter may not be quite
@@ -153,14 +153,14 @@ Dordrecht, 12 Dec., 1664.
 
 ### Footnotes
 
-<span id="fn_47"></span>[327:1](corr30.htm#fr_48) See Introduction, p.
+<span id="fn_47"></span>[327:1](corr30.htm#fr_48.md) See Introduction, p.
 xvi. The correspondence with Blyenbergh as originally conducted in
 Dutch.
 
-<span id="fn_48"></span>[328:1](corr30.htm#fr_49) The plague, which had
+<span id="fn_48"></span>[328:1](corr30.htm#fr_49.md) The plague, which had
 prevailed on the Continent during 1664, was introduced into London in
 the very month in which this letter was written, perhaps from Holland.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXXII. To Blyenburgh](corr31)
+[Next: Letter XXXII. To Blyenburgh](corr31.md)

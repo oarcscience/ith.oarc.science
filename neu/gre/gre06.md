@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre05)  [Next](gre07) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre05)  [Next](gre07.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,10 +21,10 @@ Gudbrand Ball, the father of Asta, the mother of King Olaf the Saint.
 Onund was an Uplander by the kin of his mother; but the kin of his
 father dwelt chiefly about Rogaland and Hordaland. He was a great
 viking, and went harrying west over the Sea. <span
-id="fr_3"></span>[\*](#fn_3) Balk of Sotanes, the son of Blæng, was with
+id="fr_3"></span>[\*](#fn_3.md) Balk of Sotanes, the son of Blæng, was with
 him herein, and Orm the Wealthy withal, and Hallvard was the name of the
 third of them. They had five ships, all well manned, and therewith they
-harried in the South-isles; <span id="fr_4"></span>[+](#fn_4) and when
+harried in the South-isles; <span id="fr_4"></span>[+](#fn_4.md) and when
 they came to Barra, they found there a king, called Kiarval, and he,
 too, had five ships. They gave him battle, and a hard fray there was.
 The men of Onund were of the eagerest, and on either side many fell; but
@@ -41,13 +41,13 @@ and thereafter went to Norway.
 
 ### Footnotes
 
-<span id="fn_3"></span>[1:\*](gre06.htm#fr_3) "West over the Sea," means
+<span id="fn_3"></span>[1:\*](gre06.htm#fr_3.md) "West over the Sea," means
 in the Sagas the British isles, and the islands about them--the
 Hebrides, Orkneys, &c.
 
-<span id="fn_4"></span>[1:+](gre06.htm#fr_4) South-isles are the
+<span id="fn_4"></span>[1:+](gre06.htm#fr_4.md) South-isles are the
 Hebrides, and the other islands down to Man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](gre07)
+[Next: Chapter II](gre07.md)

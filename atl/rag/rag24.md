@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag23)  [Next](rag25) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag23)  [Next](rag25.md) 
 
 ------------------------------------------------------------------------
 
@@ -658,4 +658,4 @@ the comets?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Arabian Myths](rag25)
+[Next: Chapter XI. The Arabian Myths](rag25.md)

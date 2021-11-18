@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft11)  [Next](mcft13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft11)  [Next](mcft13.md) 
 
 ------------------------------------------------------------------------
 
@@ -315,4 +315,4 @@ and that was the end of the Russet Dog.
 
 ------------------------------------------------------------------------
 
-[Next: Smallhead and the King's Sons](mcft13)
+[Next: Smallhead and the King's Sons](mcft13.md)

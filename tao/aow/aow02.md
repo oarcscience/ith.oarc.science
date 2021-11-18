@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Confucianism](../../cfu/index)  [Index](index)  [Previous](aow01) 
-[Next](aow03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Confucianism](../../cfu/index)  [Index](index)  [Previous](aow01.md) 
+[Next](aow03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of War*, by Lionel Giles, \[1910\], at Intangible Textual
 Heritage
 
@@ -22,7 +22,7 @@ Heritage
 
 The seventh volume of "Memoires concernant l’histoire, les sciences, les
 arts, les mœurs, les usages, &c., des Chinois" <span
-id="fr_0"></span>[1](#fn_0) is devoted to the Art of War, and contains,
+id="fr_0"></span>[1](#fn_0.md) is devoted to the Art of War, and contains,
 amongst other treatises, "Les Treize Articles de Sun-tse," translated
 from the Chinese by a Jesuit Father, Joseph Amiot. Père Amiot appears to
 have enjoyed no small reputation as a sinologue in his day, and the
@@ -59,7 +59,7 @@ the
 oldest and best compendium of military science. It was not until the
 year 1905 that the first English translation, by Capt. E. F. Calthrop,
 R.F.A., appeared at Tokyo under the title "Sonshi" (the Japanese form of
-Sun Tzŭ). <span id="fr_1"></span>[1](#fn_1) Unfortunately, it was
+Sun Tzŭ). <span id="fr_1"></span>[1](#fn_1.md) Unfortunately, it was
 evident that the translator's knowledge of Chinese was far too scanty to
 fit him to grapple with the manifold difficulties of Sun Tzŭ. He himself
 plainly acknowledges that without the aid of two Japanese gentlemen "the
@@ -117,7 +117,7 @@ has been to extract the cream only, adding the Chinese text here and
 there when it seemed to present points of literary interest. Though
 constituting in itself an important branch of Chinese literature, very
 little commentary of this kind has hitherto been made directly
-accessible by translation. <span id="fr_2"></span>[1](#fn_2)
+accessible by translation. <span id="fr_2"></span>[1](#fn_2.md)
 
 I may say in conclusion that, owing to the printing off of my sheets as
 they were completed, the work has not had the benefit of a final
@@ -137,16 +137,16 @@ George in *The Vicar of Wakefield*.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](aow02.htm#fr_0) Published at Paris in
+<span id="fn_0"></span>[vii:1](aow02.htm#fr_0.md) Published at Paris in
 1782.
 
-<span id="fn_1"></span>[viii:1](aow02.htm#fr_1) A rather distressing
+<span id="fn_1"></span>[viii:1](aow02.htm#fr_1.md) A rather distressing
 Japanese flavour pervades the work throughout. Thus, King Ho Lu
 masquerades as "Katsuryo," Wu and Yüeh become "Go" and "Etsu," etc. etc.
 
-<span id="fn_2"></span>[ix:1](aow02.htm#fr_2) A notable exception is to
+<span id="fn_2"></span>[ix:1](aow02.htm#fr_2.md) A notable exception is to
 be found in Biot's edition of the *Chou Li*.
 
 ------------------------------------------------------------------------
 
-[Next: Sun Wu and his Book](aow03)
+[Next: Sun Wu and his Book](aow03.md)

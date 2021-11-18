@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth011)  [Next](toth013) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth011)  [Next](toth013.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 9. THE WANDERINGS OF THE SPIDER CLAN (KOHK'ANG-ÑAMU). <span id="fr_33"></span>[3](#fn_33)
+## 9. THE WANDERINGS OF THE SPIDER CLAN (KOHK'ANG-ÑAMU). <span id="fr_33"></span>[3](#fn_33.md)
 
 In the under-world many people became very bad. They had many
 contentions, and began to kill the people and also killed the chief's
@@ -92,7 +92,7 @@ attached to the bone. From this they were called Fat Cavity clan
 (Wíkorzh-ñamu). A sixth migrating party came upon the scene and found
 that a mole had dug his way up under the place where the cadaver had
 been lying, and hence they were called Mole (Mû'yi) clan. <span
-id="fr_34"></span>[1](#fn_34) Here the parties who had thus received
+id="fr_34"></span>[1](#fn_34.md) Here the parties who had thus received
 their clan names soon separated, and the Spider clan after this wandered
 about and stopped at various places for a long time. The other clans did
 the same, living shorter or longer periods at one place, which accounts
@@ -134,10 +134,10 @@ the top of the mesa.
 
 ### Footnotes
 
-<span id="fn_33"></span>[38:3](toth012.htm#fr_33) Told by Tawíima
+<span id="fn_33"></span>[38:3](toth012.htm#fr_33.md) Told by Tawíima
 (Mishóngnovi).
 
-<span id="fn_34"></span>[40:1](toth012.htm#fr_34) Traditions with regard
+<span id="fn_34"></span>[40:1](toth012.htm#fr_34.md) Traditions with regard
 to the clans having received their names on this occasion vary somewhat.
 While some say the name of the Wíkurzh-ñamu is derived from a netted
 gourd (wikuru), others, as in this tale, derived the name from wikoro,
@@ -148,4 +148,4 @@ its name. Cf. tale No, 3, "The Wanderings of the Bear Clan."
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Origin of the Yáyaatu Society](toth013)
+[Next: 10. The Origin of the Yáyaatu Society](toth013.md)

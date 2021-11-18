@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg16)  [Next](btg18) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg16)  [Next](btg18.md) 
 
 ------------------------------------------------------------------------
 
@@ -152,4 +152,4 @@ peace will reign among mankind."
 
 ------------------------------------------------------------------------
 
-[Next: The Sangha Or Community](btg18)
+[Next: The Sangha Or Community](btg18.md)

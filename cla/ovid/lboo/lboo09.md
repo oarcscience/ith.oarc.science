@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo08)  [Next](lboo10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo08)  [Next](lboo10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ quaeque super pontum simulato vecta iuvenco<br />
 
 [Next: Elegy IV: Ovid, His Mistress And Her Husband Are All Bidden To
 The Same Supper. He Gives His Mistress A Code By Which They Can Testify
-Their Love For Each Other, Beneath Her Husband's Very Eyes.](lboo10)
+Their Love For Each Other, Beneath Her Husband's Very Eyes.](lboo10.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos16)  [Next](mos18) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos16)  [Next](mos18.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ which is the honorable Najaf now.
 ------------------------------------------------------------------------
 
 [Next: The Chieftains and \`Iwaj ben \`Inâq and what Happened With
-Them](mos18)
+Them](mos18.md)

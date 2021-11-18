@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits071) [Next](bits073)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits071) [Next](bits073.md)
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ and sorrowful and dejected, he straightway disappeared.
 
 ------------------------------------------------------------------------
 
-[Next: § 73. The Fire-Sermon](bits073)
+[Next: § 73. The Fire-Sermon](bits073.md)
 
  
 

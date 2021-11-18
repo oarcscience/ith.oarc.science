@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah21)  [Next](mah23) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah21)  [Next](mah23.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ in which case an airship is ordered from a public aerodrome.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: Art](mah23)
+[Next: Chapter XX: Art](mah23.md)

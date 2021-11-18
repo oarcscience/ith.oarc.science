@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi016)  [Next](mtsi018) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi016)  [Next](mtsi018.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ sunken place on his nose where the Eagle broke it."
 
 ------------------------------------------------------------------------
 
-[Next: 16. Story of the Bat](mtsi018)
+[Next: 16. Story of the Bat](mtsi018.md)

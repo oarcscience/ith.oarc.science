@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai41)  [Next](iai43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai41)  [Next](iai43.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ And he dismayed, the awful wild now scans.
 He reins his steed and wondering looks around,  
 And sees of every side a mystic ground.  
 Before him stands the peak of Mount Masu, <span
-id="fr_254"></span>[1b](#fn_251)  
+id="fr_254"></span>[1b](#fn_251.md)  
 The cliffs and crags forlorn his eyes swift view,  
 And cedars, pines, among the rocks amassed,  
 That weirdly rise within the mountain fast.  
@@ -124,13 +124,13 @@ A darkness deep profound doth ever spread
 Within those regions black,--Home of the Dead.  
 Go, Izdubar! within this land of Mas,  
 Thy road doth lead, and to the west <span
-id="fr_255"></span>[2](#fn_252) doth pass,  
+id="fr_255"></span>[2](#fn_252.md) doth pass,  
 And may the maidens sitting by the walls  
 Refresh thee, lead thee to the Happy Halls."
 
 The path they take behind the rising sun  
 The setting sun they pass,--with wings have flown  
-The scorpion men, <span id="fr_256"></span>[3](#fn_253) within wide
+The scorpion men, <span id="fr_256"></span>[3](#fn_253.md) within wide
 space have gone,  
 Thus from his sight the monsters far have flown.
 
@@ -138,16 +138,16 @@ Thus from his sight the monsters far have flown.
 
 ### Footnotes
 
-<span id="fn_251"></span>[123:1b](iai42.htm#fr_254) Mount Masu, the
+<span id="fn_251"></span>[123:1b](iai42.htm#fr_254.md) Mount Masu, the
 Mountains of Masius, or "Mons Masius" of Strabo (vi. 12, §§ 4, 14, 2,
 etc.), may be referred to by the author of the epic. These mountains are
 now known to the Turks as Jebel Tur and Karaiah Dag.--Rawlinson's
 "Ancient Monarchies," vol. ii. pp. 9 and 25.
 
-<span id="fn_252"></span>[126:2](iai42.htm#fr_255) Mr. Sayce translates
+<span id="fn_252"></span>[126:2](iai42.htm#fr_255.md) Mr. Sayce translates
 thus: "the path of the sun."
 
-<span id="fn_253"></span>[126:3](iai42.htm#fr_256) He also names the
+<span id="fn_253"></span>[126:3](iai42.htm#fr_256.md) He also names the
 monsters "the scorpion men," and refers to an Assyrian cylinder on which
 two composite winged monsters are carved, with the winged emblem of the
 supreme god in the centre above them. The monsters have the feet of
@@ -158,4 +158,4 @@ orbit.
 
 ------------------------------------------------------------------------
 
-[Next: Column VI. Izdubar Enters Hades](iai43)
+[Next: Column VI. Izdubar Enters Hades](iai43.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj17)  [Next](atfj19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj17)  [Next](atfj19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@
 <span id="img_19"></span> <span align="CENTER"> [![19. Murakami
 Yoshiteru Does 'Harakiri' and Throws His Entrails at the
 Enemy](tn/19.jpg)  
-Click to enlarge](img/19.jpg)  
+Click to enlarge](img/19.jpg.md)  
 19. Murakami Yoshiteru Does 'Harakiri' and Throws His Entrails at the
 Enemy  
 </span>
@@ -154,6 +154,6 @@ Morinaga, who escaped to plot in the future.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. A Story of Oki Islands](atfj19)
+[Next: XVII. A Story of Oki Islands](atfj19.md)
 
 </div>

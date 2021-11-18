@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [The
-Pacific](../index) [Index](index) [Previous](lww5)
+[Sacred-Texts](../../index.md) [The
+Pacific](../index) [Index](index) [Previous](lww5.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Massey's 'Book of the Beginnings,' p. 145, what is evidently a reference
 to Māui as the Solar Hero. He says, "The first Celestial hero was not
 the Sun, but the conqueror of the Sun and solar heat;" and it was one of
 Māui's first exploits to conquer the Sun.<span
-id="fr_1"></span>[1](#note_1) In the Aryan Mythology we may find further
+id="fr_1"></span>[1](#note_1.md) In the Aryan Mythology we may find further
 references to the deeds of Māui, e.g., in the Celtic and Scandinavian
 myths—not exactly in the same form, it is true, but the ideas are
 similar, altered by environment. It has more than once been suggested
@@ -43,7 +43,7 @@ migrated into that country. It is likewise a <span id="page_175">p.
 175</span> question whether, indeed, Māui's visit to the Pō, or Hades,
 described below, was not in reality a visit to the ancient Fatherland in
 the north, the word Pō describing the long nights of the Arctic
-circle.<span id="fr_2"></span>[2](#note_2) What follows as to Māui is by
+circle.<span id="fr_2"></span>[2](#note_2.md) What follows as to Māui is by
 no means a full account of his doings.
 
    Although the genealogies from this hero Māui show him to be one of
@@ -77,7 +77,7 @@ sense. Perhaps we may see some confirmation of this in the retention by
 the Urewera tribes of the name Mataora as that 'of a very ancient
 dwelling-place of the Maori ancestors. It was the place they removed to
 after leaving Au-roroa where Tāne and the other gods lived, and from
-Mataora they removed to Hawaiki-nui.'<span id="fr_3"></span>[3](#note_3)
+Mataora they removed to Hawaiki-nui.'<span id="fr_3"></span>[3](#note_3.md)
 In this case the hero Mataora's name has been applied to the country or
 visa versa. But for the statement that the art of tattooing, by cutting
 deep incisions in the flesh, is said to have been brought from the Pō
@@ -120,16 +120,16 @@ of Māui-tiki-a-Taranga, so as to quickly reach the object sought by the
 meeting. The above are the Māui family.
 
    Let us go back to the defeat of the Pekerau family \[see [p.
-146](lww4.htm#page_146) Chapter IV.\] at the time of the incident named
+146](lww4.htm#page_146.md) Chapter IV.\] at the time of the incident named
 'Paihau-ka-roha.' Hine-nui-te-po \[goddess of Hades, after the above
 defeat\] sent against Māui the descendants of Huriwai, i.e., the
 Tini-o-Poto \[the Poto tribe, the sand-fly, mosquito, etc., [p.
-128](lww3.htm#page_128)\]. When Māui and his companions arrived there,
+128](lww3.htm#page_128.md)\]. When Māui and his companions arrived there,
 the Poto tribe struck them on the head and legs; and when Māui slapped
 them, they escaped and carried off the blood they had sucked to
 Hine-nui-te-po, who was then dwelling at Kautere-rangi in the *pa* of
 her relative, Whakaru-au-moko \[god of volcanic forces\] at
-Rangi-riri.<span id="fr_4"></span>[4](#note_4) Hine-nui-te-po smeared
+Rangi-riri.<span id="fr_4"></span>[4](#note_4.md) Hine-nui-te-po smeared
 this blood upon the <span id="page_177">p. 177</span> entrance and door
 of the house named Potaka-rongorongo, at the same time reciting the
 following words \[as a spell, *hirihiri*, to nullify the object of
@@ -154,7 +154,7 @@ Within Ngana-te-wareware. Whose is the house?<br />
 applied \[the same ceremonies\] to the 'door of Rua-i-te-wareware' \[the
 Pit-of-oblivion\], to 'Rua-rautoka' \[Pit-of-curses\], to 'Rua-i-nokia'
 \[Pit-of-the-overcome\], and to 'Pu-mahara-kore' \[the Very-negation-of
-thought\].<span id="fr_6"></span>[6](#note_6) Here she finished and then
+thought\].<span id="fr_6"></span>[6](#note_6.md) Here she finished and then
 retired to the innermost pillar of the house and there laid down. She
 was overcome with the heat and fell into a deep sleep, with her legs
 stretched out far apart. When Māui and his companions \[the three birds
@@ -183,7 +183,7 @@ Paepae-o-Tiki \[the womb\], but as he disappeared within, the parts
 <span id="page_178">p. 178</span> of Hine-nui-te-po opened out. At this
 Tatahore burst out laughing, whilst Tiwaiwaka rushed out to the
 court-yard and began dancing about \[with delight\]. And then was
-aroused the 'World-of-light'—life<span id="fr_7"></span>[7](#note_7) of
+aroused the 'World-of-light'—life<span id="fr_7"></span>[7](#note_7.md) of
 Hine-nui-te-po, and feeling the squirming of the worm within her, she
 closed her parts, and strangled the neck of Māui, who was thus killed.
 This death is referred to as 'Wai-kumia' and 'Wai-haro-rangi.'
@@ -206,12 +206,12 @@ course, is the habit of this sweet little bird\].
 
    . . . . . . Think also of \[the story of\] Mahuika; from under his
 finger nails came forth the original or volcanic fire.<span
-id="fr_8"></span>[8](#note_8) It was Māui who planted this fire \[in
+id="fr_8"></span>[8](#note_8.md) It was Māui who planted this fire \[in
 certain woods\] and thus caused it to be seen on Earth. Māui died at
 Wai-kumia \[see above\], but \[was nearly destroyed previously at\]
 Tahu-kumia and Tahu-rangi. He called on his ancestors, Iho-rangi (10)
 and Tawhiri-matea (7) to withdraw the 'plug' of Mahu-tonga,<span
-id="fr_9"></span>[9](#note_9) because he was almost overcome by the
+id="fr_9"></span>[9](#note_9.md) because he was almost overcome by the
 Ahi-toro \[the spreading fire\] and the Ahi-turangi \[fire as high as
 Heaven\]. And then they \[the above two gods\] sent the snow first of
 all—but it did not extinguish the fire; then the rain, which was
@@ -268,11 +268,11 @@ asking you, you would not treat me thus."
 
    Then Māui withdrew his fish-hook from his basket, and his companions
 saw that his hook was made of human bone<span
-id="fr_10"></span>[10](#note_10)—a man's jaw-bone, which he fastened on
+id="fr_10"></span>[10](#note_10.md)—a man's jaw-bone, which he fastened on
 to his line. His hook was in reality the jaw-bone of his ancestor
 Muri-ranga-whenua. His line was named . . . . \[not given\], and the
 sinker was called 'Te Whata-a-Kiwa'.<span
-id="fr_11"></span>[11](#note_11) The hook descended and became fast on
+id="fr_11"></span>[11](#note_11.md) The hook descended and became fast on
 to the bottom. Thus he caught his 'fish'; he began to pull it up—he
 could not succeed in doing so. Māui-tikitiki shouted out to Pokopoko,
 Moka, and Hou, "Come and help me to haul up my fish!" The elder brothers
@@ -280,7 +280,7 @@ ealled out, "Let your fish go; we shall all be destroyed." Māui replied,
 "The fish caught by the jaw-bone of my ancestor Muri-ranga-whenua, will
 not be allowed to go." And then they all proceeded to haul up the fish;
 when it reached the surface, lo! it was Ao-tea-roa \[New Zealand\], that
-fish of Māui-tikitiki.<span id="fr_12"></span>[12](#note_12)
+fish of Māui-tikitiki.<span id="fr_12"></span>[12](#note_12.md)
 
    The elder brothers now wished to cut up the fish; but Māui said, "Let
 the fish remain there quietly until it is cool, and then cut it up." But
@@ -303,19 +303,19 @@ will be seen from the following:—
 
    You have all heard of the man named Mata-aho. In his times and those
 of Māui, Io-nui \[the Supreme God\], decided to send Rua-tau and
-Aitu-pawa<span id="fr_13"></span>[13](#note_13) down to Mataaho to
+Aitu-pawa<span id="fr_13"></span>[13](#note_13.md) down to Mataaho to
 inform him that the springs of Kiwa (52), one of the gods of ocean,
 Tawhiri-matea (7), god of tempests, and <span id="page_181">p.
 181</span> Te Iho-rangi (10), god of rain, snow, hail, etc., would be
 loosened, that the Earth might be drowned<span
-id="fr_14"></span>[14](#note_14) and overturned down to Hades. After
+id="fr_14"></span>[14](#note_14.md) and overturned down to Hades. After
 that Mataaho and Whakaru-an-moko (70) were to separate \[distribute\]
 the Earth, so that the head, the sides, the arms, and legs might all be
-separated.<span id="fr_15"></span>[15](#note_15) The reason of this
+separated.<span id="fr_15"></span>[15](#note_15.md) The reason of this
 decree of Io-nui was, his *pouri* \[sorrow, regret, literally darkness
 of heart\] on account of the warfare of Whiro-te-tipua (6) and his
 younger brother Tu-mata-uenga (11) at Te Paerangi,<span
-id="fr_16"></span>[16](#note_16) which was after the separation of the
+id="fr_16"></span>[16](#note_16.md) which was after the separation of the
 Sky-father and Earth-mother \[and the evil of which\] still endures even
 from that time to the present day. Peace has never been made between
 Tāne-nui-a-rangi (68) and Whiro-te-tipua (6)—hence the 'Maiki-roa'
@@ -336,7 +336,7 @@ Mataaho and Whakaru-au-moko (70) are the two who hold the power over the
 earthquakes and volcanic eruptions. Tawhīri-matea (7) has power over the
 winds. Te Ihorangi (10) rules the rain; and Kiwa (52) has the power to
 gather the waters, and confine them, or loosen them; to spread them over
-all places which they<span id="fr_17"></span>[17](#note_17) think
+all places which they<span id="fr_17"></span>[17](#note_17.md) think
 propter. Those mentioned are the directors of the snow-storms, rain, the
 waters of the ocean, the earthquakes, volcanoes, and the fogs. These
 were all the powers delegated to them by Io-te-wānanga
@@ -354,7 +354,7 @@ said, "Leave my 'fish' \[the Earth\] to me; as a dwelling place for me
 and my elder brethren and our descendants." This was the 'taking
 possession,' enunciated at that time, and has remained so according to
 the covenant of Māui; and Māui's name<span
-id="fr_18"></span>[18](#note_18) became attached to this island, right
+id="fr_18"></span>[18](#note_18.md) became attached to this island, right
 down to the present time. The words of Māui have been fulfilled, for we,
 the descendants of those \[five\] Māuis now dwell here. All the people
 who dwell here on this island and right away to Hawaiki, are all
@@ -447,7 +447,7 @@ Rara-o-te-rangi.' So the party commenced to make fun of Mataora; and the
 following discussion took place amongst them; some said he was a man;
 others that he was an Apa \[a messenger-god\]; others again thought he
 was a Mata-ruai \[meaning not known\]; others said he was a
-Poporo-kewa<span id="fr_19"></span>[19](#note_19); others thought he was
+Poporo-kewa<span id="fr_19"></span>[19](#note_19.md); others thought he was
 a Ruao <span id="page_183">p. 183</span> \[meaning not known\], and
 others thought he was just a man. Then said Niwareka, "I will have him
 for my husband!" Whilst the Turehu were thus discussing, Mataora came
@@ -455,7 +455,7 @@ outside his house to look at the strangers, and he said to them, "Are
 you females?" They replied by asking him, "Are you a male?" Mataora
 turned his back to them, and stooped down, at which all the Turehu burst
 out laughing, some saying, "He is a male!"<span
-id="fr_20"></span>[20](#note_20) Others, "He is a man."
+id="fr_20"></span>[20](#note_20.md) Others, "He is a man."
 
    Mataora now said to the company of Turehu, "Come inside my house so
 that I may give you something to eat." The Turehu consented, but said
@@ -484,7 +484,7 @@ in which all the other Turehu joined. Their kind of *haka* was by
 holding one another's hands and dancing with high stepping, whilst
 others passed in and out under the arms of the rest, at the same time
 singing, "Niwareka! Niwareka!" And then the haka of the people
-ended.<span id="fr_21"></span>[21](#note_21)
+ended.<span id="fr_21"></span>[21](#note_21.md)
 
    These people all had fair skins, and their hair was like the flowers
 of the plant *toetoe* (*Arundo conspicua*, i.e., flaxen-haired); and
@@ -506,7 +506,7 @@ I am a high-born chieftainess, a daughter of Ue-tonga, I come from
 Rarohenga \[Hades\].
 
    After a long time Mataora became jealous of his elder brother
-Tau-toru<span id="fr_22"></span>[22](#note_22); he saw that he ardently
+Tau-toru<span id="fr_22"></span>[22](#note_22.md); he saw that he ardently
 desired his wife. In consequence he thrashed his wife Niwareka; which
 caused her to flee away to Rarohenga \[Hades\] to the home of her
 ancestors and parents. A great sorrow fell on Mataora, and he deeply
@@ -533,24 +533,24 @@ the ancient tattooing was like.
 
    And now Mataora started off to search for his wife. When he reached
 Tahua-roa in the country of Irihia,<span
-id="fr_23"></span>[23](#note_23) there he found the dwelling of Te
+id="fr_23"></span>[23](#note_23.md) there he found the dwelling of Te
 Ku-watawata (23) and his companions at his house named Pou-tere-rangi
 \[entrance to Hades\]. The original name of this house was Whare-kura;
 the second, Rake-pohutukawa; the third, Hawaiki-o-Maruaroa<span
-id="fr_24"></span>[24](#note_24) \[Hawaiki-of-the-Solstice\]—those are
+id="fr_24"></span>[24](#note_24.md) \[Hawaiki-of-the-Solstice\]—those are
 all its names. The original name of this part \[of the Fatherland\] was
 Rangi-tatau \[the Heavens-are-telling <span id="page_185">p. 185</span>
-(or counting)\],<span id="fr_25"></span>[25](#note_25) and the second
+(or counting)\],<span id="fr_25"></span>[25](#note_25.md) and the second
 name given to it was Tahua-roa \[which may be translated, 'the long
 plain'\]. When the army of Whiro-te-tipua (6) was defeated at Te
-Paerangi (see [p. 134](lww3.htm#page_134)) by Tu-mata-uenga (11) and
+Paerangi (see [p. 134](lww3.htm#page_134)) by Tu-mata-uenga (11.md) and
 Tama-kaka (63) \[both names of gods\], the survivors, together with
 Whiro himself, descended to Te Muri-wai-hou or Rarohenga \[Hades\], then
 was the third name Taheke-roa \[the long rapid, or fall\] applied, as
 has been explained. This house \[i.e., Hawaiki, see [p.
-112](lww2.htm#page_112)\] had four doors, one opposite each cardinal
+112](lww2.htm#page_112.md)\] had four doors, one opposite each cardinal
 direction; it was from these doors that came forth the winds,<span
-id="fr_26"></span>[26](#note_26) that spread forth the offspring of the
+id="fr_26"></span>[26](#note_26.md) that spread forth the offspring of the
 Sky-father and Earth-mother over the surface of their mother Earth; and
 hence it is that the dead return from each quarter to its own particular
 door.
@@ -595,7 +595,7 @@ Mataora in reply said, "*Hopara-makaurangi* is the name above." Ue-tonga
 then said, "That kind of *moko* \[or face tattooing\] is used in house
 building, and is then called *hopara-makaurangi*, or painting. If the
 *moko* is done on a man it is called *tuhi*,<span
-id="fr_27"></span>[27](#note_27) or painting." Mataora replied, "That is
+id="fr_27"></span>[27](#note_27.md) or painting." Mataora replied, "That is
 called carving with us." Then Ue-tonga placed his hand on Mataora's face
 and rubbed it—and all the *moko* came off! The people all burst out
 laughing, and then Ue-tonga called out, "O ye above! O ye people of
@@ -604,7 +604,7 @@ quite clean from rubbing. That is only painting. What we call carving
 \[*whakairo*, also used for ornamentation of other kinds\] is that
 practised by the women" \[in the ornamental borders of their mats\].
 Ue-tonga then showed the garment on which the *taniko*,<span
-id="fr_28"></span>[28](#note_28) ornamentation was apparent, at the same
+id="fr_28"></span>[28](#note_28.md) ornamentation was apparent, at the same
 time saying, "This is the woman's branch; whilst the man's branch is
 this (showing the carved head of his wooden *maipi*, or halbert). "This
 is <span id="page_187">p. 187</span> carving done on wood. If you go to
@@ -614,7 +614,7 @@ is only painting."
    Mataora now said to Ue-tonga, "You have destroyed the *moko* on my
 face; you must turn to and tattoo me." Ue-tonga replied, "It is well!
 Lie down!" Then Ue-tonga called on the artists to delineate the pattern
-on Mataora's face.<span id="fr_29"></span>[29](#note_29) When this had
+on Mataora's face.<span id="fr_29"></span>[29](#note_29.md) When this had
 been done Ue-tonga sat down by the side of Mataora with his chisel and
 commenced to tattoo him. Great was his pain and his groans. He then sang
 his song:
@@ -652,7 +652,7 @@ there." Niwareka said to her younger sister, Ue-kuru, "Go and fetch him,
 and lead him to the village."
 
    So Mataora was led off; and when they reached a Pohutukawa<span
-id="fr_30"></span>[30](#note_30) tree growing there, they found the
+id="fr_30"></span>[30](#note_30.md) tree growing there, they found the
 place spread with mats. Then was heard the welcome of Niwareka and her
 lady companions, who became enamoured with the appearance of Mataora.
 She said to her friends, "His bearing is that of Mataora, whilst his
@@ -662,7 +662,7 @@ his arms towards Niwareka opened and shut his hands \[palm downwards—an
 old Maori custom of asking to draw near\]. Niwareka then knew it was
 <span id="page_188">p. 188</span> indeed Mataora, and she commenced the
 usual *tangi* \[crying, at the meeting between friends\] over Mataora;
-the *kauri*<span id="fr_31"></span>[31](#note_31) was like laughter!
+the *kauri*<span id="fr_31"></span>[31](#note_31.md) was like laughter!
 
    After Mataora had dwelt there for some time the news reached
 Ranga-ahu, that Mataora was staying at Taranaki. Then \[the spirit of\]
@@ -670,8 +670,8 @@ Te Whiriran came to see him—he was a younger brother of Mataora's who
 had been killed during the war at Hangarau which, I will explain later
 on—this was his spirit. But Mataora would not consent to his brother's
 proposal that he should accompany the latter to Ranga-ahu.<span
-id="fr_32"></span>[32](#note_32) This was due to the custom of Hades;
-when the *aroaro-waimate*<span id="fr_33"></span>[33](#note_33) of an
+id="fr_32"></span>[32](#note_32.md) This was due to the custom of Hades;
+when the *aroaro-waimate*<span id="fr_33"></span>[33](#note_33.md) of an
 invalid in this world is strongly felt towards his relatives who have
 preceded him to Rarohenga; those spirits came to fetch the sick man; or
 in other cases to return the spirit of the invalid to its house, that
@@ -681,7 +681,7 @@ spirit of the invalid with them, that man will surely die. But when the
 days elapsing between the birth of any one and the period when his
 navel-string drops off, are accomplished, then ends the time of
 farewells of the spirits of the invalid to its relatives in this
-world,<span id="fr_34"></span>[34](#note_34) and then the spirit of he
+world,<span id="fr_34"></span>[34](#note_34.md) and then the spirit of he
 who is dying turns his face towards Whare-kura, that is, to Hawaiki-nui.
 The company of spirits who come to fetch that of the dying man, lead it
 to Whare-kura; and on arrival, the spirit is purified by the Pou-tiri-ao
@@ -697,7 +697,7 @@ it by the Toi-hua-rewa \[to Io the Supreme God\].
 
    Mataora, now said to Niwareka, "Let us both return to the Ao-tu-roa"
 \[the long-standing-world—the Earth\]. She replied, "The customs of the
-upper world are bad.<span id="fr_35"></span>[35](#note_35) Rather let us
+upper world are bad.<span id="fr_35"></span>[35](#note_35.md) Rather let us
 remain below, <span id="page_189">p. 189</span> and gather our thoughts
 and turn them from the evils of the upper world."
 
@@ -743,7 +743,7 @@ works." Now, you see from the words of Ue-tonga that in the Ao-tu-roa
 world\] alone are all evil and darkness, whilst in Rarohenga there are
 none; there is no night there, but light alone and good works. Hence it
 is that, even from the time of Hine-ahu-one,<span
-id="fr_36"></span>[36](#note_36) her descendants, and even down to the
+id="fr_36"></span>[36](#note_36.md) her descendants, and even down to the
 present time, not a single one has ever come back from there to this
 world to live.
 
@@ -770,13 +770,13 @@ the white-man's clothing put on over the head \[as a shirt\].
 
    The original patterns of 'Te Rangi-haupapa' was made by Niwareka,
 from one belonging to Hine-rau-wharangi, daughter of Hine-ti-tama \[and
-Tāne, see [p. 148](lww4.htm#page_148)\]. It is said that this garment
+Tāne, see [p. 148](lww4.htm#page_148.md)\]. It is said that this garment
 was named 'Rena,' and was the same name as that used by Ue-nuku during
 his war with Whena, when the \[people of the\] bows of the canoe fought
 with those in the stern. This was \[the occurrence called\] 'Iwi-katea,'
 but the principal name of this war was 'Te Ra-tu-rua,' in which the
 death of Ue-nuku's children was avenged.<span
-id="fr_37"></span>[37](#note_37)
+id="fr_37"></span>[37](#note_37.md)
 
    So Mataora and Niwareka started to return to this upper world. When
 they got to Pou-tere-rangi \[guard-house of Hades\], to the foot of the
@@ -808,10 +808,10 @@ and the miromiro \[the wren\], which, if one of them appears in an
 assemblage of men, it is a warning that some misfortune will happen to
 that house. It is the same with the Patatai \[land rail\] and Ti-waiwaka
 \[the Fan-tail\]. This is the reason that the two latter visit their
-relations mentioned above.<span id="fr_38"></span>[38](#note_38) Māui
+relations mentioned above.<span id="fr_38"></span>[38](#note_38.md) Māui
 asked the Patatai, the Ti-waiwaka and the Tatahore to accompany him when
 he went to Hades to try and destroy Hine-nui-te-po \[goddess of Hades,
-see [p. 146](lww4.htm#page_146)\].
+see [p. 146](lww4.htm#page_146.md)\].
 
    Mataora, Niwareka and their company, now went on towards the
 upper-world. When they reached Pou-tere-rangi \[the guard house of
@@ -819,7 +819,7 @@ Hades\] they found Te Ku-watawata (23) \[guardian of the entrance to
 Hades\] there. He asked them, "Mataora! What are those properties
 beneath you?" The latter replied, "The works of the world above are done
 in the night; those of the under-world are done in the Ao-turama.<span
-id="fr_39"></span>[39](#note_39) Night has been separated off to the
+id="fr_39"></span>[39](#note_39.md) Night has been separated off to the
 upper-world, and the daylight to the under-world. The second properties
 are the *moko-whakatara* (wood-carving), *moko-whakanyao*
 (face-tattooing), and *whakairo-paepae-roa* (ornamental pattern on the
@@ -836,7 +836,7 @@ dead\] will pass on to Rarohenga. The body will be separated off \[and
 left\] above, the spirit alone shall tread both the upper and the lower
 worlds." Mataora asked, "What is the reason for this?" <span
 id="page_192">p. 192</span> Te Ku-watawata replied, "Te
-Rangi-haupapa<span id="fr_40"></span>[40](#note_40) is with you! Why did
+Rangi-haupapa<span id="fr_40"></span>[40](#note_40.md) is with you! Why did
 you conceal it?" Then Niwareka took the garment out of her bundle,
 saying to Te Ku-watawata, "This is 'Te Rangi-haupapa,' leave it at 'the
 origin, the sprouts and the roots,' in Pou-tere-rangi there to become a
@@ -918,10 +918,10 @@ adjunct to Tu-tangata's name, 'Tu-tangata-kino' \[ugly Tu-tangata\].
 
    After this Maru and Ue-kaihau were tattooed, and then for the first
 time was seen the beauty of the work of the *kauri*.<span
-id="fr_41"></span>[41](#note_41) When the news of this reached Awarau,
+id="fr_41"></span>[41](#note_41.md) When the news of this reached Awarau,
 Tonga-nui \[? the Tonga group\], Rangi-atea \[? Ra‘iatea of the Society
 group\], and Hui-te-rangiora—which are names of islands near
-Ta-whiti-nui<span id="fr_42"></span>[42](#note_42)—a messenger was sent
+Ta-whiti-nui<span id="fr_42"></span>[42](#note_42.md)—a messenger was sent
 asking Mataora to go to Irihia, \[one of the names of the Fatherland\]
 to the home of Nuku-wahi-rangi, in order that they might see Mataora and
 his tattooing. His tattooing was on the wings of the nose, the *pihere*,
@@ -940,7 +940,7 @@ the lips for the first time. The chin pattern of the women originated
 here in this island \[New Zealand\], and was copied from a similar
 pattern cut on the neck of the calabashes; it was first tattooed on
 Ira-nui by Kahu-kura-nui, the pattern being first sketched by
-Kahu-kura-kotare.<span id="fr_43"></span>[43](#note_43)
+Kahu-kura-kotare.<span id="fr_43"></span>[43](#note_43.md)
 
    Here ends my description of the origin of the *moko*
 \[face-tattooing\]. I am not clear as to the origin of the tattooing on
@@ -952,7 +952,7 @@ Whare-wānanga\].
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [The Pacific](../index) [Index](index)
+[Sacred-Texts](../../index) [The Pacific](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -960,7 +960,7 @@ Whare-wānanga\].
 
 <span id="footnotes_page_174">p. 174</span>
 
-<span id="note_1"></span>[1](#fr_1). It were easy to show from Mr.
+<span id="note_1"></span>[1](#fr_1.md). It were easy to show from Mr.
 Massey's book that there are many striking coincidences in both
 incidents and names between Egyptian and Polynesian Myths, but this is
 not the place. At the same time one may record here that many of his
@@ -968,36 +968,36 @@ Maori synonyms are not true.
 
 <span id="footnotes_page_175">p. 175</span>
 
-<span id="note_2"></span>[2](#fr_2). In this connection a study of
+<span id="note_2"></span>[2](#fr_2.md). In this connection a study of
 Jnanendralai Majumdar's 'Eagle and the Sun,' published by the Indian
 Research Society, should be consulted. The *Manu i te ra* (the bird in
 the Sun) of Maori legend is possibly the Eagle of Indian Myth.
 
-<span id="note_3"></span>[3](#fr_3). 'Hawaiki,' 3rd edition, p. 68.
+<span id="note_3"></span>[3](#fr_3.md). 'Hawaiki,' 3rd edition, p. 68.
 
 <span id="footnotes_page_176">p. 176</span>
 
-<span id="note_4"></span>[4](#fr_4). Rangi-riri, whether this same one
+<span id="note_4"></span>[4](#fr_4.md). Rangi-riri, whether this same one
 or not, is not clear, was the place from which all fish originated, and
 the name is often quoted in the spells said to cause fish to bite.
 
 <span id="footnotes_page_177">p. 177</span>
 
-<span id="note_5"></span>[5](#fr_5). Ngana-te-irihia has some magical
+<span id="note_5"></span>[5](#fr_5.md). Ngana-te-irihia has some magical
 meaning; the translator's is, persistence-suspended. Ngana-te-wareware
 is the same; it is translated, persistent-oblivion.
 
-<span id="note_6"></span>[6](#fr_6). These appear to be magical
+<span id="note_6"></span>[6](#fr_6.md). These appear to be magical
 expressions denoting the goddess' determination to destroy Māui's mental
 powers, and consequently secure his death. Or, it is possible that the
 goddess applied these charms to herself to cause a deep sleep.
 
 <span id="footnotes_page_178">p. 178</span>
 
-<span id="note_7"></span>[7](#fr_7). That is, she came back to
+<span id="note_7"></span>[7](#fr_7.md). That is, she came back to
 consciousness of life from her sleep.
 
-<span id="note_8"></span>[8](#fr_8). This account of the fire of Mahuika
+<span id="note_8"></span>[8](#fr_8.md). This account of the fire of Mahuika
 is a mere brief illustration, and is not the full story. It is
 interesting to note in the Sage's account the reference to volcanic
 fire, for this is something quite new in the story hitherto told, and
@@ -1008,47 +1008,47 @@ amongst some branches of the race. The probability is that the 'Ahitoro'
 is the remembrance of some volcanic eruption, when the lava set fire to
 the country.
 
-<span id="note_9"></span>[9](#fr_9). The 'house' in the south from
+<span id="note_9"></span>[9](#fr_9.md). The 'house' in the south from
 whence came the cold winds, snow, hail, rain, etc.
 
 <span id="footnotes_page_180">p. 180</span>
 
-<span id="note_10"></span>[10](#fr_10). Fish-hooks made with human bones
+<span id="note_10"></span>[10](#fr_10.md). Fish-hooks made with human bones
 were supposed to possess great *măna*, or power, in catching fish.
 
-<span id="note_11"></span>[11](#fr_11). 'The Store-house-of-Kiwa'—Kiwa
+<span id="note_11"></span>[11](#fr_11.md). 'The Store-house-of-Kiwa'—Kiwa
 (52) being one of the gods of ocean.
 
-<span id="note_12"></span>[12](#fr_12). One of the names for New Zealand
+<span id="note_12"></span>[12](#fr_12.md). One of the names for New Zealand
 is 'Te Ika-a-Māui,' the fish-of-Māui; and this was the name learned by
 Captain Cook, in 1769, under the form of 'He hīnga-no-Māui' (a
 fishing-of Māui).
 
-<span id="note_13"></span>[13](#fr_13). Two of the guardians of the
+<span id="note_13"></span>[13](#fr_13.md). Two of the guardians of the
 'Heavenly treasures,' and special messengers of Io.
 
 <span id="footnotes_page_181">p. 181</span>
 
-<span id="note_14"></span>[14](#fr_14). The word used is *takapautia*,
+<span id="note_14"></span>[14](#fr_14.md). The word used is *takapautia*,
 which means, ended. But the Scribe says it means here, drowned.
 
-<span id="note_15"></span>[15](#fr_15). The Earth, in these old myths,
+<span id="note_15"></span>[15](#fr_15.md). The Earth, in these old myths,
 takes on the form of a woman's body. In other words it means the four
 quarters of the Earth; each people (or nation) was to be henceforth
 separate.
 
-<span id="note_16"></span>[16](#fr_16). The wars of the gods—see [p.
-134](lww3.htm#page_134).
+<span id="note_16"></span>[16](#fr_16.md). The wars of the gods—see [p.
+134](lww3.htm#page_134.md).
 
-<span id="note_17"></span>[17](#fr_17). They, probably, includes
+<span id="note_17"></span>[17](#fr_17.md). They, probably, includes
 Tangaroa, the other god of ocean.
 
 <span id="footnotes_page_182">p. 182</span>
 
-<span id="note_18"></span>[18](#fr_18). That is 'Te
+<span id="note_18"></span>[18](#fr_18.md). That is 'Te
 Ika-a-Māui'—'Māui's-fish,' a name for New Zealand.
 
-<span id="note_19"></span>[19](#fr_19). These are Apa-atua, a species of
+<span id="note_19"></span>[19](#fr_19.md). These are Apa-atua, a species of
 gods, dwelling in Te Rangi-tamaku, the next Heaven to the visible one.
 This name has, however, in more modern times been applied to a people
 dwelling in Fiji or Tonga, and may mean dark or black people, a name
@@ -1056,27 +1056,27 @@ probably applied to the Melanesians.
 
 <span id="footnotes_page_183">p. 183</span>
 
-<span id="note_20"></span>[20](#fr_20). *Toa* = male of animals.
+<span id="note_20"></span>[20](#fr_20.md). *Toa* = male of animals.
 
-<span id="note_21"></span>[21](#fr_21). The description of this dance is
+<span id="note_21"></span>[21](#fr_21.md). The description of this dance is
 entirely foreign to those performed by the Maoris or any other branch of
 the Polynesian race I am acquainted with—it is more like some of the old
 English dances, the May-pole dance for instance.
 
 <span id="footnotes_page_184">p. 184</span>
 
-<span id="note_22"></span>[22](#fr_22). Tautoru is a name for the
+<span id="note_22"></span>[22](#fr_22.md). Tautoru is a name for the
 constellation of Orion.
 
-<span id="note_23"></span>[23](#fr_23). Irihia is one of the names for
+<span id="note_23"></span>[23](#fr_23.md). Irihia is one of the names for
 the Fatherland.
 
-<span id="note_24"></span>[24](#fr_24). This appears to be the fifth
+<span id="note_24"></span>[24](#fr_24.md). This appears to be the fifth
 temple mentioned in the introduction to Chapter I.
 
 <span id="footnotes_page_185">p. 185</span>
 
-<span id="note_25"></span>[25](#fr_25). Just here we may suggest what is
+<span id="note_25"></span>[25](#fr_25.md). Just here we may suggest what is
 perhaps a fanciful translation of this name; but anything that serves to
 throw light on the former history and the whence of the people, even if
 appearing now not quite apposite, may yet be of value in the future. I
@@ -1090,7 +1090,7 @@ to a higher civilization—as do many other things—at one time existing
 amongst the Polynesians. Rangi-tatau, it will be noticed above is in
 Irihia, the Fatherland, not the Heavens.
 
-<span id="note_26"></span>[26](#fr_26). *Hau*, wind; but the word with
+<span id="note_26"></span>[26](#fr_26.md). *Hau*, wind; but the word with
 the causitive *whaka* before it means a 'command.' The Scribe tells me
 that the teaching of the old Ruanukas was, that from this 'house'
 Hawaiki, mankind spread to the four-quarters of the Earth, and the
@@ -1101,81 +1101,81 @@ of spirits.
 
 <span id="footnotes_page_186">p. 186</span>
 
-<span id="note_27"></span>[27](#fr_27). *Tuhi* is the modern word for
+<span id="note_27"></span>[27](#fr_27.md). *Tuhi* is the modern word for
 writing; perhaps there is a good deal in the meaning.
 
-<span id="note_28"></span>[28](#fr_28). This is the beautiful ornamented
+<span id="note_28"></span>[28](#fr_28.md). This is the beautiful ornamented
 border on the *kaitaka* cloaks, some of which is very handsome and
 delicate; it takes a woman a year to weave a piece four feet long by one
 foot wide.
 
 <span id="footnotes_page_187">p. 187</span>
 
-<span id="note_29"></span>[29](#fr_29). This was done by marking out in
+<span id="note_29"></span>[29](#fr_29.md). This was done by marking out in
 charcoal where the chisel was to follow.
 
-<span id="note_30"></span>[30](#fr_30). Pohutu-kawa is the *Metrosideros
+<span id="note_30"></span>[30](#fr_30.md). Pohutu-kawa is the *Metrosideros
 tormentosa* tree of New Zealand.
 
 <span id="footnotes_page_188">p. 188</span>
 
-<span id="note_31"></span>[31](#fr_31). That is, the tattooing of his
+<span id="note_31"></span>[31](#fr_31.md). That is, the tattooing of his
 face was beautiful; often the soot of the *kauri* tree is used as the
 pigment in tattooing.
 
-<span id="note_32"></span>[32](#fr_32). For fear he should not be
+<span id="note_32"></span>[32](#fr_32.md). For fear he should not be
 allowed to return to the World of Light.
 
-<span id="note_33"></span>[33](#fr_33). Explained as the strong desire
+<span id="note_33"></span>[33](#fr_33.md). Explained as the strong desire
 of one who knows he has no hope of recovering from his illness—to depart
 for the realm of the dead.
 
-<span id="note_34"></span>[34](#fr_34). The Scribe says the days of
+<span id="note_34"></span>[34](#fr_34.md). The Scribe says the days of
 mourning for the dead are regulated by the length of the above period.
 Probably this means for the relatives living with the defunct only.
 
-<span id="note_35"></span>[35](#fr_35). It will be remembered she had
+<span id="note_35"></span>[35](#fr_35.md). It will be remembered she had
 been beaten by her husband.
 
 <span id="footnotes_page_189">p. 189</span>
 
-<span id="note_36"></span>[36](#fr_36). The first woman; her daughter,
-Hine-titama, became goddess of Hades, See [p. 144](lww4.htm#page_144).
+<span id="note_36"></span>[36](#fr_36.md). The first woman; her daughter,
+Hine-titama, became goddess of Hades, See [p. 144](lww4.htm#page_144.md).
 
 <span id="footnotes_page_190">p. 190</span>
 
-<span id="note_37"></span>[37](#fr_37). This war occurred in the
+<span id="note_37"></span>[37](#fr_37.md). This war occurred in the
 generation preceeding the emigration of the six well-known canoes to New
 Zealand from Tahiti, in *circa* 1350.
 
 <span id="footnotes_page_191">p. 191</span>
 
-<span id="note_38"></span>[38](#fr_38). This is not at all clear.
+<span id="note_38"></span>[38](#fr_38.md). This is not at all clear.
 
-<span id="note_39"></span>[39](#fr_39). A peculiar expression for the
+<span id="note_39"></span>[39](#fr_39.md). A peculiar expression for the
 light = the torch-lit world, or light-of-the torch.
 
 <span id="footnotes_page_192">p. 192</span>
 
-<span id="note_40"></span>[40](#fr_40). The garment given by Ue-tanga to
+<span id="note_40"></span>[40](#fr_40.md). The garment given by Ue-tanga to
 Mataora.
 
 <span id="footnotes_page_193">p. 193</span>
 
-<span id="note_41"></span>[41](#fr_41). *Kauri*-soot is a common pigment
+<span id="note_41"></span>[41](#fr_41.md). *Kauri*-soot is a common pigment
 for tattoo. We must suppose that a lengthy period had elapsed—perhaps
 centuries—and after the people had arrived in Eastern Polynesia, before
 the next incident comes in. Unless, indeed, the names of islands given
 were those after which the present ones are named, and this seems
 probable.
 
-<span id="note_42"></span>[42](#fr_42). Tawhiti-nui, may be Tahiti-nui
+<span id="note_42"></span>[42](#fr_42.md). Tawhiti-nui, may be Tahiti-nui
 of Eastern Polynesia, or, that Tawhiti-nui which was the second station
 on the migration from the Fatherland, and which, in the Historical Part
 to follow, I have identified with some probability as Borneo—probably
 the latter is correct.
 
-<span id="note_43"></span>[43](#fr_43). Kahukura-kotare was elder
+<span id="note_43"></span>[43](#fr_43.md). Kahukura-kotare was elder
 brother of Tamatea-ariki-nui, high chief and leader of the 'Takitimu'
 migration from Tahiti to New Zealand in about 1350.
 

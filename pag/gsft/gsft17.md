@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft16) 
-[Next](gsft18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft16.md) 
+[Next](gsft18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gypsy Sorcery and Fortune Telling*, by Charles Godfrey Leland,
 \[1891\], at Intangible Textual Heritage
 
@@ -222,7 +222,7 @@ The cult of the shell is widely spread. One day in a public-house, in
 the West End of London, I, while taking my glass of bitter, entered into
 conversation with a rather tall, decently-attired brunette Alsatian
 girl, who spoke French and German, and who knew a few words of Romany,
-which she said she had picked up by [accident](errata.htm#4)—at least
+which she said she had picked up by [accident](errata.htm#4.md)—at least
 she professed not to be gypsy, and to know no more. Being minded to test
 the truth of this, I casually exhibited one of my shells
 
@@ -482,7 +482,7 @@ cleared the air. Even the Algonkin Indians knew more than the Church in
 this respect, for they have a strange old legend to the effect that when
 the god of Storms, *Wuch-ow-sen*, the giant eagle, was hindered by a
 magician from his accustomed work, the sea and air grew stagnant, and
-people died. <span id="fr_23"></span>[1](#fn_23) The witch was simply
+people died. <span id="fr_23"></span>[1](#fn_23.md) The witch was simply
 another form of the Hebrew Azrael, God's Angel of Death.
 
 Which may all lead to the question: If a belief in witches as utterly
@@ -751,7 +751,7 @@ as a kind of amulet or protection. Many think it is unlucky to
 
 <span id="page_249">p. 249</span>
 
-have one's [photograph](errata.htm#5) taken but no harm can come of it
+have one's [photograph](errata.htm#5.md) taken but no harm can come of it
 if the one who receives the picture gives the subject a shoe-string or a
 pair of laces.
 
@@ -990,13 +990,13 @@ indeed behind its myths and mental conceptions.
 
 ### Footnotes
 
-<span id="fn_23"></span>[242:1](gsft17.htm#fr_23) See the "Algonkin
+<span id="fn_23"></span>[242:1](gsft17.htm#fr_23.md) See the "Algonkin
 Legends of New England," by Charles G. Leland.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Gypsies, Toads and Toad-lore](gsft18)
+[Next: Chapter XVI: Gypsies, Toads and Toad-lore](gsft18.md)
 
 </div>

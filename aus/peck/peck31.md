@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck30)  [Next](peck32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck30)  [Next](peck32.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ Australia than the emu which figures as such officially.
 
 ------------------------------------------------------------------------
 
-[Next: Two Waratah Legends](peck32)
+[Next: Two Waratah Legends](peck32.md)

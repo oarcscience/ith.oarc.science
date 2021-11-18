@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srf05)  [Next](srf07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srf05)  [Next](srf07.md) 
 
 ------------------------------------------------------------------------
 
@@ -277,7 +277,7 @@ flies.
 <span id="img_08000"></span>
 
 [![KOKO AND LITTLE MIKHAIL](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
 KOKO AND LITTLE MIKHAIL  
 
  
@@ -708,4 +708,4 @@ years."
 
 ------------------------------------------------------------------------
 
-[Next: How Little Ivan Became a Tsar](srf07)
+[Next: How Little Ivan Became a Tsar](srf07.md)

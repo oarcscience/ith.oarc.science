@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam15)  [Next](lam17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam15)  [Next](lam17.md) 
 
 ------------------------------------------------------------------------
 
@@ -269,4 +269,4 @@ THE END
 
 ------------------------------------------------------------------------
 
-[Next: Dust Jacket copy](lam17)
+[Next: Dust Jacket copy](lam17.md)

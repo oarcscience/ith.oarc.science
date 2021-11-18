@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe135)  [Next](prwe137) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe135)  [Next](prwe137.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ stomach, and restored to the saint.
 
 ------------------------------------------------------------------------
 
-[Next: St Neot and the Doe](prwe137)
+[Next: St Neot and the Doe](prwe137.md)

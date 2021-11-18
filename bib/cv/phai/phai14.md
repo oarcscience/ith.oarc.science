@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai13) 
-[Next](phai15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai13.md) 
+[Next](phai15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
 expressions "theocracy," and "theocratic" without making it clear to
 themselves what these words mean and how far they are entitled to use
 them. But we know that the word θεοκρατία was only coined by
-Josephus; <span id="fr_234"></span>[1](#fn_234) and when this writer
+Josephus; <span id="fr_234"></span>[1](#fn_234.md) and when this writer
 speaks of the Mosaic constitution, he has before his eyes, it is well
 known, the sacred community of his own day as it existed down to the
 year 70 A.D. In ancient Israel the theocracy never existed in fact as a
@@ -71,7 +71,7 @@ free impulse, not in accordance with an outward norm, and yet, or just
 because of this, in the Spirit of Jehovah. The different view of
 different times is seen very characteristically in the views taken of
 Saul by the two versions above sifted and compared ([p.
-250](phai10.htm#page_250) seq.).
+250](phai10.htm#page_250) seq..md).
 
  
 
@@ -278,7 +278,7 @@ theocratic constitution given antecedently to any historical
 development. There can be no doubt that it never entered his head that
 the form God desired the community to take was not a thing to be
 determined by circumstances, but had been revealed at Mount Sinai. <span
-id="fr_235"></span>[1](#fn_235)
+id="fr_235"></span>[1](#fn_235.md)
 
 4\. Nor did the theocracy exist from the time of Moses in the form of
 the covenant, though that was afterwards a favourite mode of regarding
@@ -333,7 +333,7 @@ word and instruction. In this view of the matter Jehovah and Israel came
 to be regarded as the contracting parties of the covenant by which the
 various representatives of the people had originally pledged each other
 to keep, say, the Deuteronomic law. <span
-id="fr_236"></span>[1](#fn_236)
+id="fr_236"></span>[1](#fn_236.md)
 
 After the solemn and far-reaching act
 
@@ -361,7 +361,7 @@ expectation of a great conflagration, the materials for which had long
 been collected in the nation itself: but after the exile fancy dealt in
 general coalitions of God knows what peoples against the New Jerusalem,
 vaticinations for which there was no ground whatever in reality. <span
-id="fr_237"></span>[1](#fn_237) In earlier times the national state as
+id="fr_237"></span>[1](#fn_237.md) In earlier times the national state as
 it had existed under David was the goal of all wishes. Now a universal
 world empire was erected in imagination, which was to lift up its head
 at Jerusalem over the ruins of the heathen powers. Prophecy was no
@@ -457,7 +457,7 @@ incorrectly, the key of the Old Testament.
 
 Thus arose that artificial product, the sacred constitution of Judaism.
 In the Priestly Code we have the picture of it in detail. <span
-id="fr_238"></span>[1](#fn_238) The distinction, drawn with such pains
+id="fr_238"></span>[1](#fn_238.md) The distinction, drawn with such pains
 between the Mosaic theocracy and the post-exilic hierocracy, is too
 fine. Theocracy as a constitution is hierocracy. If Moses founded such a
 constitution, he did it prophetically, with a view
@@ -465,11 +465,11 @@ constitution, he did it prophetically, with a view
 <span id="page_422">p. 422</span>
 
 to circumstances which only arose a thousand years after his day, (pp.
-[163](phai08.htm#page_163), [270](phai10.htm#page_270)). Old Israel had
+[163](phai08.htm#page_163), [270](phai10.htm#page_270).md). Old Israel had
 not shrunk to a religious congregation, public life was not quite
 absorbed in the service of the sanctuary; the high priest and the
 dwelling of Jehovah were not the centre round which all revolved (pp.
-[170](phai09.htm#page_170), [227](phai09.htm#page_227)). These great
+[170](phai09.htm#page_170), [227](phai09.htm#page_227).md). These great
 changes were wrought by the destruction of the political existence first
 of Samaria, then of Judah. In this way the people became "a kingdom of
 priests and a holy nation," as we read in a Deuteronomistic passage,
@@ -618,7 +618,7 @@ supernaturalistic monotheism.
 
 ### Footnotes
 
-<span id="fn_234"></span>[411:1](phai14.htm#fr_234) Οὐκοῦν ἄπειροι μὲν
+<span id="fn_234"></span>[411:1](phai14.htm#fr_234.md) Οὐκοῦν ἄπειροι μὲν
 αἱ κατὰ μέρος τῶν ἐθῶν καὶ τῶν νόμων παρὰ τοῖς ἅπασιν ἀνθρώποις
 διαφοραί· οἱ μὲν γὰρ μοναρχίαις, οἱ δὲ ταῖς ὁλίγων δυναστείαις, ἄλλοι δὲ
 τοῖς πλήθεσιν ἐπέτρεψαν τὴν ἐξουσίαν τῶν πολιτευμάτων?=· Ὁ δ᾽ ἡμέτερος
@@ -633,31 +633,31 @@ call by a strained expression a theocracy*, attributing the power and
 the authority to God." Compare also, on this whole chapter, *Die
 Pharisäer und die Sadducäer*, Greifswald, 1874.
 
-<span id="fn_235"></span>[417:1](phai14.htm#fr_235) He even speaks with
+<span id="fn_235"></span>[417:1](phai14.htm#fr_235.md) He even speaks with
 favour of David and the kingdom of Judah, but I consider all such
 references in Hosea (as well as in Amos) to, be interpolations. In i. 7
 there is a reference to the deliverance of Jerusalem under Hezekiah.
 
-<span id="fn_236"></span>[418:1](phai14.htm#fr_236) This variation
+<span id="fn_236"></span>[418:1](phai14.htm#fr_236.md) This variation
 gained entrance the more easily as Berith is used in various
 applications, *e.g.*, of the capitulation, the terms of which are
 imposed by the stronger on the weaker party: that the contracting
 parties had equal rights was by no means involved in the notion of the
 Berith. See the wavering of the notion in Jer. xxxiv. 13-18.
 
-<span id="fn_237"></span>[419:1](phai14.htm#fr_237) Ezek. xxxviii.
+<span id="fn_237"></span>[419:1](phai14.htm#fr_237.md) Ezek. xxxviii.
 xxxix.; Isa. lxvi. 18-24; Joel iv.; Zech. xii. xiv. In Isa. v. 26, on
 the other hand, we must, of course, read ‏גוי‎, for ‏גוים‎, the singular
 instead of the plur.
 
-<span id="fn_238"></span>[421:1](phai14.htm#fr_238) It is not the case
+<span id="fn_238"></span>[421:1](phai14.htm#fr_238.md) It is not the case
 that the hierocracy is based on the Priestly Code: that code was only
 introduced after the hierocracy was already in existence, but helped, no
 doubt, to consolidate and legalise it. The written law afterwards
 undermined the rule of the priests; and the scriptures played into the
 hands of the scribes and Pharisees. (Compare the case of the Parsees and
-Sabians, and [p. 157](phai08.htm#page_157), note.)
+Sabians, and [p. 157](phai08.htm#page_157), note..md)
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Beginnings of the Nation](phai15)
+[Next: 1. The Beginnings of the Nation](phai15.md)

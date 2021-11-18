@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe125)  [Next](prwe127) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe125)  [Next](prwe127.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ which give but a limited duration to this planet.
 
 ------------------------------------------------------------------------
 
-[Next: The Two Breams](prwe127)
+[Next: The Two Breams](prwe127.md)

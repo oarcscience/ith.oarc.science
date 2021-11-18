@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq50)  [Next](sfq52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq50)  [Next](sfq52.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ which he so sorely assailed one of the knights that he bore both
 <span id="img_23100"></span>
 
 [![](tn/23100.jpg)  
-Click to enlarge](img/23100.jpg)
+Click to enlarge](img/23100.jpg.md)
 
 horse and rider to the ground. To avenge his fall one knight after
 another pressed forward, but Triamond vanquished them all, for no one
@@ -131,4 +131,4 @@ So the judgment was deferred to another day.
 
 ------------------------------------------------------------------------
 
-[Next: How Britomart did Battle for the Golden Girdle](sfq52)
+[Next: How Britomart did Battle for the Golden Girdle](sfq52.md)

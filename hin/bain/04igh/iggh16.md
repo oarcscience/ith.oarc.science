@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh15) 
-[Next](iggh17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh15.md) 
+[Next](iggh17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -79,7 +79,7 @@ the twins, that, like arrogant rebels, stand out from thy breast. And
 beyond a doubt, thou and I are but dreaming, and presently we shall
 awake. Kiss me quickly, without losing a moment, while yet there is
 time. And she thought he was mad. But she bent obediently towards him,
-with the *bimbá* <span id="fr_29"></span>[u](#fn_29) of her lower
+with the *bimbá* <span id="fr_29"></span>[u](#fn_29.md) of her lower
 
 <span id="page_57">p. 57</span>
 
@@ -94,9 +94,9 @@ the illusion of our love?
 
 ### Footnotes
 
-<span id="fn_29"></span>[56:u](iggh16.htm#fr_29) A fruit employed by
+<span id="fn_29"></span>[56:u](iggh16.htm#fr_29.md) A fruit employed by
 Hindoo poets as we speak of 'cherry' lips.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. Love the Fisherman](iggh17)
+[Next: XIV. Love the Fisherman](iggh17.md)

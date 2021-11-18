@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb20)  [Next](gyfb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb20)  [Next](gyfb22.md) 
 
 </div>
 
@@ -181,6 +181,6 @@ sparrow escaped out of his mouth and flew away into the air.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Three Sons of Hali](gyfb22)
+[Next: The Story of the Three Sons of Hali](gyfb22.md)
 
 </div>

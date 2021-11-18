@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph04)  [Next](rph06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph04)  [Next](rph06.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ New York, May, 1926.
 ------------------------------------------------------------------------
 
 [Next: Preface to the German Translation of the First French
-Edition](rph06)
+Edition](rph06.md)

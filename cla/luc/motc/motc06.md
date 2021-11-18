@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc05)  [Next](motc07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc05)  [Next](motc07.md) 
 
 ------------------------------------------------------------------------
 
@@ -248,4 +248,4 @@ wig.
 
 ------------------------------------------------------------------------
 
-[Next: The Incantation](motc07)
+[Next: The Incantation](motc07.md)

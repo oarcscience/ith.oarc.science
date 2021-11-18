@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht34)  [Next](cht36) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht34)  [Next](cht36.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ been killed\].
 
 ------------------------------------------------------------------------
 
-[Next: The First Ship Seen by the Clatsop](cht36)
+[Next: The First Ship Seen by the Clatsop](cht36.md)

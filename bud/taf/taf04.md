@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf03)  [Next](taf05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf03)  [Next](taf05.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ Wade, which I think has been adopted more generally than others.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](taf05)
+[Next: Introduction](taf05.md)

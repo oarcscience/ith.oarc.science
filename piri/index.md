@@ -23,7 +23,7 @@ The image of the Piri Rei's map was scanned from the frontpiece of a
 first edition of Hapgood's Maps of the Ancient Sea Kings. It is included
 here for non-profit archival and research purposes only.
 
-[Translation of the map text](pirikey)
+[Translation of the map text](pirikey.md)
 
 ------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ set of 20 maps drawn in the time of Alexander the Great.
 This map and others were analyzed by Charles H. Hapgood and his graduate
 stutents. Hapgood was a historian and geographer at the University of
 New Hampshire, in his book [Maps of the Ancient Sea
-Kings](https://www.amazon.com/exec/obidos/ASIN/0932813429/internetsacredte)
+Kings](https://www.amazon.com/exec/obidos/ASIN/0932813429/internetsacredte.md)
 (1966). Only the conclusions of this book are sensational; for the most
 part it is a technical monograph on the history and geography of the
 anomalous maps, employing spherical trigonometry to associate map
@@ -107,9 +107,9 @@ vindicated (at least his guess as to the signficance of the anomalous
 maps). The Piri Re'is map is one of the cornerstones of the growing body
 of evidence for an unknown Ice Age civilization. Along with this we can
 include the book [Hamlet's
-Mill](https://www.amazon.com/exec/obidos/ASIN/0879232153/internetsacredte),
+Mill](https://www.amazon.com/exec/obidos/ASIN/0879232153/internetsacredte.md),
 by De Santillana and von Dechend (1969), and the works of [Graham
-Hancock](https://www.amazon.com/exec/obidos/external-search?tag=internetsacredte&keyword=Graham%20Hancock).
+Hancock](https://www.amazon.com/exec/obidos/external-search?tag=internetsacredte&keyword=Graham%20Hancock.md).
 
 One striking thing about this map is the level of detail of the coasts
 and interiors in South America. Although the scale is somewhat off, a
@@ -136,7 +136,7 @@ A number of writers have rushed in and attempted to do just this. One
 school of thought about the Piri Re'is map is the 'Atlantis in
 Antarctica' thesis. The chief proponents of this are Rand and Rose
 Flem-Ath in their book [When the Sky
-Fell](https://www.amazon.com/exec/obidos/ASIN/0312964013/internetsacredte),
+Fell](https://www.amazon.com/exec/obidos/ASIN/0312964013/internetsacredte.md),
 though there are others. The Flem-Aths buy into both Hapgoods' Sea Kings
 and Polar shift thesis. In the latter, Hapgood claimed that the
 inclination of the Earth's axis of rotation shifted suddenly in the year
@@ -168,18 +168,18 @@ greatness was his ability to admit his errors.
 In any case, the Flem-Aths propose that this shift destroyed a
 hypothetical Antarctic civilization, located somewhere in the
 present-day Ross penninsula. They attempt (with mixed success) to relate
-this to [Plato's Atlantis](../atl/index). Unfortunately, proving this
+this to [Plato's Atlantis](../atl/index.md). Unfortunately, proving this
 would involve doing archaeology under an ice sheet thousands of meters
 thick. This is an excellent example of 'extraordinary claims require
 extraordinary proof'.
 
 One subconscious influence on this may be fantasy writer [H.P.
-Lovecraft's Cthulhu mythos](../nec/index), which places the abode of the
+Lovecraft's Cthulhu mythos](../nec/index.md), which places the abode of the
 Ancient Gods, R'lyeh, in Antarctica. Lovecraft's mythos is completly
 fictional, even if it has resemblances to actual mythologies.
 
 While features suggestive of advanced geographical knowledge are shown
-in the map itself, the [annotations](pirikey) and illustrations paint a
+in the map itself, the [annotations](pirikey.md) and illustrations paint a
 different picture. Skeptics will note that the Piri Re'is map of the
 Antarctic coast, of which so much has been made, is notated as follows:
 

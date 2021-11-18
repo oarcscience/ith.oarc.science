@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah37)  [Next](oah39) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah37)  [Next](oah39.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ the lands of the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII](oah39)
+[Next: Chapter XXIII](oah39.md)

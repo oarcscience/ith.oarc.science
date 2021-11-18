@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb08)  [Next](pifb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb08)  [Next](pifb10.md) 
 
 </div>
 
@@ -227,6 +227,6 @@ so merry as the one he told about the matches.
 
 ------------------------------------------------------------------------
 
-[Next: The Snow-man](pifb10)
+[Next: The Snow-man](pifb10.md)
 
 </div>

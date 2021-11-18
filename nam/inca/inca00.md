@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Next](inca01) 
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Next](inca01.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ day the two statues may be seen between Calca and Huayllapampa.
 
 ------------------------------------------------------------------------
 
-[Next: Viracocha And The Coming Of The Incas](inca01)
+[Next: Viracocha And The Coming Of The Incas](inca01.md)

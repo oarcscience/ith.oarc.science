@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof17)  [Next](sof19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof17)  [Next](sof19.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head16.png"></span> ![Header Chapter XVI.](img/head16.png)
+<span id="img_head16.png"></span> ![Header Chapter XVI.](img/head16.png.md)
 
 ## XVI.
 
@@ -20,7 +20,7 @@ fact that this covering is figuratively supposed to be "a clouded
 canopy," or the firmament, on which the host of stars is represented,
 will be enough to indicate the continued allusion to the symbolism of
 the world. The lodge, as a representative of the world, is of course
-supposed to have no other roof than the heavens; [82](sof37.htm#xref_82)
+supposed to have no other roof than the heavens; [82](sof37.htm#xref_82.md)
 and it would scarcely be necessary to enter into any discussion on the
 subject, were it not that another symbol--the theological ladder--is so
 intimately connected with it, that the one naturally suggests the other.
@@ -58,7 +58,7 @@ he himself being but a symbol of the sun, and hence we arrive once more
 at the masonic symbolism of the universe and the solar orb.
 
 Dr. Oliver thinks that in the Scandinavian Mysteries he has found the
-mystic ladder in the sacred tree *Ydrasil;* [83](sof37.htm#xref_83) but
+mystic ladder in the sacred tree *Ydrasil;* [83](sof37.htm#xref_83.md) but
 here the reference to the septenary division is so imperfect, or at
 least abstruse, that I am unwilling to press it into our catalogue of
 coincidences, although there is no doubt that we shall find in this
@@ -153,6 +153,6 @@ the Grand Architect of the Universe.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Ritualistic Symbolism](sof19)
+[Next: XVII. Ritualistic Symbolism](sof19.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio58)  [Next](dio60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio58)  [Next](dio60.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -66,12 +66,12 @@ perfecting.
 <span id="iv.iii.i-p5"></span>Section II.
 
 <span id="iv.iii.i-p6"></span>Then what is the Hierarchy of the
-Angels <span id="fr_224"></span>[225](#fn_224) and Archangels, and of
+Angels <span id="fr_224"></span>[225](#fn_224.md) and Archangels, and of
 supermundane Principalities and Authorities, Powers and Lordships, and
 Divine Thrones, or of the Beings of the same ranks as the Thrones--which
 the Word of God declares to <span id="page_69">p. 69</span> <span
 id="iv.iii.i-Page_69"></span>be near, and always about God, and
-with <span id="fr_225"></span>[226](#fn_225) God, naming them in the
+with <span id="fr_225"></span>[226](#fn_225.md) God, naming them in the
 Hebrew tongue Cherubim and Seraphim--by pondering the sacred ranks and
 divisions of their Orders and Hierarchies, you will find in the books we
 have written--not as befits their dignity but to the best of our
@@ -103,7 +103,7 @@ speak truly, there is One, to Whom all the Godlike aspire, but they do
 not partake uniformly of this One and the Same, but as the Divine
 balance distributes to each the meet inheritance. Now these things have
 been treated more systematically in the Treatise concerning
-"Intelligible and Sensible <span id="fr_226"></span>[227](#fn_226) ."
+"Intelligible and Sensible <span id="fr_226"></span>[227](#fn_226.md) ."
 But now I will attempt to describe our Hierarchy, both its source and
 essence, as best I can; invoking Jesus, the source and Perfecting of all
 Hierarchies.
@@ -127,7 +127,7 @@ recognized within himself.
 <span id="iv.iii.i-p10"></span>Head of this Hierarchy is the Fountain of
 Life, the Essence of Goodness, the one Triad, Cause of things that be,
 from Which both being and well-being come to things that be, by reason
-of goodness <span id="fr_227"></span>[228](#fn_227) . Of this most
+of goodness <span id="fr_227"></span>[228](#fn_227.md) . Of this most
 supremely Divine blessedness --exalted beyond all, the threefold Monad,
 the really Being,--the Will, inscrutable to us, but known to Itself, is
 the rational preservation of beings amongst us and above us; but that
@@ -208,19 +208,19 @@ gift to thee, in addition to many other Hierarchical gifts.
 
 ### Footnotes
 
-<span id="fn_224"></span>[68:225](dio59.htm#fr_224) <span
+<span id="fn_224"></span>[68:225](dio59.htm#fr_224.md) <span
 id="iv.iii.i-p6.1"></span>See Epistle to Trallians.
 
-<span id="fn_225"></span>[69:226](dio59.htm#fr_225) <span
+<span id="fn_225"></span>[69:226](dio59.htm#fr_225.md) <span
 id="iv.iii.i-p6.2"></span><span id="iv.iii.i-p6.3"></span>[John i.
-1](../../bib/kjv/joh001.htm#001)<span id="iv.iii.i-p6.3"></span>.
+1](../../bib/kjv/joh001.htm#001.md)<span id="iv.iii.i-p6.3"></span>.
 
-<span id="fn_226"></span>[70:227](dio59.htm#fr_226) <span
+<span id="fn_226"></span>[70:227](dio59.htm#fr_226.md) <span
 id="iv.iii.i-p7.1"></span>Ap. C. viii. 16.
 
-<span id="fn_227"></span>[71:228](dio59.htm#fr_227) <span
+<span id="fn_227"></span>[71:228](dio59.htm#fr_227.md) <span
 id="iv.iii.i-p10.1"></span>Creation through goodness--not necessity.
 
 ------------------------------------------------------------------------
 
-[Next: Caput II.](dio60)
+[Next: Caput II.](dio60.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah84)  [Next](oah86) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah84)  [Next](oah86.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ establishing the love of God in them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](oah86)
+[Next: Chapter II](oah86.md)

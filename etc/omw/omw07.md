@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw06)  [Next](omw08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw06)  [Next](omw08.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ mythology, the making of images, is only one and, perhaps, not the
 greatest factor in religion. Because the Romans were not *ikonists*, it
 does not follow that they were a people less religious than the Greeks.
 The contrary is probably true. A vague something is more awe-inspiring
-than a known something. <span id="fr_12"></span>[13](#fn_12)
+than a known something. <span id="fr_12"></span>[13](#fn_12.md)
 
 Mars the Death-dealer was the central object of Italian worship,
 according to Mommsen, in that epoch when the Italian stock dwelt by
@@ -60,7 +60,7 @@ and there was no bride that led from the lower world either to men
 ruling on earth or upward to the gods above. The hero-worship of the
 Greeks was wholly foreign to the Romans. . . . Numa, the oldest and most
 venerable name in Roman tradition, never received the honours of a god
-in Rome as Theseus did in Athens. <span id="fr_13"></span>[14](#fn_13)
+in Rome as Theseus did in Athens. <span id="fr_13"></span>[14](#fn_13.md)
 
 The stories of Romulus and of Numa are taken from Plutarch's Lives and
 Livy's History where the personages are treated as historical
@@ -70,11 +70,11 @@ characters. The story of Pomona and Vertumnus is taken from Ovid.
 
 ### Footnotes
 
-<span id="fn_12"></span>[xv:13](omw07.htm#fr_12) *Ibid*.
+<span id="fn_12"></span>[xv:13](omw07.htm#fr_12.md) *Ibid*.
 
-<span id="fn_13"></span>[xvi:14](omw07.htm#fr_13) The History of Rome,
+<span id="fn_13"></span>[xvi:14](omw07.htm#fr_13.md) The History of Rome,
 Book I.
 
 ------------------------------------------------------------------------
 
-[Next: Graeco-Roman](omw08)
+[Next: Graeco-Roman](omw08.md)

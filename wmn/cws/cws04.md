@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws03)  [Next](cws05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws03)  [Next](cws05.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: No. I: Concerning The Three Veils Between Man And God](cws05)
+[Next: No. I: Concerning The Three Veils Between Man And God](cws05.md)

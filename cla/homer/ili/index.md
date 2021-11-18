@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE78VC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE78VC/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE78VC/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ili00)    [Text
-\[Zipped\]](ili.txt.gz)
+[Contents](#contents)    [Start Reading](ili00.md)    [Text
+\[Zipped\]](ili.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,28 +45,28 @@ one of the masterpieces of world literature.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ili00)  
-[Book I](ili01)  
-[Book II](ili02)  
-[Book III](ili03)  
-[Book IV](ili04)  
-[Book V](ili05)  
-[Book VI](ili06)  
-[Book VII](ili07)  
-[Book VIII](ili08)  
-[Book IX](ili09)  
-[Book X](ili10)  
-[Book XI](ili11)  
-[Book XII](ili12)  
-[Book XIII](ili13)  
-[Book XIV](ili14)  
-[Book XV](ili15)  
-[Book XVI](ili16)  
-[Book XVII](ili17)  
-[Book XVIII](ili18)  
-[Book XIX](ili19)  
-[Book XX](ili20)  
-[Book XXI](ili21)  
-[Book XXII](ili22)  
-[Book XXIII](ili23)  
-[Book XXIV](ili24)  
+<span id="contents"></span> [Title Page](ili00.md)  
+[Book I](ili01.md)  
+[Book II](ili02.md)  
+[Book III](ili03.md)  
+[Book IV](ili04.md)  
+[Book V](ili05.md)  
+[Book VI](ili06.md)  
+[Book VII](ili07.md)  
+[Book VIII](ili08.md)  
+[Book IX](ili09.md)  
+[Book X](ili10.md)  
+[Book XI](ili11.md)  
+[Book XII](ili12.md)  
+[Book XIII](ili13.md)  
+[Book XIV](ili14.md)  
+[Book XV](ili15.md)  
+[Book XVI](ili16.md)  
+[Book XVII](ili17.md)  
+[Book XVIII](ili18.md)  
+[Book XIX](ili19.md)  
+[Book XX](ili20.md)  
+[Book XXI](ili21.md)  
+[Book XXII](ili22.md)  
+[Book XXIII](ili23.md)  
+[Book XXIV](ili24.md)  

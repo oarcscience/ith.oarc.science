@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah16)  [Next](oah18) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah16)  [Next](oah18.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,7 +124,7 @@ ceased Etisyai said:
 
 24\. My God and My Lords, give now the sign of Jehovih's name that His
 glory may be fulfilled. (For this was the oath of office.) <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 25\. And God and the Lords saluted Jehovih before the hosts of heaven.
 And they stood apart a little distance, and Etisyai said:
@@ -201,9 +201,9 @@ the hosts mingled together, angels and archangels, joyfully.
 
 ### Footnotes
 
-<span id="fn_2"></span>[16:1](oah17.htm#fr_2) The sign is the circle
+<span id="fn_2"></span>[16:1](oah17.htm#fr_2.md) The sign is the circle
 twice cut. For further information see Emethachavah, Book of Saphah.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](oah18)
+[Next: Chapter II](oah18.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](eru09)  [Next](eru11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru09)  [Next](eru11.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -116,9 +116,9 @@ his master resides a Halakha, contained in the scrolls of Fast-days?"
 Abayi replied: R. Joseph decided this question as stated above.
 
 R. Hisda *did* decide legal questions, during the lifetime of R. Huna,
-in Khafri. <span id="fr_40"></span>[1](#fn_40)
+in Khafri. <span id="fr_40"></span>[1](#fn_40.md)
 
-R. Hamnuna <span id="fr_41"></span>[2](#fn_41) decided questions in the
+R. Hamnuna <span id="fr_41"></span>[2](#fn_41.md) decided questions in the
 city of Hartha, which belonged to Argaz in the days when R. Hisda lived.
 (Hartha was not far from Pumbaditha, the residence of R. Hisda.)
 
@@ -143,7 +143,7 @@ Rabha said: "If a slaughtering-knife is brought to a young scholar for
 examination, he may examine it, providing he intends to use some of the
 meat himself."
 
-Rabhina <span id="fr_42"></span>[1](#fn_42) came to the city of Mehuzza
+Rabhina <span id="fr_42"></span>[1](#fn_42.md) came to the city of Mehuzza
 (and stopped at an inn). The inn-keeper brought a slaughtering-knife to
 him for examination, and Rabhina told him to take it to Rabha. Said the
 inn-keeper: "Dost thou not hold with Rabha, that a young scholar may
@@ -365,7 +365,7 @@ judgment.
 
 R. Hyya bar Ashi said in the name of Rabh: "One whose mind is not
 thoroughly at ease must not pray, as it is written: "In his affliction
-shall he not judge." <span id="fr_43"></span>[1](#fn_43)
+shall he not judge." <span id="fr_43"></span>[1](#fn_43.md)
 
 It was the custom of R. Hanina to omit saying his prayers on a day when
 he was in a bad humor, and Mar Uqba would not take his seat on the
@@ -1047,7 +1047,7 @@ entries in order that the growing children should not forget the laws of
 Erub and say, "Our parents did not make an Erub." Such is the decree of
 R. Meir; the sages, however, say: Either an Erub or a combine must be
 effected (*i.e.*, if one was omitted the other can be depended
-upon). <span id="fr_44"></span>[1](#fn_44)
+upon). <span id="fr_44"></span>[1](#fn_44.md)
 
 R. Jehudah in the name of Rabh said: "The Halakha prevails
 
@@ -1055,7 +1055,7 @@ R. Jehudah in the name of Rabh said: "The Halakha prevails
 
 according to R. Meir." R. Huna said: "The custom prevails according to
 R. Meir," and R. Johanan said: "The masses only act in accordance with
-the dictum of R. Meir." <span id="fr_45"></span>[1](#fn_45)
+the dictum of R. Meir." <span id="fr_45"></span>[1](#fn_45.md)
 
 MISHNA: Should five different companies take their Sabbath-rest in one
 hall (triclinium), Beth Shammai hold, that each company requires a
@@ -1121,7 +1121,7 @@ cattle-pen, a woodshed, or a granary in the court of another and did not
 join in an Erub, he does impede the others. R. Jehudah, however, said:
 "Nothing except a dwelling-house can prove an interference," and he
 continued: "It happened that an inhabitant of Naph'ha, <span
-id="fr_46"></span>[1](#fn_46) who had five courts in Usha, did not join
+id="fr_46"></span>[1](#fn_46.md) who had five courts in Usha, did not join
 in an Erub with the inmates of those courts and the question was laid
 before the sages whether this was an impediment to their carrying within
 the courts and the sages replied: 'Nothing but an actual dwelling-house
@@ -1481,19 +1481,19 @@ combine in the Erub of the courts.
 
 ### Footnotes
 
-<span id="fn_40"></span>[147:1](eru10.htm#fr_40) Rashi states, that
+<span id="fn_40"></span>[147:1](eru10.htm#fr_40.md) Rashi states, that
 Khafri was a town near Pumbaditha, but in our opinion Khafri is the
 plural of Khfar--Hebrew for village--and it seems that R. Hisda decided
 legal questions in the villages where the inhabitants could not reach R.
 Huna (Tosphath).
 
-<span id="fn_41"></span>[147:2](eru10.htm#fr_41) This R. Hamnuna is not
+<span id="fn_41"></span>[147:2](eru10.htm#fr_41.md) This R. Hamnuna is not
 to be confounded with the disciple of Rabh previously mentioned.
 
-<span id="fn_42"></span>[148:1](eru10.htm#fr_42) This Rabhina is also
+<span id="fn_42"></span>[148:1](eru10.htm#fr_42.md) This Rabhina is also
 not to be confounded with the Rabhina previously mentioned.
 
-<span id="fn_43"></span>[153:1](eru10.htm#fr_43) This verse is not to be
+<span id="fn_43"></span>[153:1](eru10.htm#fr_43.md) This verse is not to be
 found in the entire Bible. Rashi, however, says that it may be found in
 the part of the Apocrypha called Ben Sira, but to our knowledge it
 cannot be found even there. Tosphath says, that a number of verses cited
@@ -1502,16 +1502,16 @@ be found anywhere in the Scriptures or in the Apocrypha. Concerning the
 above verse, Tosphath states, that it should read as quoted in Job.
 xxxvi. 19.
 
-<span id="fn_44"></span>[168:1](eru10.htm#fr_44) The explanation to this
+<span id="fn_44"></span>[168:1](eru10.htm#fr_44.md) The explanation to this
 Boraitha, as given by Rashi, will be embodied in the text throughout
 this Tract.
 
-<span id="fn_45"></span>[169:1](eru10.htm#fr_45) See pages
-[146](#page_146) and [147](#page_147).
+<span id="fn_45"></span>[169:1](eru10.htm#fr_45.md) See pages
+[146](#page_146) and [147](#page_147.md).
 
-<span id="fn_46"></span>[170:1](eru10.htm#fr_46) In the Tosephta this
+<span id="fn_46"></span>[170:1](eru10.htm#fr_46.md) In the Tosephta this
 narrative is told of the son of a prince.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Erubin in Courts and Alleys](eru11)
+[Next: Chapter VII: Erubin in Courts and Alleys](eru11.md)

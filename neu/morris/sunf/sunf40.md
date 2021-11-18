@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf39)  [Next](sunf41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf39)  [Next](sunf41.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -53,6 +53,6 @@ Therewith they parted, and Osberne looked not back again.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIX. Osberne Gets Him a New Master](sunf41)
+[Next: Chapter XXXIX. Osberne Gets Him a New Master](sunf41.md)
 
 </div>

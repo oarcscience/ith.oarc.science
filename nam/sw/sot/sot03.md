@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](sot02)  [Next](sot04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](sot02)  [Next](sot04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of the Tewa*, by Herbert Joseph Spinden, \[1933\], at Intangible
 Textual Heritage
 
@@ -108,7 +108,7 @@ modifier, who may deal out rewards as well as punishments.
 
 The Yokuts Indian of California, after appealing to seven vague deities
 whom he names in order, ends with the request that he may fit into a
-universal scheme <span id="fr_0"></span>[1](sot56.htm#fn_0).
+universal scheme <span id="fr_0"></span>[1](sot56.htm#fn_0.md).
 
 <div style="margin-left: 32px">
 
@@ -138,7 +138,7 @@ Out on the Great Plains the mystery which pervades the universe is
 called Wakonda by several Siouan tribes. The quest of Wakonda by the man
 who would know things "that are fit to serve as symbols" is thus
 described in the Osage Rite of the Chiefs <span
-id="fr_1"></span>[2](sot56.htm#fn_1):
+id="fr_1"></span>[2](sot56.htm#fn_1.md):
 
 <div style="margin-left: 32px">
 
@@ -154,7 +154,7 @@ And Wakonda made him close his eyes in sleep.</span>
 
 From the Osage informant who gave Francis La Flesche the important
 rituals of this tribe comes an explanation of Wakonda <span
-id="fr_2"></span>[3](sot56.htm#fn_2). It was the ancients who devised
+id="fr_2"></span>[3](sot56.htm#fn_2.md). It was the ancients who devised
 the ritualistic songs, the ceremonial forms and symbols out of their
 insight into natural mysteries, arising from their power to search with
 the mind. They noted the -mysteries of the light of day by which the
@@ -201,7 +201,7 @@ poet of ancient Mexico also realized the ethical implications of this
 reduction in his emphasis on just deeds as the proper worship to be
 offered to an eternal principle. In a poem intended to be sung in his
 presence we find these verses <span
-id="fr_3"></span>[4](sot56.htm#fn_3):
+id="fr_3"></span>[4](sot56.htm#fn_3.md):
 
 <span id="page_10">p. 10</span>
 
@@ -222,7 +222,7 @@ place appointed by the Supreme Lord of All, who governs all things.
 A most splendid Thanatopsis, attributed to Nezahualcoyotl, comes to us
 through an Otomi transcription, offering internal evidence of its pagan
 origin. I quote the English rendering of Brinton <span
-id="fr_4"></span>[5](sot56.htm#fn_4). While faltering here and there in
+id="fr_4"></span>[5](sot56.htm#fn_4.md). While faltering here and there in
 exact phrasing, nevertheless the early American-ist caught the vast
 scope of this poem. It expresses, as he says, an epicurean philosophy
 but one permeated by ethical obligations.
@@ -312,7 +312,7 @@ which are ascribed to the kings of the Incas by one Joan de Santa Cruz
 Pachacuti Yamqui Salcamaygua who wrote shortly after 1600. The hymn to
 Viracocha, a master deity and creator god of Peru, is an oft-quoted
 fragment of American Indian literature <span
-id="fr_5"></span>[6](sot56.htm#fn_5).
+id="fr_5"></span>[6](sot56.htm#fn_5.md).
 
 <div style="margin-left: 32px">
 
@@ -367,7 +367,7 @@ wonder, who learned to question the world, who learned to question
 himself. Through the length and breadth of ancient America we discover
 this primitive inquisitiveness and even in the songs of our Indians of
 today. Here is one from the Pawnee <span
-id="fr_6"></span>[7](sot56.htm#fn_6):
+id="fr_6"></span>[7](sot56.htm#fn_6.md):
 
 <div style="margin-left: 32px">
 
@@ -385,7 +385,7 @@ This life I am living.</span>
 ##### THE PLACE OF INDIAN POETRY IN THE ARTS
 
 "<span class="smallcaps">All poetry</span>," says Grosse <span
-id="fr_7"></span>[8](sot56.htm#fn_7), "comes from feeling and goes to
+id="fr_7"></span>[8](sot56.htm#fn_7.md), "comes from feeling and goes to
 feeling, and therein lies the mystery of its creation and influence."
 This writer of forty years ago did not have much truly primitive poetry
 before him nor did he have much sensitive knowledge of the uses to which
@@ -440,12 +440,12 @@ and throughout the New World drums of one kind or another are in use. In
 ancient Mexico the two-lipped log drum had a double pitch and was
 capable of producing a wide variety of sound patterns through
 manipulation of the double tones in light and heavy strokes and changing
-tempo <span id="fr_8"></span>[9](sot56.htm#fn_8). We must imagine that
+tempo <span id="fr_8"></span>[9](sot56.htm#fn_8.md). We must imagine that
 melodic measures coincided with these drum beats and furnished a still
 more intricate lay-out into which it was the poet's job to fit
 intelligible words. The drum rhythms are indicated imitatively for a
 considerable number of old Mexican songs and their variety may be
-guessed from three examples <span id="fr_9"></span>[10](sot56.htm#fn_9).
+guessed from three examples <span id="fr_9"></span>[10](sot56.htm#fn_9.md).
 While the iambic meter goes especially well with the Aztec language,
 other meters were also employed: else how can the following onomatopoeia
 of drum strokes be explained?
@@ -482,7 +482,7 @@ expressions until a standard of poetic phrasing becomes fixed.
 The common use of extra, meaningless syllables to dilute the
 intelligible parts of speech is illustrated in a Mide song of the Ojibwa
 analyzed by Miss Densmore. The words are <span
-id="fr_10"></span>[11](sot56.htm#fn_10):
+id="fr_10"></span>[11](sot56.htm#fn_10.md):
 
 <div style="margin-left: 32px">
 
@@ -526,7 +526,7 @@ unmodified state cannot be proven
 for European ballads. Yet there is a common belief that the songs and
 ceremonies of lowly cultured peoples are maintained from ancient times.
 "The Amazonian," says Thomas Whiffen <span
-id="fr_11"></span>[12](sot56.htm#fn_11), "treasures the songs of his
+id="fr_11"></span>[12](sot56.htm#fn_11.md), "treasures the songs of his
 fathers and will master strange rhythms and words that for him no longer
 have meaning; he only knows they are the correct lines, the phrases he
 ought to sing at such functions, because they have always been sung."
@@ -574,7 +574,7 @@ tutor, perhaps as preventive magic. There are a few exceptions. A widow
 whose dead husband had entered into his brother's son saw in this male
 child her future provider, and addressed him with a song more befitting
 our idea of what a lullaby should be. I quote the first of three similar
-verses <span id="fr_12"></span>[13](sot56.htm#fn_12):
+verses <span id="fr_12"></span>[13](sot56.htm#fn_12.md):
 
 <div style="margin-left: 32px">
 
@@ -587,7 +587,7 @@ How amazing he is, the dear little creature!</span>
 
 Among the Tlingit of southern Alaska and the Haida of Queen Charlotte
 Island are found reincarnation lullabies of dignified phrasing which
-Swanton has translated <span id="fr_13"></span>[14](sot56.htm#fn_13).
+Swanton has translated <span id="fr_13"></span>[14](sot56.htm#fn_13.md).
 One such song apologizes for the mean life of the present as compared
 with the exalted past; it is addressed to an old woman whose spiritual
 personality continues its existence in a baby girl.
@@ -643,7 +643,7 @@ to the understanding of little boys and girls. For instance the
 Ammassalik Eskimo have a myth for children which tells how a raven
 teased the geese and how the geese in revenge enticed the raven far out
 over the sea. When they settled on the water, he was unable to swim. A
-song describes his fate <span id="fr_14"></span>[15](sot56.htm#fn_14):
+song describes his fate <span id="fr_14"></span>[15](sot56.htm#fn_14.md):
 
 <div style="margin-left: 32px">
 
@@ -651,7 +651,7 @@ song describes his fate <span id="fr_14"></span>[15](sot56.htm#fn_14):
 Now the water reaches my great ankles,  
 Hallow, I sink, help me up,  
 Ugh! Now it reaches my great knees.  
-Hallow, I sink, help me up, [Ugh](errata.htm#0)!  
+Hallow, I sink, help me up, [Ugh](errata.htm#0.md)!  
 Now it reaches my great groins  
 Hallow, I sink, help me up, Ugh!  
 Now it reaches my great navel  
@@ -672,7 +672,7 @@ in the education of children
 emphasize the magical factor. A selection of songs for children from the
 village of Picuris in New Mexico has been published by John P.
 Harrington and Helen Roberts <span
-id="fr_15"></span>[16](sot56.htm#fn_15). A story tells how a
+id="fr_15"></span>[16](sot56.htm#fn_15.md). A story tells how a
 child-stealing giant is overcome by a youth's magical songs. The boy's
 first song sung while he is being carried away in a basket, ends with
 the phrase:
@@ -776,7 +776,7 @@ to express themselves in an opposite fashion from normal people. Lone
 Man of this tribe put on record the details of his vision and the four
 songs given him by the Thunder-bird people who appeared as horsemen in
 the clouds. The last one can be arranged as follows <span
-id="fr_16"></span>[17](sot56.htm#fn_16):
+id="fr_16"></span>[17](sot56.htm#fn_16.md):
 
 <div style="margin-left: 32px">
 
@@ -792,7 +792,7 @@ sacred I have been made.</span>
 </div>
 
 A Thunder-bird song of the Ojibwa seems to depart still farther from the
-realities of earth <span id="fr_17"></span>[18](sot56.htm#fn_17):
+realities of earth <span id="fr_17"></span>[18](sot56.htm#fn_17.md):
 
 <div style="margin-left: 32px">
 
@@ -806,7 +806,7 @@ while I am carried by the wind across the sky.</span>
 Thunder-bird songs were also developed in connection with the Ghost
 Dance Religion which I discuss in another place. Such a piece from the
 Arapaho has always had for me a strong appeal <span
-id="fr_18"></span>[19](sot56.htm#fn_18):
+id="fr_18"></span>[19](sot56.htm#fn_18.md):
 
 <div style="margin-left: 32px">
 
@@ -832,7 +832,7 @@ Believing in the spirituality of plants, animals and even stones it is
 not surprising that the Indians found ways to make special appeals to
 the personalities in nature who exemplified special faculties and who
 might be induced to tutor man. Thus the Eskimo hunter sings <span
-id="fr_19"></span>[20](sot56.htm#fn_19):
+id="fr_19"></span>[20](sot56.htm#fn_19.md):
 
 <div style="margin-left: 32px">
 
@@ -847,7 +847,7 @@ This song is not to be construed as a boast but as a petition. It seems
 that mere statement when made in the form of a song is compulsive.
 Indeed, "to sing" often means "to make magic," and back of it all lies
 the idea that the song has been ordained. The Pima put the matter
-thus <span id="fr_20"></span>[21](sot56.htm#fn_20):
+thus <span id="fr_20"></span>[21](sot56.htm#fn_20.md):
 
 <div style="margin-left: 32px">
 
@@ -867,7 +867,7 @@ which descriptive words in a musical setting are held to be as potent as
 painted symbols in other circumstances. A myth of the Pawnee tells how a
 boy recovered a stolen robe bearing symbols of the storm, invoking the
 storm itself to destroy the thief. I quote a portion of this myth <span
-id="fr_21"></span>[22](sot56.htm#fn_21).
+id="fr_21"></span>[22](sot56.htm#fn_21.md).
 
 <div style="margin-left: 32px">
 
@@ -996,7 +996,7 @@ we should ask whether this is not a purposeful appreciation of the
 friendly aspects of nature in keeping with the Redman's philosophy that
 to imitate the way in which good is done is to insure the repetition of
 that good. For instance, take a Papago song recorded by Frances
-Densmore <span id="fr_22"></span>[23](sot56.htm#fn_22):
+Densmore <span id="fr_22"></span>[23](sot56.htm#fn_22.md):
 
 <div style="margin-left: 32px">
 
@@ -1054,7 +1054,7 @@ It is difficult to say at what point beauty is recognized for itself
 alone, as a purely sensuous gratification. Of course, it is often
 possible to construe an Indian poem as a mere lyrical outburst. For
 instance, there is this one <span
-id="fr_23"></span>[24](sot56.htm#fn_23):
+id="fr_23"></span>[24](sot56.htm#fn_23.md):
 
 <div style="margin-left: 32px">
 
@@ -1077,7 +1077,7 @@ of this expansion. I quote the first and last passages in the *wi-gi-e*
 or introduction to the ceremony of incensing the seven sacred skins in
 the Rite of the Wa-xo-be. The lynx, the gray wolf, the puma, the black
 bear, the buffalo, the elk and finally the deer are set forth as symbols
-of courage <span id="fr_24"></span>[25](sot56.htm#fn_24).
+of courage <span id="fr_24"></span>[25](sot56.htm#fn_24.md).
 
 <div style="margin-left: 32px">
 
@@ -1151,7 +1151,7 @@ Under the inspiration of religion, albeit pagan, the makers of
 ceremonies, as Emerson says, "built better than they knew." One finds
 passages of great beauty in the rituals of the Redman. In the Osage Rite
 of the Chiefs there are descriptive touches such as the following <span
-id="fr_25"></span>[26](sot56.htm#fn_25):
+id="fr_25"></span>[26](sot56.htm#fn_25.md):
 
 <div style="margin-left: 32px">
 
@@ -1183,7 +1183,7 @@ influence continues well down the Pacific coast.
 Something of the yearning to excel in this strange practise is expressed
 in the following verses which tell how a man on shore sees a stranger on
 the sea and desires him as a drum-contest opponent <span
-id="fr_26"></span>[27](sot56.htm#fn_26).
+id="fr_26"></span>[27](sot56.htm#fn_26.md).
 
 <span id="page_30">p. 30</span>
 
@@ -1207,7 +1207,7 @@ An old pair of juridical songs concerns antagonists by the names of
 Pulangit-Sissok and Savdlat, who rail at each other in the approved
 fashion. The text was collected by Rink in the late ’60's but the first
 half of the dialogue was recovered by Thalbitzer some 80 years later in
-a somewhat softened form <span id="fr_27"></span>[28](sot56.htm#fn_27).
+a somewhat softened form <span id="fr_27"></span>[28](sot56.htm#fn_27.md).
 
 <div style="margin-left: 32px">
 
@@ -1244,7 +1244,7 @@ The drum contest songs were used by both men and
 women and the next example shows one woman paying her respects to
 another. It seems that the "poor Saatina" could not sing but was
 efficient enough at playing the tom-boy <span
-id="fr_28"></span>[29](sot56.htm#fn_28).
+id="fr_28"></span>[29](sot56.htm#fn_28.md).
 
 <div style="margin-left: 32px">
 
@@ -1266,7 +1266,7 @@ moods. Also the Eskimo lack the intensively developed ceremonialism of
 American Indians in general, although possessing its rudiments, and they
 live close to hard realities. Take for instance the following piece
 which exhibits a quality of subjective insight rarely met with in
-primitive poetry <span id="fr_29"></span>[30](sot56.htm#fn_29).
+primitive poetry <span id="fr_29"></span>[30](sot56.htm#fn_29.md).
 
 <div style="margin-left: 32px">
 
@@ -1288,7 +1288,7 @@ While I was picking berries on the fell.
 A much quoted poem exhibits a love of natural beauty apparently for
 itself alone. But there may have been in the author's mind an ulterior
 thought concerning seasonable weather <span
-id="fr_30"></span>[31](sot56.htm#fn_30).
+id="fr_30"></span>[31](sot56.htm#fn_30.md).
 
 <span id="page_32">p. 32</span>
 
@@ -1329,7 +1329,7 @@ of tender passion.
 
 The following piece is translated from the Kwakiutl by Franz Boas and is
 entitled a love song. It was sung by a jilted man <span
-id="fr_31"></span>[32](sot56.htm#fn_31).
+id="fr_31"></span>[32](sot56.htm#fn_31.md).
 
 <div style="margin-left: 32px">
 
@@ -1358,7 +1358,7 @@ hunt for seals. Her plaint brings a rejoinder from the man that he is
 returning post haste. Then there is a third song by him showing him
 dismissed for all his pains. I give part of the song of Menmenlequelas
 after Tsak Edek deserts him <span
-id="fr_32"></span>[33](sot56.htm#fn_32).
+id="fr_32"></span>[33](sot56.htm#fn_32.md).
 
 <div style="margin-left: 32px">
 
@@ -1400,7 +1400,7 @@ Among the Ojibwa are found songs which can hardly be called love songs
 in the ordinary sense since they are magical formulae with a practical
 rather than a sentimental value. Frances Densmore gives four examples to
 be used against the males, each song having its mnemonic picture on
-birch bark <span id="fr_33"></span>[34](sot56.htm#fn_33).
+birch bark <span id="fr_33"></span>[34](sot56.htm#fn_33.md).
 
 I
 
@@ -1453,7 +1453,7 @@ characterizes the
 songs of the scalp dance although this similarity may be fortuitous.
 Some of them are known to be old and may be sung with slight changes by
 either men or women. Here is a good example <span
-id="fr_34"></span>[35](sot56.htm#fn_34):
+id="fr_34"></span>[35](sot56.htm#fn_34.md):
 
 <div style="margin-left: 32px">
 
@@ -1466,7 +1466,7 @@ When I think of him.</span>
 
 Schoolcroft gives us an Ojibwa love song of a hundred years ago, which
 whether strictly aboriginal or not, does have the iterative Indian
-style <span id="fr_35"></span>[36](sot56.htm#fn_35).
+style <span id="fr_35"></span>[36](sot56.htm#fn_35.md).
 
 <div style="margin-left: 32px">
 
@@ -1505,7 +1505,7 @@ rare for in several journeys to eastern Nicaragua I could not secure a
 single example.
 
 A fine piece, with original text and translation, is found in Charles
-Napier Bell's *Tangweera* <span id="fr_36"></span>[37](sot56.htm#fn_36).
+Napier Bell's *Tangweera* <span id="fr_36"></span>[37](sot56.htm#fn_36.md).
 He explains that "the young men and women are melancholy, and it is
 singular that all their music is melancholy. Cheerful music is quite
 beyond them. Their love songs are plaintive and sad, always the same
@@ -1564,7 +1564,7 @@ which are clearly love charms. One is addressed to Ruda who figures in
 the myths of the Tupi as a warrior residing in the clouds. He creates an
 amorous melancholy in the hearts of men, making them return home from
 long canoe trips. The song is translatable about as follows <span
-id="fr_37"></span>[38](sot56.htm#fn_37):
+id="fr_37"></span>[38](sot56.htm#fn_37.md):
 
 <div style="margin-left: 32px">
 
@@ -1615,7 +1615,7 @@ love songs. The latter are, or should be, a private matter between two
 lovers while the former are a family or clan matter which often touches
 the entire community. The theme of communal loss is struck in the
 beginning lines of a Tlingit dirge <span
-id="fr_38"></span>[39](sot56.htm#fn_38):
+id="fr_38"></span>[39](sot56.htm#fn_38.md):
 
 <div style="margin-left: 32px">
 
@@ -1625,7 +1625,7 @@ My uncle is already dead . . .</span>
 </div>
 
 Another one, following Swanton's text, deals with the all-encompassing
-mystery <span id="fr_39"></span>[40](sot56.htm#fn_39):
+mystery <span id="fr_39"></span>[40](sot56.htm#fn_39.md):
 
 <div style="margin-left: 32px">
 
@@ -1641,7 +1641,7 @@ The spirits threw my uncle.</span>
 
 More poignant and less philosophical are the ending lines of a woman's
 song about her drowned brother <span
-id="fr_40"></span>[41](sot56.htm#fn_40):
+id="fr_40"></span>[41](sot56.htm#fn_40.md):
 
 <div style="margin-left: 32px">
 
@@ -1653,7 +1653,7 @@ So that I can never see him again.</span>
 I quote a mourning song of the Kwakiutl relating to a certain Moda’ena,
 member of the Cannibal Society, who was drowned with his sister. It was
 sung at his house by all the people of his village <span
-id="fr_41"></span>[42](sot56.htm#fn_41).
+id="fr_41"></span>[42](sot56.htm#fn_41.md).
 
 <div style="margin-left: 32px">
 
@@ -1672,7 +1672,7 @@ on the water.
 
 From the icy shores of Greenland comes an Eskimo song, translated by
 Thalbitzer, which voices the pretense that death is a new thing and not
-so bad at that <span id="fr_42"></span>[43](sot56.htm#fn_42).
+so bad at that <span id="fr_42"></span>[43](sot56.htm#fn_42.md).
 
 <div style="margin-left: 32px">
 
@@ -1696,7 +1696,7 @@ dead person returned to deliver his vital message. Some of the most
 striking songs seem to picture the last thoughts or, more daringly
 still, the flight of the soul. I give several examples in the fine
 renderings of Frances Densmore <span
-id="fr_43"></span>[44](sot56.htm#fn_43)
+id="fr_43"></span>[44](sot56.htm#fn_43.md)
 
 <div style="margin-left: 32px">
 
@@ -1728,7 +1728,7 @@ Washington Matthews gives some of the songs used in connection with the
 moccasin game of the Navaho, played at night in the winter time. There
 are many animal songs, mostly derisive in character, the following
 ground squirrel song being typical <span
-id="fr_44"></span>[45](sot56.htm#fn_44)
+id="fr_44"></span>[45](sot56.htm#fn_44.md)
 
 <div style="margin-left: 32px">
 
@@ -1741,7 +1741,7 @@ Slender, he stands up there; striped he stands up there.</span>
 <span id="page_41">p. 41</span>
 
 The playing is terminated at the first streak of day when the magpie
-song is sung <span id="fr_45"></span>[46](sot56.htm#fn_45).
+song is sung <span id="fr_45"></span>[46](sot56.htm#fn_45.md).
 
 <div style="margin-left: 32px">
 
@@ -1765,7 +1765,7 @@ Plains and into some parts of California but without the same richness
 of detail as in the place of origin. The Mountain Chant of the Navaho
 has thirteen sets comprising 161 songs, the greatest number in a
 sequence being 26 and the lowest seven. Says Washington Matthews <span
-id="fr_46"></span>[47](sot56.htm#fn_46):
+id="fr_46"></span>[47](sot56.htm#fn_46.md):
 
 But how does the shaman remember the order of these songs of sequence?
 Does he possess any mnemonic key? He does. There is a myth for each set
@@ -1780,7 +1780,7 @@ or giving interest to the songs.
 
 I give an example from the myth of the Mountain Chant of the Navahos to
 show the relation of prose and poetry <span
-id="fr_47"></span>[48](sot56.htm#fn_47):
+id="fr_47"></span>[48](sot56.htm#fn_47.md):
 
 <span id="page_42">p. 42</span>
 
@@ -1810,7 +1810,7 @@ My mind wanders across it.
 
 The First and Twelfth Song of the Thunder in the Mountain Chant are
 translated by Matthews as follows <span
-id="fr_48"></span>[49](sot56.htm#fn_48). They show an artful use of
+id="fr_48"></span>[49](sot56.htm#fn_48.md). They show an artful use of
 repetitions and parallel constructions.
 
 *First Song of the Thunder*
@@ -1874,7 +1874,7 @@ of the songs of sequence in a great curing ceremony of the Navaho. Here
 there are twenty four sequences with a total of 324 songs, strung like
 beads upon strings. Again we find the parallel constructions which seem
 to produce stanzas, as in the Last Song in the Rock <span
-id="fr_49"></span>[50](sot56.htm#fn_49).
+id="fr_49"></span>[50](sot56.htm#fn_49.md).
 
 I
 
@@ -1903,7 +1903,7 @@ Greatly multiplying grows.</span>
 </div>
 
 Next we have a song to Nayenezgani in two stanzas <span
-id="fr_50"></span>[51](sot56.htm#fn_50).
+id="fr_50"></span>[51](sot56.htm#fn_50.md).
 
 I
 
@@ -1957,7 +1957,7 @@ II
 <div style="margin-left: 32px">
 
 <span class="small">I am the Child of the Water.  
-[Where’er](errata.htm#1) I roam,  
+[Where’er](errata.htm#1.md) I roam,  
 Behind me  
 Waters white are strewn around,  
 The tempest scatters;  
@@ -1966,7 +1966,7 @@ But ’tis I who cause it.</span>
 </div>
 
 While a third concerns the bluebird <span
-id="fr_51"></span>[52](sot56.htm#fn_51):
+id="fr_51"></span>[52](sot56.htm#fn_51.md):
 
 I
 
@@ -2006,7 +2006,7 @@ satisfactory evidence exists at the present time. F.P. and A.P. Penard
 report from Surinam that the Caribs have songs which are the *aula* or
 "word" of various spiritual beings. These may well belong in such a
 category. The word of the Snake Spirit they give in parts <span
-id="fr_52"></span>[53](sot56.htm#fn_52):
+id="fr_52"></span>[53](sot56.htm#fn_52.md):
 
 <div style="margin-left: 32px">
 
@@ -2062,7 +2062,7 @@ that of Tävibo.
 
 The Indian office took notice of Smohalla in 1870, although the
 following clear statement of his beliefs is not so early <span
-id="fr_53"></span>[54](sot56.htm#fn_53):
+id="fr_53"></span>[54](sot56.htm#fn_53.md):
 
 <div style="margin-left: 32px">
 
@@ -2081,7 +2081,7 @@ Plains in 1890 but along the Columbia it was always referred to as the
 Dreamer Religion. The credo from the lips of Smohalla himself was taken
 down in 1884 by Major MacMurray who had been commissioned to persuade
 the Indians to take up homesteads and abandon their free life <span
-id="fr_54"></span>[55](sot56.htm#fn_54).
+id="fr_54"></span>[55](sot56.htm#fn_54.md).
 
 <span id="page_47">p. 47</span>
 
@@ -2128,7 +2128,7 @@ cult into California in the early ‘70's gave immunity against its
 second spread in the late ‘80's then the following piece from the Yokuts
 may be old, although I suspect it really belongs to the second epoch.
 The song was received in a dream by a shaman named Mayemai from his
-father <span id="fr_55"></span>[56](sot56.htm#fn_55):
+father <span id="fr_55"></span>[56](sot56.htm#fn_55.md):
 
 <div style="margin-left: 32px">
 
@@ -2175,7 +2175,7 @@ there are repetitions, however, which enlarge this briefest length. The
 first song refers to the open dance place in the dead of winter with the
 stars overhead. The Milky Way among American Indian tribes is the Spirit
 Road or the Pathway of Dead Warriors <span
-id="fr_56"></span>[57](sot56.htm#fn_56).
+id="fr_56"></span>[57](sot56.htm#fn_56.md).
 
 <div style="margin-left: 32px">
 
@@ -2260,7 +2260,7 @@ following
 
 song tells how the father will withdraw his favors from the whites and
 give them again to his red children <span
-id="fr_57"></span>[58](sot56.htm#fn_57).
+id="fr_57"></span>[58](sot56.htm#fn_57.md).
 
 <div style="margin-left: 32px">
 
@@ -2329,7 +2329,7 @@ while its legal form was evolved in council and over much opposition.
 The Book of Rites, composed long after the events, is essentially a
 recitation broken by occasional hymns and dirges. Perhaps the most
 notable is a summary which in poetic form is arranged as follows by
-Hale <span id="fr_58"></span>[59](sot56.htm#fn_58):
+Hale <span id="fr_58"></span>[59](sot56.htm#fn_58.md):
 
 <div style="margin-left: 32px">
 
@@ -2356,7 +2356,7 @@ Thus we are become miserable.</span>
 
 Probably the oldest fragments of New World literature are laments for
 the great Toltec captains of the twelfth and thirteenth centuries <span
-id="fr_59"></span>[60](sot56.htm#fn_59). The best preserved hymn refers
+id="fr_59"></span>[60](sot56.htm#fn_59.md). The best preserved hymn refers
 to the rise of the Toltec power in Yucatan and its fall in the valley of
 Mexico, corresponding to the winning of the Maya city of Chichen Itza by
 Nacxitl-Quetzalcoatl
@@ -2422,7 +2422,7 @@ covering events from 1556 to 1575 belongs to the era of persecution
 under the Spanish Inquisition. History furnishes few more telling
 indictments directed at their conquerors by a conquered people than this
 outcry of the disillusioned Mayas. I make three slight changes in Roys’
-translation <span id="fr_60"></span>[61](sot56.htm#fn_60) of the latter
+translation <span id="fr_60"></span>[61](sot56.htm#fn_60.md) of the latter
 part of this prophesy although aware that more extensive re-phrasing
 would emphasize the poetic character of the satirical statement.
 
@@ -2450,7 +2450,7 @@ overcoming natural and supernatural difficulties. Most of this tribal
 narrative displays a poetic imagery and some of it a distinctly poetic
 form. If this be history then it is history in a cosmogonic setting with
 heroes who bulk large in a twilight of the gods. An early passage is
-about as follows <span id="fr_61"></span>[62](sot56.htm#fn_61):
+about as follows <span id="fr_61"></span>[62](sot56.htm#fn_61.md):
 
 <span id="page_55">p. 55</span>
 
@@ -2486,7 +2486,7 @@ be sure that it is not a pagan parallel.
 The self-glorification motive is put to scorn in a passage of the Popul
 Vuh which relates the unkingly end of a certain Vukub-Cakix. He was
 perhaps a Toltec overlord who hoped to lead the Quiché to the light in a
-cultural sense <span id="fr_62"></span>[63](sot56.htm#fn_62)
+cultural sense <span id="fr_62"></span>[63](sot56.htm#fn_62.md)
 
 <div style="margin-left: 32px">
 
@@ -2518,7 +2518,7 @@ models have been reported in Central America while from eighteenth
 century Peru comes the famous drama of Ollanta. It shows no traces of
 pre-Spanish poetic style and seems to have been modelled directly upon a
 mediocre European work. While agreeing with Hills <span
-id="fr_63"></span>[64](sot56.htm#fn_63) that it has little intrinsic
+id="fr_63"></span>[64](sot56.htm#fn_63.md) that it has little intrinsic
 merit, I certainly cannot agree with him when he says "Ollanta is the
 most important literary work that has been composed in any language
 indigenous to America." Rather its European reception was a reflection
@@ -2560,7 +2560,7 @@ which principally concerns the translator.
 
 Indeed, it is difficult enough even to define style in any particular
 language. Speaking of the esthetic character of Mohave myths Kroeber
-says in one place <span id="fr_64"></span>[65](sot56.htm#fn_64):
+says in one place <span id="fr_64"></span>[65](sot56.htm#fn_64.md):
 
 <div style="margin-left: 32px">
 
@@ -2572,7 +2572,7 @@ splendor, that have meaning, not the action told by its figures.</span>
 </div>
 
 In another place the same writer speaks more broadly <span
-id="fr_65"></span>[66](sot56.htm#fn_65):
+id="fr_65"></span>[66](sot56.htm#fn_65.md):
 
 <div style="margin-left: 32px">
 
@@ -2617,7 +2617,7 @@ the Osage ritualist threads the labyrinth
 
 of apparent fact to reach ultimate truth in the Little House of Mystery
 in the following parallels <span
-id="fr_66"></span>[67](sot56.htm#fn_66):
+id="fr_66"></span>[67](sot56.htm#fn_66.md):
 
 <div style="margin-left: 32px">
 
@@ -2642,7 +2642,7 @@ develops artistically out of what survives with least mutilation from
 the bed of Procrustes. While rhythm might conceivably arise as an
 absolute esthetic invention, actually in American poetry it is induced
 by drummings and other pulsations. "The rhythmic sense of primitive
-people," says Franz Boas <span id="fr_67"></span>[68](sot56.htm#fn_67),
+people," says Franz Boas <span id="fr_67"></span>[68](sot56.htm#fn_67.md),
 "is much more highly developed than our own." He adds: "It requires
 careful study to understand the structure of primitive rhythm, more so
 in prose than in song because in this case the help of the melodic
@@ -2672,7 +2672,7 @@ foreign god who acquired a wide vogue among Mexican tribes. His ritual
 challenged all others in the sheer achievement of grewsomeness. But
 except for the opening passage the hymn addressed to this god deals with
 returning springtime and the green of corn fields which must be brought
-to maturity <span id="fr_68"></span>[69](sot56.htm#fn_68)
+to maturity <span id="fr_68"></span>[69](sot56.htm#fn_68.md)
 
 *Song to Xipe Totec, Lord of the Flayed*
 
@@ -2753,7 +2753,7 @@ mountain goddess of the morning mist broadcasts his action.
 Concentration of thought reached its peak in the monosyllabic language
 of the Mayas. The original text of the Maya chant printed below has 90
 syllables, while Brinton's English rendering contains 118 syllables or
-thirty per-cent more <span id="fr_69"></span>[70](sot56.htm#fn_69). But
+thirty per-cent more <span id="fr_69"></span>[70](sot56.htm#fn_69.md). But
 English is itself a speech which excels in brevity.
 
 <div style="margin-left: 32px">
@@ -2884,7 +2884,7 @@ illusion. But is it wise to enrich the actual text in such fashion as to
 bring out the context?
 
 Let me illustrate with the first stanza of a typical song as translated
-by Miss Fletcher <span id="fr_70"></span>[71](sot56.htm#fn_70):
+by Miss Fletcher <span id="fr_70"></span>[71](sot56.htm#fn_70.md):
 
 <span id="page_66">p. 66</span>
 
@@ -2939,7 +2939,7 @@ justice to the material.
 <span id="page_67">p. 67</span>
 
 Take the Wind Song which he translates as follows in one of his better
-renderings <span id="fr_71"></span>[72](sot56.htm#fn_71):
+renderings <span id="fr_71"></span>[72](sot56.htm#fn_71.md):
 
 <div style="margin-left: 32px">
 
@@ -3053,7 +3053,7 @@ the years 1909, ‘10, ‘11 and ‘12 while I was engaged in ethnological
 field work for the American Museum of Natural History. The songs were
 taken down in native texts, with inter-linear translations and then
 converted into direct and simple English <span
-id="fr_72"></span>[73](sot56.htm#fn_72). Fortunately the Tewa language
+id="fr_72"></span>[73](sot56.htm#fn_72.md). Fortunately the Tewa language
 presents no unusual difficulties in translation.
 
 <span id="page_70">p. 70</span>
@@ -3065,7 +3065,7 @@ reader will find material for comparison in the recent study of Ruth
 Bunzel entitled Introduction to Zuñi Ceremonialism. There are other
 publications which might be mentioned but space does not permit. I close
 with an invocation to the Makers of Storms recorded at Zuñi <span
-id="fr_73"></span>[74](sot56.htm#fn_73).
+id="fr_73"></span>[74](sot56.htm#fn_73.md).
 
 <div style="margin-left: 32px">
 
@@ -3087,6 +3087,6 @@ September 18, 1933.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sot04)
+[Next: Contents](sot04.md)
 
 </div>

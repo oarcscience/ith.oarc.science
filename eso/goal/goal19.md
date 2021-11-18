@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal18)  [Next](goal20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal18)  [Next](goal20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -259,7 +259,7 @@ In Matthew's account, in order to substantiate the *miraculous
 conception*, we find quoted the words of Isaiah (vii. 14): "Therefore
 the Lord himself shall give you a sign; behold, a virgin shall conceive,
 and bear a son, and shall call his name Immanuel." <span
-id="fr_11"></span>[\*](#fn_11) That this refers to the Christ there is
+id="fr_11"></span>[\*](#fn_11.md) That this refers to the Christ there is
 grave
 
 <span id="page_189">p. 189</span>
@@ -329,7 +329,7 @@ he doeth the works," and he is God, he is our Savior.
 
 ### Footnotes
 
-<span id="fn_11"></span>[188:\*](goal19.htm#fr_11) If you turn to this
+<span id="fn_11"></span>[188:\*](goal19.htm#fr_11.md) If you turn to this
 chapter of Isaiah's prophecy you will see that it relates exclusively to
 an invasion then in progress, and concerning this child it is said, "For
 before the child shall know to refuse the evil and choose the good, the
@@ -348,4 +348,4 @@ Jesus the Christ.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Image of God](goal20)
+[Next: Chapter XVI. The Image of God](goal20.md)

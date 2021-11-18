@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou21)  [Next](hou23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou21)  [Next](hou23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -72,8 +72,8 @@ eastern side
 stone heaps were collected and bowlders loosened from the overhanging
 rocks, so that a slight leverage would hurl them on the passing troops,
 and parapets were built as a protection for sharp-shooters. <span
-id="fr_769"></span>[1](#fn_769) Leaving his men in charge of
-staff-officers, <span id="fr_770"></span>[2](#fn_770) the general set
+id="fr_769"></span>[1](#fn_769.md) Leaving his men in charge of
+staff-officers, <span id="fr_770"></span>[2](#fn_770.md) the general set
 forth with a small escort for Fort Bridger, where he was informed by
 Burton as to the movements and strength of the invading force and the
 location of its supply trains. It had been ascertained that the army had
@@ -94,7 +94,7 @@ same route that he had entered. Should he desire, however, to remain
 until spring in the neighborhood of his present encampment, he must
 surrender his arms and ammunition to the Mormon quartermaster-general,
 in which case he would be supplied with provisions, and would not be
-molested. <span id="fr_771"></span>[3](#fn_771) The colonel replied in
+molested. <span id="fr_771"></span>[3](#fn_771.md) The colonel replied in
 brief and business-like phrase. He addressed Brigham Young as governor;
 stated that he would
 
@@ -129,7 +129,7 @@ at dusk, while encamped at a spot known as Simpson's Hollow, on Green
 River, and there lay in ambush for several hours. Meanwhile he
 ascertained, as he relates, that there were two trains, each of
 twenty-six wagons—there being, in fact, three, with seventy-five wagons
-in all. <span id="fr_772"></span>[4](#fn_772)
+in all. <span id="fr_772"></span>[4](#fn_772.md)
 
 <span id="page_516">p. 516</span>
 
@@ -153,7 +153,7 @@ When all the wagons were fairly in a blaze, the Mormons rode away,
 telling their panic-stricken captives that they would return as soon as
 they had delivered the spoils to their comrades near by, and instantly
 shoot any one who should attempt to extinguish the flames. <span
-id="fr_773"></span>[5](#fn_773)
+id="fr_773"></span>[5](#fn_773.md)
 
 <span id="page_517">p. 517</span>
 
@@ -210,7 +210,7 @@ forks, the colonel stating that he would join them at the latter point.
 On the 3d of November they reached the point of rendezvous, where
 Johnston arrived the following day, with a reënforcement of cavalry and
 the supply trains in charge of Smith. <span
-id="fr_774"></span>[6](#fn_774)
+id="fr_774"></span>[6](#fn_774.md)
 
     Albert Sidney Johnston was a favorite officer, and had already given
 earnest of the qualities that he displayed a few years later in the
@@ -245,10 +245,10 @@ have cost the lives of most of the draught-animals; to find shelter was
 equally impossible, for there was none. There was no alternative but to
 proceed slowly and persistently, saving as many as possible of the
 horses, mules, and oxen. Fifteen days were required for this difficult
-operation. <span id="fr_775"></span>[7](#fn_775) Meanwhile Colonel St
+operation. <span id="fr_775"></span>[7](#fn_775.md) Meanwhile Colonel St
 George Cooke, who arrived on the 19th by way of Fort Laramie, at the
 head of 500 dragoons, had fared no better than the main body, having
-lost nearly half of his cattle. <span id="fr_776"></span>[8](#fn_776)
+lost nearly half of his cattle. <span id="fr_776"></span>[8](#fn_776.md)
 
 <span id="page_520">p. 520</span>
 
@@ -273,7 +273,7 @@ rising abruptly at a few hundred yards distance from the bed of the
 stream. Near by were clumps of cotton-wood which the Mormons had
 attempted to burn; but the wood being green and damp, the fire had
 merely scorched the bark. Tents of a new pattern <span
-id="fr_777"></span>[9](#fn_777) were furnished to the men, the poles, to
+id="fr_777"></span>[9](#fn_777.md) were furnished to the men, the poles, to
 which was attached a strong hoop, being supported by iron tripods. From
 the hoops the canvas depended in the shape of a cone, somewhat in the
 fashion of an Indian wigwam. Even when the tents were closed fires could
@@ -289,8 +289,8 @@ Indians, a sufficient number of draught-animals remained to furnish meat
 for seven months during six days in the week, while of bacon there was
 enough for one day in the week, and by reducing the rations of flour,
 coffee, and other articles, they might also be made to last until the
-1st of June. <span id="fr_778"></span>[10](#fn_778) Parties were at once
-sent to New Mexico and Oregon <span id="fr_779"></span>[11](#fn_779) to
+1st of June. <span id="fr_778"></span>[10](#fn_778.md) Parties were at once
+sent to New Mexico and Oregon <span id="fr_779"></span>[11](#fn_779.md) to
 procure cattle and remounts for the cavalry. Meantime shambles were
 built, to which the starved animals at Fort Henry were driven, and
 butchered as soon as they had gathered a little flesh, their meat being
@@ -317,11 +317,11 @@ there were 307 cap covers, and only 190 caps; there were 1,190 military
 stocks; but though some of the men were already barefooted, and others
 had no covering for their feet except moccasins, there were only 823
 pairs of boots and 600 pairs of stockings. <span
-id="fr_780"></span>[12](#fn_780) One of the wagons had been freighted
+id="fr_780"></span>[12](#fn_780.md) One of the wagons had been freighted
 entirely with camp kettles, but brine could not be had, for at this time
 there was not a pound of salt in the entire camp, a supply proffered as
 a gift from Brigham, whom Johnston now termed the great Mormon rebel,
-being rejected with contempt. <span id="fr_781"></span>[13](#fn_781)
+being rejected with contempt. <span id="fr_781"></span>[13](#fn_781.md)
 
     Thus did the army of Utah pass the winter of 1857-8, amid privations
 no less severe than those endured at Valley Forge eighty-one years
@@ -342,17 +342,17 @@ the snow had closed up the mountain cañons. The saints of course
 regarded the disasters of the federal army as a righteous judgment of
 providence on a nation that took arms against Zion, and welcomed their
 returning warriors with pæans of triumph, <span
-id="fr_782"></span>[14](#fn_782) stigmatizing the foe in sorry and
-insulting doggerel. <span id="fr_783"></span>[15](#fn_783) At the
+id="fr_782"></span>[14](#fn_782.md) stigmatizing the foe in sorry and
+insulting doggerel. <span id="fr_783"></span>[15](#fn_783.md) At the
 tabernacle elders waxed bold, and all their remonstrances and overtures
-of peace being now rejected, <span id="fr_784"></span>[16](#fn_784) they
+of peace being now rejected, <span id="fr_784"></span>[16](#fn_784.md) they
 openly avowed, sometimes in braggart phrase, their contempt for the
 United
 
 <span id="page_524">p. 524</span>
 
 <span class="contnote">\[paragraph continues\]</span> States government
-and its army, <span id="fr_785"></span>[17](#fn_785) and declared that
+and its army, <span id="fr_785"></span>[17](#fn_785.md) and declared that
 Israel should now be free.
 
     Meanwhile Governor Cumming declared the Mormons in a state of
@@ -364,7 +364,7 @@ expedition became known as Buchanan's blunder, and there were many who
 believed that a harsher phrase would have been more appropriate.
 
     In February 1858 a messenger from Washington arrived at Salt Lake
-City by way of Los Angeles, <span id="fr_786"></span>[18](#fn_786) and
+City by way of Los Angeles, <span id="fr_786"></span>[18](#fn_786.md) and
 introducing himself under the name of Doctor Osborne, asked for an
 interview with Brigham Young. He was pale and travel-worn, but his
 request was immediately granted, for he was indeed a welcome visitor. It
@@ -391,7 +391,7 @@ Governor Young, may I be permitted to ask a private interview for a few
 moments with you?" The purport of this conversation has never yet been
 ascertained, but at its close the governor remarked: "Friend Thomas, you
 have done a good work, and you will do a greater work still." <span
-id="fr_787"></span>[19](#fn_787)
+id="fr_787"></span>[19](#fn_787.md)
 
     On the 12th of March the colonel arrived at Camp Scott, and was
 entertained as the guest of Governor Cumming. Being presented to Judge
@@ -401,7 +401,7 @@ peace-maker, but was received almost as a spy. An invitation to dinner
 from Colonel Johnston was construed by the sergeant who delivered
 it—whether in malice or mischief does not appear—as an order for his
 arrest. The blunder was, of course, rectified; but Kane, who was now
-classed as a Mormon, <span id="fr_788"></span>[20](#fn_788) challenged
+classed as a Mormon, <span id="fr_788"></span>[20](#fn_788.md) challenged
 the commander-in-chief, and a duel was only prevented by the
 intervention of the chief justice. Nevertheless, he received a fair
 hearing from the governor. His mission was to induce him to proceed to
@@ -418,7 +418,7 @@ April set forth from Camp Scott.
     After passing through the federal lines, Cumming was met by an
 escort of Mormon militia, and on his way to Salt Lake City, where he
 arrived a week later, was everywhere acknowledged as governor and
-received with due honors. <span id="fr_789"></span>[21](#fn_789) Several
+received with due honors. <span id="fr_789"></span>[21](#fn_789.md) Several
 interviews were held with Brigham, during which he was assured that
 every facility would be afforded him. The territorial seal, the records
 of the supreme and district courts, and other public property, the
@@ -445,7 +445,7 @@ uproar; and, writes the governor, "I was fully confirmed in the opinion
 that this people, with their extraordinary religion and customs, would
 gladly encounter certain death rather than be taxed with a submission to
 the military power, which they consider to involve a loss of
-honor." <span id="fr_790"></span>[22](#fn_790)
+honor." <span id="fr_790"></span>[22](#fn_790.md)
 
     The tumult was stayed by Brigham, and no further symptoms of
 rebellion occurred during the governor's visit. About the middle of May
@@ -465,17 +465,17 @@ message to congress in the following December he was thus complimented:
 Thomas L. Kane, who, from motives of pure benevolence, and without any
 official character or pecuniary compensation, visited Utah during the
 last inclement winter for the purpose of contributing to the
-pacification of the territory." <span id="fr_791"></span>[23](#fn_791)
+pacification of the territory." <span id="fr_791"></span>[23](#fn_791.md)
 
     The delay caused by Kane's mission was most opportune. The army was
 now ready to take the field. At Fort Leavenworth three thousand
-additional troops <span id="fr_792"></span>[24](#fn_792) had been
+additional troops <span id="fr_792"></span>[24](#fn_792.md) had been
 assembled, and it was intended that the entire force should be
 concentrated in Utah in two divisions, one under the command of Colonel,
 now brevet brigadier-general, Johnston, and the other under Harney. As
 elsewhere mentioned, money without stint had been voted for the
 expedition, subsistence being provided for eight thousand persons for a
-period of twenty months. <span id="fr_793"></span>[25](#fn_793) On the
+period of twenty months. <span id="fr_793"></span>[25](#fn_793.md) On the
 9th and 10th of June Colonel Hoffman arrived with a detachment at Camp
 Scott, in charge of the supply trains that had been parked at Fort
 Laramie during winter, and on the 8th 1,500 horses and mules, with an
@@ -531,7 +531,7 @@ effusion of blood, and to avoid the indiscriminate punishment of a whole
 people for crimes of which it is not probable that all are equally
 guilty, I offer now a free and full pardon to all who will submit
 themselves to the authority of the government." <span
-id="fr_794"></span>[26](#fn_794)
+id="fr_794"></span>[26](#fn_794.md)
 
     The proclamation, though it served its purpose, gave offence to both
 parties. The Mormons did not regard themselves as rebels; but claimed
@@ -540,7 +540,7 @@ successor to Brigham had been legally appointed and qualified, nor had
 he been removed by the president, and that in obstructing the entrance
 of an armed force into the territory he had not exceeded his powers as
 commander-in-chief of the militia. <span
-id="fr_795"></span>[27](#fn_795) Moreover, that their complaints had
+id="fr_795"></span>[27](#fn_795.md) Moreover, that their complaints had
 been ignored instead of receiving a patient hearing, and that none of
 their grievances had been redressed, were among the causes that led to
 the disturbance. On the other hand, the gentile world declared that if
@@ -566,7 +566,7 @@ expedition had no reference to their religious tenets, and that if they
 resumed their allegiance no power in the United States had either the
 right or the will to interfere with their religion. "To restore peace in
 this manner," writes the secretary of war in his instructions, "is the
-single purpose of your mission." <span id="fr_796"></span>[28](#fn_796)
+single purpose of your mission." <span id="fr_796"></span>[28](#fn_796.md)
 
     On the 29th of May the commissioners arrived at Camp Scott, where
 they remained four days, gathering information as to the condition of
@@ -582,7 +582,7 @@ and for those acts accepted the president's pardon. All other charges
 
 <span id="page_532">p. 532</span>
 
-they denied. <span id="fr_797"></span>[29](#fn_797) At the same time
+they denied. <span id="fr_797"></span>[29](#fn_797.md) At the same time
 they avowed their esteem for the constitution and government of the
 United States, and declared that under this constitution they desired to
 dwell in peace.
@@ -592,7 +592,7 @@ at the close of the conference, Powell addressed a large number of
 Mormons, expressing his gratification at the result, and declaring that
 the army, which would arrive in the valley within a few days, had strict
 orders to molest no peaceable citizens in person or property. <span
-id="fr_798"></span>[30](#fn_798) On the same evening a despatch was sent
+id="fr_798"></span>[30](#fn_798.md) On the same evening a despatch was sent
 to Johnston stating the result of the negotiations, and suggesting that
 he issue a proclamation to the people of Utah and march to the valley at
 his earliest convenience. An answer was immediately returned, in which
@@ -607,7 +607,7 @@ person, rights, and the peaceful pursuit of their vocations. This
 proclamation, together with one from Governor Cumming, declaring that
 peace was restored, and that the laws, both federal and territorial,
 must be strictly obeyed by all, was immediately published. <span
-id="fr_799"></span>[31](#fn_799)
+id="fr_799"></span>[31](#fn_799.md)
 
     The army had marched from Camp Scott on the 13th of June in three
 columns, a sufficient garrison being left at Fort Bridger, near which a
@@ -672,7 +672,7 @@ rumble of caissons and baggage-wagons. But no other sound
 
 is heard, save the murmur of the creek; nor is there sign of life in the
 city of the saints. Zion is deserted! <span
-id="fr_800"></span>[32](#fn_800)
+id="fr_800"></span>[32](#fn_800.md)
 
  
 
@@ -688,16 +688,16 @@ wagons laden with provisions and household furniture. By their side
 women and children, many of them so thinly clad that their garments
 barely concealed their nakedness, some being attired only in sacking,
 some with no covering but a remnant of rag-carpet, and some barefooted
-and bleeding, <span id="fr_801"></span>[33](#fn_801) tramped through the
+and bleeding, <span id="fr_801"></span>[33](#fn_801.md) tramped through the
 deep snow, journeying they knew not whither, no more than at the exodus
 from Nauvoo; but it was "the will of the Lord," or rather of their
-prophet. <span id="fr_802"></span>[34](#fn_802) Returning with the peace
+prophet. <span id="fr_802"></span>[34](#fn_802.md) Returning with the peace
 commissioners, the governor repaired to the house of Elder Staines, and
 found the
 
 <span id="page_536">p. 536</span>
 
-place abandoned, <span id="fr_803"></span>[35](#fn_803) Brigham and
+place abandoned, <span id="fr_803"></span>[35](#fn_803.md) Brigham and
 those who took part in the conference with the peace commissioners being
 summoned from some unknown point to the southward.
 
@@ -712,7 +712,7 @@ That they would have followed their prophet implicitly whithersoever he
 might have led, does not admit of doubt; but after some further
 negotiation, Brigham with the members of the first presidency and
 certain of the elders returned to their homes on the 1st of July, <span
-id="fr_804"></span>[36](#fn_804) followed, soon afterward, by the
+id="fr_804"></span>[36](#fn_804.md) followed, soon afterward, by the
 remainder of the community, and the Utah war was practically at an end.
 Two days later the commissioners started for Washington, having
 faithfully carried out the spirit and letter of their instructions.
@@ -724,9 +724,9 @@ faithfully carried out the spirit and letter of their instructions.
 <span class="contnote">\[paragraph continues\]</span> Jordan, the troops
 were removed to Cedar Valley, where a site had been selected for an
 encampment about midway between Salt Lake City and Provo, <span
-id="fr_805"></span>[37](#fn_805) from which the forces could operate in
+id="fr_805"></span>[37](#fn_805.md) from which the forces could operate in
 either direction. To this was given the name of Camp Floyd. <span
-id="fr_806"></span>[38](#fn_806) In the valley there were but two small
+id="fr_806"></span>[38](#fn_806.md) In the valley there were but two small
 settlements, one of them, which was near the camp, containing only ten
 families. "I was desirous," writes Johnston, "to avoid proximity to any
 settlements, if possible; but this was not practicable, for every
@@ -735,7 +735,7 @@ suitable position where there is water is occupied."
     During the march of the army not a house was disturbed, not a
 citizen harmed or molested, and during its sojourn of nearly two years
 in the territory, instances were rare indeed of gross misconduct on the
-part of the soldiery. <span id="fr_807"></span>[39](#fn_807) The
+part of the soldiery. <span id="fr_807"></span>[39](#fn_807.md) The
 Mormons, who had before been eager to fight the troops, were now
 thankful for their arrival. Many of the former were still very poor;
 they had a few cattle, and a few implements of husbandry, but little
@@ -786,7 +786,7 @@ to gain political ascendancy, that they pushed forward their settlements
 
 <span id="page_539">p. 539</span>
 
-vigorously, <span id="fr_808"></span>[40](#fn_808) cannot be disputed;
+vigorously, <span id="fr_808"></span>[40](#fn_808.md) cannot be disputed;
 but here was no cause for a military expedition to uphold the authority
 of the government.
 
@@ -796,7 +796,7 @@ of the government.
 Chief Justice Eckles taking up his quarters at Camp Floyd, Judge
 Sinclair being assigned to the first, or as it is now termed the third,
 district, which included Salt Lake City, and Judge Cradlebaugh to the
-southern counties. <span id="fr_809"></span>[41](#fn_809) Alexander
+southern counties. <span id="fr_809"></span>[41](#fn_809.md) Alexander
 Wilson of Iowa had been chosen United States attorney, and Jacob Forney
 of Pennsylvania superintendent of Indian affairs, which office was now
 separated from that of governor. John Hartnett as secretary and Peter K.
@@ -815,12 +815,12 @@ all the bills were thrown out, with one
 
 <span id="page_540">p. 540</span>
 
-exception. <span id="fr_810"></span>[42](#fn_810)
+exception. <span id="fr_810"></span>[42](#fn_810.md)
 
 Thus Sinclair's judicial career resulted in failure, and to this day he
 is only remembered in Utah as the judge who appointed a Sunday for the
 first execution of a white man that had occurred as yet in the
-territory. <span id="fr_811"></span>[43](#fn_811)
+territory. <span id="fr_811"></span>[43](#fn_811.md)
 
     To Judge Cradlebaugh belonged a wider sphere of operations; but, as
 will presently appear, his proceedings and those of his colleague
@@ -828,7 +828,7 @@ wellnigh brought about a renewal of the Utah war, hostilities being
 prevented only by the timely interference of the government. The matters
 which he proposed to investigate included several outrages, commonly
 ascribed to the Mormons, among them being the Mountain Meadows
-massacre. <span id="fr_812"></span>[44](#fn_812)
+massacre. <span id="fr_812"></span>[44](#fn_812.md)
 
     Before presenting this episode, it may be well to make some mention
 of a religious movement known in Utah as the reformation, though more in
@@ -843,7 +843,7 @@ to pay their tithing faithfully,
 
 to dedicate themselves and their substance to the Lord, to set their
 families in order, to purify their houses, their persons, and their
-lands. <span id="fr_813"></span>[45](#fn_813)
+lands. <span id="fr_813"></span>[45](#fn_813.md)
 
     At the bowery in Salt Lake City, on the morning of the 21st, the day
 being a sabbath, Brigham declared that he would no longer dwell among a
@@ -868,7 +868,7 @@ tabernacle, the saints being ordered to renew their covenants, and many
 of them were rebaptized by the elders under the direction of Grant, who,
 on one occasion, remained so long in the water that he contracted the
 disease of which he died toward the close of the year. <span
-id="fr_814"></span>[46](#fn_814) Meetings held by the home missionaries
+id="fr_814"></span>[46](#fn_814.md) Meetings held by the home missionaries
 throughout the territory were crowded, and full and frank confession was
 made, followed in most instances by amendment. Some benefit
 
@@ -880,25 +880,25 @@ people being worked up to a state of frenzy, and most of them believing
 that the coming of Christ was at hand. The revival lasted well into the
 following year, and coupled with the excitement of the approaching war,
 may serve to explain the abnormal condition of the community at this
-critical period. <span id="fr_815"></span>[47](#fn_815)
+critical period. <span id="fr_815"></span>[47](#fn_815.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_769"></span>[514:1](hou22.htm#fr_769) For cut of Echo
+<span id="fn_769"></span>[514:1](hou22.htm#fr_769.md) For cut of Echo
 Cañon, see *Hayden's The Great West*, 313; *Stenhouse's Rocky Mountain
 Saints*, 363. The remains of the breastworks and darts were to be seen
 ten years later. *Kirchoff, Reisebilder*, i. 107-8.
 
-<span id="fn_770"></span>[514:2](hou22.htm#fr_770) Colonels N. V. Jones
+<span id="fn_770"></span>[514:2](hou22.htm#fr_770.md) Colonels N. V. Jones
 and J. D. T. McAllister.
 
-<span id="fn_771"></span>[514:3](hou22.htm#fr_771) For copies of both
+<span id="fn_771"></span>[514:3](hou22.htm#fr_771.md) For copies of both
 letters, see *Secretary of War's Rept House Ex. Doc*., 35th Cong. 1st
 Sess., ii. pt 2, pp. 31-3.
 
-<span id="fn_772"></span>[515:4](hou22.htm#fr_772) *Rept of Commissary
+<span id="fn_772"></span>[515:4](hou22.htm#fr_772.md) *Rept of Commissary
 Clarke*, in *House Ex. Doc*., 35th Cong. 1st Sess., x. no. 71, p. 63.
 Col. Alexander, however, in his official report to the adjutant-general,
 dated Camp Winfield, Oct. 9, 1857, says that only two trains were
@@ -911,7 +911,7 @@ wagons was perhaps wrought by Haight's party, as Smith states that they
 were sent after the convoy of the tenth infantry. Otherwise I find no
 evidence that this was the case.
 
-<span id="fn_773"></span>[516:5](hou22.htm#fr_773) Lot Smith's
+<span id="fn_773"></span>[516:5](hou22.htm#fr_773.md) Lot Smith's
 narrative, in *Tullidge's Hist. S. L. City*, 173-5, when stripped of the
 braggadocio common to the saints militant—and thus I have given
 it—appears to be the best detailed account of this incident. The
@@ -937,15 +937,15 @@ Dec. 17, 30, 1857; *Sac. Union*, Dec. 11, 1857. The list of stores
 destroyed is given in *Commissary Clarke's Report*, in *H. Ex. Doc*.,
 35th Cong. 1st Sess., no. 71, p. 63.
 
-<span id="fn_774"></span>[518:6](hou22.htm#fr_774) Johnston's despatch,
+<span id="fn_774"></span>[518:6](hou22.htm#fr_774.md) Johnston's despatch,
 in *House Ex. Doc*., 35th Cong. 1st Sess., no. 71, pp. 65-6;
 *Stenhouse's Rocky Mountain Saints*, 369.
 
-<span id="fn_775"></span>[519:7](hou22.htm#fr_775) Rept of Col Johnston,
+<span id="fn_775"></span>[519:7](hou22.htm#fr_775.md) Rept of Col Johnston,
 dated Camp Scott, Nov. 30, 1857, in *House Ex. Doc*., 35th Cong. 1st
 Sess., x. no. 71, p. 77.
 
-<span id="fn_776"></span>[519:8](hou22.htm#fr_776) *Ibid*. On the 5th
+<span id="fn_776"></span>[519:8](hou22.htm#fr_776.md) *Ibid*. On the 5th
 the command passed Devil s Gate, and on the following <span
 id="page_520">p. 520</span> day, while erossing what he terms a
 four-mile hill, Colonel Cooke writes: 'The north wind and drifting snow
@@ -980,25 +980,25 @@ frozen animals which for thirty miles nearly block the road.' *Rept* in
 *Id*., pp. 96-9. See also *Rodenbough's From Everglade to Cañon with the
 Second Dragoons*, 214-18.
 
-<span id="fn_777"></span>[521:9](hou22.htm#fr_777) The Sibley pattern.
+<span id="fn_777"></span>[521:9](hou22.htm#fr_777.md) The Sibley pattern.
 Aide-de-camp Lay's despatch to General Harney, in *Rept*, ut supra, 8.
 
-<span id="fn_778"></span>[521:10](hou22.htm#fr_778) Capt. H. F. Clarke,
+<span id="fn_778"></span>[521:10](hou22.htm#fr_778.md) Capt. H. F. Clarke,
 in *Id*., p. 105, gives a statement of the supplies stored at Fort
 Bridger, Nov. 28, 1857. There were 150 days’ rations of flour for 2,400
 men, 144 of tea or coffee, 217 of sugar, 222 of beans, rice, or
 desiccated vegetables, 28 of bacon or ham, 137 of vinegar, and 83 of
 molasses.
 
-<span id="fn_779"></span>[521:11](hou22.htm#fr_779) The first under
+<span id="fn_779"></span>[521:11](hou22.htm#fr_779.md) The first under
 Captain Marcy.
 
-<span id="fn_780"></span>[522:12](hou22.htm#fr_780) *Assistant
+<span id="fn_780"></span>[522:12](hou22.htm#fr_780.md) *Assistant
 Quartermaster Dickerson's Rept*, dated Camp Scott, Nov. 29, 1857, in
 *Id*., pp. 106-7, where will be found a list of all the clothing on hand
 at that date.
 
-<span id="fn_781"></span>[522:13](hou22.htm#fr_781) A copy of Brigham's
+<span id="fn_781"></span>[522:13](hou22.htm#fr_781.md) A copy of Brigham's
 letter, dated S. L. City, Nov. 26, 1857, stating that he has forwarded a
 load of about 800 lbs, to which Col Johnston is welcome as a gift, but
 for which payment will be accepted if preferred, will be found in *Id*.,
@@ -1007,7 +1007,7 @@ but'that the commander would not eat of it, and that the officers’ mess
 was soon afterward supplied by Indians at the rote of $5 per lb. *Hist.
 S. L. City*, 196.
 
-<span id="fn_782"></span>[523:14](hou22.htm#fr_782) In a song of welcome
+<span id="fn_782"></span>[523:14](hou22.htm#fr_782.md) In a song of welcome
 composed by W. G. Mills, and published in the Deseret News, Jan. 13,
 1858, are the following lines:
 
@@ -1027,7 +1027,7 @@ The standard be to every land.
 
 </div>
 
-<span id="fn_783"></span>[523:15](hou22.htm#fr_783) In *Id*., Jan. 27,
+<span id="fn_783"></span>[523:15](hou22.htm#fr_783.md) In *Id*., Jan. 27,
 1858, is a song composed by Matthew Rowan of South Cottonwood,
 commencing:
 
@@ -1058,14 +1058,14 @@ Saints*, 372. I find no mention of such a song in the files of the
 of the Marseillaise, also rendered by W. G. Mills, who afterward
 apostatized.
 
-<span id="fn_784"></span>[523:16](hou22.htm#fr_784) For copies of
+<span id="fn_784"></span>[523:16](hou22.htm#fr_784.md) For copies of
 further correspondence between Brigham and Col Alexander, see
 *Tullidge's Hist. S. L. City*, 176-84; for letter addressed by John
 Taylor to Capt Marcy. *Id*., 184-9. They are also given with some
 additions in the *Deseret News*, Jan. 13, 1858, and in *House Ex. Doc*.,
 35th Cong. 1st Sess., x. no. 71, p. 48 et seq.
 
-<span id="fn_785"></span>[524:17](hou22.htm#fr_785) In a sermon
+<span id="fn_785"></span>[524:17](hou22.htm#fr_785.md) In a sermon
 delivered at the tabernacle Dec. 13, 1857, Lorenzo D. Young remarked:
 'If our enemies—I do not mean those few out yonder: a swarm of
 long-billed mosquitoes could eat them up at a supper spell; I mean the
@@ -1074,17 +1074,17 @@ they can not prevail.' *Deseret News*, Dec. 23, 1857. The remarks of
 other elders, as reported in *Id*., Dec. 16th, were, however, for the
 most part rational.
 
-<span id="fn_786"></span>[524:18](hou22.htm#fr_786) Overtaking in
+<span id="fn_786"></span>[524:18](hou22.htm#fr_786.md) Overtaking in
 southern California the Mormons who had broken up their settlement at
 that point and were en route for Utah. *Utah Notes*, MS.
 
-<span id="fn_787"></span>[525:19](hou22.htm#fr_787) Col Kane arrived
+<span id="fn_787"></span>[525:19](hou22.htm#fr_787.md) Col Kane arrived
 Feb. 25th. *Deseret News*, March 3, 1858. On March 2d Major Van Vliet
 reached S. L. City from Washington at 4 A. M., and started four hours
 later, probably for Camp Scott. *St Louis Republican*, Dec. 14th, in
 *Ibid*.
 
-<span id="fn_788"></span>[525:20](hou22.htm#fr_788) Hyde, *Mormonism*,
+<span id="fn_788"></span>[525:20](hou22.htm#fr_788.md) Hyde, *Mormonism*,
 146; Waite, *The Mormon Prophet*, 52, and others claim that Col Kane had
 actually been baptized at Council Bluffs in 1847. The colonel himself
 never made any such statement; and, as Stenhouse remarks, if this had
@@ -1096,7 +1096,7 @@ excellent nursing which he received from them in 1847, whereby his life
 was saved when he sojourned in one of their camps near Winter Quarters,
 as already related. There is no reliable evidence that he was a Mormon.
 
-<span id="fn_789"></span>[526:21](hou22.htm#fr_789) It was arranged with
+<span id="fn_789"></span>[526:21](hou22.htm#fr_789.md) It was arranged with
 the Mormon officer in charge of the escort that the party should pass
 through Echo Cañon at night, the object being, as Cumming supposed, to
 conceal the barricades and defences; but bonfires were lighted by the
@@ -1121,7 +1121,7 @@ the residence of Elder W. C. Staines. *Waite's The Mormon Prophet*,
 53-5; *Stenhouse's Rocky Mountain Saints*, 389-90. These statements are
 not confirmed by *Tullidge in his Hist. S. L. City*.
 
-<span id="fn_790"></span>[527:22](hou22.htm#fr_790) On the same sabbath
+<span id="fn_790"></span>[527:22](hou22.htm#fr_790.md) On the same sabbath
 Cumming, having been informed that many persons desired to leave the
 territory but were unlawfully restrained from doing so, caused a notice
 to be read in the tabernacle asking them to forward their names and
@@ -1144,16 +1144,16 @@ and tried to dissuade him from exposing himself to needless risk and
 hardship. Copies of the correspondence will be found in *House Ex.
 Doc*., 35th Cong. 1st Sess., x. no. 71. pp. 205-10, passim.
 
-<span id="fn_791"></span>[528:23](hou22.htm#fr_791) *House Ex. Doc*.,
+<span id="fn_791"></span>[528:23](hou22.htm#fr_791.md) *House Ex. Doc*.,
 35th Cong. 2d Sess., ii. pt 1, p. 10. A complimentary letter was handed
 to the colonel by Buchanan on the eve of his departure for Utah. Whether
 Kane was intrusted with any direct communication from the president to
 Brigham, and if so what was its purport, does not appear.
 
-<span id="fn_792"></span>[528:24](hou22.htm#fr_792) The sixth and
+<span id="fn_792"></span>[528:24](hou22.htm#fr_792.md) The sixth and
 seventh infantry, first cavalry, and two batteries of artillery.
 
-<span id="fn_793"></span>[528:25](hou22.htm#fr_793) At a cost of
+<span id="fn_793"></span>[528:25](hou22.htm#fr_793.md) At a cost of
 $1,220,000, the estimate being for 4,880,000 rations, at 25 cents per
 ration. This, of course, does not include freight. The effective force
 numbered 5,606, and there were 1,894 employes, 300 servants, and 200
@@ -1162,11 +1162,11 @@ from the Secretary of War*, in *House Ex. Doc*., 35th Cong. 1st Sess.,
 ix. no. 33. A statement of all contracts made in connection with the
 expedition for 1858 will be found in *Id*., xii. no. 99.
 
-<span id="fn_794"></span>[530:26](hou22.htm#fr_794) For copies of the
+<span id="fn_794"></span>[530:26](hou22.htm#fr_794.md) For copies of the
 proclamation, see *House Ex. Doc*., 35th Cong. 2d Sess., ii. 1, pt 1,
 pp. 69-72; *Deseret News*, June 16, 1858.
 
-<span id="fn_795"></span>[530:27](hou22.htm#fr_795) It does not appear
+<span id="fn_795"></span>[530:27](hou22.htm#fr_795.md) It does not appear
 that Brigham had been officially notified of Cumming's appointment when
 he sent his despatch to Alexander by the hands of Wells. In his answer
 Alexander addresses him as governor, it will be remembered; and in his
@@ -1177,10 +1177,10 @@ interruption of the mails, it is probable that no official intimation
 had reached S. L. City as early as Oct. 4th, when the baggage trains
 were burned at Simpson Hollow.
 
-<span id="fn_796"></span>[531:28](hou22.htm#fr_796) *Sen. Doc*., 35th
+<span id="fn_796"></span>[531:28](hou22.htm#fr_796.md) *Sen. Doc*., 35th
 Cong. 2d Sess., ii. p. 161.
 
-<span id="fn_797"></span>[532:29](hou22.htm#fr_797) The commissioners’
+<span id="fn_797"></span>[532:29](hou22.htm#fr_797.md) The commissioners’
 rept to the secretary of war, in *Id*., 168-72. The Mormon version of
 these negotiations, as given in the *Deseret News*, June 23, 1858,
 confirms that of the commissioners. A concise statement of what was said
@@ -1236,22 +1236,22 @@ Usurped men's best rights, all our freedom supprest.'</span>
 <span class="contnote">\[paragraph continues\]</span> *Snow's Poems*, i.
 261,265.
 
-<span id="fn_798"></span>[532:30](hou22.htm#fr_798) On the 16th the
+<span id="fn_798"></span>[532:30](hou22.htm#fr_798.md) On the 16th the
 commissioners addressed a large number of people at Provo, and on the
 17th at Lehi. *Rept*, ut supra, 171. Their speeches at Provo are given
 in the *Deseret News*, July 14, 1858.
 
-<span id="fn_799"></span>[533:31](hou22.htm#fr_799) For copies of both
+<span id="fn_799"></span>[533:31](hou22.htm#fr_799.md) For copies of both
 proclamations. see *Sen. Doc*., 35th Cong. 2d Sess., ii. pp. 113, 121;
 *Deseret News*, June 23, July 7, 1858; and of Johnston's proclamation,
 *New York Herald*, July 15. 1858, in *Millennial Star*, xx. 532.
 
-<span id="fn_800"></span>[535:32](hou22.htm#fr_800) Johnston's despatch,
+<span id="fn_800"></span>[535:32](hou22.htm#fr_800.md) Johnston's despatch,
 in *Sen. Doc*., 35th Cong. 2d Sess., ii. p. 122. Tullidge says that
 Colonel Cooke, who had commanded the Mormon battalion in 1847, rode
 through the city bareheaded. *Hist. S. L. City*, 224.
 
-<span id="fn_801"></span>[535:33](hou22.htm#fr_801) *Jennings’ Mat.
+<span id="fn_801"></span>[535:33](hou22.htm#fr_801.md) *Jennings’ Mat.
 Progr. in Utah*, MS., 2, where it is stated that, during the spring of
 1858, the stock of clothing became exhausted and there were no means to
 replenish it. Among those who set forth from S. L. City was Mrs Jos.
@@ -1266,13 +1266,13 @@ sewing, a party of Mormons having arrived there from San Bernardino,
 with a load of dry goods. *Horne's Migr. and Settlem. L. D. Saints*,
 MS., 36.
 
-<span id="fn_802"></span>[535:34](hou22.htm#fr_802) Cummmg states that
+<span id="fn_802"></span>[535:34](hou22.htm#fr_802.md) Cummmg states that
 at the tabernacle, on Apr. 11th, Brigham mentioned Sonora as their goal.
 *House Ex. Doc*., 35th Cong. 1st Sess., xiii. p. 6, note. I find no
 mention of this in the files of the *Deseret News*. Between May 12 and
 Sept. 1, 1858, this paper was published at Fillmore City.
 
-<span id="fn_803"></span>[536:35](hou22.htm#fr_803) Tullidge relates
+<span id="fn_803"></span>[536:35](hou22.htm#fr_803.md) Tullidge relates
 that at the elder's house a cold lunch was spread for the governor, and
 in the garden loads of straw were significantly heaped up. Inquiring the
 cause of the silence that pervaded the city, Mrs Cumming was told that
@@ -1289,7 +1289,7 @@ commissioners Cumming followed the Mormons 50 miles to the southward,
 pleaded with them, at first in vain, but finally induced them to return.
 *Hist. S. L. City*, 213, 225-6.
 
-<span id="fn_804"></span>[536:36](hou22.htm#fr_804) *Deseret News*, July
+<span id="fn_804"></span>[536:36](hou22.htm#fr_804.md) *Deseret News*, July
 14, 1858. The peace commissioners, whose last report from S. L. City is
 dated July 3d, also mention that the ex-governor and other leading
 Mormons had then returned with their families. *Sen. Doc*., 35th Cong.
@@ -1297,16 +1297,16 @@ Mormons had then returned with their families. *Sen. Doc*., 35th Cong.
 Tullidge, *Hist. S. L. City*, 226, state that Brigham did not start from
 Provo till the 5th.
 
-<span id="fn_805"></span>[537:37](hou22.htm#fr_805) Salt Lake City was
+<span id="fn_805"></span>[537:37](hou22.htm#fr_805.md) Salt Lake City was
 36 miles north and Provo about the same distance south-east of the camp.
 Johnston's despatch in *Sen. Doc*., 35th Cong. 2d Sess., ii. 122. Grass
 was abundant in Cedar Valley, and also in Rush and Tintic valleys near
 by.
 
-<span id="fn_806"></span>[537:38](hou22.htm#fr_806) So named after John
+<span id="fn_806"></span>[537:38](hou22.htm#fr_806.md) So named after John
 B. Floyd, then secretary of war.
 
-<span id="fn_807"></span>[537:39](hou22.htm#fr_807) The men were seldom
+<span id="fn_807"></span>[537:39](hou22.htm#fr_807.md) The men were seldom
 allowed to leave camp, and only one serious affair occurred, a sergeant
 named Pike being accused of cracking the skull of a Mormon with his
 musket. During the sergeant's trial in Salt Lake City he was shot on the
@@ -1316,7 +1316,7 @@ the culprit, whose name was Spencer, was lauded for his courage in the
 next issue of the *Deseret News*. I find no mention of it in the files
 of that paper.
 
-<span id="fn_808"></span>[539:40](hou22.htm#fr_808) Tullidge, *Hist.
+<span id="fn_808"></span>[539:40](hou22.htm#fr_808.md) Tullidge, *Hist.
 S. L. City*, 138-9, says it was feared they would settle territory which
 'would come within the political boundaries of half a dozen states, in
 which they would cast their potent united vote,' and that immigration
@@ -1326,7 +1326,7 @@ that the Mormons held the whip-handle over the U.S., Fillmore and Pierce
 having given it into the hands of Brigham. Much similar nonsense may be
 found by turning over the newspaper files of this period.
 
-<span id="fn_809"></span>[539:41](hou22.htm#fr_809) By act approved Dec.
+<span id="fn_809"></span>[539:41](hou22.htm#fr_809.md) By act approved Dec.
 27, 1865, the judicial districts were altered, Millard, Piute, Sevier,
 San Pete, Juab, Utah, and Wasatch counties forming the first district;
 Kane, Washington, Iron, and Beaver counties the second; and Great Salt
@@ -1334,15 +1334,15 @@ Lake, Tooele, Summit, Green River, Davis, Morgan, Weber, Box Elder,
 Cache, and Richland, afterward Rich, counties the third. *Utah Acts
 Legisl*. (ed. 1866), 194.
 
-<span id="fn_810"></span>[540:42](hou22.htm#fr_810) That of James
-Ferguson. See chap. xvii., note [18](hou20.htm#fn_651), this vol.
+<span id="fn_810"></span>[540:42](hou22.htm#fr_810.md) That of James
+Ferguson. See chap. xvii., note [18](hou20.htm#fn_651.md), this vol.
 
-<span id="fn_811"></span>[540:43](hou22.htm#fr_811) That of Thomas H.
+<span id="fn_811"></span>[540:43](hou22.htm#fr_811.md) That of Thomas H.
 Ferguson for murder. The execution was, of course, postponed, and took
 place on Friday, Oct. 28, 1859. An account of it will be found in the
 *Deseret News*, Nov. 2, 1859, and the *Sac. Union*, Nov. 17, 1859.
 
-<span id="fn_812"></span>[540:44](hou22.htm#fr_812) Stenhouse, *Rocky
+<span id="fn_812"></span>[540:44](hou22.htm#fr_812.md) Stenhouse, *Rocky
 Mountain Saints*, 402-3, states that the judges were supported by the
 *Valley Tan* newspaper, the first number of which appeared Nov. 5, 1858.
 This was the first gentile newspaper published in Utah; it ran for only
@@ -1363,15 +1363,15 @@ requirements would be supplied by some one, and it was thought by the
 brethren that they had better control the trade than have outsiders do
 so.
 
-<span id="fn_813"></span>[541:45](hou22.htm#fr_813) For proceedings of
+<span id="fn_813"></span>[541:45](hou22.htm#fr_813.md) For proceedings of
 conference, see *Deseret News*, Sept. 24, 1856. 'Saints, live your
 religion,' was the text of a sermon delivered by Brigham at the
 tabernacle.
 
-<span id="fn_814"></span>[541:46](hou22.htm#fr_814) For a description of
+<span id="fn_814"></span>[541:46](hou22.htm#fr_814.md) For a description of
 his obsequies, see *Deseret News*. Dec. 10, 1856.
 
-<span id="fn_815"></span>[542:47](hou22.htm#fr_815) In *Stenhouse's
+<span id="fn_815"></span>[542:47](hou22.htm#fr_815.md) In *Stenhouse's
 Rocky Mountain Saints*, 292-305, and *Stenhouse's Tell It All*, 310-23,
 are sensational accounts of the reformation, the former by an
 eye-witness, who appears to have witnessed things which no one else
@@ -1395,4 +1395,4 @@ in the text is taken principally from the files of the *Deseret News*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. The Mountain Meadows Massacre. 1857.](hou23)
+[Next: Chapter XX. The Mountain Meadows Massacre. 1857.](hou23.md)

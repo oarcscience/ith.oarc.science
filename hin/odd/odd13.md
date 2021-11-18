@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd12)  [Next](odd14) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd12)  [Next](odd14.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,12 +57,12 @@ servants came to buy a pair of clogs for his master, and seeing these
 new ones, said to the Carpenter, 'Why, man, these clogs are better than
 all the rest put together. I will take none other to the Rajah. I wish
 you would always make such clogs as these.' And throwing down ten gold
-mohurs  <span id="fr_50"></span>[1](#fn_50) on the floor of the hut, he
+mohurs  <span id="fr_50"></span>[1](#fn_50.md) on the floor of the hut, he
 took up the clogs and went away.
 
 The Carpenter was much surprised at the whole business. In the first
 place, he usually received only two or three rupees  <span
-id="fr_51"></span>[2](#fn_51) for each pair of clogs; and in the second,
+id="fr_51"></span>[2](#fn_51.md) for each pair of clogs; and in the second,
 he knew that those which the Rajah's servant had judged worth ten gold
 mohurs had not been made by him; and, how they had come there he could
 not think, for he felt certain they were not with the rest of the clogs
@@ -98,7 +98,7 @@ finished them all, he painted and varnished them, and put them one
 afternoon outside the house to dry.
 
 Night came on, and with it came Parbuttee and Mahadeo, <span
-id="fr_52"></span>[3](#fn_52) flying round the world to see the
+id="fr_52"></span>[3](#fn_52.md) flying round the world to see the
 different races of men. Amongst the many places they visited was the
 city where the Carpenter lived and in the garden in front of the house
 they saw the thousand wooden parrots which the Rajah had made and
@@ -250,11 +250,11 @@ only daughter--a most beautiful Princess--and her name is Panch-Phul
 Ranee; for she is so light and delicate, that she weighs no heavier than
 five lotus flowers. After her this whole country is called Panch-Phul
 Ranee's country. She lives in a small bungalow  <span
-id="fr_53"></span>[4](#fn_53) in the centre of the city you see yonder;
+id="fr_53"></span>[4](#fn_53.md) in the centre of the city you see yonder;
 but, unluckily for us, she has vowed to marry no man who cannot jump on
 foot over the seven hedges made of spears, and across the seven great
 ditches that surround her house. This cannot be done. Babamah!  <span
-id="fr_54"></span>[5](#fn_54) I don't know how many hundreds of
+id="fr_54"></span>[5](#fn_54.md) I don't know how many hundreds of
 thousands of Rajahs have tried to do it, and died in the attempt! Yet
 the Princess will not break her vow. Daily, worse and worse tidings come
 from the city, of fresh people having been killed in trying to jump the
@@ -269,7 +269,7 @@ and the whole kingdom be turned topsy-turvy.'
 'Mai,' said the Rajah, 'if that is all, I will try and win your
 Princess, for I can jump right well.'
 
-'Baba,'  <span id="fr_55"></span>[6](#fn_55) answered the Malee's wife,
+'Baba,'  <span id="fr_55"></span>[6](#fn_55.md) answered the Malee's wife,
 'do not think of such a thing--are you mad? I tell you, hundreds of
 thousands of men have said these words before, and been killed in their
 rashness. What power do you think you possess to succeed where all
@@ -419,7 +419,7 @@ land in order to marry her, but he was killed in jumping the seventh
 hedge of spears, and so all he gained was to die for her sake.'
 
 <span id="img_21"></span> [![](tn/21.jpg)  
-Click to enlarge](img/21.jpg)
+Click to enlarge](img/21.jpg.md)
 
 'That is very sad,' said the first little jackal; 'but could he never by
 any chance come to life again? '--' Yes,' answered the other; 'may be he
@@ -731,7 +731,7 @@ him;--no one recognised him but his wife! For eighteen years he had been
 among the nautch people; his hair was rough, his beard untrimmed, his
 face thin and worn, sunburnt and wrinkled; he wore a nose-ring, and
 heavy ear-rings such as the nautch people wear; and his dress was a
-rough common cumlee. <span id="fr_56"></span>[7](#fn_56) All traces of
+rough common cumlee. <span id="fr_56"></span>[7](#fn_56.md) All traces of
 his former self seemed to have disappeared. They asked him if he did not
 remember he had been a Rajah once; and about his journey to Panch-Phul
 Ranee's country. But he said, No, he remembered nothing but how to beat
@@ -846,21 +846,21 @@ days.
 
 ### Footnotes
 
-<span id="fn_50"></span>[1](odd13.htm#fr_50) £15.
+<span id="fn_50"></span>[1](odd13.htm#fr_50.md) £15.
 
-<span id="fn_51"></span>[2](odd13.htm#fr_51) Four or six shillings.
+<span id="fn_51"></span>[2](odd13.htm#fr_51.md) Four or six shillings.
 
-<span id="fn_52"></span>[3](odd13.htm#fr_52) The god Mahadeo is an
+<span id="fn_52"></span>[3](odd13.htm#fr_52.md) The god Mahadeo is an
 incarnation of Siva the Destroyer. The goddess Parbuttee is his wife.
 
-<span id="fn_53"></span>[4](odd13.htm#fr_53) House.
+<span id="fn_53"></span>[4](odd13.htm#fr_53.md) House.
 
-<span id="fn_54"></span>[5](odd13.htm#fr_54) O my child!
+<span id="fn_54"></span>[5](odd13.htm#fr_54.md) O my child!
 
-<span id="fn_55"></span>[6](odd13.htm#fr_55) Child.
+<span id="fn_55"></span>[6](odd13.htm#fr_55.md) Child.
 
-<span id="fn_56"></span>[7](odd13.htm#fr_56) A coarse woollen blanket.
+<span id="fn_56"></span>[7](odd13.htm#fr_56.md) A coarse woollen blanket.
 
 ------------------------------------------------------------------------
 
-[Next: X. How the Sun, the Moon, and the Wind Went Out to Dinner](odd14)
+[Next: X. How the Sun, the Moon, and the Wind Went Out to Dinner](odd14.md)

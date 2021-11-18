@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli19)  [Next](mfli21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli19)  [Next](mfli21.md) 
 
 ------------------------------------------------------------------------
 
@@ -414,4 +414,4 @@ honest man again."
 
 ------------------------------------------------------------------------
 
-[Next: Notes](mfli21)
+[Next: Notes](mfli21.md)

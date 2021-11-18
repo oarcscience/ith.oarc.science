@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb74)  [Next](ptb76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb74)  [Next](ptb76.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ amounts of these times so obtained, by fifteen, the number of equatorial
 hours belonging to each space will be exhibited; and if the division be
 made by twelve, instead of fifteen, the result will show the numbers of
 degrees equivalent to one temporal hour of either of the said spaces
-respectively. <span id="fr_296"></span>[1](#fn_296)
+respectively. <span id="fr_296"></span>[1](#fn_296.md)
 
 The magnitude of any temporal hour may be, however, more easily found by
 referring to the annexed Table of Ascensions, and taking the difference
@@ -39,7 +39,7 @@ compared; and the sixth part of the difference between them is to be
 added, if the said degree be in the northern signs, to the fifteen times
 of an equatorial hour; but subtracted therefrom, if in the southern
 signs. The amount thus obtained will be the required number of degrees
-of the temporal hour in question. <span id="fr_297"></span>[2](#fn_297)
+of the temporal hour in question. <span id="fr_297"></span>[2](#fn_297.md)
 
 And if it be required to reduce the temporal hours of any given day or
 night, in a certain climate, into equatorial hours, they must be
@@ -50,7 +50,7 @@ multiplied by their proper horary times, whether diurnal or nocturnal,
 as the case may be; the product is then to be divided by fifteen, and
 the quotient will necessarily be the number of equatorial hours in the
 climate in question, on the given day or night. <span
-id="fr_298"></span>[1](#fn_298) On the other hand, equatorial hours are
+id="fr_298"></span>[1](#fn_298.md) On the other hand, equatorial hours are
 also to be reduced into temporal hours by being multiplied by fifteen,
 the product of which is to be divided by the horary times proper to the
 given day or night in the said climate.
@@ -65,7 +65,7 @@ be diurnal, but, if nocturnal, to that of the degree diametrically
 opposite, and that particular degree of the ecliptic which shall
 correspond with the total number thus found in the ascensions of the
 climate will be the degree then ascending. <span
-id="fr_299"></span>[2](#fn_299)
+id="fr_299"></span>[2](#fn_299.md)
 
 But, in order to ascertain the degree on the meridian above the earth,
 the number of temporal hours since the preceding noon are also to be
@@ -76,7 +76,7 @@ the ecliptic, with which the total number as found in the aggregate
 <span id="page_150">p. 150</span>
 
 times of right ascension shall correspond, will then be on the
-meridian. <span id="fr_300"></span>[1](#fn_300) The degree on the
+meridian. <span id="fr_300"></span>[1](#fn_300.md) The degree on the
 oriental horizon will, however, also show what degrees occupies the
 meridian; for, by subtracting 90 times (the amount of the quadrant) from
 the aggregate number ascribed to the said ascending degree in the Table
@@ -86,7 +86,7 @@ degree on the meridian. And again, on the other hand, by adding 90 to
 the aggregate times ascribed by right of ascension to the degree on the
 meridian above the earth, the degree ascending may be obtained, for it
 will be that degree which corresponds to that total number, as stated in
-the Table proper to the climate. <span id="fr_301"></span>[2](#fn_301)
+the Table proper to the climate. <span id="fr_301"></span>[2](#fn_301.md)
 
 The Sun always preserves an equal distance in equatorial hours from all
 parts of the same meridian; but his distance in equatorial hours from
@@ -114,14 +114,14 @@ THE LONGEST DAY
 | LONGEST DAY. |     | LATITUDE.                                |     | LONGEST DAY. |     | LATITUDE.                                |     |
 | H.           | M.  | D.                                       | M.  | H.           | M.  | D.                                       | M.  |
 | 12           | 0   | 0                                        | 0   | 16           | 15  | 50                                       | 15  |
-| 12           | 15  | 4                                        | 15  | 16           | 30  |  <span id="fr_302"></span>[2](#fn_303)51 | 35  |
+| 12           | 15  | 4                                        | 15  | 16           | 30  |  <span id="fr_302"></span>[2](#fn_303.md)51 | 35  |
 | 12           | 30  | 8                                        | 25  | 16           | 45  | 52                                       | 50  |
 | 12           | 45  | 12                                       | 30  | 17           | 0   | 54                                       | I   |
 | 13           | 0   | 16                                       | 27  | 17           | 15  | 55                                       | 0   |
 | 13           | 15  | 20                                       | 14  | 17           | 30  | 56                                       | 0   |
 | 13           | 30  | 23                                       | 51  | 17           | 45  | 57                                       | 0   |
 | 13           | 45  | 27                                       | 40  | 18           | 0   | 58                                       | 0   |
-| 14           | 0   |  <span id="fr_303"></span>[1](#fn_302)30 | 22  | 18           | 30  | 59                                       | 30  |
+| 14           | 0   |  <span id="fr_303"></span>[1](#fn_302.md)30 | 22  | 18           | 30  | 59                                       | 30  |
 | 14           | 15  | 33                                       | 18  | 19           | 0   | 61                                       | 0   |
 | 14           | 30  | 36                                       | 0   | 19           | 30  | 62                                       | 0   |
 | 14           | 45  | 38                                       | 35  | 20           | 0   | 63                                       | 0   |
@@ -193,8 +193,8 @@ THE LONGEST DAY
 
 ### Footnotes
 
-<span id="fn_296"></span>[148:1](ptb75.htm#fr_296) Thus (according to
-the Table inserted at [p. 152](#page_152)), in the climate or latitude
+<span id="fn_296"></span>[148:1](ptb75.htm#fr_296.md) Thus (according to
+the Table inserted at [p. 152](#page_152).md), in the climate or latitude
 of Lower Ægypt, the times of ascension between the first point of Gemini
 and the first point of Sagittarius, diametrically opposite, are 205°
 18', which, being divided by 15, give 13 hours 41 minutes and a fraction
@@ -208,7 +208,7 @@ time, as the length of the day of the first point of Gemini; and, if
 divided by 12, they produce 19° 40' and a fraction of the equator, as
 the length of the diurnal temporal hour.
 
-<span id="fn_297"></span>[148:2](ptb75.htm#fr_297) Thus, the aggregate
+<span id="fn_297"></span>[148:2](ptb75.htm#fr_297.md) Thus, the aggregate
 times of ascension, in a right sphere, of the first point of Gemini are
 S7° 44'; and, in the climate of Lower Ægypt, 45° 5': the sixth part of
 the difference between them is 2° 6' and a fraction, which, added to
@@ -221,7 +221,7 @@ and 57° 44' of right ascension is 4° 40' and a fraction, which, added to
 South Britain, equal to 19° 40' and a fraction of the equator, as before
 shown.
 
-<span id="fn_298"></span>[149:1](ptb75.htm#fr_298) For example,
+<span id="fn_298"></span>[149:1](ptb75.htm#fr_298.md) For example,
 
 |                                                                                           |        |     |     |
 |-------------------------------------------------------------------------------------------|--------|-----|-----|
@@ -234,7 +234,7 @@ shown.
 |                                                                                           | 15)236 | 2   | 0   |
 | Diurnal equatorial hours of the first point of Gemini in the latitude of Southern Britain | 15     | 44  | 8   |
 
-<span id="fn_299"></span>[149:2](ptb75.htm#fr_299) Let the first point
+<span id="fn_299"></span>[149:2](ptb75.htm#fr_299.md) Let the first point
 of Gemini be on the meridian above the earth; the number of temporal
 hours since sunrise will then be 6, by which 17° 6' 30" are to
 multiplied. The product will be 102° 39': this, added to 45° 5', the
@@ -245,7 +245,7 @@ be the degree ascending. In the latitude of Southern Britain the total
 number would still amount to the same, viz. 147° 44', but it would show
 7° and about 30' of Virgo to be ascending.
 
-<span id="fn_300"></span>[150:1](ptb75.htm#fr_300) Let the first point
+<span id="fn_300"></span>[150:1](ptb75.htm#fr_300.md) Let the first point
 of Gemini be three temporal hours past the meridian; these hours reduced
 to degrees, in the latitude of Alexandria, will give 51° 19', which,
 added to the right ascension of the first point of Gemini, make 109° 3',
@@ -254,7 +254,7 @@ Southern Britain, these hours would produce 59°, which, added to the
 right ascension, would make 116° 44', and show the 25th degree of Cancer
 on the meridian.
 
-<span id="fn_301"></span>[150:2](ptb75.htm#fr_301) Thus, in the latitude
+<span id="fn_301"></span>[150:2](ptb75.htm#fr_301.md) Thus, in the latitude
 of Alexandria, when the first point of Gemini is three temporal hours
 past the meridian, the 16th degree of Libra will be on the ascendant,
 and the aggregate times of ascension of that degree in the said latitude
@@ -267,11 +267,11 @@ subtracted, the remainder will be 116° 44', the right ascension of the
 mid-heaven answering to the 25th degree of Cancer. The converse of these
 operations seems too obvious to need explanation.
 
-<span id="fn_302"></span>[151:1](ptb75.htm#fr_303) Alexandria.
+<span id="fn_302"></span>[151:1](ptb75.htm#fr_303.md) Alexandria.
 
-<span id="fn_303"></span>[151:2](ptb75.htm#fr_302) Southern Britain.
+<span id="fn_303"></span>[151:2](ptb75.htm#fr_302.md) Southern Britain.
 
 ------------------------------------------------------------------------
 
 [Next: No. III. The Centiloquy, or Hundred Aphorisms of Claudius
-Ptolemy; Otherwise Called, the Fruit of His Four Books](ptb76)
+Ptolemy; Otherwise Called, the Fruit of His Four Books](ptb76.md)

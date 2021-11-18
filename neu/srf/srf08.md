@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srf07)  [Next](srf09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srf07)  [Next](srf09.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 ### I. A Friend in Need
 
 It was a cold and silent November night in the year of grace 1581, or,
-as the Russians then reckoned it, <span id="fr_1"></span>[1](#fn_1) the
+as the Russians then reckoned it, <span id="fr_1"></span>[1](#fn_1.md) the
 year 7089, "from the creation of the world". The moon began to rise over
 Moscow through a purple haze, swollen and dulled, and of the colour of
 molten copper. Superstitious men and women watched it with solemn eyes,
@@ -57,7 +57,7 @@ moonlight. It
 <span id="page_110">p. 110</span>
 
 seemed that night as if the ghosts of murdered princes and
-boyarins <span id="fr_2"></span>[1](#fn_2) were returning to haunt
+boyarins <span id="fr_2"></span>[1](#fn_2.md) were returning to haunt
 lonely chambers, in which they had aforetime feasted and whispered
 treason, surrounded by the spies of the Tsar.
 
@@ -141,7 +141,7 @@ Keith and your own relatives, often as I've been in the town. But
 
 [![SIR JEROME PAYS A VISIT TO THE SCOTS QUARTER IN
 MOSCOW](tn/11200.jpg)  
-Click to enlarge](img/11200.jpg)  
+Click to enlarge](img/11200.jpg.md)  
 SIR JEROME PAYS A VISIT TO THE SCOTS QUARTER IN MOSCOW  
 
  
@@ -418,7 +418,7 @@ our misfortunes in this sad place?" asked Lingett in a solemn voice.
 
 "You can count on me for one," declared Sandy Wood. "Although I'm
 getting old, I'd like to strike a blow against those Krim Tartars, <span
-id="fr_3"></span>[1](#fn_3) who burned old Moskwa and massacred
+id="fr_3"></span>[1](#fn_3.md) who burned old Moskwa and massacred
 thousands o’ men, women, and bairns."
 
 <span id="page_122">p. 122</span>
@@ -783,14 +783,14 @@ in my native town o’ Crail."
 
 ### Footnotes
 
-<span id="fn_1"></span>[108:1](srf08.htm#fr_1) The Julian Calendar was
+<span id="fn_1"></span>[108:1](srf08.htm#fr_1.md) The Julian Calendar was
 introduced by Peter the Great.
 
-<span id="fn_2"></span>[110:1](srf08.htm#fr_2) A class like the English
+<span id="fn_2"></span>[110:1](srf08.htm#fr_2.md) A class like the English
 feudal barons. Also rendered in English "boyars" and "boyards".
 
-<span id="fn_3"></span>[121:1](srf08.htm#fr_3) Tartars of the Crimea.
+<span id="fn_3"></span>[121:1](srf08.htm#fr_3.md) Tartars of the Crimea.
 
 ------------------------------------------------------------------------
 
-[Next: The Man Who Fought the Wolves](srf09)
+[Next: The Man Who Fought the Wolves](srf09.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp03)  [Next](twp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp03)  [Next](twp05.md) 
 
 ------------------------------------------------------------------------
 
@@ -206,4 +206,4 @@ here and there by my own psychic adventures.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](twp05)
+[Next: Chapter III](twp05.md)

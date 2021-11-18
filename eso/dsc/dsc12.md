@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc11) 
-[Next](dsc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc11.md) 
+[Next](dsc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
 <span class="small">"The mind which follows the rambling senses, makes
 the Soul as helpless as the boat which the wind leads astray upon the
 waters."  
-[Bhagavad Gita](errata.htm#2).</span>
+[Bhagavad Gita](errata.htm#2.md).</span>
 
 MAN is man by virtue of *willing*, not by virtue of knowing and
 understanding. As he is, so he sees. His hopes and aspirations are in
@@ -39,7 +39,7 @@ Man has appropriated this form, this coat of skin, for the exercise and
 unfoldment of his Divine Nature. He is *above* Nature, his body is *of*
 Nature.
 
-Man, *Know Thyself*, was mandate of the [Delphic](errata.htm#3) Oracle.
+Man, *Know Thyself*, was mandate of the [Delphic](errata.htm#3.md) Oracle.
 All your efforts, your joys and sorrows, your ups and downs, are to this
 end. You now grasp this thing, soon you drop it; then you grasp that
 thing; soon you drop it;—Not this, Not that, you say. This is the speech
@@ -83,7 +83,7 @@ happiness which is a distorted reflection on the physical plane of your
 own blissful self that is on the spiritual.
 
 It is the natural magnetism of your real self that is drawing you up.
-*Ends ascend as Nature descends*, said [Swedenborg](errata.htm#4), the
+*Ends ascend as Nature descends*, said [Swedenborg](errata.htm#4.md), the
 Mystic. *All things are in a scale; and begin where we will, ascend and
 ascend. All things are symbolical; and what we call results are
 beginnings:* Emerson, on Plato, the philosopher.
@@ -131,7 +131,7 @@ in you. Introduce the thin end of the wedge. Each stroke shall drive it
 deeper. Do not scatter your energy. Do not burn your candle at both
 ends. The secret of success is Concentration. A man may be an omnivorous
 reader. He is a walking Encyclopaedia. His brain is a
-[Bodleian](errata.htm#5) Library. Yet he has no worth, no intrinsic
+[Bodleian](errata.htm#5.md) Library. Yet he has no worth, no intrinsic
 qualities, that can give him that breadth and depth of dignity that go
 out of a man possessing inner force of character.
 
@@ -333,7 +333,7 @@ quickening of your Evolution and so on and on.
 Then steady the mind upon this complete shaping of the virtue. Meditate
 upon it. Dwell upon it. Will determinedly that it shall become
 established in you: that from the moment you are sitting in this
-[attitude](errata.htm#6) of Concentrated willing, all your forces are
+[attitude](errata.htm#6.md) of Concentrated willing, all your forces are
 being transmitted to Chastity: that the protoplasm of your very physique
 are becoming sensitive to the fascination of this virtue: that there is
 a tremendous force being generated right in the centre of your head that
@@ -427,9 +427,9 @@ horrible aspect: love, power, and peace shall flow out of you, and
 chasten others. Guard it well. Wield it for good purposes alone. You are
 now for the divine side of things. Your will is law. Let it be strong
 and guided by Love. That will develop in your nature *Sattvic* or
-[rhythmic](errata.htm#7) qualities. Then shall you find harmony and
+[rhythmic](errata.htm#7.md) qualities. Then shall you find harmony and
 peace.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Who Can Be a Yogi?](dsc13)
+[Next: Chapter XI. Who Can Be a Yogi?](dsc13.md)

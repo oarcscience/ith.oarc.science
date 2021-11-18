@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](mht08)  [Next](mht10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](mht08)  [Next](mht10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Textual Heritage
 <span id="img_05400"></span>
 
 [![](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)
+Click to enlarge](img/05400.jpg.md)
 
 <span id="page_55">p. 55</span>
 
@@ -188,4 +188,4 @@ Click to enlarge](img/05400.jpg)
 
 ------------------------------------------------------------------------
 
-[Next: Section Seven](mht10)
+[Next: Section Seven](mht10.md)

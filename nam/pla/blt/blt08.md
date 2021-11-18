@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt07)  [Next](blt09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt07)  [Next](blt09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ pretty boy. His hair was longer than any other person's in camp.
 
 They soon found the trail of the war party, and followed it for some
 days. At last they came to the Big River, <span
-id="fr_4"></span>[1](#fn_4) and there, on the other side, they saw many
+id="fr_4"></span>[1](#fn_4.md) and there, on the other side, they saw many
 lodges. They crept down a coulée into the valley, and hid in a small
 piece of timber just opposite the camp. Toward evening the man said:
 "*Kyi*, my brothers. To-night I will swim across and look all through
@@ -149,7 +149,7 @@ at once."
 "Pity me," said the woman. "Let me go and get my things. I will surely
 come to-night. I speak the truth."
 
-"How do you speak the truth?" <span id="fr_5"></span>[1](#fn_5) asked
+"How do you speak the truth?" <span id="fr_5"></span>[1](#fn_5.md) asked
 her husband.
 
 "That my relations there across the river may be safe and live long, I
@@ -214,7 +214,7 @@ he jumped out of the brush, and began shooting his arrows, but was soon
 killed.
 
 "My brother is too far on the road alone," <span
-id="fr_6"></span>[1](#fn_6) cried another relation, and he jumped out
+id="fr_6"></span>[1](#fn_6.md) cried another relation, and he jumped out
 and fought, too. What use, one against so many? The Snakes soon had his
 scalp.
 
@@ -299,7 +299,7 @@ chief Snake made a prayer, and gave him to the Sun.
 Every one was now busy getting ready to move camp. This old woman had
 lost her dog, and kept calling out for him and looking all around.
 "*Tsis'-i!*" she cried. "*Tsis'-i!* Come here. Knock the dog on the
-head! <span id="fr_7"></span>[1](#fn_7) Wait till I find him, and I'll
+head! <span id="fr_7"></span>[1](#fn_7.md) Wait till I find him, and I'll
 break his neck."
 
 The people were now all packed up, and some had already started on the
@@ -421,28 +421,28 @@ poor man. To-morrow morning we start back North. If your heart is that
 way, go too and live with us." So these Snakes joined the Piegans and
 lived with them until they died, and their children married with the
 Piegans, and at last they were no longer Snake people. <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_4"></span>[41:1](blt08.htm#fr_4) Missouri River.
+<span id="fn_4"></span>[41:1](blt08.htm#fr_4.md) Missouri River.
 
-<span id="fn_5"></span>[42:1](blt08.htm#fr_5)
+<span id="fn_5"></span>[42:1](blt08.htm#fr_5.md)
 Blackfoot—*Tsa-ki-an-ist-o-man-i?* *i.e.*, How you like truth?
 
-<span id="fn_6"></span>[44:1](blt08.htm#fr_6) Meaning that his brother's
+<span id="fn_6"></span>[44:1](blt08.htm#fr_6.md) Meaning that his brother's
 spirit, or shadow, was travelling alone the road to the Sand Hills, and
 that he must overtake him.
 
-<span id="fn_7"></span>[46:1](blt08.htm#fr_7) A Blackfoot curse.
+<span id="fn_7"></span>[46:1](blt08.htm#fr_7.md) A Blackfoot curse.
 
-<span id="fn_8"></span>[49:1](blt08.htm#fr_8) When the Hudson's Bay
+<span id="fn_8"></span>[49:1](blt08.htm#fr_8.md) When the Hudson's Bay
 Company first established a fort at Edmonton, a daughter of one of these
 Snakes married a white employee of the company, named, in Blackfoot,
 *O-wai*, Egg.
 
 ------------------------------------------------------------------------
 
-[Next: The Lost Children](blt09)
+[Next: The Lost Children](blt09.md)

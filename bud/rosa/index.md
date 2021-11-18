@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH64/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH64/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH64/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rosa00)    [Text
-\[Zipped\]](rosa.txt.gz)
+[Contents](#contents)    [Start Reading](rosa00.md)    [Text
+\[Zipped\]](rosa.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -51,23 +51,23 @@ footnotes are interspersed with the body text, Project Gutenberg style.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rosa00)  
-[Contents](rosa01)  
-[Introduction](rosa02)  
-[Chapter I: History of Zen in China](rosa03)  
-[Chapter II: History of Zen in Japan](rosa04)  
-[Chapter III: The Universe is the Scripture of Zen](rosa05)  
-[Chapter IV: Buddha, The Universal Spirit](rosa06)  
-[Chapter V: The Nature of Man](rosa07)  
-[Chapter VI: Enlightenment](rosa08)  
-[Chapter VII: Life](rosa09)  
+<span id="contents"></span> [Title Page](rosa00.md)  
+[Contents](rosa01.md)  
+[Introduction](rosa02.md)  
+[Chapter I: History of Zen in China](rosa03.md)  
+[Chapter II: History of Zen in Japan](rosa04.md)  
+[Chapter III: The Universe is the Scripture of Zen](rosa05.md)  
+[Chapter IV: Buddha, The Universal Spirit](rosa06.md)  
+[Chapter V: The Nature of Man](rosa07.md)  
+[Chapter VI: Enlightenment](rosa08.md)  
+[Chapter VII: Life](rosa09.md)  
 [Chapter VIII: The Training of the Mind and the Practice of
-Meditation](rosa10)  
-[Appendix: Origin of Man: Preface](rosa11)  
-[Origin of Man: Introduction](rosa12)  
-[Chapter I: Refutation of Delusive and Prejudiced (Doctrine)](rosa13)  
+Meditation](rosa10.md)  
+[Appendix: Origin of Man: Preface](rosa11.md)  
+[Origin of Man: Introduction](rosa12.md)  
+[Chapter I: Refutation of Delusive and Prejudiced (Doctrine)](rosa13.md)  
 [Chapter II: Refutation of Incomplete and Superficial
-(Doctrine)](rosa14)  
-[Chapter III: The Direct Explanation of the Real Origin](rosa15)  
+(Doctrine)](rosa14.md)  
+[Chapter III: The Direct Explanation of the Real Origin](rosa15.md)  
 [Chapter IV: Reconciliation of the Temporary with the Real
-Doctrine](rosa16)  
+Doctrine](rosa16.md)  

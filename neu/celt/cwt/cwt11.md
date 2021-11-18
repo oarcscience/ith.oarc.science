@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cwt10)  [Next](cwt12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cwt10)  [Next](cwt12.md) 
 
 ------------------------------------------------------------------------
 
@@ -387,4 +387,4 @@ again as they had walked from the beginning of time.
 
 ------------------------------------------------------------------------
 
-[Next: The Children of Lir](cwt12)
+[Next: The Children of Lir](cwt12.md)

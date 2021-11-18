@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe006)  [Next](prwe008) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe006)  [Next](prwe008.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ lived happily for many years.
 
 ------------------------------------------------------------------------
 
-[Next: The Giants of Trencrom, or Trecrobben](prwe008)
+[Next: The Giants of Trencrom, or Trecrobben](prwe008.md)

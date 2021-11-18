@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm00)  [Next](tdm02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm00)  [Next](tdm02.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ SANTA FÉ, NEW MEXICO
 
 ------------------------------------------------------------------------
 
-[Next: In Memory](tdm02)
+[Next: In Memory](tdm02.md)

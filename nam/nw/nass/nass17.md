@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass16)  [Next](nass18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass16)  [Next](nass18.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ great chief. Then he married again. He had two wives. (In former times
 they called this "one wife on each side.")
 
 Then the prince started in his canoe to visit the town Chilkat. <span
-id="fr_8"></span>[1](#fn_8) The elks come from this place. The inlanders
+id="fr_8"></span>[1](#fn_8.md) The elks come from this place. The inlanders
 kill them. The prince intended to buy elk skins for copper plates and
 seal meat. Now he arrived at Chilkat. Then he bought elk skins, and he
 took another wife.
@@ -188,9 +188,9 @@ had become a great chief.
 
 ### Footnotes
 
-<span id="fn_8"></span>[194:1](nass17.htm#fr_8) The narrator maintained
+<span id="fn_8"></span>[194:1](nass17.htm#fr_8.md) The narrator maintained
 that this was a place inland near the headwaters of the Nass river.
 
 ------------------------------------------------------------------------
 
-[Next: The Grizzly Bear](nass18)
+[Next: The Grizzly Bear](nass18.md)

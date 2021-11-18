@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws21)  [Next](cws23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws21)  [Next](cws23.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XVIII
 
-#### CONCERNING THE GREEK MYSTERIES <span id="fr_85"></span>[1](#fn_85)
+#### CONCERNING THE GREEK MYSTERIES <span id="fr_85"></span>[1](#fn_85.md)
 
 IN the celebration of the mysteries of Phoibos Apollo, it was forbidden
 to eat anything upon which terrestrial fire had passed. Wherefore all
@@ -26,7 +26,7 @@ sun-baked.
 The last Messengers must be initiated, as were Eve and Adam, into these
 inmost and highest mysteries of the perfect humanity, which constitute
 the highest of all castes, and entitle those who attain to them to sit
-on the golden seats. <span id="fr_86"></span>[2](#fn_86)
+on the golden seats. <span id="fr_86"></span>[2](#fn_86.md)
 
 These mysteries have also an inward significance which is not hard to
 find.
@@ -35,7 +35,7 @@ In the mysteries of Phoibos and Zeus, the initiated attained to the
 condition of a grand Hierophant. ("See! I tell you all things.") He was
 enlightened by the "sun," and was in the fourth interior circle of
 spirits, which is that of the Christs of God. <span
-id="fr_87"></span>[3](#fn_87) To this interior circle Jesus of Nazareth
+id="fr_87"></span>[3](#fn_87.md) To this interior circle Jesus of Nazareth
 aimed to pass after his resuscitation; as was implied when he said, "I
 will drink no more of the grape until I drink its blood *new* in the
 kingdom of God."
@@ -44,7 +44,7 @@ kingdom of God."
 
 In the mysteries of Hermes, the second circle,--the God who guards the
 Soul,--it was forbidden to eat any creature which had life, or, rather,
-which had seeing eyes. <span id="fr_88"></span>[1](#fn_88) For Hermes is
+which had seeing eyes. <span id="fr_88"></span>[1](#fn_88.md) For Hermes is
 the Seer. His votaries partook only of vegetable food, which might be
 cooked with terrestrial fire, and of wine, which might be fermented.
 
@@ -55,7 +55,7 @@ scales, but baked with fire, not raw. Wherefore as that
 Goddess is the Angel of Harmony, or of the Sweet Song, the eating of
 fish became a symbol of brotherly love and union; and two small fishes
 together was the mystical type of little children dwelling together in
-unity or charity. <span id="fr_89"></span>[2](#fn_89) For fishes swim in
+unity or charity. <span id="fr_89"></span>[2](#fn_89.md) For fishes swim in
 pairs; and He who fished for men drew them unto him by love. And all
 fishers were under the protection of the Sea-Queen. There are two
 mystical truths belonging to the mysteries of Maria the Sea-Star; and
@@ -203,31 +203,31 @@ burying them.
 The Gods of the elements, Athena (air), Poseidon (water), Hephaistos
 (fire), and Demeter (earth), are among the greatest, and are close to
 the throne, having universal sway, inasmuch as their empire is
-universal. <span id="fr_90"></span>[1](#fn_90)
+universal. <span id="fr_90"></span>[1](#fn_90.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_85"></span>[48:1](cws22.htm#fr_85) London, March 27, 1881.
+<span id="fn_85"></span>[48:1](cws22.htm#fr_85.md) London, March 27, 1881.
 Received in sleep.
 
-<span id="fn_86"></span>[48:2](cws22.htm#fr_86) See No. XXII. also
+<span id="fn_86"></span>[48:2](cws22.htm#fr_86.md) See No. XXII. also
 *Dreams and Dream-Stories*, No. IX.
 
-<span id="fn_87"></span>[48:3](cws22.htm#fr_87) Comp. *Hymn to Phoibos*,
+<span id="fn_87"></span>[48:3](cws22.htm#fr_87.md) Comp. *Hymn to Phoibos*,
 Part II, No. XI.
 
-<span id="fn_88"></span>[49:1](cws22.htm#fr_88) Comp. Hermes to his
+<span id="fn_88"></span>[49:1](cws22.htm#fr_88.md) Comp. Hermes to his
 Neophytes, Part II, No. XII, pt. 2.
 
-<span id="fn_89"></span>[49:2](cws22.htm#fr_89) Comp. Hymn of Aphrodite,
+<span id="fn_89"></span>[49:2](cws22.htm#fr_89.md) Comp. Hymn of Aphrodite,
 Part II, No. XIV (2).
 
-<span id="fn_90"></span>[52:1](cws22.htm#fr_90) See Part II, No. XIII,
+<span id="fn_90"></span>[52:1](cws22.htm#fr_90.md) See Part II, No. XIII,
 pt. 2, and Appendix, note R.
 
 ------------------------------------------------------------------------
 
 [Next: No. XIX: Concerning The Origin Of Evil, And The Tree As The Type
-Of Creation](cws23)
+Of Creation](cws23.md)

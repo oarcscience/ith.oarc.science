@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](cbc00)  [Next](cbc02) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](cbc00)  [Next](cbc02.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ March 30, 1932
 
 ------------------------------------------------------------------------
 
-[Next: Contents](cbc02)
+[Next: Contents](cbc02.md)

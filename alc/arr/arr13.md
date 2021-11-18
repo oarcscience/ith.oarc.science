@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr12)  [Next](arr14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr12)  [Next](arr14.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ dwells not in that which passes away, but in that which is eternal.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Quintessence (I)](arr14)
+[Next: Chapter III: The Quintessence (I)](arr14.md)

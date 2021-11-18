@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol09)  [Next](pol11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol09)  [Next](pol11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -286,7 +286,7 @@ And Moses made answer, saying:
 
 "They are the descendants of Abraham those whom thou wouldst redeem.
 Which is the nearer to a man, his brother's son, or his son's son? To
-[redeem](errata.htm#2) Lot, his brother's son, Thou didst send angels;
+[redeem](errata.htm#2.md) Lot, his brother's son, Thou didst send angels;
 and now to redeem his own children, six hundred thousand strong, besides
 the women and the young, Thou wouldst send me. To Hagar Thou didst send
 five angels when she fled from Sarah, her mistress; but to sixty
@@ -481,4 +481,4 @@ wonder.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Ten Plagues](pol11)
+[Next: Chapter II. The Ten Plagues](pol11.md)

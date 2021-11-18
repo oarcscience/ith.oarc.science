@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mmi03)  [Next](mmi05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mmi03)  [Next](mmi05.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ WATERBURY, CONN.
 
 ------------------------------------------------------------------------
 
-[Next: 1. San Luiseño Creation Myth](mmi05)
+[Next: 1. San Luiseño Creation Myth](mmi05.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc13)  [Next](moc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc13)  [Next](moc15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -66,7 +66,7 @@ north of the Isthmus from its probably alien aborigines, becoming there
 'Mycenæan', and finally, when its own end was near, forced its way into
 Thessaly, having already reached the Troad in one direction, Cyprus (and
 Philistia later) in another, Sicily and Messapia in another." <span
-id="fr_248"></span>[1](#fn_248)
+id="fr_248"></span>[1](#fn_248.md)
 
 Sir Arthur Evans has divided the history of Ægean civilization in Crete
 into three main periods, named after the legendary king, or Dynasties of
@@ -114,7 +114,7 @@ know that the Minoan civilization was nearly, if not quite, as old as
 the Egyptian. . . . If we date the beginnings of Egyptian history about
 3500 B.C., we have not long to wait before we find indisputable traces
 of connection between Egypt and Crete." <span
-id="fr_249"></span>[1](#fn_249)
+id="fr_249"></span>[1](#fn_249.md)
 
 Early Minoan I begins, therefore, some time after the
 
@@ -161,11 +161,11 @@ the blood and influence of an immigrant population of less impaired
 vigour, which had long been cognizant of and participant in the
 mid-European culture, and was itself, both in origin and development,
 related to the elder society of the Ægean area." <span
-id="fr_250"></span>[1](#fn_250)
+id="fr_250"></span>[1](#fn_250.md)
 
 At what period Crete began to trade with Egypt it is as yet impossible
 to ascertain with certainty. Professor Flinders Petrie <span
-id="fr_251"></span>[2](#fn_251) found, in the lowest levels of the
+id="fr_251"></span>[2](#fn_251.md) found, in the lowest levels of the
 temple at Abydos, black pottery which he concluded came from Crete on
 account of its close resemblance to fragments discovered by Sir Arthur
 Evans in the Late Neolithic deposits of Knossos. He also characterized
@@ -190,7 +190,7 @@ amid ostriches,
 
 oryxes, mountains, and palm-trees: that is to say, they are sailing on
 the Nile with the desert hills and their denizens on either hand." <span
-id="fr_252"></span>[1](#fn_252)
+id="fr_252"></span>[1](#fn_252.md)
 
 All that seems certain in this connection is that shipping was already
 well advanced in pre-Dynastic times. There is no evidence to show
@@ -240,7 +240,7 @@ world. As we have seen, cattle were domesticated in southern France in
 the Aurignacian period of the Palæolithic Age, before the Fourth Glacial
 Epoch.
 
-Mr. Pumpelly <span id="fr_253"></span>[1](#fn_253) has, however,
+Mr. Pumpelly <span id="fr_253"></span>[1](#fn_253.md) has, however,
 demonstrated that climatic changes which took place in the Transcaspian
 oasis caused the early civilization, of which he discovered important
 traces, to vanish entirely. The "Kurgans" were buried by drifting sand,
@@ -256,7 +256,7 @@ features appear in a form so pronounced as to justify the positive
 assertion that the alien element in the mixture was neither Egyptian nor
 did it belong to any of the kindred peoples. It was something quite
 foreign and certainly Asiatic in origin--that variety which Von Luschan
-has called Armenoid." <span id="fr_254"></span>[2](#fn_254) If the
+has called Armenoid." <span id="fr_254"></span>[2](#fn_254.md) If the
 Anatolian "broad-heads" were the distributors of the black pottery
 obtained from the cast, representatives of their stock may have reached
 Crete as well as Egypt before the introduction of metal-working. The
@@ -283,7 +283,7 @@ movement began before the Ægean civilization had attained to such
 consistency in itself and such influence outwards as could have had any
 definite echo in Egypt, then we should have sufficient explanation of
 the fact that of imported remains in Egypt none from the Ægean region go
-back to this early period." <span id="fr_255"></span>[1](#fn_255) The
+back to this early period." <span id="fr_255"></span>[1](#fn_255.md) The
 pottery with geometric designs found by Professor Flinders Petrie at
 Abydos may therefore have come from North Africa.
 
@@ -306,7 +306,7 @@ by no means certain that such relations did not then exist, especially
 since there is a probability that the Ægean civilization was ultimately
 derived, in far-away Neolithic times, from that of Egypt, or rather from
 one of the primitive elements that went to form Egyptian culture." <span
-id="fr_256"></span>[1](#fn_256) It should be mentioned, however, that a
+id="fr_256"></span>[1](#fn_256.md) It should be mentioned, however, that a
 piece of ivory was found in Neolithic strata at Phæstos, in Crete. It
 may have come from Egypt. Shells have also been discovered by Italian
 archæologists in the caves of Liguria, which do not belong to the north
@@ -337,7 +337,7 @@ while the currents from the south come chiefly during the months of
 autumn and early winter. Easterly and westerly breezes are invariably
 light and of short duration. "The cold current rushing over the easy
 north slope of the Balkan, and through the Rumelian gap, gathers force",
-writes Mr. D. G. Hogarth, <span id="fr_257"></span>[1](#fn_257) "as it
+writes Mr. D. G. Hogarth, <span id="fr_257"></span>[1](#fn_257.md) "as it
 nears the African vacuum. Local relief shelters the Adriatic coasts, and
 to some extent western Macedonia, Thessaly, and Bœotia; but Attica
 receives a full draught through the depression between its low hills,
@@ -369,7 +369,7 @@ seaward.
 Early navigators among the isles must have soon learned to take
 advantage of morning and evening breezes as they passed from harbour to
 harbour with their commodities.. In the *Odyssey* <span
-id="fr_258"></span>[1](#fn_258) the wanderer Odysseus spends his last
+id="fr_258"></span>[1](#fn_258.md) the wanderer Odysseus spends his last
 day among the Phæacians on the isle of Scheria longing for the sun to
 set. He
 
@@ -390,7 +390,7 @@ heaven".
 The brightest star of heaven, precursor chief  
 Of day-spring, now arose, when at the isle  
 (Her voyage soon performed) the bark arrived. <span
-id="fr_259"></span>[2](#fn_259)
+id="fr_259"></span>[2](#fn_259.md)
 
 Telemachus also sails at midnight, when
 
@@ -403,13 +403,13 @@ The sable deep, and, sounding, swept the waves . . .
 A land breeze filled the canvas . . .  
 Thus all night long the galley, and till dawn,  
 Had brightened into day, cleared swift the flood. <span
-id="fr_260"></span>[1](#fn_260)
+id="fr_260"></span>[1](#fn_260.md)
 
 In early spring navigation is perilous in the Ægean, and even in summer
 winds may veer suddenly without warning. It was a *meltem* or summer
 gale that caused the ship on which St. Paul was being carried to Italy
 to meet with disaster. The "south wind blew softly", and "they sailed
-close by Crete". <span id="fr_261"></span>[2](#fn_261) Then arose "a
+close by Crete". <span id="fr_261"></span>[2](#fn_261.md) Then arose "a
 tempestuous wind called Euroclydon", a hard north-eastern which comes in
 violent gusts and covers the heaving bays with sheets of foam. "And when
 the ship was caught," says the Biblical narrative, "and could not bear
@@ -417,7 +417,7 @@ up into the wind, we let her drive." The meltem was encountered by the
 captain of the vessel, who paid so little heed to St. Paul's warning, in
 late autumn, when, as was wonted to be said, "sailing was now dangerous
 because the fast was now already past". <span
-id="fr_262"></span>[3](#fn_262)
+id="fr_262"></span>[3](#fn_262.md)
 
 Classic legends of heroes who were shipwrecked like Odysseus, and of sea
 monsters and syrens, are eloquent of the perils which the sea rovers of
@@ -439,7 +439,7 @@ The welcome by this people shown to such.
 They, trusting in swift ships, by the free grant  
 Of Neptune traverse his wide waters, borne  
 As if on wings, or with the speed of thought. <span
-id="fr_263"></span>[1](#fn_263)
+id="fr_263"></span>[1](#fn_263.md)
 
 In early Minoan times Crete must have proved as attractive to settlers
 as it did to traveller Lithgow in 1609, when, describing the plain of
@@ -544,7 +544,7 @@ emissary who was forced to remain in Cyprus, that melancholy man
 laments, gazing across the sea, "Seest thou not the birds which fly,
 which fly back unto Egypt? Look at them; they go unto the cool canal.
 And how long do I remain abandoned here!" <span
-id="fr_264"></span>[1](#fn_264) Let us follow the island mariners to the
+id="fr_264"></span>[1](#fn_264.md) Let us follow the island mariners to the
 homeland of their ancestors, voyaging in the track of migrating birds.
 
 In the Cretan period, Early Minoan I, is embraced the Third Egyptian
@@ -599,7 +599,7 @@ characteristic conversation. "This is a very
 <span id="page_208">p. 208</span>
 
 beautiful vessel," says one, and his comrade replies, "It is,
-indeed." <span id="fr_265"></span>[1](#fn_265)
+indeed." <span id="fr_265"></span>[1](#fn_265.md)
 
 These stone vessels were in great demand, and displaced in the market
 the rough hand-made pottery, which consequently deteriorated in quality;
@@ -686,7 +686,7 @@ progress.
 
 Dr. Duncan Mackenzie, who has acted as Sir Arthur Evans's "lieutenant"
 in Crete, and is "the chief authority on Early Cretan pottery", as
-Professor Burrows says, <span id="fr_266"></span>[1](#fn_266) was the
+Professor Burrows says, <span id="fr_266"></span>[1](#fn_266.md) was the
 first to deal with the development of ceramic art of the island in a
 manner which has thrown much light on the growth of its civilization.
 The American and Italian archæologists acknowledge freely his influence
@@ -694,7 +694,7 @@ and example as an accurate observer, and constantly refer to his
 "masterly analysis" of Knossian ceramic art. He has woven a wonderful
 narrative from the collection of fragments dug out of the soil, setting
 in order what had for so long been confused and obscure. <span
-id="fr_267"></span>[2](#fn_267)
+id="fr_267"></span>[2](#fn_267.md)
 
 Trial pits were sunk at various points on the hill of Knossos and inside
 the palace, with purpose to ascertain the contents and depth of the
@@ -791,7 +791,7 @@ complex; imitation of basket-work is found, and the deeply incised lines
 are filled with white chalk. The vases become more elegant, and have
 decoration in white on a black ground. This pottery is identical with
 that found in the Troad and in Sicily." <span
-id="fr_268"></span>[1](#fn_268)
+id="fr_268"></span>[1](#fn_268.md)
 
 When Cretan pottery attained its highest development in the Middle
 Minoan Period, it found a ready market in Egypt, which never produced
@@ -835,7 +835,7 @@ the sea. but says that "the probability remains that the longer and
 safer route was the original one by which connection was first
 established, and that it was not until the approximate position of
 either Egypt or Sicily was well known that the direct route could be
-first dared". <span id="fr_269"></span>[1](#fn_269)
+first dared". <span id="fr_269"></span>[1](#fn_269.md)
 
 It is probable that the Cretan mariners first came into touch with the
 coast population of Egypt, who were known as the *Haau*, that is, "fen
@@ -853,7 +853,7 @@ applied to them was the *Keftiu*. Maspero has suggested that *Keftiu*
 signified the people and *Keftiu* the land. According to Hall, *Keftiu*
 is the same expression as *Kefti*, "signifying 'at the back of', or
 'behind'; i.e. the land Keftiu. was the 'hinterland', the 'Back of
-Beyond' to the Egyptians". <span id="fr_270"></span>[1](#fn_270) In the
+Beyond' to the Egyptians". <span id="fr_270"></span>[1](#fn_270.md) In the
 Bible Crete is referred to as Caphtor.
 
 Figures of the Keftiu in Egyptian tombs of the Empire Period are
@@ -869,74 +869,74 @@ overthrew the Knossian Dynasty.
 
 ### Footnotes
 
-<span id="fn_248"></span>[192:1](moc14.htm#fr_248) *The Journal of
+<span id="fn_248"></span>[192:1](moc14.htm#fr_248.md) *The Journal of
 Egyptian Archæology*, Vol. I, p. iii (April, 1914).
 
-<span id="fn_249"></span>[193:1](moc14.htm#fr_249) *The Journal of
+<span id="fn_249"></span>[193:1](moc14.htm#fr_249.md) *The Journal of
 Egyptian Archæology*, Vol. I, pp. 111, 112 (April, 1914).
 
-<span id="fn_250"></span>[195:1](moc14.htm#fr_250) *Ionia and the East*,
+<span id="fn_250"></span>[195:1](moc14.htm#fr_250.md) *Ionia and the East*,
 p. 99 (1909).
 
-<span id="fn_251"></span>[195:2](moc14.htm#fr_251) *Abydos*, Vol. II, p.
+<span id="fn_251"></span>[195:2](moc14.htm#fr_251.md) *Abydos*, Vol. II, p.
 38.
 
-<span id="fn_252"></span>[196:1](moc14.htm#fr_252) Journal of Hellenic
+<span id="fn_252"></span>[196:1](moc14.htm#fr_252.md) Journal of Hellenic
 Studies, Vol. XXV., pp. 321 *et seq*.
 
-<span id="fn_253"></span>[197:1](moc14.htm#fr_253) See also *The Pulse
+<span id="fn_253"></span>[197:1](moc14.htm#fr_253.md) See also *The Pulse
 of Asia*, by Professor Huntington, a member of the staff of the Pumpelly
 Expedition in Turkestan.
 
-<span id="fn_254"></span>[197:2](moc14.htm#fr_254) *The Ancient
+<span id="fn_254"></span>[197:2](moc14.htm#fr_254.md) *The Ancient
 Egyptians*, pp. 95, 96.
 
-<span id="fn_255"></span>[198:1](moc14.htm#fr_255) *Journal of Hellenic
+<span id="fn_255"></span>[198:1](moc14.htm#fr_255.md) *Journal of Hellenic
 Studies*, Vol. XXIII, pp. 155 *et seq*.
 
-<span id="fn_256"></span>[199:1](moc14.htm#fr_256) *Journal of Egyptian
+<span id="fn_256"></span>[199:1](moc14.htm#fr_256.md) *Journal of Egyptian
 Archæology*, Vol. I, p. 110, and *Journal of Hellenic Studies*, Vol.
 XXV, p. 337.
 
-<span id="fn_257"></span>[200:1](moc14.htm#fr_257) *The Nearer East*,
+<span id="fn_257"></span>[200:1](moc14.htm#fr_257.md) *The Nearer East*,
 pp. 99 *et seq*.
 
-<span id="fn_258"></span>[201:1](moc14.htm#fr_258) Book XIII.
+<span id="fn_258"></span>[201:1](moc14.htm#fr_258.md) Book XIII.
 
-<span id="fn_259"></span>[201:2](moc14.htm#fr_259) Cowper's translation.
+<span id="fn_259"></span>[201:2](moc14.htm#fr_259.md) Cowper's translation.
 
-<span id="fn_260"></span>[202:1](moc14.htm#fr_260) *Odyssey*, Book II
+<span id="fn_260"></span>[202:1](moc14.htm#fr_260.md) *Odyssey*, Book II
 (Cowper's translation), 530-53.
 
-<span id="fn_261"></span>[202:2](moc14.htm#fr_261) *Acts*, xxvii.
+<span id="fn_261"></span>[202:2](moc14.htm#fr_261.md) *Acts*, xxvii.
 
-<span id="fn_262"></span>[202:3](moc14.htm#fr_262) *Ibid*., xxvii, 9.
+<span id="fn_262"></span>[202:3](moc14.htm#fr_262.md) *Ibid*., xxvii, 9.
 The fast was the great day of atonement in the month of September.
 
-<span id="fn_263"></span>[203:1](moc14.htm#fr_263) *Odyssey*, Book VII
+<span id="fn_263"></span>[203:1](moc14.htm#fr_263.md) *Odyssey*, Book VII
 (Cowper's translation), 39-44.
 
-<span id="fn_264"></span>[206:1](moc14.htm#fr_264) King and Hall's
+<span id="fn_264"></span>[206:1](moc14.htm#fr_264.md) King and Hall's
 *Egyptian and Western Asia in the Light of Recent Discoveries*, p. 430.
 
-<span id="fn_265"></span>[208:1](moc14.htm#fr_265) Breasted's
+<span id="fn_265"></span>[208:1](moc14.htm#fr_265.md) Breasted's
 translation, *A History of Egypt*, p. 96.
 
-<span id="fn_266"></span>[210:1](moc14.htm#fr_266) *The Discoveries in
+<span id="fn_266"></span>[210:1](moc14.htm#fr_266.md) *The Discoveries in
 Crete*, p. 48.
 
-<span id="fn_267"></span>[210:2](moc14.htm#fr_267) Journal of Hellenic
+<span id="fn_267"></span>[210:2](moc14.htm#fr_267.md) Journal of Hellenic
 Studies, XXIII and subsequent volumes.
 
-<span id="fn_268"></span>[213:1](moc14.htm#fr_268) *Palaces of Crete*,
+<span id="fn_268"></span>[213:1](moc14.htm#fr_268.md) *Palaces of Crete*,
 p. 25.
 
-<span id="fn_269"></span>[214:1](moc14.htm#fr_269) *The Annual of the
+<span id="fn_269"></span>[214:1](moc14.htm#fr_269.md) *The Annual of the
 British School at Athens*, VIII, pp. 157-8.
 
-<span id="fn_270"></span>[215:1](moc14.htm#fr_270) *The Annual of the
+<span id="fn_270"></span>[215:1](moc14.htm#fr_270.md) *The Annual of the
 British School at Athens*, VIII, pp. 159-60.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Trading Relations with Troy](moc15)
+[Next: Chapter X. Trading Relations with Troy](moc15.md)

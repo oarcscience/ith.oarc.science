@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui12)  [Next](bui14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui12)  [Next](bui14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ obviously inadequate, the more so when it uses the word "peculiar" as
 describing the morality of Masonry; and it gives no hint of a
 world-encircling fellowship and its far-ramifying influence. Another
 definition has it that Masonry is "a science which is engaged in the
-search after divine truth;" <span id="fr_162"></span>[1](#fn_162) but
+search after divine truth;" <span id="fr_162"></span>[1](#fn_162.md) but
 that is vague, indefinite, and unsatisfactory, lacking any sense of the
 uniqueness of the Order, and as applicable to one science as to another.
 For surely all science, of whatever kind, is a search after divine
@@ -99,7 +99,7 @@ Integrity—Friendship which rises superior to the fictitious distinctions
 of society, the prejudices of religion, and the pecuniary conditions of
 life; Love which knows no limit, nor inequality, nor decay; Integrity
 which binds man to the eternal law of duty." <span
-id="fr_163"></span>[2](#fn_163) Such is indeed the very essence and
+id="fr_163"></span>[2](#fn_163.md) Such is indeed the very essence and
 spirit of Masonry, but Masonry has no monopoly of
 
 <span id="page_241">p. 241</span>
@@ -110,7 +110,7 @@ the genius of all the higher life of humanity. Masonry is not
 everything; it is a thing as distinctly featured as a statue by Phidias
 or a painting by Angelo. Definitions, like delays, may be dangerous, but
 perhaps we can do no better than to adopt the words of the German
-*Handbuch* <span id="fr_164"></span>[1](#fn_164) as the best description
+*Handbuch* <span id="fr_164"></span>[1](#fn_164.md) as the best description
 of it so far given:
 
 <div style="margin-left: 32px">
@@ -172,7 +172,7 @@ There is a common notion that Masonry is a secret society, and this idea
 is based on the secret rites used in its initiations, and the signs and
 grips by which its members recognize each other. Thus it has come to
 pass that the main aims of the Order are assumed to be a secret policy
-or teaching, <span id="fr_165"></span>[1](#fn_165) whereas
+or teaching, <span id="fr_165"></span>[1](#fn_165.md) whereas
 
 <span id="page_244">p. 244</span>
 
@@ -188,7 +188,7 @@ a gracious cover for the practice of sweet charity—making it easier to
 help a fellow man in dire plight without hurting his self-respect. If a
 few are attracted to it by curiosity, all remain to pray, finding
 themselves members of a great historic fellowship of the seekers and
-finders of God. <span id="fr_166"></span>[1](#fn_166) It is old because
+finders of God. <span id="fr_166"></span>[1](#fn_166.md) It is old because
 it is true; had it been false it would have perished long ago. When all
 men practice its simple precepts, the innocent secrets of Masonry will
 be laid bare, its mission accomplished, and its labor done.
@@ -214,7 +214,7 @@ offer because in its ranks it permits no politics, much less party
 rancor. Advocates of the first view have fought Masonry from the
 beginning with the sharpest weapons, while those who hold the second
 view regard it with contempt, as a thing useless and not worth
-fighting. <span id="fr_167"></span>[1](#fn_167)
+fighting. <span id="fr_167"></span>[1](#fn_167.md)
 
 Neither adversary understands Masonry and its cult of the creative love
 for humanity, and of each man for his fellow, without which no dogma is
@@ -252,7 +252,7 @@ Pillars of Society*, resting on rotten foundations, came crashing down,
 wounding the innocent in their wreck. Long ago it was said that "through
 wisdom is an house builded, and by under-standing it is established; and
 by knowledge shall the chambers be filled with pleasant and precious
-riches." <span id="fr_168"></span>[1](#fn_168) Time has shown that the
+riches." <span id="fr_168"></span>[1](#fn_168.md) Time has shown that the
 House of Wisdom must be founded upon righteousness, justice, purity,
 character, faith in God and love of man, else it will fall when the
 floods descend and the winds beat upon it. What we need to make our
@@ -276,7 +276,7 @@ every noble cause succeeds; by as much as she fails, everything fails!
 By its ministry to the individual man—drawing him into the circle of a
 great friendship, exalting his faith, refining his ideals, enlarging his
 sympathies, and setting his feet in the long white path—Masonry best
-serves society and the state. <span id="fr_169"></span>[1](#fn_169)
+serves society and the state. <span id="fr_169"></span>[1](#fn_169.md)
 While it is not a reformatory, it is a center of moral and spiritual
 power, and its power is used, not only to protect the widow and orphan,
 but also, and still more important, to remove the cause of their woe and
@@ -346,7 +346,7 @@ leave the Church and enter the Masonic Lodge, finding there a religious
 home. Even so, but that may be the fault, not of Masonry, but of the
 Church so long defamed by bigotry and distracted by sectarian feud, and
 which has too often made acceptance of abstract dogmas a test of its
-fellowship. <span id="fr_170"></span>[1](#fn_170) Naturally many fine
+fellowship. <span id="fr_170"></span>[1](#fn_170.md) Naturally many fine
 minds have been estranged from the Church, not because they were
 irreligious, but because they were required to believe what it was
 impossible for them to believe; and, rather than sacrifice their
@@ -393,7 +393,7 @@ who doubt it would try it—our love of God, call Him what you will,
 manifested in our love of man, our love of the living, our love of the
 dead, our living and undying love. Who knows but that the crypt of the
 past may become the church of the future? <span
-id="fr_171"></span>[1](#fn_171)</span>
+id="fr_171"></span>[1](#fn_171.md)</span>
 
 </div>
 
@@ -466,21 +466,21 @@ life everlasting!
 
 ### Footnotes
 
-<span id="fn_162"></span>[240:1](bui13.htm#fr_162) *Symbolism of
+<span id="fn_162"></span>[240:1](bui13.htm#fr_162.md) *Symbolism of
 Freemasonry*, by Dr. Mackey.
 
-<span id="fn_163"></span>[240:2](bui13.htm#fr_163) *History and
+<span id="fn_163"></span>[240:2](bui13.htm#fr_163.md) *History and
 Philosophy of Masonry*, by A. C. L. Arnold, chap. xvi. To say of any
 man—of Socrates, for example—who had the spirit of Friendship and
 Integrity, that he was a Mason, is in a sense true, but it is
 misleading. Nevertheless, if a man have not that spirit, he is not a
 Mason, though he may have received the thirty-third degree.
 
-<span id="fn_164"></span>[241:1](bui13.htm#fr_164) Vol. i, p. 320. The
+<span id="fn_164"></span>[241:1](bui13.htm#fr_164.md) Vol. i, p. 320. The
 *Handbuch* is an encyclopedia of Masonry, published in 1900. See
 admirable review of it, *A. Q. C.*, xi, 64.
 
-<span id="fn_165"></span>[243:1](bui13.htm#fr_165) Much has been written
+<span id="fn_165"></span>[243:1](bui13.htm#fr_165.md) Much has been written
 about the secrecy of Masonry. Hutchinson, in his lecture on "The Secrecy
 of Masons," lays all the stress upon its privacy as a shelter for the
 gentle ministry of Charity (*Spirit of Masonry*, lecture x). Arnold is
@@ -494,16 +494,16 @@ teaching of great truths deemed commonplace because old. Even in that
 atmosphere, the real secret of Masonry remains hidden to many—as
 sunlight hides the depths of heaven.
 
-<span id="fn_166"></span>[244:1](bui13.htm#fr_166) Read the noble
+<span id="fn_166"></span>[244:1](bui13.htm#fr_166.md) Read the noble
 chapter on "Prayer as a Masonic Obligation," in *Practical Masonic
 Lectures*, by Samuel Lawrence (lecture x).
 
-<span id="fn_167"></span>[245:1](bui13.htm#fr_167) Read a thoughtful
+<span id="fn_167"></span>[245:1](bui13.htm#fr_167.md) Read a thoughtful
 "Exposition of Freemasonry," by Dr. Paul Carus, *Open Court*, May, 1913.
 
-<span id="fn_168"></span>[247:1](bui13.htm#fr_168) Proverbs 24:3, 4.
+<span id="fn_168"></span>[247:1](bui13.htm#fr_168.md) Proverbs 24:3, 4.
 
-<span id="fn_169"></span>[248:1](bui13.htm#fr_169) While Masonry abjures
+<span id="fn_169"></span>[248:1](bui13.htm#fr_169.md) While Masonry abjures
 political questions and disputes in its Lodges, it is all the while
 training good citizens, and through the quality of its men it influences
 public life—as Washington, Franklin, and Marshall carried the spirit of
@@ -514,7 +514,7 @@ build up a state that will endure the shocks of time; a nobler structure
 than ever was wrought of mortar and marble (*The Principles of
 Freemasonry in the Life of Nations*, by Findel).
 
-<span id="fn_170"></span>[251:1](bui13.htm#fr_170) Not a little
+<span id="fn_170"></span>[251:1](bui13.htm#fr_170.md) Not a little
 confusion has existed, and still exists, in regard to the relation of
 Masonry to religion. Dr. Mackey said that old Craft-masonry was
 sectarian (*Symbolism of Masonry*); but it was not more so than Dr.
@@ -546,9 +546,9 @@ one of the chief causes of sectarianism. It is itself one of the forms
 of beauty wrought by the human soul under the inspiration of the Eternal
 Beauty, and as such is religious.
 
-<span id="fn_171"></span>[253:1](bui13.htm#fr_171) *Chips from a German
+<span id="fn_171"></span>[253:1](bui13.htm#fr_171.md) *Chips from a German
 Workshop*, by Max Müller.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Masonic Philosophy](bui14)
+[Next: Chapter II. The Masonic Philosophy](bui14.md)

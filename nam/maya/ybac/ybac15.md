@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac14)  [Next](ybac16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac14)  [Next](ybac16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Spaniards and the end of their power and religion, so also did those of
 Yucatan some years before they were conquered by Admiral Montejo. In the
 district of Maní, in the province of Tutul-xiu, an Indian named
 **Ah-cambal**, filling the office of **Chilán**, <span
-id="fr_13"></span>[\*](#fn_13) that is one who has charge of giving out
+id="fr_13"></span>[\*](#fn_13.md) that is one who has charge of giving out
 the responses of the demon, told publicly that they would soon be ruled
 by a foreign race who would preach a God and the virtue of a wood which
 in their tongue he called **vahom-ché**, meaning a tree lifted up, of
@@ -85,11 +85,11 @@ approval and disposed of the affairs of Cortés as justice required.
 
 ### Footnotes
 
-<span id="fn_13"></span>[19:\*](ybac15.htm#fr_13) **Ah-cambal** means
+<span id="fn_13"></span>[19:\*](ybac15.htm#fr_13.md) **Ah-cambal** means
 'one who learns, a pupil.' **Chilán** means 'orator.'
 
 ------------------------------------------------------------------------
 
 [Next: XII. Montejo Sails For Yucatan and Takes Possession of the
 Country. The Chels Cede To Him the Site of Chichén Itzá. The Indians
-Force Him to Leave](ybac16)
+Force Him to Leave](ybac16.md)

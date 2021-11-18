@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar03)  [Next](pktar05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar03)  [Next](pktar05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Emperor
 
 <span id="img_ar04"></span> <span align="CENTER"> [![](tn/ar04.jpg)  
-Click to enlarge](img/ar04.jpg)</span>
+Click to enlarge](img/ar04.jpg.md)</span>
 
 He has a form of the *Crux ansata* for his sceptre and a globe in his
 left hand. He is a crowned monarch--commanding, stately, seated on a
@@ -46,4 +46,4 @@ of virtualities contained in the Absolute Being--but this is fantasy.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Hierophant](pktar05)
+[Next: V. The Hierophant](pktar05.md)

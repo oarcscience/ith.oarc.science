@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](rufo12)  [Next](rufo14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](rufo12)  [Next](rufo14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Report on Unidentified Flying Objects*, by Edward J. Ruppelt,
 \[1956\], at Intangible Textual Heritage
 
@@ -674,7 +674,7 @@ Besides being an "Unknown," this report was exceptionally interesting to
 us because the sighting was made from the center of downtown Washington,
 D.C. The professor reported that he had noticed the UFO when he saw
 people all along the street looking up in the air and pointing. He
-estimated that at least 500 people [were](errata.htm#0) looking at it,
+estimated that at least 500 people [were](errata.htm#0.md) looking at it,
 yet his was the only report we received. This seemed to substantiate our
 theory that people are very hesitant to report UFO's to the Air Force.
 But they evidently do tell the newspapers because later on we picked up
@@ -877,4 +877,4 @@ making. It marked the beginning of the end of the Big Flap.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Twelve. The Washington Merry-Go-Round](rufo14)
+[Next: Chapter Twelve. The Washington Merry-Go-Round](rufo14.md)

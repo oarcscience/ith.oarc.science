@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont29)  [Next](ont31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont29)  [Next](ont31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -58,7 +58,7 @@ their brave deeds in battle, the Bloods
 
 <span id="img_36900"></span> <span align="CENTER"> [![HEAD CHIEF OF
 BLOODS.](tn/36900.jpg)  
-Click to enlarge](img/36900.jpg)  
+Click to enlarge](img/36900.jpg.md)  
 HEAD CHIEF OF BLOODS.  
 </span>
 
@@ -84,7 +84,7 @@ the loss of
 
 <span id="img_37000"></span> <span align="CENTER"> [![BLOODS
 DANCING.](tn/37000.jpg)  
-Click to enlarge](img/37000.jpg)  
+Click to enlarge](img/37000.jpg.md)  
 BLOODS DANCING.  
 </span>
 
@@ -110,7 +110,7 @@ cunning, ferocity and physical endurance,
 
 <span id="img_37100"></span> <span align="CENTER"> [![BLOOD CUSTOM OF
 PILING WINTER WOOD.](tn/37100.jpg)  
-Click to enlarge](img/37100.jpg)  
+Click to enlarge](img/37100.jpg.md)  
 BLOOD CUSTOM OF PILING WINTER WOOD.  
 </span>
 
@@ -196,7 +196,7 @@ ammunition, escaped into the forest. The autumn passed and winter came
 on with intense cold and deep snow, but no one could 'find his hiding
 place. One night, in a heavy snow storm, Opiowan left the camp of
 Brings-down-the-Sun, where he had suddenly appeared to demand food and
-[ammunition](errata.htm#3). He lost his way and was followed by the
+[ammunition](errata.htm#3.md). He lost his way and was followed by the
 police, but again managed to elude his pursuers. At last, fearing that
 his wives might desert him while absent on foraging expeditions, he
 hobbled them, tying their hands and feet, but leaving them separated
@@ -223,7 +223,7 @@ and through groves of large
 
 <span id="img_37500"></span> <span align="CENTER"> [![SUN-SHELTER AT
 MIDDAY.](tn/37500.jpg)  
-Click to enlarge](img/37500.jpg)  
+Click to enlarge](img/37500.jpg.md)  
 SUN-SHELTER AT MIDDAY.  
 </span>
 
@@ -310,7 +310,7 @@ Brings-down-the-Sun, he
 
 <span id="img_37800"></span> <span align="CENTER"> [![HERDER LASSOING
 WILD HORSE.](tn/37800.jpg)  
-Click to enlarge](img/37800.jpg)  
+Click to enlarge](img/37800.jpg.md)  
 HERDER LASSOING WILD HORSE.  
 </span>
 
@@ -333,7 +333,7 @@ meadows were bright with a
 
 <span id="img_37900"></span> <span align="CENTER"> [![“A SINGLE HORSEMAN
 APPEARED UPON A RIDGE TO WATCH OUR COURSE.”](tn/37900.jpg)  
-Click to enlarge](img/37900.jpg)  
+Click to enlarge](img/37900.jpg.md)  
 “A SINGLE HORSEMAN APPEARED UPON A RIDGE TO WATCH OUR COURSE.”  
 </span>
 
@@ -419,4 +419,4 @@ and the charming circle was quickly broken.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII. Camp of Brings-down-the-Sun](ont31)
+[Next: Chapter XXVIII. Camp of Brings-down-the-Sun](ont31.md)

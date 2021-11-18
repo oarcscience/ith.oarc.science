@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap18) [Next](chap20)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap18) [Next](chap20.md)
 
 ------------------------------------------------------------------------
 
@@ -363,4 +363,4 @@ half per cent. ?'"
 
 ------------------------------------------------------------------------
 
-[Next: XX Conclusion](chap20)
+[Next: XX Conclusion](chap20.md)

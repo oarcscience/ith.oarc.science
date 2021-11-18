@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](mcm15)  [Next](mcm17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](mcm15)  [Next](mcm17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Musings of a Chinese Mystic*, by Lionel Giles, \[1906\], at Intangible
 Textual Heritage
 
@@ -83,7 +83,7 @@ pleasure of fishes."
 
 original question. You asked me how I knew in what consists the pleasure
 of fishes. Your very question shows that you knew I knew. <span
-id="fr_27"></span>[1](#fn_27) I knew it from my own feelings on this
+id="fr_27"></span>[1](#fn_27.md) I knew it from my own feelings on this
 bridge."
 
 .        .        .        .        .
@@ -134,9 +134,9 @@ Aylesbury*.</span></span>
 
 ### Footnotes
 
-<span id="fn_27"></span>[111:1](mcm16.htm#fr_27) For you asked me *how*
+<span id="fn_27"></span>[111:1](mcm16.htm#fr_27.md) For you asked me *how*
 I knew.
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](mcm17)
+[Next: Advertisements](mcm17.md)

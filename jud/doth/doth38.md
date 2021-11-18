@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth37)  [Next](doth39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth37)  [Next](doth39.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@
 ### <span class="smallcaps">Of Trust in God</span>
 
 <span class="smallcaps">Of</span> all things the most necessary to him
-who would serve God, <span id="fr_12"></span>[\*](#fn_11) is trust in
+who would serve God, <span id="fr_12"></span>[\*](#fn_11.md) is trust in
 God.
 
   .     .     .     .     .     .     .
@@ -91,7 +91,7 @@ trouble caused by any want in the satisfaction of bodily appetites.
 
 ### Footnotes
 
-<span id="fn_11"></span>[42:\*](doth38.htm#fr_12) It must be remembered
+<span id="fn_11"></span>[42:\*](doth38.htm#fr_12.md) It must be remembered
 that Bachye regards moral virtues, aid all righteous conduct, as part of
 the service of God.
 
@@ -99,6 +99,6 @@ the service of God.
 
 ------------------------------------------------------------------------
 
-[Next: Keeping Account with the Soul](doth39)
+[Next: Keeping Account with the Soul](doth39.md)
 
 </div>

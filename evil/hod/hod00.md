@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Next](hod01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Next](hod01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -45,10 +45,10 @@ States because it was published prior to 1923
 
 <span id="img_front"></span> <span align="CENTER">
 [![Frontispiece](tn/generic.jpg)  
-Click to view](img/front.jpg)  
+Click to view](img/front.jpg.md)  
 Frontispiece  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](hod01)
+[Next: Contents](hod01.md)

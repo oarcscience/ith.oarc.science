@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob51) 
-[Next](tob53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob51.md) 
+[Next](tob53.md) 
 
 ------------------------------------------------------------------------
 
@@ -441,4 +441,4 @@ from the exact meaning of the card.
 ------------------------------------------------------------------------
 
 [Next: Third Lesson. Major Arcana. Signification from the Divining Point
-of View](tob53)
+of View](tob53.md)

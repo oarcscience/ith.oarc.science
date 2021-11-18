@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](land14)  [Next](land16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](land14)  [Next](land16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *New Lands*, by Charles Fort, \[1923\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ M. Maxton, of Foulis Manse, ten miles from Comrie, rattling sounds were
 heard in the sky, preceding the shock that was felt. In vol. 33, p. 373,
 of the Journal, someone who lived seven miles from Comrie is quoted: "In
 every case, I am inclined to say that the sound proceeded not from
-[underground](errata.htm#0). The sound seemed high in the air." Someone
+[underground](errata.htm#0.md). The sound seemed high in the air." Someone
 who lived at Gowrie, forty miles from Comrie, is quoted: "The most
 general opinion seems to be that the noise accompanying the concussion
 proceeded from above." See vol. 34, p. 87: another impression of
@@ -402,4 +402,4 @@ Rowley ragstone outwardly, but had a different appearance when broken.
 
 ------------------------------------------------------------------------
 
-[Next: 16](land16)
+[Next: 16](land16.md)

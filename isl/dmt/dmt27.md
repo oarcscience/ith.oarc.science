@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt26)  [Next](dmt28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt26)  [Next](dmt28.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ W. S. BLUNT: *The Future of Islam*. London, 1880.
 
 ------------------------------------------------------------------------
 
-[Next: III. On Muslim Traditions and Law](dmt28)
+[Next: III. On Muslim Traditions and Law](dmt28.md)

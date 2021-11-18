@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph32)  [Next](aph34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph32)  [Next](aph34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -200,7 +200,7 @@ had appeared, so rapidly altered that the two young girls recoiled. The
 cheeks had taken on a square shape, the eyelids and the lips were
 swollen like six white cushions. Already nothing remained of the more
 than human beauty. They closed the thick shroud. But
-[Myrto](errata.htm#4) slipped her hand under the stuff to place the
+[Myrto](errata.htm#4.md) slipped her hand under the stuff to place the
 obolos destined for Charon in Chrysis’s fingers.
 
 <span id="page_251">p. 251</span>
@@ -243,4 +243,4 @@ THE END
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](aph34)
+[Next: Advertisements](aph34.md)

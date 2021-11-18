@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw11)  [Next](isw13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw11)  [Next](isw13.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ That is the world's bane.'
 
 ------------------------------------------------------------------------
 
-[Next: Comment by Yeats](isw13)
+[Next: Comment by Yeats](isw13.md)

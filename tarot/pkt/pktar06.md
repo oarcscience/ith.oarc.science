@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar05)  [Next](pktar07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar05)  [Next](pktar07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Lovers
 
 <span id="img_ar06"></span> <span align="CENTER"> [![](tn/ar06.jpg)  
-Click to enlarge](img/ar06.jpg)</span>
+Click to enlarge](img/ar06.jpg.md)</span>
 
 The sun shines in the zenith, and beneath is a great winged figure with
 arms extended, pouring down influences. In the foreground are two human
@@ -49,4 +49,4 @@ were false in symbolism.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Chariot](pktar07)
+[Next: VII. The Chariot](pktar07.md)

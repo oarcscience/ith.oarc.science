@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas_00)  [Next](jas_02) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas_00)  [Next](jas_02.md) 
 
 ------------------------------------------------------------------------
 
@@ -807,4 +807,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface.](jas_02)
+[Next: Preface.](jas_02.md)

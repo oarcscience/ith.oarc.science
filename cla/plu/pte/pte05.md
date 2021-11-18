@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](pte04)  [Next](pte06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](pte04)  [Next](pte06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Plutarch's Morals: Theosophical Essays*, tr. by Charles William King,
 \[1908\], at Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ story, like some old painting, by the touch.
 II\. Shortly before the Pythian games held under Callistratus, there
 happened to be two holy men, met together from the opposite limits of
 the world at Delphi, visiting me. They were Demetrius the
-grammarian, <span id="fr_50"></span>[1](#fn_50) returning home to Tarsus
+grammarian, <span id="fr_50"></span>[1](#fn_50.md) returning home to Tarsus
 out of Britain, and Cleombrotus the
 
 <span id="page_73">p. 73</span>
@@ -69,7 +69,7 @@ III\. When the rest of the company expressed our astonishment, and
 Demetrius had remarked "that it was ridiculous to draw such important
 inferences from trifling facts; which was not, as Alcæus hath it,
 'painting the lion from his talon,' but the measuring <span
-id="fr_51"></span>[1](#fn_51) the heavens and universe with a wick and a
+id="fr_51"></span>[1](#fn_51.md) the heavens and universe with a wick and a
 lamp, and utterly upsetting all mathematicks." Cleombrotus answered,
 "Those people make no such attempt to upset that science: only they will
 not concede the point of accuracy to the mathematicians, considering
@@ -93,14 +93,14 @@ the obligation. Again, when he styles Night ('rapid' or 'pointed'), you
 ought to be glad to lay hold upon this epithet, and say this very thing
 implies the shadow of the earth to be *conical* out of spherical. The
 medical art, too, foretells a sickly summer from the multitude of
-spiders, <span id="fr_52"></span>[1](#fn_52) and from the Spring
+spiders, <span id="fr_52"></span>[1](#fn_52.md) and from the Spring
 fig-leaves, when they grow like a crow's foot—facts omitted by none of
 those that pretend small things to be the signs of great ones. And who
 will have the impudence to measure the magnitude of the Sun against a
-pitcher and a cup of water; <span id="fr_53"></span>[2](#fn_53) or that
+pitcher and a cup of water; <span id="fr_53"></span>[2](#fn_53.md) or that
 this square here, which makes what is called an *acute* angle with the
 plane, should be the measurement of the altitude by which the …  <span
-id="fr_54"></span>[3](#fn_54) always visible from the horizon is
+id="fr_54"></span>[3](#fn_54.md) always visible from the horizon is
 elevated from the poles—for this fact was to be learnt from means like
 these.
 
@@ -127,7 +127,7 @@ stars have passed out of sight, whilst some touch, and are confounded
 with each other, from the failure of the space between. And if you
 should pretend that whilst all the rest remain as they were, only the
 sun grows irregular in his motions, you <span
-id="fr_55"></span>[1](#fn_55) will neither be able to assign the cause
+id="fr_55"></span>[1](#fn_55.md) will neither be able to assign the cause
 that accelerates his course alone out of so vast a number of others; and
 you will at once throw into confusion the greatest part of astronomical
 facts, those connected with the moon utterly, so that there will be no
@@ -184,9 +184,9 @@ prophet of the oracle there uttered in the Æolic language a response to
 the envoys of the foreigners, so that none of the holy men present
 understood what he was saying: because barbarians have no partnership in
 inspiration—neither is it granted unto them to receive a language that
-subserves what is ordained. <span id="fr_56"></span>[1](#fn_56) And the
+subserves what is ordained. <span id="fr_56"></span>[1](#fn_56.md) And the
 slave who was sent to the temple of Amphiaraus dreamed in the usual
-sleep, <span id="fr_57"></span>[2](#fn_57) that a minister of the god
+sleep, <span id="fr_57"></span>[2](#fn_57.md) that a minister of the god
 appeared, and at first drove him away by word of mouth alone, on the
 score that the deity was not at home, but afterwards pushed him out with
 his hands, but when he persisted in staying, the minister took up a
@@ -249,7 +249,7 @@ way you shall not have to contract your brows in discussing the same."
 VII\. As soon therefore as we had joined company and sat down amongst
 them, and he had laid the question before us, then Didymus the Cynic, by
 surname Planetiades, jumped up, and striking on the ground two or three
-times with his staff, <span id="fr_58"></span>[1](#fn_58) cried out,
+times with his staff, <span id="fr_58"></span>[1](#fn_58.md) cried out,
 "Ho, ho! A difficult problem, truly, one demanding much investigation,
 is what you are come to bring us: for it were a wonder, when so much
 wickedness is spread abroad, if not merely Modesty and Shame (as Hesiod
@@ -288,7 +288,7 @@ the oracles were established in many places. Come hither, pray, sit down
 again, and after making a 'Pythian truce' with Vice, which you are wont
 ever to chastise with your speech, assist us in seeking for some other
 cause of the aforesaid cessation of oracles; but keep the god in good
-humour, and exempt from blame." <span id="fr_59"></span>[1](#fn_59) By
+humour, and exempt from blame." <span id="fr_59"></span>[1](#fn_59.md) By
 saying this I effected thus much—that Planetiades walked out through the
 folding-doors without saying a word.
 
@@ -333,12 +333,12 @@ animal, a dragon that haunts it, which they improperly assume as the
 *desertion* that brought the creature thither, and not the creature has
 caused the desertion of the place. For at what time, as it so pleased
 God, Greece was strong in cities, and the place <span
-id="fr_60"></span>[1](#fn_60) was thronged with people, they used to
+id="fr_60"></span>[1](#fn_60.md) was thronged with people, they used to
 employ two prophetesses, sitting in turn, whilst a third was appointed
 as assistant to them. At present, there is a single prophetess, and we
 do not grumble, for she is amply sufficient for those that want her
 services. We ought not therefore to make the god in fault, for the
-oracular power <span id="fr_61"></span>[2](#fn_61) that still exists and
+oracular power <span id="fr_61"></span>[2](#fn_61.md) that still exists and
 survives is sufficient for all requirements, and sends away everyone
 satisfied in what they demand. Just as Agamemnon employed nine criers
 and yet hardly kept the assembly in order, by reason of its greatness,
@@ -442,7 +442,7 @@ propagation in its own turn; whilst they who read 'old' in the place of
 'young,' assign one hundred and eight years to a generation, on the
 ground that fifty and four years are the mark of the middle of human
 life, being a number made up out of unity, the two first even numbers,
-two squares, and two cubes, <span id="fr_62"></span>[1](#fn_62) which
+two squares, and two cubes, <span id="fr_62"></span>[1](#fn_62.md) which
 calculations Plato too has accepted in his 'Generation of Souls.' But
 the whole story of Hesiod's seems to have an obscure allusion to the
 general conflagration, when it is natural to suppose that together with
@@ -460,8 +460,8 @@ and I behold the Stoical 'general conflagration,' as it devours the
 verses of Heraclitus and of Orpheus, at the same time attacking the
 lines of Hesiod: but I do not put up with talk about the destruction of
 the universe, and as for things impossible, particularly stories about
-the Crow and the Deer.…… <span id="fr_63"></span>[2](#fn_63) For the
-*year* <span id="fr_64"></span>[3](#fn_64) does
+the Crow and the Deer.…… <span id="fr_63"></span>[2](#fn_63.md) For the
+*year* <span id="fr_64"></span>[3](#fn_64.md) does
 
 not supply all at once within itself (its course) every thing that the
 seasons bring forth, and the earth produces, neither is it called a
@@ -600,7 +600,7 @@ hymns, here the rapes, there the wanderings, the hidings, and
 banishments, and servitudes, are not of the gods, but are the sufferings
 and vicissitudes of dæmons, converted into legends on account of the
 superiority and power of these beings, and neither has Æschylus
-said, <span id="fr_65"></span>[1](#fn_65)
+said, <span id="fr_65"></span>[1](#fn_65.md)
 
 <div style="margin-left: 32px">
 
@@ -627,7 +627,7 @@ sacred rites. But when Philip (for
 <span id="page_90">p. 90</span>
 
 the historian was present) expressed his surprise at this statement, and
-inquired upon what deities <span id="fr_66"></span>[1](#fn_66) he
+inquired upon what deities <span id="fr_66"></span>[1](#fn_66.md) he
 supposed the actors in the theatre declaimed? 'upon those,' replied he,
 'that belong to this Oracle, into whose mysteries the city lately
 initiated all the Greeks dwelling beyond Pylæ, and marched out as far as
@@ -653,7 +653,7 @@ absurd and marvellous, but if it contains some portion of truth, let us
 not think it was something trifling and commonplace that was done with
 respect to the Oracle in those ancient times. But that I may not appear
 to be as Empedocles says, 'to be fitting <span
-id="fr_67"></span>[2](#fn_67)
+id="fr_67"></span>[2](#fn_67.md)
 
 <span id="page_91">p. 91</span>
 
@@ -747,7 +747,7 @@ XVIII\. Demetrius said, that of the islands lying round Britain, there
 were many desert, and scattered about, some of which were named after
 dæmons and heroes; and that he, for the purpose of inquiry and
 investigation, sailed, by the *emperor's order*, <span
-id="fr_68"></span>[1](#fn_68) to that which lay nearest of the desert
+id="fr_68"></span>[1](#fn_68.md) to that which lay nearest of the desert
 isles, which had but a few inhabitants, and those *religious* men, and
 held sacred by the Britons. Just after his landing,
 
@@ -758,7 +758,7 @@ of wind burst down, and whirlwinds descended. But when it was calm
 again, the islanders said, that the extinction had taken place of some
 one of the superior powers, for as (said they) a lamp when burning does
 no harm, but being put out is noxious to many people, <span
-id="fr_69"></span>[1](#fn_69) in like manner great souls, when first
+id="fr_69"></span>[1](#fn_69.md) in like manner great souls, when first
 kindled, are benignant and harmless, whilst their going out and
 dissolution, often, as in the present case, stirs up stormy winds, and
 aërial tumults; nay, often infects the air with pestilential tendencies.
@@ -781,7 +781,7 @@ amongst so many worlds, not one that is guided by Divine order, but all
 of them spontaneously created and put together. But if we must laugh in
 matter of philosophy, we ought to laugh at their *spectra*, which, being
 both dumb, blind, and lifeless, *where do they remain* <span
-id="fr_70"></span>[2](#fn_70) during infinite periods of time? making
+id="fr_70"></span>[2](#fn_70.md) during infinite periods of time? making
 their appearance,
 
 <span id="page_95">p. 95</span>
@@ -790,13 +790,13 @@ and roaming about everywhere—*spectra* thrown off, partly from persons
 yet living, partly from those long ago reduced to ashes, or mouldered
 into dust, whilst their inventors drag bubbles and shadows into the
 domains of Natural History, and go into a rage <span
-id="fr_71"></span>[1](#fn_71) if any one says there *are* dæmons, not
+id="fr_71"></span>[1](#fn_71.md) if any one says there *are* dæmons, not
 only by nature, but by report, and that they possess the power of
 preserving themselves and lasting for an immense time."
 
 XX\. After these things had been said, Ammonius went on: "Theophrastus
 seems to me to have given sentence rightly, <span
-id="fr_72"></span>[2](#fn_72) for what objection is there to accepting a
+id="fr_72"></span>[2](#fn_72.md) for what objection is there to accepting a
 sentiment at once noble and in the highest degree philosophical.
 Rejecting as it does many of things possible, yet not capable of being
 proved, it ignores them entirely; and being accepted as a rule, will
@@ -843,13 +843,13 @@ time in company with the pastoral nymphs, and with the dæmons, as he
 asserted, and with whom I obtained a conference and friendly reception.
 He was the handsomest of all men to look at, lived ever free from all
 disease, eating once a month the fruit of a certain herb that was like a
-drug <span id="fr_73"></span>[1](#fn_73) and bitter to taste. He
+drug <span id="fr_73"></span>[1](#fn_73.md) and bitter to taste. He
 understood
 
 <span id="page_97">p. 97</span>
 
 several languages, but to me he chiefly spake Doric, <span
-id="fr_74"></span>[1](#fn_74) not far removed from poetry. Whilst he was
+id="fr_74"></span>[1](#fn_74.md) not far removed from poetry. Whilst he was
 speaking, perfume filled the air, from his mouth sending forth the
 sweetest smell. His other learning and recollections continued with him
 the whole time; but as regards *prophecy* he was inspired but for one
@@ -873,7 +873,7 @@ against Osiris, and Saturn against Uranus; of both of whom the honours
 have consequently become tarnished; or else these legends refer to such
 as have completely migrated to another world; since I learn that the
 Solymi, neighbours of the Lyceans, pay the highest honours to
-Saturn; <span id="fr_75"></span>[2](#fn_75) but
+Saturn; <span id="fr_75"></span>[2](#fn_75.md) but
 
 <span id="page_98">p. 98</span>
 
@@ -905,7 +905,7 @@ alarmed at the notion of a plurality, as though when they did not limit
 the number to *one*, but went farther, an indefinite and perplexing
 infinity would take them up." "But," said I, "did the stranger decide
 about the plurality of worlds in the same way as does Plato, at what
-time you were in his company, <span id="fr_76"></span>[1](#fn_76) or did
+time you were in his company, <span id="fr_76"></span>[1](#fn_76.md) or did
 you
 
 <span id="page_99">p. 99</span>
@@ -929,7 +929,7 @@ is, if they shall have lived a virtuous life. The best of our initiatory
 rites here below are the dreamy shadow of that spectacle, and of that
 rite; and the words used therein are ingeniously devised for the purpose
 of reminding us of the beauties of that place—or else are used to no
-purpose at all. <span id="fr_77"></span>[1](#fn_77) All this did I hear
+purpose at all. <span id="fr_77"></span>[1](#fn_77.md) All this did I hear
 him reciting exactly as though he were so doing at some ceremony, or
 rite of initiation, without offering any evidence or proof of his
 statements."
@@ -937,7 +937,7 @@ statements."
 XXIII\. Then I, addressing Demetrius, said: "How do the words of the
 suitors run, when they are wondering at Ulysses whilst handling the
 bow?" and when Demetrius had repeated them, <span
-id="fr_78"></span>[2](#fn_78) I continued: "The very same thing
+id="fr_78"></span>[2](#fn_78.md) I continued: "The very same thing
 
 <span id="page_100">p. 100</span>
 
@@ -966,7 +966,7 @@ beautiful forms and patterns of bodies with the divisions of the
 Universe, and calls them Five Worlds—viz., that of Earth, that of Water.
 that of Air, that of Fire, and last, that which envelopes them
 all—namely, that of the Twelve-sided figure, which is widely diffused
-and versatile, <span id="fr_79"></span>[1](#fn_79) by which supposition,
+and versatile, <span id="fr_79"></span>[1](#fn_79.md) by which supposition,
 forsooth, he has invented a figure the most appropriate and
 
 <span id="page_101">p. 101</span>
@@ -1039,7 +1039,7 @@ may disturb the constitution
 
 of *this*—there is no good cause for such apprehension. For if there be
 a plurality of worlds, and each one has individually had allotted to it
-an existence <span id="fr_80"></span>[1](#fn_80) and materials
+an existence <span id="fr_80"></span>[1](#fn_80.md) and materials
 possessing both measure and limitation, there is nothing left irregular
 or disorderly, like a superfluity, to dash against it from external
 space. For the Reason presiding over each world, being master of the
@@ -1124,7 +1124,7 @@ For the latter would be absurd in his conception; and equally so the man
 who makes a fuss if things collectively employ their own parts, which
 have their natural position and order inherent in each of them; for it
 were utterly absurd should any one assert that there is a world <span
-id="fr_81"></span>[1](#fn_81) … containing in itself the moon, just as
+id="fr_81"></span>[1](#fn_81.md) … containing in itself the moon, just as
 though a man should carry his brain in his heels and his heart in his
 temples. But that in supposing several worlds distinct from each other,
 you define and divide their parts in conformity with the whole, this is
@@ -1158,7 +1158,7 @@ at a loss to know what possessed him when he supposed that the world is
 fixed in the centre, and that its essence having taken possession of
 this middle place from all eternity, has principally worked it up for
 the object of stability, and as it were, for incorruptibility. <span
-id="fr_82"></span>[1](#fn_82) For this very thing he asserts in his
+id="fr_82"></span>[1](#fn_82.md) For this very thing he asserts in his
 Fourth Book 'Upon Possibilities,' where he is dreaming absurdly about a
 centre of infinity,' and still more preposterously ascribing the
 efficient cause of the perpetuity of the world to the 'centre that has
@@ -1173,14 +1173,14 @@ either tending towards the centre thereof, or away from the centre.'
 XXIX\. "And again, who will be frightened by the objections of the
 stoics, when they ask how will a single Fate and a single Providence
 stand, or bow will there not be several Jupiters and several Joves if
-there be a plurality of worlds? <span id="fr_83"></span>[1](#fn_83) In
+there be a plurality of worlds? <span id="fr_83"></span>[1](#fn_83.md) In
 the first place, then, if the notion of there being several Jupiters and
 Joves be absurd, surely those ideas of their own are much more absurd:
 for suns, and moons, and Apollos, and Dianas, and Neptunes they suppose
 in infinite numbers in their infinite revolutions of worlds. Secondly,
 what absolute necessity is there for there being several Jupiters, if
 there be a 'plurality of worlds; and not <span
-id="fr_84"></span>[2](#fn_84) one Ruler and Director of the Whole to
+id="fr_84"></span>[2](#fn_84.md) one Ruler and Director of the Whole to
 each—a God possessing Reason and Intelligence, in the same way as He
 that is with us, entitled Lord and Father of all?' Or what objection is
 there to all these worlds being subject to the Fate and the Providence
@@ -1220,7 +1220,7 @@ attracted by the pleasure of the spectacle, and assist Nature in the
 direction of them respectively. For Homer's Jove turns his eyes, no very
 great distance, from Troy to the parts of Thrace and the wandering
 tribes around the Danube; but the True One enjoys beautiful and
-congenial changes of sights <span id="fr_85"></span>[1](#fn_85) in
+congenial changes of sights <span id="fr_85"></span>[1](#fn_85.md) in
 numerous worlds; He does not behold an infinite vacuum, nor contemplates
 Himself in solitary grandeur (as some do hold) and nothing else besides;
 but looks down upon the many operations of gods and men, the motions and
@@ -1242,11 +1242,11 @@ very unseemly or hardly conceivable idea."
 XXXI\. Having spoken thus much I stopped; but Philip, after a short
 interval, replied: "Whether the truth about these matters be so, or of a
 different sort, I will not take upon myself to decide. But if we remove
-the Deity out of a *single* world, <span id="fr_86"></span>[1](#fn_86)
+the Deity out of a *single* world, <span id="fr_86"></span>[1](#fn_86.md)
 why do we suppose Him the Creator of *five* only; and what is the
 argument for this restriction in their number—a thing, I ween, I should
 be better pleased to learn than what was the meaning of the dedication
-of the golden E in this temple? <span id="fr_87"></span>[2](#fn_87) for
+of the golden E in this temple? <span id="fr_87"></span>[2](#fn_87.md) for
 it (the number) clearly is neither triangular nor square, nor perfect
 nor cubical, or presenting any other curiosity of the sort for such as
 love and admire speculations of that kind; and the getting at it from
@@ -1293,7 +1293,7 @@ itself, we must look for the cause of these
 <span id="page_111">p. 111</span>
 
 properties and vicissitudes in each element. The element of Fire is the
-Pyramid, <span id="fr_88"></span>[1](#fn_88) made up out of the
+Pyramid, <span id="fr_88"></span>[1](#fn_88.md) made up out of the
 four-and-twenty primitive triangles; that of Air is the Octohedron, made
 up out of eight-and-forty of the same. One element, therefore, of Air
 results from two of Fire, mixed together and united; that of Air being
@@ -1362,7 +1362,7 @@ of the divisions in locality; whence Plato, in opposition to such as
 make out the All to be One, declares *that which is* to be both the Same
 and Different, and over all, Motion and Rest. There being then these
 five figures, it were to be wondered at, if of the five corporeal
-elements <span id="fr_89"></span>[1](#fn_89) each one had been produced
+elements <span id="fr_89"></span>[1](#fn_89.md) each one had been produced
 as a copy and image of each quality—not, indeed, pure and unmixed, but
 participating as far as possible in each power each in its turn. For the
 Cube is palpably the proper emblem of Rest; on account of the security
@@ -1380,7 +1380,7 @@ therefore, Nature demands an equilibrium in all things, it is probable
 that the worlds are neither more nor less than their patterns, in order
 that each may have for each a rule of government and of power, just as
 it has got in the constitutions of bodies? <span
-id="fr_90"></span>[2](#fn_90)
+id="fr_90"></span>[2](#fn_90.md)
 
 XXXV\. "Not but that these several divisions are a consolation to him
 that wonders why we divide the Nature existing in births and changes,
@@ -1392,8 +1392,8 @@ species. Examine the case attentively in company with me: and observe
 how that of the highest Powers (I mean the One, and the undefined Two)
 that which is the element of all deformity and disorder is denominated
 'infinity,' whereas the nature of the One that limits and checks <span
-id="fr_91"></span>[1](#fn_91) the empty, <span
-id="fr_92"></span>[2](#fn_92) undefined, irrational nature of infinity,
+id="fr_91"></span>[1](#fn_91.md) the empty, <span
+id="fr_92"></span>[2](#fn_92.md) undefined, irrational nature of infinity,
 renders it capable of form, and will produce it in some way or another
 obedient to, and susceptible of the consequent division into categories
 as regards the objects of intellect, and the Principles themselves make
@@ -1489,7 +1489,7 @@ when he is proving that whatever is subdivided, or composite, does,
 along with the alteration of the essence, also change the form. For if
 Fire be produced from Air, in consequence of the Octahedron being
 dissolved, and split up into pyramids; <span
-id="fr_93"></span>[1](#fn_93) or on the contrary, Air out of Fire, when
+id="fr_93"></span>[1](#fn_93.md) or on the contrary, Air out of Fire, when
 it is driven together and compressed into the Octahedron—it is not
 possible for it to remain where it was at first, but it flies and is
 borne along into another place, forcing its way and struggling with all
@@ -1497,7 +1497,7 @@ that oppose and check its course. But the case is better illustrated by
 a comparison: those using the various instruments for the winnowing of
 wheat observe that the elements shaking the material, and that are
 shaken by the same, always approach like to like into another position …
-until the whole is put in order. <span id="fr_94"></span>[2](#fn_94) In
+until the whole is put in order. <span id="fr_94"></span>[2](#fn_94.md) In
 the same way, Matter being then in that condition in which it is
 probable the universe would be, where the Deity is absent, the first
 five Qualities, having tendencies of their own, were carried asunder;
@@ -1514,13 +1514,13 @@ different directions—one, not of pure *Fire*, but of fiery nature;
 another, not of unmixed *Æther*, but æthereal; another, not of *Earth*
 pure and simple, but earthy; and above all, *Air* associated with
 *Water*, because, as already mentioned, it had gone off impregnated with
-elements of different sorts. <span id="fr_95"></span>[1](#fn_95) For it
+elements of different sorts. <span id="fr_95"></span>[1](#fn_95.md) For it
 was not the Deity who parted and distributed the Essence, but after it
 had separated itself and was moving asunder in such varieties of
 disorder, He took it in hand, arranged and fitted it together, by the
 rule of analogy and the golden mean: in the next place, He having set
 Reason, like a deputy and guard in each province, <span
-id="fr_96"></span>[2](#fn_96) He created as many worlds as are the kinds
+id="fr_96"></span>[2](#fn_96.md) He created as many worlds as are the kinds
 of the primal substances. Let thus much be conceded in Plato's favour,
 for Ammonius's sake; but for my part I will not affirm positively
 respecting the number of worlds, that they are exactly so many as this;
@@ -1532,7 +1532,7 @@ suffered by Reason to move in one direction only, nor yet in an infinite
 number of ways. But here, if anywhere, let us remember the Academy, and
 divest ourselves of too much confidence, and reserve *certainty*, as in
 a slippery place, for the argument about their infinity." <span
-id="fr_97"></span>[3](#fn_97)
+id="fr_97"></span>[3](#fn_97.md)
 
 XXXVIII\. On my saying this, Demetrius replied: "Rightly does Lamprias
 advise, for—
@@ -1563,13 +1563,13 @@ as Hesiod says, 'clothed in mist?' For it seems to me that whatever
 difference one man exhibits, as compared with another who is acting
 either tragedy or comedy, just the same difference will a spirit that
 has taken possession of the body exhibit with respect to ordinary
-life. <span id="fr_98"></span>[1](#fn_98) It is, therefore, neither
+life. <span id="fr_98"></span>[1](#fn_98.md) It is, therefore, neither
 absurd nor strange if spirits encountering spirits do create in them
 visions of the Future; just as we ourselves signify to each other, not
 by voice alone, but also by writing; nay, often also by a touch, or by a
 look, many things of what has happened, and also tell beforehand many of
 what are about to happen by the same means. And if you, my
-Ammonius, <span id="fr_99"></span>[2](#fn_99) say nothing to the
+Ammonius, <span id="fr_99"></span>[2](#fn_99.md) say nothing to the
 contrary, for a rumour lately reached us of your having talked at length
 on the subject with your hosts at Lebadia, nothing of which did our
 informant exactly remember."
@@ -1607,7 +1607,7 @@ inferior degree, whilst united with the body, some being imperceptible
 and latent, others feeble and obscure, in a similar way to things seen
 through a mist, or in moving water, inactive, and slow, and standing in
 need of much curing, and recovery of what is their own, <span
-id="fr_100"></span>[1](#fn_100) and removal and clearing away of what
+id="fr_100"></span>[1](#fn_100.md) and removal and clearing away of what
 obscures them—all this is probable enough. For just as the Sun doth not
 *become* bright, when he bursts through the clouds, but *is* so
 perpetually, yet he appears to us, when in a mist, dull and obscure, in
@@ -1647,9 +1647,9 @@ end, except so far as the remembering of them goes.
 XL\. "Souls therefore possessing this faculty inherent in their nature,
 though obscured, and hardly showing itself, do nevertheless put forth
 blossom, and recover this power—in dreams often, on the point of
-death, <span id="fr_101"></span>[1](#fn_101) some few—either that the
+death, <span id="fr_101"></span>[1](#fn_101.md) some few—either that the
 body becomes purified, or assumes a new temperament on these
-occasions, <span id="fr_102"></span>[2](#fn_102) or else that the
+occasions, <span id="fr_102"></span>[2](#fn_102.md) or else that the
 reasoning and thinking parts of the soul are unbound and released
 
 <span id="page_122">p. 122</span>
@@ -1667,7 +1667,7 @@ best,'</span>
 but such a one is a man that has his wits about him, and follows the
 intelligent part of his soul as it guides him on his way, with a show of
 probability. For the prophetic part, like a tablet unwritten on, <span
-id="fr_103"></span>[1](#fn_103) senseless, and indefinite of itself, but
+id="fr_103"></span>[1](#fn_103.md) senseless, and indefinite of itself, but
 capable of receiving visionary impressions and forebodings, grasps the
 Future without any consideration, at the moment when it is first
 departing out of the Present. It makes the same escape from the Present
@@ -1711,13 +1711,13 @@ is not improbable, having a certain sympathy and affinity to the soul,
 fills up the soft parts thereof, and cements and keeps them together.
 For different substances are congenial and have affinity to others, just
 as bean-flour is supposed to assist the dye of the murex, and
-natron <span id="fr_104"></span>[1](#fn_104) that of the kermes, when
+natron <span id="fr_104"></span>[1](#fn_104.md) that of the kermes, when
 mixed therewith: 'some of the blue crocus is mingled with flax,' and as
 Empedocles hath said. But with respect to the Cydnus, and the
 consecrated sword of Apollo at Tarsus, we have heard you, Demetrius,
 telling how that only the Cydnus cleanses that steel, and no other river
 cleanses that sword. At Olympia also, the ashes for the Altar <span
-id="fr_105"></span>[2](#fn_105) they knead up, and bring to consistency,
+id="fr_105"></span>[2](#fn_105.md) they knead up, and bring to consistency,
 by pouring over them water out of the Alpheus, but if they wet these
 same ashes with any
 
@@ -1747,7 +1747,7 @@ the Sun, and they that understood and admired the beautiful and
 ingenious comparison, guessed that what body is to soul, sight to mind,
 light to truth—the same is the Sun to the nature of Apollo; his
 offspring, and his child, perpetually born of 'Him that is,' perpetually
-reflecting <span id="fr_106"></span>[1](#fn_106) the author of its
+reflecting <span id="fr_106"></span>[1](#fn_106.md) the author of its
 being; for it kindles, promotes, and stimulates the power of vision of
 the sense, just as he does the prophetic faculty of the soul.
 
@@ -1761,7 +1761,7 @@ generated in the Earth the disposition and temperament out of which she
 sends forth the prophetic vapour. Earth herself, 'sure foundation of all
 things,' as Hesiod with far more sagacity than our philosophers hath
 called her, we hold to be everlasting and imperishable: <span
-id="fr_107"></span>[1](#fn_107) but of the powers belonging to her, it
+id="fr_107"></span>[1](#fn_107.md) but of the powers belonging to her, it
 is probable that in one place deceases happen, in another new births;
 elsewhere, migrations and influxes from different quarters, and that
 such revolutions come round no less frequently in the whole course of
@@ -1772,7 +1772,7 @@ and, self-interment: and on the other hand, their re-appearance in the
 same places as before, or their welling forth in the same neighbourhood.
 Also of mines, entire failures have happened in recent times, as for
 instance of the silver mines in Attica, and of the copper ore in Eubœa,
-out of which the *cold-hammered* <span id="fr_108"></span>[2](#fn_108)
+out of which the *cold-hammered* <span id="fr_108"></span>[2](#fn_108.md)
 sword-blades used to be wrought, as Æschylus says—
 
 <div style="margin-left: 32px">
@@ -1783,7 +1783,7 @@ sword-blades used to be wrought, as Æschylus says—
 
 and in the case of the quarry at Carystus, ’tis no long time since it
 ceased to produce soft and thread-like veins of stone: <span
-id="fr_109"></span>[3](#fn_109) for I believe some of you have seen
+id="fr_109"></span>[3](#fn_109.md) for I believe some of you have seen
 towels and
 
 <span id="page_126">p. 126</span>
@@ -1807,7 +1807,7 @@ settlements and jumbling together of her parts, in her inmost depths,
 that the said exhalations shift their place, or are put out entirely,
 just as in this place they say it \[the oracular power\] did not
 continue after the great earthquake, which also overthrew the whole
-city. <span id="fr_110"></span>[1](#fn_110) And at Orchomenos they
+city. <span id="fr_110"></span>[1](#fn_110.md) And at Orchomenos they
 relate that a pestilence prevailing, many people perished, and the
 Oracle of Tiresias came to an end altogether, and remains idle and
 silent to this day. And if the same fate has befallen those in Cilicia,
@@ -1817,12 +1817,12 @@ than yourself, Demetrius."
 <span id="page_127">p. 127</span>
 
 XLV\. Then Demetrius: "I know not the present state of things: for, as
-you [are](errata.htm#1) aware, I have now been away from home a very
+you [are](errata.htm#1.md) aware, I have now been away from home a very
 long time. But when I was there the Oracle of Mopsus still flourished,
 as well as that of Amphilochus. But I have a very wonderful event to
 tell, which happened during my visit to the Oracle of Mopsus. The
 governor of Cilicia, being sceptical in religious matters, disbelieving
-them, I fancy, out of wantonness, <span id="fr_111"></span>[1](#fn_111)
+them, I fancy, out of wantonness, <span id="fr_111"></span>[1](#fn_111.md)
 for he was an extremely insolent and wicked man, and had about him a set
 of Epicureans who after their fine fashion and their 'natural science'
 principles, made sport of all things of the kind, as they themselves
@@ -1838,7 +1838,7 @@ and making a gesture of adoration and opening the letter, showed written
 therein the question: Whether shall I sacrifice to thee a white or a
 black bull? so that the Epicureans were put to the rout, and he himself
 performed the sacrifice, and ever after held Mopsus in respect." <span
-id="fr_112"></span>[2](#fn_112)
+id="fr_112"></span>[2](#fn_112.md)
 
 <span id="page_128">p. 128</span>
 
@@ -1901,7 +1901,7 @@ also on occasions of pestilence and seasons of barrenness, I think it
 hard to assign both the discovery and the final cause not to God and to
 Providence, but to accident and natural means. On these points," added
 he, "my dear Lamprias, I wish to discourse—will you have patience with
-me?" <span id="fr_113"></span>[1](#fn_113) "Yes, certainly," replied
+me?" <span id="fr_113"></span>[1](#fn_113.md) "Yes, certainly," replied
 Philip, "and so will all of those present—for the subject interests the
 whole of us."
 
@@ -1912,7 +1912,7 @@ respectable a company as you
 <span id="page_130">p. 130</span>
 
 are, to have (in spite of my years), <span
-id="fr_114"></span>[1](#fn_114) made out a fine story by plausible
+id="fr_114"></span>[1](#fn_114.md) made out a fine story by plausible
 arguments, in order to destroy or upset any of the sound and religious
 notions entertained with respect to the Deity. I will therefore make my
 defence against the charge, and bring forward Plato for a witness and
@@ -1929,7 +1929,7 @@ sense was regularly arranged, but was not unmixed or pure, but receives
 its origin from Matter impregnated by Reason. And consider in the case
 of artificers: for example here at hand, the celebrated base and stand
 for the vase which Herodotus calls the 'Crater holder,' <span
-id="fr_115"></span>[2](#fn_115) that has for natural efficient causes
+id="fr_115"></span>[2](#fn_115.md) that has for natural efficient causes
 fire and iron, and above all the tempering of the metal by means of fire
 and water, without which there was no means for the work to be done. But
 the yet more valid cause that set these two in motion, and kept them
@@ -1938,16 +1938,16 @@ incessantly at work, did Art and Reason furnish
 <span id="page_131">p. 131</span>
 
 to the undertaking, and again the creator and artist of these pictures
-and figures around us, <span id="fr_116"></span>[1](#fn_116) has
+and figures around us, <span id="fr_116"></span>[1](#fn_116.md) has
 inscribed himself 'Polygnotus of Thasos, son of Aglaophon, has painted
 the sacking of the citadel of Ilium'—as he is seen to have
-written. <span id="fr_117"></span>[2](#fn_117) But without the aid of
+written. <span id="fr_117"></span>[2](#fn_117.md) But without the aid of
 paints ground up together and dissolved into each other, there was no
 possibility for this work to have got its arrangement and visible form.
 Does then the person who wishes to trace out the material cause, by
 inquiring and explaining what effects and changes ochre produces when
 mixed with Sinope, or Melean white with lamp-black <span
-id="fr_118"></span>[3](#fn_118)—does he thereby detract from the fame of
+id="fr_118"></span>[3](#fn_118.md)—does he thereby detract from the fame of
 Polygnotus? And he that tells about the hardening and the softening of
 iron, how that when deprived of rigidity by means of fire it spreads
 itself and yields to those who are beating it out, and bringing it into
@@ -2013,7 +2013,7 @@ anything opposed to this view of the matter. For the priests and holy
 men say that they offer up the victim, pour the libation, and observe
 its movement and trembling for no other purpose than to discover whether
 the god is then performing his functions, <span
-id="fr_119"></span>[1](#fn_119) because it is necessary that the thing
+id="fr_119"></span>[1](#fn_119.md) because it is necessary that the thing
 to be sacrificed should be perfect both in body and soul, unblemished,
 and uncorrupted. Indications of this in the case of the *body*, it is
 not very difficult to discover; but the *soul* they test by putting upon
@@ -2028,7 +2028,7 @@ every power acts better or worse according to the season ordained for it
 by Nature; consequently when the season varies, it is but reasonable the
 Deity should give us warning of the fact.
 
-L. As for the Exhalation <span id="fr_120"></span>[2](#fn_120) itself, I
+L. As for the Exhalation <span id="fr_120"></span>[2](#fn_120.md) itself, I
 do not think it is constantly in the same condition, but that it is
 liable to fallings off, and on the other hand, to augmentations of
 force: and for the fact which I adduce as proof, I have the testimony of
@@ -2040,7 +2040,7 @@ minister to the Oracle. For the hall in which they make those who
 consult the god sit down, is filled, not frequently nor regularly, but
 at uncertain intervals, with a sweet smell, and a breath, like the most
 delicious and costly perfumes, in consequence of the sanctuary sending
-forth vapours as from a fountain: <span id="fr_121"></span>[1](#fn_121)
+forth vapours as from a fountain: <span id="fr_121"></span>[1](#fn_121.md)
 for it is probable that it is excited from time to time, either by heat,
 or some accidental compression. But if this does not seem to you
 credible, at least you will allow that the Pythoness herself has the
@@ -2080,16 +2080,16 @@ a medicine, inspiration must necessarily follow; just as, that not being
 the case, it must either not take place at all, or else be delirious,
 not genuine, and full of confusion—as we know happened in the case of
 the Pythoness lately deceased. For consulters of the Oracle having
-arrived from abroad, <span id="fr_122"></span>[1](#fn_122) the victim is
+arrived from abroad, <span id="fr_122"></span>[1](#fn_122.md) the victim is
 said to have withstood the preliminary agitations without feeling, and
 without motion; and when the priests in their zeal substituted others,
 and still persevered, with difficulty did it become tremulous <span
-id="fr_123"></span>[2](#fn_123) and staggering about, to give the
+id="fr_123"></span>[2](#fn_123.md) and staggering about, to give the
 necessary sign. What, pray, happened with respect to the Pythoness? She
 descended into the place of the Oracle against her will, and in a bad
 humour; and directly upon the very first answers, she manifested by the
 harsh sound of her voice that she was not repeating <span
-id="fr_124"></span>[3](#fn_124) the dictation of the god: like to a ship
+id="fr_124"></span>[3](#fn_124.md) the dictation of the god: like to a ship
 drifting before the gale, she was filled with an incoherent and evil
 inspiration. At last being completely driven out of her senses, and
 rushing
@@ -2098,10 +2098,10 @@ rushing
 
 with a shriek to the entrance, she threw herself on the ground; so that
 not only the consulters took to flight in terror, but even the
-interpreter <span id="fr_125"></span>[1](#fn_125) Nicander, and such of
+interpreter <span id="fr_125"></span>[1](#fn_125.md) Nicander, and such of
 the holy men as were present. After a little while, however, they went
 in again, and picked her up—she was insane, and only survived for a few
-days. <span id="fr_126"></span>[2](#fn_126) This is the reason why they
+days. <span id="fr_126"></span>[2](#fn_126.md) This is the reason why they
 keep the body of the Pythoness pure from all sexual intercourse, and her
 life clear from all mixture and contact with and conversation of
 strangers: and also before consultation, observe the above-mentioned
@@ -2128,7 +2128,7 @@ enumerate at length. So they must lie over, as also the question Philip
 raised about the Sun and Apollo."
 
 <span id="img_13700"></span> ![\[Apollo before the Delphic
-Tripod.&lt;br&gt; (once owned by Lorenzo de’ Medici)\]](img/13700.jpg)  
+Tripod.&lt;br&gt; (once owned by Lorenzo de’ Medici)\]](img/13700.jpg.md)  
 \[Apollo before the Delphic Tripod.  
 (once owned by Lorenzo de’ Medici)\]
 
@@ -2136,7 +2136,7 @@ Tripod.&lt;br&gt; (once owned by Lorenzo de’ Medici)\]](img/13700.jpg)
 
 ### Footnotes
 
-<span id="fn_50"></span>[72:1](pte05.htm#fr_50) Of whom a most
+<span id="fn_50"></span>[72:1](pte05.htm#fr_50.md) Of whom a most
 interesting memorial is still extant in the Museum at York, a little
 bronze tablet inscribed with the letters, ΘΕΟΙΣ ΤΟΙΣ ΤΟΥ ΗΓΗΜΟΝΙΚΟΥ
 ΠΡΑΙΤΩΡΙΟΥ ΣΚΡΙΒΑ ΔΗΜΗΤΡΙΟΣ, a dedication tallying with the epithet
@@ -2146,198 +2146,198 @@ been employed in the finance department in the government office at
 Eboracum, the headquarters for the Northern province. A second tablet
 bears, ΩΚΕΑΛΝΩΙ ΚΑΙ ΤΗΘΥΙ ΔΗΜΗΤΡΙΟΣ.
 
-<span id="fn_51"></span>[73:1](pte05.htm#fr_51) μεϑίσταντες in text
+<span id="fn_51"></span>[73:1](pte05.htm#fr_51.md) μεϑίσταντες in text
 (perhaps μετρήσαντες), which, if correct, must mean "setting aside."
 
-<span id="fn_52"></span>[74:1](pte05.htm#fr_52) Conversely, a remarkable
+<span id="fn_52"></span>[74:1](pte05.htm#fr_52.md) Conversely, a remarkable
 absence of house-flies has been noticed here in the summers followed by
 cholera.
 
-<span id="fn_53"></span>[74:2](pte05.htm#fr_53) Astronomers made their
+<span id="fn_53"></span>[74:2](pte05.htm#fr_53.md) Astronomers made their
 observations upon the sun's disk reflected on the surface of water, as
 Pliny notices in speaking of the heliotrope stone.
 
-<span id="fn_54"></span>[74:3](pte05.htm#fr_54) The name is lost; as
+<span id="fn_54"></span>[74:3](pte05.htm#fr_54.md) The name is lost; as
 Reiske thinks, probably Ursa Major.
 
-<span id="fn_55"></span>[75:1](pte05.htm#fr_55) "They" in text, which
+<span id="fn_55"></span>[75:1](pte05.htm#fr_55.md) "They" in text, which
 changes the person very awkwardly.
 
-<span id="fn_56"></span>[77:1](pte05.htm#fr_56) *i.e.* declares the will
+<span id="fn_56"></span>[77:1](pte05.htm#fr_56.md) *i.e.* declares the will
 of Fate.
 
-<span id="fn_57"></span>[77:2](pte05.htm#fr_57) The answers were
+<span id="fn_57"></span>[77:2](pte05.htm#fr_57.md) The answers were
 communicated in dreams to the inquirers sleeping inside the Temple.
 
-<span id="fn_58"></span>[79:1](pte05.htm#fr_58) The regular badge of his
+<span id="fn_58"></span>[79:1](pte05.htm#fr_58.md) The regular badge of his
 sect.
 
-<span id="fn_59"></span>[80:1](pte05.htm#fr_59) Or perhaps "refraining
+<span id="fn_59"></span>[80:1](pte05.htm#fr_59.md) Or perhaps "refraining
 from abusive language."
 
-<span id="fn_60"></span>[82:1](pte05.htm#fr_60) Should read "*this*
+<span id="fn_60"></span>[82:1](pte05.htm#fr_60.md) Should read "*this*
 place," Delphi, the scene of the dialogue.
 
-<span id="fn_61"></span>[82:2](pte05.htm#fr_61) *i.e.* the intoxicating
+<span id="fn_61"></span>[82:2](pte05.htm#fr_61.md) *i.e.* the intoxicating
 exhalation from the Delphic Cave was as powerful as formerly—an
 important notice, as refuting the story that it had been blocked up and
 destroyed by order of Nero, when Apollo rebuked him for his matricide.
 
-<span id="fn_62"></span>[85:1](pte05.htm#fr_62) 1 + 2 + 4 + 4 + 9 + 8 +
+<span id="fn_62"></span>[85:1](pte05.htm#fr_62.md) 1 + 2 + 4 + 4 + 9 + 8 +
 27 = 55, not 54; but this is near enough for the argument.
 
-<span id="fn_63"></span>[85:2](pte05.htm#fr_63) This passage is
+<span id="fn_63"></span>[85:2](pte05.htm#fr_63.md) This passage is
 hopelessly corrupt, but seems to have implied that one story was as
 ridiculous as the other.
 
-<span id="fn_64"></span>[85:3](pte05.htm#fr_64) Referring to Lamprias'
+<span id="fn_64"></span>[85:3](pte05.htm#fr_64.md) Referring to Lamprias'
 explanation of Hesiod's "generation" by "year."
 
-<span id="fn_65"></span>[89:1](pte05.htm#fr_65) Of the real Apollo, that
+<span id="fn_65"></span>[89:1](pte05.htm#fr_65.md) Of the real Apollo, that
 is.
 
-<span id="fn_66"></span>[90:1](pte05.htm#fr_66) The *real* object of
+<span id="fn_66"></span>[90:1](pte05.htm#fr_66.md) The *real* object of
 their verses and declamations was not the *god*, but the *genii* who
 haunted Delphi.
 
-<span id="fn_67"></span>[90:2](pte05.htm#fr_67) προσάπτων in text, must
+<span id="fn_67"></span>[90:2](pte05.htm#fr_67.md) προσάπτων in text, must
 be προσάπτειν.
 
-<span id="fn_68"></span>[93:1](pte05.htm#fr_68) This emperor must be
+<span id="fn_68"></span>[93:1](pte05.htm#fr_68.md) This emperor must be
 Trajan, as Demetrius was just returned from Britain at the time of the
 dialogue. The island, as lying nearest to the coast, must have been
 Anglesey, the focus of Druidism. If Æmilian was an "old man" when he
 told the story just quoted, and his father had flourished under
 Tiberius. this dialogue comes down to the end of the first century.
 
-<span id="fn_69"></span>[94:1](pte05.htm#fr_69) Lucretius mentions that
+<span id="fn_69"></span>[94:1](pte05.htm#fr_69.md) Lucretius mentions that
 the fumes of a smouldering lamp-wick produce apoplexy—which is still the
 popular belief in Italy.
 
-<span id="fn_70"></span>[94:2](pte05.htm#fr_70) ποι μένουσιν must be
+<span id="fn_70"></span>[94:2](pte05.htm#fr_70.md) ποι μένουσιν must be
 corrupt, as a plural following a neuter noun—<span id="page_95">p.
 95</span> ποιμαίνουσιν is clearly the original reading, and gives the
 funny image of these philosophers driving about "their flocks of
 spectra."
 
-<span id="fn_71"></span>[95:1](pte05.htm#fr_71) δυσκολαίνοντας must be
+<span id="fn_71"></span>[95:1](pte05.htm#fr_71.md) δυσκολαίνοντας must be
 δυσκολαίνοντες, and still referring to the Epicureans.
 
-<span id="fn_72"></span>[95:2](pte05.htm#fr_72) Upon the theory of the
+<span id="fn_72"></span>[95:2](pte05.htm#fr_72.md) Upon the theory of the
 Epicureans; which he goes on to quote.
 
-<span id="fn_73"></span>[96:1](pte05.htm#fr_73) The chewing of betel-nut
+<span id="fn_73"></span>[96:1](pte05.htm#fr_73.md) The chewing of betel-nut
 may be at the bottom of this story, and the man a Buddhist hermit.
 
-<span id="fn_74"></span>[97:1](pte05.htm#fr_74) The popular dialect at
+<span id="fn_74"></span>[97:1](pte05.htm#fr_74.md) The popular dialect at
 Alexandria, which was peopled by emigrants from Sicily: the source
 whence a Hindoo would naturally get his smattering of Greek.
 
-<span id="fn_75"></span>[97:2](pte05.htm#fr_75) An obscure allusion to
+<span id="fn_75"></span>[97:2](pte05.htm#fr_75.md) An obscure allusion to
 the Jews, who claim Saturn for their star.
 
-<span id="fn_76"></span>[98:1](pte05.htm#fr_76) ὅθεν εὖ ἐγγύου in text,
+<span id="fn_76"></span>[98:1](pte05.htm#fr_76.md) ὅθεν εὖ ἐγγύου in text,
 must be ὅτε συνεγένον.
 
-<span id="fn_77"></span>[99:1](pte05.htm#fr_77) According to this
+<span id="fn_77"></span>[99:1](pte05.htm#fr_77.md) According to this
 explanation, the Mysteries taught the theory of the creation, and of the
 government and laws of the universe: a doctrine clearly set forth in
 Julian's "Mother of the Gods."
 
-<span id="fn_78"></span>[99:2](pte05.htm#fr_78) "Perhaps he makes bows
+<span id="fn_78"></span>[99:2](pte05.htm#fr_78.md) "Perhaps he makes bows
 or perhaps he steals."
 
-<span id="fn_79"></span>[100:1](pte05.htm#fr_79) Julian's πεμπτὸν,
+<span id="fn_79"></span>[100:1](pte05.htm#fr_79.md) Julian's πεμπτὸν,
 εἱλικτὸν σῶμα: the Quintessence of the later Aristotelians.
 
-<span id="fn_80"></span>[103:1](pte05.htm#fr_80) The dative of these
+<span id="fn_80"></span>[103:1](pte05.htm#fr_80.md) The dative of these
 words must be corrupt, read them in the accusative.
 
-<span id="fn_81"></span>[105:1](pte05.htm#fr_81) Something is wanting
+<span id="fn_81"></span>[105:1](pte05.htm#fr_81.md) Something is wanting
 here; but what follows shows it to have been an hypothesis of the
 existence of several worlds depending upon some common and superior
 body.
 
-<span id="fn_82"></span>[106:1](pte05.htm#fr_82) *i.e.* the chief end at
+<span id="fn_82"></span>[106:1](pte05.htm#fr_82.md) *i.e.* the chief end at
 which the Essence has been working from all eternity is the stability
 and incorruptibility of the world.
 
-<span id="fn_83"></span>[107:1](pte05.htm#fr_83) The same difficulty has
+<span id="fn_83"></span>[107:1](pte05.htm#fr_83.md) The same difficulty has
 perplexed modern divines, substituting the technical terms "sin" and
 "atonement" for "Fate" and "Providence."
 
-<span id="fn_84"></span>[107:2](pte05.htm#fr_84) καθ᾽ ἕκαστον, an
+<span id="fn_84"></span>[107:2](pte05.htm#fr_84.md) καθ᾽ ἕκαστον, an
 evident allusion to the Supreme and Nameless Deity, then recognized as
 supreme above all the gods of the old mythology.
 
-<span id="fn_85"></span>[108:1](pte05.htm#fr_85) *i.e.* beautiful,
+<span id="fn_85"></span>[108:1](pte05.htm#fr_85.md) *i.e.* beautiful,
 congenial, ever-changing spectacles.
 
-<span id="fn_86"></span>[109:1](pte05.htm#fr_86) *i.e.* no longer
+<span id="fn_86"></span>[109:1](pte05.htm#fr_86.md) *i.e.* no longer
 confine him to the creation of one world.
 
-<span id="fn_87"></span>[109:2](pte05.htm#fr_87) The symbol ϵ, dedicated
+<span id="fn_87"></span>[109:2](pte05.htm#fr_87.md) The symbol ϵ, dedicated
 in gold by Livia Augusta, to replace the ancient one in wood presented
 by Pittacus.
 
-<span id="fn_88"></span>[111:1](pte05.htm#fr_88) A Brahminical notion:
+<span id="fn_88"></span>[111:1](pte05.htm#fr_88.md) A Brahminical notion:
 Siva, god of Fire, being expressed by the Pyramid; Vishnu, of Water, by
 the same inverted.
 
-<span id="fn_89"></span>[113:1](pte05.htm#fr_89) *i.e.*, the five
+<span id="fn_89"></span>[113:1](pte05.htm#fr_89.md) *i.e.*, the five
 geometrical bodies are respectively images of the five predicates of the
 Deity, as defined by Plato.
 
-<span id="fn_90"></span>[113:2](pte05.htm#fr_90) From this Platonic
+<span id="fn_90"></span>[113:2](pte05.htm#fr_90.md) From this Platonic
 theory the Kabalists got the notion of their Four Worlds, the models,
 "Ideas," of which were furnished by the Ten Sephiroth, the Attributes of
 Jehovah.
 
-<span id="fn_91"></span>[114:1](pte05.htm#fr_91) 'The checking and
+<span id="fn_91"></span>[114:1](pte05.htm#fr_91.md) 'The checking and
 limitation of this ἀπειρία plays the chief part in Julian's "Hymn to the
 Mother of the Gods;" and he makes it to be typified by the mutilation of
 Atys.
 
-<span id="fn_92"></span>[114:2](pte05.htm#fr_92) στενήν, certainly an
+<span id="fn_92"></span>[114:2](pte05.htm#fr_92.md) στενήν, certainly an
 error for κενην, which the sense absolutely demands.
 
-<span id="fn_93"></span>[117:1](pte05.htm#fr_93) The pyramid being
+<span id="fn_93"></span>[117:1](pte05.htm#fr_93.md) The pyramid being
 equivalent to Fire, when a figure composed of pyramids is taken to
 pieces Fire must necessarily be produced. Again, if these pyramids be
 put together into the figure of the Octahedron, which is the equivalent
 of air, air must be the result.
 
-<span id="fn_94"></span>[117:2](pte05.htm#fr_94) The whole of this
+<span id="fn_94"></span>[117:2](pte05.htm#fr_94.md) The whole of this
 paragraph has fallen into inextricable confusion; but the sense is that
 in the winnowing of corn, the different parts, such as the chaff and the
 grains, when put into violent motion, have a natural tendency to collect
 like with like.
 
-<span id="fn_95"></span>[118:1](pte05.htm#fr_95) φύλλων ἀναπεπεπλησμένον
+<span id="fn_95"></span>[118:1](pte05.htm#fr_95.md) φύλλων ἀναπεπεπλησμένον
 in text must be read ὑλῶν ἀναπεπλησ μένον.
 
-<span id="fn_96"></span>[118:2](pte05.htm#fr_96) Hence the Alexandrian
+<span id="fn_96"></span>[118:2](pte05.htm#fr_96.md) Hence the Alexandrian
 school got the doctrine of the Logos acting as the deputy of the Supreme
 Deity.
 
-<span id="fn_97"></span>[118:3](pte05.htm#fr_97) The *infinity* of the
+<span id="fn_97"></span>[118:3](pte05.htm#fr_97.md) The *infinity* of the
 number of worlds may be denied with *certainty;* but the actual number
 must ever be a matter of dispute.
 
-<span id="fn_98"></span>[119:1](pte05.htm#fr_98) There is the same
+<span id="fn_98"></span>[119:1](pte05.htm#fr_98.md) There is the same
 difference between a man possessed by a Spirit and ordinary men, as
 there is between a tragedian or comedian when acting and other people.
 
-<span id="fn_99"></span>[119:2](pte05.htm#fr_99) A mistake for
+<span id="fn_99"></span>[119:2](pte05.htm#fr_99.md) A mistake for
 "Lamprias," who replies in the next sentence.
 
-<span id="fn_100"></span>[120:1](pte05.htm#fr_100) Their proper
+<span id="fn_100"></span>[120:1](pte05.htm#fr_100.md) Their proper
 faculties.
 
-<span id="fn_101"></span>[121:1](pte05.htm#fr_101) τελετὰς for τελευτὰς,
+<span id="fn_101"></span>[121:1](pte05.htm#fr_101.md) τελετὰς for τελευτὰς,
 beyond all doubt.
 
-<span id="fn_102"></span>[121:2](pte05.htm#fr_102)
+<span id="fn_102"></span>[121:2](pte05.htm#fr_102.md)
 
 <div style="margin-left: 32px">
 
@@ -2346,65 +2346,65 @@ beyond all doubt.
 
 </div>
 
-<span id="fn_103"></span>[122:1](pte05.htm#fr_103) "A blank sheet of
+<span id="fn_103"></span>[122:1](pte05.htm#fr_103.md) "A blank sheet of
 paper."
 
-<span id="fn_104"></span>[123:1](pte05.htm#fr_104) Native carbonate of
+<span id="fn_104"></span>[123:1](pte05.htm#fr_104.md) Native carbonate of
 soda, got from the Natron Lakes, near Cairo: the ancient substitute for
 soap.
 
-<span id="fn_105"></span>[123:2](pte05.htm#fr_105) This Altar was an
+<span id="fn_105"></span>[123:2](pte05.htm#fr_105.md) This Altar was an
 immense heap of the ashes produced by the sacrifices from time
 immemorial; as Pausanias describes the same.
 
-<span id="fn_106"></span>[124:1](pte05.htm#fr_106) αποφαινοντες makes no
+<span id="fn_106"></span>[124:1](pte05.htm#fr_106.md) αποφαινοντες makes no
 sense; it must be ἀποφαίνοντα, referring to ἡ?'λιον.
 
-<span id="fn_107"></span>[125:1](pte05.htm#fr_107) Julian, who evidently
+<span id="fn_107"></span>[125:1](pte05.htm#fr_107.md) Julian, who evidently
 had studied this tract, uses the very same expression in his above
 quoted Hymn.
 
-<span id="fn_108"></span>[125:2](pte05.htm#fr_108) Like the spear-heads
+<span id="fn_108"></span>[125:2](pte05.htm#fr_108.md) Like the spear-heads
 and chisels of the ancient miners on Lake Superior, hammered out of the
 pure metal, without the use of fire, and yet of the most extraordinary
 temper: cutting the ore better than steel tools. Also the "cobre dos
 labradores" in Nicaragua, fit for use as it comes from the mine (Dan.
 Wilson: Boyle).
 
-<span id="fn_109"></span>[125:3](pte05.htm#fr_109) A valuable notice of
+<span id="fn_109"></span>[125:3](pte05.htm#fr_109.md) A valuable notice of
 the origin of the asbestos cloth, specimens of which are still found in
 Roman tombs. Carystus supplied the Cipolline <span id="page_126">p.
 126</span> marble, largely employed at Rome at the time of this
 Dialogue. The pillars of the portico of the Temple of Faustina,
 immensely large, are made of it.
 
-<span id="fn_110"></span>[126:1](pte05.htm#fr_110) This curious passage
+<span id="fn_110"></span>[126:1](pte05.htm#fr_110.md) This curious passage
 is unluckily so corrupt that the meaning can only be guessed from the
 context, παραμένειν τὰ περὶ τὸν μέγαν σεισμον must certainly be read
 ὥσπερ ἐγένετο περὶ τ.μ.σ. The cessation of the Delphic Oracle, was,
 however, only for a time.
 
-<span id="fn_111"></span>[127:1](pte05.htm#fr_111) δἰ ἀσθένειαν ἀπιστίας
+<span id="fn_111"></span>[127:1](pte05.htm#fr_111.md) δἰ ἀσθένειαν ἀπιστίας
 must be δί ἂσέλγειαν ἀπιστήσας, or perhaps ἀσέβειαν. "Epicureans,
 Atheists, and Christians," are classed together in the proclamation of
 the oracle-monger, Alexander of Abonetichos, as persons to be chased
 from the temple.
 
-<span id="fn_112"></span>[127:2](pte05.htm#fr_112) Alexander the
+<span id="fn_112"></span>[127:2](pte05.htm#fr_112.md) Alexander the
 Prophet, by taking a cast in plaster of the seals of such letters of
 inquiry, was able to open them, learn the contents, frame his responses
 accordingly, reseal the letters, and return to the bringers with seal
 unbroken. Mopsus, doubtless, was acquainted with the same device to
 promote his "clairvoyance."
 
-<span id="fn_113"></span>[129:1](pte05.htm#fr_113) περιμένοις must be
+<span id="fn_113"></span>[129:1](pte05.htm#fr_113.md) περιμένοις must be
 περιμενεῖς.
 
-<span id="fn_114"></span>[130:1](pte05.htm#fr_114) One of the few
+<span id="fn_114"></span>[130:1](pte05.htm#fr_114.md) One of the few
 indications of a date to be found in these Moralia, as showing they were
 written in Plutarch's old age.
 
-<span id="fn_115"></span>[130:2](pte05.htm#fr_115) Dedicated by
+<span id="fn_115"></span>[130:2](pte05.htm#fr_115.md) Dedicated by
 Alyattes, father of Crœsus, and regarded as a miracle of art, being made
 of wrought iron, and all the parts *welded* together, not fastened by
 rivets. At the time of its making, the sixth century before our era
@@ -2413,19 +2413,19 @@ says the maker, Glaucus of Chios, first invented the welding of iron.
 The stand supported a great crater of silver, but *this* would not have
 escaped the melting-pot of Philomelus, or of Sylla after him.
 
-<span id="fn_116"></span>[131:1](pte05.htm#fr_116) The celebrated fresco
+<span id="fn_116"></span>[131:1](pte05.htm#fr_116.md) The celebrated fresco
 of the "Fall of Troy," painted on the walls of the Lesche.
 
-<span id="fn_117"></span>[131:2](pte05.htm#fr_117) *Aliter*, as you may
+<span id="fn_117"></span>[131:2](pte05.htm#fr_117.md) *Aliter*, as you may
 see he has written.
 
-<span id="fn_118"></span>[131:3](pte05.htm#fr_118) The only colours used
+<span id="fn_118"></span>[131:3](pte05.htm#fr_118.md) The only colours used
 by the early painters were yellow, red, white and black.
 
-<span id="fn_119"></span>[133:1](pte05.htm#fr_119) θεμιστεύειν, Themis
+<span id="fn_119"></span>[133:1](pte05.htm#fr_119.md) θεμιστεύειν, Themis
 having been first owner of the Oracle.
 
-<span id="fn_120"></span>[133:2](pte05.htm#fr_120) An instance of a
+<span id="fn_120"></span>[133:2](pte05.htm#fr_120.md) An instance of a
 similar πνεῦμα issuing from the earth is to be found at Gradovo, capital
 of Montenegro; where, within the monastery court, there issues from a
 chasm in the rock a strong and icy wind, coldest in the summer heats.
@@ -2435,23 +2435,23 @@ enclosed within the sacred walls, proves that a character of sanctity
 was attached to it at the time of the conversion of the mountaineers
 ("Montenegro," by R. C. S.).
 
-<span id="fn_121"></span>[134:1](pte05.htm#fr_121) An important fact, as
+<span id="fn_121"></span>[134:1](pte05.htm#fr_121.md) An important fact, as
 showing that the emission of some intoxicating gas from the depths of
 the cavern was by no means a fable. The so-called "laughing gas," which
 produces immediate intoxication, has the smell of bitter almonds.
 
-<span id="fn_122"></span>[135:1](pte05.htm#fr_122) From some Roman
+<span id="fn_122"></span>[135:1](pte05.htm#fr_122.md) From some Roman
 official, high in power, as may be inferred from the zeal of the priests
 in not keeping the envoys waiting for a more auspicious day.
 
-<span id="fn_123"></span>[135:2](pte05.htm#fr_123) ὕπομβρον for
+<span id="fn_123"></span>[135:2](pte05.htm#fr_123.md) ὕπομβρον for
 ὑπύτρομον.
 
-<span id="fn_124"></span>[135:3](pte05.htm#fr_124) ἀναφερειν must apply
+<span id="fn_124"></span>[135:3](pte05.htm#fr_124.md) ἀναφερειν must apply
 to what she *ought* to have heard the dweller in the cave respond. Some
 words that followed are lost.
 
-<span id="fn_125"></span>[136:1](pte05.htm#fr_125) The προφήτης must be
+<span id="fn_125"></span>[136:1](pte05.htm#fr_125.md) The προφήτης must be
 rendered "interpreter," his business being to put into an intelligible
 form the incoherent utterances of the intoxicated woman. Such an officer
 was a necessary appendage to every Oracle, wherever established. At the
@@ -2460,7 +2460,7 @@ himself "Interpres Latine," not because the god was drunk like the
 Pythia, but because, as a local deity, he could only speak Welsh. This
 building was of the time of the Flavian family.
 
-<span id="fn_126"></span>[136:2](pte05.htm#fr_126) The particulars just
+<span id="fn_126"></span>[136:2](pte05.htm#fr_126.md) The particulars just
 given prove the unfortunate Pythia died from a violent fit of delirium
 tremens, produced by the unusual strength of the nitrous gas she had
 inspired. But this was a rare exception, the gaseous intoxication as a
@@ -2469,4 +2469,4 @@ great age.
 
 ------------------------------------------------------------------------
 
-[Next: On the Pythian Responses](pte06)
+[Next: On the Pythian Responses](pte06.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv13)  [Next](rsv15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv13)  [Next](rsv15.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Heritage
 
 [![A tribesman of the hills and mountains of South
 Vietnam.](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)  
+Click to enlarge](img/05900.jpg.md)  
 A tribesman of the hills and mountains of South Vietnam.  
 
 For many Vietnamese, the village encompasses their lives. They are born,
@@ -49,7 +49,7 @@ understood by Americans.
 
 [![Tribespeople often store grain in small houses to protect it from
 fire or rats](tn/05901.jpg)  
-Click to enlarge](img/05901.jpg)  
+Click to enlarge](img/05901.jpg.md)  
 Tribespeople often store grain in small houses to protect it from fire
 or rats  
 
@@ -170,4 +170,4 @@ Vietnamese women washing their family's clothing<br />
 
 ------------------------------------------------------------------------
 
-[Next: B. Religious Practices and Activities](rsv15)
+[Next: B. Religious Practices and Activities](rsv15.md)

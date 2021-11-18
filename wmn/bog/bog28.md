@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog27)  [Next](bog29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog27)  [Next](bog29.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ night. Blessed be."
 
 ------------------------------------------------------------------------
 
-[Next: Eighth Principle: Aphrodite](bog29)
+[Next: Eighth Principle: Aphrodite](bog29.md)

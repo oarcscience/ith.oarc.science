@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm18)  [Next](bcm20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm18)  [Next](bcm20.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,10 +108,10 @@ doubt the translator will continue to regard it as a work of great
 form as "a real benefit" to students. I leave it to him.
 
 <span id="img_09500"></span> [![](tn/generic.jpg)  
-Click to view](img/09500.jpg)  
+Click to view](img/09500.jpg.md)  
 THE SUN-GOD RA SLAYING THE DRAGON OF DARKNESS.  
 From the Papyrus of Hunefer, c. B.C. 1370.
 
 ------------------------------------------------------------------------
 
-[Next: Section 1: The Grimorium Verum](bcm20)
+[Next: Section 1: The Grimorium Verum](bcm20.md)

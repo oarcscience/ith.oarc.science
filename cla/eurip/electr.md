@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Euripides](index)
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Euripides](index.md)
 
 ------------------------------------------------------------------------
 

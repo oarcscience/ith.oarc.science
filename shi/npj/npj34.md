@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj33) 
-[Next](npj35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj33.md) 
+[Next](npj35.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,7 +158,7 @@ BOY.
 
 Checking his heart which longed for swift return  
 At dawn towards the hills he dragged his feet. <span
-id="fr_184"></span>[1](#fn_182)
+id="fr_184"></span>[1](#fn_182.md)
 
 .          .          .          .          .          .
 
@@ -279,18 +279,18 @@ They stood together
 Heaving blindly,  
 None guiltier than his neighbour.  
 And clods of earth after  
-And flat stones they flung. <span id="fr_185"></span>[1](#fn_183)
+And flat stones they flung. <span id="fr_185"></span>[1](#fn_183.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_182"></span>[192:1](npj34.htm#fr_184) Here follows a long
+<span id="fn_182"></span>[192:1](npj34.htm#fr_184.md) Here follows a long
 lyric passage describing their journey and ascent. The frequent
 occurrence of place-names and plays of word on such names makes it
 impossible to translate.
 
-<span id="fn_183"></span>[195:1](npj34.htm#fr_185) I have only
+<span id="fn_183"></span>[195:1](npj34.htm#fr_185.md) I have only
 summarized the last chorus. When the pilgrims reach the summit, they
 pray to their founder, En no Gyōja, and to the God Fudō that the boy may
 be restored to life. In answer to their prayers a Spirit appears
@@ -301,4 +301,4 @@ descending into the valley.
 
 ------------------------------------------------------------------------
 
-[Next: Ikeniye (The Pool-Sacrifice)](npj35)
+[Next: Ikeniye (The Pool-Sacrifice)](npj35.md)

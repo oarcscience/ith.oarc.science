@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv28)  [Next](ogv30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv28)  [Next](ogv30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ ancients for it to have become a sort of proverb.
 
 The Emperor Tiberius, who made it a rule of conduct, said that a man of
 thirty years or more who called or even consulted a physician was an
-ignoramus. <span id="fr_464"></span>[a](#fn_463) It is true that
+ignoramus. <span id="fr_464"></span>[a](#fn_463.md) It is true that
 Tiberius did not add to the precept the exercise of the temperance that
 Lysis did not forget to commend in the following lines, also he lived
 only seventy-eight years, notwithstanding the strength of his
@@ -45,19 +45,19 @@ Tyanæus, Demonax, and many other Pythagorean philosophers lived to one
 hundred and six and one-hundred and ten years; and Pythagoras himself,
 although violently persecuted towards the end of his life, attained to
 nearly ninety-nine years according to some and even to the century mark
-according to others. <span id="fr_465"></span>[b](#fn_464)
+according to others. <span id="fr_465"></span>[b](#fn_464.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_463"></span>[194:a](ogv29.htm#fr_464) Bacon, *de le Vie et
+<span id="fn_463"></span>[194:a](ogv29.htm#fr_464.md) Bacon, *de le Vie et
 de la Mort;* Sueton., *in Tiber.*, § 66.
 
-<span id="fn_464"></span>[194:b](ogv29.htm#fr_465) Diogen. Laërt., *in
+<span id="fn_464"></span>[194:b](ogv29.htm#fr_465.md) Diogen. Laërt., *in
 Pythag*.
 
 ------------------------------------------------------------------------
 
 [Next: 19. . . . Dispense with moderation, Food to the body, and to the
-mind repose](ogv30)
+mind repose](ogv30.md)

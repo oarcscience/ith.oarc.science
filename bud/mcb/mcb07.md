@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mcb06)  [Next](mcb08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mcb06)  [Next](mcb08.md) 
 
 ------------------------------------------------------------------------
 
@@ -451,15 +451,15 @@ not to call it transmigration but incarnation. For he assumes all kinds
 of form on his own account, that is, voluntarily, in order to achieve a
 universal salvation. He is then not any more a passive sufferer of
 karmic causation. He is the "tent-designer" (*gahakāraka*)
-himself. <span id="fr_118"></span>[1](#fn_118)
+himself. <span id="fr_118"></span>[1](#fn_118.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_118"></span>[128:1](mcb07.htm#fr_118) *The Dhammapada*,
+<span id="fn_118"></span>[128:1](mcb07.htm#fr_118.md) *The Dhammapada*,
 verses 151-2.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Crucifixion and Enlightenment](mcb08)
+[Next: VI. Crucifixion and Enlightenment](mcb08.md)

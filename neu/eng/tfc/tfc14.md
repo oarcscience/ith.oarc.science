@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tfc13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tfc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales from Chaucer*, by Charles Cowden Clarke, \[1833\], at Intangible
 Textual Heritage
 
@@ -127,7 +127,7 @@ what they will of me; and yet for all my sorrow and hard labour and
 misdeeds, I could not bring myself to leave the trade. I wish I could
 tell you all that belongs to that art; some of it, however, I can tell,
 and since my master is gone I will not spare, but relate all I
-know." <span id="fr_39"></span>[\*](#fn_39)
+know." <span id="fr_39"></span>[\*](#fn_39.md)
 
  
 
@@ -159,7 +159,7 @@ prodigious wisdom, using none but quaint and learned terms, and all the
 while my business is to blow the fire till my heart faints within me. I
 need not detail the proportions of every material that we work upon,
 such as five or six ounces of silver, as may be, or trouble myself and
-you with names, such as orpiment, <span id="fr_40"></span>[\*](#fn_40)
+you with names, such as orpiment, <span id="fr_40"></span>[\*](#fn_40.md)
 burnt bones, iron scales and fragments, ground all together to a fine
 powder; and how all is placed in an earthen pot, putting in beforehand
 salt and pepper, the whole being well closed with a glass receiver that
@@ -180,9 +180,9 @@ Many other matters also appertain to our craft, though, being an
 unlettered man, I cannot rehearse them in their proper order; yet I will
 tell them as they arise in my mind, as bole ammoniac, verdigris, borax,
 and earthen and glass vessels; descensories, <span
-id="fr_41"></span>[\*](#fn_41) vials, crucibles, and
-sublimatories; <span id="fr_42"></span>[†](#fn_42) cucurbites <span
-id="fr_43"></span>[‡](#fn_43) and alembics, and other such stuff, dear
+id="fr_41"></span>[\*](#fn_41.md) vials, crucibles, and
+sublimatories; <span id="fr_42"></span>[†](#fn_42.md) cucurbites <span
+id="fr_43"></span>[‡](#fn_43.md) and alembics, and other such stuff, dear
 enough at the price of a leek. Rubifying waters, ox-gall and arsenic,
 sal-ammoniac, and brimstone; with herbs a long list, as agrimony,
 valerian, and moonwort, and a hundred others. Our lamps burning night
@@ -191,7 +191,7 @@ possible: our waters of albification, with unslaked lime, chalk, white
 of egg, various powders, ashes, manure and clay, saltpetre and vitriol,
 salt of tartar, alkali, and prepared salt; clay made with horse and
 man's hair; oil of tartar, alum, glass, yeast, wort, and argoil; <span
-id="fr_44"></span>[§](#fn_44) red arsenic, and other imbibing and
+id="fr_44"></span>[§](#fn_44.md) red arsenic, and other imbibing and
 
 <span id="page_175">p. 175</span>
 
@@ -256,7 +256,7 @@ senses, although he were a fiend like himself;
 
 <span id="img_17600"></span> <span align="CENTER"> [![The Canon's
 Yeoman](tn/17600.jpg)  
-Click to enlarge](img/17600.jpg)  
+Click to enlarge](img/17600.jpg.md)  
 The Canon's Yeoman  
 </span>
 
@@ -264,7 +264,7 @@ The Canon's Yeoman
 
 and therefore men have ridden miles to make his acquaintance, not
 knowing the treachery of his nature. In London, too, lived a priest, an
-annualler, <span id="fr_45"></span>[\*](#fn_45) and had resided there
+annualler, <span id="fr_45"></span>[\*](#fn_45.md) and had resided there
 many years. So pleasant and serviceable was he to the good woman where
 he lodged that she would suffer him to pay nothing for his board and
 clothes, however gaily he might appear. He had plenty of money to spend,
@@ -460,7 +460,7 @@ end of his troubles.
 
 ### Footnotes
 
-<span id="fn_39"></span>[172:\*](tfc14.htm#fr_39) It is worthy of remark
+<span id="fn_39"></span>[172:\*](tfc14.htm#fr_39.md) It is worthy of remark
 that in this early stage of science Chaucer should have had the good
 sense to see through the folly of the art of alchemy, or the power of
 turning baser metals into gold; which for ages deluded so many people,
@@ -475,22 +475,22 @@ but to write words upon paper. The leaden thoughts of some writers, and
 their success in making account of them, would lead one to conclude that
 the science of alchemy is no other than an allegory.
 
-<span id="fn_40"></span>[173:\*](tfc14.htm#fr_40) A fossil of a bright
+<span id="fn_40"></span>[173:\*](tfc14.htm#fr_40.md) A fossil of a bright
 and beautiful yellow colour, like pure gold.
 
-<span id="fn_41"></span>[174:\*](tfc14.htm#fr_41) Vessels used in
+<span id="fn_41"></span>[174:\*](tfc14.htm#fr_41.md) Vessels used in
 chemistry for the extracting of oils.
 
-<span id="fn_42"></span>[174:†](tfc14.htm#fr_42) Vessels used in
+<span id="fn_42"></span>[174:†](tfc14.htm#fr_42.md) Vessels used in
 sublimation; that is, separating certain parts of a body, and driving
 them to the top of a vessel in the form of a very fine powder.
 
-<span id="fn_43"></span>[174:‡](tfc14.htm#fr_43) A vessel shaped like a
+<span id="fn_43"></span>[174:‡](tfc14.htm#fr_43.md) A vessel shaped like a
 gourd (so called from the Latin for that fruit) used in distillation.
 
-<span id="fn_44"></span>[174:§](tfc14.htm#fr_44) Potter's clay.
+<span id="fn_44"></span>[174:§](tfc14.htm#fr_44.md) Potter's clay.
 
-<span id="fn_45"></span>[177:\*](tfc14.htm#fr_45) A priest employed
+<span id="fn_45"></span>[177:\*](tfc14.htm#fr_45.md) A priest employed
 solely to sing annuals, or anniversary masses for the dead, without
 having any cure of souls.
 

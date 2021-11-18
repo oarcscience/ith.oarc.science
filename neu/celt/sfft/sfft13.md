@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft12)  [Next](sfft14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft12)  [Next](sfft14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_90">p. 90</span>
 
-# STORIES OF ANIMALS. <span id="fr_38"></span>[1](#fn_38)
+# STORIES OF ANIMALS. <span id="fr_38"></span>[1](#fn_38.md)
 
 ### THE FOX OUTWITTED.
 
@@ -32,7 +32,7 @@ do?"
 "Why," said the goose, "that is an easy question. I would fold my hands,
 shut my eyes, say a grace, and then eat you."
 
-"Just what I mean to do," said Rory; <span id="fr_39"></span>[2](#fn_39)
+"Just what I mean to do," said Rory; <span id="fr_39"></span>[2](#fn_39.md)
 and folding his hands, and looking very demure, he said a pious grace
 with his eyes shut.
 
@@ -46,13 +46,13 @@ to say a grace again till after I feel the meat warm in my belly."
 
 ### Footnotes
 
-<span id="fn_38"></span>[90:1](sfft13.htm#fr_38) J. F. Campbell,
+<span id="fn_38"></span>[90:1](sfft13.htm#fr_38.md) J. F. Campbell,
 *Popular Tales of the West Highlands*.
 
-<span id="fn_39"></span>[90:2](sfft13.htm#fr_39) Rory is a corruption of
+<span id="fn_39"></span>[90:2](sfft13.htm#fr_39.md) Rory is a corruption of
 a Gaelic proper name, which means, one whose hair is the color of the
 fox "Ruadh."
 
 ------------------------------------------------------------------------
 
-[Next: The Fox Troubled With Fleas](sfft14)
+[Next: The Fox Troubled With Fleas](sfft14.md)

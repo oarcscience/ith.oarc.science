@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa42)  [Next](psa44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa42)  [Next](psa44.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,4 +204,4 @@ rejoicing in the gardener's house.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLIII](psa44)
+[Next: Chapter XLIII](psa44.md)

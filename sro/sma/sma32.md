@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -87,7 +87,7 @@ calculated to suit all these orders of persons. The fourteenth and
 fifteenth centuries were the most anarchic periods of Germany; the
 imperial power was feeble to control; and the characters of most of the
 emperors were such as to render still more unavailing the little
-[authority](errata.htm#30) which, as heads of the empire, they
+[authority](errata.htm#30.md) which, as heads of the empire, they
 possessed. Sensible of their weakness, these monarchs generally favoured
 the Fehm-tribunals, which so freely, and even ostentatiously, recognised
 the imperial superiority, as long as it did not seek to control them or
@@ -156,7 +156,7 @@ instead of relaxing in their pretensions, they even sought to extend
 them farther than before. Under their usual pretext--the denial of
 justice--they extended their citations to persons and places over which
 they had no jurisdiction, and thereby provoked the enmity and excited
-the active hostility of cities and powerful [territorial](errata.htm#31)
+the active hostility of cities and powerful [territorial](errata.htm#31.md)
 lords.
 
 The most remarkable cases which this period presents of the perversion
@@ -294,7 +294,7 @@ their
 
 <span id="img_40600"></span> <span align="CENTER"> [![Seal of the Secret
 Tribunals](tn/40600.jpg)  
-Click to enlarge](img/40600.jpg)  
+Click to enlarge](img/40600.jpg.md)  
 Seal of the Secret Tribunals  
 </span>
 

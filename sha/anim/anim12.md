@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim11)  [Next](anim13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim11)  [Next](anim13.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ of the Ancient Egyptians*, pp. 54 ff.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Modifications of the Idea of Continuance](anim13)
+[Next: Chapter XI. Modifications of the Idea of Continuance](anim13.md)

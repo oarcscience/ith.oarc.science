@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku53)  [Next](tku55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku53)  [Next](tku55.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ presence.
 joyful.
 
 12\. And he said: "Let those Companions who were in the former
-Conclave <span id="fr_210"></span>[1](#fn_208) assemble here."
+Conclave <span id="fr_210"></span>[1](#fn_208.md) assemble here."
 
 13\. Therefore, all the others having gone forth, there remained Rabbi
 Eleazar his son, and Rabbi Abba, and Rabbi Yehudah, and Rabbi Yosi Bar
@@ -115,7 +115,7 @@ glory."
 
 26\. Rabbi Schimeon said: "How different is this occasion from that of
 the former conclave! For into a certain conclave <span
-id="fr_211"></span>[1](#fn_209) came He, the most Holy and Blessed God,
+id="fr_211"></span>[1](#fn_209.md) came He, the most Holy and Blessed God,
 and His Chariot.
 
 27\. "Now verily He, the Holy One, is here--may He
@@ -123,7 +123,7 @@ and His Chariot.
 <span id="page_262">p. 262</span>
 
 be blessed--and He hath approached with those just who are in the Garden
-of Eden, <span id="fr_212"></span>[1](#fn_210) which did not occur in
+of Eden, <span id="fr_212"></span>[1](#fn_210.md) which did not occur in
 the former conclave.
 
 28\. "And God, the Most Holy One--may He be blessed--more promoteth the
@@ -149,7 +149,7 @@ are seventy just represented in his circle, of whom certain shine with
 the splendour of the Ancient and Most Holy One, the Concealed with all
 Concealments.
 
-33. <span id="fr_213"></span>[2](#fn_211) He, I say, cometh, in order
+33. <span id="fr_213"></span>[2](#fn_211.md) He, I say, cometh, in order
 that with joy he may hear those words which I shall speak."
 
 34\. And when he had sat down be said: "Assuredly here a seat hath been
@@ -195,7 +195,7 @@ from Him, from His conformation.
 and they rush forth and are extended on every side, like as from an
 elevated lantern the rays of. light stream down on every side.
 
-45\. "And those rays of light, <span id="fr_214"></span>[1](#fn_212)
+45\. "And those rays of light, <span id="fr_214"></span>[1](#fn_212.md)
 which are extended, when anyone draweth near unto them, so that they may
 be examined, are not found, and there is only the lantern alone.
 
@@ -205,7 +205,7 @@ Light concealed with all concealments,
 <span id="page_264">p. 264</span>
 
 and He is not found; those rays <span
-id="fr_215"></span>[1](tku55.htm#fn_213) (*proceeding from Him*) being
+id="fr_215"></span>[1](tku55.htm#fn_213) (*proceeding from Him*.md) being
 excepted, which are extended, which are revealed, and which are hidden.
 
 47\. "And they are called the Holy Name, and therefore are all things
@@ -229,25 +229,25 @@ words."
 
 ### Footnotes
 
-<span id="fn_208"></span>[260:1](tku54.htm#fr_210) That is, who had
+<span id="fn_208"></span>[260:1](tku54.htm#fr_210.md) That is, who had
 formed part of the Greater Holy Assembly.
 
-<span id="fn_209"></span>[261:1](tku54.htm#fr_211) Meaning that the
+<span id="fn_209"></span>[261:1](tku54.htm#fr_211.md) Meaning that the
 Greater Holy Assembly had been as it were the reflection of the conclave
 of the Sephiroth above. The word used for "chariot" is not *Mercavah*,
 but *Rethikh*.
 
-<span id="fn_210"></span>[262:1](tku54.htm#fr_212) *I.e.*, The Paradise
+<span id="fn_210"></span>[262:1](tku54.htm#fr_212.md) *I.e.*, The Paradise
 above.
 
-<span id="fn_211"></span>[262:2](tku54.htm#fr_213) In the original both
+<span id="fn_211"></span>[262:2](tku54.htm#fr_213.md) In the original both
 this and the foregoing section, apparently by an oversight, have the
 number 33 attached to them.
 
-<span id="fn_212"></span>[263:1](tku54.htm#fr_214) Carrying on the
+<span id="fn_212"></span>[263:1](tku54.htm#fr_214.md) Carrying on the
 simile of the lantern and its rays.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II: Concerning the Skull of the Ancient One...His
-Brain...Three Heads...Hair...Discriminatory Paths](tku55)
+Brain...Three Heads...Hair...Discriminatory Paths](tku55.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia44)  [Next](aia46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia44)  [Next](aia46.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_334">p. 334</span>
 
-#### 4. LIST OF FIXED STARS WHICH MAY BE CONSIDERED IN HORARY QUESTIONS; WITH THEIR APPROXIMATE LONGITUDE, JAN. 1, 1835. <span id="fr_125"></span>[1](#fn_124)
+#### 4. LIST OF FIXED STARS WHICH MAY BE CONSIDERED IN HORARY QUESTIONS; WITH THEIR APPROXIMATE LONGITUDE, JAN. 1, 1835. <span id="fr_125"></span>[1](#fn_124.md)
 
 |                                           |            |           |         |            |
 |-------------------------------------------|------------|-----------|---------|------------|
@@ -140,7 +140,7 @@ October, 1835, in; 4° 20', with 22° 6 north latitude.
 
 ### Footnotes
 
-<span id="fn_124"></span>[334:1](aia45.htm#fr_125) These are the
+<span id="fn_124"></span>[334:1](aia45.htm#fr_125.md) These are the
 principal fixed stars, near the ecliptic, to which only the planets can
 approach. If the student require the places of the stars for the purpose
 of bringing them to the midheaven or ascendant in a nativity, he may
@@ -153,4 +153,4 @@ vary.
 
 ------------------------------------------------------------------------
 
-[Next: Explanation of Terms Used in this Work](aia46)
+[Next: Explanation of Terms Used in this Work](aia46.md)

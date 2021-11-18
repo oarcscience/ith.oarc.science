@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc047) 
-[Next](motc049) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc047.md) 
+[Next](motc049.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ woods.
 
 ------------------------------------------------------------------------
 
-[Next: 49. The Snake Tribe](motc049)
+[Next: 49. The Snake Tribe](motc049.md)

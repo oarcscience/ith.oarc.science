@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar186) [Next](gbar188)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar186) [Next](gbar188.md)
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ should desire a book."
 
 ------------------------------------------------------------------------
 
-[Next](gbar188)
+[Next](gbar188.md)

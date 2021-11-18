@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tbr28)  [Next](tbr30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tbr28)  [Next](tbr30.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,11 +12,11 @@ Textual Heritage
 #### The Prayer not to be Mechanical: Prayer when in Danger.
 
 4\. R. Eliezer used to say: He that maketh his prayer a fixed
-portion <span id="fr_196"></span>[3](#fn_195)—his prayer is not true
+portion <span id="fr_196"></span>[3](#fn_195.md)—his prayer is not true
 supplication. R. Joshua used to say: He that travelleth in a dangerous
 place prays the Prayer in a shortened form, the abstract of the
 Eighteen, and says: *Save, O LORD, Thy people, the remnant of
-Israel;* <span id="fr_197"></span>[4](#fn_196) and at every branch-road
+Israel;* <span id="fr_197"></span>[4](#fn_196.md) and at every branch-road
 of their journey let their needs be before Thee. Blessed art Thou, O
 LORD, that hearest prayer.
 
@@ -43,7 +43,7 @@ a shortened form on sabbath eves: "Of Thy love, O LORD our God, with
 which Thou hast loved Israel Thy people, and of Thy compassion, O our
 King, with which Thou hast had compassion on the sons of Thy covenant,
 Thou hast given to us, O LORD our God, this great and holy seventh day
-in love." And over the cup <span id="fr_198"></span>[1](#fn_197) he used
+in love." And over the cup <span id="fr_198"></span>[1](#fn_197.md) he used
 to say: "Who did sanctify the sabbath day"; and he did not add the
 "seal."
 
@@ -51,14 +51,14 @@ to say: "Who did sanctify the sabbath day"; and he did not add the
 
 ### Footnotes
 
-<span id="fn_195"></span>[31:3](tbr29.htm#fr_196) *a fixed portion*.
+<span id="fn_195"></span>[31:3](tbr29.htm#fr_196.md) *a fixed portion*.
 i.e. with a limit of time and matter not to be exceeded.
 
-<span id="fn_196"></span>[31:4](tbr29.htm#fr_197) Jer. 31<sup>7</sup>.
+<span id="fn_196"></span>[31:4](tbr29.htm#fr_197.md) Jer. 31<sup>7</sup>.
 
-<span id="fn_197"></span>[32:1](tbr29.htm#fr_198) *the cup*. Drunk on
+<span id="fn_197"></span>[32:1](tbr29.htm#fr_198.md) *the cup*. Drunk on
 Sabbath eve before the meal (Laible).
 
 ------------------------------------------------------------------------
 
-[Next: M. IV. 5; T. III. 18. Prayer when riding on an Ass](tbr30)
+[Next: M. IV. 5; T. III. 18. Prayer when riding on an Ass](tbr30.md)

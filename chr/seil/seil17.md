@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil16)  [Next](seil18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil16)  [Next](seil18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -27,9 +27,9 @@ thing which I have to contemplate.
 Here, it is how the Three Divine Persons looked at all the plain or
 circuit of all the world, full of men, and how, seeing that all were
 going down to Hell, it is determined in Their Eternity, <span
-id="fr_6"></span>[7](seil83.htm#fn_6) that the Second Person shall
+id="fr_6"></span>[7](seil83.htm#fn_6.md) that the Second Person shall
 become man to save the human race, and so, the fullness of times being
-come, <span id="fr_7"></span>[8](seil83.htm#fn_7) They sent the Angel
+come, <span id="fr_7"></span>[8](seil83.htm#fn_7.md) They sent the Angel
 St. Gabriel to Our Lady (p. 133).
 
 **Second Prelude**. The second, a composition, seeing the place: here it
@@ -85,4 +85,4 @@ I will say an OUR FATHER.
 
 ------------------------------------------------------------------------
 
-[Next: Second Contemplation: On the Nativity](seil18)
+[Next: Second Contemplation: On the Nativity](seil18.md)

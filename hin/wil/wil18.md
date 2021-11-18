@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil17.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,7 +149,7 @@ scarcely venture to believe that the earth moves; must apologise for
 enjoying the cosmic speculations of La Place; could hardly study Plato
 without grave suspicion. In India, atheism itself might be preached on
 the very steps of the temple. All that the people would demand of the
-preacher would be sincerity. <span id="fr_42"></span>[\*](#fn_42) In
+preacher would be sincerity. <span id="fr_42"></span>[\*](#fn_42.md) In
 Christendom, knowledge has been so much feared that men have again and
 again suffered torture and death for no other crime. In India, knowledge
 has always been held to be beatitude. Abundance of words, in every
@@ -183,7 +183,7 @@ religion alone. The deeper we go into the history of Hindu philosophy,
 the more perplexed we are that with its obviously scientific character
 it should never have created a scientific movement of the prestige and
 *éclat* of that of the West. Patanjali, <span
-id="fr_43"></span>[\*](#fn_43) who wrote his great psychology in the
+id="fr_43"></span>[\*](#fn_43.md) who wrote his great psychology in the
 second century B.C., was obviously a physiologist, studying the living
 body in relation to that nervous system which in its entirety he would
 call the mind. The action and inter-action of the living neuropsychosis
@@ -218,7 +218,7 @@ a necessity. But at the same time its fundamental solidity and
 originality are shown by the fact that highly abstruse problems are
 stated by Hindu thinkers in concrete, and even in poetic terms. And it
 will be remembered that less than a hundred years ago, De Morgan <span
-id="fr_44"></span>[\*](#fn_44) celebrated the solution at sight of
+id="fr_44"></span>[\*](#fn_44.md) celebrated the solution at sight of
 certain hitherto uncompleted problems of "Maxima and Minima," by a young
 Hindu called Ram Chandra.
 
@@ -807,18 +807,18 @@ LONDON
 
 ### Footnotes
 
-<span id="fn_42"></span>[257:\*](wil18.htm#fr_42) The Charvaka system of
+<span id="fn_42"></span>[257:\*](wil18.htm#fr_42.md) The Charvaka system of
 philosophy, one of the orthodox schools, is a purely agnostic
 formulation, I have myself met a Charvaka on a pilgrimage. His
 statements of belief sounded like mockery of the people about him. The
 word "orthodox" here only means that by adopting Charvaka doctrines, a
 man did not cease to be called a Hindu.
 
-<span id="fn_43"></span>[258:\*](wil18.htm#fr_43) Patanjali wrote "Yoga
+<span id="fn_43"></span>[258:\*](wil18.htm#fr_43.md) Patanjali wrote "Yoga
 Aphorisms." "Raja-Yoga" by the Swami Vivekananda is a translation of
 this work, with a compilation from some of Patanjali's commentators.
 
-<span id="fn_44"></span>[259:\*](wil18.htm#fr_44) De Morgan died 1875.
+<span id="fn_44"></span>[259:\*](wil18.htm#fr_44.md) De Morgan died 1875.
 Père Gratry and George Boole were other distinguished mathematicians
 deeply aware of their indebtedness to Eastern systems.
 

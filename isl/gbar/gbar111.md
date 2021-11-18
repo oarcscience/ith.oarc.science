@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar110) [Next](gbar112)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar110) [Next](gbar112.md)
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ watching should be taken according to the constitution of each one.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar112)
+[Next](gbar112.md)

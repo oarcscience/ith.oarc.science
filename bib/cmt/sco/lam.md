@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Commentary](../index)  [Index](index)   
-[Jeremiah](jer)  [Ezekiel](eze)
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Commentary](../index)  [Index](index.md)   
+[Jeremiah](jer)  [Ezekiel](eze.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Lamentations Introduction](lam000)  
-[Lamentations Chapter 3](lam003)  
+[Lamentations Introduction](lam000.md)  
+[Lamentations Chapter 3](lam003.md)  

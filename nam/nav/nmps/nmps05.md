@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](nmps04)  [Next](nmps06) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](nmps04)  [Next](nmps06.md) 
 
 ------------------------------------------------------------------------
 
@@ -382,4 +382,4 @@ four times.)
 
 ------------------------------------------------------------------------
 
-[Next: A Prayer of the Fourth Day of the Night Chant.](nmps06)
+[Next: A Prayer of the Fourth Day of the Night Chant.](nmps06.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr30) 
-[Next](idr32) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr30.md) 
+[Next](idr32.md) 
 
 ------------------------------------------------------------------------
 
@@ -364,4 +364,4 @@ Who can decide when such authorities disagree?
 
 ------------------------------------------------------------------------
 
-[Next: Ossian the Bard](idr32)
+[Next: Ossian the Bard](idr32.md)

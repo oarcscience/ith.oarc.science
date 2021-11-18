@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac30)  [Next](sac32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac30)  [Next](sac32.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,11 +38,11 @@ practice was to watch a first-magnitude
 <span id="page_295">p. 295</span>
 
 star, which I named a "clock-star," <span
-id="fr_118"></span>[1](#fn_118) of such a declination that it just
+id="fr_118"></span>[1](#fn_118.md) of such a declination that it just
 dipped below the northern horizon so that it was visible for almost the
 whole of its path. Doubtless this same method of determining the flow of
 time during the night watches was also employed in Babylonia, <span
-id="fr_119"></span>[2](#fn_119) but there, alas! the temples, or, in
+id="fr_119"></span>[2](#fn_119.md) but there, alas! the temples, or, in
 other words, the astronomical observatories, have disappeared, so that
 only the Egyptian practice remains for us to study.
 
@@ -81,13 +81,13 @@ ancient roll. Supposing this temple built parallel with the faces of the
 remaining obelisk, γ Draconis would rise in its axis prolonged 2500
 B.C., proving that Usertsen did at Annu what Pepi previously did at
 Denderah, and that the same reason for restoration and even the same
-star were in question. <span id="fr_120"></span>[1](#fn_120)
+star were in question. <span id="fr_120"></span>[1](#fn_120.md)
 
 When the clock-star ceased to be visible in the chief temple other
 subsidiary temples were subsequently built to watch it. Thus γ Draconis
 was watched at Thebes from 3500 B.C. to the times of the Ptolemys by
 temples oriented successively from that of Mut Az. N. 72° 30´ E. to 68°
-30´, 63° 30´, and 62°. <span id="fr_121"></span>[2](#fn_121)
+30´, 63° 30´, and 62°. <span id="fr_121"></span>[2](#fn_121.md)
 
 It is worth while to show that what we know now of the Egyptian methods
 of observation enables us to carry the matter further, while we gather
@@ -99,7 +99,7 @@ consisted of two temples at right angles
 
 <span id="page_297">p. 297</span>
 
-to each other (see [Fig. 13](sac09.htm#img_fig13)), one axis pointing
+to each other (see [Fig. 13](sac09.htm#img_fig13).md), one axis pointing
 high N.E. to observe the clock-star--the worship of Set—the other low
 N.W. to observe either the sun by itself, or in association with some
 important star of the same declination as the sun.
@@ -300,7 +300,7 @@ consequence.
 
 [![FIG. 61.—Arcturus and Capella as clock-stars in Britain.&lt;br&gt;
 AB= sea horizon. A´B´ =horizon 3° high.](tn/fig61.jpg)  
-Click to enlarge](img/fig61.jpg)  
+Click to enlarge](img/fig61.jpg.md)  
 FIG. 61.—Arcturus and Capella as clock-stars in Britain.  
 AB= sea horizon. A´B´ =horizon 3° high.  
 
@@ -366,7 +366,7 @@ were thus used.
 <span id="img_fig62"></span>
 
 [![FIG. 62.—A “night-dial.”](tn/fig62.jpg)  
-Click to enlarge](img/fig62.jpg)  
+Click to enlarge](img/fig62.jpg.md)  
 FIG. 62.—A “night-dial.”  
 
 <span class="contnote">\[paragraph continues\]</span> There was a disc
@@ -380,17 +380,17 @@ the time of night could be read off.
 
 ### Footnotes
 
-<span id="fn_118"></span>[295:1](sac31.htm#fr_118) *Dawn of Astronom*y,
+<span id="fn_118"></span>[295:1](sac31.htm#fr_118.md) *Dawn of Astronom*y,
 1894, p. 343.
 
-<span id="fn_119"></span>[295:2](sac31.htm#fr_119) Jensen, *Kosmologie
+<span id="fn_119"></span>[295:2](sac31.htm#fr_119.md) Jensen, *Kosmologie
 der Babylonier*, p. 147.
 
-<span id="fn_120"></span>[296:1](sac31.htm#fr_120) *Dawn of Astronomy*,
+<span id="fn_120"></span>[296:1](sac31.htm#fr_120.md) *Dawn of Astronomy*,
 p. 215.
 
-<span id="fn_121"></span>[296:2](sac31.htm#fr_121) *Ibid*., p. 214.
+<span id="fn_121"></span>[296:2](sac31.htm#fr_121.md) *Ibid*., p. 214.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX. A Short History of Sun Temples](sac32)
+[Next: Chapter XXIX. A Short History of Sun Temples](sac32.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna04)  [Next](ntna06) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna04)  [Next](ntna06.md) 
 
 ------------------------------------------------------------------------
 
@@ -796,7 +796,7 @@ to a close.
 
 The various articles worn by the *Watjinyerti* boy, the *Mikinyertinga*
 girl and the mother of the boy are shown in Plate 1. [\[Ornaments Worn
-During Initiation Ceremony On Melville Islane\]](img/pla001.jpg) Figs. 1
+During Initiation Ceremony On Melville Islane\]](img/pla001.jpg.md) Figs. 1
 and 2 represent the special belt called *Olturuma*. Both of them are
 twenty-six inches in length and very strongly made out of alternate
 blocks or panels, as it were, of human hair and banyan bark string,
@@ -1309,7 +1309,7 @@ hands away and the boys are told to look up and are warned that all they
 
 |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![The Jamba Ceremony](img/12800.jpg) | see is kumali. The *Numulakiri* say to them, *Tjikaru koiyu koyada*--don't talk to *Koiyu* (mothers); *Illaberi legilli koyada unkoregora*--don't let the *Illaberi* (younger brothers and sisters) see (your) spittle; *Illaberi korno koyada unkoregora*--don't let the Illaberi see (your) excrement; *Kumbari koyada kumali koiyu*--don't laugh (to your) *koiyu* (about) the kumali; *Unkoregora Tjaina kumali*--look or see the *Tjaina*, (it is) kumali; |
+| ![The Jamba Ceremony](img/12800.jpg) | see is kumali. The *Numulakiri* say to them, *Tjikaru koiyu koyada*--don't talk to *Koiyu* (mothers); *Illaberi legilli koyada unkoregora*--don't let the *Illaberi* (younger brothers and sisters) see (your) spittle; *Illaberi korno koyada unkoregora*--don't let the Illaberi see (your) excrement; *Kumbari koyada kumali koiyu*--don't laugh (to your) *koiyu* (about) the kumali; *Unkoregora Tjaina kumali*--look or see the *Tjaina*, (it is.md) kumali; |
 
 {p. 129}
 
@@ -1563,7 +1563,7 @@ like "biddle-an-bum," with a strong emphasis on the last syllable.
 {*This is probably the instrument which is known as a didjeridoo--jbh*}
 Each of the
 
-![Illustrating the Ober Ceremony](img/13700.jpg)
+![Illustrating the Ober Ceremony](img/13700.jpg.md)
 
 performers bent forward and placed his hands on the hips of the man
 immediately in front of him. In this position they swayed the upper
@@ -2846,4 +2846,4 @@ who takes the boy away during the initiation ceremony.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Totemic Systems and Totem Groups](ntna06)
+[Next: Chapter IV: Totemic Systems and Totem Groups](ntna06.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic024)  [Next](lfic026) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic024)  [Next](lfic026.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ the chief articles in his pharmacopoeia.
 
 ------------------------------------------------------------------------
 
-[Next: The Sea Fairies](lfic026)
+[Next: The Sea Fairies](lfic026.md)

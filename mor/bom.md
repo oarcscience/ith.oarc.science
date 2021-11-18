@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index)  [Mormonism](index) 
+[Intangible Textual Heritage](../index)  [Mormonism](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -6,19 +6,19 @@
 
 ------------------------------------------------------------------------
 
-[Intro](intro)  
-[1 Nephi](book00)  
-[2 Nephi](book01)  
-[Jacob](book02)  
-[Enos](book03)  
-[Jarom](book04)  
-[Omni](book05)  
-[Words of Mormon](book06)  
-[Mosiah](book07)  
-[Alma](book08)  
-[Helaman](book09)  
-[3 Nephi](book10)  
-[4 Nephi](book11)  
-[Mormon](book12)  
-[Ether](book13)  
-[Moroni](book14)  
+[Intro](intro.md)  
+[1 Nephi](book00.md)  
+[2 Nephi](book01.md)  
+[Jacob](book02.md)  
+[Enos](book03.md)  
+[Jarom](book04.md)  
+[Omni](book05.md)  
+[Words of Mormon](book06.md)  
+[Mosiah](book07.md)  
+[Alma](book08.md)  
+[Helaman](book09.md)  
+[3 Nephi](book10.md)  
+[4 Nephi](book11.md)  
+[Mormon](book12.md)  
+[Ether](book13.md)  
+[Moroni](book14.md)  

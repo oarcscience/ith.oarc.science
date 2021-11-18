@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Next](kort01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Next](kort01.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Note](kort01)
+[Next: Note](kort01.md)

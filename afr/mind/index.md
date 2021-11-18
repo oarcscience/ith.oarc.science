@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
 
 </div>
 
@@ -24,8 +24,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mind00)    [Text
-\[Zipped\]](mind.txt.gz)
+[Contents](#contents)    [Start Reading](mind00.md)    [Text
+\[Zipped\]](mind.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ colonialist. Nevertheless, it is written by an intelligent and
 sympathetic European observer who spent many years studying West African
 folklore, culture, and religion at the turn of the 19th century. It is
 useful because it goes into much greater detail than any other book from
-this period about Bantu and [Yoruba](mind24) spiritual practices and
+this period about Bantu and [Yoruba](mind24.md) spiritual practices and
 philosophy. The problem is that it presents some very half-baked
 theories as to the significance of this data, which should be treated
 with great caution.
@@ -47,30 +47,30 @@ Ching and the Qabalah). - *JBH*.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Preface](mind00)  
-[Chapter 1. Luango and the Bavili](mind01)  
-[Chapter 2. Election of a King in the Kongo](mind02)  
-[Chapter 3. Coronation of a King in the Kongo](mind03)  
-[Chapter 4. Courts of Maluango and Mamboma](mind04)  
-[Chapter 5. Law](mind05)  
-[Chapter 6. Measures, Signs, and Symbols](mind06)  
-[Chapter 7. Bavili Psychology](mind07)  
-[Chapter 8. Ndongoism](mind08)  
-[Chapter 9. Nkici-ism](mind09)  
-[Chapter 10. Bavili Philosophy](mind10)  
-[Chapter 11. Bibila, the Philosophy of the Groves](mind11)  
-[Chapter 12. Sacred Lands and Rivers](mind12)  
-[Chapter 13. Sacred Trees](mind13)  
-[Chapter 14. The Omens](mind14)  
-[Chapter 15. Sacred Animals](mind15)  
+<span id="contents"></span> [Preface](mind00.md)  
+[Chapter 1. Luango and the Bavili](mind01.md)  
+[Chapter 2. Election of a King in the Kongo](mind02.md)  
+[Chapter 3. Coronation of a King in the Kongo](mind03.md)  
+[Chapter 4. Courts of Maluango and Mamboma](mind04.md)  
+[Chapter 5. Law](mind05.md)  
+[Chapter 6. Measures, Signs, and Symbols](mind06.md)  
+[Chapter 7. Bavili Psychology](mind07.md)  
+[Chapter 8. Ndongoism](mind08.md)  
+[Chapter 9. Nkici-ism](mind09.md)  
+[Chapter 10. Bavili Philosophy](mind10.md)  
+[Chapter 11. Bibila, the Philosophy of the Groves](mind11.md)  
+[Chapter 12. Sacred Lands and Rivers](mind12.md)  
+[Chapter 13. Sacred Trees](mind13.md)  
+[Chapter 14. The Omens](mind14.md)  
+[Chapter 15. Sacred Animals](mind15.md)  
 [Chapter 16. Nzambi (God), the Word Nkici, and the Bakici
-Baci](mind16)  
-[Chapter 17. The Bini](mind17)  
-[Chapter 18. Benin Districts](mind18)  
-[Chapter 19. Bini Customs](mind19)  
-[Chapter 20. More Customs](mind20)  
-[Chapter 21. Traces of Nkici-ism Among the Bini](mind21)  
+Baci](mind16.md)  
+[Chapter 17. The Bini](mind17.md)  
+[Chapter 18. Benin Districts](mind18.md)  
+[Chapter 19. Bini Customs](mind19.md)  
+[Chapter 20. More Customs](mind20.md)  
+[Chapter 21. Traces of Nkici-ism Among the Bini](mind21.md)  
 [Chapter 22. The Philosophy at the Back of the Black Man's Mind in Table
-Form](mind22)  
-[Chapter 23. Conclusion](mind23)  
-[Appendix](mind24)  
+Form](mind22.md)  
+[Chapter 23. Conclusion](mind23.md)  
+[Appendix](mind24.md)  

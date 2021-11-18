@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml21)  [Next](cml23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml21)  [Next](cml23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
 
 ### CHAPTER XVIII
 
-### THE WOOING OF BRANWEN AND THE BEHEADING OF BRÂN <span id="fr_335"></span>[1](#fn_335)
+### THE WOOING OF BRANWEN AND THE BEHEADING OF BRÂN <span id="fr_335"></span>[1](#fn_335.md)
 
 In the second of the "Four Branches", Pryderi, come to man's estate, and
 married to a wife called Kicva, appears as a guest or vassal at the
@@ -36,7 +36,7 @@ pavilions; for "no house could ever hold the
 <span id="page_290">p. 290</span>
 
 blessed Brân". And there Branwen became the King of Ireland's
-bride. <span id="fr_336"></span>[1](#fn_336)
+bride. <span id="fr_336"></span>[1](#fn_336.md)
 
 These relations were not long, however, allowed to be friendly. Of the
 two other sons of Llyr's wife, Penardun, the mother of Manawyddan, one
@@ -93,7 +93,7 @@ swiftly moving towards Ireland. They informed
 <span class="contnote">\[paragraph continues\]</span> Matholwch, who
 could not understand it, and sent messengers to ask Branwen what she
 thought it might be. "It is the men of the Island of the Mighty <span
-id="fr_337"></span>[1](#fn_337)," said she, "who are coming here because
+id="fr_337"></span>[1](#fn_337.md)," said she, "who are coming here because
 they have heard of my ill-treatment. The forest that is seen on the sea
 is made of the masts of ships. The mountain is my brother Brân, wading
 into shoal water; the lofty ridge is his nose, and the two lakes, one on
@@ -150,19 +150,19 @@ Thus things were made equal again, and in the
 
 next battle the men of Britain killed all the Irish. But of themselves
 there were only seven left unhurt--Pryderi; Manawyddan; Gluneu, the son
-of Taran <span id="fr_338"></span>[1](#fn_338); Taliesin the Bard;
+of Taran <span id="fr_338"></span>[1](#fn_338.md); Taliesin the Bard;
 Ynawc; Grudyen, the son of Muryel; and Heilyn, the son of Gwynn the
 Ancient.
 
 Brân himself was wounded in the foot with a poisoned dart, and was in
 agony. So he ordered his seven surviving followers to cut off his head,
 and to take it to the White Mount in London <span
-id="fr_339"></span>[2](#fn_339), and bury it there, with the face
+id="fr_339"></span>[2](#fn_339.md), and bury it there, with the face
 towards France. He prophesied how they would perform the journey. At
 Harlech they would be feasting seven years, the birds of Rhiannon
 singing to them all the time, and Brân's own head conversing with them
 as agreeably as when it was on his body. Then they would be fourscore
-years at Gwales <span id="fr_340"></span>[3](#fn_340). All this while,
+years at Gwales <span id="fr_340"></span>[3](#fn_340.md). All this while,
 Brân's head would remain uncorrupted, and would talk so pleasantly that
 they would forget the flight of time. But, at the destined hour, someone
 would open a door which looked towards Cornwall, and, after that, they
@@ -184,14 +184,14 @@ Of the wondering birds
 On seeing the fair body.  
 Will there not be relating again  
 Of that which befel the paragon  
-At the stream of Amlwch?" <span id="fr_341"></span>[1](#fn_341)
+At the stream of Amlwch?" <span id="fr_341"></span>[1](#fn_341.md)
 
 "They made her a four-sided grave," says the Mabinogi, "and buried her
 upon the banks of the Alaw." The traditionary spot has always borne the
 name of *Ynys Branwen*, and, curiously enough, an urn was found there,
 in 1813, full of ashes and half-burnt bones, which certain enthusiastic
 local antiquaries saw "every reason to suppose" were those of the fair
-British Aphrodité herself. <span id="fr_342"></span>[2](#fn_342)
+British Aphrodité herself. <span id="fr_342"></span>[2](#fn_342.md)
 
 The seven went on towards Harlech, and, as they journeyed, they met men
 and women who gave them the latest news. Caswallawn, a son of Beli, the
@@ -236,7 +236,7 @@ otherwise than by valour". Disaster, in the shape of
 
                   "the godless hosts  
 Of heathen swarming o’er the Northern sea", <span
-id="fr_343"></span>[1](#fn_343)
+id="fr_343"></span>[1](#fn_343.md)
 
 came of this disinterment; and therefore it is called, in a triad, one
 of the "Three Wicked Uncoverings of Britain".
@@ -245,38 +245,38 @@ of the "Three Wicked Uncoverings of Britain".
 
 ### Footnotes
 
-<span id="fn_335"></span>[289:1](cml22.htm#fr_335) Retold from Lady
+<span id="fn_335"></span>[289:1](cml22.htm#fr_335.md) Retold from Lady
 Guest's translation of the Mabinogi of *Branwen, the Daughter of Llyr*.
 
-<span id="fn_336"></span>[290:1](cml22.htm#fr_336) Rhys--*Lectures on
+<span id="fn_336"></span>[290:1](cml22.htm#fr_336.md) Rhys--*Lectures on
 Welsh Philology*--compares Matholwch with Mâth, and the story,
 generally, with the Greek myth of Persephoné.
 
-<span id="fn_337"></span>[292:1](cml22.htm#fr_337) A bardic name for
+<span id="fn_337"></span>[292:1](cml22.htm#fr_337.md) A bardic name for
 Britain.
 
-<span id="fn_338"></span>[294:1](cml22.htm#fr_338) This personage may
+<span id="fn_338"></span>[294:1](cml22.htm#fr_338.md) This personage may
 have been the same as the Gaulish god Taranis. Mention, too, is made in
 an ancient Irish glossary of "Etirun, an idol of the Britons".
 
-<span id="fn_339"></span>[294:2](cml22.htm#fr_339) This spot, called by
+<span id="fn_339"></span>[294:2](cml22.htm#fr_339.md) This spot, called by
 a twelfth-century Welsh poet "The White Eminence of London, a place of
 splendid fame", was probably the hill on which the Tower of London now
 stands.
 
-<span id="fn_340"></span>[294:3](cml22.htm#fr_340) The island of
+<span id="fn_340"></span>[294:3](cml22.htm#fr_340.md) The island of
 Gresholm, off the coast of Pembrokeshire.
 
-<span id="fn_341"></span>[295:1](cml22.htm#fr_341) The *Gododin* of
+<span id="fn_341"></span>[295:1](cml22.htm#fr_341.md) The *Gododin* of
 Aneurin, as translated by T. Stephens. Branwen is there called "the lady
 Bradwen".
 
-<span id="fn_342"></span>[295:2](cml22.htm#fr_342) See note to *Branwen,
+<span id="fn_342"></span>[295:2](cml22.htm#fr_342.md) See note to *Branwen,
 the Daughter of Llyr* in Lady Guest's *Mabinogion*.
 
-<span id="fn_343"></span>[297:1](cml22.htm#fr_343) Tennyson: *Idylls of
+<span id="fn_343"></span>[297:1](cml22.htm#fr_343.md) Tennyson: *Idylls of
 the King*--"Guinevere".
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. The War of Enchantments](cml23)
+[Next: Chapter XIX. The War of Enchantments](cml23.md)

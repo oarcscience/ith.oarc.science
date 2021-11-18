@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai23)  [Next](jai25) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai23)  [Next](jai25.md) 
 
 ------------------------------------------------------------------------
 
@@ -231,4 +231,4 @@ conservatism is her salvation.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliographical Notes](jai25)
+[Next: Bibliographical Notes](jai25.md)

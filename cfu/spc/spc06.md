@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](spc05)  [Next](spc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](spc05)  [Next](spc07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sacred Places in China*, by Carl F. Kupfer, \[1911\], at Intangible
 Textual Heritage
 
@@ -14,7 +14,7 @@ Textual Heritage
 
 <span id="img_map"></span> <span align="CENTER"> [![MAP OF
 POOT'OO.](tn/map.jpg)  
-Click to enlarge](img/map.jpg)  
+Click to enlarge](img/map.jpg.md)  
 MAP OF POOT'OO.  
 </span>
 
@@ -91,13 +91,13 @@ In explanation of this observe: above there are
 
 <span id="img_04500"></span> <span align="CENTER"> [![THE HARBOR AT HIGH
 TIDE.](tn/04500.jpg)  
-Click to enlarge](img/04500.jpg)  
+Click to enlarge](img/04500.jpg.md)  
 THE HARBOR AT HIGH TIDE.  
 </span>
 
 <span id="img_04501"></span> <span align="CENTER"> [![LANDING OF THE
 PILGRIMS.](tn/04501.jpg)  
-Click to enlarge](img/04501.jpg)  
+Click to enlarge](img/04501.jpg.md)  
 LANDING OF THE PILGRIMS.  
 </span>
 
@@ -134,14 +134,14 @@ Because of this belief, in the early days of Buddhism, many devout
 believers cast themselves down over this precipice in the hope of thus
 attaining to Buddhahood. A magistrate of *Ting-hai*, hearing of this,
 wrote a proclamation in which he exhorted the people not to act so
-foolishly. He assured them that all who cast [themselves](errata.htm#2)
+foolishly. He assured them that all who cast [themselves](errata.htm#2.md)
 down over this precipice
 
 <span id="page_47">p. 47</span>
 
 <span id="img_04700"></span> <span align="CENTER"> [![KIOSK CONTAINING
 STONE TABLETS WITH INSCRIPTIONS WRITTEN BY KANG HSI.](tn/04700.jpg)  
-Click to enlarge](img/04700.jpg)  
+Click to enlarge](img/04700.jpg.md)  
 KIOSK CONTAINING STONE TABLETS WITH INSCRIPTIONS WRITTEN BY KANG HSI.  
 </span>
 
@@ -261,7 +261,7 @@ In connection with the image which refused to go with
 <span id="img_05100"></span> <span align="CENTER"> [![THE SACRED CAMPHOR
 TREE AND KIOSK CONTAINING INSCRIPTIONS WRITTEN BY K’ANG
 HSI.](tn/05100.jpg)  
-Click to enlarge](img/05100.jpg)  
+Click to enlarge](img/05100.jpg.md)  
 THE SACRED CAMPHOR TREE AND KIOSK CONTAINING INSCRIPTIONS WRITTEN BY
 K’ANG HSI.  
 </span>
@@ -307,7 +307,7 @@ lilies so dense that all progress was impossible. Fear
 <span id="img_05300"></span> <span align="CENTER"> [![REST HOUSE OVER
 THE POND AT THE CHIEN-SZ.&lt;br&gt; THE TIDAL WAVE
 TEMPLE.](tn/05300.jpg)  
-Click to enlarge](img/05300.jpg)  
+Click to enlarge](img/05300.jpg.md)  
 REST HOUSE OVER THE POND AT THE CHIEN-SZ.  
 THE TIDAL WAVE TEMPLE.  
 </span>
@@ -423,14 +423,14 @@ to this island and took all the idols, banners and curtains, and
 <span id="img_05700"></span> <span align="CENTER"> [![TA TIEN OF THE
 CH'IEN SZ. THE MAIN HALL WITH ITS GLORIOUS GOLDEN TILE
 ROOF.](tn/05700.jpg)  
-Click to enlarge](img/05700.jpg)  
+Click to enlarge](img/05700.jpg.md)  
 TA TIEN OF THE CH'IEN SZ. THE MAIN HALL WITH ITS GLORIOUS GOLDEN TILE
 ROOF.  
 </span>
 
 <span id="img_05701"></span> <span align="CENTER"> [![THE ECHO
 CAVE.](tn/05701.jpg)  
-Click to enlarge](img/05701.jpg)  
+Click to enlarge](img/05701.jpg.md)  
 THE ECHO CAVE.  
 </span>
 
@@ -542,7 +542,7 @@ arches which perpetuate the
 
 <span id="img_06100"></span> <span align="CENTER"> [![THE TEMPLE OF
 ATTRACTIONS.](tn/06100.jpg)  
-Click to enlarge](img/06100.jpg)  
+Click to enlarge](img/06100.jpg.md)  
 THE TEMPLE OF ATTRACTIONS.  
 </span>
 
@@ -654,7 +654,7 @@ under the brightness of the moon be filled with mercy. Let this be
 
 <span id="img_06500"></span> <span align="CENTER"> [![FA YÜ—THE LAW OF
 RAIN, OR RAIN-PRODUCING TEMPLE.](tn/06500.jpg)  
-Click to enlarge](img/06500.jpg)  
+Click to enlarge](img/06500.jpg.md)  
 FA YÜ—THE LAW OF RAIN, OR RAIN-PRODUCING TEMPLE.  
 </span>
 
@@ -802,4 +802,4 @@ the Goddess of Mercy is on the decline visit Poot’oo.
 
 ------------------------------------------------------------------------
 
-[Next: The White Deer Grotto University](spc07)
+[Next: The White Deer Grotto University](spc07.md)

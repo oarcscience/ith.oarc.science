@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob13)  [Next](lbob15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob13)  [Next](lbob15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -418,7 +418,7 @@ Onesiphorus had left all his substance to follow Paul with his family.
 <span id="img_10500"></span> <span align="CENTER"> [![HELL. PAINTED IN
 FRESCO BY ANDREA ORCAGNA IN THE CHURCH OF ST MARIA NOVELLO AT
 FLORENCE.](tn/10500.jpg)  
-Click to enlarge](img/10500.jpg)  
+Click to enlarge](img/10500.jpg.md)  
 HELL. PAINTED IN FRESCO BY ANDREA ORCAGNA IN THE CHURCH OF ST MARIA
 NOVELLO AT FLORENCE.  
 </span>
@@ -564,7 +564,7 @@ I would not be married to Thamyris.
 his head, and made him appear ridiculous before all the people.
 
 6 But Alexander, partly as he loved her, and partly being ashamed of
-what had been done, <span id="fr_136"></span>[1](#fn_136) led her to the
+what had been done, <span id="fr_136"></span>[1](#fn_136.md) led her to the
 governor, and upon her confession of what she had done,' he condemned
 her to be thrown among the beasts.
 
@@ -955,7 +955,7 @@ now and for evermore. Amen.
 
 ### Footnotes
 
-<span id="fn_136"></span>[106:1](lbob14.htm#fr_136) There being
+<span id="fn_136"></span>[106:1](lbob14.htm#fr_136.md) There being
 something wanting here in the old Greek MS., it is supplied out of the
 old Latin version, which is in the Bodleian Library, Cod. Digb. 39,
 rather than out of Simeon Metaphrastes, a writer of the eleventh
@@ -965,6 +965,6 @@ century.
 
 ------------------------------------------------------------------------
 
-[Next: The First Epistle of Clement to the Corinthians](lbob15)
+[Next: The First Epistle of Clement to the Corinthians](lbob15.md)
 
 </div>

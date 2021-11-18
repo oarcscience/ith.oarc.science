@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -18,14 +18,14 @@ Textual Heritage
 
 <span id="page_155">p. 155</span>
 
-### AN T-IASGAIR <span id="fr_104"></span>[1](#fn_103)
+### AN T-IASGAIR <span id="fr_104"></span>[1](#fn_103.md)
 
 Bha iasgair ann roimhid de sheann duine ’s bhiodh e a’ falbh a
 dh’iasgach daonnan. Latha dhe na làithean chaidh e dh’iasgach, ’s cha
 robh e a’ faighinn dearg. Am bial na h-oidhche de thachair ris ach iasg.
 Tharruinn e e, ’s chuir e a làmh a mach a bhreith air. "An ann a brath
 mis’ a thoirt leat a tha thu?" ars an t-iasg. "Matà ’s ann, ’s math leam
-gon d’fhuair mi thu," ars <span id="fr_105"></span>[2](#fn_104) an
+gon d’fhuair mi thu," ars <span id="fr_105"></span>[2](#fn_104.md) an
 t-iasgair. "Chan e sin is fheàrra dhuit," ars an t-iasg, "ach lig mis’
 air m’ais ’s theid thu g’a leithid so de dh’àite ’màireach ’s gheibh thu
 go leòir de dh’iasg," ars an t-iasg. Lig e air ais e. Chaidh e
@@ -58,9 +58,9 @@ t-iasg a rithisd e. Tharruinn e e ’s rug e air. "An ann a brath mo
 thoirt leat a nochd a tha thu?" ars an t-iasg. "Matà ’s ann," ars esan.
 "Chan fhàg thu’ tuillidh mi?" "Chan fhàg," ars esan. "Chan eil duin’
 cloinn’ agad?" ars an t-iasg. "Chan eil," ars esan. "Nur theid thu
-dhachaidh leam <span id="fr_106"></span>[1](#fn_105)-sa cha lig thu
+dhachaidh leam <span id="fr_106"></span>[1](#fn_105.md)-sa cha lig thu
 duine sam bith ’am sgoltadh ach thu fhìn. <span
-id="fr_107"></span>[2](#fn_106) Tha làir agad?" "Tha," ars am bodach.
+id="fr_107"></span>[2](#fn_106.md) Tha làir agad?" "Tha," ars am bodach.
 "Cha chuir thu anns a phoit an nochd ach bìdeag de’n ghrùthan ’s bìdeag
 de’n chridhe dhuit fhìn, s do d’ bhean ’s do’n làir ’s do’n ghalla.
 Gheibh thu’n sin trì chnàmhan aig taobh a chinn agam-sa agus theid thu
@@ -81,7 +81,7 @@ de’n chridhe. Chaidh e laigh is chaidil e an oidhche sin.
 
 An ceann trì ràithean thainig saothair chloinne air a mhnaoi, ’s rug i
 leanabh mic. "De sin, a dhuine, a tha’n so?" ars ise. "Tha leanabh mic,"
-ars esan. "Bu <span id="fr_108"></span>[1](#fn_107) mhath sin nam biodh
+ars esan. "Bu <span id="fr_108"></span>[1](#fn_107.md) mhath sin nam biodh
 rud ann a gheibheadh e," ars ise. "Tha sin ann," ars esan. Thug e sùil
 uaidh. Bha searrach aig an làir: bha cuilean aig a ghalla: bha craobh
 anns a ghàradh aig h-aon de na cnamhan.
@@ -105,7 +105,7 @@ cnàimh anns a ghàradh. Ghleidh am bodach na trì chnàmhan.
 Bha a’ chlann a’ cinntinn suas gus an robh iad a’ tighinn gu crìonnachd
 s gu gliocas. Thuirt am fear a bu shine r’a athair: bidh mi fhìn a’falbh
 a dh’iarraidh an fhortain. Chan eil sin ach bochd dhomh-sa an d’eis fhad
-’s a bha mi gun <span id="fr_109"></span>[1](#fn_108) ’ur faicinn,” ars
+’s a bha mi gun <span id="fr_109"></span>[1](#fn_108.md) ’ur faicinn,” ars
 esan. Ma tha thu dol gu falbh tha each agus cù agad an so a rugadh an
 oidhche rugadh tu fhìn, ’s bheir thu leat iad," ars am bodach. "Bheir
 thu leat strian agus thig an t-each ’s cuiridh e ’cheann ’san strein."
@@ -168,7 +168,7 @@ Chunnaic e nighean rìgh na Gréige ’s an cocaire claghann ruadh ri a
 taobh; sgian mhór aige ’na dhòrn an àite claidheamh. "Gad a thigeadh na
 bheil san t-Sorcha, siud mar a dhianainn-sa orra," theireadh an còcaire
 claghann ruadh, ’s e ’dinneadh na sgithinn anns a ghainmhich.
-Ghobh <span id="fr_110"></span>[1](#fn_109) e null far an robh iad ’s
+Ghobh <span id="fr_110"></span>[1](#fn_109.md) e null far an robh iad ’s
 bheannaich e do nighean righ na Gréige ’s bheannaich nighean righ na
 Gréige dha. "Obh! obh," ars an cocaire claghann ruadh, "de tha’n so, no
 de a thachair oirnn?" "Fiach am falaich thu mis’," ars esan. "De’m
@@ -194,15 +194,15 @@ ranna ’s dhùisg e e. Nur a sheall e uaidh chunnaic e òlach moidearra
 misgiamhach a’ tighinn ann an luing. Dhianadh e stiùir ’na deireadh ’s
 ball ’na toiseach. Gach ball a bhiodh fuasgailte gun ceangladh e, ’s
 gach ball a bhiodh ceangailte gum fuasgladh e. A’ mhuc a bu mhotha ag
-itheadh na muice bu <span id="fr_111"></span>[1](#fn_110) lugha ’s a’
-mhuc a bu lugha a’ dianamh <span id="fr_112"></span>[2](#fn_111) mar a
+itheadh na muice bu <span id="fr_111"></span>[1](#fn_110.md) lugha ’s a’
+mhuc a bu lugha a’ dianamh <span id="fr_112"></span>[2](#fn_111.md) mar a
 dh’fhaodadh i: faochaga croma ciar a’ chladaich a sior urgadaich air a
 h-ùrlar aig fheobhas ’s bha’n t-òigear ’ga stiùradh. Ghabh e gu àit
 acair leatha ’s leag e a cuid sheòltan. Thug e’n dùgh-dheireadh aice
 ’ionnsuidh an dùgh-thoisich. Thug e leum an sin
 
 air tìr ’s tharruing e air tir air tràigh Thug e’n ath leum a stigh ’na
-broìnn ’s thòisich e air e fhin <span id="fr_113"></span>[3](#fn_112) a
+broìnn ’s thòisich e air e fhin <span id="fr_113"></span>[3](#fn_112.md) a
 chur ’na eideadh. Ghabh mac an Iasgair
 
 <span id="page_162">p. 162</span>
@@ -212,7 +212,7 @@ timchioll oirre ’s thog e i ’s dh’fhàg e i ’sia fad fhìn am bràigh na
 tràgha i.
 
 "Co’n aona bheadagan a bha’n rioghachd na Gréige aig an robh a chridhe a
-leithid siud de bhallachd-buird <span id="fr_114"></span>[1](#fn_113) a
+leithid siud de bhallachd-buird <span id="fr_114"></span>[1](#fn_113.md) a
 dhianamh orm fhìn no air mo luing? Ach bheir mise air righ na Gréige a
 gheall a bhith le a nighinn ’a toirt domh air dheis laimh air a
 chladach, gur h-i a’ chlach is isle clach is àirde, ’s a’ chlach is
@@ -238,7 +238,7 @@ mionnan, gach buill’ a bhuaileas thu gum buail thu le righ na Gréige e
 agus gum bi thu ’nad ghaisgeach dùrachdach dha gu bràch." Dh’fhalbh e ’s
 thug e leis e suas gu bàrr a’ bhruthaich, ’s dh’fhàg e’n sin e. Ghabh e
 air muin an eich ’s ghabh e dachaidh. <span
-id="fr_115"></span>[1](#fn_114)
+id="fr_115"></span>[1](#fn_114.md)
 
 Chaidh an còcaire claghann ruadh dhachaidh le nighean an rìgh mar gum
 b’e fhìn a dhianadh an treubhas. Chuireadh cairt agus gille a
@@ -247,7 +247,7 @@ lòchraidh ’s fo ròs choinnlean. Rainig mac an Iasgair tigh a mhucair.
 Chuireadh biadh is deoch air a bhial-thaobh. Cha b’fhad a bha e stigh
 nur a thainig am mucair dachaidh. Dh’fhoighnic mac an Iasgair de’n
 naigheachd a bh’ aige. Thuirt e gur minic <span
-id="fr_116"></span>[2](#fn_115) a theireadh nach robh claidheamh math an
+id="fr_116"></span>[2](#fn_115.md) a theireadh nach robh claidheamh math an
 droch thruaill aig a chòcaire chlaghann ruadh agus an t-euchd a rinn e.
 Ach tha e’m màireach ri falbh fhathasd agus an earar, ars am mucair.
 "Tubaist air na daoin-uaisle bha gnothuch agam fhìn riu ’s cha d’fhuair
@@ -275,7 +275,7 @@ Chaidh an còcaire claghann ruadh dhachaidh le nighean an rìgh ’s co ach
 esan ’s e ’cumail a mach gur h-e fhìn a bha ’dianamh gach gniomh
 gaisgeil. An am an athaidh agus an anmoich ghabh mac an iasgair gu tigh
 a’ mhucair mar a b’àbhaist. Cha b’fhad’ a bha e stigh nur a thainig am
-mucair dachaidh. "’S minig <span id="fr_117"></span>[1](#fn_116) a
+mucair dachaidh. "’S minig <span id="fr_117"></span>[1](#fn_116.md) a
 theireadh nach robh claidheamh math an droch thruaill aig a chòcaire
 chlaghann ruadh," ars am mucair. "De an t-euchd a rinn an còcaire
 claghann ruadh an dràsd?" arsa mac an Iasgair. "Mac miadhonach righ na
@@ -299,7 +299,7 @@ dhachaidh le nighean an rìgh, s co ach esan, ’s mu b’fhior e fhìn gur
 h-e rinn gach euchd. Thugadh mac beag righ na Sorcha ceangailte gu tigh
 an righ, s bha nis’ triuir mhac righ na Sorcha ceangailte stigh fo
 shileadh na lòchraidh ’s fo ròs nan coinnlean <span
-id="fr_118"></span>[1](#fn_117); s gach cnàimh a lomadh na h-uaislean
+id="fr_118"></span>[1](#fn_117.md); s gach cnàimh a lomadh na h-uaislean
 aig a chuirm ga thilgeadh orra le masladh agus le tàmailte. Anns an
 fheasgair rainig mac an Iasgair tigh a mhucair. Cha robh e fad a stigh
 nur a thainig am mucair. "De do naigheachd an nochd?" arsa mac an
@@ -318,11 +318,11 @@ coiseachd anns an rioghachd thun na bainnse.
 air a mhucair ’s cha d’fhiathaicheadh an coigreach; ’s cha rachadh am
 mucair ann o’n nach robh esan a’ dol ann. "De bu choireach, a mhucair,
 nach deachaidh thu-sa thun na bainnse?" <span
-id="fr_119"></span>[1](#fn_118) ars’ mac an Iasgair. "Cha rachainn-sa
+id="fr_119"></span>[1](#fn_118.md) ars’ mac an Iasgair. "Cha rachainn-sa
 ann agus thu fhìn fhàgail," ars’ am’ mucair. "’S math am bord-bainnse
 th’aig nighean righ na Gréige an dràsd," arsa mac an Iasgair, "b’fhearr
 leam fhìn gun robh e againn air ar bial-thaobh. Fhalbh <span
-id="fr_120"></span>[2](#fn_119) thus, a chuilein ghaolaich, agus sìn thu
+id="fr_120"></span>[2](#fn_119.md) thus, a chuilein ghaolaich, agus sìn thu
 fhìn agus na bi ceacharra a’dol suas. Theirig a steach do sheombàr na
 bainnse agus an tuthailt tha sìnte air a’ bhord air bial-thaobh an rìgh
 agus bhean-nabainnse, thoir thugam-sa an so e."
@@ -356,7 +356,7 @@ chù leis e agus tha do chù mìomhail," ars’ àd-san. "Na bithibh a’
 bruidhinn ris ach beiribh air, ’s thugaibh leibh ceangailte e, mar a
 dh’iarradh oirnn," arsa fear de’n bhuidheann."
 
-"Eirich <span id="fr_121"></span>[1](#fn_120) thu-sa, ’chuilean, agus
+"Eirich <span id="fr_121"></span>[1](#fn_120.md) thu-sa, ’chuilean, agus
 tarruinn iad leis an rann, agus tarruinn iad an aghaidh an ranna anns an
 lùb ud a muigh," arsa mac an Iasgair.
 
@@ -392,7 +392,7 @@ laighe is chaidil iad an oidhche sin. An là’r na mhàireach thug e sùil
 uaidh a null a mach air an uinneig ’s chunnaic e caisteal dubh thall mu
 a choinneamh. Dh’fhoighnie e de ’n caisteal a bha’n siud. Thuirt ise ris
 nach robh ach caisteal a bh’aig an droch chreutair. Dh’eirich <span
-id="fr_122"></span>[1](#fn_121) e ’s ghabh e mach. Thug e leis ’each
+id="fr_122"></span>[1](#fn_121.md) e ’s ghabh e mach. Thug e leis ’each
 agus a chù ’s ghabh e null ’ionnsuidh a chaisteil. Chaidh e stigh ’s
 chunnaic e boirionnach an sin ’s i a’ cireadh a cinn.
 
@@ -426,12 +426,12 @@ rithe-sa. "Nach
 <span id="page_170">p. 170</span>
 
 d’innis mi sin duit an oidhche roimhid?" ars ise. Dh’eirich <span
-id="fr_123"></span>[1](#fn_122) e ’s chaidh e mach. Thug e leis ’each ’s
+id="fr_123"></span>[1](#fn_122.md) e ’s chaidh e mach. Thug e leis ’each ’s
 a chù ’s ghabh e null ’ionnsuidh a chaisteil. Chaidh e stigh ’s rinn is’
 air mar a rinn i air a bhrathair.
 
 Sheall am bodach a mach ’s bha’n duilleach air tuiteam bharr an darna
-craobh. <span id="fr_124"></span>[2](#fn_123) "’S fhior sin," ars am mac
+craobh. <span id="fr_124"></span>[2](#fn_123.md) "’S fhior sin," ars am mac
 òg, "cha bheò mo bhrathair. Bidh mise a’ falbh a thogail ’eirig."
 
 Thug e leis ’each ’s a chù. Thug ’athair cnàimh dha ’na laimh. Dh’fhàs
@@ -440,7 +440,7 @@ an cnaimh ’na chlaidheamh chinn-òir ’na dhòrn.
 "Taing dhuit-s’, a righ nan ceud ’s nan cumhachd: tha gach ionnsachadh
 is fòghlum agam-sa a nis."
 
-Ghabh e air falbh. Gum bu <span id="fr_125"></span>[3](#fn_124) cham
+Ghabh e air falbh. Gum bu <span id="fr_125"></span>[3](#fn_124.md) cham
 gach slighe ’s gum bu reidh gach rathad da gus an d’ ràinig e pàileas
 righ na Gréige. Chunnaic ise mach thromh na h-uinneagan e ’s ghabh i
 mach ’na choinneamh agus ’na chomhdhail. Thug i leatha dhachaidh e. "Bha
@@ -462,11 +462,11 @@ boirionnach an sin a’ cìorradh a cinn.
 "Thig a nios, ’fheudail, a mhic athar mo ghaoil agus màthar mo
 ghràidh,’s gun innseadh tu naigheachd domh, ’s gun innsinn naigheachd
 duit," ars ise. Cha robh amharus math sam bith aig oirre. <span
-id="fr_126"></span>[1](#fn_125) Thug e’n leum sin a suas ’s leag e i ’s
+id="fr_126"></span>[1](#fn_125.md) Thug e’n leum sin a suas ’s leag e i ’s
 chuir e’n claidheamh air an amhuich aice.
 
 "Am bàs as do chionn! De t’éirig?" ars esan. "Is mór sin," ars <span
-id="fr_127"></span>[2](#fn_126) ise. "Drong òir agus drong airgid." "Is
+id="fr_127"></span>[2](#fn_126.md) ise. "Drong òir agus drong airgid." "Is
 leam sin agus do bhàs," ars esan. Thug e’n ceann di. Thug e uaithe na
 h-iuchraichean ’s dh’fhiach e’n tigh. Fhuair e aon seòmbar làn òir is
 airgid. Fhuair e seòmbar làn aodaichean dhaoin’uaisle. Fhuair e seòmbar
@@ -511,59 +511,59 @@ rìoghachd aig a’ bhràthair bu shine agus nighean an righ aige pòsda.
 
 ### Footnotes
 
-<span id="fn_103"></span>[155:1](cdm17.htm#fr_104) 1 Reciter: Alasdair
+<span id="fn_103"></span>[155:1](cdm17.htm#fr_104.md) 1 Reciter: Alasdair
 Mac Neill, Ceanntangaval, Barra; Alasdair Mac Ruairidh Bhàin. A very
 complete version with several new incidents not in printed version of
 the Mermaid.
 
-<span id="fn_104"></span>[155:2](cdm17.htm#fr_105) MS. urs.
+<span id="fn_104"></span>[155:2](cdm17.htm#fr_105.md) MS. urs.
 
-<span id="fn_105"></span>[156:1](cdm17.htm#fr_106) MS. leom-sa.
+<span id="fn_105"></span>[156:1](cdm17.htm#fr_106.md) MS. leom-sa.
 
-<span id="fn_106"></span>[156:2](cdm17.htm#fr_107) So MS.
+<span id="fn_106"></span>[156:2](cdm17.htm#fr_107.md) So MS.
 
-<span id="fn_107"></span>[157:1](cdm17.htm#fr_108) MS. bo.
+<span id="fn_107"></span>[157:1](cdm17.htm#fr_108.md) MS. bo.
 
-<span id="fn_108"></span>[158:1](cdm17.htm#fr_109) MS. gon.
+<span id="fn_108"></span>[158:1](cdm17.htm#fr_109.md) MS. gon.
 
-<span id="fn_109"></span>[160:1](cdm17.htm#fr_110) = ghabh.
+<span id="fn_109"></span>[160:1](cdm17.htm#fr_110.md) = ghabh.
 
-<span id="fn_110"></span>[161:1](cdm17.htm#fr_111) MS. bo.
+<span id="fn_110"></span>[161:1](cdm17.htm#fr_111.md) MS. bo.
 
-<span id="fn_111"></span>[161:2](cdm17.htm#fr_112) MS. dianadh.
+<span id="fn_111"></span>[161:2](cdm17.htm#fr_112.md) MS. dianadh.
 
-<span id="fn_112"></span>[161:3](cdm17.htm#fr_113) So MS.
+<span id="fn_112"></span>[161:3](cdm17.htm#fr_113.md) So MS.
 
-<span id="fn_113"></span>[162:1](cdm17.htm#fr_114) Mockery. Phrase:
+<span id="fn_113"></span>[162:1](cdm17.htm#fr_114.md) Mockery. Phrase:
 dh’fhàg e ballachd air = he left a mark on him.
 
-<span id="fn_114"></span>[163:1](cdm17.htm#fr_115) Barra dialect.
+<span id="fn_114"></span>[163:1](cdm17.htm#fr_115.md) Barra dialect.
 
-<span id="fn_115"></span>[163:2](cdm17.htm#fr_116) Barra dialect for
+<span id="fn_115"></span>[163:2](cdm17.htm#fr_116.md) Barra dialect for
 mairg.
 
-<span id="fn_116"></span>[164:1](cdm17.htm#fr_117) For mairg.
+<span id="fn_116"></span>[164:1](cdm17.htm#fr_117.md) For mairg.
 
-<span id="fn_117"></span>[165:1](cdm17.htm#fr_118) Beneath the drippings
+<span id="fn_117"></span>[165:1](cdm17.htm#fr_118.md) Beneath the drippings
 from the black (sooty) rafters and the resin of the (pine) candles.
 
-<span id="fn_118"></span>[166:1](cdm17.htm#fr_119) Was not invited.
+<span id="fn_118"></span>[166:1](cdm17.htm#fr_119.md) Was not invited.
 
-<span id="fn_119"></span>[166:2](cdm17.htm#fr_120) MS. Thalla.
+<span id="fn_119"></span>[166:2](cdm17.htm#fr_120.md) MS. Thalla.
 
-<span id="fn_120"></span>[167:1](cdm17.htm#fr_121) MS. (dialectal).
+<span id="fn_120"></span>[167:1](cdm17.htm#fr_121) MS. (dialectal.md).
 
-<span id="fn_121"></span>[168:1](cdm17.htm#fr_122) MS. dh'éiridh
+<span id="fn_121"></span>[168:1](cdm17.htm#fr_122.md) MS. dh'éiridh
 
-<span id="fn_122"></span>[170:1](cdm17.htm#fr_123) MS. dh’éiridh.
+<span id="fn_122"></span>[170:1](cdm17.htm#fr_123.md) MS. dh’éiridh.
 
-<span id="fn_123"></span>[170:2](cdm17.htm#fr_124) Usually *craobh* is
+<span id="fn_123"></span>[170:2](cdm17.htm#fr_124.md) Usually *craobh* is
 feminine.
 
-<span id="fn_124"></span>[170:3](cdm17.htm#fr_125) MS. gom bo.
+<span id="fn_124"></span>[170:3](cdm17.htm#fr_125.md) MS. gom bo.
 
-<span id="fn_125"></span>[171:1](cdm17.htm#fr_126) MS. urra.
+<span id="fn_125"></span>[171:1](cdm17.htm#fr_126.md) MS. urra.
 
-<span id="fn_126"></span>[171:2](cdm17.htm#fr_127) MS. urs.
+<span id="fn_126"></span>[171:2](cdm17.htm#fr_127.md) MS. urs.
 
  

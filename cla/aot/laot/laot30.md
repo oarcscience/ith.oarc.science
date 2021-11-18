@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot29) 
-[Next](laot31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot29.md) 
+[Next](laot31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -210,7 +210,7 @@ powers above standing erect. They accordingly offered a sacrifice to the
 Sun of Ethiopia and to Memnon of the Dawn, for this the priests
 recommended them to do, explaining that one name was derived from the
 words signifying "to burn and be warm" <span
-id="fr_15"></span>[1](#fn_15) and the other from his mother. Having done
+id="fr_15"></span>[1](#fn_15.md) and the other from his mother. Having done
 this they set out upon camels for the home of the naked philosophers.
 
 ### CHAPTER V
@@ -496,9 +496,9 @@ philosopher of Egypt."
 
 ### Footnotes
 
-<span id="fn_15"></span>[2:17:1](laot30.htm#fr_15) *Aithô* = I burn;
+<span id="fn_15"></span>[2:17:1](laot30.htm#fr_15.md) *Aithô* = I burn;
 *Aithiôps* = an Aethiop.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 11-20](laot31)
+[Next: Chapters 11-20](laot31.md)

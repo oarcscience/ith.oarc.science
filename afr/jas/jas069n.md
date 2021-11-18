@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas068n)  [Next](jas070n)   
- \[[69. Grandy-Do-an'-Do.](jas069)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas068n)  [Next](jas070n.md)   
+ \[[69. Grandy-Do-an'-Do.](jas069.md)\]
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ compare Cronise and Ward, 55-65.
 
 ------------------------------------------------------------------------
 
-[Next: Note 70. Jack and Harry.](jas070n)
+[Next: Note 70. Jack and Harry.](jas070n.md)

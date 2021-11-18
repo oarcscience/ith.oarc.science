@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac10)  [Next](ybac12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac10)  [Next](ybac12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -102,13 +102,13 @@ side and the other, according to the folds. The paper they made from the
 roots of a tree, and gave it a white finish excellent for writing upon.
 Some of the principal lords were learned in these sciences, from
 interest, and for the greater esteem they enjoyed thereby; yet they did
-not make use of them in public. <span id="fr_7"></span>[\*](#fn_7)
+not make use of them in public. <span id="fr_7"></span>[\*](#fn_7.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_7"></span>[13:\*](ybac11.htm#fr_7) The text figure shows
+<span id="fn_7"></span>[13:\*](ybac11.htm#fr_7.md) The text figure shows
 the general arrangement of the texts in both the Dresden and Madrid
 codices; that in the Paris codex and on the monuments was quite
 different.
@@ -140,4 +140,4 @@ if it showed the spoken English of today.
 
 [Next: XIII. Arrival of the Tutul-xius and the Alliance They Made With
 the Lords of Mayapán. Tyranny of Cocom, The Ruin of His Power and of the
-City of Mayapán](ybac12)
+City of Mayapán](ybac12.md)

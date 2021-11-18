@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico036) 
-[Next](nico038) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico036.md) 
+[Next](nico038.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ said.
 ------------------------------------------------------------------------
 
 [Next: Chapter 4. Ambition, unambitiousness, and the mean between
-them](nico038)
+them](nico038.md)

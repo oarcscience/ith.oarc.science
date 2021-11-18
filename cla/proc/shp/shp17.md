@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Procopius](../index)  [Index](index)  [Previous](shp16)  [Next](shp18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Procopius](../index)  [Index](index)  [Previous](shp16)  [Next](shp18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ the sort of person Justinian was.
 ------------------------------------------------------------------------
 
 [Next: XV. How An Roman Citizens Became Slaves, and a Complaining
-Patrician Was Ribaldly Mocked by Theodora's Eunuchs](shp18)
+Patrician Was Ribaldly Mocked by Theodora's Eunuchs](shp18.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki223)  [Next](liki225) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki223)  [Next](liki225.md) 
 
 ------------------------------------------------------------------------
 
@@ -267,6 +267,6 @@ as distinguished from other beings.'
 
 ------------------------------------------------------------------------
 
-[Next: XXV. Kung-Nî Yen Kü or Kung-Nî at Home at Ease](liki225)
+[Next: XXV. Kung-Nî Yen Kü or Kung-Nî at Home at Ease](liki225.md)
 
   

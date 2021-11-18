@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj26) 
-[Next](npj28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj26.md) 
+[Next](npj28.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,15 +45,15 @@ was printed c. 1600. The writer of that book must therefore have
 regarded the play as a work of Seami's period. It should be mentioned
 that the geography of the play is absurd. Though both his starting-point
 and goal lie in the south-western province of Ssechuan, he passes
-through Hantan, <span id="fr_147"></span>[1](#fn_145) which lay in the
+through Hantan, <span id="fr_147"></span>[1](#fn_145.md) which lay in the
 northern province of Chih-li.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_145"></span>[155:1](npj27.htm#fr_147) In Japanese, Kantan.
+<span id="fn_145"></span>[155:1](npj27.htm#fr_147.md) In Japanese, Kantan.
 
 ------------------------------------------------------------------------
 
-[Next: Kantan](npj28)
+[Next: Kantan](npj28.md)

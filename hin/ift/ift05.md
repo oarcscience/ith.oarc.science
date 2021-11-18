@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift04) 
-[Next](ift06) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift04.md) 
+[Next](ift06.md) 
 
 ------------------------------------------------------------------------
 
 # Punchkin
 
 <span id="img_17"></span> [![](tn/17.jpg)  
-Click to enlarge](img/17.jpg)
+Click to enlarge](img/17.jpg.md)
 
 <span id="img_18"></span> ![](img/18.jpg)NCE upon a time there was a
 Raja who had seven beautiful daughters. They were all good girls; but
@@ -478,7 +478,7 @@ stood Rajas, and Punts, and Sirdars, and mighty men on prancing horses,
 and jewelled pages, and troops of armed attendants.
 
 <span id="img_19"></span> [![](tn/19.jpg)  
-Click to enlarge](img/19.jpg)
+Click to enlarge](img/19.jpg.md)
 
 "Give me my parrot!" cried Punchkin; Then the boy took bold of the
 parrot, and tore off one of its wings; and as he did so the Magician's
@@ -508,4 +508,4 @@ house.
 
 ------------------------------------------------------------------------
 
-[Next: The Broken Pot](ift06)
+[Next: The Broken Pot](ift06.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd15.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ pleasure in this matter of thy marriage? And the King winced at her
 words, like a noble horse touched by the whip. And he said: *Chétí*,
 poison not the nectar of my dawn. Only too well I know that thou art
 right, and that my behaviour in this matter is not that of a
-gentleman <span id="fr_37"></span>[a](#fn_37). And yet, for this,
+gentleman <span id="fr_37"></span>[a](#fn_37.md). And yet, for this,
 
 <span id="page_62">p. 62</span>
 
@@ -57,7 +57,7 @@ Then she looked at him awhile, with kindly eyes: and then she said: O
 King, that which is written on the future by the deity, no man can
 erase, and no wisdom can avert. For once there was a king, with many
 queens. And among these, there was one, whose name was Shrí <span
-id="fr_38"></span>[b](#fn_38); and the name was not appropriate, for she
+id="fr_38"></span>[b](#fn_38.md); and the name was not appropriate, for she
 was the least beautiful of all.
 
 <span id="page_63">p. 63</span>
@@ -70,7 +70,7 @@ happened, that one day a criminal was apprehended in a crime: and the
 king gave orders that he should instantly be put to death: and it was
 done. Then after a while, the priests came to him and said: O King, this
 man, that thy order put to death, was a Brahman <span
-id="fr_39"></span>[c](#fn_39); and the gods are angry. And now, thy life
+id="fr_39"></span>[c](#fn_39.md); and the gods are angry. And now, thy life
 and thy kingdom are in jeopardy: and unless they are appeased with a
 sacrifice, the gods will destroy us all. Then the king said: What
 sacrifice is necessary? And they said: That of the queen that loves
@@ -127,7 +127,7 @@ And he said: *Shamí*, thou hast, like me,
 
 <span id="page_66">p. 66</span>
 
-fire in thy heart <span id="fr_40"></span>[d](#fn_40), and what thou art
+fire in thy heart <span id="fr_40"></span>[d](#fn_40.md), and what thou art
 to the *ashwattha*, that is she who laid thee at my feet to me. Like
 thee, I needed but the touch of her hand to burst into a flame. And here
 I will await her, on the edge of the pool: and if she does not come, I
@@ -208,7 +208,7 @@ earnest away my life.
 And suddenly, he seized her in his arms, and held her tight. And as he
 did so, she shrieked, and struggled. And half frightened, and half
 laughing, she exclaimed: *Aryaputra* <span
-id="fr_41"></span>[e](#fn_41), let me go. Hast thou not guessed, that I
+id="fr_41"></span>[e](#fn_41.md), let me go. Hast thou not guessed, that I
 am the Queen?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -265,12 +265,12 @@ pool, I must vanish into nothing, when that which gave me substance
 and reality is gone. For what am I, but a double and a copy and an echo
 of a Being which is Thou? my duty and religion, to be thy Dhruwá and
 Arundhatí, thy Rati and thy Rádhá, thy Chakrí and thy Kshetrabhúmí, thy
-Shakti and thy Twin <span id="fr_42"></span>[f](#fn_42)? Churn me only
+Shakti and thy Twin <span id="fr_42"></span>[f](#fn_42.md)? Churn me only
 with the mountain of thy love, and like the milky ocean, I will give
 thee up my essence, and show thee that a faithful wife is the butter of
 beauty, and wine of youth, and syrup of pleasure, and salt of laughter,
 born of the foam of the waves and the lather of the sea <span
-id="fr_43"></span>[g](#fn_43). And I will be to thee a nectar and a
+id="fr_43"></span>[g](#fn_43.md). And I will be to thee a nectar and a
 camphor and a lotus and a sweet, and show thee the essence and the
 savour of thy life; and thou shalt own that without me
 
@@ -322,12 +322,12 @@ MORRISON & GIBB LIMITED
 
 ### Footnotes
 
-<span id="fn_37"></span>[61:a](htd16.htm#fr_37) *anárya*: an exact
+<span id="fn_37"></span>[61:a](htd16.htm#fr_37.md) *anárya*: an exact
 equivalent.
 
-<span id="fn_38"></span>[62:b](htd16.htm#fr_38) The goddess of beauty.
+<span id="fn_38"></span>[62:b](htd16.htm#fr_38.md) The goddess of beauty.
 
-<span id="fn_39"></span>[63:c](htd16.htm#fr_39) The most frightful
+<span id="fn_39"></span>[63:c](htd16.htm#fr_39.md) The most frightful
 penalties are laid, in Manu, upon those who slew Brahmans: under no
 circumstances whatever could the King put them to death. (It is a total
 misapprehension to ascribe these, and similar regulations, as is so
@@ -336,15 +336,15 @@ repository of the religious welfare of the State, and they shared the
 superstition which made the killing of them a crime.) See e.g. Moore's
 Pantheon, p. 373.
 
-<span id="fn_40"></span>[66:d](htd16.htm#fr_40) The primeval fire was
+<span id="fn_40"></span>[66:d](htd16.htm#fr_40.md) The primeval fire was
 generated by the friction of the *shamí* and *ashwattha* trees. Kalidas
 (*Raghuwansha* III. 9) calls the *shamí* '*abhyantaralínapáwakam*,' i.e.
 that ' which has fire in its heart.'
 
-<span id="fn_41"></span>[69:e](htd16.htm#fr_41) As much as to say, *my
+<span id="fn_41"></span>[69:e](htd16.htm#fr_41.md) As much as to say, *my
 husband*. The word is used by ladies in addressing their lords.
 
-<span id="fn_42"></span>[72:f](htd16.htm#fr_42) *Dhruwá*, 'thy polar
+<span id="fn_42"></span>[72:f](htd16.htm#fr_42.md) *Dhruwá*, 'thy polar
 star:' an allusion to the marriage ceremony, in which the bridegroom
 points out to his bride that star, the emblem of fidelity. *Arundhatí*,
 the 'patron-saint' of Hindoo marriages, the pattern of a perfect wife.
@@ -356,7 +356,7 @@ means an exclusive possession, a thing to use and abuse, and a home: a
 sacred spot of mother earth and cultivable soil, whose memory is twined
 around the heart.
 
-<span id="fn_43"></span>[72:g](htd16.htm#fr_43) A passage full of plays
+<span id="fn_43"></span>[72:g](htd16.htm#fr_43.md) A passage full of plays
 on words and mythological allusions.
 
  

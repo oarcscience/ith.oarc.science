@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti35)  [Next](eti37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti35)  [Next](eti37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
 
 ### CHAPTER XXIX.
 
-#### BEWARE OF BIOLOGY, THE SCIENCE OF THE LIFE OF MAN. <span id="fr_5"></span>[\*](#fn_5)
+#### BEWARE OF BIOLOGY, THE SCIENCE OF THE LIFE OF MAN. <span id="fr_5"></span>[\*](#fn_5.md)
 
 (The old man relates a story as an object lesson.)
 
@@ -236,7 +236,7 @@ votaries. She is a thief, not of ordinary riches, but of treasures
 
 <span id="img_19100"></span> <span align="CENTER"> [![RISING ABRUPTLY,
 HE GRASPED MY HAND.](tn/19100.jpg)  
-Click to enlarge](img/19100.jpg)  
+Click to enlarge](img/19100.jpg.md)  
 “RISING ABRUPTLY, HE GRASPED MY HAND.”  
 </span>
 
@@ -277,9 +277,9 @@ brain, man; come."
 
 ### Footnotes
 
-<span id="fn_5"></span>[186:\*](eti36.htm#fr_5) The reader is invited to
+<span id="fn_5"></span>[186:\*](eti36.htm#fr_5.md) The reader is invited to
 skip this chapter of horrors.—J. U. L.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX. Looking Backward.—The Living Brain](eti37)
+[Next: Chapter XXX. Looking Backward.—The Living Brain](eti37.md)

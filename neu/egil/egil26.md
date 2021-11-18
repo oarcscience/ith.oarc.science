@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil25)  [Next](egil27) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil25)  [Next](egil27.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ few men (it is said) know all their havens.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXVI. Of Guttorm.](egil27)
+[Next: CHAPTER XXVI. Of Guttorm.](egil27.md)

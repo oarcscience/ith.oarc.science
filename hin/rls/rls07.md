@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls06)  [Next](rls08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls06)  [Next](rls08.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ Christianity, there can be no doubt that a religion which can achieve
 such successes in our time, while it calls itself with perfect truth the
 oldest religion and philosophy of the world, viz. the Vedânta, the end
 or highest object of the Veda, deserves our careful attention <span
-id="fr_4"></span>[1](#fn_4).
+id="fr_4"></span>[1](#fn_4.md).
 
 Râmak*ri*sh*n*a himself never claimed to be the founder of a new
 religion. He simply preached the old religion of India, which was
@@ -73,7 +73,7 @@ company of Sâdhus.'
 
 ### Footnotes
 
-<span id="fn_4"></span>[11:1](rls07.htm#fr_4) This is the explanation
+<span id="fn_4"></span>[11:1](rls07.htm#fr_4.md) This is the explanation
 given of the name of Vedânta. But it is probably an after-thought. Like
 other compounds in anta, such as Siddhânta, Sûtrânta, &c., it was
 probably meant at first for no more than the subject-matter of the Veda;
@@ -83,4 +83,4 @@ highest object of the Veda.
 
 ------------------------------------------------------------------------
 
-[Next: Dayânanda Sarasvatî](rls08)
+[Next: Dayânanda Sarasvatî](rls08.md)

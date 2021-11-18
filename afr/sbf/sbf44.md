@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf43)  [Next](sbf45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf43)  [Next](sbf45.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -34,6 +34,6 @@ eaten by Bushmen.\]</span>
 
 ------------------------------------------------------------------------
 
-[Next: The Baboons And \|\|Xabbiten\|\|Xabbiten.](sbf45)
+[Next: The Baboons And \|\|Xabbiten\|\|Xabbiten.](sbf45.md)
 
 </div>

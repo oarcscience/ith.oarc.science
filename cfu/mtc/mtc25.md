@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc24)  [Next](mtc26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc24)  [Next](mtc26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ Common people will hate the plainness of the words.
 I sing it to myself, then stop and think about it…
 
 The Prefects of Soochow and P’ēng-tsē <span
-id="fr_13"></span>[1](#fn_11)  
+id="fr_13"></span>[1](#fn_11.md)  
 Would perhaps have praised it, but they died long ago.  
 Who else would care to hear it?  
 No one to-day except Yüan Chēn,  
@@ -45,13 +45,13 @@ He will never know even that the poem was made.
 
 ### Footnotes
 
-<span id="fn_11"></span>[52:1](mtc25.htm#fr_13) Wei Ying-wu, eighth
+<span id="fn_11"></span>[52:1](mtc25.htm#fr_13.md) Wei Ying-wu, eighth
 century A. D., and T‘ao Ch‘ien, A. D. 365-427.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Winter Night](mtc26)
+[Next: Winter Night](mtc26.md)
 
 </div>

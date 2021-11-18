@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Astrology](../index) 
-[Index](index)  [Previous](hba14)  [Next](hba16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Astrology](../index.md) 
+[Index](index)  [Previous](hba14)  [Next](hba16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Hindu Book of Astrology*, by Bhakti Seva, \[1902\], at Intangible
 Textual Heritage
 
@@ -42,7 +42,7 @@ the tendency to quickly get angered or mad with those who do not agree
 with you. Put your whole force and energy in whatever you undertake and
 know that you can succeed. You can generally accomplish what you
 undertake by having the fullest faith and greatest confidence in your
-ability to succeed. It is [absolutely](errata.htm#0) necessary for
+ability to succeed. It is [absolutely](errata.htm#0.md) necessary for
 people of your sign, of either sex, to have unbounded faith, hope and
 confidence; if you are fearful of success and have any doubts about
 succeeding in any undertaking you may have in mind, it would be wise for
@@ -178,4 +178,4 @@ are agreeable.
 ------------------------------------------------------------------------
 
 [Next: The Hindu Yogis’ Rules For Attaining Health, Wealth And
-Happiness](hba16)
+Happiness](hba16.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft22)  [Next](tft24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft22)  [Next](tft24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -68,7 +68,7 @@ the two big wives and had the third in partnership.
 TREE WHERE THE LITTLE BIRD SAT AND SAID, ''IF YOU ARE MY SISTER, HOP ON
 MY HAND.'' WHEN THE LITTLE BIRD HOPPED ONTO HIS HAND, THEY BEGAN TO CRY,
 AS THEY KNEW THEIR SISTER WAS DEAD.](tn/08900.jpg)  
-Click to enlarge](img/08900.jpg)  
+Click to enlarge](img/08900.jpg.md)  
 HE WENT UP TO THE TREE WHERE THE LITTLE BIRD SAT AND SAID, ''IF YOU ARE
 MY SISTER, HOP ON MY HAND.'' WHEN THE LITTLE BIRD HOPPED ONTO HIS HAND,
 THEY BEGAN TO CRY, AS THEY KNEW THEIR SISTER WAS DEAD.  
@@ -80,4 +80,4 @@ THEY BEGAN TO CRY, AS THEY KNEW THEIR SISTER WAS DEAD.
 
 ------------------------------------------------------------------------
 
-[Next: Twenty-One: The Hunter and the Unicorn](tft24)
+[Next: Twenty-One: The Hunter and the Unicorn](tft24.md)

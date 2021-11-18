@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr26) 
-[Next](idr28) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr26.md) 
+[Next](idr28.md) 
 
 ------------------------------------------------------------------------
 
@@ -211,4 +211,4 @@ very mischief with sanctified wells."
 
 ------------------------------------------------------------------------
 
-[Next: Holy Bells](idr28)
+[Next: Holy Bells](idr28.md)

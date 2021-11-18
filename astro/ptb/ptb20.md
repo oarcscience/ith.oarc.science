@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb19)  [Next](ptb21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb19)  [Next](ptb21.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ produces the contrary effect.
 ------------------------------------------------------------------------
 
 [Next: Chapter XVIII. Signs Beholding Each Other, and of Equal
-Power](ptb21)
+Power](ptb21.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai14)  [Next](tai16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai14)  [Next](tai16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -73,9 +73,9 @@ life, the holders would be always dissatisfied, and their sons always in
 rebellion. There was no middle course of feudal vassal tenure with a
 sovereign overlord.
 
-To a state racked with anarchy within, with its [*morale*](errata.htm#1)
+To a state racked with anarchy within, with its [*morale*](errata.htm#1.md)
 broken by living precedents of treachery and alliance for selfish ends
-with the Pagan foe, Vladímir II <span id="fr_3"></span>[†](#fn_3) at
+with the Pagan foe, Vladímir II <span id="fr_3"></span>[†](#fn_3.md) at
 last succeeded; he left Russia organized enough for common action, so as
 to subsist a century longer.
 
@@ -83,11 +83,11 @@ to subsist a century longer.
 
 ### Footnotes
 
-<span id="fn_3"></span>[xxi:†](tai15.htm#fr_3) He is generally known as
+<span id="fn_3"></span>[xxi:†](tai15.htm#fr_3.md) He is generally known as
 Vladímir Monomákh; so called after his maternal grandfather Constantine
 Μονόμαχος, Emperor of Constantinople. His descendants were the
 Мономаховичи.
 
 ------------------------------------------------------------------------
 
-[Next: Vladímir II](tai16)
+[Next: Vladímir II](tai16.md)

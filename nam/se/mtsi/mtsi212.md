@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi211)  [Next](mtsi213) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi211)  [Next](mtsi213.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ in a water hole. "Where are you going?" he said. "To the home of
 Upward-shooter," they said. "Where is the trail to Upward-shooter's
 house?" "This good trail goes to my house," he said to them. "Go along
 the bad trail." "What are you hunting for," they said. "I have lost in
-the water a sapia <span id="fr_54"></span>[1](#fn_54) which I always
+the water a sapia <span id="fr_54"></span>[1](#fn_54.md) which I always
 carry on my back," he said.
 
 Then they started along the bad trail. The Owl flew around ahead,
@@ -204,9 +204,9 @@ with restored vision. And she was very happy.
 
 ### Footnotes
 
-<span id="fn_54"></span>[172:1](mtsi212.htm#fr_54) See note on [p.
-148](mtsi165.htm#page_148).
+<span id="fn_54"></span>[172:1](mtsi212.htm#fr_54.md) See note on [p.
+148](mtsi165.htm#page_148.md).
 
 ------------------------------------------------------------------------
 
-[Next: 13. The Story of an Orphan](mtsi213)
+[Next: 13. The Story of an Orphan](mtsi213.md)

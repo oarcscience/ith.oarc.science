@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cig00)    [Text
-\[Zipped\]](cig.txt.gz)
+[Contents](#contents)    [Start Reading](cig00.md)    [Text
+\[Zipped\]](cig.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ This is a folklore miscellany originally published by the Texas
 Folk-lore society in 1923, and reprinted in 1935. The articles reflect
 the cultural diversity of Texas, including articles on African-American,
 Tejano, German and Native American folklore. One of the highlights is
-[an interview](cig12) with W.C. Handy, 'the father of the blues;' the
+[an interview](cig12.md) with W.C. Handy, 'the father of the blues;' the
 lyrics in this piece foreshadow some of the great rock compositions of
 the sixties. The articles vary widely from academic to amateur in tone.
 As usual, the original text has been transcribed verbatim. It reflects
@@ -46,24 +46,24 @@ Thanks to Eliza Yetter for transcribing this collection.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cig00)  
-[Contents](cig01)  
-[Rebaptized in Ink](cig02)  
-[The Texas Folk-Lore Society Since 1916](cig03)  
-[Texas Legends Number For 1924](cig04)  
-[One Evening As I Sat Courting, by L.W. Payne. Jr.](cig05)  
+<span id="contents"></span> [Title Page](cig00.md)  
+[Contents](cig01.md)  
+[Rebaptized in Ink](cig02.md)  
+[The Texas Folk-Lore Society Since 1916](cig03.md)  
+[Texas Legends Number For 1924](cig04.md)  
+[One Evening As I Sat Courting, by L.W. Payne. Jr.](cig05.md)  
 [Human Foundation Sacrifices In Balkan Ballads, by Max Sylvius
-Handman](cig06)  
-[The Decline and Decadence of Folk Metaphor, by W. H. Thomas](cig07)  
+Handman](cig06.md)  
+[The Decline and Decadence of Folk Metaphor, by W. H. Thomas](cig07.md)  
 [Indian Pictographs of the Big Bend in Texas, by Victor J.
-Smith](cig08)  
-[The Cowboy Dance By J. R. Craddock](cig09)  
-[Miscellany of Texas Folk-Lore, by W. P. Webb](cig10)  
-[Brazos Bottom Philosophy, by A. W. Eddins](cig11)  
-[The ''Blues'' As Folk-Songs, by Dorothy Scarborough](cig12)  
+Smith](cig08.md)  
+[The Cowboy Dance By J. R. Craddock](cig09.md)  
+[Miscellany of Texas Folk-Lore, by W. P. Webb](cig10.md)  
+[Brazos Bottom Philosophy, by A. W. Eddins](cig11.md)  
+[The ''Blues'' As Folk-Songs, by Dorothy Scarborough](cig12.md)  
 [Customs Among the German Descendants of Gillespie County, by Julia
-Estill](cig13)  
+Estill](cig13.md)  
 [Customs And Superstitions Among Texas Mexicans on the Rio Grande
-Border, by Florence Johnson Scott](cig14)  
-[Pedro and Pancho, by Mrs. Mary A. Sutherland](cig15)  
-[Weather Wisdom of the Texas-Mexican Border, by J. Frank Dobie](cig16)  
+Border, by Florence Johnson Scott](cig14.md)  
+[Pedro and Pancho, by Mrs. Mary A. Sutherland](cig15.md)  
+[Weather Wisdom of the Texas-Mexican Border, by J. Frank Dobie](cig16.md)  

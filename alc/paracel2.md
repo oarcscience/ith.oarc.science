@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](coelum)  [Next](paracel1) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](coelum)  [Next](paracel1.md) 
 
 ------------------------------------------------------------------------
 
@@ -689,6 +689,6 @@ Trismegistus Spagyrus, Jesus Christ, be praise and glory immortal. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: The Treasure of Treasures for Alchemists by Paracelsus](paracel1)
+[Next: The Treasure of Treasures for Alchemists by Paracelsus](paracel1.md)
 
   

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](sym03) 
-[Next](sym05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](sym03.md) 
+[Next](sym05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symzonia; Voyage of Discovery*, by Adam Seaborn (pseud. John Cleves
 Symmes?), \[1820\], at Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Symmes?), \[1820\], at Intangible Textual Heritage
 
 <span id="page_13">p. 13</span>
 
-<span id="img_01600"></span> ![A VOYAGE.](img/01600.jpg)
+<span id="img_01600"></span> ![A VOYAGE.](img/01600.jpg.md)
 
 <span id="img_sep00"></span> ![](img/sep00.jpg)
 
@@ -179,4 +179,4 @@ and kindness of the world, and set sail on the 1st day of August, 1817.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](sym05)
+[Next: Chapter II](sym05.md)

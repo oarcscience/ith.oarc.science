@@ -15,9 +15,9 @@ derived from Hindu texts or traditions. Bain was eventually unveiled as
 a writer of orientalist fantasies, but by that time he had a loyal
 readership who could care less. He continued to press on with the series
 until there were thirteen volumes. This is thus a harmless literary hoax
-on a par with [Bilitis](../../cla/sob/index). Which is not to say that
+on a par with [Bilitis](../../cla/sob/index.md). Which is not to say that
 these books don't have their charm, particularly if you like [early
-fantasy writers](../../ring/index), such as William Morris or Lord
+fantasy writers](../../ring/index.md), such as William Morris or Lord
 Dunsany. Just don't use them as sources for information about Hindu
 mythology.
 
@@ -29,11 +29,11 @@ volumes in this series are as follows:
 
 <span class="c_da"></span> Vol. I : A Digit of the Moon  
 <span class="c_e"><span class="c_t">[Vol. II: The Descent of the
-Sun](02dos/index)</span> \[<span class="c_d">1903</span>\]</span>  
+Sun](02dos/index.md)</span> \[<span class="c_d">1903</span>\]</span>  
 <span class="c_e"><span class="c_t">[Vol. III: A Heifer of the
-Dawn](03htd/index)</span> \[<span class="c_d">1904</span>\]</span>  
+Dawn](03htd/index.md)</span> \[<span class="c_d">1904</span>\]</span>  
 <span class="c_e"><span class="c_t">[Vol. IV: In the Great God's
-Hair](04igh/index)</span> \[<span class="c_d">1905</span>\]</span>  
+Hair](04igh/index.md)</span> \[<span class="c_d">1905</span>\]</span>  
 Vol. V: A Draught of the Blue  
 Vol. VI: An Essence of the Dusk  
 Vol. VII: An Incarnation of the Snow  

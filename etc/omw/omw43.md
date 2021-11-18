@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw42)  [Next](omw44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw42)  [Next](omw44.md) 
 
 ------------------------------------------------------------------------
 
@@ -142,4 +142,4 @@ to wed her Vertumnus.
 
 ------------------------------------------------------------------------
 
-[Next: Cupid and Psyche. Part I](omw44)
+[Next: Cupid and Psyche. Part I](omw44.md)

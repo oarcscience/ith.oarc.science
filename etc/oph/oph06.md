@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](oph05)  [Next](oph07) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](oph05)  [Next](oph07.md) 
 
 ------------------------------------------------------------------------
 
@@ -585,7 +585,7 @@ was a serpent twisted into four knots at the cardinal points."
 The Mexican month was divided into twenty days; the serpent and dragon
 symbolized two of them. In Mexico there was also a temple dedicated to
 the God of the Air, and the door of it was formed so as to resemble a
-serpent's mouth.  <span id="fr_2"></span>[1](#fn_2)
+serpent's mouth.  <span id="fr_2"></span>[1](#fn_2.md)
 
 Amongst other things, Peter Martyr mentions a large serpent-idol at
 Campeachy, made of stones and bitumen, in the act of devouring a marble
@@ -617,7 +617,7 @@ serpent. This is a remarkable and valuable fact, and it discovers in
 Ophiolatreia another feature of its aboriginal character. For it proves
 the serpent to have been a symbol of intrinsic divinity, and not a mere
 representative of peculiar properties which belong to some gods and not
-to others."  <span id="fr_3"></span>[2](#fn_3)
+to others."  <span id="fr_3"></span>[2](#fn_3.md)
 
 From what has been presented, it will be seen that the serpent symbol
 was of general acceptance in America, particularly among the
@@ -660,7 +660,7 @@ tenacity, which, though modified and corrupted in the revolution of
 ages, still retain features of their original construction, when
 language, arts, sciences and political establishments no longer preserve
 distinct lineaments of their ancient constitutions."  <span
-id="fr_4"></span>[3](#fn_4)
+id="fr_4"></span>[3](#fn_4.md)
 
 A striking example of the truth of these remarks is furnished in the
 religion of India, which, to this day, notwithstanding the revolution of
@@ -685,13 +685,13 @@ anciently a Phallic emblem.
 
 ### Footnotes
 
-<span id="fn_2"></span>[1](oph06.htm#fr_2) Faber
+<span id="fn_2"></span>[1](oph06.htm#fr_2.md) Faber
 
-<span id="fn_3"></span>[2](oph06.htm#fr_3) Deane.
+<span id="fn_3"></span>[2](oph06.htm#fr_3.md) Deane.
 
-<span id="fn_4"></span>[3](oph06.htm#fr_4) McCulloch's American
+<span id="fn_4"></span>[3](oph06.htm#fr_4.md) McCulloch's American
 Researches, p. 225.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](oph07)
+[Next: Chapter 7](oph07.md)

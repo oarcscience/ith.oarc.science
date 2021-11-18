@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis29)  [Next](kis31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis29)  [Next](kis31.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ be their new house.
 
 ------------------------------------------------------------------------
 
-[Next: Part X](kis31)
+[Next: Part X](kis31.md)

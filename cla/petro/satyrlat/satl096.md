@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat13.htm#XCVI) 
-[Previous](satl095)  [Next](satl097) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat13.htm#XCVI.md) 
+[Previous](satl095)  [Next](satl097.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ versibus, ut habeat pudorem".
 
 ------------------------------------------------------------------------
 
-[Next: XCVII](satl097)
+[Next: XCVII](satl097.md)

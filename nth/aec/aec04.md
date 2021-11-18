@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec03)  [Next](aec05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec03)  [Next](aec05.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Textual Heritage
 <span id="page_10">p. 10</span>
 
 <span id="img_01000"></span> ![Decoration: Fire inside a
-triangle](img/01000.jpg)
+triangle](img/01000.jpg.md)
 
 <span id="page_11">p. 11</span>
 
@@ -77,7 +77,7 @@ intelligence, in one form or another, on some sphere of expression or
 another. Life without self-consciousness would be merely an abstraction,
 not a being.
 
-What is man's relation to Life? It is [analogous](errata.htm#0) to his
+What is man's relation to Life? It is [analogous](errata.htm#0.md) to his
 relation to the air which he inhales and exhales. He is a participator,
 a spectator and a vehicle of Life. As with the air so with Life; it is
 ours to use but never to possess.
@@ -259,4 +259,4 @@ drinking and sleeping form.
 
 ------------------------------------------------------------------------
 
-[Next: II. What Is Human Nature?](aec05)
+[Next: II. What Is Human Nature?](aec05.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Shinto](../index) [Index](index) [Next](kgsh1)
+[Sacred-Texts](../../index) [Shinto](../index) [Index](index) [Next](kgsh1.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@
 
 ------------------------------------------------------------------------
 
-[Next](kgsh1)
+[Next](kgsh1.md)
 
  
 

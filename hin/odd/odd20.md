@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd19)  [Next](odd21) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd19)  [Next](odd21.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,10 +29,10 @@ dreadful.' And, hearing her immediately afterwards dragging all the
 things about the room again, he said to himself, 'What a terrible noise!
 Surely that must be the *"perpetual dripping*."
 
-At this moment a Chattee-maker,  <span id="fr_65"></span>[1](#fn_65) who
+At this moment a Chattee-maker,  <span id="fr_65"></span>[1](#fn_65.md) who
 was in search of his donkey which had strayed away, came down the road.
 The night being very cold, he had, truth to say, taken a little more
-toddy  <span id="fr_66"></span>[2](#fn_66)than was good for him, and
+toddy  <span id="fr_66"></span>[2](#fn_66.md)than was good for him, and
 seeing, by the light of a flash of lightning, a large animal lying down
 close to the old woman's hut, mistook it for the donkey he was looking
 for. So, running up to the Tiger, he seized hold of it by one ear, and
@@ -232,11 +232,11 @@ man would.'
 
 ### Footnotes
 
-<span id="fn_65"></span>[1](odd20.htm#fr_65) Potter.
+<span id="fn_65"></span>[1](odd20.htm#fr_65.md) Potter.
 
-<span id="fn_66"></span>[2](odd20.htm#fr_66) An intoxicating drink made
+<span id="fn_66"></span>[2](odd20.htm#fr_66.md) An intoxicating drink made
 of palm juice.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. The Raksha's Palace](odd21)
+[Next: XVII. The Raksha's Palace](odd21.md)

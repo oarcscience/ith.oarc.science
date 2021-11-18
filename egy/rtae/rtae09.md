@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](rtae08)  [Next](rtae10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](rtae08)  [Next](rtae10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Development of Religion and Thought in Ancient Egypt*, by James Henry
 Breasted, \[1912\], at Intangible Textual Heritage
 
@@ -37,21 +37,21 @@ unequivocal survivals from a period when he was hostile to the celestial
 and Solar dead are still discoverable in the Pyramid Texts. We recall
 the exorcisms intended to restrain Osiris and his kin from entering the
 pyramid, a Solar tomb, with evil intent ([p.
-75](rtae07.htm#page_75)). <span id="fr_483"></span>[1](#fn_483) Again we
+75](rtae07.htm#page_75)). <span id="fr_483"></span>[1](#fn_483.md) Again we
 find the dead king as a star in the sky, thus addressed: "Thou lookest
 down upon Osiris commanding the Glorious (= the dead). There thou
 standest, being far from him, (for) thou art not of them (the dead),
-thou belongest not among them." <span id="fr_484"></span>[2](#fn_484)
+thou belongest not among them." <span id="fr_484"></span>[2](#fn_484.md)
 Likewise it is said of the Sun-god: "He has freed king Teti from Kherti,
 he has
 
 <span id="page_143">p. 143</span>
 
-not given him to Osiris." <span id="fr_485"></span>[1](#fn_485) It is
+not given him to Osiris." <span id="fr_485"></span>[1](#fn_485.md) It is
 perhaps due to an effort to overcome this difficulty that Horus, the son
 of Osiris, is represented as one "who puts not this Pepi over the dead,
 he puts him among the gods, he being divine." <span
-id="fr_486"></span>[2](#fn_486) The prehistoric Osiris faith, probably
+id="fr_486"></span>[2](#fn_486.md) The prehistoric Osiris faith, probably
 local to the Delta, thus involved a forbidding hereafter which was
 dreaded and at the same time was opposed to celestial blessedness
 beyond. To be sure, the Heliopolitan group of gods, the Divine Ennead of
@@ -62,9 +62,9 @@ belief came out of the earth. Moreover, the celestial destiny through
 Nut the Sky-goddess is not necessarily Osirian. It is found, along with
 the frequent and non-Osirian or even pre-Osirian co-ordination of Horus
 and Set, associated in the service of the dead. <span
-id="fr_487"></span>[3](#fn_487) The appearance of these two together
+id="fr_487"></span>[3](#fn_487.md) The appearance of these two together
 assisting the dead cannot be Osirian. <span
-id="fr_488"></span>[4](#fn_488) To be protected and assisted by Nut,
+id="fr_488"></span>[4](#fn_488.md) To be protected and assisted by Nut,
 therefore, does not necessarily imply that she is doing this for the
 dead king, because he is identified with Osiris, her son. It is thus
 probable that as a Sky-goddess intimately associated with Re, Nut's
@@ -81,9 +81,9 @@ the Nether World. He became king of a realm of
 
 the dead below the earth, and hence his frequent title, "Lord of Dewat,"
 the "Nether World," which occurs even in the Pyramid Texts. <span
-id="fr_489"></span>[1](#fn_489) It is as lord of a subterranean kingdom
+id="fr_489"></span>[1](#fn_489.md) It is as lord of a subterranean kingdom
 of the dead that Osiris later appears. <span
-id="fr_490"></span>[2](#fn_490)
+id="fr_490"></span>[2](#fn_490.md)
 
 <span id="page_145">p. 145</span>
 
@@ -93,18 +93,18 @@ Texts do not carry him thither. There are as many varying pictures of
 the Osirian destiny as in the Solar theology. We find the dead king as a
 mere messenger of Osiris announcing the prosperous issue and plentiful
 yield of the year, the harvest year, which is associated with
-Osiris. <span id="fr_491"></span>[1](#fn_491) That group of incidents in
+Osiris. <span id="fr_491"></span>[1](#fn_491.md) That group of incidents in
 the myth which proves to be especially available in the future career of
 the dead king is his relations with Horus, the son of Osiris, and the
 filial piety displayed by the son toward his father. We may find the
 dead king identified with Horus and marching forth in triumph from Buto,
 with his mother, Isis, before him and Nephthys behind him, while Upwawet
-opened the way for them. <span id="fr_492"></span>[2](#fn_492) More
+opened the way for them. <span id="fr_492"></span>[2](#fn_492.md) More
 often, however, the dead king does all that Osiris did, receiving heart
-and limbs as did Osiris, <span id="fr_493"></span>[3](#fn_493) or
+and limbs as did Osiris, <span id="fr_493"></span>[3](#fn_493.md) or
 becoming Osiris himself. This was the favorite belief of the Osiris
 faith. The king became Osiris and rose from the dead as Osiris
-did. <span id="fr_494"></span>[4](#fn_494) This identity began at birth
+did. <span id="fr_494"></span>[4](#fn_494.md) This identity began at birth
 and is described in the Pyramid Texts with all the wonders and prodigies
 of a divine birth.
 
@@ -135,10 +135,10 @@ continues\]</span> The god takes possession of his body.
 <span class="contnote">\[paragraph continues\]</span> Osiris as Nile is
 thus born between the two mountains of the eastern and western Nile
 shores, and in the same way, and as the same being, the king is
-born. <span id="fr_495"></span>[1](#fn_495) Hence we find the king
+born. <span id="fr_495"></span>[1](#fn_495.md) Hence we find the king
 appearing elsewhere as the inundation. <span
-id="fr_496"></span>[2](#fn_496) It is not the mere assumption of the
-form of Osiris, <span id="fr_497"></span>[3](#fn_497) but complete
+id="fr_496"></span>[2](#fn_496.md) It is not the mere assumption of the
+form of Osiris, <span id="fr_497"></span>[3](#fn_497.md) but complete
 identity with him, which is set forth in this doctrine of the Pyramid
 Texts. "As he (Osiris) lives, this king Unis lives; as he dies not, this
 king Unis dies not; as he perishes not, this king Unis perishes not."
@@ -146,13 +146,13 @@ These asseverations are repeated over and over, and addressed to every
 god in the Ennead, that each may be called upon to witness their truth.
 Osiris himself under various names is adjured, "Thy body is the body of
 this king Unis, thy flesh is the flesh of this king Unis, thy bones are
-the bones of this king Unis." <span id="fr_498"></span>[4](#fn_498) Thus
+the bones of this king Unis." <span id="fr_498"></span>[4](#fn_498.md) Thus
 the dead king receives the throne of Osiris, and becomes, like him, king
 of the dead. "Ho! king Neferkere (Pepi II)! How beautiful is this! How
 beautiful is this, which thy father Osiris has done for thee! He has
 given thee his throne, thou rulest those of the hidden places (the
 dead), thou leadest their august ones, all the glorious ones follow
-thee." <span id="fr_499"></span>[5](#fn_499)
+thee." <span id="fr_499"></span>[5](#fn_499.md)
 
 The supreme boon which this identity of the king with Osiris assured the
 dead Pharaoh was the good offices of Horus, the personification of
@@ -165,12 +165,12 @@ now likewise become the king's portion. The litigation which the myth
 recounts at Heliopolis is successfully met by the aid of Horus, as well
 as Thoth, and, like Osiris, the dead king receives the predicate
 "righteous of voice," or "justified," an epithet which was later
-construed as meaning "triumphant." <span id="fr_500"></span>[1](#fn_500)
+construed as meaning "triumphant." <span id="fr_500"></span>[1](#fn_500.md)
 Over and over again the resurrection of Osiris by Horus, and the
 restoration of his body, are likewise affirmed to be the king's
 privilege. "Horus collects for thee thy limbs that he may put thee
 together without any lack in thee." <span
-id="fr_501"></span>[2](#fn_501) Horus then champions his cause, as he
+id="fr_501"></span>[2](#fn_501.md) Horus then champions his cause, as he
 had done that of his father, till the dead king gains the supreme place
 as sovereign of all. "O Osiris king Teti, arise! Horus comes that he may
 reclaim thee from the gods. Horus loves thee, he has equipped thee with
@@ -193,9 +193,9 @@ till he avenged thee. Ho, Osiris king Teti! thou art
 a mighty god, there is no god like thee. Horus has given to thee his
 children that they might carry thee. He has given to thee all gods that
 they may serve thee, and thou have power over them." <span
-id="fr_502"></span>[1](#fn_502) A long series of Utterances in the
+id="fr_502"></span>[1](#fn_502.md) A long series of Utterances in the
 Pyramid Texts sets forth this championship of the dead king as Osiris by
-his son Horus. <span id="fr_503"></span>[2](#fn_503) In all this there
+his son Horus. <span id="fr_503"></span>[2](#fn_503.md) In all this there
 is little or no trace of the celestial destiny, or any indication of the
 place where the action occurs. Such incidents and such Utterances are
 appropriated from the Osirian theology and myth, with little or no
@@ -206,14 +206,14 @@ Solar) theology. Even in the Osirian Utterances on the good offices of
 Horus just mentioned we twice find the dead king, although he is assumed
 to be Osiris, thus addressed: "Thou art a Glorious One (Y’ḫwty) in thy
 name of 'Horizon (Y’ḫt) from which Re comes forth.'" <span
-id="fr_504"></span>[3](#fn_504) The Osirian hereafter was thus
+id="fr_504"></span>[3](#fn_504.md) The Osirian hereafter was thus
 celestialized, as had been the Osirian theology when it was correlated
 with that of Heliopolis. We find the Sky-goddess Nut extending to the
 Osirian dead her protection and the privilege of entering her realm. Nut
 "takes him to the sky, she does not cast him down to the earth." <span
-id="fr_505"></span>[4](#fn_505) The ancient hymn in praise of the
+id="fr_505"></span>[4](#fn_505.md) The ancient hymn in praise of the
 Sky-goddess embedded in the Pyramid Texts <span
-id="fr_506"></span>[5](#fn_506) has received an introduction, in which
+id="fr_506"></span>[5](#fn_506.md) has received an introduction, in which
 the king as Osiris is commended to her protection, and the hymn is
 broken up by petitions inserted at intervals craving a celestial destiny
 for the dead king, although this archaic hymn had originally no
@@ -223,32 +223,32 @@ demonstrable connection
 
 with Osiris, and was, as far as any indication it contains is concerned,
 written before the priestly theology had made Osiris the son of the
-Sky-goddess. <span id="fr_507"></span>[1](#fn_507) Similarly Anubis, the
+Sky-goddess. <span id="fr_507"></span>[1](#fn_507.md) Similarly Anubis, the
 ancient mortuary god of Siut, "counts Osiris away from the gods
 belonging to the earth, to the gods dwelling in the sky"; <span
-id="fr_508"></span>[2](#fn_508) and we find in the Pyramid Texts the
+id="fr_508"></span>[2](#fn_508.md) and we find in the Pyramid Texts the
 anomalous ascent of Osiris to the sky: "The sky thunders (lit. speaks),
 earth trembles, for fear of thee, Osiris, when thou makest ascent. Ho,
 mother cows yonder! Ho, suckling mothers (cows) yonder! Go ye behind
 him, weep for him, hail him, acclaim him, when he makes ascent and goes
 to the sky among his brethren, the gods." <span
-id="fr_509"></span>[3](#fn_509) His transition to the Solar and
+id="fr_509"></span>[3](#fn_509.md) His transition to the Solar and
 celestial destiny is effected in one passage by a piece of purely
 mortuary theologizing which represents Re as raising Osiris from the
-dead. <span id="fr_510"></span>[4](#fn_510) Thus is Osiris celestialized
+dead. <span id="fr_510"></span>[4](#fn_510.md) Thus is Osiris celestialized
 until the Pyramid Texts even call him "lord of the sky," <span
-id="fr_511"></span>[5](#fn_511) and represent him as ruling there. The
+id="fr_511"></span>[5](#fn_511.md) and represent him as ruling there. The
 departed Pharaoh is ferried over, the doors of the sky are opened for
 him, he passes all enemies as he goes, and he is announced to Osiris in
 the sky precisely as in the Solar theology. There he is welcomed by
-Osiris, <span id="fr_512"></span>[6](#fn_512) and he joins the
+Osiris, <span id="fr_512"></span>[6](#fn_512.md) and he joins the
 "Imperishable Stars, the followers of Osiris," <span
-id="fr_513"></span>[7](#fn_513) just as in the Solar faith. In the same
+id="fr_513"></span>[7](#fn_513.md) just as in the Solar faith. In the same
 way he emerges as a god of primeval origin and elemental powers. "Thou
 bearest the sky in thy hand, thou layest down the earth with thy
-foot." <span id="fr_514"></span>[8](#fn_514) Celestials and men acclaim
+foot." <span id="fr_514"></span>[8](#fn_514.md) Celestials and men acclaim
 the dead, even "thy wind is incense, thy north wind is smoke," <span
-id="fr_515"></span>[9](#fn_515) say they.
+id="fr_515"></span>[9](#fn_515.md) say they.
 
 While the Heliopolitan priests thus solarized and celestialized
 
@@ -274,11 +274,11 @@ hereafter and their resulting Osirianization.
 
 Even on his coffin, preserved in the pyramid sepulchre, the departed
 king is called "Osiris, lord of Dewat." <span
-id="fr_516"></span>[1](#fn_516) The Osirian influence is superficially
+id="fr_516"></span>[1](#fn_516.md) The Osirian influence is superficially
 evident in otherwise purely Solar Utterances of the Pyramid Texts where
 the Osirian editor has inserted the epithet "Osiris" before the king's
 name, so that we have "Osiris king Unis," or "Osiris king Pepi." <span
-id="fr_517"></span>[2](#fn_517) This was at first so mechanically done
+id="fr_517"></span>[2](#fn_517.md) This was at first so mechanically done
 that in the offering ritual it was placed only at the head of each
 Utterance. In the earliest of our five versions of the Pyramid Texts,
 that of Unis, we find "Osiris" inserted before the king's name wherever
@@ -292,7 +292,7 @@ the sections, inserting "Osiris" at the head of each one which began
 with the king's name, but not taking the trouble to go through each
 section seeking the king's name and to insert "Osiris" wherever
 necessary in the body of the text also. <span
-id="fr_518"></span>[1](#fn_518)
+id="fr_518"></span>[1](#fn_518.md)
 
 In this way the whole Offering Ritual was Osirianized in Unis's pyramid,
 but the editor ceased this process of mechanical insertion at the end of
@@ -300,11 +300,11 @@ the ritual. A similar method may be observed where the same Utterance
 happens to be preserved in two different pyramids, one exhibiting the
 mechanical insertion of "Osiris" before the king's name, while the other
 lacks such editing. This is especially significant where the content of
-the Utterances is purely Solar. <span id="fr_519"></span>[2](#fn_519)
+the Utterances is purely Solar. <span id="fr_519"></span>[2](#fn_519.md)
 
 But the Osirianization of the Pyramid Texts involves more than such
 mechanical alteration of externals. We find one Utterance <span
-id="fr_520"></span>[3](#fn_520) in its old Solar form, without a single
+id="fr_520"></span>[3](#fn_520.md) in its old Solar form, without a single
 reference to Osiris or to Osirian doctrine, side by side with the same
 Utterance in expanded form filled with Osirian elements. The traces of
 the Osirian editor's work are evident throughout, but they are
@@ -320,7 +320,7 @@ addressed by pronouns in the *singular number!* It is evident that, like
 the other four stanzas, the fifth also began with the name of a single
 god, but that the Osirian editor has inserted the name of an Osirian god
 as a second name, forgetting to change the pronouns. <span
-id="fr_521"></span>[1](#fn_521) The insertion is enhanced in
+id="fr_521"></span>[1](#fn_521.md) The insertion is enhanced in
 significance by the fact that all five gods in these five stanzas are
 Solar gods, and the last one, after which the name of Osiris was
 inserted, is identified with Re.
@@ -329,7 +329,7 @@ The process was carried so far that it was sometimes applied to passages
 totally at variance with the Osirian doctrine. In the old Solar teaching
 we not infrequently find Horus and Set side by side on an equal basis,
 and both represented as engaged in some beneficent act for the
-dead. <span id="fr_522"></span>[2](#fn_522) Now when the dead king is
+dead. <span id="fr_522"></span>[2](#fn_522.md) Now when the dead king is
 identified with Osiris, by the insertion of the name "Osiris" before
 that of the king, we are confronted by the extraordinary assumption that
 Set performs pious mortuary offices for Osiris, although the Osiris myth
@@ -345,23 +345,23 @@ had, of course, nothing to do with the Osirian ritual, but when the
 ritual introducing this ceremony was Osirianized, we find "King Osiris,
 this Pepi" inserted before the formula of purification, thus assuming
 that Osiris was purified by his arch-enemy, the foul Set! <span
-id="fr_523"></span>[1](#fn_523) Similarly, Set may appear alone in old
+id="fr_523"></span>[1](#fn_523.md) Similarly, Set may appear alone in old
 Solar Utterances on familiar and friendly terms with the dead king, so
 that the king may be addressed thus: "He calls to thee on the stairway
 of the sky; thou ascendest to the god; Set fraternizes with thee," even
 though the king has just been raised as Osiris from the dead! <span
-id="fr_524"></span>[2](#fn_524)
+id="fr_524"></span>[2](#fn_524.md)
 
 The ladder leading to the sky was originally an element of the Solar
 faith. That it had nothing to do with Osiris is evident, among other
 things, from the fact that one version of the ladder episode represents
-it in charge of Set. <span id="fr_525"></span>[3](#fn_525) The
+it in charge of Set. <span id="fr_525"></span>[3](#fn_525.md) The
 Osirianization of the ladder episode is clearly traceable in four
 versions of it, which are but variants of the same ancient
-original. <span id="fr_526"></span>[4](#fn_526) The four represent a
+original. <span id="fr_526"></span>[4](#fn_526.md) The four represent a
 period of nearly a century, at least of some eighty-five years. In the
 oldest form preserved to us, in the pyramid of Unis, <span
-id="fr_527"></span>[5](#fn_527) dating from the middle of the
+id="fr_527"></span>[5](#fn_527.md) dating from the middle of the
 twenty-seventh century, the Utterance opens with the acclamation of the
 gods as Unis ascends. "'How beautiful to see, how satisfying to behold,'
 say the gods, when this god ascends to the sky, when Unis ascends to the
@@ -372,7 +372,7 @@ make supports for Unis on their arm. Thou ascendest, O Unis,
 
 to the sky. Ascend upon it in this its name of 'Ladder.' The sky is
 given to Unis, the earth is given to him by Atum." Such is the essential
-substance of the Utterance. <span id="fr_528"></span>[1](#fn_528) The
+substance of the Utterance. <span id="fr_528"></span>[1](#fn_528.md) The
 ladder here barely emerges and the climber is the Pharaoh himself,
 though Atum is prominent. A generation later, in the pyramid of Teti the
 ladder is more developed and the original climber is Atum, the Sun-god;
@@ -380,7 +380,7 @@ but the Osirian goddesses, Isis and Nephthys, are introduced. Finally,
 in the pyramid of Pepi I, at least eighty-five years after that of Unis,
 the opening acclamation of the old gods as they behold the ascent of the
 Pharaoh is put into the mouths of Isis and Nephthys, and the climber has
-become Osiris. <span id="fr_529"></span>[2](#fn_529) Thus Osiris has
+become Osiris. <span id="fr_529"></span>[2](#fn_529.md) Thus Osiris has
 taken possession of the old Solar episode and appropriated the old Solar
 text. This has taken place in spite of embarrassing complications. In
 harmony with the common co-ordination of Horus and Set in the service of
@@ -388,7 +388,7 @@ the dead, an old Solar doctrine represented them as assisting him at the
 ascent of the ladder which Re and Horus set up. But when the ascending
 king becomes Osiris, the editor seems quite unconscious of the
 incongruity, as Set, the mortal enemy and slayer of Osiris, assists him
-to reach his celestial abode! <span id="fr_530"></span>[3](#fn_530)
+to reach his celestial abode! <span id="fr_530"></span>[3](#fn_530.md)
 
 Nowhere is the intrusion of Osiris in the Pyramid Texts more striking
 than in the Utterances devoted to the services of the four Eastern
@@ -402,7 +402,7 @@ things first done for each of the four Horuses in succession, and then
 by sympathetic inevitability also for the dead king. Four considerable
 Utterances are built up in this way, each containing an account of the
 things done by each of the four Horuses, and then likewise by the
-king. <span id="fr_531"></span>[1](#fn_531)
+king. <span id="fr_531"></span>[1](#fn_531.md)
 
 In the oldest form of these Utterances, as found in the pyramid of Teti,
 the quartette comprise the following:
@@ -413,7 +413,7 @@ the quartette comprise the following:
 
 3\. Horus of the Shesmet.
 
-4\. Horus of the East. <span id="fr_532"></span>[2](#fn_532)
+4\. Horus of the East. <span id="fr_532"></span>[2](#fn_532.md)
 
 <span class="contnote">\[paragraph continues\]</span> The exclusively
 Solar character of each of these Horuses is evident from the connections
@@ -426,9 +426,9 @@ king)
 
 <span id="page_156">p. 156</span>
 
-to Osiris." <span id="fr_533"></span>[1](#fn_533) Two generations after
+to Osiris." <span id="fr_533"></span>[1](#fn_533.md) Two generations after
 Teti we find the same four Horuses, unaltered, <span
-id="fr_534"></span>[2](#fn_534) side by side with a further development
+id="fr_534"></span>[2](#fn_534.md) side by side with a further development
 of the group exhibiting an intruder; it appears thus:
 
 1\. Horus of the Gods.
@@ -437,7 +437,7 @@ of the group exhibiting an intruder; it appears thus:
 
 3\. Horus of the Shesmet.
 
-4\. Osiris. <span id="fr_535"></span>[3](#fn_535)
+4\. Osiris. <span id="fr_535"></span>[3](#fn_535.md)
 
 Osiris has thus pushed his way into this Solar group to the displacement
 of the most unequivocally Solar of them all, Horus of the Horizon
@@ -449,10 +449,10 @@ preserved from decay by Isis and Nephthys as the four Horuses had been
 likewise preserved by the same Osirian goddesses. When once the group
 has been Osirianized it is to be expected that they shall enjoy the good
 offices of the wife and sister of Osiris. <span
-id="fr_536"></span>[4](#fn_536) The exclusion of one of the four
+id="fr_536"></span>[4](#fn_536.md) The exclusion of one of the four
 Horuses, by the intrusion of Osiris, leaving really only three, is
 doubtless the reason why we find in another Osirianized Utterance that
-only three of them appear. <span id="fr_537"></span>[5](#fn_537)
+only three of them appear. <span id="fr_537"></span>[5](#fn_537.md)
 
 As the four Solar Horuses of the East were Osirianized, so in all
 probability were the four mortuary genii, commonly known as the "four
@@ -463,20 +463,20 @@ purely celestial and Solar matter, as we have
 
 <span id="page_157">p. 157</span>
 
-seen ([p. 111](rtae07.htm#page_111)), and they make it together with
+seen ([p. 111](rtae07.htm#page_111).md), and they make it together with
 Atum, the primeval Sun-god. Similarly we find them all in a list of
-Solar gods, <span id="fr_538"></span>[1](#fn_538) and they appear also
-in charge of the Solar ferry-boat, <span id="fr_539"></span>[2](#fn_539)
-in which they ferry over the dead. <span id="fr_540"></span>[3](#fn_540)
+Solar gods, <span id="fr_538"></span>[1](#fn_538.md) and they appear also
+in charge of the Solar ferry-boat, <span id="fr_539"></span>[2](#fn_539.md)
+in which they ferry over the dead. <span id="fr_540"></span>[3](#fn_540.md)
 The four Horuses also have much to do with the celestial ferry, and it
 would appear, though this is merely a conjecture, that the four genii
 are an artificial creation parallel with the four Horuses, and perhaps
-their sons. <span id="fr_541"></span>[4](#fn_541) In any case the dead
+their sons. <span id="fr_541"></span>[4](#fn_541.md) In any case the dead
 may be identified with one of them as with the four Horuses. <span
-id="fr_542"></span>[5](#fn_542) The four genii were, however, fully
+id="fr_542"></span>[5](#fn_542.md) The four genii were, however, fully
 Osirianized, they avenge Osiris and smite Set, <span
-id="fr_543"></span>[6](#fn_543) and they carry the body of the dead king
-as Osiris. <span id="fr_544"></span>[7](#fn_544) In the later mortuary
+id="fr_543"></span>[6](#fn_543.md) and they carry the body of the dead king
+as Osiris. <span id="fr_544"></span>[7](#fn_544.md) In the later mortuary
 ritual of the Osirian faith they played a prominent rôle, and are
 especially well known as the four genii who had charge of the viscera of
 the dead, which they protect in the hereafter in the four so-called
@@ -484,9 +484,9 @@ the dead, which they protect in the hereafter in the four so-called
 the four genii. This function in the Osirian faith is foreshadowed in
 the Pyramid Texts in a passage where we find them expelling hunger and
 thirst from the belly and lips of the dead. <span
-id="fr_545"></span>[8](#fn_545)
+id="fr_545"></span>[8](#fn_545.md)
 
-As the four Horuses and the four genii, who had so [much](errata.htm#4)
+As the four Horuses and the four genii, who had so [much](errata.htm#4.md)
 to do with the ascension and the celestial ferry, were Osirianized, so
 eventually was the ancient Solar ferryman "Face-Behind-Him," who
 receives the title "Doorkeeper of Osiris" and the Solar ferry becomes
@@ -496,18 +496,18 @@ the property
 
 of Osiris, to whom the ferryman is adjured to say, "Let this thy
 (Osiris's) ship be brought for this king Pepi." <span
-id="fr_546"></span>[1](#fn_546) The two floats of reeds suffered much
+id="fr_546"></span>[1](#fn_546.md) The two floats of reeds suffered much
 the same fate. These, as we have seen (p.108), are clearly Solar when
-they first appear. <span id="fr_547"></span>[2](#fn_547) Indeed, in the
+they first appear. <span id="fr_547"></span>[2](#fn_547.md) Indeed, in the
 pyramid of Teti they are found in an Utterance <span
-id="fr_548"></span>[3](#fn_548) explicitly hostile to Osiris, in which
+id="fr_548"></span>[3](#fn_548.md) explicitly hostile to Osiris, in which
 it is stated that the Sun-god does not deliver the dead king to Osiris.
 Nevertheless the reed floats are also completely Osirianized in the
 Pyramid Texts. We find them laid down for Osiris, by the gods of the
 cardinal points, in an Utterance purely Osirian in character, <span
-id="fr_549"></span>[4](#fn_549) and within a century after they appear
+id="fr_549"></span>[4](#fn_549.md) and within a century after they appear
 still purely Solar in the pyramid of Unis, they were employed in that of
-Pepi I for the crossing of Osiris. <span id="fr_550"></span>[5](#fn_550)
+Pepi I for the crossing of Osiris. <span id="fr_550"></span>[5](#fn_550.md)
 
 If the ladder, the ferry-boat, and the reed floats, the
 instrumentalities for reaching the skies, a place with which Osiris had
@@ -515,25 +515,25 @@ properly nothing to do, were thus early Osirianized, we cannot wonder
 that the sky itself and its denizens were likewise appropriated by
 Osiris till the "Imperishable Stars" are called "followers of Osiris."
 In the same way, when the king is born, like Osiris, as Nile, <span
-id="fr_551"></span>[6](#fn_551) we may find him transferred to the sky
+id="fr_551"></span>[6](#fn_551.md) we may find him transferred to the sky
 and flooding the heavens as the Nile inundation; he makes all the sky
 fresh and verdant. "King Unis comes to his pools that are in the region
 of the flood at the great inundation, to the place of peace with green
 fields, that is in the horizon. Unis makes the verdure to flourish in
-the two regions of the horizon." <span id="fr_552"></span>[7](#fn_552)
+the two regions of the horizon." <span id="fr_552"></span>[7](#fn_552.md)
 Finally Osiris is not only identified with the dead king, but also even
-with his temple and pyramid, <span id="fr_553"></span>[8](#fn_553) the
+with his temple and pyramid, <span id="fr_553"></span>[8](#fn_553.md) the
 great Solar symbol, from which these
 
 <span id="page_159">p. 159</span>
 
 same Pyramid Texts contain formulæ for exorcising Osiris and his kin
-(see [p. 75](rtae07.htm#page_75)). <span id="fr_554"></span>[1](#fn_554)
+(see [p. 75](rtae07.htm#page_75)). <span id="fr_554"></span>[1](#fn_554.md)
 
 An important link between the celestial and the Osirian doctrine of the
 hereafter was the fact that the Sun-god died every day in the west.
 There was at Abydos, as we have already seen ([p.
-38](rtae05.htm#page_38)), an old mortuary god known as "First of the
+38](rtae05.htm#page_38).md), an old mortuary god known as "First of the
 Westerners," who was early absorbed by Osiris, so that "First of the
 Westerners" became an epithet appended to the name of Osiris. Before
 this conquest by Osiris took place, however, the "First of the
@@ -544,7 +544,7 @@ thee, the offering is placed before thee. Thou goest upon that way
 whereon the gods go. Turn thee that thou mayest see this offering which
 the king has made for thee, which the First of the Westerners has made
 for thee. Thou goest to those northern gods, the Imperishable
-Stars." <span id="fr_555"></span>[2](#fn_555) It is evident that the
+Stars." <span id="fr_555"></span>[2](#fn_555.md) It is evident that the
 First of the Westerners is closely associated with the celestial
 hereafter in this passage. Later, when Osiris was identified with the
 First of the Westerners, the latter's connection with the celestial
@@ -553,7 +553,7 @@ beliefs.
 
 Now, while all this also resulted in Osirianizing the celestial and
 Solar mortuary teachings, they still remained celestial. When the dead
-Osiris is taken up by Re, <span id="fr_556"></span>[3](#fn_556) it is
+Osiris is taken up by Re, <span id="fr_556"></span>[3](#fn_556.md) it is
 evident that Re's position in these composite mortuary doctrines is
 still the chief one. The fact remains, then, that the celestial
 doctrines of the hereafter dominate the Pyramid Texts throughout, and
@@ -602,7 +602,7 @@ Mernere upon their thrones before every Divine Ennead, like Re and like
 his successor. They cause this Mernere to become like Re in this his
 name of Kheprer (Sun-god). Thou ascendest to them like Re in this his
 name of Re. Thou wanderest away from them like Re in this his name of
-Atum. <span id="fr_557"></span>[1](#fn_557) The two Divine Enneads
+Atum. <span id="fr_557"></span>[1](#fn_557.md) The two Divine Enneads
 rejoice, O king Osiris Mernere. They say, 'Our brother here comes to
 us,' say the two Divine Enneads concerning Osiris Mernere, O king Osiris
 Mernere. 'One of us comes to us,' say the two Divine Enneads concerning
@@ -612,7 +612,7 @@ was done by his brother Set comes to us,' say the two Divine Enneads.
 'But we shall not permit that Set be delivered from bearing thee
 forever, O king Osiris Mernere,' say the two Divine Enneads concerning
 thee, O king Osiris Mernere. Lift thee up, O king Osiris Mernere. Thou
-livest." <span id="fr_558"></span>[2](#fn_558) It will be noticed that
+livest." <span id="fr_558"></span>[2](#fn_558.md) It will be noticed that
 the Osirian passage which follows so abruptly upon the Solar is Osirian
 in content, and its Osirian character does not consist in the simple
 insertion of the name of Osiris before that of the king.
@@ -675,7 +675,7 @@ terror of thee is on their hearts."
 
 "Thy name lives upon earth, thy name grows old upon earth. Thou
 perishest not, thou passest not away for ever and ever." <span
-id="fr_559"></span>[1](#fn_559)
+id="fr_559"></span>[1](#fn_559.md)
 
 While there is some effort here to correlate the functions of Re and
 Osiris, it can hardly be called an attempt at harmonization of
@@ -683,7 +683,7 @@ conflicting doctrines. This is practically unknown in the Pyramid Texts.
 Perhaps we may regard it as an explanation of Osiris's presence in the
 sky when we find a reference to the fact that "he ascended . . . to the
 sky that he might join the suite of Re." <span
-id="fr_560"></span>[2](#fn_560) But the fact that both Re and Osiris
+id="fr_560"></span>[2](#fn_560.md) But the fact that both Re and Osiris
 appear as supreme kings of the hereafter cannot be reconciled, and such
 mutually irreconcilable beliefs caused the Egyptian no more
 
@@ -714,22 +714,22 @@ Egyptian conception of the hereafter.
 
 ### Footnotes
 
-<span id="fn_483"></span>[142:1](rtae09.htm#fr_483) Pyr. §§ 1266–7.
+<span id="fn_483"></span>[142:1](rtae09.htm#fr_483.md) Pyr. §§ 1266–7.
 
-<span id="fn_484"></span>[142:2](rtae09.htm#fr_484) Pyr. § 251.
+<span id="fn_484"></span>[142:2](rtae09.htm#fr_484.md) Pyr. § 251.
 
-<span id="fn_485"></span>[143:1](rtae09.htm#fr_485) Pyr. § 350.
+<span id="fn_485"></span>[143:1](rtae09.htm#fr_485.md) Pyr. § 350.
 
-<span id="fn_486"></span>[143:2](rtae09.htm#fr_486) Pyr. § 969.
+<span id="fn_486"></span>[143:2](rtae09.htm#fr_486.md) Pyr. § 969.
 
-<span id="fn_487"></span>[143:3](rtae09.htm#fr_487) Pyr. Ut. 443.
+<span id="fn_487"></span>[143:3](rtae09.htm#fr_487.md) Pyr. Ut. 443.
 
-<span id="fn_488"></span>[143:4](rtae09.htm#fr_488) See *infra*, pp.
-[152](#page_152)–3.
+<span id="fn_488"></span>[143:4](rtae09.htm#fr_488.md) See *infra*, pp.
+[152](#page_152.md)–3.
 
-<span id="fn_489"></span>[144:1](rtae09.htm#fr_489) Pyr. § 8 d.
+<span id="fn_489"></span>[144:1](rtae09.htm#fr_489.md) Pyr. § 8 d.
 
-<span id="fn_490"></span>[144:2](rtae09.htm#fr_490) The situation of
+<span id="fn_490"></span>[144:2](rtae09.htm#fr_490.md) The situation of
 Dewat is a difficult problem. As the Nile flows out of it, according to
 later texts, especially the Sun-hymns, and the common designation of the
 universe in the Empire is "sky, earth, and Dewat," it is evident that it
@@ -780,72 +780,72 @@ says: "My place is in the barque of Re in the middle of lower Dewat"
 was ultimately identified, or, being originally the Nether World, it had
 its counterpart in the sky.
 
-<span id="fn_491"></span>[145:1](rtae09.htm#fr_491) Pyr. §§ 1195.
+<span id="fn_491"></span>[145:1](rtae09.htm#fr_491.md) Pyr. §§ 1195.
 
-<span id="fn_492"></span>[145:2](rtae09.htm#fr_492) Pyr. §§ 1089–90; §§
+<span id="fn_492"></span>[145:2](rtae09.htm#fr_492.md) Pyr. §§ 1089–90; §§
 1373–5. Both these passages merge into an ascension of Solar character.
 
-<span id="fn_493"></span>[145:3](rtae09.htm#fr_493) Pyr. § 364, followed
+<span id="fn_493"></span>[145:3](rtae09.htm#fr_493.md) Pyr. § 364, followed
 by celestial ascent and association with Re.
 
-<span id="fn_494"></span>[145:4](rtae09.htm#fr_494) Pyr. Ut. 373.
+<span id="fn_494"></span>[145:4](rtae09.htm#fr_494.md) Pyr. Ut. 373.
 
-<span id="fn_495"></span>[146:1](rtae09.htm#fr_495) Pyr. §§ 2063–5.
+<span id="fn_495"></span>[146:1](rtae09.htm#fr_495.md) Pyr. §§ 2063–5.
 
-<span id="fn_496"></span>[146:2](rtae09.htm#fr_496) Pyr. §§ 507–9.
+<span id="fn_496"></span>[146:2](rtae09.htm#fr_496.md) Pyr. §§ 507–9.
 
-<span id="fn_497"></span>[146:3](rtae09.htm#fr_497) Pyr. § 1804.
+<span id="fn_497"></span>[146:3](rtae09.htm#fr_497.md) Pyr. § 1804.
 
-<span id="fn_498"></span>[146:4](rtae09.htm#fr_498) Pyr. Ut. 219.
+<span id="fn_498"></span>[146:4](rtae09.htm#fr_498.md) Pyr. Ut. 219.
 
-<span id="fn_499"></span>[146:5](rtae09.htm#fr_499) Pyr. §§2022–3. There
+<span id="fn_499"></span>[146:5](rtae09.htm#fr_499.md) Pyr. §§2022–3. There
 is little distinction between the passages where the dead king receives
 the throne of Osiris, because identified with him and others in which he
 receives it as the heir of Osiris. He may take it even from Horus, heir
 of Osiris, *e.g.*, Pyr. Ut. 414.
 
-<span id="fn_500"></span>[147:1](rtae09.htm#fr_500) Pyr. Ut. 260. See
-above, [p. 35](rtae05.htm#page_35).
+<span id="fn_500"></span>[147:1](rtae09.htm#fr_500.md) Pyr. Ut. 260. See
+above, [p. 35](rtae05.htm#page_35.md).
 
-<span id="fn_501"></span>[147:2](rtae09.htm#fr_501) Pyr. § 635.
+<span id="fn_501"></span>[147:2](rtae09.htm#fr_501.md) Pyr. § 635.
 
-<span id="fn_502"></span>[148:1](rtae09.htm#fr_502) Pyr. Ut. 364. See
+<span id="fn_502"></span>[148:1](rtae09.htm#fr_502.md) Pyr. Ut. 364. See
 also 1683–6.
 
-<span id="fn_503"></span>[148:2](rtae09.htm#fr_503) Pyr. Ut. 356, 357,
+<span id="fn_503"></span>[148:2](rtae09.htm#fr_503.md) Pyr. Ut. 356, 357,
 364, 367–372.
 
-<span id="fn_504"></span>[148:3](rtae09.htm#fr_504) Pyr. § 621 = § 636.
+<span id="fn_504"></span>[148:3](rtae09.htm#fr_504.md) Pyr. § 621 = § 636.
 
-<span id="fn_505"></span>[148:4](rtae09.htm#fr_505) Pyr. § 1345.
+<span id="fn_505"></span>[148:4](rtae09.htm#fr_505.md) Pyr. § 1345.
 
-<span id="fn_506"></span>[148:5](rtae09.htm#fr_506) Pyr. Ut. 427–435.
+<span id="fn_506"></span>[148:5](rtae09.htm#fr_506.md) Pyr. Ut. 427–435.
 
-<span id="fn_507"></span>[149:1](rtae09.htm#fr_507) The protection and
+<span id="fn_507"></span>[149:1](rtae09.htm#fr_507.md) The protection and
 assistance of Nut are further elaborated in Ut. 444–7 and 450–2.
 
-<span id="fn_508"></span>[149:2](rtae09.htm#fr_508) Pyr. § 1523.
+<span id="fn_508"></span>[149:2](rtae09.htm#fr_508.md) Pyr. § 1523.
 
-<span id="fn_509"></span>[149:3](rtae09.htm#fr_509) Pyr. Ut. 337.
+<span id="fn_509"></span>[149:3](rtae09.htm#fr_509.md) Pyr. Ut. 337.
 
-<span id="fn_510"></span>[149:4](rtae09.htm#fr_510) Pyr. § 721.
+<span id="fn_510"></span>[149:4](rtae09.htm#fr_510.md) Pyr. § 721.
 
-<span id="fn_511"></span>[149:5](rtae09.htm#fr_511) Pyr. §§ 964, 968.
+<span id="fn_511"></span>[149:5](rtae09.htm#fr_511.md) Pyr. §§ 964, 968.
 
-<span id="fn_512"></span>[149:6](rtae09.htm#fr_512) Pyr. § 2000.
+<span id="fn_512"></span>[149:6](rtae09.htm#fr_512.md) Pyr. § 2000.
 
-<span id="fn_513"></span>[149:7](rtae09.htm#fr_513) Pyr. § 749.
+<span id="fn_513"></span>[149:7](rtae09.htm#fr_513.md) Pyr. § 749.
 
-<span id="fn_514"></span>[149:8](rtae09.htm#fr_514) Pyr. § 2067.
+<span id="fn_514"></span>[149:8](rtae09.htm#fr_514.md) Pyr. § 2067.
 
-<span id="fn_515"></span>[149:9](rtae09.htm#fr_515) Pyr. § 877.
+<span id="fn_515"></span>[149:9](rtae09.htm#fr_515.md) Pyr. § 877.
 
-<span id="fn_516"></span>[150:1](rtae09.htm#fr_516) Pyr. § 8 d.
+<span id="fn_516"></span>[150:1](rtae09.htm#fr_516.md) Pyr. § 8 d.
 
-<span id="fn_517"></span>[150:2](rtae09.htm#fr_517) Pyr. Ut. 578 and
+<span id="fn_517"></span>[150:2](rtae09.htm#fr_517.md) Pyr. Ut. 578 and
 579.
 
-<span id="fn_518"></span>[151:1](rtae09.htm#fr_518) "Osiris Unis" occurs
+<span id="fn_518"></span>[151:1](rtae09.htm#fr_518.md) "Osiris Unis" occurs
 in the body of the Utterance in 18 c (once) and 30 b (once); but the
 following references will show how regularly it is found at the head of
 the Utterance and not in the body of the text in the pyramid of Unis. In
@@ -857,32 +857,32 @@ occur at all. It is evident that this mechanical method of
 Osirianization did not extend beyond the Offering Ritual, which also
 terminates at this place.
 
-<span id="fn_519"></span>[151:2](rtae09.htm#fr_519) Pyr. Ut. 579 and
+<span id="fn_519"></span>[151:2](rtae09.htm#fr_519.md) Pyr. Ut. 579 and
 673.
 
-<span id="fn_520"></span>[151:3](rtae09.htm#fr_520) Pyr. Ut. 571.
+<span id="fn_520"></span>[151:3](rtae09.htm#fr_520.md) Pyr. Ut. 571.
 
-<span id="fn_521"></span>[152:1](rtae09.htm#fr_521) Pyr. Ut. 570.
+<span id="fn_521"></span>[152:1](rtae09.htm#fr_521.md) Pyr. Ut. 570.
 
-<span id="fn_522"></span>[152:2](rtae09.htm#fr_522) See above, pp.
-[40](rtae05.htm#page_40) *f*. The best examples are: Pyr. §§ 204, 206,
+<span id="fn_522"></span>[152:2](rtae09.htm#fr_522.md) See above, pp.
+[40](rtae05.htm#page_40.md) *f*. The best examples are: Pyr. §§ 204, 206,
 370, 390, 418, 473, 487, 594, 535, 601, 683, 798, 801 = §§ 1016, 823,
 848–850, 946, 971, 1148.
 
-<span id="fn_523"></span>[153:1](rtae09.htm#fr_523) Pyr §§ 848–850.
+<span id="fn_523"></span>[153:1](rtae09.htm#fr_523.md) Pyr §§ 848–850.
 
-<span id="fn_524"></span>[153:2](rtae09.htm#fr_524) Pyr. § 1016.
+<span id="fn_524"></span>[153:2](rtae09.htm#fr_524.md) Pyr. § 1016.
 
-<span id="fn_525"></span>[153:3](rtae09.htm#fr_525) Pyr. § 478; compare
+<span id="fn_525"></span>[153:3](rtae09.htm#fr_525.md) Pyr. § 478; compare
 also "Set lifts him (the dead) up" (Pyr. § 1148). In Pyr. § 1253 we find
 "ladder which carried the Ombite (Set)."
 
-<span id="fn_526"></span>[153:4](rtae09.htm#fr_526) Pyr. Ut. 306 (Unis,
+<span id="fn_526"></span>[153:4](rtae09.htm#fr_526.md) Pyr. Ut. 306 (Unis,
 Mernere, Pepi II), 480 (Teti), 572 (Pepi, Mernere), 474 (Pepi).
 
-<span id="fn_527"></span>[153:5](rtae09.htm#fr_527) Pyr. Ut. 306.
+<span id="fn_527"></span>[153:5](rtae09.htm#fr_527.md) Pyr. Ut. 306.
 
-<span id="fn_528"></span>[154:1](rtae09.htm#fr_528) The brief intimation
+<span id="fn_528"></span>[154:1](rtae09.htm#fr_528.md) The brief intimation
 of a mysterious enemy plotting against the life of the king, appended at
 the end of the Utterance, is perhaps an intrusive Osirian reference; but
 it does not affect the clearly celestial and Solar character of the
@@ -892,11 +892,11 @@ which it is appended is the name of Osiris mentioned, while the epithet
 which is employed, "Ymnw (Hidden one?) of the Wild Bull," is usually
 Solar.
 
-<span id="fn_529"></span>[154:2](rtae09.htm#fr_529) Pyr. Ut. 474.
+<span id="fn_529"></span>[154:2](rtae09.htm#fr_529.md) Pyr. Ut. 474.
 
-<span id="fn_530"></span>[154:3](rtae09.htm#fr_530) Pyr. Ut. 305.
+<span id="fn_530"></span>[154:3](rtae09.htm#fr_530.md) Pyr. Ut. 305.
 
-<span id="fn_531"></span>[155:1](rtae09.htm#fr_531) These Utterances are
+<span id="fn_531"></span>[155:1](rtae09.htm#fr_531.md) These Utterances are
 325, 563, 479, and 573. In Ut. 573 variant forms of their names appear.
 In 1085–6 the four Horuses appear ferrying over on the two floats of the
 sky; they are found again in 1105 and in 1206, "these four youths who
@@ -911,71 +911,71 @@ completeness, compare the four children of Geb in Pyr. §§ 1510–11, and
 especially the four children of Atum who decay not (Pyr. §§ 2057–8),
 just as in 1258.
 
-<span id="fn_532"></span>[155:2](rtae09.htm#fr_532) Pyr. Ut. 325 and
+<span id="fn_532"></span>[155:2](rtae09.htm#fr_532.md) Pyr. Ut. 325 and
 563.
 
-<span id="fn_533"></span>[156:1](rtae09.htm#fr_533) Pyr. § 348.
+<span id="fn_533"></span>[156:1](rtae09.htm#fr_533.md) Pyr. § 348.
 
-<span id="fn_534"></span>[156:2](rtae09.htm#fr_534) Pyr. Ut. 563.
+<span id="fn_534"></span>[156:2](rtae09.htm#fr_534.md) Pyr. Ut. 563.
 
-<span id="fn_535"></span>[156:3](rtae09.htm#fr_535) Pyr. Ut. 479.
+<span id="fn_535"></span>[156:3](rtae09.htm#fr_535.md) Pyr. Ut. 479.
 
-<span id="fn_536"></span>[156:4](rtae09.htm#fr_536) Pyr. Ut. 532.
+<span id="fn_536"></span>[156:4](rtae09.htm#fr_536.md) Pyr. Ut. 532.
 
-<span id="fn_537"></span>[156:5](rtae09.htm#fr_537) Pyr. §§ 1132–8.
+<span id="fn_537"></span>[156:5](rtae09.htm#fr_537.md) Pyr. §§ 1132–8.
 
-<span id="fn_538"></span>[157:1](rtae09.htm#fr_538) Pyr. §§ 147–9.
+<span id="fn_538"></span>[157:1](rtae09.htm#fr_538.md) Pyr. §§ 147–9.
 
-<span id="fn_539"></span>[157:2](rtae09.htm#fr_539) Pyr. Ut. 522.
+<span id="fn_539"></span>[157:2](rtae09.htm#fr_539.md) Pyr. Ut. 522.
 
-<span id="fn_540"></span>[157:3](rtae09.htm#fr_540) Pyr. § 1092.
+<span id="fn_540"></span>[157:3](rtae09.htm#fr_540.md) Pyr. § 1092.
 
-<span id="fn_541"></span>[157:4](rtae09.htm#fr_541) I am aware that the
+<span id="fn_541"></span>[157:4](rtae09.htm#fr_541.md) I am aware that the
 four genii are called "the offspring of Horus of Letopolis" (Pyr. §
 2078).
 
-<span id="fn_542"></span>[157:5](rtae09.htm#fr_542) Pyr. § 1483.
+<span id="fn_542"></span>[157:5](rtae09.htm#fr_542.md) Pyr. § 1483.
 
-<span id="fn_543"></span>[157:6](rtae09.htm#fr_543) Pyr. Ut. 541.
+<span id="fn_543"></span>[157:6](rtae09.htm#fr_543.md) Pyr. Ut. 541.
 
-<span id="fn_544"></span>[157:7](rtae09.htm#fr_544) Pyr. Ut. 544–6, 645,
+<span id="fn_544"></span>[157:7](rtae09.htm#fr_544.md) Pyr. Ut. 544–6, 645,
 648. We find them bringing to the dead his name "Imperishable," at which
 time they are called the "souls" of Horus (Pyr. § 2102).
 
-<span id="fn_545"></span>[157:8](rtae09.htm#fr_545) Pyr. § 552.
+<span id="fn_545"></span>[157:8](rtae09.htm#fr_545.md) Pyr. § 552.
 
-<span id="fn_546"></span>[158:1](rtae09.htm#fr_546) Pyr. § 1201.
+<span id="fn_546"></span>[158:1](rtae09.htm#fr_546.md) Pyr. § 1201.
 
-<span id="fn_547"></span>[158:2](rtae09.htm#fr_547) Pyr. Ut. 263–6.
+<span id="fn_547"></span>[158:2](rtae09.htm#fr_547.md) Pyr. Ut. 263–6.
 
-<span id="fn_548"></span>[158:3](rtae09.htm#fr_548) Pyr. Ut. 264.
+<span id="fn_548"></span>[158:3](rtae09.htm#fr_548.md) Pyr. Ut. 264.
 
-<span id="fn_549"></span>[158:4](rtae09.htm#fr_549) Pyr. Ut. 303.
+<span id="fn_549"></span>[158:4](rtae09.htm#fr_549.md) Pyr. Ut. 303.
 
-<span id="fn_550"></span>[158:5](rtae09.htm#fr_550) Pyr. § 556.
+<span id="fn_550"></span>[158:5](rtae09.htm#fr_550.md) Pyr. § 556.
 
-<span id="fn_551"></span>[158:6](rtae09.htm#fr_551) Pyr. §§ 2063–5.
+<span id="fn_551"></span>[158:6](rtae09.htm#fr_551.md) Pyr. §§ 2063–5.
 
-<span id="fn_552"></span>[158:7](rtae09.htm#fr_552) Pyr. §§ 508–9.
+<span id="fn_552"></span>[158:7](rtae09.htm#fr_552.md) Pyr. §§ 508–9.
 
-<span id="fn_553"></span>[158:8](rtae09.htm#fr_553) Pyr. §§ 1657–8.
+<span id="fn_553"></span>[158:8](rtae09.htm#fr_553.md) Pyr. §§ 1657–8.
 
-<span id="fn_554"></span>[159:1](rtae09.htm#fr_554) Pyr. §§ 1266–7.
+<span id="fn_554"></span>[159:1](rtae09.htm#fr_554.md) Pyr. §§ 1266–7.
 
-<span id="fn_555"></span>[159:2](rtae09.htm#fr_555) Pyr. Ut. 441.
+<span id="fn_555"></span>[159:2](rtae09.htm#fr_555.md) Pyr. Ut. 441.
 
-<span id="fn_556"></span>[159:3](rtae09.htm#fr_556) Pyr. § 819.
+<span id="fn_556"></span>[159:3](rtae09.htm#fr_556.md) Pyr. § 819.
 
-<span id="fn_557"></span>[161:1](rtae09.htm#fr_557) "Ascendest" and
+<span id="fn_557"></span>[161:1](rtae09.htm#fr_557.md) "Ascendest" and
 "wanderest" are in Egyptian puns on the names of Re and Atum.
 
-<span id="fn_558"></span>[161:2](rtae09.htm#fr_558) Pyr. Ut. 606.
+<span id="fn_558"></span>[161:2](rtae09.htm#fr_558.md) Pyr. Ut. 606.
 
-<span id="fn_559"></span>[163:1](rtae09.htm#fr_559) Pyr. Ut. 422.
+<span id="fn_559"></span>[163:1](rtae09.htm#fr_559.md) Pyr. Ut. 422.
 
-<span id="fn_560"></span>[163:2](rtae09.htm#fr_560) Pyr. § 971 e. The
+<span id="fn_560"></span>[163:2](rtae09.htm#fr_560.md) Pyr. § 971 e. The
 only passage which may fairly be called an effort to harmonize
-conflicting doctrine is that on [p. 102](rtae07.htm#page_102), where the
+conflicting doctrine is that on [p. 102](rtae07.htm#page_102.md), where the
 place of the Imperishable Stars in the north is pushed over toward the
 east to harmonize with the doctrine of the eastern sky as the place of
 the abode of the celestial dead. Pyr. § 1000.
@@ -983,4 +983,4 @@ the abode of the celestial dead. Pyr. § 1000.
 ------------------------------------------------------------------------
 
 [Next: Lecture VI. The Emergence of the Moral Sense—Moral Worthiness and
-the Hereafter—Scepticism and the Problem of Suffering](rtae10)
+the Hereafter—Scepticism and the Problem of Suffering](rtae10.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs44) [Next](hbs46)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs44) [Next](hbs46.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ I closed my eyes for a little and a strange dream came to me.
 <span id="page_259">p. 259</span>
 
 There were three hundred cáloyers<span
-id="page_259_fr_1"></span>[1](#page_259_note_1) set sail on the blue
+id="page_259_fr_1"></span>[1](#page_259_note_1.md) set sail on the blue
 sea,  
 And they bore sacrificial gifts to the famous Holy Height  
 Of Athos; yellow wax they bore and also incense white.  
@@ -51,7 +51,7 @@ At that time did I slumber, and the cup from my fingers fell.”
 
 ------------------------------------------------------------------------
 
-[Next](hbs46)
+[Next](hbs46.md)
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ At that time did I slumber, and the cup from my fingers fell.”
 
 <span id="footnotes_page_259">p. 259</span>
 
-<span id="page_259_note_1"></span>[1](#page_259_fr_1) Monks of the Greek
+<span id="page_259_note_1"></span>[1](#page_259_fr_1.md) Monks of the Greek
 church.
 
  

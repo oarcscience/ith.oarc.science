@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](rab10)  [Next](rab12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](rab10)  [Next](rab12.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -15,7 +15,7 @@ Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 A. When two deaths occur in town, the one that died first is buried
 first; and if the first has to be left over night, the second is buried.
 And although it is said: Whoever leaves his dead over night transgresses
-a negative commandment, <span id="fr_116"></span>[A1](#fn_116) still, if
+a negative commandment, <span id="fr_116"></span>[A1](#fn_116.md) still, if
 it is done for the purpose of digging a grave, to prepare shrouds, or to
 enable his outside relatives to attend to his funeral, it does not
 matter. If a master and a pupil die on the same day, the master is
@@ -48,10 +48,10 @@ not be held in one town at the same time, unless there is enough
 attendance for both. The same is the case with two brides, they must not
 be married at the same time, unless there is enough attendance for both.
 R. Simeon b. Elazar said: Even in this case it is not advisable to do
-so, because there may be enmity. <span id="fr_117"></span>[C1](#fn_117)
+so, because there may be enmity. <span id="fr_117"></span>[C1](#fn_117.md)
 
 D. The corpse must be set aside for a bride, <span
-id="fr_118"></span>[D1](#fn_118) because the honor of the living
+id="fr_118"></span>[D1](#fn_118.md) because the honor of the living
 precedes that of the dead. A bride, however, must be set aside for a
 king, for the honor of the king. King Agrippa, however, stepped aside
 for the sake of a bride, and he was praised by the sages. His remark
@@ -101,13 +101,13 @@ the death occurred on a week-day, it is for six days; if in the
 afternoon of the eve of Sabbath, it is for five days; if a festival
 succeeds this Sabbath, for four days; and if the two days of New Year
 succeed this Sabbath, it is for three days. <span
-id="fr_119"></span>[G1](#fn_119)
+id="fr_119"></span>[G1](#fn_119.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_116"></span>[48:A1](rab11.htm#fr_116)
+<span id="fn_116"></span>[48:A1](rab11.htm#fr_116.md)
 
 ### CHAPTER XI.
 
@@ -124,18 +124,18 @@ transgresses a positive commandment also, as further on the verse says,
 "negative commandment" is taken from the corrections of Elias Wilna, who
 took it from the Talmud elsewhere.
 
-<span id="fn_117"></span>[49:C1](rab11.htm#fr_117) *C*. Enmity may be
+<span id="fn_117"></span>[49:C1](rab11.htm#fr_117.md) *C*. Enmity may be
 caused between certain persons and the bride, why they went to the other
 wedding and not to hers. He, therefore, differs only in the case of a
 marriage, but not in the case of a funeral.
 
-<span id="fn_118"></span>[49:D1](rab11.htm#fr_118) *D*. It means when
+<span id="fn_118"></span>[49:D1](rab11.htm#fr_118.md) *D*. It means when
 they meet together at the gate or on a narrow street.
 
-<span id="fn_119"></span>[50:G1](rab11.htm#fr_119) *G*. The Mishna was
+<span id="fn_119"></span>[50:G1](rab11.htm#fr_119.md) *G*. The Mishna was
 taught before the existing calendar was made, as since then New Year
 cannot fall on Sunday.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](rab12)
+[Next: Chapter XII](rab12.md)

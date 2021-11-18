@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal112)  [Next](njal114) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal112)  [Next](njal114.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ the sister of Gisli.
 
 ------------------------------------------------------------------------
 
-[Next: 114. Of Flosi Thord's Son](njal114)
+[Next: 114. Of Flosi Thord's Son](njal114.md)

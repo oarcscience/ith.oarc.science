@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm09)  [Next](tmm11) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm09)  [Next](tmm11.md) 
 
 ------------------------------------------------------------------------
 
@@ -643,4 +643,4 @@ Midianites, whom they were commanded to attack and smite.--Numb. Rabba
 
 ------------------------------------------------------------------------
 
-[Next: Deuteronomy Rabba](tmm11)
+[Next: Deuteronomy Rabba](tmm11.md)

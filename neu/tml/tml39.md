@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml38)  [Next](tml40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml38)  [Next](tml40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -156,7 +156,7 @@ Gunther then went towards the boulder with the invisible prince. By the
 king did it seem to be lifted and thrown, but the mighty deed was
 accomplished by Siegfried, who cast the stone farther than Brunhild, and
 leapt farther with Gunther in his arms. <span
-id="fr_111"></span>[1](#fn_111)
+id="fr_111"></span>[1](#fn_111.md)
 
 Wroth was the queen because that her feats were surpassed, but she spake
 to her knights, saying:
@@ -281,7 +281,7 @@ So the king called Kriemhild before him and said:
 <span id="img_37800"></span> <span align="CENTER"> [![BRUNHILD'S ARRIVAL
 AT WORMS&lt;br&gt; &lt;i&gt;From the painting by Schnorr von
 Carolsfeld&lt;/i&gt;](tn/37800.jpg)  
-Click to enlarge](img/37800.jpg)  
+Click to enlarge](img/37800.jpg.md)  
 BRUNHILD'S ARRIVAL AT WORMS  
 *From the painting by Schnorr von Carolsfeld*  
 </span>
@@ -332,7 +332,7 @@ wrestled with the queen. A fierce conflict it was, and Brunhild deemed
 that her opponent was none other than her husband. In the end Siegfried
 prevailed, and he took from her the silken waist girdle which she wore,
 and drew from her finger unawares a ring of fine gold. <span
-id="fr_112"></span>[1](#fn_112)
+id="fr_112"></span>[1](#fn_112.md)
 
 Thus was Brunhild subdued; after that hour she had but the strength of
 other women.
@@ -375,7 +375,7 @@ visit Worms to do homage, as befitted a subject ruler.
 
 ### Footnotes
 
-<span id="fn_111"></span>[375:1](tml39.htm#fr_111) The stone-throwing
+<span id="fn_111"></span>[375:1](tml39.htm#fr_111.md) The stone-throwing
 contest is reminiscent of the duels of Scottish bill giants and
 giantesses, who contend one against the other from height to height.
 Sometimes a battleaxe and sometimes a stone hammer, but most often a
@@ -389,7 +389,7 @@ The wooing of Scathach by Cuchulainn is of similar character to the
 wooing of Brunhild. In the subsequent duel between Cuchulainn and his
 son, the latter throws his spear blunt end foremost.
 
-<span id="fn_112"></span>[380:1](tml39.htm#fr_112) Evidently her
+<span id="fn_112"></span>[380:1](tml39.htm#fr_112.md) Evidently her
 strength was due to the magic girdle. The dwarf Laurin, in *Der Kleine
 Rosingarten*, has a girdle which gives him the strength of twelve men.
 When Dietrich of Bern, wrestling with him, snatches it off, he has the
@@ -397,4 +397,4 @@ dwarf in his power.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXV. The Betrayal of Siegfried](tml40)
+[Next: Chapter XXXV. The Betrayal of Siegfried](tml40.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Next](mar) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Next](mar.md) 
 
 ------------------------------------------------------------------------
 
@@ -3788,4 +3788,4 @@ gourc'hemennet deoc'h; ha setu, emaon ganeoc'h bemdez betek fin ar bed.
 
 ------------------------------------------------------------------------
 
-[Next: Mark](mar)
+[Next: Mark](mar.md)

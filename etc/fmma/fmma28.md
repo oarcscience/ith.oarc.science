@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma27)  [Next](fmma29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma27)  [Next](fmma29.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ Columbus the voyage which led to the discovery of America.
 
 ------------------------------------------------------------------------
 
-[Next: Edward The Black Prince. Lived From 1330-1376](fmma29)
+[Next: Edward The Black Prince. Lived From 1330-1376](fmma29.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar019) [Next](gbar021)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar019) [Next](gbar021.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ of them, departed from them.
 
 ------------------------------------------------------------------------
 
-[Next](gbar021)
+[Next](gbar021.md)
 
  
 

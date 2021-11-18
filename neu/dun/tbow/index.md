@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3TLAI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3TLAI/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3TLAI/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tbow00)    [Text
-\[Zipped\]](tbow.txt.gz)
+[Contents](#contents)    [Start Reading](tbow00.md)    [Text
+\[Zipped\]](tbow.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -39,21 +39,21 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3TLAI/internetsacredte)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-<span id="contents"></span> [Title Page](tbow00)  
-[Contents](tbow01)  
-[Preface](tbow02)  
-[The Bride of the Man-Horse](tbow03)  
-[Distressing Tale of Thangobrind the Jeweller](tbow04)  
-[The House of the Sphinx](tbow05)  
-[Probable Adventure of the Three Literary Men](tbow06)  
-[The Injudicious Prayers of Pombo the Idolater](tbow07)  
-[The Loot of Bombasharna](tbow08)  
-[Miss Cubbidge and the Dragon of Romance](tbow09)  
-[The Quest of the Queen's Tears](tbow10)  
-[The Hoard of the Gibbelins](tbow11)  
-[How Nuth Would Have Practised His Art Upon the Gnoles](tbow12)  
-[How One Came, As Was Foretold, to the City of Never](tbow13)  
-[The Coronation of Mr. Thomas Shap](tbow14)  
-[Chu-Bu and Sheemish](tbow15)  
-[The Wonderful Window](tbow16)  
-[Epilogue](tbow17)  
+<span id="contents"></span> [Title Page](tbow00.md)  
+[Contents](tbow01.md)  
+[Preface](tbow02.md)  
+[The Bride of the Man-Horse](tbow03.md)  
+[Distressing Tale of Thangobrind the Jeweller](tbow04.md)  
+[The House of the Sphinx](tbow05.md)  
+[Probable Adventure of the Three Literary Men](tbow06.md)  
+[The Injudicious Prayers of Pombo the Idolater](tbow07.md)  
+[The Loot of Bombasharna](tbow08.md)  
+[Miss Cubbidge and the Dragon of Romance](tbow09.md)  
+[The Quest of the Queen's Tears](tbow10.md)  
+[The Hoard of the Gibbelins](tbow11.md)  
+[How Nuth Would Have Practised His Art Upon the Gnoles](tbow12.md)  
+[How One Came, As Was Foretold, to the City of Never](tbow13.md)  
+[The Coronation of Mr. Thomas Shap](tbow14.md)  
+[Chu-Bu and Sheemish](tbow15.md)  
+[The Wonderful Window](tbow16.md)  
+[Epilogue](tbow17.md)  

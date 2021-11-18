@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ large part of his life. Because of his calling, he needs to be
 approached with caution as a source, but his large output of Ainu
 studies is still one of the primary sources for 19th century Ainu life.
 He is also mildly condescending toward his subjects, but unlike the book
-*[Aino Folk-Tales](../aft/index)*, also posted at Intangible Textual
+*[Aino Folk-Tales](../aft/index.md)*, also posted at Intangible Textual
 Heritage, the author of this collection shows at times a genuine
 appreciation for the Ainu as people and for their *yukar* as literature.
 
@@ -35,36 +35,36 @@ appreciation for the Ainu as people and for their *yukar* as literature.
 vol. XVI, part 2, pp. 111-154 \[1888\]  
 \[*Read 14th March, 1888.*\]
 
-[\[Preface.\]](safl00)
+[\[Preface.\]](safl00.md)
 
 I.
 
-[An Ainu Legend of a Famine.](safl01)
+[An Ainu Legend of a Famine.](safl01.md)
 
 II\.
 
-[Another Legend of a Famine.](safl02)
+[Another Legend of a Famine.](safl02.md)
 
 III\.
 
-[An Ainu Legend of a Large Trout.](safl03)
+[An Ainu Legend of a Large Trout.](safl03.md)
 
 IV\.
 
-[An Ainu Tradition Concerning Okikurumi and Samai.](safl04)
+[An Ainu Tradition Concerning Okikurumi and Samai.](safl04.md)
 
 V.
 
-[Legend of Okikurumi in Love.](safl05)
+[Legend of Okikurumi in Love.](safl05.md)
 
 VI\.
 
 [A Legend of Okikurumi and His Wife Teaching the Ainu How to Fell
-Trees.](safl06)
+Trees.](safl06.md)
 
 VII\.
 
-[Poiyaumbe.](safl07)
+[Poiyaumbe.](safl07.md)
 
  
 
@@ -73,11 +73,11 @@ vol. XVIII, part 1, pp. 25-85 \[1890\]
 
 VIII\.
 
-[The Legend of the Lady of Kunnepet.](safl08)
+[The Legend of the Lady of Kunnepet.](safl08.md)
 
 IX\.
 
-[Legend of Kotan Utunnai.](safl09)
+[Legend of Kotan Utunnai.](safl09.md)
 
  
 
@@ -87,12 +87,12 @@ vol. XX, part 2, pp. 216-227 \[1893\]
 X.
 
 [The Legend of How the Younger Sister of the Wolf-god Was Given to Me
-(*to wife*).](safl10)
+(*to wife*).](safl10.md)
 
 XI\.
 
-[Why There Are Snakes in Ainu-land and Why They Swallow Frogs.](safl11)
+[Why There Are Snakes in Ainu-land and Why They Swallow Frogs.](safl11.md)
 
 XII\.
 
-[Why Western Yezo Is So Rough and Dangerous.](safl12)
+[Why Western Yezo Is So Rough and Dangerous.](safl12.md)

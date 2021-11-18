@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic16)  [Next](tic18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic16)  [Next](tic18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ permit from all that can interrupt it,
 <span class="contnote">\[paragraph continues\]</span> The sight it has
 enjoyed of Him is so deeply imprinted on the spirit that its only desire
 is to behold Him again. I have already said that, <span
-id="fr_208"></span>[1](#fn_208) even by the imagination, nothing is seen
+id="fr_208"></span>[1](#fn_208.md) even by the imagination, nothing is seen
 in this prayer that can be called sight. I speak of it as 'sight'
 because of the comparison I used.
 
@@ -70,7 +70,7 @@ over this I fear that, were they known beforehand, human infirmity could
 scarcely bear the thought nor resolve to encounter them, however great
 might appear the gain. If, however, the soul has already reached the
 seventh mansions, it fears nothing: boldly undertaking to suffer all
-things for God, <span id="fr_209"></span>[2](#fn_209) it gathers
+things for God, <span id="fr_209"></span>[2](#fn_209.md) it gathers
 strength from its almost uninterrupted union with Him.
 
 4\. I think it would be well to tell you of some of the trials certain
@@ -102,7 +102,7 @@ share the fate of so-and-so who was lost through him, and she is leading
 virtue astray. They cry out that she is deceiving her confessors, and
 tell them so, citing examples of others who came to ruin in the same way
 and make a thousand scoffing remarks of the same sort. <span
-id="fr_210"></span>[3](#fn_210)
+id="fr_210"></span>[3](#fn_210.md)
 
 <span id="page_157">p. 157</span>
 
@@ -117,7 +117,7 @@ how few think well of her in comparison with the many who hate her!
 7\. Besides this, praise pains such a soul more than blame because it
 recognizes clearly that any good it possesses is the gift of God and in
 no wise its own, seeing that but a short time ago it was weak in virtue
-and involved in grave sins. <span id="fr_211"></span>[4](#fn_211)
+and involved in grave sins. <span id="fr_211"></span>[4](#fn_211.md)
 Therefore commendation causes it intolerable suffering, at least at
 first, although later on, for many reasons, the soul is comparatively
 indifferent to either.
@@ -155,10 +155,10 @@ pleases it and sounds like harmonious music to the ears.
 depressed by its trials, experience having taught it the great
 advantages derived from them. It does not think men offend God by
 persecuting it, but that He permits them to do so for its greater
-gain. <span id="fr_212"></span>[5](#fn_212) So strong is this belief
+gain. <span id="fr_212"></span>[5](#fn_212.md) So strong is this belief
 that such a person bears a special affection for these people, holding
 them as truer friends and greater benefactors than those who speak well
-of her. <span id="fr_213"></span>[6](#fn_213)
+of her. <span id="fr_213"></span>[6](#fn_213.md)
 
 13\. Our Lord now usually sends severe bodily infirmity. This is a far
 heavier cross, especially if acute pain is felt: if this is violent, I
@@ -176,13 +176,13 @@ us patience first.
 
 14\. Now to speak of other trials and illnesses of many kinds which
 generally occur to people in this state. I knew some one who, from the
-time when, forty years ago, <span id="fr_214"></span>[7](#fn_214) our
+time when, forty years ago, <span id="fr_214"></span>[7](#fn_214.md) our
 Lord began to bestow on her the favour described, could not affirm with
 any truth that she had been a single day without pain and other kinds of
 suffering: I am speaking of physical infirmities besides heavy crosses
-sent her. <span id="fr_215"></span>[8](#fn_215) True, she had led a
+sent her. <span id="fr_215"></span>[8](#fn_215.md) True, she had led a
 wicked life and therefore held these troubles very light in comparison
-with the hell she had deserved. <span id="fr_216"></span>[9](#fn_216)
+with the hell she had deserved. <span id="fr_216"></span>[9](#fn_216.md)
 Our Lord leads those who have offended Him less by some other way, but I
 should always choose the way of suffering, if only for the sake of
 imitating our Lord Jesus Christ; though, in fact, it profits us in many
@@ -199,7 +199,7 @@ nothing seems safe to him; he dreads and suspects everything but the
 commonplace, especially in a soul in which he deters any imperfection,
 for he thinks people on whom God bestows such favours must be angels,
 which is impossible while we live in our bodies. <span
-id="fr_217"></span>[10](#fn_217) He at once ascribes everything to the
+id="fr_217"></span>[10](#fn_217.md) He at once ascribes everything to the
 devil or melancholy. As to the latter, I am not surprised; there is so
 much of it in the world and the evil one works such harm in this way
 that confessors have the strongest reasons for anxiety and watchfulness
@@ -208,7 +208,7 @@ about it.
 16\. The poor soul, beset by the same fears, seeks its confessor as
 judge, and feels a torture and dismay at his condemnation that can only
 be realized by those who have experienced it themselves. <span
-id="fr_218"></span>[11](#fn_218) For one of the severe trials of these
+id="fr_218"></span>[11](#fn_218.md) For one of the severe trials of these
 souls, especially if they have lived wicked lives, is their belief that
 God permits them to be deceived in punishment for their sins. While
 actually receiving these graces they feel secure and cannot but suppose
@@ -216,7 +216,7 @@ that these favours proceed from the Spirit of God; but this state lasts
 a very short time, while the remembrance of their misdeeds is ever
 before them, so that when, as is sure to happen, they discover any
 faults in themselves, these torturing thoughts return. <span
-id="fr_219"></span>[12](#fn_219)
+id="fr_219"></span>[12](#fn_219.md)
 
 17\. The soul is quieted for a time when the confessor reassures it
 although it returns later on to its former apprehensions, but when he
@@ -231,7 +231,7 @@ person heard of long ago.
 
 18\. All this is nothing without the further pain of thinking we cannot
 make our confessors understand the case and are deceiving them. <span
-id="fr_220"></span>[13](#fn_220) Although such a person may examine her
+id="fr_220"></span>[13](#fn_220.md) Although such a person may examine her
 conscience with the greatest care, and may know that she reveals even
 the first movement of her mind to her director, it does not help her.
 Her understanding being too obscure to discern the truth, she believes
@@ -242,7 +242,7 @@ tries to make her think God has rejected her. Many are the trials which
 assault this soul, causing an internal anguish so painful and so
 intolerable that I can compare it to nothing save that suffered by the
 lost in hell, for no comfort can be found in this tempest of
-trouble. <span id="fr_221"></span>[14](#fn_221)
+trouble. <span id="fr_221"></span>[14](#fn_221.md)
 
 19\. If the soul seeks for consolation from its confessor, all the
 demons appear to help him to torment it more. A confessor who dealt with
@@ -256,13 +256,13 @@ recurred: however, he found this made matters worse than ever. She lost
 all control over herself: although she had learnt to read, yet she could
 no more understand a book in the vulgar tongue than if she had not known
 the alphabet, for her mind was incapable of acting. <span
-id="fr_222"></span>[15](#fn_222)
+id="fr_222"></span>[15](#fn_222.md)
 
 20\. In short, there is no other remedy in such a tempest except to wait
 for the mercy of God Who, unexpectedly, by some casual word or
 unforeseen circumstance, suddenly dispels all these sorrows; then every
 cloud of trouble disappears and the mind is left full of light and far
-happier than before. <span id="fr_223"></span>[16](#fn_223) It praises
+happier than before. <span id="fr_223"></span>[16](#fn_223.md) It praises
 our Lord God like one who has come out victorious from a dangerous
 battle, for it was He Who won the victory. The soul is fully conscious
 that the conquest was not its own as all weapons of self-defence
@@ -274,10 +274,10 @@ taught the soul its utter incapacity; it realizes the nothingness of
 human nature and what miserable creatures we are. Although in a state of
 grace from which it has not fallen--for, in spite of these torments, it
 has not offended God, nor would it do so for any earthly thing <span
-id="fr_224"></span>[17](#fn_224)--yet so hidden is this grace, that the
+id="fr_224"></span>[17](#fn_224.md)--yet so hidden is this grace, that the
 sufferer believes that neither now, nor in the past, has she ever
 possessed the faintest spark of love for God. <span
-id="fr_225"></span>[18](#fn_225) If at any time she has done good, or if
+id="fr_225"></span>[18](#fn_225.md) If at any time she has done good, or if
 His Majesty ever bestowed
 
 <span id="page_163">p. 163</span>
@@ -315,7 +315,7 @@ deliverance
 from them, for I know of nothing that will do that, but for enabling one
 to bear them) is to perform external works of charity and to trust in
 the mercy of God, which never fails those who hope in Him. <span
-id="fr_226"></span>[19](#fn_226) May He be for ever blessed! Amen
+id="fr_226"></span>[19](#fn_226.md) May He be for ever blessed! Amen
 
 25\. The devils also bring about exterior trials which being more
 unusual need not be mentioned. They are far less painful, for whatever
@@ -349,66 +349,66 @@ all things, through the merits of His Son! Amen.
 
 ### Footnotes
 
-<span id="fn_208"></span>[155:1](tic17.htm#fr_208) *Castle*, M. v. ch.
+<span id="fn_208"></span>[155:1](tic17.htm#fr_208.md) *Castle*, M. v. ch.
 i. 9. *Life*, ch. xxviii. 5.
 
-<span id="fn_209"></span>[155:2](tic17.htm#fr_209) *Life*, ch. xl. 28.
+<span id="fn_209"></span>[155:2](tic17.htm#fr_209.md) *Life*, ch. xl. 28.
 *sqq*.
 
-<span id="fn_210"></span>[156:3](tic17.htm#fr_210) The Saint went
+<span id="fn_210"></span>[156:3](tic17.htm#fr_210.md) The Saint went
 through all this herself; every detail is taken from her own experience.
 See *Life*, ch. xxv. 20; xxviii. 20-24; xxx. 6; xxiii. 2. Anton. a Sp.
 S. *l.c.* tract, ii. n. 268.
 
-<span id="fn_211"></span>[157:4](tic17.htm#fr_211) *Life*, ch. xxviii.
+<span id="fn_211"></span>[157:4](tic17.htm#fr_211.md) *Life*, ch. xxviii.
 19.
 
-<span id="fn_212"></span>[158:5](tic17.htm#fr_212) *Rel*. ii. 4.
+<span id="fn_212"></span>[158:5](tic17.htm#fr_212.md) *Rel*. ii. 4.
 
-<span id="fn_213"></span>[158:6](tic17.htm#fr_213) Anton. a Sp. S.
+<span id="fn_213"></span>[158:6](tic17.htm#fr_213.md) Anton. a Sp. S.
 *l.c.* ii. n. 272. *Way of Perf.* ch. xv. i; xvii. 4. *Found*. ch.
 xxvii. 19, 20. *Life*, ch. xix. 12; xxxi. 13-17, 25.
 
-<span id="fn_214"></span>[159:7](tic17.htm#fr_214) 'Forty years ago.'
+<span id="fn_214"></span>[159:7](tic17.htm#fr_214.md) 'Forty years ago.'
 The Saint seems to refer to her first experience in the mystical life,
 which took place during her illness in the winter of 1537-38. See
 *Life*, ch. iv. 9.
 
-<span id="fn_215"></span>[159:8](tic17.htm#fr_215) *Life*, ch. iv. 6; v;
+<span id="fn_215"></span>[159:8](tic17.htm#fr_215.md) *Life*, ch. iv. 6; v;
 vi; vii. 18; xi. 23; XXX. 9.
 
-<span id="fn_216"></span>[159:9](tic17.htm#fr_216) *Ibid*. ch. iii. 6,
+<span id="fn_216"></span>[159:9](tic17.htm#fr_216.md) *Ibid*. ch. iii. 6,
 7.
 
-<span id="fn_217"></span>[160:10](tic17.htm#fr_217) *Life*, ch. xiii.
+<span id="fn_217"></span>[160:10](tic17.htm#fr_217.md) *Life*, ch. xiii.
 21-27. *Way of Perf*. ch. v. 1, 2.
 
-<span id="fn_218"></span>[160:11](tic17.htm#fr_218) *Ibid*, ch. xxx. 15.
+<span id="fn_218"></span>[160:11](tic17.htm#fr_218.md) *Ibid*, ch. xxx. 15.
 
-<span id="fn_219"></span>[160:12](tic17.htm#fr_219) *Ibid*, ch. xxxviii.
+<span id="fn_219"></span>[160:12](tic17.htm#fr_219.md) *Ibid*, ch. xxxviii.
 21. *Rel*. ii. 15.
 
-<span id="fn_220"></span>[161:13](tic17.htm#fr_220) *Life*, ch. xxviii.
+<span id="fn_220"></span>[161:13](tic17.htm#fr_220.md) *Life*, ch. xxviii.
 20 *sqq*.
 
-<span id="fn_221"></span>[161:14](tic17.htm#fr_221) Anton. a Sp. S.
+<span id="fn_221"></span>[161:14](tic17.htm#fr_221.md) Anton. a Sp. S.
 *l.c.* tr. ii. n. 313. On this subject which is commonly called the
 passive purgation of the intellect, it would be advisable to consult
 some good author such as Philippus a SS. Trinitate, *l.c.* part. i. tr.
 iii. disc. iii.-v., especially disc. iv. art. 5, 6.
 
-<span id="fn_222"></span>[162:15](tic17.htm#fr_222) *Life*, ch. xxv. 21.
+<span id="fn_222"></span>[162:15](tic17.htm#fr_222.md) *Life*, ch. xxv. 21.
 
-<span id="fn_223"></span>[162:16](tic17.htm#fr_223) *Ibid*. ch. xxv. 23.
+<span id="fn_223"></span>[162:16](tic17.htm#fr_223.md) *Ibid*. ch. xxv. 23.
 
-<span id="fn_224"></span>[162:17](tic17.htm#fr_224) *Ibid*. ch. xxiv. 3.
+<span id="fn_224"></span>[162:17](tic17.htm#fr_224.md) *Ibid*. ch. xxiv. 3.
 *Way of Perf.* ch. xli. 5. *Castle*, M. vii. ch. iv. 1.
 
-<span id="fn_225"></span>[162:18](tic17.htm#fr_225) *Excl*. xvi. 4.
+<span id="fn_225"></span>[162:18](tic17.htm#fr_225.md) *Excl*. xvi. 4.
 
-<span id="fn_226"></span>[164:19](tic17.htm#fr_226) *Life*, ch. xxxi.
+<span id="fn_226"></span>[164:19](tic17.htm#fr_226.md) *Life*, ch. xxxi.
 27.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Wound of Love](tic18)
+[Next: Chapter II. The Wound of Love](tic18.md)

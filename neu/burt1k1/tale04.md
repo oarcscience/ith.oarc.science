@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale03)  [Next](tale05) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale03)  [Next](tale05.md) 
 
 ------------------------------------------------------------------------
 
@@ -665,4 +665,4 @@ he cried, "By Allah, I will not stump it till I hear the stories of my
 companions!" Then came forward one of the monoculars and began to tell
 her
 
-(*Next*) [THE FIRST KALANDAR'S TALE](tale05)  
+(*Next*) [THE FIRST KALANDAR'S TALE](tale05.md)  

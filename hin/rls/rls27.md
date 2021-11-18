@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls26)  [Next](rls28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls26)  [Next](rls28.md) 
 
 ------------------------------------------------------------------------
 
@@ -732,4 +732,4 @@ to enter your heart to rob it of its goodness.
 
 ------------------------------------------------------------------------
 
-[Next: The Sayings of Râmak*ri*sh*n*a: 300-395](rls28)
+[Next: The Sayings of Râmak*ri*sh*n*a: 300-395](rls28.md)

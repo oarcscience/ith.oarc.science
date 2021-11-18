@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec11)  [Next](aec13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec11)  [Next](aec13.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ Consider how different are the laws of men! In reality no man has ever
 made a law. What men term laws are only temporary makeshifts which are
 as imperfect and changeable as men themselves. Indeed, many human
 ordinances are a travesty of justice. Take for example the iniquitous
-law of [bankruptcy](errata.htm#4) which permits a man to declare himself
+law of [bankruptcy](errata.htm#4.md) which permits a man to declare himself
 insolvent in order to evade payment of his debts. Then later permits the
 use of his concealed assets to resume business under a different name,
 or moves in another community.
@@ -224,7 +224,7 @@ are free without being free from these
 
 laws, and are free only because of them. Men are not at the mercy of
 chance and caprice, but are protected, enfolded, sustained and guided by
-Nature's great protective and [beneficent](errata.htm#5) laws.
+Nature's great protective and [beneficent](errata.htm#5.md) laws.
 
 Life is no puppet show. Life is an eternal drama enacted by immortal
 actors who are free not only to choose their roles, but also free to
@@ -233,4 +233,4 @@ parts.
 
 ------------------------------------------------------------------------
 
-[Next: X. Unfinished Business](aec13)
+[Next: X. Unfinished Business](aec13.md)

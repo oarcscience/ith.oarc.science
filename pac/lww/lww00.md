@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [The
-Pacific](../index) [Index](index) [Next](lww0)
+[Sacred-Texts](../../index.md) [The
+Pacific](../index) [Index](index) [Next](lww0.md)
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ Pacific](../index) [Index](index) [Next](lww0)
 
 ------------------------------------------------------------------------
 
-[Next](lww0)
+[Next](lww0.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah11)  [Next](mah13) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah11)  [Next](mah13.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ progress slow indeed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Mars Is Ruled By Love](mah13)
+[Next: Chapter X: Mars Is Ruled By Love](mah13.md)

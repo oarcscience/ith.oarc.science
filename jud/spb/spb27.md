@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb26)  [Next](spb28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb26)  [Next](spb28.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 ### ADDITIONAL SERVICE FOR THE NEW MOON
 
 *The following prayer (Amidah) to "as in ancient years," [p.
-324](#page_324), is to be said standing*.
+324](#page_324.md), is to be said standing*.
 
 O Lord, open thou my lips, and my mouth shall declare thy praise.
 
@@ -47,7 +47,7 @@ unto thee, Lord of mighty acts, and who resembleth thee, O King, who
 killest and quickenest, and causest salvation to spring forth?
 
 Yea, faithful art thou to quicken the dead. Blessed art thou, O Lord,
-who quickenest the dead. <span id="fr_51"></span>[\*](#fn_46)
+who quickenest the dead. <span id="fr_51"></span>[\*](#fn_46.md)
 
 <span id="page_320">p. 320</span>
 
@@ -162,7 +162,7 @@ not; thou, merciful Being, whose lovingkindnesses never cease, we have
 ever hoped in thee.
 
 *On Chanukah say, "We thank thee also," etc., [p.
-63](spb05.htm#page_63)*.
+63](spb05.htm#page_63.md)*.
 
 For all these things thy name, O our King, shall be continually blessed
 and exalted for ever and ever.
@@ -215,25 +215,25 @@ Law. And there we will serve thee with awe, as in the days of old, and
 as in ancient years. Then shall the offering of Judah and Jerusalem be
 pleasant unto the Lord, as in the days of old, and as in ancient years.
 
-*Kaddish, [p. 92](spb05.htm#page_92).*
+*Kaddish, [p. 92](spb05.htm#page_92.md).*
 
-*"It is our duty," etc., [p. 93](spb05.htm#page_93).*
+*"It is our duty," etc., [p. 93](spb05.htm#page_93.md).*
 
-*Mourner's Kaddish, [p. 94](spb05.htm#page_94).*
+*Mourner's Kaddish, [p. 94](spb05.htm#page_94.md).*
 
-*Psalm civ, [p. 264](spb22.htm#page_264)*.
+*Psalm civ, [p. 264](spb22.htm#page_264.md)*.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_46"></span>[319:\*](spb27.htm#fr_51) (See page
-[320](#page_320))
+<span id="fn_46"></span>[319:\*](spb27.htm#fr_51.md) (See page
+[320](#page_320).md)
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Service for Festivals](spb28)
+[Next: Service for Festivals](spb28.md)
 
 </div>

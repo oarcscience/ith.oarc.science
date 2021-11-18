@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [Islam](../index)
+[Intangible Textual Heritage](../../index) [Islam](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -31,18 +31,18 @@ of Jesus.
 The book is presented here as one large (196K) file, although there are
 extensive anchors to make it navigable.
 
-**[CHRIST IN ISLÂM](cii)**
+**[CHRIST IN ISLÂM](cii.md)**
 
 |        |                                                     |
 |--------|-----------------------------------------------------|
-|        | [Introduction](cii.htm#INTRODUCTION)                |
-| I.     | [Passages from the <u>K</u>orân](cii.htm#CHAPTER_I) |
-| II.    | [Traditional Stories](cii.htm#CHAPTER_II)           |
-| III.   | [Moral and Religious Sayings](cii.htm#CHAPTER_III)  |
-| IV.    | [Ascetic Sayings](cii.htm#CHAPTER_IV)               |
-| V.     | [Sayings of God to Jesus](cii.htm#CHAPTER_V)        |
-| VI.    | [Miscellaneous Passages](cii.htm#CHAPTER_VI)        |
-| VII.   | [Stories Connected with Jesus](cii.htm#CHAPTER_VII) |
+|        | [Introduction](cii.htm#INTRODUCTION.md)                |
+| I.     | [Passages from the <u>K</u>orân](cii.htm#CHAPTER_I.md) |
+| II.    | [Traditional Stories](cii.htm#CHAPTER_II.md)           |
+| III.   | [Moral and Religious Sayings](cii.htm#CHAPTER_III.md)  |
+| IV.    | [Ascetic Sayings](cii.htm#CHAPTER_IV.md)               |
+| V.     | [Sayings of God to Jesus](cii.htm#CHAPTER_V.md)        |
+| VI.    | [Miscellaneous Passages](cii.htm#CHAPTER_VI.md)        |
+| VII.   | [Stories Connected with Jesus](cii.htm#CHAPTER_VII.md) |
 
 <span class="small">Notes on the hypertext transcription: \` and ´
 represent left and right apostrophes (*\`ayn* and *hamza*) in Arabic
@@ -57,4 +57,4 @@ bracket with the initials 'JR'.</span>
 
 ------------------------------------------------------------------------
 
-[Intangible Textual Heritage](../../index) [Islam](../index)
+[Intangible Textual Heritage](../../index) [Islam](../index.md)

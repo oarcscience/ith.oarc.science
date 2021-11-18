@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda05)  [Next](nda07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda05)  [Next](nda07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -362,13 +362,13 @@ worthy of credence.
 Olaf was the name of a warrior-king, who was called Olaf the White. He
 was the son of King Ingiald, Helgi's son, the son of Olaf, Gudraud's
 son, son of Halfdan Whiteleg, king of the Uplands-men
-( [8](nda12.htm#xref_8)). Olaf engaged in a Western freebooting
+( [8](nda12.htm#xref_8).md). Olaf engaged in a Western freebooting
 expedition and captured Dublin in Ireland and the Shire of Dublin, over
-which he became king ( [9](nda12.htm#xref_9)). He married Aud the
+which he became king ( [9](nda12.htm#xref_9).md). He married Aud the
 Wealthy, daughter of Ketil Flatnose, soil of Biorn Buna, a famous man of
 Norway. Their son was called Thorstein the Red. Olaf was killed in
-battle in Ireland, and Aud ( [10](nda12.htm#xref_10)) and Thorstein went
-then to the Hebrides ( [11](nda12.htm#xref_11)); there Thorstein married
+battle in Ireland, and Aud ( [10](nda12.htm#xref_10).md) and Thorstein went
+then to the Hebrides ( [11](nda12.htm#xref_11).md); there Thorstein married
 Thurid, daughter of Eyvind Easterling, sister of Helgi the Lean; they
 had many children. Thorstein became a warrior-king, and entered into
 fellowship with Earl Sigurd the Mighty, son of Eystein the Rattler. They
@@ -376,18 +376,18 @@ conquered Caithness and Sutherland, Ross and Moray, and more than the
 half of Scotland. Over these Thorstein became king, ere he was betrayed
 by the Scots, and was slain there in battle. Aud was at Caithness when
 she heard of Thorstein's death; she thereupon caused a ship
-( [12](nda12.htm#xref_12)) to be secretly built in the forest, and when
+( [12](nda12.htm#xref_12).md) to be secretly built in the forest, and when
 she was ready, she sailed out to the Orkneys. There she bestowed Groa,
 Thorstein the Red's daughter, in marriage: she was the mother of Grelad,
 whom Earl Thorfinn, Skull-cleaver, married. After this Aud set out to
 seek Iceland, and had on board her ship twenty freemen
-( [13](nda12.htm#xref_13)). Aud arrived in Iceland, and
+( [13](nda12.htm#xref_13).md). Aud arrived in Iceland, and
 
 <span id="page_29">p. 29</span>
 
 passed the first winter at Biarnarhofn with her brother, Biorn. Aud
 afterwards took possession of all the Dale country
-( [14](nda12.htm#xref_14)) between Dogurdar river and Skraumuhlaups
+( [14](nda12.htm#xref_14).md) between Dogurdar river and Skraumuhlaups
 river. She lived at Hvamm, and held her orisons at Krossholar, where she
 caused crosses to be erected, for she had been baptized and was a devout
 believer. With her there came out \[to Iceland\] many distinguished men,
@@ -398,7 +398,7 @@ slave before Aud freed him; now when Aud gave homesteads to the members
 of her crew, Vifil asked wherefore she gave him no homestead, as to the
 other men. Aud replied, that this should make no difference to him,
 saying that he would be regarded as a distinguished man wherever he was.
-She gave him Vifilsdal ( [15](nda12.htm#xref_15)) and there he dwelt. He
+She gave him Vifilsdal ( [15](nda12.htm#xref_15).md) and there he dwelt. He
 married a woman whose name was . . . their sons were Thorbiorn and
 Thorgeir. They were men of promise, and grew up with their father.
 
@@ -406,9 +406,9 @@ Thorgeir. They were men of promise, and grew up with their father.
 
 There was a man named Thorvald; he was a son of Asvald, Ulf's son,
 Eyxna-Thori's son. His son's name was Eric. He and his father went from
-Jaederen ( [16](nda12.htm#xref_16)) to Iceland, on account of
+Jaederen ( [16](nda12.htm#xref_16).md) to Iceland, on account of
 manslaughter, and settled on Hornstrandir, and dwelt at Drangar
-( [17](nda12.htm#xref_17)). There Thorvald died, and Eric then married
+( [17](nda12.htm#xref_17).md). There Thorvald died, and Eric then married
 Thorhild, a daughter of Jorund, Atli's son, and Thorbiorg the
 Ship-chested who had been married before to Thorbiorn of the Haukadal
 
@@ -423,29 +423,29 @@ at Leikskalar. Geirstein and Odd of Jorva, Eyiolf's kinsmen, conducted
 the prosecution for the slaying of their kinsmen, and Eric was, in
 consequence, banished from Haukadal. He then took possession of Brokey
 and Eyxney, and dwelt at Tradir on Sudrey, the first winter
-( [18](nda12.htm#xref_18)). It was at this time that he loaned Thorgest
-his outer dais-boards ( [19](nda12.htm#xref_19)); Eric afterwards went
+( [18](nda12.htm#xref_18).md). It was at this time that he loaned Thorgest
+his outer dais-boards ( [19](nda12.htm#xref_19).md); Eric afterwards went
 to Eyxney, and dwelt at Ericsstad. He then demanded his outer
 dais-boards, but did not obtain them. Eric then carried the outer
 dais-boards away from Breidabolstad, and Thorgest gave chase. They came
 to blows a short distance from the farm of Drangar
-( [20](nda12.htm#xref_20)). There two of Thorgest's sons were killed and
+( [20](nda12.htm#xref_20).md). There two of Thorgest's sons were killed and
 certain other men besides. After this each of them retained a
 considerable body of men with him at his home. Styr gave Eric his
 support, as did also Eyiolf of Sviney, Thorbiorn, Vifil's son, and the
 sons of Thorbrand of Alptafirth; while Thorgest was backed by the sons
 of Thord the Yeller, and Thorgeir of Hitardal, Aslak of Langadal and his
 son, Illugi. Eric and his people were condemned to outlawry at
-Thorsness-thing ( [21](nda12.htm#xref_21)). He equipped his ship for a
+Thorsness-thing ( [21](nda12.htm#xref_21).md). He equipped his ship for a
 voyage, in Ericsvag; while Eyiolf concealed him in Dimunarvag
-( [22](nda12.htm#xref_22)), when Thorgest and his people were searching
+( [22](nda12.htm#xref_22).md), when Thorgest and his people were searching
 for him among the islands.
 
 <span id="page_31">p. 31</span>
 
 <span class="contnote">\[paragraph continues\]</span> He said to them,
 that it was his intention to go in search of that land which Gunnbiorn
-( [23](nda12.htm#xref_23)), son of Ulf the Crow, saw when he was driven
+( [23](nda12.htm#xref_23).md), son of Ulf the Crow, saw when he was driven
 out of his course, westward across the main, and discovered
 Gurmbiornsskerries. He told them that he would return again to his
 friends, if he should succeed in finding that country. Thorbiorn, and
@@ -454,7 +454,7 @@ parted with the greatest friendliness; Eric said to them that he would
 render them similar aid, so far as it might lie within his power, if
 they should ever stand in need of his help. Eric sailed out to sea from
 Snaefells-iokul, and arrived at that ice-mountain
-( [24](nda12.htm#xref_24)) which is called Blacksark. Thence he sailed
+( [24](nda12.htm#xref_24).md) which is called Blacksark. Thence he sailed
 to the southward, that he might ascertain whether there was habitable
 country in that direction. He passed the first winter at Ericsey, near
 the middle of the Western-settlement. In the following spring he
@@ -465,9 +465,9 @@ he spent at Ericsholms beyond Hvarfsgnipa. But the third summer he
 sailed northward to Snaefell, and into Hrafnsfirth. He believed then
 that he had reached the head of Ericsfirth; he turned back then, and
 remained the third winter at Ericsey at the mouth of Ericsfirth
-( [25](nda12.htm#xref_25)). The following summer he sailed to Iceland,
+( [25](nda12.htm#xref_25).md). The following summer he sailed to Iceland,
 and landed in Breidafirth. He remained that winter with Ingolf
-( [26](nda12.htm#xref_26)) at Holmlatr. In the spring he and Thorgest
+( [26](nda12.htm#xref_26).md) at Holmlatr. In the spring he and Thorgest
 fought together, and Eric was defeated; after this a reconciliation
 
 <span id="page_32">p. 32</span>
@@ -482,7 +482,7 @@ good name.
 Thorgeir, Vifil's son, married, and took to wife Arnora, daughter of
 Einar of Laugarbrekka, Sigmund's son, son of Ketil Thistil, who settled
 Thistilsfirth. Einar had another daughter named Hallveig; she was
-married to Thorbiorn, Vifil's son ( [27](nda12.htm#xref_27)), who got
+married to Thorbiorn, Vifil's son ( [27](nda12.htm#xref_27).md), who got
 with her Laugarbrekka-land on Hellisvellir. Thorbiorn moved thither, and
 became a very distinguished man. He was an excellent husbandman, and had
 a great estate. Gudrid was the name of Thorbiorn's daughter. She was the
@@ -491,7 +491,7 @@ There dwelt at Arnarstapi a man named Orm, whose wife's name was
 Halldis. Orm was a good husbandman, and a great friend of Thorbiorn, and
 Gudrid lived with him for a long time as a foster-daughter. There was a
 man named Thorgeir, who lived at Thorgeirsfell
-( [28](nda12.htm#xref_28)); he was very wealthy and had been manumitted;
+( [28](nda12.htm#xref_28).md); he was very wealthy and had been manumitted;
 he had a son named Einar, who was a handsome, well-bred man, and very
 showy in his dress. Einar was engaged in trading-voyages from one
 country to the other, and had prospered in this. He always spent his
@@ -545,7 +545,7 @@ that for some persons and for some reasons it might be regarded as a
 very appropriate match: "thou mayest greatly strengthen thyself thereby,
 master, by reason of the property." Thorbiorn answers: "Little did I
 expect to hear such words from thee, that I should marry my daughter to
-the son of a thrall ( [29](nda12.htm#xref_29)); and that, because it
+the son of a thrall ( [29](nda12.htm#xref_29).md); and that, because it
 seems to thee that my means are diminishing, wherefore she shall not
 remain longer with thee since thou deemest so mean a match as this
 suitable for her." Orm afterward returned to his home, and all of the
@@ -572,7 +572,7 @@ firmly fixed in his purpose that it would not avail to endeavour to
 dissuade him from it. Thorbiorn bestowed gifts upon his guests, after
 which the feast came to an end, and the folk returned to their homes.
 Thorbiorn sells his lands and buys a ship, which was laid up at the
-mouth of Hraunhofn ( [30](nda12.htm#xref_30)). Thirty persons joined him
+mouth of Hraunhofn ( [30](nda12.htm#xref_30).md). Thirty persons joined him
 in the voyage; among these were Orm of Arnarstapi, and his wife, and
 other of Thorbiorn's friends, who would not part from him. Then they put
 to sea. When they sailed the weather was favourable, but after they came
@@ -591,7 +591,7 @@ company, and entertained them well during the winter. At that time there
 was a season of great dearth in Greenland; those who had been at the
 fisheries had had poor hauls, and some had not returned. There was a
 certain woman there in the settlement, whose name was Thorbiorg. She was
-a prophetess, and was called Little Sibyl ( [31](nda12.htm#xref_31)).
+a prophetess, and was called Little Sibyl ( [31](nda12.htm#xref_31).md).
 She had had nine sisters, all of whom were prophetesses, but she was the
 only one left alive. It was Thorbiorg's custom in the winters to go to
 entertainments, and she was especially sought after at the homes of
@@ -700,14 +700,14 @@ Eric was married to a woman named Thorhild, and had two sons; one of
 these was named Thorstein, and the other Leif. They were both promising
 men. Thorstein lived at home with his father, and there was not at that
 time a man in Greenland who was accounted of so great promise as he.
-Leif had sailed ( [32](nda12.htm#xref_32)) to Norway, where he was at
+Leif had sailed ( [32](nda12.htm#xref_32).md) to Norway, where he was at
 the court of King Olaf Tryggvason. When Leif sailed from Greenland, in
 the summer, they were driven out of their course to the Hebrides. It was
 late before they got fair winds thence, and they remained there far into
 the summer. Leif became enamored of a certain woman, whose name was
 Thorgunna. She was a woman of fine family, and Leif observed that she
-was possessed of rare intelligence ( [33](nda12.htm#xref_33)): When Leif
-was preparing for his departure Thorgunna ( [34](nda12.htm#xref_34))
+was possessed of rare intelligence ( [33](nda12.htm#xref_33).md): When Leif
+was preparing for his departure Thorgunna ( [34](nda12.htm#xref_34).md)
 asked to be permitted to accompany him. Leif enquired whether she had in
 this the approval of her kinsmen. She replied that she did not care for
 it. Leif responded that he did not deem it the part of wisdom to abduct
@@ -729,7 +729,7 @@ the end comes." Leif gave her a gold finger-ring, a Greenland wadmal
 mantle, and a belt of walrus-tusk. This boy came to Greenland, and was
 called Thorgils. Leif acknowledged his paternity, and some men will have
 it that this Thorgils came to Iceland in the summer before the
-Froda-wonder ( [35](nda12.htm#xref_35)). However, this Thorgils was
+Froda-wonder ( [35](nda12.htm#xref_35).md). However, this Thorgils was
 afterwards in Greenland, and there seemed to be something not altogether
 natural about him before the end came. Leif and his companions sailed
 away from the Hebrides, and arrived in Norway in the autumn. Leif went
@@ -752,7 +752,7 @@ grace of your protection." Leif put to sea when his ship was ready for
 the voyage. For a long time he was tossed about upon the ocean, and came
 upon lands of which he had previously had no knowledge. There were
 self-sown wheat fields and vines growing there. There were also those
-trees there which are called "mausur" ( [36](nda12.htm#xref_36)), and of
+trees there which are called "mausur" ( [36](nda12.htm#xref_36).md), and of
 all these they took specimens. Some of the timbers were so large that
 they were used in building. Leif found men upon a wreck, and took them
 home with him, and procured quarters for them all during the winter. In
@@ -764,7 +764,7 @@ proclaimed Christianity throughout the land, and the Catholic faith, and
 announced King Olaf Tryggvason's messages to the people, telling them
 how much excellence and how great glory accompanied this faith. Eric was
 slow in forming the determination to forsake his old belief, but
-Thiodhild ( [37](nda12.htm#xref_37)) embraced the faith promptly, and
+Thiodhild ( [37](nda12.htm#xref_37).md) embraced the faith promptly, and
 caused a church to be built at some distance from the house. This
 building was called Thiodhild's Church, and there she and those persons
 who had accepted Christianity, and they were many, were wont to offer
@@ -791,7 +791,7 @@ however, when he fell from his horse and broke his ribs and dislocated
 his shoulder, whereat he cried, "Ai, ai!" By reason of this accident he
 sent his wife word that she should procure the treasure which he had
 concealed, for to the hiding of the treasure he attributed his
-misfortune ( [38](nda12.htm#xref_38)). Thereafter they sailed cheerily
+misfortune ( [38](nda12.htm#xref_38).md). Thereafter they sailed cheerily
 out of Ericsfirth in high spirits over their plan. They were long tossed
 about upon the ocean, and could not lay the course they wished. They
 came in sight of Iceland, and likewise saw birds from the Irish coast.
@@ -853,7 +853,7 @@ his namesake that he should come to him, saying that all was not as it
 should be there, for the housewife was endeavouring to rise to her feet,
 and wished to get in under the clothes beside him, and when he entered
 the room she was come up on the edge of the bed. He thereupon seized her
-hands and held a pole-axe ( [39](nda12.htm#xref_39)) before her breast.
+hands and held a pole-axe ( [39](nda12.htm#xref_39).md) before her breast.
 Thorstein, Eric's son, died before night-fall. Thorstein, the master of
 the house, bade Gudrid lie down and sleep, saying that he would keep
 watch over the bodies during the night; thus she did, and
@@ -912,20 +912,20 @@ of Kiarval the King of the Irish. Thord was a son of Biorn Chestbutter,
 son of Thorvald Spine, Asleik's son, the son of Biorn Iron-side, the son
 of Ragnar Shaggy-breeks. They had a son named Snorri. He married
 Thorhild Ptarmigan, daughter of Thord the Yeller. Their son was Thord
-Horse head. Thorfinn Karlsefni <span id="fr_0"></span>[1](#fn_0) was the
+Horse head. Thorfinn Karlsefni <span id="fr_0"></span>[1](#fn_0.md) was the
 name of
 
 <span id="page_48">p. 48</span>
 
 <span class="contnote">\[paragraph continues\]</span> Thord's son
-( [40](nda12.htm#xref_40)). Thorfinn's mother's name was Thorunn.
+( [40](nda12.htm#xref_40).md). Thorfinn's mother's name was Thorunn.
 Thorfinn was engaged in trading voyages, and was reputed to be a
 successful merchant. One summer Karlsefni equipped his ship, with the
 intention of sailing to Greenland. Snorri, Thorbrand's son, of
-Alptafirth ( [41](nda12.htm#xref_41)) accompanied him, and there were
+Alptafirth ( [41](nda12.htm#xref_41).md) accompanied him, and there were
 forty men on board the ship with them. There was a man named Biarni,
 Grimolf's son, a man from Briedafirth, and another named Thorhall,
-Gamli's son ( [42](nda12.htm#xref_42)), an East-firth man. They equipped
+Gamli's son ( [42](nda12.htm#xref_42).md), an East-firth man. They equipped
 their ship, the same summer as Karlsefni, with the intention of making a
 voyage to Greenland; they had also forty men in their ship. When they
 were ready to sail, the two ships put to sea together. It has not been
@@ -960,7 +960,7 @@ cause for that," replied Karlsefni, "we have malt, and meal, and corn in
 our ships, and you are welcome to take of these whatsoever you wish, and
 to provide as liberal an entertainment as seems fitting to you." Eric
 accepted this offer, and preparations were made for the Yule feast
-( [43](nda12.htm#xref_43)), and it was so sumptuous, that it seemed to
+( [43](nda12.htm#xref_43).md), and it was so sumptuous, that it seemed to
 the people they had scarcely ever seen so grand an entertainment before.
 And after Yule Karlsefni broached the subject of a marriage with Gudrid
 to Eric, for he assumed that with him rested the right to bestow her
@@ -981,7 +981,7 @@ pass, that Karlsefni and Snorri fitted out their ship, for the purpose
 of going in search of that country in the spring. Biarni and Thorhall
 joined the expedition with their ship, and the men who had borne them
 company. There was a man named Thorvard; he was wedded to Freydis
-( [44](nda12.htm#xref_44)) a natural daughter of Eric the Red. He also
+( [44](nda12.htm#xref_44).md) a natural daughter of Eric the Red. He also
 accompanied them, together with Thorvald, Eric's son, and Thorhall, who
 was called the Huntsman. He had been for a long time with Eric as his
 hunter and fisherman during the summer, and as his steward during the
@@ -991,9 +991,9 @@ and he ever incited Eric to evil. He was a poor Christian; he had a wide
 knowledge of the unsettled regions. He was on the same ship with
 Thorvard and Thorvald. They had that ship which Thorbiorn had brought
 out. They had in all one hundred and sixty men, when they sailed to the
-Western settlement ( [45](nda12.htm#xref_45)), and thence to Bear
+Western settlement ( [45](nda12.htm#xref_45).md), and thence to Bear
 Island. Thence they bore away to the southward two "dœgr"
-( [46](nda12.htm#xref_46)). Then they saw land, and launched a boat, and
+( [46](nda12.htm#xref_46).md). Then they saw land, and launched a boat, and
 explored the land, and found there large flat stones \[*hellur*\], and
 many of these were twelve ells wide; there were many Arctic foxes there.
 They gave a name to the country, and
@@ -1008,13 +1008,13 @@ southeast, and there they found a bear, and they called this Biarney
 \[Forest-land\]. Thence they sailed southward along the land for a long
 time, and came to a cape; the land lay upon the starboard; there were
 long strands and sandy banks there. They rowed to the land and found
-upon the cape there the keel of a ship ( [47](nda12.htm#xref_47)) and
+upon the cape there the keel of a ship ( [47](nda12.htm#xref_47).md) and
 they called it there Kialarnes \[Keelness\]; they also called the
 strands Furdustrandir \[Wonder-strands\], because they were so long to
 sail by. Then the country became indented with bays, and they steered
 their ships into a bay. It was when Leif was with King Olaf Tryggvason,
 and he bade him proclaim, Christianity to Greenland, that the king gave
-him two Gaels ( [48](nda12.htm#xref_48)); the man's name was Haki, and
+him two Gaels ( [48](nda12.htm#xref_48).md); the man's name was Haki, and
 the woman's Haekia. The king advised Leif to have recourse to these
 people, if he should stand in need of fleetness, for they were swifter
 than deer. Eric and Leif had tendered Karlsefni the services of this
@@ -1059,7 +1059,7 @@ them, and he did so. Soon after this a whale appeared there, and they
 captured it, and flensed it, and no one could tell what manner of whale
 it was; and when the cooks had prepared it they ate of it, and were all
 made ill by it. Then Thorhall, approaching them, said: "Did not the
-Red-beard ( [49](nda12.htm#xref_49)) prove more helpful than your
+Red-beard ( [49](nda12.htm#xref_49).md) prove more helpful than your
 Christ? This is my reward for the verses which I composed to Thor, the
 Trustworthy; seldom has he failed me." When the people heard this they
 cast the whale down into the sea, and made their appeals to God. The
@@ -1100,7 +1100,7 @@ Let us try the sea-steed's daring,
 Those who will may bide in quiet,  
   Let them praise their chosen land,  
 Feasting on a whale-steak diet,  
-  In their home by Wonder-strand. <span id="fr_1"></span>[1](#fn_1)
+  In their home by Wonder-strand. <span id="fr_1"></span>[1](#fn_1.md)
 
 Then they sailed away to the northward past Wonder-strands and Keelness,
 intending to cruise to the westward around the cape. They encountered
@@ -1117,33 +1117,33 @@ the flood-tide. Karlsefni and his men sailed into the mouth of the
 river, and called it there Hop \[a small land-locked bay\]. They found
 self-sown wheat-fields on the land there; wherever there were hollows,
 and wherever there was hilly ground, there were vines
-( [50](nda12.htm#xref_50)). Every brook there was full of fish. They dug
+( [50](nda12.htm#xref_50).md). Every brook there was full of fish. They dug
 
 <span id="page_55">p. 55</span>
 
 pits on the shore where the tide rose highest, and when the tide fell
-there were halibut ( [51](nda12.htm#xref_51)) in the pits. There were
+there were halibut ( [51](nda12.htm#xref_51).md) in the pits. There were
 great numbers of wild animals of all kinds in the woods. They remained
 there half a month, and enjoyed themselves, and kept no watch. They had
 their livestock with them. Now one morning early when they looked about
 them they saw a great number of skin-canoes, and staves
-( [52](nda12.htm#xref_52)) were brandished from the boats, with a noise
+( [52](nda12.htm#xref_52).md) were brandished from the boats, with a noise
 like flails, and they were revolved in the same direction in which the
 sun moves. Then said Karlsefni: "What may this betoken?" Snorri,
 Thorbrand's son, answered him: "It may be that this is a signal of
-peace, wherefore let us take a white shield ( [53](nda12.htm#xref_53))
+peace, wherefore let us take a white shield ( [53](nda12.htm#xref_53).md)
 and display it." And thus they did. Thereupon the strangers rowed toward
 them, and went upon the land, marvelling at those whom they saw before
 them. They were swarthy men and ill-looking, and the hair of their heads
 was ugly. They had great eyes, and were broad of cheek
-( [54](nda12.htm#xref_54)). They tarried there for a time looking
+( [54](nda12.htm#xref_54).md). They tarried there for a time looking
 curiously at the people they saw before them, and then rowed away, and
 to the southward around the point.
 
 Karlsefni and his followers had built their huts above the lake, some of
 their dwellings being near the lake, and others farther away. Now they
 remained there that winter. No snow came there, and all of their
-live-stock lived by grazing ( [55](nda12.htm#xref_55)). And when spring
+live-stock lived by grazing ( [55](nda12.htm#xref_55).md). And when spring
 opened they discovered, early one morning, a great number of skin-canoes
 rowing from the south past the cape, so numerous that it looked as if
 coals had been scattered broadcast out before the bay; and on every boat
@@ -1172,7 +1172,7 @@ was discovered approaching from the south, as if a stream were pouring
 down, and all of their staves were waved in a direction contrary to the
 course of the sun, and the Skrellings were all tittering loud cries.
 Thereupon Karlsefni and his men took red shields
-( [52](nda12.htm#xref_52)) and displayed them. The Skrellings sprang
+( [52](nda12.htm#xref_52).md) and displayed them. The Skrellings sprang
 from their boats, and they met then, and fought together. There was a
 fierce shower of missiles, for the Skrellings had war-slings. Karlsefni
 and Snorri observed that the Skrellings raised up on a pole a great
@@ -1236,7 +1236,7 @@ they found great abundance of all those things
 
 <span id="img_05900"></span> <span align="CENTER"> [![DEATH OF THORVALD
 ERIKSON](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)  
+Click to enlarge](img/05900.jpg.md)  
 DEATH OF THORVALD ERIKSON  
 </span>
 
@@ -1272,7 +1272,7 @@ southern bank.
 It happened one morning that Karlsefni and his companions discovered in
 an open space in the woods above them, a speck, which seemed to shine
 toward them, and they shouted at it; it stirred and it was a Uniped
-( [56](nda12.htm#xref_56)), who skipped down to the bank of the river by
+( [56](nda12.htm#xref_56).md), who skipped down to the bank of the river by
 which they were lying. Thorvald, a son of Eric the Red, was sitting at
 the helm, and the Uniped shot an arrow into his inwards. Thorvald drew
 out the arrow, and exclaimed: "There is fat around my paunch; we have
@@ -1300,7 +1300,7 @@ they were about an equal distance removed from Streamfirth, in either
 direction. They sailed back, and passed the third winter at Streamfirth.
 Then the men began to divide into factions, of which the women were the
 cause; and those who were without wives endeavoured to
-[seize](errata.htm#0) upon the wives of those who were married, whence
+[seize](errata.htm#0.md) upon the wives of those who were married, whence
 the greatest trouble arose. Snorri, Karlsefni's son, was born the first
 autumn, and he was three winters' old when they took their departure.
 When they sailed away from Wineland, they had a southerly wind, and so
@@ -1315,18 +1315,18 @@ Vætilldi, and their
 
 father's Uvægi. They said that kings governed the Skrellings, one of
 whom was called Avalldamon, and the other Valldidida
-( [57](nda12.htm#xref_57)). They stated, that there were no houses
+( [57](nda12.htm#xref_57).md). They stated, that there were no houses
 there, and that the people lived in caves or holes. They said that there
 was a land on the other side over against their country, which was
 inhabited by people who wore white garments, and yelled loudly, and
 carried poles before them, to which rags were attached; and people
 believe that this must have been Hvitramannaland \[White-men's-land\],
-or Ireland the Great ( [58](nda12.htm#xref_58)). Now they arrived in
+or Ireland the Great ( [58](nda12.htm#xref_58).md). Now they arrived in
 Greenland, and remained during the winter with Eric the Red.
 
 Biarni, Grimolf's son, and his companions were driven out into the
 Atlantic, and came into a sea, which was filled with worms, <span
-id="fr_2"></span>[1](#fn_2) and their ship began to sink beneath them.
+id="fr_2"></span>[1](#fn_2.md) and their ship began to sink beneath them.
 They had a boat which had been coated with seal-tar; this the sea-worm
 does not penetrate. They took their places in this boat, and then
 discovered that it would not hold them all. Then said Biarni: "Since the
@@ -1355,12 +1355,12 @@ never heard of afterward.
 ### KARLSEFNI AND HIS WIFE THURID'S ISSUE.
 
 The following summer Karlsefni sailed to Iceland and Gudrid with him,
-and he went home to Reyniness ( [59](nda12.htm#xref_59)). His mother
+and he went home to Reyniness ( [59](nda12.htm#xref_59).md). His mother
 believed that he had made a poor match, and she was not at home the
 first winter. However, when she became convinced that Gudrid was a very
 superior woman, she returned to her home, and they lived happily
 together. Hallfrid was a daughter of Snorri, Karlsefni's son, she was
-the mother of Bishop Thorlak, Runolf's son ( [60](nda12.htm#xref_60)).
+the mother of Bishop Thorlak, Runolf's son ( [60](nda12.htm#xref_60).md).
 They had a son named Thorbiorn, whose daughter's name was Thorunn \[she
 was\] Bishop Biorn's mother. Thorgeir was the name of a son of Snorri,
 Karlsefni's son, \[he was\] the father of Ingveld, mother of Bishop
@@ -1376,7 +1376,7 @@ Keldur. Their daughter was Halla, the mother of Flosi, the father of
 Valgerd, the mother of Herra Erlend, the Stout, the father of Herra Hauk
 the Lawman. Another daughter of Flosi was Thordis, the mother of Fru
 Ingigerd the Mighty. Her daughter was Fru Hallbera, Abbess of Reyniness
-at Stad ( [59](nda12.htm#xref_59)). Many other great people in Iceland
+at Stad ( [59](nda12.htm#xref_59).md). Many other great people in Iceland
 are descended from Karlsefni and Thurid, who are not mentioned here. God
 be with us, Amen!
 
@@ -1384,17 +1384,17 @@ be with us, Amen!
 
 ### Footnotes
 
-<span id="fn_0"></span>[47:1](nda06.htm#fr_0) *Karlsefni*, one who gives
+<span id="fn_0"></span>[47:1](nda06.htm#fr_0.md) *Karlsefni*, one who gives
 promise of becoming a man.
 
-<span id="fn_1"></span>[54:1](nda06.htm#fr_1) The prose sense of the
+<span id="fn_1"></span>[54:1](nda06.htm#fr_1.md) The prose sense of the
 verse is: Let us return to our countrymen, leaving those, who like the
 country here, to cook their whale on Wonder-strands.
 
-<span id="fn_2"></span>[61:1](nda06.htm#fr_2) This reference is to the
+<span id="fn_2"></span>[61:1](nda06.htm#fr_2.md) This reference is to the
 toredo, or ship worm, that bores into wood and is often a source of
 danger to unsheathed vessels.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Wineland History of the Flatey Book](nda07)
+[Next: Chapter III. The Wineland History of the Flatey Book](nda07.md)

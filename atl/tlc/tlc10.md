@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tlc09)  [Next](tlc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tlc09)  [Next](tlc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Continent*, by Cutcliffe Hyne, \[1900\], at Intangible Textual
 Heritage
 
@@ -398,7 +398,7 @@ power had been sufficient to raise me to a viceroyalty like
 
 <span id="img_12600"></span> <span align="CENTER"> [![“THE BOUND MAN WAS
 SHOT AWAY”](tn/12600.jpg)  
-Click to enlarge](img/12600.jpg)  
+Click to enlarge](img/12600.jpg.md)  
 “THE BOUND MAN WAS SHOT AWAY”  
 </span>
 
@@ -503,4 +503,4 @@ come with ease to the harbor and the water-gate."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Preacher From the Mountains](tlc11)
+[Next: Chapter VIII. The Preacher From the Mountains](tlc11.md)

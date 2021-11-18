@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Judaica
-Articles](../../jud/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Judaica
+Articles](../../jud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -49,11 +49,11 @@ FURTHER COMMENTS OF THE SAMARITAN HIGH PRIEST.
 
    THE treatise of the Samaritan High Priest on "The Messianic Hope of
 the Samaritans"<span id="page_528_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_528_note_1) was submitted to the
+class="small">1</span></sup>](#page_528_note_1.md) was submitted to the
 author, and I reached him at the time of the Passover on the top of Mt.
 Gerizim. It was read to him and he heard it with approval, but in
 comment on [the footnote at the bottom of page
-279](mhs.htm#page_279_note_4), he explained that the <span
+279](mhs.htm#page_279_note_4.md), he explained that the <span
 id="page_529">p. 529</span> name Aelia, given to Jerusalem after its
 destruction, is not used by the Samaritans for the city itself, but
 denotes a village near the present site of Jerusalem, the spot where Eli
@@ -86,7 +86,7 @@ also be a king."
 passages frequently quoted as Messianic. He replies:
 
    "The promise that the seed of the woman shall bruise the serpent's
-head, in [Genesis iii. 15](../../bib/kjv/gen.htm#3:15), has no Messianic
+head, in [Genesis iii. 15](../../bib/kjv/gen.htm#3:15.md), has no Messianic
 significance whatever. It has a very long interpretation, but the
 substance is this:
 
@@ -100,7 +100,7 @@ it.
    "Of course the serpent is only a serpent.
 
    "While there is some difference of opinion about [Gen. xlix.
-55](../../bib/kjv/gen.htm#44:55), which tells at what time the scepter
+55](../../bib/kjv/gen.htm#44:55.md), which tells at what time the scepter
 shall depart from Judah, there is light to be found in the form of the
 name Shiloh. The Jews make it two words, but in the Samaritan Torah it
 is but one word, and that is the name Solomon. The characteristics which
@@ -120,7 +120,7 @@ Messiah is expected to be in any sense divine. The High Priest answers:
 
    "The Messiah will not be in any sense a Son of God. He will be a
 prophet like Moses and like his brethren, as it is told in [Deut. xviii.
-15](../../bib/kjv/deu.htm#18:15)-22:
+15](../../bib/kjv/deu.htm#18:15.md)-22:
 
    "'The Lord thy God will raise up unto thee a prophet from the midst
 of thee, of thy brethren, like unto me; unto him ye shall hearken;
@@ -271,13 +271,13 @@ declared not to be prophetic of his mission. The passages quoted by
 Christians from the Pentateuch as Messianic are held not to refer to
 him. Practically the whole content of Samaritan Messianic prophecy
 appears to be derived from [Deut. xviii.
-15](../../bib/kjv/deu.htm#18:15)-22, in which the Messiah is a prophet
+15](../../bib/kjv/deu.htm#18:15.md)-22, in which the Messiah is a prophet
 like unto Moses, raised up from among the people, and one of their own
 brethren.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Judaica Articles](../../jud/etc/index)
+[Journals](../index) [Judaica Articles](../../jud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -285,8 +285,8 @@ brethren.
 
 <span id="footnotes_page_528">p. 528</span>
 
-<span id="page_528_note_1"></span>[1](#page_528_fr_1) [Published in the
-May number of *The Open Court*](mhs).
+<span id="page_528_note_1"></span>[1](#page_528_fr_1.md) [Published in the
+May number of *The Open Court*](mhs.md).
 
  
 

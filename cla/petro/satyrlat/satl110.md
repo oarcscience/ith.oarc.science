@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat14.htm#CX)  [Previous](satl109) 
-[Next](satl111) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat14.htm#CX)  [Previous](satl109.md) 
+[Next](satl111.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ auribusque sic orsus est:
 
 ------------------------------------------------------------------------
 
-[Next: CXI](satl111)
+[Next: CXI](satl111.md)

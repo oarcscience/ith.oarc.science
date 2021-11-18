@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil30)  [Next](egil32) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil30)  [Next](egil32.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ stave:
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXXI. Of Skallagrim's children.](egil32)
+[Next: CHAPTER XXXI. Of Skallagrim's children.](egil32.md)

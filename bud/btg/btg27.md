@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg26)  [Next](btg28) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg26)  [Next](btg28.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ the born, originated, created, formed."
 
 ------------------------------------------------------------------------
 
-[Next: The Buddha's Father](btg28)
+[Next: The Buddha's Father](btg28.md)

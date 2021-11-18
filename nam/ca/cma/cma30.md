@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma29)  [Next](cma31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma29)  [Next](cma31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ comparative mythology is evident.
 
 The old woman, Nomhawena, is an earthworm now; the Indian tale-teller
 says that there is no doubt on that point. Pom Pokaila, her second name
-(Pom, earth; [Pokaila](errata.htm#4), old woman) admits of two
+(Pom, earth; [Pokaila](errata.htm#4), old woman.md) admits of two
 translations,--old woman of the earth, or old woman Earth. In the first
 case it would apply to Nomhawena, who digs the earth always, is a woman
 of the earth; in the second, it would mean the earth itself. The earth
@@ -84,4 +84,4 @@ Tulchuherris.
 
 ------------------------------------------------------------------------
 
-[Next: Sedit and the Two Brothers Hus](cma31)
+[Next: Sedit and the Two Brothers Hus](cma31.md)

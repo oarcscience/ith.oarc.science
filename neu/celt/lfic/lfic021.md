@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic020)  [Next](lfic022) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic020)  [Next](lfic022.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,4 +162,4 @@ so clear. Such, however, is the fact.
 
 ------------------------------------------------------------------------
 
-[Next: The Recovered Bride](lfic022)
+[Next: The Recovered Bride](lfic022.md)

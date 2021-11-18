@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](lbob00)    [Page
-Index](pageidx)    [Text \[Zipped\]](lbob.txt.gz)
+[Contents](#contents)    [Start Reading](lbob00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](lbob.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -56,43 +56,43 @@ nature of the early Biblical canon, and provides access to all of the
 
 Although not attributed, the initials of the editor, Rutherford H.
 Platt, Jr., appear on the Preface. He also edited the companion volume
-[The Forgotten Books of Eden](../fbe/index), a collection of Old
+[The Forgotten Books of Eden](../fbe/index.md), a collection of Old
 Testament apocrypha.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](lbob00)  
-[List of Illustrations](lbob01)  
-[Introduction](lbob02)  
-[The Order of All the Books](lbob03)  
-[Preface](lbob04)  
-[The Gospel of the Birth of Mary](lbob05)  
-[The Protevangelion](lbob06)  
-[The First Gospel of the Infancy of Jesus Christ](lbob07)  
-[Thomas's Gospel of the Infancy of Jesus Christ](lbob08)  
-[The Epistles of Jesus Christ and Abgarus King of Edessa](lbob09)  
+<span id="contents"></span> [Title Page](lbob00.md)  
+[List of Illustrations](lbob01.md)  
+[Introduction](lbob02.md)  
+[The Order of All the Books](lbob03.md)  
+[Preface](lbob04.md)  
+[The Gospel of the Birth of Mary](lbob05.md)  
+[The Protevangelion](lbob06.md)  
+[The First Gospel of the Infancy of Jesus Christ](lbob07.md)  
+[Thomas's Gospel of the Infancy of Jesus Christ](lbob08.md)  
+[The Epistles of Jesus Christ and Abgarus King of Edessa](lbob09.md)  
 [The Gospel of Nicodemus, Formerly Called the Acts of Pontius
-Pilate](lbob10)  
-[The Apostles’ Creed](lbob11)  
-[The Epistle of Paul the Apostle to the Laodiceans](lbob12)  
+Pilate](lbob10.md)  
+[The Apostles’ Creed](lbob11.md)  
+[The Epistle of Paul the Apostle to the Laodiceans](lbob12.md)  
 [The Epistles of Paul the Apostle to Seneca, with Seneca's to
-Paul](lbob13)  
-[The Acts of Paul and Thecla](lbob14)  
-[The First Epistle of Clement to the Corinthians](lbob15)  
-[The Second Epistle of Clement to the Corinthians](lbob16)  
-[The General Epistle of Barnabas](lbob17)  
-[The Epistle of Ignatius to the Ephesians](lbob18)  
-[The Epistle of Ignatius to the Magnesians](lbob19)  
-[The Epistle of Ignatius to the Trallians](lbob20)  
-[The Epistle of Ignatius to the Romans](lbob21)  
-[The Epistle of Ignatius to the Philadelphians](lbob22)  
-[The Epistle of Ignatius to the Smyrnæans](lbob23)  
-[The Epistle of Ignatius to Polycarp](lbob24)  
-[The Epistle of Polycarp to the Philippians](lbob25)  
-[The Shepherd of Hermas](lbob26)  
-[The Second Book of Hermas, Called His Commands](lbob27)  
-[The Third Book of Hermas, Which Is Called His Similitudes](lbob28)  
-[Letters of Herod and Pilate](lbob29)  
-[The Lost Gospel According to Peter](lbob30)  
-[Table I.](lbob31)  
-[Table II.](lbob32)  
+Paul](lbob13.md)  
+[The Acts of Paul and Thecla](lbob14.md)  
+[The First Epistle of Clement to the Corinthians](lbob15.md)  
+[The Second Epistle of Clement to the Corinthians](lbob16.md)  
+[The General Epistle of Barnabas](lbob17.md)  
+[The Epistle of Ignatius to the Ephesians](lbob18.md)  
+[The Epistle of Ignatius to the Magnesians](lbob19.md)  
+[The Epistle of Ignatius to the Trallians](lbob20.md)  
+[The Epistle of Ignatius to the Romans](lbob21.md)  
+[The Epistle of Ignatius to the Philadelphians](lbob22.md)  
+[The Epistle of Ignatius to the Smyrnæans](lbob23.md)  
+[The Epistle of Ignatius to Polycarp](lbob24.md)  
+[The Epistle of Polycarp to the Philippians](lbob25.md)  
+[The Shepherd of Hermas](lbob26.md)  
+[The Second Book of Hermas, Called His Commands](lbob27.md)  
+[The Third Book of Hermas, Which Is Called His Similitudes](lbob28.md)  
+[Letters of Herod and Pilate](lbob29.md)  
+[The Lost Gospel According to Peter](lbob30.md)  
+[Table I.](lbob31.md)  
+[Table II.](lbob32.md)  

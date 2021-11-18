@@ -1,8 +1,8 @@
-[Previous: Helaman](book09)
+[Previous: Helaman](book09.md)
 
-[Next: 4 Nephi](book11)
+[Next: 4 Nephi](book11.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -4465,4 +4465,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: 4 Nephi](book11)
+[Next: 4 Nephi](book11.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca00)  [Next](ntca02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca00)  [Next](ntca02.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ MELBOURNE, *March*, 1898.
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations](ntca02)
+[Next: List of Illustrations](ntca02.md)

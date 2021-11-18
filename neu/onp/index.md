@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index.md)
 
 ------------------------------------------------------------------------
 
@@ -17,24 +17,24 @@ Sagas](../index) [Iceland](../ice/index)
 
 ------------------------------------------------------------------------
 
-[Title Page, etc.](onp00)  
-[CONTENTS](onp01)  
-[INTRODUCTION](onp02)  
-[THE OLD LAY OF BIARKI \[BIARKAMÓL HIN FORNU\]](onp03)  
-[THE LAY OF INGIALD](onp04)  
-[THE LAY OF VÍKAR \[VÍKARSBÁLKR\]](onp05)  
-[HIÁLMAR’S DEATH SONG](onp06)  
-[THE LAY OF HERVOR \[HERVARARKVITRA\]](onp07)  
-[THE LAY OF HLOTH AND ANGANTÝR OR THE BATTLE OF THE HUNS](onp08)  
-[THE LAY OF INNSTEIN](onp09)  
-[HILDIBRAND’S DEATH SONG](onp10)  
+[Title Page, etc.](onp00.md)  
+[CONTENTS](onp01.md)  
+[INTRODUCTION](onp02.md)  
+[THE OLD LAY OF BIARKI \[BIARKAMÓL HIN FORNU\]](onp03.md)  
+[THE LAY OF INGIALD](onp04.md)  
+[THE LAY OF VÍKAR \[VÍKARSBÁLKR\]](onp05.md)  
+[HIÁLMAR’S DEATH SONG](onp06.md)  
+[THE LAY OF HERVOR \[HERVARARKVITRA\]](onp07.md)  
+[THE LAY OF HLOTH AND ANGANTÝR OR THE BATTLE OF THE HUNS](onp08.md)  
+[THE LAY OF INNSTEIN](onp09.md)  
+[HILDIBRAND’S DEATH SONG](onp10.md)  
 [THE LAY OF HAROLD \[HARALDSKVÆTHI OR HRAFNSMÓL\] BY THÓRBIORN
-HORNKLOFI](onp11)  
-[THE LAY OF ERIC \[EIRÍKSMOL\]](onp12)  
+HORNKLOFI](onp11.md)  
+[THE LAY OF ERIC \[EIRÍKSMOL\]](onp12.md)  
 [THE LAY OF HÁKON \[HAKONARMÓL\] BY EYVIND FINNSSON
-SKÁLDASPILLIR](onp13)  
-[THE SONG OF THE VALKYRIES \[DARRA THARLIOTH\]](onp14)  
-[THE CURSE OF BUSLA \[BUSLUBŒN\]](onp15)  
-[THE OATH OF TRUCE \[TRYGGTHAMÓL\]](onp16)  
-[THE RIDDLES OF KING HEITHREK \[HEITHREKSGÁTUR\]](onp17)  
-[THE SUN SONG \[SÓLARLIÓTH\]](onp18)  
+SKÁLDASPILLIR](onp13.md)  
+[THE SONG OF THE VALKYRIES \[DARRA THARLIOTH\]](onp14.md)  
+[THE CURSE OF BUSLA \[BUSLUBŒN\]](onp15.md)  
+[THE OATH OF TRUCE \[TRYGGTHAMÓL\]](onp16.md)  
+[THE RIDDLES OF KING HEITHREK \[HEITHREKSGÁTUR\]](onp17.md)  
+[THE SUN SONG \[SÓLARLIÓTH\]](onp18.md)  

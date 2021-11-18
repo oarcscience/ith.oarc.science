@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dan00)  [Next](eja01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dan00)  [Next](eja01.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ is the last thing we would like to mention about this matter.
 ------------------------------------------------------------------------
 
 [Next: People of The Cave and The Inscription (Seven Sleepers of
-Ephesus)](eja01)
+Ephesus)](eja01.md)

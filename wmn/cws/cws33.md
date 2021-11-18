@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws32)  [Next](cws34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws32)  [Next](cws34.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXIX
 
-#### CONCERNING VICARIOUS ATONEMENT <span id="fr_121"></span>[1](#fn_121)
+#### CONCERNING VICARIOUS ATONEMENT <span id="fr_121"></span>[1](#fn_121.md)
 
 I STOOD in my sleep on the balcony of a house. It was night, and so
 dense and dark and impenetrable that neither earth nor star, nor any
@@ -102,7 +102,7 @@ crucified perpetually so long as sin remains. The saying, 'I am resolved
 to know nothing save this one mystery, Christ Jesus and Him crucified,'
 is the doctrine of Pantheism. For it means that God is in all creatures,
 and they are of God, and God as Adonai suffers in them. <span
-id="fr_122"></span>[1](#fn_122)
+id="fr_122"></span>[1](#fn_122.md)
 
 "Who, then, is Adonai? Adonai is the Dual Word, the manifestation of God
 in Substance, who manifests himself as incarnated
@@ -172,19 +172,19 @@ blue and sunlit, all in the most intense degree. And across it and
 upwards flew an eagle like a flash of lightning before me, and I knew
 that it was intended to signify that with the reproach of innocent blood
 removed from God, and the Divine character vindicated, there is nought
-to check the soul's aspiration. <span id="fr_123"></span>[1](#fn_123)
+to check the soul's aspiration. <span id="fr_123"></span>[1](#fn_123.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_121"></span>[73:1](cws33.htm#fr_121) Paris, January 31,
+<span id="fn_121"></span>[73:1](cws33.htm#fr_121.md) Paris, January 31,
 1880. Referred to in *Life of Anna Kingsford*, vol. i, pp. 323-325.
 
-<span id="fn_122"></span>[75:1](cws33.htm#fr_122) See note
- [4](cws29.htm#fn_113) on p. 68.
+<span id="fn_122"></span>[75:1](cws33.htm#fr_122.md) See note
+ [4](cws29.htm#fn_113.md) on p. 68.
 
-<span id="fn_123"></span>[77:1](cws33.htm#fr_123) Another meaning was,
+<span id="fn_123"></span>[77:1](cws33.htm#fr_123.md) Another meaning was,
 subsequently, shown to Anna Kingsford as the one intended: "Representing
 the return of the inspiring spirit to God, the apparition of the eagle
 was . . . an emphatic declaration of the divinity of the utterance"
@@ -192,4 +192,4 @@ was . . . an emphatic declaration of the divinity of the utterance"
 
 ------------------------------------------------------------------------
 
-[Next: No. XXX: Concerning Paul And The Disciples Of Jesus](cws34)
+[Next: No. XXX: Concerning Paul And The Disciples Of Jesus](cws34.md)

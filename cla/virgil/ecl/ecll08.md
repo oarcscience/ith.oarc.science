@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](ecl08) 
-[Previous](ecll07)  [Next](ecll09) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](ecl08.md) 
+[Previous](ecll07)  [Next](ecll09.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ parcite, ab urbe venit, iam parcite carmina, Daphnis.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue IX.--Moeris](ecll09)
+[Next: Eclogue IX.--Moeris](ecll09.md)

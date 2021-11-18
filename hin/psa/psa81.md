@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa80)  [Next](psa82) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa80)  [Next](psa82.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ world, which is concealed from you."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXI](psa82)
+[Next: Chapter LXXXI](psa82.md)

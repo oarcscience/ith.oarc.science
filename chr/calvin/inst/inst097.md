@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst096)  [Next](inst098) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst096)  [Next](inst098.md) 
 
 ------------------------------------------------------------------------
 
@@ -233,7 +233,7 @@ his continued liberality. To this end, he has given another sacrament to
 his Church by the hand of his only-begotten Son—viz. a spiritual feast,
 at which Christ testifies that he himself is living bread (<span
 id="iv.iv.xviii-p54.1"></span>[John
-6:51](../../../bib/kjv/joh006.htm#051)<span
+6:51](../../../bib/kjv/joh006.htm#051.md)<span
 id="iv.iv.xviii-p54.1"></span>), on which our souls feed, for a true and
 blessed immortality. Now, as the knowledge of this great mystery is most
 necessary, and, in proportion to its importance, demands an accurate
@@ -267,7 +267,7 @@ efficacy of that one sacrifice,—that his blood was once shed for us so
 as to be our perpetual drink. This is the force of the promise which is
 added, “Take, eat; this is my body, which is broken for you” (<span
 id="iv.iv.xviii-p54.2"></span>[Mt.
-26:26](../../../bib/kjv/mat026.htm#026)<span
+26:26](../../../bib/kjv/mat026.htm#026.md)<span
 id="iv.iv.xviii-p54.2"></span>, &c.). The body which was once offered
 for our salvation we are enjoined to take and eat, that, while we see
 ourselves made partakers of it, we may safely conclude that the virtue
@@ -364,7 +364,7 @@ not the efficacy and fruit of his nativity, death, and resurrection,
 eternal. All this Christ has elegantly expressed in these words, “The
 bread that I will give is my flesh, which I will give for the life of
 the world” (<span id="iv.iv.xviii-p58.1"></span>[John
-6:51](../../../bib/kjv/joh006.htm#051)<span
+6:51](../../../bib/kjv/joh006.htm#051.md)<span
 id="iv.iv.xviii-p58.1"></span>); doubtless intimating, that his body
 will be as bread in regard to the spiritual life of the soul, because it
 was to be delivered to death for our salvation, and that he extends it
@@ -402,7 +402,7 @@ is faith, whereas it rather seems to me to be a consequence of faith.
 The difference is little in words, but not little in reality. For,
 although the apostle teaches that Christ dwells in our hearts by faith
 (<span id="iv.iv.xviii-p58.2"></span>[Eph.
-3:17](../../../bib/kjv/eph003.htm#017)<span
+3:17](../../../bib/kjv/eph003.htm#017.md)<span
 id="iv.iv.xviii-p58.2"></span>), no one will interpret that dwelling to
 be faith All see that it explains the admirable effect of faith, because
 to it it is owing that believers have Christ dwelling in them. In this
@@ -427,9 +427,9 @@ passion, and sweetly and usefully to treasure in our memory that his
 flesh was crucified and wounded for us. Also when he says, “These three
 thousand men who were converted at the preaching of Peter (<span
 id="iv.iv.xviii-p59.1"></span>[Acts
-2:41](../../../bib/kjv/act002.htm#041)<span
+2:41](../../../bib/kjv/act002.htm#041.md)<span
 id="iv.iv.xviii-p59.1"></span>), by believing, drank the blood which
-they had cruelly shed.”60  <span id="fr_630"></span>[631](#fn_630) But
+they had cruelly shed.”60  <span id="fr_630"></span>[631](#fn_630.md) But
 in very many other passages he admirably commends faith for this, that
 by means of it our souls are not less refreshed by the communion of the
 blood of Christ, than our bodies with the bread which they eat. The very
@@ -442,7 +442,7 @@ mark of external profession, because I think I sufficiently refuted
 their error when I treated of the sacraments in general (Chap. 14 sec.
 13). Only let my readers observe, that when the cup is called the
 covenant in blood (<span id="iv.iv.xviii-p60.1"></span>[Luke
-22:20](../../../bib/kjv/luk022.htm#020)<span
+22:20](../../../bib/kjv/luk022.htm#020.md)<span
 id="iv.iv.xviii-p60.1"></span>), the promise which tends to confirm
 faith is expressed. Hence it follows, that unless we have respect to
 God, and embrace what he offers, we do not make a right use of the
@@ -500,8 +500,8 @@ for immortality. “I,” says he, “am that bread of life;” “I am the livi
 bread which came down from heaven;” “And the bread that I will give is
 my flesh, which I will give for the life of the world” (<span
 id="iv.iv.xviii-p62.1"></span>[John
-6:48](../../../bib/kjv/joh006.htm#048),
-[51](../../../bib/kjv/joh006.htm#051)<span
+6:48](../../../bib/kjv/joh006.htm#048.md),
+[51](../../../bib/kjv/joh006.htm#051.md)<span
 id="iv.iv.xviii-p62.1"></span>). By these words he declares, not only
 that he is life, inasmuch as he is the eternal Word of God who came down
 to us from heaven, but, by coming down, gave vigour to the flesh which
@@ -523,7 +523,7 @@ of transmitting it to us. In this sense I understand our Saviour’s words
 as Cyril interprets them, “As the Father hath life in himself, so hath
 he given to the Son to have life in himself” (<span
 id="iv.iv.xviii-p63.1"></span>[John
-5:26](../../../bib/kjv/joh005.htm#026)<span
+5:26](../../../bib/kjv/joh005.htm#026.md)<span
 id="iv.iv.xviii-p63.1"></span>). For there properly he is speaking not
 of the properties which he possessed with the Father from the beginning,
 but of those with which he was invested in the flesh in which he
@@ -543,21 +543,21 @@ apostle: The Church is the “body” of Christ; his “fulness.” He is “the
 head,” “from whence the whole body fitly joined together, and compacted
 by that which every joint supplieth,” “maketh increase of the body”
 (<span id="iv.iv.xviii-p63.2"></span>[Eph.
-1:23](../../../bib/kjv/eph001.htm#023)<span
+1:23](../../../bib/kjv/eph001.htm#023.md)<span
 id="iv.iv.xviii-p63.2"></span>; 4:15,16). Our bodies are the “members of
 Christ” (<span id="iv.iv.xviii-p63.3"></span>[1 Cor.
-6:15](../../../bib/kjv/co1006.htm#015)<span
+6:15](../../../bib/kjv/co1006.htm#015.md)<span
 id="iv.iv.xviii-p63.3"></span>). We perceive that all these things
 cannot possibly take place unless he adheres to us wholly in body and
 spirit. But the very close connection which unites us to his flesh, he
 illustrated with still more splendid epithets, when he said that we “are
 members of his body, of his flesh, and of his bones” (<span
 id="iv.iv.xviii-p63.4"></span>[Eph.
-5:30](../../../bib/kjv/eph005.htm#030)<span
+5:30](../../../bib/kjv/eph005.htm#030.md)<span
 id="iv.iv.xviii-p63.4"></span>). At length, to testify that the matter
 is too high for utterance, he concludes with exclaiming, “This is a
 great mystery” (<span id="iv.iv.xviii-p63.5"></span>[Eph.
-5:32](../../../bib/kjv/eph005.htm#032)<span
+5:32](../../../bib/kjv/eph005.htm#032.md)<span
 id="iv.iv.xviii-p63.5"></span>). It were, therefore, extreme infatuation
 not to acknowledge the communion of believers with the body and blood of
 the Lord, a communion which the apostle declares to be so great, that he
@@ -587,7 +587,7 @@ the apostle said, “The cup of blessing which we bless, is it not the
 communion of the blood of Christ? The bread which we break, is it not
 the communion of the body of Christ”? (<span
 id="iv.iv.xviii-p64.1"></span>[1 Cor.
-10:16](../../../bib/kjv/co1010.htm#016)<span
+10:16](../../../bib/kjv/co1010.htm#016.md)<span
 id="iv.iv.xviii-p64.1"></span>.) There is no ground to object that the
 expression is figurative, and gives the sign the name of the thing
 signified. I admit, indeed, that the breaking of bread is a symbol, not
@@ -666,7 +666,7 @@ Scripture, when it speaks of our participation with Christ, refers its
 whole efficacy to the Spirit. Instead of many, one passage will suffice.
 Paul, in the Epistle to the Romans (<span
 id="iv.iv.xviii-p66.1"></span>[Rom.
-8:9-11](../../../bib/kjv/rom008.htm#009)<span
+8:9-11](../../../bib/kjv/rom008.htm#009.md)<span
 id="iv.iv.xviii-p66.1"></span>), shows that the only way in which Christ
 dwells in us is by his Spirit. By this, however, he does not take away
 that communion of flesh and blood of which we now speak, but shows that
@@ -704,7 +704,7 @@ Hence we see, that all which they have gained by their ingenious
 subtlety is to make bread to be regarded as God.
 
 <span id="iv.iv.xviii-p68"></span>14. Hence proceeded that fictitious
-transubstantiation  <span id="fr_631"></span>[632](#fn_631) for which
+transubstantiation  <span id="fr_631"></span>[632](#fn_631.md) for which
 they fight more fiercely in the present day than for all the other
 articles of their faith. For the first architects of local presence
 could not explain, how the body of Christ could be mixed with the
@@ -786,7 +786,7 @@ gushing from the rock in the desert was to the Israelites a badge and
 sign of the same thing that is figured to us in the Supper by wine. For
 Paul declares that they drank the same spiritual drink (<span
 id="iv.iv.xviii-p70.1"></span>[1 Cor.
-10:4](../../../bib/kjv/co1010.htm#004)<span
+10:4](../../../bib/kjv/co1010.htm#004.md)<span
 id="iv.iv.xviii-p70.1"></span>). But the water was common to the herds
 and flocks of the people. Hence it is easy to infer, that in the earthly
 elements, when employed for a spiritual use, no other conversion takes
@@ -820,7 +820,7 @@ since his rod swallows up all the other rods. But as that conversion was
 visible to the eye, we have already observed, that it has no reference
 to the case in hand. Shortly after the rod visibly resumed its form. It
 may be added, that we know not whether this was an extemporary
-conversion of substance.60  <span id="fr_632"></span>[633](#fn_632) For
+conversion of substance.60  <span id="fr_632"></span>[633](#fn_632.md) For
 we must attend to the illusion to the rods of the magicians, which the
 prophet did not choose to term serpents, lest he might seem to insinuate
 a conversion which had no existence, because those impostors had done
@@ -844,7 +844,7 @@ cruelty of his enemies his bread was infected with bitterness, as David
 by a similar figure complains, “They gave me also gall for my meat: and
 in my thirst they gave me vinegar to drink” (<span
 id="iv.iv.xviii-p71.1"></span>[Psalm
-69:21](../../../bib/kjv/psa069.htm#021)<span
+69:21](../../../bib/kjv/psa069.htm#021.md)<span
 id="iv.iv.xviii-p71.1"></span>). These men would allegorise the
 expression to mean, that the body of Christ was nailed to the wood of
 the cross. But some of the Fathers thought so! As if we ought not rather
@@ -863,7 +863,7 @@ annexed, because the truth is inseparable from its sign, I would not
 greatly object. But because fixing the body itself in the bread, they
 attach to it an ubiquity contrary to its nature, and by adding *under*
 the bread, will have it that it lies hid under it,  <span
-id="fr_633"></span>[634](#fn_633) I must employ a short time in exposing
+id="fr_633"></span>[634](#fn_633.md) I must employ a short time in exposing
 their craft, and dragging them forth from their concealments. Here,
 however, it is not my intention professedly to discuss the whole case; I
 mean only to lay the foundations of a discussion which will afterwards
@@ -900,14 +900,14 @@ the words say that he gave the mortal body, which was to be delivered
 shortly after? But, say they, he had previously manifested his glory to
 the three disciples on the mount (<span
 id="iv.iv.xviii-p74.1"></span>[Mt.
-17:2](../../../bib/kjv/mat017.htm#002)<span
+17:2](../../../bib/kjv/mat017.htm#002.md)<span
 id="iv.iv.xviii-p74.1"></span>). This is true; but his purpose was to
 give them for the time a taste of immortality. Still they cannot find
 there a twofold body, but only the one which he had assumed, arrayed in
 new glory. When he distributed his body in the first Supper, the hour
 was at hand in which he was “stricken, smitten of God, and afflicted”
 (<span id="iv.iv.xviii-p74.2"></span>[Isa.
-53:4](../../../bib/kjv/isa053.htm#004)<span
+53:4](../../../bib/kjv/isa053.htm#004.md)<span
 id="iv.iv.xviii-p74.2"></span>). So far was he from intending at that
 time to exhibit the glory of his resurrection. And here what a door is
 opened to Marcion, if the body of Christ was seen humble and mortal in
@@ -990,15 +990,15 @@ eat: this is my body which is given or broken for you. Of the cup,
 Matthew and Mark say, “This is my blood of the new testament, which is
 shed for many for the remission of sins” (<span
 id="iv.iv.xviii-p77.1"></span>[Mt.
-26:26](../../../bib/kjv/mat026.htm#026)<span
+26:26](../../../bib/kjv/mat026.htm#026.md)<span
 id="iv.iv.xviii-p77.1"></span>; <span
 id="iv.iv.xviii-p77.2"></span>[Mark
-14:22](../../../bib/kjv/mar014.htm#022)<span
+14:22](../../../bib/kjv/mar014.htm#022.md)<span
 id="iv.iv.xviii-p77.2"></span>). Luke and Paul say, “This cup is the new
 testament in my blood” (<span id="iv.iv.xviii-p77.3"></span>[Luke
-22:20](../../../bib/kjv/luk022.htm#020)<span
+22:20](../../../bib/kjv/luk022.htm#020.md)<span
 id="iv.iv.xviii-p77.3"></span>; <span id="iv.iv.xviii-p77.4"></span>[1
-Cor. 11:25](../../../bib/kjv/co1011.htm#025)<span
+Cor. 11:25](../../../bib/kjv/co1011.htm#025.md)<span
 id="iv.iv.xviii-p77.4"></span>). The advocates of transubstantiation
 insist, that by the pronoun, *this*, is denoted the appearance of bread,
 because the whole complexion of our Saviour’s address is an act of
@@ -1082,12 +1082,12 @@ understand the expressions, that circumcision is a “covenant”—that the
 lamb is the Lord’s “passover”—that the sacrifices of the law are
 expiations—that the rock from which the water flowed in the desert was
 Christ,—unless you interpret them metonymically.”60  <span
-id="fr_634"></span>[635](#fn_634) Nor is the name merely transferred
+id="fr_634"></span>[635](#fn_634.md) Nor is the name merely transferred
 from the superior to the inferior, but, on the contrary, the name of the
 visible sign is given to the thing signified, as when God is said to
 have appeared to Moses in the bush; the ark of the covenant is called
 God, and the face of God, and the dove is called the Holy Spirit.60
- <span id="fr_635"></span>[636](#fn_635) For although the sign differs
+ <span id="fr_635"></span>[636](#fn_635.md) For although the sign differs
 essentially from the thing signified, the latter being spiritual and
 heavenly, the former corporeal and visible,—yet, as it not only figures
 the thing which it is employed to represent as a naked and empty badge,
@@ -1107,7 +1107,7 @@ things, there is also, in this metonymy, a certain community in all
 respects between them. As, therefore, the apostle says that the rock
 from which spiritual water flowed forth to the Israelites was Christ
 (<span id="iv.iv.xviii-p80.4"></span>[1 Cor.
-10:4](../../../bib/kjv/co1010.htm#004)<span
+10:4](../../../bib/kjv/co1010.htm#004.md)<span
 id="iv.iv.xviii-p80.4"></span>), and was thus a visible symbol under
 which, that spiritual drink was truly perceived, though not by the eye,
 so the body of Christ is now called bread, inasmuch as it is a symbol
@@ -1129,14 +1129,14 @@ quibble to object that there is no mention of the Supper. Were this
 objection sustained, it would follow, that we are not entitled to argue
 from the genus to the species; *e. g.*, Every animal is endued with
 motion; and, therefore, the horse and the ox are endued with motion.61
- <span id="fr_636"></span>[637](#fn_636) Indeed, longer discussion is
+ <span id="fr_636"></span>[637](#fn_636.md) Indeed, longer discussion is
 rendered unnecessary by the words of the Saint himself, where he says,
 that when Christ gave the symbol of his body, he did not hesitate to
 call it his body (August. Cont. Adimantum, cap. 12). He elsewhere says,
 “Wonderful was the patience of Christ in admitting Judas to the feast,
 in which he committed and delivered to the disciples the symbol of his
 body and blood” (August. in. <span id="iv.iv.xviii-p81.1"></span>[Ps.
-3](../../../bib/kjv/psa003.htm#000)<span
+3](../../../bib/kjv/psa003.htm#000.md)<span
 id="iv.iv.xviii-p81.1"></span>).
 
 <span id="iv.iv.xviii-p82"></span>22. Should any morose person, shutting
@@ -1146,24 +1146,24 @@ say that the substantive verb is so emphatic, as to leave no room for
 interpretation. Though I should admit this, I answer, that the
 substantive verb occurs in the words of Paul (<span
 id="iv.iv.xviii-p82.1"></span>[1 Cor.
-10:16](../../../bib/kjv/co1010.htm#016)<span
+10:16](../../../bib/kjv/co1010.htm#016.md)<span
 id="iv.iv.xviii-p82.1"></span>), where he calls the bread the
 *communion* of the body of Christ. But communion is something different
 from the body itself. Nay, when the sacraments are treated of, the same
 word occurs: “My covenant shall be in your flesh for an everlasting
 covenant” (<span id="iv.iv.xviii-p82.2"></span>[Gen.
-17:13](../../../bib/kjv/gen017.htm#013)<span
+17:13](../../../bib/kjv/gen017.htm#013.md)<span
 id="iv.iv.xviii-p82.2"></span>). “This is the ordinance of the passover”
 (<span id="iv.iv.xviii-p82.3"></span>[Exod.
-12:43](../../../bib/kjv/exo012.htm#043)<span
+12:43](../../../bib/kjv/exo012.htm#043.md)<span
 id="iv.iv.xviii-p82.3"></span>). To say no more, when Paul declares that
 the rock was Christ (<span id="iv.iv.xviii-p82.4"></span>[1 Cor.
-10:4](../../../bib/kjv/co1010.htm#004)<span
+10:4](../../../bib/kjv/co1010.htm#004.md)<span
 id="iv.iv.xviii-p82.4"></span>), why should the substantive verb, in
 that passage, be deemed less emphatic than in the discourse of Christ?
 When John says, “The Holy Ghost was not yet given, because that Jesus
 was not yet glorified” (<span id="iv.iv.xviii-p82.5"></span>[John
-7:39](../../../bib/kjv/joh007.htm#039)<span
+7:39](../../../bib/kjv/joh007.htm#039.md)<span
 id="iv.iv.xviii-p82.5"></span>), I should like to know what is the force
 of the substantive verb? If the rule of our opponents is rigidly
 observed, the eternal essence of the Spirit will be destroyed, as if he
@@ -1171,13 +1171,13 @@ had only begun to be after the ascension of Christ. Let them tell me, in
 fine, what is meant by the declaration of Paul, that baptism is “the
 washing of regeneration, and renewing of the Holy Ghost” (<span
 id="iv.iv.xviii-p82.6"></span>[Tit.
-3:5](../../../bib/kjv/tit003.htm#005)<span
+3:5](../../../bib/kjv/tit003.htm#005.md)<span
 id="iv.iv.xviii-p82.6"></span>); though it is certain that to many it
 was of no use. But they cannot be more effectually refuted than by the
 expression of Paul, that the Church is Christ. For, after introducing
 the similitude of the human body, he adds, “So also is Christ” (<span
 id="iv.iv.xviii-p82.7"></span>[1 Cor.
-7:12](../../../bib/kjv/co1007.htm#012)<span
+7:12](../../../bib/kjv/co1007.htm#012.md)<span
 id="iv.iv.xviii-p82.7"></span>), when he means not the only-begotten Son
 of God in himself, but in his members. I think I have now gained this
 much, that all men of sense and integrity will be disgusted with the
@@ -1215,8 +1215,8 @@ body figuratively, as being a symbol of the body, the extraordinary
 nature of the thing would doubtless have filled them with perplexity.
 For, at this very period, John relates, that the slightest difficulties
 perplexed them (<span id="iv.iv.xviii-p83.1"></span>[John
-14:5](../../../bib/kjv/joh014.htm#005),
-[8](../../../bib/kjv/joh014.htm#008)<span
+14:5](../../../bib/kjv/joh014.htm#005.md),
+[8](../../../bib/kjv/joh014.htm#008.md)<span
 id="iv.iv.xviii-p83.1"></span>; 16:17). They debate, among themselves,
 how Christ is to go to the Father, and not understanding that the things
 which were said referred to the heavenly Father, raise a question as to
@@ -1239,7 +1239,7 @@ wine blood. There must either be a confusion in terms, or there must be
 a division separating the body from the blood. Nay, “This is my body,”
 may be as truly affirmed of the cup as of the bread; and it may in turn
 be affirmed that the bread is the blood.61  <span
-id="fr_637"></span>[638](#fn_637) If they answer, that we must look to
+id="fr_637"></span>[638](#fn_637.md) If they answer, that we must look to
 the end or use for which symbols were instituted, I admit it: but still
 they will not disencumber themselves of the absurdity which their error
 drags along with it—viz. that the bread is blood, and the wine is body.
@@ -1259,7 +1259,7 @@ are faithfully and accurately expounded by us.
 completely wiped away without disposing of another charge. They give out
 that we are so wedded to human reason, that we attribute nothing more to
 the power of God than the order of nature admits, and common sense
-dictates.61  <span id="fr_638"></span>[639](#fn_638) From these wicked
+dictates.61  <span id="fr_638"></span>[639](#fn_638.md) From these wicked
 calumnies, I appeal to the doctrine which I have delivered,—a doctrine
 which makes it sufficiently clear that I by no means measure this
 mystery by the capacity of human reason, or subject it to the laws of
@@ -1291,7 +1291,7 @@ The question here is not, What could God do? but, What has he been
 pleased to do? We affirm that he has done what pleased him, and it
 pleased him that Christ should be in all respects like his brethren,
 “yet without sin” (<span id="iv.iv.xviii-p86.1"></span>[Heb.
-4:15](../../../bib/kjv/heb004.htm#015)<span
+4:15](../../../bib/kjv/heb004.htm#015.md)<span
 id="iv.iv.xviii-p86.1"></span>). What is our flesh? Is it not that which
 consists of certain dimensions? is confined within a certain place? is
 touched and seen? And why, say they, may not God make the same flesh
@@ -1320,11 +1320,11 @@ corporeal; just as Marcion and the Manichees had it when they made the
 body of Christ celestial or phantastical. They quoted the passages, “The
 first man is of the earth, earthy; the second man is the Lord from
 heaven” (<span id="iv.iv.xviii-p87.1"></span>[1 Cor.
-15:47](../../../bib/kjv/co1015.htm#047)<span
+15:47](../../../bib/kjv/co1015.htm#047.md)<span
 id="iv.iv.xviii-p87.1"></span>): Christ “made himself of no reputation,
 and took upon him the form of a servant, and was made in the likeness of
 men” (<span id="iv.iv.xviii-p87.2"></span>[Phil.
-2:7](../../../bib/kjv/phi002.htm#007)<span
+2:7](../../../bib/kjv/phi002.htm#007.md)<span
 id="iv.iv.xviii-p87.2"></span>). But these vain boasters think that
 there is no power of God unless they fabricate a monster in their own
 brains, by which the whole order of nature is subverted. This rather is
@@ -1345,7 +1345,7 @@ Christ; I answer, as I lately did, that in the mysteries of faith we do
 not consult common apprehension, but, with the placid docility and
 spirit of meekness which James recommends (<span
 id="iv.iv.xviii-p87.3"></span>[James
-1:21](../../../bib/kjv/jam001.htm#021)<span
+1:21](../../../bib/kjv/jam001.htm#021.md)<span
 id="iv.iv.xviii-p87.3"></span>), receive the doctrine which has come
 from heaven. Wherein they perniciously err, I am confident that we
 follow a proper moderation. On hearing the words of Christ, this is my
@@ -1354,7 +1354,7 @@ from this fiction, the grossest absurdities arise, having already, by
 their precipitate haste, entangled themselves with snares, they plunge
 themselves into the abyss of the divine omnipotence, that, in this way,
 they may extinguish the light of truth.61  <span
-id="fr_639"></span>[640](#fn_639) Hence the supercilious moroseness. We
+id="fr_639"></span>[640](#fn_639.md) Hence the supercilious moroseness. We
 have no wish to know how Christ is hid under the bread: we are satisfied
 with his own words, “This is my body.” We again study, with no less
 obedience than care, to obtain a sound understanding of this passage, as
@@ -1370,7 +1370,7 @@ versant in Scripture know to be perpetually used with regard to the
 sacraments. Still, in a matter of difficulty, we deem it not unlawful to
 inquire, after the example of the blessed Virgin, “How shall this be?”
 (<span id="iv.iv.xviii-p88.2"></span>[Luke
-1:34](../../../bib/kjv/luk001.htm#034)<span
+1:34](../../../bib/kjv/luk001.htm#034.md)<span
 id="iv.iv.xviii-p88.2"></span>).
 
 <span id="iv.iv.xviii-p89"></span>26. But as nothing will be more
@@ -1383,8 +1383,8 @@ the last day. I am not unaware how confidently our opponents evade the
 passages which are quoted to this effect. Whenever Christ says that he
 will leave the world and go away (<span
 id="iv.iv.xviii-p89.1"></span>[John
-14:2](../../../bib/kjv/joh014.htm#002),
-[28](../../../bib/kjv/joh014.htm#028)<span
+14:2](../../../bib/kjv/joh014.htm#002.md),
+[28](../../../bib/kjv/joh014.htm#028.md)<span
 id="iv.iv.xviii-p89.1"></span>), they reply, that that departure was
 nothing more than a change of mortal state. Were this so, Christ would
 not substitute the Holy Spirit, to supply, as they express it, the
@@ -1396,7 +1396,7 @@ it necessarily follows that Christ dwells with us according to the
 flesh, in the same way as that in which he sends his Spirit. Moreover,
 he distinctly says that he would not always be in the world with his
 disciples (<span id="iv.iv.xviii-p89.2"></span>[Mt.
-26:11](../../../bib/kjv/mat026.htm#011)<span
+26:11](../../../bib/kjv/mat026.htm#011.md)<span
 id="iv.iv.xviii-p89.2"></span>). This saving, also, they think they
 admirably dispose of, as if it were a denial by Christ that he would
 always be poor and mean, or liable to the necessities of a fading life.
@@ -1413,7 +1413,7 @@ spoke of his bodily presence. In regard to his majesty, in regard to his
 providence, in regard to his ineffable and invisible grace, is fulfilled
 what he said: “Lo, I am with you alway, even unto the end of the world”
 (<span id="iv.iv.xviii-p89.3"></span>[Mt.
-28:20](../../../bib/kjv/mat028.htm#020)<span
+28:20](../../../bib/kjv/mat028.htm#020.md)<span
 id="iv.iv.xviii-p89.3"></span>); but in regard to the flesh which the
 Word assumed—in regard to that which was born of the Virgin—in regard to
 that which was apprehended by the Jews, nailed to the tree, suspended on
@@ -1455,7 +1455,7 @@ into the air, and the interposing cloud shows that he is no more to be
 sought on earth, we safely infer that his dwelling now is in the
 heavens, as Paul also asserts, bidding us look for him from thence
 (<span id="iv.iv.xviii-p90.1"></span>[Phil.
-3:20](../../../bib/kjv/phi003.htm#020)<span
+3:20](../../../bib/kjv/phi003.htm#020.md)<span
 id="iv.iv.xviii-p90.1"></span>). For this reason, the angels remind the
 disciples that it is vain to keep gazing up into heaven, because Jesus,
 who was taken up, would come in like manner as they had seen him ascend.
@@ -1477,7 +1477,7 @@ attempt I will briefly explain. Pious and learned men have collected the
 passages, and therefore I am unwilling to plead a concluded cause: any
 one who wishes may consult their writings. I will not even collect from
 Augustine what might be pertinent to the matter,61  <span
-id="fr_640"></span>[641](#fn_640) but will be contented to show briefly,
+id="fr_640"></span>[641](#fn_640.md) but will be contented to show briefly,
 that without all controversy he is wholly ours. The pretence of our
 opponents, when they would wrest him from us, that throughout his works
 the flesh and blood of Christ are said to be dispensed in the
@@ -1574,7 +1574,7 @@ dispensation. The beautiful consistency of this may easily be judged,
 both from other passages of Scripture, and from the testimony of Peter.
 Peter says that the heavens must receive, or contain Christ, till he
 come again (<span id="iv.iv.xviii-p93.1"></span>[Acts
-3:21](../../../bib/kjv/act003.htm#021)<span
+3:21](../../../bib/kjv/act003.htm#021.md)<span
 id="iv.iv.xviii-p93.1"></span>). These men teach that he is in every
 place, but without form. They say that it is unfair to subject a
 glorious body to the ordinary laws of nature. But this answer draws
@@ -1590,11 +1590,11 @@ nature of body with its proper dimensions, and where is its unity? Far
 more correct is Tertullian, who contends that the body of Christ was
 natural and real, because its figure is set before us in the mystery of
 the Supper, as a pledge and assurance of spiritual life (Tertull. Cont.
-Marc. Lib. 4).61  <span id="fr_641"></span>[642](#fn_641) And certainly
+Marc. Lib. 4).61  <span id="fr_641"></span>[642](#fn_641.md) And certainly
 Christ said of his glorified body, “Handle me, and see; for a spirit
 hath not flesh and bones, as ye see me have” (<span
 id="iv.iv.xviii-p94.1"></span>[Luke
-24:39](../../../bib/kjv/luk024.htm#039)<span
+24:39](../../../bib/kjv/luk024.htm#039.md)<span
 id="iv.iv.xviii-p94.1"></span>). Here, by the lips of Christ himself,
 the reality of his flesh is proved, by its admitting of being seen and
 handled. Take these away, and it will cease to be flesh. They always
@@ -1609,8 +1609,8 @@ which Paul says, that “our conversation is in heaven; from whence we
 look for the Saviour, the Lord Jesus Christ: who shall change our vile
 body, that it may be fashioned like unto his glorious body” (<span
 id="iv.iv.xviii-p94.2"></span>[Phil.
-3:20](../../../bib/kjv/phi003.htm#020),
-[21](../../../bib/kjv/phi003.htm#021)<span
+3:20](../../../bib/kjv/phi003.htm#020.md),
+[21](../../../bib/kjv/phi003.htm#021.md)<span
 id="iv.iv.xviii-p94.2"></span>). We are not to hope for conformity to
 Christ in these qualities which they ascribe to him as a body, without
 bounds, and invisible. They will not find any one so stupid as to be
@@ -1638,7 +1638,7 @@ Christ conjoined with them may stop short at the symbol? But our Lord
 himself wished us to withdraw not only our eyes, but all our senses,
 from the earth, forbidding the woman to touch him until he had ascended
 to the Father (<span id="iv.iv.xviii-p94.3"></span>[John
-20:17](../../../bib/kjv/joh020.htm#017)<span
+20:17](../../../bib/kjv/joh020.htm#017.md)<span
 id="iv.iv.xviii-p94.3"></span>). When he sees Mary, with pious
 reverential zeal, hastening to kiss his feet, there could be no reason
 for his disapproving and forbidding her to touch him before he had
@@ -1650,15 +1650,15 @@ heaven. The same account is to be given of the case of Paul. The
 objection, that Christ came forth from the closed sepulchre, and came in
 to his disciples while the doors were shut (<span
 id="iv.iv.xviii-p94.4"></span>[Mt.
-28:6](../../../bib/kjv/mat028.htm#006)<span
+28:6](../../../bib/kjv/mat028.htm#006.md)<span
 id="iv.iv.xviii-p94.4"></span>; <span
 id="iv.iv.xviii-p94.5"></span>[John
-20:19](../../../bib/kjv/joh020.htm#019)<span
+20:19](../../../bib/kjv/joh020.htm#019.md)<span
 id="iv.iv.xviii-p94.5"></span>), gives no better support to their error.
 For as the water, just as if it had been a solid pavement, furnished a
 path to our Saviour when he walked on it (<span
 id="iv.iv.xviii-p94.6"></span>[Mt.
-14](../../../bib/kjv/mat014.htm#000)<span
+14](../../../bib/kjv/mat014.htm#000.md)<span
 id="iv.iv.xviii-p94.6"></span>.), so it is not strange that the hard
 stone yielded to his step; although it is more probable that the stone
 was removed at his command, and forthwith, after giving him a passage,
@@ -1669,7 +1669,7 @@ miraculous manner. They gain nothing by quoting the passage from Luke,
 in which it is said, that Christ suddenly vanished from the eyes of the
 disciples, with whom he had journed to Emmaus (<span
 id="iv.iv.xviii-p94.7"></span>[Luke
-24:31](../../../bib/kjv/luk024.htm#031)<span
+24:31](../../../bib/kjv/luk024.htm#031.md)<span
 id="iv.iv.xviii-p94.7"></span>). In withdrawing from their sight, he did
 not become invisible: he only disappeared. Thus Luke declares that, on
 the journeying with them, he did not assume a new form, but that “ their
@@ -1697,7 +1697,7 @@ with Christ could not exist, unless he dwells in us corporeally,
 independently of the use of the Supper; and, therefore, they have no
 good ground for disputing so bitterly concerning the words of Christ, in
 order to include him under the bread in the Supper.61  <span
-id="fr_642"></span>[643](#fn_642) Secondly, the context proves that
+id="fr_642"></span>[643](#fn_642.md) Secondly, the context proves that
 Christ is not speaking at all of his flesh, but promising the disciples
 his invincible aid to guard and sustain them against all the assaults of
 Satan and the world. For, in appointing them to a difficult office, he
@@ -1720,23 +1720,23 @@ they will not have the hardihood to deny. It is strange that they attend
 not to the cause of condemnation—viz. that destroying the distinction
 between the natures, and insisting only on the unity of person, he
 converted God into man and man into God.61  <span
-id="fr_643"></span>[644](#fn_643) What madness, then, is it to confound
+id="fr_643"></span>[644](#fn_643.md) What madness, then, is it to confound
 heaven with earth, sooner than not withdraw the body of Christ from its
 heavenly sanctuary? In regard to the passages which they adduce, “No man
 has ascended up to heaven, but he that came down from heaven, even the
 Son of man which is in heaven” (<span
 id="iv.iv.xviii-p97.1"></span>[John
-3:13](../../../bib/kjv/joh003.htm#013)<span
+3:13](../../../bib/kjv/joh003.htm#013.md)<span
 id="iv.iv.xviii-p97.1"></span>); “The only-begotten Son, who is in the
 bosom of the Father, he hath declared him” (<span
 id="iv.iv.xviii-p97.2"></span>[John
-1:18](../../../bib/kjv/joh001.htm#018)<span
+1:18](../../../bib/kjv/joh001.htm#018.md)<span
 id="iv.iv.xviii-p97.2"></span>), they betray the same stupidity,
 scouting the communion of properties (*idiomatum*, κοινωνίαν), which not
 without reason was formerly invented by holy Fathers. Certainly when
 Paul says of the princes of this world that they “crucified the Lord of
 glory” (<span id="iv.iv.xviii-p97.3"></span>[1 Cor.
-2:8](../../../bib/kjv/co1002.htm#008)<span
+2:8](../../../bib/kjv/co1002.htm#008.md)<span
 id="iv.iv.xviii-p97.3"></span>), he means not that he suffered anything
 in his divinity, but that Christ, who was rejected and despised, and
 suffered in the flesh, was likewise God and the Lord of glory. In this
@@ -1787,7 +1787,7 @@ the reality of his human nature. Since they must also be repugnant to
 the word of God, which teaches both that Christ was received into the
 glory of the heavenly kingdom, so as to be exalted above all the
 circumstances of the world (<span id="iv.iv.xviii-p99.1"></span>[Luke
-24:26](../../../bib/kjv/luk024.htm#026)<span
+24:26](../../../bib/kjv/luk024.htm#026.md)<span
 id="iv.iv.xviii-p99.1"></span>), and no less carefully ascribes to him
 the properties belonging to a true human nature. This ought not to seem
 incredible or contradictory to reason (Iren. Lib. 4 cap. 34); because,
@@ -1811,14 +1811,14 @@ that mixture or transfusion of the flesh of Christ with our soul, which
 they teach, I repudiate, because it is enough for us that Christ, out of
 the substance of his flesh, breathes life into our souls, nay, diffuses
 his own life into us, though the real flesh of Christ does not enter
-us.61  <span id="fr_644"></span>[645](#fn_644) I may add, that there can
+us.61  <span id="fr_644"></span>[645](#fn_644.md) I may add, that there can
 be no doubt that the analogy of faith by which Paul enjoins us to test
 every interpretation of Scripture, is clearly with us in this matter.
 Let those who oppose a truth so clear, consider to what standard of
 faith they conform themselves: “Ever spirit that confesseth not that
 Jesus Christ is come in the flesh is not of God” ((<span
 id="iv.iv.xviii-p100.1"></span>[1 John
-4:3](../../../bib/kjv/jo1004.htm#003)<span
+4:3](../../../bib/kjv/jo1004.htm#003.md)<span
 id="iv.iv.xviii-p100.1"></span>); 2 John ver. 7). These men, though they
 disguise the fact, or perceive it not, rob him of his flesh.
 
@@ -1876,7 +1876,7 @@ body, as lifeless and without any vigour, is prostituted to unbelievers.
 This is clearly repugnant to his words, “He that eateth my flesh, and
 drinketh my blood, dwelleth in me, and I in him” (<span
 id="iv.iv.xviii-p101.1"></span>[John
-6:56](../../../bib/kjv/joh006.htm#056)<span
+6:56](../../../bib/kjv/joh006.htm#056.md)<span
 id="iv.iv.xviii-p101.1"></span>). They object that he is not there
 speaking of sacramental eating; this I admit, provided they will not
 ever and anon stumble on this stone, that his flesh itself is eaten
@@ -1915,7 +1915,7 @@ read that they bring death upon themselves by receiving Christ
 unworthily, but by rejecting him. They are not aided by the parable in
 which Christ says, that the seed which fell among thorns sprung up, but
 was afterwards choked (<span id="iv.iv.xviii-p101.2"></span>[Mt.
-13:7](../../../bib/kjv/mat013.htm#007)<span
+13:7](../../../bib/kjv/mat013.htm#007.md)<span
 id="iv.iv.xviii-p101.2"></span>), because he is there speaking of the
 effect of a temporary faith, a faith which those who place Judas in this
 respect on a footing with Peter, do not think necessary to the eating of
@@ -1932,7 +1932,7 @@ ingrafted, may be more and more united to him, until the union is
 completed in heaven. They object, that Paul could not have made them
 guilty of the body and blood of the Lord if they had not partaken of
 them (<span id="iv.iv.xviii-p101.3"></span>[1 Cor.
-11:7](../../../bib/kjv/co1011.htm#007)<span
+11:7](../../../bib/kjv/co1011.htm#007.md)<span
 id="iv.iv.xviii-p101.3"></span>); I answer, that they were not condemned
 for having eaten. but only for having profaned the ordinance by
 trampling under foot the pledge, which they ought to have reverently
@@ -1940,7 +1940,7 @@ received, the pledge of sacred union with God.
 
 <span id="iv.iv.xviii-p102"></span>34. Moreover, as among ancient
 writers, Augustine especially maintaine  <span
-id="fr_645"></span>[646](#fn_645) this head of doctrine, that the grace
+id="fr_645"></span>[646](#fn_645.md) this head of doctrine, that the grace
 figured by the sacraments is not impaired or made void by the infidelity
 or malice of men, it will be useful to prove clearly from his words, how
 ignorantly and erroneously those who cast forth the body of Christ to be
@@ -1950,7 +1950,7 @@ blood of Christ without the agency of the Spirit, or any gracious
 effect. Augustine, on the contrary, prudently pondering the expression.
 “Whoso eateth my flesh, and drinketh my blood, hath eternal life ”
 (<span id="iv.iv.xviii-p103.1"></span>[John
-6:54](../../../bib/kjv/joh006.htm#054)<span
+6:54](../../../bib/kjv/joh006.htm#054.md)<span
 id="iv.iv.xviii-p103.1"></span>), says: “That is the virtue of the
 sacrament, and not merely the visible sacrament: the sacrament of him
 who eats inwardly, not of him who eats outwardly, or merely with the
@@ -2002,7 +2002,7 @@ time the members of Christ and the members of a harlot. In fine, when
 Christ himself says, ‘He that eateth my flesh, and drinketh my blood,
 dwelleth in me, and I in him’ (<span
 id="iv.iv.xviii-p103.2"></span>[John
-6:56](../../../bib/kjv/joh006.htm#056)<span
+6:56](../../../bib/kjv/joh006.htm#056.md)<span
 id="iv.iv.xviii-p103.2"></span>), he shows what it is to eat the body of
 Christ, not sacramentally, but in reality. It is to abide in Christ,
 that Christ may abide in him. For it is just as if he had said, Let not
@@ -2036,7 +2036,7 @@ not to eat this body which you see, nor to drink the blood which will be
 shed by those who are to crucify me? I have committed a certain
 sacrament to you: it is the spiritual meaning which will give you life”
 (August. in <span id="iv.iv.xviii-p103.3"></span>[Ps.
-98](../../../bib/kjv/psa098.htm#000)<span
+98](../../../bib/kjv/psa098.htm#000.md)<span
 id="iv.iv.xviii-p103.3"></span>). He certainly meant not to deny that
 the body offered in the Supper is the same as that which Christ offered
 in sacrifice; but he adverted to the mode of eating—viz. that the body,
@@ -2097,12 +2097,12 @@ that they sat down, took and ate. They have the practice of the
 apostolic Church, where, as Luke relates, believers communicated not in
 adoration, but in the breaking of bread (<span
 id="iv.iv.xviii-p104.1"></span>[Acts
-2:42](../../../bib/kjv/act002.htm#042)<span
+2:42](../../../bib/kjv/act002.htm#042.md)<span
 id="iv.iv.xviii-p104.1"></span>). They have the doctrine of the apostles
 as taught to the Corinthian Church by Paul, who declares that what he
 delivered he had received of the Lord (<span
 id="iv.iv.xviii-p104.2"></span>[1 Cor.
-11:23](../../../bib/kjv/co1011.htm#023)<span
+11:23](../../../bib/kjv/co1011.htm#023.md)<span
 id="iv.iv.xviii-p104.2"></span>).
 
 <span id="iv.iv.xviii-p105"></span>36. The object of these remarks is to
@@ -2126,7 +2126,7 @@ might make us abandon all carnal thoughts of him, whenever it makes
 mention of him, enjoins us to raise our minds upwards and seek him in
 heaven, seated at the right hand of the Father (<span
 id="iv.iv.xviii-p105.1"></span>[Col.
-3:2](../../../bib/kjv/col003.htm#002)<span
+3:2](../../../bib/kjv/col003.htm#002.md)<span
 id="iv.iv.xviii-p105.1"></span>). According to this rule, we should
 rather have adored him spiritually in the heavenly glory, than devised
 that perilous species of adoration replete with gross and carnal ideas
@@ -2165,7 +2165,7 @@ the former is so included under the latter, that it cannot possibly be
 separated from it. This will be made clearer by an example. God gave a
 command when he said, “Call upon me,” and added a promise, “I will
 deliver thee” (<span id="iv.iv.xviii-p106.1"></span>[Psal.
-50:15](../../../bib/kjv/psa050.htm#015)<span
+50:15](../../../bib/kjv/psa050.htm#015.md)<span
 id="iv.iv.xviii-p106.1"></span>). Should any one invoke Peter or Paul,
 and found on this promise, will not all exclaim that he does it in
 error? And what else, pray, do those do who, disregarding the command to
@@ -2184,7 +2184,7 @@ thanksgiving. Accordingly, when he delivered the institution of the
 sacrament to the apostles, he taught them to do it in remembrance of
 him, which Paul interprets, “to show forth his death” (<span
 id="iv.iv.xviii-p106.2"></span>[1 Cor.
-11:26](../../../bib/kjv/co1011.htm#026)<span
+11:26](../../../bib/kjv/co1011.htm#026.md)<span
 id="iv.iv.xviii-p106.2"></span>). And this is, that all should publicly
 and with one mouth confess that all our confidence of life and salvation
 is placed in our Lord’s death, that we ourselves may glorify him by our
@@ -2212,8 +2212,8 @@ not the communion of the blood of Christ? The bread which we break, is
 it not the communion of the body of Christ? For we being many, are one
 bread and one body, for we are all partakers of that one bread” (<span
 id="iv.iv.xviii-p107.1"></span>[1 Cor.
-10:15](../../../bib/kjv/co1010.htm#015),
-[16](../../../bib/kjv/co1010.htm#016)<span
+10:15](../../../bib/kjv/co1010.htm#015.md),
+[16](../../../bib/kjv/co1010.htm#016.md)<span
 id="iv.iv.xviii-p107.1"></span>). We shall have profited admirably in
 the sacrament, if the thought shall have been impressed and engraven on
 our minds, that none of our brethren is hurt, despised, rejected,
@@ -2279,15 +2279,15 @@ nourishes, so this spiritual food also, if given to a soul polluted with
 malice and wickedness, plunges it into greater ruin, not indeed by any
 defect in the food, but because to the “defiled and unbelieving is
 nothing pure” (<span id="iv.iv.xviii-p109.1"></span>[Titus
-1:15](../../../bib/kjv/tit001.htm#015)<span
+1:15](../../../bib/kjv/tit001.htm#015.md)<span
 id="iv.iv.xviii-p109.1"></span>), however much it may be sanctified by
 the blessing of the Lord. For, as Paul says, “Whosoever shall eat this
 bread, and drink this cup of the Lord, unworthily, shall be guilty of
 the body and blood of the Lord;” “eateth and drinketh damnation to
 himself, not discerning the Lord’s body” (<span
 id="iv.iv.xviii-p109.2"></span>[1 Cor.
-11:27](../../../bib/kjv/co1011.htm#027),
-[29](../../../bib/kjv/co1011.htm#029)<span
+11:27](../../../bib/kjv/co1011.htm#027.md),
+[29](../../../bib/kjv/co1011.htm#029.md)<span
 id="iv.iv.xviii-p109.2"></span>). For men of this description, who
 without any spark of faith, without any zeal for charity, rush forward
 like swine to seize the Lord’s Supper, do not at all discern the Lord’s
@@ -2408,7 +2408,7 @@ left free to the Church, though it is certain that it was the custom of
 the ancient Church for all to receive into their hand. And Christ said,
 “Take this, and divide it among yourselves” (<span
 id="iv.iv.xviii-p112.1"></span>[Luke
-22:17](../../../bib/kjv/luk022.htm#017)<span
+22:17](../../../bib/kjv/luk022.htm#017.md)<span
 id="iv.iv.xviii-p112.1"></span>). History relates that leavened and
 ordinary bread was used before the time of Alexander the Bishop of Rome,
 who was the first that was delighted with unleavened bread: for what
@@ -2465,7 +2465,7 @@ Apostolic Church, we are informed by Luke in the Acts, when he says,
 that “they continued stedfastly in the apostles’ doctrine and
 fellowship, and in breaking of bread, and in prayers” (<span
 id="iv.iv.xviii-p113.1"></span>[Acts
-2:42](../../../bib/kjv/act002.htm#042)<span
+2:42](../../../bib/kjv/act002.htm#042.md)<span
 id="iv.iv.xviii-p113.1"></span>). Thus we ought always to provide that
 no meeting of the Church is held without the word, prayer, the
 dispensation of the Supper, and alms. We may gather from Paul that this
@@ -2504,7 +2504,7 @@ sluggishness. Of this we have an example in Chrysostom, on the Epistle
 to the Ephesians (Hom. 26). “It was not said to him who dishonoured the
 feast, Why have you not taken your seat? ‘But how camest thou in?’
 (<span id="iv.iv.xviii-p114.1"></span>[Mt.
-22:12](../../../bib/kjv/mat022.htm#012)<span
+22:12](../../../bib/kjv/mat022.htm#012.md)<span
 id="iv.iv.xviii-p114.1"></span>). Whoever partakes not of the sacred
 rites is wicked and impudent in being present: should any one who was
 invited to a feast come in, wash his hands, take his seat, and seem to
@@ -2591,7 +2591,7 @@ pledge.
 
 <span id="iv.iv.xviii-p117"></span>48. I am aware, indeed, how the
 ministers of Satan, whose usual practice is to hold the Scriptures in
-derision, here cavil.62  <span id="fr_646"></span>[647](#fn_646) First,
+derision, here cavil.62  <span id="fr_646"></span>[647](#fn_646.md) First,
 they allege that from a simple fact we are not to draw a rule which is
 to be perpetually obligatory on the Church. But they state an untruth
 when they call it a simple fact. For Christ not only gave the cup, but
@@ -2632,7 +2632,7 @@ Passages of the same kind everywhere occur. Nor did this practice fall
 into desuetude so long as there was one particle of integrity in the
 Church. Gregory, whom you may with justice call the last Bishop of Rome,
 says that it was observed in his age.  <span
-id="fr_647"></span>[648](#fn_647) “What the blood of the Lamb is you
+id="fr_647"></span>[648](#fn_647.md) “What the blood of the Lamb is you
 have learned, not by hearing, but by drinking it. His blood is poured
 into the mouths of the faithful.” Nay, four hundred years after his
 death, when all things had degenerated, the practice still remained. Nor
@@ -2665,7 +2665,7 @@ distributing the symbol of Christ’s body to the common people, if they
 have no command or example from the Lord? Fifthly, Did Paul lie when he
 said to the Corinthians, “I have received of the Lord that which also I
 delivered unto you?” (<span id="iv.iv.xviii-p121.1"></span>[1 Cor.
-11:23](../../../bib/kjv/co1011.htm#023)<span
+11:23](../../../bib/kjv/co1011.htm#023.md)<span
 id="iv.iv.xviii-p121.1"></span>). The thing delivered, he afterwards
 declares to be, that all should communicate promiscuously in both
 symbols. But if Paul received of the Lord that all were to be admitted
@@ -2673,8 +2673,8 @@ without distinction, let those who drive away almost the whole people of
 God see from whom they have received, since they cannot now pretend to
 have their authority from God, with whom there is not “yea and nay”
 (<span id="iv.iv.xviii-p121.2"></span>[2 Cor.
-1:19](../../../bib/kjv/co2001.htm#019),
-[20](../../../bib/kjv/co2001.htm#020)<span
+1:19](../../../bib/kjv/co2001.htm#019.md),
+[20](../../../bib/kjv/co2001.htm#020.md)<span
 id="iv.iv.xviii-p121.2"></span>). And yet these abominations they dare
 to cloak with the name of the Church, and defend under this pretence, as
 if those Antichrists were the Church who so licentiously trample under
@@ -2686,14 +2686,14 @@ were not the Church.
 
 ### Footnotes
 
-<span id="fn_630"></span>[631](inst097.htm#fr_630) <span
+<span id="fn_630"></span>[631](inst097.htm#fr_630.md) <span
 id="iv.iv.xviii-p59.2"></span>
 
 <span id="iv.iv.xviii-p60"></span>06 606 See August. Hom. in Joann. 31
 et 40, &c., Chrysost. Hom. ad Popul. Antioch., 60, 61; et Hom. in Marc.
 89.
 
-<span id="fn_631"></span>[632](inst097.htm#fr_631) <span
+<span id="fn_631"></span>[632](inst097.htm#fr_631.md) <span
 id="iv.iv.xviii-p68.1"></span>
 
 <span id="iv.iv.xviii-p69"></span>131 D131 The degree to which Calvin’s
@@ -2718,7 +2718,7 @@ entire substance of the bread and wine into the body and blood of Christ
 called? The change of the entire substance of the bread and wine into
 the body and blood of Christ is called Transubstantiation.
 
-<span id="fn_632"></span>[633](inst097.htm#fr_632) <span
+<span id="fn_632"></span>[633](inst097.htm#fr_632.md) <span
 id="iv.iv.xviii-p70.2"></span>
 
 <span id="iv.iv.xviii-p71"></span>07 607 Compare together Ambrose on
@@ -2726,7 +2726,7 @@ those who are initiated in the sacraments (cap. 9) and Augustine, De
 Trinitate, Lib. 3 cap. 10, and it will be seen that both are opposed to
 transubstantiation.
 
-<span id="fn_633"></span>[634](inst097.htm#fr_633) <span
+<span id="fn_633"></span>[634](inst097.htm#fr_633.md) <span
 id="iv.iv.xviii-p72.1"></span>
 
 <span id="iv.iv.xviii-p73"></span>132 D132 Calvin, though tactfully
@@ -2758,35 +2758,35 @@ this view in the following manner: In with, and under the bread and
 wine, Christ presents His true body and blood to be truly and
 substantially eaten and drank by us.
 
-<span id="fn_634"></span>[635](inst097.htm#fr_634) <span
+<span id="fn_634"></span>[635](inst097.htm#fr_634.md) <span
 id="iv.iv.xviii-p78.1"></span>
 
 <span id="iv.iv.xviii-p79"></span>08 608 <span
 id="iv.iv.xviii-p79.1"></span>[Gen.
-17:10](../../../bib/kjv/gen017.htm#010)<span
+17:10](../../../bib/kjv/gen017.htm#010.md)<span
 id="iv.iv.xviii-p79.1"></span>; <span
 id="iv.iv.xviii-p79.2"></span>[Exod.
-12:11](../../../bib/kjv/exo012.htm#011)<span
+12:11](../../../bib/kjv/exo012.htm#011.md)<span
 id="iv.iv.xviii-p79.2"></span>; 17:6; <span
 id="iv.iv.xviii-p79.3"></span>[1 Cor.
-10:4](../../../bib/kjv/co1010.htm#004)<span
+10:4](../../../bib/kjv/co1010.htm#004.md)<span
 id="iv.iv.xviii-p79.3"></span>.
 
-<span id="fn_635"></span>[636](inst097.htm#fr_635) <span
+<span id="fn_635"></span>[636](inst097.htm#fr_635.md) <span
 id="iv.iv.xviii-p79.4"></span>
 
 <span id="iv.iv.xviii-p80"></span>09 609 <span
 id="iv.iv.xviii-p80.1"></span>[Exod.
-3:2](../../../bib/kjv/exo003.htm#002)<span
+3:2](../../../bib/kjv/exo003.htm#002.md)<span
 id="iv.iv.xviii-p80.1"></span>; <span
 id="iv.iv.xviii-p80.2"></span>[Psalm
-84:8](../../../bib/kjv/psa084.htm#008)<span
+84:8](../../../bib/kjv/psa084.htm#008.md)<span
 id="iv.iv.xviii-p80.2"></span>; 42:3; <span
 id="iv.iv.xviii-p80.3"></span>[Mt
-3:16](../../../bib/kjv/mat003.htm#016)<span
+3:16](../../../bib/kjv/mat003.htm#016.md)<span
 id="iv.iv.xviii-p80.3"></span>.
 
-<span id="fn_636"></span>[637](inst097.htm#fr_636) <span
+<span id="fn_636"></span>[637](inst097.htm#fr_636.md) <span
 id="iv.iv.xviii-p80.6"></span>
 
 <span id="iv.iv.xviii-p81"></span>10 610 French, “Certes si on ne veut
@@ -2795,14 +2795,14 @@ sacremens n’appartienne aussi à la Cene.”—Certainly if we would not
 abolish reason altogether, we cannot say that that which is common to
 all the sacraments belongs not also to the Supper.
 
-<span id="fn_637"></span>[638](inst097.htm#fr_637) <span
+<span id="fn_637"></span>[638](inst097.htm#fr_637.md) <span
 id="iv.iv.xviii-p83.2"></span>
 
 <span id="iv.iv.xviii-p84"></span>11 611 The French adds, “Je di si
 Jesus Christ est enclos sous chacun des deux signes.”—I mean, if Jesus
 Christ is included under each of the two signs.
 
-<span id="fn_638"></span>[639](inst097.htm#fr_638) <span
+<span id="fn_638"></span>[639](inst097.htm#fr_638.md) <span
 id="iv.iv.xviii-p85.1"></span>
 
 <span id="iv.iv.xviii-p86"></span>12 612 The French adds, “En lisant nos
@@ -2810,7 +2810,7 @@ ecrits, on verra incontinent combien ces calomnies sont vilaines et
 puantes.”—In reading our writings, it will at once be seen how vile and
 foul these calumnies are.
 
-<span id="fn_639"></span>[640](inst097.htm#fr_639) <span
+<span id="fn_639"></span>[640](inst097.htm#fr_639.md) <span
 id="iv.iv.xviii-p87.4"></span>
 
 <span id="iv.iv.xviii-p88"></span>13 613 Thus Augustine, speaking of
@@ -2819,7 +2819,7 @@ straits, over what precipices they plunge themselves, fearing the nets
 of truth” (Aug. <span id="iv.iv.xviii-p88.1"></span>Ep. 105<span
 id="iv.iv.xviii-p88.1"></span>).
 
-<span id="fn_640"></span>[641](inst097.htm#fr_640) <span
+<span id="fn_640"></span>[641](inst097.htm#fr_640.md) <span
 id="iv.iv.xviii-p91.1"></span>
 
 <span id="iv.iv.xviii-p92"></span>14 614 That the dogma of those who
@@ -2827,24 +2827,24 @@ place the body of Christ in the bread is not aided by passages from
 Augustine, or the authority of Scripture, is proved here and sec. 29-31.
 There is no ambiguity in what he says, De Civit. Dei, 16, cap. 27. In
 <span id="iv.iv.xviii-p92.1"></span>[Psal.
-26](../../../bib/kjv/psa026.htm#000)<span id="iv.iv.xviii-p92.1"></span>
+26](../../../bib/kjv/psa026.htm#000.md)<span id="iv.iv.xviii-p92.1"></span>
 et 46. In Joann. Tract. 13, 102, 106, 107, &c.
 
-<span id="fn_641"></span>[642](inst097.htm#fr_641) <span
+<span id="fn_641"></span>[642](inst097.htm#fr_641.md) <span
 id="iv.iv.xviii-p93.2"></span>
 
 <span id="iv.iv.xviii-p94"></span>15 615 The French adds, “Car la figure
 seroit fausse, si ce qu’elle represente n’estoit vray.”—For the figure
 would be false, if the thing which it represents were not real.
 
-<span id="fn_642"></span>[643](inst097.htm#fr_642) <span
+<span id="fn_642"></span>[643](inst097.htm#fr_642.md) <span
 id="iv.iv.xviii-p95.1"></span>
 
 <span id="iv.iv.xviii-p96"></span>16 616 The French adds, “veu qu’ils
 confessent que nous l’avons aussi bien sans la Cene;”—seeing they
 acknowledge that we have him as well without the Supper.
 
-<span id="fn_643"></span>[644](inst097.htm#fr_643) <span
+<span id="fn_643"></span>[644](inst097.htm#fr_643.md) <span
 id="iv.iv.xviii-p96.1"></span>
 
 <span id="iv.iv.xviii-p97"></span>17 617 French, “Il faisoit Jesus
@@ -2852,25 +2852,25 @@ Christ homme en tant qu’il est Dieu, et Dieu en tant qu’il est
 homme.”—He made Jesus Christ man, in so far as he is God, and God in so
 far as he is man.
 
-<span id="fn_644"></span>[645](inst097.htm#fr_644) <span
+<span id="fn_644"></span>[645](inst097.htm#fr_644.md) <span
 id="iv.iv.xviii-p99.2"></span>
 
 <span id="iv.iv.xviii-p100"></span>18 618 See Bernard in Cant. Serm. 74,
 75; et Trad. de Gratia et Liber. Arbit.
 
-<span id="fn_645"></span>[646](inst097.htm#fr_645) <span
+<span id="fn_645"></span>[646](inst097.htm#fr_645.md) <span
 id="iv.iv.xviii-p102.1"></span>
 
 <span id="iv.iv.xviii-p103"></span>19 619 See August. Cont. Liter.
 Petiliani, Lib. 2 c. 47, et Tract. in Joann.
 
-<span id="fn_646"></span>[647](inst097.htm#fr_646) <span
+<span id="fn_646"></span>[647](inst097.htm#fr_646.md) <span
 id="iv.iv.xviii-p117.1"></span>
 
 <span id="iv.iv.xviii-p118"></span>20 620 See Calvin de Cœna Domini.
 Item, Adv. Theol. Paris. Item, Vera Eceles. Reform. Ratio.
 
-<span id="fn_647"></span>[648](inst097.htm#fr_647) <span
+<span id="fn_647"></span>[648](inst097.htm#fr_647.md) <span
 id="iv.iv.xviii-p119.1"></span>
 
 <span id="iv.iv.xviii-p120"></span>133 D133 The reference is to Gregory
@@ -2880,4 +2880,4 @@ to 604.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 18 - OF THE POPISH MASS. HOW IT NOT ONLY PROFANES, BUT
-ANNIHILATES THE LORDS SUPPER.](inst098)
+ANNIHILATES THE LORDS SUPPER.](inst098.md)

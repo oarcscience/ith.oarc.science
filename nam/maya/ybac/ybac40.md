@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac39)  [Next](ybac41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac39)  [Next](ybac41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ acceptable to their god **Yaxcoc-ahmut**.
 ------------------------------------------------------------------------
 
 [Next: XXXVII. Sacrifices For the New Year With the Sign Ix. Sinister
-Prognostics, and Manner of Conjuring Their Effects](ybac41)
+Prognostics, and Manner of Conjuring Their Effects](ybac41.md)

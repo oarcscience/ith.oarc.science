@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob14) 
-[Next](sob16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob14.md) 
+[Next](sob16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -69,19 +69,19 @@ you will find that you will not need to count after the first rhythmic
 breath, as the mind will grasp the idea of time and rhythm and you will
 be able to breathe rhythmically at pleasure, almost automatically. This
 will leave the mind clear for the sending of the psychic vibrations
-under the [direction](errata.htm#21) of the Will. (See the following
+under the [direction](errata.htm#21.md) of the Will. (See the following
 first exercise for directions in using the Will.)
 
 \(2\) PRANA DISTRIBUTING
 
-Lying flat on the floor or bed, [completely](errata.htm#22) relaxed,
+Lying flat on the floor or bed, [completely](errata.htm#22.md) relaxed,
 with hands resting lightly over the Solar Plexus (over the pit of the
 stomach, where the ribs begin to separate), breathe rhythmically. After
 the rhythm is fully established will that each inhalation will draw in
 an increased supply of prana or vital energy from the Universal supply,
 which will be taken up by the nervous system and stored in the Solar
 Plexus. At each exhalation will that the prana or vital energy is being
-distributed all over the [body](errata.htm#23) to every organ and part;
+distributed all over the [body](errata.htm#23.md) to every organ and part;
 
 <span id="page_67">p. 67</span>
 
@@ -180,7 +180,7 @@ part of the body of the patient,
 <span id="page_70">p. 70</span>
 
 letting them rest lightly over the part. Then follow the "pumping"
-process described in the preceding [exercise](errata.htm#24)
+process described in the preceding [exercise](errata.htm#24.md)
 (Self-Healing) and fill the patient full of prana until the diseased
 condition is driven out. Every once in a while raise the hands and
 "flick" the fingers as if you were throwing off the diseased condition.
@@ -198,7 +198,7 @@ prana a free passage. It is better to place the hands on the bare skin,
 but where this is not advisable or possible place them over the
 clothing. Vary above methods occasionally during the treatment by
 stroking the body gently and softly with the finger tips, the fingers
-being kept slightly separated. This is [very](errata.htm#25) soothing to
+being kept slightly separated. This is [very](errata.htm#25.md) soothing to
 the patient. In cases of long standing you may find it helpful to give
 the mental command in words, such as "get out, get out," or "be strong,
 be strong," as the case may be, the words helping you to exercise the
@@ -233,7 +233,7 @@ of rapport when it is established, it manifesting in a sense of
 nearness. That is about as plain as we can describe it. It may be
 acquired by a little practice, and some will get it at the first trial.
 When rapport is established, say mentally to the distant patient, "I am
-sending you a supply of vital [force](errata.htm#26) or power, which
+sending you a supply of vital [force](errata.htm#26.md) or power, which
 will invigorate you and heal you." Then picture the prana as leaving
 your mind with each exhalation of rhythmic breath, and traveling across
 space instantaneously
@@ -252,4 +252,4 @@ little practice.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. More Phenomena of Yogi Psychic Breathing](sob16)
+[Next: Chapter XV. More Phenomena of Yogi Psychic Breathing](sob16.md)

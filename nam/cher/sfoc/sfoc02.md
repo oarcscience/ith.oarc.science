@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc01)  [Next](sfoc03) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc01)  [Next](sfoc03.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,4 +162,4 @@ formulas collected were obtained.
 
 ------------------------------------------------------------------------
 
-[Next: How the Formulas Were Obtained](sfoc03)
+[Next: How the Formulas Were Obtained](sfoc03.md)

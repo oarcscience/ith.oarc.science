@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl49)  [Next](hpl51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl49)  [Next](hpl51.md) 
 
 ------------------------------------------------------------------------
 
@@ -357,4 +357,4 @@ great deal.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](hpl51)
+[Next: Chapter 4](hpl51.md)

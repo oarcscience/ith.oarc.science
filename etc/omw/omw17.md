@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw16)  [Next](omw18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw16)  [Next](omw18.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ and the area that includes Mexico City together, writes:
 The unity of this entire region of ancient civilization is most clearly
 expressed by the calendar, which these people considered the basis and
 alpha and omega of all high and occult knowledge. <span
-id="fr_22"></span>[23](#fn_22)
+id="fr_22"></span>[23](#fn_22.md)
 
 According to this view, the Mayan, the Toltec, and the Aztec are
 varieties of a single culture.
@@ -72,7 +72,7 @@ highways at night at extraordinary speed, and that Hurakan, his Quiche
 name, is still employed for the very wind he represented, and has become
 a generic name for a tempestuous wind in practically all European
 languages, which have without question adopted it from the American
-word. <span id="fr_23"></span>[24](#fn_23)
+word. <span id="fr_23"></span>[24](#fn_23.md)
 
 As we look upon the powerful sculptures of the ancient Mexicans and
 their compact drawings we get the impression of a strangely earthbound
@@ -116,22 +116,22 @@ recollection of the picturesque but terrible rites of this gifted,
 imaginative, and not undistinguished people harrows the feelings, does
 it not arouse in us that fatal consciousness of man's helplessness
 before the gods, which primitive religion invariably professes and which
-reason almost seems to uphold? <span id="fr_24"></span>[25](#fn_24)
+reason almost seems to uphold? <span id="fr_24"></span>[25](#fn_24.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_22"></span>[xxiv:23](omw17.htm#fr_22) Unity of Mexican and
+<span id="fn_22"></span>[xxiv:23](omw17.htm#fr_22.md) Unity of Mexican and
 Central American Civilization: Report to Bureau of American Ethnology,
 Bulletin 28.
 
-<span id="fn_23"></span>[xxvi:24](omw17.htm#fr_23) Lewis Spence: The
+<span id="fn_23"></span>[xxvi:24](omw17.htm#fr_23.md) Lewis Spence: The
 Gods of Mexico.
 
-<span id="fn_24"></span>[xxvii:25](omw17.htm#fr_24) Lewis Spence: The
+<span id="fn_24"></span>[xxvii:25](omw17.htm#fr_24.md) Lewis Spence: The
 Gods of Mexico.
 
 ------------------------------------------------------------------------
 
-[Next: Zuñi](omw18)
+[Next: Zuñi](omw18.md)

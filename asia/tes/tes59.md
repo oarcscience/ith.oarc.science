@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes58)  [Next](tes60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes58)  [Next](tes60.md) 
 
 ------------------------------------------------------------------------
 
-### 5. STORY OF FIVE BROTHERS. <span id="fr_90"></span>[2](#fn_90)
+### 5. STORY OF FIVE BROTHERS. <span id="fr_90"></span>[2](#fn_90.md)
 
 There were five brothers. Two of them were walking about, and saw on the
 trail some wolf's tracks, quite fresh, but covered with a little snow.
@@ -45,11 +45,11 @@ Pokhotsk, the Kolyma country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_90"></span>[115:2](tes59.htm#fr_90) I am not sure that this
+<span id="fn_90"></span>[115:2](tes59.htm#fr_90.md) I am not sure that this
 story belongs to the children's cycle. It looks much more like some
 mutilated version of a longer story of considerable interest. To my
 regret, however, I could find no other version of it.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Story About a Crazy Old Man](tes60)
+[Next: 6. Story About a Crazy Old Man](tes60.md)

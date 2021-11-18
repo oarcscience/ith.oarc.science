@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index)  [Nostradamus Index](../index) 
+[Sacred-Texts](../../index)  [Nostradamus Index](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,15 +22,15 @@ reputedly they are based on verses inserted into later French versions
 of Nostradamus. They should not be considered authoritative in the
 bibliographic sense.
 
-[Century I](nosmrg01)  
-[Century II](nosmrg02)  
-[Century III](nosmrg03)  
-[Century IV](nosmrg04)  
-[Century V](nosmrg05)  
-[Century VI](nosmrg06)  
-[Century VII](nosmrg07)  
-[Century VIII](nosmrg08)  
-[Century IX](nosmrg09)  
-[Century X](nosmrg10)  
-[Century XI](nosmrg11)  
-[Century XII](nosmrg12)  
+[Century I](nosmrg01.md)  
+[Century II](nosmrg02.md)  
+[Century III](nosmrg03.md)  
+[Century IV](nosmrg04.md)  
+[Century V](nosmrg05.md)  
+[Century VI](nosmrg06.md)  
+[Century VII](nosmrg07.md)  
+[Century VIII](nosmrg08.md)  
+[Century IX](nosmrg09.md)  
+[Century X](nosmrg10.md)  
+[Century XI](nosmrg11.md)  
+[Century XII](nosmrg12.md)  

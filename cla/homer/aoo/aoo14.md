@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo13)  [Next](aoo15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo13)  [Next](aoo15.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ their eagerness to join in the battle.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](aoo15)
+[Next: Chapter XV](aoo15.md)

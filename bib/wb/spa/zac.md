@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](hag)  [Next](mal) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](hag)  [Next](mal.md) 
 
 ------------------------------------------------------------------------
 
@@ -827,4 +827,4 @@ alguno en la casa de Jehová de los ejércitos en aquel tiempo.
 
 ------------------------------------------------------------------------
 
-[Next: Malachi](mal)
+[Next: Malachi](mal.md)

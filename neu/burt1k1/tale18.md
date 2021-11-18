@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale17)  [Next](tale19) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale17)  [Next](tale19.md) 
 
 ------------------------------------------------------------------------
 
@@ -287,4 +287,4 @@ before them, and when they had well eaten and drunken and were merry and
 in cheerful case, he took up his discourse and recounted to them in
 these words the narrative of
 
-(*Next*) [THE SECOND VOYAGE OF SINDBAD THE SEAMAN](tale19)  
+(*Next*) [THE SECOND VOYAGE OF SINDBAD THE SEAMAN](tale19.md)  

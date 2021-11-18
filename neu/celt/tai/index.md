@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,10 +21,10 @@ Legends](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](tai00)  
-[Introduction](tai01)  
-[Author's Foreword](tai02)  
-[Part I](tai03)  
-[Part II](tai04)  
-[Part III](tai05)  
-[Part IV](tai06)  
+[Title Page](tai00.md)  
+[Introduction](tai01.md)  
+[Author's Foreword](tai02.md)  
+[Part I](tai03.md)  
+[Part II](tai04.md)  
+[Part III](tai05.md)  
+[Part IV](tai06.md)  

@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama301) 
-[Next](kama303) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama301.md) 
+[Next](kama303.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -136,16 +136,16 @@ and suddenly begins to hate the man who has taken advantage of her; and
 then, when her love is not understood or returned, she sinks into
 despondency, and becomes either a hater of mankind altogether, or,
 hating her own man, she has recourse to other men.' <span
-id="fr_44"></span>[1](kama101.htm#fn_0)
+id="fr_44"></span>[1](kama101.htm#fn_0.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_44"></span>[1](#fr_-1) These last few lines have been
+<span id="fn_44"></span>[1](#fr_-1.md) These last few lines have been
 exemplified in many ways in many novels of this century.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Courtship, and the Manifestation of the Feelings by
-Outward Signs and Deeds](kama303)
+Outward Signs and Deeds](kama303.md)

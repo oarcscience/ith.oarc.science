@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap17) [Next](chap19)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap17) [Next](chap19.md)
 
 ------------------------------------------------------------------------
 
@@ -389,4 +389,4 @@ give him gloriously: "All Hail!"
 
 ------------------------------------------------------------------------
 
-[Next: XIX The Subjects of the Kingdom](chap19)
+[Next: XIX The Subjects of the Kingdom](chap19.md)

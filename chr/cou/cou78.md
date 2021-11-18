@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](cou77)  [Next](cou79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](cou77)  [Next](cou79.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud of Unknowing*, ed. by Evelyn Underhill, \[1922\], at
 Intangible Textual Heritage
 
@@ -71,4 +71,4 @@ mine. <span id="an_lxxix-p7.2"></span><span id="page_308">p. 308</span>
 [Next: Chapter 74: How that the matter of this book is never more read
 or spoken, nor heard read or spoken, of a soul disposed thereto without
 feeling of a very accordance to the effect of the same work: and of
-rehearsing of the same charge that is written in the prologue](cou79)
+rehearsing of the same charge that is written in the prologue](cou79.md)

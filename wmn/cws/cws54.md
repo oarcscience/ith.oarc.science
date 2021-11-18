@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws53)  [Next](cws55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws53)  [Next](cws55.md) 
 
 ------------------------------------------------------------------------
 
 ### No. L
 
-#### CONCERNING THE ONE LIFE: BEING A RECAPITULATION <span id="fr_189"></span>[1](#fn_189)
+#### CONCERNING THE ONE LIFE: BEING A RECAPITULATION <span id="fr_189"></span>[1](#fn_189.md)
 
 ##### (I)
 
@@ -125,7 +125,7 @@ brightness ("Nativity of Christ" within man).
 ##### (4)
 
 The object of creation is the production of "Ancients." <span
-id="fr_190"></span>[1](#fn_190)
+id="fr_190"></span>[1](#fn_190.md)
 
 They are the first-fruits of the souls of the planets; or First
 Resurrection." (First in dignity, not in time.)
@@ -284,7 +284,7 @@ That is the point of return from Nature--God in Action--to God in
 God--Rest.
 
 Seven for the outgoing, seven for the incoming. <span
-id="fr_191"></span>[1](#fn_191)
+id="fr_191"></span>[1](#fn_191.md)
 
 ##### (9)
 
@@ -350,7 +350,7 @@ The "moon" is good or evil, according to the condition of the postulant.
 
 ### Footnotes
 
-<span id="fn_189"></span>[125:1](cws54.htm#fr_189) Written at home, the
+<span id="fn_189"></span>[125:1](cws54.htm#fr_189.md) Written at home, the
 first five sections on December 9, 1883, and the rest on January 21,
 1884, and regarded by the writer as an exercise or meditation, based on
 previous illuminations, rather than as a fresh illumination. It is
@@ -358,10 +358,10 @@ unfinished.    E. M.
 
 Referred to in *Life of Anna Kingsford*, vol. ii, p. 33.
 
-<span id="fn_190"></span>[127:1](cws54.htm#fr_190) A.V., "Elders," Apoc.
+<span id="fn_190"></span>[127:1](cws54.htm#fr_190.md) A.V., "Elders," Apoc.
 iv.
 
-<span id="fn_191"></span>[129:1](cws54.htm#fr_191) The difference
+<span id="fn_191"></span>[129:1](cws54.htm#fr_191.md) The difference
 between this reckoning and that in *The Great Work*, Part II, No. III,
 v. 60, 61, is only apparent, the point which the two series have in
 common being here reckoned twice over, making the total in both cases
@@ -369,4 +369,4 @@ thirteen.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: Part The Second: The Book of the Mysteries of God](cws55)
+[Next: Part The Second: The Book of the Mysteries of God](cws55.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs15)  [Next](pifs17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs15)  [Next](pifs17.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ cracked voice that could be none other than Grandfather Ysidro's said,
 "*Kah-whee-cá-me, Lorenso-kaí-deh*!" I started up so hastily as to bump
 my head against the whitewashed wall. That may seem a queer sentence to
 rouse one so sharply; and especially when you know what it means. It
-meant that old Ysidro <span id="fr_49"></span>[1](#fn_49) had just
+meant that old Ysidro <span id="fr_49"></span>[1](#fn_49.md) had just
 finished a story, which I had altogether missed, and was now calling
 upon the old man next him to tell one, by using the customary Pueblo
 saying:
@@ -151,7 +151,7 @@ here contented, or I will eat you up!"
 The boys were much afraid, and said they would stay and be contented.
 But the old woman went into the house and told her husband--who was as
 wicked as she--to get wood and build a big fire in the *horno*. <span
-id="fr_50"></span>[1](#fn_50) All day long the fire burned, and the oven
+id="fr_50"></span>[1](#fn_50.md) All day long the fire burned, and the oven
 became hotter than it had ever been. In the evening the old witch-woman
 raked out the coals, and calling the boys seized them and forced them
 into the fiery oven.
@@ -176,7 +176,7 @@ of them were witch-people, and ate all the children they could find.
 
 But in the morning when she unsealed the oven, there were the two boys,
 laughing and playing together unhurt--for the Wháy-nin <span
-id="fr_51"></span>[1](#fn_51) had come to their aid and protected them
+id="fr_51"></span>[1](#fn_51.md) had come to their aid and protected them
 from the heat.
 
 Leaving the boys to crawl out, the old woman ran to the house and
@@ -198,7 +198,7 @@ When the boys returned in the evening, she said:
 (hide-and-seek), and the one who is found three times by the other shall
 pay his life."
 
-The boys agreed, <span id="fr_52"></span>[2](#fn_52) and secretly prayed
+The boys agreed, <span id="fr_52"></span>[2](#fn_52.md) and secretly prayed
 to the Trues to help them--for by this time they knew that the old man
 and the old woman "had the bad road."
 
@@ -207,7 +207,7 @@ and the old woman "had the bad road."
 <span id="img_09300"></span>
 
 [![](tn/09300.jpg)  
-Click to enlarge](img/09300.jpg)
+Click to enlarge](img/09300.jpg.md)
 
 The next day came; and very soon the old woman called them to begin the
 game. The boys were to hide first; and when the old woman had turned her
@@ -236,7 +236,7 @@ After hunting some time she called:
 So the boys came out and "made blind" (covered their eyes) while the old
 woman went to hide. There was a pond close by, with many ducks on it;
 and making herself very little, she went and hid under the left wing of
-the duck with a blue head. <span id="fr_53"></span>[1](#fn_53)
+the duck with a blue head. <span id="fr_53"></span>[1](#fn_53.md)
 
 When they heard her "*Hee-táh*!" the boys went searching and singing;
 and at last the elder cried out:
@@ -258,7 +258,7 @@ the boys found her even there.
 It was their last turn now, and the old woman felt very triumphant as
 she waited for them to hide. But this time they went up and hid
 themselves under the right arm of the Sun. <span
-id="fr_54"></span>[2](#fn_54) The old witch hunted everywhere, and used
+id="fr_54"></span>[2](#fn_54.md) The old witch hunted everywhere, and used
 all her bad power, but in vain; and when she was tired out she had
 
 <span id="page_95">p. 95</span>
@@ -269,7 +269,7 @@ all her bad power, but in vain; and when she was tired out she had
 
 [![''THE WITCH MADE HERSELF VERY SMALL, AND WENT BEHIND THE FOOT OF A
 BIG CRANE.''](tn/09500.jpg)  
-Click to enlarge](img/09500.jpg)  
+Click to enlarge](img/09500.jpg.md)  
 ''THE WITCH MADE HERSELF VERY SMALL, AND WENT BEHIND THE FOOT OF A BIG
 CRANE.''  
 
@@ -310,7 +310,7 @@ men were forgiven for disobedience
 
 (which is a very serious thing at any age, among the Pueblos), and were
 made heroes. The Cacique gave them his two daughters for wives, and all
-the people did them honor. <span id="fr_55"></span>[1](#fn_55)
+the people did them honor. <span id="fr_55"></span>[1](#fn_55.md)
 
  
 
@@ -327,26 +327,26 @@ of course without their magical talent at hiding.
 
 ### Footnotes
 
-<span id="fn_49"></span>[87:1](pifs16.htm#fr_49) Pronounced Ee-seé-droh.
+<span id="fn_49"></span>[87:1](pifs16.htm#fr_49.md) Pronounced Ee-seé-droh.
 
-<span id="fn_50"></span>[91:1](pifs16.htm#fr_50) An outdoor bake-oven,
+<span id="fn_50"></span>[91:1](pifs16.htm#fr_50.md) An outdoor bake-oven,
 made of clay, and shaped like a beehive.
 
-<span id="fn_51"></span>[92:1](pifs16.htm#fr_51) "The Trues," as the
+<span id="fn_51"></span>[92:1](pifs16.htm#fr_51.md) "The Trues," as the
 Pueblos call their highest divinities.
 
-<span id="fn_52"></span>[92:2](pifs16.htm#fr_52) For such a challenge,
+<span id="fn_52"></span>[92:2](pifs16.htm#fr_52.md) For such a challenge,
 which was once a common one with the Indians, could not possibly be
 declined.
 
-<span id="fn_53"></span>[94:1](pifs16.htm#fr_53) I should tell you that,
+<span id="fn_53"></span>[94:1](pifs16.htm#fr_53.md) I should tell you that,
 being a witch, she could not possibly have gone under the right wing.
 Everything that is to the left belongs to the witches.
 
-<span id="fn_54"></span>[94:2](pifs16.htm#fr_54) Who is, in the Pueblo
+<span id="fn_54"></span>[94:2](pifs16.htm#fr_54.md) Who is, in the Pueblo
 belief, the father of all things.
 
-<span id="fn_55"></span>[98:1](pifs16.htm#fr_55) This story seems to be
+<span id="fn_55"></span>[98:1](pifs16.htm#fr_55.md) This story seems to be
 one of the myths about the Hero Twin Brothers, the children of the Sun.
 They are, next to Sun-Father and Moon-Mother, the chief deities of all
 the southwestern tribes. In the Quères folk-lore they figure very
@@ -354,4 +354,4 @@ prominently; but in the Tée-wahn are more disguised.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. The Race of the Tails](pifs17)
+[Next: XIV. The Race of the Tails](pifs17.md)

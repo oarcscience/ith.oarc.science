@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo29)  [Next](aoo31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo29)  [Next](aoo31.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ men lay in wait for Telemachus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](aoo31)
+[Next: Chapter VIII](aoo31.md)

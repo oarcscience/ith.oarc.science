@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl09)  [Next](hhl11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl09)  [Next](hhl11.md) 
 
 ------------------------------------------------------------------------
 
@@ -464,7 +464,7 @@ Ulu-maika. In this contest
 
 [![SPEAR THROWING CONTEST.&lt;br&gt; &lt;i&gt;By courtesy Paradise of
 the Pacific&lt;/i&gt;.](tn/06200.jpg)  
-Click to enlarge](img/06200.jpg)  
+Click to enlarge](img/06200.jpg.md)  
 SPEAR THROWING CONTEST.  
 *By courtesy Paradise of the Pacific*.  
 
@@ -528,4 +528,4 @@ Hawaiian group and called it "The Sandwich Islands."
 
 ------------------------------------------------------------------------
 
-[Next: VII. Paao From Samoa](hhl11)
+[Next: VII. Paao From Samoa](hhl11.md)

@@ -1,25 +1,25 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Astrology](../index) 
-[Index](index)  [Previous](hba00)  [Next](hba02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Astrology](../index.md) 
+[Index](index)  [Previous](hba00)  [Next](hba02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Hindu Book of Astrology*, by Bhakti Seva, \[1902\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-<span id="img_00300"></span> ![Index Chart](img/00300.jpg)
+<span id="img_00300"></span> ![Index Chart](img/00300.jpg.md)
 
 <span id="img_chart"></span> <span align="CENTER">
 [![Chart](tn/chart.jpg)  
-Click to enlarge](img/chart.jpg)  
+Click to enlarge](img/chart.jpg.md)  
 Chart  
 </span>
 
@@ -165,4 +165,4 @@ Pisces.</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](hba02)
+[Next: Contents](hba02.md)

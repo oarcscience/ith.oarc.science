@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac45)  [Next](ybac47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac45)  [Next](ybac47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Gates, \[1937\], at Intangible Textual Heritage
 <span id="img_08400"></span>
 
 [![PARIS CODEX, PAGE 6](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 PARIS CODEX, PAGE 6  
 
 <span id="page_85">p. 85</span>
@@ -79,7 +79,7 @@ height.
 
 Here in Izamal is a building, among the others, of a startling height
 and beauty, as is seen in this sketch and its explanation. <span
-id="fr_42"></span>[\*](#fn_42) It has twenty steps, each more than two
+id="fr_42"></span>[\*](#fn_42.md) It has twenty steps, each more than two
 palms in height and in<span id="img_08600"></span>
 
 <table data-align="RIGHT">
@@ -132,7 +132,7 @@ be seen what it was like.
 
 This is the sketch I have drawn; to understand it, it must be noted that
 it is a squared site of great size, more than two runs of a horse. <span
-id="fr_43"></span>[†](#fn_43) On the east
+id="fr_43"></span>[†](#fn_43.md) On the east
 
 <span id="page_87">p. 87</span>
 
@@ -150,7 +150,7 @@ built by hand, of an amazing height and greatness.
 <span id="img_08700"></span>
 
 [![](tn/08700.jpg)  
-Click to enlarge](img/08700.jpg)
+Click to enlarge](img/08700.jpg.md)
 
 On the East, stairway, platform of more than 30 feet; then more stairs.
 At the South, a long apartment, divided; at the North, another, same. At
@@ -215,7 +215,7 @@ Chichén Itzá.
 
  
 
-Chichén Itzá <span id="fr_44"></span>[\*](#fn_44), then, is a fine site,
+Chichén Itzá <span id="fr_44"></span>[\*](#fn_44.md), then, is a fine site,
 ten leagues from Izamal and eleven from Valladolid. Here as the old men
 of the Indians say, there reigned three lords, brothers who (as they
 recall to have been told them by their ancestors) came from the land to
@@ -244,7 +244,7 @@ principal edifice:
 <span id="img_08900"></span>
 
 [![](tn/08900.jpg)  
-Click to enlarge](img/08900.jpg)
+Click to enlarge](img/08900.jpg.md)
 
 This structure has four stairways looking to the four directions of the
 world, and 33 feet wide, with 91 steps to each that are killing to
@@ -317,15 +317,15 @@ was complete.
 
 ### Footnotes
 
-<span id="fn_42"></span>[86:\*](ybac46.htm#fr_42) In front, "steps very
+<span id="fn_42"></span>[86:\*](ybac46.htm#fr_42.md) In front, "steps very
 hard to climb." Then a very large and beautiful plaza; another plaza,
 and then steps with a chapel on top.
 
-<span id="fn_43"></span>[86:†](ybac46.htm#fr_43) <span id="page_87">p.
+<span id="fn_43"></span>[86:†](ybac46.htm#fr_43.md) <span id="page_87">p.
 87</span> An early distance reckoning for as far as a horse will run
 without taking breath; roughly 1,200 feet.
 
-<span id="fn_44"></span>[88:\*](ybac46.htm#fr_44) <span id="page_89">p.
+<span id="fn_44"></span>[88:\*](ybac46.htm#fr_44.md) <span id="page_89">p.
 89</span> So much is available on Chichén Itzá, thanks to the work of
 the Mexican government under its local director, Señor Eduardo Martinez,
 and of the Carnegie Institution of Washington, that we have only
@@ -336,4 +336,4 @@ they show a repoussé gold plate, and three copper cutting tools.
 
 ------------------------------------------------------------------------
 
-[Next: XLIII. For What Other Things the Indians Made Sacrifices](ybac47)
+[Next: XLIII. For What Other Things the Indians Made Sacrifices](ybac47.md)

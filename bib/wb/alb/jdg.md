@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jos)  [Next](rut) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jos)  [Next](rut.md) 
 
 ------------------------------------------------------------------------
 
@@ -2512,4 +2512,4 @@ Izrael; secili bënte atë që i dukej e drejtë në sytë e tij.
 
 ------------------------------------------------------------------------
 
-[Next: Ruth](rut)
+[Next: Ruth](rut.md)

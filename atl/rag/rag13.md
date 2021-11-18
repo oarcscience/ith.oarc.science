@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag12)  [Next](rag14) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag12)  [Next](rag14.md) 
 
 ------------------------------------------------------------------------
 
@@ -246,4 +246,4 @@ in collision with the earth?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Consequences To The Earth](rag14)
+[Next: Chapter IV. The Consequences To The Earth](rag14.md)

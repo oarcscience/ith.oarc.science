@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb35)  [Next](vifb37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb35)  [Next](vifb37.md) 
 
 </div>
 
@@ -343,6 +343,6 @@ before, and he called its name Naples.
 
 ------------------------------------------------------------------------
 
-[Next: Mogarzea and His Son](vifb37)
+[Next: Mogarzea and His Son](vifb37.md)
 
 </div>

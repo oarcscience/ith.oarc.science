@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr16)  [Next](arr18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr16)  [Next](arr18.md) 
 
 ------------------------------------------------------------------------
 
@@ -253,4 +253,4 @@ preserve these secrets for posterity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Practical](arr18)
+[Next: Chapter II: Practical](arr18.md)

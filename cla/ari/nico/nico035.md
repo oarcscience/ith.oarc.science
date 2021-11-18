@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico034) 
-[Next](nico036) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico034.md) 
+[Next](nico036.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ So much, then, for liberality and the opposed vices.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. Magnificence, vulgarity, niggardliness](nico036)
+[Next: Chapter 2. Magnificence, vulgarity, niggardliness](nico036.md)

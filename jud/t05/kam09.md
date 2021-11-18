@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam08)  [Next](kam10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam08)  [Next](kam10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -42,7 +42,7 @@ properly bolted? If the gate is bolted so as to withstand an ordinary
 wind, it is called "properly"; if not, it is called "improperly." Said
 R. Mani b. Patish: Who is the Tana who holds that slight care is
 sufficient for a vicious one? It is R. Jehudah of the following Mishna
-(*supra*, page [104](kam07.htm#page_104)): If his owner secured him with
+(*supra*, page [104](kam07.htm#page_104).md): If his owner secured him with
 the rope and properly locked him up, and still he came out and did
 damage, whether he was non-vicious or he was vicious, there is a
 liability. Such is the dictum of R. Meir. R. Jehudah, however, says: For
@@ -232,7 +232,7 @@ struck upon the growing crop, and the benefit derived for which payment
 must be made is that it was prevented from striking hard upon the
 ground. But how is the case if it consumed some plants, does it not pay?
 Shall we say that Rabh is in accordance with his theory (above, page
-[109](kam08.htm#page_109)) "that the animal ought not to have eaten"?
+[109](kam08.htm#page_109).md) "that the animal ought not to have eaten"?
 What comparison is this? When did Rabh say this? Only when the animal
 was injured by the fruit which it consumed and the owner of the animal
 claims payment for such injuries, in such a case the owner of the fruit
@@ -424,7 +424,7 @@ the release as to the second estates because I lose nothing thereby, as
 I take my dower in the first estates, from which I have not released my
 right.) And he lectured that the Halakha prevails in accordance with R.
 Simeon b. Gamaliel of our Mishna, that if the fruit was ripe it must be
-appraised separately. <span id="fr_36"></span>[1](#fn_36)
+appraised separately. <span id="fr_36"></span>[1](#fn_36.md)
 
 <span id="page_141">p. 141</span>
 
@@ -772,7 +772,7 @@ much trouble.
 
 ### Footnotes
 
-<span id="fn_36"></span>[140:1](kam09.htm#fr_36) No commentary explains
+<span id="fn_36"></span>[140:1](kam09.htm#fr_36.md) No commentary explains
 for what purpose this statement is made here and what the marriage
 contract has to do with the appraisement of fruit, or why R. Huna finds
 it necessary to declare that there is a contradiction in Rabh's decision
@@ -792,4 +792,4 @@ the whole Talmud.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII.](kam10)
+[Next: Chapter VII.](kam10.md)

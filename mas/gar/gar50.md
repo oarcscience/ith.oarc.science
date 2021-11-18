@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar49)  [Next](gar51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar49)  [Next](gar51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -178,7 +178,7 @@ Or the following ODE may be sung:
 
 <span id="img_19200"></span> <span align="CENTER"> [![AIR—&lt;i&gt;Bonny
 Doon&lt;/i&gt;.](tn/19200.jpg)  
-Click to enlarge](img/19200.jpg)  
+Click to enlarge](img/19200.jpg.md)  
 AIR—*Bonny Doon*.  
 </span>
 
@@ -197,7 +197,7 @@ Ere vital spark no more incite;
 </div>
 
 <span id="img_19300"></span> <span align="CENTER"> [![](tn/19300.jpg)  
-Click to enlarge](img/19300.jpg)</span>
+Click to enlarge](img/19300.jpg.md)</span>
 
 <div style="margin-left: 32px">
 
@@ -223,4 +223,4 @@ Our dust, to dust again must flow,
 
 ------------------------------------------------------------------------
 
-[Next: Working Tools of the Master Mason](gar51)
+[Next: Working Tools of the Master Mason](gar51.md)

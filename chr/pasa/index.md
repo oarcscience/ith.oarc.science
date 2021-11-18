@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index)
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -12,13 +12,13 @@ JOHN NEVILLE FIGGIS
 
 ------------------------------------------------------------------------
 
-[Title Page](title)  
-[Preface](preface)  
-[General Scope of the 'De Civitate Dei'](chap01)  
-[The Philosophy of History](chap02)  
-[The State](chap03)  
-[The Church](chap04)  
-[The 'De Civitate Dei' in the Middle Ages](chap05)  
-[The 'De Civitate Dei' in Later Days](chap06)  
-[Bibliography](biblio)  
-[Appendix](appendix)  
+[Title Page](title.md)  
+[Preface](preface.md)  
+[General Scope of the 'De Civitate Dei'](chap01.md)  
+[The Philosophy of History](chap02.md)  
+[The State](chap03.md)  
+[The Church](chap04.md)  
+[The 'De Civitate Dei' in the Middle Ages](chap05.md)  
+[The 'De Civitate Dei' in Later Days](chap06.md)  
+[Bibliography](biblio.md)  
+[Appendix](appendix.md)  

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](mmm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](mmm07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Traces of a Hidden Tradition in Masonry and Medieval Mysticism*, by
 Isabel Cooper-Oakley, \[1900\], at Intangible Textual Heritage
 
@@ -89,14 +89,14 @@ with his heart set on a higher kingdom than his earthly realm.
 
 The most detailed description of the descent and genealogy of Titurel
 that we can briefly summarize is given by a group of German
-authors <span id="fr_188"></span>[\*](#fn_188) in a careful and
-laborious study of the "Jüngere," <span id="fr_189"></span>[†](#fn_189)
+authors <span id="fr_188"></span>[\*](#fn_188.md) in a careful and
+laborious study of the "Jüngere," <span id="fr_189"></span>[†](#fn_189.md)
 which runs as follows: Among the princes who gathered round Vespasian at
 the siege of Jerusalem were Sennabor, a Prince of Cappadocia <span
-id="fr_190"></span>[‡](#fn_190) and his three sons, Parille, Azubar and
+id="fr_190"></span>[‡](#fn_190.md) and his three sons, Parille, Azubar and
 Sabbilar. After the fall of the city these three brothers went to Rome,
 and were overwhelmed with gracious gifts by the Emperor. Parille
-received his daughter Argusilla <span id="fr_191"></span>[§](#fn_191)
+received his daughter Argusilla <span id="fr_191"></span>[§](#fn_191.md)
 for wife, and some provinces in France were also given to him. To the
 brothers Azubar and Sabbilar were given Anschowe (Anjou) and Kornwaleis
 (Cornwall). To Parille and Argusilla was born a son whom they
@@ -136,10 +136,10 @@ by an angel-guide; so carefully secluded was the spot, that it could not
 be discovered but by the aid of a higher Power.
 
 It is without doubt on the far side of Pyrenees <span
-id="fr_192"></span>[\*](#fn_192) that we find this legend most deeply
+id="fr_192"></span>[\*](#fn_192.md) that we find this legend most deeply
 engrafted, though the name of its abiding place is differently rendered
 by various writers. Thus the name *Mon Salväsch*, <span
-id="fr_193"></span>[†](#fn_193) or Mont Salvat, may from its wild and
+id="fr_193"></span>[†](#fn_193.md) or Mont Salvat, may from its wild and
 inaccessible position only mean the uncultivated mountain, *Mont
 Salvatge* or *Sauvage*. It is said that between Navarre and Arragon
 there is still a place named Salvaterra.
@@ -147,7 +147,7 @@ there is still a place named Salvaterra.
 The site of the Temple was shown to Titurel, and the "Invisible Helpers"
 brought him materials for the building; the description is marvellously
 elaborate, full of symbolical detail, <span
-id="fr_194"></span>[‡](#fn_194) entirely oriental in its whole
+id="fr_194"></span>[‡](#fn_194.md) entirely oriental in its whole
 construction, both material and ideal, but it cannot here be given, as
 our sketch is limited to
 
@@ -194,7 +194,7 @@ found by Flegetanis, the contents of which gave the Eastern sources of
 this tradition.
 
 By daily contemplation of the Grail Titurel's life <span
-id="fr_195"></span>[\*](#fn_195) had been prolonged for five hundred
+id="fr_195"></span>[\*](#fn_195.md) had been prolonged for five hundred
 years, and when he knew his forces were beginning to fail him, he
 gathered his children round him to instruct them on the spiritual
 significance of the Holy Grail.
@@ -215,9 +215,9 @@ appeared on the Grail, and then followed the names of the Knights who
 were to enter the Grail service. Titurel was also warned that his son,
 and his grandson, Amfortas, would suffer bodily injuries, as the result
 of their ungoverned natures. Finally, Titurel died in India, more than
-five hundred years old. <span id="fr_196"></span>[\*](#fn_196) Of his
+five hundred years old. <span id="fr_196"></span>[\*](#fn_196.md) Of his
 journey thither we know nothing, but the tradition runs, that there is a
-"waiting place," <span id="fr_197"></span>[†](#fn_197) whence the return
+"waiting place," <span id="fr_197"></span>[†](#fn_197.md) whence the return
 of these knightly souls is expected, in that region of peace, where they
 dwell and watch over the human race. Thus passes the Founder of the
 Grail-Kingship from our immediate view; he had but to strike the keynote
@@ -243,12 +243,12 @@ worthy to step within the sacred shrine.
 Warton speaks quite frankly in his book of "esoteric doctrines" which
 belonged to the "heathen world" (*sic*), and which have been
 transplanted into Christendom, a new name having therein been given to
-the old teachings of the East. <span id="fr_198"></span>[\*](#fn_198)
+the old teachings of the East. <span id="fr_198"></span>[\*](#fn_198.md)
 
 But we must pass on to the other aspects of this legend, and one of the
 most curious is the connection traced by many authors between the Holy
 Grail and the traditions of the Knights Templars. <span
-id="fr_199"></span>[†](#fn_199)
+id="fr_199"></span>[†](#fn_199.md)
 
 <span id="page_179">p. 179</span>
 
@@ -259,14 +259,14 @@ romances of the Sangreal (the legend of which is borrowed from the
 Apocryphal Gospels) composed, according to an essentially Albigensian
 idea, in glorification of the Templars, mark the period when the poets
 of the South felt the need of procuring auxiliaries in the North." <span
-id="fr_200"></span>[\*](#fn_200)</span>
+id="fr_200"></span>[\*](#fn_200.md)</span>
 
 It is Aroux to whom we are chiefly indebted for the secret thread which
 guides us through much of the tangled maze of the struggles of the
 mystics during the Middle Ages. He points out that the Holy Grail was a
-mystic Gospel <span id="fr_201"></span>[†](#fn_201) as well as the Holy
+mystic Gospel <span id="fr_201"></span>[†](#fn_201.md) as well as the Holy
 Chalice, containing a mysterious power. Another German <span
-id="fr_202"></span>[‡](#fn_202) thinker connects the legend of Titurel
+id="fr_202"></span>[‡](#fn_202.md) thinker connects the legend of Titurel
 with the origin of the Masonic Orders, and the early *Ritter-Orden* in
 Germany. It is Herr Doctor Simrock who has given us much detail with
 regard to the tradition of the Holy Grail and its connection with the
@@ -295,7 +295,7 @@ the name as well as on the different rules and customs of the Order
 which coincided \[with those of the Grail\]: for instance the Templars
 at the Lord's Supper, diverging from the Roman Liturgy, made use of the
 opening words of the Gospel of St. John, which change also occurs at the
-baptism of Feirefis; <span id="fr_203"></span>[\*](#fn_203) but he bases
+baptism of Feirefis; <span id="fr_203"></span>[\*](#fn_203.md) but he bases
 his arguments chiefly upon the heresies of which the Templars are known
 to have been accused: the worship of certain idols . . . . their belief
 in spirits and demons, which recall the " Heavenly Host " \[around the
@@ -308,8 +308,8 @@ Grail as they</span>
 undecided \[to San Marte\] whether the accusers took their incriminating
 charges from the Romances of the Grail, or from the scraps which had
 been published of the real teachings of the Templars. <span
-id="fr_204"></span>[\*](#fn_204) Other authorities <span
-id="fr_205"></span>[†](#fn_205) think that by these Templeisen are to be
+id="fr_204"></span>[\*](#fn_204.md) Other authorities <span
+id="fr_205"></span>[†](#fn_205.md) think that by these Templeisen are to be
 understood the Knights of San Salvador de Mont Real, who were, however,
 founded at a much later date, in the year 1120. Another Knightly</span>
 
@@ -323,7 +323,7 @@ moreover, been a close connection between the Order of the Templars and
 the House of Anjou, for a tax on his dominions for the benefit of the
 Templars had been imposed by Fulk. V. of Anjou, on his return from
 Jerusalem in 1120. It is, however the learned Baron von
-Hammer-Purgestall <span id="fr_206"></span>[\*](#fn_206) who gives the
+Hammer-Purgestall <span id="fr_206"></span>[\*](#fn_206.md) who gives the
 most detail on the connection of the Templars with the Holy Grail, by
 tracing its history from the identity of hieroglyphs which he found on
 the old churches and buildings in the Danubian Provinces. He
@@ -344,14 +344,14 @@ speaks of his history as
 <span id="page_183">p. 183</span>
 
 "that of a phantom taking many forms." <span
-id="fr_207"></span>[\*](#fn_207) The so-called apostate Nestorians, and
+id="fr_207"></span>[\*](#fn_207.md) The so-called apostate Nestorians, and
 the personage called Presbyter Johannes, appear to have been Manichæan
 Buddhists; the country of Prestre John was Indian Tartary, and the real
 Prestre John was the Grand Lama, the incarnation of Wisdom or
-Gnyâna. <span id="fr_208"></span>[†](#fn_208) Every authority joins in
+Gnyâna. <span id="fr_208"></span>[†](#fn_208.md) Every authority joins in
 admitting that there was some mysterious and powerful individual of this
 name, some identifying him with Gengis-Khan. <span
-id="fr_209"></span>[‡](#fn_209)
+id="fr_209"></span>[‡](#fn_209.md)
 
 <span id="page_184">p. 184</span>
 
@@ -362,10 +362,10 @@ therein made between this cryptic entity and that tradition.
 "and the transformation of Parzival into Prestre John is important for
 us to notice; according to the version of Wolfram, this curious and
 interesting person is the son of Urepanse, <span
-id="fr_210"></span>[\*](#fn_210) hence a cousin of Parzival; no details
+id="fr_210"></span>[\*](#fn_210.md) hence a cousin of Parzival; no details
 are given to us about this mysterious personage, whose existence,
 however, cannot be denied. The Monk Wilhelm von Rubruquis, <span
-id="fr_211"></span>[†](#fn_211) passing through the East about 1253,
+id="fr_211"></span>[†](#fn_211.md) passing through the East about 1253,
 told of a ruler in the northern regions of India, in 1057, called
 Ken-Khan. The Turks sought his help against the Christians. The
 Nestorians called him King Johannes. Interior Asia was peopled by
@@ -379,10 +379,10 @@ thirteenth</span>
 East, and the information thereof may have come to the West with the
 first crusade—confused with vague intelligence about the Hierarchy of
 the Dalai Lama, of whom Kiot may have heard." <span
-id="fr_212"></span>[\*](#fn_212)</span>
+id="fr_212"></span>[\*](#fn_212.md)</span>
 
 Writing on the " Disciples of St. John," Madame Blavatsky <span
-id="fr_213"></span>[†](#fn_213) says:
+id="fr_213"></span>[†](#fn_213.md) says:
 
 Glancing rapidly at the Ophites and Nazareans, we shall pass to their
 scions which yet exist in Syria and Palestine, under the name of Druzes
@@ -418,7 +418,7 @@ mis-called "Christians of St. John," but, in fact, should be known by
 their old name of Nazareans, or their new one of Mendaeans.</span>
 
 The poem entitled *Der Jüngere Titurel* <span
-id="fr_214"></span>[\*](#fn_214) deals most minutely with the passing of
+id="fr_214"></span>[\*](#fn_214.md) deals most minutely with the passing of
 the Grail-Kings to the realms of Prestre John; and in this work it is
 not Parzival around whom the chief interest is grouped, but Titurel and
 his race, as they follow the Founder; then—when the darkening of the
@@ -449,7 +449,7 @@ John should receive a son who should be a more powerful ruler than
 himself. But it was also decreed that Parzival should only wear the
 crown for ten years, since he was not entirely purified from the sin
 that his mother, Herzeloide, had died of grief for him. As San
-Marte <span id="fr_215"></span>[\*](#fn_215) points out, the sin was
+Marte <span id="fr_215"></span>[\*](#fn_215.md) points out, the sin was
 entirely unintentional on his part; nevertheless, it was still
 unexpiated and stained that spotless purity of a perfect life which was
 demanded of every knight who entered the service of the Holy Grail. Thus
@@ -471,7 +471,7 @@ occult properties of precious stones and metals and their powers; the
 stone that enables the wearer to make himself invisible, the condition
 being that he should do nothing dishonourable. Then we have the
 mysterious land of mist, where people <span
-id="fr_216"></span>[\*](#fn_216) are neither dark nor light, but have
+id="fr_216"></span>[\*](#fn_216.md) are neither dark nor light, but have
 lost all ordinary human colour. Again, there is the magic column brought
 from India, in which all that happens for miles around is represented;
 and one of the most important links is the clear reference made to
@@ -491,7 +491,7 @@ the Grail—the highest office—had to be entirely pure; all sensual love,
 even within the bounds
 
 of marriage, was forbidden; one single thought <span
-id="fr_217"></span>[\*](#fn_217) of passion would obscure the eye and
+id="fr_217"></span>[\*](#fn_217.md) of passion would obscure the eye and
 conceal the mystic vessel; the only marriage that was permitted amongst
 those who stepped on to this "Path" was the marriage of the King, and
 even that was not based on personal attractions or attachments; the
@@ -544,7 +544,7 @@ Wisdoms. Hearken! I will tell you all things which have befallen me.
 
 "It came to pass, when the sun had risen in the places of the East, a
 great Stream of Light descended, in which was my Vesture." <span
-id="fr_218"></span>[\*](#fn_218)
+id="fr_218"></span>[\*](#fn_218.md)
 
 The vesture of the Self in its perfect glory is of a purity of
 transcendent perfection. No mortal stained with earthly passion can gaze
@@ -577,7 +577,7 @@ theory—which in the Christian churches was transmitted under the name of
 the Secret Doctrine, *disciplina secreti*—is of a Fire as the universal
 force under different names, always the same at the basis, and
 manifesting itself by the same words and symbols." <span
-id="fr_219"></span>[\*](#fn_219)</span>
+id="fr_219"></span>[\*](#fn_219.md)</span>
 
 This Fire is the true Spirit of life, the living Word,
 
@@ -600,16 +600,16 @@ Thus runs the Legend of the Holy Grail.
 
 ### Footnotes
 
-<span id="fn_188"></span>[172:\*](mmm08.htm#fr_188) Hagen (Dr. H. von
+<span id="fn_188"></span>[172:\*](mmm08.htm#fr_188.md) Hagen (Dr. H. von
 der), Docen (B. J.), Büsching (J. G.), *Museum für Altdeutsche Literatur
 und Kunst*, i., 502 *et seq*. Berlin, 1809.
 
-<span id="fn_189"></span>[172:†](mmm08.htm#fr_189) Scharffenberg
+<span id="fn_189"></span>[172:†](mmm08.htm#fr_189.md) Scharffenberg
 (Albrecht von), *Der Jüngere Titurel;* *circa* 1270. Vilmar (A. F. C.),
 *Geschichte der deutschen National-Literatur*, i, 147. Marburg u.
 Leipzig, 1870.
 
-<span id="fn_190"></span>[172:‡](mmm08.htm#fr_190) Cappadocia was at
+<span id="fn_190"></span>[172:‡](mmm08.htm#fr_190.md) Cappadocia was at
 this time a Roman Province. Sennabor is rendered by some authorities as
 "Senbar." Says San Marte: "The first forerunners of Christianity in the
 west were demigods; and in Asia is rooted the main stem of the
@@ -620,45 +620,45 @@ brought his bloody worship." See "Der Mythus vom Heiligen Gral" in the
 Forschungen*. Herausgegeben von dem Thüringisch-Sächsichen Verein für
 Erforschung des vaterländischen Alterthums, III., iii., 5.
 
-<span id="fn_191"></span>[172:§](mmm08.htm#fr_191) Sometimes given as
+<span id="fn_191"></span>[172:§](mmm08.htm#fr_191.md) Sometimes given as
 Orgusille.
 
-<span id="fn_192"></span>[174:\*](mmm08.htm#fr_192) Says Görres: "The
+<span id="fn_192"></span>[174:\*](mmm08.htm#fr_192.md) Says Görres: "The
 Temple of *Mont Salvatsch* stands in Salvatierra, and not as people
 thought in distant Gallizein, but in Arragonia just at the entrance into
 Spain, and close to the Valley of Ronceval and the great road which
 leads from France towards Gallicia and Compostella."—*Lohengrin*.
 Koblentz, 1812.
 
-<span id="fn_193"></span>[174:†](mmm08.htm#fr_193) Sometimes called
+<span id="fn_193"></span>[174:†](mmm08.htm#fr_193.md) Sometimes called
 *San-Salvador*, or *Salvez*.
 
-<span id="fn_194"></span>[174:‡](mmm08.htm#fr_194) See Boisserée
+<span id="fn_194"></span>[174:‡](mmm08.htm#fr_194.md) See Boisserée
 (Sulpiz), *Über die Beschreibung des Heiligen Grals*. Munich, 1834. Also
 *Transactions of the Munich Academy*, i. 30. The description is in the
 *Jüngere Titurel*, edited by Hahn, strophe 311, 5842. San Marte (A.
 Schulz), *Leben and Dichten Wolfram's van Eschenbach*, ii., 357.
 Magdeburg, 1836.
 
-<span id="fn_195"></span>[176:\*](mmm08.htm#fr_195) In Persian history
+<span id="fn_195"></span>[176:\*](mmm08.htm#fr_195.md) In Persian history
 the life of Jemshad was extended to nearly seven centuries from a
 similar cause.
 
-<span id="fn_196"></span>[177:\*](mmm08.htm#fr_196) One of the few
+<span id="fn_196"></span>[177:\*](mmm08.htm#fr_196.md) One of the few
 definite dates is given to us by Görres in his *Lohengrin*, p. lxiii.
 where, speaking of Lohengrin's death, he says: "It was known now to the
 murderers who this Prince was . . . . they became monks . . . these
 events took place five hundred years after the birth of Jesus Christ."
 
-<span id="fn_197"></span>[177:†](mmm08.htm#fr_197) Here we have a clear
+<span id="fn_197"></span>[177:†](mmm08.htm#fr_197.md) Here we have a clear
 and most definite hint given that the doctrine of re-incarnation was
 taught by this Troubadour, who is handing down the Secret Wisdom of the
 Holy Grail.
 
-<span id="fn_198"></span>[178:\*](mmm08.htm#fr_198) Warton (Thomas,
+<span id="fn_198"></span>[178:\*](mmm08.htm#fr_198.md) Warton (Thomas,
 B.D.), *The History of English Poetry*, i., 85, London, 1824.
 
-<span id="fn_199"></span>[178:†](mmm08.htm#fr_199) "Le Temple du Graal
+<span id="fn_199"></span>[178:†](mmm08.htm#fr_199.md) "Le Temple du Graal
 une fois bâti dans les Pyrénées, Titurel institua pour sa defense et
 pour sa garde une milice, une Chevalerie spéciale, qui se nomme la
 Chevalerie du Temple, et dont les membres prennent le nom de Templiens,
@@ -675,18 +675,18 @@ celle-ci, si l’on fait abstraction de l’existence réelle de l’autre."
 Fauriel (C.), "Romans Provençaux," *Revue des Deux Mendes;* Première
 série, viii. 185. Paris, 1832.
 
-<span id="fn_200"></span>[179:\*](mmm08.htm#fr_200) Aroux (E.), *La
+<span id="fn_200"></span>[179:\*](mmm08.htm#fr_200) Aroux (E..md), *La
 Comédie de Dante*, i. 39. Paris, 1857.
 
-<span id="fn_201"></span>[179:†](mmm08.htm#fr_201) Aroux (E.), *Les
+<span id="fn_201"></span>[179:†](mmm08.htm#fr_201) Aroux (E..md), *Les
 Mystères de la Chevalerie*, p. 166. Paris, 1858.
 
-<span id="fn_202"></span>[179:‡](mmm08.htm#fr_202) Rosenkranz (Karl),
+<span id="fn_202"></span>[179:‡](mmm08.htm#fr_202) Rosenkranz (Karl.md),
 Doctor der Philosophie, zu Halle. *Uber den Titurel und Dante's Komödie
 mit einer Vorerinnerung über die Bildung der Geistlichen Ritter-Orden*,
 pp. 52-70. Halle u. Leipzig, 1829.
 
-<span id="fn_203"></span>[180:\*](mmm08.htm#fr_203) Baptism had a much
+<span id="fn_203"></span>[180:\*](mmm08.htm#fr_203.md) Baptism had a much
 deeper meaning among the Gnostic sects than among the orthodox church
 people. A "true baptism is only that which takes place in the living
 water;" and again, speaking of S. John the Baptist, "He . . . baptised
@@ -695,11 +695,11 @@ W.), *Die Mandäische Religion, ihre Entwickelung and Geschichtliche
 Bedeutung*, pp. 98 and 100. Leipzig, 1889. It was an Initiation into the
 Real Mysteries, and is so still.
 
-<span id="fn_204"></span>[181:\*](mmm08.htm#fr_204) Simrock (K. Dr.),
+<span id="fn_204"></span>[181:\*](mmm08.htm#fr_204) Simrock (K. Dr..md),
 *Parzifal and Titurel, Rittergedichte von Wolfram von Eschenbach*, p.
 793, third edition. Stuttgart u. Augsburg, 1857.
 
-<span id="fn_205"></span>[181:†](mmm08.htm#fr_205) Hagen (Dr. H. von
+<span id="fn_205"></span>[181:†](mmm08.htm#fr_205.md) Hagen (Dr. H. von
 der), Docen (B. J.), Büsching (J. G.), *Museum für Altdeutsche Literatur
 and Kunst*; i., 507. Berlin, 1809. Shallow J. (J. Y. A. Morshead), *The
 Templer's Trials*, p. 62. London, 1888. "M. Loiseleur considers that the
@@ -728,7 +728,7 @@ verbally important information from Prince to Prince." Thus was the
 secret mystical teaching preserved through the dark ages. Aroux (E.),
 *Mystères de la Chevalerie*, p. 189. Paris, 1858.
 
-<span id="fn_206"></span>[182:\*](mmm08.htm#fr_206) Hammer-Purgestall
+<span id="fn_206"></span>[182:\*](mmm08.htm#fr_206.md) Hammer-Purgestall
 (J. Baron von), "Mysterium Baphometis Revelatum; seu fratres militiæ
 Templi, quâ Gnostici et quidem ophiani, apostasiæ, idololatriæ et quidem
 impuritatis convicti per ipsa eorum monumenta." See *Fundgruben des
@@ -739,15 +739,15 @@ have Gnostic-Ophite symbols on them. But Nell says they are theosophical
 and alchemical: in both cases these authors trace the Grail legend to
 heretical sects.
 
-<span id="fn_207"></span>[183:\*](mmm08.htm#fr_207) Yule (Col.): see
+<span id="fn_207"></span>[183:\*](mmm08.htm#fr_207) Yule (Col..md): see
 *sub voce*, *Encyclo. Brit*.
 
-<span id="fn_208"></span>[183:†](mmm08.htm#fr_208) "Prestre John" seems
+<span id="fn_208"></span>[183:†](mmm08.htm#fr_208.md) "Prestre John" seems
 to have been the title of an office, for the periods of time at which we
 hear of this curious person are various. The person who succeeded to the
 position took the designation Prestre John.
 
-<span id="fn_209"></span>[183:‡](mmm08.htm#fr_209) Sir John Maundeville,
+<span id="fn_209"></span>[183:‡](mmm08.htm#fr_209.md) Sir John Maundeville,
 an old knight, writing in the fourteenth century, relates (Cassell's
 National Library, *The Voyages and Travels of Sir John Maundeville*, p.
 169) the following: "This Emperor Prester John takes always to wife the
@@ -777,10 +777,10 @@ sapphires, blended with gold to make him sleep well. This Emperor
 Prester John has evermore seven kings with him to serve him, who share
 their service by certain months."
 
-<span id="fn_210"></span>[184:\*](mmm08.htm#fr_210) Urepanse was one of
+<span id="fn_210"></span>[184:\*](mmm08.htm#fr_210.md) Urepanse was one of
 the grand-daughters of Titurel.
 
-<span id="fn_211"></span>[184:†](mmm08.htm#fr_211) In the account of the
+<span id="fn_211"></span>[184:†](mmm08.htm#fr_211.md) In the account of the
 travels of Rubruquis, in the *Geography of the Middle Ages*, Book III.,
 p. 270, London, 1831, we read: "There is reason to believe that the
 Nestorians had penetrated into China as early as the sixth or seventh
@@ -796,16 +796,16 @@ that name near Brussels. He started on his travels in 1253. He also said
 Constantinople some facts about the direction of the rivers in Tartary
 which he afterwards found to be true."
 
-<span id="fn_212"></span>[185:\*](mmm08.htm#fr_212) *Neue Mittheilungen
+<span id="fn_212"></span>[185:\*](mmm08.htm#fr_212.md) *Neue Mittheilungen
 aus dem Gebiete Historisch. Antiquarischer Forschungen*, ii. 36.
 
-<span id="fn_213"></span>[185:†](mmm08.htm#fr_213) Blavatsky (H. P.),
+<span id="fn_213"></span>[185:†](mmm08.htm#fr_213) Blavatsky (H. P..md),
 *Isis Unveiled*, ii.; pp. 289, 290. New York, 1884.
 
-<span id="fn_214"></span>[186:\*](mmm08.htm#fr_214) Scharffenberg (A.
+<span id="fn_214"></span>[186:\*](mmm08.htm#fr_214.md) Scharffenberg (A.
 von), *Der Jüngere Titurel*, 1270, line 5893 *et seq*.
 
-<span id="fn_215"></span>[187:\*](mmm08.htm#fr_215) San Marte (A.
+<span id="fn_215"></span>[187:\*](mmm08.htm#fr_215.md) San Marte (A.
 Schulz), "Vergleichung von Wolfram's Parzival mit Albrecht's Titurel in
 Theologischer Beziehung," *Germania*, viii., 454. Wien, 1863. This
 writer also remarks in the same interesting article that " the poem
@@ -816,17 +816,17 @@ poems, 'Titurel' and 'Parzival,' is only obtained by comparing them from
 the theological standpoint. . . . Titurel is full of learned and varied
 reminiscences brought from afar." *Op. cit.* supra, pp. 421, 422.
 
-<span id="fn_216"></span>[188:\*](mmm08.htm#fr_216) Some of the
+<span id="fn_216"></span>[188:\*](mmm08.htm#fr_216.md) Some of the
 Kâmalokic planes might be thus described.
 
-<span id="fn_217"></span>[189:\*](mmm08.htm#fr_217) "One single thought
+<span id="fn_217"></span>[189:\*](mmm08.htm#fr_217.md) "One single thought
 about the past that thou hast left behind will drag thee down."
 Blavatsky (H. P.), *The Voice of the Silence*, p. 23. London, 1892.
 
-<span id="fn_218"></span>[190:\*](mmm08.htm#fr_218) Mead (G. R. S.,
+<span id="fn_218"></span>[190:\*](mmm08.htm#fr_218.md) Mead (G. R. S.,
 B.A.), *The World-Mystery*, pp. 102, 104. London, 1895.
 
-<span id="fn_219"></span>[191:\*](mmm08.htm#fr_219) Burnouf (É.), *Le
+<span id="fn_219"></span>[191:\*](mmm08.htm#fr_219) Burnouf (É..md), *Le
 Vase Sacré et ce qu’il contient: dans l'Inde, la Perse, la Grèce, et
 dans l’Église Chrétienne;* avec un appendice sur le Saint Graal, p. 172.
 Paris, 1896.

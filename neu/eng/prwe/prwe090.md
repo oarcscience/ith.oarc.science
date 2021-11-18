@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe089)  [Next](prwe091) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe089)  [Next](prwe091.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ See Appendix Q.
 
 ------------------------------------------------------------------------
 
-[Next: The Sands at Lelant and Phillack](prwe091)
+[Next: The Sands at Lelant and Phillack](prwe091.md)

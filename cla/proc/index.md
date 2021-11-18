@@ -14,7 +14,7 @@ historian.
 <span class="c_da"></span>
 
 <span class="c_e"> <span class="c_t">[The Secret History of
-Procopius](shp/index)</span>  
+Procopius](shp/index.md)</span>  
 tr. by <span class="c_a">Richard Atwater</span> \[<span
 class="c_d">1927</span>\]  
 </span>

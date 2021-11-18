@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac16)  [Next](ybac18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac16)  [Next](ybac18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Gates, \[1937\], at Intangible Textual Heritage
 ### SEC. XIII. MONTEJO LEAVES YUCATAN WITH ALL HIS PEOPLE AND RETURNS TO MEXICO. HIS SON, FRANCISCO DE MONTEJO, AFTERWARDS PACIFIES YUCATAN.
 
 The Admiral Montejo did not carry out his settlement as he planned . . .
-. . . of one who has enemies, <span id="fr_14"></span>[\*](#fn_14)
+. . . of one who has enemies, <span id="fr_14"></span>[\*](#fn_14.md)
 because it was quite far from the sea for entry from and departure for
 Mexico, and for receiving goods from Spain. The Indians feeling it a
 hardship to serve strangers where they had been the lords, began to be
@@ -84,11 +84,11 @@ with her parents.
 
 ### Footnotes
 
-<span id="fn_14"></span>[22:\*](ybac17.htm#fr_14) A break in the
+<span id="fn_14"></span>[22:\*](ybac17.htm#fr_14.md) A break in the
 original here.
 
 ------------------------------------------------------------------------
 
 [Next: XIV. State Of Yucatan After the Departure of the Spaniards. Don
 Francisco, Son of the Admiral Montejo, Re-Establishes the Spanish Rule
-in Yucatan](ybac18)
+in Yucatan](ybac18.md)

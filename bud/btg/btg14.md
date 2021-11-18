@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg13)  [Next](btg15) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg13)  [Next](btg15.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ that became followers of the Buddha and they were lay disciples.
 
 ------------------------------------------------------------------------
 
-[Next: The Brahma's Request](btg15)
+[Next: The Brahma's Request](btg15.md)

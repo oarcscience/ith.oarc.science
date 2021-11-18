@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb28)  [Next](blfb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb28)  [Next](blfb30.md) 
 
 </div>
 
@@ -484,6 +484,6 @@ took to wearing again, never once pricked him severely.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Blue Beard](blfb30)
+[Next: Blue Beard](blfb30.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale07)  [Next](tale09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale07)  [Next](tale09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ was an ogress, who lived
 <span id="img_03500"></span>
 
 [![THE PRINCE FALLS IN WITH THE OGRESS](tn/03500.jpg)  
-Click to enlarge](img/03500.jpg)  
+Click to enlarge](img/03500.jpg.md)  
 THE PRINCE FALLS IN WITH THE OGRESS  
 
 in desolate places, and who by a thousand wiles surprised and devoured
@@ -194,7 +194,7 @@ once in smoke, and then, having resumed
 <span id="img_03900"></span>
 
 [![THE KING TURNS OVER THE LEAVES OF THE BOOK](tn/03900.jpg)  
-Click to enlarge](img/03900.jpg)  
+Click to enlarge](img/03900.jpg.md)  
 THE KING TURNS OVER THE LEAVES OF THE BOOK  
 
 his proper form, the first thing he did was to kick the vase into the
@@ -328,7 +328,7 @@ black slave came out. He was enormously tall,
 <span id="img_04300"></span>
 
 [![THE GIRL UPSETS THE FYRING-PAN](tn/04300.jpg)  
-Click to enlarge](img/04300.jpg)  
+Click to enlarge](img/04300.jpg.md)  
 THE GIRL UPSETS THE FYRING-PAN  
 
 <span id="page_44">p. 44</span> <span id="page_45">p. 45</span>
@@ -428,4 +428,4 @@ story.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Young King of the Black Isles](tale09)
+[Next: The Story of the Young King of the Black Isles](tale09.md)

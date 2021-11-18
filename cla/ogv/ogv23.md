@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv22)  [Next](ogv24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv22)  [Next](ogv24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,12 +34,12 @@ according to this admirable philosopher, it is of the past that the
 future is born, of the future that the past is formed, and of the union
 of both that is engendered the always existing present, from which they
 draw alike their origin: a most profound idea that the Stoics had
-adopted. <span id="fr_375"></span>[a](#fn_374) Thus, following this
+adopted. <span id="fr_375"></span>[a](#fn_374.md) Thus, following this
 doctrine, liberty rules in the future, necessity in the past, and
 Providence over the present. Nothing that exists happens by chance but
 by the union of the fundamental and providential law with the human will
 which follows or transgresses it, by operating upon necessity. <span
-id="fr_376"></span>[b](#fn_375) The harmony of the Will and Providence
+id="fr_376"></span>[b](#fn_375.md) The harmony of the Will and Providence
 constitutes Good; Evil is born of their opposition. Man has received
 three forces adapted to each of the three modifications of his being, to
 be guided in the course that he should pursue on earth and all three
@@ -85,7 +85,7 @@ the *ensemble*. The disciples of this philosopher having been extremely
 discreet and often obscure, one can only well appreciate the opinions of
 their master by throwing light upon them with those of the Platonists
 and Stoics, who have adopted and spread them without any reserve. <span
-id="fr_377"></span>[a](#fn_376)
+id="fr_377"></span>[a](#fn_376.md)
 
 Man, such as I have just depicted him, according to the idea that
 Pythagoras has conceived, placed under the
@@ -99,14 +99,14 @@ evils that he necessarily experiences; and far from accusing this same
 Providence which dispenses good and evil to each according to his merit
 and his anterior actions, can blame only himself if he suffers, through
 an inevitable consequence of his past mistakes. <span
-id="fr_378"></span>[a](#fn_377) For Pythagoras admitted many successive
-existences, <span id="fr_379"></span>[b](#fn_378) and maintained that
+id="fr_378"></span>[a](#fn_377.md) For Pythagoras admitted many successive
+existences, <span id="fr_379"></span>[b](#fn_378.md) and maintained that
 the present, which strikes us, and the future, which menaces us, are
 only the expression of the past which has been our work in anterior
 times. He said that the greater part of men lose, in returning to life,
 the remembrance of these past existences; but that, concerning himself,
 he had, by a particular favour of the gods, preserved the memory of
-them. <span id="fr_380"></span>[c](#fn_379) Thus according to his
+them. <span id="fr_380"></span>[c](#fn_379.md) Thus according to his
 doctrine, this fatal Necessity, of which man unceasingly complains, has
 been created by himself through the use of his will; he traverses, in
 proportion as he advances in time, the road that he has already traced
@@ -121,7 +121,7 @@ attribute to it the origin of evil, as those who admitted only one
 principle of things, or to give to evil an absolute existence, as those
 who admitted two principles. In this, he was in accordance with the
 ancient doctrine which was followed by the oracles of the gods. <span
-id="fr_381"></span>[d](#fn_380) The Pythagoreans, however, did not
+id="fr_381"></span>[d](#fn_380.md) The Pythagoreans, however, did not
 regard
 
 <span id="page_171">p. 171</span>
@@ -131,7 +131,7 @@ veritable evils; they called veritable evils only sins, vices, and
 errors into which one falls voluntarily. In their opinion, the physical
 and inevitable evils being illustrated by the presence of virtue, could
 be transformed into blessings and become distinguished and
-enviable. <span id="fr_382"></span>[a](#fn_381) These last evils,
+enviable. <span id="fr_382"></span>[a](#fn_381.md) These last evils,
 dependent upon necessity, Lysis commended to be judged for what they
 were; that is, to consider as an inevitable consequence of some mistake,
 as the chastisement or remedy for some vice; and therefore to endure
@@ -142,11 +142,11 @@ the lines cited, assuaging them by lawful means; on the contrary, he
 desires that the sage should apply himself to diverting them if
 possible, and healing them. Thus this philosopher did not fall into the
 excess with which the Stoics have been justly reproached. <span
-id="fr_383"></span>[b](#fn_382) He considered pain evil, not that it was
+id="fr_383"></span>[b](#fn_382.md) He considered pain evil, not that it was
 of the same nature as vice, but because its nature, a purgative for
 vice, makes it a necessary consequence. Plato adopted this idea, and
 made all the inferences felt with his customary eloquence. <span
-id="fr_384"></span>[c](#fn_383)
+id="fr_384"></span>[c](#fn_383.md)
 
 As to what Lysis said, always following Pythagoras, that the sage was
 never exposed to the cruelest evils, this can be understood as Hierocles
@@ -162,40 +162,40 @@ inflict upon him, and bearing them with resignation, he alleviates them;
 living happy, even in the midst of misfortune, in the firm hope that
 these evils will no more trouble his days, and certain that the divine
 blessings which are reserved for virtue, await him in another
-life. <span id="fr_385"></span>[a](#fn_384) Hierocles, after having
+life. <span id="fr_385"></span>[a](#fn_384.md) Hierocles, after having
 revealed this first manner of explaining the verse in question, touches
 lightly upon the second, in saying that the Will of man can have an
 influence on Providence, when, acting in a lofty soul, it is assisted by
 succour from heaven and operates with it. <span
-id="fr_386"></span>[b](#fn_385) This was a part of the doctrine taught
+id="fr_386"></span>[b](#fn_385.md) This was a part of the doctrine taught
 in the mysteries, whose divulgence to the profane was forbidden.
 According to this doctrine, of which sufficiently strong traces can be
-recognized in Plato, <span id="fr_387"></span>[c](#fn_386) the Will,
+recognized in Plato, <span id="fr_387"></span>[c](#fn_386.md) the Will,
 exerting itself by faith, was able to subjugate Necessity itself, to
 command Nature, and to work miracles. It was the principle upon which
 was founded the magic of the disciples of Zoroaster. <span
-id="fr_388"></span>[d](#fn_387) Jesus saying parabolically, that by
+id="fr_388"></span>[d](#fn_387.md) Jesus saying parabolically, that by
 means of faith one could remove mountains, <span
-id="fr_389"></span>[e](#fn_388) only spoke according to the theosophical
+id="fr_389"></span>[e](#fn_388.md) only spoke according to the theosophical
 traditions known to all the sages. "The uprightness of the heart and
 faith triumphs over all obstacles," said Kong-Tse <span
-id="fr_390"></span>[f](#fn_389); "all men can render themselves equal to
+id="fr_390"></span>[f](#fn_389.md); "all men can render themselves equal to
 the sages and to the heroes whose memory the nations revere," said
 Meng-Tse; "it is never the power which is lacking, it is the will;
 provided one desire, one succeeds." <span
-id="fr_391"></span>[g](#fn_390) These ideas of the Chinese theosophists
+id="fr_391"></span>[g](#fn_390.md) These ideas of the Chinese theosophists
 are found in the writings of the Indians, <span
-id="fr_392"></span>[h](#fn_391) and even in those of some Europeans who,
+id="fr_392"></span>[h](#fn_391.md) and even in those of some Europeans who,
 as I have already observed, had not enough erudition to be imitators.
 "The greater the will," said Boehme, "the greater the being and
 
 <span id="page_173">p. 173</span>
 
-the more powerfully inspired." <span id="fr_393"></span>[a](#fn_392)
+the more powerfully inspired." <span id="fr_393"></span>[a](#fn_392.md)
 "Will and liberty are the same thing." <span
-id="fr_394"></span>[b](#fn_393) "It is the source of light, the magic
+id="fr_394"></span>[b](#fn_393.md) "It is the source of light, the magic
 which makes something from nothing." <span
-id="fr_395"></span>[c](#fn_394)
+id="fr_395"></span>[c](#fn_394.md)
 
 The Will which goes resolutely forward is faith; it models its own form
 in spirit and overcomes all things; by it, a soul receives the power of
@@ -208,7 +208,7 @@ can be named that cannot be commanded in the name of the Eternal. The
 soul which executes these great things only imitates the prophets and
 the saints, Moses, Jesus, and the apostles. All the elect have a similar
 power. Evil disappears before them. Nothing can harm the one in whom God
-dwells." <span id="fr_396"></span>[d](#fn_395)
+dwells." <span id="fr_396"></span>[d](#fn_395.md)
 
 It is in departing from this doctrine, taught as I have said in the
 mysteries, that certain gnostics of the Alexandrian school assert that
@@ -216,7 +216,7 @@ evils never attended the true sages, if there were found men who might
 have been so in reality; for Providence, image of divine justice, would
 never allow the innocent to suffer and be punished. Basil, who was one
 of those who supported this Platonic opinion, <span
-id="fr_397"></span>[e](#fn_396) was sharply reprimanded by the orthodox
+id="fr_397"></span>[e](#fn_396.md) was sharply reprimanded by the orthodox
 Christians, who treated him as a heretic, quoting to him the example of
 the martyrs. Basil replied that the martyrs were not entirely innocent,
 because there is no man exempt from faults; that God punishes in them,
@@ -230,19 +230,19 @@ however,
 suffered the torture of the cross, Basil answered without hesitation
 that God had been just, in his opinion, and that Jesus, being man, was
 no more than another exempt from sin. <span
-id="fr_398"></span>[a](ogv24.htm#fn_397)
+id="fr_398"></span>[a](ogv24.htm#fn_397.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_374"></span>[168:a](ogv23.htm#fr_375) Senec., *De Sen.*, l.
+<span id="fn_374"></span>[168:a](ogv23.htm#fr_375.md) Senec., *De Sen.*, l.
 vi., c. 2.
 
-<span id="fn_375"></span>[168:b](ogv23.htm#fr_376) Hiérocl., *Aur.
+<span id="fn_375"></span>[168:b](ogv23.htm#fr_376.md) Hiérocl., *Aur.
 carmin.*, v. 18.
 
-<span id="fn_376"></span>[169:a](ogv23.htm#fr_377) Jamblic., *De Vitâ
+<span id="fn_376"></span>[169:a](ogv23.htm#fr_377.md) Jamblic., *De Vitâ
 Pythag.*; Porphyr., *ibid*., *et de Abstin.*; *Vitâ Pythag.* *apud;*
 Phot., *Cod.*, 259; Diog. Laërt., *In Pythag.*, l. viii.; Hierocl.,
 *Comment. in Aur. Carm.*; *ibid*., *De Provident.*; Philost., *In Vitâ
@@ -250,16 +250,16 @@ Apollon*; Plutar., *De Placit. philos.*; *ibid*., *De Procreat. anim.*;
 Apul., *In Florid.*; Macrob., *In Saturn.* et *Somn. Scip.*; Fabric.,
 *Bibl. græc. in Pythag.*; Clem. Alex., *Strom.*, passim., etc.
 
-<span id="fn_377"></span>[170:a](ogv23.htm#fr_378) Hiérocl., *Aur.
+<span id="fn_377"></span>[170:a](ogv23.htm#fr_378.md) Hiérocl., *Aur.
 Carm.*, v. 14; Phot., *Cod.*, 242 et 214.
 
-<span id="fn_378"></span>[170:b](ogv23.htm#fr_379) Diog. Laërt., *In
+<span id="fn_378"></span>[170:b](ogv23.htm#fr_379.md) Diog. Laërt., *In
 Pythag.*; *ibid*., *In Emped.*
 
-<span id="fn_379"></span>[170:c](ogv23.htm#fr_380) Hiérocl., Pont.
+<span id="fn_379"></span>[170:c](ogv23.htm#fr_380.md) Hiérocl., Pont.
 *apud* Diog. Laërt., l. viii., § 4.
 
-<span id="fn_380"></span>[170:d](ogv23.htm#fr_381) Maximus Tyrius has
+<span id="fn_380"></span>[170:d](ogv23.htm#fr_381.md) Maximus Tyrius has
 made a dissertation upon the origin of Evil, in <span id="page_171">p.
 171</span> which he asserts that the prophetic oracles, having been
 consulted on this subject, responded by these two lines from Homer:
@@ -267,53 +267,53 @@ consulted on this subject, responded by these two lines from Homer:
 "We accuse the gods of our evils, while we ourselves  
  By our own errors, are responsible for them."
 
-<span id="fn_381"></span>[171:a](ogv23.htm#fr_382) Hiérocl., *Aur.
+<span id="fn_381"></span>[171:a](ogv23.htm#fr_382.md) Hiérocl., *Aur.
 Carm.*, v. 18.
 
-<span id="fn_382"></span>[171:b](ogv23.htm#fr_383) Plutar., *De Repugn.
+<span id="fn_382"></span>[171:b](ogv23.htm#fr_383.md) Plutar., *De Repugn.
 Stoïc.*
 
-<span id="fn_383"></span>[171:c](ogv23.htm#fr_384) *In Gorgi*. et
+<span id="fn_383"></span>[171:c](ogv23.htm#fr_384.md) *In Gorgi*. et
 *Phileb*.
 
-<span id="fn_384"></span>[172:a](ogv23.htm#fr_385) Hiérocl., *Aur.
+<span id="fn_384"></span>[172:a](ogv23.htm#fr_385.md) Hiérocl., *Aur.
 Carmin.*, v., 18.
 
-<span id="fn_385"></span>[172:b](ogv23.htm#fr_386) Hiérocl., *Aur.
+<span id="fn_385"></span>[172:b](ogv23.htm#fr_386.md) Hiérocl., *Aur.
 Carmin.*, v. 18, 49 et 62.
 
-<span id="fn_386"></span>[172:c](ogv23.htm#fr_387) *In Phédon;* *In
+<span id="fn_386"></span>[172:c](ogv23.htm#fr_387.md) *In Phédon;* *In
 Hipp.*, ii.; *In Theæt*.; *De Rep.*, l. iv., etc.
 
-<span id="fn_387"></span>[172:d](ogv23.htm#fr_388) Hyde, *De Relig. Vet.
+<span id="fn_387"></span>[172:d](ogv23.htm#fr_388.md) Hyde, *De Relig. Vet.
 Pers.*, p. 298.
 
-<span id="fn_388"></span>[172:e](ogv23.htm#fr_389) *Evan. S. Math.*, ch.
+<span id="fn_388"></span>[172:e](ogv23.htm#fr_389.md) *Evan. S. Math.*, ch.
 xvii., v. 19.
 
-<span id="fn_389"></span>[172:f](ogv23.htm#fr_390) *Vie de Kong-Tzée*
+<span id="fn_389"></span>[172:f](ogv23.htm#fr_390.md) *Vie de Kong-Tzée*
 (*Confucius*), p. 324.
 
-<span id="fn_390"></span>[172:g](ogv23.htm#fr_391) Meng-Tzée, cité par
+<span id="fn_390"></span>[172:g](ogv23.htm#fr_391.md) Meng-Tzée, cité par
 Duhalde, t. ii., p. 334.
 
-<span id="fn_391"></span>[172:h](ogv23.htm#fr_392) Krishna,
+<span id="fn_391"></span>[172:h](ogv23.htm#fr_392.md) Krishna,
 *Bhagavad-Gita*, lect. ii.
 
-<span id="fn_392"></span>[173:a](ogv23.htm#fr_393) *XL Questions sur
+<span id="fn_392"></span>[173:a](ogv23.htm#fr_393.md) *XL Questions sur
 l’Ame (Viertzig Fragen von der Seilen Orstand, Essentz, Wesen, Natur and
 Eigenschafft*, etc. Amsterdam, 1682). Quest. 1.
 
-<span id="fn_393"></span>[173:b](ogv23.htm#fr_394) *Ibid*.
+<span id="fn_393"></span>[173:b](ogv23.htm#fr_394.md) *Ibid*.
 
-<span id="fn_394"></span>[173:c](ogv23.htm#fr_395) *IX Textes*, text. 1
+<span id="fn_394"></span>[173:c](ogv23.htm#fr_395.md) *IX Textes*, text. 1
 et 2.
 
-<span id="fn_395"></span>[173:d](ogv23.htm#fr_396) *XL Questions*,
+<span id="fn_395"></span>[173:d](ogv23.htm#fr_396.md) *XL Questions*,
 quest. 6.
 
-<span id="fn_396"></span>[173:e](ogv23.htm#fr_397) Plato, *In Theag.*
+<span id="fn_396"></span>[173:e](ogv23.htm#fr_397.md) Plato, *In Theag.*
 
 ------------------------------------------------------------------------
 
-[Next: 13. Even as Truth, does Error have its lovers](ogv24)
+[Next: 13. Even as Truth, does Error have its lovers](ogv24.md)

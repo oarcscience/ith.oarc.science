@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc012) 
-[Next](motc014) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc012.md) 
+[Next](motc014.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ water and afterward took shape as the smaller fishes and frogs.
 
 ------------------------------------------------------------------------
 
-[Next: 14. The Deluge](motc014)
+[Next: 14. The Deluge](motc014.md)

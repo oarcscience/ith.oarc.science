@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo10)  [Next](sdo12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo10)  [Next](sdo12.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ the property of the first who takes it.
 
 ------------------------------------------------------------------------
 
-[Next: The Journey of the Bands to the Sun Dance Site](sdo12)
+[Next: The Journey of the Bands to the Sun Dance Site](sdo12.md)

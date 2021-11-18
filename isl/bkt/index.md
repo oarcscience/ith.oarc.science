@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Islam](../index)
+[Sacred-Texts](../../index) [Islam](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -17,8 +17,8 @@ stories of the prophets, a genre which has been perrenially popular in
 the world of Islam. Most of the characters present in the stories are
 the same prophets which are familiar from the Bible and other Jewish and
 Christian sources. (Notable exceptions to this are [Hud and
-Salih](bkt06), and Al Chidhr, who appears in the story of
-[Moses](bkt09).) Although the selections and translations appear to be
+Salih](bkt06.md), and Al Chidhr, who appears in the story of
+[Moses](bkt09)..md) Although the selections and translations appear to be
 fair and accurate enough, the commentary is hostile to Islam throughout,
 rendering the omnipresent editorial hand suspect. More recent printed
 versions of the stories, which are more comprehensive and sympathetic,
@@ -31,17 +31,17 @@ second is a more modern restatement.</span>
 
 ------------------------------------------------------------------------
 
-[Title Page](bkt00)  
-[TRANSLATOR'S PREFACE.](bkt01)  
-[INTRODUCTION.](bkt02)  
-[CONTENTS.](bkt03)  
+[Title Page](bkt00.md)  
+[TRANSLATOR'S PREFACE.](bkt01.md)  
+[INTRODUCTION.](bkt02.md)  
+[CONTENTS.](bkt03.md)  
    
-[ADAM. (A MOHAMMEDAN LEGEND.)](bkt04)  
-[IDRIS, OR ENOCH.](bkt05)  
-[NOAH, HUD, AND SALIH.](bkt06)  
-[ABRAHAM.](bkt07)  
-[JOSEPH.](bkt08)  
-[MOSES AND AARON.](bkt09)  
-[SAMUEL, SAUL, AND DAVID.](bkt10)  
-[SOLOMON AND THE QUEEN OF SABA.](bkt11)  
-[JOHN, MARY, AND CHRIST.](bkt12)  
+[ADAM. (A MOHAMMEDAN LEGEND.)](bkt04.md)  
+[IDRIS, OR ENOCH.](bkt05.md)  
+[NOAH, HUD, AND SALIH.](bkt06.md)  
+[ABRAHAM.](bkt07.md)  
+[JOSEPH.](bkt08.md)  
+[MOSES AND AARON.](bkt09.md)  
+[SAMUEL, SAUL, AND DAVID.](bkt10.md)  
+[SOLOMON AND THE QUEEN OF SABA.](bkt11.md)  
+[JOHN, MARY, AND CHRIST.](bkt12.md)  

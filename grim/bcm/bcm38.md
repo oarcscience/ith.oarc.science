@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm37)  [Next](bcm39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm37)  [Next](bcm39.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ he must arm himself with intrepidity and prudence, and this is the first
 counsel of his guides to the *Sanctum Regnum* of Goëtia.
 
 "O men! O impotent mortals!" cries the author of the *Grand
-Grimoire*, <span id="fr_74"></span>[1](#fn_74) "tremble at your own
+Grimoire*, <span id="fr_74"></span>[1](#fn_74.md) "tremble at your own
 temerity when you blindly aspire to the possession of a science so
 profound. Lift up your minds beyond your limited sphere, and learn of me
 that before you undertake anything it is necessary that you should
@@ -44,7 +44,7 @@ enterprises. Arm yourselves, therefore, with intrepidity, prudence,
 wisdom and virtue, as qualifications for this grand and illimitable
 work, in which I have passed sixty-and-seven years, toiling night and
 day for the attainment of success in so sublime an object." <span
-id="fr_75"></span>[2](#fn_75)
+id="fr_75"></span>[2](#fn_75.md)
 
 <span id="page_144">p. 144</span>
 
@@ -55,11 +55,11 @@ satisfaction of the other common appetites.
 
 ### Footnotes
 
-<span id="fn_74"></span>[143:1](bcm38.htm#fr_74) Book I. c. 2.
+<span id="fn_74"></span>[143:1](bcm38.htm#fr_74.md) Book I. c. 2.
 
-<span id="fn_75"></span>[143:2](bcm38.htm#fr_75) The speaker is
+<span id="fn_75"></span>[143:2](bcm38.htm#fr_75.md) The speaker is
 pseudo-Solomon.
 
 ------------------------------------------------------------------------
 
-[Next: Section 3: Concerning Continence and Abstinence](bcm39)
+[Next: Section 3: Concerning Continence and Abstinence](bcm39.md)

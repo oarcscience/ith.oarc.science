@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft08)  [Next](gft10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft08)  [Next](gft10.md) 
 
 ------------------------------------------------------------------------
 
@@ -309,11 +309,11 @@ until this day.
 <span id="img_06200"></span>
 
 [![As he played, they danced to his measure.](tn/06200.jpg)  
-Click to enlarge](img/06200.jpg)  
+Click to enlarge](img/06200.jpg.md)  
 As he played, they danced to his measure.  
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Part Two: How Jason Lost His Sandal in Anauros](gft10)
+[Next: Part Two: How Jason Lost His Sandal in Anauros](gft10.md)

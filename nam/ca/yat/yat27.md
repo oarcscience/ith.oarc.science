@@ -1,23 +1,23 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat26)  [Next](yat28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat26)  [Next](yat28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### IV. THE FLINTS AND GRIZZLY BEARS <span id="fr_161"></span>[340a](#fn_156)
+### IV. THE FLINTS AND GRIZZLY BEARS <span id="fr_161"></span>[340a](#fn_156.md)
 
-At Balā'wi <span id="fr_162"></span>[340b](#fn_157) lived Flint Woman
+At Balā'wi <span id="fr_162"></span>[340b](#fn_157.md) lived Flint Woman
 (Djuwa'lk!aimari?mi). Eagle, Buzzard, Bluejay, and other birds lived
 there too. Eagle stayed outside all the while, called all the people
 brothers. He
@@ -175,7 +175,7 @@ Moon people began to push one another about, tried to push the boy, but
 could not move him. Soon he took out his pipe, smoked, and all the
 people fell dead, and Moon too. The boy said, "I do not want you to be
 trying to fight or to hit me. I am mā'p‘djam?aina, <span
-id="fr_163"></span>[340c](#fn_158) I cannot die." The two women he
+id="fr_163"></span>[340c](#fn_158.md) I cannot die." The two women he
 
 <span id="page_221">p. 221</span>
 
@@ -197,18 +197,18 @@ died. I did so. I caused you dead people to come to life."
 
 ### Footnotes
 
-<span id="fn_156"></span>[216:340a](yat27.htm#fr_161) This myth was
+<span id="fn_156"></span>[216:340a](yat27.htm#fr_161.md) This myth was
 evidently obtained from Round Mountain Jack, as shown, among other
 things, by the linguistic form (North Yana) of the Indian names
 occurring in it. It differs considerably in detail from the form of the
 myth obtained by myself from Sam Bat‘wī (no. I), and is therefore given
 here in full. Curtin's version also is evidently, a Central Yana one.
 
-<span id="fn_157"></span>[216:340b](yat27.htm#fr_162) A mountain north
+<span id="fn_157"></span>[216:340b](yat27.htm#fr_162.md) A mountain north
 of Stillwater creek.
 
-<span id="fn_158"></span>[220:340c](yat27.htm#fr_163) See note 63.
+<span id="fn_158"></span>[220:340c](yat27.htm#fr_163.md) See note 63.
 
 ------------------------------------------------------------------------
 
-[Next: V. ‘I'lhat?aina](yat28)
+[Next: V. ‘I'lhat?aina](yat28.md)

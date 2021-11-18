@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac03)  [Next](sac05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac03)  [Next](sac05.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ proposed to build.
 
 Numerous references to the ceremonial of laying the foundation-stones of
 temples exist, and we learn from the works of Chabas, Brugsch,
-Dümichen <span id="fr_0"></span>[1](#fn_0) and others, that the
+Dümichen <span id="fr_0"></span>[1](#fn_0.md) and others, that the
 foundation of an Egyptian temple was associated with a series of
 ceremonies which are repeatedly described with great minuteness. Amongst
 these ceremonies, one especially refers to the fixing of the
@@ -76,7 +76,7 @@ Nile began.
 
 Although the sun is no longer worshipped in Egypt or Britain,
 sun-worship has not yet disappeared from the world. Professor Gowland
-has recently <span id="fr_1"></span>[1](#fn_1) brought to notice a
+has recently <span id="fr_1"></span>[1](#fn_1.md) brought to notice a
 surviving form of sun-worship in Japan. I quote his statement:—
 
 "There on the seashore at Fûta-mi-ga-ura (as will be seen in a copy of a
@@ -84,7 +84,7 @@ print which I obtained at that ancient place) the orientation of the
 shrine of adoration is given by two gigantic rocks which rise from the
 sea as natural pillars. The sun as it rises over the mountains of the
 distant shore is observed between them, and the customary prayers and
-offerings made in that direction ([Fig. 1](#img_fig01)).
+offerings made in that direction ([Fig. 1](#img_fig01).md).
 
 "It is, too, specially worthy of note that the point from which the sun
 is revered is marked by a structure of the form of a trilithon, but made
@@ -111,7 +111,7 @@ attempts to grasp the
 <span id="img_fig01"></span>
 
 [![FIG. 1.—Present sun worship in Japan.](tn/fig01.jpg)  
-Click to enlarge](img/fig01.jpg)  
+Click to enlarge](img/fig01.jpg.md)  
 FIG. 1.—Present sun worship in Japan.  
 
 meaning and phenomena of the universe in which he found himself before
@@ -135,7 +135,7 @@ worship
 [![FIG. 2.—The celestial sphere, conditions at the North Pole. A
 parallel sphere. &lt;i&gt;N.P.&lt;/i&gt;, North celestial Pole;
 &lt;i&gt;N&lt;/i&gt;., position of observer.](tn/fig02.jpg)  
-Click to enlarge](img/fig02.jpg)  
+Click to enlarge](img/fig02.jpg.md)  
 FIG. 2.—The celestial sphere, conditions at the North Pole. A parallel
 sphere. *N.P.*, North celestial Pole; *N*., position of observer.  
 
@@ -162,7 +162,7 @@ Pole of the earth, for instance,
 sphere, &lt;i&gt;Q&lt;/i&gt;, standpoint of observer;
 &lt;i&gt;PP&lt;/i&gt;, the celestial poles; &lt;i&gt;EW&lt;/i&gt;, east
 and west points.](tn/fig03.jpg)  
-Click to enlarge](img/fig03.jpg)  
+Click to enlarge](img/fig03.jpg.md)  
 FIG. 3.—The celestial sphere, conditions at the Equator. A right sphere,
 *Q*, standpoint of observer; *PP*, the celestial poles; *EW*, east and
 west points.  
@@ -179,7 +179,7 @@ and rising and setting points of an equatorial star;
 &lt;i&gt;CC´C″&lt;/i&gt; and &lt;i&gt;AA´A″&lt;/i&gt;, those of stars of
 mid declination, one north and the other south; &lt;i&gt;O&lt;/i&gt;,
 standpoint of observer.](tn/fig04.jpg)  
-Click to enlarge](img/fig04.jpg)  
+Click to enlarge](img/fig04.jpg.md)  
 FIG. 4.—The celestial sphere, conditions in a middle latitude. An
 oblique sphere. In this woodcut *DD´* shows the apparent path of a
 circumpolar star; *BB´B″*, the path and rising and setting points of an
@@ -195,7 +195,7 @@ would of course see that
 half of the stars invisible to the observer at the northern one.
 
 If the observer be on the equator, the movements of the stars will
-appear to be as indicated in this diagram ([Fig. 3](#img_fig03))—that
+appear to be as indicated in this diagram ([Fig. 3](#img_fig03).md)—that
 is, all the stars will rise and set, and each star will be, in turn,
 twelve hours above the horizon, and the same time below it. But if we
 consider the position of an observer in a middle latitude, say at
@@ -204,7 +204,7 @@ some always below—that is, they will neither rise nor set. All other
 stars will both rise and set, but some of them will be above the horizon
 for a long time and below for a short time, whereas others will be a
 very short time above the horizon and a long time below it, each star
-completing a circle in a day ([Fig. 4](#img_fig04)).
+completing a circle in a day ([Fig. 4](#img_fig04).md).
 
 Wherever we are upon the earth we always imagine that we are on the top
 of it. The idea held by all the early peoples was that the surface of
@@ -325,7 +325,7 @@ and Stonehenge respectively.
 <span id="img_01100"></span>
 
 [![AMPLITUDES AT THEBES AND STONEHENGE.](tn/01100.jpg)  
-Click to enlarge](img/01100.jpg)  
+Click to enlarge](img/01100.jpg.md)  
 AMPLITUDES AT THEBES AND STONEHENGE.  
 
 The amplitude is always the complement of the azimuth, so that amplitude
@@ -337,11 +337,11 @@ considered.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](sac04.htm#fr_0) "Baugeschichte des
+<span id="fn_0"></span>[1:1](sac04.htm#fr_0.md) "Baugeschichte des
 Dendera-Tempels." 1877.
 
-<span id="fn_1"></span>[3:1](sac04.htm#fr_1) "Archæologia," vol. lviii.
+<span id="fn_1"></span>[3:1](sac04.htm#fr_1.md) "Archæologia," vol. lviii.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Astronomical Divisions of the Year](sac05)
+[Next: Chapter II. The Astronomical Divisions of the Year](sac05.md)

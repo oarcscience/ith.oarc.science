@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos32)  [Next](gbos34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos32)  [Next](gbos34.md) 
 
 ------------------------------------------------------------------------
 
@@ -192,4 +192,4 @@ your lovely realms, I say hail and farewell."
 
 ------------------------------------------------------------------------
 
-[Next: The Second-Degree Initiation](gbos34)
+[Next: The Second-Degree Initiation](gbos34.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](geol01)  [Previous](geo00) 
-[Next](geo02) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](geol01)  [Previous](geo00.md) 
+[Next](geo02.md) 
 
 ------------------------------------------------------------------------
 
@@ -490,4 +490,4 @@ driver is swept on by his horses, and the car hearkens not to the rein.
 
 ------------------------------------------------------------------------
 
-[Next: Second Book](geo02)
+[Next: Second Book](geo02.md)

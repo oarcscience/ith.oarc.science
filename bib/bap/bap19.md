@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap18) 
-[Next](bap20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap18.md) 
+[Next](bap20.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ III\. *And it came to pass when men had begun*
 *to multiply on the earth*, that beautiful *daughters were born unto
 them*. *And the sons of God saw the daughters of men that they were*
 exceeding *fair, and took them wives of all that they had chosen*. 2.
- <span id="fr_22"></span>[1](#fn_22) *And God said: My spirit shall not*
+ <span id="fr_22"></span>[1](#fn_22.md) *And God said: My spirit shall not*
 judge *among these men for ever, because they are of flesh; but their
 years shall be* 120. Upon whom he laid (*or* wherein I have set) the
 ends of the world, and in their hands wickednesses were not put out (or
@@ -125,7 +125,7 @@ accepted of the Lord for a savour of rest.
 
 9\. *And God said: I will not again curse the earth for man's sake, for
 the guise of man's heart* hath left off <span
-id="fr_23"></span>[1](#fn_23) *from his youth. And therefore I will not
+id="fr_23"></span>[1](#fn_23.md) *from his youth. And therefore I will not
 again destroy together all living as I have done*. But it shall be, when
 the dwellers upon earth have sinned, I will judge them by famine or by
 the sword or by fire or by pestilence (*lit*. death), and there shall be
@@ -140,7 +140,7 @@ be scattered). But I will not again spoil the earth with the water of a
 flood, and *in all the days of the earth seed time and harvest, cold and
 heat, summer and autumn, day and night shall not cease*, until I
 remember them that dwell on the earth, *even* until the times are
-fulfilled. 10.  <span id="fr_24"></span>[2](#fn_24) But when the years
+fulfilled. 10.  <span id="fr_24"></span>[2](#fn_24.md) But when the years
 of the world shall be fulfilled, then shall the light cease and the
 darkness be quenched: and I will quicken the dead and raise up from the
 earth them that sleep: and Hell shall pay his debt and destruction give
@@ -154,7 +154,7 @@ until I judge between the soul and the flesh. And the world shall rest,
 and death shall be quenched, and Hell shall shut his mouth. And the
 earth shall not be without birth, neither barren for them that dwell
 therein: and none shall be polluted that hath been justified in me <span
-id="fr_25"></span>[1](#fn_25). And there shall be another earth and
+id="fr_25"></span>[1](#fn_25.md). And there shall be another earth and
 another heaven, even an everlasting habitation.
 
 |          |
@@ -190,7 +190,7 @@ earth*.
 
 ### Footnotes
 
-<span id="fn_22"></span>[79:1](bap19.htm#fr_22) III. 2. *fin*. See the
+<span id="fn_22"></span>[79:1](bap19.htm#fr_22.md) III. 2. *fin*. See the
 variants, which are difficult to explain. If the reading *et in manibus
 eorum scelera non extinguebantur* is right, the clause would be better
 placed after *opera malignitatum* in the next verse. "And God saw that
@@ -201,18 +201,18 @@ Flood, and especially to Moses (see IX. 8 *fin*.): the last preceding
 words ("their years shall be 120") do certainly apply to them and to
 him. The antediluvians are to perish utterly. See on XVI. 3.
 
-<span id="fn_23"></span>[81:1](bap19.htm#fr_23) 9. *the guise of man's
+<span id="fn_23"></span>[81:1](bap19.htm#fr_23.md) 9. *the guise of man's
 heart hath left off* (*figura cordis hominis desiit*: Cohn suggests
 *desipit*) "ὁ Ἑβραῖοσ" (ap. Euseb. Emis. in Catena: see Field's
 *Hexapla* in loc.) has τὸ πλάσμα τῆσ καρδίασ ἀνθρώπου.
 
-<span id="fn_24"></span>[81:2](bap19.htm#fr_24) 10. This is the first
+<span id="fn_24"></span>[81:2](bap19.htm#fr_24.md) 10. This is the first
 really characteristic passage.
 
-<span id="fn_25"></span>[82:1](bap19.htm#fr_25) *that hath been
+<span id="fn_25"></span>[82:1](bap19.htm#fr_25.md) *that hath been
 justified in me*. The word occurs in XLIX. 45 "Is Armathem *iustificata*
 more than all the cities of Israel?" and in LI. 2.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV.](bap20)
+[Next: Chapter IV.](bap20.md)

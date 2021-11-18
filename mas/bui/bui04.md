@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui03)  [Next](bui05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui03)  [Next](bui05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -78,7 +78,7 @@ That picturesque and variegated maze of the early symbolism of the race
 we cannot study in detail, tempting as it is. Indeed, so luxuriant was
 that old picture-language that we may easily miss our way and get lost
 in the labyrinth, unless we keep to the right path. <span
-id="fr_9"></span>[1](#fn_9) First of all, throughout
+id="fr_9"></span>[1](#fn_9.md) First of all, throughout
 
 <span id="page_21">p. 21</span>
 
@@ -156,7 +156,7 @@ be* and *well*. As such, it is a sign indicating "that the maze of life
 may bewilder, but a path of light runs through it: *It is well* is the
 name of the path, and the key to life eternal is in the strange
 labyrinth for those whom God leadeth." <span
-id="fr_10"></span>[1](#fn_10) Others hold it to have been an emblem of
+id="fr_10"></span>[1](#fn_10.md) Others hold it to have been an emblem of
 the Pole Star whose stability in the sky, and the procession of the Ursa
 Major around it, so impressed the ancient world. Men saw the sun
 journeying across the heavens every day in a slightly different track,
@@ -164,7 +164,7 @@ then standing still, as it were, at the solstice, and then returning on
 its way back. They saw the moon changing not only its orbit, but its
 size and shape and time of appearing. Only the Pole Star remained fixed
 and stable, and it became, not unnaturally, a light of assurance and the
-footstool of the Most High. <span id="fr_11"></span>[2](#fn_11) Whatever
+footstool of the Most High. <span id="fr_11"></span>[2](#fn_11.md) Whatever
 its meaning, the Swastika shows us the efforts of the early man to read
 the riddle of things, and his intuition of a love at the heart of life.
 
@@ -176,7 +176,7 @@ forever holy by the highest
 heroism of Love. When man climbed up out of the primeval night, with his
 face to heaven upturned, he had a cross in his hand. Where he got it,
 why he held it, and what he meant by it, no one can conjecture much less
-affirm. <span id="fr_12"></span>[1](#fn_12) Itself a paradox, its arms
+affirm. <span id="fr_12"></span>[1](#fn_12.md) Itself a paradox, its arms
 pointing to the four quarters of the earth, it is found in almost every
 part of the world carved on coins, altars, and tombs, and furnishing a
 design for temple architecture in Mexico and Peru, in the pagodas of
@@ -224,7 +224,7 @@ the tools, laws, and materials
 
 of building. Even so, in almost every land and in the remotest ages we
 find great and beautiful truth hovering about the builder and clinging
-to his tools. <span id="fr_13"></span>[1](#fn_13) Whether there were
+to his tools. <span id="fr_13"></span>[1](#fn_13.md) Whether there were
 organized orders of builders in the early times no one can tell, though
 there may have been. No matter; man mixed thought and worship with his
 work, and as he cut his altar stones and fitted them together he thought
@@ -241,10 +241,10 @@ after ages as Ceres or Cybele—hence, as some
 
 aver, the derivation of the word "cube." At first rough stones were most
 sacred, and an altar of hewn stones was forbidden. <span
-id="fr_14"></span>[1](#fn_14) With the advent of the cut cube, the
+id="fr_14"></span>[1](#fn_14.md) With the advent of the cut cube, the
 temple became known as the House of the Hammer—its altar, always in the
 center, being in the form of a cube and regarded as "an index or emblem
-of Truth, ever true to itself." <span id="fr_15"></span>[2](#fn_15)
+of Truth, ever true to itself." <span id="fr_15"></span>[2](#fn_15.md)
 Indeed, the cube, as Plutarch points out in his essay *On the Cessation
 of Oracles*, "is palpably the proper emblem of rest, on account of the
 security and firmness of the superficies." He further tells us that the
@@ -255,7 +255,7 @@ a square stone, while a large black stone was the emblem of Buddha among
 the Hindoos, of Manah Theus-Ceres in Arabia, and of Odin in Scandinavia.
 Everyone knows of the Stone of Memnon in Egypt, which was said to speak
 at sun-rise—as, in truth, all stones spoke to man in the sunrise of
-time. <span id="fr_16"></span>[3](#fn_16)
+time. <span id="fr_16"></span>[3](#fn_16.md)
 
 More eloquent, if possible, was the Pillar uplifted, like the pillars of
 the gods upholding the heavens. Whatever may have been the origin of
@@ -264,7 +264,7 @@ pillars, and
 <span id="page_29">p. 29</span>
 
 there is more than one theory, Evans has shown that they were everywhere
-worshiped as gods. <span id="fr_17"></span>[1](#fn_17) Indeed, the gods
+worshiped as gods. <span id="fr_17"></span>[1](#fn_17.md) Indeed, the gods
 themselves were pillars of Light and Power, as in Egypt Horus and Sut
 were the twin-builders and supporters of heaven; and Bacchus among the
 Thebans. At the entrance of the temple of Amenta, at the door of the
@@ -280,7 +280,7 @@ at Bethel, Joshua at Gilgal, and Samuel at Mizpeh and Shen. Always they
 were symbols of stability, of what the Egyptians described as "the place
 of establishing forever,"—emblems of the faith "that the pillars of the
 earth are the Lord's, and He hath set the world upon them." <span
-id="fr_18"></span>[2](#fn_18)
+id="fr_18"></span>[2](#fn_18.md)
 
 Long before our era we find the working tools of the Mason used as
 emblems of the very truths which they teach today. In the oldest classic
@@ -302,7 +302,7 @@ the writings of Mencius it is taught that men should apply the square
 and compasses morally to their lives, and the level and the marking line
 besides, if they would walk in the straight and even paths of wisdom,
 and keep themselves within the bounds of honor and virtue. <span
-id="fr_19"></span>[1](#fn_19) In the sixth book of his philosophy we
+id="fr_19"></span>[1](#fn_19.md) In the sixth book of his philosophy we
 find these words:
 
 <div style="margin-left: 32px">
@@ -310,7 +310,7 @@ find these words:
 <span class="small">A Master Mason, in teaching apprentices, makes use
 of the compasses and the square. Ye who are engaged in the pursuit of
 wisdom must also make use of the compass and square. <span
-id="fr_20"></span>[2](#fn_20)</span>
+id="fr_20"></span>[2](#fn_20.md)</span>
 
 </div>
 
@@ -325,20 +325,20 @@ pretending to have full knowledge of them. Oddly enough, it seems to
 have gathered about a symbolical temple put up in the desert, that the
 various officers of the faith were distinguished by symbolic jewels, and
 that at its rites they wore leather aprons. <span
-id="fr_21"></span>[1](#fn_21) From such records as we have it is not
+id="fr_21"></span>[1](#fn_21.md) From such records as we have it is not
 possible to say whether the builders themselves used their tools as
 emblems, or whether it was the thinkers who first used them to teach
 moral truths. In any case, they were understood; and the point here is
 that, thus early, the tools of the builder were teachers of wise and
 good and beautiful truth. Indeed, we need not go outside the Bible to
 find both the materials and working tools of the Mason so
-employed: <span id="fr_22"></span>[2](#fn_22)
+employed: <span id="fr_22"></span>[2](#fn_22.md)
 
 <div style="margin-left: 32px">
 
 <span class="small">For every house is builded by some man; but the
 builder of all things is God . . . whose house we are. <span
-id="fr_23"></span>[3](#fn_23)</span>
+id="fr_23"></span>[3](#fn_23.md)</span>
 
 </div>
 
@@ -347,44 +347,44 @@ id="fr_23"></span>[3](#fn_23)</span>
 <div style="margin-left: 32px">
 
 Behold, I lay in Zion for a foundation a tried stone, a precious
-corner-stone, a sure foundation. <span id="fr_24"></span>[1](#fn_24)
+corner-stone, a sure foundation. <span id="fr_24"></span>[1](#fn_24.md)
 
 The stone which the builders rejected is become the head of the
-corner. <span id="fr_25"></span>[2](#fn_25)
+corner. <span id="fr_25"></span>[2](#fn_25.md)
 
 Ye also, as living stones, are built up into a spiritual house. <span
-id="fr_26"></span>[3](#fn_26)
+id="fr_26"></span>[3](#fn_26.md)
 
 When he established the heavens I was there, when he set the compass
 upon the face of the deep, when he marked out the foundations of the
 earth: then was I by him as a master workman. <span
-id="fr_27"></span>[4](#fn_27)
+id="fr_27"></span>[4](#fn_27.md)
 
 The Lord stood upon a wall made by a plumbline, with a plumbline in his
 hand. And the Lord said unto me, Amos, what seest thou? And I said, A
 plumbline. Then said the Lord, Behold, I will set a plumbline in the
 midst of my people Israel: I will not again pass by them any more. <span
-id="fr_28"></span>[5](#fn_28)
+id="fr_28"></span>[5](#fn_28.md)
 
 Ye shall offer the holy oblation foursquare, with the possession of the
-city. <span id="fr_29"></span>[6](#fn_29)
+city. <span id="fr_29"></span>[6](#fn_29.md)
 
 And the city lieth foursquare, and the length is as large as the
-breadth. <span id="fr_30"></span>[7](#fn_30)
+breadth. <span id="fr_30"></span>[7](#fn_30.md)
 
 Him that overcometh I will make a pillar in the temple of my God; and I
-will write upon him my new name. <span id="fr_31"></span>[8](#fn_31)
+will write upon him my new name. <span id="fr_31"></span>[8](#fn_31.md)
 
 For we know that when our earthly house of this tabernacle is dissolved,
 we have a building of God, an house not made with hands, eternal in the
-heavens. <span id="fr_32"></span>[9](#fn_32)
+heavens. <span id="fr_32"></span>[9](#fn_32.md)
 
 </div>
 
 <span id="page_33">p. 33</span>
 
 If further proof were needed, it has been preserved for us in the
-imperishable stones of Egypt. <span id="fr_33"></span>[1](#fn_33) The
+imperishable stones of Egypt. <span id="fr_33"></span>[1](#fn_33.md) The
 famous obelisk, known as Cleopatra's Needle, now in Central Park, New
 York, the gift to our nation from Ismail, Khedive of Egypt in 1878, is a
 mute but eloquent witness of the antiquity of the simple symbols of the
@@ -444,7 +444,7 @@ That the line is unbroken!</span>
 
 ### Footnotes
 
-<span id="fn_9"></span>[20:1](bui04.htm#fr_9) There are many books in
+<span id="fn_9"></span>[20:1](bui04.htm#fr_9.md) There are many books in
 this field, but two may be named: *The Lost Language of Symbolism*, by
 Bayley, and the *Signs and Symbols of Primordial Man*, by Churchward,
 each in its own way remarkable. The first aspires to be for this field
@@ -460,18 +460,18 @@ they do not scruple to use the divining rod; and the result often passes
 out of the realm of pedestrian chronicle into the world of winged
 literature.
 
-<span id="fn_10"></span>[24:1](bui04.htm#fr_10) *The Word in the
+<span id="fn_10"></span>[24:1](bui04.htm#fr_10.md) *The Word in the
 Pattern*, Mrs. G. F. Watts.
 
-<span id="fn_11"></span>[24:2](bui04.htm#fr_11) *The Swastika*, Thomas
+<span id="fn_11"></span>[24:2](bui04.htm#fr_11.md) *The Swastika*, Thomas
 Carr. See essay by the same writer in which he shows that the Swastika
 is the symbol of the Supreme Architect of the Universe among Operative
 Masons today (*The Lodge of Research*, No. 2429, Transactions, 1911-12).
 
-<span id="fn_12"></span>[25:1](bui04.htm#fr_12) *Signs and Symbols*,
+<span id="fn_12"></span>[25:1](bui04.htm#fr_12.md) *Signs and Symbols*,
 Churchward, chap. xvii.
 
-<span id="fn_13"></span>[27:1](bui04.htm#fr_13) Here again the
+<span id="fn_13"></span>[27:1](bui04.htm#fr_13.md) Here again the
 literature is voluminous, but not entirely satisfactory. A most
 interesting book is *Signs and Symbols of Primordial Man*, by
 Churchward, in that it surveys the symbolism of the race always with
@@ -485,60 +485,60 @@ mines of insight and scholarship, albeit betraying his partisanship of
 the Indo-Aryan race. Many .minor books might be named, but we need a
 work brought up to date and written in the light of recent research.
 
-<span id="fn_14"></span>[28:1](bui04.htm#fr_14) Exod. 20:25.
+<span id="fn_14"></span>[28:1](bui04.htm#fr_14.md) Exod. 20:25.
 
-<span id="fn_15"></span>[28:2](bui04.htm#fr_15) *Antiquities of
+<span id="fn_15"></span>[28:2](bui04.htm#fr_15.md) *Antiquities of
 Cornwall*, Borlase.
 
-<span id="fn_16"></span>[28:3](bui04.htm#fr_16) *Lost Language of
+<span id="fn_16"></span>[28:3](bui04.htm#fr_16.md) *Lost Language of
 Symbolism*, Bayley, chap. xviii; also in the Bible, Deut. 32:18, II Sam.
 22:3, 32, Psa. 28:1, Matt. 16:18, I Cor. 10:4.
 
-<span id="fn_17"></span>[29:1](bui04.htm#fr_17) *Tree and Pillar Cult*,
+<span id="fn_17"></span>[29:1](bui04.htm#fr_17.md) *Tree and Pillar Cult*,
 Sir Arthur Evans.
 
-<span id="fn_18"></span>[29:2](bui04.htm#fr_18) I Sam. 2:8, Psa. 75:8,
+<span id="fn_18"></span>[29:2](bui04.htm#fr_18.md) I Sam. 2:8, Psa. 75:8,
 Job 26:7, Rev. 3:12.
 
-<span id="fn_19"></span>[30:1](bui04.htm#fr_19) *Freemasonry in China*,
+<span id="fn_19"></span>[30:1](bui04.htm#fr_19.md) *Freemasonry in China*,
 Giles. Also Gould, *His. Masonry*, vol. i, chap. i.
 
-<span id="fn_20"></span>[30:2](bui04.htm#fr_20) *Chinese Classics*, by
+<span id="fn_20"></span>[30:2](bui04.htm#fr_20.md) *Chinese Classics*, by
 Legge, i, 219-45.
 
-<span id="fn_21"></span>[31:1](bui04.htm#fr_21) Essay by Chaloner
+<span id="fn_21"></span>[31:1](bui04.htm#fr_21.md) Essay by Chaloner
 Alabaster, *Ars Quatuor Coronatorum*, vol. ii, 121-24. It is not too
 much to say that the Transactions of this Lodge of Research are the
 richest storehouse of Masonic lore in the world.
 
-<span id="fn_22"></span>[31:2](bui04.htm#fr_22) Matt. 16:18, Eph.
+<span id="fn_22"></span>[31:2](bui04.htm#fr_22.md) Matt. 16:18, Eph.
 2:20-22, I Cor. 2:9-17. Woman is the house and wall of man, without
 whose bounding and redeeming influence he would be dissipated and lost
 (Song of Solomon 8:10). So also by the mystics (*The Perfect Way*).
 
-<span id="fn_23"></span>[31:3](bui04.htm#fr_23) Heb. 3:4.
+<span id="fn_23"></span>[31:3](bui04.htm#fr_23.md) Heb. 3:4.
 
-<span id="fn_24"></span>[32:1](bui04.htm#fr_24) Isa. 28:16.
+<span id="fn_24"></span>[32:1](bui04.htm#fr_24.md) Isa. 28:16.
 
-<span id="fn_25"></span>[32:2](bui04.htm#fr_25) Psa. 118:22, Matt.
+<span id="fn_25"></span>[32:2](bui04.htm#fr_25.md) Psa. 118:22, Matt.
 21:42.
 
-<span id="fn_26"></span>[32:3](bui04.htm#fr_26) I Pet. 2:5.
+<span id="fn_26"></span>[32:3](bui04.htm#fr_26.md) I Pet. 2:5.
 
-<span id="fn_27"></span>[32:4](bui04.htm#fr_27) Prov. 8:27-30, Revised
+<span id="fn_27"></span>[32:4](bui04.htm#fr_27.md) Prov. 8:27-30, Revised
 Version.
 
-<span id="fn_28"></span>[32:5](bui04.htm#fr_28) Amos 7:7, 8.
+<span id="fn_28"></span>[32:5](bui04.htm#fr_28.md) Amos 7:7, 8.
 
-<span id="fn_29"></span>[32:6](bui04.htm#fr_29) Ezk. 48:20.
+<span id="fn_29"></span>[32:6](bui04.htm#fr_29.md) Ezk. 48:20.
 
-<span id="fn_30"></span>[32:7](bui04.htm#fr_30) Rev. 21:16.
+<span id="fn_30"></span>[32:7](bui04.htm#fr_30.md) Rev. 21:16.
 
-<span id="fn_31"></span>[32:8](bui04.htm#fr_31) Rev. 3:12.
+<span id="fn_31"></span>[32:8](bui04.htm#fr_31.md) Rev. 3:12.
 
-<span id="fn_32"></span>[32:9](bui04.htm#fr_32) II Cor. 5:1.
+<span id="fn_32"></span>[32:9](bui04.htm#fr_32.md) II Cor. 5:1.
 
-<span id="fn_33"></span>[33:1](bui04.htm#fr_33) *Egyptian Obelisks*, H.
+<span id="fn_33"></span>[33:1](bui04.htm#fr_33.md) *Egyptian Obelisks*, H.
 H. Gorringe. The obelisk in Central Park, the expenses for removing
 which were paid by W. H. Vanderbilt, was examined by the Grand Lodge of
 New York, and its emblems pronounced to be unmistakably Masonic. This
@@ -547,4 +547,4 @@ their measurements, inscriptions, and transportation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Drama of Faith](bui05)
+[Next: Chapter III. The Drama of Faith](bui05.md)

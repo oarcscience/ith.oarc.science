@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](itb03) [Next](itb05)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](itb03) [Next](itb05.md)
 
 ------------------------------------------------------------------------
 
@@ -268,7 +268,7 @@ the victors went back to their homes.
 
 ------------------------------------------------------------------------
 
-[Next](itb05)
+[Next](itb05.md)
 
  
 

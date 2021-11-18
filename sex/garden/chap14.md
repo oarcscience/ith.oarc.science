@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap13) 
-[Next](chap15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap13.md) 
+[Next](chap15.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ Highest, will become pregnant.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 15: Concerning the Causes of Impotence in Men](chap15)
+[Next: Chapter 15: Concerning the Causes of Impotence in Men](chap15.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](tms02)  [Next](tms04) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](tms02)  [Next](tms04.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,15 +29,15 @@ So in the old Roman days Titus Manlius, having killed a gigantic Gaul in
 a hand-to-hand conflict, cut off the Gaul's head, "wrenched off his
 necklace and placed it, reeking with blood, on his own neck." From that
 time on he and his descendants bore the surname Torquatus (torques--a
-chain or necklace). <span id="fr_0"></span>[1](#fn_0) The family of
+chain or necklace). <span id="fr_0"></span>[1](#fn_0.md) The family of
 Torquatus had the necklace as a device down to the time of the Emperor
-Caligula, who forbade its use. <span id="fr_1"></span>[2](#fn_1) Again,
+Caligula, who forbade its use. <span id="fr_1"></span>[2](#fn_1.md) Again,
 in a much later time, during one of the pagan persecutions, a Christian,
 Saturus, was thrown to the leopards. A single gnash of the wild beast
 bathed him in blood. Turning to a soldier who was also, but in secret, a
 Christian, he asked for the ring which he was wearing; and when the
 soldier gave it to him, he smeared it with his own lifeblood and handed
-it back. <span id="fr_2"></span>[3](#fn_2)
+it back. <span id="fr_2"></span>[3](#fn_2.md)
 
 These are not merely the actions of a bloodthirsty soldier, crazed with
 victory, and of a religious fanatic. It was the inability to think
@@ -51,7 +51,7 @@ no means limited to that theoretical period, nor, indeed, to the savage,
 for it may be found to-day among children and even among adults. Thus a
 four-year-old child came running to her kindergarten teacher in a
 fright, sobbing out, "The sky barked at me!" <span
-id="fr_3"></span>[4](#fn_3) The child had observed the barking of a dog;
+id="fr_3"></span>[4](#fn_3.md) The child had observed the barking of a dog;
 the sky made a noise which seemed to her exactly like it. Hence she felt
 that the sky was like a dog, if not actually a dog.
 
@@ -84,7 +84,7 @@ instance, that a thing which has been in contact with another thing is
 still in contact with it, however far removed it may be in reality. This
 may be referred to as the principle of contact.
 
-In the Attic Nights of Gellius <span id="fr_4"></span>[5](#fn_4) we read
+In the Attic Nights of Gellius <span id="fr_4"></span>[5](#fn_4.md) we read
 that, if a dispute involving land was to be settled, the disputants,
 together with the judge, were compelled to go to the land involved and
 "lay hands" on the property. With the growth of Italy, however, the
@@ -93,7 +93,7 @@ property; so the disputants would visit the land, returning with a clod
 of earth taken from it, and perform at Rome the necessary "laying on" of
 hands, just as if present on the land itself.
 
-Apuleius preserves for us <span id="fr_5"></span>[6](#fn_5) the story of
+Apuleius preserves for us <span id="fr_5"></span>[6](#fn_5.md) the story of
 Thelyphron, who lost his nose and ears in a most remarkable manner. On
 his arrival at Larissa on the way to the Olympian Games, he rambled
 about the streets, seeking some means of bettering his fortunes.
@@ -130,27 +130,27 @@ who, as the people believed, often came back as a wonder-working wizard,
 was called upon to rid the city of the pests. As the story goes, he
 consulted Il Moscone, the king of the flies, and at his suggestion
 caused a great golden image of a fly to be set up, which miraculously
-drove the pests from the city. <span id="fr_6"></span>[7](#fn_6) This
+drove the pests from the city. <span id="fr_6"></span>[7](#fn_6.md) This
 illustrates the axiom that "like cures like," a principle which magic
 and medicine have in common.
 
 The Romans themselves had some inkling of the principles involved in
 such stories as these. Cicero, for example, writes: <span
-id="fr_7"></span>[8](#fn_7) "For, since bodies fell to earth, and these
+id="fr_7"></span>[8](#fn_7.md) "For, since bodies fell to earth, and these
 were covered with earth . . . men would think that the rest of the life
 of the dead was passed under the earth." Lucretius, in describing the
-struggles of primitive man, says: <span id="fr_8"></span>[9](#fn_8) "But
+struggles of primitive man, says: <span id="fr_8"></span>[9](#fn_8.md) "But
 in those times mankind was much hardier in the fields, as was fitting,
 because the earth which had produced them was hard." According to
-Ovid, <span id="fr_9"></span>[10](#fn_9) the reason why the Romans gave
+Ovid, <span id="fr_9"></span>[10](#fn_9.md) the reason why the Romans gave
 gifts of dates, figs and honey on New Year's Day was "that the year
 might in sweetness go through the course which it had begun." Apuleius,
 in his defense against the charge of using a certain fish for magic
 purposes because of its indecent name and form, retorts: <span
-id="fr_10"></span>[11](#fn_10) "Tell me, is there anything more foolish
+id="fr_10"></span>[11](#fn_10.md) "Tell me, is there anything more foolish
 than to infer from the similarity in the names of things that their
 force is identical?" And, finally, Servius writes: <span
-id="fr_11"></span>[12](#fn_11) "In sacrifices, likenesses are accepted
+id="fr_11"></span>[12](#fn_11.md) "In sacrifices, likenesses are accepted
 for realities. Hence, when animals which are difficult to find must be
 sacrificed, they are made of bread or wax and are accepted as the real
 victims."
@@ -165,7 +165,7 @@ the Romans themselves were conscious of it.
 
 Now religion seems to be the outgrowth of man's need to overcome the
 obstacles which nature places in his way in his struggle to
-survive. <span id="fr_12"></span>[13](#fn_12) Rain, drought, hail
+survive. <span id="fr_12"></span>[13](#fn_12.md) Rain, drought, hail
 destroy his crops; lightning strikes his house; pestilence carries off
 his loved ones and his cattle. These evils, of whose origin he is
 ignorant, he must ward off, if he would survive; and he must, similarly,
@@ -187,7 +187,7 @@ scientifically, occasionally some of them like Lucretius or Cicero would
 remark a principle, upon the discovery of which modern anthropologists
 still plume themselves. Lucretius, the Roman exponent of Epicureanism,
 anticipated many modern problems in physical and social science. He has
-left us  <span id="fr_13"></span>[14](#fn_13) a vividly imaginative
+left us  <span id="fr_13"></span>[14](#fn_13.md) a vividly imaginative
 account of some of these early struggles of man:
 
 "They neither knew how to treat things with fire nor how to use the
@@ -212,7 +212,7 @@ what was needed to heal their wounds. . . . In those days lack of food
 would bring death to their fainting limbs; in our times, on the
 contrary, it is overabundance which sinks them in ruin."
 
-Cicero once wrote: <span id="fr_14"></span>[15](#fn_14) "Is it not as
+Cicero once wrote: <span id="fr_14"></span>[15](#fn_14.md) "Is it not as
 clear as day that the awe which early man felt because lightning and
 thunder had terrified him led him to believe that Jupiter, mighty in all
 things, caused these phenomena too?"
@@ -230,10 +230,10 @@ cooling showers after the heat of the day. However, other persons,
 things, or actions are found to be always harmful.
 
 To this mysterious force, whether harmful or helpful, or potentially so,
-the name mana is given. <span id="fr_15"></span>[16](#fn_15) Mana which
+the name mana is given. <span id="fr_15"></span>[16](#fn_15.md) Mana which
 has been found to be always harmful is called taboo, and to this we
 choose to give the name negative mana. <span
-id="fr_16"></span>[17](#fn_16) Mana which has been found to be always
+id="fr_16"></span>[17](#fn_16.md) Mana which has been found to be always
 good is usually called simply mana; but to this it seems better to give
 the name positive mana. Now there is no essential difference between a
 person, thing, or action possessing positive mana, which one compels by
@@ -318,7 +318,7 @@ been in contact with Daphnis.
 ### Animism
 
 We now turn to another subject--animism <span
-id="fr_17"></span>[18](#fn_17)--which, like magic and taboo, is often
+id="fr_17"></span>[18](#fn_17.md)--which, like magic and taboo, is often
 considered a "period" in the development of religion; but here, again,
 the phenomena associated with animism belong to no especial age or
 people. Psychologists tell us that human beings in their development
@@ -359,24 +359,24 @@ do. And as soon as the fury of the sheep is abated and they have relaxed
 their angry passions, cut through the foliage of the adjacent grove, and
 you will find the golden fleece clinging everywhere to the arched
 branches.' Thus prophesied the simple reed." <span
-id="fr_18"></span>[19](#fn_18)
+id="fr_18"></span>[19](#fn_18.md)
 
 E. B. Tylor, in his classic chapter on animism, <span
-id="fr_19"></span>[20](#fn_19) shows that primitive man believes that he
+id="fr_19"></span>[20](#fn_19.md) shows that primitive man believes that he
 possesses not only a body, but a shadowy image of his body, which in
 dreams and in trances can quickly flit from place to place, performing
 most of the actions of the real body. This belief is widespread even
 to-day among savages. Dreams, then, are a source of man's belief in
 spirits, and to the savage mind the experiences of the dream are as real
 as those of the waking moments. Frazer, for example, records <span
-id="fr_20"></span>[21](#fn_20) that an Indian had a dream in which his
+id="fr_20"></span>[21](#fn_20.md) that an Indian had a dream in which his
 master compelled him to carry a canoe up several rapids. The next
 morning the Indian angrily reproved his master for assigning him such a
 hard task. He believed that his soul had left his body during the night.
 Hence it is that primitive peoples will not wake one who is sleeping,
 for if this is done suddenly, the spirit may not have time to return to
 the body. Carveth Wells, who spent six years among the Malays,
-writes: <span id="fr_21"></span>[22](#fn_21) "I never remember being
+writes: <span id="fr_21"></span>[22](#fn_21.md) "I never remember being
 actually called or awakened by a Malay servant. They consider it
 dangerous to waken a sleeping person because they believe that during
 sleep the body and soul are separated and that an attempt to awaken a
@@ -393,7 +393,7 @@ from it--a spirit. In dreams the body was similarly inert, and thus he
 knew that in dreams the soul departed from it.
 
 This wandering abroad of the soul in dreams finds expression in
-Lucretius: <span id="fr_22"></span>[23](#fn_22)
+Lucretius: <span id="fr_22"></span>[23](#fn_22.md)
 
 "Again, when sleep has bound the limbs in sweet repose and the whole
 body lies sunk in the deepest slumber, then, in spite of this, we are,
@@ -404,7 +404,7 @@ and to be crossing plains on foot, and to hear sounds, though everywhere
 the night is sternly silent; though in reality speechless, we seem to be
 speaking."
 
-And again in Pliny the Elder <span id="fr_23"></span>[24](#fn_23) we
+And again in Pliny the Elder <span id="fr_23"></span>[24](#fn_23.md) we
 read about the travels of a soul while the body was in a cataleptic
 state: the soul of Hermotimus of Clazomenae was wont to leave the body
 and to visit distant places, while the body, to all seeming, was
@@ -427,7 +427,7 @@ his wife and children. We might proceed almost ad infinitum enumerating
 the things to which the Roman gave spirits, so that Petronius and Pliny
 the Elder could correctly say that there were more spirits (numina)
 among the Romans than there were human beings. <span
-id="fr_24"></span>[25](#fn_24)
+id="fr_24"></span>[25](#fn_24.md)
 
 The animistic stage in the development of religion has been ascribed to
 the failure of magic. It would seem rather to be due to the growing
@@ -437,7 +437,7 @@ by studying the manner in which early man, in the magic period,
 addresses the objects directly (naturalism) and, in the animistic
 period, the spirits resident in these objects. For an illustration of
 the former we shall draw upon Apuleius once more. <span
-id="fr_25"></span>[26](#fn_25) The witch Meroe plunges a sword up to the
+id="fr_25"></span>[26](#fn_25.md) The witch Meroe plunges a sword up to the
 hilt into the neck of Socrates, catching the blood, as it gushes out, in
 a small bladder; and after thrusting her hand far into the entrails of
 his body, draws forth the heart. She then staunches the wound wlth a
@@ -447,7 +447,7 @@ beware lest thou pass over a running stream."
 The transition stage between magic and animism is seen in Ovid's account
 of the Festival of Pales, where the farmer calls upon Pales "to appease
 the springs and the spirits of the springs."  <span
-id="fr_26"></span>[27](#fn_26) Here, the farmer addresses first the
+id="fr_26"></span>[27](#fn_26.md) Here, the farmer addresses first the
 springs (naturalism), then the spirits resident in them (animism).
 
 We have already seen that in the magic stage the things which man,
@@ -464,95 +464,95 @@ between the spell of the period of magic and the prayer of the animistic
 period lies not so much in any inherent change in the nature of either,
 as in a shift in the attitude of mind toward the object to be
 influenced, and in the consequent alteration in the tone of the
-prayer. <span id="fr_27"></span>[28](#fn_27)
+prayer. <span id="fr_27"></span>[28](#fn_27.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](tms03.htm#fr_0) Aulus Gellius, Noctes Atticae
+<span id="fn_0"></span>[1](tms03.htm#fr_0.md) Aulus Gellius, Noctes Atticae
 IX, 13:6-19 (quoting Quintus Claudius Quadrigarius). The story, to be
 sure, may have been invented to explain why the family had the necklace
 as an emblem, but for our purpose this matters little. The Romans
 believed it to be a possible explanation, and that is enough to assist
 us in understanding the psychology underlying such stories.
 
-<span id="fn_1"></span>[2](tms03.htm#fr_1) Suetonius, Caligula XXXV, 1.
+<span id="fn_1"></span>[2](tms03.htm#fr_1.md) Suetonius, Caligula XXXV, 1.
 
-<span id="fn_2"></span>[3](tms03.htm#fr_2) Acta SS. Perpetuae et
+<span id="fn_2"></span>[3](tms03.htm#fr_2.md) Acta SS. Perpetuae et
 Felicitatis Martyrum, 57 (in Migne, Vol. III, p. 57).
 
-<span id="fn_3"></span>[4](tms03.htm#fr_3) Quoted from the Chicago
+<span id="fn_3"></span>[4](tms03.htm#fr_3.md) Quoted from the Chicago
 Tribune in George W. Gilmore, Animism, p. 15.
 
-<span id="fn_4"></span>[5](tms03.htm#fr_4) Noctes Atticae XX. 10, 8-9.
+<span id="fn_4"></span>[5](tms03.htm#fr_4.md) Noctes Atticae XX. 10, 8-9.
 
-<span id="fn_5"></span>[6](tms03.htm#fr_5) Metamorphoses II. 21-26.
+<span id="fn_5"></span>[6](tms03.htm#fr_5.md) Metamorphoses II. 21-26.
 
-<span id="fn_6"></span>[7](tms03.htm#fr_6) Charles G. Leland, The
+<span id="fn_6"></span>[7](tms03.htm#fr_6.md) Charles G. Leland, The
 Unpublished Legends of Vergil, pp. 45-49.
 
-<span id="fn_7"></span>[8](tms03.htm#fr_7) Tusculanae Disputationes I.
+<span id="fn_7"></span>[8](tms03.htm#fr_7.md) Tusculanae Disputationes I.
 36.
 
-<span id="fn_8"></span>[9](tms03.htm#fr_8) De Rerum Natura V. 925-926.
+<span id="fn_8"></span>[9](tms03.htm#fr_8.md) De Rerum Natura V. 925-926.
 
-<span id="fn_9"></span>[10](tms03.htm#fr_9) Fasti I. 185-188.
+<span id="fn_9"></span>[10](tms03.htm#fr_9.md) Fasti I. 185-188.
 
-<span id="fn_10"></span>[11](tms03.htm#fr_10) Apologia XXXIV.
+<span id="fn_10"></span>[11](tms03.htm#fr_10.md) Apologia XXXIV.
 
-<span id="fn_11"></span>[12](tms03.htm#fr_11) Servius on Vergil's Aeneid
+<span id="fn_11"></span>[12](tms03.htm#fr_11.md) Servius on Vergil's Aeneid
 II. 116.
 
-<span id="fn_12"></span>[13](tms03.htm#fr_12) W. Warde Fowler, The
+<span id="fn_12"></span>[13](tms03.htm#fr_12.md) W. Warde Fowler, The
 Religious Experience of the Roman People, p. 3.
 
-<span id="fn_13"></span>[14](tms03.htm#fr_13) De Rerum Natura V.
+<span id="fn_13"></span>[14](tms03.htm#fr_13.md) De Rerum Natura V.
 953-957. 982-998, 1007-1008.
 
-<span id="fn_14"></span>[15](tms03.htm#fr_14) De Divinatione II. 18, 42.
+<span id="fn_14"></span>[15](tms03.htm#fr_14.md) De Divinatione II. 18, 42.
 
-<span id="fn_15"></span>[16](tms03.htm#fr_15) See R. R. Marett, On the
+<span id="fn_15"></span>[16](tms03.htm#fr_15.md) See R. R. Marett, On the
 Threshold of Religion, P. 137.
 
-<span id="fn_16"></span>[17](tms03.htm#fr_16) Marett, in a private
+<span id="fn_16"></span>[17](tms03.htm#fr_16.md) Marett, in a private
 letter to W. Warde Fowler (quoted in the latter's The Religious
 Experience of the Roman People, p. 42, note 4) writes as follows: "In
 taboo the mystic thing is not to be lightly approached (negative
 aspect); qua mana, it is instinct with mystic power (positive aspect)."
 
-<span id="fn_17"></span>[18](tms03.htm#fr_17) See Edward Clodd, Animism;
+<span id="fn_17"></span>[18](tms03.htm#fr_17.md) See Edward Clodd, Animism;
 George W. Gilmore, Animism; F. B. jevons, The Idea of God, pp. 15-18.
 
-<span id="fn_18"></span>[19](tms03.htm#fr_18) Apuleius, Metamorphoses
+<span id="fn_18"></span>[19](tms03.htm#fr_18.md) Apuleius, Metamorphoses
 VI. 12.
 
-<span id="fn_19"></span>[20](tms03.htm#fr_19) E. B. Tylor, Primitive
+<span id="fn_19"></span>[20](tms03.htm#fr_19.md) E. B. Tylor, Primitive
 Culture, Vol. 1, Chapter XI.
 
-<span id="fn_20"></span>[21](tms03.htm#fr_20) J. G. Frazer, Taboo, pp.
+<span id="fn_20"></span>[21](tms03.htm#fr_20.md) J. G. Frazer, Taboo, pp.
 36-37.
 
-<span id="fn_21"></span>[22](tms03.htm#fr_21) Carveth Wells, Six Years
+<span id="fn_21"></span>[22](tms03.htm#fr_21.md) Carveth Wells, Six Years
 in The Malay Jungle, pp. 73-74.
 
-<span id="fn_22"></span>[23](tms03.htm#fr_22) De Rerum Natura IV.
+<span id="fn_22"></span>[23](tms03.htm#fr_22.md) De Rerum Natura IV.
 453-461.
 
-<span id="fn_23"></span>[24](tms03.htm#fr_23) Naturalis Historia VII.
+<span id="fn_23"></span>[24](tms03.htm#fr_23.md) Naturalis Historia VII.
 52, 174.
 
-<span id="fn_24"></span>[25](tms03.htm#fr_24) Ibid. II. 7, 16;
+<span id="fn_24"></span>[25](tms03.htm#fr_24.md) Ibid. II. 7, 16;
 Petronius, Satyricon XVII.
 
-<span id="fn_25"></span>[26](tms03.htm#fr_25) Metamorphoses I. 13.
+<span id="fn_25"></span>[26](tms03.htm#fr_25.md) Metamorphoses I. 13.
 
-<span id="fn_26"></span>[27](tms03.htm#fr_26) Fasti IV. 759-760.
+<span id="fn_26"></span>[27](tms03.htm#fr_26.md) Fasti IV. 759-760.
 
-<span id="fn_27"></span>[28](tms03.htm#fr_27) I have already treated
+<span id="fn_27"></span>[28](tms03.htm#fr_27.md) I have already treated
 this subject in an article entitled "The Magic Elements in Roman
 Prayers," in Classical Philology, XXV (1930). pp. 47-55.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Positive and Negative Mana (Taboo)](tms04)
+[Next: Chapter II: Positive and Negative Mana (Taboo)](tms04.md)

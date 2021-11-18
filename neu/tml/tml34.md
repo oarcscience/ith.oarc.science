@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml33)  [Next](tml35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml33)  [Next](tml35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -581,7 +581,7 @@ on to Hela's glittering plains.
 <span id="img_33600"></span> <span align="CENTER"> [![BRYNHILD&lt;br&gt;
 From the statue by Bissen&lt;br&gt; Photograph by Vilhelm
 Tryde](tn/33600.jpg)  
-Click to enlarge](img/33600.jpg)  
+Click to enlarge](img/33600.jpg.md)  
 BRYNHILD  
 From the statue by Bissen  
 Photograph by Vilhelm Tryde  
@@ -589,7 +589,7 @@ Photograph by Vilhelm Tryde
 
  
 
-### "Gudrun's Sorrow" <span id="fr_99"></span>[1](#fn_99)
+### "Gudrun's Sorrow" <span id="fr_99"></span>[1](#fn_99.md)
 
 Home they brought her warrior dead:  
   She nor swooned, nor utter'd cry;  
@@ -618,7 +618,7 @@ Like summer tempest came her tears--
 
 ### Footnotes
 
-<span id="fn_99"></span>[336:1](tml34.htm#fr_99) Although the Volsunga
+<span id="fn_99"></span>[336:1](tml34.htm#fr_99.md) Although the Volsunga
 saga version of Sigurd's death is followed, a fragment of song pictures
 the tragedy in a grove from which the warrior's body was carried to
 Gudrun. Clerk Saunders was slain in bed also, and this ballad suggests
@@ -628,4 +628,4 @@ suggested by a version of the Gudrun story.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX. The Last of the Volsungs](tml35)
+[Next: Chapter XXX. The Last of the Volsungs](tml35.md)

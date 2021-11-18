@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs57)  [Next](mhs59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs57)  [Next](mhs59.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ he is not only ignorant, but also superstitious.
 
 ------------------------------------------------------------------------
 
-[Next: III. Exorcism And Conjuration Of Vermin](mhs59)
+[Next: III. Exorcism And Conjuration Of Vermin](mhs59.md)

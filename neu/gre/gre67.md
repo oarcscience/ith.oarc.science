@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre66)  [Next](gre68) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre66)  [Next](gre68.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ seafaring, and a great tale is told of him.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXIII: How Grettir beguiled Thorir of Garth when he was
-nigh taking him](gre68)
+nigh taking him](gre68.md)

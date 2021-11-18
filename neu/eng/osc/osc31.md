@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc30)  [Next](osc32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc30)  [Next](osc32.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ Cyclops of Euripides. (See Act i, sc i).
 
 ------------------------------------------------------------------------
 
-[Next: (29) Lucky and Unlucky Days](osc32)
+[Next: (29) Lucky and Unlucky Days](osc32.md)

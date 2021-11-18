@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp81)  [Next](prp83) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp81)  [Next](prp83.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ be present here; and, O stiff-nerved Priapus, be propitious.
 
 ------------------------------------------------------------------------
 
-[Next: 83. Bailiff of house whilom, now I of fieldlet the tiller](prp83)
+[Next: 83. Bailiff of house whilom, now I of fieldlet the tiller](prp83.md)

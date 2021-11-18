@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](grp01)  [Next](grp03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](grp01)  [Next](grp03.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ that, and he will be back with Al-Husain ben \`Ali (PUT).
 
 ------------------------------------------------------------------------
 
-[Next: Elias (Elijah) and Alyasa\` (Elisha) (PUT)](grp03)
+[Next: Elias (Elijah) and Alyasa\` (Elisha) (PUT)](grp03.md)

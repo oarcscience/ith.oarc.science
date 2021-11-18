@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli13)  [Next](mfli15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli13)  [Next](mfli15.md) 
 
 ------------------------------------------------------------------------
 
@@ -288,4 +288,4 @@ seen and what he had done.
 
 ------------------------------------------------------------------------
 
-[Next: Gilla na Grakin and Fin MacCumhail](mfli15)
+[Next: Gilla na Grakin and Fin MacCumhail](mfli15.md)

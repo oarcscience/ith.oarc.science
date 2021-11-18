@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd29)  [Next](odd31) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd29)  [Next](odd31.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ condemnatory than the murder of Afzul Khan, the general of the Imperial
 Delhi Army, by Sivajee, the founder of the Mahratta Empire. Sivajee,
 according to the well-known story, had invited his victim to an amicable
 conference, and there stabbed him with a wag nuck  <span
-id="fr_98"></span>[1](#fn_98) as they embraced at their first meeting.
+id="fr_98"></span>[1](#fn_98.md) as they embraced at their first meeting.
 It was a deed of such deliberate and cruel treachery, that it could find
 few defenders in Europe even among the wildest advocates of political
 assassination. A European is consequently little prepared to find it
@@ -275,7 +275,7 @@ which he provoked a young officer who had never before fired a pistol.
 
 ### Footnotes
 
-<span id="fn_98"></span>[1](odd30.htm#fr_98) An instrument so called
+<span id="fn_98"></span>[1](odd30.htm#fr_98.md) An instrument so called
 from its similarity to a tiger's claw. It consists of sharp curved steel
 blades, set on a bar which fits by means of finger-rings to the inside
 of the hand, so as to be concealed when the hand is closed; while the
@@ -284,4 +284,4 @@ is opened. It is struck with as in slapping or tearing with the claws.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary](odd31)
+[Next: Glossary](odd31.md)

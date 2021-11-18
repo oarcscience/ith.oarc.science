@@ -10,17 +10,17 @@ title: "Intangible Textual Heritage: Mysteries"
 
 <img src="eso/beyond.jpg" width="256" />
 
-[Esoteric & Occult...](eso/index) More mysteries...  
-[Tarot](tarot/index)  
-[Thelema](oto/index)  
-[Nostradamus](nos/index)  
-[Atlantis](atl/index)  
-[Alchemy](alc/index)  
-[Sacred Sexuality](sex/index)  
-[Sub Rosa](sro/index)  
-[Tantra](sex/index.htm#tantra)  
-[UFOs](ufo/index)  
-[Piri Re'is Map](piri/index)  
-[Grimoires](grim/index)  
-[Gothic Texts](goth/index)--Vampires, etc.  
-[Evil](evil/index)  
+[Esoteric & Occult...](eso/index.md) More mysteries...  
+[Tarot](tarot/index.md)  
+[Thelema](oto/index.md)  
+[Nostradamus](nos/index.md)  
+[Atlantis](atl/index.md)  
+[Alchemy](alc/index.md)  
+[Sacred Sexuality](sex/index.md)  
+[Sub Rosa](sro/index.md)  
+[Tantra](sex/index.htm#tantra.md)  
+[UFOs](ufo/index.md)  
+[Piri Re'is Map](piri/index.md)  
+[Grimoires](grim/index.md)  
+[Gothic Texts](goth/index.md)--Vampires, etc.  
+[Evil](evil/index.md)  

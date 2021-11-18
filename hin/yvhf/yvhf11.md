@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](yvhf10)  [Next](yvhf12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](yvhf10)  [Next](yvhf12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -64,7 +64,7 @@ from worldly action, then one's actions are performed in the dreaming
 state when the body is as if paralyzed. Know, O Ram, when the mind
 performs action, but is yet free from it, that state is called the
 blissful Samadhi; the unchanging Nirvana and
-[transcendent](errata.htm#15) bliss.
+[transcendent](errata.htm#15.md) bliss.
 
 "The two kinds of vision, meditation and non-meditation, are the results
 of the steady mind and the oscillating mind. Therefore, all the
@@ -119,7 +119,7 @@ attainment of Atmic wisdom. Hear thou this history of Suragho, which is
 indeed wonderful.
 
 "Suragho was a mighty hunter and ruler of the Kiratas <span
-id="fr_9"></span>[\*](#fn_9). He lived with his people, who were adepts
+id="fr_9"></span>[\*](#fn_9.md). He lived with his people, who were adepts
 in archery, in the Kailasa hills on the summit of the Himalayas.
 
 "Whilst he administered royal justice with strict impartiality,
@@ -144,7 +144,7 @@ joys my subjects experience in obeying my will. Let the sun of wisdom
 light the darkness of my mind, and equality of vision comfort me.'
 
 "Muni Mandavya replied: 'Atmic enquiry will clear away the fog of
-illusion, [Suragho](errata.htm#16). Ask thyself ceaselessly, Who am I?
+illusion, [Suragho](errata.htm#16.md). Ask thyself ceaselessly, Who am I?
 Whence came the universe? Whence came birth and death? If you do this
 faithfully the reward of the Brahmic Seat shall be yours. When you make
 Atmic enquiry habitual, your mind will obey your will and you will cease
@@ -164,7 +164,7 @@ not be recognized by you. Deific light will not shine when dualities
 still exist in the mind. It is as difficult to realize Atmic Reality, as
 to know that the alchemy of gold is not more to nature, than that of the
 baser metals. Therefore, longing for the things of the world must cease.
-The reward is the attainment of [liberation](errata.htm#17)—the supreme
+The reward is the attainment of [liberation](errata.htm#17.md)—the supreme
 Brahmic state. O illustrious hunter, control your mind, and keep it free
 from bodily and unwise desires; so shall you then attain the stainless
 and beneficent Principle.'
@@ -182,11 +182,11 @@ which in its separate arts is passive. Hence my body is not 'I'. The ten
 organs of sense are other than the 'I'. I am not, then, the organs of my
 body. What remains is ego. What actuates my ego? Consciousness. But the
 universal consciousness cannot be termed the Reality. Therefore, I shall
-free myself from the Jiva <span id="fr_10"></span>[\*](#fn_10) state and
-become "THAT" <span id="fr_11"></span>[\*\*](#fn_11) which above all
+free myself from the Jiva <span id="fr_10"></span>[\*](#fn_10.md) state and
+become "THAT" <span id="fr_11"></span>[\*\*](#fn_11.md) which above all
 else, I desire to know. The fullness of wisdom,
-[changeless](errata.htm#18) and stainless, alone is my Reality. This
-[transcendent](errata.htm#19) Wisdom pervades all like the strand upon
+[changeless](errata.htm#18.md) and stainless, alone is my Reality. This
+[transcendent](errata.htm#19.md) Wisdom pervades all like the strand upon
 which pearls are strung,—Vishnu, Brahma, Devendra, Yama and all other
 states. This supreme and powerful Wisdom or Realization is not tainted
 by worldliness, is of divine aspect, and finds completion in all
@@ -198,10 +198,10 @@ the diversified objects of this world are due.
 
 <span id="page_144">p. 144</span>
 
-"Having [relinquished](errata.htm#20) the objective world and freed
+"Having [relinquished](errata.htm#20.md) the objective world and freed
 himself from the shackles of desire and delusion—delusion which follows
 one even in his seventh rebirth—Suragho maintained equality of vision,
-as one stationary in the Sushupti <span id="fr_12"></span>[\*](#fn_12)
+as one stationary in the Sushupti <span id="fr_12"></span>[\*](#fn_12.md)
 state. Free at last, though living in Atmic reality, he reached the
 Brahmic state and attained the status of a Brahman, like unto Raja Rishi
 Viswamitra, of extraordinary meditation.
@@ -222,7 +222,7 @@ and subsisting
 <span id="page_145">p. 145</span>
 
 upon dry leaves. Because of this he was called Parnada <span
-id="fr_13"></span>[\*](#fn_13). Through the renunciation he practiced
+id="fr_13"></span>[\*](#fn_13.md). Through the renunciation he practiced
 and his holy meditations, he attained Atmic wisdom, for none could
 compete with the strenuosities of this kingly recluse. This Muni, who
 traveled the three worlds as though he walked thru the room of a
@@ -234,13 +234,13 @@ experiences.
 bliss. I hail thee, O, honorable One.'
 
 "Parnada answered; 'The sight of thee lifts me into that Jnana <span
-id="fr_14"></span>[\*\*](#fn_14) state into which Muni Mandavya
+id="fr_14"></span>[\*\*](#fn_14.md) state into which Muni Mandavya
 initiated you. O, King, art thou able to direct thy worldly affairs with
 equality and clarity of vision? Hast thy body, changed by the passing
 years, remained free from diseases, either physical or mental? Canst
 thou preserve thy equilibrium of mind amid the inordinate luxuries of
 wealth? Hast thou been able to merge into Samadhi <span
-id="fr_15"></span>[\*\*\*](#fn_15) without thought, by following the
+id="fr_15"></span>[\*\*\*](#fn_15.md) without thought, by following the
 paths of extreme serenity and solitude and
 
 <span id="page_146">p. 146</span>
@@ -279,21 +279,21 @@ resolute Atmic Reality alone illumines.'"
 
 ### Footnotes
 
-<span id="fn_9"></span>[140:\*](yvhf11.htm#fr_9) Hunters.
+<span id="fn_9"></span>[140:\*](yvhf11.htm#fr_9.md) Hunters.
 
-<span id="fn_10"></span>[143:\*](yvhf11.htm#fr_10) Ego
+<span id="fn_10"></span>[143:\*](yvhf11.htm#fr_10.md) Ego
 
-<span id="fn_11"></span>[143:\*\*](yvhf11.htm#fr_11) Brahma
+<span id="fn_11"></span>[143:\*\*](yvhf11.htm#fr_11.md) Brahma
 
-<span id="fn_12"></span>[144:\*](yvhf11.htm#fr_12) Dreamless.
+<span id="fn_12"></span>[144:\*](yvhf11.htm#fr_12.md) Dreamless.
 
-<span id="fn_13"></span>[145:\*](yvhf11.htm#fr_13) Parna—leaves; ad—to
+<span id="fn_13"></span>[145:\*](yvhf11.htm#fr_13.md) Parna—leaves; ad—to
 eat.
 
-<span id="fn_14"></span>[145:\*\*](yvhf11.htm#fr_14) Wisdom.
+<span id="fn_14"></span>[145:\*\*](yvhf11.htm#fr_14.md) Wisdom.
 
-<span id="fn_15"></span>[145:\*\*\*](yvhf11.htm#fr_15) Blissful state.
+<span id="fn_15"></span>[145:\*\*\*](yvhf11.htm#fr_15.md) Blissful state.
 
 ------------------------------------------------------------------------
 
-[Next: The Long-Lived Yogi and the Secret of His Longevity](yvhf12)
+[Next: The Long-Lived Yogi and the Secret of His Longevity](yvhf12.md)

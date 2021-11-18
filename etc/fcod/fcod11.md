@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod10)  [Next](fcod12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod10)  [Next](fcod12.md) 
 
 ------------------------------------------------------------------------
 
@@ -711,4 +711,4 @@ mourner present at the interment helping to fill in the grave.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Trees, Flowers, Body-Snatching](fcod12)
+[Next: Chapter IX: Trees, Flowers, Body-Snatching](fcod12.md)

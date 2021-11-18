@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe213)  [Next](prwe215) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe213)  [Next](prwe215.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ the family came to a violent end.
 
 ------------------------------------------------------------------------
 
-[Next: The Death Fetch of William Rufus](prwe215)
+[Next: The Death Fetch of William Rufus](prwe215.md)

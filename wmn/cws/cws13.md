@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws12)  [Next](cws14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws12)  [Next](cws14.md) 
 
 ------------------------------------------------------------------------
 
 ### No. IX
 
-#### CONCERNING THE PROPHECY OF THE BOOK OF ESTHER <span id="fr_61"></span>[2](#fn_61)
+#### CONCERNING THE PROPHECY OF THE BOOK OF ESTHER <span id="fr_61"></span>[2](#fn_61.md)
 
 THE most important book in the Bible for you to study now, and that most
 nearly about to be fulfilled, is one of the most mystic books in the Old
@@ -62,7 +62,7 @@ gain power or favour with the world and the age, and for which they have
 been found wanting.
 
 Now there come out of the darkness and the storm which shall arise upon
-the earth, two dragons. <span id="fr_62"></span>[1](#fn_62)
+the earth, two dragons. <span id="fr_62"></span>[1](#fn_62.md)
 
 And they fight and tear each other, until there arises a star, a
 fountain of light, a queen, who is Esther.
@@ -77,23 +77,23 @@ the world of men.
 If they had, guess now who were Mardochi and Esther.
 
 But I tell you that which shall be in the days about to come. <span
-id="fr_63"></span>[1](#fn_63)
+id="fr_63"></span>[1](#fn_63.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_61"></span>[20:2](cws13.htm#fr_61) Paris, Easter Sunday,
+<span id="fn_61"></span>[20:2](cws13.htm#fr_61.md) Paris, Easter Sunday,
 1880. Repeated from dictation heard interiorly while in trance.    E. M.
 
 Referred to in *Life of Anna Kingsford*, Vol. i, pp. 352-354. See also
 Vol. ii, p. 268.
 
-<span id="fn_62"></span>[21:1](cws13.htm#fr_62) The two dragons are
+<span id="fn_62"></span>[21:1](cws13.htm#fr_62.md) The two dragons are
 materialism and superstition (see Preface to First Edition, [p.
-xxiv](cws03.htm#page_xxiv)).
+xxiv](cws03.htm#page_xxiv).md).
 
-<span id="fn_63"></span>[22:1](cws13.htm#fr_63) The name Esther--which
+<span id="fn_63"></span>[22:1](cws13.htm#fr_63.md) The name Esther--which
 is one with Easter--denotes a star, or fountain of light, a dawn or
 rising. The feast of Purim, instituted in token of the deliverance
 wrought through Esther, coincides in date with Easter, In the Protestant
@@ -105,4 +105,4 @@ engaged, but not necessarily to the workers themselves.    E. M.
 ------------------------------------------------------------------------
 
 [Next: No. X: Concerning The Prophecy Of The Vision Of
-Nebuchadnezzar](cws14)
+Nebuchadnezzar](cws14.md)

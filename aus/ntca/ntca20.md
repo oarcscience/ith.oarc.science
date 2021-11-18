@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca19)  [Next](ntca21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca19)  [Next](ntca21.md) 
 
 ------------------------------------------------------------------------
 
@@ -195,4 +195,4 @@ went up into the sky and there they have remained ever since.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIX. Clothing, Weapons, Implements, Decorative
-Art](ntca21)
+Art](ntca21.md)

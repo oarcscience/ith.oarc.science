@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip83)  [Next](fip85) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip83)  [Next](fip85.md) 
 
 ------------------------------------------------------------------------
 
-### SOLITARY FAIRIES.--Page [80](fip23.htm#page_80).
+### SOLITARY FAIRIES.--Page [80](fip23.htm#page_80.md).
 
 The trooping fairies wear green jackets, the solitary ones red. On the
 red jacket of the Lepracaun, according to McAnally, are seven rows of
@@ -21,4 +21,4 @@ the ditch.
 
 ------------------------------------------------------------------------
 
-[Next: Banshee's Cry](fip85)
+[Next: Banshee's Cry](fip85.md)

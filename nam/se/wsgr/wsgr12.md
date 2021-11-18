@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr11)  [Next](wsgr13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr11)  [Next](wsgr13.md) 
 
 ------------------------------------------------------------------------
 
@@ -186,4 +186,4 @@ unselfishness.
 
 ------------------------------------------------------------------------
 
-[Next: A Tribe That Left Its Shoes](wsgr13)
+[Next: A Tribe That Left Its Shoes](wsgr13.md)

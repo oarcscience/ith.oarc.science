@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib11)  [Next](sib13) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib11)  [Next](sib13.md) 
 
 ------------------------------------------------------------------------
 
@@ -612,4 +612,4 @@ death of Alexander Severus.
 
 ------------------------------------------------------------------------
 
-[Next: Book XIII.](sib13)
+[Next: Book XIII.](sib13.md)

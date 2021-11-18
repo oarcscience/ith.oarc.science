@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Theosophy](../index)
-[Index](index) [Next](chap01)
+[Intangible Textual Heritage](../../index) [Theosophy](../index.md)
+[Index](index) [Next](chap01.md)
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ PRINTED IN INDIA
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: What Theosophy Is](chap01)
+[Next: Chapter I: What Theosophy Is](chap01.md)

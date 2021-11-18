@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 11th Aethyr,  
-Which is Called IKH**[**1**](#1)
+Which is Called IKH**[**1**](#1.md)
 
-There appears in the stone immediately the Kamea[**2**](#2) of the Moon.
+There appears in the stone immediately the Kamea[**2**](#2.md) of the Moon.
 And it is rolled up; and behind it there appeareth a great Host of
 Angels. Their backs are turned towards me, but I can see how tremendous
 are their arms, which are swords and spears. They have wings upon their
@@ -21,20 +21,20 @@ upon the elephants are armed with the thunderbolt of Zeus.
 Now in all that host there is no motion. Yet they are not resting upon
 their arms, but tense and vigilant. And between them and me is the God
 Shu, whom before I did not see, because his force filleth the whole
-Aethyr[**3**](#3). And indeed he is not visible in his form. Nor does he
+Aethyr[**3**](#3.md). And indeed he is not visible in his form. Nor does he
 come to the seer through any of the senses; he is understood, rather
 than expressed.
 
 I perceive that all this army is defended by fortresses, nine mighty
-towers[**4**](#4) of iron upon the frontier of the Aethyr. Each tower is
-filled with warriors in silver armour[**5**](#5). It is impossible to
+towers[**4**](#4.md) of iron upon the frontier of the Aethyr. Each tower is
+filled with warriors in silver armour[**5**](#5.md). It is impossible to
 describe the feeling of tension; they are like oarsmen waiting for the
 gun.
 
 I perceive that an Angel is standing on either side of me; nay, I am in
 the midst of a company of armed angels, and their captain is standing in
 front of me. He too is clad in silver armour; and about him, closely
-wrapped to his body, is a whirling wind[**6**](#6), so swift that any
+wrapped to his body, is a whirling wind[**6**](#6.md), so swift that any
 blow struck against him would be broken.
 
 And he speaketh unto me these words:
@@ -49,14 +49,14 @@ Behold, the foundation of the Holy City, the towers and the bastions
 thereof! Behold the armies of light that are set against the outermost
 Abyss, against the horror of emptiness, and the malice of Choronzon.
 Behold how worshipful is the wisdom of the Master, that he hath set his
-stability in the all-wandering Air and in the changeful Moon[**7**](#7).
+stability in the all-wandering Air and in the changeful Moon[**7**](#7.md).
 In the purple flashes of lightning hath He written the word Eternity,
 and in the wings of the swallow hath He appointed rest.
 
 By three and by three and by three hath He made firm the foundation
 against the earthquake that is three. For in the number nine is the
 changefulness of the numbers brought to naught. For with whatsoever
-number thou wilt cover it, it appeareth unchanged[**8**](#8).
+number thou wilt cover it, it appeareth unchanged[**8**](#8.md).
 
 These things are spoken unto him that understandeth, that is a
 breastplate unto the elephants, or a corselet unto the angels, or a
@@ -101,18 +101,18 @@ is of them that understand.
 And the Angel saith:
 
 Behold, He hath established His mercy and His might, and unto His might
-is added victory, and unto his Mercy is added splendour[**9**](#9). And
+is added victory, and unto his Mercy is added splendour[**9**](#9.md). And
 all these things hath He ordered in beauty, and He hath set them firmly
 upon the Eternal Rock, and therefrom He hath suspended His kingdom as
-one pearl[**10**](#10) that is set in a jewel of threescore pearls and
-twelve[**11**](#11). And He hath garnished it with the Four Holy Living
+one pearl[**10**](#10.md) that is set in a jewel of threescore pearls and
+twelve[**11**](#11.md). And He hath garnished it with the Four Holy Living
 Creatures for Guardians, and He hath graven therein the seal of
-righteousness[**12**](#12), and He hath burnished it with the fire of
+righteousness[**12**](#12.md), and He hath burnished it with the fire of
 His Angel, and the blush of His loveliness informeth it, and with
 delight and with wit hath He made it merry at the heart, and the core
 thereof is the Secret of His being, and therein is His name Generation.
 And this His stability had the number 80, for that the price thereof is
-War[**13**](#13).
+War[**13**](#13.md).
 
 Beware, therefore, O thou who art appointed to understand the secret of
 the Outermost Abyss, for in every Abyss thou must assume the mask and
@@ -121,7 +121,7 @@ lost. Search, therefore, if there be yet one drop of blood that is not
 gathered into the cup of Babylon the Beautiful, for in that little pile
 of dust, if there could be one drop of blood, it should be utterly
 corrupt; it should breed scorpions and vipers, and the cat of
-slime[**14**](#14).
+slime[**14**](#14.md).
 
 And I said unto the Angel:
 
@@ -177,4 +177,4 @@ December 5, 1909. 10:10-11:35 p.m.
 
 ------------------------------------------------------------------------
 
-> [**Back to Liber 418**](418)
+> [**Back to Liber 418**](418.md)

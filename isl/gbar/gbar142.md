@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar141) [Next](gbar143)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar141) [Next](gbar143.md)
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ him by night, when the governor and Herod should agree thereto.
 
 ------------------------------------------------------------------------
 
-[Next](gbar143)
+[Next](gbar143.md)

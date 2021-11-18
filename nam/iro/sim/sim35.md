@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim34)  [Next](sim36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim34)  [Next](sim36.md) 
 
 ------------------------------------------------------------------------
 
@@ -231,4 +231,4 @@ the village.
 
 ------------------------------------------------------------------------
 
-[Next: The Ghost Woman](sim36)
+[Next: The Ghost Woman](sim36.md)

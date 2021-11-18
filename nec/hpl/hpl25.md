@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl24)  [Next](hpl26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl24)  [Next](hpl26.md) 
 
 ------------------------------------------------------------------------
 
@@ -407,4 +407,4 @@ sweep at evening.
 
 ------------------------------------------------------------------------
 
-[Next: The Moon-Bog (Weird Tales, 1926)](hpl26)
+[Next: The Moon-Bog (Weird Tales, 1926)](hpl26.md)

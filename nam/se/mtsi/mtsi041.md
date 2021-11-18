@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi040)  [Next](mtsi042) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi040)  [Next](mtsi042.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ time.
 ------------------------------------------------------------------------
 
 [Next: 40. Rabbit Gets Man-eater Over to the Other Side of the
-Ocean](mtsi042)
+Ocean](mtsi042.md)

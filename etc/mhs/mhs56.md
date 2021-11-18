@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs55)  [Next](mhs57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs55)  [Next](mhs57.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,4 +8,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: I. Rats And Mice As Avengers](mhs57)
+[Next: I. Rats And Mice As Avengers](mhs57.md)

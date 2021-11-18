@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe088)  [Next](prwe090) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe088)  [Next](prwe090.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ near Lariggan Rocks, between Penzance and Newlyn.
 
 ------------------------------------------------------------------------
 
-[Next: The City of Langarrow or Langona](prwe090)
+[Next: The City of Langarrow or Langona](prwe090.md)

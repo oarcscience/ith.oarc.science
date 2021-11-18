@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@ East](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](caog00)    [Page
-Index](pageidx)    [Text \[Zipped\]](caog.txt.gz)
+[Contents](#contents)    [Start Reading](caog00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](caog.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ engraver, but self-taught in cuneiform in the corridors of the British
 Museum. Eventually he was hired by Sir Henry Rawlinson, prominent
 archaeologist. Smith achieved world-wide attention when he discovered an
 account of the flood with obvious Biblical parallels in 1872, related in
-[The Chaldean Account of the Deluge](../chad/index). This book expands
+[The Chaldean Account of the Deluge](../chad/index.md). This book expands
 on the previous work, and presents numerous translations of tablets,
 including the first print appearance of the Gilgamesh (Idzubar) cycle.
 Some of the most important texts, such as the Descent of Ishtar and the
@@ -44,26 +44,26 @@ pieces.--J.B. Hare, Dec. 15th, 2009.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](caog00)  
-[Introduction](caog01)  
-[Contents](caog02)  
-[List of Illustrations](caog03)  
-[Chapter I. The Discovery of the Genesis Legends](caog04)  
-[Chapter II. Babylonian and Assyrian Literature](caog05)  
+<span id="contents"></span> [Title Page](caog00.md)  
+[Introduction](caog01.md)  
+[Contents](caog02.md)  
+[List of Illustrations](caog03.md)  
+[Chapter I. The Discovery of the Genesis Legends](caog04.md)  
+[Chapter II. Babylonian and Assyrian Literature](caog05.md)  
 [Chapter III. Chaldean Legends Transmitted Through Berosus and Other
-Ancient Authors](caog06)  
-[Chapter IV. Babylonian Mythology](caog07)  
-[Chapter V. Babylonian Legend of the Creation](caog08)  
-[Chapter IV. Other Babylonian Accounts of the Creation](caog09)  
-[Chapter VII. The Sin of the God Zu](caog10)  
-[Chapter VIII. The Exploits of Lubara](caog11)  
-[Chapter IX. Babylonian Fables](caog12)  
-[Chapter X. Fragments of Miscellaneous Texts](caog13)  
-[Chapter XI. The Izdubar Legends](caog14)  
-[Chapter XII. Meeting of Heabani and Izdubar](caog15)  
-[Chapter XIII. Destruction of the Tyrant Humbaba](caog16)  
-[Chapter XIV. The Adventures of Ishtar](caog17)  
-[Chapter XV. Illness and Wanderings of Izdubar](caog18)  
-[Chapter XVI. The Story of the Flood and Conclusion](caog19)  
-[Chapter XVII. Conclusion](caog20)  
-[Index](caog21)  
+Ancient Authors](caog06.md)  
+[Chapter IV. Babylonian Mythology](caog07.md)  
+[Chapter V. Babylonian Legend of the Creation](caog08.md)  
+[Chapter IV. Other Babylonian Accounts of the Creation](caog09.md)  
+[Chapter VII. The Sin of the God Zu](caog10.md)  
+[Chapter VIII. The Exploits of Lubara](caog11.md)  
+[Chapter IX. Babylonian Fables](caog12.md)  
+[Chapter X. Fragments of Miscellaneous Texts](caog13.md)  
+[Chapter XI. The Izdubar Legends](caog14.md)  
+[Chapter XII. Meeting of Heabani and Izdubar](caog15.md)  
+[Chapter XIII. Destruction of the Tyrant Humbaba](caog16.md)  
+[Chapter XIV. The Adventures of Ishtar](caog17.md)  
+[Chapter XV. Illness and Wanderings of Izdubar](caog18.md)  
+[Chapter XVI. The Story of the Flood and Conclusion](caog19.md)  
+[Chapter XVII. Conclusion](caog20.md)  
+[Index](caog21.md)  

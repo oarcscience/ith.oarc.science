@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc37)  [Next](scc39) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc37)  [Next](scc39.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ killed both the man and the woman.
 
 ------------------------------------------------------------------------
 
-[Next: 37.--Yauelmani Yokuts. The Beginning Of The World.](scc39)
+[Next: 37.--Yauelmani Yokuts. The Beginning Of The World.](scc39.md)

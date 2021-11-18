@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sotu10)  [Next](sotu12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sotu10)  [Next](sotu12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Universe*, by Nathan R. Wood, \[1932\], at Intangible
 Textual Heritage
 
@@ -317,7 +317,7 @@ incessant change.
 The modern world of thought has truly veered far over from fixed "being"
 to endless "becoming." The whole swing of the world pendulum from being
 to becoming is expressed in the a. b. c. of a genuine modern
-philosopher, <span id="fr_4"></span>[\*](#fn_4)—"What is the precise
+philosopher, <span id="fr_4"></span>[\*](#fn_4.md)—"What is the precise
 meaning of the word 'exist'? I find, first of all, that I pass from
 state to state.—I change, then, without ceasing.—The truth
 
@@ -499,10 +499,10 @@ more One because Thou art forever Three*.
 
 ### Footnotes
 
-<span id="fn_4"></span>[172:\*](sotu11.htm#fr_4) Bergson, "Creative
+<span id="fn_4"></span>[172:\*](sotu11.htm#fr_4.md) Bergson, "Creative
 Evolution."
 
 ------------------------------------------------------------------------
 
 [Next: VI. The Secret of the Universe and the Problem of Change and
-Progress](sotu12)
+Progress](sotu12.md)

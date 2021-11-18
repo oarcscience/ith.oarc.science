@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta24)  [Next](sta26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta24)  [Next](sta26.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ it lives. The reader must remember that by *ether* 
 <span id="img_10500"></span>
 
 [![A SALAMANDER, ACCORDING TO PARACELSUS.](tn/10500.jpg)  
-Click to enlarge](img/10500.jpg)  
+Click to enlarge](img/10500.jpg.md)  
 A SALAMANDER, ACCORDING TO PARACELSUS.  
 
 From Paracelsus' *Auslegung von 30 magischen Figuren*.
@@ -329,7 +329,7 @@ their food by diligent and conscientious
 <span id="img_10600"></span>
 
 [![CONVENTIONAL GNOMES.](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)  
+Click to enlarge](img/10600.jpg.md)  
 CONVENTIONAL GNOMES.  
 
 From Gjellerup's *Den Ældre Eddas Gudesange*.
@@ -510,7 +510,7 @@ this\], and live much longer than we do,
 <span id="img_10700"></span>
 
 [![A MERMAID.](tn/10700.jpg)  
-Click to enlarge](img/10700.jpg)  
+Click to enlarge](img/10700.jpg.md)  
 A MERMAID.  
 
 From Lycosthenes' *Prodigiorum ac Ostentorum Chronicon*.
@@ -689,7 +689,7 @@ Tyana, and Merlin the Magician.
 <span id="img_10800"></span>
 
 [![A SYLPH.](tn/10800.jpg)  
-Click to enlarge](img/10800.jpg)  
+Click to enlarge](img/10800.jpg.md)  
 A SYLPH.  
 
 From sketch by Howard Wookey.
@@ -702,4 +702,4 @@ times as delicate fairies.
 
 ------------------------------------------------------------------------
 
-[Next: Hermetic Pharmacology, Chemistry, and Therapeutics](sta26)
+[Next: Hermetic Pharmacology, Chemistry, and Therapeutics](sta26.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](bil01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](bil01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0856463728/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0856463728/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ were, **black** **marigolds** and a silence.
 
 ------------------------------------------------------------------------
 
-[Next: Black Marigolds](bil01)
+[Next: Black Marigolds](bil01.md)

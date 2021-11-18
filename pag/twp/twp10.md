@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](twp09)  [Next](twp11) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](twp09)  [Next](twp11.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,9 +71,9 @@ many dollars per head for each witch burned, besides the fees and
 assessments which he is allowed to extort at will from the peasants.
 
 9\. If now some utterance of a demoniac <span
-id="fr_33"></span>[1](#fn_33) or some malign and idle rumor then current
+id="fr_33"></span>[1](#fn_33.md) or some malign and idle rumor then current
 (for proof of the scandal is never asked) points especially to some poor
-and helpless Gaia, <span id="fr_34"></span>[2](#fn_34) she is the first
+and helpless Gaia, <span id="fr_34"></span>[2](#fn_34.md) she is the first
 to suffer.
 
 10\. And yet, lest it appear that she is indicted on the basis of rumor
@@ -114,7 +114,7 @@ often happens.
 
 15\. For in these trials there is granted to nobody an advocate or any
 means of fair defense, for the cry is that the crime is an excepted
-one, <span id="fr_35"></span>[1](#fn_35) and whoever ventures to defend
+one, <span id="fr_35"></span>[1](#fn_35.md) and whoever ventures to defend
 the prisoner is brought into suspicion of the crime--as are all those
 who dare to utter a protest in these cases and to urge the judges to
 caution; for they are forthwith dubbed patrons of the witches. Thus all
@@ -168,21 +168,21 @@ same. If she confesses, the thing is clear, for, as I have said and as
 is self-evident, she is executed: all recantation is in vain, as I have
 shown above. If she does not confess, the torture is repeated-twice,
 thrice, four times: anything one pleases is permissible, for in an
-excepted crime <span id="fr_36"></span>[1](#fn_36) there is no limit of
+excepted crime <span id="fr_36"></span>[1](#fn_36.md) there is no limit of
 duration or severity or repetition of the tortures. As to this, think
 the judges, no sin is possible which can be brought up before the
-tribunal of conscience. <span id="fr_37"></span>[2](#fn_37)
+tribunal of conscience. <span id="fr_37"></span>[2](#fn_37.md)
 
 26\. If now Gaia, no matter how many times tortured, has not yet broken
 silence if she contorts her features under the pain, if she loses
 consciousness, or the like, then they cry that she is laughing or has
-bewitched herself into taciturnity, <span id="fr_38"></span>[3](#fn_38)
+bewitched herself into taciturnity, <span id="fr_38"></span>[3](#fn_38.md)
 and hence deserves to be burned alive, as lately has been done to some
 who though several times tortured would not confess.
 
 27\. And then they say--even clergymen and confessors--that she died
 obstinate and impenitent, that she would not be converted or desert her
-paramour, <span id="fr_39"></span>[4](#fn_39) but kept rather her faith
+paramour, <span id="fr_39"></span>[4](#fn_39.md) but kept rather her faith
 with him.
 
 28\. If, however, it chances that under so many tortures one dies,
@@ -225,7 +225,7 @@ prison, and is tormented by those whom it least behooves, there are not
 wanting to her industrious judges clever devices by which they not only
 find new proofs against Gaia, but by which moreover they so convict her
 to her face (an 't please the gods!) that by the advice of some
-university faculty <span id="fr_40"></span>[1](#fn_40) she is then at
+university faculty <span id="fr_40"></span>[1](#fn_40.md) she is then at
 last pronounced to deserve burning alive. . . .
 
 35\. Some, however, to leave no stone unturned, order Gaia to be
@@ -281,37 +281,37 @@ of witchcraft. . . .
 
 ### Footnotes
 
-<span id="fn_33"></span>[31:1](twp10.htm#fr_33) i. e., of course, an
+<span id="fn_33"></span>[31:1](twp10.htm#fr_33.md) i. e., of course, an
 insane person.
 
-<span id="fn_34"></span>[31:2](twp10.htm#fr_34) i. e., woman. Gaia was
+<span id="fn_34"></span>[31:2](twp10.htm#fr_34.md) i. e., woman. Gaia was
 the name used for a female culprit by the Roman law--like the John Doe
 or Richard Roe of our own legal parlance.
 
-<span id="fn_35"></span>[32:1](twp10.htm#fr_35) *Crimina excepta* were
+<span id="fn_35"></span>[32:1](twp10.htm#fr_35.md) *Crimina excepta* were
 those in which, by reason of their enormity, all restraints upon
 procedure were suspended. Such were treason, and, by analogy, treason
 against heaven--heresy, that is, and especially witchcraft. In dealing
 with the latter an added ground for severity was found in the belief
 that the Devil might aid supernaturally his allies.
 
-<span id="fn_36"></span>[33:1](twp10.htm#fr_36) See note on page 32.
+<span id="fn_36"></span>[33:1](twp10.htm#fr_36.md) See note on page 32.
 
-<span id="fn_37"></span>[33:2](twp10.htm#fr_37) i. e., which can be
+<span id="fn_37"></span>[33:2](twp10.htm#fr_37.md) i. e., which can be
 inquired into by the priest in the confessional.
 
-<span id="fn_38"></span>[33:3](twp10.htm#fr_38) *Uti maleficio
+<span id="fn_38"></span>[33:3](twp10.htm#fr_38.md) *Uti maleficio
 tacturnitatis*, i. e., by witchcraft makes herself incapable of
 confession.
 
-<span id="fn_39"></span>[33:4](twp10.htm#fr_39) i. e., of course, the
+<span id="fn_39"></span>[33:4](twp10.htm#fr_39.md) i. e., of course, the
 Devil.
 
-<span id="fn_40"></span>[34:1](twp10.htm#fr_40) It was sometimes the
+<span id="fn_40"></span>[34:1](twp10.htm#fr_40.md) It was sometimes the
 juristic, sometimes the theologic, faculty of a university which was
 called on for such advice, the crime of witchcraft being subject to both
 secular and ecclesiastical jurisdiction.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Select Bibliography.](twp11)
+[Next: IX. Select Bibliography.](twp11.md)

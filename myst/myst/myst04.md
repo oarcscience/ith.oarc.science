@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst03)  [Next](myst05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst03)  [Next](myst05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -117,14 +117,14 @@ practical persons agree to ignore. That beginning, for human thought, is
 of course the I, the Ego, the self-conscious subject which is writing
 this book, or the other self-conscious subject which is reading it; and
 which declares, in the teeth of all arguments, I AM.  <span
-id="fr_0"></span>[1](#fn_0) Here is a point as to which we all feel
+id="fr_0"></span>[1](#fn_0.md) Here is a point as to which we all feel
 quite sure. No metaphysician has yet shaken the ordinary individual’s
 belief in his own existence. The uncertainties only begin for most of us
 when we ask what else *is* .
 
 <span id="an_iii.i-p8"></span>To this I, this conscious self “imprisoned
 in the body like an oyster in his shell,”  <span
-id="fr_1"></span>[2](#fn_1) come, as we know, a constant stream of
+id="fr_1"></span>[2](#fn_1.md) come, as we know, a constant stream of
 messages and experiences. Chief amongst these are the stimulation of the
 tactile nerves whose result we call touch, the vibrations taken up by
 the optic nerve which we call light, and those taken up by the ear and
@@ -152,7 +152,7 @@ the philosopher Hume, “reality consists in impressions and ideas.”
 this sense-world, this seemingly real external universe—though it may be
 useful and valid in other respects—cannot be *the* external world, but
 only the Self’s projected picture of it.  <span
-id="fr_2"></span>[3](#fn_2) It is a work of art, not a scientific fact;
+id="fr_2"></span>[3](#fn_2.md) It is a work of art, not a scientific fact;
 and, whilst it may well possess the profound significance proper to
 great works of art, is dangerous if treated as a subject of analysis.
 Very slight investigation shows that it is a picture whose relation to
@@ -205,7 +205,7 @@ flowers that sounded, and saw notes that shone”; and on the reports of
 other mystics concerning a rare moment of consciousness in which the
 senses are fused into a single and ineffable act of perception, and
 colour and sound are known as aspects of one thing.  <span
-id="fr_3"></span>[4](#fn_3)
+id="fr_3"></span>[4](#fn_3.md)
 
 <span id="an_iii.i-p17"></span>Since music is but an interpretation of
 certain vibrations undertaken by the ear, and colour an interpretation
@@ -250,7 +250,7 @@ have offered themselves exactly the same image of the truth outside
 their gates: for a living metaphysic, like a living religion, is at
 bottom a strictly personal affair—a matter, as William James reminded
 us, of vision rather than of argument.  <span
-id="fr_4"></span>[5](#fn_4) Nevertheless such a living metaphysic
+id="fr_4"></span>[5](#fn_4.md) Nevertheless such a living metaphysic
 may—and if sound generally does—escape the stigma of subjectivism by
 outwardly attaching itself to a traditional School; as personal religion
 may and should outwardly attach itself to a traditional church. Let us
@@ -421,7 +421,7 @@ merely its shadow show or “manifestation in space and time.”
 <span id="an_iii.i-p29"></span>According to the form of Objective
 Idealism here chosen from amongst many as typical—for almost every
 Idealist has his own scheme of metaphysical salvation  <span
-id="fr_5"></span>[6](#fn_5) —we live in a universe which is, in popular
+id="fr_5"></span>[6](#fn_5.md) —we live in a universe which is, in popular
 language, the Idea, or Dream of its Creator. We, as Tweedledum explained
 to Alice in the most philosophic of all fairy tales, are “just part of
 the dream.” All life, all phenomena, are the endless modifications and
@@ -532,12 +532,12 @@ effective antagonist. Thus Delacroix, after an exhaustive and even
 sympathetic analysis of St. Teresa’s progress towards union with the
 Absolute, ends upon the assumption that the God with whom she was united
 was the content of her own subconscious mind.  <span
-id="fr_6"></span>[7](#fn_6) Such a mysticism is that of a kitten running
+id="fr_6"></span>[7](#fn_6.md) Such a mysticism is that of a kitten running
 after its own tail: a different path indeed from that which the great
 seekers for reality have pursued. The *reductio ad absurdum* of this
 doctrine is found in the so-called “philosophy” of New Thought, which
 begs its disciples to “try quietly to realize that the Infinite is
-really You.”  <span id="fr_7"></span>[8](#fn_7) By its utter denial not
+really You.”  <span id="fr_7"></span>[8](#fn_7.md) By its utter denial not
 merely of a knowable, but of a logically conceivable Transcendent, it
 drives us in the end to the conclusion of extreme pragmatism; that
 Truth, for us, is not an immutable reality, but merely that idea which
@@ -631,11 +631,11 @@ more remarkable for its omissions than for its inclusions. Récéjac has
 well said that “from the moment in which man is no longer content to
 devise things useful for his existence under the exclusive action of the
 will-to-live, the principle of (physical) evolution has been violated.”
- <span id="fr_8"></span>[9](#fn_8) Nothing can be more certain than that
+ <span id="fr_8"></span>[9](#fn_8.md) Nothing can be more certain than that
 man is not so content. He has been called by utilitarian philosophers a
 tool-making animal—the highest praise they knew how to bestow. <span
 id="page_17">p. 17</span> <span id="an_iii.i-Page_17"></span> More
-surely he is a vision-making animal;  <span id="fr_9"></span>[10](#fn_9)
+surely he is a vision-making animal;  <span id="fr_9"></span>[10](#fn_9.md)
 a creature of perverse and unpractical ideals, dominated by dreams no
 less than by appetites—dreams which can only be justified upon the
 theory that he moves towards some other goal than that of physical
@@ -747,7 +747,7 @@ indicates a profound disharmony between the sense-world and the human
 self. If it is to be vanquished, either the disharmony must be resolved
 by a deliberate and careful adjustment of the self to the world of
 sense, or, that self must turn from the sense-world to some other with
-which it is in tune.  <span id="fr_10"></span>[11](#fn_10) Pessimist and
+which it is in tune.  <span id="fr_10"></span>[11](#fn_10.md) Pessimist and
 optimist here join hands. But whilst the pessimist, resting in
 appearance, only sees “nature red in tooth and claw” offering him little
 hope of escape, the optimist thinks that pain and anguish—which may in
@@ -760,9 +760,9 @@ more at home. Watching life, he sees in Pain the complement of Love: and
 is inclined to call these the wings on which man’s spirit can best take
 flight towards the Absolute. Hence he can say with A Kempis, “Gloriari
 in tribulatione non est grave amanti,”  <span
-id="fr_11"></span>[12](#fn_11) and needs not to speak of morbid folly
+id="fr_11"></span>[12](#fn_11.md) and needs not to speak of morbid folly
 when he sees the Christian saints run eagerly and merrily to the Cross.
- <span id="fr_12"></span>[13](#fn_12)
+ <span id="fr_12"></span>[13](#fn_12.md)
 
 <span id="an_iii.i-p55"></span>He calls suffering the “gymnastic of
 eternity,” the “terrible <span id="page_20">p. 20</span> <span
@@ -820,15 +820,15 @@ and immortal, whose existence is not conditioned by the “given” world
 which those senses report. “Beauty,” said Hegel, who, though he was no
 mystic, had a touch of that mystical intuition which no philosopher can
 afford to be without, “is merely the Spiritual making itself known
-sensuously.”  <span id="fr_13"></span>[14](#fn_13) In the good, the
+sensuously.”  <span id="fr_13"></span>[14](#fn_13.md) In the good, the
 beautiful, the true,” says Rudolph Eucken, “we see Reality revealing its
 personal character. They are parts of a coherent and substantial
-spiritual world.”  <span id="fr_14"></span>[15](#fn_14) Here, some of
+spiritual world.”  <span id="fr_14"></span>[15](#fn_14.md) Here, some of
 the veils of that substantial world are stripped off: Reality peeps
 through and is recognized, dimly or acutely, by the imprisoned self.
 
 <span id="an_iii.i-p61"></span>Récéjac only develops this idea when he
-says,  <span id="fr_15"></span>[16](#fn_15) “If the mind penetrates
+says,  <span id="fr_15"></span>[16](#fn_15.md) “If the mind penetrates
 deeply into the facts of aesthetics, it will find more and more, that
 these facts are based upon an ideal identity between the mind itself and
 things. At a certain point the harmony becomes so complete, and the
@@ -840,7 +840,7 @@ up by it above things and above ourselves, in an ontological vision
 which closely resembles the Absolute of the Mystics.” It was of this
 underlying reality—this truth of things—that St. Augustine cried in a
 moment of lucid vision, “Oh, Beauty so old and so new, too late have I
-loved thee!”  <span id="fr_16"></span>[17](#fn_16) It is in this sense
+loved thee!”  <span id="fr_16"></span>[17](#fn_16.md) It is in this sense
 also that “beauty is truth, truth beauty”: and as regards the knowledge
 of ultimate things which is possible to ordinary men, it may well be
 that
@@ -864,7 +864,7 @@ whose initiation is recent, and who has been the spectator of many
 glories in the other world, is amazed when he sees anyone having a
 godlike face or form, which is the expression of Divine Beauty; and at
 first a shudder runs through him, and again the old awe steals over him.
-. . .”  <span id="fr_17"></span>[18](#fn_17)
+. . .”  <span id="fr_17"></span>[18](#fn_17.md)
 
 <span id="an_iii.i-p66"></span>Most men in the course of their lives
 have known such Platonic hours of initiation, when the sense of beauty
@@ -923,7 +923,7 @@ migrating birds, our homing instinct. . . . We seek. That is a fact. We
 seek a city still out of sight. In the contrast with this goal, we live.
 But if this be so, then already we possess something of Being even in
 our finite seeking. For the readiness to seek is already something of an
-attainment, even if a poor one.”  <span id="fr_18"></span>[19](#fn_18)
+attainment, even if a poor one.”  <span id="fr_18"></span>[19](#fn_18.md)
 
 <span id="an_iii.i-p70"></span>Further, in this seeking we are not
 wholly dependent on that homing instinct. For some, who have climbed to
@@ -955,7 +955,7 @@ experience which they call the “act of union,” fuse itself with and thus
 apprehend the reality of the sought Object. In theological language,
 their theory of knowledge is that the spirit of man, itself essentially
 divine, is capable of immediate communion with God, the One Reality.
- <span id="fr_19"></span>[20](#fn_19)
+ <span id="fr_19"></span>[20](#fn_19.md)
 
 <span id="an_iii.i-p73"></span>In mysticism that love of truth which we
 saw as the beginning of all philosophy leaves the merely intellectual
@@ -998,7 +998,7 @@ event, it never touches the foundation of things. Whereas ‘what the
 world, which truly knows nothing, calls “mysticism” is the science of
 ultimates, . . . the science of self-evident Reality, which cannot be
 “reasoned about,” because it is the object of pure reason or
-perception.’“  <span id="fr_20"></span>[21](#fn_20)
+perception.’“  <span id="fr_20"></span>[21](#fn_20.md)
 
 <span id="an_iii.i-p76"></span><span id="page_26">p. 26</span> <span
 id="an_iii.i-Page_26"></span>
@@ -1007,7 +1007,7 @@ id="an_iii.i-Page_26"></span>
 
 ### Footnotes
 
-<span id="fn_0"></span>[5:1](myst04.htm#fr_0) <span
+<span id="fn_0"></span>[5:1](myst04.htm#fr_0.md) <span
 id="an_iii.i-p6.1"></span>
 
 <span id="an_iii.i-p7"></span> Even this I AM, which has seemed safe
@@ -1019,12 +1019,12 @@ Bradley and other modern writers, have devoted much destructive
 criticism to the concept of the Ego as the starting-point of philosophy:
 looking upon it as a large, and logically unwarrantable, assumption.
 
-<span id="fn_1"></span>[5:2](myst04.htm#fr_1) <span
+<span id="fn_1"></span>[5:2](myst04.htm#fr_1.md) <span
 id="an_iii.i-p8.1"></span>
 
 <span id="an_iii.i-p9"></span> Plato, “Phaedrus,” § 250.
 
-<span id="fn_2"></span>[6:3](myst04.htm#fr_2) <span
+<span id="fn_2"></span>[6:3](myst04.htm#fr_2.md) <span
 id="an_iii.i-p11.1"></span>
 
 <span id="an_iii.i-p12"></span> Thus Eckhart, “Every time that the
@@ -1039,7 +1039,7 @@ powers. Does the soul want to know the nature of a stone—horse—a man?
 She forms an image.”—-Meister Eckhart, Pred. i. (“Mystische Schriften,”
 p. 15).
 
-<span id="fn_3"></span>[7:4](myst04.htm#fr_3) <span
+<span id="fn_3"></span>[7:4](myst04.htm#fr_3.md) <span
 id="an_iii.i-p15.1"></span>
 
 <span id="an_iii.i-p16"></span> Thus Edward Carpenter says of his own
@@ -1047,12 +1047,12 @@ experience of the mystical consciousness, “The perception seems to be
 one in which all the senses unite into one sense” (quoted in Bucke’s
 “Cosmic Consciousness,” p. 198).
 
-<span id="fn_4"></span>[8:5](myst04.htm#fr_4) <span
+<span id="fn_4"></span>[8:5](myst04.htm#fr_4.md) <span
 id="an_iii.i-p19.1"></span>
 
 <span id="an_iii.i-p20"></span> “A Pluralistic Universe,” p. 10.
 
-<span id="fn_5"></span>[12:6](myst04.htm#fr_5) <span
+<span id="fn_5"></span>[12:6](myst04.htm#fr_5.md) <span
 id="an_iii.i-p29.1"></span>
 
 <span id="an_iii.i-p30"></span> There are four main groups of such
@@ -1060,25 +1060,25 @@ schemes: (1) Subjective; (2) Objective; (3) Transcendental (Kantian);
 (4) Absolute (Hegelian). To this last belongs by descent the Immanental
 Idealism of Croce and Gentile.
 
-<span id="fn_6"></span>[14:7](myst04.htm#fr_6) <span
+<span id="fn_6"></span>[14:7](myst04.htm#fr_6.md) <span
 id="an_iii.i-p35.1"></span>
 
 <span id="an_iii.i-p36"></span> Delacroix, “Études sur le Mysticisme,”
 p. 62.
 
-<span id="fn_7"></span>[14:8](myst04.htm#fr_7) <span
+<span id="fn_7"></span>[14:8](myst04.htm#fr_7.md) <span
 id="an_iii.i-p36.1"></span>
 
 <span id="an_iii.i-p37"></span> E. Towne, “Just how to Wake the Solar
 Plexus,” p. 25.
 
-<span id="fn_8"></span>[16:9](myst04.htm#fr_8) <span
+<span id="fn_8"></span>[16:9](myst04.htm#fr_8.md) <span
 id="an_iii.i-p43.1"></span>
 
 <span id="an_iii.i-p44"></span> “Fondements de la Connaissance
 Mystique,” p. 15.
 
-<span id="fn_9"></span>[17:10](myst04.htm#fr_9) <span
+<span id="fn_9"></span>[17:10](myst04.htm#fr_9.md) <span
 id="an_iii.i-p44.1"></span>
 
 <span id="an_iii.i-p45"></span> Or, as Aristotle, and after him St.
@@ -1087,19 +1087,19 @@ in man is proper to him, and is in no way shared by any other being in
 this world” (“Summa Contra Gentiles,” 1. iii, cap. xxxvii., Rickaby’s
 translation).
 
-<span id="fn_10"></span>[19:11](myst04.htm#fr_10) <span
+<span id="fn_10"></span>[19:11](myst04.htm#fr_10.md) <span
 id="an_iii.i-p51.1"></span>
 
 <span id="an_iii.i-p52"></span> All the healing arts, from Aesculapius
 and Galen to Metchnikoff and Mrs. Eddy, have virtually accepted and
 worked upon these two principles.
 
-<span id="fn_11"></span>[19:12](myst04.htm#fr_11) <span
+<span id="fn_11"></span>[19:12](myst04.htm#fr_11.md) <span
 id="an_iii.i-p52.1"></span>
 
 <span id="an_iii.i-p53"></span> “De Imitatione Christi.” I. ii. cap. vi.
 
-<span id="fn_12"></span>[19:13](myst04.htm#fr_12) <span
+<span id="fn_12"></span>[19:13](myst04.htm#fr_12.md) <span
 id="an_iii.i-p53.1"></span>
 
 <span id="an_iii.i-p54"></span> “Such as these, I say, as if enamoured
@@ -1109,28 +1109,28 @@ sons, trouble is a pleasure, and pleasure and every consolation that the
 world would offer them are a toil” (St. Catherine ofSiena, Dialogo, cap.
 xxviii.). Here and throughout I have used Thorold’s translation.
 
-<span id="fn_13"></span>[21:14](myst04.htm#fr_13) <span
+<span id="fn_13"></span>[21:14](myst04.htm#fr_13.md) <span
 id="an_iii.i-p58.1"></span>
 
 <span id="an_iii.i-p59"></span> “Philosophy of Religion,” vol. ii. p. 8.
 
-<span id="fn_14"></span>[21:15](myst04.htm#fr_14) <span
+<span id="fn_14"></span>[21:15](myst04.htm#fr_14.md) <span
 id="an_iii.i-p59.1"></span>
 
 <span id="an_iii.i-p60"></span> “Der Sinn und Wert des Lebens,” p. 148.
 
-<span id="fn_15"></span>[21:16](myst04.htm#fr_15) <span
+<span id="fn_15"></span>[21:16](myst04.htm#fr_15.md) <span
 id="an_iii.i-p61.1"></span>
 
 <span id="an_iii.i-p62"></span> “Fondements de la Connaissance
 Mystique,” p. 74.
 
-<span id="fn_16"></span>[21:17](myst04.htm#fr_16) <span
+<span id="fn_16"></span>[21:17](myst04.htm#fr_16.md) <span
 id="an_iii.i-p62.1"></span>
 
 <span id="an_iii.i-p63"></span> Aug. Conf., bk. x. cap. xxvii.
 
-<span id="fn_17"></span>[22:18](myst04.htm#fr_17) <span
+<span id="fn_17"></span>[22:18](myst04.htm#fr_17.md) <span
 id="an_iii.i-p64.1"></span>
 
 <span id="an_iii.i-p65"></span> “Phaedrus,” § 250 (Jowett’s
@@ -1143,13 +1143,13 @@ phenomena of “conversion” would thus be artificially produced: but the
 point of attack being the mind rather than the heart, the results, as
 would appear from the context, were usually transient.
 
-<span id="fn_18"></span>[23:19](myst04.htm#fr_18) <span
+<span id="fn_18"></span>[23:19](myst04.htm#fr_18.md) <span
 id="an_iii.i-p68.1"></span>
 
 <span id="an_iii.i-p69"></span> Royce, “The World and the Individual,”
 vol. i. p. 181.
 
-<span id="fn_19"></span>[24:20](myst04.htm#fr_19) <span
+<span id="fn_19"></span>[24:20](myst04.htm#fr_19.md) <span
 id="an_iii.i-p71.1"></span>
 
 <span id="an_iii.i-p72"></span> The idea of Divine Union as man’s true
@@ -1159,7 +1159,7 @@ establishment of the Orphic Mysteries in Greece and Southern Italy in
 the sixth century B.C. See Rohde: “Psyche,” cap. 10, and Adam, “The
 Religious Teachers of Greece,” p. 92.
 
-<span id="fn_20"></span>[25:21](myst04.htm#fr_20) <span
+<span id="fn_20"></span>[25:21](myst04.htm#fr_20.md) <span
 id="an_iii.i-p74.1"></span>
 
 <span id="an_iii.i-p75"></span> Coventry Patmore, “The Rod, the Root,
@@ -1169,6 +1169,6 @@ and the Flower,” “Aurea Dicta,” cxxviii.
 
 ------------------------------------------------------------------------
 
-[Next: II. Mysticism and Vitalism](myst05)
+[Next: II. Mysticism and Vitalism](myst05.md)
 
 </div>

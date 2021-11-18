@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd04)  [Next](odd06) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd04)  [Next](odd06.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,15 +11,15 @@
 
 ONCE upon a time there was a Rajali who had seven beautiful daughters.
 They were all good girls; but the youngest, named Balna,  <span
-id="fr_23"></span>[1](#fn_23) was more clever than the rest. The Rajah's
+id="fr_23"></span>[1](#fn_23.md) was more clever than the rest. The Rajah's
 wife died when they were quite little children, so these seven poor
 Princesses were left with no mother to take care of them.
 
 The Rajah's daughters took it by turns to cook their father's dinner
-every day,  <span id="fr_24"></span>[2](#fn_24) whilst he was absent
+every day,  <span id="fr_24"></span>[2](#fn_24.md) whilst he was absent
 deliberating with his Ministers on the affairs of the nation.
 
-About this time the Prudhan  <span id="fr_25"></span>[3](#fn_25) died,
+About this time the Prudhan  <span id="fr_25"></span>[3](#fn_25.md) died,
 leaving a widow and one daughter; and every day, every day, when the
 seven Princesses were preparing their father's dinner, the Prudhan's
 widow and daughter would come and beg for a little fire from the hearth.
@@ -84,7 +84,7 @@ mother! cannot you see your poor children, how unhappy we are, and how
 we are starved by our cruel stepmother?'
 
 One day, whilst they were thus sobbing and crying, lo and behold! a
-beautiful pomelo tree  <span id="fr_26"></span>[4](#fn_26) grew up out
+beautiful pomelo tree  <span id="fr_26"></span>[4](#fn_26.md) grew up out
 of the grave, covered with fresh ripe pomeloes, and the children
 satisfied their hunger by eating some of the fruit, and every day after
 this, instead of trying to eat the, bad dinner their stepmother provided
@@ -462,8 +462,8 @@ have thus imprisoned.'
 The Magician immediately waved his wand again; and whilst he cried, in
 an imploring voice, 'Give me my parrot!' the whole garden became
 suddenly alive: where rocks, and stones, and trees had been before,
-stood Rajah's, and Punts,  <span id="fr_27"></span>[5](#fn_27) and
-Sirdars,  <span id="fr_28"></span>[6](#fn_28) and mighty men on prancing
+stood Rajah's, and Punts,  <span id="fr_27"></span>[5](#fn_27.md) and
+Sirdars,  <span id="fr_28"></span>[6](#fn_28.md) and mighty men on prancing
 horses, and jewelled pages, and troops of armed attendants.
 
 'Give me my parrot!' cried Punchkin. Then the boy took hold of the
@@ -493,19 +493,19 @@ house.
 
 ### Footnotes
 
-<span id="fn_23"></span>[1](odd05.htm#fr_23) The little one.
+<span id="fn_23"></span>[1](odd05.htm#fr_23.md) The little one.
 
-<span id="fn_24"></span>[2](odd05.htm#fr_24) see Notes.
+<span id="fn_24"></span>[2](odd05.htm#fr_24.md) see Notes.
 
-<span id="fn_25"></span>[3](odd05.htm#fr_25) Prime Minister.
+<span id="fn_25"></span>[3](odd05.htm#fr_25.md) Prime Minister.
 
-<span id="fn_26"></span>[4](odd05.htm#fr_26) Citrus decumana, the
+<span id="fn_26"></span>[4](odd05.htm#fr_26.md) Citrus decumana, the
 Shaddock of the West Indies.
 
-<span id="fn_27"></span>[5](odd05.htm#fr_27) Principal ministers.
+<span id="fn_27"></span>[5](odd05.htm#fr_27.md) Principal ministers.
 
-<span id="fn_28"></span>[6](odd05.htm#fr_28) Nobles or chiefs.
+<span id="fn_28"></span>[6](odd05.htm#fr_28.md) Nobles or chiefs.
 
 ------------------------------------------------------------------------
 
-[Next: II. A Funny Story](odd06)
+[Next: II. A Funny Story](odd06.md)

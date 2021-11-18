@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog08)  [Next](caog10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog08)  [Next](caog10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -263,7 +263,7 @@ the same.
 <span id="img_10600"></span> <span align="CENTER"> [![SACRED TREE,
 ATTENDANT FIGURES AND EAGLE-HEADED MEN, FROM THE SEAL OF A SYRIAN CHIEF,
 NINTH CENTURY B.C.](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)  
+Click to enlarge](img/10600.jpg.md)  
 SACRED TREE, ATTENDANT FIGURES AND EAGLE-HEADED MEN, FROM THE SEAL OF A
 SYRIAN CHIEF, NINTH CENTURY B.C.  
 </span>
@@ -494,6 +494,6 @@ evil spirits, to whom all misfortunes were attributed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Sin of the God Zu](caog10)
+[Next: Chapter VII. The Sin of the God Zu](caog10.md)
 
 </div>

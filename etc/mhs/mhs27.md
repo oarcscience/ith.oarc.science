@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs26)  [Next](mhs28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs26)  [Next](mhs28.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ jade.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Character Of Fortune](mhs28)
+[Next: III. The Character Of Fortune](mhs28.md)

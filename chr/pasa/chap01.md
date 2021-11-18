@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](preface)  [Next](chap02) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](preface)  [Next](chap02.md) 
 
 ------------------------------------------------------------------------
 
@@ -1056,4 +1056,4 @@ dem Begriffe der Gnade.'
 
 ------------------------------------------------------------------------
 
-[Next: The Philosophy of History](chap02)
+[Next: The Philosophy of History](chap02.md)

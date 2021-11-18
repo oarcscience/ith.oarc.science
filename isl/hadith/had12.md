@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had11)  [Next](had13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had11)  [Next](had13.md) 
 
 ------------------------------------------------------------------------
 
@@ -395,4 +395,4 @@ open place (B. 8:90).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Prayer-Service](had13)
+[Next: Chapter X: Prayer-Service](had13.md)

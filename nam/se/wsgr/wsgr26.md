@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr25)  [Next](wsgr27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr25)  [Next](wsgr27.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ rain or mist. The two ends of the rainbow always
 <span id="img_15200"></span>
 
 [![](tn/15200.jpg)  
-Click to enlarge](img/15200.jpg)
+Click to enlarge](img/15200.jpg.md)
 
 <span id="page_153">p. 153</span>
 
@@ -68,4 +68,4 @@ themselves.
 
 ------------------------------------------------------------------------
 
-[Next: Paisano, Hater of the Rattlesnake](wsgr27)
+[Next: Paisano, Hater of the Rattlesnake](wsgr27.md)

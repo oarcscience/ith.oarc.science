@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,15 +9,15 @@
 
 #### published in Stuttgart, Germany \[1849\]
 
-See Also [The Seventh Book of Moses](../moses7/index)
+See Also [The Seventh Book of Moses](../moses7/index.md)
 
 ------------------------------------------------------------------------
 
-[Introduction](m600)  
-[The Mystery of The First Seal](m601)  
-[The Mystery of The Second Seal](m602)  
-[The Mystery of The Third Seal](m603)  
-[The Mystery of The Fourth Seal](m604)  
-[The Mystery of The Fifth Seal](m605)  
-[The Mystery of The Sixth Seal](m606)  
-[The Mystery of The Seventh Seal](m607)  
+[Introduction](m600.md)  
+[The Mystery of The First Seal](m601.md)  
+[The Mystery of The Second Seal](m602.md)  
+[The Mystery of The Third Seal](m603.md)  
+[The Mystery of The Fourth Seal](m604.md)  
+[The Mystery of The Fifth Seal](m605.md)  
+[The Mystery of The Sixth Seal](m606.md)  
+[The Mystery of The Seventh Seal](m607.md)  

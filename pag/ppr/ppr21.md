@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr20)  [Next](ppr22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr20)  [Next](ppr22.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ with us for our welfare!
 
 ------------------------------------------------------------------------
 
-[Next: Prayer of the Gambler (Hindu)](ppr22)
+[Next: Prayer of the Gambler (Hindu)](ppr22.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos05)  [Next](gbos07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos05)  [Next](gbos07.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ long as it has life.
 
 ------------------------------------------------------------------------
 
-[Next: The Sabbat Rituals: November Eve](gbos07)
+[Next: The Sabbat Rituals: November Eve](gbos07.md)

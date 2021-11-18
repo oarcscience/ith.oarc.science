@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai11)  [Next](iai13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai11)  [Next](iai13.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Prince Zaidu on his steed now hastes away,
 Upon the plains he travelled all that day;  
 Next morn the Za-Gabri he slow ascends,  
 Along the mountain sides the horseman wends  
-Beneath the Eri-ni, <span id="fr_117"></span>[1](#fn_117) and cliffs,
+Beneath the Eri-ni, <span id="fr_117"></span>[1](#fn_117.md) and cliffs,
 and sees  
 The plains and mountains o'er the misty trees  
 From the wild summit, and old Khar-sak glow  
@@ -25,7 +25,7 @@ Three days unceasing sought young Zaidu brave,\[paragraph continues\]
 And now at last within the glen he rode,  
 And near approached Heabani's wild abode.  
 At last he sees the seer before his home,  
-And with his monster <span id="fr_118"></span>[2](#fn_118) now toward
+And with his monster <span id="fr_118"></span>[2](#fn_118.md) now toward
 him come,  
 That walked subdued beside the hermit seer,  
 Thus they upon the rocks above appear.
@@ -66,11 +66,11 @@ Away, and unsuccessful thus returns.
 
 ### Footnotes
 
-<span id="fn_117"></span>[38:1](iai12.htm#fr_117) "Eri-ni," cedar-trees.
+<span id="fn_117"></span>[38:1](iai12.htm#fr_117.md) "Eri-ni," cedar-trees.
 
-<span id="fn_118"></span>[39:2](iai12.htm#fr_118) A carnivorous animal
+<span id="fn_118"></span>[39:2](iai12.htm#fr_118.md) A carnivorous animal
 supposed to have been either a lion or a tiger, more probably a lion.
 
 ------------------------------------------------------------------------
 
-[Next: Column VI. Heabani Resolves to Return to Erech](iai13)
+[Next: Column VI. Heabani Resolves to Return to Erech](iai13.md)

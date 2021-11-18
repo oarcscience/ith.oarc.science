@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl15)  [Next](irl17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl15)  [Next](irl17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -113,7 +113,7 @@ soon as I contacted my ship, the Darkome.
 white-bearded Odin.
 
 "They smugly think they are not," was his answer as he led me to the
-instrument called "Odin's Eye." <span id="fr_46"></span>[10](#fn_46) It
+instrument called "Odin's Eye." <span id="fr_46"></span>[10](#fn_46.md) It
 
 <span id="page_134">p. 134</span>
 
@@ -123,7 +123,7 @@ in focus could be seen. Within it we saw the gathering place of the
 Jotuns, and monsters they were, recently having come to Earth from some
 huge, colder planet. There, their size had been naturally determined by
 the conditions of the planet. They were three times the size of the
-Aesir, <span id="fr_47"></span>[11](#fn_47) of a greater size than Odin
+Aesir, <span id="fr_47"></span>[11](#fn_47.md) of a greater size than Odin
 
 <span id="page_135">p. 135</span>
 
@@ -162,7 +162,7 @@ were well known
 
 <span id="page_136">p. 136</span>
 
-as slave dealers, <span id="fr_48"></span>[12](#fn_48) and what was
+as slave dealers, <span id="fr_48"></span>[12](#fn_48.md) and what was
 worse, they were known for their modifications on the ancient mechanisms
 they salvaged from abandoned caverns—modifications which made the mech
 potent tools for the changing of good human character to evil ends.
@@ -216,7 +216,7 @@ Jotun's strongholds and releasing the poor
 
 human beasts.
 
-But the Einheriar, <span id="fr_49"></span>[13](#fn_49) the chosen, the
+But the Einheriar, <span id="fr_49"></span>[13](#fn_49.md) the chosen, the
 warriors of Odin, were no match in size or in experience for this bunch
 of mad dogs from the pleasure dens of a dozen planets.
 
@@ -261,7 +261,7 @@ it has tremendous penetrative range, as you can see. Some of this type
 of ray will even dislodge furniture, or transmit the energy of a push.
 Watch!" I seized a war club from the wall. It was very small for me,
 like a child's toy hammer in my hands, and I tapped one of the heads of
-the Sathanists. <span id="fr_50"></span>[14](#fn_50) He promptly dropped
+the Sathanists. <span id="fr_50"></span>[14](#fn_50.md) He promptly dropped
 unconscious or dead to the floor. "You see, you didn't know what there
 was in this beam. It is a very fine example of the best work of that
 particular time."
@@ -367,7 +367,7 @@ make I had brought from the Darkome.
 
 ### Footnotes
 
-<span id="fn_46"></span>[133:10](irl16.htm#fr_46) ODIN'S EYE: Was this
+<span id="fn_46"></span>[133:10](irl16.htm#fr_46.md) ODIN'S EYE: Was this
 the origin of the legends regarding 'Odin's Eye'? Norse folk-tales
 recounted it as an all seeing 'eye,' or all-seeing god-like power. This
 just might have been the result, or the USE of just such ancient
@@ -387,7 +387,7 @@ of this marvelous equipment by these degenerates, or 'dero,' their
 'tampering' with the lives of surface people, is the cause of most of
 our ill's and 'bad luck.'—Editor.
 
-<span id="fn_47"></span>[134:11](irl16.htm#fr_47) Again referring to the
+<span id="fn_47"></span>[134:11](irl16.htm#fr_47.md) Again referring to the
 books of Charles Fort:
 
 He quotes from the JOURNAL OF AMERICAN FOLK LORE, 17-203. viz, "Certain
@@ -438,7 +438,7 @@ Stone axe found at Birchwood. Wisconsin: 28 inches long, 14 inches wide,
 HUMAN FOOTPRINTS FOUND IN SANDSTONE, Near CARSON, NEVADA—EACH PRINT 18
 to 20 inches LONG. (Amer. Jour. Sci., 3-26139)—Editor.
 
-<span id="fn_48"></span>[136:12](irl16.htm#fr_48)
+<span id="fn_48"></span>[136:12](irl16.htm#fr_48.md)
 DISAPPEARANCES—SLAVERY: The authors are convinced that there have been
 many writers in the past and the present who either knew or suspected
 the existence of the caverns beneath the surface of the Earth, or that
@@ -464,7 +464,7 @@ on the annual number of disappearances that are not accounted for, or
 the number undetected. Then, figure out how many large cities there are
 in the whole nation.—Author.
 
-<span id="fn_49"></span>[138:13](irl16.htm#fr_49) EINHERIAR: This
+<span id="fn_49"></span>[138:13](irl16.htm#fr_49.md) EINHERIAR: This
 persistent legend of raising the dead for purposes of acquiring
 soldiers, slaves, etc. seems to come from the extreme potency of the
 antique beneficial ray. I, myself, have seen a boy of eight killed by a
@@ -479,7 +479,7 @@ means. The Hindu ascetics who slit open their stomachs and let out their
 intestines with a knife, then push them back in to have the wound heal
 at once are the same kind of phenomena.—R. S. Shaver.
 
-<span id="fn_50"></span>[139:14](irl16.htm#fr_50) PRECISE ACCURACY OF
+<span id="fn_50"></span>[139:14](irl16.htm#fr_50.md) PRECISE ACCURACY OF
 ANCIENT WEAPONS: These ancient weapons were so accurate and so built for
 durability that perhaps they are the means by which certain phenomena
 have been actuated. Charles Fort, in his book, WILD TALENTS, says this:
@@ -507,4 +507,4 @@ Taken from the BOOKS OF CHARLES FORT—WILD TALENTS—Page 911.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. War Against the Jotuns](irl17)
+[Next: Chapter V. War Against the Jotuns](irl17.md)

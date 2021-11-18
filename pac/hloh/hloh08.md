@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh07)  [Next](hloh09) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh07)  [Next](hloh09.md) 
 
 ------------------------------------------------------------------------
 
@@ -224,4 +224,4 @@ ua poo lipilipi o Kalihi").
 
 ------------------------------------------------------------------------
 
-[Next: V. The Gods Who Found Water](hloh09)
+[Next: V. The Gods Who Found Water](hloh09.md)

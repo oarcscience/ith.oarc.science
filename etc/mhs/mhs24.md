@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs23)  [Next](mhs25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs23)  [Next](mhs25.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ nature does not change, and superstition is a part of human nature.
 
 ------------------------------------------------------------------------
 
-[Next: Fortune And Luck](mhs25)
+[Next: Fortune And Luck](mhs25.md)

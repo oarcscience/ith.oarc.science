@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr18)  [Next](ibr20) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr18)  [Next](ibr20.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Among these is the story told by Clark, of the marvelous bird by which
 Hiawatha's only daughter was destroyed. Longfellow has avoided all
 reference to this preposterous tale; but to Mr. Clark, if we may judge
 from the fullness and solemnity with which he has recorded it, it
-appeared very impressive. <span id="fr_80"></span>[1](#fn_80) According
+appeared very impressive. <span id="fr_80"></span>[1](#fn_80.md) According
 to his narrative, when the great convention assembled at the summons of
 Hiawatha, to form the league of the Five Nations, he came to it in
 company with his darling and only daughter, a girl of twelve. Suddenly a
@@ -72,7 +72,7 @@ it. Hiawatha's grief was profound; but it was then, according to the
 tradition of the Canadian Onondagas,--when the last tie of kindred which
 bound him to his own people was broken,--that the idea occurred to him
 of seeking aid among the eastern nations. <span
-id="fr_81"></span>[1](#fn_81)
+id="fr_81"></span>[1](#fn_81.md)
 
 Clark's informants also told him much about a snow-white canoe in which
 Hiawatha-or, rather, Ta-oun-ya-wa-tha-made his first appearance to human
@@ -110,13 +110,13 @@ effect, in the closing scene of Longfellow's poem.
 
 ### Footnotes
 
-<span id="fn_80"></span>[181:1](ibr19.htm#fr_80) "*Onondaga*," Vol. I,
+<span id="fn_80"></span>[181:1](ibr19.htm#fr_80.md) "*Onondaga*," Vol. I,
 p. 25.
 
-<span id="fn_81"></span>[182:1](ibr19.htm#fr_81) This account of the
+<span id="fn_81"></span>[182:1](ibr19.htm#fr_81.md) This account of the
 events which immediately preceded Hiawatha's flight differs somewhat
 from the narrative which I received from the New York Onondagas, as
-recorded in the Introduction ([p. 22](ibr03.htm#page_22)). The
+recorded in the Introduction ([p. 22](ibr03.htm#page_22).md). The
 difference, however, is not important; and possibly, if it had occurred
 to me to inquire of these latter informants about the incident of the
 bird, I might have heard from them particulars which would have brought
@@ -130,4 +130,4 @@ regarded as the best evidence of the truth of the history.
 
 ------------------------------------------------------------------------
 
-[Next: Note E: The Iroquois Towns](ibr20)
+[Next: Note E: The Iroquois Towns](ibr20.md)

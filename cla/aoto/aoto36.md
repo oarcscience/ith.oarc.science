@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto35) 
-[Next](aoto37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto35.md) 
+[Next](aoto37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ quarrel with his father. And with him there came forty ships.
 
 Ulysses led the brave Cephallenians, who held Ithaca, wooded Neritum,
 Crocylea, rugged Ægilips, Zacynthus, and Samos, <span
-id="fr_64"></span>[\*](#fn_64) with the mainland also that is over
+id="fr_64"></span>[\*](#fn_64.md) with the mainland also that is over
 against the islands. These were led by Ulysses, peer of gods in counsel,
 and with him came twelve ships ("Il." ii. 625-637).
 
@@ -59,7 +59,7 @@ belong to the Ionian islands, but to the
 
 <span id="img_17500"></span> <span align="CENTER"> [![Map of the Ionian
 Islands](tn/17500.jpg)  
-Click to enlarge](img/17500.jpg)  
+Click to enlarge](img/17500.jpg.md)  
 Map of the Ionian Islands  
 </span>
 
@@ -136,7 +136,7 @@ having taken place within measurable distance of our own times.
 
 <span id="img_17700"></span> <span align="CENTER"> [![Map of the Ægadean
 Islands](tn/17700.jpg)  
-Click to enlarge](img/17700.jpg)  
+Click to enlarge](img/17700.jpg.md)  
 Map of the Ægadean Islands  
 </span>
 
@@ -164,7 +164,7 @@ which I take to be the second rock thrown by Polyphemus.
 
 <span id="img_17800"></span> <span align="CENTER"> [![Sketch of Trapani
 from Mt. Eryx](tn/17800.jpg)  
-Click to enlarge](img/17800.jpg)  
+Click to enlarge](img/17800.jpg.md)  
 Sketch of Trapani from Mt. Eryx  
 </span>
 
@@ -234,7 +234,7 @@ Ulysses and his men hunted the goats. Indeed this incident seems
 introduced as though purposely to suggest the Ægadean or "goat" islands
 to the audience, as also does the line iv. 606 in which Ithaca—that is
 to say, in reality, the island of Marettimo—is said to be an island fit
-for goats. <span id="fr_65"></span>[\*](#fn_65)
+for goats. <span id="fr_65"></span>[\*](#fn_65.md)
 
 A very considerable consent accompanies us also to Mt. Eryx as the site
 of the adventure with Polyphemus. Here, and with the island on which the
@@ -247,7 +247,7 @@ neighbourhood of Trapani.
 
 <span id="img_18100"></span> <span align="CENTER"> [![The Voyages of
 Ulysses](tn/18100.jpg)  
-Click to enlarge](img/18100.jpg)  
+Click to enlarge](img/18100.jpg.md)  
 The Voyages of Ulysses  
 </span>
 
@@ -285,7 +285,7 @@ parts that are backed by considerable authority, and dotted lines for
 those which I would supply. I have made Ulysses approach Trapani from
 the South, on the strength of Calypso's directions to him that he was to
 sail towards the Great Bear, keeping it on his left hand (v. 276,
-277). <span id="fr_66"></span>[\*](#fn_66) This indicates certainly a
+277). <span id="fr_66"></span>[\*](#fn_66.md) This indicates certainly a
 
 <span id="page_182">p. 182</span>
 
@@ -297,7 +297,7 @@ words of the poem which run:
 <div style="font-size: 90%">
 
 He sat keeping his eyes upon the Pleiades, <span
-id="fr_67"></span>[\*](#fn_67) late setting Boötes, and on the Bear,
+id="fr_67"></span>[\*](#fn_67.md) late setting Boötes, and on the Bear,
 also called the Wain, which turns round and round facing Orion, and
 alone never sinks beneath the sea—for Calypso had bidden him steer by
 this, keeping it on his left hand (v. 272-277).
@@ -344,7 +344,7 @@ move" as the ship flew past them, and so with the island of Æolus—"it
 seemed to float on the horizon." It shows no signs of having moved
 during the month that Ulysses stayed on it, and when he returns to it
 after an absence of three weeks, we have no hint given of its having
-changed its place. <span id="fr_68"></span>[\*](#fn_68) I conclude,
+changed its place. <span id="fr_68"></span>[\*](#fn_68.md) I conclude,
 therefore, that it was as fixed as any other island, and proceed to look
 for it.
 
@@ -363,7 +363,7 @@ Ustica and the Lipari islands.
 <span id="page_184">p. 184</span>
 
 The name of the Læstrygonians or Workers in Stone, <span
-id="fr_69"></span>[\*](#fn_69) like all names of places or people inside
+id="fr_69"></span>[\*](#fn_69.md) like all names of places or people inside
 Sicily, is fictitious. If there had ever been any people really so
 called in Sicily Thucydides would have been able to find out some
 little, at any rate, about them; whereas he declares (vi. 2) that he
@@ -398,13 +398,13 @@ were so wealthy and luxurious that they used to have relays of fresh
 
 <span id="img_18400"></span> <span align="CENTER"> [![WALL AT CEFALÙ,
 RISING FROM THE SEA](tn/18400.jpg)  
-Click to enlarge](img/18400.jpg)  
+Click to enlarge](img/18400.jpg.md)  
 WALL AT CEFALÙ, RISING FROM THE SEA  
 </span>
 
 <span id="img_18500"></span> <span align="CENTER"> [![MEGALITHIC REMAINS
 ON THE MOUNTAIN BEHIND CEFALÙ](tn/18500.jpg)  
-Click to enlarge](img/18500.jpg)  
+Click to enlarge](img/18500.jpg.md)  
 MEGALITHIC REMAINS ON THE MOUNTAIN BEHIND CEFALÙ  
 </span>
 
@@ -439,7 +439,7 @@ be Byzantine. I have also seen a few, neither striking nor yet certain
 ones, at Capo Schisò near Taormina. What little is left of the walls of
 Segesta is of a greatly later age, and I find it very difficult to think
 that Segesta was in existence when the "Odyssey" was being
-written. <span id="fr_70"></span>[\*](#fn_70) I have heard of the
+written. <span id="fr_70"></span>[\*](#fn_70.md) I have heard of the
 remains of a Cyclopean acropolis behind Termini, a monograph about which
 by Sigr. Luigi Mauceri will be found in the British Museum. At Isnello
 two hours inland from Collesano a very early necropolis has been
@@ -515,15 +515,15 @@ has like claims on her and their attention.
 
 ### Footnotes
 
-<span id="fn_64"></span>[174:\*](aoto36.htm#fr_64) In the "Odyssey" more
+<span id="fn_64"></span>[174:\*](aoto36.htm#fr_64.md) In the "Odyssey" more
 generally called Same.
 
-<span id="fn_65"></span>[180:\*](aoto36.htm#fr_65) The name Favognana is
+<span id="fn_65"></span>[180:\*](aoto36.htm#fr_65.md) The name Favognana is
 derived from Favonius, this wind blowing on to Trapani from off the
 island. It is, however, also and perhaps most frequently called
 Favignana.
 
-<span id="fn_66"></span>[181:\*](aoto36.htm#fr_66) Gr.
+<span id="fn_66"></span>[181:\*](aoto36.htm#fr_66.md) Gr.
 
 <div style="margin-left: 32px">
 
@@ -532,7 +532,7 @@ Favignana.
 
 </div>
 
-<span id="fn_67"></span>[182:\*](aoto36.htm#fr_67) We may neglect the
+<span id="fn_67"></span>[182:\*](aoto36.htm#fr_67.md) We may neglect the
 Pleiades, as introduced simply because they are in the Iliadic passage
 (xviii. 486-489) which the writer of the "Odyssey" is adopting with no
 other change than taking out the Hyades and Orion, and substituting
@@ -544,12 +544,12 @@ the heavens (let alone the Precession of the Equinoxes) they are to be
 looked for?—and it is made quite clear that the Bear is the
 constellation by which Ulysses is steering.
 
-<span id="fn_68"></span>[183:\*](aoto36.htm#fr_68) At Messina a few
+<span id="fn_68"></span>[183:\*](aoto36.htm#fr_68.md) At Messina a few
 months since I saw a printed handbill about the hours when the boat
 would start for Reggio, in which Italy was called "Terra firma," as
 though a sense of instability attached itself to any island.
 
-<span id="fn_69"></span>[184:\*](aoto36.htm#fr_69) The name seems
+<span id="fn_69"></span>[184:\*](aoto36.htm#fr_69.md) The name seems
 derived from λᾶας, τρυγάω, and αἶα, as Œnotria is from οἶνος, τρυγάω,
 and αἶα. I have read, but forget where, that Œnotria is only a Greek
 rendering of Italia, which is derived from *vites*, *alo*, and some
@@ -557,11 +557,11 @@ Latin equivalent for αἶα. The modern Italian word *lastricare*, "to pave
 roads with stone," is probably derived from the same roots as
 *Læstrygonian*.
 
-<span id="fn_70"></span>[185:\*](aoto36.htm#fr_70) Segesta would have
+<span id="fn_70"></span>[185:\*](aoto36.htm#fr_70.md) Segesta would have
 been seen from the top of Mt. Eryx gleaming in the summer sunset, and I
 think there would have been some kind of allusion to it.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter X. Further Details Regarding the Voyages of
-Ulysses](aoto37)
+Ulysses](aoto37.md)

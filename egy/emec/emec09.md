@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](emec08)  [Next](emec10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](emec08)  [Next](emec10.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ his opinions. This later creed states that though "the Father is God,
 the Son is God, and the Holy Ghost is God, yet they are not three Gods,
 but one God." This is the Egyptian doctrine of plurality in unity, which
 is represented in numerous sculptures, and explained in pages
-[12](emec03.htm#page_12) and [98](emec08.htm#page_98). It then asserts
+[12](emec03.htm#page_12) and [98](emec08.htm#page_98.md). It then asserts
 the two natures of Christ, that he is both "perfect God and perfect
 man." This was meant to get over the difficulty of a dying God which had
 been ridiculed by Xenophanes, in the case of Osiris, five centuries
@@ -159,11 +159,11 @@ readily fitted the old temples to the new religion. Their opinions had
 undergone but small change. On the rock temple of Kneph, opposite Abou
 Simbel, they painted the figure of the Saviour, with a glory round his
 head upon the and thus it became a Christian church (see Fig.
-[101](#img_101)) The great court-yard of the temple of Medinet Abou, at
+[101](#img_101).md) The great court-yard of the temple of Medinet Abou, at
 Thebes, was is used as a
 
 <span id="img_101"></span> [![](tn/generic.jpg)  
-Click to view](img/11100.jpg)
+Click to view](img/11100.jpg.md)
 
 Fig. 101.
 
@@ -178,10 +178,10 @@ god of the temple, and the
 <span id="page_112">p. 112</span>
 
 sculpture now represents King Rameses II. presenting his offerings to
-the Christian Saint (see Fig. [102](#img_102)).
+the Christian Saint (see Fig. [102](#img_102).md).
 
 <span id="img_102"></span> [![](tn/generic.jpg)  
-Click to view](img/11200.jpg)
+Click to view](img/11200.jpg.md)
 
 Fig. 102.
 
@@ -279,7 +279,7 @@ in smaller matters. St. Ambrose, Archbishop of Milan, calls Jesus "the
 good Scarabæus, who rolled up before him the hitherto unshapen mud of
 our bodies," thus giving to him one of the names and characters of the
 god Horus, who is pictured as a scarabæus, with a ball of mud between
-his feet (see Fig. [103](#img_103)). The ball, which usually means the
+his feet (see Fig. [103](#img_103).md). The ball, which usually means the
 sun, would seem to have sometimes meant the sins of mankind; and the
 goddesses Isis and Nephthys are often represented as rolling the same
 ball before them. St. Augustin also, during the greater part of his
@@ -290,7 +290,7 @@ only Christians who really and fully, believed in a future resurrection
 from the dead.
 
 <span id="img_103"></span> [![](tn/generic.jpg)  
-Click to view](img/11500.jpg)
+Click to view](img/11500.jpg.md)
 
 Fig. 103.
 
@@ -380,10 +380,10 @@ bulls, goats, and crocodiles, it was now teaching the world the worship
 of the Trinity in the truest form.
 
 <span id="img_104"></span> [![](tn/generic.jpg)  
-Click to view](img/11800.jpg)
+Click to view](img/11800.jpg.md)
 
 Fig. 104.--Isis Rising Heliacally.
 
 ------------------------------------------------------------------------
 
-[Next: List of Woodcuts](emec10)
+[Next: List of Woodcuts](emec10.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh17)  [Next](hloh19) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh17)  [Next](hloh19.md) 
 
 ------------------------------------------------------------------------
 
@@ -223,4 +223,4 @@ Kaumakapili church site.\]
 
 ------------------------------------------------------------------------
 
-[Next: XV. The Wonderful Shell](hloh19)
+[Next: XV. The Wonderful Shell](hloh19.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Theosophy](../../the/index)  [Index](index)  [Previous](theo14) 
-[Next](theo16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Theosophy](../../the/index)  [Index](index)  [Previous](theo14.md) 
+[Next](theo16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Theosophy*, by Rudolf Steiner, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -158,7 +158,7 @@ view of it its relation to the external world. We learn to look at it as
 something belonging to the external world, a member of this external
 world. We consequently no longer separate our <span
 class="smallcaps">own</span> corporality from the rest of the external
-world as something more nearly related to [ourselves](errata.htm#5). We
+world as something more nearly related to [ourselves](errata.htm#5.md). We
 feel the unity in the whole external world including our own bodily
 incarnations. Our own embodiments dissolve here into a unity with the
 rest of the world. Thus we here look upon the <span
@@ -386,7 +386,7 @@ and feels that all that he has experienced in it will be brought into
 service in the purposes he has to bring to realization in the future. A
 kind of remembrance of his earlier lives and the prophetic vision of his
 future ones flash forth. We see, therefore, that what in this book (pp.
-[46](theo10.htm#page_46) *et seq*.) is called "spirit self" lives in
+[46](theo10.htm#page_46) *et seq*..md) is called "spirit self" lives in
 this region, as far as it is developed, in that measure of reality with
 which it is able to unite itself; it develops itself still further and
 prepares itself to make possible in a new incarnation the fulfillment of
@@ -459,4 +459,4 @@ originating in this region of the "Spirit-land.")
 ------------------------------------------------------------------------
 
 [Next: 5. The Physical World and its Connection with the Soul and Spirit
-Lands](theo16)
+Lands](theo16.md)

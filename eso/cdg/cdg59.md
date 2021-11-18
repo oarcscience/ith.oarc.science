@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg58)  [Next](cdg60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg58)  [Next](cdg60.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ understanding." <span class="small">PLUTARCH, LIFE OF NUMA.</span>
 
 ------------------------------------------------------------------------
 
-[Next: WW. Recent Tidings of the Elementary Peoples?](cdg60)
+[Next: WW. Recent Tidings of the Elementary Peoples?](cdg60.md)

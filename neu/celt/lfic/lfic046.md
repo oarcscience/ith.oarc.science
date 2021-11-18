@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic045)  [Next](lfic047) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic045)  [Next](lfic047.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ next tale.--
 
 ------------------------------------------------------------------------
 
-[Next: The Queen's County Ghost](lfic047)
+[Next: The Queen's County Ghost](lfic047.md)

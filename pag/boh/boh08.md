@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh07)  [Next](boh09) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh07)  [Next](boh09.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ wealth, and when shall I die?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Hallowe'en Beliefs and Customs in Ireland](boh09)
+[Next: Chapter VII: Hallowe'en Beliefs and Customs in Ireland](boh09.md)

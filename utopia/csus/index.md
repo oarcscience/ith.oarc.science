@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](csus00)
+[Contents](#contents)    [Start Reading](csus00.md)
 
 ------------------------------------------------------------------------
 
@@ -51,76 +51,76 @@ arrangements and sexual practices.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](csus00)  
-[Table of Contents](csus01)  
-[List of Illustrations](csus02)  
-[Introduction](csus03)  
+<span id="contents"></span> [Title Page](csus00.md)  
+[Table of Contents](csus01.md)  
+[List of Illustrations](csus02.md)  
+[Introduction](csus03.md)  
 <span id="section_000"></span>
 
 ### The Inspirationists, at The Amana Community
 
-[I. Introduction](csus04)  
-[II.—Historical.](csus05)  
-[III.—Amana—1874.](csus06)  
-[IV.—Religion and Literature.](csus07)  
+[I. Introduction](csus04.md)  
+[II.—Historical.](csus05.md)  
+[III.—Amana—1874.](csus06.md)  
+[IV.—Religion and Literature.](csus07.md)  
 <span id="section_001"></span>
 
 ### The Harmony Society
 
-[I.—Economy In 1874](csus08)  
-[II.—Historical.](csus09)  
+[I.—Economy In 1874](csus08.md)  
+[II.—Historical.](csus09.md)  
 [III.—Doctrines and Practical Life In Economy; With Some Particulars of
-“Father Rapp.”](csus10)  
+“Father Rapp.”](csus10.md)  
 <span id="section_002"></span>
 
 ### The Society Of Separatists, at Zoar, Ohio
 
-[I.—History](csus11)  
-[II.—Religious Faith and Practical Life.](csus12)  
+[I.—History](csus11.md)  
+[II.—Religious Faith and Practical Life.](csus12.md)  
 <span id="section_003"></span>
 
 ### The Shakers.
 
-[I. Introduction](csus13)  
-[II.—“Mother Ann.”](csus14)  
-[III.—The Order of Life Among the Shakers](csus15)  
-[IV.—A Visit To Mount Lebanon.](csus16)  
-[Details of the Shaker Societies](csus17)  
-[Shaker Literature, Spiritualism, etc.](csus18)  
+[I. Introduction](csus13.md)  
+[II.—“Mother Ann.”](csus14.md)  
+[III.—The Order of Life Among the Shakers](csus15.md)  
+[IV.—A Visit To Mount Lebanon.](csus16.md)  
+[Details of the Shaker Societies](csus17.md)  
+[Shaker Literature, Spiritualism, etc.](csus18.md)  
 <span id="section_004"></span>
 
 ### The Perfectionists of Oneida and Wallingford.
 
-[I.—Historical](csus19)  
-[II.—Religious Belief And Faith-Cures.](csus20)  
-[III.—Daily Life And Business Administration.](csus21)  
+[I.—Historical](csus19.md)  
+[II.—Religious Belief And Faith-Cures.](csus20.md)  
+[III.—Daily Life And Business Administration.](csus21.md)  
 [IV.—Sunday At The Oneida Community, With Some Account Of
-“Criticism.”](csus22)  
+“Criticism.”](csus22.md)  
 <span id="section_005"></span>
 
 ### The Aurora And Bethel Communes.
 
-[I.—Aurora in Oregon](csus23)  
-[II.—Bethel.](csus24)  
+[I.—Aurora in Oregon](csus23.md)  
+[II.—Bethel.](csus24.md)  
 
  
 
-[The Icarians](csus25)  
-[The Bishop Hill Commune.](csus26)  
-[The Cedar Vale Community.](csus27)  
-[The Social Freedom Community.](csus28)  
-[Colonies Which Are Not Communistic.](csus29)  
+[The Icarians](csus25.md)  
+[The Bishop Hill Commune.](csus26.md)  
+[The Cedar Vale Community.](csus27.md)  
+[The Social Freedom Community.](csus28.md)  
+[Colonies Which Are Not Communistic.](csus29.md)  
 <span id="section_006"></span>
 
 ### A Comparative View of the Customs and Practices of the American Communes
 
-[I.—Statistical](csus30)  
-[II.—Communal Politics And Political Economy.](csus31)  
+[I.—Statistical](csus30.md)  
+[II.—Communal Politics And Political Economy.](csus31.md)  
 [III.—Character of the People; Influences of Communistic
-Life.](csus32)  
-[IV.—Conditions and Possibilities of Communistic Living.](csus33)  
+Life.](csus32.md)  
+[IV.—Conditions and Possibilities of Communistic Living.](csus33.md)  
 
  
 
-[Bibliography.](csus34)  
-[Index](csus35)  
+[Bibliography.](csus34.md)  
+[Index](csus35.md)  

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs12)  [Next](abs14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs12)  [Next](abs14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -77,7 +77,7 @@ Gabun-Camerun block; the south face of the Ubangi-Shari; and a swath
 running south from the Bar-el-Ghazal to Kasai. It is in these forests
 that the more ancient and retiring creatures make their abode. They,
 also, are the least known parts of the continent. (See [Map
-VII.](#img_map07))
+VII.](#img_map07).md)
 
 ABSMs have been reported from three areas in Africa—the southern face of
 the Guinea Massif; the east side of the Congo Basin; and the eastern
@@ -100,7 +100,7 @@ Darwin's theory of our origin
 
 <span id="img_map07"></span> <span align="CENTER"> [![MAP VII.
 AFRICA](tn/map07.jpg)  
-Click to enlarge](img/map07.jpg)  
+Click to enlarge](img/map07.jpg.md)  
 MAP VII. AFRICA  
 </span>
 
@@ -160,7 +160,7 @@ Australopithecines from South Africa.
 Nonetheless, as of now—and if we preclude the possibility of ABSMs—the
 Hominids have changed a great deal, but lost all but one of their
 branches; while the apes have sort of got stuck, but still exist in
-about twenty distinct forms. <span id="fr_22"></span>[\*](#fn_22) There
+about twenty distinct forms. <span id="fr_22"></span>[\*](#fn_22.md) There
 is no reason, however, why there should not still be other kinds of
 *apes* still living today that we have not yet found. The Pigmy Chimp
 (*Pan paniscus*) was a long time being accepted; there is supposed to be
@@ -694,7 +694,7 @@ even the game people treated the thing as a "story." True, this
 creature, like ABSMs in many places, was only brought to light when the
 first road was pushed into this forest—shades of Jerry Crew—but then
 everybody indulged the most ridiculous folderol about "ghosts of the
-supernatural." <span id="fr_23"></span>[\*](#fn_23) Then, the alleged
+supernatural." <span id="fr_23"></span>[\*](#fn_23.md) Then, the alleged
 photos have not been published. They arrived in Salisbury, capital of
 the Federation, on February 6 and were said next day to have "puzzled
 anthropologists and zoologists." We then get "A spokesman for the
@@ -777,7 +777,7 @@ Mr. B. L. Mitchell and Mr. C. Holliday, who are keeping the creature
 <div style="font-family: Helvetica, Arial, Geneva, sans-serif">
 
 under almost daily observation, have not yet been able to obtain any
-photographs. <span id="fr_24"></span>[\*](#fn_24) Ufiti remains as
+photographs. <span id="fr_24"></span>[\*](#fn_24.md) Ufiti remains as
 elusive as ever, vanishing as soon as she is approached, and thick bush
 and poor light add to the difficulties of getting clear pictures.
 
@@ -788,7 +788,7 @@ touring the area, was among several people who saw the creature when it
 reappeared near the road on Tuesday.
 
 The two game experts, who are collecting photographs <span
-id="fr_25"></span>[\*](#fn_24) and other forms of visible evidence, hope
+id="fr_25"></span>[\*](#fn_24.md) and other forms of visible evidence, hope
 to arrange a bigger expedition to explore the whole rain-forest area.
 
 It is unlikely, however, that any scientific expedition will be allowed
@@ -873,7 +873,7 @@ time."
 
 <div style="font-family: Helvetica, Arial, Geneva, sans-serif">
 
-It makes a bed as a gorilla <span id="fr_26"></span>[\*](#fn_25) does,
+It makes a bed as a gorilla <span id="fr_26"></span>[\*](#fn_25.md) does,
 large and untidy, usually sleeps in it only once, I suppose to eliminate
 the possibility of discovery.
 
@@ -1207,21 +1207,21 @@ where they ought to be.
 
 ### Footnotes
 
-<span id="fn_22"></span>[186:\*](abs13.htm#fr_22) The popular belief is
+<span id="fn_22"></span>[186:\*](abs13.htm#fr_22.md) The popular belief is
 that there are but four living apes—the Gorilla, Chimpanzee, Mias
 (Orang), and Gibbon. This is not so. See *The Monkey Kingdom* by the
 author.
 
-<span id="fn_23"></span>[197:\*](abs13.htm#fr_23) I am wondering if by
+<span id="fn_23"></span>[197:\*](abs13.htm#fr_23.md) I am wondering if by
 this expression the writer meant that a ghost of something invisible and
 probably nonexistent might, by inference, be presumed to be something
 visible and substantial. I cannot quite conceive of a ghost of a ghost.
 
-<span id="fn_24"></span>[199:\*](abs13.htm#fr_25) Please note! (Author)
+<span id="fn_24"></span>[199:\*](abs13.htm#fr_25) Please note! (Author.md)
 
-<span id="fn_25"></span>[201:\*](abs13.htm#fr_26) How did Mrs. Wood (or
+<span id="fn_25"></span>[201:\*](abs13.htm#fr_26.md) How did Mrs. Wood (or
 her houseboy) know of this?—*Author*.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The East—the “Mysterious”](abs14)
+[Next: 10. The East—the “Mysterious”](abs14.md)

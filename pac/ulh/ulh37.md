@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh36)  [Next](ulh38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh36)  [Next](ulh38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -50,9 +50,9 @@ clouds in imitation of houses and mountains and who produced the mirage:
 
 <div style="margin-left: 32px">
 
-Ko’i maka nui, <span id="fr_453"></span>[a](#fn_437)  
+Ko’i maka nui, <span id="fr_453"></span>[a](#fn_437.md)  
 Ike ia na pae moku,  
-Na moku o Mala-la-walu, <span id="fr_454"></span>[b](#fn_438)  
+Na moku o Mala-la-walu, <span id="fr_454"></span>[b](#fn_438.md)  
 Ka noho a Ka-maulu-a-niho,  
 5 Kupuna o Kama-pua’a.
 
@@ -62,29 +62,29 @@ Ka noho a Ka-maulu-a-niho,
 
 <div style="margin-left: 32px">
 
-Ike ia ka hono a Pii-lani; <span id="fr_455"></span>[a](#fn_439)  
+Ike ia ka hono a Pii-lani; <span id="fr_455"></span>[a](#fn_439.md)  
 Ku ka paóa i na mokupuni.  
 Ua puni au ia Pele,  
 Ka u’i noho mau i Kilauea,  
 10 Anau hewa i ke a o Puna.  
-Keiki kolohe a Ku ame Hina-- <span id="fr_456"></span>[b](#fn_440)  
+Keiki kolohe a Ku ame Hina-- <span id="fr_456"></span>[b](#fn_440.md)  
 Hina ka opua, kau i ke olewa,  
-Ke ao pua’a <span id="fr_457"></span>[c](#fn_441) maalo i Haupu.  
-Haku’i ku’u manao e hoi <span id="fr_458"></span>[d](#fn_442) i
+Ke ao pua’a <span id="fr_457"></span>[c](#fn_441.md) maalo i Haupu.  
+Haku’i ku’u manao e hoi <span id="fr_458"></span>[d](#fn_442.md) i
 Kahiki;  
 15 Pau ole ka’u hoohihi ia Hale-ma’u-ma’u, <span
-id="fr_459"></span>[e](#fn_443)  
-I ka pali kapu a Ka-moho-alii. <span id="fr_460"></span>[f](#fn_444)  
+id="fr_459"></span>[e](#fn_443.md)  
+I ka pali kapu a Ka-moho-alii. <span id="fr_460"></span>[f](#fn_444.md)  
 Kela kuahiwi a mau a ke ahi.  
 He manao no ko’u e noho pu;  
 Pale ’a mai e ka hilahila,  
 20 I ka hakukole ia mai e ke Akua wahine.  
 Pale oe, pale au, iloko o ka hilahila;  
 A hilahila wale ia iho no e oe;  
-Nau no ia hale i noho. <span id="fr_461"></span>[g](#fn_445)  
+Nau no ia hale i noho. <span id="fr_461"></span>[g](#fn_445.md)  
 Ka hana ia a ke Ko’i maka nui,  
 25 Ike ia na pae moku.  
-He hiapo <span id="fr_462"></span>[h](#fn_446) au na Olopana,  
+He hiapo <span id="fr_462"></span>[h](#fn_446.md) au na Olopana,  
 He hi’i-alo na Ku-ula,  
 Ka mea nana na haka moa;
 
@@ -94,7 +94,7 @@ Ka mea nana na haka moa;
 
 <div style="margin-left: 32px">
 
-Noho i ka uka o Ka-liu-wa’a; <span id="fr_463"></span>[a](#fn_447)  
+Noho i ka uka o Ka-liu-wa’a; <span id="fr_463"></span>[a](#fn_447.md)  
 30 Ku’u wa’a ia ho’i i Kahiki.  
 Pau ia ike ana ia Hawaii,  
 Ka aina a ke Akua i hiki mai ai,  
@@ -104,7 +104,7 @@ Malihiui oe, malihini au,
 A pepelu, a pepelu, a pepelu  
 Ko ia la huelo! pili i ka lemu!  
 Hu! hu! hu! hu!  
-Ka-haku-ma’a-lani <span id="fr_464"></span>[b](#fn_448) kou inoa!  
+Ka-haku-ma’a-lani <span id="fr_464"></span>[b](#fn_448.md) kou inoa!  
 40 A e o mai oe, e Kane-hoa-lani.  
 Ua noa.
 
@@ -222,7 +222,7 @@ subsiding and retreat of the ocean to its own limits and the restoration
 of peace and calm, the fiery mount still unmoved, an apparent victory
 for the volcanic forces. Was it not this spectacular tournament of the
 elements that the Hawaiian sought to embody and idealize in his myth of
-Pele and Kama-pua’a? <span id="fr_465"></span>[a](#fn_449)
+Pele and Kama-pua’a? <span id="fr_465"></span>[a](#fn_449.md)
 
 The likeness to be found between the amphibious Kama-pua’a and the hog
 appeals picturesquely to one's imagination in many ways. The very
@@ -238,7 +238,7 @@ comparison which likens hint to a tidal wave.
 
 ### Footnotes
 
-<span id="fn_437"></span>[228:a](ulh37.htm#fr_453) *Ko’i maka nui*. The
+<span id="fn_437"></span>[228:a](ulh37.htm#fr_453.md) *Ko’i maka nui*. The
 word *maka*, which from the connection here must mean the edge of an ax,
 is the word generally used to mean an eye. Insistence on their
 peculiarity leads one to think that there must have been something
@@ -248,17 +248,17 @@ occasion as Kama-pua’a was lying in wait for Pele in a volcanic bubble
 in the plains of Puna Pele's sisters recognized his presence by the
 gleam of his eyes. They immediately walled up the only door of exit.
 
-<span id="fn_438"></span>[228:b](ulh37.htm#fr_454) *Mala-la-wale*. A
+<span id="fn_438"></span>[228:b](ulh37.htm#fr_454.md) *Mala-la-wale*. A
 celebrated king of Maui, said to have been a just ruler, who was slain
 in battle on Hawaii while making war against Lono-i-ka-makahiki, the
 rightful ruler of the island. It may be asked if the name is not
 introduced here because of the word *walu* (eight) as a reference to
 Kama-pua’a's eight eyes.
 
-<span id="fn_439"></span>[229:a](ulh37.htm#fr_455) *Pi’i-lane*. A king
+<span id="fn_439"></span>[229:a](ulh37.htm#fr_455.md) *Pi’i-lane*. A king
 of Maui, father-in-law to Umi, the son of Liloa.
 
-<span id="fn_440"></span>[229:b](ulh37.htm#fr_456) *Hina*. There were
+<span id="fn_440"></span>[229:b](ulh37.htm#fr_456.md) *Hina*. There were
 several Hinas in Hawaiian mythology and tradition. Olopana, the son of
 Kamaulu-a-niho (Pomander gives this name as Ka-maunu-a-ního), on his
 arrival from Kahiki, settled in Koolau and married a woman named Hina.
@@ -266,16 +266,16 @@ Kama-pua’a is said to be the natural son of Hina by Kahiki-ula, the
 brother of Olopana. To this Olopana was attributed the heiau of Kawaewae
 at Kaneohe.
 
-<span id="fn_441"></span>[229:c](ulh37.htm#fr_457) *Ao pua’a*. The
+<span id="fn_441"></span>[229:c](ulh37.htm#fr_457.md) *Ao pua’a*. The
 cloud-cap that often rested on the summit of Haupu, a mountain on Kauai,
 near Koloa, is said to have resembled the shape of a pig. It was a
 common saying, "The pig is resting on Haupu."
 
-<span id="fn_442"></span>[229:d](ulh37.htm#fr_458) *Ho’i*. To return.
+<span id="fn_442"></span>[229:d](ulh37.htm#fr_458.md) *Ho’i*. To return.
 This argues that, if Kama-pua’a was not originally from Kahiki, he had
 at least visited there.
 
-<span id="fn_443"></span>[229:e](ulh37.htm#fr_459) *Hale-ma’u-ma’u*.
+<span id="fn_443"></span>[229:e](ulh37.htm#fr_459.md) *Hale-ma’u-ma’u*.
 This was an ancient lava-cone which until within a few years continued
 to be the most famous fire-lake in the caldera of Kilauea. It was so
 called, probably, because the roughness of its walls gave it a
@@ -284,7 +284,7 @@ such as visitors put up for temporary convenience. The word has not the
 same pronunciation and is not to be confounded with that other word mau,
 meaning everlasting.
 
-<span id="fn_444"></span>[229:f](ulh37.htm#fr_460) *Kamoho-ali’i*. The
+<span id="fn_444"></span>[229:f](ulh37.htm#fr_460.md) *Kamoho-ali’i*. The
 brother of Pele; in one metamorphosis he took the form of a shark. A
 high point in the northwest quarter of the wall of Kilauea was
 considered his special residence and regarded as so sacred that no smoke
@@ -295,12 +295,12 @@ to warm and illumine his abode. On one such occasion the hero Mawi
 descended into this region and stole away the sun that his mother Hina
 might have the benefit of its heat in drying her tapas.
 
-<span id="fn_445"></span>[229:g](ulh37.htm#fr_461) *Hale i noho*. The
+<span id="fn_445"></span>[229:g](ulh37.htm#fr_461.md) *Hale i noho*. The
 word *hale*, meaning house, is frequently used metaphorically for the
 human body, especially that of a woman. Pale thus acknowledges her amour
 with Kama-pua’a.
 
-<span id="fn_446"></span>[229:h](ulh37.htm#fr_462) *Hiapo*. A firstborn
+<span id="fn_446"></span>[229:h](ulh37.htm#fr_462.md) *Hiapo*. A firstborn
 child. Legends are at variance with one another as to the parentage of
 Kama-pua’a. According to the legend referred to previously, Kama-pua’a
 was the son of Olopana's wife Hina, his true father being Kahiki-ula,
@@ -311,7 +311,7 @@ turned the tables against his benefactor and caused the death of Olopana
 through the treachery of a priest in a heiau; he was offered up on the
 altar as a sacrifice.
 
-<span id="fn_447"></span>[230:a](ulh37.htm#fr_463) *Ka-liu-wa’a*. The
+<span id="fn_447"></span>[230:a](ulh37.htm#fr_463.md) *Ka-liu-wa’a*. The
 bilge of the canoe. This is the name of a deep and narrow valley at
 Hauula, Koolau, Oahu, and Is well worth a visit. Kama-pua’a. hard
 pressed by the host of his enemies, broke through the multitude that
@@ -325,10 +325,10 @@ feat of the hog-god compelled recognition of Kama-pua’a as a deity; and
 from that time no one entered Ka-liu-wa’a valley without making an
 offering to Kama-pua’a.
 
-<span id="fn_448"></span>[230:b](ulh37.htm#fr_464) *Ka-haku-ma’a-lani*.
+<span id="fn_448"></span>[230:b](ulh37.htm#fr_464.md) *Ka-haku-ma’a-lani*.
 A name evidently applied to Kama-pua’a.
 
-<span id="fn_449"></span>[232:a](ulh37.htm#fr_465) "The Hawaiian
+<span id="fn_449"></span>[232:a](ulh37.htm#fr_465.md) "The Hawaiian
 tradition of *Pele*, the dread goddess of the volcanic fires," says Mr.
 Fornander, "analogous to the Samoan Fe’e, is probably a local adaptation
 in aftertimes of an elder myth, half forgotten and much distorted. The
@@ -341,4 +341,4 @@ Polynesian Race, pp. 51, 52, Trubner & Co., London.)
 
 ------------------------------------------------------------------------
 
-[Next: XXXIV.--The Hula Ohelo](ulh38)
+[Next: XXXIV.--The Hula Ohelo](ulh38.md)

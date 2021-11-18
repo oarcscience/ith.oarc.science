@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt29)  [Next](dmt31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt29)  [Next](dmt31.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ system is followed in the index.
 
 ------------------------------------------------------------------------
 
-[Next: Index of Names and Arabic Words](dmt31)
+[Next: Index of Names and Arabic Words](dmt31.md)

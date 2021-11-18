@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Page Index](pageidx)    [Text](iggh.txt)   
-[Start Reading](iggh00)
+[Contents](#contents)    [Page Index](pageidx)    [Text](iggh.txt.md)   
+[Start Reading](iggh00.md)
 
 ------------------------------------------------------------------------
 
@@ -35,35 +35,35 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-<span id="contents"></span> [Title Page](iggh00)  
-[Preface](iggh01)  
-[Contents](iggh02)  
-[Prologue](iggh03)  
+<span id="contents"></span> [Title Page](iggh00.md)  
+[Preface](iggh01.md)  
+[Contents](iggh02.md)  
+[Prologue](iggh03.md)  
 <span id="section_000"></span>
 
 ### A Lotus of the World
 
-[I. A Denier of Deity](iggh04)  
-[II. A Rajpoot Marriage](iggh05)  
-[III. Water-Lily](iggh06)  
-[IV. A God and a Mortal](iggh07)  
-[V. Man's Other Half](iggh08)  
-[VI. Wild Flowers](iggh09)  
-[VII. Out of a Former Birth](iggh10)  
-[VIII. The Illusion of Beauty](iggh11)  
-[IX. The Two Kings](iggh12)  
-[X. A Pariah Dog](iggh13)  
-[XI. A Red Lotus](iggh14)  
-[XII. The Wind and the Leaves](iggh15)  
-[XIII. A King and Queen](iggh16)  
-[XIV. Love the Fisherman](iggh17)  
-[XV. A Woman's Lord](iggh18)  
-[XVI. A God abashed](iggh19)  
-[XVII. Nectar](iggh20)  
-[XVIII. The Favour of Fortune](iggh21)  
-[XIX. The Triumph of Beauty](iggh22)  
+[I. A Denier of Deity](iggh04.md)  
+[II. A Rajpoot Marriage](iggh05.md)  
+[III. Water-Lily](iggh06.md)  
+[IV. A God and a Mortal](iggh07.md)  
+[V. Man's Other Half](iggh08.md)  
+[VI. Wild Flowers](iggh09.md)  
+[VII. Out of a Former Birth](iggh10.md)  
+[VIII. The Illusion of Beauty](iggh11.md)  
+[IX. The Two Kings](iggh12.md)  
+[X. A Pariah Dog](iggh13.md)  
+[XI. A Red Lotus](iggh14.md)  
+[XII. The Wind and the Leaves](iggh15.md)  
+[XIII. A King and Queen](iggh16.md)  
+[XIV. Love the Fisherman](iggh17.md)  
+[XV. A Woman's Lord](iggh18.md)  
+[XVI. A God abashed](iggh19.md)  
+[XVII. Nectar](iggh20.md)  
+[XVIII. The Favour of Fortune](iggh21.md)  
+[XIX. The Triumph of Beauty](iggh22.md)  
 
  
 
-[Epilogue](iggh23)  
-[By the same Author](iggh24)  
+[Epilogue](iggh23.md)  
+[By the same Author](iggh24.md)  

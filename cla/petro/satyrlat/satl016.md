@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat04.htm#XVI)  [Previous](satl015) 
-[Next](satl017) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat04.htm#XVI)  [Previous](satl015.md) 
+[Next](satl017.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ detulerit."
 
 ------------------------------------------------------------------------
 
-[Next: XVII](satl017)
+[Next: XVII](satl017.md)

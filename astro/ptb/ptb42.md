@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb41)  [Next](ptb43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb41)  [Next](ptb43.md) 
 
 ------------------------------------------------------------------------
 
 ### CHAPTER XII
 
-### THE PARTICULAR NATURES OF THE SIGNS BY WHICH THE DIFFERENT CONSTITUTIONS OF THE ATMOSPHERE ARE PRODUCED <span id="fr_112"></span>[3](#fn_112)
+### THE PARTICULAR NATURES OF THE SIGNS BY WHICH THE DIFFERENT CONSTITUTIONS OF THE ATMOSPHERE ARE PRODUCED <span id="fr_112"></span>[3](#fn_112.md)
 
 THE sign of Aries has a general tendency, arising from the presence of
 the Equinox, to promote thunder and hail. Certain of its parts, however,
@@ -21,7 +21,7 @@ pestilential. The northern parts, also, are heating and pernicious, but
 the southern cooling and frosty.
 
 The sign of Taurus, in its general character, partakes of both
-temperaments, <span id="fr_113"></span>[1](#fn_113) but is nevertheless
+temperaments, <span id="fr_113"></span>[1](#fn_113.md) but is nevertheless
 chiefly warm. Its front parts, and especially those near the Pleiades,
 produce earthquakes, clouds and winds: the middle parts are moistening
 and cooling; those behind, and near the Hyades, are fiery, and cause
@@ -82,14 +82,14 @@ watery.
 
 ### Footnotes
 
-<span id="fn_110"></span>[64:1](ptb41.htm#fr_110) That is to say, at the
+<span id="fn_110"></span>[64:1](ptb41.htm#fr_110.md) That is to say, at the
 new and full Moon taking place during the Sun's progress through each
 sign.
 
-<span id="fn_111"></span>[64:2](ptb41.htm#fr_111) The passage marked
+<span id="fn_111"></span>[64:2](ptb41.htm#fr_111.md) The passage marked
 thus " " is not in the Greek, but is found in two Latin translations.
 
-<span id="fn_112"></span>[64:3](ptb42.htm#fr_112) According to Wing, in
+<span id="fn_112"></span>[64:3](ptb42.htm#fr_112.md) According to Wing, in
 his "Instructions to the Ephemerides," printed in 1652, the signs, as
 mentioned in this chapter by Ptolemy, are to be considered <span
 id="page_65">p. 65</span> in their quality as constellations, and not as
@@ -101,10 +101,10 @@ chapter, of the operation of Aries, as owing to the presence of the
 Equinox. This he could not have done, had he spoken of the signs as
 constellations instead of spaces.
 
-<span id="fn_113"></span>[65:1](ptb42.htm#fr_113) The temperaments here
+<span id="fn_113"></span>[65:1](ptb42.htm#fr_113.md) The temperaments here
 alluded to are, probably, heat and cold.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. Mode of Consideration for Particular Constitutions
-of the Atmosphere](ptb43)
+of the Atmosphere](ptb43.md)

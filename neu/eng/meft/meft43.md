@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft42)  [Next](meft44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft42)  [Next](meft44.md) 
 
 ------------------------------------------------------------------------
 
@@ -156,4 +156,4 @@ as he was crossing Brugeford Bridge, one hundred and thirty years ago.
 
 ------------------------------------------------------------------------
 
-[Next: The Wise Men of Gotham](meft44)
+[Next: The Wise Men of Gotham](meft44.md)

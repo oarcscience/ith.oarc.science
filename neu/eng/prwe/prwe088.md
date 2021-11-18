@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe087)  [Next](prwe089) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe087)  [Next](prwe089.md) 
 
 ------------------------------------------------------------------------
 
@@ -156,4 +156,4 @@ there is a cove near the Lizard now called Polurrian or Polerium.
 
 ------------------------------------------------------------------------
 
-[Next: Gwavas Lake](prwe089)
+[Next: Gwavas Lake](prwe089.md)

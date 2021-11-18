@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Next](potp01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Next](potp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,25 +28,25 @@ left intact in all copies.
 <span id="img_front"></span>
 
 [![Frontispiece: Portrait of William Reed](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece: Portrait of William Reed  
 
 <span id="img_cover"></span>
 
 [![Cover and spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover and spine  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 <span id="page_6">p. 6</span>
@@ -68,4 +68,4 @@ SYDNEY REED SMITH
 
 ------------------------------------------------------------------------
 
-[Next: Contents](potp01)
+[Next: Contents](potp01.md)

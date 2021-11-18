@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg06)  [Next](csg08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg06)  [Next](csg08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ contain much information about him.
 A striking instance of such omission is found by searching the different
 editions of works in which M. de St. Germain is mentioned; the later
 editions usually exclude the information given in the earlier ones.
-Notably may this be seen in a work <span id="fr_57"></span>[1](#fn_57)
+Notably may this be seen in a work <span id="fr_57"></span>[1](#fn_57.md)
 already referred to, by Dr. Carl von Weber, Keeper of the Saxon Archives
 in Dresden. In the first edition of this work there is a long article on
 M. de St. Germain, which is not to be found in the later editions of
@@ -114,7 +114,7 @@ name of Count St. Germain, who resided some time in England where he did
 nothing; and has within these two or three years resided in France where
 he has been upon the most familiar footing with the French King, Madame
 Pompadour, M. de Belle-isle, etc.; which has procured him a grant of the
-Royal Castle of Chambord, <span id="fr_58"></span>[1](#fn_58) and has
+Royal Castle of Chambord, <span id="fr_58"></span>[1](#fn_58.md) and has
 enabled him to make a certain figure in that country.
 
 "He appeared, for some days, at Amsterdam where he was much caressed and
@@ -393,7 +393,7 @@ must pass on to a letter from Lord Holdernesse to Mr. Mitchell, the
 English Envoy in Prussia.
 
 *The Earl of Holdernesse. R. 17th, May at Meissen* (*by a Prussian
-Messenger*). <span id="fr_59"></span>[1](#fn_59)
+Messenger*). <span id="fr_59"></span>[1](#fn_59.md)
 
 "*Whitehall, May* 6*th*, 1760.
 
@@ -463,14 +463,14 @@ little understood life.
 
 ### Footnotes
 
-<span id="fn_57"></span>[112:1](csg07.htm#fr_57) WEBER (Dr. Carl von),
+<span id="fn_57"></span>[112:1](csg07.htm#fr_57) WEBER (Dr. Carl von.md),
 *Aus vier Jahrhunderten. Mittheilungen aus dem Haupt-Staats-Archive zu
 Dresden*, Leipzig, 1857.
 
-<span id="fn_58"></span>[114:1](csg07.htm#fr_58) An Apartment in the
+<span id="fn_58"></span>[114:1](csg07.htm#fr_58.md) An Apartment in the
 Castle: v. Appendix I.
 
-<span id="fn_59"></span>[125:1](csg07.htm#fr_59) This letter from Lord
+<span id="fn_59"></span>[125:1](csg07.htm#fr_59.md) This letter from Lord
 Holdernesse is to Mr. Mitchell, who was the English Representative at
 the Prussian Court. From this it appears that M. de St. Germain was
 taken in custody on arriving in England; and Lord Holdernesse sends word
@@ -482,4 +482,4 @@ Berlin at a much later date.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Masonic Tradition](csg08)
+[Next: Chapter VII. Masonic Tradition](csg08.md)

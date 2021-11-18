@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass34)  [Next](nass36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass34)  [Next](nass36.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ their necks. The men are sent home by the dwarfs.
 
 ------------------------------------------------------------------------
 
-[Next: Smoke-hole](nass36)
+[Next: Smoke-hole](nass36.md)

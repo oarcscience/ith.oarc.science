@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow21)  [Next](wow23) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow21)  [Next](wow23.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ sweetness of the air!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six: The Work Of Fifteen Days](wow23)
+[Next: Chapter Six: The Work Of Fifteen Days](wow23.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu14)  [Next](gpu16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu14)  [Next](gpu16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ the entire Sapiṇḍa rite, by which the condition of preta is left behind
 and the soul enters the class of the pitṛis.
 
 3-5. Those whose piṇḍas have not been mixed together with the ancestors
-called Śiva and the rest, <span id="fr_131"></span>[1](#fn_129) are not
+called Śiva and the rest, <span id="fr_131"></span>[1](#fn_129.md) are not
 uplifted by the various gifts made by the sons.
 
 If the son is always impure, they are never purified; without the
@@ -48,10 +48,10 @@ be observed by all.
 6-9. A Brāhmiṇ becomes pure in ten days, a Kṣattriya in twelve days; a
 Vaiśya in fifteen days, a Śūdra in a month.
 
-The Sapiṇḍa relatives <span id="fr_132"></span>[1](#fn_130) are purified
+The Sapiṇḍa relatives <span id="fr_132"></span>[1](#fn_130.md) are purified
 from the death pollution in ten days; the Sākulya relatives <span
-id="fr_133"></span>[2](#fn_131) in three nights, and the gotrajās <span
-id="fr_134"></span>[3](#fn_132) are purified merely by bathing.
+id="fr_133"></span>[2](#fn_131.md) in three nights, and the gotrajās <span
+id="fr_134"></span>[3](#fn_132.md) are purified merely by bathing.
 
 Those who are related within the fourth degree to the deceased are
 purified in ten nights, those in the fifth degree, in six nights; the
@@ -162,8 +162,8 @@ death, the son should perform the Sapiṇḍa ceremony, as laid down in the
 scriptures.
 
 36-30. Then he should worship the world-deities with foot-water,
-oblations, <span id="fr_135"></span>[1](#fn_133) and āchamana. <span
-id="fr_136"></span>[2](#fn_134) Next, having given rice-balls to other
+oblations, <span id="fr_135"></span>[1](#fn_133.md) and āchamana. <span
+id="fr_136"></span>[2](#fn_134.md) Next, having given rice-balls to other
 departed ones, he should sip water.
 
 He should offer three rice-balls in order to his grandfather and others,
@@ -211,14 +211,14 @@ again, the rite for the mother.
 
 <span id="page_120">p. 120</span>
 
- <span id="fr_137"></span>[120-48](#fn_135)
+ <span id="fr_137"></span>[120-48](#fn_135.md)
 
 49-51. Having done the Sapiṇḍa, O Tārkṣya, he should make the offering
 of water to the forefathers. He should utter "Let there be Swadhā,"
 along with Vaidic mantras.
 
 Afterwards he should always have a guest fed until he says
-"hanta." <span id="fr_138"></span>[1](#fn_136) By this the forefathers,
+"hanta." <span id="fr_138"></span>[1](#fn_136.md) By this the forefathers,
 the sages, the Shining Ones and the Dānavas are pleased.
 
 As much as a mouthful is called "alms," four mouthfuls is "abundance,"
@@ -233,8 +233,8 @@ silver, a good cow, a horse, an elephant, a chariot and a plot of ground
 given to a preceptor.
 
 54\. Then he should worship with mantras--after saying "Hail to
-thee"--the planets, Devi, <span id="fr_139"></span>[2](#fn_137) and
-Vinīyakam <span id="fr_140"></span>[3](#fn_138), with saffron, coloured
+thee"--the planets, Devi, <span id="fr_139"></span>[2](#fn_137.md) and
+Vinīyakam <span id="fr_140"></span>[3](#fn_138.md), with saffron, coloured
 rice and eatables.
 
 55\. The preceptor should then, with mantras, sprinkle water, and having
@@ -255,7 +255,7 @@ purified.
 during the rite should be cast off; and white cloths having been donned,
 the gift of a bed should he made.
 
-59-64. All the Devās, <span id="fr_141"></span>[1](#fn_139) headed by
+59-64. All the Devās, <span id="fr_141"></span>[1](#fn_139.md) headed by
 Indra, extol the gift of a bed. Therefore a bed should be given, during
 life or else after death.
 
@@ -347,7 +347,7 @@ An umbrella, shoes, clothes, a signet ring, a water-pot, a seat, a set
 of five vessels--are called the seven kinds of padas.
 
 This pada becomes complete with a staff, a copper vessel, uncooked rice,
-foods, [valuables](errata.htm#12), and sacred threads.
+foods, [valuables](errata.htm#12.md), and sacred threads.
 
 Having, according to his means, obtained these thirteen padas he should
 give, them to thirteen Brāhmiṇs on the twelfth day.
@@ -386,7 +386,7 @@ Then, after the *Sapinda* and before the annual ceremony, a water-pot
 with rice-balls should be given every month.
 
 911\. There is no re-doing of what is done excepting the rites for the
-departed, <span id="fr_142"></span>[1](#fn_140) O Bird; but, for the
+departed, <span id="fr_142"></span>[1](#fn_140.md) O Bird; but, for the
 sake of the departed it may be done again, as a means of unfading
 satisfaction.
 
@@ -403,7 +403,7 @@ one should perform the fortnightly Śrāddha on the twentieth day.
 
 100-105. When in one month \[Kṣayamāsa\] two saṅkrāntis occur, in the
 irregular month, the month being double, the Śrāddha is not
-performed. <span id="fr_143"></span>[1](#fn_141)
+performed. <span id="fr_143"></span>[1](#fn_141.md)
 
 When there are two months in one month, of those two, the two fortnights
 and the thirty days are the same \[both must be performed.\] For the
@@ -420,7 +420,7 @@ similarly the monthly and the first annual Śrāddhas.
 If there is an additional month in the middle of a year, then in the
 thirteenth month the annual ceremony for the departed occurs.
 
-When there is no [sankrānta](errata.htm#15), rice-balls are not used;
+When there is no [sankrānta](errata.htm#15.md), rice-balls are not used;
 when there is sankrānta, rice-balls are proper. Thus the annual Śrāddha
 should be done in both months.
 
@@ -491,7 +491,7 @@ described by me, and also hears the Garuḍa Purāṇa,--listen to the fruit
 for him:--
 
 The father gives good sons; the grandfather, wealth of cows and his
-[great-grandfather](errata.htm#16) becomes the giver of riches.
+[great-grandfather](errata.htm#16.md) becomes the giver of riches.
 
 The great-great-grandfather gives foods in abundance: all these,
 gratified by the Śrāddha, granting the son's desires,
@@ -508,54 +508,54 @@ into raptures.
 
 ### Footnotes
 
-<span id="fn_129"></span>[114:1](gpu15.htm#fr_131) The grandfather, his
+<span id="fn_129"></span>[114:1](gpu15.htm#fr_131.md) The grandfather, his
 father and grandfather are considered as corresponding to Vasu, Rudra
 and Āditya. Rudra is Śiva.
 
-<span id="fn_130"></span>[115:1](gpu15.htm#fr_132) Cousins up to the
+<span id="fn_130"></span>[115:1](gpu15.htm#fr_132.md) Cousins up to the
 seventh, on the male line,--all males and unmarried females.
 
-<span id="fn_131"></span>[115:2](gpu15.htm#fr_133) Cousins up to the
+<span id="fn_131"></span>[115:2](gpu15.htm#fr_133.md) Cousins up to the
 fourteenth, on the male line,--all males and unmarried females.
 
-<span id="fn_132"></span>[115:3](gpu15.htm#fr_134) Cousins up to the
+<span id="fn_132"></span>[115:3](gpu15.htm#fr_134.md) Cousins up to the
 forty-second, on the male line,--all males and unmarried females.
 
-<span id="fn_133"></span>[118:1](gpu15.htm#fr_135) Consisting of rice,
+<span id="fn_133"></span>[118:1](gpu15.htm#fr_135.md) Consisting of rice,
 darbha grass, and flowers, with water.
 
-<span id="fn_134"></span>[118:2](gpu15.htm#fr_136) See "Daily Practice
+<span id="fn_134"></span>[118:2](gpu15.htm#fr_136.md) See "Daily Practice
 of the Hindus" for an account of āchamana.
 
-<span id="fn_135"></span>[120:120-48](gpu15.htm#fr_137) <span
+<span id="fn_135"></span>[120:120-48](gpu15.htm#fr_137.md) <span
 id="img_11900"></span> ![](img/11900.jpg).
 
-<span id="fn_136"></span>[120:1](gpu15.htm#fr_138) A benediction which
+<span id="fn_136"></span>[120:1](gpu15.htm#fr_138.md) A benediction which
 the recipient makes when he has had enough.
 
-<span id="fn_137"></span>[120:2](gpu15.htm#fr_139) The consort of Śiva.
+<span id="fn_137"></span>[120:2](gpu15.htm#fr_139.md) The consort of Śiva.
 
-<span id="fn_138"></span>[120:3](gpu15.htm#fr_140) Gaṇeśa.
+<span id="fn_138"></span>[120:3](gpu15.htm#fr_140.md) Gaṇeśa.
 
-<span id="fn_139"></span>[121:1](gpu15.htm#fr_141) A high class of
+<span id="fn_139"></span>[121:1](gpu15.htm#fr_141.md) A high class of
 superhuman beings.
 
-<span id="fn_140"></span>[125:1](gpu15.htm#fr_142) If other ceremonies
+<span id="fn_140"></span>[125:1](gpu15.htm#fr_142.md) If other ceremonies
 have been badly done they may not be re-performed; but this may.
 
-<span id="fn_141"></span>[126:1](gpu15.htm#fr_143) "The ceremonies are
+<span id="fn_141"></span>[126:1](gpu15.htm#fr_143.md) "The ceremonies are
 performed according to the lunar months, but there are to be only twelve
 of the monthly ones in a year. Astrological calculations are done with
 solar months. Hence there is an intercalary month of 30 days every three
 years. The sankrānta is a solar month, the passing of the sun through
-one [zodiacal](errata.htm#13) constellation. The difference of solar and
+one [zodiacal](errata.htm#13.md) constellation. The difference of solar and
 lunar months is about 11 days in the year; hence an additional irregular
 month occurs once in 27 months. In this long month; the malamasa, or
 irregular portion, is the first half, while the second half is regular.
 The kṣaya-māsa is a name for a month which occurs every 149th year, in
 which there is no sankrānti,--thus there are only 12 months in that
 year, not 13, although it is a year of intercalary month. In this case
-the intercalary is added [and (?)](errata.htm#14) treated as such, but
+the intercalary is added [and (?)](errata.htm#14.md) treated as such, but
 the regular mouth is dropped. It is November, December, January or
 February which is thus dropped, but the intercalary is always associated
 with one of the other eight. The month preceding month which is dropped
@@ -574,6 +574,6 @@ day.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV. An Account of the City of the King of
-Justice](gpu16)
+Justice](gpu16.md)
 
 </div>

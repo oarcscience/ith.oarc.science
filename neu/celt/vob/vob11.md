@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vob10)  [Next](vob12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vob10)  [Next](vob12.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ is Stokes' conjecture for isle of the isle of the MS.
 
 ------------------------------------------------------------------------
 
-[Next: IX. From Gilla Modutu's poem Senchas Ban...](vob12)
+[Next: IX. From Gilla Modutu's poem Senchas Ban...](vob12.md)

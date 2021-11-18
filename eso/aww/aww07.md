@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](aww06)  [Next](aww08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](aww06)  [Next](aww08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of Worldly Wisdom*, by Balthasar Gracian, tr. by Joseph Jacobs,
 \[1892\], at Intangible Textual Heritage
 
@@ -165,7 +165,7 @@ all in two vols.
 
 Latassa also mentions various poems and letters which are scattered
 about, some in MS. For *El Varon Atento* and *El Galante* see supra [p.
-xxii](aww04.htm#page_xxii).
+xxii](aww04.htm#page_xxii.md).
 
 ### B. ORÁCULO MANUAL.
 
@@ -394,4 +394,4 @@ vertaalt door M. Smallegange In's Gravenhage, MDCXCVI.
 
 ------------------------------------------------------------------------
 
-[Next: Leading Maxims](aww08)
+[Next: Leading Maxims](aww08.md)

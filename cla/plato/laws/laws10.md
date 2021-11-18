@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plato](../index)  [Index](index)  [Previous](laws09)  [Next](laws11) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plato](../index)  [Index](index)  [Previous](laws09)  [Next](laws11.md) 
 
 ------------------------------------------------------------------------
 
@@ -1022,4 +1022,4 @@ shall die.
 
 ------------------------------------------------------------------------
 
-[Next: BOOK XII](laws11)
+[Next: BOOK XII](laws11.md)

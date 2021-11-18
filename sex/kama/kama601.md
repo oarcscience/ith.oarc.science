@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama600) 
-[Next](kama602) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama600.md) 
+[Next](kama602.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ A courtesan, well dressed and wearing her ornaments, should sit or stand
 at the door of her house, and, without exposing herself too much, should
 look on the public road so as to be seen by the passers by, she being
 like an object on view for sale. <span
-id="fr_70"></span>[1](kama101.htm#fn_0) She should form friendships with
+id="fr_70"></span>[1](kama101.htm#fn_0.md) She should form friendships with
 such persons as would enable her to separate men from other women, and
 attach them to herself, to repair her own misfortunes, to acquire
 wealth, and to protect her from being bullied, or set upon by persons
@@ -201,11 +201,11 @@ conversation, and by the application of tender means of enjoyment.'
 
 ### Footnotes
 
-<span id="fn_70"></span>[1](#fr_-1) 1 In England the lower classes of
+<span id="fn_70"></span>[1](#fr_-1.md) 1 In England the lower classes of
 courtesans walk the streets: in India and other places in the East, they
 sit at the windows, or at the doors of their houses.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. Of a Courtesan Living With a Man as His
-Wife](kama602)
+Wife](kama602.md)

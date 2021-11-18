@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](uljc19)  [Next](uljc21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](uljc19)  [Next](uljc21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002TX7KEA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002TX7KEA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 The Unknown Life of Jesus Christ, by Nicolas Notovitch \[1890\], at
 Intangible Textual Heritage
 
@@ -705,7 +705,7 @@ only leaves at certain destiny-determined epochs, in order to create
 terrestrial buddhas. To this end the Spirit disengages itself from the
 sovereign Creator, incarnates in a buddha and stays for some time on the
 earth, where' he creates Bodhisattvas (masters), <span
-id="fr_2"></span>[\*](#fn_2) whose mission it is to preach the
+id="fr_2"></span>[\*](#fn_2.md) whose mission it is to preach the
 
 <span id="page_259">p. 259</span>
 
@@ -1082,7 +1082,7 @@ bestowed, they say, upon that feeble dwarf called man.
 
 ### Footnotes
 
-<span id="fn_2"></span>[258:\*](uljc20.htm#fr_2) *Sanscrit:*--"He whose
+<span id="fn_2"></span>[258:\*](uljc20.htm#fr_2.md) *Sanscrit:*--"He whose
 essence (sattva) has become intelligence (bhodi)," those who need but
 one more incarnation to become perfect buddhas, *i.e.*, to be entitled
 to Nirvâna.
@@ -1091,6 +1091,6 @@ to Nirvâna.
 
 ------------------------------------------------------------------------
 
-[Next: Explanatory Notes](uljc21)
+[Next: Explanatory Notes](uljc21.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal070)  [Next](njal072) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal070)  [Next](njal072.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: 72. Of The Suits For Manslaughter At The Thing](njal072)
+[Next: 72. Of The Suits For Manslaughter At The Thing](njal072.md)

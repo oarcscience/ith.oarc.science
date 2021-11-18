@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw26) 
-[Next](wbw28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw26.md) 
+[Next](wbw28.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -90,6 +90,6 @@ the gladness of the summer day.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII: Of The New God Of The Bears](wbw28)
+[Next: Chapter XXVIII: Of The New God Of The Bears](wbw28.md)
 
 </div>

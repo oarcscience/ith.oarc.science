@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,56 +47,56 @@ on each reading.
 
 ------------------------------------------------------------------------
 
-[Title Page](bb00)  
-[Dedication](bb01)  
-[Advertisements](bb02)  
-[Table of Contents](bb03)  
-[Preface](bb04)  
+[Title Page](bb00.md)  
+[Dedication](bb01.md)  
+[Advertisements](bb02.md)  
+[Table of Contents](bb03.md)  
+[Preface](bb04.md)  
 [History of Ch'an Buddhism Previous to the Times of Hui-Neng
-(Wei-Lang)](bb05)  
+(Wei-Lang)](bb05.md)  
 <span id="section_000"></span>
 
 ### The Lankavatara Sutra
 
-[Preface](bb06)  
-[Introduction](bb07)  
-[Chapter I. Discrimination](bb08)  
-[Chapter II. False-Imagination and Knowledge of Appearances](bb09)  
-[Chapter III. Right Knowledge or Knowledge of Relations](bb10)  
-[Chapter VI. Perfect Knowledge, or Knowledge of Reality](bb11)  
-[Chapter V. The Mind System](bb12)  
-[Chapter VI. Transcendental Intelligence](bb13)  
-[Chapter VII. Self-Realisation](bb14)  
-[Chapter VIII. The Attainment of Self- Realisation](bb15)  
-[Chapter IX. The Fruit of Self- Realisation](bb16)  
-[Chapter X. Discipleship: Lineage of the Arhats](bb17)  
-[Chapter XI. Bodhisattvahood and Its Stages](bb18)  
-[Chapter XII. Tathagatahood Which Is Noble Wisdom](bb19)  
-[Chapter XIII. Nirvana](bb20)  
+[Preface](bb06.md)  
+[Introduction](bb07.md)  
+[Chapter I. Discrimination](bb08.md)  
+[Chapter II. False-Imagination and Knowledge of Appearances](bb09.md)  
+[Chapter III. Right Knowledge or Knowledge of Relations](bb10.md)  
+[Chapter VI. Perfect Knowledge, or Knowledge of Reality](bb11.md)  
+[Chapter V. The Mind System](bb12.md)  
+[Chapter VI. Transcendental Intelligence](bb13.md)  
+[Chapter VII. Self-Realisation](bb14.md)  
+[Chapter VIII. The Attainment of Self- Realisation](bb15.md)  
+[Chapter IX. The Fruit of Self- Realisation](bb16.md)  
+[Chapter X. Discipleship: Lineage of the Arhats](bb17.md)  
+[Chapter XI. Bodhisattvahood and Its Stages](bb18.md)  
+[Chapter XII. Tathagatahood Which Is Noble Wisdom](bb19.md)  
+[Chapter XIII. Nirvana](bb20.md)  
 <span id="section_001"></span>
 
 ### The Diamond Sutra
 
-[Preface](bb21)  
-[The Diamond Scripture](bb22)  
+[Preface](bb21.md)  
+[The Diamond Scripture](bb22.md)  
 <span id="section_002"></span>
 
 ### Sutra of Transcendental Wisdom
 
-[Preface](bb23)  
-[Sutra of Transcendental Wisdom](bb24)  
+[Preface](bb23.md)  
+[Sutra of Transcendental Wisdom](bb24.md)  
 <span id="section_003"></span>
 
 ### Sutra of the Sixth Patriarch
 
-[Preface](bb25)  
-[Chapter I. Autobiography of Hui-Neng](bb26)  
-[Chapter II. Discourse on Prajna](bb27)  
-[Chapter II. Discourse on Dhyana and Samadhi](bb28)  
-[Chapter IV. Discourse on Repentance](bb29)  
-[Chapter V. Discourse on the Three-Bodies of Buddha](bb30)  
+[Preface](bb25.md)  
+[Chapter I. Autobiography of Hui-Neng](bb26.md)  
+[Chapter II. Discourse on Prajna](bb27.md)  
+[Chapter II. Discourse on Dhyana and Samadhi](bb28.md)  
+[Chapter IV. Discourse on Repentance](bb29.md)  
+[Chapter V. Discourse on the Three-Bodies of Buddha](bb30.md)  
 [Chapter VI. Dialogues Suggested by Various Temperaments and
-Circumstances](bb31)  
-[Chapter VII. Sudden Enlightenment and Gradual Attainment](bb32)  
-[Chapter VIII. Royal Patronage](bb33)  
-[Chapter IX. Final Words and Death of the Patriarch](bb34)  
+Circumstances](bb31.md)  
+[Chapter VII. Sudden Enlightenment and Gradual Attainment](bb32.md)  
+[Chapter VIII. Royal Patronage](bb33.md)  
+[Chapter IX. Final Words and Death of the Patriarch](bb34.md)  

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp12) 
-[Next](alp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp12.md) 
+[Next](alp14.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Tell me, whither art thou flying
 Since thou wentest I am dying.
 
      I am ill, and near my end--  
-With an apple <span id="fr_1"></span>[1](#fn_1) hasten to me.  
+With an apple <span id="fr_1"></span>[1](#fn_1.md) hasten to me.  
      I shall curse thee if thou send  
 Strange physicians to undo me.
 
@@ -99,9 +99,9 @@ Stitch me inside for the eyelets!
 
 ### Footnotes
 
-<span id="fn_1"></span>[8:1](alp13.htm#fr_1) An apple is the symbol of
+<span id="fn_1"></span>[8:1](alp13.htm#fr_1.md) An apple is the symbol of
 love.
 
 ------------------------------------------------------------------------
 
-[Next: Vahagn, King of Armenia](alp14)
+[Next: Vahagn, King of Armenia](alp14.md)

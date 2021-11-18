@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic050)  [Next](lfic052) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic050)  [Next](lfic052.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ manifestations were sufficient to establish the existence of fetches.
 
 ------------------------------------------------------------------------
 
-[Next: The Apparition in Old Ross](lfic052)
+[Next: The Apparition in Old Ross](lfic052.md)

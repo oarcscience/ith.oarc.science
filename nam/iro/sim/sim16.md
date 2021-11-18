@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim15)  [Next](sim17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim15)  [Next](sim17.md) 
 
 ------------------------------------------------------------------------
 
@@ -278,7 +278,7 @@ Sun reached for the bows and arrows, took them in his hands, rapped off
 the moss, and they were as new as if just made. He said "Long ago the
 people moved from the village where you were born."
 
-It was twelve looks <span id="fr_0"></span>[1](#fn_0) from the hemlock
+It was twelve looks <span id="fr_0"></span>[1](#fn_0.md) from the hemlock
 tree to where the village had been. When they came to the end of twelve
 looks Sun said, "Here is where the village was." Clearings and little
 hillocks where corn had been were to be seen, but grass was growing
@@ -611,9 +611,9 @@ GÉNO<sup>N</sup>SKWAS (Frost and Cold).
 
 ### Footnotes
 
-<span id="fn_0"></span>[88:1](sim16.htm#fr_0) In olden times distance
+<span id="fn_0"></span>[88:1](sim16.htm#fr_0.md) In olden times distance
 was measured by "looks": as far as one could see.
 
 ------------------------------------------------------------------------
 
-[Next: The Trials and Death of Inchworm](sim17)
+[Next: The Trials and Death of Inchworm](sim17.md)

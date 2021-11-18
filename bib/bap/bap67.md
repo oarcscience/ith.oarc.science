@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap66) 
-[Next](bap68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap66.md) 
+[Next](bap68.md) 
 
 ------------------------------------------------------------------------
 
@@ -157,4 +157,4 @@ prophesied, for I am subject unto his power.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LIV](bap68)
+[Next: Chapter LIV](bap68.md)

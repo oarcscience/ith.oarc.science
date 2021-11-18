@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio70)  [Next](dio72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio70)  [Next](dio72.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,21 +21,21 @@ Intangible Textual Heritage
 <span id="v.iii-p0.2"></span>
 
 -   [Dionysius Areopagita dicat Eugenio Marcello, dicto, propter ingenii
-    excellentiam, Timotheo,](dio43.htm#iv.i.iv-p7.1)
+    excellentiam, Timotheo,](dio43.htm#iv.i.iv-p7.1.md)
 -   [Divus ille Dionysius qui fecit tres
-    Hierarchias.](dio38.htm#ii.vi-p7.1)
+    Hierarchias.](dio38.htm#ii.vi-p7.1.md)
 -   [Felix es Gallia! quae, tantos et tales meruisti suscipere
-    sacerdotes.](dio00.htm#i-p15.1)
--   [Hinc lachrymae illae](dio38.htm#ii.vi-p3.3)
+    sacerdotes.](dio00.htm#i-p15.1.md)
+-   [Hinc lachrymae illae](dio38.htm#ii.vi-p3.3.md)
 -   [clarus apud saeculum et Christi fidei
-    deditus.](dio03.htm#ii.ii.i-p7.2)
--   [filius amicus](dio03.htm#ii.ii.i-p7.1)
--   [in vivis](dio03.htm#ii.ii.i-p9.1)
--   [migravit ad Christum](dio03.htm#ii.ii.i-p9.2)
--   [nihil scire omnia scire](dio43.htm#iv.i.iv-p28.2)
--   [quidam Graecorum](dio43.htm#iv.i.iv-p28.1)
--   [ratio verae religionis](dio38.htm#ii.vi-p7.2)
+    deditus.](dio03.htm#ii.ii.i-p7.2.md)
+-   [filius amicus](dio03.htm#ii.ii.i-p7.1.md)
+-   [in vivis](dio03.htm#ii.ii.i-p9.1.md)
+-   [migravit ad Christum](dio03.htm#ii.ii.i-p9.2.md)
+-   [nihil scire omnia scire](dio43.htm#iv.i.iv-p28.2.md)
+-   [quidam Graecorum](dio43.htm#iv.i.iv-p28.1.md)
+-   [ratio verae religionis](dio38.htm#ii.vi-p7.2.md)
 
 ------------------------------------------------------------------------
 
-[Next: Index of Pages of the Print Edition](dio72)
+[Next: Index of Pages of the Print Edition](dio72.md)

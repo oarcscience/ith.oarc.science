@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp00) 
-[Next](alp02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp00.md) 
+[Next](alp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ ZABELLE C. BOYAJIAN.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](alp02)
+[Next: Introduction](alp02.md)

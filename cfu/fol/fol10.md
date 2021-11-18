@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](fol09)  [Next](fol11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](fol09)  [Next](fol11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Feast of Lanterns*, by L. Cranmer-Byng, \[1916\], at Intangible
 Textual Heritage
 
@@ -89,7 +89,7 @@ a fountain upon the sky or running down into the earth where fishermen
 lie at ease. Grass and trees on the river banks look joyous, and are
 like beautiful ladies under veils of mists and cloud, or sometimes
 bright and gleaming as the sun shines down the valley. Such are the
-living aspects of water." <span id="fr_2"></span>[1](#fn_2)
+living aspects of water." <span id="fr_2"></span>[1](#fn_2.md)
 
 The fishermen who become the soul of water are sages like Chang Chih Ho,
 and poets like Ou-Yang Hsiu of the solemn autumn dirge and moonlight
@@ -121,9 +121,9 @@ leaves.</span>
 
 ### Footnotes
 
-<span id="fn_2"></span>[37:1](fol10.htm#fr_2) *Epochs of Chinese and
+<span id="fn_2"></span>[37:1](fol10.htm#fr_2.md) *Epochs of Chinese and
 Japanese Art,* by Ernest Fenollosa, vol. ii. pp. 14 and 15.
 
 ------------------------------------------------------------------------
 
-[Next: Lines From the Tomb of an Unknown Woman](fol11)
+[Next: Lines From the Tomb of an Unknown Woman](fol11.md)

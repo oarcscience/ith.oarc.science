@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai07)  [Next](jai09) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai07)  [Next](jai09.md) 
 
 ------------------------------------------------------------------------
 
@@ -659,4 +659,4 @@ the wayside-were informed with viewless and awful being.
 
 ------------------------------------------------------------------------
 
-[Next: Worship and Purification](jai09)
+[Next: Worship and Purification](jai09.md)

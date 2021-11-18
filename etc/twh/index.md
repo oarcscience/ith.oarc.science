@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ type.
 
 ------------------------------------------------------------------------
 
-[The Wandering Host](twh)  
+[The Wandering Host](twh.md)  

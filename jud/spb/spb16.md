@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb15)  [Next](spb17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb15)  [Next](spb17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -46,12 +46,12 @@ Lord, who hallowest the Sabbath.
 universe, who bringest forth bread from the earth.</span>
 
 *For Kiddush on Festivals and New Year, see pp.
-[333](spb29.htm#page_333) and [357](spb33.htm#page_357)*.
+[333](spb29.htm#page_333) and [357](spb33.htm#page_357.md)*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Morning Service for Sabbaths and Festivals](spb17)
+[Next: Morning Service for Sabbaths and Festivals](spb17.md)
 
 </div>

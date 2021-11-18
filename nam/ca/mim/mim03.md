@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim02)  [Next](mim04) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim02)  [Next](mim04.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ Ranch, near Montezuma, Tuolumne County.\]
 
 ------------------------------------------------------------------------
 
-[Next: 2. Bear and the Fawns](mim04)
+[Next: 2. Bear and the Fawns](mim04.md)

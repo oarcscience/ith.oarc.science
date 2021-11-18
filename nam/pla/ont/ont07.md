@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont06)  [Next](ont08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont06)  [Next](ont08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -58,7 +58,7 @@ The storm which Siksikakoan predicted from nature's
 
 <span id="img_05900"></span> <span align="CENTER"> [![LODGE WITH EAR
 POLES CROSSED IN FRONT FOR STORM.](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)  
+Click to enlarge](img/05900.jpg.md)  
 LODGE WITH EAR POLES CROSSED IN FRONT FOR STORM.  
 </span>
 
@@ -109,7 +109,7 @@ flames
 
 <span id="img_06100"></span> <span align="CENTER"> [![THE SNOW-COVERED
 FOREST.](tn/06100.jpg)  
-Click to enlarge](img/06100.jpg)  
+Click to enlarge](img/06100.jpg.md)  
 THE SNOW-COVERED FOREST.  
 </span>
 
@@ -186,7 +186,7 @@ with the heart.
 
 <span id="img_06400"></span> <span align="CENTER"> [![THE FROZEN
 STREAM.](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 THE FROZEN STREAM.  
 </span>
 
@@ -286,12 +286,12 @@ mouth, or in one of his hands. He then started a
 
 <span id="page_68">p. 68</span>
 
-song, <span id="fr_14"></span>[1](#fn_10) while Little Robe, swaying his
+song, <span id="fr_14"></span>[1](#fn_10.md) while Little Robe, swaying his
 body in time with the singing, hid the claw. Taking his bow and arrow,
 Owl shot Little Robe between the shoulders. The arrow did him no harm,
 for the shaft was splintered, and Little Robe said, 'You guessed wrong,
 for I have the tooth and not the claw in my mouth.' <span
-id="fr_15"></span>[2](#fn_11) 'I will try again,' said Owl. Grasping his
+id="fr_15"></span>[2](#fn_11.md) 'I will try again,' said Owl. Grasping his
 spear, he thrust it at the boy's side. But the point was broken off, and
 the spear did not penetrate the flesh. Little Robe said: 'I have the
 claw in my left hand, it is not in the right.' He next plunged his
@@ -325,7 +325,7 @@ of Little Robe quickened. The Bear tribe
 
 <span id="img_06900"></span> <span align="CENTER"> [![CLOUDS LIFTING
 FROM MOUNTAINS AFTER BLIZZARD.](tn/06900.jpg)  
-Click to enlarge](img/06900.jpg)  
+Click to enlarge](img/06900.jpg.md)  
 CLOUDS LIFTING FROM MOUNTAINS AFTER BLIZZARD.  
 </span>
 
@@ -380,7 +380,7 @@ they are apt to come out of it in the
 
 <span id="img_07100"></span> <span align="CENTER"> [![“HORSE UNCOVERING
 SNOW FROM GRASS BY PAWING.”](tn/07100.jpg)  
-Click to enlarge](img/07100.jpg)  
+Click to enlarge](img/07100.jpg.md)  
 “HORSE UNCOVERING SNOW FROM GRASS BY PAWING.”  
 </span>
 
@@ -402,7 +402,7 @@ snowfall, when the
 
 <span id="img_07200"></span> <span align="CENTER"> [![THE OLD TRAIL
 AFTER SNOWSTORM.](tn/07200.jpg)  
-Click to enlarge](img/07200.jpg)  
+Click to enlarge](img/07200.jpg.md)  
 THE OLD TRAIL AFTER SNOWSTORM.  
 </span>
 
@@ -414,7 +414,7 @@ scenes of wonderful beauty. The outlines of every stone and log were
 
 <span id="img_07300"></span> <span align="CENTER"> [![CUTBANK CANYON
 AFTER SNOWSTORM.](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)  
+Click to enlarge](img/07300.jpg.md)  
 CUTBANK CANYON AFTER SNOWSTORM.  
 </span>
 
@@ -465,13 +465,13 @@ custom.
 
 ### Footnotes
 
-<span id="fn_10"></span>[68:1](ont07.htm#fr_14) Songs were sung in
+<span id="fn_10"></span>[68:1](ont07.htm#fr_14.md) Songs were sung in
 gambling to distract the attention of the opponents.
 
-<span id="fn_11"></span>[68:2](ont07.htm#fr_15) Shooting an arrow at his
+<span id="fn_11"></span>[68:2](ont07.htm#fr_15.md) Shooting an arrow at his
 opponent represented a guess, both in this test game and in the real
 game to follow. 1f a failure it was counted a wrong guess.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Mad Wolf Gives the Beaver Medicine Ceremonial](ont08)
+[Next: Chapter V. Mad Wolf Gives the Beaver Medicine Ceremonial](ont08.md)

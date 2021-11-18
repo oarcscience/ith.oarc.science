@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Jeremiah](jer)  [Ezekiel](eze)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Jeremiah](jer)  [Ezekiel](eze.md)
 
 ------------------------------------------------------------------------
 
@@ -9,14 +9,14 @@
 
 ------------------------------------------------------------------------
 
-[Lamentations 0](lam000)  
+[Lamentations 0](lam000.md)  
 
-[Lamentations 1](lam001)  
+[Lamentations 1](lam001.md)  
 
-[Lamentations 2](lam002)  
+[Lamentations 2](lam002.md)  
 
-[Lamentations 3](lam003)  
+[Lamentations 3](lam003.md)  
 
-[Lamentations 4](lam004)  
+[Lamentations 4](lam004.md)  
 
-[Lamentations 5](lam005)  
+[Lamentations 5](lam005.md)  

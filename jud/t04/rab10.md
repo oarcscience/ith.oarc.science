@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](rab09)  [Next](rab11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](rab09)  [Next](rab11.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -22,13 +22,13 @@ approaches, all the people read; he, however, must be silent. When they
 rise to pray, he shall acknowledge the justice, saying: "Lord of the
 universe! I have sinned against Thee; a little only of my indebtedness
 was called in, although I deserve much more. May it be Thy will to close
-up our breaches <span id="fr_111"></span>[A1](#fn_111) and condole us!"
+up our breaches <span id="fr_111"></span>[A1](#fn_111.md) and condole us!"
 R. Simeon said: He also prays for the departed soul.
 
 B. The mourner must eat with his neighbors. If he has none, he shall eat
 in another room; if he has none, he shall make a partition of ten spans'
 distance; if he has nothing to make a partition with, he shall turn his
-face and eat. He must not lean <span id="fr_112"></span>[B1](#fn_112)
+face and eat. He must not lean <span id="fr_112"></span>[B1](#fn_112.md)
 and eat, neither must he eat meat nor drink wine; he must not pronounce
 the meal benediction, nor can he be included where three are required in
 pronouncing it, neither may others pronounce it singly or in three for
@@ -37,7 +37,7 @@ and lean, and is allowed all the things mentioned above. As Rabban
 Gamaliel said: On the Sabbath a mourner is not considered as a mourner
 at all.
 
- <span id="fr_113"></span>[B2](#fn_113)R. Jehudah in the name of Rabh
+ <span id="fr_113"></span>[B2](#fn_113.md)R. Jehudah in the name of Rabh
 said: "A mourner on the first day must not eat of his own bread, for the
 Merciful One said \[Ezek. xxiv. 22\]: 'And the bread of other men shall
 ye not eat.'" Rabba and R. Joseph (when they were in mourning) used to
@@ -115,11 +115,11 @@ flaxen garments. Said R. Papa: "And at present, even in a flaxen garment
 of the value of one Zuz."
 
 When the grave is closed, the mourner wraps up his head: <span
-id="fr_114"></span>[D1](#fn_114) when ready for the line, he bares it
+id="fr_114"></span>[D1](#fn_114.md) when ready for the line, he bares it
 and exempts the others from doing it; if he steps outside the line, he
 covers it again; when he comes home and others come to visit him, he
 bares it again and exempts the others from doing it. <span
-id="fr_115"></span>[D2](#fn_115)
+id="fr_115"></span>[D2](#fn_115.md)
 
 E. When a death occurs in the family of a sage or a disciple of a sage,
 they may come and discuss about the laws of mourning before him. If they
@@ -143,24 +143,24 @@ exists on the Sabbath.
 
 ### Footnotes
 
-<span id="fn_111"></span>[45:A1](rab10.htm#fr_111)
+<span id="fn_111"></span>[45:A1](rab10.htm#fr_111.md)
 
 ### CHAPTER X.
 
 A. According to the translation of Leeser, and meaning that the doors
 shall be closed for further bereavements.
 
-<span id="fn_112"></span>[45:B1](rab10.htm#fr_112) *B*. According to the
+<span id="fn_112"></span>[45:B1](rab10.htm#fr_112.md) *B*. According to the
 custom in the Orient to eat leaning, and as we do at the *Seder*
 ceremony on the first eve of Passover.
 
-<span id="fn_113"></span>[45:B2](rab10.htm#fr_113) *Gemara* from Moed
+<span id="fn_113"></span>[45:B2](rab10.htm#fr_113.md) *Gemara* from Moed
 Katan.
 
-<span id="fn_114"></span>[47:D1](rab10.htm#fr_114) *D*. See above, [p.
-27](rab07.htm#page_27).
+<span id="fn_114"></span>[47:D1](rab10.htm#fr_114.md) *D*. See above, [p.
+27](rab07.htm#page_27.md).
 
-<span id="fn_115"></span>[47:D2](rab10.htm#fr_115) The literal
+<span id="fn_115"></span>[47:D2](rab10.htm#fr_115.md) The literal
 translation of the text is to cover and to bare the head, and it may be
 that the custom was already in vogue, to honor those present in baring
 the head, as Paul required to bare the head in the house of prayer. We,
@@ -169,4 +169,4 @@ and in accordance with other commentators.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](rab11)
+[Next: Chapter XI](rab11.md)

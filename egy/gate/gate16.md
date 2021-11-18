@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate15)  [Next](gate17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate15)  [Next](gate17.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ folds of a
  
 
 <span id="img_08100"></span> [![](tn/generic.jpg)  
-Click to view](img/08100.jpg)  
+Click to view](img/08100.jpg.md)  
 Part of the horizon over which the Boat of the Sun passes to enter the
 Tuat at eventide.  
 In it are the Twelve Gods of the Funeral Mountain.
@@ -59,7 +59,7 @@ the light in your habitations, my
  
 
 <span id="img_08300"></span> [![](tn/generic.jpg)  
-Click to view](img/08300.jpg)  
+Click to view](img/08300.jpg.md)  
 Part of the horizon over which the Boat of the Sun passes to enter the
 Tuat at eventide.  
 In it are the twelve Gods of Set-Amentet.
@@ -106,4 +106,4 @@ Amentet which he made."
 ------------------------------------------------------------------------
 
 [Next: Chapter III. The Gate Of Saa-Set: The Second Division of the
-Tuat.](gate17)
+Tuat.](gate17.md)

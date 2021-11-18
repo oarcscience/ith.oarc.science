@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat04.htm#XVII) 
-[Previous](satl016)  [Next](satl018) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat04.htm#XVII.md) 
+[Previous](satl016)  [Next](satl018.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ mille homines noverunt."
 
 ------------------------------------------------------------------------
 
-[Next: XVIII](satl018)
+[Next: XVIII](satl018.md)

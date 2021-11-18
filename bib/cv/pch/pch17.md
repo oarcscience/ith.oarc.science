@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch16) 
-[Next](pch18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch16.md) 
+[Next](pch18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -33,7 +33,7 @@ consciousness, is merely to beg the question in the interests of
 occultism. What happened was a habitual interaction of the norms of
 conduct. Theism would help the king; and monarchy would help theism. The
 outcome was that the entire ethic of the community had as it were a
-religious shape, <span id="fr_214"></span>[1](#fn_214) from which
+religious shape, <span id="fr_214"></span>[1](#fn_214.md) from which
 rational criticism could only gradually deliver it. When, then,
 religious reformers arose whose end and aim was the moral life, they
 would carry into their ethic the psychology of their religion, were it
@@ -41,7 +41,7 @@ only because that had been the matrix, so to speak, of the most serious
 reflection—this even if they did not state their moral doctrine in terms
 of a recasting of the current religious belief. For Dr. Jevons, such a
 recasting would be irreligious unless the reformer professed to have
-direct intercourse with deity; <span id="fr_215"></span>[2](#fn_215) but
+direct intercourse with deity; <span id="fr_215"></span>[2](#fn_215.md) but
 we have seen that line of distinction to be untenable, and we cannot
 consistently deny either religious spirit or religious form to the
 argument: "God must be good: how then could he have ordained a cruelty
@@ -50,7 +50,7 @@ or an injustice?"
 Inasmuch, however, as all such reforms of morals took effect in
 modifying the current code for action, the very conception of such a
 code is historically a religious growth; <span
-id="fr_216"></span>[3](#fn_216) and while the concept of public law
+id="fr_216"></span>[3](#fn_216.md) and while the concept of public law
 would quite early differentiate from that of morality as
 
 <span id="page_56">p. 56</span>
@@ -101,12 +101,12 @@ doctrine of the Master.
 
 ### Footnotes
 
-<span id="fn_214"></span>[55:1](pch17.htm#fr_214) Cp. Exodus xv, 16-23;
+<span id="fn_214"></span>[55:1](pch17.htm#fr_214.md) Cp. Exodus xv, 16-23;
 Deut. i, 17.
 
-<span id="fn_215"></span>[55:2](pch17.htm#fr_215) Cp. p. 24.
+<span id="fn_215"></span>[55:2](pch17.htm#fr_215.md) Cp. p. 24.
 
-<span id="fn_216"></span>[55:3](pch17.htm#fr_216) Cp. Exod. and Deut. as
+<span id="fn_216"></span>[55:3](pch17.htm#fr_216.md) Cp. Exod. and Deut. as
 above cited; Ex. xxi, 6; xxii, 8, Heb.; Kuenen, *The Hexateuch*, Eng.
 tr. p, 272. Tiele, *Egypt. Relig.* Eng. tr. pp. 73, 93; *Hist.
 comparée*, p. 247; Letourneau, *Sociology:* Eng. tr. iv, c. viii, p.
@@ -117,4 +117,4 @@ ch. ii, § 1.
 
 ------------------------------------------------------------------------
 
-[Next: § 14. Definition of Religion](pch18)
+[Next: § 14. Definition of Religion](pch18.md)

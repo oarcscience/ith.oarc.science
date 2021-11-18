@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt38)  [Next](egt40) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt38)  [Next](egt40.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ flies.
 
 ------------------------------------------------------------------------
 
-[Next: ON HIS WRATH AND HIS KINDNESS.](egt40)
+[Next: ON HIS WRATH AND HIS KINDNESS.](egt40.md)

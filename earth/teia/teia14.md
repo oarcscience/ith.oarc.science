@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](teia13)  [Next](teia15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](teia13)  [Next](teia15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ the people and direct
 sleep for three days and nights. On the fourth day a maiden came who was
 most beautiful. She greeted each man and said, 'It is long that we have
 expected you.'''--p. 98](tn/09800.jpg)  
-Click to enlarge](img/09800.jpg)  
+Click to enlarge](img/09800.jpg.md)  
 ''The brazen door made a sweet and soothing sound, and they went to
 sleep for three days and nights. On the fourth day a maiden came who was
 most beautiful. She greeted each man and said, 'It is long that we have
@@ -274,4 +274,4 @@ thoughts.
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Voyage of St. Brandan](teia15)
+[Next: XII. The Voyage of St. Brandan](teia15.md)

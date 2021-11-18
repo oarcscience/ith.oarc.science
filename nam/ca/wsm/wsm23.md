@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm22)  [Next](wsm24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm22)  [Next](wsm24.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ forth.
 ------------------------------------------------------------------------
 
 [Next: Hawk and the Gambler (Saline Valley, California.
-Shoshoni)](wsm24)
+Shoshoni)](wsm24.md)

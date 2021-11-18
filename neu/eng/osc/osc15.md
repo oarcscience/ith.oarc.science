@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc14)  [Next](osc16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc14)  [Next](osc16.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ important as any.
 
 ------------------------------------------------------------------------
 
-[Next: (13) Furry Dance--Helston](osc16)
+[Next: (13) Furry Dance--Helston](osc16.md)

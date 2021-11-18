@@ -8,43 +8,43 @@ pathh1: "../img/mycenae0.jpg"
 alttext1: "Entrance to the Treasury of Atreus at Mycenae &copy; J.B. Hare 2002"
 titleh1: "The Works of Homer"
 ---
-[Works of Homer](#homer)   [Homerica](#homerica)
+[Works of Homer](#homer)   [Homerica](#homerica.md)
 
 <span class="c_da"></span> <span id="homer"></span>
 
 ------------------------------------------------------------------------
 
 <span class="c_e"> <span class="c_t">[The Iliad of
-Homer](ili/index)</span>, <span class="c_a">Samuel Butler</span>
+Homer](ili/index.md)</span>, <span class="c_a">Samuel Butler</span>
 translator \[<span class="c_d">1898</span>\] </span>
 
 <span class="c_e"> <span class="c_t">[The Odyssey of
-Homer](ody/index)</span>, <span class="c_a">Samuel Butler</span>
+Homer](ody/index.md)</span>, <span class="c_a">Samuel Butler</span>
 translator \[<span class="c_d">1900</span>\] </span>
 
 <span class="c_e"> <span class="c_t">[The Iliad and Odyssey \[Unicode
-Greek\]](greek/index)</span> <span class="c_b">Homer in the original
+Greek\]](greek/index.md)</span> <span class="c_b">Homer in the original
 Greek.</span> </span>
 
-<span class="c_e"> <span class="c_t">[The Homeric Hymns](hymns)</span>,
+<span class="c_e"> <span class="c_t">[The Homeric Hymns](hymns.md)</span>,
 translated by <span class="c_a">Hugh G. Evelyn-White</span> \[<span
 class="c_d">1914</span>\] </span>
 
 <span class="c_e"> <span class="c_t">[The Adventures of Odysseus and the
-Tale of Troy](aoo/index)</span>   by <span class="c_a">Padraic
+Tale of Troy](aoo/index.md)</span>   by <span class="c_a">Padraic
 Colum</span>, Illustrations by Willy Pogany \[<span
 class="c_d">1918</span>\]   <span class="c_b">A retelling of the story
 of Odysseus with gorgeous line-art illustrations.</span>  
 Thanks to Eliza Fegley at
-[sacredspiral.com](https://www.sacredspiral.com/). </span>
+[sacredspiral.com](https://www.sacredspiral.com/.md). </span>
 
 <span class="c_e"> <span class="c_t">[The Authoress of the
-Odyssey](../aoto/index)</span>, by <span class="c_a">Samuel
+Odyssey](../aoto/index.md)</span>, by <span class="c_a">Samuel
 Butler,</span> \[<span class="c_d">1922</span>\]   <span class="c_b">Men
 are from the Iliad, Women are from the Odyssey...</span> </span>
 
 <span class="c_e"> <span class="c_t">[Homeric
-Fragments](homrfrag)</span>, translated by <span class="c_a">Hugh G.
+Fragments](homrfrag.md)</span>, translated by <span class="c_a">Hugh G.
 Evelyn-White</span> \[<span class="c_d">1914</span>\]. <span
 class="c_b">A few scattered notes about other lost works of
 Homer.</span> </span>
@@ -66,11 +66,11 @@ quality of his work makes this hard to believe; perhaps he became blind
 later in life.
 
 The Homeric cycle was composed around the same time as the Indian
-[Ramayana](../../hin/rama/index), which it resembles thematically. The
-entire Homeric cycle, of which the [Iliad and Odyssey](#homer) are the
+[Ramayana](../../hin/rama/index.md), which it resembles thematically. The
+entire Homeric cycle, of which the [Iliad and Odyssey](#homer.md) are the
 only complete surviving works, included dozens of books composed by
 Homer and others. Some fragments of this cycle are included
-[below](#homerica).
+[below](#homerica.md).
 
 The Illiad is based on events which probably occurred around 1000 B.C.E.
 The Mycenean Greeks of this era were contemporaries with a Bronze age
@@ -102,33 +102,33 @@ attributed to Homer. These are remnants of a huge epic cycle which
 encompassed the whole mythological and legendary history of the Greeks,
 of which the battle for Troy is the centerpiece. The cycle was never
 completely canonized, and as late as classical Roman times [Virgils'
-Aeneid](../virgil/aen/index) added yet another epic poem to the
+Aeneid](../virgil/aen/index.md) added yet another epic poem to the
 collection. It seems that sequels and prequels were just as popular in
 Ancient Greece as in modern Hollywood...
 
 These are from Hesiod, the Homeric Hymns and Homerica by Hugh G.
 Evelyn-White, \[1914\] (Loeb Classics \#57). The other portions of this
 book are presented above on this page, and in the [Hesiod
-section](../hesiod/index); this etext was scanned as the Online Medieval
+section](../hesiod/index.md); this etext was scanned as the Online Medieval
 and Classical Library Release \#8 by Douglas B. Killings, and is also
 available from the Gutenburg Project.
 
 <span class="c_da"></span> <span class="c_e"> <span
-class="c_t">[Fragments of the Epic Cycle](epiccyc)</span>. </span>  
+class="c_t">[Fragments of the Epic Cycle](epiccyc.md)</span>. </span>  
 <span class="c_e"> <span class="c_t">[The Cypria
-(Fragments)](cypria)</span>. <span class="c_b">Fragments of a prequel to
+(Fragments)](cypria.md)</span>. <span class="c_b">Fragments of a prequel to
 the Iliad by Hegesias or Stasinus, attributed to Homer.</span> </span>  
 <span class="c_e"> <span class="c_t">[Aethiopis
-(Fragments)](aethiop)</span>. <span class="c_b">Fragments of another
+(Fragments)](aethiop.md)</span>. <span class="c_b">Fragments of another
 epic with Homeric characters.</span> </span>  
 <span class="c_e"> <span class="c_t">[The Little Iliad
-(Fragments)](liliad)</span> <span class="c_b">An abridged Iliad
+(Fragments)](liliad.md)</span> <span class="c_b">An abridged Iliad
 attributed to Lesches of Mitylene.</span> </span>  
 <span class="c_e"> <span class="c_t">[The Sack of Ilium
-(fragments)](ilium)</span> by <span class="c_a">Arctinus of
+(fragments)](ilium.md)</span> by <span class="c_a">Arctinus of
 Miletus</span>. </span>  
 <span class="c_e"> <span class="c_t">[The Returns and The Telegony
-(Fragments)](rettelg)</span> The Returns, by Agias of Troezen was set
+(Fragments)](rettelg.md)</span> The Returns, by Agias of Troezen was set
 between the Iliad and Odyssey, it described the homecoming of the other
 Achaean heros from Troy; The Telegony, by Eugammon of Cyrene, of which
 we have only a synopsis by Proclus, is a sequel to the Odyssey.
@@ -136,9 +136,9 @@ we have only a synopsis by Proclus, is a sequel to the Odyssey.
 
 These are a couple of humorous pieces on Homeric themes.  
 <span class="c_e"> <span class="c_t">[The Battle of Frogs and
-Mice](frogmice)</span>. <span class="c_b">A short parody of the
+Mice](frogmice.md)</span>. <span class="c_b">A short parody of the
 Iliad.</span> </span>  
 <span class="c_e"> <span class="c_t">[The Contest of Homer and
-Hesiod](homrhes)</span>. </span> <span class="c_b">A bardic battle
-royale</span> between Homer and [Hesiod](../hesiod/index).  
+Hesiod](homrhes.md)</span>. </span> <span class="c_b">A bardic battle
+royale</span> between Homer and [Hesiod](../hesiod/index.md).  
 <span class="c_da"></span> <span class="c_da"></span>

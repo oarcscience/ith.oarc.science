@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov08)  [Next](hlov10) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov08)  [Next](hlov10.md) 
 
 ------------------------------------------------------------------------
 
@@ -192,4 +192,4 @@ seen near the shore of the ocean.
 
 ------------------------------------------------------------------------
 
-[Next: V. Pele and the Chiefs of Puna](hlov10)
+[Next: V. Pele and the Chiefs of Puna](hlov10.md)

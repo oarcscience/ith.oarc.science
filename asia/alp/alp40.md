@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp39) 
-[Next](alp41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp39.md) 
+[Next](alp41.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 <span id="img_04800"></span>
 
 [![ARTASHES AND SATENIK](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)  
+Click to enlarge](img/04800.jpg.md)  
 ARTASHES AND SATENIK  
 
 ### ARTASHES AND SATENIK
@@ -62,7 +62,7 @@ return for the maiden?"
 <span id="img_04900"></span>
 
 [![The Wedding](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)  
+Click to enlarge](img/04900.jpg.md)  
 The Wedding  
 
 Concerning this the poets of that land sing in their songs:--
@@ -93,4 +93,4 @@ for the queens to scatter pearls in their bridechamber.
 
 ------------------------------------------------------------------------
 
-[Next: My Death](alp41)
+[Next: My Death](alp41.md)

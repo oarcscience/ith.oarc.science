@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec12)  [Next](aec14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec12)  [Next](aec14.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ ignorant as their parents think they are, but usually have a past
 replete with every manner of experience and adventure. Some are old in
 guile and full of experience, and have a wise and knowing look which
 belies their supposed state of innocence and lack of experience. Some
-are wise as sages, or are gifted [geniuses](errata.htm#6) and early show
+are wise as sages, or are gifted [geniuses](errata.htm#6.md) and early show
 unmistakable signs of precocity and talent. Others give evidence that
 they are not entirely unacquainted with perversity and evil. And yet
 when parents find a genius or a black-sheep in their flock they exclaim:
@@ -214,4 +214,4 @@ result in painful unfinished business.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Supply and Demand](aec14)
+[Next: XI. Supply and Demand](aec14.md)

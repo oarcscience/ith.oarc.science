@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc15)  [Next](sfoc17) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc15)  [Next](sfoc17.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ Cherokee can hold his own with the white man.
 
 ------------------------------------------------------------------------
 
-[Next: The Sweat Bath-Bleeding--Rubbing--Bathing](sfoc17)
+[Next: The Sweat Bath-Bleeding--Rubbing--Bathing](sfoc17.md)

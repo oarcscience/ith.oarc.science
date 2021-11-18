@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar06)  [Next](pktar08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar06)  [Next](pktar08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Chariot
 
 <span id="img_ar07"></span> <span align="CENTER"> [![](tn/ar07.jpg)  
-Click to enlarge](img/ar07.jpg)</span>
+Click to enlarge](img/ar07.jpg.md)</span>
 
 An erect and princely figure carrying a drawn sword and corresponding,
 broadly speaking, to the traditional description which I have given in
@@ -46,4 +46,4 @@ hereditary royalty and he is not priesthood.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Strength, or Fortitude](pktar08)
+[Next: VIII. Strength, or Fortitude](pktar08.md)

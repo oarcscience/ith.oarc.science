@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico022) 
-[Next](nico024) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico022.md) 
+[Next](nico024.md) 
 
 ------------------------------------------------------------------------
 
@@ -156,4 +156,4 @@ would be odd, then, to treat them as involuntary.
 
 [Next: Chapter 2. Moral virtue implies that the action is done (3) by
 choice; the object of choice is the result of previous
-deliberation](nico024)
+deliberation](nico024.md)

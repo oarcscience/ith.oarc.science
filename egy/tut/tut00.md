@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Next](tut01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Next](tut01.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 ###### Scanned at Intangible Textual Heritage, May 2003, J.B. Hare, redactor. This text is in the public domain because its copyright was not renewed in a timely fashion as required by US copyright law at the time. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 <span id="img_front"></span> [![](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 PAINTED LIMESTONE HEAD OF A QUEEN IN THE MUSEUM AT BERLIN.  
 It is supposed to represent Queen Nefertiti, wife of Amenhetep IV.
@@ -32,4 +32,4 @@ EARL OF CARNARVON
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tut01)
+[Next: Contents](tut01.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc122) 
-[Next](motc124) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc122.md) 
+[Next](motc124.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ be analyzed and of which the meaning is now lost,
 
 ------------------------------------------------------------------------
 
-[Next: 124. Local Legends Of Tennessee](motc124)
+[Next: 124. Local Legends Of Tennessee](motc124.md)

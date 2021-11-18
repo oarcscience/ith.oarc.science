@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos06)  [Next](mos08) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos06)  [Next](mos08.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ the sacred faith and its people.
 ------------------------------------------------------------------------
 
 [Next: Moses Entering Egypt After Sending Him With His Brother
-Aaron](mos08)
+Aaron](mos08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs13)  [Next](pifs15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs13)  [Next](pifs15.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ another!"
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Coyote and the Thunder-Knife](pifs15)
+[Next: XII. The Coyote and the Thunder-Knife](pifs15.md)

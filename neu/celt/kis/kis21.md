@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis20)  [Next](kis22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis20)  [Next](kis22.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ one great wing of a bird, where the Little Sage of the Mountain lived.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](kis22)
+[Next: Part I](kis22.md)

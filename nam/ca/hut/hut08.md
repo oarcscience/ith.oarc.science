@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut07)  [Next](hut09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut07)  [Next](hut09.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 ### V.
 
-### Naxkekōsnadūwûl. <span id="fr_28"></span>[1](#fn_28)--Two-neck.
+### Naxkekōsnadūwûl. <span id="fr_28"></span>[1](#fn_28.md)--Two-neck.
 
 <span id="page_167">p. 167</span>
 
@@ -26,7 +26,7 @@ along as usual. Coyote, from his place in the brush, saw what sort he
 was and decided not to come out. Then Two-neck said, "Come lift the load
 onto my back." As Owl was lifting it up he suddenly pushed it back
 toward the ground. "What are you doing?" said Two-neck. "Well, what am I
-doing?" said Owl. <span id="fr_29"></span>[1](#fn_29) When Two-neck had
+doing?" said Owl. <span id="fr_29"></span>[1](#fn_29.md) When Two-neck had
 carried it off, Owl came to the place where Coyote had been lying in
 wait. He was not there. When Owl got back to his house he found Coyote
 sitting with his legs stretched each side of the fire. "Don't you
@@ -79,22 +79,22 @@ the Owls kept saying, "Here, Coyote, take this, eat it." They were only
 fooling him. Finally Coyote said, "Owls you may become since you have
 treated me so badly." Then they turned into Owls. It happened this way:
 Coyote thought he had been away only one night but he had really stayed
-away a whole year. <span id="fr_30"></span>[1](#fn_30) The Owls did not
+away a whole year. <span id="fr_30"></span>[1](#fn_30.md) The Owls did not
 recognize him as their benefactor.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_28"></span>[162:1](hut08.htm#fr_28) Told at Hupa, June
+<span id="fn_28"></span>[162:1](hut08.htm#fr_28.md) Told at Hupa, June
 1902, by Oscar Brown.
 
-<span id="fn_29"></span>[167:1](hut08.htm#fr_29) Owl pretends he is
+<span id="fn_29"></span>[167:1](hut08.htm#fr_29.md) Owl pretends he is
 absent minded.
 
-<span id="fn_30"></span>[168:1](hut08.htm#fr_30) Compare [p.
-149](hut05.htm#page_149).
+<span id="fn_30"></span>[168:1](hut08.htm#fr_30.md) Compare [p.
+149](hut05.htm#page_149.md).
 
 ------------------------------------------------------------------------
 
-[Next: VI. Litcūwdiñ yadeLtse.--At Sand-place They Lived](hut09)
+[Next: VI. Litcūwdiñ yadeLtse.--At Sand-place They Lived](hut09.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre72)  [Next](gre74) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre72)  [Next](gre74.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ done well to Thorod, and he ever after gave his good word for Grettir.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXIX: How Grettir took leave of his Mother at Biarg, and
-fared with Illugi his Brother to Drangey](gre74)
+fared with Illugi his Brother to Drangey](gre74.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah65)  [Next](oah67) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah65)  [Next](oah67.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ in the distance.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](oah67)
+[Next: Chapter X](oah67.md)

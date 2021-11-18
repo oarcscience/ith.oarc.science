@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp06)  [Next](esp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp06)  [Next](esp08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -192,13 +192,13 @@ C. Parapsycho-physiological: "Materializations", "extrusions",
 elongations, stigmatization, extreme body-temperature changes, etc.
 
 D. Parapsycho-pathological: "Possession-pathology"; <span
-id="fr_4"></span>[1](#fn_4) "psychic healing" of organic disease, beyond
+id="fr_4"></span>[1](#fn_4.md) "psychic healing" of organic disease, beyond
 effect of suggestion.
 
 E. \[Parapsycho-literary (and other parapsycho-artistic): Creative
 writing or other art, clearly "impossible" as result of natural
 training; *e.g.*, Patience Worth, as reported. <span
-id="fr_5"></span>[2](#fn_5) (This may properly be regarded as a
+id="fr_5"></span>[2](#fn_5.md) (This may properly be regarded as a
 sub-heading of A, also.)\]
 
 </div>
@@ -358,7 +358,7 @@ as reported and described, involve only living individuals. This
 excludes those phenomena that clearly seem to involve incorporeal,
 *i.e.*, "spirit" connections, either as "communicators" or as "controls"
 or intermediaries. Accordingly, all mediumistic activities are outside;
-"psychometric" work <span id="fr_6"></span>[1](#fn_6) also, insofar as
+"psychometric" work <span id="fr_6"></span>[1](#fn_6.md) also, insofar as
 it is described as the work of controls. But if it is not thus
 supposedly spiritistic, it becomes clairvoyance which belongs, then, in
 the designated branch. The spontaneous parapsychological occurrences
@@ -538,15 +538,15 @@ and—What is E.S.P.? The first must obviously first be answered.
 
 ### Footnotes
 
-<span id="fn_4"></span>[8:1](esp07.htm#fr_4) For instances of cures.
+<span id="fn_4"></span>[8:1](esp07.htm#fr_4.md) For instances of cures.
 using "possession" as a working theory, see Dr. W. F. Prince's report on
 page 36 of B.S.P.R. Bulletin VI, and Mrs. Lambert's on page 5, Bulletin
 IX, as well as the work of Dr. Titus Bull of New York.
 
-<span id="fn_5"></span>[8:2](esp07.htm#fr_5) Dr. W. F. Prince, *The Case
+<span id="fn_5"></span>[8:2](esp07.htm#fr_5.md) Dr. W. F. Prince, *The Case
 of Patience Worth*, B.S.P.R., 2nd Ed., 1929, Boston.
 
-<span id="fn_6"></span>[10:1](esp07.htm#fr_6) That is, work done by a
+<span id="fn_6"></span>[10:1](esp07.htm#fr_6.md) That is, work done by a
 parapsychic sensitive in which, seemingly with the aid of a "token" or
 "object of fixation", facts not normally or explainably knowable to the
 sensitive are expressed concerning the person, living or dead, to whom
@@ -559,4 +559,4 @@ object present.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. Historical Background](esp08)
+[Next: Chapter 2. Historical Background](esp08.md)

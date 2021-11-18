@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat16)  [Next](flat18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat16)  [Next](flat18.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,4 +162,4 @@ first glimpse of the morning appeared, Mr. Bunworth expired.
 
 ------------------------------------------------------------------------
 
-[Next: Legends of the Banshee](flat18)
+[Next: Legends of the Banshee](flat18.md)

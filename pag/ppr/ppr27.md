@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr26)  [Next](ppr28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr26)  [Next](ppr28.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ the plains!
 
 ------------------------------------------------------------------------
 
-[Next: Prayer to the Mexican God of Fire (Mexican)](ppr28)
+[Next: Prayer to the Mexican God of Fire (Mexican)](ppr28.md)

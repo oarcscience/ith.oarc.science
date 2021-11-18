@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Next](orl02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Next](orl02.md) 
 
 ------------------------------------------------------------------------
 
@@ -929,4 +929,4 @@ I in another canto shall declare.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 2](orl02)
+[Next: Canto 2](orl02.md)

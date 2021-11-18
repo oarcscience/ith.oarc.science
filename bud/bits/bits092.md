@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits091) [Next](bits093)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits091) [Next](bits093.md)
 
 ------------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ in short, he is released from misery.
 
 ------------------------------------------------------------------------
 
-[Next: § 93. The Anger-Eating Demon](bits093)
+[Next: § 93. The Anger-Eating Demon](bits093.md)
 
  
 

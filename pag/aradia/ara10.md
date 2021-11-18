@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara09)  [Next](ara11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara09)  [Next](ara11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ Svantevit, the Sun-god, to see if the horn which the idol held in his
 hand was full of wine, in order to prophesy a good harvest for the
 coming year. If it was filled, all was right; if not, he filled the
 horn, drank from it, and replaced the horn in the hand, and predicted
-that all would eventually go well. <span id="fr_16"></span>[1](#fn_16)
+that all would eventually go well. <span id="fr_16"></span>[1](#fn_16.md)
 It cannot fail to strike the reader that this ceremony is strangely like
 that of the Italian invocation, the only difference being that in one
 the Sun, and in the other the Moon is invoked to secure a good harvest.
@@ -188,9 +188,9 @@ also from a horn, their apple-trees.
 
 ### Footnotes
 
-<span id="fn_16"></span>[48:1](ara10.htm#fr_16) Kreussler,
+<span id="fn_16"></span>[48:1](ara10.htm#fr_16.md) Kreussler,
 *Sorbenwendische Alterthümer*, Pt. I. p. 272.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX.Tana and Endamone, or Diana and Endymion](ara11)
+[Next: Chapter IX.Tana and Endamone, or Diana and Endymion](ara11.md)

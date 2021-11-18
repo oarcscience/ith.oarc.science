@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cvmc04)  [Next](cvmc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cvmc04)  [Next](cvmc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Nervous centers are distributed throughout the body, some along the
 spinal column, others in the medulla oblongata. At certain places nerves
 unite forming a plexus,--the cardiac, solar, and hypo-gastric plexuses.
 The solar plexus is situated just back of the stomach and the
-hypogastric plexus in the abdomen ([Fig. 3](#img_fig03)).
+hypogastric plexus in the abdomen ([Fig. 3](#img_fig03).md).
 
 "The real center of this system," says Dr. Carpenter, the English
 brain-physiologist, "appears to lie in the medulla oblongata \[the bulb
@@ -49,7 +49,7 @@ by a branch of these sympathetic nerves (called vasomotor),
 <span id="img_fig03"></span>
 
 [![FIG. 3.--THE NERVOUS SYSTEM.](tn/fig03.jpg)  
-Click to enlarge](img/fig03.jpg)  
+Click to enlarge](img/fig03.jpg.md)  
 FIG. 3.--THE NERVOUS SYSTEM.  
 
 <div align="center">
@@ -112,7 +112,7 @@ of which we are speaking and quickens it into action. The center
 automatically reacts upon the force and sends it flashing with
 incredible speed down the spinal cord; and thence it follows the
 branching nerves in every direction to the uttermost limits of the body;
-what is unused by the body radiates into space ([Fig. 3](#img_fig03)).
+what is unused by the body radiates into space ([Fig. 3](#img_fig03).md).
 
 Dr. Benjamin Richardson, an English physician of the past century,
 claimed to have traced this radiating energy to a distance of eighteen
@@ -201,4 +201,4 @@ weakened.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Emotions](cvmc06)
+[Next: IV. The Emotions](cvmc06.md)

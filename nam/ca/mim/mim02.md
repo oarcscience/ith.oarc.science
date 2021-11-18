@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim01)  [Next](mim03) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim01)  [Next](mim03.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,25 +35,25 @@ his wife, and one by his father.
 
 A comprehensive collection of Miwok myths, including a number from the
 Central Sierra Miwok, has been published by Dr. C. Hart Merriam. <span
-id="fr_0"></span>[1](#fn_0) Stephen Powers includes three Miwok myths in
-his "Tribes of California." <span id="fr_1"></span>[2](#fn_1) Dr. A. L.
+id="fr_0"></span>[1](#fn_0.md) Stephen Powers includes three Miwok myths in
+his "Tribes of California." <span id="fr_1"></span>[2](#fn_1.md) Dr. A. L.
 Kroeber has printed a number of Southern Sierra Miwok myths. <span
-id="fr_2"></span>[3](#fn_2)
+id="fr_2"></span>[3](#fn_2.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[284:1](#fr_0) The Dawn of the World: Myths and
+<span id="fn_0"></span>[284:1](#fr_0.md) The Dawn of the World: Myths and
 Weird Tales told by the Mewan Indians of California, A. H. Clark Co.,
 1910, Cleveland, O.
 
-<span id="fn_1"></span>[284:2](#fr_1) Contrib. N. Am. Ethn., III, 358,
+<span id="fn_1"></span>[284:2](#fr_1.md) Contrib. N. Am. Ethn., III, 358,
 366, 367, 1877.
 
-<span id="fn_2"></span>[284:3](#fr_2) Indian Myths of South Central
+<span id="fn_2"></span>[284:3](#fr_2.md) Indian Myths of South Central
 California, Univ. Calif. Publ. Am. Arch, Ethn., iv, 202, 1907.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Theft of Fire](mim03)
+[Next: 1. The Theft of Fire](mim03.md)

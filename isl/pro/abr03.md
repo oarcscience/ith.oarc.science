@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr02)  [Next](abr04) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr02)  [Next](abr04.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,7 +175,7 @@ brain, so then God tortured him for forty nights then destroyed him.
 
 ------------------------------------------------------------------------
 
-[Next: Getting Out From Iraq To The Land of Shem](abr04)
+[Next: Getting Out From Iraq To The Land of Shem](abr04.md)
 
 </div>
 

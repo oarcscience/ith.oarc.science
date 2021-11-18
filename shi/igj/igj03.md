@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj02)  [Next](igj04) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj02)  [Next](igj04.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ in the billions of your former lives."
 
 ------------------------------------------------------------------------
 
-[Next: Furisodé](igj04)
+[Next: Furisodé](igj04.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](tee13)  [Next](tee15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](tee13)  [Next](tee15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Evil Eye*, by Frederick Thomas Elworthy, \[1895\], at Intangible
 Textual Heritage
 
@@ -32,8 +32,8 @@ them, or perceives that they are at all strange; otherwise we cannot
 suppose that residents, like Valletta, Marugi, or Jorio, would have
 failed at least to make some reference to what must have been as
 familiar to them as their own garments. <span
-id="fr_590"></span>[566](#fn_590) The number of specimens in the
-writer's collection <span id="fr_591"></span>[566a](#fn_591) show how
+id="fr_590"></span>[566](#fn_590.md) The number of specimens in the
+writer's collection <span id="fr_591"></span>[566a](#fn_591.md) show how
 common they are; and moreover that every single one is different from
 every other. Of these any number of duplicates might have been obtained,
 and further search will no doubt bring to light many fresh examples. A
@@ -70,9 +70,9 @@ FIG. 161.<br />
 
 there any amulet like it, known to the writer, in any of the museums
 where one would expect to find such things, <span
-id="fr_592"></span>[566b](#fn_592) except one. In the Bologna Museum
+id="fr_592"></span>[566b](#fn_592.md) except one. In the Bologna Museum
 among the very earliest Etruscan amulets is a small bronze object of
-which [Fig. 161](#img_34400) is a careful drawing, and about the actual
+which [Fig. 161](#img_34400.md) is a careful drawing, and about the actual
 size. Comparing this, and its clearly ostensible purpose as an amulet
 for suspension, with the elaborate modern charm, every candid observer
 must admit the remarkable similarity of general form and evident design
@@ -111,12 +111,12 @@ amulet as a tradition of remote antiquity; and it is easy to see, even
 without evidence to prove it, how upon the simple sprig new symbols have
 been grafted, so that each of its tips has been made to carry a charm in
 itself, until at last we have the multiplied aggregation comprised in
-the modern amulet ([Fig. 162](#img_34500)).
+the modern amulet ([Fig. 162](#img_34500).md).
 
 Worn upon the breasts of infants in Naples and the neighbourhood, it is
 considered their special protector against the ever-dreaded *jettatura*.
 
-Mr. Neville Rolfe <span id="fr_593"></span>[567](#fn_593) gives a list
+Mr. Neville Rolfe <span id="fr_593"></span>[567](#fn_593.md) gives a list
 of eight different symbols, but in addition to these we have to point
 out several other features which may be recognised in it.
 
@@ -126,7 +126,7 @@ To begin with the title-role: No plant had more virtues ascribed to it
 in ancient times than rue, and the belief in these has continued down to
 the present day.
 
-Pliny <span id="fr_594"></span>[568](#fn_594) says the ancients held rue
+Pliny <span id="fr_594"></span>[568](#fn_594.md) says the ancients held rue
 in peculiar esteem; that the plant has a great liking for the fig-tree
 and for that tree only, and that it thrives better under it than
 anywhere else. He says it is one of the most active of all medicinal
@@ -142,17 +142,17 @@ value of rue in a great number of diseases, and in his last paragraph
 says that "of all the plants that are grown, rue is the one most
 employed for the maladies of cattle"; altogether he cites it as being a
 remedy for eighty-four diseases or ailments. <span
-id="fr_595"></span>[569](#fn_595)
+id="fr_595"></span>[569](#fn_595.md)
 
 <span id="page_347">p. 347</span>
 
 Gerard speaks much of the virtues of rue, but all herbalists call it
-"herb of grace." <span id="fr_596"></span>[570](#fn_596)
+"herb of grace." <span id="fr_596"></span>[570](#fn_596.md)
 
 Culpepper says: "It is an herb of the Sun, and under Leo."
 
 It is suggested that inasmuch as rue was hung about the neck as an
-amulet in primæval times <span id="fr_597"></span>[571](#fn_597) against
+amulet in primæval times <span id="fr_597"></span>[571](#fn_597.md) against
 fascination, and we know of no other herb that was so used, it may on
 that account have acquired its name in the Middle Ages. It was,
 moreover, believed to be of all herbs the most potent restorative
@@ -171,12 +171,12 @@ basis of our amulet, we have to account for the conventional shape which
 the spray assumed even in Etruscan days.
 
 In all the complete specimens here produced (Figs.
-[81](tee08.htm#img_20300), [162](#img_34500)), it will be seen that the
+[81](tee08.htm#img_20300), [162](#img_34500).md), it will be seen that the
 Cimaruta has three main branches; and considering the material of which
 these charms are always made, in connection with the other symbols on
 this complex object, we can come to no other conclusion than that the
 three branches are typical of *Diana Triformis* <span
-id="fr_598"></span>[572](#fn_598) or of her prototypes. Epithets are
+id="fr_598"></span>[572](#fn_598.md) or of her prototypes. Epithets are
 given to her denoting that she is the giver of light and life, benefits
 also attributed to Proserpine, and these "make it seem that she
 (Proserpine) was also thought to be concerned for women in labour, which
@@ -186,19 +186,19 @@ and hell, has three distinct names: in heaven she is Σελήνη, the *Moon*;
 upon the earth Ἄρτεμις, *Diana*, in hell Περσεφόνη, *Proserpine*; whence
 are those epithets whereby the poets denote her threefold character as
 τρίμορφος, *triformis*, *tergemina*, with several others." <span
-id="fr_599"></span>[573](#fn_599)
+id="fr_599"></span>[573](#fn_599.md)
 
 <span id="page_349">p. 349</span>
 
 Considering her in another threefold character, she is Hecate, Diana,
-Proserpine. <span id="fr_600"></span>[574](#fn_600)
+Proserpine. <span id="fr_600"></span>[574](#fn_600.md)
 
 Montfaucon pictures a statue of this goddess, whom he calls Hecate, in
 three positions, so as to bring each form alternately to the front.
 
 <span id="img_34900"></span> <span align="CENTER"> [![FIG.
 163.](tn/34900.jpg)  
-Click to enlarge](img/34900.jpg)  
+Click to enlarge](img/34900.jpg.md)  
 FIG. 163.  
 </span>
 
@@ -213,7 +213,7 @@ holds a sword in one hand with a serpent in the other. "Servius says she
 
 <span class="contnote">\[paragraph continues\]</span> (Diana) presides
 over health, of which the serpent is the symbol." <span
-id="fr_601"></span>[575](#fn_601)
+id="fr_601"></span>[575](#fn_601.md)
 
 3\. She is crowned with laurel, holding a key in her right hand, and
 ropes in her left. "The key belongs properly to Hecate; she was guardian
@@ -225,24 +225,24 @@ childbirth, and by Cicero she was maintained to be one and the same as
 *Ilithyia* or *Lucina*. Horace also invokes her:--
 
 "Sive tu Lucina probas vocari  
-          Seu Genitalis." <span id="fr_602"></span>[576](#fn_602)
+          Seu Genitalis." <span id="fr_602"></span>[576](#fn_602.md)
 
 In this attribute we have Diana Lucina as the direct forerunner and
 counterpart, in Neapolitan belief, of Madonna del Parto. <span
-id="fr_603"></span>[577](#fn_603)
+id="fr_603"></span>[577](#fn_603.md)
 
 This charm must always be of silver, and each one has to bear the
 hall-mark; without this the poorest will not have it.
 
 Silver was Diana's own metal--in Greece, in Ephesus, and in Rome alike.
 Demetrius who made the *shrines* (*housis*, according to Wiclif) was a
-silversmith. <span id="fr_604"></span>[578](#fn_604)
+silversmith. <span id="fr_604"></span>[578](#fn_604.md)
 
 <span id="page_351">p. 351</span>
 
 We turn our silver in our pockets when we first see the new moon or
 Diana; and in fact the silver moon is something more than a mere figure
-of speech. <span id="fr_605"></span>[579](#fn_605)
+of speech. <span id="fr_605"></span>[579](#fn_605.md)
 
 In all complete specimens two of the attributes are never wanting. These
 are the crescent and the hand, with which the tip of every spray is made
@@ -263,26 +263,26 @@ FIG. 164.<br />
 </table>
 
 of the sun's rays on the sculpture in the tomb of Khuenaten ([Fig.
-103](tee11.htm#img_24400)), except that here the hand, when alone, is
+103](tee11.htm#img_24400).md), except that here the hand, when alone, is
 bent into the gesture already described as a potent amulet <span
-id="fr_606"></span>[580](#fn_606) in itself--the *mano fica*, and in the
+id="fr_606"></span>[580](#fn_606.md) in itself--the *mano fica*, and in the
 other cases is made to grasp some other object. The half-moon on [Fig.
-162](#img_34500) in itself combines two other symbols, namely horns,
+162](#img_34500.md) in itself combines two other symbols, namely horns,
 already dealt with, and a serpent enclosing the crescent. <span
-id="fr_607"></span>[581](#fn_607)
+id="fr_607"></span>[581](#fn_607.md)
 
 <span id="page_352">p. 352</span>
 
 The key, which like the crescent takes a prominent position, appears in
 every perfect specimen. We may therefore conclude that it is an
 important amulet; this key also is compounded. On the Cimaruta the bow
-of the key is always shaped like a heart as on [Fig. 162](#img_34500).
-In [Fig. 112](tee11.htm#img_25900) the key appears singly, *i.e.*
+of the key is always shaped like a heart as on [Fig. 162](#img_34500.md).
+In [Fig. 112](tee11.htm#img_25900.md) the key appears singly, *i.e.*
 without the heart, in many shapes more or less ornamental, clearly
 proving the position it holds in Neapolitan estimation as a simple charm
 to be worn by adults, as well as in its compounded form by infants. As
 an amulet it has a distinct phallic significance. <span
-id="fr_608"></span>[582](#fn_608)
+id="fr_608"></span>[582](#fn_608.md)
 
 There can be little doubt that the key is another of the symbols of
 Diana, and relates to her in the form of Luna, or in her proper name of
@@ -293,9 +293,9 @@ Aurora and the life and light giving Phœbus, as well as to close the
 gates of night. The key might possibly be also regarded as an attribute
 of Hecate-Proserpine, who as mistress of the lower world might open the
 gates and free the imprisoned spirits. <span
-id="fr_609"></span>[583](#fn_609) A medal represents her with a key in
+id="fr_609"></span>[583](#fn_609.md) A medal represents her with a key in
 one hand and a serpent in the other. <span
-id="fr_610"></span>[584](#fn_610) It is a remarkable fact, and not to be
+id="fr_610"></span>[584](#fn_610.md) It is a remarkable fact, and not to be
 overlooked in connection with Diana and the Cimaruta, that the
 Neapolitan
 
@@ -305,7 +305,7 @@ vernacular for a witch is not, as in ordinary Italian, *strega*, but
 *Janara*; evidently conserving the ancient belief In the Bologna
 Etruscan Museum are several finger-rings, having little keys attached to
 them, precisely like the horns attached to the modern rings in Rome
-([Fig. 81](tee08.htm#img_20300)). They are far too small for use, and
+([Fig. 81](tee08.htm#img_20300).md). They are far too small for use, and
 can only have been worn as amulets, thus proving the antiquity of the
 key as such.
 
@@ -314,9 +314,9 @@ the cross, and it is suggested that in the key with the heart-handle may
 be a conventionalised representation of the *crux ansata*. We may safely
 accept the heart as implying an allusion to the maiden goddess "whose
 affections were regulated by the key of prudence." <span
-id="fr_611"></span>[585](#fn_611)
+id="fr_611"></span>[585](#fn_611.md)
 
-One of the writer's specimens ([Fig. 81](tee08.htm#img_20300)) contains
+One of the writer's specimens ([Fig. 81](tee08.htm#img_20300).md) contains
 two birds, and assuming that they are not meant for the same bird, we
 consider one to <span id="img_35300"></span>
 
@@ -336,14 +336,14 @@ FIG. 165.<br />
 
 be the cock and the other the eagle.
 
-The cock on several gems, like [Fig. 14](tee06.htm#img_13000), is either
+The cock on several gems, like [Fig. 14](tee06.htm#img_13000.md), is either
 alone or combined with Apollo in a *grillo*, as in [Fig.
-165.](#img_35300) <span id="fr_612"></span>[585a](#fn_612) He is
-regarded as a "solar animal," <span id="fr_613"></span>[586](#fn_613)
+165.](#img_35300) <span id="fr_612"></span>[585a](#fn_612.md) He is
+regarded as a "solar animal," <span id="fr_613"></span>[586](#fn_613.md)
 and thus sacred to the sun-gods, Osiris, Serapis, Jupiter, Apollo. The
 cock is also the symbol of Mercury, denoting vigilance. He: is sometimes
 represented as holding an ear of corn in his bill, meaning that "only
-vigilance can produce plenty." <span id="fr_614"></span>[587](#fn_614)
+vigilance can produce plenty." <span id="fr_614"></span>[587](#fn_614.md)
 As a watchful
 
 <span id="page_354">p. 354</span>
@@ -355,37 +355,37 @@ the *Mano Pantea* to guard the woman and child. His crow is said to be
 the praise offered to the sun-god, when Chanticleer proclaims the
 approach of day. It is said that even the lion is afraid of a cock, and
 that his eye is all-powerful as an amulet (see [Fig.
-13](tee06.htm#img_12800)); also that all demons with lions' heads vanish
+13](tee06.htm#img_12800).md); also that all demons with lions' heads vanish
 instantly when the cock (or his image) is presented to them. May not
 this be the reason why a weathercock is placed high on our church
 towers? See remarks on Gurgoyles in Appendix II. Pliny <span
-id="fr_615"></span>[588](#fn_615) says "the lion is terrified--still
+id="fr_615"></span>[588](#fn_615.md) says "the lion is terrified--still
 more on seeing the crest, or hearing the crowing of the cock." The eagle
 is well known as Jove's own bird. It is shown alongside him on the gem
-([Fig. 18](tee06.htm#img_13100)) as an amulet. In Montfaucon most of the
+([Fig. 18](tee06.htm#img_13100).md) as an amulet. In Montfaucon most of the
 prints of Jupiter have an eagle accompanying him.
 
 The sword or dagger grasped in the hand appears not only as a separate
-charm on [Fig. 112](tee11.htm#img_25900), but is in the hand of the
-gladiator on the Woburn marble ([Fig. 24](tee06.htm#img_13700)) and in
-several of the hands of Diana Triformis ([Fig. 163](#img_34900)). This
+charm on [Fig. 112](tee11.htm#img_25900.md), but is in the hand of the
+gladiator on the Woburn marble ([Fig. 24](tee06.htm#img_13700).md) and in
+several of the hands of Diana Triformis ([Fig. 163](#img_34900).md). This
 may represent the knife shown on the *Mano Pantea* ([Fig.
-148](tee13.htm#img_29900)), or it may be the dart of Diana Venatrix as
-on [Fig. 112](tee11.htm#img_25900).
+148](tee13.htm#img_29900).md), or it may be the dart of Diana Venatrix as
+on [Fig. 112](tee11.htm#img_25900.md).
 
 The fish grasped by the hand is among the separate coral charms shown
-also on [Fig. 112](tee11.htm#img_25900). The fish appears also on the
-Cortona lamp ([Fig. 30](tee06.htm#img_14401)) and on various gems and
-medals (Figs. [14](tee06.htm#img_13000)-18). In
+also on [Fig. 112](tee11.htm#img_25900.md). The fish appears also on the
+Cortona lamp ([Fig. 30](tee06.htm#img_14401).md) and on various gems and
+medals (Figs. [14](tee06.htm#img_13000)-18.md). In
 
 <span id="page_355">p. 355</span>
 
 some it appears as a dolphin. The dolphin was the special attribute of
 Neptune, but Diana-Proserpine was a sea goddess, and it may as an amulet
-refer to her, inasmuch as it is on her statue ([Fig. 175](#img_36200)).
+refer to her, inasmuch as it is on her statue ([Fig. 175](#img_36200).md).
 
 Lastly, the flower must be intended for the lotus, the symbol of Isis,
-*i.e.* of Diana. <span id="fr_616"></span>[589](#fn_616)
+*i.e.* of Diana. <span id="fr_616"></span>[589](#fn_616.md)
 
 To sum up: we have in this highly composite and therefore powerful
 amulet, no less than thirteen separate and distinct symbols, any one of
@@ -393,7 +393,7 @@ which by itself may be taken as prophylactic against the dreaded evil
 eye. These are: 1, Rue.; 2, Diana Triformis; 3, Silver; 4, Hand; 5,
 horned Crescent; 6, Serpent; 7, Key; 8, Heart; 9, Cock; 10, Eagle; 11,
 Sword or Dart; 12, Fish; 13, Lotus. <span
-id="fr_617"></span>[589a](#fn_617)
+id="fr_617"></span>[589a](#fn_617.md)
 
 Of all the many charms combined in the Cimaruta we find on close study
 that there is scarcely one which may not directly or indirectly be
@@ -407,13 +407,13 @@ ed anche del Inferno."
 
 <span id="page_356">p. 356</span>
 
-Figs. [166](#img_35600)-[169](#img_35800) are all modern amulets in
+Figs. [166](#img_35600)-[169](#img_35800.md) are all modern amulets in
 daily use, and all alike avowedly *contra la jettatura*. These are all
 for suspension, and are mostly provided
 
 <span id="img_35600"></span> <span align="CENTER"> [![FIG. 166.--From
 the Author's Collection.](tn/35600.jpg)  
-Click to enlarge](img/35600.jpg)  
+Click to enlarge](img/35600.jpg.md)  
 FIG. 166.--From the Author's Collection.  
 </span>
 
@@ -434,7 +434,7 @@ heads. There are, though very scarce,
 <span id="img_35700"></span> <span align="CENTER"> [![FIG. 167.,
 168.&lt;br&gt; From the Collection of Mr. E. Neville
 Rolfe.](tn/35700.jpg)  
-Click to enlarge](img/35700.jpg)  
+Click to enlarge](img/35700.jpg.md)  
 FIG. 167., 168.  
 From the Collection of Mr. E. Neville Rolfe.  
 </span>
@@ -471,16 +471,16 @@ visible object from Naples. Parthenope, one of the Sirens, is a name of
 the city itself. "Hyginus writes that at the time of Proserpine's rape,
 the Sirens came into Apollo's country, which is Sicily, and that Ceres,
 to punish them for not assisting her daughter Proserpine, turned them
-into birds." <span id="fr_618"></span>[590](#fn_618) We have plenty of
+into birds." <span id="fr_618"></span>[590](#fn_618.md) We have plenty of
 representations of the *Sirens*, birds with women's faces, as they were
 believed to be by the ancients; and moreover we have some evidence of
 their being used in this form as amulets. In the famous Cortona lamp
 they are shown alternating round the Medusa's head in company with the
 *capo di bove*, fish and Priapus, all well-recognised amulets (see [Fig.
-50](tee07.htm#img_16200)).
+50](tee07.htm#img_16200).md).
 
 The arms of the Neapolitan family of Petronia are a siren, Parthenope,
-playing a flute. <span id="fr_619"></span>[591](#fn_619) On a
+playing a flute. <span id="fr_619"></span>[591](#fn_619.md) On a
 
 <span id="page_359">p. 359</span>
 
@@ -489,23 +489,23 @@ wings of the angel kind, but with a bird's tail and legs. There is thus
 everything about the locality of Naples to connect it with the Sirens,
 and we know their conventional shape, but whence did the notion come,
 and how are we to connect them with Proserpine? <span
-id="fr_620"></span>[592](#fn_620)
+id="fr_620"></span>[592](#fn_620.md)
 
 The Etruscan lamp once more directs us to Egypt. There we find that Isis
 was represented
 
 <span id="img_35900"></span> <span align="CENTER"> [![FIG. 170.--From
 Wilkinson, vol. iii. p. 107, FIG. 171.](tn/35900.jpg)  
-Click to enlarge](img/35900.jpg)  
+Click to enlarge](img/35900.jpg.md)  
 FIG. 170.--From Wilkinson, vol. iii. p. 107, FIG. 171.  
 </span>
 
-with wings ([Fig. 170](#img_35900)) as a flying goddess. This is a step
+with wings ([Fig. 170](#img_35900).md) as a flying goddess. This is a step
 forward; but Wilkinson, vol. iii. p. 115, shows us precisely what we are
-looking for ([Fig. 171](#img_35900)). This is the goddess *Hathor*,
+looking for ([Fig. 171](#img_35900).md). This is the goddess *Hathor*,
 holding precisely the same relation to Isis as the Ephesian Artemis held
 to the chaste Roman Diana; or rather we may say that Hathor was to Isis
-what Proserpine was to Diana. <span id="fr_621"></span>[593](#fn_621)
+what Proserpine was to Diana. <span id="fr_621"></span>[593](#fn_621.md)
 
 <span id="page_360">p. 360</span>
 
@@ -517,15 +517,15 @@ women in childbirth, and therefore a suitable amulet for the use of
 
 <span id="img_36000"></span> <span align="CENTER"> [![FIG. 172.--From
 Pignorius., FIG. 173](tn/36000.jpg)  
-Click to enlarge](img/36000.jpg)  
+Click to enlarge](img/36000.jpg.md)  
 FIG. 172.--From Pignorius., FIG. 173  
 </span>
 
 women as a guardian against the evil eye? No candid reader will refuse
 to admit that in the bird-woman Parthenope, on the Cortona lamp, we have
-the same person as the bird-woman Hathor in [Fig. 171](#img_35900).
+the same person as the bird-woman Hathor in [Fig. 171](#img_35900.md).
 Further, if any doubt remained, we have a representation of Isis herself
-([Fig. 172](#img_36000)) holding her own siren attribute, just as we
+([Fig. 172](#img_36000).md) holding her own siren attribute, just as we
 shall see the same
 
 <span id="page_361">p. 361</span>
@@ -533,7 +533,7 @@ shall see the same
 goddess represented by the statues of the Ephesian Diana bearing the
 distinguishing symbols belonging to her under that title.
 
-[Fig. 173](#img_36000) is from a photograph purchased in Naples. It is
+[Fig. 173](#img_36000.md) is from a photograph purchased in Naples. It is
 part of the very large Greek vase of Pluto and Proserpine, No. 2959 in
 the Museum. The figure on the sea-horse is undoubtedly Proserpine. It is
 a colossal vase of the- transition period, about the third century B.C.,
@@ -542,20 +542,20 @@ service in identifying figures found upon other vases.
 
 <span id="img_36100"></span> <span align="CENTER"> [![FIG.
 174.](tn/36100.jpg)  
-Click to enlarge](img/36100.jpg)  
+Click to enlarge](img/36100.jpg.md)  
 FIG. 174.  
 </span>
 
 The three-headed Cerberus sufficiently marks the locality. We invite
-attention next to [Fig. 174](#img_36100), half-size of a drawing by the
+attention next to [Fig. 174](#img_36100.md), half-size of a drawing by the
 writer from another late Greek vase of about the same date, found at
 Capua about 1888, now belonging to Mr. Neville Rolfe. The latter has no
 other ornament than this solid block upon a gray ground. The vase is of
 course a small one, but there is no doubt as to its genuineness. It will
 hardly be disputed that these two Greek paintings represent the same
 idea and the same person. From these the reader is asked to turn to the
-five statues of Diana (Figs. [69](tee08.htm#img_18800),
-[175](#img_36200)-[178](#img_36300)) taken from Bellori. Upon these seem
+five statues of Diana (Figs. [69](tee08.htm#img_18800.md),
+[175](#img_36200)-[178](#img_36300).md) taken from Bellori. Upon these seem
 to
 
 <span id="page_362">p. 362</span>
@@ -566,7 +566,7 @@ statues, perhaps four or five centuries later in date than the
 
 <span id="img_36200"></span> <span align="CENTER"> [![FIG. 175.,
 176.](tn/36200.jpg)  
-Click to enlarge](img/36200.jpg)  
+Click to enlarge](img/36200.jpg.md)  
 FIG. 175., 176.  
 </span>
 
@@ -575,19 +575,19 @@ be seen, nearly in the same position, the female on the sea-horse.
 
 Will any person venture to deny that the several representations here
 brought together are anything else than the prototypes, the direct
-parents of the modern Neapolitan amulet shown on [Fig. 168](#img_35700),
+parents of the modern Neapolitan amulet shown on [Fig. 168](#img_35700.md),
 and
 
 <span id="page_363">p. 363</span>
 
-of all those shown on Figs. [166](#img_35600), [167](#img_35700)?
+of all those shown on Figs. [166](#img_35600), [167](#img_35700.md)?
 Inasmuch, too, as we know the ancient ones to represent
 Proserpine-Diana, so it is maintained that the modern amulet called a
 siren also represents the same deity.
 
 <span id="img_36300"></span> <span align="CENTER"> [![FIG. 177.,
 178.](tn/36300.jpg)  
-Click to enlarge](img/36300.jpg)  
+Click to enlarge](img/36300.jpg.md)  
 FIG. 177., 178.  
 </span>
 
@@ -606,12 +606,12 @@ persistently upheld by the people would, if they could be thus traced,
 be found to have their beginnings in the same dim ages of obscure
 antiquity. Conversely, there is hardly a custom or occult practice of
 the ancients which may not be traced somewhere or somehow amongst their
-modern descendants. The statuette ([Fig. 175](#img_36200)), well known
+modern descendants. The statuette ([Fig. 175](#img_36200).md), well known
 to the writer, is now in the Museum of the Collegio Romano. The others
 are in private collections. It is strange that not one of these four
 seems to have been known to Montfaucon, or to his authorities. He has,
 however, the more typical statue of the Ephesian goddess ([Fig.
-69](tee08.htm#img_18800)), in which she appears as the patroness of
+69](tee08.htm#img_18800).md), in which she appears as the patroness of
 maternity. Those which have the attribute of Proserpine so prominent,
 appeal more to the Roman ideal, although they are matronly in
 appearance.
@@ -634,15 +634,15 @@ always worn by horses.
 The object above the crescent on three statues is said to represent a
 crab, but the whole looks more like a scorpion, with the crescent to
 represent his claws. We are distinctly told <span
-id="fr_622"></span>[594](#fn_622) that the crab was suspended to the
+id="fr_622"></span>[594](#fn_622.md) that the crab was suspended to the
 neck of Diana of Ephesus because it was sacred to her. Hence we find the
-crab on the breast in [Fig. 69](tee08.htm#img_18800), and also engraved
-on gem amulets (see [Fig. 17](tee06.htm#img_13001)).
+crab on the breast in [Fig. 69](tee08.htm#img_18800.md), and also engraved
+on gem amulets (see [Fig. 17](tee06.htm#img_13001).md).
 
 All four statues have two busts upon them, which the present writer does
 not pretend to explain; a single bust, something like one of these,
 appears as an amulet on the Kertch necklace ([Fig.
-21](tee06.htm#img_13500)).
+21](tee06.htm#img_13500).md).
 
 Another feature common to three of the statuettes is that they have in
 each case, both above and below the sea-horses, a group of three nude
@@ -650,21 +650,21 @@ Graces; and the upper group in each shows the outer figure holding a
 cornucopia. The lower groups have wings, and in one they are holding the
 wreaths in their hands, probably the same wreath that two of the other
 statues have on their heads. Moreover, it will be noted that on the
-breast of [Fig. 69](tee08.htm#img_18800) are two draped females holding
+breast of [Fig. 69](tee08.htm#img_18800.md) are two draped females holding
 up a wreath, and also on this latter are shown two of the nude females
 in line with the three stags' heads.
 
-The fourth statue ([Fig. 178](#img_36300)) has but one row of Graces,
+The fourth statue ([Fig. 178](#img_36300).md) has but one row of Graces,
 without anything in their hands. It is difficult to determine the
 meaning of these nude figures. They may possibly represent Diana
-Triformis. <span id="fr_623"></span>[595](#fn_623)
+Triformis. <span id="fr_623"></span>[595](#fn_623.md)
 
 <span id="page_366">p. 366</span>
 
 Every one of these five statues has both hands posed in distinct
 gesture-like attitudes, and every hand is open.
 
-The *cavalli marini* (Figs. [166](#img_35600)-[169](#img_35800)) of
+The *cavalli marini* (Figs. [166](#img_35600)-[169](#img_35800).md) of
 course represent the same sea-horses as those upon the Diana statues.
 The sea-horse is an amulet apart, worn equally by the cab horses and
 upon the breasts of Neapolitan women. On the statues these creatures
@@ -673,17 +673,17 @@ the silver charms. Nevertheless they are all known as *cavalli*.
 
 Each of the statues wears a veil, reaching to the ground upon four, but
 curtailed to a mere head-dress on the fifth ([Fig.
-69](tee08.htm#img_18800)). These are like the veils often worn by
+69](tee08.htm#img_18800).md). These are like the veils often worn by
 brides, not to hide but to set off the face. Upon Diana the veil
 represents night--"Velo Dianæ nox indicatur." Moreover, it is the symbol
-of modesty and chastity. <span id="fr_624"></span>[596](#fn_624)
+of modesty and chastity. <span id="fr_624"></span>[596](#fn_624.md)
 
 In the British Museum is an ancient terra-cotta flat bottle, having on
 both sides the same figure, brandishing in the right hand a sword and in
 the left a scabbard. All that is known of it is that it was purchased at
 the Durand sale, described in the "Cabinet Durand," by De Witte, Paris
 1836, No. 1550. It is called a Scylla, but on what grounds we are not
-told. [Fig. 179](#img_36700) is from a rough sketch by the writer, but
+told. [Fig. 179](#img_36700.md) is from a rough sketch by the writer, but
 it is sufficient to suggest the general resemblance of this figure to
 the Proserpines upon the Diana statues and upon the Neapolitan amulets.
 The two dogs are true Diana symbols, but there is no sign of a crown.
@@ -693,22 +693,22 @@ matched by the dolphin alongside the
 <span id="page_367">p. 367</span>
 
 <span class="contnote">\[paragraph continues\]</span> Proserpine on
-[Fig. 175](tee13.htm#img_31800). In any case the coincidence is strange,
+[Fig. 175](tee13.htm#img_31800.md). In any case the coincidence is strange,
 and does not appear to have been noticed before. <span
-id="fr_625"></span>[597](#fn_625)
+id="fr_625"></span>[597](#fn_625.md)
 
 The same conception of the double sea-horse, combined with fish tails,
 is apparent in the Durand
 
 <span id="img_36700"></span> <span align="CENTER"> [![FIG.
 179.](tn/36700.jpg)  
-Click to enlarge](img/36700.jpg)  
+Click to enlarge](img/36700.jpg.md)  
 FIG. 179.  
 </span>
 
 bottle, though the twist is not in the same direction as that invariably
-seen in the Abraxas and in the Sirens (Figs. [166](#img_35600),
-[167](#img_36700)).
+seen in the Abraxas and in the Sirens (Figs. [166](#img_35600.md),
+[167](#img_36700).md).
 
 Considering how much these charms vary, and the singular individuality
 there is in all of them, notwithstanding the very rough work of
@@ -728,12 +728,12 @@ So indeed are the bells upon our children's corals, and strangely ours
 are always of the same special pattern and size as these Neapolitan
 ones; but stranger still, on the walls of Medinet Habou are these same
 little bells upon the personified *crux ansata*, [Fig.
-127](tee12.htm#img_28400). Are these mere coincidences? Is it also a
+127](tee12.htm#img_28400.md). Are these mere coincidences? Is it also a
 coincidence that the coral we use was also an ancient protective amulet
 for children, and that we have it always mounted with silver? Is it also
-mere coincidence that two of the sirens shown on [Fig. 166](#img_35600)
+mere coincidence that two of the sirens shown on [Fig. 166](#img_35600.md)
 end in whistles like our baby's toy? <span
-id="fr_626"></span>[598](#fn_626)
+id="fr_626"></span>[598](#fn_626.md)
 
 We cannot explain the exact likeness in the little bells between those
 on our baby's amulet and on that of the ancient Egyptians or modern
@@ -746,10 +746,10 @@ mostly globular. "Le son de l'airain" was
 
 thought to have a prophylactic virtue. Little bells of this metal were
 employed in certain rites, but also worn as amulets. They are often
-suspended to the phallus. <span id="fr_627"></span>[599](#fn_627)
+suspended to the phallus. <span id="fr_627"></span>[599](#fn_627.md)
 
 We omitted to refer to one of the amulets upon the Naples cab horses on
-[Fig. 83](tee08.htm#img_20800), the man in a boat. This is said to be
+[Fig. 83](tee08.htm#img_20800.md), the man in a boat. This is said to be
 Osiris, the Nile, or water, by which the sun fertilises and nourishes
 the earth. The old confusion between the several deities here appears
 again; for Horus is also depicted as sitting on a lotus (his usual
@@ -771,8 +771,8 @@ FIG. 180<br />
 </table>
 
 and as much confounded with his father Osiris as is Demeter with her
-daughter Persephone. [Fig. 180](#img_36900) represents Horus <span
-id="fr_628"></span>[600](#fn_628) on a lotus, holding the whip of
+daughter Persephone. [Fig. 180](#img_36900.md) represents Horus <span
+id="fr_628"></span>[600](#fn_628.md) on a lotus, holding the whip of
 sovereignty in his left hand, with his right as usual raised towards his
 lips in token of silence. Above are the regular Gnostic symbols, (the
 Turkish) sun and moon. His boat is the sacred *baris*, terminating at
@@ -783,24 +783,24 @@ All these latter accessories do not appear on the Neapolitan horse
 charm, but the idea is the same. Of course the *capo di bove* is the old
 favourite, repeated all round the tomb of Cecilia Metella, the Cortona
 lamp, and in two rows of three each on the statue of Diana ([Fig.
-69](tee08.htm#img_18800)), where they are flanked by dragons and
+69](tee08.htm#img_18800).md), where they are flanked by dragons and
 griffins, which were sacred to
 
 <span id="page_370">p. 370</span>
 
-her. <span id="fr_629"></span>[601](#fn_629) Even these latter are
+her. <span id="fr_629"></span>[601](#fn_629.md) Even these latter are
 compounded creatures, and so represent double attributes, all pointing
 to the sun: the dragon or flying serpent with a lion's head, and the
 griffin or lion with vulture's head and claws. The serpent is here
 supposed to represent the inner senses and the quickened
-understanding. <span id="fr_630"></span>[602](#fn_630) The bee is
+understanding. <span id="fr_630"></span>[602](#fn_630.md) The bee is
 specially sacred to Diana and Ceres. It is the symbol of virginity, as
 testified by many ancient authorities. <span
-id="fr_631"></span>[603](#fn_631) Our custom of beating kettles, ringing
+id="fr_631"></span>[603](#fn_631.md) Our custom of beating kettles, ringing
 bells, and making other noises to cause swarming bees to settle, is not
 a modern one. Varro (*De re rust.* iii.) says: "Who does not know that
 dispersed and wandering bees may be got to one place by cymbals and
-rattles (*plausibus*)?" <span id="fr_632"></span>[604](#fn_632)
+rattles (*plausibus*)?" <span id="fr_632"></span>[604](#fn_632.md)
 
 Among symbolic amulets are some very remarkable objects which have
 hitherto met with rather limited attention.
@@ -810,7 +810,7 @@ distinct amulet. It is a terra-cotta plaque, circular in shape, with a
 sort of handle projection on one side. It is like a very shallow bowl
 with a flat rim round the edge, within which are huddled together a
 number of very remarkable objects. This one is now to be seen in the
-British Museum ([Fig. 181](#img_37100)). The drawing reduced from Jahn's
+British Museum ([Fig. 181](#img_37100).md). The drawing reduced from Jahn's
 book is by no means satisfactory, yet it is for our purpose much clearer
 than a photograph. The plaque came to the
 
@@ -825,7 +825,7 @@ Jahn, although tablets of this character cannot have been
 
 <span id="img_37100"></span> <span align="CENTER"> [![FIG.
 181.](tn/37100.jpg)  
-Click to enlarge](img/37100.jpg)  
+Click to enlarge](img/37100.jpg.md)  
 FIG. 181.  
 </span>
 
@@ -835,12 +835,12 @@ in the Ashmolean Museum a complete specimen with a portion of another,
 brought by Mr. A. Evans from Taranto.
 
 All these seem to have a projection by way of handle. [Fig.
-182](#img_37200) represents the Oxford disc.
+182](#img_37200.md) represents the Oxford disc.
 
 <span id="page_372">p. 372</span>
 
 <span class="contnote">\[paragraph continues\]</span> [Fig.
-183](#img_37300) is in the Naples Museum, and there is another in
+183](#img_37300.md) is in the Naples Museum, and there is another in
 Berlin. Comparison of these illustrations will convince the I reader
 that, whatever their purpose may have been, they generally convey the
 same idea, and are as much alike as any of the examples of the ancient
@@ -849,7 +849,7 @@ same idea, and are as much alike as any of the examples of the ancient
 <span id="img_37200"></span> <span align="CENTER"> [![FIG. 182.--From
 Photogravure in Mr. A. Evans's &lt;i&gt;Tarentine Terra
 Cottas&lt;/i&gt;.](tn/37200.jpg)  
-Click to enlarge](img/37200.jpg)  
+Click to enlarge](img/37200.jpg.md)  
 FIG. 182.--From Photogravure in Mr. A. Evans's *Tarentine Terra
 Cottas*.  
 </span>
@@ -874,21 +874,21 @@ suspension, which the British Museum one has not.
 <span id="img_37300"></span> <span align="CENTER"> [![FIG. 183.--From
 &lt;i&gt;Bull. Archeol. Napolet.&lt;/i&gt; No. 120,
 1857.](tn/37300.jpg)  
-Click to enlarge](img/37300.jpg)  
+Click to enlarge](img/37300.jpg.md)  
 FIG. 183.--From *Bull. Archeol. Napolet.* No. 120, 1857.  
 </span>
 
-On the top of Figs. [181](#img_37100) and [183](#img_37300) we see our
+On the top of Figs. [181](#img_37100) and [183](#img_37300.md) we see our
 old friends the sun and the moon very distinctly. In the other, both are
 also represented, but in different positions. The three upright objects
-between the sun and moon in Fig. [181](#img_37100) appear likewise in
+between the sun and moon in Fig. [181](#img_37100.md) appear likewise in
 all the tablets. Jahn says he does not know what they are.
 
 <span id="page_374">p. 374</span>
 
 <span class="contnote">\[paragraph continues\]</span> Mr. Evans says
 they are distaffs, and that a fourth, a larger one, is also there. <span
-id="fr_633"></span>[604a](#fn_633) We presume he means the horizontal
+id="fr_633"></span>[604a](#fn_633.md) We presume he means the horizontal
 object alongside--these distaffs, he says, are wound round with wool.
 There is a large upright object beneath the ladder in the British Museum
 tablet which Jahn does not refer to, but which Minervini says is an
@@ -901,7 +901,7 @@ Pantea. These represent, we are told, the Dioscuri (Castor and Pollux).
 On either side of these is a sheep, but there is nothing to match them
 in the Oxford or Naples tablets. This animal, however, closely resembles
 that upon the modern bone amulet from Sienna (see [Fig.
-112](tee11.htm#img_25900)). In front of one sheep at the top of the
+112](tee11.htm#img_25900).md). In front of one sheep at the top of the
 ladder is, according to Jahn, an oval thing which may be a mussel. On
 the Oxford tablet is something like it on the right of the distaffs. In
 the next row is a round object in the centre, which Jahn cannot explain.
@@ -917,11 +917,11 @@ plain on all; the right hand in two, and left
 in the other. To the right of the lyre is a leaf, the meaning of which,
 Jahn says, is not clear, but it is surely the phallic fig-leaf. The
 pincers are distinct on all, as they are upon the nail, Fig.
-[159](tee13.htm#img_32800). One other object, common to all the tablets,
+[159](tee13.htm#img_32800.md). One other object, common to all the tablets,
 which neither Jahn nor Mr. Evans attempts to explain, is the oblong slab
 with twelve square holes in regular lines. Three flat discs, on all the
 plates, Mr. Evans thinks may be coins, but three similar discs are upon
-the table on the hand, Fig; [156](tee13.htm#img_31800), apparently as an
+the table on the hand, Fig; [156](tee13.htm#img_31800.md), apparently as an
 offering to Serapis. There are, besides these, several objects upon the
 Oxford tablet not to be found upon those of the British Museum or
 Naples. First, the upright column above the crescent, which Mr. Evans
@@ -929,17 +929,17 @@ calls the club of Herakles, we submit is much too important an object
 upon this combination of attributes to be the symbol of either of the
 lesser gods. It is suggested that this may be one of the pillars of
 Hermes on which that god engraved all knowledge. <span
-id="fr_634"></span>[605](#fn_634)The objection to this is that the
+id="fr_634"></span>[605](#fn_634.md)The objection to this is that the
 caduceus has already typified him. Still there may be two symbols like
 the sun and thunderbolt for the same god. Again, there is a bird, but
-hardly a dove; <span id="fr_635"></span>[605a](#fn_635) it would rather
+hardly a dove; <span id="fr_635"></span>[605a](#fn_635.md) it would rather
 be intended for a cock or an eagle. The object near the bird, called a
 lover's knot by Mr. Evans, is, we suggest, much more probably a
 scorpion. The "curved object" is manifestly the same as Jahn calls a
 *Füllhorn*, but it rather represents a scythe or sickle; which of them
 is the tunny or the grapes which Mr. Evans sees we cannot explain.
 
-Jahn finishes his description of Fig. [181](#img_37100) with the
+Jahn finishes his description of Fig. [181](#img_37100.md) with the
 
 <span id="page_376">p. 376</span>
 
@@ -955,16 +955,16 @@ wheel-like character renders it highly probable that they were used for
 stamping cakes in use on various religious occasions. The segmental
 division certainly recalls the cakes still to be seen in the Pompeian
 room at Naples, and the same thing appears on the cakes set before the
-"three men" by Abraham (Fig. [116](tee11.htm#img_26800)), from the early
+"three men" by Abraham (Fig. [116](tee11.htm#img_26800).md), from the early
 Ravenna mosaics. Loaves or cakes so marked are still sold in the streets
 and markets of Naples, while our own hot-cross buns perpetuate the same
 form, though now under a Christian guise.
 
 It is much to be desired that the British Museum authorities would have
 a cast made from the plaque in their possession (Fig.
-[181](#img_37100)), for it, like all the other similar tablets, is an
+[181](#img_37100).md), for it, like all the other similar tablets, is an
 unmistakable mould. Examination of the convex casts placed alongside the
-mould (Fig. [182](#img_37200)) in the Ashmolean, and of a fragment of
+mould (Fig. [182](#img_37200).md) in the Ashmolean, and of a fragment of
 another in the same case with it, shows much more distinctly what the
 objects are intended to represent, than can be determined when one only
 looks at the concave mould. Another matter of interest is, that the
@@ -974,7 +974,7 @@ Museum
 <span id="page_377">p. 377</span>
 
 <span class="contnote">\[paragraph continues\]</span> (Fig.
-[181](#img_37100)), and is broken in a line from about the centre of the
+[181](#img_37100).md), and is broken in a line from about the centre of the
 ladder, passing through the lyre to the centre of the three discs, and
 preserves the objects above that line. The cast makes clear several
 objects which Jahn evidently did not understand in the perfect plaque of
@@ -983,20 +983,20 @@ pattern and in shape, should have been found at Pozzuoli and Taranto.
 The Naples example is both clearer and sharper, as well as in much
 better preservation than the others. The engraving published in the
 *Bullettino Archeologico Napoletano*, No. 120, 1857, from which we take
-Fig. [183](#img_37300), has been badly copied in Daremberg (p. 256), but
+Fig. [183](#img_37300), has been badly copied in Daremberg (p. 256.md), but
 without acknowledgment.
 
-We also give here a copy (Fig. [184](#img_37800)) of a terra-cotta lamp
+We also give here a copy (Fig. [184](#img_37800).md) of a terra-cotta lamp
 from the collection of Signor Barone, also published in the *Bullettino
 Archeologico Napoletano*, vol. iii. p. 182, Tav. VII. Another plaque of
 the same kind is at Berlin, too indistinct and wanting in definiteness
 to be worth reproduction, yet a large number of the objects can be
 readily made out, and are common to all the others here shown. In the
-arrangement of objects it matches Fig. [182](#img_37200), particularly
+arrangement of objects it matches Fig. [182](#img_37200.md), particularly
 in the division into four segments; but in this Berlin plaque is one
 very noticeable and remarkable point--it has a border almost identical
 in pattern, if not actually the same, as that shown on the lamp, Fig.
-[184](#img_37800). Attention is particularly invited to this, inasmuch
+[184](#img_37800.md). Attention is particularly invited to this, inasmuch
 as we hope by these drawings to prove what was the object of these terra
 cottas. A mere glance at the three cuts, really representing five
 distinct moulds, is sufficient to prove that the purpose is the same in
@@ -1008,11 +1008,11 @@ identical, and therefore must
 all symbolise the same ideas or persons. Besides these, there is,
 another plate of the like kind in the Louvre, which however the writer
 has not seen. The greater plainness of the objects upon Fig.
-[184](#img_37800),
+[184](#img_37800.md),
 
 <span id="img_37800"></span> <span align="CENTER"> [![FIG.
 184.](tn/37800.jpg)  
-Click to enlarge](img/37800.jpg)  
+Click to enlarge](img/37800.jpg.md)  
 FIG. 184.  
 </span>
 
@@ -1020,8 +1020,8 @@ together with their proper convex forms in the casts at Oxford, and a
 general comparison of all together, enable us to correct Jahn, and to
 determine what certain obscure objects are in each of the moulds.
 Minervini (Editor of the *Bullettino*) writing on Fig.
-[183](#img_37300), remarks upon the great similarity between this and
-Jahn's plaque (Fig. [181](#img_37100)). He insists that
+[183](#img_37300.md), remarks upon the great similarity between this and
+Jahn's plaque (Fig. [181](#img_37100).md). He insists that
 
 <span id="page_379">p. 379</span>
 
@@ -1047,14 +1047,14 @@ The next symbol, he says, is a lighted torch with the flame turned to
 the left. This, Jahn says, is a two-pronged fork; but he is surely
 wrong, for that would mean nothing.
 
-On Fig. [181](#img_37100) is a nondescript object above the ladder,
+On Fig. [181](#img_37100.md) is a nondescript object above the ladder,
 corresponding in position to what Minervini calls a flame. Now, as in
 the Ashmolean plaque there is an undoubted torch, we think that in both
 moulds a torch with flame turned to the left comes next the ladder, and
 that it represents Vesta; so asserts Minervini. On the lamp we see the
 torch most distinctly. Next comes a scabbard, which Jahn took for the
 torch. It is very plain, and shows the ring by which it is attached to
-the belt (*balteo*) on Fig. [183](#img_37300). This
+the belt (*balteo*) on Fig. [183](#img_37300.md). This
 
 <span id="page_380">p. 380</span>
 
@@ -1074,12 +1074,12 @@ on the Barone lamp. The trident of Neptune is on all the moulds, but on
 the lamp he is represented by a dolphin.
 
 Next is the club of Hercules, followed by an object which is not easily
-explained. On Figs. [181](#img_37100), [183](#img_37300), between the
+explained. On Figs. [181](#img_37100), [183](#img_37300.md), between the
 caduceus and trident, there is in each what Minervini says
 unhesitatingly is a knife in the latter; and if this be so, it is
 doubtless a knife in the other. In the B.M. tablet (Fig.
-[181](#img_37100)) is a large double object next the trident. We believe
-this to represent the two separated objects in Fig. [183](#img_37300),
+[181](#img_37100).md) is a large double object next the trident. We believe
+this to represent the two separated objects in Fig. [183](#img_37300.md),
 which are the club and possibly, as suggested by Minervini, a distaff
 simply, or a distaff filled with wool (*conocchia o pennecchio*).
 Against this, however, his own argument respecting another of the
@@ -1091,9 +1091,9 @@ upright objects found on all three
 <span id="page_381">p. 381</span>
 
 of our plaques represent three distaffs, and also that another object on
-his (Fig. [182](#img_37200)), near the ladder, is a large distaff, it is
+his (Fig. [182](#img_37200).md), near the ladder, is a large distaff, it is
 very difficult to reconcile authorities. <span
-id="fr_636"></span>[605b](#fn_636) The three objects referred to have
+id="fr_636"></span>[605b](#fn_636.md) The three objects referred to have
 every appearance in Mr. Evans's cast of being rather three spools or
 bobbins, for the winding of the thread is distinct upon them, and
 therefore I should say they represent the three Fates. But I can offer
@@ -1106,12 +1106,12 @@ here again he is inconsistent with his own dictum. He says he cannot
 attempt to explain the obscure article near (*i.e.* below) the *telajo*
 (loom) of Ceres. Whatever this may be, there is the same nondescript at
 the foot of the ladder in all three plaques. Jahn calls this a shell,
-but in his mould (Fig. [181](#img_37100)) it appears more like an acorn.
+but in his mould (Fig. [181](#img_37100).md) it appears more like an acorn.
 I would suggest rather that in each case this object is meant for a
 pine-cone; the same symbol is found upon the lamp and on the hand, Figs.
-[156, 157](tee13.htm#img_31800). Minervini believes the object called a
-fig-leaf by Jahn, close to the lyre (Fig. [181](#img_37100)), to be the
-same as that on Fig. [183](#img_37300), between the tongs and the moon.
+[156, 157](tee13.htm#img_31800.md). Minervini believes the object called a
+fig-leaf by Jahn, close to the lyre (Fig. [181](#img_37100).md), to be the
+same as that on Fig. [183](#img_37300.md), between the tongs and the moon.
 This he thinks to be a bunch of grapes for Dionysos--a bunch of grapes
 certainly
 
@@ -1127,14 +1127,14 @@ He says this is proved by the adoption in some rites of three lumps
 (*grani*) of incense. This, to the present writer, seems far fetched.
 
 The three discs near the trident are very evident in Figs.
-[181](#img_37100)-[183](#img_37300); and in Mr Evans's cast from Fig.
-[182](#img_37200), the object at the top of the caduceus is very
+[181](#img_37100)-[183](#img_37300.md); and in Mr Evans's cast from Fig.
+[182](#img_37200.md), the object at the top of the caduceus is very
 unmistakably intended also for them though obscure on the mould. They
 represent the three sacrificial loaves doubtless the same as are on the
-hand, Fig. [156](tee13.htm#img_31800). It is a coincidence to be noted
-that upon the table spread by Abraham (Fig. [116](tee11.htm#img_26800))
+hand, Fig. [156](tee13.htm#img_31800.md). It is a coincidence to be noted
+that upon the table spread by Abraham (Fig. [116](tee11.htm#img_26800).md)
 we see the same number of round cakes, each, too, marked with a cross.
-Near the lyre on Fig. [183](#img_37300) is a bird, which Minervini says
+Near the lyre on Fig. [183](#img_37300.md) is a bird, which Minervini says
 is certainly the Iynx, or dove of Venus. A bird also appears plainly on
 the Oxford cast, and also on the lamp.
 
@@ -1144,9 +1144,9 @@ by a head over an anvil, but that this is a modern restoration! It is
 certainly very indistinct, and the head may be a creation of Jahn's
 draughtsman; but on the other hand there is a head upon the lamp, and
 also we find a head upon the Isiac tablet from Pignorius (Fig.
-[185](#img_38300)). It has been suggested that one of the obscure
+[185](#img_38300).md). It has been suggested that one of the obscure
 objects on the Ashmolean mould may represent a head. Minervini believes
-that the head in Fig. [181](#img_37100) is really an owl, and the anvil
+that the head in Fig. [181](#img_37100.md) is really an owl, and the anvil
 its tail.
 
 <span id="page_383">p. 383</span>
@@ -1161,7 +1161,7 @@ do not know what it is. On comparing them together no candid reader
 
 <span id="img_38300"></span> <span align="CENTER"> [![FIG.
 185.](tn/38300.jpg)  
-Click to enlarge](img/38300.jpg)  
+Click to enlarge](img/38300.jpg.md)  
 FIG. 185.  
 </span>
 
@@ -1185,18 +1185,18 @@ her right she holds a patera, which she is presenting to a serpent
 twined round an altar of offerings. At the top is a beardless head,
 enclosed in an ornament like a crescent. Beneath the crescent is a
 wheel-like object mounted on something unknown, but the whole strikingly
-suggestive of the Ashantee crescents (Fig. [88](tee08.htm#img_21500));
+suggestive of the Ashantee crescents (Fig. [88](tee08.htm#img_21500).md);
 and we may fairly explain the whole as the sun and moon. We see also the
-eagle; the Dolphin; <span id="fr_637"></span>[606](#fn_637) the
+eagle; the Dolphin; <span id="fr_637"></span>[606](#fn_637.md) the
 scabbard, or, as Minervini calls it, the quiver; the club; the sistrum
 of Isis; the lyre; the tongs (these are no shears); the caduceus; the
 thyrsus of Bacchus, having the pine-cone at the top; the cymbals of
 Cybele, Bacchus, and Juno, suspended to the "pomegranates of
 Proserpine," and near them the ear of corn of Ceres. There is a second
 serpent, Agathodemon, often seen in connection with Fortuna, <span
-id="fr_638"></span>[607](#fn_638) which is climbing up behind and
+id="fr_638"></span>[607](#fn_638.md) which is climbing up behind and
 looking over her shoulder, much in the same position as that on the hand
-(Fig. [157](tee13.htm#img_31800)), whereon again two serpents are
+(Fig. [157](tee13.htm#img_31800).md), whereon again two serpents are
 represented.
 
 Presuming that the illustrations, here brought together for the first
@@ -1223,11 +1223,11 @@ indistinct. After disputing several contentions of Minervini, he points
 out that in every case there is an umbilicus, round which the symbols
 are placed. In this last belief the writer fully agrees with him; at the
 same time it is evident Heydemann is not a careful observer, for he
-asserts that the plaque of Sir W. Temple (Fig. [181](#img_37100)) and
-that of Mongelli at Naples (Fig. [183](#img_37300)) are certainly from
+asserts that the plaque of Sir W. Temple (Fig. [181](#img_37100).md) and
+that of Mongelli at Naples (Fig. [183](#img_37300).md) are certainly from
 the same model. It has been stated that the Berlin terra cotta
 (published in the *Gazette Archéologique*) in general arrangement
-resembles that at Oxford (Fig. [182](tee11.htm#img_27300)), but in
+resembles that at Oxford (Fig. [182](tee11.htm#img_27300).md), but in
 addition there is a border with a pattern like that on the Barone lamp.
 Moreover, this lamp is of almost the exact size of all the known
 terracotta moulds of this sort, while of course the figures
@@ -1238,17 +1238,17 @@ upon the Barone and all other lamps are raised by having been shaped in
 a concave mould. Looking then at the great demand there must have been
 for lamps of all kinds, and at the peculiar and exactly similar shapes
 of these moulds found in various places to that of the lamp, Fig.
-[184](#img_37800); looking also to the fact that lamps so frequently
+[184](#img_37800.md); looking also to the fact that lamps so frequently
 bore objects upon them which were obviously intended as amulets; we have
 little hesitation in setting aside all the other theories advanced, and
 maintaining that these were the moulds with which the potter shaped the
-top of the peculiar flat-shaped lamp shown on Fig. [184](#img_37800). In
+top of the peculiar flat-shaped lamp shown on Fig. [184](#img_37800.md). In
 the specimen we have, there is a round hole just below Fortuna's arm, to
 pour in the oil. In forming a lamp from the other moulds, the maker
 would cut a round hole in the soft clay just in the centre, at the spot
 where in each mould there is left a suitable umbilicus. There is no
 evidence whatever that the sacrificial cakes bore any such devices as
-are upon these plaques. [Moreover](errata.htm#1), the symbols are so
+are upon these plaques. [Moreover](errata.htm#1.md), the symbols are so
 small that in a material like dough they would have simply appeared as
 shapeless, meaningless excrescences, whereas the plaster cast at Oxford
 shows that in a fine material like terra cotta each symbol comes out in
@@ -1282,46 +1282,46 @@ the very same objects often alongside them in more costly silver.
 
 Somewhat allied to the remarkable terra-cotta plates we have been
 discussing is the curious tablet illustrated in Pignorius, <span
-id="fr_639"></span>[608](#fn_639) of which Fig. [185](#img_38300) is a
+id="fr_639"></span>[608](#fn_639) of which Fig. [185](#img_38300.md) is a
 copy. Many of the objects drawn upon it are very obscure, yet amongst
 them are some we recognise as old acquaintances; and there can be little
 doubt of the whole being a protective amulet against the evil eye, and
 that it is a veritable Mensa Isiaca. The head probably represents a
 skull, or possibly it may be the same person as the bust in Fig.
-[181](#img_37100). Over it is the mystic eye. The triangle, whether with
+[181](#img_37100.md). Over it is the mystic eye. The triangle, whether with
 base or apex downward, is a well-
 
 <span id="page_388">p. 388</span>
 
 known phallic symbol. Both occur upon this plate. The typical hoe or
 plough shown upon Egyptian *ushebtiu* (Figs. [1,
-2](tee04.htm#img_05000)) and in the hands of Isis, Fig.
-[172](#img_36000), with more than one *crux ansata*, and two arms with
+2](tee04.htm#img_05000).md) and in the hands of Isis, Fig.
+[172](#img_36000.md), with more than one *crux ansata*, and two arms with
 hands palm tip, are all very plain.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_590"></span>[343:566](tee14.htm#fr_590) These remarks apply
+<span id="fn_590"></span>[343:566](tee14.htm#fr_590.md) These remarks apply
 equally to the *Mano Pantea*, respecting which there is a hiatus of
 eighteen or twenty centuries between the hands herein described and the
 present day.
 
-<span id="fn_591"></span>[343:566a](tee14.htm#fr_591) See [Fig.
-81](tee08.htm#img_20300), p. 203.
+<span id="fn_591"></span>[343:566a](tee14.htm#fr_591.md) See [Fig.
+81](tee08.htm#img_20300.md), p. 203.
 
-<span id="fn_592"></span>[344:566b](tee14.htm#fr_592) The Cimaruta,
+<span id="fn_592"></span>[344:566b](tee14.htm#fr_592.md) The Cimaruta,
 being always of silver, has probably when worn out been treated as
 bullion, and if so its absence is accounted for.
 
-<span id="fn_593"></span>[345:567](tee14.htm#fr_593) *Naples in 1888*,
+<span id="fn_593"></span>[345:567](tee14.htm#fr_593.md) *Naples in 1888*,
 p. 116.
 
-<span id="fn_594"></span>[346:568](tee14.htm#fr_594) Pliny, *Nat. Hist.*
+<span id="fn_594"></span>[346:568](tee14.htm#fr_594.md) Pliny, *Nat. Hist.*
 xix. 45 (Bohn, vol. iv. pp. 192, 252, 256).
 
-<span id="fn_595"></span>[346:569](tee14.htm#fr_595)
+<span id="fn_595"></span>[346:569](tee14.htm#fr_595.md)
 
   Molto men, che l' erba ruta  
   O l' ortic' acut' acuta  
@@ -1336,7 +1336,7 @@ rue, but I have found no good in it. I have read in the *Trino Magico*
 that he who keeps the ortica along with the millefoil is secure against
 incantation, I know nothing of it."
 
-<span id="fn_596"></span>[347:570](tee14.htm#fr_596) There are various
+<span id="fn_596"></span>[347:570](tee14.htm#fr_596.md) There are various
 opinions as to the reason for calling it the "herb of grace." One is
 apparently formed upon Shakespeare's use of the word in *Hamlet* (Act
 iv. Sc. 5): "We may call it herb-grace o' Sundays"; that "it was used on
@@ -1360,11 +1360,11 @@ holy water was sprinkled with it," are equally unsatisfactory; and until
 something better is found by Dr. Murray for the *N.E.D.* we must leave
 the question amongst our *insoluta*.
 
-<span id="fn_597"></span>[347:571](tee14.htm#fr_597) "Rutam fascini
+<span id="fn_597"></span>[347:571](tee14.htm#fr_597.md) "Rutam fascini
 amuletum esse tradit Aristoteles."--Wierus, *De Præstigiis Dæmonum*,
 lib. v. cap. xxi. col. 584.
 
-<span id="fn_598"></span>[348:572](tee14.htm#fr_598)
+<span id="fn_598"></span>[348:572](tee14.htm#fr_598.md)
 
 "Montium custos nemorumque, virgo,  
 Quæ laborantes utero puellas  
@@ -1375,8 +1375,8 @@ Potter).
 
  
 
-<span id="fn_599"></span>[348:573](tee14.htm#fr_599) Potter, ii. 317.
-[Fig. 163](#img_34900) of Diana Triformis is from Jahn, p. 87. Apart
+<span id="fn_599"></span>[348:573](tee14.htm#fr_599.md) Potter, ii. 317.
+[Fig. 163](#img_34900.md) of Diana Triformis is from Jahn, p. 87. Apart
 from its illustrating the same idea that we see so constantly carried
 out in Indian statues--several heads and arms upon one body--it shows a
 quaint custom of ancient Rome, where, as the inscriptions show, they
@@ -1386,16 +1386,16 @@ notices in London or Paris. Besides the inscription on the base of the
 panel here shown, Juvenal records another: "Ad cujus effigiem non tantum
 meiere fas est." The Romans appealed to religion to enforce sanitation.
 
-<span id="fn_600"></span>[349:574](tee14.htm#fr_600) Montfaucon, vol. i.
+<span id="fn_600"></span>[349:574](tee14.htm#fr_600.md) Montfaucon, vol. i.
 p. 92.
 
-<span id="fn_601"></span>[350:575](tee14.htm#fr_601) Montfaucon, vol. i.
+<span id="fn_601"></span>[350:575](tee14.htm#fr_601.md) Montfaucon, vol. i.
 p. 94.
 
-<span id="fn_602"></span>[350:576](tee14.htm#fr_602) Horace, *Carmen
+<span id="fn_602"></span>[350:576](tee14.htm#fr_602.md) Horace, *Carmen
 Sæculare*, l. 15.
 
-<span id="fn_603"></span>[350:577](tee14.htm#fr_603) In the confusion of
+<span id="fn_603"></span>[350:577](tee14.htm#fr_603.md) In the confusion of
 the various deities, many of the most opposite qualities have been
 ascribed to one and the same personality, until all individuality may be
 said to have been completely lost. We read (*Symbolica Dianæ Ephesiæ*,
@@ -1411,16 +1411,16 @@ the name of Trivia, by reason of the power she had over all ways"
 (Montfaucon, vol. i. p. 16). This view would give another explanation to
 the three diverging branches of the Cimaruta.
 
-<span id="fn_604"></span>[350:578](tee14.htm#fr_604) Acts xix. 24. We
+<span id="fn_604"></span>[350:578](tee14.htm#fr_604.md) Acts xix. 24. We
 may note *en passant* that the passage translated <span id="page_351">p.
 351</span> (ver. 35) "image which fell down from Jupiter," is in
 Wiclif's and the Rheims versions "child of Jupiter."
 
-<span id="fn_605"></span>[351:579](tee14.htm#fr_605) Upon Diana in her
+<span id="fn_605"></span>[351:579](tee14.htm#fr_605.md) Upon Diana in her
 Moon character, see Lobeck, *Aglaophamus*, pp. 72, 1062.
 
-<span id="fn_606"></span>[351:580](tee14.htm#fr_606) The amulet ([Fig.
-164](#img_35100)) here produced is a late example of the classic
+<span id="fn_606"></span>[351:580](tee14.htm#fr_606.md) The amulet ([Fig.
+164](#img_35100).md) here produced is a late example of the classic
 fascinum. It is from Pignorius (*Vetustissimæ Tabulæ Æneæ*, Venetiis,
 1605, p. 16 *in dorso*).
 
@@ -1429,7 +1429,7 @@ res turpicula, Fascinus videlicet, quem infantium custodem appellas
 Plinius, hujus amuleti speciem ex ære, lapide lazuli, corallo, et
 chrystallo; hic damus in gratiam eruditi lectoris."
 
-<span id="fn_607"></span>[351:581](tee14.htm#fr_607) Besides being
+<span id="fn_607"></span>[351:581](tee14.htm#fr_607.md) Besides being
 associated with Diana, the serpent was an attribute of another goddess.
 Minerva or Athena is represented as accompanied by a serpent. "The Tower
 of Athens, which was guarded by a serpent . . . this serpent which
@@ -1443,37 +1443,37 @@ is represented as sitting on a rock with a serpent coiled in her lap,
 <span id="page_352">p. 352</span> opening its mouth to seize a pot of
 ointment in her left hand (Montfaucon, Vol. i. p. 181).
 
-<span id="fn_608"></span>[352:582](tee14.htm#fr_608) Payne Knight,
+<span id="fn_608"></span>[352:582](tee14.htm#fr_608.md) Payne Knight,
 *Symb. Lang.* p. 30.
 
-<span id="fn_609"></span>[352:583](tee14.htm#fr_609) Montfaucon, vol. i.
+<span id="fn_609"></span>[352:583](tee14.htm#fr_609.md) Montfaucon, vol. i.
 p. 94.
 
-<span id="fn_610"></span>[352:584](tee14.htm#fr_610) Diana, in her
+<span id="fn_610"></span>[352:584](tee14.htm#fr_610.md) Diana, in her
 alternative name Jana, presided over the doors and thresholds of all
 houses. "Nigidius assures us that Apollo is Janus, and Diana, Jana; and
 that the key is their proper attribute" (Montfaucon, Vol. i. p. 16). In
 one of her three forms she holds a key in her hand.
 
-<span id="fn_611"></span>[353:585](tee14.htm#fr_611) Rolfe, *Naples in
+<span id="fn_611"></span>[353:585](tee14.htm#fr_611.md) Rolfe, *Naples in
 1888*, p. 118.
 
-<span id="fn_612"></span>[353:585a](tee14.htm#fr_612) *Handbook of
+<span id="fn_612"></span>[353:585a](tee14.htm#fr_612.md) *Handbook of
 Gems*, p. 95.
 
-<span id="fn_613"></span>[353:586](tee14.htm#fr_613) Wilkinson, *Anc.
+<span id="fn_613"></span>[353:586](tee14.htm#fr_613.md) Wilkinson, *Anc.
 Egypt.* vol. iii. p. 320.
 
-<span id="fn_614"></span>[353:587](tee14.htm#fr_614) It is the general
+<span id="fn_614"></span>[353:587](tee14.htm#fr_614.md) It is the general
 opinion that the Sun, Serapis, Mithras, Dis, Typhon, <span
 id="page_354">p. 354</span> Attis, Ammon, and Adonis were one and the
 same god (Montfaucon, Vol. i. p. 10). To these we must certainly add the
 Gnostic god Abraxas, and hence the cock may symbolise any one of them.
 
-<span id="fn_615"></span>[354:588](tee14.htm#fr_615) *Nat. Hist.* viii.
+<span id="fn_615"></span>[354:588](tee14.htm#fr_615.md) *Nat. Hist.* viii.
 20 (Vol. ii. p. 269, Bohn).See also *Ib*. p. 496.
 
-<span id="fn_616"></span>[355:589](tee14.htm#fr_616) In addition to Isis
+<span id="fn_616"></span>[355:589](tee14.htm#fr_616.md) In addition to Isis
 and her descendants, the lotus is sacred to Lateshmi, who, as the
 partner of Vishnu, is the goddess of prosperity, or the Indian
 Abundantia. The flower in Egyptian mythology was also sacred to Horns,
@@ -1484,16 +1484,16 @@ The lotus was also the symbol of the Roman Ceres, the corn goddess, the
 type of plenty. Lotus-seeds were mixed along with wheat-ears in the
 cornucopia of Amalthea, the she-goat, the very emblem of abundance.
 
-<span id="fn_617"></span>[355:589a](tee14.htm#fr_617) Probably there are
+<span id="fn_617"></span>[355:589a](tee14.htm#fr_617.md) Probably there are
 other charms to be found in specimens not seen by the writer. It is,
 however, curious that those recognised should be precisely thirteen in
 number--an undesigned coincidence, but naturally connecting itself with
 the number, on which we remark in Chap. XI.
 
-<span id="fn_618"></span>[358:590](tee14.htm#fr_618) Montfaucon, vol. i.
+<span id="fn_618"></span>[358:590](tee14.htm#fr_618.md) Montfaucon, vol. i.
 p. 245.
 
-<span id="fn_619"></span>[358:591](tee14.htm#fr_619) Les Sirènes, ou
+<span id="fn_619"></span>[358:591](tee14.htm#fr_619.md) Les Sirènes, ou
 Discours sur leurs forme et figure, Paris, 1691, p. 65. "Anciennes
 médailles, qui sont les monuments les plus sûrs et les moins suspects"
 (*Ib*. p. 60). "On y remarque, outre les aîles, les pieds et les jambes
@@ -1501,7 +1501,7 @@ d'un Cocq attribuez aux Sirènes par la plûpart des anciens auteurs,
 quoique d'autres disent que les Sirènes avoient la partie inférieure de
 Passereaux" (*Ib*. p. 66).
 
-<span id="fn_620"></span>[359:592](tee14.htm#fr_620) As to the mere word
+<span id="fn_620"></span>[359:592](tee14.htm#fr_620.md) As to the mere word
 Siren, the meaning is not of much consequence, for women's long,
 trailing skirts were formerly called Sirens. A horrible, discordant
 instrument giving a warning hoot from a lightship is called a Siren. The
@@ -1509,29 +1509,29 @@ frog amulet in Naples is called a Siren: "Nos toiles de soie . . . si
 fines et si diaphanes, q'à peine les voyoit-on sur le nud, sont
 appellées Syrènes par Hesychius" (*Les Sirènes*, Paris, 1691, p. 48).
 
-<span id="fn_621"></span>[359:593](tee14.htm#fr_621) In *Tabula Bembina
+<span id="fn_621"></span>[359:593](tee14.htm#fr_621.md) In *Tabula Bembina
 sive Mensa Isiaca*, by Dr. W. Wynn Westcott, <span id="page_360">p.
 360</span> 1887, is the same bird with woman's face as the attribute of
 Isis herself--not of Hathor as in Fig. 171.
 
-<span id="fn_622"></span>[365:594](tee14.htm#fr_622) *Symbolica Dianæ
+<span id="fn_622"></span>[365:594](tee14.htm#fr_622.md) *Symbolica Dianæ
 Ephesiæ*. Romae: Typis Mascardi, 1657, p. 25. Kindly lent by a friend.
 
-<span id="fn_623"></span>[365:595](tee14.htm#fr_623) One would like to
+<span id="fn_623"></span>[365:595](tee14.htm#fr_623.md) One would like to
 know if the little groups of similar figures in blue enamel in the
 British Museum from Sardinia, or the like in the Ashmolean, and
 elsewhere, from Egypt, can be in any way connected with those on the
 Diana statues.
 
-<span id="fn_624"></span>[366:596](tee14.htm#fr_624) Symbolica Dianæ,
+<span id="fn_624"></span>[366:596](tee14.htm#fr_624.md) Symbolica Dianæ,
 pp. 20, 21.
 
-<span id="fn_625"></span>[367:597](tee14.htm#fr_625) A similar female
+<span id="fn_625"></span>[367:597](tee14.htm#fr_625.md) A similar female
 figure, ending in two fishes' tails and with the forequarters of two
-dogs of precisely the same character as those on [Fig. 179](#img_36700),
+dogs of precisely the same character as those on [Fig. 179](#img_36700.md),
 is in *Bull. Arch. Nap.* An. VII. Tav. II.
 
-<span id="fn_626"></span>[368:598](tee14.htm#fr_626) The god Fascinus
+<span id="fn_626"></span>[368:598](tee14.htm#fr_626.md) The god Fascinus
 "was identical with Mutinus or Tutinus, and was worshipped under the
 form of a phallus. . . . As the guardian of infants, his peculiar form
 is still unconsciously represented in the shape of the coral bauble with
@@ -1542,22 +1542,22 @@ Pliny says: "Branches of coral hung at the necks of infants are thought
 to act as a preservative against danger" (*Nat. Hist.* xxxii. ii. vol.
 vi. p. 12, Bohn).
 
-<span id="fn_627"></span>[369:599](tee14.htm#fr_627) Daremberg et
+<span id="fn_627"></span>[369:599](tee14.htm#fr_627.md) Daremberg et
 Saglio, p. 258.
 
-<span id="fn_628"></span>[369:600](tee14.htm#fr_628) From King's
+<span id="fn_628"></span>[369:600](tee14.htm#fr_628.md) From King's
 *Gnostics*, p. 205, Many similar figures are given in Abraxas.
 
-<span id="fn_629"></span>[370:601](tee14.htm#fr_629) *Symbolica Diana*,
+<span id="fn_629"></span>[370:601](tee14.htm#fr_629.md) *Symbolica Diana*,
 pp. 38, 39.
 
-<span id="fn_630"></span>[370:602](tee14.htm#fr_630) King, *Gnostics*,
+<span id="fn_630"></span>[370:602](tee14.htm#fr_630.md) King, *Gnostics*,
 p. 35.
 
-<span id="fn_631"></span>[370:603](tee14.htm#fr_631) *Symb. Dian.* pp.
+<span id="fn_631"></span>[370:603](tee14.htm#fr_631.md) *Symb. Dian.* pp.
 44, 45.
 
-<span id="fn_632"></span>[370:604](tee14.htm#fr_632) Claudianus also
+<span id="fn_632"></span>[370:604](tee14.htm#fr_632.md) Claudianus also
 sang (*Symb. Dian.* p. 47)--
 
                      "qualis Cybeleia quassans  
@@ -1565,38 +1565,38 @@ Hyblæus procul æra senex, revocare fugaces
 Tinnitu conatur Apes."
 
 The bee will be seen upon the Mano Pantea ([Fig.
-157](tee13.htm#img_31800)), and upon the gems, Figs.
-[17](tee06.htm#img_13001), [28](tee06.htm#img_14400), as well as on
-Diana, [Fig. 69](tee08.htm#img_18800).
+157](tee13.htm#img_31800).md), and upon the gems, Figs.
+[17](tee06.htm#img_13001), [28](tee06.htm#img_14400.md), as well as on
+Diana, [Fig. 69](tee08.htm#img_18800.md).
 
-<span id="fn_633"></span>[374:604a](tee14.htm#fr_633) *Recent
+<span id="fn_633"></span>[374:604a](tee14.htm#fr_633.md) *Recent
 Discoveries of Tarentine Terra Cottas*, p. 45 (from *Journ. of Hellenic
 Studies*, 1886).
 
-<span id="fn_634"></span>[375:605](tee14.htm#fr_634) King, *Gnostics*,
+<span id="fn_634"></span>[375:605](tee14.htm#fr_634.md) King, *Gnostics*,
 p. 208.
 
-<span id="fn_635"></span>[375:605a](tee14.htm#fr_635) A. J. Evans, *op.
+<span id="fn_635"></span>[375:605a](tee14.htm#fr_635.md) A. J. Evans, *op.
 cit.* p. 46.
 
-<span id="fn_636"></span>[381:605b](tee14.htm#fr_636) Minervini's
+<span id="fn_636"></span>[381:605b](tee14.htm#fr_636.md) Minervini's
 opinion is not supported by evidence. We see on the Mano Pantea and on
 the Cimaruta the same deity typified by two different symbols. Moreover,
-on the gem, Fig. [17](tee06.htm#img_13001), the same symbol, the bee, is
+on the gem, Fig. [17](tee06.htm#img_13001.md), the same symbol, the bee, is
 repeated twice over. Again, on the week-day gem (Fig.
-[19](tee06.htm#img_13100)) every one of the symbols may be construed to
+[19](tee06.htm#img_13100).md) every one of the symbols may be construed to
 represent one or other of two deities only. See also the sacred *baris*
-(Fig. [180](#img_36900)), and Diana (Fig. [69](tee08.htm#img_18800)).
+(Fig. [180](#img_36900)), and Diana (Fig. [69](tee08.htm#img_18800).md).
 
-<span id="fn_637"></span>[384:606](tee14.htm#fr_637) On the dolphin as a
+<span id="fn_637"></span>[384:606](tee14.htm#fr_637.md) On the dolphin as a
 symbol of Neptune see Müller, *Handbuch*, § 398, p. 645, Ed. Welcher.
 
-<span id="fn_638"></span>[384:607](tee14.htm#fr_638) On this see
+<span id="fn_638"></span>[384:607](tee14.htm#fr_638.md) On this see
 Gerhard, *Agathodæmon und Bona Dea*, p. 18 sq.
 
-<span id="fn_639"></span>[387:608](tee14.htm#fr_639) See also Inman,
+<span id="fn_639"></span>[387:608](tee14.htm#fr_639.md) See also Inman,
 *Anc. Faiths*, vol. i. p. 108.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Cabalistic Writing--Magical Formulæ](tee15)
+[Next: Chapter XI. Cabalistic Writing--Magical Formulæ](tee15.md)

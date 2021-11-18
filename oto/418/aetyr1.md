@@ -1,9 +1,9 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
-# **The Cry of the 1st Aethyr, Which is Called LIL**[**1**](#1)
+# **The Cry of the 1st Aethyr, Which is Called LIL**[**1**](#1.md)
 
 First, let praise and worship and honour and glory and great thank be
 given unto the Holy One, who hath permitted us to come thus far, who
@@ -12,7 +12,7 @@ disclosed before men. And we humbly beseech His infinite goodness that
 he will be pleased to manifest unto us even the Mystery of the First
 Aethyr.
 
-(Here followeth the Call of the Aethyr.)[**2**](#2)
+(Here followeth the Call of the Aethyr.)[**2**](#2.md)
 
 The veil of the Aethyr is like the veil of night, dark azure, full of
 countless stars. And because the veil is infinite, at first one seeth
@@ -23,7 +23,7 @@ beyond being.)
 
 (*Note*. --- In Hebrew letters it adds to 26. In Hebrew letters the name
 of the Aethyr is 70, ayin; but by turning the Yetziratic attributions of
-the letters into Hebrew, it gives 66[**3**](#3), is the sum of the
+the letters into Hebrew, it gives 66[**3**](#3.md), is the sum of the
 numbers from 0 to 11.)
 
 Yes; there is peace. There is no *tendency* of any sort, much less any
@@ -52,7 +52,7 @@ countless myriads of Archangels. The Archangels are all the same
 colourless brilliance, and every one of them is blind. Below the
 Archangels again are many, many other legions, and so on far below, so
 far that the eye cannot pierce. And on his forehead, and on his heart,
-and in his hand, is the secret sigil of the Beast.[**4**](#4) And of all
+and in his hand, is the secret sigil of the Beast.[**4**](#4.md) And of all
 this the glory is so great that all the spiritual senses fail, and their
 reflections in the body fail.
 
@@ -60,7 +60,7 @@ It is very strange. In my heart is rapture, holy and ineffable,
 absolutely beyond emotion; beyond even that bliss called Ananda,
 infinitely calm and pure. Yet at the gates of mine eyes stand tears,
 like warriors upon the watch, that lean on their spears,
-listening[**5**](#5).
+listening[**5**](#5.md).
 
 The great and terrible Angel keeps on looking at me, as if to bar me
 from the vision. There is another forcing my head down in sleep.
@@ -72,7 +72,7 @@ idea of time.)
 I have gone up again to the child, led by two Angels, abasing my head.
 
 This child seems to be the child that one attempted to describe in "The
-Garden of Janus".[**6**](#6)
+Garden of Janus".[**6**](#6.md)
 
 Every volition is inhibited. I have tried to say a lot, but it has
 always got lost on the way.
@@ -161,7 +161,7 @@ of the King my son. And thou must work by the light of the Star and of
 the Moon and of the Sun, and by the dreadful light of judgment that is
 the birth of the Holy Spirit within thee. When these shall have
 destroyed the universe, then mayest thou enter the palace of the Queen
-my daughter[**7**](#7).
+my daughter[**7**](#7.md).
 
 Blessed, blessed, blessed; yea, blessed; thrice and four times blessed
 is he that hath attained to look upon thy face. For I will hurl thee
@@ -180,7 +180,7 @@ their feet, as they pass upon the mystical way that lieth through the
 pylons. And upon their breasts shall be the Rose and Cross of light and
 life, and in their hands the hermit's staff and lamp. Thus shall they
 set out upon the never-ending journey, each step of which is an
-unutterable reward[**8**](#8).
+unutterable reward[**8**](#8.md).
 
 Holy, Holy, Holy, Holy; yea, thrice and four times holy art thou,
 because thou hast attained to look upon my face; not by my favour only,
@@ -193,7 +193,7 @@ raise not so much as thy little finger against him. And he that speaketh
 evil against thee shall be put to shame, though thy lips utter not the
 littlest syllable against him. And he that thinketh evil concerning thee
 shall be confounded in his thought, although in thy mind arise not the
-least thought of him[**9**](#9). And they shall be brought unto
+least thought of him[**9**](#9.md). And they shall be brought unto
 subjection unto thee, and serve thee, though thou willest it not. And it
 shall be unto them a grace and a sacrament, and ye shall all sit down
 together at the supernal banquet, and ye shall feast upon the honey of
@@ -256,4 +256,4 @@ December 19, 1909. 1:30 - 3:30 p.m.
 
 ------------------------------------------------------------------------
 
-> [**Back to Liber 418**](418)
+> [**Back to Liber 418**](418.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma22)  [Next](sma24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma22)  [Next](sma24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ ever on the coast of Syria, and have described, at some length, its
 internal organisation, and exhibited its power and extent of
 possessions. It remains for us to tell how this mighty order was
 suddenly annihilated, to examine the charges made against it <span
-id="fr_93"></span>[\*](#fn_93), and, as we have promised, to establish
+id="fr_93"></span>[\*](#fn_93.md), and, as we have promised, to establish
 the falsehood and futility of them--a task far from ungrateful, though
 not unattended with pain; for it is of advantage to strengthen our love
 of justice and hatred of tyranny and oppression, by vindicating the
@@ -179,7 +179,7 @@ and expelled them, and released the pontiff. Boniface returned to Rome;
 but rage at the humiliation which he had undergone deranged his
 intellect, and in one of his paroxysms he dashed his head against the
 wall of his chamber, and died in consequence of the injury which he
-received <span id="fr_94"></span>[\*](#fn_94).
+received <span id="fr_94"></span>[\*](#fn_94.md).
 
 Benedict XI., the successor of Boniface, absolved Philip, and his
 ministers and subjects, from the sentence of excommunication. As he felt
@@ -342,7 +342,7 @@ Templars.
 
 There was lying in prison, at Paris or Toulouse, for some crime, a man
 named Squin de Flexian, a native of Beziers, who had been formerly a
-Templar, and prior of [Montfaucon](errata.htm#20), but had been put out
+Templar, and prior of [Montfaucon](errata.htm#20.md), but had been put out
 of the order for heresy and other offences. His companion in captivity
 was a Florentine, named Noffo Dei--"a man (says Villani) full of all
 iniquity." These two began to plan how they might best extricate
@@ -514,7 +514,7 @@ Similar orders were forwarded to Scotland, Wales, and Ireland, on the
 assure the pope that his mandates would be speedily obeyed. The arrests
 took place accordingly; and the Templars and their property were thus
 seized in the two countries in which they were most powerful <span
-id="fr_95"></span>[\*](#fn_95).
+id="fr_95"></span>[\*](#fn_95.md).
 
 The reluctance of the king of England and his parliament to proceed to
 any harsh measures against the Templars affords some presumption in
@@ -543,20 +543,20 @@ with the formidable word *heresy*.
 
 ### Footnotes
 
-<span id="fn_93"></span>[276:\*](sma23.htm#fr_93) The proceedings
+<span id="fn_93"></span>[276:\*](sma23.htm#fr_93.md) The proceedings
 against the Templars have been published from the original documents by
 Mowdenhaler, in Germany; but the work has been bought up by the
 freemasons, who fancy themselves descended from the Templars, so that we
 have been unable to procure a copy of it. Wilike has, however, extracted
 largely from it.
 
-<span id="fn_94"></span>[281:\*](sma23.htm#fr_94) Sismondi Républiques
+<span id="fn_94"></span>[281:\*](sma23.htm#fr_94.md) Sismondi Républiques
 Italiennes, iv. p. 143.
 
-<span id="fn_95"></span>[291:\*](sma23.htm#fr_95) The arrests were made
+<span id="fn_95"></span>[291:\*](sma23.htm#fr_95.md) The arrests were made
 in England in the same secret and sudden manner as in France. Rymer iii.
 34, 43.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](sma24)
+[Next: Chapter X](sma24.md)

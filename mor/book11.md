@@ -1,8 +1,8 @@
-[Previous: 3 Nephi](book10)
+[Previous: 3 Nephi](book10.md)
 
-[Next: Mormon](book12)
+[Next: Mormon](book12.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -307,4 +307,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Mormon](book12)
+[Next: Mormon](book12.md)

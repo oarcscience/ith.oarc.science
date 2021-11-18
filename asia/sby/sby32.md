@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby31)  [Next](sby33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby31)  [Next](sby33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ meskino raba. Beda šade šada dina mize eik Allah melek šeih-sin Habib
 Allah maḳlub al-mergie ṣalaḥ maḳlub w-mergie al-jem's, ṣalaḥ Al-bani
 ma-ieh al-jem’sieh wal jot ḳuobaieh Kwa-šamsi Tauris wal-Fahra-Dinn,
 washeikho Pir. Kawata deira sor, hanpouteka deira chankulie wa-Kabri
-Zaman wa-ahro douni, Amin*." <span id="fr_163"></span>[4](#fn_162)
+Zaman wa-ahro douni, Amin*." <span id="fr_163"></span>[4](#fn_162.md)
 
 "How often two executioners came upon me as the morning sun arose. O
 poor man, stand up and bear witness! Witness for my religion. God is
@@ -58,8 +58,8 @@ Day."
 
 ### Footnotes
 
-<span id="fn_162"></span>[181:4](sby32.htm#fr_163) Ibid, p. 313.
+<span id="fn_162"></span>[181:4](sby32.htm#fr_163.md) Ibid, p. 313.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Sacerdotal Orders](sby33)
+[Next: III. The Sacerdotal Orders](sby33.md)

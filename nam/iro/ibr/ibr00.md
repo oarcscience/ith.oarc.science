@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Next](ibr01) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Next](ibr01.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Preface](ibr01)
+[Next: Preface](ibr01.md)

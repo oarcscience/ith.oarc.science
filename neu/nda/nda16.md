@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda15)  [Next](nda17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda15)  [Next](nda17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -115,7 +115,7 @@ surprise and admiration of all the modern literati.
 
 This book was written by Are Frode, under the title of Book of the
 Icelanders (Islendingabok) and contained a dry and condensed, but at the
-same time well arranged and [comprehensive](errata.htm#7), view of the
+same time well arranged and [comprehensive](errata.htm#7.md), view of the
 most important events in the history of the country. It has often been
 regretted, that a larger work by the same author has been lost. The
 former, with good reason, was highly prized, for it laid the foundation
@@ -257,7 +257,7 @@ still hung over the rest of Europe, narratives which had previously been
 transmitted by oral tradition were taken down with the pen, and the
 writing of books was commenced in Iceland. The following century was the
 golden age of Icelandic historical literature, for in that age lived
-Snorre Sturleson. <span id="fr_15"></span>[1](#fn_15) His mode of
+Snorre Sturleson. <span id="fr_15"></span>[1](#fn_15.md) His mode of
 writing history was to collect the Sagas that had been written before
 his time, to strike out whatever displeased him, make abstracts of what
 he considered too diffuse, and enliven the recital by the introduction
@@ -302,7 +302,7 @@ Sagas were still written. On the other hand copying was carried on with
 great industry, older Sagas were transcribed, the Landnamabok completed,
 and the Kristnisaga, or description of the introduction of Christianity
 into the country, was extracted from the older writings: the copious
-MSS. called Flatobogen, <span id="fr_16"></span>[1](#fn_16) still shews
+MSS. called Flatobogen, <span id="fr_16"></span>[1](#fn_16.md) still shews
 with what industry individual ecclesiastics
 
 <span id="page_184">p. 184</span>
@@ -314,7 +314,7 @@ this century.
 
 ### Footnotes
 
-<span id="fn_15"></span>[182:1](nda16.htm#fr_15) Son of the wealthy and
+<span id="fn_15"></span>[182:1](nda16.htm#fr_15.md) Son of the wealthy and
 powerful Chief Sturle Thordson, and Lagman or governor of Iceland in
 1213. "His countrymen," says an eloquent writer, love to compare him
 with the most celebrated of the Roman orators, to whom both in character
@@ -331,7 +331,7 @@ entitled to the highest place in the state. But his character was
 stained by avarice and ambition, and he is accused of having often
 failed to perform boldly what he had prudently contrived."
 
-<span id="fn_16"></span>[183:1](nda16.htm#fr_16) The book of Flat Island
+<span id="fn_16"></span>[183:1](nda16.htm#fr_16.md) The book of Flat Island
 (codex Flateyensis), so called from having been found in a monastery on
 the Island of Flato (Flat Island) situated north of the Brelda Fjord in
 Iceland. It is a vellum MS. containing copies of a number of Sagas,
@@ -340,4 +340,4 @@ Copenhagen.
 
 ------------------------------------------------------------------------
 
-[Next: Last Period](nda17)
+[Next: Last Period](nda17.md)

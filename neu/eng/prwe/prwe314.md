@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe313)  [Next](prwe315) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe313)  [Next](prwe315.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ captured at Rospeith, the name of a farm still existing in Ludgvan.
 
 ------------------------------------------------------------------------
 
-[Next: Churches Built in Performance of Vows](prwe315)
+[Next: Churches Built in Performance of Vows](prwe315.md)

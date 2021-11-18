@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog04)  [Next](bog06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog04)  [Next](bog06.md) 
 
 ------------------------------------------------------------------------
 
@@ -147,4 +147,4 @@ come.
 
 ------------------------------------------------------------------------
 
-[Next: II](bog06)
+[Next: II](bog06.md)

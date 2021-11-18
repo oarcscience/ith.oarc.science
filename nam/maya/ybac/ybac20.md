@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac19)  [Next](ybac21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac19)  [Next](ybac21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ Hispaniola; also Don Juan de Montejo, a Spaniard, and Don Diego, a son
 by an Indian woman.
 
 Don Francisco, after he turned over the government to his father the
-admiral, lived in his home as a simple [citizen](errata.htm#4), so far
+admiral, lived in his home as a simple [citizen](errata.htm#4.md), so far
 as public life went, but much honored by all as having conquered,
 partitioned and ruled the country. He went to Guatemala to close his
 Residencia and returned to his home. As children he had Don Juan de
@@ -86,4 +86,4 @@ children married.
 
 [Next: XVII. Arrival of the Spanish Franciscan Friars in Yucatan.
 Protection They Gave to the Natives. Their Contests with the Spanish
-Military Element](ybac21)
+Military Element](ybac21.md)

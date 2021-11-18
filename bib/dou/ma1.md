@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](aza)  [Next](ma2) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](aza)  [Next](ma2.md) 
 
 ------------------------------------------------------------------------
 
@@ -3546,4 +3546,4 @@ his father.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Macabees](ma2)
+[Next: 2 Macabees](ma2.md)

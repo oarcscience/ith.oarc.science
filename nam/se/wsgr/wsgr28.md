@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr27)  [Next](wsgr29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr27)  [Next](wsgr29.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ them the signal to leap. When the medicine man had finished his
 <span id="img_16400"></span>
 
 [![](tn/16400.jpg)  
-Click to enlarge](img/16400.jpg)
+Click to enlarge](img/16400.jpg.md)
 
 <span id="page_165">p. 165</span>
 
@@ -94,4 +94,4 @@ them. Perhaps these creatures know the story of the sweet-smelling bush.
 
 ------------------------------------------------------------------------
 
-[Next: Why Arrows Have Feathers](wsgr29)
+[Next: Why Arrows Have Feathers](wsgr29.md)

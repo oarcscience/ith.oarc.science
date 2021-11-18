@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray002)  [Next](pray004) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray002)  [Next](pray004.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ cleave to him with full hope. This, indeed, is that secret and hidden
 philosophy which cannot be learned by syllogisms: a philosophy
 thoroughly understood by those whose eyes God has so opened as to see
 light in his light (<span id="iii.i-p1.1"></span>[Psalm
-36:9](../../../bib/kjv/psa036.htm#009)<span id="iii.i-p1.1"></span>).
+36:9](../../../bib/kjv/psa036.htm#009)<span id="iii.i-p1.1"></span>.md).
 But after we have learned by faith to know that whatever is necessary
 for us or defective in us is supplied in God and in our Lord Jesus
 Christ, in whom it hath pleased the Father that all fulness should
@@ -45,16 +45,16 @@ Apostle, to show that a faith unaccompanied with prayer to God cannot be
 genuine, states this to be the order: As faith springs from the Gospel,
 so by faith our hearts are framed to call upon the name of God (<span
 id="iii.i-p1.2"></span>[Romans
-10:14](../../../bib/kjv/rom010.htm#014)<span id="iii.i-p1.2"></span>).
+10:14](../../../bib/kjv/rom010.htm#014)<span id="iii.i-p1.2"></span>.md).
 And this is the very thing which he had expressed some time before,
 viz., that the *Spirit of adoption*, which seals the testimony of the
 Gospel on our hearts, gives us courage to make our requests known unto
 God, calls forth groanings which cannot be uttered, and enables us to
 cry, Abba, Father (<span id="iii.i-p1.3"></span>[Romans
-8:26](../../../bib/kjv/rom008.htm#026)<span id="iii.i-p1.3"></span>).
+8:26](../../../bib/kjv/rom008.htm#026)<span id="iii.i-p1.3"></span>.md).
 This last point, as we have hitherto only touched upon it slightly in
 passing, must now be treated more fully.
 
 ------------------------------------------------------------------------
 
-[Next: 2.](pray004)
+[Next: 2.](pray004.md)

@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](title) [Next](srdb)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](title) [Next](srdb.md)
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ class="small">IKKIM</span>:
 
 ------------------------------------------------------------------------
 
-[Next](srdb)
+[Next](srdb.md)

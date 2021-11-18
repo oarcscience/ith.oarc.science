@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp44) 
-[Next](alp46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp44.md) 
+[Next](alp46.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ That a happy land may greet us.
 
 ------------------------------------------------------------------------
 
-[Next: The Rock](alp46)
+[Next: The Rock](alp46.md)

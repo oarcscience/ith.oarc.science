@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc40)  [Next](mtc42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc40)  [Next](mtc42.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -38,6 +38,6 @@ Where I lie on my couch abandoned to idleness.
 
 ------------------------------------------------------------------------
 
-[Next: Lodging With the Old Man of the Stream](mtc42)
+[Next: Lodging With the Old Man of the Stream](mtc42.md)
 
 </div>

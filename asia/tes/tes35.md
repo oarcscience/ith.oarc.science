@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes34)  [Next](tes36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes34)  [Next](tes36.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ Omolon and Kolyma rivers, summer of 1896.
 
 ------------------------------------------------------------------------
 
-[Next: Small-Pox, A Yukaghir Tale. (Second Version.)](tes36)
+[Next: Small-Pox, A Yukaghir Tale. (Second Version.)](tes36.md)

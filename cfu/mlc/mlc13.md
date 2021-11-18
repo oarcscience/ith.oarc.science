@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc12)  [Next](mlc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc12)  [Next](mlc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ seem to <span id="page_289">p. 289</span> have been previously
 celebrated as Immortals in the Taoist legends. Their biographies are
 usually arranged in the order of their official eminence or seniority in
 age. Here I follow that adopted in *Hsiu hsiang Pa Hsien tung yu
-chi*  <span id="fr_31"></span>[1](#fn_31) in which they are described in
+chi*  <span id="fr_31"></span>[1](#fn_31.md) in which they are described in
 the order in which they became Immortals.
 
 ## Li T’ieh-kuai
@@ -148,7 +148,7 @@ the service of Duke Chou Hsiao. He was defeated in battle, and escaped
 to Chung-nan Shan, where he met the Five Heroes, the Flowers of the
 East, who instructed him in the doctrine of immortality. At the end of
 the T’ang dynasty Han Chung-li taught this same science of immortality
-to Lü Tung-pin (see [297](#page_297)), and took the pompous title of the
+to Lü Tung-pin (see [297](#page_297).md), and took the pompous title of the
 Only Independent One Under Heaven.
 
 Other versions state that Han Chung-li is not the name of a person, but
@@ -173,7 +173,7 @@ He is sometimes represented holding his feather-fan, Yü-mao Shan; at
 other times the peach of immortality. Since his admission to the ranks
 of the gods, he has appeared on earth at various times as the messenger
 of Heaven. On one of these occasions he met Lü Yen, as narrated on [p.
-297](#page_297). <span id="page_293">p. 293</span>
+297](#page_297.md). <span id="page_293">p. 293</span>
 
 ## Lan Ts’ai-ho
 
@@ -490,7 +490,7 @@ perfection, became a hermit, and, through the instruction of the Perfect
 Ones, became one of the Eight Immortals.
 
 <span id="img_p302"></span> <span align="CENTER"> [![](tn/p302.jpg)  
-Click to enlarge](img/p302.jpg)</span>  
+Click to enlarge](img/p302.jpg.md)</span>  
 The Eight Immortals Crossing the Sea
 
 ## Pa Hsien Kuo Hai
@@ -526,13 +526,13 @@ id="page_305">p. 305</span>
 
 ### Footnotes
 
-<span id="fn_31"></span>[305:1](mlc13.htm#fr_31) *An Illustrated Account
+<span id="fn_31"></span>[305:1](mlc13.htm#fr_31.md) *An Illustrated Account
 of the Eight Immortals’ Mission to the East*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Guardian of the Gate of Heaven](mlc14)
+[Next: Chapter XII. The Guardian of the Gate of Heaven](mlc14.md)
 
 </div>

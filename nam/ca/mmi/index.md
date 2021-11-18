@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,22 +21,22 @@ mythology of the Luiseño and Diegueño Indians of Southern California.
 
 ### JAFL Vol. XIX. No. 73. pp. 145-64. \[1906\]
 
-[Title Page](mmi00)  
-[Introductory](mmi01)  
+[Title Page](mmi00.md)  
+[Introductory](mmi01.md)  
 [The Story Of Cuy-a-ho-marr (The Chaup); The Manzanita Version
-(Diegueño)](mmi02)  
-[Third Version of the Story Of Cuy-a-ho-marr](mmi03)  
-[Comment By Sant Upon The Cuy-a-ho-marr Story](mmi04)  
+(Diegueño)](mmi02.md)  
+[Third Version of the Story Of Cuy-a-ho-marr](mmi03.md)  
+[Comment By Sant Upon The Cuy-a-ho-marr Story](mmi04.md)  
 <span id="section_001"></span>
 
 ### JAFL Vol. XIX. No. 72, pp. 52-60. \[1906\]
 
-[1. San Luiseño Creation Myth](mmi05)  
-[2. The North Star and the Rattlesnake](mmi06)  
-[3. The Story of Ouiot](mmi07)  
-[4. The Story of Ouiot](mmi08)  
+[1. San Luiseño Creation Myth](mmi05.md)  
+[2. The North Star and the Rattlesnake](mmi06.md)  
+[3. The Story of Ouiot](mmi07.md)  
+[4. The Story of Ouiot](mmi08.md)  
 <span id="section_002"></span>
 
 ### JAFL Vol. XVII. No. 66, pp. 52-60. \[1904\]
 
-[Luiseño Creation Myth](mmi09)  
+[Luiseño Creation Myth](mmi09.md)  

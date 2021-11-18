@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap01)  [Next](chap03) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap01)  [Next](chap03.md) 
 
 ------------------------------------------------------------------------
 
@@ -674,4 +674,4 @@ savante de l'idée mère de la Cité de Dieu.'
 
 ------------------------------------------------------------------------
 
-[Next: The State](chap03)
+[Next: The State](chap03.md)

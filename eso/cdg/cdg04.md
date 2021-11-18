@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg03)  [Next](cdg05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg03)  [Next](cdg05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -15,20 +15,20 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
 
 <span id="page_1">p. 1</span>
 
-<span id="img_00100"></span> ![Discourse I](img/00100.jpg)
+<span id="img_00100"></span> ![Discourse I](img/00100.jpg.md)
 
 <span id="img_00101"></span>
 
 |                     |
 |---------------------|
-| ![M](img/00101.jpg) |
+| ![M](img/00101.jpg.md) |
 
-AY the soul of the Comte de GABALIS <span id="fr_0"></span>[I](#fn_0) be
+AY the soul of the Comte de GABALIS <span id="fr_0"></span>[I](#fn_0.md) be
 now in the presence of God, for they have just written me that he has
 died of apoplexy. The Amateurs will not fail to say that this manner of
 death usually befalls those who deal incautiously with the secrets of
 the Sages, and that since the Blessed Raymond Lully <span
-id="fr_1"></span>[II](#fn_1) so decreed in his testament, an avenging
+id="fr_1"></span>[II](#fn_1.md) so decreed in his testament, an avenging
 angel has never failed promptly to wring the necks of all who have
 indiscreetly revealed the Philosophic Mysteries.
 
@@ -57,7 +57,7 @@ the little that I possess in no wise disheartened him. You have, he told
 me a hundred times, Saturn in an angle, in his own house, and
 retrograde; some day you cannot. fail to be as melancholy as a Sage
 ought to be; for the wisest of all men, as we learn in the Cabala <span
-id="fr_2"></span>[III](#fn_2), had like you Jupiter in the Ascendant,
+id="fr_2"></span>[III](#fn_2.md), had like you Jupiter in the Ascendant,
 nevertheless so powerful was the influence of his Saturn, though far
 weaker than yours, that one cannot find proof of his having laughed a
 single time in all his life.
@@ -81,9 +81,9 @@ it not possible that the Comte may have been overcome in an encounter
 with some unruly hobgoblin? Peradventure while talking with God upon His
 flaming Throne, he could not keep his glance from straying to His face,
 now it is written that man may not behold God and live <span
-id="fr_3"></span>[IV](#fn_3). Perhaps he merely pretended to die, as is
+id="fr_3"></span>[IV](#fn_3.md). Perhaps he merely pretended to die, as is
 the way of Philosophers, who feign death <span
-id="fr_4"></span>[V](#fn_4) in one place, only to transplant themselves
+id="fr_4"></span>[V](#fn_4.md) in one place, only to transplant themselves
 to another. Be that as it may, I cannot believe that the manner in which
 he entrusted his treasures to me merits punishment. This is what took
 place.
@@ -117,7 +117,7 @@ well), doctors, prelates, monks, nuns, in fact people from every walk in
 life. Some were seeking Angels, others the Devil, some their guardian
 spirit, others evil spirits, some a panacea for every ill, others
 knowledge of the stars, some the secrets of Divinity, and almost all the
-Philosopher's Stone. <span id="fr_7"></span>[VI](#fn_7)
+Philosopher's Stone. <span id="fr_7"></span>[VI](#fn_7.md)
 
 <span id="page_8">p. 8</span> <span id="page_9">p. 9</span>
 
@@ -132,7 +132,7 @@ whose lands lie toward the frontiers of Poland. He had written to the
 Children of the Philosophers at Paris, promising to pay them a visit
 when passing through France on his way to England. I was commissioned to
 answer this great man's letter. I sent him the map of my horoscope that
-he might judge whether I <span id="fr_8"></span>[VII](#fn_8) should
+he might judge whether I <span id="fr_8"></span>[VII](#fn_8.md) should
 aspire to the Supreme Wisdom. Fortunately my map and letter caused him
 to do me the honour of replying that I should be one of the first
 persons whom he would see in Paris, and that Heaven willing, it would
@@ -141,10 +141,10 @@ not be his fault if I did not enter the Society of the Sages.
 To my joy, I kept up a regular correspondence with the illustrious
 German. From time to time, I propounded to him weighty, and so far as in
 me lay, well reasoned problems concerning the Harmony of the World <span
-id="fr_9"></span>[VIII](#fn_9), the Numbers of Pythagoras <span
-id="fr_10"></span>[IX](#fn_10), the Visions of St. John <span
-id="fr_11"></span>[X](#fn_11) and the first Chapter of Genesis <span
-id="fr_12"></span>[XI](#fn_12). The profundity of these subjects
+id="fr_9"></span>[VIII](#fn_9.md), the Numbers of Pythagoras <span
+id="fr_10"></span>[IX](#fn_10.md), the Visions of St. John <span
+id="fr_11"></span>[X](#fn_11.md) and the first Chapter of Genesis <span
+id="fr_12"></span>[XI](#fn_12.md). The profundity of these subjects
 enraptured him, he wrote me unheard of wonders, and I soon recognised
 that I was dealing
 
@@ -160,7 +160,7 @@ a very good looking man came in and bowing gravely to me, said in French
 but with a foreign accent, "Adore, oh my Son, adore the very good and
 the very great God of the Sages, and never allow yourself to become
 puffed up with pride because He sends one of the Children of Wisdom to
-initiate you into their Order <span id="fr_13"></span>[XII](#fn_13), and
+initiate you into their Order <span id="fr_13"></span>[XII](#fn_13.md), and
 to make you a sharer in the wonders of His Omnipotence."
 
 The novelty of the salutation startled me, and for the first time in my
@@ -197,7 +197,7 @@ honours me with a visit?"
 dispenses the Light of his Wisdom together with its responsibilities in
 that measure which His Sovereignty deems best, has bestowed upon me but
 a very small portion of the Light, in comparison to that at which I
-marvel in my fellow Initiates <span id="fr_14"></span>[XIV](#fn_14). I
+marvel in my fellow Initiates <span id="fr_14"></span>[XIV](#fn_14.md). I
 expect you to equal them some day, if I dare judge from the map of your
 horoscope with which you have honoured me. But why Sir," he added
 mirthfully, "Are you doing your utmost to get into my bad graces by
@@ -209,13 +209,13 @@ mistaking me at first sight for a phantom?"
 
 that I suddenly recalled that story of Cardan's. He says his father was
 one day visited in his study by seven unknown beings, clothed in
-different colours, who <span id="fr_17"></span>[XV](#fn_17) made rather
+different colours, who <span id="fr_17"></span>[XV](#fn_17.md) made rather
 strange statements to him as to their nature and occupation--"
 
 "I am familiar with the incident to which you refer," interrupted the
 Comte, "They were Sylphs; I will tell you about them some day. They are
 a kind of etherial being, and now and then they come to consult the
-Sages about the books of Averroes <span id="fr_18"></span>[XVI](#fn_18)
+Sages about the books of Averroes <span id="fr_18"></span>[XVI](#fn_18.md)
 which they do not understand very well. Cardan is a rattlepate to have
 published that in his 'Subtilties.' He found the reminiscence among his
 father's papers. His father was one of Us. Realising that his son was a
@@ -247,12 +247,12 @@ our Mysteries."
 Then he arose, kissed me solemnly, and without giving me a chance to
 reply said, "Adieu, my Son, I must see the members of our Order who are
 in Paris, afterward I shall give you my news. Meanwhile, WATCH, PRAY,
-HOPE AND BE SILENT." <span id="fr_19"></span>[XVII](#fn_19)
+HOPE AND BE SILENT." <span id="fr_19"></span>[XVII](#fn_19.md)
 
 With these words he left my study. On the way oi to the door I expressed
 my regret at the shortness of his visit, and at his cruelty in forsaking
 me so soon after he had shown me a Spark of his Light <span
-id="fr_20"></span>[XVIII](#fn_20). But assuring me, with very great
+id="fr_20"></span>[XVIII](#fn_20.md). But assuring me, with very great
 kindness, that I would lose nothing by waiting, he entered his coach and
 left me in a state of amazement which beggars description.
 
@@ -288,7 +288,7 @@ character.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:I](cdg04.htm#fr_0) <span id="page_2">p.
+<span id="fn_0"></span>[1:I](cdg04.htm#fr_0.md) <span id="page_2">p.
 2</span> COMTE DE GABAIS.--Paracelsus says of the practice of
 Philosophy, "this Art is taught by Gabalis (the spiritual perception of
 man)." These words inspired the title Comte de Gabalis which veils the
@@ -296,7 +296,7 @@ identity of a great Teacher from whom the instruction embodied in these
 Discourses was received. The Comte's true name will be widely
 recognised.
 
-<span id="fn_1"></span>[1:II](cdg04.htm#fr_1) 1235, A.D.--RAYMOND
+<span id="fn_1"></span>[1:II](cdg04.htm#fr_1.md) 1235, A.D.--RAYMOND
 LULLY--1315, A.D.--Spanish Initiate and alchemist, known during his life
 time as the "Illuminated One." His greatest work, "Ars Magna," was
 written to prove that the doctrines of Christianity are truths which
@@ -315,7 +315,7 @@ this treasure upon the unworthy and God require an accounting from
 you."--TRANSLATED FROM. RAYMOND LULLY'S "TESTAMENTUM NOVISSIMUM." BOOK
 I.
 
-<span id="fn_2"></span>[3:III](cdg04.htm#fr_2) <span id="page_4">p.
+<span id="fn_2"></span>[3:III](cdg04.htm#fr_2.md) <span id="page_4">p.
 4</span> THE CABALA.--Sacred book of the Jews, is an occult
 interpretation or key to their Scriptures, and contains explicit
 revelation of the art of communing with spirits. Tradition states that
@@ -326,13 +326,13 @@ written, but is imparted orally by hierophant to disciple. In its
 original form the system of esoteric Masonry was identical with that of
 the Cabala.
 
-<span id="fn_3"></span>[5:IV](cdg04.htm#fr_3) <span id="page_6">p.
+<span id="fn_3"></span>[5:IV](cdg04.htm#fr_3.md) <span id="page_6">p.
 6</span> IT IS WRITTEN THAT MAN MAY NOT BEHOLD GOD AND LIVE.--And Moses
 said, I beseech thee, shew me Thy glory. And He said, "Thou canst not
 see my face; for there shall no man see me and live."--EXODUS xxxiii.,
 18, 20.
 
-<span id="fn_4"></span>[5:V](cdg04.htm#fr_4) PRETENDED DEATH.--When a
+<span id="fn_4"></span>[5:V](cdg04.htm#fr_4.md) PRETENDED DEATH.--When a
 Philosopher has passed a certain number of years in service for the
 uplift-ment of humanity, having fulfilled the purpose of his soul upon
 incarnation, he earns the right to retire from the world and to enjoy
@@ -346,10 +346,10 @@ a rare print of John Valentine Andrea, author of certain mystical tracts
 of of profound influence in Germany, appears to be a portrait of Lord
 Bacon at 80 years of age and bears a helmet, four roses, and the St.
 Andrew's cross, the arms of St. Alban's town. <span
-id="fr_5"></span>[\*](#fn_5) Within the past hundred years a notable
+id="fr_5"></span>[\*](#fn_5.md) Within the past hundred years a notable
 feigned death has been that of Marshall Ney, a <span id="page_8">p.
 8</span> Brother and 'the bravest of the brave,' <span
-id="fr_6"></span>[†](#fn_6) who lived for many years after his supposed
+id="fr_6"></span>[†](#fn_6.md) who lived for many years after his supposed
 execution in France as a respected citizen of Rowan County, North
 Carolina. Another Brother, 'the friend of humanity,' Count Cagliostro,
 supposedly died in prison only to pass the remainder of his life in the
@@ -366,32 +366,32 @@ time to plant, and a time to pluck up that which is planted." Eccle.
 III., v., 1, 2. These times and seasons are known to the true
 Philosopher.
 
-<span id="fn_5"></span>[5:\*](cdg04.htm#fr_5) *See Frontispiece Volume*
+<span id="fn_5"></span>[5:\*](cdg04.htm#fr_5.md) *See Frontispiece Volume*
 1. '*A Catalog ue Raisonné,' F. L. Gardner*.
 
-<span id="fn_6"></span>[5:†](cdg04.htm#fr_6) HISTORIC DOUBTS AS TO THE
+<span id="fn_6"></span>[5:†](cdg04.htm#fr_6.md) HISTORIC DOUBTS AS TO THE
 EXECUTION OF MARSHALL NEY. By J. A. WESTON. Published New York, Thomas
 Whittaker, 1895.
 
-<span id="fn_7"></span>[7:VI](cdg04.htm#fr_7) THE PHILOSOPHER'S STONE IS
+<span id="fn_7"></span>[7:VI](cdg04.htm#fr_7.md) THE PHILOSOPHER'S STONE IS
 a term used by Cabalists to denote the Supreme Wisdom, the union of the
 divine consciousness or omniscient Solar Principle in man with the lower
 consciousness or personality, which union has been the goal of
 .Initiates in all ages. Exoterically the Philosopher's Stone is the
 secret of the transmutation of the baser metals into gold.
 
-<span id="fn_8"></span>[9:VII](cdg04.htm#fr_8) <span id="page_10">p.
-10</span> MAP OF THE HOROSCOPE, see [Note A](cdg11.htm#an_A) Commentary
+<span id="fn_8"></span>[9:VII](cdg04.htm#fr_8.md) <span id="page_10">p.
+10</span> MAP OF THE HOROSCOPE, see [Note A](cdg11.htm#an_A.md) Commentary
 Continued. Many notes relevant to the Discourses but non-essential to an
 understanding of their meaning have been placed at the end of the book.
 
-<span id="fn_9"></span>[9:VIII](cdg04.htm#fr_9) HARMONY OF THE WORLD.
-[Note B](cdg12.htm#an_B) Commentary Continued.
+<span id="fn_9"></span>[9:VIII](cdg04.htm#fr_9.md) HARMONY OF THE WORLD.
+[Note B](cdg12.htm#an_B.md) Commentary Continued.
 
-<span id="fn_10"></span>[9:IX](cdg04.htm#fr_10) NUMBERS OF PYTHAGORAS.
-[Note C](cdg13.htm#an_C) Commentary Continued.
+<span id="fn_10"></span>[9:IX](cdg04.htm#fr_10.md) NUMBERS OF PYTHAGORAS.
+[Note C](cdg13.htm#an_C.md) Commentary Continued.
 
-<span id="fn_11"></span>[9:X](cdg04.htm#fr_11) VISIONS OF ST.
+<span id="fn_11"></span>[9:X](cdg04.htm#fr_11.md) VISIONS OF ST.
 JOHN.--"Now, in plain words, what does this very occult book, the
 Apocalypse, contain? It gives the esoteric interpretation of the
 Christosmyth; it tells what 'Iêsous the Christos' really is; it explains
@@ -404,13 +404,13 @@ reality secret only because it is hidden and locked in the inner nature
 of every man, however ignorant and humble, and none but himself can turn
 the key."--JAMES M. PRYSE. "THE APOCALYPSE UNSEALED."
 
-<span id="fn_12"></span>[9:XI](cdg04.htm#fr_12) FIRST CHAPTER OF
+<span id="fn_12"></span>[9:XI](cdg04.htm#fr_12.md) FIRST CHAPTER OF
 GENESIS.--"When I find learned men believing Genesis literally, which
 the ancients with all their failings had too much sense to receive
 except allegorically, I am tempted to doubt the reality of the
 improvement of the human mind."-GODFREY HIGGINS.
 
-<span id="fn_13"></span>[11:XII](cdg04.htm#fr_13) <span id="page_12">p.
+<span id="fn_13"></span>[11:XII](cdg04.htm#fr_13.md) <span id="page_12">p.
 12</span> ORDER OF THE PHILOSOPHERS.--Deep down in the human soul is
 implanted that divine instinct which reveals to man his oneness with God
 and his fellows. And any wilful segregation of a soul, or group of
@@ -434,11 +434,11 @@ is contrary to the dictates of his own soul. Yet no true Initiate has
 ever been known to sell divine knowledge for money, nor to exercise his
 spiritual gifts for personal gain.
 
-<span id="fn_14"></span>[13:XIV](cdg04.htm#fr_14) INITIATION, OR
+<span id="fn_14"></span>[13:XIV](cdg04.htm#fr_14.md) INITIATION, OR
 SPIRITUAL REBIRTH, results from the quickening in man of that Divine
 Spark which evolves, through upward direction of the Solar Force, <span
-id="fr_15"></span>[\*](#fn_15) into the deathless Solar Body. <span
-id="fr_16"></span>[†](#fn_16) The degrees of Initiation are but the
+id="fr_15"></span>[\*](#fn_15.md) into the deathless Solar Body. <span
+id="fr_16"></span>[†](#fn_16.md) The degrees of Initiation are but the
 degrees of the evolution of the God in man; Illumination being that
 degree in which the Divine Self masters and enkindles its manifestation,
 the personality, which is henceforward subservient to its evolution. At
@@ -451,19 +451,19 @@ He has also predestined to bear the likeness of His Son, that He might
 be the Eldest in a vast family of brothers."--ROMANS viii., 19, 29; "NEW
 TESTAMENT IN MODERN SPEECH." R. F. WEYMOUTH, D.LIT.
 
-<span id="fn_15"></span>[13:\*](cdg04.htm#fr_15) *Solar Force defined.
-Page [48](cdg05.htm#page_48)*.
+<span id="fn_15"></span>[13:\*](cdg04.htm#fr_15.md) *Solar Force defined.
+Page [48](cdg05.htm#page_48.md)*.
 
-<span id="fn_16"></span>[13:†](cdg04.htm#fr_16) *The Solar Body is the
+<span id="fn_16"></span>[13:†](cdg04.htm#fr_16.md) *The Solar Body is the
 Spiritual Body*.
 
-<span id="fn_17"></span>[15:XV](cdg04.htm#fr_17) CARDAN AND THE SYLPHS
-OF CARDAN. SEE [NOTE D](cdg14.htm#an_D), COMMENTARY CONTINUED.
+<span id="fn_17"></span>[15:XV](cdg04.htm#fr_17.md) CARDAN AND THE SYLPHS
+OF CARDAN. SEE [NOTE D](cdg14.htm#an_D.md), COMMENTARY CONTINUED.
 
-<span id="fn_18"></span>[15:XVI](cdg04.htm#fr_18) AVERROES. SEE [NOTE
-E](cdg15.htm#an_E), COMMENTARY CONTINUED.
+<span id="fn_18"></span>[15:XVI](cdg04.htm#fr_18.md) AVERROES. SEE [NOTE
+E](cdg15.htm#an_E.md), COMMENTARY CONTINUED.
 
-<span id="fn_19"></span>[17:XVII](cdg04.htm#fr_19) <span id="page_18">p.
+<span id="fn_19"></span>[17:XVII](cdg04.htm#fr_19.md) <span id="page_18">p.
 18</span>
 
 <div align="center">
@@ -477,11 +477,11 @@ E](cdg15.htm#an_E), COMMENTARY CONTINUED.
 
 </div>
 
-<span id="fn_20"></span>[17:XVIII](cdg04.htm#fr_20) SPARK OF HIS
+<span id="fn_20"></span>[17:XVIII](cdg04.htm#fr_20.md) SPARK OF HIS
 LIGHT.--Light is used as a synonym for spiritual knowledge and evolution
 since, to the seer, the spirit or Solar Principle of man is at certain
 times actually visible as a light that " true Light which lighteth every
-man that cometh into the world." <span id="fr_21"></span>[1](#fn_21) The
+man that cometh into the world." <span id="fr_21"></span>[1](#fn_21.md) The
 spirit of the average man or woman exists, as it were, in embryo only,
 and appears as a dim and tiny light at some distance above the head. In
 the Master this light, developed, is visible as an elongated cleft flame
@@ -489,7 +489,7 @@ extending upward from the centre of the forehead. This flame ever the
 distinctive mark of all highly evolved beings who are able to manifest
 and to keep in touch with their divine consciousness while in the
 physical body. Such were the flames, those "cloven tongues like as of
-fire," <span id="fr_22"></span>[2](#fn_22) which descended at Pentecost
+fire," <span id="fr_22"></span>[2](#fn_22.md) which descended at Pentecost
 upon the heads of the twelve Apostles, who went out from that degree of
 Initiation qualified to do Master works.
 
@@ -501,25 +501,25 @@ desire, "clothed with the sun." We read that Christ led Peter, James and
 John" up into an high mountain apart, and was transfigured before them:
 
 and his face did shine as the sun, and his  
-raiment was white as the light." <span id="fr_23"></span>[3](#fn_23)The
+raiment was white as the light." <span id="fr_23"></span>[3](#fn_23.md)The
 words  
 "For the Lord thy God is a consuming  
-fire," <span id="fr_24"></span>[4](#fn_24) and "He maketh the spirits  
+fire," <span id="fr_24"></span>[4](#fn_24.md) and "He maketh the spirits  
 His angels, His ministers a flaming fire" <span
-id="fr_25"></span>[5](#fn_25)  
+id="fr_25"></span>[5](#fn_25.md)  
 are literally true.
 
-<span id="fn_21"></span>[17:1](cdg04.htm#fr_21) St. John, I., 9;
+<span id="fn_21"></span>[17:1](cdg04.htm#fr_21.md) St. John, I., 9;
 
-<span id="fn_22"></span>[17:2](cdg04.htm#fr_22) Acts, ii., 3;
+<span id="fn_22"></span>[17:2](cdg04.htm#fr_22.md) Acts, ii., 3;
 
-<span id="fn_23"></span>[17:3](cdg04.htm#fr_23) St. Matthew, xvii., 1,
+<span id="fn_23"></span>[17:3](cdg04.htm#fr_23.md) St. Matthew, xvii., 1,
 2;
 
-<span id="fn_24"></span>[17:4](cdg04.htm#fr_24) Deuteronomy, iv., 24;
+<span id="fn_24"></span>[17:4](cdg04.htm#fr_24.md) Deuteronomy, iv., 24;
 
-<span id="fn_25"></span>[17:5](cdg04.htm#fr_25) Psalms, 4
+<span id="fn_25"></span>[17:5](cdg04.htm#fr_25.md) Psalms, 4
 
 ------------------------------------------------------------------------
 
-[Next: Discourse II](cdg05)
+[Next: Discourse II](cdg05.md)

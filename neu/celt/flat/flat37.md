@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat36)  [Next](flat38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat36)  [Next](flat38.md) 
 
 ------------------------------------------------------------------------
 
@@ -247,4 +247,4 @@ ever made of his person or character.
 
 ------------------------------------------------------------------------
 
-[Next: Ned Sheehy's Excuse](flat38)
+[Next: Ned Sheehy's Excuse](flat38.md)

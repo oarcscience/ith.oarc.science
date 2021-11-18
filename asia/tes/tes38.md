@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes37)  [Next](tes39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes37)  [Next](tes39.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,10 +8,10 @@
 
 There was the head man of a village. I do not know exactly whether it
 was a village of Yukaghir or of the Yakut clan. <span
-id="fr_54"></span>[1](#fn_54) This head man used to gather tribute among
+id="fr_54"></span>[1](#fn_54.md) This head man used to gather tribute among
 his clansmen. Then he carried it southward to the town of Yakutsk on the
 river Aldan. On the Aldan lived the tribute chief of their tribe. <span
-id="fr_55"></span>[2](#fn_55) One time this Kolyma head man came to the
+id="fr_55"></span>[2](#fn_55.md) One time this Kolyma head man came to the
 Aldan tribute chief. The wife of the latter was suffering very much from
 one day to the next and they were afraid she might die. The Kolyma head
 man, seeing her condition said to the tribute chief, "Have no care about
@@ -35,7 +35,7 @@ am sure that you pay attention also to this (*i. e.*, to magic). Can you
 not ask your assistant? Perhaps he knows enough to get for us at least
 temporary relief, even if for only a couple of hours."--"I cannot tell.
 Indeed, as a young man, he suffered from fits, <span
-id="fr_56"></span>[1](#fn_56) and perhaps he really is able to practise
+id="fr_56"></span>[1](#fn_56.md) and perhaps he really is able to practise
 the art of shamanism, though I do not know whether for himself only or
 also in behalf of other people. However, we may call him here, and see
 what he can do. Where is he? Go and call him."
@@ -106,19 +106,19 @@ Pokhotsk, in the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_54"></span>[76:1](tes38.htm#fr_54) For the last hundred
+<span id="fn_54"></span>[76:1](tes38.htm#fr_54.md) For the last hundred
 years, the northern Miatushski clan has been living on the Great Anui
 River, in the Lower Kolyma country. This clan has been superficially
 Russianized. Their way of living is quite Russo-Yukaghir. They have no
 cattle, and catch their fish not in the lakes, but in the Great Anui and
 Kolyma rivers--W. B.
 
-<span id="fn_55"></span>[76:2](tes38.htm#fr_55) This indicates that they
+<span id="fn_55"></span>[76:2](tes38.htm#fr_55.md) This indicates that they
 were probably Yakut. The tribute chief in local Russian is голова
 (literally, "head"). This chief was elected by several clans related to
 one another and forming together one tribal branch.--W. B.
 
-<span id="fn_56"></span>[77:1](tes38.htm#fr_56) Fits of shamanistic
+<span id="fn_56"></span>[77:1](tes38.htm#fr_56.md) Fits of shamanistic
 hysteria (Cf. Bogoras,---The Chukchee "). Among the Russian creoles and
 Russianized natives, both on the Anadyr and the Kolyma, women often have
 so-called "fits" (припадки, without any adjective). The patient, during
@@ -130,4 +130,4 @@ practice.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 17. A Hunting Tale](tes39)
+[Next: 17. A Hunting Tale](tes39.md)

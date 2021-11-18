@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt03)  [Next](blt05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt03)  [Next](blt05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ another party turned back, for they still had bad dreams. All the men
 now left with him were his relations. All the others had turned back.
 
 They travelled on, and travelled on, always having bad dreams, until
-they came close to the Elk River. <span id="fr_1"></span>[1](#fn_1) Then
+they came close to the Elk River. <span id="fr_1"></span>[1](#fn_1.md) Then
 the oldest relation said, "Come, my chief, let us all turn back. We
 still have bad dreams. We cannot have good luck."
 
@@ -384,8 +384,8 @@ Since that time the Snakes and Piegans have never been at peace.
 
 ### Footnotes
 
-<span id="fn_1"></span>[4:1](blt04.htm#fr_1) Yellowstone River.
+<span id="fn_1"></span>[4:1](blt04.htm#fr_1.md) Yellowstone River.
 
 ------------------------------------------------------------------------
 
-[Next: The Lost Woman](blt05)
+[Next: The Lost Woman](blt05.md)

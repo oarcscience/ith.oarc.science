@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../index)   [Paleolithic](../nel/index)  
-[I Ching](../ich/index)   [Index](index)   [First 1000 lines of
-Chromosome One](hgp011k)  
+[Intangible Textual Heritage](../index)   [Paleolithic](../nel/index.md)  
+[I Ching](../ich/index)   [Index](index.md)   [First 1000 lines of
+Chromosome One](hgp011k.md)  
 
 ------------------------------------------------------------------------
 

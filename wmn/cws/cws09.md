@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws08)  [Next](cws10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws08)  [Next](cws10.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 #### CONCERNING THE INTERPRETATION OF THE MYSTICAL SCRIPTURES
 
-##### PART I <span id="fr_52"></span>[1](#fn_52)
+##### PART I <span id="fr_52"></span>[1](#fn_52.md)
 
 "IF, therefore, they be Mystic Books, they ought also to have a Mystic
 Consideration. But the Fault of most Writers lieth in this,--that they
@@ -83,7 +83,7 @@ with the Dragon, and have Victory over him. Intuition, therefore, pure
 and a Virgin, shall be the Mother and Redemptress of her fallen Sons,
 whom she bore under Bondage to her Husband the intellectual Force."
 
-##### PART 2 <span id="fr_53"></span>[1](#fn_53)
+##### PART 2 <span id="fr_53"></span>[1](#fn_53.md)
 
 Moses, therefore, knowing the Mysteries of the Religion of the
 Egyptians, and having learned of their Occultists the Value and
@@ -114,7 +114,7 @@ then, the Intellect is apt to be the great Traitor against Heaven, so
 also is it the Force by which Men, following their pure Intuition, may
 also grasp and apprehend the Truth. For which Reason it is written that
 the Christs are subject to their Mothers. <span
-id="fr_54"></span>[1](#fn_54) Not that by any means the Intellect is to
+id="fr_54"></span>[1](#fn_54.md) Not that by any means the Intellect is to
 be dishonoured; for it is the Heir of all Things, if only it be truly
 begotten and be no Bastard.
 
@@ -140,7 +140,7 @@ Beginning of the
 
 <span id="page_15">p. 15</span>
 
-World. <span id="fr_55"></span>[1](cws10.htm#fn_55) Until the Mystic Man
+World. <span id="fr_55"></span>[1](cws10.htm#fn_55.md) Until the Mystic Man
 and Woman had eaten of this Fruit, they knew only the Things of the
 Spirit, and found them suffice. But after their Fall, they began to
 apprehend Matter also, and gave it the Preference, making themselves
@@ -152,7 +152,7 @@ the Sons of God would have redeemed them."
 
 ### Footnotes
 
-<span id="fn_52"></span>[11:1](cws09.htm#fr_52) Paris, June 6, 1878.
+<span id="fn_52"></span>[11:1](cws09.htm#fr_52.md) Paris, June 6, 1878.
 Read, in the early hours of the morning, in sleep, in a library
 purporting to be that of Emmanuel Swedenborg, in the spiritual world,
 Swedenborg himself being present, and written down on waking. As we
@@ -174,7 +174,7 @@ For a full account of the circumstances attending the receipt by Anna
 Kingsford of this Illumination (both parts) see *Life of Anna
 Kingsford*, Vol. i, pp. 257-261.    S. H. H.
 
-<span id="fn_53"></span>[13:1](cws09.htm#fr_53) This portion, which was
+<span id="fn_53"></span>[13:1](cws09.htm#fr_53.md) This portion, which was
 received, also in sleep, "the next night but one" after the foregoing,
 is a part remembered of a lecture--evidently out of the same
 book--delivered by a man in priestly garb, in an amphitheatre of white
@@ -185,8 +185,8 @@ enhanced, for she said that the words presented themselves again to her
 as she wrote, and stood out luminously to view" (Life of Anna Kingsford,
 Vol. i, pp. 260-261).    S. H. H.
 
-<span id="fn_54"></span>[14:1](cws09.htm#fr_54) Intuition.
+<span id="fn_54"></span>[14:1](cws09.htm#fr_54.md) Intuition.
 
 ------------------------------------------------------------------------
 
-[Next: No. VI: Concerning The Mosaic Cosmogony](cws10)
+[Next: No. VI: Concerning The Mosaic Cosmogony](cws10.md)

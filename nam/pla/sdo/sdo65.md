@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo64)  [Next](sdo66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo64)  [Next](sdo66.md) 
 
 ------------------------------------------------------------------------
 
@@ -168,4 +168,4 @@ the dead, for he knew they would abide in his lodge no more.
 
 ------------------------------------------------------------------------
 
-[Next: How the North Wind Lost His Birthright](sdo66)
+[Next: How the North Wind Lost His Birthright](sdo66.md)

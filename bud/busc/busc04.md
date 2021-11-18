@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc03)  [Next](busc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc03)  [Next](busc05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -50,7 +50,7 @@ water, bestowed a great gift of 400,000 pieces of money as alms, being
 adorned with all kinds of ornaments, ate of choice food, performed the
 holy-day vows, and entered the splendidly adorned royal bedchamber, And
 lying on the royal bed she fell asleep, and dreamt this dream: The four
-kings <span id="fr_0"></span>[1](#fn_0) raised her together with the
+kings <span id="fr_0"></span>[1](#fn_0.md) raised her together with the
 bed, and took her to the Himalaya to the Manosilā tableland, sixty
 leagues in length, and placing her beneath a great sal-tree, seven
 leagues high, they stood on one side.
@@ -88,13 +88,13 @@ dispeller of illusion in the world. (*Jāt. Introd*, I. 50 ff.)
 
 ### Footnotes
 
-<span id="fn_0"></span>[24:1](busc04.htm#fr_0) The four guardian deities
+<span id="fn_0"></span>[24:1](busc04.htm#fr_0.md) The four guardian deities
 of the world.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: II. The Birth of Gotama](busc05)
+[Next: II. The Birth of Gotama](busc05.md)
 
 </div>

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb01)  [Next](lifb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb01)  [Next](lifb03.md) 
 
 </div>
 
@@ -145,6 +145,6 @@ illustrated by Mr. Ford.
 
 ------------------------------------------------------------------------
 
-[Next: The Shifty Lad](lifb03)
+[Next: The Shifty Lad](lifb03.md)
 
 </div>

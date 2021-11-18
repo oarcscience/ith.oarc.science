@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb27)  [Next](pifb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb27)  [Next](pifb29.md) 
 
 </div>
 
@@ -346,6 +346,6 @@ went back to the palace together, and were never parted any more.
 
 ------------------------------------------------------------------------
 
-[Next: Master and Pupil](pifb29)
+[Next: Master and Pupil](pifb29.md)
 
 </div>

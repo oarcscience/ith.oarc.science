@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll08)  [Next](oll10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll08)  [Next](oll10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -59,7 +59,7 @@ They die in numbers terrible.
 How many men have ne'er returned,  
 How many chiefs have met their death  
 For enterprises far away?'  
-For this I left the Inca's court, <span id="fr_36"></span>[1](#fn_36)  
+For this I left the Inca's court, <span id="fr_36"></span>[1](#fn_36.md)  
 Saying that we must rest in peace;  
 Lot none of us forsake our hearths,  
 And if the Inca still persists,  
@@ -82,7 +82,7 @@ He rises like the star of day.
 
 <span id="page_370">p. 370</span>
 
-Uilcañota <span id="fr_37"></span>[1](#fn_37) is a distant land,  
+Uilcañota <span id="fr_37"></span>[1](#fn_37.md) is a distant land,  
 Yet, even now, her people come  
 To range themselves beneath thy law.
 
@@ -96,7 +96,7 @@ Receive the arrows and the plume,
 
 Henceforth thou art our general.  
   *People*. Long life to the Mountain Chief.  
-  *Ollantay*. Hanco Huayllu, <span id="fr_38"></span>[2](#fn_38) of all
+  *Ollantay*. Hanco Huayllu, <span id="fr_38"></span>[2](#fn_38.md) of all
 my lords  
 Thou art most venerable and wise,  
 Being kin to the august High Priest,  
@@ -114,7 +114,7 @@ I bless thee for thy trust in me.
   *Hanco Huayllu*. Behold the valiant Mountain Chief,  
 Now fully armed from head to foot,  
 And bristling like the *quiscahuan*, <span
-id="fr_39"></span>[3](#fn_39)  
+id="fr_39"></span>[3](#fn_39.md)  
 Accoutred as becomes a knight.
 
 <span id="page_371">p. 371</span>
@@ -122,7 +122,7 @@ Accoutred as becomes a knight.
 (*Turning to* Urco Huaranca.)
 
 Ne'er let thine enemies take thee in rear  
-Man of the Puna, <span id="fr_40"></span>[1](#fn_40) it ne'er can be
+Man of the Puna, <span id="fr_40"></span>[1](#fn_40.md) it ne'er can be
 said  
 You fled or trembled as a reed.  
   *Urco Huaranca*. Hear me, warriors of the Andes!  
@@ -141,25 +141,25 @@ To shoot our arrows, carrying death.
 Fix all the posts for different tribes;  
 Our foes keep marching without sleep--  
 Contrive to check them by surprise.  
-The *compi* <span id="fr_41"></span>[2](#fn_41) ruse may cause their
+The *compi* <span id="fr_41"></span>[2](#fn_41.md) ruse may cause their
 flight.  
   *Urco Huaranca*. Thirty thousand brave Antis are here,  
 Amongst them no weakling is found;  
-Apu Maruti, <span id="fr_42"></span>[3](#fn_42) the mighty in war,  
-From high Uilcapampa <span id="fr_43"></span>[4](#fn_43) will come,  
-On steep Tinquiqueru <span id="fr_44"></span>[5](#fn_44) he'll stand
+Apu Maruti, <span id="fr_42"></span>[3](#fn_42.md) the mighty in war,  
+From high Uilcapampa <span id="fr_43"></span>[4](#fn_43.md) will come,  
+On steep Tinquiqueru <span id="fr_44"></span>[5](#fn_44.md) he'll stand
 
 <span id="page_372">p. 372</span>
 
 To march when the signal appears;  
 On the opposite side of the stream  
-Prince Chara <span id="fr_45"></span>[1](#fn_45) has mustered his
+Prince Chara <span id="fr_45"></span>[1](#fn_45.md) has mustered his
 force;  
-In the gorge Charamuni <span id="fr_46"></span>[2](#fn_46) I post  
+In the gorge Charamuni <span id="fr_46"></span>[2](#fn_46.md) I post  
 Ten thousand armed Antis on watch;  
 Another such force is in wait  
 On the left, in the vale of Pachar. <span
-id="fr_47"></span>[3](#fn_47)  
+id="fr_47"></span>[3](#fn_47.md)  
 We are ready to meet our foes,  
 We await them with resolute calm;  
 They will march in their confident pride  
@@ -167,7 +167,7 @@ Until their retreat is out off,
 Then the trumpet of war shall resound,  
 From the mountains the stones shall pour down,  
 Great blocks will be hurled from above.  
-The Huancas <span id="fr_48"></span>[4](#fn_48) are crushed or
+The Huancas <span id="fr_48"></span>[4](#fn_48.md) are crushed or
 dispersed,  
 Then the knife shall do its fell work,  
 All will perish by blows from our hands,  
@@ -182,7 +182,7 @@ Our arrows will follow their flight.
 
 ### Footnotes
 
-<span id="fn_36"></span>[369:1](oll09.htm#fr_36) This, as we have seen,
+<span id="fn_36"></span>[369:1](oll09.htm#fr_36.md) This, as we have seen,
 was not the reason why Ollantay fled from Cuzco; but, from a leader's
 point of view, it was an excellent reason to give to the people of
 Anti-suyu. The great wars of the Incas were, to some extent, a heavy
@@ -190,53 +190,53 @@ drain upon the people, but the recruiting was managed with such skill,
 and was so equally divided among a number of provinces, that it was not
 much felt.
 
-<span id="fn_37"></span>[370:1](oll09.htm#fr_37) The snowy mountain far
+<span id="fn_37"></span>[370:1](oll09.htm#fr_37.md) The snowy mountain far
 to the south, in sight from Cuzco. *Uilca*, sacred; *unuta*, water. Here
 is the source of the river *Uilcamayu*, which flows by Ollantay-tampu.
 
-<span id="fn_38"></span>[370:2](oll09.htm#fr_38) The aged *Hanco
+<span id="fn_38"></span>[370:2](oll09.htm#fr_38.md) The aged *Hanco
 Huayllu* as *Auqui*, or Prince of the Blood, and relation of the High
 Priest, gave éclat to these ceremonies.
 
-<span id="fn_39"></span>[370:3](oll09.htm#fr_39) *Quiscahuan*. anything
+<span id="fn_39"></span>[370:3](oll09.htm#fr_39.md) *Quiscahuan*. anything
 full of thorns.
 
-<span id="fn_40"></span>[371:1](oll09.htm#fr_40) *Puna*, the loftier
+<span id="fn_40"></span>[371:1](oll09.htm#fr_40.md) *Puna*, the loftier
 parts of the Andes.
 
-<span id="fn_41"></span>[371:2](oll09.htm#fr_41) *Compi*, cloth or a
+<span id="fn_41"></span>[371:2](oll09.htm#fr_41.md) *Compi*, cloth or a
 cloak. This was an expression of the ancient Peruvians, perhaps
 equivalent to our 'hoodwinking.'
 
-<span id="fn_42"></span>[371:3](oll09.htm#fr_42) Apu Maruti was the head
+<span id="fn_42"></span>[371:3](oll09.htm#fr_42.md) Apu Maruti was the head
 of the *ayllu* of the Inca Yahuar Huaccac, grandfather of Pachacuti. It
 was called the *ayllu* Aucaylli Panaca.--Mesa, *Anales del Cuzco*,
 quoted by Zegarra.
 
-<span id="fn_43"></span>[371:4](oll09.htm#fr_43) Uilcapampa, mass of
+<span id="fn_43"></span>[371:4](oll09.htm#fr_43.md) Uilcapampa, mass of
 mountains between the Uilcamayu and Apurimac.
 
-<span id="fn_44"></span>[371:5](oll09.htm#fr_44) Tinqui Queru, between
+<span id="fn_44"></span>[371:5](oll09.htm#fr_44.md) Tinqui Queru, between
 Urupampa and Tampu. The word means 'two vases coupled.' Here are two
 rounded hills connected by a saddle, three and a half miles from Tampu.
 
-<span id="fn_45"></span>[372:1](oll09.htm#fr_45) Chara, was another
+<span id="fn_45"></span>[372:1](oll09.htm#fr_45.md) Chara, was another
 descendant of Yahuar Huaccac.
 
-<span id="fn_46"></span>[372:2](oll09.htm#fr_46) A ravine on the right
+<span id="fn_46"></span>[372:2](oll09.htm#fr_46.md) A ravine on the right
 bank of the Vilcamayu.
 
-<span id="fn_47"></span>[372:3](oll09.htm#fr_47) Pachar is on the left
+<span id="fn_47"></span>[372:3](oll09.htm#fr_47.md) Pachar is on the left
 bank of the Vilcamayu opposite Ollantay-tampu, with which it is
 connected by a rope bridge.
 
-<span id="fn_48"></span>[372:4](oll09.htm#fr_48) Huancas, natives of the
+<span id="fn_48"></span>[372:4](oll09.htm#fr_48.md) Huancas, natives of the
 valley of Jauja--Inca recruits.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Scene 2](oll10)
+[Next: Scene 2](oll10.md)
 
 </div>

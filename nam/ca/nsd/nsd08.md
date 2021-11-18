@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](nsd07)  [Next](nsd09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](nsd07)  [Next](nsd09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Shoshonean Dialects of Southern California*, by A. L.
 Kroeber, \[1909\], at Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ linguistic distinctions evinced by both informants, made it impossible
 to secure connected texts. It was however possible to obtain material
 elucidating several phases of the structure of the language, which had
 presented themselves as problems in a study recently made of the closely
-similar Ute dialects, <span id="fr_15"></span>[14](#fn_14) especially
+similar Ute dialects, <span id="fr_15"></span>[14](#fn_14.md) especially
 the relation between the possessive pronouns and the characteristic
 Shoshonean noun-suffixes.
 
@@ -150,7 +150,7 @@ possessive, sari-<span class="it">v</span>uñk). Ute s<span
 class="it">ö</span>-up, s<span class="it">ö</span>-an, lungs, pi-upi,
 pi-nañ, heart (Chemehuevi piy<span class="it">ü</span>w-an = pi<span
 class="it">ü</span>-an, my heart), also show detachable endings. <span
-id="fr_16"></span>[15](#fn_15)
+id="fr_16"></span>[15](#fn_15.md)
 
 The word t<span class="it">ö</span><span class="it">v</span>i-p, land or
 earth, is interesting because the loss of its ending is accompanied by
@@ -223,7 +223,7 @@ Shoshonean form is hi-.
 *Vocabulary*.
 
 The following Chemehuevi words not included in the vocabulary previously
-printed <span id="fr_17"></span>[16](#fn_16) have been obtained:
+printed <span id="fr_17"></span>[16](#fn_16.md) have been obtained:
 
 <span class="small">Man, dawatc, dawam; baby, <span
 class="it">ü</span>ñapitc; head, totsi-n; hair, totsi<span
@@ -309,10 +309,10 @@ class="it">v</span>i-p, and gani is house.
 
 ### Footnotes
 
-<span id="fn_14"></span>[257:14](nsd08.htm#fr_15) Amer. Anthr., n.s., X,
+<span id="fn_14"></span>[257:14](nsd08.htm#fr_15.md) Amer. Anthr., n.s., X,
 74, 1908.
 
-<span id="fn_15"></span>[259:15](nsd08.htm#fr_16) These forms and the
+<span id="fn_15"></span>[259:15](nsd08.htm#fr_16.md) These forms and the
 Chemehuevi ones make doubtful the statement (Am. Anthr., n.s., X, 76,
 1908), based on the forms tcaxatc-in, my younger brother, and witc-im,
 your knife, that the Ute noun-endings are not lost before pronominal
@@ -322,9 +322,9 @@ explanation for witc. If this -tc is not an ending, the only
 Ute-Chemehuevi noun-suffix as yet determined is <span
 class="it">v</span>, p.
 
-<span id="fn_16"></span>[260:16](nsd08.htm#fr_17) Present series, IV,
+<span id="fn_16"></span>[260:16](nsd08.htm#fr_17.md) Present series, IV,
 71, 1907.
 
 ------------------------------------------------------------------------
 
-[Next: Kern River](nsd09)
+[Next: Kern River](nsd09.md)

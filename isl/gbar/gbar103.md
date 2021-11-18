@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar102) [Next](gbar104)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar102) [Next](gbar104.md)
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ more lightly he is laden.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar104)
+[Next](gbar104.md)

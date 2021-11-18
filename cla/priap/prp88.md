@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp87)  [Next](prp89) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp87)  [Next](prp89.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ not admitted into heaven or entitled to blood offerings.\]
 
 ------------------------------------------------------------------------
 
-[Next: 89. This grove to thee devote I give, Priapus!](prp89)
+[Next: 89. This grove to thee devote I give, Priapus!](prp89.md)

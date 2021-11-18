@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate08)  [Next](gate10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate08)  [Next](gate10.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ guideth this great god through this Circle.
 
 ------------------------------------------------------------------------
 
-[Next: The Eighth Hour](gate10)
+[Next: The Eighth Hour](gate10.md)

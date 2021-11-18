@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil80)  [Next](seil82) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil80)  [Next](seil82.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ That is a real scruple and temptation which the enemy sets.
 to be abhorred, because it is all error; but the second -- of the second
 note -- for some space of time is of no little profit to the soul which
 is giving itself to spiritual exercises; <span
-id="fr_38"></span>[39](seil83.htm#fn_38) rather in great manner it
+id="fr_38"></span>[39](seil83.htm#fn_38.md) rather in great manner it
 purifies and cleanses such a soul, separating it much from all
 appearance of sin: according to that saying of Gregory: "It belongs to
 good minds to see a fault where there is no fault."
@@ -75,4 +75,4 @@ thee did I begin, nor for thee will I stop."
 
 ------------------------------------------------------------------------
 
-[Next: Rules to have the True Seniment in the Church](seil82)
+[Next: Rules to have the True Seniment in the Church](seil82.md)

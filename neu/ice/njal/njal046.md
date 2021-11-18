@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal045)  [Next](njal047) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal045)  [Next](njal047.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ Viking-Kari's son.
 
 ------------------------------------------------------------------------
 
-[Next: 47. Of Otkell In Kirkby](njal047)
+[Next: 47. Of Otkell In Kirkby](njal047.md)

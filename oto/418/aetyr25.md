@@ -1,58 +1,58 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
-# **The Cry of he 25th Aethyr, Which is Called VTI**[**1**](#1)
+# **The Cry of he 25th Aethyr, Which is Called VTI**[**1**](#1.md)
 
 There is nothing in the stone but the pale gold of the Rosy Cross.
 
 Now there comes an Angel with bright wings, that is the Angel of the
 25th Aire. And all the aire is a dark olive about him, like an
-alexandrite [**2**](#2) stone. He bears a pitcher[**3**](#3) or
-amphora[**4**](#4) And now there comes another Angel upon a white
-horse[**5**](#5), and yet again another Angel upon a black
-bull[**6**](#6). And now there comes a lion[**7**](#7) and swallows the
+alexandrite [**2**](#2) stone. He bears a pitcher[**3**](#3.md) or
+amphora[**4**](#4.md) And now there comes another Angel upon a white
+horse[**5**](#5.md), and yet again another Angel upon a black
+bull[**6**](#6). And now there comes a lion[**7**](#7.md) and swallows the
 two latter angels up. The first angel goes to the lion and closes his
-mouth[**8**](#8). And behind them are arrayed a great company of Angels
+mouth[**8**](#8.md). And behind them are arrayed a great company of Angels
 with silver spears, like a forest. And the Angel says: Blow, all ye
 trumpets, for I will loose my hands from the mouth of the lion, and his
-roaring shall enkindle the worlds[**9**](#9). Then the trumpets blow,
+roaring shall enkindle the worlds[**9**](#9.md). Then the trumpets blow,
 and the wind rises and whistles terribly. It is a blue wind with silver
 specks; and it blows through the whole Aethyr. But through it one
-perceives the lion, which has become as a raging flame[**10**](#10). And
+perceives the lion, which has become as a raging flame[**10**](#10.md). And
 he roareth in an unknown tongue. But this is the interpretation thereof:
-Let the stars be burnt up in the fire of my nostrils[**11**](#11)! Let
+Let the stars be burnt up in the fire of my nostrils[**11**](#11.md)! Let
 all the gods and the archangels and the angels and the spirits that are
 on the earth, and above the earth, and below the earth, that are in all
 the heavens and in all the hells, let them be as motes dancing in the
-beam of mine eye[**12**](#12)! I am he that swalloweth up
-death[**13**](#13) and victory[**14**](#14). I have slain the crowned
-goat[**15**](#15), and drunk up the great sea[**16**](#16). Like the ash
+beam of mine eye[**12**](#12.md)! I am he that swalloweth up
+death[**13**](#13) and victory[**14**](#14.md). I have slain the crowned
+goat[**15**](#15), and drunk up the great sea[**16**](#16.md). Like the ash
 of dried leaves the worlds are blown before me. Thou hast passed by me,
 and thou hast not known me. Woe unto thee, that I have not devoured thee
-altogether! On my head is the crown, 419 rays[**17**](#17) far-darting.
-And my body is the body of the Snake[**18**](#18), and my soul is the
-soul of the Crowned Child[**19**](#19). Though an Angel in white robes
-leadeth me[**20**](#20), - who shall ride upon me but the Woman of
-Abominations[**21**](#21)? Who is the Beast[**22**](#22)? Am not I one
-more than he[**23**](#23)? In his hand is a sword that is a
-book[**24**](#24). In his hand is a spear that is a cup of
-fornication[**25**](#25). Upon his mouth is set the great and terrible
-seal[**26**](#26). And he hath the secret of V[**27**](#27). His ten
-horns spring from five points[**28**](#28), and his eight
-heads[**29**](#29) are as the charioteer of the West[**30**](#30). Thus
-doth the fire of the sun temper the spear of Mars[**31**](#31), and thus
-shall he be worshipped, as the warrior lord of the sun[**32**](#32). Yet
+altogether! On my head is the crown, 419 rays[**17**](#17.md) far-darting.
+And my body is the body of the Snake[**18**](#18.md), and my soul is the
+soul of the Crowned Child[**19**](#19.md). Though an Angel in white robes
+leadeth me[**20**](#20.md), - who shall ride upon me but the Woman of
+Abominations[**21**](#21)? Who is the Beast[**22**](#22.md)? Am not I one
+more than he[**23**](#23.md)? In his hand is a sword that is a
+book[**24**](#24.md). In his hand is a spear that is a cup of
+fornication[**25**](#25.md). Upon his mouth is set the great and terrible
+seal[**26**](#26). And he hath the secret of V[**27**](#27.md). His ten
+horns spring from five points[**28**](#28.md), and his eight
+heads[**29**](#29) are as the charioteer of the West[**30**](#30.md). Thus
+doth the fire of the sun temper the spear of Mars[**31**](#31.md), and thus
+shall he be worshipped, as the warrior lord of the sun[**32**](#32.md). Yet
 in him is the woman that devoureth with her water all the fire of
-God[**33**](#33). Alas! my lord, thou art joined with him that knoweth
-not these things[**34**](#34). When shall the day come that men shall
+God[**33**](#33.md). Alas! my lord, thou art joined with him that knoweth
+not these things[**34**](#34.md). When shall the day come that men shall
 flock to this my gate, and fall into my furious throat, a whirlpool of
 fire? This is hell unquenchable, and all they shall be utterly consumed
-therein. Therefore is that asbestos unconsumable made pure[**35**](#35).
-Each of my teeth[**36**](#36) is a letter of the reverberating name. My
-tongue is a pillar of fire[**37**](#37), and from the glands of my mouth
-arise four pillars of water[**38**](#38).TAOTZEM[**39**](#39){SUP:19} is
+therein. Therefore is that asbestos unconsumable made pure[**35**](#35.md).
+Each of my teeth[**36**](#36.md) is a letter of the reverberating name. My
+tongue is a pillar of fire[**37**](#37.md), and from the glands of my mouth
+arise four pillars of water[**38**](#38).TAOTZEM[**39**](#39.md){SUP:19} is
 the name by which I am blasphemed. My name thou shalt not know, lest
 thou pronounce it and pass by.
 
@@ -60,15 +60,15 @@ And now the Angel comes forward again and closes his mouth.
 
 All this time heavy blows have been raining upon me from invisible
 angels, so that I am weighed down as with a burden greater than the
-world[**40**](#40). I am altogether crushed. Great millstones are hurled
-out of heaven upon me[**41**](#41). I am trying to crawl to the
-lion[**42**](#42), and the ground is covered with sharp knives. I cut
-myself at every inch[**43**](#43).
+world[**40**](#40.md). I am altogether crushed. Great millstones are hurled
+out of heaven upon me[**41**](#41.md). I am trying to crawl to the
+lion[**42**](#42.md), and the ground is covered with sharp knives. I cut
+myself at every inch[**43**](#43.md).
 
-And the voice comes: Why art thou there who art here[**44**](#44)? Hast
-thou not the sign of the number[**45**](#45), and the seal of the
-name[**46**](#46), and the ring of the eye[**47**](#47)? Thou wilt
-not[**48**](#48).
+And the voice comes: Why art thou there who art here[**44**](#44.md)? Hast
+thou not the sign of the number[**45**](#45.md), and the seal of the
+name[**46**](#46), and the ring of the eye[**47**](#47.md)? Thou wilt
+not[**48**](#48.md).
 
 And I answered and said: I am a creature of earth, and ye would have me
 swim.
@@ -78,7 +78,7 @@ weakness is known; but thou art nothing in this matter. Shall the grain
 which is cast into the earth by the hand of the sower debate within
 itself, saying, am I oats or barley? Bondslave of the curse, we give
 nothing, we take all. Be thou content. That which thou art, thou art. Be
-content[**49**](#49).
+content[**49**](#49.md).
 
 And now the lion passeth over through the Aethyr with the crowned beast
 upon his back, and the tail of the lion goes on instead of stopping, and
@@ -88,7 +88,7 @@ plain with soldiers fighting upon it, and an enormously high mountain
 carved into a thousand temples, and more houses and fields and trees,
 and great cities with wonderful buildings in them, statues and columns
 and public buildings generally. This goes on and on and on and on and on
-and on and on all on the hairs of this lion's tail[**50**](#50).
+and on and on all on the hairs of this lion's tail[**50**](#50.md).
 
 And then there is the tuft of his tail, which is like a comet, but the
 head is a new universe, and each hair streaming away from it is a Milky
@@ -96,7 +96,7 @@ Way.
 
 And then there is a pale stern figure, enormous, enormous, bigger than
 all that universe is, in silver armour, with a sword and a pair of
-balances[**51**](#51). That is only vague. All has gone into stone-gray,
+balances[**51**](#51.md). That is only vague. All has gone into stone-gray,
 blank.
 
 There is nothing.
@@ -234,4 +234,4 @@ upon him were not these very sounds and ideas.)
 
 ------------------------------------------------------------------------
 
-> [**Back to Liber 418**](418)
+> [**Back to Liber 418**](418.md)

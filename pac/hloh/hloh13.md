@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh12)  [Next](hloh14) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh12)  [Next](hloh14.md) 
 
 ------------------------------------------------------------------------
 
@@ -296,4 +296,4 @@ leaping from sheet to sheet of Hina's kapas in cloudland.
 
 ------------------------------------------------------------------------
 
-[Next: X. Creation of Man](hloh14)
+[Next: X. Creation of Man](hloh14.md)

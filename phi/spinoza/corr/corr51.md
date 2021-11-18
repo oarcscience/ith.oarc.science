@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr50)  [Next](corr52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr50)  [Next](corr52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ offers Spinoza the post of Professor of Philosophy at Heidelberg, under
 very liberal conditions*.\]
 
 <span class="smallcaps">Most renowned Sir</span>,—His Most Serene
-Highness the Elector Palatine, <span id="fr_61"></span>[1](#fn_60) my
+Highness the Elector Palatine, <span id="fr_61"></span>[1](#fn_60.md) my
 most gracious master, commands me to write to you, who are, as yet,
 unknown to me, but most favourably regarded by his Most Serene Highness,
 and to inquire of you, whether you are willing to accept an ordinary
@@ -62,9 +62,9 @@ Heidelberg, 16 Feb., 1673.
 
 ### Footnotes
 
-<span id="fn_60"></span>[373:1](corr51.htm#fr_61) Charles Lewis,
+<span id="fn_60"></span>[373:1](corr51.htm#fr_61.md) Charles Lewis,
 Elector, 1632-1680.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LIV To Fabritius](corr52)
+[Next: Letter LIV To Fabritius](corr52.md)

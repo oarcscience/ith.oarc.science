@@ -132,4 +132,4 @@ John Winston.  johnfwin@mlode.com
 ---
 ------------------------------------------------------------------------
 
-[Next: The Chupacabras Song](chupsong)
+[Next: The Chupacabras Song](chupsong.md)

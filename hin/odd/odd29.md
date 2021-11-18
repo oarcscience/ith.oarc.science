@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd28)  [Next](odd30) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd28)  [Next](odd30.md) 
 
 ------------------------------------------------------------------------
 
@@ -170,7 +170,7 @@ Sepoys unsupported by any body of Europeans, withdrew, and never again
 attempted to try the fortune of war in the field. The surviving remnant
 of the victors made good their retreat, carrying with them, among their
 other wounded, their gallant adjutant, to die and be laid in a soldier's
-grave at Seroor. <span id="fr_97"></span>[1](#fn_97)
+grave at Seroor. <span id="fr_97"></span>[1](#fn_97.md)
 
 Almost every hill-fort and large village round Poona has some tradition,
 not only of the days of Alumgeer, Sivagee, and of early Mahratta
@@ -318,10 +318,10 @@ loneliness.
 
 ### Footnotes
 
-<span id="fn_97"></span>[1](odd29.htm#fr_97) For a full account of the
+<span id="fn_97"></span>[1](odd29.htm#fr_97.md) For a full account of the
 military operations of this eventful period, see Grant Doff's admirable
 *History of the Mahrattas*.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Fairy Legends](odd30)
+[Next: Notes on the Fairy Legends](odd30.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac17)  [Next](ybac19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac17)  [Next](ybac19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ it, and slew those who escaped. From this great wars
 
 <span id="page_24">p. 24</span>
 
-followed. <span id="fr_15"></span>[\*](#fn_15) There was also a plague
+followed. <span id="fr_15"></span>[\*](#fn_15.md) There was also a plague
 of locusts for five years, so great that no green thing was left and
 such a famine ensued that they fell dead on the roads, and when the
 Spaniards returned they did not recognize the country. However, four
@@ -69,7 +69,7 @@ city of Mérida.
 
 ### Footnotes
 
-<span id="fn_15"></span>[24:\*](ybac18.htm#fr_15) This is the famous
+<span id="fn_15"></span>[24:\*](ybac18.htm#fr_15.md) This is the famous
 event of 1536, the death of Ahpulá Napot Xiu, the 'rain-bringer,' at
 Otzomal; see the Maya Chronicles and the Xiu Papers at page . . .
 herein.
@@ -77,4 +77,4 @@ herein.
 ------------------------------------------------------------------------
 
 [Next: XV. Cruelties of the Spaniards Toward the Indians. How They
-Excused Themselves](ybac19)
+Excused Themselves](ybac19.md)

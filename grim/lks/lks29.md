@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks28)  [Next](lks30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks28)  [Next](lks30.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ GOETIA.)
 
 ------------------------------------------------------------------------
 
-[Next: Preamble](lks30)
+[Next: Preamble](lks30.md)

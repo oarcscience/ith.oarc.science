@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm03)  [Next](tgm05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm03)  [Next](tgm05.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ Thus slowly and sadly they leave Jerusalem.
 <span id="img_00300"></span>
 
 [![](tn/00300.jpg)  
-Click to enlarge](img/00300.jpg)
+Click to enlarge](img/00300.jpg.md)
 
  
 
@@ -101,7 +101,7 @@ eyes sparkling with glee.
 <span id="img_00500"></span>
 
 [![](tn/00500.jpg)  
-Click to enlarge](img/00500.jpg)
+Click to enlarge](img/00500.jpg.md)
 
  
 
@@ -212,4 +212,4 @@ Are we to be here*!
 
 ------------------------------------------------------------------------
 
-[Next: 2. With Peace They Conquer](tgm05)
+[Next: 2. With Peace They Conquer](tgm05.md)

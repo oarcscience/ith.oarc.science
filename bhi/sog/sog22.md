@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Baha'i](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](sog21) 
-[Next](sog23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Baha'i](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](sog21.md) 
+[Next](sog23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Splendour of God*, by Eric Hammond, \[1909\], at Intangible Textual
 Heritage
 
@@ -167,13 +167,13 @@ deeds is in truth more powerful than that of words.
 
 ### Footnotes
 
-<span id="fn_7"></span>[91:1](sog21.htm#fr_7) From the Arabic, and
+<span id="fn_7"></span>[91:1](sog21.htm#fr_7.md) From the Arabic, and
 Persian. Mirza Ameen U. Fareed.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Of Divine Humanity](sog23)
+[Next: Of Divine Humanity](sog23.md)
 
 </div>

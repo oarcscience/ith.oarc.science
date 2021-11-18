@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft70)  [Next](efft72) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft70)  [Next](efft72.md) 
 
 ------------------------------------------------------------------------
 
-# THE THREE SILLIES  <span id="fr_84"></span>[1](#fn_84)
+# THE THREE SILLIES  <span id="fr_84"></span>[1](#fn_84.md)
 
 ONCE upon a time there was a farmer and his wife who had one daughter,
 and she was courted by a gentleman. Every evening he used to come and
@@ -13,7 +13,7 @@ see her, and stop to supper at the farmhouse, and the daughter used to
 be sent down into the cellar to draw the beer for supper. So one evening
 she was gone down to draw the beer, and she happened to look up at the
 ceiling while she was drawing, and she saw an axe stuck into one of the
-beams.  <span id="fr_85"></span>[2](#fn_85) It must have been there a
+beams.  <span id="fr_85"></span>[2](#fn_85.md) It must have been there a
 long, long time, but somehow or other she had never noticed it before,
 and she began a-thinking. And she thought it was very dangerous to have
 that axe there, for she said to herself: "Suppose him and me was to be
@@ -109,7 +109,7 @@ can't get her out anyhow!" So the gentleman burst out a-laughing, and
 told them to look up into the sky, and that it was only the shadow in
 the water. But they wouldn't listen to him, and abused him shamefully,
 and he got away as quick as he could  <span
-id="fr_86"></span>[3](#fn_86)
+id="fr_86"></span>[3](#fn_86.md)
 
 So there was a whole lot of sullies bigger than them all, and the
 gentleman turned back home again and married the farmer's daughter.
@@ -118,15 +118,15 @@ gentleman turned back home again and married the farmer's daughter.
 
 ### Footnotes
 
-<span id="fn_84"></span>[1](efft71.htm#fr_84) Folk-Lore Journal, vol.
+<span id="fn_84"></span>[1](efft71.htm#fr_84.md) Folk-Lore Journal, vol.
 ii. p. 40.
 
-<span id="fn_85"></span>[2](efft71.htm#fr_85) Miss Burne, who collected
+<span id="fn_85"></span>[2](efft71.htm#fr_85.md) Miss Burne, who collected
 this story, informs me that she finds the dangerous tool was, not an
 axe, but "a great big wooden mallet, as some one had left sticking there
 when they'd been making-up the beer," i.e., stopping up the barrels.
 
-<span id="fn_86"></span>[3](efft71.htm#fr_86) Miss Burne writes to me as
+<span id="fn_86"></span>[3](efft71.htm#fr_86.md) Miss Burne writes to me as
 follows:--"I find my sister-in-law, also a Staffordshire woman, knew the
 story when a child, with the variation of an old woman weeding by
 candlelight at noonday, instead of the moonrakers." The story has many
@@ -134,4 +134,4 @@ variants; but I know of none better told than this.
 
 ------------------------------------------------------------------------
 
-[Next: Mr Vinegar](efft72)
+[Next: Mr Vinegar](efft72.md)

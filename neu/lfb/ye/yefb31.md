@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb30)  [Next](yefb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb30)  [Next](yefb32.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_192">p. 192</span>
 
-THE FLOWER QUEEN'S DAUGHTER <span id="fr_22"></span>[1](#fn_22)
+THE FLOWER QUEEN'S DAUGHTER <span id="fr_22"></span>[1](#fn_22.md)
 
 A young Prince was riding one day through a meadow that stretched for
 miles in front of him, when he came to a deep open ditch.  He was
@@ -241,13 +241,13 @@ they always lived happily together.
 
 ### Footnotes
 
-<span id="fn_22"></span>[192:1](yefb31.htm#fr_22) From the *Bukowinaer*.
+<span id="fn_22"></span>[192:1](yefb31.htm#fr_22.md) From the *Bukowinaer*.
 Von Wliolocki.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Flying Ship](yefb32)
+[Next: The Flying Ship](yefb32.md)
 
 </div>

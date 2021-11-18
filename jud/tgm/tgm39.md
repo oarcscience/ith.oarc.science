@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm38)  [Next](tgm40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm38)  [Next](tgm40.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Clothe yourselves in white garments. Wrap yourselves in a *talith* and
 <span id="img_21300"></span>
 
 [![](tn/21300.jpg)  
-Click to enlarge](img/21300.jpg)
+Click to enlarge](img/21300.jpg.md)
 
  
 
@@ -84,4 +84,4 @@ one would again deceive them about the Messiah. But would no one?
 
 ------------------------------------------------------------------------
 
-[Next: 37. So This is Your Answer](tgm40)
+[Next: 37. So This is Your Answer](tgm40.md)

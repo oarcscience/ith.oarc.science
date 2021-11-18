@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,10 +12,10 @@ Reading](../pkt/tarot0) 
 
 ------------------------------------------------------------------------
 
-[Title Page](mtar00)  
-[Introduction](mtar01)  
-[Symbolism of Each of the Keys](mtar02)  
-[Meanings of the Cards](mtar03)  
-[Methods of Divination](mtar04)  
-[Tarot Game Play](mtar05)  
-[Occult Significance of the Tarot Cards](mtar06)  
+[Title Page](mtar00.md)  
+[Introduction](mtar01.md)  
+[Symbolism of Each of the Keys](mtar02.md)  
+[Meanings of the Cards](mtar03.md)  
+[Methods of Divination](mtar04.md)  
+[Tarot Game Play](mtar05.md)  
+[Occult Significance of the Tarot Cards](mtar06.md)  

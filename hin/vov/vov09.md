@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov08)  [Next](vov10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov08)  [Next](vov10.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ does sloth reduce men to sensuality).
 704
 
 The water shows the might of a ship; the plain shows the power of a car;
-but the power of a woman is seen [wherever](errata.htm#119) she be.
+but the power of a woman is seen [wherever](errata.htm#119.md) she be.
 
 705
 
@@ -213,8 +213,8 @@ tenant, if his right be not good.
 
 732
 
-[You](errata.htm#120) may speak a hundred words but beware of
-[writing](errata.htm#121) down one. No evidence is required if the
+[You](errata.htm#120.md) may speak a hundred words but beware of
+[writing](errata.htm#121.md) down one. No evidence is required if the
 writing is produced. But in case writing is wanted then indeed good
 witnesses are required. (easy, pure Telugu),
 
@@ -222,12 +222,12 @@ witnesses are required. (easy, pure Telugu),
 
 When both the writing and enjoyment are combined, then is the evidence
 sure. When the writing and enjoyment are both wanting all other evidence
-[is](errata.htm#122) fruitless.
+[is](errata.htm#122.md) fruitless.
 
 734
 
-If along with the first witness an [opposing](errata.htm#123) witness be
-adduced, the preceding [witness](errata.htm#124) is of avail. The latter
+If along with the first witness an [opposing](errata.htm#123.md) witness be
+adduced, the preceding [witness](errata.htm#124.md) is of avail. The latter
 witness is the source of in influence. (lit. power.)
 
 735
@@ -243,7 +243,7 @@ we may hold it true. A respectable house holder is the only witness.
 When a great combat for a boundary begins, rather than killing each
 other in the dispute let old farmers who know the origin walk the path
 of the boundary. (Disputed boundaries are thus settled by an experienced
-farmer being [appointed](errata.htm#125) to walk on the correct line of
+farmer being [appointed](errata.htm#125.md) to walk on the correct line of
 path demarcation).
 
 737
@@ -255,9 +255,9 @@ attaches to him.
 
 738
 
-It is [fit](errata.htm#126) to put diverse marks off the fixed boundary
+It is [fit](errata.htm#126.md) to put diverse marks off the fixed boundary
 stones, foreseeing evil. Walk with a view to the
-[present](errata.htm#127) and the [coming](errata.htm#128) world. The
+[present](errata.htm#127) and the [coming](errata.htm#128.md) world. The
 next world is known to thee O Vema!
 
 739
@@ -277,7 +277,7 @@ lay down the land mark with care.
 
 741
 
-Behind the man [while](errata.htm#129) he is digging the boundary, let
+Behind the man [while](errata.htm#129.md) he is digging the boundary, let
 the opposite dig an opposite bound and let all the chief men give him
 their blessings.
 
@@ -297,7 +297,7 @@ the people and live in virtue.
 
 744
 
-The writing of the excellent man [who](errata.htm#130) measures the land
+The writing of the excellent man [who](errata.htm#130.md) measures the land
 leaving on each side of the measuring pole six steps as long as a cow's
 foot steps (unapportioned to either), that writing will be stable and
 able to reply even to the writing of fate.
@@ -324,7 +324,7 @@ lands, well versed in equity, suitable council
 <span id="page_183">p. 183</span>
 
 \[paragraph continues\] (lit. contrivance), who knows the due
-[division](errata.htm#131) of shares pertaining to the government and
+[division](errata.htm#131.md) of shares pertaining to the government and
 the farmer, and on his guard against sin (injustice), he who knows also
 how to write all his is the chief (lit. jewel) of men.
 
@@ -334,7 +334,7 @@ The measurements of tanks and ponds, the measurement used in fields and
 small plots the measurement along boundaries without hindrance--to know
 the rules for these is a victory.
 
-[749](errata.htm#132)
+[749](errata.htm#132.md)
 
 All those debased ones, who not recognising equity, measure the earth
 with a pole and over-reach in the measurement--these shall in the
@@ -420,7 +420,7 @@ But her house deserted!
 
 761
 
-Though he read all [that](errata.htm#133) can be read and attain ample
+Though he read all [that](errata.htm#133.md) can be read and attain ample
 discrimination but how shall the hypocrite (consider) attain
 beatitude--like as the wandering wishes of a dog though lying at ease on
 the hearth.
@@ -439,9 +439,9 @@ and attain heaven. The bliss of heaven does not exist in this earth.
 
 764
 
-What has the sage to do with rites? The sage [requires](errata.htm#134)
+What has the sage to do with rites? The sage [requires](errata.htm#134.md)
 no concealment; if the excellent man possesses
-[undefiled](errata.htm#135) wisdom he shall in this earth attain
+[undefiled](errata.htm#135.md) wisdom he shall in this earth attain
 deliverance from all earthly ties.
 
 765
@@ -462,7 +462,7 @@ know the bliss of the next world.
 Like him who, knowing the suitability of stones uniteth stones into a
 binding; if like him, thou know the desirable arrangement of thy mind
 and thus order thy mind--hereby shalt thou know the divinity and
-[thenceforth](errata.htm#136) live in happiness.
+[thenceforth](errata.htm#136.md) live in happiness.
 
 <span id="page_188">p. 188</span>
 
@@ -500,7 +500,7 @@ If death enters your house, will she not devour you?
 773
 
 If you do not put a basketful of bran before it, the she
-[buffalo](errata.htm#137) you have bought will not let you milk. He can
+[buffalo](errata.htm#137.md) you have bought will not let you milk. He can
 you vainly love a dancing girl?
 
 774
@@ -508,7 +508,7 @@ you vainly love a dancing girl?
 What does the arrogant high way man know of (care for poverty? As you
 call out for mercy he merely breaks your head) What does the young
 prostitute care about considering virtues of the
-[faithful](errata.htm#138) wife?
+[faithful](errata.htm#138.md) wife?
 
 775
 
@@ -542,7 +542,7 @@ who is devoted to the Supreme.
 780
 
 Happy is he who without considering this or that place,
-[everywhere](errata.htm#139) dwells as Siva. To them of understanding he
+[everywhere](errata.htm#139.md) dwells as Siva. To them of understanding he
 appears as a God.
 
 781
@@ -586,7 +586,7 @@ His. He that hath seen Him is himself the *yogee*.
 787
 
 Seeing the love of women sages (sanyasees) will love them,
-[being](errata.htm#140) immersed in the infamy of the world; when it has
+[being](errata.htm#140.md) immersed in the infamy of the world; when it has
 caught a bird, the cat is happy.
 
 788
@@ -637,7 +637,7 @@ cannot perceive the divinity.
 <span id="page_194">p. 194</span>
 
 When a plan is devised, unless it be performed, the hire is not given.
-Unless she [satisfy](errata.htm#141) your desire you would not give her
+Unless she [satisfy](errata.htm#141.md) your desire you would not give her
 a shilling. Thus is the teacher that bestows no beatitude is a son of
 apes!
 
@@ -666,4 +666,4 @@ saint forever.
 
 ------------------------------------------------------------------------
 
-[Next: 800-899](vov10)
+[Next: 800-899](vov10.md)

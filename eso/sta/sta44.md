@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta43)  [Next](sta45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta43)  [Next](sta45.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ death in Jerusalem \* \* \*"
 <span id="img_17700"></span>
 
 [![THE ROUND TABLE OF KING ARTHUR.](tn/17700.jpg)  
-Click to enlarge](img/17700.jpg)  
+Click to enlarge](img/17700.jpg.md)  
 THE ROUND TABLE OF KING ARTHUR.  
 
 From Jennings' *The Rosicrucians, Their Rites and Mysteries*.
@@ -305,7 +305,7 @@ engaged
 <span id="img_17800"></span>
 
 [![THE GREAT GEORGE AND COLLAR OF THE GARTER.](tn/17800.jpg)  
-Click to enlarge](img/17800.jpg)  
+Click to enlarge](img/17800.jpg.md)  
 THE GREAT GEORGE AND COLLAR OF THE GARTER.  
 
 From Ashmole's *Order of the Garter*.
@@ -452,7 +452,7 @@ given into the keeping of two men, of whom the Gospels make
 <span id="img_17900"></span>
 
 [![JAKOB BÖHME, THE TEUTONIC THEOSOPHER.](tn/17900.jpg)  
-Click to enlarge](img/17900.jpg)  
+Click to enlarge](img/17900.jpg.md)  
 JAKOB BÖHME, THE TEUTONIC THEOSOPHER.  
 
 From William Law's Translation of *The Works of Jakob Böhme*.
@@ -624,7 +624,7 @@ received the least consideration.
 <span id="img_18000"></span>
 
 [![THE NIMBUS AND AUREOLE IN SYMBOLISM.](tn/18000.jpg)  
-Click to enlarge](img/18000.jpg)  
+Click to enlarge](img/18000.jpg.md)  
 THE NIMBUS AND AUREOLE IN SYMBOLISM.  
 
 From Audsley's *Handbook of Christian Symbolism*.
@@ -648,4 +648,4 @@ lilied cross, with only three of the arms visible.
 
 ------------------------------------------------------------------------
 
-[Next: The Cross and the Crucifixion](sta45)
+[Next: The Cross and the Crucifixion](sta45.md)

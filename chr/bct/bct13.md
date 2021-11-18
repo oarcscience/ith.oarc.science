@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct12)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct12.md)
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ Vol. VI, pp. 417-448, and Vol. VII, pp. 110-160, January and April,
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md)

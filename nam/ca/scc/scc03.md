@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc02)  [Next](scc04) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc02)  [Next](scc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ hold of the sand. My wife is gone."
 
 ------------------------------------------------------------------------
 
-[Next: 2.--Rumsien Costanoan. Coyote.](scc04)
+[Next: 2.--Rumsien Costanoan. Coyote.](scc04.md)

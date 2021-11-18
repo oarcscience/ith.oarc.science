@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
-[Iceland](../../ice/index)  [Index](index)  [Previous](tnm08) 
-[Next](tnm10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
+[Iceland](../../ice/index)  [Index](index)  [Previous](tnm08.md) 
+[Next](tnm10.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 [![PLATE VIII.&lt;br&gt; INSCRIBED CROSS, JURBY.&lt;br&gt; HEIMDALL,
 WARDER OF THE GODS.](tn/pl08.jpg)  
-Click to enlarge](img/pl08.jpg)  
+Click to enlarge](img/pl08.jpg.md)  
 PLATE VIII.  
 INSCRIBED CROSS, JURBY.  
 HEIMDALL, WARDER OF THE GODS.  
@@ -19,7 +19,7 @@ HEIMDALL, WARDER OF THE GODS.
 
 [![PLATE IX.&lt;br&gt; INSCRIBED CROSS, JURBY.&lt;br&gt; THE SYBIL,
 HYNDLA.](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 PLATE IX.  
 INSCRIBED CROSS, JURBY.  
 THE SYBIL, HYNDLA.  
@@ -28,7 +28,7 @@ THE SYBIL, HYNDLA.
 
 ### VII.--HEIMDALL.--THE SYBIL HYNDLA.
 
-A fragment at Jurby ([pl. VIII.](#img_pl08)) shows on one face,. above
+A fragment at Jurby ([pl. VIII.](#img_pl08).md) shows on one face,. above
 the right arm of the cross, a figure of a Man in a tunic with a row of
 large buttons; in his left hand a short, pointed sword, his right
 holding to his mouth a long Alpine horn (*Lur*). On his head is a
@@ -44,7 +44,7 @@ all the nine worlds:--
 his horn is up-lift."
 
 The Raven flies before him carrying the tidings to Odin. On the other
-face ([pl. IX.](#img_pl09)), in like position, is a female
+face ([pl. IX.](#img_pl09).md), in like position, is a female
 
 <span id="page_29">p. 29</span>
 
@@ -54,4 +54,4 @@ of Heimdall and of Ragnarök.
 
 ------------------------------------------------------------------------
 
-[Next: VIII.--Odin and the Fenri Monster](tnm10)
+[Next: VIII.--Odin and the Fenri Monster](tnm10.md)

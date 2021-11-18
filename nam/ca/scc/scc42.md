@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc41)  [Next](scc43) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc41)  [Next](scc43.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ from Nohomo, southwest of San Emidio.
 ------------------------------------------------------------------------
 
 [Next: 41.--Gitanemuk Shoshonean. The Panther's Children And
-Coyote.](scc43)
+Coyote.](scc43.md)

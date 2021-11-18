@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc05)  [Next](moc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc05)  [Next](moc07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -90,7 +90,7 @@ It (the mind) is the one which bringeth forth every successful issue. .
 It was the fashioner of all gods.  
 At a time when every divine word  
 Came into existence by the thought of the mind  
-And the command of the tongue. <span id="fr_40"></span>[1](#fn_40)
+And the command of the tongue. <span id="fr_40"></span>[1](#fn_40.md)
 
 In Egypt and Babylonia, where inundations of river valleys were of
 periodic occurrence, and where, at rare intervals, floods of excessive
@@ -108,7 +108,7 @@ bodies of primeval world-giants into earth meal. "'Tis said", a saga
 author set forth, "that far out, off yonder ness, the Nine Maids of the
 Island mill stir amain the host-cruel skerry-quern--they who in ages
 past ground Hamlet's meal. The good chieftain furrows the hull's lair
-with his ship's beaked prow." <span id="fr_41"></span>[2](#fn_41)
+with his ship's beaked prow." <span id="fr_41"></span>[2](#fn_41.md)
 
 <span id="page_4">p. 4</span>
 
@@ -131,7 +131,7 @@ Untold winters ere Earth was fashioned
     Roaring Bergelm was born;  
 His father was Thrudgelm of Mighty Voice,  
     Loud-sounding Ymer his grandsire. <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 In the north it was observed also that growth was promoted when the ice
 melted, and the teachers reasoned that the first being, Ymer, came into
@@ -148,7 +148,7 @@ that-
 
 Marduk (Merodach) laid a reed upon the face of the waters.  
 He formed dust and poured it out beside the reed. . . .  
-He formed mankind. <span id="fr_43"></span>[2](#fn_43)
+He formed mankind. <span id="fr_43"></span>[2](#fn_43.md)
 
 <span id="page_5">p. 5</span>
 
@@ -188,7 +188,7 @@ fire (lightning). "In the first place will come the winter, called
 Fimbul winter, during which snow will fall from the four corners of the
 world; the frosts will be very severe, the wind piercing, the weather
 tempestuous, and the sun impart no gladness." <span
-id="fr_44"></span>[1](#fn_44)
+id="fr_44"></span>[1](#fn_44.md)
 
 From the Voluspa poem of the *Elder Edda* we gather details of--
 
@@ -202,7 +202,7 @@ I see uprising a second time
 Earth from the ocean, green anew:  
 The waters fall, on high the eagle  
 Flies o'er the fell and catches fish. <span
-id="fr_45"></span>[2](#fn_45)
+id="fr_45"></span>[2](#fn_45.md)
 
 Various accounts of universal cataclysms come from the New World.
 Representative of these are the legends of the Arawaks of North Brazil
@@ -370,7 +370,7 @@ genial temperature, even the rhinoceros came north, and with the
 sabre-toothed tiger prowled on the upland plains of England, where I saw
 also the giant sloth, the hippopotamus, the mastodon, the triple-toed
 horse, great tortoises, the giant fallow deer, the well-armoured
-glyptodon, <span id="fr_46"></span>[1](#fn_46) as big as an ox, and
+glyptodon, <span id="fr_46"></span>[1](#fn_46.md) as big as an ox, and
 numerous great snakes and nimble apes.
 
 "For a long period I searched in vain for traces of mankind, but at
@@ -384,7 +384,7 @@ they had low, sharply-retreating
 <span id="page_12">p. 12</span>
 
 foreheads, squat noses, big bulging mouths, and chinless jaws. <span
-id="fr_47"></span>[1](#fn_47) I never saw these savages except in this
+id="fr_47"></span>[1](#fn_47.md) I never saw these savages except in this
 First Interglacial Period.
 
 "When next I awoke from the slumber of centuries I found that Europe had
@@ -449,7 +449,7 @@ savages. They
 were entirely devoid of clothing. The men carried long staves, which
 were sharpened to points, with which they speared fish and hunted the
 little wild horse. I saw them chipping flint and shaping
-"hand-axes", <span id="fr_48"></span>[1](#fn_48) which they used for a
+"hand-axes", <span id="fr_48"></span>[1](#fn_48.md) which they used for a
 variety of purposes-cutting branches from trees, skinning and dividing
 animals, and weapons. They also made small flint scrapers and small
 flint daggers with rough curved hefts.
@@ -481,7 +481,7 @@ and in others fought with them for possession of hunting-grounds. Many
 tribes were isolated in Britain when the land was lowered and the sea
 advanced. There were Asiatics in Sussex, and I saw some camping on the
 banks of the Ouse at Piltdown, near Uckfield. <span
-id="fr_49"></span>[1](#fn_49) During the winter these people sought
+id="fr_49"></span>[1](#fn_49.md) During the winter these people sought
 shelter in caves.
 
 "The change of climate had intensified the struggle for existence) and
@@ -511,7 +511,7 @@ stature but muscular and active. Their heads were narrow but of great
 size, and their faces, although not devoid of intelligence, were
 exceedingly rugged; their big dark eyes were overshadowed by enormous
 brow ridges, they had broad flattened noses, projecting mouths, and
-chinless jaws. <span id="fr_50"></span>[1](#fn_50) They made their homes
+chinless jaws. <span id="fr_50"></span>[1](#fn_50.md) They made their homes
 in caves, and in these they lit fires, round which they sat to chip
 their flints and fashion their skin garments.
 
@@ -623,7 +623,7 @@ similarly of short stature, but their heads were larger and their faces
 more intelligent. Middle-aged women had enormous development of fatty
 tissue; their steatopygous figures were invariably exceedingly
 grotesque, but were yet greatly admired. <span
-id="fr_51"></span>[1](#fn_51)
+id="fr_51"></span>[1](#fn_51.md)
 
 "These Aurignacian peoples worshipped the mother-goddess, and there were
 among them clever artists who carved out of ivory and bone, limestone
@@ -655,21 +655,21 @@ monstrous demons that had to be propitiated.
 
 The hunters of the Aurignacian Age were the first I saw using bows and
 arrows. In preparing the arrow-shafts they utilized perforated bone
-straighteners. <span id="fr_52"></span>[1](#fn_52) Their flint
+straighteners. <span id="fr_52"></span>[1](#fn_52.md) Their flint
 implements were worked with skill far surpassing that of the Mousterian
 Age.
 
 "How long I slept during this period I cannot tell. When next I woke up
 I found that the temperature had suffered sharp decline. Cro-Magnon man
 still inhabited a great portion of southern France, <span
-id="fr_53"></span>[2](#fn_53) but I observed also other types which were
+id="fr_53"></span>[2](#fn_53.md) but I observed also other types which were
 new to me. At Solutre, Saone-et-Loire, where tall and short types gave
 evidence of race intermixture, I fell in with highly-skilled artisans
 who shaped flint lance-heads of laurel-leaf and willow-leaf shape, and
 accomplished delicate secondary flaking by pressure with bone
 implements. They also made comfortable skin clothing, which they sewed
 with bone needles which had perforated eyes. <span
-id="fr_54"></span>[3](#fn_54) The winters grew gradually longer and more
+id="fr_54"></span>[3](#fn_54.md) The winters grew gradually longer and more
 severe, and the men of the Solutrean Age achieved rapid progress in
 their conflict with the elements. Huntsmen favoured the horse, but slew
 also the reindeer.
@@ -804,17 +804,17 @@ alone--evolution must have been at a standstill during a prodigiously
 extended period. For it must be understood that the eoliths of the older
 Tertiary formations cannot be distinguished from those met with in the
 Miocene, Pliocene, and even Pleistocene deposits. <span
-id="fr_55"></span>[1](#fn_55)
+id="fr_55"></span>[1](#fn_55.md)
 
 These "eoliths" are chipped flints which were either flaked by man or by
 natural causes--the movements of strata settling under pressure or the
 action of water. The problem is a difficult one. "The unprejudiced",
 says Professor Duckworth, "will maintain an open mind, pending the
 advent of more conclusive evidence than has been adduced
-hitherto." <span id="fr_56"></span>[2](#fn_56) Professor Sollas, on the
+hitherto." <span id="fr_56"></span>[2](#fn_56.md) Professor Sollas, on the
 other hand, is convinced that not a trace of unquestionable evidence of
 man's existence has been found in strata admittedly older than the
-Pleistocene. <span id="fr_57"></span>[3](#fn_57)
+Pleistocene. <span id="fr_57"></span>[3](#fn_57.md)
 
 Estimates of the approximate duration of the Pleistocene Age vary
 considerably. Geikie, following Penck, gives 620,000 years as a minimum;
@@ -842,66 +842,66 @@ point of view of the student of comparative mythology.
 
 ### Footnotes
 
-<span id="fn_40"></span>[3:1](moc06.htm#fr_40) Breasted's *History of
+<span id="fn_40"></span>[3:1](moc06.htm#fr_40.md) Breasted's *History of
 Egypt*, p. 357.
 
-<span id="fn_41"></span>[3:2](moc06.htm#fr_41) Translated from *Amlodi
+<span id="fn_41"></span>[3:2](moc06.htm#fr_41.md) Translated from *Amlodi
 Saga*, by F. York Powell.
 
-<span id="fn_42"></span>[4:1](moc06.htm#fr_42) Bergelm and Thrudgelm,
+<span id="fn_42"></span>[4:1](moc06.htm#fr_42.md) Bergelm and Thrudgelm,
 nature-giants, and Ymer, the primeval world-giant. *The Elder Edda*, O.
 Bray, pp. 471 49; and *Teutonic Myth and Legend*, pp. 1 *et seq*.
 
-<span id="fn_43"></span>[4:2](moc06.htm#fr_43) *The Seven Tablets of
+<span id="fn_43"></span>[4:2](moc06.htm#fr_43.md) *The Seven Tablets of
 Creation*, L. W. King, p. 129.
 
-<span id="fn_44"></span>[6:1](moc06.htm#fr_44) Mallet's Northern
+<span id="fn_44"></span>[6:1](moc06.htm#fr_44.md) Mallet's Northern
 Antiquities, p. 451.
 
-<span id="fn_45"></span>[6:2](moc06.htm#fr_45) The Elder Edda, O. Bray,
+<span id="fn_45"></span>[6:2](moc06.htm#fr_45.md) The Elder Edda, O. Bray,
 pp. 291, 295.
 
-<span id="fn_46"></span>[11:1](moc06.htm#fr_46) Resembling the
+<span id="fn_46"></span>[11:1](moc06.htm#fr_46.md) Resembling the
 armadillo.
 
-<span id="fn_47"></span>[12:1](moc06.htm#fr_47) The jaw-bone of the
+<span id="fn_47"></span>[12:1](moc06.htm#fr_47.md) The jaw-bone of the
 earliest European was found in a Mauer sand-pit, 78 feet from the
 surface. Sollas holds that this primitive German belonged to none of the
 existing races of mankind. The jaw-bone has Simian characteristics.
 
-<span id="fn_48"></span>[14:1](moc06.htm#fr_48) The so-called
+<span id="fn_48"></span>[14:1](moc06.htm#fr_48.md) The so-called
 *coup-de-poing* of the French archæologists; also named "bouchers",
 after M. Boucher de Perthes, who half a century ago identified them as
 primitive artifacts of human contemporaries of extinct wild animals.
 
-<span id="fn_49"></span>[15:1](moc06.htm#fr_49) The Piltdown skull of a
+<span id="fn_49"></span>[15:1](moc06.htm#fr_49.md) The Piltdown skull of a
 broad-headed woman was discovered in 1913.
 
-<span id="fn_50"></span>[16:1](moc06.htm#fr_50) The Neanderthal-Spy
+<span id="fn_50"></span>[16:1](moc06.htm#fr_50.md) The Neanderthal-Spy
 type.
 
-<span id="fn_51"></span>[19:1](moc06.htm#fr_51) Two Grimaldi skulls
+<span id="fn_51"></span>[19:1](moc06.htm#fr_51.md) Two Grimaldi skulls
 which have been discovered have distinct negroid characteristics: the
 jaw protrudes sharply.
 
-<span id="fn_52"></span>[20:1](moc06.htm#fr_52) This implement has also
+<span id="fn_52"></span>[20:1](moc06.htm#fr_52.md) This implement has also
 been called a "sceptre"; it was more probably an "arrow straightener".
 
-<span id="fn_53"></span>[20:2](moc06.htm#fr_53) And is still found
+<span id="fn_53"></span>[20:2](moc06.htm#fr_53.md) And is still found
 there, as ethnologists have demonstrated.
 
-<span id="fn_54"></span>[20:3](moc06.htm#fr_54) The bone needle with
+<span id="fn_54"></span>[20:3](moc06.htm#fr_54.md) The bone needle with
 perforated eye is an invention of this period.
 
-<span id="fn_55"></span>[24:1](moc06.htm#fr_55) *Antiquity of Man in
+<span id="fn_55"></span>[24:1](moc06.htm#fr_55.md) *Antiquity of Man in
 Europe*, p. 5 (1914.).
 
-<span id="fn_56"></span>[24:2](moc06.htm#fr_56) *Prehistoric Man*, pp.
+<span id="fn_56"></span>[24:2](moc06.htm#fr_56.md) *Prehistoric Man*, pp.
 106-21 (1912).
 
-<span id="fn_57"></span>[24:3](moc06.htm#fr_57) *Ancient Hunters*, pp.
+<span id="fn_57"></span>[24:3](moc06.htm#fr_57.md) *Ancient Hunters*, pp.
 67, 69 (1911).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Palæolithic Magic and Religion](moc07)
+[Next: Chapter II. Palæolithic Magic and Religion](moc07.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml14)  [Next](hml16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml14)  [Next](hml16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ yeoman, a good archer, and a good patriot.
 ### The Outlaws
 
 In the green forest of Englewood, in the "North Countree," not
-[far](errata.htm#0) from the fortified town of Carlisle, dwelt a merry
+[far](errata.htm#0.md) from the fortified town of Carlisle, dwelt a merry
 band of outlaws. They were not evil-doers, but sturdy archers and
 yeomen, whose outlawry had been incurred only for shooting the king's
 deer. Indeed, to most men of that time--that is, to most men who were
@@ -292,13 +292,13 @@ merits no
 <span id="img_23200"></span>
 
 [![''William continued his wonderful archery''](tn/23200.jpg)  
-Click to enlarge](img/23200.jpg)  
+Click to enlarge](img/23200.jpg.md)  
 ''William continued his wonderful archery''  
 
 <span id="img_23300"></span>
 
 [![Adam Bell writes the letter](tn/23300.jpg)  
-Click to enlarge](img/23300.jpg)  
+Click to enlarge](img/23300.jpg.md)  
 Adam Bell writes the letter  
 
  
@@ -458,7 +458,7 @@ and Clym of the Cleugh stood at one corner of the market-place, with
 arrow on string, and their deadly aim bent at the sheriff and justice,
 whose horses raised them high above the murmuring throng. Cloudeslee
 showed no surprise, but said aloud: "Lo I see comfort, and hope [to
-fare](errata.htm#1) well in my journey. Yet if I might have my hands
+fare](errata.htm#1.md) well in my journey. Yet if I might have my hands
 free I would care little what else befell me."
 
 ### The Rescue
@@ -522,13 +522,13 @@ As Adam locked the door they could hear inside
 <span id="img_23800"></span>
 
 [![The fight at the gate](tn/23800.jpg)  
-Click to enlarge](img/23800.jpg)  
+Click to enlarge](img/23800.jpg.md)  
 The fight at the gate  
 
 <span id="img_23900"></span>
 
 [![''Wait for me seven years, dear wife''](tn/23900.jpg)  
-Click to enlarge](img/23900.jpg)  
+Click to enlarge](img/23900.jpg.md)  
 ''Wait for me seven years, dear wife''  
 
  
@@ -815,4 +815,4 @@ of their lives in great favour with the king and queen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: Black Colin of Loch Awe](hml16)
+[Next: Chapter XII: Black Colin of Loch Awe](hml16.md)

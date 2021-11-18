@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mgr08)  [Next](mgr10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mgr08)  [Next](mgr10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ globe beneath this is the moon; the smaller globes hung on are the stars
 and constellations, and the fillets are the course of the year--for they
 make them 365 in number. The Daphnephoria is headed by a boy, both whose
 parents are alive, and his nearest male relation carries the filleted
-pole, to which [they](errata.htm#3) give the name *Kōpō*. The
+pole, to which [they](errata.htm#3.md) give the name *Kōpō*. The
 Daphnephoros himself, who follows next, holds on to the laurel; he has
 his hair hanging loose, he wears a golden wreath, and he is dressed out
 in a splendid robe to his feet, and he wears light shoes. There follows
@@ -281,4 +281,4 @@ the counterpart of the young Baltic divinity, Balder the Beautiful?
 
 ------------------------------------------------------------------------
 
-[Next: Ares (Mars)](mgr10)
+[Next: Ares (Mars)](mgr10.md)

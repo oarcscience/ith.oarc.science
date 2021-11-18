@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap08) [Next](chap10)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap08) [Next](chap10.md)
 
 ------------------------------------------------------------------------
 
@@ -284,4 +284,4 @@ festivities.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Behind the Curtain](chap10)
+[Next: Chapter X: Behind the Curtain](chap10.md)

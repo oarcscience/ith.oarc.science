@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip03)  [Next](fip05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip03)  [Next](fip05.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ Green jacket, red cap,
 
 ------------------------------------------------------------------------
 
-[Next: Frank Martin and the Fairies, by William Carleton](fip05)
+[Next: Frank Martin and the Fairies, by William Carleton](fip05.md)

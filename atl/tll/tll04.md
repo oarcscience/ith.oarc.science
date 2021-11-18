@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll03)  [Next](tll05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll03)  [Next](tll05.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ reference, and they alone will be dealt with.
 
 ------------------------------------------------------------------------
 
-[Next: The Maps](tll05)
+[Next: The Maps](tll05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](tnj00)  [Next](tnj02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](tnj00)  [Next](tnj02.md) 
 
 ------------------------------------------------------------------------
 
@@ -1639,4 +1639,4 @@ another life (see n. 6311).
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](tnj02)
+[Next: 51-100](tnj02.md)

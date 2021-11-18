@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc16)  [Next](ogc18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc16)  [Next](ogc18.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ produce flesh and bone and the remaining compounds.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](ogc18)
+[Next: Chapter 8](ogc18.md)

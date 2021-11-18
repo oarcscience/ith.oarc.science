@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng14)  [Next](vlsng16) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng14)  [Next](vlsng16.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ ENDNOTES:
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV: Regin's tale of his Brothers, and of the Gold called
-Andvari's Hoard.](vlsng16)
+Andvari's Hoard.](vlsng16.md)

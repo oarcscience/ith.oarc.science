@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe14)  [Next](boe16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe14)  [Next](boe16.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ and were building ships in which to escape--138 Arks of the Deluge
 
 [![THE SUBTERRANEAN BRIDGE&lt;br&gt; (From &lt;i&gt;Mundus
 Subterraneus&lt;/i&gt;; Athanasius Kircher, 1678).](tn/pl16.jpg)  
-Click to enlarge](img/pl16.jpg)  
+Click to enlarge](img/pl16.jpg.md)  
 THE SUBTERRANEAN BRIDGE  
 (From *Mundus Subterraneus*; Athanasius Kircher, 1678).  
 
@@ -66,7 +66,7 @@ from beneath the floor of the world. . . . And the vortex of the
 submerged continent&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Oahspe, A New
 Bible in the Words of Jehovih&lt;/i&gt;; John Ballou Newbrough, 1891,
 Plate 62.)](tn/fig042.jpg)  
-Click to enlarge](img/fig042.jpg)  
+Click to enlarge](img/fig042.jpg.md)  
 FIGURE 42. *Outline map showing the locality of Pan, the submerged
 continent*.  
 (From *Oahspe, A New Bible in the Words of Jehovih*; John Ballou
@@ -96,7 +96,7 @@ Moon
 [![FIGURE 43. &lt;i&gt;The geographical position of
 Mu&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;The Lost Continent of
 Mu&lt;/i&gt;; James Churchward, 1926.)](tn/fig043.jpg)  
-Click to enlarge](img/fig043.jpg)  
+Click to enlarge](img/fig043.jpg.md)  
 FIGURE 43. *The geographical position of Mu*.  
 (From *The Lost Continent of Mu*; James Churchward, 1926.)  
 
@@ -172,7 +172,7 @@ thunderous roarings
 [![PLATE XVII. &lt;i&gt;A Conjectural Geography of the Translation of
 the Earth after the Deluge&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Arca
 Noë&lt;/i&gt;, Athanasius Kircher, 1665).](tn/pl17.jpg)  
-Click to enlarge](img/pl17.jpg)  
+Click to enlarge](img/pl17.jpg.md)  
 PLATE XVII. *A Conjectural Geography of the Translation of the Earth
 after the Deluge*.  
 (From *Arca Noë*, Athanasius Kircher, 1665).  
@@ -185,7 +185,7 @@ the doomed land sank. Down, down, down she went, into the mouth of hell,
 'a tank of fire.' As the broken land fell into that great abyss of fire,
 'flames shot up around and enveloped her.' The fires claimed their
 victim. 'Mu and her 64,000,000 people were sacrificed.'" <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 These are the five great traditional catastrophes of the Earth. After
 each one of them, according to tradition, the generation of man began
@@ -201,12 +201,12 @@ him where he was, ignorant and alone. What? and how? and why?
 
 ### Footnotes
 
-<span id="fn_4"></span>[83:1](boe14.htm#fr_4) *The Story of Atlantis and
+<span id="fn_4"></span>[83:1](boe14.htm#fr_4.md) *The Story of Atlantis and
 the Lost Lemuria*: W. Scott-Elliot. 1925.
 
-<span id="fn_5"></span>[89:1](boe15.htm#fr_5) *The Lost Continent of
+<span id="fn_5"></span>[89:1](boe15.htm#fr_5.md) *The Lost Continent of
 Mu*: James Churchward, 1926, pp. 29-30.
 
 ------------------------------------------------------------------------
 
-[Next: Trees of the World](boe16)
+[Next: Trees of the World](boe16.md)

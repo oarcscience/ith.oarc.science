@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray042)  [Next](pray044) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray042)  [Next](pray044.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ sacrilegious rage, the holiness of God's name still shines forth. Justly
 does the Psalmist exclaim, "According to thy name, O God, so is thy
 praise unto the ends of the earth" (<span
 id="iii.xli-p1.1"></span>[Psalm
-48:10](../../../bib/kjv/psa048.htm#010)<span id="iii.xli-p1.1"></span>).
+48:10](../../../bib/kjv/psa048.htm#010)<span id="iii.xli-p1.1"></span>.md).
 For wherever God hath made himself known, his perfections must be
 displayed, his power, goodness, wisdom, justice, mercy, and truth, which
 fill us with admiration, and incite us to show forth his praise.
@@ -56,4 +56,4 @@ more signally displayed.
 
 ------------------------------------------------------------------------
 
-[Next: 42.](pray044)
+[Next: 42.](pray044.md)

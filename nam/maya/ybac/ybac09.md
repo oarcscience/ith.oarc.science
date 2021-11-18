@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac08)  [Next](ybac10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac08)  [Next](ybac10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ monastery of San Antonio, in the year 1550.
 
 [![THE CENOTE OF SACRIFICE AT CHICHEN ITZA. Photo by George Oakley
 Totten](tn/00900.jpg)  
-Click to enlarge](img/00900.jpg)  
+Click to enlarge](img/00900.jpg.md)  
 THE CENOTE OF SACRIFICE AT CHICHEN ITZA. Photo by George Oakley Totten  
 
 The next most important edifices are those of Tikoch and of Chichén
@@ -91,4 +91,4 @@ the trees that surround it.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Cuculcán. Foundation of Mayapán](ybac10)
+[Next: VI. Cuculcán. Foundation of Mayapán](ybac10.md)

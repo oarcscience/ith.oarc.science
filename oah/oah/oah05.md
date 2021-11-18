@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah04)  [Next](oah06) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah04)  [Next](oah06.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ direction of the Emperor Constantine.
 
 ------------------------------------------------------------------------
 
-[Next: Hints to the Reader](oah06)
+[Next: Hints to the Reader](oah06.md)

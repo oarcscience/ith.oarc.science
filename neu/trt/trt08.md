@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt07)  [Next](trt09) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt07)  [Next](trt09.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ him: now that she knew all the magic he could teach her.
 
 ------------------------------------------------------------------------
 
-[Next: How Morgan le Fay Tried to Kill King Arthur](trt09)
+[Next: How Morgan le Fay Tried to Kill King Arthur](trt09.md)

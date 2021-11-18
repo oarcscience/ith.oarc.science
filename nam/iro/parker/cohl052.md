@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl051)  [Next](cohl053) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl051)  [Next](cohl053.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 ones will neither confess nor reform. Nothing will induce them to
 confess.
 
-"'There are grades of sin: <span id="fr_44"></span>[2](#fn_44) the sins
+"'There are grades of sin: <span id="fr_44"></span>[2](#fn_44.md) the sins
 of Hasan'owa:n'ê?, the sins of Honon'diont and the sins of the ordinary
 people.
 
@@ -31,7 +31,7 @@ it must not be done.
 "Now they said, 'The Creator will not give up hope of them until they
 pass from the earth. It is only then that they can lose their souls if
 they have not repented. So the Creator always hopes for
-repentance.'" <span id="fr_45"></span>[3](#fn_45)
+repentance.'" <span id="fr_45"></span>[3](#fn_45.md)
 
 So they said and he said. Eniaiehuk.
 
@@ -39,12 +39,12 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_44"></span>[44:2](cohl052.htm#fr_44) The higher the
+<span id="fn_44"></span>[44:2](cohl052.htm#fr_44.md) The higher the
 position the greater the sin, is the prophet's rule.
 
-<span id="fn_45"></span>[44:3](cohl052.htm#fr_45) See [p.
-61](cohl091.htm#page_61), Idea of soul.
+<span id="fn_45"></span>[44:3](cohl052.htm#fr_45.md) See [p.
+61](cohl091.htm#page_61.md), Idea of soul.
 
 ------------------------------------------------------------------------
 
-[Next: Section 42](cohl053)
+[Next: Section 42](cohl053.md)

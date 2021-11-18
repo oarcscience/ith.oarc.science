@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](jpstitle)  [Next](jpslaw) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](jpstitle)  [Next](jpslaw.md) 
 
 </div>
 
@@ -117,7 +117,7 @@ of the work of the individual contributors. This method was followed
 until 1901 under the general direction of Doctor Marcus Jastrow,
 Editor-in-Chief, with Doctor Kaufman Kohler and Doctor Frederick de Sola
 Mendes as the other members of the Editorial Committee. <span
-id="fr_0"></span>[a](#fn_0)
+id="fr_0"></span>[a](#fn_0.md)
 
 <span id="page_vi">p. vi</span>
 
@@ -251,7 +251,7 @@ The first to collect the notes known as Masorah was Jacob ben Haim Ibn
 Adonijah, the editor of the second Rabbinic Bible. In our own day many
 scholars have been prominent in this field of labour, chief among whom
 are Wolf Heidenheim, S. Frensdorff, S. Baer, and C. D. Ginsburg. We have
-followed Baer's <span id="fr_1"></span>[a](#fn_1) text and for the parts
+followed Baer's <span id="fr_1"></span>[a](#fn_1.md) text and for the parts
 not edited by him that of Ginsburg. Not only does the text known as the
 masoretic represent the text current in the Synagogue with regard to
 consonants, but also with regard to its signs standing for vowels and
@@ -837,7 +837,7 @@ Numbers 28.9-15</p></td>
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:a](jpspref.htm#fr_0) There is given herewith a
+<span id="fn_0"></span>[v:a](jpspref.htm#fr_0.md) There is given herewith a
 list of the translations prepared for the Society:
 
 Genesis, Max Landsberg, Rochester, N.Y.
@@ -885,22 +885,22 @@ Esther, William Rosenau, Baltimore, Md.
 
 I and II Chronicles, M. Mielziner (deceased), Cincinnati, Ohio.
 
-<span id="fn_1"></span>[ix:a](jpspref.htm#fr_1) It should be noted that
+<span id="fn_1"></span>[ix:a](jpspref.htm#fr_1.md) It should be noted that
 in the otherwise excellent edition of Baer the word ‏חק‎ has been
 omitted by mistake in Proverbs v. 20. In Ezekiel ix. 9 the Board
 deviated from the Baer edition and accepted the reading ‏דמים‎, instead
 of ‏חמס‎. In Psalm lxii. 4 the vocalization of Ben Naphtali was followed
 instead of that of Ben Asher usually adopted by Baer.
 
-<span id="fn_2"></span>[xiii:a](jpspref.htm#fr_2) Parentheses indicate
+<span id="fn_2"></span>[xiii:a](jpspref.htm#fr_2.md) Parentheses indicate
 Sephardic ritual.
 
-<span id="fn_3"></span>[xv:a](jpspref.htm#fr_4) On Sabbath, 14.22-16.17
+<span id="fn_3"></span>[xv:a](jpspref.htm#fr_4.md) On Sabbath, 14.22-16.17
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Law](jpslaw)
+[Next: The Law](jpslaw.md)
 
 </div>

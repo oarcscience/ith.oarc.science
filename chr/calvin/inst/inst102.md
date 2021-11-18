@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst101)  [Next](inst103) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst101)  [Next](inst103.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ Law and in the Gospel.
 
 ------------------------------------------------------------------------
 
-[Next: BOOK 2](inst103)
+[Next: BOOK 2](inst103.md)

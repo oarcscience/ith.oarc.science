@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst093)  [Next](inst095) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst093)  [Next](inst095.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,16 +130,16 @@ Thus, in Ephesians, “Having made known unto us the mystery
 dispensation of the grace of God, which is given me to you-wards, how
 that by revelation he made known unto me the mystery” (*sacramentum*)
 (<span id="iv.iv.xv-p31.1"></span>[Eph.
-1:9](../../../bib/kjv/eph001.htm#009)<span id="iv.iv.xv-p31.1"></span>;
+1:9](../../../bib/kjv/eph001.htm#009.md)<span id="iv.iv.xv-p31.1"></span>;
 3:2). In the Colossians, “Even the mystery which hath been hid from ages
 and from generations, but is now made manifest to his saints, to whom
 God would make known what is the riches of the glory of this mystery”
 (*sacramentum*) (<span id="iv.iv.xv-p31.2"></span>[Col.
-1:26](../../../bib/kjv/col001.htm#026)<span
+1:26](../../../bib/kjv/col001.htm#026.md)<span
 id="iv.iv.xv-p31.2"></span>). Also in the First Epistle to Timothy,
 “Without controversy, great is the mystery (*sacramentum*) of godliness:
 God was manifest in the flesh” (<span id="iv.iv.xv-p31.3"></span>[1 Tim.
-3:16](../../../bib/kjv/ti1003.htm#016)<span
+3:16](../../../bib/kjv/ti1003.htm#016.md)<span
 id="iv.iv.xv-p31.3"></span>). He was unwilling to use the word *arcanum*
 (secret), lest the word should seem beneath the magnitude of the thing
 meant. When the thing, therefore, was sacred and secret, he used the
@@ -151,7 +151,7 @@ gave an august representation of things spiritual and sublime. This is
 also observed by Augustine, “It were tedious to discourse of the variety
 of signs; those which relate to divine things are called sacraments”
 (August. <span id="iv.iv.xv-p31.4"></span>[Ep.
-5](../../../bib/kjv/eph005.htm#000)<span id="iv.iv.xv-p31.4"></span>. ad
+5](../../../bib/kjv/eph005.htm#000.md)<span id="iv.iv.xv-p31.4"></span>. ad
 Marcell.).
 
 <span id="iv.iv.xv-p32"></span>3. From the definition which we have
@@ -162,7 +162,7 @@ or rather, in a manner, confirming it. In this way God provides first
 for our ignorance and sluggishness, and, secondly, for our infirmity;
 and yet, properly speaking, it does not so much confirm his word as
 establish us in the faith of it.  <span
-id="fr_608"></span>[609](#fn_608) For the truth of God is in itself
+id="fr_608"></span>[609](#fn_608.md) For the truth of God is in itself
 sufficiently stable and certain, and cannot receive a better
 confirmation from any other quarter than from itself. But as our faith
 is slender and weak, so if it be not propped up on every side, and
@@ -203,16 +203,16 @@ because it is said, but because it is believed? For even in the word the
 transient sound is one thing, the permanent power another. This is the
 word of faith which we preach says the Apostle” (<span
 id="iv.iv.xv-p34.1"></span>[Rom.
-10:8](../../../bib/kjv/rom010.htm#008)<span
+10:8](../../../bib/kjv/rom010.htm#008.md)<span
 id="iv.iv.xv-p34.1"></span>). Hence, in the Acts of the Apostles, we
 have the expression, “Purify their hearts by faith” (<span
 id="iv.iv.xv-p34.2"></span>[Acts
-15:9](../../../bib/kjv/act015.htm#009)<span
+15:9](../../../bib/kjv/act015.htm#009.md)<span
 id="iv.iv.xv-p34.2"></span>). And the Apostle Peter says, “The like
 figure whereunto even baptism doth now save us (not the putting away of
 the filth of the flesh, but the answer of a good conscience)” (<span
 id="iv.iv.xv-p34.3"></span>[1 Pet.
-3:21](../../../bib/kjv/pe1003.htm#021)<span
+3:21](../../../bib/kjv/pe1003.htm#021.md)<span
 id="iv.iv.xv-p34.3"></span>). “This is the word of faith which we
 preach: by which word doubtless baptism also, in order that it may be
 able to cleanse, is consecrated” (August. Hom. in Joann. 13). You see
@@ -240,7 +240,7 @@ not prevent them from sealing and confirming when they are appended to
 writings. It cannot be alleged that this comparison is a recent fiction
 of our own, since Paul himself used it, terming *circumcision a seal*
 (<span id="iv.iv.xv-p35.1"></span>[Rom.
-4:11](../../../bib/kjv/rom004.htm#011)<span
+4:11](../../../bib/kjv/rom004.htm#011.md)<span
 id="iv.iv.xv-p35.1"></span>), where he expressly maintains that the
 circumcision of Abraham was not for justification, but was an
 attestation to the covenant, by the faith of which he had been
@@ -263,7 +263,7 @@ mysteries which lie hidden in the sacraments.
 
 <span id="iv.iv.xv-p36"></span>6. As the Lord calls his promises
 covenants (<span id="iv.iv.xv-p36.1"></span>[Gen.
-6:18](../../../bib/kjv/gen006.htm#018)<span id="iv.iv.xv-p36.1"></span>;
+6:18](../../../bib/kjv/gen006.htm#018.md)<span id="iv.iv.xv-p36.1"></span>;
 9:9; 17:2), and sacraments signs of the covenants, so something similar
 may be inferred from human covenants. What could the slaughter of a hog
 effect, unless words were interposed or rather preceded? Swine are often
@@ -315,10 +315,10 @@ is spoken, but because it is believed*. Hence Paul, addressing
 believers, includes communion with Christ, in the sacraments, as when he
 says, “As many of you as have been baptized into Christ have put on
 Christ” (<span id="iv.iv.xv-p37.1"></span>[Gal.
-3:27](../../../bib/kjv/gal003.htm#027)<span
+3:27](../../../bib/kjv/gal003.htm#027.md)<span
 id="iv.iv.xv-p37.1"></span>). Again, “For by one Spirit we are all
 baptized into one body” (<span id="iv.iv.xv-p37.2"></span>[1 Cor.
-12:13](../../../bib/kjv/co1012.htm#013)<span
+12:13](../../../bib/kjv/co1012.htm#013.md)<span
 id="iv.iv.xv-p37.2"></span>). But when he speaks of a preposterous use
 of the sacraments, he attributes nothing more to them than to frigid,
 empty figures; thereby intimating, that however the ungodly and
@@ -336,13 +336,13 @@ good, cannot be made better; for there is no faith save that which leans
 unshakingly, firmly, and undividedly, on the mercy of God. It had been
 better for the objectors to pray, with the apostles, “Lord, increase our
 faith” (<span id="iv.iv.xv-p37.3"></span>[Luke
-17:5](../../../bib/kjv/luk017.htm#005)<span
+17:5](../../../bib/kjv/luk017.htm#005.md)<span
 id="iv.iv.xv-p37.3"></span>), than confidently to maintain a perfection
 of faith which none of the sons of men ever attained, none ever shall
 attain, in this life. Let them explain what kind of faith his was who
 said, “Lord, I believe; help thou mine unbelief” (<span
 id="iv.iv.xv-p37.4"></span>[Mark
-9:24](../../../bib/kjv/mar009.htm#024)<span
+9:24](../../../bib/kjv/mar009.htm#024.md)<span
 id="iv.iv.xv-p37.4"></span>). That faith, though only commenced, was
 good, and might, by the removal of the unbelief, be made better. But
 there is no better argument to refute them than their own consciousness.
@@ -353,7 +353,7 @@ to the imperfection of their faith.
 <span id="iv.iv.xv-p38"></span>8. But Philip, they say, replied to the
 eunuch who asked to be baptized, “If thou believest with all thine heart
 thou mayest” (<span id="iv.iv.xv-p38.1"></span>[Acts
-8:37](../../../bib/kjv/act008.htm#037)<span
+8:37](../../../bib/kjv/act008.htm#037.md)<span
 id="iv.iv.xv-p38.1"></span>). What room is there for a confirmation of
 baptism when faith fills the whole heart? I, in my turn, ask them, Do
 they not feel that a good part of their heart is void of faith—do they
@@ -362,7 +362,7 @@ that he grew old while learning. Thrice miserable, then, are we
 Christians if we grow old without making progress, we whose faith ought
 to advance through every period of life until it grow up into a perfect
 man (<span id="iv.iv.xv-p38.2"></span>[Eph.
-4:13](../../../bib/kjv/eph004.htm#013)<span
+4:13](../../../bib/kjv/eph004.htm#013.md)<span
 id="iv.iv.xv-p38.2"></span>). In this passage, therefore, to believe
 *with the whole heart*, is not to believe Christ perfectly, but only to
 embrace him sincerely with heart and soul; not to be filled with him,
@@ -371,12 +371,12 @@ is usual in Scripture to say that a thing is done with the whole heart,
 when it is done sincerely and cordially. Of this description are the
 following passages:—“With my whole heart have I sought thee” (<span
 id="iv.iv.xv-p38.3"></span>[Ps.
-119:10](../../../bib/kjv/psa119.htm#010)<span
+119:10](../../../bib/kjv/psa119.htm#010.md)<span
 id="iv.iv.xv-p38.3"></span>); “I will confess unto thee with my whole
 heart,” &c. In like manner, when the fraudulent and deceitful are
 rebuked, it is said “with flattering lips, and with a double heart, do
 they speak” (<span id="iv.iv.xv-p38.4"></span>[Ps.
-12:2](../../../bib/kjv/psa012.htm#002)<span
+12:2](../../../bib/kjv/psa012.htm#002.md)<span
 id="iv.iv.xv-p38.4"></span>). The objectors next add—“If faith is
 increased by means of the sacraments, the Holy Spirit is given in vain,
 seeing it is his office to begin, sustain, and consummate our faith.” I
@@ -466,9 +466,9 @@ of intermediate brightness.
 <span id="iv.iv.xv-p41"></span>11. This property our Lord showed to
 belong to the external word, when, in the parable, he compared it to
 seed (<span id="iv.iv.xv-p41.1"></span>[Mt.
-13:4](../../../bib/kjv/mat013.htm#004)<span id="iv.iv.xv-p41.1"></span>;
+13:4](../../../bib/kjv/mat013.htm#004.md)<span id="iv.iv.xv-p41.1"></span>;
 <span id="iv.iv.xv-p41.2"></span>[Luke
-8:15](../../../bib/kjv/luk008.htm#015)<span
+8:15](../../../bib/kjv/luk008.htm#015.md)<span
 id="iv.iv.xv-p41.2"></span>). For as the seed, when it falls on a
 deserted and neglected part of the field, can do nothing but die, but
 when thrown into ground properly laboured and cultivated, will yield a
@@ -482,7 +482,7 @@ completion from the word? Both things are admirably explained by Paul in
 different passages. For when he would remind the Corinthians how God had
 given effect to his labours, he boasts that he possessed the ministry of
 the Spirit (<span id="iv.iv.xv-p41.3"></span>[1 Cor.
-2:4](../../../bib/kjv/co1002.htm#004)<span id="iv.iv.xv-p41.3"></span>);
+2:4](../../../bib/kjv/co1002.htm#004)<span id="iv.iv.xv-p41.3"></span>.md);
 just as if his preaching were inseparably connected with the power of
 the Holy Spirit, in inwardly enlightening the mind, and stimulating it.
 But in another passage, when he would remind them what the power of the
@@ -506,7 +506,7 @@ sacraments, takes away the sacraments themselves. When he deprives Adam
 of the gift of immortality, and expels him from the garden, “lest he put
 forth his hand and take also of the tree of life, and live for ever”
 (<span id="iv.iv.xv-p42.1"></span>[Gen.
-3:22](../../../bib/kjv/gen003.htm#022)<span
+3:22](../../../bib/kjv/gen003.htm#022.md)<span
 id="iv.iv.xv-p42.1"></span>). What is this we hear? Could that fruit
 have restored Adam to the immortality from which he had already fallen?
 By no means. It is just as if he had said, Lest he indulge in vain
@@ -516,7 +516,7 @@ when the apostle urges the Ephesians to remember, that they “were
 without Christ, being aliens from the commonwealth of Israel, and
 strangers from the covenants of promise, having no hope, and without God
 in the world” (<span id="iv.iv.xv-p42.2"></span>[Eph.
-2:12](../../../bib/kjv/eph002.htm#012)<span
+2:12](../../../bib/kjv/eph002.htm#012.md)<span
 id="iv.iv.xv-p42.2"></span>), he says that they were not partakers of
 circumcision. He thus intimates metonymically, that all were excluded
 from the promise who had not received the badge of the promise. To the
@@ -628,7 +628,7 @@ understood, repeatedly made by Augustine between the *sacrament* and the
 and truth are therein contained, but that they do not so cohere as not
 to be separable, and that in this connection it is always necessary to
 distinguish the thing from the sign, so as not to transfer to the one
-what belongs to the other.  <span id="fr_609"></span>[610](#fn_609)
+what belongs to the other.  <span id="fr_609"></span>[610](#fn_609.md)
 Augustine speaks of the separation when he says that in the elect alone
 the sacraments accomplish what they represent (Augustin. de Bapt.
 Parvul.). Again, when speaking of the Jews, he says, “Though the
@@ -637,7 +637,7 @@ the virtue of the sacraments. Thus, too, the laver of regeneration is
 now common to all, but the grace by which the members of Christ are
 regenerated with their head is not common to all” (August. in <span
 id="iv.iv.xv-p46.1"></span>[Ps.
-78](../../../bib/kjv/psa078.htm#000)<span id="iv.iv.xv-p46.1"></span>).
+78](../../../bib/kjv/psa078.htm#000)<span id="iv.iv.xv-p46.1"></span>.md).
 Again, in another place, speaking of the Lord’s Supper, he says, “We
 also this day receive visible food; but the sacrament is one thing, the
 virtue of the sacrament another. Why is it that many partake of the
@@ -777,7 +777,7 @@ they previously were not. Lest any one suppose that these things were
 said in vain, the bow is even in the present day a witness to us of the
 covenant which God made with Noah (Calv. in <span
 id="iv.iv.xv-p49.1"></span>[Gen.
-9:6](../../../bib/kjv/gen009.htm#006)<span id="iv.iv.xv-p49.1"></span>).
+9:6](../../../bib/kjv/gen009.htm#006)<span id="iv.iv.xv-p49.1"></span>.md).
 As often as we look upon it, we read this promise from God, that the
 earth will never be destroyed by a flood. Wherefore, if any
 philosophaster, to deride the simplicity of our faith, shall contend
@@ -795,18 +795,18 @@ his creatures with his word, that things which were formerly bare
 elements may become sacraments? Examples of the second class were given
 when he showed light to Abraham in the smoking furnace (<span
 id="iv.iv.xv-p49.2"></span>[Gen.
-15:17](../../../bib/kjv/gen015.htm#017)<span
+15:17](../../../bib/kjv/gen015.htm#017.md)<span
 id="iv.iv.xv-p49.2"></span>), when he covered the fleece with dew while
 the ground was dry; and, on the other hand, when the dew covered the
 ground while the fleece was untouched, to assure Gideon of victory
 (<span id="iv.iv.xv-p49.3"></span>[Judges
-6:37](../../../bib/kjv/jdg006.htm#037)<span
+6:37](../../../bib/kjv/jdg006.htm#037.md)<span
 id="iv.iv.xv-p49.3"></span>); also, when he made the shadow go back ten
 degrees on the dial, to assure Hezekiah of his recovery (<span
 id="iv.iv.xv-p49.4"></span>[2 Kings
-20:9](../../../bib/kjv/kg2020.htm#009)<span id="iv.iv.xv-p49.4"></span>;
+20:9](../../../bib/kjv/kg2020.htm#009.md)<span id="iv.iv.xv-p49.4"></span>;
 <span id="iv.iv.xv-p49.5"></span>[Isa.
-38:7](../../../bib/kjv/isa038.htm#007)<span
+38:7](../../../bib/kjv/isa038.htm#007.md)<span
 id="iv.iv.xv-p49.5"></span>). These things, which were done to assist
 and establish their faith, were also sacraments.
 
@@ -881,18 +881,18 @@ promise made to Abraham, of a seed in whom all the nations of the earth
 should be blessed, and from whom they themselves were to look for a
 blessing. That saving seed, as we are taught by Paul (<span
 id="iv.iv.xv-p52.1"></span>[Gal.
-5:16](../../../bib/kjv/gal005.htm#016)<span
+5:16](../../../bib/kjv/gal005.htm#016.md)<span
 id="iv.iv.xv-p52.1"></span>), was Christ, in whom alone they trusted to
 recover what they had lost in Adam. Wherefore circumcision was to them
 what Paul says it was to Abraham—viz. a sign of the righteousness of
 faith (<span id="iv.iv.xv-p52.2"></span>[Rom.
-9:11](../../../bib/kjv/rom009.htm#011)<span
+9:11](../../../bib/kjv/rom009.htm#011.md)<span
 id="iv.iv.xv-p52.2"></span>):—viz. a seal by which they were more
 certainly assured that their faith in waiting for the Lord would be
 accepted by God for righteousness. But we shall have a better
 opportunity elsewhere (chap. 16 sec. 3, 4) of following out the
 comparison between circumcision and baptism.59  <span
-id="fr_610"></span>[611](#fn_610) Their washings and purifications
+id="fr_610"></span>[611](#fn_610.md) Their washings and purifications
 placed under their eye the uncleanness, defilement, and pollution with
 which they were naturally contaminated, and promised another laver in
 which all their impurities might be wiped and washed away. This laver
@@ -907,9 +907,9 @@ priest was Christ: he shed his own blood, he was himself the victim: for
 in obedience to the Father, he offered himself to death, and by this
 obedience abolished the disobedience by which man had provoked the
 indignation of God (<span id="iv.iv.xv-p53.5"></span>[Phil.
-2:8](../../../bib/kjv/phi002.htm#008)<span id="iv.iv.xv-p53.5"></span>;
+2:8](../../../bib/kjv/phi002.htm#008.md)<span id="iv.iv.xv-p53.5"></span>;
 <span id="iv.iv.xv-p53.6"></span>[Rom.
-5:19](../../../bib/kjv/rom005.htm#019)<span
+5:19](../../../bib/kjv/rom005.htm#019.md)<span
 id="iv.iv.xv-p53.6"></span>).
 
 <span id="iv.iv.xv-p54"></span>22. In regard to our sacraments, they
@@ -926,7 +926,7 @@ primary witness who gives us a full assurance of this testimony. This
 sublime mystery was illustriously displayed on the cross of Christ, when
 water and blood flowed from his sacred side (<span
 id="iv.iv.xv-p54.1"></span>[John
-19:34](../../../bib/kjv/joh019.htm#034)<span
+19:34](../../../bib/kjv/joh019.htm#034.md)<span
 id="iv.iv.xv-p54.1"></span>); which, for this reason, Augustine justly
 termed the fountain of our sacraments (August. Hom. in Joann. 26). Of
 these we shall shortly treat at greater length. There is no doubt that,
@@ -936,7 +936,7 @@ Christ, as we gather from several passages, and especially from the
 seventh chapter of John. In this sense are we to understand the words of
 Paul, that the law was “a shadow of good things to come, but the body is
 of Christ” (<span id="iv.iv.xv-p54.2"></span>[Col.
-2:17](../../../bib/kjv/col002.htm#017)<span
+2:17](../../../bib/kjv/col002.htm#017.md)<span
 id="iv.iv.xv-p54.2"></span>). His purpose is not to declare the
 inefficacy of those manifestations of grace in which God was pleased to
 prove his truth to the patriarchs, just as he proves it to us in the
@@ -953,7 +953,7 @@ it, must be altogether exploded. Since the apostle speaks in no higher
 terms of the one than of the other, when he says that the fathers ate of
 the same spiritual food, and explains that that food was Christ (<span
 id="iv.iv.xv-p55.1"></span>[1 Cor.
-10:3](../../../bib/kjv/co1010.htm#003)<span
+10:3](../../../bib/kjv/co1010.htm#003.md)<span
 id="iv.iv.xv-p55.1"></span>), who will presume to regard as an empty
 sign that which gave a manifestation to the Jews of true communion with
 Christ? And the state of the case which the apostle is there treating
@@ -970,7 +970,7 @@ us not one iota of privilege which could give us hopes of impunity. Nor
 can we justly attribute more to our baptism than he elsewhere attributes
 to circumcision, when he terms it a seal of the righteousness of faith
 (<span id="iv.iv.xv-p55.2"></span>[Rom.
-4:11](../../../bib/kjv/rom004.htm#011)<span
+4:11](../../../bib/kjv/rom004.htm#011.md)<span
 id="iv.iv.xv-p55.2"></span>). Whatever, therefore, is now exhibited to
 us in the sacraments, the Jews formerly received in theirs—viz. Christ,
 with his spiritual riches. The same efficacy which ours possess they
@@ -988,7 +988,7 @@ efficacy depends.
 
 <span id="iv.iv.xv-p56"></span>24. But they will found on what Paul says
 of the circumcision of the letter,59  <span
-id="fr_611"></span>[612](#fn_611) and object that it is in no esteem
+id="fr_611"></span>[612](#fn_611.md) and object that it is in no esteem
 with God; that it confers nothing, is empty; that passages such as these
 seem to set it far beneath our baptism. But by no means. For the very
 same thing might justly be said of baptism. Indeed, it is said; first by
@@ -1018,22 +1018,22 @@ imposed on Christians without injury to the former.
 
 <span id="iv.iv.xv-p58"></span>25. But there is more difficulty in
 explaining the passage which follows, and which I lately quote  <span
-id="fr_612"></span>[613](#fn_612) —viz. that all the Jewish ceremonies
+id="fr_612"></span>[613](#fn_612.md) —viz. that all the Jewish ceremonies
 were shadows of things to come, but the body is of Christ (<span
 id="iv.iv.xv-p59.1"></span>[Col.
-2:17](../../../bib/kjv/col002.htm#017)<span
+2:17](../../../bib/kjv/col002.htm#017.md)<span
 id="iv.iv.xv-p59.1"></span>). The most difficult point of all, however,
 is that which is discussed in several chapters of the Epistle to the
 Hebrews—namely, that the blood of beasts did not reach to the
 conscience; that the law was a shadow of good things to come, but not
 the very image of the things (<span id="iv.iv.xv-p59.2"></span>[Heb.
-10:1](../../../bib/kjv/heb010.htm#001)<span
+10:1](../../../bib/kjv/heb010.htm#001.md)<span
 id="iv.iv.xv-p59.2"></span>); that worshippers under the Mosaic
 ceremonies obtained no degree of perfection, and so forth. I repeat what
 I have already hinted, that Paul does not represent the ceremonies as
 shadowy because they had nothing solid in them, but because their
 completion was in a manner suspended until the manifestation of Christ.
- <span id="fr_613"></span>[614](#fn_613) Again, I hold that the words
+ <span id="fr_613"></span>[614](#fn_613.md) Again, I hold that the words
 are to be understood not of their efficiency, but rather of the mode of
 significancy. For until Christ was manifested in the flesh, all signs
 shadowed him as absent, however he might inwardly exert the presence of
@@ -1068,7 +1068,7 @@ deceived by the extravagant eulogiums on our signs which occur in
 ancient writers: for instance, the following passage of Augustine: “The
 sacraments of the old law only promised a Saviour, whereas ours give
 salvation” (August. Proem. in <span id="iv.iv.xv-p61.1"></span>[Ps.
-73](../../../bib/kjv/psa073.htm#000)<span id="iv.iv.xv-p61.1"></span>).
+73](../../../bib/kjv/psa073.htm#000)<span id="iv.iv.xv-p61.1"></span>.md).
 Not perceiving that these and similar figures of speech are
 hyperbolical, they too have promulgated their hyperbolical dogmas, but
 in a sense altogether alien from that of ancient writers. For Augustine
@@ -1099,7 +1099,7 @@ Again, “In this mystery their food and drink are the same as ours; the
 same in meaning, not in form, for the same Christ was figured to them in
 the rock; to us he has been manifested in the flesh” (in <span
 id="iv.iv.xv-p61.2"></span>[Ps.
-77](../../../bib/kjv/psa077.htm#000)<span id="iv.iv.xv-p61.2"></span>).
+77](../../../bib/kjv/psa077.htm#000)<span id="iv.iv.xv-p61.2"></span>.md).
 Though we grant that in this respect also there is some difference. Both
 testify that the paternal kindness of God, and the graces of the Spirit,
 are offered us in Christ, but ours more clearly and splendidly. In both
@@ -1112,20 +1112,20 @@ revealed, sacraments were instituted, fewer in number, but of more
 august significancy and more excellent power (De Doct. Christ. Lib. 3;
 et Ep. ad Janur.). It is here proper to remind the reader, that all the
 trifling talk of the sophists concerning the *opus operatum*,59  <span
-id="fr_614"></span>[615](#fn_614)  <span
-id="fr_615"></span>[616](#fn_615) is not only false. but repugnant to
+id="fr_614"></span>[615](#fn_614.md)  <span
+id="fr_615"></span>[616](#fn_615.md) is not only false. but repugnant to
 the very nature of sacraments, which God appointed in order that
 believers, who are void and in want of all good. might bring nothing of
 their own, but simply beg. Hence it follows, that in receiving them they
 do nothing which deserves praise, and that in this action (which in
 respect of them is merely passive59  <span
-id="fr_616"></span>[617](#fn_616) ) no work can be ascribed to them.
+id="fr_616"></span>[617](#fn_616) .md) no work can be ascribed to them.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_608"></span>[609](inst094.htm#fr_608) <span
+<span id="fn_608"></span>[609](inst094.htm#fr_608.md) <span
 id="iv.iv.xv-p32.1"></span>
 
 <span id="iv.iv.xv-p33"></span>122 D122 That is, the sacrament cannot
@@ -1137,7 +1137,7 @@ frequently in need of confirmation and assurance. Thus we properly
 distinguish between the objective certainty of God’s Word, and the
 subjective certainty of our faith.
 
-<span id="fn_609"></span>[610](inst094.htm#fr_609) <span
+<span id="fn_609"></span>[610](inst094.htm#fr_609.md) <span
 id="iv.iv.xv-p45.1"></span>
 
 <span id="iv.iv.xv-p46"></span>123 D123 Sometimes this distinction is
@@ -1147,51 +1147,51 @@ application or distribution), on the one hand, and their spiritual
 significance and value, on the other. The grace of the sacraments does
 not lie in their fact or form, but in the Word received by faith.
 
-<span id="fn_610"></span>[611](inst094.htm#fr_610) <span
+<span id="fn_610"></span>[611](inst094.htm#fr_610.md) <span
 id="iv.iv.xv-p52.3"></span>
 
 <span id="iv.iv.xv-p53"></span>93 593 <span
 id="iv.iv.xv-p53.1"></span>[Heb.
-9:1-14](../../../bib/kjv/heb009.htm#001)<span
+9:1-14](../../../bib/kjv/heb009.htm#001.md)<span
 id="iv.iv.xv-p53.1"></span>; <span id="iv.iv.xv-p53.2"></span>[1 John
-1:7](../../../bib/kjv/jo1001.htm#007)<span id="iv.iv.xv-p53.2"></span>;
+1:7](../../../bib/kjv/jo1001.htm#007.md)<span id="iv.iv.xv-p53.2"></span>;
 <span id="iv.iv.xv-p53.3"></span>[Rev.
-1:5](../../../bib/kjv/rev001.htm#005)<span id="iv.iv.xv-p53.3"></span>;
+1:5](../../../bib/kjv/rev001.htm#005.md)<span id="iv.iv.xv-p53.3"></span>;
 <span id="iv.iv.xv-p53.4"></span>[Heb.
-4:14](../../../bib/kjv/heb004.htm#014)<span id="iv.iv.xv-p53.4"></span>;
+4:14](../../../bib/kjv/heb004.htm#014.md)<span id="iv.iv.xv-p53.4"></span>;
 5:5; 9:11.
 
-<span id="fn_611"></span>[612](inst094.htm#fr_611) <span
+<span id="fn_611"></span>[612](inst094.htm#fr_611.md) <span
 id="iv.iv.xv-p56.1"></span>
 
 <span id="iv.iv.xv-p57"></span>94 594 <span
 id="iv.iv.xv-p57.1"></span>[Rom.
-2:25-29](../../../bib/kjv/rom002.htm#025)<span
+2:25-29](../../../bib/kjv/rom002.htm#025.md)<span
 id="iv.iv.xv-p57.1"></span>; <span id="iv.iv.xv-p57.2"></span>[1 Cor.
-7:19](../../../bib/kjv/co1007.htm#019)<span id="iv.iv.xv-p57.2"></span>;
+7:19](../../../bib/kjv/co1007.htm#019.md)<span id="iv.iv.xv-p57.2"></span>;
 <span id="iv.iv.xv-p57.3"></span>[Gal.
-6:15](../../../bib/kjv/gal006.htm#015)<span id="iv.iv.xv-p57.3"></span>;
+6:15](../../../bib/kjv/gal006.htm#015.md)<span id="iv.iv.xv-p57.3"></span>;
 <span id="iv.iv.xv-p57.4"></span>[1 Cor.
-10:5](../../../bib/kjv/co1010.htm#005)<span id="iv.iv.xv-p57.4"></span>;
+10:5](../../../bib/kjv/co1010.htm#005.md)<span id="iv.iv.xv-p57.4"></span>;
 <span id="iv.iv.xv-p57.5"></span>[1 Pet.
-3:21](../../../bib/kjv/pe1003.htm#021)<span id="iv.iv.xv-p57.5"></span>;
+3:21](../../../bib/kjv/pe1003.htm#021.md)<span id="iv.iv.xv-p57.5"></span>;
 <span id="iv.iv.xv-p57.6"></span>[Col.
-2:11](../../../bib/kjv/col002.htm#011)<span id="iv.iv.xv-p57.6"></span>.
+2:11](../../../bib/kjv/col002.htm#011.md)<span id="iv.iv.xv-p57.6"></span>.
 
-<span id="fn_612"></span>[613](inst094.htm#fr_612) <span
+<span id="fn_612"></span>[613](inst094.htm#fr_612.md) <span
 id="iv.iv.xv-p58.1"></span>
 
 <span id="iv.iv.xv-p59"></span>95 595 French, “Mais on fera encore un
 autre argument.”—But there is still another argument which they will
 employ.
 
-<span id="fn_613"></span>[614](inst094.htm#fr_613) <span
+<span id="fn_613"></span>[614](inst094.htm#fr_613.md) <span
 id="iv.iv.xv-p59.3"></span>
 
 <span id="iv.iv.xv-p60"></span>124 D124 Perhaps an expansion of Calvin’s
 thrust will help to illumine this “difficult point.” In <span
 id="iv.iv.xv-p60.1"></span>[Hebrews
-9](../../../bib/kjv/heb009.htm#000)<span id="iv.iv.xv-p60.1"></span> and
+9](../../../bib/kjv/heb009.htm#000.md)<span id="iv.iv.xv-p60.1"></span> and
 10 it may, at first glance, appear that the writer intends to draw a
 contrast between those sacrifices offered under the law which were never
 able to take away so much as a single sin, and the one sacrifice offered
@@ -1202,13 +1202,13 @@ holy of holies, he offered blood for his own sins and for the sins of
 the people? Again, why did Moses sprinkle blood upon the book, the
 people, the tabernacle, and all the vessels of the tabernacle, in order
 (as <span id="iv.iv.xv-p60.2"></span>[Hebrews
-9:19-23](../../../bib/kjv/heb009.htm#019)<span
+9:19-23](../../../bib/kjv/heb009.htm#019.md)<span
 id="iv.iv.xv-p60.2"></span>states) to purge and purify them, if the
 blood of calves and lambs and goats cannot take away a single sin? And
 how could David have written, “Blessed is the man whose sins are
 forgiven” (a blessedness applicable, according to Paul in <span
 id="iv.iv.xv-p60.3"></span>[Romans
-4:6-8](../../../bib/kjv/rom004.htm#006)<span
+4:6-8](../../../bib/kjv/rom004.htm#006.md)<span
 id="iv.iv.xv-p60.3"></span>, not only to David, but also to New
 Testament believers), if by the shedding of blood during the Old
 Testament economy, there was no remission (forgiveness) of sins? The
@@ -1227,7 +1227,7 @@ permanent value, and that between extrinsic efficacy. As we attempt to
 compare and contrast the sacrifices of the Old Testament with the
 sacrifice by Christ of Himself, we discover that the emphasis in <span
 id="iv.iv.xv-p60.4"></span>[Hebrews
-9](../../../bib/kjv/heb009.htm#000)<span id="iv.iv.xv-p60.4"></span> and
+9](../../../bib/kjv/heb009.htm#000.md)<span id="iv.iv.xv-p60.4"></span> and
 10, with respect to the Old Testament sacrifices, is upon their
 temporary value (because they were repeated again and again), and their
 extrinsic efficacy (because they were not intended to point to
@@ -1250,7 +1250,7 @@ types, they anticipated their antitype; if they were patterns, they were
 patterns of the true reality; and if they were shadows, they silhouetted
 the substance. These, then, would appear to be the contrasts drawn in
 <span id="iv.iv.xv-p60.5"></span>[Hebrews
-9](../../../bib/kjv/heb009.htm#000)<span id="iv.iv.xv-p60.5"></span> and
+9](../../../bib/kjv/heb009.htm#000.md)<span id="iv.iv.xv-p60.5"></span> and
 10. Impermanency and non-self-sufficiency characterize the sacrifices of
 the Old Testament; permanency and self-sufficiency characterize the
 Sacrifice of the New. The Old Testament sacrifices of lambs were
@@ -1259,13 +1259,13 @@ Testament sacrifice of the Lamb of God was efficacious of itself, gave
 value and efficacy to the Old Testament sacrifices, and is perfect and
 complete for ever.
 
-<span id="fn_614"></span>[615](inst094.htm#fr_614) <span
+<span id="fn_614"></span>[615](inst094.htm#fr_614.md) <span
 id="iv.iv.xv-p61.3"></span>
 
 <span id="iv.iv.xv-p62"></span>96 596 The French adds, “Qu’ils appellent
 en leur gergon.”—So called in their jargon.
 
-<span id="fn_615"></span>[616](inst094.htm#fr_615) <span
+<span id="fn_615"></span>[616](inst094.htm#fr_615.md) <span
 id="iv.iv.xv-p62.1"></span>
 
 <span id="iv.iv.xv-p63"></span>125 D125 This expression, opus operatum,
@@ -1287,7 +1287,7 @@ do not have inherent power to produce grace in the soul, nor are they
 made efficacious by any admixture of human merit which is brought to
 them by sinful men.
 
-<span id="fn_616"></span>[617](inst094.htm#fr_616) <span
+<span id="fn_616"></span>[617](inst094.htm#fr_616.md) <span
 id="iv.iv.xv-p63.1"></span>
 
 <span id="iv.iv.xv-p64"></span>97 597 The French adds, “J’appel le acte
@@ -1296,4 +1296,4 @@ the act passive, because God does the whole, and we only receive.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER 15. - OF BAPTISM.](inst095)
+[Next: CHAPTER 15. - OF BAPTISM.](inst095.md)

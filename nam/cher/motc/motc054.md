@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc053) 
-[Next](motc055) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc053.md) 
+[Next](motc055.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ ashes.
 
 ------------------------------------------------------------------------
 
-[Next: 55. The Uw\`tsûñ'ta](motc055)
+[Next: 55. The Uw\`tsûñ'ta](motc055.md)

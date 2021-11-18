@@ -1,4 +1,4 @@
-[Sacred-Texts](../index) [Taoism](index)
+[Sacred-Texts](../index) [Taoism](index.md)
 
 ------------------------------------------------------------------------
 

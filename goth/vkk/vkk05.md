@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vkk04)  [Next](vkk06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vkk04)  [Next](vkk06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B3YD5C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B3YD5C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Vampire, His Kith and Kin*, by Montague Summers, \[1928\], at
 Intangible Textual Heritage
 
@@ -3459,4 +3459,4 @@ France*, Paris, 1807-1811. Vol. iii, p. 28.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. The Vampire in Assyria, the East, and Some Ancient
-Countries](vkk06)
+Countries](vkk06.md)

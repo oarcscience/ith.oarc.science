@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob46) 
-[Next](tob48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob46.md) 
+[Next](tob48.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,7 +146,7 @@ Jehovah (יהוה).
 
 <span id="page_293">p. 293</span>
 
-In the first operation <span id="fr_87"></span>[1](#fn_87) upon the
+In the first operation <span id="fr_87"></span>[1](#fn_87.md) upon the
 packets of 26 cards nothing remains,--0.
 
 In the second operation upon the packets of 17 cards 1 remains, which
@@ -191,11 +191,11 @@ particularly the sublime *Book of Thoth*. 2 vols. 8vo., bound, 1780.
 
 ### Footnotes
 
-<span id="fn_87"></span>[293:1](tob47.htm#fr_87) See, for an explanation
+<span id="fn_87"></span>[293:1](tob47.htm#fr_87.md) See, for an explanation
 of these packets and the method of obtaining them, Chapter XX. (6th
 lesson).
 
 ------------------------------------------------------------------------
 
 [Next: Example of the Application of the Tarot to the Kabbalah. The
-Hierogram of Adam, by Stanislas De Guaita](tob48)
+Hierogram of Adam, by Stanislas De Guaita](tob48.md)

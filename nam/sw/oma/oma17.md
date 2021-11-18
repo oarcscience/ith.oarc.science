@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma16)  [Next](oma18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma16)  [Next](oma18.md) 
 
 ------------------------------------------------------------------------
 
 ### WANDERINGS, PART VIII
 
 After this the people began to quarrel. They found many new bad
-words <span id="fr_135"></span>[36](#fn_135) to use against each other.
+words <span id="fr_135"></span>[36](#fn_135.md) to use against each other.
 Fights and feuds arose. They did not like each other much any more. They
 had heard what had been said between Country Chief and Tsitsanits, and
 that the katsina leader was coming back to teach the people how to act
 in the supernatural manner of the katsina. But some people wore afraid.
 They were afraid that if they made a mistake and did not fast just right
 they would have to pay with their life. <span
-id="fr_136"></span>[37](#fn_136) But others said everything would be all
+id="fr_136"></span>[37](#fn_136.md) But others said everything would be all
 right. "Let us do as we are asked, and learn to carry on as they want us
 to," they said. So the people, that, did not wish to see that day come,
 packed up and left in small bands, or perhaps just man and wife would go
@@ -63,7 +63,7 @@ everything was ready for him. Gomaiowish came along with Tsitsanits and
 brought a lot of feather down. All the people went into the kiva and
 Tsitsanits came with Gomaiowish. The song began. The people were brought
 up one at a time and Tsitsanits struck them four times with the
-yucca. <span id="fr_137"></span>[38](#fn_137) The Gomaiowish, who held
+yucca. <span id="fr_137"></span>[38](#fn_137.md) The Gomaiowish, who held
 them while they were being struck, tied feather down on their heads.
 They were then given advice by Tsitsanits as to how to make masks. They
 were to duplicate the ones they had seen the katsina wearing. "You have
@@ -181,7 +181,7 @@ the katsina were coming to visit them; he said
 
 that it was Gaiya katsina (Mixed katsina, i. e., all the different kinds
 of katsina). This group still comes. <span
-id="fr_138"></span>[39](#fn_138)
+id="fr_138"></span>[39](#fn_138.md)
 
 While Gomaiowish was in the plaza, the other katsina impersonators were
 out in the country, hidden from the pueblo. They were putting on their
@@ -214,11 +214,11 @@ prepared the songs they were to sing next. Each time they put on the
 masks to go out again, they would repeat the words they had said the
 first time. They went out the second time and danced four times as
 before in the plaza. It was now about mid-day, so they went in again to
-rest. <span id="fr_139"></span>[40](#fn_139) Country Chief announced
+rest. <span id="fr_139"></span>[40](#fn_139.md) Country Chief announced
 that the people should also go and rest, that they were to stay in their
 houses and not come out until the katsina came out. The old women who
 knew about the dancers brought in food for them. <span
-id="fr_140"></span>[41](#fn_140) When food was brought in,
+id="fr_140"></span>[41](#fn_140.md) When food was brought in,
 
 <span id="page_61">p. 61</span>
 
@@ -254,7 +254,7 @@ that you have finished your work. Go back happily to Wenimats! Take with
 you all which belongs to you and everything that is sacred to you. Let
 me not be troubled, by your power returning to haunt me in my dreams."
 Then he takes off his mask and motions four times <span
-id="fr_141"></span>[42](#fn_141) to Wenimats, saying, "Let me return to
+id="fr_141"></span>[42](#fn_141.md) to Wenimats, saying, "Let me return to
 my people like a common human. Do not blame me for what I have been
 doing. Lot nothing wrong happen because I have imitated you. But lot me
 have good health, long life, and the gifts you have brought." Then they
@@ -278,7 +278,7 @@ shorten his life and die.
 
 ### Footnotes
 
-<span id="fn_132"></span>[56:33](oma16.htm#fr_132) Informant's note:
+<span id="fn_132"></span>[56:33](oma16.htm#fr_132.md) Informant's note:
 This groove in the rock Iatiku made when she was abandoned by her
 sister. She performed the ceremony in order to forget. Later Iatiku
 taught people to perform the ceremony in order to forget whatever they
@@ -287,24 +287,24 @@ pebble was shoved along a similar figure cut into the rock; but here the
 ritual was for prognostication in sickness. If the pebble slips from
 under the foot, the patient will die.
 
-<span id="fn_133"></span>[56:34](oma16.htm#fr_133) According to others,
+<span id="fn_133"></span>[56:34](oma16.htm#fr_133.md) According to others,
 the arrow point is returned to the relatives.
 
-<span id="fn_134"></span>[56:35](oma16.htm#fr_134) Tsa·'lts. This word
+<span id="fn_134"></span>[56:35](oma16.htm#fr_134.md) Tsa·'lts. This word
 is also used for "soul."
 
-<span id="fn_135"></span>[56:36](oma17.htm#fr_135) I have never
+<span id="fn_135"></span>[56:36](oma17.htm#fr_135.md) I have never
 succeeded in uncovering among the Keres any "bad words" except witch,
 kanadyaiya and "evil spirit," croadyam.--L. A. W.
 
-<span id="fn_136"></span>[56:37](oma17.htm#fr_136) It is a common Pueblo
+<span id="fn_136"></span>[56:37](oma17.htm#fr_136.md) It is a common Pueblo
 notion that, if one does not observe ritual rules faithfully, he is
 likely to sicken and perhaps die.
 
-<span id="fn_137"></span>[57:38](oma17.htm#fr_137) Cf. White, 1932, pp.
+<span id="fn_137"></span>[57:38](oma17.htm#fr_137.md) Cf. White, 1932, pp.
 71-75.
 
-<span id="fn_138"></span>[60:39](oma17.htm#fr_138) Informant's note: On
+<span id="fn_138"></span>[60:39](oma17.htm#fr_138.md) Informant's note: On
 some occasions when the katsina come to Acoma there will be a group of
 20 or so of the same kind. Nowadays there are many kivas and each one
 will represent only one kind at a time, or perhaps two. Sometimes, if it
@@ -317,22 +317,22 @@ plastered shut \[in the custody either of kiva chiefs or of medicine
 men\]. There are four rooms in Acoma kivas; three of them are plastered
 up. The kivas in Acoma have altars \[Mauharots is probably one of them,
 perhaps the chamber of the Fire society is the other. See previous note
-on Acoma kivas, [p. 45](oma14.htm#page_45)). The chaianyi keeps the
+on Acoma kivas, [p. 45](oma14.htm#page_45).md). The chaianyi keeps the
 altar in his own house, fits it up for ceremonies.
 
-<span id="fn_139"></span>[60:40](oma17.htm#fr_139) Informant's note:
+<span id="fn_139"></span>[60:40](oma17.htm#fr_139.md) Informant's note:
 Today they dance 10 times before noon.
 
-<span id="fn_140"></span>[60:41](oma17.htm#fr_140) At Acoma today the
+<span id="fn_140"></span>[60:41](oma17.htm#fr_140.md) At Acoma today the
 masked dancers eat outdoors, but behind the church (White, 1932, p. 83).
 At Santo Domingo and at San Felipe the masked dancers eat in a house set
 aside for them. All spectators, especially women and children, must go
 indoors. Old women bring food to the war chief's helpers who take it to
 the dancers (White, 1935, pp. 96-97; White, 1932 a, p. 39).
 
-<span id="fn_141"></span>[61:42](oma17.htm#fr_141) Cf. White, 1932, p.
+<span id="fn_141"></span>[61:42](oma17.htm#fr_141.md) Cf. White, 1932, p.
 87.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part IX](oma18)
+[Next: Wanderings, Part IX](oma18.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa13)  [Next](tsa15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa13)  [Next](tsa15.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,18 +16,18 @@ In what year? In what month? On what day of the month? On what day? At
 what hour? and, Where? According to R. Jose the queries were: On what
 day? At what hour? Where? Do you recognize him? Did you warn him? And,
 in the case of idolatry, they were asked, What idol was
-worshipped? <span id="fr_262"></span>[2](#fn_259) and, How was it
+worshipped? <span id="fr_262"></span>[2](#fn_259.md) and, How was it
 worshipped?
 
 2\. The judge who cross-examines at great length is deserving of praise.
-Ben Zakkai <span id="fr_263"></span>[3](#fn_260) once carried his
+Ben Zakkai <span id="fr_263"></span>[3](#fn_260.md) once carried his
 cross-examination into details about fig-stalks!
 
 What is the difference between "queries" and "cross-examination"? If,
 during the queries, one answered, "I do not know," <span
-id="fr_264"></span>[4](#fn_261) the testimony of the witnesses is
+id="fr_264"></span>[4](#fn_261.md) the testimony of the witnesses is
 worthless; but if, in cross-examination, one say, "I do not know," or if
-two say, "We do not <span id="fr_265"></span>[5](#fn_262) know," their
+two say, "We do not <span id="fr_265"></span>[5](#fn_262.md) know," their
 evidence holds good. Yet
 
 <span id="page_83">p. 83</span>
@@ -43,9 +43,9 @@ month? On what day of the month? but only, On what day? At what hour? In
 what place? Do you recognize him? Did you warn him? With what did he
 kill him? Did he kill him with a sword? Did he kill him with a stick?
 Did he strike him on the leg? Did he strike him intentionally on 'the
-bird of life'? <span id="fr_266"></span>[1](#fn_263) In what direction
+bird of life'? <span id="fr_266"></span>[1](#fn_263.md) In what direction
 was he looking when he killed him?" <span
-id="fr_267"></span>[2](#fn_264)
+id="fr_267"></span>[2](#fn_264.md)
 
 <span class="margnote">**M**.</span>V. 3. If one say "on the second of
 the month" and another "on the third," their evidence holds good, since
@@ -108,8 +108,8 @@ free; if not, his case is passed over till the morrow. The judges then
 go apart in pairs and take food--but they drink no wine--and discuss all
 night the section of Scripture bearing on the case: if it was a case of
 murder, they discuss the section dealing with murder; <span
-id="fr_268"></span>[1](#fn_265) if a case of incest, they discuss the
-section dealing with incest. <span id="fr_269"></span>[2](#fn_266) On
+id="fr_268"></span>[1](#fn_265.md) if a case of incest, they discuss the
+section dealing with incest. <span id="fr_269"></span>[2](#fn_266.md) On
 the morrow they come early to the court, and the officers call on each
 judge to give his verdict. If one answer, "I acquitted yesterday and
 still acquit," his decision is accepted; if he say, "I acquitted
@@ -124,7 +124,7 @@ opinions they do not remind him, but say to him, "Study thy words anew."
 V. 5 *b*. If acquitted (by all the judges) the accused M. is set free;
 if not, the matter is decided by vote. If twelve acquit and eleven
 convict, he is to be acquitted; if twelve convict and eleven
-acquit, <span id="fr_270"></span>[3](#fn_267) or
+acquit, <span id="fr_270"></span>[3](#fn_267.md) or
 
 <span id="page_86">p. 86</span>
 
@@ -133,7 +133,7 @@ while the remaining one declares himself in doubt, the number of judges
 is increased. To what extent are they increased? Two by two until
 seventy-one is reached. If thirty-six acquit and thirty-five convict, he
 is to be acquitted; if thirty-six convict and thirty-five acquit, <span
-id="fr_271"></span>[1](#fn_268) the case is tried over among themselves
+id="fr_271"></span>[1](#fn_268.md) the case is tried over among themselves
 until one of those who convict agrees with those who acquit.
 
 **T**. IX. 2. If they find for the defendant, they set him free; if not,
@@ -176,37 +176,37 @@ words be reasonable; otherwise, they do not listen."
 
 ### Footnotes
 
-<span id="fn_259"></span>[82:2](tsa14.htm#fr_262) C omits this query,
+<span id="fn_259"></span>[82:2](tsa14.htm#fr_262.md) C omits this query,
 but it is necessary to make up the required seven.
 
-<span id="fn_260"></span>[82:3](tsa14.htm#fr_263) Jochanan ben Zakkai
+<span id="fn_260"></span>[82:3](tsa14.htm#fr_263.md) Jochanan ben Zakkai
 (see *Pirke Aboth*, II. 9.) was a pupil of Hillel, and as founder of the
 Sanhedrin of Jabne--which became the religious centre after the fall of
 Jerusalem--formed an important link with the condition of things now
 past and gone.
 
-<span id="fn_261"></span>[82:4](tsa14.htm#fr_264) K and C (slightly
+<span id="fn_261"></span>[82:4](tsa14.htm#fr_264.md) K and C (slightly
 corrupt) add: "and two answer, We do not know."
 
-<span id="fn_262"></span>[82:5](tsa14.htm#fr_265) C omits negative.
+<span id="fn_262"></span>[82:5](tsa14.htm#fr_265.md) C omits negative.
 
-<span id="fn_263"></span>[83:1](tsa14.htm#fr_266) A euphemism.
+<span id="fn_263"></span>[83:1](tsa14.htm#fr_266.md) A euphemism.
 
-<span id="fn_264"></span>[83:2](tsa14.htm#fr_267) If he were not looking
+<span id="fn_264"></span>[83:2](tsa14.htm#fr_267.md) If he were not looking
 at the victim he may have dealt an unintentionally fatal blow. See
 *Mishnah* IX. 2.
 
-<span id="fn_265"></span>[85:1](tsa14.htm#fr_268) Numb. 35. 15 ff.
+<span id="fn_265"></span>[85:1](tsa14.htm#fr_268.md) Numb. 35. 15 ff.
 
-<span id="fn_266"></span>[85:2](tsa14.htm#fr_269) Lev. 18. 6 ff.
+<span id="fn_266"></span>[85:2](tsa14.htm#fr_269.md) Lev. 18. 6 ff.
 
-<span id="fn_267"></span>[85:3](tsa14.htm#fr_270) Conviction in a
+<span id="fn_267"></span>[85:3](tsa14.htm#fr_270.md) Conviction in a
 capital charge needs a majority of two; see Mishnah IV. 1.
 
-<span id="fn_268"></span>[86:1](tsa14.htm#fr_271) C. and N. add, through
+<span id="fn_268"></span>[86:1](tsa14.htm#fr_271.md) C. and N. add, through
 error, "he is to be convicted; if thirty-five (N thirty-six) acquit and
 thirty-five (N thirty-six) convict."
 
 ------------------------------------------------------------------------
 
-[Next: The Carrying out of the Sentence of Stoning](tsa15)
+[Next: The Carrying out of the Sentence of Stoning](tsa15.md)

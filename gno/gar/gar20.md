@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar19)  [Next](gar21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar19)  [Next](gar21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -199,9 +199,9 @@ that show the Mithraic group surrounded by sets of the sacred animals of
 *Egypt*, arranged by threes--crocodiles, goats, calves, vultures, hawks,
 ibises--standing around in attitudes of adoration, and gazing upon the
 great work of their supreme lord, Mithras (see page
-[41](gar10.htm#page_41), [fig. 2](gar10.htm#img_fig02)).
+[41](gar10.htm#page_41), [fig. 2](gar10.htm#img_fig02).md).
 
-Mithraic [bas-reliefs](errata.htm#4) cut upon the smoothed faces of
+Mithraic [bas-reliefs](errata.htm#4.md) cut upon the smoothed faces of
 rocks, or upon tablets of stone, still abound throughout the former
 western provinces of the Roman Empire; many exist in Germany; still more
 in France; others in this island, along the line of the Picts’ Wall, and
@@ -210,7 +210,7 @@ famous "Arthur's Oon" (destroyed in the last century) upon the Carron, a
 hemispherical vaulted building of immense blocks of stone, was
 unmistakably a *Specus Mithraicum*--the same in design as Chosroes’
 magnificent Fire temple at Gazaca. Inasmuch as the sun-god was the chief
-deity <span id="fr_49"></span>[\*](#fn_48) of the Druids, it is easy to
+deity <span id="fr_49"></span>[\*](#fn_48.md) of the Druids, it is easy to
 imagine what ready acceptance the worship of his more refined Persian
 equivalent would find amongst the Celtic Aborigines, when once
 introduced by the Roman troops and colonists, many of whom were
@@ -239,7 +239,7 @@ is on the point of death, to take a little dog, and place it upon his
 breast. When they perceive that he is at his last gasp, they apply the
 dog's muzzle to the dying man's mouth, and make it bark twice when in
 this position, as if they meant to make the person's soul enter into the
-dog, <span id="fr_50"></span>[\*](#fn_49) which they pretend will
+dog, <span id="fr_50"></span>[\*](#fn_49.md) which they pretend will
 deliver it unto the angel appointed to receive the same. Moreover, if a
 dog happens to die, they carry it out of the town, and pray to God in
 behalf of that piece of carrion, as though the brute's soul could derive
@@ -271,12 +271,12 @@ so devoured. When the last seven sages of Greece, expelled from their
 professional chairs at Athens by the stupid bigotry of Justinian, sought
 refuge in the ostentatious hospitality of Nushirwan the Just, even they
 (despite their philosophy) found themselves obliged, by their disgust at
-the sight of this practice, <span id="fr_51"></span>[\*](#fn_50) to
+the sight of this practice, <span id="fr_51"></span>[\*](#fn_50.md) to
 return home with sad loss of dignity, and submit to the spirit of the
 times. If the dogs refused to touch the carcase, this was looked on by
 the friends of the deceased as the very worst of indications as to the
 ultimate destination of his soul. The Parsees, who, with more decency,
-constitute the raven <span id="fr_52"></span>[†](#fn_51) (or equally
+constitute the raven <span id="fr_52"></span>[†](#fn_51.md) (or equally
 sacred creature) sexton and sepulchre in one, derive a similar augury
 from observing which eye is first attacked by the bird, the preference
 for the right one being the token of salvation; for the left, of the
@@ -336,10 +336,10 @@ the symbol of Fire (Bramah) is an equilateral Triangle, with the apex
 pointing upwards, it may be *conjectured* that the Mithraic χάραγμα was
 the same simple figure, by which indeed Horapollo informs us the
 Egyptians symbolised the Moon, and Plutarch that Pythagoras expressed
-the goddess Athene. <span id="fr_53"></span>[\*](#fn_52) Clarkson,
+the goddess Athene. <span id="fr_53"></span>[\*](#fn_52.md) Clarkson,
 however, asserts positively that the Mark of Mithras was the "Tau
 mysticum," but whence he derived this knowledge I have never been able
-to ascertain. <span id="fr_54"></span>[†](#fn_53)
+to ascertain. <span id="fr_54"></span>[†](#fn_53.md)
 
 The *Seven Stars*, so conspicuous upon these talismans, doubtless stand
 for something higher than the mere planets; in all likelihood they
@@ -367,7 +367,7 @@ Twenty-Seven Devs.
 
 ### Footnotes
 
-<span id="fn_48"></span>[136:\*](gar20.htm#fr_49) As "Belenus" he
+<span id="fn_48"></span>[136:\*](gar20.htm#fr_49.md) As "Belenus" he
 continued to the last the patron god of Aquileia, that Gallic metropolis
 of Cisalpine Gaul, and to his power was ascribed the death of Maximin
 when besieging that city. The acclamations of the senate on the receipt
@@ -377,15 +377,15 @@ convincing testimony, literally an "ex pede Herculem," to his incredible
 stature, was yet to be seen in the days of Lampridius, nailed to a tree
 in the *sacred grove* at the place of his fall.
 
-<span id="fn_49"></span>[137:\*](gar20.htm#fr_50) My Parsee informant
+<span id="fn_49"></span>[137:\*](gar20.htm#fr_50.md) My Parsee informant
 assures me this ceremony is now modified into the merely bringing a dog
 into the dying man's chamber.
 
-<span id="fn_50"></span>[138:\*](gar20.htm#fr_51) To which they would
+<span id="fn_50"></span>[138:\*](gar20.htm#fr_51.md) To which they would
 have been forced to conform had they continued under the protection of
 the Sassanian king.
 
-<span id="fn_51"></span>[138:†](gar20.htm#fr_52) The same practice
+<span id="fn_51"></span>[138:†](gar20.htm#fr_52.md) The same practice
 prevails in Thibet with the motive thus assigned. "Several bodies
 exposed on the banks of the stream were being devoured by crows and
 buzzards, which soon leave nothing but the skeletons, which are washed
@@ -399,10 +399,10 @@ only among the poorer people, who cannot afford to pay Lamas to perform
 the ceremony of exposing the body."--Cooper's 'Travels of a Pioneer of
 Commerce,' p. 270.
 
-<span id="fn_52"></span>[140:\*](gar20.htm#fr_53) Herself the lunar
+<span id="fn_52"></span>[140:\*](gar20.htm#fr_53.md) Herself the lunar
 deity, according to an old tradition preserved by Aristotle.
 
-<span id="fn_53"></span>[140:†](gar20.htm#fr_54) There is very good
+<span id="fn_53"></span>[140:†](gar20.htm#fr_54.md) There is very good
 reason to discover a Mithraic mark in the "Phanaces" or, Sun between two
 Crescents, the regular badge of the kings of Pontus, and as such pm upon
 the states of Athens bearing the names of Mithridates and Aristion. (In
@@ -411,4 +411,4 @@ the Duc de Luynes Collection.)
 ------------------------------------------------------------------------
 
 [Next: V. Gnostic Sacraments and Initiations as Connected with the
-Mithraic](gar21)
+Mithraic](gar21.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork10)  [Next](gork12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork10)  [Next](gork12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 ### CHAPTER VIII
 
-### FEAST AT THE GARDEN-HOUSE OF SURENDRA <span id="fr_66"></span>[\*](#fn_66)
+### FEAST AT THE GARDEN-HOUSE OF SURENDRA <span id="fr_66"></span>[\*](#fn_66.md)
 
 <span class="smallcaps">Srî Ramakrishna</span> was invited by one of His
 beloved disciples, Surendra, a householder, to a feast made in his
@@ -49,7 +49,7 @@ songs, the Bhagavân was frequently in a state of Samâdhi. They were
 singing. Suddenly He rose to His feet, saying: "O my friend, do thou
 bring my beloved Krishna to me or take me over to the place where He
 is." The Bhagavân, it would appear, had merged His personality in that
-of Râdhâ, <span id="fr_67"></span>[\*](#fn_67) the chief of the Gopis.
+of Râdhâ, <span id="fr_67"></span>[\*](#fn_67.md) the chief of the Gopis.
 He realized that He and Râdhâ were one. With those words He stood
 speechless and motionless, with fixed half-closed eyes that moved not,
 evidently having lost all sense-consciousness. Coming to Himself, He
@@ -193,7 +193,7 @@ there. I shall do that," I must go, because I have said it. I may lose
 my firmness in truthfulness if I do not keep my word to the very letter.
 Openness as opposed to dissimulation is the fruit of the practice of
 many religious austerities in one's previous incarnations. In a
-well-known song by Tulsi Dâs <span id="fr_68"></span>[\*](#fn_68) it is
+well-known song by Tulsi Dâs <span id="fr_68"></span>[\*](#fn_68.md) it is
 said: "Give up dissimulation and
 
 <span id="page_233">p. 233</span>
@@ -235,7 +235,7 @@ place where they eat become polluted.
 
 iii
 
-Protâp Chunder Mozoomdâr, <span id="fr_69"></span>[\*](#fn_69) a member
+Protâp Chunder Mozoomdâr, <span id="fr_69"></span>[\*](#fn_69.md) a member
 of the Brâhmo-Samâj, entered and saluted Srî
 
 <span id="page_235">p. 235</span>
@@ -472,7 +472,7 @@ Brâhmo Samâj and
 
 <span class="margnote">Lectures and sermons of preachers.</span><span
 class="contnote">\[paragraph continues\]</span> Harisabhâ, <span
-id="fr_70"></span>[\*](#fn_70) the Bhagavân said: One can form an
+id="fr_70"></span>[\*](#fn_70.md) the Bhagavân said: One can form an
 estimate of a man from the lectures he delivers. A pandit was lecturing
 as the preceptor (Âchârya) of a certain Harisabhâ. In the course of his
 sermon he said: "The Lord has not *Rasa* (sweetness). Let us make Him
@@ -496,8 +496,8 @@ intelligent man,
 <span id="page_246">p. 246</span>
 
 you are a deep thinker. Keshab and yourself were like the brothers
-Gour <span id="fr_71"></span>[\*](#fn_71) (Chaitanya) and Netâi. <span
-id="fr_72"></span>[†](#fn_72) You have had enough of this world—enough
+Gour <span id="fr_71"></span>[\*](#fn_71) (Chaitanya.md) and Netâi. <span
+id="fr_72"></span>[†](#fn_72.md) You have had enough of this world—enough
 of lectures, controversies, schisms and the rest. Do you still care for
 them? Now, it is high time for you to collect your scattered mind and
 turn towards God. Plunge into the ocean of Divinity.
@@ -767,7 +767,7 @@ him: "You do not understand the inner nature of your disciples. You must
 study their predominant traits and you must not make disciples
 indiscriminately."
 
-Râm Bâbu <span id="fr_73"></span>[\*](#fn_73): Bhagavan, I do not see
+Râm Bâbu <span id="fr_73"></span>[\*](#fn_73.md): Bhagavan, I do not see
 what good has been done by the New Dispensation of Keshab Sen. If Keshab
 himself had realized God, the condition of his disciples and followers
 would have been different. In my opinion he has had no realization.
@@ -841,13 +841,13 @@ qualities.
 
 ### Footnotes
 
-<span id="fn_66"></span>[225:\*](gork11.htm#fr_66) See note page
-[177](gork08.htm#page_177).
+<span id="fn_66"></span>[225:\*](gork11.htm#fr_66.md) See note page
+[177](gork08.htm#page_177.md).
 
-<span id="fn_67"></span>[226:\*](gork11.htm#fr_67) See note page
-[191](gork09.htm#page_191).
+<span id="fn_67"></span>[226:\*](gork11.htm#fr_67.md) See note page
+[191](gork09.htm#page_191.md).
 
-<span id="fn_68"></span>[232:\*](gork11.htm#fr_68) Tulsi Dâs was a great
+<span id="fn_68"></span>[232:\*](gork11.htm#fr_68.md) Tulsi Dâs was a great
 Hindu poet who lived between 1544 and 1624 A.D. He was a devoted
 worshipper of Râma. His Hindi poem, "Râmâyana," or history of Râma, as
 well as Proverbs and other verses, are to this day household words in
@@ -855,7 +855,7 @@ every town and rural district where the Hindi language <span
 id="page_233">p. 233</span> is spoken. He is regarded by the people as a
 Hindu saint of the Vaishnava sect.
 
-<span id="fn_69"></span>[234:\*](gork11.htm#fr_69) Protâp Chunder
+<span id="fn_69"></span>[234:\*](gork11.htm#fr_69.md) Protâp Chunder
 Mozoomdâr is well known in America as Mr. Mozoomdar. He was a co-worker
 of Keshab Chunder Sen and became a leader of the "New Dispensation" sect
 of the Brâhmo-Samâj. He came to the Parliament of Religions at Chicago
@@ -865,23 +865,23 @@ in 1893 A.D., and delivered addresses in <span id="page_235">p.
 "Râmakrishna," which was published in the *Theistic Quarterly Review* of
 India; and which was incorporated with "My Master" by Swami Vivekânanda.
 
-<span id="fn_70"></span>[245:\*](gork11.htm#fr_70) Harisabhâ is an
+<span id="fn_70"></span>[245:\*](gork11.htm#fr_70.md) Harisabhâ is an
 orthodox Hindu Society.
 
-<span id="fn_71"></span>[246:\*](gork11.htm#fr_71) "Gour" is the
+<span id="fn_71"></span>[246:\*](gork11.htm#fr_71.md) "Gour" is the
 abbreviated form of "Gourânga," another name of Chaitanya. See note page
-[7](gork03.htm#page_7).
+[7](gork03.htm#page_7.md).
 
-<span id="fn_72"></span>[246:†](gork11.htm#fr_72) "Netâi" is also the
+<span id="fn_72"></span>[246:†](gork11.htm#fr_72.md) "Netâi" is also the
 abbreviated form of "Nityânanda," the most powerful preacher among the
 followers of Chaitanya. He is regarded by the Vaishnavas of this sect as
 the spiritual brother of Gourânga.
 
-<span id="fn_73"></span>[257:\*](gork11.htm#fr_73) Râm Bâbu was a
+<span id="fn_73"></span>[257:\*](gork11.htm#fr_73.md) Râm Bâbu was a
 devoted householder disciple of Srî Râmakrishna. He was a scientist and
 a teacher of chemistry in the Medical College of Calcutta. He was a good
 speaker and a writer.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Visit to a Hindu Pandit and Preacher](gork12)
+[Next: Chapter IX. Visit to a Hindu Pandit and Preacher](gork12.md)

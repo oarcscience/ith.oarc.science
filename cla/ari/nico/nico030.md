@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico029) 
-[Next](nico031) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico029.md) 
+[Next](nico031.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ who are thought to be brave.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9. Relation of courage to pain and pleasure](nico031)
+[Next: Chapter 9. Relation of courage to pain and pleasure](nico031.md)

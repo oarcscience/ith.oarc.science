@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -13,10 +13,10 @@ writings of the Phoenicians, and Chaldeans, and Egyptians. I have,
 moreover, produced many of the Grecian writers as witnesses thereto. I
 have also made a refutation of Manetho and Cheremon, and of certain
 others of our enemies. I shall now <span
-id="EndNote Apion 2.1a"></span>[(1)](#EndNote%20Apion%202.1b) therefore
+id="EndNote Apion 2.1a"></span>[(1)](#EndNote%20Apion%202.1b.md) therefore
 begin a confutation of the remaining authors who have written any thing
 against us; although I confess I have had a doubt upon me about Apion
-<span id="EndNote Apion 2.2a"></span>[(2)](#EndNote%20Apion%202.2b) the
+<span id="EndNote Apion 2.2a"></span>[(2)](#EndNote%20Apion%202.2b.md) the
 grammarian, whether I ought to take the trouble of confuting him or not;
 for some of his writings contain much the same accusations which the
 others have laid against us, some things that he hath added are very
@@ -54,7 +54,7 @@ forefathers, and offered his prayers in the open air, towards the city
 walls; but that he reduced them all to be directed towards sun-rising,
 which was agreeable to the situation of Heliopolis; that he also set up
 pillars instead of gnomons, <span
-id="EndNote Apion 2.3a"></span>[(3)](#EndNote%20Apion%202.3b) under
+id="EndNote Apion 2.3a"></span>[(3)](#EndNote%20Apion%202.3b.md) under
 which was represented a cavity like that of a boat, and the shadow that
 fell from their tops fell down upon that cavity, that it might go round
 about the like course as the sun itself goes round in the other." This
@@ -141,7 +141,7 @@ when he lies also about himself? for although he was born at Oasis in
 Egypt, he pretends to be, as a man may say, the top man of all the
 Egyptians; yet does he forswear his real country and progenitors, and by
 falsely pretending to be born at Alexandria, cannot deny the <span
-id="EndNote Apion 2.4a"></span>[(4)](#EndNote%20Apion%202.4b) pravity of
+id="EndNote Apion 2.4a"></span>[(4)](#EndNote%20Apion%202.4b.md) pravity of
 his family; for you see how justly he calls those Egyptians whom he
 hates, and endeavors to reproach; for had he not deemed Egyptians to be
 a name of great reproach, he would not have avoided the name of an
@@ -258,12 +258,12 @@ that Ptolemy who was called Physco, upon the death of his brother
 Philometer, came from Cyrene, and would have ejected Cleopatra as well
 as her sons out of their kingdom, that he might obtain it for himself
 unjustly. <span
-id="EndNote Apion 2.5a"></span>[(5)](#EndNote%20Apion%202.5b) For this
+id="EndNote Apion 2.5a"></span>[(5)](#EndNote%20Apion%202.5b.md) For this
 cause then it was that Onias undertook a war against him on Cleopatra's
 account; nor would he desert that trust the royal family had reposed in
 him in their distress. Accordingly, God gave a remarkable attestation to
 his righteous procedure; for when Ptolemy Physco <span
-id="EndNote Apion 2.6a"></span>[(6)](#EndNote%20Apion%202.6b) had the
+id="EndNote Apion 2.6a"></span>[(6)](#EndNote%20Apion%202.6b.md) had the
 presumption to fight against Onias's army, and had caught all the Jews
 that were in the city \[Alexandria\], with their children and wives, and
 exposed them naked and in bonds to his elephants, that they might be
@@ -292,7 +292,7 @@ brother slain by private treachery, and she destroyed the gods of her
 country and the sepulchers of her progenitors; and while she had
 received her kingdom from the first Caesar, she had the impudence to
 rebel against his son: <span
-id="EndNote Apion 2.7a"></span>[(7)](#EndNote%20Apion%202.7b) and
+id="EndNote Apion 2.7a"></span>[(7)](#EndNote%20Apion%202.7b.md) and
 successor; nay, she corrupted Antony with her love-tricks, and rendered
 him an enemy to his country, and made him treacherous to his friends,
 and \[by his means\] despoiled some of their royal authority, and forced
@@ -395,7 +395,7 @@ Alexandrian Jews.
 7\. However, I cannot but admire those other authors who furnished this
 man with such his materials; I mean Possidonius and Apollonius \[the son
 of\] Molo, <span
-id="EndNote Apion 2.8a"></span>[(8)](#EndNote%20Apion%202.8b) who, while
+id="EndNote Apion 2.8a"></span>[(8)](#EndNote%20Apion%202.8b.md) who, while
 they accuse us for not worshipping the same gods whom others worship,
 they think themselves not guilty of impiety when they tell lies of us,
 and frame absurd and reproachful stories about our temple; whereas it is
@@ -409,7 +409,7 @@ worth a great deal of money. To this my first answer shall be this, that
 had there been any such thing among us, an Egyptian ought by no means to
 have thrown it in our teeth, since an ass is not a more contemptible
 animal than - <span
-id="EndNote Apion 2.9a"></span>[(9)](#EndNote%20Apion%202.9b) and goats,
+id="EndNote Apion 2.9a"></span>[(9)](#EndNote%20Apion%202.9b.md) and goats,
 and other such creatures, which among them are gods. But besides this
 answer, I say further, how comes it about that Apion does not understand
 this to be no other than a palpable lie, and to be confuted by the thing
@@ -428,7 +428,7 @@ us while we were his associates and his friends; nor did he find any
 thing there that was ridiculous. This is attested by many worthy
 writers; Polybius of Megalopolis, Strabo of Cappadocia, Nicolaus of
 Damascus, Timagenes, Castor the chronotoger, and Apollodorus; <span
-id="EndNote Apion 2.10a"></span>[(10)](#EndNote%20Apion%202.10b) who all
+id="EndNote Apion 2.10a"></span>[(10)](#EndNote%20Apion%202.10b.md) who all
 say that it was out of Antiochus's want of money that he broke his
 league with the Jews, and despoiled their temple when it was full of
 gold and silver. Apion ought to have had a regard to these facts, unless
@@ -518,7 +518,7 @@ appeal to the things themselves that make against them. Now, then, all
 such as ever saw the construction of our temple, of what nature it was,
 know well enough how the purity of it was never to be profaned; for it
 had four several courts <span
-id="EndNote Apion 2.11a"></span>[(11)](#EndNote%20Apion%202.11b)
+id="EndNote Apion 2.11a"></span>[(11)](#EndNote%20Apion%202.11b.md)
 encompassed with cloisters round about, every one of which had by our
 law a peculiar degree of separation from the rest. Into the first court
 every body was allowed to go, even foreigners, and none but women,
@@ -585,7 +585,7 @@ knowing the cities he speaks of, he changes their situation; for Idumea
 borders upon our country, and is near to Gaza, in which there is no such
 city as Dora; although there be, it is true, a city named Dora in
 Phoenicia, near Mount Carmel, but it is four days' journey from Idumea.
-<span id="EndNote Apion 2.12a"></span>[(12)](#EndNote%20Apion%202.12b)
+<span id="EndNote Apion 2.12a"></span>[(12)](#EndNote%20Apion%202.12b.md)
 Now, then, why does this man accuse us, because we have not gods in
 common with other nations, if our fathers were so easily prevailed upon
 to have Apollo come to them, and thought they saw him walking upon the
@@ -596,10 +596,10 @@ journey over the country, where were so many ten thousands of people,
 nobody met him. He also, it seems, even in a time of war, found the
 walls of Jerusalem destitute of guards. I omit the rest. Now the doors
 of the holy house were seventy <span
-id="EndNote Apion 2.13a"></span>[(13)](#EndNote%20Apion%202.13b) cubits
+id="EndNote Apion 2.13a"></span>[(13)](#EndNote%20Apion%202.13b.md) cubits
 high, and twenty cubits broad; they were all plated over with gold, and
 almost of solid gold itself, and there were no fewer than twenty <span
-id="EndNote Apion 2.14a"></span>[(14)](#EndNote%20Apion%202.14b) men
+id="EndNote Apion 2.14a"></span>[(14)](#EndNote%20Apion%202.14b.md) men
 required to shut them every day; nor was it lawful ever to leave them
 open, though it seems this lamp-bearer of ours opened them easily, or
 thought he opened them, as he thought he had the ass's head in his hand.
@@ -643,7 +643,7 @@ have had this extraordinary privilege, to have never served any of those
 monarchs who subdued Asia and Europe, and this on account, as they
 pretend, that the gods fled into their country, and saved themselves by
 being changed into the shapes of wild beasts! Whereas these Egyptians
-<span id="EndNote Apion 2.15a"></span>[(15)](#EndNote%20Apion%202.15b)
+<span id="EndNote Apion 2.15a"></span>[(15)](#EndNote%20Apion%202.15b.md)
 are the very people that appear to have never, in all the past ages, had
 one day of freedom, no, not so much as from their own lords. For I will
 not reproach them with relating the manner how the Persians used them,
@@ -673,7 +673,7 @@ twenty years together, until Pompeius Magnus. And when all the kings
 every where were conquered by the Romans, our ancestors were the only
 people who continued to be esteemed their confederates and friends, on
 account of their fidelity to them.<span
-id="EndNote Apion 2.16a"></span>[(16)](#EndNote%20Apion%202.16b)
+id="EndNote Apion 2.16a"></span>[(16)](#EndNote%20Apion%202.16b.md)
 
 13\. "But," says Apion, "we Jews have not had any wonderful men amongst
 us, not any inventors of arts, nor any eminent for wisdom." He then
@@ -817,14 +817,14 @@ governor. When he had therefore come to such a good resolution, and had
 performed such wonderful exploits, we had just reason to look upon
 ourselves as having him for a divine governor and counselor. And when he
 had first persuaded himself <span
-id="EndNote Apion 2.17a"></span>[(17)](#EndNote%20Apion%202.17b) that
+id="EndNote Apion 2.17a"></span>[(17)](#EndNote%20Apion%202.17b.md) that
 his actions and designs were agreeable to God's will, he thought it his
 duty to impress, above all things, that notion upon the multitude; for
 those who have once believed that God is the inspector of their lives,
 will not permit themselves in any sin. And this is the character of our
 legislator: he was no impostor, no deceiver, as his revilers say, though
 unjustly, but such a one as they brag Minos <span
-id="EndNote Apion 2.18a"></span>[(18)](#EndNote%20Apion%202.18b) to have
+id="EndNote Apion 2.18a"></span>[(18)](#EndNote%20Apion%202.18b.md) to have
 been among the Greeks, and other legislators after him; for some of them
 suppose that they had their laws from Jupiter, while Minos said that the
 revelation of his laws was to be referred to Apollo, and his oracle at
@@ -834,7 +834,7 @@ which of these it was who made the best laws, and which had the greatest
 reason to believe that God was their author, it will be easy, upon
 comparing those laws themselves together, to determine; for it is time
 that we come to that point. <span
-id="EndNote Apion 2.19a"></span>[(19)](#EndNote%20Apion%202.19b) Now
+id="EndNote Apion 2.19a"></span>[(19)](#EndNote%20Apion%202.19b.md) Now
 there are innumerable differences in the particular customs and laws
 that are among all mankind, which a man may briefly reduce under the
 following heads: Some legislators have permitted their governments to be
@@ -842,7 +842,7 @@ under monarchies, others put them under oligarchies, and others under a
 republican form; but our legislator had no regard to any of these forms,
 but he ordained our government to be what, by a strained expression, may
 be termed a Theocracy, <span
-id="EndNote Apion 2.20a"></span>[(20)](#EndNote%20Apion%202.20b) by
+id="EndNote Apion 2.20a"></span>[(20)](#EndNote%20Apion%202.20b.md) by
 ascribing the authority and the power to God, and by persuading all the
 people to have a regard to him, as the author of all the good things
 that were enjoyed either in common by all mankind, or by each one in
@@ -850,7 +850,7 @@ particular, and of all that they themselves obtained by praying to him
 in their greatest difficulties. He informed them that it was impossible
 to escape God's observation, even in any of our outward actions, or in
 any of our inward thoughts. Moreover, he represented God as unbegotten,
-<span id="EndNote Apion 2.21a"></span>[(21)](#EndNote%20Apion%202.21b)
+<span id="EndNote Apion 2.21a"></span>[(21)](#EndNote%20Apion%202.21b.md)
 and immutable, through all eternity, superior to all mortal conceptions
 in pulchritude; and, though known to us by his power, yet unknown to us
 as to his essence. I do not now explain how these notions of God are the
@@ -1012,7 +1012,7 @@ excesses are against the will of God, and would be an occasion of
 injuries and of luxury; but by keeping ourselves sober, orderly, and
 ready for our other occupations, and being more temperate than others.
 And for our duty at the sacrifices <span
-id="EndNote Apion 2.22a"></span>[(22)](#EndNote%20Apion%202.22b)
+id="EndNote Apion 2.22a"></span>[(22)](#EndNote%20Apion%202.22b.md)
 themselves, we ought, in the first place, to pray for the common welfare
 of all, and after that for our own; for we are made for fellowship one
 with another, and he who prefers the common good before what is peculiar
@@ -1038,7 +1038,7 @@ deceitfully and knavishly; but to demand her in marriage of him who hath
 power to dispose of her, and is fit to give her away by the nearness of
 his kindred; for, says the Scripture, "A woman is inferior to her
 husband in all things." <span
-id="EndNote Apion 2.23a"></span>[(23)](#EndNote%20Apion%202.23b) Let
+id="EndNote Apion 2.23a"></span>[(23)](#EndNote%20Apion%202.23b.md) Let
 her, therefore, be obedient to him; not so that he should abuse her, but
 that she may acknowledge her duty to her husband; for God hath given the
 authority to the husband. A husband, therefore, is to lie only with his
@@ -1180,7 +1180,7 @@ with great artifice. However, they admire Lycurgus as the principal
 lawgiver, and all men celebrate Sparta for having continued in the firm
 observance of his laws for a very long time. So far then we have gained,
 that it is to be confessed a mark of virtue to submit to laws. <span
-id="EndNote Apion 2.24a"></span>[(24)](#EndNote%20Apion%202.24b) But
+id="EndNote Apion 2.24a"></span>[(24)](#EndNote%20Apion%202.24b.md) But
 then let such as admire this in the Lacedemonians compare that duration
 of theirs with more than two thousand years which our political
 government hath continued; and let them further consider, that though
@@ -1191,7 +1191,7 @@ ten thousand changes in our fortune by the changes that happened among
 the kings of Asia, have never betrayed our laws under the most pressing
 distresses we have been in; nor have we neglected them either out of
 sloth or for a livelihood. <span
-id="EndNote Apion 2.25a"></span>[(25)](#EndNote%20Apion%202.25b) if any
+id="EndNote Apion 2.25a"></span>[(25)](#EndNote%20Apion%202.25b.md) if any
 one will consider it, the difficulties and labors laid upon us have been
 greater than what appears to have been borne by the Lacedemonian
 fortitude, while they neither ploughed their land, nor exercised any
@@ -1366,7 +1366,7 @@ mercy; for on what other account was it that Socrates was put to death
 by them? For certainly he neither betrayed their city to its enemies,
 nor was he guilty of any sacrilege with regard to any of their temples;
 but it was on this account, that he swore certain new oaths <span
-id="EndNote Apion 2.26a"></span>[(26)](#EndNote%20Apion%202.26b) and
+id="EndNote Apion 2.26a"></span>[(26)](#EndNote%20Apion%202.26b.md) and
 that he affirmed either in earnest, or, as some say, only in jest, that
 a certain demon used to make signs to him \[what he should not do\]. For
 these reasons he was condemned to drink poison, and kill himself. His
@@ -1415,7 +1415,7 @@ go to war, though it be beyond our ability to pursue it, and bear the
 greatest calamities to the last with much fortitude. And, indeed, what
 reason can there be why we should desire to imitate the laws of other
 nations, while we see they are not observed by their own legislators
-<span id="EndNote Apion 2.27a"></span>[(27)](#EndNote%20Apion%202.27b)
+<span id="EndNote Apion 2.27a"></span>[(27)](#EndNote%20Apion%202.27b.md)
 And why do not the Lacedemonians think of abolishing that form of their
 government which suffers them not to associate with any others, as well
 as their contempt of matrimony? And why do not the Eleans and Thebans
@@ -1434,7 +1434,7 @@ their own absurd and unnatural pleasures.
 escaping them the greatest part of the legislators have afforded
 malefactors, by ordaining that, for adulteries, fines in money should be
 allowed, and for corrupting <span
-id="EndNote Apion 2.28a"></span>[(28)](#EndNote%20Apion%202.28b)
+id="EndNote Apion 2.28a"></span>[(28)](#EndNote%20Apion%202.28b.md)
 \[virgins\] they need only marry them as also what excuses they may have
 in denying the facts, if any one attempts to inquire into them; for
 amongst most other nations it is a studied art how men may transgress
@@ -1544,7 +1544,7 @@ the affairs of our nation.
 
 ENDNOTE
 
-<span id="EndNote Apion 2.1b"></span>[(1)](#EndNote%20Apion%202.1a) The
+<span id="EndNote Apion 2.1b"></span>[(1)](#EndNote%20Apion%202.1a.md) The
 former part of this second book is written against the calumnies of
 Apion, and then, more briefly, against the like calumnies of Apollonius
 Molo. But after that, Josephus leaves off any more particular reply to
@@ -1552,23 +1552,23 @@ those adversaries of the Jews, and gives us a large and excellent
 description and vindication of that theocracy which was settled for the
 Jewish nation by Moses, their great legislator.
 
-<span id="EndNote Apion 2.2b"></span>[(2)](#EndNote%20Apion%202.2a)
+<span id="EndNote Apion 2.2b"></span>[(2)](#EndNote%20Apion%202.2a.md)
 Called by Tiberius Cymbalum Mundi, The drum of the world.
 
-<span id="EndNote Apion 2.3b"></span>[(3)](#EndNote%20Apion%202.3a) This
+<span id="EndNote Apion 2.3b"></span>[(3)](#EndNote%20Apion%202.3a.md) This
 seems to have been the first dial that had been made in Egypt, and was a
 little before the time that Ahaz made his \[first\] dial in Judea, and
 about anno 755, in the first year of the seventh olympiad, as we shall
 see presently. See 2 Kings 20:11; Isaiah 38:8.
 
-<span id="EndNote Apion 2.4b"></span>[(4)](#EndNote%20Apion%202.4a) The
+<span id="EndNote Apion 2.4b"></span>[(4)](#EndNote%20Apion%202.4a.md) The
 burial-place for dead bodies, as I suppose.
 
-<span id="EndNote Apion 2.5b"></span>[(5)](#EndNote%20Apion%202.5a) Here
+<span id="EndNote Apion 2.5b"></span>[(5)](#EndNote%20Apion%202.5a.md) Here
 begins a great defect in the Greek copy; but the old Latin version fully
 supplies that defect.
 
-<span id="EndNote Apion 2.6b"></span>[(6)](#EndNote%20Apion%202.6a) What
+<span id="EndNote Apion 2.6b"></span>[(6)](#EndNote%20Apion%202.6a.md) What
 error is here generally believed to have been committed by our Josephus
 in ascribing a deliverance of the Jews to the reign of Ptolemy Physco,
 the seventh of those Ptolemus, which has been universally supposed to
@@ -1577,25 +1577,25 @@ than a gross error of the moderns, and not of Josephus, as I have fully
 proved in the Authentic. Rec. Part I. p. 200-201, whither I refer the
 inquisitive reader.
 
-<span id="EndNote Apion 2.7b"></span>[(7)](#EndNote%20Apion%202.7a)
+<span id="EndNote Apion 2.7b"></span>[(7)](#EndNote%20Apion%202.7a.md)
 Sister's son, and adopted son.
 
-<span id="EndNote Apion 2.8b"></span>[(8)](#EndNote%20Apion%202.8a)
+<span id="EndNote Apion 2.8b"></span>[(8)](#EndNote%20Apion%202.8a.md)
 Called more properly Molo, or Apollonius Molo, as hereafter; for
 Apollonins, the son of Molo, was another person, as Strabo informs us,
 lib. xiv.
 
-<span id="EndNote Apion 2.9b"></span>[(9)](#EndNote%20Apion%202.9a)
+<span id="EndNote Apion 2.9b"></span>[(9)](#EndNote%20Apion%202.9a.md)
 Furones in the Latin, which what animal it denotes does not now appear.
 
-<span id="EndNote Apion 2.10b"></span>[(10)](#EndNote%20Apion%202.10a)
+<span id="EndNote Apion 2.10b"></span>[(10)](#EndNote%20Apion%202.10a.md)
 It is great pity that these six pagan authors, here mentioned to have
 described the famous profanation of the Jewish temple by Antiochus
 Epiphanes, should be all lost; I mean so far of their writings as
 contained that description; though it is plain Josephus perused them all
 as extant in his time.
 
-<span id="EndNote Apion 2.11b"></span>[(11)](#EndNote%20Apion%202.11a)
+<span id="EndNote Apion 2.11b"></span>[(11)](#EndNote%20Apion%202.11a.md)
 It is remarkable that Josephus here, and, I think, no where else,
 reckons up four distinct courts of the temple; that of the Gentiles,
 that of the women of Israel, that of the men of Israel, and that of the
@@ -1603,18 +1603,18 @@ priests; as also that the court of the women admitted of the men, (I
 suppose only of the husbands of those wives that were therein,) while
 the court of the men did not admit any women into it at all.
 
-<span id="EndNote Apion 2.12b"></span>[(12)](#EndNote%20Apion%202.12a)
+<span id="EndNote Apion 2.12b"></span>[(12)](#EndNote%20Apion%202.12a.md)
 Judea, in the Greek, by a gross mistake of the transcribers.
 
-<span id="EndNote Apion 2.13b"></span>[(13)](#EndNote%20Apion%202.13a)
+<span id="EndNote Apion 2.13b"></span>[(13)](#EndNote%20Apion%202.13a.md)
 Seven in the Greek, by a like gross mistake of the transcribers. See of
 the War, B. V. ch. 5. sect. 4.
 
-<span id="EndNote Apion 2.14b"></span>[(14)](#EndNote%20Apion%202.14a)
+<span id="EndNote Apion 2.14b"></span>[(14)](#EndNote%20Apion%202.14a.md)
 Two hundred in the Greek, contrary to the twenty in the War, B. VII. ch,
 5. sect. 3.
 
-<span id="EndNote Apion 2.15b"></span>[(15)](#EndNote%20Apion%202.15a)
+<span id="EndNote Apion 2.15b"></span>[(15)](#EndNote%20Apion%202.15a.md)
 This notorious disgrace belonging peculiarly to the people of Egypt,
 ever since the times of the old prophets of the Jews, noted both sect. 4
 already, and here, may be confirmed by the testimony of Isidorus, an
@@ -1623,7 +1623,7 @@ completion of the ancient prediction of God by Ezekiel 29:14, 15, that
 the Egyptians should be a base kingdom, the basest of the kingdoms," and
 that "it should not exalt itself any more above the nations."
 
-<span id="EndNote Apion 2.16b"></span>[(16)](#EndNote%20Apion%202.16a)
+<span id="EndNote Apion 2.16b"></span>[(16)](#EndNote%20Apion%202.16a.md)
 The truth of which still further appears by the present observation of
 Josephus, that these Egyptians had never, in all the past ages since
 Sesostris, had one day of liberty, no, not so much as to have been free
@@ -1632,7 +1632,7 @@ this bas been found equally true in the latter ages, under the Romans,
 Saracens, Mamelukes, and Turks, from the days of Josephus till the
 present ago also.
 
-<span id="EndNote Apion 2.17b"></span>[(17)](#EndNote%20Apion%202.17a)
+<span id="EndNote Apion 2.17b"></span>[(17)](#EndNote%20Apion%202.17a.md)
 This language, that Moses, "persuaded himself" that what he did was
 according to God's will, can mean no more, by Josephus's own constant
 notions elsewhere, than that he was "firmly persuaded," that he had
@@ -1648,7 +1648,7 @@ withal it was owing in part to this prophetic spirit of Moses that the
 Jews expected a resurrection from the dead. See almost as strange a use
 of the like words, "to persuade God," Antiq. B. VI. ch. 5. sect. 6.
 
-<span id="EndNote Apion 2.18b"></span>[(18)](#EndNote%20Apion%202.18a)
+<span id="EndNote Apion 2.18b"></span>[(18)](#EndNote%20Apion%202.18a.md)
 That is, Moses really was, what the heathen legislators pretended to be,
 under a Divine direction; nor does it yet appear that these pretensions
 to a supernatural conduct, either in these legislators or oracles, were
@@ -1656,12 +1656,12 @@ mere delusions of men without any demoniacal impressions, nor that
 Josephus took them so to be; as the ancientest and contemporary authors
 did still believe them to be supernatural.
 
-<span id="EndNote Apion 2.19b"></span>[(19)](#EndNote%20Apion%202.19a)
+<span id="EndNote Apion 2.19b"></span>[(19)](#EndNote%20Apion%202.19a.md)
 This whole very large passage is corrected by Dr. Hudson from Eusebius's
 citation of it, Prep. Evangel. viii. 8, which is here not a little
 different from the present MSS. of Josephus.
 
-<span id="EndNote Apion 2.20b"></span>[(20)](#EndNote%20Apion%202.20a)
+<span id="EndNote Apion 2.20b"></span>[(20)](#EndNote%20Apion%202.20a.md)
 This expression itself, that "Moses ordained the Jewish government to be
 a theocracy," may be illustrated by that parallel expression in the
 Antiquities, B. III. ch. 8. sect. 9, that "Moses left it to God to be
@@ -1678,7 +1678,7 @@ beyond Euphrates, and in their language, in all these cases. However,
 Josephus directly supposes the Jewish settlement, under Moses, to be a
 Divine settlement, and indeed no other than a real theocracy.
 
-<span id="EndNote Apion 2.21b"></span>[(21)](#EndNote%20Apion%202.21a)
+<span id="EndNote Apion 2.21b"></span>[(21)](#EndNote%20Apion%202.21a.md)
 These excellent accounts of the Divine attributes, and that God is not
 to be at all known in his essence, as also some other clear expressions
 about the resurrection of the dead, and the state of departed souls,
@@ -1699,7 +1699,7 @@ among the Jews, or rather to the Nazarenes or Ebionites among the
 Christians, though we have indeed but imperfect accounts of those
 Nazarenes or Ebionite Christians transmitted down to us at this day.
 
-<span id="EndNote Apion 2.22b"></span>[(22)](#EndNote%20Apion%202.22a)
+<span id="EndNote Apion 2.22b"></span>[(22)](#EndNote%20Apion%202.22a.md)
 We may here observe how known a thing it was among the Jews and
 heathens, in this and many other instances, that sacrifices were still
 accompanied with prayers; whence most probably came those phrases of
@@ -1714,10 +1714,10 @@ dedication, 1 Kings 8.; 2 Chronicles 6. See also many passages cited in
 the Apostolical Constitutions, VII. 37, and Of the War, above, B. VII.
 ch. 5. sect. 6.
 
-<span id="EndNote Apion 2.23b"></span>[(23)](#EndNote%20Apion%202.23a)
+<span id="EndNote Apion 2.23b"></span>[(23)](#EndNote%20Apion%202.23a.md)
 This text is no where in our present copies of the Old Testament.
 
-<span id="EndNote Apion 2.24b"></span>[(24)](#EndNote%20Apion%202.24a)
+<span id="EndNote Apion 2.24b"></span>[(24)](#EndNote%20Apion%202.24a.md)
 It may not be amiss to set down here a very remarkable testimony of the
 great philosopher Cicero, as to the preference of "laws to philosophy: —
 I will," says he, "boldly declare my opinion, though the whole world be
@@ -1725,17 +1725,17 @@ offended at it. I prefer this little book of the Twelve Tables alone to
 all the volumes of the philosophers. I find it to be not only of more
 weight,' but also much more useful." — Oratore.
 
-<span id="EndNote Apion 2.25b"></span>[(25)](#EndNote%20Apion%202.25a)
+<span id="EndNote Apion 2.25b"></span>[(25)](#EndNote%20Apion%202.25a.md)
 we have observed our times of rest, and sorts of food allowed us
 \[during our distresses\].
 
-<span id="EndNote Apion 2.26b"></span>[(26)](#EndNote%20Apion%202.26a)
+<span id="EndNote Apion 2.26b"></span>[(26)](#EndNote%20Apion%202.26a.md)
 See what those novel oaths were in Dr. Hudson's note, viz. to swear by
 an oak, by a goat, and by a dog, as also by a gander, as say
 Philostratus and others. This swearing strange oaths was also forbidden
 by the Tyrians, B. I. sect. 22, as Spanheim here notes.
 
-<span id="EndNote Apion 2.27b"></span>[(27)](#EndNote%20Apion%202.27a)
+<span id="EndNote Apion 2.27b"></span>[(27)](#EndNote%20Apion%202.27a.md)
 Why Josephus here should blame some heathen legislators, when they
 allowed so easy a composition for simple fornication, as an obligation
 to marry the virgin that was corrupted, is hard to say, seeing he had
@@ -1745,7 +1745,7 @@ Covenant, p. 61. I am almost ready to suspect that, for, we should here
 read, and that corrupting wedlock, or other men's wives, is the crime
 for which these heathens wickedly allowed this composition in money.
 
-<span id="EndNote Apion 2.28b"></span>[(28)](#EndNote%20Apion%202.28a)
+<span id="EndNote Apion 2.28b"></span>[(28)](#EndNote%20Apion%202.28a.md)
 Or "for corrupting other men's wives the same allowance."
 
-[Bact To The Table Of Contents](index)
+[Bact To The Table Of Contents](index.md)

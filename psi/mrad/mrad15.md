@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad14)  [Next](mrad16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad14)  [Next](mrad16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -39,9 +39,9 @@ called a failure; but seven drawings
 <span id="page_114">p. 114</span>
 
 later in the same series came Mr. Craig's other drawing, which was as
-follows ([fig. 58](#img_fig058)):
+follows ([fig. 58](#img_fig058).md):
 
-<span id="img_fig058"></span> ![Fig. 58](img/fig058.jpg)
+<span id="img_fig058"></span> ![Fig. 58](img/fig058.jpg.md)
 
 Now read the amazing description which my wife had written, seven
 drawings back, when the first of Mr. Craig's drawings had come under her
@@ -110,13 +110,13 @@ printed alongside it—except in cases where I expressly state otherwise.
 
 Now for a few of the "anticipations." In the course of series six, drawn
 by me on Feb. 8, 1929, drawing number two was a daisy, and Craig got the
-elements of it, as you see ([figs. 59. 59a](#img_fig059)):
+elements of it, as you see ([figs. 59. 59a](#img_fig059).md):
 
-<span id="img_fig059"></span> ![Fig. 59, Fig. 59a](img/fig059.jpg)
+<span id="img_fig059"></span> ![Fig. 59, Fig. 59a](img/fig059.jpg.md)
 
 Her mind then went ahead, and she wrote, "May be snow scene on hill and
 sled." The next drawing was an axe, which I give later ([fig.
-145](mrad20.htm#img_fig145)); she got the elements of this very well,
+145](mrad20.htm#img_fig145).md); she got the elements of this very well,
 and then added, on the back: "I get a feeling again of a snow scene to
 come in this series—a sled in the snow." That was number three; and when
 number five came Craig made this annotation: "Opened it by mistake,
@@ -125,13 +125,13 @@ without concentrating.
 <span id="page_118">p. 118</span>
 
 <span class="contnote">\[paragraph continues\]</span> It's my expected
-sled and snow scene." Here is the drawing ([fig. 60](#img_fig060)):
+sled and snow scene." Here is the drawing ([fig. 60](#img_fig060).md):
 
-<span id="img_fig060"></span> ![Fig. 60](img/fig060.jpg)
+<span id="img_fig060"></span> ![Fig. 60](img/fig060.jpg.md)
 
 Series number eight, on Feb. 10, brought even stranger results. This is
 the series in which the laced-up football was turned into a calf wearing
-a belly-band ([figs. 15, 15a](mrad07.htm#img_fig015)). But even while I
+a belly-band ([figs. 15, 15a](mrad07.htm#img_fig015).md). But even while I
 was engaged in making the drawings, sitting in my study apart, and with
 the door closed, Craig's busy magic, whatever it is, was bringing her
 messages. She called out: "I see a rooster!" I had actually drawn a
@@ -156,9 +156,9 @@ In due course came drawing number eight, and before looking at it, Craig
 wrote: "Rooster." Then she added, "But no—it looks like a picture of
 coffee-pot—see spout and handle." This is hard on me as an artist, but I
 give the drawing and let you judge for yourself ([fig.
-61](#img_fig061)):
+61](#img_fig061).md):
 
-<span id="img_fig061"></span> ![Fig. 61](img/fig061.jpg)
+<span id="img_fig061"></span> ![Fig. 61](img/fig061.jpg.md)
 
 What about the circle and the radiating spokes? That was, apparently, a
 fore-glimpse of drawing number five. I give you that, together with what
@@ -170,10 +170,10 @@ and quite unexpected thing by gradual changes. You will
 <span id="page_120">p. 120</span>
 
 see here how the hub of a wagon-wheel may turn into the muzzle of a
-deer! ([figs. 62, 62a](#img_fig062)):
+deer! ([figs. 62, 62a](#img_fig062).md):
 
-<span id="img_fig062"></span> ![Fig. 62, Fig. 62a](img/fig062.jpg)
+<span id="img_fig062"></span> ![Fig. 62, Fig. 62a](img/fig062.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](mrad16)
+[Next: Chapter XV](mrad16.md)

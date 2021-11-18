@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ptn76)  [Next](ptn78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn76)  [Next](ptn78.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
 Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ And she answered, "Good morning, father."
 He said to her, "Will you wash my head?"
 
 She said she would, so she washed it, and when she was going away, he
-gave her a "stampee," <span id="fr_85"></span>[1](#fn_85) and told her
+gave her a "stampee," <span id="fr_85"></span>[1](#fn_85.md) and told her
 to go a certain distance, and she would see a large tree full of
 pumpkins; she was then to dig a hole at the root of the tree and bury
 the money, and when she had done so, she was to call for as many
@@ -83,8 +83,8 @@ down," and the ten pumpkins fell and crushed him.
 
 ### Footnotes
 
-<span id="fn_85"></span>[433:1](ptn77.htm#fr_85) A small coin.
+<span id="fn_85"></span>[433:1](ptn77.htm#fr_85.md) A small coin.
 
 ------------------------------------------------------------------------
 
-[Next: The Brother and his Sisters](ptn78)
+[Next: The Brother and his Sisters](ptn78.md)

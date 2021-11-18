@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch33) 
-[Next](branch35) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch33.md) 
+[Next](branch35.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -155,5 +155,5 @@ he fail him, and Briant to him again.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XXXV](branch35)  
+XXXV](branch35.md)  
 </span>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma02)  [Next](sma04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma02)  [Next](sma04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="page_13">p. 13</span>
 
-# THE ASSASSINS <span id="fr_2"></span>[\*](#fn_2).
+# THE ASSASSINS <span id="fr_2"></span>[\*](#fn_2.md).
 
 ### CHAPTER I.
 
@@ -85,7 +85,7 @@ descendants of Cyrus, and Religion, in return, lent her powerful aid to
 his plans of restoring the royal dignity to its pristine vigour, and of
 infusing into the breast of the people the love of country and the
 ardour for extending the Persian dominion to what it had been of old;
-and for 400 years the Sassanides <span id="fr_3"></span>[\*](#fn_3) were
+and for 400 years the Sassanides <span id="fr_3"></span>[\*](#fn_3.md) were
 the most formidable enemies of the Roman empire. But their dominion had,
 at the period of which we write, nearly attained the greatest limit
 allotted to Oriental dynasties; and though Noosheerwan the Just had
@@ -142,7 +142,7 @@ the present instance. The time was come for the Arabs to leave their
 deserts and march to the conquest of the world, and the man was born who
 was to inspire them with the necessary motives.
 
-Mohammed (*Illustrious* <span id="fr_4"></span>[\*](#fn_4)) was the son
+Mohammed (*Illustrious* <span id="fr_4"></span>[\*](#fn_4).md) was the son
 of Abd-Allah (*Servant of God*), a noble Arab of the tribe of Koreish,
 which bad the guardianship of the Kaaba (*Square House of Mecca*), the
 Black Stone contained in which (probably an aerolite) had been for ages
@@ -184,7 +184,7 @@ dreams the angel Gabriel may not have appeared to his distempered fancy
 to descend to nominate him to the office of a prophet of God, and
 present to him, in a visible form, that portion of his future law which
 had probably already passed through his mind <span
-id="fr_5"></span>[\*](#fn_5)?
+id="fr_5"></span>[\*](#fn_5.md)?
 
 <span id="page_19">p. 19</span>
 
@@ -241,7 +241,7 @@ intended to supersede. The Arabs of the days of Mohammed were idolaters;
 300 is said to have been the number of the images which claimed their
 adoration in the Caaba. A gross licentiousness prevailed among hem;
 their polygamy had no limits assigned to it <span
-id="fr_6"></span>[\*](#fn_6).
+id="fr_6"></span>[\*](#fn_6.md).
 
 <span id="page_21">p. 21</span>
 
@@ -259,7 +259,7 @@ ever-blooming brides of the faithful servants of God. Yet, though
 sensual bliss was to be his ultimate reward, the votary was taught that
 its attainment demanded self-denial on earth; and it has been justly
 observed that "a devout Mussulman exhibits more of the Stoical than of
-the Epicurean character <span id="fr_7"></span>[\*](#fn_7)." As the
+the Epicurean character <span id="fr_7"></span>[\*](#fn_7.md)." As the
 Prophet had resolved that the sword should be unsparingly employed for
 the diffusion of the truth, the highest degree of the future bliss was
 pronounced to be the portion of the martyrs, *i.e.*, of those who fell
@@ -292,7 +292,7 @@ revelation, was brought to him from heaven by the angel Gabriel. It is
 regarded by the Mohammedan. East, and by most European Orientalists, as
 the masterpiece of Arabian literature; and when we make due allowance
 for the difference of European and Arabian models and taste, and
-consider that the rhyme <span id="fr_8"></span>[\*](#fn_8) which in
+consider that the rhyme <span id="fr_8"></span>[\*](#fn_8.md) which in
 prose is insufferable to the former, may to the latter sound grateful,
 we may allow that the praises lavished on it are not
 
@@ -324,21 +324,21 @@ We now proceed to our history.
 
 ### Footnotes
 
-<span id="fn_2"></span>[13:\*](sma03.htm#fr_2) Hammer's *Geschichte der
+<span id="fn_2"></span>[13:\*](sma03.htm#fr_2.md) Hammer's *Geschichte der
 Assassinen* (History of the Assassins), and the same writer's
 *Fundgruben des Oriente* (Mines of the East), M. Jourdain's *Extrait de
 l’Ouvrage de Mirkhond sur la Dynastie des Ismaelites*, and Malcolm's
 History of Persia, are the principal authorities for the following
 account of the Assassins.
 
-<span id="fn_3"></span>[15:\*](sma03.htm#fr_3) The name given to the
+<span id="fn_3"></span>[15:\*](sma03.htm#fr_3.md) The name given to the
 dynasty founded by Ardeshir, from his pretended ancestor Sassan, a
 grandson of Isfundear, a hero greatly celebrated in the ancient history
 of Persia. Isfundear was the son of Gushtasp, who is supposed to be the
 Darius Hystaspes of the Greek historians. Sir John Malcolm has
 endeavoured to identify Isfundear with the Xerxes of the Greeks.
 
-<span id="fn_4"></span>[17:\*](sma03.htm#fr_4) The Oriental proper names
+<span id="fn_4"></span>[17:\*](sma03.htm#fr_4.md) The Oriental proper names
 being mostly all significant, we shall translate them when we first
 employ them. As, however, it is not always that it can be discovered
 what the original Arabic characters are of an eastern word which we meet
@@ -346,7 +346,7 @@ in Roman letters, we shall be sometimes obliged to leave names
 unexplained, and at other times to hazard conjectural explanations. In
 the last case, we shall affix a mark of doubt.
 
-<span id="fn_5"></span>[18:\*](sma03.htm#fr_5) The Kubla Khan of
+<span id="fn_5"></span>[18:\*](sma03.htm#fr_5.md) The Kubla Khan of
 Coleridge (Poetical Works, vol. i. p. 266) is a fine instance of this
 power of the mind, withdrawn from the contemplation of material objects.
 The reader will probably recollect the sign given from heaven to Lord
@@ -361,7 +361,7 @@ Such is the power of imagination, that the supposed intimation in regard
 to the sign actually took effect; she believed herself to have lost the
 power of motion, and therefore did in reality lose it.
 
-<span id="fn_6"></span>[20:\*](sma03.htm#fr_6) See, in Sir J. Malcolm's
+<span id="fn_6"></span>[20:\*](sma03.htm#fr_6.md) See, in Sir J. Malcolm's
 History of Persia, the dialogue <span id="page_21">p. 21</span> between
 the Persian king Yezdijird and the Arab envoy. "Whatever," said the
 latter, "thou hast said regarding the former condition of the Arabs is
@@ -374,13 +374,13 @@ no distinction between that which is lawful and that which is unlawful.
 Such was our state. But God in his mercy has sent us by a holy prophet a
 sacred volume, which teaches us the true faith," &c.
 
-<span id="fn_7"></span>[21:\*](sma03.htm#fr_7) Hallam, Middle Ages, ii,
+<span id="fn_7"></span>[21:\*](sma03.htm#fr_7.md) Hallam, Middle Ages, ii,
 165.
 
-<span id="fn_8"></span>[22:\*](sma03.htm#fr_8) The Hebrews, as appears
+<span id="fn_8"></span>[22:\*](sma03.htm#fr_8.md) The Hebrews, as appears
 from the poetic parts of the Scriptures, had the same delight in the
 clang of rhyme as the Arabs. See particularly Isaiah in the original.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](sma04)
+[Next: Chapter II](sma04.md)

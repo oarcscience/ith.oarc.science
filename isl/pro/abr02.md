@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr01)  [Next](abr03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr01)  [Next](abr03.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ Al-Khaleel (Hebron) in Palestine.
 
 ------------------------------------------------------------------------
 
-[Next: Breaking The Idols and Throwing Abraham in The Fire](abr03)
+[Next: Breaking The Idols and Throwing Abraham in The Fire](abr03.md)
 
 </div>
 

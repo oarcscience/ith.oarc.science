@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat43)  [Next](flat45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat43)  [Next](flat45.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ is a monument fitting to preserve the memory of the deed !
 
 ------------------------------------------------------------------------
 
-[Next: Clough na Cuddy](flat45)
+[Next: Clough na Cuddy](flat45.md)

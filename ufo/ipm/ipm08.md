@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index)  [Index](index)  [Previous](ipm07)  [Next](ipm09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index)  [Index](index)  [Previous](ipm07)  [Next](ipm09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From India to the Planet Mars*, by Théodore Flournoy; tr. Daniel B.
 Vermilye, \[1900\], at Intangible Textual Heritage
 
@@ -111,7 +111,7 @@ it, the birth of the Martian language, indissolubly bound up with that
 of the romance itself, from the 2d of February, 1896, up to the
 inauguration of the process of translation by the entrance of Esenale
 upon the scene on the 2d of November following (see pp.
-[154](ipm07.htm#page_154)-[165](ipm07.htm#page_165)). During several
+[154](ipm07.htm#page_154)-[165](ipm07.htm#page_165).md). During several
 months thereafter the Martian language is confined to the two
 psychological forms of apparition in which it seems to have been clothed
 during the course of that first year.
@@ -144,7 +144,7 @@ Moreover, a distinction must be made between the relatively clear and
 brief phrases which are later translated by Esenale, and the rapid and
 confused gibberish the signification of which can never be obtained,
 probably because it really has none, but is only a pseudo-language (see
-pp. [154](ipm07.htm#page_154)-[159](ipm07.htm#page_159)).
+pp. [154](ipm07.htm#page_154)-[159](ipm07.htm#page_159).md).
 
 A new process of communication, the handwriting, made its appearance in
 August, 1897, with a delay of perhaps eighteen months as to the speech
@@ -201,20 +201,20 @@ development.
 
 February 16, 1896.—The idea of a special handwriting belonging to the
 planet Mars occurs for the first time to Hélène's astonishment in a
-Martian semi-trance (see [p. 162](ipm07.htm#page_162)).
+Martian semi-trance (see [p. 162](ipm07.htm#page_162).md).
 
 November 2.—Handwriting is clearly predicted in the phrase, "Astané will
 teach me to write," uttered by Hélène in a Martian trance, after the
-scene of the translation by Esenale (see [p. 166](ipm07.htm#page_166)).
+scene of the translation by Esenale (see [p. 166](ipm07.htm#page_166).md).
 
-November 8.—After the translation of text [No. 3](ipm08.htm#an_text03),
+November 8.—After the translation of text [No. 3](ipm08.htm#an_text03.md),
 Leopold, being questioned, replies that Astané will write this text for
 Mlle. Smith, but the prediction is not fulfilled.
 
 May 23, 1897.—The announcement of Martian handwriting becomes more
 precise. "Presently," says Astané to Hélène, "thou wilt be able to trace
 our handwriting, and thou wilt possess in thy hands the characters of
-our language" ([text 12](ipm08.htm#an_text12)).
+our language" ([text 12](ipm08.htm#an_text12).md).
 
 June 20.—At the beginning of a seance, a Martian vision, she demands of
 an imaginary interlocutor "a large ring which comes to a point, and with
@@ -239,7 +239,7 @@ but I can and do affirm that the thing will happen, as has been
 announced to you.—<span class="smallcaps">Leopold</span>."
 
 June 27.—In the scene of the translation of [text
-15](ipm08.htm#an_text15), Hélène adds to her usual refrain, "Esenale has
+15](ipm08.htm#an_text15.md), Hélène adds to her usual refrain, "Esenale has
 gone away; he will soon return; he will soon write."
 
 August 3.—Between four and five o'clock in the afternoon Hélène had a
@@ -264,7 +264,7 @@ fingers on a bit of paper. Quick, give me some paper!" A blank sheet and
 the pocket-pen are handed to her, which latter she disdainfully throws
 down. She accepts an ordinary pencil, which she holds in her customary
 fashion, between her middle and index-finger, then writes from left to
-right the three first lines of [Fig. 21](#img_fig21), looking
+right the three first lines of [Fig. 21](#img_fig21.md), looking
 attentively towards the window at her fictitious model before tracing
 each letter, and adding certain oral notes, according to which there are
 some words which she sees written in black characters on the three
@@ -274,7 +274,7 @@ personage whose name she does not know but whose description corresponds
 with that of Pouzé, hold in their right hands. After which she a gain
 sees another paper or cylinder, which Astané holds above his head, and
 which bears also some words which she undertakes to copy (the three last
-lines of [Fig. 21](#img_fig21), [p. 205](#page_205)). " Oh, it is a
+lines of [Fig. 21](#img_fig21), [p. 205](#page_205).md). " Oh, it is a
 pity," says she, on coming to the end of the fourth line, "it is all on
 one line, and I have no more room." She
 
@@ -312,7 +312,7 @@ The new alphabet was enriched by certain other
 
 <span id="img_fig21"></span> <span align="CENTER"> [![Fig. 21. Text No.
 16 seance of August 22, 1897.](tn/fig21.jpg)  
-Click to enlarge](img/fig21.jpg)  
+Click to enlarge](img/fig21.jpg.md)  
   
 </span>
 
@@ -350,13 +350,13 @@ these unknown hieroglyphics.
 
 <span id="img_fig22"></span> ![Fig. 22. Examples of isolated French
 words . . . automatically traced in Martian characters by Mlle. Smith in
-her normal handwriting](img/fig22.jpg)
+her normal handwriting](img/fig22.jpg.md)
 
 <div align="center">
 
 |                                                                                                                                                                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span class="small">Fig. 22. Examples of isolated French words (*française*, *lumière*, *prairie*) automatically traced in Martian characters by Mlle. Smith in her normal handwriting. See also [Fig. 1](ipm05.htm#img_fig01), [p. 56](ipm05.htm#page_56).</span> |
+| <span class="small">Fig. 22. Examples of isolated French words (*française*, *lumière*, *prairie*) automatically traced in Martian characters by Mlle. Smith in her normal handwriting. See also [Fig. 1](ipm05.htm#img_fig01), [p. 56](ipm05.htm#page_56.md).</span> |
 
 </div>
 
@@ -382,13 +382,13 @@ signs to
 
 her to write. I offer her a pencil, and after various tergiversations
 she slowly begins to trace some Martian characters ([Fig.
-23](#img_fig23)). Astané has possession of her arm, and she is, during
+23](#img_fig23).md). Astané has possession of her arm, and she is, during
 this time, altogether anæsthetic and absent. Leopold, on the contrary,
 is at hand, and gives various indications of his presence.
 
 <span id="img_fig23"></span> <span align="CENTER"> [![Fig. 23. Martian
 text No. 17; seance of September 12, 1897.](tn/fig23.jpg)  
-Click to enlarge](img/fig23.jpg)  
+Click to enlarge](img/fig23.jpg.md)  
   
 </span>
 
@@ -396,7 +396,7 @@ Click to enlarge](img/fig23.jpg)
 
 |                                                                                                                                                                                                                                                                                                                                                                                                   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span class="small">Fig. 23. Martian text [No. 17](ipm08.htm#an_text17); seance of September 12, 1897. Written by Mlle. Smith incarnating Astané (then Leopold for the French words at the end). See the translation, [p. 222](#page_222). Too many *l*’s at the end of the first line immediately produced the scrawls intended to strike them out. (Reproduction one-half natural size.)</span> |
+| <span class="small">Fig. 23. Martian text [No. 17](ipm08.htm#an_text17); seance of September 12, 1897. Written by Mlle. Smith incarnating Astané (then Leopold for the French words at the end). See the translation, [p. 222](#page_222). Too many *l*’s at the end of the first line immediately produced the scrawls intended to strike them out. (Reproduction one-half natural size..md)</span> |
 
 </div>
 
@@ -419,7 +419,7 @@ handwriting is the result of a slow
 
 <span id="img_fig24"></span> <span align="CENTER"> [![Fig 24. Martian
 alphabet](tn/fig24.jpg)  
-Click to enlarge](img/fig24.jpg)  
+Click to enlarge](img/fig24.jpg.md)  
   
 </span>
 
@@ -443,7 +443,7 @@ manifested outwardly,
 <span id="page_209">p. 209</span>
 
 these signs, which I have assembled under the form of an alphabet in
-[Fig. 24](#img_fig24), have not varied for two years.
+[Fig. 24](#img_fig24.md), have not varied for two years.
 
 Moreover, some trifling confusion, of which I shall speak a little
 later, shows well that the personality which employs them is not
@@ -457,18 +457,18 @@ Hélène's Martian handwriting is not stereotyped, but presents, according
 to circumstances, some variations in form, especially in the size of the
 letters.
 
-This may be established by Figs. [21](#img_fig21) to [32](#img_fig32),
+This may be established by Figs. [21](#img_fig21) to [32](#img_fig32.md),
 in which I have reproduced the greater part of the texts obtained by
 writing. When the Martian gushes forth in verbo-visual hallucinations,
 Hélène transcribes it in strokes of large dimensions, lacking firmness,
-full of repetitions (Figs. [21](#img_fig21), [26](#img_fig26),
-[31](#img_fig31)), and she always remarks that the original, which is
+full of repetitions (Figs. [21](#img_fig21), [26](#img_fig26.md),
+[31](#img_fig31).md), and she always remarks that the original, which is
 before her eyes, is much smaller and clearer than her copy. In the texts
 which have come automatically from her hand—*i.e.*, supposedly traced by
 the Martians themselves—the handwriting is really smaller and more
 precise. Here again are some curious differences. Astané has a
 calligraphy less voluminous than that of Esenale, and Ramié has a much
-finer one than Esenale (Figs. [28](#img_fig28) and [29](#img_fig29)).
+finer one than Esenale (Figs. [28](#img_fig28) and [29](#img_fig29).md).
 
 It would be altogether premature for me to launch
 
@@ -486,7 +486,7 @@ in spite of its strange appearance and the fifty millions of leagues
 which separate us from the red planet, is in reality so near neighbor to
 French that there is scarcely any difficulty in this case.
 
-The dozen written texts <span id="fr_18"></span>[\*](#fn_18) which we
+The dozen written texts <span id="fr_18"></span>[\*](#fn_18.md) which we
 possess, and which Mlle. Smith either copied from a verbo-visual
 hallucination, or which were traced by her hand in an access of
 graphomotor automatism, are readily translated into French, since each
@@ -513,7 +513,7 @@ correctness.
 
 The manner in which Hélène takes down in pencil the Martian phrases
 which strike her ear is not of great assistance to us in that respect,
-because, as I have said above ([p. 158](ipm07.htm#page_158)), she finds
+because, as I have said above ([p. 158](ipm07.htm#page_158).md), she finds
 herself at the time of these verbo-auditive hallucinations in the
 situation of a person who hears some unknown words, and spells them as
 well as she is able, after a quite arbitrary and often faulty fashion.
@@ -547,8 +547,8 @@ Martian words **mété**, **bénézee**, like those of the French words
 There will be found in italics, underneath the Martian texts, their
 French equivalents, word for word, as given by Esenale in the manner
 described above (see pp.
-[166](ipm07.htm#page_166)-[168](ipm07.htm#page_168)). <span
-id="fr_19"></span>[\*](#fn_19) I have also indicated the kind of
+[166](ipm07.htm#page_166)-[168](ipm07.htm#page_168).md). <span
+id="fr_19"></span>[\*](#fn_19.md) I have also indicated the kind of
 automatism—auditive, visual, vocal, or graphic—by means of which each
 text was obtained, also the date of its appearance, and (in parentheses)
 that of the seance, often quite remote, at which it was translated. I
@@ -563,7 +563,7 @@ have also added such explanations as seemed to me to be necessary.
 |     | Mr. C.         | Mrs. C.        | Miss C.            | Four.         |
 
 <span class="small">Vocal. February 2, 1896. See above, [p.
-157](ipm07.htm#page_157).</span>
+157](ipm07.htm#page_157.md).</span>
 
 <span id="page_213">p. 213</span>
 
@@ -581,7 +581,7 @@ hast seen.</span>
 
 Auditive. About September 20, 1896 (translated November 2).—Heard by
 Hélène at the same time at which she had the vision of Fig. 12 (see [p.
-166](ipm07.htm#page_166)).
+166](ipm07.htm#page_166).md).
 
 <span id="an_text03"></span>
 
@@ -595,7 +595,7 @@ Linet.</span>
 
 Words addressed to Mme. Mirbel by her son Alexis (Esenale) in a scene of
 incarnation altogether analogous to that described on [p.
-156](ipm07.htm#page_156).
+156](ipm07.htm#page_156.md).
 
 <span id="an_text04"></span>
 
@@ -619,7 +619,7 @@ corresponds to **né ten ti vi**; it follows that it would be natural to
 translate the word **ci** by *là*, *ici*, or *tout*, if these words had
 not been differently rendered in other texts. (A confusion of the adverb
 *là* with the article *la*, translated by **ci** in [text
-2](ipm08.htm#an_text02), might also be suspected.)
+2](ipm08.htm#an_text02), might also be suspected..md)
 
 <span id="page_214">p. 214</span>
 
@@ -792,7 +792,7 @@ Vocal. March 14, 1897 (translated same seance).—From the beginning of
 this seance Hélène complained of cold hands, then a great desire to
 weep, and of a buzzing in the ears, which kept increasing and in which
 she finally heard Astané address to her the Martian words of [text
-10](ipm08.htm#an_text10). Immediately
+10](ipm08.htm#an_text10.md). Immediately
 
 <span id="page_218">p. 218</span>
 
@@ -805,7 +805,7 @@ index-finger announces that it is Esenale (Alexis Mirbel) who is
 incarnated. After a series of spasms and hiccoughs, Hélène arises, and,
 placing herself behind Mme. Mirbel, takes her neck in her hands, bows
 her head upon hers, tenderly pats her cheek, and addresses to her the
-words of [text No. 11](ipm08.htm#an_text11) (except the two last words).
+words of [text No. 11](ipm08.htm#an_text11) (except the two last words.md).
 Then she raises her head, and again, with panting respiration
 (accelerated to thirty inspirations in sixteen seconds), walks towards
 M. Lemaître (whose pupil Alexis Mirbel had been at the time of his
@@ -813,8 +813,8 @@ death). She places her hands upon his shoulders, affectionately grasps
 his right hand, and with emotion and continued sobbing addresses to him
 the two words i men! After which she goes through the pantomime of
 extending her hand to Leopold and of allowing him to conduct her to a
-couch, where the translation of texts Nos. [10](ipm08.htm#an_text10),
-[11](ipm08.htm#an_text11), and [9](ipm08.htm#an_text09) is obtained by
+couch, where the translation of texts Nos. [10](ipm08.htm#an_text10.md),
+[11](ipm08.htm#an_text11), and [9](ipm08.htm#an_text09.md) is obtained by
 the customary process, but not without difficulty.
 
 <span id="an_text12"></span>
@@ -845,7 +845,7 @@ subsequent translation. Many corrections, however, would be necessary,
 in order to make it correspond with the later written texts: **ké nipuné
 ani**, *et ne crains pas* ("and I am not afraid," or, "and I do not
 fear") should be changed to **kié nipuné ani**, *ne crains pas* (see
-[text 17](ipm08.htm#an_text17)); **sé** or **cé** only stands here for
+[text 17](ipm08.htm#an_text17).md); **sé** or **cé** only stands here for
 *et*, which everywhere else is given as **ni**; **viche** is used in
 error for **iche** (unless the **v** was added for the sake of euphony,
 of which there is no other example) and **tis** for **tiche**.
@@ -904,7 +904,7 @@ Auditive. June 18, 1897 (translated June 20).—During a visit I made to
 Mlle. Smith she has a vision of two Martian personages walking on the
 shore of a lake, and she repeats this fragment of their conversation
 which she has heard. According to another text ([No.
-20](ipm08.htm#an_text20)), Arva is the Martian name of the sun.
+20](ipm08.htm#an_text20).md), Arva is the Martian name of the sun.
 
 <span id="page_221">p. 221</span>
 
@@ -937,7 +937,7 @@ present, Hélène perceives Esenale, who remains in the vicinity of his
 mother and addresses these words to her. The "adieux" at the close were
 not spoken at that time, but were uttered by Esenale immediately
 following and as a complement of the translation; this is the only case
-(outside of [text 36](ipm08.htm#an_text36)) in which he did not confine
+(outside of [text 36](ipm08.htm#an_text36).md) in which he did not confine
 himself strictly to the texts already gathered and in which he permitted
 himself to introduce a new phrase, which otherwise does not contain a
 single unknown word; **itatinée**, *chérie*, is evidently a slip which
@@ -959,8 +959,8 @@ farewell!</span>
 
 Visual. August 22, 1897.—This text, for which there is no need of a
 translation, constitutes the first appearance of the Martian
-handwriting. See above, [Fig. 21](#img_fig21), and the résumé of that
-seance, pp. [203](#page_203)-[205](#page_205).
+handwriting. See above, [Fig. 21](#img_fig21.md), and the résumé of that
+seance, pp. [203](#page_203)-[205](#page_205.md).
 
 <span id="an_text17"></span>
 
@@ -980,7 +980,7 @@ thou wilt come with me to admire our new passage. Simandini, I cannot
 leave thee this day. How happy I am!—Then fear not!</span>
 
 Graphic. September 12, 1897 (translated same seance).—See [p.
-207](#page_207) and [Fig. 23](#img_fig23).
+207](#page_207) and [Fig. 23](#img_fig23.md).
 
 <span id="an_text18"></span>
 
@@ -1004,7 +1004,7 @@ repeats. (It is understood from the translation that
 
 <span id="img_fig25"></span> <span align="CENTER"> [![Fig 25. Text No.
 18](tn/fig25.jpg)  
-Click to enlarge](img/fig25.jpg)  
+Click to enlarge](img/fig25.jpg.md)  
   
 </span>
 
@@ -1018,7 +1018,7 @@ Click to enlarge](img/fig25.jpg)
 
 <span id="img_fig26"></span> <span align="CENTER"> [![Fig. 26. Text No.
 26](tn/fig26.jpg)  
-Click to enlarge](img/fig26.jpg)  
+Click to enlarge](img/fig26.jpg.md)  
   
 </span>
 
@@ -1045,7 +1045,7 @@ it is Esenale himself who is writing by means of Hélène's arm. Twice she
 interrupts herself in order to say to Esenale, "Oh! do not go yet, stay
 a little while longer!" She appears nervous and agitated, and often
 stops writing to stab her paper with her pencil or to make erasures or
-scribble on it (see [Fig. 25](#img_fig25)); in the **zé** of the last
+scribble on it (see [Fig. 25](#img_fig25).md); in the **zé** of the last
 line, she forgets the **é** (this did not prevent Esenale from
 pronouncing the word correctly at the time of its translation).
 
@@ -1072,7 +1072,7 @@ the two last letters of the first word, the place of which remains
 blank. Immediately after she hears Martian spoken, which she repeats. It
 is the same text; then she has a vision of Astané, Esenale, and a little
 girl whose name she hears as Niké; but this soon gives way to other
-non-Martian somnambulisms. (See [Fig. 25](#img_fig25).)
+non-Martian somnambulisms. (See [Fig. 25](#img_fig25)..md)
 
 <span id="an_text20"></span>
 
@@ -1099,7 +1099,7 @@ Siké?—Yonder, near the "taméche" rose.</span>
 
 Auditive, then Graphic. November 28, 1897 (translated same
 seance).—Fragments of conversation heard during the vision of the
-Martian *fête* described on [p. 185](ipm07.htm#page_185). Siké (a young
+Martian *fête* described on [p. 185](ipm07.htm#page_185.md). Siké (a young
 man) and Matêmi (a young girl) form the first couple who pass by and
 walk off in the direction of a large bush with red flowers
 (**tamèche**); then a second couple exchange the last words of the text
@@ -1112,7 +1112,7 @@ with much animation, Hélène seated herself and began to write the same
 Martian phrases. It is ascertained from Leopold that it was Astané who
 held her hand (in holding the pencil between the thumb and the
 index-finger—that is, after the manner of Leopold and not that of Hélène
-as she had held it in writing text [No. 17](ipm08.htm#an_text17)). The
+as she had held it in writing text [No. 17](ipm08.htm#an_text17).md). The
 writing being finished, Leopold directs that Hélène shall be made to
 seat herself on the couch for the scene of translation.
 
@@ -1236,9 +1236,9 @@ there something a little clear came to me . . ."
 
 Auditive. August 21, 1898 (translated same seance).—Waking vision of a
 river between two rose-colored mountains, with a bridge (like that in
-[Fig. 9](ipm07.htm#img_fig09)) which lowered itself into the water and
+[Fig. 9](ipm07.htm#img_fig09).md) which lowered itself into the water and
 disappeared in order to allow five or six boats to pass (like that in
-[Fig. 13](ipm07.htm#img_fig13)), then reappeared and was restored to its
+[Fig. 13](ipm07.htm#img_fig13).md), then reappeared and was restored to its
 place. As Hélène describes all this, she hears a voice speaking to her
 the above Martian words of the text.
 
@@ -1254,7 +1254,7 @@ the above Martian words of the text.
 Visual. August 21, 1898 (translated same seance).—Following the
 preceding scene: Hélène perceives "in the air" (illumined and red—that
 of her Martian vision) some characters unknown to her, which she copies
-(see [Fig. 26](#img_fig26)). I ask her, showing her the word **zé**
+(see [Fig. 26](#img_fig26).md). I ask her, showing her the word **zé**
 (which elsewhere always stands for *le*), if she is not mistaken. She
 verifies it by comparing it with the imaginary model before her and
 affirms it to be correct.
@@ -1280,7 +1280,7 @@ affirms it to be correct.
 
 <span id="img_fig27"></span> <span align="CENTER"> [![Fig
 27.](tn/fig27.jpg)  
-Click to enlarge](img/fig27.jpg)  
+Click to enlarge](img/fig27.jpg.md)  
   
 </span>
 
@@ -1304,7 +1304,7 @@ Auditive. About the 4th of September, 1898 (translated October
 16).—Hélène heard and noted this phrase at the same time at which she
 had the vision of the two young Martian people who were walking in a
 kind of flower-garden, and saw a boat arrive, like that in [Fig.
-13](ipm07.htm#img_fig13). The meaning of **chodé** has not been
+13](ipm07.htm#img_fig13.md). The meaning of **chodé** has not been
 ascertained.
 
 <span id="an_text28"></span>
@@ -1345,7 +1345,7 @@ trace, without ink or paper, but with a point on the end of her
 index-finger, black figures on a white cylinder, at first placed on the
 table, afterwards on her knees, and which is unrolled as she writes.
 Hélène is near enough to see the characters clearly, and copies them in
-pencil on a sheet of paper (see [Fig. 27](#img_fig27)), after which the
+pencil on a sheet of paper (see [Fig. 27](#img_fig27).md), after which the
 vision vanishes and her mother and the room reappear.
 
 <span id="an_text29"></span>
@@ -1393,7 +1393,7 @@ side. This was all I could gather of their conversation."
 <span id="img_fig28"></span> <span align="CENTER"> [![Fig. 28. Text No.
 31 (October 27, 1898), written by Mlle. Smith, incarnating Ramié.
 Natural size.](tn/fig28.jpg)  
-Click to enlarge](img/fig28.jpg)  
+Click to enlarge](img/fig28.jpg.md)  
 Fig. 28. Text No. 31 (October 27, 1898), written by Mlle. Smith,
 incarnating Ramié. Natural size.  
 </span>
@@ -1425,10 +1425,10 @@ vision, but a severe cramp in the right arm and a strong impulse to take
 pencil and paper. I write, I know not why." (It is seen by the
 translation given two months later that the text refers to the first
 manifestation of Ramié and is an announcement of the ultra-Martian
-vision which came a few days later.) See [Fig. 28](#img_fig28). The term
+vision which came a few days later.) See [Fig. 28](#img_fig28.md). The term
 **vadazas**, which has never been explained, has not a Martian
 appearance, and appears to have been borrowed from the Hindoo cycle. As
-to *Espénié*, see text [No. 6](ipm08.htm#an_text06).
+to *Espénié*, see text [No. 6](ipm08.htm#an_text06.md).
 
 <span id="an_text32"></span>
 
@@ -1451,7 +1451,7 @@ and with the other shows her, while speaking these words, a strange
 tableau (**tapié**) containing extraordinary beings speaking the unknown
 language of the following text. At the moment the vision is effaced
 Hélène writes, without perceiving that she has done so, text [No.
-34](ipm08.htm#an_text34). (For further details, see the following
+34](ipm08.htm#an_text34.md). (For further details, see the following
 chapter on the Ultra-Martian.)
 
 <span id="an_text33"></span>
@@ -1480,7 +1480,7 @@ the unknown language by her mouth, followed by its Martian equivalent
 
 <span id="img_fig29"></span> <span align="CENTER"> [![Fig.
 29.](tn/fig29.jpg)  
-Click to enlarge](img/fig29.jpg)  
+Click to enlarge](img/fig29.jpg.md)  
   
 </span>
 
@@ -1515,7 +1515,7 @@ three adieux. Be happy.</span>
 Graphic. November 2, 1898 (translated December 18).—Hélène only
 perceived after its accomplishment that her hand, which she felt "firmly
 held," had written this text at the close of the preceding vision (see
-[Fig. 29](#img_fig29)).
+[Fig. 29](#img_fig29).md).
 
 <span id="an_text35"></span>
 
@@ -1547,7 +1547,7 @@ it by her appropriate mental question.)
 
 <span id="img_fig30"></span> <span align="CENTER"> [![Fig.
 30](tn/fig30.jpg)  
-Click to enlarge](img/fig30.jpg)  
+Click to enlarge](img/fig30.jpg.md)  
   
 </span>
 
@@ -1597,7 +1597,7 @@ and a simple linen cloth was thrown round the body. They might
 
 <span id="img_fig31"></span> <span align="CENTER"> [![Fig.
 31](tn/fig31.jpg)  
-Click to enlarge](img/fig31.jpg)  
+Click to enlarge](img/fig31.jpg.md)  
   
 </span>
 
@@ -1643,7 +1643,7 @@ He spoke to me, but I could not understand him. I took this sheet of
 paper and a pencil; he spoke to me no more, but seized my hand which
 held the pencil. I wrote under this pressure; I understood nothing, for
 this is as Hebrew to me. My hand was released; I raised my head to see
-Astané, but he had disappeared" (see [Fig. 30](#img_fig30)).
+Astané, but he had disappeared" (see [Fig. 30](#img_fig30).md).
 
 <span id="an_text38"></span>
 
@@ -1675,13 +1675,13 @@ Happily the idea occurred to her to take pencil and paper and copy "the
 characters which the Martian, whom I had seen several times before
 \[Ramié\], traced; and with extreme difficulty—since they were much
 smaller than mine—I succeeded in reproducing them" (the Martian text of
-[Fig. 31](#img_fig31)). All this lasted about a quarter of an hour. I
+[Fig. 31](#img_fig31).md). All this lasted about a quarter of an hour. I
 went immediately to bed, and saw nothing more that evening, nor on the
 following day."
 
 <span id="img_fig32"></span> <span align="CENTER"> [![Fig.
 32](tn/fig32.jpg)  
-Click to enlarge](img/fig32.jpg)  
+Click to enlarge](img/fig32.jpg.md)  
   
 </span>
 
@@ -1715,7 +1715,7 @@ five minutes past ten, a new vision of the personage seen day before
 yesterday \[Ramié\]. I thought he was about to speak, but no sound
 issued from his lips. I quickly take pencil and paper, and feel my right
 arm seized by him, and I begin to trace the strange handwriting attached
-hereto (see [Fig. 32](#img_fig32)). He is very affectionate; his
+hereto (see [Fig. 32](#img_fig32).md). He is very affectionate; his
 bearing, his look, everything breathes both goodness and strangeness. He
 leaves me really charmed."
 
@@ -1749,7 +1749,7 @@ French context in which they were framed,
 or from Hélène's description of the objects which they designated These
 words are **chèke**, *papier* ("paper"); **chinit**, *bague* ("ring");
 **asnète**, *espèce de paravent* ("kind of screen"). **Anini Nikaîné**,
-proper name of a little girl (see [p. 176](ipm07.htm#page_176)),
+proper name of a little girl (see [p. 176](ipm07.htm#page_176).md),
 probably the Martian sister of Esenale, who floats beside her, invisible
 to her, and watches over her during an illness, after the fashion of
 spirit protectors. **Béniel**, proper name of our earth, as seen from
@@ -1785,10 +1785,10 @@ of the words with the ideas is continuous; or, to put it differently,
 the signification of the Martian terms is permanent and is maintained
 (apart from slight inconsistencies, to which I will return later on)
 from one end to the other of the texts which have been collected in the
-course of these three years. <span id="fr_20"></span>[\*](#fn_20) I will
+course of these three years. <span id="fr_20"></span>[\*](#fn_20.md) I will
 add that in speaking fluently and somewhat quickly, as Hélène sometimes
-does in somnambulism (texts [4](ipm08.htm#an_text04),
-[11](ipm08.htm#an_text11), [15](ipm08.htm#an_text15), etc.), it has an
+does in somnambulism (texts [4](ipm08.htm#an_text04.md),
+[11](ipm08.htm#an_text11), [15](ipm08.htm#an_text15), etc..md), it has an
 acoustic quality altogether its own, due to the predominance of certain
 sounds, and has a peculiar intonation difficult to describe. Just as one
 distinguishes by ear foreign languages which one does not understand,
@@ -2081,9 +2081,9 @@ extraordinary if they were purely fortuitous.
 same in Martian as in French. This identity of construction of phrases
 is pursued sometimes into the minutest details, such as the division or
 amputation of the negation *ne . . . pas* (texts
-[15](ipm08.htm#an_text15) and [17](ipm08.htm#an_text17)), and also the
+[15](ipm08.htm#an_text15) and [17](ipm08.htm#an_text17).md), and also the
 introduction of a useless letter in Martian to correspond to a French
-euphemistic *t* (see [text 15](ipm08.htm#an_text15)), **Kèvi bérimir m
+euphemistic *t* (see [text 15](ipm08.htm#an_text15).md), **Kèvi bérimir m
 hed**, *quand reviendra-t-il?* ("when will he return?")
 
 If it is admitted hypothetically that the succession of words, such as
@@ -2116,7 +2116,7 @@ difficult to deny that the people of Mars have stolen French terms of
 politeness, at the same time distorting them, no clear resemblance is to
 be seen between Martian words and the French equivalents; at most, there
 are traces of borrowing, like **merve**, *superbe*, which might have
-been abridged from *merveille* ([text 25](ipm08.htm#an_text25)), and
+been abridged from *merveille* ([text 25](ipm08.htm#an_text25).md), and
 **vechi**, an imitation of voir.
 
 Still less does the Martian lexicon betray the influence of other known
@@ -2247,7 +2247,7 @@ removed in her ordinary and normal states of mind.
 
 The preceding analysis of the Martian language furnishes its support to
 the considerations which the content of the romance has already
-suggested to us in regard to its author ([p. 194](ipm07.htm#page_194)).
+suggested to us in regard to its author ([p. 194](ipm07.htm#page_194).md).
 To imagine that by twisting the sounds of French words a new language
 capable of standing examination could actually be created, and to wish
 to make it pass for that of the planet Mars, would be the climax of
@@ -2284,7 +2284,7 @@ commenced the study of German.
 
 If one reflects, on the other hand, on the great facility which Mlle.
 Smith's father seems to have possessed for languages (see [p.
-17](ipm04.htm#page_17)), the question naturally arises whether in the
+17](ipm04.htm#page_17).md), the question naturally arises whether in the
 Martian we are not in the presence of an awakening and momentary display
 of an hereditary faculty, dormant under the normal personality of
 Hélène, but which she has not profited from in an effective manner. It
@@ -2292,7 +2292,7 @@ is a fact of common observation that talents and aptitudes often skip a
 generation and seem to pass directly from the grandparents to the
 grandchildren, forgetting the intermediate link. Who knows whether Mlle.
 Smith, some day, having obtained Leopold's consent to her marriage, may
-not cause the [polyglot](errata.htm#3) aptitudes of her father to bloom
+not cause the [polyglot](errata.htm#3.md) aptitudes of her father to bloom
 again with greater brilliancy, for the glory of science, in a brilliant
 line of philologists and linguists of genius?
 
@@ -2340,18 +2340,18 @@ style, and the audacious and naïve fabrication of its unknown language.
 
 ### Footnotes
 
-<span id="fn_18"></span>[210:\*](ipm08.htm#fr_18) These are texts
-[16](ipm08.htm#an_text16)-[20](ipm08.htm#an_text20),
-[26](ipm08.htm#an_text26), [28](ipm08.htm#an_text28),
-[31](ipm08.htm#an_text31), [34](ipm08.htm#an_text34),
-[37](ipm08.htm#an_text37)-[39](ipm08.htm#an_text39). They are further
+<span id="fn_18"></span>[210:\*](ipm08.htm#fr_18.md) These are texts
+[16](ipm08.htm#an_text16)-[20](ipm08.htm#an_text20.md),
+[26](ipm08.htm#an_text26), [28](ipm08.htm#an_text28.md),
+[31](ipm08.htm#an_text31), [34](ipm08.htm#an_text34.md),
+[37](ipm08.htm#an_text37)-[39](ipm08.htm#an_text39.md). They are further
 distinguished by an asterisk.
 
-<span id="fn_19"></span>[212:\*](ipm08.htm#fr_19) A literal English
+<span id="fn_19"></span>[212:\*](ipm08.htm#fr_19.md) A literal English
 translation of each text will be found immediately beneath the French
 equivalents of the Martian words.
 
-<span id="fn_20"></span>[242:\*](ipm08.htm#fr_20) If it is objected that
+<span id="fn_20"></span>[242:\*](ipm08.htm#fr_20.md) If it is objected that
 the Martian lacks the essential character of a language—that is to say,
 a practical sanction by use; by the fact of its serving as a means of
 communication between living beings—I will not answer, like Mlle. Smith,
@@ -2366,4 +2366,4 @@ personality.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. The Martian Cycle (Concluded).—The
-Ultra-Martian](ipm09)
+Ultra-Martian](ipm09.md)

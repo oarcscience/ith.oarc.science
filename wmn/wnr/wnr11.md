@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr10)  [Next](wnr12) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr10)  [Next](wnr12.md) 
 
 ------------------------------------------------------------------------
 
@@ -383,4 +383,4 @@ understanding, in which lies the hope of a higher race.
 
 ------------------------------------------------------------------------
 
-[Next: X. Contraceptives Or Abortion?](wnr12)
+[Next: X. Contraceptives Or Abortion?](wnr12.md)

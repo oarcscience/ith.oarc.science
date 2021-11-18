@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](lgh03) 
-[Next](lgh05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](lgh03.md) 
+[Next](lgh05.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,7 +185,7 @@ so hard bestead for aught to worship that ye must needs set up the image
 of an outcast--the offspring of the Titans, the very scourge of heaven
 and earth? What though she chanced to catch the wandering eye of Jove,
 think ye he cared much for her when he left her in her trouble to the
-chance charity of the smallest of the islands? [1](lgh14.htm#xref_1) The
+chance charity of the smallest of the islands? [1](lgh14.htm#xref_1.md) The
 daughter of Teiresias is in her dotage: the king might have known that
 no good would come of strange religions. Nay, if ye wanted something to
 worship, have ye not dwelling among you the offspring of gods and
@@ -201,7 +201,7 @@ hear so much? A
 
 mother of two children! If that be a claim to worship, what say ye to my
 seven sons and seven daughters, born and bred among yourselves, and in
-whom the rare blessings wherewith the Moirae [2](lgh14.htm#xref_2) have
+whom the rare blessings wherewith the Moirae [2](lgh14.htm#xref_2.md) have
 honoured me have reached their crowning point? Behold how lovely and how
 many they are! Even should one or two fail me, I can scarce be brought
 down to Latona's scant two. For very shame, then, leave this miserable
@@ -357,4 +357,4 @@ side the figure of a woman weeping in eternal despair.
 
 ------------------------------------------------------------------------
 
-[Next: Alcestis](lgh05)
+[Next: Alcestis](lgh05.md)

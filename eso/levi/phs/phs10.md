@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Previous](phs09) 
-[Next](phs11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Previous](phs09.md) 
+[Next](phs11.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ he never abuses it. He wants the
 
 springs to come flower laden, the roses to bloom in their beauty, the
 children to be happy and the women beloved. <span
-id="fr_77"></span>[1](#fn_77)
+id="fr_77"></span>[1](#fn_77.md)
 
 He wants men mutually to assist each other, to encourage the young and
 help the old.
@@ -87,7 +87,7 @@ and dreads nothing from the caprices of Fortune.
 
 He can love without being beloved; he can create imperishable treasures
 and raise himself above the level of honours, the gift of Chance. <span
-id="fr_78"></span>[1](#fn_78) What he wants he possesses, for he
+id="fr_78"></span>[1](#fn_78.md) What he wants he possesses, for he
 possesses profound peace. He regrets nothing of that which must come to
 an end, but he remembers with joy all that has been good for him. His
 hope is already a certainty; he knows that
@@ -95,7 +95,7 @@ hope is already a certainty; he knows that
 <span id="page_91">p. 91</span>
 
 \[paragraph continues\] *Good is eternal*, and that *Evil is
-transitory*. <span id="fr_79"></span>[1](#fn_79) He can enjoy solitude
+transitory*. <span id="fr_79"></span>[1](#fn_79.md) He can enjoy solitude
 but he does not fear the society of man; he is a child with children,
 joyous with the young, staid with the aged, patient with fools, happy
 with the wise.
@@ -174,7 +174,7 @@ of the ape.
 
 \[paragraph continues\] Good men and clever men know how to laugh, but
 the wicked and fools can only snigger. <span
-id="fr_80"></span>[1](#fn_80) Frank laughter is a fruit of that joy
+id="fr_80"></span>[1](#fn_80.md) Frank laughter is a fruit of that joy
 which a good conscience gives.
 
 The tree may be judged by its fruits, says the Gospel; we do not gather
@@ -280,16 +280,16 @@ greater and stronger than all the masters of the earth.
 
 ### Footnotes
 
-<span id="fn_77"></span>[89:1](phs10.htm#fr_77) I beg to demur to this
+<span id="fn_77"></span>[89:1](phs10.htm#fr_77.md) I beg to demur to this
 latter. "*Le Mage*" wants nothing of the kind--unless, indeed, he be a
 Frenchman.--E. O.
 
-<span id="fn_78"></span>[90:1](phs10.htm#fr_78) In the original
+<span id="fn_78"></span>[90:1](phs10.htm#fr_78.md) In the original
 "*aleatoires*," a word I never met with in French and can find in no
 dictionary, but manifestly derived from "*aleatores*," pertaining to a
 gamester--*Trans*.
 
-<span id="fn_79"></span>[91:1](phs10.htm#fr_79) He knows nothing of the
+<span id="fn_79"></span>[91:1](phs10.htm#fr_79.md) He knows nothing of the
 kind; what he knows he tells, viz., that Good and Evil are *both*
 eternal, because both are fictions of the Human imagination, and
 Humanity, or God in Nature, is eternal.--E. O.
@@ -299,10 +299,10 @@ absolute, in the highest transcendental sense, Good and Evil may be both
 fictions, but relatively to, and *quoad* conditioned existences of all
 degrees, Good and Evil are real.--*Trans*.
 
-<span id="fn_80"></span>[94:1](phs10.htm#fr_80) This is a good old
+<span id="fn_80"></span>[94:1](phs10.htm#fr_80.md) This is a good old
 Scandinavian word, and more nearly translates the original "*ricanner*"
 that either "giggle" or "sneer," the usual translations.--*Trans*.
 
 ------------------------------------------------------------------------
 
-[Next: Magic and Magism](phs11)
+[Next: Magic and Magism](phs11.md)

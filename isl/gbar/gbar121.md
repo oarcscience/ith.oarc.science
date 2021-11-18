@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar120) [Next](gbar122)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar120) [Next](gbar122.md)
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ than gold is measured.
 
 ------------------------------------------------------------------------
 
-[Next](gbar122)
+[Next](gbar122.md)

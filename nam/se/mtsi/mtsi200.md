@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi199)  [Next](mtsi201) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi199)  [Next](mtsi201.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ pulled the horse round in a circle suddenly and the Indian fell off.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Ordering of the Months and Seasons](mtsi201)
+[Next: 1. The Ordering of the Months and Seasons](mtsi201.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml39)  [Next](yml41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml39)  [Next](yml41.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ Hima'awikia.
 
 ------------------------------------------------------------------------
 
-[Next: The Cricket and the Lion](yml41)
+[Next: The Cricket and the Lion](yml41.md)

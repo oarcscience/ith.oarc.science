@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr24)  [Next](arr26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr24)  [Next](arr26.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ things."
 
 ------------------------------------------------------------------------
 
-[Next: Section VII](arr26)
+[Next: Section VII](arr26.md)

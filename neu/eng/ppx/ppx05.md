@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](ppx04)  [Next](ppx06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](ppx04)  [Next](ppx06.md) 
 
 ------------------------------------------------------------------------
 
 # The Three Trials; or, The Story of Crabby Cross
 
 <span id="img_05"></span> [![](tn/05.jpg)  
-Click to enlarge](img/05.jpg)  
+Click to enlarge](img/05.jpg.md)  
 THE THREE TRIALS
 
 ON the stormy coast of Cornwall there stand, at the summit of the
@@ -135,7 +135,7 @@ them in such a wind and darkness as this, and see if he would not quake
 for fear if he heard but the cry of a chough, knowing, as all Cornish
 men do, that the soul of Prince Arthur is in one of those birds, and
 comes to give notice of no good luck to the mart who hears its scream in
-a storm." <span id="fr_4"></span>[1](#fn_4)
+a storm." <span id="fr_4"></span>[1](#fn_4.md)
 
 "And to turn us poor folk that be so hungry from his doors," said his
 son, who was a sturdy youth, of a bold and fearless temper. "I be
@@ -528,10 +528,10 @@ And with gold thus rewards a bold and brave man."
 
 ### Footnotes
 
-<span id="fn_4"></span>[1](ppx05.htm#fr_4) That the soul of Prince
+<span id="fn_4"></span>[1](ppx05.htm#fr_4.md) That the soul of Prince
 Arthur resides in the body of a chough; is the popular belief of many of
 the peasantry on the coast of Cornwall.
 
 ------------------------------------------------------------------------
 
-[Next: The Seven Crosses of Tiverton, or, The Pixy Picket](ppx06)
+[Next: The Seven Crosses of Tiverton, or, The Pixy Picket](ppx06.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs25) [Next](hbs27)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs25) [Next](hbs27.md)
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ The money in my treasury he will carry off that day.”
  To Marko said Golúban: “Fear not, Prince Marko. In sooth,  
 Good heroes ever dreamed good dreams. Dreams lie, but God is truth.”  
  When they were come to Tsárigrad,<span
-id="page_155_fr_1"></span>[1](#page_155_note_1) the tsar sent forth his
+id="page_155_fr_1"></span>[1](#page_155_note_1.md) the tsar sent forth his
 host,  
 Over the blue sea went they forth to the fierce Moorish coast;  
 And four and forty cities have they ta’en over sea.  
@@ -221,7 +221,7 @@ Drink the clear wine and brandy, till thither I come down.”
 But Marko to Mount Athos, unto the holy height;  
 And there he took communion and moreover did confess  
 For the blood he had shed, then clad him in a black cáloyer’s<span
-id="page_161_fr_1"></span>[1](#page_161_note_1) dress;  
+id="page_161_fr_1"></span>[1](#page_161_note_1.md) dress;  
 He let his beard to the girdle grow, and a monk’s hat put on his head.  
 
 <span id="page_162">p. 162</span>
@@ -291,7 +291,7 @@ And went unto white Prilip with chanting and with song.
 
 ------------------------------------------------------------------------
 
-[Next](hbs27)
+[Next](hbs27.md)
 
 ------------------------------------------------------------------------
 
@@ -299,12 +299,12 @@ And went unto white Prilip with chanting and with song.
 
 <span id="footnotes_page_155">p. 155</span>
 
-<span id="page_155_note_1"></span>[1](#page_155_fr_1) The *tsar’s city*,
+<span id="page_155_note_1"></span>[1](#page_155_fr_1.md) The *tsar’s city*,
 Constantinople.
 
 <span id="footnotes_page_161">p. 161</span>
 
-<span id="page_161_note_1"></span>[1](#page_161_fr_1) Monk of the Greek
+<span id="page_161_note_1"></span>[1](#page_161_fr_1.md) Monk of the Greek
 church; see Byron, *Child Harold*, ii, 49.
 
  

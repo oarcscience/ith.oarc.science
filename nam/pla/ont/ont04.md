@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont03)  [Next](ont05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont03)  [Next](ont05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -47,7 +47,7 @@ Miles and Custer. He related to me the thrilling story of his escape
 through the Sioux lines, at the time of the disastrous battle of the
 Little Big Horn, June 25th, 1876, when General Custer and his battalion
 of the 7th U. S. cavalry were annihilated by the Sioux. <span
-id="fr_0"></span>[1](#fn_0) Siksikakoan was attached
+id="fr_0"></span>[1](#fn_0.md) Siksikakoan was attached
 
 <span id="page_7">p. 7</span>
 
@@ -55,7 +55,7 @@ as a scout to Major Reno's battalion, co-operating with General
 Custer's. During the first confusion of Major Reno's attack and repulse
 in the first day's fighting, First Lieutenant De Rudio, Interpreter
 Girard, Private O'Neal and Siksikakoan were cut off. <span
-id="fr_1"></span>[1](#fn_1) Under cover of darkness, Siksikakoan
+id="fr_1"></span>[1](#fn_1.md) Under cover of darkness, Siksikakoan
 ventured upon the battle-field and stripped from the dead Sioux
 sufficient leggings, moccasins and blankets to disguise themselves.
 Then, in the dead of night, on the 26th, he led his companions safely
@@ -87,7 +87,7 @@ full of fish. We
 
 <span id="img_00800"></span> <span align="CENTER"> [![CAMP ON WESTERN
 SLOPE.](tn/00800.jpg)  
-Click to enlarge](img/00800.jpg)  
+Click to enlarge](img/00800.jpg.md)  
 CAMP ON WESTERN SLOPE.  
 </span>
 
@@ -109,7 +109,7 @@ luxuriant. We rode
 
 <span id="img_00900"></span> <span align="CENTER"> [![RIVER ON WESTERN
 SLOPE.](tn/00900.jpg)  
-Click to enlarge](img/00900.jpg)  
+Click to enlarge](img/00900.jpg.md)  
 RIVER ON WESTERN SLOPE.  
 </span>
 
@@ -133,7 +133,7 @@ Blackfeet as a
 
 <span id="img_01000"></span> <span align="CENTER"> [![ADDERS'
 TONGUES.](tn/01000.jpg)  
-Click to enlarge](img/01000.jpg)  
+Click to enlarge](img/01000.jpg.md)  
 ADDERS' TONGUES.  
 </span>
 
@@ -157,7 +157,7 @@ gray
 
 <span id="img_01100"></span> <span align="CENTER"> [![A MOUNTAIN
 LAKE.](tn/01100.jpg)  
-Click to enlarge](img/01100.jpg)  
+Click to enlarge](img/01100.jpg.md)  
 A MOUNTAIN LAKE.  
 </span>
 
@@ -181,7 +181,7 @@ goats high
 
 <span id="img_01200"></span> <span align="CENTER"> [![“WE ENTERED A HUGE
 BASIN SURROUNDED BY TOWERING PEAKS.”](tn/01200.jpg)  
-Click to enlarge](img/01200.jpg)  
+Click to enlarge](img/01200.jpg.md)  
 “WE ENTERED A HUGE BASIN SURROUNDED BY TOWERING PEAKS.”  
 </span>
 
@@ -200,7 +200,7 @@ roar, reverberating like thunder from the surrounding walls of rock.
 
 <span id="img_01300"></span> <span align="CENTER"> [![THE
 PASS.](tn/01300.jpg)  
-Click to enlarge](img/01300.jpg)  
+Click to enlarge](img/01300.jpg.md)  
 THE PASS.  
 </span>
 
@@ -224,15 +224,15 @@ On the west were Mt. James (10,155 feet), Mt. Pinchot (9,332 feet), and
 Ram Mountain, so called because frequented by many Rocky Mountain rams.
 To the north-west was Mt. Blackfoot (9,591), and the magnificent
 Blackfoot Glacier, a vast expanse of ice and snow. Beyond rose the
-summit of Mt. Jackson <span id="fr_2"></span>[1](#fn_2) (10,023), and
+summit of Mt. Jackson <span id="fr_2"></span>[1](#fn_2) (10,023.md), and
 under its shoulder the Harrison Glacier, with its wonderful ice
 cascades. Turning farther to the north, we could see a multitude of
-peaks. Among them were Mt. Siyeh <span id="fr_3"></span>[2](#fn_3) (or
-Mad Wolf, 10,004); Little Chief <span id="fr_4"></span>[2](#fn_3)
+peaks. Among them were Mt. Siyeh <span id="fr_3"></span>[2](#fn_3.md) (or
+Mad Wolf, 10,004); Little Chief <span id="fr_4"></span>[2](#fn_3.md)
 (9,542); Going-to-the-Sun (9,594); Four Bears <span
-id="fr_5"></span>[2](#fn_3); Almost-a-Dog <span
-id="fr_6"></span>[2](#fn_3) (8,911); Mt. Grinnell (8,838), and the
-Grinnell Glacier; Mt. Red Eagle, <span id="fr_7"></span>[2](#fn_3) and
+id="fr_5"></span>[2](#fn_3.md); Almost-a-Dog <span
+id="fr_6"></span>[2](#fn_3) (8,911); Mt. Grinnell (8,838.md), and the
+Grinnell Glacier; Mt. Red Eagle, <span id="fr_7"></span>[2](#fn_3.md) and
 the Red Eagle Glacier, which is the source of Red Eagle Creek. The
 Grinnell Glacier is fenced on the west by a remarkable, serrated ridge
 of the Continental Divide known as "The Garden Wall."
@@ -254,13 +254,13 @@ The region should be
 <span id="img_01500"></span> <span align="CENTER"> [![FLINCH'S
 PEAK.&lt;br&gt; “A mass of rock towering 5,000 feet above the
 valley.”](tn/01500.jpg)  
-Click to enlarge](img/01500.jpg)  
+Click to enlarge](img/01500.jpg.md)  
 FLINCH'S PEAK.  
 “A mass of rock towering 5,000 feet above the valley.”  
 </span>
 
 reserved by the Government as a National Park and Game Preserve. <span
-id="fr_8"></span>[1](#fn_4)
+id="fr_8"></span>[1](#fn_4.md)
 
 From the summit of the Pass, Siksikakoan pointed out the course of our
 trail eastward, following the Cutbank River through a long, winding
@@ -276,7 +276,7 @@ small
 
 <span id="img_01600"></span> <span align="CENTER"> [![THE CUTBANK
 TRAIL.&lt;br&gt; (Ancient Indian route of travel.)](tn/01600.jpg)  
-Click to enlarge](img/01600.jpg)  
+Click to enlarge](img/01600.jpg.md)  
 THE CUTBANK TRAIL.  
 (Ancient Indian route of travel.)  
 </span>
@@ -298,7 +298,7 @@ the head of the canyon,
 
 <span id="img_01700"></span> <span align="CENTER"> [![EAST CUT-BANK
 CANYON.](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 EAST CUT-BANK CANYON.  
 </span>
 
@@ -354,7 +354,7 @@ meadows, brought distinctly
 
 <span id="img_01900"></span> <span align="CENTER"> [![VELVET LEAF
 SUNFLOWERS ON PRAIRIE.](tn/01900.jpg)  
-Click to enlarge](img/01900.jpg)  
+Click to enlarge](img/01900.jpg.md)  
 VELVET LEAF SUNFLOWERS ON PRAIRIE.  
 </span>
 
@@ -378,7 +378,7 @@ sympathy and attachment, unusual between an Indian and a
 
 <span id="img_02000"></span> <span align="CENTER"> [![TRIBAL CAMP OF THE
 BLACKFEET.](tn/02000.jpg)  
-Click to enlarge](img/02000.jpg)  
+Click to enlarge](img/02000.jpg.md)  
 TRIBAL CAMP OF THE BLACKFEET.  
 </span>
 
@@ -396,7 +396,7 @@ without my knowledge.
 
 <span id="img_02100"></span> <span align="CENTER"> [![MY OWN DECORATED
 TIPI IN THE BLACKFEET CAMP](tn/02100.jpg)  
-Click to enlarge](img/02100.jpg)  
+Click to enlarge](img/02100.jpg.md)  
 MY OWN DECORATED TIPI IN THE BLACKFEET CAMP  
 </span>
 
@@ -520,12 +520,12 @@ and disappear for ever.
 
 ### Footnotes
 
-<span id="fn_0"></span>[6:1](ont04.htm#fr_0) The Blackfeet tribe of
+<span id="fn_0"></span>[6:1](ont04.htm#fr_0.md) The Blackfeet tribe of
 Montana and Alberta should not be confused with the Sioux Blackfeet of
 Dakota who fought against General Custer in the battle of The Little Big
 Horn.
 
-<span id="fn_1"></span>[7:1](ont04.htm#fr_1) "During the night
+<span id="fn_1"></span>[7:1](ont04.htm#fr_1.md) "During the night
 Lieutenant De Rudio, Private O'Neal, Mr. Girard, the interpreter, and
 Jackson, a scout, came to our line. They had been left in the river
 bottom when Major Reno made his retreat." (Extract from Capt. E. S.
@@ -533,14 +533,14 @@ Godfrey's "Custer's Last Battle," *Century Magazine*, volume 43, p. 379,
 Jan. 1892.) The same incident is referred to in the report of Gen. W. T.
 Sherman, Secretary of War, 1876, p. 33.
 
-<span id="fn_2"></span>[14:1](ont04.htm#fr_2) Named after Wm. Jackson
+<span id="fn_2"></span>[14:1](ont04.htm#fr_2.md) Named after Wm. Jackson
 (Siksikakoan).
 
-<span id="fn_3"></span>[14:2](ont04.htm#fr_7) Name of a Blackfoot chief.
+<span id="fn_3"></span>[14:2](ont04.htm#fr_7.md) Name of a Blackfoot chief.
 
-<span id="fn_4"></span>[15:1](ont04.htm#fr_8) See
-[Appendix](ont44.htm#an_15).
+<span id="fn_4"></span>[15:1](ont04.htm#fr_8.md) See
+[Appendix](ont44.htm#an_15.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. My Adoption By Mad Wolf](ont05)
+[Next: Chapter II. My Adoption By Mad Wolf](ont05.md)

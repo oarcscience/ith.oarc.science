@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico069) 
-[Next](nico071) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico069.md) 
+[Next](nico071.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ knowledge.
 ------------------------------------------------------------------------
 
 [Next: Chapter 4. Solution of the problem, what is the sphere of
-incontinence: its proper and its extended sense distinguished](nico071)
+incontinence: its proper and its extended sense distinguished](nico071.md)

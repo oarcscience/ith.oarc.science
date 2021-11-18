@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](intro)  [Next](chap02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](intro)  [Next](chap02.md) 
 
 ------------------------------------------------------------------------
 
@@ -472,4 +472,4 @@ political party from the pulpit, instead of preaching the gospel.
 ------------------------------------------------------------------------
 
 [Next: II. Four Great Personalities--Abraham, Isaac, Jacob,
-Joseph](chap02)
+Joseph](chap02.md)

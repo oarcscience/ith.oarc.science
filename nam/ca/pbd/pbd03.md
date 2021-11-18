@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd02)  [Next](pbd04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd02)  [Next](pbd04.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ otherwise stated, the Pomo terms are in the Eastern dialect.
 
 In the days before Indians were upon the earth, and when the birds and
 mammals were human, there was a large village at *danō* *xa*. <span
-id="fr_1"></span>[2](#fn_1) These people were
+id="fr_1"></span>[2](#fn_1.md) These people were
 
 <span id="page_446">p. 446</span>
 
@@ -57,19 +57,19 @@ on his left, in the following order: *tsai* (valley bluejay), *auaū*
 bird), and *tīnītal*.
 
 Finally a very small bird, *tsina bitūt kaiya patsōrk*, <span
-id="fr_2"></span>[3](#fn_2) succeeded in carrying the bear. He first
+id="fr_2"></span>[3](#fn_2.md) succeeded in carrying the bear. He first
 tied its front and hind feet with a heavy milkweed-fiber rope in such a
 manner as to enable him to sling the carcass over his shoulder with the
 body resting upon his hip. No one else had thought of any such method.
 The ingenuity of this bird, the smallest of them all, won success and
 enabled him to walk away easily with the heavy load. The others laughed
 uproariously and shouted their approval of the feat, immediately naming
-him *būrakal-ba-kīdjon*, <span id="fr_3"></span>[4](#fn_3) literally
+him *būrakal-ba-kīdjon*, <span id="fr_3"></span>[4](#fn_3.md) literally
 grizzly-bear-you-carrier. Thus he carried the grizzly home to the
 village, and Bluejay, the captain, cut it up and divided the meat among
 all the people. As a reward for his service *būrakal-ba-kīdjon* was
 given the bearskin. This was a very valuable present, worth many
-thousands of beads. <span id="fr_4"></span>[5](#fn_4)
+thousands of beads. <span id="fr_4"></span>[5](#fn_4.md)
 
 With this skin in his possession, *būrakal-ba-kīdjon* thought a great
 deal about the grizzly bear and became very envious of his powers of
@@ -102,7 +102,7 @@ slightest vestige of their trail should any one succeed in tracking them
 to this point. In this cave they began the manufacture of a ceremonial
 outfit.
 
-They went out from the village daily, <span id="fr_5"></span>[6](#fn_5)
+They went out from the village daily, <span id="fr_5"></span>[6](#fn_5.md)
 ostensibly to hunt, and they did, as a matter of fact, kill deer and
 other game, which they brought back to the village; but they never ate
 meat, nor did they have intercourse in any way with women. When asked
@@ -145,7 +145,7 @@ half a day's journey up the rugged mountains to the east. He found that
 he could travel with great speed and perfect ease through thick brush
 and up steep mountain-sides. In fact, he could move anywhere with as
 much ease as though he were on a level, open valley. <span
-id="fr_6"></span>[7](#fn_6) On this journey he hunted for soft, sweet
+id="fr_6"></span>[7](#fn_6.md) On this journey he hunted for soft, sweet
 manzanita berries, finally returning to the practice ground after
 covering a great distance, perhaps a hundred miles, in this half day.
 
@@ -225,7 +225,7 @@ After the usual sweating and cold plunge by the men, the captain again
 spoke, calling their attention to the fate of their friend the day
 before and asking that every one contribute beads to be given as a death
 offering to the relatives of the deceased. <span
-id="fr_7"></span>[8](#fn_7)
+id="fr_7"></span>[8](#fn_7.md)
 
 Bluejay himself contributed about ten thousand beads, and others
 contributed various amounts, but the two bear doctors contributed about
@@ -271,7 +271,7 @@ about him, and his brother and another man set out for the other village
 to ascertain whether he had been there or if something had befallen him
 on the way. They found that he had set out from the other village to
 return home on the day he had promised. Then they tracked him and found
-his dead body. They made a stretcher <span id="fr_8"></span>[9](#fn_8)
+his dead body. They made a stretcher <span id="fr_8"></span>[9](#fn_8.md)
 and carried the body home.
 
 They arrived at the village about mid-afternoon, and when about a half
@@ -297,7 +297,7 @@ their bear suits and journeyed southward to the Mount Kanaktai region.
 They made the journey by way of the east shore of Clear Lake, Lower
 Lake, and on down to near the present site of Middletown. Here they
 found a hunting party setting deer snares. <span
-id="fr_9"></span>[10](#fn_9) One of these men was driving the deer up
+id="fr_9"></span>[10](#fn_9.md) One of these men was driving the deer up
 out of the canon toward the place where the snares had been set. He saw
 the bear doctors and called out to his comradès: "Look out for
 yourselves; there are two bears coming." The hunters were up on the
@@ -309,7 +309,7 @@ The other hunters then attacked the bear doctors, who fled northward,
 pursued by the hunters, whom they outdistanced. The bear doctors became
 tired and very thirsty, for they had drunk no water all day, so they ran
 up Mount Kanaktai to a small pond just southwest of its summit. <span
-id="fr_10"></span>[11](#fn_10)
+id="fr_10"></span>[11](#fn_10.md)
 
 The bear doctors first ran four times each way around the pond and then
 disrobed completely, even taking off their bead armor. Leaving their
@@ -377,7 +377,7 @@ Immediately the two hunters behind the trees attacked the bears from the
 rear with their clubs and jerked the masks from their heads. The other
 hunters came up armed with clubs, bows and arrows, and stones, and found
 the bear doctors standing very shame-facedly before their captors. <span
-id="fr_11"></span>[12](#fn_11)
+id="fr_11"></span>[12](#fn_11.md)
 
 Every one shouted: "These are the two we suspected; we have them now."
 Some wanted to kill them immediately with clubs, others wanted to burn
@@ -392,21 +392,21 @@ village, placed them in their own house, tied them securely, and set
 fire to the house. Thus ended the bear doctors. That is how the
 knowledge of this magic was acquired. It has been handed down to us by
 the teaching of these secrets to novices by the older bear doctors ever
-since. <span id="fr_12"></span>[13](#fn_12)
+since. <span id="fr_12"></span>[13](#fn_12.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[445:2](pbd03.htm#fr_1) This is the site of an
+<span id="fn_1"></span>[445:2](pbd03.htm#fr_1.md) This is the site of an
 old Eastern Pomo village and is situated in the foothills about two
 miles northeast of the town of Upper Lake. It is located on the western
 slope of a hill and overlooks the lake.
 
-<span id="fn_2"></span>[446:3](pbd03.htm#fr_2) Identity unknown, and
+<span id="fn_2"></span>[446:3](pbd03.htm#fr_2.md) Identity unknown, and
 common Indian name not recorded.
 
-<span id="fn_3"></span>[446:4](pbd03.htm#fr_3) This name in the Northern
+<span id="fn_3"></span>[446:4](pbd03.htm#fr_3.md) This name in the Northern
 dialect is *būta* *baōm*, and in the Central dialect is *bitaka yalō
 djak*, literally grizzly bear between the legs flew. The Northern people
 say that the name of the bird previous to the accomplishment of this
@@ -415,14 +415,14 @@ stated that when the first people were transformed into birds this man
 was wearing a very large head-dress. This accounts for the fact that the
 bird now carries a large topknot.
 
-<span id="fn_4"></span>[446:5](pbd03.htm#fr_4) In very early times it is
+<span id="fn_4"></span>[446:5](pbd03.htm#fr_4.md) In very early times it is
 said that a string of four hundred beads was worth an amount about equal
 to two and one-half dollars. Later, after the introduction of the
 pump-drill, this value dropped to one dollar. On the basis of modern
 valuations of such skins, and under the higher rating of beads, this
 hide would have been worth 12,000 beads.
 
-<span id="fn_5"></span>[447:6](pbd03.htm#fr_5) In giving the account the
+<span id="fn_5"></span>[447:6](pbd03.htm#fr_5.md) In giving the account the
 informant stated that while making their ceremonial attire the two
 worked entirely at night, as was always done by Indian bear doctors
 later, and then only upon perfectly dark nights, when the moon was not
@@ -430,31 +430,31 @@ shining or when it was obscured by clouds. In case the moon suddenly
 emerged from behind a cloud they immediately ceased their work. This was
 made necessary by the fact that many hunters were abroad at night.
 
-<span id="fn_6"></span>[447:7](pbd03.htm#fr_6) Another informant told of
+<span id="fn_6"></span>[447:7](pbd03.htm#fr_6.md) Another informant told of
 a marvelous journey said to have been made by his grandmother while the
 family resided many years ago in Eight-mile Valley. She went during one
 night to Healdsburg, Sebastopol, Bodega Bay, and Big River, thence
 returning to her home, covering in those few hours about two hundred
 miles.
 
-<span id="fn_7"></span>[449:8](pbd03.htm#fr_7) The bringing of beads as
+<span id="fn_7"></span>[449:8](pbd03.htm#fr_7.md) The bringing of beads as
 a death offering from one village to another, or from one political
 group of people to another, is called *kal kubek*, while such an
 offering taken to the home of the family of the deceased by relatives in
 the same village is called *kal banek*.
 
-<span id="fn_8"></span>[449:9](pbd03.htm#fr_8) This stretcher is called
+<span id="fn_8"></span>[449:9](pbd03.htm#fr_8.md) This stretcher is called
 *kaitsak*, and consists of two side poles with short cross-pieces bound
 to them in such a manner as to resemble a ladder. It was used in early
 times for carrying the wounded or the dead back to the village. A corpse
 was bound to it by a binding of grapevine and the two ends of the
 stretcher rested upon the shoulders of the bearers.
 
-<span id="fn_9"></span>[450:10](pbd03.htm#fr_9) They were making a
+<span id="fn_9"></span>[450:10](pbd03.htm#fr_9.md) They were making a
 *bīcē* *gō*; i.e., setting snares in the brush without making a brush
 fence. The fence with snares is called *bīcē* *warī*.
 
-<span id="fn_10"></span>[450:11](pbd03.htm#fr_10) This pond, which is
+<span id="fn_10"></span>[450:11](pbd03.htm#fr_10.md) This pond, which is
 said to furnish the only water on this great mountain, was called *ka
 kapa*, and is said to be one of a very few ponds apparently without a
 spring, and called *ka dabō*, which are supposed to have been made in
@@ -462,16 +462,16 @@ prehistoric times by bears as resting places for themselves. This pond
 is nowadays almost never visited by any one except hunters who have lost
 their way.
 
-<span id="fn_11"></span>[451:12](pbd03.htm#fr_11) This loss of magic
+<span id="fn_11"></span>[451:12](pbd03.htm#fr_11.md) This loss of magic
 power and their consequent capture was explained as a supernatural
 penalty for their attempt to kill more than four victims in any one
 year.
 
-<span id="fn_12"></span>[451:13](pbd03.htm#fr_12) One informant ascribed
+<span id="fn_12"></span>[451:13](pbd03.htm#fr_12.md) One informant ascribed
 the source of Pomo bear doctor knowledge to the Lake Miwok, to the
 south. This opinion, of course, conflicts with the preceding origin
 tale.
 
 ------------------------------------------------------------------------
 
-[Next: Acquisition of Power](pbd04)
+[Next: Acquisition of Power](pbd04.md)

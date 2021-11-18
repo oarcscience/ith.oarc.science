@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo23)  [Next](beo25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo23)  [Next](beo25.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ a monster of marvel: the men looked on.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXIV](beo25)
+[Next: Part XXIV](beo25.md)

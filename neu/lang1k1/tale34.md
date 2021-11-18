@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ palace for some weeks, and never left
 <span id="img_39300"></span>
 
 [![THE SISTERS LAUNCH THE CRADLE IN THE CANAL](tn/39300.jpg)  
-Click to enlarge](img/39300.jpg)  
+Click to enlarge](img/39300.jpg.md)  
 THE SISTERS LAUNCH THE CRADLE IN THE CANAL  
 
 their sister night or day. When at last a little boy, beautiful as the
@@ -434,7 +434,7 @@ prince assured the holy man that he would hardly
 <span id="img_40100"></span>
 
 [![PRINCE BAHMAN PRUNES THE DEVISH'S BEARD](tn/40100.jpg)  
-Click to enlarge](img/40100.jpg)  
+Click to enlarge](img/40100.jpg.md)  
 PRINCE BAHMAN PRUNES THE DEVISH'S BEARD  
 
 believe how much younger he looked. The dervish smiled at his
@@ -715,7 +715,7 @@ them from the mass of others, but you must know,
 <span id="img_40900"></span>
 
 [![THE PRINCESS CLIMBS OVER THE BLACK STONES](tn/40900.jpg)  
-Click to enlarge](img/40900.jpg)  
+Click to enlarge](img/40900.jpg.md)  
 THE PRINCESS CLIMBS OVER THE BLACK STONES  
 
 <span id="page_410">p. 410</span> <span id="page_411">p. 411</span>
@@ -1133,7 +1133,7 @@ enchanted to see in you the Sultan and King of the Birds."
 <span id="img_42100"></span>
 
 [![PARIZADE SHOWS THE SINGING TREE TO THE SULTAN](tn/42100.jpg)  
-Click to enlarge](img/42100.jpg)  
+Click to enlarge](img/42100.jpg.md)  
 PARIZADE SHOWS THE SINGING TREE TO THE SULTAN  
 
 <span id="page_422">p. 422</span> <span id="page_423">p. 423</span>

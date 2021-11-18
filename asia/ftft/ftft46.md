@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft45)  [Next](ftft47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft45)  [Next](ftft47.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_358">p. 358</span>
 
-<span id="img_35800"></span> ![Kunterbunt](img/35800.jpg)
+<span id="img_35800"></span> ![Kunterbunt](img/35800.jpg.md)
 
 <span id="img_winit"></span>
 
 |                     |
 |---------------------|
-| ![W](img/winit.jpg) |
+| ![W](img/winit.jpg.md) |
 
 E were three brothers; two of us were silly, and neither of us had a bit
 of sense. We went to the bow-maker's and bought three bows, two of which
@@ -69,8 +69,8 @@ dreaming!
 
 <span id="page_360">p. 360</span>
 
-<span id="img_36000"></span> ![The End](img/36000.jpg)
+<span id="img_36000"></span> ![The End](img/36000.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Meaning of Turkish words used in the text](ftft47)
+[Next: Meaning of Turkish words used in the text](ftft47.md)

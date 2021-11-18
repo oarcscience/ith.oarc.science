@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](wos09)  [Next](wos11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](wos09)  [Next](wos11.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,37 +59,37 @@ Of the family of Seth little is recorded besides their names, and that
 little assures us that they were "not of this world." But scarcely had
 Cain departed from the garden of Eden before "he built him a city, and
 called the name of the city after the name of his son Enoch <span
-id="fr_541"></span>[1](#fn_540)." When the increase of his family
+id="fr_541"></span>[1](#fn_540.md)." When the increase of his family
 suggested separation, new inventions arose from the new necessity.
 Jabal, his descendant in the fifth degree, introduced the use of tents,
 and the arts of agricultural and pastoral life. "He was the father of
 such as dwell in tents, and of such as have cattle <span
-id="fr_542"></span>[2](#fn_541)." At the same time, as if to show that
+id="fr_542"></span>[2](#fn_541.md)." At the same time, as if to show that
 simplicity of manners was not essentially the characteristic of a
 pastoral life, his brother Jubal invented the elegant art of music. "He
 was the father of them that handle the harp and organ <span
-id="fr_543"></span>[3](#fn_542)." And
+id="fr_543"></span>[3](#fn_542.md)." And
 
 <span id="page_416">p. 416</span>
 
 to complete the picture of worldly ease and comfort, as enjoyed by the
 more godless of the sons of Adam, another brother, Tubalcain, became "an
 instructer of every artificer in brass and iron <span
-id="fr_544"></span>[1](#fn_543)." So that probably in less than three
+id="fr_544"></span>[1](#fn_543.md)." So that probably in less than three
 hundred years from the creation of man civilization had arrived at such
 a degree of perfection, that not only the necessaries, but even the
 luxuries of life were to be found in the family of the fugitive Cain.
 
 Nothing like this is recorded of the posterity of Seth. All that we know
 of them is the simple but interesting fact, that "Enoch walked with God,
-and was not, for God took him <span id="fr_545"></span>[2](#fn_544)."
+and was not, for God took him <span id="fr_545"></span>[2](#fn_544.md)."
 How different from that Enoch, the son of Cain, remembered only by the
 city which bore his name!
 
 The awful extent of idolatry in those "days of rebuke and blasphemy" is
 strongly depicted in the short but memorable record--"In those days
 began men to call upon the name of the Lord <span
-id="fr_546"></span>[3](#fn_545)." *Not* that they had never called upon
+id="fr_546"></span>[3](#fn_545.md)." *Not* that they had never called upon
 this name *before*, but that, induced by the wickedness which was
 increasing around them, they "gave themselves *then* more earnestly to
 prayer."
@@ -226,7 +226,7 @@ form of a *serpent*, had carried off the daughter of the son of Manna,
 and stolen the sacred books of Crishna, the incarnate son of Brahma. One
 of his family had also seized upon a horse which the son of Ramah had
 designed to be sacrificed to the sun <span
-id="fr_547"></span>[1](#fn_546). The race of Budha was therefore
+id="fr_547"></span>[1](#fn_546.md). The race of Budha was therefore
 proscribed; and the children of Surya, *i.e.* the worshippers of the
 *sun*, and the children of Crishna, *i.e.* the votaries of the
 *incarnate Son of God*, felt themselves called upon to execute the
@@ -266,7 +266,7 @@ The ferocity with which the wars of Surya and Budha had been carried on,
 may be estimated by the recital of a single fact. The Takshacs had slain
 a king of Delhi, and his successor, in revenge, sacrificed in one
 campaign twenty thousand of this small but devoted race <span
-id="fr_548"></span>[1](#fn_547).
+id="fr_548"></span>[1](#fn_547.md).
 
 It ceases, therefore, to be a matter of surprise, that the idolatry of
 the serpent very soon degenerated into the mere mythic and symbolical
@@ -289,7 +289,7 @@ conclude must have once overspread these countries. In China, however,
 the celebrated Confucius might have reformed the old idolatry, and
 perhaps left it in its present form. That Confucius was *born* a
 serpent-worshipper, is probable from the fable that *two serpents*
-attended his mystical washing <span id="fr_549"></span>[1](#fn_548).
+attended his mystical washing <span id="fr_549"></span>[1](#fn_548.md).
 
  
 
@@ -302,7 +302,7 @@ an equal end of all.
  
 
 6\. SYRIA. The Syrian Ophites when scattered by the victorious arms of
-Joshua <span id="fr_550"></span>[2](#fn_549), preferred, for the most
+Joshua <span id="fr_550"></span>[2](#fn_549.md), preferred, for the most
 part, to resign their country rather than forsake their creed. Those of
 the Hivites
 
@@ -316,14 +316,14 @@ the fables of mythology, in which the synchronous march of Cadmus to the
 Hellespont may indicate the retreat of a party of Kadmonites in that
 direction. Thus was the Ophiolatreia of the Canaanites overthrown, and
 the small remnant which remained, had their revenge by tempting the
-Israelites to worship <span id="fr_551"></span>[1](#fn_550) the brazen
+Israelites to worship <span id="fr_551"></span>[1](#fn_550.md) the brazen
 serpent of Moses, which had been preserved as one of the memorials of
 their deliverances in the Wilderness. This small remnant of Hivites,
 avowedly left by Jehovah to "prove Israel," was never entirely
 exterminated: for the spirit of Ophiolatreia again manifested itself in
 the early ages of Christianity in the form of the Ophite heresy, against
 which the pens of Epiphanius, Clemens Alexandrinus, and Tertullian, were
-so powerfully directed <span id="fr_552"></span>[2](#fn_551).
+so powerfully directed <span id="fr_552"></span>[2](#fn_551.md).
 
  
 
@@ -360,7 +360,7 @@ religious purposes. Captain Snelgrave visited the place only three weeks
 after the event. In other parts of Africa the superstition sunk beneath
 the scymetars of the Mohammedan Arabs: but if it still continue to
 linger among the mountains of the interior, the same fatal enemy will
-find it out <span id="fr_553"></span>[1](#fn_552).
+find it out <span id="fr_553"></span>[1](#fn_552.md).
 
  
 
@@ -370,7 +370,7 @@ upon the annals of Grecian fable. The contest of Apollo and Python for
 the temple of Delphi, was a struggle of the sun-worshippers, for an
 Ophite sanctuary. One remarkable feature, however, distinguishes the
 fable. The promise of Paradise finds a singular parallel in the history
-of Apollo <span id="fr_554"></span>[2](#fn_553): and this very
+of Apollo <span id="fr_554"></span>[2](#fn_553.md): and this very
 circumstance throws a light upon the *cause* of the hostility against
 the serpent. It would appear by the
 
@@ -384,7 +384,7 @@ violence to the prejudices of the votaries of the serpent, they
 preserved the general form and figure of the temple, together with some
 of its peculiar customs. The serpentine avenue was therefore only so far
 disturbed as to admit a central circular temple in honour of the
-SUN <span id="fr_555"></span>[1](#fn_554); the *Pythoness* still gave
+SUN <span id="fr_555"></span>[1](#fn_554.md); the *Pythoness* still gave
 her oracles from the *dracontic tripod*; and *live serpents* were still
 kept in the subterranean recesses. A similar policy was observed by the
 triumphant children of the sun in other parts of Europe.
@@ -439,7 +439,7 @@ which they record belong to Greece. The subjects seem chiefly to be
 borrowed from the Grecian Mythology and the Trojan war. Upon several of
 the vases are warriors fighting, some of whose shields are charged with
 an *eagle*, the device of the sun-worshippers <span
-id="fr_556"></span>[1](#fn_555), and others with a *serpent*, the emblem
+id="fr_556"></span>[1](#fn_555.md), and others with a *serpent*, the emblem
 of the Ophites. In all
 
 <span id="page_432">p. 432</span>
@@ -511,7 +511,7 @@ BAAL, descriptive of the Ophite hierogram is annually exhibited at the
 carnival of Erdeven: while the peasant still turns his face in prayer to
 the Kebla of the Ophites--the Serpent's head at Kerzerho--which bears
 accordingly the expressive name of "*the place of the stones of
-prayer* <span id="fr_557"></span>[1](#fn_556)."
+prayer* <span id="fr_557"></span>[1](#fn_556.md)."
 
  
 
@@ -535,12 +535,12 @@ is recorded in Harris's Collection of Voyages, vol. i. p. 784.
 
 Huayna Capac, the twelfth Inca, in like manner suppressed the
 Ophiolatreia of the people of Manta <span
-id="fr_558"></span>[1](#fn_557). It is probable that at one time the
+id="fr_558"></span>[1](#fn_557.md). It is probable that at one time the
 worship of the serpent was the general religion of Mexico and Peru. The
 Mexican hieroglyphics and statues abundantly illustrate this fact: and
 the popular traditions of the Peruvians respecting Manco Capac relate
 probably to the first successful missionary of the Sun <span
-id="fr_559"></span>[2](#fn_558) who
+id="fr_559"></span>[2](#fn_558.md) who
 
 <span id="page_436">p. 436</span>
 
@@ -561,7 +561,7 @@ customs of the priests of the Egyptian Isis; while the natives of the
 country N.W. of Louisiana, (even down to the year 1741) had his body
 tattooed with the united emblems of the SUN and the SERPENT, and carried
 in his hand a sacrificial instrument carved with the representation of A
-SERPENT UPON THE SUN <span id="fr_560"></span>[1](#fn_559)!
+SERPENT UPON THE SUN <span id="fr_560"></span>[1](#fn_559.md)!
 
 We have now taken a general and cursory
 
@@ -604,50 +604,50 @@ EVER."
 
 ### Footnotes
 
-<span id="fn_540"></span>[415:1](wos10.htm#fr_541) Gen. iv. 17.
+<span id="fn_540"></span>[415:1](wos10.htm#fr_541.md) Gen. iv. 17.
 
-<span id="fn_541"></span>[415:2](wos10.htm#fr_542) Ib. 20.
+<span id="fn_541"></span>[415:2](wos10.htm#fr_542.md) Ib. 20.
 
-<span id="fn_542"></span>[415:3](wos10.htm#fr_543) Ib. 21.
+<span id="fn_542"></span>[415:3](wos10.htm#fr_543.md) Ib. 21.
 
-<span id="fn_543"></span>[416:1](wos10.htm#fr_544) Gen. iv. 22.
+<span id="fn_543"></span>[416:1](wos10.htm#fr_544.md) Gen. iv. 22.
 
-<span id="fn_544"></span>[416:2](wos10.htm#fr_545) Ib. v. 29.
+<span id="fn_544"></span>[416:2](wos10.htm#fr_545.md) Ib. v. 29.
 
-<span id="fn_545"></span>[416:3](wos10.htm#fr_546) Ib. iv. 26.
+<span id="fn_545"></span>[416:3](wos10.htm#fr_546.md) Ib. iv. 26.
 
-<span id="fn_546"></span>[422:1](wos10.htm#fr_547) Tod's Rajahstan, 535.
+<span id="fn_546"></span>[422:1](wos10.htm#fr_547.md) Tod's Rajahstan, 535.
 
-<span id="fn_547"></span>[424:1](wos10.htm#fr_548) Tod's Rajahstan, 536.
+<span id="fn_547"></span>[424:1](wos10.htm#fr_548.md) Tod's Rajahstan, 536.
 
-<span id="fn_548"></span>[425:1](wos10.htm#fr_549) Kœmpfer Japan, 246.
+<span id="fn_548"></span>[425:1](wos10.htm#fr_549.md) Kœmpfer Japan, 246.
 
-<span id="fn_549"></span>[425:2](wos10.htm#fr_550) Bochart. See also ch.
+<span id="fn_549"></span>[425:2](wos10.htm#fr_550.md) Bochart. See also ch.
 iii. *Greece*.
 
-<span id="fn_550"></span>[426:1](wos10.htm#fr_551) 2 Kings xviii. 4.
+<span id="fn_550"></span>[426:1](wos10.htm#fr_551.md) 2 Kings xviii. 4.
 
-<span id="fn_551"></span>[426:2](wos10.htm#fr_552) See ch. i. *Syria*.
+<span id="fn_551"></span>[426:2](wos10.htm#fr_552.md) See ch. i. *Syria*.
 
-<span id="fn_552"></span>[428:1](wos10.htm#fr_553) Lander's Preface.
+<span id="fn_552"></span>[428:1](wos10.htm#fr_553.md) Lander's Preface.
 
-<span id="fn_553"></span>[428:2](wos10.htm#fr_554) See "Fables," ch. v.
+<span id="fn_553"></span>[428:2](wos10.htm#fr_554.md) See "Fables," ch. v.
 
-<span id="fn_554"></span>[429:1](wos10.htm#fr_555) See ch. vi.
+<span id="fn_554"></span>[429:1](wos10.htm#fr_555.md) See ch. vi.
 
-<span id="fn_555"></span>[431:1](wos10.htm#fr_556) Tod's Rajahstan, 535.
+<span id="fn_555"></span>[431:1](wos10.htm#fr_556.md) Tod's Rajahstan, 535.
 
-<span id="fn_556"></span>[434:1](wos10.htm#fr_557) These two latter
+<span id="fn_556"></span>[434:1](wos10.htm#fr_557.md) These two latter
 facts were communicated to me by my friend General de Penhouët.
 
-<span id="fn_557"></span>[435:1](wos10.htm#fr_558) Garcilasso, lib. ix.
+<span id="fn_557"></span>[435:1](wos10.htm#fr_558.md) Garcilasso, lib. ix.
 c. 8.
 
-<span id="fn_558"></span>[435:2](wos10.htm#fr_559) Robertson's
+<span id="fn_558"></span>[435:2](wos10.htm#fr_559.md) Robertson's
 *America*, ii. 293.
 
-<span id="fn_559"></span>[436:1](wos10.htm#fr_560) See the Plate.
+<span id="fn_559"></span>[436:1](wos10.htm#fr_560.md) See the Plate.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Summary.](wos11)
+[Next: Chapter VIII. Summary.](wos11.md)

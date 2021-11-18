@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs46)  [Next](mhs48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs46)  [Next](mhs48.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ essential similarity of human minds, whatever their environment.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Legends Relating To Sneezing](mhs48)
+[Next: VI. Legends Relating To Sneezing](mhs48.md)

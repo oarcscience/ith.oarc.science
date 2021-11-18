@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh24)  [Next](ulh26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh24)  [Next](ulh26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ as it did survive, was rather as a memorial and remembrance of the past
 than as a register of the living emotions of the present.
 
 The new music, with its *pa*, *ko*, *li*--answering to our do, re,
-mi <span id="fr_309"></span>[a](#fn_303)--was soon in everybody's mouth.
+mi <span id="fr_309"></span>[a](#fn_303.md)--was soon in everybody's mouth.
 From the first it was evidently destined to enact a role different from
 that of the old cantillation; none the less the musical ideas that came
 in with it, the air of freedom from tabu and priestcraft it breathed,
@@ -102,7 +102,7 @@ one-breath performance. A logical analogy may be seen between all this
 and that unwritten law, or superstition, which made it imperative for
 the heroes and demigods, *kupua*, of Hawaii's mythologic age to
 discontinue any unfinished work on the coming of daylight. <span
-id="fr_310"></span>[a](#fn_304)
+id="fr_310"></span>[a](#fn_304.md)
 
 <span id="page_140">p. 140</span>
 
@@ -139,7 +139,7 @@ people.
 Of drums, or drum-like instruments of percussion, the Hawaiians had
 four:
 
-1\. The *pahu*, or *pahu-hula* ([pl. X](ulh16.htm#img_pl10)), was a
+1\. The *pahu*, or *pahu-hula* ([pl. X](ulh16.htm#img_pl10).md), was a
 section of hollowed log. Bread-fruit and coconut were the woods
 generally used for this purpose. The tough skin of the shark was the
 choice for the drumhead, which was held in place and kept tense by
@@ -194,7 +194,7 @@ from place to place, instructing the teachers and inspiring them with
 new ideals. It was he also who introduced into the hula the kaékeéke as
 an instrument of music.
 
-2\. The *pu-niu* ([pl. XVI](#img_pl16)) was a small drum made from the
+2\. The *pu-niu* ([pl. XVI](#img_pl16).md) was a small drum made from the
 shell of a coconut. The top part, that containing the eyes, was removed,
 and the shell having been smoothed and polished, the opening was tightly
 covered with the skin of some scaleless fish--that of the *kala*
@@ -226,14 +226,14 @@ tremor, the lighter and sharper tones of the pu-niu gave a piquancy to
 the effect, adding a feature which may be likened to the sparkling
 ripples which the breeze carves in the ocean's swell.
 
-3\. The *ipu*, or *ipu-hula* ([pl. VII](ulh14.htm#img_pl07)), though not
+3\. The *ipu*, or *ipu-hula* ([pl. VII](ulh14.htm#img_pl07).md), though not
 strictly a drum, was a drumlike instrument. It was made by joining
 closely together two pear-shaped gourds of large size in such fashion as
 to make a body shaped like a figure 8. An opening was made in the upper
 end of
 
 <span id="img_fig02"></span> ![FIG. 2.--Ka, drumstick for pu-niu. (Pl.
-XVI.)](img/fig02.jpg)  
+XVI.)](img/fig02.jpg.md)  
 FIG. 2.--Ka, drumstick for pu-niu. (Pl. XVI.)
 
 the smaller gourd to give exit to the sound. The cavities of the two
@@ -262,7 +262,7 @@ and emphasize the rhythm. There are other elements, it
 
 <span id="img_pl16"></span> <span align="CENTER"> [![PLATE XVI&lt;br&gt;
 PU-NIU, A DRUM](tn/pl16.jpg)  
-Click to enlarge](img/pl16.jpg)  
+Click to enlarge](img/pl16.jpg.md)  
 PLATE XVI  
 PU-NIU, A DRUM  
 </span>
@@ -358,7 +358,7 @@ The illustration of the úliulí faithfully pictured by the artist
 reproduces a specimen that retains the original simplicity of the,
 instrument before the meretricious taste of modern times tricked it out
 with silks and feathers. (For a further description of this instrument,
-see [p. 107](ulh17.htm#page_107).)
+see [p. 107](ulh17.htm#page_107)..md)
 
 6\. The *pu-íli* was also a variety of the rattle, made by splitting a
 long joint of bamboo for half its length into slivers, every alternate
@@ -372,7 +372,7 @@ The performers sat in two rows facing each other, a position that
 favored mutual action, in which each row of actors struck their
 instruments against those of the other side, or tossed them back and
 forth. (For further account of the manner in which the puili was used in
-the hula of the same name, see [p. 113](ulh18.htm#page_113).)
+the hula of the same name, see [p. 113](ulh18.htm#page_113)..md)
 
 7\. The *laau* was one of the noise-instruments used in the hula. It
 consisted of two sticks of hard resonant wood, the smaller of which
@@ -401,7 +401,7 @@ modulated force. A nose-flute in the author's collection with the lower
 hole open produces the sound of f+1♯; with both holes unstopped
 
 <span id="img_fig03"></span> ![FIG. 3.--Ohe-hano-ihu,
-nose-flute.](img/fig03.jpg)  
+nose-flute.](img/fig03.jpg.md)  
 FIG. 3.--Ohe-hano-ihu, nose-flute.
 
 it emits the sound a+2; and when both holes are stopped it produces the
@@ -436,7 +436,7 @@ and judgment.
 
 <span id="img_mu01"></span> <span align="CENTER"> [![I--Range of the
 Nose-flute](tn/mu01.jpg)  
-Click to enlarge](img/mu01.jpg)  
+Click to enlarge](img/mu01.jpg.md)  
 I--Range of the Nose-flute  
 </span>
 
@@ -451,11 +451,11 @@ time, was produced by the two lower tones being thrown in in wild
 profusion, often apparently simultaneously with one of the upper tones.
 As the tempo in any one of these increased, the rhythm was lost sight of
 and a peculiar syncopated effect resulted. <span
-id="fr_311"></span>[a](#fn_305)
+id="fr_311"></span>[a](#fn_305.md)
 
 <span id="img_mu02"></span> <span align="CENTER"> [![II--Music from the
 Nose-flute](tn/mu02.jpg)  
-Click to enlarge](img/mu02.jpg)  
+Click to enlarge](img/mu02.jpg.md)  
 II--Music from the Nose-flute  
 </span>
 
@@ -471,13 +471,13 @@ compared to the Italian ocarina.
 10\. The *íli-íli* was a noise-instrument pure and simple. It consisted
 of two pebbles that were held in the hand and smitten together, after
 the manner of castanets, in time to the music of the voices. (See [p.
-120](ulh20.htm#page_120).)
+120](ulh20.htm#page_120)..md)
 
 11\. The *niau-kani*--singing splinter--was a reed-instrument of a rude
 sort, made by holding a reed of thin bamboo against a slit cut out in a
 larger piece of bamboo. This was applied to the mouth, and the voice
 being projected against it produced an effect similar to that of the
-jew's harp. (See [p. 132](ulh23.htm#page_132).)
+jew's harp. (See [p. 132](ulh23.htm#page_132)..md)
 
 12\. Even still more extemporaneous and rustic than any of these is a
 modest contrivance called by the Hawaiians *pú-la-í*. It is nothing more
@@ -573,7 +573,7 @@ to make a decided impression.</span>
 
 <span id="img_mu03"></span> <span align="CENTER"> [![III--The Ukeké (as
 played by Keaonaloa)](tn/mu03.jpg)  
-Click to enlarge](img/mu03.jpg)  
+Click to enlarge](img/mu03.jpg.md)  
 III--The Ukeké (as played by Keaonaloa)  
 </span>
 
@@ -597,7 +597,7 @@ evidenced in the footnote, and that he appreciates the bearing and
 significance of his testimony, added to the fact that he was a man of
 distinguished learning, gives unusual weight to his statements. The
 subject is one of so great interest and importance, that the whole
-passage is here quoted. <span id="fr_312"></span>[a](#fn_306) It adds
+passage is here quoted. <span id="fr_312"></span>[a](#fn_306.md) It adds
 not a little to its value that the writer thereof did not confine his
 remarks to the music, but enters into a general description of the hula.
 The only regret is that he did not go still further into details.
@@ -651,7 +651,7 @@ threw out the inferior voices before they ventured to appear before
 those who were supposed to be judges of their skill in music.
 
 In their regular concerts each man had a bamboo <span
-id="fr_313"></span>[a](#fn_307) which was of a different length and gave
+id="fr_313"></span>[a](#fn_307.md) which was of a different length and gave
 a different tone. These they beat against the ground, and each
 performer, assisted by the note given by this instrument, repeated the
 same note, accompanying it with words, by which means it was rendered
@@ -802,7 +802,7 @@ the Royal Hawaiian Baud:
 
 <span id="img_mu04"></span> <span align="CENTER"> [![IV--Song from the
 Hula Pa’i-umauma](tn/mu04.jpg)  
-Click to enlarge](img/mu04.jpg)  
+Click to enlarge](img/mu04.jpg.md)  
 IV--Song from the Hula Pa’i-umauma  
 </span>
 
@@ -818,7 +818,7 @@ escaped the author before he was able to catch the words.
 
 <span id="img_mu05"></span> <span align="CENTER"> [![V--Song from the
 Hula Pa-ipu](tn/mu05.jpg)  
-Click to enlarge](img/mu05.jpg)  
+Click to enlarge](img/mu05.jpg.md)  
 V--Song from the Hula Pa-ipu  
 </span>
 
@@ -831,7 +831,7 @@ the ocean its diamond-flash have been wiped out.
 
 <span id="img_mu06"></span> <span align="CENTER"> [![VI--Song for the
 Hula Pele](tn/mu06.jpg)  
-Click to enlarge](img/mu06.jpg)  
+Click to enlarge](img/mu06.jpg.md)  
 VI--Song for the Hula Pele  
 </span>
 
@@ -846,7 +846,7 @@ trilling movement of the voice which most. musicians inter-viewed on the
 subject declare to be impossible of representation, while some flout the
 assertion that it represents a change of pitch. One is reminded by this
 of a remark made by Pietro Mascagni: <span
-id="fr_314"></span>[a](#fn_308)
+id="fr_314"></span>[a](#fn_308.md)
 
 <span class="small">The feeling that a people displays in its character,
 its habits, its nature, and thus creates an overprivileged type of
@@ -886,11 +886,11 @@ point must, however, be deferred to another division of the subject:
 
 <div style="margin-left: 32px">
 
-Halau <span id="fr_315"></span>[a](#fn_309) Hanalei i ka nini a ka ua;  
-Kumano <span id="fr_316"></span>[b](#fn_310) ke po’o-wai a ka
-liko; <span id="fr_317"></span>[c](#fn_311)  
-Nahá ka opi-wai <span id="fr_318"></span>[d](#fn_312) a Wai-aloha;  
-O ke kahi koe a hiki i Wai-oli. <span id="fr_319"></span>[e](#fn_313)  
+Halau <span id="fr_315"></span>[a](#fn_309.md) Hanalei i ka nini a ka ua;  
+Kumano <span id="fr_316"></span>[b](#fn_310.md) ke po’o-wai a ka
+liko; <span id="fr_317"></span>[c](#fn_311.md)  
+Nahá ka opi-wai <span id="fr_318"></span>[d](#fn_312.md) a Wai-aloha;  
+O ke kahi koe a hiki i Wai-oli. <span id="fr_319"></span>[e](#fn_313.md)  
 Ua ike ’a.
 
 </div>
@@ -944,7 +944,7 @@ Me he mea la iwaho kaua, e ke hoa,
 
 <span id="img_mu07"></span> <span align="CENTER"> [![VII--Oli and Mele
 from the Hula Ala’a-papa](tn/mu07.jpg)  
-Click to enlarge](img/mu07.jpg)  
+Click to enlarge](img/mu07.jpg.md)  
 VII--Oli and Mele from the Hula Ala’a-papa  
 </span>
 
@@ -954,7 +954,7 @@ VII--Oli and Mele from the Hula Ala’a-papa
 
 <span id="img_mu07-157"></span> <span align="CENTER"> [![VII--Oli and
 Mele from the Hula Ala’a-papa](tn/mu07-157.jpg)  
-Click to enlarge](img/mu07-157.jpg)  
+Click to enlarge](img/mu07-157.jpg.md)  
 VII--Oli and Mele from the Hula Ala’a-papa  
 </span>
 
@@ -1005,10 +1005,10 @@ The number of measures devoted to the *i’i*, or fluctuation, which is
 indicated by the wavering line <span id="img_15800"></span>
 ![](img/15800.jpg), varied from time to time, even when the singer
 repeated the same passage. (See remarks on the *i’i*, [p.
-140](#page_140).)
+140](#page_140)..md)
 
 Redundancies of speech (interpolations) which are in disagreement with
-the present writer's text (pp. [155](#page_155)-156) are inclosed in
+the present writer's text (pp. [155](#page_155)-156.md) are inclosed in
 brackets. It will be seen that in the fifth verse he gives the version
 *Maka’u ke kanaka i ka lehua* instead of the one given by the author,
 which is *Maka’u ka Lehua i ke kanaka*. Each version has its advocates,
@@ -1079,7 +1079,7 @@ waving hands."
 
 Throughout the whole performance of Kualii and his wife Abigaila it was
 noticed that, while he was the reciter, she took the part of the olapa
-(see [p. 28](ulh08.htm#page_28)) and performed the dance; but to this
+(see [p. 28](ulh08.htm#page_28).md) and performed the dance; but to this
 rôle she added that of prompter, repeating to him in advance the words
 of the next verse, which he then took up. Her verbal memory, it was
 evident, was superior to his.
@@ -1187,7 +1187,7 @@ romance, lies in its mysterious tug at the heartstrings.
 <span id="img_mu08"></span> <span align="CENTER"> [![VIII--He Inoa no
 Kamehameha&lt;br&gt; (Old Mele--Kindness of H. R. H.
 Liliuokalani)](tn/mu08.jpg)  
-Click to enlarge](img/mu08.jpg)  
+Click to enlarge](img/mu08.jpg.md)  
 VIII--He Inoa no Kamehameha  
 (Old Mele--Kindness of H. R. H. Liliuokalani)  
 </span>
@@ -1198,17 +1198,17 @@ VIII--He Inoa no Kamehameha
 
 <div style="margin-left: 32px">
 
-Aia i Waipi’o <span id="fr_320"></span>[a](#fn_314) Paka’alana, <span
-id="fr_321"></span>[b](#fn_315),  
-Paepae <span id="fr_322"></span>[c](#fn_316) kapu ia o Liloa. <span
-id="fr_323"></span>[d](#fn_317)  
-He aloha ka wahine pi’i ka pali, <span id="fr_324"></span>[e](#fn_318)  
+Aia i Waipi’o <span id="fr_320"></span>[a](#fn_314.md) Paka’alana, <span
+id="fr_321"></span>[b](#fn_315.md),  
+Paepae <span id="fr_322"></span>[c](#fn_316.md) kapu ia o Liloa. <span
+id="fr_323"></span>[d](#fn_317.md)  
+He aloha ka wahine pi’i ka pali, <span id="fr_324"></span>[e](#fn_318.md)  
 Puili ana i ka hua ulei,  
-5 I ka ai mo’a i ka lau laau. <span id="fr_325"></span>[f](#fn_319)  
-Hoolaau <span id="fr_326"></span>[g](#fn_320) mai o ka welowelo.  
-Ua pe’e pa Kai-a-ulu o Waimea, <span id="fr_327"></span>[h](#fn_321)  
-Ua ola i ku’u kai, <span id="fr_328"></span>[i](#fn_322) Keoloewa, <span
-id="fr_329"></span>[j](#fn_323) e.
+5 I ka ai mo’a i ka lau laau. <span id="fr_325"></span>[f](#fn_319.md)  
+Hoolaau <span id="fr_326"></span>[g](#fn_320.md) mai o ka welowelo.  
+Ua pe’e pa Kai-a-ulu o Waimea, <span id="fr_327"></span>[h](#fn_321.md)  
+Ua ola i ku’u kai, <span id="fr_328"></span>[i](#fn_322.md) Keoloewa, <span
+id="fr_329"></span>[j](#fn_323.md) e.
 
 </div>
 
@@ -1302,7 +1302,7 @@ objective epic style of the earliest Hawaiian mele.
 
 <span id="img_mu09"></span> <span align="CENTER"> [![IX--Song, Poli
 Anuanu](tn/mu09.jpg)  
-Click to enlarge](img/mu09.jpg)  
+Click to enlarge](img/mu09.jpg.md)  
 IX--Song, Poli Anuanu  
 </span>
 
@@ -1311,7 +1311,7 @@ IX--Song, Poli Anuanu
 <span id="img_pl17"></span> <span align="CENTER"> [![PLATE
 XVII&lt;br&gt; HAWAIIAN MUSICIAN PLAYING ON THE UKU-LELE&lt;br&gt; (By
 permission of Hubert Voss](tn/pl17.jpg)  
-Click to enlarge](img/pl17.jpg)  
+Click to enlarge](img/pl17.jpg.md)  
 PLATE XVII  
 HAWAIIAN MUSICIAN PLAYING ON THE UKU-LELE  
 (By permission of Hubert Voss  
@@ -1381,7 +1381,7 @@ foreign influence that presided over the shaping of the melody.
 
 <span id="img_mu10"></span> <span align="CENTER"> [![X--Song,
 Hua-hua’i](tn/mu10.jpg)  
-Click to enlarge](img/mu10.jpg)  
+Click to enlarge](img/mu10.jpg.md)  
 X--Song, Hua-hua’i  
 </span>
 
@@ -1430,7 +1430,7 @@ description:
 
 <span id="img_mu11"></span> <span align="CENTER"> [![XI--Song, Ka
 Mawae](tn/mu11.jpg)  
-Click to enlarge](img/mu11.jpg)  
+Click to enlarge](img/mu11.jpg.md)  
 XI--Song, Ka Mawae  
 </span>
 
@@ -1445,7 +1445,7 @@ Berger, to whom the author is indebted for permission to use it.
 <div style="margin-left: 32px">
 
 A e ho’i ke aloha i ka mawae,  
-I ke Kawelu-holu, Papi’ohúli. <span id="fr_330"></span>[a](#fn_324)
+I ke Kawelu-holu, Papi’ohúli. <span id="fr_330"></span>[a](#fn_324.md)
 
 Huli mai kou alo, ua anu wau,  
 Ua pulu i ka ua, malule o-luna.
@@ -1470,7 +1470,7 @@ Soaked with the rain and benumbed.
 
 <span id="img_mu12"></span> <span align="CENTER"> [![XII--Like no a
 Like](tn/mu12.jpg)  
-Click to enlarge](img/mu12.jpg)  
+Click to enlarge](img/mu12.jpg.md)  
 XII--Like no a Like  
 </span>
 
@@ -1526,7 +1526,7 @@ And found thee in waft of the breeze.
 
 <span id="img_mu13"></span> <span align="CENTER"> [![XIII--Song, Pili
 Aoao](tn/mu13.jpg)  
-Click to enlarge](img/mu13.jpg)  
+Click to enlarge](img/mu13.jpg.md)  
 XIII--Song, Pili Aoao  
 </span>
 
@@ -1621,7 +1621,7 @@ goes wavering and lilting along like a canoe on a rippling ocean.
 <span id="img_pl18"></span> <span align="CENTER"> [![ PLATE
 XVIII&lt;br&gt; HALA FRUIT BUNCH AND DRUPE WITH A ''LEI''&lt;br&gt;
 (PANDANUS ODORATISSIMUS)](tn/pl18.jpg)  
-Click to enlarge](img/pl18.jpg)  
+Click to enlarge](img/pl18.jpg.md)  
 PLATE XVIII  
 HALA FRUIT BUNCH AND DRUPE WITH A ''LEI''  
 (PANDANUS ODORATISSIMUS)  
@@ -1706,14 +1706,14 @@ help which art and imagination can offer.
 
 <span id="img_pl19"></span> <span align="CENTER"> [![PLATE XIX&lt;br&gt;
 PU (TRITON TRITONIS)](tn/pl19.jpg)  
-Click to enlarge](img/pl19.jpg)  
+Click to enlarge](img/pl19.jpg.md)  
 PLATE XIX  
 PU (TRITON TRITONIS)  
 </span>
 
 <span id="img_mu14"></span> <span align="CENTER"> [![XIV--Hawaii
 Ponoi](tn/mu14.jpg)  
-Click to enlarge](img/mu14.jpg)  
+Click to enlarge](img/mu14.jpg.md)  
 XIV--Hawaii Ponoi  
 </span>
 
@@ -1721,7 +1721,7 @@ XIV--Hawaii Ponoi
 
 <span id="img_mu14-173"></span> <span align="CENTER"> [![XIV--Hawaii
 Ponoi](tn/mu14-173.jpg)  
-Click to enlarge](img/mu14-173.jpg)  
+Click to enlarge](img/mu14-173.jpg.md)  
 XIV--Hawaii Ponoi  
 </span>
 
@@ -1729,7 +1729,7 @@ XIV--Hawaii Ponoi
 
 <span id="img_mu14-174"></span> <span align="CENTER"> [![XIV--Hawaii
 Ponoi](tn/mu14-174.jpg)  
-Click to enlarge](img/mu14-174.jpg)  
+Click to enlarge](img/mu14-174.jpg.md)  
 XIV--Hawaii Ponoi  
 </span>
 
@@ -1799,69 +1799,69 @@ Strive with your might.
 
 ### Footnotes
 
-<span id="fn_303"></span>[138:a](ulh25.htm#fr_309) The early American
+<span id="fn_303"></span>[138:a](ulh25.htm#fr_309.md) The early American
 missionaries to Hawaii named the musical notes of the scale pa, ko, li,
 ha, no, la, mi.
 
-<span id="fn_304"></span>[139:a](ulh25.htm#fr_310) The author can see no
+<span id="fn_304"></span>[139:a](ulh25.htm#fr_310.md) The author can see no
 reason for supposing that this prolonged utterance had anything to do
 with that Hindoo practice belonging to the *yoga*, the exercise of which
 consists in regulating the breath.
 
-<span id="fn_305"></span>[146:a](ulh25.htm#fr_311) The writer is
+<span id="fn_305"></span>[146:a](ulh25.htm#fr_311.md) The writer is
 indebted to Miss Elsner not only for the above comments but for the
 following score which she has cleverly arranged as a sample of
 nose-flute music produced by Keaonaloa.
 
-<span id="fn_306"></span>[149:a](ulh25.htm#fr_312) Italics used are
+<span id="fn_306"></span>[149:a](ulh25.htm#fr_312.md) Italics used are
 those of the present author.
 
-<span id="fn_307"></span>[150:a](ulh25.htm#fr_313) These bamboos were,
+<span id="fn_307"></span>[150:a](ulh25.htm#fr_313.md) These bamboos were,
 no doubt, the same as the *kaékeéke*, elsewhere described. (See [p.
-122](ulh21.htm#page_122).)
+122](ulh21.htm#page_122)..md)
 
-<span id="fn_308"></span>[154:a](ulh25.htm#fr_314) The Evolution of
+<span id="fn_308"></span>[154:a](ulh25.htm#fr_314.md) The Evolution of
 Music from the Italian Standpoint, in the Century Library of Music, xvi,
 521.
 
-<span id="fn_309"></span>[155:a](ulh25.htm#fr_315) *Halau*. The rainy
+<span id="fn_309"></span>[155:a](ulh25.htm#fr_315.md) *Halau*. The rainy
 valley of Hanalei, on Kauai, is here compared to a halau, a dance-hall,
 apparently because the rain-columns seem to draw together and inclose
 the valley within walls, while the dark foreshortened vault of heaven
 covers it as with a roof.
 
-<span id="fn_310"></span>[155:b](ulh25.htm#fr_316) *Kumano*. A
+<span id="fn_310"></span>[155:b](ulh25.htm#fr_316.md) *Kumano*. A
 water-source, or, as here, perhaps, a sort of dam or loose stone wall
 that was run out into a stream for the purpose of diverting a portion of
 it into a new channel.
 
-<span id="fn_311"></span>[155:c](ulh25.htm#fr_317) *Like*. A bud; fresh
+<span id="fn_311"></span>[155:c](ulh25.htm#fr_317.md) *Like*. A bud; fresh
 verdure; a word much used in modern Hawaiian poetry.
 
-<span id="fn_312"></span>[155:d](ulh25.htm#fr_318) *Opiwai*. A
+<span id="fn_312"></span>[155:d](ulh25.htm#fr_318.md) *Opiwai*. A
 watershed. In Hawaii a knife-edged ridge as narrow as the back of a
 horse will often decide the course of a stream, turning its direction
 from one to the other side of the island.
 
-<span id="fn_313"></span>[155:e](ulh25.htm#fr_319) *Waioli* (*wai*,
+<span id="fn_313"></span>[155:e](ulh25.htm#fr_319.md) *Waioli* (*wai*,
 water; *oli*, joyful). The name given to a part of the valley of
 Hanalei, also the name of a river.
 
-<span id="fn_314"></span>[162:a](ulh25.htm#fr_320) *Waipi’o*. A deep
+<span id="fn_314"></span>[162:a](ulh25.htm#fr_320.md) *Waipi’o*. A deep
 valley on the windward side of Hawaii.
 
-<span id="fn_315"></span>[162:b](ulh25.htm#fr_321) *Paka’alana*. A
+<span id="fn_315"></span>[162:b](ulh25.htm#fr_321.md) *Paka’alana*. A
 temple and the residence of King Liloa in Waipi’o.
 
-<span id="fn_316"></span>[162:c](ulh25.htm#fr_322) *Paepae*. The
+<span id="fn_316"></span>[162:c](ulh25.htm#fr_322.md) *Paepae*. The
 doorsill (of this temple), always an object of superstitious regard, but
 especially so in the case of this temple. Here it stands for the whole
 temple.
 
-<span id="fn_317"></span>[162:d](ulh25.htm#fr_323) *Liloa*. A famous
+<span id="fn_317"></span>[162:d](ulh25.htm#fr_323.md) *Liloa*. A famous
 king of Hawaii who had his seat in Waipi’o.
 
-<span id="fn_318"></span>[162:e](ulh25.htm#fr_324) *Wahine pii ka pali*.
+<span id="fn_318"></span>[162:e](ulh25.htm#fr_324.md) *Wahine pii ka pali*.
 Haina-kolo, a mythical character. is probably the one alluded to. She
 married a king of Kukulu o Kahiki, and. being deserted by him, swam back
 to Hawaii. Arrived at Waipi’o in a famishing state, she climbed the
@@ -1871,37 +1871,37 @@ she became distraught and wandered away into the wilderness. Her husband
 repented of his neglect and after long search found her. Under kind
 treatment she regained her reason and the family was happily reunited.
 
-<span id="fn_319"></span>[162:f](ulh25.htm#fr_325) *Lau laau*. Leaves of
+<span id="fn_319"></span>[162:f](ulh25.htm#fr_325.md) *Lau laau*. Leaves of
 plants.
 
-<span id="fn_320"></span>[162:g](ulh25.htm#fr_326) *Hoolaau*. The last
+<span id="fn_320"></span>[162:g](ulh25.htm#fr_326.md) *Hoolaau*. The last
 part of this word, *laau*, taken in connection with the last word of the
 previous verse, form a capital instance of word repetition. This was an
 artifice much used in Hawaiian poetry, both as a means of imparting
 tone-color and for the punning wit it was supposed to exhibit.
 
-<span id="fn_321"></span>[162:h](ulh25.htm#fr_327) *Ua pe’e pa Kai-a-ulu
+<span id="fn_321"></span>[162:h](ulh25.htm#fr_327.md) *Ua pe’e pa Kai-a-ulu
 a Waimea*. *Kai-a-ulu* is a fierce rain-squall such as arises suddenly
 in the uplands of Waimea, Hawaii. The traveler, to protect himself,
 crouches (*pe’e*) behind a hummock of grass, or builds up in all haste a
 barricade (*pa*) of light stuff as a partial shelter against the
 oncoming storm.
 
-<span id="fn_322"></span>[162:i](ulh25.htm#fr_328) *Kai*. Taken in
+<span id="fn_322"></span>[162:i](ulh25.htm#fr_328.md) *Kai*. Taken in
 connection with *Kai-a-ulu* in the preceding verse, this is another
 instance of verse repetition. This word, the primary meaning of which is
 sea, or ocean, is used figuratively to represent a source of comfort or
 life.
 
-<span id="fn_323"></span>[162:j](ulh25.htm#fr_329) *Keoloewa*. The name
+<span id="fn_323"></span>[162:j](ulh25.htm#fr_329.md) *Keoloewa*. The name
 of one of the old gods belonging to the class called *akua noho*, a
 class of deities that were sent by the necromancers on errands of
 demoniacal possession.
 
-<span id="fn_324"></span>[167:a](ulh25.htm#fr_330) *Papi’o-huli*. A
+<span id="fn_324"></span>[167:a](ulh25.htm#fr_330.md) *Papi’o-huli*. A
 slope in the western valley-side at the head of Nuuanu, where the tall
 grass (*kawelu*) waves (*holu*) in the wind.
 
 ------------------------------------------------------------------------
 
-[Next: XXII.--Gesture](ulh26)
+[Next: XXII.--Gesture](ulh26.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits035) [Next](bits037)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits035) [Next](bits037.md)
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ depends birth," etc.
 
 ------------------------------------------------------------------------
 
-[Next: § 37. Discussion of Dependent Origination](bits037)
+[Next: § 37. Discussion of Dependent Origination](bits037.md)
 
  
 

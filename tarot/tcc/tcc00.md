@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Copyright FAQ](../faq)  [Index](index)  [Next](tcc01) 
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Copyright FAQ](../faq)  [Index](index)  [Next](tcc01.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ the original Smith deck.
 
 For more information on the publication history of the RWS Tarot and the
 intellectual property issues surrounding it, please refer to my [Tarot
-copyright FAQ](../faq).
+copyright FAQ](../faq.md).
 
 The subject of this short essay is to compare a few cards from the
 earliest known Tarot deck (Pamela-A 1909) with the best selling
@@ -61,4 +61,4 @@ presented under the fair-use provisions of US Copyright.
 
 ------------------------------------------------------------------------
 
-[Next: The Fool](tcc01)
+[Next: The Fool](tcc01.md)

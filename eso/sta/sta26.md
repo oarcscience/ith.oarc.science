@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta25)  [Next](sta27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta25)  [Next](sta27.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ of Paracelsus follows.
 <span id="img_10900"></span>
 
 [![THE TITLE PAGE OF THE BOOK OF ALZE.](tn/10900.jpg)  
-Click to enlarge](img/10900.jpg)  
+Click to enlarge](img/10900.jpg.md)  
 THE TITLE PAGE OF THE BOOK OF ALZE.  
 
 From *Musæum Hermeticum Reformatum et Amplificatum*.
@@ -275,7 +275,7 @@ two, failing to coordinate, produced
 <span id="img_11000"></span>
 
 [![JOHANNIS BAPTISTAE VON HELMONT.](tn/11000.jpg)  
-Click to enlarge](img/11000.jpg)  
+Click to enlarge](img/11000.jpg.md)  
 JOHANNIS BAPTISTAE VON HELMONT.  
 
 From von Helmont's *Ausgang der Artznen-Kunst*.
@@ -469,7 +469,7 @@ fundamentals of nearly all modern arcs and sciences.
 <span id="img_11100"></span>
 
 [![NICHOLAS CULPEPER.](tn/11100.jpg)  
-Click to enlarge](img/11100.jpg)  
+Click to enlarge](img/11100.jpg.md)  
 NICHOLAS CULPEPER.  
 
 From Culpeper's *Semeiotica Uranica*.
@@ -660,7 +660,7 @@ have destroyed.
 <span id="img_11200"></span>
 
 [![CHEMICAL SYLLABLES.](tn/11200.jpg)  
-Click to enlarge](img/11200.jpg)  
+Click to enlarge](img/11200.jpg.md)  
 CHEMICAL SYLLABLES.  
 
 From De Monte-Snyders' *Metamorphosis Planetarum*.
@@ -679,4 +679,4 @@ are produced, and out of these the *verbum significativum*."
 
 ------------------------------------------------------------------------
 
-[Next: The Qabbalah, the Secret Doctrine of Israel](sta27)
+[Next: The Qabbalah, the Secret Doctrine of Israel](sta27.md)

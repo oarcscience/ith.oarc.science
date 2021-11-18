@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa11)  [Next](psa13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa11)  [Next](psa13.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ what they asked, and laughing, dismissed them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](psa13)
+[Next: Chapter XII](psa13.md)

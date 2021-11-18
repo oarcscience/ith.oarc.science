@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow22)  [Next](vow24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow22)  [Next](vow24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ never
 
 separate ourselves from this manner of life. With which hope being
 filled, we go forth to take a pure repast without animal flesh. <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 <span id="page_95">p. 95</span>
 
@@ -84,7 +84,7 @@ id="fr_42"></span>[1](#fn_42)
  
 
 <span id="img_09600"></span> ![End of the Treatise on
-Initiations](img/09600.jpg)
+Initiations](img/09600.jpg.md)
 
  
 
@@ -92,7 +92,7 @@ Initiations](img/09600.jpg)
 
 ### Footnotes
 
-<span id="fn_42"></span>[94:1](vow23.htm#fr_42) The words with which
+<span id="fn_42"></span>[94:1](vow23.htm#fr_42.md) The words with which
 this Discourse on Initiation ends are full of significance. The key to
 the Hermetic Secret is found when the aspirant adopts the Edenic Life:
 the life of purity and charity which all mystics--Hebrew, Egyptian,
@@ -153,4 +153,4 @@ A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](vow24)
+[Next: Part I](vow24.md)

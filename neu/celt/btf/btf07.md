@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf06)  [Next](btf08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf06)  [Next](btf08.md) 
 
 ------------------------------------------------------------------------
 
@@ -477,4 +477,4 @@ The Alp-Luachra
 
 ------------------------------------------------------------------------
 
-[Next: Paudyeen O'Kelly and the Weasel](btf08)
+[Next: Paudyeen O'Kelly and the Weasel](btf08.md)

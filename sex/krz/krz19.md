@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz18)  [Next](krz20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz18)  [Next](krz20.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ from the behavior of its advocates. For excess manifests itself
 everywhere. Nothing can be imagined more innocent than useful labor,
 intellectual study, or the desire for safety, yet every day we observe
 men ruined by overwork, blind or neurasthenic  <span
-id="fr_3"></span>[\*](#fn_3) from over-study, or cowardly or weak from
+id="fr_3"></span>[\*](#fn_3.md) from over-study, or cowardly or weak from
 excess of caution. Most of the accusers of excess in sex are religious,
 yet excess in religion, leading to bigotry, fanaticism, religious
 insanity, is among the very commonest forms of abnormality. To seek
@@ -88,7 +88,7 @@ application
 or effective work become impossible; or an abnormal loneliness,
 destroying appreciation of or contentment with the usual joys of life.
 
-Uxoriousness <span id="fr_4"></span>[\*](#fn_4), or slavish devotion and
+Uxoriousness <span id="fr_4"></span>[\*](#fn_4.md), or slavish devotion and
 idolatrous admiration, may cause one partner to abdicate vindication of
 selfhood and spoil the beloved.
 
@@ -138,12 +138,12 @@ individually or socially detrimental.
 
 ### Footnotes
 
-<span id="fn_3"></span>[50b:\*](krz19.htm#fr_3) Suffering a nervous
+<span id="fn_3"></span>[50b:\*](krz19.htm#fr_3.md) Suffering a nervous
 breakdown *Ed.*
 
-<span id="fn_4"></span>[52:\*](krz19.htm#fr_4) foolish fondness for, or
+<span id="fn_4"></span>[52:\*](krz19.htm#fr_4.md) foolish fondness for, or
 excessive submissiveness to, one's wife. *Ed.*
 
 ------------------------------------------------------------------------
 
-[Next: Final Considerations](krz20)
+[Next: Final Considerations](krz20.md)

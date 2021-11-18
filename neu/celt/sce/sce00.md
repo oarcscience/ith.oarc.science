@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](sce01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](sce01.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,33 +42,33 @@ hundred of which are for sale.*
 <span id="img_front"></span>
 
 [![Frontispiece](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_fcover"></span>
 
 [![Front Cover](tn/fcover.jpg)  
-Click to enlarge](img/fcover.jpg)  
+Click to enlarge](img/fcover.jpg.md)  
 Front Cover  
 
 <span id="img_spine"></span>
 
 [![Spine](tn/spine.jpg)  
-Click to enlarge](img/spine.jpg)  
+Click to enlarge](img/spine.jpg.md)  
 Spine  
 
 <span id="img_flyleaf"></span>
 
 [![Inner front cover with inscriptions](tn/flyleaf.jpg)  
-Click to enlarge](img/flyleaf.jpg)  
+Click to enlarge](img/flyleaf.jpg.md)  
 Inner front cover with inscriptions  
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](sce01)
+[Next: Dedication](sce01.md)

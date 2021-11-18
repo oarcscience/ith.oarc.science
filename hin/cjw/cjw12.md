@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw11)  [Next](cjw13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw11)  [Next](cjw13.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ of sleep. \[518\]
 
 ------------------------------------------------------------------------
 
-[Next: The Perfect Sage](cjw13)
+[Next: The Perfect Sage](cjw13.md)

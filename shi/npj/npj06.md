@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj05) 
-[Next](npj07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj05.md) 
+[Next](npj07.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,8 +75,8 @@ mystically enshrined in men's hearts.
 
 Zen denied the existence of Good and Evil, and was sometimes regarded as
 a dangerous sophistry by pious Buddhists of other sects, as, for
-example, in the story of Shunkwan (see [p. 227](npj41.htm#page_227)) and
-in The *Hōka Priests* (see [p. 165](npj29.htm#page_165)), where the
+example, in the story of Shunkwan (see [p. 227](npj41.htm#page_227).md) and
+in The *Hōka Priests* (see [p. 165](npj29.htm#page_165).md), where the
 murderer's interest in Zen doctrines is, I think, definitely regarded as
 a discreditable weakness and is represented as the cause of his undoing.
 
@@ -86,7 +86,7 @@ the *Shingon Shū* or Mystic Sect, while Komachi, as becomes a poetess,
 defends the doctrines of Zen. For Zen was the religion of artists; it
 had inspired the painters and poets of the Sung dynasty in China; it was
 the religion of the great art-patrons who ruled Japan in the fifteenth
-century. <span id="fr_9"></span>[1](#fn_9)
+century. <span id="fr_9"></span>[1](#fn_9.md)
 
 It was in the language of Zen that poetry and painting were discussed;
 and it was in a style tinged with Zen that Seami wrote of his own art.
@@ -120,9 +120,9 @@ editor's kind permission.
 
 ### Footnotes
 
-<span id="fn_9"></span>[32:1](npj06.htm#fr_9) See further my *Zen
+<span id="fn_9"></span>[32:1](npj06.htm#fr_9.md) See further my *Zen
 Buddhism & its relation to Art*. Luzac, 1922.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](npj07)
+[Next: Chapter I](npj07.md)

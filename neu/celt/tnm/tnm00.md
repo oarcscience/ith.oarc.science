@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
-[Iceland](../../ice/index)  [Index](index)  [Next](tnm01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
+[Iceland](../../ice/index)  [Index](index)  [Next](tnm01.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Traces of the Norse Mythology in the Isle of Man](tnm01)
+[Next: Traces of the Norse Mythology in the Isle of Man](tnm01.md)

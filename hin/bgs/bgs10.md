@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg10)   
-[Previous](bgs09)  [Next](bgs11) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg10.md)   
+[Previous](bgs09)  [Next](bgs11.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ viṣṭabhyāham idaṃ kṛtsnam ekāṃśena sthito jagat
 
 ------------------------------------------------------------------------
 
-[Next: XI. athaikādaśodhyāyaḥ. (viśvarūpadarśanayogaḥ)](bgs11)
+[Next: XI. athaikādaśodhyāyaḥ. (viśvarūpadarśanayogaḥ)](bgs11.md)

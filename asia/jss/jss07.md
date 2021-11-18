@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss06)  [Next](jss08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss06)  [Next](jss08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -139,20 +139,20 @@ a mile and a half from his house I met him riding
 <span id="img_04000"></span> <span align="CENTER"> [![THE BAGGAGE OF THE
 CONVICTS AND PROVISIONS FOR THEM ARE CARRIED IN THIS
 WAY.](tn/04000.jpg)  
-Click to enlarge](img/04000.jpg)  
+Click to enlarge](img/04000.jpg.md)  
 THE BAGGAGE OF THE CONVICTS AND PROVISIONS FOR THEM ARE CARRIED IN THIS
 WAY.  
 </span>
 
-*Page* [40](#page_40)
+*Page* [40](#page_40.md)
 
 <span id="img_04001"></span> <span align="CENTER"> [![CONVICTS PASSING
 THROUGH THE VILLAGE OF USTURDI.](tn/04001.jpg)  
-Click to enlarge](img/04001.jpg)  
+Click to enlarge](img/04001.jpg.md)  
 CONVICTS PASSING THROUGH THE VILLAGE OF USTURDI.  
 </span>
 
-*Page* [39](#page_39)
+*Page* [39](#page_39.md)
 
  
 
@@ -239,21 +239,21 @@ or answer my greeting.
 
 <span id="img_04200"></span> <span align="CENTER"> [![ONE GROUP OF
 CONVICTS RESTING AND LUNCHING.](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 ONE GROUP OF CONVICTS RESTING AND LUNCHING.  
 </span>
 
-*Page* [40](#page_40)
+*Page* [40](#page_40.md)
 
 <span id="img_04201"></span> <span align="CENTER"> [![BURIAT
 WEDDING.&lt;br&gt; The first three women in the foreground are the
 matchmakers](tn/04201.jpg)  
-Click to enlarge](img/04201.jpg)  
+Click to enlarge](img/04201.jpg.md)  
 BURIAT WEDDING.  
 The first three women in the foreground are the matchmakers  
 </span>
 
-*Page* [42](#page_42)
+*Page* [42](#page_42.md)
 
  
 
@@ -300,4 +300,4 @@ death of the two was sufficiently painful.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Horse Sacrifice](jss08)
+[Next: Chapter IV. The Horse Sacrifice](jss08.md)

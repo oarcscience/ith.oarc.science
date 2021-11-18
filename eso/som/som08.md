@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som07) 
-[Next](som09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som07.md) 
+[Next](som09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ We define Spirit as the First Cause or God; the Absolute Essence of all
 that is. It is also called the great, or the Universal, I AM. When Moses
 asked God who he should tell the Children of Israel had sent him, the
 answer was, "Thus shalt thou say, I AM hath sent me unto you." <span
-id="fr_17"></span>[18](#fn_17) The reason why "I AM" was given is
+id="fr_17"></span>[18](#fn_17.md) The reason why "I AM" was given is
 because this is an absolute statement. Spirit is Conscious Mind, and is
 the Power Which knows Itself; It is conscious of Its own Being. The
 Spirit is Self-Propelling; it is Absolute and All. It is Self-Existent,
@@ -106,7 +106,7 @@ the result of Spirit working through Soul or Law. There is but one Body
 of the Universe; It is both visible and invisible; and within this one
 body are all of the lesser bodies, all of the manifest Universe,
 including the body of man. "But now are they many members yet but One
-Body." <span id="fr_18"></span>[19](#fn_18)
+Body." <span id="fr_18"></span>[19](#fn_18.md)
 
 Spirit is the Absolute Being; and is the only power in the universe
 which has self-knowingness, volition, choice or will. The soul has no
@@ -180,7 +180,7 @@ body now occupies in space; there might even be a million bodies, each
 within the other; and each would be just as real as the one that we now
 think we occupy. The Universe, as we see it, is not even a fractional
 part of the Universe that actually is. "Eye hath not seen," <span
-id="fr_19"></span>[20](#fn_19) because it sees only on one plane, i.e.,
+id="fr_19"></span>[20](#fn_19.md) because it sees only on one plane, i.e.,
 in part.
 
 **IMMORTALITY**
@@ -267,7 +267,7 @@ When we speak of every thought dropped into the Creative Medium, do we
 think of God's thought and man's as the same? We think of each as
 thought; but, whereas man thinks both inductively and deductively, God
 thinks only deductively. "As he thinketh in his heart, so is he," <span
-id="fr_20"></span>[21](#fn_20) i.e., as he lets fall the forms of his
+id="fr_20"></span>[21](#fn_20.md) i.e., as he lets fall the forms of his
 thought.
 
 God is not conscious of matter, as we are. God is conscious of Himself
@@ -366,14 +366,14 @@ Burnell; "Philosophy of Plotinus," by Dean Inge.
 
 ### Footnotes
 
-<span id="fn_17"></span>[70:18](som08.htm#fr_17) Exodus 3:14.
+<span id="fn_17"></span>[70:18](som08.htm#fr_17.md) Exodus 3:14.
 
-<span id="fn_18"></span>[72:19](som08.htm#fr_18) 1 Cor. 12:20.
+<span id="fn_18"></span>[72:19](som08.htm#fr_18.md) 1 Cor. 12:20.
 
-<span id="fn_19"></span>[74:20](som08.htm#fr_19) 1 Cor. 2:9.
+<span id="fn_19"></span>[74:20](som08.htm#fr_19.md) 1 Cor. 2:9.
 
-<span id="fn_20"></span>[76:21](som08.htm#fr_20) Prov. 23:7.
+<span id="fn_20"></span>[76:21](som08.htm#fr_20.md) Prov. 23:7.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson One: Recapitulation](som09)
+[Next: Lesson One: Recapitulation](som09.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic092)  [Next](lfic094) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic092)  [Next](lfic094.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ has alluded to this discrepancy.
 
 ------------------------------------------------------------------------
 
-[Next: St Patrick's Contest with the Druids](lfic094)
+[Next: St Patrick's Contest with the Druids](lfic094.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](aa0) [Next](aa2)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](aa0) [Next](aa2.md)
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ Tischendorf, there is a letter from Jacques de Vitry, Bishop of St Jean
 d’Acre, dated <span class="small">A.D.</span> 1219, to Pope Honorius
 III., telling him <span id="page_x">p. x</span> that the Revelation of
 Peter to Clement will soon be put before him in one volume<span
-id="page_x_fr_*"></span>[\*](#page_x_note_*). The Paris MSS. 77 and 78
+id="page_x_fr_*"></span>[\*](#page_x_note_*.md). The Paris MSS. 77 and 78
 say that the Apocalypse of Peter has been found it Nicosia, therefore de
 Lagarde thinks that the book has some connection with the history of the
 first crusades. The Cambridge MS. makes a similar statement.
@@ -140,7 +140,7 @@ been in the Latin MS. from which the translation was made.
 
 ------------------------------------------------------------------------
 
-[Next](aa2)
+[Next](aa2.md)
 
 ------------------------------------------------------------------------
 
@@ -148,7 +148,7 @@ been in the Latin MS. from which the translation was made.
 
 <span id="footnotes_page_x">p. x</span>
 
-<span id="page_x_note_*"></span>[\*](#page_x_fr_*) I have found this
+<span id="page_x_note_*"></span>[\*](#page_x_fr_*.md) I have found this
 statement in a footnote to Tischendorf, *Prolegomena to Apocalypses
 Apocryphae*, page xx. Our story corresponds with the first part of the
 description which Tischendorf gives of the Apocalypse of Peter, from

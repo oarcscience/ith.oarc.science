@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi067)  [Next](mtsi069) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi067)  [Next](mtsi069.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ you will fulfil the destiny I designed for you."
 
 ------------------------------------------------------------------------
 
-[Next: 67. Why the Rabbit Steals](mtsi069)
+[Next: 67. Why the Rabbit Steals](mtsi069.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs08)  [Next](mhs10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs08)  [Next](mhs10.md) 
 
 ------------------------------------------------------------------------
 
@@ -325,4 +325,4 @@ you open the lock again.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Blacksmiths Credited With Supernatural Attributes](mhs10)
+[Next: VII. Blacksmiths Credited With Supernatural Attributes](mhs10.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb03)  [Next](isb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb03)  [Next](isb05.md) 
 
 ------------------------------------------------------------------------
 
@@ -379,4 +379,4 @@ be idle in the streets?
 
 ------------------------------------------------------------------------
 
-[Next: Cork--the Agricultural Show--Father Mathew](isb05)
+[Next: Cork--the Agricultural Show--Father Mathew](isb05.md)

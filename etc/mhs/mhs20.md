@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs19)  [Next](mhs21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs19)  [Next](mhs21.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ crescent moon's example and "get full."
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. Horse-shoes On Church-doors](mhs21)
+[Next: XVIII. Horse-shoes On Church-doors](mhs21.md)

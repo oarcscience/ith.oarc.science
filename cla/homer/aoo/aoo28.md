@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo27)  [Next](aoo29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo27)  [Next](aoo29.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ dangers we should meet on our voyage.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](aoo29)
+[Next: Chapter VI](aoo29.md)

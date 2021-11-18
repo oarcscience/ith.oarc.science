@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp14) 
-[Next](alp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp14.md) 
+[Next](alp16.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ And blossoms wept unceasingly
 
 ------------------------------------------------------------------------
 
-[Next: Liberty](alp16)
+[Next: Liberty](alp16.md)

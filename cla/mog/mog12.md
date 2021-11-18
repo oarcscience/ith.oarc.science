@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mog11)  [Next](mog13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mog11)  [Next](mog13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -157,7 +157,7 @@ I mean the well-known wall paintings from the palace
 
 of Tiryns which depict hunters and dogs charging a boar, and even ladies
 driving in a chariot to the hunt. As was pointed out long ago, <span
-id="fr_367"></span>[1](#fn_367) we have in these pictures, if not the
+id="fr_367"></span>[1](#fn_367.md) we have in these pictures, if not the
 actual myth, its prototype from human life. It is interesting to note
 also that a woman, Atalanta, plays the foremost part in this myth of the
 hunt of the Calydonian boar. The myth of the Calydonian hunt ought, if
@@ -165,13 +165,13 @@ any, to go back to the Mycenaean age; the only objection is that Calydon
 was not a center of Mycenaean civilization. But probably it was.
 Numerous Mycenaean sherds were picked up on the surface of the acropolis
 and there are walls of Mycenaean date; <span
-id="fr_368"></span>[2](#fn_368) yet the excavations carried out by Dr.
+id="fr_368"></span>[2](#fn_368.md) yet the excavations carried out by Dr.
 Poulsen and Dr. Rhomaios in the last few years uncovered only remains
 from historical times. There are, however, two hills at Calydon, and on
 the higher hill, the acropolis of Calydon, Mycenaean remains are found.
 They include a Mycenaean wall for fortification, and remains of two
 houses of which one is apsidal; also Mycenaean sherds are found in the
-earth. <span id="fr_369"></span>[3](#fn_369) This acropolis is still
+earth. <span id="fr_369"></span>[3](#fn_369.md) This acropolis is still
 left unexplored. The cursory observations which as yet are at our
 disposal show that Calydon was inhabited in the Mycenaean age. As there
 was a walled city with houses this settlement cannot have been
@@ -184,15 +184,15 @@ even here.
 
 ### Footnotes
 
-<span id="fn_367"></span>[186:1](mog12.htm#fr_367) H. R. Hall, *Aegean
+<span id="fn_367"></span>[186:1](mog12.htm#fr_367.md) H. R. Hall, *Aegean
 Archaeology* (1915), p. 190.
 
-<span id="fn_368"></span>[186:2](mog12.htm#fr_368) *Praktika* (1908), p.
+<span id="fn_368"></span>[186:2](mog12.htm#fr_368) *Praktika* (1908.md), p.
 9 *et seq*.
 
-<span id="fn_369"></span>[186:3](mog12.htm#fr_369) Kindly communicated
+<span id="fn_369"></span>[186:3](mog12.htm#fr_369.md) Kindly communicated
 by letter by Dr. Poulsen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Heracles](mog13)
+[Next: Chapter III. Heracles](mog13.md)

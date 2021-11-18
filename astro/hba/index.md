@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Astrology](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Astrology](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hba00)    [Page
-Index](pageidx)    [Text \[Zipped\]](hba.txt.gz)
+[Contents](#contents)    [Start Reading](hba00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](hba.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -74,22 +74,22 @@ and serves as an illustration of the state of occult publishing in
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](hba00)  
-[Chart](hba01)  
-[Contents](hba02)  
-[Introduction](hba03)  
-[Capricorn](hba04)  
-[Aquarius](hba05)  
-[Pisces](hba06)  
-[Aries](hba07)  
-[Taurus](hba08)  
-[Gemini](hba09)  
-[Cancer](hba10)  
-[Leo](hba11)  
-[Virgo](hba12)  
-[Libra](hba13)  
-[Scorpio](hba14)  
-[Sagittarius](hba15)  
+<span id="contents"></span> [Title Page](hba00.md)  
+[Chart](hba01.md)  
+[Contents](hba02.md)  
+[Introduction](hba03.md)  
+[Capricorn](hba04.md)  
+[Aquarius](hba05.md)  
+[Pisces](hba06.md)  
+[Aries](hba07.md)  
+[Taurus](hba08.md)  
+[Gemini](hba09.md)  
+[Cancer](hba10.md)  
+[Leo](hba11.md)  
+[Virgo](hba12.md)  
+[Libra](hba13.md)  
+[Scorpio](hba14.md)  
+[Sagittarius](hba15.md)  
 [The Hindu Yogis’ Rules For Attaining Health, Wealth And
-Happiness](hba16)  
-[Advertisements](hba17)  
+Happiness](hba16.md)  
+[Advertisements](hba17.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo40)  [Next](beo42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo40)  [Next](beo42.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ of his material by an edifying observation.
 
 ------------------------------------------------------------------------
 
-[Next: Part XLIII](beo42)
+[Next: Part XLIII](beo42.md)

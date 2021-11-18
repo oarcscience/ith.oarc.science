@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil05)  [Next](wil07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil05)  [Next](wil07.md) 
 
 ------------------------------------------------------------------------
 
@@ -387,4 +387,4 @@ her own Son!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Place of Woman in the National Life](wil07)
+[Next: Chapter V. The Place of Woman in the National Life](wil07.md)

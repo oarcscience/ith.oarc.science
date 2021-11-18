@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Next](ycw01) 
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Next](ycw01.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ All Rights Reserved.
 
 ------------------------------------------------------------------------
 
-[Next: Contents.](ycw01)
+[Next: Contents.](ycw01.md)

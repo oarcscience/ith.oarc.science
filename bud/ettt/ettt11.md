@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt10)  [Next](ettt12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt10)  [Next](ettt12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -45,14 +45,14 @@ The Jetsün Milarepa also said in his song:
 Milarepa said in another song:
 
 "I am so much afraid of the Eight
-Non-Freedoms[16](ettt22.htm#an_n_nar:16)<span id="an_r_nar:16"></span>  
- That I [continuously](errata.htm#18) think of the faults of Saṃsara  
+Non-Freedoms[16](ettt22.htm#an_n_nar:16.md)<span id="an_r_nar:16"></span>  
+ That I [continuously](errata.htm#18.md) think of the faults of Saṃsara  
  And the transiency of beings! <span id="page_132">p. 132</span>  
  I submit myself completely to the care of the Three Precious Ones!  
  I strictly discipline myself in all karmic doings.  
  By repeatedly practising the Heart-for-Bodhi,  
  I dispel the enduring shadow of
-Habitual-Thinking[17](ettt22.htm#an_n_nar:17)<span
+Habitual-Thinking[17](ettt22.htm#an_n_nar:17.md)<span
 id="an_r_nar:17"></span>,  
  Realizing that all the manifestations are delusory magic  
  Of the Three Miserable Paths, I have no fear nor alarm!"
@@ -66,28 +66,28 @@ all the teachings is the preparation work, or the "Common Foundation of
 All Practice."
 
 In the second group of teachings, the extraordinary
-[preparations](errata.htm#19) for the Supreme Vehicle, there are also
+[preparations](errata.htm#19.md) for the Supreme Vehicle, there are also
 two types of preparations, the general and the special. The general
 preparation for the Supreme Vehicle means to attain a complete
 initiation, and to observe the precepts of Tantra. I want to expound the
 attainment of initiation first.
 
 According to the tradition of the Marpa lineage, as demonstrated by
-Me-sdon and Ngo-sdon[18](ettt22.htm#an_n_nar:18)<span
+Me-sdon and Ngo-sdon[18](ettt22.htm#an_n_nar:18.md)<span
 id="an_r_nar:18"></span>, whoever aspires to the practice of the Arising
 Yoga and of the Secret Doctrine Perfect
-Yoga[19](ettt22.htm#an_n_nar:19)<span id="an_r_nar:19"></span> must
+Yoga[19](ettt22.htm#an_n_nar:19.md)<span id="an_r_nar:19"></span> must
 first obtain the complete Four Initiations. When Milarepa first saw
 Gambopa, he asked Gambopa whether he had obtained the complete
 initiations before importing to him the teachings of the Six Yogas.
 Gambopa said, "Like a fine copper utensil ready for filling with butter,
 I am quite ready." Thereupon, Milarepa bestowed upon him the teachings
-and Pith Instructions[20](ettt22.htm#an_n_nar:20)<span
+and Pith Instructions[20](ettt22.htm#an_n_nar:20.md)<span
 id="an_r_nar:20"></span>. Milarepa also urged Gambopa to encourage
 
 <span id="img_pl04"></span> <span align="CENTER"> [![PLATE
 IV](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 PLATE IV  
 </span>
 
@@ -165,7 +165,7 @@ great and complete Initiation is necessary, as admonished in many
 Tantras and by many learned and accomplished teachers.
 
 Having attained the Initiation of
-Hevajra[21](ettt22.htm#an_n_nar:21)<span id="an_r_nar:21"></span>, if
+Hevajra[21](ettt22.htm#an_n_nar:21.md)<span id="an_r_nar:21"></span>, if
 one can also obtain the initiation of Bde-mchog, it will be very useful
 to him, because these two teachings are very closely connected with each
 other.
@@ -176,7 +176,7 @@ The explanation for the necessity of observing the Tantra precepts
 follows.
 
 During the ceremony when the Guru and all the Buddhas’
-Sons[22](ettt22.htm#an_n_nar:22)<span id="an_r_nar:22"></span> imparted
+Sons[22](ettt22.htm#an_n_nar:22.md)<span id="an_r_nar:22"></span> imparted
 the initiation to the disciple, the disciple had sworn to observe the
 precepts and to follow all the admonishments. Having been shown how the
 precepts should be observed in the initiation ceremony, he was made
@@ -204,7 +204,7 @@ will never attain any accomplishments—even if he practises a long time.
 
 If he has attained the teachings of the Highest Division of Tantra and
 claims to be a Tantric Yogi, he must know the Fundamental and Secondary
-Precepts of Tantricism[23](ettt22.htm#an_n_nar:23)<span
+Precepts of Tantricism[23](ettt22.htm#an_n_nar:23.md)<span
 id="an_r_nar:23"></span>. Therefore, he should discipline himself well
 and observe the precepts carefully.
 
@@ -213,7 +213,7 @@ After these general preparations we now consider
 <span id="page_136">p. 136</span>
 
 special preparations, which are the supreme preparation practice. After
-the disciple has learned the necessary [supreme](errata.htm#20)
+the disciple has learned the necessary [supreme](errata.htm#20.md)
 preparation practices such as the general virtuous deeds, the attainment
 of Initiation, and the observation of Tantric Precepts, he should then
 begin the essential Tantric practice: the *Guru Yoga*, *Vajrasattva
@@ -230,7 +230,7 @@ He should earnestly devote himself to taking refuge in the Three
 Precious Ones like a hunted prey. He should also think of his fellow
 men, the infinite sentient beings, who are drowned in the ocean of
 suffering with him. As a matter of fact, they were all once his own
-mothers[24](ettt22.htm#an_n_nar:24)<span id="an_r_nar:24"></span>. Hence
+mothers[24](ettt22.htm#an_n_nar:24.md)<span id="an_r_nar:24"></span>. Hence
 he should remind himself of the immense debt of gratitude that he owes
 them—think how much work has to be done by a mother to bring up a child;
 think how a mother protects her child from dangers, illness, hunger. By
@@ -255,7 +255,7 @@ of the Essence of Adornment says:
  Holding the Thunderbolt and Bell with all ornaments.  
  A devotee should visualize the Vajrasattva in this manner.  
  He should also practice the Incantation of the Hundred
-Words[25](ettt22.htm#an_n_nar:25)<span id="an_r_nar:25"></span>  
+Words[25](ettt22.htm#an_n_nar:25.md)<span id="an_r_nar:25"></span>  
  For twenty times in one performance.  
  By doing this, even the sinful ones will be blessed."
 
@@ -277,7 +277,7 @@ Visualize a white lotus on the top of your head. In the center of the
 lotus is an *Ah* word which is transformed into a Moon Wheel. Upon the
 Moon Wheel stands a *Hūṃ* word, which transforms into a Thunderbolt, and
 from this Thunderbolt's lower part a *Hūṃ* word radiates infinite beams
-of light (by which the Two Acts[26](ettt22.htm#an_n_nar:26)<span
+of light (by which the Two Acts[26](ettt22.htm#an_n_nar:26.md)<span
 id="an_r_nar:26"></span> are performed). It shines forth reaching to the
 Buddha's Pure Land and
 
@@ -286,7 +286,7 @@ Buddha's Pure Land and
 renders offerings and services. Then it returns and shines downwards
 into the lower Lokas to relieve the sufferings of the sentient beings.
 Then the light retracts to the *Hūṃ* word and instantaneously becomes
-the [Buddha](errata.htm#21) Vajrasattva—his body is white, his right
+the [Buddha](errata.htm#21.md) Vajrasattva—his body is white, his right
 hand holds a Thunderbolt, and his left hand holds a bell. He also holds
 the Mother Buddha, the White Mother of Elegance. She has all the
 ornaments adorning her body and holds the Curved Knife and Human Skull.
@@ -336,7 +336,7 @@ steadily increases, beams of light emanate from this incantation-spin
 and shine upon the bodies of all sentient beings, cleansing their sins
 and removing obstacles. The light again travels to the myriads of
 Buddha's Pure Land, rendering offerings to the Buddhas and gathering the
-wave of grace <span id="fr_7"></span>[\*](#fn_7) from Buddha's body,
+wave of grace <span id="fr_7"></span>[\*](#fn_7.md) from Buddha's body,
 mouth, and mind before returning to the incantation letters. (Through
 this inspiration) a stream of pure nectar begins to flow out from the
 body of Vajrasattva. It flows into your body through the Pure Gate on
@@ -352,9 +352,9 @@ squeezed out and washed away. The body is filled with nothing but the
 pure and clean nectar. Thereupon, with a confidence of benefiting others
 and self, you should recite the incantation. When the recitation is
 finished, the devotee should apply the principle of the Four Mighty
-Ways[27](ettt22.htm#an_n_nar:27)<span id="an_r_nar:27"></span> to
+Ways[27](ettt22.htm#an_n_nar:27.md)<span id="an_r_nar:27"></span> to
 confess all his sins and wrong doings to Buddha. Then he should think
-that all his sins of the Three Wheels[28](ettt22.htm#an_n_nar:28)<span
+that all his sins of the Three Wheels[28](ettt22.htm#an_n_nar:28.md)<span
 id="an_r_nar:28"></span>—the sin, sinner, and the act of sin—are
 cleansed thereby.
 
@@ -380,17 +380,17 @@ In order to obtain blessing and grace from the Guru, the instructions
 for the practice of Guru Yoga are given as follows:
 
 1\. To view the Guru as the Field of
-Merits[29](ettt22.htm#an_n_nar:29)<span id="an_r_nar:29"></span>.
+Merits[29](ettt22.htm#an_n_nar:29.md)<span id="an_r_nar:29"></span>.
 
 <span id="page_141">p. 141</span>
 
 2\. To serve and revere the Guru.
 
-1\. The disciple should think that in the [firmament](errata.htm#22) in
+1\. The disciple should think that in the [firmament](errata.htm#22.md) in
 front of him there is a lion-shaped seat of gems with lotus-moon
 cushions upon it. On this sits his own Guru, who is the embodiment of
 the Thunderbolt-Holder, the Great Rdo-rje-chang, the Primordial Buddha
-of the Six Buddhas[30](ettt22.htm#an_n_nar:30)<span
+of the Six Buddhas[30](ettt22.htm#an_n_nar:30.md)<span
 id="an_r_nar:30"></span>. His blue body has one face and two arms. His
 right hand holds the Thunderbolt and his left hand holds the bell. With
 heavenly clothes and jewels adorning his body, he embraces the Mother
@@ -429,7 +429,7 @@ offerings and to purify the disciples’ sins. In the ordinary practice
 when one renders the offerings to Buddha, no doubt he attains the due
 merits of serving the Buddhas; however, he cannot be assured that the
 Buddha will actually come and accept his
-offerings[31](ettt22.htm#an_n_nar:31)<span id="an_r_nar:31"></span>.
+offerings[31](ettt22.htm#an_n_nar:31.md)<span id="an_r_nar:31"></span>.
 Therefore, we know that the very best Merit-Field is one's own Guru.
 Thus, we should regard the Guru as the embodiment of all Tathagatas,
 possessing all the merits. In this manner, a pure faith toward one's
@@ -457,13 +457,13 @@ One should know that among all the offerings and services,
 
 these made to one's Guru are the best. Hence, with great faith, one
 ought to make the best effort to serve one's Guru. The practice of
-Mandala[32](ettt22.htm#an_n_nar:32)<span id="an_r_nar:32"></span> (a
+Mandala[32](ettt22.htm#an_n_nar:32.md)<span id="an_r_nar:32"></span> (a
 ritual of offering) is briefly expounded as follows: The Mandal, of clay
 or gems, should be smeared with incense and the Five Nectars. The Yogi
 then recite the invocation: *Oṃ Ba-tsa Bume Ah Hūṃ!* By reciting this
 invocation the great iron wall is laid up. Within the enclosure of the
 great iron wall are spread clusters of gorgeous flowers, from which
-emanate the fragrance of perfume and the [agreeable](errata.htm#23) odor
+emanate the fragrance of perfume and the [agreeable](errata.htm#23.md) odor
 of the Five Nectars. In the center of the earth looms the great Sumeru
 Mountain; encircling the Sumeru Mountain are the Four Continents—the
 East, South, West, and North; and between the continents are scattered
@@ -482,7 +482,7 @@ others in past, present, and future to the Gurus and Deities. I pray you
 to pity me, to accept my offer, and to grant me your blessing." Thus the
 yogi should pray. He should also render the Outer Offerings, the flowers
 and so on; the Inner Offerings, the offerings of nectars; and the Secret
-Offerings[33](ettt22.htm#an_n_nar:33)<span id="an_r_nar:33"></span>.
+Offerings[33](ettt22.htm#an_n_nar:33.md)<span id="an_r_nar:33"></span>.
 Thus he should praise Buddha and take Tantric precepts, both
 
 <span id="page_144">p. 144</span>
@@ -499,12 +499,12 @@ his body wholly. The defilements and sins of body, speech, and mind are
 thus cleansed, and the Vase Secret and Wisdom Initiations are attained.
 
 The Yogi should also think that he has attained the accomplishments of
-the Three Vajras[34](ettt22.htm#an_n_nar:34)<span
+the Three Vajras[34](ettt22.htm#an_n_nar:34.md)<span
 id="an_r_nar:34"></span>. Thereupon, from the Three Places of the Guru
 simultaneously emanate the Three Lights. They enter into the body
-through all the gates[35](ettt22.htm#an_n_nar:35)<span
+through all the gates[35](ettt22.htm#an_n_nar:35.md)<span
 id="an_r_nar:35"></span>. By means of these lights, the subtle
-defilements[36](ettt22.htm#an_n_nar:36)<span id="an_r_nar:36"></span> of
+defilements[36](ettt22.htm#an_n_nar:36.md)<span id="an_r_nar:36"></span> of
 the body, speech and mind are cleansed; the fourth initiation is thus
 attained by the Yogi. The Yogi should think that he has attained the
 Accomplishment of the Identity of the Three Vajras.
@@ -531,7 +531,7 @@ meditation, especially at the beginning.
 
 ### Footnotes
 
-<span id="fn_7"></span>[139:\*](ettt11.htm#fr_7) This term is common
+<span id="fn_7"></span>[139:\*](ettt11.htm#fr_7.md) This term is common
 also in the initiation rituals. It is a term from the Hindu Tantra.
 *Ed*.
 
@@ -539,6 +539,6 @@ also in the initiation rituals. It is a term from the Hindu Tantra.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three: The Arising and Perfecting Yoga](ettt12)
+[Next: Chapter Three: The Arising and Perfecting Yoga](ettt12.md)
 
 </div>

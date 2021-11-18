@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr02)  [Next](sdr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr02)  [Next](sdr04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ impossibility of an
 
 <span id="img_fig03"></span> <span align="CENTER"> [![Figure 3. Symbol
 of the Infinite Unmanifest](tn/fig03.jpg)  
-Click to enlarge](img/fig03.jpg)  
+Click to enlarge](img/fig03.jpg.md)  
 Figure 3. Symbol of the Infinite Unmanifest  
 </span>
 
@@ -627,4 +627,4 @@ nature of the Infinite Essence of Being!
 
 ------------------------------------------------------------------------
 
-[Next: Part III. The Soul of the World](sdr04)
+[Next: Part III. The Soul of the World](sdr04.md)

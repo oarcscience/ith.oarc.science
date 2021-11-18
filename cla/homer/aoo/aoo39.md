@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo38)  [Next](aoo40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo38)  [Next](aoo40.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ found them sleeping side by side.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII](aoo40)
+[Next: Chapter XVII](aoo40.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](twi00)    [Page
-Index](pageidx)    [Text \[Zipped\]](twi.txt.gz)
+[Contents](#contents)    [Start Reading](twi00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](twi.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -54,49 +54,49 @@ the sacred-texts version.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](twi00)  
-[The Hosting Of The Sidhe](twi01)  
-[Contents](twitoc)  
-[This Book](twi02)  
-[A Teller Of Tales](twi03)  
-[Belief And Unbelief](twi04)  
-[Mortal Help](twi05)  
-[A Visionary](twi06)  
-[Village Ghosts](twi07)  
-['Dust Hath Closed Helen's Eye'](twi08)  
-[A Knight Of The Sheep](twi09)  
-[An Enduring Heart](twi10)  
-[The Sorcerers](twi11)  
-[The Devil](twi12)  
-[Happy And Unhappy Theologians](twi13)  
-[The Last Gleeman](twi14)  
-[Regina, Regina Pigmeorum, Veni](twi15)  
-['And Fair, Fierce Women'](twi16)  
-[Enchanted Woods](twi17)  
-[Miraculous Creatures](twi18)  
-[Aristotle Of The Books](twi19)  
-[The Swine Of The Gods](twi20)  
-[A Voice](twi21)  
-[Kidnappers](twi22)  
-[The Untiring Ones](twi23)  
-[Earth, Fire And Water](twi24)  
-[The Old Town](twi25)  
-[The Man And His Boots](twi26)  
-[A Coward](twi27)  
-[The Three O'Byrnes And The Evil Faeries](twi28)  
-[Drumcliff And Rosses](twi29)  
-[The Thick Skull Of The Fortunate](twi30)  
-[The Religion Of A Sailor](twi31)  
+<span id="contents"></span> [Title Page](twi00.md)  
+[The Hosting Of The Sidhe](twi01.md)  
+[Contents](twitoc.md)  
+[This Book](twi02.md)  
+[A Teller Of Tales](twi03.md)  
+[Belief And Unbelief](twi04.md)  
+[Mortal Help](twi05.md)  
+[A Visionary](twi06.md)  
+[Village Ghosts](twi07.md)  
+['Dust Hath Closed Helen's Eye'](twi08.md)  
+[A Knight Of The Sheep](twi09.md)  
+[An Enduring Heart](twi10.md)  
+[The Sorcerers](twi11.md)  
+[The Devil](twi12.md)  
+[Happy And Unhappy Theologians](twi13.md)  
+[The Last Gleeman](twi14.md)  
+[Regina, Regina Pigmeorum, Veni](twi15.md)  
+['And Fair, Fierce Women'](twi16.md)  
+[Enchanted Woods](twi17.md)  
+[Miraculous Creatures](twi18.md)  
+[Aristotle Of The Books](twi19.md)  
+[The Swine Of The Gods](twi20.md)  
+[A Voice](twi21.md)  
+[Kidnappers](twi22.md)  
+[The Untiring Ones](twi23.md)  
+[Earth, Fire And Water](twi24.md)  
+[The Old Town](twi25.md)  
+[The Man And His Boots](twi26.md)  
+[A Coward](twi27.md)  
+[The Three O'Byrnes And The Evil Faeries](twi28.md)  
+[Drumcliff And Rosses](twi29.md)  
+[The Thick Skull Of The Fortunate](twi30.md)  
+[The Religion Of A Sailor](twi31.md)  
 [Concerning The Nearness Together Of Heaven, Earth, And
-Purgatory](twi32)  
-[The Eaters Of Precious Stones](twi33)  
-[Our Lady Of The Hills](twi34)  
-[The Golden Age](twi35)  
+Purgatory](twi32.md)  
+[The Eaters Of Precious Stones](twi33.md)  
+[Our Lady Of The Hills](twi34.md)  
+[The Golden Age](twi35.md)  
 [A Remonstrance with Scotsmen for Having Soured the Disposition of Their
-Ghosts and Faeries](twi36)  
-[War](twi37)  
-[The Queen And The Fool](twi38)  
-[The Friends Of The People Of Faery](twi39)  
-[Dreams That Have No Moral](twi40)  
-[By The Roadside](twi41)  
-[Into The Twilight](twi42)  
+Ghosts and Faeries](twi36.md)  
+[War](twi37.md)  
+[The Queen And The Fool](twi38.md)  
+[The Friends Of The People Of Faery](twi39.md)  
+[Dreams That Have No Moral](twi40.md)  
+[By The Roadside](twi41.md)  
+[Into The Twilight](twi42.md)  

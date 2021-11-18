@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh21)  [Next](seh23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh21)  [Next](seh23.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,7 +112,7 @@ she had known as boys, bent over her and with his brow to hers, half
 spoke, half whispered the words that the Hindu loves to hear in his last
 hour--*Om Ganga Narayana! Om Ganga Narayana Brahma!* A moment more, and
 then with one voice from the circle of watchers came the [shout
-of](errata.htm#3) *Haribol!* for the last breath had gone. The spirit of
+of](errata.htm#3.md) *Haribol!* for the last breath had gone. The spirit of
 Gopaler-Ma had taken flight, and only the garment of flesh was left
 behind.
 
@@ -125,4 +125,4 @@ indeed at the moment of dawn, on the very turn of the outgoing tide.
 
 ------------------------------------------------------------------------
 
-[Next: The Indian Ash, or Tree of Healing](seh23)
+[Next: The Indian Ash, or Tree of Healing](seh23.md)

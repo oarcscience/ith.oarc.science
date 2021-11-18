@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa03) [Next](rsa05)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa03) [Next](rsa05.md)
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ respecting a heavenly lord:—
 > <span id="page_119">p. 119</span>
 >
 >  There is a bird of heaven;<span
-> id="page_119_fr_30"></span>[30](#page_119_note_30) it too is killed;
+> id="page_119_fr_30"></span>[30](#page_119_note_30.md) it too is killed;
 > it comes down when the lightning strikes the earth, and remains on the
 > ground; but neither is it said to be the lord; it is not very clear
 > which is meant by lord, the lightning, or the lord which is in heaven.
@@ -91,7 +91,7 @@ respecting a heavenly lord:—
 the royal family, the names of ancient chiefs. But Ugukqabadele <span
 id="page_120">p. 120</span> is said to be a new name, invented for that
 Lord of heaven of whom the white man speaks to them. It means the
-Unconquerable (see [p. 114](rsa03.htm#page_114)). This is explained in
+Unconquerable (see [p. 114](rsa03.htm#page_114).md). This is explained in
 the following account:—
 
 >  As regards the saying, "The heaven of Upunga and of Umageba and
@@ -183,7 +183,7 @@ big as this, (placing his hand six feet above the ground;) but for my
 part I only grew as high as this, (placing his hand about a foot and a
 half from it.) By this he meant to say that I was not born like other
 men, but came out of the ground, like Unkulunkulu.<span
-id="page_123_fr_31"></span>[31](#page_123_note_31)
+id="page_123_fr_31"></span>[31](#page_123_note_31.md)
 
 <span id="page_124">p. 124</span>
 
@@ -200,13 +200,13 @@ Nyassa, informs me that among them the Rainbow is called Umlungu, that
 is, God; for Umlungu is the word they there use for the Supreme Being
 and supernatural powers. They also call the Supreme Being Lisoka, the
 Invisible, when they wish to distinguish him from the Rainbow.<span
-id="page_124_fr_32"></span>[32](#page_124_note_32)—Among the Dahomans,
+id="page_124_fr_32"></span>[32](#page_124_note_32.md)—Among the Dahomans,
 the Rainbow is worshipped <span id="page_125">p. 125</span> under the
 name of Danh, the heavenly snake. (*Burton, Op. cit., p.* 148.)
 
 ------------------------------------------------------------------------
 
-[Next](rsa05)
+[Next](rsa05.md)
 
 ------------------------------------------------------------------------
 
@@ -214,7 +214,7 @@ name of Danh, the heavenly snake. (*Burton, Op. cit., p.* 148.)
 
 <span id="footnotes_page_119">p. 119</span>
 
- <span id="page_119_note_30"></span>[30](#page_119_fr_30) "The bird of
+ <span id="page_119_note_30"></span>[30](#page_119_fr_30.md) "The bird of
 heaven" is a bird which is said to descend from the sky when it
 thunders, and to be found in the neighbourhood of the place where the
 lightning has struck. The heaven-doctors place a large vessel of amasi
@@ -234,10 +234,10 @@ this bird.
 
 <span id="footnotes_page_123">p. 123</span>
 
- <span id="page_123_note_31"></span>[31](#page_123_fr_31) Arbousset
+ <span id="page_123_note_31"></span>[31](#page_123_fr_31.md) Arbousset
 appears to have noticed a similar custom. Yet his statement may have
 been made from not understanding the meaning of such phrases as "Inkosi
-yohlanga " (see [Note 30, p. 14](rsa01.htm#page_14_note_30)):—"They
+yohlanga " (see [Note 30, p. 14](rsa01.htm#page_14_note_30).md):—"They
 <span id="footnotes_page_124">p. 124</span> have no idol but he; it is
 before him, literally, that they prostrate themselves. He grants them
 permission to live, or he slaughters them according to his caprice. Can
@@ -251,7 +251,7 @@ but from Uzulu, an ancient chief. He, however, may have obtained that
 name from the ascription to him of heavenly power. U-izulu, Thou art the
 heaven, became soon converted into the proper name, Uzulu.
 
- <span id="page_124_note_32"></span>[32](#page_124_fr_32) In Rowley's
+ <span id="page_124_note_32"></span>[32](#page_124_fr_32.md) In Rowley's
 *Story of the Universities' Mission to Central Africa* we find the
 following account of the religion of the people in the neighbourhood of
 Lake Nyassa:—

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr20)  [Next](corr22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr20)  [Next](corr22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -34,7 +34,7 @@ letter hardly seem sufficient to settle the matter, or to quiet the
 human mind. For if we men are, in all our actions, moral as well as
 natural, under the power of God, like clay in the hands of the potter,
 with what face can any of us be accused of doing this or that,
-[seeing](errata.htm#0) that it was impossible for him to do otherwise?
+[seeing](errata.htm#0.md) that it was impossible for him to do otherwise?
 Should we not be able to cast all responsibility on God? Your inflexible
 fate, and your irresistible power, compel us to act in a given manner,
 nor can we possibly act otherwise. Why, then, and by what right do you
@@ -71,4 +71,4 @@ London, 14 Jan., 1676.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXV. To Oldenburg](corr22)
+[Next: Letter XXV. To Oldenburg](corr22.md)

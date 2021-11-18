@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](kyog04)  [Next](kyog06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](kyog04)  [Next](kyog06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Karma-Yoga*, by Swami Vivekananda, \[1921\], at Intangible Textual
 Heritage
 
@@ -253,7 +253,7 @@ straighten it out, for hundreds of years; but when they let it go, it
 has curled up again. How could it be otherwise? One must first know how
 to work without attachment, then he will not be a fanatic. When we know
 that this world is like a dog's curly tail and will never get
-[straightened](errata.htm#2), we shall not become fanatics. If there
+[straightened](errata.htm#2.md), we shall not become fanatics. If there
 were no fanaticism in the world it would make much more progress than it
 does now. It is a mistake to think that fanaticism can make for the
 progress of mankind. On the contrary it is a retarding element creating
@@ -300,6 +300,6 @@ shall we love and the better will our work be.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Non-Attachment Is Complete Self-Abnegation](kyog06)
+[Next: Chapter VI. Non-Attachment Is Complete Self-Abnegation](kyog06.md)
 
 </div>

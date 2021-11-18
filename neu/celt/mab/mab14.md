@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab13)  [Next](mab15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab13)  [Next](mab15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -23,13 +23,13 @@ Textual Heritage
 ### NOTES TO GERAINT THE SON OF ERBIN.
 
 <span id="xref_141a">141a</span> EASTER--CHRISTMAS--WHITSUNTIDE.--*Page*
-[141](mab13.htm#page_141).
+[141](mab13.htm#page_141.md).
 
 RITSON, in a note to his "Metrical Romancëes," mentions, that our early
 historians, as Roger Hoveden, Matthew Paris, &c., often advert to the
 custom of the ancient monarchs of France and England, of holding a cour
 plénière, or plenary court, at the three principal
-[feasts](errata.htm#2) of Easter, Whitsuntide, and Christmas. On those
+[feasts](errata.htm#2.md) of Easter, Whitsuntide, and Christmas. On those
 occasions "they were attended by the earls and barons of the kingdom,
 their ladys and children; who dine'd at the royal table with great pomp
 and eclat; minstrels flocking thither from all parts; justs and
@@ -42,7 +42,7 @@ Sulgwyn," are commemorated as such in one of the Triads, lvii.
  
 
 <span id="xref_141b">141b</span> CHURCHES WERE SET APART FOR
-MASS.--*Page* [141](mab13.htm#page_141).
+MASS.--*Page* [141](mab13.htm#page_141.md).
 
 IN another part of this work, the word Offeren is rendered *offering*;
 but here it has been thought advisable to use the more general term
@@ -63,7 +63,7 @@ That she was out of alle charitee."
  
 
 <span id="xref_141c">141c</span> STEWARD OF THE HOUSEHOLD.--*Page*
-[141](mab13.htm#page_141).
+[141](mab13.htm#page_141.md).
 
 HE was the chief of all the officers of the Court, who had each to pay
 him a fee of twenty-four pence upon their installation. On him devolved
@@ -78,7 +78,7 @@ from the master of the hawks, every feast of St. Michael."--Welsh Laws.
  
 
 <span id="xref_141d">141d</span> MASTER OF THE HOUSEHOLD.--*Page*
-[141](mab13.htm#page_141).
+[141](mab13.htm#page_141.md).
 
 THE post of Master of the Household was one of much honour and
 distinction; and in the Laws of Howel Dda it is ordained that it should
@@ -104,7 +104,7 @@ nails.
 <span id="page_187">p. 187</span>
 
 <span id="xref_142a">142a</span> GRYNN, AND PEN PIGEON, &c.--*Page*
-[142](mab13.htm#page_142).
+[142](mab13.htm#page_142.md).
 
 THESE personages appear to have received their names altogether from the
 office which they held; and we cannot expect to find any very authentic
@@ -133,7 +133,7 @@ others of the Mabinogion, where they will be more particularly noticed.
  
 
 <span id="xref_142b">142b</span> DIAPERED SATIN.--*Page*
-[142](mab13.htm#page_142).
+[142](mab13.htm#page_142.md).
 
 HAVE ventured thus to translate the words Pali caerawg," though the
 strict meaning of "caerawg" is "mural"; and Dr. Owen Pughe, in his
@@ -160,7 +160,7 @@ Covered with cloth of gold diapred wele."
 <span id="page_188">p. 188</span>
 
 <span id="xref_142c">142c</span> FOREST OF DEAN.--*Page*
-[142](mab13.htm#page_142).
+[142](mab13.htm#page_142.md).
 
 THE history of the Forest of Dean is much too interesting and important
 to be compressed within the limits of a note; the very derivation of its
@@ -170,7 +170,7 @@ taken up their residence there; and Giraldus Cambrensis appears to have
 inclined to this opinion, at least if we may judge from the name by
 which he designates it, Danubiæ Sylva, which is similar to that used by
 Asser Menevensis, in speaking of Denmark. <span
-id="fr_50"></span>[1](#fn_50) It argues, however, greatly against this
+id="fr_50"></span>[1](#fn_50.md) It argues, however, greatly against this
 etymology, that Dean was a common name in forests among the Celts, both
 of Britain and Gaul. Besides Ardennes in France, and Arden in
 Warwickshire, many forest towns still bear the appellation, as Dean in
@@ -217,7 +217,7 @@ perpetuate the recollection of its origin.
  
 
 <span id="xref_142d">142d</span> CHIEF HUNTSMAN.--*Page*
-[142](mab13.htm#page_142).
+[142](mab13.htm#page_142.md).
 
 IN the Laws of Howel Dda, this important personage ranks as the tenth
 officer of the Court, and his duties and immunities are very clearly
@@ -241,7 +241,7 @@ was three hornfuls of liquor and a dish of meat. The value of his horn
 was one pound, and it was to be of buffalo-horn (buelin).
 
 <span id="xref_142e">142e</span> CHIEF PAGE.--*Page*
-[142](mab13.htm#page_142).
+[142](mab13.htm#page_142.md).
 
 THE Chief Page, or Penn Mackwy, appears to have been the officer
 designated in the Welsh Laws as the Gwas Ystavell, and, as that name
@@ -258,7 +258,7 @@ festivals, acted as cupbearer to the king.
 
 <span id="xref_142f">142f</span> GWENHWYVAR SAID TO ARTHUR, "WILT THOU
 PERMIT ME, LORD TO GO TO-MORROW TO SEE AND HEAR THE HUNT OF THE
-STAG?"--*Page* [142](mab13.htm#page_142).
+STAG?"--*Page* [142](mab13.htm#page_142.md).
 
 IT was formerly very customary for ladies to join in the pleasures of
 the chase; and Strutt informs us that when they did so it was usual to
@@ -281,7 +281,7 @@ of their own.--Sports and Pastimes, p. 12.
  
 
 <span id="xref_143a">143a</span> GIVE IT TO WHOM HE PLEASES.--*Page*
-[143](mab13.htm#page_143).
+[143](mab13.htm#page_143.md).
 
 GAWAIN (Gwalchmai) gives a different counsel in the French Romance of
 Eric and Enide, and endeavours to dissuade the King from the hunting of
@@ -322,12 +322,12 @@ resolution once declared:
  
 
 <span id="xref_143b">143b</span> CADYRNERTH THE SON OF PORTHAWR
-GANDWY.--*Page* [143](mab13.htm#page_143).
+GANDWY.--*Page* [143](mab13.htm#page_143.md).
 
 CADYRNERTH the son of Porthawr Gandwy appears to have been a very
 courtly personage, and a man of most polished manners; as in one Triad
 we find him ranked with the courteous Gwalchmai for his urbanity towards
-guests and strangers; <span id="fr_51"></span>[1](#fn_51) and in another
+guests and strangers; <span id="fr_51"></span>[1](#fn_51.md) and in another
 he is said to have preferred residing with King Arthur to exercising the
 sovereignty over his own dominions, which was, doubtless, in some
 measure because the refined habits of the Court were more congenial to a
@@ -335,11 +335,11 @@ person of his cultivation and taste.
 
 "The three sovereigns of the Court of Arthur, Goronwy the son of Echel
 Vorddwytwll, and Cadreith the son of Porthfawr Gadw, and Ffleidwr Fflam
-the son of Godo; <span id="fr_52"></span>[2](#fn_52) because they were
+the son of Godo; <span id="fr_52"></span>[2](#fn_52.md) because they were
 princes possessing territory and dominion, and in preference to which
 they remained as knights in the Court of Arthur, as that was considered
 the chief of honour and gentility in the opinion of the Three Just
-Knights." <span id="fr_53"></span>[3](#fn_53)
+Knights." <span id="fr_53"></span>[3](#fn_53.md)
 
 Nor is this characteristic lost sight of in the present Tale, for, a
 little further on, while every one else is engrossed by the pleasures of
@@ -355,16 +355,16 @@ the scholars of the Court to attend her.
  
 
 <span id="xref_143c">143c</span> GOREU THE SON OF CUSTENNIN.--*Page*
-[143](mab13.htm#page_143).
+[143](mab13.htm#page_143.md).
 
 HE is recorded as the deliverer of Arthur from the three imprisonments
 assigned to him in the Triads.
 
 "The three supreme prisoners of the Island of Britain, Llyr Liediaith,
-in the prison of Euroswydd Wledig, <span id="fr_54"></span>[1](#fn_54)
-and Madoc, or Mabon, <span id="fr_55"></span>[2](#fn_55) son of Modron,
+in the prison of Euroswydd Wledig, <span id="fr_54"></span>[1](#fn_54.md)
+and Madoc, or Mabon, <span id="fr_55"></span>[2](#fn_55.md) son of Modron,
 and Geyr the son of Geyrybed, or Geiryoed; <span
-id="fr_56"></span>[2](#fn_55) and one more exalted than the three, and
+id="fr_56"></span>[2](#fn_55.md) and one more exalted than the three, and
 that was Arthur, who was for three nights in the Castle of Oeth and
 Anoeth, and three nights in the prison of Wen Pendragon, and three
 nights in the dark prison under the stone ------ And one youth released
@@ -381,7 +381,7 @@ known to have taken place.--Tr. 61.
  
 
 <span id="xref_144a">144a</span> HEAVEN PROSPER THEE, GERAINT.--*Page*
-[144](mab13.htm#page_144).
+[144](mab13.htm#page_144.md).
 
 THE name of Geraint ab Erbin is familiar to all lovers of ancient Welsh
 literature, through the beautiful Elegy composed on him by his fellow
@@ -412,7 +412,7 @@ And warriors blood-stained from the assault of Geraint.
 
 At Llongborth was Geraint slain,  
 A valiant warrior from the woodlands of Devon,  
-Slaughtering his foes as he fell." <span id="fr_57"></span>[1](#fn_56)
+Slaughtering his foes as he fell." <span id="fr_57"></span>[1](#fn_56.md)
 
 Llongborth, where this fatal conflict took place, is by some believed to
 have been Portsmouth, and the name literally signifies the Haven of
@@ -447,7 +447,7 @@ have already seen, fell at Llongborth, in
 
 an encounter with the Saxons, which must have taken place at an earlier
 period of that monarch's reign;--according to Dr. O. Pughe, about the
-year 530. <span id="fr_58"></span>[1](#fn_57)
+year 530. <span id="fr_58"></span>[1](#fn_57.md)
 
 In the Life of Saint Teiliaw, the second bishop of Llandaff, mention
 occurs of a person named Gerennius, and an account is given of his
@@ -458,7 +458,7 @@ legendary a character to be received as history, especially in
 opposition to the testimony of an eye-witness. In this composition, it
 is stated that Saint Teiliaw, when retiring to Armorica with a number of
 his countrymen, in order to escape from a pestilence, called Pestis
-Flava, <span id="fr_59"></span>[2](#fn_58) which was then desolating
+Flava, <span id="fr_59"></span>[2](#fn_58.md) which was then desolating
 Britain, was, on his way, hospitably entertained by Gerennius, or
 Geraint, King of Cornwall, to whom, on his departure, the Saint
 confidently promised that he should not die until he had received the
@@ -474,16 +474,16 @@ scarcely move it from its place, the Saint instructed them that it
 should, by Divine assistance, he conveyed across the sea before the prow
 of the ship; which was accordingly done, and the sarcophagus reached the
 shore without the intervention of human aid. Having landed at the port
-called Dingerein, <span id="fr_60"></span>[3](#fn_59) Teiliaw proceeded
+called Dingerein, <span id="fr_60"></span>[3](#fn_59.md) Teiliaw proceeded
 forthwith to visit the King, whom be found still alive, but who, after
 the ministration of the Holy Ordinance, immediately expired; and his
 remains were placed by the Saint in the above-mentioned
-sarcophagus. <span id="fr_61"></span>[4](#fn_60)
+sarcophagus. <span id="fr_61"></span>[4](#fn_60.md)
 
 <span id="page_195">p. 195</span>
 
 <span id="xref_148a">148a</span> SPARROW-HAWK.--*Page*
-[148](mab13.htm#page_148).
+[148](mab13.htm#page_148.md).
 
 A SIMILAR prize was contended for at the nuptials of Maximilian and Mary
 of Burgundy, when there were great jousts and rejoicing. In the very
@@ -496,7 +496,7 @@ consistait en un faucon d'or."
  
 
 <span id="xref_151a">151a</span> THAT THOU WILT GO TO
-GWENHWYVAR.--*Page* [151](mab13.htm#page_151).
+GWENHWYVAR.--*Page* [151](mab13.htm#page_151.md).
 
 THIS custom of sending a conquered foe as a present to the victorious
 knight's lady-love forms a frequent incident in chivalric Romances. It
@@ -515,7 +515,7 @@ Mais je feray de toy un present a ma mie."
  
 
 <span id="xref_151b">151b</span> EDEYRN THE SON OF NUDD.--*Page*
-[151](mab13.htm#page_151).
+[151](mab13.htm#page_151.md).
 
 OF Edeyrn ap Nudd but little is known, except that he was one of the
 most valiant knights of Arthur's Court, and that in the celebrated
@@ -547,18 +547,18 @@ and with gold and silver, chalices, and other ecclesiastical ornaments."
 The name of Edeyrn ab Nudd occurs in the Catalogue of Welsh Saints,
 where he is noticed as a bard, who embraced a life of sanctity, and to
 whom the Chapel of Bodedeyrn, under Holyhead, is dedicated. <span
-id="fr_62"></span>[1](#fn_61)
+id="fr_62"></span>[1](#fn_61.md)
 
  
 
 <span id="xref_152a">152a</span> SAT ACCORDING TO THEIR PRECEDENCE IN
-HONOUR.--*Page* [152](mab13.htm#page_152).
+HONOUR.--*Page* [152](mab13.htm#page_152.md).
 
 PRECEDENCE at table was formerly considered a point of great importance,
 and was even a subject of legislation with the Welsh. In the Laws of
 Howel Dda, all the officers of the palace have their places in the hall
 very particularly allotted to them; some having their seats above, and
-some below the partition. <span id="fr_63"></span>[2](#fn_62) This
+some below the partition. <span id="fr_63"></span>[2](#fn_62.md) This
 partition may be supposed to answer to the raised platform called the
 dais, still seen at the upper end of all ancient baronial halls, and
 where the table was placed, at which the lord and his guests, and the
@@ -574,7 +574,7 @@ To sitten in a gild halle, on the *deis*."--v. 372.
  
 
 <span id="xref_153a">153a</span> THIS IS HOW ARTHUR HUNTED THE
-STAG.--*Page* [153](mab13.htm#page_153).
+STAG.--*Page* [153](mab13.htm#page_153.md).
 
 STRUTT gives a description of the various preparations formerly made or
 a royal hunting party, from a treatise, entitled, "The Maister of the
@@ -637,7 +637,7 @@ the game, according to the ancient custom."--Sports and Pastimes, 18,
  
 
 <span id="xref_153b">153b</span> CAVALL WAS HIS NAME.--*Page*
-[153](mab13.htm#page_153).
+[153](mab13.htm#page_153.md).
 
 THE dog Cavall is mentioned in another of the Mabinogion--that of
 Kilhwch and Olwen.
@@ -645,7 +645,7 @@ Kilhwch and Olwen.
  
 
 <span id="xref_153c">153c</span> HORN FOR SLAYING.--*Page*
-[153](mab13.htm#page_153).
+[153](mab13.htm#page_153.md).
 
 THE several incidents of the chase were wont to be announced by the
 different ways in which the horn was sounded. A list of these various
@@ -658,12 +658,12 @@ longe note.
 15\. Knowledge of the same,--Two short and one longe.
 
 16\. The death of the bucke with houndes,--Two longe notes and the
-rechace." <span id="fr_64"></span>[1](#fn_63)
+rechace." <span id="fr_64"></span>[1](#fn_63.md)
 
  
 
 <span id="xref_153d">153d</span> GILDAS THE SON OF CAW.--*Page*
-[153](mab13.htm#page_153).
+[153](mab13.htm#page_153.md).
 
 GILDAS was one of the numerous Sons of Caw, who sought refuge with
 Arthur, and were hospitably received by him, when their father, who was
@@ -679,11 +679,11 @@ but his history has been a subject of much controversy.
  
 
 <span id="xref_155a">155a</span> CARDIFF.--*Page*.
-[155](mab13.htm#page_155).
+[155](mab13.htm#page_155.md).
 
 WHETHER regarded as the scene of Roman <span
-id="fr_65"></span>[2](#fn_64) and Norman enterprise, or of British
-patriotism and valour, <span id="fr_66"></span>[3](#fn_65) Cardiff is a
+id="fr_65"></span>[2](#fn_64.md) and Norman enterprise, or of British
+patriotism and valour, <span id="fr_66"></span>[3](#fn_65.md) Cardiff is a
 spot to which
 
 <span id="page_199">p. 199</span>
@@ -698,7 +698,7 @@ unfortunate Robert, Duke of Normandy, who suffered there his
 six-and-twenty years of hopeless captivity. The tower which tradition
 has assigned as the dungeon he occupied, is pointed out at the Castle to
 this day, and is a most venerable ruin; <span
-id="fr_67"></span>[1](#fn_66) and there is still extant a spirited poem
+id="fr_67"></span>[1](#fn_66.md) and there is still extant a spirited poem
 in the Welsh language, which he is said to have composed to beguile the
 tedious hours of his imprisonment. It is addressed to a solitary oak on
 the summit of Pennarth Point, which was visible from the scene of his
@@ -733,7 +733,7 @@ Woe waits the wretch whose years tell not that death is nigh!
         Oak that grew through year of woes,  
         Mid battle broil's unequall'd throes;-------  
 Forlorn is he who prays that death his life may close!'" <span
-id="fr_68"></span>[1](#fn_67)
+id="fr_68"></span>[1](#fn_67.md)
 
 About the year 1091, the Normans were called into Glamorganshire by the
 native princes, who were in a state of enmity and warfare, and unwisely
@@ -748,13 +748,13 @@ descendant, William, Earl of Gloucester, having endeavoured to wrest a
 large tract of mountainous and woody country from a native chieftain,
 named Ivor Bach, or Ivor the little; "a man," as Giraldus describes him,
 "of small stature, but of immense courage," <span
-id="fr_69"></span>[2](#fn_68) provoked the resolute Welshman to
+id="fr_69"></span>[2](#fn_68.md) provoked the resolute Welshman to
 hostilities. One of Ivor's strongholds is said to have been the fortress
 of Castell Coch, whose beautiful ruin is one of the most picturesque
 ornaments of the lovely valley of the Taff; another was the rugged
 mountain-keep of Morlais, whose mound still forms a striking feature in
 the outline of the rising ground behind Merthyr and Dowlais, and in the
-vicinity of which is a spot <span id="fr_70"></span>[3](#fn_69) which
+vicinity of which is a spot <span id="fr_70"></span>[3](#fn_69.md) which
 local tradition yet points out as the scene of one of his battles.
 
 The Castle of Cardiff was at that time surrounded with high walls,
@@ -808,7 +808,7 @@ them in your convent, they would have been secure."--Collect. I. 313.
  
 
 <span id="xref_155b">155b</span> SURETY FOR EDEYRN.--*Page*
-[155](mab13.htm#page_155).
+[155](mab13.htm#page_155.md).
 
 THE knights of old were very good-natured in coming forward as surety
 for one another; and of this we have an instance in the interesting Lai
@@ -839,13 +839,13 @@ from the spot,) "until he does one of these three things."
  
 
 <span id="xref_155c">155c</span> GWALLAWG THE SON OF LLENAWG.--*Page*
-[155](mab13.htm#page_155).
+[155](mab13.htm#page_155.md).
 
 IN the Triads, we find him celebrated with Dunawd Fur and Cynvelyn
 Drwsgl, as one of the pillars of battle of the Island of Britain, which
 is explained to mean that these chieftains were skilled in the
 disposition of the order of battle, and were battle leaders, superior to
-all others that ever existed. <span id="fr_71"></span>[1](#fn_70)--Tr.
+all others that ever existed. <span id="fr_71"></span>[1](#fn_70.md)--Tr.
 71. Myv. Arch. II. 69.
 
 And in a subsequent Triad, he is called one of the "Grave-slaughtering
@@ -859,14 +859,14 @@ that his fame extended from Caer Clud to Caer Caradawc, that is, from
 Dumbarton to Salisbury.
 
 His name occurs in Llywarch Hên's Elegy upon Urien Rheged; and he has
-been already spoken of ([p. 34](mab06.htm#page_34)) as one of the three
+been already spoken of ([p. 34](mab06.htm#page_34).md) as one of the three
 northern kings, who united themselves with that prince for the purpose
 of opposing the progress of Ida's successors.--See also Turner's
 "Anglo-Saxons," B. III. c. iv.
 
 <span id="page_203">p. 203</span>
 
-In Gruffydd ab Arthur, <span id="fr_72"></span>[1](#fn_71) he is
+In Gruffydd ab Arthur, <span id="fr_72"></span>[1](#fn_71.md) he is
 mentioned as one of the knights who were present at Arthur's coronation;
 and his death is recorded to have taken place in the last conflict
 between that Sovereign and the Romans. The "Englynion y Beddau" place
@@ -875,24 +875,24 @@ his tomb in Carrawc.
  
 
 <span id="xref_155d">155d</span> MORGAN TUD.--*Page*
-[155](mab13.htm#page_155).
+[155](mab13.htm#page_155.md).
 
 THIS sapient personage is very probably the same as that Morgan the Wise
 who prepared the ointment which restored Owain to a state of health and
 sanity, in the romance of Ywaine and Gawin, and whom Ritson, <span
-id="fr_73"></span>[2](#fn_72) on what grounds, I know not, considered to
+id="fr_73"></span>[2](#fn_72.md) on what grounds, I know not, considered to
 be the same as the celebrated schismatic Pelagius. His reputation
 appears to have extended to Brittany, where the inhabitants still call
 by the name of Morgan Tut an herb, to which they ascribe the most
 universal healing properties. Morgant was the name of the Bishop of Caer
 Vudei, (Silchester,) in Arthur's reign. <span
-id="fr_74"></span>[3](#fn_73) But the appellation is a very common one
+id="fr_74"></span>[3](#fn_73.md) But the appellation is a very common one
 in Wales.
 
  
 
 <span id="xref_155e">155e</span> CHIEF PHYSICIAN.--*Page*
-[155](mab13.htm#page_155).
+[155](mab13.htm#page_155.md).
 
 THE chief physician, from the nature of his office, was necessarily in
 very constant attendance upon the royal person; and this was carried so
@@ -921,7 +921,7 @@ pence, and eight pence for one of medicinal herbs.
  
 
 <span id="xref_157a">157a</span> ENID THE DAUGHTER OF YNYWL.--*Page*
-[157](mab13.htm#page_157).
+[157](mab13.htm#page_157.md).
 
 THROUGHOUT the broad and varied region of romance, it would be difficult
 to find a character of greater simplicity and truth than that of Enid
@@ -950,7 +950,7 @@ verse, heightening the picture with some additional touches of his own.
  
 
 <span id="xref_159a">159a</span> GWEIR GWRHYD VAWR.--*Page*
-[159](mab13.htm#page_159).
+[159](mab13.htm#page_159.md).
 
 WE find him noticed in the Triads as one of the three stubborn ones of
 the island of Britain, whom no one could turn from their purpose. Tr.
@@ -976,7 +976,7 @@ utter it with his tongue as fast as he heard it.
  
 
 <span id="xref_159c">159c</span> BEDWYR THE SON OF BEDRAWD.--*Page*
-[159](mab13.htm#page_159).
+[159](mab13.htm#page_159.md).
 
 BEDWYR was one of the most valiant of Arthur's knights, and rendered him
 valuable service in the different wars in which be was engaged. In the
@@ -990,7 +990,7 @@ fortunes in many respects appear to have been very similar. They were
 the two knights whom Arthur selected as his sole companions in his
 expedition to St. Michael's Mount, to avenge the death of Helen, the
 niece of Howel ab, Emyr Llydaw (already adverted to, [p.
-134](mab11.htm#page_134)). And he took the same means of recompensing
+134](mab11.htm#page_134).md). And he took the same means of recompensing
 the valour and fidelity of both, by bestowing upon each of them the
 sovereignty of a valuable French province, which Robert of Gloucester
 quaintly records in these words,--
@@ -1006,8 +1006,8 @@ pay every tribute to the memory of the faithful knights who had fallen
 in his service. He caused Bedwyr to be interred at Bayeux, which he had
 founded himself, as the capital of his Norman dominions, and Kai to be
 buried at Chinon, which town, as Wace <span
-id="fr_75"></span>[1](#fn_74) informs us, derived its name from that
-circumstance. <span id="fr_76"></span>[2](#fn_75) The etymology, it must
+id="fr_75"></span>[1](#fn_74.md) informs us, derived its name from that
+circumstance. <span id="fr_76"></span>[2](#fn_75.md) The etymology, it must
 be confessed, is not very apparent.
 
 The names of these two heroes occur together in the Triads, where Kai is
@@ -1035,7 +1035,7 @@ is not easy to determine.
  
 
 <span id="xref_160a">160a</span> THE SEVERN.--*Page*
-[160](mab13.htm#page_160).
+[160](mab13.htm#page_160.md).
 
 THE derivation of the name of this majestic river involves a very pretty
 though tragical story.
@@ -1043,7 +1043,7 @@ though tragical story.
 King; Locryn, the son of the Trojan Brutus, and sovereign of these
 realms, fell in love with Astrild, the King of Germany's beautiful
 daughter, who came over to this island in the retinue of Homber, <span
-id="fr_77"></span>[1](#fn_76) King of Hungary, when that monarch
+id="fr_77"></span>[1](#fn_76.md) King of Hungary, when that monarch
 undertook his disastrous expedition to endeavour to dispossess Albanak,
 Locryn's brother, of his dominions in the North. Locryn, as soon as he
 beheld the damsel, determined to wed her, but unfortunately he had
@@ -1079,7 +1079,7 @@ wommon," and caused them both to be drowned in the Severn.
 "And for yt was hire lorde's doʒter þat mayde Auerne,  
 And for honour of hire lord, and for heo was of hys kynde,  
 Heo wolde þat hire name euer more in mynde,  
-And lette clepe <span id="fr_78"></span>[1](#fn_77) þat watur after
+And lette clepe <span id="fr_78"></span>[1](#fn_77.md) þat watur after
 Auerne,  
 And seþþe þorȂ diuerse tonge me clepede hit Seuerne,  
 And deþ a letre per to, and no more y wys,  
@@ -1091,19 +1091,19 @@ that of Gwelldolen's innocent and unfortunate victim, Averne.
  
 
 <span id="xref_160b">160b</span> BOUNDARIES.--*Page*
-[160](mab13.htm#page_160).
+[160](mab13.htm#page_160.md).
 
 IN Wales, the penalties for disturbing boundaries were severe. Howel Dda
 enacted, that whoever should destroy a boundary between two villages, by
 ploughing it up, should forfeit to the king the oxen with which he
 ploughed, together with the wood and iron of the plough, and the value
-of the ploughman's right foot, <span id="fr_79"></span>[2](#fn_78) and
+of the ploughman's right foot, <span id="fr_79"></span>[2](#fn_78.md) and
 the driver's left hand; and that he should pay fourpence to the owner of
 the land, and also restore the boundary to its original state.
 
 Parochial perambulations were formerly performed with much solemnity in
 the principality, the procession being headed by the clergyman and the
-[ceremony](errata.htm#3) begun and ended with a form of prayer, the
+[ceremony](errata.htm#3.md) begun and ended with a form of prayer, the
 surplice and Prayer Book being carried by an attendant, to be used when
 required. Remains of this custom are still observable in some districts.
 Upon an appointed day, the inhabitants of the adjoining parishes meet at
@@ -1138,7 +1138,7 @@ accident, they might otherwise be liable.
  
 
 <span id="xref_160c">160c</span> VARIETY OF MINSTRELSY AND OF
-GAMES.--*Page* [160](mab13.htm#page_160).
+GAMES.--*Page* [160](mab13.htm#page_160.md).
 
 CHAUCER has a pretty passage illustrative of what were the diversions
 admitted in a baronial hall on similar occasions of state, and one which
@@ -1167,36 +1167,36 @@ Of all this now make I no mentioun."
  
 
 <span id="xref_161a">161a</span> DIGANHWY.--*Page*
-[161](mab13.htm#page_161).
+[161](mab13.htm#page_161.md).
 
 CONFUSED as the geography of Romance is known to be, yet we
-[can](errata.htm#4) hardly suppose that this is Diganwy on the Conway,
+[can](errata.htm#4.md) hardly suppose that this is Diganwy on the Conway,
 in North Wales. May it not have been an error of the scribe's for
 Trefynwy, the Welsh name for Monmouth?
 
  
 
 <span id="xref_162a">162a</span> WINDOWS OF GLASS.--*Page*
-[162](mab13.htm#page_162).
+[162](mab13.htm#page_162.md).
 
 THE terms of admiration in which the older writers invariably speak of
 glass windows would be sufficient proof, if other evidence were wanting,
 how rare an article of luxury they were in the houses of our ancestors.
 They were first introduced in ecclesiastical architecture, <span
-id="fr_80"></span>[1](#fn_79) to which they were for a long time
+id="fr_80"></span>[1](#fn_79.md) to which they were for a long time
 confined. Mr. Hallam remarks that French artificers were brought to
 England to furnish the windows in some new churches in the seventh
-century. <span id="fr_81"></span>[2](#fn_80) "It is said," he continues,
+century. <span id="fr_81"></span>[2](#fn_80.md) "It is said," he continues,
 "that in the reign of Henry III. a few ecclesiastical buildings had
-glazed windows. <span id="fr_82"></span>[3](#fn_81) Suger, however, a
+glazed windows. <span id="fr_82"></span>[3](#fn_81.md) Suger, however, a
 century before, had adorned his great work, the Abbey of St. Denis, with
 windows not only glazed, but painted; <span
-id="fr_83"></span>[4](#fn_82) and I presume that other churches of the
+id="fr_83"></span>[4](#fn_82.md) and I presume that other churches of the
 same class, both in France and England, especially after the
 lancet-shaped window had yielded to one of ampler dimensions, were
 generally decorated in a similar manner. Yet glass is said not to have
 been employed in the domestic architecture of France before the
-fourteenth century; <span id="fr_84"></span>[5](#fn_83) and its
+fourteenth century; <span id="fr_84"></span>[5](#fn_83.md) and its
 introduction into
 
 <span id="page_210">p. 210</span>
@@ -1207,21 +1207,21 @@ during the period of the Middle Ages. Glazed windows were considered as
 movable furniture, and probably bore a high price. When the earls of
 Northumberland, as late as the reign of Elizabeth, left Alnwick Castle,
 the windows were taken out of their frames, and carefully laid
-by." <span id="fr_85"></span>[1](#fn_84)--Middle Ages. 1834. III.
-425-6 <span id="fr_86"></span>[2](#fn_85)
+by." <span id="fr_85"></span>[1](#fn_84.md)--Middle Ages. 1834. III.
+425-6 <span id="fr_86"></span>[2](#fn_85.md)
 
 A monastery having a hall
 
 "With wyndowes of glass, wrought as a chirche,"
 
 is spoken of in Pierce Plowman's Crede as an instance of the extreme
-luxury of the monks; <span id="fr_87"></span>[3](#fn_86) and they occur
+luxury of the monks; <span id="fr_87"></span>[3](#fn_86.md) and they occur
 in some of the descriptions of very great regal splendour given by the
 old romancers. In Candace's Chamber, described in the Geste of
 Alexander,
 
 "Theo wyndowes weoren of riche glas:  
-Theo pinnes weore of ivorye." <span id="fr_88"></span>[4](#fn_87)
+Theo pinnes weore of ivorye." <span id="fr_88"></span>[4](#fn_87.md)
 
 <span class="contnote">\[paragraph continues\]</span> And they were
 sometimes even painted. The King of Hungary's daughter, in the "Squyer
@@ -1234,7 +1234,7 @@ Every windowe by and by,
 On eche syde had ther a gynne,  
 Sperde with manie a dyvers pynne.  
 Anone that ladie fayre and fre,  
-Undyd a pynne of yvere." <span id="fr_89"></span>[5](#fn_88)
+Undyd a pynne of yvere." <span id="fr_89"></span>[5](#fn_88.md)
 
 From both these quotations, their very fastenings appear to have been of
 the most costly materials.
@@ -1242,7 +1242,7 @@ the most costly materials.
  
 
 <span id="xref_163a">163a</span> LLOEGYR.--*Page*
-[163](mab13.htm#page_163).
+[163](mab13.htm#page_163.md).
 
 LLOEGYR is the term used by the Welsh to designate England. The writers
 of the Middle Ages derive the name from the son of the
@@ -1250,7 +1250,7 @@ of the Middle Ages derive the name from the son of the
 <span id="page_211">p. 211</span>
 
 <span class="contnote">\[paragraph continues\]</span> Trojan Brutus,
-Locryn (already alluded to, [p. 206](#page_206)), and whose brother,
+Locryn (already alluded to, [p. 206](#page_206).md), and whose brother,
 Camber, bequeathed his name to the Principality.
 
 But, from another authority, that of the Triads, we collect that the
@@ -1260,7 +1260,7 @@ Lloegrwys.
  
 
 <span id="xref_174a">174a</span> THEIR SHIELDS LOST ALL THEIR
-COLOUR.--*Page* [174](mab13.htm#page_174).
+COLOUR.--*Page* [174](mab13.htm#page_174.md).
 
 THE custom of painting and decorating shields is one which might be
 illustrated by innumerable instances. Sharon Turner says that they were
@@ -1285,7 +1285,7 @@ in which he was himself engaged.
  
 
 <span id="xref_178a">178a</span> WOMAN'S SADDLE.--*Page*
-[178](mab13.htm#page_178).
+[178](mab13.htm#page_178.md).
 
 THE saddles used by the ladies of former days were often very richly
 decorated, and frequent descriptions of their costliness occur in the
@@ -1294,25 +1294,25 @@ to have ridden on a saddle of the most magnificent kind when she visited
 Arthur's Court.
 
 "Here sadelle was semyly sett,  
-The sambus <span id="fr_90"></span>[1](#fn_89) were grene felvet,  
+The sambus <span id="fr_90"></span>[1](#fn_89.md) were grene felvet,  
      Ipaynted with ymagerye,  
-The bordure was of belles, <span id="fr_91"></span>[2](#fn_90)  
+The bordure was of belles, <span id="fr_91"></span>[2](#fn_90.md)  
 Of ryche gold and nothyng elles,  
      That any man myte aspye. <span id="page_212">p. 212</span>
 
 In the arsouns, before and behynde,  
 Were twey stones of Ynde,  
      Gay for the maystrye;  
-The paytrelle <span id="fr_92"></span>[1](#fn_91) of her palfraye  
+The paytrelle <span id="fr_92"></span>[1](#fn_91.md) of her palfraye  
 Was worth an erldome, stoute and gay,  
      The best yn Lumbardye."--v. 949-60.
 
 Strutt accuses the ladies of former times of not having adopted a very
 feminine mode of riding on horseback, particularly when they joined in
 hunting expeditions; and he quotes the authority of certain
-illuminations in ancient MSS. <span id="fr_93"></span>[2](#fn_92) which
+illuminations in ancient MSS. <span id="fr_93"></span>[2](#fn_92.md) which
 is, I fear, rather conclusive evidence. But the mention of the Lady's
-saddle and riding-dress <span id="fr_94"></span>[3](#fn_93) in Geraint
+saddle and riding-dress <span id="fr_94"></span>[3](#fn_93.md) in Geraint
 ab Erbin, will, I trust, rescue the ladies of the present Tale from the
 imputation of so unbecoming a practice, and show that they wore a
 peculiar and appropriate costume whenever they rode out. Catherine de
@@ -1322,7 +1322,7 @@ present age, with a high crutch to her saddle.--Mém. de Chev. II. 336.
  
 
 <span id="xref_181a">181a</span> ENCHANTED GAMES.--*Page*
-[181](mab13.htm#page_181).
+[181](mab13.htm#page_181.md).
 
 THE extent to which the belief in magic was carried, even by the most
 enlightened, during the Middle Ages, is really wonderful, and we cannot
@@ -1358,7 +1358,7 @@ May it not be fairly presumed, that it is to the Coll mab Collfrewi
 above mentioned, whose fame had descended to his times, that Chaucer
 alludes in the following lines?--
 
-"There saw I Coll Tragetour, <span id="fr_95"></span>[1](#fn_94)  
+"There saw I Coll Tragetour, <span id="fr_95"></span>[1](#fn_94.md)  
 Upon a table of sicamour,  
 Play an uncouth thing to tell,  
 I saw him carry a wind-mell,  
@@ -1376,58 +1376,58 @@ illusions (hud a lledrith).--Myv. Arch. II. 558.
 
 ### Footnotes
 
-<span id="fn_50"></span>[188:1](mab14.htm#fr_50) Asser Menevensis speaks
+<span id="fn_50"></span>[188:1](mab14.htm#fr_50.md) Asser Menevensis speaks
 of a great fleet of Pagans Corning to Britain, "de Danubio."--Annales de
 rebus gestis Ælfredi.
 
-<span id="fn_51"></span>[191:1](mab14.htm#fr_51) T. xc. The other was
+<span id="fn_51"></span>[191:1](mab14.htm#fr_51.md) T. xc. The other was
 Gadwy the son of Geraint.
 
-<span id="fn_52"></span>[191:2](mab14.htm#fr_52) T. xv.
+<span id="fn_52"></span>[191:2](mab14.htm#fr_52.md) T. xv.
 
-<span id="fn_53"></span>[191:3](mab14.htm#fr_53) T. 114.
+<span id="fn_53"></span>[191:3](mab14.htm#fr_53.md) T. 114.
 
-<span id="fn_54"></span>[192:1](mab14.htm#fr_54) Probably Ostorius, the
+<span id="fn_54"></span>[192:1](mab14.htm#fr_54.md) Probably Ostorius, the
 Roman commander.
 
-<span id="fn_55"></span>[192:2](mab14.htm#fr_56) In the Triads contained
+<span id="fn_55"></span>[192:2](mab14.htm#fr_56.md) In the Triads contained
 in the Llyfr Coch, these names are written Mabon, and Geiryoed (Myv.
 Arch. II. 6); and in the Mabinogion it is Mabon vab Modron.
 
-<span id="fn_56"></span>[193:1](mab14.htm#fr_57) See the remainder of
+<span id="fn_56"></span>[193:1](mab14.htm#fr_57.md) See the remainder of
 the Elegy in Llywarch Hên's Poems, edited by Dr. Owen Pughe.
 
-<span id="fn_57"></span>[194:1](mab14.htm#fr_58) Poems of Llywarch Hên.
+<span id="fn_57"></span>[194:1](mab14.htm#fr_58.md) Poems of Llywarch Hên.
 p. 3.
 
-<span id="fn_58"></span>[194:2](mab14.htm#fr_59) Called in Welsh "Y Fâd
+<span id="fn_58"></span>[194:2](mab14.htm#fr_59.md) Called in Welsh "Y Fâd
 Felen."
 
-<span id="fn_59"></span>[194:3](mab14.htm#fr_60) Perhaps Gerrans, near
+<span id="fn_59"></span>[194:3](mab14.htm#fr_60.md) Perhaps Gerrans, near
 Falmouth, which, as Hale suggests, was probably named after
 Geraint.--(Davies Gilbert's Hist. of Cornwall, II. 50.) The Welsh
 Chronicle mentions the Castle of Dingeraint (Cilgerran), on the river
 Teivy, in Pembrokeshire, as fortified in the 12th century; but it is
 more likely that the former is the place referred to here.
 
-<span id="fn_60"></span>[194:4](mab14.htm#fr_61) The Life of Saint
+<span id="fn_60"></span>[194:4](mab14.htm#fr_61.md) The Life of Saint
 Teiliaw forms part of the Liber Landavensis, published by the Welsh
 Manuscript Society.
 
-<span id="fn_61"></span>[196:1](mab14.htm#fr_62) Rees's Welsh Saints, p.
+<span id="fn_61"></span>[196:1](mab14.htm#fr_62.md) Rees's Welsh Saints, p.
 298.
 
-<span id="fn_62"></span>[196:2](mab14.htm#fr_63) Myv. Arch. III. 363.
+<span id="fn_62"></span>[196:2](mab14.htm#fr_63.md) Myv. Arch. III. 363.
 
-<span id="fn_63"></span>[198:1](mab14.htm#fr_64) Reprint of the Book of
+<span id="fn_63"></span>[198:1](mab14.htm#fr_64.md) Reprint of the Book of
 St. Alban's, p. 83, the original edition of which by Wynkn de Worde, bl.
 let. 1486, was the first treatise upon hunting that ever issued from the
 press.
 
-<span id="fn_64"></span>[198:2](mab14.htm#fr_65) It is asserted by some
+<span id="fn_64"></span>[198:2](mab14.htm#fr_65.md) It is asserted by some
 that Cardiff was known to the Romans by the name of Tibia Amnis.
 
-<span id="fn_65"></span>[198:3](mab14.htm#fr_66) Besides the contests
+<span id="fn_65"></span>[198:3](mab14.htm#fr_66.md) Besides the contests
 upon record, the situation of Cardiff makes it probable <span
 id="page_199">p. 199</span> that it was the scene of many others of
 which no notice remains. From the expression,
@@ -1440,29 +1440,29 @@ to in the poem called Armes Brydain (Myv. Arch. I. 49), and attributed
 to Taliesin, as there is a place called Cogan Penarth in the vicinity of
 this town.
 
-<span id="fn_66"></span>[199:1](mab14.htm#fr_67) A representation of
+<span id="fn_66"></span>[199:1](mab14.htm#fr_67.md) A representation of
 this tower is introduced in the first vignette to the tale of Geraint ab
 Erbin, while the last vignette presents a view of the Keep as it
 appeared in 1840 and 1841. Unhappily the hand of restoration has since
 defaced the beauty of those interesting ruins.
 
-<span id="fn_67"></span>[200:1](mab14.htm#fr_68) The original poem is
+<span id="fn_67"></span>[200:1](mab14.htm#fr_68.md) The original poem is
 printed in the "Gentleman's Magazine" for 1794. The translation given in
 the text is due to Mr. Taliesin Williams (ab Iolo), and first appeared
 in the notes to his poem of "Cardiff Castle."
 
-<span id="fn_68"></span>[200:2](mab14.htm#fr_69) Giraldus Cambrensis,
+<span id="fn_68"></span>[200:2](mab14.htm#fr_69.md) Giraldus Cambrensis,
 from whom this account is taken.
 
-<span id="fn_69"></span>[200:3](mab14.htm#fr_70) Pant Cad Ivor, which
+<span id="fn_69"></span>[200:3](mab14.htm#fr_70.md) Pant Cad Ivor, which
 is, according to the tradition of the place, the Valley of the Battle of
 Ivor.
 
-<span id="fn_70"></span>[202:1](mab14.htm#fr_71) In another series of
+<span id="fn_70"></span>[202:1](mab14.htm#fr_71.md) In another series of
 the Triads, Urien ap Cynvarch's name is substituted for that of
 Gwallawg, as one of the pillars of battle.--(Tr xxxi Myv Arch. II. 14.)
 
-<span id="fn_71"></span>[203:1](mab14.htm#fr_72) Myv. Arch. II. 320,
+<span id="fn_71"></span>[203:1](mab14.htm#fr_72.md) Myv. Arch. II. 320,
 347. He is there mentioned in the different versions of the Brut under
 the designation of Gwallawc of Amwythic (Shrewsbury), and also under
 that of the Earl of Salisbury. Robert of Gloucester also calls him
@@ -1471,26 +1471,26 @@ of Monmouth. In the Cambrian Biography, Dr. Pughe says that he was a
 chieftain of the Vale of Shrewsbury; and Camden confounds him with the
 celebrated Galgacus, though he lived some centuries later.
 
-<span id="fn_72"></span>[203:2](mab14.htm#fr_73) Met. Rom. III. 239.
+<span id="fn_72"></span>[203:2](mab14.htm#fr_73.md) Met. Rom. III. 239.
 
-<span id="fn_73"></span>[203:3](mab14.htm#fr_74) Gruff. ab Ar. Myv.
+<span id="fn_73"></span>[203:3](mab14.htm#fr_74.md) Gruff. ab Ar. Myv.
 Arch. II. 325.
 
-<span id="fn_74"></span>[205:1](mab14.htm#fr_75) Brut. l. 13,404.
+<span id="fn_74"></span>[205:1](mab14.htm#fr_75.md) Brut. l. 13,404.
 
-<span id="fn_75"></span>[205:2](mab14.htm#fr_76) The Welsh Brut names
+<span id="fn_75"></span>[205:2](mab14.htm#fr_76.md) The Welsh Brut names
 Diarnum as the place of Kai's sepulture (Myv. Arch. II. 352), and in the
 Latin of Geoffrey of Monmouth it is said he was buried at Caen.
 
-<span id="fn_76"></span>[206:1](mab14.htm#fr_77) He ended his days in
+<span id="fn_76"></span>[206:1](mab14.htm#fr_77.md) He ended his days in
 the Humber, which took its name from that circumstance.
 
-<span id="fn_77"></span>[207:1](mab14.htm#fr_78) Clepe, to call.
+<span id="fn_77"></span>[207:1](mab14.htm#fr_78.md) Clepe, to call.
 
-<span id="fn_78"></span>[207:2](mab14.htm#fr_79) The value of a foot was
+<span id="fn_78"></span>[207:2](mab14.htm#fr_79.md) The value of a foot was
 fixed by law, to be six cows and one hundred and twenty pence.
 
-<span id="fn_79"></span>[209:1](mab14.htm#fr_80) Paulus Silentiarius, a
+<span id="fn_79"></span>[209:1](mab14.htm#fr_80.md) Paulus Silentiarius, a
 poet and historian of the 6th century, (about A.D. 534), speaks of the
 brightness of the sun's rays passing through the eastern windows of the
 Church of St. Sophia, at Constantinople, which windows were covered with
@@ -1499,42 +1499,42 @@ mentions glass windows. I suppose the question as to whether the
 ancients were acquainted with this mode of applying glass, is set at
 rest by the discoveries made of late years at Pompeii.
 
-<span id="fn_80"></span>[209:2](mab14.htm#fr_81) "Du Cauge, v. Vitreæ.
+<span id="fn_80"></span>[209:2](mab14.htm#fr_81.md) "Du Cauge, v. Vitreæ.
 Bentham's History of Ely, p. 22."
 
-<span id="fn_81"></span>[209:3](mab14.htm#fr_82) "Matt. Paris, Vitæ
+<span id="fn_81"></span>[209:3](mab14.htm#fr_82.md) "Matt. Paris, Vitæ
 Abbatum St. Alb. 122."
 
-<span id="fn_82"></span>[209:4](mab14.htm#fr_83) "Recueil des Hist. t.
+<span id="fn_82"></span>[209:4](mab14.htm#fr_83.md) "Recueil des Hist. t.
 xii. p. 101."
 
-<span id="fn_83"></span>[209:5](mab14.htm#fr_84) "Paulmy, t, iii. p.
+<span id="fn_83"></span>[209:5](mab14.htm#fr_84.md) "Paulmy, t, iii. p.
 132. Villaret, t. xi. p. 141. Macpherson, p. 679."
 
-<span id="fn_84"></span>[210:1](mab14.htm#fr_85) Northumberland
+<span id="fn_84"></span>[210:1](mab14.htm#fr_85.md) Northumberland
 Household Book, preface, p. 16. Bishop Percy says, on the authority of
 Harrison, that glass was not commonly used in the reign of Henry VIII."
 
-<span id="fn_85"></span>[210:2](mab14.htm#fr_86) Æneas Silvius,
+<span id="fn_85"></span>[210:2](mab14.htm#fr_86.md) Æneas Silvius,
 afterwards Pope Pius II., in his Treatise, De Moribus Germanorum,
 written in the 15th century, records that there were then glass windows
 in all the houses of Vienna.
 
-<span id="fn_86"></span>[210:3](mab14.htm#fr_87) Warton's Hist. Eng.
+<span id="fn_86"></span>[210:3](mab14.htm#fr_87.md) Warton's Hist. Eng.
 Poetry, II. 140.
 
-<span id="fn_87"></span>[210:4](mab14.htm#fr_88) Ibid. III. 409.
+<span id="fn_87"></span>[210:4](mab14.htm#fr_88.md) Ibid. III. 409.
 
-<span id="fn_88"></span>[210:5](mab14.htm#fr_89) Ibid. II. 8.
+<span id="fn_88"></span>[210:5](mab14.htm#fr_89.md) Ibid. II. 8.
 
-<span id="fn_89"></span>[211:1](mab14.htm#fr_90) The sambus or sambuca,
+<span id="fn_89"></span>[211:1](mab14.htm#fr_90.md) The sambus or sambuca,
 was a kind of saddle-cloth, and its ornaments were usually very
 splendid. To such an excess were they at one time carried, that
 Frederick, King of Sicily, in a sumptuary law, Const. c. 92 (quoted by
 Warton, Hist. Poet. I. ccxiii.), forbad women, even of the highest rank,
 to use sambuca, or saddle-cloth, on which were gold, silver, or pearls.
 
-<span id="fn_90"></span>[211:2](mab14.htm#fr_91) Of the well-known
+<span id="fn_90"></span>[211:2](mab14.htm#fr_91.md) Of the well-known
 custom of decking the harness and trappings of horses <span
 id="page_212">p. 212</span> with bells, many instances might be
 mentioned. Chaucer says of the monk,--
@@ -1552,16 +1552,16 @@ Welsh, who say that the Fairies may sometimes be seen riding over the
 mountains, on horses decorated with small silver bells, of a very shrill
 and musical sound.
 
-<span id="fn_91"></span>[212:1](mab14.htm#fr_92) Breastplate.
+<span id="fn_91"></span>[212:1](mab14.htm#fr_92.md) Breastplate.
 
-<span id="fn_92"></span>[212:2](mab14.htm#fr_93) MS. in Royal Lib.
+<span id="fn_92"></span>[212:2](mab14.htm#fr_93.md) MS. in Royal Lib.
 marked 2 B. vii. Sports and Pastimes, p. 12.
 
-<span id="fn_93"></span>[212:3](mab14.htm#fr_94) See [p.
-178](mab13.htm#page_178).
+<span id="fn_93"></span>[212:3](mab14.htm#fr_94.md) See [p.
+178](mab13.htm#page_178.md).
 
-<span id="fn_94"></span>[213:1](mab14.htm#fr_95) Treggetour, a juggler.
+<span id="fn_94"></span>[213:1](mab14.htm#fr_95.md) Treggetour, a juggler.
 
 ------------------------------------------------------------------------
 
-[Next: Notice of Various Other Versions](mab15)
+[Next: Notice of Various Other Versions](mab15.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa09)  [Next](psa11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa09)  [Next](psa11.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ affection, brought him home.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](psa11)
+[Next: Chapter X](psa11.md)

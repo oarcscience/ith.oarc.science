@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](col)  [Next](th2) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](col)  [Next](th2.md) 
 
 ------------------------------------------------------------------------
 
@@ -330,4 +330,4 @@ with you.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Thessalonians](th2)
+[Next: 2 Thessalonians](th2.md)

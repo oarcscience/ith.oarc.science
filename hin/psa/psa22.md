@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa21)  [Next](psa23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa21)  [Next](psa23.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ their respective affairs. Princes proceed to conquer foreign countries."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII](psa23)
+[Next: Chapter XXII](psa23.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNCW/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNCW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNCW/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](md00)    [Page
-Index](pageidx)    [Text \[Zipped\]](md.txt.gz)
+[Contents](#contents)    [Start Reading](md00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](md.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ lectures are standard oral presentations given during initiation to a
 new degree. Lectures provide background material for initiates and the
 discuss duties of the degree in general terms. They do not present
 details of the rituals, gestures, regalia, etc., for which one must
-consult [other books on Masonry](../index).
+consult [other books on Masonry](../index.md).
 
 Pike states right off that half of the text is copied from other works.
 Unfortunately none of these quotes are properly cited, and in most cases
@@ -56,54 +56,54 @@ to the other, this is a must-read book for anyone looking for long-lost
 knowledge.
 
 This etext uses Unicode extensively, particularly for Greek and Hebrew,
-and your browser needs to be [Unicode compliant](../../unicode) to view
+and your browser needs to be [Unicode compliant](../../unicode.md) to view
 it properly.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](md00)  
-[Preface](md01)  
-[I. Apprentice](md02)  
-[II. The Fellow-Craft](md03)  
-[III. The Master](md04)  
-[IV. Secret Master](md05)  
-[V. Perfect Master](md06)  
-[IV. Intimate Secretary](md07)  
-[VII. Provost and Judge](md08)  
-[VIII. Intendant of the Building](md09)  
-[IX. Elect of the Nine](md10)  
-[X. Illustrious Elect of the Fifteen](md11)  
-[XI. Sublime Elect of the Twelve, or Prince Ameth](md12)  
-[XII. Grand Master Architect](md13)  
-[XIII. Royal Arch of Solomon](md14)  
-[XIV. Grand Elect, Perfect, and Sublime Mason](md15)  
+<span id="contents"></span> [Title Page](md00.md)  
+[Preface](md01.md)  
+[I. Apprentice](md02.md)  
+[II. The Fellow-Craft](md03.md)  
+[III. The Master](md04.md)  
+[IV. Secret Master](md05.md)  
+[V. Perfect Master](md06.md)  
+[IV. Intimate Secretary](md07.md)  
+[VII. Provost and Judge](md08.md)  
+[VIII. Intendant of the Building](md09.md)  
+[IX. Elect of the Nine](md10.md)  
+[X. Illustrious Elect of the Fifteen](md11.md)  
+[XI. Sublime Elect of the Twelve, or Prince Ameth](md12.md)  
+[XII. Grand Master Architect](md13.md)  
+[XIII. Royal Arch of Solomon](md14.md)  
+[XIV. Grand Elect, Perfect, and Sublime Mason](md15.md)  
 <span id="section_000"></span>
 
 ### Chapter of Rose Croix
 
-[XV. Knight of the East or of the Sword](md16)  
-[XVI. Prince of Jerusalem](md17)  
-[XVII. Knight of the East and West](md18)  
-[XVIII. Knight Rose Croix](md19)  
+[XV. Knight of the East or of the Sword](md16.md)  
+[XVI. Prince of Jerusalem](md17.md)  
+[XVII. Knight of the East and West](md18.md)  
+[XVIII. Knight Rose Croix](md19.md)  
 <span id="section_001"></span>
 
 ### Council of Kadosh
 
-[XIX. Grand Pontiff](md20)  
-[XX. Grand Master of All Symbolic Lodges](md21)  
-[XXI. Noachite, or Prussian Knight](md22)  
-[XXII. Knight of the Royal Axe, or Prince of Libanus](md23)  
-[XXIII. Chief of the Tabernacle](md24)  
-[XXIV. Prince of the Tabernacle](md25)  
-[XXV. Knight of the Brazen Serpent](md26)  
-[XXVI. Prince of Mercy, or Scottish Trinitarian](md27)  
-[XXVII. Knight Commander of the Temple](md28)  
-[XXVIII. Knight of the Sun, or Prince Adept](md29)  
-[XXIX. Grand Scottish Knight of St. Andrew](md30)  
-[XXX. Knight Kadosh](md31)  
+[XIX. Grand Pontiff](md20.md)  
+[XX. Grand Master of All Symbolic Lodges](md21.md)  
+[XXI. Noachite, or Prussian Knight](md22.md)  
+[XXII. Knight of the Royal Axe, or Prince of Libanus](md23.md)  
+[XXIII. Chief of the Tabernacle](md24.md)  
+[XXIV. Prince of the Tabernacle](md25.md)  
+[XXV. Knight of the Brazen Serpent](md26.md)  
+[XXVI. Prince of Mercy, or Scottish Trinitarian](md27.md)  
+[XXVII. Knight Commander of the Temple](md28.md)  
+[XXVIII. Knight of the Sun, or Prince Adept](md29.md)  
+[XXIX. Grand Scottish Knight of St. Andrew](md30.md)  
+[XXX. Knight Kadosh](md31.md)  
 <span id="section_002"></span>
 
 ### Consistory
 
-[XXI. Grand Inspector Inquisitor Commander](md32)  
-[XXXII. Sublime Prince of the Royal Secret](md33)  
+[XXI. Grand Inspector Inquisitor Commander](md32.md)  
+[XXXII. Sublime Prince of the Royal Secret](md33.md)  

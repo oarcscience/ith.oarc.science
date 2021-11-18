@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto22)  [Next](gto24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto22)  [Next](gto24.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Sagas](../../index)  [Iceland](../index)  [Index](index) 
 <span id="img_10500"></span>
 
 [![GISLI, AUDA, AND GUDRIDA.](tn/10500.jpg)  
-Click to enlarge](img/10500.jpg)  
+Click to enlarge](img/10500.jpg.md)  
 GISLI, AUDA, AND GUDRIDA.  
 
  
@@ -49,7 +49,7 @@ O'er these regions wild and wasted
   Streams of song I poured in rills.  
 Then I heard the night-hawk shrieking,  
   Then I heard his mournful strain;  
-Soon the dew of Woden <span id="fr_14"></span>[1](#fn_13) reeking  
+Soon the dew of Woden <span id="fr_14"></span>[1](#fn_13.md) reeking  
   Shall this outlaw shed like rain."
 
 And when this had happened they bear the voices of men, and there is
@@ -218,8 +218,8 @@ famous defence made by one man in times of which the truth is known.
 
 ### Footnotes
 
-<span id="fn_13"></span>[106:1](gto23.htm#fr_14) Periphrasis for blood.
+<span id="fn_13"></span>[106:1](gto23.htm#fr_14.md) Periphrasis for blood.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Thordisa's Welcome to Eyjolf](gto24)
+[Next: Chapter XIX. Thordisa's Welcome to Eyjolf](gto24.md)

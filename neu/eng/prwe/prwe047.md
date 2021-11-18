@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe046)  [Next](prwe048) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe046)  [Next](prwe048.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ of them far more brilliant than any blossoms seen in any mortal garden.
 
 ------------------------------------------------------------------------
 
-[Next: St Levan Fairies](prwe048)
+[Next: St Levan Fairies](prwe048.md)

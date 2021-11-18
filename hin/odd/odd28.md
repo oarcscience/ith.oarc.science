@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd27)  [Next](odd29) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd27)  [Next](odd29.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ a ting! ding, ding, dong!'
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Narrator's Narrative](odd29)
+[Next: Notes on the Narrator's Narrative](odd29.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](mhwap1)  [Next](mhwap3) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](mhwap1)  [Next](mhwap3.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -723,4 +723,4 @@ that there is probably glyphic evidence for that thesis (p. 241).
 ------------------------------------------------------------------------
 
 [Next: Appendix III. Whorf's Attempts to Decipher the Maya
-Hieroglyphs](mhwap3)
+Hieroglyphs](mhwap3.md)

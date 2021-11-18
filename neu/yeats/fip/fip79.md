@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip78)  [Next](fip80) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip78)  [Next](fip80.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
 
 <span id="page_319">p. 319</span>
 
-### GODS OF THE EARTH.--Par. 5, page [2](fip03.htm#page_2).
+### GODS OF THE EARTH.--Par. 5, page [2](fip03.htm#page_2.md).
 
 Occultists, from Paracelsus to Elephas Levi, divide the nature spirits
 into gnomes, sylphs, salamanders, undines; or earth, air, fire, and
@@ -48,4 +48,4 @@ wild animals."
 
 ------------------------------------------------------------------------
 
-[Next: Sir Samuel Ferguson](fip80)
+[Next: Sir Samuel Ferguson](fip80.md)

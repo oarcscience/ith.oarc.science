@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr69)  [Next](corr71) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr69)  [Next](corr71.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER LXX. (LXXXI.)
 
-#### SPINOZA TO \* \* \* \* \* <span id="fr_80"></span>[1](#fn_79)
+#### SPINOZA TO \* \* \* \* \* <span id="fr_80"></span>[1](#fn_79.md)
 
 \[*Spinoza explains his view of the infinite*.\]
 
@@ -45,8 +45,8 @@ The Hague, 5 May, 1676.
 
 ### Footnotes
 
-<span id="fn_79"></span>[407:1](corr70.htm#fr_80) Tschirnhausen.
+<span id="fn_79"></span>[407:1](corr70.htm#fr_80.md) Tschirnhausen.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXXI. From Anon. \[Tschirnhausen\]](corr71)
+[Next: Letter LXXI. From Anon. \[Tschirnhausen\]](corr71.md)

@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](qrintro)  [Next](qrpref) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](qrintro)  [Next](qrpref.md) 
 
 </div>
 
@@ -32,6 +32,6 @@ THE TRANSLATOR.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](qrpref)
+[Next: Preface](qrpref.md)
 
 </div>

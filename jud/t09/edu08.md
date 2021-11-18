@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](edu07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](edu07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -71,7 +71,7 @@ second tithe may be eaten even if there be no city walls (around
 Jerusalem), for the first consecration has rendered her (the city) holy
 for her times as well as for all time to come.
 
-MISHNA [*VII*.](errata.htm#52): R. Jehoshua said: I have it by tradition
+MISHNA [*VII*.](errata.htm#52.md): R. Jehoshua said: I have it by tradition
 from R. Johanan b. Zakkai, who heard it in direct line from his teacher,
 to be a Halakha from Sinai to Moses that Elijah is not coming in the
 future to declare certain families clean or unclean, to separate or to

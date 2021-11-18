@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](phai00)    [Page
-Index](pageidx)    [Text (Zipped)](phai.txt.gz)
+[Contents](#contents)    [Start Reading](phai00.md)    [Page
+Index](pageidx)    [Text (Zipped)](phai.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -60,60 +60,60 @@ Geschichte Israels, and then as Prolegomena zur Geschichte Israels in
 re-proofed using a printed facsimile of the 1885 English translation
 (New York: Meridian Books \[1957\]). This included two separate
 word-by-word proof passes, one of which was a comprehensive spell-check.
-[Unicode](../../../unicode) Hebrew and Greek text was added, numerous
+[Unicode](../../../unicode.md) Hebrew and Greek text was added, numerous
 errors in the etext were corrected, and pagination was inserted. Lastly,
-[the index](phai31), lacking in the PG etext, was scanned, proofed and
+[the index](phai31.md), lacking in the PG etext, was scanned, proofed and
 appended.
 
 --J.B. Hare, Dec. 31, 2007
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](phai00)  
-[Preface.](phai01)  
-[Table of Contents.](phai02)  
-[Introduction](phai03)  
+<span id="contents"></span> [Title Page](phai00.md)  
+[Preface.](phai01.md)  
+[Table of Contents.](phai02.md)  
+[Introduction](phai03.md)  
 <span id="section_000"></span>
 
 ### I. History of the Ordinances of Worship
 
-[Chapter I. The Place Of Worship.](phai04)  
-[Chapter II. Sacrifice.](phai05)  
-[Chapter III. The Sacred Feasts.](phai06)  
-[Chapter IV. The Priests and the Levites.](phai07)  
-[Chapter V. The Endowment of the Clergy.](phai08)  
+[Chapter I. The Place Of Worship.](phai04.md)  
+[Chapter II. Sacrifice.](phai05.md)  
+[Chapter III. The Sacred Feasts.](phai06.md)  
+[Chapter IV. The Priests and the Levites.](phai07.md)  
+[Chapter V. The Endowment of the Clergy.](phai08.md)  
 <span id="section_001"></span>
 
 ### II. History of Tradition
 
-[Chapter VI. Chronicles](phai09)  
-[Chapter VII. Judges, Samuel, and Kings.](phai10)  
-[Chapter VIII. The Narrative of the Hexateuch.](phai11)  
+[Chapter VI. Chronicles](phai09.md)  
+[Chapter VII. Judges, Samuel, and Kings.](phai10.md)  
+[Chapter VIII. The Narrative of the Hexateuch.](phai11.md)  
 <span id="section_002"></span>
 
 ### III. Israel and Judaism
 
-[Chapter IX. Conclusion of the Criticism of the Law.](phai12)  
-[Chapter X. The Oral and the Written Torah.](phai13)  
-[Chapter XI. The Theocracy as Idea and as Institution.](phai14)  
+[Chapter IX. Conclusion of the Criticism of the Law.](phai12.md)  
+[Chapter X. The Oral and the Written Torah.](phai13.md)  
+[Chapter XI. The Theocracy as Idea and as Institution.](phai14.md)  
 <span id="section_003"></span>
 
 ### Israel
 
-[1. The Beginnings of the Nation](phai15)  
-[2. The Settlement in Palestine](phai16)  
-[3. The Foundation of the Kingdom, and the First Three Kings](phai17)  
-[4. From Jeroboam I. to Jeroboam II.](phai18)  
-[5. God, the World, and the Life of Men in Old Israel.](phai19)  
-[6. The Fall of Samaria.](phai20)  
-[7. The Deliverance of Judah.](phai21)  
-[8. The Prophetic Reformation.](phai22)  
-[9. Jeremiah and the Destruction of Jerusalem.](phai23)  
-[10. The Captivity and the Restoration](phai24)  
-[11. Judaism and Christianity](phai25)  
-[12. The Hellenistic Period.](phai26)  
-[13. The Hasmonæans.](phai27)  
-[14. Herod And The Romans.](phai28)  
-[15. The Rabbins.](phai29)  
-[16. The Jewish Dispersion.](phai30)  
-[Index of Passages Discussed](phai31)  
+[1. The Beginnings of the Nation](phai15.md)  
+[2. The Settlement in Palestine](phai16.md)  
+[3. The Foundation of the Kingdom, and the First Three Kings](phai17.md)  
+[4. From Jeroboam I. to Jeroboam II.](phai18.md)  
+[5. God, the World, and the Life of Men in Old Israel.](phai19.md)  
+[6. The Fall of Samaria.](phai20.md)  
+[7. The Deliverance of Judah.](phai21.md)  
+[8. The Prophetic Reformation.](phai22.md)  
+[9. Jeremiah and the Destruction of Jerusalem.](phai23.md)  
+[10. The Captivity and the Restoration](phai24.md)  
+[11. Judaism and Christianity](phai25.md)  
+[12. The Hellenistic Period.](phai26.md)  
+[13. The Hasmonæans.](phai27.md)  
+[14. Herod And The Romans.](phai28.md)  
+[15. The Rabbins.](phai29.md)  
+[16. The Jewish Dispersion.](phai30.md)  
+[Index of Passages Discussed](phai31.md)  

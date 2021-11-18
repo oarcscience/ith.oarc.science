@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait16)  [Next](ait18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait16)  [Next](ait18.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![B](img/14300.jpg) |
+| ![B](img/14300.jpg.md) |
 
 IG Wave and his little nephew, Red Shell, lived together in a deep
 forest. The boy was the only relative that the old man had, and he was
@@ -165,7 +165,7 @@ turned the canoe
 <span id="img_14800"></span>
 
 [![“Whispered to the Swans, ‘Come, let us go home.’”](tn/14800.jpg)  
-Click to enlarge](img/14800.jpg)  
+Click to enlarge](img/14800.jpg.md)  
 “Whispered to the Swans, ‘Come, let us go home.’”  
 
 <span id="page_149">p. 149</span>
@@ -298,4 +298,4 @@ dwelt together in peace to the end of their lives.
 
 ------------------------------------------------------------------------
 
-[Next: Stone-Shirt and the One-Two](ait18)
+[Next: Stone-Shirt and the One-Two](ait18.md)

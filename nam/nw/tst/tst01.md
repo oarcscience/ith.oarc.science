@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](tst00)  [Next](tst02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](tst00)  [Next](tst02.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,9 +153,9 @@ It is in accord with this tendency that he omits very often the terminal
 -*ga*<sup>0</sup> indicating absence, which Dundas uses regularly. The
 same tendency may be observed in the texts dictated to me by Matthias, a
 native of Old Metlakatla in 1886, and printed in A. C. von der
-Schulenburg's Grammar; <span id="fr_0"></span>[1](#fn_0) while a text
+Schulenburg's Grammar; <span id="fr_0"></span>[1](#fn_0.md) while a text
 dictated to me by Mrs. Morison, a native of Port Simpson, which may be
-found at the same place, <span id="fr_1"></span>[2](#fn_1) does not show
+found at the same place, <span id="fr_1"></span>[2](#fn_1.md) does not show
 the same tendency. Examples taken from Mr. 'Fate's manuscript are:--
 
 Ada ~~l~~a dEm ksE'rEt (instead of ksE'rEtga<sup>0</sup>) when she went
@@ -177,13 +177,13 @@ He also often omits the possessive *-t* of the third person, and the
 demonstrative terminal *-t*.
 
 In the written texts, inaccuracies of construction creep in easily. I
-should have [preferred](errata.htm#0) a revision of the texts with Mr.
+should have [preferred](errata.htm#0.md) a revision of the texts with Mr.
 Tate, but this was not feasible.
 
 I published a text with interlinear translation and grammatical notes in
 the "Zeitschrift für Ethnologie," 1908, pp. 776-797. A grammatical
 sketch of the language is contained in the "Handbook of American
-Languages." <span id="fr_2"></span>[3](#fn_2)
+Languages." <span id="fr_2"></span>[3](#fn_2.md)
 
 FRANZ BOAS.
 
@@ -191,14 +191,14 @@ FRANZ BOAS.
 
 ### Footnotes
 
-<span id="fn_0"></span>[69:1](tst01.htm#fr_0) Die Sprache der Zimshîan
+<span id="fn_0"></span>[69:1](tst01.htm#fr_0.md) Die Sprache der Zimshîan
 Indianer, pp. 188 et seq.
 
-<span id="fn_1"></span>[69:2](tst01.htm#fr_1) Ibid., pp. 183 et seq.
+<span id="fn_1"></span>[69:2](tst01.htm#fr_1.md) Ibid., pp. 183 et seq.
 
-<span id="fn_2"></span>[69:3](tst01.htm#fr_2) Bulletin 40 of the Bureau
+<span id="fn_2"></span>[69:3](tst01.htm#fr_2.md) Bulletin 40 of the Bureau
 of American Ethnology.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Story of Asdi-wâ'l; or, The Meeting on the Ice.](tst02)
+[Next: 1. The Story of Asdi-wâ'l; or, The Meeting on the Ice.](tst02.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn33)  [Next](rmn35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn33)  [Next](rmn35.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ attitude and gestures, all indicate admiration and desire.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXIV: Venus on her Shell Conch](rmn35)
+[Next: Plate XXXIV: Venus on her Shell Conch](rmn35.md)

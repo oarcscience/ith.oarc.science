@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tigs08)  [Next](tigs10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tigs08)  [Next](tigs10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *True Irish Ghost Stories*, by St. John D. Seymour and Harry L. Neligan,
 \[1914\], at Intangible Textual Heritage
 
@@ -64,7 +64,7 @@ families of Irish descent, for the last incident had reference to the
 death of a member of a Co. Galway family English by name and origin.
 
 One of the oldest and best-known Banshee stories is that related in the
-*Memoirs* of Lady Fanshaw. <span id="fr_9"></span>[1](#fn_9) In 1642 her
+*Memoirs* of Lady Fanshaw. <span id="fr_9"></span>[1](#fn_9.md) In 1642 her
 husband, Sir Richard, and she chanced to visit a friend, the head of an
 Irish sept, who resided in his ancient baronial castle, surrounded with
 a moat. At midnight she was awakened by a ghastly and supernatural
@@ -190,7 +190,7 @@ his brain. However, the boy, who appeared quite sensible, still
 persisted that he heard someone crying, and furthermore said, "It is the
 Banshee, as I have heard it before." The following morning the
 head-master received a telegram saying that the boy's brother had been
-accidentally shot dead. <span id="fr_10"></span>[1](#fn_10)
+accidentally shot dead. <span id="fr_10"></span>[1](#fn_10.md)
 
 That the Banshee is not confined within the geographical limits of
 Ireland, but that she can follow the fortunes of a family abroad, and
@@ -243,7 +243,7 @@ nearly associated with me. Pray Heaven it is not my wife or daughter."
 
 On that score, however, his anxiety was speedily removed, for within two
 hours he was seized with a violent attack of angina pectoris, and died
-before morning. <span id="fr_11"></span>[1](#fn_11)
+before morning. <span id="fr_11"></span>[1](#fn_11.md)
 
 Mr. Elliott O’Donnell, to whose article on "Banshees" we are indebted
 for the above, adds: "The Banshee never manifests itself to the person
@@ -410,7 +410,7 @@ shake off his fetters. In amazement he did so, and was led out past his
 guards by an angel. He made his way to Columcille, with whom he was to
 continue that night, and as the Saint stooped down to unloose his
 brogues Scanlan anticipated him, as he had prophesied. <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 Such appears to be the traditional origin of the "Scanlan lights." Our
 correspondent adds: "These are always seen at the demise of a member of
@@ -499,29 +499,29 @@ another, while he could hear several more moving close by in the
 darkness. He then went to the end door, opposite the altar, and on
 opening it saw two more foxes, one so close that he could have touched
 it with his foot. On shutting the door the noise continued till 5 A.M.,
-when it suddenly ceased. <span id="fr_13"></span>[1](#fn_13)
+when it suddenly ceased. <span id="fr_13"></span>[1](#fn_13.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_9"></span>[177:1](tigs09.htm#fr_9) Scott's *Lady of the
+<span id="fn_9"></span>[177:1](tigs09.htm#fr_9.md) Scott's *Lady of the
 Lake*, notes to Canto III (edition of 1811).
 
-<span id="fn_10"></span>[183:1](tigs09.htm#fr_10) A. G. Bradley, *Notes
+<span id="fn_10"></span>[183:1](tigs09.htm#fr_10.md) A. G. Bradley, *Notes
 on some Irish Superstitions*, p. 9.
 
-<span id="fn_11"></span>[185:1](tigs09.htm#fr_11) *Occult Review* for
+<span id="fn_11"></span>[185:1](tigs09.htm#fr_11.md) *Occult Review* for
 September, 1913.
 
-<span id="fn_12"></span>[193:1](tigs09.htm#fr_12) Canon Carrigan, in his
+<span id="fn_12"></span>[193:1](tigs09.htm#fr_12.md) Canon Carrigan, in his
 *History of the Diocese of Ossory* (l. 32 intro.), shows that this
 legend should rather be connected With Scanlan son of Ceannfaeladh.
 
-<span id="fn_13"></span>[197:1](tigs09.htm#fr_13) *New Ireland Review*
+<span id="fn_13"></span>[197:1](tigs09.htm#fr_13.md) *New Ireland Review*
 for April 1908, by permission of the publishers, Messrs Sealy Bryers, &
 Walker.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Miscellaneous Supernormal Experiences](tigs10)
+[Next: Chapter VIII. Miscellaneous Supernormal Experiences](tigs10.md)

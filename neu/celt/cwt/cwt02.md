@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cwt01)  [Next](cwt03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cwt01)  [Next](cwt03.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ the world.
 
 ------------------------------------------------------------------------
 
-[Next: A Good Action](cwt03)
+[Next: A Good Action](cwt03.md)

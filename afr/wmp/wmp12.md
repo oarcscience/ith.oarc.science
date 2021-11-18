@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp11)  [Next](wmp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp11)  [Next](wmp13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -570,7 +570,7 @@ the "pelsit," so
 <span id="page_155">p. 155</span>
 
 inimitably described in the fascinating pages of "In Court and
-Kampong." <span id="fr_26"></span>[1](#fn_26)
+Kampong." <span id="fr_26"></span>[1](#fn_26.md)
 
 "Polong and pelsit are but other names for bajang, the latter is chiefly
 used in the State of Kedah, where it is considered rather chic to have a
@@ -612,7 +612,7 @@ it to a place where three roads meet, light a fire and heat the shell
 till oil exudes, dip the child's tongue in the oil and bury it in the
 heart of the three cross roads (*hati sempang tiga*). Leave it untouched
 for three nights, then dig it up and you will find that it has turned
-into a pelsit." <span id="fr_27"></span>[1](#fn_27)
+into a pelsit." <span id="fr_27"></span>[1](#fn_27.md)
 
 It is to propitiate the evil spirits which dwell beneath ant-hills that
 little huts are so often built above them, usually hung round with
@@ -715,7 +715,7 @@ Before the treasure may be touched, magic leaves must be pounded into a
 fine paste and mixed with water. This medicine is called *usuk*, i.e.
 disinfectant, and should be sprinkled over the gift, to destroy all evil
 influences which might otherwise attach to wealth gained in so strange a
-way. <span id="fr_28"></span>[1](#fn_28) Even so, after the "first
+way. <span id="fr_28"></span>[1](#fn_28.md) Even so, after the "first
 fruits" have been borne as an offering to the
 
 <span id="page_160">p. 160</span>
@@ -777,12 +777,12 @@ human power to remedy.
 
 ### Footnotes
 
-<span id="fn_26"></span>[155:1](wmp12.htm#fr_26) Sir Hugh Clifford.
+<span id="fn_26"></span>[155:1](wmp12.htm#fr_26.md) Sir Hugh Clifford.
 
-<span id="fn_27"></span>[156:1](wmp12.htm#fr_27) Sir Hugh Clifford, "In
+<span id="fn_27"></span>[156:1](wmp12.htm#fr_27.md) Sir Hugh Clifford, "In
 Court and Kampong," pp. 230 and 244.
 
-<span id="fn_28"></span>[159:1](wmp12.htm#fr_28) Cf. the Malay custom of
+<span id="fn_28"></span>[159:1](wmp12.htm#fr_28.md) Cf. the Malay custom of
 sprinkling "tepong tawar," which properly means "the neutralising
 rice-flour water," neutralising being used almost in a chemical sense,
 i.e. in the sense of "sterilising" the active element of poisons. A. E.
@@ -792,6 +792,6 @@ Crawley, "Mystic Rose," p. 326.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11: Witchcraft](wmp13)
+[Next: Chapter 11: Witchcraft](wmp13.md)
 
 </div>

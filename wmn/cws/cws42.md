@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws41)  [Next](cws43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws41)  [Next](cws43.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXXVIII
 
-#### CONCERNING THE DOCTRINE OF GRACE <span id="fr_156"></span>[4](#fn_156)
+#### CONCERNING THE DOCTRINE OF GRACE <span id="fr_156"></span>[4](#fn_156.md)
 
 ONE of the most dangerous mysteries to place in the hands of the vulgar
 is that of the doctrine of grace. When once union has been accomplished
@@ -38,10 +38,10 @@ Wherefore the latter is said to be the son of the former.
 
 ### Footnotes
 
-<span id="fn_156"></span>[93:4](cws42.htm#fr_156) London, December 1880.
+<span id="fn_156"></span>[93:4](cws42.htm#fr_156.md) London, December 1880.
 Spoken in trance. Referred to in *Life of Anna Kingsford*, vol. i, pp.
 402-403.
 
 ------------------------------------------------------------------------
 
-[Next: No. XXXIX: Concerning The ''Four Atmospheres''](cws43)
+[Next: No. XXXIX: Concerning The ''Four Atmospheres''](cws43.md)

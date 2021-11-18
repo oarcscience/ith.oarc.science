@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mog03)  [Next](mog05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mog03)  [Next](mog05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ both in Mycenaean civilization and in Greek mythology. It is the richest
 in Mycenaean remains as well as in myths. Its capital was Mycenae, and
 that this city should give its name to the age and the civilization with
 which we have to deal is justified by discoveries which have been
-surpassed nowhere; <span id="fr_34"></span>[4](#fn_34) for in this
+surpassed nowhere; <span id="fr_34"></span>[4](#fn_34.md) for in this
 connection we do not speak of Crete and the Minoan civilization. Mycenae
 was the proudest and wealthiest town of Mycenaean Greece. The
 architectural remains are imposing: the city wall with the Lion Gate,
@@ -33,7 +33,7 @@ which the Mycenaean civilization was first discovered; their richness is
 still unsurpassed. There are also numerous chamber tombs; Professor
 Tsoundas excavated some of them long ago and the English School in
 Athens explored recently the extensive cemetery of Kalkani. <span
-id="fr_35"></span>[5](#fn_35) Their great number proves that Mycenae was
+id="fr_35"></span>[5](#fn_35.md) Their great number proves that Mycenae was
 populous and their contents, that its inhabitants were prosperous.
 
 Tiryns seems almost to rival Mycenae because of its mighty walls with
@@ -54,23 +54,23 @@ the village of Dendra, Professor Persson had the
 
 luck to discover a collapsed but untouched bee-hive tomb and several
 chamber tombs. The finds are famous and rival in value those of
-Mycenae. <span id="fr_36"></span>[6](#fn_36)
+Mycenae. <span id="fr_36"></span>[6](#fn_36.md)
 
 It is proved by archaeological facts that on the site where the famous
 temple of Hera, the Heraeum, stood later, there once was another
 Mycenaean city. There are traces of Mycenaean walls and houses;
 Mycenaean sherds and idols are found; <span
-id="fr_37"></span>[7](#fn_37) there is a bee-hive tomb in the
+id="fr_37"></span>[7](#fn_37.md) there is a bee-hive tomb in the
 neighborhood, and, finally, rich chamber tombs from all periods of the
 Mycenaean age were recently excavated by American archaeologists. <span
-id="fr_38"></span>[8](#fn_38)
+id="fr_38"></span>[8](#fn_38.md)
 
 The remains from Argos, the capital of Argolis in historical times, are
 less significant. On a low hill called Aspis, Mycenaean sherds were
 found and on Deiras, the ridge which unites this hill with the imposing
 acropolis, the Larissa, some chamber tombs were excavated. On the
 Larissa some remains of Mycenaean walls were discovered recently. <span
-id="fr_39"></span>[9](#fn_39)
+id="fr_39"></span>[9](#fn_39.md)
 
 There are also several minor sites in Argolis; e.g., in the neighborhood
 of Corinth, Nauplia, and Asine, where a Swedish expedition has unearthed
@@ -79,7 +79,7 @@ a small
 <span id="page_39">p. 39</span>
 
 <span class="contnote">\[paragraph continues\]</span> Mycenaean town and
-found a series of chamber tombs. <span id="fr_40"></span>[10](#fn_40)
+found a series of chamber tombs. <span id="fr_40"></span>[10](#fn_40.md)
 
 This brief recalling of the outstanding archaeological facts will be
 sufficient for our purpose. Turning to the myths, we commence with the
@@ -93,7 +93,7 @@ of tombs, the shaft-graves, have been said to be those of the Perseidae
 and the later, the bee-hive tombs, to have been erected by the later
 dynasty, the Atreidae; but this parallelism can hardly be held reliable.
 It is more specious than founded on facts and had better be left out of
-account. <span id="fr_41"></span>[11](#fn_41) We turn to the myths
+account. <span id="fr_41"></span>[11](#fn_41.md) We turn to the myths
 themselves.
 
 <span id="page_40">p. 40</span>
@@ -101,7 +101,7 @@ themselves.
 The most prominent hero of Mycenae in the earlier mythical generation is
 Perseus. The kernel of his myth is the slaying of the monster Gorgo, and
 is perhaps the best instance of a folk-tale received into Greek heroic
-mythology. <span id="fr_42"></span>[12](#fn_42) To this kernel his birth
+mythology. <span id="fr_42"></span>[12](#fn_42.md) To this kernel his birth
 story had already been added in Mycenaean times, but the episode taking
 place on the island of Seriphus seems to be of a rather late date and
 may be passed over here. The myth of Perseus is unusually crowded with
@@ -114,12 +114,12 @@ received into the heroic mythology.
 
 It is generally recognized that Perseus belongs to Mycenae. He is said
 to be the founder of the city. An etymological explanation was invented
-later. <span id="fr_43"></span>[13](#fn_43) That the founding of the
+later. <span id="fr_43"></span>[13](#fn_43.md) That the founding of the
 city had to be fitted with some pains into the series of his adventures
 seems to make it probable that his connection with the city of Mycenae
 depended on old tradition. There was a heroön said to be that of Perseus
 on the road from Mycenae to Argos, but that may be late, as was
-certainly the altar on Seriphus. <span id="fr_44"></span>[14](#fn_44)
+certainly the altar on Seriphus. <span id="fr_44"></span>[14](#fn_44.md)
 There is better evidence for his cult at Mycenae. An inscription in
 archaic letters found between the
 
@@ -128,7 +128,7 @@ archaic letters found between the
 <span class="contnote">\[paragraph continues\]</span> Lion Gate and the
 so-called tomb of Clytaemestra speaks of some officials connected with
 Perseus to whom judicial functions are attributed in certain
-cases. <span id="fr_45"></span>[15](#fn_45) This proves that these
+cases. <span id="fr_45"></span>[15](#fn_45.md) This proves that these
 officials were an old and venerable corporation. Professor Robert
 assumes that it was sent from Argos to provide for the cult of Perseus,
 following the destruction of Mycenae by the Argives some time after the
@@ -138,7 +138,7 @@ seems, however, to be too early to permit such an interpretation. In
 regard to the date of the cult, we can only infer that it existed in the
 archaic age, a fact which proves that Perseus' connection with Mycenae
 is of old date. During the Roman age it was a matter of course. <span
-id="fr_46"></span>[16](#fn_46)
+id="fr_46"></span>[16](#fn_46.md)
 
 The genealogies are of little or no value, being invented in order to
 fit Perseus into the common pseudo-historical scheme. I gave voice above
@@ -159,7 +159,7 @@ plunderers.
 
 There is, however, a more certain indication to the same effect: the
 name of Perseus' mother Danaë signifies nothing but "the Danaan
-maiden." <span id="fr_47"></span>[17](#fn_47) In the beginning the
+maiden." <span id="fr_47"></span>[17](#fn_47.md) In the beginning the
 Danaan maiden had of course no father, or if she had one he was
 evidently a Danaan man, a Danaüs, just as Chryses is the father of
 Chryseis, the maiden from Chryse. Acrisius was introduced later and made
@@ -184,12 +184,12 @@ deeds and misfortunes have been celebrated in so many famous tragedies.
 especially its chief representative in Homer, Agamemnon, seem to be
 firmly localized at Mycenae, but even this has been denied. Professor
 Wilamowitz has said that the artificial make-up of the name of Atreus is
-apparent; <span id="fr_48"></span>[18](#fn_48) i.e., he is of the
+apparent; <span id="fr_48"></span>[18](#fn_48.md) i.e., he is of the
 opinion that this name is formed from the family name attributed to
 Agamemnon, the Atreides. This seems hardly to be a happy idea. We have
 seen that names ending in -*eus* make up an older series of mythical
 names and go back to a great antiquity. <span
-id="fr_49"></span>[19](#fn_49) Of course a name may have been formed
+id="fr_49"></span>[19](#fn_49.md) Of course a name may have been formed
 later with this ending, but in this case one would expect the stem of
 the name to be clear, as it is, e.g., in the name of Eurystheus' herald
 Copreus, "the Dung-man." This is not true of the name Atreus. Or if
@@ -201,7 +201,7 @@ its basis, and this seems to be by far the most probable view. Atreus is
 certainly an old mythical personage and no late invention.
 
 This opinion is corroborated by the famous passage describing the
-scepter of Agamemnon, <span id="fr_50"></span>[20](#fn_50) in which the
+scepter of Agamemnon, <span id="fr_50"></span>[20](#fn_50.md) in which the
 genealogy of the house of the Atreidae is given. The scepter carried by
 Agamemnon is said to have been wrought by Hephaestus and given to Zeus;
 Zeus gave it to Hermes, Hermes to Pelops,
@@ -215,7 +215,7 @@ scholars who embrace the opinion that Homer's description of the
 kingship reflects the conditions of the early historical age recognize
 in this passage a relict of a much older age, in which the king was
 invested with a really kingly power; it can but be the Mycenaean
-age. <span id="fr_51"></span>[21](#fn_51) But the genealogy is so
+age. <span id="fr_51"></span>[21](#fn_51.md) But the genealogy is so
 closely linked up with this description of the kingly power that the
 former cannot be separated from the latter. Both go back into the
 Mycenaean age.
@@ -225,13 +225,13 @@ genealogy is the father of Atreus, Pelops. The house being called after
 Atreus, Pelops appears to have been put at the head of the genealogy
 secondarily. He is recognized to be nothing but the eponymous hero of
 the Pelopes, the vanished tribe which gave its name to the
-Peloponnese. <span id="fr_52"></span>[22](#fn_52) The form is that of a
+Peloponnese. <span id="fr_52"></span>[22](#fn_52.md) The form is that of a
 number of Greek tribal names ending in -*ops*, plur. -*opes*. That is
 the reason why at an early date he was made the ancestor of the kingly
 house which ruled the peninsula or at least the most important part of
 it. Other myths connected with Pelops are late. He plays an important
 part in the myths of Olympia, which are post-Mycenaean, <span
-id="fr_53"></span>[23](#fn_53) and his connections with Asia Minor are
+id="fr_53"></span>[23](#fn_53.md) and his connections with Asia Minor are
 certainly also of late date. Pelops himself is by his name proved to be
 of Greek origin.
 
@@ -251,37 +251,37 @@ and internecine feuds, on the other, cunning cruelty and deceptive ruse.
 
 One would think that at any rate Agamemnon's localization at Mycenae is
 firm and well attested, but even this has been denied. When Professor
-Bethe says <span id="fr_54"></span>[24](#fn_54) that in the Iliad
+Bethe says <span id="fr_54"></span>[24](#fn_54.md) that in the Iliad
 Agamemnon is only twice or thrice called king of Mycenae and in other
-passages is said to be from Argos, <span id="fr_55"></span>[25](#fn_55)
+passages is said to be from Argos, <span id="fr_55"></span>[25](#fn_55.md)
 and from this pretended discrepancy concludes that he was originally not
 king of Mycenae but a war king, a commander-in-chief of the Greek
 troops, he is using a logic by which it would be possible to argue that
 the king of Prussia was not at the same time emperor of Germany. I
 confess that I cannot imagine a war king without a city and country of
-his own. <span id="fr_56"></span>[26](#fn_56)
+his own. <span id="fr_56"></span>[26](#fn_56.md)
 
 <span id="page_46">p. 46</span>
 
 There are other more specious arguments to the same effect. The best one
 is the oft repeated contention that Agamemnon originally was a god. I do
 not enter upon the question of principles. <span
-id="fr_57"></span>[27](#fn_57) Some time ago scholars preferred to
+id="fr_57"></span>[27](#fn_57.md) Some time ago scholars preferred to
 regard Greek heroes as faded gods. This theory has lost much of its
 attractiveness, although there are certainly such heroes even if there
 are not so many as was imagined. But for Agamemnon's godhead no good
 evidence exists, as has been proved in a searching analysis. <span
-id="fr_58"></span>[28](#fn_58) The idea is founded upon an expression in
-the enigmatical poem of Lycophron, <span id="fr_59"></span>[29](#fn_59)
+id="fr_58"></span>[28](#fn_58.md) The idea is founded upon an expression in
+the enigmatical poem of Lycophron, <span id="fr_59"></span>[29](#fn_59.md)
 but here the expression is partly a copy of the Hellenistic cult of the
 rulers, partly a synecdoche; Agamemnon is used for Zeus and vice versa.
 The scholiast commenting on the passage or his source was guilty of the
 conclusion that Agamemnon was venerated as Zeus Agamemnon and gave him a
 temple, too, whose emplacement he deduced from a following verse <span
-id="fr_60"></span>[30](#fn_60) to be a deme in Laconia which elsewhere
+id="fr_60"></span>[30](#fn_60.md) to be a deme in Laconia which elsewhere
 is unknown, Lapersai. The temple is not mentioned elsewhere, but there
 was a memorial of Agamemnon in the temple of Alexandra at Amyclae. <span
-id="fr_61"></span>[31](#fn_61) This Zeus
+id="fr_61"></span>[31](#fn_61.md) This Zeus
 
 <span id="page_47">p. 47</span>
 
@@ -296,7 +296,7 @@ Still worse is the second testimony. Pausanias relates that the
 inhabitants of Chaeronea venerated Agamemnon's scepter, of which Homer
 speaks, but states that they called it a spear and that it had been
 found together with some golden objects on the boundary between
-Chaeronea and Panopeus. <span id="fr_62"></span>[32](#fn_62) I cannot
+Chaeronea and Panopeus. <span id="fr_62"></span>[32](#fn_62.md) I cannot
 see why this information should be rejected. Why is it improbable that
 people had discovered an old tomb containing gold objects and a spear or
 staff which they took the fancy to venerate? But apart from this the
@@ -307,14 +307,14 @@ scepter was venerated, this in no wise proves that Agamemnon himself was
 a god.
 
 Other so-called testimony quoted to the same effect is most
-futile. <span id="fr_63"></span>[33](#fn_63) It is related that
+futile. <span id="fr_63"></span>[33](#fn_63.md) It is related that
 Agamemnon dug wells at Aulis and in other places of Greece, that he was
 honored in baths at Clazomenae, and that the inhabitants of Smyrna
 called a bath by
 
 <span id="page_48">p. 48</span>
 
-his name. <span id="fr_64"></span>[34](#fn_64) In the same way warm
+his name. <span id="fr_64"></span>[34](#fn_64.md) In the same way warm
 springs, even baths, were attributed to another hero, Heracles. It is
 hardly necessary to state that this is no proof of the existence of a
 cult. A god Agamemnon never existed except in the fancy of the
@@ -323,11 +323,11 @@ interpreters of Lycophron.
 Others do not believe in the old god Agamemnon but contend that the hero
 Agamemnon originally belongs to Asia Minor; his family is said to have
 survived on Lesbos and at Cyme. Only Homer brought him to Greece, for
-Perseus was the hero of Mycenae. <span id="fr_65"></span>[35](#fn_65) To
+Perseus was the hero of Mycenae. <span id="fr_65"></span>[35](#fn_65.md) To
 begin with, I cannot see why a town cannot have two heroes or more; most
 of them have. In regard to the descendants of Agamemnon in Asia Minor,
 the testimony is as follows. A passage in Pollux <span
-id="fr_66"></span>[36](#fn_66) speaks about those who invented the
+id="fr_66"></span>[36](#fn_66.md) speaks about those who invented the
 process of coining money, mentioning Pheidon and Demodike from Cyme,
 wife of the Phrygian king, Midas, and daughter of a King Agamemnon of
 Cyme. That the kingly house of Cyme claimed descent from Agamemnon
@@ -336,7 +336,7 @@ inference, and if they did ennoble their pedigree by attaching to it one
 of the famous heroes of Greek mythology, so also did others, for
 example, the kingly house of Lydia. For my part I am inclined to draw
 quite another conclusion; namely, that in the end of the eighth century
-B.C. <span id="fr_67"></span>[37](#fn_67) Agamemnon was still used
+B.C. <span id="fr_67"></span>[37](#fn_67.md) Agamemnon was still used
 
 <span id="page_49">p. 49</span>
 
@@ -345,13 +345,13 @@ Hellenistic age. It follows that Agamemnon was not venerated as a hero
 at that time and still less was he believed to be a god.
 
 On Lesbos there was a town, Penthile, <span
-id="fr_68"></span>[38](#fn_68) and to this belongs probably the noble
+id="fr_68"></span>[38](#fn_68.md) and to this belongs probably the noble
 family of the Penthelidae. Aristoteles relates that the members of this
 family were wont to go about at Mytilene striking people with clubs but
 were overcome by Megacles and his friends. <span
-id="fr_69"></span>[39](#fn_69) Further, it is related in several
+id="fr_69"></span>[39](#fn_69.md) Further, it is related in several
 differing versions that Orestes or his descendants emigrated to Asia
-Minor. <span id="fr_70"></span>[40](#fn_70) The tradition here relevant
+Minor. <span id="fr_70"></span>[40](#fn_70.md) The tradition here relevant
 says that the son of Orestes and Erigone, Penthilus, or his grandson
 Gras, went to Lesbos and founded cities there. This Penthilus is of
 course taken to be the ancestor of the Penthelidae, but their claim to
@@ -361,7 +361,7 @@ Macedonia. Penthilus is a late invention akin to Megapenthes, the
 bastard son of Menelaus, or the son of Proetus who exchanged Tiryns for
 Argos with Perseus; his name hints at the calamities of the house of the
 Atreidae. The fact that a noble family of Lesbos was called
-Penthelidae <span id="fr_71"></span>[41](#fn_71) facilitated a
+Penthelidae <span id="fr_71"></span>[41](#fn_71.md) facilitated a
 connection with heroic genealogy, such as noble families loved. Their
 name was certainly derived from that of the town.
 
@@ -382,7 +382,7 @@ the myths, if doubt had not been cast upon the connection of Agamemnon
 and his house with Mycenae. His position as overlord of the Greek
 princes is another heritage from the Mycenaean age, due to the wealth
 and power of his city; I shall recur to this topic in my last
-chapter. <span id="fr_72"></span>[42](#fn_72) Finally, it is to be
+chapter. <span id="fr_72"></span>[42](#fn_72.md) Finally, it is to be
 observed that it is quite incomprehensible how the wealth of myths
 attached to Mycenae came into existence if they were created in
 historical times, when Mycenae was a very small and unimportant town;
@@ -409,26 +409,26 @@ questionable.
 Bellerophon is always said to be a Corinthian by birth, the son of
 Glaucus, and the grandson of the wily Sisyphus. At Corinth he had a
 sacred precinct, a cypress grove on the road to the harbor town
-Kenchreai, <span id="fr_73"></span>[43](#fn_73) and Athena Chalinitis,
+Kenchreai, <span id="fr_73"></span>[43](#fn_73.md) and Athena Chalinitis,
 who had a temple at Corinth, was said to have this epithet because she
 had tamed Pegasus, placed a bit in his mouth, and given him to
-Bellerophon. <span id="fr_74"></span>[44](#fn_74) More important than
+Bellerophon. <span id="fr_74"></span>[44](#fn_74.md) More important than
 this tradition is the fact that Pegasus appears on the coins of Corinth
 and of the neighboring town of Sicyon from the earliest time of coinage.
 In the sixth century B.C., Corinth and Sicyon laid claim to Bellerophon.
 
 Homer, who narrates his story at length, <span
-id="fr_75"></span>[45](#fn_75) says that he was the son of Glaucus and
+id="fr_75"></span>[45](#fn_75.md) says that he was the son of Glaucus and
 the grandson of Sisyphus, but states that he came from Ephyre in the
 interior of horse-breeding Argos. The current identification of Ephyre
-with Corinth is questionable. <span id="fr_76"></span>[46](#fn_76)
+with Corinth is questionable. <span id="fr_76"></span>[46](#fn_76.md)
 Further, Homer has no mention of Pegasus, and Aristarchus may be right
 in concluding that he
 
 <span id="page_52">p. 52</span>
 
 did not know this feature of the myth. <span
-id="fr_77"></span>[47](#fn_77) Hesiod has it, just as he has many other
+id="fr_77"></span>[47](#fn_77.md) Hesiod has it, just as he has many other
 innovations.
 
 Genealogies are not to be trusted very much in proving the old
@@ -457,7 +457,7 @@ people of the Argives because Bellerophon, though subject
 
 <span id="page_53">p. 53</span>
 
-to him, was a better man than he. <span id="fr_78"></span>[48](#fn_78)
+to him, was a better man than he. <span id="fr_78"></span>[48](#fn_78.md)
 This is the regular epical opinion concerning a king's jealousy of a
 brave vassal; it may have been introduced surreptitiously or it may have
 preserved an earlier tradition; in the next lines the Potiphar motif is
@@ -477,7 +477,7 @@ in far-off Lycia. The Amazons are at home in Asia Minor, whatever fact
 or people may be underlying the myth. The Solymi are always located in
 the neighborhood of Lycia, although it cannot be proved that references
 in later authors are independent of Homer. Professor Malten proved in a
-substantial paper <span id="fr_79"></span>[49](#fn_79) that the Chimaera
+substantial paper <span id="fr_79"></span>[49](#fn_79.md) that the Chimaera
 and the winged horse are of Oriental origin; he thinks that Bellerophon
 is a Lycian hero
 
@@ -488,13 +488,13 @@ eastern shores of the Mediterranean in the Mycenaean age. If this kernel
 of the cycle dates from the Mycenaean age, it may seem strange that its
 setting is far-off Lycia, and that may perhaps be adduced as an argument
 against this dating. Happily a Mycenaean representation, the glass
-plaque from Dendra, <span id="fr_80"></span>[50](#fn_80) shows that the
+plaque from Dendra, <span id="fr_80"></span>[50](#fn_80.md) shows that the
 adventure with the Chimaera was known in the Mycenaean age.
 
 If we consider things closely, it is not to be wondered at that a
 Mycenaean myth has its setting in Lycia. It is contended that the
 Bellerophon myth was introduced into Homer by the Ionians. <span
-id="fr_81"></span>[51](#fn_81) It is, however, to be observed that there
+id="fr_81"></span>[51](#fn_81.md) It is, however, to be observed that there
 is a wide tract of land between Ionia and Lycia inhabited by Dorians and
 Carians, and the question is relevant, why have not the Ionians
 introduced their own myths? The answer is that they had none. Ionia is
@@ -503,7 +503,7 @@ cities. Here is a remarkable fact which ought to be well observed and
 which requires an explanation.
 
 This fact agrees with certain outstanding omissions in Homeric
-geography. <span id="fr_82"></span>[52](#fn_82) The islands situated in
+geography. <span id="fr_82"></span>[52](#fn_82.md) The islands situated in
 the neighborhood of Troy, Lesbos, Tenedos, Lemnos, and Samothrace, are
 mentioned, but not the rich Ionian islands, Chios and Samos. On the
 contrary the Dorian islands Cos and Rhodes are mentioned,
@@ -511,17 +511,17 @@ contrary the Dorian islands Cos and Rhodes are mentioned,
 <span id="page_55">p. 55</span>
 
 <span class="contnote">\[paragraph continues\]</span> Cos in connection
-with a myth of Heracles <span id="fr_83"></span>[53](#fn_83) and Rhodes
+with a myth of Heracles <span id="fr_83"></span>[53](#fn_83.md) and Rhodes
 in a passage considered to be a later addition, in which is described at
 length how the Rhodian hero Tlepolemus was killed by Sarpedon. <span
-id="fr_84"></span>[54](#fn_84) It is really curious that the Ionian
+id="fr_84"></span>[54](#fn_84.md) It is really curious that the Ionian
 minstrels had nothing from their own country to put into their poems.
 This fact is notable, for it agrees in a surprising manner with the
 well-known but too little appreciated fact that Mycenaean remains are
 almost entirely lacking in Ionia. Mycenaean vases and sherds were found
 at Troy, at Phocaea, and at Miletus, a single tomb was discovered at the
-Heraeum of Samos, <span id="fr_85"></span>[55](#fn_85) and a bee-hive
-tomb was discovered at Colophon. <span id="fr_86"></span>[56](#fn_86)
+Heraeum of Samos, <span id="fr_85"></span>[55](#fn_85.md) and a bee-hive
+tomb was discovered at Colophon. <span id="fr_86"></span>[56](#fn_86.md)
 That is all, and nobody will doubt that if there were Mycenaean tombs
 their contents would have appeared in the hands of the dealers. This was
 the case on Rhodes, which, on the contrary, is full of Mycenaean tombs
@@ -530,14 +530,14 @@ a place in Homer, and I am not disposed to think it accidental.
 
 The curious facts and connections put forward here are further stressed
 by a consideration of the peoples allied with the Trojans. <span
-id="fr_87"></span>[57](#fn_87) If we take the relevant passages into
+id="fr_87"></span>[57](#fn_87.md) If we take the relevant passages into
 consideration, omitting the Catalogue, it appears that the range is
 strictly limited to north-western Asia Minor and the neighboring parts
 of
 
 <span id="page_56">p. 56</span>
 
-Europe. <span id="fr_88"></span>[58](#fn_88) Most prominent are the
+Europe. <span id="fr_88"></span>[58](#fn_88.md) Most prominent are the
 Thracians of Europe, with one exception to which I recur below, even if
 the Doloneia is left out of account. Next to them come the Paeones, a
 more western Thracian tribe. For the description of the death of the two
@@ -568,22 +568,22 @@ mentioned, the Lycians who lived in the far-off south of Asia Minor.
 The passages where Lycia and the Lycians are mentioned are too numerous
 to be enumerated, and I need only point to the prominent part played by
 the Lycian heroes Sarpedon, Glaucus, and Pandarus in various songs of
-the Iliad. <span id="fr_89"></span>[59](#fn_89) But in the fourth book
+the Iliad. <span id="fr_89"></span>[59](#fn_89.md) But in the fourth book
 it is said that Pandarus came from the town of Zeleia and the river
-Aesepus, <span id="fr_90"></span>[60](#fn_90) which flows from Mount Ida
-to the sea, <span id="fr_91"></span>[61](#fn_91) and these indications
+Aesepus, <span id="fr_90"></span>[60](#fn_90.md) which flows from Mount Ida
+to the sea, <span id="fr_91"></span>[61](#fn_91.md) and these indications
 are
 
 <span id="page_58">p. 58</span>
 
-reproduced in the Catalogue. <span id="fr_92"></span>[62](#fn_92) This
+reproduced in the Catalogue. <span id="fr_92"></span>[62](#fn_92.md) This
 contradicts the Lycian localization of Pandarus, but scholars have
 generally held the opinion that the habitat of the Lycians was
 erroneously transferred to the Troas and the shores of Aesepus.
 Professor Wilamowitz and Dr. Finsler on the contrary have put forward
 the view that the Lycians were originally at home there and that their
 name was transferred to the Termiles, <span
-id="fr_93"></span>[63](#fn_93) as the native inhabitants of Lycia called
+id="fr_93"></span>[63](#fn_93.md) as the native inhabitants of Lycia called
 themselves. There is no apparent reason for such a transference and the
 mythological expression which usually is given to such a change is
 wanting. It would of course imply that Sarpedon and Glaucus also were at
@@ -596,7 +596,7 @@ Trojans in the neighborhood of Troy.
 Moreover, the same thing seems to have happened in the case of the
 Cilicians. Andromache is said to be the daughter of Eëtion, ruler of the
 Cilicians and king of Thebes beneath Mount Plakos, a town which was
-taken by Achilles. <span id="fr_94"></span>[64](#fn_94) Evidently this
+taken by Achilles. <span id="fr_94"></span>[64](#fn_94.md) Evidently this
 Thebes is not far from Troy, but the existence of Cilicians elsewhere
 than in southeastern Asia Minor
 
@@ -620,7 +620,7 @@ interpolation.
 There is, however, a very obvious explanation of these facts, one which,
 moreover,, corroborates the Mycenaean origin of the myth and the
 Mycenaean background of epics. I have pointed to the scarcity of
-Mycenaean remains in Ionia. <span id="fr_95"></span>[65](#fn_95)
+Mycenaean remains in Ionia. <span id="fr_95"></span>[65](#fn_95.md)
 Archaeology proves that the western coast of Asia Minor was colonized by
 the Greeks only at the very end of the Mycenaean age. Prior to this time
 the wandering Greek tribes followed the highway toward the east, enticed
@@ -634,7 +634,7 @@ tribes when they flooded the Roman empire. These wanderings have left
 their traces in the early colonization of Cyprus and its numerous
 Mycenaean remains. Here the statement in the Iliad may be noticed, that
 Agamemnon received a valuable gift, a richly decorated cuirass, from the
-Cyprian king Cinyras. <span id="fr_96"></span>[66](#fn_96) Mycenaean
+Cyprian king Cinyras. <span id="fr_96"></span>[66](#fn_96.md) Mycenaean
 finds are fairly numerous also on the coast of Syria. Greek tribes
 appeared in the Delta about 1200 B.C. Dr. Forrer's great Achaean kingdom
 with possessions on the southern coast of Asia Minor coincides
@@ -643,7 +643,7 @@ remarkably with this movement of the Greek tribes.
 The road which the Greeks followed went along the southern shore of Asia
 Minor. They colonized the islands of Rhodes and Cyprus and seem to have
 had a stronghold or trading station on the Syrian coast near Laodicea
-*ad mare*. <span id="fr_97"></span>[67](#fn_97) We must surmise that
+*ad mare*. <span id="fr_97"></span>[67](#fn_97.md) We must surmise that
 they also tried to take booty and to gain a foothold on the southern
 coast of Asia Minor. Unhappily this country is almost unknown
 archaeologically. But Dr. Gjerstad who visited Cilicia recently informs
@@ -669,7 +669,7 @@ geography and chronology which is peculiar to epics, when events are
 incorporated into them. While the Lycians loomed largely in earlier
 recitals, they became the chief adversaries of the Greeks next to the
 Trojans themselves in the Trojan cycle. <span
-id="fr_98"></span>[68](#fn_98)
+id="fr_98"></span>[68](#fn_98.md)
 
 The same thing happened in the case of the Cilicians. The Greeks had
 learned to know them also during their voyages toward the east, and for
@@ -718,7 +718,7 @@ have been killed by Hermes. There is no certain clue for unraveling this
 myth. I am content to point to the fact that it is attached to the
 Heraeum, which was built upon a Mycenaean site of importance, and that
 it especially established the connection of Hera with the cow. <span
-id="fr_99"></span>[69](#fn_99) There is certainly reason to think that
+id="fr_99"></span>[69](#fn_99.md) There is certainly reason to think that
 the cult of Hera at the Heraeum is of Mycenaean date, and this may
 perhaps be surmised in regard to the myth, too, although there is no
 specific proof. If some explanation is wanted, it may be guessed that
@@ -734,7 +734,7 @@ this age are not important. Of the myths connected with the city of
 Argos, we may pass over that of the culture hero Phoroneus, who is much
 less prominent than the hero of Nauplia, Palamedes, and the eponymous
 hero Argos; in a later chapter I shall recur to the attempt to make him
-a rival of Heracles. <span id="fr_100"></span>[70](#fn_100)
+a rival of Heracles. <span id="fr_100"></span>[70](#fn_100.md)
 
 <span id="page_64">p. 64</span>
 
@@ -749,12 +749,12 @@ Danaüs and Aegyptus, differ in various versions and are of secondary
 importance. The events which followed are also related variously, but it
 is well to observe that, according to the current versions, the Danaides
 were not punished for their cruel deed. <span
-id="fr_101"></span>[71](#fn_101)
+id="fr_101"></span>[71](#fn_101.md)
 
 What does this deed of the Danaides, the murder of their husbands,
 signify? The nature symbolism, according to which this myth like many
 others was interpreted formerly, need hardly be discussed
-seriously. <span id="fr_102"></span>[72](#fn_102) If we disregard such
+seriously. <span id="fr_102"></span>[72](#fn_102.md) If we disregard such
 more or less far-fetched interpretation, the tale which seems to present
 the closest analogy is that of Judith and Holophernes, the tale of the
 Jewish woman who enticed the oppressor of her people into love and slew
@@ -778,7 +778,7 @@ understand why, to prove his heroic strength, it is told that Heracles
 in one night begat fifty sons, but there is no apparent reason why the
 Danaides should be so many and the killing of their husbands a wholesale
 massacre. If we take the word Danaides in the original sense of Danaan
-maidens <span id="fr_103"></span>[73](#fn_103) and not according to the
+maidens <span id="fr_103"></span>[73](#fn_103.md) and not according to the
 usual interpretation as the daughters of Danaüs, a way to understanding
 this feature will perhaps be opened; Danaüs is moreover a very shadowy
 personage.
@@ -786,7 +786,7 @@ personage.
 The current opinion is that the husbands of the Danaides were originally
 nameless and that they were made sons of Aegyptus only after the Greeks
 had learned to know Egypt in the seventh century B.C. <span
-id="fr_104"></span>[74](#fn_104) As they found animals venerated in this
+id="fr_104"></span>[74](#fn_104.md) As they found animals venerated in this
 
 <span id="page_66">p. 66</span>
 
@@ -796,13 +796,13 @@ transferred to Egypt; thus their husbands were made sons of Aegyptus.
 The elaboration of the cycle is ascribed to the author of a lost epos,
 the Danais, of which only one fragment is preserved, telling that the
 daughters of Danaüs armed themselves near the river of the Nile. <span
-id="fr_105"></span>[75](#fn_105) This seems prima facie to refer to the
+id="fr_105"></span>[75](#fn_105.md) This seems prima facie to refer to the
 killing of their husbands, and if this is so, the locality where the
 drama was enacted was changed. For in the current version Danaüs and his
 daughters flee to Argos, the sons of Aegyptus pursue them and compel
 them there to the disastrous wedding. To avoid this contradiction others
 refer the words to a fight in which the maidens engaged before leaving
-Egypt. <span id="fr_106"></span>[76](#fn_106) This seems to be a very
+Egypt. <span id="fr_106"></span>[76](#fn_106.md) This seems to be a very
 doubtful means of evading the localization in Egypt, which probably is
 really the old version.
 
@@ -822,12 +822,12 @@ under the conditions of this time. A crowd of Danaan women had been
 captured and made concubines of Egyptians; they slew their husbands and
 escaped. The wholesale slaughter of the Greeks on Lemnos by their
 indigenous wives is a somewhat kindred story, explaining why this island
-was lost to Greek colonization. <span id="fr_107"></span>[77](#fn_107)
+was lost to Greek colonization. <span id="fr_107"></span>[77](#fn_107.md)
 This may be the simple underlying fact; certainly it explains why the
 deed was not considered a crime. It is a simple story from the life of
 that stormy age, simpler than the dramatic episode of Judith and
 Holophernes, but the analogy is there. <span
-id="fr_108"></span>[78](#fn_108)
+id="fr_108"></span>[78](#fn_108.md)
 
 This explanation of the myth of the Danaides as an historical
 reminiscence from the time when the Danaans attacked Egypt may seem
@@ -850,7 +850,7 @@ have noticed these efforts, but they cannot deceive anybody.
 
 ### Footnotes
 
-<span id="fn_33"></span>[36:3](mog03.htm#fr_33) The standard work on
+<span id="fn_33"></span>[36:3](mog03.htm#fr_33.md) The standard work on
 Greek Mythology is the fourth edition of L. Preller's *Griechische
 Mythologie*, edited by C. Robert. The volumes treating heroic mythology
 are a quite new and most substantial and learned work with the separate
@@ -858,33 +858,33 @@ title: *Die griechische Heldensage* (1920--26); only the indexes are
 still wanting. The best English handbook on the subject is H. J. Rose, A
 *Handbook of Greek Mythology* (1928).
 
-<span id="fn_34"></span>[36:4](mog04.htm#fr_34) The important results of
+<span id="fn_34"></span>[36:4](mog04.htm#fr_34.md) The important results of
 the recent excavations of the English School are published in the
 *Annual of the British School at Athens*, XXV (1921-23).
 
-<span id="fn_35"></span>[37:5](mog04.htm#fr_35) The report on these
+<span id="fn_35"></span>[37:5](mog04.htm#fr_35.md) The report on these
 excavations is forthcoming in the periodical *Archaeologia*.
 
-<span id="fn_36"></span>[38:6](mog04.htm#fr_36) A. W. Persson,
+<span id="fn_36"></span>[38:6](mog04.htm#fr_36.md) A. W. Persson,
 *Kungagraven i Dendra* (1928), is a popular survey in Swedish. The final
 publication of these most important finds is forthcoming in the *Acta*
 of the R. Society of Letters of Lund.
 
-<span id="fn_37"></span>[38:7](mog04.htm#fr_37) Tiryns, Vol. I (1912),
+<span id="fn_37"></span>[38:7](mog04.htm#fr_37) Tiryns, Vol. I (1912.md),
 pp. 114 *et seq*.; cp. my *Minoan-Mycenaean Religion*, pp. 410 *et seq*.
 
-<span id="fn_38"></span>[38:8](mog04.htm#fr_38) Preliminary reports in
+<span id="fn_38"></span>[38:8](mog04.htm#fr_38.md) Preliminary reports in
 the *American Journal of Archaeology*, XXIX (1925), pp. 413 *et seq*.,
 XXXI (1927), p. 105, and in the *Journal of Hellenic Studies*, XLVI
 (1926), pp. 226 *et seq*.; XLVII (1927), pp. 237 *et seq*.; XLVIII
 (1928), p. 184.
 
-<span id="fn_39"></span>[38:9](mog04.htm#fr_39) For the recent finds on
+<span id="fn_39"></span>[38:9](mog04.htm#fr_39.md) For the recent finds on
 the Larissa see Vollgraff in Mnemosyne, LVI (1928), pp. 313 *et seq*.,
 and in *Mededeelingen der K. Akad. van Wetenschappen, Letterkunde*, Vol.
 LXVI (1928), Ser. B, No. 4.
 
-<span id="fn_40"></span>[39:10](mog04.htm#fr_40) Concerning the sites
+<span id="fn_40"></span>[39:10](mog04.htm#fr_40.md) Concerning the sites
 near Corinth, see Blegen, *American Journal of Archaeology*, XXIV
 (1920), pp. 1 *et seq*. A preliminary report of the excavations at Asine
 is published in the *Bulletin of the R. Society of Letters of Lund*,
@@ -895,7 +895,7 @@ Religion*, pp. XX *et seq*., was discovered. A supplementary excavation
 having been made in this year (1930), the final publication is in
 preparation.
 
-<span id="fn_41"></span>[39:11](mog04.htm#fr_41) Consequently I need not
+<span id="fn_41"></span>[39:11](mog04.htm#fr_41.md) Consequently I need not
 discuss the recent theory of Sir Arthur Evans reversing the old view
 referred to in the text. He thinks that the bodies and objects found in
 the shaft-graves were transferred thither from the bee-hive tombs, and
@@ -903,171 +903,171 @@ adds vivacious polemics against the dating of the bee-hive tombs
 proposed by Mr. Wace (A. J. Evans, *The Shaft-Graves and Bee-Hive Tombs
 of Mycenae and their Interrelation*, 1929).
 
-<span id="fn_42"></span>[40:12](mog04.htm#fr_42) E. S. Hartland, *The
+<span id="fn_42"></span>[40:12](mog04.htm#fr_42.md) E. S. Hartland, *The
 Legend of Perseus*, I-III (1894-96).
 
-<span id="fn_43"></span>[40:13](mog04.htm#fr_43) Paus. ii. 16, 3. See
-[p. 123](mog09.htm#page_123), n. [46](mog09.htm#fn_234).
+<span id="fn_43"></span>[40:13](mog04.htm#fr_43.md) Paus. ii. 16, 3. See
+[p. 123](mog09.htm#page_123), n. [46](mog09.htm#fn_234.md).
 
-<span id="fn_44"></span>[40:14](mog04.htm#fr_44) Paus. ii. 18, 1.
+<span id="fn_44"></span>[40:14](mog04.htm#fr_44.md) Paus. ii. 18, 1.
 
-<span id="fn_45"></span>[41:15](mog04.htm#fr_45) *Inscr. Graec.*, IV.
+<span id="fn_45"></span>[41:15](mog04.htm#fr_45.md) *Inscr. Graec.*, IV.
 No. 493, which mentions ἱαρομνάμονες τὸς ἐς Περσε̃. Judicial functions
 are attributed to them when there is no σαμοργία. Cp. Wilamowitz,
 *Aristoteles and Athen*, II., p. 48, n. 26.
 
-<span id="fn_46"></span>[41:16](mog04.htm#fr_46) During the Roman age
+<span id="fn_46"></span>[41:16](mog04.htm#fr_46.md) During the Roman age
 the honors of Heracles and Perseus were decreed for citizens of merit
 (*Inscr. Graec.*, iv., No. 606, cp. No. 586). The noble family of T.
 Statilius Lamprias attached its genealogy to Perseus and the Dioscuri
 (*ibid*. Nos. 590 and 940).
 
-<span id="fn_47"></span>[42:17](mog04.htm#fr_47) So Ed. Meyer also,
+<span id="fn_47"></span>[42:17](mog04.htm#fr_47.md) So Ed. Meyer also,
 *Forschungen zur alten Geschichte*, I (1892), p.73. Cp. below [p.
-65](#page_65).
+65](#page_65.md).
 
-<span id="fn_48"></span>[43:18](mog04.htm#fr_48) "Agamemnon führt einen
+<span id="fn_48"></span>[43:18](mog04.htm#fr_48.md) "Agamemnon führt einen
 Vatersnamen, dessen künstliche Mache klar ist," Wilamowitz, "*Die
 griech. Heldensage*, II," *Sitzungsberichte der preuss. Akad. der
 Wissenschaften*, 1925, p. 242.
 
-<span id="fn_49"></span>[43:19](mog04.htm#fr_49) See above [p.
-26](mog02.htm#page_26).
+<span id="fn_49"></span>[43:19](mog04.htm#fr_49.md) See above [p.
+26](mog02.htm#page_26.md).
 
-<span id="fn_50"></span>[43:20](mog04.htm#fr_50) *Il*. ii. vv. 101 *et
+<span id="fn_50"></span>[43:20](mog04.htm#fr_50.md) *Il*. ii. vv. 101 *et
 seq*.
 
-<span id="fn_51"></span>[44:21](mog04.htm#fr_51) See my paper, "Das
+<span id="fn_51"></span>[44:21](mog04.htm#fr_51.md) See my paper, "Das
 homerische Königtum" in *Sitzungsberichte der preuss. Akad. der
-Wissenschaften*, 1927, p. 27; cp. below pp. [240](mog14.htm#page_240)
+Wissenschaften*, 1927, p. 27; cp. below pp. [240](mog14.htm#page_240.md)
 *et seq*.
 
-<span id="fn_52"></span>[44:22](mog04.htm#fr_52) By Ph. Buttmann,
+<span id="fn_52"></span>[44:22](mog04.htm#fr_52.md) By Ph. Buttmann,
 Mythologus, II (1829), p. 170.
 
-<span id="fn_53"></span>[44:23](mog04.htm#fr_53) See below pp.
-[91](mog07.htm#page_91) *et seq*.
+<span id="fn_53"></span>[44:23](mog04.htm#fr_53.md) See below pp.
+[91](mog07.htm#page_91.md) *et seq*.
 
-<span id="fn_54"></span>[45:24](mog04.htm#fr_54) E. Bethe, *Homer*, III
+<span id="fn_54"></span>[45:24](mog04.htm#fr_54.md) E. Bethe, *Homer*, III
 (1927), pp. 11 and 50; P. Cauer, *Grundfragen der Homerkritik*; ed. 3
 (1923), pp. 274 *et seq*.
 
-<span id="fn_55"></span>[45:25](mog04.htm#fr_55) E.g. *Il*. ii. v. 108.
+<span id="fn_55"></span>[45:25](mog04.htm#fr_55.md) E.g. *Il*. ii. v. 108.
 
-<span id="fn_56"></span>[45:26](mog04.htm#fr_56) Cp. my above-quoted
-([p. 44](#page_44), n. ) paper, p. 27.
+<span id="fn_56"></span>[45:26](mog04.htm#fr_56.md) Cp. my above-quoted
+([p. 44](#page_44), n. .md) paper, p. 27.
 
-<span id="fn_57"></span>[46:27](mog04.htm#fr_57) For this view I quote
+<span id="fn_57"></span>[46:27](mog04.htm#fr_57.md) For this view I quote
 only H. Usener, "Der Stoff des griech. Epos," *Sitzungsberichte der
 Akad. der Wissenschaften in Wien*, CXXXVII (1897), III, pp. 5 *et seq*.,
 reprinted in his *Kleine Schriften* IV (1913), pp. 203 *et seq*.
 
-<span id="fn_58"></span>[46:28](mog04.htm#fr_58) I. Harrie, "Zeus
+<span id="fn_58"></span>[46:28](mog04.htm#fr_58.md) I. Harrie, "Zeus
 Agamemnon," *Archiv für Religionswissenschaft*, XXIII (1925), pp. 359
 *et seq*.
 
-<span id="fn_59"></span>[46:29](mog04.htm#fr_59) Lykophron, *Alexandra*,
+<span id="fn_59"></span>[46:29](mog04.htm#fr_59.md) Lykophron, *Alexandra*,
 vv. 1123 *et seq*., ἑμὸς δ᾽ ἀκοίτης, δμωΐδος νύμφης ἄναξ, Ζεὺς
 Σπαρτιάταις αἱμύλοις κληθήσεται τιμὰς μεγίστας Οἰβάλου ιέκνοις λαχών.
 Inversely Agamemnon is named instead of Zeus, v. 335, ὁ δ᾽ ἀμφὶ τύμβῳ
 τάγαμέμνονος δαμείς; i. e., Priamus who was killed on the altar of Zeus
 Herkeios.
 
-<span id="fn_60"></span>[46:30](mog04.htm#fr_60) *Ibid*., v. 1369
+<span id="fn_60"></span>[46:30](mog04.htm#fr_60.md) *Ibid*., v. 1369
 (Agamemnon) Ζηνὶ τῷ Λαπερσίῳ ὁμώνυμος Ζεύς.
 
-<span id="fn_61"></span>[46:31](mog04.htm#fr_61) Paus. iii. 19, S.
+<span id="fn_61"></span>[46:31](mog04.htm#fr_61.md) Paus. iii. 19, S.
 
-<span id="fn_62"></span>[47:32](mog04.htm#fr_62) Paus. ix. 40, 11, who
+<span id="fn_62"></span>[47:32](mog04.htm#fr_62.md) Paus. ix. 40, 11, who
 states that it was a δόρυ.
 
-<span id="fn_63"></span>[47:33](mog04.htm#fr_63) I refer to the only
+<span id="fn_63"></span>[47:33](mog04.htm#fr_63.md) I refer to the only
 attested cult, at Tarentum, in a note, because it is evidently
 secondary. The cult applied more justly to the descendants of Atreus and
 Agamemnon and other heroes; cp. my *Griechische Feste* (1906), p. 457,
 n. 8.
 
-<span id="fn_64"></span>[48:34](mog04.htm#fr_64) See Usener, *op. cit*.,
+<span id="fn_64"></span>[48:34](mog04.htm#fr_64.md) See Usener, *op. cit*.,
 p. 6 or 203 resp. with notes.
 
-<span id="fn_65"></span>[48:35](mog04.htm#fr_65) Wilamowitz in the paper
+<span id="fn_65"></span>[48:35](mog04.htm#fr_65.md) Wilamowitz in the paper
 quoted, p. 43, n. 18, p. 242.
 
-<span id="fn_66"></span>[48:36](mog04.htm#fr_66) Pollux, ix. 83.
+<span id="fn_66"></span>[48:36](mog04.htm#fr_66.md) Pollux, ix. 83.
 
-<span id="fn_67"></span>[48:37](mog04.htm#fr_67) For the Midas in
+<span id="fn_67"></span>[48:37](mog04.htm#fr_67.md) For the Midas in
 question ought to be the last king of Phrygia, whose empire was crushed
 and who was killed by the Cimmerian invasion in the very beginning of
 the 7th century B.C.
 
-<span id="fn_68"></span>[49:38](mog04.htm#fr_68) Steph. Byz. *s.v.*
+<span id="fn_68"></span>[49:38](mog04.htm#fr_68.md) Steph. Byz. *s.v.*
 Πενθίλη.
 
-<span id="fn_69"></span>[49:39](mog04.htm#fr_69) Aristot., *Polit*., v.
+<span id="fn_69"></span>[49:39](mog04.htm#fr_69.md) Aristot., *Polit*., v.
 10, p. 1311 b.
 
-<span id="fn_70"></span>[49:40](mog04.htm#fr_70) Pindar, *Nem*., xi. 44,
+<span id="fn_70"></span>[49:40](mog04.htm#fr_70.md) Pindar, *Nem*., xi. 44,
 says of a victorious athlete from Tenedos that his ancestors emigrated
 from Amyclae with Orestes; for other testimony see Robert, *Griech.
 Heldensage*, pp. 1340 *et seq*.
 
-<span id="fn_71"></span>[49:41](mog04.htm#fr_71) The names are not quite
+<span id="fn_71"></span>[49:41](mog04.htm#fr_71.md) The names are not quite
 identical, differing in the second vowel. Steph. Byz., however, calls
 the town Πενθίλη and its inhabitants Πενθελείς.
 
-<span id="fn_72"></span>[50:42](mog04.htm#fr_72) Below pp.
-[240](mog14.htm#page_240) *et seq*.
+<span id="fn_72"></span>[50:42](mog04.htm#fr_72.md) Below pp.
+[240](mog14.htm#page_240.md) *et seq*.
 
-<span id="fn_73"></span>[51:43](mog04.htm#fr_73) Paus. ii. 2, 4.
+<span id="fn_73"></span>[51:43](mog04.htm#fr_73.md) Paus. ii. 2, 4.
 
-<span id="fn_74"></span>[51:44](mog04.htm#fr_74) Paus. ii. 4, 1.
+<span id="fn_74"></span>[51:44](mog04.htm#fr_74.md) Paus. ii. 4, 1.
 
-<span id="fn_75"></span>[51:45](mog04.htm#fr_75) *Il*. vi. vv. 152 *et
+<span id="fn_75"></span>[51:45](mog04.htm#fr_75.md) *Il*. vi. vv. 152 *et
 seq*.
 
-<span id="fn_76"></span>[51:46](mog04.htm#fr_76) E. Bethe, *Thebanische
+<span id="fn_76"></span>[51:46](mog04.htm#fr_76.md) E. Bethe, *Thebanische
 Heldenlieder* (1891), pp. 182 *et seq*.
 
-<span id="fn_77"></span>[52:47](mog04.htm#fr_77) *Schol. Il. A*, vi.
+<span id="fn_77"></span>[52:47](mog04.htm#fr_77.md) *Schol. Il. A*, vi.
 183, and *T*, vi. 192.
 
-<span id="fn_78"></span>[53:48](mog04.htm#fr_78) Il. vi., vv. 157 *et
+<span id="fn_78"></span>[53:48](mog04.htm#fr_78.md) Il. vi., vv. 157 *et
 seq*. The words ἐκ δήμου ἔλασσεν - - - Ἀργείωον are of course not to be
 taken as a contradiction of the localization of Proetus at Tiryns;
 similarly Agamemnon sometimes is called king of Mycenae and sometimes
 king of the Argives.
 
-<span id="fn_79"></span>[53:49](mog04.htm#fr_79) L. Malten,
+<span id="fn_79"></span>[53:49](mog04.htm#fr_79.md) L. Malten,
 "Bellerophon," *Jahrbuch des deutschen archäolog. Instituts*, XL (1925),
 pp. 121 *et seq*.
 
-<span id="fn_80"></span>[54:50](mog04.htm#fr_80) See above pp.
-[33](mog02.htm#page_33) *et seq*.
+<span id="fn_80"></span>[54:50](mog04.htm#fr_80.md) See above pp.
+[33](mog02.htm#page_33.md) *et seq*.
 
-<span id="fn_81"></span>[54:51](mog04.htm#fr_81) Wilamowitz, *Die Ilias
+<span id="fn_81"></span>[54:51](mog04.htm#fr_81.md) Wilamowitz, *Die Ilias
 and Homer* (1916), p. 305.
 
-<span id="fn_82"></span>[54:52](mog04.htm#fr_82) I do not take the
+<span id="fn_82"></span>[54:52](mog04.htm#fr_82.md) I do not take the
 Catalogue of the Ships into account, since it is to be judged on its own
 merits.
 
-<span id="fn_83"></span>[55:53](mog04.htm#fr_83) *Il*. xiv. v. 255; xv.
+<span id="fn_83"></span>[55:53](mog04.htm#fr_83.md) *Il*. xiv. v. 255; xv.
 v. 28.
 
-<span id="fn_84"></span>[55:54](mog04.htm#fr_84) *Il*. v. vv. 628 *et
+<span id="fn_84"></span>[55:54](mog04.htm#fr_84.md) *Il*. v. vv. 628 *et
 seq*.
 
-<span id="fn_85"></span>[55:55](mog04.htm#fr_85) Comptes rendus de
+<span id="fn_85"></span>[55:55](mog04.htm#fr_85.md) Comptes rendus de
 l’académie des inscriptions et belles lettres, 1921, p. 122. *Gnomon*,
 III, 1927, p. 189.
 
-<span id="fn_86"></span>[55:56](mog04.htm#fr_86) *Art and Archaeology*,
+<span id="fn_86"></span>[55:56](mog04.htm#fr_86.md) *Art and Archaeology*,
 xiv (1922), p. 259.
 
-<span id="fn_87"></span>[55:57](mog04.htm#fr_87) Cp. the interesting
+<span id="fn_87"></span>[55:57](mog04.htm#fr_87.md) Cp. the interesting
 survey by W. Leaf, *Troy* (1912), pp. 269 *et seq*.
 
-<span id="fn_88"></span>[56:58](mog04.htm#fr_88) I give herewith a
+<span id="fn_88"></span>[56:58](mog04.htm#fr_88.md) I give herewith a
 survey. Thrace and the Thracians are mentioned fairly often. The death
 of Peirous from Ainus is described at some length (*Il*. iv. vv. 517 *et
 seq*.); another Thracian chief is mentioned (v. 462) and killed by Aias
@@ -1100,21 +1100,21 @@ and Iphition who was born at Hyde near Mount Tmolus is killed by
 Achilles (xx. 385 *et seq*.), and in this connection the Gygaean lake
 and the rivers of Hyllus and Hermus are mentioned.
 
-<span id="fn_89"></span>[57:59](mog04.htm#fr_89) Especially in v, xi,
+<span id="fn_89"></span>[57:59](mog04.htm#fr_89.md) Especially in v, xi,
 and xvi.
 
-<span id="fn_90"></span>[57:60](mog04.htm#fr_90) *Il*. iv. vv. 105 and
+<span id="fn_90"></span>[57:60](mog04.htm#fr_90.md) *Il*. iv. vv. 105 and
 91.
 
-<span id="fn_91"></span>[57:61](mog04.htm#fr_91) *Il*. xi. v. 21.
+<span id="fn_91"></span>[57:61](mog04.htm#fr_91.md) *Il*. xi. v. 21.
 
-<span id="fn_92"></span>[58:62](mog04.htm#fr_92) Il. ii. vv. 824 *et
+<span id="fn_92"></span>[58:62](mog04.htm#fr_92.md) Il. ii. vv. 824 *et
 seq*.
 
-<span id="fn_93"></span>[58:63](mog04.htm#fr_93) Wilamowitz, *Hermes*,
+<span id="fn_93"></span>[58:63](mog04.htm#fr_93.md) Wilamowitz, *Hermes*,
 XXXVIII (1903), p. 585; Finsler, *Homer* (ed. 3; 1924), p. 17.
 
-<span id="fn_94"></span>[58:64](mog04.htm#fr_94) *Il*. vi. vv. 395 *et
+<span id="fn_94"></span>[58:64](mog04.htm#fr_94.md) *Il*. vi. vv. 395 *et
 seq*.; cp. i. vv. 366 *et seq*. and xxii. vv. 479 *et seq*. E. Bethe,
 *Neue Jahrbücher für klass. Altertumswissenschaft*, VII (1901), p. 671,
 proposed the hypothesis that this Thebe is the Thessalian town with that
@@ -1128,17 +1128,17 @@ of the cities which are by Homer attributed to the Cilicians, Thebes and
 Lyrnessus, recur in Pamphylia (Steph. Byz. *s.v.* Θήβη and Σάρδησσος;
 cp. P. Kretschmer, *Glotta*, XIII (1924), p. 209 *et seq*.)
 
-<span id="fn_95"></span>[59:65](mog04.htm#fr_95) In my *Minoan-Mycenaean
-Religion*, p. 27, and above [p. 53](#page_53).
+<span id="fn_95"></span>[59:65](mog04.htm#fr_95.md) In my *Minoan-Mycenaean
+Religion*, p. 27, and above [p. 53](#page_53.md).
 
-<span id="fn_96"></span>[60:66](mog04.htm#fr_96) *Il*. xi. v. 20.
+<span id="fn_96"></span>[60:66](mog04.htm#fr_96.md) *Il*. xi. v. 20.
 
-<span id="fn_97"></span>[60:67](mog04.htm#fr_97) Lively connections with
+<span id="fn_97"></span>[60:67](mog04.htm#fr_97.md) Lively connections with
 the Mycenaean world are proved by numerous Mycenaean finds in the recent
 excavations at Minet el Beida north of Laodicea *ad mare* on the Syrian
 coast; see the periodical *Syria*, X (1929), pp. 285 *et seq*.
 
-<span id="fn_98"></span>[61:68](mog04.htm#fr_98) Wilamowitz, *Die Ilias
+<span id="fn_98"></span>[61:68](mog04.htm#fr_98.md) Wilamowitz, *Die Ilias
 and Homer* (1916), p. 305, contends that the Ionians introduced the
 Lycians because their kings claimed descent partly from the Lycian hero
 Glaucus (Herodotus i. 147); *Inschr. von Magnesia a. M.*, No. 17; O.
@@ -1147,13 +1147,13 @@ given my opinion of similar instances. The fame of Glaucus is due to the
 Homeric epics, and that is the reason why the genealogies were attached
 to him.
 
-<span id="fn_99"></span>[63:69](mog04.htm#fr_99) See my *Griechische
+<span id="fn_99"></span>[63:69](mog04.htm#fr_99.md) See my *Griechische
 Feste* (1906), pp. 42 *et seq*.
 
-<span id="fn_100"></span>[63:70](mog04.htm#fr_100) Below [p.
-212](mog13.htm#page_212).
+<span id="fn_100"></span>[63:70](mog04.htm#fr_100.md) Below [p.
+212](mog13.htm#page_212.md).
 
-<span id="fn_101"></span>[64:71](mog04.htm#fr_101) Except in a single
+<span id="fn_101"></span>[64:71](mog04.htm#fr_101.md) Except in a single
 late version, *Schol. Eurip. Hec.* 886, according to which Lynceus, the
 only son of Aegyptus who was saved, put them to death. P. Friedländer,
 who treats the myth at length in his dissertation, *Argolica* (Berlin,
@@ -1166,31 +1166,31 @@ was transferred to them from those who were not initiated into the
 mysteries. I agree with Robert, *Griech. Heldensage*, p. 277, that it is
 an Orphic invention.
 
-<span id="fn_102"></span>[64:72](mog04.htm#fr_102) The connection of the
+<span id="fn_102"></span>[64:72](mog04.htm#fr_102.md) The connection of the
 Danaides with the spring at Lerna, Apollodorus, ii. 1, 5, 11, and Paus.,
 ii. 24, 2, is superficial. Amymone was not originally one of the
 Danaides.
 
-<span id="fn_103"></span>[65:73](mog04.htm#fr_103) The alternative form
+<span id="fn_103"></span>[65:73](mog04.htm#fr_103.md) The alternative form
 Δανααί occurs in a quotation from Hesiod in Strabo, viii. p. 371; frag.
 24 Rzach, ed. 3.
 
-<span id="fn_104"></span>[65:74](mog04.htm#fr_104) E.g. Ed. Meyer,
+<span id="fn_104"></span>[65:74](mog04.htm#fr_104.md) E.g. Ed. Meyer,
 *Forschungen zur alten Geschichte* I (1892), p. 84.
 
-<span id="fn_105"></span>[66:75](mog04.htm#fr_105) *Frag. epic. graec.*
+<span id="fn_105"></span>[66:75](mog04.htm#fr_105.md) *Frag. epic. graec.*
 ed. Kinkel, p. 78.
 
-<span id="fn_106"></span>[66:76](mog04.htm#fr_106) For another attempted
+<span id="fn_106"></span>[66:76](mog04.htm#fr_106.md) For another attempted
 explanation see Ed. Meyer, *loc. cit.*, p. 82, n. 3.
 
-<span id="fn_107"></span>[67:77](mog04.htm#fr_107) I agree with
+<span id="fn_107"></span>[67:77](mog04.htm#fr_107.md) I agree with
 Wilamowitz, *Sitzungsberichte der preuss. Akademie der Wissenschaften*,
 1906, p. 76, that this is the meaning of the myth, which was very much
 enlarged and remodeled. The latest treatment, by G. Dumézil, *Le crime
 des Lemniennes* (1924), takes up other points of view.
 
-<span id="fn_108"></span>[67:78](mog04.htm#fr_108) In the first edition
+<span id="fn_108"></span>[67:78](mog04.htm#fr_108.md) In the first edition
 of his *Geschichte des Altertums*, I (1884), p. 264, Ed. Meyer found a
 reminiscence of old wanderings of the peoples in the story of the
 emigration of Danaüs from Egypt; later in his *Forschungen*, *loc.
@@ -1198,4 +1198,4 @@ cit.*, he changed his view.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Laconia](mog05)
+[Next: 2. Laconia](mog05.md)

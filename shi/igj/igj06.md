@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj05)  [Next](igj07) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj05)  [Next](igj07.md) 
 
 ------------------------------------------------------------------------
 
@@ -168,4 +168,4 @@ shiradzu*: "The fortune-teller knows not his own fate."
 
 ------------------------------------------------------------------------
 
-[Next: Silkworms](igj07)
+[Next: Silkworms](igj07.md)

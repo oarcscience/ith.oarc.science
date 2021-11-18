@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc02)  [Next](bosc04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc02)  [Next](bosc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ spot, as the scarcity of game compelled them. Of medicine they had no
 knowledge; consequently, no means of curing the sick, and the bodies of
 their dead were immediately burnt. Idolatry prevailed among them, but
 not a belief in a plurality of gods; neither did they sacrifice, as
-[was](errata.htm#0) the custom among the Mexican Indians.
+[was](errata.htm#0.md) the custom among the Mexican Indians.
 
 Having thus described the Chichimecas, we see precisely the character of
 the Californians, with the exception, that the last mentioned lived in
@@ -109,4 +109,4 @@ explain.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. On the Creation of the Universe](bosc04)
+[Next: Chapter II. On the Creation of the Universe](bosc04.md)

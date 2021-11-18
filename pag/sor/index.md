@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sor00)    [Page
-Index](pageidx)    [Text \[Zipped\]](sor.txt.gz)
+[Contents](#contents)    [Start Reading](sor00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](sor.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Index](pageidx)    [Text \[Zipped\]](sor.txt.gz)
 > boldly proclaimed the doctrine that "nothing is impure and nothing
 > unclean." From that moment the study of physical science was
 > enfranchised, its shackles loosed, and true medicine became a
-> possibility.--[p. 86](sor11.htm#page_86)</span>
+> possibility.--[p. 86](sor11.htm#page_86.md)</span>
 >
 > This is a translation of Jules Michelet's La Sorcière, originally
 > published in Paris in 1862. I have titled this text The Sorceress
@@ -57,7 +57,7 @@ Index](pageidx)    [Text \[Zipped\]](sor.txt.gz)
 > the ways they rebelled.
 >
 > Michelet was one of the first to attempt a sociological explanation of
-> the Witch trials. Like his successor [Margaret Murray](../wcwe/index),
+> the Witch trials. Like his successor [Margaret Murray](../wcwe/index.md),
 > he interprets the source material very literally. Unlike Murray, he
 > presents a proto-Marxist explanation for the phenomena; the witch cult
 > as a primal rebellion against conventional society, one of many
@@ -80,43 +80,43 @@ Index](pageidx)    [Text \[Zipped\]](sor.txt.gz)
 >
 > ------------------------------------------------------------------------
 >
-> <span id="contents"></span> [Title Page](sor00)  
-> [Contents](sor01)  
-> [Introduction](sor02)  
+> <span id="contents"></span> [Title Page](sor00.md)  
+> [Contents](sor01.md)  
+> [Introduction](sor02.md)  
 > <span id="section_000"></span>
 >
 > ### Part One
 >
-> [1. Death of the Gods](sor03)  
-> [2. What Drove the Middle Ages to Despair](sor04)  
-> [3. The Little Demon of the Hearth and Home](sor05)  
-> [4. Temptations](sor06)  
-> [5. Diabolical Possession](sor07)  
-> [6. The Pact With Satan](sor08)  
-> [7. King of the Dead](sor09)  
-> [8. Prince of Nature](sor10)  
-> [9. Satan the Healer](sor11)  
-> [10. Charms and Love Potions](sor12)  
-> [11. Communion of Revolt—Witches’ Sabbaths—The Black Mass](sor13)  
-> [12. Black Mass Continued—Love and Death—Satan Disappears](sor14)  
+> [1. Death of the Gods](sor03.md)  
+> [2. What Drove the Middle Ages to Despair](sor04.md)  
+> [3. The Little Demon of the Hearth and Home](sor05.md)  
+> [4. Temptations](sor06.md)  
+> [5. Diabolical Possession](sor07.md)  
+> [6. The Pact With Satan](sor08.md)  
+> [7. King of the Dead](sor09.md)  
+> [8. Prince of Nature](sor10.md)  
+> [9. Satan the Healer](sor11.md)  
+> [10. Charms and Love Potions](sor12.md)  
+> [11. Communion of Revolt—Witches’ Sabbaths—The Black Mass](sor13.md)  
+> [12. Black Mass Continued—Love and Death—Satan Disappears](sor14.md)  
 > <span id="section_001"></span>
 >
 > ### Part Two
 >
 > [13. The Sorceress in Her Decadence—Satan Multiplied and
-> Vulgarised](sor15)  
-> [14. Persecutions](sor16)  
-> [15. A Hundred Years’ Toleration in France](sor17)  
-> [16. The Basque Witches (1609)](sor18)  
-> [17. Satan Turns Ecclesiastic (1610)](sor19)  
-> [18. Gauffridi (1610)](sor20)  
-> [19. The Nuns of Loudun—Urbain Grandier (1633, 1634)](sor21)  
+> Vulgarised](sor15.md)  
+> [14. Persecutions](sor16.md)  
+> [15. A Hundred Years’ Toleration in France](sor17.md)  
+> [16. The Basque Witches (1609)](sor18.md)  
+> [17. Satan Turns Ecclesiastic (1610)](sor19.md)  
+> [18. Gauffridi (1610)](sor20.md)  
+> [19. The Nuns of Loudun—Urbain Grandier (1633, 1634)](sor21.md)  
 > [20. The Nuns Of Louviers and Satanic Possession—Madeleine Bavent
-> (1640-1647)](sor22)  
-> [21. Satan Triumphant in the Seventeenth Century](sor23)  
-> [22. Father Girard and Charlotte Cadière](sor24)  
-> [23. Charlotte Cadière at the Convent of Ollioules](sor25)  
-> [24. Trial of Charlotte Cadière (1730, 1731)](sor26)  
-> [Epilogue](sor27)  
-> [Notes and Elucidations](sor28)  
-> [Principal Authorities](sor29)  
+> (1640-1647)](sor22.md)  
+> [21. Satan Triumphant in the Seventeenth Century](sor23.md)  
+> [22. Father Girard and Charlotte Cadière](sor24.md)  
+> [23. Charlotte Cadière at the Convent of Ollioules](sor25.md)  
+> [24. Trial of Charlotte Cadière (1730, 1731)](sor26.md)  
+> [Epilogue](sor27.md)  
+> [Notes and Elucidations](sor28.md)  
+> [Principal Authorities](sor29.md)  

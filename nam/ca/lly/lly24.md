@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly23)  [Next](lly25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly23)  [Next](lly25.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ fascination in the objects or localities with which they are connected.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of Tu-tok-a-na](lly25)
+[Next: The Legend Of Tu-tok-a-na](lly25.md)

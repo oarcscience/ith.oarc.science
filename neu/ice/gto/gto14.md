@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto13)  [Next](gto15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto13)  [Next](gto15.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ up.
 <span id="img_05300"></span>
 
 [![THORGRIM'S SLAYING.](tn/05300.jpg)  
-Click to enlarge](img/05300.jpg)  
+Click to enlarge](img/05300.jpg.md)  
 THORGRIM'S SLAYING.  
 
  
@@ -243,4 +243,4 @@ good gifts to his guests.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Gisli Betrays Himself](gto15)
+[Next: Chapter X. Gisli Betrays Himself](gto15.md)

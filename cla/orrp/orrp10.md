@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp09)  [Next](orrp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp09)  [Next](orrp11.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ pretensions. From that time until the triumph of Islam it was one long
 duel between the two rival states, in which now one was victorious and
 now the other, while neither was ever decisively beaten. An ambassador
 of king Narses to Galerius called these two states "the two eyes of the
-human race." [6\_1](orrp19.htm#xref_6_1)
+human race." [6\_1](orrp19.htm#xref_6_1.md)
 
 The "invincible" star of the Persians might wane and vanish, but only to
 reappear in greater glory. The political and military strength displayed
@@ -41,7 +41,7 @@ by this nation through the centuries was the result of its high
 intellectual and moral qualities. Its original culture was always
 hostile to such an assimilation as that experienced in different degrees
 by the Aryans of Phrygia, the Semites of Syria and the
-[Hamites](errata.htm#1) of Egypt. Hellenism and Iranism--if I may use
+[Hamites](errata.htm#1.md) of Egypt. Hellenism and Iranism--if I may use
 that term--were two equally noble adversaries but differently educated,
 and they always remained separated by instinctive racial hostility as
 much as by hereditary opposition of interests.
@@ -49,7 +49,7 @@ much as by hereditary opposition of interests.
 Nevertheless, when two civilizations are in contact for more than a
 thousand years, numerous exchanges are bound to occur. The influence
 exercised by Hellenism as far as the uplands of Central Asia has
-frequently been pointed out, [5\_2](orrp18.htm#xref_5_2) but the
+frequently been pointed out, [5\_2](orrp18.htm#xref_5_2.md) but the
 prestige retained by Persia throughout the ages and the extent of area
 influenced by its energy has not perhaps been shown with as much
 accuracy. For even if Mazdaism was the highest expression of Persian
@@ -72,7 +72,7 @@ agency of the Asiatic monarchies. The institution of the *amici
 Augusti*, for instance, the appointed friends and intimate counselors of
 the rulers, adopted in Italy the forms in use at the court of the
 Diadochi, who had themselves imitated the ancient organization of the
-palace of the Great Kings. [6\_3](orrp19.htm#xref_6_3)
+palace of the Great Kings. [6\_3](orrp19.htm#xref_6_3.md)
 
 The custom of carrying the sacred fire before the Cæsars as an emblem of
 the perpetuity of their power, dated back to Darius and with other
@@ -80,27 +80,27 @@ Persian traditions passed on to the dynasties that divided the empire of
 Alexander. There is a striking similarity not only between the
 observance of the Cæsars and the practice of the Oriental monarchs, but
 also between the beliefs that they held. The continuity of the political
-and religious tradition cannot be doubted. [6\_4](orrp19.htm#xref_6_4)
+and religious tradition cannot be doubted. [6\_4](orrp19.htm#xref_6_4.md)
 As the court ceremonial and the internal history of the Hellenistic
 kingdoms become better known we shall be able to outline with greater
 precision the manner in which the divided and diminished heritage of the
 Achemenides, after generations of rulers, was finally left to those
 Occidental sovereigns who called themselves the sacrosanct lords of the
-world as Artaxerxes had done. [6\_5](orrp19.htm#xref_6_5) It may not be
+world as Artaxerxes had done. [6\_5](orrp19.htm#xref_6_5.md) It may not be
 generally known that the habit of welcoming friends with a kiss was a
 ceremony in the
 
 <span id="page_138">p. 138</span>
 
 \[paragraph continues\] Oriental formulary before it became a familiar
-custom in Europe. [6\_6](orrp19.htm#xref_6_6)
+custom in Europe. [6\_6](orrp19.htm#xref_6_6.md)
 
 It is very difficult to trace the hidden paths by which pure ideas
 travel from one people to another. But certain it is that at the
 beginning of our era certain Mazdean conceptions had already spread
 outside of Asia. The extent of the influence of Parseeism upon the
 beliefs of Israel under the Achemenides cannot be determined, but its
-existence is undeniable. [6\_7](orrp19.htm#xref_6_7) Some of its
+existence is undeniable. [6\_7](orrp19.htm#xref_6_7.md) Some of its
 doctrines, as for instance those relating to angels and demons, the end
 of the world and the final resurrection, were propagated everywhere in
 the basin of the Mediterranean as a consequence of the diffusion of
@@ -109,7 +109,7 @@ Jewish colonies.
 On the other hand, ever since the conquests of Cyrus and Darius, the
 active attention of the Greeks had been drawn toward the doctrines and
 religious practices of the new masters of the
-Orient. [6\_8](orrp19.htm#xref_6_8) A number of legends representing
+Orient. [6\_8](orrp19.htm#xref_6_8.md) A number of legends representing
 Pythagoras, Democritus and other philosophers as disciples of the magi
 prove the prestige of that powerful sacerdotal class. The Macedonian
 conquest, which placed the Greeks in direct relations with numerous
@@ -128,7 +128,7 @@ reached
 even the lower classes under the name of "magic" was to a considerable
 extent of Persian origin, as its name indicates, and along with
 physician's recipes and thaumaturgic processes it imparted some
-theological doctrines in a confused fashion. [6\_9](orrp19.htm#xref_6_9)
+theological doctrines in a confused fashion. [6\_9](orrp19.htm#xref_6_9.md)
 
 This explains why certain institutions and beliefs of the Persians had
 found imitators and adepts in the Greco-Oriental world long before the
@@ -140,7 +140,7 @@ There was a Persian dispersion similar to that of the Israelites.
 Communities of magi were established not only in eastern Asia Minor, but
 in Galatia, Phrygia, Lydia and even in Egypt. Everywhere they remained
 attached to their customs and beliefs with persistent
-tenacity. [6\_10](orrp19.htm#xref_6_10)
+tenacity. [6\_10](orrp19.htm#xref_6_10.md)
 
 When Rome extended her conquests into Asia Minor and Mesopotamia, the
 influence of Persia became much more direct. Superficial contact with
@@ -197,7 +197,7 @@ itself before a master who was regarded as the equal of God, with its
 complicated hierarchy and crowd of eunuchs that disgraced it, was an
 imitation of the court of the Sassanides. Galerius declared in
 unmistakable terms that Persian absolutism must be introduced in his
-empire, [6\_10](orrp19.htm#xref_6_10) and the ancient Cæsarism founded
+empire, [6\_10](orrp19.htm#xref_6_10.md) and the ancient Cæsarism founded
 on the will of the people seemed about to be transformed into a sort of
 caliphate.
 
@@ -210,7 +210,7 @@ richness. Its field of influence extended far beyond Mesopotamia into
 the south of Syria where it has left monuments of unequalled splendor.
 The radiance of that brilliant center undoubtedly illuminated Byzantium,
 the barbarians of the north, and even
-China. [6\_12](orrp19.htm#xref_6_12)
+China. [6\_12](orrp19.htm#xref_6_12.md)
 
 The Persian Orient, then, exerted a dominant influence on the political
 institutions and artistic tastes of the Romans as well as on their ideas
@@ -223,7 +223,7 @@ parallel influences of the
 people from which it had issued. Never, not even during the Mohammedan
 invasions, had Europe a narrower escape from becoming Asiatic than when
 Diocletian officially recognized Mithra as the protector of the
-reconstructed empire. [6\_13](orrp19.htm#xref_6_13) The time when that
+reconstructed empire. [6\_13](orrp19.htm#xref_6_13.md) The time when that
 god seemed to be establishing his authority over the entire civilized
 world was one of the critical phases in the moral history of antiquity.
 An irresistible invasion of Semitic and Mazdean conceptions nearly
@@ -257,10 +257,10 @@ vanquished
 by Pompey in 67 performed strange sacrifices on Olympus, a volcano of
 Lycia, and practiced occult rites, among others those of Mithra which,
 he says, "exist to the present day and were first taught by
-them." [6\_14](orrp19.htm#xref_6_14) Lactantius Placidus, a commentator
+them." [6\_14](orrp19.htm#xref_6_14.md) Lactantius Placidus, a commentator
 on Statius and a mediocre authority, also tells us that the cult passed
 from the Persians to the Phrygians and from the Phrygians to the
-Romans. [6\_15](orrp19.htm#xref_6_15)
+Romans. [6\_15](orrp19.htm#xref_6_15.md)
 
 These two authors agree then in fixing in Asia Minor the origin of this
 Persian religion that later spread over the Occident, and in fact
@@ -278,7 +278,7 @@ sects during the last three centuries before our era prevents us from
 gaining exact knowledge of the Parseeism. of Asia Minor.
 
 None of the temples dedicated to Mithra in that religion have been
-examined. [6\_16](orrp19.htm#xref_6_16) The inscriptions mentioning his
+examined. [6\_16](orrp19.htm#xref_6_16.md) The inscriptions mentioning his
 name are as yet few and insignificant, so that it is only by indirect
 means that we can arrive at conclusions about this primitive cult. The
 only way to explain its distinguishing features in the Occident is to
@@ -291,7 +291,7 @@ During the domination of the Achemenides eastern
 \[paragraph continues\] Asia Minor was colonized by the Persians. The
 uplands of Anatolia resembled those of Persia in climate and soil, and
 were especially adapted to the raising of
-horses. [6\_17](orrp19.htm#xref_6_17) In Cappadocia and even in Pontus
+horses. [6\_17](orrp19.htm#xref_6_17.md) In Cappadocia and even in Pontus
 the aristocracy who owned the soil belonged to the conquering nation.
 Under the various governments which followed after the death of
 Alexander, those landlords remained the real masters of the country,
@@ -299,7 +299,7 @@ chieftains of clans governing the canton where they had their domains,
 and, on the outskirts of Armenia at least, they retained the hereditary
 title of satraps through all political vicissitudes until the time of
 Justinian, thus recalling their Persian
-origin. [5\_18](orrp18.htm#xref_5_18) This military and feudal
+origin. [5\_18](orrp18.htm#xref_5_18.md) This military and feudal
 aristocracy furnished Mithradates Eupator a considerable number of the
 officers who helped him in his long defiance of Rome, and later it
 defended the threatened independence of Armenia against the enterprises
@@ -316,7 +316,7 @@ they retained their national customs and traditional rites with such
 scrupulous loyalty that Bardesanes of Edessa cited them as an example in
 his attempt to refute the doctrines of astrology and to show that a
 nation can retain the same customs in different
-climates. [6\_19](orrp19.htm#xref_6_19) We know their religion
+climates. [6\_19](orrp19.htm#xref_6_19.md) We know their religion
 sufficiently to be
 
 <span id="page_145">p. 145</span>
@@ -334,7 +334,7 @@ Zeus and Jupiter had been originally. Below him they venerated deified
 abstractions (such as Vohumano, "good mind," and Ameretat,
 "immortality") from which the religion of Zoroaster made its
 Amshaspends, the archangels surrounding the Most
-High. [6\_20](orrp19.htm#xref_6_20) Finally they sacrificed to the
+High. [6\_20](orrp19.htm#xref_6_20.md) Finally they sacrificed to the
 spirits of nature, the Yazatas: for instance, Anahita or Anaites the
 goddess of the waters--that made fertile the fields; Atar, the
 personification of fire; and especially Mithra, the pure genius of
@@ -347,7 +347,7 @@ nevertheless a clearly characterized and distinctive Mazdaism, which was
 to remain the most solid foundation for the greatness of the mysteries
 of Mithra in the Occident.
 
-Recent discoveries [6\_21](orrp19.htm#xref_6_21) of bilingual
+Recent discoveries [6\_21](orrp19.htm#xref_6_21.md) of bilingual
 inscriptions have succeeded in establishing the fact that the language
 used, or at least written, by the Persian colonies of Asia Minor was not
 their ancient Aryan idiom, but
@@ -359,9 +359,9 @@ Achemenides this was the diplomatic and commercial language of all
 countries west of the Tigris. In Cappadocia and Armenia it remained the
 literary and probably also the liturgical language until it was slowly
 supplanted by Greek during the Hellenistic period. The very name
-*magousaioi* <span id="fr_16"></span>[1](#fn_16) given to the magi in
+*magousaioi* <span id="fr_16"></span>[1](#fn_16.md) given to the magi in
 those countries is an exact transcription of a Semitic
-plural. [6\_22](orrp19.htm#xref_6_22) This phenomenon, surprising at
+plural. [6\_22](orrp19.htm#xref_6_22.md) This phenomenon, surprising at
 first sight, is explained by the history of the *magousaioi* who
 emigrated to Asia Minor. They did not come there directly from
 Persepolis or Susa, but from Mesopotamia. Their religion had been deeply
@@ -391,10 +391,10 @@ deity was worshiped who after a number of transformations became a
 Jupiter Protector of the Roman armies. Originally this god, who was
 believed to have discovered the use of iron, seems to have been brought
 to Commagene by a tribe of blacksmiths, the Chalybes, who had come from
-the north. [6\_23](orrp19.htm#xref_6_23) He was represented standing on
+the north. [6\_23](orrp19.htm#xref_6_23.md) He was represented standing on
 a steer and holding in his hand a two-edged ax, an ancient symbol
 venerated in Crete during the Mycenean age and found also at Labranda in
-Caria and all over Asia Minor. [6\_24](orrp19.htm#xref_6_24) The ax
+Caria and all over Asia Minor. [6\_24](orrp19.htm#xref_6_24.md) The ax
 symbolized the god's mastery over the lightning which splits asunder the
 trees of the forest amidst the din of storms. Once established on Syrian
 soil, this genius of thunder became identified with some local Baal and
@@ -402,15 +402,15 @@ his cult took up all the Semitic features. After the conquests of Cyrus
 and the founding of the Persian domination, this "Lord of the heavens"
 was readily confounded with Ahura Mazda, who was likewise "the full
 circle of heaven," according to a definition of
-Herodotus, [6\_25](orrp19.htm#xref_6_25) and whom the Persians also
+Herodotus, [6\_25](orrp19.htm#xref_6_25.md) and whom the Persians also
 worshiped on mountain tops. When a half Persian, half Hellenic dynasty
 succeeded Alexander in Commagene, this Baal became a *Zeus
-Oromasdes* <span id="fr_17"></span>[1](#fn_17) (Ahura Mazda) residing in
+Oromasdes* <span id="fr_17"></span>[1](#fn_17) (Ahura Mazda.md) residing in
 the sublime ethereal regions. A Greek inscription speaks of the
 celestial thrones "on which this supreme divinity receives the souls of
-its worshipers." [6\_26](orrp19.htm#xref_6_26) In the Latin countries
+its worshipers." [6\_26](orrp19.htm#xref_6_26.md) In the Latin countries
 "Jupiter Caelus" remained at the head of the Mazdean
-pantheon, [6\_27](orrp19.htm#xref_6_27) and in all the provinces the
+pantheon, [6\_27](orrp19.htm#xref_6_27.md) and in all the provinces the
 temples of
 
 .}
@@ -419,20 +419,20 @@ temples of
 
 \[paragraph continues\] "Jupiter Dolichenus" were erected beside those
 of Mithra, and the two remained in the closest
-relations. [6\_28](orrp19.htm#xref_6_28)
+relations. [6\_28](orrp19.htm#xref_6_28.md)
 
 The same series of transformations took place elsewhere with a number of
-other gods. [6\_29](orrp19.htm#xref_6_29) The Mithra worship was thus
+other gods. [6\_29](orrp19.htm#xref_6_29.md) The Mithra worship was thus
 formed, in the main, by a combination of Persian beliefs with Semitic
 theology, incidentally including certain elements from the native cults
 of Asia Minor. The Greeks later translated the names of the Persian
 divinities into their language and imposed certain forms of their
-mysteries on the Mazdean cult. [6\_30](orrp19.htm#xref_6_30) Hellenic
+mysteries on the Mazdean cult. [6\_30](orrp19.htm#xref_6_30.md) Hellenic
 art lent to the Yazatas that idealized form in which it liked to
 represent the immortals, and philosophy, especially that of the Stoics,
 endeavored to discover its own physical and metaphysical theories in the
 traditions of the magi. But in spite of all these
-[accommodations](errata.htm#2), adaptations and interpretations,
+[accommodations](errata.htm#2.md), adaptations and interpretations,
 Mithraism always remained in substance a Mazdaism blended with
 Chaldeanism, that is to say, essentially a barbarian religion. It
 certainly was far less Hellenized than the Alexandrian cult of Isis and
@@ -440,7 +440,7 @@ Serapis, or even that of the Great Mother of Pessinus. For that reason
 it always seemed unacceptable to the Greek world, from which it
 continued to be. almost completely excluded. Even language furnishes a
 curious proof of that fact. Greek contains a number of theophorous <span
-id="fr_18"></span>[1](#fn_18) (god-bearing) names formed from those of
+id="fr_18"></span>[1](#fn_18) (god-bearing.md) names formed from those of
 Egyptian or Phrygian gods, like Serapion, Metrodoros,
 Metrophilos--Isidore is in use at the present day--but all known
 derivations of Mithra are of barbarian formation. The Greeks never
@@ -450,7 +450,7 @@ Hellenic
 <span id="page_149">p. 149</span>
 
 civilization escaped his influence and he
-theirs. [6\_31](orrp19.htm#xref_6_31) Mithraism. passed directly from
+theirs. [6\_31](orrp19.htm#xref_6_31.md) Mithraism. passed directly from
 Asia into the Latin world.
 
 There it spread with lightning rapidity from the time it was first
@@ -490,7 +490,7 @@ assign causes for the enthusiasm that attracted humble plebeians and
 great men of the world to the altars of this barbarian god. We shall not
 repeat here what any one who has the curiosity may read either in a
 large or a small book according to his
-preferences, [6\_33](orrp19.htm#xref_6_33) but we must consider the
+preferences, [6\_33](orrp19.htm#xref_6_33.md) but we must consider the
 problem from a different point of view. Of all Oriental religions the
 Persian cult was the last to reach the Romans. We shall inquire what new
 principle it contained; to what inherent qualities it owed its
@@ -550,7 +550,7 @@ of view and at the same time provided a new goal in life.
 
 Of course, if we understand by dualism the antithesis of mind and
 matter, of reason and intuition, it appeared at a considerably earlier
-period in Greek philosophy, [6\_34](orrp19.htm#xref_6_34) where it was
+period in Greek philosophy, [6\_34](orrp19.htm#xref_6_34.md) where it was
 one of the leading ideas of neo-Pythagoreanism and of Philo's system.
 But the distinguishing feature of the doctrine of the magi is the fact
 that it deified the evil principle, set it up as a rival to the supreme
@@ -559,20 +559,20 @@ apparently simple solution to the problem of evil, the stumbling block
 of theologies, and it attracted the cultured minds as well as the
 masses, to whom it afforded an explanation of their sufferings. just as
 the mysteries of Mithra began to spread Plutarch wrote of them favorably
-and was inclined himself to adopt them. [6\_35](orrp19.htm#xref_6_35)
+and was inclined himself to adopt them. [6\_35](orrp19.htm#xref_6_35.md)
 From that time dates the appearance in literature of the
 anti-gods, <span
-id="fr_19"></span>[1](#fn_19) [6\_36](orrp19.htm#xref_6_36) under the
-command of the powers of darkness [6\_37](orrp19.htm#xref_6_37) and
+id="fr_19"></span>[1](#fn_19) [6\_36](orrp19.htm#xref_6_36.md) under the
+command of the powers of darkness [6\_37](orrp19.htm#xref_6_37.md) and
 arrayed against the celestial spirits, messengers or
-"angels" [6\_38](orrp19.htm#xref_6_38) of divinity. They were Ahriman's
+"angels" [6\_38](orrp19.htm#xref_6_38.md) of divinity. They were Ahriman's
 *devas* struggling with the Yazatas of Ormuzd.
 
-A curious passage in Porphyry [6\_39](orrp19.htm#xref_6_39) shows that
+A curious passage in Porphyry [6\_39](orrp19.htm#xref_6_39.md) shows that
 the earliest neo-Platonists had already admitted Persian demonology into
 their system. Below the incorporeal and indivisible supreme being, below
 the stars and the planets, there were countless
-spirits. [6\_40](orrp19.htm#xref_6_40) Some of them, the gods of cities
+spirits. [6\_40](orrp19.htm#xref_6_40.md) Some of them, the gods of cities
 and nations, received special names:
 
 <span id="page_153">p. 153</span>
@@ -584,25 +584,25 @@ as intermediaries between gods and men, bearing up to heaven the homage
 and prayers of the faithful, and down from heaven portents and warnings.
 The others were wicked spirits inhabiting regions close to the earth and
 there was no evil that they did not exert every effort to
-cause. [6\_41](orrp19.htm#xref_6_41) At the same time both violent and
+cause. [6\_41](orrp19.htm#xref_6_41.md) At the same time both violent and
 cunning, impetuous and crafty, they were the authors of all the
 calamities that befell the world, such as pestilence, famine, tempests
 and earthquakes. They kindled evil passions and illicit desires in the
 hearts of men and provoked war and sedition. They were clever deceivers
 rejoicing in lies and impostures. They encouraged the phantasmagoria and
-mystification of the sorcerers [6\_42](orrp19.htm#xref_6_42) and gloated
+mystification of the sorcerers [6\_42](orrp19.htm#xref_6_42.md) and gloated
 over the bloody sacrifices which magicians offered to them all, but
 especially to their chief.
 
 Doctrines very similar to these were certainly taught in the mysteries
 of Mithra; homage was paid to Ahriman (Arimanius) lord of the somber
 underworld, and master of the infernal
-spirits. [6\_43](orrp19.htm#xref_6_43) This cult has continued in the
+spirits. [6\_43](orrp19.htm#xref_6_43.md) This cult has continued in the
 Orient to the present day among the Yezidis, or devil worshipers.
 
 In his treatise against the magi. Theodore of
-Mopsuestia [6\_44](orrp19.htm#xref_6_44) speaks of Ahriman as
-Satan. <span id="fr_20"></span>[1](#fn_20) At first sight there really
+Mopsuestia [6\_44](orrp19.htm#xref_6_44.md) speaks of Ahriman as
+Satan. <span id="fr_20"></span>[1](#fn_20.md) At first sight there really
 is a surprising resemblance between the two. Both are heads of a
 numerous army of demons; both are spirits of error and falsehood,
 princes of darkness,
@@ -612,7 +612,7 @@ princes of darkness,
 tempters and corrupters. An almost identical picture of the pair could
 be drawn, and in fact they are practically the same figure under
 different names. It is generally admitted that Judaism took the notion
-of an adversary of God [6\_45](orrp19.htm#xref_6_45) from the Mazdeans
+of an adversary of God [6\_45](orrp19.htm#xref_6_45.md) from the Mazdeans
 along with portions of their dualism. It was therefore natural that
 Jewish doctrine, of which Christianity is heir, should have been closely
 allied to the mysteries of Mithra. A considerable part of the more or
@@ -632,9 +632,9 @@ chief agent in the success of the mysteries of Mithra during the second
 and third centuries in the Roman world then animated by unrealized
 aspirations for more perfect justice and holiness.
 
-A sentence of the Emperor Julian, [6\_46](orrp19.htm#xref_6_46)
+A sentence of the Emperor Julian, [6\_46](orrp19.htm#xref_6_46.md)
 unfortunately too brief, tells us that Mithra subjected his worshipers
-to "commandments" <span id="fr_21"></span>[1](#fn_21) and rewarded
+to "commandments" <span id="fr_21"></span>[1](#fn_21.md) and rewarded
 faithful observance both in this world and in the next. The importance
 
 <span id="page_155">p. 155</span>
@@ -649,7 +649,7 @@ connected them directly without the mediation of the Greek world.
 Mazdaism brought long awaited satisfaction to the old-time Roman desire
 for a practical religion that would subject the individual to a rule of
 conduct and contribute to the welfare of the
-state. [6\_47](orrp19.htm#xref_6_47) Mithra infused a new vigor into the
+state. [6\_47](orrp19.htm#xref_6_47.md) Mithra infused a new vigor into the
 paganism of the Occident by introducing the imperative ethics of Persia.
 
 Unhappily the text of the Mithraic decalogue has not been preserved and
@@ -660,7 +660,7 @@ in the religion of Zoroaster and retained that character in the
 Occident. He was the Mazdean Apollo, but while Hellenism, with a finer
 appreciation of beauty, developed the esthetic qualities in Apollo, the
 Persians, caring more for matters of conscience, emphasized the moral
-character in Mithra. [6\_48](orrp19.htm#xref_6_48) The Greeks,
+character in Mithra. [6\_48](orrp19.htm#xref_6_48.md) The Greeks,
 themselves little scrupulous in that respect, were struck by the
 abhorrence in which their Oriental neighbors held a lie. The Persians
 conceived of Ahriman as the embodiment of deceit. Mithra was always the
@@ -680,7 +680,7 @@ another a brother's affection. It is a question whether they extended
 the love of neighbor to that universal charity taught by philosophy and
 Christianity. Emperor Julian, a devoted mystic, liked to set up such an
 ideal, and it is probable that the Mithraists of later paganism rose to
-this conception of duty, [6\_49](orrp19.htm#xref_6_49) but they were not
+this conception of duty, [6\_49](orrp19.htm#xref_6_49.md) but they were not
 its authors. They seemed to have attached more importance to the virile
 qualities than to compassion and gentleness. The fraternal spirit of
 initiates calling themselves soldiers was doubtless more akin to the
@@ -692,7 +692,7 @@ spirits that corrupt and torture those who disturb their repose; but
 dualism endowed this universal belief with marvelous power as well as
 with a dogmatic basis. Mazdaism is governed throughout by ideas of
 purity and impurity. "No religion on earth has ever been so completely
-dominated by an ideal of purification." [6\_50](orrp19.htm#xref_6_50)
+dominated by an ideal of purification." [6\_50](orrp19.htm#xref_6_50.md)
 This kind of perfection was the goal of the aspiration and effort of
 believers. They were obliged to guard with infinite precaution against
 defiling the divine elements, for instance water or fire, or their own
@@ -709,7 +709,7 @@ This perfect purity distinguishes the mysteries of Mithra from those of
 all other Oriental gods. Serapis is the brother and husband of Isis,
 Attis the lover of Cybele, every Syrian Baal is coupled with a spouse;
 but Mithra lives alone. Mithra is chaste, Mithra is holy
-(*sanctus*), [6\_51](orrp19.htm#xref_6_51) and for the worship of
+(*sanctus*), [6\_51](orrp19.htm#xref_6_51.md) and for the worship of
 fecundity he substitutes a new reverence for continence.
 
 However, although resistance to sensuality is laudable and although the
@@ -750,7 +750,7 @@ progress into their character. By supplying a new conception of the
 world, dualism also gave a new meaning to life. This same dualism
 determined the eschatological beliefs of the Mithraists. The antagonism
 between heaven and hell was extended into the life
-hereafter. [6\_52](orrp19.htm#xref_6_52) Mithra, the "invincible" god
+hereafter. [6\_52](orrp19.htm#xref_6_52.md) Mithra, the "invincible" god
 who assisted the faithful in their struggle against the malignity of the
 demons, was not only their strong companion in their human trials, but
 as an antagonist of the infernal powers he insured the welfare of his
@@ -767,11 +767,11 @@ into the infernal abyss. Finally it is led into the ethereal regions
 where Jupiter-Ormuzd reigns in eternal light. The believers in Mithra
 did not agree with the votaries of Serapis who held that the souls of
 the just reside in the depths of the
-earth. [6\_53](orrp19.htm#xref_6_53) To them that somber kingdom was the
+earth. [6\_53](orrp19.htm#xref_6_53.md) To them that somber kingdom was the
 domain of wrong-doers. The souls of the just live in the boundless light
 that extends above the stars, and by divesting themselves of all
 sensuality and all lust in passing through the planetary
-spheres [6\_54](orrp19.htm#xref_6_54) they become as pure as the gods
+spheres [6\_54](orrp19.htm#xref_6_54.md) they become as pure as the gods
 whose company they enter.
 
 However, when the world came to an end the body also was to share in
@@ -807,12 +807,12 @@ of the Avesta and practise genuine fire worship.
 Another witness to the vitality of Mithraic Mazdaism is the fact that it
 escaped becoming a kind of state religion of the Roman empire during the
 third century. An oft-quoted sentence of Renan's
-says: [6\_55](orrp19.htm#xref_6_55) "If Christianity had been checked in
+says: [6\_55](orrp19.htm#xref_6_55.md) "If Christianity had been checked in
 its growth by some deadly disease, the world would have become
 Mithraic." In hazarding that statement he undoubtedly conjured up a
 picture of what would have been the condition of this poor world in that
 case. He must have imagined, one of his followers would have us
-believe, [6\_56](orrp19.htm#xref_6_56) that the morals of the human race
+believe, [6\_56](orrp19.htm#xref_6_56.md) that the morals of the human race
 would have been but little changed, a little more virile perhaps, a
 little less charitable, but only a shade different. The erudite theology
 taught by the mysteries would obviously have shown a laudable respect
@@ -844,18 +844,18 @@ the unknown regions through which it would flow?
 
 ### Footnotes
 
-<span id="fn_16"></span>[146:1](orrp10.htm#fr_16) μαγουσαϊοι.
+<span id="fn_16"></span>[146:1](orrp10.htm#fr_16.md) μαγουσαϊοι.
 
-<span id="fn_17"></span>[147:1](orrp10.htm#fr_17) Zeu\~c O?romásdhc
+<span id="fn_17"></span>[147:1](orrp10.htm#fr_17.md) Zeu\~c O?romásdhc
 
-<span id="fn_18"></span>[148:1](orrp10.htm#fr_18) θεοφόρος.
+<span id="fn_18"></span>[148:1](orrp10.htm#fr_18.md) θεοφόρος.
 
-<span id="fn_19"></span>[152:1](orrp10.htm#fr_19) ἀντίθεοι.
+<span id="fn_19"></span>[152:1](orrp10.htm#fr_19.md) ἀντίθεοι.
 
-<span id="fn_20"></span>[153:1](orrp10.htm#fr_20) Σατανᾶς.
+<span id="fn_20"></span>[153:1](orrp10.htm#fr_20.md) Σατανᾶς.
 
-<span id="fn_21"></span>[154:1](orrp10.htm#fr_21) ἐντολαί.
+<span id="fn_21"></span>[154:1](orrp10.htm#fr_21.md) ἐντολαί.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Astrology and Magic](orrp11)
+[Next: VII. Astrology and Magic](orrp11.md)

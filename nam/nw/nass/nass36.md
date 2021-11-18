@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass35)  [Next](nass37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass35)  [Next](nass37.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ his smoke-hole.
 
 ------------------------------------------------------------------------
 
-[Next: Ts?ak\*](nass37)
+[Next: Ts?ak\*](nass37.md)

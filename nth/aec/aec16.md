@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec15)  [Next](aec17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec15)  [Next](aec17.md) 
 
 ------------------------------------------------------------------------
 
@@ -409,4 +409,4 @@ And the living world on heaven's plan—
 
 ------------------------------------------------------------------------
 
-[Next: Jacket and Flaps](aec17)
+[Next: Jacket and Flaps](aec17.md)

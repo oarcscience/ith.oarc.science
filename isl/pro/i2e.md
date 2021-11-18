@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](intro)  [Next](adam00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](intro)  [Next](adam00.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ Markabâ-Jabal 'Âmil-Lebanon
 ------------------------------------------------------------------------
 
 [Next: About some conditions of the father of Human beings ''Adam''
-(PUH)](adam00)
+(PUH)](adam00.md)

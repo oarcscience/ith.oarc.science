@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby32)  [Next](sby34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby32)  [Next](sby34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ wear red turbans and black garments. Then come the ḳawwals, from the
 Arabic, meaning one who speaks fluently, an orator. And lastly, the
 fakirs, from the Arabic poor. These are the lowest order in the Yezidi
 priesthood. (For the different offices of the last three orders, (see
-[p. 69](sby12.htm#page_69).)
+[p. 69](sby12.htm#page_69)..md)
 
 The clergy of all ranks enjoy particular respect. Their persons and
 homes are held inviolate. They take precedence at public gatherings. And
@@ -84,4 +84,4 @@ The name of the present amir is ‘Ali, and he resides in Ba‘adrie.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on Chapter IV](sby34)
+[Next: Notes on Chapter IV](sby34.md)

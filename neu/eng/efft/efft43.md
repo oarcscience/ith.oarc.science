@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft42)  [Next](efft44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft42)  [Next](efft44.md) 
 
 ------------------------------------------------------------------------
 
-# THE DEMON TREGEAGLE.  <span id="fr_49"></span>[1](#fn_49)
+# THE DEMON TREGEAGLE.  <span id="fr_49"></span>[1](#fn_49.md)
 
 <span id="img_10"></span> [![](tn/10.jpg)  
-Click to enlarge](img/10.jpg)  
+Click to enlarge](img/10.jpg.md)  
 "THE GHASTLY HEAD OF THE DOOMED SINNER GRINNED HORRIBLY DOWN."
 
 "Thrice he began to tell his doleful tale,  
@@ -302,9 +302,9 @@ storms are predicated by the fearful roarings of this condemned mortal.
 
 ### Footnotes
 
-<span id="fn_49"></span>[1](efft43.htm#fr_49) Robert Hunt, *Popular
+<span id="fn_49"></span>[1](efft43.htm#fr_49.md) Robert Hunt, *Popular
 Romances of the West of England*, 1<sup>st</sup> series, p. 133.
 
 ------------------------------------------------------------------------
 
-[Next: The Pason and Clerk](efft44)
+[Next: The Pason and Clerk](efft44.md)

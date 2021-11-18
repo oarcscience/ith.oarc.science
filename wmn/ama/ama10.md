@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](ama09)  [Next](ama11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](ama09)  [Next](ama11.md) 
 
 ------------------------------------------------------------------------
 
@@ -191,7 +191,7 @@ cured epilepsy, and was the great amulet for procuring easy childbirth.
 
 Generally speaking, the sapphire symbolises the azure of the
 sky-therefore religious hope; the emerald, vegetation, spring, Venus,
-love. <span id="fr_5"></span>[1](#fn_5) So we find, according to
+love. <span id="fr_5"></span>[1](#fn_5.md) So we find, according to
 tradition, Pope Innocent III. sending to King John of England four
 rings: the sapphire to represent hope; the emerald, faith; the garnet,
 charity; and the topaz, good works--of all of which he stood much in
@@ -374,7 +374,7 @@ ATHIC HEROES (BRITISH MUSEUM).&lt;BR&gt; III.--AMAZON CHARGING FROM
 KYLIX (BRITISH MUSEUM).&lt;BR&gt; IV.--CAMEOS IN BRITISH
 MUSEUM.&lt;BR&gt; V.--HEADS OF AMAZONS, SARDONYX (FROM BLARAS
 COLLECTION).](tn/17600.jpg)  
-Click to enlarge](img/17600.jpg)  
+Click to enlarge](img/17600.jpg.md)  
 I.--AMAZONS FROM DEINOS (BOWL).  
 II.--COMBAT OF AMAZONS WITH ATHIC HEROES (BRITISH MUSEUM).  
 III.--AMAZON CHARGING FROM KYLIX (BRITISH MUSEUM).  
@@ -387,11 +387,11 @@ V.--HEADS OF AMAZONS, SARDONYX (FROM BLARAS COLLECTION).
 
 ### Footnotes
 
-<span id="fn_5"></span>[170:1](ama10.htm#fr_5) In heraldry azure is
+<span id="fn_5"></span>[170:1](ama10.htm#fr_5.md) In heraldry azure is
 represented by the sapphire or by the zodiacal sign for Jupiter; vert
 (green) by the emerald, or the sign of Venus; purpure (purple) by the
 amethyst, or the sign of Mercury.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Conclusion](ama11)
+[Next: Chapter X: Conclusion](ama11.md)

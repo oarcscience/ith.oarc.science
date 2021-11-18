@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp11)  [Next](dtp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp11)  [Next](dtp13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -133,7 +133,7 @@ capable of feeling for woman. Yet, notwithstanding this, thy love shall
 not be a love crowned in this life period. And thou shalt love again,
 wherefore thou shalt weep because of it. Thou shalt work some good in
 the world but, alas, much evil also. And because of an
-[overshadowing](errata.htm#7) destiny, unto thee shall come much sorrow.
+[overshadowing](errata.htm#7.md) destiny, unto thee shall come much sorrow.
 By thee unto another shall deep misery of anguish come, and unto the
 uttermost shalt thou pay therefor, nor come out thence until thou hast
 done so. Yet, behold not in this life shall much be required of thee.
@@ -171,4 +171,4 @@ Time will satisfy thy curiosity, my reader, as it did mine.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Curing Crime](dtp13)
+[Next: Chapter IX: Curing Crime](dtp13.md)

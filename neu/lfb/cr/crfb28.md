@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb27)  [Next](crfb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb27)  [Next](crfb29.md) 
 
 </div>
 
@@ -183,6 +183,6 @@ water.'
 
 ------------------------------------------------------------------------
 
-[Next: Niels and the Giants](crfb29)
+[Next: Niels and the Giants](crfb29.md)
 
 </div>

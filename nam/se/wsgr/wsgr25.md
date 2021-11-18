@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr24)  [Next](wsgr26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr24)  [Next](wsgr26.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,4 +126,4 @@ wherever pecan trees are growing.
 
 ------------------------------------------------------------------------
 
-[Next: When the Rainbow Was Torn](wsgr26)
+[Next: When the Rainbow Was Torn](wsgr26.md)

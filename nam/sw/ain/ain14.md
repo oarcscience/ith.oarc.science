@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain13)  [Next](ain15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain13)  [Next](ain15.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ And so Dthas Seeven also had turquoises.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of the Turquoises](ain15)
+[Next: Notes on the Story of the Turquoises](ain15.md)

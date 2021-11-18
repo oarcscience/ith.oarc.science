@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip09)  [Next](fip11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip09)  [Next](fip11.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ Around us gently float.
 
 ------------------------------------------------------------------------
 
-[Next: The White Trout; A Legend of Cong, by S. Lover](fip11)
+[Next: The White Trout; A Legend of Cong, by S. Lover](fip11.md)

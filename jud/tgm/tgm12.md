@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm11)  [Next](tgm13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm11)  [Next](tgm13.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ The rich man entered and saw Bar Kamza among the guests.
 <span id="img_04800"></span>
 
 [![](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)
+Click to enlarge](img/04800.jpg.md)
 
  
 
@@ -131,4 +131,4 @@ besieged Jerusalem.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The School that Saved a People](tgm13)
+[Next: 10. The School that Saved a People](tgm13.md)

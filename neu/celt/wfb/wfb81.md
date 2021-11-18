@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb80)  [Next](wfb82) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb80)  [Next](wfb82.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ out of the grave on Wednesday I was able to divine the mystery."
 
 ------------------------------------------------------------------------
 
-[Next: Llyn Llech Owen](wfb82)
+[Next: Llyn Llech Owen](wfb82.md)

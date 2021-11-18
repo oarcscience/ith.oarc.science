@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](csg00)    [Page
-Index](pageidx)    [Text \[Zipped\]](csg.txt.gz)
+[Contents](#contents)    [Start Reading](csg00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](csg.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ spontaneously teleported to distant locations. This has made him a
 subject of interest for students of the esoteric. The Theosophists, (of
 which Ms. Cooper-Oakley was a founding member), considered St. Germain
 to be one of the hidden immortals who manipulate history. In the 20th
-century, the ["I Am" Activity](../../eso/index.htm#iam), and its
+century, the ["I Am" Activity](../../eso/index.htm#iam.md), and its
 successors such as Elizabeth Clare Prophet's adherents, elevated St.
 Germain to the status of a demigod, an 'Ascended Master.'
 
@@ -90,28 +90,28 @@ Reference: *The Immortal Count*, by Doug Skinner, Fortean Times, May
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](csg00)  
-[Contents](csg01)  
-[Chapter I. Mystic and Philosopher](csg02)  
-[Chapter II. His Travels and Knowledge](csg03)  
-[Chapter III. The Coming Danger](csg04)  
-[Chapter IV. Tragical Prophecies](csg05)  
-[Chapter V. Political Work](csg06)  
-[Chapter VI. In The ''Mitchell Papers''](csg07)  
-[Chapter VII. Masonic Tradition](csg08)  
-[Chapter VIII. Masonic Work and Austrian Traditions](csg09)  
+<span id="contents"></span> [Title Page](csg00.md)  
+[Contents](csg01.md)  
+[Chapter I. Mystic and Philosopher](csg02.md)  
+[Chapter II. His Travels and Knowledge](csg03.md)  
+[Chapter III. The Coming Danger](csg04.md)  
+[Chapter IV. Tragical Prophecies](csg05.md)  
+[Chapter V. Political Work](csg06.md)  
+[Chapter VI. In The ''Mitchell Papers''](csg07.md)  
+[Chapter VII. Masonic Tradition](csg08.md)  
+[Chapter VIII. Masonic Work and Austrian Traditions](csg09.md)  
 <span id="section_000"></span>
 
 ### Appendices
 
-[Appendix I. Documents Concerning the Apartment in Chambord...](csg10)  
+[Appendix I. Documents Concerning the Apartment in Chambord...](csg10.md)  
 [Appendix II. Correspondence Between The Duc De Choiseul And The Comte
-D’Affry...](csg11)  
-[Appendix III. From the Papers of Sieur Bentinck Van Rhoon](csg12)  
-[Appendix IV. Extracts from The Memoirs of Hardenbrock...](csg13)  
+D’Affry...](csg11.md)  
+[Appendix III. From the Papers of Sieur Bentinck Van Rhoon](csg12.md)  
+[Appendix IV. Extracts from The Memoirs of Hardenbrock...](csg13.md)  
 [Appendix V. Masonic Document from the Lodge of the ''Grand Orient'' of
-France](csg14)  
+France](csg14.md)  
 [Appendix VI. Additional Mitchell Papers...Lord Holdernesse's
-Despatches...](csg15)  
-[Appendix VII. Miscellaneous Papers From English Record Office](csg16)  
-[Bibliography](csg17)  
+Despatches...](csg15.md)  
+[Appendix VII. Miscellaneous Papers From English Record Office](csg16.md)  
+[Bibliography](csg17.md)  

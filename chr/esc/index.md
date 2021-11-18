@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](esc00)
+[Contents](#contents)    [Start Reading](esc00.md)
 
 ------------------------------------------------------------------------
 
@@ -46,36 +46,36 @@ today simply point to various signs and portents to suggest that the end
 is near.
 
 The source for this electronic text was downloaded from the [Early
-SDA](https://www.earlysda.com/) website.
+SDA](https://www.earlysda.com/.md) website.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](esc00)  
-[Introduction](esc01)  
-[Index](esc02)  
-[Lecture I. The Second Appearing of Christ](esc03)  
-[Lecture II. The First Resurrection](esc04)  
-[Lecture III. The Two Thousand Three Hundred Days](esc05)  
-[Lecture IV. Seventy weeks are determined upon thy people...](esc06)  
-[Lecture V. Pagan Rome Numbered](esc07)  
-[Lecture VI. Daniel's Vision of the Latter Days](esc08)  
-[Lecture VII. Daniel's 1260, 1290, and 1335 Days Explained](esc09)  
-[Lecture VIII. The Three Woe Trumpets](esc10)  
+<span id="contents"></span> [Title Page](esc00.md)  
+[Introduction](esc01.md)  
+[Index](esc02.md)  
+[Lecture I. The Second Appearing of Christ](esc03.md)  
+[Lecture II. The First Resurrection](esc04.md)  
+[Lecture III. The Two Thousand Three Hundred Days](esc05.md)  
+[Lecture IV. Seventy weeks are determined upon thy people...](esc06.md)  
+[Lecture V. Pagan Rome Numbered](esc07.md)  
+[Lecture VI. Daniel's Vision of the Latter Days](esc08.md)  
+[Lecture VII. Daniel's 1260, 1290, and 1335 Days Explained](esc09.md)  
+[Lecture VIII. The Three Woe Trumpets](esc10.md)  
 [Lecture IX. The Epistles to the Seven Churches of Asia, Considered as
-Applying to Seven Periods of the Gospel Church, Part I.](esc11)  
+Applying to Seven Periods of the Gospel Church, Part I.](esc11.md)  
 [Lecture X. The Epistles to the Seven Churches of Asia, Considered as
-Applying to Seven Periods of the Gospel Church, Part II](esc12)  
-[Lecture XI. The New Song](esc13)  
+Applying to Seven Periods of the Gospel Church, Part II](esc12.md)  
+[Lecture XI. The New Song](esc13.md)  
 [Lecture XII. The Seven Seals, as Representing Events to the End of
-Time](esc14)  
+Time](esc14.md)  
 [Lecture XIII. The Two Witnesses, as Having Been Slain in the French
-Revolution](esc15)  
-[Lecture XIV. The Woman in the Wilderness](esc16)  
-[Lecture XV. The Seven Last Plagues, or Seven Vials](esc17)  
-[Lecture XVI. The Parable of the Ten Virgins](esc18)  
+Revolution](esc15.md)  
+[Lecture XIV. The Woman in the Wilderness](esc16.md)  
+[Lecture XV. The Seven Last Plagues, or Seven Vials](esc17.md)  
+[Lecture XVI. The Parable of the Ten Virgins](esc18.md)  
 [Lecture XVII. On the Punishment of the People of God Seven Times for
-their Sins](esc19)  
+their Sins](esc19.md)  
 [Lecture XVIII. Who is this that cometh up from the wilderness, leaning
-upon her beloved?](esc20)  
-[Lecture XIX. Signs of the Present Times](esc21)  
-[Supplement](esc22)  
+upon her beloved?](esc20.md)  
+[Lecture XIX. Signs of the Present Times](esc21.md)  
+[Supplement](esc22.md)  

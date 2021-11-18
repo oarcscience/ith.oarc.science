@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw36)  [Next](omw38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw36)  [Next](omw38.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_08800"></span>
 
 [![Herakles](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)  
+Click to enlarge](img/08800.jpg.md)  
 Herakles  
 
 ### HERAKLES
@@ -519,4 +519,4 @@ by the River Acheron.
 
 ------------------------------------------------------------------------
 
-[Next: Herakles, Part II](omw38)
+[Next: Herakles, Part II](omw38.md)

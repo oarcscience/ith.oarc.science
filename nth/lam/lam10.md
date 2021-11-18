@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam09)  [Next](lam11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam09)  [Next](lam11.md) 
 
 ------------------------------------------------------------------------
 
@@ -225,4 +225,4 @@ abrogated or suspended during earthly existence.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Affinity](lam11)
+[Next: IX. Affinity](lam11.md)

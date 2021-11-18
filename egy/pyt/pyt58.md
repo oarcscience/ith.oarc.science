@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt57)  [Next](pyt59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt57)  [Next](pyt59.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ leadest the gods
 
 ------------------------------------------------------------------------
 
-[Next: 56. Texts of Miscellaneous Contents, Utterances 685-689](pyt59)
+[Next: 56. Texts of Miscellaneous Contents, Utterances 685-689](pyt59.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dav01)  [Next](dav03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dav01)  [Next](dav03.md) 
 
 ------------------------------------------------------------------------
 
@@ -219,4 +219,4 @@ sucesss.
 ------------------------------------------------------------------------
 
 [Next: Some of What Was Inspired to David (PUH) and Some of What Was
-Copied From His Sermons](dav03)
+Copied From His Sermons](dav03.md)

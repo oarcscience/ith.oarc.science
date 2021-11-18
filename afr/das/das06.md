@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das05)  [Next](das07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das05)  [Next](das07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -59,14 +59,14 @@ loquacious, enjoy relating their beliefs and customs to a willing
 listener.
 
 Among the older inhabitants is Aunt Mary, <span
-id="fr_0"></span>[1](#fn_0) the daughter of a slave, who remembers the
+id="fr_0"></span>[1](#fn_0.md) the daughter of a slave, who remembers the
 days when rice fields lay east of the town and it was no unusual sight
 to find a big "’gatuh" caught in the rice canal. Early morning finds
 Aunt Mary hobbling to her work of scrubbing the entrances to stores. In
 going to and from work she always drags a broom behind her. When we
 asked the reason for this, she answered, "’Cuz uh dohn wants none uh
 deze fixuhs tuh git muh foot track, cuz den dey kin hanl yuh jis lak dey
-wants tuh." [7](das26.htm#xref_7)
+wants tuh." [7](das26.htm#xref_7.md)
 
 "Do you really believe that, Aunt Mary? Do you believe in dreams and
 ghosts too?"
@@ -79,15 +79,15 @@ suttn place on muh head itches."
 
 The old woman switched her broom around under the other arm and
 continued, "As fuh ghoses, ain't uh got tuh belieb in
-um? [59](das26.htm#xref_59) Wy, I kin see um muhsef. Yuh see, I wuz bawn
+um? [59](das26.htm#xref_59.md) Wy, I kin see um muhsef. Yuh see, I wuz bawn
 wid a double caul obuh muh face an anybody knows dat a pusson bawn wid a
-caul obuh dey face kin sho see ghoses. [4](das26.htm#xref_4) Deah's mo
+caul obuh dey face kin sho see ghoses. [4](das26.htm#xref_4.md) Deah's mo
 dan one kine uh ghos. Some come befo yuh natchul an pleasant; den some
 kin sho make yuh sked. I kin tell long fo anyting happen wen it gwine
 happen. Nuttn ebuh happen tuh me widout me knowin it long fo it
-come." [22a](das26.htm#xref_22a),  [22e](das26.htm#xref_22e)
+come." [22a](das26.htm#xref_22a),  [22e](das26.htm#xref_22e.md)
 
-Another old woman <span id="fr_1"></span>[2](#fn_1) can recall when her
+Another old woman <span id="fr_1"></span>[2](#fn_1.md) can recall when her
 slave mother used to carry her on her back to the spring on their
 plantation. This woman wears large earrings of gold which she
 
@@ -98,7 +98,7 @@ encircled by a band of copper wire. She smiled and inadvertently touched
 the wire as she explained its presence.
 
 "Ef yuh wuks hahd aw does much washin, it heps duh
-nerbes." [8](das26.htm#xref_8),  [12](das26.htm#xref_12)
+nerbes." [8](das26.htm#xref_8),  [12](das26.htm#xref_12.md)
 
 At the mention of "cunjuh" the old woman lit her pipe, smiled
 pathetically, and shook her head. As the blue smoke curled upward, she
@@ -107,17 +107,17 @@ a few short weeks.
 
 "Yeahs ago," she sighed, "I hab a huzbun wut treat me well an uh wuz
 libin good. Dis wuz jis fo muh twins wuz bawn. Ise a twin too, an it sho
-is bad luck. [67](das26.htm#xref_67) Deah wuz somebody wut want muh
+is bad luck. [67](das26.htm#xref_67.md) Deah wuz somebody wut want muh
 huzbun tuh leab me an go oft wid um, so dey hab me
-fix. [15](das26.htm#xref_15) Wen uh come home one day, I step in a hole
+fix. [15](das26.htm#xref_15.md) Wen uh come home one day, I step in a hole
 by duh doe an deah wuz a bottle fix wid some tings in it. Right den an
 deah I took sech a misery in muh lef side an den uh swell up all obuh;
 muh hands wuz twice deah
-size. [8](das26.htm#xref_8), [12](das26.htm#xref_12), [15](das26.htm#xref_15)
+size. [8](das26.htm#xref_8), [12](das26.htm#xref_12), [15](das26.htm#xref_15.md)
 I stay dataway till I fine out wut tuh do. Den I sprinkle black peppuh
 an potash in duh hole weah duh bottle wuz an it bile up. Den some friens
 wash me off in wiskey ebry day an soon uh wuz all
-right. [6](das26.htm#xref_6) But wen duh twins wuz bawn duh boy twin hab
+right. [6](das26.htm#xref_6.md) But wen duh twins wuz bawn duh boy twin hab
 a lill hole right in is lef side weah I hab duh misery frum duh fixin.
 He lib nine days fo he die."
 
@@ -128,10 +128,10 @@ she?" we asked.
 an leab me an I know he ain nebuh done dat lessn he bin fix. Muh son die
 wen he wuz twenty-tree an wuz a fine lookin boy. Deah wuz so many women
 attuh him, lots uh people tink one uh dem fix
-im, [15](das26.htm#xref_15) but duh doctuh say he die frum pneumonia.
+im, [15](das26.htm#xref_15.md) but duh doctuh say he die frum pneumonia.
 
 "I knowd he wuz gwine die cuz I heahd a owl jis a hootin duh day
-befo. [44](das26.htm#xref_44) Deah's udduh signs uh det too, sech as ef
+befo. [44](das26.htm#xref_44.md) Deah's udduh signs uh det too, sech as ef
 yuh sees a buzzud sailin roun duh elements, das a sho sign. Ef a rat eat
 yuh dress, yuh musn patch it yuhsef lessn yuh bun duh place fo yuh sew
 on it, cuz das a sign uh det. Dat happen right heah in dis house fo muh
@@ -143,8 +143,8 @@ continued. "Wen a pusson die in duh house, ef
 <span id="page_4">p. 4</span>
 
 yuh take em out fo duh ministuh say a few wuds, den deah spirit will
-hant duh house, [36c](das26.htm#xref_36c) cuz dey jis caahn be happy
-till dey hab ebryting done propuh an right. [36](das26.htm#xref_36) I
+hant duh house, [36c](das26.htm#xref_36c.md) cuz dey jis caahn be happy
+till dey hab ebryting done propuh an right. [36](das26.htm#xref_36.md) I
 hab heahd spirits roun dis house. Sometime dey call yuh. Wen dey call
 yuh, dey done come tuh hant yuh an git yuh tuh go weah dey is. Wen dey
 call, yuh mus say, 'I ain ready tuh go yit.'"
@@ -152,23 +152,23 @@ call, yuh mus say, 'I ain ready tuh go yit.'"
 The old woman stopped rocking, sat upright, and removed the pipe from
 between her stained teeth. "An spirits ain all. Deah's witches. Wy,
 deah's a ole uhmun neah yuh wut people say is a witch wut rides
-folks. [69](das26.htm#xref_69) We all leab uh lone. We shuts duh doe ef
+folks. [69](das26.htm#xref_69.md) We all leab uh lone. We shuts duh doe ef
 we sees uh comin. She come lak a nightmeah tuh duh folks wile dey
 sleepin. But ef yuh puts duh bruhm cross duh doe, yuh kin keep any witch
 out duh ruhm at night. Witches jis caahn cross obuh a bruhmstick."
 
-Another woman <span id="fr_2"></span>[1](#fn_2) was scornful about
+Another woman <span id="fr_2"></span>[1](#fn_2.md) was scornful about
 conjure. She tossed her head indignantly as she made known that most of
 her neighbors for blocks around, her friends, the members of her church,
 believed in the infallibility of the root worker.
 
 "Wy," she said, "they all believe that everything that happen tuh
-anybody is cause by some root wukuh. [48](das26.htm#xref_48) They don't
+anybody is cause by some root wukuh. [48](das26.htm#xref_48.md) They don't
 leave anything fuh God tuh do. Ef anybody takes sick, yuh'll fine
 somebody theah sayin sumpm is wrong with yuh sickness, that somebody
 'put down' sumpm fuh yuh. Ef anybody dies roun heah, some root wukuh is
-responsible fuh the death. [15](das26.htm#xref_15),
- [69b](das26.htm#xref_69b) Now, me, I don't believe people kin put sumpm
+responsible fuh the death. [15](das26.htm#xref_15.md),
+ [69b](das26.htm#xref_69b.md) Now, me, I don't believe people kin put sumpm
 unduh steps aw unduh yuh house that will hahm yuh. Some time ago my son,
 my only chile, wuz drownded. Well every time I tun roun some of my
 neighbuhs wuz tellin me my son's death wuzn't fair. They say 'somebody
@@ -191,15 +191,15 @@ parents talk bout. I wouldn't sweep trash out of the house aftuh dahk
 fuh anything cuz it'll sweep yuh luck away. Nevuh shake a tablecloth out
 duh doe aftuh dahk cause it means the death of yuh kin. Nevuh sew aw
 make a piece fuh a sick pusson aw that pusson will
-die. [49](das26.htm#xref_49) An dreams, I sho do believe in em. Jis fo
+die. [49](das26.htm#xref_49.md) An dreams, I sho do believe in em. Jis fo
 my son wuz drownded I suttnly have a dream that mean a death in the
 fambly."
 
-The next person <span id="fr_3"></span>[1](#fn_3) we interviewed several
+The next person <span id="fr_3"></span>[1](#fn_3.md) we interviewed several
 blocks away expressed an absolute faith in the return of the dead in
 various shapes. This was a man, who spoke with great earnestness of two
 experiences he had undergone, one with spirits, the other with a witch.
-He, too, had been born with a caul. [4](das26.htm#xref_4)
+He, too, had been born with a caul. [4](das26.htm#xref_4.md)
 
 "Muh fus time tuh see a ghos wuz in a rainstawm. Me an muh brudduh wuz
 caught, so we run tuh a ole vacant house an soons we git inside, duh doe
@@ -212,7 +212,7 @@ folded his lips and nodded sagely.
 
 "Now bout witches. Yuh know ghos an witches is diffunt. Witches is libin
 people an ghos is spirits uh duh dead. I know a ole uhmun ebrybody say
-wuz a witch. Well, bery soon she wuz ridin me. [69](das26.htm#xref_69) I
+wuz a witch. Well, bery soon she wuz ridin me. [69](das26.htm#xref_69.md) I
 could eben see uh come. Duh winduh--it would go up, an den uh would
 begin tuh choke an smudduh till somebody wake me up. I git reel tin an
 po. Den cross duh street wuz a man wich wuz complainin bout his wife
@@ -224,12 +224,12 @@ duh paat. So duh nex mawnin duh man git his dog an put im on duh
 
 <span id="page_6">p. 6</span>
 
-cat's trail. [68](das26.htm#xref_68) Well, suh, bout half a mile down
+cat's trail. [68](das26.htm#xref_68.md) Well, suh, bout half a mile down
 duh road in duh fence cawnuh wuz ole Malinda Edmonde wid tree rib broke.
 She beg im not tuh kill uh, but dat broke up duh witch ridin."
 
 Further verification of the belief in the existence of spirits and
-witches was given us by Jack Wilson <span id="fr_4"></span>[1](#fn_4)
+witches was given us by Jack Wilson <span id="fr_4"></span>[1](#fn_4.md)
 who operates a small junk shop in the vicinity. We visited the elderly
 Negro in his residence and place of business, a small, queerly shaped
 shack that entirely blocks the narrow lane on which it stands. The
@@ -245,10 +245,10 @@ that make up the old man's stock in trade.
 
 Wilson acknowledged a firm belief in the supernatural. He told us, "I
 wuz bawn wid spiritual knowledge which gib me duh powuh tuh read duh
-mines uh people. [22a](das26.htm#xref_22a),  [22e](das26.htm#xref_22e) I
+mines uh people. [22a](das26.htm#xref_22a),  [22e](das26.htm#xref_22e.md) I
 kin see people wut bin dead many yeahs. Duh dead know wut duh libin is
 doin an come roun deah close kin an friens wen dey is in
-trouble. [56](das26.htm#xref_56) I kin speak tuh duh dead folk in song
+trouble. [56](das26.htm#xref_56.md) I kin speak tuh duh dead folk in song
 an dey kin unduhstan me.
 
 "I kin see ghos mos any time. Dey seem lak natchul people. Duh way I
@@ -260,7 +260,7 @@ caahn hut yuh. Some hab magic powuh wut come tuh um frum way back in
 Africa. Muh mothuh use tuh tell me bout slabes jis brung obuh frum
 Africa wut hab duh supreme magic powuh. Deah wuz a magic pass wud dat
 dey would pass tuh udduhs. Ef dey belieb in dis magic, dey could scape
-an fly back tuh Africa. [69c](das26.htm#xref_69c) I hab a uncle wut
+an fly back tuh Africa. [69c](das26.htm#xref_69c.md) I hab a uncle wut
 could wuk dis magic. He could disappeah lak duh win, jis walk off duh
 plantation an stay way fuh weeks at a time. One
 
@@ -274,27 +274,27 @@ afford some small glimpse behind the scenes of this section's placid
 daily routine. They give significance to the penny often seen nailed to
 the bone-white doorstep and help the outsider to understand the mojo
 ring or luck piece worn by almost every man, the silver dime tied around
-many a woman's ankle. [8](das26.htm#xref_8),  [12a](das26.htm#xref_12a),
- [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d)
+many a woman's ankle. [8](das26.htm#xref_8),  [12a](das26.htm#xref_12a.md),
+ [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d.md)
 
 Near this section lives a Negro basketmaker <span
-id="fr_5"></span>[1](#fn_5) who claims that he is carrying on the
+id="fr_5"></span>[1](#fn_5.md) who claims that he is carrying on the
 tradition of his ancestors. He stated that for generations the men of
 his family had engaged in wood carving, basket making, and various
 phases of weaving, and that the craft had been passed on from father to
-son. [70](das26.htm#xref_70) He himself only makes baskets. White oak
+son. [70](das26.htm#xref_70.md) He himself only makes baskets. White oak
 and bulrushes are selected as the material from which to make the
 baskets and they are stitched with scrub palmetto. Those made of
 bulrushes are of the coil type. A kind of thin rope is made from this
 grass which is then twisted around and around and sewn tightly together.
-The baskets made from white oak are plaited. [70](das26.htm#xref_70) The
+The baskets made from white oak are plaited. [70](das26.htm#xref_70.md) The
 types of baskets include hampers, flat clothes baskets, farm and
 shopping baskets, and the popular "fanner" which the Negro venders
 balance gracefully on their heads as they walk about the city,
 displaying a colorful array of merchandise.
 
 Some years ago an unusual discovery was made near this district when a
-boy noticed a carved spoon <span id="fr_6"></span>[2](#fn_6) lying on
+boy noticed a carved spoon <span id="fr_6"></span>[2](#fn_6.md) lying on
 top of a rubbish heap. This spoon, which has been carefully preserved,
 is made of teak, and, judging from the dark polished surface of the wood
 and its general appearance, it might well be more than a century old.
@@ -307,10 +307,10 @@ gash-like mouth, the queerly shaped nose, the long dangling
 <span id="page_8">p. 8</span>
 
 arms, and the short tapering legs which appear to be far too small for
-the rest of the body. [41b](das26.htm#xref_41b)
+the rest of the body. [41b](das26.htm#xref_41b.md)
 
 Near the Old Fort is the Peace Mission of Father Divine. <span
-id="fr_7"></span>[1](#fn_7) This comparatively new religious sect has an
+id="fr_7"></span>[1](#fn_7.md) This comparatively new religious sect has an
 estimated membership of two million and a local membership of about
 fifty. There is nothing prepossessing about the small white building.
 The wooden floor is sprinkled with sawdust and except for the piano the
@@ -334,13 +334,13 @@ always present spiritually and can in this manner accomplish his
 miracles. At the meeting a major part of the service is given over to a
 number of testimonials, presented by many of those present. One by one
 the converts intone their devotion to Father Divine <span
-id="fr_8"></span>[2](#fn_8) and vividly recount what he has done for
+id="fr_8"></span>[2](#fn_8.md) and vividly recount what he has done for
 them.
 
 <span id="page_9">p. 9</span>
 
 A stout Negro woman bearing the name of Sister Patience Peace <span
-id="fr_9"></span>[1](#fn_9) gives the following testimonial: "Once it
+id="fr_9"></span>[1](#fn_9.md) gives the following testimonial: "Once it
 wuz muh highes ambition tuh know duh tings uh duh worl. I loved cahds an
 drink an udduh vices. No day passed wen I wuz not so drunk dat I would
 gib out an hab tuh go tuh bed. Now it is not so. I hab nebuh seen duh
@@ -348,7 +348,7 @@ Fathuh in duh body, but I know dat he is God, fuh I hab made spiritual
 contac wid him. Because uh rightous libin I am now weighin two hundud
 pouns. Praise Fathuh."
 
-A thin, wiry little Negro man, <span id="fr_10"></span>[2](#fn_10) whose
+A thin, wiry little Negro man, <span id="fr_10"></span>[2](#fn_10.md) whose
 eyes gleam with a fanatical light, speaks next. He gives his name as
 Noah's Ark and states that Father Divine has given him the power to
 raise his wife from the dead and has caused him to enter upon a new and
@@ -356,7 +356,7 @@ sanctified life. Faithful Patience, the wife, is also present and in
 turn testifies as to the truth of his statement and as to her own faith
 in Father Divine.
 
-Triumphant Virgin <span id="fr_11"></span>[3](#fn_11) happy in the
+Triumphant Virgin <span id="fr_11"></span>[3](#fn_11.md) happy in the
 knowledge that she is now leading a blameless existence, steps forward
 and gives the following statement: "I know Fathuh Divine tuh be God cuz
 he lifted me out uh duh guttuh and changed me frum a
@@ -370,7 +370,7 @@ As the evening wears on, more of the devotees join in the chanting and
 in the spirited singing of the hymns. Demonstrations become more and
 more violent. Several of the congregation, caught in the throes of a
 powerful religious intoxication, begin to dance and sway with
-abandonment. [19](das26.htm#xref_19) Others in the group encourage the
+abandonment. [19](das26.htm#xref_19.md) Others in the group encourage the
 dancers with a rhythmic clapping of hands and stamping of feet.
 
 On and on the dancers whirl while the piano pounds out its
@@ -380,7 +380,7 @@ everything except the series of contortions in which they are indulging.
 Eyes half closed, fixed smiles on their faces, every muscle in their
 bodies aquiver, they stumble blindly on. Some bump into the wooden
 benches, others fall exhausted to the floor. Still the dance goes
-on. [46](das26.htm#xref_46)
+on. [46](das26.htm#xref_46.md)
 
 Over and over can be heard the hoarse chanting of the worshipers as they
 continue to give praise to Father Divine, the man who, according to
@@ -392,34 +392,34 @@ his followers from destruction.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](das06.htm#fr_0) Mary Hunter, 548 East St.
+<span id="fn_0"></span>[2:1](das06.htm#fr_0.md) Mary Hunter, 548 East St.
 Julian Street.
 
-<span id="fn_1"></span>[2:2](das06.htm#fr_1) Dye Williams, Old Fort.
+<span id="fn_1"></span>[2:2](das06.htm#fr_1.md) Dye Williams, Old Fort.
 
-<span id="fn_2"></span>[4:1](das06.htm#fr_2) Katie McCarts, 744 Hull
+<span id="fn_2"></span>[4:1](das06.htm#fr_2.md) Katie McCarts, 744 Hull
 Street.
 
-<span id="fn_3"></span>[5:1](das06.htm#fr_3) S. B. Holmes, 716 East
+<span id="fn_3"></span>[5:1](das06.htm#fr_3.md) S. B. Holmes, 716 East
 Perry Street.
 
-<span id="fn_4"></span>[6:1](das06.htm#fr_4) Jack Wilson, 272 McAlister
+<span id="fn_4"></span>[6:1](das06.htm#fr_4.md) Jack Wilson, 272 McAlister
 Street.
 
-<span id="fn_5"></span>[7:1](das06.htm#fr_5) John Haynes, 933 Wheaton
+<span id="fn_5"></span>[7:1](das06.htm#fr_5.md) John Haynes, 933 Wheaton
 Street.
 
-<span id="fn_6"></span>[7:2](das06.htm#fr_6) Property of Edward A. Sieg,
+<span id="fn_6"></span>[7:2](das06.htm#fr_6.md) Property of Edward A. Sieg,
 128 West Jones Street.
 
-<span id="fn_7"></span>[8:1](das06.htm#fr_7) Though the meetings of
+<span id="fn_7"></span>[8:1](das06.htm#fr_7.md) Though the meetings of
 Father Divine are common to many parts of the United States, especially
 in the North, where white worshippers form a sizable proportion of the
 followers of Father Divine, this description accurately portrays the
 House as it was found in this community. For this reason it was thought
 well to include it.
 
-<span id="fn_8"></span>[8:2](das06.htm#fr_8) Father Divine is said to
+<span id="fn_8"></span>[8:2](das06.htm#fr_8.md) Father Divine is said to
 have been born George Baker on a Hutchinson Island rice plantation near
 Savannah about sixty years ago. Sometime in the late 1890's it appears
 that he opened a meeting house in the Negro section of the Old Fort,
@@ -457,18 +457,18 @@ chosen to enact.
 Robert Allerton Parker, "The Incredible Messiah" (Boston, 1937), pp. 80,
 93, 94, 106, 183, 188, 209-36.
 
-<span id="fn_9"></span>[9:1](das06.htm#fr_9) Sister Patience Peace, Old
+<span id="fn_9"></span>[9:1](das06.htm#fr_9.md) Sister Patience Peace, Old
 Fort.
 
-<span id="fn_10"></span>[9:2](das06.htm#fr_10) Noah's Ark, Old Fort.
+<span id="fn_10"></span>[9:2](das06.htm#fr_10.md) Noah's Ark, Old Fort.
 
-<span id="fn_11"></span>[9:3](das06.htm#fr_11) Triumphant Virgin, Old
+<span id="fn_11"></span>[9:3](das06.htm#fr_11.md) Triumphant Virgin, Old
 Fort.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Tin City](das07)
+[Next: Tin City](das07.md)
 
 </div>

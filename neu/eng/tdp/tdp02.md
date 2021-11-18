@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](tdp01)  [Next](tdp03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](tdp01)  [Next](tdp03.md) 
 
 ------------------------------------------------------------------------
 
@@ -261,4 +261,4 @@ without end."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: The Pixies' Trysting Place](tdp03)
+[Next: Chapter II: The Pixies' Trysting Place](tdp03.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](tit)  [Next](heb) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](tit)  [Next](heb.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ fell-awen.
 
 ------------------------------------------------------------------------
 
-[Next: Hebrews](heb)
+[Next: Hebrews](heb.md)

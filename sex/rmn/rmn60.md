@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn59)  [Next](rmn61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn59)  [Next](rmn61.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ sufferings in their accouchement, &c."
 
 ------------------------------------------------------------------------
 
-[Next: Plate LX: Langelle Vase](rmn61)
+[Next: Plate LX: Langelle Vase](rmn61.md)

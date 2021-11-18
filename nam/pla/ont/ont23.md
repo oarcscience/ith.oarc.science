@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont22)  [Next](ont24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont22)  [Next](ont24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -49,7 +49,7 @@ different
 
 <span id="img_27100"></span> <span align="CENTER"> [![RETURN OF A
 VICTORIOUS WAR PARTY](tn/27100.jpg)  
-Click to enlarge](img/27100.jpg)  
+Click to enlarge](img/27100.jpg.md)  
 RETURN OF A VICTORIOUS WAR PARTY  
 </span>
 
@@ -182,7 +182,7 @@ beaded necklace of many strands and a fringed buckskin suit. His
 
 <span id="img_27500"></span> <span align="CENTER"> [![LEADER OF KISAPA
 DANCE.](tn/27500.jpg)  
-Click to enlarge](img/27500.jpg)  
+Click to enlarge](img/27500.jpg.md)  
 LEADER OF KISAPA DANCE.  
 </span>
 
@@ -204,7 +204,7 @@ President) will not stop our coming together, for it</span>
 
 <span id="img_27600"></span> <span align="CENTER"> [![RUNNING CRANE
 ADDRESSING THE PEOPLE.](tn/27600.jpg)  
-Click to enlarge](img/27600.jpg)  
+Click to enlarge](img/27600.jpg.md)  
 RUNNING CRANE ADDRESSING THE PEOPLE.  
 </span>
 
@@ -232,7 +232,7 @@ they were dressed in beaded buckskin clothes
 
 <span id="img_27700"></span> <span align="CENTER"> [![SHAM BATTLE BY
 HORSEMEN.](tn/27700.jpg)  
-Click to enlarge](img/27700.jpg)  
+Click to enlarge](img/27700.jpg.md)  
 SHAM BATTLE BY HORSEMEN.  
 </span>
 
@@ -241,7 +241,7 @@ entered camp at a gallop with war whoops and piercing yells. Then,
 forming into line, with Little Plume in the lead, they marched slowly
 around the camp circle, with rifles in the position of firing, holding
 aloft the sacred Spear and singing their song of victory. <span
-id="fr_25"></span>[1](#fn_21) The warriors then gathered together in the
+id="fr_25"></span>[1](#fn_21.md) The warriors then gathered together in the
 large open space in the centre of the camp, where they gave exhibitions,
 before the tribe, of sham battles,
 
@@ -282,7 +282,7 @@ beaded
 
 <span id="img_27900"></span> <span align="CENTER"> [![THE HORSE
 RACE.](tn/27900.jpg)  
-Click to enlarge](img/27900.jpg)  
+Click to enlarge](img/27900.jpg.md)  
 THE HORSE RACE.  
 </span>
 
@@ -295,12 +295,12 @@ slowly through camp, holding their spears and feathered ensigns aloft
 
 <span id="img_28000"></span> <span align="CENTER"> [![PARADE OF SIOUX
 WARRIORS.](tn/28000.jpg)  
-Click to enlarge](img/28000.jpg)  
+Click to enlarge](img/28000.jpg.md)  
 PARADE OF SIOUX WARRIORS.  
 </span>
 
 and singing in unison a striking Celebration song <span
-id="fr_26"></span>[1](#fn_22) with the words:
+id="fr_26"></span>[1](#fn_22.md) with the words:
 
 <span class="small">"Oh, Blackfeet! we have heard you boast in the past
 that you were becoming like white men. We now behold you taking part in
@@ -340,17 +340,17 @@ over into the west, while, in the east, the sparkling Pleiades (Lost
 Children) were rising above the plains. Although it was late, the camp
 was still so throbbing with life that sleep was made impossible. Many
 young men were on horseback, singing Riding songs <span
-id="fr_27"></span>[1](#fn_23) as they rode around the circle of the
+id="fr_27"></span>[1](#fn_23.md) as they rode around the circle of the
 encampment. The dance at Ahkiona's
 
 <span id="page_282">p. 282</span>
 
 lodge was finished, and the Sioux were returning to their quarters,
 singing a Travelling song in their own tongue. When they had finished,
-the answering notes of a Night song <span id="fr_28"></span>[1](#fn_24)
+the answering notes of a Night song <span id="fr_28"></span>[1](#fn_24.md)
 were heard from a small band of Blackfeet, sitting on the shore of the
 lake. A large company of men and women on horseback, having learned a
-Celebration song <span id="fr_29"></span>[2](#fn_25) from the visiting
+Celebration song <span id="fr_29"></span>[2](#fn_25.md) from the visiting
 Sioux, rode slowly through the camp singing it at intervals. Red Fox and
 his young wife, riding the same horse, made circuits of the camp,
 singing a Night song of remarkable beauty. I saw them very distinctly,
@@ -389,11 +389,11 @@ I also felt that the beautiful motives of their sacred hymns, war-songs,
 love and night songs, springing from these aboriginal sources, like pure
 water from a mountain spring, were so entirely original and thoroughly
 American, that they ought to be rescued from oblivion and permanently
-preserved. <span id="fr_30"></span>[1](#fn_26)
+preserved. <span id="fr_30"></span>[1](#fn_26.md)
 
 <span id="img_28300"></span> <span align="CENTER"> [![LOVE
 SONG](tn/28300.jpg)  
-Click to enlarge](img/28300.jpg)  
+Click to enlarge](img/28300.jpg.md)  
 LOVE SONG  
 </span>
 
@@ -401,24 +401,24 @@ LOVE SONG
 
 ### Footnotes
 
-<span id="fn_21"></span>[277:1](ont23.htm#fr_25) Song 4. See page
-[514](ont43.htm#page_514).
+<span id="fn_21"></span>[277:1](ont23.htm#fr_25.md) Song 4. See page
+[514](ont43.htm#page_514.md).
 
-<span id="fn_22"></span>[280:1](ont23.htm#fr_26) Song 5. See page
-[514](ont43.htm#page_514).
+<span id="fn_22"></span>[280:1](ont23.htm#fr_26.md) Song 5. See page
+[514](ont43.htm#page_514.md).
 
-<span id="fn_23"></span>[281:1](ont23.htm#fr_27) Song 6. See page
-[514](ont43.htm#page_514).
+<span id="fn_23"></span>[281:1](ont23.htm#fr_27.md) Song 6. See page
+[514](ont43.htm#page_514.md).
 
-<span id="fn_24"></span>[282:1](ont23.htm#fr_28) Song 7. See page
-[515](ont43.htm#page_515).
+<span id="fn_24"></span>[282:1](ont23.htm#fr_28.md) Song 7. See page
+[515](ont43.htm#page_515.md).
 
-<span id="fn_25"></span>[282:2](ont23.htm#fr_29) See page
-[514](ont43.htm#page_514), footnote.
+<span id="fn_25"></span>[282:2](ont23.htm#fr_29.md) See page
+[514](ont43.htm#page_514.md), footnote.
 
-<span id="fn_26"></span>[283:1](ont23.htm#fr_30) See
-[Appendix](ont44.htm#an_283), pp. [513](ont43.htm#page_513)-15.
+<span id="fn_26"></span>[283:1](ont23.htm#fr_30.md) See
+[Appendix](ont44.htm#an_283), pp. [513](ont43.htm#page_513.md)-15.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. Ceremonial of the Sun-Dance](ont24)
+[Next: Chapter XXI. Ceremonial of the Sun-Dance](ont24.md)

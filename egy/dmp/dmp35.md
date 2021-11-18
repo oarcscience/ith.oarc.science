@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp34)  [Next](dmp36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp34)  [Next](dmp36.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ with the woman.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. IV.](dmp36)
+[Next: Verso Col. IV.](dmp36.md)

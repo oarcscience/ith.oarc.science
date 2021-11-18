@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err11)  [Next](err13) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err11)  [Next](err13.md) 
 
 ------------------------------------------------------------------------
 
@@ -276,7 +276,7 @@ kind of fairies, or believing that frogs and birds assumed dwarf human
 forms. As regards Red-cap, as I have already said, testimony seems to
 indicate that he is of Etruscan origin, and is a personification of the
 red-headed wood-pecker; that is, a small form of Picus or
-Picumnus. <span id="fr_19"></span>[1](#fn_19)
+Picumnus. <span id="fr_19"></span>[1](#fn_19.md)
 
 <span id="page_165">p. 165</span>
 
@@ -387,7 +387,7 @@ they said the witches and wizards were *scomunicati*-excommunicated.
 
 "So they arranged it to bury one another, and when one witch died the
 others interred her secretly in her own cellar or house <span
-id="fr_20"></span>[1](#fn_20) with her vases and witch-medals, and all
+id="fr_20"></span>[1](#fn_20.md) with her vases and witch-medals, and all
 the things which she used in her art. And before dying she taught all
 her secrets to the others. And this is why it is we never find them
 buried in
@@ -408,7 +408,7 @@ religione della stregoneria*--the religion of sorcery--and what you see
 on the old vases are the names and portraits of witches and wizards of
 the olden time. And on them are the pictures of Tigna and Faflon and all
 other witches or magicians who became spirits." <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
  
 
@@ -462,7 +462,7 @@ if the peasants in *le Romagne* had any beliefs regarding them.
 "Yes. They sometimes paint a serpent on the wall to keep away the evil
 eye or witch evils, and to bring good luck. But the head must be down
 and interlaced, and the tail uppermost." <span
-id="fr_22"></span>[1](#fn_22)
+id="fr_22"></span>[1](#fn_22.md)
 
 "And do interlaced serpents mean good fortune?"
 
@@ -1051,7 +1051,7 @@ understand, it is neither, but what is known in America as the
 general shape, but is somewhat larger, and is of a clear green colour,
 its wings being quite like leaves. Its cry is like that of the locust,
 but much louder. It appears to play an important part among the
-Superstitions of the Romanga. <span id="fr_23"></span>[1](#fn_23)
+Superstitions of the Romanga. <span id="fr_23"></span>[1](#fn_23.md)
 
 <span id="page_178">p. 178</span>
 
@@ -1260,7 +1260,7 @@ bear.
 
 ### Footnotes
 
-<span id="fn_19"></span>[164:1](err12.htm#fr_19) "The negroes and
+<span id="fn_19"></span>[164:1](err12.htm#fr_19.md) "The negroes and
 half-breeds in Missouri consider the red-headed wood-pecker a great
 sorcerer, who can appear either as a bird or as a red man with a mantle
 or cloak on his arm. He is supposed to be very grateful and very
@@ -1269,22 +1269,22 @@ sometimes bores holes in the heads of his enemies while they sleep and
 puts in maggots which keep them for ever restless or crazy."--Note by
 MARY A. OWEN.
 
-<span id="fn_20"></span>[166:1](err12.htm#fr_20) As the Etruscan tombs
+<span id="fn_20"></span>[166:1](err12.htm#fr_20.md) As the Etruscan tombs
 were often exact copies of the homes of the departed, this idea would be
 very naturally formed by the peasantry.
 
-<span id="fn_21"></span>[167:1](err12.htm#fr_21) The nakedness, the
+<span id="fn_21"></span>[167:1](err12.htm#fr_21.md) The nakedness, the
 dancing and wild revelry depicted on the Etrusco-Greek vases, with their
 satyrs, goblins, and winged *lases* and mysterious emblems or
 hieroglyphs, would all very naturally suggest to the *contadini* magic
 and sorcery. Does not all this Greek beauty and joyousness seem even to
 us like a dream of fairyland--a Paradise?
 
-<span id="fn_22"></span>[168:1](err12.htm#fr_22) Probably the caduceus
+<span id="fn_22"></span>[168:1](err12.htm#fr_22.md) Probably the caduceus
 of Mercury, which often appears on vases as simply two serpents with
 interlaced heads.
 
-<span id="fn_23"></span>[177:1](err12.htm#fr_23) "That animal which the
+<span id="fn_23"></span>[177:1](err12.htm#fr_23.md) "That animal which the
 French call sauterelle, we a grasshopper, is named Ακρις {Greek
 *Akri<u>s</u>*} by the Greeks, by the Latines locusta, and by ourselves
 a locust. Again, between a cicada and that we call a grasshopper the
@@ -1297,4 +1297,4 @@ Errors*), by Sir THOMAS BROWN, London, 1672).
 
 ------------------------------------------------------------------------
 
-[Next: Part One: Chapter X--CUPRA](err13)
+[Next: Part One: Chapter X--CUPRA](err13.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil12)  [Next](egil14) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil12)  [Next](egil14.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ their words well.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XIII. Thorgils goes to the king.](egil14)
+[Next: CHAPTER XIII. Thorgils goes to the king.](egil14.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth001)  [Next](toth003) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth001)  [Next](toth003.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -20,10 +20,10 @@ Textual Heritage
 
 # THE TRADITIONS OF THE HOPI.
 
-## 1. ORIGIN MYTH. <span id="fr_0"></span>[1](#fn_0)
+## 1. ORIGIN MYTH. <span id="fr_0"></span>[1](#fn_0.md)
 
 A very long time ago there was nothing but water. In the east Hurúing
-Wuhti <span id="fr_1"></span>[2](#fn_1), the deity of all hard
+Wuhti <span id="fr_1"></span>[2](#fn_1.md), the deity of all hard
 substances, lived in the ocean. Her house was a kiva like the kivas of
 the Hopi of to-day. To the ladder leading into the kiva were usually
 tied a skin of a gray fox and one of a yellow fox. Another Hurúing Wuhti
@@ -101,7 +101,7 @@ they were enlightened so that they understood the
 <span id="page_3">p. 3</span>
 
 writing on the tablets. Hereupon the deities taught these two a
-language. <span id="fr_2"></span>[1](#fn_2).After they had taught them
+language. <span id="fr_2"></span>[1](#fn_2.md).After they had taught them
 the language, the goddess of the east took them out of the kiva and led
 them over a rainbow, to her home in the east. There they stayed four
 days, after which Hurúing Wuhti told them to go now and select for
@@ -208,24 +208,24 @@ would return, but they never did.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](toth002.htm#fr_0) Told by Qöyáwaima
+<span id="fn_0"></span>[1:1](toth002.htm#fr_0.md) Told by Qöyáwaima
 (Oraíbi), The events here related are supposed to have happened in the
 lower world. The increasing of the various peoples and tribes, and the
 constant contentions among them, finally led to the emigration from the
 nether world through the sípapu into this world, the account of which is
 related by variant traditions of the Hopi.
 
-<span id="fn_1"></span>[1:2](toth002.htm#fr_1) The nearest literal
+<span id="fn_1"></span>[1:2](toth002.htm#fr_1.md) The nearest literal
 translation that can be given of this name, which appears so frequently
 in Hopi mythology and ceremonies is Hard Being Woman, i. e., woman of
 that which is hard, and the Hopi say she is the owner of such hard
 objects as shells, corals, turquoise, beads, etc.
 
-<span id="fn_2"></span>[3:1](toth002.htm#fr_2) Some Hopi say that these
+<span id="fn_2"></span>[3:1](toth002.htm#fr_2.md) Some Hopi say that these
 two people were the ancestors of what are now called the White Man, and
 the people say that they believe this language taught to these two
 people was the language of the present White Man.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Hurúing Wuhti and the Sun](toth003)
+[Next: 2. Hurúing Wuhti and the Sun](toth003.md)

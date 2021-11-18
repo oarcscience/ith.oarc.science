@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lusbk04)  [Next](lusbk06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lusbk04)  [Next](lusbk06.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ As from our dear-lov’d native shore we fly
 Our votive shouts, redoubled, rend the sky;  
 "Success, success!" far echoes o’er the tide,  
 While our broad hulks the foamy waves divide.  
-From Leo <span id="fr_338"></span>[1](#fn_335) now, the lordly star of
+From Leo <span id="fr_338"></span>[1](#fn_335.md) now, the lordly star of
 day,  
 Intensely blazing, shot his fiercest ray;  
 When, slowly gliding from our wishful eyes,  
@@ -41,7 +41,7 @@ The Lusian mountains mingled with the skies;
 
 <span id="page_134">p. 134</span>
 
-Tago’s lov’d stream, and Cintra’s <span id="fr_339"></span>[1](#fn_336)
+Tago’s lov’d stream, and Cintra’s <span id="fr_339"></span>[1](#fn_336.md)
 mountains cold  
 Dim fading now, we now no more behold;  
 And, still with yearning hearts our eyes explore,  
@@ -50,22 +50,22 @@ Our native soil now far behind, we ply
 The lonely dreary waste of seas, and boundless sky  
 Through the wild deep our vent’rous navy bore,  
 Where but our Henry plough’d the wave before; <span
-id="fr_340"></span>[2](#fn_337)  
+id="fr_340"></span>[2](#fn_337.md)  
 The verdant islands, first by him descried,  
 We pass’d; and, now in prospect op’ning wide,  
 Far to the left, increasing on the view,  
-Rose Mauritania’s <span id="fr_341"></span>[3](#fn_338) hills of paly
+Rose Mauritania’s <span id="fr_341"></span>[3](#fn_338.md) hills of paly
 blue:  
 Far to the right the restless ocean roar’d,  
 Whose bounding surges never keel explor’d  
 If bounding shore (as reason deems) divide  
 The vast Atlantic from the Indian tide. <span
-id="fr_342"></span>[4](#fn_339)
+id="fr_342"></span>[4](#fn_339.md)
 
-  Nam’d from her woods, <span id="fr_343"></span>[5](#fn_340) with
+  Nam’d from her woods, <span id="fr_343"></span>[5](#fn_340.md) with
 fragrant bowers adorn’d,  
 From fair Madeira’s purple coast we turn’d: <span
-id="fr_344"></span>[5](#fn_340)  
+id="fr_344"></span>[5](#fn_340.md)  
 Cyprus and Paphos’ vales the smiling loves  
 Might leave with joy for fair Madeira’s groves;  
 A shore so flow’ry, and so sweet an air,  
@@ -84,7 +84,7 @@ To Ethiopia’s line the dreary wild extends.
 <span id="page_135">p. 135</span>
 
 Now, past the limit, which his course divides, <span
-id="fr_345"></span>[1](#fn_341)  
+id="fr_345"></span>[1](#fn_341.md)  
 When to the north the sun’s bright chariot rides,  
 We leave the winding bays and swarthy shores,  
 Where Senegal’s black wave impetuous roars;  
@@ -94,10 +94,10 @@ When Phaëton, devious from the solar height,
 Gave Afric’s sons the sable hue of night.  
 And now, from far the Libyan cape is seen,  
 Now by my mandate named the Cape of Green; <span
-id="fr_346"></span>[2](#fn_342)  
+id="fr_346"></span>[2](#fn_342.md)  
 Where, midst the billows of the ocean, smiles  
 A flow’ry sister-train, the happy isles, <span
-id="fr_347"></span>[3](#fn_343)  
+id="fr_347"></span>[3](#fn_343.md)  
 Our onward prows the murm’ring surges lave;  
 And now, our vessels plough the gentle wave,  
 Where the blue islands, named of Hesper old,  
@@ -116,7 +116,7 @@ The northern winds now curl’d the black’ning main,
 Our sails unfurl’d, we plough the tide again:  
 Round Afric’s coast our winding course we steer,  
 Where, bending to the east, the shores appear.  
-Here Jalofo <span id="fr_348"></span>[4](#fn_344) its wide extent
+Here Jalofo <span id="fr_348"></span>[4](#fn_344.md) its wide extent
 displays,  
 And vast Mandinga shows its num’rous bays;
 
@@ -124,13 +124,13 @@ And vast Mandinga shows its num’rous bays;
 
 Whose mountains’ sides, though parch’d and barren, hold,  
 In copious store, the seeds of beamy gold <span
-id="fr_349"></span>[1](#fn_345)  
+id="fr_349"></span>[1](#fn_345.md)  
 The Gambia here his serpent-journey takes,  
 And, thro’ the lawns, a thousand windings makes;  
 A thousand swarthy tribes his current laves  
 Ere mix his waters with th’ Atlantic waves.  
 The Gorgades we pass’d, that hated shore, <span
-id="fr_350"></span>[2](#fn_346)  
+id="fr_350"></span>[2](#fn_346.md)  
 Fam’d for its terrors by the bards of yore;  
 Where but one eye by Phorcus’ daughters shar’d,  
 The ’born beholders into marble star’d;  
@@ -141,11 +141,11 @@ With swarms of vipers sow’d the burning sand.
 Still to the south our pointed keels we guide,  
 And, thro’ the austral gulf, still onward ride:  
 Her palmy forests mingling with the skies,  
-Leona’s <span id="fr_351"></span>[3](#fn_347) rugg’d steep behind us
+Leona’s <span id="fr_351"></span>[3](#fn_347.md) rugg’d steep behind us
 flies;  
-The Cape of Palms <span id="fr_352"></span>[4](#fn_348) that jutting
+The Cape of Palms <span id="fr_352"></span>[4](#fn_348.md) that jutting
 land we name,  
-Already conscious of our nation’s <span id="fr_353"></span>[5](#fn_349)
+Already conscious of our nation’s <span id="fr_353"></span>[5](#fn_349.md)
 fame.
 
 <span id="page_137">p. 137</span>
@@ -158,7 +158,7 @@ And Congo’s spacious realm before us rose,
 Where copious Layra’s limpid billow flows;  
 A flood by ancient hero never seen,  
 Where many a temple o’er the banks of green, <span
-id="fr_354"></span>[1](#fn_350)  
+id="fr_354"></span>[1](#fn_350.md)  
 Rear’d by the Lusian heroes, through the night  
 Of pagan darkness, pours the mental light.
 
@@ -172,7 +172,7 @@ Till past the limit, where the car of day
 Roll’d o’er our heads, and pour’d the downward ray:  
 We now disprove the faith of ancient lore;  
 Boötes shining car appears no more.  
-For here we saw Calisto’s <span id="fr_355"></span>[2](#fn_351) star
+For here we saw Calisto’s <span id="fr_355"></span>[2](#fn_351.md) star
 retire  
 Beneath the waves, unaw’d by Juno’s ire.
 
@@ -191,9 +191,9 @@ And fewer stars emblaze the heavenly plain;
 Fewer than those that gild the northern pole,  
 And o’er our seas their glitt’ring chariots roll:  
 While nightly thus, the lonely seas we brave,  
-Another pole-star <span id="fr_356"></span>[1](#fn_352) rises o’er the
+Another pole-star <span id="fr_356"></span>[1](#fn_352.md) rises o’er the
 wave:  
-Full to the south a shining cross <span id="fr_357"></span>[2](#fn_353)
+Full to the south a shining cross <span id="fr_357"></span>[2](#fn_353.md)
 appears,  
 Our heaving breasts the blissful omen cheers:  
 Seven radiant stars compose the hallow’d sign  
@@ -220,13 +220,13 @@ What roaring thunders bellow’d o’er our head,
 And seem’d to shake the reeling ocean’s bed:  
 To tell each horror on the deep reveal’d,  
 Would ask an iron throat with tenfold vigour steel’d: <span
-id="fr_358"></span>[1](#fn_354)  
+id="fr_358"></span>[1](#fn_354.md)  
 Those dreadful wonders of the deep I saw,  
 Which fill the sailor’s breast with sacred awe;  
 And which the sages, of their learning vain,  
 Esteem the phantoms of the dreamful brain:  
 That living fire, by seamen held divine, <span
-id="fr_359"></span>[2](#fn_355)  
+id="fr_359"></span>[2](#fn_355.md)  
 Of Heaven’s own care in storms the holy sign,  
 Which, midst the horrors of the tempest plays,  
 And, on the blast’s dark wings will gaily blaze;  
@@ -260,7 +260,7 @@ And trace the secret springs of nature’s laws,
 Say, why the wave, of bitter brine erewhile,  
 Should to the bosom of the deep recoil  
 Robb’d of its salt, and, from the cloud distil,  
-Sweet as the waters of the limpid <span id="fr_360"></span>[1](#fn_356)
+Sweet as the waters of the limpid <span id="fr_360"></span>[1](#fn_356.md)
 rill?  
 Ye sons of boastful wisdom, famed of yore,  
 Whose feet unwearied wander’d many a shore,  
@@ -296,7 +296,7 @@ I and my pilots, on the yellow sand,
 Explore beneath what sky the shores expand.  
 That sage device, whose wondrous use proclaims  
 Th’ immortal honour of its authors’ <span
-id="fr_361"></span>[1](#fn_357) names,  
+id="fr_361"></span>[1](#fn_357.md) names,  
 The sun’s height measured, and my compass scann’d,  
 The painted globe of ocean and of land.  
 Here we perceiv’d our vent’rous keels had past  
@@ -316,7 +316,7 @@ He suck’d the honey from the porous comb.
 
 Horror glar’d in his look, and fear extreme,  
 In mien more wild than brutal Polypheme:  
-No word of rich Arabia’s tongue <span id="fr_362"></span>[1](#fn_358) he
+No word of rich Arabia’s tongue <span id="fr_362"></span>[1](#fn_358.md) he
 knew,  
 No sign could answer, nor our gems would view:  
 From garments strip’d with shining gold he turn’d,  
@@ -358,7 +358,7 @@ Thick o’er our heads the fierce barbarians pour.
 <span id="page_143">p. 143</span>
 
 Nor pour’d in vain; a feather’d arrow stood  
-Fix’d <span id="fr_363"></span>[1](#fn_359) in my leg, and drank the
+Fix’d <span id="fr_363"></span>[1](#fn_359.md) in my leg, and drank the
 gushing blood.  
 Vengeance, as sudden, ev’ry wound repays,  
 Full on their fronts our flashing lightnings blaze  
@@ -381,7 +381,7 @@ With look unmov’d the gallant youth replied,
 For you I fear’d the fortune of the day;  
 Your danger great without mine aid I knew,  
 And, swift as lightning, to your rescue flew." <span
-id="fr_364"></span>[1](#fn_360)
+id="fr_364"></span>[1](#fn_360.md)
 
 <span id="page_145">p. 145</span>
 
@@ -442,7 +442,7 @@ Cold gliding horrors thrill’d each hero’s breast,
 Our bristling hair and tott’ring knees confess’d  
 Wild dread, the while with visage ghastly wan,  
 His black lips trembling, thus the fiend began:-- <span
-id="fr_365"></span>[1](#fn_361)
+id="fr_365"></span>[1](#fn_361.md)
 
   "O you, the boldest of the nations, fir’d  
 By daring pride, by lust of fame inspir’d,  
@@ -464,7 +464,7 @@ Eternal war my rocks and storms shall wage,
 
 <span id="page_147">p. 147</span>
 
-The next proud fleet <span id="fr_366"></span>[1](#fn_362) that through
+The next proud fleet <span id="fr_366"></span>[1](#fn_362.md) that through
 my drear domain,  
 With daring search shall hoist the streaming vane,  
 That gallant navy, by my whirlwinds toss’d,  
@@ -477,12 +477,12 @@ Each year thy shipwreck’d sons shalt thou deplore,
 Each year thy sheeted masts shall strew my shore.
 
   "With trophies plum’d behold a hero come, <span
-id="fr_367"></span>[2](#fn_363)  
+id="fr_367"></span>[2](#fn_363.md)  
 Ye dreary wilds, prepare his yawning tomb.  
 Though smiling fortune bless’d his youthful morn,  
 Though glory’s rays his laurell’d brows adorn,  
 Full oft though he beheld with sparkling eye  
-The Turkish moons <span id="fr_368"></span>[3](#fn_364) in wild
+The Turkish moons <span id="fr_368"></span>[3](#fn_364.md) in wild
 confusion fly,  
 While he, proud victor, thunder’d in the rear,  
 All, all his mighty fame shall vanish here.  
@@ -522,7 +522,7 @@ Thus, wand’ring wide, a thousand ills o’erpast,
 In fond embraces they shall sink at last;  
 While pitying tears their dying eyes o’erflow,  
 And the last sigh shall wail each other’s woe. <span
-id="fr_369"></span>[1](#fn_365)
+id="fr_369"></span>[1](#fn_365.md)
 
 <span id="page_149">p. 149</span>
 
@@ -578,7 +578,7 @@ Held up the eager hand, and caught the word.
 Taught by their sires, our hoary fathers tell,  
 On these rude shores a giant-spectre fell,  
 What time, from heaven the rebel band were thrown: <span
-id="fr_370"></span>[1](#fn_366)  
+id="fr_370"></span>[1](#fn_366.md)  
 And oft the wand’ring swain has heard his moan.  
 While o’er the wave the clouded moon appears  
 To hide her weeping face, his voice he rears  
@@ -591,7 +591,7 @@ The rock-ribb’d mother, Earth, his love confess’d:
 
 <span id="page_151">p. 151</span>
 
-The hundred-handed giant <span id="fr_371"></span>[1](#fn_367) at a
+The hundred-handed giant <span id="fr_371"></span>[1](#fn_367.md) at a
 birth,  
 And me, she bore, nor slept my hopes on earth;  
 My heart avow’d, my sire’s ethereal flame;  
@@ -619,7 +619,7 @@ From my grim form, with horror, mute she fled.
 Madd’ning with love, by force I weep to gain  
 The silver goddess of the blue domain;  
 To the hoar mother of the Nereid band <span
-id="fr_372"></span>[2](#fn_368)  
+id="fr_372"></span>[2](#fn_368.md)  
 I tell my purpose, and her aid command:  
 By fear impell’d, old Doris tries to move,  
 And, win the spouse of Peleus to my love.  
@@ -693,7 +693,7 @@ Nor long excursive off at sea we stand,
 A cultur’d shore invites us to the land.  
 Here their sweet scenes the rural joys bestow,  
 And give our wearied minds a lively glow. <span
-id="fr_373"></span>[1](#fn_369)  
+id="fr_373"></span>[1](#fn_369.md)  
 The tenants of the coast, a festive band,  
 With dances meet us on the yellow sand;  
 Their brides on slow-pac’d oxen rode behind;  
@@ -711,7 +711,7 @@ Feed from their hands, or, round them frisking play.
 
 Methought I saw the sylvan reign of Pan,  
 And heard the music of the Mantuan swan: <span
-id="fr_374"></span>[1](#fn_370)  
+id="fr_374"></span>[1](#fn_370.md)  
 With smiles we hail them, and with joy behold  
 The blissful manners of the age of gold.  
 With that mild kindness, by their looks display’d,  
@@ -723,7 +723,7 @@ We dare the main, and seek the eastern world.
 Now, round black Afric’s coast our navy veer’d,  
 And, to the world’s mid circle, northward steer’d:  
 The southern pole low to the wave declin’d,  
-We leave the isle of Holy Cross <span id="fr_375"></span>[2](#fn_371)
+We leave the isle of Holy Cross <span id="fr_375"></span>[2](#fn_371.md)
 behind:  
 That isle where erst a Lusian, when he pass’d  
 The tempest-beaten cape, his anchors cast,  
@@ -765,22 +765,22 @@ When from their southern caves the winds, enraged,
 In horrid conflict with the waves engaged;  
 Beneath the tempest groans each loaded mast,  
 And, o’er the rushing tide our bounding navy pass’d. <span
-id="fr_376"></span>[1](#fn_372)
+id="fr_376"></span>[1](#fn_372.md)
 
   Now shin’d the sacred morn, when from the east  
-Three kings <span id="fr_377"></span>[2](#fn_373) the holy cradled Babe
+Three kings <span id="fr_377"></span>[2](#fn_373.md) the holy cradled Babe
 address’d,  
 And hail’d him Lord of heaven: that festive day <span
-id="fr_378"></span>[3](#fn_374)  
+id="fr_378"></span>[3](#fn_374.md)  
 We drop our anchors in an opening bay;  
 The river from the sacred day we name, <span
-id="fr_379"></span>[4](#fn_375)  
+id="fr_379"></span>[4](#fn_375.md)  
 And stores, the wand’ring seaman’s right, we claim:  
 Stores we receiv’d; our dearest hope in vain,  
 No word they utter’d could our ears retain;  
 Nought to reward our search for India’s sound,  
 By word or sign our ardent wishes crown’d. <span
-id="fr_380"></span>[5](#fn_376)
+id="fr_380"></span>[5](#fn_376.md)
 
 <span id="page_156">p. 156</span>
 
@@ -796,7 +796,7 @@ Our food corrupted, pregnant with disease,
 And pestilence on each expected breeze;  
 Not even a gleam of hope’s delusive ray  
 To lead us onward through the devious way--  
-That kind delusion <span id="fr_381"></span>[1](#fn_377) which full oft
+That kind delusion <span id="fr_381"></span>[1](#fn_377.md) which full oft
 has cheer’d  
 The bravest minds, till glad success appear’d;  
 Worn as we were, each night with dreary care,  
@@ -811,7 +811,7 @@ What more than men in wild despair still bold!
 These, more than men, in these my band behold!  
 Sacred to death, by death alone subdued,  
 These, all the rage of fierce despair withstood; <span
-id="fr_382"></span>[2](#fn_378)
+id="fr_382"></span>[2](#fn_378.md)
 
 <span id="page_157">p. 157</span>
 
@@ -857,15 +857,15 @@ Convey’d the treasures of the Indian strand;
 
 Whose cheerful crews, resembling ours, display  
 The kindred face and colour of the day. <span
-id="fr_383"></span>[1](#fn_379)  
+id="fr_383"></span>[1](#fn_379.md)  
 Elate with joy we raise the glad acclaim,  
-And, "River of good signs," <span id="fr_384"></span>[2](#fn_380) the
+And, "River of good signs," <span id="fr_384"></span>[2](#fn_380.md) the
 port we name:  
-Then, sacred to the angel guide, <span id="fr_385"></span>[3](#fn_381)
+Then, sacred to the angel guide, <span id="fr_385"></span>[3](#fn_381.md)
 who led  
 The young Tobiah to the spousal bed,  
 And safe return’d him through the perilous way,  
-We rear a column <span id="fr_386"></span>[4](#fn_382) on the friendly
+We rear a column <span id="fr_386"></span>[4](#fn_382.md) on the friendly
 bay.
 
   Our keels, that now had steer’d through many a clime,  
@@ -880,7 +880,7 @@ A dread disease its rankling horrors shed,
 And death’s dire ravage through mine army spread.  
 Never mine eyes such dreary sight beheld,  
 Ghastly the mouth and gums enormous swell’d; <span
-id="fr_387"></span>[5](#fn_383)  
+id="fr_387"></span>[5](#fn_383.md)  
 And instant, putrid like a dead man’s wound,  
 Poisoned with fœtid steams the air around.  
 No sage physician’s ever-watchful zeal,  
@@ -919,17 +919,17 @@ And what the perils of a route so bold,
 So dread as ours, my faithful lips have told.  
 Then judge, great monarch, if the world before  
 Ere saw the prow such length of seas explore!  
-Nor sage Ulysses, <span id="fr_388"></span>[1](#fn_384) nor the
-Trojan <span id="fr_389"></span>[2](#fn_385) pride  
+Nor sage Ulysses, <span id="fr_388"></span>[1](#fn_384.md) nor the
+Trojan <span id="fr_389"></span>[2](#fn_385.md) pride  
 Such raging gulfs, such whirling storms defied;  
 Nor one poor tenth of my dread course explor’d,  
 Though by the muse as demigods ador’d.
 
   O thou whose breast all Helicon inflam’d, <span
-id="fr_390"></span>[3](#fn_386)  
+id="fr_390"></span>[3](#fn_386.md)  
 Whose birth seven vaunting cities proudly claim’d  
 And thou whose mellow lute and rural song, <span
-id="fr_391"></span>[4](#fn_387)  
+id="fr_391"></span>[4](#fn_387.md)  
 In softest flow, led Mincio’s waves along,  
 Whose warlike numbers, as a storm impell’d,  
 And Tiber’s surges o’er his borders swell’d;
@@ -937,31 +937,31 @@ And Tiber’s surges o’er his borders swell’d;
 <span id="page_160">p. 160</span>
 
 Let all Parnassus lend creative fire,  
-And all the Nine <span id="fr_392"></span>[1](#fn_388) with all their
+And all the Nine <span id="fr_392"></span>[1](#fn_388.md) with all their
 warmth inspire;  
 Your demigods conduct through every scene  
 Cold fear can paint, or wildest fancy feign;  
 The Syren’s guileful lay, dire Circe’s spell, <span
-id="fr_393"></span>[2](#fn_389)  
+id="fr_393"></span>[2](#fn_389.md)  
 And all the horrors of the Cyclop’s cell; <span
-id="fr_394"></span>[3](#fn_390)  
+id="fr_394"></span>[3](#fn_390.md)  
 Bid Scylla’s barking waves their mates o’erwhelm  
 And hurl the guardian pilot from the helm, <span
-id="fr_395"></span>[4](#fn_391)  
+id="fr_395"></span>[4](#fn_391.md)  
 Give sails and oars to fly the purple shore,  
 Where love of absent friend awakes no more; <span
-id="fr_396"></span>[5](#fn_392)  
+id="fr_396"></span>[5](#fn_392.md)  
 In all their charms display Calypso’s smiles,  
 Her flow’ry arbours and her am’rous wiles;  
 In skins confin’d the blust’ring winds control, <span
-id="fr_397"></span>[6](#fn_393)
+id="fr_397"></span>[6](#fn_393.md)
 
 <span id="page_161">p. 161</span>
 
 Or, o’er the feast bid loathsome harpies <span
-id="fr_398"></span>[1](#fn_394) prowl;  
+id="fr_398"></span>[1](#fn_394.md) prowl;  
 And lead your heroes through the dread abodes  
-Of tortur’d spectres and infernal <span id="fr_399"></span>[2](#fn_395)
+Of tortur’d spectres and infernal <span id="fr_399"></span>[2](#fn_395.md)
 gods;  
 Give ev’ry flow’r that decks Aonia’s hill  
 To grace your fables with divinest skill;  
@@ -999,13 +999,13 @@ By thee the seeds of conscious worth are fir’d,
 Hero by hero, fame by fame inspir’d:  
 Without thine aid how soon the hero dies!  
 By thee upborne, his name ascends the skies.  
-This Ammon <span id="fr_400"></span>[1](#fn_396) knew, and own’d his
+This Ammon <span id="fr_400"></span>[1](#fn_396.md) knew, and own’d his
 Homer’s lyre  
 The noblest glory of Pelides’ ire. <span
-id="fr_401"></span>[2](#fn_397)  
+id="fr_401"></span>[2](#fn_397.md)  
 This knew Augustus, and from Mantua’s shade  
 To courtly ease the Roman bard convey’d; <span
-id="fr_402"></span>[3](#fn_398)  
+id="fr_402"></span>[3](#fn_398.md)  
 And soon exulting flow’d the song divine,  
 The noblest glory of the Roman line.  
 Dear was the Muse to Julius; ever dear  
@@ -1029,7 +1029,7 @@ In vain, to them, the sweetest numbers flow:
 Unheard, in vain their native poet sings,  
 And cold neglect weighs down the Muse’s wings,  
 Ev’n he whose veins the blood of GAMA warms, <span
-id="fr_403"></span>[4](#fn_399)  
+id="fr_403"></span>[4](#fn_399.md)  
 Walks by, unconscious of the Muse’s charms:  
 For him no Muse shall leave her golden loom,  
 No palm shall blossom, and no wreath shall bloom:  
@@ -1059,37 +1059,37 @@ END OF THE FIFTH BOOK.
 
 ### Footnotes
 
-<span id="fn_335"></span>[133:1](lusbk05.htm#fr_338) The sun is in the
+<span id="fn_335"></span>[133:1](lusbk05.htm#fr_338.md) The sun is in the
 constellation Leo in July.--*Ed*.
 
-<span id="fn_336"></span>[134:1](lusbk05.htm#fr_339) The Serra de
+<span id="fn_336"></span>[134:1](lusbk05.htm#fr_339.md) The Serra de
 Cintra, situated about 15 miles N.W. of Lisbon.--*Ed*.
 
-<span id="fn_337"></span>[134:2](lusbk05.htm#fr_340) See the life of Don
+<span id="fn_337"></span>[134:2](lusbk05.htm#fr_340.md) See the life of Don
 Henry, prince of Portugal, in the preface.
 
-<span id="fn_338"></span>[134:3](lusbk05.htm#fr_341) Morocco.
+<span id="fn_338"></span>[134:3](lusbk05.htm#fr_341.md) Morocco.
 
-<span id="fn_339"></span>[134:4](lusbk05.htm#fr_342) The discovery of
+<span id="fn_339"></span>[134:4](lusbk05.htm#fr_342.md) The discovery of
 some of the West Indian islands by Columbus was made in 1492 and 1493.
 His discovery of the continent of America was not till 1498. The fleet
 of GAMA sailed from the Tagus in 1497.
 
-<span id="fn_340"></span>[134:5](lusbk05.htm#fr_344) Called by the
+<span id="fn_340"></span>[134:5](lusbk05.htm#fr_344.md) Called by the
 ancients *Insulæ Purpurariæ*. Now Madeira, and Porto Santo. The former
 was so named by Juan Gonzales, and Tristan Vaz, from the Spanish word
 *madera*, wood. These discoverers were sent out by the great Don Henry.
 
-<span id="fn_341"></span>[135:1](lusbk05.htm#fr_345) The Tropic of
+<span id="fn_341"></span>[135:1](lusbk05.htm#fr_345.md) The Tropic of
 Cancer.--*Ed*.
 
-<span id="fn_342"></span>[135:2](lusbk05.htm#fr_346) Called by Ptolemy
+<span id="fn_342"></span>[135:2](lusbk05.htm#fr_346.md) Called by Ptolemy
 *Caput Assinarium*, now Cape Verde.
 
-<span id="fn_343"></span>[135:3](lusbk05.htm#fr_347) The Canaries,
+<span id="fn_343"></span>[135:3](lusbk05.htm#fr_347.md) The Canaries,
 called by the ancients *Insulæ Fortunatæ*.
 
-<span id="fn_344"></span>[135:4](lusbk05.htm#fr_348) The province of
+<span id="fn_344"></span>[135:4](lusbk05.htm#fr_348.md) The province of
 Jalofo lies between the two rivers, the Gambia and the Zanago. The
 latter has other names in the several countries through which it runs.
 In its course it makes many islands, inhabited only by wild beasts. It
@@ -1107,11 +1107,11 @@ their banks are covered with horses, crocodiles, winged serpents,
 elephants, ounces, wild boars, with great numbers of others, wonderful
 for the variety of their nature and different forms.--FARIA Y SOUSA.
 
-<span id="fn_345"></span>[136:1](lusbk05.htm#fr_349) *Timbuctu*, the
+<span id="fn_345"></span>[136:1](lusbk05.htm#fr_349.md) *Timbuctu*, the
 mart of Mandinga gold, was greatly resorted to by the merchants of Grand
 Cairo, Tunis, Oran, Tlemicen, Fez, Morocco, etc.
 
-<span id="fn_346"></span>[136:2](lusbk05.htm#fr_350) Contra hoc
+<span id="fn_346"></span>[136:2](lusbk05.htm#fr_350.md) Contra hoc
 promontorium (Hesperionceras) Gorgades insulæ narrantur, Gorgonum
 quondam domus, bidui navigatione distantes a continente, ut tradit
 Xenophon Lampsacenus. Penetravit in eas Hanno Pœnorum imperator,
@@ -1120,11 +1120,11 @@ duarumque Gorgonum cutes argumenti et miraculi gratia in Junonis templo
 posuit, spectatas usque ad Carthaginem captam.--PLIN. Hist. Nat. l. 6.
 c. 31.
 
-<span id="fn_347"></span>[136:3](lusbk05.htm#fr_351) Sierra Leone.
+<span id="fn_347"></span>[136:3](lusbk05.htm#fr_351.md) Sierra Leone.
 
-<span id="fn_348"></span>[136:4](lusbk05.htm#fr_352) Cape Palmas.--*Ed*.
+<span id="fn_348"></span>[136:4](lusbk05.htm#fr_352.md) Cape Palmas.--*Ed*.
 
-<span id="fn_349"></span>[136:5](lusbk05.htm#fr_353) During the reign of
+<span id="fn_349"></span>[136:5](lusbk05.htm#fr_353.md) During the reign of
 John II. the Portuguese erected several forts, and acquired great power
 in the extensive regions of Guinea, Azambuja, a Portuguese captain,
 having obtained leave from Caramansa, a negro prince, to erect a fort on
@@ -1136,7 +1136,7 @@ driven away by the enraged worshippers, who were afterwards with
 difficulty pacified by a profusion of such presents as they most
 esteemed.
 
-<span id="fn_350"></span>[137:1](lusbk05.htm#fr_354) The Portuguese,
+<span id="fn_350"></span>[137:1](lusbk05.htm#fr_354.md) The Portuguese,
 having brought an ambassador from Congo to Lisbon, sent him back
 instructed in the faith. By this means the king, queen, and about
 100,000 of the people were baptized; the idols were destroyed and
@@ -1153,7 +1153,7 @@ shining cross. The idols were again destroyed, and Alonzo sent his sons,
 grandsons, and nephews to Portugal to study; two of whom were afterwards
 bishops in Congo.--*Extracted from* Faria y Sousa.
 
-<span id="fn_351"></span>[137:2](lusbk05.htm#fr_355) According to fable,
+<span id="fn_351"></span>[137:2](lusbk05.htm#fr_355.md) According to fable,
 Calisto was a nymph of Diana. Jupiter having assumed the figure of that
 goddess, completed his amorous desires. On the discovery of her
 pregnancy, Diana drove her from her train. <span id="page_138">p.
@@ -1165,20 +1165,20 @@ founded on the appearance of the northern pole-star, to the inhabitants
 of our hemisphere; but, when GAMA approached the austral pole, the
 northern, of consequence, disappeared under the waves.
 
-<span id="fn_352"></span>[138:1](lusbk05.htm#fr_356) The Southern Cross.
+<span id="fn_352"></span>[138:1](lusbk05.htm#fr_356.md) The Southern Cross.
 
-<span id="fn_353"></span>[138:2](lusbk05.htm#fr_357) The constellation
+<span id="fn_353"></span>[138:2](lusbk05.htm#fr_357.md) The constellation
 of the southern pole was called *The Cross* by the Portuguese sailors,
 from the appearance of that figure formed by seven stars. In the
 southern hemisphere, as Camoëns observes, the nights are darker than in
 the northern, the skies being adorned with much fewer stars.
 
-<span id="fn_354"></span>[139:1](lusbk05.htm#fr_358)
+<span id="fn_354"></span>[139:1](lusbk05.htm#fr_358.md)
 
 *Non, mihi si linguæ centum sunt, oraque centum,  
 Ferrea vox, omnes scelerum comprendere formas*.--ÆN. vi.
 
-<span id="fn_355"></span>[139:2](lusbk05.htm#fr_359) *That living fire,
+<span id="fn_355"></span>[139:2](lusbk05.htm#fr_359.md) *That living fire,
 by seamen held divine*.--The sulphureous vapours of the air, after being
 violently agitated by a tempest, unite, and when the humidity begins to
 subside, as is the case when the storm is almost exhausted, by the
@@ -1197,7 +1197,7 @@ heroes, the Grecian sailors invoked these fires by the names of Castor
 and Pollux, or *the sons of Jupiter*. The Athenians called them Σωτῆρες,
 *Saviours*.
 
-<span id="fn_356"></span>[140:1](lusbk05.htm#fr_360) In this book,
+<span id="fn_356"></span>[140:1](lusbk05.htm#fr_360.md) In this book,
 particularly in the description of Massilia, the Gorgades, the fires
 called Castor and Pollux, and the water-spout, Camoëns has happily
 imitated the manner of Lucan. It is probable that Camoëns, in his voyage
@@ -1212,7 +1212,7 @@ the overloaded vapour bursts, that it descends--
 
 *Sweet as the waters of the limpid rill*.
 
-<span id="fn_357"></span>[141:1](lusbk05.htm#fr_361) *That sage
+<span id="fn_357"></span>[141:1](lusbk05.htm#fr_361.md) *That sage
 device*.--The astrolabe, an instrument of infinite service in
 navigation, by which the altitude of the sun, and distance of the stars
 is taken. It was invented in Portugal during the reign of John II. by
@@ -1221,10 +1221,10 @@ that they were assisted by Martin of Bohemia, a celebrated
 mathematician. *Partly from* Castera. Vid. Barros, Dec. 1. lib. iv. c.
 2.
 
-<span id="fn_358"></span>[142:1](lusbk05.htm#fr_362) Arabic, one of the
+<span id="fn_358"></span>[142:1](lusbk05.htm#fr_362.md) Arabic, one of the
 most copious and wide-spoken of languages.--*Ed*.
 
-<span id="fn_359"></span>[143:1](lusbk05.htm#fr_363) Camoëns, in
+<span id="fn_359"></span>[143:1](lusbk05.htm#fr_363.md) Camoëns, in
 describing the adventure of Fernando Velosó, by departing from the truth
 of history, has shown his judgment as a poet. The place where the
 Portuguese landed they named the Bay of St. Helen. They caught one of
@@ -1265,7 +1265,7 @@ acted in a different manner. He then made himself dreaded whenever the
 treachery of the natives provoked his resentment.--*Collected from*
 Faria and Osorius.
 
-<span id="fn_360"></span>[144:1](lusbk05.htm#fr_364) The critics have
+<span id="fn_360"></span>[144:1](lusbk05.htm#fr_364.md) The critics have
 vehemently declaimed against the least mixture of the comic, with the
 dignity of the epic poem. It is needless to enter into any defence of
 this passage of Camoëns, farther than to observe that Homer, Virgil, and
@@ -1309,12 +1309,12 @@ And stumbled many------
 -----------------------this gift they have beside,  
 They show us when our foes walk not upright."
 
-<span id="fn_361"></span>[146:1](lusbk05.htm#fr_365) The translator in
+<span id="fn_361"></span>[146:1](lusbk05.htm#fr_365.md) The translator in
 reply to the critics will venture the assertion, that the fiction of the
 apparition of the Cape of Tempests, in sublimity and awful grandeur of
 imagination, stands unsurpassed in human composition.
 
-<span id="fn_362"></span>[147:1](lusbk05.htm#fr_366) *The next proud
+<span id="fn_362"></span>[147:1](lusbk05.htm#fr_366.md) *The next proud
 fleet*.--On the return of GAMA to Portugal, a fleet of thirteen sail,
 under the command of Pedro Alvarez Cabral, was sent out on the second
 voyage to India, where the admiral with only six ships arrived. The rest
@@ -1325,7 +1325,7 @@ horrid noise of the winds. Among those who perished was the celebrated
 Bartholomew Diaz, who was the first modern discoverer of the Cape of
 Good Hope, which he named the Cape of Tempests."
 
-<span id="fn_363"></span>[147:2](lusbk05.htm#fr_367) *Behold a hero
+<span id="fn_363"></span>[147:2](lusbk05.htm#fr_367.md) *Behold a hero
 come*.--Don Francisco de Almeyda. He was the first Portuguese viceroy of
 India, in which country he obtained several great victories over the
 Mohammedans and pagans. He was the first who conquered Quiloa and
@@ -1340,10 +1340,10 @@ Caffres, who fought with such fury in rescue of their, children, whom
 the Portuguese had seized, that the viceroy and fifty of his attendants
 were slain.
 
-<span id="fn_364"></span>[147:3](lusbk05.htm#fr_368) The crescent, the
+<span id="fn_364"></span>[147:3](lusbk05.htm#fr_368.md) The crescent, the
 symbol of Mohammedanism.--*Ed*.
 
-<span id="fn_365"></span>[148:1](lusbk05.htm#fr_369) This poetical
+<span id="fn_365"></span>[148:1](lusbk05.htm#fr_369.md) This poetical
 description of the miserable catastrophe of Don Emmanuel de Souza, and
 his beautiful spouse, Leonora de Sà, is by no means exaggerated. He was
 several years governor of Diu in India, where he amassed immense wealth.
@@ -1378,18 +1378,18 @@ Portuguese poet, has written an affecting poem on the shipwreck, and
 deplorable catastrophe of Don Emmanuel, and his beloved spouse.--*Partly
 from* Castera.
 
-<span id="fn_366"></span>[150:1](lusbk05.htm#fr_370) The giants or
+<span id="fn_366"></span>[150:1](lusbk05.htm#fr_370.md) The giants or
 Titans; called "sons of God" in Gen. vi. 2.--*Ed*.
 
-<span id="fn_367"></span>[151:1](lusbk05.htm#fr_371) Briareus.
+<span id="fn_367"></span>[151:1](lusbk05.htm#fr_371.md) Briareus.
 
-<span id="fn_368"></span>[151:2](lusbk05.htm#fr_372) Doris, the sister
+<span id="fn_368"></span>[151:2](lusbk05.htm#fr_372.md) Doris, the sister
 and spouse of Nereus, and mother of the Nereides. By Nereus, in the
 physical sense of the fable, is understood the water of the sea, and by
 Doris, the bitterness or salt, the supposed cause of its prolific
 quality in the generation of fishes.
 
-<span id="fn_369"></span>[153:1](lusbk05.htm#fr_373) *And give our
+<span id="fn_369"></span>[153:1](lusbk05.htm#fr_373.md) *And give our
 wearied minds a lively glow*.--Variety is no less delightful to the
 reader than to the traveller, and the imagination of Camoëns gave an
 abundant supply. The insertion of this pastoral landscape, between the
@@ -1406,30 +1406,30 @@ Camoëns, whose poem recalls to our minds the charms of the Odyssey, and
 the magnificence of the Æneid.--MONTESQUIEU, Spirit of Laws, bk. xxi. c.
 21.
 
-<span id="fn_370"></span>[154:1](lusbk05.htm#fr_374) Virgil.
+<span id="fn_370"></span>[154:1](lusbk05.htm#fr_374.md) Virgil.
 
-<span id="fn_371"></span>[154:2](lusbk05.htm#fr_375) A small island,
+<span id="fn_371"></span>[154:2](lusbk05.htm#fr_375.md) A small island,
 named *Santa Cruz* by Bartholomew Diaz, who discovered it. According to
 Faria y Sousa, he went twenty-five leagues further, to the river Del
 Infante, which, till passed by GAMA, was the utmost extent of the
 Portuguese discoveries.
 
-<span id="fn_372"></span>[155:1](lusbk05.htm#fr_376) It was the force of
+<span id="fn_372"></span>[155:1](lusbk05.htm#fr_376.md) It was the force of
 this rushing current which retarded the further discoveries of Diaz.
 GAMA got over it by the assistance of a tempest. The seasons when these
 seas are safely navigable, are now perfectly known.
 
-<span id="fn_373"></span>[155:2](lusbk05.htm#fr_377) The wise men of the
+<span id="fn_373"></span>[155:2](lusbk05.htm#fr_377.md) The wise men of the
 East, or magi, whom the Roman Catholic writers will have to have been
 kings.--*Ed*.
 
-<span id="fn_374"></span>[155:3](lusbk05.htm#fr_378) The
+<span id="fn_374"></span>[155:3](lusbk05.htm#fr_378.md) The
 Epiphany.--*Ed*.
 
-<span id="fn_375"></span>[155:4](lusbk05.htm#fr_379) Dos Reis, *i.e*.,
+<span id="fn_375"></span>[155:4](lusbk05.htm#fr_379.md) Dos Reis, *i.e*.,
 of the kings.--*Ed*.
 
-<span id="fn_376"></span>[155:5](lusbk05.htm#fr_380) The frequent
+<span id="fn_376"></span>[155:5](lusbk05.htm#fr_380.md) The frequent
 disappointments of the Portuguese, when they expect to hear some account
 of India, is a judicious imitation of several parts of Virgil; who, in
 the same manner, magnifies the distresses of the Trojans in their search
@@ -1442,10 +1442,10 @@ Cum freta, cum terras omnes, tot inhospita saxa
 Sideraque emensæ ferimur: dum per mare magnum  
 Italians sequimur fugientem, et volvimur undis*. ÆN. v. 625.
 
-<span id="fn_377"></span>[156:1](lusbk05.htm#fr_381)
-[Hope](errata.htm#4) ???.
+<span id="fn_377"></span>[156:1](lusbk05.htm#fr_381.md)
+[Hope](errata.htm#4.md) ???.
 
-<span id="fn_378"></span>[156:2](lusbk05.htm#fr_382) It had been
+<span id="fn_378"></span>[156:2](lusbk05.htm#fr_382.md) It had been
 extremely impolitic in GAMA to mention the mutiny of his followers to
 the King of Melinda. The boast of their loyalty, besides, has a good
 effect in the poem, as it elevates the heroes, and gives uniformity to
@@ -1468,7 +1468,7 @@ animo*, with an unconquered mind, a favourable change of weather revived
 the spirits of the fleet, and allowed them to double the Cape of Good
 Hope.--*Extr. from* Osorius’s Historia.
 
-<span id="fn_379"></span>[158:1](lusbk05.htm#fr_383) GAMA and his
+<span id="fn_379"></span>[158:1](lusbk05.htm#fr_383.md) GAMA and his
 followers were, from the darkness of the Portuguese complexion, thought
 to be Moors. When GAMA arrived in the East, a considerable commerce was
 carried on between the Indies and the Red Sea by the Moorish traders, by
@@ -1476,42 +1476,42 @@ whom the gold mines of Sofala, and the riches of East Africa were
 enjoyed. The traffic was brought by land to Cairo, from whence Europe
 was supplied by the Venetian and Antwerpian merchants.
 
-<span id="fn_380"></span>[158:2](lusbk05.htm#fr_384) "O nome lhe ficou
+<span id="fn_380"></span>[158:2](lusbk05.htm#fr_384.md) "O nome lhe ficou
 dos Bons-Signais."
 
-<span id="fn_381"></span>[158:3](lusbk05.htm#fr_385) Raphael. See Tobit,
+<span id="fn_381"></span>[158:3](lusbk05.htm#fr_385.md) Raphael. See Tobit,
 ch. v. and xii.--*Ed*.
 
-<span id="fn_382"></span>[158:4](lusbk05.htm#fr_386) It was the custom
+<span id="fn_382"></span>[158:4](lusbk05.htm#fr_386.md) It was the custom
 of the Portuguese navigators to erect crosses on the shores of
 new-discovered countries. GAMA carried materials for pillars of stone
 with him, and erected six crosses during his expedition. They bore the
 name and arms of the king of Portugal, and were intended as proofs of
 the title which accrues from first discovery.
 
-<span id="fn_383"></span>[158:5](lusbk05.htm#fr_387) This poetical
+<span id="fn_383"></span>[158:5](lusbk05.htm#fr_387.md) This poetical
 description of the scurvy is by no means exaggerated. It is what
 sometimes really happens in the course of a long voyage.
 
-<span id="fn_384"></span>[159:1](lusbk05.htm#fr_388) King of Ithaca.
+<span id="fn_384"></span>[159:1](lusbk05.htm#fr_388.md) King of Ithaca.
 
-<span id="fn_385"></span>[159:2](lusbk05.htm#fr_389) Æneas.
+<span id="fn_385"></span>[159:2](lusbk05.htm#fr_389.md) Æneas.
 
-<span id="fn_386"></span>[159:3](lusbk05.htm#fr_390) Homer.
+<span id="fn_386"></span>[159:3](lusbk05.htm#fr_390.md) Homer.
 
-<span id="fn_387"></span>[159:4](lusbk05.htm#fr_391) Virgil.
+<span id="fn_387"></span>[159:4](lusbk05.htm#fr_391.md) Virgil.
 
-<span id="fn_388"></span>[160:1](lusbk05.htm#fr_392) The Muses.
+<span id="fn_388"></span>[160:1](lusbk05.htm#fr_392.md) The Muses.
 
-<span id="fn_389"></span>[160:2](lusbk05.htm#fr_393) Homer’s Odyssey,
+<span id="fn_389"></span>[160:2](lusbk05.htm#fr_393.md) Homer’s Odyssey,
 bk. x. 460.
 
-<span id="fn_390"></span>[160:3](lusbk05.htm#fr_394) See the Odyssey,
+<span id="fn_390"></span>[160:3](lusbk05.htm#fr_394.md) See the Odyssey,
 bk. ix.
 
-<span id="fn_391"></span>[160:4](lusbk05.htm#fr_395) See Æn. v. 833
+<span id="fn_391"></span>[160:4](lusbk05.htm#fr_395.md) See Æn. v. 833
 
-<span id="fn_392"></span>[160:5](lusbk05.htm#fr_396) The Lotophagi, so
+<span id="fn_392"></span>[160:5](lusbk05.htm#fr_396.md) The Lotophagi, so
 named from the lotus, are thus described by Homer:--
 
 "Not prone to ill, nor strange to foreign guest,  
@@ -1533,7 +1533,7 @@ purple when ripe, and about the size of an olive. Mixed with bread-corn,
 it was used as food for slaves. They also made an agreeable wine of it,
 but which would not keep above ten days. See Pope’s note *in loco*.
 
-<span id="fn_393"></span>[160:6](lusbk05.htm#fr_397) *In skins confin’d
+<span id="fn_393"></span>[160:6](lusbk05.htm#fr_397.md) *In skins confin’d
 the blust’ring winds control*.--The gift of Æolus to Ulysses.
 
 "The adverse winds in leathern bags he brac’d,  
@@ -1554,24 +1554,24 @@ valuable treasure, and opened them while their leader slept. The
 tempests bursting out, drove the fleet from Ithaca, which was then in
 sight, and was the cause of a new train of miseries.
 
-<span id="fn_394"></span>[161:1](lusbk05.htm#fr_398) See the third
+<span id="fn_394"></span>[161:1](lusbk05.htm#fr_398.md) See the third
 Æneid.
 
-<span id="fn_395"></span>[161:2](lusbk05.htm#fr_399) See the sixth
+<span id="fn_395"></span>[161:2](lusbk05.htm#fr_399.md) See the sixth
 Æneid, and the eleventh Odyssey.
 
-<span id="fn_396"></span>[162:1](lusbk05.htm#fr_400) Alexander the
+<span id="fn_396"></span>[162:1](lusbk05.htm#fr_400.md) Alexander the
 Great.--*Ed*.
 
-<span id="fn_397"></span>[162:2](lusbk05.htm#fr_401) Achilles, son of
+<span id="fn_397"></span>[162:2](lusbk05.htm#fr_401.md) Achilles, son of
 Peleus.--*Ed*.
 
-<span id="fn_398"></span>[162:3](lusbk05.htm#fr_402) Virgil, born at
+<span id="fn_398"></span>[162:3](lusbk05.htm#fr_402.md) Virgil, born at
 Mantua.--*Ed*.
 
-<span id="fn_399"></span>[162:4](lusbk05.htm#fr_403) Don Francisco de
+<span id="fn_399"></span>[162:4](lusbk05.htm#fr_403.md) Don Francisco de
 Gama, grandson of Vasco de Gama, the hero of the Lusiad.--*Ed*.
 
 ------------------------------------------------------------------------
 
-[Next: Book VI](lusbk06)
+[Next: Book VI](lusbk06.md)

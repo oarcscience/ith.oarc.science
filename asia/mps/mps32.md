@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps31) 
-[Next](mps33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps31.md) 
+[Next](mps33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ inform thee crookedly.
 
 <span class="margnote"><span id="1043">1043</span></span>"The Sea Realm
 is this, ten months’ (travel) in extent, this is the city of
-Gulansharo <span id="fr_28"></span>[1](#fn_28), full of much loveliness.
+Gulansharo <span id="fr_28"></span>[1](#fn_28.md), full of much loveliness.
 Hither everything fair cometh by ships sailing from sea to sea. Melik
 Surkhavi rules, perfect in good fortune and wealth.
 
@@ -118,10 +118,10 @@ were left contemned.
 
 ### Footnotes
 
-<span id="fn_28"></span>[168:1](mps32.htm#fr_28) Gulan Shahr, P., the
+<span id="fn_28"></span>[168:1](mps32.htm#fr_28.md) Gulan Shahr, P., the
 city of flowers; pl. in *an* (Abul., 180).
 
 ------------------------------------------------------------------------
 
 [Next: XXX. Avt’handil's Arrival at P’hatman's; Her Reception of Him and
-Her Joy](mps33)
+Her Joy](mps33.md)

@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index)
+[Intangible Textual Heritage](../../index)  [Africa](../index.md)
 
 ------------------------------------------------------------------------
 

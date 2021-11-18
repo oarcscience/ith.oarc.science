@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh00)  [Next](hloh02) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh00)  [Next](hloh02.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ JUNE 4, 1915.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](hloh02)
+[Next: Table of Contents](hloh02.md)

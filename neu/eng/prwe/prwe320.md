@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe319)  [Next](prwe321) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe319)  [Next](prwe321.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ blowth of the griglans ?
 
 ------------------------------------------------------------------------
 
-[Next: The Lizard People](prwe321)
+[Next: The Lizard People](prwe321.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod15)  [Next](fcod17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod15)  [Next](fcod17.md) 
 
 ------------------------------------------------------------------------
 
@@ -618,4 +618,4 @@ of the importance of this controversial problem.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV: Memorials, Epitaphs, Rings and Mourning
-Cards](fcod17)
+Cards](fcod17.md)

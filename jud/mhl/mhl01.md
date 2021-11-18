@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl00)  [Next](mhl02) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl00)  [Next](mhl02.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,11 +172,11 @@
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:1](mhl01.htm#fr_3) Italicized entries are
+<span id="fn_0"></span>[v:1](mhl01.htm#fr_3.md) Italicized entries are
 omitted from this etext. Refer to
-[https://ith.oarc.science/jud/tku/index.htm](https://ith.oarc.science/jud/tku/index)
+[https://ith.oarc.science/jud/tku/index.htm](https://ith.oarc.science/jud/tku/index.md)
 for this material.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](mhl02)
+[Next: Introduction](mhl02.md)

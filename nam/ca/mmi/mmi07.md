@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mmi06)  [Next](mmi08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mmi06)  [Next](mmi08.md) 
 
 ------------------------------------------------------------------------
 
-### 3. THE STORY OF OUIOT. <span id="fr_9"></span>[1](#fn_9)
+### 3. THE STORY OF OUIOT. <span id="fr_9"></span>[1](#fn_9.md)
 
 While they were all living at Temecula, there was a man among them who
 was very wise and knew more than any one living. He taught the people,
@@ -87,11 +87,11 @@ a-lúc-mal, Tów-sa-nal mo-kát; Tó-vuk-mal a-lúc-mal, Tó-va-kal mo-kát;
 Nó-vac-ne-mal a-lúc-mal, Nó-va-nut mo-kát; Pá-ho-y-mal a-lúc-mal,
 Pá-ho-y-il mo-kát; Náy-mo-y-mal a-lúc-mal, Náy-mo-y-il mo-kát;
 Som'-o-y-mal a-lúc-mal, Som'-o-y-il mo-kát. <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 In the last month he died, and death came into the world. No one had
 died before, but he will take all along with him. <span
-id="fr_11"></span>[2](#fn_11)
+id="fr_11"></span>[2](#fn_11.md)
 
 There was a man (now kangaroo-rat) who made a carrying-net in which to
 lift Ouiot; and they sent to all four points of the compass for wood,
@@ -145,7 +145,7 @@ for that, and they would not have him.
 The eagle must be killed at the time of every fiesta, and Ash-wut (the
 eagle) did not like this. To escape his fate, he went north, south,
 east, and west; but there was death for him everywhere, and he came back
-and gave himself up. <span id="fr_12"></span>[1](#fn_12)
+and gave himself up. <span id="fr_12"></span>[1](#fn_12.md)
 
 Then they talked about killing the deer. "He is a nice-looking
 
@@ -204,9 +204,9 @@ turned into stone bowls when the others became animals, etc.
 
 ### Footnotes
 
-<span id="fn_9"></span>[55:1](mmi07.htm#fr_9) Pronounced wee-ote.
+<span id="fn_9"></span>[55:1](mmi07.htm#fr_9.md) Pronounced wee-ote.
 
-<span id="fn_10"></span>[56:1](mmi07.htm#fr_10) am indebted for the
+<span id="fn_10"></span>[56:1](mmi07.htm#fr_10.md) am indebted for the
 spelling of these names to Mr. P. S. Sparkman of Rincon (Cal.), whose
 unpublished dictionary and grammar of the Luiseño language is the only
 authority extant on the subject. He adds in regard to these names: "it
@@ -219,13 +219,13 @@ therefore the second parts are spoken of as the large parts. But it is
 not necessary to use the words a-lúc-mal and mo-kát. The other words may
 be used alone."
 
-<span id="fn_11"></span>[56:2](mmi07.htm#fr_11) "Som" means all.
+<span id="fn_11"></span>[56:2](mmi07.htm#fr_11.md) "Som" means all.
 
-<span id="fn_12"></span>[57:1](mmi07.htm#fr_12) Comment by the narrator.
+<span id="fn_12"></span>[57:1](mmi07.htm#fr_12.md) Comment by the narrator.
 The eagle never dies. The old one will be there every year. You can
 catch the young ones by spreading nets for them in the cañons. They are
 killed for the fiesta without shedding any blood.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Story of Ouiot](mmi08)
+[Next: 4. The Story of Ouiot](mmi08.md)

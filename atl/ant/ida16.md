@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida15)  [Next](ida17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida15)  [Next](ida17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -108,7 +108,7 @@ apocope: Ἀτλαντίνεα
 <span class="contnote">\[paragraph continues\]</span> Suppression of
 *alpha*, of *tau* and of *lambda!* I would like to direct your attention
 to another case as curious: κλημῆντινεα, Clémentine. Apocope of *kappa*,
-of [*lambda*](errata.htm#9), of *epsilon* and of *mu*. If Morhange were
+of [*lambda*](errata.htm#9.md), of *epsilon* and of *mu*. If Morhange were
 with us, he would tell you many charming erudite things about it. But,
 alas! Morhange does not deign to come among us any more. We never see
 Morhange."
@@ -385,4 +385,4 @@ For the first time, Antinea was in love.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. The Lament of Tanit-Zerga](ida17)
+[Next: Chapter XV. The Lament of Tanit-Zerga](ida17.md)

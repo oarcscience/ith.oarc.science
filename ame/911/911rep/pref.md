@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Americana](../../index) 
-[9/11](../index)  [Index](index)  [Previous](fm)  [Next](ch01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Americana](../../index.md) 
+[9/11](../index)  [Index](index)  [Previous](fm)  [Next](ch01.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ fellow citizens to study, reflect-and act.
 
 ------------------------------------------------------------------------
 
-[Next: 1. ''We Have Some Planes''](ch01)
+[Next: 1. ''We Have Some Planes''](ch01.md)

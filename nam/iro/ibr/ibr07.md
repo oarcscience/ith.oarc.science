@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr06)  [Next](ibr08) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr06)  [Next](ibr08.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ to walk to and fro in the council-house. When the hymn is finished, he
 breaks out into a passionate invocation to their forefathers, and a
 lament over the degeneracy of the times. This, as the French
 missionaries inform us, was a favorite topic of Indian speakers. <span
-id="fr_33"></span>[1](#fn_33) Among the Iroquois, who could look back to
+id="fr_33"></span>[1](#fn_33.md) Among the Iroquois, who could look back to
 an era of genuine statesmen and heroes, the authors of their
 constitution, this complaint must have had a peculiar force and
 Sincerity. After this appeal to the founders of their state, there
@@ -53,7 +53,7 @@ briefly, but accurately, delineating the Iroquois system of councils, he
 adds: "Thus they became both a political and a military power among the
 aborigines; the influence of their league was felt everywhere, and their
 conquests extended in every direction." <span
-id="fr_34"></span>[1](#fn_34) The principle that "the chief dies but the
+id="fr_34"></span>[1](#fn_34.md) The principle that "the chief dies but the
 office survives,"--the regular transmission of rank, title and
 authority, by a method partly hereditary and partly elective,---was the
 principle on which the life and strength of the Iroquois constitution
@@ -63,7 +63,7 @@ Next followed a provision of hardly less importance. The wars among the
 Indian tribes arise almost always from individual murders. The killing
 of a tribesman by the members of another community concerns his whole
 people. If satisfaction is not promptly made, war follows, as a matter
-of course. <span id="fr_35"></span>[2](#fn_35) The founders of the
+of course. <span id="fr_35"></span>[2](#fn_35.md) The founders of the
 Iroquois commonwealth decreed that wars for this cause should not be
 allowed to rise between any of their cantons. On this point a special
 charge was given to
@@ -108,13 +108,13 @@ suggested to the assembled councillors a method of effecting
 the same time a happy compliment to their reverend visitors. By common
 consent the affair was referred to the arbitrament of the Father
 Superior, by whom the difference was promptly settled. <span
-id="fr_36"></span>[1](#fn_36) It was not necessary for the politic
+id="fr_36"></span>[1](#fn_36.md) It was not necessary for the politic
 senators to inform their gratified visitors that the performance in
 which they thus took part was merely a formality which ratified, or
 rather proclaimed, a foregone conclusion. The reconciliation which was
 prescribed by their constitution had undoubtedly been arranged by
 previous conferences, after their custom in such matters, before the
-meeting of the Council. <span id="fr_37"></span>[2](#fn_37) So effective
+meeting of the Council. <span id="fr_37"></span>[2](#fn_37.md) So effective
 was this provision of their constitution that for more than three
 centuries this main cause of Indian wars was rendered innocuous, and the
 "Great Peace" remained undisturbed. This proud averment of their
@@ -147,7 +147,7 @@ their country. Often in midwinter you will see them going almost naked,
 while they have at home, laid up in store, good and handsome robes,
 which they keep in reverence for the dead. This is their point of honor.
 In this, above all, they seek to show themselves magnificent." <span
-id="fr_38"></span>[1](#fn_38)
+id="fr_38"></span>[1](#fn_38.md)
 
 During the three days that preceded the burial of the dead, or the
 removal of his remains to the scaffold, the wails, groans and
@@ -186,7 +186,7 @@ years, were distributed by the relatives of the deceased among the
 people. In this distribution, strange to say, valuable fur robes were
 frequently cut and torn to pieces, so as to be rendered worthless. A
 lavish display and reckless destruction of wealth were deemed honors due
-to the shades of the departed. <span id="fr_39"></span>[1](#fn_39)
+to the shades of the departed. <span id="fr_39"></span>[1](#fn_39.md)
 
 The Attiwandaronks, or Neutrals, who were the nearest neighbors of the
 Iroquois, were still more extravagant in their demonstrations of
@@ -203,7 +203,7 @@ which were arranged on the sides of their cabins, in full view of the
 inmates, until the great day of general interment. With these mournful
 objects before their eyes, renewing constantly the sense of their loss,
 the women of the household were excited to frequent outbursts of grief,
-expressed in wailing chants. <span id="fr_40"></span>[1](#fn_40)
+expressed in wailing chants. <span id="fr_40"></span>[1](#fn_40.md)
 
 That the Iroquois in ancient times had funeral customs similar to those
 of their sister nations, and not less revolting, cannot be doubted. How
@@ -258,33 +258,33 @@ seems reason to suppose that the more exalted conception of this deity,
 who is certainly, in character and attributes, one of the noblest
 creations of the North American mythologies, dates from the era of the
 confederacy, when he became more especially the chief divinity and
-protector of the Kanonsionni. <span id="fr_41"></span>[1](#fn_41)
+protector of the Kanonsionni. <span id="fr_41"></span>[1](#fn_41.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_33"></span>[67:1](ibr07.htm#fr_33) See the Relation of
+<span id="fn_33"></span>[67:1](ibr07.htm#fr_33.md) See the Relation of
 1639, p. 57: "C'est la plainte ordinaire des Capitaines \[of the
 Hurons\] que tout se va perdant, à faute de garder les formes et
 coustoumes de leurs ancestres."
 
-<span id="fn_34"></span>[68:1](ibr07.htm#fr_34) De Schweinitz: *Life of
+<span id="fn_34"></span>[68:1](ibr07.htm#fr_34.md) De Schweinitz: *Life of
 Zeisberger*, p. 39.
 
-<span id="fn_35"></span>[68:2](ibr07.htm#fr_35) Relation, of 1636, p.
+<span id="fn_35"></span>[68:2](ibr07.htm#fr_35.md) Relation, of 1636, p.
 119. "C'est de la que naissent les guerres, et c'est un sujet plus que
 suffisant deprendre les armes contre quelque Village quand il refuse de
 satisfaire par les presents ordonnez, pour celuy qui vous aurait tué
 quelq'un des vostres."--*Brebeuf, on the Hurons*.
 
-<span id="fn_36"></span>[70:1](ibr07.htm#fr_36) "On tint ce grand
+<span id="fn_36"></span>[70:1](ibr07.htm#fr_36.md) "On tint ce grand
 conseil le 24 du mois de Juillet, où toutes les Nations remisent entre
 les mains d'Achiendase (qui est nostre Père Superieur) le differend
 d'entre les Sonnontoüeronnons et les Agnieronnons, qui fut bientot
 terminé."--*Relation* of 1657, p. 16.
 
-<span id="fn_37"></span>[70:2](ibr07.htm#fr_37) For a curious instance
+<span id="fn_37"></span>[70:2](ibr07.htm#fr_37.md) For a curious instance
 of the manner in which questions to be apparently decided by a Council
 were previously settled between the parties, see the Life of Zeisberger,
 p. 190: "Gietterowane was the speaker on one side, Zeisberger on the
@@ -292,21 +292,21 @@ other. These two consulted together privately,---Zeisberger unfolding
 the import of the strings \[of wampum which he had brought as
 ambassador\] and Gietterowane committing to memory what he said."
 
-<span id="fn_38"></span>[71:1](ibr07.htm#fr_38) Brebeuf, *Relation of*
+<span id="fn_38"></span>[71:1](ibr07.htm#fr_38.md) Brebeuf, *Relation of*
 1636, p. 128.
 
-<span id="fn_39"></span>[72:1](ibr07.htm#fr_39) See the *Relation* for
+<span id="fn_39"></span>[72:1](ibr07.htm#fr_39.md) See the *Relation* for
 1636, p. 131. A most vivid and graphic. description of these
 extraordinary ceremonies is given in Parkman's admirable work, *The
 Jesuits in North America*, Chapter 7.
 
-<span id="fn_40"></span>[73:1](ibr07.htm#fr_40) "Cet object qu'ils ont
+<span id="fn_40"></span>[73:1](ibr07.htm#fr_40.md) "Cet object qu'ils ont
 devant les yeux, leur renouvellant continuellement le resentiment de
 leurs pertes, leur fait ordinairement ietter des cris, et faire des
 lamentations tout à fait lugubres, le tout en chanson. Mais cela ne se
 fait que par les femmes."--Relation of 1641, p. 73.
 
-<span id="fn_41"></span>[74:1](ibr07.htm#fr_41) See for Taronhiawagon
+<span id="fn_41"></span>[74:1](ibr07.htm#fr_41.md) See for Taronhiawagon
 the Jesuit *Relations* for 1670, pp. 47, 66, and for 1671, p. 17: also
 Cusick, pp. 20, 22, 24, 34. For Juskeha, see the *Relation* for 1635, p.
 34; 1636, pp. 101-103; 1640, p. 92. Lafitau in one place makes
@@ -315,4 +315,4 @@ Ataensic.--*Mœurs des Sauvages Ameriquains*, Vol. I, p. 146 and p. 244.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Historical Traditions](ibr08)
+[Next: Chapter VII: Historical Traditions](ibr08.md)

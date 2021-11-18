@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Next](sby01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Next](sby01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,9 +35,9 @@ at Intangible Textual Heritage
 TO MY TEACHERS IN UNION THEOLOGICAL SEMINARY, COLUMBIA, AND HARVARD
 UNIVERSITIES, THIS BOOK IS INSCRIBED WITH GRATITUDE AND ESTEEM
 
-<span id="img_front"></span> ![THE SYMBOL OF THE DEVIL](img/front.jpg)  
+<span id="img_front"></span> ![THE SYMBOL OF THE DEVIL](img/front.jpg.md)  
 THE SYMBOL OF THE DEVIL
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sby01)
+[Next: Contents](sby01.md)

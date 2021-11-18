@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf87)  [Next](sbf89) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf87)  [Next](sbf89.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -32,6 +32,6 @@ father's father was Great *Tamme*.
 ------------------------------------------------------------------------
 
 [Next: Snakes, Lizards, And A Certain Small Antelope, When Seen Near
-Graves, To Be Respected.](sbf89)
+Graves, To Be Respected.](sbf89.md)
 
 </div>

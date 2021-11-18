@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi106)  [Next](mtsi108) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi106)  [Next](mtsi108.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ being.
 
 ------------------------------------------------------------------------
 
-[Next: 15. The Monster Lizard](mtsi108)
+[Next: 15. The Monster Lizard](mtsi108.md)

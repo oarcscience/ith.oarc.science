@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap22) 
-[Next](bap24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap22.md) 
+[Next](bap24.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ stubble and straw, and shall dig themselves caves and shall live therein
 like beasts of the field, and thus shall they continue before my face
 for ever, that they may never devise such things. And I will esteem them
 as a drop of water, and liken them unto spittle: <span
-id="fr_33"></span>[1](#fn_33) and unto some of them their end shall come
+id="fr_33"></span>[1](#fn_33.md) and unto some of them their end shall come
 by water, and other of them shall be dried up with thirst. 4. And before
 all of them will I choose my servant Abram, and I will bring him out
 from their land, and lead him into the land which mine eye hath looked
@@ -50,7 +50,7 @@ will be called his God for ever.
 
 5\. Howbeit when the people that dwelt in the land had begun to build
 the tower, God divided their speech, and changed their likeness. <span
-id="fr_34"></span>[2](#fn_34) And
+id="fr_34"></span>[2](#fn_34.md) And
 
 <span id="page_96">p. 96</span>
 
@@ -67,7 +67,7 @@ scattered them thence over the face of all the earth*.
 
 ### Footnotes
 
-<span id="fn_33"></span>[95:1](bap23.htm#fr_33) VII. 3. *I will liken
+<span id="fn_33"></span>[95:1](bap23.htm#fr_33.md) VII. 3. *I will liken
 them unto spittle* (also XII. 4). The source is Isa. 40:15; but this
 clause is not in our present Hebrew text. It occurs, however, in the
 LXX; it is also in 4 *Esdras* 6:56, *Apoc. Bar*. 82:5, both of which
@@ -75,7 +75,7 @@ books are believed to have been written in Hebrew. We need not,
 therefore, count its occurrence in *Philo* as implying dependence on the
 LXX. Compare the combinations of phrases from Isaiah in XXVI. 13.
 
-<span id="fn_34"></span>[95:2](bap23.htm#fr_34) 5. changed their
+<span id="fn_34"></span>[95:2](bap23.htm#fr_34.md) 5. changed their
 likeness. J adds "into that of <span id="page_96">p. 96</span> monkeys,"
 probably from the Book of Jashar (see Migne, *Dict. des Apocryphes* II.
 s. v. *Yaschar*). The Greek *Apocalypse of Baruch* describes the
@@ -85,4 +85,4 @@ etc.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](bap24)
+[Next: Chapter VIII](bap24.md)

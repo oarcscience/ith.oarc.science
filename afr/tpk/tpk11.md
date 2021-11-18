@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk10)  [Next](tpk12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk10)  [Next](tpk12.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ skin.
 
 ------------------------------------------------------------------------
 
-[Next: Eve the Mother of Evil](tpk12)
+[Next: Eve the Mother of Evil](tpk12.md)

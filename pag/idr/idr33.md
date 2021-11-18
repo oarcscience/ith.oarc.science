@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr32) 
-[Next](idr34) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr32.md) 
+[Next](idr34.md) 
 
 ------------------------------------------------------------------------
 
@@ -238,4 +238,4 @@ worshippers of the true God." So it might be that, as Higgins wrote,
 
 ------------------------------------------------------------------------
 
-[Next: The Future Life, or Land of the West](idr34)
+[Next: The Future Life, or Land of the West](idr34.md)

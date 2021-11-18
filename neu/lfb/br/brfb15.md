@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb14)  [Next](brfb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb14)  [Next](brfb16.md) 
 
 </div>
 
@@ -214,6 +214,6 @@ And very likely he did!
 
 ------------------------------------------------------------------------
 
-[Next: The Husband of the Rat's Daughter](brfb16)
+[Next: The Husband of the Rat's Daughter](brfb16.md)
 
 </div>

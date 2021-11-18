@@ -15,7 +15,7 @@ Intangible Textual Heritage is run by John B. Hare, dba Internet Sacred
 Text Archive ('the proprietor'), and is not affiliated with any
 religious organization or institution. ISTA is located in Santa Cruz,
 California, USA, and can be contacted [via email or postal
-mail](contact). By accessing this site you agree to the following terms
+mail](contact.md). By accessing this site you agree to the following terms
 of service.
 
 2\. The texts are presented for entertainment and research purposes
@@ -33,7 +33,7 @@ discretion of the proprietor.
 4\. The texts at this site are believed to be in the public domain in
 the United States, or freely redistributable for non-commercial
 purposes. **For a discussion of what this means in plain English, please
-refer to [the copyrights page](cnote)**. If any of the texts are in
+refer to [the copyrights page](cnote.md)**. If any of the texts are in
 violation of a copyright, the copyright holder may, if they wish,
 contact the proprietor of the site and have the text removed from the
 site, or request that the text be altered, or to correctly identify the
@@ -43,7 +43,7 @@ correctly. The proprietor agrees to promptly address any such requests.
 5\. Certain texts at this site were produced by or for the site ('ISTA
 produced texts') at great labor and expense. This includes but is not
 limited to files listed at
-[*https://ith.oarc.science/stbib.htm*](https://ith.oarc.science/stbib).
+[*https://ith.oarc.science/stbib.htm*](https://ith.oarc.science/stbib.md).
 ISTA produced texts are clearly identified by a notice of attribution.
 ISTA produced texts are believed to be in the public domain. These texts
 may be copied electronically for any non-commercial purpose, provided

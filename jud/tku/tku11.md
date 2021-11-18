@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku10)  [Next](tku12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku10)  [Next](tku12.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ who wisheth to dispose and to constitute other things, let Him first be
 disposed according unto a proper conformation."
 
 36\. This is the tradition described in the "Concealed Book of the
-King," <span id="fr_15"></span>[1](#fn_14) that the Ancient of the
+King," <span id="fr_15"></span>[1](#fn_14.md) that the Ancient of the
 Ancient Ones, the Concealed of the Concealed Ones, hath been constituted
 and prepared as in various members (*for future knowledge*).
 
@@ -56,10 +56,10 @@ which draw their existence from Him, and by Him are upheld.
 
 ### Footnotes
 
-<span id="fn_14"></span>[115:1](tku11.htm#fr_15) "The Siphra
+<span id="fn_14"></span>[115:1](tku11.htm#fr_15.md) "The Siphra
 Dtzenioutha," cap. i. § 16.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IV: Concerning the Dew, or Moisture of the Brain, of the
-Ancient One, or Macroprosopus](tku12)
+Ancient One, or Macroprosopus](tku12.md)

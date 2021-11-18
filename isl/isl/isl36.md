@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl35)  [Next](isl37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl35)  [Next](isl37.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ claims of ‘Alī's descendants, who became the nuclei of new Shī‘ī sects.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Khārijīs](isl37)
+[Next: 1. The Khārijīs](isl37.md)

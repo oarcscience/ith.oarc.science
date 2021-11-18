@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw31)  [Next](tfgw33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw31)  [Next](tfgw33.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ NOTE
 
 ------------------------------------------------------------------------
 
-[Next: The Blood-Drawing Ghost](tfgw33)
+[Next: The Blood-Drawing Ghost](tfgw33.md)

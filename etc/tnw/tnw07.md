@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw06)  [Next](tnw08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw06)  [Next](tnw08.md) 
 
 ------------------------------------------------------------------------
 
@@ -510,4 +510,4 @@ hope.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Materialism: The Shape](tnw08)
+[Next: 7. Materialism: The Shape](tnw08.md)

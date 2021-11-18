@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw84)  [Next](omw86) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw84)  [Next](omw86.md) 
 
 ------------------------------------------------------------------------
 
@@ -147,4 +147,4 @@ the Empire of the Azteca.
 
 ------------------------------------------------------------------------
 
-[Next: Paíyatuma and the Maidens of the Corn](omw86)
+[Next: Paíyatuma and the Maidens of the Corn](omw86.md)

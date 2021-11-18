@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml43)  [Next](yml45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml43)  [Next](yml45.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ Cochiti of New Mexico (Benedict 1935: 308), and the Papagos of Arizona
 
 ------------------------------------------------------------------------
 
-[Next: Heron and Fox](yml45)
+[Next: Heron and Fox](yml45.md)

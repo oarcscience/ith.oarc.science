@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc30)  [Next](scc32) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc30)  [Next](scc32.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ territory of the Shoshonean Tübatulabal or Pitanisha).
 
 ------------------------------------------------------------------------
 
-[Next: 30.--Yaudanchi Yokuts. The Prairie Falcon's Wife.](scc32)
+[Next: 30.--Yaudanchi Yokuts. The Prairie Falcon's Wife.](scc32.md)

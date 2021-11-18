@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla18)  [Next](mla20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla18)  [Next](mla20.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ feathers in remembrance of his great feat.
 
 ------------------------------------------------------------------------
 
-[Next: Why the Fish-Hawk was Driven to the Sea](mla20)
+[Next: Why the Fish-Hawk was Driven to the Sea](mla20.md)

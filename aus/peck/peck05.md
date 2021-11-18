@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck04)  [Next](peck06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck04)  [Next](peck06.md) 
 
 ------------------------------------------------------------------------
 
@@ -291,4 +291,4 @@ men dug under the boulders and found a great heap of aboriginal bones.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Turtle Has No Tail](peck06)
+[Next: Why The Turtle Has No Tail](peck06.md)

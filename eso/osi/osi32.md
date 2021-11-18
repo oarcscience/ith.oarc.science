@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi31)  [Next](osi33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi31)  [Next](osi33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -173,7 +173,7 @@ arrogate to themselves a belief of a higher order than that which they
 vulgarly taught.
 
 We are indebted to Cabalistic tradition for the following legend, which
-we give in conclusion: <span id="fr_11"></span>[1](#fn_11)
+we give in conclusion: <span id="fr_11"></span>[1](#fn_11.md)
 
 "One day, our Master Jochanan Ben Zachai started upon his travels. He
 rode a donkey and was followed by Rabbi Eleazar Ben Aroch. The latter
@@ -231,11 +231,11 @@ produce external phenomena.
 
 ### Footnotes
 
-<span id="fn_11"></span>[187:1](osi32.htm#fr_11) Thal. Bab. Traii.
+<span id="fn_11"></span>[187:1](osi32.htm#fr_11.md) Thal. Bab. Traii.
 Chaguiga, fol. xiv.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. Points of Resemblance Between the Doctrine of the
 Pitris and That of the Zend-Avesta of Persia, the Philosophy of Plato,
-the Alexandrian School, and of Christianity](osi33)
+the Alexandrian School, and of Christianity](osi33.md)

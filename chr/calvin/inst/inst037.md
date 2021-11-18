@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst036)  [Next](inst038) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst036)  [Next](inst038.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,10 +116,10 @@ attending to the epithets applied to him in Scripture. If he is fully
 depicted (and it may easily be proved that he is) by the words of our
 Saviour, “that which is born of the flesh is flesh,” (<span
 id="iv.ii.iv-p19.1"></span>[John
-3:6](../../../bib/kjv/joh003.htm#006)<span id="iv.ii.iv-p19.1"></span>),
+3:6](../../../bib/kjv/joh003.htm#006)<span id="iv.ii.iv-p19.1"></span>.md),
 he must be a very miserable creature. For, as an apostle declares, “to
 be carnally minded is death,” (<span id="iv.ii.iv-p19.2"></span>[Rom.
-8:8](../../../bib/kjv/rom008.htm#008)<span id="iv.ii.iv-p19.2"></span>),
+8:8](../../../bib/kjv/rom008.htm#008)<span id="iv.ii.iv-p19.2"></span>.md),
 “It is enmity against God, and is not subject to the law of God, neither
 indeed can be.” Is it true that the flesh is so perverse, that it is
 perpetually striving with all its might against God? that it cannot
@@ -140,7 +140,7 @@ we have nothing of the Spirit except through regeneration. Everything,
 therefore, which we have from nature is flesh. Any possible doubt which
 might exist on the subject is removed by the words of Paul (<span
 id="iv.ii.iv-p19.3"></span>[Eph.
-4:23](../../../bib/kjv/eph004.htm#023)<span
+4:23](../../../bib/kjv/eph004.htm#023.md)<span
 id="iv.ii.iv-p19.3"></span>), where, after a description of the old man,
 who, he says, “is corrupt according to the deceitful lusts,” he bids us
 “be renewed in the spirit” of our mind. You see that he places unlawful
@@ -152,8 +152,8 @@ that the “Gentiles walk in the vanity of their mind, having the
 understanding darkened being alienated from the life of God through the
 ignorance that is in them, because of the blindness of their heart,”
 (<span id="iv.ii.iv-p19.4"></span>[Eph.
-4:17](../../../bib/kjv/eph004.htm#017),
-[18](../../../bib/kjv/eph004.htm#018)<span id="iv.ii.iv-p19.4"></span>),
+4:17](../../../bib/kjv/eph004.htm#017.md),
+[18](../../../bib/kjv/eph004.htm#018)<span id="iv.ii.iv-p19.4"></span>.md),
 there can be no doubt that his words apply to all whom the Lord has not
 yet formed anew both to wisdom and righteousness. This is rendered more
 clear by the comparison which immediately follows, and by which he
@@ -164,7 +164,7 @@ kingdom of Christ, when the Lord promised to the Church, that though
 darkness should “cover the earth, and gross darkness the people,” yet
 that he should “arise” upon it, and “his glory” should be seen upon it
 (<span id="iv.ii.iv-p19.5"></span>[Isaiah
-40:2](../../../bib/kjv/isa040.htm#002)<span
+40:2](../../../bib/kjv/isa040.htm#002.md)<span
 id="iv.ii.iv-p19.5"></span>). When it is thus declared that divine light
 is to arise on the Church alone, all without the Church is left in
 blindness and darkness. I will not enumerate all that occurs throughout
@@ -173,7 +173,7 @@ to the vanity of man. There is much in what David says, “Surely men of
 low degree are vanity, and men of high degree are a lie: to be laid in
 the balance, they are altogether lighter than vanity,” (<span
 id="iv.ii.iv-p19.6"></span>[Ps.
-62:10](../../../bib/kjv/psa062.htm#010)<span
+62:10](../../../bib/kjv/psa062.htm#010.md)<span
 id="iv.ii.iv-p19.6"></span>). The human mind receives a humbling blow
 when all the thoughts which proceed from it are derided as foolish,
 frivolous, perverse, and insane.
@@ -181,7 +181,7 @@ frivolous, perverse, and insane.
 <span id="iv.ii.iv-p20"></span>2. In no degree more lenient is the
 condemnation of the heart, when it is described as “deceitful above all
 things, and desperately wicked,” (<span id="iv.ii.iv-p20.1"></span>[Jer.
-17:9](../../../bib/kjv/jer017.htm#009)<span
+17:9](../../../bib/kjv/jer017.htm#009.md)<span
 id="iv.ii.iv-p20.1"></span>). But as I study brevity, I will be
 satisfied with a single passage, one, however, in which as in a bright
 mirror, we may behold a complete image of our nature. The Apostle, when
@@ -195,7 +195,7 @@ and bitterness: their feet are swift to shed blood: destruction and
 misery are in their ways: and the way of peace have they not known:
 there is no fear of God before their eyes,” (<span
 id="iv.ii.iv-p20.2"></span>[Rom.
-3:10-18](../../../bib/kjv/rom003.htm#010)<span
+3:10-18](../../../bib/kjv/rom003.htm#010.md)<span
 id="iv.ii.iv-p20.2"></span>). Thus he thunders not against certain
 individuals, but against the whole posterity of Adam—not against the
 depraved manners of any single age, but the perpetual corruption of
@@ -255,9 +255,9 @@ For, did the Lord let every mind loose to wanton in its lusts, doubtless
 there is not a man who would not show that his nature is capable of all
 the crimes with which Paul charges it (<span
 id="iv.ii.iv-p22.1"></span>[Rom.
-3](../../../bib/kjv/rom003.htm#000)<span id="iv.ii.iv-p22.1"></span>
+3](../../../bib/kjv/rom003.htm#000.md)<span id="iv.ii.iv-p22.1"></span>
 compared with <span id="iv.ii.iv-p22.2"></span>[Ps.
-14:3](../../../bib/kjv/psa014.htm#003)<span id="iv.ii.iv-p22.2"></span>,
+14:3](../../../bib/kjv/psa014.htm#003.md)<span id="iv.ii.iv-p22.2"></span>,
 &c). What? Can you exempt yourself from the number of those whose feet
 are swift to shed blood; whose hands are foul with rapine and murder;
 whose throats are like open sepulchres; whose tongues are deceitful;
@@ -323,11 +323,11 @@ is no zeal for the glory of God, and there is no such zeal in those whom
 he has not regenerated by his Spirit. Nor is it without good cause said
 in Isaiah, that on Christ should rest “the spirit of knowledge, and of
 the fear of the Lord,” (<span id="iv.ii.iv-p23.1"></span>[Isa.
-11:2](../../../bib/kjv/isa011.htm#002)<span
+11:2](../../../bib/kjv/isa011.htm#002.md)<span
 id="iv.ii.iv-p23.1"></span>); for by this we are taught that all who are
 strangers to Christ are destitute of that fear of God which is the
 beginning of wisdom (<span id="iv.ii.iv-p23.2"></span>[Ps.
-111:10](../../../bib/kjv/psa111.htm#010)<span
+111:10](../../../bib/kjv/psa111.htm#010.md)<span
 id="iv.ii.iv-p23.2"></span>). The virtues which deceive us by an empty
 show may have their praise in civil society and the common intercourse
 of life, but before the judgment-seat of God they will be of no value to
@@ -339,12 +339,12 @@ steadily pursue it. Every such movement is the first step in that
 conversion to God, which in Scripture is entirely ascribed to divine
 grace. Thus Jeremiah prays, “Turn thou me, and I shall be turned,”
 (<span id="iv.ii.iv-p24.1"></span>[Jer.
-31:18](../../../bib/kjv/jer031.htm#018)<span
+31:18](../../../bib/kjv/jer031.htm#018.md)<span
 id="iv.ii.iv-p24.1"></span>). Hence, too, in the same chapter,
 describing the spiritual redemption of believers, the Prophet says, “The
 Lord has redeemed Jacob, and ransomed him from the hand of him that was
 stronger than he,” (<span id="iv.ii.iv-p24.2"></span>[Jer.
-31:11](../../../bib/kjv/jer031.htm#011)<span
+31:11](../../../bib/kjv/jer031.htm#011.md)<span
 id="iv.ii.iv-p24.2"></span>); intimating how close the fetters are with
 which the sinner is bound, so long as he is abandoned by the Lord, and
 acts under the yoke of the devil. Nevertheless, there remains a will
@@ -408,7 +408,7 @@ Augustine delivered with the consent of all the godly, and which was
 afterwards shut up in the cloisters of monks for almost a thousand
 years. Lombard, by not knowing how to distinguish between necessity and
 compulsion, gave occasion to a pernicious error.16  <span
-id="fr_162"></span>[163](#fn_162)
+id="fr_162"></span>[163](#fn_162.md)
 
 <span id="iv.ii.iv-p26"></span>6. On the other hand, it may be proper to
 consider what the remedy is which divine grace provides for the
@@ -418,7 +418,7 @@ assistance will immediately make manifest its converse—viz. our penury.
 When the Apostle says to the Philippians, “Being confident of this very
 thing, that he which has begun a good work in you, will perform it until
 the day of Jesus Christ,” (<span id="iv.ii.iv-p26.1"></span>[Phil.
-1:6](../../../bib/kjv/phi001.htm#006)<span id="iv.ii.iv-p26.1"></span>),
+1:6](../../../bib/kjv/phi001.htm#006)<span id="iv.ii.iv-p26.1"></span>.md),
 there cannot be a doubt, that by the good work thus begun, he means the
 very commencement of conversion in the will. God, therefore, begins the
 good work in us by exciting in our hearts a desire, a love, and a study
@@ -433,8 +433,8 @@ the stony heart out of your flesh, and I will give you an heart of
 flesh. And I will put my Spirit within you, and cause you to walk in my
 statutes, and ye shall keep my judgments, and do them,” (<span
 id="iv.ii.iv-p26.2"></span>[Ezek.
-36:26](../../../bib/kjv/eze036.htm#026),
-[27](../../../bib/kjv/eze036.htm#027)<span id="iv.ii.iv-p26.2"></span>).
+36:26](../../../bib/kjv/eze036.htm#026.md),
+[27](../../../bib/kjv/eze036.htm#027)<span id="iv.ii.iv-p26.2"></span>.md).
 How can it be said that the weakness of the human will is aided so as to
 enable it to aspire effectually to the choice of good, when the fact is,
 that it must be wholly transformed and renovated? If there is any
@@ -454,16 +454,16 @@ but because it is turned from evil to good. This, I maintains is wholly
 the work of God, because, as the Apostle testifies, we are not
 “sufficient of ourselves to think any thing as of ourselves,” (<span
 id="iv.ii.iv-p26.3"></span>[2 Cor.
-3:5](../../../bib/kjv/co2003.htm#005)<span id="iv.ii.iv-p26.3"></span>).
+3:5](../../../bib/kjv/co2003.htm#005)<span id="iv.ii.iv-p26.3"></span>.md).
 Accordingly, he elsewhere says, not merely that God assists the weak or
 corrects the depraved will, but that he worketh in us to will (<span
 id="iv.ii.iv-p26.4"></span>[Phil.
-2:13](../../../bib/kjv/phi002.htm#013)<span
+2:13](../../../bib/kjv/phi002.htm#013.md)<span
 id="iv.ii.iv-p26.4"></span>). From this it is easily inferred, as I have
 said, that everything good in the will is entirely the result of grace.
 In the same sense, the Apostle elsewhere says, “It is the same God which
 worketh all in all,” (<span id="iv.ii.iv-p26.5"></span>[I Cor.
-12:6](../../../bib/kjv/co1012.htm#006)<span
+12:6](../../../bib/kjv/co1012.htm#006.md)<span
 id="iv.ii.iv-p26.5"></span>). For he is not there treating of universal
 government, but declaring that all the good qualities which believers
 possess are due to God. In using the term “all,” he certainly makes God
@@ -471,14 +471,14 @@ the author of spiritual life from its beginning to its end. This he had
 previously taught in different terms, when he said that there is “one
 Lord Jesus Christ, by whom are all things, and we by him,” (<span
 id="iv.ii.iv-p26.6"></span>[1 Cor.
-8:6](../../../bib/kjv/co1008.htm#006)<span id="iv.ii.iv-p26.6"></span>);
+8:6](../../../bib/kjv/co1008.htm#006)<span id="iv.ii.iv-p26.6"></span>.md);
 thus plainly extolling the new creation, by which everything of our
 common nature is destroyed. There is here a tacit antithesis between
 Adam and Christ, which he elsewhere explains more clearly when he says,
 “We are his workmanship, created in Christ Jesus unto good works, which
 God has before ordained that we should walk in them,” (<span
 id="iv.ii.iv-p26.7"></span>[Eph.
-2:10](../../../bib/kjv/eph002.htm#010)<span
+2:10](../../../bib/kjv/eph002.htm#010.md)<span
 id="iv.ii.iv-p26.7"></span>). His meaning is to show in this way that
 our salvation is gratuitous because the beginning of goodness is from
 the second creation which is obtained in Christ. If any, even the
@@ -493,7 +493,7 @@ regeneration, which is the commencement of the spiritual life, is
 obvious from the context, in which the next words are, “we are his
 people, and the sheep of his pasture,” (<span
 id="iv.ii.iv-p26.8"></span>[Psalm
-100:3](../../../bib/kjv/psa100.htm#003)<span
+100:3](../../../bib/kjv/psa100.htm#003.md)<span
 id="iv.ii.iv-p26.8"></span>). Not contented with simply giving God the
 praise of our salvation, he distinctly excludes us from all share in it,
 just as if he had said that not one particle remains to man as a ground
@@ -537,7 +537,7 @@ lib. 2 c. 18). In his First Book against Pelagius and Celestius,
 expounding the saying of Christ, “Every man therefore that has heard,
 and has learned of the Father, cometh unto me,” (<span
 id="iv.ii.iv-p27.2"></span>[John
-6:45](../../../bib/kjv/joh006.htm#045)<span
+6:45](../../../bib/kjv/joh006.htm#045.md)<span
 id="iv.ii.iv-p27.2"></span>), he says, “The will is aided not only so as
 to know what is to be done, but also to do what it knows.” And thus,
 when God teaches not by the letter of the Law, but by the grace of the
@@ -575,13 +575,13 @@ in one passage only. For he says in Jeremiah “I will give them one
 heart, and one way, that they may fear me for ever;” and a little after
 he says, “I will put my fear in their hearts, that they shall not depart
 from me,” (<span id="iv.ii.iv-p28.1"></span>[Jer.
-32:39](../../../bib/kjv/jer032.htm#039),
-[40](../../../bib/kjv/jer032.htm#040)<span id="iv.ii.iv-p28.1"></span>).
+32:39](../../../bib/kjv/jer032.htm#039.md),
+[40](../../../bib/kjv/jer032.htm#040)<span id="iv.ii.iv-p28.1"></span>.md).
 Again, in Ezekiel, “I will give them one heart, and I will put a new
 spirit within you; and I will take the stony heart out of their flesh,
 and will give them an heart of flesh,” (<span
 id="iv.ii.iv-p28.2"></span>[Ezek.
-11:19](../../../bib/kjv/eze011.htm#019)<span
+11:19](../../../bib/kjv/eze011.htm#019.md)<span
 id="iv.ii.iv-p28.2"></span>). He could not more clearly claim to
 himself, and deny to us, everything good and right in our will, than by
 declaring, that in our conversion there is the creation of a new spirit
@@ -593,19 +593,19 @@ again in so far as it is good, it is of God, and not of us.
 of the saints correspond. Thus Solomon prays that the Lord may “incline
 our hearts unto him, to walk in his ways, and keep his commandments”
 (<span id="iv.ii.iv-p29.1"></span>[1 Kings
-8:58](../../../bib/kjv/kg1008.htm#058)<span
+8:58](../../../bib/kjv/kg1008.htm#058.md)<span
 id="iv.ii.iv-p29.1"></span>); intimating that our heart is perverse, and
 naturally indulges in rebellion against the Divine law, until it be
 turned. Again, it is said in the Psalms, “Incline my heart unto thy
 testimonies,” (<span id="iv.ii.iv-p29.2"></span>[Ps.
-119:36](../../../bib/kjv/psa119.htm#036)<span
+119:36](../../../bib/kjv/psa119.htm#036.md)<span
 id="iv.ii.iv-p29.2"></span>). For we should always note the antithesis
 between the rebellious movement of the heart, and the correction by
 which it is subdued to obedience. David feeling for the time that he was
 deprived of directing grace, prays, “Create in me a clean heart, O God;
 and renew a right spirit within me,” (<span
 id="iv.ii.iv-p29.3"></span>[Ps.
-51:10](../../../bib/kjv/psa051.htm#010)<span
+51:10](../../../bib/kjv/psa051.htm#010.md)<span
 id="iv.ii.iv-p29.3"></span>). Is not this an acknowledgment that all the
 parts of the heart are full of impurity, and that the soul has received
 a twist, which has turned it from straight to crooked? And then, in
@@ -628,8 +628,8 @@ testimony which Christ has borne to the efficacy of his grace. “I,” said
 he, “am the true vine, and my Father is the husband man.” “As the branch
 cannot bear fruit of itself, except it abide in the vine; no more can
 ye, except ye abide in me,” (<span id="iv.ii.iv-p29.4"></span>[John
-15:1](../../../bib/kjv/joh015.htm#001),
-[4](../../../bib/kjv/joh015.htm#004)<span id="iv.ii.iv-p29.4"></span>).
+15:1](../../../bib/kjv/joh015.htm#001.md),
+[4](../../../bib/kjv/joh015.htm#004)<span id="iv.ii.iv-p29.4"></span>.md).
 If we can no more bear fruit of ourselves than a vine can bud when
 rooted up and deprived of moisture, there is no longer any room to ask
 what the aptitude of our nature is for good. There is no ambiguity in
@@ -648,15 +648,15 @@ when separated from him, we are nothing but dry, useless wood, because,
 when so separated, we have no power to do good, as he elsewhere says,
 “Every plant which my heavenly Father has not planted, shall be rooted
 up,” (<span id="iv.ii.iv-p29.5"></span>[Mt.
-15:13](../../../bib/kjv/mat015.htm#013)<span
+15:13](../../../bib/kjv/mat015.htm#013.md)<span
 id="iv.ii.iv-p29.5"></span>). Accordingly, in the passage already quoted
 from the Apostle Paul, he attributes the whole operation to God, “It is
 God which worketh in you both to will and to do of his good pleasure,”
 (<span id="iv.ii.iv-p29.6"></span>[Phil.
-2:13](../../../bib/kjv/phi002.htm#013)<span
+2:13](../../../bib/kjv/phi002.htm#013.md)<span
 id="iv.ii.iv-p29.6"></span>). The first part of a good work is the will,
 the second is vigorous effort in the doing of it.17  <span
-id="fr_163"></span>[164](#fn_163) God is the author of both. It is,
+id="fr_163"></span>[164](#fn_163.md) God is the author of both. It is,
 therefore, robbery from God to arrogate anything to ourselves, either in
 the will or the act. Were it said that God gives assistance to a weak
 will, something might be left us; but when it is said that he makes the
@@ -667,13 +667,13 @@ the contest, God supplies the persevering effort until the effect is
 obtained. Indeed, the Apostle could not otherwise have said, as he
 elsewhere does, that “it is the same God which worketh all in all,”
 (<span id="iv.ii.iv-p30.1"></span>[1 Cor.
-12:6](../../../bib/kjv/co1012.htm#006)<span
+12:6](../../../bib/kjv/co1012.htm#006.md)<span
 id="iv.ii.iv-p30.1"></span>); words comprehending, as we have already
 observed (sec. 6), the whole course of the spiritual life. For which
 reason, David, after praying, “Teach me thy way, O Lord, I will walk in
 thy truths” adds, “unite my heart to fear thy name,” (<span
 id="iv.ii.iv-p30.2"></span>[Ps.
-86:11](../../../bib/kjv/psa086.htm#011)<span
+86:11](../../../bib/kjv/psa086.htm#011.md)<span
 id="iv.ii.iv-p30.2"></span>); by these words intimating, that even those
 who are well-affected are liable to so many distractions that they
 easily become vain, and fall away, if not strengthened to persevere. And
@@ -681,7 +681,7 @@ hence, in another passage, after praying, “Order my steps in thy word,”
 he requests that strength also may be given him to carry on the war,
 “Let not any iniquity have dominion over me,” (<span
 id="iv.ii.iv-p30.3"></span>[Ps.
-119:133](../../../bib/kjv/psa119.htm#133)<span
+119:133](../../../bib/kjv/psa119.htm#133.md)<span
 id="iv.ii.iv-p30.3"></span>). In this way, the Lord both begins and
 perfects the good work in us, so that it is due to Him, first, that the
 will conceives a love of rectitude, is inclined to desire, is moved and
@@ -707,12 +707,12 @@ heart by his Spirit, and reign in it as his own possession. Ezekiel
 promises that a new spirit will be given to the elect, not merely that
 they may be able to walk in his precepts, but that they may really walk
 in them (<span id="iv.ii.iv-p31.1"></span>[Ezek.
-11:19](../../../bib/kjv/eze011.htm#019)<span
+11:19](../../../bib/kjv/eze011.htm#019.md)<span
 id="iv.ii.iv-p31.1"></span>; 36:27). And the only meaning which can be
 given to our Saviour’s words, “Every man, therefore, that has heard and
 learned of the Father, cometh unto me,” (<span
 id="iv.ii.iv-p31.2"></span>[John
-6:45](../../../bib/kjv/joh006.htm#045)<span
+6:45](../../../bib/kjv/joh006.htm#045.md)<span
 id="iv.ii.iv-p31.2"></span>), is, that the grace of God is effectual in
 itself. This Augustine maintains in his book De Prædestinatione Sancta.
 This grace is not bestowed on all promiscuously, according to the common
@@ -739,11 +739,11 @@ fact, that the hearts of believers are so effectually governed from
 above, that they follow with undeviating affection. “Whosoever is born
 of God does not commit sin; for his seed remaineth in him” (<span
 id="iv.ii.iv-p31.3"></span>[I John
-3:9](../../../bib/kjv/jo1003.htm#009)<span id="iv.ii.iv-p31.3"></span>).
+3:9](../../../bib/kjv/jo1003.htm#009)<span id="iv.ii.iv-p31.3"></span>.md).
 That intermediate movement which the sophists imagine, a movement which
 every one is free to obey or to reject, is obviously excluded by the
 doctrine of effectual perseverance.17  <span
-id="fr_164"></span>[165](#fn_164)
+id="fr_164"></span>[165](#fn_164.md)
 
 <span id="iv.ii.iv-p33"></span>11. As to perseverance, it would
 undoubtedly have been regarded as the gratuitous gift of God, had not
@@ -764,12 +764,12 @@ this effect are the sentences, “To him that has shall be given.” “Well
 done, good and faithful servant: thou hast been faithful over a few
 things, I will make thee ruler over many things,” (<span
 id="iv.ii.iv-p33.1"></span>[Matt.
-25:21](../../../bib/kjv/mat025.htm#021),
-[23](../../../bib/kjv/mat025.htm#023),
-[29](../../../bib/kjv/mat025.htm#029)<span id="iv.ii.iv-p33.1"></span>;
+25:21](../../../bib/kjv/mat025.htm#021.md),
+[23](../../../bib/kjv/mat025.htm#023.md),
+[29](../../../bib/kjv/mat025.htm#029.md)<span id="iv.ii.iv-p33.1"></span>;
 <span id="iv.ii.iv-p33.2"></span>[Luke
-19:17](../../../bib/kjv/luk019.htm#017),
-[26](../../../bib/kjv/luk019.htm#026)<span id="iv.ii.iv-p33.2"></span>).
+19:17](../../../bib/kjv/luk019.htm#017.md),
+[26](../../../bib/kjv/luk019.htm#026)<span id="iv.ii.iv-p33.2"></span>.md).
 But here two precautions are necessary. It must not be said that the
 legitimate use of the first grace is rewarded by subsequent measures of
 grace, as if man rendered the grace of God effectual by his own
@@ -794,7 +794,7 @@ nothing is left for the will to arrogate as its own. This Paul has
 expressly stated. For, after saying, “It is God which worketh in you
 both to will and to do,” he immediately adds, “of his good pleasure,”
 (<span id="iv.ii.iv-p33.3"></span>[Phil.
-2:13](../../../bib/kjv/phi002.htm#013)<span
+2:13](../../../bib/kjv/phi002.htm#013.md)<span
 id="iv.ii.iv-p33.3"></span>); indicating by this expression, that the
 blessing is gratuitous. As to the common saying, that after we have
 given admission to the first grace, our efforts co-operate with
@@ -813,7 +813,7 @@ God, I hold it to be a most pestilential delusion.
 ignorant and false application of the Apostle’s words: “I laboured more
 abundantly than they all: yet not I, but the grace of God which was with
 me,” (<span id="iv.ii.iv-p34.1"></span>[1 Cor.
-15:10](../../../bib/kjv/co1015.htm#010)<span
+15:10](../../../bib/kjv/co1015.htm#010.md)<span
 id="iv.ii.iv-p34.1"></span>). The meaning they give them is, that as
 Paul might have seemed to speak somewhat presumptuously in preferring
 himself to all the other apostles, he corrects the expression so far by
@@ -835,10 +835,10 @@ gifts from God, but not all gifts, seeing that the will which precedes
 is itself among the number.” He adds the reason, “for it is written,
 ‘the God of my mercy shall prevent me,’ (<span
 id="iv.ii.iv-p34.2"></span>[Ps.
-59:10](../../../bib/kjv/psa059.htm#010)<span
+59:10](../../../bib/kjv/psa059.htm#010.md)<span
 id="iv.ii.iv-p34.2"></span>), and ‘Surely goodness and mercy shall
 follow me,’ (<span id="iv.ii.iv-p34.3"></span>[Ps.
-23:6](../../../bib/kjv/psa023.htm#006)<span
+23:6](../../../bib/kjv/psa023.htm#006.md)<span
 id="iv.ii.iv-p34.3"></span>); it prevents him that is unwilling, and
 makes him willing; it follows him that is willing, that he may not will
 in vain.” To this Bernard assents, introducing the Church as praying
@@ -889,7 +889,7 @@ id="iv.ii.iv-p35.1"></span>Ep. 105<span id="iv.ii.iv-p35.1"></span>).
 <span id="iv.ii.iv-p36"></span>14. In saying elsewhere that the will is
 not taken away by grace, but out of bad is changed into good, and after
 it is good is assisted,—he only means, that man is not drawn as if by an
-extraneous impulse17  <span id="fr_165"></span>[166](#fn_165) without
+extraneous impulse17  <span id="fr_165"></span>[166](#fn_165.md) without
 the movement of the heart, but is inwardly affected so as to obey from
 the heart. Declaring that grace is given specially and gratuitously to
 the elect, he writes in this way to Boniface: “We know that Divine grace
@@ -925,7 +925,7 @@ all that ability from grace.
 
 ### Footnotes
 
-<span id="fn_162"></span>[163](inst037.htm#fr_162) <span
+<span id="fn_162"></span>[163](inst037.htm#fr_162.md) <span
 id="iv.ii.iv-p24.3"></span>
 
 <span id="iv.ii.iv-p25"></span>69 169 The French adds, “Qui a esté une
@@ -933,7 +933,7 @@ peste mortelle ˆ l’Eglise, d’estimer que l’homme pouvoit eviter le peché
 pource qu’il peche franchement;” Which has been a deadly pest to the
 Church—viz. that man could avoid sin, because he sins frankly.
 
-<span id="fn_163"></span>[164](inst037.htm#fr_163) <span
+<span id="fn_163"></span>[164](inst037.htm#fr_163.md) <span
 id="iv.ii.iv-p29.7"></span>
 
 <span id="iv.ii.iv-p30"></span>70 170 French, “La premiere partie des
@@ -941,7 +941,7 @@ bonnes œuvres est la volonté; l’autre est de s’efforcer a l’executer et
 le pouvoir faire.”—The first part of good works is the will; the second
 is the attempt to execute it, and the power to do so.
 
-<span id="fn_164"></span>[165](inst037.htm#fr_164) <span
+<span id="fn_164"></span>[165](inst037.htm#fr_164.md) <span
 id="iv.ii.iv-p31.4"></span>
 
 <span id="iv.ii.iv-p32"></span>71 171 The French is, “Nous voyons que ce
@@ -957,7 +957,7 @@ to him good. Such a reverie, I say, which is neither fish nor flesh, is
 excluded, when it is said that God makes us so persevere that we are in
 no danger of declining.
 
-<span id="fn_165"></span>[166](inst037.htm#fr_165) <span
+<span id="fn_165"></span>[166](inst037.htm#fr_165.md) <span
 id="iv.ii.iv-p36.1"></span>
 
 <span id="iv.ii.iv-p37"></span>72 172 French, “Come une pierre;”—like a
@@ -965,4 +965,4 @@ stone.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER 4. - HOW GOD WORKS IN THE HEARTS OF MEN.](inst038)
+[Next: CHAPTER 4. - HOW GOD WORKS IN THE HEARTS OF MEN.](inst038.md)

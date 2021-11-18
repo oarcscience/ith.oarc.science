@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray053)  [Next](pray055) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray053)  [Next](pray055.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ way, shows that our prayers have not been in vain. This is the meaning
 of the words of John, "If we know that he hear us, whatsoever we ask, we
 know that we have the petitions that we desired of him" (<span
 id="iii.lii-p1.1"></span>[1 John
-5:15](../../../bib/kjv/jo1005.htm#015)<span id="iii.lii-p1.1"></span>).
+5:15](../../../bib/kjv/jo1005.htm#015)<span id="iii.lii-p1.1"></span>.md).
 It might seem that there is here a great superfluity of words, but the
 declaration is most useful, namely, that God, even when he does not
 comply with our requests, yet listens and is favourable to our prayers,
@@ -44,7 +44,7 @@ us to extremes, and when driven allows us long to stick fast in the mire
 before he gives us any taste of his sweetness. As Hannah says, "The Lord
 killeth, and maketh alive; he bringeth down to the grave, and bringeth
 up" (<span id="iii.lii-p1.2"></span>[1 Samuel
-2:6](../../../bib/kjv/sa1002.htm#006)<span id="iii.lii-p1.2"></span>).
+2:6](../../../bib/kjv/sa1002.htm#006)<span id="iii.lii-p1.2"></span>.md).
 What could they here do but become dispirited and rush on despair, were
 they not, when afflicted, desolate, and half dead, comforted with the
 thought that they are regarded by God, and that there will be an end to
@@ -54,4 +54,4 @@ perseverance leads to no result.
 
 ------------------------------------------------------------------------
 
-[Next: Indexes](pray055)
+[Next: Indexes](pray055.md)

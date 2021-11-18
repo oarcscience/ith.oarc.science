@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr06)  [Next](arr08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr06)  [Next](arr08.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ success as his other somewhat more prosaic discoveries.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Paracelsus](arr08)
+[Next: Chapter V: Paracelsus](arr08.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](twi15)  [Next](twi17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](twi15)  [Next](twi17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Twilight*, by William Butler Yeats, \[1893, 1902\], at
 Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ went on, 'They are fine and dashing looking, like the men one sees
 riding their horses in twos and threes on the slopes of the mountains
 with their swords swinging.' She repeated over and over, 'There is no
 such race living now, none so finely proportioned,' or the like, and
-then said, 'The present Queen <span id="fr_6"></span>[1](#fn_6) is a
+then said, 'The present Queen <span id="fr_6"></span>[1](#fn_6.md) is a
 nice, pleasant-looking woman, but she is not like her. What makes me
 think so little of the ladies is that I see none as they be,' meaning as
 the spirits. 'When I think of her and of the ladies now, they are like
@@ -91,8 +91,8 @@ her 'beauty of all beauties.'
 
 ### Footnotes
 
-<span id="fn_6"></span>[99:1](twi16.htm#fr_6) Queen Victoria.
+<span id="fn_6"></span>[99:1](twi16.htm#fr_6.md) Queen Victoria.
 
 ------------------------------------------------------------------------
 
-[Next: Enchanted Woods](twi17)
+[Next: Enchanted Woods](twi17.md)

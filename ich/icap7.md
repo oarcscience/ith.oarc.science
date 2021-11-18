@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](icap6) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](icap6.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Treatise on the Hexagrams taken promiscuously, according to the
 opposition or diversity of their meaning.
 
 This last of the Appendixes is touched on very briefly in the concluding
-paragraph of the Introduction, [p. 55](icintr03.htm#page_55). It is
+paragraph of the Introduction, [p. 55](icintr03.htm#page_55.md). It is
 stated there to be in rhyme, and I have endeavoured to give a similar
 form to the following version of it. The rhymes and length of the lines
 in the original, however, are very irregular, and I found it impossible

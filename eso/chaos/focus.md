@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Esoteric and Occult](../index)  [Chaos
-Magic](index)
+[Sacred-Texts](../../index)  [Esoteric and Occult](../index.md)  [Chaos
+Magic](index.md)
 
 ------------------------------------------------------------------------
 

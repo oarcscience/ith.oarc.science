@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut33)  [Next](hut35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut33)  [Next](hut35.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXXI.
 
-### Formula of Medicine for Pregnant Women (Bear's Medicine.) <span id="fr_72"></span>[1](#fn_72)
+### Formula of Medicine for Pregnant Women (Bear's Medicine.) <span id="fr_72"></span>[1](#fn_72.md)
 
 <span id="page_277">p. 277</span>
 
@@ -21,7 +21,7 @@ She heard someone talking behind her. It said, "Put me in your mouth.
 You are in this condition for the sake of Indians."
 
 When she looked around she saw a single plant of redwood sorrel <span
-id="fr_73"></span>[1](#fn_73) standing there. She put it into her mouth.
+id="fr_73"></span>[1](#fn_73.md) standing there. She put it into her mouth.
 The next day she found she was able to walk. She thought, "It will be
 this way in the Indian world with this medicine. This will be my
 medicine. At best not many will know about me I will leave it in the
@@ -31,12 +31,12 @@ Indian world. They will talk to me with it."
 
 ### Footnotes
 
-<span id="fn_72"></span>[276:1](hut34.htm#fr_72) Told at Hupa, June
+<span id="fn_72"></span>[276:1](hut34.htm#fr_72.md) Told at Hupa, June
 1901, by Mary Marshall. This medicine is for the same purpose as the
 preceding, and may be used along with it or alternately.
 
-<span id="fn_73"></span>[277:1](hut34.htm#fr_73) *Oxalis Oregana*.
+<span id="fn_73"></span>[277:1](hut34.htm#fr_73.md) *Oxalis Oregana*.
 
 ------------------------------------------------------------------------
 
-[Next: XXXII. Formula of Medicine for Childbirth](hut35)
+[Next: XXXII. Formula of Medicine for Childbirth](hut35.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat14.htm#CV)  [Previous](satl104) 
-[Next](satl106) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat14.htm#CV)  [Previous](satl104.md) 
+[Next](satl106.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ aliquam fugitivos, quibus in odium bona sua venissent &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CVI](satl106)
+[Next: CVI](satl106.md)

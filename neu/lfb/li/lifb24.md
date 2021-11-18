@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb23)  [Next](lifb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb23)  [Next](lifb25.md) 
 
 </div>
 
@@ -269,6 +269,6 @@ From Z. Topelius.
 
 ------------------------------------------------------------------------
 
-[Next: The Stones of Plouhinec](lifb25)
+[Next: The Stones of Plouhinec](lifb25.md)
 
 </div>

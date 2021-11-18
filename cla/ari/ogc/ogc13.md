@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc12)  [Next](ogc14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc12)  [Next](ogc14.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ moist rather than by hot, and Fire by hot rather than by dry.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](ogc14)
+[Next: Chapter 4](ogc14.md)

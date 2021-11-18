@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index)  [Index](index) [Previous](safl01) [Next](safl03)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index)  [Index](index) [Previous](safl01) [Next](safl03.md)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ and other serious matters to one another; and I give it here as an
 example thereof.
 
 K<span class="small">IMTA NA</span>.<span
-id="page_119_fr_*"></span>[\*](#page_119_note_*)
+id="page_119_fr_*"></span>[\*](#page_119_note_*.md)
 
 |     |                                                                                                                                    |
 |-----|------------------------------------------------------------------------------------------------------------------------------------|
@@ -72,7 +72,7 @@ easily led as some people may have us suppose.
 
 ------------------------------------------------------------------------
 
-[Next](safl03)
+[Next](safl03.md)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ easily led as some people may have us suppose.
 
 <span id="footnotes_page_119">p. 119</span>
 
-<span id="page_119_note_*"></span>[\*](#page_119_fr_*) *Kimta na* is the
+<span id="page_119_note_*"></span>[\*](#page_119_fr_*.md) *Kimta na* is the
 name of the tune or tone of voice in which this legend is recited.
 
  

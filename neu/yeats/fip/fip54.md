@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip53)  [Next](fip55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip53)  [Next](fip55.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ it, or where will we go?" muttered Bill Doody, as he sat on a rock by
 the Lake of Killarney. "What will we do? Tomorrow's rent-day, and Tim
 the Driver swears if we don't pay our rent, he'll cant every *ha'perth*
 we have; and then sure enough, there's Judy and myself, and the poor
-*grawls*, <span id="fr_42"></span>[1](#fn_42) will be turned out to
+*grawls*, <span id="fr_42"></span>[1](#fn_42.md) will be turned out to
 starve on the high-road, for the never a halfpenny of rent have I!--Oh
 hone, that ever I should live to see this day!"
 
@@ -129,8 +129,8 @@ that fives down under the lake of Killarney.
 
 ### Footnotes
 
-<span id="fn_42"></span>[203:1](fip54.htm#fr_42) Children.
+<span id="fn_42"></span>[203:1](fip54.htm#fr_42.md) Children.
 
 ------------------------------------------------------------------------
 
-[Next: Loughleagh (Lake Of Healing)](fip55)
+[Next: Loughleagh (Lake Of Healing)](fip55.md)

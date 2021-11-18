@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo56)  [Next](hoo58) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo56)  [Next](hoo58.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ And make prolific holy fruits thy care.
 
 ------------------------------------------------------------------------
 
-[Next: LIII: To Silenus, Satyrus, and the Priestesses of Bacchus](hoo58)
+[Next: LIII: To Silenus, Satyrus, and the Priestesses of Bacchus](hoo58.md)

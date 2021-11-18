@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-04tx) [Next](dob-05tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-04tx) [Next](dob-05tx.md)
 
 ------------------------------------------------------------------------
 
@@ -39,8 +39,8 @@ went on to the city gate, and then to the surrounding suburbs, all in
 vain. So they each made over the kingdom to their respective ministers,
 and with a single attendant as charioteer, sallied forth into the world,
 
-{1. See, for instance, the notes above on [p. 33](dob-01tx.htm#p.%2033);
-and the remarks, in the [Introduction to the Amba*tth*a](dob-03in), on
+{1. See, for instance, the notes above on [p. 33](dob-01tx.htm#p.%2033.md);
+and the remarks, in the [Introduction to the Amba*tth*a](dob-03in.md), on
 the Agga*ññ*a Sutta.
 
 2\. No. 1 in vol. ii of the Pâli text in Prof. Fausböll's edition, and
@@ -351,7 +351,7 @@ soul as identical with the body, as existing only so long as the body
 exists, not continuing, after death, in a new condition and separate
 from the body. A very similar, if not indeed the very same view is also
 controverted in the Brahma-*g*âlla Sutta (above, [p.
-46](dob-01tx.htm#p.%2046)); and is constantly referred to throughout the
+46](dob-01tx.htm#p.%2046).md); and is constantly referred to throughout the
 Pi*t*akas under the stock phrase ta*m* *g*îva*m* ta*m* sarîra*m*{2}. But
 it is never called Lokâyata in the Pi*t*akas. It seems to be the view
 that there is a soul; but that it is diffused through the body, and dies
@@ -382,7 +382,7 @@ created? By
 {1. For instance in his commentary on the Brahma-Sûtra, I, 1, 2; II, 2,
 2; III, 3, 53.
 
-2\. For instance in the [Mahâli](dob-06tx) and [*G*âliya](dob-07tx)
+2\. For instance in the [Mahâli](dob-06tx) and [*G*âliya](dob-07tx.md)
 Suttas, both translated below.
 
 3\. Sum. I, 247. The Vita*nd*as are quoted and refuted in the Attha
@@ -616,4 +616,4 @@ translated by Prof. Cowell in the version published in 1882.}</span>
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: V. Kû*t*adanta Sutta](dob-05tx)
+[Return to top](#top)   [Next: V. Kû*t*adanta Sutta](dob-05tx.md)

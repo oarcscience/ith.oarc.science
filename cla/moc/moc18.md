@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc17)  [Next](moc19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc17)  [Next](moc19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ Symbol--Spirits in Weapons--The God of the Axe.
 the gods, the sacrifices and mysteries, are of Cretan origin, and other
 nations took them from them. Demeter passed from the Isle of Crete into
 Attica, then into Sicily, and thence into Egypt, carrying with her the
-cultivation of corn." <span id="fr_339"></span>[1](#fn_339)
+cultivation of corn." <span id="fr_339"></span>[1](#fn_339.md)
 
 On the other hand Herodotus, writing of the Pelasgi, says: "In early
 times the Pelasgi, as I know by information I got at Dodona, offered
@@ -47,7 +47,7 @@ arranged all things in such a beautiful order. After a long lapse of
 time, the names of the gods came to Greece from Egypt, and the Pelasgi
 learnt them, only as yet they knew nothing of Bacchus, of whom they
 first heard at a much later date. " <span
-id="fr_340"></span>[2](#fn_340)
+id="fr_340"></span>[2](#fn_340.md)
 
 <span id="page_294">p. 294</span>
 
@@ -104,19 +104,19 @@ references of this character there may be memories of ancient
 inter-state rivalries in Minoan Crete which survived into the Hellenic
 Period.
 
-Hesiod, <span id="fr_341"></span>[1](#fn_341) dealing with the Zeus
+Hesiod, <span id="fr_341"></span>[1](#fn_341.md) dealing with the Zeus
 birth-legend, relates that the goddess Rhea carried her babe to Lyttos.
 Other writers were familiar with the legend that Zeus was nursed in the
-Dictæan cave. Diodorus <span id="fr_342"></span>[2](#fn_342) apparently
+Dictæan cave. Diodorus <span id="fr_342"></span>[2](#fn_342.md) apparently
 endeavoured to reconcile the conflicting claims on behalf of the Dictæan
 and Idæan sanctuaries by stating that the god was first concealed in the
 one and then transferred to the other to be educated.
 
 According to Dionysius of Halicarnassus <span
-id="fr_343"></span>[3](#fn_343) it was the Dictæan cave which Minos
+id="fr_343"></span>[3](#fn_343.md) it was the Dictæan cave which Minos
 entered to receive from Zeus the code of Cretan laws. Lucian states that
 Europa, the mother of Minos, was carried thither by Zeus, his father,
-who had abducted her. <span id="fr_344"></span>[4](#fn_344)
+who had abducted her. <span id="fr_344"></span>[4](#fn_344.md)
 
 <span id="page_296">p. 296</span>
 
@@ -180,7 +180,7 @@ of it is ever flooded. "Water flowing in from the east has", writes Mr.
 Hogarth, "penetrated in two directions right and left. The main flow to
 southward has excavated an abyss, which falls at first sheer and then
 slopes steeply for some 200 feet in all to an icy pool, out of which
-rises a forest of stalactites." <span id="fr_345"></span>[1](#fn_345)
+rises a forest of stalactites." <span id="fr_345"></span>[1](#fn_345.md)
 
 Inside the cave were found portions of walls, a paved way, and bits of
 sawn marble an inch thick which may have covered it, an altar-like
@@ -217,7 +217,7 @@ upper Grot, to Candia. What I left under the care of the village
 (Psychro) officials included no fewer than 550 unbroken specimens of the
 common type of little wheel-made plain cup, all obviously new at the
 time they were deposited in the cave, and a great store of bones." <span
-id="fr_346"></span>[1](#fn_346)
+id="fr_346"></span>[1](#fn_346.md)
 
 The bronze figurines of human shape are of both sexes. They are usually
 posed in devotional attitudes, and may represent votaries or deities, or
@@ -325,7 +325,7 @@ clothing, a handkerchief, or a ribbon, and says a prayer, hoping to be
 cured thereby. . . . Witchcraft is common in Crete. Rags and dirty bits
 of stuff, into which the witches profess to have banished diseases, are
 constantly found in the walls of churches." <span
-id="fr_347"></span>[1](#fn_347) Here we have one reason why offerings
+id="fr_347"></span>[1](#fn_347.md) Here we have one reason why offerings
 were deposited in caves and thrown into the fire at Petsofa, near
 Palaikastro. The "wishers" affected a ceremonial connection with a
 sacred place to "switch on" the good influence and "switch off" the evil
@@ -350,7 +350,7 @@ raise to thee accompanied by the lyre and flute, standing round thy
 altar, O benefactor.
 
 In this place the Cured received thee, O immortal child, from the hands
-of thy mother Rhea." <span id="fr_348"></span>[1](#fn_348)
+of thy mother Rhea." <span id="fr_348"></span>[1](#fn_348.md)
 
 Evidently the cave-god of Crete, whom the Hellenes identified with their
 Zeus, was supposed to awake from his underworld sleep each year. In
@@ -388,7 +388,7 @@ trees and mountains. In Egypt it was believed by certain cults that the
 iron vault of heaven. was supported by two mountains. "Out of one
 mountain. came the sun every morning, and into the other he entered.
 every evening. The mountain of sunrise was called Bakhau, and the
-mountain of sunset Manu." <span id="fr_349"></span>[1](#fn_349) Another
+mountain of sunset Manu." <span id="fr_349"></span>[1](#fn_349.md) Another
 theory was that the sky rested on two pillars, and a later one, which
 obtained, however, before the pyramid texts; were inscribed, set forth
 that there were four pillars"--the pillars of Shu"--one at each cardinal
@@ -411,11 +411,11 @@ scorpion-man and a scorpion-woman.
 Their backs mount up to the rampart of heaven,  
 And their foreparts reach down beneath Arallu (the Under-world) . . .  
 From sunrise to sunset they guard the sun. <span
-id="fr_350"></span>[1](#fn_350)
+id="fr_350"></span>[1](#fn_350.md)
 
 There was a door on the cave, and Gilgamesh was allowed to pass through
 it to penetrate the dark tunnel leading to the Sea of Death, which only
-Shamash (the Sun) could cross. <span id="fr_351"></span>[2](#fn_351)
+Shamash (the Sun) could cross. <span id="fr_351"></span>[2](#fn_351.md)
 Gilgamesh was the first "opener of the way". Like the Indian Yama and
 the Egyptian Apuatu (Osiris) he discovered the path leading to Paradise,
 and discovered how mortals could be ferried over the dreaded sea.
@@ -439,10 +439,10 @@ resting on a bull's head, with spreading horns, on the summit of a
 standard.
 
 Ea, in one of the myths, built the world "as an architect builds a
-house". <span id="fr_352"></span>[1](#fn_352) According to the *Rigveda*
+house". <span id="fr_352"></span>[1](#fn_352.md) According to the *Rigveda*
 the Aryo-Indian god Indra similarly constructed the house of the
 universe, which appears to have been supported by the "world
-tree". <span id="fr_353"></span>[2](#fn_353) The world-supporting tree,
+tree". <span id="fr_353"></span>[2](#fn_353.md) The world-supporting tree,
 Ygdrasil, figures in Teutonic mythology. Mount Meru, the Indian Olympus,
 which supports the Paradise of Indra, is "the world spine". In Egypt the
 *ded* (*dad*, or *tet*) amulet is the spine of Osiris in his character
@@ -455,7 +455,7 @@ deceased, addressing Osiris, says: "Thy back (backbone) is thine, thou
 who art of the still heart (Osiris) . . . I bring unto thee the ded,
 whereupon thou rejoicest. These are the words to speak over a gilded
 *ded* made from the heart of the sycamore and placed on the neck of the
-glorified one." <span id="fr_354"></span>[3](#fn_354)
+glorified one." <span id="fr_354"></span>[3](#fn_354.md)
 
 The *ded* symbol is a pillar surmounted by four crossbars. Budge says
 that these bars "are intended to indicate the four branches of a
@@ -475,7 +475,7 @@ hieroglyphic signs of the city include two Osirian pillars with
 cross-bars. Here a great festival, which the Pharaoh attended, was held
 once a year, and observance was made of the solemn ceremony of setting
 up "the pillar symbol of the backbone of Osiris". <span
-id="fr_355"></span>[1](#fn_355) Like the amulet, the pillar may have
+id="fr_355"></span>[1](#fn_355.md) Like the amulet, the pillar may have
 been made from "the heart" of the sycamore tree.
 
 In his fusion with the world-god Ptah, Osiris was invariably represented
@@ -485,7 +485,7 @@ the *ded* cross-bars, and the *ankh* or life symbol.
 Bata, the hero of a well-known Egyptian folk-tale, who is evidently an
 early form of Osiris, exists for a time as a blossom on a tree-top, then
 as a bull, and then as two trees which grew up on either side of the
-entrance to the King's palace. <span id="fr_356"></span>[2](#fn_356)
+entrance to the King's palace. <span id="fr_356"></span>[2](#fn_356.md)
 
 It will thus be seen that the sacred pillar, tree, or mountain was the
 god, or the spine of the god, which supported the universe. As the
@@ -538,7 +538,7 @@ and disabling
 the eagle may have been connected with a similar belief.
 
 Sir Arthur Evans, who first threw light on the significance of the
-pillar and other symbols of Crete, <span id="fr_357"></span>[1](#fn_357)
+pillar and other symbols of Crete, <span id="fr_357"></span>[1](#fn_357.md)
 believes that tree and pillar worship in Palestine and Anatolia was
 "taken over from the older stock" by Semites and Hittites. A later
 infusion of Minoan ideas into Anatolia and Palestine was caused by the
@@ -560,7 +560,7 @@ Scandinavian legends the sacred tree supports the chief's dwelling.
 Sigmund, Volsung's son, draws from the house tree, called "Branstock",
 the magic sword which Odin thrust into it, saying: "He who draws the
 sword from the stock shall have it as a gift from me, and it will stand
-him in good stead". <span id="fr_358"></span>[2](#fn_358)
+him in good stead". <span id="fr_358"></span>[2](#fn_358.md)
 
 In Crete altars and tables of offerings were supported on pillars. On
 seals a columnar form was sometimes
@@ -591,16 +591,16 @@ shown covered with stars, formed the firmament. Her four legs were thus
 the sky pillars. Another belief was that the sky rested on the horns of
 the sacred animals. Thus we find a reference in the "Book of That which
 is in the Underworld" to the "Horn of the West", <span
-id="fr_359"></span>[1](#fn_359) apparently the same as the "pillar of
+id="fr_359"></span>[1](#fn_359.md) apparently the same as the "pillar of
 the west" and "Sunset-Hill". The sun-god Ra, who absorbed the attributes
 of all other deities, is referred to in the "Pyramid Texts" as the deity
 with "four horns, one toward each of the cardinal
 
 <span id="page_310">p. 310</span>
 
-points". <span id="fr_360"></span>[1](#fn_360) In Crete the horns were
+points". <span id="fr_360"></span>[1](#fn_360.md) In Crete the horns were
 of great ritual importance. "At times". Sir Arthur Evans writes, <span
-id="fr_361"></span>[2](#fn_361) "these have the appearance of being
+id="fr_361"></span>[2](#fn_361.md) "these have the appearance of being
 actually horns of oxen, but more generally they seem to be a
 conventional imitation of what must be regarded as unquestionably the
 original type-that is, a kind of impost or base terminating at the two
@@ -640,9 +640,9 @@ PILLAR AT KNOSSOS, INCISED WITH DOUBLE-AXE SYMBOLS
 <span id="page_311">p. 311</span>
 
 terrible weapon in its embodied form stay by the side of Arjuna of
-immeasurable energy." <span id="fr_362"></span>[1](#fn_362) Rama of the
+immeasurable energy." <span id="fr_362"></span>[1](#fn_362.md) Rama of the
 *Rámáyana* is adored by the spirits of his celestial weapons. <span
-id="fr_363"></span>[2](#fn_363) The Indian weapons were all named.
+id="fr_363"></span>[2](#fn_363.md) The Indian weapons were all named.
 
 That this belief goes back to Palæolithic times is suggested by the
 evidence of Egypt. "The common word given by the Egyptians to God, and
@@ -653,7 +653,7 @@ determinative of this word, and also as an ideograph, is the axe with a
 handle. The common word for goddess is Netert." Professor Budge shows
 that "from the texts wherein the hieroglyphics are coloured it is
 tolerably clear that the axe head was fastened to its handle by means of
-thongs of leather". <span id="fr_364"></span>[3](#fn_364) As holes were
+thongs of leather". <span id="fr_364"></span>[3](#fn_364.md) As holes were
 bored in axes at an early period, Mr. Legge considers that the
 fastenings indicate that the symbolic use of the axe "goes back to the
 Neolithic and perhaps the Palæolithic Age". He adds: "It is now, I
@@ -665,7 +665,7 @@ material object to which he offered worship". An axe is worshipped by a
 priest in Chaldæan garb on an Assyrian agate cylinder. The axe also
 appears as a symbol "in the prehistoric remains of the funereal caves of
 the Marne, of Scandinavia and America". <span
-id="fr_365"></span>[4](#fn_365) We have already alluded to its
+id="fr_365"></span>[4](#fn_365.md) We have already alluded to its
 appearance on the standing-stones of Brittany, and to
 
 <span id="page_312">p. 312</span>
@@ -674,14 +674,14 @@ the theory that Labyrinth is derived from *Labrys*, "the axe". Professor
 Maspero shows that in Egyptian "a town *neterit* is 'a divine town'; an
 arm *neteri* is 'a divine arm'". He adds that "*neteri* is employed
 metaphorically in Egyptian as is 'divine' in French". <span
-id="fr_366"></span>[1](#fn_366)
+id="fr_366"></span>[1](#fn_366.md)
 
 Votive axes, too small for use, have been found in Cretan graves and
 sanctuaries. The earliest form was the single flat axe: the
 double-headed axe was first made after copper came into use. Mosso gives
 interesting particulars regarding votive axes found on the Continent.
 Some of these are of a friable sandstone, and could have served no
-practical purpose. <span id="fr_367"></span>[2](#fn_367) Small axes,
+practical purpose. <span id="fr_367"></span>[2](#fn_367.md) Small axes,
 which were pierced for suspension, were used as charms in Malta and
 elsewhere. The sacred axe survives to the present day in the Congo.
 
@@ -689,89 +689,89 @@ elsewhere. The sacred axe survives to the present day in the Congo.
 
 ### Footnotes
 
-<span id="fn_339"></span>[293:1](moc18.htm#fr_339) *Diodorus Siculus*,
+<span id="fn_339"></span>[293:1](moc18.htm#fr_339.md) *Diodorus Siculus*,
 V. 77.
 
-<span id="fn_340"></span>[293:2](moc18.htm#fr_340) *Herodotus*, II, 52.
+<span id="fn_340"></span>[293:2](moc18.htm#fr_340.md) *Herodotus*, II, 52.
 
-<span id="fn_341"></span>[295:1](moc18.htm#fr_341) *Theog*., V, 477.
+<span id="fn_341"></span>[295:1](moc18.htm#fr_341.md) *Theog*., V, 477.
 
-<span id="fn_342"></span>[295:2](moc18.htm#fr_342) V, 170.
+<span id="fn_342"></span>[295:2](moc18.htm#fr_342.md) V, 170.
 
-<span id="fn_343"></span>[295:3](moc18.htm#fr_343) *Ant. Rom*., II, 61.
+<span id="fn_343"></span>[295:3](moc18.htm#fr_343.md) *Ant. Rom*., II, 61.
 
-<span id="fn_344"></span>[295:4](moc18.htm#fr_344) *Dial. Mar*., XV, 3.
+<span id="fn_344"></span>[295:4](moc18.htm#fr_344.md) *Dial. Mar*., XV, 3.
 
-<span id="fn_345"></span>[297:1](moc18.htm#fr_345) *Annual of the
+<span id="fn_345"></span>[297:1](moc18.htm#fr_345.md) *Annual of the
 British School at Athens*, VI, 96.
 
-<span id="fn_346"></span>[298:1](moc18.htm#fr_346) Annual of the British
+<span id="fn_346"></span>[298:1](moc18.htm#fr_346.md) Annual of the British
 School at Athens, VI, p. 101.
 
-<span id="fn_347"></span>[301:1](moc18.htm#fr_347) *The Palaces of Crete
+<span id="fn_347"></span>[301:1](moc18.htm#fr_347.md) *The Palaces of Crete
 and their Builders*, pp. 200-1.
 
-<span id="fn_348"></span>[302:1](moc18.htm#fr_348) *Palaces of Crete and
+<span id="fn_348"></span>[302:1](moc18.htm#fr_348.md) *Palaces of Crete and
 their Builders*, A. Mosso, pp. 201, 202.
 
-<span id="fn_349"></span>[303:1](moc18.htm#fr_349) *The Gods of the
+<span id="fn_349"></span>[303:1](moc18.htm#fr_349.md) *The Gods of the
 Egyptians*, E. Wallis Budge, Vol. I, pp. 156, 157
 
-<span id="fn_350"></span>[304:1](moc18.htm#fr_350) King's *Babylonian
+<span id="fn_350"></span>[304:1](moc18.htm#fr_350.md) King's *Babylonian
 Religion*, p. 166.
 
-<span id="fn_351"></span>[304:2](moc18.htm#fr_351) *Babylonian Myth and
+<span id="fn_351"></span>[304:2](moc18.htm#fr_351.md) *Babylonian Myth and
 Legend*, p. 177.
 
-<span id="fn_352"></span>[305:1](moc18.htm#fr_352) *Jastrow's Religious
+<span id="fn_352"></span>[305:1](moc18.htm#fr_352.md) *Jastrow's Religious
 Belief in Babylonia and Assyria*, p. 88.
 
-<span id="fn_353"></span>[305:2](moc18.htm#fr_353) *Indian Myth and
+<span id="fn_353"></span>[305:2](moc18.htm#fr_353.md) *Indian Myth and
 Legend*, p. 10.
 
-<span id="fn_354"></span>[305:3](moc18.htm#fr_354) *Religion of the
+<span id="fn_354"></span>[305:3](moc18.htm#fr_354.md) *Religion of the
 Ancient Egyptians*, A. Wiedemann, p. 290.
 
-<span id="fn_355"></span>[306:1](moc18.htm#fr_355) Budge's *Gods of the
+<span id="fn_355"></span>[306:1](moc18.htm#fr_355.md) Budge's *Gods of the
 Egyptians*, Vol. II, p. 122.
 
-<span id="fn_356"></span>[306:2](moc18.htm#fr_356) *Egyptian Myth and
+<span id="fn_356"></span>[306:2](moc18.htm#fr_356.md) *Egyptian Myth and
 Legend*, pp. 53 *et seq*.
 
-<span id="fn_357"></span>[308:1](moc18.htm#fr_357) "Mycenæan Tree and
+<span id="fn_357"></span>[308:1](moc18.htm#fr_357.md) "Mycenæan Tree and
 Pillar Cult and its Mediterranean Relations". in *The Journal of
 Hellenic Studies*, Vol. XXI, pp. 99 *et seq*.
 
-<span id="fn_358"></span>[308:2](moc18.htm#fr_358) *Teutonic Myth and
+<span id="fn_358"></span>[308:2](moc18.htm#fr_358.md) *Teutonic Myth and
 Legend*, pp. 289 *et seq*.
 
-<span id="fn_359"></span>[309:1](moc18.htm#fr_359) *The Gods of the
+<span id="fn_359"></span>[309:1](moc18.htm#fr_359.md) *The Gods of the
 Egyptians*, Vol. I, p. 205.
 
-<span id="fn_360"></span>[310:1](moc18.htm#fr_360) *Development of
+<span id="fn_360"></span>[310:1](moc18.htm#fr_360.md) *Development of
 Religion and Thought in Ancient Egypt*, J. H. Breasted, p. 116.
 
-<span id="fn_361"></span>[310:2](moc18.htm#fr_361) *Journal of Hellenic
+<span id="fn_361"></span>[310:2](moc18.htm#fr_361.md) *Journal of Hellenic
 Studies*, Vol. XXI, p. 135 et seq.
 
-<span id="fn_362"></span>[311:1](moc18.htm#fr_362) "Vana Parva" section
+<span id="fn_362"></span>[311:1](moc18.htm#fr_362.md) "Vana Parva" section
 (Roy's translation), p. 127.
 
-<span id="fn_363"></span>[311:2](moc18.htm#fr_363) *Indian Myth and
+<span id="fn_363"></span>[311:2](moc18.htm#fr_363.md) *Indian Myth and
 Legend*, pp. 256 and 381.
 
-<span id="fn_364"></span>[311:3](moc18.htm#fr_364) *The Gods of the
+<span id="fn_364"></span>[311:3](moc18.htm#fr_364.md) *The Gods of the
 Egyptians*, E. Wallis Budge, Vol. I, pp. 63 *et seq*.
 
-<span id="fn_365"></span>[311:4](moc18.htm#fr_365) *Proceedings of the
+<span id="fn_365"></span>[311:4](moc18.htm#fr_365.md) *Proceedings of the
 Society of Biblical Archæology*, Vol. XXI, pp. 310, 311.
 
-<span id="fn_366"></span>[312:1](moc18.htm#fr_366) *Etudes de Mythologie
+<span id="fn_366"></span>[312:1](moc18.htm#fr_366.md) *Etudes de Mythologie
 et d'Archéologie Egyptiennes*, Tome II, p. 215.
 
-<span id="fn_367"></span>[312:2](moc18.htm#fr_367) *The Dawn of
+<span id="fn_367"></span>[312:2](moc18.htm#fr_367.md) *The Dawn of
 Mediterranean Civilization*, pp. 132 *et seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Decline of Crete and Rise of Greece](moc19)
+[Next: Chapter XIV. Decline of Crete and Rise of Greece](moc19.md)

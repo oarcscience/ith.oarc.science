@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft52)  [Next](efft54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft52)  [Next](efft54.md) 
 
 ------------------------------------------------------------------------
 
-# BETTY CHIDLEY THE WITCH  <span id="fr_61"></span>[1](#fn_61)
+# BETTY CHIDLEY THE WITCH  <span id="fr_61"></span>[1](#fn_61.md)
 
 A FAMILY of the name of Ambler occupied a farm a Wilderley, near
 Pulverbatch, and in a little cottage in a neighbouring dale lived an old
@@ -44,9 +44,9 @@ had it from her great-aunt, one of their daughters.
 
 ### Footnotes
 
-<span id="fn_61"></span>[1](efft53.htm#fr_61) Miss C. S. Burne,
+<span id="fn_61"></span>[1](efft53.htm#fr_61.md) Miss C. S. Burne,
 *Shropshire Folk-Lore*, p. 151.
 
 ------------------------------------------------------------------------
 
-[Next: The Bag of Flour](efft54)
+[Next: The Bag of Flour](efft54.md)

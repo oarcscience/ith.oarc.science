@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob15) 
-[Next](tob17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob15.md) 
+[Next](tob17.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob15) 
 
 <span id="img_wiar03"></span>
 
-![THE EMPRESS.](img/wiar03.jpg)  
+![THE EMPRESS.](img/wiar03.jpg.md)  
 THE EMPRESS.
 
    <span id="img_msar03"></span>
 
-![THE EMPRESS.](img/msar03.jpg)  
+![THE EMPRESS.](img/msar03.jpg.md)  
 THE EMPRESS.
 
 3\. ג
@@ -168,4 +168,4 @@ to the other.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Emperor](tob17)
+[Next: 4. The Emperor](tob17.md)

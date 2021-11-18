@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio33)  [Next](dio35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio33)  [Next](dio35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Apostle and Evangelist, imprisoned in the Isle of Patmos.*
 one! and this for me is more appropriate than for most. Hail! O truly
 beloved! And to the truly Loveable and Desired, very beloved! Why should
 it be a marvel, if Christ speaks truly, and the unjust banish His
-disciples from their cities <span id="fr_133"></span>[134](#fn_133) ,
+disciples from their cities <span id="fr_133"></span>[134](#fn_133.md) ,
 themselves bringing upon themselves their due, and the accursed severing
 themselves, and departing from the holy. Truly <span id="page_179">p.
 179</span> <span id="ii.iv.ii.x-Page_179"></span> things seen are
@@ -59,11 +59,11 @@ imitations of the good God, and will transmit them to those after you.
 
 ### Footnotes
 
-<span id="fn_133"></span>[178:134](dio34.htm#fr_133) <span
+<span id="fn_133"></span>[178:134](dio34.htm#fr_133.md) <span
 id="ii.iv.ii.x-p2.1"></span><span id="ii.iv.ii.x-p2.2"></span>[Matt.
-xxiii. 34](../../bib/kjv/mat023.htm#034)<span
+xxiii. 34](../../bib/kjv/mat023.htm#034.md)<span
 id="ii.iv.ii.x-p2.2"></span>.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XI. Dionysius to Apollophanes, Philosopher.](dio35)
+[Next: Letter XI. Dionysius to Apollophanes, Philosopher.](dio35.md)

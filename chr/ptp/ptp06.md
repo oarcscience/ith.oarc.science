@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp05)  [Next](ptp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp05)  [Next](ptp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -283,7 +283,7 @@ deacon Gregory, who finally persuaded the Emperor, now Maurice, to
 answer the Pope's pleas with the despatch of a relief expedition. The
 many tasks involving the defense and well being of temporal Rome were
 not the only occupations of Pelagius II. He strove to preserve and
-improve [hierarchal](errata.htm#1) harmony and when certain bishops
+improve [hierarchal](errata.htm#1.md) harmony and when certain bishops
 threatened
 
 <span id="page_45">p. 45</span>
@@ -366,4 +366,4 @@ March, 604.
 
 ------------------------------------------------------------------------
 
-[Next: Seventh Century](ptp07)
+[Next: Seventh Century](ptp07.md)

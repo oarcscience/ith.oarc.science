@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb41)  [Next](gnfb43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb41)  [Next](gnfb43.md) 
 
 </div>
 
@@ -390,6 +390,6 @@ Grimm.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Musicians](gnfb43)
+[Next: The Three Musicians](gnfb43.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bof05)  [Next](bof07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bof05)  [Next](bof07.md) 
 
 ------------------------------------------------------------------------
 
@@ -989,4 +989,4 @@ The Mystery of Death
 
 ------------------------------------------------------------------------
 
-[Next: Fetches](bof07)
+[Next: Fetches](bof07.md)

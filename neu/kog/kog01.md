@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog00)  [Next](kog02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog00)  [Next](kog02.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ LONDON, *October* 1917.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](kog02)
+[Next: Contents](kog02.md)

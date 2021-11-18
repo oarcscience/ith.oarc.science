@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft17)  [Next](eft19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft17)  [Next](eft19.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,7 +103,7 @@ came the third great feat was finished, and he had the young daughter in
 marriage. But, oh dear! there was worse to come yet.
 
 <span id="img_046"></span> [![](tn/046.jpg)  
-Click to enlarge](img/046.jpg)
+Click to enlarge](img/046.jpg.md)
 
 The gentleman now made a large hunting party, and invited all the
 gentlemen around the country to it, and to see the castle as well. And
@@ -214,7 +214,7 @@ out with it, laughing his best. 'Have you got it?' Jack said to him. He
 said: 'Yes'; and off they went back again, and left the castle behind.
 
 <span id="img_047"></span> [![](tn/047.jpg)  
-Click to enlarge](img/047.jpg)
+Click to enlarge](img/047.jpg.md)
 
 As they were all of them (Jack, mouse, frog and eagle) passing over the
 great sea, they fell to quarrelling about which it was that got the
@@ -304,4 +304,4 @@ happy ever afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Three Bears](eft19)
+[Next: The Story of the Three Bears](eft19.md)

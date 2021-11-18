@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm36)  [Next](bcm38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm36)  [Next](bcm38.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_138">p. 138</span>
 
 <span id="img_13800"></span> [![](tn/generic.jpg)  
-Click to view](img/13800.jpg)  
+Click to view](img/13800.jpg.md)  
 DEVIL FROM HEARNE'S PRINT OF THE "DESCENT INTO HELL."  
 *Engraved by Michael Burghers*, c. 1676.
 
@@ -24,13 +24,13 @@ and religious rites, and the counsels, spiritual and moral, which are
 found in its instructions are, in their meagre and puerile way, the
 vulgarised counsels of perfection, whatever element of sovereign
 contra-reason may obtain in its experiments. <span
-id="fr_66"></span>[1](#fn_66) The Composite Rituals, despite the result
+id="fr_66"></span>[1](#fn_66.md) The Composite Rituals, despite the result
 of their analysis, also partake largely of the nature of substituted
 religious observances, at times Judaistic, at times Christian. In both
 cases this fact is readily intelligible; to communicate with the fabled
 Spirits of the Firmament and to practise an art which offers to its
 adepts the regeneration of Enoch, King of the Inferior World, <span
-id="fr_67"></span>[2](#fn_67) "who was not, for God took him," may well
+id="fr_67"></span>[2](#fn_67.md) "who was not, for God took him," may well
 demand a high degree of sanctity from its candidate, to whatever ends it
 may lead him; while to dominate the so-called Spirits of the Elements,
 the Kabalistic *Kliphoth* and the Evil Demons, it is reasonable to
@@ -39,7 +39,7 @@ assume that the
 <span id="page_140">p. 140</span>
 
 \[paragraph continues\] Magus must be free from common weakness, from
-common vice <span id="fr_68"></span>[1](#fn_68) and must be fortified by
+common vice <span id="fr_68"></span>[1](#fn_68.md) and must be fortified by
 the grace and favour of the superior world. Given the magical standpoint
 in each case, the conditions essential to operation seem, in this
 respect, above challenge. Its recommendations, however, were more
@@ -59,12 +59,12 @@ indifferently whether the purpose of the operator be otherwise lawful or
 not.
 
 The Divine Love, says the book of *True Black Magic*, <span
-id="fr_69"></span>[2](#fn_69) must precede the acquisition of the
+id="fr_69"></span>[2](#fn_69.md) must precede the acquisition of the
 Science of Solomon, son of King David, who said: The beginning and Key
 of my Wisdom are the fear of God, to do Him honour, to adore Him with
 great contrition of heart, and to invoke His aid in all our intentions
 and aspirations; which fulfilling, God will lead us into the good
-way. <span id="fr_70"></span>[3](#fn_70)
+way. <span id="fr_70"></span>[3](#fn_70.md)
 
 To account for this anomaly it is insufficient to say that
 
@@ -78,7 +78,7 @@ derive least of all from the Clavicles, namely, that of Honorius, and
 that called the *Grand Grimoire*. To meditate continually on the
 undertaking and to centre every hope in the infinite goodness of the
 Great Adonai, is the rule established by the latter as the first
-principle of success. <span id="fr_71"></span>[1](#fn_71)
+principle of success. <span id="fr_71"></span>[1](#fn_71.md)
 
 Nor does the insensate nature of the processes of Black Magic offer
 explanation by itself. The attempt to propitiate the Deity by means of
@@ -87,13 +87,13 @@ assistance for the successful consummation of hideous offences and
 preposterous or impossible undertakings, is, of course, madness; for the
 God acknowledged and invoked by Goëtic Magic is not the Principle of
 Evil, as the myth of Modern Satanism supposes, <span
-id="fr_72"></span>[2](#fn_72) but the "terrible and venerable Deity" Who
+id="fr_72"></span>[2](#fn_72.md) but the "terrible and venerable Deity" Who
 destroyed the power of the rebellious angels--alternatively the Jehovah
 of the Jewish rituals and the Trinity of the Christian magical cycle.
 The insane observance followed in reality from the interpretation placed
 by Goëtic Theurgy on the fundamental doctrine of Practical Magic,
 namely, the power of Divine words to compel the obedience of all spirits
-to those who could pronounce them. <span id="fr_73"></span>[3](#fn_73)
+to those who could pronounce them. <span id="fr_73"></span>[3](#fn_73.md)
 
 <span id="page_142">p. 142</span>
 
@@ -119,7 +119,7 @@ order to do evil.
 
 ### Footnotes
 
-<span id="fn_66"></span>[139:1](bcm37.htm#fr_66) The analysis of the
+<span id="fn_66"></span>[139:1](bcm37.htm#fr_66.md) The analysis of the
 *Arbatel of Magic* in Part I. establishes this point, but the following
 passages may be cited in support of the statement. "In all things call
 upon the Name Of the Lord, and without prayer unto God, through His
@@ -129,24 +129,24 @@ Aph. 2. "Let the word of God never depart from thy mouth." *Ib*. Aph. 3.
 *Ib*. Aph. 11. "Before all things, be watchful in this, that your name
 be written in heaven." *Ib*.
 
-<span id="fn_67"></span>[139:2](bcm37.htm#fr_67) The secret of this
+<span id="fn_67"></span>[139:2](bcm37.htm#fr_67.md) The secret of this
 Regeneration is promised to the adept in *Arbatel*, Aph. 24.
 
-<span id="fn_68"></span>[140:1](bcm37.htm#fr_68) "To overcome and
+<span id="fn_68"></span>[140:1](bcm37.htm#fr_68.md) "To overcome and
 subjugate the elementary spirits, we must never yield to their
 characteristic defects. . . . In a word, we must overcome them in their
 strength without ever being overcome by their weaknesses."--Éliphas
 Lévi, *Rituel de la Haute Magie*, c. 4.
 
-<span id="fn_69"></span>[140:2](bcm37.htm#fr_69) Book I. c. 1.
+<span id="fn_69"></span>[140:2](bcm37.htm#fr_69.md) Book I. c. 1.
 
-<span id="fn_70"></span>[140:3](bcm37.htm#fr_70) An adapted rendering of
+<span id="fn_70"></span>[140:3](bcm37.htm#fr_70.md) An adapted rendering of
 *The Key of Solomon*, Book I. c. 1.
 
-<span id="fn_71"></span>[141:1](bcm37.htm#fr_71) *Grand Grimoire*, Book
+<span id="fn_71"></span>[141:1](bcm37.htm#fr_71.md) *Grand Grimoire*, Book
 I. c. i.
 
-<span id="fn_72"></span>[141:2](bcm37.htm#fr_72) To do evil because it
+<span id="fn_72"></span>[141:2](bcm37.htm#fr_72.md) To do evil because it
 is pleasing to the Prince of Evil did not enter into the conception of
 Sorcery. Refinements of this kind are of late date, and mostly of French
 invention. The sorcerer who sought to do evil and had recourse for
@@ -155,7 +155,7 @@ merely to his own propensities for lust, wealth or revenge. He used
 Satan as an instrument, treated him and his inferiors as slaves, and
 always reckoned ultimately to elude the dangers of such dealings.
 
-<span id="fn_73"></span>[141:3](bcm37.htm#fr_73) The doctrine is
+<span id="fn_73"></span>[141:3](bcm37.htm#fr_73.md) The doctrine is
 summarised in a sentence by Éliphas Lévi, when he declares that the
 virtue of things has created words. Cornelius Agrippa refers it to
 Platonic teaching, affirming that a certain power or life belonging to
@@ -167,4 +167,4 @@ doctrine that the form comes first from the idea. *Ibid*., c. 13.
 
 ------------------------------------------------------------------------
 
-[Next: Section 2: Concerning. Fortitude](bcm38)
+[Next: Section 2: Concerning. Fortitude](bcm38.md)

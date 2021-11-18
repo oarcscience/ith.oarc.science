@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](cig03)  [Next](cig05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](cig03)  [Next](cig05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Coffee in the Gourd*, ed. J. Frank Dobie \[1923\], at Intangible
 Textual Heritage
 
@@ -139,6 +139,6 @@ range.
 
 ------------------------------------------------------------------------
 
-[Next: One Evening As I Sat Courting, by L.W. Payne. Jr.](cig05)
+[Next: One Evening As I Sat Courting, by L.W. Payne. Jr.](cig05.md)
 
 </div>

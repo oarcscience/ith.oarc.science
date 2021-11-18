@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks07)  [Next](lks09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks07)  [Next](lks09.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 This is the Form of the Magical Circle of King Solomon, the which he
 made that he might preserve himself therein from the malice of these
 Evil Spirits. (See *Frontispiece, Figure* 153 <span
-id="img_fig153-4"></span> [![](tn/generic.jpg)](img/fig153-4.jpg)) This
+id="img_fig153-4"></span> [![](tn/generic.jpg)](img/fig153-4.jpg).md) This
 Magical Circle is to be made 9 feet across, and the Divine Names are to
 be written around it, beginning at EHYEH, and ending at LEVANAH, Luna.
 
@@ -22,13 +22,13 @@ D, O, N, A, I, appear are filled in with bright yellow, the centres,
 where the T-shaped crosses are, blue or green. In the Pentagrams outside
 the circle, the outer triangles where "Te, tra, gram, ma, ton," is
 written, are filled in bright yellow, and the centres with the T crosses
-written therein are red. <span id="fr_30"></span>[1](#fn_30))
+written therein are red. <span id="fr_30"></span>[1](#fn_30).md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_30"></span>[49:1](lks08.htm#fr_30) The coiled serpent is
+<span id="fn_30"></span>[49:1](lks08.htm#fr_30.md) The coiled serpent is
 only shown in one private codex, the Hebrew names being in most cases
 simply written round in a somewhat spiral arrangement within the double
 circle. It is to be remembered that Hebrew is always written from right
@@ -51,4 +51,4 @@ Levanah S. of the Moon ✠.
 
 ------------------------------------------------------------------------
 
-[Next: The Magical Triangle Of Solomon](lks09)
+[Next: The Magical Triangle Of Solomon](lks09.md)

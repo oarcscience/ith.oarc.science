@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac42)  [Next](ybac44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac42)  [Next](ybac44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ although they began their year in July, I put their calendar here in the
 order of ours, and parallel, so that our letters and theirs will come
 noted, our months and theirs, together with their above-mentioned count
 of the thirteens, placed in the order of their progression. <span
-id="fr_37"></span>[\*](#fn_37)
+id="fr_37"></span>[\*](#fn_37.md)
 
 <span id="page_69">p. 69</span>
 
@@ -94,7 +94,7 @@ fuissemus*.
 
 ### Footnotes
 
-<span id="fn_37"></span>[68:\*](ybac43.htm#fr_37) In the pages
+<span id="fn_37"></span>[68:\*](ybac43.htm#fr_37.md) In the pages
 following, the manuscript sets out in full each of the successive 365
 days, <span id="page_69">p. 69</span> with the names and character
 together; with each it gives the day of the European month, and also the
@@ -126,4 +126,4 @@ arrange the calendar in Maya form, beginning with the month **Pop’**.
 
 ------------------------------------------------------------------------
 
-[Next: XL. Months and Festivals of the Yucatecan Calendar](ybac44)
+[Next: XL. Months and Festivals of the Yucatecan Calendar](ybac44.md)

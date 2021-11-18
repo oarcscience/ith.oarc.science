@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl06)  [Next](irl08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl06)  [Next](irl08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -90,7 +90,7 @@ from the control rays which took root in every heart. It came to me,
 too: and I was a Nor-man now, no matter what I had been before!
 
 Then Vanue's thought flashed out, setting the thought cloud <span
-id="fr_25"></span>[26](#fn_25) areas into coruscation with an alarm, a
+id="fr_25"></span>[26](#fn_25.md) areas into coruscation with an alarm, a
 command to attention. I was brought out of my daze to see my own thought
 record projected in the thought clouds. I saw once again, as real as the
 first time I had seen it, the fear on the faces of the six-armed Sybyl
@@ -130,7 +130,7 @@ Vanue, Elder of Van of Nor, was proud of her ro!
 The actual conference of the Godheads took place now in thought
 projections in the thought-cloud area. I saw that any thought, no matter
 how abstract, could be projected in these clouds by thought
-augmentors. <span id="fr_26"></span>[27](#fn_26) They used an image
+augmentors. <span id="fr_26"></span>[27](#fn_26.md) They used an image
 language instead of words, and their talk was to me but a whirlwind of
 changing forms, faces, geometrical figures, maps of space and figures on
 orbits and many
@@ -185,7 +185,7 @@ The voice ceased. The conference was over.
 
 ### Footnotes
 
-<span id="fn_25"></span>[61:26](irl07.htm#fr_25) Three dimensional
+<span id="fn_25"></span>[61:26](irl07.htm#fr_25.md) Three dimensional
 pictures were formed by projection of the image into a mass of gases
 held by electric pressure in a cloud whose particles glowed in various
 colors according to the mental wavelength of the vibration field in
@@ -195,7 +195,7 @@ transparent except for the particles which form the image in full color.
 The command for attention causes the whole cloud to change color from
 milky white to flaming red.—Ed.
 
-<span id="fn_26"></span>[62:27](irl07.htm#fr_26) In a letter from Mr.
+<span id="fn_26"></span>[62:27](irl07.htm#fr_26.md) In a letter from Mr.
 Shaver, this reference to augmentors is explained in great detail. Says
 Mr. Shaver: “I refer you to a picture printed in many high school books
 of ancient history. It is from the ‘Book of the Dead’ a copy of which
@@ -228,4 +228,4 @@ always secret among them.”—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. A Wedding on Nor](irl08)
+[Next: Chapter VII. A Wedding on Nor](irl08.md)

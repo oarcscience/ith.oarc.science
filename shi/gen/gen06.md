@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen05)  [Next](gen07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen05)  [Next](gen07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -85,7 +85,7 @@ though there is no one hereabouts to stare at, or recognize you, I
 sincerely beg your pardon."
 
 The carriage was now driven in, and Genji alighted. The Ajari, <span
-id="fr_52"></span>[2](#fn_51)elder brother of Koremitz; Mikawa-no-Kami,
+id="fr_52"></span>[2](#fn_51.md)elder brother of Koremitz; Mikawa-no-Kami,
 his brother-in-law; and the daughter of Daini, all assembled and greeted
 him. The nun also rose from her couch to welcome him.
 
@@ -301,7 +301,7 @@ real meaning, answered thus:—
 </div>
 
 At this juncture a young attendant in Sasinuki <span
-id="fr_53"></span>[3](#fn_52) entered the garden, brushing away the dewy
+id="fr_53"></span>[3](#fn_52.md) entered the garden, brushing away the dewy
 mist from the flowers, and began to gather some bunches of Asagao. The
 scene was one which we might desire to paint, so full of quiet beauty,
 and Genji rose from his seat, and slowly passed homeward. In those days
@@ -336,7 +336,7 @@ this bridge when an amusing incident occurred: The elder girl came out
 in haste to meet him, and was passing the bridge, when the skirt of her
 dress caught in something, and she well-nigh fell into the water.
 "Confound that bridge, what a bad Katzragi," <span
-id="fr_54"></span>[4](#fn_53) she cried, and suddenly turned pale. How
+id="fr_54"></span>[4](#fn_53.md) she cried, and suddenly turned pale. How
 amusing it was, you may imagine. The visitor was dressed in plain style,
 he was followed by his page, whom I recognized as belonging to
 Tô-no-Chiûjiô."
@@ -405,7 +405,7 @@ accompany him to some place where they could be freer.
 
 Her answer, however, was "That such a proposal on his part only alarmed
 her." Genji was amused at her girlish mode of expression, and earnestly
-said, "Which of us is a fox? <span id="fr_55"></span>[5](#fn_54) I don't
+said, "Which of us is a fox? <span id="fr_55"></span>[5](#fn_54.md) I don't
 know, but anyhow be persuaded by me." And after repeated conversations
 of the same nature, she at last half-consented. He had much doubt of the
 propriety of inducing her to take this step, nevertheless her final
@@ -470,7 +470,7 @@ and he hummed:—
 <div style="margin-left: 32px">
 
 <span class="small">"Let us together, bind our soul  
-    With vows that Woobasok <span id="fr_56"></span>[6](#fn_55) has
+    With vows that Woobasok <span id="fr_56"></span>[6](#fn_55.md) has
 given,  
   That when this world from sight shall roll  
     Unparted we shall wake in heaven."</span>
@@ -478,7 +478,7 @@ given,
 </div>
 
 <span class="contnote">\[paragraph continues\]</span> And added, "By
-Mirok, <span id="fr_57"></span>[7](#fn_56) let us bind ourselves in love
+Mirok, <span id="fr_57"></span>[7](#fn_56.md) let us bind ourselves in love
 forever."
 
 The girl, doubtful of the future, thus replied in a melancholy tone:—
@@ -931,7 +931,7 @@ weak to support himself on horseback, and so dismounted.
 Koremitz was a little alarmed. "If I had only been firm," he thought,
 "and had prevented this journey, I should not have exposed him to such a
 trial." He descended to the river, and bathing his hands, <span
-id="fr_58"></span>[8](#fn_57) offered up a prayer to Kwannon of
+id="fr_58"></span>[8](#fn_57.md) offered up a prayer to Kwannon of
 Kiyomidz, and again assisted Genji to mount, who struggled to recover
 his energy, and managed somehow to return to Nijiô, praying in silence
 as he rode along.
@@ -1119,7 +1119,7 @@ murmured,
 
 And the thought that the soul of the deceased might be still wandering
 and unsettled to that very day, but that now the time had come when her
-final destiny would be decided, <span id="fr_59"></span>[9](#fn_58) made
+final destiny would be decided, <span id="fr_59"></span>[9](#fn_58.md) made
 him pray for her more fervently.
 
 So closed the sad event of Yûgao.
@@ -1218,7 +1218,7 @@ these some others, consisting of beautiful combs, fans,
 
 <span id="page_93">p. 93</span>
 
-*nusa*, <span id="fr_60"></span>[10](#fn_59) and the scarf he had
+*nusa*, <span id="fr_60"></span>[10](#fn_59.md) and the scarf he had
 carried away, along with the following, privately through Kokimi:—
 
 <div style="margin-left: 32px">
@@ -1271,41 +1271,41 @@ I cannot help it.
 
 ### Footnotes
 
-<span id="fn_51"></span>[69:2](gen06.htm#fr_52) Name of an
+<span id="fn_51"></span>[69:2](gen06.htm#fr_52.md) Name of an
 ecclesiastical office.
 
-<span id="fn_52"></span>[74:3](gen06.htm#fr_53) Sasinuki is a sort of
+<span id="fn_52"></span>[74:3](gen06.htm#fr_53.md) Sasinuki is a sort of
 loose trousers, and properly worn by men only, hence some commentators
 conclude, the attendant here mentioned to mean a boy, others contend,
 this garment was worn by females also when they rode.
 
-<span id="fn_53"></span>[75:4](gen06.htm#fr_54) A mythological repulsive
+<span id="fn_53"></span>[75:4](gen06.htm#fr_54.md) A mythological repulsive
 deity who took part in the building of a bridge at the command of a
 powerful magician.
 
-<span id="fn_54"></span>[76:5](gen06.htm#fr_55) A popular superstition
+<span id="fn_54"></span>[76:5](gen06.htm#fr_55.md) A popular superstition
 in China and Japan believes foxes to have mysterious powers over men.
 
-<span id="fn_55"></span>[78:6](gen06.htm#fr_56) Upasaka, a sect of the
+<span id="fn_55"></span>[78:6](gen06.htm#fr_56.md) Upasaka, a sect of the
 followers of Buddhism who are laymen though they observe the rules of
 clerical life.
 
-<span id="fn_56"></span>[78:7](gen06.htm#fr_57) Meitreya, a Buddhisatna
+<span id="fn_56"></span>[78:7](gen06.htm#fr_57.md) Meitreya, a Buddhisatna
 destined to reappear as a Buddha after the lapse of an incalculable
 series of years.
 
-<span id="fn_57"></span>[87:8](gen06.htm#fr_58) It is the Oriental
+<span id="fn_57"></span>[87:8](gen06.htm#fr_58.md) It is the Oriental
 custom that when one offers up a prayer, he first washes his hands, to
 free them from all impurity.
 
-<span id="fn_58"></span>[91:9](gen06.htm#fr_59) According to the
+<span id="fn_58"></span>[91:9](gen06.htm#fr_59.md) According to the
 Buddhist's doctrine of the Hossô sect, all the souls of the dead pass,
 during seven weeks after death, into an intermediate state, and then
 their fate is decided. According to the Tendai sect, the best and the
 worst go immediately where they deserve, but those of a medium nature go
 through this process.
 
-<span id="fn_59"></span>[93:10](gen06.htm#fr_60) An offering made of
+<span id="fn_59"></span>[93:10](gen06.htm#fr_60.md) An offering made of
 paper, to the God of roads, which travellers were accustomed to make,
 before setting out on a journey.
 
@@ -1313,6 +1313,6 @@ before setting out on a journey.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Young Violet](gen07)
+[Next: Chapter V: Young Violet](gen07.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Tagore](index)
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Tagore](index.md)
 
 ------------------------------------------------------------------------
 

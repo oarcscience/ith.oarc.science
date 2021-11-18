@@ -1,9 +1,9 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
 ![Julian the Apostate presiding at a Conference of Sectarians, by Edward
-Armitage \[1875\] (public domain image](img/julian.jpg)
+Armitage \[1875\] (public domain image](img/julian.jpg.md)
 
 # Two Orations of the Emperor Julian
 
@@ -15,7 +15,7 @@ Armitage \[1875\] (public domain image](img/julian.jpg)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)     [Start Reading](toj00)
+[Contents](#contents)     [Start Reading](toj00.md)
 
 ------------------------------------------------------------------------
 
@@ -45,9 +45,9 @@ influence on H.P. Blatavsky and other theosophists.
 
 ------------------------------------------------------------------------
 
-[Title Page](toj00)  
-[Introduction](toj01)  
-[To Apollo and the Sun](toj02)  
-[The Emperor Julian's Oration to the Sovereign Sun](toj03)  
-[The Emperor Julian's Oration to the Mother of the Gods](toj04)  
-[To the Ancient Platonic Philosophers](toj05)  
+[Title Page](toj00.md)  
+[Introduction](toj01.md)  
+[To Apollo and the Sun](toj02.md)  
+[The Emperor Julian's Oration to the Sovereign Sun](toj03.md)  
+[The Emperor Julian's Oration to the Mother of the Gods](toj04.md)  
+[To the Ancient Platonic Philosophers](toj05.md)  

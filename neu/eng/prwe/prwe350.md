@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe349)  [Next](prwe351) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe349)  [Next](prwe351.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ Cornwall"--*Gilbert's Hist, Corn*., vol. iii. p. 262.
 
 ------------------------------------------------------------------------
 
-[Next: The Sisters of Glen-Neot](prwe351)
+[Next: The Sisters of Glen-Neot](prwe351.md)

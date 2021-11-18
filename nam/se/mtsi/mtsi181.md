@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi180)  [Next](mtsi182) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi180)  [Next](mtsi182.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ along with them.
 
 ------------------------------------------------------------------------
 
-[Next: 46. The Girl Captives](mtsi182)
+[Next: 46. The Girl Captives](mtsi182.md)

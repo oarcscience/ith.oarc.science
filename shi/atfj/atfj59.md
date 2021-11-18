@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj58.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_62"></span> <span align="CENTER"> [![62. Chogoro and his
 Men Fail to Move the Kusunoki Tree](tn/62.jpg)  
-Click to enlarge](img/62.jpg)  
+Click to enlarge](img/62.jpg.md)  
 62. Chogoro and his Men Fail to Move the Kusunoki Tree  
 </span>
 
@@ -83,8 +83,8 @@ immediately. What would you think of having a
 palace like that of Kinkakuji in Kyoto, which was built by the Shogun
 Ashikaga? What I should build would be a finer mansion than that of the
 present Shogun—let alone those of any Daimio. The whole of the
-hagi <span id="fr_55"></span>[1](#fn_55) to be made out of the rarest
-woods; the tokobashira <span id="fr_56"></span>[2](#fn_56) to be of the
+hagi <span id="fr_55"></span>[1](#fn_55.md) to be made out of the rarest
+woods; the tokobashira <span id="fr_56"></span>[2](#fn_56.md) to be of the
 nanten, and ceilings of unjointed camphor-tree boards, should we be able
 to find a tree of sufficient size. I can find nearly everything, except
 the last, in my own stocks; the camphor trees are difficult. There are
@@ -341,8 +341,8 @@ there, my story-teller tells me, at the present day.
 
 ### Footnotes
 
-<span id="fn_55"></span>[354:1](atfj59.htm#fr_55) Shelves.
+<span id="fn_55"></span>[354:1](atfj59.htm#fr_55.md) Shelves.
 
-<span id="fn_56"></span>[354:2](atfj59.htm#fr_56) Kakumono corner-post.
+<span id="fn_56"></span>[354:2](atfj59.htm#fr_56.md) Kakumono corner-post.
 
  

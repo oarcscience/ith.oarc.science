@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr07)  [Next](ppr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr07)  [Next](ppr09.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ hands!
 ------------------------------------------------------------------------
 
 [Next: Babylonian Prayer For Health (Exorcism of Spirits of
-Disease)](ppr09)
+Disease)](ppr09.md)

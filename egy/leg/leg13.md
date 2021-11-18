@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg12)  [Next](leg14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg12)  [Next](leg14.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 # THE HISTORY OF CREATION--A.
 
-THE BOOK OF KNOWING THE EVOLUTIONS <span id="fr_49"></span>[1](#fn_48)
+THE BOOK OF KNOWING THE EVOLUTIONS <span id="fr_49"></span>[1](#fn_48.md)
 OF RA, AND OF OVERTHROWING APEP. \[These are\] the; words which the god
 Neb-er-tcher spake after he had, come into being:--"I am he who came
 into being in the form of the god Khepera, and I am the creator of that
@@ -17,12 +17,12 @@ which came into being: now the things which I created, and which came
 forth out of my month after that I had come into being myself were
 exceedingly many. The sky (or heaven) had not come into being, the earth
 did not exist, and the children of the earth <span
-id="fr_50"></span>[2](#fn_49), and the creeping, things, had not been
+id="fr_50"></span>[2](#fn_49.md), and the creeping, things, had not been
 made at that time. I myself raised them up from out of Nu <span
-id="fr_51"></span>[3](#fn_50), from a state of helpless inertness. I
+id="fr_51"></span>[3](#fn_50.md), from a state of helpless inertness. I
 found no place whereon I could stand. I worked a charm <span
-id="fr_52"></span>[4](#fn_51) upon my own heart (or, will), I laid the
-foundation \[of things\] by Maat, <span id="fr_53"></span>[5](#fn_52)
+id="fr_52"></span>[4](#fn_51) upon my own heart (or, will.md), I laid the
+foundation \[of things\] by Maat, <span id="fr_53"></span>[5](#fn_52.md)
 and I made everything which had form. I was \[then\] one by myself, for
 I had not emitted from myself the god Shu, and I had not spit out from
 myself the goddess Tefnut; and there existed no
@@ -53,45 +53,45 @@ henceforth
 
 it ruled throughout all this earth.
 
-When there fell on them their moment <span id="fr_54"></span>[1](#fn_53)
+When there fell on them their moment <span id="fr_54"></span>[1](#fn_53.md)
 through plant-like clouds, I restored what had been taken away from
 them, and I appeared from out of the plant-like clouds. I created
 creeping things of every kind, and everything which came into being from
 them. Shu and Tefnut brought forth \[Seb and\] Nut; and Seb and Nut
 brought forth Osiris, and Heru-khent-an-maati, <span
-id="fr_55"></span>[2](#fn_54) and Set, and Isis, and Nephthys <span
-id="fr_56"></span>[3](#fn_55) at one birth, one after the other, and
+id="fr_55"></span>[2](#fn_54.md) and Set, and Isis, and Nephthys <span
+id="fr_56"></span>[3](#fn_55.md) at one birth, one after the other, and
 they produced their multitudinous offspring in this earth."
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_48"></span>[3:1](leg13.htm#fr_49) *Kheperu*. The verb
+<span id="fn_48"></span>[3:1](leg13.htm#fr_49.md) *Kheperu*. The verb
 KHEPER means "to make, to form, to produce, to become, and to roll;
 *kheperu* here means "the things which come into being through the
 rollings of the ball of the god Kheper (the roller)," i.e., the Sun.
 
-<span id="fn_49"></span>[3:2](leg13.htm#fr_50) I.e., serpents and
+<span id="fn_49"></span>[3:2](leg13.htm#fr_50.md) I.e., serpents and
 snakes, or perhaps plants.
 
-<span id="fn_50"></span>[3:3](leg13.htm#fr_51) The primeval watery mass
+<span id="fn_50"></span>[3:3](leg13.htm#fr_51.md) The primeval watery mass
 which was the source and origin of all beings and things.
 
-<span id="fn_51"></span>[3:4](leg13.htm#fr_52) I.e., he uttered a
+<span id="fn_51"></span>[3:4](leg13.htm#fr_52.md) I.e., he uttered a
 magical formula.
 
-<span id="fn_52"></span>[3:5](leg13.htm#fr_53) I.e., by exact and
+<span id="fn_52"></span>[3:5](leg13.htm#fr_53.md) I.e., by exact and
 definite rules.
 
-<span id="fn_53"></span>[7:1](leg13.htm#fr_54) I.e., the period of
+<span id="fn_53"></span>[7:1](leg13.htm#fr_54.md) I.e., the period of
 calamity wherein their light was veiled through plant-like clouds.
 
-<span id="fn_54"></span>[7:2](leg13.htm#fr_55) I.e., the Blind Horus.
+<span id="fn_54"></span>[7:2](leg13.htm#fr_55.md) I.e., the Blind Horus.
 
-<span id="fn_55"></span>[7:3](leg13.htm#fr_56) I.e., these five gods
+<span id="fn_55"></span>[7:3](leg13.htm#fr_56.md) I.e., these five gods
 were all born at one time.
 
 ------------------------------------------------------------------------
 
-[Next: The History of Creation--B.](leg14)
+[Next: The History of Creation--B.](leg14.md)

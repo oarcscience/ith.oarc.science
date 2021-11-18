@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb04)  [Next](lrb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb04)  [Next](lrb06.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ either as regards their character or the space they occupy.
 
 To speculate as to the race which built the primitive stone monuments of
 Brittany is almost as futile as it would be to theorize upon the date of
-their erection. <span id="fr_5"></span>[1](#fn_5) A generation ago it
+their erection. <span id="fr_5"></span>[1](#fn_5.md) A generation ago it
 was usual to refer all European megalithic monuments to a 'Celtic'
 origin, but European ethnological problems have become too complicated
 of late years to permit such a theory to pass unchallenged, especially
@@ -47,7 +47,7 @@ circles.' The derivation of the words from Celtic and their precise
 meaning in that tongue may assist the reader to arrive at their exact
 significance. Thus 'menhir' seems to be derived from the Welsh or
 Brythonic *maen*, 'a stone,' and *hir*, 'long,' and 'dolmen' from Breton
-*taol*, 'table,' and *men*, 'a stone.' <span id="fr_6"></span>[1](#fn_6)
+*taol*, 'table,' and *men*, 'a stone.' <span id="fr_6"></span>[1](#fn_6.md)
 'Cromlech' is also of Welsh or Brythonic origin, and is derived from
 *crom*, 'bending' or 'bowed' (hence 'laid across'), and *llech*, 'a flat
 stone.' The *allée couverte* is a dolmen on a large scale.
@@ -104,7 +104,7 @@ underground. It is composed of grey granite, and is surmounted by a
 cross. The early Christian missionaries, finding it impossible to wean
 the people from frequenting pagan neighbourhoods, surmounted the
 standing stones with the symbol of their faith, and this in time brought
-about the result desired. <span id="fr_7"></span>[1](#fn_7)
+about the result desired. <span id="fr_7"></span>[1](#fn_7.md)
 
 ### The Legend of Dol
 
@@ -208,7 +208,7 @@ of Cayot Délandre, a Breton poet:
 Tout cela eut un sens, et traduisit  
 Une pensée; mais clé de ce mystère,  
 Où est elle? et qui pourrait dire aujourd'hui  
-Si jamais elle se retrouvera? <span id="fr_8"></span>[1](#fn_8)
+Si jamais elle se retrouvera? <span id="fr_8"></span>[1](#fn_8.md)
 
 ### A Vision
 
@@ -254,7 +254,7 @@ are told, pursued by an
 <span id="img_04400"></span>
 
 [![RAISING A MENHIR](tn/04400.jpg)  
-Click to enlarge](img/04400.jpg)  
+Click to enlarge](img/04400.jpg.md)  
 RAISING A MENHIR  
 
  
@@ -279,7 +279,7 @@ the priests-should sufficient monetary encouragement be forthcoming.
 ### Mont-Saint-Michel
 
 In the neighbourhood is Mont-Saint-Michel, <span
-id="fr_9"></span>[1](#fn_9) a great tumulus with a sepulchral dolmen,
+id="fr_9"></span>[1](#fn_9.md) a great tumulus with a sepulchral dolmen,
 first excavated in 1862, when late Stone Age implements, jade celts, and
 burnt bones were unearthed. Later M. Zacharie Le Rouzic, the well-known
 Breton archæologist, tunnelled into the tumulus, and discovered a
@@ -341,7 +341,7 @@ race of 'Brythonic' or British origin, and it is likely that the stones
 so carved were utilized in the ritual of rain-worship or rain-making by
 sympathetic magic. The grooves in the stone were probably filled with
 water to typify a country partially covered with rain-water. <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 From these analogies, then, we can glean the purpose of the cup-and-ring
 markings upon the dolmens of Brittany, and may conclude, if our
@@ -404,7 +404,7 @@ lest we feel tempted to sneer at these poor folk for their incurious
 attitude toward the visible antiquities of their land, let us ask
 ourselves how many of us take that interest in the antiquities of our
 own country or our own especial locality that they demand. <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 <span id="page_50">p. 50</span>
 
@@ -432,7 +432,7 @@ dolmens to contain their ashes. The presence of such a shrine in a
 country-side was a guarantee of abundance and prosperity therein, as a
 subtle and indefinable charm spread from the saintly remnants and
 communicated itself to everything in the neighbourhood. <span
-id="fr_12"></span>[1](#fn_12) The fairy builders, says tradition, went
+id="fr_12"></span>[1](#fn_12.md) The fairy builders, says tradition, went
 about their work in no haphazard manner. Those
 
 <span id="page_51">p. 51</span>
@@ -442,7 +442,7 @@ proposed structure, the less gifted acting as carriers, labourers, and
 masons. Apron-carrying was not their only method of porterage, for some
 bore the stones on their heads, or one under each arm, as when they
 raised the Roche aux Fées in Retiers, or the dolmen in La Lande
-Marie. <span id="fr_13"></span>[1](#fn_13) The space of a night was
+Marie. <span id="fr_13"></span>[1](#fn_13.md) The space of a night was
 usually sufficient in which to raise a dolmen. But though 'run up' with
 more than Transatlantic dispatch, in view of the time these structures
 have endured for, any charge of jerry-building against their elfin
@@ -462,7 +462,7 @@ speedily:
 
 And they brought flags and stones  
 From the shores of Cliamig waterfall,  
-Reaching them from hand to hand. <span id="fr_14"></span>[2](#fn_14)
+Reaching them from hand to hand. <span id="fr_14"></span>[2](#fn_14.md)
 
 Again, the Round Tower of Ardmore, in Ireland, was
 
@@ -474,14 +474,14 @@ from hand to hand from the quarry to the site of the building. The same
 tradition applied to the Round Tower of Abernethy, in Perthshire, only
 it is in this case demonstrated that the stone of which the tower is
 composed was actually taken from the traditional quarry, even the very
-spot being geologically identified. <span id="fr_15"></span>[1](#fn_15)
+spot being geologically identified. <span id="fr_15"></span>[1](#fn_15.md)
 In like manner, too, was Rama's bridge built by the monkey host in Hindu
 myth, as recounted in the *Mahābhārata* and the *Rāmāyana*.
 
 Tales, as apart from beliefs, are not often encountered, in connexion
 with the monuments. Indeed, Sébillot, in the course of his researches,
 found only some dozen of these all told. <span
-id="fr_16"></span>[2](#fn_16) They are very brief, and appear for the
+id="fr_16"></span>[2](#fn_16.md) They are very brief, and appear for the
 most part to deal with fairies who have been shut up by the power of
 magic in a dolmen. Tales of spirits enclosed in trees, and even in
 pillars, are not uncommon, and lately I have heard a peculiarly fearsome
@@ -499,14 +499,14 @@ ill luck, it is believed, being
 
 sure to follow their use in this manner, while to 'meddle' with stones
 which tradition connects with Druidism is to court fatality. <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 ### Stones that Travel
 
 M. Salomon Reinach tells us of the Breton belief that certain sacred
 stones go once a year or once a century to, 'wash' themselves in the sea
 or in a river, returning to their ancient seats after their
-ablutions. <span id="fr_18"></span>[2](#fn_18) The stones in the dolmen
+ablutions. <span id="fr_18"></span>[2](#fn_18.md) The stones in the dolmen
 of Essé are thought to change their places continually, like those of
 Callernish and Lewis, and, like the Roman Penates, to have the gift of
 coming and going if removed from their habitual site.
@@ -526,29 +526,29 @@ hoary antiquity.
 
 ### Footnotes
 
-<span id="fn_5"></span>[37:1](lrb05.htm#fr_5) That it was Neolithic
+<span id="fn_5"></span>[37:1](lrb05.htm#fr_5.md) That it was Neolithic
 seems undoubted, and in all probability Alpine--*i.e.* the same race as
 presently inhabits Brittany. See Dottin, *Anciens Peuples de l'Europe*
 (Paris, 1916).
 
-<span id="fn_6"></span>[38:1](lrb05.htm#fr_6) But *tolmen* in Cornish
+<span id="fn_6"></span>[38:1](lrb05.htm#fr_6.md) But *tolmen* in Cornish
 meant 'pole of stone.'
 
-<span id="fn_7"></span>[20:1](lrb05.htm#fr_7) Ostensibly, at least; but
+<span id="fn_7"></span>[20:1](lrb05.htm#fr_7.md) Ostensibly, at least; but
 see the remarks upon modern pagan survivals in Chapter IX, [p.
-246](lrb12.htm#page_246).
+246](lrb12.htm#page_246.md).
 
-<span id="fn_8"></span>[43:1](lrb05.htm#fr_8) Which might be rendered:
+<span id="fn_8"></span>[43:1](lrb05.htm#fr_8.md) Which might be rendered:
 
 All here is symbol; these grey stones translate  
 A thought ineffable, but where the key?  
 Say, shall it be recovered soon or late,  
 To ope the temple of this mystery?
 
-<span id="fn_9"></span>[45:1](lrb05.htm#fr_9) Not to be confused, of
+<span id="fn_9"></span>[45:1](lrb05.htm#fr_9.md) Not to be confused, of
 course, with the well-known island mount of the same name.
 
-<span id="fn_10"></span>[47:1](lrb05.htm#fr_10) A Scottish
+<span id="fn_10"></span>[47:1](lrb05.htm#fr_10.md) A Scottish
 sixteenth-century magical verse was chanted over such a stone:
 
 I knock this rag wpone this stone,  
@@ -556,33 +556,33 @@ And ask the divell for rain thereon."
 
  
 
-<span id="fn_11"></span>[49:1](lrb05.htm#fr_11) The writer's experience
+<span id="fn_11"></span>[49:1](lrb05.htm#fr_11.md) The writer's experience
 is that unlettered British folk often possess much better information
 concerning the antiquities of a district than its 'educated'
 inhabitants. If this information is not scientific it is full and
 displays deep personal interest.
 
-<span id="fn_12"></span>[50:1](lrb05.htm#fr_12) *Collectionneur breton*,
+<span id="fn_12"></span>[50:1](lrb05.htm#fr_12.md) *Collectionneur breton*,
 t. iii, p. 55.
 
-<span id="fn_13"></span>[51:1](lrb05.htm#fr_13) See *Comptes* *rendus de
+<span id="fn_13"></span>[51:1](lrb05.htm#fr_13.md) See *Comptes* *rendus de
 la Société des Antiquaries de France*, pp. 95 ff. 1836).
 
-<span id="fn_14"></span>[51:2](lrb05.htm#fr_14) J. G. Campbell,
+<span id="fn_14"></span>[51:2](lrb05.htm#fr_14.md) J. G. Campbell,
 *Superstitions of the Scottish Highlands*.
 
-<span id="fn_15"></span>[52:1](lrb05.htm#fr_15) Small, *Antiquities of
+<span id="fn_15"></span>[52:1](lrb05.htm#fr_15.md) Small, *Antiquities of
 Fife*.
 
-<span id="fn_16"></span>[52:2](lrb05.htm#fr_16) *Traditions de la
+<span id="fn_16"></span>[52:2](lrb05.htm#fr_16.md) *Traditions de la
 Haute-Bretagne*, t. ii p. 26.
 
-<span id="fn_17"></span>[53:1](lrb05.htm#fr_17) Henderson, *Survivals in
+<span id="fn_17"></span>[53:1](lrb05.htm#fr_17.md) Henderson, *Survivals in
 Belief among the Celts* (1911).
 
-<span id="fn_18"></span>[53:2](lrb05.htm#fr_18) *Cultes, Mythes, et
+<span id="fn_18"></span>[53:2](lrb05.htm#fr_18.md) *Cultes, Mythes, et
 Religiones*, t. iii, pp. 365-433.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Fairies of Brittany](lrb06)
+[Next: Chapter III: The Fairies of Brittany](lrb06.md)

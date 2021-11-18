@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](tut04)  [Next](tut06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](tut04)  [Next](tut06.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,13 +66,13 @@ and growth in
 
 human beings and in the animal and vegetable worlds. And in some places
 in Egypt, and Nubia and the Oases, the symbol of the god Amen was either
-the umbilicus <span id="fr_12"></span>[1](#fn_12) or the gravid womb.
+the umbilicus <span id="fr_12"></span>[1](#fn_12.md) or the gravid womb.
 The symbol of Amen that was shown to Alexander the Great, when he
 visited the temple of Jupiter Ammon in the Oasis of Siwah, was an object
 closely resembling the umbilicus, and it was inlaid with emeralds
 (turquoises?) and other precious stones--umbilico maxime similis est
 habitus, smaragdo et gemmis coagmentatus <span
-id="fr_13"></span>[2](#fn_13). The name of Amen was carried into Nubia
+id="fr_13"></span>[2](#fn_13.md). The name of Amen was carried into Nubia
 and the Egyptian Sudan by the kings of the XIIth dynasty when they made
 raids into those countries, and his worship took root there readily and
 flourished. The booty which was brought back to Thebes was shared by
@@ -199,7 +199,7 @@ of the various peoples with whom they came in contact. Thothmes IV
 appears to have been the first Egyptian king who entered into friendly
 relations with the kings of Karaduniyash (Babylonia) and Mitanni.
 Tushratta, king of Mitanni, tells us, in a letter <span
-id="fr_14"></span>[1](#fn_14) which he sent to Amenhetep IV, that the
+id="fr_14"></span>[1](#fn_14.md) which he sent to Amenhetep IV, that the
 father of his father, Amenhetep III, sent to his grandfather, Artatama,
 and asked for his daughter to wife; in other words, Thothmes IV wanted
 to marry a princess of Mitanni. Six times did Thothmes IV make his
@@ -222,7 +222,7 @@ letter in Berlin written in the language of Mitanni, and the
 Assyriologists who have made a special study of it assign to the
 language a place among the "Caspian group," and are inclined to compare
 it with Georgian; and they give it an Aryan origin. <span
-id="fr_15"></span>[1](#fn_15) The names of four of their gods are
+id="fr_15"></span>[1](#fn_15.md) The names of four of their gods are
 mentioned in the text of a Treaty found at Boghaz Keui, and the
 Mitannians swore by them to observe this Treaty. These gods are:--1.
 Mi-it-ra-ash-shi-il. 2, U-ru-wa-na-ash-shi-il. 3, In-tar. 4,
@@ -245,7 +245,7 @@ throne under the name of Amenhetep (III); thus the name of the god Amen
 once again formed part of the personal name of the reigning king. The
 meaning of this name, "Amen is content, or satisfied," is significant.
 He reigned for about thirty-six years, probably in the latter half of
-the fifteenth century B.C. A legend <span id="fr_16"></span>[1](#fn_16)
+the fifteenth century B.C. A legend <span id="fr_16"></span>[1](#fn_16.md)
 was current in Egypt under the Ancient Empire in which it was asserted
 that the god Ra came to earth and, assuming the form of a priest of Ra,
 the husband of one Ruttet, appeared to his wife and, companying with
@@ -257,7 +257,7 @@ sculptured scenes connected with her conception and birth. In these the
 god Amen, in the human form of her father Thothmes I, is seen companying
 with Queen Aahmes, and the inscriptions prove that Hatshepsut believed
 that she was of the god's seed and that his divine blood flowed in her
-veins. <span id="fr_17"></span>[2](#fn_17) As Amen had in the XVIIIth
+veins. <span id="fr_17"></span>[2](#fn_17.md) As Amen had in the XVIIIth
 dynasty assumed all the powers and attributes of Ra of Heliopolis, the
 father of the kings who ruled from Memphis, it was only fitting that he
 should assume human form and become the physical father of the kings who
@@ -269,7 +269,7 @@ ruled from his city of Thebes. The same
 
 BAS-RELIEF REPRESENTING AMENHETEP III AS AN INCARNATION OF AMEN-RA  
 <span id="img_02300"></span> [![](tn/02300.jpg)  
-Click to enlarge](img/02300.jpg)
+Click to enlarge](img/02300.jpg.md)
 
  
 
@@ -296,8 +296,8 @@ Nubians in the fifth year of his reign, he built the great temple called
 Het Kha-em-Maat at Sulb, in the Egyptian Sudan. He dedicated it to
 Father Amen, Lord of the Thrones of the Two Lands, to Khnemu and to "his
 own Image living upon earth, Neb-maat-Ra. <span
-id="fr_18"></span>[1](#fn_18)" On a bas-relief published by
-Lepsius <span id="fr_19"></span>[2](#fn_19) we see him worshipping
+id="fr_18"></span>[1](#fn_18.md)" On a bas-relief published by
+Lepsius <span id="fr_19"></span>[2](#fn_19.md) we see him worshipping
 himself, as Lord of Ta-Kenset. In several of the scenes sculptured on
 the walls he is represented making offerings to Amen-Ra, Khnemu and
 other gods, and he is
@@ -340,7 +340,7 @@ the old gods of
  
 
 <span id="img_02600"></span> [![](tn/02600.jpg)  
-Click to enlarge](img/02600.jpg)  
+Click to enlarge](img/02600.jpg.md)  
 Amenhetep III worshipping himself as a member of the Triad in the Temple
 of Sudan.
 
@@ -348,7 +348,7 @@ of Sudan.
 
 the country, and that his own high officials did so openly is evident
 from the grey granite stele of the architects Her and Suti in the
-British Museum. <span id="fr_20"></span>[1](#fn_20) The stele is in the
+British Museum. <span id="fr_20"></span>[1](#fn_20.md) The stele is in the
 form of the door of a tomb and has a plain cornice and a raised
 
 <span id="page_27">p. 27</span>
@@ -533,7 +533,7 @@ setting. He created the earth (?). The next words, *Khnem Amen
 Henmemit*, are difficult. If the writer of the hymn meant to identify
 Aten with Khnem-Amen, a god of the region of the First Cataract, that is
 understandable, but how, then, is Henmemit, if that be the correct
-reading, to be fitted in? <span id="fr_21"></span>[1](#fn_21) Aten is
+reading, to be fitted in? <span id="fr_21"></span>[1](#fn_21.md) Aten is
 next called "Conqueror of the Two Lands from the greatest to the least."
 Another difficulty meets us in the words "glorious mother of gods and
 men," and the words that follow, "gracious artificer, most great,
@@ -571,7 +571,7 @@ months, Summer because he loves heat, and Winter because he loves the
 cold; \[during the former\] he makes men's bodies to become exhausted.
 The apes sing hymns to him when he rises daily." What follows on the
 stele concerns the lives of Her and Sub, and the text is translated on
-pp. [46](tut06.htm#page_46)-68.
+pp. [46](tut06.htm#page_46.md)-68.
 
 Judging by what is said in the Hymn to Aten,
 
@@ -608,7 +608,7 @@ burning incense and pouring out
  
 
 <span id="img_pl03"></span> [![](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 *Plate III*.  
 Head of a colossal statue of Amenhetep III, wearing the uraeus, the
 symbol of sovereignty, above his forehead. Found by Mr. H. Salt (luring
@@ -616,7 +616,7 @@ the excavations which he made near the Colossi in Western Thebes.
 British Museum, Northern Egyptian Gallery.
 
 <span id="img_pl04"></span> [![](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 *Plate IV*.  
 Stele of Her and Suti, twin brothers who were overseers of the works of
 Amenhetep III at Thebes. The text contains a Hymn to Amen, and a Hymn to
@@ -649,7 +649,7 @@ other cities deputies were chosen to represent the king, and they were
 everywhere regarded with the reverence that was due to the performers of
 such exalted duties. During the performance of these rites and
 ceremonies hymns were chanted to Amen or Amen-Ra, and of these the
-following are specimens: <span id="fr_22"></span>[1](#fn_22):--
+following are specimens: <span id="fr_22"></span>[1](#fn_22.md):--
 
 <span id="page_36">p. 36</span>
 
@@ -844,7 +844,7 @@ gods.
 The man who utters his secret (or mystery) name, which cannot be known,
 falls down upon his face straightway and dies a violent death. No god
 knows how to call upon him." (Chap. XV.) <span
-id="fr_23"></span>[1](#fn_23)
+id="fr_23"></span>[1](#fn_23.md)
 
 The extracts given in the last section are taken, from a work on Amen
 which was not intended to be sung in the temples. It is, more or less,
@@ -855,7 +855,7 @@ the great god whose three characters or persons were called Amen (of
 Thebes), Ra (of Heliopolis) and Ptah (of Memphis). His ONENESS, or
 Unity, was absolute. We may now give an extract from the famous Hymn to
 Amen which is preserved in a papyrus in the Egyptian Museum,
-Cairo, <span id="fr_24"></span>[2](#fn_24) and was undoubtedly sung by
+Cairo, <span id="fr_24"></span>[2](#fn_24.md) and was undoubtedly sung by
 men and women to the accompaniment of music in the temples.
 
 <span id="page_43">p. 43</span>
@@ -941,51 +941,51 @@ ONE ALONE, without a second
 
 ### Footnotes
 
-<span id="fn_12"></span>[16:1](tut05.htm#fr_12) See Daressy, *Une
+<span id="fn_12"></span>[16:1](tut05.htm#fr_12.md) See Daressy, *Une
 Nouvelle Forme d'Amon* in *Annales du Service des Antiquités de
 l'Egypte*, tome IX, p. 64 ff.
 
-<span id="fn_13"></span>[16:2](tut05.htm#fr_13) Quintus Curtius, lib.
+<span id="fn_13"></span>[16:2](tut05.htm#fr_13.md) Quintus Curtius, lib.
 IV, §7. See also Naville, *Le Dieu de l'Oasis de Jupiter-Amon* in
 *Comptes Rendus de l'Académie*, 1906, p. 25.
 
-<span id="fn_14"></span>[20:1](tut05.htm#fr_14) Preserved in Berlin; see
+<span id="fn_14"></span>[20:1](tut05.htm#fr_14.md) Preserved in Berlin; see
 Winckler, *Die Thontafeln von Tell-el-Amarna*, No. 24, p. 51.
 
-<span id="fn_15"></span>[21:1](tut05.htm#fr_15) Bork, *Die Mitanni
+<span id="fn_15"></span>[21:1](tut05.htm#fr_15.md) Bork, *Die Mitanni
 Sprache*, Berlin, 1909.
 
-<span id="fn_16"></span>[22:1](tut05.htm#fr_16) See Erman, *Die Märchen
+<span id="fn_16"></span>[22:1](tut05.htm#fr_16.md) See Erman, *Die Märchen
 des Papyrus Westcar*, Berlin, 1890.
 
-<span id="fn_17"></span>[22:2](tut05.htm#fr_17) See Naville's edition of
+<span id="fn_17"></span>[22:2](tut05.htm#fr_17.md) See Naville's edition of
 the texts, Vol. II, pl. 46-55.
 
-<span id="fn_18"></span>[24:1](tut05.htm#fr_18) Neb-maat-Ra is the
+<span id="fn_18"></span>[24:1](tut05.htm#fr_18.md) Neb-maat-Ra is the
 prenomen of Amenhetep III
 
-<span id="fn_19"></span>[24:2](tut05.htm#fr_19) *Denkmäler*, III, 85.
+<span id="fn_19"></span>[24:2](tut05.htm#fr_19.md) *Denkmäler*, III, 85.
 
-<span id="fn_20"></span>[26:1](tut05.htm#fr_20) No. 475, Bay 9. Old No.
+<span id="fn_20"></span>[26:1](tut05.htm#fr_20.md) No. 475, Bay 9. Old No.
 826. See *A Guide to the Egyptian Galleries*, p. 134.
 
-<span id="fn_21"></span>[32:1](tut05.htm#fr_21) The true reading may be
+<span id="fn_21"></span>[32:1](tut05.htm#fr_21.md) The true reading may be
 *hememit* and so be connected with the word to "roar"--Khnem Amen of the
 roarings. Amenhetep IV dedicated a scarab to a god of roarings (British
 Museum, No. 51084).
 
-<span id="fn_22"></span>[35:1](tut05.htm#fr_22) A hieroglyphic
+<span id="fn_22"></span>[35:1](tut05.htm#fr_22.md) A hieroglyphic
 transcript of the hieratic text will be found in Moret, *Le Rituel du
 Culte Divin Journalier en Égypte*, Paris, 1902, p. 69.
 
-<span id="fn_23"></span>[42:1](tut05.htm#fr_23) For transcripts of the
+<span id="fn_23"></span>[42:1](tut05.htm#fr_23.md) For transcripts of the
 hieratic texts, translations, etc., see, Gardiner in *Aegyptische
 Zeitschrift*, Bd. 42 (1905), p. 12 ff.
 
-<span id="fn_24"></span>[42:2](tut05.htm#fr_24) A complete transcript of
+<span id="fn_24"></span>[42:2](tut05.htm#fr_24.md) A complete transcript of
 the hieratic text into hieroglyphs, with a French translation, has been
 published by Grébaut, *Hymne à Ammon-Ra*, Paris, 1875.
 
 ------------------------------------------------------------------------
 
-[Next: A Hymn to Amen and Aten](tut06)
+[Next: A Hymn to Amen and Aten](tut06.md)

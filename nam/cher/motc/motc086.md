@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc085) 
-[Next](motc087) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc085.md) 
+[Next](motc087.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ him," but they have never heard him again.
 
 ------------------------------------------------------------------------
 
-[Next: 87. The Water Cannibals](motc087)
+[Next: 87. The Water Cannibals](motc087.md)

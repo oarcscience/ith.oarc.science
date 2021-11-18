@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](bow13)  [Next](bow15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](bow13)  [Next](bow15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B54F2G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B54F2G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Were-Wolves*, by Sabine Baring-Gould, \[1865\], at
 Intangible Textual Heritage
 
@@ -331,4 +331,4 @@ and Marshal of France!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. A Galician Were-Wolf](bow15)
+[Next: Chapter XIV. A Galician Were-Wolf](bow15.md)

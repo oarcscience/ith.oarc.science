@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe131)  [Next](prwe133) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe131)  [Next](prwe133.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ is written Piran, Peran, and Perran.
 
 ------------------------------------------------------------------------
 
-[Next: St Peran, the Miner's Saint](prwe133)
+[Next: St Peran, the Miner's Saint](prwe133.md)

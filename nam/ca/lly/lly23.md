@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly22)  [Next](lly24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly22)  [Next](lly24.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [California](../index)  [Index](index) 
 <span id="img_05700"></span> [![THE WAWONA TREE AND GALEN CLARK,
 DISCOVERER&lt;BR&gt; &lt;I&gt;Photo J. T.
 Boysen&lt;/I&gt;](tn/05700.jpg)  
-Click to enlarge](img/05700.jpg)  
+Click to enlarge](img/05700.jpg.md)  
 THE WAWONA TREE AND GALEN CLARK, DISCOVERER  
 *Photo J. T. Boysen*  
 
@@ -100,7 +100,7 @@ The majority of the mature trees are from twenty to
 <span id="img_06000"></span> [![THE POETS--LONGFELLOW AND
 WHITTIER&lt;BR&gt; &lt;I&gt;Photo J. T.
 Boysen&lt;/I&gt;](tn/06000.jpg)  
-Click to enlarge](img/06000.jpg)  
+Click to enlarge](img/06000.jpg.md)  
 THE POETS--LONGFELLOW AND WHITTIER  
 *Photo J. T. Boysen*  
 
@@ -146,7 +146,7 @@ Yosemite" that he found
 
 <span id="img_06200"></span> [![CABIN IN MARIPOSA GROVE&lt;BR&gt;
 &lt;I&gt;Photo J. T. Boysen&lt;/I&gt;](tn/06200.jpg)  
-Click to enlarge](img/06200.jpg)  
+Click to enlarge](img/06200.jpg.md)  
 CABIN IN MARIPOSA GROVE  
 *Photo J. T. Boysen*  
 
@@ -169,7 +169,7 @@ top by lightning or some hostility of the elements.
 The ages of these giants must be counted in centuries, and not in years.
 It is almost impossible for the human mind to conceive that some of
 these trees were seedlings two thousand years before the birth of
-Christ; and when Imperial Rome was being [built](errata.htm#2) some of
+Christ; and when Imperial Rome was being [built](errata.htm#2.md) some of
 them had a green crown upon which the eagle perched and screamed
 defiance to the storms.
 
@@ -217,4 +217,4 @@ kindness may be everlasting for the blessing of those who follow us.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction to Myths and Legends](lly24)
+[Next: Introduction to Myths and Legends](lly24.md)

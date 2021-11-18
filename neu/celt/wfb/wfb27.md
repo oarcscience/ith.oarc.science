@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb26)  [Next](wfb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb26)  [Next](wfb28.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ given the landlord.
 
 ------------------------------------------------------------------------
 
-[Next: A Strange Otter](wfb28)
+[Next: A Strange Otter](wfb28.md)

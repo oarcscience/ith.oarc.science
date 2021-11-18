@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk36)  [Next](brk38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk36)  [Next](brk38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
-#### IX. <span class="smallcaps">The Everlasting Nay</span> <span id="fr_33"></span>[1](#fn_33)
+#### IX. <span class="smallcaps">The Everlasting Nay</span> <span id="fr_33"></span>[1](#fn_33.md)
 
 Verily this great unborn Self it is that is compact of understanding
 amid the life-breaths, that lies in the ether within the heart, master
@@ -56,9 +56,9 @@ This known, ill deeds defile him nevermore.
 
 ### Footnotes
 
-<span id="fn_33"></span>[74:1](brk37.htm#fr_33) Bṛihad-āraṇyaka
+<span id="fn_33"></span>[74:1](brk37.htm#fr_33.md) Bṛihad-āraṇyaka
 Upanishad, IV. iv. 22-23.
 
 ------------------------------------------------------------------------
 
-[Next: X: The Spirit Within](brk38)
+[Next: X: The Spirit Within](brk38.md)

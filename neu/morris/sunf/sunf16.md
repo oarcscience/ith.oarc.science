@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf15)  [Next](sunf17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf15)  [Next](sunf17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -137,6 +137,6 @@ best nag in all the Wethermel pastures.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Surly John Brings a Guest to Wethermel](sunf17)
+[Next: Chapter XV. Surly John Brings a Guest to Wethermel](sunf17.md)
 
 </div>

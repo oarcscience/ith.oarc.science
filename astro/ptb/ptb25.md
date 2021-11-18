@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb24)  [Next](ptb26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb24)  [Next](ptb26.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ his fall in Pisces.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII. The Disposition of the Terms](ptb26)
+[Next: Chapter XXIII. The Disposition of the Terms](ptb26.md)

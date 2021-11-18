@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh14)  [Next](ulh16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh14)  [Next](ulh16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 <span id="img_pl08"></span> <span align="CENTER"> [![PLATE
 VIII&lt;br&gt; MAILE PAKAHA       NIHI-AU-MOE&lt;br&gt;
 MARIONETTES](tn/pl08.jpg)  
-Click to enlarge](img/pl08.jpg)  
+Click to enlarge](img/pl08.jpg.md)  
 PLATE VIII  
 MAILE PAKAHA       NIHI-AU-MOE  
 MARIONETTES  
@@ -48,7 +48,7 @@ That is not to say, however, that in the use of marionettes the
 Hawaiians did not hark back to their ancestral homes in the southern sea
 or to a remoter past in Asia.
 
-The six marionettes, *ki’i* (pls. [VIII](#img_pl08) and [IX](#img_pl09),
+The six marionettes, *ki’i* (pls. [VIII](#img_pl08) and [IX](#img_pl09.md),
 in the writer's possession were obtained from a distinguished kumu-hula,
 who received them by inheritance, as it were, from his brother. "He gave
 them to me," said he, "with these words, 'Take care of these things, and
@@ -66,7 +66,7 @@ much in evidence.
 
 The make-up and style of these ki’i are so similar that a description of
 one will serve for all six. This marionette represents the figure of a
-man, and was named *Maka-kú* ([pl. IX](#img_pl09)). The head is carved
+man, and was named *Maka-kú* ([pl. IX](#img_pl09).md). The head is carved
 out of some soft wood--either kukui or wiliwili--which is covered, as to
 the hairy scalp, with a dark woven fabric much like broadcloth. It is
 encircled at the level of the forehead with a broad band of gilt braid,
@@ -136,7 +136,7 @@ advantage over abler, but more modest, adversaries.
 
 <span id="img_pl09"></span> <span align="CENTER"> [![PLATE IX&lt;br&gt;
 MARIONETTE, MAKA-KÚ](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 PLATE IX  
 MARIONETTE, MAKA-KÚ  
 </span>
@@ -168,7 +168,7 @@ infliction of tortures and grips unmentionable and disreputable. At
 first the conflict was in suspense, victory favoring neither party; but
 as the contest went on Puapuakea showed a slight superiority, and at the
 finish he had bettered Maka-kú by three points, or *ai*, <span
-id="fr_207"></span>[a](#fn_204) as the Hawaiians uniquely term it.
+id="fr_207"></span>[a](#fn_204.md) as the Hawaiians uniquely term it.
 
 The sisters, Maile-lau-lii and Maile-pakaha, who had been interested
 spectators of the contest, conceived passionate liking for the two
@@ -234,7 +234,7 @@ unrelenting rigor the commands of the alii, whether they bade him take
 possession of a taro patch, set fire to a house, or to steal upon a man
 at dead of night and dash out his brains while he slept.
 
-Referring to the illustrations ([pl. VIII](#img_pl08)), a judge of human
+Referring to the illustrations ([pl. VIII](#img_pl08).md), a judge of human
 nature can almost read the character of the libertine Nihi-aumoe written
 in his features--the flattened vertex, indicative of lacking reverence
 and fear, the ruffian strength of the broad face; and if one could
@@ -253,8 +253,8 @@ or to the genre picture in art.
 
 E Wewehi, ke, ke!  
 Wewehi oiwi, ke, ke!  
-Punana <span id="fr_208"></span>[a](#fn_205) i ka luna, ke, ke!  
-Hoonoho kai-oa, <span id="fr_209"></span>[b](#fn_206) ke, ke!
+Punana <span id="fr_208"></span>[a](#fn_205.md) i ka luna, ke, ke!  
+Hoonoho kai-oa, <span id="fr_209"></span>[b](#fn_206.md) ke, ke!
 
 </div>
 
@@ -262,16 +262,16 @@ Hoonoho kai-oa, <span id="fr_209"></span>[b](#fn_206) ke, ke!
 
 <div style="margin-left: 32px">
 
-5 Oluna ka wa’a, <span id="fr_210"></span>[a](#fn_207) ke, ke!  
+5 Oluna ka wa’a, <span id="fr_210"></span>[a](#fn_207.md) ke, ke!  
 O Lela wa’a, ke, ke!  
 O keia wa’a, ke, ke!
 
-Ninau o Mawi, <span id="fr_211"></span>[b](#fn_208) ke, ke!  
-Nawai ka luau’i? <span id="fr_212"></span>[c](#fn_209) ke, ke!  
-10 Na Wewehi-loa, <span id="fr_213"></span>[c](#fn_209) ke, ke!  
+Ninau o Mawi, <span id="fr_211"></span>[b](#fn_208.md) ke, ke!  
+Nawai ka luau’i? <span id="fr_212"></span>[c](#fn_209.md) ke, ke!  
+10 Na Wewehi-loa, <span id="fr_213"></span>[c](#fn_209.md) ke, ke!  
 Ua make Wewehi, ke, ke!  
 Ua ku i ka ihe, ke, ke!  
-Ma ka puka kahiko, <span id="fr_214"></span>[d](#fn_210) ke, ke!  
+Ma ka puka kahiko, <span id="fr_214"></span>[d](#fn_210.md) ke, ke!  
 Ka puka a Mawi, ke, ke!
 
 15 Ka lepe, ka lepe, la!  
@@ -326,7 +326,7 @@ The author has met with several variants to this mele, which do not
 greatly change its character. In one of these variants the following
 changes are to be noted:
 
-Line 4. Pikaka <span id="fr_215"></span>[a](#fn_211) e ka luna, ke,
+Line 4. Pikaka <span id="fr_215"></span>[a](#fn_211.md) e ka luna, ke,
 ke!  
 Line 5. Ka luna o ka hale, Re, ke!  
 Line 8. Ka puka o ka hale, a ke, ke!  
@@ -388,13 +388,13 @@ appropriate flavor and gusto to their performances.
 
 <div style="margin-left: 32px">
 
-Ele-ele kau-kau; <span id="fr_216"></span>[a](#fn_212)  
-Ka hala-le, <span id="fr_217"></span>[b](#fn_213) e kau-kau,  
+Ele-ele kau-kau; <span id="fr_216"></span>[a](#fn_212.md)  
+Ka hala-le, <span id="fr_217"></span>[b](#fn_213.md) e kau-kau,  
 Na e-ele ihi,  
 Ele ihi, ele a,  
-5 Na e-ele ku-pou; <span id="fr_218"></span>[c](#fn_214)  
+5 Na e-ele ku-pou; <span id="fr_218"></span>[c](#fn_214.md)  
 Ku-pou.  
-Na hala, e! <span id="fr_219"></span>[d](#fn_215)
+Na hala, e! <span id="fr_219"></span>[d](#fn_215.md)
 
 </div>
 
@@ -496,7 +496,7 @@ those just given:
 E kau-kau i hale manu, e!  
 Ike oe i ka lolo huluhulu, e?  
 I ka huluhulu a we’uwe’u, e?  
-I ka punohu, <span id="fr_220"></span>[a](#fn_216) e, a ka la e kau
+I ka punohu, <span id="fr_220"></span>[a](#fn_216.md) e, a ka la e kau
 nei?  
 5 Walea ka manu i ka wai, e!  
 I ka wai lohi o ke kini, e!
@@ -548,22 +548,22 @@ night:
 
 <div style="margin-left: 32px">
 
-O Wanahili <span id="fr_221"></span>[a](#fn_217) ka po loa ia
-Manu’a, <span id="fr_222"></span>[b](#fn_218)  
-O ka pu kau kama <span id="fr_223"></span>[c](#fn_219) i Hawaii akea;  
-O ka pu leina <span id="fr_224"></span>[d](#fn_220) kea a Kiha--  
-O Kiha nui a Pii-lani-- <span id="fr_225"></span>[e](#fn_221)  
-5 O Kauhi kalana-honu’-a-Kama; <span id="fr_226"></span>[f](#fn_222)  
-O ka maka iolena <span id="fr_227"></span>[g](#fn_223) ke hoohaulani
+O Wanahili <span id="fr_221"></span>[a](#fn_217.md) ka po loa ia
+Manu’a, <span id="fr_222"></span>[b](#fn_218.md)  
+O ka pu kau kama <span id="fr_223"></span>[c](#fn_219.md) i Hawaii akea;  
+O ka pu leina <span id="fr_224"></span>[d](#fn_220.md) kea a Kiha--  
+O Kiha nui a Pii-lani-- <span id="fr_225"></span>[e](#fn_221.md)  
+5 O Kauhi kalana-honu’-a-Kama; <span id="fr_226"></span>[f](#fn_222.md)  
+O ka maka iolena <span id="fr_227"></span>[g](#fn_223.md) ke hoohaulani
 i-ó!  
-O kela kanaka hoali mauna, <span id="fr_228"></span>[h](#fn_224)  
-O Ka Lani ku’i hono i ka moku. <span id="fr_229"></span>[i](#fn_225)  
-I waihona kapuahi kanaka ehá, <span id="fr_230"></span>[j](#fn_226)  
+O kela kanaka hoali mauna, <span id="fr_228"></span>[h](#fn_224.md)  
+O Ka Lani ku’i hono i ka moku. <span id="fr_229"></span>[i](#fn_225.md)  
+I waihona kapuahi kanaka ehá, <span id="fr_230"></span>[j](#fn_226.md)  
 10 Ai' i Kauai, i Oahu, i Maui.  
-I Hawaii kahiko o Keawe enaena, <span id="fr_231"></span>[k](#fn_227)  
+I Hawaii kahiko o Keawe enaena, <span id="fr_231"></span>[k](#fn_227.md)  
 Ke a-á, mai la me ke o-koko,  
 Ke lapa-lapa la i ka makani,  
-Makani kua, he Naulu. <span id="fr_232"></span>[l](#fn_228)  
+Makani kua, he Naulu. <span id="fr_232"></span>[l](#fn_228.md)  
 15 Kua ka Waihoa i ka Mikioi,
 
 </div>
@@ -572,9 +572,9 @@ Makani kua, he Naulu. <span id="fr_232"></span>[l](#fn_228)
 
 <div style="margin-left: 32px">
 
-Pu-á ia lalo o Hala-li’i, <span id="fr_233"></span>[a](#fn_229)  
+Pu-á ia lalo o Hala-li’i, <span id="fr_233"></span>[a](#fn_229.md)  
 Me he alii, alii, la no ka hele i Kekaha,  
-Ka hookiekie i ka li’u-la, <span id="fr_234"></span>[b](#fn_230)  
+Ka hookiekie i ka li’u-la, <span id="fr_234"></span>[b](#fn_230.md)  
 Ka hele i ke alia-lia la, alia!  
 20 Alia-lia la’a-laau Kekaha.  
 Ke kaha o Kala-ihi, Wai-o-lono.  
@@ -626,7 +626,7 @@ to mind the experiences of one who has climbed the mountain walls,
 <div style="margin-left: 32px">
 
 Kalalau, pali eku i ka makani;  
-Pu ka Lawa-kua, <span id="fr_235"></span>[c](#fn_231) hoi mau i
+Pu ka Lawa-kua, <span id="fr_235"></span>[c](#fn_231.md) hoi mau i
 Kolo-kini;  
 Nu a anahulu ka pa ana i-uka--  
 Anahulu me na po keu elua.
@@ -638,11 +638,11 @@ Anahulu me na po keu elua.
 <div style="margin-left: 32px">
 
 5 Elua Hono-pu o ia kua kanaka;  
-Elua Ko’a-mano <span id="fr_236"></span>[a](#fn_232) me Wai-aloha.  
-Na pali waha iho, waha iho <span id="fr_237"></span>[b](#fn_233) me ke
+Elua Ko’a-mano <span id="fr_236"></span>[a](#fn_232.md) me Wai-aloha.  
+Na pali waha iho, waha iho <span id="fr_237"></span>[b](#fn_233.md) me ke
 kua;  
 Ke keiki puu iloko o ka pali nui.  
-E hii an’ <span id="fr_238"></span>[c](#fn_234) e Makua i Kalalau.
+E hii an’ <span id="fr_238"></span>[c](#fn_234.md) e Makua i Kalalau.
 
 </div>
 
@@ -687,21 +687,21 @@ together under one head as the calabash hulas.
 
 ### Footnotes
 
-<span id="fn_204"></span>[93:a](ulh15.htm#fr_207) *Ai*, literally a
+<span id="fn_204"></span>[93:a](ulh15.htm#fr_207.md) *Ai*, literally a
 food, a course.
 
-<span id="fn_205"></span>[94:a](ulh15.htm#fr_208) *Punana*. Literally a
+<span id="fn_205"></span>[94:a](ulh15.htm#fr_208.md) *Punana*. Literally a
 nest; here a raised couch on the pola, which was a sheltered platform in
 the waist of a double canoe, corresponding to our cabin, for the use of
 chiefs and other people of distinction.
 
-<span id="fn_206"></span>[94:b](ulh15.htm#fr_209) *Kai-oa*. The
+<span id="fn_206"></span>[94:b](ulh15.htm#fr_209.md) *Kai-oa*. The
 paddle-men; here a euphemism.
 
-<span id="fn_207"></span>[95:a](ulh15.htm#fr_210) *Wa’a*. A euphemism
+<span id="fn_207"></span>[95:a](ulh15.htm#fr_210.md) *Wa’a*. A euphemism
 for the human body.
 
-<span id="fn_208"></span>[95:b](ulh15.htm#fr_211) *Mawi*. The hero of
+<span id="fn_208"></span>[95:b](ulh15.htm#fr_211.md) *Mawi*. The hero of
 Polynesian mythology, whose name is usually spelled *Maui*, like the
 name of the island. Departure from the usual orthography is made in
 order to secure phonetic accuracy. The name of the hero is pronounced
@@ -709,12 +709,12 @@ order to secure phonetic accuracy. The name of the hero is pronounced
 Zealand, following the usual orthography, has given a very full and
 interesting account of him in his Polynesian mythology.
 
-<span id="fn_209"></span>[95:c](ulh15.htm#fr_213) *Wewehi-loa*. Another
+<span id="fn_209"></span>[95:c](ulh15.htm#fr_213.md) *Wewehi-loa*. Another
 name for *Wahie-loa*, who is said to have been the grandfather of
 Wewehi. The word *luau’i* in the previous verse, meaning real father, is
 an archaic form. Another form is *kua-u’i*.
 
-<span id="fn_210"></span>[95:d](ulh15.htm#fr_214) *Puka kahiko*. A
+<span id="fn_210"></span>[95:d](ulh15.htm#fr_214.md) *Puka kahiko*. A
 strange story from Hawaiian mythology relates that originally the human
 anatomy was sadly deficient in that the terminal gate of the *prima viæ*
 was closed. Mawi applied his common-sense surgery to the repair of the
@@ -723,45 +723,45 @@ kanaka me ka hemahema no ka nele i ka hou puka ole ia ka okole, a na
 Mawi i hoopau i keia pilikia mamuli o kana hana akamai. Ua kapa ia keia
 puka ka puka kahiko*.
 
-<span id="fn_211"></span>[96:a](ulh15.htm#fr_215) *Pikaka* (full form
+<span id="fn_211"></span>[96:a](ulh15.htm#fr_215.md) *Pikaka* (full form
 *pikakao*). Dried up, juiceless.
 
-<span id="fn_212"></span>[97:a](ulh15.htm#fr_216) *Kau-kau*. Conjectural
+<span id="fn_212"></span>[97:a](ulh15.htm#fr_216.md) *Kau-kau*. Conjectural
 meaning to point out some one in the audience, as the marionettes often
 did. People were thus sometimes inveigled in behind the curtain.
 
-<span id="fn_213"></span>[97:b](ulh15.htm#fr_217) *Hala-le*. Said to
+<span id="fn_213"></span>[97:b](ulh15.htm#fr_217.md) *Hala-le*. Said to
 mean a sop, with which one took tip the juice or gravy of food; a choice
 morsel.
 
-<span id="fn_214"></span>[97:c](ulh15.htm#fr_218) *Ku-pou*. To stoop
+<span id="fn_214"></span>[97:c](ulh15.htm#fr_218.md) *Ku-pou*. To stoop
 over, from devotion to one's own pursuits, from modesty, or from shame.
 
-<span id="fn_215"></span>[97:d](ulh15.htm#fr_219) The meaning of this
+<span id="fn_215"></span>[97:d](ulh15.htm#fr_219.md) The meaning of this
 line has been matter for much conjecture. The author has finally adopted
 the suggestion embodied in the translation here given, which is a
 somewhat gross reference to the woman's physical charms.
 
-<span id="fn_216"></span>[99:a](ulh15.htm#fr_220) *Punohu*. A compact
+<span id="fn_216"></span>[99:a](ulh15.htm#fr_220.md) *Punohu*. A compact
 mass of clouds, generally lying low in the heavens; a cloud-omen; also a
 rainbow that lies close to the earth, such as is formed when the sun is
 high in the heavens.
 
-<span id="fn_217"></span>[100:a](ulh15.htm#fr_221) *Wanahili*. A
+<span id="fn_217"></span>[100:a](ulh15.htm#fr_221.md) *Wanahili*. A
 princess of the mythological period belonging to Puna, Hawaii.
 
-<span id="fn_218"></span>[100:b](ulh15.htm#fr_222) *Manu’a*. A king of
+<span id="fn_218"></span>[100:b](ulh15.htm#fr_222.md) *Manu’a*. A king of
 Hilo, the son of Kane-hili, famous for his skill in spear-throwing,
 *maika*-rolling, and all athletic exercises. He was united in marriage,
 *ho-ao*, to the lovely princess Wanahili. Tradition deals with Manua as
 a very lovable character.
 
-<span id="fn_219"></span>[100:c](ulh15.htm#fr_223) *Pu kau kama*. The
+<span id="fn_219"></span>[100:c](ulh15.htm#fr_223.md) *Pu kau kama*. The
 conch (pu) is figured as the herald of fame. *Kau* is used in the sense
 of to set on high, in contrast with such a word as *waiho*, to set down.
 *Kama* is the word of dignity for children.
 
-<span id="fn_220"></span>[100:d](ulh15.htm#fr_224) *Pu leina*. It is
+<span id="fn_220"></span>[100:d](ulh15.htm#fr_224.md) *Pu leina*. It is
 asserted on good authority that the triton (*pu*), when approached in
 its ocean habitat, will often make sudden and extraordinary leaps in an
 effort to escape. There is special reference here to the famous conch
@@ -773,12 +773,12 @@ people by sounding nightly blasts with the conch. The shell was finally
 restored to King Umi by the superhuman aid of the famous dog
 Puapua-lena-lena.
 
-<span id="fn_221"></span>[100:e](ulh15.htm#fr_225) *Kiha-nui a Piilani*.
+<span id="fn_221"></span>[100:e](ulh15.htm#fr_225.md) *Kiha-nui a Piilani*.
 Son of Piilani, a king of Maui. He is credited with the formidable
 engineering work of making a paved road over the mountain palis of
 Koolau, Maui.
 
-<span id="fn_222"></span>[100:f](ulh15.htm#fr_226) *Kauhi
+<span id="fn_222"></span>[100:f](ulh15.htm#fr_226.md) *Kauhi
 kalana-honu’-a-Kama*. This Kauhi, as his long title indicates, was the
 son of the famous king, Kama-lala-walu, and succeeded his father in the
 kingship over Maui and, probably, Lanai. Kama-lala-walu had a long and
@@ -789,15 +789,15 @@ wounded and defeated in battle, taken prisoner, and offered up as a
 sacrifice on the altar of Lono's god, preferring that death, it is said,
 to the ignominy of release.
 
-<span id="fn_223"></span>[100:g](ulh15.htm#fr_227) *I-olena*. Roving,
+<span id="fn_223"></span>[100:g](ulh15.htm#fr_227.md) *I-olena*. Roving,
 shifty, lustful.
 
-<span id="fn_224"></span>[100:h](ulh15.htm#fr_228) *Kanaka hoali mauna*.
+<span id="fn_224"></span>[100:h](ulh15.htm#fr_228.md) *Kanaka hoali mauna*.
 Man who moved mountains; an epithet of compliment applied perhaps to
 Kiha, above mentioned, or to the king mentioned in the next verse.
 Kekaulike.
 
-<span id="fn_225"></span>[100:i](ulh15.htm#fr_229) *Ku’i hono i ka
+<span id="fn_225"></span>[100:i](ulh15.htm#fr_229.md) *Ku’i hono i ka
 moku*. Who bound together into one (state) the islands Maui, Molokai,
 Lanai, and Kahoolawe. This was, it is said, Kekaulike, the fifth king of
 Maui after Kamalala-wale. At his death he was succeeded by
@@ -805,7 +805,7 @@ Kamehameha-nui--to he distinguished from the Kamehameha of Hawaii and he
 in turn by the famous warrior-king Kahekili, who routed the invading
 array of Kalaniopuu, king of Hawaii, on the sand plains of Wailuku.
 
-<span id="fn_226"></span>[100:j](ulh15.htm#fr_230) *I waihona kapuahi
+<span id="fn_226"></span>[100:j](ulh15.htm#fr_230.md) *I waihona kapuahi
 kanaka ehá*. This verse presents grammatical difficulties. The word *I*
 implies the imperative, a form of request or demand, though that is
 probably not the intent. It seems to be a means, authorized by poetical
@@ -816,38 +816,38 @@ poetical effect, as that king, in the opinion of the author, had no
 power over Kauai, Oahu, or Hawaii. The purpose may have been to assert
 that his glory reached to those islands.
 
-<span id="fn_227"></span>[100:k](ulh15.htm#fr_231) *Keawe enaena*.
+<span id="fn_227"></span>[100:k](ulh15.htm#fr_231.md) *Keawe enaena*.
 Keawe, whose tabu was hot as a burning oven. Presumably Keawe, the son
 of Umi, is the one meant.
 
-<span id="fn_228"></span>[100:l](ulh15.htm#fr_232) *Naulu*. The
+<span id="fn_228"></span>[100:l](ulh15.htm#fr_232.md) *Naulu*. The
 sea-breeze at Waimea, Kauai.
 
-<span id="fn_229"></span>[101:a](ulh15.htm#fr_233) *Hale-lii*. A sandy
+<span id="fn_229"></span>[101:a](ulh15.htm#fr_233.md) *Hale-lii*. A sandy
 plain on Niihau, where grows a variety of sugar-cane that lies largely
 covered by the loose soil, *ke ko eli o Hala-lii*.
 
-<span id="fn_230"></span>[101:b](ulh15.htm#fr_234) *Li’u-la*. The
+<span id="fn_230"></span>[101:b](ulh15.htm#fr_234.md) *Li’u-la*. The
 mirage, a common phenomenon on Niihau, and especially at Mana, on Kauai.
 
-<span id="fn_231"></span>[101:c](ulh15.htm#fr_235) *Lawa-kua*. A wind in
+<span id="fn_231"></span>[101:c](ulh15.htm#fr_235.md) *Lawa-kua*. A wind in
 Kalalau that blows for a time from the mountains and then, it is said,
 veers to the north, so that it comes from the direction of a secondary
 valley, Kolo-kini, a branch of Kalalau. The bard describes it as
 continuing to blow for twelve nights before it shifts, an instance,
 probably, of poetic license.
 
-<span id="fn_232"></span>[102:a](ulh15.htm#fr_236) *Ko’a-mano*. A part
+<span id="fn_232"></span>[102:a](ulh15.htm#fr_236.md) *Ko’a-mano*. A part
 of the ocean into which the stream Wai-aloha falls.
 
-<span id="fn_233"></span>[102:b](ulh15.htm#fr_237) *Waha iho*. With
+<span id="fn_233"></span>[102:b](ulh15.htm#fr_237.md) *Waha iho*. With
 mouth that yawns downward, referring, doubtless. to the overarching of
 the *pali*, precipice. The same figure is applied to the back (*kua*) of
 the traveler who climbs it.
 
-<span id="fn_234"></span>[102:c](ulh15.htm#fr_238) Elision of the final
+<span id="fn_234"></span>[102:c](ulh15.htm#fr_238.md) Elision of the final
 *a* in *ana*.
 
 ------------------------------------------------------------------------
 
-[Next: XII.--The Hula Pahu](ulh16)
+[Next: XII.--The Hula Pahu](ulh16.md)

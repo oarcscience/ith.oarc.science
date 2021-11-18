@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes36)  [Next](tes38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes36)  [Next](tes38.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ the, Kolyma country, summer of 1896.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Tale of a Shaman](tes38)
+[Next: 16. Tale of a Shaman](tes38.md)

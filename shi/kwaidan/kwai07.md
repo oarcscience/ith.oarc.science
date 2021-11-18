@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai06)  [Next](kwai08) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai06)  [Next](kwai08.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ But no!--I really cannot tell you with what it was filled.
 
 ------------------------------------------------------------------------
 
-[Next: Jikininki](kwai08)
+[Next: Jikininki](kwai08.md)

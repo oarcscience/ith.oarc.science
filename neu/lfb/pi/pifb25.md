@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb24)  [Next](pifb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb24)  [Next](pifb26.md) 
 
 </div>
 
@@ -245,6 +245,6 @@ ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Wounded Lion](pifb26)
+[Next: The Wounded Lion](pifb26.md)
 
 </div>

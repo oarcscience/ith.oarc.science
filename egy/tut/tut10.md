@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](tut09)  [Next](tut11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](tut09)  [Next](tut11.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_122">p. 122</span>
 
-# B.--HYMN TO ATEN <span id="fr_64"></span>[1](#fn_64)
+# B.--HYMN TO ATEN <span id="fr_64"></span>[1](#fn_64.md)
 
 ###### BY
 
@@ -155,7 +155,7 @@ Thou makest the Seasons to develop everything that thou hast made:
 
 11\. The season of Pert (*i.e.*, Nov. 16-March 16) so that they may
 refresh themselves, and the season Heh (*i.e.*, March 16-Nov. 16) in
-order to taste thee. <span id="fr_65"></span>[1](#fn_65) Thou hast made
+order to taste thee. <span id="fr_65"></span>[1](#fn_65.md) Thou hast made
 the heaven which is remote that thou mayest shine therein and look upon
 everything
 
@@ -197,12 +197,12 @@ Nefer-neferu-Aten Nefertiti, living \[and\] young for ever and ever.
 
 ### Footnotes
 
-<span id="fn_64"></span>[122:1](tut10.htm#fr_64) See N. de G. Davies,
+<span id="fn_64"></span>[122:1](tut10.htm#fr_64.md) See N. de G. Davies,
 *op. cit.*, Vol. VI, pl. xxvii.
 
-<span id="fn_65"></span>[132:1](tut10.htm#fr_65) *i.e.*, for men to feel
+<span id="fn_65"></span>[132:1](tut10.htm#fr_65.md) *i.e.*, for men to feel
 the heart of Shu who is in the Aten.
 
 ------------------------------------------------------------------------
 
-[Next: Hymns to the Sun-God](tut11)
+[Next: Hymns to the Sun-God](tut11.md)

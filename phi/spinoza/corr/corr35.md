@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr34)  [Next](corr36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr34)  [Next](corr36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -136,7 +136,7 @@ To your second question, I reply: If, by " good in relation to God," you
 mean that the honest man confers a favour on God, and the thief does Him
 an injury, I answer that neither the honest man nor the thief can cause
 God any pleasure or displeasure. If you mean to ask, whether the actions
-of each, in so far as they [possess](errata.htm#5) reality, and are
+of each, in so far as they [possess](errata.htm#5.md) reality, and are
 caused by God, are equally perfect? I reply that, if we merely regard
 the actions and the manner of their execution, both may be equally
 perfect. If you, therefore, inquire whether the thief and the honest man
@@ -185,4 +185,4 @@ I will now only subscribe myself, &c.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXXVII. From Blyenbergh (Omitted)](corr36)
+[Next: Letter XXXVII. From Blyenbergh (Omitted)](corr36.md)

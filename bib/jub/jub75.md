@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub74) 
-[Next](jub76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub74.md) 
+[Next](jub76.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,13 +9,13 @@
 
 XXXIX\. And Jacob dwelt in the land of his father's sojournings in the
 land of Canaan. 2. These are the generations of Jacob. And Joseph was
-seventeen years old <span id="fr_844"></span>[15](#fn_836) when they
+seventeen years old <span id="fr_844"></span>[15](#fn_836.md) when they
 took him down into the land of Egypt, and Potiphar, an eunuch of
 Pharaoh,
 
 <span id="page_185">p. 185</span>
 
-the chief cook <span id="fr_845"></span>[1](#fn_837) bought him. 3. And
+the chief cook <span id="fr_845"></span>[1](#fn_837.md) bought him. 3. And
 he set Joseph over all his house, and the blessing of the Lord came upon
 the house of the Egyptian on account of Joseph, and the Lord prospered
 him in all that he did. 4. And the Egyptian committed everything into
@@ -25,7 +25,7 @@ comely and very beautiful was his appearance, and his master's wife
 lifted up her eyes and saw Joseph, and she loved him, and besought him
 to lie with her. 6. But he did not surrender his soul, and he remembered
 the Lord and the words which Jacob, his father, used to read from
-amongst the words of Abraham, <span id="fr_846"></span>[2](#fn_838) that
+amongst the words of Abraham, <span id="fr_846"></span>[2](#fn_838.md) that
 no man should commit fornication with a woman who hath a husband; that
 for him the punishment of death hath been ordained in the heavens before
 the Most High God, and the sin will be recorded against him in the
@@ -52,22 +52,22 @@ of the prison guards and compassion before him, for he saw that the Lord
 was with him, and that the Lord made all that he did to prosper. 13. And
 he committed all things into his hands, and the chief of -the prison
 guards knew of nothing that was with him, <span
-id="fr_847"></span>[1](#fn_839) for Joseph did everything, and the Lord
+id="fr_847"></span>[1](#fn_839.md) for Joseph did everything, and the Lord
 perfected it.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_836"></span>[184:15](jub75.htm#fr_844) Cf. Gen. xxxvii. 2.
+<span id="fn_836"></span>[184:15](jub75.htm#fr_844.md) Cf. Gen. xxxvii. 2.
 
-<span id="fn_837"></span>[185:1](jub75.htm#fr_845) Cf. xxxiv. ii (note).
+<span id="fn_837"></span>[185:1](jub75.htm#fr_845) Cf. xxxiv. ii (note.md).
 
-<span id="fn_838"></span>[185:2](jub75.htm#fr_846) Cf. xx. 4, xxv. 7.
+<span id="fn_838"></span>[185:2](jub75.htm#fr_846.md) Cf. xx. 4, xxv. 7.
 
-<span id="fn_839"></span>[186:1](jub75.htm#fr_847) Cf. Gen. xxxix. 8.
+<span id="fn_839"></span>[186:1](jub75.htm#fr_847.md) Cf. Gen. xxxix. 8.
 
 ------------------------------------------------------------------------
 
 [Next: Joseph interprets the Dreams of the Chief Butler and the Chief
-Baker (xxxix. 14-18](jub76)
+Baker (xxxix. 14-18](jub76.md)

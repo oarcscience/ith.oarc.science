@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat02.htm#V)  [Previous](satl004) 
-[Next](satl006) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat02.htm#V)  [Previous](satl004.md) 
+[Next](satl006.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ plenus Pierio defundes pectore verba."
 
 ------------------------------------------------------------------------
 
-[Next: VI](satl006)
+[Next: VI](satl006.md)

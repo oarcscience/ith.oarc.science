@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn31)  [Next](rmn33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn31)  [Next](rmn33.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ THIS fresco was discovered at Gragnano in 1760, and represents in
 caricature the flight of Æneas. The ancients were fond of such grotesque
 representations, which they called *cercopitheci* (long-tailed monkeys),
 or *cynocephali* (dog-headed monkeys). <span
-id="fr_35"></span>[1](#fn_35)
+id="fr_35"></span>[1](#fn_35.md)
 
 The Trojan hero wears round his neck that kind of garment which was
 called a chlamys. It is of dark red, as is also that of young Ascanius.
@@ -55,13 +55,13 @@ The young Ascanius grasps his father's right hand, according to the
 poet's description
 
      --Dextræ se parvus Iulus  
-Implicuit. <span id="fr_36"></span>[1](#fn_36)
+Implicuit. <span id="fr_36"></span>[1](#fn_36.md)
 
 Too young and feeble to keep up with him, he follows with lagging
 steps:--
 
 Sequiturque patrem non passibus æquis. <span
-id="fr_37"></span>[2](#fn_37)
+id="fr_37"></span>[2](#fn_37.md)
 
 Indeed, in looking at the present fresco, the lines of the poet
 naturally recur to our memory.
@@ -156,7 +156,7 @@ And thrice about her neck my arms I flung:
 And, thrice deceived, on vain embraces hung.  
 Light as an empty dream at break of day,  
 Or as a blast of wind, she rush'd away." <span
-id="fr_38"></span>[1](#fn_38)
+id="fr_38"></span>[1](#fn_38.md)
 
  
 
@@ -164,16 +164,16 @@ id="fr_38"></span>[1](#fn_38)
 
 ### Footnotes
 
-<span id="fn_35"></span>[62:1](rmn32.htm#fr_35) MARTIAL; PLINY;
+<span id="fn_35"></span>[62:1](rmn32.htm#fr_35.md) MARTIAL; PLINY;
 PAUSANIAS.
 
-<span id="fn_36"></span>[63:1](rmn32.htm#fr_36) Æn. II.
+<span id="fn_36"></span>[63:1](rmn32.htm#fr_36.md) Æn. II.
 
-<span id="fn_37"></span>[63:2](rmn32.htm#fr_37) *Ib*. II.
+<span id="fn_37"></span>[63:2](rmn32.htm#fr_37.md) *Ib*. II.
 
-<span id="fn_38"></span>[65:1](rmn32.htm#fr_38) ÆN. II., Dryden's
+<span id="fn_38"></span>[65:1](rmn32.htm#fr_38.md) ÆN. II., Dryden's
 translation.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXII: The Faun's Kiss](rmn33)
+[Next: Plate XXXII: The Faun's Kiss](rmn33.md)

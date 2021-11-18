@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey21)  [Next](grey23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey21)  [Next](grey23.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ they moved:
 
 'Here you come climbing over Mount Tirangi  
 To visit the handsome chief of Ngapuhi,  
-Whom we have done with.' <span id="fr_22"></span>[1](#fn_22)
+Whom we have done with.' <span id="fr_22"></span>[1](#fn_22.md)
 
 A sudden thought struck Te Kanawa that he might induce them to go away
 if he gave them all the jewels he had about him; so he took off a
@@ -90,10 +90,10 @@ Te Kanawa had died before any Europeans arrived in New Zealand.
 
 ### Footnotes
 
-<span id="fn_22"></span>[213:1](grey22.htm#fr_22) Te Wherowhero did not
+<span id="fn_22"></span>[213:1](grey22.htm#fr_22.md) Te Wherowhero did not
 remember the whole song, but that this was the concluding verse; it was
 probably in allusion to their coming to peep at Te Kanawa.
 
 ------------------------------------------------------------------------
 
-[Next: The Loves of Takarangi and Rau-mahora](grey23)
+[Next: The Loves of Takarangi and Rau-mahora](grey23.md)

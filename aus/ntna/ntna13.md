@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna12)  [Next](ntna14) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna12)  [Next](ntna14.md) 
 
 ------------------------------------------------------------------------
 
@@ -311,4 +311,4 @@ restrictions are removed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: Weapons and Implements](ntna14)
+[Next: Chapter XII: Weapons and Implements](ntna14.md)

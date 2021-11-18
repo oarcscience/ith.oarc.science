@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng29)  [Next](vlsng31) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng29)  [Next](vlsng31.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ the ring, wherefrom did all their talk arise.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX: Of Brynhild's great Grief and Mourning.](vlsng31)
+[Next: Chapter XXIX: Of Brynhild's great Grief and Mourning.](vlsng31.md)

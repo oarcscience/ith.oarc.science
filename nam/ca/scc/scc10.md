@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc09)  [Next](scc11) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc09)  [Next](scc11.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ North Fork of the San Joaquin.
 
 ------------------------------------------------------------------------
 
-[Next: 9.--Pohonichi Miwok. The Origin Of Death.](scc11)
+[Next: 9.--Pohonichi Miwok. The Origin Of Death.](scc11.md)

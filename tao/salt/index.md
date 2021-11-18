@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](salt00)    [Page
-Index](pageidx)    [Text \[Zipped\]](salt.txt.gz)
+[Contents](#contents)    [Start Reading](salt00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](salt.txt.gz.md)
 
 |                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------|
@@ -36,26 +36,26 @@ Index](pageidx)    [Text \[Zipped\]](salt.txt.gz)
 ------------------------------------------------------------------------
 
 This is Lionel Giles' translation of the Tao te Ching, from the [Wisdom
-of the East](../../woe/index) series. Giles (1875-1958) was Keeper of
+of the East](../../woe/index) series. Giles (1875-1958.md) was Keeper of
 the Department of Oriental Books and Manuscripts at the British Museum.
-He also translated Sun Tzu's [Art of War](../aow/index).
+He also translated Sun Tzu's [Art of War](../aow/index.md).
 
 This translation is long out of print, which is a shame, because it is a
 very clear English rendition of this very difficult and profund text.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](salt00)  
-[Contents](salt01)  
-[Editorial Note](salt02)  
-[Introduction](salt03)  
+<span id="contents"></span> [Title Page](salt00.md)  
+[Contents](salt01.md)  
+[Editorial Note](salt02.md)  
+[Introduction](salt03.md)  
 [Tao In Its Transcendental Aspect, And In Its Physical
-Manifestation](salt04)  
-[Tao As A Moral Principle, Or ''Virtue''](salt05)  
-[The Doctrine of Inaction](salt06)  
-[Lowliness And Humility](salt07)  
-[Government](salt08)  
-[War](salt09)  
-[Paradoxes](salt10)  
-[Miscellaneous Sayings and Precepts](salt11)  
-[Lao Tzŭ On Himself](salt12)  
+Manifestation](salt04.md)  
+[Tao As A Moral Principle, Or ''Virtue''](salt05.md)  
+[The Doctrine of Inaction](salt06.md)  
+[Lowliness And Humility](salt07.md)  
+[Government](salt08.md)  
+[War](salt09.md)  
+[Paradoxes](salt10.md)  
+[Miscellaneous Sayings and Precepts](salt11.md)  
+[Lao Tzŭ On Himself](salt12.md)  

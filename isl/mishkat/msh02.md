@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh01)  [Next](msh03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh01)  [Next](msh03.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ July, 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](msh03)
+[Next: Contents](msh03.md)

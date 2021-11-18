@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat03)  [Next](sat05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat03)  [Next](sat05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -46,7 +46,7 @@ things, and the humble resigned soul is its playfellow; this is the
 divine alloquy, the inspiration of the Almighty, the breath of God, the
 holy unction, which sanctifies the soul to be the temple of the Holy
 Ghost, which instructs it aright in all things, and searches τὰ βάθη το̃υ
-Θεο̃υ, <span id="fr_1"></span>[1](#fn_1) the depths of God.
+Θεο̃υ, <span id="fr_1"></span>[1](#fn_1.md) the depths of God.
 
 This is the precious pearl, whose beauty is more glorious, and whose
 virtue more sovereign than the sun: It is a never-failing comfort in all
@@ -59,7 +59,7 @@ perfect bliss.
 If you ask, What is the way to attain to this wisdom? Behold! Christ,
 who is the way, the truth, and the life, tells you plainly in these
 words; "If any man will come after me, let him deny himself, and take up
-his cross daily and follow me;" <span id="fr_2"></span>[2](#fn_2) or as
+his cross daily and follow me;" <span id="fr_2"></span>[2](#fn_2.md) or as
 he
 
 <span id="page_4">p. 4</span>
@@ -67,7 +67,7 @@ he
 says elsewhere, "Unless you be born again, you cannot see the kingdom of
 heaven:" or as St. Paul says, "If any man seemeth to be wise in this
 world, let him become a fool that he may be wise." <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 Herein lies that simple childlike way to the highest wisdom, which no
 sharp reason or worldly learning can reach unto; nay, it is foolishness
@@ -203,7 +203,7 @@ I will end with the words of the author at the conclusion of the book,
 where he says thus; "I have faithfully, with all true admonition,
 represented to the reader what the Lord of all beings has given me; he
 may behold himself in this looking-glass <span
-id="fr_4"></span>[1](#fn_4) within and without, and so he shall find
+id="fr_4"></span>[1](#fn_4.md) within and without, and so he shall find
 what and who he is: Every reader, be he good or bad, will find his
 profit and benefit therein: It is a very clear gate of the great mystery
 of all beings: By glosses, commentaries, curiosity and self-wit, none
@@ -220,14 +220,14 @@ hidden all the treasures of wisdom and knowledge.
 
 ### Footnotes
 
-<span id="fn_1"></span>[3:1](sat04.htm#fr_1) Cor. ii. 10.
+<span id="fn_1"></span>[3:1](sat04.htm#fr_1.md) Cor. ii. 10.
 
-<span id="fn_2"></span>[3:2](sat04.htm#fr_2) Luke ix. 23.
+<span id="fn_2"></span>[3:2](sat04.htm#fr_2.md) Luke ix. 23.
 
-<span id="fn_3"></span>[4:1](sat04.htm#fr_3) 1 Cor. iii. 13.
+<span id="fn_3"></span>[4:1](sat04.htm#fr_3.md) 1 Cor. iii. 13.
 
-<span id="fn_4"></span>[7:1](sat04.htm#fr_4) Mirror.
+<span id="fn_4"></span>[7:1](sat04.htm#fr_4.md) Mirror.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](sat05)
+[Next: Chapter I](sat05.md)

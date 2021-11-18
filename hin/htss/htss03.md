@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](htss02)  [Next](htss04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](htss02)  [Next](htss04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Tamil Saivite Saints*, by F. Kingsbury and G.P. Phillips,
 \[1921\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@
 
 <span id="img_00800"></span> <span align="CENTER">
 [![SAMBANDAR](tn/00800.jpg)  
-Click to enlarge](img/00800.jpg)  
+Click to enlarge](img/00800.jpg.md)  
 SAMBANDAR  
 </span>
 
@@ -569,6 +569,6 @@ May sorrow pass away, from earth's remotest bound.
 
 ------------------------------------------------------------------------
 
-[Next: Apparswami and his Hymns](htss04)
+[Next: Apparswami and his Hymns](htss04.md)
 
 </div>

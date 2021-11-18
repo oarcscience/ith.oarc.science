@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil60)  [Next](egil62) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil60)  [Next](egil62.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ the property and care of the house.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXI. Death of Skallagrim.](egil62)
+[Next: CHAPTER LXI. Death of Skallagrim.](egil62.md)

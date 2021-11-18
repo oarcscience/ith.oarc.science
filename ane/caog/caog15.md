@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog14)  [Next](caog16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog14)  [Next](caog16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ book, the engraving from an Assyrian sculpture
 <span id="page_194">p. 194</span>
 
 in the last chapter, and the engraving in page
-[239](caog17.htm#page_239) showing Izdubar and Heabani struggling with
+[239](caog17.htm#page_239.md) showing Izdubar and Heabani struggling with
 wild animals. In all these cases, and in every other instance where
 Izdubar is represented, he is indicated as a man with masses of curls
 over his head and a large curly beard. So marked is this, and different
@@ -634,6 +634,6 @@ earlier part of these legends.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Destruction of the Tyrant Humbaba](caog16)
+[Next: Chapter XIII. Destruction of the Tyrant Humbaba](caog16.md)
 
 </div>

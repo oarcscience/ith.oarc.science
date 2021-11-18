@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft68)  [Next](sfft70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft68)  [Next](sfft70.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### RONALDSON OF BOWDEN. <span id="fr_106"></span>[3](#fn_106)
+### RONALDSON OF BOWDEN. <span id="fr_106"></span>[3](#fn_106.md)
 
 A MAN named Ronaldson, who lived at the village of Bowden, is reported
 to have had frequent encounters with the witches of that place. Among
@@ -35,17 +35,17 @@ he exclaimed, "I' the name o' the Lord, ye'se get me no farther!" At
 that moment the rope broke, the air rang as with the laughter of a
 thousand voices; and as he kept his footing on the stone, he heard a
 muttered cry, "Ah, we've lost the coof!" <span
-id="fr_107"></span>[1](#fn_107)
+id="fr_107"></span>[1](#fn_107.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_106"></span>[231:3](sfft69.htm#fr_106) W. Henderson,
+<span id="fn_106"></span>[231:3](sfft69.htm#fr_106.md) W. Henderson,
 Folk-Lore of the Northern Counties.
 
-<span id="fn_107"></span>[232:1](sfft69.htm#fr_107) Fool.
+<span id="fn_107"></span>[232:1](sfft69.htm#fr_107.md) Fool.
 
 ------------------------------------------------------------------------
 
-[Next: The Farmer's Wife Of Deloraine](sfft70)
+[Next: The Farmer's Wife Of Deloraine](sfft70.md)

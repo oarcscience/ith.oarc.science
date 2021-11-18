@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu25)  [Next](tmu27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu25)  [Next](tmu27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_202">p. 202</span>
 
-### ḌHYĀNABINḌU-UPANISHAḌ <span id="fr_162"></span>[1](#fn_148)
+### ḌHYĀNABINḌU-UPANISHAḌ <span id="fr_162"></span>[1](#fn_148.md)
 
 ### OF
 
@@ -33,7 +33,7 @@ mountain extending over many yojanas (distance), it is destroyed by
 Bījākshara (seed-letter) is the supreme binḍu. Nāḍa (spiritual sound) is
 above it. When that nāḍa ceases along with letter, than the nāḍa-less is
 supreme state. That yogin who considers as the highest that which is
-above nāḍa, which is anāhaṭa, <span id="fr_163"></span>[2](#fn_149) has
+above nāḍa, which is anāhaṭa, <span id="fr_163"></span>[2](#fn_149.md) has
 all his doubts destroyed. If the point of a hair be divided into
 one-hundred thousand parts, this (nāḍa) is one-half of that still
 further divided; and when (even) this is absorbed, the yogin attains to
@@ -107,7 +107,7 @@ the middle of the moon: the prabhā (spiritual light) is in the middle of
 agni. Pītha (seat or centre) is in the midst of prabhā, being set in
 diverse gems. One should meditate upon the stainless Lord Vāsuḍeva as
 being (seated) upon the centre of Pītha, as having Śrīvaṭsa <span
-id="fr_164"></span>[1](#fn_150) (black mark) and Kausṭubha (garland of
+id="fr_164"></span>[1](#fn_150) (black mark.md) and Kausṭubha (garland of
 gems) on his chest and as adorned with gems and pearls resembling pure
 crystal in lustre and as resembling crores of moons in brightness. He
 should meditate upon Mahā-Vishṇu as above or in the following manner.
@@ -161,7 +161,7 @@ itself. The chakra in the sphere of the navel is called Maṇipūraka,
 since the body is pierced through by vāyu like maṇis (gems) by string.
 The jīva (ego) urged to actions by its past virtuous and sinful karmas
 whirls about in this great chakra of twelve <span
-id="fr_165"></span>[1](#fn_151) spokes, so long as it
+id="fr_165"></span>[1](#fn_151.md) spokes, so long as it
 
 <span id="page_206">p. 206</span>
 
@@ -323,11 +323,11 @@ means. This alone is the means of knowing Āṭmā.
 
 When vāyu (breath) which enters the great hole associated with a hall
 where four roads meet gets into the half of the well-placed
-triangle, <span id="fr_166"></span>[1](#fn_152) then is Achyuṭa (the
+triangle, <span id="fr_166"></span>[1](#fn_152.md) then is Achyuṭa (the
 indestructible) seen. Above the aforesaid triangle, one should meditate
 on the five bīja (seed) letters of (the elements) pṛṭhivī, etc., as also
 on the five prāṇas, the colour of the bījas and their position. The
-letter य <span id="fr_167"></span>[2](#fn_153) is the bīja of prāṇa and
+letter य <span id="fr_167"></span>[2](#fn_153.md) is the bīja of prāṇa and
 resembles the blue cloud. The letter र is the bīja of agni, is of apāna
 and resembles the sun. The letter ल is the bīja of pṛṭhivī, is of vyāna
 and resembles banḍhūka flower. The letter व is the bīja of jīva (or
@@ -360,27 +360,27 @@ Thus is the Upanishaḍ.
 
 ### Footnotes
 
-<span id="fn_148"></span>[202:1](tmu26.htm#fr_162) The Upanishaḍ of the
+<span id="fn_148"></span>[202:1](tmu26.htm#fr_162.md) The Upanishaḍ of the
 seed of meditation.
 
-<span id="fn_149"></span>[202:2](tmu26.htm#fr_163) Of the heart.
+<span id="fn_149"></span>[202:2](tmu26.htm#fr_163.md) Of the heart.
 
-<span id="fn_150"></span>[204:1](tmu26.htm#fr_164) The black mark on the
+<span id="fn_150"></span>[204:1](tmu26.htm#fr_164.md) The black mark on the
 breast standing for mūlaprakṛṭi and the garland for the five elements.
 
-<span id="fn_151"></span>[205:1](tmu26.htm#fr_165) In other places, it
+<span id="fn_151"></span>[205:1](tmu26.htm#fr_165.md) In other places, it
 is ten.
 
-<span id="fn_152"></span>[210:1](tmu26.htm#fr_166) Probably it refers to
+<span id="fn_152"></span>[210:1](tmu26.htm#fr_166.md) Probably it refers to
 the triangle of the initiates.
 
-<span id="fn_153"></span>[210:2](tmu26.htm#fr_167) There seems to be
+<span id="fn_153"></span>[210:2](tmu26.htm#fr_167.md) There seems to be
 some mistake in the original.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 25. Hamsa-Upanishaḍ of Śukla-Yajurveḍa](tmu27)
+[Next: 25. Hamsa-Upanishaḍ of Śukla-Yajurveḍa](tmu27.md)
 
 </div>

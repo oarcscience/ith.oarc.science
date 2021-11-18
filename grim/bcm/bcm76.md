@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm75)  [Next](bcm77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm75)  [Next](bcm77.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ of the Most Holy Adonay, to give me prompt enlightenment
 
 upon, &c. \[Here name the subject upon which information is desired.\]
 *And if for reasons unknown to us, thou art unwilling to proceed in an
-audible tone of voice*, <span id="fr_276"></span>[1](#fn_275) *I conjure
+audible tone of voice*, <span id="fr_276"></span>[1](#fn_275.md) *I conjure
 thee in the Most Holy Name of Adonay to write upon the virgin parchment
 here present, between now and to-morrow morning, or at least reveal unto
 me that which I desire this coming might in my sleep*.
@@ -123,7 +123,7 @@ Blessed Spirit of the *Grimorium Verum*.
 
 ### Footnotes
 
-<span id="fn_275"></span>[317:1](bcm76.htm#fr_276) That is, in a voice
+<span id="fn_275"></span>[317:1](bcm76.htm#fr_276.md) That is, in a voice
 audible to the clairvoyant boy, the process being obviously intended for
 those who are not themselves seers. It recalls the vast seering
 experiments of Dr. Dee.
@@ -131,4 +131,4 @@ experiments of Dr. Dee.
 ------------------------------------------------------------------------
 
 [Next: Section 7: Concerning the Mirror of Solomon, suitable for all
-Kinds of Divination](bcm77)
+Kinds of Divination](bcm77.md)

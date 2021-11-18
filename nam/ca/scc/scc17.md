@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc16)  [Next](scc18) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc16)  [Next](scc18.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ together in the sky above.
 
 ------------------------------------------------------------------------
 
-[Next: 16.--Truhohi Yokuts. The Theft Of Fire.](scc18)
+[Next: 16.--Truhohi Yokuts. The Theft Of Fire.](scc18.md)

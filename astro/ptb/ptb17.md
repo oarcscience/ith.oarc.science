@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb16)  [Next](ptb18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb16)  [Next](ptb18.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ summer solstice, which compose the sign of Cancer; and the first thirty
 degrees after the winter solstice, composing the sign of Capricorn.
 These are called *tropical*, because the Sun, after he has arrived at
 their first points, seems to *turn*, and to change his course towards a
-contrary latitude; <span id="fr_53"></span>[1](#fn_53) causing summer by
+contrary latitude; <span id="fr_53"></span>[1](#fn_53.md) causing summer by
 the *turn* he makes in Cancer, and winter by that which he makes in
 Capricorn.
 
@@ -46,10 +46,10 @@ to their last degrees.
 
 ### Footnotes
 
-<span id="fn_53"></span>[23:1](ptb17.htm#fr_53) In other words, the Sun
+<span id="fn_53"></span>[23:1](ptb17.htm#fr_53.md) In other words, the Sun
 then begins to diminish his declination, which, at the first points of
 the said signs, is at its greatest amount.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Masculine and Feminine Signs](ptb18)
+[Next: Chapter XV. Masculine and Feminine Signs](ptb18.md)

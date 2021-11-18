@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic15)  [Next](tic17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic15)  [Next](tic17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ SOULS BACK FROM THE RIGHT PATH.
 betrothal. 3. Before the spiritual nuptials temptations are dangerous.
 4. The great good done by souls faithful to these graces. 5. Religious
 subject to the devil's deceptions. 6. Satan's strata-gems. 7. Why they
-are [permitted](errata.htm#2). 8. Prayer and watchfulness our
+are [permitted](errata.htm#2.md). 8. Prayer and watchfulness our
 safeguards. 9. God's watchfulness over such souls. 10. Progress in
 virtue. 11. Insignificance of our actions compared with their reward.
 12. St. Teresa's motives for writing on prayer*.
@@ -43,7 +43,7 @@ express myself more fully about the prayer of union and will make use,
 to the best of my scanty wits, of a comparison. Later on we will speak
 of the little butterfly, which is never still, for it can find no true
 repose, yet always fertile, doing good both to itself and others. <span
-id="fr_198"></span>[1](#fn_198) You have often heard that God
+id="fr_198"></span>[1](#fn_198.md) You have often heard that God
 spiritually espouses souls: may He be
 
 <span id="page_148">p. 148</span>
@@ -71,7 +71,7 @@ in reality, wishes in return to gratify His bride. He therefore bestows
 this favour upon her, visits her and draws her into His presence, as He
 wishes her to know Him better. We might compare the prayer of union to a
 visit, for it lasts but a very little while. <span
-id="fr_199"></span>[2](#fn_199) There is no longer any
+id="fr_199"></span>[2](#fn_199.md) There is no longer any
 
 <span id="page_149">p. 149</span>
 
@@ -84,21 +84,21 @@ love for Him makes every effort to prevent their being frustrated.
 Should it grow neglectful and set its affections on anything except our
 Lord, it will forfeit everything: this loss is as great as are the
 favours the soul has continually received, which are precious beyond
-description. <span id="fr_200"></span>[3](#fn_200)
+description. <span id="fr_200"></span>[3](#fn_200.md)
 
 3\. O Christian souls! you whom God has brought thus far! I implore you
 for His dear sake not to grow careless, but to avoid all occasions of
 sin; you are not strong enough yet to undergo temptation, as you will be
 after the espousals which take place in the next mansion. Here the
 betrothed are, as they say, only acquainted by sight, <span
-id="fr_201"></span>[4](#fn_201) and the devil will spare no pains to
+id="fr_201"></span>[4](#fn_201.md) and the devil will spare no pains to
 oppose and prevent their nuptials. Afterwards, when he sees the Bride is
 wholly given to her Bridegroom, he is afraid to interfere, having learnt
 by experience that if he molests her, while he loses much, she will gain
 greatly in merit.
 
 4\. I can assure you, my daughters, <span
-id="fr_202"></span>[5](#fn_202) that I have known people far advanced in
+id="fr_202"></span>[5](#fn_202.md) that I have known people far advanced in
 the spiritual life who had reached this state of prayer yet whom the
 devil reclaimed by his subtlety and wiles: as I
 
@@ -127,14 +127,14 @@ is entirely united with the will of God, as I have stated, how can it be
 deceived, since it ever seeks to follow His pleasure? Secondly, how can
 the devil enter and work such havoc as to destroy your soul while you
 are so utterly withdrawn from the world and constantly frequent the
-Sacraments? <span id="fr_203"></span>[6](#fn_203) At the same time you
+Sacraments? <span id="fr_203"></span>[6](#fn_203.md) At the same time you
 enjoy the society
 
 <span id="page_151">p. 151</span>
 
 of angels (as we might call them) and by the mercy of God you desire
 nothing but to serve and please Him in all things? <span
-id="fr_204"></span>[7](#fn_204) It is not surprising that people in the
+id="fr_204"></span>[7](#fn_204.md) It is not surprising that people in the
 world should run such risks. I admit you have the right to say this, for
 God has shown us signal mercy; but, as I said above, knowing as I do
 that Judas was amongst the Apostles and that he held constant
@@ -174,7 +174,7 @@ at once perceive our gain or loss.
 abandons it so easily that it is light work for the devil to regain it.
 When His Majesty sees it leaving Him, He feels the loss so keenly that
 He gives it in many a way a thousand secret warnings which reveal to it
-the hidden danger. <span id="fr_205"></span>[8](#fn_205)
+the hidden danger. <span id="fr_205"></span>[8](#fn_205.md)
 
 10\. In conclusion, let us strive to make constant progress: we ought to
 feel great alarm if we do not find ourselves advancing, for without
@@ -184,7 +184,7 @@ farther, for love is never idle. Therefore it is a very bad sign when
 one comes to a stand-still in virtue. She who aspires to become the
 spouse of God Himself, and has treated with His Majesty and come to such
 an understanding with Him, must not leave off and go to sleep. <span
-id="fr_206"></span>[9](#fn_206)
+id="fr_206"></span>[9](#fn_206.md)
 
 11\. To show you, my daughters, how Christ treats the souls He takes for
 His brides, I will now speak
@@ -209,7 +209,7 @@ serve a Lord Who thus recompenses our efforts even in this world. What,
 then, will be our joy in heaven where it will be continuous, without the
 interruptions, labours, and dangers of this tempestuous sea of life?
 Were it not for the fear of losing or offending Him, we should wish to
-live until the end of the world <span id="fr_207"></span>[10](#fn_207)
+live until the end of the world <span id="fr_207"></span>[10](#fn_207.md)
 in order to work for so great a God--our Lord and our Spouse. May His
 Majesty enable us to render Him some service free from the many faults
 we always commit, even in good works! Amen.
@@ -218,34 +218,34 @@ we always commit, even in good works! Amen.
 
 ### Footnotes
 
-<span id="fn_198"></span>[147:1](tic16.htm#fr_198) Compare: 'habebit
+<span id="fn_198"></span>[147:1](tic16.htm#fr_198.md) Compare: 'habebit
 fructum in respectione animarum sanctarum' (*Breviar. Rom. Ant. ad
 Laudes de Com. Virg*.); 'quasi apis argumentosa Domino deservisti'
 (*Ibid*. Feast of St. Cæcilia.)
 
-<span id="fn_199"></span>[148:2](tic16.htm#fr_199) *Life*, ch. xviii.
+<span id="fn_199"></span>[148:2](tic16.htm#fr_199.md) *Life*, ch. xviii.
 
-<span id="fn_200"></span>[149:3](tic16.htm#fr_200) *Way of Perf.* ch.
+<span id="fn_200"></span>[149:3](tic16.htm#fr_200.md) *Way of Perf.* ch.
 xxxi. 10.
 
-<span id="fn_201"></span>[149:4](tic16.htm#fr_201) Phil. a SS. Trinit.
+<span id="fn_201"></span>[149:4](tic16.htm#fr_201.md) Phil. a SS. Trinit.
 *l.c.* p. iii. tract. i. disc. ii. art. 2.
 
-<span id="fn_202"></span>[149:5](tic16.htm#fr_202) Contrast with this
+<span id="fn_202"></span>[149:5](tic16.htm#fr_202.md) Contrast with this
 paragraph what the Saint says in her *Life*, ch. xix. § 8.
 
-<span id="fn_203"></span>[150:6](tic16.htm#fr_203) *Life*, ch, xxxvi.
+<span id="fn_203"></span>[150:6](tic16.htm#fr_203.md) *Life*, ch, xxxvi.
 26; xxxix. 14. *Found*. ch. i. 1-4.
 
-<span id="fn_204"></span>[151:7](tic16.htm#fr_204) *Way of Perf*. ch. i,
+<span id="fn_204"></span>[151:7](tic16.htm#fr_204.md) *Way of Perf*. ch. i,
 2; xiii. 3. *Found*. ch. i. 3.
 
-<span id="fn_205"></span>[152:8](tic16.htm#fr_205) *Life*, ch. xix. 9.
+<span id="fn_205"></span>[152:8](tic16.htm#fr_205.md) *Life*, ch. xix. 9.
 
-<span id="fn_206"></span>[152:9](tic16.htm#fr_206) *Life*, ch. xix. 7.
+<span id="fn_206"></span>[152:9](tic16.htm#fr_206.md) *Life*, ch. xix. 7.
 
-<span id="fn_207"></span>[153:10](tic16.htm#fr_207) *Rel*. ix. 19.
+<span id="fn_207"></span>[153:10](tic16.htm#fr_207.md) *Rel*. ix. 19.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Preparation for Spiritual Marriage](tic17)
+[Next: Chapter I. Preparation for Spiritual Marriage](tic17.md)

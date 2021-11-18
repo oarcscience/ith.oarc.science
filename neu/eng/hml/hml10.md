@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml09)  [Next](hml11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml09)  [Next](hml11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -146,13 +146,13 @@ his sheep are now"; then he simply bade her farewell and turned away.
 <span id="img_09800"></span>
 
 [![Olaf and Sigrid](tn/09800.jpg)  
-Click to enlarge](img/09800.jpg)  
+Click to enlarge](img/09800.jpg.md)  
 Olaf and Sigrid  
 
 <span id="img_09900"></span>
 
 [![''Howard leaves the house of Thorbiorn''](tn/09900.jpg)  
-Click to enlarge](img/09900.jpg)  
+Click to enlarge](img/09900.jpg.md)  
 ''Howard leaves the house of Thorbiorn''  
 
  
@@ -602,13 +602,13 @@ now, fully; and I myself will pay
 
 [![''The silver rolled in all directions from his
 cloak''](tn/11000.jpg)  
-Click to enlarge](img/11000.jpg)  
+Click to enlarge](img/11000.jpg.md)  
 ''The silver rolled in all directions from his cloak''  
 
 <span id="img_11100"></span>
 
 [![''Thorbiorn lifted the huge stone''](tn/11100.jpg)  
-Click to enlarge](img/11100.jpg)  
+Click to enlarge](img/11100.jpg.md)  
 ''Thorbiorn lifted the huge stone''  
 
  
@@ -892,4 +892,4 @@ that of a mighty warrior and a valiant and prudent man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Roland, the Hero of Early France](hml11)
+[Next: Chapter VII. Roland, the Hero of Early France](hml11.md)

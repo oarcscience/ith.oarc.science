@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm41)  [Next](bcm43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm41)  [Next](bcm43.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,10 +17,10 @@ regulates the operations of Magical Art in accordance with a formal
 attribution of certain hours in the day and night to the rule and
 influence of certain planets, while the Book of *True Black Magic* is
 the only Goëtic Grimoire which follows the Clavicle closely in this as
-in other respects. <span id="fr_90"></span>[1](#fn_90) The directions
+in other respects. <span id="fr_90"></span>[1](#fn_90.md) The directions
 given are, however, exceedingly confused. The common attribution of the
 seven days to the seven planets obtains in both cases, and is set out in
-the Grimoire as follows: <span id="fr_91"></span>[2](#fn_91)--
+the Grimoire as follows: <span id="fr_91"></span>[2](#fn_91.md)--
 
 |        |           |     |              |
 |--------|-----------|-----|--------------|
@@ -51,7 +51,7 @@ year.
 
 But in any given day of twenty-four hours the number of minutes is 1440,
 as against 1530 in the above computation, and the method is therefore
-absurd. <span id="fr_92"></span>[1](#fn_92) The attribution accepted by
+absurd. <span id="fr_92"></span>[1](#fn_92.md) The attribution accepted by
 all writers on Natural Magic, and corresponding with the angelical
 succession in Peter de Abano, will be found in the following:--
 
@@ -108,7 +108,7 @@ hours of the day referred to that planet. These constitute the planetary
 hours.
 
 The *Book of Black Magic*, still following and confusing the statements
-of the Clavicle, <span id="fr_93"></span>[1](#fn_93) lays down that the
+of the Clavicle, <span id="fr_93"></span>[1](#fn_93.md) lays down that the
 hours of Saturn, Mars and Venus are good for communion with spirits; the
 hour of Saturn serves for invoking souls in hell, and to have news of
 those who have died naturally. The souls of those who have been slain
@@ -119,7 +119,7 @@ part will void perfection in any.
 
 The hours of Saturn and of Mars are also good for preparation, on those
 days when they are in conjunction with the Moon, or indeed with one
-another. <span id="fr_94"></span>[2](#fn_94) In a contrary or quadrate
+another. <span id="fr_94"></span>[2](#fn_94.md) In a contrary or quadrate
 aspect
 
 <span id="page_153">p. 153</span>
@@ -150,40 +150,40 @@ prepared and any writings and operations accomplished, especially for
 conversing with spirits. It must, however, be the day of Mercury and in
 the hour of that planet, the Moon being in an earthly or aërial sign, as
 above said, and in a pair number with the Sun. <span
-id="fr_95"></span>[1](#fn_95)
+id="fr_95"></span>[1](#fn_95.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_90"></span>[150:1](bcm42.htm#fr_90) It should be observed.
+<span id="fn_90"></span>[150:1](bcm42.htm#fr_90.md) It should be observed.
 however, that favourable days and hours are occasionally mentioned, but
 there is no attempt at a systematic valuation of the times and seasons
 suitable to different operations.
 
-<span id="fn_91"></span>[150:2](bcm42.htm#fr_91) The apparently
+<span id="fn_91"></span>[150:2](bcm42.htm#fr_91.md) The apparently
 barbarous names given in the table are corruptions of Hebrew words, and
 the English editor of *The Key of Solomon* has restored their proper
 orthography, as follows: *Shabbathai, Tzedek, Madim, Shemesh, Nogah,
 Cochab, Lebanah*.
 
-<span id="fn_92"></span>[151:1](bcm42.htm#fr_92) It offers no analogy
+<span id="fn_92"></span>[151:1](bcm42.htm#fr_92.md) It offers no analogy
 with the system set forth in the Clavicle, nor can it be definitely
 traced to any magical authority within my knowledge.
 
-<span id="fn_93"></span>[152:1](bcm42.htm#fr_93) In the version that
+<span id="fn_93"></span>[152:1](bcm42.htm#fr_93.md) In the version that
 follows, which condenses and summarises the original, there is an
 attempt to reduce them to order, and to make them consistent, if not
 intelligible.
 
-<span id="fn_94"></span>[152:2](bcm42.htm#fr_94) The *Key of Solomon*
+<span id="fn_94"></span>[152:2](bcm42.htm#fr_94.md) The *Key of Solomon*
 says that the hours of Saturn and of Mars, and also the days in which
 the Moon is in conjunction with these planets, are admirable for
 experiments of hatred, enmity and discord. It will be seen in what sense
 this farrago of villainous nonsense can be regarded as on God's side, as
 its impossible English editor would doubtless wish us to believe.
 
-<span id="fn_95"></span>[153:1](bcm42.htm#fr_95) The attribution in the
+<span id="fn_95"></span>[153:1](bcm42.htm#fr_95.md) The attribution in the
 original is throughout this portion not only erroneous, but seems to
 involve impossible positions. It has been corrected partially, in
 accordance with the Clavicle.
@@ -191,4 +191,4 @@ accordance with the Clavicle.
 ------------------------------------------------------------------------
 
 [Next: Section 2: A General Instruction concerning the Instruments
-required for the Art](bcm43)
+required for the Art](bcm43.md)

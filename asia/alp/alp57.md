@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp56) 
-[Next](alp58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp56.md) 
+[Next](alp58.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ Possess a love as noble and as true.
 
 ------------------------------------------------------------------------
 
-[Next: O’er the Mountains High He Went](alp58)
+[Next: O’er the Mountains High He Went](alp58.md)

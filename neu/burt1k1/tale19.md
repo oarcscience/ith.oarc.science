@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale18)  [Next](tale20) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale18)  [Next](tale20.md) 
 
 ------------------------------------------------------------------------
 
@@ -254,4 +254,4 @@ what I am about to tell you, for it is even more wondrous than what you
 have already heard. But Allah alone kenneth what things His Omniscience
 concealed from man! And listen to
 
-(*Next*) [THE THIRD VOYAGE OF SINDBAD THE SEAMAN](tale20)  
+(*Next*) [THE THIRD VOYAGE OF SINDBAD THE SEAMAN](tale20.md)  

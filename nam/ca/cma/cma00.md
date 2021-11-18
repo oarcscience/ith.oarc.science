@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Next](cma01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Next](cma01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ Intangible Textual Heritage
  
 
 <span id="img_front"></span> ![FRONTISPIECE&lt;br&gt; Jeremiah Curtin in
-the Ruins of Palenque,&lt;br&gt; Central America](img/front.jpg)  
+the Ruins of Palenque,&lt;br&gt; Central America](img/front.jpg.md)  
 FRONTISPIECE  
 Jeremiah Curtin in the Ruins of Palenque,  
 Central America
@@ -69,4 +69,4 @@ ON THE MID-ATLANTIC OCEAN
 
 ------------------------------------------------------------------------
 
-[Next: Contents](cma01)
+[Next: Contents](cma01.md)

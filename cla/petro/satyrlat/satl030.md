@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat06.htm#XXX)  [Previous](satl029) 
-[Next](satl031) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat06.htm#XXX)  [Previous](satl029.md) 
+[Next](satl031.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ lota. Quid ergo est? dono vobis eum."
 
 ------------------------------------------------------------------------
 
-[Next: XXXI](satl031)
+[Next: XXXI](satl031.md)

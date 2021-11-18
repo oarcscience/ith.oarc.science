@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth065)  [Next](toth067) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth065)  [Next](toth067.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 63. THE COYOTE, THE BAT, AND THE HUMMING-BIRD. <span id="fr_132"></span>[2](#fn_130)
+## 63. THE COYOTE, THE BAT, AND THE HUMMING-BIRD. <span id="fr_132"></span>[2](#fn_130.md)
 
 A long time ago the Coyote lived at Ishmovala, west of the village; a
 Bat at Tovítoala, north-west of the village; and a Humming-bird at
@@ -119,12 +119,12 @@ dispersed and never became friends again.
 
 ### Footnotes
 
-<span id="fn_129"></span>[189:1](toth065.htm#fr_131) Told by Kúhkiuma
+<span id="fn_129"></span>[189:1](toth065.htm#fr_131.md) Told by Kúhkiuma
 (Shupaúlavi).
 
-<span id="fn_130"></span>[189:2](toth066.htm#fr_132) Told by Qöyáwaima
+<span id="fn_130"></span>[189:2](toth066.htm#fr_132.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 64. The Coyote and the Humming-bird](toth067)
+[Next: 64. The Coyote and the Humming-bird](toth067.md)

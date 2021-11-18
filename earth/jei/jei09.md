@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei08)  [Next](jei10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei08)  [Next](jei10.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,7 +167,7 @@ any actual species of that bird he had ever seen or read of. Other ducks
 were also seen and nine musk-oxen. Incident-ally, a few nights the party
 were unable to obtain much sleep owing to the large number of flies
 which bothered them incessantly. The temperature was as high as 50
-degrees [Fahrenheit](errata.htm#40), and never went below 47 degrees and
+degrees [Fahrenheit](errata.htm#40.md), and never went below 47 degrees and
 there was always enough dead willow
 
 <span id="page_144">p. 144</span>
@@ -259,7 +259,7 @@ is some way by which these animals can leave Grinnell Land.
 ### TEMPERATURE RISES CONSIDERABLY
 
 At about this time, by the way, the temperature had gone up to 74
-degrees [Fahrenheit](errata.htm#41)--a very high summer temperature
+degrees [Fahrenheit](errata.htm#41.md)--a very high summer temperature
 which made marching uncomfortable. And even on hills two thousand feet
 high there was not a trace of snow.
 
@@ -320,7 +320,7 @@ temporary or permanent occupation noted at Cape Baird, at the head of
 Ella Bay, at numerous points in the vicinity of Fort Conger, in Black
 Rock Vale, on the shores of Sun Bay, on both sides of Chandler Fiord,
 and in the valleys in the south side of Lake Hazen. Many of these
-remains were in the interior of [Grinnell](errata.htm#42) Land at
+remains were in the interior of [Grinnell](errata.htm#42.md) Land at
 distances from the sea varying from fifty to one hundred miles by the
 route necessarily followed."
 
@@ -422,7 +422,7 @@ in these latitudes.
 In connection with the polar bear Greely makes these interesting
 statements:
 
-### WHY DO [HERBIVOROUS](errata.htm#43) BEARS GO NORTH?
+### WHY DO [HERBIVOROUS](errata.htm#43.md) BEARS GO NORTH?
 
 "Lieutenant Lockwood, in May, 1882, noticed bear tracks (going
 northeast) on the north coast of Greenland, near Cape Benet in 83
@@ -578,4 +578,4 @@ book.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Nordenskiold's Voyages](jei10)
+[Next: Chapter VII. Nordenskiold's Voyages](jei10.md)

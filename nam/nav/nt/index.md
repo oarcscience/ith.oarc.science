@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -13,14 +13,14 @@ American](../../index) [Navajo](../index)
 
 ------------------------------------------------------------------------
 
-[INTRODUCTION](nt0)  
-[THE EMERGENCE](nt1)  
-[ORIGIN OF SOME NAVAJO CUSTOMS](nt2)  
-[POT WOMAN TEACHES WITCHCRAFT](nt3)  
-[WIZARD STORY](nt4)  
-[GAME STORY](nt5)  
-[THE CREATION OF THE HORSE](nt6)  
-[WANDERINGS OF THE NAVAJO](nt7)  
+[INTRODUCTION](nt0.md)  
+[THE EMERGENCE](nt1.md)  
+[ORIGIN OF SOME NAVAJO CUSTOMS](nt2.md)  
+[POT WOMAN TEACHES WITCHCRAFT](nt3.md)  
+[WIZARD STORY](nt4.md)  
+[GAME STORY](nt5.md)  
+[THE CREATION OF THE HORSE](nt6.md)  
+[WANDERINGS OF THE NAVAJO](nt7.md)  
 
 ------------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy12)  [Next](phy14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy12)  [Next](phy14.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 <span id="img_06200"></span>
 
 [![](tn/06200.jpg)  
-Click to enlarge](img/06200.jpg)
+Click to enlarge](img/06200.jpg.md)
 
 <span id="page_63">p. 63</span>
 
@@ -32,7 +32,7 @@ Click to enlarge](img/06200.jpg)
 
 |                     |
 |---------------------|
-| ![I](img/06301.jpg) |
+| ![I](img/06301.jpg.md) |
 
 N the latter part of the eleventh and the early part of the twelfth
 centuries, the Isle of Man was the home of the boldest race of rovers
@@ -80,7 +80,7 @@ ELK HORNS<br />
 </tbody>
 </table>
 
- <span id="fr_0"></span>[1](#fn_0) stalwart and marauding baron named
+ <span id="fr_0"></span>[1](#fn_0.md) stalwart and marauding baron named
 Kitter, who, when not roving the seas in quest of booty, in company with
 other piratical Vikings, resided in an extensive but rude-built castle
 near the summit of South Barrule, the loftiest mountain in the southern
@@ -189,7 +189,7 @@ All was hurry and confusion; the currach itself was only a rude boat
 <span id="img_06700"></span>
 
 [![](tn/06700.jpg)  
-Click to enlarge](img/06700.jpg)
+Click to enlarge](img/06700.jpg.md)
 
 constructed of wicker-work covered with hides, and far too frail to
 combat with the surging, boisterous waters of the Sound, as the channel
@@ -202,7 +202,7 @@ Oda, the witch, guessing that Kitter's party could not fail to be
 alarmed at the sound of Eaoch's shouts and the smoke from the burning
 castle, would return as soon as possible, hastened down to the south
 shore, and standing on the top of the high, precipitous rock now known
-as Spanish Head, <span id="fr_1"></span>[1](#fn_1) watched the
+as Spanish Head, <span id="fr_1"></span>[1](#fn_1.md) watched the
 embarkation of the Jarl and his hunters in the currach.
 
 Using her powers of witchcraft, she speedily caused a storm to arise.
@@ -231,16 +231,16 @@ borne the name of Kitterland, or Kitter's Island.
 
 ### Footnotes
 
-<span id="fn_0"></span>[64:1](phy13.htm#fr_0) The above illustration is
+<span id="fn_0"></span>[64:1](phy13.htm#fr_0.md) The above illustration is
 from a photograph taken from an elk's head and horns, dug up in a
 curragh in the south part of the Isle of Man, and are now in the
 possession of William Gell, Esq., of Rose Mount, Douglas.
 
-<span id="fn_1"></span>[68:1](phy13.htm#fr_1) This headland is so called
+<span id="fn_1"></span>[68:1](phy13.htm#fr_1.md) This headland is so called
 in consequence of a large ship of the Spanish Armada being wrecked
 there, after trying to escape from one of Drake's vessels that had
 chased her right round the north of Scotland.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](phy14)
+[Next: Chapter II](phy14.md)

@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Celtic
-Fairies](../../celt/index.htm#fairies)  [Index](index) 
-[Previous](cof06)  [Next](cof08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index.md)  [Celtic
+Fairies](../../celt/index.htm#fairies)  [Index](index.md) 
+[Previous](cof06)  [Next](cof08.md) 
 
 ------------------------------------------------------------------------
 
@@ -328,4 +328,4 @@ disjointed notes, which may form a separate chapter.
 ------------------------------------------------------------------------
 
 [Next: Chapter V. Observations of a Clairvoyant in the Cottingley Glen,
-August 1921](cof08)
+August 1921](cof08.md)

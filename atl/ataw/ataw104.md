@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw103)  [Next](ataw105) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw103)  [Next](ataw105.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -349,7 +349,7 @@ thirty-nine
  
 
 <span id="img_04100"></span> <span align="CENTER"> [![](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)</span>  
+Click to enlarge](img/04100.jpg.md)</span>  
 ERUPTION OF VESUVIUS IN 1737.
 
  
@@ -439,4 +439,4 @@ dreadful night and day."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: The Testimony of the Sea.](ataw105)
+[Next: Chapter V: The Testimony of the Sea.](ataw105.md)

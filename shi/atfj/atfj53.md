@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj52)  [Next](atfj54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj52)  [Next](atfj54.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_57"></span> <span align="CENTER"> [![57. The Spirit of the
 Tree Appears to Kotaro and the Old Man](tn/57.jpg)  
-Click to enlarge](img/57.jpg)  
+Click to enlarge](img/57.jpg.md)  
 57. The Spirit of the Tree Appears to Kotaro and the Old Man  
 </span>
 
@@ -133,7 +133,7 @@ Hambei thought his wife had gone off her head for good this time. He had
 seen no girl.
 
 'What is the matter with you, obaa San?' <span
-id="fr_51"></span>[1](#fn_51) he asked. I have seen no girl, and do not
+id="fr_51"></span>[1](#fn_51.md) he asked. I have seen no girl, and do not
 know what you are talking about.'
 
 'Don't tell me lies! I saw her! I saw her myself when I went down to get
@@ -237,12 +237,12 @@ years.
 
 ### Footnotes
 
-<span id="fn_51"></span>[322:1](atfj53.htm#fr_51) Old woman.
+<span id="fn_51"></span>[322:1](atfj53.htm#fr_51.md) Old woman.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: LII. The Chessboard Cherry Tree](atfj54)
+[Next: LII. The Chessboard Cherry Tree](atfj54.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](row01)  [Next](row03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](row01)  [Next](row03.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ or fall by our decisions to be rational, or irrational--"orthodox," or
 
 ------------------------------------------------------------------------
 
-[Next: Puritans Raised Hell With Witches In Early Days](row03)
+[Next: Puritans Raised Hell With Witches In Early Days](row03.md)

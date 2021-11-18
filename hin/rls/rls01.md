@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls00)  [Next](rls02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls00)  [Next](rls02.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,4 +169,4 @@ IGHTHAM MOTE,
 
 ------------------------------------------------------------------------
 
-[Next: Contents](rls02)
+[Next: Contents](rls02.md)

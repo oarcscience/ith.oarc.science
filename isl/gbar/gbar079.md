@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar078) [Next](gbar080)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar078) [Next](gbar080.md)
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ work righteousness wheresoever they be.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar080)
+[Next](gbar080.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot19) 
-[Next](sot21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot19.md) 
+[Next](sot21.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ middle is everywhere. The way of eternity is a curve".
 
 ------------------------------------------------------------------------
 
-[Next: Card XIII. Death](sot21)
+[Next: Card XIII. Death](sot21.md)

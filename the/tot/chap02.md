@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Theosophy](../index)
-[Index](index) [Previous](chap01) [Next](chap03)
+[Intangible Textual Heritage](../../index) [Theosophy](../index.md)
+[Index](index) [Previous](chap01) [Next](chap03.md)
 
 ------------------------------------------------------------------------
 
@@ -230,4 +230,4 @@ must tread if we would be as They.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Formation of a Solar System](chap03)
+[Next: Chapter III: The Formation of a Solar System](chap03.md)

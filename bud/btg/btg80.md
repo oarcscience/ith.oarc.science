@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg79)  [Next](btg81) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg79)  [Next](btg81.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ you will reap.
 
 ------------------------------------------------------------------------
 
-[Next: Vasavadatta, The Courtesan](btg81)
+[Next: Vasavadatta, The Courtesan](btg81.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc115) 
-[Next](motc117) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc115.md) 
+[Next](motc117.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ he found the prophet sitting with the peacock feathers by his side.
 
 ------------------------------------------------------------------------
 
-[Next: 117. The Mother Bear's Song](motc117)
+[Next: 117. The Mother Bear's Song](motc117.md)

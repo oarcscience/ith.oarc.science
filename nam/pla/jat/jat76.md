@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat75)  [Next](jat77) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat75)  [Next](jat77.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ they drink it.
 
 ------------------------------------------------------------------------
 
-[Next: 75. Origin of the Medicine Ceremony](jat77)
+[Next: 75. Origin of the Medicine Ceremony](jat77.md)

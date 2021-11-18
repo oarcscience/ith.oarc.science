@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos24)  [Next](flos26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos24)  [Next](flos26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -59,7 +59,7 @@ of the last century, if not later." Beaumont and Fletcher, in the
 </div>
 
 In the same way letters from noblemen to each other often began with the
-appellation *bedfellow*. <span id="fr_967"></span>[1](#fn_964)
+appellation *bedfellow*. <span id="fr_967"></span>[1](#fn_964.md)
 
    *The Curfew Bell*, which is generally supposed to be of Norman
 origin, is still rung in some of our old country villages, although it
@@ -102,12 +102,12 @@ And once more in "Romeo and Juliet" (iv. 4), Capulet says—
 <span class="small">"Come, stir, stir, stir! the second cock hath
 crow’d,  
  The curfew bell hath rung, ’tis three o'clock." <span
-id="fr_968"></span>[1](#fn_965)</span>
+id="fr_968"></span>[1](#fn_965.md)</span>
 
 </div>
 
    *Sacring Bell*.—This was a bell which rang for processions and other
-holy ceremonies. <span id="fr_969"></span>[2](#fn_966) It is mentioned
+holy ceremonies. <span id="fr_969"></span>[2](#fn_966.md) It is mentioned
 in "Henry VIII." (iii. 2), by the Earl of Surrey—
 
 <div style="margin-left: 32px">
@@ -169,7 +169,7 @@ Dick."</span>
 </div>
 
 These carpet-knights were sometimes called "knights of the green
-cloth." <span id="fr_970"></span>[1](#fn_967)
+cloth." <span id="fr_970"></span>[1](#fn_967.md)
 
    *Chair Days*.—Days of old age and infirmity. So, in "2 Henry VI." (v.
 2), young Clifford, on seeing his dead father, says—
@@ -194,7 +194,7 @@ him." In "Henry V." (ii. 1), Bardolph says, "We'll be all three sworn
 brothers to France." In course of time it was used in a laxer sense to
 denote intimacy, as in "Much Ado About Nothing" (i. 1), where Beatrice
 says of Benedick, that "he hath every month a new sworn brother." <span
-id="fr_971"></span>[2](#fn_968)
+id="fr_971"></span>[2](#fn_968.md)
 
 <span id="page_492">p. 492</span>
 
@@ -227,7 +227,7 @@ Grange offered to fight Bothwell, who answered that he was not his
 equal. The like answer made he to Tullibardine. Then my lord Lindsay
 offered to fight him, which he could not well refuse; but his heart
 failed him, and he grew cold on the business." <span
-id="fr_972"></span>[1](#fn_969)\*
+id="fr_972"></span>[1](#fn_969.md)\*
 
    *Clubs*.—According to Malone, it was once a common custom, on the
 breaking out of a fray, to call out "Clubs, clubs!" to part the
@@ -260,7 +260,7 @@ quartered.”
 <span id="page_493">p. 493</span>
 
    *Colour-Lore*.—Green eyes have been praised by poets of nearly every
-land, <span id="fr_973"></span>[1](#fn_970) and according to Armado, in
+land, <span id="fr_973"></span>[1](#fn_970.md) and according to Armado, in
 "Love's Labour's Lost" (i. 2), "Green indeed is the colour of lovers."
 
    In "A Midsummer Night's Dream" (v. 1). Thisbe laments:—
@@ -296,8 +296,8 @@ Beheld things maculate—look on thy virgin."</span>
 The words of Armado have been variously explained as alluding to green
 eyes—Spanish writers being peculiarly enthusiastic in this praise—to the
 willow worn by unsuccessful lovers, and to their melancholy. <span
-id="fr_974"></span>[2](#fn_971) It has also been suggested <span
-id="fr_975"></span>[3](#fn_972) that as green is the colour most
+id="fr_974"></span>[2](#fn_971.md) It has also been suggested <span
+id="fr_975"></span>[3](#fn_972.md) that as green is the colour most
 suggestive of freshness and spring-time, it may have been considered the
 most appropriate lover's badge. At the same time, however, it is
 curious, that as green has been regarded as an ominous colour it should
@@ -308,7 +308,7 @@ be connected with lovers for, as an old couplet remarks:—
 <span class="small">"Those dressed in blue  
  Have lovers true;  
  In green and white,  
- Forsaken quite." <span id="fr_976"></span>[4](#fn_973)</span>
+ Forsaken quite." <span id="fr_976"></span>[4](#fn_973.md)</span>
 
 </div>
 
@@ -341,7 +341,7 @@ ornamented. The tables being long, the salt was commonly placed about
 the middle, and served as a kind of boundary to the different quality of
 the guests invited. Those of distinction were ranked above; the space
 below being assigned to the dependents, inferior relations of the master
-of the house, etc. <span id="fr_977"></span>[1](#fn_974) Shakespeare
+of the house, etc. <span id="fr_977"></span>[1](#fn_974.md) Shakespeare
 would seem to allude to this custom in the "Winter's Tale" (i. 2), where
 Leontes says:—
 
@@ -389,7 +389,7 @@ also to save charges of house-keeping."
 old customs associated with drinking, which have always varied in
 different countries. At the present day many of the drinking customs
 still observed are very curious, especially those kept up at the
-Universities and Inns of Court. <span id="fr_978"></span>[1](#fn_975)\*
+Universities and Inns of Court. <span id="fr_978"></span>[1](#fn_975.md)\*
 
    *Alms-drink* was a phrase in use, says Warburton, amongst good
 fellows, to signify that liquor of another's share which his companion
@@ -430,7 +430,7 @@ mistress, was dubbed a knight for the evening. The word Samingo is
 either a corruption of, or an intended blunder for San Domingo, but why
 this saint should be the patron of topers is uncertain.
 
-   *Rouse*.—According to Gifford, <span id="fr_979"></span>[1](#fn_976)
+   *Rouse*.—According to Gifford, <span id="fr_979"></span>[1](#fn_976.md)
 a rouse was a large glass in which a health was given, the drinking of
 which, by the rest of the company, formed a carouse. Hamlet (i. 4) says—
 
@@ -478,7 +478,7 @@ VIII.
 
    *Exclamations*.—"Charity for the Lord's sake," was the form of
 ejaculatory supplication used by imprisoned debtors to the passers
-by. <span id="fr_980"></span>[2](#fn_977)\* So, in Davies’ "Epigrams"
+by. <span id="fr_980"></span>[2](#fn_977.md)\* So, in Davies’ "Epigrams"
 (1611):—
 
 <div style="margin-left: 32px">
@@ -506,10 +506,10 @@ in "1 Henry IV." (i. 3); and in the "Merchant of Venice" (ii. 2); and in
 "Othello" (i. 1), we have "God help the mark." In the quarto, 1597,
 instead of "God save the mark" in the first passage quoted, we have "God
 save the sample," an expression equally obscure. <span
-id="fr_981"></span>[1](#fn_978)
+id="fr_981"></span>[1](#fn_978.md)
 
    *Halidom*.—This exclamation was used, says Minsheu, <span
-id="fr_982"></span>[2](#fn_979) by old countrymen, by manner of
+id="fr_982"></span>[2](#fn_979.md) by old countrymen, by manner of
 swearing. In "Two Gentlemen of Verona" (iv. 2), the hostess says:—
 
 <div style="margin-left: 32px">
@@ -575,7 +575,7 @@ by Prospero for seeking "to violate the honour of my child," replies:—
 </div>
 
    *Push*.—A exclamation equivalent to *pish*. <span
-id="fr_983"></span>[1](#fn_980) It is used by Leonato in "Much ado about
+id="fr_983"></span>[1](#fn_980.md) It is used by Leonato in "Much ado about
 Nothing" (v. 1):—"And made a push at chance and sufferance;" and again
 in "Timon of Athens" (iii. 6), where one of the Lords says:—"Push! did
 you see my cap?"
@@ -594,7 +594,7 @@ which is figuratively used for a large quantity of liquor," a
 derivation, however, which Mr Dyce does not think probable.
 
    *Snick-up*.—This was an exclamation of contempt, equivalent to "go
-and hang yourself." <span id="fr_984"></span>[2](#fn_981) It is used by
+and hang yourself." <span id="fr_984"></span>[2](#fn_981.md) It is used by
 Sir Toby in "Twelfth Night" (ii. 3), in reply to Malvolio's rebuke:—
 
 <div style="margin-left: 32px">
@@ -610,7 +610,7 @@ seat.
 <span id="page_499">p. 499</span>
 
    *Spy*.—"I spy," is the usual exclamation at a well-known childish
-game called "Hie spy, hie?" <span id="fr_985"></span>[1](#fn_982)
+game called "Hie spy, hie?" <span id="fr_985"></span>[1](#fn_982.md)
 
    *Tailor*.—Johnson explains the following words of Puck in "A
 Midsummer Night's Dream" (ii. 1), thus:—
@@ -627,7 +627,7 @@ Midsummer Night's Dream" (ii. 1), thus:—
    "The custom of crying tailor at a sudden fall backwards, I think I
 remember to have observed. He that slips beside his chair, falls as a
 tailor squats upon his board." Mr Dyce, <span
-id="fr_986"></span>[2](#fn_983) however, adds, "it may be doubted if
+id="fr_986"></span>[2](#fn_983.md) however, adds, "it may be doubted if
 this explains the text."
 
    *Tilly-vally*.—An exclamation of contempt, the etymology of which is
@@ -648,7 +648,7 @@ answered, Tylle-valle, Tylle-valle."
 
    *Westward-ho*.—This was one of the exclamations of the watermen who
 plied on the Thames, and is used by Viola in "Twelfth Night" (iii. 1).
-Dyce <span id="fr_987"></span>[3](#fn_984) quotes from Peel's "Edward
+Dyce <span id="fr_987"></span>[3](#fn_984.md) quotes from Peel's "Edward
 I.," to illustrate the use of this word:—
 
 <div style="margin-left: 32px">
@@ -696,7 +696,7 @@ to the idiots than the wits. The fool's business was to amuse his
 master, to excite his laughter by sharp contrast, to prevent the over
 oppression of state affairs, and, in harmony with a well-known
 physiological precept, by his liveliness at meals to assist his lord's
-digestion. <span id="fr_988"></span>[1](#fn_985)
+digestion. <span id="fr_988"></span>[1](#fn_985.md)
 
    The custom of shaving and nicking the head of a fool is very old.
 There is a penalty of ten shillings, in one of Alfred's Ecclesiastical
@@ -708,7 +708,7 @@ common man like a fool; and Malone cites a passage from "The Choice of
 Change," &c., by S. R. Gent, 4to, 1598—"Three things used by monks,
 which provoke other men to laugh at their follies: 1. They are shaven
 and notched on the head like fooles." <span
-id="fr_989"></span>[1](#fn_986)\*
+id="fr_989"></span>[1](#fn_986.md)\*
 
    In the "Comedy of Errors" (v. 1), the servants says:—
 
@@ -767,7 +767,7 @@ journey, ’tis gone; if we be successful, why then there will be five and
 twenty thousand pound to entertain time with."
 
    *Garters*.—It was the regular amorous etiquette in the reign of
-Elizabeth, <span id="fr_990"></span>[1](#fn_987) "for a man, professing
+Elizabeth, <span id="fr_990"></span>[1](#fn_987.md) "for a man, professing
 himself deeply in love, to assume certain outward marks of negligence in
 his dress, as if too much occupied by his passion to attend to such
 trifles, or driven by despondency to a forgetfulness of all outward
@@ -873,7 +873,7 @@ sake."</span>
 
 When the fashion of thus wearing gloves declined, "it fell into the
 hands of coxcombical and dissolute servants." <span
-id="fr_991"></span>[1](#fn_988) Thus Edgar, in "King Lear" (iii. 4),
+id="fr_991"></span>[1](#fn_988) Thus Edgar, in "King Lear" (iii. 4.md),
 being asked by Lear what he had been, replies:—"A serving-man, proud in
 heart and mind; that curled my hair, wore gloves in my cap," &c.
 
@@ -893,7 +893,7 @@ Troilus (iv. 4), who tells Cressida:—
 defence of thy fidelity."
 
    The glove then thrown down was popularly called "a gage," <span
-id="fr_992"></span>[1](#fn_989) from the French, signifying a pledge,
+id="fr_992"></span>[1](#fn_989.md) from the French, signifying a pledge,
 and in "Richard II." (iv. 1), it is so termed by Aumerle:—
 
 <div style="margin-left: 32px">
@@ -927,7 +927,7 @@ Engage to the trial, if thou darest."</span>
 </div>
 
    It is difficult to discover why the glove was recognised as the sign
-of defiance. Brand <span id="fr_993"></span>[2](#fn_990) suggests that
+of defiance. Brand <span id="fr_993"></span>[2](#fn_990.md) suggests that
 the custom of dropping or sending the glove, "as the signal of a
 challenge, may have been derived from the circumstance of its being the
 cover of the hand, and therefore put for the hand itself. The giving of
@@ -1225,7 +1225,7 @@ flesh’d
 </div>
 
    *Swearing by the Sword*.—According to Nares, <span
-id="fr_994"></span>[1](#fn_991) "the singular mixture of religious and
+id="fr_994"></span>[1](#fn_991.md) "the singular mixture of religious and
 military fanaticism which arose from the Crusades, gave rise to the
 custom of taking a solemn oath upon a sword. In a plain unenriched
 sword, the separation between the blade and the hilt was usually a
@@ -1253,7 +1253,7 @@ Thou wilt perform my bidding."</span>
    The cross of the sword is also mentioned to illustrate the true
 bearing of the oath. Hence, in 1 Henry IV." (ii. 4), Falstaff says
 jestingly of Glendower, that he "swore the devil his true liegeman upon
-the cross of a Welsh hook." <span id="fr_995"></span>[2](#fn_992)
+the cross of a Welsh hook." <span id="fr_995"></span>[2](#fn_992.md)
 
    On account of the practice of swearing by a sword, or rather by the
 cross or upper end of it, the name of *Jesus* was sometimes inscribed on
@@ -1322,7 +1322,7 @@ strong amorous passion. Iago, in "Othello" (iii. 3), refers to it as
 (v. 1), the Duke calls Angelo's base passion, his "salt imagination,"
 because he supposed his victim to be Isabella, and not his betrothed
 wife, whom he was forced by the Duke to marry. <span
-id="fr_996"></span>[1](#fn_993)
+id="fr_996"></span>[1](#fn_993.md)
 
    *Salutations*.—God-den was used by our forefathers as soon as noon
 was past, after which time "good morrow" or "good-day" was esteemed
@@ -1367,7 +1367,7 @@ case with those of the sovereign—is alluded to by Posthumus in
 <div style="margin-left: 32px">
 
 <span class="small">                   "Her attendants are  
-All sworn and honourable." <span id="fr_997"></span>[1](#fn_994)</span>
+All sworn and honourable." <span id="fr_997"></span>[1](#fn_994.md)</span>
 
 </div>
 
@@ -1512,7 +1512,7 @@ Upon him as he pass'd: the nobles bended,</span>
 <span class="small"><span class="contnote">\[paragraph
 continues\]</span> As to Jove's statue; and the commons made  
 A shower and thunder with their caps and shouts:  
-I never saw the like." <span id="fr_998"></span>[1](#fn_995)</span>
+I never saw the like." <span id="fr_998"></span>[1](#fn_995.md)</span>
 
 </div>
 
@@ -1528,7 +1528,7 @@ armed with rushes in place of spears, is used by Othello (v. 2)—
    *Trumpet*.—In olden times it was the fashion for persons of
 distinction, when visiting, to be accompanied by a trumpeter, who
 announced their approach by a flourish of his trumpet. It is to this
-custom, Staunton <span id="fr_999"></span>[2](#fn_996) thinks, that
+custom, Staunton <span id="fr_999"></span>[2](#fn_996.md) thinks, that
 Lorenzo refers in the "Merchant of Venice" (v. 1), where he tells
 Portia—
 
@@ -1588,7 +1588,7 @@ conspirators kill Coriolanus (v. 6).
    *Leet-Ale*.—This was the dinner provided for the jury and customary
 tenants at the court-leet of a manor, or "view of frank pledge,"
 formerly held once or twice a year, before the steward of the
-leet. <span id="fr_1000"></span>[1](#fn_997) To this court Shakespeare
+leet. <span id="fr_1000"></span>[1](#fn_997.md) To this court Shakespeare
 alludes in the "Taming of the Shrew" (i. 2), where the servant tells Sly
 that in his dream he would "rail upon the hostess of the house," and
 threaten to
@@ -1607,85 +1607,85 @@ solace of the neighbourhood."
 
 ### Footnotes
 
-<span id="fn_964"></span>[489:1](flos25.htm#fr_967) Nares’ "Glossary,"
+<span id="fn_964"></span>[489:1](flos25.htm#fr_967.md) Nares’ "Glossary,"
 i. p. 68.
 
-<span id="fn_965"></span>[490:1](flos25.htm#fr_968) See Brand's "Pop.
+<span id="fn_965"></span>[490:1](flos25.htm#fr_968.md) See Brand's "Pop.
 Antiq.," 1849, iii., pp. 220–5; also Harland and Wilkinson's "Lancashire
 Folk-Lore," 1867, p. 44.
 
-<span id="fn_966"></span>[490:2](flos25.htm#fr_969) Dyce's "Glossary,"
+<span id="fn_966"></span>[490:2](flos25.htm#fr_969.md) Dyce's "Glossary,"
 p. 379.
 
-<span id="fn_967"></span>[491:1](flos25.htm#fr_970) See Douce's
+<span id="fn_967"></span>[491:1](flos25.htm#fr_970.md) See Douce's
 "Illustrations of Shakspeare," pp. 65, 66.
 
-<span id="fn_968"></span>[491:2](flos25.htm#fr_971) We may compare, too,
+<span id="fn_968"></span>[491:2](flos25.htm#fr_971.md) We may compare, too,
 what Coriolanus says (ii. 3)—"I will, sir flatter my sworn brother, the
 people."
 
-<span id="fn_969"></span>[492:1](flos25.htm#fr_972) Cf. "Romeo and
+<span id="fn_969"></span>[492:1](flos25.htm#fr_972.md) Cf. "Romeo and
 Juliet" (i. 1); "As You Like It" (v. 2).
 
-<span id="fn_970"></span>[493:1](flos25.htm#fr_973) See Singer's
+<span id="fn_970"></span>[493:1](flos25.htm#fr_973.md) See Singer's
 "Shakespeare," viii. p. 204.
 
-<span id="fn_971"></span>[493:2](flos25.htm#fr_974) See Douce's
+<span id="fn_971"></span>[493:2](flos25.htm#fr_974.md) See Douce's
 "Illustrations of Shakspeare," p. 133.
 
-<span id="fn_972"></span>[493:3](flos25.htm#fr_975) See an Article by
+<span id="fn_972"></span>[493:3](flos25.htm#fr_975.md) See an Article by
 Mr. Black in "Antiquary," 1881, iii.
 
-<span id="fn_973"></span>[493:4](flos25.htm#fr_976) See Henderson's
+<span id="fn_973"></span>[493:4](flos25.htm#fr_976.md) See Henderson's
 "Folk-Lore of the Northern Counties," pp. 34, 35.
 
-<span id="fn_974"></span>[494:1](flos25.htm#fr_977) Gifford's Note on
+<span id="fn_974"></span>[494:1](flos25.htm#fr_977.md) Gifford's Note on
 "Massinger's Works," 1813, i. p. 170; see Dyce's "Glossary to
 Shakespeare," pp. 269, 380.
 
-<span id="fn_975"></span>[495:1](flos25.htm#fr_978) See Dyce's
+<span id="fn_975"></span>[495:1](flos25.htm#fr_978.md) See Dyce's
 "Glossary," p. 381; Nares’ "Glossary," ii., p. 764.
 
-<span id="fn_976"></span>[496:1](flos25.htm#fr_979) See Dyce, iv., p.
+<span id="fn_976"></span>[496:1](flos25.htm#fr_979.md) See Dyce, iv., p.
 395.
 
-<span id="fn_977"></span>[496:2](flos25.htm#fr_980) See Dyce's
+<span id="fn_977"></span>[496:2](flos25.htm#fr_980.md) See Dyce's
 "Glossary," p. 402.
 
-<span id="fn_978"></span>[497:1](flos25.htm#fr_981) Staunton's
+<span id="fn_978"></span>[497:1](flos25.htm#fr_981.md) Staunton's
 "Shakespeare," i. p. 257.
 
-<span id="fn_979"></span>[497:2](flos25.htm#fr_982) "Guide into
+<span id="fn_979"></span>[497:2](flos25.htm#fr_982.md) "Guide into
 Tongues," ed. 1607.
 
-<span id="fn_980"></span>[498:1](flos25.htm#fr_983) See Dyce's
+<span id="fn_980"></span>[498:1](flos25.htm#fr_983.md) See Dyce's
 "Glossary," p. 343.
 
-<span id="fn_981"></span>[498:2](flos25.htm#fr_984) Dyce's "Glossary,"
+<span id="fn_981"></span>[498:2](flos25.htm#fr_984.md) Dyce's "Glossary,"
 p. 402.
 
-<span id="fn_982"></span>[499:1](flos25.htm#fr_985) Dyce, vi. p. 45.
+<span id="fn_982"></span>[499:1](flos25.htm#fr_985.md) Dyce, vi. p. 45.
 
-<span id="fn_983"></span>[499:2](flos25.htm#fr_986) "Glossary," p. 43
+<span id="fn_983"></span>[499:2](flos25.htm#fr_986.md) "Glossary," p. 43
 
-<span id="fn_984"></span>[499:3](flos25.htm#fr_987) "Glossary," p. 497;
+<span id="fn_984"></span>[499:3](flos25.htm#fr_987.md) "Glossary," p. 497;
 see Nares’ "Glossary," ii. p. 952
 
-<span id="fn_985"></span>[500:1](flos25.htm#fr_988) "Encyclopædia
+<span id="fn_985"></span>[500:1](flos25.htm#fr_988.md) "Encyclopædia
 Brittanica," 1879, ix., p. 366; see Doran's "History of Court Fools,"
 1858.
 
-<span id="fn_986"></span>[501:1](flos25.htm#fr_989) See Dyce's
+<span id="fn_986"></span>[501:1](flos25.htm#fr_989.md) See Dyce's
 "Glossary," p. 345; see Nares’ "Glossary," ii. p. 702, where various
 references are given to this custom.
 
-<span id="fn_987"></span>[502:1](flos25.htm#fr_990) Nares’ "Glossary,"
+<span id="fn_987"></span>[502:1](flos25.htm#fr_990.md) Nares’ "Glossary,"
 i. p. 350.
 
-<span id="fn_988"></span>[503:1](flos25.htm#fr_991) Nares’ "Glossary,"
+<span id="fn_988"></span>[503:1](flos25.htm#fr_991.md) Nares’ "Glossary,"
 i. p. 371.
 
-<span id="fn_989"></span>[504:1](flos25.htm#fr_992) The verb "to gage,"
+<span id="fn_989"></span>[504:1](flos25.htm#fr_992.md) The verb "to gage,"
 or "to pledge," occurs in "Merchant of Venice" (i. 1):—
 
 <div style="margin-left: 32px">
@@ -1699,31 +1699,31 @@ Hath left me gaged."</span>
 
 Cf. "1 Henry IV." i. 3.
 
-<span id="fn_990"></span>[504:2](flos25.htm#fr_993) "Pop. Antiq.," ii.
+<span id="fn_990"></span>[504:2](flos25.htm#fr_993.md) "Pop. Antiq.," ii.
 p. 127.
 
-<span id="fn_991"></span>[509:1](flos25.htm#fr_994) "Glossary," ii. p.
+<span id="fn_991"></span>[509:1](flos25.htm#fr_994.md) "Glossary," ii. p.
 858; see Dyce's "Glossary," p. 431.
 
-<span id="fn_992"></span>[509:2](flos25.htm#fr_995) A Welsh hook was a
+<span id="fn_992"></span>[509:2](flos25.htm#fr_995.md) A Welsh hook was a
 sort of bill, hooked at the end, and with a long handle. See Dyce's
 "Glossary," p. 497; and Singer's "Shakespeare," ix. p. 168.
 
-<span id="fn_993"></span>[510:1](flos25.htm#fr_996) Brewer's "Dictionary
+<span id="fn_993"></span>[510:1](flos25.htm#fr_996.md) Brewer's "Dictionary
 of Phrase and Fable," p. 782.
 
-<span id="fn_994"></span>[511:1](flos25.htm#fr_997) See Percy's
+<span id="fn_994"></span>[511:1](flos25.htm#fr_997.md) See Percy's
 "Northumberland Household Book," p. 49.
 
-<span id="fn_995"></span>[514:1](flos25.htm#fr_998) See Singer's
+<span id="fn_995"></span>[514:1](flos25.htm#fr_998.md) See Singer's
 "Shakespeare," vii. p. 350.
 
-<span id="fn_996"></span>[514:2](flos25.htm#fr_999) "Shakespeare" 1864,
+<span id="fn_996"></span>[514:2](flos25.htm#fr_999.md) "Shakespeare" 1864,
 i. p. 61.
 
-<span id="fn_997"></span>[515:1](flos25.htm#fr_1000) See page
-[293](flos13.htm#page_293).
+<span id="fn_997"></span>[515:1](flos25.htm#fr_1000.md) See page
+[293](flos13.htm#page_293.md).
 
 ------------------------------------------------------------------------
 
-[Next: Index](flos26)
+[Next: Index](flos26.md)

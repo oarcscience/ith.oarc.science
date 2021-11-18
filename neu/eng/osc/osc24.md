@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc23)  [Next](osc25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc23)  [Next](osc25.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ the native savages of Africa."
 
 ------------------------------------------------------------------------
 
-[Next: (22) Harvest Home--The Kern Baby](osc25)
+[Next: (22) Harvest Home--The Kern Baby](osc25.md)

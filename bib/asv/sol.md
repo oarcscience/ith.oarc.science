@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](ecc)  [Next](isa) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](ecc)  [Next](isa.md) 
 
 ------------------------------------------------------------------------
 
@@ -430,4 +430,4 @@ to a roe or to a young hart Upon the mountains of spices.
 
 ------------------------------------------------------------------------
 
-[Next: Isaiah](isa)
+[Next: Isaiah](isa.md)

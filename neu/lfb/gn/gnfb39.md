@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb38)  [Next](gnfb40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb38)  [Next](gnfb40.md) 
 
 </div>
 
@@ -151,6 +151,6 @@ Grimm.
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Mermaid](gnfb40)
+[Next: The Golden Mermaid](gnfb40.md)
 
 </div>

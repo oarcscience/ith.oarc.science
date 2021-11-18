@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain09)  [Next](ain11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain09)  [Next](ain11.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ the young were often vicious, thieves, beggars, murderers, and he would
 
 rather be with the old who followed what was better.
 
-And in the evening he would often hear [the](errata.htm#8) old people
+And in the evening he would often hear [the](errata.htm#8.md) old people
 say: "We will go rabbit-hunting in such a place," but he stayed at home
 and did not go with them.
 
@@ -127,7 +127,7 @@ them appoint a place for the hunting, and went home when they did. And
 in the morning, when he heard the signal cry for hunting, he went and
 got his bow & arrows and followed after them again, but again stayed
 some distance off. And again the people came about him and handled his
-bow & [arrows](errata.htm#9) and laughed at them. And again he left them
+bow & [arrows](errata.htm#9.md) and laughed at them. And again he left them
 lying there on the ground and went home to make a new bow & arrows.
 
 And the fourth time this happened he was late at the place of meeting,
@@ -245,4 +245,4 @@ all kinds, and butchered them up.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of Ah-ahn-he-eat-toe-pahk Mahkai](ain11)
+[Next: Notes on the Story of Ah-ahn-he-eat-toe-pahk Mahkai](ain11.md)

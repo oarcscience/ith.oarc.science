@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly46)  [Next](lly48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly46)  [Next](lly48.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ of their parents.
 
 ------------------------------------------------------------------------
 
-[Next: Baskets](lly48)
+[Next: Baskets](lly48.md)

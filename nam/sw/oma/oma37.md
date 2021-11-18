@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma36)  [Next](oma38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma36)  [Next](oma38.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl04a"></span>
 
 [![Plate 4, Figure 1](tn/pl04a.jpg)  
-Click to enlarge](img/pl04a.jpg)  
+Click to enlarge](img/pl04a.jpg.md)  
 Plate 4, Figure 1  
 
 FIGURE 1. Shruisthia, ruler of East Mountain. Eagle-feather prayer stick
@@ -22,7 +22,7 @@ the East); lower edge brown.
 <span id="img_pl04b"></span>
 
 [![Plate 4, Figure 2](tn/pl04b.jpg)  
-Click to enlarge](img/pl04b.jpg)  
+Click to enlarge](img/pl04b.jpg.md)  
 Plate 4, Figure 2  
 
 FIGURE 2. Tsiukiri, father of the Kopishtaiya. Turkey feathers (gray
@@ -37,4 +37,4 @@ lucky; fox-fur collar (gray); eyes and mouth outlined in red.
 
 ------------------------------------------------------------------------
 
-[Next: Plate 5](oma38)
+[Next: Plate 5](oma38.md)

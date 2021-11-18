@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah08)  [Next](sah10) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah08)  [Next](sah10.md) 
 
 ------------------------------------------------------------------------
 
@@ -480,4 +480,4 @@ hath promised to them that love him." (James i. 12.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X - Science of Being](sah10) 
+[Next: Chapter X - Science of Being](sah10.md) 

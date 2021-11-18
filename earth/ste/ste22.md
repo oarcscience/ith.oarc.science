@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste21)  [Next](ste23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste21)  [Next](ste23.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,7 +120,7 @@ we make it now, twenty three degrees and more on either side of the
 Æquator; these bounds are set only by the Tropicks, and the Tropicks by
 the obliquity of the course of the Sun, or of the posture of the Earth,
 which was not in that World. Where the Rivers stopt, there the Torrid
-Zone would [begin](errata.htm#2), but the Sun was directly perpendicular
+Zone would [begin](errata.htm#2.md), but the Sun was directly perpendicular
 to no part of it, but the middle.
 
 How the Rivers flow’d in the first Earth we have before explain’d
@@ -224,8 +224,8 @@ When things are fairly possible in their causes, and possible in several
 degrees, higher or lower, ’tis weakness of Spirit in us, to think there
 is nothing in Nature, but in that one way, or in that one degree, that
 we are us’d to. And whosoever believes those accounts given us, both by
-the Ancients <span id="fr_6"></span>[1](#fn_6) and Moderns, <span
-id="fr_7"></span>[2](#fn_7) of the *Indian* Trees, will not think it
+the Ancients <span id="fr_6"></span>[1](#fn_6.md) and Moderns, <span
+id="fr_7"></span>[2](#fn_7.md) of the *Indian* Trees, will not think it
 strange that those of the first Earth, should much exceed any that we
 now see in this World. That Allegorical description of the glory of
 *Assyria* in *Ezekiel* (*Chap*. 31) by allusion to Trees, and
@@ -379,11 +379,11 @@ to be sick.
 
 ### Footnotes
 
-<span id="fn_6"></span>[178:1](ste22.htm#fr_6) *Plin*. *li*. 7, *c*. 2.
+<span id="fn_6"></span>[178:1](ste22.htm#fr_6.md) *Plin*. *li*. 7, *c*. 2.
 *Strab*. *l*. 17.
 
-<span id="fn_7"></span>[178:2](ste22.htm#fr_7) *Hort. Malabr.* *vol*. 3.
+<span id="fn_7"></span>[178:2](ste22.htm#fr_7.md) *Hort. Malabr.* *vol*. 3.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](ste23)
+[Next: Chapter VII](ste23.md)

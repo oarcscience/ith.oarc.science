@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw08) [Next](scw10)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw08) [Next](scw10.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -401,4 +401,4 @@ When I with God, through God, in God, am wholly blended.<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw10)
+[Next](scw10.md)

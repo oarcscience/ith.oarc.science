@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe151)  [Next](prwe153) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe151)  [Next](prwe153.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ Was so large, that it assumed the character of a fair.
 
 ------------------------------------------------------------------------
 
-[Next: Chapell Uny](prwe153)
+[Next: Chapell Uny](prwe153.md)

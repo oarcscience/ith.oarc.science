@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Next](tnai01) 
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Next](tnai01.md) 
 
 ------------------------------------------------------------------------
 

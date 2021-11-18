@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm14)  [Next](rrm16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm14)  [Next](rrm16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -194,7 +194,7 @@ Christian European institutions--the traces of the idolatry, if not the
 idolatry itself.
 
 Obelisks, spires, minarets, tall towers, upright stones (Menhirs),
-monumental crosses, and [architectural](errata.htm#2) perpendiculars of
+monumental crosses, and [architectural](errata.htm#2.md) perpendiculars of
 every description, and, generally speaking, all erections conspicuous
 for height and slimness, were representatives of the sworded, or of the
 pyramidal, Fire. They bespoke, wherever found, and in whatever age, the
@@ -388,4 +388,4 @@ found in the Christian churches.
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. Monuments Raised to Fire-Worship in All
-Countries](rrm16)
+Countries](rrm16.md)

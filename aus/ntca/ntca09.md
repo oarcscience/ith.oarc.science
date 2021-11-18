@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca08)  [Next](ntca10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca08)  [Next](ntca10.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ north-east of Alice Springs, it is much more widely practised than
 elsewhere; but, speaking generally, the knocking out of teeth is amongst
 the Arunta and other central tribes <span id="page_214">p. 214</span> a
 matter partly of individual and partly of local taste and fashion. <span
-id="fr_101"></span>[1](#fn_101) The custom is probably to be regarded as
+id="fr_101"></span>[1](#fn_101.md) The custom is probably to be regarded as
 one which was at some distant time prevalent amongst the common
 ancestors of the central and eastern coastal tribes, but which has
 undergone changes as the tribes became separated from one another and
@@ -118,7 +118,7 @@ right age—the number varying from ceremony to ceremony—are taken one by
 one and tossed in the air several times by the men, who catch them as
 they fall, while the women dance round and round the group, swinging
 their arms and shouting loudly, “*pau, pau, pau-a-a*,” the last cry
-being very prolonged. <span id="fr_102"></span>[2](#fn_102) This over
+being very prolonged. <span id="fr_102"></span>[2](#fn_102.md) This over
 the boys are painted on their chests and backs, as shown in the
 illustration, with simple designs consisting of straight or curved bands
 outlined by lines of red or yellow ochre. These
@@ -132,7 +132,7 @@ events, they are copied from old rock paintings, certain of which are
 associated with particular totems, but the boy will not of necessity be
 decorated with a design of his own totem. Certain of these particular
 designs are described in connection with the sacred drawings. If the boy
-has what is called an *Unjipinna* <span id="fr_103"></span>[1](#fn_103)
+has what is called an *Unjipinna* <span id="fr_103"></span>[1](#fn_103.md)
 man, then it is the latter who will draw the design upon him at the
 close of the ceremony of throwing up.
 
@@ -215,7 +215,7 @@ feel disposed.
 In the following account we will describe what took place during an
 actual ceremony, which was conducted recently by a group of natives
 associated with a spot called Undiara, <span
-id="fr_104"></span>[1](#fn_104) one of the most important centres of the
+id="fr_104"></span>[1](#fn_104.md) one of the most important centres of the
 kangaroo totem situated near to the Finke River. It must always be
 remembered that the details of these initiation ceremonies vary to a
 certain extent according to the locality in which they are performed;
@@ -254,18 +254,18 @@ fate. He was taken to the men and sat down amongst them, while the
 women, who had been awaiting his arrival, at once began to dance,
 carrying shields in their hands. The reason assigned for this is that in
 the Alcheringa certain women called *Unthippa* <span
-id="fr_105"></span>[1](#fn_105) carried along with them as they
+id="fr_105"></span>[1](#fn_105.md) carried along with them as they
 travelled over the country a number of young boys who were just being
 initiated. As they travelled along, dancing the whole way, they also
 carried shields: and therefore it is that, at the present day, the
 initiation ceremony must commence with an imitation of the *Unthippa*
-dance of the Alcheringa. <span id="fr_106"></span>[2](#fn_106) Except in
+dance of the Alcheringa. <span id="fr_106"></span>[2](#fn_106.md) Except in
 connection with this ceremony women may never carry shields, which are
 exclusively the property of the men, just as much as a digging-stick is
 the peculiar property of a woman. While the women were dancing the men
 sang of the marching of the *Unthippa* women across the country. After
 the boy had watched and listened for some time, an *Unkulla* <span
-id="fr_107"></span>[3](#fn_107) man came up and twined round and round
+id="fr_107"></span>[3](#fn_107.md) man came up and twined round and round
 his hair strands of fur string, until it looked as if his head were
 enclosed in a tight-fitting skull cap. Then a man who was *Gammona* to
 him came up and fastened round his waist a large *Uliara*, that is, the
@@ -277,7 +277,7 @@ brother of the boy's mother and the
 
 son of this man, the *Oknia* being a tribal brother of the boy's father
 who was dead, as also was the actual mother. After this a council of the
-*Oknia* and *Okilia* <span id="fr_108"></span>[1](#fn_108) of the novice
+*Oknia* and *Okilia* <span id="fr_108"></span>[1](#fn_108.md) of the novice
 was held, and three men, who were respectively *Mura*, *Gammona* and
 *Chimmia*, were told off to take the boy away and paint him. These men
 are afterwards called *Wulya*, or *Uwilia*, by the boy. They first of
@@ -337,7 +337,7 @@ boy, that is the woman whose eldest daughter, born or unborn, has been
 assigned to the *Wurtja* as his future wife, so that she is potentially
 his mother-in-law. While the singing went on this woman approached the
 boy, and, after tying round his neck bands of fur string, she handed to
-him the fire-stick, <span id="fr_109"></span>[1](#fn_109) telling him as
+him the fire-stick, <span id="fr_109"></span>[1](#fn_109.md) telling him as
 she did so to always hold fast to his own fire—in other words not to
 interfere with women assigned to other men. After this, at a signal from
 an old *Okilia*, the *Wurtja* got up and ran away, followed by a number
@@ -382,7 +382,7 @@ Alcheringa, and of their operations with their famous *Lialira* or stone
 knives. It was these men who, according to tradition, first introduced
 the use of a stone knife at circumcision, the operation having been
 previously <span id="page_224">p. 224</span> conducted by means of a
-fire-stick. <span id="fr_110"></span>[1](#fn_110) At times they broke
+fire-stick. <span id="fr_110"></span>[1](#fn_110.md) At times they broke
 into the *Lartna* song:
 
 “Irri yulta yulta rai  
@@ -406,7 +406,7 @@ and on his side, a decorated man whom the *Okilia* and *Oknia*, both of
 them speaking at once, told him represented a wild dog. At the other end
 of the *Apulla* a decorated man stood, with legs wide apart, holding up
 twigs of Eucalyptus in each hand, and having his head ornamented with a
-small *Waninga*, <span id="fr_111"></span>[1](#fn_111) which is a sacred
+small *Waninga*, <span id="fr_111"></span>[1](#fn_111.md) which is a sacred
 object emblematic of some totemic animal, in this particular case a
 kangaroo. This man moved his head from side to side, as if looking for
 something, and every now and then uttered a sound similar to that made
@@ -664,7 +664,7 @@ time, the two little hawk men being at first in front; the latter then
 retired to the sides, and the *Waninga* carriers came on quivering. Then
 a man who <span id="page_233">p. 233</span> <span id="page_234">p.
 234</span> was *Ikuntera* to the boy stepped out, and taking the
-*Waninga* <span id="fr_112"></span>[1](#fn_112) set it up in the
+*Waninga* <span id="fr_112"></span>[1](#fn_112.md) set it up in the
 *Apulla* path, and the *Wurtja* was told by *Oknia* and *Okilia* men to
 go out and embrace it, which he did for some minutes, while the men who
 had carried it stood by, and the others, gathered together at the brake,
@@ -1000,7 +1000,7 @@ them on. At the end of the ten minutes the *Urinthantima* man wriggled
 out from underneath the boy, who remained lying face downwards on the
 ground. The old *Ipmunna* stood close by, explaining the design on the
 back of the *Wurtja*, and after a time called up two old women, who,
-like himself, were *Ipmunna* <span id="fr_113"></span>[1](#fn_113) to
+like himself, were *Ipmunna* <span id="fr_113"></span>[1](#fn_113.md) to
 the boy, to come up and rub out the design. They came forwards with
 apparent reluctance, though in reality highly honoured by being thus
 chosen, and, stooping down, effaced the drawing by rubbing it over with
@@ -1013,7 +1013,7 @@ shouting, followed them all about, stripping the leaves as they did so
 from off the poles. It was now dark, but piling the two brakes, which
 had served their purpose and would not be used again, on top of one
 another, the whole mass was set on fire, <span
-id="fr_114"></span>[2](#fn_114) and the flames lighted up a scene of the
+id="fr_114"></span>[2](#fn_114.md) and the flames lighted up a scene of the
 weirdest description possible, on which the *Wurtja* looked in silence
 apparently quite unmoved. Suddenly the old *Mura* man gave out a great
 roar, the dancing ceased, and, followed by menacing shouts from the men,
@@ -1050,7 +1050,7 @@ above his head. During the whole time the bull-roarers were sounding all
 round so loudly that they could easily be heard by the women and
 children in their camp, and by them it is supposed that the roaring is
 the voice of the great spirit *Twanyirika*, who has come to take the boy
-away. <span id="fr_115"></span>[1](#fn_115)
+away. <span id="fr_115"></span>[1](#fn_115.md)
 
 The *Arachitta* poles were then quickly removed from the top of the
 *Wurtja*, and he was at once lifted up by *Okilia* and *Oknia* men, who
@@ -1098,7 +1098,7 @@ operator; *Atwia atwia*, the assistant; *Wulya*, of the final painting;
 *Wulya*, the assistant of the last man; *Elucha*. As each man came up
 the *Okilia* shouted, “This is *Wulya* (and so on through the list), do
 not mention his name,” and then each of them embraced the boy in turn,
-pressing their bodies together. <span id="fr_116"></span>[1](#fn_116) As
+pressing their bodies together. <span id="fr_116"></span>[1](#fn_116.md) As
 each man came up and the presentation was made, the same ceremony was
 gone through, and in turn every one of those who had taken any special
 part was named by the *Okilia*, whose
@@ -1341,7 +1341,7 @@ hole in the centre, will place therein some glowing pieces of charcoal
 and upon these he will urinate, thus causing steam to arise which is
 said to give great relief to the pain. Until the young man's wound has
 healed he is supposed to lie only upon his back for otherwise the organ
-would grow crooked. <span id="fr_117"></span>[1](#fn_117)
+would grow crooked. <span id="fr_117"></span>[1](#fn_117.md)
 
 Until the *Arakurta* has undergone and quite recovered from the ceremony
 of sub-incision, he is forbidden to eat the flesh of opossum, snake,
@@ -1596,9 +1596,9 @@ and is ready for the further operation.
 
 The rite of sub-incision, which may be said to be characteristic of the
 great group of tribes occupying the interior parts of Queensland, <span
-id="fr_118"></span>[1](#fn_118) New South Wales, and South Australia,
+id="fr_118"></span>[1](#fn_118.md) New South Wales, and South Australia,
 right away to the far north, and at all events a very large part of West
-Australia, <span id="fr_119"></span>[2](#fn_119) has frequently been
+Australia, <span id="fr_119"></span>[2](#fn_119.md) has frequently been
 alluded to by Curr and other writers under the name of the “terrible
 rite”—a term which, as Dr. Stirling suggested, may well be discarded. It
 consists, as is well known, in sub-incision of the penis, so that the
@@ -1837,7 +1837,7 @@ of the *Lartna* (circumcision) or Engwura ceremonies of the men.
 
 We have described the ceremonies attendant on what may be called the
 initiation of women, the first in connection with other ceremonies
-peculiar to women, <span id="fr_120"></span>[1](#fn_120) the second in
+peculiar to women, <span id="fr_120"></span>[1](#fn_120.md) the second in
 the chapter dealing with the social organisation, as it has important
 bearings upon this, and may be most conveniently dealt with in
 connection therewith.
@@ -1846,55 +1846,55 @@ connection therewith.
 
 ### Footnotes
 
-<span id="fn_101"></span>[214:1](ntca09.htm#fr_101) Roth points out that
+<span id="fn_101"></span>[214:1](ntca09.htm#fr_101.md) Roth points out that
 in the tribes studied by him the knocking out of teeth is independent of
 any initiation rite, *op. cit.*, p. 170.
 
-<span id="fn_102"></span>[214:2](ntca09.htm#fr_102) In the initiation of
+<span id="fn_102"></span>[214:2](ntca09.htm#fr_102.md) In the initiation of
 the Kurnai, Mr. Howitt describes how at the beginning of the ceremony
 each boy is thrown into the air by the *bullerwang*, or man in charge of
 him. *Kamilroi and Kurnai*, p. 196.
 
-<span id="fn_103"></span>[215:1](ntca09.htm#fr_103) If a woman, whose
+<span id="fn_103"></span>[215:1](ntca09.htm#fr_103.md) If a woman, whose
 daughter has been allotted to a man, has a son born before she has a
 daughter, the man may, if he elects to do so, renounce his right to the
 daughter, and becomes *Unjipinna* to the boy, who has, until he is
 initiated, to provide the man with his hair.
 
-<span id="fn_104"></span>[219:1](ntca09.htm#fr_104) For a description of
+<span id="fn_104"></span>[219:1](ntca09.htm#fr_104.md) For a description of
 Undiara, and the traditions and ceremonies associated with it, see
-Chapter VI., [p. 193](ntca08.htm#page_193) *sqq*.
+Chapter VI., [p. 193](ntca08.htm#page_193.md) *sqq*.
 
-<span id="fn_105"></span>[220:1](ntca09.htm#fr_105) For an account of
-these see [p. 441](ntca13.htm#page_441).
+<span id="fn_105"></span>[220:1](ntca09.htm#fr_105.md) For an account of
+these see [p. 441](ntca13.htm#page_441.md).
 
-<span id="fn_106"></span>[220:2](ntca09.htm#fr_106) Roth describes the
+<span id="fn_106"></span>[220:2](ntca09.htm#fr_106.md) Roth describes the
 women as decorated after the manner of warriors about to engage in a
 fight during the early part of the proceedings, *op. cit.*, p. 170.
 
-<span id="fn_107"></span>[220:3](ntca09.htm#fr_107) If the boy had had
+<span id="fn_107"></span>[220:3](ntca09.htm#fr_107.md) If the boy had had
 an *Unjipinna* man, that is an *Umbirna* who had waived his right to the
 boy's sister as wife, then it would have been the duty of this man to
 tie the hair up.
 
-<span id="fn_108"></span>[221:1](ntca09.htm#fr_108) In using these terms
+<span id="fn_108"></span>[221:1](ntca09.htm#fr_108.md) In using these terms
 we include, unless specially stated to the contrary, tribal as well as
 blood relations; the *Oknia*, for example, include the actual father and
 also the father's brothers.
 
-<span id="fn_109"></span>[222:1](ntca09.htm#fr_109) The handing of the
+<span id="fn_109"></span>[222:1](ntca09.htm#fr_109.md) The handing of the
 firestick is called *Unchalkulkna*, and the fire is regarded as being of
 a sacred character.
 
-<span id="fn_110"></span>[224:1](ntca09.htm#fr_110) In the southern part
+<span id="fn_110"></span>[224:1](ntca09.htm#fr_110.md) In the southern part
 of the tribe the tradition is that an aged woman, angry because of the
 number of boys who were killed in consequence of the use of a fire-stick
 for circumcision, showed the men how to use a stone knife.
 
-<span id="fn_111"></span>[225:1](ntca09.htm#fr_111) For a description of
-this, see page [231](#page_231) *sq*.
+<span id="fn_111"></span>[225:1](ntca09.htm#fr_111.md) For a description of
+this, see page [231](#page_231.md) *sq*.
 
-<span id="fn_112"></span>[234:1](ntca09.htm#fr_112) In the southern part
+<span id="fn_112"></span>[234:1](ntca09.htm#fr_112.md) In the southern part
 of the Arunta the *Waninga* is used in this way during the ceremony of
 *Lartna*, but neither a *Waninga* nor a *Nurtunja* is used at the
 ceremony of sub-incision; in the central and western part of the Arunta
@@ -1902,15 +1902,15 @@ a *Waninga* is used at circumcision and a *Nurtunja* at sub-incision,
 and in the northern part of the Arunta and in the Ilpirra tribe neither
 of them is used at circumcision, but a *Nurtunja* at sub-incision.
 
-<span id="fn_113"></span>[244:1](ntca09.htm#fr_113) The *Ipmunna* men
+<span id="fn_113"></span>[244:1](ntca09.htm#fr_113.md) The *Ipmunna* men
 and women belong to the sub-class into which the novice's children will
 pass.
 
-<span id="fn_114"></span>[244:2](ntca09.htm#fr_114) Roth describes the
+<span id="fn_114"></span>[244:2](ntca09.htm#fr_114.md) Roth describes the
 brake of boughs used during the ceremony, and called *errulli*, as being
 burnt at the close of the proceedings, *loc. cit.*, p. 171.
 
-<span id="fn_115"></span>[246:1](ntca09.htm#fr_115) The sound of the
+<span id="fn_115"></span>[246:1](ntca09.htm#fr_115.md) The sound of the
 bull-roarer is believed by the women to be the voice of the spirit
 *Twanyirika*, who has taken the boy away from them into the bush. This
 spirit, they are told, lives in wild and inaccessible regions, and only
@@ -1929,29 +1929,29 @@ described by Mr. Howitt, are sounded, a larger and a smaller one, the
 latter representing *Tundun's* wife, but amongst the Arunta, Ilpira and
 Luritcha there is only one, and that represents the male spirit.
 
-<span id="fn_116"></span>[248:1](ntca09.htm#fr_116) After this the
+<span id="fn_116"></span>[248:1](ntca09.htm#fr_116.md) After this the
 novice must use these terms in addressing these special individuals,
 though he may not speak to any one of them until such time as he shall
 have made him an offering of food.
 
-<span id="fn_117"></span>[256:1](ntca09.htm#fr_117) As a result of the
+<span id="fn_117"></span>[256:1](ntca09.htm#fr_117.md) As a result of the
 operation of *Ariltha-kuma*, micturition is always, in the native state,
 performed in a squatting position, and it is a very characteristic
 action for a little hollow to be scooped out with the hand in the soil,
 and then into this micturition takes place.
 
-<span id="fn_118"></span>[263:1](ntca09.htm#fr_118) Cf. Roth, *loc.
+<span id="fn_118"></span>[263:1](ntca09.htm#fr_118.md) Cf. Roth, *loc.
 cit.*
 
-<span id="fn_119"></span>[263:2](ntca09.htm#fr_119) Mr. A. Morton, who
+<span id="fn_119"></span>[263:2](ntca09.htm#fr_119.md) Mr. A. Morton, who
 has recently been engaged in anthropological work in West Australia,
 informs us that the operation is universally carried out amongst the
 tribes with whom he came in contact. See also Helms. *Trans. Roy. Soc.
 South Australia*, vol. xvi., p. 276.
 
-<span id="fn_120"></span>[270:1](ntca09.htm#fr_120) Cf. Chapter XII.
+<span id="fn_120"></span>[270:1](ntca09.htm#fr_120.md) Cf. Chapter XII.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. Initiation Ceremonies (Continued) the Engwura
-Ceremony](ntca10)
+Ceremony](ntca10.md)

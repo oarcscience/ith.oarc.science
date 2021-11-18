@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm58)  [Next](bcm60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm58)  [Next](bcm60.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,14 +23,14 @@ THE SEAL OF CAIM</p></td>
 
  
 
-LII\. ALLOCEN, <span id="fr_235"></span>[2](#fn_234) a strong duke,
+LII\. ALLOCEN, <span id="fr_235"></span>[2](#fn_234.md) a strong duke,
 appears in the form of a soldier, mounted on a great horse, his face
 like that of a lion, exceedingly red, his eyes flaming fire, his speech
 hoarse and loud. He teaches astronomy and the liberal sciences, and
 gives a good familiar.
 
 LIII\. CAIM, a great president, appears in the form of a thrush, <span
-id="fr_236"></span>[3](#fn_235) but afterwards in that of a man bearing
+id="fr_236"></span>[3](#fn_235.md) but afterwards in that of a man bearing
 a sharp sword and seeming--as it is said fantastically--to answer in
 burning ashes. He is a keen disputant; he imparts to men the
 understanding of birds' songs, the lowing of cattle, the barking of dogs
@@ -93,7 +93,7 @@ THE SEAL OF OSE</p></td>
  
 
 LVI\. GOMORY, a powerful duke, appears like a beautiful woman, wearing a
-ducal crown. <span id="fr_237"></span>[1](#fn_236) He discovers past,
+ducal crown. <span id="fr_237"></span>[1](#fn_236.md) He discovers past,
 present and future, as also the whereabouts of hidden treasures; he
 procures the love of women and especially of girls.
 
@@ -104,19 +104,19 @@ LVII\. OSE, a great president, appears at first like a leopard
 and then in human shape. He gives skill in all liberal sciences and true
 answers concerning divine and secret things. He can change men into any
 shape that the exorcist may desire, and he that is changed will not know
-it. <span id="fr_238"></span>[1](#fn_237)
+it. <span id="fr_238"></span>[1](#fn_237.md)
 
 <span id="img_21400"></span> [![](tn/generic.jpg)  
-Click to view](img/21400.jpg)  
+Click to view](img/21400.jpg.md)  
 THE SEAL OF AMY
 
 LVIII\. AMY, a great president, comes first as a great flaming fire and
 then as a man. He gives perfect knowledge of astrology and the liberal
 sciences, with good familiars, and can betray treasures that are kept by
-spirits. <span id="fr_239"></span>[2](#fn_238)
+spirits. <span id="fr_239"></span>[2](#fn_238.md)
 
 <span id="img_21401"></span> [![](tn/generic.jpg)  
-Click to view](img/21401.jpg)  
+Click to view](img/21401.jpg.md)  
 THE SEAL OF ORIAS
 
 LIX\. ORIAS, a great marquis, appears in the form of a
@@ -133,23 +133,23 @@ foes.
 
 ### Footnotes
 
-<span id="fn_234"></span>[212:2](bcm59.htm#fr_235) Otherwise, *Alloien*
+<span id="fn_234"></span>[212:2](bcm59.htm#fr_235.md) Otherwise, *Alloien*
 and *Allocer*.
 
-<span id="fn_235"></span>[212:3](bcm59.htm#fr_236) Or of a blackbird.
+<span id="fn_235"></span>[212:3](bcm59.htm#fr_236.md) Or of a blackbird.
 
-<span id="fn_236"></span>[213:1](bcm59.htm#fr_237) And riding on a camel
+<span id="fn_236"></span>[213:1](bcm59.htm#fr_237.md) And riding on a camel
 (Wierus).
 
-<span id="fn_237"></span>[214:1](bcm59.htm#fr_238) He can also reduce
+<span id="fn_237"></span>[214:1](bcm59.htm#fr_238.md) He can also reduce
 them to such a state of insanity that they will believe their identity
 changed, that they are kings and so forth. The delusion, however, will
 only endure for one hour (Wierus).
 
-<span id="fn_238"></span>[214:2](bcm59.htm#fr_239) He is partly of the
+<span id="fn_238"></span>[214:2](bcm59.htm#fr_239.md) He is partly of the
 Order of the Angels and partly of that of the Powers. He hopes to return
 to the Seventh Thrones in 1200 years, which is incredible, says Wierus.
 
 ------------------------------------------------------------------------
 
-[Next: Demons: LX. (Vapula) to LXXII. (Andromalius)](bcm60)
+[Next: Demons: LX. (Vapula) to LXXII. (Andromalius)](bcm60.md)

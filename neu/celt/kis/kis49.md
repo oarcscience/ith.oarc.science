@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis48)  [Next](kis50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis48)  [Next](kis50.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ and the King's Son now went.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](kis50)
+[Next: Part I](kis50.md)

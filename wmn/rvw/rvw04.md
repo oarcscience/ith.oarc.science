@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw03)  [Next](rvw05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw03)  [Next](rvw05.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ present.
 
 The appellee notes, however, that the record does not disclose that Roe
 was pregnant at the time of the District Court hearing on May 22,
-1970, [6](rvw13.htm#xref_6) or on the following June 17 when the court's
+1970, [6](rvw13.htm#xref_6.md) or on the following June 17 when the court's
 opinion and judgment were filed. And he suggests that Roe's case must
 now be moot because she and all other members of her class are no longer
 subject to any 1970 pregnancy. \[410 U.S. 113, 125\]
@@ -117,7 +117,7 @@ cases were decided after the three-judge District Court decision in this
 case.
 
 Dr. Hallford's complaint in intervention, therefore, is to be
-dismissed. [7](rvw13.htm#xref_7) He is remitted to his defenses in the
+dismissed. [7](rvw13.htm#xref_7.md) He is remitted to his defenses in the
 state criminal proceedings against him. We reverse the judgment of the
 District Court insofar as it granted Dr. Hallford relief and failed to
 dismiss his complaint in intervention.
@@ -171,4 +171,4 @@ affirm that dismissal.
 
 ------------------------------------------------------------------------
 
-[Next: Section V](rvw05)
+[Next: Section V](rvw05.md)

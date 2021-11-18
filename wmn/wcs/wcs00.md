@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Next](wcs01) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Next](wcs01.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ will be welcome; to all others, aggressive and educational.
 
 ------------------------------------------------------------------------
 
-[Next: Preface.](wcs01)
+[Next: Preface.](wcs01.md)

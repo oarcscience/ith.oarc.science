@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu02)  [Next](cbu04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu02)  [Next](cbu04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -187,7 +187,7 @@ Chinese Buddhism.
 Why should they not accept Christianity with the same zeal, and apply to
 the task of teaching it as much mental force?
 
-Dr. Draper says, <span id="fr_0"></span>[1](#fn_0) "From this we may
+Dr. Draper says, <span id="fr_0"></span>[1](#fn_0.md) "From this we may
 also infer how unphilosophical and vain is the expectation of those who
 would attempt to restore the aged populations of Asia to our state.
 Their intellectual condition has passed onward never more to return."
@@ -282,9 +282,9 @@ PEKING<span class="small">, *October* 1879.</span>
 
 ### Footnotes
 
-<span id="fn_0"></span>[xxii:1](cbu03.htm#fr_0) *Draper's Intellectual
+<span id="fn_0"></span>[xxii:1](cbu03.htm#fr_0.md) *Draper's Intellectual
 Development of Europe*, vol. i. p. 57.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](cbu04)
+[Next: Contents](cbu04.md)

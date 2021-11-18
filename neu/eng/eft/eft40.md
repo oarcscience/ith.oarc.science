@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft39)  [Next](eft41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft39)  [Next](eft41.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ precious Neddy of the poor youth. So Jack, without knowing that any
 change had been made, rode away next morning to his father's house.
 
 <span id="img_058"></span> [![](tn/058.jpg)  
-Click to enlarge](img/058.jpg)
+Click to enlarge](img/058.jpg.md)
 
 Now, I must tell you that near his home dwelt a poor widow with an only
 daughter. The lad and the maiden were fast friends and true-loves; but
@@ -126,4 +126,4 @@ the richest, and I shall marry thee.'
 
 ------------------------------------------------------------------------
 
-[Next: Fairy Ointment](eft41)
+[Next: Fairy Ointment](eft41.md)

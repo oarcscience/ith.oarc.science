@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits065) [Next](bits067)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits065) [Next](bits067.md)
 
 ------------------------------------------------------------------------
 
@@ -105,7 +105,7 @@ Cashmere, it would take them the same length of time."
 
 ------------------------------------------------------------------------
 
-[Next: § 67. Going Further and Faring Worse](bits067)
+[Next: § 67. Going Further and Faring Worse](bits067.md)
 
  
 

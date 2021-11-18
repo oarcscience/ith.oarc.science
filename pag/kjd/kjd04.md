@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Previous](kjd03)  [Next](kjd05) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Previous](kjd03)  [Next](kjd05.md) 
 
 ------------------------------------------------------------------------
 
@@ -768,4 +768,4 @@ faciendum est malum vt bonum inde eueniat*.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Dæmonologie: The Seconde Booke](kjd05)
+[Next: Dæmonologie: The Seconde Booke](kjd05.md)

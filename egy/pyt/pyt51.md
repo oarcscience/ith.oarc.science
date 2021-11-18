@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt50)  [Next](pyt52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt50)  [Next](pyt52.md) 
 
 ------------------------------------------------------------------------
 
@@ -543,4 +543,4 @@ one."
 ------------------------------------------------------------------------
 
 [Next: 49. The Death of the King and His Arrival in Heaven, Utterance
-659](pyt52)
+659](pyt52.md)

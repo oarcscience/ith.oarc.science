@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc13)  [Next](lcc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc13)  [Next](lcc15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ at Intangible Textual Heritage
 Ye ignorant, lay by a store of virtue!  
 Restrain the belly; watch eternally,  
   Heeding the beat of contemplation's <span
-id="fr_71"></span>[1](#fn_71) drum.  
+id="fr_71"></span>[1](#fn_71.md) drum.  
 For else the senses—fearful thieves they be  
   Will steal away all virtue's hoarded sum.<span
 class="margnote">1</span>
@@ -42,11 +42,11 @@ am become the abode of virtues alone.
 
 <div style="margin-left: 32px">
 
-Who slays the Five Men, <span id="fr_72"></span>[2](#fn_72) and the
-Female Bane, <span id="fr_73"></span>[3](#fn_73)  
-  By whom protection to the Town <span id="fr_74"></span>[4](#fn_74) is
+Who slays the Five Men, <span id="fr_72"></span>[2](#fn_72.md) and the
+Female Bane, <span id="fr_73"></span>[3](#fn_73.md)  
+  By whom protection to the Town <span id="fr_74"></span>[4](#fn_74.md) is
 given,  
-By whom the Outcaste <span id="fr_75"></span>[5](#fn_75) impotent is
+By whom the Outcaste <span id="fr_75"></span>[5](#fn_75.md) impotent is
 slain,  
   He cannot fail to enter into heaven.<span class="margnote">2</span>  
 Though head be shorn and face be shorn,  
@@ -74,7 +74,7 @@ blessèd Lord Buddha is my defender.
 \[*Enter the courtier, carrying a sword, and Sansthānaka*.\]
 
 *Sansthānaka*. Shtop, you confounded monk, shtop! I'll pound your head
-like a red radish <span id="fr_76"></span>[1](#fn_76) at a drinking
+like a red radish <span id="fr_76"></span>[1](#fn_76.md) at a drinking
 party. \[*He strikes him*.\]
 
 *Courtier*. You jackass, you should not strike a monk who wears the
@@ -108,7 +108,7 @@ praise.
 
 *Sansthānaka*. Shee? He shays I'm virtuous. He shays I'm a brick. What
 do you think I am? a materialistic philosopher? or a watering-trough? or
-a pot-maker? <span id="fr_77"></span>[2](#fn_77)
+a pot-maker? <span id="fr_77"></span>[2](#fn_77.md)
 
 *Courtier*. You jackass, he praises you when he says that you are
 virtuous, that you are a brick.
@@ -501,7 +501,7 @@ Your nature knows your pride no more;
 
 </div>
 
-Did I not tell <span id="fr_78"></span>[1](#fn_78) you to "serve the man
+Did I not tell <span id="fr_78"></span>[1](#fn_78.md) you to "serve the man
 you love, and him you hate"?
 
 *Vasantasenā*. I made a mistake in the cart, and thus I came hither. I
@@ -663,7 +663,7 @@ class="margnote">23</span>
 *Sansthānaka*. I'll give you a boat. And beshides, in thish deserted
 garden, who'll shee you murdering her?
 
-*Courtier*. The regions ten, <span id="fr_79"></span>[1](#fn_79) the
+*Courtier*. The regions ten, <span id="fr_79"></span>[1](#fn_79.md) the
 forest gods, the sky,
 
 <div style="margin-left: 32px">
@@ -1017,7 +1017,7 @@ shlave, how do you do?
 *Courtier*. Toward the east.
 
 *Sansthānaka*. Well, she went shouth. <span
-id="fr_80"></span>[1](#fn_80)
+id="fr_80"></span>[1](#fn_80.md)
 
 *Courtier*. So did I.
 
@@ -1277,7 +1277,7 @@ better that I had slept never to waken.
 courtezan.
 
 *Monk*. Sister in Buddha, support yourself by this creeper <span
-id="fr_81"></span>[1](#fn_81) that clings to the tree, and rise to your
+id="fr_81"></span>[1](#fn_81.md) that clings to the tree, and rise to your
 feet. \[*He bends down the creeper. Vasantasenā takes it in her hand,
 and rises*.\]
 
@@ -1302,35 +1302,35 @@ For heaven is in the hollow of his hand.<span class="margnote">47</span>
 
 ### Footnotes
 
-<span id="fn_71"></span>[109:1](lcc14.htm#fr_71) An allusion to the
+<span id="fn_71"></span>[109:1](lcc14.htm#fr_71.md) An allusion to the
 practice by which the Buddhists induced a state of religious ecstasy.
 
-<span id="fn_72"></span>[109:2](lcc14.htm#fr_72) The five senses.
+<span id="fn_72"></span>[109:2](lcc14.htm#fr_72.md) The five senses.
 
-<span id="fn_73"></span>[109:3](lcc14.htm#fr_73) Ignorance.
+<span id="fn_73"></span>[109:3](lcc14.htm#fr_73.md) Ignorance.
 
-<span id="fn_74"></span>[109:4](lcc14.htm#fr_74) The body.
+<span id="fn_74"></span>[109:4](lcc14.htm#fr_74.md) The body.
 
-<span id="fn_75"></span>[109:5](lcc14.htm#fr_75) The conceit of
+<span id="fn_75"></span>[109:5](lcc14.htm#fr_75.md) The conceit of
 individuality.
 
-<span id="fn_76"></span>[110:1](lcc14.htm#fr_76) Used as an appetizer.
+<span id="fn_76"></span>[110:1](lcc14.htm#fr_76.md) Used as an appetizer.
 
-<span id="fn_77"></span>[110:2](lcc14.htm#fr_77) The elaborate puns of
+<span id="fn_77"></span>[110:2](lcc14.htm#fr_77.md) The elaborate puns of
 this passage can hardly be reproduced in a translation.
 
-<span id="fn_78"></span>[117:1](lcc14.htm#fr_78) See page
-[13](lcc07.htm#page_13).
+<span id="fn_78"></span>[117:1](lcc14.htm#fr_78.md) See page
+[13](lcc07.htm#page_13.md).
 
-<span id="fn_79"></span>[120:1](lcc14.htm#fr_79) The four cardinal
+<span id="fn_79"></span>[120:1](lcc14.htm#fr_79.md) The four cardinal
 points, the four intermediate points, the zenith, and the nadir.
 
-<span id="fn_80"></span>[126:1](lcc14.htm#fr_80) The region of Yama, god
+<span id="fn_80"></span>[126:1](lcc14.htm#fr_80.md) The region of Yama, god
 of death.
 
-<span id="fn_81"></span>[131:1](lcc14.htm#fr_81) A monk may not touch a
+<span id="fn_81"></span>[131:1](lcc14.htm#fr_81.md) A monk may not touch a
 woman.
 
 ------------------------------------------------------------------------
 
-[Next: Act the Ninth: The Trial](lcc15)
+[Next: Act the Ninth: The Trial](lcc15.md)

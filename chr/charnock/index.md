@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 </div>
 
@@ -23,8 +23,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cha00)    [Text
-\[Zipped\]](cha.txt.gz)
+[Contents](#contents)    [Start Reading](cha00.md)    [Text
+\[Zipped\]](cha.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -56,11 +56,11 @@ after his death. This is a collection of this longer works.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cha00)  
-[Discourse of the Nature of Regeneneration](cha01)  
-[Discourse of the Word, the Instrument of Regeneration](cha02)  
-[Necessity of Regeneration](cha03)  
-[Discourse on the Cleansing Virtue of Christ's Blood](cha04)  
-[Discourse of the Efficient of Regeneration, Part I](cha05)  
-[Discourse of the Efficient of Regeneration, Part II](cha06)  
-[Discourse of God's being the Author of Reconciliation](cha07)  
+<span id="contents"></span> [Title Page](cha00.md)  
+[Discourse of the Nature of Regeneneration](cha01.md)  
+[Discourse of the Word, the Instrument of Regeneration](cha02.md)  
+[Necessity of Regeneration](cha03.md)  
+[Discourse on the Cleansing Virtue of Christ's Blood](cha04.md)  
+[Discourse of the Efficient of Regeneration, Part I](cha05.md)  
+[Discourse of the Efficient of Regeneration, Part II](cha06.md)  
+[Discourse of God's being the Author of Reconciliation](cha07.md)  

@@ -1,8 +1,8 @@
-[Previous: Omni](book05)
+[Previous: Omni](book05.md)
 
-[Next: Mosiah](book07)
+[Next: Mosiah](book07.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -130,4 +130,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Mosiah](book07)
+[Next: Mosiah](book07.md)

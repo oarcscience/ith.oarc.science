@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai06) 
-[Next](phai08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai06.md) 
+[Next](phai08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -76,7 +76,7 @@ in flesh, to be in my sanctuary, to pollute it, even my house, when ye
 offer my bread, the fat and the blood, and have broken my covenant by
 all your abominations. And ye have not kept the charge of my holy
 things, inasmuch as ye have set these <span
-id="fr_80"></span>[1](#fn_80) to be keepers of my charge in my
+id="fr_80"></span>[1](#fn_80.md) to be keepers of my charge in my
 sanctuary. Therefore, thus saith the Lord Jehovah, No stranger
 uncircumcised in heart and uncircumcised in flesh shall enter into my
 sanctuary; none, of all that are among the children of Israel. But the
@@ -170,7 +170,7 @@ destination. The distinction between priest and Levite which Ezekiel
 introduces and justifies as an innovation, according to the Priestly
 Code has always existed; what in the former appears as a beginning, in
 the latter has been in force ever since Moses,—an original datum, not a
-thing that has become or been made. <span id="fr_81"></span>[1](#fn_81)
+thing that has become or been made. <span id="fr_81"></span>[1](#fn_81.md)
 That the prophet should know nothing about a priestly law with whose
 tendencies he is in thorough sympathy admits of only one
 explanation,—that it did not then exist. His own ordinances are only to
@@ -181,7 +181,7 @@ be understood as preparatory steps towards its own exactment.
 2\. Nöldeke, however, interprets the parallelism between the sons of
 Aaron and the sons of Zadok in favour of the priority of the Priestly
 Code, which, after all, he points out, is not quite so exclusive as
-Ezekiel. <span id="fr_82"></span>[1](#fn_82) But, in the first place,
+Ezekiel. <span id="fr_82"></span>[1](#fn_82.md) But, in the first place,
 this is a point of subordinate importance, the main thing being that
 Ezekiel has to make the distinction between priests and Levites, which
 is regarded in the Priestly Code as very ancient. In presence of the
@@ -253,7 +253,7 @@ among the sons of Aaron, with whom they can only in point of fact be
 contrasted, the circumstance is an unmistakable indication that at this
 point the threads of tradition from the pre-exilic period have been
 snapped completely, which was not yet the case in Ezekiel's time. <span
-id="fr_83"></span>[1](#fn_83)
+id="fr_83"></span>[1](#fn_83.md)
 
 <span id="page_127">p. 127</span>
 
@@ -332,7 +332,7 @@ from Shiloh to Nob, on account of the destruction by the Philistines of
 the temple at the former place, they numbered more than eighty-five men,
 who, however, are not necessarily proper blood-relations of Eli,
 although reckoning themselves as belonging to his clan (1 Sam. xxii.
-11). <span id="fr_84"></span>[1](#fn_84) One sanctuary more is referred
+11). <span id="fr_84"></span>[1](#fn_84.md) One sanctuary more is referred
 to towards the close of the period of the Judges,—that at Dan beside the
 source of the Jordan. A rich Ephraimite, Micah, had set up to Jehovah a
 silver-covered
@@ -397,7 +397,7 @@ nevertheless adopted as a priest. The service for which a stated
 minister was needed was not that of offering sacrifice; this was not so
 regular an occurrence as not to admit of being attended to by one's
 self. For a simple altar no priest was required, but only for a house
-which contained a sacred image; <span id="fr_85"></span>[1](#fn_85) this
+which contained a sacred image; <span id="fr_85"></span>[1](#fn_85.md) this
 demanded watching and attendance (1 Sam. vii. 1)—in fact, an ephod like
 that of Gideon or that of Micah (Judges viii. 26, 27, xvii. 4) was an
 article well worth stealing, and the houses of God ordinarily lay in an
@@ -408,7 +408,7 @@ with the ephod and winning its oracle from it continues from time
 immemorial to be the exclusive secret of the priest. In exceptional
 cases, the attendant is occasionally not the priest himself, but his
 disciple. Thus Moses has Joshua with him as his *ædituus* <span
-id="fr_86"></span>[2](#fn_86) (Exod. xxxiii. 11), who does not quit the
+id="fr_86"></span>[2](#fn_86) (Exod. xxxiii. 11.md), who does not quit the
 tent of Jehovah; so also Eli has Samuel, who sleeps at night in the
 inner portion of the temple beside the ark of the covenant; even if
 perhaps the narrative of Samuel's early years is not quite in accordance
@@ -558,7 +558,7 @@ at pleasure; on the other hand, in point of fact the sacred office, in
 Dan at least, continued from the period of the Judges down to the
 Assyrian deportation hereditary in the family of Jonathan. One must,
 moreover, avoid imagining that all the "houses of the high places" and
-all the priestly posts <span id="fr_87"></span>[1](#fn_87) belonged to
+all the priestly posts <span id="fr_87"></span>[1](#fn_87.md) belonged to
 the king; it was impossible that the government should be so
 all-pervading in such matters. At this period most of the sanctuaries
 were public, but not therefore as yet on that account royal, and so also
@@ -638,7 +638,7 @@ birth vowed to Jehovah by his mother, and as soon as possible afterwards
 is handed over to the sanctuary at Shiloh,—not to become a Nazarite or
 one of the Nethinim in the sense of the Pentateuch, but to be a
 priest,—for in his ministry he wears the linen ephod, the *ephod bad*,
-and even the pallium (1 Sam. ii. 18) <span id="fr_88"></span>[1](#fn_88)
+and even the pallium (1 Sam. ii. 18) <span id="fr_88"></span>[1](#fn_88.md)
 And it is made very plain that the mother's act, in thus giving up her
 son, who is properly hers, or (as she expresses it) lending him to
 Jehovah for ever (1 Sam. i. 28: ‏מושאל‎ = ‏שמואל‎), is regarded as a
@@ -705,7 +705,7 @@ heart on their iniquity. (9.) And it shall be as with the people so with
 the priest; I will punish them for their ways and requite them for their
 doings. (10.) They shall eat and not have enough, they shall commit
 whoredom and shall not increase, because they have ceased to take heed
-to the Lord" (Hos. iv. 1-10). <span id="fr_89"></span>[1](#fn_89)
+to the Lord" (Hos. iv. 1-10). <span id="fr_89"></span>[1](#fn_89.md)
 
 <span id="page_138">p. 138</span>
 
@@ -713,7 +713,7 @@ to the Lord" (Hos. iv. 1-10). <span id="fr_89"></span>[1](#fn_89)
 kingdom, according to this, the spiritual ascendancy of the priests over
 the people seems hardly to have been less than that of the prophets, and
 if in the history we hear less about it, <span
-id="fr_90"></span>[1](#fn_90) the explanation is to be sought in the
+id="fr_90"></span>[1](#fn_90.md) the explanation is to be sought in the
 fact that they laboured quietly and regularly in limited circles, taking
 no part in politics, and fully submissive to the established order, and
 that for this reason they attracted less notice and were less talked
@@ -745,7 +745,7 @@ far as one gathers from the epitome of the "Book of the Kings," as the
 main business of their government. They introduced new usages and
 abolished old ones; and as they did so the priests always bent to their
 will and were merely their executive organs. <span
-id="fr_91"></span>[1](#fn_91) That they were at liberty to offer
+id="fr_91"></span>[1](#fn_91.md) That they were at liberty to offer
 sacrifice also is a thing of course; they did it, however, only on
 exceptional occasions, such as, perhaps, at the dedication of a new
 altar (2 Kings xvi. 12, 13). Even with Jeremiah, who as a rule does not
@@ -770,7 +770,7 @@ contrast with the external and internal conflicts, the easily raised
 turmoil, of the northern kingdom. In the latter, the continual agitation
 brought extraordinary personalities up to the surface; in the former,
 institutions based upon the permanent order of things and supported by
-permanent powers were consolidated. <span id="fr_92"></span>[1](#fn_92)
+permanent powers were consolidated. <span id="fr_92"></span>[1](#fn_92.md)
 
 Naturally the monarchy itself benefited most by this stability. The
 king's cultus, which in the kingdom of Samaria was in no position to
@@ -833,19 +833,19 @@ In the pre-exilic literature apart from the Pentateuch it occurs very
 seldom. First in the prophets, once in the Book of Jeremiah (xxxiii.
 17-22), in a passage which in any case is later than the capture of
 Jerusalem by the Chaldæans, and certainly was not written by
-Jeremiah. <span id="fr_93"></span>[1](#fn_93) The use of the name is an
+Jeremiah. <span id="fr_93"></span>[1](#fn_93.md) The use of the name is an
 established thing in Ezekiel (573 B.C.), and henceforward occurs without
 interruption in the writings of the later prophets, a sign that its
 earlier absence is not to be explained as accidental, not even in
 Jeremiah, who speaks so frequently of the priests. <span
-id="fr_94"></span>[2](#fn_94) In the historical books the Levites
+id="fr_94"></span>[2](#fn_94.md) In the historical books the Levites
 (leaving out of account
 
 <span id="page_142">p. 142</span>
 
 <span class="contnote">\[paragraph continues\]</span> 1 Sam. vi. 15, 2
 Sam. xv. 24, and 1 Kings viii. 4, xii. 31) <span
-id="fr_95"></span>[1](#fn_95) occur only in the two appendices to the
+id="fr_95"></span>[1](#fn_95.md) occur only in the two appendices to the
 Book of Judges (chaps. xvii., xviii., and xix., xx.), of which, however,
 the second is unhistorical and late, and only the first is certainly
 pre-exilic. But in this case it is not the Levites who are spoken of, as
@@ -877,7 +877,7 @@ brother, is characterised as *The Levite* (Exod. iv. 14), Moses on the
 other hand bears the priestly staff, is over the sanctuary, and has
 Joshua to assist him as Eli had Samuel (Exod. xxxiii. 7-11). Plainly the
 older claims are his; in the main Jehovistic source, in J, Aaron
-originally does not occur at all, <span id="fr_96"></span>[2](#fn_96)
+originally does not occur at all, <span id="fr_96"></span>[2](#fn_96.md)
 neither is he mentioned in Deuteronomy xxxiii. 8. In the
 
 <span id="page_143">p. 143</span>
@@ -896,7 +896,7 @@ order. The same took place in Judah, but there the clerical guild
 ultimately acquired a hereditary character, and the order became a sort
 of clan. *Levite*, previously an official name, now became a patronymic
 at the same time, and all the Levites together formed a
-blood-kinship, <span id="fr_97"></span>[1](#fn_97) a race which had not
+blood-kinship, <span id="fr_97"></span>[1](#fn_97.md) a race which had not
 received any land of its own indeed, but in compensation had obtained
 the priesthood for its heritage. This hereditary clergy was alleged to
 have existed from the very beginning of the history of Israel, and even
@@ -905,7 +905,7 @@ Aaron. Such is the representation made by Deuteronomist and subsequent
 writers, but in Deuteronomy we read chiefly of the *Levites* in the
 provincial towns of Judah and of the *priests*, the *Levites* in
 Jerusalem, seldom of Levi as a whole (x. 8 seq., xviii. 1) <span
-id="fr_98"></span>[2](#fn_98)
+id="fr_98"></span>[2](#fn_98.md)
 
 That the hereditary character of the priesthood is here antedated and
 really first arose in the later period of the Kings, has already been
@@ -1013,7 +1013,7 @@ clergy and laity, while here there is introduced the great division of
 the order itself into sons of Aaron and Levites. Not in Deuteronomy
 only, but everywhere in the Old Testament, apart from Ezra, Nehemiah,
 and Chronicles, Levite is the priest's title of honour. <span
-id="fr_99"></span>[1](#fn_99) Aaron himself is so styled in the
+id="fr_99"></span>[1](#fn_99.md) Aaron himself is so styled in the
 often-quoted passage, Exod. iv. 14, and that too to denote his calling,
 not his family, for the latter he has in common with Moses, from whom,
 nevertheless, it is intended to distinguish him by the style, "thy
@@ -1057,13 +1057,13 @@ Ezekiel this distinction is still an innovation requiring justification
 and sanction; with the Priestly Code it is a "statute for ever,"
 although even yet not absolutely undisputed, as appears from the
 Priestly version of the story of Korah's company. <span
-id="fr_100"></span>[1](#fn_100) For all Judaism subsequent to Ezra, and
+id="fr_100"></span>[1](#fn_100.md) For all Judaism subsequent to Ezra, and
 so for Christian tradition, the Priestly Code in this matter also has
 been authoritative. Instead of the Deuteronomic formula "the priests the
 Levites," we henceforward have "the priests and the Levites,"
-particularly in Chronicles, <span id="fr_101"></span>[2](#fn_101) and in
+particularly in Chronicles, <span id="fr_101"></span>[2](#fn_101.md) and in
 the ancient versions the old *usus loquendi* is frequently
-corrected. <span id="fr_102"></span>[3](#fn_102)
+corrected. <span id="fr_102"></span>[3](#fn_102.md)
 
 <span id="page_148">p. 148</span>
 
@@ -1085,7 +1085,7 @@ elders at their head; the principal priest had a potent voice in the
 appointment of his inferior colleagues (1 Sam. ii. 36); alongside of him
 stood the second priest, the keepers of the threshold, the captain of
 the watch as holders of prominent charges. <span
-id="fr_103"></span>[1](#fn_103) But in the Law the position of Aaron is
+id="fr_103"></span>[1](#fn_103.md) But in the Law the position of Aaron is
 not merely superior but unique, like that of the Pope in relation to the
 episcopate; his sons act under his oversight (Num. iii. 4); he alone is
 the one fully qualified priest, the embodiment of all that is holy in
@@ -1169,7 +1169,7 @@ unhampered. Thus the temple became the sole centre of life, and the
 prince of the temple the head of the spiritual commonwealth, to which
 also the control of political affairs, so far as these were still left
 to the nation, naturally fell there being no other head. <span
-id="fr_104"></span>[1](#fn_104) The Chronicler gave a corresponding
+id="fr_104"></span>[1](#fn_104.md) The Chronicler gave a corresponding
 number of high priests to the twice twelve generations of forty years
 each which were usually assumed to have elapsed between the exodus and
 the building of Solomon's temple, and again between that and the close
@@ -1191,23 +1191,23 @@ they created a dilemma to the consequences of which they succumbed.
 
 ### Footnotes
 
-<span id="fn_80"></span>[122:1](phai07.htm#fr_80) In ver. 7 for ‏ויפרו‎
+<span id="fn_80"></span>[122:1](phai07.htm#fr_80.md) In ver. 7 for ‏ויפרו‎
 read ‏ותפרו‎, in ver. 8 for ‏ותשימון‎ read ‏ותשימום‎, and for ‏לכם‎ read
 ‏לכן‎, in each case following the LXX.
 
-<span id="fn_81"></span>[124:1](phai07.htm#fr_81) "If by reason of their
+<span id="fn_81"></span>[124:1](phai07.htm#fr_81.md) "If by reason of their
 birth it was impossible for the Levites to become priests, then it would
 be more than strange to deprive them of the priesthood on account of
 their faults,—much as if one were to threaten the commons with the
 punishment of disqualification to sit or vote in a house of lords"
 (Kuenen, *Theol. Tijdschr.*, iii. 465).
 
-<span id="fn_82"></span>[125:1](phai07.htm#fr_82) *Jahrb. f. prot.
+<span id="fn_82"></span>[125:1](phai07.htm#fr_82.md) *Jahrb. f. prot.
 Theol.*, 1875, p. 351: "Its doctrine that the Aaronidæ alone are true
 priests has its parallel in Ezekiel, who *still more exclusively*
 recognises only the sons of Zadok as priests."
 
-<span id="fn_83"></span>[126:1](phai07.htm#fr_83) To satisfy the
+<span id="fn_83"></span>[126:1](phai07.htm#fr_83.md) To satisfy the
 Pentateuch it is shown in the Book of Chronicles, by means of artificial
 genealogies, how the sons of Zadok derived their origin in an unbroken
 line from Aaron and Eleazar. Compare my *Pharisäer u. Sadducäer*, p. 48
@@ -1215,30 +1215,30 @@ seq. This <span id="page_127">p. 127</span> point was first observed by
 Vatke (p. 344 seq.), then by Kuenen (*Theol. Tijdschr.*, iii. p.
 463-509) and lastly by me (*Text der BB. Sam.*, p. 48-51).
 
-<span id="fn_84"></span>[128:1](phai07.htm#fr_84) In 1 Sam. i. seq.,
+<span id="fn_84"></span>[128:1](phai07.htm#fr_84.md) In 1 Sam. i. seq.,
 indeed, we read only of Eli and his two sons and one servant, and even
 David and Solomon appear to have had only a priest or two at the chief
 temple. Are we to suppose that Doeg, single-handed, could have made away
 with eighty-five men?
 
-<span id="fn_85"></span>[130:1](phai07.htm#fr_85) ‏בית אלהים‎, "house of
+<span id="fn_85"></span>[130:1](phai07.htm#fr_85.md) ‏בית אלהים‎, "house of
 God," is never anything but the house of an image. Outside of the
 Priestly Code, *ephod* is the image, *ephod bad* the priestly garment.
 
-<span id="fn_86"></span>[130:2](phai07.htm#fr_86) ‏משרת משה‎, more
+<span id="fn_86"></span>[130:2](phai07.htm#fr_86.md) ‏משרת משה‎, more
 precisely ‏מ״ את ײ את פני משה הכהז‎, 1 Sam. ii. 11.
 
-<span id="fn_87"></span>[134:1](phai07.htm#fr_87) The parallelism
+<span id="fn_87"></span>[134:1](phai07.htm#fr_87.md) The parallelism
 between "Bamoth-houses" and a priestly appointment in 1 Kings xii. 31
 seems not to be casual merely. Whilst a Bamah may be a simple altar, a
 "Bamoth-house" presupposes a divine image, and renders an *ædituus*
 necessary.
 
-<span id="fn_88"></span>[136:1](phai07.htm#fr_88) Comp. Koran, iii. 31:
+<span id="fn_88"></span>[136:1](phai07.htm#fr_88.md) Comp. Koran, iii. 31:
 "I vow to thee that which is in my womb as a devotee of the mosque, to
 serve it."
 
-<span id="fn_89"></span>[137:1](phai07.htm#fr_89) In the introductory
+<span id="fn_89"></span>[137:1](phai07.htm#fr_89.md) In the introductory
 words the people are invited to hear what it is that Jehovah complains
 of them for; sin prevails to such an extent that the complete ruin of
 the country is inevitable (vers. 1-3). With the word "yet" at the
@@ -1279,7 +1279,7 @@ ver. 4 a reproach brought against the people, leaves in obscurity the
 point at which the transition is made from reproach of the people to
 reproach of the priests.
 
-<span id="fn_90"></span>[138:1](phai07.htm#fr_90) According to 2 Kings
+<span id="fn_90"></span>[138:1](phai07.htm#fr_90.md) According to 2 Kings
 xvii. 27, 28, the foreign colonies introduced by the Assyrians into
 Samaria after it had been depopulated, were at first devoured by lions
 because they were ignorant of the right way of honouring the deity of
@@ -1289,33 +1289,33 @@ instructed (‏מורה‎) the settlers in the religion of the god of the
 country. This presupposes a definite priesthood, which maintained itself
 even in exile for a considerable time.
 
-<span id="fn_91"></span>[139:1](phai07.htm#fr_91) Compare for example 2
+<span id="fn_91"></span>[139:1](phai07.htm#fr_91.md) Compare for example 2
 Kings xii. 5 seq. (Joash and Jehoiada), xvi. 10 seq. (Ahaz and Urijah),
 and, finally, chap. xxii. (Josiah and Hilkiah).
 
-<span id="fn_92"></span>[140:1](phai07.htm#fr_92) The Rechabites, who
+<span id="fn_92"></span>[140:1](phai07.htm#fr_92.md) The Rechabites, who
 arose in the northern kingdom, continued to subsist in Judah, and
 Jeremiah prophesied to them that there should never fail them a priestly
 head of the family of their founder (xxxv. 19).
 
-<span id="fn_93"></span>[141:1](phai07.htm#fr_93) In the LXX, chap.
+<span id="fn_93"></span>[141:1](phai07.htm#fr_93.md) In the LXX, chap.
 xxxiii. 14-26 is wanting. The parallelism between vers. 17-22 and 23-26
 is striking. It looks as if David and Levi arose out of a
 misunderstanding of the families mentioned in ver. 24, namely, Judah and
 Ephraim. In any case ‏ודוד‎ in ver. 26 is an interpolation.
 
-<span id="fn_94"></span>[141:2](phai07.htm#fr_94) Ezek. xl. 46, xliii.
+<span id="fn_94"></span>[141:2](phai07.htm#fr_94.md) Ezek. xl. 46, xliii.
 19, xliv. 10, 15, xlv. 5, xlviii. 11-13, 22, 31; Isa. lxvi. 21; Zech.
 xii. 13; Mal. ii. 4, 8, iii. 3.
 
-<span id="fn_95"></span>[142:1](phai07.htm#fr_95) Upon 1 Sam. vi. 15 all
-that is necessary has been said at [128](#page_128); on 1 Kings viii. 4
-see. [43](phai04.htm#page_43). That 1 Kings xii. 31 proceeds from the
+<span id="fn_95"></span>[142:1](phai07.htm#fr_95.md) Upon 1 Sam. vi. 15 all
+that is necessary has been said at [128](#page_128.md); on 1 Kings viii. 4
+see. [43](phai04.htm#page_43.md). That 1 Kings xii. 31 proceeds from the
 Deuteronomic redactor, the date of whose writing is not earlier than the
 second half of the exile, needs no proof. The hopeless corruptness of 2
 Sam. xv. 24 I have shown in *Text. d. BB. Sam.* (Göttingen, 1871).
 
-<span id="fn_96"></span>[142:2](phai07.htm#fr_96) That Aaron was not
+<span id="fn_96"></span>[142:2](phai07.htm#fr_96.md) That Aaron was not
 originally present in J, but owed his introduction to tile redactor who
 combined J and E together into JE, can be shown best from Exod. vii.
 <span id="page_143">p. 143</span> x. For Jehovah's *command* to appear
@@ -1332,13 +1332,13 @@ these circumstances suspicious enough. It appears as if the Jehovistic
 editor had held Aaron's presence to be appropriate precisely at the
 intercession.
 
-<span id="fn_97"></span>[143:1](phai07.htm#fr_97) The instance of the
+<span id="fn_97"></span>[143:1](phai07.htm#fr_97.md) The instance of the
 Rechabites shows how easily the transition could made.
 
-<span id="fn_98"></span>[143:2](phai07.htm#fr_98) On Deut xxvii. compare
+<span id="fn_98"></span>[143:2](phai07.htm#fr_98.md) On Deut xxvii. compare
 Kuenen, *Theol. Tijdschr.*, 1878, p. 297.
 
-<span id="fn_99"></span>[146:1](phai07.htm#fr_99) Exod. iv. 14; Deut.
+<span id="fn_99"></span>[146:1](phai07.htm#fr_99.md) Exod. iv. 14; Deut.
 xxxiii. 8; Judges xvii. seq.; Exod. xxxii. 26-28; Deut. x. 8 seq., xii.
 12, 18 seq. xiv. 27, 29, xvi. 11, 14, xvii. 9, 18, xviii. 1-8, xxiv. 8,
 xxvii. 9, 14, xxxi. 9, 25; Josh. iii. 3, xiii. 14, 33, xiv. 3 seq.,
@@ -1347,15 +1347,15 @@ xviii. 7; Judges xix. seq., 1 Sam. vi. 15; 1 Kings xii. 31, Jer. xxxiii
 iii. 3. Only the glosses 2 Sam. xv. 24, and 1 Kings viii. 4 (compare,
 however, 2 Chron. v. 5) can rest upon the Priestly Code.
 
-<span id="fn_100"></span>[147:1](phai07.htm#fr_100) Distorted references
+<span id="fn_100"></span>[147:1](phai07.htm#fr_100.md) Distorted references
 to the historical truth are round also in Num. xvii. 25 and xviii. 23,
 passages which are unintelligible apart from Ezek. xliv. Compare Kuenen,
 *Theol. Tijdschr.*, 1878, p. 138 seq.
 
-<span id="fn_101"></span>[147:2](phai07.htm#fr_101) Except in 2 Chron.
+<span id="fn_101"></span>[147:2](phai07.htm#fr_101.md) Except in 2 Chron.
 v. 5, xxx. 27.
 
-<span id="fn_102"></span>[147:3](phai07.htm#fr_102) E.g., Josh. iii. 3
+<span id="fn_102"></span>[147:3](phai07.htm#fr_102.md) E.g., Josh. iii. 3
 and Isa. lxvi. 21 in the LXX, Deut. xviii. 1 and Judges xvii. 13 in
 "Jerome; and many passages in the Syriac. On the carrying out of the new
 organisation of the temple *personnel* after the exile, see Vatke, p.
@@ -1419,7 +1419,7 @@ externally to be placed on all equality with priests. They begged of
 King Agrippa II. to obtain for them the permission of the synedrium to
 wear the white priestly dress.
 
-<span id="fn_103"></span>[149:1](phai07.htm#fr_103) The Kohen ha-rosh
+<span id="fn_103"></span>[149:1](phai07.htm#fr_103.md) The Kohen ha-rosh
 first occurs in 2 Sam. xv. 27, but here ‏הראש‎ (so read, instead of
 ‏הרואה‎) comes from the interpolator of ver. 24. So again 2 Kings xii.
 11, ‏הכהז הנדול‎, but 2 Kings xii. is from the same hand as 2 Kings xvi.
@@ -1430,7 +1430,7 @@ besides 2 Kings xix. 2; Jer. xix. 1; 2 Kings xxiii. 4; xxv. 18; Jer. xx.
 name ‏לוי‎ it is noteworthy that ‏ספח‎ is parallel with ‏לוה‎ in Isa.
 xiv. 1.
 
-<span id="fn_104"></span>[151:1](phai07.htm#fr_104) Very interesting and
+<span id="fn_104"></span>[151:1](phai07.htm#fr_104.md) Very interesting and
 instructive is Ewald's proof of the way in which Zech. vi. 9-15 has been
 tampered with, so as to eliminate Zerubbabel and leave the high priest
 alone. Just so in dealing with Caliphs and Sultans, the Patriarchs were
@@ -1439,4 +1439,4 @@ secular matters.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Endowment of the Clergy.](phai08)
+[Next: Chapter V. The Endowment of the Clergy.](phai08.md)

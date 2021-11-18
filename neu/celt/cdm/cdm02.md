@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm01) 
-[Next](cdm03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm01.md) 
+[Next](cdm03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 <span id="img_front"></span> <span align="CENTER"> [![If the king's
 daughter is not here to-morrow at this same hour the realm shall be
 ravaged by me,](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 If the king's daughter is not here to-morrow at this same hour the realm
 shall be ravaged by me,  
 </span>
@@ -150,7 +150,7 @@ Then came further Gaelic versions noted in 1870 and later:—
 <div style="margin-left: 32px">
 
 12\. *Notes* in Journal, Aug. 17, 1870, pp. 1-10, from Lachlan
-MacNeill, <span id="fr_0"></span>[1](#fn_0) 5 Maxwellton Street,
+MacNeill, <span id="fr_0"></span>[1](#fn_0.md) 5 Maxwellton Street,
 Paisley.
 
 13\. Aug. 22, 1870. "John Mackenzie, fisherman,
@@ -206,7 +206,7 @@ noisome monster was going to leap on her, Mar Jiryis appeared, in golden
 panoply upon a fine white steed, and spear in hand. Riding full tilt at
 the dragon, he struck it fair between the eyes and laid it dead. The
 king, out of gratitude for this unlooked-for succour, gave Mar Jiryis
-his daughter and half of his kingdom." <span id="fr_1"></span>[1](#fn_1)
+his daughter and half of his kingdom." <span id="fr_1"></span>[1](#fn_1.md)
 
 In the folk-lore of China there is a popular legend that the Chien Tang
 River was once infested by a great *kiau* or sea-serpent, and in 1129
@@ -223,9 +223,9 @@ perfect body. At last one of the *literati* determined to stop this. He
 armed himself and jumped into the water; blood rose to the surface. He
 had killed one of the dragons. The other retired to the narrow place. A
 temple was erected to the hero at Peach Blossom ferry." <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
-In Japan <span id="fr_3"></span>[2](#fn_3) one of the dragon legends
+In Japan <span id="fr_3"></span>[2](#fn_3.md) one of the dragon legends
 recounts how a very large serpent with eight heads and eight tails came
 annually and swallowed one person. A married couple who had eight
 children have at last only one girl left. They are in great grief. The
@@ -284,7 +284,7 @@ text from about the eighth century, which speaks of
 <div style="margin-left: 32px">
 
 <span class="small">"In leuidán timchella inn domon" <span
-id="fr_4"></span>[1](#fn_4)  
+id="fr_4"></span>[1](#fn_4.md)  
  (The Leviathan that surrounds the world).</span>
 
 </div>
@@ -296,7 +296,7 @@ The Cymric book of Taliessin tells of
 <span class="small">"That river of dread strife hard by *terra*
 \[earth\],  
  Venom its essence, around the world it goes." <span
-id="fr_5"></span>[2](#fn_5)</span>
+id="fr_5"></span>[2](#fn_5.md)</span>
 
 </div>
 
@@ -307,7 +307,7 @@ hellish hate and turbulence in the beating of the sea against the
 rocks." Pious men are often afraid to approach the shore, fearing to
 encounter the like hellish influence. Of a great storm we read of "the
 waves rising higher and higher—Satan himself doubtless assisting from
-beneath." <span id="fr_6"></span>[3](#fn_6) The Life of the Irish Saint
+beneath." <span id="fr_6"></span>[3](#fn_6.md) The Life of the Irish Saint
 Abban tells how from his ship he saw a beastly monster on the sea,
 having a hundred heads of divers forms, two hundred eyes, and as many
 ears; it extended itself to the clouds and set the waters in such
@@ -318,8 +318,8 @@ Abban prayed against the monster, the beast fell as if dead, and
 
 there was a calm. But strange to relate, the body of the monster could
 be seen neither on sea nor on land (*et in hoc apparet quod dyabolus
-fuit*). <span id="fr_7"></span>[1](#fn_7) In Adamnan's Life of
-Colum-Cille <span id="fr_8"></span>[2](#fn_8) there is a chapter
+fuit*). <span id="fr_7"></span>[1](#fn_7.md) In Adamnan's Life of
+Colum-Cille <span id="fr_8"></span>[2](#fn_8.md) there is a chapter
 concerning the repulse of a certain aquatic monster (*aquatilis bestia*)
 by the blessed man's prayer. The incident occurred somewhere by the
 river Ness. The inhabitants were burying one who had been bitten while
@@ -409,7 +409,7 @@ to them with his fiery breath, and rolled over the whole land.</span>
 class="small">Men fled from before his face, and women fainted when his
 shadow crossed the sky-line. He made the whole land desert. And it came
 to pass that this evil spirit, whom the people called the 'beast' and
-'Dubh Giuthais,' <span id="fr_9"></span>[1](#fn_9) came nigh to Dornoch
+'Dubh Giuthais,' <span id="fr_9"></span>[1](#fn_9.md) came nigh to Dornoch
 as near as Lochfinn, and when he could see the town and spire of St
 Gilbert, his church—'Pity of you, Dornoch,' roared the dragon. 'Pity of
 you, Dornoch,' said St Gilbert, and taking with him five long and sharp
@@ -452,7 +452,7 @@ exploit by a traitor who claims the princess as his guerdon. It is a
 widespread Aryan tale. A similar adventure is ascribed to Lancelot in
 *Le cerf au pied blanc*, and in the Dutch poem of *Morien*. At least
 three of the printed prose versions of Tristan retain the dragon
-fight, <span id="fr_10"></span>[1](#fn_10) whether it formed originally
+fight, <span id="fr_10"></span>[1](#fn_10.md) whether it formed originally
 a part of the tale or not. Gottfried of Strassburg introduces it thus:—
 
 <span class="small">"Now, the story tells us that there was at
@@ -465,7 +465,7 @@ the land; so that the king at last had sworn a solemn oath that whoever
 slew the monster should have the Princess Iseult to wife; and because of
 the beauty of the maiden and the fierceness of the dragon, many a
 valiant knight had lost his life. The land was full of the tale, and it
-had come to Tristan's <span id="fr_11"></span>[1](#fn_11) ears, and in
+had come to Tristan's <span id="fr_11"></span>[1](#fn_11.md) ears, and in
 the thought of this had he made his journey.
 
 "The next morning, ere it was light, he rose and armed himself secretly,
@@ -538,11 +538,11 @@ death.'
 
 "And all the lords said, 'One thing is clear, he who came first and cut
 out the tongue was the man who slew the monster.' And never a man said
-nay." <span id="fr_12"></span>[1](#fn_12)
+nay." <span id="fr_12"></span>[1](#fn_12.md)
 
 Wales, too, has its legends of dragons, serpents, and snakes. It seems
 to have been an old Welsh belief that all lizards were formerly
-women. <span id="fr_13"></span>[2](#fn_13) Every Welsh farmhouse had two
+women. <span id="fr_13"></span>[2](#fn_13.md) Every Welsh farmhouse had two
 snakes. They never
 
 <span id="page_xxviii">p. xxviii</span>
@@ -599,7 +599,7 @@ also in *Vraicci maqi Medvi* on
 <span id="page_xxx">p. xxx</span>
 
 an Ogham from Rathcroghan, Roscommon. In this last it stands for (the
-stone) of Fraoch, son of Medb. <span id="fr_14"></span>[1](#fn_14)
+stone) of Fraoch, son of Medb. <span id="fr_14"></span>[1](#fn_14.md)
 Another account of the death of Fraoch than that given in what I term
 the Geste of Fraoch is met with in the *Táin Bó Cuailnge*, where he
 meets his death at the hands of Cuchulainn. It is noticeable that his
@@ -647,12 +647,12 @@ submerged. Cuchulainn lifted him up again.
 "Cuchulainn put him under it again, until Fraech was killed. He comes to
 land; his retinue carry his body to the camp. Ath Fraich, that was the
 name of that ford for ever. All the host lamented Fraech. They saw a
-troop of women in green tunics <span id="fr_15"></span>[1](#fn_15) on
+troop of women in green tunics <span id="fr_15"></span>[1](#fn_15.md) on
 the body of Fraech mac Idaid; they drew him from them into the mound.
 Sid Fraich was the name of that mound afterwards."
 
 Ailill's plan in compassing the death of Fraoch recalls his episode with
-Fergus, son of Rōg. Keating <span id="fr_16"></span>[2](#fn_16) tells
+Fergus, son of Rōg. Keating <span id="fr_16"></span>[2](#fn_16.md) tells
 how, when Fergus was in banishment in Connaught, it happened that he was
 with
 
@@ -694,7 +694,7 @@ daughters, as the poet says in this quatrain:—
 <span class="small">"Three daughters had Eochaidh Feidhlioch,  
         Fame on a lofty seat:  
 Eithne Uathach, fair Mève of Cruachan,  
-        And Clothra." <span id="fr_17"></span>[1](#fn_17)</span>
+        And Clothra." <span id="fr_17"></span>[1](#fn_17.md)</span>
 
 </div>
 
@@ -711,7 +711,7 @@ with that in Loch *Ness*, and points to her as having been conceived of
 at first as a water-nymph. This does not prejudice what reflex of
 historic movements these stories may imply. Curiously, the death of
 Mève, no less than that of Fraoch, is associated with water.
-Keating's <span id="fr_18"></span>[2](#fn_18) account is as follows:—
+Keating's <span id="fr_18"></span>[2](#fn_18.md) account is as follows:—
 
 <span class="small">"When Olill had been slain by Conall Cearnach, Mève
 went to Inis Clothrann, on Lough Ribh (Ree), to live; and while she
@@ -737,11 +737,11 @@ bathing, as was her wont, in the fore-mentioned well; and with that he
 fixed a stone in his sling and hurled it at her, and struck her in the
 forehead, so that she died on the spot, having been ninety-eight years
 on the throne of Connaught, as we have said above." <span
-id="fr_19"></span>[1](#fn_19)</span>
+id="fr_19"></span>[1](#fn_19.md)</span>
 
 Of Fraoch's mother Boand, elsewhere spoken of as from the Sídhe, the
 Bodleian Dindshenchus gives the following account: <span
-id="fr_20"></span>[2](#fn_20)—
+id="fr_20"></span>[2](#fn_20.md)—
 
 <span class="small">"Bóann, wife of Nechtán, son of Labraid, son
 of</span>
@@ -782,11 +782,11 @@ into which one could not
 gaze with impunity, and from which the river Boyne first burst forth in
 pursuit of the lady who insulted it, may be cognate, Rhys thought, with
 Neptune, which certainly seems cognate with Irish Nuada *Necht*. <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
 How rivers came to be personified may be illustrated by an enigma which
 a poet puts to Finn in the tale of the Fairy-Palace of the Quicken
-Trees: <span id="fr_22"></span>[2](#fn_22)—
+Trees: <span id="fr_22"></span>[2](#fn_22.md)—
 
 <div style="margin-left: 32px">
 
@@ -823,7 +823,7 @@ tradition is that Fraoch lived at Suidhe, near the village of Bunessan.
 Opposite him, in an oblique direction on the other side of the loch,
 lived Mev, through whose treachery Fraoch was slain; the place is still
 known as *larach tigh Meidhe*. The island where the rowan tree grew is
-called after her, Eilean Mhain <span id="fr_23"></span>[1](#fn_23) (the
+called after her, Eilean Mhain <span id="fr_23"></span>[1](#fn_23.md) (the
 isle of Main). It is right opposite to Bunessan.
 
 "The local tradition asserts that the monster which guarded the rowan
@@ -920,7 +920,7 @@ at the hands of Cuchulainn. In either case his death is connected with
 water. Medb was previously wife of Conchobar, who, according to a gloss
 in the *Book of the Dun Cow*, was formerly a god upon earth (*día
 talmanda*). In another account we find Conchobar as the name of a
-river. <span id="fr_24"></span>[1](#fn_24) Medb's first husband would
+river. <span id="fr_24"></span>[1](#fn_24.md) Medb's first husband would
 thus seem to have been a water-god. One might hazard the suggestion that
 in old Druidic teaching, Medb herself may have been a sort of
 sea-mother, if indeed their thought on ultimate things may have got the
@@ -930,11 +930,11 @@ which by mortals brings death. Rowan hurdles were used
 
 <span id="page_xli">p. xli</span>
 
-in Druidic divination: <span id="fr_25"></span>[1](#fn_25) the rowan was
+in Druidic divination: <span id="fr_25"></span>[1](#fn_25.md) the rowan was
 a magic medicine; a monster was thought to haunt the roots of a rowan,
 and typified the guardian spirit of the tree. The thought is old among
 the Celts; on the second altar of Notre Dame there is a figure of the
-Celtic Hercules killing a serpent, <span id="fr_26"></span>[2](#fn_26)
+Celtic Hercules killing a serpent, <span id="fr_26"></span>[2](#fn_26.md)
 which the late Monsieur D’Arbois de Jubainville tried to explain by
 episodes from Gadhelic myth. The dragon may be thought of as the
 confiner that holds captive the fruit-bearing Tree of Life. On this view
@@ -945,7 +945,7 @@ dragon. The rage of the sun-god may be conceived of as manifested
 against the cloud-dragon, or the winter-dragon, or the sea-dragon.
 Fraoch may thus be the Celtic Hercules Furens, the name being the same
 in root as *fraoch* (wrath), early Irish *fraech* (fury, rage), which is
-cognate with Cymric *gwrug*. <span id="fr_27"></span>[3](#fn_27) His
+cognate with Cymric *gwrug*. <span id="fr_27"></span>[3](#fn_27.md) His
 quest may be a solar journey; and he is swallowed by the monster as the
 sun is swallowed by the sea. On this view the dragon myth should portray
 the hero as being devoured by a fish, as on Semitic ground, for which
@@ -1048,7 +1048,7 @@ Herakles also, which drew upon him the vengeance whereby Troy is said to
 have been first of all destroyed.
 
 It is at Joppa, in Phoenicia, that the story of Andromeda has been
-localised of old. Pliny <span id="fr_28"></span>[1](#fn_28) tells us
+localised of old. Pliny <span id="fr_28"></span>[1](#fn_28.md) tells us
 that the Phoenician Joppa is older than the flood, that it lies on a
 hill, in front of which is a rock where traces of the fetters of
 Andromeda are pointed out. And St Jerome, in his Commentary on Jonah,
@@ -1065,7 +1065,7 @@ Athene."
 While we have no reference as to Fraoch having been swallowed by the
 dragon, the fisher's first son was swallowed by the mermaid, who is
 induced from her love of music to cast him forth once more. <span
-id="fr_29"></span>[1](#fn_29) It is also noticeable that the impostor
+id="fr_29"></span>[1](#fn_29.md) It is also noticeable that the impostor
 incident, so common in the dragon stories, alongside of the rescuer, is
 lacking in Fraoch. But the impostor incident must have been known of old
 among the Celts, for we find it alluded to in the Rescue of Derforgaill,
@@ -1081,7 +1081,7 @@ himself known. "The maiden came to the *dūn* and told her father the
 whole story… . Many in the *dūn* boasted of having killed the Fomori,
 but the maiden did nor believe them." On a test having been applied, the
 maiden recognised Cuchulainn, it is to be inferred, from the piece from
-off her raiment on his wound. <span id="fr_30"></span>[2](#fn_30)
+off her raiment on his wound. <span id="fr_30"></span>[2](#fn_30.md)
 
 <span id="page_xlvii">p. xlvii</span>
 
@@ -1090,13 +1090,13 @@ impostor figures as a charcoal-burner, who professes to have killed the
 seven-headed serpent to which the king's daughter was to have been
 sacrificed, and he carries off the heads. But the herd had cut out the
 seven tongues, and these are tokens of the true victor. <span
-id="fr_31"></span>[1](#fn_31)
+id="fr_31"></span>[1](#fn_31.md)
 
 In Highland folk-tales the rescuer appears in the character of
-herd, <span id="fr_32"></span>[2](#fn_32) and the impostor as a
-squint-eyed, <span id="fr_33"></span>[3](#fn_33) carroty-headed cook.
+herd, <span id="fr_32"></span>[2](#fn_32.md) and the impostor as a
+squint-eyed, <span id="fr_33"></span>[3](#fn_33.md) carroty-headed cook.
 Its parallel in Ireland is *The Thirteenth Son of the King of
-Erin* <span id="fr_34"></span>[4](#fn_34); here the hero also hires
+Erin* <span id="fr_34"></span>[4](#fn_34.md); here the hero also hires
 himself as cow-herd, and rescues a king's daughter from an *úr-feíst*, a
 great serpent of the sea, a monster which must get a king's daughter to
 devour every seven years. While he slept in the maiden's lap, she took
@@ -1115,7 +1115,7 @@ claimants to death, and wedded the maid.
 This story has been identified in Brittany and among the Basques. Mr E.
 Sidney Hartland says: "The indications point to a Celtic or Iberian
 population as the originators of the *Herdsman* type <span
-id="fr_35"></span>[1](#fn_35) … a highly specialised type, differing
+id="fr_35"></span>[1](#fn_35.md) … a highly specialised type, differing
 considerably from any form of the classical story, and peculiar to the
 West of Europe. We have no direct evidence as to the date when the
 stories of the *Herdsman* type arose; but it will be recollected that
@@ -1127,7 +1127,7 @@ the branches of the same Celto-Iberian race, and that it is one of the
 oldest —nay, perhaps the oldest—post-classical variant in Europe of the
 Perseus group. All these considerations make for its independence of the
 classical tale; and their cumulative weight may fairly be called
-decisive." <span id="fr_36"></span>[2](#fn_36)
+decisive." <span id="fr_36"></span>[2](#fn_36.md)
 
 On this account alone the old story is worthy of a place in our esteem.
 It conduces to thought, if not to
@@ -1137,7 +1137,7 @@ It conduces to thought, if not to
 thoughtfulness. Whatever its full origin may be, I suggest that human
 sense-perception conjoined with racial memories of contest with the raw
 environment of Nature, and the memory of human ills entailed upon our
-race by monsters of the prime, <span id="fr_37"></span>[1](#fn_37) along
+race by monsters of the prime, <span id="fr_37"></span>[1](#fn_37.md) along
 with human phantasy and imagination acting upon the reports of sense,
 ought to be allowed their due claims to account for some moments of the
 tale. But folk-tales have a compound-complex origin. I am not in favour
@@ -1146,7 +1146,7 @@ races. Nor ought we to close our eyes to the background of the heavens.
 If the berries from the rowan tree have aught in common with the golden
 apples of the Hesperides, fetched by Herakles, it is proper to recollect
 that worthy scholars read herein the remains of a saga connected with
-the moon. Siecke <span id="fr_38"></span>[2](#fn_38) explains that,
+the moon. Siecke <span id="fr_38"></span>[2](#fn_38.md) explains that,
 according to some ancients, Herakles himself plucked the apples after he
 had slain the snake that guarded the tree; that he fetched the golden
 apple or the three apples from the extreme West, as was the case with
@@ -1202,16 +1202,16 @@ in the office books of the Church in the Middle Ages:—
 
 ### Footnotes
 
-<span id="fn_0"></span>[xiv:1](cdm02.htm#fr_0) The reciter of *Leigheas
+<span id="fn_0"></span>[xiv:1](cdm02.htm#fr_0.md) The reciter of *Leigheas
 Cois’ O Céin*, published by me in the *Transactions of the Gaelic
 Society of Inverness*.
 
-<span id="fn_1"></span>[xvi:1](cdm02.htm#fr_1) J. E. Hanauer's
+<span id="fn_1"></span>[xvi:1](cdm02.htm#fr_1.md) J. E. Hanauer's
 *Folk-Lore of the Holy Land*, p. 56. Arculf's stories of St George,
 learned in Constantinople, reached Iona in the seventh century (v.
 Adamnan: *De Sanctis Locis*).
 
-<span id="fn_2"></span>[xvii:1](cdm02.htm#fr_2) Gould's Mythical
+<span id="fn_2"></span>[xvii:1](cdm02.htm#fr_2.md) Gould's Mythical
 Monsters, p. 306 (London: W. H. Allen & Co., 1886). As a naturalist,
 this writer considers the dragon no mere offspring of fancy, but infers
 it to be a long terrestrial lizard, with much in common with *Draco
@@ -1221,63 +1221,63 @@ accounts by Mr Maclean, minister of Eigg, in 1809, and by Mr Macrae,
 minister of Gleneig, in 1872, of the so-called Norwegian Sea-Serpent in
 the West Highlands.
 
-<span id="fn_3"></span>[xvii:2](cdm02.htm#fr_3) *Cf*. Campbell's
+<span id="fn_3"></span>[xvii:2](cdm02.htm#fr_3.md) *Cf*. Campbell's
 Circular Notes, I., 326.
 
-<span id="fn_4"></span>[xix:1](cdm02.htm#fr_4) Leabhar Na h-Uidhri,
+<span id="fn_4"></span>[xix:1](cdm02.htm#fr_4.md) Leabhar Na h-Uidhri,
 85*b*.
 
-<span id="fn_5"></span>[xix:2](cdm02.htm#fr_5) Rhys, *Arthurian Legend*,
+<span id="fn_5"></span>[xix:2](cdm02.htm#fr_5.md) Rhys, *Arthurian Legend*,
 157.
 
-<span id="fn_6"></span>[xix:3](cdm02.htm#fr_6) *Nineteenth Century*,
+<span id="fn_6"></span>[xix:3](cdm02.htm#fr_6.md) *Nineteenth Century*,
 March 1895, p. 422.
 
-<span id="fn_7"></span>[xx:1](cdm02.htm#fr_7) *Vitae Sanctorum
+<span id="fn_7"></span>[xx:1](cdm02.htm#fr_7.md) *Vitae Sanctorum
 Hiberniae*, ed. Plummer, Tomus Primus, p. 15.
 
-<span id="fn_8"></span>[xx:2](cdm02.htm#fr_8) Bk. II., c. 27 (trans. W.
+<span id="fn_8"></span>[xx:2](cdm02.htm#fr_8.md) Bk. II., c. 27 (trans. W.
 Huyshe). For a dragon contest, see Nennius,. *Historia*, xl.-xlv.
 
-<span id="fn_9"></span>[xxiii:1](cdm02.htm#fr_9) There is still an old
+<span id="fn_9"></span>[xxiii:1](cdm02.htm#fr_9.md) There is still an old
 pronunciation with *t* hard, and not *th*.
 
-<span id="fn_10"></span>[xxiv:1](cdm02.htm#fr_10) Löseth, *Le Roman en
+<span id="fn_10"></span>[xxiv:1](cdm02.htm#fr_10.md) Löseth, *Le Roman en
 prose de Tristan*. For variants of the dragon fight, *v*. Hartland's
 *Legend of Perseus*, vol. iii.
 
-<span id="fn_11"></span>[xxv:1](cdm02.htm#fr_11) Tristan and his uncle
+<span id="fn_11"></span>[xxv:1](cdm02.htm#fr_11.md) Tristan and his uncle
 Mark, Zimmer thinks, are ninth-century Pictish chieftains. Iseult he
 takes to be the daughter of the Viking King of Dublin.
 
-<span id="fn_12"></span>[xxvii:1](cdm02.htm#fr_12) From Gottfried von
+<span id="fn_12"></span>[xxvii:1](cdm02.htm#fr_12.md) From Gottfried von
 Strassburg's *Tristan and Iseult*, by J. L. Weston, I., 89, 98, 123.
 *Cf*. also Bedier's French retelling, Englished by Mr Belloc.
 
-<span id="fn_13"></span>[xxvii:2](cdm02.htm#fr_13) Trevelyan, *Folk-Lore
+<span id="fn_13"></span>[xxvii:2](cdm02.htm#fr_13.md) Trevelyan, *Folk-Lore
 and Folk-Stories of Wales*, p. 165.
 
-<span id="fn_14"></span>[xxx:1](cdm02.htm#fr_14) MacAlister's *Irish
+<span id="fn_14"></span>[xxx:1](cdm02.htm#fr_14.md) MacAlister's *Irish
 Oghams*, pt. 3, p. 213; *Journ. Roy. Soc. Antiq. Ireland*, 5 ser.
 
-<span id="fn_15"></span>[xxxi:1](cdm02.htm#fr_15) W. Faraday's
+<span id="fn_15"></span>[xxxi:1](cdm02.htm#fr_15.md) W. Faraday's
 translation of The Cattle-Raid of Cuailnge, in Nutt's Grimm Library, p.
 35. Fraech was descended from the people of the Sid, his mother Bebind
 being a fairy woman. Her sister was Boinn (the river Boyne).
 
-<span id="fn_16"></span>[xxxi:2](cdm02.htm#fr_16) Ed. Dinneen, ii., 209.
+<span id="fn_16"></span>[xxxi:2](cdm02.htm#fr_16.md) Ed. Dinneen, ii., 209.
 
-<span id="fn_17"></span>[xxxiii:1](cdm02.htm#fr_17) Dinneen's Keating,
+<span id="fn_17"></span>[xxxiii:1](cdm02.htm#fr_17.md) Dinneen's Keating,
 ii., 215.
 
-<span id="fn_18"></span>[xxxiii:2](cdm02.htm#fr_18) Ed. Dineen, ii.,
+<span id="fn_18"></span>[xxxiii:2](cdm02.htm#fr_18.md) Ed. Dineen, ii.,
 213. c
 
-<span id="fn_19"></span>[xxxiv:1](cdm02.htm#fr_19) But see Book of
+<span id="fn_19"></span>[xxxiv:1](cdm02.htm#fr_19.md) But see Book of
 Leinster, 1246, 125a, where the story differs considerably from that
 given by O’Curry, who evidently quoted Keating.
 
-<span id="fn_20"></span>[xxxiv:2](cdm02.htm#fr_20) Trans. by Stokes, p.
+<span id="fn_20"></span>[xxxiv:2](cdm02.htm#fr_20.md) Trans. by Stokes, p.
 34 of reprint from *Folk-Lore*, iii., 1892. Bóann <span
 id="page_xxxv">p. xxxv</span> now the river Boyne, which rises at the
 foot of Síd Nechtain, a hill in the barony of Carbury, co. Kildare. The
@@ -1287,72 +1287,72 @@ often ascribed to mortals intruding upon secret wells. Truth lies deep
 at the bottom of a well, and in allegory will not be gazed upon. It is
 enough to eat of the fruit of the tree which is nourished by the spring.
 
-<span id="fn_21"></span>[xxxvi:1](cdm02.htm#fr_21) Rhys, Hibbert
+<span id="fn_21"></span>[xxxvi:1](cdm02.htm#fr_21.md) Rhys, Hibbert
 Lectures, 123.
 
-<span id="fn_22"></span>[xxxvi:2](cdm02.htm#fr_22) Joyce's Old Celtic
+<span id="fn_22"></span>[xxxvi:2](cdm02.htm#fr_22.md) Joyce's Old Celtic
 Romances, 2nd ed., p. 587.
 
-<span id="fn_23"></span>[xxxvii:1](cdm02.htm#fr_23) *Cf.* Maine, son of
+<span id="fn_23"></span>[xxxvii:1](cdm02.htm#fr_23.md) *Cf.* Maine, son of
 Ailill, in the Táin Bó Cuailnge, folio 66*b*, 67*a*, 69*a* of facsimile
 of *Book of the Dun Cow*.
 
-<span id="fn_24"></span>[xl:1](cdm02.htm#fr_24) *Rev. Celtique*, 6, 173.
+<span id="fn_24"></span>[xl:1](cdm02.htm#fr_24.md) *Rev. Celtique*, 6, 173.
 With Conchobar's mother Ness, apparently seen as a goddess-name in Loch
 Ness, compare the Attic-Bœotian dialect Netos-Nessos: λίμνη Νεσσωντίς in
 Thessaly. And compare Hesiod, *Theog*. 341.
 
-<span id="fn_25"></span>[xli:1](cdm02.htm#fr_25) For references, see
+<span id="fn_25"></span>[xli:1](cdm02.htm#fr_25.md) For references, see
 Plummer's *Vitæ Sanctorum Hiberniæ*, I., cliv.
 
-<span id="fn_26"></span>[xli:2](cdm02.htm#fr_26) S. Reinach, *Catalogue
+<span id="fn_26"></span>[xli:2](cdm02.htm#fr_26.md) S. Reinach, *Catalogue
 Sommaire du musée de Saint Germain*, p. 33, n. 354.
 
-<span id="fn_27"></span>[xli:3](cdm02.htm#fr_27) For the Welsh, see
+<span id="fn_27"></span>[xli:3](cdm02.htm#fr_27.md) For the Welsh, see
 Rhys, notes to *Twrc Trwyth*.
 
-<span id="fn_28"></span>[xlv:1](cdm02.htm#fr_28) *Natur. Hist.*, V., 13.
+<span id="fn_28"></span>[xlv:1](cdm02.htm#fr_28.md) *Natur. Hist.*, V., 13.
 
-<span id="fn_29"></span>[xlvi:1](cdm02.htm#fr_29) Pp. 78-80 of
+<span id="fn_29"></span>[xlvi:1](cdm02.htm#fr_29.md) Pp. 78-80 of
 Campbell's retelling.
 
-<span id="fn_30"></span>[xlvi:2](cdm02.htm#fr_30) E. Hull, *The
+<span id="fn_30"></span>[xlvi:2](cdm02.htm#fr_30.md) E. Hull, *The
 Cuchulainn Saga*, pp. 81-82 (trans. by K. Meyer.)
 
-<span id="fn_31"></span>[xlvii:1](cdm02.htm#fr_31) Quoted in Hartland's
+<span id="fn_31"></span>[xlvii:1](cdm02.htm#fr_31.md) Quoted in Hartland's
 *Legend of Perseus*, iii., 6.
 
-<span id="fn_32"></span>[xlvii:2](cdm02.htm#fr_32) *Cf*. also Maclnnes,
+<span id="fn_32"></span>[xlvii:2](cdm02.htm#fr_32.md) *Cf*. also Maclnnes,
 Folk and Hero Tales from Argyll: *Lod the Farmer's Son* (properly the
 *Ploughman's* son, *aoirean*; Ir. *oireamh*, genitive *oireamhan*
 (ploughman); root as in L. *aro*; Ir. *arathar* (plough); Welsh
 *arddwr*; E. *ear* (the soil). *Cf*. the racial name Eremon, Airem(on),
 with which Aryan has been compared, Skr. Arjaman.
 
-<span id="fn_33"></span>[xlvii:3](cdm02.htm#fr_33) *Claon*. Hector
+<span id="fn_33"></span>[xlvii:3](cdm02.htm#fr_33.md) *Claon*. Hector
 Maclean's spelling claghann I would ask the reader to delete in favour
 of *claon*.
 
-<span id="fn_34"></span>[xlvii:4](cdm02.htm#fr_34) Curtin, *Myths and
+<span id="fn_34"></span>[xlvii:4](cdm02.htm#fr_34.md) Curtin, *Myths and
 Folk-Lore of Ireland*, 157; Larminie, *West Irish Tales and Romances*,
 196; quoted in Hartland, *ibid*. iii., 4-6.
 
-<span id="fn_35"></span>[xlviii:1](cdm02.htm#fr_35) Hartland, Legend of
+<span id="fn_35"></span>[xlviii:1](cdm02.htm#fr_35.md) Hartland, Legend of
 Perseus, iii., 10.
 
-<span id="fn_36"></span>[xlviii:2](cdm02.htm#fr_36) *Ibid*., 177-178. I
+<span id="fn_36"></span>[xlviii:2](cdm02.htm#fr_36.md) *Ibid*., 177-178. I
 have already pointed out that Fraoch's own people are spoken of as the
 Cruithne (Picts), who may be supposed to have absorbed an Ivernian
 strain.
 
-<span id="fn_37"></span>[xlix:1](cdm02.htm#fr_37) *Cf*. H. N.
+<span id="fn_37"></span>[xlix:1](cdm02.htm#fr_37.md) *Cf*. H. N.
 Hutchinson, *Extinct Monsters* (Chapman and Hall, 1910). "But none of
 the giant reptiles of the secondary period were contemporary with man,"
 observes Mr Hartland.
 
-<span id="fn_38"></span>[xlix:2](cdm02.htm#fr_38) *Drachenkämpfe*,
+<span id="fn_38"></span>[xlix:2](cdm02.htm#fr_38.md) *Drachenkämpfe*,
 Leipzig (Heinrich), 1907, p. 91.
 
 ------------------------------------------------------------------------
 
-[Next: The Geste of Fraoch](cdm03)
+[Next: The Geste of Fraoch](cdm03.md)

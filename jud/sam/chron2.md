@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Samaritans](index)  [Previous](chron1)  [Next](enlight1) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Samaritans](index)  [Previous](chron1)  [Next](enlight1.md) 
 
 ------------------------------------------------------------------------
 
@@ -1317,4 +1317,4 @@ THE HISTORY OF EL-ISKANDATE
 
 ------------------------------------------------------------------------
 
-[Next: Book of Enlightment (Part I)](enlight1)
+[Next: Book of Enlightment (Part I)](enlight1.md)

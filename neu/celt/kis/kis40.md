@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis39)  [Next](kis41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis39)  [Next](kis41.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ Steed could have kept its rider in sight of him.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](kis41)
+[Next: Part IV](kis41.md)

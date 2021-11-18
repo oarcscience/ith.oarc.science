@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi255)  [Next](mtsi257) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi255)  [Next](mtsi257.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ that had been played on him he was very much ashamed.
 
 ------------------------------------------------------------------------
 
-[Next: 57. Rabbit Plays Pranks On Big Man-eater](mtsi257)
+[Next: 57. Rabbit Plays Pranks On Big Man-eater](mtsi257.md)

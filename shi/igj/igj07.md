@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj06)  [Next](igj08) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj06)  [Next](igj08.md) 
 
 ------------------------------------------------------------------------
 
@@ -276,4 +276,4 @@ half-brother of Sâkyamuni.\]
 
 ------------------------------------------------------------------------
 
-[Next: A Passional Karma](igj08)
+[Next: A Passional Karma](igj08.md)

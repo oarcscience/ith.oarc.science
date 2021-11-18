@@ -1,5 +1,5 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Egypt](index)
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Egypt](index.md)
 
 ------------------------------------------------------------------------
 
@@ -18,6 +18,6 @@ and the place where inhabitants of this world went after death. A
 description of the Tuat, and its inhabitants and portals, was inscribed
 on the walls of the tombs of all social strata.
 
-[Vol. I: The Book of Am-Tuat](bat/index)  
-[Vol. II: The Book of Gates](gate/index)  
-[Vol. III: The Egyptian Heaven and Hell](ehh/index)  
+[Vol. I: The Book of Am-Tuat](bat/index.md)  
+[Vol. II: The Book of Gates](gate/index.md)  
+[Vol. III: The Egyptian Heaven and Hell](ehh/index.md)  

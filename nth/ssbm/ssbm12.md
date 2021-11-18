@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm11)  [Next](ssbm13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm11)  [Next](ssbm13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -144,7 +144,7 @@ condition of freedom from any hindering complex.
 The COMPLEX or FIXATION OF IDEAS was referred to by one kahuna as the
 "thing eating inside." It is a belief or conviction held by the low
 self. It may or may not be a correct belief. Once it is fixed or lodged
-in the memory of the low self, it is [difficult](errata.htm#4) to find
+in the memory of the low self, it is [difficult](errata.htm#4.md) to find
 and more difficult to remove.
 
 Modern psychology, fortunately, has explored the subconscious and found
@@ -359,4 +359,4 @@ cases, or after death when we are permanently out of the body.
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. Raising the Dead, Permanently and
-Temporarily](ssbm13)
+Temporarily](ssbm13.md)

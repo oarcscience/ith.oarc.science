@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](xft30)  [Next](xft32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](xft30)  [Next](xft32.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kaffir (Xhosa) Folk-Lore*, by George McCall Theal, \[1886\], at
 Intangible Textual Heritage
 
@@ -90,6 +90,6 @@ sweethearts, and this liberty often leads to depravity.
 
 ------------------------------------------------------------------------
 
-[Next: Notes: The Story Of Simdukumbukwana](xft32)
+[Next: Notes: The Story Of Simdukumbukwana](xft32.md)
 
 </div>

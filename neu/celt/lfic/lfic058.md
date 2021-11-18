@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic057)  [Next](lfic059) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic057)  [Next](lfic059.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ on the plain before Troy.
 
 ------------------------------------------------------------------------
 
-[Next: The Youth of Fion](lfic059)
+[Next: The Youth of Fion](lfic059.md)

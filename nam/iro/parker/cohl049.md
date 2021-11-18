@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl048)  [Next](cohl050) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl048)  [Next](cohl050.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 "'Now another message for your people.
 
 "'If all the world would repent the earth would become as new again.
-Because of sin the under-world <span id="fr_42"></span>[2](#fn_42) is
+Because of sin the under-world <span id="fr_42"></span>[2](#fn_42.md) is
 crumbling with decay. The world is full of sin. Truly, this is so.'"
 
 So they said and he said. Eniaiehuk.
@@ -18,7 +18,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_42"></span>[43:2](cohl049.htm#fr_42) The under-world was
+<span id="fn_42"></span>[43:2](cohl049.htm#fr_42.md) The under-world was
 thought to be a dark region beneath the surface of the earth where were
 confined the creations of the evil-minded spirit. It was a vast cave
 full of winding chambers, dark turbid rivers, bottomless sloughs, hot
@@ -33,4 +33,4 @@ Legend, Origin of Death Dance.
 
 ------------------------------------------------------------------------
 
-[Next: Section 39](cohl050)
+[Next: Section 39](cohl050.md)

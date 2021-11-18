@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe241)  [Next](prwe243) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe241)  [Next](prwe243.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ disturb its quiet.
 
 ------------------------------------------------------------------------
 
-[Next: Charming and Prophetic Power](prwe243)
+[Next: Charming and Prophetic Power](prwe243.md)

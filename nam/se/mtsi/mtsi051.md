@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi050)  [Next](mtsi052) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi050)  [Next](mtsi052.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ speckled fawn and in that shape went down and drank all that he wanted.
 ------------------------------------------------------------------------
 
 [Next: 50. Rabbit Engineers a Tug of War Between Two Tie-Snakes (Second
-Version)](mtsi052)
+Version)](mtsi052.md)

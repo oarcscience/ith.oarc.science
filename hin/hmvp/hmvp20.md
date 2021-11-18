@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp19)  [Next](hmvp21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp19)  [Next](hmvp21.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ As a full account of this operation has been already given when
 describing Lakshmi, who was one of its chief products, there is no
 necessity to repeat it here. A few additional particulars will be found
 in the following extract from the "Vishnu Purāna:"— <span
-id="fr_146"></span>[\*](#fn_146)
+id="fr_146"></span>[\*](#fn_146.md)
 
 "Hari having been entreated to help the gods, thus spoke: 'I will
 restore your strength. Do you act as I enjoin. Let all the gods and
@@ -57,7 +57,7 @@ vigour unto the gods."
 
 <span id="img_14300"></span> <span align="CENTER"> [![THE KŪRMA
 AVATĀRA.](tn/14300.jpg)  
-Click to enlarge](img/14300.jpg)  
+Click to enlarge](img/14300.jpg.md)  
 THE KŪRMA AVATĀRA.  
 </span>
 
@@ -81,8 +81,8 @@ to the other.
 
 ### Footnotes
 
-<span id="fn_146"></span>[142:\*](hmvp20.htm#fr_146) Page 73.
+<span id="fn_146"></span>[142:\*](hmvp20.htm#fr_146.md) Page 73.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Varāha or Boar Avatāra](hmvp21)
+[Next: 3. The Varāha or Boar Avatāra](hmvp21.md)

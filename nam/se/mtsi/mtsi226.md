@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi225)  [Next](mtsi227) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi225)  [Next](mtsi227.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ there, but she was gone.
 
 ------------------------------------------------------------------------
 
-[Next: 27. A Story of the Bear Clan](mtsi227)
+[Next: 27. A Story of the Bear Clan](mtsi227.md)

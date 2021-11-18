@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl12)  [Next](orl14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl12)  [Next](orl14.md) 
 
 ------------------------------------------------------------------------
 
@@ -950,4 +950,4 @@ The order of the muster to display.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 14](orl14)
+[Next: Canto 14](orl14.md)

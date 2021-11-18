@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](coz06)  [Next](coz08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](coz06)  [Next](coz08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -346,4 +346,4 @@ Fire.
 
 ------------------------------------------------------------------------
 
-[Next: Oracles From Porphyry](coz08)
+[Next: Oracles From Porphyry](coz08.md)

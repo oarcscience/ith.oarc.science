@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi13)  [Next](vbwi15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi13)  [Next](vbwi15.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ Amadan is to be in prison for ever.
 
 ------------------------------------------------------------------------
 
-[Next: Forths and Sheoguey Places](vbwi15)
+[Next: Forths and Sheoguey Places](vbwi15.md)

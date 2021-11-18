@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai07) 
-[Next](phai09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai07.md) 
+[Next](phai09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -109,7 +109,7 @@ result of later scrupulosity of the scribes—not to sacrifices but to
 ordinary secular slaughterings, from which also accordingly the priests
 received a portion, the cheeks (according to Jerome on Mal. ii. 3),
 including the tongue, the precept being thus harmonistically
-doubled. <span id="fr_105"></span>[1](#fn_105) At an earlier date the
+doubled. <span id="fr_105"></span>[1](#fn_105.md) At an earlier date the
 priests at Jerusalem received money from those who employed them (Deut.
 xviii. 8), but for this had the obligation of maintaining the temple;
 from this one can discern that the money was properly speaking paid to
@@ -121,7 +121,7 @@ The meal-offerings are in the Priestly Code a subordinate matter, and
 the share that falls to the priests is here trifling compared with what
 they receive of the other sacrifices. The meal, of which only a handful
 is sprinkled upon the altar, the baked bread, and the
-[minḥa](errata.htm#2) altogether are theirs entirely, so also the sin
+[minḥa](errata.htm#2.md) altogether are theirs entirely, so also the sin
 and trespass offerings so frequently demanded, of which God receives
 only the blood and the fat and the offerer nothing at all (Ezek. xliv.
 29); of the burnt-offering at least the skin falls to their lot, These
@@ -220,7 +220,7 @@ which category the Levites in particular belong. This last application
 is an innovation, connected on the one hand with the abolition of the
 sanctuaries, and on the other with the tendency of the Deuteronomist to
 utilise festal mirth for humane ends. <span
-id="fr_106"></span>[1](#fn_106) But this is a mere trifle compared with
+id="fr_106"></span>[1](#fn_106.md) But this is a mere trifle compared with
 what we find in the Priestly Code, where the whole tithe has
 
 <span id="page_157">p. 157</span>
@@ -470,7 +470,7 @@ general recollection that there were once in Israel many holy places and
 residences of priesthoods; it is by no means necessary to assert that
 each of the towns enumerated in Josh. xxi. had actually been an ancient
 sanctuary. In many cases, however, this also admits of being
-shown, <span id="fr_107"></span>[1](#fn_107) although some of the most
+shown, <span id="fr_107"></span>[1](#fn_107.md) although some of the most
 famous (or according to the later view, infamous) high places, such as
 Bethel, Dan, Gilgal, and Beersheba are omitted, probably of set purpose.
 
@@ -493,7 +493,7 @@ southernmost of these, 5000 ells broad, includes the capital with its
 territory; the middle one, 10,000 ells broad, contains the temple and
 the priestly territory; the northernmost, also 10,000 ells broad, has
 the inheritance and the cities of the Levites. <span
-id="fr_108"></span>[1](#fn_108) Thus we have here also a surrender of
+id="fr_108"></span>[1](#fn_108.md) Thus we have here also a surrender of
 land to the clergy on the part of the tribes; the comparison with Josh.
 xxi. is not to be put aside,—all the less, because nowhere else in the
 Old Testament is anything similar met with. Now Ezekiel is quite
@@ -667,14 +667,14 @@ further still in the subsequent development of Judaism?
 
 ### Footnotes
 
-<span id="fn_105"></span>[154:1](phai08.htm#fr_105) Philo, *De praem.
+<span id="fn_105"></span>[154:1](phai08.htm#fr_105.md) Philo, *De praem.
 sacerd.*, sec. 3. Josephus, *Ant.*, iii. 9. 2; iv. 4, 4.
 
-<span id="fn_106"></span>[156:1](phai08.htm#fr_106) Connection is,
+<span id="fn_106"></span>[156:1](phai08.htm#fr_106.md) Connection is,
 however, possible with some older custom, such as must certainly be
 assumed for Amos iv. 4. Comp. Deut. xxvi. 12, "the year of tithing."
 
-<span id="fn_107"></span>[162:1](phai08.htm#fr_107) In the cases of
+<span id="fn_107"></span>[162:1](phai08.htm#fr_107.md) In the cases of
 Hebron, Gibeon, Shechem, Ramoth, Mahanaim and Tabor (Host v. 1) by
 historical data; in those of Bethshemesh, Ashtaroth, Kadesh,, perhaps
 also Rimmon, by the names. Not even here can one venture to credit the
@@ -689,11 +689,11 @@ levelled at the priests most famous (or according to the later view,
 infamous) high places, such as Bethel, Dan, Gilgal, and Beersheba are
 omitted, probably of set purpose.
 
-<span id="fn_108"></span>[163:1](phai08.htm#fr_108) For ‏עשרים לשכת‎
+<span id="fn_108"></span>[163:1](phai08.htm#fr_108.md) For ‏עשרים לשכת‎
 (xlv. 5), read, with the LXX, ‏שערים לשבת‎ "to dwell within the gates."
 Compare a similar transposition of letters in xiii. 3, LXX. The
 expression "gates" for "cities" has its origin in Deuteronomy.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Chronicles](phai09)
+[Next: Chapter VI. Chronicles](phai09.md)

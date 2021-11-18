@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng11)  [Next](nblng13) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng11)  [Next](nblng13.md) 
 
 ------------------------------------------------------------------------
 
@@ -399,4 +399,4 @@ leaves, but not infrequently of gold and silver. (See Weinhold,
 ------------------------------------------------------------------------
 
 [Next: Adventure XI: How Siegfried Journeyed Homeward With His
-Wife.](nblng13)
+Wife.](nblng13.md)

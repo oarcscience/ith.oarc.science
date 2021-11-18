@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow08)  [Next](vow10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow08)  [Next](vow10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -73,10 +73,10 @@ head of the present treatise. And call no other person than Ammon. For a
 discourse upon the holiest matters of religion would be profaned by a
 too numerous audience. It is an impiety to deliver to the knowledge of a
 great number, a treatise full of divine majesty. <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 \[Ammon enters the sanctuary, and completes the holy quartet, <span
-id="fr_30"></span>[2](#fn_30) filled with the presence of God. The
+id="fr_30"></span>[2](#fn_30.md) filled with the presence of God. The
 invitation to devotional silence comes from the lips of Hermes, and in
 the presence of the attentive souls who
 
@@ -85,7 +85,7 @@ the presence of the attentive souls who
 <span id="page_47">p. 47</span>
 
 hang upon his words, the divine Love thus begins:--\] <span
-id="fr_31"></span>[1](#fn_31)
+id="fr_31"></span>[1](#fn_31.md)
 
 Every human soul, Asclepios, is immortal; but this immortality is not
 uniform. It differs both in mode and in duration.
@@ -133,7 +133,7 @@ listeners, and even of him who teaches.
 
 ### Footnotes
 
-<span id="fn_29"></span>[46:1](vow09.htm#fr_29) It is the indiscriminate
+<span id="fn_29"></span>[46:1](vow09.htm#fr_29.md) It is the indiscriminate
 disclosure of spiritual mysteries to those who, by reason of their
 exclusively fleshly condition, are incapable of appreciating and
 reverencing then, that is called by Jesus a casting of pearls before
@@ -141,7 +141,7 @@ swine.
 
 A.K.
 
-<span id="fn_30"></span>[46:2](vow09.htm#fr_30) The fourth being Tatios,
+<span id="fn_30"></span>[46:2](vow09.htm#fr_30.md) The fourth being Tatios,
 the son of Trismegistos. All such discourses required--for occult
 reasons--the presence of a minimum number of four. The four above
 represented the four great divisions of existence, and constituted an
@@ -153,7 +153,7 @@ ordeal of suffering.
 
 A.K.
 
-<span id="fn_31"></span>[47:1](vow09.htm#fr_31) This identification of
+<span id="fn_31"></span>[47:1](vow09.htm#fr_31.md) This identification of
 Hermes with Eros--the only instance Dr. Menard says he has found in
 literature--accords with the Hermetic axiom--" Love and Wisdom are One."
 
@@ -161,4 +161,4 @@ A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](vow10)
+[Next: Part II](vow10.md)

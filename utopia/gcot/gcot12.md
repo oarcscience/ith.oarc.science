@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot11)  [Next](gcot13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot11)  [Next](gcot13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ proposals for an organized migratory movement of population of Edward
 Gibbon Wakefield and of Professor Alfred Marshall; (2) the system of
 land tenure first proposed by Thos. Spence and afterwards (though with
 an important modification) by Mr. Herbert Spencer; and (3) the model
-city of James Silk Buckingham. <span id="fr_23"></span>[1](#fn_23)
+city of James Silk Buckingham. <span id="fr_23"></span>[1](#fn_23.md)
 
 Let us take these proposals in the order named. Wakefield, in his *Art
 of Colonization* (J. W. Parker, London, 1849), urged that colonies when
@@ -135,7 +135,7 @@ town population as a market for their produce.'
 
 Professor Marshall's proposals for an organized migratory movement of
 population from London have been already noticed, <span
-id="fr_24"></span>[1](#fn_24) but the following passage from the article
+id="fr_24"></span>[1](#fn_24.md) but the following passage from the article
 already referred to may be quoted:
 
 'There might be great variety of method, but the general plan would
@@ -176,7 +176,7 @@ Gradually a prosperous industrial district would grow up, and then, mere
 self-interest would induce employers to bring down their main workshops,
 and even to start factories in the colony. Ultimately all would gain,
 but most the landowners and the railroads connected with the
-colony.' <span id="fr_25"></span>[1](#fn_25)
+colony.' <span id="fr_25"></span>[1](#fn_25.md)
 
 What could more strongly point than the last sentence of that quotation
 from Professor Marshall's proposal to the necessity of first *buying*
@@ -272,7 +272,7 @@ But if the reader examines the scheme of Spence, which preceded the
 now-withdrawn proposals of Mr. Herbert Spencer, he will see that
 Spence's scheme was entirely freed (as is the one put forward in this
 little book), from the objections which might probably attend control by
-the State. <span id="fr_26"></span>[1](#fn_26) The rents were, under
+the State. <span id="fr_26"></span>[1](#fn_26.md) The rents were, under
 Spence's proposals, as in my own, not to be levied by a *Central
 Government* far removed from contact with the people, but by the very
 parish (in my scheme the municipality) in which the people reside. As to
@@ -300,7 +300,7 @@ those ethical sentiments which social discipline has now produced, men
 stood in possession of a territory not yet individually portioned out,
 they would no more hesitate to assert equality of their claims to the
 land than they would hesitate to assert equality of their claims to
-light and air' <span id="fr_27"></span>[1](#fn_27)—one cannot help
+light and air' <span id="fr_27"></span>[1](#fn_27.md)—one cannot help
 wishing—so inharmonious does life seem—that the opportunity presented
 itself of migrating to a new planet where the 'ethical sentiments which
 social discipline has now produced' might be indulged in. But a new
@@ -315,7 +315,7 @@ dawns upon the heart and mind.
 The third proposal which I have combined with those of Spence and Mr.
 Herbert Spencer, of Wakefield and Professor Marshall, embraces one
 essential feature of a scheme of James S. Buckingham, <span
-id="fr_28"></span>[2](#fn_28) though I have purposely omitted some of
+id="fr_28"></span>[2](#fn_28.md) though I have purposely omitted some of
 the
 
 <span id="page_126">p. 126</span>
@@ -401,7 +401,7 @@ combination.
 
 ### Footnotes
 
-<span id="fn_23"></span>[119:1](gcot12.htm#fr_23) I may, perhaps, state
+<span id="fn_23"></span>[119:1](gcot12.htm#fr_23.md) I may, perhaps, state
 as showing how in the search for truth men's minds run in the same
 channels, and as, possibly, some additional argument for the soundness
 of the proposals thus combined, that, till I had got far on with my
@@ -411,27 +411,27 @@ Wakefield (beyond a very short reference to the latter in J. S. Mill's
 which, published nearly fifty years ago, seems to have attracted but
 little attention.
 
-<span id="fn_24"></span>[121:1](gcot12.htm#fr_24) Chapter III, page
-[66](gcot05.htm#page_66).
+<span id="fn_24"></span>[121:1](gcot12.htm#fr_24.md) Chapter III, page
+[66](gcot05.htm#page_66.md).
 
-<span id="fn_25"></span>[122:1](gcot12.htm#fr_25) The project of one
+<span id="fn_25"></span>[122:1](gcot12.htm#fr_25.md) The project of one
 large London manufacturer transferring his works from the east end of
 London to the country is the chief theme of a story entitled *Nineteen
 Hundred?*, by Marianne Farningham (London, 1892).
 
-<span id="fn_26"></span>[124:1](gcot12.htm#fr_26) Though Mr. Herbert
+<span id="fn_26"></span>[124:1](gcot12.htm#fr_26.md) Though Mr. Herbert
 Spencer, as if to rebuke his own theory that State control is inherently
 bad, says, 'Political speculation which sets out with the assumption
 that the State has in all cases the same nature must end in profoundly
 erroneous conclusions.'
 
-<span id="fn_27"></span>[125:1](gcot12.htm#fr_27) *Justice*, Chap. xi,
+<span id="fn_27"></span>[125:1](gcot12.htm#fr_27.md) *Justice*, Chap. xi,
 p. 85.
 
-<span id="fn_28"></span>[125:2](gcot12.htm#fr_28) Buckingham's scheme is
+<span id="fn_28"></span>[125:2](gcot12.htm#fr_28.md) Buckingham's scheme is
 set forth in a work entitled *National Evils and Practical Remedies*,
 published by Peter Jackson, St. Martins le Grand, about 1849.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eleven. The Path followed up](gcot13)
+[Next: Chapter Eleven. The Path followed up](gcot13.md)

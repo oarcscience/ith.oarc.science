@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb26)  [Next](orfb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb26)  [Next](orfb28.md) 
 
 </div>
 
@@ -475,6 +475,6 @@ and may wisdom be with you.'
 
 ------------------------------------------------------------------------
 
-[Next: The Princess Bella-Flor](orfb28)
+[Next: The Princess Bella-Flor](orfb28.md)
 
 </div>

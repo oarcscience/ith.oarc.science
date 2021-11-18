@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao63)   
-[Previous](tao62)  [Next](tao64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao63.md)   
+[Previous](tao62)  [Next](tao64.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ and so to the end has no difficulties.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 64](tao64)
+[Next: Chapter 64](tao64.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws69)  [Next](cws71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws69)  [Next](cws71.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 ##### PART I
 
-The Hymn of Aphrodite <span id="fr_220"></span>[1](#fn_220)
+The Hymn of Aphrodite <span id="fr_220"></span>[1](#fn_220.md)
 
 \(1\)
 
@@ -25,7 +25,7 @@ slumbered: the valleys were filled with shadows: only the mountains and
 the stars held commune together.
 
 4\. There was no light on the ways of the earth: the rolling world moved
-outward on her axe <span id="fr_221"></span>[2](#fn_221): gloom and
+outward on her axe <span id="fr_221"></span>[2](#fn_221.md): gloom and
 mystery shrouded the faces of the Gods.
 
 5\. Then from out the deep I arose, dispeller of night: the firmament of
@@ -124,7 +124,7 @@ heaven!\[T\]
 
 A Discourse of the Communion of Soules, and of the Uses of Love between
 Creature and Creature: being Part of the Goldene Booke of Venus. <span
-id="fr_222"></span>[1](#fn_222)
+id="fr_222"></span>[1](#fn_222.md)
 
 1\. Herein is Love's Secret, and the Mysterie of the Communion of
 Saintes.
@@ -287,14 +287,14 @@ own.
 
 ### Footnotes
 
-<span id="fn_220"></span>[164:1](cws70.htm#fr_220) Home, September 19,
+<span id="fn_220"></span>[164:1](cws70.htm#fr_220.md) Home, September 19,
 1884. Received in sleep. Referred to in *Life of Anna Kingsford*, vol.
 ii, pp. 213-216.
 
-<span id="fn_221"></span>[164:2](cws70.htm#fr_221) An obsolete word for
+<span id="fn_221"></span>[164:2](cws70.htm#fr_221.md) An obsolete word for
 axis.
 
-<span id="fn_222"></span>[166:1](cws70.htm#fr_222) Printed as read \[in
+<span id="fn_222"></span>[166:1](cws70.htm#fr_222.md) Printed as read \[in
 sleep, on the night of March 15, 1881\] in a book in German text, found
 in a chamber purporting to be the laboratory of William Lilly, the
 astrologer (17th century), to which the seeress had been introduced by
@@ -308,4 +308,4 @@ Referred to in *Life of Anna Kingsford*, vol. ii, pp. 1-3.
 ------------------------------------------------------------------------
 
 [Next: No. XV: Lambda, Or The Last Of The Gods; Being The Secret Of
-Satan](cws71)
+Satan](cws71.md)

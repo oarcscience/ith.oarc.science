@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo26)  [Next](hoo28) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo26)  [Next](hoo28.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ With peace divine and necessary wealth.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII: To the Nereids](hoo28)
+[Next: XXIII: To the Nereids](hoo28.md)

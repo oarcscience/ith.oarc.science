@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot18)  [Next](lot20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot18)  [Next](lot20.md) 
 
 ------------------------------------------------------------------------
 
@@ -207,4 +207,4 @@ after my extinction in this world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 20](lot20)
+[Next: Chapter 20](lot20.md)

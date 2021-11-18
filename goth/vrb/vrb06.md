@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vrb05)  [Next](vrb07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vrb05)  [Next](vrb07.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ subtle selves.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five: Personal Rites](vrb07)
+[Next: Chapter Five: Personal Rites](vrb07.md)

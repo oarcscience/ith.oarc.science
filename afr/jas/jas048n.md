@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas047n)  [Next](jas049n)   
- \[[48. Why Dog is always Looking.](jas048)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas047n)  [Next](jas049n.md)   
+ \[[48. Why Dog is always Looking.](jas048.md)\]
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ potatoes.,
 
 ------------------------------------------------------------------------
 
-[Next: Note 49. Why Rocks at the River are covered with Moss.](jas049n)
+[Next: Note 49. Why Rocks at the River are covered with Moss.](jas049n.md)

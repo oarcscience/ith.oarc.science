@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn5) [Next](udn7)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn5) [Next](udn7.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ a vehicle, objectified, taken as a foundation, amalgamated, and most
 thoroughly striven with the constituents of magic power, if he should so
 wish, is able to remain in this world a Kalpa,<span
 id="page_87_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_87_note_1) or the remainder of a
+class="small">1</span></sup>](#page_87_note_1.md) or the remainder of a
 <span id="page_88">p. 88</span> Kalpa. The Perfect One, Ananda, has
 dwelt upon, enlarged, made use of as a vehicle, objectified, taken as a
 foundation, amalgamated, and most thoroughly striven with the
@@ -135,9 +135,9 @@ drawing near saluted the Blessed One and sat down respectfully apart.
 
    Now at that time, seven ascetics with long matted hair, seven
 Niganthas,<span id="page_90_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_90_note_2) seven Acelas,<span
+class="small">2</span></sup>](#page_90_note_2.md) seven Acelas,<span
 id="page_90_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_90_note_2) seven wearing only one
+class="small">2</span></sup>](#page_90_note_2.md) seven wearing only one
 garment, and seven wandering monks with overgrown nails and hair,
 carrying with them various requisites of monks, were passing by, not far
 from the Blessed One.
@@ -182,7 +182,7 @@ Blessed One: 'Hard is it, etc. \[as above\]."
 may be likened to robbers, for they receive alms without having
 renounced the world. When these have entered the 'path', I will do
 likewise.<span id="page_92_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_92_note_1) As yet, Sire, these
+class="small">1</span></sup>](#page_92_note_1.md) As yet, Sire, these
 people have not removed the dust-heap (of desire), and go about,
 anointed with oil; with head and beard shorn, in white garments,
 possessed of and endowed with the 'five pleasures of sense'."
@@ -624,7 +624,7 @@ forth this solemn utterance:
 
 ------------------------------------------------------------------------
 
-[Next](udn7)
+[Next](udn7.md)
 
 ------------------------------------------------------------------------
 
@@ -632,21 +632,21 @@ forth this solemn utterance:
 
 <span id="footnotes_page_87">p. 87</span>
 
-<span id="page_87_note_1"></span>[1](#page_87_fr_1) A cycle of time.
+<span id="page_87_note_1"></span>[1](#page_87_fr_1.md) A cycle of time.
 
 <span id="footnotes_page_90">p. 90</span>
 
-<span id="page_90_note_1"></span>[1](#page_90_fr_1) Vide "Buddhism in
+<span id="page_90_note_1"></span>[1](#page_90_fr_1.md) Vide "Buddhism in
 Translations" by the late H. O. Warren.
 
-<span id="page_90_note_2"></span>[2](#page_90_fr_2) Naked ascetics.
+<span id="page_90_note_2"></span>[2](#page_90_fr_2.md) Naked ascetics.
 
 <span id="footnotes_page_92">p. 92</span>
 
-<span id="page_92_note_1"></span>[1](#page_92_fr_1) The whole of this
+<span id="page_92_note_1"></span>[1](#page_92_fr_1.md) The whole of this
 passage is very obscure in the original.
 
-<span id="page_92_note_2"></span>[2](#page_92_fr_2) Text obscure.
+<span id="page_92_note_2"></span>[2](#page_92_fr_2.md) Text obscure.
 
  
 

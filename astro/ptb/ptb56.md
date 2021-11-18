@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb55)  [Next](ptb57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb55)  [Next](ptb57.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ Thus far with regard to the places of prorogation.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. The Number of Prorogators, and Also the Part of
-Fortune](ptb57)
+Fortune](ptb57.md)

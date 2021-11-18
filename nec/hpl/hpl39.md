@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl38)  [Next](hpl40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl38)  [Next](hpl40.md) 
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ busy with preparations during the ensuing two days.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](hpl40)
+[Next: Chapter 6](hpl40.md)

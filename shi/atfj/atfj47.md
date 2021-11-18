@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj46)  [Next](atfj48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj46)  [Next](atfj48.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_51"></span> <span align="CENTER"> [![51. Kikuo Prays at
 the Grave of his Feudal Lord](tn/51.jpg)  
-Click to enlarge](img/51.jpg)  
+Click to enlarge](img/51.jpg.md)  
 51. Kikuo Prays at the Grave of his Feudal Lord  
 </span>
 
@@ -128,6 +128,6 @@ solitude, with wild grasses only growing about them.
 
 ------------------------------------------------------------------------
 
-[Next: XLVI. The Princess Peony](atfj48)
+[Next: XLVI. The Princess Peony](atfj48.md)
 
 </div>

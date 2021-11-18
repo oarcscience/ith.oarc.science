@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas074n)  [Next](jas076n)   
- \[[75. Asoonah.](jas075)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas074n)  [Next](jas076n.md)   
+ \[[75. Asoonah.](jas075.md)\]
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ be an elephant.
 
 ------------------------------------------------------------------------
 
-[Next: Note 76. The Greedy Child.](jas076n)
+[Next: Note 76. The Greedy Child.](jas076n.md)

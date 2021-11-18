@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq53)  [Next](sfq55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq53)  [Next](sfq55.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ and peril might be in store.
 ------------------------------------------------------------------------
 
 [Next: How the ''Savage Knight'' met the ''Knight with the Ebony
-Spear''](sfq55)
+Spear''](sfq55.md)

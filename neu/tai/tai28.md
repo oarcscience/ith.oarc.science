@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai27)  [Next](tai29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai27)  [Next](tai29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,11 +23,11 @@ TABLE I.
 
 [![Table I. Genealogies of the House of Rurik Down to the Extinction of
 the Line in 1584](tn/tab01.jpg)  
-Click to enlarge](img/tab01.jpg)  
+Click to enlarge](img/tab01.jpg.md)  
   
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Table II. The Yaroslaviči](tai29)
+[Next: Table II. The Yaroslaviči](tai29.md)

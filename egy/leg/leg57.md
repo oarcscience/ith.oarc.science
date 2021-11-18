@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg56)  [Next](leg58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg56)  [Next](leg58.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ flight of seven days on an ass.\]
 
 ------------------------------------------------------------------------
 
-[Next: Section XXXII: Third Explanation of the Story](leg58)
+[Next: Section XXXII: Third Explanation of the Story](leg58.md)

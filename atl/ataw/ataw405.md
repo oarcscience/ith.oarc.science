@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw404)  [Next](ataw406) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw404)  [Next](ataw406.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -931,7 +931,7 @@ passage-ways leading up into the body of the pyramid.
  
 
 <span id="img_33900"></span> <span align="CENTER"> [![](tn/33900.jpg)  
-Click to enlarge](img/33900.jpg)</span>  
+Click to enlarge](img/33900.jpg.md)</span>  
 THE GREAT MOUND, NEAR MIAMISBURG, OHIO.
 
  
@@ -991,4 +991,4 @@ had spontaneously and necessarily reached the same results.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI: Gold and Silver the Sacred Metals of
-Atlantis.](ataw406)
+Atlantis.](ataw406.md)

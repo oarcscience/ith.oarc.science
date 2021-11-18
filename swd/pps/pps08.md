@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](pps07)  [Next](pps09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](pps07)  [Next](pps09.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,7 +172,7 @@ Happy is he who confesses and worships the Lord. 16
 Psalm 119 1-176 The Lord fulfilled the Law, or the Word, from its firsts
 to its lasts, and therefore He was hated, 16 and suffered temptations,
 and thus made the 5 Human one with His Divine. <span
-id="fr_1"></span>[369-1](#fn_1) 10
+id="fr_1"></span>[369-1](#fn_1.md) 10
 
 <span class="margnote"><span id="370.">370.</span></span>
 
@@ -403,7 +403,7 @@ truth. 12, 16
 
 ### Footnotes
 
-<span id="fn_1"></span>[369-1](pps08.htm#fr_1) The following words are
+<span id="fn_1"></span>[369-1](pps08.htm#fr_1.md) The following words are
 here crossed out in the manuscript: "The initial letters here signify
 such things as are meant by them in the spiritual world." This note
 refers to the Hebrew initial letters of the verses, which follow the
@@ -415,4 +415,4 @@ Apocalypse Revealed, n. 38.-Editor.
 
 ------------------------------------------------------------------------
 
-[Next: 401-450](pps09)
+[Next: 401-450](pps09.md)

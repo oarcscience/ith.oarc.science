@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srf09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srf09.md) 
 
 ------------------------------------------------------------------------
 
@@ -168,7 +168,7 @@ threatens us all turned your head?"
 "Down in the village," Rurik went on, "the peasants are shouting and
 dancing with joy. A newspaper, in which the Tsar's decree has been
 printed, is in the hands of the priest. <span
-id="fr_4"></span>[1](#fn_4) I heard it
+id="fr_4"></span>[1](#fn_4.md) I heard it
 
 <span id="page_173">p. 173</span>
 
@@ -768,7 +768,7 @@ his father.
 
 ### Footnotes
 
-<span id="fn_4"></span>[172:1](srf10.htm#fr_4) Serfdom was abolished in
+<span id="fn_4"></span>[172:1](srf10.htm#fr_4.md) Serfdom was abolished in
 Russia by a manifesto of Tsar Alexander II, in 1861. It had prevailed at
 one time all over Europe.
 

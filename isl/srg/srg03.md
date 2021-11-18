@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](srg02)  [Next](srg04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](srg02)  [Next](srg04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Rose Garden*, by Florence Lederer, \[1920\], at Intangible
 Textual Heritage
 
@@ -196,7 +196,7 @@ which a frenzied
 
 camel madly plunges, of a reed torn from its bed and made into a flute
 whose plaintive music fills the eyes with tears. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 ### THE BELOVED
 
@@ -217,7 +217,7 @@ youth.
 Now He plunged into the heart of the substance of the potter's clay--the
 Spirit plunged like a diver.  
 Anon He rose from the depths of mud that is moulded and baked,  
-Then he appeared in the world." <span id="fr_1"></span>[2](#fn_1)</span>
+Then he appeared in the world." <span id="fr_1"></span>[2](#fn_1.md)</span>
 
 </div>
 
@@ -229,7 +229,7 @@ And Jāmī declares:
 In beggar's rags or robes of royalty,  
 In Union's cell or in distraction haunts,  
 There's none but He, by God, there's none but He." <span
-id="fr_2"></span>[3](#fn_2)</span>
+id="fr_2"></span>[3](#fn_2.md)</span>
 
 </div>
 
@@ -244,7 +244,7 @@ Plotinus has told us in a beautiful passage that a
 longings is without any form, even spiritual form, since the soul
 itself, when inflamed with love for it, puts off all the form which it
 had, even that which belongs to the spiritual world." <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 The inability to describe to the uninitiated the secret love of the
 mystic for the Unknowable is made the subject of an exquisite poem by
@@ -257,7 +257,7 @@ scorn. And you sit there smiling. I put my tales of you into lasting
 songs. The secret gushes out from my heart. They come and ask me, 'Tell
 me all your meaning.' I know not how to answer them. I say, 'Ah, who
 knows what they mean.' They smile and go away in utter scorn. And you
-sit there smiling." <span id="fr_4"></span>[2](#fn_4)
+sit there smiling." <span id="fr_4"></span>[2](#fn_4.md)
 
 <span id="page_18">p. 18</span>
 
@@ -501,25 +501,25 @@ FLORENCE LEDERER.
 
 ### Footnotes
 
-<span id="fn_0"></span>[16:1](srg03.htm#fr_0) See R. A. Nicholson's
+<span id="fn_0"></span>[16:1](srg03.htm#fr_0.md) See R. A. Nicholson's
 *Mystics of Islam*, p. 117.
 
-<span id="fn_1"></span>[16:2](srg03.htm#fr_1) *Mystics of Islam*, R. A.
+<span id="fn_1"></span>[16:2](srg03.htm#fr_1.md) *Mystics of Islam*, R. A.
 Nicholson.
 
-<span id="fn_2"></span>[16:3](srg03.htm#fr_2) Jāmī's *Lawa’ih*,
+<span id="fn_2"></span>[16:3](srg03.htm#fr_2.md) Jāmī's *Lawa’ih*,
 translated by E. H. Whinfield.
 
-<span id="fn_3"></span>[17:1](srg03.htm#fr_3) *Philosophy of Plotinus*,
+<span id="fn_3"></span>[17:1](srg03.htm#fr_3.md) *Philosophy of Plotinus*,
 by Dean Inge.
 
-<span id="fn_4"></span>[17:2](srg03.htm#fr_4) *Gitanjali*, by
+<span id="fn_4"></span>[17:2](srg03.htm#fr_4.md) *Gitanjali*, by
 Rabindranath Tagore.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Acknowledgment](srg04)
+[Next: Acknowledgment](srg04.md)
 
 </div>

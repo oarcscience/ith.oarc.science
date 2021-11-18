@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo36)  [Next](beo38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo36)  [Next](beo38.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ his soul to seek the saints' reward.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXXIX](beo38)
+[Next: Part XXXIX](beo38.md)

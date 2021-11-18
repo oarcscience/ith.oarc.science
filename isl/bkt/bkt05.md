@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt04) [Next](bkt06)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt04) [Next](bkt06.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ first who invented the balance to prevent deception in traffic, and the
 first also to sew garments, and to write with the Kalam. Idris longed
 ardently for Paradise; still he was not desirous of death, for he was
 anxious to do good on the earth; and but for his preaching and his
-sword,<span id="page_48_fr_*"></span>[\*](#page_48_note_*) the sons of
+sword,<span id="page_48_fr_*"></span>[\*](#page_48_note_*.md) the sons of
 Cain would have flooded the earth with iniquity. Allah sent him the
 Angel of Death in the form of a beautiful virgin, in order to see
 whether he would approve himself <span id="page_49">p. 49</span> worthy
@@ -113,11 +113,11 @@ and was drawn in unobserved by Ridwhan. The Angel of Death attempted to
 prevent it, but Allah said, "Wilt thou slay him twice?" Thus it came to
 pass that Idris was taken alive into Paradise, and was permitted by the
 most gracious One to remain there in spite of the Angel of Death and of
-Ridwhan.<span id="page_52_fr_*"></span>[\*](#page_52_note_*)
+Ridwhan.<span id="page_52_fr_*"></span>[\*](#page_52_note_*.md)
 
 ------------------------------------------------------------------------
 
-[Next](bkt06)
+[Next](bkt06.md)
 
 ------------------------------------------------------------------------
 
@@ -125,12 +125,12 @@ Ridwhan.<span id="page_52_fr_*"></span>[\*](#page_52_note_*)
 
 <span id="footnotes_page_48">p. 48</span>
 
-   <span id="page_48_note_*"></span>[\*](#page_48_fr_*) See the E.
+   <span id="page_48_note_*"></span>[\*](#page_48_fr_*.md) See the E.
 Translator's Preface.
 
 <span id="footnotes_page_52">p. 52</span>
 
-   <span id="page_52_note_*"></span>[\*](#page_52_fr_*) In the Bible it
+   <span id="page_52_note_*"></span>[\*](#page_52_fr_*.md) In the Bible it
 is said the Lord took Enoch; but the Midrash adds, nine human beings
 entered Paradise alive: Enoch, Messiah, Elias, Eliezer the servant of
 Abraham, the servant of the King of Kush, Chiram the King of Tyre,

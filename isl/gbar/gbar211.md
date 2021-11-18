@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar210) [Next](gbar212)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar210) [Next](gbar212.md)
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ against the lovers of the world.
 
 ------------------------------------------------------------------------
 
-[Next](gbar212)
+[Next](gbar212.md)

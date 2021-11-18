@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Zuni](../index)  [Index](index)
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Zuni](../index)  [Index](index.md)
 
 ------------------------------------------------------------------------
 

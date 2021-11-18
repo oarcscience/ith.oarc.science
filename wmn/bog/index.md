@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,59 +21,59 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](bog00)  
-[Preface](bog01)  
+[Title Page](bog00.md)  
+[Preface](bog01.md)  
 <span id="section_000"></span>
 
 ### The Nine Principles of the Goddess
 
-[The Nine Principles of the Goddess](bog02)  
+[The Nine Principles of the Goddess](bog02.md)  
 <span id="section_001"></span>
 
 ### Genesis
 
-[Genesis](bog03)  
+[Genesis](bog03.md)  
 <span id="section_002"></span>
 
 ### The Names of the Goddess
 
-[The Names of the Goddess](bog04)  
+[The Names of the Goddess](bog04.md)  
 <span id="section_003"></span>
 
 ### Hymns to the One Goddess
 
-[I](bog05)  
-[II](bog06)  
-[III](bog07)  
-[IV](bog08)  
-[V](bog09)  
+[I](bog05.md)  
+[II](bog06.md)  
+[III](bog07.md)  
+[IV](bog08.md)  
+[V](bog09.md)  
 <span id="section_004"></span>
 
 ### Hymns to the Ennead
 
-[Hymns to the Ennead](bog10)  
-[Amaterasu](bog11)  
-[Kali](bog12)  
-[Selene](bog13)  
-[Gaia](bog14)  
-[Demeter](bog15)  
-[Athena](bog16)  
-[Maria](bog17)  
-[Aphrodite](bog18)  
-[Eris](bog19)  
-[The Testament of Gaia](bog20)  
+[Hymns to the Ennead](bog10.md)  
+[Amaterasu](bog11.md)  
+[Kali](bog12.md)  
+[Selene](bog13.md)  
+[Gaia](bog14.md)  
+[Demeter](bog15.md)  
+[Athena](bog16.md)  
+[Maria](bog17.md)  
+[Aphrodite](bog18.md)  
+[Eris](bog19.md)  
+[The Testament of Gaia](bog20.md)  
 <span id="section_005"></span>
 
 ### Commentary
 
-[Introduction](bog21)  
-[First Principle: Amaterasu](bog22)  
-[Second Principle: Kali](bog23)  
-[Third Principle: Selene](bog24)  
-[Fourth Principle: Gaia](bog25)  
-[Fifth Principle: Demeter](bog26)  
-[Sixth Principle: Athena](bog27)  
-[Seventh Principle: Maria](bog28)  
-[Eighth Principle: Aphrodite](bog29)  
-[Ninth Principle: Eris](bog30)  
-[Coda: The Goddess Prayer](bog31)  
+[Introduction](bog21.md)  
+[First Principle: Amaterasu](bog22.md)  
+[Second Principle: Kali](bog23.md)  
+[Third Principle: Selene](bog24.md)  
+[Fourth Principle: Gaia](bog25.md)  
+[Fifth Principle: Demeter](bog26.md)  
+[Sixth Principle: Athena](bog27.md)  
+[Seventh Principle: Maria](bog28.md)  
+[Eighth Principle: Aphrodite](bog29.md)  
+[Ninth Principle: Eris](bog30.md)  
+[Coda: The Goddess Prayer](bog31.md)  

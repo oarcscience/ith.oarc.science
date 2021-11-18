@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dss01)  [Next](dss03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dss01)  [Next](dss03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425344615/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425344615/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -286,7 +286,7 @@ because their ends (or what is the same their loves) had been themselves
 and the world, and not the Lord and heaven. When men read the Word while
 themselves and the world are the ends in view, their minds cleave to
 themselves and the world, and this causes them to be constantly thinking
-from their own, <span id="fr_9"></span>[61-1](#fn_9) which is in thick
+from their own, <span id="fr_9"></span>[61-1](#fn_9.md) which is in thick
 darkness in respect to all things of heaven, in which state the man
 cannot be withdrawn by the Lord from his own, and thus be raised into
 the light of heaven, and consequently cannot receive through heaven any
@@ -955,7 +955,7 @@ various ways, and that each letter possesses a complete meaning; that
 the vowels there indicate a sound that corresponds to the affection, and
 that in that heaven they cannot utter the vowels i and e, but instead of
 them y and eu, but that they do use the vowels a, o, and u, because they
-give a full sound. <span id="fr_10"></span>[90-1](#fn_10) Further: that
+give a full sound. <span id="fr_10"></span>[90-1](#fn_10.md) Further: that
 they do not pronounce any consonants as hard, but soft, and that it is
 from this that certain Hebrew letters have a dot in the center as a sign
 that they are to be pronounced as \[hard, and are without this dot
@@ -1249,7 +1249,7 @@ are to follow, on the subject of angelic wisdom.
 
 ### Footnotes
 
-<span id="fn_9"></span>[61-1](dss02.htm#fr_9) The Latin word proprium is
+<span id="fn_9"></span>[61-1](dss02.htm#fr_9.md) The Latin word proprium is
 the term used in the original text that in this and other places has
 been rendered by the expression "own." The dictionary meaning of
 proprius, as an adjective, is "one's own," "proper," "belonging to one's
@@ -1263,7 +1263,7 @@ proprius, and if we make it a noun by writing it "own," in order to
 answer to the Latin proprium, we effect a very close translation.
 \[Translator\]
 
-<span id="fn_10"></span>[90-1](dss02.htm#fr_10) These letters are to be
+<span id="fn_10"></span>[90-1](dss02.htm#fr_10.md) These letters are to be
 pronounced as follows: i as in machine e like the a in baby y like the
 German - or the French - eu as in French, or like the German - a as in
 father In Swedish, o and u are sounded as follows: o either as oo in
@@ -1273,4 +1273,4 @@ of o in note, and to u the sound of oo in booth. \[Translator\]
 
 ------------------------------------------------------------------------
 
-[Next: 101-150](dss03)
+[Next: 101-150](dss03.md)

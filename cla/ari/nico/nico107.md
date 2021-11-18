@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico106) 
-[Next](nico108) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico106.md) 
+[Next](nico108.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ must be to discuss pleasure.
 
 ------------------------------------------------------------------------
 
-[Next: Book X. Pleasure. Happiness.](nico108)
+[Next: Book X. Pleasure. Happiness.](nico108.md)

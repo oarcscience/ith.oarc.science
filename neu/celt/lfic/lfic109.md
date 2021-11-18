@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic108)  [Next](lfic110) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic108)  [Next](lfic110.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ resort to Ferns on Sundays, to verify or disprove the assertion.
 
 ------------------------------------------------------------------------
 
-[Next: O' Carroll's Warning](lfic110)
+[Next: O' Carroll's Warning](lfic110.md)

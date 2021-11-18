@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm27)  [Next](tgm29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm27)  [Next](tgm29.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ Babylonia?" Some said:
 <span id="img_13800"></span>
 
 [![](tn/13800.jpg)  
-Click to enlarge](img/13800.jpg)
+Click to enlarge](img/13800.jpg.md)
 
  
 
@@ -181,4 +181,4 @@ Babylonia as the center of Jewish living and of Jewish learning.
 
 ------------------------------------------------------------------------
 
-[Next: 26. The Wondrous Tree](tgm29)
+[Next: 26. The Wondrous Tree](tgm29.md)

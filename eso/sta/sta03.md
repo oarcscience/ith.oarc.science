@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta02)  [Next](sta04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta02)  [Next](sta04.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ self-moving mind; that this divine infinite Mind, not
 <span id="img_01300"></span>
 
 [![BABBITT'S ATOM.](tn/01300.jpg)  
-Click to enlarge](img/01300.jpg)  
+Click to enlarge](img/01300.jpg.md)  
 BABBITT'S ATOM.  
 
 From Babbitt's *Principles of Light and Color*.
@@ -304,7 +304,7 @@ school. Diodorus held that nothing
 <span id="img_01400"></span>
 
 [![PLATO.](tn/01400.jpg)  
-Click to enlarge](img/01400.jpg)  
+Click to enlarge](img/01400.jpg.md)  
 PLATO.  
 
 From Thomasin's *Recuil des Figures, Groupes, Thermes, Fontaines, Vases
@@ -438,7 +438,7 @@ most, the penetration or extent of his mind."
 <span id="img_01500"></span>
 
 [![THE PROBLEM OF DIVERSITY.](tn/01500.jpg)  
-Click to enlarge](img/01500.jpg)  
+Click to enlarge](img/01500.jpg.md)  
 THE PROBLEM OF DIVERSITY.  
 
 From Kircher's *Ars Magna Sciendi*.
@@ -496,7 +496,7 @@ the accepted theories regarding Deity to be self-contradictory and
 undemonstrable. "How," asked the Skeptic, "can we have indubitate
 knowledge of God, knowing not His substance, form or place; for, while
 philosophers disagree irreconcilably on these points, their conclusions
-cannot be considered as [undoubtedly](errata.htm#0) true?" Since
+cannot be considered as [undoubtedly](errata.htm#0.md) true?" Since
 absolute knowledge was considered unattainable, the Skeptics declared
 the end of their discipline to be: "In opinionatives, indisturbance; in
 impulsives, moderation; and in disquietives, suspension."
@@ -592,7 +592,7 @@ materialism and commercialism,
 <span id="img_01600"></span>
 
 [![ÆNEAS AT THE GATE OF HELL.](tn/01600.jpg)  
-Click to enlarge](img/01600.jpg)  
+Click to enlarge](img/01600.jpg.md)  
 ÆNEAS AT THE GATE OF HELL.  
 
 From Virgil's *Æneid*. (Dryden's translation.)
@@ -760,7 +760,7 @@ attributes, which are extension and thought: these combine
 <span id="img_01700"></span>
 
 [![THE PTOLEMAIC SCHEME OF THE UNIVERSE.](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 THE PTOLEMAIC SCHEME OF THE UNIVERSE.  
 
 From an old print, courtesy of Carl Oscar Borg.
@@ -914,7 +914,7 @@ reproduce his kind.
 <span id="img_01800"></span>
 
 [![THE TREE OF CLASSICAL MYTHOLOGY.](tn/01800.jpg)  
-Click to enlarge](img/01800.jpg)  
+Click to enlarge](img/01800.jpg.md)  
 THE TREE OF CLASSICAL MYTHOLOGY.  
 
 From Hort's *The New Pantheon*.
@@ -1087,7 +1087,7 @@ when the point of equilibrium is reached it is
 <span id="img_01900"></span>
 
 [![A CHRISTIAN TRINITY.](tn/01900.jpg)  
-Click to enlarge](img/01900.jpg)  
+Click to enlarge](img/01900.jpg.md)  
 A CHRISTIAN TRINITY.  
 
 From Hone's *Ancient Mysteries Described*.
@@ -1271,7 +1271,7 @@ scientific, and religious truths.
 <span id="img_02000"></span>
 
 [![THE ORPHIC EGG.](tn/02000.jpg)  
-Click to enlarge](img/02000.jpg)  
+Click to enlarge](img/02000.jpg.md)  
 THE ORPHIC EGG.  
 
 From Bryant's *An Analysis of Ancient Mythology*.
@@ -1286,4 +1286,4 @@ through the fetal period of philosophic regeneration.
 ------------------------------------------------------------------------
 
 [Next: The Ancient Mysteries and Secret Societies Which Have Influenced
-Modern Masonic Symbolism](sta04)
+Modern Masonic Symbolism](sta04.md)

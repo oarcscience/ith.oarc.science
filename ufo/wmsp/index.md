@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,6 +50,6 @@ read.
 
 ------------------------------------------------------------------------
 
-[Title Page](wmsp00)  
-[Helen's Story](wmsp01)  
-[Betty's Account](wmsp02)  
+[Title Page](wmsp00.md)  
+[Helen's Story](wmsp01.md)  
+[Betty's Account](wmsp02.md)  

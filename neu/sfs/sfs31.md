@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs30)  [Next](sfs32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs30)  [Next](sfs32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ let him make me a mace of seven poods weight.' His father didn't say a
 single word to him, but only thought in his own mind: 'The Lord has
 given me a child different from other people; I think he has a middling
 understanding, but he is now making a fool of me. Can it possibly be
-that a seven-pood <span id="fr_8"></span>[\*](#fn_8) mace can be made
+that a seven-pood <span id="fr_8"></span>[\*](#fn_8.md) mace can be made
 out of a pin?' His father, having a considerable sum of money in gold,
 silver, and paper, drove to the town, bought seven poods of iron, and
 gave them to a smith to make a mace of. They made him a seven-pood mace,
@@ -95,7 +95,7 @@ Midnight came, and the) went up to a bridge of guelder-rose-wood over a
 river of fire. Lo! up came a six-headed dragon, and posted himself upon
 the bridge, and immediately his horse neighed, his falcon chattered, and
 his hound howled. He gave his horse a blow on the head: 'Don't neigh,
-devil's carrion! <span id="fr_9"></span>[\*](#fn_9) Don't chatter,
+devil's carrion! <span id="fr_9"></span>[\*](#fn_9.md) Don't chatter,
 falcon! And you, hound, don't howl! For here is Little Rolling-pea. Well
 now,' said he, 'come forth, Little Rolling-pea! shall we fight or shall
 we try our strength?' Little Rolling pea answered: 'Not to try their
@@ -214,11 +214,11 @@ didn't get into my mouth.
 
 ### Footnotes
 
-<span id="fn_8"></span>[133:\*](sfs31.htm#fr_8) A pood is 40 Russian, 36
+<span id="fn_8"></span>[133:\*](sfs31.htm#fr_8.md) A pood is 40 Russian, 36
 English, pounds.
 
-<span id="fn_9"></span>[135:\*](sfs31.htm#fr_9) An insulting nickname.
+<span id="fn_9"></span>[135:\*](sfs31.htm#fr_9.md) An insulting nickname.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII. The Wonderful Boys](sfs32)
+[Next: XXIII. The Wonderful Boys](sfs32.md)

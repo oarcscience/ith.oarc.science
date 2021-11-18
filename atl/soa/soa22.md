@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa21)  [Next](soa23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa21)  [Next](soa23.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ civilization of Atlantis had by this time reached its height.
 
 ------------------------------------------------------------------------
 
-[Next: Sorcery versus the Good Law](soa23)
+[Next: Sorcery versus the Good Law](soa23.md)

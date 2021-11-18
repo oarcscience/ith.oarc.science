@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl012)  [Next](cohl014) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl012)  [Next](cohl014.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ all wickedness before you.' So they said."
 
 ------------------------------------------------------------------------
 
-[Next: Section I](cohl014)
+[Next: Section I](cohl014.md)

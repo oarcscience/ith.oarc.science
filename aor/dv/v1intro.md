@@ -1,14 +1,14 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Age of Reason](../index) 
-[Index](index)   
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Age of Reason](../index.md) 
+[Index](index.md)   
 [I. Prolegomena and General Introduction to the Book on Painting
-Index](dvs000)  
-  [Previous](v1illu)  [Next](0001) 
+Index](dvs000.md)  
+  [Previous](v1illu)  [Next](0001.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486225720/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486225720/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -288,18 +288,18 @@ to that view*.
 
 *We know from the evidence of his friend Luca Paciolo that Leonardo drew
 with his left hand, and used it with perfect ease*. <span
-id="fr_0"></span>[1](#fn_0) *In point of fact, in almost every drawing
+id="fr_0"></span>[1](#fn_0.md) *In point of fact, in almost every drawing
 authentically known to be genuine--as those included in the texts of
 MSS. must be--wherever shading is introduced the strokes lie from left
 to right (downwards) as they would be drawn with the left hand*. <span
-id="fr_1"></span>[2](#fn_1)
+id="fr_1"></span>[2](#fn_1.md)
 
 *The question as to why Leonardo drew and wrote with his left hand is
 now probably a vain one. There is nothing to justify us in deciding
 whether accidental circumstance or mere caprice was the cause. It is
 worthy of remark, that the earliest notes, written in his twenty-first
 year, when he could hardly have had such reasons for caution as are
-attributed to him* <span id="fr_2"></span>[3](#fn_2), *are written
+attributed to him* <span id="fr_2"></span>[3](#fn_2.md), *are written
 backwards*.
 
 *The contents of Leonardo's MSS. sufficiently prove that he certainly
@@ -377,18 +377,18 @@ seen (No*. 30-39).
 
 ### Footnotes
 
-<span id="fn_0"></span>[8:1](v1intro.htm#fr_0) "Scrivesi ancora alla
+<span id="fn_0"></span>[8:1](v1intro.htm#fr_0.md) "Scrivesi ancora alla
 rovescia e mancina the non si posson legere se non con lo specchio,
 ovvero guardando la carta dal suo rovescio contro alla luce, come so
 m’intendi senz’ altro dica, e come fa it nostro Leonardo da Vinci, lume
 della pittura, quale è mancino, come pia volte è detto." (L. PACIOLO,
 Divina Proportione, Venezia, 1509.)
 
-<span id="fn_1"></span>[8:2](v1intro.htm#fr_1) This was first pointed
+<span id="fn_1"></span>[8:2](v1intro.htm#fr_1.md) This was first pointed
 out in the '*Critical review of the drawings by the old Masters in the
 Dresden Gallery*' by Senatore Gtov. MORELLI.
 
-<span id="fn_2"></span>[8:3](v1intro.htm#fr_2) "Pour s'exprimer à peu
+<span id="fn_2"></span>[8:3](v1intro.htm#fr_2.md) "Pour s'exprimer à peu
 près comme lui, des esprits etroits et routiniers d’une part, et de
 l’autre des aventuriers partant à cheval contre tout ce qui avait permis
 jusque-là d’etablir ces règles qui, déterminant la limite du possible et
@@ -407,4 +407,4 @@ in his own room*.
 
 ------------------------------------------------------------------------
 
-[Next: 1.](0001)
+[Next: 1.](0001.md)

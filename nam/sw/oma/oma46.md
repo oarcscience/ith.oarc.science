@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma45)  [Next](oma47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma45)  [Next](oma47.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl13a"></span>
 
 [![Plate 13, Figure 1](tn/pl13a.jpg)  
-Click to enlarge](img/pl13a.jpg)  
+Click to enlarge](img/pl13a.jpg.md)  
 Plate 13, Figure 1  
 
 FIGURE 1. Maiden's hair frame (design in green, red, blue, yellow,
@@ -23,7 +23,7 @@ front design green, sides blue and yellow, stick brown.
 <span id="img_pl13b"></span>
 
 [![Plate 13, Figure 2](tn/pl13b.jpg)  
-Click to enlarge](img/pl13b.jpg)  
+Click to enlarge](img/pl13b.jpg.md)  
 Plate 13, Figure 2  
 
 FIGURE 2. Objects on Kapina society altar. Tsamaiya (Tiamuni). Yucca
@@ -33,4 +33,4 @@ directions (yellow, blue, red).
 
 ------------------------------------------------------------------------
 
-[Next: Plate 14](oma47)
+[Next: Plate 14](oma47.md)

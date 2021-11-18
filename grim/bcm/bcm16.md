@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm15)  [Next](bcm17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm15)  [Next](bcm17.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ the process depends. It is made of white wax, and is inscribed as
 hereinafter appears.
 
 <span id="img_07300"></span> [![](tn/generic.jpg)  
-Click to view](img/07300.jpg)
+Click to view](img/07300.jpg.md)
 
 This figure is used for the four chief angels whose government extends
 over the four altitudes of the world, namely, East, West, North and
@@ -146,4 +146,4 @@ entered Gemini in May. And so of the rest in succession.
 
 ------------------------------------------------------------------------
 
-[Next: Section 5: The Fourth Book of Cornelius Agrippa](bcm17)
+[Next: Section 5: The Fourth Book of Cornelius Agrippa](bcm17.md)

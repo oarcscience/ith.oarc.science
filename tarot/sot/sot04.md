@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot03) 
-[Next](sot05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot03.md) 
+[Next](sot05.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ and the gate to it, and the mystery, and the initiation."
 
 ------------------------------------------------------------------------
 
-[Next: Card XXI. The World](sot05)
+[Next: Card XXI. The World](sot05.md)

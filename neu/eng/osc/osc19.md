@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc18)  [Next](osc20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc18)  [Next](osc20.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ Father Neptune.
 
 ------------------------------------------------------------------------
 
-[Next: (17) Ascension Day--](osc20)
+[Next: (17) Ascension Day--](osc20.md)

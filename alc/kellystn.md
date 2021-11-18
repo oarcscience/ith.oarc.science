@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](hortulan)  [Next](maryprof) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](hortulan)  [Next](maryprof.md) 
 
 ------------------------------------------------------------------------
 
@@ -734,6 +734,6 @@ on account of this Art, history will reveal to future ages.
 
 ------------------------------------------------------------------------
 
-[Next: Mary the Prophetess](maryprof)
+[Next: Mary the Prophetess](maryprof.md)
 
   

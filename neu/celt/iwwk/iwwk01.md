@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](iwwk00)  [Next](iwwk02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](iwwk00)  [Next](iwwk02.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ appeared in their columns.
 
 ------------------------------------------------------------------------
 
-[Next: The Vagrants of Wicklow](iwwk02)
+[Next: The Vagrants of Wicklow](iwwk02.md)

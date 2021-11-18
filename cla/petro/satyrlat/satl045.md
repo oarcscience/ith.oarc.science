@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat08.htm#XLV)  [Previous](satl044) 
-[Next](satl046) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat08.htm#XLV)  [Previous](satl044.md) 
+[Next](satl046.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ quam accepi. Manus manum lavat.
 
 ------------------------------------------------------------------------
 
-[Next: XLVI](satl046)
+[Next: XLVI](satl046.md)

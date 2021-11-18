@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth13.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ this and I want you to pay special heed to what I say: Every time you
 turn to the Infinite Mind, the Absolute Divine Centre, God, Infinite
 Spirit, whatever name you prefer to use does not matter (neither does it
 matter if you seek Infinite Good within you, or above you), every time
-you get into conscious union [with](errata.htm#26) the Divine Spirit and
+you get into conscious union [with](errata.htm#26.md) the Divine Spirit and
 
 <span id="page_283">p. 283</span>
 

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb11)  [Next](ftb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb11)  [Next](ftb13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -24,20 +24,20 @@ Textual Heritage
 
 <span id="img_11000"></span> <span align="CENTER"> [![Guilcher on the
 haunted heath](tn/11000.jpg)  
-Click to enlarge](img/11000.jpg)  
+Click to enlarge](img/11000.jpg.md)  
 Guilcher on the haunted heath  
 </span>
 
 <span id="page_111">p. 111</span>
 
 <span id="img_11100"></span> ![The Hunchback and the
-Elves](img/11100.jpg)
+Elves](img/11100.jpg.md)
 
 <span id="img_11101"></span>
 
 |                     |
 |---------------------|
-| ![I](img/11101.jpg) |
+| ![I](img/11101.jpg.md) |
 
 N the parish of Plaudren in Brittany there used to be a certain heath on
 which, amidst rows of towering stones, there was a village of elves.
@@ -417,8 +417,8 @@ lived happily for many years and had a lot of children who are all fine
 gentlemen today.
 
 <span id="img_12200"></span> ![Only sand, leaves and
-scissors!](img/12200.jpg)
+scissors!](img/12200.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Four Gifts](ftb13)
+[Next: The Four Gifts](ftb13.md)

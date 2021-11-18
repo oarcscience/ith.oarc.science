@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt03)  [Next](egt05) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt03)  [Next](egt05.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 # I.--LIFE OF THE AUTHOR.
 
-Abû'l-Majd Majdûd b. Adam Sanâ'î <span id="fr_0"></span>[1](#fn_0) was
+Abû'l-Majd Majdûd b. Adam Sanâ'î <span id="fr_0"></span>[1](#fn_0.md) was
 born at <u>Gh</u>azna, and lived in the reign of Bahrâmshâh (A.H.
 512-548, A.D. 1118-1152). Ouseley says of him that he "while yet young
 became one of the most learned, devout, and excellent men of the age
@@ -106,7 +106,7 @@ whom the above list is taken, to be very rare.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](egt04.htm#fr_0) For the facts contained
+<span id="fn_0"></span>[vii:1](egt04.htm#fr_0.md) For the facts contained
 in the following sketch I am indebted to Sir Gore Ouseley's
 "Biographical Notices of the Persian Poets," Lond., Or. Trans. Fund,
 1846; Rieu's and Ethé's Catalogues; and Prof. Browne's "A Literary
@@ -114,4 +114,4 @@ History of Persia," Vol. II.
 
 ------------------------------------------------------------------------
 
-[Next: II.--Manuscripts and Lithographs.](egt05)
+[Next: II.--Manuscripts and Lithographs.](egt05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi124)  [Next](mtsi126) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi124)  [Next](mtsi126.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ also ran away and disappeared.
 
 ------------------------------------------------------------------------
 
-[Next: 33. The Tar Baby](mtsi126)
+[Next: 33. The Tar Baby](mtsi126.md)

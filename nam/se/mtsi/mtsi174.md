@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi173)  [Next](mtsi175) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi173)  [Next](mtsi175.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ said. Then he disappeared.
 
 ------------------------------------------------------------------------
 
-[Next: 39. The Owl and the Hawk (Second Version)](mtsi175)
+[Next: 39. The Owl and the Hawk (Second Version)](mtsi175.md)

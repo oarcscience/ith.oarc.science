@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg75)  [Next](cdg77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg75)  [Next](cdg77.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ class="small">MICAH, CHAPTER iv, VERSES 1-5.</span>
 ------------------------------------------------------------------------
 
 [Next: Fifth Prophecy. Elder Edda. Prophecy of World Peace and Return of
-the Ancient Wisdom](cdg77)
+the Ancient Wisdom](cdg77.md)

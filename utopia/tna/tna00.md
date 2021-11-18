@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Next](tna01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Next](tna01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0192838857/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0192838857/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Introductory Note](tna01)
+[Next: Introductory Note](tna01.md)

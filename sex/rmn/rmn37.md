@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn36)  [Next](rmn38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn36)  [Next](rmn38.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,14 +33,14 @@ The god was represented there in a most indecent posture, symbolical of
 fecundity. Wit and eloquence were the attributes of Mercury, and it was
 natural that the ancients should revere in him those powerful
 auxiliaries of seduction and pleasure. <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_42"></span>[74:1](rmn37.htm#fr_42) PAUSANIAS.
+<span id="fn_42"></span>[74:1](rmn37.htm#fr_42.md) PAUSANIAS.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXVII: An Erotic Scene](rmn38)
+[Next: Plate XXXVII: An Erotic Scene](rmn38.md)

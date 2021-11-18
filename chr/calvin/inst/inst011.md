@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst010)  [Next](inst012) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst010)  [Next](inst012.md) 
 
 ------------------------------------------------------------------------
 
@@ -291,4 +291,4 @@ Their spuriousness proved, and their true character explained.
 
 ------------------------------------------------------------------------
 
-[Next: INSTITUTES OF THE CHRISTIAN RELIGION](inst012)
+[Next: INSTITUTES OF THE CHRISTIAN RELIGION](inst012.md)

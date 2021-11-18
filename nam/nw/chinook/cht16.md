@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht15)  [Next](cht17) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht15)  [Next](cht17.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ his brother, "Make a fire." Robin made a fire. Blue-Jay went and carried
 the fish up to the house. He cut it and Robin said: "I will have its
 tail, I will have its breast, I will have its head." Then Blue-Jay
 became angry: "You want to have everything for yourself; the
-Q<u>!</u>tê'nse <span id="fr_2"></span>[1](#fn_2) are going to eat what
+Q<u>!</u>tê'nse <span id="fr_2"></span>[1](#fn_2.md) are going to eat what
 at has been killed for you." Then Robin cried; he took his work and left
 the house. He cried outside. Blue-Jay finished cutting the fish. Then he
 called his elder brother \[and said\]: "Come in, come in, you poor one,
@@ -77,8 +77,8 @@ the house. Their house became full.
 
 ### Footnotes
 
-<span id="fn_2"></span>[151:1](cht16.htm#fr_2) All imaginary tribe.
+<span id="fn_2"></span>[151:1](cht16.htm#fr_2.md) All imaginary tribe.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Blue-Jay and Iô'i](cht17)
+[Next: 18. Blue-Jay and Iô'i](cht17.md)

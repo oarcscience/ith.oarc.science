@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc015) 
-[Next](motc017) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc015.md) 
+[Next](motc017.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ Rabbit watched his chance and jumped out and got away.
 
 ------------------------------------------------------------------------
 
-[Next: 17. How The Rabbit Stole The Otter's Coat](motc017)
+[Next: 17. How The Rabbit Stole The Otter's Coat](motc017.md)

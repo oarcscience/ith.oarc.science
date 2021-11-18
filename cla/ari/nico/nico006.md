@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico005) 
-[Next](nico007) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico005.md) 
+[Next](nico007.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ these topics.
 
 [Next: Chapter 7. The good must be something final and self-sufficient.
 Definition of happiness reached by considering the characteristic
-function of man](nico007)
+function of man](nico007.md)

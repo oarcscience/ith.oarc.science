@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Hindu
-Articles](../../hin/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Hindu
+Articles](../../hin/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ of the religion which he developed, rather than actually founded.
    Bisambhar (Vishvambhara) Mišr was the youngest son of Jagannâth Mišr,
 a Brahman, native of the district of Sylhet in Eastern Bengal, who had
 emigrated before the birth of his son to Nadiya (Nabadwîpa), the capital
-of Bengal.<span id="page_1_fr_*"></span>[\*](#page_1_note_*) His mother
+of Bengal.<span id="page_1_fr_*"></span>[\*](#page_1_note_*.md) His mother
 was Sachi Debi, daughter of Nilámbar Chakravarti. She bore to Jagannâth
 eight daughters who all died young; her first-born child, however, was a
 son named Biswarúp, who afterwards under the name of Nityânand became
@@ -74,7 +74,7 @@ Phâlgun 1407 Sakábda, corresponding to the latter part of February or
 beginning of March A.D. 1486. It is noted that there was an eclipse of
 the moon on that day. By the aid of these indications those who care to
 do so can find out the exact day.<span
-id="page_1_fr_†"></span>[†](#page_1_note_†) The passages in the original
+id="page_1_fr_†"></span>[†](#page_1_note_†.md) The passages in the original
 are:--
 
 <table data-align="center">
@@ -264,7 +264,7 @@ and lastly rises to *Mádhurya* or earnest, all-engrossing love.
 
    Vaish.navism is singularly like Sufiism, the resemblance has often
 been noticed, and need here only be briefly traced.<span
-id="page_3_fr_*"></span>[\*](#page_3_note_*) With the latter the first
+id="page_3_fr_*"></span>[\*](#page_3_note_*.md) With the latter the first
 degree is *nâsût* or 'humanity' in which man is subject to the law
 *shara*, the second *tarîkat*, 'the way' of spiritualism, the third
 *´arûf* or 'knowledge,' and the fourth *hakîkat* or 'the truth.' Some
@@ -295,7 +295,7 @@ So must also Vaish.navism differ from true religion, the flesh from the
 spirit, the impure from the pure. The singing of hymns about Râdhâ and
 K.rish.na is much older than Chaitanya's age. Not to mention Jayadeva
 and his beautiful, though sensual, Gîtagovinda.<span
-id="page_4_fr_*"></span>[\*](#page_4_note_*) Bidyapati, the earliest of
+id="page_4_fr_*"></span>[\*](#page_4_note_*.md) Bidyapati, the earliest of
 Bengali poets, and Cha.n.di Dâs both preceded Chaitanya, and he himself
 is stated to have been fond of singing their verses. There was therefore
 a considerable mass of hymns ready to his hand, and his contemporaries
@@ -345,7 +345,7 @@ own <span id="page_5">p. 5</span> beloved, hail! hail to him who is the
 joy of the existence of his well-beloved! hail to the delight of the
 eyes of his comrades in Braj! hail to the charm of the sight of the
 women of Nadiya! hail! hail to Sridam, Sudam, Subal, and Arjun,<span
-id="page_5_fr_*"></span>[\*](#page_5_note_*) bound by love to him whose
+id="page_5_fr_*"></span>[\*](#page_5_note_*.md) bound by love to him whose
 form is as a new cloud! hail to Râm and the rest, beautiful and dear
 companions! hail to the charmer, the incomparable Gora (Chaitanya)! hail
 to the mighty younger brother of Balarâm! hail! hail to Nityânand (who
@@ -385,7 +385,7 @@ enjoyment, he planned a great festivity. Hearing this, smiling with joy,
 Sîtâ Thâkurânî coming spoke a sweet word: hearing that with joyful mind
 the son of Sachî spoke somewhat in regard to arranging the festival.
 'Listen, Thâkurânî Sîtâ,<span
-id="page_5_fr_†"></span>[†](#page_5_note_†) bring the Baishnabs here;
+id="page_5_fr_†"></span>[†](#page_5_note_†.md) bring the Baishnabs here;
 making pressing invitation to them: whoso can sing, whoso can play,
 invite them separately, man by man.' Thus Gora Rai speaking gave orders
 for an assembly: 'Invite the Baishnabs! Bring out the cymbal and drum,
@@ -418,7 +418,7 @@ garlands and sandal-paste, for the celebration of the *Kîrtan*; joy is
 in the hearts of all, hither come the Vaish.navas, to-morrow will be
 Chaitanya's kîrtan; the virtue of Šrî K.rish.na Chaitanya's name, and
 the indwelling of Šrî Nityânand singeth Dâs Brindaban.<span
-id="page_6_fr_*"></span>[\*](#page_6_note_*)
+id="page_6_fr_*"></span>[\*](#page_6_note_*.md)
 
    4. Jay! jay! in Nawadwip; by Gorang's order Adwaita goes to prepare
 the consecration of the drum. Bringing all the Vaish.navas with sound of
@@ -452,7 +452,7 @@ her ornaments fall with a clang. Youthful in age, of royal descent, and
 a chaste maiden to boot: what does she desire, (why) does her longing
 increase? I cannot understand her motives: from her conduct, this I
 conceive, she has raised her hand to the moon<span
-id="page_6_fr_‡"></span>[‡](#page_6_note_‡): Cha.n.di Dâs says with
+id="page_6_fr_‡"></span>[‡](#page_6_note_‡.md): Cha.n.di Dâs says with
 respect she has fallen into the snare of the black one (K.rish.na)."
 
    This poem vividly expresses the first symptoms of love dawning in the
@@ -496,7 +496,7 @@ however, I hope still further to develop at some future time.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Hindu Articles](../../hin/etc/index)
+[Journals](../index) [Hindu Articles](../../hin/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -504,7 +504,7 @@ however, I hope still further to develop at some future time.
 
 <span id="footnotes_page_1">p. 1</span>
 
-<span id="page_1_note_*"></span>[\*](#page_1_fr_*) The facts which here
+<span id="page_1_note_*"></span>[\*](#page_1_fr_*.md) The facts which here
 follow are taken from the "Chaitanyacharitâmrita," a metrical life of
 Chaitanya, the greater part of which was probably written by a
 contemporary of the teacher himself. The style has unfortunately been
@@ -513,12 +513,12 @@ in Bengali. My esteemed friend Babu Jagadishnath Ray has kindly gone
 through the book, a task for which I had not leisure, and marked some of
 the salient points for me.
 
-<span id="page_1_note_†"></span>[†](#page_1_fr_†) There was an eclipse
+<span id="page_1_note_†"></span>[†](#page_1_fr_†.md) There was an eclipse
 of the moon before midnight Feb. 18, O.S. 1486.
 
 <span id="footnotes_page_3">p. 3</span>
 
-<span id="page_3_note_*"></span>[\*](#page_3_fr_*) Conf. Capt. J. W.
+<span id="page_3_note_*"></span>[\*](#page_3_fr_*.md) Conf. Capt. J. W.
 Graham's paper 'On Sufiism,' *Bombay Literary Soc. Trans.* Vol. I. pp.
 89 et seqq.; Râjendralâla Mittra's valuable introduction to the
 *Chaitanya Chandrodaya* (Biblioth. Ind.), pp. ii-iv and xv; also Jones'
@@ -528,25 +528,25 @@ XI. pp. 363-428.--ED.
 
 <span id="footnotes_page_4">p. 4</span>
 
-<span id="page_4_note_*"></span>[\*](#page_4_fr_*) It is many years now
+<span id="page_4_note_*"></span>[\*](#page_4_fr_*.md) It is many years now
 since I read Gitagovinda as a text-book at college, but the impression I
 still retain is that it was in many parts far too warm for European
 tastes.
 
 <span id="footnotes_page_5">p. 5</span>
 
-<span id="page_5_note_*"></span>[\*](#page_5_fr_*) Names of Chaitanya's
+<span id="page_5_note_*"></span>[\*](#page_5_fr_*.md) Names of Chaitanya's
 disciples.
 
-<span id="page_5_note_†"></span>[†](#page_5_fr_†) Sîta was the wife of
+<span id="page_5_note_†"></span>[†](#page_5_fr_†.md) Sîta was the wife of
 Adwaita.
 
 <span id="footnotes_page_6">p. 6</span>
 
-<span id="page_6_note_*"></span>[\*](#page_6_fr_*) The poet's name is
+<span id="page_6_note_*"></span>[\*](#page_6_fr_*.md) The poet's name is
 inverted to make a rhyme for Kîrtan in the preceding line.
 
-<span id="page_6_note_‡"></span>[‡](#page_6_fr_‡) She has formed some
+<span id="page_6_note_‡"></span>[‡](#page_6_fr_‡.md) She has formed some
 extravagant desire.
 
  

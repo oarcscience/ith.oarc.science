@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mks00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mks.txt.gz)
+[Contents](#contents)    [Start Reading](mks00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mks.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -55,41 +55,41 @@ banned by some religious groups, and central to the success of a certain
 well-known software tycoon. I was unable to confirm or disprove any of
 these rumors. However, the Master Key System has had a huge influence on
 successive New Thought writers, particularly those preaching 'Prosperity
-Consciousness.' [Think and Grow Rich](../tgr/index) bears more than a
+Consciousness.' [Think and Grow Rich](../tgr/index.md) bears more than a
 passing resemblance to the Master Key System. The 'Law of Attraction' at
 the heart of Haanel's system has been acknowledged as one of the primary
 sources for The Secret.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mks00)  
-[Contents](mks01)  
-[Introduction](mks02)  
-[The Master Key Psychological Chart](mks03)  
-[Part One](mks04)  
-[Part Two](mks05)  
-[Part Three](mks06)  
-[Part Four](mks07)  
-[Part Five](mks08)  
-[Part Six](mks09)  
-[Part Seven](mks10)  
-[Part Eight](mks11)  
-[Part Nine](mks12)  
-[Part Ten](mks13)  
-[Part Eleven](mks14)  
-[Part Twelve](mks15)  
-[Part Thirteen](mks16)  
-[Part Fourteen](mks17)  
-[Part Fifteen](mks18)  
-[Part Sixteen](mks19)  
-[Part Seventeen](mks20)  
-[Part Eighteen](mks21)  
-[Part Nineteen](mks22)  
-[Part Twenty](mks23)  
-[Part Twenty-One](mks24)  
-[Part Twenty-Two](mks25)  
-[Part Twenty-Three](mks26)  
-[Part Twenty-Four](mks27)  
-[Glossary](mks28)  
-[Questions and Answers](mks29)  
-[Index](mks30)  
+<span id="contents"></span> [Title Page](mks00.md)  
+[Contents](mks01.md)  
+[Introduction](mks02.md)  
+[The Master Key Psychological Chart](mks03.md)  
+[Part One](mks04.md)  
+[Part Two](mks05.md)  
+[Part Three](mks06.md)  
+[Part Four](mks07.md)  
+[Part Five](mks08.md)  
+[Part Six](mks09.md)  
+[Part Seven](mks10.md)  
+[Part Eight](mks11.md)  
+[Part Nine](mks12.md)  
+[Part Ten](mks13.md)  
+[Part Eleven](mks14.md)  
+[Part Twelve](mks15.md)  
+[Part Thirteen](mks16.md)  
+[Part Fourteen](mks17.md)  
+[Part Fifteen](mks18.md)  
+[Part Sixteen](mks19.md)  
+[Part Seventeen](mks20.md)  
+[Part Eighteen](mks21.md)  
+[Part Nineteen](mks22.md)  
+[Part Twenty](mks23.md)  
+[Part Twenty-One](mks24.md)  
+[Part Twenty-Two](mks25.md)  
+[Part Twenty-Three](mks26.md)  
+[Part Twenty-Four](mks27.md)  
+[Glossary](mks28.md)  
+[Questions and Answers](mks29.md)  
+[Index](mks30.md)  

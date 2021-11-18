@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt07) [Next](bkt09)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt07) [Next](bkt09.md)
 
 ------------------------------------------------------------------------
 
@@ -203,7 +203,7 @@ and to obtain his freedom from the king. The butler did not remember
 him; but the tree before his door withered, and his fountain was dried
 up, because, instead <span id="page_106">p. 106</span> of trusting in
 Allah, he had relied upon the help of a feeble man.<span
-id="page_106_fr_*"></span>[\*](#page_106_note_*) He was seven years in
+id="page_106_fr_*"></span>[\*](#page_106_note_*.md) He was seven years in
 prison when one morning he saw the butler again. He came to lead him
 before the king, who had had a dream which no one was able to interpret.
 But Joseph refused to appear unless he had first convinced the king of
@@ -213,7 +213,7 @@ summoned Zuleicha and her friends. They confessed that they had falsely
 accused Joseph. Rajjan then sent a writing, which not only restored him
 to liberty, but even declared the imprisonment which he had endured to
 have been unjust, and the result of a calumnious charge.<span
-id="page_106_fr_dagger"></span>[†](#page_106_note_dagger)
+id="page_106_fr_dagger"></span>[†](#page_106_note_dagger.md)
 
    Joseph then put on the robes which Rajjan had sent him, and was
 conducted to the royal palace, where the king had assembled about him
@@ -264,7 +264,7 @@ be found, and Jacob was forced to send all his sons save Benjamin to buy
 provisions in Egypt. He recommended them to enter the capital by the ten
 different gates, so as not to attract the evil eye by the beauty of
 their appearance, and to avoid public attention.<span
-id="page_108_fr_*"></span>[\*](#page_108_note_*)
+id="page_108_fr_*"></span>[\*](#page_108_note_*.md)
 
 <span id="page_109">p. 109</span>
 
@@ -321,7 +321,7 @@ had never ceased to trust to the fulfillment of his dream.
 to free Benjamin by force, for they were so powerful that they could
 engage single-handed with whole hosts of warriors. Judah especially,
 when excited to wrath would roar like a lion, and kill the strongest men
-with his voice;<span id="page_111_fr_*"></span>[\*](#page_111_note_*)
+with his voice;<span id="page_111_fr_*"></span>[\*](#page_111_note_*.md)
 nor could he be pacified until one of his kinsmen touched the prickly
 bunch of <span id="page_112">p. 112</span> hair which, on such
 occasions, protruded from his neck.
@@ -357,7 +357,7 @@ blindness will pass away."
    Scarcely had they left the capital of Egypt when the wind carried the
 fragrance of Joseph's garment to their father, and when Judah, who was
 hastening in advance of his brothers, gave it to him, his eyes were
-opened again.<span id="page_113_fr_*"></span>[\*](#page_113_note_*) They
+opened again.<span id="page_113_fr_*"></span>[\*](#page_113_note_*.md) They
 now departed together for Egypt. Joseph came out to meet them, and,
 having embraced his father, exclaimed, "Lord, thou hast now fulfilled my
 dreams, and given me great power! Creator of heaven and earth, be thou
@@ -370,7 +370,7 @@ Abraham, which was also done. May the peace of Allah be with them!
 
 ------------------------------------------------------------------------
 
-[Next](bkt09)
+[Next](bkt09.md)
 
 ------------------------------------------------------------------------
 
@@ -378,11 +378,11 @@ Abraham, which was also done. May the peace of Allah be with them!
 
 <span id="footnotes_page_106">p. 106</span>
 
-   <span id="page_106_note_*"></span>[\*](#page_106_fr_*) The Midrash
+   <span id="page_106_note_*"></span>[\*](#page_106_fr_*.md) The Midrash
 says, "Joseph remained yet two years in prison, because he had asked the
 chief butler to remember him."
 
-   <span id="page_106_note_dagger"></span>[†](#page_106_fr_dagger)
+   <span id="page_106_note_dagger"></span>[†](#page_106_fr_dagger.md)
 "Potiphar's wife looked so ill, that her friends inquired what she
 complained of. She related her adventure with Joseph, and they said,
 'Accuse him before thy husband, that he may be put in prison.' She
@@ -392,7 +392,7 @@ audacious demeanor toward their wives," &c.—*Midrash*, p. 45.
 
 <span id="footnotes_page_108">p. 108</span>
 
-   <span id="page_108_note_*"></span>[\*](#page_108_fr_*) Jacob said to
+   <span id="page_108_note_*"></span>[\*](#page_108_fr_*.md) Jacob said to
 his sons, "Do not enter by one gate, because of the evil eye." Joseph
 expected his brothers, and therefore commanded the keepers of the gates
 to report every day the names of arriving strangers. One day the first
@@ -408,7 +408,7 @@ p. 46, 47.
 
 <span id="footnotes_page_111">p. 111</span>
 
-   <span id="page_111_note_*"></span>[\*](#page_111_fr_*) "When Joseph
+   <span id="page_111_note_*"></span>[\*](#page_111_fr_*.md) "When Joseph
 would have shut up Simeon, his brothers offered him their assistance,
 but he declined it. Joseph commanded seventy valiant men to put him in
 chains; but when they approached him, Simeon roared so loud that the
@@ -427,7 +427,7 @@ p. 46, 47.
 
 <span id="footnotes_page_113">p. 113</span>
 
-   <span id="page_113_note_*"></span>[\*](#page_113_fr_*) The Jewish
+   <span id="page_113_note_*"></span>[\*](#page_113_fr_*.md) The Jewish
 legend relates, that when the brothers learned Joseph's safety, they
 were unwilling to communicate it to their father, fearing the violent
 effects of sudden joy.

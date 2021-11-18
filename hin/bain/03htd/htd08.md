@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd07)  [Next](htd09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd07)  [Next](htd09.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ recollection. For as a rule, men learn only by experience, and get it
 only when their hair is grey. But there are some, whose memories are
 very strong, and they carry with them knowledge that never leaves them,
 from one birth to the next; and are wise, by reason of the
-influences <span id="fr_24"></span>[l](#fn_24) that come down to them
+influences <span id="fr_24"></span>[l](#fn_24.md) that come down to them
 out of the oblivion of the past. And of these, know that I am one. And
 what though I am, as thou sayest, but a child: yet in such a case as
 this, a child may be wiser than a king: and it may be, that I am wiser
@@ -54,7 +54,7 @@ even than thou art. For I worshipped in a former birth the God of the
 flowery-bow, and learned from his favour secrets, which have bequeathed
 to me impressions even in this birth. And now I will tell thee a little
 of what thou dost not know. Love is a triple cord <span
-id="fr_25"></span>[m](#fn_25). And when all
+id="fr_25"></span>[m](#fn_25.md). And when all
 
 <span id="page_32">p. 32</span>
 
@@ -93,7 +93,7 @@ elements were wanting to the perfection of thy love, and it would not
 have endured. And now thou art free, and punished for thy error, and
 wiser: and it befits thee rather to rejoice than mourn. For who knows
 what awaits him in the future? and who can expect to achieve the highest
-good <span id="fr_26"></span>[n](#fn_26) who does not know what it is
+good <span id="fr_26"></span>[n](#fn_26.md) who does not know what it is
 like? And thou wilt find, no doubt, the perfect trinity of love with my
 mistress, for I would hope that she is worthy of thee.
 
@@ -102,7 +102,7 @@ mistress, for I would hope that she is worthy of thee.
 And as she spoke, the King stood spell-bound. But as she ended, he
 started and exclaimed: Away! speak not of thy mistress, for she is a
 matter of policy and statecraft: tell me only of thyself: for surely
-thou art furnished with cords <span id="fr_27"></span>[o](#fn_27) strong
+thou art furnished with cords <span id="fr_27"></span>[o](#fn_27.md) strong
 enough to make the love of thee immortal, and bind thy lover to thee
 with a knot that will never break. But the *chétí* put her finger on her
 lip. And she shook her pretty head at the King, and said: Hush! speak
@@ -130,23 +130,23 @@ recollections on the surface of his soul.
 
 ### Footnotes
 
-<span id="fn_24"></span>[31:l](htd08.htm#fr_24) Nothing is more
+<span id="fn_24"></span>[31:l](htd08.htm#fr_24.md) Nothing is more
 universally distributed throughout Hindoo literature than this idea of
 the overpowering influences of transmitted reminiscences and
 consequences from previous births. It is only a profound truth in a
 mythological form.
 
-<span id="fn_25"></span>[31:m](htd08.htm#fr_25) There is a play on words
+<span id="fn_25"></span>[31:m](htd08.htm#fr_25.md) There is a play on words
 here which cannot be translated, <span id="page_32">p. 32</span> for
 *guna* means not only a *cord* or *string*, but also a moral *quality*
 or *virtue*: and yet again, a *power* or *multiple*.
 
-<span id="fn_26"></span>[33:n](htd08.htm#fr_26) *purushárta*--' the goal
+<span id="fn_26"></span>[33:n](htd08.htm#fr_26.md) *purushárta*--' the goal
 of man.'
 
-<span id="fn_27"></span>[34:o](htd08.htm#fr_27) Here again *cords* =
+<span id="fn_27"></span>[34:o](htd08.htm#fr_27.md) Here again *cords* =
 *virtues*.
 
 ------------------------------------------------------------------------
 
-[Next: Lotus](htd09)
+[Next: Lotus](htd09.md)

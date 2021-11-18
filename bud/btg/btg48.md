@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg47)  [Next](btg49) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg47)  [Next](btg49.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ supreme wisdom, and undisturbed peace."
 
 ------------------------------------------------------------------------
 
-[Next: The Teacher](btg49)
+[Next: The Teacher](btg49.md)

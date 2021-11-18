@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov01)  [Next](vov03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov01)  [Next](vov03.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,7 +134,7 @@ destroy all that is inimical.
 
 17
 
-He [whom](errata.htm#9) in this world knows wisdom to him, there was no
+He [whom](errata.htm#9.md) in this world knows wisdom to him, there was no
 next world (he is as if in heaven). He shall not lose his soul even in
 the death of Brahma, In that he shall be absorbed in the divine mind.
 
@@ -176,7 +176,7 @@ impurities putting an end to destructions ye shall attain beatitude.
 
 The cat having caught a muskrat delights not in it; but pursues the fowl
 to seize it. Without relinquishing the delights
-([possession](errata.htm#10)) will love cease?
+([possession](errata.htm#10).md) will love cease?
 
 24
 
@@ -210,7 +210,7 @@ manifested to thee O Vemana.
 This ignorant soul (living creature) after living so long imagines that
 to die and be reproduced is the course of nature. To know that heaven
 where we shall be so far advanced as to forget instruction this is
-spirituality. ([Brahman](errata.htm#11))
+spirituality. ([Brahman](errata.htm#11).md)
 
 29
 
@@ -281,7 +281,7 @@ where thou shall forget knowledge. This is Divinity.
 It is the favour of the excellent teacher and through much study that is
 illumed with knowledge and (good conduct) ethics, that shall put thee
 into right path. Teach men that the excellent teacher is himself a part
-of the [Divinity](errata.htm#12).
+of the [Divinity](errata.htm#12.md).
 
 39
 
@@ -450,7 +450,7 @@ Like as water flows in its channel thus does an immersion in that
 knowledge of truth that arises in the mind ultimately (through an
 absorption in the final essence) constitute the perfect saint. Then is
 he like to the Ganges when her streams reach the ocean. (a
-[correct](errata.htm#13) version of awful intricacy).
+[correct](errata.htm#13) version of awful intricacy.md).
 
 64
 
@@ -662,7 +662,7 @@ delightful.
 Seeing that connections keep the world in darkness, connections yet form
 a tie between man and his creator. If all these connections were
 dissolved, then in the true path should man see
-[beatitude](errata.htm#14). (Loose version)
+[beatitude](errata.htm#14). (Loose version.md)
 
 94
 
@@ -708,4 +708,4 @@ anywhere for beatitude to be duly placed in him.
 
 ------------------------------------------------------------------------
 
-[Next: 100-199](vov03)
+[Next: 100-199](vov03.md)

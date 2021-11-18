@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah17)  [Next](toah19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah17)  [Next](toah19.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_85">p. 85</span>
 
-### THE LEGEND OF PALOTQUOPI [55](toah24.htm#xref_55)
+### THE LEGEND OF PALOTQUOPI [55](toah24.htm#xref_55.md)
 
 MANY years ago when the Hopis were living down at Palotquopi they were
 very progressive and prosperous, on account of having water, and having
@@ -33,7 +33,7 @@ the young married women were taking part and instead of putting it on
 during the day time in the plaza, they were dancing in the kiva at
 nights, so they were having a great time of their lives, and it went on
 from bad to worse. Nobody cared who was whose wife or husband, and
-finally they got the wife of their chief. [56](toah24.htm#xref_56) In
+finally they got the wife of their chief. [56](toah24.htm#xref_56.md) In
 those days the chief or any high priest was not supposed to take part in
 social dances or was not to be seen in the kiva with the rest of the
 people. As it was their general rule that they must have patience, and
@@ -124,7 +124,7 @@ But be sure to come after everybody goes to the kiva."
 Late that night Siwiyistiwa went to his uncle's house. Upon entering,
 the Chief took him away into the back room. There they sat down and
 there his uncle smoked his pipe solemnly over the pahos which he had
-prepared. [57](toah24.htm#xref_57) Then he said, "Here I have these
+prepared. [57](toah24.htm#xref_57.md) Then he said, "Here I have these
 things ready for you and tomorrow morning early you will take these
 pahos out with you toward the same direction you have been going and up
 over the mountain ridge. On the other side is an open range. There you
@@ -156,7 +156,7 @@ weapons. My uncle, Tawayistiwa, would like to have them, so he has sent
 me out here to get them but I don't know why."
 
 "Mercy be upon us!" said the deer. "Has he lost his mind and forgot his
-'theory' and law, [58](toah24.htm#xref_58) and is he angry with us all,
+'theory' and law, [58](toah24.htm#xref_58.md) and is he angry with us all,
 and will he use my weapons to destroy his town?" Then he sank down in
 sorrow and in sympathy for all that were ignorant of the coming
 calamity. Shedding quite a few drops of tears, he then looked up and
@@ -168,7 +168,7 @@ another pair will grow out again soon."
 forth his bundle and said to the deer, "Here, I have some pahos which my
 uncle, Chief Tawayistiwa, has made and sent them to you, hoping to make
 you all happy. He also said that all you people (game
-) [59](toah24.htm#xref_59) living down here in the lower country must
+) [59](toah24.htm#xref_59.md) living down here in the lower country must
 get to moving and drift over to the higher mountains to the northeast,
 that you may be saved, so take these pahos to your people and tell them
 what the Chief has said about moving."
@@ -189,7 +189,7 @@ youth seated himself the Chief got out his bag of tobacco and pipe and
 then he said to his nephew, "If you have anything that you have brought
 me you may lay it here before me that I may give it a welcome smoke." So
 the boy laid the two horns down on a plaque on the floor before the
-Chief. He was very much [gratified](errata.htm#4) with the little horns
+Chief. He was very much [gratified](errata.htm#4.md) with the little horns
 as though they were for some benefaction of his people. After smoking
 his pipe, the Chief asked Siwiyistiwa about his trip and the boy told
 him all about it.
@@ -240,10 +240,10 @@ thought to be an outcast and he was with some other boys who were
 looking down at the dance from the kiva top. This boy was not at all
 frightened and saw everything. He called down into the kiva to the
 dancers and told them that some dreadful ghost had come, but everybody
-called him a liar and would not believe him. [60](toah24.htm#xref_60)
+called him a liar and would not believe him. [60](toah24.htm#xref_60.md)
 
 This boy, whose name was Kochoilaftiyo (Poker Boy) was just a poor boy
-and was living with his old grandmother. [61](toah24.htm#xref_61)
+and was living with his old grandmother. [61](toah24.htm#xref_61.md)
 Regardless of what Kochoilaftiyo had told the people in the kiva about
 the ghost, the dancing went on with full force until morning. But that
 day, everybody was telling about this terrible ghost and so the young
@@ -281,12 +281,12 @@ When he came back with it the old woman brought out from the back room
 her materials of feathers and cotton yarns of which she made two prayer
 plumes and put them on this sumac twig and with her little pipe she
 smoked her earnest prayer over her offering to the
-gods. [62](toah24.htm#xref_62) "Take this, my son," she said to the boy,
+gods. [62](toah24.htm#xref_62.md) "Take this, my son," she said to the boy,
 "to the Masauwu shrine and set it therein and pray for the best, but
 before you leave look around carefully and if you find there Masauwu's
 digging stick, pick it up and replace it with this one. This is the
 exact duplicate of it." As she said this she handed him an old digging
-stick pretty well weathered. [63](toah24.htm#xref_63) Kochoilaftiyo took
+stick pretty well weathered. [63](toah24.htm#xref_63.md) Kochoilaftiyo took
 the stick and the prayer offering to the shrine. There he placed the
 pahos, looked around carefully, and seeing the stick he picked it up and
 replaced it with his grandmother's. Then he came back. The grandmother
@@ -298,9 +298,9 @@ yourself in the narrow alley through which he comes and goes."
 That evening after dark Kochoilaftiyo, instead of going to the kiva top
 to look on the dance, went into the alley to wait for the ghost. As he
 was sitting there in the dark someone came and the boy looked and alas,
-there was Masauwu [64](toah24.htm#xref_64) himself, standing before him
+there was Masauwu [64](toah24.htm#xref_64.md) himself, standing before him
 and Kochoilaftiyo was stunned with fright for a moment and could not
-speak. "[You](errata.htm#5) certainly did a wise thing," said Masauwu to
+speak. "[You](errata.htm#5.md) certainly did a wise thing," said Masauwu to
 the boy, "by taking my stick, but here is something that will hide you
 and keep you from being seen," and he handed him four grass brush
 bristles and advised him what to do. Kochoilaftiyo was very thankful and
@@ -406,7 +406,7 @@ and then out of the grave a great water serpent of enormous size
 appeared and stood swaying back and forth and also, at every corner of
 the plaza others appeared but they were not quite of the size of the one
 at the shrine, who had come up out of the
-grave. [65](toah24.htm#xref_65) Now water came shooting up out of the
+grave. [65](toah24.htm#xref_65.md) Now water came shooting up out of the
 corners of the plaza where these serpents stood swaying, and soon there
 was water everywhere. The rain kept up and the waters were raising
 higher and higher. Now the people began to move to the higher ground,
@@ -458,7 +458,7 @@ you to be our chief from now on."
 <span id="page_95">p. 95</span>
 
 "No," said the Chief, "your wishes and footsteps will be our path and
-here with my tiponi you shall lead our people." [66](toah24.htm#xref_66)
+here with my tiponi you shall lead our people." [66](toah24.htm#xref_66.md)
 
 "I shall not take yours," said Kochoilaftiyo, "I and my grandmother have
 our own in which we believe and trust and it is without stains of evil.
@@ -526,10 +526,10 @@ The two children went up to the house as they were directed, and to
 their surprise they found some odd looking birds with no feathers on
 their heads, and the ends of their tail feathers were still covered with
 the foam from the water which had turned them white, and away over in
-one corner there sat still another bird looking [somewhat](errata.htm#6)
+one corner there sat still another bird looking [somewhat](errata.htm#6.md)
 the same as the others, but the ends of his tail feathers were not
 white. After letting these birds down from their roosts they spoke to
-the children, saying, "We all thank you, [Tiwahongva](errata.htm#7) and
+the children, saying, "We all thank you, [Tiwahongva](errata.htm#7.md) and
 Tawiayisnima, for we are the innocent elderly people. We could not swim
 and so here we had turned into birds and we are now the turkeys, and
 from now on our feathers will be helpful to your people for making
@@ -538,7 +538,7 @@ prayer offerings to the gods."
 "And I am the buzzard," said the other strange bird, and with my
 feathers, after all the sacred ceremonies the members will be
 'discharmed' and they will also be used for 'discharming' the sick and
-evil among all the people. [67](toah24.htm#xref_67) And again we all
+evil among all the people. [67](toah24.htm#xref_67.md) And again we all
 thank you for letting us down and out, so here we go, and good-bye." As
 they flew away the buzzard went up and circled around overhead four
 times to "discharm" the ruined town, then he followed the rest of the
@@ -582,7 +582,7 @@ wondered what it could be. Tiwahongva held his sister tightly to his
 breast, and behold, someone had descended from the heavens all clothed
 in a glittering costume of ice that sparkled like silver and his head
 and face shone like a star. He spoke to them and said, "Do not fear, I
-am So-tukeu-nangwi, [68](toah24.htm#xref_68) the heavenly God and
+am So-tukeu-nangwi, [68](toah24.htm#xref_68.md) the heavenly God and
 because of the sympathy I have for you I have come to help you, so come
 get on this shield (Yo-vota) of mine and let us be on the way." When
 they had climbed onto the shield, up they went into the heavens. The two
@@ -672,7 +672,7 @@ they did everything that So-tukeu-nangwi had told them to do. They
 broadcast the seeds and on them it rained and rained. Then the sun came
 out and shown brightly on them and heated them and caused them to
 germinate, and in a few days the little plants sprang up. While these
-Nasiwum [69](toah24.htm#xref_69) (brother and sister) would play around
+Nasiwum [69](toah24.htm#xref_69) (brother and sister.md) would play around
 with the rest of the children they were always telling them not to pull
 up the plants for they would bear fruit for the people. And every few
 days it would rain, which kept the plants growing quite fast and all
@@ -693,7 +693,7 @@ at Nuvaquayotaka (Chavez Pass--a butte with snow belt on). Here again
 they lived very prosperously. But knowing that this was not to be their
 destination they moved on up to Homolovi (east bank of the Little
 Colorado river, near Winslow). There they were divided into many groups
-and established their villages here and there. [70](toah24.htm#xref_70)
+and established their villages here and there. [70](toah24.htm#xref_70.md)
 
 Their life here was miserable on account of many mosquitos. These
 insects caused deaths, especially to the young children, so they moved
@@ -740,7 +740,7 @@ day Nasiwum were more than discouraged--they had given up all hope, and
 said that they would stay just where they were and they refused to enter
 into the town. But Kochoilaftiyo and his grandmother went in with the
 rest. In a few days Nasiwum had disappeared and no one knew where they
-had gone. [71](toah24.htm#xref_71) At Mishongnovi and over at Awatovi
+had gone. [71](toah24.htm#xref_71.md) At Mishongnovi and over at Awatovi
 these people had less trouble of being permitted to enter. But at Walpi
 they had received the same kind of treatment, or even worse than at
 Shung-opovi, so it was hopeless to try again and they decided to move on
@@ -748,7 +748,7 @@ to Siotuka (Onion Point).
 
 By this time, old man Masauwu got anxious and excited, so he rushed up
 to the town to see the people who had taken his name for their
-clan. [72](toah24.htm#xref_72) He told them that these people whom the
+clan. [72](toah24.htm#xref_72.md) He told them that these people whom the
 chief of Walpi had refused were religious and were honest in their
 ceremony and that it would bring rain. Said he, "You must not forget and
 must remember that I am the one that owns this whole territory. The
@@ -806,9 +806,9 @@ dune covering this whole mesa and the butte that you see there today was
 covered, heaped up with sand, and every summer it would be covered with
 flowers of many different varieties. Later all this sand was drifted
 away off this mesa, by strong winds, and these sand dunes are now away
-over above Wepo Spring and are still slowly [drifting](errata.htm#8)
-on. [73](toah24.htm#xref_73),  [74](toah24.htm#xref_74)
+over above Wepo Spring and are still slowly [drifting](errata.htm#8.md)
+on. [73](toah24.htm#xref_73),  [74](toah24.htm#xref_74.md)
 
 ------------------------------------------------------------------------
 
-[Next: Yaponcha, the Wind God](toah19)
+[Next: Yaponcha, the Wind God](toah19.md)

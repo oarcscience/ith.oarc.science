@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal021)  [Next](njal023) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal021)  [Next](njal023.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ thee in thy suit." So Gunnar thanked Njal, and first of all rode home.
 
 ------------------------------------------------------------------------
 
-[Next: 23. Huckster Hedinn.](njal023)
+[Next: 23. Huckster Hedinn.](njal023.md)

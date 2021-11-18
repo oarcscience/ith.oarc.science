@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft33)  [Next](tft35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft33)  [Next](tft35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -19,7 +19,7 @@ Heritage
 
 #### THIRTY-ONE
 
-## The Two Little Cats <span id="fr_1"></span>[1](#fn_1)
+## The Two Little Cats <span id="fr_1"></span>[1](#fn_1.md)
 
 <span class="small">An arrow aimed straight will find the heart of your
 foe. But if you have no foe it does not matter about the arrow.  
@@ -82,9 +82,9 @@ peace.
 
 ### Footnotes
 
-<span id="fn_1"></span>[128:1](tft34.htm#fr_1) Told to me by little Lora
+<span id="fn_1"></span>[128:1](tft34.htm#fr_1.md) Told to me by little Lora
 MacLeod, now age six, who had been out of Tibet for about eight months.
 
 ------------------------------------------------------------------------
 
-[Next: Thirty-Two: Story of a Juggler's Tricks](tft35)
+[Next: Thirty-Two: Story of a Juggler's Tricks](tft35.md)

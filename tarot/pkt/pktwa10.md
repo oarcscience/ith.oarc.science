@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktwapa)  [Next](pktwa09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktwapa)  [Next](pktwa09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Ten
 
 <span id="img_wa10"></span> <span align="CENTER"> [![](tn/wa10.jpg)  
-Click to enlarge](img/wa10.jpg)</span>
+Click to enlarge](img/wa10.jpg.md)</span>
 
 A man oppressed by the weight of the ten staves which he is carrying.
 *Divinatory Meanings*: A card of many significances, and some of the
@@ -35,4 +35,4 @@ Contrarieties, difficulties, intrigues, and their analogies.
 
 ------------------------------------------------------------------------
 
-[Next: Nine of Wands](pktwa09)
+[Next: Nine of Wands](pktwa09.md)

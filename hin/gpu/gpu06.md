@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu05)  [Next](gpu07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu05)  [Next](gpu07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -208,7 +208,7 @@ those who destroy hopes;--these certainly go to hell.
 <span id="page_36">p. 36</span>
 
 51\. He who interferes with marriage, processions of the Shining
-Ones, <span id="fr_54"></span>[1](#fn_53) or bands of pilgrims, dwells
+Ones, <span id="fr_54"></span>[1](#fn_53.md) or bands of pilgrims, dwells
 in a dreadful hell from which there is no return.
 
 52\. The very sinful man who sets fire to a house, a village or a wood,
@@ -259,13 +259,13 @@ infested with grievous maladies, and bearing the marks of sin.
 
 ### Footnotes
 
-<span id="fn_53"></span>[36:1](gpu06.htm#fr_54) The images are carried
+<span id="fn_53"></span>[36:1](gpu06.htm#fr_54.md) The images are carried
 round the streets on occasions.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. An Account of the Signs of Sins](gpu07)
+[Next: Chapter V. An Account of the Signs of Sins](gpu07.md)
 
 </div>

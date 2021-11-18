@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus08)  [Next](csus10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus08)  [Next](csus10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -384,7 +384,7 @@ warm-hearted friendliness with which they saluted the elder Rapp. I was
 also much gratified to see vessels containing fresh sweet-scented
 flowers standing on all the machines. The neatness which universally
 reigns is in every respect worthy of praise." <span
-id="fr_2"></span>[\*](#fn_2)
+id="fr_2"></span>[\*](#fn_2.md)
 
 This account shows the remarkable rapidity with which they had built up
 the new town.
@@ -454,11 +454,11 @@ time could command.
 
 ### Footnotes
 
-<span id="fn_2"></span>[79:\*](csus09.htm#fr_2) "Travels through North
+<span id="fn_2"></span>[79:\*](csus09.htm#fr_2.md) "Travels through North
 America, during the years 1825-26, by His Highness, Bernhard, Duke of
 Saxe-Weimar Eisenach." Philadelphia, 1828.
 
 ------------------------------------------------------------------------
 
 [Next: III.—Doctrines and Practical Life In Economy; With Some
-Particulars of “Father Rapp.”](csus10)
+Particulars of “Father Rapp.”](csus10.md)

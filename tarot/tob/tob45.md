@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob44) 
-[Next](tob46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob44.md) 
+[Next](tob46.md) 
 
 ------------------------------------------------------------------------
 
@@ -299,7 +299,7 @@ hierarchized quaternaries as a representation of the Universe
 
 The extreme terms, α and ω, Spirit and Matter, equally incomprehensible
 to human intelligence in their infinite grandeur and infinite
-littleness, <span id="fr_82"></span>[1](#fn_82) are not only linked
+littleness, <span id="fr_82"></span>[1](#fn_82.md) are not only linked
 together by invariable intermediate chains, but they also make an
 incessantly descending movement from one to the other, in which the
 Spirit becomes Matter by the successive disintegrations which express
@@ -554,7 +554,7 @@ ARCANUM XIII.: *Death*.
 Fourth hour of Apollonius: "*The Neophyte wanders in the sepulchres, and
 it will injure him; he will experience horror and fear of visions; he
 should devote himself to magic and to géotie*." <span
-id="fr_83"></span>[1](#fn_83)
+id="fr_83"></span>[1](#fn_83.md)
 
 This is Necromancy, the application of Force to the domination of
 inferior living beings: *Elemental*, or organisms ready to synthetize
@@ -832,13 +832,13 @@ F. CH. BARLET.
 
 ### Footnotes
 
-<span id="fn_82"></span>[260:1](tob45.htm#fr_82) The first α, *One* and
+<span id="fn_82"></span>[260:1](tob45.htm#fr_82.md) The first α, *One* and
 infinitely great; integration of Ω. The second ω, a multiple composed of
 an *infinite number* of infinitely tiny elements; analysis of α.
 
-<span id="fn_83"></span>[267:1](tob45.htm#fr_83) The magic which evokes
+<span id="fn_83"></span>[267:1](tob45.htm#fr_83.md) The magic which evokes
 the evil genii who injure man--A.P.M.
 
 ------------------------------------------------------------------------
 
-[Next: The Divine Name in the Tarot](tob46)
+[Next: The Divine Name in the Tarot](tob46.md)

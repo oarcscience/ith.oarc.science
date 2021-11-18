@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl28)  [Next](hpl30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl28)  [Next](hpl30.md) 
 
 ------------------------------------------------------------------------
 
@@ -514,4 +514,4 @@ photograph from life!
 
 ------------------------------------------------------------------------
 
-[Next: Cool Air (1928)](hpl30)
+[Next: Cool Air (1928)](hpl30.md)

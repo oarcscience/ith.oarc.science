@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig13)  [Next](vig15) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig13)  [Next](vig15.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ this time without succeeding;" so he gave him his and, and the girl was
 betrothed to Arnor. Glum insisted on one condition--that the bridal was
 to be at Thverá in the autumn; and they parted on this understanding.  
         Now Arnor had some malt out at Gásar, and he himself and one of
-his men were to fetch it.  <span id="fr_12"></span>[1](#fn_12) Thorgrim,
+his men were to fetch it.  <span id="fr_12"></span>[1](#fn_12.md) Thorgrim,
 son of Thorir, went to the warm spring on the very day on which they
 were expected in with the malt, and he was at the bath at Hrafnagil with
 six of his own men in his company. So when Arnor was coming up and
@@ -100,11 +100,11 @@ Arngrim, and was, as he grew up, a promising lad.
 
 ### Footnotes
 
-<span id="fn_12"></span>[1](vig14.htm#fr_12) Malt had to be imported
+<span id="fn_12"></span>[1](vig14.htm#fr_12.md) Malt had to be imported
 into Iceland from Denmark or from England. See Laing, Heimskringla, i.
 p. 58. This malt apparently had been landed, and was waiting to be
 carried up the country.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](vig15)
+[Next: Chapter XII](vig15.md)

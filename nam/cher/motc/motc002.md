@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc001) 
-[Next](motc003) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc001.md) 
+[Next](motc003.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ still keeps her tusti bowl.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Kana'tï And Selu: The Origin Of Game And Corn](motc003)
+[Next: 3. Kana'tï And Selu: The Origin Of Game And Corn](motc003.md)

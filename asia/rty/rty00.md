@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Next](rty01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Next](rty01.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,16 +29,16 @@ Badger, \[1852\], at Intangible Textual Heritage
 
 [![SHEIKH NÂSIR&lt;br&gt; The Religious Head of the
 Yeseedees](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 SHEIKH NÂSIR  
 The Religious Head of the Yeseedees  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 ------------------------------------------------------------------------
 
-[Next: An Inquiry into the Religious Tenets of the Yezeedees](rty01)
+[Next: An Inquiry into the Religious Tenets of the Yezeedees](rty01.md)

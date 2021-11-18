@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](phi)  [Next](th1) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](phi)  [Next](th1.md) 
 
 ------------------------------------------------------------------------
 
@@ -368,4 +368,4 @@ greeting. Be mindful of me in my imprisonment. Grace be with you.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Thessalonians](th1)
+[Next: 1 Thessalonians](th1.md)

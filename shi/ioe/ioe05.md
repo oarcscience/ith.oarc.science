@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe04) 
-[Next](ioe06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe04.md) 
+[Next](ioe06.md) 
 
 ------------------------------------------------------------------------
 
@@ -379,4 +379,4 @@ minister was rewarded by being made King of Sei (Shantung).
 
 ------------------------------------------------------------------------
 
-[Next: Laoism and Taoism--Southern China](ioe06)
+[Next: Laoism and Taoism--Southern China](ioe06.md)

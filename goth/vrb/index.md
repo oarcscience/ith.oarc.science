@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,11 +20,11 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](vrb00)
+[Contents](#contents)    [Start Reading](vrb00.md)
 
 ------------------------------------------------------------------------
 
-[Buy this Book at lulu.com](https://www.lulu.com/michellebelanger)
+[Buy this Book at lulu.com](https://www.lulu.com/michellebelanger.md)
 
 Thanks to Michelle Belanger for permitting us to post this electronic
 edition of The Vampire Ritual Book. For more information about the
@@ -32,16 +32,16 @@ author, click on the link above.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](vrb00)  
-[Table of Contents](vrb01)  
-[Introduction](vrb02)  
-[Chapter One: An Introduction to Ritual](vrb03)  
-[Chapter Two: Ritual and Sacred Space](vrb04)  
-[Chapter Three: Creating Living Ritual](vrb05)  
-[Chapter Four: The Four Pillars of Ritual](vrb06)  
-[Chapter Five: Personal Rites](vrb07)  
-[Chapter Six: Archetype Rituals](vrb08)  
-[Chapter Seven: Yearly Rites](vrb09)  
-[Chapter Eight: Rites of Passage](vrb10)  
-[Chapter Nine: Community Rituals](vrb11)  
-[Chapter Ten: Other Prayers and Invocations](vrb12)  
+<span id="contents"></span> [Title Page](vrb00.md)  
+[Table of Contents](vrb01.md)  
+[Introduction](vrb02.md)  
+[Chapter One: An Introduction to Ritual](vrb03.md)  
+[Chapter Two: Ritual and Sacred Space](vrb04.md)  
+[Chapter Three: Creating Living Ritual](vrb05.md)  
+[Chapter Four: The Four Pillars of Ritual](vrb06.md)  
+[Chapter Five: Personal Rites](vrb07.md)  
+[Chapter Six: Archetype Rituals](vrb08.md)  
+[Chapter Seven: Yearly Rites](vrb09.md)  
+[Chapter Eight: Rites of Passage](vrb10.md)  
+[Chapter Nine: Community Rituals](vrb11.md)  
+[Chapter Ten: Other Prayers and Invocations](vrb12.md)  

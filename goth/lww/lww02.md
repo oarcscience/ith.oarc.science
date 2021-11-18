@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww01)  [Next](lww03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww01)  [Next](lww03.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,4 +250,4 @@ will develop themselves."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III--Diana's Grove](lww03)
+[Next: Chapter III--Diana's Grove](lww03.md)

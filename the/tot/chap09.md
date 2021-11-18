@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Theosophy](../index)
-[Index](index) [Previous](chap08) [Next](chap10)
+[Intangible Textual Heritage](../../index) [Theosophy](../index.md)
+[Index](index) [Previous](chap08) [Next](chap10.md)
 
 ------------------------------------------------------------------------
 
@@ -329,4 +329,4 @@ glorious destinies which lie before them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: The Result of Theosophical Study](chap10)
+[Next: Chapter X: The Result of Theosophical Study](chap10.md)

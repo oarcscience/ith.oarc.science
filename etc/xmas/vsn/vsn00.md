@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Miscellaneous](../../index)  [Christmas](../index)  [Index](index) 
-[Next](vsn01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Miscellaneous](../../index)  [Christmas](../index)  [Index](index.md) 
+[Next](vsn01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0811817121/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0811817121/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Moore in 1862. Typed by John Bruno Hare, 2007. Public domain text.
 
 <span id="img_vsnms00"></span> <span align="CENTER">
 [![](tn/vsnms00.jpg)  
-Click to enlarge](img/vsnms00.jpg)</span>
+Click to enlarge](img/vsnms00.jpg.md)</span>
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Now dash away! dash away! dash away all!"</p></td>
 
 <span id="img_vsnms01"></span> <span align="CENTER">
 [![](tn/vsnms01.jpg)  
-Click to enlarge](img/vsnms01.jpg)</span>
+Click to enlarge](img/vsnms01.jpg.md)</span>
 
 <div align="center">
 
@@ -104,7 +104,7 @@ Soon gave me to know I had nothing to dread;</p></td>
 
 <span id="img_vsnms02"></span> <span align="CENTER">
 [![](tn/vsnms02.jpg)  
-Click to enlarge](img/vsnms02.jpg)</span>
+Click to enlarge](img/vsnms02.jpg.md)</span>
 
 <div align="center">
 
@@ -135,4 +135,4 @@ many years ago.</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: First Newspaper Publication](vsn01)
+[Next: First Newspaper Publication](vsn01.md)

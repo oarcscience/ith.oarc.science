@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
-[Index](index)  [Previous](pbs10)  [Next](pbs12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
+[Index](index)  [Previous](pbs10)  [Next](pbs12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![M](img/07701.jpg) |
+| ![M](img/07701.jpg.md) |
 
 MACINTYRE supplies the following account of the Seaforth prophecy and
 the Seer's death, as related at this day, in the Black Isle:--
@@ -182,4 +182,4 @@ dignitaries of the Church.
 
 ------------------------------------------------------------------------
 
-[Next: The Fulfilment of the Seaforth Prophecy](pbs12)
+[Next: The Fulfilment of the Seaforth Prophecy](pbs12.md)

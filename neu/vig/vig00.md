@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Next](vig01) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Next](vig01.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ northvegr@yahoo.com
 
 ------------------------------------------------------------------------
 
-[Next: Family Trees](vig01)
+[Next: Family Trees](vig01.md)

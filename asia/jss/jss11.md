@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss10)  [Next](jss12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss10)  [Next](jss12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -66,7 +66,7 @@ old woman laughed, and said, "Red-nose is a terrible drunkard; you will
 not see him again."
 
 I decided to go back to the employer's house. On the way I met a
-Russian-Buriat, who had seen me with Andrei [Mihailovitch](errata.htm#1)
+Russian-Buriat, who had seen me with Andrei [Mihailovitch](errata.htm#1.md)
 at the Horse Sacrifice. He was drunk, but gave me more information than
 I had been able to get hitherto. He said that Manshut's employer had a
 great deal of grass to cut, and would not let the old man go to Usturdi.
@@ -96,19 +96,19 @@ Just at that moment some one who was running across the
 
 <span id="img_08800"></span> <span align="CENTER">
 [![MANSHUT](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)  
+Click to enlarge](img/08800.jpg.md)  
 MANSHUT  
 </span>
 
-*Page* [87](#page_87)
+*Page* [87](#page_87.md)
 
 <span id="img_08801"></span> <span align="CENTER"> [![BURIAT YOUNG LADY,
 ISLAND OF OLKHON.](tn/08801.jpg)  
-Click to enlarge](img/08801.jpg)  
+Click to enlarge](img/08801.jpg.md)  
 BURIAT YOUNG LADY, ISLAND OF OLKHON.  
 </span>
 
-*Page* [74](jss10.htm#page_74)
+*Page* [74](jss10.htm#page_74.md)
 
  
 
@@ -193,7 +193,7 @@ two or three years there had been several murders at this end of the
 route.
 
 At the Zemski quarters I found the ispravnik <span
-id="fr_1"></span>[1](#fn_1) of Vernolensk, an uncultured, stupid man. He
+id="fr_1"></span>[1](#fn_1.md) of Vernolensk, an uncultured, stupid man. He
 was on his way to Irkutsk. His wife and aunt had met him at Kudà, and he
 and they occupied the guest room with trunks and bags which should
 
@@ -239,8 +239,8 @@ deserves to call her own.
 
 ### Footnotes
 
-<span id="fn_1"></span>[90:1](jss11.htm#fr_1) Captain of police.
+<span id="fn_1"></span>[90:1](jss11.htm#fr_1.md) Captain of police.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Customs of the Buriats](jss12)
+[Next: Chapter VIII. Customs of the Buriats](jss12.md)

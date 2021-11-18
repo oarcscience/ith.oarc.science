@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe09)  [Next](spe11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe09)  [Next](spe11.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ by both sexes.
 ANGLO-SAXON BALL PLAY.--It is altogether uncertain at what period the
 ball was brought into England: the author of a manuscript in Trinity
 College, Oxford, written in the fourteenth century, and containing the
-life of Saint Cuthbert, <span id="fr_351"></span>[1](#fn_351) says of
+life of Saint Cuthbert, <span id="fr_351"></span>[1](#fn_351.md) says of
 him, that when he was young, "he pleyde atte balle with the children
 that his fellowes were." On what authority this information is
 established I cannot tell. The venerable Bede, who also wrote the life
@@ -62,43 +62,43 @@ celebrated
 <span id="img_pl08"></span>
 
 [![Games with the Ball (1)](tn/pl08.jpg)  
-Click to enlarge](img/pl08.jpg)  
+Click to enlarge](img/pl08.jpg.md)  
 Games with the Ball (1)  
 
  
 
 <span id="page_81">p. 81</span>
 
-game of ball: <span id="fr_352"></span>[1](#fn_352) every party of boys
+game of ball: <span id="fr_352"></span>[1](#fn_352.md) every party of boys
 carrying their own ball"; for it does not appear that those belonging to
 one school contended with those of another, but that the youth of each
 school diverted themselves apart. Some difficulty has been stated by
 those who have translated this passage, respecting the nature of the
 game at ball here mentioned. Stow, considering it as a kind of goff or
 bandy-ball, has, without the least sanction from the Latin, added the
-word bastion, <span id="fr_353"></span>[2](#fn_353) meaning a bat or
+word bastion, <span id="fr_353"></span>[2](#fn_353.md) meaning a bat or
 cudgel; others again have taken it for foot-ball, <span
-id="fr_354"></span>[3](#fn_354) which pastime, though probably known at
+id="fr_354"></span>[3](#fn_354.md) which pastime, though probably known at
 the time, does not seem to be a very proper one for children: and
 indeed, as there is not any just authority to support an argument on
 either side, I see no reason why it should not be rendered
-hand-ball. <span id="fr_355"></span>[4](#fn_355)
+hand-ball. <span id="fr_355"></span>[4](#fn_355.md)
 
 BALL PLAY IN FRANCE,--The game of hand-ball is called by the French palm
-play, <span id="fr_356"></span>[5](#fn_356) because, says St Foix, a
+play, <span id="fr_356"></span>[5](#fn_356.md) because, says St Foix, a
 modern author, originally "this exercise consisted in receiving the ball
 and driving it back again with the palm of the hand. In former times
 they played with the naked hand, then with a glove, which in some
 instances was lined; afterwards they bound cords and tendons round their
 hands to make the ball rebound more forcibly, and hence the racket
-derived its origin." <span id="fr_357"></span>[6](#fn_357) During the
+derived its origin." <span id="fr_357"></span>[6](#fn_357.md) During the
 reign of Charles V. palm play, which may properly enough be denominated
 hand-tennis, was exceedingly fashionable in France, being played by the
 nobility for large sums of money; and when they had lost all that they
 had about them, they would sometimes pledge a part of their wearing
 apparel rather than give up the pursuit of the game. The duke of
 Burgundy, according to an old historian, <span
-id="fr_358"></span>[7](#fn_358) having lost sixty franks at palm play
+id="fr_358"></span>[7](#fn_358.md) having lost sixty franks at palm play
 with the duke of Bourbon, Messire William de Lyon, and Messire Guy de la
 Trimouille, and not having money enough to pay them, gave his girdle as
 a pledge for the remainder; and shortly afterwards he left the same
@@ -108,12 +108,12 @@ tennis.
 HAND-TENNIS OR FIVES.--At the top of plate eight is the reproduction of
 a supposed game at ball-play between a man and woman from an illuminated
 Hours of the fourteenth century; but on referring to the original <span
-id="fr_359"></span>[8](#fn_359) it is doubtful whether this is any game
+id="fr_359"></span>[8](#fn_359.md) it is doubtful whether this is any game
 at all; the figures are on opposite pages, and the ball appears to be an
 accidental blemish on the vellum! Another picture, however, on the same
 plate, is of much interest. It is at the foot of a fourteenth-century
 copy of the romance called *Histoire de Lancelot, ou S. Graal*. <span
-id="fr_360"></span>[9](#fn_360) To the left is a player about to strike
+id="fr_360"></span>[9](#fn_360.md) To the left is a player about to strike
 the ball with his right hand, whilst behind him stands another player
 apparently suggesting how he should make his stroke. To the right, on
 the opposite page, separated by an upright ornament--of which the
@@ -127,7 +127,7 @@ receive and return the ball.
 \* In a fifteenth-century beautifully illuminated copy of Valerius
 Maximus there is a picture of a game of hand-tennis or fives; each of
 the two players wears a white glove on the right hand. <span
-id="fr_361"></span>[1](#fn_361) This is reproduced in the centre of
+id="fr_361"></span>[1](#fn_361.md) This is reproduced in the centre of
 plate nine.
 
 \* Hand-tennis still continues to be played, though under a different
@@ -141,14 +141,14 @@ greene court before her majesties windowe, did hang up lines, squaring
 out the forme of a tennis-court, and making a cross line in the middle;
 in this square they (being stript out of their dublets) played five to
 five with hand-ball at bord and cord as they tearme it, to the great
-liking of her highness." <span id="fr_362"></span>[2](#fn_362)
+liking of her highness." <span id="fr_362"></span>[2](#fn_362.md)
 
 \* Edicts against ball-playing in St Paul's of the time of Elizabeth are
 often cited, but the desecration of the great church by such games is of
 far older date. In 1385 Robert Braybrooke, bishop of London, denounced
 the custom both within and without his cathedral church:--*Necnon ad
 pilam infra et extra ecclesiam ludunt*. <span
-id="fr_363"></span>[3](#fn_363)
+id="fr_363"></span>[3](#fn_363.md)
 
 \* The custom of playing fives in churchyards continued in many a
 country district until quite recent years, notably in Somersetshire and
@@ -178,7 +178,7 @@ to special buildings for the purpose and roofed-in tennis courts.
 <span id="img_pl09"></span>
 
 [![Games with the Ball (2)](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 Games with the Ball (2)  
 
  
@@ -195,7 +195,7 @@ were five to five in hand-ball, is the origin not only of the name
 Fives, but that the aggregate number of ten may well have given its name
 to Tenes, Tennes, Teneis, Tenice, Tennice, Tenys, Tynes, Tenyse, Tenice,
 Tennies, or Tennis, for the game is found spelt in all these
-varieties. <span id="fr_364"></span>[1](#fn_364)
+varieties. <span id="fr_364"></span>[1](#fn_364.md)
 
 \* In 1365 the earliest restrictive Act prohibiting various sports in
 favour of archery was passed; the first game named is that of hand-ball.
@@ -285,11 +285,11 @@ ungodly young people of the commonalty were in the habit, during divine
 service, of playing at unlawful games in the cloister, such "as the
 toppe, penny prykke, and most atte tenys," by which the walls were
 defiled and the glass windows broke. <span
-id="fr_365"></span>[1](#fn_365) In some towns, such as Lydd, Kent, the
+id="fr_365"></span>[1](#fn_365.md) In some towns, such as Lydd, Kent, the
 laws against games were sought to be enforced. In 1456-8, 1462-3, and
 1477-8, proclamations were made in that town forbidding tennis and
 dice-playing, and exhorting the youth to turn to bow and arrows and
-other manlier recreations. <span id="fr_366"></span>[2](#fn_366)
+other manlier recreations. <span id="fr_366"></span>[2](#fn_366.md)
 
 \* Towards the end of the reign of Henry VI. begin a number of curious
 entries in the accounts of the Ironmongers' Company relative to tennis
@@ -307,7 +307,7 @@ of the same
 reign the wardens sold 47 gross of tennis balls to Thomas Tooke at god.
 the gross. The entries as to the sale of these balls continue up to
 1535. Their sale by this company led to the singular supposition that
-the balls were made of iron; <span id="fr_367"></span>[1](#fn_367) but
+the balls were made of iron; <span id="fr_367"></span>[1](#fn_367.md) but
 Mr Marshall has shown that there are strong probabilities that the
 Ironmongers' Company owned a tennis court in Fenchurch Street, for which
 they made balls so well that they were in demand with players in other
@@ -328,7 +328,7 @@ digitus*. The date of this memorial is about the year 1460. It is said
 to represent the grandson and heir of Sir John Stanley, first cousin of
 Thomas, first Lord Stanley, who died in 1474, and whose fine alabaster
 effigy is close to that of the lad slain by a tennis ball. <span
-id="fr_368"></span>[2](#fn_368) This effigy is shown on plate nine.
+id="fr_368"></span>[2](#fn_368.md) This effigy is shown on plate nine.
 
 \* TENNIS FASHIONABLE IN ENGLAND.--The journals of the Proceedings of
 the Court of Common Council of the City of London show that the
@@ -347,7 +347,7 @@ Richmond, Blackfriars, and Whitehall or Westminster. There was also a
 court at Windsor in the time of Henry VII. It was standing in 1607,
 though roofless, and is shown in John Norden's MS. account of Windsor
 Castle, as lying within the walls, on the eastern side, just below the
-keep. <span id="fr_369"></span>[3](#fn_369) A later drawing of Hollar,
+keep. <span id="fr_369"></span>[3](#fn_369.md) A later drawing of Hollar,
 among the Ashmolean MSS., shows that the Windsor tennis court was still
 standing in 1672.
 
@@ -360,11 +360,11 @@ as showing that
 
 the hand was still in use by English players. The king of Castile used a
 racket, and as the marquis played with the bare hand, he gave him
-fifteen. <span id="fr_370"></span>[1](#fn_370)
+fifteen. <span id="fr_370"></span>[1](#fn_370.md)
 
 Mr Marshall gives numerous interesting references and extracts relative
 to Henry VIII.'s devotion to the royal game. <span
-id="fr_371"></span>[2](#fn_371)
+id="fr_371"></span>[2](#fn_371.md)
 
 \* Pages might readily be filled as to the popularity and general use of
 tennis by the noblemen and gentlefolk of the reign of Elizabeth. It must
@@ -380,7 +380,7 @@ was to sawcie and swhore y<sup>t</sup> he wolde laye his racket upon his
 face. Hereupon rose a great troble and the Q. offendid sore
 w<sup>th</sup> the Duke. Thys tale is tolde by the Earle Atholl the same
 daye that Fowler came to thys towne w<sup>t</sup> hys M<sup>ties</sup>
-license." <span id="fr_372"></span>[3](#fn_372)
+license." <span id="fr_372"></span>[3](#fn_372.md)
 
 \* The privilege of keeping tennis courts in Elizabeth's reign was
 eagerly sought, and in 1597 one Thomas Bedingfield applied for an
@@ -394,7 +394,7 @@ of any Sabbath day and during evening and morning prayers on holy days,
 to forbid all swearing and blasphemy, and to suffer none to play save
 noblemen, gentlemen, and merchants, or such as shall be entered in the
 Book of Subsidies at £10 in land or goods." <span
-id="fr_373"></span>[4](#fn_373)
+id="fr_373"></span>[4](#fn_373.md)
 
 \* The demanding a money qualification from the tennis player is to some
 extent paralleled by the dress test of the keeper of the court alluded
@@ -406,7 +406,7 @@ viz. these, and those that were the peach-colour’d ones! or to bear the
 inventory of thy shirts, as, one for superfluity, and one other for use!
 But that the tennis-court keeper knows better than I; for it is a low
 ebb of linen with thee when thou keepest not racket there."  <span
-id="fr_374"></span>[5](#fn_374)
+id="fr_374"></span>[5](#fn_374.md)
 
 \* The tennis ball of this period was stuffed with hair, to which the
 dramatists of Elizabethan and Stuart days make many satirical allusions.
@@ -417,20 +417,20 @@ off, and stuffe tenice balls with it."
 
 \* James I. commended tennis, with certain other games, to be used in
 moderation, and not as a craft, to his son Henry. <span
-id="fr_375"></span>[1](#fn_375) The young prince became a great adept at
+id="fr_375"></span>[1](#fn_375.md) The young prince became a great adept at
 tennis by assiduous practice in the Whitehall court, and there are
 records of various quarrels in which he took part when engaged in this
 game.
 
 \* Gervase Markham, in 1615, describes tennis as "a pastime in close or
 open courts, striking little round balls to or fro, either with the palm
-of the hand or with racket." <span id="fr_376"></span>[2](#fn_376)
+of the hand or with racket." <span id="fr_376"></span>[2](#fn_376.md)
 
 \* Charles I., when duke of York, began to play tennis; the sum of 420
 was paid to John Webb, "Master of His Majesty's Tennis plays," for his
 attendance in teaching the young duke to play tennis, and providing him
 with balls and rackets for the year ending Michaelmas, 1610. <span
-id="fr_377"></span>[3](#fn_377)
+id="fr_377"></span>[3](#fn_377.md)
 
 \* A list of the London tennis courts, in 1615, in a book kept by the
 clerk of the works at Petworth, and cited by Mr Marshall, shows that
@@ -456,7 +456,7 @@ nine.
 \* In July 1649 a warrant was issued by the Council of State to John
 Hooke, keeper of the St. James' tennis court, to deliver up the key to
 Colonel Pride to enable him therein to quarter his soldiers. <span
-id="fr_378"></span>[4](#fn_378)
+id="fr_378"></span>[4](#fn_378.md)
 
 \* Charles Hoole, in 1659, translated, from the High Dutch and Latin, J.
 A. Komensky's *Orbis Sensualium Pictus*. Plate cxxxiii. gives a rude
@@ -505,7 +505,7 @@ of the line, while there are four on the other side. Running along the
 end-wall, on the service side, is a very peculiarly built thickening of
 the wall, seeming to be a sort of horizontal, but flat-topped tambour,
 and containing a *petit trou* in the fore-hand corner." <span
-id="fr_379"></span>[1](#fn_379)
+id="fr_379"></span>[1](#fn_379.md)
 
 \* ORIGIN OF TENNIS COURTS.--It has been more than once suggested that
 the origin of the tennis court is to be found in the cloister court or
@@ -530,7 +530,7 @@ astray in their strenuous objections. Mr
 <span id="img_pl10"></span>
 
 [![Duke of York at Tennis](tn/pl10.jpg)  
-Click to enlarge](img/pl10.jpg)  
+Click to enlarge](img/pl10.jpg.md)  
 Duke of York at Tennis  
 
  
@@ -544,7 +544,7 @@ within the walls or cloisters of an abbey or monastery, would be
 entirely opposed to every rule of such a fraternity. . . . It would show
 a ludicrous ignorance of monastic institutions to place the smallest
 confidence in this alleged origin of the game." <span
-id="fr_380"></span>[1](#fn_380)
+id="fr_380"></span>[1](#fn_380.md)
 
 \* TENNIS IN MONASTERIES.--NOW it so happens that clear proof can be
 given of the not infrequent playing of this very game in the cloister
@@ -552,7 +552,7 @@ court of the religious houses of at all events one order. In the
 original twelfth-century statutes of the Premonstratensian or White
 Canons, who had so many important houses in England, it was laid down
 that twice a week the brethren might find recreation in some honest
-exercise. <span id="fr_381"></span>[2](#fn_381) The time for this
+exercise. <span id="fr_381"></span>[2](#fn_381.md) The time for this
 varied, but was usually after Nones (three o'clock service) and ceased
 with the first bell for Vespers. In course of time this somewhat vaguely
 worded order got so abused in the houses that were laxly conducted, that
@@ -569,7 +569,7 @@ moderate relaxation, which might prove of service to his soul as well as
 his body. They adopted, however, this precautionary measure, namely,
 that in houses where ball-play (*lusus pili*) was allowed, it was only
 to be permitted in some secluded place to which no secular person could
-gain access. <span id="fr_382"></span>[3](#fn_382)
+gain access. <span id="fr_382"></span>[3](#fn_382.md)
 
 \* In the edition of *Britannia Illustrata*, published in 1720, a
 bird's-eye view of Hampton Court shows the tennis court as restored by
@@ -580,7 +580,7 @@ Frederick, prince of Wales, who died in March 1751, is said, by Horace
 Walpole, to have been a victim to the game. "An imposthume had broken,
 which, on his body being opened, the physicians were of opinion had not
 been occasioned by the fall, but from the blow of a tennis ball three
-years before." <span id="fr_383"></span>[4](#fn_383) During the latter
+years before." <span id="fr_383"></span>[4](#fn_383.md) During the latter
 half of the eighteenth century the game lost much of its popular
 character and became still more the amusement of the wealthy. The
 *Sporting Magazine* of September 1793 shows, however, that the outdoor
@@ -623,7 +623,7 @@ the wooden bat, players acquainted with the tennis racket seem to have
 adopted that instrument about 1749, or a little earlier . . . so it
 continued to be played until 1788, the date of the print mentioned
 above, which the players still called the game fives." <span
-id="fr_384"></span>[1](#fn_384)
+id="fr_384"></span>[1](#fn_384.md)
 
 'With the introduction of the racket, the change in the name gradually
 followed. It used to be popular in the prisons of the Fleet and King's
@@ -650,14 +650,14 @@ strong and moving sport in the open
 
 fields, with a great ball of double leather fill’d with winde, and
 driven to and fro with the strength of a man's arme arm’d in a bracer of
-wood." <span id="fr_385"></span>[1](#fn_385)
+wood." <span id="fr_385"></span>[1](#fn_385.md)
 
 \* In the 1659 English edition of Komensky's *Orbis Sensualium Pictus*,
 this game is depicted as being played outside a tennis court, and is
 thus described, the numerals being references to the picture:--"A
 Winde-ball 4 being filled with air by means of a Ventie is tossed to and
 fro with the fist 5 in the open air." <span
-id="fr_386"></span>[2](#fn_386)
+id="fr_386"></span>[2](#fn_386.md)
 
 \* Doctor Jones, the Buxton physician of Elizabethan fame, did not
 disdain to recommend his patients to play at ball. "The wind baule, or
@@ -668,7 +668,7 @@ lyke force in striking, so that shalbee constrayned to use more violent
 stretching with swifter moving at one time than another, which will make
 the exercise more nymble, and deliver both of hand and whole body:
 therefore encreasing of heat through swift moving in all partes the
-sooner." <span id="fr_387"></span>[3](#fn_387)
+sooner." <span id="fr_387"></span>[3](#fn_387.md)
 
 HURLING, HOCKEY, CAMP-BALL.--Hurling is an ancient exercise, and seems
 originally to have been a species of the hand-ball; it was played by the
@@ -680,7 +680,7 @@ conquerors. The inhabitants of the western counties of England have long
 been famous for their skill in the practice of this pastime. There were
 two methods of hurling in Cornwall, at the commencement of the
 seventeenth century, and both are particularly described by Carew, a
-contemporary writer, <span id="fr_388"></span>[4](#fn_388) whose words
+contemporary writer, <span id="fr_388"></span>[4](#fn_388.md) whose words
 are these: "Hurling taketh his denomination from throwing of the ball,
 and is of two sorts; in the east parts of Cornwall to goales, and in the
 west to the country. For hurling to goales there are fifteen, twenty, or
@@ -734,23 +734,23 @@ other respects, I do not recollect that the game differed materially
 from the description above given. The bat for hurling was known and
 probably used in England more than two centuries ago, for it is
 mentioned in a book published in the reign of Queen Elizabeth, <span
-id="fr_389"></span>[1](#fn_389) and is there called "a clubbe" or "hurle
+id="fr_389"></span>[1](#fn_389.md) and is there called "a clubbe" or "hurle
 batte."
 
 \* Mr Strutt's paragraph as to the Irish bat hurling at once suggests
 hockey. In Chambers's *Information for the People* it is stated that,
 "shinty in Scotland, hockey in England, and hurling in Ireland appear to
 be very much the same out-of-door sport." <span
-id="fr_390"></span>[2](#fn_390) In a recent brief essay on the history
+id="fr_390"></span>[2](#fn_390.md) In a recent brief essay on the history
 of hockey, an enthusiastic writer states that "the game existed in
 Ireland two thousand years ago, though possibly in a form that would not
 be recognised by the modern player, and its trail may be found here and
 there, across the story of social England from quite early days." <span
-id="fr_391"></span>[3](#fn_391) The earliest known use of the word
+id="fr_391"></span>[3](#fn_391.md) The earliest known use of the word
 occurs in certain local statutes enacted by the town of Galway in the
 year 1527, when, amongst prohibited games is named--"The horlinge of the
 litill balle with hockie stickes or staves." <span
-id="fr_392"></span>[4](#fn_392) Hockey is described in Murray's
+id="fr_392"></span>[4](#fn_392.md) Hockey is described in Murray's
 Dictionary as equivalent to bandy or shinty.
 
 <span id="page_93">p. 93</span>
@@ -768,7 +768,7 @@ comparatively small ball. An interesting, but unfortunately brief,
 reference to this western game as a sport between counties occurs as
 early as 1648: "The Counties of Devon and Cornwall are, on Monday next,
 to meet at a hurling, a sport they have with a ball." <span
-id="fr_393"></span>[1](#fn_393)
+id="fr_393"></span>[1](#fn_393.md)
 
 \* This form of western hurling was very similar to the camp-ball (from
 A.S. *camp*, a combat) of the eastern counties, which was distinct from
@@ -799,7 +799,7 @@ breathing time. Seven or nine snotches are the game, and these it will
 sometimes take two or three hours to win. At times a large football was
 used, and the game was then called 'kicking camp'; and if played with
 shoes on was termed 'savage camp.'" <span
-id="fr_394"></span>[2](#fn_394)
+id="fr_394"></span>[2](#fn_394.md)
 
 ''The same correspondent of *Notes and Queries*, who cited this account
 in 1892, stated that the game seemed to have died away owing to numerous
@@ -835,7 +835,7 @@ football than a game at football. When the exercise becomes exceeding
 violent, the players kick each other's shins without the least ceremony,
 and some of them are overthrown at the hazard of their limbs.
 
-Barclay in his fifth eclogue <span id="fr_395"></span>[1](#fn_395) has
+Barclay in his fifth eclogue <span id="fr_395"></span>[1](#fn_395.md) has
 these lines:
 
         The sturdie plowmen lustie, strong and bold,  
@@ -852,7 +852,7 @@ That their encounter seems too rough for jest.
 The danger attending this pastime occasioned King James I. to say, "From
 this court I debarre all rough and violent exercises, as the foot-ball,
 meeter for lameing than making able the users thereof." <span
-id="fr_396"></span>[2](#fn_396)
+id="fr_396"></span>[2](#fn_396.md)
 
 The rustic boys made use of a blown bladder without the covering of
 leather by way of football, putting peas and horse beans withinside,
@@ -867,16 +867,16 @@ Eche one contendeth and hath a great delite
 With foote and with hande the bladder for to smite;  
 If it fall to grounde, they lifte it up agayne,  
 And this waye to labour they count it no payne. <span
-id="fr_397"></span>[3](#fn_397)
+id="fr_397"></span>[3](#fn_397.md)
 
 "It had been the custom," says a Chester antiquary, <span
-id="fr_398"></span>[4](#fn_398) "time out of mind,
+id="fr_398"></span>[4](#fn_398.md) "time out of mind,
 
 <span id="page_95">p. 95</span>
 
 for the shoemakers yearly on the Shrove Tuesday, to deliver to the
 drapers, in the presence of the mayor of Chester, at the cross on the
-Rodehee, <span id="fr_399"></span>[1](#fn_399) one ball of leather
+Rodehee, <span id="fr_399"></span>[1](#fn_399.md) one ball of leather
 called a foote-ball, of the value of three shillings and fourpence or
 above, to play at from thence to the Common Hall of the said city; which
 practice was productive of much inconvenience, and therefore this year
@@ -885,7 +885,7 @@ six glayves of silver of the like value, as a reward for the best runner
 that day upon the aforesaid Rodehee."
 
 In an old comedy, the *Blind Beggar of Bethnal Green*, by John
-Day, <span id="fr_400"></span>[2](#fn_400) one of the characters speaks
+Day, <span id="fr_400"></span>[2](#fn_400.md) one of the characters speaks
 thus of himself: "I am Tom Stroud of Hurling, I'll play a gole at
 camp-ball, or wrassel a fall a the hip or the hin turn." Camp-ball, I
 conceive, is only another denomination for foot-ball, and is so called,
@@ -930,7 +930,7 @@ pope, dispensation to resume his work was granted him,
 <span id="page_96">p. 96</span>
 
 as it was shown that no blame attached to him, and that he deeply
-regretted the death of his friend. <span id="fr_401"></span>[1](#fn_401)
+regretted the death of his friend. <span id="fr_401"></span>[1](#fn_401.md)
 
 \* In 1349 football and other games were forbidden by Edward III. in
 favour of archery. It was again forbidden by statute under Richard II.
@@ -943,7 +943,7 @@ played.
 
 \* Mr Montague Shearman cites various official records as to serious or
 fatal results from football of the sixteenth century; <span
-id="fr_402"></span>[2](#fn_402) and these might be materially increased
+id="fr_402"></span>[2](#fn_402.md) and these might be materially increased
 by reference to coroners' rolls.
 
 \* After the dissolution of the monasteries, when Sir Roger Townsend was
@@ -951,14 +951,14 @@ pulling down the tower of Coxford Priory, Norfolk, to build himself a
 goodly house, the steeple came down with a crash and fell upon a house
 near by, "breaking it down and slaying one Mr Seller, that lay lame in
 it of a broken leg gotten at foot-ball." <span
-id="fr_403"></span>[3](#fn_403)
+id="fr_403"></span>[3](#fn_403.md)
 
 ''Sir Thomas Elyot, in his charming little work entitled *The Boke named
 the Governour*, first published in 1531, says of football that it "is
 nothyng but beastely fury and extreme violence, whereof procedeth hurte,
 and consequently rancour and malice do remayne with thym that be
 wounded, wherfore it is to be put in perpetuall silence." <span
-id="fr_404"></span>[4](#fn_404)
+id="fr_404"></span>[4](#fn_404.md)
 
 \* In Stubbes' *Anatomie of Abuses* (1583) football is described as "a
 develishe pastime . . . and hereof groweth envy, rancour, and malice,
@@ -997,7 +997,7 @@ foot-ball were but seldom enforced. A century earlier than this football
 had been singled out for special honour by the town of Galway, but to be
 played outside the walls; the local statutes of 1527 forbad, in favour
 of archery, every other kind of sport and pastime "onely the great foote
-balle." <span id="fr_405"></span>[1](#fn_405)
+balle." <span id="fr_405"></span>[1](#fn_405.md)
 
 \* Football seems to have been well established at Cambridge in the time
 of Charles II. In the second register book of Magdalen College occurs
@@ -1010,7 +1010,7 @@ then Colledge beere or ale in ye open hall to quench their thirsts. And
 particularly that that most vile custom of drinking and spending
 money--Sophisters and Freshmen together--upon ye account of making or
 not making a speech at that football time be utterly left off and
-extinguished." <span id="fr_406"></span>[2](#fn_406)
+extinguished." <span id="fr_406"></span>[2](#fn_406.md)
 
 \* Pepys and other well-known authorities give evidence of much football
 play in the latter half of the seventeenth century. It is alluded to in
@@ -1028,7 +1028,7 @@ are still made to maintain the annual street game.
 GOLF.--There are many .games played with the ball that require the
 assistance of a club or bat, and probably the most ancient among them is
 the pastime now distinguished by the name of golf. <span
-id="fr_407"></span>[3](#fn_407) In the northern parts of the kingdom
+id="fr_407"></span>[3](#fn_407.md) In the northern parts of the kingdom
 golf is much practised. It requires much room to perform this game with
 propriety, and therefore I presume it is rarely seen at present in the
 vicinity of the metropolis. It answers to a rustic pastime of the Romans
@@ -1036,7 +1036,7 @@ which they played with a ball of leather stuffed with feathers, called
 *paganica*, because it was used by the common people: the golf-ball is
 composed of the same materials to this day: I have been told it is
 sometimes, though rarely, stuffed with cotton. In the reign of Edward
-III. the Latin name *cambuca* <span id="fr_408"></span>[4](#fn_408) was
+III. the Latin name *cambuca* <span id="fr_408"></span>[4](#fn_408.md) was
 applied to this pastime, and it derived the denomination, no doubt, from
 the crooked
 
@@ -1044,7 +1044,7 @@ the crooked
 
 club or bat with which it was played; the bat was also called a bandy,
 from its being bent, and hence the game itself is frequently written in
-English bandy ball. At the bottom of [plate eight](#img_pl08) are two
+English bandy ball. At the bottom of [plate eight](#img_pl08.md) are two
 figures engaged at bandy-ball, showing the form of the bandy, as it was
 used early in the fourteenth century, from a MS. book of prayers
 beautifully illuminated, in the possession of Mr Francis Douce.
@@ -1069,7 +1069,7 @@ It should seem that golf was a fashionable game among the nobility at
 the commencement of the seventeenth century, and it was one of the
 exercises with which prince Henry, eldest son to James I., occasionally
 amused himself, as we learn from the following anecdote recorded by a
-person who was present: <span id="fr_409"></span>[1](#fn_409) "At
+person who was present: <span id="fr_409"></span>[1](#fn_409.md) "At
 another time playing at goff, a play not unlike to pale-maille, whilst
 his school-master stood talking with another, and marked not his
 highness warning him to stand farther off, the prince thinking he had
@@ -1079,16 +1079,16 @@ wherewith he drawing back his hand, said, "Had I done so, I had but paid
 my debts."'
 
 \* In addition to the early drawing given on plate eight, another one
-has been reproduced at the bottom of [plate eleven](#img_pl11). In this
+has been reproduced at the bottom of [plate eleven](#img_pl11.md). In this
 drawing of fourteenth-century date, which has been named as illustrating
 golf, two men are standing with the ends of their knobbed clubs, which
 they hold in both hands, crossed on the ground; but this illustration
 seems to point to some form of bandy-ball or hockey rather than
-golf. <span id="fr_410"></span>[2](#fn_410) A third illustration, at the
-top of [plate nine](#img_pl09), taken from a series of miniatures in a
+golf. <span id="fr_410"></span>[2](#fn_410.md) A third illustration, at the
+top of [plate nine](#img_pl09.md), taken from a series of miniatures in a
 Book of Hours, circa 1500, undoubtedly refers to golf as then played;
 the figure down on his knees is "holing." <span
-id="fr_411"></span>[3](#fn_411)
+id="fr_411"></span>[3](#fn_411.md)
 
 \* The definition of the word given in Murray's New Dictionary is
 admirable
@@ -1101,7 +1101,7 @@ ball
 <span id="img_pl11"></span>
 
 [![Various Games](tn/pl11.jpg)  
-Click to enlarge](img/pl11.jpg)  
+Click to enlarge](img/pl11.jpg.md)  
 Various Games  
 
  
@@ -1138,7 +1138,7 @@ four shillings the dozen. In 1603 James I. appointed one William Mayne
 "clubmaker to his Hienes all the days of his lyftime." Montrose, who
 played at the Leith and St Andrews Links, was a golf expert; evidently
 in his days those who could afford it used a variety of clubs, for he
-was the purchaser of a set of six. <span id="fr_412"></span>[1](#fn_412)
+was the purchaser of a set of six. <span id="fr_412"></span>[1](#fn_412.md)
 Charles I. was a player; the story of his breaking off a match at Leith,
 when news of the outbreak of the Irish rebellion reached him, is well
 known.
@@ -1169,7 +1169,7 @@ England.
 
 golf in Scotland, but that would not be in accord with a work on the
 "sports and pastimes of the people of England." <span
-id="fr_413"></span>[1](#fn_413)
+id="fr_413"></span>[1](#fn_413.md)
 
 \* CRICKET.--The exact origin of cricket is somewhat difficult to
 determine, but there is no doubt whatever that it is a game essentially
@@ -1185,20 +1185,20 @@ straight. Club-ball, as distinguished from cambuc or goff, seems to have
 been of the nature of cricket, and was played for some time with a
 comparatively straight club or bat. A Bodleian MS. of the year 1344
 shows a woman in the act of throwing a ball to a man who elevates his
-bat to give it a back-hand stroke. <span id="fr_414"></span>[2](#fn_414)
-This is shown at the top of [plate twelve](#img_pl12). In the original
+bat to give it a back-hand stroke. <span id="fr_414"></span>[2](#fn_414.md)
+This is shown at the top of [plate twelve](#img_pl12.md). In the original
 drawing there are several figures of both sexes at a little distance
 behind the bowler, apparently waiting to catch or stop the ball when
 returned by the batsman. An earlier drawing of the end of the reign of
 Henry III., in the centre of the same plate, of two figures one with a
 ball and straight bat, and the other with hands outstretched for a
-catch, <span id="fr_415"></span>[3](#fn_415) can scarcely be considered
+catch, <span id="fr_415"></span>[3](#fn_415.md) can scarcely be considered
 a forerunner of cricket, as the player possessed of the bat himself
 holds the ball which he is about to strike. A third drawing, of the
 fourteenth century (plate eleven), gives two players, one of them
 holding a large ball in the left hand, and a straight bat or club in the
 right, whilst the other is grasping a plucked-up stump or wicket in a
-bat-like attitude. <span id="fr_416"></span>[4](#fn_416)
+bat-like attitude. <span id="fr_416"></span>[4](#fn_416.md)
 
 \* There is an interesting reference to this early form of cricket about
 1420. John Combe of Quidhampton was one of the witnesses examined by the
@@ -1213,7 +1213,7 @@ his head and right shoulder, so that he lay sick and unable to hear or
 to see or to move head or arm for more than three months. Eventually he
 was healed by making an offering of his head and shoulders in wax,
 marked with wounds similar to his own, at the tomb of the bishop,
-accompanied by prayers. <span id="fr_417"></span>[5](#fn_417)
+accompanied by prayers. <span id="fr_417"></span>[5](#fn_417.md)
 
 \* But in none of these early drawings, or in any mention of club-ball,
 is there any reference to that essential of cricket, the stumps or
@@ -1224,7 +1224,7 @@ wicket at which the ball
 <span id="img_pl12"></span>
 
 [![Bat and Ball](tn/pl12.jpg)  
-Click to enlarge](img/pl12.jpg)  
+Click to enlarge](img/pl12.jpg.md)  
 Bat and Ball  
 
  
@@ -1315,7 +1315,7 @@ which "advertisements of the game most impudently recite." However much
 betting may have increased in England of late years, there is no doubt
 whatever that the habit in connection with cricket has much decreased as
 compared with that which was prevalent in the eighteenth and earlier
-part of the nineteenth centuries. <span id="fr_418"></span>[1](#fn_418)
+part of the nineteenth centuries. <span id="fr_418"></span>[1](#fn_418.md)
 
 \* Kent was one of the earliest counties where the game throve under the
 lead of Lord John Sackville. In 1746 a match was played on the Artillery
@@ -1356,14 +1356,14 @@ change the form of the bat, in order that the striker might be able to
 keep pace with the improvement. It was therefore made straight in the
 pod; in consequence of which, a total revolution, it may be said a
 reformation too, ensued in the style of play . . . the system of
-stopping or blocking was adopted." <span id="fr_419"></span>[1](#fn_419)
+stopping or blocking was adopted." <span id="fr_419"></span>[1](#fn_419.md)
 A picture by Francis Hayman, R.A. (who exhibited between 1769 and 1772),
 belonging to the M.C.C., shows the almost cudgel shape of the bat in a
 country cricket match; the wicket is very low with only two stumps; a
 lad in the foreground is scoring "notches" on a stick.
 
 \* Among the satirical prints of the British Museum <span
-id="fr_420"></span>[2](#fn_420) is one published on January 1st, 1778,
+id="fr_420"></span>[2](#fn_420.md) is one published on January 1st, 1778,
 from a picture painted in 1770, which bears witness to the early
 attention paid to this game by the fair sex, and also pourtrays with
 exactness the shape of the bat. It is entitled "Miss Wicket and Miss
@@ -1412,12 +1412,12 @@ Hogben."
 
 \* In Lilywhite's *Score Sheets* it is stated that, in or about 1800,
 Sir Horace Mann caused a cricket match to be played on ponies at
-Harrietsham. <span id="fr_421"></span>[1](#fn_421)
+Harrietsham. <span id="fr_421"></span>[1](#fn_421.md)
 
 TRAP-BALL, AND KNUR AND SPELL.--The game of trap-ball, or
 trap-bat-and-ball, which can be traced back to at least the beginning of
-the fourteenth century (see [Plate 13](spe11.htm#img_pl13) <span
-id="fr_422"></span>[2](#fn_422)), afterwards developed into the northern
+the fourteenth century (see [Plate 13](spe11.htm#img_pl13.md) <span
+id="fr_422"></span>[2](#fn_422).md), afterwards developed into the northern
 game of knur and spell. In the first quarter of the nineteenth century
 this game was a favourite one amongst adults in several of our northern
 counties, particularly in Hallamshire. The knur, or ball, used in the
@@ -1440,232 +1440,232 @@ player is about four feet in length. The widened end, or pomel, is made
 of any hard heavy wood that will not easily split. The main point of the
 game is the distance to which the player can strike the knur; a
 first-rate hand is said to have been able to send a loaded ball as far
-as sixteen score yards. <span id="fr_423"></span>[3](#fn_423)
+as sixteen score yards. <span id="fr_423"></span>[3](#fn_423.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_351"></span>[80:1](spe10.htm#fr_351) No. lvii.
+<span id="fn_351"></span>[80:1](spe10.htm#fr_351.md) No. lvii.
 
-<span id="fn_352"></span>[81:1](spe10.htm#fr_352) "Lusum pilæ celebrem."
+<span id="fn_352"></span>[81:1](spe10.htm#fr_352.md) "Lusum pilæ celebrem."
 Stephanides de ludis.
 
-<span id="fn_353"></span>[81:2](spe10.htm#fr_353) "The scholars of each
+<span id="fn_353"></span>[81:2](spe10.htm#fr_353.md) "The scholars of each
 school have their ball or bastion in their hands." *Survey of London*.
 
-<span id="fn_354"></span>[81:3](spe10.htm#fr_354) Lord Lyttelton,
+<span id="fn_354"></span>[81:3](spe10.htm#fr_354.md) Lord Lyttelton,
 *History of Henry the Second*, vol. iii. p. 295; and \[Dr Pegge\] the
 translator of Fitzstephen in 1772.
 
-<span id="fn_355"></span>[81:4](spe10.htm#fr_355) By the word *celebrem*
+<span id="fn_355"></span>[81:4](spe10.htm#fr_355.md) By the word *celebrem*
 Fitzstephen might advert to the antiquity of the pastime.
 
-<span id="fn_356"></span>[81:5](spe10.htm#fr_356) *Jeu de paume*, and in
+<span id="fn_356"></span>[81:5](spe10.htm#fr_356.md) *Jeu de paume*, and in
 Latin *pila palmaria*.
 
-<span id="fn_357"></span>[81:6](spe10.htm#fr_357) *Essais Historiques
+<span id="fn_357"></span>[81:6](spe10.htm#fr_357.md) *Essais Historiques
 sur Paris*, vol. i. p. 160.
 
-<span id="fn_358"></span>[81:7](spe10.htm#fr_358) Laboureur, sub an.
+<span id="fn_358"></span>[81:7](spe10.htm#fr_358.md) Laboureur, sub an.
 1368.
 
-<span id="fn_359"></span>[81:8](spe10.htm#fr_359) Roy. Lib. 20 D. iv. f.
+<span id="fn_359"></span>[81:8](spe10.htm#fr_359.md) Roy. Lib. 20 D. iv. f.
 207.
 
-<span id="fn_360"></span>[81:9](spe10.htm#fr_360) Hart MSS. 6563, f. 95.
+<span id="fn_360"></span>[81:9](spe10.htm#fr_360.md) Hart MSS. 6563, f. 95.
 
-<span id="fn_361"></span>[82:1](spe10.htm#fr_361) Harl. MSS. 4375, f.
+<span id="fn_361"></span>[82:1](spe10.htm#fr_361.md) Harl. MSS. 4375, f.
 151, Two men are playing chess in a cloister at the back of the court.
 
-<span id="fn_362"></span>[82:2](spe10.htm#fr_362) Nichols' Progresses of
+<span id="fn_362"></span>[82:2](spe10.htm#fr_362.md) Nichols' Progresses of
 *Q. Eliz.* vol. ii. p. 19.
 
-<span id="fn_363"></span>[82:3](spe10.htm#fr_363) Wilkins' *Concilia*,
+<span id="fn_363"></span>[82:3](spe10.htm#fr_363.md) Wilkins' *Concilia*,
 iii. 194.
 
-<span id="fn_364"></span>[83:1](spe10.htm#fr_364) Marshall's *Annals of
+<span id="fn_364"></span>[83:1](spe10.htm#fr_364.md) Marshall's *Annals of
 Tennis*, 53. In the 6th Series of *Notes and Queries* there are long and
 frequent references to the etymology of Tennis, in which Professor Skeat
 and other learned men took part.
 
-<span id="fn_365"></span>[84:1](spe10.htm#fr_365) *Shillingford's
+<span id="fn_365"></span>[84:1](spe10.htm#fr_365.md) *Shillingford's
 Letters* (Camd. Soc. 1871), p. tot.
 
-<span id="fn_366"></span>[84:2](spe10.htm#fr_366) Hist. MSS. Reports, v.
+<span id="fn_366"></span>[84:2](spe10.htm#fr_366.md) Hist. MSS. Reports, v.
 pp. 516, 521, 523, 526.
 
-<span id="fn_367"></span>[85:1](spe10.htm#fr_367) *Notes and Queries*,
+<span id="fn_367"></span>[85:1](spe10.htm#fr_367.md) *Notes and Queries*,
 Series IV. ii. 178; v. 263, 436.
 
-<span id="fn_368"></span>[85:2](spe10.htm#fr_368) The reproduction of
+<span id="fn_368"></span>[85:2](spe10.htm#fr_368.md) The reproduction of
 this effigy is taken from plate viii. of Edward Richardson's *Monumental
 Effigies of Elford Church* (1852).
 
-<span id="fn_369"></span>[85:3](spe10.htm#fr_369) Harl. MSS. 3749.
+<span id="fn_369"></span>[85:3](spe10.htm#fr_369.md) Harl. MSS. 3749.
 
-<span id="fn_370"></span>[86:1](spe10.htm#fr_370) Cott. MSS. Vesp. C.
+<span id="fn_370"></span>[86:1](spe10.htm#fr_370.md) Cott. MSS. Vesp. C.
 xii. fol. 281.
 
-<span id="fn_371"></span>[86:2](spe10.htm#fr_371) *Annals of Tennis*,
+<span id="fn_371"></span>[86:2](spe10.htm#fr_371.md) *Annals of Tennis*,
 63.68.
 
-<span id="fn_372"></span>[86:3](spe10.htm#fr_372) State Papers,
+<span id="fn_372"></span>[86:3](spe10.htm#fr_372.md) State Papers,
 Scotland, x. No. 31d.
 
-<span id="fn_373"></span>[86:4](spe10.htm#fr_373) Dom. State Papers,
+<span id="fn_373"></span>[86:4](spe10.htm#fr_373.md) Dom. State Papers,
 Eliz. ccxliii. 58.
 
-<span id="fn_374"></span>[86:5](spe10.htm#fr_374) Henry IV. Part ii. Act
+<span id="fn_374"></span>[86:5](spe10.htm#fr_374.md) Henry IV. Part ii. Act
 ii. sc. 2.
 
-<span id="fn_375"></span>[87:1](spe10.htm#fr_375) *His Majesties
+<span id="fn_375"></span>[87:1](spe10.htm#fr_375.md) *His Majesties
 Instructions to his dearest Sonne, Henry the Prince* (1603), p. 120.
 
-<span id="fn_376"></span>[87:2](spe10.htm#fr_376) *Country
+<span id="fn_376"></span>[87:2](spe10.htm#fr_376.md) *Country
 Contentments*, bk. i. p. 109.
 
-<span id="fn_377"></span>[87:3](spe10.htm#fr_377) Devon's *Issues of the
+<span id="fn_377"></span>[87:3](spe10.htm#fr_377.md) Devon's *Issues of the
 Exchequer*, p. 116.
 
-<span id="fn_378"></span>[87:4](spe10.htm#fr_378) *Cal. of State
+<span id="fn_378"></span>[87:4](spe10.htm#fr_378.md) *Cal. of State
 Papers*, 1649-50, p. 542.
 
-<span id="fn_379"></span>[88:1](spe10.htm#fr_379) *Annals of Tennis*,
+<span id="fn_379"></span>[88:1](spe10.htm#fr_379.md) *Annals of Tennis*,
 93, 94.
 
-<span id="fn_380"></span>[89:1](spe10.htm#fr_380) *Tennis, Rackets,
+<span id="fn_380"></span>[89:1](spe10.htm#fr_380.md) *Tennis, Rackets,
 Fives* (All England Series, 1890), p. 9.
 
-<span id="fn_381"></span>[89:2](spe10.htm#fr_381) Norbert's Statutes,
+<span id="fn_381"></span>[89:2](spe10.htm#fr_381.md) Norbert's Statutes,
 Dist. i. cap. viii.
 
-<span id="fn_382"></span>[89:3](spe10.htm#fr_382) Holstein's *Codex
+<span id="fn_382"></span>[89:3](spe10.htm#fr_382.md) Holstein's *Codex
 Regularum* (1759), v. 206, 207.
 
-<span id="fn_383"></span>[89:4](spe10.htm#fr_383) *Memoirs of George
+<span id="fn_383"></span>[89:4](spe10.htm#fr_383.md) *Memoirs of George
 II*. vii. 6x, 62.
 
-<span id="fn_384"></span>[90:1](spe10.htm#fr_384) *Tennis, Rackets,
+<span id="fn_384"></span>[90:1](spe10.htm#fr_384.md) *Tennis, Rackets,
 Fives* (All England Series, 1890), by Julian Marshall, pp. 43, 44.
 
-<span id="fn_385"></span>[91:1](spe10.htm#fr_385) *Country
+<span id="fn_385"></span>[91:1](spe10.htm#fr_385.md) *Country
 Contentments*, bk. i. p. 109.
 
-<span id="fn_386"></span>[91:2](spe10.htm#fr_386) Pl. cxxxiii.
+<span id="fn_386"></span>[91:2](spe10.htm#fr_386.md) Pl. cxxxiii.
 
-<span id="fn_387"></span>[91:3](spe10.htm#fr_387) *The Benefit of the
+<span id="fn_387"></span>[91:3](spe10.htm#fr_387.md) *The Benefit of the
 Ancient Bathes of Buckstones*, 1572.
 
-<span id="fn_388"></span>[91:4](spe10.htm#fr_388) *Survey of Cornwall*,
+<span id="fn_388"></span>[91:4](spe10.htm#fr_388.md) *Survey of Cornwall*,
 2602, bk. i. p. 73.
 
-<span id="fn_389"></span>[92:1](spe10.htm#fr_389) *Philogamus*, black
+<span id="fn_389"></span>[92:1](spe10.htm#fr_389.md) *Philogamus*, black
 letter, without date.
 
-<span id="fn_390"></span>[92:2](spe10.htm#fr_390) Edit. 1842, vol. ii.
+<span id="fn_390"></span>[92:2](spe10.htm#fr_390.md) Edit. 1842, vol. ii.
 p. 543.
 
-<span id="fn_391"></span>[92:3](spe10.htm#fr_391) Mr H. F. Prevost
+<span id="fn_391"></span>[92:3](spe10.htm#fr_391.md) Mr H. F. Prevost
 Battersby, in *Football, Hockey, Lacrosse* (The Sports Library), p. 80.
 
-<span id="fn_392"></span>[92:4](spe10.htm#fr_392) *Hist. MSS. Com.* 10th
+<span id="fn_392"></span>[92:4](spe10.htm#fr_392.md) *Hist. MSS. Com.* 10th
 Report, app. v. p. 402.
 
-<span id="fn_393"></span>[93:1](spe10.htm#fr_393) *Hamilton's Papers*
+<span id="fn_393"></span>[93:1](spe10.htm#fr_393.md) *Hamilton's Papers*
 (Camden Soc.), p. 171.
 
-<span id="fn_394"></span>[93:2](spe10.htm#fr_394) *Notes and Queries*,
+<span id="fn_394"></span>[93:2](spe10.htm#fr_394.md) *Notes and Queries*,
 Ser. VIII. ii. 214.
 
-<span id="fn_395"></span>[94:1](spe10.htm#fr_395) *Ship of Fools*, 1508.
+<span id="fn_395"></span>[94:1](spe10.htm#fr_395.md) *Ship of Fools*, 1508.
 
-<span id="fn_396"></span>[94:2](spe10.htm#fr_396) *Basilicon Doron*, bk.
+<span id="fn_396"></span>[94:2](spe10.htm#fr_396.md) *Basilicon Doron*, bk.
 iii.
 
-<span id="fn_397"></span>[94:3](spe10.htm#fr_397) Barclay, *ut supra*.
+<span id="fn_397"></span>[94:3](spe10.htm#fr_397.md) Barclay, *ut supra*.
 
-<span id="fn_398"></span>[94:4](spe10.htm#fr_398) I rather think the
+<span id="fn_398"></span>[94:4](spe10.htm#fr_398.md) I rather think the
 elder Randel Holmes, one of the city heralds, MS. Harl. 2150, fol. 23.
 
-<span id="fn_399"></span>[95:1](spe10.htm#fr_399) An open place near the
+<span id="fn_399"></span>[95:1](spe10.htm#fr_399.md) An open place near the
 city.
 
-<span id="fn_400"></span>[95:2](spe10.htm#fr_400) Acted A.D. 1659.
+<span id="fn_400"></span>[95:2](spe10.htm#fr_400.md) Acted A.D. 1659.
 
-<span id="fn_401"></span>[96:1](spe10.htm#fr_401) *Cal. of Papal
+<span id="fn_401"></span>[96:1](spe10.htm#fr_401.md) *Cal. of Papal
 Letters*, ii. 214.
 
-<span id="fn_402"></span>[96:2](spe10.htm#fr_402) *Football* (Badminton
+<span id="fn_402"></span>[96:2](spe10.htm#fr_402.md) *Football* (Badminton
 Library, 1844), 7, 8.
 
-<span id="fn_403"></span>[96:3](spe10.htm#fr_403) Spelman's *History of
+<span id="fn_403"></span>[96:3](spe10.htm#fr_403.md) Spelman's *History of
 Sacrilege*, 1632, edit. 1853, p. 251.
 
-<span id="fn_404"></span>[96:4](spe10.htm#fr_404) Edit. 1546, p. 32b.
+<span id="fn_404"></span>[96:4](spe10.htm#fr_404.md) Edit. 1546, p. 32b.
 
-<span id="fn_405"></span>[97:1](spe10.htm#fr_405) *Hist. MSS. Com.* 10th
+<span id="fn_405"></span>[97:1](spe10.htm#fr_405.md) *Hist. MSS. Com.* 10th
 Report, App. v. 402.
 
-<span id="fn_406"></span>[97:2](spe10.htm#fr_406) *Ibid*. 5th Report,
+<span id="fn_406"></span>[97:2](spe10.htm#fr_406.md) *Ibid*. 5th Report,
 483.
 
-<span id="fn_407"></span>[97:3](spe10.htm#fr_407) Spelt *goff*
+<span id="fn_407"></span>[97:3](spe10.htm#fr_407.md) Spelt *goff*
 throughout in the original edition, which is undoubtedly the right
 pronunciation. See *Notes and Queries*, Ser. viii. vols. 4, 5, and 6.
 
-<span id="fn_408"></span>[97:4](spe10.htm#fr_408) *Cambuta vel cambuca*.
+<span id="fn_408"></span>[97:4](spe10.htm#fr_408.md) *Cambuta vel cambuca*.
 *Baculus incurvatus*, a crooked club or staff: the word cambuca was also
 used for the *virga episcoparum*, or episcopal crosier, because it was
 curved at the top. Du Cange, *Glossary*, in voce *cambuta*.
 
-<span id="fn_409"></span>[98:1](spe10.htm#fr_409) An anonymous author,
+<span id="fn_409"></span>[98:1](spe10.htm#fr_409.md) An anonymous author,
 *Harl. MSS*. 6391.
 
-<span id="fn_410"></span>[98:2](spe10.htm#fr_410) Roy. Lib. 10 E. iv.
+<span id="fn_410"></span>[98:2](spe10.htm#fr_410.md) Roy. Lib. 10 E. iv.
 fol. 95.
 
-<span id="fn_411"></span>[98:3](spe10.htm#fr_411) Add. MSS. 24,098, fol.
+<span id="fn_411"></span>[98:3](spe10.htm#fr_411.md) Add. MSS. 24,098, fol.
 27.
 
-<span id="fn_412"></span>[99:1](spe10.htm#fr_412) Napier's *Memoirs of
+<span id="fn_412"></span>[99:1](spe10.htm#fr_412.md) Napier's *Memoirs of
 Montrose*, 1856.
 
-<span id="fn_413"></span>[100:1](spe10.htm#fr_413) *Historical Gossip
+<span id="fn_413"></span>[100:1](spe10.htm#fr_413.md) *Historical Gossip
 about Golf and Golfers*, Edinburgh, 1863; *Golf, an Ancient and Royal
 Game*, R. and R. Clark, Edinburgh, 1875; *Golf* (Badminton Library,
 1898), historical chapter by Andrew Lang.
 
-<span id="fn_414"></span>[100:2](spe10.htm#fr_414) Bodl. 264.
+<span id="fn_414"></span>[100:2](spe10.htm#fr_414.md) Bodl. 264.
 
-<span id="fn_415"></span>[100:3](spe10.htm#fr_415) Roy. Lib. 14 B. v.
+<span id="fn_415"></span>[100:3](spe10.htm#fr_415.md) Roy. Lib. 14 B. v.
 
-<span id="fn_416"></span>[100:4](spe10.htm#fr_416) *Ibid*. 10 E. iv.
+<span id="fn_416"></span>[100:4](spe10.htm#fr_416.md) *Ibid*. 10 E. iv.
 fol. 94b.
 
-<span id="fn_417"></span>[100:5](spe10.htm#fr_417) *The Canonisation of
+<span id="fn_417"></span>[100:5](spe10.htm#fr_417.md) *The Canonisation of
 St Osmund* (Wilts Record Soc. 1902), pp. xiv. 71.
 
-<span id="fn_418"></span>[102:1](spe10.htm#fr_418) For an interesting
+<span id="fn_418"></span>[102:1](spe10.htm#fr_418.md) For an interesting
 account of betting at cricket see Pycroft's *Cricket Field*, ch. vi.
 
-<span id="fn_419"></span>[103:1](spe10.htm#fr_419) Nyren's *Cricketer's
+<span id="fn_419"></span>[103:1](spe10.htm#fr_419.md) Nyren's *Cricketer's
 Guide*, 4th edit. (1846), pp. 93, 94.
 
-<span id="fn_420"></span>[103:2](spe10.htm#fr_420) Stephen's
+<span id="fn_420"></span>[103:2](spe10.htm#fr_420.md) Stephen's
 *Catalogue*, iv. 728.
 
-<span id="fn_421"></span>[104:1](spe10.htm#fr_421) On the general
+<span id="fn_421"></span>[104:1](spe10.htm#fr_421.md) On the general
 question of the early history of cricket, see Nyren's *Cricketer's
 Guide*; Blaine's *Rural Sports*, 133-136; Badminton Library *Cricket*,
 history of the game by Andrew Lang; *Notes and Queries*, Ser. ii. and v.
 etc.
 
-<span id="fn_422"></span>[104:2](spe10.htm#fr_422) Bodl. MS.
+<span id="fn_422"></span>[104:2](spe10.htm#fr_422.md) Bodl. MS.
 
-<span id="fn_423"></span>[104:3](spe10.htm#fr_423) *Reliquary*, Ser. I.
+<span id="fn_423"></span>[104:3](spe10.htm#fr_423.md) *Reliquary*, Ser. I.
 vi. 233-236.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](spe11)
+[Next: Chapter I](spe11.md)

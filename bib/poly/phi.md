@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Ephesians](eph)  [Colossians](col)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Ephesians](eph)  [Colossians](col.md)
 
 ------------------------------------------------------------------------
 
@@ -9,10 +9,10 @@
 
 ------------------------------------------------------------------------
 
-[Philippians 1](phi001)  
+[Philippians 1](phi001.md)  
 
-[Philippians 2](phi002)  
+[Philippians 2](phi002.md)  
 
-[Philippians 3](phi003)  
+[Philippians 3](phi003.md)  
 
-[Philippians 4](phi004)  
+[Philippians 4](phi004.md)  

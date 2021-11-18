@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor16)  [Next](sor18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor16)  [Next](sor18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -25,7 +25,7 @@ THE Church always granted the judge and the accuser a right to the
 confiscated property of those condemned for Sorcery. Wherever the Canon
 Law remains powerful, trials for Witchcraft multiply, and enrich the
 clergy. Wherever lay tribunals make good their claim to try such cases,
-the latter grow fewer and fewer and finally [disappear](errata.htm#6),
+the latter grow fewer and fewer and finally [disappear](errata.htm#6.md),
 at any rate for a hundred years in France,—between 1450 and 1550.
 
 A first gleam of light is visible as early as the middle of the
@@ -66,7 +66,7 @@ is there now." The grave is opened, and the body found intact in its
 coffin. Yet the judge decides, against the testimony of his own eyes,
 that it is only an *appearance*, an illusion of Satan. He credits the
 woman's confession in preference to the actual fact,—and the poor
-creature is burned. <span id="fr_62"></span>[1](#fn_62)
+creature is burned. <span id="fr_62"></span>[1](#fn_62.md)
 
 Things reached such a pass among these worthy Prince Bishops that later
 on the most bigoted emperor there ever was, the Emperor of the Thirty
@@ -247,9 +247,9 @@ which a whole host of women got off scot-free.
 
 ### Footnotes
 
-<span id="fn_62"></span>[144:1](sor17.htm#fr_62) See Soldan in
+<span id="fn_62"></span>[144:1](sor17.htm#fr_62.md) See Soldan in
 confirmation of this true story, and for facts about Germany generally.
 
 ------------------------------------------------------------------------
 
-[Next: 16. The Basque Witches (1609)](sor18)
+[Next: 16. The Basque Witches (1609)](sor18.md)

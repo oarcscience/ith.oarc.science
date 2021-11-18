@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe18)  [Next](spe20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe18)  [Next](spe20.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,13 +54,13 @@ afford any great variety of amusement, especially if they be
 abstractedly considered; and yet John of Salisbury, in the twelfth
 century, speaks of ten different games of dice then in use; but as he
 has only given us the names, their properties cannot be investigated. He
-calls it, <span id="fr_806"></span>[1](#fn_805) "The damnable
+calls it, <span id="fr_806"></span>[1](#fn_805.md) "The damnable
 
 <span id="page_246">p. 246</span>
 
 art of dice-playing." Another author, contemporary with him, says, "The
 clergymen and bishops are fond of dice-playing." <span
-id="fr_807"></span>[1](#fn_806)
+id="fr_807"></span>[1](#fn_806.md)
 
 \* It was customary to use a Dice-board in some forms of dice throwing.
 The board was divided by diagonal lines into ten spaces, and the value
@@ -72,16 +72,16 @@ Hardwick Hall. It measures 15 inches by 19½. Upon the board, in one of
 the divisions, are the representations of three dice. On the same table,
 which is 10 feet in length, there are also inlaid representations of
 full-sized chess and backgammon boards. <span
-id="fr_808"></span>[2](#fn_807)
+id="fr_808"></span>[2](#fn_807.md)
 
 ANCIENT DICE-BOX--ANECDOTE RELATING TO FALSE DICE.--The common method of
 throwing the dice is with a hollow cylinder of wood, called the
 dice-box, into which they are put, and thence, being first shaken
 together, thrown out upon the table; but in one of the prints which
 occur in the *Vocabulary of Commenius*, <span
-id="fr_809"></span>[3](#fn_808) we meet with a contrivance for playing
+id="fr_809"></span>[3](#fn_808.md) we meet with a contrivance for playing
 with the dice that does not require them to be numbered upon their
-faces. This curious machine <span id="fr_810"></span>[4](#fn_809)
+faces. This curious machine <span id="fr_810"></span>[4](#fn_809.md)
 appears on plate thirty-three.
 
 The dice are thrown into the receptacle at the top, whence they fall
@@ -90,7 +90,7 @@ compartments, numbered as the dice usually are; and according to the
 value of the figures affixed to the compartments into which they fall
 the throw is estimated. The inner part of the circle, with the apparatus
 above it, was so constructed as to move round with great rapidity when
-the dice were put into the funnel. <span id="fr_811"></span>[5](#fn_810)
+the dice were put into the funnel. <span id="fr_811"></span>[5](#fn_810.md)
 It would thus be analogous to the E O tables of the present day, wherein
 a ball is used, and the game is determined by the letters E or O being
 marked upon the compartment into which it falls. The E O tables may have
@@ -98,7 +98,7 @@ derived their origin from the above contrivance.
 
 Dice-playing has been reprobated by the grave and judicious authors of
 this country for many centuries back; the legislature set its face
-against it at a very early period; <span id="fr_812"></span>[6](#fn_811)
+against it at a very early period; <span id="fr_812"></span>[6](#fn_811.md)
 and in various statutes promulgated for the suppression of unlawful
 games, from Richard II. to Elizabeth, it is constantly particularised
 and strictly prohibited.
@@ -115,7 +115,7 @@ remembered that this strenuous condemnation was directed
 <span id="img_pl33"></span>
 
 [![Sedentary Games](tn/pl33.jpg)  
-Click to enlarge](img/pl33.jpg)  
+Click to enlarge](img/pl33.jpg.md)  
 Sedentary Games  
 
  
@@ -137,12 +137,12 @@ of loaded dice, and dice of the high cut. The former are dice made
 heavier on one side than the other by the insertion of a small portion
 of lead; and the latter may be known by the following anecdote in an
 anonymous MS. written about the reign of James I., and preserved in the
-Harleian Collection. <span id="fr_813"></span>[1](#fn_812) "Sir William
+Harleian Collection. <span id="fr_813"></span>[1](#fn_812.md) "Sir William
 Herbert, playing at dice with another gentleman, there rose some
 questions about a cast. Sir William's antagonist declared it was a four
 and a five; he as positively insisted that it was a five and a six; the
 other then swore, with a bitter imprecation, <span
-id="fr_814"></span>[2](#fn_813) that it was as he had said: Sir William
+id="fr_814"></span>[2](#fn_813.md) that it was as he had said: Sir William
 then replied, 'Thou art a perjured knave; for give me a sixpence, and if
 there be a four upon the dice, I will return you a thousand pounds'; at
 which the other was presently abashed, for indeed the dice were false,
@@ -151,7 +151,7 @@ ivory, but sometimes of silver, and probably of other metals. The wife
 of the unfortunate Arden of Feversham, sent to Mosbie, her paramour, a
 pair of silver dice, in order to reconcile a disagreement that had
 subsisted between them, and occasioned his abstaining from her
-company. <span id="fr_815"></span>[3](#fn_814)
+company. <span id="fr_815"></span>[3](#fn_814.md)
 
 \* DICING GAMES WITHOUT "TABLES."--Under the general head of Dicing used
 to be included two distinct sets of games that were termed "games within
@@ -208,11 +208,11 @@ circumstances, are hit or taken up and obliged to go back and re-enter
 the table.
 
 The ancient form of the backgammon-table may be seen at the bottom of
-[plate thirty-four](#img_pl34); the original occurs in a beautifully
+[plate thirty-four](#img_pl34.md); the original occurs in a beautifully
 illuminated manuscript of the fourteenth century. <span
-id="fr_816"></span>[1](#fn_815) The table, as here delineated, is not
+id="fr_816"></span>[1](#fn_815.md) The table, as here delineated, is not
 divided in the middle, but the points, on either side, are contained in
-a single compartment. If we turn to the [thirty-third plate](#img_pl33)
+a single compartment. If we turn to the [thirty-third plate](#img_pl33.md)
 we shall find a table of fifteenth century date. In this the division is
 fairly made, but the points are not distinguished by different colours,
 according to the present, and indeed more ancient usage. The writer of
@@ -247,7 +247,7 @@ men at 19"; which is changing the ace point in the English game for the
 size point: and this alteration probably shortened the game. He then
 mentions the five following variations by name only; the Imperial game,
 the Provincial game, the games called Baralie, Mylys, and Faylis. <span
-id="fr_817"></span>[1](#fn_816)
+id="fr_817"></span>[1](#fn_816.md)
 
 \* The various table games given in the 1674 edition of the *Compleat
 Gamester* continued to be reprinted in subsequent issues until 1721,
@@ -281,12 +281,12 @@ CHESS--ITS ANTIQUITY.--This noble, or, as it is frequently called, royal
 pastime, is said, by some authors, to have originated, together with
 dice-playing, at the siege of Troy; and the invention of both is
 attributed to Palamedes, the son of Nauplius, king of Eubœa; <span
-id="fr_818"></span>[1](#fn_817) others make Diomedes, and others again,
-Ulysses, the inventor of chess. <span id="fr_819"></span>[2](#fn_818)
+id="fr_818"></span>[1](#fn_817.md) others make Diomedes, and others again,
+Ulysses, the inventor of chess. <span id="fr_819"></span>[2](#fn_818.md)
 The honour has also been attributed to Ledo and Tyrrheno, two Grecians,
 and brothers, who being much pressed by hunger, sought to alleviate
 their bodily sufferings by diverting the mind. <span
-id="fr_820"></span>[3](#fn_819) None of these stories have any solid
+id="fr_820"></span>[3](#fn_819.md) None of these stories have any solid
 foundation for their support; and I am inclined to follow the opinion of
 Dr Hyde and other learned authors, who readily agree that the pastime is
 of very remote antiquity, but think it first made its appearance in
@@ -303,17 +303,17 @@ and the third, practically to demonstrate the nature and necessity of
 nobleness." He then adds, "The game of chess passed from Chaldea into
 Greece, and thence diffused itself all over Europe." I have followed a
 MS. copy at the Museum in the Harleian Library. <span
-id="fr_821"></span>[4](#fn_820) Our countryman Chaucer, on what
+id="fr_821"></span>[4](#fn_820.md) Our countryman Chaucer, on what
 authority I know not, says it was
 
 --Athalus that made the game  
 First of the chesse, so was his name. <span
-id="fr_822"></span>[5](#fn_821)
+id="fr_822"></span>[5](#fn_821.md)
 
 The Arabians and the Saracens, who are said to be admirable players at
 chess, have new-modelled the story of de Vigney and adapted it to their
 own country, changing the name of the philosopher from Xerxes to
-Sisa. <span id="fr_823"></span>[6](#fn_822)
+Sisa. <span id="fr_823"></span>[6](#fn_822.md)
 
 EARLY CHESS-PLAY IN FRANCE AND ENGLAND.--It is impossible to say when
 the game of chess was first brought into this kingdom; but we have good
@@ -326,14 +326,14 @@ and his chessmen are celebrated. The English scholar Alcuin was on the
 most intimate terms with the emperor and his family; he visited his
 native country from 790 to 793, and it is at the least highly probable
 that he was the first to introduce chess into this country. <span
-id="fr_824"></span>[7](#fn_823)
+id="fr_824"></span>[7](#fn_823.md)
 
  
 
 <span id="img_pl34"></span>
 
 [![Chess and Tables](tn/pl34.jpg)  
-Click to enlarge](img/pl34.jpg)  
+Click to enlarge](img/pl34.jpg.md)  
 Chess and Tables  
 
  
@@ -341,7 +341,7 @@ Chess and Tables
 <span id="page_251">p. 251</span>
 
 Canute the Dane, who ascended the throne of England A.D. 1017, was
-partial to this pastime. <span id="fr_825"></span>[1](#fn_824) The
+partial to this pastime. <span id="fr_825"></span>[1](#fn_824.md) The
 following story is told of William, duke of Normandy, afterwards king of
 England. When a young man, he was invited to the court of the French
 king, and during his residence there, being one day engaged at chess
@@ -349,9 +349,9 @@ with the king's eldest son, a dispute arose concerning the play; and
 William, exasperated at something his antagonist had said, struck him
 with the chess-board, which obliged him to make a precipitate retreat
 from France, in order to avoid the consequences of so rash an
-action. <span id="fr_826"></span>[2](#fn_825) A similar circumstance is
+action. <span id="fr_826"></span>[2](#fn_825.md) A similar circumstance is
 said by Leland to have happened in England. <span
-id="fr_827"></span>[3](#fn_826) John, the youngest son of Henry II.,
+id="fr_827"></span>[3](#fn_826.md) John, the youngest son of Henry II.,
 playing at chess one day with Fulco Guarine, a nobleman of Shropshire, a
 quarrel ensued, and John broke the head of Guarine with the chess-board,
 who in return struck the prince such a blow that he almost killed him.
@@ -360,7 +360,7 @@ Henry, by whom he was knighted, with three of his brethren, a short time
 afterwards. John did not so easily forgive the affront; but, on the
 contrary, showed his resentment long after his accession to the English
 throne, by keeping him from the possession of Whittington Castle, to
-which he was the rightful heir. <span id="fr_828"></span>[4](#fn_827) It
+which he was the rightful heir. <span id="fr_828"></span>[4](#fn_827.md) It
 is also said of this monarch, that he was engaged at chess when the
 deputies from Rouen came to acquaint him that the city was besieged by
 Philip, king of France, but he would not hear them out till he had
@@ -368,7 +368,7 @@ finished the game. In like manner Charles I. was playing at chess when
 he was told that the final resolution of the Scots was to sell him to
 the parliament; and he was so little discomposed by the alarming
 intelligence, that he continued the game with great composure. <span
-id="fr_829"></span>[5](#fn_828) Several other instances to the same
+id="fr_829"></span>[5](#fn_828.md) Several other instances to the same
 purpose might be produced, but these may suffice; and in truth, I know
 not what interpretation to put upon such extraordinary conduct; it
 proves at least that the fascinating powers of this fashionable
@@ -379,10 +379,10 @@ THE CHESS-BOARD.--The number of the pieces and the manner in which they
 are placed do not appear to have undergone much, if any, variation for
 several centuries. If the reader will turn to plate thirty-four, he will
 find the most ancient representation of the pastime that I have met
-with. <span id="fr_830"></span>[6](#fn_829) On the thirty-third plate he
+with. <span id="fr_830"></span>[6](#fn_829.md) On the thirty-third plate he
 will see two boards with the manner of placing the pieces upon them,
 taken from a MS. of the thirteenth century, and one of them, a perfect
-singularity, is of circular form. <span id="fr_831"></span>[7](#fn_830)
+singularity, is of circular form. <span id="fr_831"></span>[7](#fn_830.md)
 
 <span id="page_252">p. 252</span>
 
@@ -394,20 +394,20 @@ which are thus called in Latin verse
 CHESS-PIECES, AND THEIR FORM.--The names of the chess pieces, as they
 are given in the foregoing manuscript, are these: Rey--Reyne, or
 Ferce--Roc--Alfin--Chivaler--Poun: that is: 1. The King--2. The Queen,
-or Ferce <span id="fr_832"></span>[1](#fn_831)--3. The Rock--4. The
+or Ferce <span id="fr_832"></span>[1](#fn_831.md)--3. The Rock--4. The
 Alfin--5. The Knight--6. The Pawn. Their forms are copied on the
-[thirtieth plate](spe17.htm#img_pl30).
+[thirtieth plate](spe17.htm#img_pl30.md).
 
 In more modern times the roc is corruptedly called a rook, but formerly
 it signified a rock or fortress (now castle); the alfin was denominated
 by the French *fol*, and with us an archer, and at last a bishop.
 
 THE VARIOUS GAMES OF CHESS.--In a manuscript in the Royal Library, <span
-id="fr_833"></span>[2](#fn_832) written about the same time as that last
+id="fr_833"></span>[2](#fn_832.md) written about the same time as that last
 mentioned, we find no less than forty-four different names given to so
 many games of chess, and some of them are played more ways than one, so
 that on the whole they may be said to amount to fifty-seven; <span
-id="fr_834"></span>[3](#fn_833) and under every title there are
+id="fr_834"></span>[3](#fn_833.md) and under every title there are
 directions for playing the game, but I apprehend they would be of little
 use to a modern player. I shall, however, give the several denominations
 as they occur, with an attempt at a translation. If the learned reader
@@ -481,7 +481,7 @@ The white house won--yet still the black doth brag,
 They had the power to put me in the bag.  
 Use but your royal hand, ’twill set me free:  
 ’Tis but removing of a man, that's me." <span
-id="fr_835"></span>[1](#fn_834)
+id="fr_835"></span>[1](#fn_834.md)
 
 ANCIENT GAMES SIMILAR TO CHESS.--The ancient pastimes, if more than one
 be meant, which bear the names of ludus latrunculorum, ludus calculorum,
@@ -509,7 +509,7 @@ with an appropriate number, and probably might resemble a more modern
 pastime, which still retains the Greek name of Rithmomachia, from
 αριθμος, numerus, et μαχι, pugna, expressive of a battle with numbers,
 said by some to have been invented by Pythagoras, <span
-id="fr_836"></span>[1](#fn_835) and by others to be more ancient: with
+id="fr_836"></span>[1](#fn_835.md) and by others to be more ancient: with
 us it is called the Philosopher's Game, and seems indeed to have been
 well calculated for the diversion of soldiers, because it consists, not
 only in a contention for superiority by the skilful adjustment of the
@@ -520,7 +520,7 @@ fails, his glories are but half achieved.
 
 THE PHILOSOPHER'S GAME.--We have some account of the philosopher's game,
 but very loosely drawn up, in a manuscript in the Sloan Library <span
-id="fr_837"></span>[2](#fn_836) at the British Museum. It is called,
+id="fr_837"></span>[2](#fn_836.md) at the British Museum. It is called,
 says the author, "a number fight," because in it men fight and strive
 together by the art of counting or numbering how one may take his
 adversary's king and erect a triumph upon the deficiency of his
@@ -559,7 +559,7 @@ king from his opponent, because he who succeeds may make his triumph and
 erect his trophy.
 
 Burton, speaking of this pastime in his *Anatomy of Melancholy*, <span
-id="fr_838"></span>[1](#fn_837) calls it the Philosophy Game, and thinks
+id="fr_838"></span>[1](#fn_837.md) calls it the Philosophy Game, and thinks
 it "not convenient for students"; to which he adds, "the like I say of
 Dr Fulke's Metromachia, and his Ouronomachia, with the rest of those
 intricate, astrological, and geometrical fictions, for such as are
@@ -580,7 +580,7 @@ false move frequently occasions the loss of the game.
 \* Draughts has a far greater proved antiquity than chess, some of the
 draughtsmen and part of the board belonging to Queen Hatasu of Egypt,
 who flourished about 1600 B.C., were discovered in 1887. <span
-id="fr_839"></span>[2](#fn_838) The game was introduced into Italy from
+id="fr_839"></span>[2](#fn_838.md) The game was introduced into Italy from
 Egypt, and is known in Latin as *ludus latrunculorum*, or the game of
 the Little Soldiers. The name of draughts is derived from the verb to
 draw or to move, and was at one time applicable to chess as well as to
@@ -606,7 +606,7 @@ work in 1800, under the title *Guide to the Game of Draughts*,
 containing 500 select games. In it he reproduced almost all Payne's
 work, but with considerable amendments and new games. Since that date
 Sturges's book has been continually reproduced both in England and
-America. <span id="fr_840"></span>[1](#fn_839)
+America. <span id="fr_840"></span>[1](#fn_839.md)
 
 MERELLES--NINE MEN'S MORRIS.--Merelles, or, as it was formerly called in
 England, nine men's morris, and also five-penny morris, is a game of
@@ -672,12 +672,12 @@ take a man from his opponent. The game 'nine men's marriage' is also
 called 'tink-track,' because with good play, a player may get five of
 his men in such a position, that a 'tink-track' is formed, by means of
 which he can clear the board of the enemy, one by one, in so many
-moves." <span id="fr_841"></span>[1](#fn_840)
+moves." <span id="fr_841"></span>[1](#fn_840.md)
 
 \* BOY-GAMES IN CLOISTERS.--In 1892, Mr J. T. Micklethwaite read a most
 interesting paper before the Archæological Institute "On the Indoor
 Games of School Boys in the Middle Ages." <span
-id="fr_842"></span>[2](#fn_841) He was able to prove that certain "cup
+id="fr_842"></span>[2](#fn_841.md) He was able to prove that certain "cup
 markings" arranged in squares of nine on the benches of the cloisters of
 Westminster, Canterbury, Norwich, Salisbury, and Chichester were the
 work of school boys and others in pre-Reformation times. Other instances
@@ -732,7 +732,7 @@ that the game was at that time played in Essex as "Merelles or Merils";
 in Cambridgeshire as "Morels or Murrells"; in Lincolnshire as "Meg
 Merryleys"; in Norfolk and Cornwall as "Morris or Morrice"; in
 Leicestershire as "Blind Men's Morris"; and in Oxfordshire as
-"Ninepenny." <span id="fr_843"></span>[1](#fn_842)
+"Ninepenny." <span id="fr_843"></span>[1](#fn_842.md)
 
 FOX AND GEESE.--This is a game somewhat resembling that of merelles in
 the manner the pieces are moved, but in other respects, as well as in
@@ -742,7 +742,7 @@ to the number of the moves. It is certainly as old in this country as
 the thirteenth century.
 
 To play this game there are seventeen pieces, called geese, which are
-placed as we see them on [plate thirty three](#img_pl33), and the fox in
+placed as we see them on [plate thirty three](#img_pl33.md), and the fox in
 the middle, distinguished either by his size or difference of colour, as
 here, for instance, he is black. The business of the game is to shut the
 fox up, so that he cannot move. All the pieces have the power to move
@@ -775,7 +775,7 @@ pegs but one are taken away; which is an operation much more difficult
 to perform than any one could readily imagine who had not made the
 attempt. It must be remembered that only one peg can be passed over at a
 time, and that no peg can be put over another, unless it stands close to
-it without an intervening hole. <span id="fr_844"></span>[1](#fn_843)
+it without an intervening hole. <span id="fr_844"></span>[1](#fn_843.md)
 
 DOMINOES.--Dominoes seems to have been little known in England till
 towards the end of the eighteenth century, when it was imported from
@@ -810,11 +810,11 @@ the table, and then play on in rotation.
 received much attention. In 1879, the special Spanish form of playing
 dominoes was popularised in England, and is at present (1902) in
 commoner use than any other form, particularly in City
-restaurants. <span id="fr_845"></span>[1](#fn_844)
+restaurants. <span id="fr_845"></span>[1](#fn_844.md)
 
 \* CARDS--WHEN INVENTED.--SO far as English card-playing is concerned,
 the attempt made by Mr Barrington in the eighteenth century <span
-id="fr_846"></span>[2](#fn_845) to prove that Edward I. played cards,
+id="fr_846"></span>[2](#fn_845.md) to prove that Edward I. played cards,
 because an entry, of 1278, in the wardrobe accounts, names his playing
 at the Four Kings has been upset, and shown to be a form of chess. It is
 generally admitted that playing cards came to Europe from the East.
@@ -843,7 +843,7 @@ next folloyng aftyr the decysse of my lord her husbond; and sche seyd
 that ther wer non dysgysyngs, ner harpyng, ner lutyng, ner syngyn, ner
 non lowde dysports, but pleyng at the tabyllys, and schesse, and cards.
 Sweche dysports sche gave her folkys leve to play and non odyr." <span
-id="fr_847"></span>[3](#fn_846) The privy purse expenses of Henry VII.
+id="fr_847"></span>[3](#fn_846.md) The privy purse expenses of Henry VII.
 show his losses at cards on several occasions.
 
 \* When the sixteenth century is reached the references to card-playing
@@ -880,7 +880,7 @@ Charlemaine, Launcelot, Hector, and suchlike names, because they would
 not seeme to imitate their idolatrie therein, and yet mainteine the
 plaie itselfe, the verie invention of Saban the Devill and woulde so
 disguise this mischiefe under the cloak of suche gaie names." <span
-id="fr_848"></span>[1](#fn_847)
+id="fr_848"></span>[1](#fn_847.md)
 
 \* The knaves of that date, in English and French packs, were usually
 known as Lancelot, Hogier, Rolant, and Valery; the kings bore the names
@@ -897,7 +897,7 @@ card-playing received a great impetus, and their use became almost
 universal.
 
 \* Philip Kinder in his MS. *History of Derbyshire*, <span
-id="fr_849"></span>[2](#fn_848) written about the middle of the
+id="fr_849"></span>[2](#fn_848.md) written about the middle of the
 seventeenth century, says of the natives of that shire that "they love
 y<sup>e</sup> Cards, and in this they imitate the Spaniard who instade
 of Kings, Queens and Knaves, they have Kings, Knights and souldiers; but
@@ -1049,9 +1049,9 @@ in these cards there are neither queens nor aces; but the former are
 supplied by knights, the latter have no substitute. Dr Stukeley's cards
 were purchased at his sale by Mr Tuttet, and again at his sale by Mr
 Gough, in whose possession they now remain (i 800). The last gentleman
-has given a full [description](errata.htm#1) of them in a paper upon the
+has given a full [description](errata.htm#1.md) of them in a paper upon the
 subject of card-playing, in the *Archæologia*. <span
-id="fr_850"></span>[1](#fn_849) The figured cards, by us denominated
+id="fr_850"></span>[1](#fn_849.md) The figured cards, by us denominated
 court cards, were formerly called coat cards; and originally, I
 conceive, the name implied coated figures, that is, men and women who
 wore coats, in contradistinction to the other devices of flowers and
@@ -1066,7 +1066,7 @@ passage in a very old play entitled *The longer thou livest the more
 Foote thou art*; in which Idleness desires Moros the clown to look at
 "his booke," and shows him "a paire of cardes." In a comedy called *A
 Woman killed with Kindness*, a pair of cards and counters to play with
-are mentioned. <span id="fr_851"></span>[2](#fn_850)
+are mentioned. <span id="fr_851"></span>[2](#fn_850.md)
 
 \* The earliest known specimens of the cards engraved on copper are the
 German ones of circular pattern, with hares, parroquets, pinks, and
@@ -1086,7 +1086,7 @@ political, or
 <span id="img_pl35"></span>
 
 [![Cards](tn/pl35.jpg)  
-Click to enlarge](img/pl35.jpg)  
+Click to enlarge](img/pl35.jpg.md)  
 Cards  
 
  
@@ -1094,7 +1094,7 @@ Cards
 <span id="page_265">p. 265</span>
 
 historical use to which it was the custom for two or three centuries to
-apply their pictures. <span id="fr_852"></span>[1](#fn_851)
+apply their pictures. <span id="fr_852"></span>[1](#fn_851.md)
 
 THE GAME OF GOOSE--AND OF THE SNAKE.--In addition to the pastimes
 mentioned in the preceding pages, I shall produce two or three more; and
@@ -1120,7 +1120,7 @@ stop two throws; at 30, a fountain where you pay for washing; at 42, a
 labyrinth which carries you back to 23; at 52, the prison where you must
 rest until relieved by another casting the same throw; at 58, the grave
 whence you begin the game again; and at 61, the goblet where you pay for
-tasting. <span id="fr_853"></span>[2](#fn_852) The game is played with
+tasting. <span id="fr_853"></span>[2](#fn_852.md) The game is played with
 two dice, and every player throws in his turn as he sits at the table:
 he must have a counter or some other small mark which he can distinguish
 from the marks of his antagonists, and according to the amount of the
@@ -1144,7 +1144,7 @@ We have also the Game of Snake, and the more modern Game of Matrimony,
 
 with others of the like kind; formed upon the same plan as that of the
 goose, but none of them, according to my opinion, are the least improved
-by the variations. <span id="fr_854"></span>[1](#fn_853)
+by the variations. <span id="fr_854"></span>[1](#fn_853.md)
 
 CROSS AND PILE.--Cross and pile, or with us heads or tails, is a silly
 pastime well enough known among the lowest and most vulgar classes of
@@ -1157,7 +1157,7 @@ Henry, the king's barber, for money which he lent to the king to play at
 cross and pile, five shillings. Item, paid to Pires Barnard, usher of
 the king's chamber, money which he lent the king, and which he lost at
 cross and pile; to Monsieur Robert Wattewille eightpence." <span
-id="fr_855"></span>[2](#fn_854)
+id="fr_855"></span>[2](#fn_854.md)
 
 A halfpenny is generally now used in playing this game; but any other
 coin with a head impressed on one side will answer the purpose: the
@@ -1179,83 +1179,83 @@ determined by the white or black part of the shell being uppermost.
 
 ### Footnotes
 
-<span id="fn_805"></span>[245:1](spe19.htm#fr_806) *De Nug. Curialium*,
+<span id="fn_805"></span>[245:1](spe19.htm#fr_806.md) *De Nug. Curialium*,
 lib. i. cap. 5. \* *De alley et usu, et abusu ejus*. The names given are
 *tessara*, *calculus*, *tabula*, *dardana pugna*, *tricolus*, *serio*,
 *monarchus*, *orbiculi*, *taliorchus*, and *vulpes*.
 
-<span id="fn_806"></span>[246:1](spe19.htm#fr_807) *Orderic. Vital*. p.
+<span id="fn_806"></span>[246:1](spe19.htm#fr_807.md) *Orderic. Vital*. p.
 550.
 
-<span id="fn_807"></span>[246:2](spe19.htm#fr_808) *Reliquary*, 1st
+<span id="fn_807"></span>[246:2](spe19.htm#fr_808.md) *Reliquary*, 1st
 series, vol. xxiii. 528.
 
-<span id="fn_808"></span>[246:3](spe19.htm#fr_809) *Orbis Sensualium
+<span id="fn_808"></span>[246:3](spe19.htm#fr_809.md) *Orbis Sensualium
 Pictus*, translated by Hoole, 1658.
 
-<span id="fn_809"></span>[246:4](spe19.htm#fr_810) In Latin, *Pyrgus,
+<span id="fn_809"></span>[246:4](spe19.htm#fr_810.md) In Latin, *Pyrgus,
 Turricula, et Frittillus*.
 
-<span id="fn_810"></span>[246:5](spe19.htm#fr_811) "In the diary of
+<span id="fn_810"></span>[246:5](spe19.htm#fr_811.md) "In the diary of
 Count Kilmanseg, who came over to the coronation of George III. in 1760
 (published in 1902), is an account of a dicing machine of this
 description, used by the postilions at a Hanover posting-house, to
 decide which of them should take the next job.
 
-<span id="fn_811"></span>[246:6](spe19.htm#fr_812) "Nec ludant ad aleas
+<span id="fn_811"></span>[246:6](spe19.htm#fr_812.md) "Nec ludant ad aleas
 vel taxillos." Decret. Concil. Vigorn. A.D. 1240, directed to the
 clergy.
 
-<span id="fn_812"></span>[247:1](spe19.htm#fr_813) No. 6395, Art. 69.
+<span id="fn_812"></span>[247:1](spe19.htm#fr_813.md) No. 6395, Art. 69.
 
-<span id="fn_813"></span>[247:2](spe19.htm#fr_814) "As false as dicers'
+<span id="fn_813"></span>[247:2](spe19.htm#fr_814.md) "As false as dicers'
 oaths," is a proverbial expression, and used by Shakspeare in Hamlet,
 act iii. scene 4.
 
-<span id="fn_814"></span>[247:3](spe19.htm#fr_815) Hollinshed, vol. iii.
+<span id="fn_814"></span>[247:3](spe19.htm#fr_815.md) Hollinshed, vol. iii.
 p. 1662.
 
-<span id="fn_815"></span>[248:1](spe19.htm#fr_816) Harl. MSS. 1527.
+<span id="fn_815"></span>[248:1](spe19.htm#fr_816.md) Harl. MSS. 1527.
 
-<span id="fn_816"></span>[249:1](spe19.htm#fr_817) Roy. Lib. 13 A.
+<span id="fn_816"></span>[249:1](spe19.htm#fr_817.md) Roy. Lib. 13 A.
 xviii.
 
-<span id="fn_817"></span>[250:1](spe19.htm#fr_818) Palamed. *de
+<span id="fn_817"></span>[250:1](spe19.htm#fr_818.md) Palamed. *de
 Aleatoribus*, cap. 18.
 
-<span id="fn_818"></span>[250:2](spe19.htm#fr_819) Lepistre Othea, MS.
+<span id="fn_818"></span>[250:2](spe19.htm#fr_819.md) Lepistre Othea, MS.
 "Ulixes fu un baron de Grece de grant soubtillete, et en temps du siege
 be Troye it trouva la gieu des esches," etc. Ulysses was a baron of
 Greece, exceedingly wise, and during the siege of Troy invented the game
 of chess. Had. Lib. 4431.
 
-<span id="fn_819"></span>[250:3](spe19.htm#fr_820) *Ency. Brit*. word
+<span id="fn_819"></span>[250:3](spe19.htm#fr_820.md) *Ency. Brit*. word
 Chess.
 
-<span id="fn_820"></span>[250:4](spe19.htm#fr_821) No. 1299.
+<span id="fn_820"></span>[250:4](spe19.htm#fr_821.md) No. 1299.
 
-<span id="fn_821"></span>[250:5](spe19.htm#fr_822) Dream of Love.
+<span id="fn_821"></span>[250:5](spe19.htm#fr_822.md) Dream of Love.
 
-<span id="fn_822"></span>[250:6](spe19.htm#fr_823) *Encyclop.
+<span id="fn_822"></span>[250:6](spe19.htm#fr_823.md) *Encyclop.
 Françoise*, in voce Echecs.
 
-<span id="fn_823"></span>[250:7](spe19.htm#fr_824) \* Bird's *Chess
+<span id="fn_823"></span>[250:7](spe19.htm#fr_824.md) \* Bird's *Chess
 History and Reminiscences* (1893), pp. 55-7.
 
-<span id="fn_824"></span>[251:1](spe19.htm#fr_825) See the Introduction.
+<span id="fn_824"></span>[251:1](spe19.htm#fr_825.md) See the Introduction.
 
-<span id="fn_825"></span>[251:2](spe19.htm#fr_826) See Burton's *Anatomy
+<span id="fn_825"></span>[251:2](spe19.htm#fr_826.md) See Burton's *Anatomy
 of Melancholy*.
 
-<span id="fn_826"></span>[251:3](spe19.htm#fr_827) Collect. vol. i. p.
+<span id="fn_826"></span>[251:3](spe19.htm#fr_827.md) Collect. vol. i. p.
 264.
 
-<span id="fn_827"></span>[251:4](spe19.htm#fr_828) *Ibid*.
+<span id="fn_827"></span>[251:4](spe19.htm#fr_828.md) *Ibid*.
 
-<span id="fn_828"></span>[251:5](spe19.htm#fr_829) *Ency. Brit.* word
+<span id="fn_828"></span>[251:5](spe19.htm#fr_829.md) *Ency. Brit.* word
 Chess.
 
-<span id="fn_829"></span>[251:6](spe19.htm#fr_830) This engraving is
+<span id="fn_829"></span>[251:6](spe19.htm#fr_830.md) This engraving is
 from a drawing in a beautifully illuminated MS. preserved in the British
 Museum (Harl. MSS. 4431.) This MS. was written at the close of the
 fourteenth century, and bears every mark of being the very copy
@@ -1267,35 +1267,35 @@ with some other Grecian hero who is come to visit and play the game with
 him, the two by-standers, I presume, are the umpires to decide the
 matter in case of any dispute.
 
-<span id="fn_830"></span>[251:7](spe19.htm#fr_831) Cott. MSS. Cleop. B.
+<span id="fn_830"></span>[251:7](spe19.htm#fr_831.md) Cott. MSS. Cleop. B.
 ix.
 
-<span id="fn_831"></span>[252:1](spe19.htm#fr_832) In Chaucer's *Dream*
+<span id="fn_831"></span>[252:1](spe19.htm#fr_832.md) In Chaucer's *Dream*
 this piece is called fers and Peers.
 
-<span id="fn_832"></span>[252:2](spe19.htm#fr_833) Roy. Lib. 13 A.
+<span id="fn_832"></span>[252:2](spe19.htm#fr_833.md) Roy. Lib. 13 A.
 xviii.
 
-<span id="fn_833"></span>[252:3](spe19.htm#fr_834) \* Strutt says 55,
+<span id="fn_833"></span>[252:3](spe19.htm#fr_834.md) \* Strutt says 55,
 but reference to the MS. shows that he neglected to note that number 7
 was played three ways.
 
-<span id="fn_834"></span>[253:1](spe19.htm#fr_835) \*Genest's *Hist. of
+<span id="fn_834"></span>[253:1](spe19.htm#fr_835.md) \*Genest's *Hist. of
 the Stage*, vol. x. pp 11-13.
 
-<span id="fn_835"></span>[254:1](spe19.htm#fr_836) And revived by Claud.
+<span id="fn_835"></span>[254:1](spe19.htm#fr_836.md) And revived by Claud.
 Bruxer and others, A.D. 1514, Burton's *Descrip. of Leicestershire*, p.
 182.
 
-<span id="fn_836"></span>[254:2](spe19.htm#fr_837) No. 451.
+<span id="fn_836"></span>[254:2](spe19.htm#fr_837.md) No. 451.
 
-<span id="fn_837"></span>[255:1](spe19.htm#fr_838) Part ii. sect. 2,
+<span id="fn_837"></span>[255:1](spe19.htm#fr_838.md) Part ii. sect. 2,
 mem. 4.
 
-<span id="fn_838"></span>[255:2](spe19.htm#fr_839) \* They are described
+<span id="fn_838"></span>[255:2](spe19.htm#fr_839.md) \* They are described
 in *The Times* of June 22nd, 1887.
 
-<span id="fn_839"></span>[256:1](spe19.htm#fr_840) \* The last revision
+<span id="fn_839"></span>[256:1](spe19.htm#fr_840.md) \* The last revision
 was published in 1895. The literature of draughts has of late years
 attained to astonishing proportions; there were twenty-seven distinct
 works on this one game, issued in England, between 1880 and 1895. This
@@ -1303,7 +1303,7 @@ pastime also supports the following periodicals:--*The Draught World*,
 *The International Draught Magazine*, *The Draught Players' Quarterly
 Review*, and *The Draught Players' Weekly Magazine*.
 
-<span id="fn_840"></span>[257:1](spe19.htm#fr_841) 1 Other more recent
+<span id="fn_840"></span>[257:1](spe19.htm#fr_841.md) 1 Other more recent
 correspondents of *Notes and Queries* have shown that Nine Men's Morris
 is still played by rustics in Derbyshire, Wilts, Norfolk, and Dorset. It
 is also in limited use as a parlour game, and was played fairly
@@ -1312,19 +1312,19 @@ Shakespeare title. It can now (1902) be obtained at the Army and Navy
 Stores, as "Morelles, a Game of Skill for Railway Travellers and for
 Home Amusement."
 
-<span id="fn_841"></span>[257:2](spe19.htm#fr_842) *Archæol. Journal*,
+<span id="fn_841"></span>[257:2](spe19.htm#fr_842.md) *Archæol. Journal*,
 vol. xlix. pp. 319-328. Plans are given of the different "boards."
 
-<span id="fn_842"></span>[258:1](spe19.htm#fr_843) *Journal of Assoc.
+<span id="fn_842"></span>[258:1](spe19.htm#fr_843.md) *Journal of Assoc.
 Archit. Societies*, vol. xi. pp. 127-131.
 
-<span id="fn_843"></span>[259:1](spe19.htm#fr_844) \* The game of
+<span id="fn_843"></span>[259:1](spe19.htm#fr_844.md) \* The game of
 *Solitaire*, re-imported from France, and played with glass marbles on a
 board with suitable depressions, came again suddenly into fashion in
 England in the late "fifties" and early "sixties" of the nineteenth
 century.
 
-<span id="fn_844"></span>[260:1](spe19.htm#fr_845) *Dominoes* (1890)
+<span id="fn_844"></span>[260:1](spe19.htm#fr_845) *Dominoes* (1890.md)
 forms one of the "Club Series" of games issued by George Bell & Sons.
 The considerable diversity of play to be found in modern dominoes is
 indicated by the mere titles of its varieties treated of in these
@@ -1332,39 +1332,39 @@ pages:--The Block Game, All Fives or Muggins, All threes, Domino Whist,
 The Four Game, Sebastopol, Cyprus, Tiddle-a-Wink, The Draw Game, Domino
 Draw Pool, The Matadore Game, The Bergen Game, and Domino Loo.
 
-<span id="fn_845"></span>[260:2](spe19.htm#fr_846) *Archæologia*, vol.
+<span id="fn_845"></span>[260:2](spe19.htm#fr_846.md) *Archæologia*, vol.
 viii.
 
-<span id="fn_846"></span>[260:3](spe19.htm#fr_847) Paston Letters, vol.
+<span id="fn_846"></span>[260:3](spe19.htm#fr_847.md) Paston Letters, vol.
 iii. p. 314.
 
-<span id="fn_847"></span>[261:1](spe19.htm#fr_848) *Treatise against
+<span id="fn_847"></span>[261:1](spe19.htm#fr_848.md) *Treatise against
 Diceing, etc*. (1579), f. 54.
 
-<span id="fn_848"></span>[261:2](spe19.htm#fr_849) Bodleian, Ashm. MSS.
+<span id="fn_848"></span>[261:2](spe19.htm#fr_849.md) Bodleian, Ashm. MSS.
 788.
 
-<span id="fn_849"></span>[264:1](spe19.htm#fr_850) Vol. vii. p. 152 *et
+<span id="fn_849"></span>[264:1](spe19.htm#fr_850.md) Vol. vii. p. 152 *et
 seq*.
 
-<span id="fn_850"></span>[264:2](spe19.htm#fr_851) Cf. *pair* of
+<span id="fn_850"></span>[264:2](spe19.htm#fr_851.md) Cf. *pair* of
 bellows, *pair* of steps, *pair* of organs, etc.
 
-<span id="fn_851"></span>[265:1](spe19.htm#fr_852) \* See Wiltshire's
+<span id="fn_851"></span>[265:1](spe19.htm#fr_852.md) \* See Wiltshire's
 *Descriptive Catalogue of Playing and other Cards in the Brit. Museum*
 (1876); and *Supplement* (1877); also Chatto's *Hist. of Playing Cards*
 (1848).
 
-<span id="fn_852"></span>[265:2](spe19.htm#fr_853) See *Des Lust and
+<span id="fn_852"></span>[265:2](spe19.htm#fr_853.md) See *Des Lust and
 Spiel Hauses*, published at Buda, 1680.
 
-<span id="fn_853"></span>[266:1](spe19.htm#fr_854) "Varieties of this
+<span id="fn_853"></span>[266:1](spe19.htm#fr_854.md) "Varieties of this
 game, requiring the use of either dice or tee-totum to fix the numbers
 are continually being put forth.
 
-<span id="fn_854"></span>[266:2](spe19.htm#fr_855) *Antiq. Repert.*,
+<span id="fn_854"></span>[266:2](spe19.htm#fr_855.md) *Antiq. Repert.*,
 vol. ii. p. 58.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](spe20)
+[Next: Chapter III](spe20.md)

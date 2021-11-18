@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl07)  [Next](irl09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl07)  [Next](irl09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -174,7 +174,7 @@ mystify me other than the work of the very oldest Gods.
 
 I found that I had not lost my love for Vanue, but that I loved her now
 as one loves and is grateful to a leader. My love for Arl was the
-strongest thing in me. <span id="fr_27"></span>[28](#fn_27)
+strongest thing in me. <span id="fr_27"></span>[28](#fn_27.md)
 
 <span id="page_70">p. 70</span>
 
@@ -331,7 +331,7 @@ consent to remaining behind while I went into danger!
 
 ### Footnotes
 
-<span id="fn_27"></span>[69:28](irl08.htm#fr_27) The "school" of growth
+<span id="fn_27"></span>[69:28](irl08.htm#fr_27.md) The "school" of growth
 to which Mutan Mion and Arl and their companions went for their growth
 in both body and mind is the concrete manifestation in apparatus of the
 science of mangrowth as conceived by the three ancient god-races. It was
@@ -399,4 +399,4 @@ children of the Gods of the past.—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Return to Mu](irl09)
+[Next: Chapter VIII. Return to Mu](irl09.md)

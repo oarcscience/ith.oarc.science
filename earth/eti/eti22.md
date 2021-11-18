@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti21)  [Next](eti23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti21)  [Next](eti23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ and we are now ten miles or more beneath the level of the ocean."
 
 <span id="img_10600"></span> <span align="CENTER"> [![WE APPROACH
 DAYLIGHT, I CAN SEE YOUR FORM.](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)  
+Click to enlarge](img/10600.jpg.md)  
 “WE APPROACH DAYLIGHT, I CAN SEE YOUR FORM.”  
 </span>
 
@@ -138,7 +138,7 @@ fragments of stone that, in considerable
 
 <span id="img_10800"></span> <span align="CENTER"> [![SEATED HIMSELF ON
 A NATURAL BENCH OF STONE.](tn/10800.jpg)  
-Click to enlarge](img/10800.jpg)  
+Click to enlarge](img/10800.jpg.md)  
 “SEATED HIMSELF ON A NATURAL BENCH OF STONE.”  
 </span>
 
@@ -155,4 +155,4 @@ He broke the silence, and spoke as follows:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Vitalized Darkness.—The Narrows In Science](eti23)
+[Next: Chapter XVI. Vitalized Darkness.—The Narrows In Science](eti23.md)

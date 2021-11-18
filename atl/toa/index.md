@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
 
 </div>
 
@@ -24,8 +24,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](toa00)    [Page
-Index](pageidx)    [Text \[Zipped\]](toa.txt.gz)
+[Contents](#contents)    [Start Reading](toa00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](toa.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -56,21 +56,21 @@ copyright message so we have included material from it.--J.B. Hare, Dec.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](toa00)  
-[Introduction](toa01)  
-[Contents](toa02)  
-[Chapter I—The Flowing Road](toa03)  
-[Chapter II—The Vase of Minos](toa04)  
-[Chapter III—Laidlaw's Theory](toa05)  
-[Chapter IV—Caxoeira Canyon](toa06)  
-[Chapter V—Kiron](toa07)  
-[Chapter VI—The Gates of Dor](toa08)  
-[Chapter VII—The Queen Advances](toa09)  
-[Chapter VIII—Aulus the Gladiator](toa10)  
-[Chapter IX—The Initiation](toa11)  
-[Chapter X—The Isle of Sele](toa12)  
-[Chapter XI—The Judgment of Ru](toa13)  
-[Chapter XII—The Hall of Sacrifice](toa14)  
-[Chapter XIII—The End of Atlantis](toa15)  
-[Advertisement](toa16)  
-[Back cover copy](toa17)  
+<span id="contents"></span> [Title Page](toa00.md)  
+[Introduction](toa01.md)  
+[Contents](toa02.md)  
+[Chapter I—The Flowing Road](toa03.md)  
+[Chapter II—The Vase of Minos](toa04.md)  
+[Chapter III—Laidlaw's Theory](toa05.md)  
+[Chapter IV—Caxoeira Canyon](toa06.md)  
+[Chapter V—Kiron](toa07.md)  
+[Chapter VI—The Gates of Dor](toa08.md)  
+[Chapter VII—The Queen Advances](toa09.md)  
+[Chapter VIII—Aulus the Gladiator](toa10.md)  
+[Chapter IX—The Initiation](toa11.md)  
+[Chapter X—The Isle of Sele](toa12.md)  
+[Chapter XI—The Judgment of Ru](toa13.md)  
+[Chapter XII—The Hall of Sacrifice](toa14.md)  
+[Chapter XIII—The End of Atlantis](toa15.md)  
+[Advertisement](toa16.md)  
+[Back cover copy](toa17.md)  

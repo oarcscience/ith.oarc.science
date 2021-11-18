@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [African](../index) 
-[Index](index)  [Previous](vao04)  [Next](vao06) 
+[Intangible Textual Heritage](../../index)  [African](../index.md) 
+[Index](index)  [Previous](vao04)  [Next](vao06.md) 
 
 ------------------------------------------------------------------------
 
@@ -2323,4 +2323,4 @@ entire nation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Origin of Obeah](vao06)
+[Next: Chapter IV: Origin of Obeah](vao06.md)

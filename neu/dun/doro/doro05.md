@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](doro04)  [Next](doro06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](doro04)  [Next](doro06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SU1O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SU1O/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Don Rodriguez*, by Lord Dunsany, \[1922\], at Intangible Textual
 Heritage
 
@@ -865,6 +865,6 @@ Rodriguez could not say.
 ------------------------------------------------------------------------
 
 [Next: The Fourth Chronicle: How He Came to the Mountains of the
-Sun](doro06)
+Sun](doro06.md)
 
 </div>

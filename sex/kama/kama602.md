@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama601) 
-[Next](kama603) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama601.md) 
+[Next](kama603.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ reports of the people, and from the positions of the planets, the moon
 and the stars. On occasions of amusement, and of auspicious dreams, she
 should say 'Let me be soon united to him.' If, moreover, she feels
 melancholy, or sees any inauspicious omen, she should perform some rite
-to appease the Deity. <span id="fr_71"></span>[1](kama101.htm#fn_0)
+to appease the Deity. <span id="fr_71"></span>[1](kama101.htm#fn_0.md)
 
 When the man does return home she should worship the God Kama', and
 offer oblations to other Deities, and having caused a pot filled with
@@ -158,8 +158,8 @@ possess.'
 
 ### Footnotes
 
-<span id="fn_71"></span>[1](#fr_-1) Kama, i.e. the Indian Cupid.
+<span id="fn_71"></span>[1](#fr_-1.md) Kama, i.e. the Indian Cupid.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Of the Means of getting Money...](kama603)
+[Next: Chapter III. Of the Means of getting Money...](kama603.md)

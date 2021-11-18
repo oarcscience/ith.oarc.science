@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](mar)  [Next](joh) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](mar)  [Next](joh.md) 
 
 ------------------------------------------------------------------------
 
@@ -4095,4 +4095,4 @@ blessing God.
 
 ------------------------------------------------------------------------
 
-[Next: John](joh)
+[Next: John](joh.md)

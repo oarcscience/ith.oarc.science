@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[Intangible Textual Heritage](../index)  [Index](index)   
-[Authors by Keyword](akwidx)
+[Intangible Textual Heritage](../index)  [Index](index.md)   
+[Authors by Keyword](akwidx.md)
 
 </div>
 
@@ -13,32 +13,32 @@
 
 ------------------------------------------------------------------------
 
-[Titles: A](tk_a)  
-[Titles: B](tk_b)  
-[Titles: C](tk_c)  
-[Titles: D](tk_d)  
-[Titles: E](tk_e)  
-[Titles: F](tk_f)  
-[Titles: G](tk_g)  
-[Titles: H](tk_h)  
-[Titles: I](tk_i)  
-[Titles: J](tk_j)  
-[Titles: K](tk_k)  
-[Titles: L](tk_l)  
-[Titles: M](tk_m)  
-[Titles: N](tk_n)  
-[Titles: O](tk_o)  
-[Titles: P](tk_p)  
-[Titles: Q](tk_q)  
-[Titles: R](tk_r)  
-[Titles: S](tk_s)  
-[Titles: T](tk_t)  
-[Titles: U](tk_u)  
-[Titles: V](tk_v)  
-[Titles: W](tk_w)  
-[Titles: X](tk_x)  
-[Titles: Y](tk_y)  
-[Titles: Z](tk_z)  
+[Titles: A](tk_a.md)  
+[Titles: B](tk_b.md)  
+[Titles: C](tk_c.md)  
+[Titles: D](tk_d.md)  
+[Titles: E](tk_e.md)  
+[Titles: F](tk_f.md)  
+[Titles: G](tk_g.md)  
+[Titles: H](tk_h.md)  
+[Titles: I](tk_i.md)  
+[Titles: J](tk_j.md)  
+[Titles: K](tk_k.md)  
+[Titles: L](tk_l.md)  
+[Titles: M](tk_m.md)  
+[Titles: N](tk_n.md)  
+[Titles: O](tk_o.md)  
+[Titles: P](tk_p.md)  
+[Titles: Q](tk_q.md)  
+[Titles: R](tk_r.md)  
+[Titles: S](tk_s.md)  
+[Titles: T](tk_t.md)  
+[Titles: U](tk_u.md)  
+[Titles: V](tk_v.md)  
+[Titles: W](tk_w.md)  
+[Titles: X](tk_x.md)  
+[Titles: Y](tk_y.md)  
+[Titles: Z](tk_z.md)  
 
 ------------------------------------------------------------------------
 
@@ -52,10 +52,10 @@ listed in this catalog is no indication of its copyright status, or lack
 thereof: some copyrighted items are listed here, and some files based on
 public domain material have specific restrictions on reuse. For more
 information on copyrights, please refer to the site [Terms of
-Service](../tos) and [Copyright](../cnote) pages.
+Service](../tos) and [Copyright](../cnote.md) pages.
 
 If you notice anything *at this site* that hasn't been cataloged here
-but should, please feel free to [contact us](../contact). (If so, please
+but should, please feel free to [contact us](../contact.md). (If so, please
 indicate which file you think should be cataloged by specifying its URL:
 there are tens of thousands of files at the site and we may or may not
 be able to guess which one you are referring to).
@@ -79,7 +79,7 @@ or know the exact title of a book.
 Note that the subject keywords are extracted from data manually supplied
 by the etext preparer. It is not a comprehensive listing of keywords,
 nor is it a full-text index of the site. To search the full text of the
-site, you will need to use [the search page](../search), (or the box at
+site, you will need to use [the search page](../search.md), (or the box at
 the upper right hand corner of this page).
 
 The term 'Author' here, for convenience, includes principal authors,

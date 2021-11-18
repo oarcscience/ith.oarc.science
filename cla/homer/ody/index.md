@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ody00)    [Text
-\[Zipped\]](ody.txt.gz)
+[Contents](#contents)    [Start Reading](ody00.md)    [Text
+\[Zipped\]](ody.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -47,28 +47,28 @@ readable modern voice, informed by archaic consciousness.--J.B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ody00)  
-[Book I.](ody01)  
-[Book II.](ody02)  
-[Book III.](ody03)  
-[Book IV.](ody04)  
-[Book V.](ody05)  
-[Book VI.](ody06)  
-[Book VII.](ody07)  
-[Book VIII.](ody08)  
-[Book IX.](ody09)  
-[Book X.](ody10)  
-[Book XI.](ody11)  
-[Book XII.](ody12)  
-[Book XIII.](ody13)  
-[Book XIV.](ody14)  
-[Book XV.](ody15)  
-[Book XVI.](ody16)  
-[Book XVII.](ody17)  
-[Book XVIII.](ody18)  
-[Book XIX.](ody19)  
-[Book XX.](ody20)  
-[Book XXI.](ody21)  
-[Book XXII.](ody22)  
-[Book XXIII.](ody23)  
-[Book XXIV.](ody24)  
+<span id="contents"></span> [Title Page](ody00.md)  
+[Book I.](ody01.md)  
+[Book II.](ody02.md)  
+[Book III.](ody03.md)  
+[Book IV.](ody04.md)  
+[Book V.](ody05.md)  
+[Book VI.](ody06.md)  
+[Book VII.](ody07.md)  
+[Book VIII.](ody08.md)  
+[Book IX.](ody09.md)  
+[Book X.](ody10.md)  
+[Book XI.](ody11.md)  
+[Book XII.](ody12.md)  
+[Book XIII.](ody13.md)  
+[Book XIV.](ody14.md)  
+[Book XV.](ody15.md)  
+[Book XVI.](ody16.md)  
+[Book XVII.](ody17.md)  
+[Book XVIII.](ody18.md)  
+[Book XIX.](ody19.md)  
+[Book XX.](ody20.md)  
+[Book XXI.](ody21.md)  
+[Book XXII.](ody22.md)  
+[Book XXIII.](ody23.md)  
+[Book XXIV.](ody24.md)  

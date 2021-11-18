@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe004)  [Next](prwe006) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe004)  [Next](prwe006.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ Sheela.
 
 ------------------------------------------------------------------------
 
-[Next: The Key of the Giant's Castle](prwe006)
+[Next: The Key of the Giant's Castle](prwe006.md)

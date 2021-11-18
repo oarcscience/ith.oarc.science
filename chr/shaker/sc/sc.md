@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Shakers](../index) 
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Shakers](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,51 +105,51 @@ GILES AVERY**
 
 ------------------------------------------------------------------------
 
-[INTRODUCTION](#INTRODUCTION)  
+[INTRODUCTION](#INTRODUCTION.md)  
 
-[CHAPTER I.](sc.htm#CHAPI) — Origin of the Society  
+[CHAPTER I.](sc.htm#CHAPI.md) — Origin of the Society  
 
-[CHAPTER II.](sc.htm#CHAPII) — Rise, Progress, and Present State of the
+[CHAPTER II.](sc.htm#CHAPII.md) — Rise, Progress, and Present State of the
 Society  
 
-[CHAPTER III.](sc.htm#CHAPIII) — Qualifications for Membership, and
+[CHAPTER III.](sc.htm#CHAPIII.md) — Qualifications for Membership, and
 Rules and Regulations  
 
-[CHAPTER. IV.](sc.htm#CHAPIV) — Characteristics and Doctrines of Jesus
+[CHAPTER. IV.](sc.htm#CHAPIV.md) — Characteristics and Doctrines of Jesus
 Christ  
 
-[CHAPTER V.](sc.htm#CHAPV) — Character of the Primitive Christian
+[CHAPTER V.](sc.htm#CHAPV.md) — Character of the Primitive Christian
 Church  
 
-[CHAPTER VI.](sc.htm#CHAPVI) — Fall of the Primitive Christian Church  
+[CHAPTER VI.](sc.htm#CHAPVI.md) — Fall of the Primitive Christian Church  
 
-[CHAPTER VII.](sc.htm#CHAPVII) — Rise of the "Two Witnesses"  
+[CHAPTER VII.](sc.htm#CHAPVII.md) — Rise of the "Two Witnesses"  
 
-[CHAPTER VIII.](sc.htm#CHAPVIII)— Character of the Church of Christ's
+[CHAPTER VIII.](sc.htm#CHAPVIII.md)— Character of the Church of Christ's
 Second Appearing  
 
-[CHAPTER IX.](sc.htm#CHAPIX) — Mode of Worship  
+[CHAPTER IX.](sc.htm#CHAPIX.md) — Mode of Worship  
 
-[CHAPTER X.](sc.htm#CHAPX) — Doctrines of the Church of Christ’s Second
+[CHAPTER X.](sc.htm#CHAPX.md) — Doctrines of the Church of Christ’s Second
 Appearing
 
--   [PART I.](sc.htm#CHAPX1) — Mosaic Sabbaths, Higher and Lower Law  
--   [PART II.](sc.htm#CHAPX2) — Probation, and Heavens and Hells  
--   [PART III.](sc.htm#CHAPX3) — God dual—Father and Mother  
--   [PART IV.](sc.htm#CHAPX4) — Judgment-day, and Confession of Sins  
--   [PART V.](sc.htm#CHAPX5) — The Bible
+-   [PART I.](sc.htm#CHAPX1.md) — Mosaic Sabbaths, Higher and Lower Law  
+-   [PART II.](sc.htm#CHAPX2.md) — Probation, and Heavens and Hells  
+-   [PART III.](sc.htm#CHAPX3.md) — God dual—Father and Mother  
+-   [PART IV.](sc.htm#CHAPX4.md) — Judgment-day, and Confession of Sins  
+-   [PART V.](sc.htm#CHAPX5.md) — The Bible
 -     
     Biographies of the Six Founders of the Shaker Society  
 
-[CHAPTER XI.](sc.htm#CHAPXI) — Ann Lee  
+[CHAPTER XI.](sc.htm#CHAPXI.md) — Ann Lee  
 
-[CHAPTER XII.](sc.htm#CHAPXII) — William Lee  
+[CHAPTER XII.](sc.htm#CHAPXII.md) — William Lee  
 
-[CHAPTER XIII.](sc.htm#CHAPXIII) — James Whittaker  
+[CHAPTER XIII.](sc.htm#CHAPXIII.md) — James Whittaker  
 
-[CHAPTER XIV.](sc.htm#CHAPXIV) — John Hocknell  
+[CHAPTER XIV.](sc.htm#CHAPXIV.md) — John Hocknell  
 
-[CHAPTER XV](sc.htm#CHAPXV). — Joseph Meacham and Lucy Wright
+[CHAPTER XV](sc.htm#CHAPXV.md). — Joseph Meacham and Lucy Wright
 
 ### <span id="INTRODUCTION">INTRODUCTION.</span>
 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks26)  [Next](lks28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks26)  [Next](lks28.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ Levanah.--Direct and support us at this present and for ever.
 
 ------------------------------------------------------------------------
 
-[Next: The Explanation Of The Two Triangles In The Parchment](lks28)
+[Next: The Explanation Of The Two Triangles In The Parchment](lks28.md)

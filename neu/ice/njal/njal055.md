@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal054)  [Next](njal056) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal054)  [Next](njal056.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ be very noisy and stormy.
 
 ------------------------------------------------------------------------
 
-[Next: 56. Gunnar And Geir The Priest Strive At The Thing](njal056)
+[Next: 56. Gunnar And Geir The Priest Strive At The Thing](njal056.md)

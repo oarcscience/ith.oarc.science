@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc17)  [Next](busc19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc17)  [Next](busc19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -121,7 +121,7 @@ caused the guiltless king Sīlava, who was seated there, to be seized
 
 with his thousand ministers, and said, "Come, bind this king and his
 ministers with their hands tightly fastened behind their backs, and take
-them to a cemetery. <span id="fr_7"></span>[1](#fn_7) Bury them in holes
+them to a cemetery. <span id="fr_7"></span>[1](#fn_7.md) Bury them in holes
 up to their necks, and so cover them with earth that they cannot move
 even a hand. At night the jackals will come and do what is fitting."
 
@@ -272,7 +272,7 @@ deeds \[karma\]. (*Jat*. No. 51.)
 
 ### Footnotes
 
-<span id="fn_7"></span>[84:1](busc18.htm#fr_7) The Pāli word means a
+<span id="fn_7"></span>[84:1](busc18.htm#fr_7.md) The Pāli word means a
 cemetery for the disposal of dead bodies which have not received the due
 rites of cremation and burial.
 
@@ -280,6 +280,6 @@ rites of cremation and burial.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Birth-Story of the City with Four Gates](busc19)
+[Next: XVI. Birth-Story of the City with Four Gates](busc19.md)
 
 </div>

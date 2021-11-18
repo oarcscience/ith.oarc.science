@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha14)  [Next](sha16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha14)  [Next](sha16.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,7 +220,7 @@ For effort spent on good material, fruits.
 \[paragraph continues\] This happy childhood is followed by a youth
 equally happy. Raghu is married and made crown prince. He is entrusted
 with the care of the horse of sacrifice, <span
-id="fr_6"></span>[1](#fn_6) and when Indra, king of the gods, steals the
+id="fr_6"></span>[1](#fn_6.md) and when Indra, king of the gods, steals the
 horse, Raghu fights him. He cannot overcome the king of heaven, yet he
 acquits himself so creditably that he wins Indra's friendship. In
 consequence of this proof of his manhood, the empire is bestowed upon
@@ -262,7 +262,7 @@ through the tremendous Himalaya range into Assam, and thence home. The
 various nations whom he encounters, Hindus, Persians, Greeks, and White
 Huns, all submit either with or without fighting. On his safe return,
 Raghu offers a great sacrifice and gives away all his wealth. <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
  
 
@@ -280,7 +280,7 @@ mighty grandson, Rama. To Aja are devoted the remainder of this fifth
 canto and the following three cantos; and these Aja-cantos are among the
 loveliest in the epic. When the prince has grown into young manhood, he
 journeys to a neighbouring court to participate in the marriage
-reception of Princess Indumati. <span id="fr_8"></span>[2](#fn_8) One
+reception of Princess Indumati. <span id="fr_8"></span>[2](#fn_8.md) One
 evening he camps by a river, from which a wild elephant issues and
 attacks his party. When wounded by Aja, the elephant strangely changes
 his form, becoming a demigod, gives the prince a magic weapon, and
@@ -938,7 +938,7 @@ the king is unworthy, else heaven would not send death prematurely. Rama
 is roused to stamp out evil-doing in the kingdom, whereupon the dead boy
 comes to life. The king then feels that his task on earth is nearly
 done, and prepares to celebrate the great horse-sacrifice. <span
-id="fr_9"></span>[1](#fn_9) At this sacrifice appear the two youths
+id="fr_9"></span>[1](#fn_9.md) At this sacrifice appear the two youths
 Kusha and Lava, who sing the epic of Rama's deeds in the presence of
 Rama himself. The father perceives their likeness to himself, then
 learns that they are indeed his children, whom he has never seen.
@@ -1287,7 +1287,7 @@ thereafter.
 
 ### Footnotes
 
-<span id="fn_6"></span>[128:1](sha15.htm#fr_6) If a king aspired to the
+<span id="fn_6"></span>[128:1](sha15.htm#fr_6.md) If a king aspired to the
 title of emperor, or king of kings, he was at liberty to celebrate the
 horse-sacrifice. A horse was set free to wander at will for a year, and
 was escorted by a band of noble youths who were not permitted to
@@ -1298,13 +1298,13 @@ submission, with or without fighting, of all the kings into whose
 territories the horse wandered during the year of freedom, he offered
 the horse in sacrifice and assumed the imperial title.
 
-<span id="fn_7"></span>[129:1](sha15.htm#fr_7) This is not the place to
+<span id="fn_7"></span>[129:1](sha15.htm#fr_7.md) This is not the place to
 discuss the many interesting questions of geography and ethnology
 suggested by the fourth canto. But it is important to notice that
 Kalidasa had at least superficial knowledge of the entire Indian
 peninsula and of certain outlying regions.
 
-<span id="fn_8"></span>[129:2](sha15.htm#fr_8) A girl of the warrior
+<span id="fn_8"></span>[129:2](sha15.htm#fr_8.md) A girl of the warrior
 caste had the privilege of choosing her husband. The procedure was this.
 All the eligible youths of the neighbourhood were invited to her house,
 and were lavishly entertained. On the appointed day, they assembled in a
@@ -1313,9 +1313,9 @@ The suitors were presented to her with some account of their claims upon
 her attention, after which she threw the garland around the neck of him
 whom she preferred.
 
-<span id="fn_9"></span>[145:1](sha15.htm#fr_9) See footnote, [p.
-128](#page_128).
+<span id="fn_9"></span>[145:1](sha15.htm#fr_9.md) See footnote, [p.
+128](#page_128.md).
 
 ------------------------------------------------------------------------
 
-[Next: The Birth of the War-god](sha16)
+[Next: The Birth of the War-god](sha16.md)

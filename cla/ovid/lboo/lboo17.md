@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo16)  [Next](lboo18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo16)  [Next](lboo18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ subscribam: 'VENERI FIDAS SIBI NASO MINISTRAS<br />
 ------------------------------------------------------------------------
 
 [Next: Elegy XII: He Calls Down Curses On The Tablets Which Bring Him
-Word Of His Mistress's Refusal.](lboo18)
+Word Of His Mistress's Refusal.](lboo18.md)

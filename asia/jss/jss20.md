@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss19)  [Next](jss21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss19)  [Next](jss21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -422,20 +422,20 @@ to his own home. Then he went to the yurta of
 <span id="img_19400"></span> <span align="CENTER"> [![THE RUSSIAN EXILE
 AND TWO BURIAT SHAMANS, ONE STANDING ON EACH SIDE OF
 HIM.](tn/19400.jpg)  
-Click to enlarge](img/19400.jpg)  
+Click to enlarge](img/19400.jpg.md)  
 THE RUSSIAN EXILE AND TWO BURIAT SHAMANS, ONE STANDING ON EACH SIDE OF
 HIM.  
 </span>
 
-*Page* [76](jss10.htm#page_76)
+*Page* [76](jss10.htm#page_76.md)
 
 <span id="img_19401"></span> <span align="CENTER"> [![MY CARRIAGE READY.
 THE ITALIAN BLACKSMITH.](tn/19401.jpg)  
-Click to enlarge](img/19401.jpg)  
+Click to enlarge](img/19401.jpg.md)  
 MY CARRIAGE READY. THE ITALIAN BLACKSMITH.  
 </span>
 
-*Page* [73](jss10.htm#page_73)
+*Page* [73](jss10.htm#page_73.md)
 
  
 
@@ -482,4 +482,4 @@ assembled, and there was feasting for nine days and nine nights.
 
 ------------------------------------------------------------------------
 
-[Next: Buruldai Bogdo Khan. No. II](jss21)
+[Next: Buruldai Bogdo Khan. No. II](jss21.md)

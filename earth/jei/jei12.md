@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei11)  [Next](jei13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei11)  [Next](jei13.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ and show that neither Peary nor Cook was able to prove that he had
 reached the pole and that the scientific societies which considered
 their claims especially the committee of his fellow countrymen who
 examined Peary's proofs--agreed that in neither case could it be said
-[authoritatively](errata.htm#50) that the explorer had reached the pole.
+[authoritatively](errata.htm#50.md) that the explorer had reached the pole.
 
 ### THE FIRST CLAIM TO THE POLE
 
@@ -105,7 +105,7 @@ there."
 
 That is really a remarkable admission from a scientist. For, if the
 orthodox scientific idea about the polar regions is right, it ought to
-be colder there than anywhere else. And yet Dr. [Tittman](errata.htm#51)
+be colder there than anywhere else. And yet Dr. [Tittman](errata.htm#51.md)
 admits that practically all scientists agree that this is not the fact.
 Some, he says, think there is an open sea there and others say there is
 fertile land. We can see why some of them think there is open sea there
@@ -129,7 +129,7 @@ say, who will be the first to give their adherence to our theory. For it
 alone gives a logical explanation of the facts which they admit but
 cannot explain.
 
-But at any rate, Dr. [Tittman](errata.htm#52) had no light to throw on
+But at any rate, Dr. [Tittman](errata.htm#52.md) had no light to throw on
 Cook's claim except insofar as Cook reported neither open water nor
 fertile land, and in view of the unanimous discovery by explorers of
 open water in the regions of the polar orifice, it is very clear that
@@ -491,7 +491,7 @@ exploits, was one of the most active
 
 <span id="page_207">p. 207</span>
 
-men in [lobbying](errata.htm#53) for this bill, and that he has since
+men in [lobbying](errata.htm#53.md) for this bill, and that he has since
 been dismissed from his position in the government service.
 
 ### SUMMING UP THE LESSON OF THIS CONTROVERSY
@@ -509,7 +509,7 @@ finding one's way around in a neighborhood where observations from the
 sun are not possible in winter--and the sun was barely above the horizon
 when both explorers were there--where distances are deceptive, where the
 compass is useless, where even Nansen admits he was
-[absolutely](errata.htm#54) lost--owing to all these difficulties we
+[absolutely](errata.htm#54.md) lost--owing to all these difficulties we
 must not be astonished at the failure of these two men to find out where
 they really were. We need not even impute to them bad faith; both may
 have been honest in their claims although Peary's attacks on Cook and
@@ -545,7 +545,7 @@ they come into the realm of perpetual sunlight.
 ### AMUNDSEN IN THE ARCTIC REGIONS
 
 Since the above was written there have appeared despatches in the
-newspapers from Nome and [Copenhagen](errata.htm#55) to the effect that
+newspapers from Nome and [Copenhagen](errata.htm#55.md) to the effect that
 Captain Roald Amundsen is making an attempt to reach what is generally
 known as the North Pole. As Amundsen thinks he discovered the "South
 Pole" it will be very interesting to watch his progress in the north.
@@ -556,7 +556,7 @@ According to these despatches, Captain Amundsen was on the shore of the
 Bering Sea, at a Russian trading post called Anadir, late in April.
 Details were not forthcoming. Captain Bartlett, who commanded the
 Roosevelt on Peary's expedition, thinks the fact that
-[Amundsen](errata.htm#56) has come to that point means that something
+[Amundsen](errata.htm#56.md) has come to that point means that something
 has gone wrong with his plans. Meanwhile Captain Ejnar, an Arctic
 explorer, takes issue with what Nansen has said about Amundsen's
 expedition, namely, that it is possible for him to reach his
@@ -578,4 +578,4 @@ to include some form of aeroplane.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Two Congressional Opinions on Peary and Cook](jei13)
+[Next: Chapter X. Two Congressional Opinions on Peary and Cook](jei13.md)

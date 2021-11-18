@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos08)  [Next](mos10) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos08)  [Next](mos10.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ every one; And We drowned the others(Al-Shu\`arâ':52-66).
 ------------------------------------------------------------------------
 
 [Next: The Miracles of Moses and The Ash\`abite Psychology of The
-Pharaoh](mos10)
+Pharaoh](mos10.md)

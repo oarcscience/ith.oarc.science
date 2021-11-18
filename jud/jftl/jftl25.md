@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl24)  [Next](jftl26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl24)  [Next](jftl26.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@
 
 <span id="page_243">p. 243</span>
 
-# The Rabbi's Bogey-Man <span id="fr_0"></span>[1](#fn_0)
+# The Rabbi's Bogey-Man <span id="fr_0"></span>[1](#fn_0.md)
 
 Rabbi Lion, of the ancient city of Prague, sat in his study in the
 Ghetto looking very troubled. Through the window he could see the River
@@ -36,7 +36,7 @@ witches
 
 <span id="img_24400"></span> <span align="CENTER"> [![The monster was
 battering down the door of the synagogue. (Page 249)](tn/24400.jpg)  
-Click to enlarge](img/24400.jpg)  
+Click to enlarge](img/24400.jpg.md)  
 The monster was battering down the door of the synagogue. (Page 249)  
 </span>
 
@@ -192,11 +192,11 @@ attic of the synagogue when the story was told of the rabbi's bogey-man.
 
 ### Footnotes
 
-<span id="fn_0"></span>[243:1](jftl25.htm#fr_0) The 'Bogey-Man' of this
+<span id="fn_0"></span>[243:1](jftl25.htm#fr_0.md) The 'Bogey-Man' of this
 story is, of course, the famous 'Golem,' the folkloric predecessor of
 such famous literary artificial life-forms as the Dr. Frankenstein's
 monster, as well as HAL 9000 and the Terminator.--JBH
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Frog](jftl26)
+[Next: The Fairy Frog](jftl26.md)

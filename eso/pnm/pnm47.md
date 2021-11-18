@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm46)  [Next](pnm48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm46)  [Next](pnm48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ the apple of the eye of a civet eat, held under the tongue of a man, is
 said to make him to divine or prophesy; the same is selenite, the
 moon-stone, reported to do. So they say that the Images of Gods may be
 called up by the stone called anchitis; <span
-id="fr_28"></span>[\*](#fn_28) and that the ghosts of the dead may be,
+id="fr_28"></span>[\*](#fn_28.md) and that the ghosts of the dead may be,
 being called up, kept up by the stone synochitis. The like doth the herb
 aglauphotis do, which is also called marmorites, growing upon the
 marbles of Arabia, as saith Pliny, and the which magicians use. Also
@@ -85,7 +85,7 @@ own blood.
 
 ### Footnotes
 
-<span id="fn_28"></span>[126:\*](pnm47.htm#fr_28) This was, in all
+<span id="fn_28"></span>[126:\*](pnm47.htm#fr_28.md) This was, in all
 probability, some mineral that resembled Dr. Dee's celebrated stone,
 which was cannel-coal, a black mineral coal sufficiently hard to be cut
 and polished and used by him as a Magic Mirror.
@@ -93,4 +93,4 @@ and polished and used by him as a Magic Mirror.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXIX. That We May, By Some Certain Matters of the World,
-Stir Up the Gods of the World and Their Ministering Spirits](pnm48)
+Stir Up the Gods of the World and Their Ministering Spirits](pnm48.md)

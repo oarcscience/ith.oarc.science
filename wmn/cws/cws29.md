@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws28)  [Next](cws30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws28)  [Next](cws30.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXV
 
-#### CONCERNING THE CHRIST AND THE LOGOS <span id="fr_112"></span>[3](#fn_112)
+#### CONCERNING THE CHRIST AND THE LOGOS <span id="fr_112"></span>[3](#fn_112.md)
 
 NOW, Christ Jesus--the perfected spiritual, not physical, man--is the
 culmination of the human stream which flows upwards into the bosom of
@@ -14,7 +14,7 @@ God. Man, arising by evolution from the lowest, finds his highest
 development, as man, in the Christ. Having reached this point, he is the
 perfect Son of Man, in that he is produced in and of Humanity; and being
 such, and because he is such, he receives the baptism of the Logos. Now,
-the Logos is the Adonai <span id="fr_113"></span>[4](#fn_113) a word
+the Logos is the Adonai <span id="fr_113"></span>[4](#fn_113.md) a word
 which implies Duality. And the Adonai is the Son of God, the
 Only-Begotten, the Two-in-One, whose manifestation is possible only
 through the Christ. The Celestial Trinity is composed of Substance,
@@ -57,13 +57,13 @@ Logos in the Christ, the Divine in the Human, the God in Man.
 
 ### Footnotes
 
-<span id="fn_112"></span>[68:3](cws29.htm#fr_112) London, July 12, 1881.
+<span id="fn_112"></span>[68:3](cws29.htm#fr_112.md) London, July 12, 1881.
 Received in sleep.
 
-<span id="fn_113"></span>[68:4](cws29.htm#fr_113) The name invariably
+<span id="fn_113"></span>[68:4](cws29.htm#fr_113.md) The name invariably
 substituted by the Hebrews for Jehovah in speaking. See Part II, No.
 VIII: also Part III.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. XXVI: Concerning The Perfectionment Of The Christ](cws30)
+[Next: No. XXVI: Concerning The Perfectionment Of The Christ](cws30.md)

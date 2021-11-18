@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc67)  [Next](osc69) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc67)  [Next](osc69.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ equal.
 
 ------------------------------------------------------------------------
 
-[Next: (3) ''Telling the Bees''](osc69)
+[Next: (3) ''Telling the Bees''](osc69.md)

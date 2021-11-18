@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktcu10)  [Next](pktcu08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktcu10)  [Next](pktcu08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Nine
 
 <span id="img_cu09"></span> <span align="CENTER"> [![](tn/cu09.jpg)  
-Click to enlarge](img/cu09.jpg)</span>
+Click to enlarge](img/cu09.jpg.md)</span>
 
 A goodly personage has feasted to his heart's content, and abundant
 refreshment of wine is on the arched counter behind him, seeming to
@@ -33,4 +33,4 @@ readings vary and include mistakes, imperfections, etc.
 
 ------------------------------------------------------------------------
 
-[Next: Eight of Cups](pktcu08)
+[Next: Eight of Cups](pktcu08.md)

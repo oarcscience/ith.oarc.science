@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab05)  [Next](mab07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab05)  [Next](mab07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 
 ### NOTES TO THE LADY OF THE FOUNTAIN.
 
-<span id="xref_3a">3a</span> ARTHUR.--*Page* [3](mab05.htm#page_3).
+<span id="xref_3a">3a</span> ARTHUR.--*Page* [3](mab05.htm#page_3.md).
 
 AMONG the various characters introduced into the foregoing tale, none is
 more strictly and successfully maintained than that of Arthur. In him we
@@ -106,7 +106,7 @@ Warriors,--
 
 "The grave of March is this, and this the grave of Gwythyr.  
 Here is the grave of Gwgawn Gleddyfrudd  
-But unknown is the grave of Arthur." <span id="fr_1"></span>[1](#fn_1)
+But unknown is the grave of Arthur." <span id="fr_1"></span>[1](#fn_1.md)
 
 Our English ears are so familiarized with the name of *King* Arthur,
 that it seems impossible to give him the appellation of Emperor, by
@@ -126,7 +126,7 @@ He was the emperor, and conductor of the toil of war."
  
 
 <span id="xref_3b">3b</span> CAERLLEON UPON USK.--Page
-[3](mab05.htm#page_3).
+[3](mab05.htm#page_3.md).
 
 THIS place derives its name from the circumstance of its being the
 station of the Second Legion (Legio Secunda Augusta) during the dominion
@@ -170,7 +170,7 @@ the Twentieth Legion, called *Legio Vicesima Valens Victrix*, the word
  
 
 <span id="xref_3c">3c</span> OWAIN THE SON OF URIEN.--*Page*
-[3](mab05.htm#page_3).
+[3](mab05.htm#page_3.md).
 
 OWAIN AB URIEN RHEGED.--AMONGST all the characters of ancient British
 history, none is more interesting, or occupies a more conspicuous place,
@@ -187,7 +187,7 @@ Northumberland. In the Appendix to Gale's Nennius, it is mentioned that
 Urien was one of the four Northern princes who opposed the progress of
 Deodric the Son of Ida. Urien besieged the latter in the island of
 Lindisfarne. The other princes were Rhydderch Hael, Gwallawc ap Llenawc,
-and Morcant, <span id="fr_2"></span>[1](#fn_2) the latter of whom being
+and Morcant, <span id="fr_2"></span>[1](#fn_2.md) the latter of whom being
 jealous of Urien's military skill, in which he is
 
 <span id="page_35">p. 35</span>
@@ -196,7 +196,7 @@ said to have excelled all the other kings, procured his assassination
 during the expedition.
 
 According to Llywarch Hen's Elegy upon Urien Rheged, this event occurred
-in a place called Aberlleu. <span id="fr_3"></span>[1](#fn_3)
+in a place called Aberlleu. <span id="fr_3"></span>[1](#fn_3.md)
 
 The Triads mention Llovan Llawdivo as the assassin. Of him little is
 known; but that he was a person of some note is evident from the
@@ -204,7 +204,7 @@ circumstance of his grave being recorded.
 
 "The grave of Llovan Llawdivo  
 is on the strand of Menai, where makes the wave a sullen sound." <span
-id="fr_4"></span>[2](#fn_4)
+id="fr_4"></span>[2](#fn_4.md)
 
 "The Genealogy of the Saints records that Urien came into South Wales,
 and Was instrumental with the sons of Ceredig ab Cunedda, and his
@@ -238,7 +238,7 @@ In the course of this Elegy, the Bard bursts forth with all the energy
 of the Awen,
 
 "Could Lloegria sleep with the light upon her eyes?" <span
-id="fr_5"></span>[3](#fn_5)
+id="fr_5"></span>[3](#fn_5.md)
 
  
 
@@ -252,7 +252,7 @@ In the Myvyrian Archaiology (II. 80) we have the following Triad
 relating to him.
 
 "Three Knights of battle were in the Court of Arthur; Cadwr, the Earl of
-Cornwall; Lancelot du Lac; <span id="fr_6"></span>[1](#fn_6) and Owain
+Cornwall; Lancelot du Lac; <span id="fr_6"></span>[1](#fn_6.md) and Owain
 the son of Urien Rheged. And this was their characteristic, that they
 would not retreat from battle, neither for Spear, nor for Arrow, nor for
 Sword, and Arthur never had shame in battle, the day he saw their faces
@@ -260,7 +260,7 @@ there, and they were called the Knights of Battle."
 
 Owain is also mentioned with Rhun mab Maelgwn, and Rhufawn befr mab
 Deorath Wledig, as one of the Three blessed Kings; <span
-id="fr_7"></span>[2](#fn_7) and in the 52nd Triad, we are informed that
+id="fr_7"></span>[2](#fn_7.md) and in the 52nd Triad, we are informed that
 his Mother's name was Modron, the daughter of Afallach, and that he was
 born a twin with his sister Merwydd, or Morvyth, to whom Cynon ap
 Clydno's attachment is well known.
@@ -313,7 +313,7 @@ encore inventé la mode des gants."
  
 
 <span id="xref_3d">3d</span> KYNON THE SON OF CLYDNO.--*Page*
-[3](mab05.htm#page_3).
+[3](mab05.htm#page_3.md).
 
 CYNON AP CLYDNO EIDDIN.--This ancient British Warrior is celebrated in
 the Triads as one of the Three wisely-counselling Knights of Arthur's
@@ -411,12 +411,12 @@ The grave of Kyrion the son of Clydno Eiddin."
 
  
 
-<span id="xref_3e">3e</span> CLYDNO.--*Page* [3](mab05.htm#page_3).
+<span id="xref_3e">3e</span> CLYDNO.--*Page* [3](mab05.htm#page_3.md).
 
 CLYDNO EIDDIN, the father of Cynon.--But little is known of the history
 of this Chieftain, although as late as the fourteenth Century, his name
 is found recorded by the Bards, in such terms as to make it evident that
-he still continued to [occupy](errata.htm#0) a place of considerable
+he still continued to [occupy](errata.htm#0.md) a place of considerable
 distinction among the heroes of the Principality, as may be seen in a
 poem by Risierdyn, a bard who flourished about the year 1300. In this
 poem, which records the burial of Hywel ap Gruffudd in the Church of St.
@@ -432,14 +432,14 @@ Silent are his remains within their oaken cell."
 <span id="page_40">p. 40</span>
 
 <span id="xref_3f">3f</span> KAI THE SON OF KYNER.--*Page*
-[3](mab05.htm#page_3).
+[3](mab05.htm#page_3.md).
 
 CAI AP CYNYR.--According to the Welsh pedigrees, Kai was the son of
 Cynyr Cainvarvawc, the son of Gwron, the son of Cunedda Wledig. In the
 Triads he is called one of the three diadem'd chiefs of battle, and is
 said to have been possessed of magical powers, by which he could
 transform himself into any shape he pleased. <span
-id="fr_8"></span>[1](#fn_8) Of his real history, however, nothing is
+id="fr_8"></span>[1](#fn_8.md) Of his real history, however, nothing is
 known. It is supposed that Caer Gai, in North Wales, bear his name; and
 it was the opinion of Iolo Morganwg, that the place of his sepulture was
 at Cai Hir, at Aberavan, in Glamorganshire.
@@ -486,7 +486,7 @@ hym."
 
 At the end of the twelvemonth, Beaumayns desired to be knighted, in
 order to achieve a certain perilous adventure; <span
-id="fr_9"></span>[1](#fn_9) and Sir Kai called him a "kechyn knave." And
+id="fr_9"></span>[1](#fn_9.md) and Sir Kai called him a "kechyn knave." And
 when the young man left the Court, to set out on his expedition, Kai
 armed himself and followed him, thinking to vanquish him without
 difficulty, and bring him to disgrace. But Beaumayns unhorsed Sir Kai,
@@ -498,12 +498,12 @@ Lot, and brother of Sir Gawain.
 
  
 
-<span id="xref_3g">3g</span> GWENHWYVAR.--Page [3](mab05.htm#page_3).
+<span id="xref_3g">3g</span> GWENHWYVAR.--Page [3](mab05.htm#page_3.md).
 
 ACCORDING to the Welsh Legends, Arthur had three queens, one of whom was
 daughter of Gwythyr ap Greidiol, another of Gwryd Gwent, and a third of
 Gogyrvan Gawr; and each of them bore the name of Gwenhwyvar. Concerning
-the latter lady, <span id="fr_10"></span>[2](#fn_10) the following
+the latter lady, <span id="fr_10"></span>[2](#fn_10.md) the following
 couplet is still current in the Principality:--
 
 "Gwenhwyvar, the daughter of Gogyrvan the Giant,  
@@ -530,7 +530,7 @@ Francesca da Rimini.
 
  
 
-<span id="xref_3h">3h</span> PORTER.--*Page* [3](mab05.htm#page_3).
+<span id="xref_3h">3h</span> PORTER.--*Page* [3](mab05.htm#page_3.md).
 
 THE absence of a Porter was formerly considered as an indication of
 hospitality, and as such is alluded to by Rhys Brychan, a bard who
@@ -549,7 +549,7 @@ Of the South, except a Porter."--I. 139.
  
 
 <span id="xref_3i">3i</span> GLEWLWYD GAVAELVAWR.--*Page*
-[3](mab05.htm#page_3).
+[3](mab05.htm#page_3.md).
 
 "THE dusky hero of the mighty grasp" is said to have escaped from the
 battle of Camdan by means of his extraordinary strength and stature.
@@ -583,7 +583,7 @@ Unless it be by force, &c."
  
 
 <span id="xref_3j">3j</span> ON A SEAT OF GREEN RUSHES.--Page
-[3](mab05.htm#page_3).
+[3](mab05.htm#page_3.md).
 
 THE use of green rushes in apartments was by no means peculiar to the
 Court of Caerleon upon Usk. Our ancestors had a great predilection for
@@ -617,12 +617,12 @@ slip either backward or forward the space of a mote in the sunshine
 <span id="page_44">p. 44</span>
 
 of June. Then I would have a chair with a cushion beneath me, and a
-pillow under each elbow," <span id="fr_11"></span>[1](#fn_11) &c. Y Paun
+pillow under each elbow," <span id="fr_11"></span>[1](#fn_11.md) &c. Y Paun
 Bach then goes on to describe the entertainment he desires to have. The
 fire is to be of ashen billets, without smoke or sparks; and the supper
-is to consist of wine, and swans, <span id="fr_12"></span>[2](#fn_12)
+is to consist of wine, and swans, <span id="fr_12"></span>[2](#fn_12.md)
 and bitterns, and sundry spiced collops besides; and the servants, all
-dressed in one livery, <span id="fr_13"></span>[3](#fn_13) are to ply
+dressed in one livery, <span id="fr_13"></span>[3](#fn_13.md) are to ply
 him continually with ale, and urge him to drink, for his own good and
 the honour of his entertainers.
 
@@ -635,7 +635,7 @@ sa salle bien jonchée."--Poésies Provençales, cited by Ste. Palaye, I.
 <span id="page_45">p. 45</span>
 
 <span id="xref_3k">3k</span> FLAME-COLOURED SATIN.--Page
-[3](mab05.htm#page_3).
+[3](mab05.htm#page_3.md).
 
 THE literal translation of this expression is yellow-red. With regard to
 this mixture of colours, Ellis, in his notes to Way's Fabliaux, remarks,
@@ -655,7 +655,7 @@ crimson, *green* crimson, &c.) would be easily accounted for." II. 227.
  
 
 <span id="xref_4a">4a</span> DISTANT REGIONS.--*Page*
-[4](mab05.htm#page_4).
+[4](mab05.htm#page_4.md).
 
 LITERALLY, "desert places, and the extremities of the earth." It is
 possible that some peculiar district of romantic geography was intended
@@ -672,7 +672,7 @@ Nynyue (Viviane) the chyef lady of the lake," &c.
  
 
 <span id="xref_4b">4b</span> TREES OF EQUAL GROWTH.--*Page*
-[4](mab05.htm#page_4).
+[4](mab05.htm#page_4.md).
 
 THIS species of scenery appears to have been much admired by our
 ancestors.
@@ -708,7 +708,7 @@ Some very red, and some a glad light grene."
  
 
 <span id="xref_4c">4c</span> YELLOW SATIN.--*Page*
-[4](mab05.htm#page_4).
+[4](mab05.htm#page_4.md).
 
 PALI MELYN.--The exact signification of the word Pali in the original is
 not quite obvious, as it sometimes seems to imply satin and sometimes
@@ -725,7 +725,7 @@ scarlet was permitted to be worn only by Knights. (I. 247, 283.)
  
 
 <span id="xref_5a">5a</span> SINEWS OF THE STAG.--*Page*
-[5](mab05.htm#page_5).
+[5](mab05.htm#page_5.md).
 
 MOSELEY, in his work upon Archery, says that "bowstrings were composed
 from the sinews of beasts, and on that account are termed '*Nervus*,'
@@ -775,7 +775,7 @@ instance."--Rit. Met. Rom. III. 343, 344.
  
 
 <span id="xref_5c">5c</span> WINGED WITH PEACOCK'S FEATHERS.--*Page*
-[5](mab05.htm#page_5).
+[5](mab05.htm#page_5.md).
 
 THAT it was fashionable to feather arrows in this manner, we learn from
 the following description of the Yeman who attended upon the Knight, in
@@ -798,7 +798,7 @@ twelve arrows with peacock's feathers, bought for the King, twelvepence.
 There was much art and care required in the construction and feathering
 of arrows. That the Welsh archers paid much attention to their
 equipments may be seen in an interesting passage from the composition
-already noticed, [p. 43](#page_43). In this Tale the messenger from the
+already noticed, [p. 43](#page_43.md). In this Tale the messenger from the
 Court of North Wales, who appears to be a skilful archer, on being told
 by Gwgan the Bard that a robber will ride away with his horse, answers,
 "But what if I were opposite to him in yonder Wood, with a bow of red
@@ -825,7 +825,7 @@ and other depredators."
  
 
 <span id="xref_5d">5d</span> GOLDEN HEADS.--BLADES OF GOLD.--Page
-[5](mab05.htm#page_5).
+[5](mab05.htm#page_5.md).
 
 To Knights and to their families was exclusively confined the privilege
 of decorating their dress, their arms, and the accoutrements of their
@@ -879,7 +879,7 @@ Good is the band of this steel vestment.--(I. 158.)
  
 
 <span id="xref_5e">5e</span> VARIEGATED LEATHER.--*Page*
-[5](mab05.htm#page_5).
+[5](mab05.htm#page_5.md).
 
 CORDWAL.--This word occurs in another of the Mabinogion; and from the
 manner that it is used, it is evidently intended for the French
@@ -889,7 +889,7 @@ where it was manufactured.
 <span id="page_50">p. 50</span>
 
 <span id="xref_5f">5f</span> DAMSELS EMBROIDERING SATIN.--*Page*
-[5](mab05.htm#page_5).
+[5](mab05.htm#page_5.md).
 
 IN the English Romance of "Ywayne and Gawain," paraphrased from the
 French "Chevalier an Lyon," we find a similar picture. In a beautiful
@@ -906,7 +906,7 @@ consider that they might earn "fourty shilling."
  
 
 <span id="xref_5f">5f</span> MORE LOVELY THAN GWENHWYVAR.--*Page*
-[5](mab05.htm#page_5).
+[5](mab05.htm#page_5.md).
 
 THIS was the highest compliment that Kynon could pay to the beauty of
 these four-and-twenty damsels, since Gwenhwyvar is celebrated in the
@@ -924,7 +924,7 @@ Where the Castle of the valorous Arthur stands."
  
 
 <span id="xref_5g">5g</span> THEY ROSE UP AT MY COMING.--*Page*
-[5](mab05.htm#page_5).
+[5](mab05.htm#page_5.md).
 
 IT was very usual in the chivalric days, for the ladies to perform those
 courteous offices for the Knights, even where there were male
@@ -943,10 +943,10 @@ their courtesy went so far.
 <span id="page_51">p. 51</span>
 
 <span id="xref_5h">5h</span> GOLD BAND UPON THE MANTLE.--*Page*
-[5](mab05.htm#page_5).
+[5](mab05.htm#page_5.md).
 
 THE word in the original Welsh is *gorffoys*, which is evidently the
-same as *orfrays*, or *aurifrigia*. <span id="fr_14"></span>[1](#fn_14)
+same as *orfrays*, or *aurifrigia*. <span id="fr_14"></span>[1](#fn_14.md)
 This was a kind of fretwork, or embroidery of gold, and is mentioned
 thus in the playful description of the allegorical figure of Idlenesse,
 which occurs in the Romaunt of the Rose:
@@ -960,7 +960,7 @@ A rose garlonde had she set."--562-6.
  
 
 <span id="xref_6a">6a</span> BUFFALO HORN.--*Page*
-[6](mab05.htm#page_6).
+[6](mab05.htm#page_6.md).
 
 DRINKING-HORNS of this material are frequently mentioned by the Bards,
 and appear to have been made use of by the Welsh in all their banquets.
@@ -982,7 +982,7 @@ both fallen in one of the late encounters, he bursts out in a pathetic
 strain of lamentation, "The wail of death has been heard, they both have
 departed!--O, lost Moreiddig, how greatly shall I miss thee!"
 
-<span id="xref_8a">8a</span> FOUNTAIN.--*Page* [8](mab05.htm#page_8).
+<span id="xref_8a">8a</span> FOUNTAIN.--*Page* [8](mab05.htm#page_8.md).
 
 THIS description answers to that of the Fountain of Barenton, in the
 forest of Breceliande, to which locality it is referred in the
@@ -990,7 +990,7 @@ forest of Breceliande, to which locality it is referred in the
 <span id="page_52">p. 52</span>
 
 <span class="contnote">\[paragraph continues\]</span> "Chevalier au
-Lion." <span id="fr_15"></span>[1](#fn_15) Breceliande is in Brittany,
+Lion." <span id="fr_15"></span>[1](#fn_15.md) Breceliande is in Brittany,
 and is the fabled scene of Merlin's imprisonment, by the enchantments of
 his Mistress Viviane, the Lady of the Lake. Within the precincts of this
 Forest also lay the Val sans Retour, or the Vallon des Faux Amans.
@@ -1003,7 +1003,7 @@ Their light lasted over al the land."--line 364.
  
 
 <span id="xref_10a">10a</span> AN ADVENTURE SO MUCH TO HIS OWN
-DISCREDIT.--*Page* [10](mab05.htm#page_10).
+DISCREDIT.--*Page* [10](mab05.htm#page_10.md).
 
 BY the laws of Chivalry, the knights were under a solemn obligation,
 when relating their adventures, to give a faithful account of what
@@ -1013,7 +1013,7 @@ themselves.
  
 
 <span id="xref_10b">10b</span> UNCOURTEOUS SPEECH.--*Page*
-[10](mab05.htm#page_10).
+[10](mab05.htm#page_10.md).
 
 SIR KAI'S uncourteous speech was proverbial. In Ywain and Gawin, we are
 told,
@@ -1033,7 +1033,7 @@ Sertes, sir Kay, thou ert unhende."--line 488.
  
 
 <span id="xref_10c">10c</span> HORN FOR WASHING.--*Page*
-[10](mab05.htm#page_10).
+[10](mab05.htm#page_10.md).
 
 IT was customary to prepare for dinner by washing the hands, and the
 summons for this preparation was given by sounding a horn, which, by the
@@ -1043,14 +1043,14 @@ the same notice was given by ringing a bell.
 <span id="page_53">p. 53</span>
 
 <span id="xref_12a">12a</span> BLACK KNIGHT.--*Page*
-[12](mab05.htm#page_12).
+[12](mab05.htm#page_12.md).
 
 We have the name of the Black Knight given us both in the English and in
 the French version. In the former, the appellation of *Salados the
 rouse* is bestowed upon him, and in the latter he is called *Elcadoc le
 rous*, which bears some resemblance to the Welsh Cadoc or Cattwg.
 
-<span id="xref_12b">12b</span> MAIDEN.--*Page* [12](mab05.htm#page_12).
+<span id="xref_12b">12b</span> MAIDEN.--*Page* [12](mab05.htm#page_12.md).
 
 THIS maiden, whose name we subsequently find to be Luned, is supposed,
 in the Notes to Jones's Welsh Bards, to be the same person as Elined the
@@ -1064,7 +1064,7 @@ concerning her:--
 martyrdom upon a hill called Penginger, near Brecknock, which the
 Historian of that County, so often quoted, identifies with Slwch.
 
-'Crug gorseddawl,' <span id="fr_16"></span>[1](#fn_16) mentioned after
+'Crug gorseddawl,' <span id="fr_16"></span>[1](#fn_16.md) mentioned after
 the name of Elined in the Myvyrian Archaiology, has been taken for
 Wyddgrug, or Mold, in Flintshire; but it may be no more than a
 descriptive appellation of Slwch, on which there were lately some
@@ -1089,7 +1089,7 @@ Orkney, who undertook the adventure of the "Castel
 <span id="page_54">p. 54</span>
 
 peryllous" on her behalf, and whose illtreatment by Sir Kai is related,
-[p. 40](#page_40). Sir Gareth took his full revenge upon Sir Kai, but
+[p. 40](#page_40.md). Sir Gareth took his full revenge upon Sir Kai, but
 his conduct under the taunts he received from Luned, who called. him a
 *kechen knaue*, and used towards him very discourteous language,
 considering that he was taking up her quarrel, is generous and
@@ -1104,7 +1104,7 @@ Lynette in the Idylls of the King.
  
 
 <span id="xref_13a">13a</span> WHATEVER IS IN MY POWER.--*Page*
-[13](mab05.htm#page_13).
+[13](mab05.htm#page_13.md).
 
 IT appears rather extraordinary at first sight that Luned should take so
 lively an interest in Owain, and give herself so much trouble to forward
@@ -1116,7 +1116,7 @@ embassy to Arthur's Court some time previously.
  
 
 <span id="xref_13b">13b</span> TAKE THIS RING.--*Page*
-[13](mab05.htm#page_13).
+[13](mab05.htm#page_13.md).
 
 THE ring is enumerated among the "Thirteen Rarities of Kingly Regalia of
 the Island of Britain, which were formerly kept at Caerlleon, on the
@@ -1136,7 +1136,7 @@ indirectly derived.
  
 
 <span id="xref_13c">13c</span> HORSEBLOCK.--*Page*
-[13](mab05.htm#page_13).
+[13](mab05.htm#page_13.md).
 
 ELLIS, in his Notes to Way's Fabliaux, has the following remarks upon
 horseblocks, which are mentioned in a vast number of the old Romances:
@@ -1156,7 +1156,7 @@ their vassals, and from whence the publick criers made proclamations to
 the people."--(II. 229.)
 
 <span id="xref_13d">13d</span> PAINTED WITH GORGEOUS COLOURS.--*Page*
-[13](mab05.htm#page_13).
+[13](mab05.htm#page_13.md).
 
 THIS custom of painting figures upon the panels of rooms was much
 practised and esteemed at the time when we may suppose that this Tale
@@ -1176,7 +1176,7 @@ As though a storme shuld bresten every bough," &c.--(1977.)
 
  
 
-<span id="xref_14a">14a</span> SENDALL.--*Page* [14](mab05.htm#page_14).
+<span id="xref_14a">14a</span> SENDALL.--*Page* [14](mab05.htm#page_14.md).
 
 THIS Word is the same as that in the original Welsh, and is used by the
 old writers to signify a thin kind of silk like cyprus. The dress of the
@@ -1189,7 +1189,7 @@ Lined with taffata and with sendalle."--(441.)
  
 
 <span id="xref_15b">15b</span> SHE WASHED OWAIN'S HEAD.--*Page*
-[15](mab05.htm#page_15).
+[15](mab05.htm#page_15.md).
 
 HOWEVER these personal services may appear to be at variance with the
 manners of the present day, it is clear that they were in perfect
@@ -1213,7 +1213,7 @@ she went and ministered in like manner to the other twain."
  
 
 <span id="xref_15a">15a</span> COUNTESS.--*Page*
-[15](mab05.htm#page_15).
+[15](mab05.htm#page_15.md).
 
 THE English Version gives this Countess the title of
 
@@ -1236,7 +1236,7 @@ Kentigern, who founded the Cathedral at Glasgow.
  
 
 <span id="xref_18a">18a</span> HER NUPTIALS WITH OWAIN.--*Page*
-[18](mab05.htm#page_18).
+[18](mab05.htm#page_18.md).
 
 THIS trait of manners is very characteristic of the times in which the
 present Tale was written. It was very usual for widows and heiresses in
@@ -1447,7 +1447,7 @@ Ne coude him not amenden with a word."--line 10410.
  
 
 <span id="xref_20a">20a</span> SATIN ROBE OF HONOUR.--*Page*
-[20](mab05.htm#page_20).
+[20](mab05.htm#page_20.md).
 
 THIS species of honourable dress could only be worn by knights; and,
 according to Ste. Palaye, was generally the gift of the sovereign, who
@@ -1461,7 +1461,7 @@ manteau d'honneur."--(I. 287.)
  
 
 <span id="xref_20b">20b</span> EARL OF RHANGYW.--*Page*
-[20](mab05.htm#page_20).
+[20](mab05.htm#page_20.md).
 
 PROBABLY this is meant for the Earl of Anjou, and was originally written
 *Iarll yr Angyw*, the Welsh particle yr, in its contracted form *'r*,
@@ -1477,7 +1477,7 @@ upon his seneschal Sir Kai.
  
 
 <span id="xref_20c">20c</span> STRONG LANCES.--*Page*
-[20](mab05.htm#page_20).
+[20](mab05.htm#page_20.md).
 
 IT would be vain to attempt to find English terms corresponding
 precisely with those used in the Welsh text, to designate the various
@@ -1485,12 +1485,12 @@ kinds of arms which the knights fought with, in this Tale.
 
  
 
-<span id="xref_21a">21a</span> COUSIN.--*Page* [21](mab05.htm#page_21).
+<span id="xref_21a">21a</span> COUSIN.--*Page* [21](mab05.htm#page_21.md).
 
 THE following genealogical table will explain this consanguinity, as
 given in the Welsh Pedigrees.
 
-<span id="img_06100"></span> ![Genealogical chart](img/06100.jpg)  
+<span id="img_06100"></span> ![Genealogical chart](img/06100.jpg.md)  
 Genealogical chart
 
 From very remote periods down to the time of Elizabeth, the Welsh kept
@@ -1528,7 +1528,7 @@ delegates to the national council."
  
 
 <span id="xref_21b">21b</span> GIVE ME YOUR SWORDS.--*Page*
-[21](mab05.htm#page_21).
+[21](mab05.htm#page_21.md).
 
 THIS modesty, in disclaiming praise, and attaching merit to others, was
 one of the most esteemed qualities of knighthood. Ste. Palaye quotes
@@ -1545,7 +1545,7 @@ etroite liaison d'amitié entre ces genereux ennemis."--(I. 150.)
 
  
 
-<span id="xref_21c">21c</span> BANQUET.--*Page* [21](mab05.htm#page_21).
+<span id="xref_21c">21c</span> BANQUET.--*Page* [21](mab05.htm#page_21.md).
 
 A FEAST which took three years to prepare, and three months to consume,
 appears in our degenerate days as something quite enormous; but it is a
@@ -1556,7 +1556,7 @@ charm away the remembrance of their sorrows.
  
 
 <span id="xref_21d">21d</span> A DAMSEL ENTERED, UPON A BAY
-HORSE.--*Page* [21](mab05.htm#page_21).
+HORSE.--*Page* [21](mab05.htm#page_21.md).
 
 THE custom of riding into a hall, while the Lord and his guests sat at
 meat, the memory of which is still preserved in the coronation
@@ -1581,7 +1581,7 @@ Ful besily they waiten yong and old."--10,390-10,401.
  
 
 <span id="xref_22a">22a</span> AND ANOINT HIM WITH THIS BALSAM.--*Page*
-[22](mab05.htm#page_22).
+[22](mab05.htm#page_22.md).
 
 THE healing art was always confined to females in chivalric times, a
 principal part of whose education it formed, and to the -wives and
@@ -1598,7 +1598,7 @@ adventure of the Manteau mal taillé will unfortunately prove.
  
 
 <span id="xref_23a">23a</span> WRESTED FROM HER BY A YOUNG EARL.--*Page*
-[23](mab05.htm#page_23).
+[23](mab05.htm#page_23.md).
 
 THE name of this invader is in Ywain and Gawin, "The ryche eryl, syr
 Alers,"--line 1871; and the "Cuens Alers," in the Chevalier au Lion.
@@ -1606,7 +1606,7 @@ Alers,"--line 1871; and the "Cuens Alers," in the Chevalier au Lion.
  
 
 <span id="xref_24a">24a</span> A BEAUTIFUL BLACK STEED.--*Page*
-[24](mab05.htm#page_24).
+[24](mab05.htm#page_24.md).
 
 THE name of Owain's horse is recorded, with the epithet of
 "irrestrainable" (*Anrheithfarch*), but we cannot venture to affirm that
@@ -1617,7 +1617,7 @@ with so disastrous a fate at the falling of the portcullis.
  
 
 <span id="xref_25a">25a</span> WENT ON HIS WAY, AS BEFORE.--*Page*
-[25](mab05.htm#page_25).
+[25](mab05.htm#page_25.md).
 
 THE story of this adventure, as well as that of the fountain, appears to
 have been popular in the Principality, during the Middle Ages, as it is
@@ -1643,7 +1643,7 @@ The dragon, gorged with human blood,
  
 
 <span id="xref_25b">25b</span> STONE VAULT.--*Page*
-[25](mab05.htm#page_25).
+[25](mab05.htm#page_25.md).
 
 THIS part of the Tale is by no means clearly expressed, but it is
 evidently intended to be understood that Luned was incarcerated in a
@@ -1654,7 +1654,7 @@ contest with Luned's persecutors.
  
 
 <span id="xref_27a">27a</span> A MONSTER.--*Page*
-[27](mab05.htm#page_27).
+[27](mab05.htm#page_27.md).
 
 THIS monster is in the English called "Harpyns of Mowntain," and he is,
 moreover, said to have been "a devil of mekil pryde." According to this
@@ -1688,7 +1688,7 @@ Was noght bot of a bul-skyn."
  
 
 <span id="xref_29a">29a</span> STATE OF STUPOR.--*Page*
-[29](mab05.htm#page_29).
+[29](mab05.htm#page_29.md).
 
 THE literal meaning of this passage is not advantageous to the
 four-and-twenty ladies, as it gives them a character for anything but
@@ -1698,7 +1698,7 @@ which they were thrown into a state of insensibility.
 
  
 
-<span id="xref_29b">29b</span> HOSPICE.--*Page* [29](mab05.htm#page_29).
+<span id="xref_29b">29b</span> HOSPICE.--*Page* [29](mab05.htm#page_29.md).
 
 SPYTTY.--This term is derived from the Latin word Hospitium, and is used
 to designate those establishments which were erected and maintained by
@@ -1708,7 +1708,7 @@ spots at a distance, from any town. Several places in Wales retain the
 recollection of these hospitable institutions in the name they still
 bear, as Spytty Ivan, Spytty Cynvyn, &c.
 
-<span id="xref_30a">30a</span> RAVENS.--*Page* [30](mab05.htm#page_30).
+<span id="xref_30a">30a</span> RAVENS.--*Page* [30](mab05.htm#page_30.md).
 
 As some explanation of this strange expression, it may, be noticed, that
 in another of the Mabinogion, called the "Dream of Rhonabwy," Owain is
@@ -1726,11 +1726,11 @@ armorial hearings of that house already alluded to.
 
 ### Footnotes
 
-<span id="fn_1"></span>[33:1](mab06.htm#fr_1) March ap Meirchion,
+<span id="fn_1"></span>[33:1](mab06.htm#fr_1.md) March ap Meirchion,
 Gwythyr ap Greidiol, and Gwgawn Gleddyfrudd, were three of Arthur's
 Knights; the second of them was father to Queen Gwenhwyvar.
 
-<span id="fn_2"></span>[34:1](mab06.htm#fr_2) In the Life of St.
+<span id="fn_2"></span>[34:1](mab06.htm#fr_2.md) In the Life of St.
 Kentigern, mention is made of a wicked king of Strathclyde, called
 Morken. Perhaps he is the Morcant, who caused the death of Urien Rheged.
 
@@ -1738,18 +1738,18 @@ Probably it is through a confusion of names, by no means unusual in
 those days, that Urien's wife, Morgan le Fay, is by the old romancers
 accused of an attempt to assassinate him.
 
-<span id="fn_3"></span>[35:1](mab06.htm#fr_3) Myv. Arch. i. 105.
+<span id="fn_3"></span>[35:1](mab06.htm#fr_3.md) Myv. Arch. i. 105.
 
-<span id="fn_4"></span>[35:2](mab06.htm#fr_4) Myv. Arch. i. 78.
+<span id="fn_4"></span>[35:2](mab06.htm#fr_4.md) Myv. Arch. i. 78.
 
-<span id="fn_5"></span>[35:3](mab06.htm#fr_5) This line, with the
+<span id="fn_5"></span>[35:3](mab06.htm#fr_5.md) This line, with the
 substitution of Cambria for Lloegria \[England\], was taken as the
 subject of a speech to rouse the Welsh to the due consideration of their
 literature, by the Rev. Thomas Price of Crickhowel, at the Meeting <span
 id="page_35">p. 35</span> of the Cymreigyddion Society of Abergavenny,
 in the Autumn of 1835. The effect it produced was quite electric.
 
-<span id="fn_6"></span>[36:1](mab06.htm#fr_6) Lancelot du Lac is
+<span id="fn_6"></span>[36:1](mab06.htm#fr_6.md) Lancelot du Lac is
 generally considered as an exception to the general rule, that all the
 heroes of the Arthurian Romances are of Welsh origin. But it has been
 suggested to me by a learned Antiquary, that this distinction does not
@@ -1757,7 +1757,7 @@ really exist, the name of Lancelot being nothing more than a translation
 of Paladr-ddellt (splintered spear), which was the name of a knight of
 Arthur's Court, celebrated in the Triads.
 
-<span id="fn_7"></span>[36:2](mab06.htm#fr_7) The arrangement of ancient
+<span id="fn_7"></span>[36:2](mab06.htm#fr_7.md) The arrangement of ancient
 pedigrees is at all times attended with difficulty, but vain indeed
 would be the attempt to reconcile the genealogies of Romance with those
 of history.
@@ -1765,21 +1765,21 @@ of history.
 In Morte d'Arthur, Owain's Mother is Morgan le Fay, sister to King
 Arthur.
 
-<span id="fn_8"></span>[40:1](mab06.htm#fr_8) Kai's horse, according to
+<span id="fn_8"></span>[40:1](mab06.htm#fr_8.md) Kai's horse, according to
 the Welsh authorities, was called *Gwineu gwddwf hir*, the *long-necked
 bay*.
 
-<span id="fn_9"></span>[41:1](mab06.htm#fr_9) It is somewhat singular
+<span id="fn_9"></span>[41:1](mab06.htm#fr_9.md) It is somewhat singular
 that this adventure was undertaken on behalf of Luned, who, under the
 title of the damoysel saueage, rode to Arthur's Court, to beseech the
 championship of some of the Knights of the Table rounde, for her' sister
 dame Lyones, of the Castel peryllous. The story is again referred to in
 a subsequent Note.
 
-<span id="fn_10"></span>[41:2](mab06.htm#fr_10) According to the
+<span id="fn_10"></span>[41:2](mab06.htm#fr_10.md) According to the
 Romances, Arthur's Queen was daughter of King Leodegrance.
 
-<span id="fn_11"></span>[44:1](mab06.htm#fr_11) We trace the customs of
+<span id="fn_11"></span>[44:1](mab06.htm#fr_11.md) We trace the customs of
 a country in what may appear accidental expressions. Thus a cushion in a
 chair was one of the requisites of a Welsh establishment.
 
@@ -1791,18 +1791,18 @@ And his harp in tune.
 
 In like manner it is particularly mentioned in the present tale, that
 Arthur had "a cushion of red satin under his elbow," [p.
-3](mab05.htm#page_3); and that at the Castle where Kynon was received,
+3](mab05.htm#page_3.md); and that at the Castle where Kynon was received,
 on his way to the adventure of the Fountain, the maidens, in doing him
 honour, " placed cushions both beneath and around him," when he sat down
-to meat, [p. 6](mab05.htm#page_6). In this latter instance, the cushions
+to meat, [p. 6](mab05.htm#page_6.md). In this latter instance, the cushions
 we find were covered with red linen.
 
-<span id="fn_12"></span>[44:2](mab06.htm#fr_12) Swans appear to have
+<span id="fn_12"></span>[44:2](mab06.htm#fr_12.md) Swans appear to have
 been a great dainty in those days. Of the luxurious Monk in the
 Pilgrimage to Canterbury, Chaucer tells us, "A fat swan loved he best of
 any rost."--line 206.
 
-<span id="fn_13"></span>[44:3](mab06.htm#fr_13) Uniformity of dress in
+<span id="fn_13"></span>[44:3](mab06.htm#fr_13.md) Uniformity of dress in
 those who held the same office, appears to be dwelt upon with much
 satisfaction by the writers of the Middle Ages. In Geoffrey of Monmouth,
 the thousand young noblemen, who, at Arthur's Coronation Banquet,
@@ -1823,19 +1823,19 @@ A WEBBE, a DYER, and a TAPISER,
 Were alle yclothed in o livere,  
 Of a solemne and grete fraternite."--line 363.
 
-<span id="fn_14"></span>[51:1](mab06.htm#fr_14) See Du Cange, *in voce*.
+<span id="fn_14"></span>[51:1](mab06.htm#fr_14.md) See Du Cange, *in voce*.
 
-<span id="fn_15"></span>[52:1](mab06.htm#fr_15) A long note on the story
+<span id="fn_15"></span>[52:1](mab06.htm#fr_15.md) A long note on the story
 of the Fountain of Barenton in printed separately on [p.
-67](mab08.htm#page_67), so which the reader is referred.
+67](mab08.htm#page_67.md), so which the reader is referred.
 
 A fountain possessed of the like properties occurs in the Fabliau of
 "The Paradise of Love," and a similar one is mentioned in " The noble
 Hystory of Kyng Ponthus of Galyce."
 
-<span id="fn_16"></span>[53:1](mab06.htm#fr_16) Crug gorseddawl, "the
+<span id="fn_16"></span>[53:1](mab06.htm#fr_16.md) Crug gorseddawl, "the
 hill of Judicature."--Dr. Pughe's Welsh Dictionary.
 
 ------------------------------------------------------------------------
 
-[Next: Versions in Other Languages](mab07)
+[Next: Versions in Other Languages](mab07.md)

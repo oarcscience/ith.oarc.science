@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp10)  [Next](lbp12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp10)  [Next](lbp12.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,14 +12,14 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 [![THE VIRGIN OF THE FIVE TOWNS.&lt;BR&gt; ''The vision approached
 nearer and nearer and sat by the side of the sleeping huntsman and gazed
 upon him for a long time in silence.''](tn/20600.jpg)  
-Click to enlarge](img/20600.jpg)  
+Click to enlarge](img/20600.jpg.md)  
 THE VIRGIN OF THE FIVE TOWNS.  
 ''The vision approached nearer and nearer and sat by the side of the
 sleeping huntsman and gazed upon him for a long time in silence.''  
 
 <span id="img_20601"></span> ![](img/20601.jpg)
 
-# THE VIRGIN OF THE FIVE TOWNS. <span id="fr_18"></span>[1](#fn_18)
+# THE VIRGIN OF THE FIVE TOWNS. <span id="fr_18"></span>[1](#fn_18.md)
 
 ### BALLAD.
 
@@ -30,15 +30,15 @@ sleeping huntsman and gazed upon him for a long time in silence.''
 | ![](img/20602.jpg) |
 
 IRAM is sad, very sad; what ails Airam? An untiring huntsman, yet the
-aurora found him in Achular <span id="fr_19"></span>[2](#fn_19) with his
+aurora found him in Achular <span id="fr_19"></span>[2](#fn_19.md) with his
 bow slung over his shoulder and the faithful Bart lying at his feet. The
 thick branches of the trees of Esquiroz <span
-id="fr_20"></span>[3](#fn_20) sheltered his sleep from the burning rays
+id="fr_20"></span>[3](#fn_20.md) sheltered his sleep from the burning rays
 of
 
 <span id="page_207">p. 207</span>
 
-the sun, and the lasses of Sumbilla <span id="fr_21"></span>[1](#fn_21)
+the sun, and the lasses of Sumbilla <span id="fr_21"></span>[1](#fn_21.md)
 rejoiced when, coming to the spring to draw water, they heard the merry
 songs of the youthful huntsman as he descended the declivity.
 
@@ -48,7 +48,7 @@ fixed, his countenance pale, melancholy, and pensive.
 
 Listen, stranger. Airam hunted all one day. At nightfall the damp beams
 of the white moon surprised him as he lay on the sward of Bardena
-Real. <span id="fr_22"></span>[2](#fn_22) The habitations were distant;
+Real. <span id="fr_22"></span>[2](#fn_22.md) The habitations were distant;
 the limbs of the huntsman were weary with fatigue, and he slumbered. And
 in his sleep he had a dream.
 
@@ -60,7 +60,7 @@ like those of the roe of Ollin: the
 
 <span id="page_208">p. 208</span>
 
-face that of Benzozia, <span id="fr_23"></span>[1](#fn_23) the goddess
+face that of Benzozia, <span id="fr_23"></span>[1](#fn_23.md) the goddess
 of felicity and of chaste love. The heart of Airam palpitated visibly, a
 fierce fire devoured his soul. The young man placed his hand on his
 breast and found it empty. The vision approached nearer and nearer, and
@@ -72,9 +72,9 @@ then was heard a celestial voice, which arrested the course of the moon,
 and made its white beams flicker. It was a voice such as has not its
 equal on earth; a voice which arrests the fury of the hurricane as it is
 about to break over the heights of Canigou, <span
-id="fr_24"></span>[2](#fn_24) where it dwells; a voice which stills the
+id="fr_24"></span>[2](#fn_24.md) where it dwells; a voice which stills the
 waters against the promontory of Jaizquibel. <span
-id="fr_25"></span>[3](#fn_25) And she said:
+id="fr_25"></span>[3](#fn_25.md) And she said:
 
 "Airam! for two years have I sought you; from the lattices of my convent
 I have called you every night. The bark of your faithful Bart was echoed
@@ -136,7 +136,7 @@ fixed, his countenance pale, melancholy, and pensive.
 
 Place, place to the minstrel who comes from distant lands! Place to him,
 for he comes in time to dispute the prize at the floral games. Clemencia
-Isaura <span id="fr_26"></span>[1](#fn_26) has
+Isaura <span id="fr_26"></span>[1](#fn_26.md) has
 
 <span id="page_211">p. 211</span>
 
@@ -147,7 +147,7 @@ not sweet, because the hurricane of the Pyrenees, the tempest on the
 ocean, the simoom of the desert, have rendered his voice hoarse.
 
 "I saw Zaira close to the cistern of Embrun; <span
-id="fr_27"></span>[1](#fn_27) Zaira was good and lovely. I am thirsty, I
+id="fr_27"></span>[1](#fn_27.md) Zaira was good and lovely. I am thirsty, I
 said to her, and she lifted her water pitcher, made of clay from the
 Nile, and put it to my parched lips."
 
@@ -190,7 +190,7 @@ Bardena Real. And the wind sadly murmured also that she had gone away
 never to return.
 
 Then the troubadour flung his cithern to his shoulder and came to
-Tolosa <span id="fr_28"></span>[1](#fn_28) to dispute the prize in the
+Tolosa <span id="fr_28"></span>[1](#fn_28.md) to dispute the prize in the
 floral games. He will never return to his birthplace, to its mountains,
 because they have all told him that Cingaya the Beautiful had departed
 never to return.
@@ -245,53 +245,53 @@ countenance pale, melancholy, and pensive.
 
 ### Footnotes
 
-<span id="fn_18"></span>[206:1](lbp11.htm#fr_18) *Five Towns of Aragon*.
+<span id="fn_18"></span>[206:1](lbp11.htm#fr_18.md) *Five Towns of Aragon*.
 A group composed of the towns of *Sos*, *Sadava*, *Uncastillo*,
 *Tauste*, and *Egetz*--all situated on the frontiers of Aragon and
 Navarre, to the extreme of the Pyrenees.
 
-<span id="fn_19"></span>[206:2](lbp11.htm#fr_19) *Achular*. A mountain
+<span id="fn_19"></span>[206:2](lbp11.htm#fr_19.md) *Achular*. A mountain
 of Guipuzcoa, close to Andoain. There is another of the same name in the
 valley of Lerin, in Navarre.
 
-<span id="fn_20"></span>[206:3](lbp11.htm#fr_20) *Esquiroz*. A mountain
+<span id="fn_20"></span>[206:3](lbp11.htm#fr_20.md) *Esquiroz*. A mountain
 situated in Navarre, on the confines of Bardena Real.
 
-<span id="fn_21"></span>[207:1](lbp11.htm#fr_21) *Sumbilla*. A lovely,
+<span id="fn_21"></span>[207:1](lbp11.htm#fr_21.md) *Sumbilla*. A lovely,
 picturesque town of Navarre, situated in the valley of Lerin, on the
 straight line with Vidassoa, about thirty-five kilometres from Pamplona.
 
-<span id="fn_22"></span>[207:2](lbp11.htm#fr_22) *Bardena Real*. A
+<span id="fn_22"></span>[207:2](lbp11.htm#fr_22.md) *Bardena Real*. A
 deserted arid plain cut through by rocks and broken boulders, extending
 from the junction of the rivers Ebro and Aragon to two kilometres beyond
 the frontier of the ancient kingdom of Aragon, a distance comprehending
 many kilometres.
 
-<span id="fn_23"></span>[208:1](lbp11.htm#fr_23) *Benzozia*. The Venus
+<span id="fn_23"></span>[208:1](lbp11.htm#fr_23.md) *Benzozia*. The Venus
 of chaste love of the primitive Basque people.
 
-<span id="fn_24"></span>[208:2](lbp11.htm#fr_24) *Canigou*. A high and
+<span id="fn_24"></span>[208:2](lbp11.htm#fr_24.md) *Canigou*. A high and
 inaccessible mountain of the French Pyrenees; part corresponds to Spain.
 
-<span id="fn_25"></span>[208:3](lbp11.htm#fr_25) *Jaizquibel*. A
+<span id="fn_25"></span>[208:3](lbp11.htm#fr_25.md) *Jaizquibel*. A
 mountain which rises parallel to the Cantabrian Sea from the Port of
 Passagens to that of Fuenterrabia. At its extreme north there stood
 anciently the promontory of Olearso, in our days the Cape of Higuer.
 
-<span id="fn_26"></span>[210:1](lbp11.htm#fr_26) *Clemencia Isaura*. A
+<span id="fn_26"></span>[210:1](lbp11.htm#fr_26.md) *Clemencia Isaura*. A
 noble lady descended from the nobles of Tolosa. She lived in the
 fifteenth century. It was she who <span id="page_211">p. 211</span>
 revived in that city the famous floral games which had fallen into
 disuse for more than a century, and she left at her death, in 513, a
 fixed sum for defraying the expenses of those poetic tournaments.
 
-<span id="fn_27"></span>[211:1](lbp11.htm#fr_27) *Embrun*. A cistern
+<span id="fn_27"></span>[211:1](lbp11.htm#fr_27.md) *Embrun*. A cistern
 situated in Palestine, and much renowned in the time of the Crusaders.
 
-<span id="fn_28"></span>[212:1](lbp11.htm#fr_28) *Tolosa*. The capital
+<span id="fn_28"></span>[212:1](lbp11.htm#fr_28.md) *Tolosa*. The capital
 of the province of Guipuzcoa.
 
 ------------------------------------------------------------------------
 
 [Next: Kurucificatuaren Canta (The Chant of the
-Crucified)--Ballad](lbp12)
+Crucified)--Ballad](lbp12.md)

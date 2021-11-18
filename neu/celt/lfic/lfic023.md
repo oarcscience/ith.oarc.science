@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic022)  [Next](lfic024) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic022)  [Next](lfic024.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ despotically ruled by his children.
 
 ------------------------------------------------------------------------
 
-[Next: Jemmy Doyle in the Fairy Palace](lfic024)
+[Next: Jemmy Doyle in the Fairy Palace](lfic024.md)

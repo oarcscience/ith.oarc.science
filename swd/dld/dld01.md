@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dld00)  [Next](dld02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dld00)  [Next](dld02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103633/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103633/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ understood in the church why the Lord is called the Word. It is because
 Divine truth itself or Divine wisdom itself. And this is why He is
 called the Light, of which also it is said that it came into the world.
 As the Divine wisdom and the Divine love make a one, <span
-id="fr_0"></span>[1-1](#fn_0) and in the Lord had been a one from
+id="fr_0"></span>[1-1](#fn_0.md) and in the Lord had been a one from
 eternity, it is said, "In Him was life, and the life was the light of
 men." "Life" is Divine love; and "light" is Divine wisdom. It is this
 one that is meant by, "In the beginning the Word was with God, and God
@@ -66,7 +66,7 @@ intelligence. For this same Word that is among men in this world is also
 among the angels in the heavens, but in this world among men it is
 natural, whereas in the heavens it is spiritual. And as the Word is the
 Divine truth, it is also the Divine proceeding; <span
-id="fr_1"></span>[2-1](#fn_1) and this is not only from the Lord, but is
+id="fr_1"></span>[2-1](#fn_1.md) and this is not only from the Lord, but is
 also the Lord Himself; and being the Lord Himself, it follows that each
 and all things of the Word have been written concerning Him alone. From
 Isaiah to Malachi there is nothing that is not either concerning the
@@ -158,7 +158,7 @@ and of perplexity, from the Lord Jehovih of Armies (22:5). In that day
 shall Jehovah visit upon the army of the height, and upon the kings of
 the earth. Alter a multitude of days shall they be visited; then shall
 the moon blush, and the sun be ashamed (24:21, 22, 23). It shall be
-said <span id="fr_2"></span>[4-1](#fn_2) in that day, Lo, this is our
+said <span id="fr_2"></span>[4-1](#fn_2.md) in that day, Lo, this is our
 God, for whom we have waited, that He may deliver us (25:9). In that day
 shall this song be sung in the land of Judah, We have a strong city
 (26:1). In that day Jehovah shall visit with His sword. In that day ye
@@ -438,7 +438,7 @@ shall reign a king, and shall prosper, and shall execute judgment and
 justice in the earth: and this is His name whereby they shall call Him,
 JEHOVAH OUR RIGHTEOUSNESS (Jer. 23:5, 6; 33:15, 16). Rejoice greatly, O
 daughter of Zion shout, O daughter of Jerusalem behold, thy King cometh
-unto thee, He is just and saved. <span id="fr_3"></span>[6-1](#fn_3) He
+unto thee, He is just and saved. <span id="fr_3"></span>[6-1](#fn_3.md) He
 shall speak peace to the nations and His dominion shall be from sea to
 sea, and from the river even to the ends of the earth (Zech. 9:9, 10).
 Rejoice and be glad, O daughter of Zion; lo, I come, that I may dwell in
@@ -631,7 +631,7 @@ spake unto you while I was yet with you, that all things must be
 fulfilled which were written in the Law of Moses, and in the Prophets,
 and in the Psalms, concerning Me (Luke 24:44). That in the world the
 Lord fulfilled all things of the Word, even to the veriest
-singulars <span id="fr_4"></span>[11-1](#fn_4) of it, is evident from
+singulars <span id="fr_4"></span>[11-1](#fn_4.md) of it, is evident from
 these His own words: Verily I say unto you, Till heaven and earth pass,
 one jot or one tittle shall not pass from the law, till all things be
 accomplished (Matt. 5:18). From these passages it may now be clearly
@@ -666,7 +666,7 @@ Gethsemane, see Matt. 26:36-44; Mark 14:32-42; and Luke 22:39-46. And
 concerning the temptations on the cross, see Matt. 27:33-50; Mark
 15:22-37; Luke 23:33-49; and John 19:17-34.) Temptations are nothing
 else than combats against the hells. <span
-id="fr_5"></span>[12-1](#fn_5)
+id="fr_5"></span>[12-1](#fn_5.md)
 
 <span class="margnote"><span id="13.">13.</span></span>
 
@@ -1226,7 +1226,7 @@ Jehovah the Father. That nothing else is meant by being sent, and sent
 by the Father, is evident from all the passages where it is said that He
 did the will of the Father and works, which were that He conquered the
 hells, glorified His Human, taught the Word, and set up <span
-id="fr_6"></span>[20-1](#fn_6) a new church, which could not have been
+id="fr_6"></span>[20-1](#fn_6.md) a new church, which could not have been
 done except by means of a Human conceived from Jehovah and born of a
 virgin, that is, unless God had been made Man. Examine the passages
 where "sent" occurs, and you will see. As, for instance, Matt. 10:40;
@@ -1375,7 +1375,7 @@ God, and afterwards said that they should see the Son of man sitting at
 the right hand of power, and coming in the clouds of heaven, by which is
 meant that after the passion of the cross He would possess the Divine
 power of opening the Word and setting up the church anew, <span
-id="fr_7"></span>[26-1](#fn_7) which could not be effected before,
+id="fr_7"></span>[26-1](#fn_7.md) which could not be effected before,
 because He had not then conquered hell and glorified His Human. What is
 signified by sitting upon the clouds of heaven, and coming in glory, has
 been set forth in the work on Heaven and Hell, n. 1.)
@@ -1392,7 +1392,7 @@ world through Him may be saved (John 3:17). He that soweth the good seed
 is the Son of man (Matt. 13:37). Redemption and salvation are here
 treated of, and as the Lord effects these by means of the Word, He here
 calls Himself "the Son of man." The Lord says, That the Son of man has
-power \[potestas\] <span id="fr_8"></span>[27-1](#fn_8) to forgive sins
+power \[potestas\] <span id="fr_8"></span>[27-1](#fn_8.md) to forgive sins
 (Mark 2:10; Luke 5:24) (that is, to save). And also, That He is the Lord
 of the Sabbath, because He is the Son of man (Matt. 12:8; Mark 2:28;
 Luke 6:5) (i.e. because He is the Word, which He is Himself then
@@ -1520,7 +1520,7 @@ meant the temple of His body (John 2:19, 21). THE DAY-SPRING FROM ON
 HIGH hath visited us (Luke 1:78). "The day-spring from on high" also is
 Jehovah, or the Lord from eternity. From what has been said it is
 evident that by the Lord from eternity is meant His Divine a Quo, <span
-id="fr_9"></span>[30-1](#fn_9) which in the Word is "Jehovah." But from
+id="fr_9"></span>[30-1](#fn_9.md) which in the Word is "Jehovah." But from
 the passages to be quoted below, it will be evident that by Lord, and
 also by Jehovah, after His Human was glorified, is meant the Divine and
 the Human together, as a one; and that by the Son, alone, is meant the
@@ -1655,7 +1655,7 @@ spiritual body. And yet the truth is that all the angels (who are
 spiritual) are also men in a complete form; and, what is more, the whole
 Divine which proceeds from Jehovah God, from its first principles in
 heaven, down to its ultimate in this world, has a tendency to the human
-form. <span id="fr_10"></span>[32-1](#fn_10)
+form. <span id="fr_10"></span>[32-1](#fn_10.md)
 
 <span class="margnote"><span id="33.">33.</span></span>
 
@@ -2316,11 +2316,11 @@ Spirit, is that there is in the Lord a trine or trinity; for there is
 the Divine called the Father, the Divine Human called the Son, and the
 proceeding Divine called the Holy Spirit. The Divine called the Father,
 and the Divine called the Son, are the Divine ex Quo; <span
-id="fr_11"></span>[46-1](#fn_11) and the proceeding Divine is the Divine
-per Quod. <span id="fr_12"></span>[46-2](#fn_12) That the Divine which
+id="fr_11"></span>[46-1](#fn_11.md) and the proceeding Divine is the Divine
+per Quod. <span id="fr_12"></span>[46-2](#fn_12.md) That the Divine which
 proceeds from the Lord is no other than the Divine which is Himself,
 will be seen in the treatises on the Divine Providence, Omnipotence,
-Omnipresence, and Omniscience; <span id="fr_13"></span>[46-3](#fn_13)
+Omnipresence, and Omniscience; <span id="fr_13"></span>[46-3](#fn_13.md)
 for it is a matter of deep investigation. \[3\] That there is a trine in
 the Lord may be illustrated by comparison with an angel, who has a soul
 and a body, and also a proceeding. That which proceeds from him is
@@ -2520,10 +2520,10 @@ been shown above.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1-1](dld01.htm#fr_0) That is, a complex whole
+<span id="fn_0"></span>[1-1](dld01.htm#fr_0.md) That is, a complex whole
 which constitutes a unity. \[TRANSLATOR.\]
 
-<span id="fn_1"></span>[2-1](dld01.htm#fr_1) In the expression "Divine
+<span id="fn_1"></span>[2-1](dld01.htm#fr_1.md) In the expression "Divine
 proceeding," Divine is not to be understood as an adjective qualifying
 proceeding, but proceeding is to be taken as a verb (or participle)
 describing the act which the divine there performs. Thus, the expression
@@ -2531,50 +2531,50 @@ does not mean a proceeding which is Divine, but a Divine that is in the
 act of proceeding forth. "Divine proceeding," thus understood, exactly
 translates Swedenborg's Divinum procedens. \[Tr.\]
 
-<span id="fn_2"></span>[4-1](dld01.htm#fr_2) The Latin has "Jehovah
+<span id="fn_2"></span>[4-1](dld01.htm#fr_2.md) The Latin has "Jehovah
 shall say."
 
-<span id="fn_3"></span>[6-1](dld01.htm#fr_3) In the Apocalypse Revealed
+<span id="fn_3"></span>[6-1](dld01.htm#fr_3.md) In the Apocalypse Revealed
 (n. 612), it is "Savior;" in the Apocalypse Explained (n. 31-7), it is
 "just and saving;" but the Hebrew is "saved," as given here by
 Swedenborg. \[Tr.\]
 
-<span id="fn_4"></span>[11-1](dld01.htm#fr_4) The term singular is the
+<span id="fn_4"></span>[11-1](dld01.htm#fr_4.md) The term singular is the
 correlative of universal, as particular is of general. The veriest
 singulars are most absolute ones, the most singular or individually
 distinct of all. \[Tr.\]
 
-<span id="fn_5"></span>[12-1](dld01.htm#fr_5) Concerning the Lord's
+<span id="fn_5"></span>[12-1](dld01.htm#fr_5.md) Concerning the Lord's
 temptations or combats, see the small work on The New Jerusalem and its
 Heavenly Doctrine, published in London (n. 201 and 302). And concerning
 temptations in general (n. 187-200).
 
-<span id="fn_6"></span>[20-1](dld01.htm#fr_6) Latin instaurare, to set
+<span id="fn_6"></span>[20-1](dld01.htm#fr_6.md) Latin instaurare, to set
 up, not originally, but in restoration and repair. \[Tr.\]
 
-<span id="fn_7"></span>[26-1](dld01.htm#fr_7) Latin instaurare, to set
+<span id="fn_7"></span>[26-1](dld01.htm#fr_7.md) Latin instaurare, to set
 up, not originally, but in restoration and repair. \[Tr.\]
 
-<span id="fn_8"></span>[27-1](dld01.htm#fr_8) Potestas, Greek is the
+<span id="fn_8"></span>[27-1](dld01.htm#fr_8.md) Potestas, Greek is the
 authority, command, and power that is exercised by a ruler. \[Tr.\]
 
-<span id="fn_9"></span>[30-1](dld01.htm#fr_9) Literally, the divine from
+<span id="fn_9"></span>[30-1](dld01.htm#fr_9.md) Literally, the divine from
 which; that is, the Divine which is the source. \[Tr.\]
 
-<span id="fn_10"></span>[32-1](dld01.htm#fr_10) That angels are human
+<span id="fn_10"></span>[32-1](dld01.htm#fr_10.md) That angels are human
 forms, and that everything Divine has a tendency to the human form, may
 be seen in the work on Heaven and Hell (n. 73-77, 453-460), and more
 fully in the works which follow this present one, which will be from
 Angelic Wisdom concerning the Lord.
 
-<span id="fn_11"></span>[46-1](dld01.htm#fr_11) Literally, the Divine
+<span id="fn_11"></span>[46-1](dld01.htm#fr_11.md) Literally, the Divine
 from which; that is, the Divine which is the source. \[Tr.\]
 
-<span id="fn_12"></span>[46-2](dld01.htm#fr_12) Literally, the Divine by
+<span id="fn_12"></span>[46-2](dld01.htm#fr_12.md) Literally, the Divine by
 means of which; that is, the Divine which is the instrument or executive
 agency. \[Tr.\]
 
-<span id="fn_13"></span>[46-3](dld01.htm#fr_13) Although the treatise
+<span id="fn_13"></span>[46-3](dld01.htm#fr_13.md) Although the treatise
 here named was never published as a separate work, the subjects of it
 are specially treated of in the first chapter of the True Christian
 Religion. See also the references to the same subjects in this present
@@ -2584,4 +2584,4 @@ Angelic Wisdom concerning the Divine Love and the Divine Wisdom (n. 9).
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](dld02)
+[Next: 51-100](dld02.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb02)  [Next](gnfb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb02)  [Next](gnfb04.md) 
 
 </div>
 
@@ -970,6 +970,6 @@ L'Oiseau Bleu. Par Mme. d'Aulnoy.
 
 ------------------------------------------------------------------------
 
-[Next: The Half-Chick](gnfb04)
+[Next: The Half-Chick](gnfb04.md)
 
 </div>

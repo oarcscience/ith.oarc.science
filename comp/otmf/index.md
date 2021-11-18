@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Comparative
-Religion](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Comparative
+Religion](../index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@ Religion](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](otmf00)    [Page
-Index](pageidx)    [Text \[Zipped\]](otmf.txt.gz)
+[Contents](#contents)    [Start Reading](otmf00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](otmf.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -49,6 +49,6 @@ students of comparative religion or folklore.--J.B. Hare, December 5th,
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [On the Migration of Fables](otmf00)  
-[Appendix](otmf01)  
-[Notes](otmf02)  
+<span id="contents"></span> [On the Migration of Fables](otmf00.md)  
+[Appendix](otmf01.md)  
+[Notes](otmf02.md)  

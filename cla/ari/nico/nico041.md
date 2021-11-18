@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico040) 
-[Next](nico042) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico040.md) 
+[Next](nico042.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ worse character.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8. Ready wit, buffoonery, boorishness](nico042)
+[Next: Chapter 8. Ready wit, buffoonery, boorishness](nico042.md)

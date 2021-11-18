@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,11 +19,11 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pop00)
+[Contents](#contents)    [Start Reading](pop00.md)
 
 ------------------------------------------------------------------------
 
-Like the better known [Prophecies of Nostradamus](../../nos/index), the
+Like the better known [Prophecies of Nostradamus](../../nos/index.md), the
 Prophecies of Paracelsus are exceedingly cryptic, filled with
 allegorical symbols and capable of being reinterpreted for any purpose.
 It comes with 32 surreal woodcuts which seem to reveal additional
@@ -46,54 +46,54 @@ symbolism to escape eccelsiastical scrutiny.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pop00)  
-[Contents](pop01)  
-[Proem](pop02)  
-[Introductory: II: On the Prophecies of Paracelsus](pop03)  
+<span id="contents"></span> [Title Page](pop00.md)  
+[Contents](pop01.md)  
+[Proem](pop02.md)  
+[Introductory: II: On the Prophecies of Paracelsus](pop03.md)  
 [Introductory: III. Eliphas Lévi's Preface to the
-Prognostications](pop04)  
+Prognostications](pop04.md)  
 [Introductory: IV. Strassburg Edition of the Preface to the
-Prognostications](pop05)  
+Prognostications](pop05.md)  
 
 ### The Magic Figures
 
-[The First Figure](pop06)  
-[The Second Figure](pop07)  
-[The Third Figure](pop08)  
-[The Fourth Figure](pop09)  
-[The Fifth Figure](pop10)  
-[The Sixth Figure](pop11)  
-[The Seventh Figure](pop12)  
-[The Eighth Figure](pop13)  
-[The Ninth Figure](pop14)  
-[The Tenth Figure](pop15)  
-[The Eleventh Figure](pop16)  
-[The Twelfth Figure](pop17)  
-[The Thirteenth Figure](pop18)  
-[The Fourteenth Figure](pop19)  
-[The Fifteenth Figure](pop20)  
-[The Sixteenth Figure](pop21)  
-[The Seventeenth Figure](pop22)  
-[The Eighteenth Figure](pop23)  
-[The Nineteenth Figure](pop24)  
-[The Twentieth Figure](pop25)  
-[The Twenty-First Figure](pop26)  
-[The Twenty-Second Figure](pop27)  
-[The Twenty-Third Figure](pop28)  
-[The Twenty-Fourth Figure](pop29)  
-[The Twenty-Fifth Figure](pop30)  
-[The Twenty-Sixth Figure](pop31)  
-[The Twenty-Seventh Figure](pop32)  
-[The Twenty-Eighth Figure](pop33)  
-[The Twenty-Ninth Figure](pop34)  
-[The Thirtieth Figure](pop35)  
-[The Thirty-First Figure](pop36)  
-[The Thirty-Second Figure](pop37)  
+[The First Figure](pop06.md)  
+[The Second Figure](pop07.md)  
+[The Third Figure](pop08.md)  
+[The Fourth Figure](pop09.md)  
+[The Fifth Figure](pop10.md)  
+[The Sixth Figure](pop11.md)  
+[The Seventh Figure](pop12.md)  
+[The Eighth Figure](pop13.md)  
+[The Ninth Figure](pop14.md)  
+[The Tenth Figure](pop15.md)  
+[The Eleventh Figure](pop16.md)  
+[The Twelfth Figure](pop17.md)  
+[The Thirteenth Figure](pop18.md)  
+[The Fourteenth Figure](pop19.md)  
+[The Fifteenth Figure](pop20.md)  
+[The Sixteenth Figure](pop21.md)  
+[The Seventeenth Figure](pop22.md)  
+[The Eighteenth Figure](pop23.md)  
+[The Nineteenth Figure](pop24.md)  
+[The Twentieth Figure](pop25.md)  
+[The Twenty-First Figure](pop26.md)  
+[The Twenty-Second Figure](pop27.md)  
+[The Twenty-Third Figure](pop28.md)  
+[The Twenty-Fourth Figure](pop29.md)  
+[The Twenty-Fifth Figure](pop30.md)  
+[The Twenty-Sixth Figure](pop31.md)  
+[The Twenty-Seventh Figure](pop32.md)  
+[The Twenty-Eighth Figure](pop33.md)  
+[The Twenty-Ninth Figure](pop34.md)  
+[The Thirtieth Figure](pop35.md)  
+[The Thirty-First Figure](pop36.md)  
+[The Thirty-Second Figure](pop37.md)  
 
 ### Conclusions
 
 [Elucidations of the Prognostications and Conclusion of Doctor
-Paracelsus](pop38)  
-[Another Prognostication by Theophrastus Paracelsus](pop39)  
-[Epilogue](pop40)  
-[Interpretation](pop41)  
+Paracelsus](pop38.md)  
+[Another Prognostication by Theophrastus Paracelsus](pop39.md)  
+[Epilogue](pop40.md)  
+[Interpretation](pop41.md)  

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb15)  [Next](isb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb15)  [Next](isb17.md) 
 
 ------------------------------------------------------------------------
 
@@ -1019,4 +1019,4 @@ But is not this Galway? and how far is Galway from the Haymarket?
 
 ------------------------------------------------------------------------
 
-[Next: From Galway to Ballinahinch](isb17)
+[Next: From Galway to Ballinahinch](isb17.md)

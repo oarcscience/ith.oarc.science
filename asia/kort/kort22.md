@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort21)  [Next](kort23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort21)  [Next](kort23.md) 
 
 ------------------------------------------------------------------------
 
-# 18. The Kamak and his Wife. <span id="fr_39"></span>[1](#fn_39)
+# 18. The Kamak and his Wife. <span id="fr_39"></span>[1](#fn_39.md)
 
 Some people lived in a certain place. One day a kamak and his wife
 looked down (through the entrance-hole). They said, "Halloo! have you
 not some blubber?"--"There is some in the cache." They entered the
 cache, and began to eat blubber. Then they sang, "It tastes well. We are
-eating blubber." <span id="fr_40"></span>[2](#fn_40) The next morning it
+eating blubber." <span id="fr_40"></span>[2](#fn_40.md) The next morning it
 was the same. "Halloo! have you not some blubber?"--"There is some in
 the porch."--"It tastes well. We are eating blubber; but when you have
 no more blubber, \[to-morrow\] we shall eat you."
@@ -23,7 +23,7 @@ answer. "Let us jump in! They are hidden somewhere." They entered, and
 searched in all the corners. There was nothing.
 
 They said, "Let us try the divining-stone!" <span
-id="fr_41"></span>[3](#fn_41) (The
+id="fr_41"></span>[3](#fn_41.md) (The
 
 <span id="page_82">p. 82</span> <span id="page_83">p. 83</span>
 
@@ -35,7 +35,7 @@ upwards, what then? God would not treat us very pleasantly. How can we
 follow them?"
 
 He began to sway his penis. "Shall we go out through the same opening
-without any fear. <span id="fr_42"></span>[1](#fn_42) Let us go out
+without any fear. <span id="fr_42"></span>[1](#fn_42.md) Let us go out
 through the vent-hole in the roof of the porch!" The kamak-woman said,
 "Take me on your shoulders!" He took her on his back. "Oh, you are
 strangling me!" (His head) thrust itself into her anus. "Oh, you are
@@ -53,13 +53,13 @@ lived and were happy. They were not (molested) by spirits. That is all.
 
 ### Footnotes
 
-<span id="fn_39"></span>[81:1](kort22.htm#fr_39) <span id="page_80">p.
+<span id="fn_39"></span>[81:1](kort22.htm#fr_39.md) <span id="page_80">p.
 80</span> Compare Jochelson, The Koryak, *l. c.*, No. 105, p. 293.
 
-<span id="fn_40"></span>[81:2](kort22.htm#fr_40) Compare [p.
-68](kort17.htm#page_68), footnote 3.
+<span id="fn_40"></span>[81:2](kort22.htm#fr_40.md) Compare [p.
+68](kort17.htm#page_68.md), footnote 3.
 
-<span id="fn_41"></span>[81:3](kort22.htm#fr_41) Literally "let us act
+<span id="fn_41"></span>[81:3](kort22.htm#fr_41.md) Literally "let us act
 with the grandmother". The word "grandmother" is used also for
 "divining-stone" (Cf. W. Jochelson, The Koryak, *l. c.*, p. 44). <span
 id="page_81">p. 81</span> The reason is probably that divination with
@@ -67,10 +67,10 @@ stones is chiefly practised by women, and that the divining-stone,
 though usually a round pebble or a piece of bone ornamented with beads
 and tassels, represents a female guardian of the family.
 
-<span id="fn_42"></span>[83:1](kort22.htm#fr_42) Literally, "without
+<span id="fn_42"></span>[83:1](kort22.htm#fr_42.md) Literally, "without
 shame". "Shame" for "fear" is used also in the Chukchee (Publications of
 the Jesup North Pacific Expedition, vol. viii, No. 10, p. 61 footnote 1.
 
 ------------------------------------------------------------------------
 
-[Next: 19. Gull-Woman and Cormorant-Woman](kort23)
+[Next: 19. Gull-Woman and Cormorant-Woman](kort23.md)

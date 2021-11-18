@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sie00)    [Page
-Index](pageidx)    [Text \[Zipped\]](sie.txt.gz)
+[Contents](#contents)    [Start Reading](sie00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](sie.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -55,55 +55,55 @@ Bruno Hare, March 11, 2009.</span>
 
 ### Songs of Innocence
 
-[Title Page](sie00)  
-[Frontispiece](sie01)  
-[Title Page](sie02)  
-[Introduction](sie03)  
-[The Shepherd](sie04)  
-[The Ecchoing Green](sie05)  
-[The Lamb](sie06)  
-[The Little Black Boy](sie07)  
-[The Blossom](sie08)  
-[The Chimney Sweeper](sie09)  
-[The Little Boy lost](sie10)  
-[The Little Boy found](sie11)  
-[Laughing Song](sie12)  
-[A Cradle Song](sie13)  
-[The Divine Image](sie14)  
-[Holy Thursday](sie15)  
-[Night](sie16)  
-[Spring](sie17)  
-[Nurse's Song](sie18)  
-[Infant Joy](sie19)  
-[A Dream](sie20)  
-[On Anothers Sorrow](sie21)  
+[Title Page](sie00.md)  
+[Frontispiece](sie01.md)  
+[Title Page](sie02.md)  
+[Introduction](sie03.md)  
+[The Shepherd](sie04.md)  
+[The Ecchoing Green](sie05.md)  
+[The Lamb](sie06.md)  
+[The Little Black Boy](sie07.md)  
+[The Blossom](sie08.md)  
+[The Chimney Sweeper](sie09.md)  
+[The Little Boy lost](sie10.md)  
+[The Little Boy found](sie11.md)  
+[Laughing Song](sie12.md)  
+[A Cradle Song](sie13.md)  
+[The Divine Image](sie14.md)  
+[Holy Thursday](sie15.md)  
+[Night](sie16.md)  
+[Spring](sie17.md)  
+[Nurse's Song](sie18.md)  
+[Infant Joy](sie19.md)  
+[A Dream](sie20.md)  
+[On Anothers Sorrow](sie21.md)  
 <span id="section_001"></span>
 
 ### Songs of Experience
 
-[Frontispiece](sie22)  
-[Title Page](sie23)  
-[Introduction](sie24)  
-[Earth's Answer](sie25)  
-[The Clod & The Pebble](sie26)  
-[Holy Thursday](sie27)  
-[The Little Girl Lost; The Little Girl Found](sie28)  
-[The Chimney Sweeper](sie29)  
-[Nurses Song](sie30)  
-[The Sick Rose](sie31)  
-[The Fly](sie32)  
-[The Angel](sie33)  
-[The Tyger](sie34)  
-[My Pretty Rose Tree; Ah! Sun-flower; The Lilly](sie35)  
-[The Garden of Love](sie36)  
-[The Little Vagabond](sie37)  
-[London](sie38)  
-[The Human Abstract](sie39)  
-[Infant Sorrow](sie40)  
-[A Poison Tree](sie41)  
-[A Little Boy Lost](sie42)  
-[A Little Girl Lost](sie43)  
-[To Tirzah](sie44)  
-[The School-Boy](sie45)  
-[The Voice of the Ancient Bard](sie46)  
-[A Divine Image](sie47)  
+[Frontispiece](sie22.md)  
+[Title Page](sie23.md)  
+[Introduction](sie24.md)  
+[Earth's Answer](sie25.md)  
+[The Clod & The Pebble](sie26.md)  
+[Holy Thursday](sie27.md)  
+[The Little Girl Lost; The Little Girl Found](sie28.md)  
+[The Chimney Sweeper](sie29.md)  
+[Nurses Song](sie30.md)  
+[The Sick Rose](sie31.md)  
+[The Fly](sie32.md)  
+[The Angel](sie33.md)  
+[The Tyger](sie34.md)  
+[My Pretty Rose Tree; Ah! Sun-flower; The Lilly](sie35.md)  
+[The Garden of Love](sie36.md)  
+[The Little Vagabond](sie37.md)  
+[London](sie38.md)  
+[The Human Abstract](sie39.md)  
+[Infant Sorrow](sie40.md)  
+[A Poison Tree](sie41.md)  
+[A Little Boy Lost](sie42.md)  
+[A Little Girl Lost](sie43.md)  
+[To Tirzah](sie44.md)  
+[The School-Boy](sie45.md)  
+[The Voice of the Ancient Bard](sie46.md)  
+[A Divine Image](sie47.md)  

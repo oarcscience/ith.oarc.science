@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp08)  [Next](prp10) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp08)  [Next](prp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ his work was intended to represent.\]
 ------------------------------------------------------------------------
 
 [Next: 10. 'Ware of my catching! If caught, with rod I never will harm
-thee](prp10)
+thee](prp10.md)

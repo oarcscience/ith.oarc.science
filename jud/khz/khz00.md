@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](khz01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](khz01.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Part One](khz01)
+[Next: Part One](khz01.md)

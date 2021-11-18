@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki200)  [Next](liki212) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki200)  [Next](liki212.md) 
 
 ------------------------------------------------------------------------
 
@@ -949,6 +949,6 @@ for him.
 ------------------------------------------------------------------------
 
 [Next: XII. Ming Thang Wei or The Places in the Hall of
-Distinction](liki212)
+Distinction](liki212.md)
 
   

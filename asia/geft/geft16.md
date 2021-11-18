@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft15)  [Next](geft17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft15)  [Next](geft17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -23,8 +23,8 @@ Textual Heritage
 
 THERE was once a thief called the Big Thief. Now this Big Thief went
 into a town to steal. When he had gone some little distance he met an
-unknown man. 'God give thee victory! <span id="fr_19"></span>[1](#fn_19)
-Mayst thou be victorious!' <span id="fr_20"></span>[1](#fn_19) said they
+unknown man. 'God give thee victory! <span id="fr_19"></span>[1](#fn_19.md)
+Mayst thou be victorious!' <span id="fr_20"></span>[1](#fn_19.md) said they
 one to another. 'Who art thou, and what is thy trade?' inquired the Big
 Thief. 'My trade is thieving, and my name is Little Thief,' said the
 unknown. 'I, too, am a thief, so let us join partnership.' He agreed,
@@ -341,9 +341,9 @@ very much, and, when he died, left him the kingdom.
 
 ### Footnotes
 
-<span id="fn_19"></span>[88:1](geft16.htm#fr_20) The usual greeting
+<span id="fn_19"></span>[88:1](geft16.htm#fr_20.md) The usual greeting
 between Georgians.
 
 ------------------------------------------------------------------------
 
-[Next: XV. The Fox and the King's Son](geft17)
+[Next: XV. The Fox and the King's Son](geft17.md)

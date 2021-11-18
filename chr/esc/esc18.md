@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc17)  [Next](esc19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc17)  [Next](esc19.md) 
 
 ------------------------------------------------------------------------
 
@@ -593,4 +593,4 @@ And where are they now?  Suffering the vengeance of eternal fire.
 ------------------------------------------------------------------------
 
 [Next: Lecture XVII. On the Punishment of the People of God Seven Times
-for their Sins](esc19)
+for their Sins](esc19.md)

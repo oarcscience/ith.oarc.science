@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar41)  [Next](gar43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar41)  [Next](gar43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 The door for the middle chamber was in the right side of the house; and
 they went up with winding stairs into the middle chamber.—I. KINGS vi.
-8. <span id="fr_24"></span>[\*](#fn_24)
+8. <span id="fr_24"></span>[\*](#fn_24.md)
 
 THE SYMBOLICAL STAIRWAY, which leads front the ground-floor to the
 Middle Chamber of our mystic house, consists of fifteen steps and three
@@ -42,9 +42,9 @@ the Senior Warden, and the Junior Warden.
 
 ### Footnotes
 
-<span id="fn_24"></span>[130:\*](gar42.htm#fr_24) Vide Lecture on the
+<span id="fn_24"></span>[130:\*](gar42.htm#fr_24.md) Vide Lecture on the
 Legend of the Winding Stairs, pp. 159-170.
 
 ------------------------------------------------------------------------
 
-[Next: Of Order in Architecture](gar43)
+[Next: Of Order in Architecture](gar43.md)

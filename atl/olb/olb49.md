@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb48)  [Next](olb50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb48)  [Next](olb50.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -58,7 +58,7 @@ to make a name for themselves, and to bring all the other states under
 their subjection.
 
 Among my father's papers I found a letter from Liudgert the
-Geertman <span id="fr_84"></span>[\*](#fn_84). Omitting some passages
+Geertman <span id="fr_84"></span>[\*](#fn_84.md). Omitting some passages
 which only concern my father, I proceed to relate the rest.
 
 Punjab, that is five rivers, and by which we travel, is a river of
@@ -154,15 +154,15 @@ shadow. If you sail very far to the south and look to the east at
 midday, the sun shines on your left side as it does in other countries
 on the right side. With this I will finish. It will be easy for you, by
 means of what I have written, to distinguish between false accounts and
-true descriptions.—Your [Liudgert](errata.htm#1).
+true descriptions.—Your [Liudgert](errata.htm#1.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_84"></span>[221:\*](olb49.htm#fr_84) See page
-[164](olb41.htm#page_164).
+<span id="fn_84"></span>[221:\*](olb49.htm#fr_84.md) See page
+[164](olb41.htm#page_164.md).
 
 ------------------------------------------------------------------------
 
-[Next: The Writing of Beeden](olb50)
+[Next: The Writing of Beeden](olb50.md)

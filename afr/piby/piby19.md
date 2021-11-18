@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby18)  [Next](piby20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby18)  [Next](piby20.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ have sown and therefore live in disgrace among men."
 Woe be unto the spirit of him that passeth from this hell. He shall be
 lowered into eternal hell where peace and happiness are unknown.
 
-He that is of the devil shall be [segregated](errata.htm#7) from the
+He that is of the devil shall be [segregated](errata.htm#7.md) from the
 children of God; but he that is of God weareth the badge of the master,
 and the doors of heaven shall be opened unto him."
 
@@ -134,4 +134,4 @@ shall occupy the soul."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 15. The Beggar](piby20)
+[Next: Chapter 15. The Beggar](piby20.md)

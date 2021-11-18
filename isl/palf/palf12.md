@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](palf11)  [Next](palf13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](palf11)  [Next](palf13.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ A. Schmoelders, *Documenta Philosophiae Arabum* (Bonnae MDCCCXXXVI).
 
 ------------------------------------------------------------------------
 
-[Next: Index](palf13)
+[Next: Index](palf13.md)

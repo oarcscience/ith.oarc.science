@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](eoc00)  [Next](eoc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](eoc00)  [Next](eoc02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410203565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410203565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Ethics of Confucius*, by Miles Menander Dawson, \[1915\], at
 Intangible Textual Heritage
 
@@ -65,10 +65,10 @@ more familiar to the people, may also find reflection in foreign lands.
 complexity to find his way out to the clean, substantial foothold of
 manliness and integrity.
 
-<span id="img__00600"></span> ![signature of author](img/_00600.jpg)
+<span id="img__00600"></span> ![signature of author](img/_00600.jpg.md)
 
 SHANGHAI, CHINA,
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](eoc02)
+[Next: Introduction](eoc02.md)

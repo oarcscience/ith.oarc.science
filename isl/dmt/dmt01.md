@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt00)  [Next](dmt02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt00)  [Next](dmt02.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ theological ruts. Among my colleagues Professor
 especially aided me with criticism and suggestions on the terminology of
 scholastic theology. Dr. Talcott Williams, of Philadelphia, illumined
 for me the Idrisid movement in North Africa. One complete sentence on
-[p. 85](dmt08.htm#page_85) I have conveyed from a kindly notice in *The
+[p. 85](dmt08.htm#page_85.md) I have conveyed from a kindly notice in *The
 Nation* of my inaugural lecture on the development of Muslim
 Jurisprudence. Finally, and above all, I am indebted to my wife for much
 patient labor in copying and for keen and luminous criticism in planning
@@ -82,4 +82,4 @@ by italic.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](dmt02)
+[Next: Contents](dmt02.md)

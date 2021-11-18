@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth22)  [Next](doth24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth22)  [Next](doth24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ impelling man to humble and grateful service of God. One of them is
 inherent in human reason, implanted in man's intelligence, and hidden
 deep within the very roots of his being; the second is acquired by means
 of his hearing and understanding. This second is the Torah. <span
-id="fr_7"></span>[\*](#fn_6)
+id="fr_7"></span>[\*](#fn_6.md)
 
 The service due to the humility of hope and fear is that which arises
 from the acquired, external motive which enforces the obligation with
@@ -49,14 +49,14 @@ duties of the heart.
 
 ### Footnotes
 
-<span id="fn_6"></span>[29:\*](doth23.htm#fr_7) See note, [p.
-17](doth05.htm#page_17).
+<span id="fn_6"></span>[29:\*](doth23.htm#fr_7.md) See note, [p.
+17](doth05.htm#page_17.md).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
 [Next: The Whole of Human Conduct Belongs to the Domain of
-Ethics](doth24)
+Ethics](doth24.md)
 
 </div>

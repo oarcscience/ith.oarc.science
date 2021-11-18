@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth35)  [Next](oth37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth35)  [Next](oth37.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ fire is heavier than a little water or earth, which is impossible.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](oth37)
+[Next: Chapter 3](oth37.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Next](hhl01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Next](hhl01.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ intact in all copies.
 
 [![IDOLS BY WHICH CAPTAIN COOK WAS WORSHIPPED (See page
 108)](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 IDOLS BY WHICH CAPTAIN COOK WAS WORSHIPPED (See page 108)  
 
  
@@ -50,4 +50,4 @@ IDOLS BY WHICH CAPTAIN COOK WAS WORSHIPPED (See page 108)
 
 ------------------------------------------------------------------------
 
-[Next: Contents](hhl01)
+[Next: Contents](hhl01.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa04)  [Next](awa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa04)  [Next](awa06.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ where the native will find a sufficiency of food.
 
 ------------------------------------------------------------------------
 
-[Next: Laws of Marriage](awa06)
+[Next: Laws of Marriage](awa06.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre54)  [Next](gre56) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre54)  [Next](gre56.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ Thereafter he went west over the heaths.
 
 [Next: Chapter LI: Of the suit for the Slaying of Thorbiorn Oxmain, and
 how Thorir of Garth would not that Grettir should be made
-sackless](gre56)
+sackless](gre56.md)

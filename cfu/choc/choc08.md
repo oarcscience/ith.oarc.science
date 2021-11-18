@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](choc07)  [Next](choc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](choc07)  [Next](choc09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Occultism*, by Paul Carus, \[1907\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
-#### FENG-SHUI. <span id="fr_28"></span>[\*](#fn_28)
+#### FENG-SHUI. <span id="fr_28"></span>[\*](#fn_28.md)
 
 Chinese occultism has been reduced to a system in an occult science (or
 better, pseudo-science) called *feng-shui* which, literally translated,
@@ -37,8 +37,8 @@ the earth, man may acquire a knowledge of the cause of darkness and
 light."</span>
 
 <span class="contnote">\[paragraph continues\]</span> Feng-shui is also
-called *ti-li* <span id="fr_29"></span>[†](#fn_29) and *k‘an-yü*. <span
-id="fr_30"></span>[‡](#fn_30) *Ti-li* may fitly be translated by
+called *ti-li* <span id="fr_29"></span>[†](#fn_29.md) and *k‘an-yü*. <span
+id="fr_30"></span>[‡](#fn_30.md) *Ti-li* may fitly be translated by
 "geomancy." *Li*, frequently translated by "reason" or "rational
 principle," means a system of the dominant maxims which govern nature.
 *Ti* means "the earth" and so the two together signify "the divining art
@@ -49,7 +49,7 @@ are carried. The term "canopy chariot" then means the art which is
 occupied with the conditions of man's habitation.
 
 The professional diviners who practise *feng-shui* are called
-*sien-sheng*, <span id="fr_31"></span>[§](#fn_31) "the elder born,"
+*sien-sheng*, <span id="fr_31"></span>[§](#fn_31.md) "the elder born,"
 which is a title of respect and has been translated by "professor." They
 are called either *feng-shui sien-sheng*, "professors of divination," or
 *ti-li sien-sheng*, "geomancers," or *k‘an-yü sien-sheng*, "masters of
@@ -79,7 +79,7 @@ properties are situate is declared to be lucky. Many buildings for this
 reason alone are allowed to fall to ruin for years, and it is no rare
 thing to see whole streets simultaneously demolished and rebuilt in
 years auspicious to the direction in which they were placed." <span
-id="fr_32"></span>[16](#fn_32)</span>
+id="fr_32"></span>[16](#fn_32.md)</span>
 
 Considering the sacrifices which are expected of a good son in the
 selection of the site and the general equipment of the parental graves,
@@ -108,7 +108,7 @@ my place of birth, nor may you accept any funeral presents, neither
 offerings of mutton or pork."</span>
 
 The Chinese authority from which Professor De Groot quotes, adds: <span
-id="fr_33"></span>[17](#fn_33)
+id="fr_33"></span>[17](#fn_33.md)
 
 <span class="small">"Respectfully receiving these his last orders, Shih
 kept the corpse in Loh-Yang and there buried it."</span>
@@ -133,7 +133,7 @@ parents there? The poem in the original Chinese is as follows:
 ti li hsien sheng kwan shuo huang  
 chih nan chih pei chih hsi tung  
 shan chung je yu wang hou ti  
-he pu hsin lai tsang nai weng. <span id="fr_34"></span>[18](#fn_34)
+he pu hsin lai tsang nai weng. <span id="fr_34"></span>[18](#fn_34.md)
 
 </div>
 
@@ -153,26 +153,26 @@ Yet their own sires there not rest.
 
 ### Footnotes
 
-<span id="fn_28"></span>[55:\*](choc08.htm#fr_28) <span
+<span id="fn_28"></span>[55:\*](choc08.htm#fr_28.md) <span
 id="img_05500"></span> ![](img/05500.jpg)
 
-<span id="fn_29"></span>[55:†](choc08.htm#fr_29) <span
+<span id="fn_29"></span>[55:†](choc08.htm#fr_29.md) <span
 id="img_05501"></span> ![](img/05501.jpg)
 
-<span id="fn_30"></span>[55:‡](choc08.htm#fr_30) <span
+<span id="fn_30"></span>[55:‡](choc08.htm#fr_30.md) <span
 id="img_05502"></span> ![](img/05502.jpg)
 
-<span id="fn_31"></span>[55:§](choc08.htm#fr_31) <span
+<span id="fn_31"></span>[55:§](choc08.htm#fr_31.md) <span
 id="img_05503"></span> ![](img/05503.jpg)
 
-<span id="fn_32"></span>[56:16](choc08.htm#fr_32) In his voluminous work
+<span id="fn_32"></span>[56:16](choc08.htm#fr_32.md) In his voluminous work
 *The Religious System of China*, Vol. III, Bk. s. "Disposal of the
 Dead." Part 3. "The Grave," p. 974.
 
-<span id="fn_33"></span>[57:17](choc08.htm#fr_33) *Books of the Later
+<span id="fn_33"></span>[57:17](choc08.htm#fr_33.md) *Books of the Later
 Han Dynasty*, Chap. 82 line 15.
 
-<span id="fn_34"></span>[57:18](choc08.htm#fr_34) In the early Chinese
+<span id="fn_34"></span>[57:18](choc08.htm#fr_34.md) In the early Chinese
 form, the final words of the first, second, and fourth lines were all
 pronounced as if ending in ong. Consequently, although the individual
 words have changed their form, the series is considered as containing
@@ -181,4 +181,4 @@ in verse.
 
 ------------------------------------------------------------------------
 
-[Next: Lo-pan](choc09)
+[Next: Lo-pan](choc09.md)

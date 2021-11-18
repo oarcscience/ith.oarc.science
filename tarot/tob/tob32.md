@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob31) 
-[Next](tob33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob31.md) 
+[Next](tob33.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob31) 
 
 <span id="img_wiar16"></span>
 
-![THE FIRE OF HEAVEN (lightning).](img/wiar16.jpg)  
+![THE FIRE OF HEAVEN (lightning).](img/wiar16.jpg.md)  
 THE FIRE OF HEAVEN (lightning).
 
    <span id="img_msar16"></span>
 
-![THE LIGHTNING-STRUCK TOWER.](img/msar16.jpg)  
+![THE LIGHTNING-STRUCK TOWER.](img/msar16.jpg.md)  
 THE LIGHTNING-STRUCK TOWER.
 
 16\. ע
@@ -110,4 +110,4 @@ The Lightning-struck Tower.
 
 ------------------------------------------------------------------------
 
-[Next: 17. The Stars](tob33)
+[Next: 17. The Stars](tob33.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn05)  [Next](dbn07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn05)  [Next](dbn07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ To this ancient culture, modified somewhat by Byzantine and Christian
 influences, came Islam. It approached from the northwest, coming
 stealthily and slowly and being banded on particularly by the Mandingo
 Negroes. About 1000-1200 A.D. the situation was this: Ghana was on the
-edge of the desert in the north, Mandingoland [between](errata.htm#0)
+edge of the desert in the north, Mandingoland [between](errata.htm#0.md)
 the Niger and the Senegal in the south and the western Sahara, Djolof
 was in the west on the Senegal, and the Songhay on the Niger in the
 center. The Mohammedans came chiefly as traders and found a trade
@@ -96,7 +96,7 @@ proved from chronicles written in Arabic that Islam was only effective
 in fact as a fertilizer and stimulant. The essential point is the
 resuscitative and invigorative concentration of Negro power in the
 service of a new era and a Moslem propaganda, as well as the reaction
-thereby produced." <span id="fr_16"></span>[1](#fn_16)
+thereby produced." <span id="fr_16"></span>[1](#fn_16.md)
 
 <span id="page_29">p. 29</span>
 
@@ -173,7 +173,7 @@ he rebuilt the town and filled the new mosque with learned blacks from
 the University of Fez. Mansa Musa reigned twenty-five years and "was
 distinguished by his ability and by the holiness of his life. The
 justice of his administration was such that the memory of it still
-lives." <span id="fr_17"></span>[1](#fn_17) The Mellestine preserved its
+lives." <span id="fr_17"></span>[1](#fn_17.md) The Mellestine preserved its
 preëminence until the beginning of the sixteenth century, when the rod
 of Sudanese empire passed to Songhay, the largest and most famous of the
 black empires.
@@ -206,7 +206,7 @@ west bend of the Niger. In summing up Sonni Ali's military career the
 chronicle says of him, "He surpassed all his predecessors in the numbers
 and valor of his soldiery. His conquests were many and his renown
 extended from the rising to the setting of the sun. If it is the will of
-God, he will be long spoken of." <span id="fr_18"></span>[1](#fn_18)
+God, he will be long spoken of." <span id="fr_18"></span>[1](#fn_18.md)
 
 Sonni Ali was a Songhay Negro whose father was a Berber. He was
 succeeded by a full-blooded black, Mohammed Abou Bekr, who had been his
@@ -240,7 +240,7 @@ in the north to the 10th degree of north latitude toward the south.
 It was a six months' journey across the empire and, it is said, "he was
 obeyed with as much docility on the farthest limits of the empire as he
 was in his own palace, and there reigned everywhere great plenty and
-absolute peace." <span id="fr_19"></span>[1](#fn_19) The University of
+absolute peace." <span id="fr_19"></span>[1](#fn_19.md) The University of
 Sankore became a center of learning in correspondence with Egypt and
 North Africa and had a swarm of black Sudanese students. Law,
 literature, grammar, geography and surgery were studied. Askia the Great
@@ -290,7 +290,7 @@ the discovery of a new world, the riches of which poured first on Spain.
 Oppression of the Moors followed, and in 1502 they were driven back into
 Africa, despoiled and humbled. Here the Spaniards followed and harassed
 them and here the Turks, fighting the Christians, captured the
-Mediterranean ports and cut the Moors off [permanently](errata.htm#1)
+Mediterranean ports and cut the Moors off [permanently](errata.htm#1.md)
 from Europe. In the slow years that followed, huddled in Northwest
 Africa, they became a decadent people and finally cast their eyes toward
 Negroland.
@@ -328,13 +328,13 @@ but the face of the finest Negro civilization the modern world had ever
 produced was veiled from Europe and given to the defilement of wild
 Moorish soldiers. In 1623 it is written "excesses of every kind are now
 committed unchecked by the soldiery," and "the country is profoundly
-convulsed and oppressed." <span id="fr_20"></span>[1](#fn_20) The
+convulsed and oppressed." <span id="fr_20"></span>[1](#fn_20.md) The
 Tuaregs marched down from the desert and deprived the Moors of many of
 the principal towns. The rest of the empire of the Songhay was by the
 end of the eighteenth century divided among separate Moorish chiefs, who
 bought supplies from the Negro peasantry and were "at once the vainest,
 proudest, and perhaps the most bigoted, ferocious, and intolerant of all
-the nations of the south." <span id="fr_21"></span>[2](#fn_21) They
+the nations of the south." <span id="fr_21"></span>[2](#fn_21.md) They
 lived a nomadic life, plundering the Negroes. To such depths did the
 mighty Songhay fall.
 
@@ -385,27 +385,27 @@ confidently assert that Negroes have no history.
 
 ### Footnotes
 
-<span id="fn_16"></span>[28:1](dbn06.htm#fr_16) Frobenius: *Voice of
+<span id="fn_16"></span>[28:1](dbn06.htm#fr_16.md) Frobenius: *Voice of
 Africa*, II, 359-360.
 
-<span id="fn_17"></span>[30:1](dbn06.htm#fr_17) Ibn Khaldun, quoted in
+<span id="fn_17"></span>[30:1](dbn06.htm#fr_17.md) Ibn Khaldun, quoted in
 Lugard, p. 128.
 
-<span id="fn_18"></span>[31:1](dbn06.htm#fr_18) Quoted in Lugard, p.
+<span id="fn_18"></span>[31:1](dbn06.htm#fr_18.md) Quoted in Lugard, p.
 180.
 
-<span id="fn_19"></span>[32:1](dbn06.htm#fr_19) Es-Sa’di, quoted by
+<span id="fn_19"></span>[32:1](dbn06.htm#fr_19.md) Es-Sa’di, quoted by
 Lugard, p. 199.
 
-<span id="fn_20"></span>[34:1](dbn06.htm#fr_20) Lugard, p. 373.
+<span id="fn_20"></span>[34:1](dbn06.htm#fr_20.md) Lugard, p. 373.
 
-<span id="fn_21"></span>[34:2](dbn06.htm#fr_21) Mungo Park, quoted in
+<span id="fn_21"></span>[34:2](dbn06.htm#fr_21.md) Mungo Park, quoted in
 Lugard, p. 374.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: V. Guinea and Congo](dbn07)
+[Next: V. Guinea and Congo](dbn07.md)
 
 </div>

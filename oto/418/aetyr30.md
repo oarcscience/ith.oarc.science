@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
-# The Cry of the 30th Aethyr Which is Called TEX[**1**](#1)
+# The Cry of the 30th Aethyr Which is Called TEX[**1**](#1.md)
 
 I AM in a vast crystal cube in the form of the Great God Harpocrates.
-This cube is surrounded by a sphere[**2**](#2). About me are four
+This cube is surrounded by a sphere[**2**](#2.md). About me are four
 archangels in black robes, their wings and armour lined out in white.
 
-In the North[**3**](#3) is a book on whose back and front are A.M.B.Z.
-[**4**](#4) in Enochian characters. ({ENO:z}{ENO:b}{ENO:m}{ENO:a})
+In the North[**3**](#3.md) is a book on whose back and front are A.M.B.Z.
+[**4**](#4) in Enochian characters. ({ENO:z}{ENO:b}{ENO:m}{ENO:a}.md)
 
 Within it is written:
 
@@ -31,7 +31,7 @@ Seal the book with the seals of the Stars Concealed: for the Rivers have
 rushed together and the Name {HEB:Heh}{HEB:Vau}{HEB:Heh}{HEB:Yod}is
 broken in a thousand pieces (against the Cubic Stone).
 
-Tremble ye, O Pillars of the Universe[**5**](#5), for Eternity is in
+Tremble ye, O Pillars of the Universe[**5**](#5.md), for Eternity is in
 travail of a Terrible Child; she shall bring forth an universe of
 Darkness, whence shall leap forth a spark that shall put his father to
 flight.
@@ -44,7 +44,7 @@ covered with the clouds of Night.
 
 The End! the End! the End: For the Eye of Shiva He hath opened: the
 Universe is naked before Him: for the Aeon of Saturn leaneth toward the
-Bosom of Death[**6**](#6).
+Bosom of Death[**6**](#6.md).
 
 \[Figure: This is an isosceles triangle with height about 7 times the
 base. It extends with base on a true vertical from the left. A line
@@ -53,20 +53,20 @@ base. A trefoliate of three isosceles triangles of base slightly smaller
 than the first triangle and sides equal to the first triangle is created
 at the upper tip of the line. The tree component triangles of the
 terfolate meet the upper tip of the line with their apices --- one
-vertically and two to right and left.\][**7**](#7)
+vertically and two to right and left.\][**7**](#7.md)
 
-The Angel of the East[**8**](#8) hath a book of red written in letters
-of Blue A.B.F.M.A.[**9**](#9) in Enochian ({ENO:a} {ENO:m} {ENO:f}
+The Angel of the East[**8**](#8.md) hath a book of red written in letters
+of Blue A.B.F.M.A.[**9**](#9.md) in Enochian ({ENO:a} {ENO:m} {ENO:f}
 {ENO:b} {ENO:a}). The Book grows before my eyes and filleth the Whole
 Heaven.
 
 Within: "It is Written, Thou shalt not tempt the Lord Thy God."
 
 I see above the Book a multitude of white-robed Ones from whom droppeth
-a great rain of Blood[**10**](#10); but above them is a Golden Sun,
-having an eye, whence a great Light[**11**](#11).
+a great rain of Blood[**10**](#10.md); but above them is a Golden Sun,
+having an eye, whence a great Light[**11**](#11.md).
 
-I turned me to the South[**12**](#12): and read therein:
+I turned me to the South[**12**](#12.md): and read therein:
 
 Seal up the Book! Speak not that which thou seest and reveal it unto
 none: for the ear is not framed that shall hear it: nor the tongue that
@@ -81,7 +81,7 @@ Thy Name is as the Breath of Love across all Worlds.
 \[Figure: This is a swastika or fylfot cross. It is widdershins, with
 each bend going to the right when viewed down one arm from the center.
 All elements are either vertical or horizontal, none
-diagonal.\][**13**](#13)
+diagonal.\][**13**](#13.md)
 
 (A vast Svastika is shewn unto me behind the Angel with the Book.)
 
@@ -93,7 +93,7 @@ Who are they that trouble thee?
 Who are they that slew thee?
 
 O Light! Come thou, who art joined with me to bruise the Dragon's
-head[**14**](#14). We, who are wedded, and the Earth perceiveth it not!
+head[**14**](#14.md). We, who are wedded, and the Earth perceiveth it not!
 
 O that Our Bed were seen of Men, that they might rejoice in My
 Fertility: that My Sister might partake of My Great Light.
@@ -101,9 +101,9 @@ Fertility: that My Sister might partake of My Great Light.
 O Light of God, when wilt thou find the heart of man --- write not! I
 would not that men know the Sorrow of my Heart, Amen!
 
-I turned me to the West[**15**](#15), and the Archangel bore a flaming
-Book, on which was written AN[**16**](#16) in Enochian ({ENO:n}{ENO:a}).
-Within was drawn a fiery scorpion, yet cold withal[**17**](#17).
+I turned me to the West[**15**](#15.md), and the Archangel bore a flaming
+Book, on which was written AN[**16**](#16) in Enochian ({ENO:n}{ENO:a}.md).
+Within was drawn a fiery scorpion, yet cold withal[**17**](#17.md).
 
 Until the Book of the East be opened!
 
@@ -121,7 +121,7 @@ For thou wilt find a life which is as Death: or a Death which should be
 infinite.
 
 For Thou art submitted to the Four: Five thou shalt find, but Seven is
-lone and far[**18**](#18).
+lone and far[**18**](#18.md).
 
 For she is "lone and far", i.e., beyond the Abyss.
 
@@ -159,7 +159,7 @@ for ever in the Aeons, Amen." Thus far is the voice of TEX and no more.
     point: whence blooms erect a Triple Triad.
 8.  <span id="8"></span>East. Adepts: cleansed of their Blood, and
     brought to Light. = There is a way to light through giving up one's
-    Blood. (See [12th Aethyr](aetyr12))
+    Blood. (See [12th Aethyr](aetyr12).md)
 9.  <span id="9"></span>{Taurus}{Aries}{Cauda
     Draconis}{Aquarius}{Taurus} = Opening of New Aeon.
 10. <span id="10"></span>Symbolism of the Cup of Babalon.
@@ -186,4 +186,4 @@ for ever in the Aeons, Amen." Thus far is the voice of TEX and no more.
 
 ------------------------------------------------------------------------
 
-> [**Back to Liber 418**](418)
+> [**Back to Liber 418**](418.md)

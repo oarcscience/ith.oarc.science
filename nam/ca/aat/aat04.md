@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat03)  [Next](aat05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat03)  [Next](aat05.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ That is how it shall be." Then they went off to hunt.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Search For Fire (Achomawi)](aat05)
+[Next: 4. Search For Fire (Achomawi)](aat05.md)

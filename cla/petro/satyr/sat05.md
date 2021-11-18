@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat04)  [Next](sat06) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat04)  [Next](sat06.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 At this crisis amazement and consternation quite broke our spirit,
 certain death seeming to stare us miserably in the face. \[XX <span
-id="XX"></span>[(Latin)](../satyrlat/satl020) \] "I beseech you, lady,"
+id="XX"></span>[(Latin)](../satyrlat/satl020.md) \] "I beseech you, lady,"
 I cried, "if you have any sinister design, put us out of our misery at
 once; we have done nothing so heinous as to deserve torturing to death."
 The maid, whose name was Psyche, now carefully spread a rug on the
@@ -36,7 +36,7 @@ merriment. Eventually not even Giton could contain his mirth,
 particularly when the little girl threw her arms round his neck, and
 gave the boy, who showed no signs of reluctance, a thousand kisses.
 
-\[XXI <span id="XXI"></span>[(Latin)](../satyrlat/satl021) \] We should
+\[XXI <span id="XXI"></span>[(Latin)](../satyrlat/satl021.md) \] We should
 have cried out for help in our unhappy plight, but there was no one to
 hear us and besides Psyche pricked my cheeks with her hair pin every
 time I tried to call upon my fellow countrymen for succor, while at the
@@ -60,7 +60,7 @@ number of other courses followed, and we were all but falling asleep,
 when Quartilla cried, "Come, come! can you think of sleep, when you know
 this livelong night is owed to the service of Priapus?"
 
-\[XXII <span id="XXII"></span>[(Latin)](../satyrlat/satl022) \] Ascyltos
+\[XXII <span id="XXII"></span>[(Latin)](../satyrlat/satl022.md) \] Ascyltos
 was so worn out with all he had gone through he could not keep his eyes
 open a moment longer, and the waiting-maid, whom he had scorned and
 slighted, now proceeded to daub his face all over with streaks of soot,
@@ -87,7 +87,7 @@ By this time the chief butler had wakened up and put fresh oil into the
 expiring lamps, while the other slaves after rubbing their eyes a bit,
 had resumed their posts, and presently a cymbal-player came in and
 roused us all up with a clash of her instruments. \[XXIII <span
-id="XXIII"></span>[(Latin)](../satyrlat/satl023) \] So the banquet was
+id="XXIII"></span>[(Latin)](../satyrlat/satl023.md) \] So the banquet was
 resumed, and Quartilla challenged us to start a fresh carouse, the
 tinkle of cymbals still further stimulating her reckless gaiety.
 
@@ -112,7 +112,7 @@ heated brow, and such a lot of chalk filled the wrinkles of his cheeks,
 you might have thought his face was an old dilapidated wall with the
 plaster crumbling away in the rain.
 
-\[XXIV <span id="XXIV"></span>[(Latin)](../satyrlat/satl024) \] I could
+\[XXIV <span id="XXIV"></span>[(Latin)](../satyrlat/satl024.md) \] I could
 no longer restrain my tears, but driven to the last extremity of
 disgust, "I ask you, lady," I cried, "is this the 'night-cap'
 (ambasicoetas) you promised me?" At this she clapped her hands daintily,
@@ -136,7 +136,7 @@ pulling out his unpractised tool, she observed, "This will be a very
 pretty whet tomorrow to our naughty appetite. For today,--'After such a
 dainty dish, I will taste no common fish!'"
 
-\[XXV <span id="XXV"></span>[(Latin)](../satyrlat/satl025) \] Just as
+\[XXV <span id="XXV"></span>[(Latin)](../satyrlat/satl025.md) \] Just as
 she was saying this, Psyche approached her mistress laughingly and
 whispered something in her ear. "Yes! yes!" exclaimed Quartilla, "a
 capital idea! why should not our little Pannychis lose her maidenhood!
@@ -158,7 +158,7 @@ reached my present time of life. Hence I suppose the proverb that says:
 Fearing my favorite might get into greater troubles if I were not there,
 I got up to assist at the wedding ceremony.
 
-\[XXVI <span id="XXVI"></span>[(Latin)](../satyrlat/satl026) \] By this
+\[XXVI <span id="XXVI"></span>[(Latin)](../satyrlat/satl026.md) \] By this
 time Psyche had thrown the bridal veil over the child's head; our pathic
 friend was marching in front with a torch; a long procession of drunken
 women followed, clapping their hands, having previously decked the
@@ -187,7 +187,7 @@ falsehoods and cheat me out of the night you promised me? But you shan't
 go unpunished, I can tell you; you and your lover shall find out you
 have a man to deal with."
 
-\[XXVII <span id="XXVII"></span>[(Latin)](../satyrlat/satl027) \]
+\[XXVII <span id="XXVII"></span>[(Latin)](../satyrlat/satl027.md) \]
 Obeying the soldier's orders, his comrades now bind Quartilla and myself
 together, mouth to mouth, bosom to bosom, and thigh to thigh, in the
 midst of shouts of laughter. Then the catamite, still by the soldier's
@@ -250,4 +250,4 @@ slightly, escaping himself without a scratch.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five](sat06)
+[Next: Chapter Five](sat06.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj08) 
-[Next](npj10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj08.md) 
+[Next](npj10.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 PERSONS
 
 PRIEST (a follower of *Hōnen Shōnin*). <span
-id="fr_19"></span>[1](#fn_19)  
+id="fr_19"></span>[1](#fn_19.md)  
 ATSUMORI'S CHILD.  
 ATSUMORI. CHORUS.
 
@@ -49,7 +49,7 @@ How fills my heart with awe
 When I behold the crimson palisade  
 Of this abode of gods!  
 Oh may my heart be clean <span id="page_46">p. 46</span>  
-As the River of Ablution; <span id="fr_20"></span>[1](#fn_20)  
+As the River of Ablution; <span id="fr_20"></span>[1](#fn_20.md)  
 And the God's kindness deep  
 As its unfathomed waters. Show to me,  
 Though it were but in dream,  
@@ -58,7 +58,7 @@ Is not my heart so ground away with prayer,
 So smooth that it will slip  
 Unfelt into the favour of the gods?  
 But thou too, Censor of our prayers,  
-God of Tadasu, <span id="fr_21"></span>[2](#fn_21) on the gods prevail  
+God of Tadasu, <span id="fr_21"></span>[2](#fn_21.md) on the gods prevail  
 That what I crave may be!  
 How strange! While I was praying I fell half-asleep  
 and had a wonderful dream.
@@ -87,7 +87,7 @@ And onward where the gale
 Tears travellers' coats and winds about their bones.  
 "Autumn has come to woods where yesterday <span id="page_47">p.
 47</span>  
-We might have plucked the green." <span id="fr_22"></span>[1](#fn_22)  
+We might have plucked the green." <span id="fr_22"></span>[1](#fn_22.md)  
 To Settsu, to those woods of Ikuta  
 Lo! We are come.
 
@@ -204,7 +204,7 @@ Our hearts weakened
 That had been swift as arrows from the bowstring.  
 We scattered, scattered; till at last  
 To the deep waters of the Field of Life <span
-id="fr_23"></span>[1](#fn_23)  
+id="fr_23"></span>[1](#fn_23.md)  
 We came, but how we found there Death, not Life,  
 What profit were it to tell?
 
@@ -266,21 +266,21 @@ His form has vanished.
 
 ### Footnotes
 
-<span id="fn_19"></span>[45:1](npj09.htm#fr_19) A great preacher; died
+<span id="fn_19"></span>[45:1](npj09.htm#fr_19.md) A great preacher; died
 1212 A.D.
 
-<span id="fn_20"></span>[46:1](npj09.htm#fr_20) The name given to
+<span id="fn_20"></span>[46:1](npj09.htm#fr_20.md) The name given to
 streams which flow through temples. In this case the River Kamo.
 
-<span id="fn_21"></span>[46:2](npj09.htm#fr_21) Tadasu means to
+<span id="fn_21"></span>[46:2](npj09.htm#fr_21.md) Tadasu means to
 "straighten," "correct." The shrine of Kamo lay in the forest of Tadasu.
 
-<span id="fn_22"></span>[47:1](npj09.htm#fr_22) Adapted from a poem in
+<span id="fn_22"></span>[47:1](npj09.htm#fr_22.md) Adapted from a poem in
 the *Shin Kokinshū*.
 
-<span id="fn_23"></span>[49:1](npj09.htm#fr_23) Ikuta means "Field of
+<span id="fn_23"></span>[49:1](npj09.htm#fr_23.md) Ikuta means "Field of
 life."
 
 ------------------------------------------------------------------------
 
-[Next: Tsunemasa](npj10)
+[Next: Tsunemasa](npj10.md)

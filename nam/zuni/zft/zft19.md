@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft18)  [Next](zft20) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft18)  [Next](zft20.md) 
 
 ------------------------------------------------------------------------
 
@@ -215,4 +215,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Coyote And The Ravens Who Raced Their Eyes](zft20)
+[Next: The Coyote And The Ravens Who Raced Their Eyes](zft20.md)

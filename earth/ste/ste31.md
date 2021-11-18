@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste30)  [Next](ste32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste30)  [Next](ste32.md) 
 
 ------------------------------------------------------------------------
 
@@ -171,4 +171,4 @@ the final Consummation of this World*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Introduction](ste32)
+[Next: Chapter I. The Introduction](ste32.md)

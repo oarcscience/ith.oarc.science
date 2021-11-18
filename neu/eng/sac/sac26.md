@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac25)  [Next](sac27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac25)  [Next](sac27.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,12 +45,12 @@ of them and yet there are none in the most majestic of them all,
 Maeshowe.
 
 Let us consider a few facts in relation to the Semitic use of cairns
-referred to on [p. 244](sac25.htm#page_244).
+referred to on [p. 244](sac25.htm#page_244.md).
 
 That the cromlechs found both in Britain and Syria—there are 780 in
 Ireland and 700 in Moab—are the remains of chambered cairns is pretty
 clear from the evidence brought forward by Borlase. <span
-id="fr_99"></span>[1](#fn_99)
+id="fr_99"></span>[1](#fn_99.md)
 
 Mr. John Bell of Dundalk, disinterred over sixty cromlechs from cairns
 in Ulster. All dolmens were covered by tumuli according to Mr. Bell and
@@ -61,7 +61,7 @@ meantime.
 
 Among the evidences of natural and artificial caves preceding cairns
 which replaced them are the twenty-four caves which have been explored
-in France (*op. cit.*, p, 568). <span id="fr_100"></span>[2](#fn_100)
+in France (*op. cit.*, p, 568). <span id="fr_100"></span>[2](#fn_100.md)
 
 Borlase points out with regard to the Irish dolmens
 
@@ -90,7 +90,7 @@ forced argument.
 When burials are absent it has been suggested that "owing to some
 peculiarity of the soil, the entire of the human remains have become
 decomposed, only the imperishable stone implements entombed with the
-body remaining." <span id="fr_101"></span>[1](#fn_101)
+body remaining." <span id="fr_101"></span>[1](#fn_101.md)
 
 Mr. Spence has pointed out the extreme improbability of Maeshowe being
 anything but a temple, and I may now add on the Semitic model. There
@@ -103,7 +103,7 @@ a guard, janitor or hall porter! So
 high an authority as Colonel Leslie has pointed out that neither
 Maeshowe, New Grange and Dowth on the Boyne, nor Gavr Innis in Brittany
 bear any internal proof of being specially prepared as tombs. <span
-id="fr_102"></span>[1](#fn_102)
+id="fr_102"></span>[1](#fn_102.md)
 
 There is another point connected with these dolmens and cromlechs. An
 origin in the Semitic area easily explains why in Asia and Britain the
@@ -112,10 +112,10 @@ one of the side stones. Borlase has remarked also upon the similarity of
 Indian and Irish dolmens (*op. cit.*, p. 755), similar holes also being
 common to them. The curious concentric circles, &c., found on some
 dolmen stones are common to Assyrian vessels. <span
-id="fr_103"></span>[2](#fn_103)
+id="fr_103"></span>[2](#fn_103.md)
 
 The most philosophical study of this question I have seen <span
-id="fr_104"></span>[3](#fn_104) certainly suggests that much light; may
+id="fr_104"></span>[3](#fn_104.md) certainly suggests that much light; may
 be expected from this source.
 
 Part of the cult of the sacred stones was the ceremony of anointing
@@ -129,7 +129,7 @@ The anointing of stones was certainly carried on in
 <span id="page_256">p. 256</span>
 
 ancient times in Britain and Brittany. Baring-Gould tells us: <span
-id="fr_105"></span>[1](#fn_105)
+id="fr_105"></span>[1](#fn_105.md)
 
 “Formerly the menhir was beplastered with oil and honey and wax, and
 this anointing of the stones was condemned by the bishops. In certain
@@ -154,9 +154,9 @@ Among the Semites the sacrificial fat was burned on the altar. And we
 have seen that "this could be done without any fundamental modification
 of the old type of sacred stone or altar pillar, simply by making a
 hollow on the top to receive the grease." <span
-id="fr_106"></span>[2](#fn_106)
+id="fr_106"></span>[2](#fn_106.md)
 
-Baring-Gould, <span id="fr_107"></span>[3](#fn_107) has written on the
+Baring-Gould, <span id="fr_107"></span>[3](#fn_107.md) has written on the
 question of sacrificial and sacred fires in ancient times in Britain,
 and points out that there still remain in some of our churches (in
 Cornwall, York and Dorset) the contrivances—now called
@@ -178,7 +178,7 @@ central light, from which light could at any time be borrowed."
 
 [![FIG. 49.—Cresset-stone, Lewannick. From Baring-Gould's.
 &lt;i&gt;Strange Survivals&lt;/i&gt;.](tn/fig49.jpg)  
-Click to enlarge](img/fig49.jpg)  
+Click to enlarge](img/fig49.jpg.md)  
 FIG. 49.—Cresset-stone, Lewannick. From Baring-Gould's. *Strange
 Survivals*.  
 
@@ -197,7 +197,7 @@ There seems to be no doubt that the Semitic Asherah was the precursor of
 the British Maypole, even to its dressing of many coloured ribands, and
 from the Maypole customs we may infer something of the Semitic practices
 which have not come down to us. Even "Jack o’ the Green" may eventually
-be traced to Al-Khidr ([p. 29](sac07.htm#page_29)) of the old May
+be traced to Al-Khidr ([p. 29](sac07.htm#page_29).md) of the old May
 festivals.
 
  
@@ -229,7 +229,7 @@ Egypt and Britain, and April and September among the Jews.
 6\. The characteristics of the festivals.
 
 Here again is precise agreement. The list I gave on [p.
-205](sac23.htm#page_205) of what can be gathered from British folklore
+205](sac23.htm#page_205.md) of what can be gathered from British folklore
 is identical with the statements as to Semitic practices which I quoted
 from Robertson Smith in the last chapter.
 
@@ -292,8 +292,8 @@ said whether the possible Egyptian root has been considered.
 We may even, I think, go further and ask whether some of the
 constellations were not figured as in. Egypt, otherwise it is difficult
 to account for the horror of the black pig ([p.
-195](sac22.htm#page_195)) at Hallowe’en. The whole Egyptian story is
-told in my *Dawn of Astronomy* <span id="fr_108"></span>[1](#fn_108) in
+195](sac22.htm#page_195).md) at Hallowe’en. The whole Egyptian story is
+told in my *Dawn of Astronomy* <span id="fr_108"></span>[1](#fn_108.md) in
 connection with the worship of Set, that is the stars visible at night,
 blotted out at dawn by the rising sun, or becoming predominant after
 sunset.
@@ -312,10 +312,10 @@ on the chief ceremonial days.
 
 ### Footnotes
 
-<span id="fn_99"></span>[253:1](sac26.htm#fr_99) *Dolmens of Ireland*,
+<span id="fn_99"></span>[253:1](sac26.htm#fr_99.md) *Dolmens of Ireland*,
 p. 426.
 
-<span id="fn_100"></span>[253:2](sac26.htm#fr_100) "France, indeed,
+<span id="fn_100"></span>[253:2](sac26.htm#fr_100.md) "France, indeed,
 furnishes us with a stepping-stone, as it were, between the natural cave
 and the dolmen in certain artificial caves which offer comparison both
 with the former and the latter . . . . the natural cave was scooped out
@@ -326,10 +326,10 @@ that of an *allée couverte* with a vestibule . . . . the artificial cave
 is modelled on the natural one, and yet bears, as M. Mortillet points
 out, a close resemblance to the dolmen."
 
-<span id="fn_101"></span>[254:1](sac26.htm#fr_101) Wandle, *Remains of
+<span id="fn_101"></span>[254:1](sac26.htm#fr_101.md) Wandle, *Remains of
 Prehistoric Age in England*, p. 147.
 
-<span id="fn_102"></span>[255:1](sac26.htm#fr_102) It is interesting to
+<span id="fn_102"></span>[255:1](sac26.htm#fr_102.md) It is interesting to
 point out in relation to the fact that different swarms successively
 introduced the May and solstitial years that the "sleeping rooms" of the
 May year cairns at New Grange are about 3 feet square, while at the
@@ -337,24 +337,24 @@ solstitial Maeshowe, built very much later, the dimensions are 6 feet ×
 4½ feet. There were differences of sleeping posture in the old days
 among different peoples as well as different methods of burial.
 
-<span id="fn_103"></span>[255:2](sac26.htm#fr_103) Borlase, p. 617.
+<span id="fn_103"></span>[255:2](sac26.htm#fr_103.md) Borlase, p. 617.
 
-<span id="fn_104"></span>[255:3](sac26.htm#fr_104) "The Builders and the
+<span id="fn_104"></span>[255:3](sac26.htm#fr_104.md) "The Builders and the
 Antiquity of our Cornish Dolmens," by Rev. D. Gath Whitley (*Journal
 R.I. Cornwall*, No. 4).
 
-<span id="fn_105"></span>[256:1](sac26.htm#fr_105) *Book of Brittany*,
+<span id="fn_105"></span>[256:1](sac26.htm#fr_105.md) *Book of Brittany*,
 p. 21.
 
-<span id="fn_106"></span>[256:2](sac26.htm#fr_106) *History of the
+<span id="fn_106"></span>[256:2](sac26.htm#fr_106.md) *History of the
 Semites*, p. 364.
 
-<span id="fn_107"></span>[256:3](sac26.htm#fr_107) *Strange Survivals*,
+<span id="fn_107"></span>[256:3](sac26.htm#fr_107.md) *Strange Survivals*,
 p. 122.
 
-<span id="fn_108"></span>[260:1](sac26.htm#fr_108) Pp. 146, 215, and
+<span id="fn_108"></span>[260:1](sac26.htm#fr_108.md) Pp. 146, 215, and
 elsewhere.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV. The May-Year in South-West Cornwall](sac27)
+[Next: Chapter XXIV. The May-Year in South-West Cornwall](sac27.md)

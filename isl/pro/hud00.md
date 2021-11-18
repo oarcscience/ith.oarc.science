@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](noa03)  [Next](hud01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](noa03)  [Next](hud01.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ and general prophecy, and Hud was sent in a special prophecy to A'ad.
 
 ------------------------------------------------------------------------
 
-[Next: The Land of A'ad and Their Crafts](hud01)
+[Next: The Land of A'ad and Their Crafts](hud01.md)

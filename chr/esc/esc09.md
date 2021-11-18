@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc08)  [Next](esc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc08)  [Next](esc10.md) 
 
 ------------------------------------------------------------------------
 
@@ -511,4 +511,4 @@ thief in the night; "but the wise shall understand."
 
 ------------------------------------------------------------------------
 
-[Next: Lecture VIII. The Three Woe Trumpets](esc10)
+[Next: Lecture VIII. The Three Woe Trumpets](esc10.md)

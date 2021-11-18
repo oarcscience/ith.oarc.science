@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa49)  [Next](psa51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa49)  [Next](psa51.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ and explain matters, and bring back all the news."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter L](psa51)
+[Next: Chapter L](psa51.md)

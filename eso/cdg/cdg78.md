@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg77)  [Next](cdg79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg77)  [Next](cdg79.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ the prey of illusion when not governed by the soul. "For a man's mind is
 sometime wont to tell him more than seven watchmen, that sit above in an
 high tower." Used in this sense, the word watchmen signifies the seven
 principal ganglia of the sympathetic system <span
-id="fr_237"></span>[†](#fn_237) which when awakened and energised by the
+id="fr_237"></span>[†](#fn_237.md) which when awakened and energised by the
 inflowing Solar Force establish in man superphysical states of
 consciousness, and endow him with knowledge of the Law of Nature, God,
 which wills obedience from all things. The answer given by the Oracle at
@@ -120,7 +120,7 @@ it is necessary to bear in mind that the language and religion of Egypt
 exercised an appreciable influence upon the Jews during their captivity.
 The word "eye," used in the sense here noted, is an instance of this
 influence. To the Egyptians, the "Sun behind the Sun" was known as
-Osiris, <span id="fr_238"></span>[\*](#fn_238) whose name was written by
+Osiris, <span id="fr_238"></span>[\*](#fn_238.md) whose name was written by
 the hieroglyph of the eye, and also by that of the scarabeus. Of this
 species of beetle, no female is known to exist. The male scarabeus pro-
 duces the element of life, rolls it in a ball of earth, and leaves it to
@@ -131,15 +131,15 @@ brought to "the birth from above" by
 
 <span id="page_326">p. 326</span>
 
-the rays of the Solar Force. <span id="fr_239"></span>[†](#fn_239) "The
+the rays of the Solar Force. <span id="fr_239"></span>[†](#fn_239.md) "The
 so-called scarabeus, the great cockchafer of southern countries, was
 considered an especially mysterious and sacred animal, and the figure of
 this insect was almost as symbolic to the followers of the Egyptian
 religion as the cross is to the  <span
-id="fr_240"></span>[§](#fn_240)Christian." <span
-id="fr_241"></span>[‡](#fn_241) Under the New Empire, the Egyptians
+id="fr_240"></span>[§](#fn_240.md)Christian." <span
+id="fr_241"></span>[‡](#fn_241.md) Under the New Empire, the Egyptians
 replaced the heart of the dead by a stone scarabeus, emblem of
-Osiris, <span id="fr_242"></span>[\*](#fn_242) and, as it were, a finite
+Osiris, <span id="fr_242"></span>[\*](#fn_242.md) and, as it were, a finite
 symbol of the Omnipotent Eye of the Sun behind the Sun, and an enduring
 expression of their prayer that the departed soul might receive that
 Creative Light which would perfect its immortal evolution and bring it
@@ -156,7 +156,7 @@ upon their hearts, that he might shew them the greatness of his works."
 Primarily applied to the manifestation of the force of the Sun behind
 the Sun in the human heart, the word eye came in course of time to
 denote the centres of the cerebro-spinal <span
-id="fr_243"></span>[\*](#fn_243) and sympathetic nervous systems, and
+id="fr_243"></span>[\*](#fn_243.md) and sympathetic nervous systems, and
 especially the seven principal centres of the latter, whose perfe&ing
 brings man into greater knowledge and love of God. "For the eyes of the
 Lord are upon them that love him, he is their mighty protection and
@@ -173,9 +173,9 @@ is pure, enlightening the eyes." <span class="small">*PSALM XIX,
 The word here translated Lord is "YHWH, the (ineffable) name of God."
 "These substitutions of 'Adonay' and Elohim' for YHWH were devised to
 avoid the profanation of the Ineffable Name." <span
-id="fr_244"></span>[†](#fn_244) But Elohim, exoteric name of YHWH
+id="fr_244"></span>[†](#fn_244.md) But Elohim, exoteric name of YHWH
 (Jehovah), is the Sun behind the Sun. <span
-id="fr_245"></span>[‡](#fn_245) The holy arm of the Lord is therefore
+id="fr_245"></span>[‡](#fn_245.md) The holy arm of the Lord is therefore
 seen to be a ray of its Divine Force. This Force is more or less potent
 on earth according to cyclic law. At the beginning and end of the age,
 the Sun
@@ -188,7 +188,7 @@ men; which the prophet states figuratively when he says that this Divine
 or Super-Solar Force shall manifest "in the eyes of all the nations."
 "Awake, awake, pat on strength, O arm of the Lord; awake, as in the
 ancient days, in the generations of old. Art thou not it that hath cut
-Rahab, and wounded the dragon. <span id="fr_246"></span>[\*](#fn_246)?"
+Rahab, and wounded the dragon. <span id="fr_246"></span>[\*](#fn_246.md)?"
 <span class="small">*Isaiah li, 9*.</span>
 
 ### SO SHALL HE SPRINKLE MANY NATIONS.
@@ -213,40 +213,40 @@ may labour as one for the establishment of Truth, Justice and Peace.
 
 ### Footnotes
 
-<span id="fn_237"></span>[324:†](cdg78.htm#fr_237) Compare The Inmates
+<span id="fn_237"></span>[324:†](cdg78.htm#fr_237.md) Compare The Inmates
 of the Cave or the Story of the Seven Sleepers, Page
-[256](cdg40.htm#page_256).
+[256](cdg40.htm#page_256.md).
 
-<span id="fn_238"></span>[325:\*](cdg78.htm#fr_238) *Compare The
-Principle of All Things, page [88](cdg07.htm#page_88)*.
+<span id="fn_238"></span>[325:\*](cdg78.htm#fr_238.md) *Compare The
+Principle of All Things, page [88](cdg07.htm#page_88.md)*.
 
-<span id="fn_239"></span>[326:†](cdg78.htm#fr_239) *Solar Force defined,
-Pages [48](cdg05.htm#page_48), [50](cdg05.htm#page_50),
-[42](cdg05.htm#page_42)*.
+<span id="fn_239"></span>[326:†](cdg78.htm#fr_239.md) *Solar Force defined,
+Pages [48](cdg05.htm#page_48), [50](cdg05.htm#page_50.md),
+[42](cdg05.htm#page_42.md)*.
 
-<span id="fn_240"></span>[326:§](cdg78.htm#fr_240) *Christ is called
+<span id="fn_240"></span>[326:§](cdg78.htm#fr_240.md) *Christ is called
 "The Sun-rising from on high," Luke i, 78*.
 
-<span id="fn_241"></span>[326:‡](cdg78.htm#fr_241) *Adolf Erman "Life in
+<span id="fn_241"></span>[326:‡](cdg78.htm#fr_241.md) *Adolf Erman "Life in
 Ancient Egypt." Page 315*.
 
-<span id="fn_242"></span>[326:\*](cdg78.htm#fr_242) "*Homage to thee, O
+<span id="fn_242"></span>[326:\*](cdg78.htm#fr_242.md) "*Homage to thee, O
 Governor of those who are in Amentel, who dost make men and women to be
 born again*." PAPYRUS OF HU-NEFER.
 
-<span id="fn_243"></span>[327:\*](cdg78.htm#fr_243) *The back-bone was
+<span id="fn_243"></span>[327:\*](cdg78.htm#fr_243.md) *The back-bone was
 sacred to Osiris*.
 
-<span id="fn_244"></span>[327:†](cdg78.htm#fr_244) *Jewish Encyclopedia,
+<span id="fn_244"></span>[327:†](cdg78.htm#fr_244.md) *Jewish Encyclopedia,
 Vol. vii Pages 87, 88*.
 
-<span id="fn_245"></span>[327:‡](cdg78.htm#fr_245) *Authority for this
-Statement given Page [26](cdg05.htm#page_26)*.
+<span id="fn_245"></span>[327:‡](cdg78.htm#fr_245.md) *Authority for this
+Statement given Page [26](cdg05.htm#page_26.md)*.
 
-<span id="fn_246"></span>[328:\*](cdg78.htm#fr_246) *Dragon defined,
-pages [276](cdg43.htm#page_276), [260](cdg40.htm#page_260)*.
+<span id="fn_246"></span>[328:\*](cdg78.htm#fr_246.md) *Dragon defined,
+pages [276](cdg43.htm#page_276), [260](cdg40.htm#page_260.md)*.
 
 ------------------------------------------------------------------------
 
 [Next: Seventh Prophecy. Merlin's Prophecy of World Peace and
-Enlightenment](cdg79)
+Enlightenment](cdg79.md)

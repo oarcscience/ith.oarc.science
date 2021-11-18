@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe223)  [Next](prwe225) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe223)  [Next](prwe225.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ parts of the town only."
 
 ------------------------------------------------------------------------
 
-[Next: "The Furry, " Helstone](prwe225)
+[Next: "The Furry, " Helstone](prwe225.md)

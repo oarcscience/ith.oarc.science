@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml03)  [Next](eml05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml03)  [Next](eml05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -84,7 +84,7 @@ she desired greatly to have
 
 power equal with Ra in the heavens and upon the earth. In her heart,
 therefore, she yearned to know the secret name <span
-id="fr_18"></span>[1](#fn_18) of the ruling god, which was hidden in his
+id="fr_18"></span>[1](#fn_18.md) of the ruling god, which was hidden in his
 bosom and was never revealed in speech.
 
 Each day Ra walked forth, and the gods who were of his train followed
@@ -195,7 +195,7 @@ and pass into her own, she spake unto Horus her son and said:
 
 "Now, compel the ruling god, by a mighty spell, to yield up also his
 eyes, which are the sun and the moon." <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 Isis then received in her heart the secret name of Ra, and the mighty
 enchantress said
@@ -275,7 +275,7 @@ plants of virtue. These they brought back, and they were well ground and
 steeped with barley in vessels filled with the blood of mankind. So was
 beer made and seven thousand jars were filled with it.
 
-Day dawned and Hathor <span id="fr_20"></span>[1](#fn_20) went upstream
+Day dawned and Hathor <span id="fr_20"></span>[1](#fn_20.md) went upstream
 slaughtering mankind. Ra surveyed the jars and said: "Now shall I give
 men protection. It is my will that Hathor may slay them no longer."
 
@@ -298,7 +298,7 @@ Hathor returned, and the divine father said: "Henceforward shall comely
 handmaidens, thy priestesses, prepare for thee in jars, according to
 their number, draughts of sweetness, and these shall be given as
 offerings unto thee at the first festival of every New Year. <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
 So it came that from that day, when the Nile rose in red flood, covering
 the land of Egypt, offerings of beer were made unto Hathor. Men and
@@ -353,7 +353,7 @@ beheld in heaven, even the stars, and these were born of Nut. In
 millions they came to praise and glorify Ra. Unto Shu, the god of
 atmosphere, whose consort is Nut, was given the keeping of the multitude
 of beings that shine in thick darkness. Shu raised his arms, uplifting
-over his head the Celestial Cow <span id="fr_22"></span>[1](#fn_22) and
+over his head the Celestial Cow <span id="fr_22"></span>[1](#fn_22.md) and
 the millions and millions of stars.
 
 <span id="page_11">p. 11</span>
@@ -380,7 +380,7 @@ bind them. Thou shalt be temporary dweller in my place; thou art my
 deputy. Lo! I now give messengers unto thee."
 
 So came into being by his power the ibis, the crane, and the dog
-ape, <span id="fr_23"></span>[1](#fn_23) the messengers of Thoth.
+ape, <span id="fr_23"></span>[1](#fn_23.md) the messengers of Thoth.
 
 Ra spake again, saying: "Thy beauty shall be shed through the darkness;
 thou shalt join night with day."
@@ -469,34 +469,34 @@ Nut, goddess of the heavens; he is born of Nut and grows in majesty,
 ascending to high noon.
 
 The souls of the dead utter loud lamentations when the sun god departs
-out of the darkness of Duat. <span id="fr_24"></span>[1](#fn_24)
+out of the darkness of Duat. <span id="fr_24"></span>[1](#fn_24.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_18"></span>[3:1](eml04.htm#fr_18) The secret name was
+<span id="fn_18"></span>[3:1](eml04.htm#fr_18.md) The secret name was
 called Ran; it was one of the god's spirits. See Chapter VII.
 
-<span id="fn_19"></span>[6:1](eml04.htm#fr_19) Hence, the reference to
+<span id="fn_19"></span>[6:1](eml04.htm#fr_19.md) Hence, the reference to
 "Horus the Ra".
 
-<span id="fn_20"></span>[8:1](eml04.htm#fr_20) The feline goddess Sekhet
+<span id="fn_20"></span>[8:1](eml04.htm#fr_20.md) The feline goddess Sekhet
 is also given as the slaughterer. In one of the temple chants we read:
 "Hathor overcometh the enemy of her sire by this her name of Sekhet".
 
-<span id="fn_21"></span>[9:1](eml04.htm#fr_21) 20 July, when the star
+<span id="fn_21"></span>[9:1](eml04.htm#fr_21.md) 20 July, when the star
 Sirius (Sothis) appears as the morning star. The Nile is then in full
 flood.
 
-<span id="fn_22"></span>[10:1](eml04.htm#fr_22) Hathor, the sky goddess,
+<span id="fn_22"></span>[10:1](eml04.htm#fr_22.md) Hathor, the sky goddess,
 in her cow form, displaces Nut.
 
-<span id="fn_23"></span>[11:1](eml04.htm#fr_23) Here the old lunar deity
+<span id="fn_23"></span>[11:1](eml04.htm#fr_23.md) Here the old lunar deity
 Thoth is associated with the dawn. The chattering of apes at sunrise
 gave origin to the idea that they worshipped the rising sun.
 
-<span id="fn_24"></span>[14:1](eml04.htm#fr_24) The myths from which
+<span id="fn_24"></span>[14:1](eml04.htm#fr_24.md) The myths from which
 this chapter has been constructed date from the Empire period, and
 especially the Nineteenth and Twentieth Dynasties. Ra is first a human
 god (the Pharaoh), then a world god like Ptah in his giant form, and
@@ -513,6 +513,6 @@ vague and even confused, but this greatness of Ra was made manifest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: The Tragedy of Osiris](eml05)
+[Next: Chapter II: The Tragedy of Osiris](eml05.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat88) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat88.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ cut their hair. This was the way they did.
 
 ### Footnotes
 
-<span id="fn_84"></span>[270:1](jat88.htm#fr_84) See p. 216.
+<span id="fn_84"></span>[270:1](jat88.htm#fr_84.md) See p. 216.

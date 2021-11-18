@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat57)  [Next](jat59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat57)  [Next](jat59.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,17 +85,17 @@ out on horseback and found their bodies where they had been killed. They
 gathered up and brought home four large bundles of arrows some of which
 they distributed among the Ute. The Ute said that even when several had
 been engaged in the fight they had never found so many arrows. <span
-id="fr_73"></span>[1](#fn_73)
+id="fr_73"></span>[1](#fn_73.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_73"></span>[247:1](jat58.htm#fr_73) When asked how the
+<span id="fn_73"></span>[247:1](jat58.htm#fr_73.md) When asked how the
 information was obtained concerning this encounter Casa Maria explained
 that a Mescalero Indian who was with the enemy at the time, afterward
 told of the occurrence on a ration day. The Ute immediately killed him.
 
 ------------------------------------------------------------------------
 
-[Next: 57. A Duel Between Scouts](jat59)
+[Next: 57. A Duel Between Scouts](jat59.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft12)  [Next](eft14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft12)  [Next](eft14.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,8 +63,8 @@ loudest teeny-tiny voice, 'TAKE IT!'
  
 
 <span id="img_017"></span> [![](tn/017.jpg)  
-Click to enlarge](img/017.jpg)
+Click to enlarge](img/017.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Jack and the Beanstalk](eft14)
+[Next: Jack and the Beanstalk](eft14.md)

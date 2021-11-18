@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som06) 
-[Next](som08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som06.md) 
+[Next](som08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ all time and space; and the eternal activity
 <span id="img_chart01"></span>
 
 [![Lesson One: Metaphysical Chart No. I.](tn/chart01.jpg)  
-Click to enlarge](img/chart01.jpg)  
+Click to enlarge](img/chart01.jpg.md)  
 Lesson One: Metaphysical Chart No. I.  
 
 This chart, which is called the Universal Chart, shows the Universe as a
@@ -206,7 +206,7 @@ PEACE.--An inner calm so complete that nothing can disturb it. The Peace
 which comes only from the knowledge that It is All. Fathomless Peace is
 meant by the Peace of the Spirit. This is the peace to which Jesus
 referred when He said, "Peace I leave with you, My peace I give unto
-you." <span id="fr_7"></span>[8](#fn_7) The Infinite is always at peace
+you." <span id="fr_7"></span>[8](#fn_7.md) The Infinite is always at peace
 because there is nothing to disturb It.
 
 POISE.--That perfect balance which maintains everything in its proper
@@ -230,7 +230,7 @@ well as the Invisible Universe that must also exist, is the result of
 the Self-Contemplation of the Lord. "He spake and it was done." "The
 Word was with God and the Word was God. All things were made by Him and
 without Him was not anything made that was made." <span
-id="fr_8"></span>[9](#fn_8) The starting point of all Creation is in the
+id="fr_8"></span>[9](#fn_8.md) The starting point of all Creation is in the
 Word of Spirit. The Word is the Concept, Idea, Image or Thought of God.
 It is the Self-Knowing Mind Speaking Itself into manifestation.
 Everything has a Word back of it as its Initial Cause.
@@ -260,7 +260,7 @@ of both the masculine and feminine. It is both combined in One.
 UNITY.--The Axioms of Reason declare that that Which is Infinite cannot
 be divided against Itself. The Infinite is, therefore, Indivisible and
 consequently a Perfect Unit. "Hear, O Israel, the Lord our God is One
-Lord." <span id="fr_9"></span>[10](#fn_9) It is also, "That Whose Center
+Lord." <span id="fr_9"></span>[10](#fn_9.md) It is also, "That Whose Center
 is everywhere and Whose Circumference is nowhere." All of It is present
 at any and every point within It. It is not approaching a point nor
 receding from it, but is always at it. The Whole of God is present at
@@ -268,15 +268,15 @@ any and every point within God. It was to this Indwelling Spirit that
 Jesus prayed; for God is within man as well as throughout all Creation.
 It is, "That thread of the All-Sustaining Beauty Which runs through all
 and doth all unite." "His lines have gone out into all places." <span
-id="fr_10"></span>[11](#fn_10) "There is no place where God is not."
+id="fr_10"></span>[11](#fn_10.md) "There is no place where God is not."
 This concept enabled Job to say, "In my flesh shall I see God." <span
-id="fr_11"></span>[12](#fn_11) All Life is bound together by One common
+id="fr_11"></span>[12](#fn_11.md) All Life is bound together by One common
 law of Love, and Love is the Self-Givingness of Spirit, manifested in
 and through all that is visible and invisible. It was the realization of
 this One Presence that illumined the saints and sages of the past. "I
-and the Father are One." <span id="fr_12"></span>[13](#fn_12) "The
+and the Father are One." <span id="fr_12"></span>[13](#fn_12.md) "The
 Father dwelleth in Me, He doeth the works." <span
-id="fr_13"></span>[14](#fn_13) We must come to sense this Marvelous
+id="fr_13"></span>[14](#fn_13.md) We must come to sense this Marvelous
 Presence; for It is the secret of metaphysical work; God in all and
 through all.
 
@@ -537,10 +537,10 @@ House are many
 <span id="page_68">p. 68</span>
 
 <span class="contnote">\[paragraph continues\]</span> Mansions." <span
-id="fr_14"></span>[15](#fn_14) We do not, of course, see all these
+id="fr_14"></span>[15](#fn_14.md) We do not, of course, see all these
 mansions, but science has revealed to us that many exist which we do not
 see, and revelation has shown that the Universe is Infinite. "For we
-know in part." <span id="fr_15"></span>[16](#fn_15)
+know in part." <span id="fr_15"></span>[16](#fn_15.md)
 
 EFFECT.--That which follows cause. Effect is that which did not make
 itself, but which must have a power back of it causing it to be. All
@@ -548,7 +548,7 @@ manifestation is effect and all effect is subject to its cause. The
 Creator is greater than His Creation. Everything that we see, touch,
 taste, feel, hear or sense with the physical senses is an effect.
 "Things which are seen are not made of things which do appear." <span
-id="fr_16"></span>[17](#fn_16) This means that what we see comes from
+id="fr_16"></span>[17](#fn_16.md) This means that what we see comes from
 what we do not see.
 
 FORM.--Form is definite, the result of a definite idea. Form is real as
@@ -614,26 +614,26 @@ EMANATION.--Projection of Spirit into form.
 
 ### Footnotes
 
-<span id="fn_7"></span>[59:8](som07.htm#fr_7) John 14:27.
+<span id="fn_7"></span>[59:8](som07.htm#fr_7.md) John 14:27.
 
-<span id="fn_8"></span>[60:9](som07.htm#fr_8) John 1:1, 3.
+<span id="fn_8"></span>[60:9](som07.htm#fr_8.md) John 1:1, 3.
 
-<span id="fn_9"></span>[61:10](som07.htm#fr_9) Deut 6:4.
+<span id="fn_9"></span>[61:10](som07.htm#fr_9.md) Deut 6:4.
 
-<span id="fn_10"></span>[61:11](som07.htm#fr_10) Ps. 19:4.
+<span id="fn_10"></span>[61:11](som07.htm#fr_10.md) Ps. 19:4.
 
-<span id="fn_11"></span>[61:12](som07.htm#fr_11) Job 19:26.
+<span id="fn_11"></span>[61:12](som07.htm#fr_11.md) Job 19:26.
 
-<span id="fn_12"></span>[61:13](som07.htm#fr_12) John 10:30.
+<span id="fn_12"></span>[61:13](som07.htm#fr_12.md) John 10:30.
 
-<span id="fn_13"></span>[61:14](som07.htm#fr_13) John 14:10.
+<span id="fn_13"></span>[61:14](som07.htm#fr_13.md) John 14:10.
 
-<span id="fn_14"></span>[68:15](som07.htm#fr_14) John 14:2.
+<span id="fn_14"></span>[68:15](som07.htm#fr_14.md) John 14:2.
 
-<span id="fn_15"></span>[68:16](som07.htm#fr_15) 1 Cor. 13:9.
+<span id="fn_15"></span>[68:16](som07.htm#fr_15.md) 1 Cor. 13:9.
 
-<span id="fn_16"></span>[68:17](som07.htm#fr_16) Heb. 11:3.
+<span id="fn_16"></span>[68:17](som07.htm#fr_16.md) Heb. 11:3.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson One: The Nature of Being](som08)
+[Next: Lesson One: The Nature of Being](som08.md)

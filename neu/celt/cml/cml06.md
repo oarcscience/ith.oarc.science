@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml05)  [Next](cml07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml05)  [Next](cml07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ of scholars who have grappled with
 <span id="page_9">p. 9</span>
 
 the long-obsolete dialects in which they were
-[transcribed](errata.htm#0).
+[transcribed](errata.htm#0.md).
 
 Many of these volumes are curious miscellanies. Usually the one book of
 a great house or monastic community, everything was copied into it that
@@ -143,7 +143,7 @@ in a modern anthology of English poetry would assign Chaucer to the
 present year of grace.
 
 This may be proved both directly and inferentially. <span
-id="fr_4"></span>[1](#fn_4) In some instances--as in that of an elegy
+id="fr_4"></span>[1](#fn_4.md) In some instances--as in that of an elegy
 upon Saint Columba in the Book of the Dun Cow--the dates of authorship
 are actually given. In others, we may depend upon evidence which, if not
 quite so absolute, is nearly as convincing. Even where the writer does
@@ -198,7 +198,7 @@ famous deeds became the accepted one, or that he was the first to reduce
 it to writing. An equally suggestive consideration approximately fixes
 for us the earliest redaction of the Welsh mythological prose tales
 called the "Mabinogion", or, more correctly speaking, the "Four Branches
-of the Mabinogi". <span id="fr_5"></span>[1](#fn_5) In none of these is
+of the Mabinogi". <span id="fr_5"></span>[1](#fn_5.md) In none of these is
 there the slightest mention, or apparently the least knowledge, of
 Arthur, around whom and whose supposed contemporaries centres the mass
 of British legend as it was transmitted by
@@ -245,11 +245,11 @@ belong to the same stamp of imagination that created Olympian and Titan,
 parallels to such a story as that in which the British sun-god, struck
 by a rival in love with a poisoned spear, is turned into an eagle, from
 whose wound great pieces of carrion are continually falling. <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 This aspect of the Celtic literary records was clearly seen, and
 eloquently expressed, by Matthew Arnold in his *Study of Celtic
-Literature*. <span id="fr_7"></span>[2](#fn_7) He was referring to the
+Literature*. <span id="fr_7"></span>[2](#fn_7.md) He was referring to the
 Welsh side, but his image holds good equally for the Gaelic. "The first
 thing that strikes one", he says, "in reading the Mabinogion is how
 evidently the mediæval story-teller is pillaging an antiquity of which
@@ -286,19 +286,19 @@ his tradition can the life of a god be truly said to end.
 
 ### Footnotes
 
-<span id="fn_4"></span>[12:1](cml06.htm#fr_4) Satisfactory summaries of
+<span id="fn_4"></span>[12:1](cml06.htm#fr_4.md) Satisfactory summaries of
 the evidence for the dates of both the Gaelic and Welsh legendary
 material will be found in pamphlets No. 8 and 11 of Mr. Nutt's *Popular
 Studies in Mythology, Romance, and Folklore*.
 
-<span id="fn_5"></span>[14:1](cml06.htm#fr_5) Rhys: *Studies in the
+<span id="fn_5"></span>[14:1](cml06.htm#fr_5.md) Rhys: *Studies in the
 Arthurian Legend*, chap. 1.
 
-<span id="fn_6"></span>[16:1](cml06.htm#fr_6) See [chap.
-XVI](cml20.htm#ch-16) of this book--"The Gods of the Britons".
+<span id="fn_6"></span>[16:1](cml06.htm#fr_6.md) See [chap.
+XVI](cml20.htm#ch-16.md) of this book--"The Gods of the Britons".
 
-<span id="fn_7"></span>[16:2](cml06.htm#fr_7) Lecture II.
+<span id="fn_7"></span>[16:2](cml06.htm#fr_7.md) Lecture II.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Who Were the ''Ancient Britons''?](cml07)
+[Next: Chapter III. Who Were the ''Ancient Britons''?](cml07.md)

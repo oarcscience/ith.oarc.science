@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca68)  [Next](fsca70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca68)  [Next](fsca70.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ kingdom. Brydson<span id="img_26500"></span>
 
 |                                          |
 |------------------------------------------|
-| ![Banner of the Dauphin.](img/26500.jpg) |
+| ![Banner of the Dauphin.](img/26500.jpg.md) |
 
 mentions that one of the first of the troubadours was called the
 Dauphin, or Knight of the Dolphin, from bearing that figure on his
@@ -80,4 +80,4 @@ The nobillest lady in earth."</span>
 
 ------------------------------------------------------------------------
 
-[Next: The Heraldic Dolphin](fsca70)
+[Next: The Heraldic Dolphin](fsca70.md)

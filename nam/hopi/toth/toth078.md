@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth077)  [Next](toth079) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth077)  [Next](toth079.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 75. THE BADGER AND THE COYOTE. <span id="fr_147"></span>[1](#fn_145)
+## 75. THE BADGER AND THE COYOTE. <span id="fr_147"></span>[1](#fn_145.md)
 
 Halíksai! North-east of Wálpi at Oáktoika lived the Coyote. West of this
 place at Shiwápba lived the Badger. They were friends. One time the
@@ -53,9 +53,9 @@ each one continued to live in his house.
 
 ### Footnotes
 
-<span id="fn_145"></span>[206:1](toth078.htm#fr_147) Told by Sik'áhpik'i
+<span id="fn_145"></span>[206:1](toth078.htm#fr_147.md) Told by Sik'áhpik'i
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 76. The Badger, the Coyote, and the Kóhonino Maiden](toth079)
+[Next: 76. The Badger, the Coyote, and the Kóhonino Maiden](toth079.md)

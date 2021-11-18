@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](salt08)  [Next](salt10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](salt08)  [Next](salt10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sayings of Lao-Tzu*, Lionel Giles translation \[1905\], at
 Intangible Textual Heritage
 
@@ -54,12 +54,12 @@ who are victorious in battle should be placed in the order of funeral
 rites.
 
 A certain military commander used to say: "I dare not act the host; I
-prefer to play the guest. <span id="fr_6"></span>[\*](#fn_6) I dare not
+prefer to play the guest. <span id="fr_6"></span>[\*](#fn_6.md) I dare not
 advance an inch; I prefer to retreat a foot."
 
 There is no greater calamity than lightly engaging in war. Lightly to
 engage in war is to risk the loss of our treasure. <span
-id="fr_7"></span>[†](#fn_7)
+id="fr_7"></span>[†](#fn_7.md)
 
 When opposing warriors join in battle, he who has pity conquers.
 
@@ -67,16 +67,16 @@ When opposing warriors join in battle, he who has pity conquers.
 
 ### Footnotes
 
-<span id="fn_6"></span>[42:\*](salt09.htm#fr_6) According to Chinese
+<span id="fn_6"></span>[42:\*](salt09.htm#fr_6.md) According to Chinese
 etiquette, it is for the master of the house to make advances, and his
 guest follows suit. Thus "host" here means the one who takes the
 initiative and begins the attack; "guest," the one who acts on the
 defensive. The passage may be merely figurative, illustrating the
 conduct of those who practise Tao.
 
-<span id="fn_7"></span>[42:†](salt09.htm#fr_7) *I.e.*, humanity or
+<span id="fn_7"></span>[42:†](salt09.htm#fr_7.md) *I.e.*, humanity or
 gentleness, mentioned above as one or "three precious things."
 
 ------------------------------------------------------------------------
 
-[Next: Paradoxes](salt10)
+[Next: Paradoxes](salt10.md)

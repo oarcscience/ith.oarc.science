@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 21st Aethyr,  
-Which is Called ASP**[**1**](#1)
+Which is Called ASP**[**1**](#1.md)
 
 A mighty wind rolls through all the Aethyr; there is a sense of absolute
 emptiness; no colour, no form, no substance. Only now and then there
@@ -18,14 +18,14 @@ standing in front of it.
 
 Now, the thing opens behind, just for a second, and I catch a glimpse of
 an avenue of pillars, and at the end a throne, supported by sphinxes.
-All this is black marble[**2**](#2).
+All this is black marble[**2**](#2.md).
 
 Now I seem to have gone through the wind, and to be standing before the
 throne; but he that sitteth thereon is invisible. Yet it is from him
-that all this desolation proceeds[**3**](#3).
+that all this desolation proceeds[**3**](#3.md).
 
 He is trying to make me understand by putting tastes in my mouth, very
-rapidly one after the other. Salt, honey, sugar[**4**](#4), assafoetida,
+rapidly one after the other. Salt, honey, sugar[**4**](#4.md), assafoetida,
 bitumen, honey again, some taste that I don't know at all; garlic,
 something very bitter like nux vomica, another taste, still more bitter;
 lemon, cloves, rose-leaves, honey again; the juice of some plant, like a
@@ -37,58 +37,58 @@ these tastes issue from his eyes; he *signals* them.
 I can see his eyes now. They are very round, with perfectly black
 pupils, perfectly white iris, and the cornea pale blue. The sense of
 desolation is so acute that I keep on trying to get away from the
-vision[**5**](#5).
+vision[**5**](#5.md).
 
 I told him that I could not understand his taste-language, so instead he
 set up a humming very much like a big electric plant with dynamos going.
 
 Now the atmosphere is deep night-blue; and by the power of that
 atmosphere, the pillars kindle to a dull glowing crimson, and the throne
-is a dull, ruddy gold[**6**](#6). And now, through the humming, come
+is a dull, ruddy gold[**6**](#6.md). And now, through the humming, come
 very clear, bell-like notes, and farther still a muttering, like that of
 a gathering storm.
 
 And now I hear the meaning of the muttering: I am he who was before the
 beginning, and in my desolation I cried aloud, saying, let me behold my
-countenance in the concave of the abyss[**7**](#7). And I beheld, and
+countenance in the concave of the abyss[**7**](#7.md). And I beheld, and
 lo! in the darkness of the abyss my countenance was black, and empty,
-and distorted[**8**](#8), that was (once) invisible and pure.
+and distorted[**8**](#8), that was (once.md) invisible and pure.
 
 Then I closed mine eye, that I might not behold it, and for this was it
 fixed. Now it is written that one glance of mine eye shall destroy
-it[**9**](#9). And mine eye I dare not open, because of the foulness of
+it[**9**](#9.md). And mine eye I dare not open, because of the foulness of
 the vision. Therefore do I gaze with these two eyes throughout the
-aeon[**10**](#10). Is there not one of all my adepts that shall come
+aeon[**10**](#10.md). Is there not one of all my adepts that shall come
 unto me, and cut off mine eyelids, that I may behold and
-destroy[**11**](#11)?
+destroy[**11**](#11.md)?
 
 Now I take a dagger, and, searching out his third eye, seek to cut off
 the eye-lids, but they are of adamant. And the edge of the
-dagger[**12**](#12) is turned.
+dagger[**12**](#12.md) is turned.
 
-And tears[**13**](#13) drop from his eyes, and there is a mournful
+And tears[**13**](#13.md) drop from his eyes, and there is a mournful
 voice: So it hath been ever: so must it ever be! Though thou hast the
-strength of five bulls, thou shalt not avail in this[**14**](#14).
+strength of five bulls, thou shalt not avail in this[**14**](#14.md).
 
 And I said to him: Who shall avail? And he answered me: I know
-not[**15**](#15). But the dagger of penance[**16**](#16) thou shalt
+not[**15**](#15). But the dagger of penance[**16**](#16.md) thou shalt
 temper seven times, afflicting the seven courses of thy soul. And thou
 shalt sharpen its edge seven times by the seven ordeals.
 
 (One keeps on looking round to try to find something else because of the
-terror of it. But nothing changes[**17**](#17) at all. Nothing but the
+terror of it. But nothing changes[**17**](#17.md) at all. Nothing but the
 empty throne, and the eyes, and the avenue of pillars!)
 
 And I said to him: O thou that art the first countenance before
-time[**18**](#18); thou of whom it is written that "He, God, is one; He
+time[**18**](#18.md); thou of whom it is written that "He, God, is one; He
 is the eternal one, without equal, son or companion. Nothing shall stand
-before His face[**19**](#19)"; all we have heard of thine infinite glory
+before His face[**19**](#19.md)"; all we have heard of thine infinite glory
 and holiness, of thy beauty and majesty, and behold! there is nothing
 but this abomination of desolation.
 
 He speaks; I cannot hear a word; something about *The Book of the Law*.
 The answer is written in *The Book of the Law*, or something of that
-sort[**20**](#20).
+sort[**20**](#20.md).
 
 This is a long speech; all that I can hear is: From me pour down the
 fires of life and increase continually upon the earth. From me flow down
@@ -104,14 +104,14 @@ twentieth of what he said.) And I say to him: It was written that his
 name is Silence, but thou speakest continually.
 
 And he answers: Nay, the muttering that thou hearest is not my voice. It
-is the voice of the ape[**21**](#21).
+is the voice of the ape[**21**](#21.md).
 
 (When I say that he answers, it means that it is the same voice. The
 being on the throne has not uttered a word.) I say: O thou ape that
 speakest for Him whose name is Silence, how shall I know that thou
 speakest truly His thought? And the muttering continues: Nor speaketh He
 nor thinketh, so that which I say is true, because I lie in speaking His
-thoughts[**22**](#22).
+thoughts[**22**](#22.md).
 
 He goes on, nothing stops him; and the muttering comes so fast that I
 cannot hear him at all.
@@ -124,16 +124,16 @@ him that sitteth upon the throne are no more visible.
 
 I seek to go up close to the throne, and I am pushed back, because I
 cannot give the sign. I have given all the signs I know and am entitled
-to[**23**](#23), and I have tried to give the sign that I know and am
-not entitled to[**24**](#24), but have not the necessary appurtenance;
+to[**23**](#23.md), and I have tried to give the sign that I know and am
+not entitled to[**24**](#24.md), but have not the necessary appurtenance;
 and even if I had, it would be useless; for there are two more signs
-necessary[**25**](#25).
+necessary[**25**](#25.md).
 
-I find that I was wrong in suggesting[**26**](#26) that a Master of the
+I find that I was wrong in suggesting[**26**](#26.md) that a Master of the
 Temple had a right to enter the temple of a Magus or an Ipsissimus. On
 the contrary, the rule that holds below, holds also above. The higher
 you go, the greater is the distance from one grade to
-another[**27**](#27).
+another[**27**](#27.md).
 
 I am being slowly pushed backwards down the avenue, out into the wind.
 And this time I am caught up by the wind and whirled away down it like a
@@ -143,20 +143,20 @@ And a great Angel sweeps through the wind, and catches hold of me, and
 bears me up against it; and he sets me down on the hither side of the
 wind, and he whispers in my ear: Go thou forth into the world, O thrice
 and four times blessed who hast gazed upon the horror of the loneliness
-of The First[**28**](#28). No man shall look upon his face and live. And
+of The First[**28**](#28.md). No man shall look upon his face and live. And
 thou hast seen his eyes, and understood his heart, for the voice of the
 ape is the pulse of his heart and the labouring of his breast. Go,
 therefore, and rejoice, for thou art the prophet of the Aeon arising,
-wherein He is not[**29**](#29).
+wherein He is not[**29**](#29.md).
 
 Give thou praise unto thy lady Nuit, and unto her lord Hadit, that are
-for thee and thy bride, and the winners of the ordeal X[**30**](#30).
+for thee and thy bride, and the winners of the ordeal X[**30**](#30.md).
 
 And with that we are come to the wall of the Aethyr, and there is a
 little narrow gate, and he pushes me through it, and I am suddenly in
 the desert.
 
-The Desert, near Bou Sada[**31**](#31).  
+The Desert, near Bou Sada[**31**](#31.md).  
 November 29, 1909. 1:30 - 2:50 p.m.
 
 ------------------------------------------------------------------------

@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift05) 
-[Next](ift07) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift05.md) 
+[Next](ift07.md) 
 
 ------------------------------------------------------------------------
 
 # The Broken Pot
 
 <span id="img_21"></span> [![](tn/21.jpg)  
-Click to enlarge](img/21.jpg)
+Click to enlarge](img/21.jpg.md)
 
 <span id="img_20"></span> ![](img/20.jpg)HERE lived in a certain place a
 Brahman, whose name was Svabhavakripana, which means "a born miser." He
@@ -38,4 +38,4 @@ father of Somasarman."
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Fiddle](ift07)
+[Next: The Magic Fiddle](ift07.md)

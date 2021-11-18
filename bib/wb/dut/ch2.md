@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](ch1)  [Next](ezr) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](ch1)  [Next](ezr.md) 
 
 ------------------------------------------------------------------------
 
@@ -3586,4 +3586,4 @@ met hem, en hij trekke op.
 
 ------------------------------------------------------------------------
 
-[Next: Ezra](ezr)
+[Next: Ezra](ezr.md)

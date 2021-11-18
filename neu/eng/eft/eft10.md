@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft09)  [Next](eft11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft09)  [Next](eft11.md) 
 
 ------------------------------------------------------------------------
 
 # Binnorie
 
 <span id="img_013"></span> [![](tn/013.jpg)  
-Click to enlarge](img/013.jpg)
+Click to enlarge](img/013.jpg.md)
 
 ONCE upon a time there were two king's daughters who lived in a bower
 near the bonny mill-dams of Binnorie. And Sir William came wooing the
@@ -99,8 +99,8 @@ And the harp snapped and broke, and never sang more.
  
 
 <span id="img_014"></span> [![](tn/014.jpg)  
-Click to enlarge](img/014.jpg)
+Click to enlarge](img/014.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Mouse and Mouser](eft11)
+[Next: Mouse and Mouser](eft11.md)

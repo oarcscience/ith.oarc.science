@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig27)  [Next](vig29) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig27)  [Next](vig29.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 NOW men returned from the Thing, and Glum staid at home all the summer:
 everything was quiet in the district till it came to the time of the
-"Leet,"  <span id="fr_20"></span>[1](#fn_20) when they assembled at that
+"Leet,"  <span id="fr_20"></span>[1](#fn_20.md) when they assembled at that
 court. Glum, however, was not there, and nothing was heard of him. Márr
 was at home in his dwelling; but in the autumn, five weeks before
 winter, he held a wedding-feast, and invited men to it, so that not less
@@ -29,17 +29,17 @@ of the silver ring, which was stained red with the blood of the cattle
 sacrificed, and which ought not to weigh less than three ounces. Then
 Glum said word for word thus: "I name Asgrim to bear witness, and Gizor
 in the second place to bear witness, that I take the ‘temple oath,’ on
-the ring, and I say it to the God.  <span id="fr_21"></span>[2](#fn_21)
+the ring, and I say it to the God.  <span id="fr_21"></span>[2](#fn_21.md)
 When Thorvald the crooked got his death-blow--*Vark at þar--ok vák ek
 þar--ok raudk at þ odd ok egg.* Now let those men who are skilled in
 such matters, and who stand by, look to my oath."  <span
-id="fr_22"></span>[3](#fn_22) Thorarin and his friends were not prepared
+id="fr_22"></span>[3](#fn_22.md) Thorarin and his friends were not prepared
 to find any fault, but they said they had never heard the form of words
 used before. In the same manner the oaths were taken by Glum at
 Gnupafell and at Thverà. Gizor and Asgrim stayed some nights at Thverà,
 and when they went away Glum gave Gizor the blue cloak, and he gave
 Asgrim the gold-mounted spear (which Vigfuss had given him).  <span
-id="fr_23"></span>[4](#fn_23) In the course of the winter Thorvard met
+id="fr_23"></span>[4](#fn_23.md) In the course of the winter Thorvard met
 Thorarin, and asked him, "Did Glum take the oath properly?" "We found
 nothing to take hold of," said Thorarin. "It is a wonderful thing,"
 replied Thorvard, "that wise people should make such mistakes. I have
@@ -69,17 +69,17 @@ take up the suit and follow it out."
 
 ### Footnotes
 
-<span id="fn_20"></span>[1](vig28.htm#fr_20) The Haust-thing, or autumn
+<span id="fn_20"></span>[1](vig28.htm#fr_20.md) The Haust-thing, or autumn
 assembly, was the same as the Leid or Leet, and was held not earlier
 than fourteen days after the Althing, for the purpose of making known in
 each district what had been done at the general assembly. It had, like
 every other Thing, to be *helgad*, "consecrated," or opened by the Godi.
 See Maurer, ss. 171-174; Dasent, Preface, p. lxvi.
 
-<span id="fn_21"></span>[2](vig28.htm#fr_21) The god probably means
+<span id="fn_21"></span>[2](vig28.htm#fr_21.md) The god probably means
 Thor. See Maurer, § 157.
 
-<span id="fn_22"></span>[3](vig28.htm#fr_22) It is impossible to
+<span id="fn_22"></span>[3](vig28.htm#fr_22.md) It is impossible to
 represent this oath of Glum’s in English, or any other language, so as
 to make the point of the story clear; but it may thus be
 explained--There is in the Icelandic language, or rather there was, and
@@ -111,10 +111,10 @@ proceeding, but was imposed upon him as a special condition of an
 exceptional character, when his adversaries agreed to compound their
 suit.
 
-<span id="fn_23"></span>[4](vig28.htm#fr_23) See above, chapter vi. The
+<span id="fn_23"></span>[4](vig28.htm#fr_23.md) See above, chapter vi. The
 parting with these gifts is the turning-point in Glum’s story.
 Henceforth his luck is departed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI](vig29)
+[Next: Chapter XXVI](vig29.md)

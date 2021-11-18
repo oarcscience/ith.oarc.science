@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh26)  [Next](hloh28) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh26)  [Next](hloh28.md) 
 
 ------------------------------------------------------------------------
 
@@ -376,4 +376,4 @@ the home for a time of the noted man-eating chief.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV. Lepe-A-Moa](hloh28)
+[Next: XXIV. Lepe-A-Moa](hloh28.md)

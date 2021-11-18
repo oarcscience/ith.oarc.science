@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi07)  [Next](rpdi09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi07)  [Next](rpdi09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -16,8 +16,8 @@ American](../../index)  [California](../index)  [Index](index) 
 Several variations in this ground-painting have come to light in the
 Diegueño country, but all such are of one general type. All alike are
 quite different from anything reported among the Luiseño. <span
-id="fr_67"></span>[62](#fn_67) The painting (pl.
-[24](rpdi27.htm#img_pl24), [25](rpdi27.htm#img_pl25)), which is some
+id="fr_67"></span>[62](#fn_67.md) The painting (pl.
+[24](rpdi27.htm#img_pl24), [25](rpdi27.htm#img_pl25).md), which is some
 fifteen or eighteen feet in diameter, is a map or diagram of the world
 as known to the Diegueño. It is said to have been made inside of the
 kwusitcnyawa, or house where the ceremonial
@@ -29,7 +29,7 @@ limits of the earth—in other words, the horizon. This circle marks the
 place where the sky, amai, touches, or seems to touch, the ground. The
 circle is, therefore, itself called amai. It is made in white powdered
 soapstone. The name and meaning of this circle are identical wherever
-the Diegueño were questioned. <span id="fr_68"></span>[63](#fn_68)
+the Diegueño were questioned. <span id="fr_68"></span>[63](#fn_68.md)
 
 Across the circle stretches a broad white line from east to west, also
 made in white powder. This represents the Milky Way, called amai
@@ -40,7 +40,7 @@ was described to the writer.
 <span id="img_fig02"></span> <span align="CENTER"> [![Figure
 2.Ceremonial wand from Mesa Grande. Length 23 inches. Peabody Museum of
 Archaeology and Ethnology, No. 4-66454.](tn/fig02.jpg)  
-Click to enlarge](img/fig02.jpg)  
+Click to enlarge](img/fig02.jpg.md)  
 Figure 2.—Ceremonial wand from Mesa Grande. Length 23 inches. Peabody
 Museum of Archaeology and Ethnology, No. 4-66454.  
 </span>
@@ -65,14 +65,14 @@ and all the other heavenly bodies are made in red oxide of iron.
 
 All the constellations recognized by the Diegueño were represented in
 the painting. Those mentioned to the writer were xatca, the Pleiades;
-amu, Mountain Sheep; <span id="fr_69"></span>[64](#fn_69) sai<span
-class="it">r</span>, Buzzard; <span id="fr_70"></span>[65](#fn_70) and
-watun, Shooting. <span id="fr_71"></span>[66](#fn_71) Each star of these
+amu, Mountain Sheep; <span id="fr_69"></span>[64](#fn_69.md) sai<span
+class="it">r</span>, Buzzard; <span id="fr_70"></span>[65](#fn_70.md) and
+watun, Shooting. <span id="fr_71"></span>[66](#fn_71.md) Each star of these
 constellations was represented as a small disk of iron rust. The
 following scheme was followed in the orientation of these constellations
 in the painting: Xatca and amu, the Pleiades and Mountain Sheep, are
 said to accompany each other in the heavens. <span
-id="fr_72"></span>[67](#fn_72) The Pleiades are drawn, as they appear in
+id="fr_72"></span>[67](#fn_72.md) The Pleiades are drawn, as they appear in
 the heavens, in the southern half of the great circle, near the eastern
 end of the Milky Way. Amu is drawn just east of xatca. Similarly, watun
 (Scorpio?) points always directly at sai<span class="it">r</span>
@@ -88,7 +88,7 @@ That is, the local topography around each village was reflected in the
 painting. At Santa Ysabel they drew Mount San Jacinto, the islands of
 Santa Catalina and San Clemente, which are considered to be mountains
 out on the ocean, and a mountain called nyapuxaua, <span
-id="fr_73"></span>[68](#fn_73) whose location is vaguely indicated as
+id="fr_73"></span>[68](#fn_73.md) whose location is vaguely indicated as
 southward on the desert. Santa Catalina they must have learned about
 from the Luiseño
 
@@ -102,7 +102,7 @@ Bernardino is easily identified, since it is called "white-top." It is
 the only mountain in southern California with a snow cap. The Cuyamacas
 are plainly visible to the south from the vicinity of Mesa Grande. At
 Los Conejos rancheria the people seem to have represented six
-mountains, <span id="fr_74"></span>[69](#fn_74) which could not be
+mountains, <span id="fr_74"></span>[69](#fn_74.md) which could not be
 identified by the present writer in terms of the modern geography of the
 region. One of them, however, called moon-rock mountain, wixa<span
 class="sc">l</span>ya, because of a crescent-shaped crag near its
@@ -156,19 +156,19 @@ see it.
 
 ### Footnotes
 
-<span id="fn_67"></span>[300:62](rpdi08.htm#fr_67) DuBois, op. cit., pp.
+<span id="fn_67"></span>[300:62](rpdi08.htm#fr_67.md) DuBois, op. cit., pp.
 87, 179.
 
-<span id="fn_68"></span>[301:63](rpdi08.htm#fr_68) At Mesa Grande, Santa
+<span id="fn_68"></span>[301:63](rpdi08.htm#fr_68.md) At Mesa Grande, Santa
 Ysabel, Capitan Grande, Los Conejos, Inyaxa, and Campo.
 
-<span id="fn_69"></span>[302:64](rpdi08.htm#fr_69) In Mojave, amo,
+<span id="fn_69"></span>[302:64](rpdi08.htm#fr_69.md) In Mojave, amo,
 mountain sheep, is the three stars of Orion.
 
-<span id="fn_70"></span>[302:65](rpdi08.htm#fr_70) Cf. Luiseño:
+<span id="fn_70"></span>[302:65](rpdi08.htm#fr_70.md) Cf. Luiseño:
 Yungavish, buzzard, the star Altair. DuBois, p. 162.
 
-<span id="fn_71"></span>[302:66](rpdi08.htm#fr_71) Cf. *ibid*., 165,
+<span id="fn_71"></span>[302:66](rpdi08.htm#fr_71.md) Cf. *ibid*., 165,
 note 304: "It is said that with the Diegueños Scorpio is a boy with bow
 and arrows." "Orion is called Mu in Manzanita Diegueño, Emu at Mesa
 Grande." The present writer's information among the Diegueño seemed to
@@ -176,20 +176,20 @@ make watun the three large stars of Orion, but the Mohave and Luiseño
 parallels and Miss DuBois’ statements make it appear probable that amu
 is Orion and watun Scorpio.
 
-<span id="fn_72"></span>[302:67](rpdi08.htm#fr_72) *Ibid*., 163:
+<span id="fn_72"></span>[302:67](rpdi08.htm#fr_72.md) *Ibid*., 163:
 "Hulaish is Orion and Chehaiyam the Pleiades. These two are always named
 together."
 
-<span id="fn_73"></span>[302:68](rpdi08.htm#fr_73) This mountain is said
+<span id="fn_73"></span>[302:68](rpdi08.htm#fr_73.md) This mountain is said
 to be half dark-colored earth and half light-colored. It is related that
 when mankind were first created, the Mexicans, pinyai, were made of
 earth from the light-colored side, the Indians from that of the
 dark-colored side.
 
-<span id="fn_74"></span>[303:69](rpdi08.htm#fr_74) Called awai, hu<span
+<span id="fn_74"></span>[303:69](rpdi08.htm#fr_74.md) Called awai, hu<span
 class="sc">l</span>kokwis, xamatai, hipokwiskwi, wixa<span
 class="sc">l</span>ya, and wiki´naūn.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion of the Boys’ Ceremony](rpdi09)
+[Next: Conclusion of the Boys’ Ceremony](rpdi09.md)

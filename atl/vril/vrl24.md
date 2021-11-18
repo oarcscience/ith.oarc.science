@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl23)  [Next](vrl25) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl23)  [Next](vrl25.md) 
 
 ------------------------------------------------------------------------
 
@@ -560,4 +560,4 @@ Sovereign.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXVI](vrl25)
+[Next: CHAPTER XXVI](vrl25.md)

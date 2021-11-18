@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma14)  [Next](sma16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma14)  [Next](sma16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ Though many able defenders of these injured knights have arisen, the
 charges against them have been reiterated even in the present day; and a
 distinguished Orientalist (Von Hammer) has recently even attempted to
 bring forward additional and novel proofs of their secret guilt. <span
-id="fr_66"></span>[\*](#fn_66) To add one more to the number of their
+id="fr_66"></span>[\*](#fn_66.md) To add one more to the number of their
 defenders, to trace the origin, develope the internal constitution of
 their society, narrate their actions, examine the history of their
 condemnation and suppression, and show how absurd and frivolous were the
@@ -97,7 +97,7 @@ of the history of the latter under the title of that of the former, and
 venture to assert that the valiant Tancred was the *beau ideal* of
 chivalry, and that the "Talisman" contains a faithful picture of the
 spirit and character of the Crusades. <span
-id="fr_67"></span>[\*](#fn_67)
+id="fr_67"></span>[\*](#fn_67.md)
 
 <span id="page_172">p. 172</span>
 
@@ -124,7 +124,7 @@ origin from the same source. One was not the cause of the other, but
 both were effects of the same cause, and that cause was *feudalism*.
 This inculcated "the proud submission, the dignified obedience," &c.,
 &c., which were gradually idealised into chivalry; it impressed on the
-mind of the vassal those principles of [regrard](errata.htm#11) to the
+mind of the vassal those principles of [regrard](errata.htm#11.md) to the
 rights and property of his lord which seemed to justify and sanction the
 Holy War. Previously, however, to explaining the manner in which this
 motive acted, we must stop to notice another concurring cause of the
@@ -223,7 +223,7 @@ the removal of all sin. As a proof of this we shall narrate the
 pilgrimages of two distinguished personages of those times. The first
 occurred in the 9th, the second in the 11th century.
 
-In the reign of Lothaire, son of Louis the [Debonaire](errata.htm#12), a
+In the reign of Lothaire, son of Louis the [Debonaire](errata.htm#12.md), a
 nobleman of Brittany, named Frotmond, who had murdered his uncle and his
 youngest brother, began to feel remorse for his crimes. Arrayed in the
 habit of a penitent, he presented himself before the monarch and an
@@ -251,7 +251,7 @@ which the ark of Noah had rested. His crimes being now, according to the
 ideas of those times, expiated, he returned to his native country, where
 he was received as a saint, and taking up his abode in the convent of
 Redon, passed there the remainder of his days, and died deeply regretted
-by his brethren. <span id="fr_68"></span>[\*](#fn_68)
+by his brethren. <span id="fr_68"></span>[\*](#fn_68.md)
 
 Fulk de Nerra, Count of Anjou, had spilt much innocent blood; he had had
 his first wife burnt alive, and forced his second wife to seek refuge
@@ -499,14 +499,14 @@ state of circumstances aria opinion was the first Crusade.
 
 ### Footnotes
 
-<span id="fn_66"></span>[170:\*](sma15.htm#fr_66) The principal works on
+<span id="fn_66"></span>[170:\*](sma15.htm#fr_66.md) The principal works on
 the subject of the Templars are Raynouard Monumens historiques relatifs
 à la Condamnation des Templiers; Dupuy Histoire de la Condamnation des
 Templiers; Münter Statutenbuch des Ordens der Tempelherren, and Wilike
 Geschichte des Tempelherrenordens. There is scarcely anything on the
 subject in English.
 
-<span id="fn_67"></span>[171:\*](sma15.htm#fr_67) On the subject of
+<span id="fn_67"></span>[171:\*](sma15.htm#fr_67.md) On the subject of
 chivalry see Ste. Palaye Mémoires sur la Chevalerie, Sir W. Scott's
 Essay on the same subject, and Mills's and James's histories of
 chivalry. We do not recollect that any of these writers has fairly
@@ -515,9 +515,9 @@ institution, and we must demur to the principle which they all assume of
 romances like Perceforest being good authority for the manners of the
 age in which they were composed.
 
-<span id="fn_68"></span>[176:\*](sma15.htm#fr_68) Michaud, Histoire des
+<span id="fn_68"></span>[176:\*](sma15.htm#fr_68.md) Michaud, Histoire des
 Croisades, I., p. 59.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](sma16)
+[Next: Chapter II](sma16.md)

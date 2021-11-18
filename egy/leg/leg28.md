@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg27)  [Next](leg29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg27)  [Next](leg29.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,19 +10,19 @@
 
 48\. I am Isis, \[and\] I have come forth from the dwelling (or, prison)
 wherein my brother Set placed me. **49**. Behold the god Thoth, the
-great god, the Chief of Maat <span id="fr_204"></span>[1](#fn_202)
+great god, the Chief of Maat <span id="fr_204"></span>[1](#fn_202.md)
 \[both\] in heaven and on the earth, said unto me, "Come now, O Isis,
 thou goddess, moreover it is a good thing to hearken, <span
-id="fr_205"></span>[2](#fn_203) \[for there is\] life to one who shall
+id="fr_205"></span>[2](#fn_203.md) \[for there is\] life to one who shall
 be guided \[by the advice\] of another. Hide thou thyself with \[thy\]
 son the child, **50** and there shall come unto him these things. His
-members shall grow, <span id="fr_206"></span>[3](#fn_204) and two-fold
+members shall grow, <span id="fr_206"></span>[3](#fn_204.md) and two-fold
 strength of every kind shall spring up \[in him\]. \[And he\] shall be
 made to take his seat upon the throne of his father, \[whom\] he shall
-avenge, <span id="fr_207"></span>[4](#fn_205) \[and he shall take
+avenge, <span id="fr_207"></span>[4](#fn_205.md) \[and he shall take
 possession of\] the exalted position of Heq <span
-id="fr_208"></span>[5](#fn_206) of the Two Lands." <span
-id="fr_209"></span>[6](#fn_207)
+id="fr_208"></span>[5](#fn_206.md) of the Two Lands." <span
+id="fr_209"></span>[6](#fn_207.md)
 
 I came forth \[from the dwelling\] at the time of evening, and there
 came forth the Seven Scorpions **51** which were to accompany me and to
@@ -39,25 +39,25 @@ no account," \[and I said,\] "Let your faces be turned
 
 towards the ground \[that ye may show me\] the way." So the guardian of
 the company brought me to the boundaries of the city of **53**
-Pa-Sui, <span id="fr_210"></span>[1](#fn_208) the city of the goddesses
+Pa-Sui, <span id="fr_210"></span>[1](#fn_208.md) the city of the goddesses
 of the Divine Sandals, \[which was situated\] in front of the Papyrus
-Swamps. <span id="fr_211"></span>[2](#fn_209)
+Swamps. <span id="fr_211"></span>[2](#fn_209.md)
 
 When I had arrived at the place where the people lived <span
-id="fr_212"></span>[3](#fn_210) I came to the houses wherein dwelt the
+id="fr_212"></span>[3](#fn_210.md) I came to the houses wherein dwelt the
 wives \[and\] husbands. And a certain woman of quality spied me as I was
 journeying along the road, and she shut **54** her doors on me. Now she
 was sick at heart by reason of those \[scorpions\] which were with me.
 Then \[the Seven Scorpions\] took counsel concerning her, and they all
 at one time shot out their venom on the tail of the scorpion Tefen; as
-for me, the woman Taha <span id="fr_213"></span>[4](#fn_211) opened her
+for me, the woman Taha <span id="fr_213"></span>[4](#fn_211.md) opened her
 door, and I entered into the house of the miserable lady.
 
 55\. Then the scorpion Tefen entered in under the leaves of the door and
 smote (i.e., stung) the son of Usert, and a fire broke out in the house
 of Usert, and there was no water there to extinguish it; \[but\] the sky
 rained upon the house of Usert, though it was not the season for
-rain. <span id="fr_214"></span>[5](#fn_212)
+rain. <span id="fr_214"></span>[5](#fn_212.md)
 
 56\. Behold, the heart of her who had not opened her door to me was
 grievously sad, for she knew not whether he (i.e., her son) would live
@@ -84,7 +84,7 @@ child\]. O poison of the scorpion Befent, come forth and appear on the
 ground! **59**. I am Isis, the goddess, the lady (or, mistress) of words
 of power, and I am the maker of words of power (i.e., spells), and I
 know how to utter words with magical effect. <span
-id="fr_215"></span>[1](#fn_213) Hearken ye unto me, O every reptile
+id="fr_215"></span>[1](#fn_213.md) Hearken ye unto me, O every reptile
 which possesseth the power to bite (i.e., to sting), and fall headlong
 to the ground! O poison of the scorpion Mestet, make no advance \[into
 his body\]. O poison of the scorpion Mestetef, rise not up \[in his
@@ -109,7 +109,7 @@ the nomes. **64**. Do not make love, do not cry out to the Tesheru
 fiends, and cast no glances upon the noble ladies in their houses. Turn
 your faces towards the earth and \[find out\] the road, **65** so that
 we may arrive at the hidden places in the town of Khebt. <span
-id="fr_216"></span>[1](#fn_214) Oh the child shall live and the poison
+id="fr_216"></span>[1](#fn_214.md) Oh the child shall live and the poison
 die! Ra liveth and the poison dieth! Verily Horus shall be in good case
 (or, healthy) **66** for his mother Isis. Verily he who is stricken
 shall be in good case likewise."
@@ -147,19 +147,19 @@ son **75** Horus, have no fear, have no fear, O son my glory! No evil
 thing of any kind whatsoever shall happen unto thee, \[for\] there is in
 thee the essence (or, fluid) which made the things which exist. **76**.
 Thou art the son from the country of Mesqet, <span
-id="fr_217"></span>[1](#fn_215) \[thou hast\] come forth from the
+id="fr_217"></span>[1](#fn_215.md) \[thou hast\] come forth from the
 celestial waters Nu, and thou shalt not die by the heat of the poison.
-**77**. Thou wast the Great Bennu, <span id="fr_218"></span>[2](#fn_216)
+**77**. Thou wast the Great Bennu, <span id="fr_218"></span>[2](#fn_216.md)
 who art born (or, produced) or; the top of the
 
 <span id="page_166">p. 166</span> <span id="page_167">p. 167</span>
 
-balsam-trees <span id="fr_219"></span>[1](#fn_217) which are in the
+balsam-trees <span id="fr_219"></span>[1](#fn_217.md) which are in the
 House of the Aged One in Anu (Heliopolis). Thou **78** art the brother
-of the Abtu Fish, <span id="fr_220"></span>[2](#fn_218) who orderest
+of the Abtu Fish, <span id="fr_220"></span>[2](#fn_218.md) who orderest
 what is to be, and art the nursling of the Cat <span
-id="fr_221"></span>[3](#fn_219) who dwelleth in **79** the House of
-Neith. The goddess Reret, <span id="fr_222"></span>[4](#fn_220) the
+id="fr_221"></span>[3](#fn_219.md) who dwelleth in **79** the House of
+Neith. The goddess Reret, <span id="fr_222"></span>[4](#fn_220.md) the
 goddess <u>H</u>at, and the god Bes protect thy members. Thy head shall
 not fall to the Tchat fiend **80** that attacketh thee. Thy members
 shall not receive the fire of that which is thy poison. Thou shalt not
@@ -183,16 +183,16 @@ when he openeth his Eye the light cometh into being, and when he closeth
 his Eye it becometh night. \[I am\] the Water-god Het when he giveth
 **84** commands, whose name is unknown to the gods. I illumine the Two
 Lands, night betaketh itself to flight, and I shine by day and by
-night. <span id="fr_223"></span>[1](#fn_221) I am the Bull of
-Bakha <span id="fr_224"></span>[2](#fn_222), and the Lion of Manu <span
-id="fr_225"></span>[3](#fn_223). I am he who traverseth the heavens by
+night. <span id="fr_223"></span>[1](#fn_221.md) I am the Bull of
+Bakha <span id="fr_224"></span>[2](#fn_222.md), and the Lion of Manu <span
+id="fr_225"></span>[3](#fn_223.md). I am he who traverseth the heavens by
 day and by night without being repulsed. I have come **85** by reason of
 the voice (or, cry) of the son of Isis. Verily the blind serpent Na hath
 bitten the Bull. O thou poison which floweth through every member of him
 that is under the knife, come forth, I charge thee, upon the ground.
 Behold, he that is under the knife shall not be bitten. **86**. Thou art
 Menu, the Lord of Coptos, the child of the White Shat <span
-id="fr_226"></span>[4](#fn_224) which is in Anu (Heliopolis), which was
+id="fr_226"></span>[4](#fn_224) which is in Anu (Heliopolis.md), which was
 bitten \[by a reptile\]. O Menu, Lord of Coptos, give thou air unto him
 that is under the knife; and air shall be given to thee. **87**. Hail,
 divine father and minister of the god Nebun, \[called\] Mer-Tem, son of
@@ -221,7 +221,7 @@ one sent forth a cry of lamentation, and Heaven gave the order that
 Horus was to be healed. **95**. And \[the gods\] took counsel
 \[together\] concerning the life \[of Horus, saying,\] **96** "O goddess
 Pai(?), O god Asten, **97** who dwellest in Aat-Khus(?) . . . . .
-. <span id="fr_227"></span>[1](#fn_225) thy . . . . . . enter in **98**
+. <span id="fr_227"></span>[1](#fn_225.md) thy . . . . . . enter in **98**
 . . . . . lord of sleep . . . . . . the child Horus. Oh, Oh, **99**
 bring thou the things which are thine to cut off the poison which is in
 every member **100** of Horus, the son of Isis, and which is in every
@@ -269,7 +269,7 @@ forms. And all the gods likewise shall invoke thee, **125** and in truth
 thy name shall be invoked this day. I am Horus \[of\] Shet\[enu\] (?).
 
 "**126**. O thou who art in the cavern, <span
-id="fr_228"></span>[1](#fn_226) O thou who art in the cavern. O thou who
+id="fr_228"></span>[1](#fn_226.md) O thou who art in the cavern. O thou who
 art at the mouth of the cavern. **127**. O thou who art on the way, O
 thou who art on the way. O thou who art at the mouth of the way.
 **128**. He is Urmer (Mnevis) who approacheth every man **129** and
@@ -296,7 +296,7 @@ midst of the Company \[of the gods\]. Thy nose is to thee, **143**
 Horus, \[for\] thou art Horus the Elder, the son of Ra, and thou shalt
 not inhale **144** the fiery wind. Thine arm is to thee, Horus, **145**
 great is thy strength to slaughter the enemies of thy father. Thy two
-thighs <span id="fr_229"></span>[1](#fn_227) **146** are to thee, Horus.
+thighs <span id="fr_229"></span>[1](#fn_227.md) **146** are to thee, Horus.
 Receive thou the rank and dignity of thy father **147** Osiris. Ptah
 hath balanced for thee thy mouth on the day of **148** thy birth. Thy
 heart (or, breast) is to thee, Horus, and the Disk **149** maketh thy
@@ -340,10 +340,10 @@ thus\]:
 "I am Isis, who conceived a child by her husband, and she became heavy
 with Horus, the divine \[child\]. I gave birth to Horus, the son of
 Osiris, in a nest of papyrus plants. <span
-id="fr_230"></span>[1](#fn_228) I rejoiced exceedingly over this,
+id="fr_230"></span>[1](#fn_228.md) I rejoiced exceedingly over this,
 because **169** I saw \[in him one\] who would make answer for his
 father. I hid him, and I concealed him through fear of that \[fiend
-(?)\]. <span id="fr_231"></span>[2](#fn_229) I went away to the city of
+(?)\]. <span id="fr_231"></span>[2](#fn_229.md) I went away to the city of
 Am, \[where\] the people gave thanks \[for me\] through \[their\] fear
 of my making trouble \[for them\]. I passed the day in seeking to
 provide food
@@ -358,16 +358,16 @@ powerless to move, and the sinews (or, muscles) of his members were
 \[helpless\]. I sent forth a cry, \[saying\]:
 
 "'I, even I, **171** lack a son to make answer \[for me\]. <span
-id="fr_232"></span>[1](#fn_230) \[My\] two breasts are full to
+id="fr_232"></span>[1](#fn_230.md) \[My\] two breasts are full to
 overflowing, \[but\] my body is empty. \[My\] mouth wished for that
-which concerned him. <span id="fr_233"></span>[2](#fn_231) A cistern of
+which concerned him. <span id="fr_233"></span>[2](#fn_231.md) A cistern of
 water and a stream of the inundation was I. The child was the desire of
 my heart, and I longed to protect him (?). I carried him in my womb, I
 gave birth to him, **172** I endured the agony of the birth pangs, I was
 all alone, and the great ones were afraid of disaster and to come out at
 the sound of my **173** voice. My father is in the Tuat, <span
-id="fr_234"></span>[3](#fn_232) my mother is in Aqert, <span
-id="fr_235"></span>[4](#fn_233) and my elder brother **174** is in the
+id="fr_234"></span>[3](#fn_232.md) my mother is in Aqert, <span
+id="fr_235"></span>[4](#fn_233.md) and my elder brother **174** is in the
 sarcophagus. Think of the enemy and of how prolonged was the wrath of
 his heart **175** against me, \[when\] I, the great lady, was in his
 house.'
@@ -388,7 +388,7 @@ make \[my child\] to live.
 
 "And there came forth unto me a woman who was \[well\] known **182** in
 her city, a lady who was mistress of her \[own\] estate. <span
-id="fr_236"></span>[1](#fn_234) She came forth to me. Her mouth
+id="fr_236"></span>[1](#fn_234.md) She came forth to me. Her mouth
 possessed **183** life, and her heart was filled with the matter which
 was therein, \[and she said,\] 'Fear not, fear not, O son Horus!
 **184**. Be not cast down, be not cast down, O mother of the god. The
@@ -404,9 +404,9 @@ hath smitten (i.e., stung) him, and the reptile Aun-ab hath wounded
 him.'" **190**.
 
 Then Isis placed her nose in his mouth <span
-id="fr_237"></span>[2](#fn_235) so that she might know whether he who
+id="fr_237"></span>[2](#fn_235.md) so that she might know whether he who
 was in **191** his coffin breathed, and she examined the wound <span
-id="fr_238"></span>[3](#fn_236) of the heir of the god, and she found
+id="fr_238"></span>[3](#fn_236.md) of the heir of the god, and she found
 that there was poison **192** in it. She threw her arms round him, and
 then quickly she
 
@@ -420,12 +420,12 @@ is bitten, the flesh and blood of the Heir, the Lord of the diadems (?)
 of the kingdoms of Shu. **195**. Horus is bitten, the Boy of the marsh
 city of Ateh, the Child in the House of the Prince. **196**. The
 beautiful Child of gold is bitten, the Babe hath suffered pain and is
-not. <span id="fr_239"></span>[1](#fn_237) Horus is bitten, he the son
+not. <span id="fr_239"></span>[1](#fn_237.md) Horus is bitten, he the son
 of Un-Nefer, **197** who was born of Auh-mu (?). Horus is bitten, he in
 whom there was nothing abominable, **198** the son, the youth among the
 gods. Horus is bitten, he for whose wants I prepared in abundance,
 **199** for I saw that he would make answer <span
-id="fr_240"></span>[2](#fn_238) for his father. Horus is bitten, he for
+id="fr_240"></span>[2](#fn_238.md) for his father. Horus is bitten, he for
 whom \[I\] had care **200** \[when he was\] in the hidden woman \[and
 for whom I was afraid when he was\] in the womb of his mother. Horus is
 bitten, he whom I guarded **201** to look upon. I have wished for the
@@ -444,10 +444,10 @@ the Boat of Ra cannot travel onwards \[whilst\] son Horus **206**
 
 And Isis sent forth her voice into heaven, and made supplication to the
 Boat of Millions of Years, and the **207** Disk stopped <span
-id="fr_241"></span>[1](#fn_239) in its journeying, and moved not from
+id="fr_241"></span>[1](#fn_239.md) in its journeying, and moved not from
 the place whereon it rested. Then came forth Thoth, who is equipped
 **208** with his spells (or, words of power), and possesseth the great
-word of command of *maa-kheru*, <span id="fr_242"></span>[2](#fn_240)
+word of command of *maa-kheru*, <span id="fr_242"></span>[2](#fn_240.md)
 \[and said:\] "What \[aileth thee\], what \[aileth thee\], O Isis, thou
 goddess who hast magical spells, **209** whose mouth hath understanding?
 Assuredly no evil thing hath befallen \[thy\] son Horus, \[for\] the
@@ -477,44 +477,44 @@ desired Neheb-ka . . . . . . . **219**"
 \[And Thoth said:\] "Fear not, fear not, O goddess Isis, fear not, fear
 not, O Nephthys, and let not anxiety \[be to you\]. **220**. I have come
 from heaven having life to heal(?) the child for his mother, Horus is .
-. . Let thy heart be firm; <span id="fr_243"></span>[1](#fn_241) he
+. . Let thy heart be firm; <span id="fr_243"></span>[1](#fn_241.md) he
 shall not sink under the flame. **221**. Horus is protected as the
-Dweller in his Disk, <span id="fr_244"></span>[2](#fn_242) who lighteth
+Dweller in his Disk, <span id="fr_244"></span>[2](#fn_242.md) who lighteth
 up the Two Lands by the splendour of his two Eyes; <span
-id="fr_245"></span>[3](#fn_243) and he who is under the knife is
+id="fr_245"></span>[3](#fn_243.md) and he who is under the knife is
 likewise protected. **222**. Horus is protected as the First-born son in
-heaven, <span id="fr_246"></span>[4](#fn_244) who is ordained to be the
+heaven, <span id="fr_246"></span>[4](#fn_244.md) who is ordained to be the
 guide of the things which exist and of the things which are not yet
 created; and he who under the knife is protected likewise. **224**.
 Horus is protected as that great Dwarf (*nemu*) <span
-id="fr_247"></span>[5](#fn_245) who goeth round about the Two Lands in
+id="fr_247"></span>[5](#fn_245.md) who goeth round about the Two Lands in
 the darkness; and he who is under the knife is protected likewise.
 **224**. Horus is protected as the Lord (?) in the night, who revolveth
 at the head of the Land of the Sunset (Manu); and he who is under the
 knife is protected likewise. **225**. Horus is protected as the Mighty
-Ram <span id="fr_248"></span>[6](#fn_246) who is hidden, and who goeth
+Ram <span id="fr_248"></span>[6](#fn_246.md) who is hidden, and who goeth
 round about in front of his Eyes; and he who is under the knife is
 protected likewise. Horus is protected as the Great Hawk <span
-id="fr_249"></span>[7](#fn_247) **226** which flieth through heaven,
+id="fr_249"></span>[7](#fn_247.md) **226** which flieth through heaven,
 earth, and the Other World (Tuat); and he who is under the knife is
 protected likewise. Horus is protected as the Holy Beetle, the mighty
 (?) wings of which **227** are at the
 
 <span id="page_190">p. 190</span> <span id="page_191">p. 191</span>
 
-head of the sky; <span id="fr_250"></span>[1](#fn_248) and he who is
+head of the sky; <span id="fr_250"></span>[1](#fn_248.md) and he who is
 under the knife is protected likewise. Horus is protected as the Hidden
-Body, <span id="fr_251"></span>[2](#fn_249) and as he whose mummy is in
+Body, <span id="fr_251"></span>[2](#fn_249.md) and as he whose mummy is in
 his sarcophagus; and he who is under the knife is protected likewise.
 **228**. Horus is protected \[as the Dweller\] in the Other World \[and
 in the\] Two Lands, who goeth round about 'Those who are over Hidden
 Things'; and he who is under the knife is protected likewise. **229**.
 Horus is protected as the Divine Bennu <span
-id="fr_252"></span>[3](#fn_250) who alighteth in front of his two Eyes;
+id="fr_252"></span>[3](#fn_250.md) who alighteth in front of his two Eyes;
 and he who is under the knife is protected likewise. Horus is protected
 **230** in his own body, and the spells which his mother Isis hath woven
 protect him. Horus is protected by the names of his father \[Osiris\] in
-**231** his forms in the nomes; <span id="fr_253"></span>[4](#fn_251)
+**231** his forms in the nomes; <span id="fr_253"></span>[4](#fn_251.md)
 and he who is under the knife is protected likewise. Horus is protected
 by the weeping of his mother, and by the cries of grief of his brethren;
 and he **232** who is under the knife is protected likewise. Horus is
@@ -537,10 +537,10 @@ retreat. Verily that which is in the mouth of Ra shall go round about
 \[opposition\]. The Boat \[of Ra\] standeth still, and travelleth not
 onwards. The Disk is in the \[same\] place where it was yesterday to
 heal **237** Horus for his mother Isis, and to heal him that is under
-the knife of his mother <span id="fr_254"></span>[1](#fn_252) likewise.
+the knife of his mother <span id="fr_254"></span>[1](#fn_252.md) likewise.
 **238**. Come to the earth, draw nigh, O Boat of Ra, make the boat to
 travel, O mariners of heaven, **239** transport provisions (?) of . . .
-. . . Sekhem <span id="fr_255"></span>[2](#fn_253) to heal Horus for his
+. . . Sekhem <span id="fr_255"></span>[2](#fn_253.md) to heal Horus for his
 mother Isis, and to heal **240** him that is under the knife of his
 mother likewise. Hasten away, O pain which is in the **241** region
 round about, and let it (i.e., the Boat) descend upon the place where it
@@ -555,7 +555,7 @@ return, O life, into the living to heal Horus for his it mother Isis,
 earth, O poison. Let hearts be glad, and let radiance (or, light) go
 round about.
 
-"I am Thoth, <span id="fr_256"></span>[3](#fn_254) the firstborn son,
+"I am Thoth, <span id="fr_256"></span>[3](#fn_254.md) the firstborn son,
 the son of Ra, and Tem and the Company of the gods have commanded
 
 <span id="page_194">p. 194</span> <span id="page_195">p. 195</span>
@@ -580,8 +580,8 @@ of Nemhettu (?) \[and\] in her city."
 \[saying\]: "O ye nurses who dwell in the city of Pe, who smite
 \[fiends\] with your hands, and overthrow \[them\] with your arms on
 behalf of that Great One who appeareth in front of you **248** \[in\]
-the Sektet Boat, <span id="fr_257"></span>[1](#fn_255) let the
-Matet <span id="fr_258"></span>[2](#fn_256) (Mantchet) Boat travel on.
+the Sektet Boat, <span id="fr_257"></span>[1](#fn_255.md) let the
+Matet <span id="fr_258"></span>[2](#fn_256) (Mantchet.md) Boat travel on.
 Horus is to you, he is counted up for life, and he is declared for
 **249** the life of his father \[Osiris\]. I have given gladness unto
 those who are in the Sektet Boat, and the mariners \[of Ra\] make it to
@@ -592,7 +592,7 @@ knife liveth for
 
 his mother likewise. As for the poison, the strength thereof has been
 made powerless. Verily I am a favoured one, and I will join myself
-**250** to his hour <span id="fr_259"></span>[1](#fn_257) to hurl back
+**250** to his hour <span id="fr_259"></span>[1](#fn_257.md) to hurl back
 the report of evil to him that sent it forth. The heart of Ra-Heru-Khuti
 rejoiceth. Thy son Horus is counted up for life \[which is\] on this
 child to make him to smite, and to retreat (?) from those who are above,
@@ -607,38 +607,38 @@ in celestial beings. I have made haste . . . . . ."
 
 ### Footnotes
 
-<span id="fn_202"></span>[157:1](leg28.htm#fr_204) I.e., Law, or Truth.
+<span id="fn_202"></span>[157:1](leg28.htm#fr_204.md) I.e., Law, or Truth.
 
-<span id="fn_203"></span>[157:2](leg28.htm#fr_205) Or, obey.
+<span id="fn_203"></span>[157:2](leg28.htm#fr_205.md) Or, obey.
 
-<span id="fn_204"></span>[157:3](leg28.htm#fr_206) I.e., flourish.
+<span id="fn_204"></span>[157:3](leg28.htm#fr_206.md) I.e., flourish.
 
-<span id="fn_205"></span>[157:4](leg28.htm#fr_207) He avenged his father
+<span id="fn_205"></span>[157:4](leg28.htm#fr_207.md) He avenged his father
 Osiris by vanquishing Set.
 
-<span id="fn_206"></span>[157:5](leg28.htm#fr_208) I.e., tribal chief.
+<span id="fn_206"></span>[157:5](leg28.htm#fr_208.md) I.e., tribal chief.
 
-<span id="fn_207"></span>[157:6](leg28.htm#fr_209) I.e., Upper and Lower
+<span id="fn_207"></span>[157:6](leg28.htm#fr_209.md) I.e., Upper and Lower
 Egypt.
 
-<span id="fn_208"></span>[159:1](leg28.htm#fr_210) "The House of the
+<span id="fn_208"></span>[159:1](leg28.htm#fr_210.md) "The House of the
 Crocodile," perhaps the same town as Pa-Sebekt, a district in the VIIth
 nome of Lower Egypt (Metelites).
 
-<span id="fn_209"></span>[159:2](leg28.htm#fr_211) Perhaps a district in
+<span id="fn_209"></span>[159:2](leg28.htm#fr_211.md) Perhaps a district in
 the Metelite nome.
 
-<span id="fn_210"></span>[159:3](leg28.htm#fr_212) In Egyptian Teb,
+<span id="fn_210"></span>[159:3](leg28.htm#fr_212.md) In Egyptian Teb,
 which may be the Tebut in the Metelite nome.
 
-<span id="fn_211"></span>[159:4](leg28.htm#fr_213) Taha may be the name
+<span id="fn_211"></span>[159:4](leg28.htm#fr_213.md) Taha may be the name
 of a woman, or goddess, or the word may mean a "dweller in the swamps,"
 as Golénischeff thinks.
 
-<span id="fn_212"></span>[159:5](leg28.htm#fr_214) I.e., it was not the
+<span id="fn_212"></span>[159:5](leg28.htm#fr_214.md) I.e., it was not the
 season of the inundation.
 
-<span id="fn_213"></span>[161:1](leg28.htm#fr_215) By uttering spells
+<span id="fn_213"></span>[161:1](leg28.htm#fr_215.md) By uttering spells
 Isis restored life to her husband Osiris for a season, and so became
 with child by him. She made a magical figure of a reptile, and having
 endowed it with life, it stung Ra as he passed through the sky, and the
@@ -647,140 +647,140 @@ discovered a medicine which would raise the dead, and she was reputed to
 be a great expert in the art of healing men's sicknesses. As a goddess
 she appeared to the sick, and cured them.
 
-<span id="fn_214"></span>[163:1](leg28.htm#fr_216) The island of Chemmis
+<span id="fn_214"></span>[163:1](leg28.htm#fr_216.md) The island of Chemmis
 of classical writers.
 
-<span id="fn_215"></span>[165:1](leg28.htm#fr_217) Mesqet was originally
+<span id="fn_215"></span>[165:1](leg28.htm#fr_217.md) Mesqet was originally
 the name of the bull's skin in which the deceased was wrapped in order
 to secure for him the now life; later the name was applied to the Other
 World generally. See *Book of the Dead*, Chap. xvii. 121.
 
-<span id="fn_216"></span>[165:2](leg28.htm#fr_218) The Bennu who kept
+<span id="fn_216"></span>[165:2](leg28.htm#fr_218.md) The Bennu who kept
 the book of destiny. See *Book of the Dead*, Chap. xvii. 25.
 
-<span id="fn_217"></span>[167:1](leg28.htm#fr_219) These are the
+<span id="fn_217"></span>[167:1](leg28.htm#fr_219.md) These are the
 balsam-trees for which Heliopolis has been always famous. They are
 described by Wansleben, *L'Histoire de l'Église*, pp. 88-93, and by 'Abd
 al-Latif (ed. de Sacy), p. 88.
 
-<span id="fn_218"></span>[167:2](leg28.htm#fr_220) The Abtu and Ant
+<span id="fn_218"></span>[167:2](leg28.htm#fr_220.md) The Abtu and Ant
 Fishes swam before the Boat of Ra and guided it.
 
-<span id="fn_219"></span>[167:3](leg28.htm#fr_221) This is the Cat who
+<span id="fn_219"></span>[167:3](leg28.htm#fr_221.md) This is the Cat who
 lived by the Persea tree in Heliopolis. See *Book of the Dead*, Chap.
 xvii. 18.
 
-<span id="fn_220"></span>[167:4](leg28.htm#fr_222) A hippopotamus
+<span id="fn_220"></span>[167:4](leg28.htm#fr_222.md) A hippopotamus
 goddess.
 
-<span id="fn_221"></span>[169:1](leg28.htm#fr_223) I.e., always.
+<span id="fn_221"></span>[169:1](leg28.htm#fr_223.md) I.e., always.
 
-<span id="fn_222"></span>[169:2](leg28.htm#fr_224) The land of the
+<span id="fn_222"></span>[169:2](leg28.htm#fr_224.md) The land of the
 sunrise, the East.
 
-<span id="fn_223"></span>[169:3](leg28.htm#fr_225) The land of the
+<span id="fn_223"></span>[169:3](leg28.htm#fr_225.md) The land of the
 sunset, the West.
 
-<span id="fn_224"></span>[169:4](leg28.htm#fr_226) Perhaps an animal of
+<span id="fn_224"></span>[169:4](leg28.htm#fr_226.md) Perhaps an animal of
 the Lynx class.
 
-<span id="fn_225"></span>[171:1](leg28.htm#fr_227) The text appears to
+<span id="fn_225"></span>[171:1](leg28.htm#fr_227.md) The text appears to
 be corrupt in this passage.
 
-<span id="fn_226"></span>[175:1](leg28.htm#fr_228) Or, den or hole.
+<span id="fn_226"></span>[175:1](leg28.htm#fr_228.md) Or, den or hole.
 
-<span id="fn_227"></span>[177:1](leg28.htm#fr_229) We ought, perhaps, to
+<span id="fn_227"></span>[177:1](leg28.htm#fr_229.md) We ought, perhaps, to
 translate this as "forearms."
 
-<span id="fn_228"></span>[179:1](leg28.htm#fr_230) Or, Ateh, the papyrus
+<span id="fn_228"></span>[179:1](leg28.htm#fr_230.md) Or, Ateh, the papyrus
 swamp.
 
-<span id="fn_229"></span>[179:2](leg28.htm#fr_231) I.e., Set.
+<span id="fn_229"></span>[179:2](leg28.htm#fr_231.md) I.e., Set.
 
-<span id="fn_230"></span>[181:1](leg28.htm#fr_232) I.e., to be my
+<span id="fn_230"></span>[181:1](leg28.htm#fr_232.md) I.e., to be my
 advocate.
 
-<span id="fn_231"></span>[181:2](leg28.htm#fr_233) Literally "his
+<span id="fn_231"></span>[181:2](leg28.htm#fr_233.md) Literally "his
 thing."
 
-<span id="fn_232"></span>[181:3](leg28.htm#fr_234) Tuat is a very
+<span id="fn_232"></span>[181:3](leg28.htm#fr_234.md) Tuat is a very
 ancient name of the Other World, which was situated either parallel with
 Egypt or across the celestial ocean which surrounded the world.
 
-<span id="fn_233"></span>[181:4](leg28.htm#fr_235) The "perfect place,"
+<span id="fn_233"></span>[181:4](leg28.htm#fr_235.md) The "perfect place,"
 i.e., the Other World.
 
-<span id="fn_234"></span>[183:1](leg28.htm#fr_236) Or perhaps, "a lady
+<span id="fn_234"></span>[183:1](leg28.htm#fr_236.md) Or perhaps, "a lady
 who was at the head of her district."
 
-<span id="fn_235"></span>[183:2](leg28.htm#fr_237) I.e., the mouth of
+<span id="fn_235"></span>[183:2](leg28.htm#fr_237.md) I.e., the mouth of
 Horus.
 
-<span id="fn_236"></span>[183:3](leg28.htm#fr_238) Literally, "pain" or
+<span id="fn_236"></span>[183:3](leg28.htm#fr_238.md) Literally, "pain" or
 "disease."
 
-<span id="fn_237"></span>[185:1](leg28.htm#fr_239) He is nothing, i.e.,
+<span id="fn_237"></span>[185:1](leg28.htm#fr_239.md) He is nothing, i.e.,
 he is dead.
 
-<span id="fn_238"></span>[185:2](leg28.htm#fr_240) I.e., become an
+<span id="fn_238"></span>[185:2](leg28.htm#fr_240.md) I.e., become an
 advocate for.
 
-<span id="fn_239"></span>[187:1](leg28.htm#fr_241) Literally,
+<span id="fn_239"></span>[187:1](leg28.htm#fr_241.md) Literally,
 "alighted."
 
-<span id="fn_240"></span>[187:2](leg28.htm#fr_242) When a god or a man
+<span id="fn_240"></span>[187:2](leg28.htm#fr_242.md) When a god or a man
 was declared to be *maa-kheru*, "true of voice," or "true of word," his
 power became illimitable. It gave him rule and authority, and every
 command uttered by him was immediately followed by the effect required.
 
-<span id="fn_241"></span>[189:1](leg28.htm#fr_243) I.e., "Be of good
+<span id="fn_241"></span>[189:1](leg28.htm#fr_243.md) I.e., "Be of good
 courage."
 
-<span id="fn_242"></span>[189:2](leg28.htm#fr_244) The Sun-god.
+<span id="fn_242"></span>[189:2](leg28.htm#fr_244.md) The Sun-god.
 
-<span id="fn_243"></span>[189:3](leg28.htm#fr_245) The Sun and Moon.
+<span id="fn_243"></span>[189:3](leg28.htm#fr_245.md) The Sun and Moon.
 
-<span id="fn_244"></span>[189:4](leg28.htm#fr_246) Osiris (?).
+<span id="fn_244"></span>[189:4](leg28.htm#fr_246) Osiris (?.md).
 
-<span id="fn_245"></span>[189:5](leg28.htm#fr_247) Bes (?).
+<span id="fn_245"></span>[189:5](leg28.htm#fr_247) Bes (?.md).
 
-<span id="fn_246"></span>[189:6](leg28.htm#fr_248) Probably the Ram,
+<span id="fn_246"></span>[189:6](leg28.htm#fr_248.md) Probably the Ram,
 Lord of Tattu, or the Ram of Mendes.
 
-<span id="fn_247"></span>[189:7](leg28.htm#fr_249) Heru-Behutet.
+<span id="fn_247"></span>[189:7](leg28.htm#fr_249.md) Heru-Behutet.
 
-<span id="fn_248"></span>[191:1](leg28.htm#fr_250) The beetle of
+<span id="fn_248"></span>[191:1](leg28.htm#fr_250.md) The beetle of
 Khepera, a form of the Sun-god when he is about to rise on this earth.
 
-<span id="fn_249"></span>[191:2](leg28.htm#fr_251) The Hidden Body is
+<span id="fn_249"></span>[191:2](leg28.htm#fr_251.md) The Hidden Body is
 Osiris, who lay in his sarcophagus, with Isis and Nephthys weeping over
 it.
 
-<span id="fn_250"></span>[191:3](leg28.htm#fr_252) The Bennu was the
+<span id="fn_250"></span>[191:3](leg28.htm#fr_252.md) The Bennu was the
 soul of Ra and the incarnation of Osiris.
 
-<span id="fn_251"></span>[191:4](leg28.htm#fr_253) See the names of
+<span id="fn_251"></span>[191:4](leg28.htm#fr_253.md) See the names of
 Osiris and his sanctuaries in Chapter CXLII. of the Book of the Dead.
 
-<span id="fn_252"></span>[193:1](leg28.htm#fr_254) We should probably
+<span id="fn_252"></span>[193:1](leg28.htm#fr_254.md) We should probably
 strike out the words "of his mother."
 
-<span id="fn_253"></span>[193:2](leg28.htm#fr_255) The city in the Delta
+<span id="fn_253"></span>[193:2](leg28.htm#fr_255.md) The city in the Delta
 called by the Greeks Letopolis.
 
-<span id="fn_254"></span>[193:3](leg28.htm#fr_256) Thoth stood by during
+<span id="fn_254"></span>[193:3](leg28.htm#fr_256.md) Thoth stood by during
 the fight between Horus and Set, and healed the wounds which they
 inflicted on each other.
 
-<span id="fn_255"></span>[195:1](leg28.htm#fr_257) The boat in which Ra
+<span id="fn_255"></span>[195:1](leg28.htm#fr_257.md) The boat in which Ra
 travelled from noon to sunset, or perhaps until midnight.
 
-<span id="fn_256"></span>[195:2](leg28.htm#fr_258) The boat in which Ra
+<span id="fn_256"></span>[195:2](leg28.htm#fr_258.md) The boat in which Ra
 travelled from dawn, or perhaps from midnight, to noon.
 
-<span id="fn_257"></span>[197:1](leg28.htm#fr_259) i.e., I will be with
+<span id="fn_257"></span>[197:1](leg28.htm#fr_259.md) i.e., I will be with
 him at the moment of his need.
 
 ------------------------------------------------------------------------
 
-[Next: Section I](leg29)
+[Next: Section I](leg29.md)

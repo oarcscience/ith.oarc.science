@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd07) 
-[Next](iwd09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd07.md) 
+[Next](iwd09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Irish Witchcraft and Demonology*, by St. John D. Seymour, \[1913\], at
 Intangible Textual Heritage
 
@@ -185,7 +185,7 @@ Question, and I cannot tell what to say to it*. She profest herself a
 Roman Catholick, and could recite her Paternoster in Latin very readily,
 but there was one Clause or two always too hard for her, whereof she
 said, *She could not repeat it, if she might have all the world*. <span
-id="fr_49"></span>[1](#fn_49) In the Upshot the Doctors returned her
+id="fr_49"></span>[1](#fn_49.md) In the Upshot the Doctors returned her
 Compos Mentis, and Sentence of Death was past upon her.
 
 "Divers Days past between her being arraign'd and condemn'd; and in this
@@ -236,7 +236,7 @@ others besides she had a hand in their Affliction."
 
 <span id="page_187">p. 187</span>
 
-Mrs. Glover was hanged, but in [accordance](errata.htm#0) with her dying
+Mrs. Glover was hanged, but in [accordance](errata.htm#0.md) with her dying
 words the young Goodwins experienced no relief from their torments, or,
 as Cotton Mather characteristically puts it, "the Three Children
 continued in their Furnace, as before; and it grew rather seven times
@@ -357,7 +357,7 @@ of whom, in the space of sixteen months,
 <span id="page_193">p. 193</span>
 
 nineteen (*twenty-five* according to Ashton) <span
-id="fr_50"></span>[1](#fn_50) were hanged, one of them being a
+id="fr_50"></span>[1](#fn_50.md) were hanged, one of them being a
 clergyman, the Rev. George Burroughs, about one hundred and fifty were
 put in prison, and more than two hundred accused of witchcraft. Finally
 the Government put a stop to the trials, and released the accused in
@@ -372,7 +372,7 @@ would never have been plagued as it was.
 
 ### Footnotes
 
-<span id="fn_49"></span>[184:1](iwd08.htm#fr_49) "An experiment was
+<span id="fn_49"></span>[184:1](iwd08.htm#fr_49.md) "An experiment was
 made, whether she could recite the Lord's Prayer: and it was found that
 though clause after clause was most carefully repeated unto her, yet
 when she said it after them that prompted her, she could not possibly
@@ -380,9 +380,9 @@ avoid making nonsense of it, with some ridiculous depravations. This
 experiment I had the curiosity to see made upon two more, and it had the
 same effect."
 
-<span id="fn_50"></span>[193:1](iwd08.htm#fr_50) *The Devil in Britain
+<span id="fn_50"></span>[193:1](iwd08.htm#fr_50.md) *The Devil in Britain
 and America*, chap. xxiv.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: A.D. 1689-1720](iwd09)
+[Next: Chapter VIII: A.D. 1689-1720](iwd09.md)

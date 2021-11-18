@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov04)  [Next](vov06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov04)  [Next](vov06.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ earth and places it on his head.
 
 308
 
-Through a sin [committed](errata.htm#48) ignorantly in a former birth,
+Through a sin [committed](errata.htm#48.md) ignorantly in a former birth,
 we are immersed in impurity and burdened with the body. But if thou be
 one of understanding how should thou be reproduced in the world. Thou
 shalt become immortal.
@@ -97,7 +97,7 @@ thy forehead is vile as the writing of a slut.
 
 By not bestowing food on one who begged it off him in the former birth,
 he becomes necessitous in the iron age. His being now born wealthy is a
-testimony to the [beneficent](errata.htm#49) man.
+testimony to the [beneficent](errata.htm#49.md) man.
 
 <span id="page_84">p. 84</span>
 
@@ -115,7 +115,7 @@ sinews grows stout and strong, like a daring dog he roams to bite.
 317
 
 If thou fail to destroy the sins (lit, pains) that were
-[committed](errata.htm#50) in the former birth, how should they depart.
+[committed](errata.htm#50.md) in the former birth, how should they depart.
 Thy mind (buddhi) and thy acts being combined and untwined what can such
 men say to this? They must endure the fruits of their sins.
 
@@ -210,7 +210,7 @@ her rags again.
 
 He that eats dogs (quells his passions) is the (*linga*) Janga Teacher.
 He that eats hog (quells his bodily lusts) is the Parama *yogee*. He
-that eats the elephant, how wise [must](errata.htm#51) he be!
+that eats the elephant, how wise [must](errata.htm#51.md) he be!
 
 <span id="page_88">p. 88</span>
 
@@ -222,7 +222,7 @@ the breast to net babe (a mystic riddle not worth explaining).
 
 333
 
-In an [alligator's](errata.htm#52) eye an old woman brought forth; the
+In an [alligator's](errata.htm#52.md) eye an old woman brought forth; the
 chiefs of beings have not put away her uncleanness; if those beings come
 how shalt they put it away?
 
@@ -233,7 +233,7 @@ spouts (distillations); consider in them the soul resides.
 
 335
 
-At high noon (*mudras*) by the heat of the [full moon](errata.htm#53)
+At high noon (*mudras*) by the heat of the [full moon](errata.htm#53.md)
 (jyotees), the large bee (wisdom) rapidly fans the breeze (grow). By
 full faith the soul enters into thee.
 
@@ -276,13 +276,13 @@ Can oil ever be cut? (worthless)
 342
 
 First there were three branches born in a tree. Spouts, boughs and
-leaves were [therein](errata.htm#54) produced. The flower, the bud (foot
+leaves were [therein](errata.htm#54.md) produced. The flower, the bud (foot
 spout) and the full fruit fill the world.
 
 343
 
 With the widowed widow *maya*--they plunge and emerge in
-[worldly](errata.htm#55) pursuits. But when that affection has ceased,
+[worldly](errata.htm#55.md) pursuits. But when that affection has ceased,
 when her protection ceases those desires themselves exist not.
 
 344
@@ -314,10 +314,10 @@ is *Ishwara* (a mystic riddle, quite worthless).
 
 He lives well known to the people; but is not a king. He has a crown on
 him, but he is not Brahma. He knows and speaks of what is fit, yet is no
-*yogee*. Know who this is ([pure](errata.htm#56) fooling of *Para
+*yogee*. Know who this is ([pure](errata.htm#56.md) fooling of *Para
 Brahma*).
 
-[349](errata.htm#57)
+[349](errata.htm#57.md)
 
 It produces young ones in the earth and writes their characters on them,
 and suffer beheading. He is the chief of the Gods . He is lord of men.
@@ -334,7 +334,7 @@ fooling of a coconut)
 351
 
 It dwells in light and shuts its eyes while it lays egg with delight.
-Surely the cuckoo [practices](errata.htm#58) penance on the bough.
+Surely the cuckoo [practices](errata.htm#58.md) penance on the bough.
 
 352
 
@@ -346,7 +346,7 @@ desire O Vema!
 353
 
 A whore devoid of lewdness is the devil's daughter; joyless work a
-plague of rubbing. Thus a village [devoid](errata.htm#59) of a liberal
+plague of rubbing. Thus a village [devoid](errata.htm#59.md) of a liberal
 man is demon's town.
 
 354
@@ -359,7 +359,7 @@ buffalo's milk nasty? Love goes by liking alone.
 
 355
 
-The whore praises all the [ways](errata.htm#60) of the whoremonger. The
+The whore praises all the [ways](errata.htm#60.md) of the whoremonger. The
 whore's mother exposes his infamy. It is hurtful to meddle with a whore
 who hath a mother.
 
@@ -443,7 +443,7 @@ a farthing,
 367
 
 Woman is the mortar in which men pound to wear it out. But they weary
-themselves and begin to fall over her thighs [throughout](errata.htm#61)
+themselves and begin to fall over her thighs [throughout](errata.htm#61.md)
 the world.
 
 368
@@ -479,7 +479,7 @@ comforts him not (cools his belly) nor enriches him...(incomplete)
 373
 
 No one will give away buttermilk as he will toddy; though they hoard up
-for the [thief](errata.htm#62) they will not bestow in
+for the [thief](errata.htm#62.md) they will not bestow in
 virtue...(incomplete)
 
 374
@@ -516,7 +516,7 @@ is subject to these inconveniences of the tongue and anus.
 
 When we behold the body of a woman we are agitated; but cannot perceive
 the nastiness in her belly. To what end is this body that lives in
-[defilement](errata.htm#63).
+[defilement](errata.htm#63.md).
 
 380
 
@@ -548,16 +548,16 @@ cheek.
 
 884
 
-[Caste](errata.htm#64) is a pariarism, a wife is a parcel of *mala
+[Caste](errata.htm#64.md) is a pariarism, a wife is a parcel of *mala
 mutra*. Can love be produced in the body towards such a wife? The mind
-through [spiritual](errata.htm#65) knowledge becomes a form of God.
+through [spiritual](errata.htm#65.md) knowledge becomes a form of God.
 
 385
 
 <span id="page_100">p. 100</span>
 
 Filth goes to the scourer and a block of wood falls to the share of the
-potters, [fullness](errata.htm#66) of the nails to the barber as is well
+potters, [fullness](errata.htm#66.md) of the nails to the barber as is well
 known and as surely must the worshipper, attain the divinity to gain
 purity.
 
@@ -652,4 +652,4 @@ seminal connections. Our shame is less as the cause is greater.
 
 ------------------------------------------------------------------------
 
-[Next: 400-499](vov06)
+[Next: 400-499](vov06.md)

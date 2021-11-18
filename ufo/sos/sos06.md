@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](sos05)  [Next](sos07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](sos05)  [Next](sos07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Saucers*, by Orfeo M. Angelucci, \[1955\], at
 Intangible Textual Heritage
 
@@ -114,7 +114,7 @@ bustling with activity. In all of the excitement, flying saucers and
 space visitors were the farthest things from my mind. But as I entered
 the front door of the bus terminal I stopped in my tracks and stared,
 unable to believe my eyes. Directly in front of me and facing the
-[newsstand](errata.htm#7) was a familiar face. I knew I couldn't be
+[newsstand](errata.htm#7.md) was a familiar face. I knew I couldn't be
 mistaken—it was Neptune!
 
 He glanced up and his dark eyes told me that he was expecting me. He was
@@ -186,4 +186,4 @@ the warm welcome I felt in my heart.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Past Is Never Dead!](sos07)
+[Next: Chapter V. The Past Is Never Dead!](sos07.md)

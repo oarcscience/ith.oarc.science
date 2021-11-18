@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva20)  [Next](rvaidx) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva20)  [Next](rvaidx.md) 
 
 ------------------------------------------------------------------------
 
@@ -1000,4 +1000,4 @@ Xoxolcuicatl, VI, 5. From *xolotl*, servant, page, and *cuicatl*, song.
 
 ------------------------------------------------------------------------
 
-[Next: Index](rvaidx) 
+[Next: Index](rvaidx.md) 

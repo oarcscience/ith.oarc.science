@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc42)  [Next](sfoc44) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc42)  [Next](sfoc44.md) 
 
 ------------------------------------------------------------------------
 
@@ -197,4 +197,4 @@ by the word iyu'stï, "like."
 
 ------------------------------------------------------------------------
 
-[Next: This Tells About Going into the Water](sfoc44)
+[Next: This Tells About Going into the Water](sfoc44.md)

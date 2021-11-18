@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc10)  [Next](blc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc10)  [Next](blc12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -61,8 +61,8 @@ head of thy foe.
 21\. "Thou, Lord, shalt hold the foremost position among the gods.
 
 22\. "Decree thou the throwing down <span
-id="fr_31"></span>[32](blc17.htm#fn_31) and the building up, <span
-id="fr_32"></span>[33](blc17.htm#fn_32) and it shall come to pass.
+id="fr_31"></span>[32](blc17.htm#fn_31.md) and the building up, <span
+id="fr_32"></span>[33](blc17.htm#fn_32.md) and it shall come to pass.
 
 23\. "Speak but the word, and the cloak shall disappear,
 
@@ -78,7 +78,7 @@ mouth
 28\. They rejoiced and adored \[him, saying\], "Marduk is King."
 
 29\. They conferred upon him the sceptre, the throne, and the symbol of
-royalty (?) <span id="fr_33"></span>[34](blc17.htm#fn_33)
+royalty (?) <span id="fr_33"></span>[34](blc17.htm#fn_33.md)
 
 30\. They gave him the unrivalled weapon, the destroyer of the enemy
 \[saying\]:
@@ -98,7 +98,7 @@ royalty (?) <span id="fr_33"></span>[34](blc17.htm#fn_33)
 37\. He raised the club, he grasped it in his right hand.
 
 38\. The bow and the quiver he hung at his side. <span
-id="fr_34"></span>[35](blc17.htm#fn_34)
+id="fr_34"></span>[35](blc17.htm#fn_34.md)
 
 39\. He set the lightning in front of him.
 
@@ -112,7 +112,7 @@ her might escape,
 <span id="img_021"></span> <span align="CENTER"> [![Portion of a tablet
 inscribed in Babylonian with a text of the Fourth Tablet of the Creation
 Series. \[No. 93,016.\]](tn/021.png)  
-Click to enlarge](img/021.png)  
+Click to enlarge](img/021.png.md)  
 Portion of a tablet inscribed in Babylonian with a text of the Fourth
 Tablet of the Creation Series. \[No. 93,016.\]  
 </span>
@@ -129,7 +129,7 @@ incomparable
 <span id="img_022"></span> <span align="CENTER"> [![Portion of a tablet
 inscribed in Assyrian with a text of the Fourth Tablet of the Creation
 Series. \[K. 3437.\]](tn/022.png)  
-Click to enlarge](img/022.png)  
+Click to enlarge](img/022.png.md)  
 Portion of a tablet inscribed in Assyrian with a text of the Fourth
 Tablet of the Creation Series. \[K. 3437.\]  
 </span>
@@ -142,7 +142,7 @@ train.
 49\. The Lord raised up the wind storm, his mighty weapon.
 
 50\. He went up into his chariot, the unequalled and terrible
-tempest. <span id="fr_35"></span>[36](blc17.htm#fn_35)
+tempest. <span id="fr_35"></span>[36](blc17.htm#fn_35.md)
 
 51\. He equipped it, he yoked thereto a team of four horses,
 
@@ -228,7 +228,7 @@ weapons.
 91\. She recited an incantation, she pronounced her spell.
 
 92\. The gods of battle demanded their weapons. <span
-id="fr_36"></span>[37](blc17.htm#fn_36)
+id="fr_36"></span>[37](blc17.htm#fn_36.md)
 
 93\. Tiâmat and Marduk, the envoy of the gods, roused themselves,
 
@@ -294,7 +294,7 @@ awfulness,
 have been his,
 
 122\. He sealed it with a seal <span
-id="fr_37"></span>[38](blc17.htm#fn_37) and fastened it on his breast
+id="fr_37"></span>[38](blc17.htm#fn_37.md) and fastened it on his breast
 
 123\. After he had crushed and overthrown his enemies,
 
@@ -303,7 +303,7 @@ id="fr_37"></span>[38](blc17.htm#fn_37) and fastened it on his breast
 125\. He established completely Anshar's victory over the enemy,
 
 126\. The valiant Marduk achieved the object of Nudimmud (Ea), <span
-id="fr_38"></span>[39](blc17.htm#fn_38)
+id="fr_38"></span>[39](blc17.htm#fn_38.md)
 
 127\. He imposed strict restraint on the gods whom he had made captive.
 
@@ -325,7 +325,7 @@ glad.
 135\. The Lord \[Marduk\] paused, he examined Tiâmat's carcase.
 
 136\. He separated flesh \[from\] hair, <span
-id="fr_39"></span>[40](blc17.htm#fn_39) he worked cunningly.
+id="fr_39"></span>[40](blc17.htm#fn_39.md) he worked cunningly.
 
 137\. He slit Tiâmat open like a flat (?) fish \[cut into\] two pieces,
 
@@ -350,4 +350,4 @@ to the Deep (Apsu),
 
 ------------------------------------------------------------------------
 
-[Next: Fifth Tablet](blc12)
+[Next: Fifth Tablet](blc12.md)

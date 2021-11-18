@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](damn00)  [Next](damn02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](damn00)  [Next](damn02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of the Damned*, by Charles Fort, \[1919\], at Intangible
 Textual Heritage
 
@@ -383,7 +383,7 @@ Or that all attempts to find Truth in the special are attempts to find
 the universal in the local.
 
 And artists and their striving for positiveness, under the name of
-"harmony"—but their pigments that are [oxidizing](errata.htm#0), or are
+"harmony"—but their pigments that are [oxidizing](errata.htm#0.md), or are
 responding to a deranging environment—or the strings of musical
 instruments that are differently and disturbingly adjusting to outside
 chemic and thermal and gravitational forces—again and again this oneness
@@ -412,7 +412,7 @@ Adjustment is another name for Equilibrium. Equilibrium is the
 Universal, or that which has nothing external to derange it. But that
 all that we call "being" is motion: and that all motion is the
 expression, not of equilibrium, but of equilibrating, or of
-[equilibrium](errata.htm#1) unattained: that life-motions are
+[equilibrium](errata.htm#1.md) unattained: that life-motions are
 expressions of equilibrium unattained: that all thought relates to the
 unattained: that to have what is called being in our quasi-state, is not
 to be in the
@@ -701,4 +701,4 @@ If the damned would only stay damned.
 
 ------------------------------------------------------------------------
 
-[Next: 2](damn02)
+[Next: 2](damn02.md)

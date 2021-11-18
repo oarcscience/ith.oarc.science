@@ -1,7 +1,7 @@
 <span class="small"></span>
 
-[Sacred Texts Index](../../index)  [Northern European Index](../index) 
-[Index](index)  [Previous](saxo02)  [Next](saxo04) 
+[Sacred Texts Index](../../index)  [Northern European Index](../index.md) 
+[Index](index)  [Previous](saxo02)  [Next](saxo04.md) 
 
 ------------------------------------------------------------------------
 

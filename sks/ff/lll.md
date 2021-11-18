@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../lll/lll) 
-[Previous](man)  [Next](mnd) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../lll/lll.md) 
+[Previous](man)  [Next](mnd.md) 
 
 ------------------------------------------------------------------------
 
@@ -3840,4 +3840,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: A Midsommer Nights Dreame](mnd) 
+[Next: A Midsommer Nights Dreame](mnd.md) 

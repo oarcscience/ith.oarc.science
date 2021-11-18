@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc09)  [Next](esc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc09)  [Next](esc11.md) 
 
 ------------------------------------------------------------------------
 
@@ -251,7 +251,7 @@ repeated, or twice told, which would make an army of 400,000 horsemen;
 and this would not be incredible.  And what is to me strong proof of the
 fact is, that the history informs us that Mahomet II. came against
 Constantinople about the year A.D. 1450, with an army of 400,000 <span
-id="fr_0"></span>[1](#fn_0) horsemen, and after a long siege took the
+id="fr_0"></span>[1](#fn_0.md) horsemen, and after a long siege took the
 city in the year 1453, and destroyed the Eastern Empire, which had stood
 more than ten centuries from its foundation by Constantine.
 
@@ -394,10 +394,10 @@ Death is swallowed up in victory," 1 Cor. xv. 22-54.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](esc10.htm#fr_0) Some authors say 300,000.
+<span id="fn_0"></span>[1](esc10.htm#fr_0.md) Some authors say 300,000.
 
 ------------------------------------------------------------------------
 
 [Next: Lecture IX. The Epistles to the Seven Churches of Asia,
 Considered as Applying to Seven Periods of the Gospel Church, Part
-I.](esc11)
+I.](esc11.md)

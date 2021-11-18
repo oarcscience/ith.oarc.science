@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](how03)  [Next](how05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](how03)  [Next](how05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -231,7 +231,7 @@ eccentric at those moments wherein the planet is at the end of the
 quadrant of the eccentric measured from the aphelion, although that true
 quadrant appears still smaller than the just quadrant*. Furthermore, it
 follows *that the sum of any two true diurnal eccentric arcs, one of
-which is at the same [distance](errata.htm#1) from the aphelion that the
+which is at the same [distance](errata.htm#1.md) from the aphelion that the
 other is from the perihelion, is equal to the sum of the two mean
 diurnal arcs*. And as a consequence, *since the ratio of circles is the
 same as that of the diameters, the ratio of one mean diurnal arc to the
@@ -351,7 +351,7 @@ one year, and the period of Saturn, which is thirty years, and extract
 the cube roots of this ratio and then square the ensuing ratio by
 squaring the cube roots, he will have as his numerical products the most
 just ratio of the distances of the Earth and Saturn from the sun. <span
-id="fr_0"></span>[1](#fn_0) For the cube root of 1 is 1, and the square
+id="fr_0"></span>[1](#fn_0.md) For the cube root of 1 is 1, and the square
 of it is 1; and the cube root of 30 is greater than 3, and therefore the
 square of it is greater than 9. And Saturn, at its mean distance from
 the sun, is slightly higher \[280\] than nine times the mean distance of
@@ -439,7 +439,7 @@ were to exceed the
 
 ratio of the square roots of the spheres, then the ratio of the
 converging movements would be less than the ratio of their
-intervals. <span id="fr_1"></span>[1](#fn_1)
+intervals. <span id="fr_1"></span>[1](#fn_1.md)
 
 Let the ratio of the spheres be *DH* : *AE*; let the ratio of the mean
 movements be *HI* : *EM*, the 3/2th power of the inverse of the former.
@@ -567,12 +567,12 @@ that of the mean to the perihelial.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1020:1](how04.htm#fr_0) For in the *Commentaries
+<span id="fn_0"></span>[1020:1](how04.htm#fr_0.md) For in the *Commentaries
 on Mars*, chapter 48, page 232, I have proved that this Arithmetic mean
 is either the diameter of the circle which is equal in length to the
 elliptic orbit, or else is very slightly less.
 
-<span id="fn_1"></span>[1022:1](how04.htm#fr_1) Kepler always measures
+<span id="fn_1"></span>[1022:1](how04.htm#fr_1.md) Kepler always measures
 the magnitude of a ratio from the greater term to the smaller, rather
 than from the antecedent to the consequent, as we do today. For example,
 as Kepler speaks, 2 : 3 is the same as 3 : 2, and 3 : 4 is greater than
@@ -582,4 +582,4 @@ as Kepler speaks, 2 : 3 is the same as 3 : 2, and 3 : 4 is greater than
 
 [Next: 4. In What Things Having To Do With the Planetary Movements Have
 the Harmonic Consonances Been Expressed By the Creator, and In What
-Way?](how05)
+Way?](how05.md)

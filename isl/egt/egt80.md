@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt79)  [Next](egt81) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt79)  [Next](egt81.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ and aloes wood?
 ------------------------------------------------------------------------
 
 [Next: OF THE MULTITUDE; THEY ARE LIKE CATTLE--NAY. THEY ARE MORE
-ERRING.](egt81)
+ERRING.](egt81.md)

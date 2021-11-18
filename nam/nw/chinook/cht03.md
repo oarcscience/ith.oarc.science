@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht02)  [Next](cht04) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht02)  [Next](cht04.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ is united with the first vowel of the next word to one syllable.
 
 ------------------------------------------------------------------------
 
-[Next: 1. CikLa](cht04)
+[Next: 1. CikLa](cht04.md)

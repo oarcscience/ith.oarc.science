@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](heb)  [Next](pe1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](heb)  [Next](pe1.md) 
 
 ------------------------------------------------------------------------
 
@@ -440,4 +440,4 @@ isang kaluluwa sa kamatayan, at magtatakip ng karamihang kasalanan.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Peter](pe1)
+[Next: 1 Peter](pe1.md)

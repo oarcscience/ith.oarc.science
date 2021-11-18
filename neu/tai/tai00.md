@@ -1,18 +1,18 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Next](tai01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Next](tai01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 <span id="img_map"></span>
 
 [![MEDIEVAL RUSSIA](tn/map.jpg)  
-Click to enlarge](img/map.jpg)  
+Click to enlarge](img/map.jpg.md)  
 MEDIEVAL RUSSIA  
 
 (*228 Kb*)
@@ -20,7 +20,7 @@ MEDIEVAL RUSSIA
 <span id="img_mapdet"></span>
 
 [![Map Detail (Full Size)](tn/mapdet.jpg)  
-Click to enlarge](img/mapdet.jpg)  
+Click to enlarge](img/mapdet.jpg.md)  
 Map Detail (Full Size)  
 
 (*192 Kb*)
@@ -58,7 +58,7 @@ Map Detail (Full Size)
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 NOTICE OF ATTRIBUTION  
@@ -70,4 +70,4 @@ attribution is left intact.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](tai01)
+[Next: Preface](tai01.md)

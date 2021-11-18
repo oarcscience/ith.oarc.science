@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft49)  [Next](sfft51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft49)  [Next](sfft51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 
 # THE BROWNIE, THE BOGLE, THE KELPY, MERMEN, DEMONS.
 
-### THE SCOTTISH BROWNIE. <span id="fr_78"></span>[1](#fn_78)
+### THE SCOTTISH BROWNIE. <span id="fr_78"></span>[1](#fn_78.md)
 
 THE Scottish Brownie formed a class of beings distinct in habit and
 disposition from the freakish and mischievous elves. He was meagre,
@@ -61,9 +61,9 @@ domestic drudgery, he went in his new livery to join the fairies.
 
 ### Footnotes
 
-<span id="fn_78"></span>[177:1](sfft50.htm#fr_78) Sir Walter Scott,
+<span id="fn_78"></span>[177:1](sfft50.htm#fr_78.md) Sir Walter Scott,
 *Minstrelsy of the Scottish Border*.
 
 ------------------------------------------------------------------------
 
-[Next: The Brownie Of Bodsbeck](sfft51)
+[Next: The Brownie Of Bodsbeck](sfft51.md)

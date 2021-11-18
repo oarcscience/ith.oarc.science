@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd11)  [Next](odd13) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd11)  [Next](odd13.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ they may give much enjoyment to it whilst it lasts.'
 
 ------------------------------------------------------------------------
 
-[Next: IX. Panch-Phul Ranee](odd13)
+[Next: IX. Panch-Phul Ranee](odd13.md)

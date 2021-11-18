@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm47)  [Next](bnm49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm47)  [Next](bnm49.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ they say, "That is the good fisher who gave us the beautiful summer."
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Snowdrops.](bnm49)
+[Next: The Story Of The First Snowdrops.](bnm49.md)

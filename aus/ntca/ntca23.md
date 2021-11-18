@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca22)  [Next](ntca24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca22)  [Next](ntca24.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ F. J. Gillen \[1899\], at Intangible Textual Heritage
 THE following is evidently the equivalent in the Urabunna tribe of the
 ceremony to which, in the case of the Dieri tribe, Mr. Gason in his
 account refers under the name of *Willyaroo*. <span
-id="fr_198"></span>[1](#fn_197) So far as the fire ordeal is concerned
+id="fr_198"></span>[1](#fn_197.md) So far as the fire ordeal is concerned
 it may, in certain respects, be regarded as the equivalent of the
 Engwura amongst the Arunta.
 
@@ -138,9 +138,9 @@ amongst the Arunta people.
 
 ### Footnotes
 
-<span id="fn_197"></span>[640:1](ntca23.htm#fr_198) *The Native Tribes
+<span id="fn_197"></span>[640:1](ntca23.htm#fr_198.md) *The Native Tribes
 of South Australia*. Adelaide, 1879, pp. 253–307.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix C](ntca24)
+[Next: Appendix C](ntca24.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp15) 
-[Next](alp17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp15.md) 
+[Next](alp17.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Breathed the breath of life in me,
 And a spirit I became,
 
 Wrapped within my swaddling bands,  
-Bound and fettered helplessly, <span id="fr_2"></span>[1](#fn_2)  
+Bound and fettered helplessly, <span id="fr_2"></span>[1](#fn_2.md)  
 I stretched forth my infant hands  
 To embrace sweet Liberty.
 
@@ -75,9 +75,9 @@ I will shout forth Liberty!"
 
 ### Footnotes
 
-<span id="fn_2"></span>[12:1](alp16.htm#fr_2) Armenian babies are tied
+<span id="fn_2"></span>[12:1](alp16.htm#fr_2.md) Armenian babies are tied
 tightly into their cradles when they are put to sleep.
 
 ------------------------------------------------------------------------
 
-[Next: I Beheld My Love This Morning](alp17)
+[Next: I Beheld My Love This Morning](alp17.md)

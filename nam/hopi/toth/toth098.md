@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth097)  [Next](toth099) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth097)  [Next](toth099.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 95. THE RED EAGLE AND THE OWL. <span id="fr_179"></span>[2](#fn_177)
+## 95. THE RED EAGLE AND THE OWL. <span id="fr_179"></span>[2](#fn_177.md)
 
 Over yonder at Owl Gulch (Móngwupcövö) lived a large Owl with her
 children, and north of there at a bluff lived a Red Eagle (Palikwyaho),
@@ -61,12 +61,12 @@ home, and the Eagle then lived in his house all alone.
 
 ### Footnotes
 
-<span id="fn_176"></span>[234:1](toth097.htm#fr_178) Told by Pûhûnömtiwa
+<span id="fn_176"></span>[234:1](toth097.htm#fr_178.md) Told by Pûhûnömtiwa
 (Oraíbi).
 
-<span id="fn_177"></span>[234:2](toth098.htm#fr_179) Told by Kwáyeshva
+<span id="fn_177"></span>[234:2](toth098.htm#fr_179.md) Told by Kwáyeshva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 96. The Bee and the Ásya](toth099)
+[Next: 96. The Bee and the Ásya](toth099.md)

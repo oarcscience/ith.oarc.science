@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal100)  [Next](njal102) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal100)  [Next](njal102.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ Ravensfood.
 
 ------------------------------------------------------------------------
 
-[Next: 102. The Wedding Of Hauskuld, The Priest Of Whiteness](njal102)
+[Next: 102. The Wedding Of Hauskuld, The Priest Of Whiteness](njal102.md)

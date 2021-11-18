@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl20)  [Next](irl22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl20)  [Next](irl22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -46,7 +46,7 @@ Vanue's marvelous
 
 <span id="page_176">p. 176</span>
 
-nutrients <span id="fr_58"></span>[22](#fn_58) had given me, over and
+nutrients <span id="fr_58"></span>[22](#fn_58.md) had given me, over and
 above my natural inheritance.
 
 Had Sathanas known all that Vanue knew about nutrient and beneficial
@@ -111,8 +111,8 @@ warship
 <span class="contnote">\[paragraph continues\]</span> . . . ha! Serves
 him right!"
 
-It was true. There are no [finer](errata.htm#8)
-[craftsmen](errata.htm#9) anywhere in all the known cosmos, yet they are
+It was true. There are no [finer](errata.htm#8.md)
+[craftsmen](errata.htm#9.md) anywhere in all the known cosmos, yet they are
 sometimes prone to strike back, thusly, for some slight insult—letting
 inferior work pass as O.K. Then, one day, the one that insulted will
 find his mech failing when he needs it most. It pays to be courteous and
@@ -368,7 +368,7 @@ was still digesting the horrible facts, the ship disappeared.
 
 ### Footnotes
 
-<span id="fn_58"></span>[176:22](irl21.htm#fr_58) NUTRIENTS: These
+<span id="fn_58"></span>[176:22](irl21.htm#fr_58.md) NUTRIENTS: These
 nutrients are based on the hydrogen ion flow in the body. Most of the
 electric by which the greatest electrical machine known (human body)
 operates is borne about the body as a charge upon a flow of hydrogen
@@ -388,4 +388,4 @@ made them attractable by the ordinary body electric charge.—Author.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. A Satanic Hostage](irl22)
+[Next: Chapter X. A Satanic Hostage](irl22.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj49) 
-[Next](npj51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj49.md) 
+[Next](npj51.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ tells the story, which is indeed a curious and arresting one.
 
 ------------------------------------------------------------------------
 
-[Next: Mari (The Football)](npj51)
+[Next: Mari (The Football)](npj51.md)

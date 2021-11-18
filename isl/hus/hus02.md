@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Shiite
-Documents](../shi)  [Index](index)  [Previous](hus01)  [Next](hus03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Shiite
+Documents](../shi)  [Index](index)  [Previous](hus01)  [Next](hus03.md) 
 
 ------------------------------------------------------------------------
 
@@ -577,4 +577,4 @@ Holy Karbala
 
 ------------------------------------------------------------------------
 
-[Next: The First Part](hus03)
+[Next: The First Part](hus03.md)

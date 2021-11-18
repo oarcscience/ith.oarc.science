@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm24)  [Next](rotm26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm24)  [Next](rotm26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -224,6 +224,6 @@ be cherished by the sweetness of her love.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV. Of the Gate-Thing at Burgstead](rotm26)
+[Next: Chapter XXV. Of the Gate-Thing at Burgstead](rotm26.md)
 
 </div>

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb03)  [Next](yefb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb03)  [Next](yefb05.md) 
 
 </div>
 
@@ -209,6 +209,6 @@ happiness and peace.
 
 ------------------------------------------------------------------------
 
-[Next: The Dragon Of The North](yefb05)
+[Next: The Dragon Of The North](yefb05.md)
 
 </div>

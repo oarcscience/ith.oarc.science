@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo72)  [Next](hoo74) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo72)  [Next](hoo74.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 ###### LXVIII.
 
-### TO THE FURIES <span id="fr_120"></span>[\*](#fn_120)
+### TO THE FURIES <span id="fr_120"></span>[\*](#fn_120.md)
 
 ###### The FUMIGATION from AROMATICS.
 
@@ -15,7 +15,7 @@ VOCIFEROUS Bacchanalian Furies, hear!
 Ye, I invoke, dread pow'rs, whom all revere;  
 Nightly, profound, in secret who retire,  
 Tisiphone, Alecto, and Megara dire:  
-Deep in a cavern merg'd, involv'd in night, [5](errata.htm#12)  
+Deep in a cavern merg'd, involv'd in night, [5](errata.htm#12.md)  
 Near where Styx flows impervious to the sight;  
 Ever attendant on mysterious rites,  
 Furious and fierce, whom Fate's dread law delights;  
@@ -43,9 +43,9 @@ Suppress your rage, and to our rites incline.
 
 ### Footnotes
 
-<span id="fn_120"></span>[200:\*](hoo73.htm#fr_120) See the note to Hymn
+<span id="fn_120"></span>[200:\*](hoo73.htm#fr_120.md) See the note to Hymn
 lviii. to the Fates.
 
 ------------------------------------------------------------------------
 
-[Next: LXIX: To The Furies](hoo74)
+[Next: LXIX: To The Furies](hoo74.md)

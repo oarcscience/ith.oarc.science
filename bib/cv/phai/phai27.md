@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai26) 
-[Next](phai28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai26.md) 
+[Next](phai28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -257,7 +257,7 @@ inhabitants. His brother Jonathan (Jannæus) Alexander (104-79),
 in a series of continual wars, which were never very prosperous,
 nevertheless succeeded in adding the whole coast of Philistia (Gaza) as
 well as a great portion of Peræa to his hereditary dominions. <span
-id="fr_266"></span>[1](#fn_266) But the external enlargement of the
+id="fr_266"></span>[1](#fn_266.md) But the external enlargement of the
 structure was secured at the cost of its internal consistency.
 
 From the time when Jonathan, the son of Mattathias, began to carry on
@@ -297,7 +297,7 @@ escape the observation of even the common people; for this idea was God
 and the law, not any earthly fatherland. The masses accordingly ranged
 themselves with ever-growing unanimity on the side of the Pharisees
 (*i.e.*, the party of the scribes) as against the Sadducees (*i.e.*, the
-Hasmonæan party). <span id="fr_267"></span>[1](#fn_267)
+Hasmonæan party). <span id="fr_267"></span>[1](#fn_267.md)
 
 On one occasion, when Alexander Jannæus had returned to Jerusalem at the
 feast of tabernacles, and was standing in his priestly vestments before
@@ -332,7 +332,7 @@ to wield a paramount influence. The common assertion, indeed, that the
 synedrium was at that time practically composed of scribes, is
 inconsistent with the known facts of the case; the synedrium at that
 time was a political and not a scholastic authority. <span
-id="fr_268"></span>[1](#fn_268) In its origin it was the municipal
+id="fr_268"></span>[1](#fn_268.md) In its origin it was the municipal
 council of Jerusalem (so also the councils of provincial towns are
 called synedria, Mark xiii. 9), but its authority extended over the
 entire Jewish community; alongside of the elders of the city the ruling
@@ -353,7 +353,7 @@ importance to their priestly functions) at length lost all patience. Led
 by Aristobulus, the second son of Jannæus, the leaders of the party came
 to the palace, and begged the queen to dismiss them from the court and
 to send them into the provinces. There they were successful in securing
-possession of several fortresses <span id="fr_269"></span>[2](#fn_269)
+possession of several fortresses <span id="fr_269"></span>[2](#fn_269.md)
 in preparation for insurrection, a favourable opportunity for which they
 were watching. Such an opportunity occurred, it seemed to Aristobulus,
 as his mother lay on her death-bed. The commandants of the fortresses
@@ -400,12 +400,12 @@ Romans; the city was occupied by a Roman garrison.
 
 ### Footnotes
 
-<span id="fn_266"></span>[524:1](phai27.htm#fr_266) A number of
+<span id="fn_266"></span>[524:1](phai27.htm#fr_266.md) A number of
 half-independent towns and communes lay as tempting subjects of dispute
 between the Seleucidæ, the Nabathaæans or Arabs of Petra, and the Jews.
 The background was occupied by the Parthians and the Romans.
 
-<span id="fn_267"></span>[525:1](phai27.htm#fr_267) ‏פרוש‎ means
+<span id="fn_267"></span>[525:1](phai27.htm#fr_267.md) ‏פרוש‎ means
 "separated," and refers perhaps to the attitude of isolation taken by
 the zealots for the law during the interval between 162 and 105. ‏צדוקי‎
 (Σαδδουκαῖος) comes from ‏צדוק‎ (Σαδδούκ, LXX.) the ancestor of the
@@ -416,14 +416,14 @@ the lapse of time, on account of the Sadducees’ gradual loss of
 political power, till they fell at last to the condition of a sort of
 "fronde."
 
-<span id="fn_268"></span>[526:1](phai27.htm#fr_268) Kuenen, "Over de
+<span id="fn_268"></span>[526:1](phai27.htm#fr_268.md) Kuenen, "Over de
 Samenstelling van het Sanhedrin," in *Proceedings of Royal Netherl.
 Acad.*, 1866.
 
-<span id="fn_269"></span>[526:2](phai27.htm#fr_269) Alexandrium, Coreæ,
+<span id="fn_269"></span>[526:2](phai27.htm#fr_269.md) Alexandrium, Coreæ,
 and similar citadels, which were at that time of great importance for
 Palestine and Syria.
 
 ------------------------------------------------------------------------
 
-[Next: 14. Herod And The Romans.](phai28)
+[Next: 14. Herod And The Romans.](phai28.md)

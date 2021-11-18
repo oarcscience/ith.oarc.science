@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof26)  [Next](sof28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof26)  [Next](sof28.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head25.png"></span> ![Header Chapter XXV.](img/head25.png)
+<span id="img_head25.png"></span> ![Header Chapter XXV.](img/head25.png.md)
 
 ## XXV.
 
@@ -17,7 +17,7 @@
 The compound character of a speculative science and an operative art,
 which the masonic institution assumed at the building of King Solomon's
 temple, in consequence of the union, at that era, of the Pure
-Freemasonry of the Noachidae [140](sof37.htm#xref_140) with the Spurious
+Freemasonry of the Noachidae [140](sof37.htm#xref_140.md) with the Spurious
 Freemasonry of the Tyrian workmen, has supplied it with two distinct
 kinds of symbols--the *mythical*, or *legendary*, and the *material*;
 but these are so thoroughly united in object and design, that it is
@@ -72,14 +72,14 @@ character into the masonic system.
 So general, indeed, was the diffusion of the myth or legend among the
 philosophical, historical, and religious systems of antiquity, that
 Heyne remarks, on this subject, that all the history and philosophy of
-the ancients proceeded from myths. [141](sof37.htm#xref_141)
+the ancients proceeded from myths. [141](sof37.htm#xref_141.md)
 
 The word *myth*, from the Greek μῦθος, *a story*, in its original
 acceptation, signified simply a statement or narrative of an event,
 without any necessary implication of truth or falsehood; but, as the
 word is now used, it conveys the idea of a personal narrative of remote
 date, which, although not necessarily untrue, is certified only by the
-internal evidence of the tradition itself. [142](sof37.htm#xref_142)
+internal evidence of the tradition itself. [142](sof37.htm#xref_142.md)
 
 Creuzer, in his "Symbolik," says that myths and symbols were derived, on
 the one hand, from the helpless condition and the poor and scanty
@@ -136,7 +136,7 @@ represented as the only faithful depositaries of that purer theology and
 physics which had been originally communicated, though under the
 unavoidable inconvenience of a symbolical expression, by an enlightened
 priesthood, coming from abroad, to the then rude barbarians of the
-country."  [143](sof37.htm#xref_143)
+country."  [143](sof37.htm#xref_143.md)
 
 In this long but interesting extract we find not only a philosophical
 account of the origin and design of the ancient myths, but a fair
@@ -179,19 +179,19 @@ when it becomes a *philosophical myth*.
 predominate over the fictitious and invented materials of the myth, and
 the narrative may be, in the main, made up of facts, with a slight
 coloring of imagination, when it forms a *mythical
-history*. [144](sof37.htm#xref_144)
+history*. [144](sof37.htm#xref_144.md)
 
 These form the three divisions of the legend or myth (for I am not
 disposed, on the present occasion, like some of the German mythological
 writers, to make a distinction between the two
-words [145](sof37.htm#xref_145)); and to one of these three divisions we
+words [145](sof37.htm#xref_145).md); and to one of these three divisions we
 must appropriate every legend which belongs to the mythical symbolism of
 Freemasonry.
 
 These masonic myths partake, in their general character, of the nature
 of the myths which constituted the foundation of the ancient religions,
 as they have just been described in the language of Mr. Grote. Of these
-latter myths, Müller [146](sof37.htm#xref_146) says that "their source
+latter myths, Müller [146](sof37.htm#xref_146.md) says that "their source
 is to be found, for the most part, in oral tradition," and that the real
 and the ideal--that is to say, the facts of history and the inventions
 of imagination--concurred, by their union and reciprocal fusion, in
@@ -205,12 +205,12 @@ of history and the inventions of allegory.
 
 Dr. Oliver remarks that "the first series of historical facts, after the
 fall of man, must necessarily have been traditional, and transmitted
-from father to son by oral communication."  [147](sof37.htm#xref_147)
+from father to son by oral communication."  [147](sof37.htm#xref_147.md)
 The same system, adopted in all the Mysteries, has been continued in the
 masonic institution; and all the esoteric instructions contained in the
 legends of Freemasonry are forbidden to be written, and can be
 communicated only in the oral intercourse of Freemasons with each
-other. [148](sof37.htm#xref_148)
+other. [148](sof37.htm#xref_148.md)
 
 De Wette, in his Criticism on the Mosaic History, lays down the test by
 which a myth is to be distinguished from a strictly historical
@@ -249,7 +249,7 @@ fiction, but the historical always predominating.
 
 Thus there is a legend, contained in some of our old records, which
 states that Euclid was a distinguished Mason, and that he introduced
-Masonry among the Egyptians. [149](sof37.htm#xref_149) Now, it is not at
+Masonry among the Egyptians. [149](sof37.htm#xref_149.md) Now, it is not at
 all necessary to the orthodoxy of a Mason's creed that he should
 literally believe that Euclid, the great geometrician, was really a
 Freemason, and that the ancient Egyptians were indebted to him for the
@@ -277,7 +277,7 @@ Thus Kenrick tells us, that "when we read of foreigners \[in Egypt\]
 being obliged to submit to painful and tedious ceremonies of initiation,
 it was not that they might learn the secret meaning of the rites of
 Osiris or Isis, but that they might partake of the knowledge of
-astronomy, physic, geometry, and theology."  [150](sof37.htm#xref_150)
+astronomy, physic, geometry, and theology."  [150](sof37.htm#xref_150.md)
 
 Another illustration will be found in the myth or legend of the *Winding
 Stairs*, by which the Fellow Crafts are said to have ascended to the
@@ -287,7 +287,7 @@ As a myth, it finds its origin in the fact that there was a place in the
 temple called the "Middle Chamber," and that there were "winding stairs"
 by which it was reached; for we read, in the First Book of Kings, that
 "they went up with winding stairs into the middle chamber."
- [151](sof37.htm#xref_151) But we have no historical evidence that the
+ [151](sof37.htm#xref_151.md) But we have no historical evidence that the
 stairs were of the construction, or that the chamber was used for the
 purpose, indicated in the mythical narrative, as it is set forth in the
 ritual of the second degree. The whole legend is, in fact, an historical
@@ -327,7 +327,7 @@ with the living thoughts and divine principles which constitute the
 great system of Speculative Masonry, and when the spirit of the
 institution, brooding over the vast deep of his mental chaos, shall,
 from intellectual darkness, bring forth intellectual
-light. [152](sof37.htm#xref_152)
+light. [152](sof37.htm#xref_152.md)
 
 In the legends of the Master's degree and of the Royal Arch there is a
 commingling of the historical myth and the mythical history, so that
@@ -359,7 +359,7 @@ inventions. In these extremes there is equal error. "The myth," says
 Hermann, "is the representation of an idea." It is for that idea that
 the student must search in the myths of Masonry. Beneath every one of
 them there is something richer and more spiritual than the mere
-narrative. [153](sof37.htm#xref_153) This spiritual essence he must
+narrative. [153](sof37.htm#xref_153.md) This spiritual essence he must
 learn to extract from the ore in which, like a precious metal, it lies
 imbedded. It is this that constitutes the true value of Freemasonry.
 Without its symbols, and its myths or legends, and the ideas and
@@ -385,6 +385,6 @@ design of Speculative Masonry.
 
 ------------------------------------------------------------------------
 
-[Next: XXVI. The Legend of the Winding Stairs](sof28)
+[Next: XXVI. The Legend of the Winding Stairs](sof28.md)
 
 </div>

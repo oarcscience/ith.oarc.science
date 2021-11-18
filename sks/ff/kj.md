@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../kj/kj) 
-[Previous](twt)  [Next](kr2) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../kj/kj.md) 
+[Previous](twt)  [Next](kr2.md) 
 
 ------------------------------------------------------------------------
 
@@ -3307,4 +3307,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The life and death of King Richard the Second](kr2) 
+[Next: The life and death of King Richard the Second](kr2.md) 

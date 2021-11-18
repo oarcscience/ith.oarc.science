@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby15)  [Next](piby17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby15)  [Next](piby17.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ see it."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 12. The Guiding Light](piby17)
+[Next: Chapter 12. The Guiding Light](piby17.md)

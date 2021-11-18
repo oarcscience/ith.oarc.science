@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate07)  [Next](gate09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate07)  [Next](gate09.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ great god through this country.
 
 ------------------------------------------------------------------------
 
-[Next: The Seventh Hour](gate09)
+[Next: The Seventh Hour](gate09.md)

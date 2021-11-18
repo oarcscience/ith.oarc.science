@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo17)  [Next](sdo19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo17)  [Next](sdo19.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ provided.
 
 ------------------------------------------------------------------------
 
-[Next: Scouting For The Tree](sdo19)
+[Next: Scouting For The Tree](sdo19.md)

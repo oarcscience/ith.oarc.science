@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar040) [Next](gbar042)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar040) [Next](gbar042.md)
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ despising man, the other by wishing to make himself equal with God.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar042)
+[Next](gbar042.md)

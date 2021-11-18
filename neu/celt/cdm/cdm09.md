@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm08) 
-[Next](cdm10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm08.md) 
+[Next](cdm10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -102,7 +102,7 @@ time, he heard a noise. *Firum Farum*, little stones going under, *Firum
 Farum* great gravel going over, and he saw a great giant with seven
 heads and humps and seven necks coming roaring down the park. He took
 three of the beasts by the tail and cast them on the very
-shower-top <span id="fr_65"></span>[1](#fn_65) of his shoulder and off
+shower-top <span id="fr_65"></span>[1](#fn_65.md) of his shoulder and off
 he strode.
 
 The herd thought it was better to suffer death than lose the beasts; so
@@ -121,7 +121,7 @@ wolf. And he gave the giant a little light easy lift and tossed him up
 and knocked him down and stood upon him.
 
 <span id="an_p_43">43</span>. "Death is upon you, giant," said the herd.
-"What's your *éric?*" <span id="fr_66"></span>[2](#fn_66)
+"What's your *éric?*" <span id="fr_66"></span>[2](#fn_66.md)
 
 "Oh, that's much," said the giant. "I have a copper castle and a copper
 whistle, and a ruddy russet-brown
@@ -392,14 +392,14 @@ fine side is handsome as man can be.
 <span id="an_p_73">73</span>. “I have a golden basin. Whoso washes in it
 becomes the most beautiful man on earth.
 
-“I have a cloth <span id="fr_67"></span>[1](#fn_67) on which one can
+“I have a cloth <span id="fr_67"></span>[1](#fn_67.md) on which one can
 have any kind of meat.
 
-“I have a cup <span id="fr_68"></span>[1](#fn_67) in which one can have
+“I have a cup <span id="fr_68"></span>[1](#fn_67.md) in which one can have
 any kind of drink.
 
 <span id="an_p_74">74</span>. “I have a glittering glass <span
-id="fr_69"></span>[2](#fn_68) dress.
+id="fr_69"></span>[2](#fn_68.md) dress.
 
 “I have a pretty blue pacing palfrey that can fly through the sky.
 
@@ -430,19 +430,19 @@ park gate, let out the brown cow, and sauntered home as usual.
 
 ### Footnotes
 
-<span id="fn_65"></span>[48:1](cdm09.htm#fr_65) Fras-mhullaich, G. H.
+<span id="fn_65"></span>[48:1](cdm09.htm#fr_65.md) Fras-mhullaich, G. H.
 
-<span id="fn_66"></span>[48:2](cdm09.htm#fr_66) *Éric* means the worth
+<span id="fn_66"></span>[48:2](cdm09.htm#fr_66.md) *Éric* means the worth
 of a man; his ransom or the fee paid for man-slaying, the same as the
 blood-fine of Icelandic law.
 
-<span id="fn_67"></span>[56:1](cdm09.htm#fr_68) I. F. C. has scored
+<span id="fn_67"></span>[56:1](cdm09.htm#fr_68.md) I. F. C. has scored
 these two out.
 
-<span id="fn_68"></span>[56:2](cdm09.htm#fr_69) "Glass" is the
+<span id="fn_68"></span>[56:2](cdm09.htm#fr_69.md) "Glass" is the
 translation, but anything that shines may be the meaning, say, polished
 armour.
 
 ------------------------------------------------------------------------
 
-[Next: The Mermaid](cdm10)
+[Next: The Mermaid](cdm10.md)

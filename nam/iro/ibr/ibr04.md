@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr03)  [Next](ibr05) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr03)  [Next](ibr05.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ welfare of his red brethren. Against his subtle arts and overmastering
 energy the wisest of their statesmen, worthy successors of the great
 founders of their constitution, strove in vain, on each occasion, to
 maintain that neutrality which was evidently the true policy of their
-people. <span id="fr_13"></span>[1](#fn_13)
+people. <span id="fr_13"></span>[1](#fn_13.md)
 
 Sakayengwaraton is not an elected chief, nor does he bear one of the
 hereditary titles of the Great Council, in which he holds so
@@ -107,7 +107,7 @@ New York, as early as the
 
 <span id="page_42">p. 42</span>
 
-year 1714. <span id="fr_14"></span>[1](#fn_14) By the middle of the
+year 1714. <span id="fr_14"></span>[1](#fn_14.md) By the middle of the
 century there were many members of the tribe who could write in the
 well-devised orthography of the missionaries--an orthography which
 anticipated in most points the well known "Pickering alphabet," now
@@ -125,8 +125,8 @@ accomplished the work. In Stone's Life of Sir William Johnson, mention
 is made of a Mohawk chief, "David of Schoharie," who, in May, 1757, led
 a troop of Indians from his town to join the forces under Sir William,
 in his expedition to Crown Point, to repel the French invaders. <span
-id="fr_15"></span>[2](#fn_15) Brant appears to have been in this
-expedition. <span id="fr_16"></span>[3](#fn_16) It is highly probable
+id="fr_15"></span>[2](#fn_15.md) Brant appears to have been in this
+expedition. <span id="fr_16"></span>[3](#fn_16.md) It is highly probable
 that in Chief David of Schoharie we have the compiler, or rather the
 scribe, of this "Iroquois Veda."
 
@@ -282,7 +282,7 @@ the language is modern, the speeches themselves, as I am assured by
 Chief John Buck, are precisely those which are still in use among his
 people in Canada, and which are believed to have been preserved in
 memory from the days of their forefathers. <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 The translation of La Fort's book was procured from him and another
 educated member of his tribe; but there was not time to obtain all the
@@ -292,21 +292,21 @@ elucidations needed to ensure precise verbal accuracy throughout.
 
 ### Footnotes
 
-<span id="fn_13"></span>[40:1](ibr04.htm#fr_13) For the confirmation of
+<span id="fn_13"></span>[40:1](ibr04.htm#fr_13.md) For the confirmation of
 these statements see the excellent biographies of Sir William Johnson
 and Joseph Brant, by Wm. L. Stone, *passim*.
 
-<span id="fn_14"></span>[42:1](ibr04.htm#fr_14) This date is given in
+<span id="fn_14"></span>[42:1](ibr04.htm#fr_14.md) This date is given in
 the preface to the Mohawk Prayer-book of 1787. This first version of the
 liturgy was printed under the direction of the Rev. Wm. Andrews, the
 missionary of the "New England Society."
 
-<span id="fn_15"></span>[42:2](ibr04.htm#fr_15) *Life of Sir William
+<span id="fn_15"></span>[42:2](ibr04.htm#fr_15.md) *Life of Sir William
 Johnson*, Vol. II, p. 29.
 
-<span id="fn_16"></span>[42:3](ibr04.htm#fr_16) *Ibid.*, p. 174.
+<span id="fn_16"></span>[42:3](ibr04.htm#fr_16.md) *Ibid.*, p. 174.
 
-<span id="fn_17"></span>[47:1](ibr04.htm#fr_17) The disappearance of a
+<span id="fn_17"></span>[47:1](ibr04.htm#fr_17.md) The disappearance of a
 vocal element from a language is a phenomenon with which etymologists
 are familiar. The loss of the Greek digamma is a well-known instance.
 The harsh guttural, resembling the German *ch*, which formerly existed
@@ -322,4 +322,4 @@ words in which they formerly existed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Condoling Council.--Clans and Classes](ibr05)
+[Next: Chapter IV: The Condoling Council.--Clans and Classes](ibr05.md)

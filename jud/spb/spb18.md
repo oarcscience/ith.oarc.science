@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb17)  [Next](spb19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb17)  [Next](spb19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -233,7 +233,7 @@ righteousness.
 
 *After the Lesson from the Prophets the following is said:—*
 
-[Blessed](errata.htm#1) art thou, O Lord our God, King of the universe,
+[Blessed](errata.htm#1.md) art thou, O Lord our God, King of the universe,
 Rock of all worlds, righteous through all generations, O faithful God,
 who sayest and doest, who speakest and fulfillest, all whose words are
 truth and righteousness. Faithful art thou, O Lord our God, and faithful
@@ -421,7 +421,7 @@ gladness and joy, for salvation and consolation; and let us say, Amen.
 <span id="page_221">p. 221</span>
 
 *In many Congregations the following is said only on the Sabbaths
-preceding [Pentecost](errata.htm#2) and the Fast of the Ninth of Ab:—*
+preceding [Pentecost](errata.htm#2.md) and the Fast of the Ninth of Ab:—*
 
 May the Father of mercies, who dwelleth on high in his mighty
 compassion, remember those loving, upright and blameless ones, the holy
@@ -606,6 +606,6 @@ which are uttered in the world; and say ye, Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Additional Service for Sabbaths](spb19)
+[Next: Additional Service for Sabbaths](spb19.md)
 
 </div>

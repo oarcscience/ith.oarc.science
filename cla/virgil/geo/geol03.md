@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](geo03) 
-[Previous](geol02)  [Next](geol04) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](geo03.md) 
+[Previous](geol02)  [Next](geol04.md) 
 
 ------------------------------------------------------------------------
 
@@ -577,4 +577,4 @@ tempore contactos artus sacer ignis edebat.
 
 ------------------------------------------------------------------------
 
-[Next: Fourth Book](geol04)
+[Next: Fourth Book](geol04.md)

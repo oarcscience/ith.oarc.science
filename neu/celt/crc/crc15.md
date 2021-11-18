@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc14)  [Next](crc16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc14)  [Next](crc16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -59,14 +59,14 @@ a fortnight ravaging the province, and when she had fought a battle
 against Findmor, wife of Celtchar Mac Uthidir. And after taking Dun
 Sobairche upon her, she brought fifty women into the province of
 Dalriada. Wherever Medb placed a horse-switch in Cuib its name is Bile
-Medba; <span id="fr_62"></span>[1](#fn_61) every ford and every hill by
+Medba; <span id="fr_62"></span>[1](#fn_61.md) every ford and every hill by
 which she slept, its name is Ath Medba and Dindgna Medba.
 
 They all meet then at Focherd, both Ailill and Medb and the troop that
 drove the Bull. But their herd took their Bull from them, and they drove
 him across into a narrow gap with their spear-shafts on their shields
-(?). <span id="fr_63"></span>[2](#fn_62) So that the feet of the cattle
-drove him <span id="fr_64"></span>[3](#fn_63) through the ground.
+(?). <span id="fr_63"></span>[2](#fn_62.md) So that the feet of the cattle
+drove him <span id="fr_64"></span>[3](#fn_63.md) through the ground.
 Forgemen was the herd's name. He is there afterwards, so that that is
 the name of the hill, Forgemen. There 'was no annoyance to them that
 night, provided a man were got to ward off Cuchulainn on the ford.
@@ -94,7 +94,7 @@ place.'
 
 They go then to Cronech. This is what fell by him in single combat at
 this place: two Roths, two Luans, two female horse-messengers, <span
-id="fr_65"></span>[1](crc16.htm#fn_64) ten fools, ten cup-bearers, ten
+id="fr_65"></span>[1](crc16.htm#fn_64.md) ten fools, ten cup-bearers, ten
 Ferguses, six Fedelms, six Fiachras. These then were all killed by him
 in single combat. When they pitched their tents in Cronech, they
 considered what they should do against Cuchulainn.
@@ -112,17 +112,17 @@ by you.'
 
 ### Footnotes
 
-<span id="fn_61"></span>[61:1](crc15.htm#fr_62) *i.e.* Tree of Medb.
+<span id="fn_61"></span>[61:1](crc15.htm#fr_62.md) *i.e.* Tree of Medb.
 
-<span id="fn_62"></span>[61:2](crc15.htm#fr_63) A very doubtful
+<span id="fn_62"></span>[61:2](crc15.htm#fr_63.md) A very doubtful
 rendering.
 
-<span id="fn_63"></span>[61:3](crc15.htm#fr_64) *i.e.* Forgemen.
+<span id="fn_63"></span>[61:3](crc15.htm#fr_64.md) *i.e.* Forgemen.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Meeting of Cuchulainn and Findabair](crc16)
+[Next: The Meeting of Cuchulainn and Findabair](crc16.md)
 
 </div>

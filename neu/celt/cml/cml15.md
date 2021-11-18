@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml14)  [Next](cml16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml14)  [Next](cml16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ of Milé, even after the conquest of Ireland; for his subjects destroyed
 their corn and milk, so that they must needs make a treaty of peace with
 the Dagda. Not until then, and thanks to his. good-will, were they able
 to harvest corn and drink the milk of their cows." <span
-id="fr_151"></span>[1](#fn_151) The basis of this lost treaty seems to
+id="fr_151"></span>[1](#fn_151.md) The basis of this lost treaty seems to
 have been that the Tuatha Dé Danann, though driven from the soil, should
 receive homage and offerings from their successors. We are told in the
 verse *dinnsenchus* of Mag Slecht, that--
@@ -34,7 +34,7 @@ verse *dinnsenchus* of Mag Slecht, that--
 Of Eremon, the noble man of grace,  
 There was worshipping of stones  
 Until the coming of good Patrick of Macha". <span
-id="fr_152"></span>[2](#fn_152)
+id="fr_152"></span>[2](#fn_152.md)
 
 <span id="page_133">p. 133</span>
 
@@ -50,7 +50,7 @@ Where falls not hail, or rain, or any snow,
 Nor ever wind blows loudly; but it lies  
 Deep-meadow’d, happy, fair with orchard-lawns  
 And bowery hollows crown’d with summer sea" <span
-id="fr_153"></span>[1](#fn_153)
+id="fr_153"></span>[1](#fn_153.md)
 
 <span class="contnote">\[paragraph continues\]</span> --a land of
 perpetual pleasure and feasting, described variously as the "Land of
@@ -59,7 +59,7 @@ Promise" (*Tir Tairngiré)*, the "Plain of Happiness" (*Mag Mell*), the
 (*Tir-nan-ōg*), and "Breasal's Island" (*Hy-Breasail*). Celtic mythology
 is full of the beauties and wonders of this mystic country, and the
 tradition of it has never died out. Hy-Breasail has been set down on old
-maps as a reality again and again; <span id="fr_154"></span>[2](#fn_154)
+maps as a reality again and again; <span id="fr_154"></span>[2](#fn_154.md)
 some pioneers in the Spanish seas thought they had discovered it, and
 called the land they found "Brazil"; and it is still said, by lovers of
 old lore, that a patient watcher, after long gazing westward from the
@@ -78,7 +78,7 @@ Ireland. An old Irish king, Bran, the son of Febal, met him, according
 to a seventh-century poem, as Bran journeyed to, and Manannán from, the
 earthly paradise. Bran was in his boat, and Manannán was driving a
 chariot over the tops of the waves, and he sang: <span
-id="fr_155"></span>[1](#fn_155)
+id="fr_155"></span>[1](#fn_155.md)
 
 "Bran deems it a marvellous beauty  
 In his coracle across the clear sea:  
@@ -92,7 +92,7 @@ To me from the chariot of two wheels.
 
 "Bran sees  
 The number of waves beating across the clear sea:  
-I myself see in Mag Mon <span id="fr_156"></span>[2](#fn_156)  
+I myself see in Mag Mon <span id="fr_156"></span>[2](#fn_156.md)  
 Red-headed flowers without fault.
 
 "Sea-horses glisten in summer  
@@ -111,7 +111,7 @@ They are calves, they are coloured lambs
 With friendliness, without mutual slaughter.
 
 "Though but one chariot-rider is seen  
-In Mag Mell <span id="fr_157"></span>[1](#fn_157) of many flowers,  
+In Mag Mell <span id="fr_157"></span>[1](#fn_157.md) of many flowers,  
 There are many steeds on its surface,  
 Though them thou seest not.
 
@@ -147,17 +147,17 @@ always in fruit, and one pig alive and another ready roasted, and the
 supply of ale never failed. One may still visit in Ireland the *sídhe*
 of many of the gods, for the spots are known, and the traditions have
 not died out. To Lêr was given *Sídh Fionnachaidh* <span
-id="fr_158"></span>[1](#fn_158), now known as the "Hill of the White
+id="fr_158"></span>[1](#fn_158.md), now known as the "Hill of the White
 Field", on the top of Slieve Fuad, near Newtown Hamilton, in County
 Armagh. Bodb Derg received a *sídh* called by his own name, *Sídh
-Bodb* <span id="fr_159"></span>[2](#fn_159), just to the south of
+Bodb* <span id="fr_159"></span>[2](#fn_159.md), just to the south of
 Portumna, in Galway. Mider was given the *sídh* of *Bri Leith*, now
 called Slieve Golry, near Ardagh, in County Longford. Ogma's *sídh* was
 called *Airceltrai*; to Lugh was assigned *Rodrubân*; Manannán's son,
 Ilbhreach, received *Sídh Eas Aedha Ruaidh* <span
-id="fr_160"></span>[3](#fn_160), now the Mound of Mullachshee, near
+id="fr_160"></span>[3](#fn_160.md), now the Mound of Mullachshee, near
 Ballyshannon, in Donegal; Fionnbharr <span
-id="fr_161"></span>[4](#fn_161) had *Sídh Meadha*, now "Knockma", about
+id="fr_161"></span>[4](#fn_161.md) had *Sídh Meadha*, now "Knockma", about
 five miles west of Tuam, where, as present king of the fairies, he is
 said to live to-day; while the abodes of other gods of lesser fame are
 also recorded. For himself the Dagda retained two, both near the River
@@ -171,7 +171,7 @@ one.
 
 [![ENTRANCE TO THE GREAT CAIRN OF NEW GRANGE, ON THE BOYNE, NEAR
 DROGHEDA.--R. Welch](tn/13600.jpg)  
-Click to enlarge](img/13600.jpg)  
+Click to enlarge](img/13600.jpg.md)  
 ENTRANCE TO THE GREAT CAIRN OF NEW GRANGE, ON THE BOYNE, NEAR
 DROGHEDA.--R. Welch  
 
@@ -182,12 +182,12 @@ DROGHEDA.--R. Welch
 It was from this time that the Gaelic gods received the name by which
 the peasantry know them to-day--*Aes Sídhe*, the "People of the Hills",
 or, more shortly, the *Sídhe*. Every god, or fairy, is a
-*Fer-Sídhe* <span id="fr_162"></span>[1](#fn_162), a "Man of the Hill";
+*Fer-Sídhe* <span id="fr_162"></span>[1](#fn_162.md), a "Man of the Hill";
 and every goddess a *Bean-Sídhe*, a "Woman of the Hill", the banshee of
-popular legend. <span id="fr_163"></span>[2](#fn_163)
+popular legend. <span id="fr_163"></span>[2](#fn_163.md)
 
 The most famous of such fairy hills are about five miles from
-Drogheda. <span id="fr_164"></span>[3](#fn_164) They are still connected
+Drogheda. <span id="fr_164"></span>[3](#fn_164.md) They are still connected
 with the names of the Tuatha Dé Danann, though they are now not called
 their dwelling-places, but their tombs. On the northern bank of the
 Boyne stand seventeen barrows, three of which--Knowth, Dowth, and New
@@ -219,7 +219,7 @@ words of the old Irish poet Mac Nia, in the Book of Ballymote:
 It is manifest to you that it is a king's mansion,  
 Which was built by the firm Dagda,  
 It was a wonder, a court, an admirable hill." <span
-id="fr_165"></span>[1](#fn_165)
+id="fr_165"></span>[1](#fn_165.md)
 
 It is not, however, with New Grange, or even with Knowth or Dowth, that
 the Dagda's name is now associated. It is a smaller barrow, nearer to
@@ -227,7 +227,7 @@ the Boyne, which is known as the "Tomb of the Dagda". It has never been
 opened, and Dr. James Fergusson, the author of *Rude Stone Monuments*,
 who holds the Tuatha Dé Danann to have been a real people, thinks that
 "the bones and armour of the great Dagda may still be found in his
-honoured grave". <span id="fr_166"></span>[2](#fn_166) Other Celtic
+honoured grave". <span id="fr_166"></span>[2](#fn_166.md) Other Celtic
 scholars might not be so sanguine, though verses as old as the eleventh
 century assert that the Tuatha Dé Danann used the brughs for burial. It
 was about this period that the mythology of Ireland was being rewoven
@@ -258,7 +258,7 @@ eternity are composed; therefore there was no limit to his tenure of the
 but the Dagda is said to have been satisfied with it. He abandoned the
 best of his two palaces to his son, who took peaceable possession of it.
 Thus it got a second name, that of the *Sídh* or *Brugh* of the "Son of
-the Young". <span id="fr_167"></span>[1](#fn_167)
+the Young". <span id="fr_167"></span>[1](#fn_167.md)
 
 The Dagda does not, after this, play much active
 
@@ -267,7 +267,7 @@ The Dagda does not, after this, play much active
 part in the history of the people of the goddess Danu. We next hear of a
 council of gods to elect a fresh ruler. There were five candidates for
 the vacant throne--Bodb the Red, Mider, Ilbhreach <span
-id="fr_168"></span>[1](#fn_168) son of Manannán, Lêr, and Angus himself,
+id="fr_168"></span>[1](#fn_168.md) son of Manannán, Lêr, and Angus himself,
 though the last-named, we are told, had little real desire to rule, as
 he preferred a life of freedom to the dignities of kingship. The Tuatha
 Dé Danann went into consultation, and the result of their deliberation
@@ -294,7 +294,7 @@ unsubstantial lady again appeared, and played and
 <span id="img_14000"></span>
 
 [![THE DREAM-MAIDEN VISITS ANGUS](tn/14000.jpg)  
-Click to enlarge](img/14000.jpg)  
+Click to enlarge](img/14000.jpg.md)  
 THE DREAM-MAIDEN VISITS ANGUS  
 
  
@@ -333,7 +333,7 @@ if he too would become a swan. He agreed, and with a word she changed
 him into swan-shape, and thus they flew side by side to Angus's *sídhe*,
 where they retook the human form, and, no doubt, lived happily as long
 as could be expected of such changeable immortals as pagan
-deities. <span id="fr_169"></span>[1](#fn_169)
+deities. <span id="fr_169"></span>[1](#fn_169.md)
 
 Meanwhile, the people of the goddess Danu were justly incensed against
 both Lêr and Mider. Bodb the Red made a yearly war upon Mider in his
@@ -345,9 +345,9 @@ without success.
 
 At last Lêr's wife died, to the sea-god's great sorrow. When Bodb the
 Red heard the news, he sent a messenger to Lêr, offering him one of his
-own foster-daughters, Aebh <span id="fr_170"></span>[2](#fn_170),
-Aeife <span id="fr_171"></span>[3](#fn_171), and Ailbhe <span
-id="fr_172"></span>[4](#fn_172), the children of Ailioll of Arran. Lêr,
+own foster-daughters, Aebh <span id="fr_170"></span>[2](#fn_170.md),
+Aeife <span id="fr_171"></span>[3](#fn_171.md), and Ailbhe <span
+id="fr_172"></span>[4](#fn_172.md), the children of Ailioll of Arran. Lêr,
 touched by this, came to visit Bodb the Red at his *sídhe*, and chose
 Aebh for his wife. "She is the eldest, so she must be the noblest of
 them," he said. They were married, and a great feast made, and Lêr took
@@ -390,10 +390,10 @@ question; but I will tell you.
 
 <span class="contnote">\[paragraph continues\]</span> You shall be three
 hundred years here, on Lake Darvra; and three hundred years upon the Sea
-of Moyle <span id="fr_173"></span>[1](#fn_173), which is between Erin
+of Moyle <span id="fr_173"></span>[1](#fn_173.md), which is between Erin
 and Alba; and three hundred years more at Irros Domnann <span
-id="fr_174"></span>[2](#fn_174) and the Isle of Glora in Erris <span
-id="fr_175"></span>[3](#fn_175). Yet you shall have two consolations in
+id="fr_174"></span>[2](#fn_174.md) and the Isle of Glora in Erris <span
+id="fr_175"></span>[3](#fn_175.md). Yet you shall have two consolations in
 your troubles; you shall keep your human minds, and yet suffer no grief
 at knowing that you have been changed into swans, and you shall be able
 to sing the softest and sweetest songs that were ever heard in the
@@ -423,7 +423,7 @@ before him, and, when she came, he put an oath on her to tell him truly
 
 [![LÊR AND THE SWANS&lt;br&gt; From the Drawing by J. H. Bacon,
 A.R.A.](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 LÊR AND THE SWANS  
 From the Drawing by J. H. Bacon, A.R.A.  
 
@@ -464,22 +464,22 @@ of
 <span class="contnote">\[paragraph continues\]</span> Lêr found
 themselves free to return to their old home. Sídh Fionnechaidh was empty
 and deserted, for Lêr had been killed by Caoilté, the cousin of Finn mac
-Coul. <span id="fr_176"></span>[1](#fn_176)
+Coul. <span id="fr_176"></span>[1](#fn_176.md)
 
 So, after long, vain searching for their lost relatives, they gave up
 hope, and returned to the Isle of Glora. They had a friend there, the
-Lonely Crane of Inniskea <span id="fr_177"></span>[2](#fn_177), which
+Lonely Crane of Inniskea <span id="fr_177"></span>[2](#fn_177.md), which
 has lived upon that island ever since the beginning of the world, and
 will be still sitting there on the day of judgment. They saw no one else
 until, one day, a man came to the island. He told them that he was Saint
-Caemhoc <span id="fr_178"></span>[3](#fn_178), and that he had heard
+Caemhoc <span id="fr_178"></span>[3](#fn_178.md), and that he had heard
 their story. He brought them to his church, and preached the new faith
 to them, and they believed on Christ, and consented to be baptised. This
 broke the pagan spell, and, as soon as the holy water was sprinkled over
 them, they returned to human shape. But they were very old and
 bowed--three aged men and an ancient woman. They did not live long after
 this, and Saint Caemhoc, who had baptised them, buried them all together
-in one grave. <span id="fr_179"></span>[4](#fn_179)
+in one grave. <span id="fr_179"></span>[4](#fn_179.md)
 
 But, in telling this story, we have leaped nine hundred years--a great
 space in the history even of gods. We must retrace our steps, if not
@@ -491,7 +491,7 @@ Ireland, at any rate to the beginning of the Christian era.
 At this time Eochaid Airem was high king of Ireland, and reigned at
 Tara; while, under him, as vassal monarchs, Conchobar mac Nessa ruled
 over the Red Branch Champions of Ulster; Curoi son of Daire <span
-id="fr_180"></span>[1](#fn_180), was king of Munster; Mesgegra was king
+id="fr_180"></span>[1](#fn_180.md), was king of Munster; Mesgegra was king
 of Leinster; and Ailell, with his famous queen, Medb, governed
 Connaught.
 
@@ -628,7 +628,7 @@ With the hue of the fox-glove on every cheek.
 "Crimson are the flowers of every mead,  
 Gracefully speckled as the blackbird's egg;  
 Though beautiful to see be the plains of Inisfail <span
-id="fr_181"></span>[1](#fn_181)  
+id="fr_181"></span>[1](#fn_181.md)  
 They are but commons compared to our great plains. <span
 id="page_151">p. 151</span>
 
@@ -651,7 +651,7 @@ That prevents them from seeing us.
 It is golden hair that will be on your head;  
 Fresh pork, beer, new milk, and ale,  
 You there with me shall have, O fair lady!" <span
-id="fr_182"></span>[1](#fn_182)
+id="fr_182"></span>[1](#fn_182.md)
 
 Then Mider greeted Eochaid, and told him that he had come to take away
 Etain, according to the king's wager. And, while the king and his
@@ -672,7 +672,7 @@ Mider's
 dig deep into the abode of the gods of which the "fairy hill" was the
 portal. Mider, as terrified as was the Greek god Hades when it seemed
 likely that the earth would be rent open, <span
-id="fr_183"></span>[1](#fn_183) and his domains laid bare to the sight,
+id="fr_183"></span>[1](#fn_183.md) and his domains laid bare to the sight,
 sent out fifty fairy maidens to Eochaid, every one of them having the
 appearance of Etain. But the king would only be content with the real
 Etain, so that Mider, to save his *sídh*, was at last obliged to give
@@ -685,116 +685,116 @@ no son, but only a daughter called Etain, like her mother, and this
 second Etain had a daughter called Messbuachallo, who had a son called
 Conairé, surnamed "the Great". Mider and the gods wove the web of fate
 round Conairé, so that he and all his men died violent deaths. <span
-id="fr_184"></span>[2](#fn_184)
+id="fr_184"></span>[2](#fn_184.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_151"></span>[132:1](cml15.htm#fr_151) De Jubainville:
+<span id="fn_151"></span>[132:1](cml15.htm#fr_151.md) De Jubainville:
 *Cycle Mythologique Irlandais*, p. 269.
 
-<span id="fn_152"></span>[132:2](cml15.htm#fr_152) See [chap.
-IV](cml08.htm#ch-04)--"The Religion of the Ancient Britons and
+<span id="fn_152"></span>[132:2](cml15.htm#fr_152.md) See [chap.
+IV](cml08.htm#ch-04.md)--"The Religion of the Ancient Britons and
 Druidism".
 
-<span id="fn_153"></span>[133:1](cml15.htm#fr_153) Tennyson: *Idylls of
+<span id="fn_153"></span>[133:1](cml15.htm#fr_153.md) Tennyson: *Idylls of
 the King: The Passing of Arthur*.
 
-<span id="fn_154"></span>[133:2](cml15.htm#fr_154) See Wood-Martin:
+<span id="fn_154"></span>[133:2](cml15.htm#fr_154.md) See Wood-Martin:
 *Traces of the Elder Faiths of Ireland*, Vol. I, pp. 213-215.
 
-<span id="fn_155"></span>[134:1](cml15.htm#fr_155) The following verses
+<span id="fn_155"></span>[134:1](cml15.htm#fr_155.md) The following verses
 are taken from Dr. Kuno Meyer's translation of the romance entitled *The
 Voyage of Bran, Son of Febal*, published in Mr. Nutt's Grimm Library,
 Vol. IV.
 
-<span id="fn_156"></span>[134:2](cml15.htm#fr_156) The Plain of Sports.
+<span id="fn_156"></span>[134:2](cml15.htm#fr_156.md) The Plain of Sports.
 
-<span id="fn_157"></span>[135:1](cml15.htm#fr_157) The Happy Plain.
+<span id="fn_157"></span>[135:1](cml15.htm#fr_157.md) The Happy Plain.
 
-<span id="fn_158"></span>[136:1](cml15.htm#fr_158) Pronounced *Shee
+<span id="fn_158"></span>[136:1](cml15.htm#fr_158.md) Pronounced *Shee
 Finneha*.
 
-<span id="fn_159"></span>[136:2](cml15.htm#fr_159) Pronounced *Shee
+<span id="fn_159"></span>[136:2](cml15.htm#fr_159.md) Pronounced *Shee
 Bove*.
 
-<span id="fn_160"></span>[136:3](cml15.htm#fr_160) Pronounced *Shee
+<span id="fn_160"></span>[136:3](cml15.htm#fr_160.md) Pronounced *Shee
 Assaroe*.
 
-<span id="fn_161"></span>[136:4](cml15.htm#fr_161) Pronounced *Finnvar*.
+<span id="fn_161"></span>[136:4](cml15.htm#fr_161.md) Pronounced *Finnvar*.
 
-<span id="fn_162"></span>[137:1](cml15.htm#fr_162) Pronounced
+<span id="fn_162"></span>[137:1](cml15.htm#fr_162.md) Pronounced
 *Far-shee*.
 
-<span id="fn_163"></span>[137:2](cml15.htm#fr_163) O’Curry: *Lectures on
+<span id="fn_163"></span>[137:2](cml15.htm#fr_163.md) O’Curry: *Lectures on
 the MS. Materials of Ancient Irish History*, Appendix p. 505.
 
-<span id="fn_164"></span>[137:3](cml15.htm#fr_164) See Fergusson: *Rude
+<span id="fn_164"></span>[137:3](cml15.htm#fr_164.md) See Fergusson: *Rude
 Stone Monuments*, pp. 200-213.
 
-<span id="fn_165"></span>[138:1](cml15.htm#fr_165) O’Curry: *MS.
+<span id="fn_165"></span>[138:1](cml15.htm#fr_165.md) O’Curry: *MS.
 Materials*, p. 505.
 
-<span id="fn_166"></span>[138:2](cml15.htm#fr_166) Fergusson: *Rude
+<span id="fn_166"></span>[138:2](cml15.htm#fr_166.md) Fergusson: *Rude
 Stone Monuments*, p. 209.
 
-<span id="fn_167"></span>[139:1](cml15.htm#fr_167) This story is
+<span id="fn_167"></span>[139:1](cml15.htm#fr_167.md) This story is
 contained in the Book of Leinster.
 
-<span id="fn_168"></span>[140:1](cml15.htm#fr_168) Pronounced *Ilbrec*.
+<span id="fn_168"></span>[140:1](cml15.htm#fr_168.md) Pronounced *Ilbrec*.
 
-<span id="fn_169"></span>[142:1](cml15.htm#fr_169) This story, called
+<span id="fn_169"></span>[142:1](cml15.htm#fr_169.md) This story, called
 the *Dream of Angus*, will be found translated into English by Dr.
 Edward Müller in Vol. III. of the *Revue Celtique*, from an
 eighteenth-century MS. in the British Museum.
 
-<span id="fn_170"></span>[142:2](cml15.htm#fr_170) Pronounced *Aive*.
+<span id="fn_170"></span>[142:2](cml15.htm#fr_170.md) Pronounced *Aive*.
 
-<span id="fn_171"></span>[142:3](cml15.htm#fr_171) Pronounced *Aiva*.
+<span id="fn_171"></span>[142:3](cml15.htm#fr_171.md) Pronounced *Aiva*.
 
-<span id="fn_172"></span>[142:4](cml15.htm#fr_172) Pronounced *Alva*.
+<span id="fn_172"></span>[142:4](cml15.htm#fr_172.md) Pronounced *Alva*.
 
-<span id="fn_173"></span>[144:1](cml15.htm#fr_173) Now called "North
+<span id="fn_173"></span>[144:1](cml15.htm#fr_173.md) Now called "North
 Channel"
 
-<span id="fn_174"></span>[144:2](cml15.htm#fr_174) The Peninsula of Ems,
+<span id="fn_174"></span>[144:2](cml15.htm#fr_174.md) The Peninsula of Ems,
 in Mayo.
 
-<span id="fn_175"></span>[144:3](cml15.htm#fr_175) A small island off
+<span id="fn_175"></span>[144:3](cml15.htm#fr_175.md) A small island off
 Benmullet.
 
-<span id="fn_176"></span>[146:1](cml15.htm#fr_176) See [chap.
-XIV](cml18.htm#ch-14)--"Finn and the Fenians".
+<span id="fn_176"></span>[146:1](cml15.htm#fr_176.md) See [chap.
+XIV](cml18.htm#ch-14.md)--"Finn and the Fenians".
 
-<span id="fn_177"></span>[146:2](cml15.htm#fr_177) An island off the
+<span id="fn_177"></span>[146:2](cml15.htm#fr_177.md) An island off the
 coast of Mayo. Its lonely crane was one of the "Wonders of Ireland", and
 is still an object of folk-belief.
 
-<span id="fn_178"></span>[146:3](cml15.htm#fr_178) Pronounced *Kemoc*.
+<span id="fn_178"></span>[146:3](cml15.htm#fr_178.md) Pronounced *Kemoc*.
 
-<span id="fn_179"></span>[146:4](cml15.htm#fr_179) This famous story of
+<span id="fn_179"></span>[146:4](cml15.htm#fr_179.md) This famous story of
 the *Fate of the Children of Lêr* is not found in any MS. earlier than
 the beginning of the seventeenth century. A translation of it has been
 published by Eugene O’Curry in *Atlantis*, Vol. IV, from which the
 present abridgment is made.
 
-<span id="fn_180"></span>[147:1](cml15.htm#fr_180) Pronounced *Dara*.
+<span id="fn_180"></span>[147:1](cml15.htm#fr_180.md) Pronounced *Dara*.
 
-<span id="fn_181"></span>[150:1](cml15.htm#fr_181) A poetical name for
+<span id="fn_181"></span>[150:1](cml15.htm#fr_181.md) A poetical name for
 Ireland.
 
-<span id="fn_182"></span>[151:1](cml15.htm#fr_182) Translated by
+<span id="fn_182"></span>[151:1](cml15.htm#fr_182.md) Translated by
 O’Curry, *Manners and Customs of the Ancient Irish*, Lecture IX, p. 192,
 193.
 
-<span id="fn_183"></span>[152:1](cml15.htm#fr_183) *Iliad*, Book XX.
+<span id="fn_183"></span>[152:1](cml15.htm#fr_183.md) *Iliad*, Book XX.
 
-<span id="fn_184"></span>[152:2](cml15.htm#fr_184) The story of Mider's
+<span id="fn_184"></span>[152:2](cml15.htm#fr_184.md) The story of Mider's
 revenge and Conairé's death is told in the romance *Bruidhen Dá Derga*,
 "The Destruction of Da Derga 's Fort", translated by Dr. Whitley Stokes,
 Eugene O’Curry and Professor Zimmer from the original text.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Irish Iliad](cml16)
+[Next: Chapter XII. The Irish Iliad](cml16.md)

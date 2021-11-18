@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm16)  [Next](tgm18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm16)  [Next](tgm18.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ chimney.
 <span id="img_07700"></span>
 
 [![](tn/07700.jpg)  
-Click to enlarge](img/07700.jpg)
+Click to enlarge](img/07700.jpg.md)
 
  
 
@@ -93,4 +93,4 @@ word she went home.
 
 ------------------------------------------------------------------------
 
-[Next: 15. The Shepherd Rabbi](tgm18)
+[Next: 15. The Shepherd Rabbi](tgm18.md)

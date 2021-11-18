@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](csetimes)  [Next](discussn) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](csetimes)  [Next](discussn.md) 
 
 ### Debunking Versus Counterintelligence: Reflections of a Pro-Ufologist
 
@@ -271,4 +271,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: UFOs: Some Context for the Discussion](discussn)
+[Next: UFOs: Some Context for the Discussion](discussn.md)

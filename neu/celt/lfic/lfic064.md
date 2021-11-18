@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic063)  [Next](lfic065) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic063)  [Next](lfic065.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,4 +169,4 @@ of Diarmuid and Grainne."
 
 ------------------------------------------------------------------------
 
-[Next: Conan's Delusions in Ceash](lfic065)
+[Next: Conan's Delusions in Ceash](lfic065.md)

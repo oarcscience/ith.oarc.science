@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil10)  [Next](wil12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil10)  [Next](wil12.md) 
 
 ------------------------------------------------------------------------
 
@@ -192,14 +192,14 @@ and Mussulmans are rather details of purification and domestic practice,
 than religious or doctrinal. This fact becomes increasingly evident as
 the higher phases of the two faiths are reached. For the more completely
 either is realised, the more perfectly is it fused in the other.
-Sufi-ism <span id="fr_12"></span>[\*](#fn_12) leads the soul by love,
+Sufi-ism <span id="fr_12"></span>[\*](#fn_12.md) leads the soul by love,
 and the Vedanta leads it by knowledge, love, or emancipated motive, as
 the case may be; but for both alike the theme is of a common goal, where
 all sense of difference shall cease, and the small self be swallowed up
 in the universal. Of each of the two faiths, then, it may be said, that
 it has nothing to lose and everything to gain by the more complete
 development of the other. Mohammed, Krishna, Buddha,
-Sankaracharya, <span id="fr_13"></span>[†](#fn_13) are not so many
+Sankaracharya, <span id="fr_13"></span>[†](#fn_13.md) are not so many
 deplorable obstacles in each other's
 
 <span id="page_143">p. 143</span>
@@ -287,7 +287,7 @@ But can we not trace through all these a single common process of the
 sanctification of labour by the products of labour? "We worship the
 Ganges with the water of the Ganges, but we *must* worship," said a
 Hindu. Similarly does the peasant dream of the sacred oil, and the
-pastoral Toda <span id="fr_14"></span>[\*](#fn_14) worship his cowbells.
+pastoral Toda <span id="fr_14"></span>[\*](#fn_14.md) worship his cowbells.
 Is it not true that if all could be blotted out in a moment from the
 human memory, the Eucharist and the sanctuary-lamp from Christianity,
 flickering light and fragrant flowers from the Mussulman grave, oils and
@@ -321,7 +321,7 @@ historic development, to add something to the great superstructure. The
 whole story of India may be read in a philosophic idea. The
 constitutional ceremonies of the kingdom of Travancore contain clear
 indications of the transition from the matriarchate which was probably
-characteristic of the old Dravidian <span id="fr_15"></span>[\*](#fn_15)
+characteristic of the old Dravidian <span id="fr_15"></span>[\*](#fn_15.md)
 civilisation, to the patriarchate, which was Aryan. In the yearly
 
 <span id="page_147">p. 147</span>
@@ -329,7 +329,7 @@ civilisation, to the patriarchate, which was Aryan. In the yearly
 village-worship of the heroic figures of the "Mahabharata" which is
 common throughout the South, we have what may be the effort of distant
 peoples to include themselves in the "Great India" of Bhishma,
-Judisthira, and the national Epics. <span id="fr_16"></span>[\*](#fn_16)
+Judisthira, and the national Epics. <span id="fr_16"></span>[\*](#fn_16.md)
 The charge of country gunpowder which is fired off in the temples of the
 Southern Dekkan on festival days is sufficient evidence that orthodoxy
 was once aggressive, eager, absorbent of things new, fearful of nothing,
@@ -397,7 +397,7 @@ China, Japan, Syria, and Egypt. It had traffic and commerce by land and
 sea. It sent abroad ambassadors, merchants and missionaries. And within
 its own territories it made roads, planted trees and orchards, dug
 wells, established hospitals, and insisted on the cessation of violence
-even towards dumb creatures. <span id="fr_17"></span>[\*](#fn_17)
+even towards dumb creatures. <span id="fr_17"></span>[\*](#fn_17.md)
 
 Just as the Protestant Reformation, releasing the mental energy of the
 people from thraldom to authoritative commentaries, has been the power
@@ -432,13 +432,13 @@ And yet Asoka's conversion had not been to a new religion, but only into
 the piety of his time. "I, King Piyadasi, beloved of the gods, obtained
 true intelligence ten years after my anointing." Hence the thing that we
 call Buddhism ends its career in India very gradually. He who has first
-visited Ellora <span id="fr_18"></span>[\*](#fn_18) is surprised, on
-entering Elephanta, <span id="fr_19"></span>[†](#fn_19) to find the
+visited Ellora <span id="fr_18"></span>[\*](#fn_18.md) is surprised, on
+entering Elephanta, <span id="fr_19"></span>[†](#fn_19.md) to find the
 Buddha-like figure on his left to be Siva, and the Triumph of Durga on
 his right. At Ellora itself there must be a gap of centuries between the
 cathedral-like caves of the Thin Thal <span
-id="fr_20"></span>[‡](#fn_20) and of Kailash. <span
-id="fr_21"></span>[§](#fn_21) Yet even there we see the solitary figure
+id="fr_20"></span>[‡](#fn_20.md) and of Kailash. <span
+id="fr_21"></span>[§](#fn_21.md) Yet even there we see the solitary figure
 of the teaching or the meditating Buddha give place by degrees to a rich
 pantheon of devas and guardian kings. But the hope and delight that are
 expressed
@@ -447,7 +447,7 @@ expressed
 
 so freely in the architecture and sculpture, and in the cosmopolitan
 intercourse of the Buddhist period die away imperceptibly into the rich
-imagery of the Puranic age, <span id="fr_22"></span>[\*](#fn_22) and the
+imagery of the Puranic age, <span id="fr_22"></span>[\*](#fn_22.md) and the
 manifold social and political problems of Sankaracharya and the age of
 chivalry.
 
@@ -567,7 +567,7 @@ from Ramakrishna, in whom the immense pile reaches the crowning
 self-consciousness. Of the long prehistoric evolution that went to the
 building up of Mahabharata, Great India, the heroic age, we can say
 little, for nothing is left to us, save the legend of Sita and Rama, out
-of the night of time. Yet we [know](errata.htm#1) that this period must
+of the night of time. Yet we [know](errata.htm#1.md) that this period must
 have been long. Three thousand years seems not too much, if enough, to
 allow. Behind this again loom up the millenniums spent on the tableland
 of Central Asia, that headwater of world-civilisation where Aryan man
@@ -578,7 +578,7 @@ domesticated corn and fire,
 <span id="page_155">p. 155</span>
 
 produced the fruit-trees, and divided the week. <span
-id="fr_23"></span>[\*](#fn_23) Of the sublime dreams, the poetry and
+id="fr_23"></span>[\*](#fn_23.md) Of the sublime dreams, the poetry and
 song with which he consoled himself during those ages of herculean
 struggle, the fragments known as the "Rig Veda" still remain. And we
 learn therein how broad was his outlook upon Nature, even as that of the
@@ -649,7 +649,7 @@ of domestic virtue, with a tendency to bring about not only the
 depletion of family life, but the disintegration of morality itself. No
 doubt it was at this time, and to meet this error, that the song of the
 ideal sang itself so clearly, first through the lips of Kalidas, <span
-id="fr_24"></span>[\*](#fn_24) in his "Birth of the War-Lord," and
+id="fr_24"></span>[\*](#fn_24.md) in his "Birth of the War-Lord," and
 again, in the final recension of the Ramayana, as the love of Sita for
 Rama, that glorified wifehood, before which the renunciation and faith
 of the cloister grow pale.
@@ -666,7 +666,7 @@ Rather has the faith progressed by lifting repeatedly in moments of
 crisis the banner of the highest ideal. Already, in the era we are
 considering, this organic law of the national genius, the law of the
 avatars, was well known. "Whenever the dharmma decays, and when that
-which is not dharmma prevails, <span id="fr_25"></span>[†](#fn_25) then
+which is not dharmma prevails, <span id="fr_25"></span>[†](#fn_25.md) then
 I manifest
 
 <span id="page_158">p. 158</span>
@@ -713,7 +713,7 @@ but the Asiatic word for "national") were conflicting and confused. Men
 lived much in the thought of the recent sectarian developments of the
 faith, and tended to lose sight of its austere imperative, pointing to
 the highest realisation, of its antiquity, and its close-knit
-continuity. [Lakshmi](errata.htm#2), Goddess of Fortune, was one of the
+continuity. [Lakshmi](errata.htm#2.md), Goddess of Fortune, was one of the
 chief objects of worship. Sects and kingdoms alike had lost their sense
 of mutual solidarity. Never perhaps was an Asiatic people nearer
 precipitating itself on a purely secular development.
@@ -775,7 +775,7 @@ enmity was purely controversial in its character, and to Buddhists of
 the Northern School, a clearer historic knowledge will reveal him as the
 very opposite of a persecutor, as, rather, another example of the race
 of inspired religious teachers to which their own apostle, Nagarjuna,
-belonged. <span id="fr_26"></span>[\*](#fn_26)
+belonged. <span id="fr_26"></span>[\*](#fn_26.md)
 
 Buddhism as a whole, with the succeeding Puranism, had been the creation
 of the lay mind, the creation of the people. The work of Sankaracharya
@@ -810,7 +810,7 @@ of petty merchants who used to accompany the march of armies. Wherever
 the camp was pitched, they could run up a bazaar in half an hour, and
 their caste-honour lay in telling neither side the secrets of the other.
 When Genghis Khan invaded Hungary, these particular clans were carried
-there, never to return. <span id="fr_27"></span>[\*](#fn_27)
+there, never to return. <span id="fr_27"></span>[\*](#fn_27.md)
 
 But it was not only camp-followers who were protected by a law such as
 that which now defends the Red Cross Sisterhoods of Europe. A like
@@ -835,10 +835,10 @@ India by south, west, and north, in a spiral curve. Ramanuja,
 <span id="page_163">p. 163</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-Madhavacharya, <span id="fr_28"></span>[\*](#fn_28) Ram Das and
-Tukaram, <span id="fr_29"></span>[†](#fn_29) the Sikh Gurus <span
-id="fr_30"></span>[‡](#fn_30) and Gauranga, <span
-id="fr_31"></span>[§](#fn_31) were all in turn its products. Wherever it
+Madhavacharya, <span id="fr_28"></span>[\*](#fn_28.md) Ram Das and
+Tukaram, <span id="fr_29"></span>[†](#fn_29.md) the Sikh Gurus <span
+id="fr_30"></span>[‡](#fn_30.md) and Gauranga, <span
+id="fr_31"></span>[§](#fn_31.md) were all in turn its products. Wherever it
 touched the Mussulman consciousness, it created, chiefly by means of
 contest, a well-centred nation. Where it did not come in contact with
 Mohammedanism, as in the extreme south, this spiritual energy did not
@@ -863,13 +863,13 @@ attempts neither to exclude his rival's creed from
 office, nor to create invidious distinctions. "The great bankers and
 nobles of Bengal remained Hindu under the rule of the Nawabs, as
 naturally as the Mussulman maintained his face in the shadow of a Hindu
-throne." <span id="fr_32"></span>[\*](#fn_32)
+throne." <span id="fr_32"></span>[\*](#fn_32.md)
 
 Nor have the clearness and self-consciousness that its definition has
 added to Hinduism in any way tended to impair its inclusiveness. For the
 personality that the nineteenth century has revealed as the
 turning-point of the national development is that of Ramakrishna
-Paramahamsa, <span id="fr_33"></span>[†](#fn_33) whose name stands as
+Paramahamsa, <span id="fr_33"></span>[†](#fn_33.md) whose name stands as
 another word for the synthesis of all possible ideals and all possible
 shades of thought. In this great life, Hinduism finds the philosophy of
 Sankaracharya clothed upon with flesh, and is made finally aware of the
@@ -892,7 +892,7 @@ right of every man to choose his own
 <span id="page_165">p. 165</span>
 
 creed, and of none to force the same choice on any other. <span
-id="fr_34"></span>[\*](#fn_34)
+id="fr_34"></span>[\*](#fn_34.md)
 
 At last, then, Indian thought stands revealed in its entirety--no sect,
 but a synthesis; no church, but a university of spiritual culture--as an
@@ -960,7 +960,7 @@ the most important in the world.
 
 ### Footnotes
 
-<span id="fn_12"></span>[142:\*](wil11.htm#fr_12) Sufi-ism.--A mystic
+<span id="fn_12"></span>[142:\*](wil11.htm#fr_12.md) Sufi-ism.--A mystic
 set of Mohammedans. It rose in Persia, and at first suffered
 persecution, because the doctrine of the one-ness of the soul with the
 Divine sounded to the orthodox Mohammedan like a suggestion that a
@@ -968,103 +968,103 @@ creature could be "partner with God." The Sufis now maintain secrecy as
 to their experiences and convictions. Their doctrines and those of Hindu
 Vedantism are practically identical.
 
-<span id="fn_13"></span>[142:†](wil11.htm#fr_13) Sankaracharya.--"The
+<span id="fn_13"></span>[142:†](wil11.htm#fr_13.md) Sankaracharya.--"The
 father of modern Hinduism," often foolishly referred to as "a persecutor
 of Buddhism." A great saint and scholar. Born in Malabar, Southern
 India, 788 A.D. Wrote several famous commentaries, notably that on the
 Vedanta-Sutra, in which he formulated what is known as the philosophic
 doctrine of "Adwaita." He is said to have died at the age of thirty-two.
 
-<span id="fn_14"></span>[145:\*](wil11.htm#fr_14) Toda.--An aboriginal
+<span id="fn_14"></span>[145:\*](wil11.htm#fr_14.md) Toda.--An aboriginal
 tribe in the Neilgherris.
 
-<span id="fn_15"></span>[146:\*](wil11.htm#fr_15) Dravidian
+<span id="fn_15"></span>[146:\*](wil11.htm#fr_15.md) Dravidian
 civilisation.--The country of Dravida is that in the south of the Indian
 Peninsula, and includes Malabar. The languages of this region are
 non-Sanskritic, and the architecture peculiar and imposing. Some
 scholars are inclined to suppose a common origin for the Dravidian,
 Babylonian, and ancient Egyptian civilisations.
 
-<span id="fn_16"></span>[147:\*](wil11.htm#fr_16) In Southern India,
+<span id="fn_16"></span>[147:\*](wil11.htm#fr_16.md) In Southern India,
 rude figures of men and horses, of heroic size, are made of clay,
 hard-baked, and kept in enclosures outside the villages for annual
 worship. The illiterate worshipper explains these figures as likenesses
 of the characters in the Mahabharata.
 
-<span id="fn_17"></span>[149:\*](wil11.htm#fr_17) Asoka's inscriptions
+<span id="fn_17"></span>[149:\*](wil11.htm#fr_17.md) Asoka's inscriptions
 on the Dhauli rock, Orissa, and a Girnar in Gujrat.
 
-<span id="fn_18"></span>[150:\*](wil11.htm#fr_18) Ellora.--Buddhist
+<span id="fn_18"></span>[150:\*](wil11.htm#fr_18.md) Ellora.--Buddhist
 cave-temples close to the north-western frontier of the Nizam's
 dominions. The town of Rosa, containing the tomb of Aurungzeeb, is close
 by; and the whole is a few miles from Daulatabad, the ancient Deogiri.
 
-<span id="fn_19"></span>[150:†](wil11.htm#fr_19) Elephanta.--A series of
+<span id="fn_19"></span>[150:†](wil11.htm#fr_19.md) Elephanta.--A series of
 cave-temples on an island in the Bay of Bombay, between the second and
 the seventh century.
 
-<span id="fn_20"></span>[150:‡](wil11.htm#fr_20) The Thin Thal.--A
+<span id="fn_20"></span>[150:‡](wil11.htm#fr_20.md) The Thin Thal.--A
 cave-temple at Ellora which consists of three tiers or storeys. Hence
 its name. The most perfect of the non-Brahmanical structures.
 
-<span id="fn_21"></span>[150:§](wil11.htm#fr_21) Kailash.--The most
+<span id="fn_21"></span>[150:§](wil11.htm#fr_21.md) Kailash.--The most
 ornate and modern of all the cave-temples at Ellora. Cut with marvellous
 elaboration out of solid rock.
 
-<span id="fn_22"></span>[151:\*](wil11.htm#fr_22) The Puranic age.--The
+<span id="fn_22"></span>[151:\*](wil11.htm#fr_22.md) The Puranic age.--The
 Puranas are the third class of Hindu sacred literature, the first being
 the Vedas and Upanishads, and the second the national Epics. They
 consist of a series of books of very mixed character, of which the
 representative specimens were written between the sixth and twelfth
 centuries. Hence this period is spoken of as "the Puranic Age."
 
-<span id="fn_23"></span>[155:\*](wil11.htm#fr_23) That learned and
+<span id="fn_23"></span>[155:\*](wil11.htm#fr_23.md) That learned and
 fascinating book, "The Arctic Home in the Vedas," is destined to work a
 revolution in our ideas on this subject. If the author's theory be
 correct, it would appear that Aryan culture was not acquired in Central
 Asia.
 
-<span id="fn_24"></span>[157:\*](wil11.htm#fr_24) Kalidas--the
+<span id="fn_24"></span>[157:\*](wil11.htm#fr_24.md) Kalidas--the
 poet.--One of the famous "nine gems" of the Court of Vikramaditya, of
 Ujjain. Kalidas may have lived in the sixth century A.D. or earlier. He
 wrote the play of "Sakuntala," which so deeply touched the poet Goethe.
 
-<span id="fn_25"></span>[157:†](wil11.htm#fr_25) Literally, the
-a-dharma--non-dharma. The prefix is privative. See [p. 138](#page_138).
+<span id="fn_25"></span>[157:†](wil11.htm#fr_25.md) Literally, the
+a-dharma--non-dharma. The prefix is privative. See [p. 138](#page_138.md).
 
-<span id="fn_26"></span>[161:\*](wil11.htm#fr_26) Nagarjuna.--An Indian
+<span id="fn_26"></span>[161:\*](wil11.htm#fr_26.md) Nagarjuna.--An Indian
 monk, whose name is well known in China and Japan. He followed in the
 wake of previous teachers, in the second century of the Christian era.
 He gave ultimate theological form to the first school of Buddhism.
 
-<span id="fn_27"></span>[162:\*](wil11.htm#fr_27) In the year 1200 A.D.
+<span id="fn_27"></span>[162:\*](wil11.htm#fr_27.md) In the year 1200 A.D.
 
-<span id="fn_28"></span>[163:\*](wil11.htm#fr_28) Ramanuja and
+<span id="fn_28"></span>[163:\*](wil11.htm#fr_28.md) Ramanuja and
 Madhavacharya.--Flourished in the South of India in the twelfth and
 fourteenth centuries.
 
-<span id="fn_29"></span>[163:†](wil11.htm#fr_29) Ram Das and
+<span id="fn_29"></span>[163:†](wil11.htm#fr_29.md) Ram Das and
 Tukaram.--Two Mahratta saints to whose inspiration Sivaji's passionate
 defence of his own people was due. Tukaram was born about 1605.
 
-<span id="fn_30"></span>[163:‡](wil11.htm#fr_30)The Sikh Gurus.--These
+<span id="fn_30"></span>[163:‡](wil11.htm#fr_30.md)The Sikh Gurus.--These
 were ten in number, Guru Nanuk born 1469, was the first, and Guru Govind
 Singh, who died 1708, was the last. By the lives and teachings of these
 ten leaders was formed the Hindu nation of the Punjab, the Sikhs.
 Amritsar is still the sacred city of this sect of Hinduism.
 
-<span id="fn_31"></span>[163:§](wil11.htm#fr_31) Gauranga.--Another name
+<span id="fn_31"></span>[163:§](wil11.htm#fr_31.md) Gauranga.--Another name
 for Chaitanya, born 1486, the saint in whom Bengal first begins to
 realise herself as a united consciousness.
 
-<span id="fn_32"></span>[164:\*](wil11.htm#fr_32) Torrens’ "Empire in
+<span id="fn_32"></span>[164:\*](wil11.htm#fr_32.md) Torrens’ "Empire in
 Asia."
 
-<span id="fn_33"></span>[164:†](wil11.htm#fr_33) Ramakrishna Paramahamsa
+<span id="fn_33"></span>[164:†](wil11.htm#fr_33.md) Ramakrishna Paramahamsa
 lived in a temple-garden outside Calcutta from 1853 to 1886. His
 teachings have already become a great intellectual force.
 
-<span id="fn_34"></span>[165:\*](wil11.htm#fr_34) I desire to say that
+<span id="fn_34"></span>[165:\*](wil11.htm#fr_34.md) I desire to say that
 in thus referring to my own gurus, Sri Ramakrishna Paramahamsa and the
 Swami Vivekananda, I do not intend to imply that every one will or ought
 to be willing to assign them the same place in the evolution of Hinduism
@@ -1074,4 +1074,4 @@ ideas which are here stated as constituting Hinduism.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Oriental Experience](wil12)
+[Next: Chapter X. The Oriental Experience](wil12.md)

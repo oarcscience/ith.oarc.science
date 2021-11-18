@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop13)  [Next](pop15) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop13)  [Next](pop15.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ thy followers shall with pain lament to each other.'
 
 ------------------------------------------------------------------------
 
-[Next: The Tenth Figure](pop15)
+[Next: The Tenth Figure](pop15.md)

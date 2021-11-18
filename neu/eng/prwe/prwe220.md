@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe219)  [Next](prwe221) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe219)  [Next](prwe221.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ tomb, is only another form of the same sacred feeling.
 
 ------------------------------------------------------------------------
 
-[Next: Popular Superstitions](prwe221)
+[Next: Popular Superstitions](prwe221.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil18)  [Next](egil20) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil18)  [Next](egil20.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ home all that winter.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XIX. Thorolf retaliates.](egil20)
+[Next: CHAPTER XIX. Thorolf retaliates.](egil20.md)

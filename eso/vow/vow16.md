@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow15)  [Next](vow17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow15)  [Next](vow17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ There are, then, Gods superior to all appearances; after them come the
 Gods whose principle is spiritual; these Gods being sensible, in
 conformity with their double origin, manifest all things by a sensible
 nature, each of them illuminating his works one by another. <span
-id="fr_34"></span>[1](#fn_34) The supreme Being of heaven, or of all
+id="fr_34"></span>[1](#fn_34.md) The supreme Being of heaven, or of all
 that is comprehended under this name, is Zeus, for it is by heaven that
 Zeus gives life to all things. The supreme Being of the sun is light,
 for it is by the disk of the sun that we receive the benefit of the
@@ -159,7 +159,7 @@ man only God has given a part of His intelligence and of His knowledge.
 Wherefore, hearken.
 
 God the Father and the Ruler, after the Gods, <span
-id="fr_35"></span>[1](#fn_35) formed men by the union in equal
+id="fr_35"></span>[1](#fn_35.md) formed men by the union in equal
 proportions of the corruptible part of the universe and of its divine
 part, and thus it happened that the imperfections of the universe
 remained mingled in the flesh. The need of nourishment which we have in
@@ -196,15 +196,15 @@ talk about them, sully the holiness of this discourse.
 
 ### Footnotes
 
-<span id="fn_34"></span>[65:1](vow16.htm#fr_34) Hermes here includes as
+<span id="fn_34"></span>[65:1](vow16.htm#fr_34.md) Hermes here includes as
 Gods the sensible Forces of Nature, the elements and phenomena of the
 universe.
 
 A.K.
 
-<span id="fn_35"></span>[68:1](vow16.htm#fr_35) Hermes here intends the
+<span id="fn_35"></span>[68:1](vow16.htm#fr_35.md) Hermes here intends the
 mundane deities.--A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part IX](vow17)
+[Next: Part IX](vow17.md)

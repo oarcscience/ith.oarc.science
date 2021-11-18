@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err15)  [Next](err17) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err15)  [Next](err17.md) 
 
 ------------------------------------------------------------------------
 
@@ -807,7 +807,7 @@ difficulty, or makes ugly (*brutte*) or little flames, it is a bad sign,
 either as regards events or what we may have in our mind. In the Romagna
 the old men say if you would know how a thing will turn out, you must
 study the fire attentively. If it burns well, all will go well; and if
-ill, they will end badly. <span id="fr_37"></span>[1](#fn_37)
+ill, they will end badly. <span id="fr_37"></span>[1](#fn_37.md)
 
 "If it burn with *one* flame clear and fine, it is a sign of good
 fortune. Several flames, or now on one side and then on the other, with
@@ -1219,7 +1219,7 @@ francs.
 
 ### Footnotes
 
-<span id="fn_37"></span>[318:1](err16.htm#fr_37) The Voodoo thinks that
+<span id="fn_37"></span>[318:1](err16.htm#fr_37.md) The Voodoo thinks that
 if you have any kind of burning wood before you, and there is snapping
 and crackling, it indicates a serious quarrel. If a coal or spark flies
 towards you it is a very serious matter indeed. To avert the threatened
@@ -1227,4 +1227,4 @@ trouble run at once to the fire and spit in it."--Note by MARY A. OWEN
 
 ------------------------------------------------------------------------
 
-[Next: Part Two: Chapter IV--EVIL INCANTATIONS](err17)
+[Next: Part Two: Chapter IV--EVIL INCANTATIONS](err17.md)

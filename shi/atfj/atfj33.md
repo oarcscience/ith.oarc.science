@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj32)  [Next](atfj34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj32)  [Next](atfj34.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_36"></span> <span align="CENTER"> [![36. The Spirit of
 Fuji Shows Yosoji the Health-Giving Stream](tn/36.jpg)  
-Click to enlarge](img/36.jpg)  
+Click to enlarge](img/36.jpg.md)  
 36. The Spirit of Fuji Shows Yosoji the Health-Giving Stream  
 </span>
 
@@ -71,7 +71,7 @@ Kamo Yamakiko told Yosoji that there was but one chance that his mother
 could be cured, and that lay much with his own courage. 'If,' said the
 fortune-teller, 'you will go to a small brook which flows from the
 southwestern side of Mount Fuji, and find a small shrine near its
-source, where Oki-naga-suku-neo <span id="fr_35"></span>[1](#fn_35) is
+source, where Oki-naga-suku-neo <span id="fr_35"></span>[1](#fn_35.md) is
 worshipped, you may be able to cure your mother by bringing her water
 
 <span id="page_191">p. 191</span>
@@ -237,13 +237,13 @@ cure for all eye-complaints.
 
 ### Footnotes
 
-<span id="fn_35"></span>[190:1](atfj33.htm#fr_35) The God of Long
+<span id="fn_35"></span>[190:1](atfj33.htm#fr_35.md) The God of Long
 Breath.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XXXII. Whales](atfj34)
+[Next: XXXII. Whales](atfj34.md)
 
 </div>

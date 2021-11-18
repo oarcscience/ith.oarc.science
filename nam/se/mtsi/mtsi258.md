@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi257)  [Next](mtsi259) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi257)  [Next](mtsi259.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ the string so that he fell down.
 
 ------------------------------------------------------------------------
 
-[Next: 59. The Tar Baby](mtsi259)
+[Next: 59. The Tar Baby](mtsi259.md)

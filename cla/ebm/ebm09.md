@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ebm08)  [Next](ebm10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ebm08)  [Next](ebm10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eleusinian and Bacchic Mysteries*, by Thomas Taylor, \[1891\], at
 Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Intangible Textual Heritage
 
 <span id="page_238">p. 238</span>
 
-<span id="img_23801"></span> ![Hercules Drunk.](img/23801.png)  
+<span id="img_23801"></span> ![Hercules Drunk.](img/23801.png.md)  
 Hercules Drunk.
 
 ##### ORPHIC HYMNS.
@@ -48,4 +48,4 @@ Origin of all; King of all; One Power, one God, one Great Ruler.</span>
 
 ------------------------------------------------------------------------
 
-[Next: Hymn of Cleanthes](ebm10)
+[Next: Hymn of Cleanthes](ebm10.md)

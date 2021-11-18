@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](ere25)  [Next](ere27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](ere25)  [Next](ere27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ But can a healthy boy help growing if he have good meat and drink and
 clothing? can anything help going as long as it is wound up, or go on
 after it is run down? Is there not a winding up process everywhere?
 
-"Even a potato  <span id="fr_4"></span>[5](#fn_4)in a dark cellar has a
+"Even a potato  <span id="fr_4"></span>[5](#fn_4.md)in a dark cellar has a
 certain low cunning about him which serves him in excellent stead. He
 knows perfectly well what he wants and how to get it. He sees the light
 coming from the cellar window and sends his shoots crawling straight
@@ -227,7 +227,7 @@ fellow-creatures.'"
 
 ### Footnotes
 
-<span id="fn_4"></span>[5](ere26.htm#fr_4) The root alluded to is not
+<span id="fn_4"></span>[5](ere26.htm#fr_4.md) The root alluded to is not
 the potato of our own gardens, but a plant so near akin to it that I
 have ventured to translate it thus. Apropos of its intelligence, had the
 writer known Butler he would probably have said—
@@ -236,4 +236,4 @@ writer known Butler he would probably have said—
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV: The Machines—continued](ere27)
+[Next: Chapter XXIV: The Machines—continued](ere27.md)

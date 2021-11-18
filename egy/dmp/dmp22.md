@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp21)  [Next](dmp23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp21)  [Next](dmp23.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ honey, apply it; you say it also to a cup of water and make him drink it
 
 ------------------------------------------------------------------------
 
-[Next: Col. XX](dmp23)
+[Next: Col. XX](dmp23.md)

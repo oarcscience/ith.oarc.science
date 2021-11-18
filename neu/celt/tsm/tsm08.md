@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm07)  [Next](tsm09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm07)  [Next](tsm09.md) 
 
 ------------------------------------------------------------------------
 
@@ -455,4 +455,4 @@ ere the echoes died away she had reached the Coolin Hills in Skye.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Conall and the Thunder Hag](tsm09)
+[Next: Chapter VI. Conall and the Thunder Hag](tsm09.md)

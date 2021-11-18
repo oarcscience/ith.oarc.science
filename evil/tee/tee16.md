@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](tee15)  [Next](tee17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](tee15)  [Next](tee17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Evil Eye*, by Frederick Thomas Elworthy, \[1895\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 ### SPITTING, INCANTATION, AND OTHER PROTECTIVE ACTS. PIXIES
 
 IN the story told by Jorio of the Neapolitan woman ([p.
-261](tee11.htm#page_261)), another side of the question, so far only
+261](tee11.htm#page_261).md), another side of the question, so far only
 hinted at, is opened out. It is the effect believed to exist in certain
 actions, performed openly, secretly, or in the way of incantation. When,
 in talking with a stranger, a Neapolitan keeps his hands behind his back
@@ -59,7 +59,7 @@ was found to be a universal custom among the Mashonas.
 
 The marriage of the Czar Nicholas Il. furnishes a curious fact in this
 connection, and like the rite of the passport for the dead (see [p.
-399](tee15.htm#page_399)) shows that in Russia practices are solemnised
+399](tee15.htm#page_399).md) shows that in Russia practices are solemnised
 which in more western countries would be classed as magic.
 
 By orthodox theologians the symbolical meaning of the golden and silver
@@ -68,7 +68,7 @@ that he is to be as the sun to his future wife, irradiating her with his
 light. She is given the silver ring, inasmuch as, like the moon, she
 receives her brilliancy from her husband. The changing of rings, which
 ends by leaving to both their own, symbolises union and concord of
-husband and wife. <span id="fr_676"></span>[641a](#fn_676)
+husband and wife. <span id="fr_676"></span>[641a](#fn_676.md)
 
 Very nearly allied to this is the custom at fairs or markets for the
 seller, on being paid for cattle, to give back a silver coin "for luck."
@@ -83,7 +83,7 @@ common among the regular market-dealers, when the "luck money" is handed
 back to the buyer, for the receiver to spit on it "for luck." The same
 habit of spitting on a coin is very common also by the receiver when won
 in a bet, or when it is the first money received for the day. <span
-id="fr_677"></span>[642](#fn_677)
+id="fr_677"></span>[642](#fn_677.md)
 
 This custom of spitting opens up quite a wide subject, for not only is
 it practised in the hope of obtaining good fortune, but in all ages, and
@@ -91,7 +91,7 @@ almost among all peoples, it has ever been considered as an act to
 safeguard the spitter, whether against fascination or other evils. Among
 the ancient Greeks and Romans "the most common remedy against an
 invidious look was spitting; it was hence called *despuere
-malum*." <span id="fr_678"></span>[643](#fn_678) According to Theocritus
+malum*." <span id="fr_678"></span>[643](#fn_678.md) According to Theocritus
 "it is necessary to spit three times into the breast of the person who
 fears fascination."
 
@@ -99,17 +99,17 @@ Old women were accustomed to avert the evil eye from children by
 spitting into their bosoms: this was done three times--three being a
 sacred number. "Hence Damœtas . . . having praised himself, adds that by
 the advice of old Cotyttaris he had spit thrice into, his bosom to
-prevent fascination." <span id="fr_679"></span>[644](#fn_679)
+prevent fascination." <span id="fr_679"></span>[644](#fn_679.md)
 
 <span id="page_413">p. 413</span>
 
 It was usual to reprove arrogant persons by bidding them spit into their
-bosoms. <span id="fr_680"></span>[645](#fn_680) Among the ancient Greeks
+bosoms. <span id="fr_680"></span>[645](#fn_680.md) Among the ancient Greeks
 it was customary to spit three times into their bosoms at the sight of a
 madman, or one troubled with epilepsy. <span
-id="fr_681"></span>[646](#fn_681) This was done in defiance of the omen,
+id="fr_681"></span>[646](#fn_681.md) This was done in defiance of the omen,
 spitting being a sign of contempt and aversion. <span
-id="fr_682"></span>[647](#fn_682)
+id="fr_682"></span>[647](#fn_682.md)
 
 Another method of averting fascination from infants was this: they tied
 a thread of divers colours about the neck of the infant (compare the
@@ -118,7 +118,7 @@ della morte*), then spat on the ground, and taking up the spittle mixed
 with dirt upon their finger, put it upon the infant's forehead and lips.
 Moreover, this had to be done with the *digitus infamis*. As to the
 latter, there is no doubt as to which is the finger of disgrace. <span
-id="fr_683"></span>[648](#fn_683)
+id="fr_683"></span>[648](#fn_683.md)
 
 <span id="page_414">p. 414</span>
 
@@ -139,10 +139,10 @@ The improper and indecorous placing of the hand and fingers is also to
 be classed among derisive grimaces. Formerly the middle finger expressed
 the utmost contempt and ignominy when thrust out, with the other fingers
 closed. On that account it is called *infamis* and *imbudicus*. <span
-id="fr_684"></span>[649](#fn_684) Isidorus Hispalensis says: "When any
+id="fr_684"></span>[649](#fn_684.md) Isidorus Hispalensis says: "When any
 one wished formerly to mock contumeliously, or to signify the utmost
 derision, he used to thrust out the middle finger." It is said <span
-id="fr_685"></span>[650](#fn_685) that when certain visitors came to
+id="fr_685"></span>[650](#fn_685.md) that when certain visitors came to
 Demosthenes, who did not salute him with the
 
 <span id="page_415">p. 415</span>
@@ -158,7 +158,7 @@ of contemptuous mocking grimace, made by the interposition or insertion
 of the thumb between the index and middle finger, so that the thumb
 projects beyond, while the rest of the fingers are contracted into a
 fist. This is the greatest indignity of all mocking gestures, "dicitur
-ab Italis Far le fiche." <span id="fr_686"></span>[651](#fn_686) In the
+ab Italis Far le fiche." <span id="fr_686"></span>[651](#fn_686.md) In the
 theatres they had three ways of expressing disapproval or derision of
 the actors by the hands, besides the well-known hissing, shouting,
 thrusting out the tongue, and other facial contortions. These were:
@@ -188,13 +188,13 @@ Persius says (*Sat*. i.):--
 
 We are told that jokers make the stork (crane) by joining all the
 fingers; they then place them to the lower part in the likeness of a
-crane's bill. <span id="fr_687"></span>[652](#fn_687) There is much
+crane's bill. <span id="fr_687"></span>[652](#fn_687.md) There is much
 discussion of this performance, but in the absence of any drawing it is
 difficult to explain; the *a tergo* will perhaps suggest something. So
 also we are told with much detail how the asses' ears were imitated. The
 two hands were applied to the temples and the fingers moved backwards
 and forwards. This attitude survives in No. 7 (Stupido) of the
-Neapolitan gestures on Fig. [120](tee11.htm#img_27500).
+Neapolitan gestures on Fig. [120](tee11.htm#img_27500.md).
 
 Passing from manual gestures, already dealt with, we find spilling upon
 many occasions to be a widespread practice, nor need we turn to ancient
@@ -203,16 +203,16 @@ act, besides those performed for luck.
 
 To spit on cut hair before throwing it away is thought in some parts of
 Europe sufficient to prevent its being used by witches. <span
-id="fr_688"></span>[653](#fn_688) This is of course analogous to the
+id="fr_688"></span>[653](#fn_688.md) This is of course analogous to the
 various precautions taken to prevent hostile persons getting possession
 of any part of or belonging to another. <span
-id="fr_689"></span>[654](#fn_689)
+id="fr_689"></span>[654](#fn_689.md)
 
 <span id="page_417">p. 417</span>
 
 It is quite commonly said here in Somerset: "Nif you do meet wi' anybody
 wi' a north eye, spat dree times." <span
-id="fr_690"></span>[655](#fn_690) Why always three times? why three
+id="fr_690"></span>[655](#fn_690.md) Why always three times? why three
 times by the nurses of old days, except that there is some virtue added
 by the number three?
 
@@ -223,7 +223,7 @@ August 16, 1839, records that two women were fellow-lodgers, but
 unfortunately one of them squinted, and the other, to avert the supposed
 consequences from the defect in the first, considered she could only
 protect herself by spitting in her face three times a day. <span
-id="fr_691"></span>[656](#fn_691)
+id="fr_691"></span>[656](#fn_691.md)
 
 In many parts of England, certainly here in the west, it is a common
 saying: "Always spat dree times 'nif ee do zee a piebald 'oss." Piebald
@@ -260,14 +260,14 @@ have had some bad effect, and that many a case of diphtheria might have
 been avoided if it had never been considered vulgar to spit?
 
 Great virtue is and was always believed to belong to fasting spittle,
-both as curative and protective. <span id="fr_692"></span>[657](#fn_692)
+both as curative and protective. <span id="fr_692"></span>[657](#fn_692.md)
 To lick a wart first thing in the morning is one of the well-recognised
 cures; the same is held
 
 <span id="page_419">p. 419</span>
 
 respecting disorders of the eyes, a slight wound, or any irritation of
-the skin. Pliny says <span id="fr_693"></span>[658](#fn_693) fasting
+the skin. Pliny says <span id="fr_693"></span>[658](#fn_693.md) fasting
 spittle is a sovereign preservative against the poison of serpents, and
 that "we are in the habit of spitting as a preservative against
 epilepsy, or, in other words, we repel contagion thereby; in a similar
@@ -287,20 +287,20 @@ the left knee with the left.
 
 As charms against the evil eye, he mentions spitting into the urine the
 moment it is voided, of spitting into the right shoe before putting it
-on, <span id="fr_694"></span>[659](#fn_694) and of spitting while
+on, <span id="fr_694"></span>[659](#fn_694.md) and of spitting while
 passing any place where danger has been incurred. Pliny continues: "When
 a person
 
 <span id="page_420">p. 420</span>
 
-looks upon an infant asleep <span id="fr_695"></span>[660](#fn_695) it
+looks upon an infant asleep <span id="fr_695"></span>[660](#fn_695.md) it
 is usual for the nurse to spit three times upon the ground; and this,
 although infants are under the especial guardianship of the god
 Fascinus, the protector not of infants only but of generals as well, and
 a divinity whose worship is entrusted to the Vestal Virgins. The image
 of this god is attached beneath the triumphal car, to protect the
 victorious general against the effects of envy. Hence the expression
-*præfiscini*." <span id="fr_696"></span>[661](#fn_696)
+*præfiscini*." <span id="fr_696"></span>[661](#fn_696.md)
 
 Quite recently a friend of the writer was travelling in Greece in the
 neighbourhood of Sparta. A country woman had a baby on her back, carried
@@ -312,11 +312,11 @@ dreaded the evil eye, and that if the lady wished to see the child, she
 must first spit on it three times. This she did, and was at once
 permitted to look on the baby's face, having provided the recognised
 antidote against the stranger's glance. <span
-id="fr_697"></span>[662](#fn_697)
+id="fr_697"></span>[662](#fn_697.md)
 
 The act of restoring sight to a blind man with fasting spittle is
 attributed to Vespasian by two authors. <span
-id="fr_698"></span>[663](#fn_698) The man is said to have besought him
+id="fr_698"></span>[663](#fn_698.md) The man is said to have besought him
 "ut genas et orbes oculorum dignaretur respergere oris excremento." A
 singular and very remarkable comment
 
@@ -329,11 +329,11 @@ that "He spat on the ground, and made clay of the spittle, and He
 anointed the eyes of the blind man with the clay." He knew the medicinal
 value which was set upon saliva by the people, but instead of spurning
 such means, He thought right to make them the conductors of His
-miraculous power. <span id="fr_699"></span>[664](#fn_699) We find the
+miraculous power. <span id="fr_699"></span>[664](#fn_699.md) We find the
 same course followed in the case of the deaf and dumb man (St. Mark vii.
 33).
 
-A modern traveller <span id="fr_700"></span>[665](#fn_700) relates that
+A modern traveller <span id="fr_700"></span>[665](#fn_700.md) relates that
 in Corfu he unwittingly expressed his admiration for two children of his
 host. The grandmother on his repeating the praise became agonized, and
 nothing would suffice to appease the parents and others present but that
@@ -346,7 +346,7 @@ apply her paste, but it was probably the middle finger--the same as was
 undoubtedly used for the purpose at the time of our Lord's miracles; for
 Petronius, who was an actual contemporary (died A.D. 66), mentions the
 putting of dust combined with saliva upon the forehead with the middle
-finger. <span id="fr_701"></span>[666](#fn_701)
+finger. <span id="fr_701"></span>[666](#fn_701.md)
 
 <span id="page_422">p. 422</span>
 
@@ -360,8 +360,8 @@ This is but the gross performance of a ritual which is still practised
 in civilised countries. In ordinary Roman baptism, before the water used
 "In nomine Patris et Filii et Spiritus Sancti," the priest exorcises
 with spittle the ears and nostrils of the infant, <span
-id="fr_702"></span>[667](#fn_702) besides anointing with the chrism or
-holy oil. <span id="fr_703"></span>[668](#fn_703)
+id="fr_702"></span>[667](#fn_702.md) besides anointing with the chrism or
+holy oil. <span id="fr_703"></span>[668](#fn_703.md)
 
 Dr. Gregory, in his lecture to the British Association at Oxford, 1894,
 said that after a quarrel with the chief of the Masai in East Africa,
@@ -374,7 +374,7 @@ the chrism or holy oil should be so specially and distinctly
 
 <span id="page_423">p. 423</span>
 
-ordered in the several Rubrics <span id="fr_704"></span>[669](#fn_704)
+ordered in the several Rubrics <span id="fr_704"></span>[669](#fn_704.md)
 to be performed with the thumb, the symbol of power. Such is however the
 fact, and the custom is retained in our own Church of using the thumb in
 that part of the baptismal service where the priest says "(We) do sign
@@ -404,8 +404,8 @@ with the various constellations and Zodiacal signs; but so it is, and
 the connection is evidently of the utmost antiquity, because since
 history began, civilised races have all adopted the same ideas, and in
 their several languages denote the same animals. <span
-id="fr_705"></span>[670](#fn_705) We are told <span
-id="fr_706"></span>[671](#fn_706) that the star stories of Greeks and
+id="fr_705"></span>[670](#fn_705.md) We are told <span
+id="fr_706"></span>[671](#fn_706.md) that the star stories of Greeks and
 Egyptians (which we inherit) are in direct correspondence with the like
 legends among modern savages, yet many of them call stars and
 constellations by names representing animals different from those we
@@ -430,7 +430,7 @@ usual divan. Her mother-in-law now comes forward, unveils her, and with
 a pair of scissors cuts off the tips of her hair. This last ceremony is
 supposed to be of great importance in driving away all evil influences
 that might do harm to or enter between the newly married pair. <span
-id="fr_707"></span>[672](#fn_707) We are not told what is done to the
+id="fr_707"></span>[672](#fn_707.md) We are not told what is done to the
 hair cut off, nor of any ceremony in the cutting to countervail the
 touch of iron. Both matters are doubtless carefully looked to, though
 unnoted by a stranger. The birth of a daughter is a cause of grief,
@@ -447,7 +447,7 @@ this way poisoning the air for the poor little victim. Not only this,
 but large squares of paper with flaming hands and outspread fingers,
 pieces of bone, and shells (of course cowries), are everywhere hung
 about and exposed both within and without to avert the evil eye. <span
-id="fr_708"></span>[673](#fn_708)
+id="fr_708"></span>[673](#fn_708.md)
 
 In Africa, and also in the Eastern Archipelago, where the belief is
 universal, it is thought to be most dangerous to be looked at while
@@ -459,7 +459,7 @@ to see the King of Dahomey at his meals. "No Warua allows others to
 witness their eating or drinking, being doubly particular with regard to
 members of the opposite sex; and on *pombé* being offered, I have
 frequently seen them request that a cloth might be held up to hide them
-while drinking." <span id="fr_709"></span>[674](#fn_709) When the King
+while drinking." <span id="fr_709"></span>[674](#fn_709.md) When the King
 of Tonga eats, all turn their backs. Any who saw Muato Jamwo, a great
 potentate of the Congo country, eating, would certainly be put to death.
 In these cases it is thought that if the king is looked at while eating,
@@ -475,23 +475,23 @@ Hiding the face too, by way of protection, is a recognised mark of
 sovereignty in certain parts of Central Africa, where the king's face
 must be veiled. In Wadai the Sultan always speaks from behind a curtain;
 no one sees his face except his intimates and a few favoured
-persons. <span id="fr_710"></span>[675](#fn_710) Here we see of course
+persons. <span id="fr_710"></span>[675](#fn_710.md) Here we see of course
 the dread of a stranger's eye. Among the Touaregs of the Sahara all the
 men keep the lower part of the face, especially the mouth, veiled
 constantly. In West Timor a speaker holds his right hand before his
 mouth in speaking, lest a demon should enter his body, and lest the
 person with whom he is conversing should harm his soul by magic. <span
-id="fr_711"></span>[676](#fn_711)
+id="fr_711"></span>[676](#fn_711.md)
 
 A young New South Wales man must always cover his mouth with a rug in
 the presence of a woman, after his initiation into the mysteries of his
 tribe. So strongly is the danger felt, that many kings are not suffered
 to leave their houses, lest evil should befall them through being seen.
 The King of Loango is confined to his palace, and may not leave it after
-his coronation. <span id="fr_712"></span>[677](#fn_712) The King of Ibo
+his coronation. <span id="fr_712"></span>[677](#fn_712.md) The King of Ibo
 also may not leave his house even to go into his town unless a human
 sacrifice is made to propitiate the gods. Consequently he never goes
-beyond his own premises. <span id="fr_713"></span>[678](#fn_713) In
+beyond his own premises. <span id="fr_713"></span>[678](#fn_713.md) In
 Mandalay a strong paling, six feet high,
 
 <span id="page_428">p. 428</span>
@@ -499,7 +499,7 @@ Mandalay a strong paling, six feet high,
 lined every street through which the king was likely at any time to
 pass, and the people had to remain behind this fence when the king or
 any of the queens went out. No one might attempt to look through or over
-this blind, <span id="fr_714"></span>[679](#fn_714) of course from the
+this blind, <span id="fr_714"></span>[679](#fn_714.md) of course from the
 fear lest his eye should work mischief.
 
 To this day the kings of Corea are shut up in their palace; so also was
@@ -511,7 +511,7 @@ women were compelled to remain in their houses, and durst not show
 themselves under pain of death--a penalty which was carried out on the
 spot, even if disobedience occurred through ignorance. Thus the king was
 kept invisible to all but a chosen few. <span
-id="fr_715"></span>[680](#fn_715)
+id="fr_715"></span>[680](#fn_715.md)
 
 Although in all these cases we are not told distinctly why these
 precautions were taken, yet, knowing what the belief was, there can be
@@ -558,7 +558,7 @@ going against the way of the sun is a sort of defiance, like repeating
 
 <span id="page_430">p. 430</span>
 
-the defiant act depicted in Fig. [24](tee06.htm#img_13700). The burning
+the defiant act depicted in Fig. [24](tee06.htm#img_13700.md). The burning
 coal may be a relic of ancient fire-worship, and so on the other hand a
 propitiatory act of sun-worship; while the three times accords with the
 spitting three times, and with the value set upon the mystic three.
@@ -674,7 +674,7 @@ enchantment would be broken, or the evil eye averted.
 
 vouch for the truth of the story; in fact, I know the locality and some
 of the characters quite well. EDITOR FOR SOMERSET.\]  <span
-id="fr_716"></span>[681](#fn_716)
+id="fr_716"></span>[681](#fn_716.md)
 
 Nearly akin to being overlooked, people are often said to be Pixy-led,
 when in the dark they lose their way. The writer has heard of many cases
@@ -690,7 +690,7 @@ he was not far from help; but he firmly believed he had been pixy-led,
 and the story clung to him till his death. Many such cases might be
 recounted, but the safeguard against such is to "turn your coat in an'
 out," when the evil sprites are confounded. <span
-id="fr_717"></span>[682](#fn_717)
+id="fr_717"></span>[682](#fn_717.md)
 
 <span id="page_434">p. 434</span>
 
@@ -726,7 +726,7 @@ deferential to your greatest enemy. It is on May Eve the pixies are
 supposed to be most inclined for mischief. In Ireland it is thought that
 then the evil eye has more than its usual vigilance and malignity. "The
 nurse who would then walk in the open with a child in her arms would be
-reprobated as a monster." <span id="fr_718"></span>[683](#fn_718) Youth
+reprobated as a monster." <span id="fr_718"></span>[683](#fn_718.md) Youth
 and loveliness are thought to be especially exposed to peril, therefore
 not one woman in a thousand will then show herself abroad. Nor must it
 be supposed that conscious ugliness is any protection; on the contrary,
@@ -776,7 +776,7 @@ people.'" Another custom is that any one coming into a house where
 churning is going on must take the churn-dash, and churn for a few
 seconds. His doing this prevents a person with the evil eye, should any
 such come in, charming away the butter, or otherwise spoiling the
-churning." <span id="fr_719"></span>[684](#fn_719)
+churning." <span id="fr_719"></span>[684](#fn_719.md)
 
 <span id="page_437">p. 437</span>
 
@@ -802,7 +802,7 @@ them in their back hair. This was done to prevent enemies or dogs
 getting hold of them, and betrays the same caution that is displayed in
 the more usual burning of teeth, lest injury to a part may affect the
 whole, dealt with in the chapter on Sympathetic Magic, [p.
-74](tee04.htm#page_74), regarding other rejections of the body. That
+74](tee04.htm#page_74.md), regarding other rejections of the body. That
 which prevents injury may well be called protective. These persons were
 afraid both to burn their teeth and also to incur danger through their
 falling into malignant hands, so they hid them.
@@ -819,7 +819,7 @@ the Chassidim sect, put on curiously-formed helmets and cuirasses made
 of pasteboard, and armed themselves with wooden javelins. Thus equipped,
 they formed a procession, and with clashing cymbals and the chanting of
 some kind of dissonant dirge, proceeded to a given rendezvous. <span
-id="fr_720"></span>[685](#fn_720)
+id="fr_720"></span>[685](#fn_720.md)
 
 Of course this was a defiant challenge to the demon of cholera.
 
@@ -832,7 +832,7 @@ necessity of cleansing their hearts, saying nothing about cleansing
 their houses. The priests also sold charms against the disease, which,
 being put on board paper boats, were set adrift down the river, and were
 supposed to carry the disease away to sea. <span
-id="fr_721"></span>[686](#fn_721)
+id="fr_721"></span>[686](#fn_721.md)
 
 In all these cases where devils, or diseases, or misfortunes had to be
 dealt with, the underlying belief was ever present that all were
@@ -842,10 +842,10 @@ emanations from an evil eye.
 
 ### Footnotes
 
-<span id="fn_676"></span>[411:641a](tee16.htm#fr_676) *Daily Telegraph*,
+<span id="fn_676"></span>[411:641a](tee16.htm#fr_676.md) *Daily Telegraph*,
 Nov. 24, 1894.
 
-<span id="fn_677"></span>[412:642](tee16.htm#fr_677) Jahn (p. 84, n.
+<span id="fn_677"></span>[412:642](tee16.htm#fr_677.md) Jahn (p. 84, n.
 234) says: "I have often as a boy seen the fishwives of Ellerbeck, when
 they had got handsel (first money, *Handgeld*) from my mother, how they
 spat upon it. They say that brings them specially good luck (*besonderes
@@ -856,13 +856,13 @@ surely means that the speaker is so dry that if a sixpence were given
 him he could not spit on it for luck, as well as the other and more
 obvious one as to the amount of his possible expectoration.
 
-<span id="fn_678"></span>[412:643](tee16.htm#fr_678) Dodwell, vol. ii.
+<span id="fn_678"></span>[412:643](tee16.htm#fr_678.md) Dodwell, vol. ii.
 p. 32, gives the following authors, who all mention the same thing.
 Theocritus, *Idyl*. vi. 39; Tibullus, *Eleg*. i. 2, 54 Petronius, *Sat*.
 131; Persius, *Sat*. ii. 32; Pliny, *Nat. Hist.* xxviii. 3, 4 Seneca,
 *Consol. ad Marc.* 9; Plautus, *Captivi*, III. iv. 23.
 
-<span id="fn_679"></span>[412:644](tee16.htm#fr_679) Potter, *Archæol.
+<span id="fn_679"></span>[412:644](tee16.htm#fr_679.md) Potter, *Archæol.
 Græc.*, vol. i. 417. Potter also quotes the same authors as Dodwell.
 
 And lest enchantment should my limbs infest,  
@@ -870,7 +870,7 @@ I three times dropt my spittle on my breast;
 This charm I learnt from an old sorceress' tongue,  
 Who harvest-home at Hypocoon's sung.
 
-<span id="fn_680"></span>[413:645](tee16.htm#fr_680) Spitting was in the
+<span id="fn_680"></span>[413:645](tee16.htm#fr_680.md) Spitting was in the
 Middle Ages not only a protective, but also an injurious act, for we
 read:--
 
@@ -880,12 +880,12 @@ I can make corne and cattle
     That they shall never thryve.  
          Bale's *Interlude--Idolatry*, 1562, sig. C. 2.
 
-<span id="fn_681"></span>[413:646](tee16.htm#fr_681) Theocritus, *Idyl*.
+<span id="fn_681"></span>[413:646](tee16.htm#fr_681.md) Theocritus, *Idyl*.
 xx. i 1.
 
-<span id="fn_682"></span>[413:647](tee16.htm#fr_682) *Ibid.* v. 66.
+<span id="fn_682"></span>[413:647](tee16.htm#fr_682.md) *Ibid.* v. 66.
 
-<span id="fn_683"></span>[413:648](tee16.htm#fr_683) In an old treatise
+<span id="fn_683"></span>[413:648](tee16.htm#fr_683.md) In an old treatise
 on the hand we read that the names of the fingers are derived from their
 use, their position, and their size. The ancients had another name for
 the index, which they called *salutaris* "quod eo salutarent deos suos
@@ -920,7 +920,7 @@ With us moderns in the West, however, the thumb is the type of
 clumsiness: our vernacular for a person who is very awkward with his
 hands is, "He's all thumbs."
 
-<span id="fn_684"></span>[414:649](tee16.htm#fr_684) *De Pollice*, p.
+<span id="fn_684"></span>[414:649](tee16.htm#fr_684.md) *De Pollice*, p.
 41. "Quo loco Cornutus, infami digito (*i.e.* of Persius *Sat*. ii.)
 ait, id est medio, qui obsccenitatis est et subjicit." Martial (ix. 70)
 also says:--
@@ -929,20 +929,20 @@ Impudicus etiam Priapi cantor eodem modo,
 Derides quoque fur, et impudicum  
 Ostendis digitum mihi minanti."
 
-<span id="fn_685"></span>[414:650](tee16.htm#fr_685) Laertius, *De vitis
+<span id="fn_685"></span>[414:650](tee16.htm#fr_685.md) Laertius, *De vitis
 Philosophorum*, lib. vi.
 
-<span id="fn_686"></span>[415:651](tee16.htm#fr_686) *De Pollice*, p.
+<span id="fn_686"></span>[415:651](tee16.htm#fr_686.md) *De Pollice*, p.
 42; already sufficiently dealt with.
 
-<span id="fn_687"></span>[416:652](tee16.htm#fr_687) *De Pollice*, p.
+<span id="fn_687"></span>[416:652](tee16.htm#fr_687.md) *De Pollice*, p.
 43.
 
-<span id="fn_688"></span>[416:653](tee16.htm#fr_688) Zingerle, *Sitten,
+<span id="fn_688"></span>[416:653](tee16.htm#fr_688.md) Zingerle, *Sitten,
 Braüche und Meinungen des Tiroler Volkes*, Nos, 176, 580; *Melusine*,
 1878, c. 79. Frazer, *Golden Bough*, vol. i. p. 204.
 
-<span id="fn_689"></span>[416:654](tee16.htm#fr_689) Spitting on the
+<span id="fn_689"></span>[416:654](tee16.htm#fr_689.md) Spitting on the
 hair is of course regularly practised in Naples.
 
 "Nell' uscir dal vostro tetto  
@@ -958,13 +958,13 @@ and further he says, Tibullus enjoins spitting on the breast, giving his
 precise words: "Despuit in molles et sibi quisque sinus." He adds I do
 not fail to do this always, and I have found the benefit of it."
 
-<span id="fn_690"></span>[417:655](tee16.htm#fr_690) The same thing is
+<span id="fn_690"></span>[417:655](tee16.htm#fr_690.md) The same thing is
 recorded in Hone's *Year-Book*, 1831, p. 253.
 
-<span id="fn_691"></span>[417:656](tee16.htm#fr_691) Brand, vol. iii. p.
+<span id="fn_691"></span>[417:656](tee16.htm#fr_691.md) Brand, vol. iii. p.
 50.
 
-<span id="fn_692"></span>[418:657](tee16.htm#fr_692)
+<span id="fn_692"></span>[418:657](tee16.htm#fr_692.md)
 
 Their beads of nits, bels, books and wax,  
 Candles, forsooth, and other knacks:  
@@ -973,10 +973,10 @@ Their sacred salt here, not a little,
 Dry chips, old shooes, rags, grease, and bones.  
                         Herrick, Hesperides, "The Temple."
 
-<span id="fn_693"></span>[419:658](tee16.htm#fr_693) Pliny, *Nat. Hist.*
+<span id="fn_693"></span>[419:658](tee16.htm#fr_693.md) Pliny, *Nat. Hist.*
 xxviii, 7; Vol. V. p. 288, Bohn.
 
-<span id="fn_694"></span>[419:659](tee16.htm#fr_694) This is still
+<span id="fn_694"></span>[419:659](tee16.htm#fr_694.md) This is still
 practised in Italy.
 
 D' una cosa traggo al gioco  
@@ -989,7 +989,7 @@ E poi starmi zitto zitto.--Marugi, *Capricci*, p. 108.
 The Editor remarks on this, that he has practised it with *qualche sorta
 di profitto*.
 
-<span id="fn_695"></span>[420:660](tee16.htm#fr_695)
+<span id="fn_695"></span>[420:660](tee16.htm#fr_695.md)
 
 Bring the holy crust of bread,  
 Lay it underneath the, head;  
@@ -997,23 +997,23 @@ Lay it underneath the, head;
 Hags away, while children sleep.  
      Herrick, *Hesperides*, ed. Hazlitt, 1869, p. 304.
 
-<span id="fn_696"></span>[420:661](tee16.htm#fr_696) Ellis, Note to
+<span id="fn_696"></span>[420:661](tee16.htm#fr_696.md) Ellis, Note to
 Pliny, *Nat. Hist.* v. p. 290, Bohn.
 
-<span id="fn_697"></span>[420:662](tee16.htm#fr_697) Alexander
+<span id="fn_697"></span>[420:662](tee16.htm#fr_697.md) Alexander
 Alexandrinus also wrote: "Fascinationes saliva jejuna repelli, veteri
 superstitioni creditum est" (Ellis, Note to Brand, vol. iii. p. 260).
 
-<span id="fn_698"></span>[420:663](tee16.htm#fr_698) Suetonius,
+<span id="fn_698"></span>[420:663](tee16.htm#fr_698.md) Suetonius,
 *Vespas*. 7; Tacitus, *Hist*. iv. 8.
 
-<span id="fn_699"></span>[421:664](tee16.htm#fr_699) See Trench, *Notes
+<span id="fn_699"></span>[421:664](tee16.htm#fr_699.md) See Trench, *Notes
 on the Miracles*, p. 294.
 
-<span id="fn_700"></span>[421:665](tee16.htm#fr_700) Dodwell, vol. ii.
+<span id="fn_700"></span>[421:665](tee16.htm#fr_700.md) Dodwell, vol. ii.
 p. 36.
 
-<span id="fn_701"></span>[421:666](tee16.htm#fr_701) "Mox turbatum sputo
+<span id="fn_701"></span>[421:666](tee16.htm#fr_701.md) "Mox turbatum sputo
 pulverem medio sustulit digito frontem repugnantis <span
 id="page_422">p. 422</span> signat . . . hoc peracto carmine ter me
 jussit expuere, terque lapillos conjicere in sinum."--Petronius, *Sat*.
@@ -1032,10 +1032,10 @@ Sacred spittle bring ye hither;
 Meale and it now mix together,  
 And a little oil with either.--Herrick, *Hesperides*.
 
-<span id="fn_702"></span>[422:667](tee16.htm#fr_702) F. Chance, *Notes
+<span id="fn_702"></span>[422:667](tee16.htm#fr_702.md) F. Chance, *Notes
 and Queries*, 8th ser. v. 137.
 
-<span id="fn_703"></span>[422:668](tee16.htm#fr_703) It has even been
+<span id="fn_703"></span>[422:668](tee16.htm#fr_703.md) It has even been
 discussed as to whether, in the absence of water, spittle might be used
 for the baptism itself, but this latter is denied (G. Angus, *Notes and
 Queries*, 8th ser. v. 192). With further regard to spitting, we must not
@@ -1043,7 +1043,7 @@ forget that salt is put into the child's mouth during the baptismal rite
 in order to make him *despuere malum*, or as it is called vernacularly
 "spit out the devil."
 
-<span id="fn_704"></span>[423:669](tee16.htm#fr_704) *Rituale Romanum*,
+<span id="fn_704"></span>[423:669](tee16.htm#fr_704.md) *Rituale Romanum*,
 Romæ, MDCCL. (Baptism of Infants). "Deinde intingit pollicem in sacro
 chrismate, et ungit infantem in summitate capitis in modum crucis,
 dicens Deus Omnipotens, etc. . . . Postea pollice faciat signum crucis
@@ -1053,7 +1053,7 @@ The same direction as to the use of the thumb is given in the Rubrics
 for Extreme Unction, Confirmation, Ordination of Priests, Coronation,
 Consecration of an Altar, etc. . . .
 
-<span id="fn_705"></span>[424:670](tee16.htm#fr_705) The Greeks had two
+<span id="fn_705"></span>[424:670](tee16.htm#fr_705.md) The Greeks had two
 names for the great northern constellation, which remain to this
 day--the Great Bear and the Wain. Our modern name of "King Charles's
 Wain" is but a very ancient one, revived with a prefix commemorating
@@ -1091,15 +1091,15 @@ portents, it is amusing to read in the *Spectator* of Nov. 24, 1894, p.
 century" (1) Two days after this (Nov. 26) a Somerset friend writes:
 "Does not the death of a lion still give anxiety to many a woman
 expecting childbirth?" This latter is a curious and unsought
-confirmation of the remarks on [p. 76](tee04.htm#page_76) ante.
+confirmation of the remarks on [p. 76](tee04.htm#page_76.md) ante.
 
-<span id="fn_706"></span>[424:671](tee16.htm#fr_706) A. Lang, *Myth and
+<span id="fn_706"></span>[424:671](tee16.htm#fr_706.md) A. Lang, *Myth and
 Custom*, p. 124. See also Goguet, *L'Origine des Lois*, on this subject.
 
-<span id="fn_707"></span>[425:672](tee16.htm#fr_707) Mrs. Reichardt,
+<span id="fn_707"></span>[425:672](tee16.htm#fr_707.md) Mrs. Reichardt,
 *Good Words*, Jan. 1893, p. 47.
 
-<span id="fn_708"></span>[426:673](tee16.htm#fr_708) This making of
+<span id="fn_708"></span>[426:673](tee16.htm#fr_708.md) This making of
 smoke is aptly matched in the Apocryphal account following. "Then the
 angel said: 'Open the fish and take the heart and the liver and the gall
 and put them up safely.' So the young man did as the angel commanded
@@ -1111,30 +1111,30 @@ a smoke thereof before the man or woman, and the party shall be no more
 vexed. As for the gall, it is good to anoint a man that hath whiteness
 in his eyes, and he shall be healed'" (*Tobit*, vi. 3-8).
 
-<span id="fn_709"></span>[426:674](tee16.htm#fr_709) Cameron, *Across
+<span id="fn_709"></span>[426:674](tee16.htm#fr_709.md) Cameron, *Across
 Africa*, vol. ii. p. 71.
 
-<span id="fn_710"></span>[427:675](tee16.htm#fr_710) Mohammed Ibn-Omar
+<span id="fn_710"></span>[427:675](tee16.htm#fr_710.md) Mohammed Ibn-Omar
 el Tounsy, *Voyage au Darfour*, 1845, p. 203. *Travels of an Arab
 Merchant*, abridged by Bayle St. John, p. 91.
 
-<span id="fn_711"></span>[427:676](tee16.htm#fr_711) Riedel, "Die
+<span id="fn_711"></span>[427:676](tee16.htm#fr_711.md) Riedel, "Die
 Landschaft Dawan oder West-Timor," in *Deutsche Geog. Blat.* x. 230,
 quoted by Frazer.
 
-<span id="fn_712"></span>[427:677](tee16.htm#fr_712) Bastian, *Die
+<span id="fn_712"></span>[427:677](tee16.htm#fr_712.md) Bastian, *Die
 Loango-Küste*, i. 263.
 
-<span id="fn_713"></span>[427:678](tee16.htm#fr_713) Crowther and
+<span id="fn_713"></span>[427:678](tee16.htm#fr_713.md) Crowther and
 Taylor, *Gospel on the Banks of the Niger*, p. 433
 
-<span id="fn_714"></span>[428:679](tee16.htm#fr_714) Shway Yoe, The
+<span id="fn_714"></span>[428:679](tee16.htm#fr_714.md) Shway Yoe, The
 Burman, i. 308.
 
-<span id="fn_715"></span>[428:680](tee16.htm#fr_715) Richard, *History
+<span id="fn_715"></span>[428:680](tee16.htm#fr_715.md) Richard, *History
 of Tonquin*, in Pinkerton, ix. p. 746.
 
-<span id="fn_716"></span>[433:681](tee16.htm#fr_716)
+<span id="fn_716"></span>[433:681](tee16.htm#fr_716.md)
 
 To house the hag you must doe this:  
 Commix with meale a little pisse  
@@ -1144,7 +1144,7 @@ And this rawly baked will bring
 The old hag in.    No surer thing.  
          Herrick, *Hesperides*, ed. Hazlitt, 1869, p. 305
 
-<span id="fn_717"></span>[433:682](tee16.htm#fr_717)
+<span id="fn_717"></span>[433:682](tee16.htm#fr_717.md)
 
 If ye feare to be affrighted  
 When ye are by chance benighted, <span id="page_433">p. 433</span>  
@@ -1154,18 +1154,18 @@ For that holy piece of bread
 Charmes the danger and the dread.  
      Herrick, *Hesperides*, ed. Hazlitt, 1869, p. 346.
 
-<span id="fn_718"></span>[435:683](tee16.htm#fr_718) Hone, *Everyday
+<span id="fn_718"></span>[435:683](tee16.htm#fr_718.md) Hone, *Everyday
 Book*, vol. i. p. 594
 
-<span id="fn_719"></span>[436:684](tee16.htm#fr_719) Le Fanu, *op. cit.*
+<span id="fn_719"></span>[436:684](tee16.htm#fr_719.md) Le Fanu, *op. cit.*
 p. 104.
 
-<span id="fn_720"></span>[438:685](tee16.htm#fr_720) Daily News, Sept.
+<span id="fn_720"></span>[438:685](tee16.htm#fr_720.md) Daily News, Sept.
 18, 1894.
 
-<span id="fn_721"></span>[438:686](tee16.htm#fr_721) Public Health, Aug.
+<span id="fn_721"></span>[438:686](tee16.htm#fr_721.md) Public Health, Aug.
 1894, p. 376.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix III](tee17)
+[Next: Appendix III](tee17.md)

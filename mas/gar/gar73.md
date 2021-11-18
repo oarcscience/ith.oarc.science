@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar72)  [Next](gar74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar72)  [Next](gar74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -195,7 +195,7 @@ And teach us, as their loss we weep,
 Here, let the weary find repose,  
   ’Mongst fragrant flowers and waving trees—  
 Emblems, at once, of mortal woes,  
-  And [everlasting](errata.htm#7) sympathies— <span id="page_380">p.
+  And [everlasting](errata.htm#7.md) sympathies— <span id="page_380">p.
 380</span>  
 And grant, O God! that we may see  
   In Nature's swelling buds, and bloom,  
@@ -413,4 +413,4 @@ The public grand honors are then given, which closes the ceremony.
 
 ------------------------------------------------------------------------
 
-[Next: Masonic Calendar](gar74)
+[Next: Masonic Calendar](gar74.md)

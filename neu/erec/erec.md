@@ -1,5 +1,5 @@
-<span class="small">[Intangible Textual Heritage](../../index) 
-[European Texts](../index) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md) 
+[European Texts](../index.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ prepared by Douglas B. Killings , November 1996.</span>
 
 # Contents
 
-[Introduction](erecintr)  
-[Part I: Vv. 1 - Vv. 2292](erec1)  
-[Part II: Vv. 2293 - Vv. 4579](erec2)  
-[Part III: Vv. 4580 - Vv. 6598](erec3)  
+[Introduction](erecintr.md)  
+[Part I: Vv. 1 - Vv. 2292](erec1.md)  
+[Part II: Vv. 2293 - Vv. 4579](erec2.md)  
+[Part III: Vv. 4580 - Vv. 6598](erec3.md)  

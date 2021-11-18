@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca52)  [Next](fsca54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca52)  [Next](fsca54.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ id="img_21500"></span>
 
 |                                      |
 |--------------------------------------|
-| ![The Heraldic Ibex.](img/21500.jpg) |
+| ![The Heraldic Ibex.](img/21500.jpg.md) |
 
 which are serrated like a saw. Perhaps it would not be erroneous to
 consider it identical with the heraldic antelope.
@@ -36,4 +36,4 @@ full of knots, one of which is added every year.
 
 ------------------------------------------------------------------------
 
-[Next: Bagwyn](fsca54)
+[Next: Bagwyn](fsca54.md)

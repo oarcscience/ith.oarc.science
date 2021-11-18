@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip50)  [Next](fip52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip50)  [Next](fip52.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ many quare things, widout doubt; but whether it was owin' to that or
 not, I wouldn't undertake to say *for fraid I'd tell a lie*.
 
 "Well, begad, anyhow it was Moll Roe that was the *dilsy*. <span
-id="fr_37"></span>[1](#fn_37) It happened that there was a nate vagabone
+id="fr_37"></span>[1](#fn_37.md) It happened that there was a nate vagabone
 in the neighbourhood, just as much overburdened wid beauty as herself,
 and he was named Gusty Gillespie. Gusty, the Lord guard us, was what
 they call a black-mouth Prosbytarian, and wouldn't keep Christmas-day,
@@ -235,7 +235,7 @@ manes?'
 "'Why,' replied Katty, 'it's my big pudden that's bewitched, an' it's
 now hot foot pursuin' ------;' here she stopped, not wishin' to mention
 her brother's name--'*some one* or other that surely put *pishrogues* an
-it.' <span id="fr_38"></span>[1](#fn_38)
+it.' <span id="fr_38"></span>[1](#fn_38.md)
 
 "This was enough; Jack, now seein' that he had assistance, found his
 courage comin' back to him; so says he to Katty, 'Go home,' says he, an,
@@ -329,7 +329,7 @@ as if it was about to rain mether! Go out both of you, an' look at the
 sun, I say, and ye'll see the condition he's in--off!'
 
 "'Ay, but, Harry, what's that rowled up in the tail of your
-cothamore <span id="fr_39"></span>[1](#fn_39) (big coat)?'
+cothamore <span id="fr_39"></span>[1](#fn_39) (big coat.md)?'
 
 "'Out wid yez,' said Harry, 'an' pray against the clipstick--the sky's
 fallin'!'
@@ -538,25 +538,25 @@ half a pound of quicksilver he put into it; but that doesn't stand to
 raison. At any rate, boys, I have tould you the adventures of the Mad
 Pudden of Ballyboulteen; but I don't wish to tell you many other things
 about it that happened--*for fraid I'd tell a lie*." <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_37"></span>[187:1](fip51.htm#fr_37) Perhaps from Irish
+<span id="fn_37"></span>[187:1](fip51.htm#fr_37.md) Perhaps from Irish
 *dilse*--*i.e.*, love.
 
-<span id="fn_38"></span>[191:1](fip51.htm#fr_38) Put it under fairy
+<span id="fn_38"></span>[191:1](fip51.htm#fr_38.md) Put it under fairy
 influence.
 
-<span id="fn_39"></span>[193:1](fip51.htm#fr_39) Irish, *cóta mór*.
+<span id="fn_39"></span>[193:1](fip51.htm#fr_39.md) Irish, *cóta mór*.
 
-<span id="fn_40"></span>[199:1](fip51.htm#fr_40) Some will insist that a
+<span id="fn_40"></span>[199:1](fip51.htm#fr_40.md) Some will insist that a
 fairy-man or fairy-woman has the power to bewitch a pudding by putting a
 fairy into it; whilst others maintain that a competent portion of
 quicksilver will make it dance over half the parish.
 
 ------------------------------------------------------------------------
 
-[Next: Tír-na-n-Og](fip52)
+[Next: Tír-na-n-Og](fip52.md)

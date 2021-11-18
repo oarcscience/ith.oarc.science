@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist036) 
-[Next](hist038) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist036.md) 
+[Next](hist038.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -256,4 +256,4 @@ fit to insert in our Ecclesiastical History.
 [Next: II. How Augustine admonished the bishops of the Britons on behalf
 of Catholic peace, and to that end wrought a heavenly miracle in their
 presence; and of the vengeance that pursued them for their contempt.
-\[Circ. 603 A.D.\]](hist038)
+\[Circ. 603 A.D.\]](hist038.md)

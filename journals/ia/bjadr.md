@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Islamic
-Articles](../../isl/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Islamic
+Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -196,7 +196,7 @@ after the prophet."
 
    One day the Mullâ being present at a devotional exercise, it occurred
 to a dervish to ask him what *Faḳr*<span
-id="page_295_fr_*"></span>[\*](#page_295_note_*) is, whereupon the Mulla
+id="page_295_fr_*"></span>[\*](#page_295_note_*.md) is, whereupon the Mulla
 recited the following quatrain:—
 
 <table data-align="center" data-cellpadding="10">
@@ -465,7 +465,7 @@ and ending with the words—
 
 |                                                                                                            |
 |------------------------------------------------------------------------------------------------------------|
-| "Here pause my song; and thou vain world, farewell."<span id="page_298_fr_*"></span>[\*](#page_298_note_*) |
+| "Here pause my song; and thou vain world, farewell."<span id="page_298_fr_*"></span>[\*](#page_298_note_*.md) |
 
    Jellâl-al-din said, "Before you ever thought of it, the idea of
 composing a work of this kind had been instilled into my heart from on
@@ -527,7 +527,7 @@ condemn no one rashly.
    No doubt the *Meṣnâvi* contains also many strictly orthodox and even
 bigoted pieces; it must, however, be allowed that there are many which
 can never meet with the approval of strict Musalmâns of any sect. Such a
-piece is "[Moses and the Herdsman](sfrv3.htm#pp_2)" (*Ind. Ant.* vol.
+piece is "[Moses and the Herdsman](sfrv3.htm#pp_2.md)" (*Ind. Ant.* vol.
 III. p. 90, March 1874), at the end of which the author even disclaims
 to be a religious guide, and openly avows that the religion of love is
 the only true one:—
@@ -549,7 +549,7 @@ The lovers' sects and rites are God alone.<span id="page_298_fr_dagger"></span><
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Islamic Articles](../../isl/etc/index)
+[Journals](../index) [Islamic Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -557,16 +557,16 @@ The lovers' sects and rites are God alone.<span id="page_298_fr_dagger"></span><
 
 <span id="footnotes_page_295">p. 295</span>
 
-<span id="page_295_note_*"></span>[\*](#page_295_fr_*) Poverty in a
+<span id="page_295_note_*"></span>[\*](#page_295_fr_*.md) Poverty in a
 religious sense, and he who makes a profession of it is a Faḳîr
 
 <span id="footnotes_page_298">p. 298</span>
 
-<span id="page_298_note_*"></span>[\*](#page_298_fr_*) This piece was
+<span id="page_298_note_*"></span>[\*](#page_298_fr_*.md) This piece was
 translated by Sir W. Jones, but since his time nothing further has been
 attempted.
 
-<span id="page_298_note_dagger"></span>[†](#page_298_fr_dagger) Though
+<span id="page_298_note_dagger"></span>[†](#page_298_fr_dagger.md) Though
 fully aware of my numerous imperfections both as an English and a
 Persian scholar, I have during the last two years given selections from
 this great poet, who has not yet met among Europeans with the attention

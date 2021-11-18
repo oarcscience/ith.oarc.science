@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe35)  [Next](toe37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe35)  [Next](toe37.md) 
 
 ------------------------------------------------------------------------
 
@@ -1158,4 +1158,4 @@ particular part, a succession of decay and renovation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The same Subject continued](toe37)
+[Next: Chapter XIII. The same Subject continued](toe37.md)

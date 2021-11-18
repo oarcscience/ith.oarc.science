@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap04)  [Next](chap06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap04)  [Next](chap06.md) 
 
 ------------------------------------------------------------------------
 
@@ -576,4 +576,4 @@ well.
 
 ------------------------------------------------------------------------
 
-[Next: VI. King David](chap06)
+[Next: VI. King David](chap06.md)

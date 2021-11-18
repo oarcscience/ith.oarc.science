@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Index](index)  [Previous](mosy01)  [Next](mosy03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Index](index)  [Previous](mosy01)  [Next](mosy03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Migration of Symbols*, by Goblet d'Alviella, \[1894\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ from a Cross at St. Vigeans in Forfarshire.
 
 <span id="img__02400"></span> <span align="CENTER">
 [![](tn/_02400.jpg)  
-Click to enlarge](img/_02400.jpg)</span>
+Click to enlarge](img/_02400.jpg.md)</span>
 
 Both these are illustrated in Stuart's *Sculptured Stones of Scotland*.
 The third is from one of the old Mahometan buildings of the Mo(n)gol
@@ -35,7 +35,7 @@ period at Lahore.
 
 <span id="img__02401"></span> <span align="CENTER">
 [![](tn/_02401.jpg)  
-Click to enlarge](img/_02401.jpg)</span>
+Click to enlarge](img/_02401.jpg.md)</span>
 
 This is also ignorantly rendered as the inauspicious *suwastika;* and
 twisted into a legend, which I read as, *ya Fattah*, "O Opener,"
@@ -45,4 +45,4 @@ twisted into a legend, which I read as, *ya Fattah*, "O Opener,"
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mosy03)
+[Next: Contents](mosy03.md)

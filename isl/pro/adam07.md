@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam06)  [Next](adam08) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam06)  [Next](adam08.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ for himself.
 
 ------------------------------------------------------------------------
 
-[Next: What is the tree that was porhibited for Adam PUH](adam08)
+[Next: What is the tree that was porhibited for Adam PUH](adam08.md)

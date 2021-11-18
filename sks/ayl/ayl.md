@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/ayl)  [Previous](../aww/aww) 
-[Next](../coe/coe) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/ayl)  [Previous](../aww/aww.md) 
+[Next](../coe/coe.md) 
 
 ------------------------------------------------------------------------
 
@@ -4133,4 +4133,4 @@ Index](../index)  [First Folio](../ff/ayl)  [Previous](../aww/aww) 
 
 ------------------------------------------------------------------------
 
-[Next: Comedy of Errors](../coe/coe) 
+[Next: Comedy of Errors](../coe/coe.md) 

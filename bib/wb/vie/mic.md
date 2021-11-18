@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jon)  [Next](nah) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jon)  [Next](nah.md) 
 
 ------------------------------------------------------------------------
 
@@ -426,4 +426,4 @@ tôi từ những ngày xưa.
 
 ------------------------------------------------------------------------
 
-[Next: Nahum](nah)
+[Next: Nahum](nah.md)

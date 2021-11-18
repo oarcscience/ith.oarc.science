@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp41)  [Next](prp43) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp41)  [Next](prp43.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ the semblance of a votive apple, cause him to bear genuine fruit.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: 43. Refrain from deeming all my sayings be](prp43)
+[Next: 43. Refrain from deeming all my sayings be](prp43.md)

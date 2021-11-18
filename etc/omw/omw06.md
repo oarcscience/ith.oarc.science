@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw05)  [Next](omw07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw05)  [Next](omw07.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,15 +19,15 @@ were the
 
 supreme *ikonists*, the greatest image-makers that the world has ever
 seen, and, therefore, their mythology lives on today. <span
-id="fr_11"></span>[12](#fn_11)
+id="fr_11"></span>[12](#fn_11.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_11"></span>[xv:12](omw06.htm#fr_11) Myths of Greece and
+<span id="fn_11"></span>[xv:12](omw06.htm#fr_11.md) Myths of Greece and
 Rome. London, Ernest Benn, Ltd.
 
 ------------------------------------------------------------------------
 
-[Next: Latin](omw07)
+[Next: Latin](omw07.md)

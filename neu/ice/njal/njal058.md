@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal057)  [Next](njal059) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal057)  [Next](njal059.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ be the greatest friendship between them.
 
 ------------------------------------------------------------------------
 
-[Next: 59. Of Asgrim And Wolf Uggis' Son](njal059)
+[Next: 59. Of Asgrim And Wolf Uggis' Son](njal059.md)

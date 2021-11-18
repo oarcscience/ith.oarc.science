@@ -1,9 +1,9 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
-# Antiquities of the Jews -- Preface <span id="EndNote Ant Pre.1a"></span><sup>[(1)](#EndNote%20Ant%20Pre.1b)</sup>
+# Antiquities of the Jews -- Preface <span id="EndNote Ant Pre.1a"></span><sup>[(1)](#EndNote%20Ant%20Pre.1b.md)</sup>
 
 1\. THOSE who undertake to write histories, do not, I perceive, take
 that trouble on one and the same account, but for many reasons, and
@@ -29,11 +29,11 @@ writings.
 
 2\. Now I have undertaken the present work, as thinking it will appear
 to all the Greeks <span
-id="EndNote Ant Pre.2a"></span>[(2)](#EndNote%20Ant%20Pre.2b) worthy of
+id="EndNote Ant Pre.2a"></span>[(2)](#EndNote%20Ant%20Pre.2b.md) worthy of
 their study; for it will contain all our antiquities, and the
 constitution of our government, as interpreted out of the Hebrew
 Scriptures. And indeed I did formerly intend, when I wrote of the war,
-<span id="EndNote Ant Pre.3a"></span>[(3)](#EndNote%20Ant%20Pre.3b) to
+<span id="EndNote Ant Pre.3a"></span>[(3)](#EndNote%20Ant%20Pre.3b.md) to
 explain who the Jews originally were, - what fortunes they had been
 subject to, - and by what legislature they had been instructed in piety,
 and the exercise of other virtues, - what wars also they had made in
@@ -46,7 +46,7 @@ large subject, and a difficult thing to translate our history into a
 foreign, and to us unaccustomed language. However, some persons there
 were who desired to know our history, and so exhorted me to go on with
 it; and, above all the rest, Epaphroditus, <span
-id="EndNote Ant Pre.4a"></span>[(4)](#EndNote%20Ant%20Pre.4b) a man who
+id="EndNote Ant Pre.4a"></span>[(4)](#EndNote%20Ant%20Pre.4b.md) a man who
 is a lover of all kind of learning, but is principally delighted with
 the knowledge of history, and this on account of his having been himself
 concerned in great affairs, and many turns of fortune, and having shown
@@ -86,7 +86,7 @@ felicity is proposed by God; but then it is to those that follow his
 will, and do not venture to break his excellent laws: and that so far as
 men any way apostatize from the accurate observation of them, what was
 practical before becomes impracticable <span
-id="EndNote Ant Pre.5a"></span>[(5)](#EndNote%20Ant%20Pre.5b) and
+id="EndNote Ant Pre.5a"></span>[(5)](#EndNote%20Ant%20Pre.5b.md) and
 whatsoever they set about as a good thing, is converted into an
 incurable calamity. And now I exhort all those that peruse these books,
 to apply their minds to God; and to examine the mind of our legislator,
@@ -145,7 +145,7 @@ explication plainly and expressly. However, those that have a mind to
 know the reasons of every thing, may find here a very curious
 philosophical theory, which I now indeed shall wave the explication of;
 but if God afford me time for it, I will set about writing it <span
-id="EndNote Ant Pre.6a"></span>[(6)](#EndNote%20Ant%20Pre.6b) after I
+id="EndNote Ant Pre.6a"></span>[(6)](#EndNote%20Ant%20Pre.6b.md) after I
 have finished the present work. I shall now betake myself to the history
 before me, after I have first mentioned what Moses says of the creation
 of the world, which I find described in the sacred books after the
@@ -155,32 +155,32 @@ manner following.
 
 ENDNOTES
 
-<span id="EndNote Ant Pre.1b"></span>[(1)](#EndNote%20Ant%20Pre.1a) This
+<span id="EndNote Ant Pre.1b"></span>[(1)](#EndNote%20Ant%20Pre.1a.md) This
 preface of Josephus is excellent in its kind, and highly worthy the
 repeated perusal of the reader, before he set about the perusal of the
 work itself.
 
-<span id="EndNote Ant Pre.2b"></span>[(2)](#EndNote%20Ant%20Pre.2a)That
+<span id="EndNote Ant Pre.2b"></span>[(2)](#EndNote%20Ant%20Pre.2a.md)That
 is, all the Gentiles, both Greeks and Romans.
 
-<span id="EndNote Ant Pre.3b"></span>[(3)](#EndNote%20Ant%20Pre.3a) We
+<span id="EndNote Ant Pre.3b"></span>[(3)](#EndNote%20Ant%20Pre.3a.md) We
 may seasonably note here, that Josephus wrote his Seven Books of the
 Jewish War long before he wrote these his Antiquities. Those books of
 the War were published about A.D. 75, and these Antiquities, A. D. 93,
 about eighteen years later.
 
-<span id="EndNote Ant Pre.4b"></span>[(4)](#EndNote%20Ant%20Pre.4a) This
+<span id="EndNote Ant Pre.4b"></span>[(4)](#EndNote%20Ant%20Pre.4a.md) This
 Epaphroditus was certainly alive in the third year of Trajan, A.D. 100.
 See the note on the First Book Against Apion, sect. 1. Who he was we do
 not know; for as to Epaphroditus, the freedman of Nero, and afterwards
 Domitian's secretary, who was put to death by Domitian in the 14th or
 15th year of his reign, he could not be alive in the third of Trajan.
 
-<span id="EndNote Ant Pre.5b"></span>[(5)](#EndNote%20Ant%20Pre.5a)
+<span id="EndNote Ant Pre.5b"></span>[(5)](#EndNote%20Ant%20Pre.5a.md)
 Josephus here plainly alludes to the famous Greek proverb, If God be
 with us, every thing that is impossible becomes possible.
 
-<span id="EndNote Ant Pre.6b"></span>[(6)](#EndNote%20Ant%20Pre.6a) As
+<span id="EndNote Ant Pre.6b"></span>[(6)](#EndNote%20Ant%20Pre.6a.md) As
 to this intended work of Josephus concerning the reasons of many of the
 Jewish laws, and what philosophical or allegorical sense they would
 bear, the loss of which work is by some of the learned not much
@@ -192,4 +192,4 @@ perhaps nobody, neither among the Jews, nor among the Christians, can
 now inform us of; so that I would give a great deal to find it still
 extant."
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inca](../index) [Index](index) [Previous](rly01) [Next](rly1)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inca](../index) [Index](index) [Previous](rly01) [Next](rly1.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ position in the hospital at Cuzco. In his opening address to the bishop,
 he mentions a previous account which he had submitted, on the origin,
 history, and government of the Yncas. Fortunately this account has been
 preserved, by Miguel Cavello Balboa,<span
-id="page_viii_fr_1"></span>[1](#page_viii_note_1) who tells us that his
+id="page_viii_fr_1"></span>[1](#page_viii_note_1.md) who tells us that his
 history is based on the <span id="page_ix">p. ix</span> learned writings
 of Christoval de Molina. The present manuscript shows the importance of
 Molina as an authority, and a special value is thus given to Balboa's
@@ -79,13 +79,13 @@ animation to the universe," or "He who does to the universe what the
 soul does to the body;" that they held Him in much greater inward
 veneration than the Sun; but that they did not build temples to him,
 <span id="page_x">p. x</span> nor offer him sacrifices.<span
-id="page_x_fr_2"></span>[2](#page_x_note_2) He quotes from Blas Valera,
+id="page_x_fr_2"></span>[2](#page_x_note_2.md) He quotes from Blas Valera,
 that all subjugated tribes were ordered to worship the most powerful god
 Ticci-Uira-ccocha, otherwise called Pachacamac;<span
-id="page_x_fr_3"></span>[3](#page_x_note_3) and in another place, he
+id="page_x_fr_3"></span>[3](#page_x_note_3.md) and in another place, he
 says that the temple of Pachacamac, on the sea-coast, was the only one
 to the Supreme Being throughout the whole of Peru.<span
-id="page_x_fr_4"></span>[4](#page_x_note_4)
+id="page_x_fr_4"></span>[4](#page_x_note_4.md)
 
  I have discussed the questions relating to the temple on the sea coast,
 in my introduction to the "Reports on the Discovery of Peru" (Hakluyt
@@ -108,13 +108,13 @@ id="page_xi">p. xi</span> conquering *Uiracocha*. Respecting the meaning
 of the word *Uira-cocha*, I am at present doubtful; but Garcilasso has
 clearly shown that it does not mean, as has been suggested by writers
 unacquainted with the language, "the foam of the sea."<span
-id="page_xi_fr_5"></span>[5](#page_xi_note_5) The usual names for the
+id="page_xi_fr_5"></span>[5](#page_xi_note_5.md) The usual names for the
 god of the Yncas, and those which occur in their prayers, are
 Pachayachachic Aticsi-Uiracocha. Molina relates that one of the Yncas
 erected a temple to the Supreme Being at Cuzco,<span
-id="page_xi_fr_6"></span>[6](#page_xi_note_6) on a site now occupied by
+id="page_xi_fr_6"></span>[6](#page_xi_note_6.md) on a site now occupied by
 the Church of the Nazarenes, and in Molina's days by the house of Hernan
-Lopez de Segovia.<span id="page_xi_fr_7"></span>[7](#page_xi_note_7) The
+Lopez de Segovia.<span id="page_xi_fr_7"></span>[7](#page_xi_note_7.md) The
 Indian Salcamayhua also mentions this temple, and it is quite true that
 on the site indicated, there are the walls of an ancient edifice, with
 serpents carved in relief on the stones. Molina adds, that there was a
@@ -147,47 +147,47 @@ words to the rich idiom of the Yncas; but a vast number of Quichua words
 were adopted by the Collas. Two or three Colla words, however, occur in
 the manuscripts of Molina and Salcamayhua, which may give rise to
 speculation. According to Molina, the Ynca name for the sun was
-*Punchau*,<span id="page_xii_fr_8"></span>[8](#page_xii_note_8) the god
+*Punchau*,<span id="page_xii_fr_8"></span>[8](#page_xii_note_8.md) the god
 of day, and not *Ynti*, as given by Garcilasso. In the prayers, the word
 used is always *Punchau*. But Salcamayhua records a speech which the
 chief of the Collas made to the Ynca: "Thou art Lord of Cuzco, I am Lord
 of the Collas. I have a silver throne, thy throne is of gold. Thou art a
 worshipper of Uira-ccocha Pachayachachic. <span id="page_xiii">p.
 xiii</span> I worship Ynti."<span
-id="page_xiii_fr_9"></span>[9](#page_xiii_note_9) Further on we are told
+id="page_xiii_fr_9"></span>[9](#page_xiii_note_9.md) Further on we are told
 that Ynti was the god of the Collas,<span
-id="page_xiii_fr_1"></span>[1](#page_xiii_note_1) and that the Ynca
+id="page_xiii_fr_1"></span>[1](#page_xiii_note_1.md) and that the Ynca
 adopted the name when he set up an image at Titicaca.<span
-id="page_xiii_fr_2"></span>[2](#page_xiii_note_2) According to these
+id="page_xiii_fr_2"></span>[2](#page_xiii_note_2.md) According to these
 accounts, Punchau was the sun-god of the Yncas, and Ynti was that of the
 Collas. Yet the modern word for the sun, in the Collao, is *Lupi*, from
 the Quichua word *Rupay*, meaning heat and warmth. The word for the moon
 in the Colla dialect (*Pacsa*) also occurs twice in the manuscript of
 Molina. He speaks of *Pacsa-mama*,<span
-id="page_xiii_fr_3"></span>[3](#page_xiii_note_3) in one place, as the
+id="page_xiii_fr_3"></span>[3](#page_xiii_note_3.md) in one place, as the
 name of the moon-god, the Quichua word being *Quilla*; and he gives two
 names for the month of July.<span
-id="page_xiii_fr_4"></span>[4](#page_xiii_note_4) One is
+id="page_xiii_fr_4"></span>[4](#page_xiii_note_4.md) One is
 *Tarpui-quilla*, composed of two Quichua words, meaning "the sowing
 month." The other is *Moron-pasca*, the last word being the Colla name
 for the moon.
 
  A fourth point of interest is the additional proof furnished in these
 manuscripts of the antiquity of the Quichua drama of Ollanta.<span
-id="page_xiii_fr_5"></span>[5](#page_xiii_note_5) Hitherto no evidence
+id="page_xiii_fr_5"></span>[5](#page_xiii_note_5.md) Hitherto no evidence
 has been discovered of the word *Ollanta* being as old as the time of
 the Yncas; and the place now called Ollantay-tampu, the traditionary
 scene of the events recorded in the drama, is simply called Tampu by all
 other old Spanish writers. But both Molina<span
-id="page_xiii_fr_6"></span>[6](#page_xiii_note_6) and Salcamayhua<span
-id="page_xiii_fr_7"></span>[7](#page_xiii_note_7) speak of it as
+id="page_xiii_fr_6"></span>[6](#page_xiii_note_6.md) and Salcamayhua<span
+id="page_xiii_fr_7"></span>[7](#page_xiii_note_7.md) speak of it as
 Ollanta-tampu. This is a proof that the name is not of modern origin.
 <span id="page_xiv">p. xiv</span> In the introduction to my translation
 of the Quichua drama,<span
-id="page_xiv_fr_8"></span>[8](#page_xiv_note_8) I gave a derivation of
+id="page_xiv_fr_8"></span>[8](#page_xiv_note_8.md) I gave a derivation of
 the word Ollanta, suggested by Señor Barranca. A more probable etymology
 has since been given by Dr. Vicente Lopez.<span
-id="page_xiv_fr_9"></span>[9](#page_xiv_note_9) *Oll*, he says, should
+id="page_xiv_fr_9"></span>[9](#page_xiv_note_9.md) *Oll*, he says, should
 be *Uill* or *Uilla*, a legend, from *Uillani* (I record); and *Anta*,
 the Andes—*Ollanta*, "a legend of the Andes." So that before the Spanish
 conquest, as we now learn from Molina and Salcamayhua, there was a place
@@ -199,12 +199,12 @@ another *Hayachuco*, and others.
  The full details of Ynca ceremonies given by Molina furnish incidental
 evidence of the truthfulness of Garcilasso de la Vega. Thus the account
 of the feast of *Situa*, in the *Royal commentaries*,<span
-id="page_xiv_fr_1"></span>[1](#page_xiv_note_1) would serve as a very
+id="page_xiv_fr_1"></span>[1](#page_xiv_note_1.md) would serve as a very
 accurate abstract of the fuller and more detailed narrative of
-Molina.<span id="page_xiv_fr_2"></span>[2](#page_xiv_note_2) Garcilasso
+Molina.<span id="page_xiv_fr_2"></span>[2](#page_xiv_note_2.md) Garcilasso
 wrote from memory, forty years after he had left Peru, with the aid of
 letters from correspondents.<span
-id="page_xiv_fr_3"></span>[3](#page_xiv_note_3) His main object was to
+id="page_xiv_fr_3"></span>[3](#page_xiv_note_3.md) His main object was to
 publish a commentary, correcting the errors of Spanish authors who
 professed to give a history of the Yncas without being acquainted with
 their language. In doing this, he added much precious information from
@@ -235,7 +235,7 @@ now given in English, are in some cases far from literal. Under these
 circumstances I have thought the best course would be to give all the
 Quichua words in an alphabetical index, with the <span id="page_xvi">p.
 xvi</span> English meanings of those which can be recognized.<span
-id="page_xvi_fr_4"></span>[4](#page_xvi_note_4) The translations in the
+id="page_xvi_fr_4"></span>[4](#page_xvi_note_4.md) The translations in the
 text give the meaning of the Quichua with general accuracy.
 
  The second Report, entitled "An Account of the Antiquities of Peru," by
@@ -295,7 +295,7 @@ plain from the latitude of Lima to that of Pachacamac. Avila
 unconsciously furnishes evidence that the inhabitants of Huarochiri
 originally came from the coast. "They declare," he says, "that in the
 days of Coniraya their country was *yunca*,"<span
-id="page_xviii_fr_5"></span>[5](#page_xviii_note_5) "and that the crops
+id="page_xviii_fr_5"></span>[5](#page_xviii_note_5.md) "and that the crops
 ripened in five days." Avila enters into an elaborate explanation to
 prove that this is impossible. But obviously the tradition referred to
 the time when the ancestors of the Huarochiri people inhabited the
@@ -304,27 +304,27 @@ the time when the ancestors of the Huarochiri people inhabited the
  The sources of information respecting the civilized race of the
 Peruvian coast are very scanty, and consequently very precious. We have
 the silent testimony of the grand ruins of Chimu near Truxillo,<span
-id="page_xviii_fr_6"></span>[6](#page_xviii_note_6) and in other coast
+id="page_xviii_fr_6"></span>[6](#page_xviii_note_6.md) and in other coast
 valleys, of the great mounds, and of the works of irrigation. There is a
 grammar and vocabulary of their language, written by Fernando de la
 Carrera in 1644; and the Lord's Prayer in *Mochica*, one of their
 dialects, preserved by Bishop Orè, and published at Naples in 1602.
-Cieza de Leon<span id="page_xviii_fr_7"></span>[7](#page_xviii_note_7)
+Cieza de Leon<span id="page_xviii_fr_7"></span>[7](#page_xviii_note_7.md)
 travelled through the coast valleys in the early <span id="page_xix">p.
 xix</span> days of the Spanish conquest, and gave an interesting account
 of what he saw, to which Garcilasso de la Vega<span
-id="page_xix_fr_8"></span>[8](#page_xix_note_8) has added some
+id="page_xix_fr_8"></span>[8](#page_xix_note_8.md) has added some
 additional particulars. Balboa<span
-id="page_xix_fr_9"></span>[9](#page_xix_note_9) relates the legends of
+id="page_xix_fr_9"></span>[9](#page_xix_note_9.md) relates the legends of
 the coast Indians of Lambayeque respecting their first arrival by sea;
 and the curious report of Arriaga<span
-id="page_xix_fr_1"></span>[1](#page_xix_note_1) on the destruction of
+id="page_xix_fr_1"></span>[1](#page_xix_note_1.md) on the destruction of
 idols in the provinces of Yauyos and Conchucos, has some bearing on the
 people of the coast. But here again great care must be taken to
 eliminate all Ynca words and ideas, before use can be made of the
 report, in an inquiry as to the Yuncas of the sea board. A still more
 remarkable report was made by an Augustin<span
-id="page_xix_fr_2"></span>[2](#page_xix_note_2) friar, in 1555, on the
+id="page_xix_fr_2"></span>[2](#page_xix_note_2.md) friar, in 1555, on the
 idolatry and superstitions of the inhabitants of the province of
 Huamachuco, which, like Conchucos, Yauyos, and Huarochiri, overhangs the
 coast valleys. It is from these scanty materials that some knowledge can
@@ -359,7 +359,7 @@ American races.
 
 ------------------------------------------------------------------------
 
-[Next](rly1)
+[Next](rly1.md)
 
 ------------------------------------------------------------------------
 
@@ -367,7 +367,7 @@ American races.
 
 <span id="footnotes_page_viii">p. viii</span>
 
-<span id="page_viii_note_1"></span>[1](#page_viii_fr_1) A French
+<span id="page_viii_note_1"></span>[1](#page_viii_fr_1.md) A French
 translation of the work of Balboa was published by Ternaux Compans, in
 the sccond series of his translations, in 1840. <span
 id="footnotes_page_ix">p. ix</span> Balboa commenced his work at Quito
@@ -376,101 +376,101 @@ prosecuting his researches at Cuzco.
 
 <span id="footnotes_page_x">p. x</span>
 
-<span id="page_x_note_2"></span>[2](#page_x_fr_2) G. de la Vega, i, p.
+<span id="page_x_note_2"></span>[2](#page_x_fr_2.md) G. de la Vega, i, p.
 106.
 
-<span id="page_x_note_3"></span>[3](#page_x_fr_3) *Ibid*., ii, p. 38.
+<span id="page_x_note_3"></span>[3](#page_x_fr_3.md) *Ibid*., ii, p. 38.
 
-<span id="page_x_note_4"></span>[4](#page_x_fr_4) *Ibid*., ii, p. 186.
+<span id="page_x_note_4"></span>[4](#page_x_fr_4.md) *Ibid*., ii, p. 186.
 
 <span id="footnotes_page_xi">p. xi</span>
 
-<span id="page_xi_note_5"></span>[5](#page_xi_fr_5) G. de la Vega, ii,
+<span id="page_xi_note_5"></span>[5](#page_xi_fr_5.md) G. de la Vega, ii,
 p. 66.
 
-<span id="page_xi_note_6"></span>[6](#page_xi_fr_6) [P.
-11](rly1.htm#page_11).
+<span id="page_xi_note_6"></span>[6](#page_xi_fr_6.md) [P.
+11](rly1.htm#page_11.md).
 
-<span id="page_xi_note_7"></span>[7](#page_xi_fr_7) [P.
-11](rly1.htm#page_11).
+<span id="page_xi_note_7"></span>[7](#page_xi_fr_7.md) [P.
+11](rly1.htm#page_11.md).
 
 <span id="footnotes_page_xii">p. xii</span>
 
-<span id="page_xii_note_8"></span>[8](#page_xii_fr_8) See also *Arriaga.
+<span id="page_xii_note_8"></span>[8](#page_xii_fr_8.md) See also *Arriaga.
 Extirpacion de la idolatria del Peru.*
 
 <span id="footnotes_page_xiii">p. xiii</span>
 
-<span id="page_xiii_note_9"></span>[9](#page_xiii_fr_9) [P.
-90](rly2.htm#page_90).
+<span id="page_xiii_note_9"></span>[9](#page_xiii_fr_9.md) [P.
+90](rly2.htm#page_90.md).
 
-<span id="page_xiii_note_1"></span>[1](#page_xiii_fr_1) [P.
-101](rly2.htm#page_101).
+<span id="page_xiii_note_1"></span>[1](#page_xiii_fr_1.md) [P.
+101](rly2.htm#page_101.md).
 
-<span id="page_xiii_note_2"></span>[2](#page_xiii_fr_2) [P.
-112](rly2.htm#page_112).
+<span id="page_xiii_note_2"></span>[2](#page_xiii_fr_2.md) [P.
+112](rly2.htm#page_112.md).
 
-<span id="page_xiii_note_3"></span>[3](#page_xiii_fr_3) [P.
-37](rly1.htm#page_37).
+<span id="page_xiii_note_3"></span>[3](#page_xiii_fr_3.md) [P.
+37](rly1.htm#page_37.md).
 
-<span id="page_xiii_note_4"></span>[4](#page_xiii_fr_4). [P.
-19](rly1.htm#page_19).
+<span id="page_xiii_note_4"></span>[4](#page_xiii_fr_4.md). [P.
+19](rly1.htm#page_19.md).
 
-<span id="page_xiii_note_5"></span>[5](#page_xiii_fr_5) See "*Ollanta,
+<span id="page_xiii_note_5"></span>[5](#page_xiii_fr_5.md) See "*Ollanta,
 an ancient Ynca Drama, translated from the original Quichua, by Clements
 R. Markham, C. B. (Trübner,* 1871*.)*
 
-<span id="page_xiii_note_6"></span>[6](#page_xiii_fr_6) [P.
-51](rly1.htm#page_51).
+<span id="page_xiii_note_6"></span>[6](#page_xiii_fr_6.md) [P.
+51](rly1.htm#page_51.md).
 
-<span id="page_xiii_note_7"></span>[7](#page_xiii_fr_7) [P.
-116](rly2.htm#page_116).
+<span id="page_xiii_note_7"></span>[7](#page_xiii_fr_7.md) [P.
+116](rly2.htm#page_116.md).
 
 <span id="footnotes_page_xiv">p. xiv</span>
 
-<span id="page_xiv_note_8"></span>[8](#page_xiv_fr_8) P. 11.
+<span id="page_xiv_note_8"></span>[8](#page_xiv_fr_8.md) P. 11.
 
-<span id="page_xiv_note_9"></span>[9](#page_xiv_fr_9) *Les races
+<span id="page_xiv_note_9"></span>[9](#page_xiv_fr_9.md) *Les races
 Aryennes du Pérou*, p. 327.
 
-<span id="page_xiv_note_1"></span>[1](#page_xiv_fr_1) See my
+<span id="page_xiv_note_1"></span>[1](#page_xiv_fr_1.md) See my
 translation, ii, p. 228.
 
-<span id="page_xiv_note_2"></span>[2](#page_xiv_fr_2) [Pp.
-20](rly1.htm#page_20)-34.
+<span id="page_xiv_note_2"></span>[2](#page_xiv_fr_2.md) [Pp.
+20](rly1.htm#page_20.md)-34.
 
-<span id="page_xiv_note_3"></span>[3](#page_xiv_fr_3) See my translation
+<span id="page_xiv_note_3"></span>[3](#page_xiv_fr_3.md) See my translation
 of the *Royal Commentaries*, i, p. 76.
 
 <span id="footnotes_page_xvi">p. xvi</span>
 
-<span id="page_xvi_note_4"></span>[4](#page_xvi_fr_4) See p. 186.
+<span id="page_xvi_note_4"></span>[4](#page_xvi_fr_4.md) See p. 186.
 
 <span id="footnotes_page_xviii">p. xviii</span>
 
-<span id="page_xviii_note_5"></span>[5](#page_xviii_fr_5) *Yunca* is a
+<span id="page_xviii_note_5"></span>[5](#page_xviii_fr_5.md) *Yunca* is a
 warm tropical plain or valley.
 
-<span id="page_xviii_note_6"></span>[6](#page_xviii_fr_6) Described by
+<span id="page_xviii_note_6"></span>[6](#page_xviii_fr_6.md) Described by
 Rivero, and photographed, in detail, by Mr. Squier.
 
-<span id="page_xviii_note_7"></span>[7](#page_xviii_fr_7) See my
+<span id="page_xviii_note_7"></span>[7](#page_xviii_fr_7.md) See my
 translation, pp. 233-63.
 
 <span id="footnotes_page_xix">p. xix</span>
 
-<span id="page_xix_note_8"></span>[8](#page_xix_fr_8) See my
+<span id="page_xix_note_8"></span>[8](#page_xix_fr_8.md) See my
 translation, ii, pp. 147, 154, 185, 193, 195, 424, 428, 460.
 
-<span id="page_xix_note_9"></span>[9](#page_xix_fr_9) P. 89 (Ternaux
+<span id="page_xix_note_9"></span>[9](#page_xix_fr_9.md) P. 89 (Ternaux
 Compans' ed.)
 
-<span id="page_xix_note_1"></span>[1](#page_xix_fr_1) *Extirpacion de la
+<span id="page_xix_note_1"></span>[1](#page_xix_fr_1.md) *Extirpacion de la
 idolatria del Peru, dirigido al Rey N.S., en su real Consejo de Indias:
 por el Padre Pablo Joseph de Arriaga de la Compania de Jesus* (*Lima*,
 1621.).
 
-<span id="page_xix_note_2"></span>[2](#page_xix_fr_2) Translated into
+<span id="page_xix_note_2"></span>[2](#page_xix_fr_2.md) Translated into
 French by M. Ternaux Compans, in his *Recueil de Documents et Mémoires
 originaux sur l'Histoire des Possessions Espagnoles dans l'Amérique*
 (*Paris*, 1840), p. 85.

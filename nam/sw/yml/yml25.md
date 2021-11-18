@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml24)  [Next](yml26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml24)  [Next](yml26.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ and carried with it the great turtle, Kaiman. Thus has it been said.
 When the waters receded this great animal remained on the ground among
 the trees. And it could not raise itself.
 
-After the flood, a Yaqui [encountered](errata.htm#4) this Kaiman
+After the flood, a Yaqui [encountered](errata.htm#4.md) this Kaiman
 stretched in the sun. When the Yaquis see such a thing, they always feel
 pity. This trait of the Yaquis is very stupid. The man placed the huge
 Kaiman on his shoulders. It was heavy. And he carried it to the river.
@@ -121,4 +121,4 @@ And Coyote ate Kaiman. LC
 
 ------------------------------------------------------------------------
 
-[Next: The Big Bird](yml26)
+[Next: The Big Bird](yml26.md)

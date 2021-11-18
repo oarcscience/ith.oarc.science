@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes42)  [Next](tes44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes42)  [Next](tes44.md) 
 
 ------------------------------------------------------------------------
 
-### 22. THE TALE OF LA'LA. <span id="fr_70"></span>[2](#fn_70)
+### 22. THE TALE OF LA'LA. <span id="fr_70"></span>[2](#fn_70.md)
 
 (*Kolyma Version*)
 
@@ -22,7 +22,7 @@ working the lad climbed a high tree, and was playing among the thin
 branches near the top. He played there, and looked homeward. From the
 top of the tree he could see their house and everything around. He
 played there for some time, and said suddenly, "Khadya, <span
-id="fr_71"></span>[3](#fn_71) there are the Chukchee, coming to
+id="fr_71"></span>[3](#fn_71.md) there are the Chukchee, coming to
 
 <span id="page_91">p. 91</span>
 
@@ -65,7 +65,7 @@ quiver. You must watch me; and if I succeed in getting them, at that
 very moment you must appear, and run within shooting distance. Glide in
 among the sledges, turn in zigzag directions, and try not to be
 hit."--"How shall I do it?" said the young man. "Are you not a
-Yukaghir?" <span id="fr_72"></span>[1](#fn_72) said La'la. You must know
+Yukaghir?" <span id="fr_72"></span>[1](#fn_72.md) said La'la. You must know
 how to
 
 <span id="page_92">p. 92</span>
@@ -101,9 +101,9 @@ arrows), but nobody could so much as graze it. It turned again and ran
 away up the trail. The young men followed it, shooting and shouting. Two
 old men were sitting on a pack-sledge looking on at the chase. One said
 in his mother tongue, "He, he, he! La'la monia'lo khanidula," <span
-id="fr_73"></span>[1](#fn_73) which means, "Be careful, boys! La'la will
+id="fr_73"></span>[1](#fn_73.md) which means, "Be careful, boys! La'la will
 tear the stomach out of your bodies." <span
-id="fr_74"></span>[2](#fn_74) "Why have you given him the bow and the
+id="fr_74"></span>[2](#fn_74.md) "Why have you given him the bow and the
 quiver?" His neighbor, however, nudged him with his elbow. "You fool!
 Hold your tongue!" The young people, however, did not listen to any one,
 and ran on. La'la followed in the rear, and one by one he killed the
@@ -201,7 +201,7 @@ the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_70"></span>[90:2](tes43.htm#fr_70) This story is very
+<span id="fn_70"></span>[90:2](tes43.htm#fr_70.md) This story is very
 interesting, because it treats of La'la, the tribal hero of the
 Chuvantzi, whose name is known to the present day among the last
 remnants of this tribe, and also speaks of the wars between the
@@ -213,21 +213,21 @@ interchange of these two tribal names, adds to the probability that the
 Chuvantzi were a branch of the Yukaghir tribe (Bogoras, "The Chukchee,"
 15).--W. B.
 
-<span id="fn_71"></span>[90:3](tes43.htm#fr_71) This word was indicated
+<span id="fn_71"></span>[90:3](tes43.htm#fr_71.md) This word was indicated
 as belonging to the Chuvantzi language. It is supposed to mean "elder
 brother".--W. B.
 
-<span id="fn_72"></span>[91:1](tes43.htm#fr_72) But the word "Khadya" a
+<span id="fn_72"></span>[91:1](tes43.htm#fr_72.md) But the word "Khadya" a
 little above was indicated as Chuvantzi. Cf. Anadyr version, footnote,
 p. 95--W. B.
 
-<span id="fn_73"></span>[92:1](tes43.htm#fr_73) These words were also
+<span id="fn_73"></span>[92:1](tes43.htm#fr_73.md) These words were also
 said to belong to the Chuvantzi language--W. B.
 
-<span id="fn_74"></span>[92:2](tes43.htm#fr_74) In dressing the
+<span id="fn_74"></span>[92:2](tes43.htm#fr_74.md) In dressing the
 hunting-quarry, the belly is ripped up, and the stomach and other
 intestines are immediately pulled out--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 23. The Tale Of La'la (Anadyr Version)](tes44)
+[Next: 23. The Tale Of La'la (Anadyr Version)](tes44.md)

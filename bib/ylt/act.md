@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](joh)  [Next](rom) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](joh)  [Next](rom.md) 
 
 ------------------------------------------------------------------------
 
@@ -3852,4 +3852,4 @@ teaching the things concerning the Lord Jesus Christ with all boldness
 
 ------------------------------------------------------------------------
 
-[Next: Romans](rom)
+[Next: Romans](rom.md)

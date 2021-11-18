@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cvmc05)  [Next](cvmc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cvmc05)  [Next](cvmc07.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ effort stimulates the brain, keeps
 
 <span id="page_41">p. 41</span>
 
-it pumping energy to the [muscles](errata.htm#0), until finally the
+it pumping energy to the [muscles](errata.htm#0.md), until finally the
 muscles refuse to act, because both mind and brain are fatigued. And
 this fatigue, it is said, generates a poison which affects the blood.
 
@@ -134,4 +134,4 @@ eagerly sought.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Imagination](cvmc07)
+[Next: V. The Imagination](cvmc07.md)

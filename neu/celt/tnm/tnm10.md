@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
-[Iceland](../../ice/index)  [Index](index)  [Previous](tnm09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
+[Iceland](../../ice/index)  [Index](index)  [Previous](tnm09.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 [![PLATE X.&lt;br&gt; FIG.
 1.                                        FIG. 2.&lt;br&gt; FRAGMENT
 FROM KIRK ANDREAS.&lt;br&gt; ODIN AND THE FENRI WOLF.](tn/pl10.jpg)  
-Click to enlarge](img/pl10.jpg)  
+Click to enlarge](img/pl10.jpg.md)  
 PLATE X.  
 FIG. 1.                                        FIG. 2.  
 FRAGMENT FROM KIRK ANDREAS.  
@@ -18,13 +18,13 @@ ODIN AND THE FENRI WOLF.
 
 ### VIII.--ODIN AND THE FENRI MONSTER.
 
-Lastly ([pl. X.](#img_pl10)), I show a very interesting little piece
+Lastly ([pl. X.](#img_pl10).md), I show a very interesting little piece
 from Andreas. Unfortunately, like so many others, it is but a fragment.
 
 One face (fig. 1) bears, below the right arm of the cross, a figure of a
 Man with a Spear attacked by a Wolf; above his shoulder a Raven.
 
-Undoubtedly this is Odin, <span id="fr_22"></span>[1](#fn_22) who meets
+Undoubtedly this is Odin, <span id="fr_22"></span>[1](#fn_22.md) who meets
 the monstrous Fenri Wolf in the dreadful Day of Doom, of which we are
 told by the Sybils in "Volu-spa":--"The Ash of the Steed of the Hanged
 One shall quiver, and there shall be no part of heaven and earth that
@@ -67,7 +67,7 @@ Bemrose & Sons, Ltd., Printers, London, Watford, and Derby.
 
 ### Footnotes
 
-<span id="fn_22"></span>[29:1](tnm10.htm#fr_22) Odin on Sleipner, the
+<span id="fn_22"></span>[29:1](tnm10.htm#fr_22.md) Odin on Sleipner, the
 Wolf, Heimdall, and Widar rending the Wolf's jaws appear on the Gosforth
 Cross, that wonderful monument, the deciphering of which, by Mr.
 Calverley, led the Rev. G. F. Browne, lecturing at Cambridge in

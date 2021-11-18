@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb66)  [Next](wfb68) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb66)  [Next](wfb68.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ never heard or seen at the Trwyn.
 
 ------------------------------------------------------------------------
 
-[Next: John Gethin and the Candle](wfb68)
+[Next: John Gethin and the Candle](wfb68.md)

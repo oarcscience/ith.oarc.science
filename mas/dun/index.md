@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](dun00)    [Page
-Index](pageidx)    [Text \[Zipped\]](dun.txt.gz)
+[Contents](#contents)    [Start Reading](dun00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](dun.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -47,14 +47,14 @@ who need a review.
 
 ------------------------------------------------------------------------
 
-[Title Page](dun00)  
-[Preface](dun01)  
-[Entered Apprentice, or First Degrees](dun02)  
-[Fellow Craft, or Second Degree](dun03)  
-[Master Mason, or Third Degree](dun04)  
-[Mark Master, or Fourth Degree](dun05)  
-[Past Master, or Fifth Degree](dun06)  
-[Most Excellent Master, or Sixth Degree](dun07)  
-[Royal Arch, or Seventh Degree](dun08)  
-[Extracts from a Dictionary of Masonry](dun09)  
-[Appendix](dun10)  
+[Title Page](dun00.md)  
+[Preface](dun01.md)  
+[Entered Apprentice, or First Degrees](dun02.md)  
+[Fellow Craft, or Second Degree](dun03.md)  
+[Master Mason, or Third Degree](dun04.md)  
+[Mark Master, or Fourth Degree](dun05.md)  
+[Past Master, or Fifth Degree](dun06.md)  
+[Most Excellent Master, or Sixth Degree](dun07.md)  
+[Royal Arch, or Seventh Degree](dun08.md)  
+[Extracts from a Dictionary of Masonry](dun09.md)  
+[Appendix](dun10.md)  

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu16)  [Next](tmu18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu16)  [Next](tmu18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_113">p. 113</span>
 
-### ŚĀRĪRAKA-UPANISHAḌ <span id="fr_75"></span>[1](#fn_75)
+### ŚĀRĪRAKA-UPANISHAḌ <span id="fr_75"></span>[1](#fn_75.md)
 
 ### OF
 
@@ -104,13 +104,13 @@ Upanishaḍ.
 
 ### Footnotes
 
-<span id="fn_75"></span>[113:1](tmu17.htm#fr_75) This Upanishaḍ treats
+<span id="fn_75"></span>[113:1](tmu17.htm#fr_75.md) This Upanishaḍ treats
 of Sarīra or the body.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 16. Garbha-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu18)
+[Next: 16. Garbha-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu18.md)
 
 </div>

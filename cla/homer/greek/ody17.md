@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [English](../ody/ody16) 
-[Previous](ody16)  [Next](ody18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [English](../ody/ody16.md) 
+[Previous](ody16)  [Next](ody18.md) 
 
 ------------------------------------------------------------------------
 
@@ -1359,4 +1359,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Book 18](ody18)
+[Next: Book 18](ody18.md)

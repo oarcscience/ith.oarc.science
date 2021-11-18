@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits028) [Next](bits030)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits028) [Next](bits030.md)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ and having come into existence pass away.
 
 ------------------------------------------------------------------------
 
-[Next: § 30. The Six Organs of Sense](bits030)
+[Next: § 30. The Six Organs of Sense](bits030.md)
 
  
 

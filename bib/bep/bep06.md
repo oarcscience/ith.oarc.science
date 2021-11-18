@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](bep05)  [Next](bep07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](bep05)  [Next](bep07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Enoch the Prophet*, tr. by Richard Laurence, \[1883\], at
 Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ for thee. To thee I have revealed all, and have given thee books of
 everything.
 
 2\. Preserve, my son Mathusala, the books written by thy father; <span
-id="fr_186"></span>[1](#fn_184) that thou mayest transmit them to future
+id="fr_186"></span>[1](#fn_184.md) that thou mayest transmit them to future
 generations.
 
 3\. Wisdom have I given to thee, to thy children, and thy posterity,
@@ -52,16 +52,16 @@ four periods.
 compute them in the computation of every age; for they greatly err
 respecting them; nor do men know accurately that they are in the
 computation of the year. But indeed these are marked down <span
-id="fr_187"></span>[1](#fn_185) for ever; one in the first gate, one in
+id="fr_187"></span>[1](#fn_185.md) for ever; one in the first gate, one in
 the third, one in the fourth, and one in the sixth:
 
 7\. So that the year is completed in three hundred and sixty-four days.
 
-8\. Truly has been stated, <span id="fr_188"></span>[2](#fn_186) and
+8\. Truly has been stated, <span id="fr_188"></span>[2](#fn_186.md) and
 accurately has been computed that which is marked down; for the
 luminaries, the months, the fixed periods, the years, and the days,
 Uriel has explained to me, and communicated to me; <span
-id="fr_189"></span>[3](#fn_187) whom the Lord of all creation, on my
+id="fr_189"></span>[3](#fn_187.md) whom the Lord of all creation, on my
 account, commanded (according to the might of heaven, and the power
 which it possesses both by night and by day) to explain *the laws of*
 light to man, of the sun, moon, and stars, and of all the powers of
@@ -100,7 +100,7 @@ which themselves follow after those conductors of the stations, who
 divide the four quarters of the year.
 
 16\. In the first part of the year rises and rules Melkyas, who is named
-Tamani, and Zahay. <span id="fr_190"></span>[1](#fn_188)
+Tamani, and Zahay. <span id="fr_190"></span>[1](#fn_188.md)
 
 17\. All the days of his influence, *during* which he rules, are
 ninety-one days.
@@ -143,10 +143,10 @@ Keel, Heel.
 
 <span class="margnote"><span id="an_LXXXII">LXXXII</span></span>
 
-### CHAP. LXXXII. \[SECT. XVI. <span id="fr_191"></span>[1](#fn_189)\]
+### CHAP. LXXXII. \[SECT. XVI. <span id="fr_191"></span>[1](#fn_189.md)\]
 
 1\. And now I have shown thee, my son Mathusala, every sight which I saw
-prior to thy birth. <span id="fr_192"></span>[2](#fn_190) I will relate
+prior to thy birth. <span id="fr_192"></span>[2](#fn_190.md) I will relate
 another vision, which I saw before I was married; they resemble each
 other.
 
@@ -162,11 +162,11 @@ saw in a vision heaven purifying, and snatched away.
 great abyss; and mountains suspended over mountains.
 
 6\. Hills were sinking upon hills, lofty trees were gliding <span
-id="fr_193"></span>[3](#fn_191) off from their trunks, and were in the
+id="fr_193"></span>[3](#fn_191.md) off from their trunks, and were in the
 act of being projected, and of sinking into the abyss.
 
 7\. Being alarmed at these things, my voice faltered. <span
-id="fr_194"></span>[4](#fn_192) I cried out and said, The earth is
+id="fr_194"></span>[4](#fn_192.md) I cried out and said, The earth is
 destroyed. Then my grandfather Malalel raised me
 
 <span id="page_119">p. 119</span>
@@ -184,7 +184,7 @@ destruction take place.
 10\. Now, my son, rise up; and beseech the Lord of glory (for thou art
 faithful), that a remnant may be left upon earth, and that he would not
 wholly destroy it. My son, all this *calamity* upon earth comes down
-from heaven; <span id="fr_195"></span>[1](#fn_193) upon earth shall
+from heaven; <span id="fr_195"></span>[1](#fn_193.md) upon earth shall
 there be a great destruction.
 
 11\. Then I arose, prayed, and entreated; and wrote down my prayer for
@@ -193,9 +193,9 @@ the generations of the world, explaining everything to my son Mathusala.
 12\. When I went out below, and looking up to heaven, beheld the sun
 proceeding from the east, the moon descending to the west, a few
 *scattered* stars, and everything which God <span
-id="fr_196"></span>[2](#fn_194) has known from the beginning, I blessed
+id="fr_196"></span>[2](#fn_194.md) has known from the beginning, I blessed
 the Lord of judgment, and magnified him: because he hath sent forth the
-sun from the chambers <span id="fr_197"></span>[3](#fn_195) of the east;
+sun from the chambers <span id="fr_197"></span>[3](#fn_195.md) of the east;
 that, ascending and rising in the face of heaven, it might spring up,
 and pursue the path which has been pointed out to it.
 
@@ -227,7 +227,7 @@ things, seest and hearest them; nor is anything concealed from thee; for
 thou perceivest all things.
 
 5\. The angels of thy heavens have transgressed; and on mortal flesh
-shall thy wrath remain, <span id="fr_198"></span>[1](#fn_196) until the
+shall thy wrath remain, <span id="fr_198"></span>[1](#fn_196.md) until the
 day of the great judgment.
 
 <span id="page_121">p. 121</span>
@@ -241,12 +241,12 @@ for ever.
 
 8\. O my Lord, let the race perish from off the earth which has offended
 thee, but a righteous and upright race establish for a posterity <span
-id="fr_199"></span>[1](#fn_197) for ever. Hide not thy face, O Lord,
+id="fr_199"></span>[1](#fn_197.md) for ever. Hide not thy face, O Lord,
 from the prayer of thy servant.
 
 <span class="margnote"><span id="an_LXXXIV">LXXXIV</span></span>
 
-### CHAP. LXXXIV. \[SECT. XVII. <span id="fr_200"></span>[2](#fn_198)\]
+### CHAP. LXXXIV. \[SECT. XVII. <span id="fr_200"></span>[2](#fn_198.md)\]
 
 1\. After this I saw another dream, and explained it all to thee, my
 son. Enoch arose and said to his son Mathusala, To thee, my son, will I
@@ -258,8 +258,8 @@ father. Before I married thy mother Edna, I saw a vision on my bed;
 3\. And this cow was white.
 
 4\. Afterwards a female heifer sprung forth; and with it another
-heifer: <span id="fr_201"></span>[3](#fn_199) one of them was black, and
-one was red. <span id="fr_202"></span>[4](#fn_200)
+heifer: <span id="fr_201"></span>[3](#fn_199.md) one of them was black, and
+one was red. <span id="fr_202"></span>[4](#fn_200.md)
 
 <span id="page_122">p. 122</span>
 
@@ -299,7 +299,7 @@ them and followed each other.
 
 ### CHAP. LXXXV.
 
-1\. Again I looked attentively, <span id="fr_203"></span>[1](#fn_201)
+1\. Again I looked attentively, <span id="fr_203"></span>[1](#fn_201.md)
 while sleeping, and surveyed heaven above.
 
 2\. And behold a single star fell from heaven.
@@ -377,9 +377,9 @@ them all hand and foot, cast them into the cavities of the earth.
 
 1\. Then one of those four went to the white cows, and taught them a
 mystery. While the cow was trembling, it was born, and became a
-man, <span id="fr_204"></span>[1](#fn_202) and fabricated for himself a
+man, <span id="fr_204"></span>[1](#fn_202.md) and fabricated for himself a
 large ship. In this he dwelt, and three cows <span
-id="fr_205"></span>[2](#fn_203) dwelt with him in that ship, which
+id="fr_205"></span>[2](#fn_203.md) dwelt with him in that ship, which
 covered them.
 
 2\. Again I lifted up my eyes towards heaven, and saw a lofty roof.
@@ -435,27 +435,27 @@ wolves, dogs, wild boars, foxes, rabbits, and the hanzar,
 
 16\. The siset, the avest, kites, the phonkas, and ravens.
 
-17\. Then a white cow <span id="fr_206"></span>[1](#fn_204) was born in
+17\. Then a white cow <span id="fr_206"></span>[1](#fn_204.md) was born in
 the midst of them.
 
 18\. And they began to bite each other; when the white cow, which was
 born in the midst of them, brought forth a wild ass and a white cow at
 the same time, and *after that* many wild asses. Then the white
-cow, <span id="fr_207"></span>[2](#fn_205) which was born, brought forth
+cow, <span id="fr_207"></span>[2](#fn_205.md) which was born, brought forth
 a black wild sow and a white sheep. <span
-id="fr_208"></span>[3](#fn_206)
+id="fr_208"></span>[3](#fn_206.md)
 
 19\. That wild sow also brought forth many swine;
 
 20\. And that sheep brought forth twelve sheep. <span
-id="fr_209"></span>[4](#fn_207)
+id="fr_209"></span>[4](#fn_207.md)
 
 21\. When those twelve sheep grew up, they delivered one of them <span
-id="fr_210"></span>[5](#fn_208) to the asses. <span
-id="fr_211"></span>[6](#fn_209)
+id="fr_210"></span>[5](#fn_208.md) to the asses. <span
+id="fr_211"></span>[6](#fn_209.md)
 
 22\. Again those asses delivered that sheep to the wolves; <span
-id="fr_212"></span>[7](#fn_210)
+id="fr_212"></span>[7](#fn_210.md)
 
 23\. And he grew up in the midst of them.
 
@@ -472,7 +472,7 @@ destroyed their young ones.
 27\. And they left their young in torrents of deep water.
 
 28\. Now the sheep began to cry out on account of their young, and fled
-for refuge to their Lord. One <span id="fr_213"></span>[1](#fn_211)
+for refuge to their Lord. One <span id="fr_213"></span>[1](#fn_211.md)
 however, which was saved, escaped, and went away to the wild asses.
 
 29\. I beheld the sheep moaning, crying, and petitioning their Lord,
@@ -485,7 +485,7 @@ wolves, and told him to make the wolves understand that they were not to
 touch the sheep.
 
 32\. Then that sheep went to the wolves with the word of the Lord, when
-another met him, <span id="fr_214"></span>[2](#fn_212) and proceeded
+another met him, <span id="fr_214"></span>[2](#fn_212.md) and proceeded
 with him.
 
 33\. Both of them together entered the dwelling of the wolves; and
@@ -512,7 +512,7 @@ conducted them.
 
 38\. His countenance *was* terrific and splendid, and glorious was his
 aspect. Yet the wolves began to follow the sheep, until they overtook
-them in a certain lake of water. <span id="fr_215"></span>[1](#fn_213)
+them in a certain lake of water. <span id="fr_215"></span>[1](#fn_213.md)
 
 39\. Then that lake became divided; the water standing up on both sides
 before their face.
@@ -596,7 +596,7 @@ that house.
 61\. I perceived also that the sheep which proceeded to meet this sheep,
 their conductor, died. I saw, too, that all the great sheep perished,
 while smaller ones rose up in their place, entered into a pasture, and
-approached a river of water. <span id="fr_216"></span>[1](#fn_214)
+approached a river of water. <span id="fr_216"></span>[1](#fn_214.md)
 
 62\. Then that sheep, their conductor, who became a man, was separated
 from them, and died.
@@ -610,7 +610,7 @@ lamentation.
 over the river of water.
 
 65\. And that there arose other sheep, all of whom conducted them, <span
-id="fr_217"></span>[1](#fn_215) instead of those who were dead, and who
+id="fr_217"></span>[1](#fn_215.md) instead of those who were dead, and who
 had *previously* conducted them.
 
 66\. Then I saw that the sheep entered into a goodly place, and a
@@ -619,11 +619,11 @@ territory delectable and glorious.
 67\. I saw also that they became satiated; that their house was in the
 midst of a delectable territory: and that sometimes their eyes were
 opened, and that sometimes they were blind; until another sheep <span
-id="fr_218"></span>[2](#fn_216) arose and conducted them. He brought
+id="fr_218"></span>[2](#fn_216.md) arose and conducted them. He brought
 them all back; and their eyes were opened.
 
 68\. Then dogs, foxes, and wild boars began to devour them, until
-*again* another sheep <span id="fr_219"></span>[3](#fn_217) arose, the
+*again* another sheep <span id="fr_219"></span>[3](#fn_217.md) arose, the
 master of the flock, one of themselves, a ram, to conduct them. This ram
 began to butt on every side those dogs, foxes, and wild boars, until
 they all perished.
@@ -635,8 +635,8 @@ midst of them, who had laid aside his glory.
 himself without dignity.
 
 71\. Then their Lord sent the *former* sheep *again* to a still
-different <span id="fr_220"></span>[4](#fn_218) sheep, <span
-id="fr_221"></span>[5](#fn_219) and raised him up to be
+different <span id="fr_220"></span>[4](#fn_218.md) sheep, <span
+id="fr_221"></span>[5](#fn_219.md) and raised him up to be
 
 <span id="page_133">p. 133</span>
 
@@ -645,7 +645,7 @@ glory.
 
 72\. Going therefore to him, and conversing with him alone, he raised up
 that ram, and made him a prince and leader of the flock. All the time
-that the dogs <span id="fr_222"></span>[1](#fn_220) troubled the sheep,
+that the dogs <span id="fr_222"></span>[1](#fn_220.md) troubled the sheep,
 
 73\. The first ram paid respect to this latter ram.
 
@@ -657,7 +657,7 @@ I saw that those dogs caused the first ram to fall.
 76\. That ram likewise begat many sheep, and died.
 
 77\. Then there was a smaller sheep, <span
-id="fr_223"></span>[2](#fn_221) a ram, instead of him, which became a
+id="fr_223"></span>[2](#fn_221.md) a ram, instead of him, which became a
 prince and leader, conducting the flock.
 
 78\. And the sheep increased in size, and multiplied.
@@ -683,10 +683,10 @@ table to approach before him.
 forsaking that their house;
 
 85\. And that their Lord called to some among them, whom he sent <span
-id="fr_224"></span>[1](#fn_222) to them.
+id="fr_224"></span>[1](#fn_222.md) to them.
 
 86\. But these the sheep began to kill. And when one of them was saved
-from slaughter, <span id="fr_225"></span>[2](#fn_223) he leaped, and
+from slaughter, <span id="fr_225"></span>[2](#fn_223.md) he leaped, and
 cried out against those who were desirous of killing him.
 
 87\. But the Lord of the sheep delivered him from their hands, and made
@@ -724,7 +724,7 @@ beast for food. He called also seventy shepherds, and resigned to them
 95\. Saying to them and to their associates, Every one of you
 henceforwards overlook the sheep, and whatsoever I command you, do; and
 I will deliver them to you numbered. <span
-id="fr_226"></span>[1](#fn_224)
+id="fr_226"></span>[1](#fn_224.md)
 
 96\. I will tell you which of them shall be slain; these destroy. And he
 delivered the sheep to them.
@@ -793,14 +793,14 @@ deposited it.
 110\. After this, I saw shepherds overlooking for twelve hours.
 
 111\. And behold three of the sheep <span
-id="fr_227"></span>[1](#fn_225) departed,
+id="fr_227"></span>[1](#fn_225.md) departed,
 
 <span id="page_138">p. 138</span>
 
 arrived, went in; and began building all which was fallen down of that
 house.
 
-112\. But the wild boars <span id="fr_228"></span>[1](#fn_226) hindered
+112\. But the wild boars <span id="fr_228"></span>[1](#fn_226.md) hindered
 them, although they prevailed not.
 
 113\. Again they began to build as before, and raised up that tower,
@@ -832,7 +832,7 @@ and departed.
 ### CHAP. LXXXIX.
 
 1\. And I observed during the time, that thus thirty-seven <span
-id="fr_229"></span>[1](#fn_227) shepherds were overlooking, all of whom
+id="fr_229"></span>[1](#fn_227.md) shepherds were overlooking, all of whom
 finished in their respective periods as the first. Others then received
 them into their hands, that they might overlook them in their respective
 periods, every shepherd in his own period.
@@ -856,7 +856,7 @@ skin, nor their muscles, until their bones alone remained; until their
 bones fell upon the ground. And the sheep became diminished.
 
 7\. I observed likewise during the time, that twenty-three
-shepherds <span id="fr_230"></span>[2](#fn_228) were overlooking; who
+shepherds <span id="fr_230"></span>[2](#fn_228.md) were overlooking; who
 
 <span id="page_140">p. 140</span>
 
@@ -878,13 +878,13 @@ they devoured them.
 lighted down upon their horns.
 
 13\. I saw, too, that a large horn sprouted out on an animal <span
-id="fr_231"></span>[1](#fn_229) among the sheep, and that their eyes
+id="fr_231"></span>[1](#fn_229.md) among the sheep, and that their eyes
 were opened.
 
 14\. He looked at them. Their eyes were wide open; and he cried out to
 them.
 
-15\. Then the dabela <span id="fr_232"></span>[2](#fn_230) saw him; all
+15\. Then the dabela <span id="fr_232"></span>[2](#fn_230.md) saw him; all
 of whom ran to him.
 
 16\. And besides this, all the eagles, the avest, the ravens and the
@@ -926,7 +926,7 @@ Lord, opened the book of destruction, of that destruction which the last
 
 <span id="page_142">p. 142</span>
 
-twelve shepherds <span id="fr_233"></span>[1](#fn_231) wrought; and
+twelve shepherds <span id="fr_233"></span>[1](#fn_231.md) wrought; and
 pointed out before the Lord of the sheep, that they destroyed more than
 those who preceded them.
 
@@ -1011,7 +1011,7 @@ sheep, and returned it to his house, sealing it up in the presence of
 the Lord.
 
 44\. All the sheep would have been inclosed in that house, had it been
-capable of containing them; <span id="fr_234"></span>[1](#fn_232) and
+capable of containing them; <span id="fr_234"></span>[1](#fn_232.md) and
 the eyes of all were open, gazing on the good
 
 <span id="page_145">p. 145</span>
@@ -1028,7 +1028,7 @@ alarmed at him, and entreated him at all times.
 they became white cows;
 
 47\. And that the first, *who* was in the midst of them, spoke, <span
-id="fr_235"></span>[1](#fn_233) when that word became a large beast,
+id="fr_235"></span>[1](#fn_233.md) when that word became a large beast,
 upon the head of which were great and black horns;
 
 48\. While the Lord of the sheep rejoiced over them, and over all the
@@ -1040,7 +1040,7 @@ Lord of righteousness, and gave glory to Him.
 
 50\. Afterwards I wept abundantly, nor did my tears cease, so that I
 became incapable of enduring it. While I was looking on, they
-flowed <span id="fr_236"></span>[2](#fn_234) on account of what I saw;
+flowed <span id="fr_236"></span>[2](#fn_234.md) on account of what I saw;
 for all was come and gone by; every individual circumstance respecting
 the conduct of mankind was seen by me.
 
@@ -1053,7 +1053,7 @@ vision.
 
 <span class="margnote"><span id="an_XC">XC</span></span>
 
-### CHAP. XC. \[SECT. XVIII. <span id="fr_237"></span>[1](#fn_235)\]
+### CHAP. XC. \[SECT. XVIII. <span id="fr_237"></span>[1](#fn_235.md)\]
 
 1\. And now, my son Mathusala, call to me all thy brethren, and assemble
 for me all the children of thy mother; for a voice calls me, and the
@@ -1092,7 +1092,7 @@ inflicted from heaven.
 
 8\. The holy Lord shall go forth in wrath, and upon them all shall great
 punishment from heaven be inflicted. <span
-id="fr_238"></span>[1](#fn_236)
+id="fr_238"></span>[1](#fn_236.md)
 
 9\. The holy Lord shall go forth in wrath, and with punishment, that he
 may execute judgment upon earth.
@@ -1100,11 +1100,11 @@ may execute judgment upon earth.
 10\. In those days oppression shall be cut off from its roots, and
 iniquity with fraud shall be eradicated, perishing from under heaven.
 
-11\. Every place of strength <span id="fr_239"></span>[2](#fn_237) shall
+11\. Every place of strength <span id="fr_239"></span>[2](#fn_237.md) shall
 be surrendered with its inhabitants; with fire shall it be burnt. They
 shall be brought from every part of the earth, and be cast into a
 judgment of fire. They shall perish in wrath, and by a judgment
-overpowering them <span id="fr_240"></span>[3](#fn_238) for ever.
+overpowering them <span id="fr_240"></span>[3](#fn_238.md) for ever.
 
 <span id="page_148">p. 148</span>
 
@@ -1113,10 +1113,10 @@ raised up, and conferred upon them.
 
 13\. Then shall the roots of iniquity be cut off; sinners perish by the
 sword; and blasphemers be annihilated everywhere. <span
-id="fr_241"></span>[1](#fn_239)
+id="fr_241"></span>[1](#fn_239.md)
 
 14\. Those who meditate oppression, and those who blaspheme, by the
-sword shall perish. <span id="fr_242"></span>[2](#fn_240)
+sword shall perish. <span id="fr_242"></span>[2](#fn_240.md)
 
 15\. And now, my children, I will describe and point out to you the path
 of righteousness and the path of oppression.
@@ -1132,7 +1132,7 @@ perish for ever.
 
 <span class="margnote"><span id="an_XCI">XCI</span></span>
 
-### CHAP. XCI. \[SECT. XIX. <span id="fr_243"></span>[1](#fn_241)\]
+### CHAP. XCI. \[SECT. XIX. <span id="fr_243"></span>[1](#fn_241.md)\]
 
 1\. That which was written by Enoch. He wrote all this instruction of
 wisdom for every man of dignity, and every judge of the earth; for all
@@ -1141,11 +1141,11 @@ conducting themselves uprightly and peaceably.
 
 2\. Let not your spirit be grieved on account of the times; for the
 holy, the Great One, has prescribed a period <span
-id="fr_244"></span>[2](#fn_242) to all.
+id="fr_244"></span>[2](#fn_242.md) to all.
 
 3\. Let the righteous man arise from slumber; let him arise, and proceed
 in the path of righteousness, in all its paths; and let him
-advance <span id="fr_245"></span>[3](#fn_243) in goodness and in eternal
+advance <span id="fr_245"></span>[3](#fn_243.md) in goodness and in eternal
 clemency. Mercy shall be showed to the righteous man; upon him shall be
 conferred integrity and power for ever. In goodness and in righteousness
 shall he exist, and shall walk in everlasting light; but sin shall
@@ -1178,15 +1178,15 @@ with patience.
 5\. But after me, in the second week, great wickedness shall arise, and
 fraud shall spring forth.
 
-6\. In that week <span id="fr_246"></span>[1](#fn_244) the end of the
+6\. In that week <span id="fr_246"></span>[1](#fn_244.md) the end of the
 first shall take place, in which mankind shall be safe.
 
 7\. But when *the first* is completed, <span
-id="fr_247"></span>[2](#fn_245) iniquity shall grow up; and he shall
-execute the decree upon sinners. <span id="fr_248"></span>[3](#fn_246)
+id="fr_247"></span>[2](#fn_245.md) iniquity shall grow up; and he shall
+execute the decree upon sinners. <span id="fr_248"></span>[3](#fn_246.md)
 
 8\. Afterwards, in the third week, during its completion, a man <span
-id="fr_249"></span>[4](#fn_247) of the plant of righteous judgment shall
+id="fr_249"></span>[4](#fn_247.md) of the plant of righteous judgment shall
 be selected; and after him the plant of righteousness shall come for
 ever.
 
@@ -1197,17 +1197,17 @@ of the holy and the righteous
 
 shall be seen, the order of generation after generation *shall take
 place*, and an habitation shall be made for them. <span
-id="fr_250"></span>[1](#fn_248) Then in the fifth week, during its
+id="fr_250"></span>[1](#fn_248.md) Then in the fifth week, during its
 completion, the house of glory and of dominion <span
-id="fr_251"></span>[2](#fn_249) shall be erected for ever.
+id="fr_251"></span>[2](#fn_249.md) shall be erected for ever.
 
 10\. After that, in the sixth week, all those who are in it shall be
 darkened, the hearts of all of them shall be forgetful of wisdom, and in
-it shall a man <span id="fr_252"></span>[3](#fn_250) ascend.
+it shall a man <span id="fr_252"></span>[3](#fn_250.md) ascend.
 
 11\. And during its completion he shall burn the house of dominion with
 fire, and all the race of the elect root shall be dispersed. <span
-id="fr_253"></span>[4](#fn_251)
+id="fr_253"></span>[4](#fn_251.md)
 
 12\. Afterwards, in the seventh week, a perverse generation shall arise;
 abundant shall be its deeds, and all its deeds perverse. During its
@@ -1243,7 +1243,7 @@ ever. Afterwards likewise shall there be many weeks, which shall
 externally exist in goodness and in righteousness.
 
 18\. Neither shall sin be named there for ever and for ever. <span
-id="fr_254"></span>[1](#fn_252)
+id="fr_254"></span>[1](#fn_252.md)
 
 19\. Who is there of all the children of men, capable of hearing the
 voice of the Holy One without emotion?
@@ -1304,13 +1304,13 @@ obtain peace.
 
 7\. Woe to those who build up their houses with crime; for from their
 very foundations shall their houses <span
-id="fr_255"></span>[1](#fn_253) be demolished, and by the sword shall
+id="fr_255"></span>[1](#fn_253.md) be demolished, and by the sword shall
 they *themselves* fall. Those, too, who acquire gold and silver, shall
 justly and suddenly perish. Woe to you who are rich, for in your riches
 have you trusted; but from your riches you shall be removed; because you
 have not remembered the Most High in the days of your prosperity: \[you
 shall be removed, because you have not remembered the Most High in the
-days of your prosperity. <span id="fr_256"></span>[2](#fn_254)\]
+days of your prosperity. <span id="fr_256"></span>[2](#fn_254.md)\]
 
 <span id="page_155">p. 155</span>
 
@@ -1332,7 +1332,7 @@ detest sinners, and the ungodly.
 ### CHAP. XCIV.
 
 1\. O that my eyes were clouds of water, that I might weep over you, and
-pour forth my tears like rain, <span id="fr_257"></span>[1](#fn_255) and
+pour forth my tears like rain, <span id="fr_257"></span>[1](#fn_255.md) and
 rest from the sorrow of my heart!
 
 2\. Who has permitted you to hate and to transgress? Judgment shall
@@ -1386,11 +1386,11 @@ wealth makes you resemble saints, but your hearts reproach you,
 testify against you, for the remembrance of crime.
 
 5\. Woe to you who feed upon the glory of the corn, and drink the
-strength of the deepest spring, <span id="fr_258"></span>[1](#fn_256)
+strength of the deepest spring, <span id="fr_258"></span>[1](#fn_256.md)
 and in *the pride of* your power tread down the humble.
 
 6\. Woe to you who drink water at pleasure; <span
-id="fr_259"></span>[2](#fn_257) for suddenly shall you be recompensed,
+id="fr_259"></span>[2](#fn_257.md) for suddenly shall you be recompensed,
 consumed, and withered, because you have forsaken the fountain of life.
 
 7\. Woe to you who act iniquitously, fraudulently, and blasphemously;
@@ -1399,7 +1399,7 @@ there shall be a remembrance against you for evil.
 8\. Woe to you, ye powerful, who with power strike down righteousness;
 for the day of your destruction shall come; *while* at that very time
 many and good days shall be the portion of the righteous, <span
-id="fr_260"></span>[3](#fn_258) *even* at the period of your judgment.
+id="fr_260"></span>[3](#fn_258.md) *even* at the period of your judgment.
 
 <span class="margnote"><span id="an_XCVI">XCVI</span></span>
 
@@ -1433,7 +1433,7 @@ possess wealth, and have acquired everything which we can desire.
 
 7\. Now then will we do whatsoever we are disposed to do; for we have
 amassed silver; our barns are full, and the husbandmen of our families
-are like overflowing water. <span id="fr_261"></span>[1](#fn_259)
+are like overflowing water. <span id="fr_261"></span>[1](#fn_259.md)
 
 8\. Like water shall your falsehood pass away; for your wealth will not
 be permanent, but shall suddenly ascend from you, because you have
@@ -1445,25 +1445,25 @@ delivered up.
 <span id="page_159">p. 159</span>
 
 simple ones; that you, often contemplating the earth, you *who are* men,
-clothe yourselves more elegantly <span id="fr_262"></span>[1](#fn_260)
+clothe yourselves more elegantly <span id="fr_262"></span>[1](#fn_260.md)
 than married women, and both together more so than unmarried ones,
 everywhere *arraying yourselves* in majesty, in magnificence, in
 authority, and in silver: but gold, purple, honour, and wealth, like
 water, flow away.
 
 10\. Erudition therefore and wisdom are not theirs. Thus <span
-id="fr_263"></span>[2](#fn_261) shall they perish, together with their
+id="fr_263"></span>[2](#fn_261.md) shall they perish, together with their
 riches, with all their glory, and with their honours;
 
 11\. While with disgrace, with slaughter, and in extreme penury, shall
 their spirits be thrust into a furnace of fire.
 
 12\. I have sworn to you, ye sinners, that neither mountain nor hill has
-been or shall be subservient <span id="fr_264"></span>[3](#fn_262) to
+been or shall be subservient <span id="fr_264"></span>[3](#fn_262.md) to
 woman.
 
 13\. Neither in this way has crime been sent down to us <span
-id="fr_265"></span>[4](#fn_263) upon earth, but men of their own heads
+id="fr_265"></span>[4](#fn_263.md) upon earth, but men of their own heads
 have invented it; and greatly shall those who give it efficiency be
 execrated.
 
@@ -1486,12 +1486,12 @@ period of your condemnation.
 
 17\. Woe to you, ye simple ones, for you shall perish in your
 simplicity. To the wise you will not listen, and that which is good you
-shall not obtain. <span id="fr_266"></span>[1](#fn_264)
+shall not obtain. <span id="fr_266"></span>[1](#fn_264.md)
 
 18\. Now therefore know that you are destined to the day of destruction;
 nor hope that sinners shall live; but in process of time you shall
-die; <span id="fr_267"></span>[2](#fn_265) for you are not marked <span
-id="fr_268"></span>[3](#fn_266) for redemption;
+die; <span id="fr_267"></span>[2](#fn_265.md) for you are not marked <span
+id="fr_268"></span>[3](#fn_266.md) for redemption;
 
 19\. But are destined to the day of the great judgment, to the day of
 distress, and the extreme ignominy of your souls.
@@ -1560,11 +1560,11 @@ the day of blood, which never ceases.
 8\. They shall worship stones, and engrave golden, silver, and wooden
 images. They shall worship impure spirits, demons, and every idol, in
 temples; but no help shall be obtained for them. <span
-id="fr_269"></span>[1](#fn_267) Their hearts shall become impious
+id="fr_269"></span>[1](#fn_267.md) Their hearts shall become impious
 through their folly, and their eyes be blinded with mental
-superstition. <span id="fr_270"></span>[2](#fn_268) In their visionary
+superstition. <span id="fr_270"></span>[2](#fn_268.md) In their visionary
 dreams shall they be impious and superstitious, <span
-id="fr_271"></span>[3](#fn_269) lying in all their actions, and
+id="fr_271"></span>[3](#fn_269.md) lying in all their actions, and
 worshipping a stone. Altogether shall they perish.
 
 9\. But in those days blessed shall they be, to whom the word of wisdom
@@ -1585,7 +1585,7 @@ bitter on earth; for on it shall you be consumed.
 
 13\. Woe to you who build your houses by the labour of others, every
 part of which is constructed with brick, <span
-id="fr_272"></span>[1](#fn_270) and with the stone of crime; I tell you,
+id="fr_272"></span>[1](#fn_270.md) and with the stone of crime; I tell you,
 that you shall not obtain peace.
 
 14\. Woe to you who despise the extent of the everlasting inheritance of
@@ -1607,19 +1607,19 @@ sword.
 ### CHAP. XCVIII.
 
 1\. In those days shall fathers be struck down with their children in
-the presence of each other; <span id="fr_273"></span>[1](#fn_271) and
+the presence of each other; <span id="fr_273"></span>[1](#fn_271.md) and
 brethren with their brethren shall fall dead: until a river shall flow
 from their blood.
 
 2\. For a man shall not restrain his hand from his children, nor from
 his children's children; his mercy will be to kill them. <span
-id="fr_274"></span>[2](#fn_272)
+id="fr_274"></span>[2](#fn_272.md)
 
 3\. Nor shall the sinner restrain his hand from his honoured brother.
 From the dawn of day to the setting sun shall the slaughter
-continue. <span id="fr_275"></span>[3](#fn_273) The horse shall wade up
+continue. <span id="fr_275"></span>[3](#fn_273.md) The horse shall wade up
 to his breast, and the chariot shall sink to its axle, <span
-id="fr_276"></span>[4](#fn_274) in the blood of sinners.
+id="fr_276"></span>[4](#fn_274.md) in the blood of sinners.
 
 <span class="margnote"><span id="an_XCIX">XCIX</span></span>
 
@@ -1636,7 +1636,7 @@ apple of an eye, until every evil and every crime be annihilated.
 <span id="page_165">p. 165</span>
 
 3\. Whether *or no* the righteous sleep securely, <span
-id="fr_277"></span>[1](#fn_275) wise men shall then truly perceive.
+id="fr_277"></span>[1](#fn_275.md) wise men shall then truly perceive.
 
 4\. And the sons of the earth shall understand every word of that book,
 knowing that their riches cannot save them in the ruin of their crimes.
@@ -1676,140 +1676,140 @@ them.
 
 ### Footnotes
 
-<span id="fn_184"></span>[114:1](bep06.htm#fr_186) *the books of the
+<span id="fn_184"></span>[114:1](bep06.htm#fr_186.md) *the books of the
 hand of thy father*.
 
-<span id="fn_185"></span>[115:1](bep06.htm#fr_187) *to impress, express,
+<span id="fn_185"></span>[115:1](bep06.htm#fr_187.md) *to impress, express,
 or to seal*.
 
-<span id="fn_186"></span>[115:2](bep06.htm#fr_188) *have they related*.
+<span id="fn_186"></span>[115:2](bep06.htm#fr_188.md) *have they related*.
 
-<span id="fn_187"></span>[115:3](bep06.htm#fr_189) *has breathed into
+<span id="fn_187"></span>[115:3](bep06.htm#fr_189.md) *has breathed into
 me*.
 
-<span id="fn_188"></span>[116:1](bep06.htm#fr_190) *the sun*.
+<span id="fn_188"></span>[116:1](bep06.htm#fr_190.md) *the sun*.
 
-<span id="fn_189"></span>[118:1](bep06.htm#fr_191) Paris MS.
+<span id="fn_189"></span>[118:1](bep06.htm#fr_191.md) Paris MS.
 
-<span id="fn_190"></span>[118:2](bep06.htm#fr_192) *before thee*.
+<span id="fn_190"></span>[118:2](bep06.htm#fr_192.md) *before thee*.
 
-<span id="fn_191"></span>[118:3](bep06.htm#fr_193) *cutting*.
+<span id="fn_191"></span>[118:3](bep06.htm#fr_193.md) *cutting*.
 
-<span id="fn_192"></span>[118:4](bep06.htm#fr_194) *the word fell down
+<span id="fn_192"></span>[118:4](bep06.htm#fr_194.md) *the word fell down
 in my mouth*.
 
-<span id="fn_193"></span>[119:1](bep06.htm#fr_195) *all this upon earth
+<span id="fn_193"></span>[119:1](bep06.htm#fr_195.md) *all this upon earth
 is from heaven*.
 
-<span id="fn_194"></span>[119:2](bep06.htm#fr_196) *he*.
+<span id="fn_194"></span>[119:2](bep06.htm#fr_196.md) *he*.
 
-<span id="fn_195"></span>[119:3](bep06.htm#fr_197) *windows*.
+<span id="fn_195"></span>[119:3](bep06.htm#fr_197.md) *windows*.
 
-<span id="fn_196"></span>[120:1](bep06.htm#fr_198) *be*.
+<span id="fn_196"></span>[120:1](bep06.htm#fr_198.md) *be*.
 
-<span id="fn_197"></span>[121:1](bep06.htm#fr_199) *the plant of a
+<span id="fn_197"></span>[121:1](bep06.htm#fr_199.md) *the plant of a
 seed*.
 
-<span id="fn_198"></span>[121:2](bep06.htm#fr_200) Paris MS.
+<span id="fn_198"></span>[121:2](bep06.htm#fr_200.md) Paris MS.
 
-<span id="fn_199"></span>[121:3](bep06.htm#fr_201) The sense seems to
+<span id="fn_199"></span>[121:3](bep06.htm#fr_201.md) The sense seems to
 require that the passage should be, "*two other heifers*."
 
-<span id="fn_200"></span>[121:4](bep06.htm#fr_202) Cain and Abel.
+<span id="fn_200"></span>[121:4](bep06.htm#fr_202.md) Cain and Abel.
 
-<span id="fn_201"></span>[123:1](bep06.htm#fr_203) *with my eyes*.
+<span id="fn_201"></span>[123:1](bep06.htm#fr_203.md) *with my eyes*.
 
-<span id="fn_202"></span>[125:1](bep06.htm#fr_204) Noah.
+<span id="fn_202"></span>[125:1](bep06.htm#fr_204.md) Noah.
 
-<span id="fn_203"></span>[125:2](bep06.htm#fr_205) Shem, Ham, and
+<span id="fn_203"></span>[125:2](bep06.htm#fr_205.md) Shem, Ham, and
 Japheth.
 
-<span id="fn_204"></span>[127:1](bep06.htm#fr_206) Abraham.
+<span id="fn_204"></span>[127:1](bep06.htm#fr_206.md) Abraham.
 
-<span id="fn_205"></span>[127:2](bep06.htm#fr_207) Isaac.
+<span id="fn_205"></span>[127:2](bep06.htm#fr_207.md) Isaac.
 
-<span id="fn_206"></span>[127:3](bep06.htm#fr_208) Esau and Jacob.
+<span id="fn_206"></span>[127:3](bep06.htm#fr_208.md) Esau and Jacob.
 
-<span id="fn_207"></span>[127:4](bep06.htm#fr_209) The twelve
+<span id="fn_207"></span>[127:4](bep06.htm#fr_209.md) The twelve
 Patriarchs.
 
-<span id="fn_208"></span>[127:5](bep06.htm#fr_210) Joseph.
+<span id="fn_208"></span>[127:5](bep06.htm#fr_210.md) Joseph.
 
-<span id="fn_209"></span>[127:6](bep06.htm#fr_211) The Midianites.
+<span id="fn_209"></span>[127:6](bep06.htm#fr_211.md) The Midianites.
 
-<span id="fn_210"></span>[127:7](bep06.htm#fr_212) The Egyptians.
+<span id="fn_210"></span>[127:7](bep06.htm#fr_212.md) The Egyptians.
 
-<span id="fn_211"></span>[128:1](bep06.htm#fr_213) Moses.
+<span id="fn_211"></span>[128:1](bep06.htm#fr_213.md) Moses.
 
-<span id="fn_212"></span>[128:2](bep06.htm#fr_214) Aaron.
+<span id="fn_212"></span>[128:2](bep06.htm#fr_214.md) Aaron.
 
-<span id="fn_213"></span>[129:1](bep06.htm#fr_215) The Red Sea.
+<span id="fn_213"></span>[129:1](bep06.htm#fr_215.md) The Red Sea.
 
-<span id="fn_214"></span>[131:1](bep06.htm#fr_216) The river Jordan.
+<span id="fn_214"></span>[131:1](bep06.htm#fr_216.md) The river Jordan.
 
-<span id="fn_215"></span>[132:1](bep06.htm#fr_217) The Judges of Israel.
+<span id="fn_215"></span>[132:1](bep06.htm#fr_217.md) The Judges of Israel.
 
-<span id="fn_216"></span>[132:2](bep06.htm#fr_218) Samuel.
+<span id="fn_216"></span>[132:2](bep06.htm#fr_218.md) Samuel.
 
-<span id="fn_217"></span>[132:3](bep06.htm#fr_219) Saul.
+<span id="fn_217"></span>[132:3](bep06.htm#fr_219.md) Saul.
 
-<span id="fn_218"></span>[132:4](bep06.htm#fr_220) *another*.
+<span id="fn_218"></span>[132:4](bep06.htm#fr_220.md) *another*.
 
-<span id="fn_219"></span>[132:5](bep06.htm#fr_221) David.
+<span id="fn_219"></span>[132:5](bep06.htm#fr_221.md) David.
 
-<span id="fn_220"></span>[133:1](bep06.htm#fr_222) The Philistines.
+<span id="fn_220"></span>[133:1](bep06.htm#fr_222.md) The Philistines.
 
-<span id="fn_221"></span>[133:2](bep06.htm#fr_223) Solomon.
+<span id="fn_221"></span>[133:2](bep06.htm#fr_223.md) Solomon.
 
-<span id="fn_222"></span>[134:1](bep06.htm#fr_224) The prophets.
+<span id="fn_222"></span>[134:1](bep06.htm#fr_224.md) The prophets.
 
-<span id="fn_223"></span>[134:2](bep06.htm#fr_225) Elijah.
+<span id="fn_223"></span>[134:2](bep06.htm#fr_225.md) Elijah.
 
-<span id="fn_224"></span>[135:1](bep06.htm#fr_226) *with number*.
+<span id="fn_224"></span>[135:1](bep06.htm#fr_226.md) *with number*.
 
-<span id="fn_225"></span>[137:1](bep06.htm#fr_227) Zerubbabel, Joshua,
+<span id="fn_225"></span>[137:1](bep06.htm#fr_227.md) Zerubbabel, Joshua,
 and Nehemiah.
 
-<span id="fn_226"></span>[138:1](bep06.htm#fr_228) The Samaritans.
+<span id="fn_226"></span>[138:1](bep06.htm#fr_228.md) The Samaritans.
 
-<span id="fn_227"></span>[139:1](bep06.htm#fr_229) An apparent error for
+<span id="fn_227"></span>[139:1](bep06.htm#fr_229.md) An apparent error for
 *thirty-five*. See verse 7. The kings of Judah and Israel.
 
-<span id="fn_228"></span>[139:2](bep06.htm#fr_230) The kings of Babylon,
+<span id="fn_228"></span>[139:2](bep06.htm#fr_230.md) The kings of Babylon,
 etc., during and after the captivity. The numbers thirty-*five* and
 twenty-three make fifty-eight; and not thirty-*seven*, as erroneously
 put in the first verse.
 
-<span id="fn_229"></span>[140:1](bep06.htm#fr_231) on *one*.
+<span id="fn_229"></span>[140:1](bep06.htm#fr_231.md) on *one*.
 
-<span id="fn_230"></span>[140:2](bep06.htm#fr_232) The ibex, probably
+<span id="fn_230"></span>[140:2](bep06.htm#fr_232.md) The ibex, probably
 symbolizing Alexander the Great.
 
-<span id="fn_231"></span>[142:1](bep06.htm#fr_233) The native princes of
+<span id="fn_231"></span>[142:1](bep06.htm#fr_233.md) The native princes of
 Judah after its delivery from the Syrian yoke.
 
-<span id="fn_232"></span>[144:1](bep06.htm#fr_234) *were inclosed in
+<span id="fn_232"></span>[144:1](bep06.htm#fr_234.md) *were inclosed in
 that house, and it did not contain them*.
 
-<span id="fn_233"></span>[145:1](bep06.htm#fr_235) *became a word*.
+<span id="fn_233"></span>[145:1](bep06.htm#fr_235.md) *became a word*.
 
-<span id="fn_234"></span>[145:2](bep06.htm#fr_236) *descended*.
+<span id="fn_234"></span>[145:2](bep06.htm#fr_236.md) *descended*.
 
-<span id="fn_235"></span>[146:1](bep06.htm#fr_237) Paris MS.
+<span id="fn_235"></span>[146:1](bep06.htm#fr_237.md) Paris MS.
 
-<span id="fn_236"></span>[147:1](bep06.htm#fr_238) This verse is wanting
+<span id="fn_236"></span>[147:1](bep06.htm#fr_238.md) This verse is wanting
 in the Paris MS. as transcribed by Woide. It seems in the Bodleian MS.
 to be a mere lapse of the transcriber, who wrote the same words twice
 over.
 
-<span id="fn_237"></span>[147:2](bep06.htm#fr_239) *tower*, *palace*, or
+<span id="fn_237"></span>[147:2](bep06.htm#fr_239.md) *tower*, *palace*, or
 *temple*.
 
-<span id="fn_238"></span>[147:3](bep06.htm#fr_240) *powerful judgment*.
+<span id="fn_238"></span>[147:3](bep06.htm#fr_240.md) *powerful judgment*.
 
-<span id="fn_239"></span>[148:1](bep06.htm#fr_241) *cut off*.
+<span id="fn_239"></span>[148:1](bep06.htm#fr_241.md) *cut off*.
 
-<span id="fn_240"></span>[148:2](bep06.htm#fr_242) Between the 14th and
+<span id="fn_240"></span>[148:2](bep06.htm#fr_242.md) Between the 14th and
 15th verses of this chapter six others are inserted both in the Bodleian
 and Paris MSS., which I have transposed so as to constitute the 13th,
 14th, 15th, 16th, 17th, and 18th verses of the ninety-second chapter.
@@ -1819,94 +1819,94 @@ account of the eighth, ninth, and tenth weeks, contained in the verses
 transposed, seemed necessary to complete the narrative. Here they are
 clearly unconnected and misplaced.
 
-<span id="fn_241"></span>[149:1](bep06.htm#fr_243) Paris MS.
+<span id="fn_241"></span>[149:1](bep06.htm#fr_243.md) Paris MS.
 
-<span id="fn_242"></span>[149:2](bep06.htm#fr_244) *has given days*.
+<span id="fn_242"></span>[149:2](bep06.htm#fr_244.md) *has given days*.
 
-<span id="fn_243"></span>[149:3](bep06.htm#fr_245) *his goings* be.
+<span id="fn_243"></span>[149:3](bep06.htm#fr_245.md) *his goings* be.
 
-<span id="fn_244"></span>[150:1](bep06.htm#fr_246) *in it*.
+<span id="fn_244"></span>[150:1](bep06.htm#fr_246.md) *in it*.
 
-<span id="fn_245"></span>[150:2](bep06.htm#fr_247) *after it has been
+<span id="fn_245"></span>[150:2](bep06.htm#fr_247.md) *after it has been
 completed*.
 
-<span id="fn_246"></span>[150:3](bep06.htm#fr_248) The deluge.
+<span id="fn_246"></span>[150:3](bep06.htm#fr_248.md) The deluge.
 
-<span id="fn_247"></span>[150:4](bep06.htm#fr_249) Abraham.
+<span id="fn_247"></span>[150:4](bep06.htm#fr_249.md) Abraham.
 
-<span id="fn_248"></span>[151:1](bep06.htm#fr_250) The Law.
+<span id="fn_248"></span>[151:1](bep06.htm#fr_250.md) The Law.
 
-<span id="fn_249"></span>[151:2](bep06.htm#fr_251) Temple of Solomon.
+<span id="fn_249"></span>[151:2](bep06.htm#fr_251.md) Temple of Solomon.
 
-<span id="fn_250"></span>[151:3](bep06.htm#fr_252) Nebuchadnezzar.
+<span id="fn_250"></span>[151:3](bep06.htm#fr_252.md) Nebuchadnezzar.
 
-<span id="fn_251"></span>[151:4](bep06.htm#fr_253) Babylonian captivity.
+<span id="fn_251"></span>[151:4](bep06.htm#fr_253.md) Babylonian captivity.
 
-<span id="fn_252"></span>[152:1](bep06.htm#fr_254) The preceding six
+<span id="fn_252"></span>[152:1](bep06.htm#fr_254.md) The preceding six
 verses, viz. 13th, 14th, 15th, 16th, 17th, and 18th, are taken from
 between the 14th and 15th verses of the nineteenth chapter, where they
 are to be found in the MSS. But the sense in this place seemed so
 manifestly to require them here, that I have ventured to transpose them.
 
-<span id="fn_253"></span>[154:1](bep06.htm#fr_255) *they*.
+<span id="fn_253"></span>[154:1](bep06.htm#fr_255.md) *they*.
 
-<span id="fn_254"></span>[154:2](bep06.htm#fr_256) These lines are
+<span id="fn_254"></span>[154:2](bep06.htm#fr_256.md) These lines are
 evidently a repetition of the preceding, from an error in the
 transcription. They do not occur in the Paris 14 MS.
 
-<span id="fn_255"></span>[155:1](bep06.htm#fr_257) *a cloud of water*.
+<span id="fn_255"></span>[155:1](bep06.htm#fr_257.md) *a cloud of water*.
 
-<span id="fn_256"></span>[157:1](bep06.htm#fr_258) *of the root of the
+<span id="fn_256"></span>[157:1](bep06.htm#fr_258.md) *of the root of the
 spring*.
 
-<span id="fn_257"></span>[157:2](bep06.htm#fr_259) *at all times*.
+<span id="fn_257"></span>[157:2](bep06.htm#fr_259.md) *at all times*.
 
-<span id="fn_258"></span>[157:3](bep06.htm#fr_260) *shall come to the
+<span id="fn_258"></span>[157:3](bep06.htm#fr_260.md) *shall come to the
 righteous*.
 
-<span id="fn_259"></span>[158:1](bep06.htm#fr_261) *like much water*.
+<span id="fn_259"></span>[158:1](bep06.htm#fr_261.md) *like much water*.
 
-<span id="fn_260"></span>[159:1](bep06.htm#fr_262) *put elegance upon
+<span id="fn_260"></span>[159:1](bep06.htm#fr_262.md) *put elegance upon
 you more*.
 
-<span id="fn_261"></span>[159:2](bep06.htm#fr_263) *And in it*.
+<span id="fn_261"></span>[159:2](bep06.htm#fr_263.md) *And in it*.
 
-<span id="fn_262"></span>[159:3](bep06.htm#fr_264) *a servant*. Perhaps
+<span id="fn_262"></span>[159:3](bep06.htm#fr_264.md) *a servant*. Perhaps
 in furnishing them with treasures for ornaments.
 
-<span id="fn_263"></span>[159:4](bep06.htm#fr_265) *has our crime been
+<span id="fn_263"></span>[159:4](bep06.htm#fr_265.md) *has our crime been
 sent down*.
 
-<span id="fn_264"></span>[160:1](bep06.htm#fr_266) *shall not find you*.
+<span id="fn_264"></span>[160:1](bep06.htm#fr_266.md) *shall not find you*.
 
-<span id="fn_265"></span>[160:2](bep06.htm#fr_267) *you shall go on, and
+<span id="fn_265"></span>[160:2](bep06.htm#fr_267.md) *you shall go on, and
 die*.
 
-<span id="fn_266"></span>[160:3](bep06.htm#fr_268) *pointed out*.
+<span id="fn_266"></span>[160:3](bep06.htm#fr_268.md) *pointed out*.
 
-<span id="fn_267"></span>[162:1](bep06.htm#fr_269) *shall be found for
+<span id="fn_267"></span>[162:1](bep06.htm#fr_269.md) *shall be found for
 them*.
 
-<span id="fn_268"></span>[162:2](bep06.htm#fr_270) *with the fear of
+<span id="fn_268"></span>[162:2](bep06.htm#fr_270.md) *with the fear of
 their heart*.
 
-<span id="fn_269"></span>[162:3](bep06.htm#fr_271) *and fear*.
+<span id="fn_269"></span>[162:3](bep06.htm#fr_271.md) *and fear*.
 
-<span id="fn_270"></span>[163:1](bep06.htm#fr_272) *every structure of
+<span id="fn_270"></span>[163:1](bep06.htm#fr_272.md) *every structure of
 which is brick*.
 
-<span id="fn_271"></span>[164:1](bep06.htm#fr_273) *in one place*.
+<span id="fn_271"></span>[164:1](bep06.htm#fr_273.md) *in one place*.
 
-<span id="fn_272"></span>[164:2](bep06.htm#fr_274) *he has been
+<span id="fn_272"></span>[164:2](bep06.htm#fr_274.md) *he has been
 merciful, that he may kill*.
 
-<span id="fn_273"></span>[164:3](bep06.htm#fr_275) *they shall be
+<span id="fn_273"></span>[164:3](bep06.htm#fr_275.md) *they shall be
 slain*.
 
-<span id="fn_274"></span>[164:4](bep06.htm#fr_276) *its upper part*.
+<span id="fn_274"></span>[164:4](bep06.htm#fr_276.md) *its upper part*.
 
-<span id="fn_275"></span>[165:1](bep06.htm#fr_277) *a deep sleep*.
+<span id="fn_275"></span>[165:1](bep06.htm#fr_277.md) *a deep sleep*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters C-CV](bep07)
+[Next: Chapters C-CV](bep07.md)

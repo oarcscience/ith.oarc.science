@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama203) 
-[Next](kama205) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama203.md) 
+[Next](kama205.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -134,7 +134,7 @@ passages of love, then love is lessened in the same way as when no union
 takes place for a long time.'
 
 Even when a stranger sees at a distance a young woman with the marks of
-nails on her breast, <span id="fr_33"></span>[1](kama101.htm#fn_0) he is
+nails on her breast, <span id="fr_33"></span>[1](kama101.htm#fn_0.md) he is
 filled with love and respect for her.
 
 A man, also, who carries the marks of nails and teeth on some parts of
@@ -146,7 +146,7 @@ marking with the nails, and biting.
 
 ### Footnotes
 
-<span id="fn_33"></span>[1](#fr_-1) From this it would appear that in
+<span id="fn_33"></span>[1](#fr_-1.md) From this it would appear that in
 ancient times the breasts of women were not covered, and this is seen in
 the paintings of the Ajunta and other caves, where we find that the
 breasts of even royal ladies and others are exposed.
@@ -154,4 +154,4 @@ breasts of even royal ladies and others are exposed.
 ------------------------------------------------------------------------
 
 [Next: Chapter V. On Biting, and the Ways of Love to be Employed with
-Regard to Women of Different Countries](kama205)
+Regard to Women of Different Countries](kama205.md)

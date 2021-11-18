@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas012n)  [Next](jas014n)   
- \[[13. Day-time Trouble.](jas013)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas012n)  [Next](jas014n.md)   
+ \[[13. Day-time Trouble.](jas013.md)\]
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ upon Hyena,
 
 ------------------------------------------------------------------------
 
-[Next: Note 14. New Names.](jas014n)
+[Next: Note 14. New Names.](jas014n.md)

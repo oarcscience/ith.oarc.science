@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor05)  [Next](sor07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor05)  [Next](sor07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -177,7 +177,7 @@ prerogative. In a parish in the neighbourhood of Bourges, the curé,
 being a seigneur, laid express claim to the *firstfruits* of every
 bride, though in practice he was quite willing to sell his wife's
 virginity to the husband for money down. <span
-id="fr_22"></span>[1](#fn_22)
+id="fr_22"></span>[1](#fn_22.md)
 
 The theory has been too readily accepted that this outrage was only
 formal, never actually done. But the price named in certain countries
@@ -187,7 +187,7 @@ enormous, an impossible price. Thus the poor young peasant's wife was at
 her Lord's discretion. Moreover, the *Fors du Béarn* state in so many
 words that the right was literally exacted. "The peasant's eldest son is
 always reckoned the Seigneur's child, for he may be of his
-engendering." <span id="fr_23"></span>[2](#fn_23)
+engendering." <span id="fr_23"></span>[2](#fn_23.md)
 
 All feudal customs, even where this is not mentioned, invariably impose
 an obligation on the newly made bride to go up to the castle to present
@@ -203,7 +203,7 @@ bride to the castle. One can imagine the guffaws of the knights and
 squires, the ribald tricks of the pages, that welcomed the unhappy pair.
 "At any rate the presence of the Lady of the Castle will keep them in
 check," you say. Not a bit of it. The fair châtelaine the romances would
-have us think so delicate, <span id="fr_24"></span>[3](#fn_24) but who
+have us think so delicate, <span id="fr_24"></span>[3](#fn_24.md) but who
 was quite capable of taking command of the garrison
 
 <span id="page_37">p. 37</span>
@@ -237,7 +237,7 @@ child! . . . Say thank you; why! you're nobles now. Your firstborn will
 be a Baron!" All crowd to the windows to see this ludicrous figure,
 death in his heart, wedding-clothes on his back. . . . Peals of laughter
 pursue him, and the roystering mob, down to the meanest scullion, gives
-chase to the "poor cuckold!" <span id="fr_25"></span>[4](#fn_25)
+chase to the "poor cuckold!" <span id="fr_25"></span>[4](#fn_25.md)
 
 <span id="page_38">p. 38</span>
 
@@ -353,20 +353,20 @@ She had made no promise, but she belonged to him from that hour forth.
 
 ### Footnotes
 
-<span id="fn_22"></span>[36:1](sor06.htm#fr_22) Laurière, ii. 100, under
+<span id="fn_22"></span>[36:1](sor06.htm#fr_22.md) Laurière, ii. 100, under
 word *Marquette;* Michelet, *Origines du Droit*, 264.
 
-<span id="fn_23"></span>[36:2](sor06.htm#fr_23) This work was not
+<span id="fn_23"></span>[36:2](sor06.htm#fr_23.md) This work was not
 published till (1842) subsequently to the *Origines* (1837).
 
-<span id="fn_24"></span>[36:3](sor06.htm#fr_24) This delicacy and
+<span id="fn_24"></span>[36:3](sor06.htm#fr_24.md) This delicacy and
 refinement is well instanced in the treatment the ladies of the Court
 were for inflicting with their own hands on Jean de Menny, their poet,
 the author of the *Roman de la Rose* (about 1500). They would certainly
 <span id="page_37">p. 37</span>have carried out their intention, had it
 not been for the witty poet's clever subterfuge.
 
-<span id="fn_25"></span>[37:4](sor06.htm#fr_25) Nothing can be merrier
+<span id="fn_25"></span>[37:4](sor06.htm#fr_25.md) Nothing can be merrier
 than the old French *Contes;* but they have a certain monotony. The
 jokes are limited to three: the injured husband's <span id="page_38">p.
 38</span> despair, the squalls of the victim of the lash, the grimaces
@@ -379,4 +379,4 @@ self-defence.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Diabolical Possession](sor07)
+[Next: 5. Diabolical Possession](sor07.md)

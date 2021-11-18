@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos52)  [Next](kos54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos52)  [Next](kos54.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ Before cutting the Reed recite Psalm lxxii.
 
 After this, with the Knife of the Art, thou shalt fashion the Reed into
 the shape of a Knife, and upon it thou shalt write these Names: AGLA,
-ADONAI, ELOHI (*see [Figure 87](kos44.htm#img_kos14)*), through Whom be
+ADONAI, ELOHI (*see [Figure 87](kos44.htm#img_kos14)*.md), through Whom be
 the work of this Knife accomplished. Then thou shalt say:--
 
 O God, Who drewest Moses, Thy well beloved and Thine elect, from among
@@ -74,7 +74,7 @@ Afterwards rub the said parchment with the exorcised salt, and leave it
 in the Sun, to imbibe this salt for the space of an entire day. Then
 take a large earthen vessel glazed within and without, round the outside
 of which thou shalt write the characters in *[Figure
-88](kos44.htm#img_kos14)*.
+88](kos44.htm#img_kos14.md)*.
 
 After this thou shalt put powdered lime into the vessel, saying
 
@@ -121,7 +121,7 @@ thou mayest make it in the following manner, but it is not so good.
 
 Take any Parchment, and exorcise it; prepare a censer with perfumes
 write upon the parchment the characters in *[Figure
-89](kos44.htm#img_kos14)*, hold it over the incense, and say:--
+89](kos44.htm#img_kos14.md)*, hold it over the incense, and say:--
 
 Be ye present to aid me, and may my operation be accomplished through
 you; ZAZAII, ZALMAII, DALMAII, ADONAI, ANAPHAXETON, CEDRION, CRIPON,
@@ -150,4 +150,4 @@ exorcised and consecrated.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Of Wax And Virgin Earth](kos54)
+[Next: Chapter XVIII. Of Wax And Virgin Earth](kos54.md)

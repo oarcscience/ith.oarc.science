@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs02)  [Next](pifs04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs02)  [Next](pifs04.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ The Pueblos are divided into six tribes, each speaking a distinct
 language of its own. Isleta, the quaint village where I lived five
 years, in an Indian house, with Indian neighbors, and under Indian laws,
 is the southernmost of the pueblos, the next largest of them all, and
-the chief city of the Tée-wahn tribe. <span id="fr_0"></span>[1](#fn_0)
+the chief city of the Tée-wahn tribe. <span id="fr_0"></span>[1](#fn_0.md)
 All the languages of the Pueblo tribes are exceedingly difficult to
 learn.
 
@@ -102,7 +102,7 @@ Pueblos.
 Isleta lies on the Atlantic and Pacific Railroad, upon the western bank
 of the Rio Grande, on a lava promontory which was once an island--whence
 the town takes its Spanish name. Its Tée-wahn title is
-Shee-eh-whíb-bak. <span id="fr_1"></span>[1](#fn_1) Its population,
+Shee-eh-whíb-bak. <span id="fr_1"></span>[1](#fn_1.md) Its population,
 according to the census taken in 1891, is a little less than twelve
 hundred. It is nearly surrounded by fertile vineyards, orchards of
 peaches, apricots, apples, cherries, plums, pears, and quinces, and
@@ -133,7 +133,7 @@ and most of them excellent seamstresses.
 Yet, with all this progress in civilization, despite their mental and
 physical acuteness and their excellent moral qualities, the Tée-wahn are
 in some things but overgrown children. Their secret inner religion <span
-id="fr_2"></span>[1](#fn_2) is one of the most complicated systems on
+id="fr_2"></span>[1](#fn_2.md) is one of the most complicated systems on
 earth. Besides the highest deities, all the forces of nature, all
 animals, as well as many things that are inanimate, are invested by them
 with supernatural powers. They do not worship idols, but images and
@@ -188,7 +188,7 @@ men and very young boys gathered about the queer little
 
 [![''AS I COME IN, KINDLY OLD TATA LORENSO IS JUST BEGINNING A
 STORY''](tn/00700.jpg)  
-Click to enlarge](img/00700.jpg)  
+Click to enlarge](img/00700.jpg.md)  
 ''AS I COME IN, KINDLY OLD TATA LORENSO IS JUST BEGINNING A STORY''  
 
  
@@ -265,7 +265,7 @@ out all the fairy stories he knows, Webster's Unabridged Dictionary
 would hardly hold them. His father and his father's father, and so on
 back for countless centuries, have handed down these stories by telling,
 from generation to generation, just as Tata <span
-id="fr_3"></span>[1](#fn_3) Lorenso is telling his great-great-grandsons
+id="fr_3"></span>[1](#fn_3.md) Lorenso is telling his great-great-grandsons
 to-night. When these boys grow up, they will tell these stories to their
 sons and grandsons; and so the legends will pass on and on, so long as
 there shall be a Tée-wahn Indian left in all New Mexico.
@@ -280,21 +280,21 @@ begins again.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](pifs03.htm#fr_0) Spelled Tigua by Spanish
+<span id="fn_0"></span>[3:1](pifs03.htm#fr_0.md) Spelled Tigua by Spanish
 authors.
 
-<span id="fn_1"></span>[4:1](pifs03.htm#fr_1) The name means
+<span id="fn_1"></span>[4:1](pifs03.htm#fr_1.md) The name means
 "Knife-laid-on-the-ground-to-play-*whib*." *Whib* is an aboriginal
 foot-race in which the runners have to carry a stick with their toes.
 The name was perhaps suggested by the knife-like shape of the lava ridge
 on which the pueblo is built.
 
-<span id="fn_2"></span>[5:1](pifs03.htm#fr_2) For they are all devout,
+<span id="fn_2"></span>[5:1](pifs03.htm#fr_2.md) For they are all devout,
 if not entirely understanding, members of a Christian church; but keep
 also much of their prehistoric faiths.
 
-<span id="fn_3"></span>[11:1](pifs03.htm#fr_3) "Father."
+<span id="fn_3"></span>[11:1](pifs03.htm#fr_3.md) "Father."
 
 ------------------------------------------------------------------------
 
-[Next: I. The Antelope Boy](pifs04)
+[Next: I. The Antelope Boy](pifs04.md)

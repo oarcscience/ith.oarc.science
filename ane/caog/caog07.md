@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog06)  [Next](caog08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog06)  [Next](caog08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -138,7 +138,7 @@ Anatu being the female principle or wife of Anu. Anu is termed the old
 god, and the god of the whole of heaven and earth; one of the
 manifestations of Arm was as the two forms Lahma and Lahama, which
 probably correspond to the Greek forms Dache and Dachus, see [p.
-50](caog06.htm#page_50). These forms are said to have sprung out of the
+50](caog06.htm#page_50.md). These forms are said to have sprung out of the
 original chaos, and they are
 
 <span id="page_55">p. 55</span>
@@ -292,7 +292,7 @@ inscriptions are not always consistent, either as to the sex or
 paternity of the gods:—
 
 <span id="img_06000"></span> <span align="CENTER"> [![](tn/06000.jpg)  
-Click to enlarge](img/06000.jpg)</span>
+Click to enlarge](img/06000.jpg.md)</span>
 
 <span id="img_06001"></span> ![](img/06001.jpg)
 
@@ -300,6 +300,6 @@ Click to enlarge](img/06000.jpg)</span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Babylonian Legend of the Creation](caog08)
+[Next: Chapter V. Babylonian Legend of the Creation](caog08.md)
 
 </div>

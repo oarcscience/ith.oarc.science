@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth036)  [Next](toth038) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth036)  [Next](toth038.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 34. THE KÓHONINO HUNTER. <span id="fr_87"></span>[2](#fn_85)
+## 34. THE KÓHONINO HUNTER. <span id="fr_87"></span>[2](#fn_85.md)
 
 Halíksai! A long time ago the Kóhonino came out at the place where the
 salt comes out. They ascended, traveled southward, and there built some
@@ -44,13 +44,13 @@ sleep. In the night the hunter revived, but as a skeleton (másauwuu). He
 arose and went towards the place where his people were living, but he
 pitied himself, saving, "Oh! I!" and then began to moan as follows:
 
-Havacova <span id="fr_88"></span>[1](#fn_86) Kahnina,  
+Havacova <span id="fr_88"></span>[1](#fn_86.md) Kahnina,  
 At Blue, Blue Kohoninas,  
 Iwayahana. Haara  
 It will be good. Eyes  
-Paama takoyma! Hinayahanaa <span id="fr_89"></span>[2](#fn_87)  
+Paama takoyma! Hinayahanaa <span id="fr_89"></span>[2](#fn_87.md)  
 All gone, Oh! Oh!  
-Hanina <span id="fr_90"></span>[3](#fn_88) takoyma  
+Hanina <span id="fr_90"></span>[3](#fn_88.md) takoyma  
 Oy ovoyoy ah --------.
 
 While he was thus moaning he proceeded towards the bluff where his
@@ -62,7 +62,7 @@ said, "A Skeleton is crying" (Maiyoma chavoko). They now looked and by
 that time the Skeleton had come within the radius of the light of their
 camp-fires. Then they saw that it was a Skeleton. "Oh!" (Ma!) they said,
 "it is a Skeleton" (Maviyoma). "Oh! we all shall flee" (Ma! payam
-kiwakvako). <span id="fr_91"></span>[4](#fn_89)
+kiwakvako). <span id="fr_91"></span>[4](#fn_89.md)
 
 <span id="page_126">p. 126</span>
 
@@ -79,7 +79,7 @@ this place.
 
 ### Footnotes
 
-<span id="fn_84"></span>[124:1](toth036.htm#fr_86) This kiva was last
+<span id="fn_84"></span>[124:1](toth036.htm#fr_86.md) This kiva was last
 occupied by women and was dismantled probably about forty years ago. The
 flag-stones of the floor were used for the floor in the present Kwán
 kiva, and the timbers were used for reconstructing the Cakwálânvi kiva,
@@ -89,21 +89,21 @@ old, heavy timbers in the Cakwálânvi kiva were somewhat rotten and so
 had to be used on narrower kivas, while the Cakwálânvi kiva used the
 longer timbers of the Chórzhovi kiva in reconstructing their wider kiva.
 
-<span id="fn_85"></span>[124:2](toth037.htm#fr_87) Told by Tangákhoyoma
+<span id="fn_85"></span>[124:2](toth037.htm#fr_87.md) Told by Tangákhoyoma
 (Oraíbi).
 
-<span id="fn_86"></span>[125:1](toth037.htm#fr_88) After Green Bluff
+<span id="fn_86"></span>[125:1](toth037.htm#fr_88.md) After Green Bluff
 (Cakwátupka), where they now live.
 
-<span id="fn_87"></span>[125:2](toth037.htm#fr_89) The narrator was
+<span id="fn_87"></span>[125:2](toth037.htm#fr_89.md) The narrator was
 unable to give the meaning.
 
-<span id="fn_88"></span>[125:3](toth037.htm#fr_90) The narrator was
+<span id="fn_88"></span>[125:3](toth037.htm#fr_90.md) The narrator was
 unable to give the meaning.
 
-<span id="fn_89"></span>[125:4](toth037.htm#fr_91) These phrase, are in
+<span id="fn_89"></span>[125:4](toth037.htm#fr_91.md) These phrase, are in
 the Kóhonino language.
 
 ------------------------------------------------------------------------
 
-[Next: 35. The White Corn-ear Maiden and the Sorcerers](toth038)
+[Next: 35. The White Corn-ear Maiden and the Sorcerers](toth038.md)

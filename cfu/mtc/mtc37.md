@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc36)  [Next](mtc38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc36)  [Next](mtc38.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Intangible Textual Heritage
 #### *(Written in 818)*
 
 <span class="smallcaps">My</span> long poem, the "Eternal Grief," <span
-id="fr_25"></span>[1](#fn_23) is a beautiful and moving work;  
+id="fr_25"></span>[1](#fn_23.md) is a beautiful and moving work;  
 My ten "Songs of Shensi" are models of tunefulness.  
 I cannot prevent Old Yüan from stealing my best rhymes;  
 But I earnestly beg Little Li to respect my ballads and songs.  
@@ -36,13 +36,13 @@ I have added Volume Fifteen to the row that stands to my name.
 
 ### Footnotes
 
-<span id="fn_23"></span>[67:1](mtc37.htm#fr_25) See Giles, "Chinese
+<span id="fn_23"></span>[67:1](mtc37.htm#fr_25.md) See Giles, "Chinese
 Literature," p. 169.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Invitation to Hsiao Chü-Shih](mtc38)
+[Next: Invitation to Hsiao Chü-Shih](mtc38.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plato](../index)  [Index](index)  [Previous](laws06)  [Next](laws08) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plato](../index)  [Index](index)  [Previous](laws06)  [Next](laws08.md) 
 
 ------------------------------------------------------------------------
 
@@ -929,4 +929,4 @@ the register kept by the magistrates.
 
 ------------------------------------------------------------------------
 
-[Next: BOOK IX](laws08)
+[Next: BOOK IX](laws08.md)

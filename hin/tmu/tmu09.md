@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu08)  [Next](tmu10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu08)  [Next](tmu10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,14 +21,14 @@ Intangible Textual Heritage
 
 <span id="page_37">p. 37</span>
 
-### ĀṬMABOḌHA <span id="fr_12"></span>[1](#fn_12)-UPANISHAḌ
+### ĀṬMABOḌHA <span id="fr_12"></span>[1](#fn_12.md)-UPANISHAḌ
 
 ### OF
 
 ### ṚGVEḌA
 
 <span class="smallcaps">Om</span>. Prostrations to Nārāyaṇa wearing
-conch, discus, and mace, <span id="fr_13"></span>[2](#fn_13) by whom the
+conch, discus, and mace, <span id="fr_13"></span>[2](#fn_13.md) by whom the
 Yogi is released from the bondage of the cycle of rebirth through the
 utterance of Him who is of the form of Praṇava, the Om, composed of the
 three letters A, U, and M, who is the uniform bliss and who is the
@@ -47,7 +47,7 @@ becomes the fearless non-dual. Whoever sees this (world) as manifold
 (with the differences of I, you, he, etc.), passes from death to death.
 In the centre of the heart-lotus is Brahman, which is the All, which has
 Prājñā as Its eye and which is established in Prajñāna <span
-id="fr_14"></span>[3](#fn_14) alone. To creatures,
+id="fr_14"></span>[3](#fn_14.md) alone. To creatures,
 
 <span id="page_38">p. 38</span>
 
@@ -147,13 +147,13 @@ not born again—yea, is not born again.
 
 ### Footnotes
 
-<span id="fn_12"></span>[37:1](tmu09.htm#fr_12) This Upanishaḍ treats of
+<span id="fn_12"></span>[37:1](tmu09.htm#fr_12.md) This Upanishaḍ treats of
 Āṭmic instruction.
 
-<span id="fn_13"></span>[37:2](tmu09.htm#fr_13) The three symbols stand
+<span id="fn_13"></span>[37:2](tmu09.htm#fr_13.md) The three symbols stand
 for Ākāsa, Manas, and Buḍḍhi.
 
-<span id="fn_14"></span>[37:3](tmu09.htm#fr_14) In the Māṇdūkya
+<span id="fn_14"></span>[37:3](tmu09.htm#fr_14.md) In the Māṇdūkya
 Upanishaḍ, Prājñā is said to be the Jīva in the third state and Prajñāna
 is its attribute. Prajñāna is Prakarsha Jñāna or special wisdom, *viz*.,
 of looking over the past and the future.
@@ -162,6 +162,6 @@ of looking over the past and the future.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Skanḍa-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu10)
+[Next: 8. Skanḍa-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu10.md)
 
 </div>

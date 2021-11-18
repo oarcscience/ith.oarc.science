@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa05)  [Next](awa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa05)  [Next](awa07.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ ever to mention the name of a deceased person, male or female.
 
 ------------------------------------------------------------------------
 
-[Next: Land Ownership](awa07)
+[Next: Land Ownership](awa07.md)

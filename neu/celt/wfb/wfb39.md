@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb38)  [Next](wfb40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb38)  [Next](wfb40.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ call it Snowdon.
 
 ------------------------------------------------------------------------
 
-[Next: Pedws Ffowk and St. Elian's Well](wfb40)
+[Next: Pedws Ffowk and St. Elian's Well](wfb40.md)

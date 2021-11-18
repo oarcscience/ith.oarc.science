@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft18)  [Next](eft20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft18)  [Next](eft20.md) 
 
 ------------------------------------------------------------------------
 
 # The Story of the Three Bears
 
 <span id="img_018"></span> [![](tn/018.jpg)  
-Click to enlarge](img/018.jpg)
+Click to enlarge](img/018.jpg.md)
 
 ONCE upon a time there were Three Bears, who lived together in a house
 of their own, in a wood. One of them was a Little, Small, Wee Bear; and
@@ -190,4 +190,4 @@ anything more of her.
 
 ------------------------------------------------------------------------
 
-[Next: Jack the Giant-Killer](eft20)
+[Next: Jack the Giant-Killer](eft20.md)

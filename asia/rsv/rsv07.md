@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv06)  [Next](rsv08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv06)  [Next](rsv08.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,4 +145,4 @@ Cremation is often used in Saigon area for the burial of those influenced by The
 
 ------------------------------------------------------------------------
 
-[Next: V. Buddhism in Vietnam](rsv08)
+[Next: V. Buddhism in Vietnam](rsv08.md)

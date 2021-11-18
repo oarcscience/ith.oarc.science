@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste17)  [Next](ste19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste17)  [Next](ste19.md) 
 
 ------------------------------------------------------------------------
 
@@ -300,4 +300,4 @@ and all other qualities and priviledges reasonably ascrib’d to
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](ste19)
+[Next: Chapter III](ste19.md)

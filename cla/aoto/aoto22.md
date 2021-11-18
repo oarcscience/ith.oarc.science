@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto21) 
-[Next](aoto23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto21.md) 
+[Next](aoto23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -103,7 +103,7 @@ along the
 steep path leading to the town. When they were nearly there they came to
 the fountain which Ithacus, Neritus, and Polyctor had made, and from
 which the people drew their water; here they fell in with
-Melantheus <span id="fr_34"></span>[\*](#fn_34) son of Dolius, who was
+Melantheus <span id="fr_34"></span>[\*](#fn_34.md) son of Dolius, who was
 bringing goats for the suitors' dinner, he and his two under shepherds.
 
 <span class="margnote"><span id="an_17:215">215</span></span> Melanthius
@@ -116,7 +116,7 @@ leaving the swineherd and his master to follow at their own pace.
 <span class="margnote"><span id="an_17:260">260</span></span> When they
 got near the house they could hear the sound of Phemius's lyre, and his
 voice as he sang to the suitors. They could also smell the savour of
-roast meats. <span id="fr_35"></span>[†](#fn_35) Eumæus said that he
+roast meats. <span id="fr_35"></span>[†](#fn_35.md) Eumæus said that he
 would go in first, but that Ulysses had better follow him soon, for if
 he was seen standing about in the outer court people might throw things
 at him.
@@ -175,7 +175,7 @@ when he determined to again beg from Antinous and trumped him up a story
 of the misfortunes that had befallen him in Egypt.
 
 "Get out," said Antinous, "into the open part of the court, <span
-id="fr_36"></span>[\*](#fn_36) <span class="margnote"><span
+id="fr_36"></span>[\*](#fn_36.md) <span class="margnote"><span
 id="an_17:445">445</span></span> and away from my table, or I will give
 you Egypt over again."
 
@@ -255,15 +255,15 @@ had turned to their singing and dancing.
 
 ### Footnotes
 
-<span id="fn_34"></span>[72:\*](aoto22.htm#fr_34) In almost all other
+<span id="fn_34"></span>[72:\*](aoto22.htm#fr_34.md) In almost all other
 places he is called Melanthius.
 
-<span id="fn_35"></span>[72:†](aoto22.htm#fr_35) All this might very
+<span id="fn_35"></span>[72:†](aoto22.htm#fr_35.md) All this might very
 well be, if the scene is laid in an open court, but hardly if it was in
 a hall inside a house.
 
-<span id="fn_36"></span>[73:\*](aoto22.htm#fr_36) ἐς μέσσον (line 447).
+<span id="fn_36"></span>[73:\*](aoto22.htm#fr_36) ἐς μέσσον (line 447.md).
 
 ------------------------------------------------------------------------
 
-[Next: Book XVIII. The Fight Between Ulysses and Irus](aoto23)
+[Next: Book XVIII. The Fight Between Ulysses and Irus](aoto23.md)

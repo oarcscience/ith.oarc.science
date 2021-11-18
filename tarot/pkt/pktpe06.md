@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktpe07)  [Next](pktpe05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktpe07)  [Next](pktpe05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Six
 
 <span id="img_pe06"></span> <span align="CENTER"> [![](tn/pe06.jpg)  
-Click to enlarge](img/pe06.jpg)</span>
+Click to enlarge](img/pe06.jpg.md)</span>
 
 A person in the guise of a merchant weighs money in a pair of scales and
 distributes it to the needy and distressed. It is a testimony to his own
@@ -31,4 +31,4 @@ attention, vigilance now is the accepted time, present prosperity, etc.
 
 ------------------------------------------------------------------------
 
-[Next: Five of Pentacles](pktpe05)
+[Next: Five of Pentacles](pktpe05.md)

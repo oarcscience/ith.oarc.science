@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm15)  [Next](tsm17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm15)  [Next](tsm17.md) 
 
 ------------------------------------------------------------------------
 
@@ -237,7 +237,7 @@ good. One evening as he sat sorrowing on the shore, a mermaid raised her
 head above the waves and sang:
 
 Would you let bonnie May die in your hand  
-And the mugwort <span id="fr_8"></span>[1](#fn_8) flowering in the land?
+And the mugwort <span id="fr_8"></span>[1](#fn_8.md) flowering in the land?
 
 Then she vanished. The man went at once and gathered the flowers of the
 mugwort, and made a medicine. This he gave to May, who was soon restored
@@ -280,9 +280,9 @@ swimming away in the dusk.
 
 ### Footnotes
 
-<span id="fn_8"></span>[168:1](tsm16.htm#fr_8) Also called
+<span id="fn_8"></span>[168:1](tsm16.htm#fr_8.md) Also called
 "southernwood". It is an aromatic plant allied to "wormwood".
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Exiles from Fairyland](tsm17)
+[Next: Chapter XIV. Exiles from Fairyland](tsm17.md)

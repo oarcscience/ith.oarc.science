@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap61) 
-[Next](bap63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap61.md) 
+[Next](bap63.md) 
 
 ------------------------------------------------------------------------
 
 ### CHAPTER XLVIII.
 
-XLVIII\.  <span id="fr_141"></span>[2](#fn_141) At that time also
+XLVIII\.  <span id="fr_141"></span>[2](#fn_141.md) At that time also
 Phinees laid himself down to die, and the Lord said unto him: Behold
 thou hast overpassed the 120 years that were ordained unto all men. And
 now arise and go hence and dwell in the mount Danaben and abide there
@@ -66,9 +66,9 @@ a king reigned over them.
 
 ### Footnotes
 
-<span id="fn_141"></span>[210:2](bap62.htm#fr_141) XLVIII. Phinehas
+<span id="fn_141"></span>[210:2](bap62.htm#fr_141.md) XLVIII. Phinehas
 identified with Elijah. See the passage quoted from Origen in the
-Introd., [p. 11](bap03.htm#page_11). In *Pirke R. Eliezer* the belief is
+Introd., [p. 11](bap03.htm#page_11.md). In *Pirke R. Eliezer* the belief is
 stated twice: c. 29, when Elijah says: "I have been very zealous" (1
 Kings 19:10), God says: Thou art always zealous. Thou wast zealous in
 Shittim. . . . because it is said: Phinehas . . . turned my wrath away,
@@ -83,4 +83,4 @@ Ye shall taste what is death: gustabitis quod est mortis.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLIX](bap63)
+[Next: Chapter XLIX](bap63.md)

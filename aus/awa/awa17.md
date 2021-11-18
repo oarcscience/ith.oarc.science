@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa16)  [Next](awa18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa16)  [Next](awa18.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ wielding it. Could any device be more ingenious.
 
 ------------------------------------------------------------------------
 
-[Next: Humor](awa18)
+[Next: Humor](awa18.md)

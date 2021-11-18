@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca24)  [Next](ntca26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca24)  [Next](ntca26.md) 
 
 ------------------------------------------------------------------------
 
@@ -1055,4 +1055,4 @@ name to a totem.
 
 ------------------------------------------------------------------------
 
-[Next: Index](ntca26)
+[Next: Index](ntca26.md)

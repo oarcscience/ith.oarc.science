@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist043) 
-[Next](hist045) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist043.md) 
+[Next](hist045.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ brother!"
 
 [Next: IX. Of the reign of King Edwin, and how Paulinus, coming to
 preach the Gospel, first converted his daughter and others to the
-mysteries of the faith of Christ. \[625-626 A.D.\]](hist045)
+mysteries of the faith of Christ. \[625-626 A.D.\]](hist045.md)

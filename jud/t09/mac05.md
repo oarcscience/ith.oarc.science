@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](mac04)  [Next](mac06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](mac04)  [Next](mac06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -56,7 +56,7 @@ punishment, unless two witnesses have warned this culprit. If both of
 the witnesses have seen him who warned them, they are considered
 conjoined, The court of Sanhedrin is to be established in Palestine as
 well as in the countries outside of it. In the large cities but not in
-the small ones, [1](mac06.htm#page_1)-4
+the small ones, [1](mac06.htm#page_1.md)-4
 
 <span id="page_xiii">p. xiii</span>
 
@@ -97,7 +97,7 @@ still more from my disciples. The Holy One, blessed be He, appoints them
 into one inn, and he who had killed intentionally is placed under a
 ladder, while the other, who killed unintentionally, descends the steps,
 falls and kills him. According to one he wrote only the eight verses,
-which begin with. "And Moses died," etc., [14](mac06.htm#page_14)-28
+which begin with. "And Moses died," etc., [14](mac06.htm#page_14.md)-28
 
 MISHNA *VI*. TO *X*. There is no difference between the high priests who
 were anointed with the holy oil, etc. Therefore the mothers of the
@@ -118,7 +118,7 @@ murderer
 <span id="page_xv">p. xv</span>
 
 was exiled, the townsmen like to honor him, he has to say to them "I am
-a murderer," [29](mac07.htm#page_29)-34.
+a murderer," [29](mac07.htm#page_29.md)-34.
 
 ### CHAPTER III.
 
@@ -149,7 +149,7 @@ only when he has done both, wrote and etched-in with dye, etc. A
 Nazarite who was drinking wine the whole day is culpable only for one
 negative. There is an instance that one may plough only one bed and
 shall be culpable for eight negatives. The number of stripes is forty
-less one, [34](mac07.htm#page_34)-47.
+less one, [34](mac07.htm#page_34.md)-47.
 
 MISHNA *VI*.-*IX*. The examination as to the number of stripes he can
 receive and remain alive must be such that can be equally divided by
@@ -164,14 +164,14 @@ Shem, etc. Six hundred and thirteen commands were said to Moses, etc.
 Isaiah reduced them to six. Michah came and reduced them to three.
 Isaiah (the second) again reduced them to two. "Keep ye justice and do
 equity." Amos reduced them to one. "Seek ye for me, and ye shall live,"
-[47](mac08.htm#page_47)-56.
+[47](mac08.htm#page_47.md)-56.
 
 ### APPENDIX.
 
 He who speaks ill of his neighbor, he who listens to such evil-speaking,
 finally, he who bears false testimony deserves to be thrown to the dogs,
-[47](mac08.htm#page_47)-56.
+[47](mac08.htm#page_47.md)-56.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](mac06)
+[Next: Chapter I](mac06.md)

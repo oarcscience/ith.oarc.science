@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas024n)  [Next](jas026n)   
- \[[25. Food and Cudgel.](jas025)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas024n)  [Next](jas026n.md)   
+ \[[25. Food and Cudgel.](jas025.md)\]
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ Bolte u. Polívka, 2:336-361.
 
 ------------------------------------------------------------------------
 
-[Next: Note 26. The Riddle.](jas026n)
+[Next: Note 26. The Riddle.](jas026n.md)

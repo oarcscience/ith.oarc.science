@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPU0PK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPU0PK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,8 +28,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPU0PK/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](dg00)    [Page
-Index](pageidx)    [Text \[Zipped\]](dg.txt.gz)
+[Contents](#contents)    [Start Reading](dg00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](dg.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -87,15 +87,15 @@ of attitudes patronizing or idealizing Native Americans.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](dg00)  
-[Contents](dg01)  
-[Introduction](dg02)  
-[I. The Pueblo People](dg03)  
-[II: Dances of the Rio Grande Pueblos](dg04)  
-[III. Dances of Zuñi Pueblo](dg05)  
-[IV: The Hopis](dg06)  
-[V. Hopi Dances](dg07)  
-[VI: The Navajos](dg08)  
-[VII: Navajo Dances](dg09)  
-[VIII: The Apaches](dg10)  
-[IX: Apache Dances](dg11)
+<span id="contents"></span> [Title Page](dg00.md)  
+[Contents](dg01.md)  
+[Introduction](dg02.md)  
+[I. The Pueblo People](dg03.md)  
+[II: Dances of the Rio Grande Pueblos](dg04.md)  
+[III. Dances of Zuñi Pueblo](dg05.md)  
+[IV: The Hopis](dg06.md)  
+[V. Hopi Dances](dg07.md)  
+[VI: The Navajos](dg08.md)  
+[VII: Navajo Dances](dg09.md)  
+[VIII: The Apaches](dg10.md)  
+[IX: Apache Dances](dg11.md)

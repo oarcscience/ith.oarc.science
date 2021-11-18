@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal065)  [Next](njal067) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal065)  [Next](njal067.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ agreed among themselves that they should work out this plot by stealth.
 
 ------------------------------------------------------------------------
 
-[Next: 67. Of Thorgeir Starkad's Son](njal067)
+[Next: 67. Of Thorgeir Starkad's Son](njal067.md)

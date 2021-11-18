@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch02) 
-[Next](pch04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch02.md) 
+[Next](pch04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -106,7 +106,7 @@ as regards
 the life of Jesus—namely, that Jesus believed firmly in his Messiah-ship
 from the moment of his baptism onwards, and that he held by it in terms
 of his own inner experience of divine and fiendish influences. <span
-id="fr_0"></span>[1](#fn_0) And this is history, as written by scholarly
+id="fr_0"></span>[1](#fn_0.md) And this is history, as written by scholarly
 theological experts. The fact that the whole Temptation story is
 rationally traceable to a Babylonian sculpture of the Goat-God beside
 the Sun-God, interpreted by Greeks and Romans successively as an
@@ -124,7 +124,7 @@ might thus announce himself from Dan. vii, 13 (1 Chron. xxi, 16), see
 Bp. Pearson, VII, f. and g. Solomon's porch was a cross building to the
 temple itself, and rose 120 cubits above it. From the term used by both
 Evangelists, it is certain that the Tempter stood on no part (τοῦ ναοῦ)
-of the *sanctuary*." <span id="fr_1"></span>[2](#fn_1) Thus does the
+of the *sanctuary*." <span id="fr_1"></span>[2](#fn_1.md) Thus does the
 "expert" elucidation of the impossible go on through the generations.
 The "experts" of to-day are for the most part as far behind the historic
 science of their time as were their predecessors; and their results are
@@ -139,7 +139,7 @@ convenience. Pfleiderer, latterly more and more bitterly repugning the
 interpretations of other scholars, alternately represented the
 personality of Jesus as a profoundly obscure problem, and offered
 fallacious elucidations thereof, with perfect confidence in his own
-selection of certainties. <span id="fr_2"></span>[3](#fn_2) Dr.
+selection of certainties. <span id="fr_2"></span>[3](#fn_2.md) Dr.
 Heinrici, offering a comprehensive view of *Das Urchristentum* (1902),
 ignores all historical difficulties on the score that he is discussing
 not the truth but the
@@ -152,7 +152,7 @@ validity whatever. Dr. Schweitzer, in his *Von Reimarus zu Wrede* (Eng.
 trans., *The Quest of the Historical Jesus*, 1910), after ably confuting
 all the current conceptions of the Founder, sets forth one which incurs
 fatal criticism as soon as it is propounded. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 The old fashion of manipulating the evidences, on the other hand, is
 still practised from time to time even by distinguished experts like
@@ -182,7 +182,7 @@ service of a theology which is consistent only in refusing to submit to
 scientific and logical tests.
 
 Then we have the significant portent of the pseudo-biological school of
-the Rev. Mr. Crawley, <span id="fr_4"></span>[2](#fn_4) according to
+the Rev. Mr. Crawley, <span id="fr_4"></span>[2](#fn_4.md) according to
 which nothing in religion is new and nothing true, but all is more or
 less productive of "vitality," and therefore precious, so that no
 critical analysis matters. Here the tribunals of historical and moral
@@ -254,19 +254,19 @@ the Gospel Jesus, despite a recognition of the weakness of the
 historical basis. Noting "with what a childlike mind those ancient
 Christians came to all questions of external fact—how independent of
 external fact the truth they lived by really was," <span
-id="fr_5"></span>[1](#fn_5) he yet assumed that any tale passed on by
+id="fr_5"></span>[1](#fn_5.md) he yet assumed that any tale passed on by
 such believers must have had a basis in a great personality. "Those
 gospel stories," he wrote, "come down to us by tradition handed on by
 the lips of ignorant peasants, so that we can never be *quite* sure that
 we have the *precise* truth about any incident." <span
-id="fr_6"></span>[2](#fn_6) Here both the positive and the negative
+id="fr_6"></span>[2](#fn_6.md) Here both the positive and the negative
 assumptions are invalid. We do *not* know that all the gospel stories
 were passed on by peasants; and we never know whether there was *any*
 historical basis whatever for any one tale. But on such assumptions Mr.
 Rix founded an unqualified conviction that the Gospel Jesus "headed a
 new spiritual era," "altered the whole face of things," "gave us a new
 principle to live by," and "revolutionised the whole world of human
-affection"; <span id="fr_7"></span>[3](#fn_7) and in his posthumous
+affection"; <span id="fr_7"></span>[3](#fn_7.md) and in his posthumous
 work, *Rabbi, Messiah, and Martyr* (1907), he presents one more *Life of
 Jesus* framed on the principle of excluding the supernatural and taking
 all the rest of the gospels as substantially true.
@@ -282,7 +282,7 @@ to try to base religion upon historical
 
 <span id="page_xvii">p. xvii</span>
 
-documents." <span id="fr_8"></span>[1](#fn_8) Then comes the exposition
+documents." <span id="fr_8"></span>[1](#fn_8.md) Then comes the exposition
 of how the Bâb movement rose in the devotion evoked by a remarkable
 personality; and how within thirty years the original account of the
 Founder was so completely superseded by a legendary account, full of
@@ -395,7 +395,7 @@ something like primacy in the Church, without leaving even a traditional
 trace of him as a brother of Jesus in the Acts?
 
 Either the gospel data are historically decisive or they are not. By
-excluding them from his "pillar texts" <span id="fr_9"></span>[1](#fn_9)
+excluding them from his "pillar texts" <span id="fr_9"></span>[1](#fn_9.md)
 Professor Schmiedel admits that they are bound up with the
 *supernatural* view of Jesus. The resort to the argument from the
 epistles is a partial confession that the whole gospel record is open to
@@ -430,34 +430,34 @@ of these pages, and revising the Index.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xiii:1](pch03.htm#fr_0) *Die Versuchung Jesu*,
+<span id="fn_0"></span>[xiii:1](pch03.htm#fr_0.md) *Die Versuchung Jesu*,
 in Bd. iii, H. 2, of *Zur Geschichte and Literatur des Urchristentums*,
 1907, pp. 92-3.
 
-<span id="fn_1"></span>[xiii:2](pch03.htm#fr_1) *Notes on the Four
+<span id="fn_1"></span>[xiii:2](pch03.htm#fr_1.md) *Notes on the Four
 Gospels*, etc., 1838, p. 220.
 
-<span id="fn_2"></span>[xiii:3](pch03.htm#fr_2) See the Appendix to the
+<span id="fn_2"></span>[xiii:3](pch03.htm#fr_2.md) See the Appendix to the
 second edition of *Christianity and Mythology*.
 
-<span id="fn_3"></span>[xiv:1](pch03.htm#fr_3) See Appendix last cited.
+<span id="fn_3"></span>[xiv:1](pch03.htm#fr_3.md) See Appendix last cited.
 
-<span id="fn_4"></span>[xiv:2](pch03.htm#fr_4) See Appendix C to the
+<span id="fn_4"></span>[xiv:2](pch03.htm#fr_4.md) See Appendix C to the
 present volume.
 
-<span id="fn_5"></span>[xvi:1](pch03.htm#fr_5) *Sermons, Addresses, and
+<span id="fn_5"></span>[xvi:1](pch03.htm#fr_5.md) *Sermons, Addresses, and
 Essays*, 1907, p. 1.
 
-<span id="fn_6"></span>[xvi:2](pch03.htm#fr_6) *Id*. p. 107.
+<span id="fn_6"></span>[xvi:2](pch03.htm#fr_6.md) *Id*. p. 107.
 
-<span id="fn_7"></span>[xvi:3](pch03.htm#fr_7) *Id*. p. 5.
+<span id="fn_7"></span>[xvi:3](pch03.htm#fr_7.md) *Id*. p. 5.
 
-<span id="fn_8"></span>[xvii:1](pch03.htm#fr_8) *Id*. pp. 295-6, 300.
+<span id="fn_8"></span>[xvii:1](pch03.htm#fr_8.md) *Id*. pp. 295-6, 300.
 
-<span id="fn_9"></span>[xix:1](pch03.htm#fr_9) For an examination of
+<span id="fn_9"></span>[xix:1](pch03.htm#fr_9.md) For an examination of
 these I may refer the reader to the Appendix to the second edition of
 *Christianity and Mythology*.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](pch04)
+[Next: Introduction](pch04.md)

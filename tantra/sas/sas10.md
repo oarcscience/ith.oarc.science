@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas09)  [Next](sas11)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas09)  [Next](sas11.md)  
 
 ------------------------------------------------------------------------
 
@@ -392,4 +392,4 @@ discount.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Eleven: Shakti in Taoism](sas11)
+Next: [Chapter Eleven: Shakti in Taoism](sas11.md)

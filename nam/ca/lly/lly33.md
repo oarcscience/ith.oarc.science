@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly32)  [Next](lly34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly32)  [Next](lly34.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ of the older and heavier deer.
 
 ------------------------------------------------------------------------
 
-[Next: Legend of the Fish-Women (Mermaids)](lly34)
+[Next: Legend of the Fish-Women (Mermaids)](lly34.md)

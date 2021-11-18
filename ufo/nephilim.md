@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](naziufo)  [Next](ourpast) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](naziufo)  [Next](ourpast.md) 
 
 ### Who are the Ufonauts? (Book of Enoch)
 
@@ -537,4 +537,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 ------------------------------------------------------------------------
 
 [Next: Flying Aircraft and Nuclear War and Other Strange Occurences of
-the Past](ourpast)
+the Past](ourpast.md)

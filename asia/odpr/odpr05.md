@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](odpr04)  [Next](odpr06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](odpr04)  [Next](odpr06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ described as a "Babel of tongues" and a "museum of nationalities."
 The Samaritans are the remnants of the tribes from Assyria and Persia
 who were transplanted by Sargon some seven hundred years before Christ
 to take the place of the "ten tribes" who were carried into
-captivity. <span id="fr_0"></span>[1](#fn_0) They figured in the life of
+captivity. <span id="fr_0"></span>[1](#fn_0.md) They figured in the life of
 Christ as is illustrated by the case of the "Samaritan woman" and the
 story of the "good Samaritan." Today they are represented by about one
 hundred and eighty persons who intermarry among themselves and are
@@ -88,7 +88,7 @@ hastening the withdrawal of that army from Syrian soil.
 secret sects found only in Syria, the other being the Nuṣayriyyah
 inhabiting the mountains north of Tripoli. The Ismā‘īliyyah of the Ḥimṣ
 and Ḥamāh district, another secret sect, are descended from the
-Assassins, <span id="fr_1"></span>[1](#fn_1) who for two centuries or so
+Assassins, <span id="fr_1"></span>[1](#fn_1.md) who for two centuries or so
 struck awe and terror into the hearts of the Crusaders, and are
 represented today by a few other sectarians in Persia and India. The
 Yezīdis, so-called devil worshipers, practice their hidden rites in the
@@ -113,7 +113,7 @@ so far as even to recognize the existence of a "modernist movement"
 alleged to be aiming at divulging the Druze beliefs, much less to
 declare "It is understood that Dr. Bliss of Beirūt will be the probable
 intermediary of communication with the western world if this disclosure
-takes place." <span id="fr_2"></span>[2](#fn_2)
+takes place." <span id="fr_2"></span>[2](#fn_2.md)
 
 In fact the outside world knows so little about the contents of this
 religion that in a recent session of the Permanent Mandates
@@ -157,17 +157,17 @@ There is, after all, nothing mysterious in the "Asian mystery," and the
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](odpr05.htm#fr_0) *Cf*. James A. Montgomery,
+<span id="fn_0"></span>[1:1](odpr05.htm#fr_0.md) *Cf*. James A. Montgomery,
 *The Samaritans, the Earliest Jewish Sect* (Philadelphia, 1907), pp.
 46-57.
 
-<span id="fn_1"></span>[3:1](odpr05.htm#fr_1) Arabic *Ḥashshāshīn* =
+<span id="fn_1"></span>[3:1](odpr05.htm#fr_1.md) Arabic *Ḥashshāshīn* =
 those addicted to the use of a stupefying weed.
 
-<span id="fn_2"></span>[3:2](odpr05.htm#fr_2) De Lacy O'Leary, *A Short
+<span id="fn_2"></span>[3:2](odpr05.htm#fr_2.md) De Lacy O'Leary, *A Short
 History of the Fatimid Khalifate* (London, 1923), p. 244. Dr. Bliss died
 in 1920.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Social and Historical Development](odpr06)
+[Next: Chapter II. Social and Historical Development](odpr06.md)

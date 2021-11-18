@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs32)  [Next](pifs34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs32)  [Next](pifs34.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ A DISOBEDIENT child is something I have never seen among the Pueblos, in
 all the years I have lived with them. The parents are very kind, too. My
 little *amigos* in Isleta and the other Pueblo towns--for they are my
 friends in all--are never spoiled; but neither are they punished
-much. <span id="fr_103"></span>[1](#fn_102) Personal acquaintance with a
+much. <span id="fr_103"></span>[1](#fn_102.md) Personal acquaintance with a
 spanking is what very few of them have. The idea of obedience is inborn
 and inbred. A word is generally enough; and for extreme cases it only
 needs the threat: "Look out, or I will send for the Grandfathers!"
@@ -196,10 +196,10 @@ Hungry Grandfathers.
 
 ### Footnotes
 
-<span id="fn_102"></span>[215:1](pifs33.htm#fr_103) must qualify this
+<span id="fn_102"></span>[215:1](pifs33.htm#fr_103.md) must qualify this
 now. In the last two years I have seen one spoiled child--just one, in
 ten years' acquaintance with 9000 Pueblos!
 
 ------------------------------------------------------------------------
 
-[Next: XXXI. The Coyote](pifs34)
+[Next: XXXI. The Coyote](pifs34.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](more07)  [Next](more09) 
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](more07)  [Next](more09.md) 
 
 ------------------------------------------------------------------------
 
@@ -294,4 +294,4 @@ hearts become stronger than the bond and obligation of words.
 
 ------------------------------------------------------------------------
 
-[Next: Of Their Military Discipline](more09)
+[Next: Of Their Military Discipline](more09.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog19)  [Next](hlog21) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog19)  [Next](hlog21.md) 
 
 ------------------------------------------------------------------------
 
@@ -978,4 +978,4 @@ NOTE.--See now article on "Dragon Ghost-gods " in Part II.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Puna and the Dragon](hlog21)
+[Next: XVI. Puna and the Dragon](hlog21.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng30)  [Next](vlsng32) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng30)  [Next](vlsng32.md) 
 
 ------------------------------------------------------------------------
 
@@ -236,4 +236,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX: Of the Slaying of Sigurd Fafnir's-bane.](vlsng32)
+[Next: Chapter XXX: Of the Slaying of Sigurd Fafnir's-bane.](vlsng32.md)

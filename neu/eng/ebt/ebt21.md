@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt20)  [Next](ebt22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt20)  [Next](ebt22.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ obviously passing over it, but not through the church.
 
 ------------------------------------------------------------------------
 
-[Next: Previous Data](ebt22)
+[Next: Previous Data](ebt22.md)

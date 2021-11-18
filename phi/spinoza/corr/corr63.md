@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr62)  [Next](corr64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr62)  [Next](corr64.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER LXV. (LXIII.)
 
-#### G. H. SCHALLER TO SPINOZA. <span id="fr_69"></span>[1](#fn_68)
+#### G. H. SCHALLER TO SPINOZA. <span id="fr_69"></span>[1](#fn_68.md)
 
 \[*Schaller asks for answers to four questions of his friend
 Tschirnhausen on the attributes of God, and mentions that Tschirnhausen
@@ -73,7 +73,7 @@ the former kind; understanding in thought and motion in extension seem
 to be of the latter.
 
 And these are the points which our said friend von Tschirnhausen joins
-with [me in](errata.htm#6) wishing to have explained by your excellence,
+with [me in](errata.htm#6.md) wishing to have explained by your excellence,
 if perchance your spare time allows it. He further relates, that Mr.
 Boyle and Oldenburg had formed a strange idea of your personal
 character, but that he has not only removed it, but also given reasons,
@@ -97,11 +97,11 @@ Mr. à Gent and J. Rieuwerts dutifully greet you.
 
 ### Footnotes
 
-<span id="fn_68"></span>[396:1](corr63.htm#fr_69) In the Opera Posthuma
+<span id="fn_68"></span>[396:1](corr63.htm#fr_69.md) In the Opera Posthuma
 this letter is arranged, so as to seem to be from the person who puts
 the questions himself, and the names of Schaller and Tschirnhausen are
 suppressed.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXVI. To Anon \[Tschirnhausen\]](corr64)
+[Next: Letter LXVI. To Anon \[Tschirnhausen\]](corr64.md)

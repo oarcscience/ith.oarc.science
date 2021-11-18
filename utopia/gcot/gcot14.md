@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot13)  [Next](gcot15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot13)  [Next](gcot15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ secure the land compulsorily at its market value, or at a price not too
 extravagantly removed from such value; and, this being done, railway
 enterprise went forward at so rapid a rate that in one year no less than
 £132,600,000 was authorized by Parliament to be raised for the purpose
-of railway construction. <span id="fr_32"></span>[1](#fn_32)
+of railway construction. <span id="fr_32"></span>[1](#fn_32.md)
 
 Now, if Parliamentary powers were necessary for the extension of railway
 enterprise, such powers will certainly be also needed when the inherent
@@ -124,7 +124,7 @@ shall not lessen or destroy, but ever add to its social opportunities,
 to its beauty, to its convenience. Consider for a moment the case of a
 city in Australia which in some measure illustrates the principle for
 which I am contending. The city of Adelaide, as the accompanying [sketch
-map](#img_diag04) shows, is surrounded by its 'Park Lands'. The city is
+map](#img_diag04.md) shows, is surrounded by its 'Park Lands'. The city is
 built up. How does it grow? It grows by leaping over the 'Park Lands'
 and establishing North Adelaide. And this is the
 
@@ -133,7 +133,7 @@ and establishing North Adelaide. And this is the
 <span id="img_diag04"></span>
 
 [![ADELAIDE AND ITS LANDS](tn/diag04.jpg)  
-Click to enlarge](img/diag04.jpg)  
+Click to enlarge](img/diag04.jpg.md)  
 ADELAIDE AND ITS LANDS  
 
 <span id="page_142">p. 142</span>
@@ -172,7 +172,7 @@ individuals can afford.
 <span id="img_diag05"></span>
 
 [![CORRECT PRINCIPLE OF A CITY'S GROWTH](tn/diag05.jpg)  
-Click to enlarge](img/diag05.jpg)  
+Click to enlarge](img/diag05.jpg.md)  
 CORRECT PRINCIPLE OF A CITY'S GROWTH  
 
 <span id="page_144">p. 144</span>
@@ -276,7 +276,7 @@ which he may perhaps take a pardonable pride are necessarily, in their
 present form, any more permanent than the stage-coach system which was
 the subject of so much admiration just at the very moment when it was
 about to be supplanted by the railways. <span
-id="fr_33"></span>[1](#fn_33) The simple issue to be faced, and faced
+id="fr_33"></span>[1](#fn_33.md) The simple issue to be faced, and faced
 resolutely, is: Can better results be obtained by starting on a bold
 plan on comparatively virgin soil than by attempting to adapt our old
 cities to our newer and higher needs? Thus fairly faced, the question
@@ -345,7 +345,7 @@ cities with their inflated and artificial rents, back to the land which
 can be now secured so cheaply. Two tendencies will then display
 themselves. The first will be a strong tendency for city ground values
 to fall, the other a less marked tendency for agricultural land to
-rise. <span id="fr_34"></span>[1](#fn_34) The holders of agricultural
+rise. <span id="fr_34"></span>[1](#fn_34.md) The holders of agricultural
 land, at least those who are willing to sell—and many of them are even
 now most anxious to do so—-will welcome the extension of an experiment
 which promises to place English agriculture once again in a position of
@@ -451,16 +451,16 @@ of half our poverty, disease, and suffering.
 
 ### Footnotes
 
-<span id="fn_32"></span>[139:1](gcot14.htm#fr_32) Clifford's *History of
+<span id="fn_32"></span>[139:1](gcot14.htm#fr_32.md) Clifford's *History of
 Private Bill Legislation* (Butterworth, 1885), Introduction, p. 88.
 
-<span id="fn_33"></span>[146:1](gcot14.htm#fr_33) See, for instance, the
+<span id="fn_33"></span>[146:1](gcot14.htm#fr_33.md) See, for instance, the
 opening chapter of *The Heart of Midlothian* (Sir Walter Scott).
 
-<span id="fn_34"></span>[148:1](gcot14.htm#fr_34) The chief reason for
+<span id="fn_34"></span>[148:1](gcot14.htm#fr_34.md) The chief reason for
 this is that agricultural land as compared with city land is of vastly
 larger quantity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Thirteen. The Future of London](gcot15)
+[Next: Chapter Thirteen. The Future of London](gcot15.md)

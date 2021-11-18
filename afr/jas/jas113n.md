@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas112n)  [Next](jas114n)   
- \[[113. The Grateful Beasts.](jas113)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas112n)  [Next](jas114n.md)   
+ \[[113. The Grateful Beasts.](jas113.md)\]
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ discussed by Espinosa, JAFL 27:212-213.
 
 ------------------------------------------------------------------------
 
-[Next: Note 114. Jack and the Bean-stalk.](jas114n)
+[Next: Note 114. Jack and the Bean-stalk.](jas114n.md)

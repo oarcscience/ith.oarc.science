@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu13)  [Next](cbu15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu13)  [Next](cbu15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -185,7 +185,7 @@ world, and could not be avoided. People must grow old, must suffer from
 sickness, and must die. The prince was not satisfied, and the next day,
 seeing a Deva dressed as a monk, he dismounted from his horse and asked
 him who he was. The reply was, "A Shamen <span
-id="fr_95"></span>[1](#fn_95) who has left the world." The prince asked
+id="fr_95"></span>[1](#fn_95.md) who has left the world." The prince asked
 him why he had left the world. He said, because he saw men exposed to
 the evils of birth, old age, sickness, and death; he therefore left the
 world to seek truth and save living beings. The disguised Deva then
@@ -245,10 +245,10 @@ prevented from making men virtuous and happy by contact with the world
 and the delusions of the senses. This is similar to the Confucian
 doctrine, that all men are born good, and it is only by falling into
 evil habits subsequently that they become vicious. Most systems of
-morals, indeed, <span id="fr_96"></span>[1](#fn_96) in words or by
+morals, indeed, <span id="fr_96"></span>[1](#fn_96.md) in words or by
 implication, admit the existence of conscience, because all men possess
 it, and cannot be made to understand moral distinctions without
-it. <span id="fr_97"></span>[2](#fn_97) The existence of a system of
+it. <span id="fr_97"></span>[2](#fn_97.md) The existence of a system of
 virtues and vices shows the operation of conscience on the maker of it,
 as the use of that system in moral instruction involves an appeal to
 conscience in the disciple. The identification of conscience, however,
@@ -285,7 +285,7 @@ continues to say, that to meet Buddha and be instructed, to be born in
 the time of a good king, to be born in the family of a Bodhisattwa, and
 to believe with the heart in the Three Honoured Ones, are all difficult.
 
-Buddha said, <span id="fr_98"></span>[1](#fn_98) in a discourse
+Buddha said, <span id="fr_98"></span>[1](#fn_98.md) in a discourse
 delivered in the heaven of Indra Shakra, that whatever good man or woman
 heard the name of Ti-tsang Bodhisattwa, and in consequence performed an
 act of praise or worship, or repeated that Bodhisattwa's name, or made
@@ -390,7 +390,7 @@ Western heaven, the abode of Amitabha Buddha, the reward of virtue. The
 description of this paradise consists entirely of things pleasing to the
 senses. It is popularly regarded as real, but the founder of the
 Yün-ts‘i school in his commentary on the "Amitabha Sutra," <span
-id="fr_99"></span>[1](#fn_99) explains it as figurative. According to
+id="fr_99"></span>[1](#fn_99.md) explains it as figurative. According to
 this explanation, the Western heaven means the moral nature, confirmed,
 pure, and at rest. Amitabha means the mind, clear, and enlightened. The
 rows of trees mean the mind cultivating the virtues. The music means the
@@ -548,7 +548,7 @@ Thibetans, to the Bod race, which, having no intellectual development of
 its own, accepted the Hindoo religion when brought them by the Buddhist
 teachers. The superiority of Hindoo arts and civilisation helped
 Buddhism to make this conquest. Bishop Bigandet <span
-id="fr_100"></span>[1](#fn_100) says: “The Birmese want the capability
+id="fr_100"></span>[1](#fn_100.md) says: “The Birmese want the capability
 to understand the Buddhist metaphysics. If the Buddhist moral code in
 itself has the power to influence a people so far as to render them
 virtuous and devotional, independently of the element of intellectual
@@ -627,27 +627,27 @@ life, but this is understood and lies underneath all Buddhistic thought.
 
 ### Footnotes
 
-<span id="fn_95"></span>[192:1](cbu14.htm#fr_95) In Sanscrit,
+<span id="fn_95"></span>[192:1](cbu14.htm#fr_95.md) In Sanscrit,
 *Shramana;* but according to the commentator on the "Life of Buddha,"
 Shakamananga, meaning "Diligence and cessation."
 
-<span id="fn_96"></span>[194:1](cbu14.htm#fr_96) Paley and those who
+<span id="fn_96"></span>[194:1](cbu14.htm#fr_96.md) Paley and those who
 side with him, who have attempted to construct a moral system without a
 natural sense of right and wrong in man, must be excepted.
 
-<span id="fn_97"></span>[194:2](cbu14.htm#fr_97) Morality is now
+<span id="fn_97"></span>[194:2](cbu14.htm#fr_97.md) Morality is now
 accounted for by evolution. The School of Darwin and Spencer refuses to
 accept moral law as eternal. Yet all the Asiatic religions make it their
 basis.
 
-<span id="fn_98"></span>[195:1](cbu14.htm#fr_98) Vide *Ti-tsang-king*.
+<span id="fn_98"></span>[195:1](cbu14.htm#fr_98.md) Vide *Ti-tsang-king*.
 
-<span id="fn_99"></span>[198:1](cbu14.htm#fr_99)
+<span id="fn_99"></span>[198:1](cbu14.htm#fr_99.md)
 *O-mi-to-king-su-ts‘au*, by Lieu-sï-ta-shï.
 
-<span id="fn_100"></span>[202:1](cbu14.htm#fr_100) See *Vie de Gaudama*,
+<span id="fn_100"></span>[202:1](cbu14.htm#fr_100.md) See *Vie de Gaudama*,
 p. 412.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Buddhist Calendar](cbu15)
+[Next: Chapter X. The Buddhist Calendar](cbu15.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray045)  [Next](pray047) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray045)  [Next](pray047.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Textual Heritage
 in which we descend to our own interests, not, indeed, that we are to
 lose sight of the glory of God (to which, as Paul declares, we must have
 respect even in meat and drink, <span id="iii.xliv-p1.1"></span>[1 Cor.
-10:31](../../../bib/kjv/co1010.htm#031)<span
+10:31](../../../bib/kjv/co1010.htm#031.md)<span
 id="iii.xliv-p1.1"></span>), and ask only what is expedient for
 ourselves; but the distinction, as we have already observed, is this:
 God claiming the three first petitions as specially his own, carries us
@@ -43,7 +43,7 @@ the latter to God still continue anxious about the former, still
 hesitate as to what they are to eat, as to how they are to be clothed,
 and are in trepidation whenever their hands are not filled with corn,
 and wine, and oil (<span id="iii.xliv-p2.1"></span>[Psalm
-4:8](../../../bib/kjv/psa004.htm#008)<span id="iii.xliv-p2.1"></span>):
+4:8](../../../bib/kjv/psa004.htm#008)<span id="iii.xliv-p2.1"></span>.md):
 so much more value do we set on this shadowy, fleeting life, than on a
 blessed immortality. But those who, trusting to God, have once cast away
 that anxiety about the flesh, immediately look to him for greater gifts,
@@ -63,7 +63,7 @@ them. As if his blessing and paternal favour were not eminently
 displayed in giving us food, or as if there were nothing in the
 declaration that godliness hath "the promise of the life that now is,
 and of that which is to come" (<span id="iii.xliv-p3.1"></span>[1
-Timothy 4:8](../../../bib/kjv/ti1004.htm#008)<span
+Timothy 4:8](../../../bib/kjv/ti1004.htm#008.md)<span
 id="iii.xliv-p3.1"></span>). But although the forgiveness of sins is of
 far more importance than the nourishment of the body, yet Christ has set
 down the inferior in the prior place, in order that he might gradually
@@ -74,9 +74,9 @@ heavenly Father is pleased to dispense, and not strive to make gain by
 illicit arts. Meanwhile, we must hold that the title by which it is ours
 is donation, because, as Moses says (<span
 id="iii.xliv-p3.2"></span>[Leviticus
-26:20](../../../bib/kjv/lev026.htm#020)<span id="iii.xliv-p3.2"></span>,
+26:20](../../../bib/kjv/lev026.htm#020.md)<span id="iii.xliv-p3.2"></span>,
 <span id="iii.xliv-p3.3"></span>[Deuteronomy
-8:17](../../../bib/kjv/deu008.htm#017)<span id="iii.xliv-p3.3"></span>),
+8:17](../../../bib/kjv/deu008.htm#017)<span id="iii.xliv-p3.3"></span>.md),
 neither our industry, nor labour, nor hands, acquire anything for us,
 unless the blessing of God be present; nay, not even would abundance of
 bread be of the least avail were it not divinely converted into
@@ -102,17 +102,17 @@ nothing is more difficult to human pride than the admission of this
 truth, the Lord declares that he gave a special proof for all ages, when
 he fed his people with manna in the desert (<span
 id="iii.xliv-p3.4"></span>[Deuteronomy
-8:3](../../../bib/kjv/deu008.htm#003)<span id="iii.xliv-p3.4"></span>),
+8:3](../../../bib/kjv/deu008.htm#003)<span id="iii.xliv-p3.4"></span>.md),
 that he might remind us that "man shall not live by bread alone, but by
 every word that proceedeth out of the mouth of God" (<span
 id="iii.xliv-p3.5"></span>[Matthew
-4:4](../../../bib/kjv/mat004.htm#004)<span id="iii.xliv-p3.5"></span>).
+4:4](../../../bib/kjv/mat004.htm#004)<span id="iii.xliv-p3.5"></span>.md).
 It is thus intimated, that by his power alone our life and strength are
 sustained, though he ministers supply to us by bodily instruments. In
 like manner, whenever it so pleases, he gives us a proof of an opposite
 description, by breaking the strength, or, as he himself calls it, the
 *staff* of bread (<span id="iii.xliv-p3.6"></span>[Leviticus
-26:26](../../../bib/kjv/lev026.htm#026)<span
+26:26](../../../bib/kjv/lev026.htm#026.md)<span
 id="iii.xliv-p3.6"></span>), and leaving us even while eating to pine
 with hunger, and while drinking to be parched with thirst. Those who,
 not contented with daily bread, indulge an unrestrained insatiable
@@ -138,4 +138,4 @@ success.
 
 ------------------------------------------------------------------------
 
-[Next: 45.](pray047)
+[Next: 45.](pray047.md)

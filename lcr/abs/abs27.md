@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs26)  [Next](abs28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs26)  [Next](abs28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -208,7 +208,7 @@ the second toes tend to curl downward and inward not unlike those of the
 <span id="page_468">p. 468</span>
 
 <span id="img_46800"></span> <span align="CENTER"> [![](tn/46800.jpg)  
-Click to enlarge](img/46800.jpg)</span>
+Click to enlarge](img/46800.jpg.md)</span>
 
 <div style="font-family: Helvetica, Arial, Geneva, sans-serif">
 
@@ -239,7 +239,7 @@ extended foot from plaster cast.
 <span id="page_469">p. 469</span>
 
 <span id="img_46900"></span> <span align="CENTER"> [![](tn/46900.jpg)  
-Click to enlarge](img/46900.jpg)</span>
+Click to enlarge](img/46900.jpg.md)</span>
 
 <div style="font-family: Helvetica, Arial, Geneva, sans-serif">
 
@@ -341,7 +341,7 @@ or, alternatively,
 <span id="page_472">p. 472</span>
 
 <span id="img_47200"></span> <span align="CENTER"> [![](tn/47200.jpg)  
-Click to enlarge](img/47200.jpg)</span>
+Click to enlarge](img/47200.jpg.md)</span>
 
 <div style="font-family: Helvetica, Arial, Geneva, sans-serif">
 
@@ -440,10 +440,10 @@ was the original "Abominable Snowman" and it comes out as the last
 
 <span id="img_47600"></span> <span align="CENTER"> [![THE FAMILY TREE OF
 MAN AND THE PONGIDS, WITH THE ABSMs INSERTED](tn/47600.jpg)  
-Click to enlarge](img/47600.jpg)  
+Click to enlarge](img/47600.jpg.md)  
 THE FAMILY TREE OF MAN AND THE PONGIDS, WITH THE ABSMs INSERTED  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Appendix C. Where We Come In](abs28)
+[Next: Appendix C. Where We Come In](abs28.md)

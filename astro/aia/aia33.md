@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia32)  [Next](aia34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia32)  [Next](aia34.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ come to nothing; but the evil they threaten will be more violent.
 the querent out of all hopes in the business.
 
 20\. A planet under the beams of ☉, (viz. within 12 degrees), has no
-fortitude; <span id="fr_106"></span>[1](#fn_105) if within *sixteen
+fortitude; <span id="fr_106"></span>[1](#fn_105.md) if within *sixteen
 minutes* of ☉, he is in cazimi or heart of ☉, and then he is very
 strong.
 
@@ -596,7 +596,7 @@ applying to the lord of the ascendant, or to the lord of the 12th,
 (being herself in the ascendant,) or to the lord of the house of the ☽,
 the thing missing shall be found again. But if ☽ apply to none of these,
 nor be in the ascendant or 2d, the thing lost shall not be found. <span
-id="fr_107"></span>[1](#fn_106) If the lord of the house of ☽ be in the
+id="fr_107"></span>[1](#fn_106.md) If the lord of the house of ☽ be in the
 3d, or in ✶ to the ascendant, there is some hope of finding the thing
 again during that aspect with the degree ascending. Also, if he separate
 from the lord of the 6th, 8th, or 12th, and apply by any aspect to the
@@ -655,7 +655,7 @@ separating, but another planet be separating from him, say that some
 person took it away. If the lord of the house of ☽ be in neither of
 these cases, look to the lord of the 2d house, and judge by him in the
 same way. And if you find no separation of either of these two lords,
-say that the animal [is](errata.htm#2) still in or near its place, and
+say that the animal [is](errata.htm#2.md) still in or near its place, and
 is not gone away.
 
 *Whether it be dead*?
@@ -698,12 +698,12 @@ the ascendant, its lord or ☉, or in the ascendant, or ☉ there, unless in
 
 *The Kind of Place a Thing lost is in*?
 
-If ☽ be in a human sign, <span id="fr_108"></span>[1](#fn_107) it is in
+If ☽ be in a human sign, <span id="fr_108"></span>[1](#fn_107.md) it is in
 a place where men frequent; and if in a brutal sign (♈, ♉, ♌, ♑, and the
 last half of ♐), the thing is where animals frequent. If ☽ be in fiery
 signs, it is where fire is or has been, or near a fire, or on hills or
 high ground; if in watery signs, where water is or has been; <span
-id="fr_109"></span>[2](#fn_108) if in airy signs, where many windows
+id="fr_109"></span>[2](#fn_108.md) if in airy signs, where many windows
 are, or open places, garrets, &c.; if in earthy signs, in an earthy
 place, where houses are built of mud, clay, &c., and in brickfields. The
 ☽, or her dispositor, in a moveable sign, shews a place newly peopled,
@@ -755,7 +755,7 @@ or the lord of the 6th or 12th be in △ to ☉ out of angles.
 *Of a Fugitive, and whether he shall be found or return*?
 
 The lord of the 7th in the ascendant, he will return of his own
-accord. <span id="fr_110"></span>[1](#fn_109) If ☽ separate from the
+accord. <span id="fr_110"></span>[1](#fn_109.md) If ☽ separate from the
 lord of the ascendant, and be joined immediately to the lord or cusp of
 the 7th, news will shortly be brought of him. The lord of the 7th
 combust, he shall be found against his will. The ☽ afflicted by ♅, ♄, ♂,
@@ -1018,7 +1018,7 @@ planet, they are not in his hands; otherwise they are.
 The nature of the place is judged by the lord of the 4th house. If he be
 in a moveable sign, it is in a place high above the ground; in a fixed
 sign, in the earth; and in a common sign, it is under the eaves of a
-house, &c. <span id="fr_111"></span>[1](#fn_110) And you must judge also
+house, &c. <span id="fr_111"></span>[1](#fn_110.md) And you must judge also
 by the quality of the sign; as ♈ shews a place where small cattle are,
 as sheep, hogs, &c. ♌ shews a place of animals that bite, as dogs,
 foxes, &c.; ♐ a place of animals that are ridden, as horses, mules, &c.,
@@ -1080,7 +1080,7 @@ some seat or porch near the door; and
 
 if ☽ be in the 10th, there is near the entrance a door to go under
 ground, a trap or cellar door, or some other convenience in very common
-use. <span id="fr_112"></span>[1](#fn_111)
+use. <span id="fr_112"></span>[1](#fn_111.md)
 
 *The Nature of the Thing stolen*.
 
@@ -1111,7 +1111,7 @@ Also, if the lords of the term and house of the ☽ be both
 
 <span id="page_217">p. 217</span>
 
-increasing in light and motion, <span id="fr_113"></span>[1](#fn_112)
+increasing in light and motion, <span id="fr_113"></span>[1](#fn_112.md)
 and free from affliction, it shall be recovered, and be uninjured.
 
 Generally, if there be a diminution of their light and motion, the thing
@@ -1152,7 +1152,7 @@ the planet have *south* 
 
 latitude, he is nimble; if in *north* latitude, slow in his motions. If
 going out of one sign into another, he is weak and feeble. <span
-id="fr_114"></span>[1](#fn_113)
+id="fr_114"></span>[1](#fn_113.md)
 
 <span id="page_219">p. 219</span>
 
@@ -1262,7 +1262,7 @@ planet there, or the lord of the 1st or ☽ leaving a benefic, remain.
 
 The 8th house shews the property of the querent in he place he desires
 to remove to: if evil planets be there, it is better to remain. (*See
-also p*. [141](aia30.htm#page_141))
+also p*. [141](aia30.htm#page_141).md)
 
 <span id="page_222">p. 222</span>
 
@@ -1505,7 +1505,7 @@ is in, will describe what person will injure the querent.
 <span id="img_fig14"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 14.](tn/fig14.jpg)  
-Click to enlarge](img/fig14.jpg)  
+Click to enlarge](img/fig14.jpg.md)  
 *Fig*. 14.  
 
 JUDGMENT ON THE FIGURE ABOVE.
@@ -1597,7 +1597,7 @@ education.
 *If, will the querent be honest*? I answer, her significator ☉ is no way
 afflicted by ♂; her ascendant is *fixed*, and there is reception between
 ♃ and ☽, which are arguments of a virtuous woman. <span
-id="fr_115"></span>[1](#fn_114)
+id="fr_115"></span>[1](#fn_114.md)
 
 In this manner you may examine any figure for discovery of what is
 necessary, &c.
@@ -1605,7 +1605,7 @@ necessary, &c.
 <span id="img_fig15"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 15.](tn/fig15.jpg)  
-Click to enlarge](img/fig15.jpg)  
+Click to enlarge](img/fig15.jpg.md)  
 *Fig*. 15.  
 
 <span id="page_233">p. 233</span>
@@ -1619,7 +1619,7 @@ terms of ☿, and the cusp of the 7th being also in his terms. Indeed, a
 significator being in the terms of any planet, does vary the party from
 his natural constitution; so that he will retain a tincture from that
 planet, according as he is dignified. <span
-id="fr_116"></span>[1](#fn_115) The darkness of his hair I attribute to
+id="fr_116"></span>[1](#fn_115.md) The darkness of his hair I attribute to
 the aspect of ♄ to ♃, and ☽ being in the term of ♃.
 
 ☿ is here the querent's significator, and being retrograde, and under
@@ -1641,7 +1641,7 @@ marriage to the content of both parties.
 <span id="img_fig16"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 16.](tn/fig16.jpg)  
-Click to enlarge](img/fig16.jpg)  
+Click to enlarge](img/fig16.jpg.md)  
 *Fig*. 16.  
 
 JUDGMENT UPON THE ABOVE FIGURE.
@@ -1681,7 +1681,7 @@ near a great water, (viz. the Thames), as the ☽ in ♋ might signify.
 <span id="img_fig17"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 17.](tn/fig17.jpg)  
-Click to enlarge](img/fig17.jpg)  
+Click to enlarge](img/fig17.jpg.md)  
 *Fig*. 17.  
 
 JUDGMENT UPON THE ABOVE FIGURE.
@@ -1732,7 +1732,7 @@ wife, the 7th, &c.
 <span id="img_fig18"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 18.](tn/fig18.jpg)  
-Click to enlarge](img/fig18.jpg)  
+Click to enlarge](img/fig18.jpg.md)  
 *Fig*. 18.  
 
 JUDGMENT ON THE ABOVE FIGURE.
@@ -1781,7 +1781,7 @@ return of the money, which was within three days after.
 <span id="img_fig19"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 19.](tn/fig19.jpg)  
-Click to enlarge](img/fig19.jpg)  
+Click to enlarge](img/fig19.jpg.md)  
 *Fig*. 19.  
 
 EXPLANATION OF THE ABOVE FIGURE.
@@ -1848,7 +1848,7 @@ there will be a discovery, but no recovery.
 <span id="img_fig20"></span>
 
 [![Fig. 20.](tn/fig20.jpg)  
-Click to enlarge](img/fig20.jpg)  
+Click to enlarge](img/fig20.jpg.md)  
 Fig. 20.  
 
 *A Figure erected to know whether Sir* WILLIAM WALLER *or Sir* RALPH
@@ -1899,7 +1899,7 @@ fight, &c.
 <span id="img_fig21"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 21.](tn/fig21.jpg)  
-Click to enlarge](img/fig21.jpg)  
+Click to enlarge](img/fig21.jpg.md)  
 *Fig*. 21.  
 
 QUESTION.--*Whether his Excellency* ROBERT *Earl of* ESSEX *should take*
@@ -1955,12 +1955,12 @@ set.
 
 The Governor was hurt in the head, as ♄ in ♈ with ☋ shews; nor did they
 want provisions, &c., as ♀ in the 5th signifies. <span
-id="fr_117"></span>[1](#fn_116)
+id="fr_117"></span>[1](#fn_116.md)
 
 <span id="img_fig22"></span>
 
 [![Fig. 22.](tn/fig22.jpg)  
-Click to enlarge](img/fig22.jpg)  
+Click to enlarge](img/fig22.jpg.md)  
 Fig. 22.  
 
 <span id="page_248">p. 248</span>
@@ -2019,39 +2019,39 @@ those who really understand astrology, its final result.
 
 ### Footnotes
 
-<span id="fn_105"></span>[188:1](aia33.htm#fr_106) We should judge that,
+<span id="fn_105"></span>[188:1](aia33.htm#fr_106.md) We should judge that,
 if the planet dispose of ☉ by house, this rule does not hold. We have no
 faith in the doctrine of Cazimi.
 
-<span id="fn_106"></span>[202:1](aia33.htm#fr_107) This rule principally
+<span id="fn_106"></span>[202:1](aia33.htm#fr_107.md) This rule principally
 applies to cattle strayed.
 
-<span id="fn_107"></span>[205:1](aia33.htm#fr_108) The human signs are
+<span id="fn_107"></span>[205:1](aia33.htm#fr_108.md) The human signs are
 ♊, ♍, and ♒, also the first half of ♐. If the significator of any person
 or ☽ be in one of these signs, they are humane and civil in their
 manners.
 
-<span id="fn_108"></span>[205:2](aia33.htm#fr_109) In this case ♋
+<span id="fn_108"></span>[205:2](aia33.htm#fr_109.md) In this case ♋
 generally denotes pure or running water; ♏ foul water, and filthy
 liquids, oils, dyes, &c.; and ♓ standing waters, spirituous liquors,
 wines, &c.
 
-<span id="fn_109"></span>[207:1](aia33.htm#fr_110) If a servant, take
+<span id="fn_109"></span>[207:1](aia33.htm#fr_110.md) If a servant, take
 the lord of the 6th in all these eases.; and if the querent's child, the
 lord of the 5th, &c.
 
-<span id="fn_110"></span>[214:1](aia33.htm#fr_111) We should pay more
+<span id="fn_110"></span>[214:1](aia33.htm#fr_111.md) We should pay more
 attention to the nature of the sign, as fiery, earthy, &c.; and judge as
 in the rules for things mislaid.
 
-<span id="fn_111"></span>[216:1](aia33.htm#fr_112) These minute
+<span id="fn_111"></span>[216:1](aia33.htm#fr_112.md) These minute
 particulars may be found useful in many other questions. such as where
 fugitives, &c. are; and they might be of use in discovering criminals.
 
-<span id="fn_112"></span>[217:1](aia33.htm#fr_113) This means, going
+<span id="fn_112"></span>[217:1](aia33.htm#fr_113.md) This means, going
 faster than they were the previous day.
 
-<span id="fn_113"></span>[218:1](aia33.htm#fr_114) ♄ shews one of a
+<span id="fn_113"></span>[218:1](aia33.htm#fr_114.md) ♄ shews one of a
 pale, swarthy, dark complexion; hard, rough skin; hairy body; small,
 leering eyes; jaundiced look; lean, crooked, or ill made; beetle browed;
 thin beard; thick, negro lips; bow-legged, or one who knocks his knees
@@ -2097,15 +2097,15 @@ vulgar and ill-mannered.
 N.B. The above descriptions are partly taken from *Wilson's Astrological
 Dictionary*; a very useful work for the young student.
 
-<span id="fn_114"></span>[232:1](aia33.htm#fr_115) We should rely much
+<span id="fn_114"></span>[232:1](aia33.htm#fr_115.md) We should rely much
 on her significator ☉ being in ☌ with ♃.
 
-<span id="fn_115"></span>[233:1](aia33.htm#fr_116) We should rather
+<span id="fn_115"></span>[233:1](aia33.htm#fr_116.md) We should rather
 consider that ☿ in ♊ aspecting the cusp of the 7th; and the ☽, the
 *man's* general significator, being in ♎ and aspecting ♃, shewed his
 tallness. ♊ and ♎ are tall signs.
 
-<span id="fn_116"></span>[247:1](aia33.htm#fr_117) The well-known
+<span id="fn_116"></span>[247:1](aia33.htm#fr_117.md) The well-known
 instance of a military siege, the capture of the Castle of Antwerp,
 being so applicable to this question, and the time of its commencement
 by the opening of the trenches being so well authenticated, we are
@@ -2115,4 +2115,4 @@ time.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXI. Of the Eighth House, and its Questions: These are
-Death, Dowry, the Wife's Substance, &c.](aia34)
+Death, Dowry, the Wife's Substance, &c.](aia34.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos54)  [Next](kos56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos54)  [Next](kos56.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ instrument.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. Concerning the Silken Cloth](kos56)
+[Next: Chapter XX. Concerning the Silken Cloth](kos56.md)

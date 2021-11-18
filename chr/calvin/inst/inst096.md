@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst095)  [Next](inst097) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst095)  [Next](inst097.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,7 +131,7 @@ peace and purity of the Church, that we should not fastidiously object
 to whatever may be conducive to both. I may add, that I will study so to
 arrange this discussion, that it will tend, in no small degree, still
 farther to illustrate the subject of baptism.60  <span
-id="fr_623"></span>[624](#fn_623) The argument by which pædobaptism is
+id="fr_623"></span>[624](#fn_623.md) The argument by which pædobaptism is
 assailed is, no doubt, specious—viz. that it is not founded on the
 institution of God, but was introduced merely by human presumption and
 depraved curiosity, and afterwards, by a foolish facility, rashly
@@ -179,7 +179,7 @@ how far these two signs differ, and how far they resemble each other. In
 this way it will appear what analogy there is between them. When the
 Lord enjoins Abraham to observe circumcision (<span
 id="iv.iv.xvii-p39.1"></span>[Gen.
-17:10](../../../bib/kjv/gen017.htm#010)<span
+17:10](../../../bib/kjv/gen017.htm#010.md)<span
 id="iv.iv.xvii-p39.1"></span>), he premises that he would be a God unto
 him and to his seed, adding, that in himself was a perfect sufficiency
 of all things, and that Abraham might reckon on his hand as a fountain
@@ -187,14 +187,14 @@ of every blessing. These words include the promise of eternal life, as
 our Saviour interprets when he employs it to prove the immortality and
 resurrection of believers: “God,” says he, “is not the God of the dead,
 but of the living” (<span id="iv.iv.xvii-p39.2"></span>[Mt.
-22:32](../../../bib/kjv/mat022.htm#032)<span
+22:32](../../../bib/kjv/mat022.htm#032.md)<span
 id="iv.iv.xvii-p39.2"></span>). Hence, too, Paul, when showing to the
 Ephesians how great the destruction was from which the Lord had
 delivered them, seeing that they had not been admitted to the covenant
 of circumcision, infers that at that time they were aliens from the
 covenant of promise, without God, and without hope (<span
 id="iv.iv.xvii-p39.3"></span>[Eph.
-2:12](../../../bib/kjv/eph002.htm#012)<span
+2:12](../../../bib/kjv/eph002.htm#012.md)<span
 id="iv.iv.xvii-p39.3"></span>), all these being comprehended in the
 covenant. Now, the first access to God, the first entrance to immortal
 life, is the remission of sins. Hence it follows, that this corresponds
@@ -235,10 +235,10 @@ conclude, that everything applicable to circumcision applies also to
 baptism, excepting always the difference in the visible ceremony. To
 this analogy and comparison we are led by that rule of the apostle, in
 which he enjoins us to bring every interpretation of Scripture to the
-analogy of faith  <span id="fr_624"></span>[625](#fn_624) (<span
+analogy of faith  <span id="fr_624"></span>[625](#fn_624.md) (<span
 id="iv.iv.xvii-p41.1"></span>[Rom.
-12:3](../../../bib/kjv/rom012.htm#003),
-[6](../../../bib/kjv/rom012.htm#006)<span
+12:3](../../../bib/kjv/rom012.htm#003.md),
+[6](../../../bib/kjv/rom012.htm#006.md)<span
 id="iv.iv.xvii-p41.1"></span>). And certainly in this matter the truth
 may almost be felt. For just as circumcision, which was a kind of badge
 to the Jews, assuring them that they were adopted as the people and
@@ -318,7 +318,7 @@ an example from which the world might learn that he had come to enlarge
 rather than to limit the grace of the Father, kindly takes the little
 children in his arms, and rebukes his disciples for attempting to
 prevent them from, coming (<span id="iv.iv.xvii-p44.1"></span>[Mt.
-19:13](../../../bib/kjv/mat019.htm#013)<span
+19:13](../../../bib/kjv/mat019.htm#013.md)<span
 id="iv.iv.xvii-p44.1"></span>), because they were keeping those to whom
 the kingdom of heaven belonged away from him, through whom alone there
 is access to heaven. But it will be asked, What resemblance is there
@@ -371,8 +371,8 @@ by the hands of the apostles. For although this is not expressly
 narrated by the Evangelists, yet as they are not expressly excluded when
 mention is made of any baptised family (<span
 id="iv.iv.xvii-p45.1"></span>[Acts
-16:15](../../../bib/kjv/act016.htm#015),
-[32](../../../bib/kjv/act016.htm#032)<span
+16:15](../../../bib/kjv/act016.htm#015.md),
+[32](../../../bib/kjv/act016.htm#032.md)<span
 id="iv.iv.xvii-p45.1"></span>), what man of sense will argue from this
 that they were not baptised? If such kinds of argument were good, it
 would be necessary, in like manner, to interdict women from the Lord’s
@@ -428,7 +428,7 @@ recognise him as their Father. In fine, we ought to stand greatly in awe
 of the denunciation, that God will take vengeance on every one who
 despises to impress the symbol of the covenant on his child (<span
 id="iv.iv.xvii-p46.1"></span>[Gen.
-17:15](../../../bib/kjv/gen017.htm#015)<span
+17:15](../../../bib/kjv/gen017.htm#015.md)<span
 id="iv.iv.xvii-p46.1"></span>), such contempt being a rejection, and, as
 it were, abjuration of the offered grace.
 
@@ -511,9 +511,9 @@ deluded, because they do not exert themselves to obtain a full knowledge
 of any subject. We certainly admit that the carnal seed of Abraham for a
 time held the place of the spiritual seed, which is ingrafted into him
 by faith (<span id="iv.iv.xvii-p49.1"></span>[Gal.
-4:28](../../../bib/kjv/gal004.htm#028)<span
+4:28](../../../bib/kjv/gal004.htm#028.md)<span
 id="iv.iv.xvii-p49.1"></span>; <span id="iv.iv.xvii-p49.2"></span>[Rom.
-4:12](../../../bib/kjv/rom004.htm#012)<span
+4:12](../../../bib/kjv/rom004.htm#012.md)<span
 id="iv.iv.xvii-p49.2"></span>). For we are called his sons, though we
 have no natural relationship with him. But if they mean, as they not
 obscurely show, that the spiritual promise was never made to the carnal
@@ -532,13 +532,13 @@ into all nations indiscriminately, so that, according to the declaration
 of Christ, believers were collected from all quarters to sit down with
 Abraham, Isaac, and Jacob, in the kingdom of heaven (<span
 id="iv.iv.xvii-p50.1"></span>[Mt.
-8:11](../../../bib/kjv/mat008.htm#011)<span
+8:11](../../../bib/kjv/mat008.htm#011.md)<span
 id="iv.iv.xvii-p50.1"></span>), still, for many ages before, the Jews
 had enjoyed this great mercy. And as he had selected them (while passing
 by all other nations) to be for a time the depositaries of his favour,
 he designated them as his peculiar purchased people (<span
 id="iv.iv.xvii-p50.2"></span>[Exod.
-19:5](../../../bib/kjv/exo019.htm#005)<span
+19:5](../../../bib/kjv/exo019.htm#005.md)<span
 id="iv.iv.xvii-p50.2"></span>). In attestation of this kindness, he
 appointed circumcision, by which symbol the Jews were taught that God
 watched over their safety, and they were thereby raised to the hope of
@@ -555,12 +555,12 @@ imputed to them also: and the father of circumcision to them who are not
 of the circumcision only, but who also walk in the steps of that faith
 of our father Abraham, which he had yet being uncircumcised” (<span
 id="iv.iv.xvii-p50.3"></span>[Rom.
-4:9-12](../../../bib/kjv/rom004.htm#009)<span
+4:9-12](../../../bib/kjv/rom004.htm#009.md)<span
 id="iv.iv.xvii-p50.3"></span>). Do we not see that both are made equal
 in dignity? For, to the time appointed by the divine decree, he was the
 father of circumcision. But when, as the apostle elsewhere writes (<span
 id="iv.iv.xvii-p50.4"></span>[Eph.
-2:14](../../../bib/kjv/eph002.htm#014)<span
+2:14](../../../bib/kjv/eph002.htm#014.md)<span
 id="iv.iv.xvii-p50.4"></span>), the wall of partition which separated
 the Gentiles from the Jews was broken down, to them, also, access was
 given to the kingdom of God, and he became their father, and that
@@ -576,7 +576,7 @@ produced a passage from the Epistle to the Romans, in which the apostle
 says, that those who are of the flesh are not the children of Abraham,
 but that those only who are the children of promise are considered as
 the seed (<span id="iv.iv.xvii-p51.1"></span>[Rom.
-9:7](../../../bib/kjv/rom009.htm#007)<span
+9:7](../../../bib/kjv/rom009.htm#007.md)<span
 id="iv.iv.xvii-p51.1"></span>). For he seems to insinuate, that carnal
 relationship to Abraham, which we think of some consequence, is nothing.
 But we must attend carefully to the subject which the apostle is there
@@ -614,7 +614,7 @@ despise them. We must consider, that in respect of the promise, the
 blessing of God still resides among them; and, as the apostle testifies,
 will never entirely depart from them, seeing that “the gifts and calling
 of God are without repentance” (<span id="iv.iv.xvii-p51.2"></span>[Rom.
-11:29](../../../bib/kjv/rom011.htm#029)<span
+11:29](../../../bib/kjv/rom011.htm#029.md)<span
 id="iv.iv.xvii-p51.2"></span>).
 
 <span id="iv.iv.xvii-p52"></span>15. Such is the value of the promise
@@ -635,7 +635,7 @@ is produced by the regeneration of the word of God? When the apostle
 says, that “Jesus Christ was a minister of the circumcision for the
 truth of God, to confirm the promises made unto the fathers” (<span
 id="iv.iv.xvii-p52.1"></span>[Rom.
-15:8](../../../bib/kjv/rom015.htm#008)<span
+15:8](../../../bib/kjv/rom015.htm#008.md)<span
 id="iv.iv.xvii-p52.1"></span>), he does not philosophise subtilely, as
 if he had said, Since the covenant made with Abraham has respect unto
 his seed, Christ, in order to perform and discharge the promise made by
@@ -645,7 +645,7 @@ be fulfilled to the seed of Abraham, not allegorically, but literally,
 as the words express? To the same effect is the declaration of Peter to
 the Jews: “The promise is unto you and to your children” (<span
 id="iv.iv.xvii-p52.2"></span>[Acts
-2:39](../../../bib/kjv/act002.htm#039)<span
+2:39](../../../bib/kjv/act002.htm#039.md)<span
 id="iv.iv.xvii-p52.2"></span>); and in the next chapter, he calls them
 *the children of the covenant*, that is, heirs. Not widely different
 from this is the other passage of the apostle, above quoted, in which he
@@ -687,7 +687,7 @@ by deferring circumcision to the eighth day, as the wound would have
 been more dangerous if inflicted immediately after birth. How much more
 rational is the declaration of Scripture, that we, when already dead,
 are buried by baptism (<span id="iv.iv.xvii-p53.1"></span>[Rom.
-6:4](../../../bib/kjv/rom006.htm#004)<span
+6:4](../../../bib/kjv/rom006.htm#004.md)<span
 id="iv.iv.xvii-p53.1"></span>); since it distinctly states, that we are
 buried into death that we may thoroughly die, and thenceforth aim at
 that mortification? Equally ingenious is their cavil, that women should
@@ -717,22 +717,22 @@ adjudge them to death. For if they pretend that infants do not perish
 when they are accounted the sons of Adam, the error is more than
 sufficiently confuted by the testimony of Scripture (<span
 id="iv.iv.xvii-p54.1"></span>[1 Cor.
-15:22](../../../bib/kjv/co1015.htm#022)<span
+15:22](../../../bib/kjv/co1015.htm#022.md)<span
 id="iv.iv.xvii-p54.1"></span>). For seeing it declares that in Adam all
 die, it follows, that no hope of life remains unless in Christ.
 Therefore, that we may become heirs of life, we must communicate with
 him. Again, seeing it is elsewhere written that we are all by nature the
 children of wrath (<span id="iv.iv.xvii-p54.2"></span>[Eph.
-2:3](../../../bib/kjv/eph002.htm#003)<span
+2:3](../../../bib/kjv/eph002.htm#003.md)<span
 id="iv.iv.xvii-p54.2"></span>), and conceived in sin (<span
 id="iv.iv.xvii-p54.3"></span>[Ps.
-51:5](../../../bib/kjv/psa051.htm#005)<span
+51:5](../../../bib/kjv/psa051.htm#005.md)<span
 id="iv.iv.xvii-p54.3"></span>), of which condemnation is the inseparable
 attendant, we must part with our own nature before we have any access to
 the kingdom of God. And what can be clearer than the expression, “Flesh
 and blood cannot inherit the kingdom of God”? (<span
 id="iv.iv.xvii-p54.4"></span>[1 Cor.
-15:50](../../../bib/kjv/co1015.htm#050)<span
+15:50](../../../bib/kjv/co1015.htm#050.md)<span
 id="iv.iv.xvii-p54.4"></span>.) Therefore, let everything that is our
 own be abolished (this cannot be without regeneration), and then we
 shall perceive this possession of the kingdom. In fine, if Christ speaks
@@ -747,17 +747,17 @@ bring innate corruption with them from their mother’s womb, they must be
 purified before they can be admitted into the kingdom of God, into which
 shall not enter anything that defileth (<span
 id="iv.iv.xvii-p54.5"></span>[Rev.
-21:27](../../../bib/kjv/rev021.htm#027)<span
+21:27](../../../bib/kjv/rev021.htm#027.md)<span
 id="iv.iv.xvii-p54.5"></span>). If they are born sinners, as David and
 Paul affirm, they must either remain unaccepted and hated by God, or be
 justified. And why do we ask more, when the Judge himself publicly
 declares, that “except a man be born again, he cannot see the kingdom of
 God”? (<span id="iv.iv.xvii-p54.6"></span>[John
-3:3](../../../bib/kjv/joh003.htm#003)<span
+3:3](../../../bib/kjv/joh003.htm#003.md)<span
 id="iv.iv.xvii-p54.6"></span>.) But to silence this class of objectors,
 God gave, in the case of John the Baptist, whom he sanctified from his
 mother’s womb (<span id="iv.iv.xvii-p54.7"></span>[Luke
-1:15](../../../bib/kjv/luk001.htm#015)<span
+1:15](../../../bib/kjv/luk001.htm#015.md)<span
 id="iv.iv.xvii-p54.7"></span>), a proof of what he might do in others.
 They gain nothing by the quibble to which they here resort—viz. that
 this was only once done, and therefore it does not forthwith follow that
@@ -786,13 +786,13 @@ we have a proof that the age of infancy is not incapable of receiving
 sanctification. This, at least, we set down as incontrovertible, that
 none of the elect is called away from the present life without being
 previously sanctified and regenerated by the Spirit of God.  <span
-id="fr_625"></span>[626](#fn_625) As to their objection that, in
+id="fr_625"></span>[626](#fn_625.md) As to their objection that, in
 Scripture, the Spirit acknowledges no sanctification save that from
 incorruptible seed, that is, the word of God, they erroneously interpret
 Peter’s words, in which he comprehends only believers who had been
 taught by the preaching of the gospel (<span
 id="iv.iv.xvii-p56.1"></span>[1 Pet.
-1:23](../../../bib/kjv/pe1001.htm#023)<span
+1:23](../../../bib/kjv/pe1001.htm#023.md)<span
 id="iv.iv.xvii-p56.1"></span>). We confess, indeed, that the word of the
 Lord is the only seed of spiritual regeneration; but we deny the
 inference that, therefore, the power of God cannot regenerate infants.
@@ -804,7 +804,7 @@ to furnish them with the knowledge of himself in any way he pleases.
 hearing*, the use of which infants have not yet obtained, nor can they
 be fit to know God, being, as Moses declares, without the knowledge of
 good and evil (<span id="iv.iv.xvii-p57.1"></span>[Deut.
-1:39](../../../bib/kjv/deu001.htm#039)<span
+1:39](../../../bib/kjv/deu001.htm#039.md)<span
 id="iv.iv.xvii-p57.1"></span>). But they observe not that where the
 apostle makes hearing the beginning of faith, he is only describing the
 usual economy and dispensation which the Lord is wont to employ in
@@ -826,7 +826,7 @@ does not remove their ignorance, before he delivers them from the prison
 of the flesh? I would not rashly affirm that they are endued with the
 same faith which we experience in ourselves, or have any knowledge at
 all resembling faith (this I would rather leave undecided);  <span
-id="fr_626"></span>[627](#fn_626) but I would somewhat curb the stolid
+id="fr_626"></span>[627](#fn_626.md) but I would somewhat curb the stolid
 arrogance of those men who, as with inflated cheeks, affirm or deny
 whatever suits them.
 
@@ -838,10 +838,10 @@ communion of baptism. But these darts are directed more against God then
 against us; since the fact that circumcision was a sign of repentance is
 completely established by many passages of Scripture (<span
 id="iv.iv.xvii-p59.1"></span>[Jer.
-4:4](../../../bib/kjv/jer004.htm#004)<span
+4:4](../../../bib/kjv/jer004.htm#004.md)<span
 id="iv.iv.xvii-p59.1"></span>). Thus Paul terms it a seal of the
 righteousness of faith (<span id="iv.iv.xvii-p59.2"></span>[Rom.
-4:11](../../../bib/kjv/rom004.htm#011)<span
+4:11](../../../bib/kjv/rom004.htm#011.md)<span
 id="iv.iv.xvii-p59.2"></span>). Let God, then, be demanded why he
 ordered circumcision to be performed on the bodies of infants? For
 baptism and circumcision being here in the same case, they cannot give
@@ -864,7 +864,7 @@ the Spirit. This answer at once overthrows all the objections which are
 twisted against us out of the meaning of baptism; for instance, the
 title by which Paul distinguishes it when he terms it the “washing of
 regeneration and renewing” (<span id="iv.iv.xvii-p59.3"></span>[Tit.
-3:5](../../../bib/kjv/tit003.htm#005)<span
+3:5](../../../bib/kjv/tit003.htm#005.md)<span
 id="iv.iv.xvii-p59.3"></span>). Hence they argue, that it is not to be
 given to any but to those who are capable of such feelings. But we, on
 the other hand, may object, that neither ought circumcision, which is
@@ -893,9 +893,9 @@ they received in earliest infancy, in order that they might aspire to it
 during their whole lives. To the same effect are the two passages in
 which Paul teaches, that we are buried with Christ by baptism (<span
 id="iv.iv.xvii-p60.1"></span>[Rom.
-6:4](../../../bib/kjv/rom006.htm#004)<span
+6:4](../../../bib/kjv/rom006.htm#004.md)<span
 id="iv.iv.xvii-p60.1"></span>; <span id="iv.iv.xvii-p60.2"></span>[Col.
-2:12](../../../bib/kjv/col002.htm#012)<span
+2:12](../../../bib/kjv/col002.htm#012.md)<span
 id="iv.iv.xvii-p60.2"></span>). For by this he means not that he who is
 to be initiated by baptism must have previously been buried with Christ;
 he simply declares the doctrine which is taught by baptism, and that to
@@ -905,7 +905,7 @@ the prophets reminded the people of the thing meant by circumcision,
 which however infants received. To the same effect, Paul says to the
 Galatians, “As many of you as have been baptised into Christ have put on
 Christ” (<span id="iv.iv.xvii-p60.3"></span>[Gal.
-3:27](../../../bib/kjv/gal003.htm#027)<span
+3:27](../../../bib/kjv/gal003.htm#027.md)<span
 id="iv.iv.xvii-p60.3"></span>). Why so? That they might thereafter live
 to Christ, to whom previously they had not lived. And though, in adults,
 the receiving of the sign ought to follow the understanding of its
@@ -915,12 +915,12 @@ in Peter, on which they strongly found. He says, that baptism is “not
 the putting away of the filth of the flesh, but the answer of a good
 conscience toward God by the resurrection of Jesus Christ” (<span
 id="iv.iv.xvii-p60.4"></span>[1 Pet.
-3:21](../../../bib/kjv/pe1003.htm#021)<span
+3:21](../../../bib/kjv/pe1003.htm#021.md)<span
 id="iv.iv.xvii-p60.4"></span>). From this they contend that nothing is
 left for pædobaptism, which becomes mere empty smoke, as being
 altogether at variance with the meaning of baptism. But the delusion
 which misleads them is, that they would always have the thing to precede
-the sign in the order of time.  <span id="fr_627"></span>[628](#fn_627)
+the sign in the order of time.  <span id="fr_627"></span>[628](#fn_627.md)
 For the truth of circumcision consisted in the same answer of a good
 conscience; but if the truth must necessarily have preceded, infants
 would never have been circumcised by the command of God. But he himself,
@@ -947,7 +947,7 @@ deprived of the sign. They adduce the passage from the Ephesians, that
 Christ gave himself for the Church, “that he might sanctify and cleanse
 it with the washing of water by the word” (<span
 id="iv.iv.xvii-p62.1"></span>[Eph.
-5:26](../../../bib/kjv/eph005.htm#026)<span
+5:26](../../../bib/kjv/eph005.htm#026.md)<span
 id="iv.iv.xvii-p62.1"></span>). Nothing could be quoted more appropriate
 than this to overthrow their error: it furnishes us with an easy proof.
 If, by baptism, Christ intends to attest the ablution by which he
@@ -958,7 +958,7 @@ whole Church when he says that it was cleansed by the washing of water.
 In like manner, from his expression in another place, that by baptism we
 are ingrafted into the body of Christ (<span
 id="iv.iv.xvii-p62.2"></span>[1 Cor.
-7:13](../../../bib/kjv/co1007.htm#013)<span
+7:13](../../../bib/kjv/co1007.htm#013.md)<span
 id="iv.iv.xvii-p62.2"></span>), we infer, that infants, whom he
 enumerates among his members, are to be baptised, in order that they may
 not be dissevered from his body. See the violent onset which they make
@@ -971,8 +971,8 @@ faith and repentance. For when Peter is asked by his hearers, who were
 pricked in their heart, “What shall we do?” his advise is, “Repent and
 be baptised, every one of you, in the name of Jesus Christ, for the
 remission of sins” (<span id="iv.iv.xvii-p63.1"></span>[Acts
-2:37](../../../bib/kjv/act002.htm#037),
-[38](../../../bib/kjv/act002.htm#038)<span
+2:37](../../../bib/kjv/act002.htm#037.md),
+[38](../../../bib/kjv/act002.htm#038.md)<span
 id="iv.iv.xvii-p63.1"></span>). In like manner, when Philip was asked by
 the eunuch to baptise him, he answered, “If thou believest with all
 thine heart, thou mayest.” Hence they think they can make out that
@@ -1015,7 +1015,7 @@ they are unable to swear to its stipulations. This undoubtedly is the
 reason why the Lord sometimes declares that the children born to the
 Israelites are begotten and born to him (<span
 id="iv.iv.xvii-p64.1"></span>[Ezek.
-16:20](../../../bib/kjv/eze016.htm#020)<span
+16:20](../../../bib/kjv/eze016.htm#020.md)<span
 id="iv.iv.xvii-p64.1"></span>; 23:37). For he undoubtedly gives the
 place of sons to the children of those to whose seed he has promised
 that he will be a Father. But the child descended from unbelieving
@@ -1024,7 +1024,7 @@ faith. Hence, it is not strange that the sign is withheld when the thing
 signified would be vain and fallacious. In that view, Paul says that the
 Gentiles, so long as they were plunged in idolatry, were strangers to
 the covenant (<span id="iv.iv.xvii-p64.2"></span>[Eph.
-2:11](../../../bib/kjv/eph002.htm#011)<span
+2:11](../../../bib/kjv/eph002.htm#011.md)<span
 id="iv.iv.xvii-p64.2"></span>). The whole matter may, if I mistake not,
 be thus briefly and clearly expounded: Those who, in adult age, embrace
 the faith of Christ, having hitherto been aliens from the covenant, are
@@ -1035,7 +1035,7 @@ they are immediately on their birth received by God as heirs of the
 covenant, are also to be admitted to baptism. To this we must refer the
 narrative of the Evangelist, that those who were baptised by John
 confessed their sins (<span id="iv.iv.xvii-p64.3"></span>[Mt.
-3:6](../../../bib/kjv/mat003.htm#006)<span
+3:6](../../../bib/kjv/mat003.htm#006.md)<span
 id="iv.iv.xvii-p64.3"></span>). This example, we hold, ought to be
 observed in the present day. Were a Turk to offer himself for baptism,
 we would not at once perform the rite without receiving a confession
@@ -1046,7 +1046,7 @@ is from the third chapter of John, where our Saviour’s words seem to
 them to imply that a present regeneration is required in baptism,
 “Except a man be born of water, and of the Spirit, he cannot enter into
 the kingdom of God” (<span id="iv.iv.xvii-p65.1"></span>[John
-3:5](../../../bib/kjv/joh003.htm#005)<span
+3:5](../../../bib/kjv/joh003.htm#005.md)<span
 id="iv.iv.xvii-p65.1"></span>). See, they say, how baptism is termed
 regeneration by the lips of our Lord himself, and on what pretext,
 therefore, with what consistency is baptism given to those who, it is
@@ -1063,7 +1063,7 @@ is water. Nor is the expression new. It perfectly accords with that
 which is used in the third chapter of Matthew, “He that cometh after me
 is mightier than I;” “he shall baptise you with the Holy Ghost, and with
 fire” (<span id="iv.iv.xvii-p65.2"></span>[Mt.
-3:11](../../../bib/kjv/mat003.htm#011)<span
+3:11](../../../bib/kjv/mat003.htm#011.md)<span
 id="iv.iv.xvii-p65.2"></span>). Therefore, as to baptise with the Holy
 Spirit, and with fire, is to confer the Holy Spirit, who, in
 regeneration, has the office and nature of fire, so to be born again of
@@ -1084,7 +1084,7 @@ Spirit, can enter the kingdom of God.
 
 <span id="iv.iv.xvii-p66"></span>26. This, moreover, plainly explodes
 the fiction of those who consign all the unbaptised to eternal death.60
- <span id="fr_628"></span>[629](#fn_628) Let us suppose, then, that, as
+ <span id="fr_628"></span>[629](#fn_628.md) Let us suppose, then, that, as
 they insist, baptism is administered to adults only. What will they make
 of a youth who, after being embued duly and properly with the rudiments
 of piety, while waiting for the day of baptism, is unexpectedly carried
@@ -1092,7 +1092,7 @@ off by sudden death? The promise of our Lord is clear, “He that heareth
 my word, and believeth on him that sent me, hath everlasting life, and
 shall not come into condemnation, but is passed from death unto life”
 (<span id="iv.iv.xvii-p67.1"></span>[John
-5:24](../../../bib/kjv/joh005.htm#024)<span
+5:24](../../../bib/kjv/joh005.htm#024.md)<span
 id="iv.iv.xvii-p67.1"></span>). We nowhere read of his having condemned
 him who was not yet baptised. I would not be understood as insinuating
 that baptism may be contemned with impunity. So far from excusing this
@@ -1107,7 +1107,7 @@ they hold, necessary to salvation, they, in denying it to infants,
 consign them all to eternal death. Let them now consider what kind of
 agreement they have with the words of Christ, who says, that “of such is
 the kingdom of heaven” (<span id="iv.iv.xvii-p67.2"></span>[Mt.
-19:14](../../../bib/kjv/mat019.htm#014)<span
+19:14](../../../bib/kjv/mat019.htm#014.md)<span
 id="iv.iv.xvii-p67.2"></span>). And though we were to concede everything
 to them, in regard to the meaning of this passage, they will extract
 nothing from it, until they have previously overthrown the doctrine
@@ -1120,7 +1120,7 @@ the last chapter of Matthew, where Christ, sending his disciples into
 all the world, commands them to teach and then baptise. Then, in the
 last chapter of Mark, it is added, “He that believeth, and is baptised,
 shall be saved” (<span id="iv.iv.xvii-p68.1"></span>[Mark
-16:16](../../../bib/kjv/mar016.htm#016)<span
+16:16](../../../bib/kjv/mar016.htm#016.md)<span
 id="iv.iv.xvii-p68.1"></span>). What more (say they) do we ask, since
 the words of Christ distinctly declare, that teaching must precede
 baptism, and assign to baptism the place next to faith? Of this
@@ -1176,7 +1176,7 @@ palpable even to the blind, by a very plain similitude. Should any one
 insist that infants are to be deprived of food, on the presence that the
 apostle permits none to eat but those who labour (<span
 id="iv.iv.xvii-p70.1"></span>[2 Thess.
-3:10](../../../bib/kjv/th2003.htm#010)<span
+3:10](../../../bib/kjv/th2003.htm#010.md)<span
 id="iv.iv.xvii-p70.1"></span>), would he not deserve to be scouted by
 all? Why so? Because that which was said of a certain class of men, and
 a certain age, he wrests and applies to all indifferently. The dexterity
@@ -1223,7 +1223,7 @@ Lord’s death, and understand its power. Can we wish anything clearer
 than what the apostle says, when he thus exhorts, “Let a man examine
 himself, and so let him eat of that bread, and drink of that cup”?
 (<span id="iv.iv.xvii-p71.1"></span>[1 Cor.
-11:28](../../../bib/kjv/co1011.htm#028)<span
+11:28](../../../bib/kjv/co1011.htm#028.md)<span
 id="iv.iv.xvii-p71.1"></span>.) Examination, therefore, must precede,
 and this it were vain to expect from infants. Again, “He that eateth and
 drinketh unworthily, eateth and drinketh damnation to himself, not
@@ -1244,7 +1244,7 @@ the passover, for which the Supper is substituted, did not admit all
 kinds of guests promiscuously, but was duly eaten only by those who were
 of an age sufficient to ask the meaning of it (<span
 id="iv.iv.xvii-p71.2"></span>[Exod.
-12:26](../../../bib/kjv/exo012.htm#026)<span
+12:26](../../../bib/kjv/exo012.htm#026.md)<span
 id="iv.iv.xvii-p71.2"></span>). Had these men the least particle of
 soundness in their brain, would they be thus blind as to a matter so
 very clear and obvious?
@@ -1254,7 +1254,7 @@ reader with the series of conceits which Servetus, not the least among
 the Anabaptists, nay, the great honour of this crew, when girding
 himself for battle, deemed, when he adduced them, to be specious
 arguments, it will be worth while briefly to dispose of them.60  <span
-id="fr_629"></span>[630](#fn_629) He pretends that as the symbols of
+id="fr_629"></span>[630](#fn_629.md) He pretends that as the symbols of
 Christ are perfect, they require persons who are perfect, or at least
 capable of perfection. But the answer is plain. The perfection of
 baptism, which extends even to death, is improperly restricted to one
@@ -1270,7 +1270,7 @@ baptism. Whence we infer, that those who from nonage are incapable of
 examination are duly baptised. His third point is, That all who believe
 not in the Son remain in death, the wrath of God abideth on them (<span
 id="iv.iv.xvii-p73.1"></span>[John
-3:36](../../../bib/kjv/joh003.htm#036)<span
+3:36](../../../bib/kjv/joh003.htm#036.md)<span
 id="iv.iv.xvii-p73.1"></span>); and, therefore, infants who are unable
 to believe lie under condemnation. I answer, that Christ does not there
 speak of the general guilt in which all the posterity of Adam are
@@ -1287,7 +1287,7 @@ extract from it is, that believers, according as the Spirit works in
 them, are framed to obedience. But that which is said of a certain
 number, it is illogical to apply to all alike. His fourth objection is,
 As that which precedes is animal (<span id="iv.iv.xvii-p73.2"></span>[1
-Cor. 15:46](../../../bib/kjv/co1015.htm#046)<span
+Cor. 15:46](../../../bib/kjv/co1015.htm#046.md)<span
 id="iv.iv.xvii-p73.2"></span>), we must wait the full time for baptism,
 which is spiritual. But while I admit that all the posterity of Adam,
 born of the flesh, bear their condemnation with them from the womb, I
@@ -1299,7 +1299,7 @@ supernatural grace. He afterwards brings forward the allegory that
 David, when going up into mount Zion, took with him neither the blind
 nor the lame, but vigorous soldiers (<span
 id="iv.iv.xvii-p73.3"></span>[2 Sam.
-5:8](../../../bib/kjv/sa2005.htm#008)<span
+5:8](../../../bib/kjv/sa2005.htm#008.md)<span
 id="iv.iv.xvii-p73.3"></span>). But what if I meet this with the parable
 in which God invites to the heavenly feast the lame and the blind? In
 what way will Servetus disentangle this knot? I ask, moreover, whether
@@ -1310,7 +1310,7 @@ another allegory— viz. that the apostles were fishers of men, not of
 children. I ask, then, What does our Saviour mean when he says that in
 the net are caught all kinds of fishes? (<span
 id="iv.iv.xvii-p73.4"></span>[Mt.
-9:19](../../../bib/kjv/mat009.htm#019)<span
+9:19](../../../bib/kjv/mat009.htm#019.md)<span
 id="iv.iv.xvii-p73.4"></span>; 13:47.) But as I have no pleasure in
 sporting with allegory, I answer, that when the office of teaching was
 committed to the apostles, they were not prohibited from baptising
@@ -1319,7 +1319,7 @@ the term ἀνθρώπους (which comprehends the whole human race without
 exception), he denies that infants are included. His seventh argument
 is, Since spiritual things accord with spiritual (<span
 id="iv.iv.xvii-p73.5"></span>[1 Cor
-2:13](../../../bib/kjv/co1002.htm#013)<span
+2:13](../../../bib/kjv/co1002.htm#013.md)<span
 id="iv.iv.xvii-p73.5"></span>), infants, not being spiritual, are unfit
 for baptism. It is plain how perversely he wrests this passage of Paul.
 It relates to doctrine. The Corinthians, pluming themselves excessively
@@ -1344,13 +1344,13 @@ food of infants, though they partake not of the symbol. The case is
 different with baptism, by which the door of the Church is thrown open
 to them. He again objects, that a good householder distributes meat to
 his household in due season (<span id="iv.iv.xvii-p73.6"></span>[Mt.
-24:45](../../../bib/kjv/mat024.htm#045)<span
+24:45](../../../bib/kjv/mat024.htm#045.md)<span
 id="iv.iv.xvii-p73.6"></span>). This I willingly admit; but how will he
 define the time of baptism, so as to prove that it is not seasonably
 given to infants? He, moreover, adduces Christ’s command to the apostles
 to make haste, because the fields are already white to the harvest
 (<span id="iv.iv.xvii-p73.7"></span>[John
-4:35](../../../bib/kjv/joh004.htm#035)<span
+4:35](../../../bib/kjv/joh004.htm#035.md)<span
 id="iv.iv.xvii-p73.7"></span>). Our Saviour only means that the
 apostles, seeing the present fruit of their labour, should bestir
 themselves with more alacrity to teach. Who will infer from this, that
@@ -1386,15 +1386,15 @@ whom the Lord observed a different order, baptism preceding the gifts of
 the Holy Spirit. The fifteenth argument is more than absurd. He says
 that we become gods by regeneration, but that they are gods to whom the
 word of God is sent (<span id="iv.iv.xvii-p73.8"></span>[John
-10:35](../../../bib/kjv/joh010.htm#035)<span
+10:35](../../../bib/kjv/joh010.htm#035.md)<span
 id="iv.iv.xvii-p73.8"></span>; <span id="iv.iv.xvii-p73.9"></span>[2
-Pet. 1:4](../../../bib/kjv/pe2001.htm#004)<span
+Pet. 1:4](../../../bib/kjv/pe2001.htm#004.md)<span
 id="iv.iv.xvii-p73.9"></span>), a thing not possible to infant children.
 The attributing of deity to believers is one of his ravings, which this
 is not the proper place to discuss; but it betrays the utmost effrontery
 to wrest the passage in the psalm (<span
 id="iv.iv.xvii-p73.10"></span>[Ps.
-82:6](../../../bib/kjv/psa082.htm#006)<span
+82:6](../../../bib/kjv/psa082.htm#006.md)<span
 id="iv.iv.xvii-p73.10"></span>) to a meaning so alien to it. Christ
 says, that kings and magistrates are called gods by the prophet, because
 they perform an office divinely appointed them. This dexterous
@@ -1408,12 +1408,12 @@ nonage, we are incapable of being taught, God takes his own methods of
 regenerating. He afterwards returns to his allegories, and says, that
 under the law, the sheep and the goat were not offered in sacrifice the
 moment they were dropt (<span id="iv.iv.xvii-p73.11"></span>[Exod.
-12:5](../../../bib/kjv/exo012.htm#005)<span
+12:5](../../../bib/kjv/exo012.htm#005.md)<span
 id="iv.iv.xvii-p73.11"></span>). Were I disposed to deal in figures, I
 might obviously reply, first, that all the first-born, on opening the
 matrix, were sacred to the Lord (<span
 id="iv.iv.xvii-p73.12"></span>[Exod.
-13:12](../../../bib/kjv/exo013.htm#012)<span
+13:12](../../../bib/kjv/exo013.htm#012.md)<span
 id="iv.iv.xvii-p73.12"></span>); and, secondly, that a lamb of a year
 old was to be sacrificed: whence it follows, that it was not necessary
 to wait for mature age, the young and tender offspring having been
@@ -1456,7 +1456,7 @@ may see how he acts towards us as a most provident parent, not ceasing
 to care for us even after our death, but consulting and providing for
 our children. Ought not our whole heart to be stirred up within us, as
 David’s was (<span id="iv.iv.xvii-p74.1"></span>[Ps.
-48:11](../../../bib/kjv/psa048.htm#011)<span
+48:11](../../../bib/kjv/psa048.htm#011.md)<span
 id="iv.iv.xvii-p74.1"></span>), to bless his name for such a
 manifestation of goodness? Doubtless the design of Satan in assaulting
 pædobaptism with all his forces is to keep out of view, and gradually
@@ -1475,7 +1475,7 @@ the Church.
 
 ### Footnotes
 
-<span id="fn_623"></span>[624](inst096.htm#fr_623) <span
+<span id="fn_623"></span>[624](inst096.htm#fr_623.md) <span
 id="iv.iv.xvii-p36.1"></span>
 
 <span id="iv.iv.xvii-p37"></span>03 603 The French from the beginning of
@@ -1497,7 +1497,7 @@ seducers might make, in order to overthrow the truth of God in the
 hearts of the simple, who might not be skilled in answering their cavils
 and objections.
 
-<span id="fn_624"></span>[625](inst096.htm#fr_624) <span
+<span id="fn_624"></span>[625](inst096.htm#fr_624.md) <span
 id="iv.iv.xvii-p40.1"></span>
 
 <span id="iv.iv.xvii-p41"></span>127 D127 The “analogy of faith,” to
@@ -1513,7 +1513,7 @@ and distribution in the whole body of revealed truth. Analogy also
 suggests relationship; thus we are to study the particular doctrines of
 Scriptures in relation to the system of doctrine revealed therein.
 
-<span id="fn_625"></span>[626](inst096.htm#fr_625) <span
+<span id="fn_625"></span>[626](inst096.htm#fr_625.md) <span
 id="iv.iv.xvii-p55.1"></span>
 
 <span id="iv.iv.xvii-p56"></span>128 D128 This strong assertion must be
@@ -1522,7 +1522,7 @@ infants dying in infancy. If they are to have remission of sins, a new
 nature, and the blessing of eternal life, it is clear that they must be
 regenerated.
 
-<span id="fn_626"></span>[627](inst096.htm#fr_626) <span
+<span id="fn_626"></span>[627](inst096.htm#fr_626.md) <span
 id="iv.iv.xvii-p57.2"></span>
 
 <span id="iv.iv.xvii-p58"></span>129 D129 It is instructive to take not
@@ -1535,7 +1535,7 @@ in them. This position of indecision (as Calvin terms it) is
 commendable, precisely because it does not presume beyond the teaching
 of Scripture.
 
-<span id="fn_627"></span>[628](inst096.htm#fr_627) <span
+<span id="fn_627"></span>[628](inst096.htm#fr_627.md) <span
 id="iv.iv.xvii-p60.5"></span>
 
 <span id="iv.iv.xvii-p61"></span>130 D130 In connection with the
@@ -1564,7 +1564,7 @@ time lapse between number 2 and numbers 1 and 3 could amount to an
 indefinite number of years, just as it ordinarily did in the case of
 circumcised infants in Old Testament times.
 
-<span id="fn_628"></span>[629](inst096.htm#fr_628) <span
+<span id="fn_628"></span>[629](inst096.htm#fr_628.md) <span
 id="iv.iv.xvii-p66.1"></span>
 
 <span id="iv.iv.xvii-p67"></span>04 604 See Calv. Cont. Articulos
@@ -1573,7 +1573,7 @@ Reformand. Ratio, et in Append. Nævus in August. Lib. 1 ad Bonifac. et
 Epist. 28. Ambros. de Vocat. Gentium, Lib. 2 cap. 8, de Abraham. Lib. 2
 cap. 11.
 
-<span id="fn_629"></span>[630](inst096.htm#fr_629) <span
+<span id="fn_629"></span>[630](inst096.htm#fr_629.md) <span
 id="iv.iv.xvii-p72.1"></span>
 
 <span id="iv.iv.xvii-p73"></span>05 605 French, “Combien qu’il me fasche
@@ -1588,4 +1588,4 @@ arguments, it will be right briefly to dispose of them.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 17. - OF THE LORDS SUPPER, AND THE BENEFITS CONFERRED BY
-IT](inst097)
+IT](inst097.md)

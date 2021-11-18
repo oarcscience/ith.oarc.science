@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Masonry](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Masonry](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0517331942/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0517331942/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH2O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH2O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,8 +31,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH2O/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mom00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mom.txt.gz)
+[Contents](#contents)    [Start Reading](mom00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mom.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -48,11 +48,11 @@ mystery teachings.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mom00)  
-[Contents](mom01)  
-[Introduction](mom02)  
-[Chapter I. The Deeper Symbolism of Freemasonry](mom03)  
-[Chapter II. Masonry as a Philosophy](mom04)  
-[Chapter III. Further Notes on Craft Symbolism](mom05)  
-[Chapter IV. The Holy Royal Arch of Jerusalem](mom06)  
-[Chapter V. Freemasonry in Relation to the Ancient Mysteries](mom07)  
+<span id="contents"></span> [Title Page](mom00.md)  
+[Contents](mom01.md)  
+[Introduction](mom02.md)  
+[Chapter I. The Deeper Symbolism of Freemasonry](mom03.md)  
+[Chapter II. Masonry as a Philosophy](mom04.md)  
+[Chapter III. Further Notes on Craft Symbolism](mom05.md)  
+[Chapter IV. The Holy Royal Arch of Jerusalem](mom06.md)  
+[Chapter V. Freemasonry in Relation to the Ancient Mysteries](mom07.md)  

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca07)  [Next](fsca09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca07)  [Next](fsca09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ suggested by wings. Scripture itself justifies the similitude; the
 Almighty is sublimely represented as "walking upon the wings of the
 wind." Wings have always been the symbol or attribute of
 
-<span id="img_02800"></span> ![Egyptian Winged Deity.](img/02800.jpg)
+<span id="img_02800"></span> ![Egyptian Winged Deity.](img/02800.jpg.md)
 
 *volition*, of *mind*, or of the *spirit* or *air*. No apter emblem
 could be found for a rapid and resistless element than birds or the
@@ -71,7 +71,7 @@ antiquity, and for the earliest suggestion of celestial beings of the
 winged human type we must look to the art works of Egypt and Assyria. In
 Egyptian art, Neith, the goddess of the heavens, was sometimes
 represented with wings, and in the marbles of Nineveh we find human
-figures displaying four wings. <span id="fr_2"></span>[\*](#fn_2) In
+figures displaying four wings. <span id="fr_2"></span>[\*](#fn_2.md) In
 classic art wings are
 
 <span id="page_29">p. 29</span>
@@ -82,7 +82,7 @@ many other instances—existing<span id="img_02900"></span>
 
 |                                                                                                                                                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Hawk-headed and winged figure, emblem of Osiris, which, having of all birds the most piercing eye and the most rapid flight, serves to express the divine intelligence and activity. (Palace of Nimrod in the Louvre.)](img/02900.jpg) |
+| ![Hawk-headed and winged figure, emblem of Osiris, which, having of all birds the most piercing eye and the most rapid flight, serves to express the divine intelligence and activity. (Palace of Nimrod in the Louvre.)](img/02900.jpg.md) |
 
 ideas in their symbolical art to express the attribute of swiftness and
 power, and the sanction of the practice doubtless fixed it for
@@ -156,9 +156,9 @@ proportions.
 
 ### Footnotes
 
-<span id="fn_2"></span>[28:\*](fsca08.htm#fr_2) See Audsley's "Glossary
+<span id="fn_2"></span>[28:\*](fsca08.htm#fr_2.md) See Audsley's "Glossary
 of Architecture," "Angel," p. 101.
 
 ------------------------------------------------------------------------
 
-[Next: Mistaken Modern Conception of Angels](fsca09)
+[Next: Mistaken Modern Conception of Angels](fsca09.md)

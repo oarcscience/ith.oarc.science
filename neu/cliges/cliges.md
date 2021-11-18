@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Northern
-European](../index) 
+[Intangible Textual Heritage](../../index.md)  [Northern
+European](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,6 +23,6 @@ Heritage by J.B. Hare.</span>
 
 # CONTENTS
 
-[Part I: Vv. 1 - Vv. 2278](cliges1)  
-[Part II: Vv. 2279 - Vv. 4574](cliges2)  
-[Part III: Vv. 4575 - Vv. 6784](cliges3)  
+[Part I: Vv. 1 - Vv. 2278](cliges1.md)  
+[Part II: Vv. 2279 - Vv. 4574](cliges2.md)  
+[Part III: Vv. 4575 - Vv. 6784](cliges3.md)  

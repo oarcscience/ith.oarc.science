@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao49)   
-[Previous](tao48)  [Next](tao50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao49.md)   
+[Previous](tao48)  [Next](tao50.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ his children.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 50](tao50)
+[Next: Chapter 50](tao50.md)

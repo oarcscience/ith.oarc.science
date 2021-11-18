@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr02)  [Next](arr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr02)  [Next](arr04.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ DUDLEY B. MYERS.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Beginnings of Alchemy](arr04)
+[Next: Chapter I. Beginnings of Alchemy](arr04.md)

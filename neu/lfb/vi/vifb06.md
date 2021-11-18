@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb05)  [Next](vifb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb05)  [Next](vifb07.md) 
 
 </div>
 
@@ -126,6 +126,6 @@ memory of the young warrior and the dog Schippeitaro.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Princes and their Beasts](vifb07)
+[Next: The Three Princes and their Beasts](vifb07.md)
 
 </div>

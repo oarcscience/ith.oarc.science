@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow19)  [Next](fow21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow19)  [Next](fow21.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ proverbial lore, "An old maid is a pack of evil."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX: Widows](fow21)
+[Next: Chapter XIX: Widows](fow21.md)

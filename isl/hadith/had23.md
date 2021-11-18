@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had22)  [Next](had24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had22)  [Next](had24.md) 
 
 ------------------------------------------------------------------------
 
@@ -551,4 +551,4 @@ can afford.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI: Divorce](had24)
+[Next: Chapter XXI: Divorce](had24.md)

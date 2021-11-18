@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo04) 
-[Next](ryo06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo04.md) 
+[Next](ryo06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Raja Yoga*, by Yogi Ramacharaka (William Walker Atkinson), \[1906\], at
 Intangible Textual Heritage
 
@@ -205,7 +205,7 @@ great universal supply, which is constant and unchangeable. Let us then
 realize that even this thing that we feel pulsing within us—that which
 is so closely bound up with the Spirit as to be almost inseparable from
 it—that which we call Life—is but a bit of that Great Life Principle
-that [pervades](errata.htm#1) the Universe, and which cannot be added
+that [pervades](errata.htm#1.md) the Universe, and which cannot be added
 to, nor subtracted from. When we have realized these
 
 <span id="page_54">p. 54</span>
@@ -689,4 +689,4 @@ identity in spirit, in substance; and in nature; with the One Reality.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson IV. Mental Control](ryo06)
+[Next: Lesson IV. Mental Control](ryo06.md)

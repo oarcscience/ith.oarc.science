@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos16)  [Next](dos18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos16)  [Next](dos18.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ tears fell from her eyes, like drops of
 
 <span id="page_100">p. 100</span>
 
-camphor from a moonstone <span id="fr_78"></span>[d](#fn_78). And as she
+camphor from a moonstone <span id="fr_78"></span>[d](#fn_78.md). And as she
 stood there doubting whether he were dead or alive, for his face was wan
 in the light of the pallid moon, his eyes opened, and met her own. And
 he sprang up, and ran towards her, while she remained unable to stir,
@@ -105,11 +105,11 @@ outstretched forefinger of death.
 
 ### Footnotes
 
-<span id="fn_78"></span>[100:d](dos17.htm#fr_78) The Hindoos have a
+<span id="fn_78"></span>[100:d](dos17.htm#fr_78.md) The Hindoos have a
 superstition, illustrated in a previous page, that moonstones in the
 rays of the moon distil a sort of lunar syrup, nectar or camphor,
 supposed to be composed of the substance of the moon.
 
 ------------------------------------------------------------------------
 
-[Next: XV. The Dead of Night](dos18)
+[Next: XV. The Dead of Night](dos18.md)

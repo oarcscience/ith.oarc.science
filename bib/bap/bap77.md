@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap76) 
-[Next](bap78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap76.md) 
+[Next](bap78.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ mourned him, and buried him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXIV](bap78)
+[Next: Chapter LXIV](bap78.md)

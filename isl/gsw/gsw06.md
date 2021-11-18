@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw05)  [Next](gsw07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw05)  [Next](gsw07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_17">p. 17</span>
 
-<span id="img_01700"></span> ![FROM A CARPET](img/01700.jpg)
+<span id="img_01700"></span> ![FROM A CARPET](img/01700.jpg.md)
 
 ### CHAPTER II
 
@@ -161,10 +161,10 @@ the Pride of the Crown and Throne.
 
 My father, who had twice before travelled in Baluchistan, pointed out
 the peak of Kuh-i-Bazman, distant some forty *farsakhs;* <span
-id="fr_17"></span>[1](#fn_17) but so high is it, and withal of so
+id="fr_17"></span>[1](#fn_17.md) but so high is it, and withal of so
 elegant a shape, that there is no mountain in Persia to equal it in
 beauty. They say that, on its summit, is a shrine to Khedr or
-Khizr, <span id="fr_18"></span>[2](#fn_18) he who guides the steps of
+Khizr, <span id="fr_18"></span>[2](#fn_18.md) he who guides the steps of
 the wayfarer; but few among mortals have ascended there. Indeed, as only
 Baluchis, who climb like goats, could scale the peak, which resembles a
 sugar loaf, I cannot vouch for the accuracy of this statement; but, at
@@ -255,7 +255,7 @@ the wells.
 However, everything at last comes to an end, and, when we sighted in the
 distance the thick jungle which grows on the banks of the Bampur river,
 we forgot all about the Baluchis and thought that we had reached the
-garden of Shaddad. <span id="fr_19"></span>[1](#fn_19)
+garden of Shaddad. <span id="fr_19"></span>[1](#fn_19.md)
 
 My father, like the man of experience he was, gave orders that a strong
 party of sowars should go ahead at early dawn in three parallel bodies,
@@ -270,7 +270,7 @@ watered their horses without taking any precautions.
 The Baluchis, however, were in ambush, and fired on them, killing and
 wounding twenty men, and had not the other two parties come to the
 rescue there would have been a disaster. My father was so angry with the
-colonel that that night he ate <span id="fr_20"></span>[1](#fn_20) five
+colonel that that night he ate <span id="fr_20"></span>[1](#fn_20.md) five
 hundred sticks and was ill for weeks afterwards.
 
 We halted for some days at Kuchgardan to rest the troops, whom my father
@@ -283,7 +283,7 @@ victorious troops of the Shah.
 While we were halting at this stage, Nawab Khan, Bamari, and his tribe,
 who alone of Baluchis are Shias, and who are thus loyal to the Shah,
 joined our camp, and informed His Excellency that *Sirdar* <span
-id="fr_21"></span>[2](#fn_21) Husein Khan, Nahrui, who was the leader of
+id="fr_21"></span>[2](#fn_21.md) Husein Khan, Nahrui, who was the leader of
 the Baluchis, was camped
 
 <span id="page_27">p. 27</span>
@@ -292,14 +292,14 @@ A *farsakh* from Bampur fort, and was, like all
 
 <span id="img_02700"></span> <span align="CENTER"> [![SIRDAR HUSEIN KHAN
 AND HIS FAMILY. N. Wilson, phot. ](tn/02700.jpg)  
-Click to enlarge](img/02700.jpg)  
+Click to enlarge](img/02700.jpg.md)  
 SIRDAR HUSEIN KHAN AND HIS FAMILY. N. Wilson, phot.  
 </span>
 
 <span class="contnote">\[paragraph continues\]</span> Baluchis, quite
 careless at night. He thus advised that he should be surprised in the
 dark. My father, however, like Iskandar Zulkarnain, <span
-id="fr_22"></span>[1](#fn_22)
+id="fr_22"></span>[1](#fn_22.md)
 
 <span id="page_28">p. 28</span>
 
@@ -324,14 +324,14 @@ In the morning his spies reported that the whole force of the Baluchis
 was in ambush, exactly as he had anticipated; and very soon shooting was
 heard and cries of alarm from the main body, which was being attacked.
 
-My father then mounted *Raksh*, <span id="fr_23"></span>[1](#fn_23) his
+My father then mounted *Raksh*, <span id="fr_23"></span>[1](#fn_23.md) his
 great
 
 <span id="page_29">p. 29</span>
 
 <span id="img_02900"></span> <span align="CENTER"> [![THE FORT OF THE
 REBEL BALUCH](tn/02900.jpg)  
-Click to enlarge](img/02900.jpg)  
+Click to enlarge](img/02900.jpg.md)  
 THE FORT OF THE REBEL BALUCH  
 </span>
 
@@ -346,7 +346,7 @@ already their prey.
 
 I followed behind my father, and saw him with one stroke cut the son of
 the *Sirdar* into two pieces, just as Amir, <span
-id="fr_24"></span>[1](#fn_24) on him be peace! cleft Marhab of Khaybar
+id="fr_24"></span>[1](#fn_24.md) on him be peace! cleft Marhab of Khaybar
 with his famous sword, Zulfikar.
 
 This sight threw the enemy into a panic and they all rushed to their
@@ -403,7 +403,7 @@ and zeal displayed in the royal service.
  
 
 <span id="img_03300"></span> ![HEAD FROM A BIRJAND
-CARPET](img/03300.jpg)
+CARPET](img/03300.jpg.md)
 
  
 
@@ -415,32 +415,32 @@ CARPET](img/03300.jpg)
 
 ### Footnotes
 
-<span id="fn_17"></span>[22:1](gsw06.htm#fr_17) A *farsakh* is about
+<span id="fn_17"></span>[22:1](gsw06.htm#fr_17.md) A *farsakh* is about
 four miles.
 
-<span id="fn_18"></span>[22:2](gsw06.htm#fr_18) Khedr is the Arabic, and
+<span id="fn_18"></span>[22:2](gsw06.htm#fr_18.md) Khedr is the Arabic, and
 Khizr the Persian form.
 
-<span id="fn_19"></span>[25:1](gsw06.htm#fr_19) A legendary garden lost
+<span id="fn_19"></span>[25:1](gsw06.htm#fr_19.md) A legendary garden lost
 to human gaze.
 
-<span id="fn_20"></span>[26:1](gsw06.htm#fr_20) To "eat sticks" is to
+<span id="fn_20"></span>[26:1](gsw06.htm#fr_20.md) To "eat sticks" is to
 receive the bastinado.
 
-<span id="fn_21"></span>[26:2](gsw06.htm#fr_21) *Sirdar* is a title
+<span id="fn_21"></span>[26:2](gsw06.htm#fr_21.md) *Sirdar* is a title
 signifying a high chief in Baluchistan.
 
-<span id="fn_22"></span>[27:1](gsw06.htm#fr_22) *Sc*. Alexander the
+<span id="fn_22"></span>[27:1](gsw06.htm#fr_22.md) *Sc*. Alexander the
 Great. *Zulkarnain* signifies "Lord of two horns," an epithet implying
 might.
 
-<span id="fn_23"></span>[28:1](gsw06.htm#fr_23) The name of Rustam's
+<span id="fn_23"></span>[28:1](gsw06.htm#fr_23.md) The name of Rustam's
 famous charger.
 
-<span id="fn_24"></span>[31:1](gsw06.htm#fr_24) Amir is the title by
+<span id="fn_24"></span>[31:1](gsw06.htm#fr_24.md) Amir is the title by
 which Ali is referred to by Shias, signifying thereby that he is *the*
 commander of the Faithful.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. A Persian Entertainment](gsw07)
+[Next: Chapter III. A Persian Entertainment](gsw07.md)

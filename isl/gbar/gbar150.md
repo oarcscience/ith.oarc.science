@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar149) [Next](gbar151)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar149) [Next](gbar151.md)
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ of Israel, and became a prophet of God our Lord."'
 
 ------------------------------------------------------------------------
 
-[Next](gbar151)
+[Next](gbar151.md)

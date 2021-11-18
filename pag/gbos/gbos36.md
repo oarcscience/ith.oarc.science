@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos35)  [Next](gbos37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos35)  [Next](gbos37.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ What is my will- "So mote it be,"What I do say- "It shall be done."
 
 ------------------------------------------------------------------------
 
-[Next: Consecrating Tools](gbos37)
+[Next: Consecrating Tools](gbos37.md)

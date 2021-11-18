@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo10)  [Next](beo12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo10)  [Next](beo12.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ bold he bided the battle's issue.
 
 ------------------------------------------------------------------------
 
-[Next: Part XI](beo12)
+[Next: Part XI](beo12.md)

@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540761/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540761/internetsacredte.md)
 
 </div>
 
@@ -31,8 +31,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540761/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wta00)    [Page
-Index](pageidx)    [Text \[Zipped\]](wta.txt.gz)
+[Contents](#contents)    [Start Reading](wta00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](wta.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ somewhat disillusioned with Blavatsky, however, and returned to Europe
 two years later. He remained skeptical of her methods, and in his later
 years tended toward western rather than eastern esotericism. Personally,
 however Hartmann remained on good terms with Blavatsky, and was the
-first to translate [The Secret Doctrine](../../the/sd/index) into
+first to translate [The Secret Doctrine](../../the/sd/index.md) into
 German.
 
 This, the third of Hartmann's books, and the first with a fictional
@@ -73,16 +73,16 @@ eternally fascinating subject of the 'invisible college'.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](wta00)  
-[Contents](wta01)  
-[Preface](wta02)  
-[I. The Excursion](wta03)  
-[II. The Monastery](wta04)  
-[III. Unexpected Revelations](wta05)  
-[IV. The Refectory](wta06)  
-[V. Recollections of Past Lives](wta07)  
-[VI. The Alchemical Laboratory](wta08)  
-[VII. The Higher Life](wta09)  
-[VIII. Black Magic](wta10)  
-[IX. The End](wta11)  
-[Appendix. A Rosicrucian Institution in Switzerland](wta12)  
+<span id="contents"></span> [Title Page](wta00.md)  
+[Contents](wta01.md)  
+[Preface](wta02.md)  
+[I. The Excursion](wta03.md)  
+[II. The Monastery](wta04.md)  
+[III. Unexpected Revelations](wta05.md)  
+[IV. The Refectory](wta06.md)  
+[V. Recollections of Past Lives](wta07.md)  
+[VI. The Alchemical Laboratory](wta08.md)  
+[VII. The Higher Life](wta09.md)  
+[VIII. Black Magic](wta10.md)  
+[IX. The End](wta11.md)  
+[Appendix. A Rosicrucian Institution in Switzerland](wta12.md)  

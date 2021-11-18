@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos32)  [Next](kos34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos32)  [Next](kos34.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ Editor's Note.--The Letters form the Names of Böel and other Spirits.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XI](kos34)
+[Next: Plate XI](kos34.md)

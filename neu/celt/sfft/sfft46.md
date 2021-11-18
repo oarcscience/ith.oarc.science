@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft45)  [Next](sfft47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft45)  [Next](sfft47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THOM AND WILLIE. <span id="fr_67"></span>[2](#fn_67)
+### THOM AND WILLIE. <span id="fr_67"></span>[2](#fn_67.md)
 
 THOM and Willie, two young fisher-mates of Lunna, in Shetland, were
 rivals for the hand of the fair Osla, daughter of Jarm. Now it so
@@ -121,9 +121,9 @@ into an early and unregretted grave.
 
 ### Footnotes
 
-<span id="fn_67"></span>[144:2](sfft46.htm#fr_67) Arranged from Mr. J.
+<span id="fn_67"></span>[144:2](sfft46.htm#fr_67.md) Arranged from Mr. J.
 G. Ollason's MS.
 
 ------------------------------------------------------------------------
 
-[Next: The Gloaming Bucht](sfft47)
+[Next: The Gloaming Bucht](sfft47.md)

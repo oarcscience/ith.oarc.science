@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet13)  [Next](tet15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet13)  [Next](tet15.md) 
 
 ------------------------------------------------------------------------
 
@@ -224,4 +224,4 @@ young children or are enceinte; under those conditions they are unclean.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Foraging and Cooking](tet15)
+[Next: Chapter XIII. Foraging and Cooking](tet15.md)

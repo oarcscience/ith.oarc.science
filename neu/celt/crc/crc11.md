@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc10)  [Next](crc12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc10)  [Next](crc12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ Medb said after every one had come with their booty, so that they were
 all in Findabair Cuailnge: 'Let the host be divided,' said Medb; 'it
 will be impossible to bring this expedition by one way. Let Ailill go
 with half the expedition by Midluachair; Fergus and I will go by Bernas
-Ulad: <span id="fr_45"></span>[1](#fn_44)
+Ulad: <span id="fr_45"></span>[1](#fn_44.md)
 
 'It is not fine,' said Fergus, 'the half of the expedition that has
 fallen to us. It will be impossible to bring the cattle over the
@@ -83,7 +83,7 @@ wooden sword in the wood. Hence there is Fid Mor Drualle in Ulster.
 'Let us go on after our comrades,' said Fergus. All their hosts meet in
 the plain. They pitch their tents. Fergus is summoned to Ailill to play
 chess. When Fergus went to the tent, Ailill began to laugh at him. <span
-id="fr_46"></span>[1](#fn_45)
+id="fr_46"></span>[1](#fn_45.md)
 
 .     .     .     .     .     .     .
 
@@ -122,7 +122,7 @@ Mag Murthemne, you shall have a duck with half of another; if fish come
 to the estuaries, you shall have a salmon with half of another. You
 shall have the three sprigs, the sprig of watercress, and the sprig of
 marshwort, and the sprig of seaweed. You shall have a man in the ford in
-your place.' <span id="fr_47"></span>[1](#fn_46)
+your place.' <span id="fr_47"></span>[1](#fn_46.md)
 
 'I believe it,' said Lugaid. 'Excellence of people to the boy whom I
 desire.'
@@ -155,12 +155,12 @@ and let there come to me provision every night from them.'
 
 Then Lugaid goes from him. Fergus happened to be in the tent with
 Ailill. Lugaid called him out, and told him this. Something was heard,
-namely Ailill…. <span id="fr_48"></span>[1](#fn_47)
+namely Ailill…. <span id="fr_48"></span>[1](#fn_47.md)
 
 'I swear by God I cannot do it,' said Lugaid, 'unless I ask the boy
 again.'
 
-'Help me, <span id="fr_49"></span>[2](#fn_48) O Lugaid, go to him to see
+'Help me, <span id="fr_49"></span>[2](#fn_48.md) O Lugaid, go to him to see
 whether Ailill may come with a cantred into my troop. Take an ox with
 bacon to him and a jar of wine.'
 
@@ -179,7 +179,7 @@ corner of battle" in which we are is bad.'
 <span id="page_48">p. 48</span>
 
 He goes thence to Cul Airthir. It happened that Cuchulainn had gone that
-night to speak to the Ulstermen. <span id="fr_50"></span>[1](#fn_49)
+night to speak to the Ulstermen. <span id="fr_50"></span>[1](#fn_49.md)
 
 'Have you news?' said Conchobar.
 
@@ -189,7 +189,7 @@ slain.'
 'Who carries them off? who drives them away? who kills them?'
 
 '… Ailill Mac Matae carries them off, and Fergus Mac Roich very bold
-…' <span id="fr_51"></span>[2](#fn_50)
+…' <span id="fr_51"></span>[2](#fn_50.md)
 
 'It is not great profit to you,' said Conchobar, to-day, our smiting has
 come to us all the same.'
@@ -197,12 +197,12 @@ come to us all the same.'
 Cuchulainn goes thence from them; he saw the hosts going forth.
 
 'Alas,' said Ailill, 'I see chariots' …, etc. <span
-id="fr_52"></span>[3](#fn_51)
+id="fr_52"></span>[3](#fn_51.md)
 
 Cuchulainn kills thirty men of them on Ath Duirn. They could not reach
 Cul Airthir then till night. He slays thirty of them there, and they
 pitch their tents there. Ailill's charioteer, Cuillius, was washing the
-chariot tyres <span id="fr_53"></span>[4](#fn_52) in the ford in the
+chariot tyres <span id="fr_53"></span>[4](#fn_52.md) in the ford in the
 morning; Cuchulainn struck him with a stone and killed him. Hence is Ath
 Cuillne in Cul Airthir. They reach Druim Feine in Conaille and spent the
 night there, as we have said before.
@@ -219,7 +219,7 @@ this way,' said Ailill. 'Let an agreement be carried from us to him:
 that he shall have the equal of Mag Murthemne from Mag Ai, and the best
 chariot that is in Ai, and the equipment of twelve men. Offer, if it
 pleases him better, the plain in which he was brought up, and three
-sevens of cumals <span id="fr_54"></span>[1](#fn_53); and everything
+sevens of cumals <span id="fr_54"></span>[1](#fn_53.md); and everything
 that has been destroyed of his household (?) and cattle shall be made
 good, and he shall have full compensation (?), and let him go into my
 service; it is better for him than the service of a sub-king.'
@@ -303,39 +303,39 @@ hundred every night.'
 
 ### Footnotes
 
-<span id="fn_44"></span>[44:1](crc11.htm#fr_45) YBL. Bernas Bo n-Ulad.
+<span id="fn_44"></span>[44:1](crc11.htm#fr_45.md) YBL. Bernas Bo n-Ulad.
 
-<span id="fn_45"></span>[45:1](crc11.htm#fr_46) Here follows about two
+<span id="fn_45"></span>[45:1](crc11.htm#fr_46.md) Here follows about two
 columns of rhetoric, consisting of a taunting dialogue between Ailill,
 Fergus and Medb.
 
-<span id="fn_46"></span>[46:1](crc11.htm#fr_47) This and the following
+<span id="fn_46"></span>[46:1](crc11.htm#fr_47.md) This and the following
 speech are apparently forms of greeting. Cuchulainn offers Lugaid such
 hospitality as lies in his power. See a similar speech later to Fergus.
 
-<span id="fn_47"></span>[47:1](crc11.htm#fr_48) Rhetoric, six lines, the
+<span id="fn_47"></span>[47:1](crc11.htm#fr_48.md) Rhetoric, six lines, the
 substance of which is, apparently, that Ailill asks protection also.
 
-<span id="fn_48"></span>[47:2](crc11.htm#fr_49) Spoken by Fergus?
+<span id="fn_48"></span>[47:2](crc11.htm#fr_49.md) Spoken by Fergus?
 
-<span id="fn_49"></span>[48:1](crc11.htm#fr_50) In LL and YBL this
+<span id="fn_49"></span>[48:1](crc11.htm#fr_50.md) In LL and YBL this
 incident occurs later, and the messenger is Sualtaim, not Cuchulainn. LU
 is clearly wrong here.
 
-<span id="fn_50"></span>[48:2](crc11.htm#fr_51) Rhetoric.
+<span id="fn_50"></span>[48:2](crc11.htm#fr_51.md) Rhetoric.
 
-<span id="fn_51"></span>[48:3](crc11.htm#fr_52) Rhetoric, five lines.
+<span id="fn_51"></span>[48:3](crc11.htm#fr_52.md) Rhetoric, five lines.
 
-<span id="fn_52"></span>[48:4](crc11.htm#fr_53) See note on [p.
-33](crc04.htm#page_33); the word used here is *fonnod*.
+<span id="fn_52"></span>[48:4](crc11.htm#fr_53.md) See note on [p.
+33](crc04.htm#page_33.md); the word used here is *fonnod*.
 
-<span id="fn_53"></span>[49:1](crc11.htm#fr_54) The *cumal* (bondmaid)
+<span id="fn_53"></span>[49:1](crc11.htm#fr_54) The *cumal* (bondmaid.md)
 was a standard of value.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Etarcomol](crc12)
+[Next: The Death of Etarcomol](crc12.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](htaq04)  [Next](htaq06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](htaq04)  [Next](htaq06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hidden Treasures of the Ancient Qabalah*, by Elias Gewurz, \[1918\], at
 Intangible Textual Heritage
 
@@ -199,7 +199,7 @@ ladder of earthly life and view from every rung of it the world around
 us. It is this which is meant when we are told "to look intelligently
 into the heart of men." We must learn our own lessons, even the highest,
 by passing through the full gamut of the things which human life has to
-offer. There are, [however](errata.htm#4), two ways of passing it—the
+offer. There are, [however](errata.htm#4.md), two ways of passing it—the
 lawful one and the lawless one.
 
 The lawful way of gaining experience on earth is the partaking of all it
@@ -354,4 +354,4 @@ his compassions never fail."
 ------------------------------------------------------------------------
 
 [Next: IV. The Knowledge of God Obtainable Through Love Pure and
-Undefiled](htaq06)
+Undefiled](htaq06.md)

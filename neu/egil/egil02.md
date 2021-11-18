@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil01)  [Next](egil03) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil01)  [Next](egil03.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ Kveldulf was now well stricken in years, and his sons were grown men.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER II. Of Aulvir Hnuf.](egil03)
+[Next: CHAPTER II. Of Aulvir Hnuf.](egil03.md)

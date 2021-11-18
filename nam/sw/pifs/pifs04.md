@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs03)  [Next](pifs05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs03)  [Next](pifs05.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ it was several days before she could return to the cave-only to find it
 empty.
 
 The baby had begun to cry soon after her departure. just then a
-Coyote <span id="fr_4"></span>[1](#fn_4) was passing, and heard. Taking
+Coyote <span id="fr_4"></span>[1](#fn_4.md) was passing, and heard. Taking
 pity on the child, he picked it up and carried it across the plain until
 he came to a herd of antelopes. Among them was a Mother-Antelope that
 had lost her fawn; and going to her the Coyote said:
@@ -44,7 +44,7 @@ them carefully, he shot one with an arrow. The rest started off, running
 like the wind; but ahead of them all, as long as they were in sight, he
 saw a boy! The hunter was much surprised, and, shouldering his game,
 walked back to the village, deep in thought. Here he told the
-Cacique <span id="fr_5"></span>[1](#fn_5) what he had seen. Next day the
+Cacique <span id="fr_5"></span>[1](#fn_5.md) what he had seen. Next day the
 crier was sent out to call upon all the people to prepare for a great
 hunt, in four days, to capture the Indian boy who lived with the
 antelopes.
@@ -72,7 +72,7 @@ he followed her and fell at the feet of his own human mother, who sprang
 forward and clasped him in her arms.
 
 Amid great rejoicing he was taken to Nah-bah-tóo-too-ee, and there he
-told the *principales* <span id="fr_6"></span>[1](#fn_6) how he had been
+told the *principales* <span id="fr_6"></span>[1](#fn_6.md) how he had been
 left in the cave, how the Coyote had pitied him, and how the
 Mother-Antelope had reared him as her own son.
 
@@ -84,7 +84,7 @@ grown very bushy. So the people called him *Pée-hleh-o-wah-wée-deh*
 
 Among the other villages that heard of his prowess was
 Nah-choo-rée-too-ee , all of whose people "had the bad road." <span
-id="fr_7"></span>[2](#fn_7) They had a wonderful runner named
+id="fr_7"></span>[2](#fn_7.md) They had a wonderful runner named
 *Pée-k'hoo* (Deer-foot), and very soon they sent a challenge to
 Nah-bah-tóo-too-ee for a championship race. Four days were to be given
 for preparation, to make bets, and the like.\[paragraph continues\]
@@ -96,14 +96,14 @@ for preparation, to make bets, and the like.\[paragraph continues\]
 <span id="img_01500"></span>
 
 [![THE COYOTE CARRIES THE BABY TO THE ANTELOPE MOTHER.](tn/01500.jpg)  
-Click to enlarge](img/01500.jpg)  
+Click to enlarge](img/01500.jpg.md)  
 THE COYOTE CARRIES THE BABY TO THE ANTELOPE MOTHER.  
 
  
 
 <span id="page_17">p. 17</span>
 
-The race was to be around the world. <span id="fr_8"></span>[1](#fn_8)
+The race was to be around the world. <span id="fr_8"></span>[1](#fn_8.md)
 Each village was to stake all its property and the lives of all its
 people on the result of the race. So powerful were the witches of
 Nah-choo-rée-too-ee that they felt safe in proposing so serious a stake;
@@ -125,7 +125,7 @@ At the word "*Hái-ko*!" ("Go!") the two runners started toward the east
 like the wind. The Antelope Boy soon forged ahead; but Deer-foot, by his
 witchcraft, changed himself into a hawk and flew lightly over the lad,
 saying, "*We* do this way to each other!" <span
-id="fr_9"></span>[2](#fn_9) The Antelope Boy kept running, but his heart
+id="fr_9"></span>[2](#fn_9.md) The Antelope Boy kept running, but his heart
 was very heavy, for he knew that no feet could equal the swift flight of
 the hawk.
 
@@ -141,7 +141,7 @@ The lad explained that the race was for the
 <span id="img_01800"></span>
 
 [![RAIN FALLS ON PÉE-K'HOO.](tn/01800.jpg)  
-Click to enlarge](img/01800.jpg)  
+Click to enlarge](img/01800.jpg.md)  
 RAIN FALLS ON PÉE-K'HOO.  
 
 property and lives of all his people; and that the witch-runner had
@@ -153,7 +153,7 @@ turned to a hawk and left him far behind.
 sit down here a little while, and I will give you something to carry."
 
 The boy sat down, and the Mole dived into the hole, but soon came back
-with four cigarettes. <span id="fr_10"></span>[1](#fn_10)
+with four cigarettes. <span id="fr_10"></span>[1](#fn_10.md)
 
 Holding them out, the Mole said, "Now, my son, when you have reached the
 east and turned north, smoke one; when you have reached the north and
@@ -172,7 +172,7 @@ as he dashed past. But just as he reached the north, the hawk--which had
 become dry after the short rain--caught up and passed him, saying, "We
 too do this to each other!" The boy-antelope turned westward, and smoked
 the second cigarette; and at once another terrific rain began. <span
-id="fr_11"></span>[2](#fn_11) Half-way to the west he again passed the
+id="fr_11"></span>[2](#fn_11.md) Half-way to the west he again passed the
 hawk shivering and crying in a tree,
 
 <span id="page_20">p. 20</span>
@@ -189,7 +189,7 @@ Again a short,
 
 [![''THE TWO RUNNERS CAME SWEEPING DOWN THE HOME-STRETCH, STRAINING
 EVERY NERVE.''](tn/02000.jpg)  
-Click to enlarge](img/02000.jpg)  
+Click to enlarge](img/02000.jpg.md)  
 ''THE TWO RUNNERS CAME SWEEPING DOWN THE HOME-STRETCH, STRAINING EVERY
 NERVE.''  
 
@@ -229,7 +229,7 @@ face; and at every pause they have made the customary response, "Is that
 so?" to show their attention; while the old men have nodded approbation,
 and smoked in deep silence.
 
-Now Lorenso turns to Desiderio, <span id="fr_12"></span>[1](#fn_12) who
+Now Lorenso turns to Desiderio, <span id="fr_12"></span>[1](#fn_12.md) who
 is far more wrinkled even than he, and says, "You have a tail, brother."
 And Desiderio, clearing his throat and making a new cigarette with great
 impressiveness, begins: "My sons, do you know why the Coyote and the
@@ -239,36 +239,36 @@ Crows are always at war? No? Then I will tell you."
 
 ### Footnotes
 
-<span id="fn_4"></span>[12:1](pifs04.htm#fr_4) The small prairie-wolf.
+<span id="fn_4"></span>[12:1](pifs04.htm#fr_4.md) The small prairie-wolf.
 
-<span id="fn_5"></span>[13:1](pifs04.htm#fr_5) The highest religious
+<span id="fn_5"></span>[13:1](pifs04.htm#fr_5.md) The highest religious
 official.
 
-<span id="fn_6"></span>[14:1](pifs04.htm#fr_6) The old men who are the
+<span id="fn_6"></span>[14:1](pifs04.htm#fr_6.md) The old men who are the
 congress of the pueblo.
 
-<span id="fn_7"></span>[14:2](pifs04.htm#fr_7) That is, were witches.
+<span id="fn_7"></span>[14:2](pifs04.htm#fr_7.md) That is, were witches.
 
-<span id="fn_8"></span>[17:1](pifs04.htm#fr_8) The Pueblos believed it
+<span id="fn_8"></span>[17:1](pifs04.htm#fr_8.md) The Pueblos believed it
 was an immense plain whereon the racers were to race over a square
 course--to the extreme east, then to the extreme north, and so on, back
 to the starting-point.
 
-<span id="fn_9"></span>[17:2](pifs04.htm#fr_9) A common Indian taunt,
+<span id="fn_9"></span>[17:2](pifs04.htm#fr_9.md) A common Indian taunt,
 either good-natured or bitter, to the loser of a game or to a conquered
 enemy.
 
-<span id="fn_10"></span>[19:1](pifs04.htm#fr_10) These are made by
+<span id="fn_10"></span>[19:1](pifs04.htm#fr_10.md) These are made by
 putting a certain weed called *pee-én-hleh* into hollow reeds.
 
-<span id="fn_11"></span>[19:2](pifs04.htm#fr_11) I should state, by the
+<span id="fn_11"></span>[19:2](pifs04.htm#fr_11.md) I should state, by the
 way, that the cigarette plays an important part in the Pueblo
 folk-stories,--they never had the pipe of the Northern Indians,--and all
 rain-clouds are supposed to come from its smoke.
 
-<span id="fn_12"></span>[21:1](pifs04.htm#fr_12) Pronounced
+<span id="fn_12"></span>[21:1](pifs04.htm#fr_12.md) Pronounced
 Day-see-dáy-ree-oh.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Coyote and the Crows](pifs05)
+[Next: II. The Coyote and the Crows](pifs05.md)

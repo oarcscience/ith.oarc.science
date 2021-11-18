@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](dlms04)  [Next](dlms06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](dlms04)  [Next](dlms06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dore Lectures on Mental Science*, by Thomas Troward, \[1909\], at
 Intangible Textual Heritage
 
@@ -72,7 +72,7 @@ which concentrates-the primordial ether into forms, and endows those
 forms with various modes of motion, from the simply mechanical motion of
 the planet up to the volitional motion in man. And, since this is so,
 the primary affirmative factor can only be the Feeling and the Thought
-of the Universal Spirit. <span id="fr_0"></span>[1](#fn_0) Now, by the
+of the Universal Spirit. <span id="fr_0"></span>[1](#fn_0.md) Now, by the
 hypothesis of the case, the Universal Spirit must be the Pure Essence of
 Life, and therefore its feeling and  thought can only be towards the
 continually increasing expression of the livingness which it is; and
@@ -214,13 +214,13 @@ all things new.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](dlms05.htm#fr_0) See my "Edinburgh Lectures
+<span id="fn_0"></span>[1](dlms05.htm#fr_0.md) See my "Edinburgh Lectures
 on Mental Science."
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Life of the Spirit](dlms06)
+[Next: The Life of the Spirit](dlms06.md)
 
 </div>

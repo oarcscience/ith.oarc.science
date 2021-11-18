@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp20.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ evolution during the fourth century.
 
 <span id="xref_8_2">8\_2</span>. It is a notable fact that astrology
 scarcely penetrated at all into the rural districts (*supra*, ch. VII,
-n.  [7\_9](orrp20.htm#xref_7_9)), where the ancient devotions maintained
+n.  [7\_9](orrp20.htm#xref_7_9).md), where the ancient devotions maintained
 themselves; see the *Vita S. Eligii*, Migne, *P. L.*, XL, col. 1172
 f.--In the same way the cult of the menhirs in Gaul persisted in the
 Middle Ages; see d'Arbois de Jubainville, *Comptes Rendus Acad. Inscr.*,
@@ -69,9 +69,9 @@ reflections of Paul Allard, *Julien l'Apostat*, I, 1900, p. 35.
 the time of the Stoics (Ἥρα = ἀήρ).
 
 <span id="xref_8_12">8\_12</span>. Cf. *supra*, pp.
-[51](orrp07.htm#page_51), [75](orrp08.htm#page_75),
-[99](orrp08.htm#page_99), [120](orrp09.htm#page_120),
-[148](orrp10.htm#page_148). Besides the Oriental gods the only ones to
+[51](orrp07.htm#page_51), [75](orrp08.htm#page_75.md),
+[99](orrp08.htm#page_99), [120](orrp09.htm#page_120.md),
+[148](orrp10.htm#page_148.md). Besides the Oriental gods the only ones to
 retain their authority were those of the Grecian mysteries, Bacchus and
 Hecate, and even these were transformed by their neighbors.
 
@@ -115,7 +115,7 @@ II, 13, 2: "Elementa mundi, caelum, solem, terram, mare."--Cf. Diels,
 1903, pp. 429 ff.--Until the end of the fifth century higher education
 in the Orient remained in the hands of the pagans. The life of Severus
 of Antioch, by Zachariah the Scholastic, preserved in a Syrian
-translation \[*supra*, ch. VII, n.  [7\_81](orrp20.htm#xref_7_81)\], is
+translation \[*supra*, ch. VII, n.  [7\_81](orrp20.htm#xref_7_81.md)\], is
 particularly instructive in this regard. The Christians, who were
 opposed to paganism and astrology, consequently manifested an aversion
 to the profane sciences in general, and in that way they became
@@ -128,7 +128,7 @@ of the ego for its purpose, see Geffcken, *Aus der Werdezeit des
 Christentums*, p. 7, p. III.
 
 <span id="xref_8_18">8\_18</span>. *Mon. myst. Mithra*, I, p. 294. Cf.
-*supra*, pp. [175](orrp11.htm#page_175) f.
+*supra*, pp. [175](orrp11.htm#page_175.md) f.
 
 <span id="page_284">p. 284</span>
 
@@ -143,12 +143,12 @@ reality a turbulent republic. The conception of a supreme god, the
 sovereign of a hierarchical court, seems to have been of Persian origin,
 and to have been propagated by the magi and the mysteries of Mithra. The
 inscription of the Nemroud Dagh speaks of Διὸς Ὠρομάσδου θρόνους
-(*supra*, ch. VI, n.  [6\_26](orrp19.htm#xref_6_26)), and, in fact, a
+(*supra*, ch. VI, n.  [6\_26](orrp19.htm#xref_6_26).md), and, in fact, a
 bas-relief shows Zeus-Oramasdes sitting on a throne, scepter in hand.
 The Mithra bas-reliefs likewise represent Jupiter Ormuzd on a throne,
 with the other gods standing around him (*Mon. myst. Mithra*, I, p. 129;
 11, p. 188, fig. 11); and Hostanes pictured the angels sitting around
-the throne of God (*supra*, ch. VI, n.  [6\_38](orrp19.htm#xref_6_38);
+the throne of God (*supra*, ch. VI, n.  [6\_38](orrp19.htm#xref_6_38.md);
 see Rev. iv). Moreover, the celestial god was frequently compared, not
 to a king in general, but to the Great King, and people spoke of his
 satraps; cf. Pseudo-Arist., Περὶ κόσμου, c.6, p. 398a, 10 ff. = Apul.,
@@ -159,11 +159,11 @@ Particularly important is a passage of Celsus (Origen, *Contra Cels.*,
 VIII, 35) where the relation of this doctrine to the Persian demonology
 is shown. But the Mazdean conception must have combined, at an early
 date, with the old Semitic idea that Baal was the lord and master of his
-votaries (*supra*, [p. 94](orrp08.htm#page_94) ff.). In his
+votaries (*supra*, [p. 94](orrp08.htm#page_94) ff..md). In his
 *Neutestamentliche Zeitgeschichte* (2d. ed., 1906, p. 364 ff.),
 Holtzmann insists on the fact that the people derived their conception
 of the kingdom of God from the pattern of the Persian monarchy. See also
-*supra*, [p. 111](orrp09.htm#page_111).
+*supra*, [p. 111](orrp09.htm#page_111.md).
 
 A comparison similar to this one, which is also found among the pagans
 of the fourth century, is the comparison of heaven with a city
@@ -203,7 +203,7 @@ quaedam vis mensque divina es, quae toto infusa mundo omnibus miscearis
 elementis et sine ullo extrinsecus accedente vigoris impulsu per te ipsa
 movearis, sive alique supra onme caelum potestas es quae hoc opus tuum
 ex altiore naturae arce despicias."--Compare with what we have said of
-*Jupiter exsuperantissimus* ([p. 190](orrp11.htm#page_190)).
+*Jupiter exsuperantissimus* ([p. 190](orrp11.htm#page_190).md).
 
 <span id="xref_8_22">8\_22</span>. Macrobius, *Sat.*, I, 17 ff.; cf.
 *Firm. Mat., Err. prof. rel.*, c. 8; *Mon. myst. Mithra*, I, 338 ff.
@@ -253,7 +253,7 @@ set forth in detail by Macrobius, *In Somn. Scip.,* I, II, § 5 ff.
 According to some, the soul lived above the sphere of the moon, where
 the immutable realm of eternity began; according to others, in the
 spheres of the fixed stars where they placed the Elysian Fields
-(*supra*, ch. V, n.  [5\_65](orrp18.htm#xref_5_65); see Martian,
+(*supra*, ch. V, n.  [5\_65](orrp18.htm#xref_5_65.md); see Martian,
 Capella, II, 209). The Milky Way in particular was assigned to them as
 their residence
 
@@ -270,11 +270,11 @@ finally, the soul was freed from all connection with the body and lived
 in the highest region of heaven, descending first through the gates of
 Cancer and Capricorn, at the intersection of the zodiac and the Milky
 Way, then through the spheres of the planets. This theory, which was
-that of the mysteries (*supra*, pp. [126](orrp09.htm#page_126),
-[152](orrp10.htm#page_152)) obtained the approbation of Macrobius
+that of the mysteries (*supra*, pp. [126](orrp09.htm#page_126.md),
+[152](orrp10.htm#page_152).md) obtained the approbation of Macrobius
 ("quorum sectae amicior est ratio") who explains it in detail (I, 12, §
 13 ff.). Arnobius, who got his inspiration from Cornelius Labeo
-(*supra*, ch. V, n.  [5\_64](orrp18.htm#xref_5_64)), opposed it, as a
+(*supra*, ch. V, n.  [5\_64](orrp18.htm#xref_5_64).md), opposed it, as a
 widespread error (II, 16): "Dum ad corpora labimur et properamus humana
 ex mundanis circulis, sequuntur causae quibus mali simas et pessimi."
 Cf. also, II, 33: "Vos, cum primum soluti membrorum abieretis e nodis,
@@ -286,15 +286,15 @@ alluded to it in a mocking way, in connection with the planets (V, 38):
 was still taught, at least in part, by the Priscillianists (Aug., *De
 haeres.*, 70; Priscillianus, éd. Schepss., p. 153, 15; cf. Herzog-Hauck,
 *Realencycl.*, 3d ed., s. v. "Priscillian," p. 63.--We have mentioned
-(*supra*, ch. V, n.  [5\_54](orrp18.htm#xref_5_54)) the origin of the
+(*supra*, ch. V, n.  [5\_54](orrp18.htm#xref_5_54).md) the origin of the
 belief and of its diffusion under the empire.
 
 <span id="xref_8_26">8\_26</span>. Cf. *supra*, [p.
-152](orrp10.htm#page_152), and pp. [189](orrp11.htm#page_189) ff.; *Mon.
+152](orrp10.htm#page_152), and pp. [189](orrp11.htm#page_189.md) ff.; *Mon.
 myst. Mithra*, I, p. 310.
 
 <span id="xref_8_27">8\_27</span>. This idea was spread by the Stoics
-(ἐκπύρωσις) and by astrology (*supra*, [p. 262](orrp19.htm#page_262));
+(ἐκπύρωσις) and by astrology (*supra*, [p. 262](orrp19.htm#page_262).md);
 also by the Oriental religions, see Lactantius, *Inst.*, VII, 18, and
 *Mon. myst. Mithra*, I, p. 310.
 
@@ -303,7 +303,7 @@ ff.) has tried to indicate the different elements that entered into this
 doctrine.
 
 <span id="xref_8_29">8\_29</span>. Cf. *supra*, pp.
-[134](orrp09.htm#page_134) f., [p. 160](orrp10.htm#page_160) and
+[134](orrp09.htm#page_134) f., [p. 160](orrp10.htm#page_160.md) and
 *passim*. The similarity
 
 <span id="page_288">p. 288</span>

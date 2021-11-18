@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot16) 
-[Next](bot18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot16.md) 
+[Next](bot18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ their great virtue and purity, were rewarded by a place in the heavens
 as a constellation of stars.
 
 The symbol of this House is the Bull (as illustrated
-[Frontispiece](bot00.htm#img_front), No. 2), which was selected by the
+[Frontispiece](bot00.htm#img_front), No. 2.md), which was selected by the
 early Chaldean astrologers as typifying the nature of those born under
 this sign, and not from any fancied resemblance of its stars to a Bull.
 Undoubtedly the Zodiac had a prehistoric origin, and one of the ancient
@@ -324,6 +324,6 @@ states of health.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Gemini—The Twins](bot18)
+[Next: Chapter III. Gemini—The Twins](bot18.md)
 
 </div>

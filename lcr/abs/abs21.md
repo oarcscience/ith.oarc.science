@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs20)  [Next](abs22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs20)  [Next](abs22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -61,7 +61,7 @@ everybody claims this prerogative\] people, one
 
 <span id="img_map14"></span> <span align="CENTER"> [![MAP XIV. THE
 WORLD](tn/map14.jpg)  
-Click to enlarge](img/map14.jpg)  
+Click to enlarge](img/map14.jpg.md)  
 MAP XIV. THE WORLD  
 </span>
 
@@ -76,10 +76,10 @@ considerably less than a tenth of the total land surface. Modern Man is
 divided into two very distinct groups—the Primitives and the
 Non-Primitives. The former consist of the Australoids of Australia and,
 in part, Melanesia; the Bushmen of Southwest Africa <span
-id="fr_49"></span>[\*](#fn_48); the little Negrillo Pigmies of central
-Africa <span id="fr_50"></span>[\*](#fn_48); and the Negrito Pigmies of
+id="fr_49"></span>[\*](#fn_48.md); the little Negrillo Pigmies of central
+Africa <span id="fr_50"></span>[\*](#fn_48.md); and the Negrito Pigmies of
 the Andaman Islands, the Malay Peninsula, and the Philippines. <span
-id="fr_51"></span>[\*](#fn_48) There are three divisions of the
+id="fr_51"></span>[\*](#fn_48.md) There are three divisions of the
 Non-Primitives—the Mongoloid, the Caucasoid, and the Negroid. Of the
 first, there are five subdivisions; of the second, three; and of the
 third, two, but with another group—the Hamitic—derived from intermixture
@@ -226,7 +226,7 @@ Esau by growling from deep within his throat (cf. Klei yakar, etc.). The
 outdoorsman odor of his clothing was achieved through more obvious
 means, for Rebecca simply appropriated the cast off garments left over
 from Esau's last visit. The stench, we are told, was akin to that of "a
-field of rotten potatoes." <span id="fr_52"></span>[\*](#fn_49)
+field of rotten potatoes." <span id="fr_52"></span>[\*](#fn_49.md)
 
 A composite physiological picture of the Hairy Ones shows us that they
 were Hominids, and, indeed, were close enough to modern man to be
@@ -526,7 +526,7 @@ us examine these two aspects of the matter.
 
 As currently defined the major branches of the human (*Homo sapiens*
 subsp.) species are distributed as illustrated on the world map on page
-[376](#page_376) ([Map XIV](abs22.htm#img_map16)). They fall into four
+[376](#page_376) ([Map XIV](abs22.htm#img_map16).md). They fall into four
 pretty clearly defined lumps; one with five major divisions; one with
 four subdivisions; and the others with two. Spotted about, but very
 sparsely, are also the remnants of two other basic and more primitive
@@ -541,7 +541,7 @@ data fall exactly into a single pattern.
 
 The status of both these folk-tales and current reports of ABSMs in the
 Americas is too confined and obvious to need much comment. One needs the
-more detailed vegetational map (see [Map III](abs09.htm#img_map03)) to
+more detailed vegetational map (see [Map III](abs09.htm#img_map03).md) to
 elucidate the regional features. The northern tree-line clearly divides
 the Asiatic or Arctic Mongoloids \[i.e. the Eskimos\] from the North
 Amerinds. ABSM reports from this continent fall into two classes: those
@@ -601,13 +601,13 @@ This leaves us with the continents of Eurasia and Orientalia for, as we
 have said, there is nothing to report from Australia, Melanesia, or
 Polynesian Oceania.
 
-But here comes a rather ticklish matter. [Map XIV](#img_map14) which
+But here comes a rather ticklish matter. [Map XIV](#img_map14.md) which
 displays the distribution of modern men prior to the expansion of Europe
 has one most astonishing feature. This is the almost exact coincidence
 of the distribution of the Caucasoids and Mongoloids with that of the
-true continents (see [Map XV](abs22.htm#img_map15)) and with certain
+true continents (see [Map XV](abs22.htm#img_map15).md) and with certain
 major boundaries between Vegetational Belts (see [Map
-XVI](abs22.htm#img_map16)). The coincidence would seem impossible did we
+XVI](abs22.htm#img_map16).md). The coincidence would seem impossible did we
 not know that Man, being an animal, is just as confined by the limits of
 the environment in which he evolved as is any other animal; while the
 major factor in any environment is the *form* of its vegetation.
@@ -691,7 +691,7 @@ MLF marches along beside it throughout Eurasia.
 
 The situation in the Middle East, that is from Mauretania to the Pamirs
 and south to the borders of Ethiopia and Orientalia (see [Map
-XIV](abs22.htm#img_map16)—the Central Caucasoids) was somewhat similar,
+XIV](abs22.htm#img_map16)—the Central Caucasoids.md) was somewhat similar,
 but appears to have taken place on an earlier time scale, and to have
 been more rapid. The reasons for this are twofold. First, the "Modern
 Men" of this natural province appear to have been the first to become
@@ -828,7 +828,7 @@ and clear-cut class of their own.
 
 So we are left with the fringe lands of the South or Oceanic Mongoloids
 or what is often called Southeast Asia. This, as may be seen from [Map
-XIV](#img_map14), coincides exactly with the remaining part of
+XIV](#img_map14.md), coincides exactly with the remaining part of
 Orientalia but for its two overseas extensions to the island of
 Madagascar to the west, and out into the Pacific to the east to
 encompass the Micronesians. Among these peoples are the Japanese, the
@@ -934,13 +934,13 @@ parapsychology.
 
 ### Footnotes
 
-<span id="fn_48"></span>[376:\*](abs21.htm#fr_51) <span id="page_377">p.
+<span id="fn_48"></span>[376:\*](abs21.htm#fr_51.md) <span id="page_377">p.
 377</span> \[Not on map due to scale.\]
 
-<span id="fn_49"></span>[380:\*](abs21.htm#fr_52) Curiously, this crops
+<span id="fn_49"></span>[380:\*](abs21.htm#fr_52.md) Curiously, this crops
 up repeatedly—in Canada, the Himalayas, and in Central Eastern Eurasia.
 However, the potato was unknown in the old world prior to A.D. 1500.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Some Basic Facts](abs22)
+[Next: 18. Some Basic Facts](abs22.md)

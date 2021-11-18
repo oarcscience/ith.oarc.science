@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki235)  [Next](liki237) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki235)  [Next](liki237.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,6 +66,6 @@ quotation is made;--vol. xvi, pages 60 and 268.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVII. Thâu Hû or The Game of Pitch-Pot](liki237)
+[Next: XXXVII. Thâu Hû or The Game of Pitch-Pot](liki237.md)
 
   

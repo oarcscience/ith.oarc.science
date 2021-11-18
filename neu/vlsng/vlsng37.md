@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng36)  [Next](vlsng38) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng36)  [Next](vlsng38.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ And therewithal they cease this talk.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXVI: Of the Journey of the Giukings to King
-Atli.](vlsng38)
+Atli.](vlsng38.md)

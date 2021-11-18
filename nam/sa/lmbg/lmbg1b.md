@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](lmbg1a) [Next](lmbg2a)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](lmbg1a) [Next](lmbg2a.md)
 
 ------------------------------------------------------------------------
 
@@ -1962,7 +1962,7 @@ Their voices here are heard no more!<br />
 
 ------------------------------------------------------------------------
 
-[Next](lmbg2a)
+[Next](lmbg2a.md)
 
 ------------------------------------------------------------------------
 
@@ -1970,32 +1970,32 @@ Their voices here are heard no more!<br />
 
 <span id="footnotes_page_6">p. 6</span>
 
-<span id="page_6_note_1"></span>[1](#page_6_fr_1) Aiomun Kondi.
+<span id="page_6_note_1"></span>[1](#page_6_fr_1.md) Aiomun Kondi.
 
-<span id="page_6_note_2"></span>[2](#page_6_fr_2) Ifilici W’acinaci.
+<span id="page_6_note_2"></span>[2](#page_6_fr_2.md) Ifilici W’acinaci.
 
-<span id="page_6_note_3"></span>[3](#page_6_fr_3) W’amurreti-kwonci.
+<span id="page_6_note_3"></span>[3](#page_6_fr_3.md) W’amurreti-kwonci.
 
 <span id="footnotes_page_7">p. 7</span>
 
-<span id="page_7_note_1"></span>[1](#page_7_fr_1) The Ceiba, or
+<span id="page_7_note_1"></span>[1](#page_7_fr_1.md) The Ceiba, or
 silk-cotton tree.
 
 <span id="footnotes_page_18">p. 18</span>
 
-<span id="page_18_note_1"></span>[1](#page_18_fr_1) Literally, "island."
+<span id="page_18_note_1"></span>[1](#page_18_fr_1.md) Literally, "island."
 Some one of the Antilles. This most ancient legend is the only one I
 know in which their former possession of the West India islands is
 mentioned.
 
 <span id="footnotes_page_19">p. 19</span>
 
-<span id="page_19_note_1"></span>[1](#page_19_fr_1) "Yauhahu simaira," a
+<span id="page_19_note_1"></span>[1](#page_19_fr_1.md) "Yauhahu simaira," a
 common expression denoting severe pain.
 
 <span id="footnotes_page_26">p. 26</span>
 
-<span id="page_26_note_1"></span>[1](#page_26_fr_1) The Arawâks have
+<span id="page_26_note_1"></span>[1](#page_26_fr_1.md) The Arawâks have
 various dances. In one, the men challenge each other to give and receive
 alternate lashes round the bare calf or the leg, with a severe whip
 called "Maquarri," which is the name of the dance. This is a sort of
@@ -2005,7 +2005,7 @@ mentioned above.
 
 <span id="footnotes_page_36">p. 36</span>
 
-<span id="page_36_note_1"></span>[1](#page_36_fr_1) The crew of the
+<span id="page_36_note_1"></span>[1](#page_36_fr_1.md) The crew of the
 first canoe which approached the fleet of Columbus on the shore of the
 southern continent were Arawâks, armed with bows and arrows, and
 *bucklers*. I have heard no other legend, however, of any aboriginal
@@ -2013,17 +2013,17 @@ tribe, in which the latter are mentioned.
 
 <span id="footnotes_page_37">p. 37</span>
 
-<span id="page_37_note_1"></span>[1](#page_37_fr_1) Arawâks *call
+<span id="page_37_note_1"></span>[1](#page_37_fr_1.md) Arawâks *call
 themselves* "Lokono."
 
 <span id="footnotes_page_43">p. 43</span>
 
-<span id="page_43_note_1"></span>[1](#page_43_fr_1) A common name or
+<span id="page_43_note_1"></span>[1](#page_43_fr_1.md) A common name or
 title among Carib chiefs.
 
 <span id="footnotes_page_47">p. 47</span>
 
-<span id="page_47_note_1"></span>[1](#page_47_fr_1) Lit., "beautiful
+<span id="page_47_note_1"></span>[1](#page_47_fr_1.md) Lit., "beautiful
 hair:" name given in infancy.
 
  

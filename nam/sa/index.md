@@ -21,16 +21,16 @@ British Guiana (now known as Guyana) is represented.
 ------------------------------------------------------------------------
 
 <span class="c_e"> <span class="c_t">[An Inquiry into the Animism and
-Folk-Lore of the Guiana Indians.](aflg/index)</span>  
+Folk-Lore of the Guiana Indians.](aflg/index.md)</span>  
 by <span class="c_t">Walter E. Roth</span>. \[<span
 class="c_d">1915</span>\]  
 (from the <span class="c_t">*Thirtieth Annual Report of the Bureau of
 American Ethnology, 1908-1909*, pp. 103-386</span>) </span>
 
 <span class="c_e"> <span class="c_t">[Legends and Myths of the
-Aboriginal Indians of British Guiana.](lmbg/index)</span>   by <span
+Aboriginal Indians of British Guiana.](lmbg/index.md)</span>   by <span
 class="c_a">William Henry Brett</span>. \[<span
 class="c_d">1880</span>\] </span>
 
 <span class="c_t">[The Creation Account of the Uitoto of Colombia, South
-America](cau)</span>  
+America](cau.md)</span>  

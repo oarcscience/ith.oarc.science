@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf31)  [Next](fmf33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf31)  [Next](fmf33.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ MORAL: When you are in Rome do as the Romans expect you to do.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Old-Time Pedagogue Who Came Down from the Shelf
-and Was Sufficiently Bumped](fmf33)
+and Was Sufficiently Bumped](fmf33.md)

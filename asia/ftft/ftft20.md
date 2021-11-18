@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft19)  [Next](ftft21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft19)  [Next](ftft21.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_141">p. 141</span>
 
-<span id="img_14100"></span> ![Kamer-taj, the Moon-horse](img/14100.jpg)
+<span id="img_14100"></span> ![Kamer-taj, the Moon-horse](img/14100.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a Padishah who one day found a little insect.<span
 id="img_14101"></span>
@@ -69,14 +69,14 @@ mind!" he said, "I will soon find her," and went his way home alone. Not
 far from the island a Prince sat in a canoe with
 
 <span id="img_14200"></span> ![''Lady, fear not!'' said the
-Moon-horse](img/14200.jpg)
+Moon-horse](img/14200.jpg.md)
 
 <span id="page_143">p. 143</span>
 
 <span id="img_14300"></span>
 
 [![The Prince sees the reflection](tn/14300.jpg)  
-Click to enlarge](img/14300.jpg)  
+Click to enlarge](img/14300.jpg.md)  
 The Prince sees the reflection  
 
 <span id="page_144">p. 144</span>
@@ -123,7 +123,7 @@ messenger now wished to be off, but was persuaded that it would be
 
 |                                                   |
 |---------------------------------------------------|
-| ![The Dew searched his letter bag](img/14500.jpg) |
+| ![The Dew searched his letter bag](img/14500.jpg.md) |
 
 better to remain till morning. At midnight, while he was asleep, the Dew
 searched his letter-bag and found a letter from the Padishah to the
@@ -210,7 +210,7 @@ dream--if dream it was--did not come to an end.
 
 |                     |
 |---------------------|
-| ![M](img/minit.jpg) |
+| ![M](img/minit.jpg.md) |
 
 EANWHILE the war was over and the Prince hastened home. Seeing nothing
 of his wife he asked his father what had become of her and her children.
@@ -260,7 +260,7 @@ dervish comes with his son," said their mother, "take them to such and
 such an apartment." The dervish and his son came up, the
 
 <span id="img_14800"></span> ![The two children on their wooden horses
-greeted them](img/14800.jpg)
+greeted them](img/14800.jpg.md)
 
 <span id="page_149">p. 149</span>
 
@@ -300,4 +300,4 @@ the second to the listener, the third to me.
 
 ------------------------------------------------------------------------
 
-[Next: The Bird of Sorrow](ftft21)
+[Next: The Bird of Sorrow](ftft21.md)

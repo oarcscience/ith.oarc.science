@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot09) 
-[Next](laot11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot09.md) 
+[Next](laot11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -351,7 +351,7 @@ the other hand, bestow on the other even what was under the land, unless
 he was better than the man who sold it." The two claimants came back the
 next day, and the seller was convicted of being a ruffian who had
 neglected the sacrifices, which it was his bounden duty to sacrifice to
-the gods on that land <span id="fr_4"></span>[1](#fn_4); but the other
+the gods on that land <span id="fr_4"></span>[1](#fn_4.md); but the other
 was found to be a decent man and a most devout worshipper of the gods.
 Accordingly, the opinion of Apollonius prevailed, and the better of the
 two men quitted the court as one on whom the gods had bestowed this
@@ -411,9 +411,9 @@ own country.
 
 ### Footnotes
 
-<span id="fn_4"></span>[1:221:1](laot10.htm#fr_4) Or render: the gods of
+<span id="fn_4"></span>[1:221:1](laot10.htm#fr_4.md) Or render: the gods of
 the underworld.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 41-43](laot11)
+[Next: Chapters 41-43](laot11.md)

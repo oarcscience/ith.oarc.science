@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs60)  [Next](mhs62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs60)  [Next](mhs62.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ written certain Sanskrit magical sentences.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Words Used As Charms](mhs62)
+[Next: VI. Words Used As Charms](mhs62.md)

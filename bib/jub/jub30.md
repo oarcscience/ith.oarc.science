@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub29) 
-[Next](jub31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub29.md) 
+[Next](jub31.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ the land of Haran, and Abram, dwelt with Terah his father in
 <span id="page_90">p. 90</span>
 
 \[paragraph continues\] Haran two weeks of years. <span
-id="fr_398"></span>[1](#fn_398) 16. And in the sixth week, in the fifth
+id="fr_398"></span>[1](#fn_398.md) 16. And in the sixth week, in the fifth
 year thereof, Abram sat up throughout the night on the new moon of the
 seventh month to observe the stars from the evening to the morning, in
 order to see what would be the character of the year with regard to the
@@ -59,22 +59,22 @@ And thou wilt be blessed in the earth,
 And in thee will all families of the earth be blessed,
 
 And I shall bless them that bless thee,  
-And curse them that curse thee. <span id="fr_399"></span>[1](#fn_399)
+And curse them that curse thee. <span id="fr_399"></span>[1](#fn_399.md)
 
 \[paragraph continues\] 24. And I shall be a God to thee and thy son,
 and to thy son's son, and to all thy seed: fear not, from henceforth and
 unto all generations of the earth I am thy God." 25. And the Lord God
 said: "Open his mouth and his ears, that he may hear and speak with his
 mouth, with the language which hath been revealed"; <span
-id="fr_400"></span>[2](#fn_400) for it had ceased from the mouths of all
+id="fr_400"></span>[2](#fn_400.md) for it had ceased from the mouths of all
 the children of men from the day of the overthrow (of Babel). 26. And
-I <span id="fr_401"></span>[3](#fn_401) opened his mouth, and his ears
+I <span id="fr_401"></span>[3](#fn_401.md) opened his mouth, and his ears
 and his lips, and I began to speak with him in Hebrew in the tongue of
 the creation. 27. And he took the books of his fathers, and these were
 written in Hebrew and he transcribed them, and he began from henceforth
 to study them, and I made known to him that which he could not
 (understand), and he studied them during the six rainy months. <span
-id="fr_402"></span>[4](#fn_402) 28. And it came to pass in the seventh
+id="fr_402"></span>[4](#fn_402.md) 28. And it came to pass in the seventh
 year of the sixth week
 
 |           |
@@ -103,22 +103,22 @@ and we go with thee all together."
 
 ### Footnotes
 
-<span id="fn_398"></span>[90:1](jub30.htm#fr_398) Cf. Gen. xi. 31.
+<span id="fn_398"></span>[90:1](jub30.htm#fr_398.md) Cf. Gen. xi. 31.
 
-<span id="fn_399"></span>[91:1](jub30.htm#fr_399) Cf. Gen. xii. 1-3 (cf.
+<span id="fn_399"></span>[91:1](jub30.htm#fr_399.md) Cf. Gen. xii. 1-3 (cf.
 Acts vii. 3).
 
-<span id="fn_400"></span>[91:2](jub30.htm#fr_400) *i. e.* the sacred
+<span id="fn_400"></span>[91:2](jub30.htm#fr_400.md) *i. e.* the sacred
 language, Hebrew, knowledge of which had been lost since the overthrow
 of Babel. According to another tradition Heber alone retained knowledge
 of Hebrew because he had taken no part in the building of the Tower.
 
-<span id="fn_401"></span>[91:3](jub30.htm#fr_401) The angel is the
+<span id="fn_401"></span>[91:3](jub30.htm#fr_401.md) The angel is the
 speaker.
 
-<span id="fn_402"></span>[91:4](jub30.htm#fr_402) *i. e.* the winter.
+<span id="fn_402"></span>[91:4](jub30.htm#fr_402.md) *i. e.* the winter.
 
 ------------------------------------------------------------------------
 
 [Next: Abram with Lot in Canaan and Egypt. Abram separates from Lot
-(xiii. 1-21)](jub31)
+(xiii. 1-21)](jub31.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst026)  [Next](inst028) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst026)  [Next](inst028.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,7 +201,7 @@ consider how far they have any ground for doing so.
 <span id="iv.i.xiv-p35"></span>When the Apostle calls the Son of God
 “the express image of his person,” (<span
 id="iv.i.xiv-p35.1"></span>[Heb.
-1:3](../../../bib/kjv/heb001.htm#003)<span id="iv.i.xiv-p35.1"></span>),
+1:3](../../../bib/kjv/heb001.htm#003)<span id="iv.i.xiv-p35.1"></span>.md),
 he undoubtedly does assign to the Father some subsistence in which he
 differs from the Son. For to hold with some interpreters that the term
 is equivalent to essence (as if Christ represented the substance of the
@@ -429,7 +429,7 @@ case with the communications made to the patriarchs, and all the
 prophecies. The reference is rather to the wisdom ever dwelling with
 God, and by which all oracles and prophecies were inspired. For, as
 Peter testifies (<span id="iv.i.xiv-p42.1"></span>[1 Pet.
-1:11](../../../bib/kjv/pe1001.htm#011)<span
+1:11](../../../bib/kjv/pe1001.htm#011.md)<span
 id="iv.i.xiv-p42.1"></span>), the ancient prophets spake by the Spirit
 of Christ just as did the apostles, and all who after them were
 ministers of the heavenly doctrine. But as Christ was not yet
@@ -445,20 +445,20 @@ this, by saying that *Word* is used for *order* or *command*; but the
 apostles are better expositors, when they tell us that the worlds were
 created by the Son, and that he sustains all things by his mighty word
 (<span id="iv.i.xiv-p42.2"></span>[Heb.
-1:2](../../../bib/kjv/heb001.htm#002)<span id="iv.i.xiv-p42.2"></span>).
+1:2](../../../bib/kjv/heb001.htm#002)<span id="iv.i.xiv-p42.2"></span>.md).
 For we here see that *word* is used for the nod or command of the Son,
 who is himself the eternal and essential Word of the Father. And no man
 of sane mind can have any doubt as to Solomon’s meaning, when he
 introduces Wisdom as begotten by God, and presiding at the creation of
 the world, and all other divine operations (<span
 id="iv.i.xiv-p42.3"></span>[Prov.
-8:22](../../../bib/kjv/pro008.htm#022)<span
+8:22](../../../bib/kjv/pro008.htm#022.md)<span
 id="iv.i.xiv-p42.3"></span>). For it were trifling and foolish to
 imagine any temporary command at a time when God was pleased to execute
 his fixed and eternal counsel, and something more still mysterious. To
 this our Saviour’s words refer, “My Father worketh hitherto, and I
 work,” (<span id="iv.i.xiv-p42.4"></span>[John
-5:17](../../../bib/kjv/joh005.htm#017)<span
+5:17](../../../bib/kjv/joh005.htm#017.md)<span
 id="iv.i.xiv-p42.4"></span>). In thus affirming, that from the
 foundation of the world he constantly worked with the Father, he gives a
 clearer explanation of what Moses simply touched. The meaning therefore
@@ -488,7 +488,7 @@ cease to be true, that “every good gift, and every perfect gift, is from
 above, and cometh down from the Father of lights, with whom is no
 variableness, neither shadow of turning,” (<span
 id="iv.i.xiv-p43.1"></span>[James
-1:17](../../../bib/kjv/jam001.htm#017)<span
+1:17](../../../bib/kjv/jam001.htm#017.md)<span
 id="iv.i.xiv-p43.1"></span>). Nothing, therefore, is more intolerable
 than to fancy a beginning to that Word which was always God, and
 afterwards was the Creator of the world. But they think they argue
@@ -503,7 +503,7 @@ inquire how long, he will find it was without beginning. No certain
 period of time is defined, when he himself says, “Now O Father, glorify
 thou me with thine own self with the glory which I had with thee before
 the world was,” (<span id="iv.i.xiv-p43.2"></span>[John
-17:5](../../../bib/kjv/joh017.htm#005)<span
+17:5](../../../bib/kjv/joh017.htm#005.md)<span
 id="iv.i.xiv-p43.2"></span>). Nor is this omitted by John: for before he
 descends to the creation of the world, he says, that “in the beginning
 was the Word, and the Word was with God.” We, therefore, again conclude,
@@ -524,7 +524,7 @@ creature. For he is not called God simply, but also the eternal Ruler.
 Besides, the title is not conferred on any man, without some addition,
 as when it is said that Moses would be a God to Pharaoh (<span
 id="iv.i.xiv-p44.1"></span>[Exod.
-7:1](../../../bib/kjv/exo007.htm#001)<span id="iv.i.xiv-p44.1"></span>).
+7:1](../../../bib/kjv/exo007.htm#001)<span id="iv.i.xiv-p44.1"></span>.md).
 Some read as if it were in the genitive case, but this is too insipid. I
 admit, that anything possessed of singular excellence is often called
 divine, but it is clear from the context, that this meaning here were
@@ -534,7 +534,7 @@ Christ is introduced both us God, and as possessed of supreme powers one
 of the peculiar attributes of God, “His name shall be called the Mighty
 God, the Everlasting Father, the Prince of Peace,” (<span
 id="iv.i.xiv-p44.2"></span>[Isa.
-9:6](../../../bib/kjv/isa009.htm#006)<span id="iv.i.xiv-p44.2"></span>).
+9:6](../../../bib/kjv/isa009.htm#006)<span id="iv.i.xiv-p44.2"></span>.md).
 Here, too, the Jews object, and invert the passage thus, This is the
 name by which the mighty God, the Everlasting Father, will call him; so
 that all which they leave to the Son is, “ Prince of Peace.” But why
@@ -546,14 +546,14 @@ Emmanuel, is here called the Mighty God. Moreover, there can be nothing
 clearer than the words of Jeremiah, “This is the name whereby he shall
 be called, THE LORD OUR RIGHTEOUSNESS,” (<span
 id="iv.i.xiv-p44.3"></span>[Jer.
-23:6](../../../bib/kjv/jer023.htm#006)<span
+23:6](../../../bib/kjv/jer023.htm#006.md)<span
 id="iv.i.xiv-p44.3"></span>). For as the Jews themselves teach that the
 other names of God are mere epithets, whereas this, which they call the
 ineffable name, is substantive, and expresses his essence, we infer,
 that the only begotten Son is the eternal God, who elsewhere declares,
 “My glory will I not give to another,” (<span
 id="iv.i.xiv-p44.4"></span>[Isa.
-42:8](../../../bib/kjv/isa042.htm#008)<span
+42:8](../../../bib/kjv/isa042.htm#008.md)<span
 id="iv.i.xiv-p44.4"></span>). An attempt is made to evade this from the
 fact, that this name is given by Moses to the altar which he built, and
 by Ezekiel to the New Jerusalem. But who sees not that the altar was
@@ -562,7 +562,7 @@ that the name of God was applied to Jerusalem, merely to testify the
 Divine presence? For thus the prophet speaks, “The name of the city from
 that day shall be, The Lord is there,” (<span
 id="iv.i.xiv-p44.5"></span>[Ezek.
-48:35](../../../bib/kjv/eze048.htm#035)<span
+48:35](../../../bib/kjv/eze048.htm#035.md)<span
 id="iv.i.xiv-p44.5"></span>). In the same way, “Moses built an altar,
 and called the name of it JEHOVAH-nissi,” (Jehovah my exaltation). But
 it would seem the point is still more keenly disputed as to another
@@ -581,7 +581,7 @@ is set down, in the latter, the effect is described.
 Jews, I know not what cavils will enable them to evade the numerous
 passages in which Jehovah is said to have appeared in the form of an
 Angel (<span id="iv.i.xiv-p45.1"></span>[Judges
-6:7](../../../bib/kjv/jdg006.htm#007)<span id="iv.i.xiv-p45.1"></span>;
+6:7](../../../bib/kjv/jdg006.htm#007.md)<span id="iv.i.xiv-p45.1"></span>;
 13:16-23, &c). This Angel claims for himself the name of the Eternal
 God. Should it be alleged that this is done in respect of the office
 which he bears, the difficulty is by no means solved. No servant would
@@ -608,21 +608,21 @@ which justly belonged to him—that of the God of ineffable glory. The
 same thing is intimated by Hosea, who, after mentioning the wrestling of
 Jacob with the angel, says, “Even the Lord God of hosts; the Lord is his
 memorial,” (<span id="iv.i.xiv-p45.2"></span>[Hosea
-12:5](../../../bib/kjv/hos012.htm#005)<span
+12:5](../../../bib/kjv/hos012.htm#005.md)<span
 id="iv.i.xiv-p45.2"></span>). Servetus again insinuates that God
 personated an angel; as if the prophet did not confirm what had been
 said by Moses, “Wherefore is it that thou dost ask after my name?”
 (<span id="iv.i.xiv-p45.3"></span>[Gen.
-32:29](../../../bib/kjv/gen032.htm#029),
-[30](../../../bib/kjv/gen032.htm#030)<span id="iv.i.xiv-p45.3"></span>).
+32:29](../../../bib/kjv/gen032.htm#029.md),
+[30](../../../bib/kjv/gen032.htm#030)<span id="iv.i.xiv-p45.3"></span>.md).
 And the confession of the holy Patriarch sufficiently declares that he
 was not a created angel, but one in whom the fulness of the Godhead
 dwelt, when he says, “I have seen God face to face.” Hence also Paul’s
 statement, that Christ led the people in the wilderness (<span
 id="iv.i.xiv-p45.4"></span>[1 Cor.
-10:4](../../../bib/kjv/co1010.htm#004)<span id="iv.i.xiv-p45.4"></span>.
+10:4](../../../bib/kjv/co1010.htm#004.md)<span id="iv.i.xiv-p45.4"></span>.
 See also Calvin on <span id="iv.i.xiv-p45.5"></span>[Acts
-7:30](../../../bib/kjv/act007.htm#030)<span id="iv.i.xiv-p45.5"></span>,
+7:30](../../../bib/kjv/act007.htm#030.md)<span id="iv.i.xiv-p45.5"></span>,
 and *infra*, chap. 14, s. 9). Although the time of humiliation had not
 yet arrived, the eternal Word exhibited a type of the office which he
 was to fulfil. Again, if the first chapter of Zechariah (ver. 9, &c).
@@ -634,7 +634,7 @@ may not have much weight with the Jews. For when it is said in Isaiah,
 “Lo, this is our God; we have waited for him, and he will save us; this
 is the Lord: we have waited for him, we will be glad and rejoice in his
 salvation,” (<span id="iv.i.xiv-p45.6"></span>[Isa.
-25:9](../../../bib/kjv/isa025.htm#009)<span
+25:9](../../../bib/kjv/isa025.htm#009.md)<span
 id="iv.i.xiv-p45.6"></span>), even the blind may see that the God
 referred to is he who again rises up for the deliverance of his people.
 And the emphatic description, twice repeated, precludes the idea that
@@ -642,7 +642,7 @@ reference is made to any other than to Christ. Still clearer and
 stronger is the passage of Malachi, in which a promise is made that the
 messenger who was then expected would come to his own temple (<span
 id="iv.i.xiv-p45.7"></span>[Mal.
-3:1](../../../bib/kjv/mal003.htm#001)<span id="iv.i.xiv-p45.7"></span>).
+3:1](../../../bib/kjv/mal003.htm#001)<span id="iv.i.xiv-p45.7"></span>.md).
 The temple certainly was dedicated to Almighty God only, and yet the
 prophet claims it for Christ. Hence it follows, that he is the God who
 was always worshipped by the Jews.
@@ -657,64 +657,64 @@ concerning the eternal God are applied to Christ, as either already
 fulfilled in him, or to be fulfilled at some future period. Isaiah
 prophesies, that “the Lord of Hosts” shall be “for a stone of stumbling,
 and for a rock of offence,” (<span id="iv.i.xiv-p46.1"></span>[Isa.
-8:14](../../../bib/kjv/isa008.htm#014)<span
+8:14](../../../bib/kjv/isa008.htm#014.md)<span
 id="iv.i.xiv-p46.1"></span>). Paul asserts that this prophecy was
 fulfilled in Christ (<span id="iv.i.xiv-p46.2"></span>[Rom.
-9:33](../../../bib/kjv/rom009.htm#033)<span
+9:33](../../../bib/kjv/rom009.htm#033.md)<span
 id="iv.i.xiv-p46.2"></span>), and, therefore, declares that Christ is
 that Lord of Hosts. In like manner, he says in another passage, “We
 shall all stand before the Judgment-seat of Christ. For it is written,
 As I live, saith the Lord, every knee shall bow to me, and every tongue
 shall confess to God.” Since in Isaiah God predicts this of himself
 (<span id="iv.i.xiv-p46.3"></span>[Isa.
-45:23](../../../bib/kjv/isa045.htm#023)<span
+45:23](../../../bib/kjv/isa045.htm#023.md)<span
 id="iv.i.xiv-p46.3"></span>), and Christ exhibits the reality fulfilled
 in himself, it follows that he is the very God, whose glory cannot be
 given to another. It is clear also, that the passage from the Psalms
 (<span id="iv.i.xiv-p46.4"></span>[Ps.
-68:19](../../../bib/kjv/psa068.htm#019)<span
+68:19](../../../bib/kjv/psa068.htm#019.md)<span
 id="iv.i.xiv-p46.4"></span>) which he quotes in the Epistle to the
 Ephesians, is applicable only to God, “When he ascended up on high, he
 led captivity captive,” (<span id="iv.i.xiv-p46.5"></span>[Eph.
-4:8](../../../bib/kjv/eph004.htm#008)<span id="iv.i.xiv-p46.5"></span>).
+4:8](../../../bib/kjv/eph004.htm#008)<span id="iv.i.xiv-p46.5"></span>.md).
 Understanding that such an ascension was shadowed forth when the Lord
 exerted his power, and gained a glorious victory over heathen nations,
 he intimates that what was thus shadowed was more fully manifested in
 Christ. So John testifies that it was the glory of the Son which was
 revealed to Isaiah in a vision (<span id="iv.i.xiv-p46.6"></span>[John
-12:41](../../../bib/kjv/joh012.htm#041)<span
+12:41](../../../bib/kjv/joh012.htm#041.md)<span
 id="iv.i.xiv-p46.6"></span>; <span id="iv.i.xiv-p46.7"></span>[Isa.
-6:4](../../../bib/kjv/isa006.htm#004)<span id="iv.i.xiv-p46.7"></span>),
+6:4](../../../bib/kjv/isa006.htm#004)<span id="iv.i.xiv-p46.7"></span>.md),
 though Isaiah himself expressly says that what he saw was the Majesty of
 God. Again, there can be no doubt that those qualities which, in the
 Epistle to the Hebrews, are applied to the Son, are the brightest
 attributes of God, “Thou, Lord, in the beginning hast laid the
 foundation of the earth,” &c., and, “Let all the angels of God worship
 him,” (<span id="iv.i.xiv-p46.8"></span>[Heb.
-1:10](../../../bib/kjv/heb001.htm#010),
-[6](../../../bib/kjv/heb001.htm#006)<span id="iv.i.xiv-p46.8"></span>).
+1:10](../../../bib/kjv/heb001.htm#010.md),
+[6](../../../bib/kjv/heb001.htm#006)<span id="iv.i.xiv-p46.8"></span>.md).
 And yet he does not pervert the passages in thus applying them to
 Christ, since Christ alone performed the things which these passages
 celebrate. It was he who arose and pitied Zion—he who claimed for
 himself dominion over all nations and islands. And why should John have
 hesitated to ascribe the Majesty of God to Christ, after saying in his
 preface that the Word was God? (<span id="iv.i.xiv-p46.9"></span>[John
-1:14](../../../bib/kjv/joh001.htm#014)<span
+1:14](../../../bib/kjv/joh001.htm#014.md)<span
 id="iv.i.xiv-p46.9"></span>). Why should Paul have feared to place
 Christ on the Judgment-seat of God (<span id="iv.i.xiv-p46.10"></span>[2
-Cor. 5:10](../../../bib/kjv/co2005.htm#010)<span
+Cor. 5:10](../../../bib/kjv/co2005.htm#010.md)<span
 id="iv.i.xiv-p46.10"></span>), after he had so openly proclaimed his
 divinity, when he said that he was God over all, blessed for ever? And
 to show how consistent he is in this respect, he elsewhere says that
 “God was manifest in the flesh,” (<span id="iv.i.xiv-p46.11"></span>[1
-Tim. 3:16](../../../bib/kjv/ti1003.htm#016)<span
+Tim. 3:16](../../../bib/kjv/ti1003.htm#016.md)<span
 id="iv.i.xiv-p46.11"></span>). If he is God blessed for ever, he
 therefore it is to whom alone, as Paul affirms in another place, all
 glory and honour is due. Paul does not disguise this, but openly
 exclaims, that “being in the form of God (he) thought it not robbery to
 be equal with God, but made himself of no reputation,” (<span
 id="iv.i.xiv-p46.12"></span>[Phil.
-2:6](../../../bib/kjv/phi002.htm#006)<span
+2:6](../../../bib/kjv/phi002.htm#006.md)<span
 id="iv.i.xiv-p46.12"></span>). And lest the wicked should glamour and
 say that he was a kind of spurious God, John goes farther, and affirms,
 “This is the true God, and eternal life.” Though it ought to be enough
@@ -723,8 +723,8 @@ testifies that we have no more gods than one, Paul says, “Though there
 be that are called gods, whether in heaven or in earth (as there be gods
 many, and lords many), but to us there is but one God,” (<span
 id="iv.i.xiv-p46.13"></span>[1 Cor.
-8:5](../../../bib/kjv/co1008.htm#005),
-[6](../../../bib/kjv/co1008.htm#006)<span id="iv.i.xiv-p46.13"></span>).
+8:5](../../../bib/kjv/co1008.htm#005.md),
+[6](../../../bib/kjv/co1008.htm#006)<span id="iv.i.xiv-p46.13"></span>.md).
 When we hear from the same lips that God was manifest in the flesh, that
 God purchased the Church with his own blood, why do we dream of any
 second God, to whom he makes not the least allusion? And there is no
@@ -732,7 +732,7 @@ room to doubt that all the godly entertained the same view. Thomas, by
 addressing him as his Lord and God, certainly professes that he was the
 only God whom he had ever adored (<span
 id="iv.i.xiv-p46.14"></span>[John
-20:28](../../../bib/kjv/joh020.htm#028)<span
+20:28](../../../bib/kjv/joh020.htm#028.md)<span
 id="iv.i.xiv-p46.14"></span>).
 
 <span id="iv.i.xiv-p47"></span>12. The divinity of Christ, if judged by
@@ -741,7 +741,7 @@ evident. When he said of himself, “My Father worketh hitherto, and I
 work,” the Jews, though most dull in regard to his other sayings,
 perceived that he was laying claim to divine power. And, therefore, as
 John relates (<span id="iv.i.xiv-p47.1"></span>[John
-5:17](../../../bib/kjv/joh005.htm#017)<span
+5:17](../../../bib/kjv/joh005.htm#017.md)<span
 id="iv.i.xiv-p47.1"></span>), they sought the more to kill him, because
 he not only broke the Sabbath, but also said that God was his Father,
 making himself equal with God. What, then, will be our stupidity if we
@@ -749,19 +749,19 @@ do not perceive from the same passage that his divinity is plainly
 instructed? To govern the world by his power and providence, and
 regulate all things by an energy inherent in himself (this an Apostle
 ascribes to him, <span id="iv.i.xiv-p47.2"></span>[Heb.
-1:3](../../../bib/kjv/heb001.htm#003)<span id="iv.i.xiv-p47.2"></span>),
+1:3](../../../bib/kjv/heb001.htm#003)<span id="iv.i.xiv-p47.2"></span>.md),
 surely belongs to none but the Creator. Nor does he merely share the
 government of the world with the Father, but also each of the other
 offices, which cannot be communicated to creatures. The Lord proclaims
 by his prophets “I, even I, am he that blotteth out thy transgressions
 for mine own sake,” (<span id="iv.i.xiv-p47.3"></span>[Is.
-43:25](../../../bib/kjv/isa043.htm#025)<span
+43:25](../../../bib/kjv/isa043.htm#025.md)<span
 id="iv.i.xiv-p47.3"></span>). When, in accordance with this declaration,
 the Jews thought that injustice was done to God when Christ forgave
 sins, he not only asserted, in distinct terms, that this power belonged
 to him, but also proved it by a miracle (<span
 id="iv.i.xiv-p47.4"></span>[Mt.
-9:6](../../../bib/kjv/mat009.htm#006)<span id="iv.i.xiv-p47.4"></span>).
+9:6](../../../bib/kjv/mat009.htm#006)<span id="iv.i.xiv-p47.4"></span>.md).
 We thus see that he possessed in himself not the ministry of forgiving
 sins, but the inherent power which the Lord declares he will not give to
 another. What! Is it not the province of God alone to penetrate and
@@ -782,7 +782,7 @@ the dead, &c. And they, by the mode in which they performed this
 ministry, showed plainly that their whole power was derived from Christ.
 “In the name of Jesus Christ of Nazareth,” says Peter (<span
 id="iv.i.xiv-p48.1"></span>[Acts
-3:6](../../../bib/kjv/act003.htm#006)<span id="iv.i.xiv-p48.1"></span>),
+3:6](../../../bib/kjv/act003.htm#006)<span id="iv.i.xiv-p48.1"></span>.md),
 “rise up and walk.” It is not surprising, then, that Christ appealed to
 his miracles in order to subdue the unbelief of the Jews, inasmuch as
 these were performed by his own energy, and therefore bore the most
@@ -799,21 +799,21 @@ Evangelist, that from the very beginning of the creation “in him was
 life, and this life was the light of men?” Trusting to such proofs, we
 can boldly put our hope and faith in him, though we know it is
 blasphemous impiety to confide in any creature.9  <span
-id="fr_87"></span>[88](#fn_87) “Ye believe in God,”9  <span
-id="fr_88"></span>[89](#fn_88) says he, “believe also in me,” (<span
+id="fr_87"></span>[88](#fn_87.md) “Ye believe in God,”9  <span
+id="fr_88"></span>[89](#fn_88.md) says he, “believe also in me,” (<span
 id="iv.i.xiv-p51.1"></span>[John
-14:1](../../../bib/kjv/joh014.htm#001)<span
+14:1](../../../bib/kjv/joh014.htm#001.md)<span
 id="iv.i.xiv-p51.1"></span>). And so Paul (<span
 id="iv.i.xiv-p51.2"></span>[Rom.
-10:11](../../../bib/kjv/rom010.htm#011)<span
+10:11](../../../bib/kjv/rom010.htm#011.md)<span
 id="iv.i.xiv-p51.2"></span>, and 15:12) interprets two passages of
 Isaiah “Whose believeth in him shall not be confounded,” (<span
 id="iv.i.xiv-p51.3"></span>[Isa.
-28:16](../../../bib/kjv/isa028.htm#016)<span
+28:16](../../../bib/kjv/isa028.htm#016.md)<span
 id="iv.i.xiv-p51.3"></span>); and, “In that day there shall be a root of
 Jesse, which shall stand for an ensign of the people; to it shall the
 Gentiles seek,” (<span id="iv.i.xiv-p51.4"></span>[Isa.
-11:10](../../../bib/kjv/isa011.htm#010)<span
+11:10](../../../bib/kjv/isa011.htm#010.md)<span
 id="iv.i.xiv-p51.4"></span>). But why adduce more passages of Scripture
 on this head, when we so often meet with the expression, “He that
 believeth in me has eternal life?”
@@ -823,11 +823,11 @@ to him—prayer, which specially belongs to the divine majesty, if
 anything so belongs. For the Prophet Joel says, “And it shall come to
 pass, that whosoever shall call on the name of the Lord (Jehovah) shall
 be delivered” (<span id="iv.i.xiv-p52.1"></span>[Joel
-2:32](../../../bib/kjv/joe002.htm#032)<span
+2:32](../../../bib/kjv/joe002.htm#032.md)<span
 id="iv.i.xiv-p52.1"></span>). And another says, “The name of the Lord
 (Jehovah) is a strong tower; the righteous runneth into it and is safe,”
 (<span id="iv.i.xiv-p52.2"></span>[Prov.
-18:10](../../../bib/kjv/pro018.htm#010)<span
+18:10](../../../bib/kjv/pro018.htm#010.md)<span
 id="iv.i.xiv-p52.2"></span>). But the name of Christ is invoked for
 salvation, and therefore it follows that he is Jehovah. Moreover, we
 have an example of invocation in Stephen, when he said, “Lord Jesus,
@@ -835,18 +835,18 @@ receive my spirit;” and thereafter in the whole Church, when Ananias
 says in the same book, “Lord, I have heard by many of this man, how much
 evil he has done to thy saints at Jerusalem; and here he has authority
 from the chief priests to bind all that call on thy name,” (<span
-id="iv.i.xiv-p52.3"></span>[Acts 9:13](../../../bib/kjv/act009.htm#013),
-[14](../../../bib/kjv/act009.htm#014)<span id="iv.i.xiv-p52.3"></span>).
+id="iv.i.xiv-p52.3"></span>[Acts 9:13](../../../bib/kjv/act009.htm#013.md),
+[14](../../../bib/kjv/act009.htm#014)<span id="iv.i.xiv-p52.3"></span>.md).
 And to make it more clearly understood that in Christ dwelt the whole
 fulness of the Godhead bodily, the Apostle declares that the only
 doctrine which he professed to the Corinthians, the only doctrine which
 he taught, was the knowledge of Christ (<span
 id="iv.i.xiv-p52.4"></span>[1 Cor.
-2:2](../../../bib/kjv/co1002.htm#002)<span id="iv.i.xiv-p52.4"></span>).
+2:2](../../../bib/kjv/co1002.htm#002)<span id="iv.i.xiv-p52.4"></span>.md).
 Consider what kind of thing it is, and how great, that the name of the
 Son alone is preached to us, though God command us to glory only in the
 knowledge of himself (<span id="iv.i.xiv-p52.5"></span>[Jer.
-9:24](../../../bib/kjv/jer009.htm#024)<span
+9:24](../../../bib/kjv/jer009.htm#024.md)<span
 id="iv.i.xiv-p52.5"></span>). Who will dare to maintain that he, whom to
 know forms our only ground of glorying, is a mere creature? To this we
 may add, that the salutations prefixed to the Epistles of Paul pray for
@@ -866,15 +866,15 @@ creation, when he says that the Spirit of God was expanded over the
 abyss or shapeless matter; for it shows not only that the beauty which
 the world displays is maintained by the invigorating power of the
 Spirit, but that even before this beauty existed the Spirit was at work
-cherishing the confused mass.9  <span id="fr_89"></span>[90](#fn_89)
+cherishing the confused mass.9  <span id="fr_89"></span>[90](#fn_89.md)
 Again, no cavils can explain away the force of what Isaiah says, “And
 now the Lord God, and his Spirit, has sent me,” (<span
 id="iv.i.xiv-p54.1"></span>[Isa.
-48:16](../../../bib/kjv/isa048.htm#016)<span
+48:16](../../../bib/kjv/isa048.htm#016.md)<span
 id="iv.i.xiv-p54.1"></span>), thus ascribing a share in the sovereign
 power of sending the prophets to the Holy Spirit. (Calvin in <span
 id="iv.i.xiv-p54.2"></span>[Acts
-20:28](../../../bib/kjv/act020.htm#028)<span
+20:28](../../../bib/kjv/act020.htm#028.md)<span
 id="iv.i.xiv-p54.2"></span>). In this his divine majesty is clear.
 
 <span id="iv.i.xiv-p55"></span>But, as I observed, the best proof to us
@@ -895,7 +895,7 @@ the Godhead are ascribed to him in the same way as to the Son. He
 searches the deep things of Gods and has no counsellor among the
 creatures; he bestows wisdom and the faculty of speech, though God
 declares to Moses (<span id="iv.i.xiv-p55.1"></span>[Exod.
-4:11](../../../bib/kjv/exo004.htm#011)<span id="iv.i.xiv-p55.1"></span>)
+4:11](../../../bib/kjv/exo004.htm#011)<span id="iv.i.xiv-p55.1"></span>.md)
 that this is his own peculiar province. In like manner, by means of him
 we become partakers of the divine nature, so as in a manner to feel his
 quickening energy within us. Our justification is his work; from him is
@@ -904,9 +904,9 @@ from the Spirit alone that all good gifts proceed. Particular attention
 is due to Paul’s expression, that though there are diversities of gifts,
 “all these worketh that one and the self-same Spirit,” (<span
 id="iv.i.xiv-p55.2"></span>[1 Cor.
-12:11](../../../bib/kjv/co1012.htm#011)<span
+12:11](../../../bib/kjv/co1012.htm#011.md)<span
 id="iv.i.xiv-p55.2"></span>), he being not only the beginning or origin,
-but also the author;9  <span id="fr_90"></span>[91](#fn_90) as is even
+but also the author;9  <span id="fr_90"></span>[91](#fn_90.md) as is even
 more clearly expressed immediately after in these words “dividing to
 every man severally as he will.” For were he not something subsisting in
 God, will and arbitrary disposal would never be ascribed to him. Most
@@ -917,9 +917,9 @@ demonstrate that he dwells hypostatically in God.
 of him, withhold the name of God. Paul infers that we are the temple of
 God, from the fact that “the Spirit of God dwelleth in us,” (<span
 id="iv.i.xiv-p57.1"></span>[1 Cor.
-3:16](../../../bib/kjv/co1003.htm#016)<span id="iv.i.xiv-p57.1"></span>;
+3:16](../../../bib/kjv/co1003.htm#016.md)<span id="iv.i.xiv-p57.1"></span>;
 6:19; and <span id="iv.i.xiv-p57.2"></span>[2 Cor.
-6:16](../../../bib/kjv/co2006.htm#016)<span
+6:16](../../../bib/kjv/co2006.htm#016.md)<span
 id="iv.i.xiv-p57.2"></span>). Now it ought not to be slightly
 overlooked, that all the promises which God makes of choosing us to
 himself as a temple, receive their only fulfilment by his Spirit
@@ -935,15 +935,15 @@ the Holy Spirit. Peter, when he rebuked Ananias for having lied to the
 Holy Spirit, said, that he had not lied unto men, but unto God. And when
 Isaiah had introduced the Lord of Hosts as speaking, Paul says, it was
 the Holy Spirit that spoke (<span id="iv.i.xiv-p57.4"></span>[Acts
-28:25](../../../bib/kjv/act028.htm#025),
-[26](../../../bib/kjv/act028.htm#026)<span id="iv.i.xiv-p57.4"></span>).
+28:25](../../../bib/kjv/act028.htm#025.md),
+[26](../../../bib/kjv/act028.htm#026)<span id="iv.i.xiv-p57.4"></span>.md).
 Nay, words uniformly said by the prophets to have been spoken by the
 Lord of Hosts, are by Christ and his apostles ascribed to the Holy
 Spirit. Hence it follows that the Spirit is the true Jehovah who
 dictated the prophecies. Again, when God complains that he was provoked
 to anger by the stubbornness of the people, in place of Him, Isaiah says
 that his Holy Spirit was grieved (<span id="iv.i.xiv-p57.5"></span>[Isa.
-63:10](../../../bib/kjv/isa063.htm#010)<span
+63:10](../../../bib/kjv/isa063.htm#010.md)<span
 id="iv.i.xiv-p57.5"></span>). Lastly, while blasphemy against the Spirit
 is not forgiven, either in the present life or that which is to come,
 whereas he who has blasphemed against the Son may obtain pardon, that
@@ -952,7 +952,7 @@ offend or impair. I designedly omit several passages which the ancient
 fathers adduced. They thought it plausible to quote from David, “By the
 word of the Lord were the heavens made, and all the host of them by the
 breath (Spirit) of his mouth,” (<span id="iv.i.xiv-p57.6"></span>[Ps.
-33:6](../../../bib/kjv/psa033.htm#006)<span
+33:6](../../../bib/kjv/psa033.htm#006.md)<span
 id="iv.i.xiv-p57.6"></span>), in order to prove that the world was not
 less the work of the Holy Spirit than of the Son. But seeing it is usual
 in the Psalms to repeat the same thing twice, and in Isaiah the *spirit*
@@ -973,7 +973,7 @@ our Saviour wished to testify, by a solemn rehearsal, that the perfect
 light of faith is now exhibited, when he said, “Go and teach all
 nations, baptising them in the name of the Father, and of the Son, and
 of the Holy Spirit,” (<span id="iv.i.xiv-p58.1"></span>[Mt.
-28:19](../../../bib/kjv/mat028.htm#019)<span
+28:19](../../../bib/kjv/mat028.htm#019.md)<span
 id="iv.i.xiv-p58.1"></span>), since this is the same thing as to be
 baptised into the name of the one God, who has been fully manifested in
 the Father, the Son, and the Spirit. Hence it plainly appears, that the
@@ -988,7 +988,7 @@ make a profession of faith in him in whose name we are baptised. What,
 then, is our Saviour’s meaning in commanding baptism to be administered
 in the name of the Father, and the Son, and the Holy Spirit, if it be
 not that we are to believe with one faith in the name of the Father, and
-the Son, and the Holy Spirit?9  <span id="fr_91"></span>[92](#fn_91) But
+the Son, and the Holy Spirit?9  <span id="fr_91"></span>[92](#fn_91.md) But
 is this any thing else than to declare that the Father, Son, and Spirit,
 are one God? Wherefore, since it must be held certain that there is one
 God, not more than one, we conclude that the Word and Spirit are of the
@@ -1001,7 +1001,7 @@ and the fear of the Lord, proceed from the Spirit, so he is the one
 Spirit of wisdom, prudence, fortitude, and piety. He is not divided
 according to the distribution of his gifts, but, as the Apostle assures
 us (<span id="iv.i.xiv-p59.1"></span>[1 Cor.
-12:11](../../../bib/kjv/co1012.htm#011)<span
+12:11](../../../bib/kjv/co1012.htm#011.md)<span
 id="iv.i.xiv-p59.1"></span>), however they be divided, he remains one
 and the same.
 
@@ -1015,7 +1015,7 @@ the words of Gregory Nanzianzen: “ ̔Ου φθάνω το ἕι νοη̑�
 (Greg. Nanzian. in Serm. de Sacro Baptis.). “I cannot think of the unity
 without being irradiated by the Trinity: I cannot distinguish between
 the Trinity without being carried up to the unity.”9  <span
-id="fr_92"></span>[93](#fn_92) Therefore, let us beware of imagining
+id="fr_92"></span>[93](#fn_92.md) Therefore, let us beware of imagining
 such a Trinity of persons as will distract our thoughts, instead of
 bringing them instantly back to the unity. The words Father, Son, and
 Holy Spirit, certainly indicate a real distinction, not allowing us to
@@ -1027,7 +1027,7 @@ been with God unless he were distinct from the Father; nor but for this
 could he have had his glory with the Father. In like manner, Christ
 distinguishes the Father from himself when he says that there is another
 who bears witness of him (<span id="iv.i.xiv-p61.1"></span>[John
-5:32](../../../bib/kjv/joh005.htm#032)<span id="iv.i.xiv-p61.1"></span>;
+5:32](../../../bib/kjv/joh005.htm#032.md)<span id="iv.i.xiv-p61.1"></span>;
 8:16). To the same effect is it elsewhere said, that the Father made all
 things by the Word. This could not be, if he were not in some respect
 distinct from him. Besides, it was not the Father that descended to the
@@ -1036,7 +1036,7 @@ died and rose again, but he whom the Father had sent. This distinction
 did not take its beginning at the incarnation: for it is clear that the
 only begotten Son previously existed in the bosom of the Father (<span
 id="iv.i.xiv-p61.2"></span>[John
-1:18](../../../bib/kjv/joh001.htm#018)<span
+1:18](../../../bib/kjv/joh001.htm#018.md)<span
 id="iv.i.xiv-p61.2"></span>). For who will dare to affirm that the Son
 entered his Father’s bosom for the first time, when he came down from
 heaven to assume human nature? Therefore, he was previously in the bosom
@@ -1046,7 +1046,7 @@ the Spirit proceedeth from the Father, and between the Holy Spirit and
 himself, when he speaks of him as another as he does when he declares
 that he will send another Comforter; and in many other passages besides
 (<span id="iv.i.xiv-p61.3"></span>[John
-14:6](../../../bib/kjv/joh014.htm#006)<span id="iv.i.xiv-p61.3"></span>;
+14:6](../../../bib/kjv/joh014.htm#006.md)<span id="iv.i.xiv-p61.3"></span>;
 15:26; 14:16).
 
 <span id="iv.i.xiv-p62"></span>18. I am not sure whether it is expedient
@@ -1075,7 +1075,7 @@ more clearly than in the eighth chapter to the Romans, where the same
 Spirit is called indiscriminately the Spirit of Christ, and the Spirit
 of him who raised up Christ from the dead. And not improperly. For Peter
 also testifies (<span id="iv.i.xiv-p62.1"></span>[1 Pet.
-1:21](../../../bib/kjv/pe1001.htm#021)<span
+1:21](../../../bib/kjv/pe1001.htm#021.md)<span
 id="iv.i.xiv-p62.1"></span>), that it was the Spirit of Christ which
 inspired the prophets, though the Scriptures so often say that it was
 the Spirit of God the Father.
@@ -1089,7 +1089,7 @@ and the Son. In each hypostasis the whole nature is understood the only
 difference being that each has his own peculiar subsistence. The whole
 Father is in the Son, and the whole Son in the Father, as the Son
 himself also declares (<span id="iv.i.xiv-p63.1"></span>[John
-14:10](../../../bib/kjv/joh014.htm#010)<span
+14:10](../../../bib/kjv/joh014.htm#010.md)<span
 id="iv.i.xiv-p63.1"></span>), “I am in the Father, and the Father in
 me;” nor do ecclesiastical writers admit that the one is separated from
 the other by any difference of essence. “By those names which denote
@@ -1101,7 +1101,7 @@ teach that the Father is the beginning of the Son, at another they
 assert that the Son has both divinity and essence from himself, and
 therefore is one beginning with the Father. The cause of this
 discrepancy is well and clearly explained by Augustine, when he says,10
- <span id="fr_93"></span>[94](#fn_93) “Christ, as to himself, is called
+ <span id="fr_93"></span>[94](#fn_93.md) “Christ, as to himself, is called
 God, as to the Father he is called Son.” And again, “The Father, as to
 himself, is called God, as to the Son he is called Father. He who, as to
 the Son, is called Father, is not Son; and he who, as to himself, is
@@ -1139,8 +1139,8 @@ Christ, is clear from the words of Paul, “For this thing I besought the
 Lord thrice.” After giving the answer, “My grace is sufficient for
 thee,” he subjoins, “that the power of Christ may rest upon me,” (<span
 id="iv.i.xiv-p65.1"></span>[2 Cor.
-12:8](../../../bib/kjv/co2012.htm#008),
-[9](../../../bib/kjv/co2012.htm#009)<span id="iv.i.xiv-p65.1"></span>).
+12:8](../../../bib/kjv/co2012.htm#008.md),
+[9](../../../bib/kjv/co2012.htm#009)<span id="iv.i.xiv-p65.1"></span>.md).
 For it is certain that the name of Lord (Κυρίος) is there put for
 Jehovah, and, therefore, to restrict it to the person of the Mediator
 were puerile and frivolous, the words being used absolutely, and not
@@ -1150,9 +1150,9 @@ substitute the word Κυρίος for Jehovah. Not to go far for an example,
 Paul besought the Lord in the same sense in which Peter quotes the
 passage of Joel, “Whosoever shall call upon the name of the Lord shall
 be saved,” (<span id="iv.i.xiv-p65.2"></span>[Acts
-2:21](../../../bib/kjv/act002.htm#021)<span id="iv.i.xiv-p65.2"></span>;
+2:21](../../../bib/kjv/act002.htm#021.md)<span id="iv.i.xiv-p65.2"></span>;
 <span id="iv.i.xiv-p65.3"></span>[Joel
-2:28](../../../bib/kjv/joe002.htm#028)<span
+2:28](../../../bib/kjv/joe002.htm#028.md)<span
 id="iv.i.xiv-p65.3"></span>). Where this name is specially applied to
 the Son, there is a different ground for it, as will be seen in its own
 place; at present it is sufficient to remember, that Paul, after praying
@@ -1243,18 +1243,18 @@ distribution, there is a part of God as well in the Son as in the
 Spirit, just as the same Spirit substantially is a portion of God in us,
 and also in wood and stone. His absurd babbling concerning the person of
 the Mediator will be seen in its own place.10  <span
-id="fr_94"></span>[95](#fn_94)
+id="fr_94"></span>[95](#fn_94.md)
 
 <span id="iv.i.xiv-p70"></span>The monstrous fiction that a Person is
 nothing else than a visible appearance of the glory of God, needs not a
 long refutation. For when John declares that before the world was
 created the Logos was God (<span id="iv.i.xiv-p70.1"></span>[John
-1:1](../../../bib/kjv/joh001.htm#001)<span id="iv.i.xiv-p70.1"></span>),
+1:1](../../../bib/kjv/joh001.htm#001)<span id="iv.i.xiv-p70.1"></span>.md),
 he shows that he was something very different from an idea. But if even
 then, and from the remotest eternity, that Logos, who was God, was with
 the Father, and had his own distinct and peculiar glory with the Father
 (<span id="iv.i.xiv-p70.2"></span>[John
-17:5](../../../bib/kjv/joh017.htm#005)<span
+17:5](../../../bib/kjv/joh017.htm#005.md)<span
 id="iv.i.xiv-p70.2"></span>), he certainly could not be an external or
 figurative splendour, but must necessarily have been a hypostasis which
 dwelt inherently in God himself. But although there is no mention made
@@ -1262,7 +1262,7 @@ of the Spirit antecedent to the account of the creation, he is not there
 introduced as a shadow, but as the essential power of God, where Moses
 relates that the shapeless mass was unborn by him (<span
 id="iv.i.xiv-p70.3"></span>[Gen.
-1:2](../../../bib/kjv/gen001.htm#002)<span id="iv.i.xiv-p70.3"></span>).
+1:2](../../../bib/kjv/gen001.htm#002)<span id="iv.i.xiv-p70.3"></span>.md).
 It is obvious that the eternal Spirit always existed in God, seeing he
 cherished and sustained the confused materials of heaven and earth
 before they possessed order or beauty. Assuredly he could not then be an
@@ -1310,29 +1310,29 @@ between the Father and the Son, as if to the former only the name of God
 could competently be applied. For assuredly, the God who appeared to
 Isaiah was the one true God, and yet John declares that he was Christ
 (<span id="iv.i.xiv-p72.1"></span>[Isa.
-6](../../../bib/kjv/isa006.htm#000)<span id="iv.i.xiv-p72.1"></span>;
+6](../../../bib/kjv/isa006.htm#000.md)<span id="iv.i.xiv-p72.1"></span>;
 <span id="iv.i.xiv-p72.2"></span>[John
-12:41](../../../bib/kjv/joh012.htm#041)<span
+12:41](../../../bib/kjv/joh012.htm#041.md)<span
 id="iv.i.xiv-p72.2"></span>). He who declared, by the mouth of Isaiah,
 that he was to be “for a stone of stumbling” to the Jews, was the one
 God; and yet Paul declares that he was Christ (<span
 id="iv.i.xiv-p72.3"></span>[Isa.
-8:14](../../../bib/kjv/isa008.htm#014)<span id="iv.i.xiv-p72.3"></span>;
+8:14](../../../bib/kjv/isa008.htm#014.md)<span id="iv.i.xiv-p72.3"></span>;
 <span id="iv.i.xiv-p72.4"></span>[Rom.
-9:33](../../../bib/kjv/rom009.htm#033)<span
+9:33](../../../bib/kjv/rom009.htm#033.md)<span
 id="iv.i.xiv-p72.4"></span>). He who proclaims by Isaiah, “Unto me every
 knee shall bow,” is the one God; yet Paul again explains that he is
 Christ (<span id="iv.i.xiv-p72.5"></span>[Isa.
-45:23](../../../bib/kjv/isa045.htm#023)<span
+45:23](../../../bib/kjv/isa045.htm#023.md)<span
 id="iv.i.xiv-p72.5"></span>; <span id="iv.i.xiv-p72.6"></span>[Rom.
-14:11](../../../bib/kjv/rom014.htm#011)<span
+14:11](../../../bib/kjv/rom014.htm#011.md)<span
 id="iv.i.xiv-p72.6"></span>). To this we may add the passages quoted by
 an Apostle, “Thou, Lord, hast laid the foundations of the earth;” “Let
 all the angels of God worship him,” (<span
 id="iv.i.xiv-p72.7"></span>[Heb.
-1:10](../../../bib/kjv/heb001.htm#010)<span id="iv.i.xiv-p72.7"></span>;
+1:10](../../../bib/kjv/heb001.htm#010.md)<span id="iv.i.xiv-p72.7"></span>;
 10:6; <span id="iv.i.xiv-p72.8"></span>[Ps.
-102:26](../../../bib/kjv/psa102.htm#026)<span
+102:26](../../../bib/kjv/psa102.htm#026.md)<span
 id="iv.i.xiv-p72.8"></span>; 97:7). All these apply to the one God; and
 yet the Apostle contends that they are the proper attributes of Christ.
 There is nothing in the cavil, that what properly applies to God is
@@ -1342,18 +1342,18 @@ regard to Deity, he is of himself. For if he is Jehovah, it is
 impossible to deny that he is the same God who elsewhere proclaims by
 Isaiah, “I am the first, and I am the last; and beside me there is no
 God,” (<span id="iv.i.xiv-p72.9"></span>[Is.
-44:6](../../../bib/kjv/isa044.htm#006)<span
+44:6](../../../bib/kjv/isa044.htm#006.md)<span
 id="iv.i.xiv-p72.9"></span>). We would also do well to ponder the words
 of Jeremiah, “The gods that have not made the heavens and the earth,
 even they shall perish from the earth and from under these heavens,”
 (<span id="iv.i.xiv-p72.10"></span>[Jer.
-10:11](../../../bib/kjv/jer010.htm#011)<span
+10:11](../../../bib/kjv/jer010.htm#011.md)<span
 id="iv.i.xiv-p72.10"></span>); whence it follows conversely, that He
 whose divinity Isaiah repeatedly proves from the creation of the world,
 is none other than the Son of God. And how is it possible that the
 Creator, who gives to all should not be of himself, but should borrow
 his essence from another? Whosoever says that the Son was *essentiated*
-by the Father,10  <span id="fr_95"></span>[96](#fn_95) denies his
+by the Father,10  <span id="fr_95"></span>[96](#fn_95.md) denies his
 selfexistence. Against this, however, the Holy Spirit protests, when he
 calls him Jehovah. On the supposition, then, that the whole essence is
 in the Father only, the essence becomes divisible, or is denied to the
@@ -1361,7 +1361,7 @@ Son, who, being thus robbed of his essences will be only a titular God.
 If we are to believe these triflers, divine essence belongs to the
 Father only, on the ground that he is sole God, and *essentiator* of the
 Son. In this way, the divinity of the Son will be something abstracte
- <span id="fr_96"></span>[97](#fn_96) from the essence of God, or the
+ <span id="fr_96"></span>[97](#fn_96.md) from the essence of God, or the
 derivation of a part from the whole. On the same principle it must also
 be conceded, that the Spirit belongs to the Father only. For if the
 derivation is from the primary essence which is proper to none but the
@@ -1374,7 +1374,7 @@ is God, and that he differs from the Father. If he differs, there must
 be some mark of distinction between them. Those who place it in the
 essence, manifestly reduce the true divinity of Christ to nothing, since
 divinity cannot exist without essence, and indeed without entire
-essence.10  <span id="fr_97"></span>[98](#fn_97) The Father certainly
+essence.10  <span id="fr_97"></span>[98](#fn_97.md) The Father certainly
 cannot differ from the Son, unless he have something peculiar to
 himself, and not common to him with the Son. What, then, do these men
 show as the mark of distinction? If it is in the essence, let them tell
@@ -1389,7 +1389,7 @@ will be a figurative God, one in name or semblance only, and not in
 reality, because no property can be more peculiar to God than essence,
 according to the words, “I Am hath sent me unto you,” (<span
 id="iv.i.xiv-p75.1"></span>[Ex.
-3:4](../../../bib/kjv/exo003.htm#004)<span id="iv.i.xiv-p75.1"></span>).
+3:4](../../../bib/kjv/exo003.htm#004)<span id="iv.i.xiv-p75.1"></span>.md).
 
 <span id="iv.i.xiv-p76"></span>24. The assumption, that whenever God is
 mentioned absolutely, the Father only is meant, may be proved erroneous
@@ -1414,14 +1414,14 @@ derived by gratuitous gift: I ask whether the Eternal Word of God is
 good, yes or no? If they say no, their impiety is manifest; if yes, they
 refute themselves. Christ’s seeming at the first glance to disclaim the
 name of good (<span id="iv.i.xiv-p76.1"></span>[Mt.
-19:17](../../../bib/kjv/mat019.htm#017)<span
+19:17](../../../bib/kjv/mat019.htm#017.md)<span
 id="iv.i.xiv-p76.1"></span>), rather confirms our view. Goodness. being
 the special property of God alone, and yet being at the time applied to
 him in the ordinary way of salutation, his rejection of false honour
 intimates that the goodness in which he excels is Divine. Again, I ask
 whether, when Paul affirms. that God alone is “immortal,” “wise, and
 true,” (<span id="iv.i.xiv-p76.2"></span>[1 Tim.
-1:17](../../../bib/kjv/ti1001.htm#017)<span
+1:17](../../../bib/kjv/ti1001.htm#017.md)<span
 id="iv.i.xiv-p76.2"></span>), he reduces Christ to the rank of beings
 mortal, foolish, and false. Is not he immortal, who, from the beginning,
 had life so as to bestow immortality on angels? Is not he wise who is
@@ -1433,10 +1433,10 @@ bow to him, it follows that he is the God who, in the law, forbade
 worship to be offered to any but himself. If they insist on applying to
 the Father only the words of Isaiah, “I am, and besides me there is none
 else,” (<span id="iv.i.xiv-p77.1"></span>[Is.
-44:6](../../../bib/kjv/isa044.htm#006)<span
+44:6](../../../bib/kjv/isa044.htm#006.md)<span
 id="iv.i.xiv-p77.1"></span>), I turn the passage against themselves,
 since we see that every property of God is attributed to Christ.10
- <span id="fr_98"></span>[99](#fn_98) There is no room for the cavil
+ <span id="fr_98"></span>[99](#fn_98.md) There is no room for the cavil
 that Christ was exalted in the flesh in which he humbled himself, and in
 respect of which all power is given to him in heaven and on earth. For
 although the majesty of King and Judge extends to the whole person of
@@ -1445,14 +1445,14 @@ not have been exalted to such a height without coming into collision
 with God. And the dispute is admirably settled by Paul, when he declares
 that he was equal with God before he humbled himself, and assumed the
 form of a servants (<span id="iv.i.xiv-p78.1"></span>[Phil.
-2:6](../../../bib/kjv/phi002.htm#006),
-[7](../../../bib/kjv/phi002.htm#007)<span id="iv.i.xiv-p78.1"></span>).
+2:6](../../../bib/kjv/phi002.htm#006.md),
+[7](../../../bib/kjv/phi002.htm#007)<span id="iv.i.xiv-p78.1"></span>.md).
 Moreover, how could such equality exist, if he were not that God whose
 name is Jah and Jehovah, who rides upon the cherubim, is King of all the
 earth, and King of ages? Let them glamour as they may, Christ cannot be
 robbed of the honour described by Isaiah, “Lo, this is our God; we have
 waited for him,” (<span id="iv.i.xiv-p78.2"></span>[Is.
-25:9](../../../bib/kjv/isa025.htm#009)<span
+25:9](../../../bib/kjv/isa025.htm#009.md)<span
 id="iv.i.xiv-p78.2"></span>); for these words describe the advent of God
 the Redeemer, who was not only to bring back the people from Babylonish
 captivity, but restore the Church, and make her completely perfect.
@@ -1469,7 +1469,7 @@ be formed and begotten. I know that many who would be thought wise
 deride us for extracting the distinction of persons from the words of
 Moses when he introduces God as saying, “Let us make man in our own
 image,” (<span id="iv.i.xiv-p79.1"></span>[Gen.
-1:26](../../../bib/kjv/gen001.htm#026)<span
+1:26](../../../bib/kjv/gen001.htm#026.md)<span
 id="iv.i.xiv-p79.1"></span>). Pious readers, however, see how frigidly
 and absurdly the colloquy were introduced by Moses, if there were not
 several persons in the Godhead. It is certain that those whom the Father
@@ -1481,7 +1481,7 @@ himself, but addressed other extraneous architects. In fine, there is a
 single passage which will at once dispose of these two objections. The
 declaration of Christ that “God is a Spirit,” (<span
 id="iv.i.xiv-p79.2"></span>[John
-4:24](../../../bib/kjv/joh004.htm#024)<span
+4:24](../../../bib/kjv/joh004.htm#024.md)<span
 id="iv.i.xiv-p79.2"></span>), cannot be confined to the Father only, as
 if the Word were not of a spiritual nature. But if the name Spirit
 applies equally to the Son as to the Father, I infer that under the
@@ -1504,7 +1504,7 @@ For it is absurd to imagine that our doctrine gives any ground for
 alleging that we establish a quaternion of gods. They falsely and
 calumniously ascribe to us the figment of their own brain, as if we
 virtually held that three persons emanate from one essence,10  <span
-id="fr_99"></span>[100](#fn_99) whereas it is plain, from our writings,
+id="fr_99"></span>[100](#fn_99.md) whereas it is plain, from our writings,
 that we do not disjoin the persons from the essence, but interpose a
 distinction between the persons residing in it. If the persons were
 separated from the essence, there might be some plausibility in their
@@ -1525,11 +1525,11 @@ beginning in God. And, indeed, the orthodox writers who in former times
 spoke of the Trinity, used this term only with reference to the Persons.
 To have included the essence in the distinction, would not only have
 been an absurd error, but gross impiety. For those who class the three
-thus—Essence, Son, and Spirit10  <span id="fr_100"></span>[101](#fn_100)
+thus—Essence, Son, and Spirit10  <span id="fr_100"></span>[101](#fn_100.md)
 —plainly do away with the essence of the Son and Spirit; otherwise the
 parts being intermingled would merge into each other—a circumstance
 which would vitiate any distinction.10  <span
-id="fr_101"></span>[102](#fn_101) In short, if God and Father were
+id="fr_101"></span>[102](#fn_101.md) In short, if God and Father were
 synonymous terms, the Father would be deifier in a sense which would
 leave the Son nothing but a shadow; and the Trinity would be nothing
 more than the union of one God with two creatures.
@@ -1543,14 +1543,14 @@ fanatics absurdly express it, but in respect of order. In this sense are
 to be understood the words which Christ addressed to the Father, “This
 is life eternal, that they might know thee the only true God, and Jesus
 Christ whom thou hast sent,” (<span id="iv.i.xiv-p84.1"></span>[John
-17:3](../../../bib/kjv/joh017.htm#003)<span
+17:3](../../../bib/kjv/joh017.htm#003.md)<span
 id="iv.i.xiv-p84.1"></span>). For speaking in the person of the
 Mediator, he holds a middle place between God and man; yet so that his
 majesty is not diminished thereby. For though he humbled (emptied)
 himself, he did not lose the glory which he had with the Father, though
 it was concealed from the world. So in the Epistle to the Hebrews (<span
 id="iv.i.xiv-p84.2"></span>[Heb.
-1:10](../../../bib/kjv/heb001.htm#010)<span id="iv.i.xiv-p84.2"></span>;
+1:10](../../../bib/kjv/heb001.htm#010.md)<span id="iv.i.xiv-p84.2"></span>;
 2:9), though the apostle confesses that Christ was made a little lower
 than the angels, he at the same time hesitates not to assert that he is
 the eternal God who founded the earth. We must hold, therefore, that as
@@ -1566,8 +1566,8 @@ heaven, differs from that measure of glory which he himself displayed
 when clothed in flesh. For the same reason Paul says, that Christ will
 restore “the kingdom to God, even the Father,” “that God may be all in
 all,” (<span id="iv.i.xiv-p84.3"></span>[1 Cor.
-15:24](../../../bib/kjv/co1015.htm#024),
-[28](../../../bib/kjv/co1015.htm#028)<span id="iv.i.xiv-p84.3"></span>).
+15:24](../../../bib/kjv/co1015.htm#024.md),
+[28](../../../bib/kjv/co1015.htm#028)<span id="iv.i.xiv-p84.3"></span>.md).
 Nothing can be more absurd than to deny the perpetuity of Christ’s
 divinity. But if he will never cease to be the Son of God, but will ever
 remain the same that he was from the beginning, it follows that under
@@ -1633,7 +1633,7 @@ dispensation or economy; that there is only one God in unity of
 substance; but that, nevertheless, by the mystery of dispensation, the
 unity is arranged into Trinity; that there are three, not in state, but
 in degree—not in substance, but in form—not in power, but in order.10
- <span id="fr_102"></span>[103](#fn_102) He says indeed that he holds
+ <span id="fr_102"></span>[103](#fn_102.md) He says indeed that he holds
 the Son to be second to the Father; but he means that the only
 difference is by distinction. In one place he says the Son is visible;
 but after he has discoursed on both views, he declares that he is
@@ -1689,7 +1689,7 @@ doctrine taught by them (August. lib. de Trinit. &c). He is most
 scrupulous in stating the grounds on which he is forced to differ from
 them, even in the minutest point. On this subject, too, if he finds any
 thing ambiguous or obscure in other writers, he does not disguise it.11
- <span id="fr_103"></span>[104](#fn_103) And he assumes it as an
+ <span id="fr_103"></span>[104](#fn_103.md) And he assumes it as an
 acknowledged fact, that the doctrine opposed by the Arians was received
 without dispute from the earliest antiquity. At the same time, he was
 not ignorant of what some others had previously taught. This is obvious
@@ -1719,27 +1719,27 @@ from eternity there were three persons in one God.
 
 ### Footnotes
 
-<span id="fn_87"></span>[88](inst027.htm#fr_87) <span
+<span id="fn_87"></span>[88](inst027.htm#fr_87.md) <span
 id="iv.i.xiv-p49.1"></span>
 
 <span id="iv.i.xiv-p50"></span>4 94 The French adds, “Et ne faisons
 point cela témérairement, mais selon sa parole.”—And let us not do this
 rashly, but in accordance with his Word.
 
-<span id="fn_88"></span>[89](inst027.htm#fr_88) <span
+<span id="fn_88"></span>[89](inst027.htm#fr_88.md) <span
 id="iv.i.xiv-p50.1"></span>
 
 <span id="iv.i.xiv-p51"></span>5 95 Calvin translates interrogatively,
 “Do ye believe in God?”
 
-<span id="fn_89"></span>[90](inst027.htm#fr_89) <span
+<span id="fn_89"></span>[90](inst027.htm#fr_89.md) <span
 id="iv.i.xiv-p53.1"></span>
 
 <span id="iv.i.xiv-p54"></span>6 96 The French adds, “à ce qu’elle ne
 fust point aneantie incontinent; ”—so as to prevent its being instantly
 annihilated.
 
-<span id="fn_90"></span>[91](inst027.htm#fr_90) <span
+<span id="fn_90"></span>[91](inst027.htm#fr_90.md) <span
 id="iv.i.xiv-p55.3"></span>
 
 <span id="iv.i.xiv-p56"></span>7 97 The French adds, “Sainct Paul n’eust
@@ -1747,13 +1747,13 @@ jamais ainsi parlé, s’il n’eust cognu la vraie Divinté du Sainct
 Esprit”—St Paul would never have so spoken, if he had not known the
 divinity of the Holy Spirit.
 
-<span id="fn_91"></span>[92](inst027.htm#fr_91) <span
+<span id="fn_91"></span>[92](inst027.htm#fr_91.md) <span
 id="iv.i.xiv-p58.2"></span>
 
 <span id="iv.i.xiv-p59"></span>8 98 The French entirely omits the three
 previous sentences, beginning, “Then, as,” &c.
 
-<span id="fn_92"></span>[93](inst027.htm#fr_92) <span
+<span id="fn_92"></span>[93](inst027.htm#fr_92.md) <span
 id="iv.i.xiv-p60.1"></span>
 
 <span id="iv.i.xiv-p61"></span>9 99 Bernard, De Consider. lib. 5 “Cum
@@ -1763,42 +1763,42 @@ arguit intuitus unitatis, quia illa quæcunque tria, seu illos tres, nec
 in confusionem cogit, nec in singularitatem redigit. ”—See also Bernard,
 Serm. 71 in Cantica.
 
-<span id="fn_93"></span>[94](inst027.htm#fr_93) <span
+<span id="fn_93"></span>[94](inst027.htm#fr_93.md) <span
 id="iv.i.xiv-p63.2"></span>
 
 <span id="iv.i.xiv-p64"></span>00 100 August. Homil. De Temp. 38, De
 Trinitate. See also Ad Pascentium Epist. 174 Cyrill. De Trinit. lib. 7;
 Idem, lib. 3 Dialog.; Aug. in <span id="iv.i.xiv-p64.1"></span>[Psal
-59](../../../bib/kjv/psa059.htm#000)<span id="iv.i.xiv-p64.1"></span>;
+59](../../../bib/kjv/psa059.htm#000.md)<span id="iv.i.xiv-p64.1"></span>;
 et Tract. in Joann 89; Idem, in <span id="iv.i.xiv-p64.2"></span>[Psal.
-68](../../../bib/kjv/psa068.htm#000)<span id="iv.i.xiv-p64.2"></span>.
+68](../../../bib/kjv/psa068.htm#000.md)<span id="iv.i.xiv-p64.2"></span>.
 
-<span id="fn_94"></span>[95](inst027.htm#fr_94) <span
+<span id="fn_94"></span>[95](inst027.htm#fr_94.md) <span
 id="iv.i.xiv-p68.1"></span>
 
 <span id="iv.i.xiv-p69"></span>01 101 See Calvin. Defensio Orthodox.
 Fid. S. Trinit. Adv. Prod. Error. M. Serveti
 
-<span id="fn_95"></span>[96](inst027.htm#fr_95) <span
+<span id="fn_95"></span>[96](inst027.htm#fr_95.md) <span
 id="iv.i.xiv-p72.11"></span>
 
 <span id="iv.i.xiv-p73"></span>02 102 The French adds, “puisque tels
 abuseurs forgent des noms contre nature;”—for these perverters forge
 names against nature.
 
-<span id="fn_96"></span>[97](inst027.htm#fr_96) <span
+<span id="fn_96"></span>[97](inst027.htm#fr_96.md) <span
 id="iv.i.xiv-p73.1"></span>
 
 <span id="iv.i.xiv-p74"></span>03 103 The French is, “tiré comme par un
 álambic;”—extracted as by an alembic.
 
-<span id="fn_97"></span>[98](inst027.htm#fr_97) <span
+<span id="fn_97"></span>[98](inst027.htm#fr_97.md) <span
 id="iv.i.xiv-p74.1"></span>
 
 <span id="iv.i.xiv-p75"></span>04 104 See Bernard, Serm. 80, super
 Cantica., on the heresy of Gilbert, Bishop of Poiotiers.
 
-<span id="fn_98"></span>[99](inst027.htm#fr_98) <span
+<span id="fn_98"></span>[99](inst027.htm#fr_98.md) <span
 id="iv.i.xiv-p77.2"></span>
 
 <span id="iv.i.xiv-p78"></span>05 105 The French is expressed somewhat
@@ -1806,20 +1806,20 @@ differently, “veu que l’Apostre en l’allegant de Christ, lui attribue
 tout ce quí est de Dieu;”—seeing the Apostle, by applying it to Christ,
 attributes to him everything belonging to God.
 
-<span id="fn_99"></span>[100](inst027.htm#fr_99) <span
+<span id="fn_99"></span>[100](inst027.htm#fr_99.md) <span
 id="iv.i.xiv-p80.1"></span>
 
 <span id="iv.i.xiv-p81"></span>06 106 The French adds, “Comme trois
 ruissuaux;”—like three streams.
 
-<span id="fn_100"></span>[101](inst027.htm#fr_100) <span
+<span id="fn_100"></span>[101](inst027.htm#fr_100.md) <span
 id="iv.i.xiv-p81.1"></span>
 
 <span id="iv.i.xiv-p82"></span>07 107 The French adds, “Comme si
 l’essense étoit au lieu de la personne du Pére;”—as if the essence were
 in place of the person of the Father.
 
-<span id="fn_101"></span>[102](inst027.htm#fr_101) <span
+<span id="fn_101"></span>[102](inst027.htm#fr_101.md) <span
 id="iv.i.xiv-p82.1"></span>
 
 <span id="iv.i.xiv-p83"></span>08 108 The French is somewhat differently
@@ -1829,7 +1829,7 @@ point, ce ne seroit qu’une ombre.” For the Son has some being, or he has
 none. If some, here are two essences to tilt with each other; if none,
 he is only a shadow.
 
-<span id="fn_102"></span>[103](inst027.htm#fr_102) <span
+<span id="fn_102"></span>[103](inst027.htm#fr_102.md) <span
 id="iv.i.xiv-p86.1"></span>
 
 <span id="iv.i.xiv-p87"></span>09 109 Tertullianus, lib. adv.
@@ -1846,7 +1846,7 @@ formaæ et species, in nomine Patris, et Filii, et Spriitus sancti
 deputantur. Quomodo numerum sine divisione patiuntur, procedentes
 tractatus demonstrabunt,:&c.
 
-<span id="fn_103"></span>[104](inst027.htm#fr_103) <span
+<span id="fn_103"></span>[104](inst027.htm#fr_103.md) <span
 id="iv.i.xiv-p89.1"></span>
 
 <span id="iv.i.xiv-p90"></span>10 110 Athanasuis expresses himself thus
@@ -1859,4 +1859,4 @@ than not to believe because you hesitate”
 
 [Next: CHAPTER 14. - IN THE CREATION OF THE WORLD, AND ALL THINGS IN IT,
 THE TRUE GOD DISTINGUISHED BY CERTAIN MARKS FROM FICTITIOUS
-GODS.](inst028)
+GODS.](inst028.md)

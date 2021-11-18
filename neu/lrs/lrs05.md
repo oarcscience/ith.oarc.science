@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs04)  [Next](lrs06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs04)  [Next](lrs06.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ and to the equally manifold continuations of it by several hands, but it
 is necessary to remark that only the first four books of *Amadis—*that
 is, those which constitute the *Amadis* proper—were written by Montalvo,
 the remainder being the independent and original work of imitators.
- <span id="fr_35"></span>[1](#fn_35)
+ <span id="fr_35"></span>[1](#fn_35.md)
 
 Elisena and Perion
 
@@ -275,7 +275,7 @@ Gaul to his home in the North. At his orders the sailors launched a
 boat, and having secured the tiny vessel, brought it to the ship, when
 the wife of Gandales, delighted with the beauty of the infant it held,
 decided to adopt him as her own. In a few days the vessel put into the
-Scottish port of Antalia, <span id="fr_36"></span>[2](#fn_36) and
+Scottish port of Antalia, <span id="fr_36"></span>[2](#fn_36.md) and
 Gandales carried the little Amadis to his castle, where he brought him
 up with his own son, Gandalin.
 
@@ -351,7 +351,7 @@ brave and loyal knight. He told the hermit that a damsel—the same who
 had addressed King Perion so strangely, and who was a powerful
 sorceress—had assured him that only a son of Perion could conquer his
 lifelong and ruthless enemy, the giant Albadan,  <span
-id="fr_37"></span>[3](#fn_37)
+id="fr_37"></span>[3](#fn_37.md)
 
 <span id="page_101">p. 101</span>
 
@@ -387,7 +387,7 @@ him. He sent to Gandales, the knight who had found Amadis in the sea,
 acquainting him with the lad's purpose, and Gandales dispatched a
 messenger to Court with the sword, ring, and parchment which he had
 found in the ark along with the sea-borne baby. <span
-id="fr_38"></span>[4](#fn_38)
+id="fr_38"></span>[4](#fn_38.md)
 
 These things were delivered to Amadis as belonging to him, and when he
 showed them to Oriana she begged for the wax that contained the
@@ -442,7 +442,7 @@ leave of Oriana and accompanied by Gandalin, his foster-brother, he rode
 off from the palace at nightfall. They had not gone far when they
 encountered the mysterious sorceress who, as we have seen, took such an
 interest in the fate of our hero, and whose name was Urganda. <span
-id="fr_39"></span>[5](#fn_39)
+id="fr_39"></span>[5](#fn_39.md)
 
 <span id="page_104">p. 104</span>
 
@@ -940,7 +940,7 @@ and the same.
 
 Now the Damsel of Denmark, who had been sent to search for Amadis, was
 driven by tempest to the foot of the Poor Rock. <span
-id="fr_41"></span>[7](#fn_41) Landing with Dunn and an attendant Enil,
+id="fr_41"></span>[7](#fn_41.md) Landing with Dunn and an attendant Enil,
 she found Amadis praying in the chapel, and when he beheld the Damsel's
 face he fainted away.
 
@@ -1072,7 +1072,7 @@ name of Famongomadan, the giant, Cartadaque, his nephew, giant of the
 Defended Mountain, and Madanfaboul, giant of the Vermilion Tower; from
 Quadragante, brother of King Abies of Ireland, and Archelaus the
 Enchanter, all of whom were to join against Britain on behalf of King
-Cildadan  <span id="fr_42"></span>[8](#fn_42) of Ireland, who had
+Cildadan  <span id="fr_42"></span>[8](#fn_42.md) of Ireland, who had
 quarrelled with Lisuarte. The knight, however, made one condition which
 he said would ensure peace, and that degrading enough. For he announced
 that, should Lisuarte give his daughter Oriana as damsel and servant to
@@ -1169,7 +1169,7 @@ of the blow, and a fierce struggle for Basagante's axe ended in Amadis
 wrenching it from his opponent's grasp and smiting off his head. Then he
 slew Famongomadan with his own spear, and, releasing the knights in the
 wagon, requested them to carry the bodies of the dead
-[giants](errata.htm#0) to King Lisuarte and say that they were sent by a
+[giants](errata.htm#0.md) to King Lisuarte and say that they were sent by a
 strange knight, Beltenebros. And mounting the great black horse of
 Famongomadan, he galloped off.
 
@@ -1215,7 +1215,7 @@ pieces. The fourth was that of the Bull, because every day a wild bull
 issued out of an old covered way and ran among the people as though he
 would destroy them. Then he entered a tower, from which he emerged
 ridden by an aged ape, which flogged him back to the place whence he had
-come.  <span id="fr_44"></span>[10](#fn_44)
+come.  <span id="fr_44"></span>[10](#fn_44.md)
 
 News reached the island that Gromadaza of the Boiling Lake, the wife of
 Famongomadan, had sent her defiance to Lisuarte, who in consequence had
@@ -1543,7 +1543,7 @@ The Wedding of Amadis and Oriana
 
 When all was ready and the day of the wedding had at last arrived, a
 brilliant assembly mounted their palfreys and proceeded to the church,
-where the hermit Nasciano  <span id="fr_45"></span>[11](#fn_45)
+where the hermit Nasciano  <span id="fr_45"></span>[11](#fn_45.md)
 celebrated Mass. When the ceremony had duly been performed, Amadis asked
 of Lisuarte that ere the revels began Oriana might be permitted to make
 test of the adventure of the Arch of True Lovers, as the enchantment
@@ -1620,7 +1620,7 @@ Who carped of love and arms in courtliest phrase. <span id="fr_47"></span><a hr
 
 ### Footnotes
 
-<span id="fn_35"></span>[94:1](lrs05.htm#fr_35) See the work of
+<span id="fn_35"></span>[94:1](lrs05.htm#fr_35.md) See the work of
 Rivadeneyra, *Biblioteca de Autores españoles,* vol. xl (1846-48), where
 the romance is prefaced in a brilliant and scholarly manner by Gayangos.
 Its origins are ably discussed by Eugene Baret, *Études sur la Relacion
@@ -1628,12 +1628,12 @@ Espagnole d l’ Amadis de Gaule* (1853); T. Braga, *Historia dos Novellas
 Portuguezas de Cavalleria* (1873); and L. Braunfels, *Kritischer Versuch
 über den Rom an Amadis von Gallien* (1876).
 
-<span id="fn_36"></span>[98:2](lrs05.htm#fr_36) Anstruther, in Fife? The
+<span id="fn_36"></span>[98:2](lrs05.htm#fr_36.md) Anstruther, in Fife? The
 Spaniards would know the place througb their intercourse with the
 Flemings, who traded considerably with it. A Spanish vessel put into
 Anstruther during the flight of the Armada round the coasts of Scotland.
 
-<span id="fn_37"></span>[100:3](lrs05.htm#fr_37) I think I can see in
+<span id="fn_37"></span>[100:3](lrs05.htm#fr_37.md) I think I can see in
 this giant Albadan the giant Albiona, one of the two monsters, sons of
 Neptune, who, according to Pomponius Mela, attacked Hercules in Liguria.
 The name Albion was once given to the whole of Britain, and later, as
@@ -1647,19 +1647,19 @@ signified 'the place or region of the god Alba,' 'the country of the
 white god.' All the Scottish gods were giants, like the Fomorians of
 Ireland.
 
-<span id="fn_38"></span>[102:4](lrs05.htm#fr_38) Strange that a sword
+<span id="fn_38"></span>[102:4](lrs05.htm#fr_38.md) Strange that a sword
 and a ring should so often be the test of identity in such tales! So it
 was, as regards the first of these tokens at least, with Theseus,
 Arthur, and many another hero. On this head see Hartland, *The Legend of
 Perseus* (1894-96).
 
-<span id="fn_39"></span>[103:5](lrs05.htm#fr_39) Urganda, as Southey
+<span id="fn_39"></span>[103:5](lrs05.htm#fr_39.md) Urganda, as Southey
 remarks, is a true fairy, resembling Morgan le Fay in her attributes,
 but, as Scott says, she has no connexion with the more classic
 *nymphidae.* But is not this *dea phantastica* identical with Morgan,
 and her name merely a Hispanic rendering of the Celtic fairy's?
 
-<span id="fn_40"></span>[117:6](lrs05.htm#fr_40) Scott girds fiercely
+<span id="fn_40"></span>[117:6](lrs05.htm#fr_40.md) Scott girds fiercely
 against Southey's interpolation of Anthony Munday's translation of these
 verses in his *Amadis,* and with justice. The above translation is only
 slightly more tolerable, but it is at least sense. Poor Tony was bitten
@@ -1667,40 +1667,40 @@ by the absurdities of euphuism, and his lines are mere nonsense. But
 there is even less excuse for a modern translation to backslide into the
 style of the eighteenth century.
 
-<span id="fn_41"></span>[118:7](lrs05.htm#fr_41) She had previously
+<span id="fn_41"></span>[118:7](lrs05.htm#fr_41.md) She had previously
 visited Scotland and embarked there "for Great Britain," and while on
 this voyage was driven on the Poor Rock, which would seem to have been
 'somewhere' in the Mediterranean! Strange that geography should have
 been so shaky at such a period and among a people who had done so much
 for discovery and navigation.
 
-<span id="fn_42"></span>[121:8](lrs05.htm#fr_42) 'Cildadan' I take to be
+<span id="fn_42"></span>[121:8](lrs05.htm#fr_42.md) 'Cildadan' I take to be
 Cuchullin (*pron.* Coohoolin, or Coolin), the hero of the well-known
 Irish epic.
 
-<span id="fn_43"></span>[122:9](lrs05.htm#fr_43) It was Munday's
+<span id="fn_43"></span>[122:9](lrs05.htm#fr_43.md) It was Munday's
 translation of these verses from the French which chiefly aroused the
 scorn of Scott, and it is in dread of the memory of that scorn that I
 offer these lines, which partake much more of the nature of an
 adaptation than a translation, the original Spanish being much too stiff
 and artificial for rendition in English.
 
-<span id="fn_44"></span>[125:10](lrs05.htm#fr_44) I take this incident
+<span id="fn_44"></span>[125:10](lrs05.htm#fr_44.md) I take this incident
 to be a reminiscence of the Minotaur story. Indeed the Firm Island
 appears to me, both from its geographical proximities and its whole
 phenomena, as a borrowing of Cretan or Minoan story. The "old covered
 way" from which the bull emerges is surely the Labyrinth. Is the wise
 old ape Daedalus?
 
-<span id="fn_45"></span>[136:11](lrs05.htm#fr_45) It is scarcely
+<span id="fn_45"></span>[136:11](lrs05.htm#fr_45.md) It is scarcely
 necessary to indicate to the reader that the name Nasciano is borrowed
 from that of Nasciens, the hermit king of Grail romance.
 
-<span id="fn_46"></span>[138:12](lrs05.htm#fr_46) Forbear.
+<span id="fn_46"></span>[138:12](lrs05.htm#fr_46.md) Forbear.
 
-<span id="fn_47"></span>[138:13](lrs05.htm#fr_47) William Stewart Rose,
+<span id="fn_47"></span>[138:13](lrs05.htm#fr_47.md) William Stewart Rose,
 *Amadis de Gaul: A Poem in Three Books* (London, 1803).
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Sequels to "Amadis de Gaul"](lrs06)
+[Next: IV. The Sequels to "Amadis de Gaul"](lrs06.md)

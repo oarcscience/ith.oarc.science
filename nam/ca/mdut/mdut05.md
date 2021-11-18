@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut04)  [Next](mdut06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut04)  [Next](mdut06.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ he said. "There is nothing that I have been doctoring that I cannot
 cure" (?) he said. Then, crawling over, and having sat down beside (the
 woman who was ill), he sang. He kept singing. "'I said that when told
 that way, I did not wish to conquer he said to me,' <span
-id="fr_4"></span>[1](#fn_4) said Coyote. "That spirit told me, 'I will
+id="fr_4"></span>[1](#fn_4.md) said Coyote. "That spirit told me, 'I will
 not speak in this kind of a place. I am a spirit. Shut up the house; and
 when it is shut tight, I will speak.' So if you crawl out, and stay
 outside by the door, to me alone the spirit will speak, he told me,"
@@ -120,9 +120,9 @@ her."
 Then Coyote spoke. "Coyote-Man did that way a long time ago to me
 myself," (?) he said. "When some one hires you to doctor, go," said he.
 "You yourself shall doctor, working over the sick person (?). <span
-id="fr_5"></span>[1](#fn_5) So do the best you can; and when the
+id="fr_5"></span>[1](#fn_5.md) So do the best you can; and when the
 spirit-man talks with you, he will be strong. I will go with you," he
-said. Then she went. And he (Badger <span id="fr_6"></span>[2](#fn_6))
+said. Then she went. And he (Badger <span id="fr_6"></span>[2](#fn_6).md)
 went, after having painted his forehead in stripes. He kept travelling
 until he arrived. Then he sang, kept singing, and after a while he said,
 "What will you do with it, with what I suck out as the cause of pain?
@@ -568,7 +568,7 @@ a dark place. Then
 <span id="page_102">p. 102</span> <span id="page_103">p. 103</span>
 
 he lay between her legs. Meanwhile she said, ". . . ." <span
-id="fr_7"></span>[1](#fn_7) It was the old woman, his wife. Then kicking
+id="fr_7"></span>[1](#fn_7.md) It was the old woman, his wife. Then kicking
 her, and striking her, having knocked her over, he killed her, and,
 coming up, he got back (to the dance). She, having made, (herself)
 pretty, danced again,--the same one, they say, the Frog-Old-Woman. She
@@ -607,16 +607,16 @@ quiet.
 
 ### Footnotes
 
-<span id="fn_4"></span>[73:1](mdut05.htm#fr_4) That is to overcome and
+<span id="fn_4"></span>[73:1](mdut05.htm#fr_4.md) That is to overcome and
 drive out the disease.
 
-<span id="fn_5"></span>[75:1](mdut05.htm#fr_5) This sentence is obscure.
+<span id="fn_5"></span>[75:1](mdut05.htm#fr_5.md) This sentence is obscure.
 
-<span id="fn_6"></span>[75:2](mdut05.htm#fr_6) Together with Coyote.
+<span id="fn_6"></span>[75:2](mdut05.htm#fr_6.md) Together with Coyote.
 
-<span id="fn_7"></span>[103:1](mdut05.htm#fr_7) Obscure. Nipiknom, "I
+<span id="fn_7"></span>[103:1](mdut05.htm#fr_7.md) Obscure. Nipiknom, "I
 alone;" yaha'tseti'smöni, "when I make (you) look well"(?)."
 
 ------------------------------------------------------------------------
 
-[Next: 4. Coyote And Muskrat](mdut06)
+[Next: 4. Coyote And Muskrat](mdut06.md)

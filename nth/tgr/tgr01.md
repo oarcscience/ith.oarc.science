@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tgr00)  [Next](tgr02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tgr00)  [Next](tgr02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Think and Grow Rich*, by Napoleon Hill \[1938\], at Intangible Textual
 Heritage
 
@@ -63,7 +63,7 @@ here described. After
 
 <span id="page_2">p. 2</span>
 
-reading the story (starting on page [52](tgr07.htm#page_52)), you will
+reading the story (starting on page [52](tgr07.htm#page_52).md), you will
 realize that you are about to come into possession of a philosophy which
 can be transmuted into material wealth, or serve as readily to bring you
 peace of mind, understanding, spiritual harmony, and in some instances,
@@ -103,4 +103,4 @@ acquired his huge fortune, as referred to in the author's introduction.
 
 ------------------------------------------------------------------------
 
-[Next: Tributes to the Author](tgr02)
+[Next: Tributes to the Author](tgr02.md)

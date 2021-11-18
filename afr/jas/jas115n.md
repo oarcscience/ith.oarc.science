@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas114n)  [Next](jas116n)   
- \[[115. Jack and the Devil.](jas115)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas114n)  [Next](jas116n.md)   
+ \[[115. Jack and the Devil.](jas115.md)\]
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ Polívka 1:398-412.
 
 ------------------------------------------------------------------------
 
-[Next: Note 116. Jack's Riddle.](jas116n)
+[Next: Note 116. Jack's Riddle.](jas116n.md)

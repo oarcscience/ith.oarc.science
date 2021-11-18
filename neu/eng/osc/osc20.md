@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc19)  [Next](osc21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc19)  [Next](osc21.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ Linlithgow and Selkirk, also the Tower of London.
 
 ------------------------------------------------------------------------
 
-[Next: (18) Ascension Day--Other Superstitions](osc21)
+[Next: (18) Ascension Day--Other Superstitions](osc21.md)

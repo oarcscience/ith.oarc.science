@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs40)  [Next](sfs42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs40)  [Next](sfs42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ Well, God having given her children, she said: 'Now, then, since they
 have been born as human beings, let us christen them among human
 beings.' She took her seat in a golden carriage, laid the children on
 her knees, and drove off to the village to the pope. <span
-id="fr_10"></span>[\*](#fn_10) The carriage had not got into the open
+id="fr_10"></span>[\*](#fn_10.md) The carriage had not got into the open
 country, when sadness was brought to the mother. The old woman had made
 an outcry in the whole village, seized a sickle, and rushed into the
 country. She saw she had manifest death before her, when she called to
@@ -49,9 +49,9 @@ sprang up by the roadside.
 
 ### Footnotes
 
-<span id="fn_10"></span>[161:\*](sfs41.htm#fr_10) The orthodox Greek
+<span id="fn_10"></span>[161:\*](sfs41.htm#fr_10.md) The orthodox Greek
 priests are always designated 'popes.'
 
 ------------------------------------------------------------------------
 
-[Next: XXXI. Transmigration of the Soul](sfs42)
+[Next: XXXI. Transmigration of the Soul](sfs42.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip81)  [Next](fip83) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip81)  [Next](fip83.md) 
 
 ------------------------------------------------------------------------
 
-### LEGEND OF KNOCKGRAFTON.--Page [40](fip12.htm#page_40).
+### LEGEND OF KNOCKGRAFTON.--Page [40](fip12.htm#page_40.md).
 
 Moat does not mean a place with water, but a tumulus or barrow. The
 words *Da Luan Da Mort augus Da Dardeen* are Gaelic for "Monday,
@@ -29,4 +29,4 @@ halfpenny".
 
 ------------------------------------------------------------------------
 
-[Next: Stolen Child](fip83)
+[Next: Stolen Child](fip83.md)

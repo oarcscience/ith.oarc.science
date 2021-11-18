@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi044)  [Next](mtsi046) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi044)  [Next](mtsi046.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ woods still burn off.
 
 ------------------------------------------------------------------------
 
-[Next: 44. Rabbit Steals Fire](mtsi046)
+[Next: 44. Rabbit Steals Fire](mtsi046.md)

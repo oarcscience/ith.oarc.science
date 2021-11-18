@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml06)  [Next](tml08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml06)  [Next](tml08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -217,7 +217,7 @@ girdling rivers in the underworld to reach Hela's glittering plains.
 
 <span id="img_01600"></span> <span align="CENTER"> [![ODIN&lt;br&gt;
 &lt;i&gt;From the statue by B. E. Fogelberg&lt;/i&gt;](tn/01600.jpg)  
-Click to enlarge](img/01600.jpg)  
+Click to enlarge](img/01600.jpg.md)  
 ODIN  
 *From the statue by B. E. Fogelberg*  
 </span>
@@ -365,4 +365,4 @@ There came the Gods, and sate them down on stones.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Deeds of Odin](tml08)
+[Next: Chapter III. The Deeds of Odin](tml08.md)

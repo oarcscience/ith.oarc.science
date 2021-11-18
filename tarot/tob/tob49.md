@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob48) 
-[Next](tob50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob48.md) 
+[Next](tob50.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,4 +153,4 @@ of them, if so we must beg them to excuse us.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](tob50)
+[Next: Introduction](tob50.md)

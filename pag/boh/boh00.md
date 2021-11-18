@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Next](boh01) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Next](boh01.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ book.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](boh01)
+[Next: Preface](boh01.md)

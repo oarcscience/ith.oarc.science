@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift08) 
-[Next](ift10) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift08.md) 
+[Next](ift10.md) 
 
 ------------------------------------------------------------------------
 
 # Loving Laili
 
 <span id="img_29"></span> [![](tn/29.jpg)  
-Click to enlarge](img/29.jpg)
+Click to enlarge](img/29.jpg.md)
 
 <span id="img_28"></span> ![](img/28.jpg)NCE there was a king called
 King Dantal, who had a great many rupees and soldiers and horses. He had
@@ -137,7 +137,7 @@ were great feasts, and they were married, and travelled to the Phalana
 country to see her father and mother.
 
 <span id="img_30"></span> [![](tn/30.jpg)  
-Click to enlarge](img/30.jpg)
+Click to enlarge](img/30.jpg.md)
 
 Now Laili's father and mother had wept so much for their daughter that
 they had become quite blind, and her father kept always repeating,
@@ -419,4 +419,4 @@ perhaps some one may kill my son to take her away."
 
 ------------------------------------------------------------------------
 
-[Next: The Tiger, The Brahman, and the Jackal](ift10)
+[Next: The Tiger, The Brahman, and the Jackal](ift10.md)

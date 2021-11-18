@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK I CHAPTER III
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK I](book00) 
-[Previous](mart001)  [Next](mart003) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK I](book00.md) 
+[Previous](mart001)  [Next](mart003.md) </span>
 
 ------------------------------------------------------------------------
 

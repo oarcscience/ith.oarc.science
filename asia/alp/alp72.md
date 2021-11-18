@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp71) 
-[Next](alp73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp71.md) 
+[Next](alp73.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ And seek in fair Armenia
 
 ------------------------------------------------------------------------
 
-[Next: The Christ-Child](alp73)
+[Next: The Christ-Child](alp73.md)

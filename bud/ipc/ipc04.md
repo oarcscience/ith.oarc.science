@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc03)  [Next](ipc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc03)  [Next](ipc05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ Baal.—Esoterically a noble Pantheism fighting with the Polytheisms
 around.—The S’iva-Durgâ Cultus rises everywhere far above other
 religions, and also sinks lower. Invents the Yogi—and the Yoga
 philosophy.—Invents the Hypostases.—Great importance of
-[Gaṇes’a](errata.htm#1) in the history of civilisation.</span>
+[Gaṇes’a](errata.htm#1.md) in the history of civilisation.</span>
 
 <span class="smallcaps">As</span> the Indian god S’iva has much to do
 with our present inquiry, first of all we must try to get a better
@@ -59,7 +59,7 @@ the waters shut up in his power. Indra has torn to pieces Suchna
 "By him has been opened the bosom of that vault, yea, that vault without
 boundaries. Armed with the thunderbolt, Indra, the greatest of the
 Angiras, has forced the stable of the Celestial Cows." <span
-id="fr_1"></span>[\*](#fn_1)
+id="fr_1"></span>[\*](#fn_1.md)
 
 That the chief god inimical to the Aryans was S’iva there can be no
 doubt. His special symbol is the Mahâdeo, and Dr. Muir has unearthed two
@@ -71,7 +71,7 @@ god is the S’is’na approach our sacred ceremony."
 "Desiring to bestow strength on the struggle that warrior (Indra) has
 besieged inaccessible places at the time when irresistibly slaying those
 whose god is the S’is’na he by his force conquered the riches of the
-City with a hundred gates." <span id="fr_2"></span>[†](#fn_2)
+City with a hundred gates." <span id="fr_2"></span>[†](#fn_2.md)
 
 The S’is’na is the Mahâdeo, sex worship in *puris naturalibus*.
 
@@ -88,14 +88,14 @@ Vulcan of
 
 <span id="img_pl01"></span> <span align="CENTER"> [![PLATE 1. DURGÂ AS
 THE SERPENT MANASÂ.](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 PLATE 1. DURGÂ AS THE SERPENT MANASÂ.  
 </span>
 
 <span id="page_11">p. 11</span>
 
 the Vedas), and the waters like cows ran towards their stable He has
-struck the first born of the Ahis." <span id="fr_3"></span>[\*](#fn_3)
+struck the first born of the Ahis." <span id="fr_3"></span>[\*](#fn_3.md)
 
 But Ahi or Vritra has a wicked wife, "Nirriti the insurmountable." This
 is plainly S’iva's wife, Durgâ (the Tower of Strength).
@@ -144,7 +144,7 @@ in Babylon, and Indian muslin was known there, and called "Sindhu," the
 early name for India.
 
 Another singularly able Orientalist, Mr. Paterson, wrote thus in the
-"Asiatic Researches" <span id="fr_4"></span>[\*](#fn_4)
+"Asiatic Researches" <span id="fr_4"></span>[\*](#fn_4.md)
 
 "The doctrines of the Saivas seem to have extended themselves over the
 greatest portion of mankind. They spread amongst remote nations, who
@@ -178,7 +178,7 @@ symbols.
 "They supplied their want of information by fables congenial to their
 own national character and manners: hence arose those contradictions
 which made their theology a labyrinth of confusion." <span
-id="fr_5"></span>[\*](#fn_5)
+id="fr_5"></span>[\*](#fn_5.md)
 
 And now what is S’iva?
 
@@ -256,7 +256,7 @@ the Râmâyana, Valmiki informs us that S’iva has "emasculated all the
 gods." And when winter tourists in India sneer at a white-dusted yogi in
 the bazaar, they little guess what he represents. He bears the white ash
 of the innumerable gods, stars, systems, races of men that the Great
-Yogi, Mahâ Kâla, has burnt up. <span id="fr_6"></span>[\*](#fn_6)
+Yogi, Mahâ Kâla, has burnt up. <span id="fr_6"></span>[\*](#fn_6.md)
 
 Man's religion may be called the "Non-ego as viewed by the Ego." It is
 the relation that the thinking individual believes himself to hold with
@@ -288,7 +288,7 @@ had two schools, two Bibles. One, that of Patanjali, is called Seshwara
 Sankhya, the Sûtras or maxims of S’iva, the Great Serpent Sesh. The
 other that of Kapila, is called the Nirîswara Sankhya, and it denies the
 existence of God altogether. These tractates are immensely old.
-Professor Manilal Mabhubhai <span id="fr_7"></span>[\*](#fn_7) Dvivedi
+Professor Manilal Mabhubhai <span id="fr_7"></span>[\*](#fn_7.md) Dvivedi
 says that in the Yoga Patanjali talks as if he were only an editor, and
 Colebrooke believes Kapila to be a mythological personage.
 
@@ -316,7 +316,7 @@ expressly affirms that the truth of such an Îs’wara
 
 is demonstrated, the creator of worlds in such sense of creation: for
 "the existence of effects," he says, "is dependent on consciousness, not
-upon Iswara." <span id="fr_8"></span>[\*](#fn_8)
+upon Iswara." <span id="fr_8"></span>[\*](#fn_8.md)
 
 As I shall have to show that the second or Atheistic Sankhya had so much
 to do with the great change of Buddhism, I will add another detail,
@@ -324,12 +324,12 @@ taking advantage of an able essay by Ludwig Büchner.
 
 "A consistent pessimism is the main feature of the system." "Happiness
 is a mere illusion, and all conscious life, pain and suffering." <span
-id="fr_9"></span>[†](#fn_9)
+id="fr_9"></span>[†](#fn_9.md)
 
 Suffering man is involved in a vortex of rebirths. It is only after
 tasting old age and death and other infirmities time after time for
 thousands of years, that the saint can gain repose in complete
-annihilation. <span id="fr_10"></span>[‡](#fn_10)
+annihilation. <span id="fr_10"></span>[‡](#fn_10.md)
 
 S’iva is the God of Destruction as well as life. Periodically he
 destroys the entire Kosmos—gods, men, and whirling stars. The white
@@ -463,7 +463,7 @@ rises at Gaya, under the auspices of the active and benevolent Thomas
 Law, Esquire, Collector of Rotas, every new built house agreeably to an
 immemorial usage of the Hindus has the name of Gaṇes’a superscribed on
 its door; and in the old town his image is placed over the gates of the
-temples." <span id="fr_11"></span>[\*](#fn_11)
+temples." <span id="fr_11"></span>[\*](#fn_11.md)
 
 I pause here to notice an important point. Colebrooke, Sir William
 Jones, Horace Hayman Wilson, and the old giants, all held that the
@@ -471,7 +471,7 @@ mythologies of Greece and Rome were derived from India, but since
 Oriental studies have become professorial, some authorities subscribe to
 the wild theory of Max Müller, that when the Âryans passed from Bactria
 across the Hindu Kush, "the great mountains closed for centuries their
-Cyclopeian gates," <span id="fr_12"></span>[†](#fn_12) and India became
+Cyclopeian gates," <span id="fr_12"></span>[†](#fn_12.md) and India became
 a sort of undiscovered America until the arrival in India of Alexander
 the Great.
 
@@ -489,7 +489,7 @@ yet we find in Italy a wide knowledge of the best Indian religious ideas
 and customs. This knowledge could not have been obtained before the
 Âryan separation, for Gaṇes’a is a non-Aryan and non-Vedic god. It was
 not obtained subsequent to Alexander's expedition, for
-[Gaṇes’a](errata.htm#2) stretches away to the earliest and haziest
+[Gaṇes’a](errata.htm#2.md) stretches away to the earliest and haziest
 traditions of Italy, to the time when Kronos his father battled with
 Zeus.
 
@@ -662,7 +662,7 @@ O dancer in the wondrous halls of gold!
 
    In Perunturrai's shrine  
 The saints assemble round the Lord divine,  
-Nilkanta, <span id="fr_13"></span>[\*](#fn_13) when the mountain whirled
+Nilkanta, <span id="fr_13"></span>[\*](#fn_13.md) when the mountain whirled
 around  
 To mark the land and fix the ocean's bound  
 He drank, to save us, all the poisoned brine.
@@ -683,7 +683,7 @@ O dancer in the wondrous halls of gold!
 
 <span id="img_pl03"></span> <span align="CENTER"> [![PLATE 3. SIVA
 DANCING.](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 PLATE 3. S’IVA DANCING.  
 </span>
 
@@ -691,42 +691,42 @@ PLATE 3. S’IVA DANCING.
 
 ### Footnotes
 
-<span id="fn_1"></span>[10:\*](ipc04.htm#fr_1) Rig Veda (Sect. II. Hymn
+<span id="fn_1"></span>[10:\*](ipc04.htm#fr_1.md) Rig Veda (Sect. II. Hymn
 IX. v. 3.)
 
-<span id="fn_2"></span>[10:†](ipc04.htm#fr_2) Muir's "Sanskrit Texts,"
+<span id="fn_2"></span>[10:†](ipc04.htm#fr_2.md) Muir's "Sanskrit Texts,"
 IV., pp. 345, 346.
 
-<span id="fn_3"></span>[11:\*](ipc04.htm#fr_3) Lect. II. Hymn XIII., v.
+<span id="fn_3"></span>[11:\*](ipc04.htm#fr_3.md) Lect. II. Hymn XIII., v.
 2.
 
-<span id="fn_4"></span>[12:\*](ipc04.htm#fr_4) Vol. VIII.
+<span id="fn_4"></span>[12:\*](ipc04.htm#fr_4.md) Vol. VIII.
 
-<span id="fn_5"></span>[13:\*](ipc04.htm#fr_5) "Asiatic Researches,"
+<span id="fn_5"></span>[13:\*](ipc04.htm#fr_5.md) "Asiatic Researches,"
 Vol. VIII.
 
-<span id="fn_6"></span>[15:\*](ipc04.htm#fr_6) "Catechism of the Shaiva
+<span id="fn_6"></span>[15:\*](ipc04.htm#fr_6.md) "Catechism of the Shaiva
 Religion," by Sabhapati Mudalyar, p. 73.
 
-<span id="fn_7"></span>[16:\*](ipc04.htm#fr_7) "Translation of Yoga
+<span id="fn_7"></span>[16:\*](ipc04.htm#fr_7.md) "Translation of Yoga
 Sutras," p. 1.
 
-<span id="fn_8"></span>[17:\*](ipc04.htm#fr_8) Colebrooke's "Essays,"
+<span id="fn_8"></span>[17:\*](ipc04.htm#fr_8.md) Colebrooke's "Essays,"
 Vol. I., p. 251.
 
-<span id="fn_9"></span>[17:†](ipc04.htm#fr_9) Büchner, "Last Words on
+<span id="fn_9"></span>[17:†](ipc04.htm#fr_9.md) Büchner, "Last Words on
 Materialism," p. 119.
 
-<span id="fn_10"></span>[17:‡](ipc04.htm#fr_10) *Ibid*.
+<span id="fn_10"></span>[17:‡](ipc04.htm#fr_10.md) *Ibid*.
 
-<span id="fn_11"></span>[21:\*](ipc04.htm#fr_11) Sir William Jones
+<span id="fn_11"></span>[21:\*](ipc04.htm#fr_11.md) Sir William Jones
 "Works," Vol. III., p. 329.
 
-<span id="fn_12"></span>[21:†](ipc04.htm#fr_12) Max Müller "Chips from a
+<span id="fn_12"></span>[21:†](ipc04.htm#fr_12.md) Max Müller "Chips from a
 German Workshop," Vol. I., pp. 8-12.
 
-<span id="fn_13"></span>[26:\*](ipc04.htm#fr_13) Blue Throat!
+<span id="fn_13"></span>[26:\*](ipc04.htm#fr_13.md) Blue Throat!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Baal](ipc05)
+[Next: Chapter II. Baal](ipc05.md)

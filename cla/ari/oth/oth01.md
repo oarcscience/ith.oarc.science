@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth00)  [Next](oth02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth00)  [Next](oth02.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ word, have being, not in some respect only, but in every respect.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](oth02)
+[Next: Chapter 2](oth02.md)

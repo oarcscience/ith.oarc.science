@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre13)  [Next](gre15) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre13)  [Next](gre15.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ abode in peace for certain winters.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](gre15)
+[Next: Chapter X](gre15.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb04)  [Next](ptb06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb04)  [Next](ptb06.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ all men. Fire and air, the first of the sublunary elements, are
 encompassed and altered by the motions of the æther. These elements in
 their turn encompass all inferior matter, and vary it as they themselves
 are varied; acting on earth and water, on plants and animals. <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 <span id="page_3">p. 3</span>
 
@@ -34,7 +34,7 @@ settings; and plants and animals are expanded or collapsed, if not
 entirely at least partially, as she waxes or wanes.
 
 The stars likewise (as well the fixed stars as the planets), in
-performing their revolutions, <span id="fr_31"></span>[1](#fn_31)
+performing their revolutions, <span id="fr_31"></span>[1](#fn_31.md)
 produce many impressions on the Ambient. They cause heats, winds, and
 storms, to the influence of which earthly things are conformably
 subjected.
@@ -172,7 +172,7 @@ them. For an entire return of all the heavenly bodies to the
 exact situation in which they have once stood with regard to the earth
 will never take place, or at least not in any period determinable by
 human calculation, whatever vain attempts may be made to acquire such
-unattainable knowledge. <span id="fr_32"></span>[1](#fn_32) The examples
+unattainable knowledge. <span id="fr_32"></span>[1](#fn_32.md) The examples
 referred to for guidance being therefore not exactly similar to the
 existing cases to which they are now applied, it must naturally follow
 that predictions are sometimes not borne out by the events. Hence arises
@@ -199,7 +199,7 @@ spirit of another: and in addition to this it must be considered that
 different modes of nurture, and the variety of ranks, manners, and
 customs, contribute to render the course of life of one individual
 greatly different from that of another <span
-id="fr_33"></span>[2](#fn_33); consequently,
+id="fr_33"></span>[2](#fn_33.md); consequently,
 
 <span id="page_7">p. 7</span>
 
@@ -242,7 +242,7 @@ elsewhere.
 
 ### Footnotes
 
-<span id="fn_30"></span>[2:1](ptb05.htm#fr_30) The following extract
+<span id="fn_30"></span>[2:1](ptb05.htm#fr_30.md) The following extract
 from an old geographical work, framed on the rules of Ptolemy, explains
 the system on which this action of the æther is made to depend:--
 
@@ -280,12 +280,12 @@ which GOD inhabits with the elect."--Cosmographia of Peter Apianus
 (named Benewitz), dedicated to the Archbishop of Saltzburg, edited by
 Gemma Frisius, and printed at Antwerp 1574.
 
-<span id="fn_31"></span>[3:1](ptb05.htm#fr_31) It will be recollected
+<span id="fn_31"></span>[3:1](ptb05.htm#fr_31.md) It will be recollected
 that the Ptolemaic astronomy attributes motion and a regular course to
 those stars which we now call fixed, but which the Greeks merely termed
 απλανεις, *undeviating*.
 
-<span id="fn_32"></span>[6:1](ptb05.htm#fr_32) There seems reason to
+<span id="fn_32"></span>[6:1](ptb05.htm#fr_32.md) There seems reason to
 suppose that this was a favourite speculation among the ancients. In
 Scipio's Dream, as related by Cicero, the phantom of his illustrious
 grandfather is made to speak of this entire return of all the celestial
@@ -296,7 +296,7 @@ that great year has been yet accomplished."
 
 This quotation is from memory, and perhaps may not be verbally correct.
 
-<span id="fn_33"></span>[6:2](ptb05.htm#fr_33) In this passage the
+<span id="fn_33"></span>[6:2](ptb05.htm#fr_33.md) In this passage the
 author seems to have anticipated, and exposed the absurdity of an
 argument now considered very forcible against astrology: viz. that "if
 the art were true, then any two individuals born under the same
@@ -326,4 +326,4 @@ These coincidences are, at least, highly remarkable.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. That Prescience is Useful](ptb06)
+[Next: Chapter III. That Prescience is Useful](ptb06.md)

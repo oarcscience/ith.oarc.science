@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop27)  [Next](pop29) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop27)  [Next](pop29.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ rejoice, for thou shalt become one.'
 
 ------------------------------------------------------------------------
 
-[Next: The Twenty-Fourth Figure](pop29)
+[Next: The Twenty-Fourth Figure](pop29.md)

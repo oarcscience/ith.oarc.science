@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico072) 
-[Next](nico074) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico072.md) 
+[Next](nico074.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ will do ten thousand times as much evil as a brute.
 ------------------------------------------------------------------------
 
 [Next: Chapter 7. Softness and endurance: two forms of
-incontinence--weakness and impetuosity](nico074)
+incontinence--weakness and impetuosity](nico074.md)

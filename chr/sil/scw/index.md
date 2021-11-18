@@ -1,6 +1,6 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -14,24 +14,24 @@ Silesius](../index)</span>
 
 ------------------------------------------------------------------------
 
-[Title Page](scw000)  
-[CONTENTS](scw001)  
-[PREFACE](scw002)  
+[Title Page](scw000.md)  
+[CONTENTS](scw001.md)  
+[PREFACE](scw002.md)  
 INTRODUCTION:  
- [I ANGELUS SILESIUS](scw003)  
- [II *THE CHERUBINIC WANDERER*](scw004)  
+ [I ANGELUS SILESIUS](scw003.md)  
+ [II *THE CHERUBINIC WANDERER*](scw004.md)  
 SELECTIONS FROM *THE CHERUBINIC WANDERER*:  
- [I GODHEAD](scw01)  
- [II GOD](scw02)  
- [III THE STILL WILDERNESS](scw03)  
- [IV ONENESS WITH THE DIVINE](scw04)  
- [V INWARDNESS](scw05)  
- [VI SELF-ABANDONMENT](scw06)  
- [VII SONSHIP](scw07)  
- [VIII TIME AND ETERNITY](scw08)  
- [IX ACCIDENT AND ESSENCE](scw09)  
- [X LOVE](scw10)  
- [XI NATURE](scw11)  
- [XII POVERTY AND RICHES](scw12)  
- [XIII MAN AND THE WORLD](scw13)  
- [XIV THOUGHT AND DEED](scw14)  
+ [I GODHEAD](scw01.md)  
+ [II GOD](scw02.md)  
+ [III THE STILL WILDERNESS](scw03.md)  
+ [IV ONENESS WITH THE DIVINE](scw04.md)  
+ [V INWARDNESS](scw05.md)  
+ [VI SELF-ABANDONMENT](scw06.md)  
+ [VII SONSHIP](scw07.md)  
+ [VIII TIME AND ETERNITY](scw08.md)  
+ [IX ACCIDENT AND ESSENCE](scw09.md)  
+ [X LOVE](scw10.md)  
+ [XI NATURE](scw11.md)  
+ [XII POVERTY AND RICHES](scw12.md)  
+ [XIII MAN AND THE WORLD](scw13.md)  
+ [XIV THOUGHT AND DEED](scw14.md)  

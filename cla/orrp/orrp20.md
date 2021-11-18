@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp19)  [Next](orrp21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp19)  [Next](orrp21.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Boll, *Die Erforschung der* 
 
 *antiken Astrologie* (*Neue Jahrb. für das klass. Altert.*, XI), 1908,
 pp. 104 ff.--For the bibliography of magic, cf. infra, notes,
- [7\_58](orrp20.htm#xref_7_58) ff.
+ [7\_58](orrp20.htm#xref_7_58.md) ff.
 
 <span id="xref_7_1">7\_1</span>. Stephan. Byzant. (*Cat. codd. astr.*,
 II, p. 235), I, 12: Ἐξοχωτάτη καὶ πάσης ἐπιστήμης δέοποινα. Theophil.
@@ -38,7 +38,7 @@ Valens, VI, proem. (*ibid.*, V, 2, p. 34, 7 = p. 241, 19, Kroll ed.):
 1905, p. 644.
 
 <span id="xref_7_3">7\_3</span>. Cf. *supra*, [p.
-146](orrp10.htm#page_146), [p. 123](orrp09.htm#page_123).
+146](orrp10.htm#page_146), [p. 123](orrp09.htm#page_123.md).
 
 <span id="xref_7_4">7\_4</span>. Kroll, *Aus der Gesch. der Astrol.*
 (*Neue Jahrb. für das klass. Altertum*, VII), 1901, pp. 598 ff. Cf.
@@ -173,10 +173,10 @@ der Astrologie*, p. 110, n. 3.
 <span id="xref_7_31">7\_31</span>. *Cat.*, V, 1, pp. 210 ff.
 
 <span id="xref_7_32">7\_32</span>. Cf. *supra*, ch. V. pp.
-[128](orrp09.htm#page_128) ff.
+[128](orrp09.htm#page_128.md) ff.
 
 <span id="xref_7_33">7\_33</span>. Cf. *supra*, ch. V, n.
- [5\_87](orrp18.htm#xref_5_87).
+ [5\_87](orrp18.htm#xref_5_87.md).
 
 <span id="xref_7_34">7\_34</span>. On worship of the sky, of the signs
 of the zodiac, and of the elements, cf. *Mon. myst. Mithra*, I, pp. 85
@@ -206,7 +206,7 @@ Arnim, *loc. cit.*, II, fr. 665; cf. Zeller, *Ph. Gr.*, IV, p. 316, p.
 epist. Galat.*, IV, 10 (Migne, col. 381 B). Egypt had worshiped the
 hours, the months, and the propitious and adverse years as gods long
 before the Occident; see Wiedemann, *loc. cit.* (*infra*, n.
- [7\_64](orrp20.htm#xref_7_64)) pp. 7 ff.
+ [7\_64](orrp20.htm#xref_7_64).md) pp. 7 ff.
 
 <span id="xref_7_37">7\_37</span>. They adorn many astronomical
 manuscripts, particularly the *Vaticanus gr.* 1291, the archetype of
@@ -220,7 +220,7 @@ Kunst*, 1851, II, pp. 313 f. Cf. *Mon. myst. Mithra*, I, p. 220.
 the *Mélanges Paul Fredericq*, Brussels, 1904, pp. 9 ff.
 
 <span id="xref_7_40">7\_40</span>. Cf. *supra*, pp.
-[126](orrp09.htm#page_126), [158](orrp10.htm#page_158) f.
+[126](orrp09.htm#page_126), [158](orrp10.htm#page_158.md) f.
 
 <span id="xref_7_41">7\_41</span>. When Goethe had made the ascent of
 the Brocken, in 1784, during splendid weather, he expressed his
@@ -257,7 +257,7 @@ empereurs* (*Rev. hist. litt. relig.*, I), 1898, pp. 445 ff.
 
 <span id="xref_7_46">7\_46</span>. Reitzenstein, to whom belongs the
 credit of having shown the strength of this astrological fatalism (see
-*infra*, n.  [7\_57](orrp20.htm#xref_7_57)), believes that it developed
+*infra*, n.  [7\_57](orrp20.htm#xref_7_57).md), believes that it developed
 in Egypt, but surely he is wrong. In this connection see the
 observations of Bousset, *Götting. gel. Anzeigen*, 1905, p. 704.
 
@@ -381,8 +381,8 @@ deserves mention.--Cf. Ch. Michel
 <span id="page_278">p. 278</span>
 
 in the *Revue d'hist. et litt. rel.*, VII, 1902, p. 184. See also
-*infra*, nn.  [7\_64](orrp20.htm#xref_7_64),
- [7\_65](orrp20.htm#xref_7_65),  [7\_72](orrp20.htm#xref_7_72).
+*infra*, nn.  [7\_64](orrp20.htm#xref_7_64.md),
+ [7\_65](orrp20.htm#xref_7_65),  [7\_72](orrp20.htm#xref_7_72.md).
 
 <span id="xref_7_59">7\_59</span>. The question of the principles of
 magic has recently been the subject of discussions started by the
@@ -462,7 +462,7 @@ different origin had combined with the native sorcery, which seems to
 have laid special stress upon the importance of the "barbarian names,"
 because to the Egyptians the name had a reality quite independent of the
 object denoted by it, and possessed an effective force of its own
-(*supra*, pp. [93](orrp08.htm#page_93), [95](orrp08.htm#page_95)). But
+(*supra*, pp. [93](orrp08.htm#page_93), [95](orrp08.htm#page_95).md). But
 that is, after all, only an incidental theory, and it is significant
 that in speaking of the origin of magic, Pliny (XXX, 7) names the
 Persians in the first place, and does not even mention the Egyptians.
@@ -491,20 +491,20 @@ back to that source (Pliny, XXV, 2, 7). Cf. Horace, *Epod.*, V, 21;
 Virgil, *Buc.* VIII, 95, etc.
 
 <span id="xref_7_74">7\_74</span>. Cf. *supra*, pp.
-[151](orrp10.htm#page_151) ff.
+[151](orrp10.htm#page_151.md) ff.
 
 <span id="xref_7_75">7\_75</span>. Minucius Felix, *Octavius*, 26; cf.
-*supra*, ch. VI, [p. 152](orrp10.htm#page_152).
+*supra*, ch. VI, [p. 152](orrp10.htm#page_152.md).
 
 <span id="xref_7_76">7\_76</span>. In a passage outlining the Persian
-demonology (see *supra*, n.  [7\_39](orrp20.htm#xref_7_39)), Porphyry
+demonology (see *supra*, n.  [7\_39](orrp20.htm#xref_7_39).md), Porphyry
 tells us (*De Abst.*, II, 41):
 
 Τούτους (sc. τοὺς δάιμονας) μάλιοστα καὶ τὸν προεστῶτα αὐτῶν (c. 42, ἡ
 προεστῶσα αὐτῶν δύναμις =Ahriman) ἐκτιμῶσιν οἱ τὰ κακὰ διὰ τῶν γοητειῶν
 πραττόμενοι κ. τ. λ. Cf. Lactantius, *Divin. Inst.*, II, 14 (I, p. 164,
 10, Brandt ed.); Clem. of Alexandria, *Stromat.*, III, p. 46 C, and
-*supra*, n.  [7\_37](orrp20.htm#xref_7_37). The idea that the demons
+*supra*, n.  [7\_37](orrp20.htm#xref_7_37.md). The idea that the demons
 subsisted on the offerings and particularly on the smoke of the
 sacrifices agrees entirely with the old Persian and Babylonian ideas.
 See Yasht V, XXI, 94: What "becomes of the libations which the wicked
@@ -542,4 +542,4 @@ Wünsch, *Sethianische Verfluchungstafeln aus Rom*, Leipsic, 1898
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Transformation of Paganism](orrp21)
+[Next: VIII. The Transformation of Paganism](orrp21.md)

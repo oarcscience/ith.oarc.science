@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](taa05)  [Next](taa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](taa05)  [Next](taa07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -107,7 +107,7 @@ what time is mention made of rain in the daily prayer? R. Eliezer said:
 morning-prayer is said). R. Jehoshua, however, said: "From the time when
 the palm-branch is laid aside" (*i.e.*, from the time of the Additional
 Prayer, when the palm-branch is not used). Said R. Eliezer: "Because the
-four articles <span id="fr_2"></span>[1](#fn_2) of the Feast of
+four articles <span id="fr_2"></span>[1](#fn_2.md) of the Feast of
 Tabernacles are used only for the purpose of favorably inclining the
 judgment concerning rain; and as those four articles cannot grow without
 water, neither can the world exist without water, therefore mention of
@@ -182,7 +182,7 @@ the ground, as it is written \[Job, xxxvi. 6\]: "For
 
 to the snow he saith, 'Be thou on the earth'; likewise to the pouring
 rain, and to the pouring rains of his strength." <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 Rabha said again: "Snow is good for the mountains; a light rain is good
 for the trees; a heavy rain is good for the budding fruit, and a shower
@@ -223,7 +223,7 @@ no physician there?"
 <span id="page_6">p. 6</span>
 
 (meaning was there not Pin'has the high-priest in Gilead, who could have
-released Jephthah of his vow?). <span id="fr_4"></span>[1](#fn_4) And
+released Jephthah of his vow?). <span id="fr_4"></span>[1](#fn_4.md) And
 further, it is written \[ibid. xix. 5\]: "Which I had not commanded, nor
 spoken, and which had not come into my mind," which implies, "I had not
 commanded" refers to the sacrificing of the son of Mesha the King of
@@ -376,7 +376,7 @@ their punishment shall they vanish.'"
 R. Na'hman asked R. Itz'hak again: "What does the passage \[Jeremiah,
 ii. 13\], 'For two evils have my people committed,' mean? Are there only
 two, and the twenty-four which are subsequently enumerated <span
-id="fr_5"></span>[1](#fn_5) (in the same chapter) were forgiven them?"
+id="fr_5"></span>[1](#fn_5) (in the same chapter.md) were forgiven them?"
 And R. Itz'hak answered: Thus said R. Johanan: One evil which is
 considered as two--namely, idolatry--as it is written further \[ibid.\]:
 "Me have they forsaken, the source of living waters, to hew out for
@@ -408,7 +408,7 @@ behold, I will save thee from afar, and thy seed from the land of their
 captivity; and Jacob shall return, and shall be at rest, and be secure,
 with none to terrify him.' And Jacob is compared to his children; as the
 latter are still living so is he also." <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 When R. Na'hman and R. Itz'hak were about to part, the former said to R.
 Itz'hak: "Bless me." And he answered: "I shall tell thee a parable to
@@ -428,7 +428,7 @@ lackest not; hence all I can wish thee is that thy seed be as prosperous
 as thou art."
 
 The rabbis taught: Why is the first rain called Yorah? <span
-id="fr_7"></span>[2](#fn_7) Because it teaches the people to paint their
+id="fr_7"></span>[2](#fn_7.md) Because it teaches the people to paint their
 roofs, take in the fruit, and otherwise prepare for the winter; and also
 because it satiates the earth and penetrates into the very depths, as it
 is written \[Psalms, lxv. 11\]: "Watering her furrows abundantly;
@@ -506,7 +506,7 @@ ordinarily in one city and not at all in another (one city can draw its
 supply from the other). Said R. Ashi: "This very thing may be inferred
 from the passage itself; for it says 'one piece of land was rained
 *upon*,' and that implies that in that piece of land there will be too
-much rain." <span id="fr_8"></span>[1](#fn_8)
+much rain." <span id="fr_8"></span>[1](#fn_8.md)
 
 R. Abbahu said: "The day of rain is of more importance than the day of
 resurrection; for on the latter day only the righteous will arise from
@@ -536,7 +536,7 @@ distil as the dew." In the first he says "rain," and in the other "dew."
 (It is said above that dew is always good, but with rain the case is
 different?) From this it is to be signified that if the scholar is a
 conscientious man, consider him as dew, which is always useful; but if
-he is not, turn your neck to him <span id="fr_9"></span>[1](#fn_9) as we
+he is not, turn your neck to him <span id="fr_9"></span>[1](#fn_9.md) as we
 do to rain.
 
 We have learned: R. Banaha said: "He who studies the Law for the honor
@@ -731,7 +731,7 @@ iron because his teacher does not thoughtfully explain the teachings to
 him, the remedy for him is, to request his friends to intercede for him
 with the teacher in order that the explanations may be more lucid and
 especially if the disciple's behavior is proper towards the teacher and
-others." <span id="fr_10"></span>[1](#fn_10)
+others." <span id="fr_10"></span>[1](#fn_10.md)
 
 R. Ami said again: It is written \[Eccles. x. 11\]: "If the serpent do
 bite because no one uttered a charm, then hath the man that can use his
@@ -780,7 +780,7 @@ out of the earth and righteousness will look down from heaven.'" And he
 said again: "Come and see how great are the men who have faith, and I
 know this from the story of the cat and the well; for if a man have
 faith in a cat and a well so much the firmer should his faith be in
-God." <span id="fr_11"></span>[1](#fn_11)
+God." <span id="fr_11"></span>[1](#fn_11.md)
 
 <span id="page_19">p. 19</span>
 
@@ -812,13 +812,13 @@ to a woman lying-in, who has all the pain of travail but cannot bear the
 child; and this is what Resh Lakish said in the name of Bar Qappara: The
 expression "shut up" is said about rain, as quoted above, and the same
 expression is used of a woman \[Gen. xx. 17\]: "For the Lord had fast
-closed up <span id="fr_12"></span>[1](#fn_12) every womb." It is said
+closed up <span id="fr_12"></span>[1](#fn_12.md) every womb." It is said
 "birth" of a woman \[ibid. xxx. 23\]: "And she conceived, and bore a
 son"; and the same expression is used for rain \[Isaiah, Iv. 10\]: "And
-render it fruitful," <span id="fr_13"></span>[2](#fn_13) etc. It is said
+render it fruitful," <span id="fr_13"></span>[2](#fn_13.md) etc. It is said
 "visiting" of a woman \[Gen. xxi. 1\]: "And the Lord visited Sarah"; and
 the same expression is used for rain \[Psalms, lxv. 10\]: "Thou hast
-visited <span id="fr_14"></span>[3](#fn_14) the earth and waterest her
+visited <span id="fr_14"></span>[3](#fn_14.md) the earth and waterest her
 abundantly; thou greatly enrichest her; the brook of God is full of
 water."
 
@@ -857,7 +857,7 @@ considered as a sign of blessing." Again, R. Itz'hak said: "The day of
 rain is such a blessed day, that even the coin in one's pocket is
 blessed; for it is written \[Deut. xxviii. 12\]: 'To give the rain of
 thy land in its season, and to bless all the work of thy hand.'" <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 R. Johanan said: "Rain is not withholden only on account of such men as
 promise publicly to give charity and then do not carry out their
@@ -866,7 +866,7 @@ without rain, so is a man that vaunteth falsely of a gift.'"
 
 R. Johanan said again: "The passage 'thou shalt truly tithe' signifies
 that a man should give tithes in order that he may himself become
-rich. <span id="fr_16"></span>[2](#fn_16) R. Johanan met a child of Resh
+rich. <span id="fr_16"></span>[2](#fn_16.md) R. Johanan met a child of Resh
 Lakish (after the latter's demise) and he asked him: "How far along art
 thou in thy studies?" And the child answered: "I am at the passage
 \[Deut. xiv. 22\]: 'Thou shalt truly tithe,'" and then asked, "What does
@@ -922,7 +922,7 @@ Still, the well was again given to the children of Israel through the
 prayers of Moses and Aaron.
 
 When Aaron died, the pillar of cloud left. <span
-id="fr_17"></span>[1](#fn_17) Still, both the well and the pillar of
+id="fr_17"></span>[1](#fn_17.md) Still, both the well and the pillar of
 cloud were returned for the sake of Moses; but when Moses died,
 everything vanished, as it is written \[Zechariah, xi. 8\]: "And I
 removed the three shepherds in one month." Did then Moses, Aaron, and
@@ -997,7 +997,7 @@ water left over from a quantity necessary to water a Kur of land, a
 Tharqabh (one-sixtieth of a Kur) of land can be watered.
 
 The rabbis taught: Egypt measures four hundred square Parsah, and that
-is only one-sixtieth of Mesopotamia; [Mesopotamia](errata.htm#15) is a
+is only one-sixtieth of Mesopotamia; [Mesopotamia](errata.htm#15.md) is a
 sixtieth of the whole earth; the earth is one-sixtieth of the garden of
 Eden; the garden is one-sixtieth of Eden, and Eden is in turn only
 one-sixtieth of Gehenna. Thus it follows that the whole world is but a
@@ -1010,7 +1010,7 @@ the reason, why Babylon is great in treasures is because it dwelleth
 upon many waters." Rabh said: "Rich indeed is Babylon, that reapeth her
 grain without rain." Abayi said: "I know of a tradition which tells me
 that swampy ground is better than dry." <span
-id="fr_18"></span>[1](#fn_18)
+id="fr_18"></span>[1](#fn_18.md)
 
 MISHNA: On the third of Mar-Cheshvan prayers for rain should be said;
 but according to Rabban Gamaliel, on the seventh of the same
@@ -1502,47 +1502,47 @@ for the upright in heart.'"
 
 ### Footnotes
 
-<span id="fn_2"></span>[3:1](taa06.htm#fr_2) See Leviticus, xxiii. 40.
+<span id="fn_2"></span>[3:1](taa06.htm#fr_2.md) See Leviticus, xxiii. 40.
 
-<span id="fn_3"></span>[5:1](taa06.htm#fr_3) This is signified because
+<span id="fn_3"></span>[5:1](taa06.htm#fr_3.md) This is signified because
 in the Hebrew rain is mentioned five times in this passage--including
 snow.
 
-<span id="fn_4"></span>[6:1](taa06.htm#fr_4) Elsewhere the Talmud
+<span id="fn_4"></span>[6:1](taa06.htm#fr_4.md) Elsewhere the Talmud
 rebukes both Jephthah and Pin'has; Jephthah would not go to Pin'has
 because he, being a prince, considered himself the superior of Pin'has,
 while Pin'has, being high-priest, thought it below his dignity to go to
 Jephthah, and on account of this pride a human life was sacrificed.
 
-<span id="fn_5"></span>[9:1](taa06.htm#fr_5) According to the commentary
+<span id="fn_5"></span>[9:1](taa06.htm#fr_5.md) According to the commentary
 of Rabbenu Hananel there are altogether twenty-six evils, committed by
 the Israelites, enumerated in Jeremiah ii.
 
-<span id="fn_6"></span>[10:1](taa06.htm#fr_6) The commentary of Tosphath
+<span id="fn_6"></span>[10:1](taa06.htm#fr_6.md) The commentary of Tosphath
 says that it is a noteworthy fact that while the Scriptures state that
 Abraham and Isaac died, they say that Jacob "departed this life" \[Gen.
 xlix. 33\].
 
-<span id="fn_7"></span>[10:2](taa06.htm#fr_7) In addition to Yorah,
+<span id="fn_7"></span>[10:2](taa06.htm#fr_7.md) In addition to Yorah,
 meaning the first rain, it also means to show or to teach.
 
-<span id="fn_8"></span>[12:1](taa06.htm#fr_8) The benediction on rain is
+<span id="fn_8"></span>[12:1](taa06.htm#fr_8.md) The benediction on rain is
 transferred from here to Tract Berachoth, as the proper place.
 
-<span id="fn_9"></span>[13:1](taa06.htm#fr_9) The Hebrew term for this
+<span id="fn_9"></span>[13:1](taa06.htm#fr_9.md) The Hebrew term for this
 is *arpehu*, the term in the beginning of the passage quoted is
 *yaaroph*, the term for "neck" in Hebrew is *aroph*; hence the
 explanation according to Samuel Eidlis, which is more proper here than
 Rashi's.
 
-<span id="fn_10"></span>[17:1](taa06.htm#fr_10) The above teachings of
+<span id="fn_10"></span>[17:1](taa06.htm#fr_10.md) The above teachings of
 R. Ami, Resh Lakish, and Rabha are all based upon the one
 passage--Ecclesiastes, x. 10; but the interpretations of several of the
 words contained therein are so diversified that we have deemed it
 advisable merely to reader their teachings alone, without reference to
 the literal text of the verse.
 
-<span id="fn_11"></span>[18:1](taa06.htm#fr_11) The legend of the cat
+<span id="fn_11"></span>[18:1](taa06.htm#fr_11.md) The legend of the cat
 and the well is not to be found in the Talmud proper, but the Aruch and
 Rashi relate it as follows: A youth of a patrician family while
 strolling through a forest chanced to meet a beautiful maiden with whom
@@ -1589,29 +1589,29 @@ mentioned first in the above passage from the fact that a King Josiah)
 believed in her, while a commoner (Barak) was the man who placed his
 faith in the prophetess Deborah.
 
-<span id="fn_12"></span>[20:1](taa06.htm#fr_12) The Hebrew term for both
+<span id="fn_12"></span>[20:1](taa06.htm#fr_12.md) The Hebrew term for both
 is *Otzar*.
 
-<span id="fn_13"></span>[20:2](taa06.htm#fr_13) The Hebrew term for both
+<span id="fn_13"></span>[20:2](taa06.htm#fr_13.md) The Hebrew term for both
 is *Holid*.
 
-<span id="fn_14"></span>[20:3](taa06.htm#fr_14) Leeser translates in the
+<span id="fn_14"></span>[20:3](taa06.htm#fr_14.md) Leeser translates in the
 first *visited*, and in the second *thought of*. The Hebrew term,
 however, for both is *Pokad*.
 
-<span id="fn_15"></span>[21:1](taa06.htm#fr_15) The other sayings of the
+<span id="fn_15"></span>[21:1](taa06.htm#fr_15.md) The other sayings of the
 same authority are transferred to tract Baba Metziya as the proper
 place, and some of them are repeated there.
 
-<span id="fn_16"></span>[21:2](taa06.htm#fr_16) *Vide* Tract Sabbath, p.
+<span id="fn_16"></span>[21:2](taa06.htm#fr_16.md) *Vide* Tract Sabbath, p.
 252.
 
-<span id="fn_17"></span>[22:1](taa06.htm#fr_17) *Vide* Tract
+<span id="fn_17"></span>[22:1](taa06.htm#fr_17.md) *Vide* Tract
 Rosh-Hashana, p. 3.
 
-<span id="fn_18"></span>[24:1](taa06.htm#fr_18) This passage is in
+<span id="fn_18"></span>[24:1](taa06.htm#fr_18.md) This passage is in
 accordance with the explanation of the Aruch.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](taa07)
+[Next: Chapter II](taa07.md)

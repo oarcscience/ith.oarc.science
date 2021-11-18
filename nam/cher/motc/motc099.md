@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc098) 
-[Next](motc100) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc098.md) 
+[Next](motc100.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ were obliged to make final peace.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: 100. The Raid On Tïkwäli'tsï](motc100)
+[Next: 100. The Raid On Tïkwäli'tsï](motc100.md)

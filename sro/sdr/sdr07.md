@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr06)  [Next](sdr08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr06)  [Next](sdr08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -59,7 +59,7 @@ innumerable
 
 <span id="img_fig09"></span> <span align="CENTER"> [![Figure 9. Symbol
 of the Universal Flame of Life](tn/fig09.jpg)  
-Click to enlarge](img/fig09.jpg)  
+Click to enlarge](img/fig09.jpg.md)  
 Figure 9. Symbol of the Universal Flame of Life  
 </span>
 
@@ -151,7 +151,7 @@ are complementary expressions of the Unknowable Reality which underlies
 both."
 
 Flammarion has said: 'The universe is a dynamism. Life itself,
-[from](errata.htm#7) the most rudimentary cell up to the most
+[from](errata.htm#7.md) the most rudimentary cell up to the most
 complicated organism, is a special kind of movement, a movement
 determined and organized by a directing force. Visible matter, which
 stands for us at the present moment for the universe, and which certain
@@ -255,7 +255,7 @@ occasional holiday or longer vacation. Every observing machinist has
 observed certain idiosyncrasies in particular machines which need
 "humoring."
 
-The most conclusive [scientific](errata.htm#8) report upon this
+The most conclusive [scientific](errata.htm#8.md) report upon this
 interesting subject, so far as known to the present writer, is that
 which recites the celebrated series of experiments conducted upon
 so-called "non-living matter, several years ago, and which are recorded
@@ -320,7 +320,7 @@ just as does a portion of animal matter, or an organ of the body of an
 animal, or a piece of the living substance of a plant. When revived
 before it was too late, the response of the metal was gradual in the
 case of both muscle and metal. A most interesting fact is the statement
-of the [experimenter](errata.htm#9) that even the poisons which served
+of the [experimenter](errata.htm#9.md) that even the poisons which served
 to "kill" the metals showed a like susceptibility to the actions of
 other poisons, and were found to be, themselves, capable of being
 "killed" by poisons. In the case of these metal "killings," however, the
@@ -378,7 +378,7 @@ and umbrella-like top. These metallic mushrooms at first displayed a
 transparent appearance, but gradually developed color, and finally
 assumed a pale straw color on the stems, with a bright red color on the
 top of the umbrella and a faint rose tint on the under surface. But the
-most startling feature of the [phenomenon](errata.htm#10) was that the
+most startling feature of the [phenomenon](errata.htm#10.md) was that the
 metallic mushroom had fine veins or tiny tubes running along the
 interior of the steins, through which the nourishment, or additional
 material for growth, was transported—the mushroom **being fed from the
@@ -430,4 +430,4 @@ sphere."** 
 
 ------------------------------------------------------------------------
 
-[Next: Part VII. The Planes of Consciousness](sdr08)
+[Next: Part VII. The Planes of Consciousness](sdr08.md)

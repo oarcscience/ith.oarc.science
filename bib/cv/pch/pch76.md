@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch75) 
-[Next](pch77) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch75.md) 
+[Next](pch77.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -20,17 +20,17 @@ Heritage
 
 All this was recognised by the industrious Swiss historian of the
 American religions fifty years ago, <span
-id="fr_1798"></span>[4](#fn_1798) when the real unity of the human race
+id="fr_1798"></span>[4](#fn_1798.md) when the real unity of the human race
 was still obscure, in that it was affirmed on such fantastic bases as
 the myth of an originally created pair and the counter-hypothesis of
 creation "in nations"—either of monkeys or men; <span
-id="fr_1799"></span>[5](#fn_1799) and when congenital theories of a
+id="fr_1799"></span>[5](#fn_1799.md) and when congenital theories of a
 peopling of America by the "ten lost tribes"
 
 <span id="page_347">p. 347</span>
 
 were much in vogue. There need then be no serious dispute over the
-thesis <span id="fr_1800"></span>[1](#fn_1800) that "the origin of the
+thesis <span id="fr_1800"></span>[1](#fn_1800.md) that "the origin of the
 ancient American religions is to be sought for in the nature of their
 human spirit"—a different thing from saying that they are autochthonous.
 The true proposition is neither that, as Müller says, the American
@@ -66,9 +66,9 @@ comparatively modern. The Aztecs and the Peruvians, as regards their
 then situation, professed to date back only a few centuries from the
 Conquest; and in both Peru and Mexico there were and still are the
 architectural remains of civilisations, some of which were themselves so
-ancient <span id="fr_1801"></span>[2](#fn_1801) as to be unintelligible
+ancient <span id="fr_1801"></span>[2](#fn_1801.md) as to be unintelligible
 to the nations found by the Spaniards. Thus, near Lake Titicaca in
-Peru <span id="fr_1802"></span>[3](#fn_1802) there are wonderful}
+Peru <span id="fr_1802"></span>[3](#fn_1802.md) there are wonderful}
 
 <span id="page_348">p. 348</span>
 
@@ -79,13 +79,13 @@ belonged to a primitive civilisation far more ancient still. So, in
 Mexico, there are ancient ruins, such as those at Palanque, which
 suggest a civilisation higher, on the side of art and architecture, and
 at the same time much older, than that of the Aztecs. <span
-id="fr_1803"></span>[1](#fn_1803)
+id="fr_1803"></span>[1](#fn_1803.md)
 
 All we can say with any safety is that, as it was put by Buckle, the
 earlier civilisations grew up in those regions where there were combined
 the conditions of a regular, easy, and abundant food supply—namely, heat
 and moisture, without an overwhelming proportion of the latter, such as
-occurs in Brazil. <span id="fr_1804"></span>[2](#fn_1804) Now, from the
+occurs in Brazil. <span id="fr_1804"></span>[2](#fn_1804.md) Now, from the
 point of view of the needs of an early civilisation, the golden mean
 occurs, in South America, only in the territories which were covered by
 the empire of the Incas, and farther north, from the Isthmus of Panama
@@ -97,17 +97,17 @@ civilisation about the Isthmus and Central America, and then waves of
 migration and conquest northwards. And it may have been that the people
 called the Toltecs, who flourished in Mexico before the Aztecs, and were
 in several respects more highly civilised than they, <span
-id="fr_1805"></span>[3](#fn_1805) represented yet again a backflow of
+id="fr_1805"></span>[3](#fn_1805.md) represented yet again a backflow of
 one of these peoples from the north, according to the tradition. <span
-id="fr_1806"></span>[4](#fn_1806) Their alleged silent disappearance,
+id="fr_1806"></span>[4](#fn_1806.md) Their alleged silent disappearance,
 after four centuries of national life, is the standing puzzle of Mexican
-history. <span id="fr_1807"></span>[5](#fn_1807) All that we know is,
+history. <span id="fr_1807"></span>[5](#fn_1807.md) All that we know is,
 that Mexico remained the seat of the most flourishing empires, mainly
 because it could best yield an abundant and regular supply of vegetable
 food, as maize; and that when Cortès invaded it, the civilisation of the
 Aztecs, who constituted the most powerful of the several Mexican States
 then existing, was among the most remarkable. <span
-id="fr_1808"></span>[6](#fn_1808)
+id="fr_1808"></span>[6](#fn_1808.md)
 
 And herein lies the instructiveness of these civilisations, with
 
@@ -133,7 +133,7 @@ the fanaticism which would have destroyed them all if it could, we stand
 clear of the prejudices alike of Jew and Christian; we are in a measure
 spared the old contrast between pretended monotheism and polytheism, the
 eternal suggestion of the possible diffusion of revealed truth, <span
-id="fr_1809"></span>[1](#fn_1809) the perpetual comparison between
+id="fr_1809"></span>[1](#fn_1809.md) the perpetual comparison between
 Christendom and Paganism. We are faced by a civilisation and a religion
 that reached wealth and complexity by normal evolution from the stages
 of early savagery and barbarism without ever coming in contact with
@@ -148,32 +148,32 @@ each other as do the facts of comparative anatomy.
 
 ### Footnotes
 
-<span id="fn_1798"></span>[346:4](pch76.htm#fr_1798) J. G. Müller, pp.
+<span id="fn_1798"></span>[346:4](pch76.htm#fr_1798.md) J. G. Müller, pp.
 7-8.
 
-<span id="fn_1799"></span>[346:5](pch76.htm#fr_1799) Cp. Nott and
+<span id="fn_1799"></span>[346:5](pch76.htm#fr_1799.md) Cp. Nott and
 Gliddon, *Types of Mankind*, 1854, p. 283; *Indigenous Races of the
 Earth*, 1857, p. 648.
 
-<span id="fn_1800"></span>[347:1](pch76.htm#fr_1800) Müller, p. 9.
+<span id="fn_1800"></span>[347:1](pch76.htm#fr_1800.md) Müller, p. 9.
 
-<span id="fn_1801"></span>[347:2](pch76.htm#fr_1801) Cp. Kirk's note on
+<span id="fn_1801"></span>[347:2](pch76.htm#fr_1801.md) Cp. Kirk's note on
 Prescott, p. 1, and Dr. Tylor, *Anahuac*, p. 189, as to the pre-Toltec
 civilisation of Mexico.
 
-<span id="fn_1802"></span>[347:3](pch76.htm#fr_1802) Squier, *Peru*,
+<span id="fn_1802"></span>[347:3](pch76.htm#fr_1802.md) Squier, *Peru*,
 1877, ch. 20; J. G. Müller, pp. 334-5; Keane, *Ethnology*, p. 138 *sq*.
 
-<span id="fn_1803"></span>[348:1](pch76.htm#fr_1803) Bancroft, iv,
+<span id="fn_1803"></span>[348:1](pch76.htm#fr_1803.md) Bancroft, iv,
 289-346. Cp. Keane, *Man*, p. 406 *sq*.
 
-<span id="fn_1804"></span>[348:2](pch76.htm#fr_1804) *Introd. to the
+<span id="fn_1804"></span>[348:2](pch76.htm#fr_1804.md) *Introd. to the
 Hist. of Civilisation in England*, 3-vol. ed. i, 101-8.
 
-<span id="fn_1805"></span>[348:3](pch76.htm#fr_1805) Clavigero, *History
+<span id="fn_1805"></span>[348:3](pch76.htm#fr_1805.md) Clavigero, *History
 of Mexico*, Eng. tr. ed. 1807, i, 86 (B. ii, § 2); Keane, as last cited.
 
-<span id="fn_1806"></span>[348:4](pch76.htm#fr_1806) Compare ch. i of
+<span id="fn_1806"></span>[348:4](pch76.htm#fr_1806.md) Compare ch. i of
 Prescott's *Conquest of Mexico*, and J. F. Kirk's notes on it
 (Sonnenschein's ed.) with Réville, Lect. i. But the tradition may also
 derive from the general movement of population southwards. Clavigero's
@@ -181,10 +181,10 @@ chronology, c. 8, is to the effect that the Toltecs arrived from the
 north about 648, the Chichemecs in 1170, the "Acolhuans" about 1200, and
 the Aztecs in 1296.
 
-<span id="fn_1807"></span>[348:5](pch76.htm#fr_1807) Kirk's note on
+<span id="fn_1807"></span>[348:5](pch76.htm#fr_1807.md) Kirk's note on
 Prescott, p. 7.
 
-<span id="fn_1808"></span>[348:6](pch76.htm#fr_1808) The Acolhuan or
+<span id="fn_1808"></span>[348:6](pch76.htm#fr_1808.md) The Acolhuan or
 Tezcucan civilisation, however, seems to have been more advanced than
 that of Mexico proper. See Prescott, B. i, c. 6, end; and below, § 5.
 And see Lindesay Brine, *American Indians*, chs. xv and xvii, as to the
@@ -193,7 +193,7 @@ account, with excellent illustrations of the architectural and art
 remains at Mitla, is given by Edward Seler, in Bulletin 28 of the Bureau
 of American Ethnology, before cited, pp. 243-324.
 
-<span id="fn_1809"></span>[349:1](pch76.htm#fr_1809) That is, now. Lord
+<span id="fn_1809"></span>[349:1](pch76.htm#fr_1809.md) That is, now. Lord
 Kingsborough wrought hard in the last generation to prove that the
 Biblical system was known to the Mexicans; and there was an early theory
 that St. Thomas, that ubiquitous missionary, had given them
@@ -201,4 +201,4 @@ Christianity. Prescott, pp. 233, 641; Clavigero, B. vi, § 4.
 
 ------------------------------------------------------------------------
 
-[Next: § 3. Primitive Religion and Human Sacrifice](pch77)
+[Next: § 3. Primitive Religion and Human Sacrifice](pch77.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml13)  [Next](cml15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml13)  [Next](cml15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,18 +31,18 @@ shame to the gods than would otherwise have been; for men were of as
 divine descent as themselves. The dogma of the Celts was that men were
 descended from the god of death, and first came from the Land of the
 Dead to take possession of the present world. <span
-id="fr_140"></span>[1](#fn_140) Caesar tells us, in his too short
+id="fr_140"></span>[1](#fn_140.md) Caesar tells us, in his too short
 account of the Gauls, that they believed themselves to be
 
 <span id="page_120">p. 120</span>
 
 sprung from Dis Pater, the god of the underworld. <span
-id="fr_141"></span>[1](#fn_141) In the Gaelic mythology Dis Pater was
+id="fr_141"></span>[1](#fn_141.md) In the Gaelic mythology Dis Pater was
 called Bilé, a name which has for root the syllable *bel*, meaning "to
 die". The god Beli in British mythology was no doubt the same person,
 while the same idea is expressed by the same root in the name of Balor,
 the terrible Fomor whose glance was death. <span
-id="fr_142"></span>[2](#fn_142)
+id="fr_142"></span>[2](#fn_142.md)
 
 The post-Christian Irish chroniclers, seeking to reconcile Christian
 teachings with the still vital pagan mythology by changing the gods into
@@ -70,7 +70,7 @@ thence landed in Spain, where they lived many years, greatly increasing
 and multiplying. The same route is given by the twelfth-century British
 historian, Geoffrey of Monmouth, as that taken by Brutus and the Trojans
 when they came to colonize Britain. <span
-id="fr_143"></span>[1](#fn_143) Its only connection with any kind of
+id="fr_143"></span>[1](#fn_143.md) Its only connection with any kind of
 fact is that it corresponds fairly well with what ethnologists consider
 must have been the westward line of migration taken, not, curiously
 enough, by the Aryan Celts, but by the pre-Aryan Iberians.
@@ -81,12 +81,12 @@ the father of two sons, Bilé and Ith, had built a watch-tower, from
 which, one winter's evening, Ith saw, far off over the seas, a land he
 had never noticed before. "It is on winter evenings, when the air is
 pure, that man's eyesight reaches farthest", remarks the old tract
-called the "Book of Invasions", <span id="fr_144"></span>[2](#fn_144)
+called the "Book of Invasions", <span id="fr_144"></span>[2](#fn_144.md)
 gravely accounting for the fact that Ith saw Ireland from Spain.
 
 Wishing to examine it nearer, he set sail with thrice thirty warriors,
 and landed without mishap at the mouth of the River Scêné. <span
-id="fr_145"></span>[3](#fn_145) The country seemed to him to be
+id="fr_145"></span>[3](#fn_145.md) The country seemed to him to be
 uninhabited, and he marched with his
 
 <span id="page_122">p. 122</span>
@@ -131,11 +131,11 @@ drowned. The rest disembarked safely upon the first of May.
 
 Amergin was the first to land. Planting his right foot on Irish soil, he
 burst into a poem preserved in both the Book of Lecan and the Book of
-Ballymote. <span id="fr_146"></span>[1](#fn_146) It is a good example of
+Ballymote. <span id="fr_146"></span>[1](#fn_146.md) It is a good example of
 the pantheistic philosophy of the Celtic races, and a very close
 parallel to it is contained in an early Welsh poem, called the "Battle
 of the Trees", and attributed to the famous bard Taliesin. <span
-id="fr_147"></span>[2](#fn_147) "I am the wind that blows upon the sea,"
+id="fr_147"></span>[2](#fn_147.md) "I am the wind that blows upon the sea,"
 sang Amergin; "I am the ocean wave; I am the murmur of the surges; I am
 seven battalions; I am a strong bull; I am an eagle on a rock; I am a
 ray of the sun; I am the most beautiful of herbs; I am a courageous wild
@@ -154,7 +154,7 @@ them to come near the shore as I can? Who can change the shapes of the
 hills and headlands as I can? I am a bard who is called upon by
 seafarers to prophesy. Javelins shall be wielded to avenge our wrongs. I
 prophesy victory. I end my song by prophesying all other good
-things." <span id="fr_148"></span>[1](#fn_148)
+things." <span id="fr_148"></span>[1](#fn_148.md)
 
 The Welsh bard Taliesin sings in the same strain as the druid Amergin
 his unity with, and therefore his power over, all nature, animate and
@@ -248,7 +248,7 @@ of battle.
 But although you may desire the land which these people possess, yet
 yours is the duty to show them justice. I forbid you from injustice to
 those you have found in the land, however you may desire to obtain
-it." <span id="fr_149"></span>[1](#fn_149)
+it." <span id="fr_149"></span>[1](#fn_149.md)
 
 <span class="contnote">\[paragraph continues\]</span> This judgment was
 considered fair by both parties. The Milesians retired to their ships,
@@ -280,12 +280,12 @@ The fishful, fishful lake!"
 
 <span class="contnote">\[paragraph continues\]</span> In such strain
 runs the original incantation, one of those magic formulas whose power
-was held by ancient, and still is held by [savage races](errata.htm#2)
+was held by ancient, and still is held by [savage races](errata.htm#2.md)
 to reside in their exact consecrated wording rather than in their
 meaning. To us it sounds nonsense, and so no doubt it did to those who
 put the old Irish mythical traditions into literary shape; for a later
 version expands and explains it as follows: <span
-id="fr_150"></span>[1](#fn_150)
+id="fr_150"></span>[1](#fn_150.md)
 
 "I implore that we may regain the land of Erin,  
 We who have come over the lofty waves, <span id="page_129">p.
@@ -366,42 +366,42 @@ was killed in battle, and Eremon took the sole rule.
 
 ### Footnotes
 
-<span id="fn_140"></span>[119:1](cml14.htm#fr_140) It may be noted that,
+<span id="fn_140"></span>[119:1](cml14.htm#fr_140.md) It may be noted that,
 according to Welsh legend, the ancestors of the Cymri came from Gwlâd yr
 Hâv, the "Land of Summer", *i.e.* the Celtic Other World.
 
-<span id="fn_141"></span>[120:1](cml14.htm#fr_141) *De Bello Gallico*,
+<span id="fn_141"></span>[120:1](cml14.htm#fr_141.md) *De Bello Gallico*,
 Book VI, chap. XVIII.
 
-<span id="fn_142"></span>[120:2](cml14.htm#fr_142) De Jubainville:
+<span id="fn_142"></span>[120:2](cml14.htm#fr_142.md) De Jubainville:
 *Cycle Mythologique*, chap. x. Rhys: *Hibbert Lectures*--"The Gaulish
 Pantheon".
 
-<span id="fn_143"></span>[121:1](cml14.htm#fr_143) Geoffrey of
+<span id="fn_143"></span>[121:1](cml14.htm#fr_143.md) Geoffrey of
 Monmouth's *Historia Britonum*, Book I, chap. II.
 
-<span id="fn_144"></span>[121:2](cml14.htm#fr_144) Contained in the
+<span id="fn_144"></span>[121:2](cml14.htm#fr_144.md) Contained in the
 *Book of Leinster* and other ancient manuscripts.
 
-<span id="fn_145"></span>[121:3](cml14.htm#fr_145) Now called the
+<span id="fn_145"></span>[121:3](cml14.htm#fr_145.md) Now called the
 Kenmare River.
 
-<span id="fn_146"></span>[123:1](cml14.htm#fr_146) This poem and the
+<span id="fn_146"></span>[123:1](cml14.htm#fr_146.md) This poem and the
 three following ones, all attributed to Amergin, are said to be the
 oldest Irish literary records.
 
-<span id="fn_147"></span>[123:2](cml14.htm#fr_147) *Book of Taliesin*,
+<span id="fn_147"></span>[123:2](cml14.htm#fr_147.md) *Book of Taliesin*,
 poem VIII, in Skene's Four Ancient Books of Wales, Vol. I, p. 276.
 
-<span id="fn_148"></span>[124:1](cml14.htm#fr_148) De Jubainville:
+<span id="fn_148"></span>[124:1](cml14.htm#fr_148.md) De Jubainville:
 *Cycle Mythologique*. See also the *Transactions of the Ossianic
 Society*, Vol. V.
 
-<span id="fn_149"></span>[127:1](cml14.htm#fr_149) Translated by
+<span id="fn_149"></span>[127:1](cml14.htm#fr_149.md) Translated by
 Professor Owen Connellan in Vol. V of the *Transactions of the Ossianic
 Society*.
 
-<span id="fn_150"></span>[128:1](cml14.htm#fr_150) The original versions
+<span id="fn_150"></span>[128:1](cml14.htm#fr_150.md) The original versions
 of this and the following charm are from De Jubainville: *Cycle
 Mythologique Irlandais*, the later from Professor Owen Connellan's
 translations in Vol. V of the *Transactions of the Ossianic Society*.
@@ -413,4 +413,4 @@ accordance with this gloss than with the original text."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Gods in Exile](cml15)
+[Next: Chapter XI. The Gods in Exile](cml15.md)

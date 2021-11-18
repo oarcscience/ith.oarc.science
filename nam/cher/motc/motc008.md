@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc007) 
-[Next](motc009) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc007.md) 
+[Next](motc009.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ finger will swell at the lower joint.
 
 ------------------------------------------------------------------------
 
-[Next: 9. What The Stars Are Like](motc009)
+[Next: 9. What The Stars Are Like](motc009.md)

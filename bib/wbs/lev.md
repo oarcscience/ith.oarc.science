@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](exo)  [Next](num) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](exo)  [Next](num.md) 
 
 ------------------------------------------------------------------------
 
@@ -3429,4 +3429,4 @@ LORD commanded Moses for the children of Israel in mount Sinai.
 
 ------------------------------------------------------------------------
 
-[Next: Numbers](num)
+[Next: Numbers](num.md)

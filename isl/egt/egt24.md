@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt23)  [Next](egt25) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt23)  [Next](egt25.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ with acceptance on His decrees.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE EARNEST STRIVING.](egt25)
+[Next: ON THE EARNEST STRIVING.](egt25.md)

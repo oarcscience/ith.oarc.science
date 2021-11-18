@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac44)  [Next](ybac46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac44)  [Next](ybac46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ that is marvelous; thus it was easy for the old man of whom I spoke in
 the first chapter to recall events which he said had taken place 300
 years before. Had I not known of this calculation I should not have
 believed it possible to recall after such a period. <span
-id="fr_41"></span>[\*](#fn_41)
+id="fr_41"></span>[\*](#fn_41.md)
 
 As to who it was that arranged this count of katuns, if it was the evil
 one it was so done as to serve in his honor; if it was a man, he must
@@ -120,7 +120,7 @@ syllables in this manner: <span id="img_08301"></span>
 <span id="img_08302"></span>
 
 [![](tn/08302.jpg)  
-Click to enlarge](img/08302.jpg)
+Click to enlarge](img/08302.jpg.md)
 
 The letters that do not appear are wanting in this language; and they
 have others in addition to ours, for other things where they are needed.
@@ -131,11 +131,11 @@ people who have learned ours.
 
 ### Footnotes
 
-<span id="fn_41"></span>[81:\*](ybac45.htm#fr_41) The center of the
+<span id="fn_41"></span>[81:\*](ybac45.htm#fr_41.md) The center of the
 wheel reads: They call this count in their language **vazlazon katun**,
 which means the 'revolution of the katuns.'
 
 ------------------------------------------------------------------------
 
 [Next: XLII. Multitude of Buildings in Yucatan. Those of Izamal, of
-Merida, and of Chichén Itzá](ybac46)
+Merida, and of Chichén Itzá](ybac46.md)

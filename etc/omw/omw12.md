@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw11)  [Next](omw13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw11)  [Next](omw13.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ or demonic beings, of the Arabian story-tellers.
 
 ------------------------------------------------------------------------
 
-[Next: Chinese](omw13)
+[Next: Chinese](omw13.md)

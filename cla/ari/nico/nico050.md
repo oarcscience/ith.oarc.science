@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico049) 
-[Next](nico051) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico049.md) 
+[Next](nico051.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ it is concerned.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8. The scale of degrees of wrongdoing](nico051)
+[Next: Chapter 8. The scale of degrees of wrongdoing](nico051.md)

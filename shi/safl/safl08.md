@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index)  [Index](index) [Previous](safl07) [Next](safl09)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index)  [Index](index) [Previous](safl07) [Next](safl09.md)
 
 ------------------------------------------------------------------------
 
@@ -9,42 +9,42 @@
 
    There was a person who was reared as a slave<span
 id="page_25_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_25_note_1) at <span id="page_26">p.
+class="small">1</span></sup>](#page_25_note_1.md) at <span id="page_26">p.
 26</span> Shinutapka.<span id="page_26_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_26_note_2) Now, once upon a time he
+class="small">2</span></sup>](#page_26_note_2.md) Now, once upon a time he
 heard it noised abroad that there was a lady residing at Kunnepet<span
 id="page_26_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_26_note_3) who was famous for her
+class="small">3</span></sup>](#page_26_note_3.md) who was famous for her
 beauty. So, one day, after he had cooked and eaten some food, our slave
 buckled on his belt,<span id="page_26_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_26_note_4) stuck his trusty sword
+class="small">4</span></sup>](#page_26_note_4.md) stuck his trusty sword
 into his girdle, and fastened on his helmet; then, being taken up by the
 winds which arose from the head of the fireplace,<span
 id="page_26_fr_5"></span>[<sup><span
-class="small">5</span></sup>](#page_26_note_5) he was hastily carried
+class="small">5</span></sup>](#page_26_note_5.md) he was hastily carried
 through the upper window;<span id="page_26_fr_6"></span>[<sup><span
-class="small">6</span></sup>](#page_26_note_6) and his <span
+class="small">6</span></sup>](#page_26_note_6.md) and his <span
 id="page_27">p. 27</span> inspiring<span
 id="page_27_fr_7"></span>[<sup><span
-class="small">7</span></sup>](#page_27_note_7) guardian god having
+class="small">7</span></sup>](#page_27_note_7.md) guardian god having
 rested upon him with a sound, he went before the mighty winds<span
 id="page_27_fr_8"></span>[<sup><span
-class="small">8</span></sup>](#page_27_note_8) till he arrived at the
+class="small">8</span></sup>](#page_27_note_8.md) till he arrived at the
 village of Kunnepet.
 
    So he came to the lady of *Kunnepet*. When he looked at her he saw
 that she was weeping<span id="page_27_fr_9"></span>[<sup><span
-class="small">9</span></sup>](#page_27_note_9) very exceedingly. <span
+class="small">9</span></sup>](#page_27_note_9.md) very exceedingly. <span
 id="page_28">p. 28</span> Still shedding tears, she spake and said:—"The
 thunder-gods who live in the heavens above are two in number,<span
 id="page_28_fr_10"></span>[<sup><span
-class="small">10</span></sup>](#page_28_note_10) and the younger of them
+class="small">10</span></sup>](#page_28_note_10.md) and the younger of them
 does nothing but make advances to me and is about to marry me. This
 being so, O *Poiyaumbe*,<span id="page_28_fr_11"></span>[<sup><span
-class="small">11</span></sup>](#page_28_note_11) we cannot marry though
+class="small">11</span></sup>](#page_28_note_11.md) we cannot marry though
 you have come for me; nevertheless I will cook<span
 id="page_28_fr_12"></span>[<sup><span
-class="small">12</span></sup>](#page_28_note_12) some food that you may
+class="small">12</span></sup>](#page_28_note_12.md) some food that you may
 eat." When she had so said she swung a pretty little pot over the fire
 and put some of her choice treasured-up food into it. She then dipped in
 her ladle and stirred up the delicious food. Next she took a pretty
@@ -55,32 +55,32 @@ carried it to him and bowed profusely.
 
    When he had but just commenced to eat, flashes of white<span
 id="page_29_fr_13"></span>[<sup><span
-class="small">13</span></sup>](#page_29_note_13) lightning came through
+class="small">13</span></sup>](#page_29_note_13.md) lightning came through
 the upper window and hung upon the beams in curious forms. Upon looking
 up he saw a lady even more beautiful than the lady of Kunnepet,
 reclining in a white chariot.<span id="page_29_fr_14"></span>[<sup><span
-class="small">14</span></sup>](#page_29_note_14) She had anger depicted
+class="small">14</span></sup>](#page_29_note_14.md) She had anger depicted
 upon her countenance; and, in her wrath said:—"O Poiyaumbe listen to me
 for I have something to say. I am the younger sister of the wolf-god and
 the benefactress of the lady of Kunnepet, whilst you are watched over by
 my elder brother.<span id="page_29_fr_15"></span>[<sup><span
-class="small">15</span></sup>](#page_29_note_15) This being so, I am
+class="small">15</span></sup>](#page_29_note_15.md) This being so, I am
 here to tell you that the thunder-god is angry with you for coming to
 visit this lady and is going to make grievous war against you. Nay, the
 war is at <span id="page_30">p. 30</span> hand. Though I am a
 worthless<span id="page_30_fr_16"></span>[<sup><span
-class="small">16</span></sup>](#page_30_note_16) woman, I have come to
+class="small">16</span></sup>](#page_30_note_16.md) woman, I have come to
 assist you. Get into my white chariot;" so spake the younger sister of
 the wolf-god.
 
    So he got into the chariot, which immediately went out of the upper
 window. Then the trappings<span id="page_30_fr_17"></span>[<sup><span
-class="small">17</span></sup>](#page_30_note_17) of the chariot whistled
+class="small">17</span></sup>](#page_30_note_17.md) of the chariot whistled
 and rattled. As they went on their way, they skirted the mountains
 towards the source of the river, and, proceeding along, they saw white
 and black lightning playing about in the clouds of the lower<span
 id="page_30_fr_18"></span>[<sup><span
-class="small">18</span></sup>](#page_30_note_18) heavens. As he was
+class="small">18</span></sup>](#page_30_note_18.md) heavens. As he was
 looking at it, he saw the aforementioned thunder-god sitting in a black
 chariot; he was unmistakably a very little man. There too sat a little
 woman, who, without doubt, was his younger sister. She held a wand in
@@ -148,7 +148,7 @@ Ye should be careful. Now then, come, underneath Ainu-land there are six
 countries, and beneath these again there is another, a beautiful land.
 The name of that country is *Chirama*,<span
 id="page_34_fr_19"></span>[<sup><span
-class="small">19</span></sup>](#page_34_note_19) and its foundations
+class="small">19</span></sup>](#page_34_note_19.md) and its foundations
 consist of earth. Go ye to that land and fight, for unless ye do, our
 country and villages will be all spoiled." So sounded forth the voice of
 God.
@@ -182,7 +182,7 @@ goddess you would have no need to carry on this fierce combat with
 Poiyaumbe. Why do you set your affections on this Lady of Kunnepet as
 though she were the only woman? Now our<span
 id="page_36_fr_20"></span>[<sup><span
-class="small">20</span></sup>](#page_36_note_20) charmed black chariot
+class="small">20</span></sup>](#page_36_note_20.md) charmed black chariot
 has been quite broken up and you are as one fighting without armour. Be
 careful or Poiyaumbe will slay you." So spake the sister of the
 thunder-god through her tears.
@@ -209,7 +209,7 @@ thunder-god. So that after a time he was, though with difficulty, cut
 down and slain. His spirit roared as it went up; but, as it was not
 possible for it to go into the western<span
 id="page_37_fr_21"></span>[<sup><span
-class="small">21</span></sup>](#page_37_note_21) end of *Chirama*-land
+class="small">21</span></sup>](#page_37_note_21.md) end of *Chirama*-land
 it ascended <span id="page_38">p. 38</span> to the high heavens with a
 great noise. It went up a new god and then the sound died away.
 
@@ -221,7 +221,7 @@ gods, but as you are a man, it would be well for you to marry the Lady
 of Kunnepet. Now, you are watched over by my elder brother the wolf-god,
 so henceforth do no more fighting, but when you have wine, be careful
 that you make some *inao*<span id="page_38_fr_22"></span>[<sup><span
-class="small">22</span></sup>](#page_38_note_22) and offer libations to
+class="small">22</span></sup>](#page_38_note_22.md) and offer libations to
 the wolf-god."
 
    When she had finished speaking, she departed with a great sound. Then
@@ -231,13 +231,13 @@ setting it on a beautiful tray, brought it to me with many bows. After
 eating a little of it, I pushed the remainder <span id="page_39">p.
 39</span> to her and she, lifting it up and down in thankfulness,
 finished it.<span id="page_39_fr_23"></span>[<sup><span
-class="small">23</span></sup>](#page_39_note_23) Then, when the meal was
+class="small">23</span></sup>](#page_39_note_23.md) Then, when the meal was
 over, my Lady of Kunnepet proceeded to get the house in order and we
 have lived happily ever since.
 
 ------------------------------------------------------------------------
 
-[Next](safl09)
+[Next](safl09.md)
 
 ------------------------------------------------------------------------
 
@@ -245,7 +245,7 @@ have lived happily ever since.
 
 <span id="footnotes_page_25">p. 25</span>
 
-<span id="page_25_note_1"></span>[1](#page_25_fr_1) The word here
+<span id="page_25_note_1"></span>[1](#page_25_fr_1.md) The word here
 translated "slave" is, in Ainu, a compound noun *Usshiu ne guru*. By
 comparing it with itself in certain other places in legends where it
 occurs, always, of course, taking the context into consideration, we are
@@ -269,7 +269,7 @@ account, would be quite natural among the Ainus.
 
 <span id="footnotes_page_26">p. 26</span>
 
-<span id="page_26_note_2"></span>[2](#page_26_fr_2) *Shinutapka*,
+<span id="page_26_note_2"></span>[2](#page_26_fr_2.md) *Shinutapka*,
 elsewhere called *Shinutapkashi* is the ancient name of some mountains
 in the north of Yezo, distant from Ishkari about ten or twelve Japanese
 *ri*, and is said to have been the home of a race of especially brave
@@ -280,23 +280,23 @@ Ainu legends, and the people of the present day point to the districts
 of Ishkari and Mashki as the locality of these famous mountains.
 *Shinutapka* means "the top of the very high mountain peak."
 
-<span id="page_26_note_3"></span>[3](#page_26_fr_3) The name *Kunnepet*
+<span id="page_26_note_3"></span>[3](#page_26_fr_3.md) The name *Kunnepet*
 means "the black river," but it seems that no one now knows the locality
 or river which once bore this name.
 
-<span id="page_26_note_4"></span>[4](#page_26_fr_4) The word translated
+<span id="page_26_note_4"></span>[4](#page_26_fr_4.md) The word translated
 "belt" is, in Ainu, *Uokkane kut* whose exact meaning is "girdle with
 metal fastenings." This would seem to show us that the Ainus used to
 wear "belts" rather than the girdles they have now. In fact, the word
 cannot be applied to any kind of girdle unless it has either a buckle or
 a hook and eye at the ends.
 
-<span id="page_26_note_5"></span>[5](#page_26_fr_5) The head of the
+<span id="page_26_note_5"></span>[5](#page_26_fr_5.md) The head of the
 fireplace (i.e. that part of a hut between the fireplace and east
 window) is sacred. It is here especially that the great drinking-bouts
 are held.
 
-<span id="page_26_note_6"></span>[6](#page_26_fr_6) The "upper window"
+<span id="page_26_note_6"></span>[6](#page_26_fr_6.md) The "upper window"
 here referred to is a hole left in the west end of a hut for the purpose
 of allowing the smoke to escape. Some of the Ainus, however, those of
 Ishkari for example, have the aperture left in the south side of the
@@ -304,7 +304,7 @@ roof.
 
 <span id="footnotes_page_27">p. 27</span>
 
-<span id="page_27_note_7"></span>[7](#page_27_fr_7) The Ainu words I
+<span id="page_27_note_7"></span>[7](#page_27_fr_7.md) The Ainu words I
 have translated "inspiring gods" are full of deep theology, and cast a
 side-light upon Ainu religious ideas. They show us that the Ainu race is
 a deeply religious one. The words are *ituren Kamui*. *Kamui* means
@@ -322,7 +322,7 @@ household is supposed to have its special guardian god. It is called
 master is at home, but to accompany him when he goes on a journey. So
 here, our hero was accompanied by his "inspiring, guardian god."
 
-<span id="page_27_note_8"></span>[8](#page_27_fr_8) The words "mighty
+<span id="page_27_note_8"></span>[8](#page_27_fr_8.md) The words "mighty
 wind" are, in the original, "the winds of god." When the Ainus desire to
 express greatness, mightiness, beauty and such like ideas they often use
 the word *Kamui*, "god." Thus for "great trees" we hear "trees of God;"
@@ -339,7 +339,7 @@ to fly through the air or even to wage war in the air. These particular
 "winds of God" may therefore be called "delightful, pleasant winds" with
 as much propriety as "mighty winds."
 
-<span id="page_27_note_9"></span>[9](#page_27_fr_9) The words "weeping
+<span id="page_27_note_9"></span>[9](#page_27_fr_9.md) The words "weeping
 very exceedingly" are, when translated literally, "two bad weeps."
 Severity or excessiveness are often expressed in Ainu by "two or three"
 or "twice or thrice." Thus, "he was struck twice or thrice" sometimes
@@ -348,7 +348,7 @@ get "she wept very exceedingly," or "she wept exceeding bitterly."
 
 <span id="footnotes_page_28">p. 28</span>
 
-<span id="page_28_note_10"></span>[10](#page_28_fr_10) We are here let
+<span id="page_28_note_10"></span>[10](#page_28_fr_10.md) We are here let
 into the secret of Ainu ideas concerning thunder. In bodily form the
 thunder-gods are supposed to resemble men, and they have the same kind
 of affections as human beings. It will also be seen later on that they
@@ -360,13 +360,13 @@ given in marriage and therefore to be of both sexes. Though they may be
 born they can never die. Thunder itself is caused by the movements of
 these gods.
 
-<span id="page_28_note_11"></span>[11](#page_28_fr_11) Poiyaumbe means
+<span id="page_28_note_11"></span>[11](#page_28_fr_11.md) Poiyaumbe means
 "the brave Ainu" or "the brave hero." The Ainus sometimes call Yezo by
 the name *Ya un moshiri* so that *Ya un guru* or *Yaumbe* comes to mean
 "an Ainu." This term was discussed in Vol XVI., Pt. II., p. 47, note 1,
 of the Transactions of this Society.
 
-<span id="page_28_note_12"></span>[12](#page_28_fr_12) The lady of
+<span id="page_28_note_12"></span>[12](#page_28_fr_12.md) The lady of
 Kunnepet says she would cook some food for her visitor. It would be
 considered a great breach of etiquette and very forward in a young woman
 to do such a thing for a bachelor unless she was commanded to do so by
@@ -376,7 +376,7 @@ giving it to her betrothed.
 
 <span id="footnotes_page_29">p. 29</span>
 
-<span id="page_29_note_13"></span>[13](#page_29_fr_13) The Ainus
+<span id="page_29_note_13"></span>[13](#page_29_fr_13.md) The Ainus
 consider white to be the best and purest colour. It is the colour of the
 gods and all that is good, whilst black is supposed to represent evil
 and the devil. I once saw an Ainu corpse with its feet clothed in white
@@ -384,13 +384,13 @@ rags which we had sometime before given to a person to dress some wounds
 with. It was thought that the white rags would assist the dead in its
 journey to heaven.
 
-<span id="page_29_note_14"></span>[14](#page_29_fr_14) The word here
+<span id="page_29_note_14"></span>[14](#page_29_fr_14.md) The word here
 translated *chariot* now means *cradle*, but in this legend *chariot*
 suits the sense better. The chariot is conceived of as being suspended
 from above by means of strings and cords in the same way as the Ainus
 suspend their cradles from the roof of their huts.
 
-<span id="page_29_note_15"></span>[15](#page_29_fr_15) Here we have the
+<span id="page_29_note_15"></span>[15](#page_29_fr_15.md) Here we have the
 curious idea that the use of animals is partly to watch over human
 beings. Thus the male wolf was the guardian of *Poiyaumbe*, our hero,
 whilst the female wolf protected the Lady of Kunnepet. We can therefore
@@ -399,15 +399,15 @@ wine to them.
 
 <span id="footnotes_page_30">p. 30</span>
 
-<span id="page_30_note_16"></span>[16](#page_30_fr_16) The goddess does
+<span id="page_30_note_16"></span>[16](#page_30_fr_16.md) The goddess does
 not mean to say that she is of no account; but to call oneself
 "worthless" and "bad" is Ainu etiquette, though probably originally
 borrowed from their Japanese neighbours.
 
-<span id="page_30_note_17"></span>[17](#page_30_fr_17) These trappings
+<span id="page_30_note_17"></span>[17](#page_30_fr_17.md) These trappings
 are simply the cords by which the chariot was suspended from heaven.
 
-<span id="page_30_note_18"></span>[18](#page_30_fr_18) "The lower
+<span id="page_30_note_18"></span>[18](#page_30_fr_18.md) "The lower
 heaven." The Ainus consider the heavens to be three in number. The first
 in order is called *Shi-nish kando*, "the greatest skies;" this is
 supposed to be the home of the chief of the gods, i.e. the Creator. The
@@ -420,26 +420,26 @@ live here.
 
 <span id="footnotes_page_34">p. 34</span>
 
-<span id="page_34_note_19"></span>[19](#page_34_fr_19) *Chirama* means
+<span id="page_34_note_19"></span>[19](#page_34_fr_19.md) *Chirama* means
 "lowest."
 
 <span id="footnotes_page_36">p. 36</span>
 
-<span id="page_36_note_20"></span>[20](#page_36_fr_20) The chariots
+<span id="page_36_note_20"></span>[20](#page_36_fr_20.md) The chariots
 were, we learn, charmed and acted as shields to the combatants.
 
 <span id="footnotes_page_37">p. 37</span>
 
-<span id="page_37_note_21"></span>[21](#page_37_fr_21) i.e. To die.
+<span id="page_37_note_21"></span>[21](#page_37_fr_21.md) i.e. To die.
 
 <span id="footnotes_page_38">p. 38</span>
 
-<span id="page_38_note_22"></span>[22](#page_38_fr_22) Pieces of
+<span id="page_38_note_22"></span>[22](#page_38_fr_22.md) Pieces of
 whittled willow wood.
 
 <span id="footnotes_page_39">p. 39</span>
 
-<span id="page_39_note_23"></span>[23](#page_39_fr_23) i.e. The marriage
+<span id="page_39_note_23"></span>[23](#page_39_fr_23.md) i.e. The marriage
 ceremony was concluded and they were married.
 
  

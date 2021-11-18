@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd04) 
-[Next](iwd06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd04.md) 
+[Next](iwd06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Irish Witchcraft and Demonology*, by St. John D. Seymour, \[1913\], at
 Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ prisoner in the
 
 <span class="contnote">\[paragraph continues\]</span> Castle of the City
 of Dublin by warrant of the lord King was sent into England, therefore
-further proceedings shall cease." <span id="fr_20"></span>[1](#fn_20)
+further proceedings shall cease." <span id="fr_20"></span>[1](#fn_20.md)
 His ultimate fate is not known; nor is it easy to see why punishment was
 not meted out to him in Ireland, as he had directly contravened section
 4 of the Elizabethan Act. Possibly the case was unique, and so King
@@ -226,11 +226,11 @@ to pain although a pin was thrust into it. The
 unfortunate wretch was cast into prison, and there committed suicide by
 hanging himself from the "cruik" of the door with his garter or
 bonnet-string, and so "ended his life miserably with the help of the
-devil his master." <span id="fr_21"></span>[1](#fn_21)
+devil his master." <span id="fr_21"></span>[1](#fn_21.md)
 
 A tale slightly resembling portion of the above comes from the north of
 Ireland a few years later. "It's storied, and the story is true," says
-Robert Law in his *Memorialls*, <span id="fr_22"></span>[2](#fn_22) "of
+Robert Law in his *Memorialls*, <span id="fr_22"></span>[2](#fn_22.md) "of
 a godly man in Ireland, who lying one day in the fields sleeping, he was
 struck with dumbness and deafness. The same man, during this condition
 he was in, could tell things, and had the knowledge of things in a
@@ -257,7 +257,7 @@ minister at Bangor in Co. Down, with the consent of patron and people;
 he remained there until 1631, when he was suspended by Dr. Echlin, and
 was deposed and excommunicated in November, 1634. He has left a few
 writings behind him, and was grandfather of the poet Robert Blair,
-author of *The Grave*. <span id="fr_23"></span>[1](#fn_23)
+author of *The Grave*. <span id="fr_23"></span>[1](#fn_23.md)
 
 During the years of his ministry at Bangor the following incident
 occurred to him, which he of course attributes to demonic possession,
@@ -334,7 +334,7 @@ with him all Hallow-night, which he did, spending the time very
 profitably in prayer and exhortation, which encouraged the man to defy
 Satan and all his works. The upshot of the matter was, that he became
 very charitable to the poor, and seems to have entirely renounced his
-intemperate habits. <span id="fr_24"></span>[1](#fn_24)
+intemperate habits. <span id="fr_24"></span>[1](#fn_24.md)
 
 Rejecting the supernatural element in the above as being merely the
 fruits of a diseased mind, there is no reason to doubt the truth of the
@@ -355,7 +355,7 @@ Thus modestly our writer sets down what happened in his *Autobiography*;
 but the account of the incident spread far and wide, and at length came
 to the ears of Archbishop Usher, who, on his next meeting with Mr.
 Blair, warmly congratulated him on the successful exorcism he had
-practised. <span id="fr_25"></span>[1](#fn_25)
+practised. <span id="fr_25"></span>[1](#fn_25.md)
 
 If the period treated of in this chapter, viz. from the commencement of
 the seventeenth century to the Restoration of Charles II, be barren of
@@ -391,7 +391,7 @@ Uppon a Mannour of my Lord Bishoppe of Lymerick, Loughill, hath been
 seen upon the hill by most of the inhabitants aboundance of armed men
 marching, and these seene many tymes--and when they come up to them they
 do not appeare. These things are very strange, if the cleargie and
-gentrie say true." <span id="fr_26"></span>[1](#fn_26)
+gentrie say true." <span id="fr_26"></span>[1](#fn_26.md)
 
 During the rebellion an appalling massacre of Protestants took place at
 Portadown, when about a hundred persons, men, women, and children, were
@@ -450,7 +450,7 @@ two yards of him, and shot him in the middle of the back, yet the bullet
 entered not, nor did him any more hurt than leave a little black spot
 behind it. This many hundreds were eye-witnesses of. Divers of the like
 have I confidently been assured of, who have been provided of diabolical
-charms." <span id="fr_27"></span>[1](#fn_27) Similar tales of persons
+charms." <span id="fr_27"></span>[1](#fn_27.md) Similar tales of persons
 bearing charmed lives could no doubt be culled from the records of every
 war that has been fought on this planet of ours since History began.
 
@@ -469,7 +469,7 @@ of any that should bring it thither, and far from any Habitation; which
 preserved the child's life, who after became a Blessing to the Church."
 The Dr. Tate mentioned above was evidently the Rev. Faithful Tate, D.D.,
 father of Nahum Tate of "Tate and Brady" fame. <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 On the night of Sunday, the 8th of May 1642, a terrific storm of hail
 and rain came upon the English soldiers, which of course they attributed
@@ -479,7 +479,7 @@ handle his musket or yet to stand. Yea, severalls of them dyed that
 night of meere cold. Our sojors, and some of our officers too (who
 suppose that no thing which is more than ordinarie can be the product of
 nature), attributed this hurrikan to *the divilish skill of some Irish
-witches*." <span id="fr_29"></span>[2](#fn_29) Apparently the English
+witches*." <span id="fr_29"></span>[2](#fn_29.md) Apparently the English
 were not as wise in their generation as the inhabitants of Constance in
 Switzerland were on the occasion
 
@@ -520,7 +520,7 @@ Bishop from giving the first onset, but could not prevail upon him."
 An instance of an Irishman suffering from the effects of witchcraft
 outside Ireland is afforded us in a pathetic petition sent up to the
 English Parliament between the years 1649 and 1653. <span
-id="fr_30"></span>[1](#fn_30) The petitioner, John Campbell, stated that
+id="fr_30"></span>[1](#fn_30.md) The petitioner, John Campbell, stated that
 twelve years since he lost his sight in co. Antrim, where he was born,
 by which he was reduced to such extremity that he was forced to come
 
@@ -561,7 +561,7 @@ and invited him to sup with her the next night. He accepted the
 invitation, and died the following afternoon, 21st March 1656.
 
 This chapter may be brought to a conclusion by the following story from
-Glanvill's *Relations*. <span id="fr_31"></span>[1](#fn_31) One Mr. John
+Glanvill's *Relations*. <span id="fr_31"></span>[1](#fn_31.md) One Mr. John
 Browne of Durley in Ireland was made by his neighbour, John Mallett of
 Enmore, trustee
 
@@ -584,44 +584,44 @@ died.
 
 ### Footnotes
 
-<span id="fn_20"></span>[79:1](iwd05.htm#fr_20) Enrolment of Pleas, 6
+<span id="fn_20"></span>[79:1](iwd05.htm#fr_20.md) Enrolment of Pleas, 6
 James I, memb. 2 (Queen's Bench).
 
-<span id="fn_21"></span>[87:1](iwd05.htm#fr_21) Scott, *Demonology and
+<span id="fn_21"></span>[87:1](iwd05.htm#fr_21.md) Scott, *Demonology and
 Witchcraft*, Letter V.
 
-<span id="fn_22"></span>[87:2](iwd05.htm#fr_22) Ed. C. X. Sharpe
+<span id="fn_22"></span>[87:2](iwd05.htm#fr_22.md) Ed. C. X. Sharpe
 (Edinburgh, 1818).
 
-<span id="fn_23"></span>[88:1](iwd05.htm#fr_23) Witherow, *Memorials of
+<span id="fn_23"></span>[88:1](iwd05.htm#fr_23.md) Witherow, *Memorials of
 Presbyterianism in Ireland*.
 
-<span id="fn_24"></span>[92:1](iwd05.htm#fr_24) Quot. in Law's
+<span id="fn_24"></span>[92:1](iwd05.htm#fr_24.md) Quot. in Law's
 *Memorialls*.
 
-<span id="fn_25"></span>[93:1](iwd05.htm#fr_25) Witherow, *op. cit.*,
+<span id="fn_25"></span>[93:1](iwd05.htm#fr_25.md) Witherow, *op. cit.*,
 pp. 15-16.
 
-<span id="fn_26"></span>[95:1](iwd05.htm#fr_26) Lenihan, *History of
+<span id="fn_26"></span>[95:1](iwd05.htm#fr_26.md) Lenihan, *History of
 Limerick*, p. 147.
 
-<span id="fn_27"></span>[98:1](iwd05.htm#fr_27) Hickson, *Ireland in the
+<span id="fn_27"></span>[98:1](iwd05.htm#fr_27.md) Hickson, *Ireland in the
 Seventeenth Century*, vol. i.; Fitzpatrick, *Bloody Bridge*, p. 125;
 Temple's *History of the Rebellion*.
 
-<span id="fn_28"></span>[99:1](iwd05.htm#fr_28) Baxter, *Certainty of
+<span id="fn_28"></span>[99:1](iwd05.htm#fr_28.md) Baxter, *Certainty of
 the World of Spirits* (London, 1691); Clark, *A Mirrour or Looking-Glass
 for Saints and Sinners*. (London, 1657-71).
 
-<span id="fn_29"></span>[99:2](iwd05.htm#fr_29) Fitzpatrick, *op. cit*.,
+<span id="fn_29"></span>[99:2](iwd05.htm#fr_29.md) Fitzpatrick, *op. cit*.,
 p. 127.
 
-<span id="fn_30"></span>[101:1](iwd05.htm#fr_30) Hist. MSS. Comm. Report
+<span id="fn_30"></span>[101:1](iwd05.htm#fr_30.md) Hist. MSS. Comm. Report
 13 (Duke of Portland MSS.).
 
-<span id="fn_31"></span>[103:1](iwd05.htm#fr_31) No. 25 in *Sadducismus
+<span id="fn_31"></span>[103:1](iwd05.htm#fr_31.md) No. 25 in *Sadducismus
 Triumphatus* (London, 1726).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: A.D. 1661](iwd06)
+[Next: Chapter V: A.D. 1661](iwd06.md)

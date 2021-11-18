@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale11)  [Next](tale13) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale11)  [Next](tale13.md) 
 
 ------------------------------------------------------------------------
 
@@ -157,4 +157,4 @@ and said to the bystanders, "Allah upon you, pray for him, for indeed he
 is excusable."
 
 (*Next*) [THE MAN WHO STOLE THE DISH OF GOLD WHEREIN THE DOG
-ATE](tale13)  
+ATE](tale13.md)  

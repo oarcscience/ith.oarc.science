@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta16)  [Next](sta18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta16)  [Next](sta18.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,7 +148,7 @@ actual contradiction of some other aspect. While that which
 <span id="img_07300"></span>
 
 [![THE TETRAGRAMMATON IN THE HUMAN HEART.](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)  
+Click to enlarge](img/07300.jpg.md)  
 THE TETRAGRAMMATON IN THE HUMAN HEART.  
 
 From Böhme's *Libri Apologetici*.
@@ -295,7 +295,7 @@ perversion man's body is the tomb or prison of a divine
 
 [![HAND DECORATED WITH EFFIGIES OF JESUS CHRIST, THE VIRGIN MARY, AND
 THE TWELVE APOSTLES.](tn/07400.jpg)  
-Click to enlarge](img/07400.jpg)  
+Click to enlarge](img/07400.jpg.md)  
 HAND DECORATED WITH EFFIGIES OF JESUS CHRIST, THE VIRGIN MARY, AND THE
 TWELVE APOSTLES.  
 
@@ -441,7 +441,7 @@ mystery of the creative breach; and the third sphere
 <span id="img_07500"></span>
 
 [![THE THREEFOLD LIFE OF THE INNER MAN.](tn/07500.jpg)  
-Click to enlarge](img/07500.jpg)  
+Click to enlarge](img/07500.jpg.md)  
 THE THREEFOLD LIFE OF THE INNER MAN.  
 
 Redrawn from Gichtel's *Theosophia Practica*.
@@ -609,7 +609,7 @@ divine source of himself without tasting of physical dissolution.
 <span id="img_07600"></span>
 
 [![THE DIVINE TREE IN MAN&lt;br&gt; (reverse)](tn/07600.jpg)  
-Click to enlarge](img/07600.jpg)  
+Click to enlarge](img/07600.jpg.md)  
 THE DIVINE TREE IN MAN  
 (reverse)  
 
@@ -628,7 +628,7 @@ Understanding in the spiritual man.
 <span id="img_07601"></span>
 
 [![THE DIVINE TREE IN MAN&lt;br&gt; (obverse)](tn/07601.jpg)  
-Click to enlarge](img/07601.jpg)  
+Click to enlarge](img/07601.jpg.md)  
 THE DIVINE TREE IN MAN  
 (obverse)  
 
@@ -645,4 +645,4 @@ permanence of its divine source.
 
 ------------------------------------------------------------------------
 
-[Next: The Hiramic Legend](sta18)
+[Next: The Hiramic Legend](sta18.md)

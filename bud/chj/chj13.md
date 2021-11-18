@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj12)  [Next](chj14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj12)  [Next](chj14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -30,7 +30,7 @@ parenthetic and half apologetic manner, that As’vaghosha said something
 of the sort.
 
 The Zen teachers give him in their list of Patriarchs <span
-id="fr_128"></span>[1](#fn_127) of the Mahāyāna, but do not in any way
+id="fr_128"></span>[1](#fn_127.md) of the Mahāyāna, but do not in any way
 treat him as one of the pivots of their system. The mystic Kegon, now
 practically non-existent, spoke of As’vaghosha as their founder, in the
 sense that the germ of their teachings may be found in him who first
@@ -44,11 +44,11 @@ faith in the vow of Amida,
 
 while acknowledging that the first signs of that faith are to be found
 in As’vaghosha's treatise, yet make Nāgārjuna the first in their list of
-Patriarchs. <span id="fr_129"></span>[1](#fn_128)
+Patriarchs. <span id="fr_129"></span>[1](#fn_128.md)
 
 There is a great deal of uncertainty about As’vaghosha's life. His
 advent is said to have been foretold by Buddha himself, but
-Suzuki, <span id="fr_130"></span>[2](#fn_129) who has written a very
+Suzuki, <span id="fr_130"></span>[2](#fn_129.md) who has written a very
 full and candid account of As’vaghosha, quotes a passage from a book
 claiming to be written by Nāgārjuna, in which it is stated that, in
 order to fulfil all the prophecies concerning him, there must have been
@@ -77,7 +77,7 @@ but it is not without its significance for the contemporary Ophite
 Gnosticism.
 
 A similar uncertainty hangs about the name and place of birth.
-As’vaghosha <span id="fr_131"></span>[1](#fn_130) is the most common of
+As’vaghosha <span id="fr_131"></span>[1](#fn_130.md) is the most common of
 his designations; but in Chinese books he is sometimes Punyaditya, or
 Punyaśrika, while in Thibetan he has at least eight other names. His
 place of birth is sometimes Ayodhya, sometimes Pataliputra, but Benares
@@ -98,7 +98,7 @@ overthrow of the last Greek princelet by the Scythian king, Kadphises
 I., who also a little later overthrew the power of Gundaphorus of the
 St. Thomas legend. His successor, Kadphises II., extended his power down
 the valley of the Ganges as far as the gates of Benares, which he
-reached between 85 and 90 A.D. <span id="fr_132"></span>[2](#fn_131) The
+reached between 85 and 90 A.D. <span id="fr_132"></span>[2](#fn_131.md) The
 whole of India was in the tumult of war. The Scythians were on the move
 from Bactria to Benares, the Chinese under Panchao were
 
@@ -117,7 +117,7 @@ declared himself unable to pay it. "Then," said the Scythian king, "give
 me Buddha's Begging-bowl and the person of your great sage As’vaghosha."
 (An alternative story adds a "compassionate fowl" which would not drink
 dirty water for fear of killing the insects in it. <span
-id="fr_133"></span>[1](#fn_132)) Thus As’vaghosha and the Begging-bowl
+id="fr_133"></span>[1](#fn_132).md) Thus As’vaghosha and the Begging-bowl
 of Buddha saved Benares.
 
 It has been said that it is unlikely that the Scythian king should thus
@@ -134,9 +134,9 @@ later. Kadphises II. (if it were indeed that
 
 monarch) was, in fact, the greatest Buddhist monarch of the world. The
 Begging-bowl, however, which is the prototype of the Holy Grail of the
-Arthurian legend, <span id="fr_134"></span>[1](#fn_133) was the holiest
+Arthurian legend, <span id="fr_134"></span>[1](#fn_133.md) was the holiest
 of all relics of the Buddha, and its possession, like the Sacred
-Sword <span id="fr_135"></span>[2](#fn_134) and Mirror of the Japanese
+Sword <span id="fr_135"></span>[2](#fn_134.md) and Mirror of the Japanese
 Imperial House, brought with it the recognized spiritual headship of the
 whole Buddhist world. Neither Balkh, nor Peshawur, nor any other city
 that the Scythian king might choose for his capital, could hope to be
@@ -164,11 +164,11 @@ with Chinese authorities, he was reasoned into belief by Pārśva, or
 Punyayaśas. These two men were As’vaghosha's immediate predecessors in
 the list of Patriarchs. Of the five lists given by Suzuki, three have
 Pārśva, Punyayaśas, As’vaghosha as consecutive Patriarchs; two omit
-Punyayaśas, and go straight from Pārśva to [As’vaghosha](errata.htm#4).
+Punyayaśas, and go straight from Pārśva to [As’vaghosha](errata.htm#4.md).
 It is possible that Pārśva and Punyayaśas are one and the same person.
 
 It may be that there is some truth in each of these stories. As’vaghosha
-was a poet, <span id="fr_136"></span>[1](#fn_135) and his poetical
+was a poet, <span id="fr_136"></span>[1](#fn_135.md) and his poetical
 imagination may have been awakened and turned to Buddhism by the song of
 a bird. He would be neither the first nor the last man whose conversion
 has been due to a bird's song or a beautiful piece of scenery. Thus
@@ -179,7 +179,7 @@ the first idealist that has found his dreams destroyed by the
 disappointments of the actualities. And yet we may imagine that in this
 period of his life he may still have done good service to his new faith
 by the publication of the *Vajrasuci*, <span
-id="fr_137"></span>[2](#fn_136) in which he combats the mistaken Hindu
+id="fr_137"></span>[2](#fn_136.md) in which he combats the mistaken Hindu
 theory of caste.
 
 So far we may presume his literary activity to have gone in his Benares
@@ -189,14 +189,14 @@ himself, in the dominions
 <span id="page_102">p. 102</span>
 
 of the conqueror, among what M. Sylvain Levi <span
-id="fr_138"></span>[1](#fn_137) calls "des cultes, des rites, des usages
+id="fr_138"></span>[1](#fn_137.md) calls "des cultes, des rites, des usages
 inconnues." His new companions are still Buddhists, but they have
 brought with them from Bactria, Turkestan, Khotan, new ideas, foreign to
 the Hīnayānists of Benares. Again his imagination is kindled; he
 recognizes in Pārśva a dialectician greater than himself, in Aryadeva,
 the master of a magic more powerful than any that he knows of, and he
 accepts the new and enlarged faith, and becomes its first great
-exponent. <span id="fr_139"></span>[2](#fn_138)
+exponent. <span id="fr_139"></span>[2](#fn_138.md)
 
 In truth, there were, in germ, in the new Buddhism which was then coming
 into shape in the Indus valley, three modes of expression which must all
@@ -232,7 +232,7 @@ will assuredly be born there. Thus always seeing Buddhas there, their
 faith will be strengthened, and they will never relapse therefrom.
 Receiving instruction in the doctrine, and recognizing the Dharmakāya of
 the Buddha, they will by gradual discipline be able to enter upon the
-state of truth." <span id="fr_140"></span>[1](#fn_139)
+state of truth." <span id="fr_140"></span>[1](#fn_139.md)
 
 It is surely significant that at this particular period in the world's
 history the very first book which describes itself definitely as
@@ -247,35 +247,35 @@ an active member, of Kanishka's Great Council which took place at
 Jhālamdara early in the second century. We may therefore, with a certain
 amount of confidence, place As’vaghosha about the year A.D. 80 or 90,
 some twenty or thirty years after St. Thomas, and about the same period
-before Kanishka's Council. <span id="fr_141"></span>[1](#fn_140)
+before Kanishka's Council. <span id="fr_141"></span>[1](#fn_140.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_127"></span>[96:1](chj13.htm#fr_128) It is noteworthy that
+<span id="fn_127"></span>[96:1](chj13.htm#fr_128.md) It is noteworthy that
 there are great discrepancies in these lists. Suzuki ("Awakening of the
 Faith," p. 33) quotes five lists. In most of them As’vaghosha comes
 about eleventh or twelfth, with Nāgārjuna thirteenth or fourteenth. But
 in the list given by the Sarvāstivādins As’vaghosha is 12 and Nāgārjuna
 34.
 
-<span id="fn_128"></span>[97:1](chj13.htm#fr_129) See translation of the
+<span id="fn_128"></span>[97:1](chj13.htm#fr_129.md) See translation of the
 *Shōshinge* in "Shinran and His Work."
 
-<span id="fn_129"></span>[97:2](chj13.htm#fr_130) "As’vaghosha's
+<span id="fn_129"></span>[97:2](chj13.htm#fr_130.md) "As’vaghosha's
 Awakening of Faith." Chicago, Open Court.
 
-<span id="fn_130"></span>[98:1](chj13.htm#fr_131) Chinese, *Maming;*
+<span id="fn_130"></span>[98:1](chj13.htm#fr_131.md) Chinese, *Maming;*
 Japanese, *Memyō*. As’vaghosha means the Neighing Horse, and it is
 striking that he is in certain Japanese books connected with the "White
 Horse," which is one of the forms he is said to assume, *e.g.* in
 amulets.
 
-<span id="fn_131"></span>[98:2](chj13.htm#fr_132) Smith, "Early History
+<span id="fn_131"></span>[98:2](chj13.htm#fr_132.md) Smith, "Early History
 of India."
 
-<span id="fn_132"></span>[99:1](chj13.htm#fr_133) The "compassionate
+<span id="fn_132"></span>[99:1](chj13.htm#fr_133.md) The "compassionate
 fowl" I have found in Japanese sources, besides those mentioned by
 Suzuki. It is said that As’vaghosha not only appeared in the forms of a
 thousand white horses, but that he also caused a thousand white birds to
@@ -284,14 +284,14 @@ said of him that he was a manifestation or temporary incarnation of Dai
 Kōmyō Nyorai, "the great Tathāgata of Light," an expression which some
 explain as Vairoc’ana, others as Amitābha.
 
-<span id="fn_133"></span>[100:1](chj13.htm#fr_134) I will remind Celtic
+<span id="fn_133"></span>[100:1](chj13.htm#fr_134.md) I will remind Celtic
 readers of the Welsh tradition preserved in *Barddas* that their ancient
 religion came to them from Taprobane, or Ceylon. In that case, it is
 within the bounds of possibility that the Arthurian legend may have been
 an adaptation of the Indian one, with Arthur as S’akyamuni, and Modred
 as Devadatta.
 
-<span id="fn_134"></span>[100:2](chj13.htm#fr_135) In Japan, the
+<span id="fn_134"></span>[100:2](chj13.htm#fr_135.md) In Japan, the
 possession of the sword, mirror, and jewel makes their owner the
 legitimate sovereign. When the empire was for a few years divided
 between two rival lines, the legitimate line was recognized by these
@@ -301,22 +301,22 @@ for centuries (can it have been in Japan?), and was discovered
 accidentally and brought to Attila. The possession of this sword made
 Attila the recognized chieftain of all the Huns.
 
-<span id="fn_135"></span>[101:1](chj13.htm#fr_136) As’vaghosha's great
+<span id="fn_135"></span>[101:1](chj13.htm#fr_136.md) As’vaghosha's great
 poem is the *Buddhacarita*, of which there is a translation in *S.B.E.*,
 vol. xix., but there are some other minor poems as well, in praise of
 Amida.
 
-<span id="fn_136"></span>[101:2](chj13.htm#fr_137) See *Journal
+<span id="fn_136"></span>[101:2](chj13.htm#fr_137.md) See *Journal
 Asiatique*, Ser. X. vol. xii. p. 1 (July, 1908).
 
-<span id="fn_137"></span>[102:1](chj13.htm#fr_138) See *Journal
+<span id="fn_137"></span>[102:1](chj13.htm#fr_138.md) See *Journal
 Asiatique*, Ser. X., vol. xii. p. 1.
 
-<span id="fn_138"></span>[102:2](chj13.htm#fr_139) As’vaghosha's great
+<span id="fn_138"></span>[102:2](chj13.htm#fr_139.md) As’vaghosha's great
 works are the "Awakening of Faith" and the "Book of Great Glory." See
 Suzuki, *op. cit.*
 
-<span id="fn_139"></span>[103:1](chj13.htm#fr_140) Suzuki, *op. cit.*,
+<span id="fn_139"></span>[103:1](chj13.htm#fr_140.md) Suzuki, *op. cit.*,
 p. 145. It is not known what Sūtra is here mentioned, but it is
 generally supposed to be the Sukhāvati Vyūha. If so, this is the
 earliest mention of the book, as it is also the earliest mention of the
@@ -335,11 +335,11 @@ The Dharmakaya is that spiritual body of Buddha which is capable of
 being spiritually present everywhere. The conception is not unlike that
 of the Christian "Real Presence" of Christ.
 
-<span id="fn_140"></span>[104:1](chj13.htm#fr_141) I would refer my
+<span id="fn_140"></span>[104:1](chj13.htm#fr_141.md) I would refer my
 readers to Professor Anesaki's article on As’vaghosha in vol. i. of
 Hasting's Encyclopædia of Religion and Philosophy, and to a long article
 by M. Sylvain in the *Journal Asiatique* for July and August, 1908.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Nāgārjuna](chj14)
+[Next: Chapter XII. Nāgārjuna](chj14.md)

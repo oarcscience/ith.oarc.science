@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc05)  [Next](bosc07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc05)  [Next](bosc07.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ and the figure upon the earth. The leader then gave a jump, springing
 
 <span id="img_tobet"></span> [![An Indian Dressed in the
 ''Tobet''](tn/tobet.jpg)  
-Click to enlarge](img/tobet.jpg)  
+Click to enlarge](img/tobet.jpg.md)  
 An Indian Dressed in the ''Tobet''  
 
  
@@ -158,4 +158,4 @@ to be faithful, or the same punishment would attend him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Obedience and Subjection to Their Captain](bosc07)
+[Next: Chapter V. Obedience and Subjection to Their Captain](bosc07.md)

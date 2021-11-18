@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft05)  [Next](geft07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft05)  [Next](geft07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -211,7 +211,7 @@ penalty.'
 Then he went on to the place where the man and woman were sitting on the
 handle of the axe. They said: 'We promised thee an answer; hearken unto
 our words. We loved each other too well on earth, and it is the same
-with us here.' <span id="fr_4"></span>[1](#fn_4)
+with us here.' <span id="fr_4"></span>[1](#fn_4.md)
 
 Then he came to the two seated on the bullock skin, which was not big
 enough for them. They said: 'We promised thee an answer; hearken unto
@@ -229,10 +229,10 @@ deliverer.
 
 ### Footnotes
 
-<span id="fn_4"></span>[21:1](geft06.htm#fr_4) Cf. *Talmud* (Polano's
+<span id="fn_4"></span>[21:1](geft06.htm#fr_4.md) Cf. *Talmud* (Polano's
 translation), p. 290.--'While our love was strong we lay on the edge of
 a sword, now a couch sixty yards wide is too narrow for us.'
 
 ------------------------------------------------------------------------
 
-[Next: V. Fate](geft07)
+[Next: V. Fate](geft07.md)

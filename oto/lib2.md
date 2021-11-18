@@ -1,11 +1,11 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Sacred texts](../index)  [Thelema](index) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Sacred texts](../index)  [Thelema](index.md) 
 
 ------------------------------------------------------------------------
 
 This Epistle first appeared in The Equinox III(1) (Detroit: Universal,
 1919).  
-The quotations are from [Liber Legis-The Book of the Law](engccxx).-H.B.
+The quotations are from [Liber Legis-The Book of the Law](engccxx.md).-H.B.
 
 Copyright (c) Ordo Templi Orientis
 

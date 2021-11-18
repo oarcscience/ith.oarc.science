@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar161) [Next](gbar163)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar161) [Next](gbar163.md)
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ God will.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar163)
+[Next](gbar163.md)

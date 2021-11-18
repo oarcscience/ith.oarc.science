@@ -1,10 +1,10 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](cap08) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](cap08.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_10"></span> [![](tn/10.jpg)  
-Click to enlarge](img/10.jpg)  
+Click to enlarge](img/10.jpg.md)  
 The Marriage Feast
 
 # Part VIII

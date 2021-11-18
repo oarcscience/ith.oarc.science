@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth062)  [Next](toth064) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth062)  [Next](toth064.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 60. THE COYOTE AND THE BÁLÖLÖOKONG <span id="fr_128"></span>[1](#fn_126) (WATER SERPENT).
+## 60. THE COYOTE AND THE BÁLÖLÖOKONG <span id="fr_128"></span>[1](#fn_126) (WATER SERPENT.md).
 
 Alíksai! The Oraíbis were living in their village. There were many of
 them. The Bálölöokong was living at Flute Spring (Lânangva), west of the
@@ -52,9 +52,9 @@ river and tried to swim across, but perished.
 
 ### Footnotes
 
-<span id="fn_126"></span>[187:1](toth063.htm#fr_128) Told by
+<span id="fn_126"></span>[187:1](toth063.htm#fr_128.md) Told by
 Pühü'nömtiwa (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 61. Bálölöokongwuu and the Coyote](toth064)
+[Next: 61. Bálölöokongwuu and the Coyote](toth064.md)

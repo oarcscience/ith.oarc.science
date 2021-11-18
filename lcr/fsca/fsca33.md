@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca32)  [Next](fsca34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca32)  [Next](fsca34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -45,7 +45,7 @@ are thus described by Nicholas Upton: "*Scutum rubeum, in quo habuit
 trium leonum peditantium corpora, usque ad collum cum corporibus humanis
 superius, aa modum signi Sagittarii, de auro*," In this, as in some
 
-<span id="img_14200"></span> ![The Sagittary—Centaur.](img/14200.jpg)
+<span id="img_14200"></span> ![The Sagittary—Centaur.](img/14200.jpg.md)
 
 other early examples, it is represented as half man, half lion.
 
@@ -92,7 +92,7 @@ Sir John de Mandeville in his travels (printed by Wynken de Worde,
 
 |                                                       |
 |-------------------------------------------------------|
-| ![Ipotane, from Mandeville's travels.](img/14400.jpg) |
+| ![Ipotane, from Mandeville's travels.](img/14400.jpg.md) |
 
 "ben many Ipotanes that dwellen sometime in the water and sometime on
 the land; and thei ben half men and half hors and thei eten men when
@@ -122,7 +122,7 @@ the complete human figure conjoined to the hinder part of a stag (or
 horse). This is alternated
 
 <span id="img_14500"></span> ![Compound figures, gold necklace, Musée
-Cluny, Paris.](img/14500.jpg)
+Cluny, Paris.](img/14500.jpg.md)
 
 with another compound figure, human and bird, holding up two animals by
 the tails, both subjects, each in their own way, suggestive of the fleet
@@ -142,7 +142,7 @@ still existing barbarism of the Early Pelasgian period. This may be the
 reason why Greek art in its prime directed itself so especially to this
 subject.
 
-<span id="img_14600"></span> ![Centaur, Greek sculpture](img/14600.jpg)
+<span id="img_14600"></span> ![Centaur, Greek sculpture](img/14600.jpg.md)
 
 The origin of this contest is referred to the marriage feast of
 Pirithous and Hippodamia, to which the principal centaurs were invited.
@@ -175,4 +175,4 @@ bull.
 
 ------------------------------------------------------------------------
 
-[Next: The Griffin](fsca34)
+[Next: The Griffin](fsca34.md)

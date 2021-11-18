@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe042)  [Next](prwe044) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe042)  [Next](prwe044.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ be remembered.
 
 ------------------------------------------------------------------------
 
-[Next: How Joan Lost the Sight of her Eye](prwe044)
+[Next: How Joan Lost the Sight of her Eye](prwe044.md)

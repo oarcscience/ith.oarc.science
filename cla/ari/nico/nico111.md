@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico110) 
-[Next](nico112) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico110.md) 
+[Next](nico112.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ things that are said about pleasure and pain.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4. Definition of pleasure](nico112)
+[Next: Chapter 4. Definition of pleasure](nico112.md)

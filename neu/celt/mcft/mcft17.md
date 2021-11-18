@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft16)  [Next](mcft18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft16)  [Next](mcft18.md) 
 
 ------------------------------------------------------------------------
 
@@ -253,4 +253,4 @@ and ready in every enterprise he would place before them.
 
 ------------------------------------------------------------------------
 
-[Next: How Cormac Mac Art went to Faery](mcft18)
+[Next: How Cormac Mac Art went to Faery](mcft18.md)

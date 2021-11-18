@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](dwf08)  [Next](dwf10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](dwf08)  [Next](dwf10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7C6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7C6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Devil Worship in France*, by A.E. Waite, \[1896\], at Intangible
 Textual Heritage
 
@@ -119,7 +119,7 @@ and among them was Gaëtano Carbuccia, an Italian,
 <span id="page_102">p. 102</span>
 
 who was originally a silk-merchant, but owing to Japanese competition,
-had been forced [to](errata.htm#0) change his métier, and was now a
+had been forced [to](errata.htm#0.md) change his métier, and was now a
 dealer in curiosities. His numerous commercial voyages had made them
 well acquainted with each other, but on the present occasion Carbuccia
 presented an appearance which alarmed his friend; a *gaillard grand et
@@ -568,7 +568,7 @@ in their embraces, while the music of flute-playing fakirs alone
 intervened to prevent his instant death. He passed through this trying
 encounter with a valour which amazed himself, persisted in prolonging
 the ceremony, and otherwise proved himself a man of such
-[extraordinary](errata.htm#1) [mettle](errata.htm#2) that he earned
+[extraordinary](errata.htm#1) [mettle](errata.htm#2.md) that he earned
 universal respect and received the most flattering testimonials even
 from Phileas Walder. That the serpents were undoubtedly venomous was
 afterwards proved upon the person of one of the natives present, who,
@@ -1329,4 +1329,4 @@ surrender its colours.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Dealings With Diana](dwf10)
+[Next: Chapter VIII. Dealings With Diana](dwf10.md)

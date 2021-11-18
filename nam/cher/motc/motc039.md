@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc038) 
-[Next](motc040) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc038.md) 
+[Next](motc040.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ long bill as a reward.
 
 ------------------------------------------------------------------------
 
-[Next: 40. How The Partridge Got His Whistle](motc040)
+[Next: 40. How The Partridge Got His Whistle](motc040.md)

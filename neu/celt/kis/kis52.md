@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis51)  [Next](kis53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis51)  [Next](kis53.md) 
 
 ------------------------------------------------------------------------
 
@@ -176,4 +176,4 @@ They sat at the supper-board long, and Morag told:
 
 ------------------------------------------------------------------------
 
-[Next: Part IV: The Story of Morag](kis53)
+[Next: Part IV: The Story of Morag](kis53.md)

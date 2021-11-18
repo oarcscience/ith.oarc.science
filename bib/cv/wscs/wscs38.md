@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs37) 
-[Next](wscs39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs37.md) 
+[Next](wscs39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -483,4 +483,4 @@ holiest truths were inculcated by pagan philosophers."
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXIV: The Three Pillars of the Christian Faith—Miracles,
-Prophecies, and Precepts](wscs39)
+Prophecies, and Precepts](wscs39.md)

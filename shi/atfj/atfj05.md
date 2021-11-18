@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj04)  [Next](atfj06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj04)  [Next](atfj06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_04"></span> <span align="CENTER"> [![4. Shimizutani. The
 Servants find their Mistress Lying Insensible](tn/04.jpg)  
-Click to enlarge](img/04.jpg)  
+Click to enlarge](img/04.jpg.md)  
 4. Shimizutani. The Servants find their Mistress Lying Insensible  
 </span>
 
 ### III
 
-### GHOST OF THE VIOLET WELL <span id="fr_10"></span>[1](#fn_10)
+### GHOST OF THE VIOLET WELL <span id="fr_10"></span>[1](#fn_10.md)
 
 IN the wild province of Yamato, or very near to its borders, is a
 beautiful mountain known as Yoshino yama. It is not only known for its
@@ -36,7 +36,7 @@ Near Yoshino mountain lay another, known as Tsubosaka; and between them
 is the Valley of Shimizutani, in which is the Violet Well.
 
 At the approach of spring in this tani <span
-id="fr_11"></span>[2](#fn_11) the grass assumes a perfect emerald green,
+id="fr_11"></span>[2](#fn_11.md) the grass assumes a perfect emerald green,
 while moss grows luxuriantly over rocks and boulders. Towards the end of
 April great patches of deep-purple wild violets show up in the lower
 parts of the valley, while up the sides pink and scarlet azaleas grow in
@@ -202,7 +202,7 @@ Valley of the Violet Well again.
 
 'Sir,' answered O Matsu, 'he is Doctor Yoshisawa, a very handsome young
 man, of most courtly manners; but he is of low birth, being only of the
-eta. <span id="fr_12"></span>[1](#fn_12) Please think, master, of my
+eta. <span id="fr_12"></span>[1](#fn_12.md) Please think, master, of my
 young mistress's burning heart, full of love for the man who saved her
 life—and no wonder, for he is very handsome and has the manners of a
 proud samurai. The only cure for your daughter, sir, is to be allowed to
@@ -269,18 +269,18 @@ hear the sound of a young man weeping in the Valley of Shimizutani.
 
 ### Footnotes
 
-<span id="fn_10"></span>[19:1](atfj05.htm#fr_10) Told to me by
+<span id="fn_10"></span>[19:1](atfj05.htm#fr_10.md) Told to me by
 Shofukutei Fukuga.
 
-<span id="fn_11"></span>[19:2](atfj05.htm#fr_11) Hollow.
+<span id="fn_11"></span>[19:2](atfj05.htm#fr_11.md) Hollow.
 
-<span id="fn_12"></span>[24:1](atfj05.htm#fr_12) The eta are the lowest
+<span id="fn_12"></span>[24:1](atfj05.htm#fr_12.md) The eta are the lowest
 people or caste in Japan—skinners and killers of animals.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: IV. Ghost Story of the Flute's Tomb](atfj06)
+[Next: IV. Ghost Story of the Flute's Tomb](atfj06.md)
 
 </div>

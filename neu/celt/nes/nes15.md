@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes14)  [Next](nes16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes14)  [Next](nes16.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![W](img/winit.jpg) |
+| ![W](img/winit.jpg.md) |
 
 ATERKELPIE was a creature that lived in the deep pools of rivers and
 streams. He had commonly the form of a black horse. He appeared at
@@ -62,11 +62,11 @@ the herd. He looked, and, in the twinkling of an eye, he saw an old man
 with long grey hair and a long grey beard. The horse he was riding on
 immediately started off, and for miles, over rocks and rough road,
 galloped at full speed till home was reached. <span
-id="fr_52"></span>[1](#fn_52)
+id="fr_52"></span>[1](#fn_52.md)
 
 In many of the deep pools of the streams and rivers guardian-demons were
 believed to reside, and it was dangerous to bathe in them. <span
-id="fr_53"></span>[2](#fn_53)
+id="fr_53"></span>[2](#fn_53.md)
 
 Sometimes, when a castle or mansion was being sacked, a faithful servant
 or two contrived to rescue the plate-chest, and to cast it into a deep
@@ -92,12 +92,12 @@ awe, as if it were bloodthirsty and a living creature.
 
 ### Footnotes
 
-<span id="fn_52"></span>[67:1](nes15.htm#fr_52) Cf. Henderson, pp. 272,
+<span id="fn_52"></span>[67:1](nes15.htm#fr_52.md) Cf. Henderson, pp. 272,
 273.
 
-<span id="fn_53"></span>[67:2](nes15.htm#fr_53) *Songs of the Russian
+<span id="fn_53"></span>[67:2](nes15.htm#fr_53.md) *Songs of the Russian
 People*, pp. 148, 151, 152.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Ghosts](nes16)
+[Next: Chapter XIII. Ghosts](nes16.md)

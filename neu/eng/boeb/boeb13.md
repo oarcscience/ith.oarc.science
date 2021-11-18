@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb12)  [Next](boeb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb12)  [Next](boeb14.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Ane mantle of the burning gowd
 
 <span id="page_90">p. 90</span>
 
-Gowden graith'd <span id="fr_0"></span>[1](#fn_0) his horse before,  
+Gowden graith'd <span id="fr_0"></span>[1](#fn_0.md) his horse before,  
   And siller shod behind;  
 The horse young Waters rade upon  
   Was fleeter than the wind.
@@ -93,8 +93,8 @@ Young Waters he did dee.
 
 ### Footnotes
 
-<span id="fn_0"></span>[90:1](boeb13.htm#fr_0) *Graitih'd*, girthed.
+<span id="fn_0"></span>[90:1](boeb13.htm#fr_0.md) *Graitih'd*, girthed.
 
 ------------------------------------------------------------------------
 
-[Next: Flodden Field](boeb14)
+[Next: Flodden Field](boeb14.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb04)  [Next](yefb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb04)  [Next](yefb06.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_9">p. 9</span>
 
-THE DRAGON OF THE NORTH <span id="fr_1"></span>[1](#fn_1)
+THE DRAGON OF THE NORTH <span id="fr_1"></span>[1](#fn_1.md)
 
 Very long ago, as old people have told me, there lived a terrible
 monster, who came out of the North, and laid waste whole tracts of
@@ -92,7 +92,7 @@ without finding what he seeks.  He is trying to find King Solomon's lost
 ring.'
 
 The other bird answered, 'He will have to seek help from the
-*Witch-maiden*, <span id="fr_2"></span>[1](#fn_2) who will doubtless be
+*Witch-maiden*, <span id="fr_2"></span>[1](#fn_2.md) who will doubtless be
 able to put him on the right track.  If she has not got the ring
 herself, she knows well enough who has it.'
 
@@ -510,15 +510,15 @@ the pretty witch-maiden?
 
 ### Footnotes
 
-<span id="fn_1"></span>[9:1](yefb05.htm#fr_1) 'Der Norlands Drache,'
+<span id="fn_1"></span>[9:1](yefb05.htm#fr_1.md) 'Der Norlands Drache,'
 from *Esthnische* *Mahrchen*. Kreutzwald.
 
-<span id="fn_2"></span>[10:1](yefb05.htm#fr_2) Hollenmädchen.
+<span id="fn_2"></span>[10:1](yefb05.htm#fr_2.md) Hollenmädchen.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Story of the Emperor's New Clothes](yefb06)
+[Next: Story of the Emperor's New Clothes](yefb06.md)
 
 </div>

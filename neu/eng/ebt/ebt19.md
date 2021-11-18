@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt18)  [Next](ebt20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt18)  [Next](ebt20.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Tupsley, Hogg's Mount, Hereford,
 <span id="img_pl09"></span>
 
 [![PLATE IX. MARK-STONES.](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 PLATE IX. MARK-STONES.  
 
 <table>
@@ -36,7 +36,7 @@ PLATE IX. MARK-STONES.
 <span id="img_pl10"></span>
 
 [![PLATE X. TRANSITION OF MARK-STONE TO CROSS.](tn/pl10.jpg)  
-Click to enlarge](img/pl10.jpg)  
+Click to enlarge](img/pl10.jpg.md)  
 PLATE X. TRANSITION OF MARK-STONE TO CROSS.  
 
 <table>
@@ -89,4 +89,4 @@ Tinker's Hill, and Tinker's Cross have a similar meaning.
 
 ------------------------------------------------------------------------
 
-[Next: Hereford Trackways](ebt20)
+[Next: Hereford Trackways](ebt20.md)

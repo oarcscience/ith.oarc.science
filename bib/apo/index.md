@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 ------------------------------------------------------------------------
 
-[Jump to Contents](#index)
+[Jump to Contents](#index.md)
 
 The Apocrypha refer to texts which are left out of officially sanctioned
 versions ('canon') of the Bible. The term means 'things hidden away,'
@@ -21,7 +21,7 @@ the rest of the text. In this case they are also called
 page are all Deuterocanonical.
 
 Jerome rejected the Deuterocanonical books when he was translating the
-Bible into Latin circa 450 CE, (see the [Vulgate](../vul/index)). This
+Bible into Latin circa 450 CE, (see the [Vulgate](../vul/index).md). This
 was because no Hebrew version of these texts could be found, even though
 they were present in the Greek Old Testament (the Septuagint). However,
 they eventually were accepted by the Church, and most of them remained
@@ -46,25 +46,25 @@ contemporary Bibles.
 There are many other apocryphal books, which do not fall into the
 'Deuterocanonical' category, such as the many additional New Testament
 Gospels, and the apocalyptic book of Enoch. Some of these can be found
-in the [Apocrypha section](../../chr/apo/index).
+in the [Apocrypha section](../../chr/apo/index.md).
 
 <span id="index"></span>
 
 ------------------------------------------------------------------------
 
-[1 Esdras](es1)  
-[2 Esdras](es2)  
-[Additions to Esther](aes)  
-[1 Macabees](ma1)  
-[2 Macabees](ma2)  
-[Tobias](tob)  
-[Judith](jdt)  
-[Wisdom](wis)  
-[Sirach](sir)  
-[Baruch](bar)  
-[Epistle of Jeremiah](epj)  
-[Susanna](sus)  
-[Prayer of Azariah](aza)  
-[Prayer of Manasseh](man)  
-[Bel and the Dragon](bel)  
-[Laodiceans](lao)  
+[1 Esdras](es1.md)  
+[2 Esdras](es2.md)  
+[Additions to Esther](aes.md)  
+[1 Macabees](ma1.md)  
+[2 Macabees](ma2.md)  
+[Tobias](tob.md)  
+[Judith](jdt.md)  
+[Wisdom](wis.md)  
+[Sirach](sir.md)  
+[Baruch](bar.md)  
+[Epistle of Jeremiah](epj.md)  
+[Susanna](sus.md)  
+[Prayer of Azariah](aza.md)  
+[Prayer of Manasseh](man.md)  
+[Bel and the Dragon](bel.md)  
+[Laodiceans](lao.md)  

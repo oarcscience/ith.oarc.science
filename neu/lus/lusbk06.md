@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lusbk05)  [Next](lusbk07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lusbk05)  [Next](lusbk07.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,10 +45,10 @@ A jovial band, the painted galleys ride;
 The net and angle various hands employ,  
 And Moorish timbrels sound the notes of joy.  
 Such was the pomp, when Egypt’s beauteous <span
-id="fr_404"></span>[1](#fn_400) queen  
+id="fr_404"></span>[1](#fn_400.md) queen  
 Bade all the pride of naval show convene,  
 In pleasure’s downy bosom, to beguile  
-Her love-sick warrior: <span id="fr_405"></span>[2](#fn_401) o’er the
+Her love-sick warrior: <span id="fr_405"></span>[2](#fn_401.md) o’er the
 breast of Nile,  
 Dazzling with gold, the purple ensigns flow’d,  
 And to the lute the gilded barges row’d;  
@@ -69,7 +69,7 @@ And vow’d, that ever while the seas they roam,
 The Lusian fleets should find a bounteous home,  
 And, ever from the gen’rous shore receive  
 Whate’er his port, whate’er his land could give. <span
-id="fr_406"></span>[3](#fn_402)
+id="fr_406"></span>[3](#fn_402.md)
 
 <span id="page_166">p. 166</span>
 
@@ -143,10 +143,10 @@ Like knotted oaks, and from their bases rend
 And tower the mountains to the thund’ring sky,  
 While round their heads the forky lightnings fly;  
 Beneath huge Etna vanquish’d Typhon lies, <span
-id="fr_407"></span>[1](#fn_403)  
+id="fr_407"></span>[1](#fn_403.md)  
 And vomits smoke and fire against the darken’d skies.  
 Here, seems the pictur’d wall possess’d of life:  
-Two gods contending <span id="fr_408"></span>[2](#fn_404) in the noble
+Two gods contending <span id="fr_408"></span>[2](#fn_404.md) in the noble
 strife,
 
 <span id="page_168">p. 168</span>
@@ -154,7 +154,7 @@ strife,
 The choicest boon to humankind to give,  
 Their toils to lighten, or their wants relieve:  
 While Pallas here appears to wave her hand, <span
-id="fr_409"></span>[1](#fn_405)  
+id="fr_409"></span>[1](#fn_405.md)  
 The peaceful olive’s silver boughs expand:  
 Here, while the ocean’s god indignant frown’d,  
 And rais’d his trident from the wounded ground,  
@@ -164,13 +164,13 @@ His wide red nostrils smoke, his eye-balls glare,
 And his fore-hoofs, high pawing, smite the air.
 
   Though wide, and various, o’er the sculptur’d stone <span
-id="fr_410"></span>[2](#fn_406)  
+id="fr_410"></span>[2](#fn_406.md)  
 The feats of gods, and godlike heroes shone;  
 On speed the vengeful demon views no more:  
 Forward he rushes through the golden door,  
 Where ocean’s king, enclos’d with nymphs divine,  
 In regal state receives the king of wine: <span
-id="fr_411"></span>[3](#fn_407)
+id="fr_411"></span>[3](#fn_407.md)
 
 <span id="page_169">p. 169</span>
 
@@ -185,7 +185,7 @@ For all should hear the wrong that touches all."
 Neptune alarm’d, with instant speed commands  
 From ev’ry shore to call the wat’ry bands:  
 Triton, who boasts his high Neptunian race,  
-Sprung from the god by Salacé’s <span id="fr_412"></span>[1](#fn_408)
+Sprung from the god by Salacé’s <span id="fr_412"></span>[1](#fn_408.md)
 embrace,  
 Attendant on his sire the trumpet sounds,  
 Or, through the yielding waves, his herald, bounds:  
@@ -198,7 +198,7 @@ And, on the matted locks black mussels clung;
 <span id="page_170">p. 170</span>
 
 A shell of purple on his head he bore, <span
-id="fr_413"></span>[1](#fn_409)  
+id="fr_413"></span>[1](#fn_409.md)  
 Around his loins no tangling garb he wore,  
 But all was cover’d with the slimy brood,  
 The snaily offspring of the unctuous flood;  
@@ -210,7 +210,7 @@ Wide o’er their shores, where’er their waters flow,
 The wat’ry powers the awful summons know;  
 And instant, darting to the palace hall,  
 Attend the founder of the Dardan wall; <span
-id="fr_414"></span>[2](#fn_410)  
+id="fr_414"></span>[2](#fn_410.md)  
 Old Father Ocean, with his num’rous race  
 Of daughters and of sons, was first in place.  
 Nereus and Doris, from whose nuptials sprung  
@@ -218,13 +218,13 @@ The lovely Nereid train, for ever young,
 Who people ev’ry sea on ev’ry strand,  
 Appear’d, attended with their filial band;  
 And changeful Proteus, whose prophetic mind <span
-id="fr_415"></span>[3](#fn_411)  
+id="fr_415"></span>[3](#fn_411.md)  
 The secret cause of Bacchus’ rage divin’d,  
 Attending, left the flocks, his scaly charge,  
 To graze the bitter, weedy foam at large.  
 In charms of power the raging waves to tame,  
 The lovely spouse of ocean’s sov’reign came. <span
-id="fr_416"></span>[4](#fn_412)  
+id="fr_416"></span>[4](#fn_412.md)  
 From Heaven and Vesta sprung the birth divine,  
 Her snowy limbs bright through the vestments shine.  
 Here, with the dolphin, who persuasive led  
@@ -239,11 +239,11 @@ The same their wedded lord, their love the same;
 The same the brightness of their sparkling eyes,  
 Bright as the sun, and azure as the skies.  
 She, who, the rage of Athamas to shun, <span
-id="fr_418"></span>[1](#fn_414)  
+id="fr_418"></span>[1](#fn_414.md)  
 Plung’d in the billows with her infant son;  
 A goddess now, a god the smiling boy,  
 Together sped; and Glaucus lost to joy, <span
-id="fr_419"></span>[2](#fn_415)  
+id="fr_419"></span>[2](#fn_415.md)  
 Curs’d in his love by vengeful Circé’s hate,  
 Attending, wept his Scylla’s hapless fate.
 
@@ -252,10 +252,10 @@ The ocean gods in solemn council join;
 The goddesses on pearl embroid’ry sat,  
 The gods, on sparkling crystal chairs of state,  
 And, proudly honour’d, on the regal throne,  
-Beside the ocean’s lord, Thyoneus <span id="fr_420"></span>[3](#fn_416)
+Beside the ocean’s lord, Thyoneus <span id="fr_420"></span>[3](#fn_416.md)
 shone.  
 High from the roof the living amber glows, <span
-id="fr_421"></span>[4](#fn_417)  
+id="fr_421"></span>[4](#fn_417.md)  
 High from the roof the stream of glory flows,
 
 <span id="page_172">p. 172</span>
@@ -280,7 +280,7 @@ Your just partition with the gods of heav’n;
 You who, of old unpunish’d never bore  
 The daring trespass of a foreign oar;  
 You who beheld, when Earth’s dread offspring strove <span
-id="fr_422"></span>[1](#fn_418)  
+id="fr_422"></span>[1](#fn_418.md)  
 To scale the vaulted sky, the seat of Jove:  
 Indignant Jove deep to the nether world  
 The rebel band in blazing thunders hurl’d.  
@@ -294,7 +294,7 @@ Where, far from mortal sight his hoary head
 Old Ocean hides, their daring sails they spread,  
 And their glad shouts are echo’d where the roar  
 Of mounting billows only howl’d before.  
-In wonder, silent, ready Boreas <span id="fr_423"></span>[2](#fn_419)
+In wonder, silent, ready Boreas <span id="fr_423"></span>[2](#fn_419.md)
 sees  
 Your passive languor, and neglectful ease;  
 Ready, with force auxiliar, to restrain  
@@ -304,7 +304,7 @@ When his black whirlwinds o’er the ocean roll’d,
 
 <span id="page_173">p. 173</span>
 
-And rent the Mynian <span id="fr_424"></span>[1](#fn_420) sails, whose
+And rent the Mynian <span id="fr_424"></span>[1](#fn_420.md) sails, whose
 impious pride  
 First brav’d their fury, and your power defied.  
 Nor deem that, fraudful, I my hope deny;  
@@ -313,7 +313,7 @@ How high my honours on the Indian shore!
 How soon these honours must avail no more!  
 Unless these rovers, who with doubled shame  
 To stain my conquests, bear my vassal’s <span
-id="fr_425"></span>[2](#fn_421) name,  
+id="fr_425"></span>[2](#fn_421.md) name,  
 Unless they perish on the billowy way.  
 Then rouse, ye gods, and vindicate your sway.  
 The powers of heaven, in vengeful anguish, see  
@@ -400,9 +400,9 @@ The twelve of England give the noble theme.
 Gave war’s full splendour to the Lusian throne,  
 In haughty England, where the winter spreads  
 His snowy mantle o’er the shining meads, <span
-id="fr_426"></span>[1](#fn_422)  
+id="fr_426"></span>[1](#fn_422.md)  
 The seeds of strife the fierce Erynnis sows; <span
-id="fr_427"></span>[2](#fn_423)  
+id="fr_427"></span>[2](#fn_423.md)  
 The baleful strife from court dissension rose.  
 With ev’ry charm adorn’d, and ev’ry grace,  
 That spreads its magic o’er the female face,  
@@ -416,7 +416,7 @@ Ah, base the sport that lightly dares defame
 The sacred honour of a lady’s name!  
 What knighthood asks the proud accusers yield,  
 And, dare the damsels’ champions to the field. <span
-id="fr_428"></span>[3](#fn_424)
+id="fr_428"></span>[3](#fn_424.md)
 
 <span id="page_176">p. 176</span>
 
@@ -447,7 +447,7 @@ From Lusitania’--for, on Lusian ground
 Brave Lancaster had strode with laurel crown’d;  
 Had mark’d how bold the Lusian heroes shone,  
 What time he claim’d the proud Castilian throne, <span
-id="fr_429"></span>[1](#fn_425)  
+id="fr_429"></span>[1](#fn_425.md)  
 How matchless pour’d the tempest of their might,  
 When, thund’ring at his side, they rul’d the fight:  
 Nor less their ardent passion for the fair,  
@@ -467,7 +467,7 @@ And to the king, my valiant son, commend.’
 He spoke; and twelve of Lusian race he names  
 All noble youths, the champions of the dames.  
 The dames, by lot, their gallant champions choose, <span
-id="fr_430"></span>[2](#fn_426)  
+id="fr_430"></span>[2](#fn_426.md)  
 And each her hero’s name, exulting, views.
 
 <span id="page_178">p. 178</span>
@@ -486,7 +486,7 @@ High on his helm, the envy of his peers,
 Each chosen knight the plume of combat wears.  
 In that proud port, half circled by the wave,  
 Which Portugallia to the nation gave,  
-A deathless name, <span id="fr_431"></span>[1](#fn_427) a speedy sloop
+A deathless name, <span id="fr_431"></span>[1](#fn_427.md) a speedy sloop
 receives  
 The sculptur’d bucklers, and the clasping greaves,  
 The swords of Ebro, spears of lofty size,  
@@ -511,7 +511,7 @@ For yours were conquest, though unshar’d by me.
 <span id="page_179">p. 179</span>
 
 Yet, something more than human warms my breast,  
-And sudden wispers, <span id="fr_432"></span>[1](#fn_428) In our
+And sudden wispers, <span id="fr_432"></span>[1](#fn_428.md) In our
 fortunes blest,  
 Nor envious chance, nor rocks, nor whelmy tide,  
 Shall our glad meeting at the list divide.’
@@ -650,14 +650,14 @@ Sigh’d for the banks of Tagus. Yet, the breast
 Of brave Magricio spurns the thoughts of rest.  
 In Gaul’s proud court he sought the listed plain,  
 In arms, an injur’d lady’s knight again.  
-As Rome’s Corvinus <span id="fr_433"></span>[1](#fn_429) o’er the field
+As Rome’s Corvinus <span id="fr_433"></span>[1](#fn_429.md) o’er the field
 he strode,  
 And, on the foe’s huge cuirass proudly trod.  
 No more by tyranny’s proud tongue revil’d,  
 The Flandrian countess on her hero smil’d. <span
-id="fr_434"></span>[2](#fn_430)  
+id="fr_434"></span>[2](#fn_430.md)  
 The Rhine another pass’d, and prov’d his might, <span
-id="fr_435"></span>[3](#fn_431)  
+id="fr_435"></span>[3](#fn_431.md)  
 A fraudful German dar’d him to the fight.
 
 <span id="page_183">p. 183</span>
@@ -756,7 +756,7 @@ Not such fierce lightnings blaz’d athwart the flood,
 When, sav’d by Heaven, Deucalion’s vessel rode  
 High o’er the delug’d hills. Along the shore  
 The halcyons, mindful of their fate, deplore; <span
-id="fr_436"></span>[1](#fn_432)  
+id="fr_436"></span>[1](#fn_432.md)  
 As beating round, on trembling wings they fly,  
 Shrill through the storm their woful clamours die.
 
@@ -764,7 +764,7 @@ Shrill through the storm their woful clamours die.
 
 So, from the tomb, when midnight veils the plains,  
 With shrill, faint voice, th’ untimely ghost complains. <span
-id="fr_437"></span>[1](#fn_433)
+id="fr_437"></span>[1](#fn_433.md)
 
 <span id="page_187">p. 187</span>
 
@@ -788,12 +788,12 @@ And now, her black keel strikes the gates of hell;
 Whose will the tempest’s furious madness sways,  
 Who, through the wild waves, ledd’st Thy chosen race,  
 While the high billows stood like walls of brass: <span
-id="fr_438"></span>[1](#fn_434)  
+id="fr_438"></span>[1](#fn_434.md)  
 O Thou, while ocean bursting o’er the world  
 Roar’d o’er the hills, and from the sky down hurl’d  
 Rush’d other headlong oceans; oh, as then  
 The second father of the race of men <span
-id="fr_439"></span>[2](#fn_435)  
+id="fr_439"></span>[2](#fn_435.md)  
 Safe in Thy care the dreadful billows rode,  
 Oh! save us now, be now the Saviour-God!  
 Safe in Thy care, what dangers have we pass’d!  
@@ -822,7 +822,7 @@ And louder roars the doubled thunders rais’d,
 The sky and ocean blending, each on fire,  
 Seem’d as all Nature struggled to expire.  
 When now, the silver star of Love appear’d, <span
-id="fr_440"></span>[1](#fn_436)  
+id="fr_440"></span>[1](#fn_436.md)  
 Bright in the east her radiant front she rear’d;  
 Fair, through the horrid storm, the gentle ray  
 Announc’d the promise of the cheerful day;  
@@ -844,7 +844,7 @@ At strife, who first th’ enamour’d powers to gain,
 Who rule the tempests and the waves restrain:  
 Bright as a starry band the Nereids shone,  
 Instant old Eolus’ sons their presence <span
-id="fr_441"></span>[2](#fn_437) own;
+id="fr_441"></span>[2](#fn_437.md) own;
 
 <span id="page_189">p. 189</span>
 
@@ -866,7 +866,7 @@ She cries, and joyful on the nymphs’ fair hands,
 Th’ Eolian race receive the queen’s commands,  
 And vow, that henceforth her Armada’s sails  
 Should gently swell with fair propitious gales. <span
-id="fr_442"></span>[1](#fn_438)
+id="fr_442"></span>[1](#fn_438.md)
 
 <span id="page_190">p. 190</span>
 
@@ -977,9 +977,9 @@ END OF THE SIXTH BOOK.
 
 ### Footnotes
 
-<span id="fn_400"></span>[165:1](lusbk06.htm#fr_404) Cleopatra.
+<span id="fn_400"></span>[165:1](lusbk06.htm#fr_404.md) Cleopatra.
 
-<span id="fn_401"></span>[165:2](lusbk06.htm#fr_405) Every display of
+<span id="fn_401"></span>[165:2](lusbk06.htm#fr_405.md) Every display of
 eastern luxury and magnificence was lavished in the fishing parties on
 the Nile, with which Cleopatra amused Mark Antony, when at any time he
 showed symptoms of uneasiness, or seemed inclined to abandon the
@@ -993,7 +993,7 @@ to the vast entertainment of the queen, and all the convivial company.
 Octavius was at this time on his march to decide who should be master of
 the world.
 
-<span id="fn_402"></span>[165:3](lusbk06.htm#fr_406) The friendship of
+<span id="fn_402"></span>[165:3](lusbk06.htm#fr_406.md) The friendship of
 the Portuguese and Melindians was of long continuance. Alvaro Cabral,
 the second admiral who made the voyage to India, in an engagement with
 the Moors off the coast of Sofala, took two ships richly freighted from
@@ -1006,9 +1006,9 @@ The Kings of Mombaz and Quiloa, irritated at the alliance with Portugal,
 made several depredations on the subjects of Melinda, who in return were
 effectually revenged by their European allies.
 
-<span id="fn_403"></span>[167:1](lusbk06.htm#fr_407) A giant.
+<span id="fn_403"></span>[167:1](lusbk06.htm#fr_407.md) A giant.
 
-<span id="fn_404"></span>[167:2](lusbk06.htm#fr_408) *Two gods
+<span id="fn_404"></span>[167:2](lusbk06.htm#fr_408.md) *Two gods
 contending*.--According to the fable, Neptune and Minerva disputed the
 honour of giving a name to the city of Athens. They agreed to determine
 the contest by a display of their wisdom and power, in conferring the
@@ -1024,13 +1024,13 @@ fertility of the soil or from the marine situation of Attica. The former
 opinion prevailed, and the town received its name in honour of the
 goddess of the olive-tree--*Athēnē*.
 
-<span id="fn_405"></span>[168:1](lusbk06.htm#fr_409) *While Pallas here
+<span id="fn_405"></span>[168:1](lusbk06.htm#fr_409.md) *While Pallas here
 appears to wave her hand*.--As Neptune struck the earth with his
 trident, Minerva, says the fable, struck the earth with her lance. That
 she waved her hand while the olive boughs spread, is a fine poetical
 attitude, and varies the picture from that of Neptune, which follows.
 
-<span id="fn_406"></span>[168:2](lusbk06.htm#fr_410) *Though wide, and
+<span id="fn_406"></span>[168:2](lusbk06.htm#fr_410.md) *Though wide, and
 various, o’er the sculptur’d stone*.--The description of palaces is a
 favourite topic several times touched upon by the two great masters of
 epic poetry, in which they have been happily imitated by their three
@@ -1042,9 +1042,9 @@ true boldness of poetical colouring. To show to the English reader that
 the Portuguese poet is, in his manner, truly classical, is the intention
 of many of these notes.
 
-<span id="fn_407"></span>[168:3](lusbk06.htm#fr_411) Bacchus.
+<span id="fn_407"></span>[168:3](lusbk06.htm#fr_411.md) Bacchus.
 
-<span id="fn_408"></span>[169:1](lusbk06.htm#fr_412) The description of
+<span id="fn_408"></span>[169:1](lusbk06.htm#fr_412.md) The description of
 Triton, who, as Fanshaw says--
 
 "Was a great nasty clown,"
@@ -1070,7 +1070,7 @@ and fell into a profound sleep, in which condition the Tanagrians
 beheaded him, and afterwards, with great propriety, hung up his body in
 the temple of Bacchus; where, says Pausanias, it continued a long time.
 
-<span id="fn_409"></span>[170:1](lusbk06.htm#fr_413) *A shell of purple
+<span id="fn_409"></span>[170:1](lusbk06.htm#fr_413.md) *A shell of purple
 on his head he bore*.--In the Portuguese--
 
 *Na cabeça por gorra tinha posta  
@@ -1079,22 +1079,22 @@ Huma mui grandé casco de lagosta*.
 <span class="contnote">\[paragraph continues\]</span> Thus rendered by
 Fanshaw--
 
-"He had (for a montera <span id="fr_417"></span>[\*](#fn_413)) on his
+"He had (for a montera <span id="fr_417"></span>[\*](#fn_413).md) on his
 crown  
 The shell of a red lobster overgrown."
 
-<span id="fn_410"></span>[170:2](lusbk06.htm#fr_414) Neptune.
+<span id="fn_410"></span>[170:2](lusbk06.htm#fr_414.md) Neptune.
 
-<span id="fn_411"></span>[170:3](lusbk06.htm#fr_415) *And changeful
+<span id="fn_411"></span>[170:3](lusbk06.htm#fr_415.md) *And changeful
 Proteus, whose prophetic mind*.--The fullest and best account of the
 fable of Proteus is in the fourth Odyssey.
 
-<span id="fn_412"></span>[170:4](lusbk06.htm#fr_416) Thetis.
+<span id="fn_412"></span>[170:4](lusbk06.htm#fr_416.md) Thetis.
 
-<span id="fn_413"></span>[170:\*](lusbk06.htm#fr_417) Montera, the
+<span id="fn_413"></span>[170:\*](lusbk06.htm#fr_417.md) Montera, the
 Spanish word for a huntsman’s cap.
 
-<span id="fn_414"></span>[171:1](lusbk06.htm#fr_418) *She who the rage
+<span id="fn_414"></span>[171:1](lusbk06.htm#fr_418.md) *She who the rage
 of Athamas to shun*.--Ino, the daughter of Cadmus and Hermione, and
 second spouse of Athamas, king of Thebes. The fables of her fate are
 various. That which Camoëns follows is the most common. Athamas, seized
@@ -1105,7 +1105,7 @@ thrown ashore on Megara and that of the son at Corinth. They were
 afterwards deified, the one as a sea goddess, the other as the god of
 harbours.
 
-<span id="fn_415"></span>[171:2](lusbk06.htm#fr_419) *And Glaucus lost
+<span id="fn_415"></span>[171:2](lusbk06.htm#fr_419.md) *And Glaucus lost
 to joy*.--A fisherman, says the fable, who, on eating a certain herb,
 was turned into a sea god. Circé was enamoured of him, and in revenge of
 her slighted love, poisoned the fountain where his mistress usually
@@ -1117,10 +1117,10 @@ The rock Scylla at a distance appears like the statue of a woman. The
 furious dashing of the waves in the cavities, which are level with the
 water, resembles the barking of wolves and dogs.
 
-<span id="fn_416"></span>[171:3](lusbk06.htm#fr_420) Thyoneus, a name of
+<span id="fn_416"></span>[171:3](lusbk06.htm#fr_420.md) Thyoneus, a name of
 Bacchus.
 
-<span id="fn_417"></span>[171:4](lusbk06.htm#fr_421) *High from the roof
+<span id="fn_417"></span>[171:4](lusbk06.htm#fr_421.md) *High from the roof
 the living amber glows*.--
 
          "From the arched roof,  
@@ -1130,17 +1130,17 @@ With naptha and asphaltus, yielded light
 As from a sky."  
                                                MILTON.
 
-<span id="fn_418"></span>[172:1](lusbk06.htm#fr_422) The Titans.
+<span id="fn_418"></span>[172:1](lusbk06.htm#fr_422.md) The Titans.
 
-<span id="fn_419"></span>[172:2](lusbk06.htm#fr_423) The north wind.
+<span id="fn_419"></span>[172:2](lusbk06.htm#fr_423.md) The north wind.
 
-<span id="fn_420"></span>[173:1](lusbk06.htm#fr_424) *And rent the
+<span id="fn_420"></span>[173:1](lusbk06.htm#fr_424.md) *And rent the
 Mynian sails*.--The sails of the Argonauts, inhabitants of Mynia.
 
-<span id="fn_421"></span>[173:2](lusbk06.htm#fr_425) See the first note
+<span id="fn_421"></span>[173:2](lusbk06.htm#fr_425.md) See the first note
 on the first book of the Lusiad.
 
-<span id="fn_422"></span>[175:1](lusbk06.htm#fr_426)
+<span id="fn_422"></span>[175:1](lusbk06.htm#fr_426.md)
 
 *In haughty England, where the winter spreads  
 His snowy mantle o’er the shining meads*.--
@@ -1160,10 +1160,10 @@ in place of the eternal snows ascribed to his country:--
 "In merry England, which (from cliffs that stand  
 Like hills of snow) once Albion’s name did git."
 
-<span id="fn_423"></span>[175:2](lusbk06.htm#fr_427) Eris, or Discordia,
+<span id="fn_423"></span>[175:2](lusbk06.htm#fr_427.md) Eris, or Discordia,
 the goddess of contention, VIRGIL, Æneid ii. 337.--*Ed*.
 
-<span id="fn_424"></span>[175:3](lusbk06.htm#fr_428)
+<span id="fn_424"></span>[175:3](lusbk06.htm#fr_428.md)
 
 *What knighthood asks, the proud accusers yield,  
 And, dare the damsels’ champions to the field*.--
@@ -1207,7 +1207,7 @@ to overpower them, and they tell stories to entertain one another. For
 beautiful, picturesque simplicity there is no sea-scene equal to this in
 the Odyssey, or Æneid.
 
-<span id="fn_425"></span>[177:1](lusbk06.htm#fr_429) *What time he
+<span id="fn_425"></span>[177:1](lusbk06.htm#fr_429.md) *What time he
 claim’d the proud Castilian throne*.--John of Gaunt, duke of Lancaster,
 claimed the crown of Castile in the right of his wife, Donna Constantia,
 daughter of Don Pedro, the late king. Assisted by his son-in-law, John
@@ -1216,14 +1216,14 @@ at the city of St. Jago de Compostella. He afterwards relinquished his
 pretensions, on the marriage of his daughter, Catalina, with the infant,
 Don Henry of Castile.
 
-<span id="fn_426"></span>[177:2](lusbk06.htm#fr_430) *The dames by lot
+<span id="fn_426"></span>[177:2](lusbk06.htm#fr_430.md) *The dames by lot
 their gallant champions choose*.--The ten champions, who in the fifth
 book of Tasso’s Jerusalem are sent by <span id="page_178">p. 178</span>
 Godfrey for the assistance of Armida, are chosen by lot. Tasso, who had
 read the Lusiad, and admired its author, undoubtedly had the Portuguese
 poet in his eye.
 
-<span id="fn_427"></span>[178:1](lusbk06.htm#fr_431)
+<span id="fn_427"></span>[178:1](lusbk06.htm#fr_431.md)
 
 *In that proud port half circled by the wave,  
 Which Portugallia to the nation gave,  
@@ -1232,7 +1232,7 @@ A deathless name*.--
 <span class="contnote">\[paragraph continues\]</span> Oporto, called by
 the Romans *Calle*. Hence Portugal.
 
-<span id="fn_428"></span>[179:1](lusbk06.htm#fr_432)
+<span id="fn_428"></span>[179:1](lusbk06.htm#fr_432.md)
 
 *Yet something more than human warms my breast,  
 And sudden whispers*.--
@@ -1247,14 +1247,14 @@ if my spirit truly divine." Thus rendered by Fanshaw--
 
 *But, in my aug’ring ear a bird doth sing*.
 
-<span id="fn_429"></span>[182:1](lusbk06.htm#fr_433) *As Rome’s
+<span id="fn_429"></span>[182:1](lusbk06.htm#fr_433.md) *As Rome’s
 Corvinus*.--Valerius Maximus, a Roman tribune, who fought and slew a
 Gaul of enormous stature, in single combat. During the duel a raven
 perched on the helmet of his antagonist, sometimes pecked his face and
 hand, and sometimes blinded him with the flapping of his wings. The
 victor was thence named Corvinus, from Corvus. Vid. Livy, l. 7, c. 26.
 
-<span id="fn_430"></span>[182:2](lusbk06.htm#fr_434) *The Flandrian
+<span id="fn_430"></span>[182:2](lusbk06.htm#fr_434.md) *The Flandrian
 countess on her hero smil’d*.--The princess, for whom Magricio
 signalized his valour, was Isabella of Portugal, and spouse to Philip
 the Good, duke of Burgundy, and earl of Flanders. Some Spanish
@@ -1270,7 +1270,7 @@ Portuguese writers treat it with doubt, nothing to the disadvantage of
 Camoëns is thence to be inferred. A poet is not obliged always to follow
 the truth of history.
 
-<span id="fn_431"></span>[182:3](lusbk06.htm#fr_435) *The Rhine another
+<span id="fn_431"></span>[182:3](lusbk06.htm#fr_435.md) *The Rhine another
 pass’d, and prov’d his might*.--This was Alvaro Vaz d’Almada. The
 chronicle of Garibay relates, that at Basle he <span id="page_183">p.
 183</span> received from a German a challenge to measure swords, on
@@ -1293,7 +1293,7 @@ of the approaching danger, hastening his narration to an end. Behold the
 strokes of a master!--*This note, and the one preceding, are from
 Castera*.
 
-<span id="fn_432"></span>[185:1](lusbk06.htm#fr_436) *The halcyons,
+<span id="fn_432"></span>[185:1](lusbk06.htm#fr_436.md) *The halcyons,
 mindful of their fate, deplore*.--Ceyx, king of Trachinia, son of
 Lucifer, married Alcyone, the daughter of Eolus. On a voyage to consult
 the Delphic Oracle, he was shipwrecked. His corpse was thrown ashore in
@@ -1311,7 +1311,7 @@ they fly about as in the utmost terror, with the most lamentable and
 doleful cries. To introduce them, therefore, in the picture of a storm
 is a proof, both of the taste and judgment of Camoëns.
 
-<span id="fn_433"></span>[186:1](lusbk06.htm#fr_437) *With shrill, faint
+<span id="fn_433"></span>[186:1](lusbk06.htm#fr_437.md) *With shrill, faint
 voice, th’ untimely ghost complains*.--It may not perhaps be
 unentertaining to cite Madame Dacier and Mr. Pope on the voices of the
 dead. It will, at least, afford a critical observation which appears to
@@ -1380,16 +1380,16 @@ and, unfettered with mythological distinctions, either shriek or
 articulately talk, according to the most poetical view of their supposed
 circumstances.
 
-<span id="fn_434"></span>[187:1](lusbk06.htm#fr_438) Exod. xiv. 29.
+<span id="fn_434"></span>[187:1](lusbk06.htm#fr_438.md) Exod. xiv. 29.
 
-<span id="fn_435"></span>[187:2](lusbk06.htm#fr_439) Noah.
+<span id="fn_435"></span>[187:2](lusbk06.htm#fr_439.md) Noah.
 
-<span id="fn_436"></span>[188:1](lusbk06.htm#fr_440) Venus.
+<span id="fn_436"></span>[188:1](lusbk06.htm#fr_440.md) Venus.
 
-<span id="fn_437"></span>[188:2](lusbk06.htm#fr_441) For the fable of
+<span id="fn_437"></span>[188:2](lusbk06.htm#fr_441.md) For the fable of
 Eolus see the tenth Odyssey.
 
-<span id="fn_438"></span>[189:1](lusbk06.htm#fr_442)
+<span id="fn_438"></span>[189:1](lusbk06.htm#fr_442.md)
 
 *And vow, that henceforth her Armada’s sails  
 Should gently swell with fair propitious gales*.
@@ -1432,4 +1432,4 @@ away by Boreas.
 
 ------------------------------------------------------------------------
 
-[Next: Book VII](lusbk07)
+[Next: Book VII](lusbk07.md)

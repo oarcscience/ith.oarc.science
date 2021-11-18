@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap02) [Next](chap04)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap02) [Next](chap04.md)
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ heir."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](chap04)
+[Next: Chapter 4](chap04.md)

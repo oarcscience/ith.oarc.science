@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal081)  [Next](njal083) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal081)  [Next](njal083.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ another, never to give up so long as they had strength to fight.
 
 ------------------------------------------------------------------------
 
-[Next: 83. Of Kari Solmund's Son](njal083)
+[Next: 83. Of Kari Solmund's Son](njal083.md)

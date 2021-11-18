@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus07)  [Next](csus09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus07)  [Next](csus09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -94,13 +94,13 @@ amazingly
 <span id="img_06400"></span>
 
 [![ASSEMBLY HALL—ECONOMY.](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 ASSEMBLY HALL—ECONOMY.  
 
 <span id="img_06401"></span>
 
 [![CHURCH AT ECONOMY.](tn/06401.jpg)  
-Click to enlarge](img/06401.jpg)  
+Click to enlarge](img/06401.jpg.md)  
 CHURCH AT ECONOMY.  
 
 <span id="page_65">p. 65</span>
@@ -108,13 +108,13 @@ CHURCH AT ECONOMY.
 <span id="img_06500"></span>
 
 [![A STREET VIEW IN ECONOMY.](tn/06500.jpg)  
-Click to enlarge](img/06500.jpg)  
+Click to enlarge](img/06500.jpg.md)  
 A STREET VIEW IN ECONOMY.  
 
 <span id="img_06501"></span>
 
 [![FATHER RAPP'S HOUSE—ECONOMY.](tn/06501.jpg)  
-Click to enlarge](img/06501.jpg)  
+Click to enlarge](img/06501.jpg.md)  
 FATHER RAPP'S HOUSE—ECONOMY.  
 
 like Hendrick Hudson's men in the play of Rip Van Winkle; or some
@@ -253,4 +253,4 @@ the world could so well become an elderly lady.
 
 ------------------------------------------------------------------------
 
-[Next: II.—Historical.](csus09)
+[Next: II.—Historical.](csus09.md)

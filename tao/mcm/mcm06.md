@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](mcm05)  [Next](mcm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](mcm05)  [Next](mcm07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Musings of a Chinese Mystic*, by Lionel Giles, \[1906\], at Intangible
 Textual Heritage
 
@@ -130,7 +130,7 @@ all things. They do not view things as apprehended by themselves,
 subjectively; but transfer themselves into the position of the things
 viewed. And viewing them thus they are able to comprehend them, nay, to
 master them; and he who can master them is near. <span
-id="fr_10"></span>[1](#fn_10) So it is that to place oneself in
+id="fr_10"></span>[1](#fn_10.md) So it is that to place oneself in
 subjective relation with externals, without consciousness of their
 objectivity,—this is Tao. But to wear out one's intellect in an
 obstinate adherence to the individuality of things, not recognising the
@@ -165,9 +165,9 @@ decline. And with the decline of Tao, individual bias arose."
 
 ### Footnotes
 
-<span id="fn_10"></span>[46:1](mcm06.htm#fr_10) *Sc*., to the great goal
+<span id="fn_10"></span>[46:1](mcm06.htm#fr_10.md) *Sc*., to the great goal
 of Tao.
 
 ------------------------------------------------------------------------
 
-[Next: Illusions](mcm07)
+[Next: Illusions](mcm07.md)

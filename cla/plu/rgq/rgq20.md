@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](rgq19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](rgq19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roman and Greek Questions*, by Plutarch, tr. Frank Cole Babbitt,
 \[1936\], at Intangible Textual Heritage
 
@@ -41,13 +41,13 @@ Is it because the first men that were led down by Inachus from the
 mountains to the plain lived, as they say, on wild pears? They also say
 that wild pears were first discovered by the Greeks in the Peloponnesus
 at a time when that country was still called Apia, <span
-id="fr_340"></span>[a](#fn_338) wherefore wild pears were named *apioi*.
+id="fr_340"></span>[a](#fn_338.md) wherefore wild pears were named *apioi*.
 
  
 
 52\. <span class="smallcaps">What</span> is the reason why the Eleans
 lead their mares outside the boundaries of their country to mate them
-with asses? <span id="fr_341"></span>[b](#fn_339)
+with asses? <span id="fr_341"></span>[b](#fn_339.md)
 
 Is it because of all kings Oenomaüs was the most fond of horses, and,
 since he particularly loved
@@ -104,12 +104,12 @@ this they sailed again to Samos and overcame their enemies.
 the island of Samos derive its name?
 
 Is it because the Amazons sailed from the country of the Ephesians <span
-id="fr_342"></span>[a](#fn_340) across to Samos when they were
+id="fr_342"></span>[a](#fn_340.md) across to Samos when they were
 endeavouring to escape from Dionysus? But he built boats and crossed
 over and, joining battle, slew many of them near this place, which the
 spectators in amazement called Panhaema <span
-id="fr_343"></span>[b](#fn_341) because of the vast quantity of blood
-shed there. And of the elephants <span id="fr_344"></span>[c](#fn_342)
+id="fr_343"></span>[b](#fn_341.md) because of the vast quantity of blood
+shed there. And of the elephants <span id="fr_344"></span>[c](#fn_342.md)
 some are said to have been slain near Phloeum, and their bones are
 pointed out there; but some relate that Phloeum also was cleft by them
 as they uttered a loud and piercing cry.
@@ -120,7 +120,7 @@ as they uttered a loud and piercing cry.
 Samos called the Hall of Fetters?
 
 After the murder of Demoteles and the dissolution of his monarchic
-government the Land-owners <span id="fr_345"></span>[d](#fn_343)
+government the Land-owners <span id="fr_345"></span>[d](#fn_343.md)
 controlled the State, and at this time the Megarians made an expedition
 against the Perinthians, who were colonists of the Samians; as it is
 related, they brought with them fetters for their captives. When the
@@ -187,7 +187,7 @@ brides.
 "Wagon-rollers" among the Megarians?
 
 In the time of the unbridled democracy which brought about both the
-return-interest <span id="fr_346"></span>[a](#fn_344) and the temple
+return-interest <span id="fr_346"></span>[a](#fn_344.md) and the temple
 sacrilege, a sacred mission of Peloponnesians passed through the
 Megarid, on its way to Delphi and
 
@@ -214,30 +214,30 @@ others with death. The descendants of these men were called
 
 ### Footnotes
 
-<span id="fn_338"></span>[239:a](rgq20.htm#fr_340) *Cf*. Pausanias, ii.
+<span id="fn_338"></span>[239:a](rgq20.htm#fr_340.md) *Cf*. Pausanias, ii.
 5. 7; Aelian, *Varia Historia*, iii. 39.
 
-<span id="fn_339"></span>[239:b](rgq20.htm#fr_341) *Cf*. Herodotus, iv.
+<span id="fn_339"></span>[239:b](rgq20.htm#fr_341.md) *Cf*. Herodotus, iv.
 30; Pausanias, v. 5. 2; 9. 2; mules were not bred in Elis because of a
 curse, and this, seemingly, should be the meaning here; but the
 corruption in the text of one word, which should have designated asses,
 has made the mules somewhat dubious.
 
-<span id="fn_340"></span>[243:a](rgq20.htm#fr_342) <span
+<span id="fn_340"></span>[243:a](rgq20.htm#fr_342.md) <span
 id="page_242">p. 242</span> *Cf*. Pausanias, vii. 2. 7.
 
-<span id="fn_341"></span>[243:b](rgq20.htm#fr_343) "Allblood."
+<span id="fn_341"></span>[243:b](rgq20.htm#fr_343.md) "Allblood."
 
-<span id="fn_342"></span>[243:c](rgq20.htm#fr_344) <span
+<span id="fn_342"></span>[243:c](rgq20.htm#fr_344.md) <span
 id="page_243">p. 243</span> Wilamowitz and Halliday emend to ἐλεφάντων.
 This has, at first view, some plausibility, but completely lacks
 corroborative evidence. Nonnus, *Dionysiaca*, xxvi. 326 ff. is not by
 any means parallel.
 
-<span id="fn_343"></span>[243:d](rgq20.htm#fr_345) Thucydides, viii. 21,
+<span id="fn_343"></span>[243:d](rgq20.htm#fr_345.md) Thucydides, viii. 21,
 recounts the later struggles of the Land-owners and the People.
 
-<span id="fn_344"></span>[247:a](rgq20.htm#fr_346) *Cf*. 295 <span
+<span id="fn_344"></span>[247:a](rgq20.htm#fr_346.md) *Cf*. 295 <span
 class="smallcaps">C–D</span>, *supra*.
 
  

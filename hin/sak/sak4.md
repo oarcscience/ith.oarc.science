@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Hindu](../index) [Index](index) [Previous](sak3) [Next](sak5)
+[Sacred-Texts](../../index) [Hindu](../index) [Index](index) [Previous](sak3) [Next](sak5.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ so, for this purpose the Fourth Book is commenced.
 |----------------------------------------------------------------------|
 | <span class="small">*   Soul set right by hearing the truth.*</span> |
 
-   <span id="pp_1"></span>*Aph*. 1.[\*](#pp_1) As in the case of the
+   <span id="pp_1"></span>*Aph*. 1.[\*](#pp_1.md) As in the case of the
 king's son, from instruction as to the truth \[comes discrimination
 between soul and Nature\].
 
@@ -29,7 +29,7 @@ concluding aphorism of the preceding section. The meaning is: as, in the
 case of the king's son, discrimination is produced by instruction as to
 the truth. The story, here, is as follows: A certain king's son, in
 consequence of his being born under the \[unlucky\] star of the tenth
-portion<span id="page_284_fr_2"></span>[2](#page_284_note_2) \[of the
+portion<span id="page_284_fr_2"></span>[2](#page_284_note_2.md) \[of the
 twenty-seven portions into which the ecliptic is divided\], having been
 expelled from his city, and reared by a certain forester, remains under
 the idea, that 'I am a forester.' Having learned that he is alive, a
@@ -56,7 +56,7 @@ instructions of a Bráhman:
 |-------------------------------------------------------------------------------------------|
 | <span class="small">*   Even when the instruction is not addressed to the hearer.*</span> |
 
-   <span id="pp_2"></span>*Aph*. 2.[\*](#pp_2) As in the case of the
+   <span id="pp_2"></span>*Aph*. 2.[\*](#pp_2.md) As in the case of the
 goblin, even when the instruction was for the sake of another, \[the
 chance hearer may be benefited\].
 
@@ -79,12 +79,12 @@ to which effect he adduces another story:
 |-----------------------------------------------------------|
 | <span class="small">*   Necessity of inculcation.*</span> |
 
-   <span id="pp_3"></span>*Aph*. 3.[\*](#pp_3) Repetition \[is to be
+   <span id="pp_3"></span>*Aph*. 3.[\*](#pp_3.md) Repetition \[is to be
 made\], if not, from once instructing, \[the end be gained\].
 
    <span id="pp_3a"></span>*a*. That is to say: a repetition of
 instruction, also, is to be made; because, in the *Chhándogya*
-\[*Upanishad*\],<span id="page_287_fr_1"></span>[1](#page_287_note_1)
+\[*Upanishad*\],<span id="page_287_fr_1"></span>[1](#page_287_note_1.md)
 and the like; there is mention of Áruṉi, and others, as having more than
 once instructed Śwetaketu and others.
 
@@ -98,7 +98,7 @@ accompaniments:
 |-------------------------------------------------------------------|
 | <span class="small">*   Transitoriness of mundane things.*</span> |
 
-   <span id="pp_4"></span>*Aph*. 4.[\*](#pp_4) As in the case of father
+   <span id="pp_4"></span>*Aph*. 4.[\*](#pp_4.md) As in the case of father
 and son; since both are seen; \[to one, to die, and the other, to be
 born\].
 
@@ -108,7 +108,7 @@ respect of one's own self, also, that there is death and birth; since
 these are seen in the case of father and son. This has <span
 id="page_288">p. 288</span> been stated as follows: 'The coming into
 being, and the departure, of Soul \[entangled in Nature\],<span
-id="page_288_fr_1"></span>[1](#page_288_note_1) may be inferred from
+id="page_288_fr_1"></span>[1](#page_288_note_1.md) may be inferred from
 \[the case of\] father and son.'
 
    <span id="pp_4b"></span>*b*. He next explains, by illustrative
@@ -121,7 +121,7 @@ whom knowledge has arisen, and who is devoid of passion:
 |---------------------------------------------------------------------------------------|
 | <span class="small">*   Voluntary abandonment distinguished from involuntary.*</span> |
 
-   <span id="pp_5"></span>*Aph*. 5.[\*](#pp_5) One experiences pleasure
+   <span id="pp_5"></span>*Aph*. 5.[\*](#pp_5.md) One experiences pleasure
 or pain \[alternatively\], from \[voluntary\] abandonment or
 \[forcible\] separation; as in the case of a hawk.
 
@@ -129,9 +129,9 @@ or pain \[alternatively\], from \[voluntary\] abandonment or
 happy by the abandonment of things, and unhappy by \[forcible\]
 separation from them, acceptance of them ought not to be made; 'as in
 the case of a hawk.'<span
-id="page_288_fr_4"></span>[4](#page_288_note_4) For a hawk, when he has
+id="page_288_fr_4"></span>[4](#page_288_note_4.md) For a hawk, when he has
 food \[before him\], if he be driven away<span
-id="page_288_fr_5"></span>[5](#page_288_note_5) by any one, is grieved
+id="page_288_fr_5"></span>[5](#page_288_note_5.md) by any one, is grieved
 <span id="page_289">p. 289</span> at being separated from the food;
 \[but\] if, of his own accord, he leaves it, then he is free from grief.
 
@@ -141,7 +141,7 @@ id="page_288_fr_5"></span>[5](#page_288_note_5) by any one, is grieved
 |-------------------------------------------------------------------|
 | <span class="small">*   How Soul ought to abandon Nature.*</span> |
 
-   <span id="pp_6"></span>*Aph*. 6.[\*](#pp_6) As in the case of a snake
+   <span id="pp_6"></span>*Aph*. 6.[\*](#pp_6.md) As in the case of a snake
 and its skin.
 
    <span id="pp_6a"></span>*a*. That is to say: as a snake readily
@@ -161,7 +161,7 @@ accept Nature and the rest. So, in regard to this, he says:
 |------------------------------------------------------------|
 | <span class="small">*   Its resumption prohibited.*</span> |
 
-   <span id="pp_7"></span>*Aph*. 7.[\*](#pp_7) Or as an amputated hand.
+   <span id="pp_7"></span>*Aph*. 7.[\*](#pp_7.md) Or as an amputated hand.
 
    <span id="pp_7a"></span>*a*. As no one takes back again an amputated
 hand, just so this \[Nature\], when abandoned, he should not readmit:
@@ -174,7 +174,7 @@ such is the meaning. The word 'Or' is used in the sense of moreover;'
 |---------------------------------------------------------------------|
 | <span class="small">*   Duty to be sacrificed to salvation.*</span> |
 
-   <span id="pp_8"></span>*Aph*. 8.[\*](#pp_8) What is not a means \[of
+   <span id="pp_8"></span>*Aph*. 8.[\*](#pp_8.md) What is not a means \[of
 liberation is\] not to be thought about, \[as this conduces only\] to
 bondage; as in the case of Bharata.
 
@@ -185,7 +185,7 @@ thereof is not to be made; since it tends to Bondage, from its making us
 forget Discrimination. 'As in the case of Bharata:' that is to say, as
 was the case <span id="page_291">p. 291</span> with the royal sage
 Bharata's cherishing Dínánátha's<span
-id="page_291_fr_1"></span>[1](#page_291_note_1) fawn, though \[this
+id="page_291_fr_1"></span>[1](#page_291_note_1.md) fawn, though \[this
 was\] in accordance with duty.
 
  
@@ -194,10 +194,10 @@ was\] in accordance with duty.
 |--------------------------------------------------------|
 | <span class="small">*   Company to be avoided.*</span> |
 
-   <span id="pp_9"></span>*Aph*. 9.[\*](#pp_9) From \[association with\]
+   <span id="pp_9"></span>*Aph*. 9.[\*](#pp_9.md) From \[association with\]
 many there is obstruction to concentration, through passion, &c.; as in
 the case of a girl's shells.<span
-id="page_291_fr_4"></span>[4](#page_291_note_4)
+id="page_291_fr_4"></span>[4](#page_291_note_4.md)
 
    <span id="pp_9a"></span>*a*. Association is not to be made with many;
 because, when there is association with many, there is disturbance,
@@ -211,7 +211,7 @@ as a jingling is produced by the mutual <span id="page_292">p.
 |---------------------------------------------------|
 | <span class="small">*   Even that of one.*</span> |
 
-   <span id="pp_10"></span>*Aph*. 10.[\*](#pp_10) Just so, from \[the
+   <span id="pp_10"></span>*Aph*. 10.[\*](#pp_10.md) Just so, from \[the
 company of\] two, also.
 
    <span id="pp_10a"></span>*a*. Just so, even from two there is
@@ -224,9 +224,9 @@ obstruction to concentration; therefore one ought to abide quite
 |--------------------------------------------------------------------------|
 | <span class="small">*   Blessedness of those who expect nothing.*</span> |
 
-   <span id="pp_11"></span>*Aph*. 11.[\*](#pp_11) He who is without hope
+   <span id="pp_11"></span>*Aph*. 11.[\*](#pp_11.md) He who is without hope
 is happy; like Pingalá.<span
-id="page_292_fr_3"></span>[3](#page_292_note_3)
+id="page_292_fr_3"></span>[3](#page_292_note_3.md)
 
    <span id="pp_11a"></span>*a*. Having abandoned hope, let a man become
 possessed of the happiness called contentment; 'like Pingalá;' that is
@@ -257,12 +257,12 @@ since this will be effected quite otherwise; as he states:
 |----------------------------------------------------|
 | <span class="small">*   Exertion needless.*</span> |
 
-   <span id="pp_12"></span>*Aph*. 12.[\*](#pp_12) \[One may be happy,\]
+   <span id="pp_12"></span>*Aph*. 12.[\*](#pp_12.md) \[One may be happy,\]
 even without exertion; like a serpent happy in another's house.
 
    <span id="pp_12a"></span>*a*. Supply, 'he may be happy.' The rest is
 simple. So it has been said:<span
-id="page_294_fr_1"></span>[1](#page_294_note_1) 'The building of a house
+id="page_294_fr_1"></span>[1](#page_294_note_1.md) 'The building of a house
 is, assuredly, painful, and in no way pleasant. A serpent, having
 entered the dwelling made by another \[e.g., a rat\], does find
 confort.'
@@ -270,7 +270,7 @@ confort.'
    <span id="pp_12b"></span>*b*.From Institutes, and from preceptors,
 only the essence is to be accepted; since, otherwise, it may be
 impossible to concentrate the attention, from there being, by reason of
-implications,<span id="page_294_fr_3"></span>[3](#page_294_note_3)
+implications,<span id="page_294_fr_3"></span>[3](#page_294_note_3.md)
 discussions, &c., discrepancies in declared unessential parts, and from
 the multiplicity of topics. So he says:
 
@@ -282,7 +282,7 @@ the multiplicity of topics. So he says:
 |---------------------------------------------------------------------|
 | <span class="small">*   A bee-like eclecticism recommended.*</span> |
 
-   <span id="pp_13"></span>*Aph*. 13.[\*](#pp_13) Though he devote
+   <span id="pp_13"></span>*Aph*. 13.[\*](#pp_13.md) Though he devote
 himself to many Institutes and teachers, a taking of the essence \[is to
 be made\]; as is the case with the bee.
 
@@ -301,9 +301,9 @@ intentness, through maintaining Meditation; as he tells us:
 |-----------------------------------------------------------|
 | <span class="small">*   Intentness on one object.*</span> |
 
-   <span id="pp_14"></span>*Aph*. 14.[\*](#pp_14) The Meditation is not
+   <span id="pp_14"></span>*Aph*. 14.[\*](#pp_14.md) The Meditation is not
 interrupted of him whose mind is intent on one object; like the maker of
-arrows.<span id="page_295_fr_3"></span>[3](#page_295_note_3)
+arrows.<span id="page_295_fr_3"></span>[3](#page_295_note_3.md)
 
    <span id="pp_14a"></span>*a*. As, in the case of a maker of arrows,
 with his mind intent solely on the making of an arrow, the exclusion of
@@ -318,7 +318,7 @@ failure to exclude other thoughts.
 |-----------------------------------------------------------------------------|
 | <span class="small">*   Rules not to be transgressed with impunity.*</span> |
 
-   <span id="pp_15"></span>*Aph*. 15.[\*](#pp_15) Through transgression
+   <span id="pp_15"></span>*Aph*. 15.[\*](#pp_15.md) Through transgression
 of the enjoined rules there is failure in the aim; as in the world.
 
    <span id="pp_15a"></span>*a*. Whatever rule, for the practisers of
@@ -339,7 +339,7 @@ be *forgotten*, the end will not be gained:
 |--------------------------------------------------------------|
 | <span class="small">*   Rules must not be forgotten.*</span> |
 
-   <span id="pp_16"></span>*Aph*. 16.[\*](#pp_16) Moreover, if they be
+   <span id="pp_16"></span>*Aph*. 16.[\*](#pp_16.md) Moreover, if they be
 forgotten; as in the case of the female frog.
 
    <span id="pp_16a"></span>*a*. This is plain. And the story of the
@@ -350,7 +350,7 @@ thee, then I must depart.' But, on one occasion, when wearied with
 sport, she asked the king, 'Where is water?' The king, too, forgetting
 his agreement, showed her the water. Then she, having become the
 she-frog *Kámarúpiṇí*,<span
-id="page_297_fr_2"></span>[2](#page_297_note_2) daughter of the king of
+id="page_297_fr_2"></span>[2](#page_297_note_2.md) daughter of the king of
 the frogs, entered the water. And then the king, though he sought her
 with nets, &c., did not regain her.
 
@@ -366,9 +366,9 @@ hearing them:
 |--------------------------------------------------------------------------|
 | <span class="small">*   Reflexion necessary, as well as hearing.*</span> |
 
-   <span id="pp_17"></span>*Aph*. 17.[\*](#pp_17) Not even though
+   <span id="pp_17"></span>*Aph*. 17.[\*](#pp_17.md) Not even though
 instruction be heard is the end gained, without reflexion; as in the
-case of Virochana.<span id="page_298_fr_4"></span>[4](#page_298_note_4)
+case of Virochana.<span id="page_298_fr_4"></span>[4](#page_298_note_4.md)
 
    <span id="pp_17a"></span>*a*. By 'reflexion' is meant such
 consideration as determines the import of the teacher's words. Without
@@ -384,7 +384,7 @@ of reflexion:
 |--------------------------------------------------|
 | <span class="small">*   Of this further.*</span> |
 
-   <span id="pp_18"></span>*Aph*. 18.[\*](#pp_18) Of those two, it
+   <span id="pp_18"></span>*Aph*. 18.[\*](#pp_18.md) Of those two, it
 \[reflexion,\] was seen in the case of Indra \[only\].
 
    <span id="pp_18a"></span>*a*. Of those two who are mentioned,
@@ -404,7 +404,7 @@ practised for a long time:
 |------------------------------------------------------------|
 | <span class="small">*   The process requires time.*</span> |
 
-   <span id="pp_19"></span>*Aph*. 19.[\*](#pp_19) Having performed
+   <span id="pp_19"></span>*Aph*. 19.[\*](#pp_19.md) Having performed
 reverence, the duties of a student, and attendance, one has success
 after a long time; as in his case.
 
@@ -419,9 +419,9 @@ practised, under a preceptor, reverence, study of the *Vedas*, service,
 |--------------------------------------------------------------------------------------------------|
 | <span class="small">*   The time for the process may embrace successive states of being.*</span> |
 
-   <span id="pp_20"></span>*Aph*. 20.[\*](#pp_20) There is no
+   <span id="pp_20"></span>*Aph*. 20.[\*](#pp_20.md) There is no
 determination of the time; as in the Case of Vámadeva.<span
-id="page_300_fr_3"></span>[3](#page_300_note_3)
+id="page_300_fr_3"></span>[3](#page_300_note_3.md)
 
    <span id="pp_20a"></span>*a*. In the arising of knowledge, there is
 'no determination of the time,' as, for instance, in its taking place
@@ -444,7 +444,7 @@ Concentration? To this he replies:
 |-----------------------------------------------------------------------------|
 | <span class="small">*   Inferior means not altogether unprofitable.*</span> |
 
-   <span id="pp_21"></span>*Aph*. 21.[\*](#pp_21) Through devotion to
+   <span id="pp_21"></span>*Aph*. 21.[\*](#pp_21.md) Through devotion to
 something under a superinduced form, \[attainment to, or approach
 towards, knowledge takes place\] *by degrees*; as in the case of those
 who devote themselves to sacrifices.
@@ -469,11 +469,11 @@ effect knowledge:
 |------------------------------------------------------------------------------------|
 | <span class="small">*   Scriptural proof that heaven gives not liberation.*</span> |
 
-   <span id="pp_22"></span>*Aph*. 22.[\*](#pp_22) Moreover, after the
+   <span id="pp_22"></span>*Aph*. 22.[\*](#pp_22.md) Moreover, after the
 attainment of what \[like the world of Brahmá,\] is other \[than the
 state of emancipated soul\], there is return \[to mundane existence\];
 because it is written \[in the 5th *Prapáṭhaka* of the *Chhándogya
-Upanishad*<span id="page_302_fr_4"></span>[4](#page_302_note_4)\]: 'From
+Upanishad*<span id="page_302_fr_4"></span>[4](#page_302_note_4.md)\]: 'From
 conjunction with the five fires there is birth,' &c.
 
 <span id="page_303">p. 303</span>
@@ -488,7 +488,7 @@ him who is free from passion:
 |-------------------------------------------------------------|
 | <span class="small">*   Discrimination illustrated.*</span> |
 
-   <span id="pp_23"></span>*Aph*. 23.[\*](#pp_23) By him who is free
+   <span id="pp_23"></span>*Aph*. 23.[\*](#pp_23.md) By him who is free
 from passion what is to be left is left, and what is to be taken is
 taken; as in the case of the swan and the milk.
 
@@ -503,7 +503,7 @@ valuable milk, \[as the Hindus insist that it does\].
 
    <span id="pp_23b"></span>*b*. He tells us that both of these also
 take place in consequence of association with a perfect<span
-id="page_304_fr_1"></span>[1](#page_304_note_1) man:
+id="page_304_fr_1"></span>[1](#page_304_note_1.md) man:
 
  
 
@@ -511,14 +511,14 @@ id="page_304_fr_1"></span>[1](#page_304_note_1) man:
 |----------------------------------------------------------|
 | <span class="small">*   Benefit of good society.*</span> |
 
-   <span id="pp_24"></span>*Aph*. 24.[\*](#pp_24) Or through association
+   <span id="pp_24"></span>*Aph*. 24.[\*](#pp_24.md) Or through association
 with one who has obtained excellence;<span
-id="page_304_fr_4"></span>[4](#page_304_note_4) as in the case thereof.
+id="page_304_fr_4"></span>[4](#page_304_note_4.md) as in the case thereof.
 
    <span id="pp_24a"></span>*a*. That is to say: moreover, from
 association with him by whom 'excellence,' i.e., excellence in
 knowledge, has been obtained, the aforesaid \[discrimination\] takes
-place; just as in the case of the swan, \[[§ 23](#pp_23)\]; as, in the
+place; just as in the case of the swan, \[[§ 23](#pp_23.md)\]; as, in the
 case of Alarka, Discrimination manifested itself spontaneously, merely
 through simple association with Dattátreya.
 
@@ -533,7 +533,7 @@ associate with those who are infected with desire:
 |---------------------------------------------------------------|
 | <span class="small">*   Danger of unsuitable society.*</span> |
 
-   <span id="pp_25"></span>*Aph*. 25.[\*](#pp_25) Not of his own accord
+   <span id="pp_25"></span>*Aph*. 25.[\*](#pp_25.md) Not of his own accord
 should he go near one who is infected with desire; like the parrot.
 
    <span id="pp_25a"></span>*a*. Association is not to be made,
@@ -552,7 +552,7 @@ with those who labour under desire:
 |--------------------------------------------------|
 | <span class="small">*   Of this further.*</span> |
 
-   <span id="pp_26"></span>*Aph*. 26.[\*](#pp_26) \[Else he may become\]
+   <span id="pp_26"></span>*Aph*. 26.[\*](#pp_26.md) \[Else he may become\]
 bound, by conjunction with the cords; as in the case of the parrot.
 
    <span id="pp_26a"></span>*a*. And, in the case of associating with
@@ -571,11 +571,11 @@ the means of \[effecting\] dispassion:
 |------------------------------------------------------|
 | <span class="small">*   Means of dispassion.*</span> |
 
-   <span id="pp_27"></span>*Aph*. 27.[\*](#pp_27) Not by enjoyment is
+   <span id="pp_27"></span>*Aph*. 27.[\*](#pp_27.md) Not by enjoyment is
 desire appeased; as in the case of the saint.
 
    <span id="pp_27a"></span>*a*. That is to say: as, in the case of the
-saint, Saubhari,<span id="page_306_fr_3"></span>[3](#page_306_note_3)
+saint, Saubhari,<span id="page_306_fr_3"></span>[3](#page_306_note_3.md)
 desire was not appeased by enjoyment, so, also in the case of others, it
 is not.
 
@@ -587,7 +587,7 @@ is not.
 |--------------------------------------------------|
 | <span class="small">*   Of this further.*</span> |
 
-   <span id="pp_28"></span>*Aph*. 28.[\*](#pp_28) From seeing the fault
+   <span id="pp_28"></span>*Aph*. 28.[\*](#pp_28.md) From seeing the fault
 of both.
 
 <span id="page_307">p. 307</span>
@@ -595,7 +595,7 @@ of both.
    <span id="pp_28a"></span>*a*. That is to say: only 'from seeing the
 fault,' e.g., of being changeable, of consisting of pain, &c., 'of
 both,' i.e., of Nature and her productions, does the appeasing of desire
-take place; just as in the case of the saint \[[§ 27](#pp_27)\]. For it
+take place; just as in the case of the saint \[[§ 27](#pp_27.md)\]. For it
 is written, that Saubhari, just from seeing the evil of society, was
 afterwards dispassionate.
 
@@ -609,7 +609,7 @@ desire, &c:
 |-----------------------------------------------------------------|
 | <span class="small">*   Agitation excludes instruction.*</span> |
 
-   <span id="pp_29"></span>*Aph*. 29.[\*](#pp_29) Not in the case of him
+   <span id="pp_29"></span>*Aph*. 29.[\*](#pp_29.md) Not in the case of him
 whose mind is disturbed does the seed of instruction sprout; as in the
 case of Aja.
 
@@ -619,7 +619,7 @@ of knowledge which is in the shape of instruction. 'As in the case of
 Aja.' That is to say: as not a sprout from <span id="page_308">p.
 308</span> the seed of instruction, though delivered to him by
 Vasishṭha, sprang up in the king named Aja, whose mind was disturbed by
-grief for his wife.<span id="page_308_fr_2"></span>[2](#page_308_note_2)
+grief for his wife.<span id="page_308_fr_2"></span>[2](#page_308_note_2.md)
 
    <span id="pp_29b"></span>*b*. What need of more?
 
@@ -629,7 +629,7 @@ grief for his wife.<span id="page_308_fr_2"></span>[2](#page_308_note_2)
 |--------------------------------------------------|
 | <span class="small">*   Of this further.*</span> |
 
-   <span id="pp_30"></span>*Aph*. 30.[\*](#pp_30) Not even a mere
+   <span id="pp_30"></span>*Aph*. 30.[\*](#pp_30.md) Not even a mere
 semblance \[of this true knowledge arises in him whose mind is
 disturbed\]; as in the case of a foul mirror.
 
@@ -651,7 +651,7 @@ the instruction:
 |------------------------------------------------------------------------------|
 | <span class="small">*   Knowledge not necessarily perfect knowledge.*</span> |
 
-   <span id="pp_31"></span>*Aph*. 31.[\*](#pp_31) Nor, even though
+   <span id="pp_31"></span>*Aph*. 31.[\*](#pp_31.md) Nor, even though
 sprung therefrom, is that \[knowledge, necessarily,\] in accordance
 therewith; like the lotus.
 
@@ -667,7 +667,7 @@ sown\].
 
    <span id="pp_31b"></span>*b*. But then, since the Soul's end is,
 indeed, gained by \[the attainment of\] supernatural power in the worlds
-\[[§ 21. *a*.](#pp_21a)\] of Brahmá, &c., to what purpose is the
+\[[§ 21. *a*.](#pp_21a.md)\] of Brahmá, &c., to what purpose is the
 effecting of knowledge, with so much toil, for liberation? To this he
 replies:
 
@@ -677,10 +677,10 @@ replies:
 |-----------------------------------------------------------|
 | <span class="small">*   Heaven not perfect bliss.*</span> |
 
-   <span id="pp_32"></span>*Aph*. 32.[\*](#pp_32) Not even on the
+   <span id="pp_32"></span>*Aph*. 32.[\*](#pp_32.md) Not even on the
 attainment of glorification has that been done which was to be done; as
 is the case with the perfection<span
-id="page_310_fr_4"></span>[4](#page_310_note_4) of the objects
+id="page_310_fr_4"></span>[4](#page_310_note_4.md) of the objects
 worshipped, as is the case with the perfection of the objects
 worshipped.
 
@@ -707,7 +707,7 @@ Declaration of the Sánkhya.
 
 ------------------------------------------------------------------------
 
-[Next](sak5)
+[Next](sak5.md)
 
 ------------------------------------------------------------------------
 
@@ -715,22 +715,22 @@ Declaration of the Sánkhya.
 
 <span id="footnotes_page_284">p. 284</span>
 
-<span id="page_284_note_2"></span>[2](#page_284_fr_2) The Sanskrit
+<span id="page_284_note_2"></span>[2](#page_284_fr_2.md) The Sanskrit
 yields 'under the star \[named\] Gaṇḍa.' *Ed*.
 
 <span id="footnotes_page_287">p. 287</span>
 
-<span id="page_287_note_1"></span>[1](#page_287_fr_1) VI., i., &c. *Ed*.
+<span id="page_287_note_1"></span>[1](#page_287_fr_1.md) VI., i., &c. *Ed*.
 
 <span id="footnotes_page_288">p. 288</span>
 
-<span id="page_288_note_1"></span>[1](#page_288_fr_1) Read, instead of
+<span id="page_288_note_1"></span>[1](#page_288_fr_1.md) Read, instead of
 'of Soul,' &c., 'of one's self.' *Ed*.
 
-<span id="page_288_note_4"></span>[4](#page_288_fr_4) See the
+<span id="page_288_note_4"></span>[4](#page_288_fr_4.md) See the
 *Mahábhárata*, xii., 6648. *Ed*.
 
-<span id="page_288_note_5"></span>[5](#page_288_fr_5) Read, 'molested'
+<span id="page_288_note_5"></span>[5](#page_288_fr_5.md) Read, 'molested'
 (*upahatya*). Dr. Ballantyne followed an error of the press, *apahatya*,
 which he did not observe that I had pointed <span
 id="footnotes_page_289">p. 289</span> out in the corrigenda to my
@@ -738,52 +738,52 @@ edition of the *Sánkhya-pravachana-bháshya*. *Ed*.
 
 <span id="footnotes_page_291">p. 291</span>
 
-<span id="page_291_note_1"></span>[1](#page_291_fr_1) The original,
+<span id="page_291_note_1"></span>[1](#page_291_fr_1.md) The original,
 *dínánátha*, compounded of *dína* and *anátha*, 'miserable and having no
 master,' is an epithet of 'fawn.'
 
 For the story of Bharata and the fawn, see the *Vishṇu-puráṇa*, Book
 ii., Chap. xiii. *Ed*.
 
-<span id="page_291_note_4"></span>[4](#page_291_fr_4) See the
+<span id="page_291_note_4"></span>[4](#page_291_fr_4.md) See the
 *Mahábhárata*, xii., 6652. *Ed*.
 
 <span id="footnotes_page_292">p. 292</span>
 
-<span id="page_292_note_3"></span>[3](#page_292_fr_3) See the
+<span id="page_292_note_3"></span>[3](#page_292_fr_3.md) See the
 *Mahábhárata*, xii., 6447. *Ed*.
 
 <span id="footnotes_page_294">p. 294</span>
 
-<span id="page_294_note_1"></span>[1](#page_294_fr_1) Quoted from the
+<span id="page_294_note_1"></span>[1](#page_294_fr_1.md) Quoted from the
 *Mahábhárata*, xii., 6649. *Ed*.
 
-<span id="page_294_note_3"></span>[3](#page_294_fr_3) *Abhyupagama*,
+<span id="page_294_note_3"></span>[3](#page_294_fr_3.md) *Abhyupagama*,
 'acceptings' (of positions, &c.). *Ed*.
 
 <span id="footnotes_page_295">p. 295</span>
 
-<span id="page_295_note_3"></span>[3](#page_295_fr_3) See the
+<span id="page_295_note_3"></span>[3](#page_295_fr_3.md) See the
 *Mahábhárata*, xii., 6651. *Ed*.
 
 <span id="footnotes_page_297">p. 297</span>
 
-<span id="page_297_note_2"></span>[2](#page_297_fr_2) Probably this is
+<span id="page_297_note_2"></span>[2](#page_297_fr_2.md) Probably this is
 an epithet, 'changing one's form at will,' not a proper name. *Ed*.
 
 <span id="footnotes_page_298">p. 298</span>
 
-<span id="page_298_note_4"></span>[4](#page_298_fr_4) See the
+<span id="page_298_note_4"></span>[4](#page_298_fr_4.md) See the
 *Chhándogya Upanishad*, viii., viii., 4.
 
 <span id="footnotes_page_300">p. 300</span>
 
-<span id="page_300_note_3"></span>[3](#page_300_fr_3) See the *Aitareya
+<span id="page_300_note_3"></span>[3](#page_300_fr_3.md) See the *Aitareya
 Upanishad*, ii., iv., 5. *Ed*.
 
 <span id="footnotes_page_302">p. 302</span>
 
-<span id="page_302_note_4"></span>[4](#page_302_fr_4) This reference is
+<span id="page_302_note_4"></span>[4](#page_302_fr_4.md) This reference is
 taken from Vijnána, who, however, does not <span
 id="footnotes_page_303">p. 303</span> represent that the original of the
 words 'From conjunction,' &c., is found, literally, in the *Chhándogya
@@ -791,26 +791,26 @@ Upanishad*. *Ed*.
 
 <span id="footnotes_page_304">p. 304</span>
 
-<span id="page_304_note_1"></span>[1](#page_304_fr_1) *Siddha*. *Vide
-supra*, [p. 115, note 3](sak1.htm#page_115_note_3). For the cognate
-*siddhi*, *vide infra*, [p. 310, note 4](#page_310_note_4). *Ed*.
+<span id="page_304_note_1"></span>[1](#page_304_fr_1.md) *Siddha*. *Vide
+supra*, [p. 115, note 3](sak1.htm#page_115_note_3.md). For the cognate
+*siddhi*, *vide infra*, [p. 310, note 4](#page_310_note_4.md). *Ed*.
 
-<span id="page_304_note_4"></span>[4](#page_304_fr_4) See the
+<span id="page_304_note_4"></span>[4](#page_304_fr_4.md) See the
 *Márkaṇḍeya-puráṇa*, ch. xvi. *Ed*.
 
 <span id="footnotes_page_306">p. 306</span>
 
-<span id="page_306_note_3"></span>[3](#page_306_fr_3) See the
+<span id="page_306_note_3"></span>[3](#page_306_fr_3.md) See the
 *Vishṇu-puráṇa*, Book iv., Ch. ii. and iii. *Ed*.
 
 <span id="footnotes_page_308">p. 308</span>
 
-<span id="page_308_note_2"></span>[2](#page_308_fr_2) See Kálidása's
+<span id="page_308_note_2"></span>[2](#page_308_fr_2.md) See Kálidása's
 *Raghuvanśa*, Book viii. *Ed*.
 
 <span id="footnotes_page_310">p. 310</span>
 
-<span id="page_310_note_4"></span>[4](#page_310_fr_4) Nágeśa, commenting
+<span id="page_310_note_4"></span>[4](#page_310_fr_4.md) Nágeśa, commenting
 on this aphorism, explains *siddhi*, here rendered 'perfection,' by
 *aiśwarya*, 'supernatural power.' *Ed*.
 

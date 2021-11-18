@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen04)  [Next](gen06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen04)  [Next](gen06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -94,7 +94,7 @@ The game was drawing to a close, and they paid very little attention to
 Kokimi on his entrance. The principal interest in it was over; they were
 hurrying to finish it. One was looking quietly at the board, and said,
 "Let me see, that point must be Ji. Let me play the Kôh <span
-id="fr_51"></span>[1](#fn_50) of this spot." The other saying, "I am
+id="fr_51"></span>[1](#fn_50.md) of this spot." The other saying, "I am
 beaten; let me calculate," began to count on her fingers the number of
 spaces at each corner, at the same time saying "Ten! twenty! thirty!
 forty!" When Genji came in this way to see them together, he perceived
@@ -291,13 +291,13 @@ written his verses, the words of a song:—
 
 ### Footnotes
 
-<span id="fn_50"></span>[63:1](gen05.htm#fr_51) Ji and Kôh are the names
+<span id="fn_50"></span>[63:1](gen05.htm#fr_51.md) Ji and Kôh are the names
 of certain positions in the game of "Go."
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Evening Glory](gen06)
+[Next: Chapter IV: Evening Glory](gen06.md)
 
 </div>

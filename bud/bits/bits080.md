@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-int5) [Next](bits081)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-int5) [Next](bits081.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ called the discipline in elevated conduct.
 
 ------------------------------------------------------------------------
 
-[Next: § 81. The Admission and Ordination Ceremonies](bits081)
+[Next: § 81. The Admission and Ordination Ceremonies](bits081.md)
 
  
 

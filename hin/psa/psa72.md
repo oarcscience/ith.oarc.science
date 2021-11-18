@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa71)  [Next](psa73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa71)  [Next](psa73.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ a sacrifice." Thus did Krishnù address Oodho.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXII](psa73)
+[Next: Chapter LXXII](psa73.md)

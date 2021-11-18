@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes22)  [Next](tes24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes22)  [Next](tes24.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ The whirlwind carried her there and left her close to the. rock. She sat
 there, and after awhile she saw a bluejay flying by. "O Jay, go to my
 father and mother and say to them, "Your daughter asks you for some glue
 and a glue pot, for a line, and for climbing hooks." <span
-id="fr_28"></span>[1](#fn_28) "I will not go. When you were still living
+id="fr_28"></span>[1](#fn_28.md) "I will not go. When you were still living
 with your father and mother, you were nasty; whenever I wanted to pick
 up some meat, you drove me away. I will not help you." A snow-bunting
 passed by. She said to it, "Go and tell my father and mother, 'Your
@@ -267,15 +267,15 @@ Pokhotsk, the Kolyma country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_28"></span>[41:1](tes23.htm#fr_28) Cf. Bogoras, "The
+<span id="fn_28"></span>[41:1](tes23.htm#fr_28.md) Cf. Bogoras, "The
 Chukchee" (*Publications of the Jesup North Pacific Expedition*, vol.
 7), 263--W. B.
 
-<span id="fn_29"></span>[41:2](tes23.htm#fr_29) I give also the Russian
+<span id="fn_29"></span>[41:2](tes23.htm#fr_29.md) I give also the Russian
 words, which are arranged in the form of a lay. The burden is said to be
 Yukaghir, and to have no particular meaning, like so many other
 burdens.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Raven Tale](tes24)
+[Next: 3. Raven Tale](tes24.md)

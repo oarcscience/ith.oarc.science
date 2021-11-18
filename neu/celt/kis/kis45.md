@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis44)  [Next](kis46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis44)  [Next](kis46.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ from the Castle of the King of the Land of Mist.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](kis46)
+[Next: Part I](kis46.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu07)  [Next](gpu09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu07)  [Next](gpu09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ seed.
 
 6\. In one night it becomes a lump; by the fifth night round; by the
 tenth day like the fruit of the jujube tree, <span
-id="fr_59"></span>[1](#fn_58) and after that an egg of flesh.
+id="fr_59"></span>[1](#fn_58.md) and after that an egg of flesh.
 
 <span id="page_47">p. 47</span>
 
@@ -194,13 +194,13 @@ the sacrifices for the dead, go in hell. What else do you wish to hear?
 
 ### Footnotes
 
-<span id="fn_58"></span>[46:1](gpu08.htm#fr_59) That is, hard.
+<span id="fn_58"></span>[46:1](gpu08.htm#fr_59.md) That is, hard.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Babhruvāhana's Sacrament for the Departed
-One](gpu09)
+One](gpu09.md)
 
 </div>

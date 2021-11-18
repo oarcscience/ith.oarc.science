@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip71)  [Next](fip73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip71)  [Next](fip73.md) 
 
 ------------------------------------------------------------------------
 
-### THE LAZY BEAUTY AND HER AUNTS. <span id="fr_65"></span>[1](#fn_65)
+### THE LAZY BEAUTY AND HER AUNTS. <span id="fr_65"></span>[1](#fn_65.md)
 
 PATRICK KENNEDY.
 
@@ -169,9 +169,9 @@ housekeeper, in Coolbawn, Barony of Bantry, about half a century since.
 
 ### Footnotes
 
-<span id="fn_65"></span>[286:1](fip72.htm#fr_65) *The Fireside Stories
+<span id="fn_65"></span>[286:1](fip72.htm#fr_65.md) *The Fireside Stories
 of Ireland*.
 
 ------------------------------------------------------------------------
 
-[Next: The Haughty Princess, by Patrick Kennedy](fip73)
+[Next: The Haughty Princess, by Patrick Kennedy](fip73.md)

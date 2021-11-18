@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth073)  [Next](toth075) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth073)  [Next](toth075.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 71. THE COYOTE AND THE TURKEYS. <span id="fr_143"></span>[2](#fn_141)
+## 71. THE COYOTE AND THE TURKEYS. <span id="fr_143"></span>[2](#fn_141.md)
 
 Halíksai! At Íshmovala the Coyote was living, and at Nûvátûk'aovi, a
 short distance east of Íshmovala, the Turkey lived. They both had
@@ -116,12 +116,12 @@ before he got home he died.
 
 ### Footnotes
 
-<span id="fn_140"></span>[199:1](toth073.htm#fr_142) Referring to the
+<span id="fn_140"></span>[199:1](toth073.htm#fr_142.md) Referring to the
 exposed roots of trees, herbs, etc., standing up above the ground.
 
-<span id="fn_141"></span>[199:2](toth074.htm#fr_143) Told by Kwáyeshva
+<span id="fn_141"></span>[199:2](toth074.htm#fr_143.md) Told by Kwáyeshva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 72. The Chíro and the Coyote](toth075)
+[Next: 72. The Chíro and the Coyote](toth075.md)

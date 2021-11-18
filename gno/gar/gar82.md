@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar81)  [Next](gar83) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar81)  [Next](gar83.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_k"></span> <span align="CENTER"> [![Plate
 K](tn/pl_k.jpg)  
-Click to enlarge](img/pl_k.jpg)  
+Click to enlarge](img/pl_k.jpg.md)  
 Plate K  
 </span>
 
@@ -71,4 +71,4 @@ order to save his life!
 
 ------------------------------------------------------------------------
 
-[Next: Plate L. Mithraic (continued)](gar83)
+[Next: Plate L. Mithraic (continued)](gar83.md)

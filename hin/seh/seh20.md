@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh19)  [Next](seh21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh19)  [Next](seh21.md) 
 
 ------------------------------------------------------------------------
 
@@ -183,4 +183,4 @@ cool, that stands in an Indian village as the place of morning-prayer?
 
 ------------------------------------------------------------------------
 
-[Next: King Parikshit and the Frog Maiden](seh21)
+[Next: King Parikshit and the Frog Maiden](seh21.md)

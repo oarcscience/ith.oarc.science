@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm20)  [Next](tgm22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm20)  [Next](tgm22.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ hold the Torah dear and the stars will always shine for us.'
 <span id="img_10100"></span>
 
 [![](tn/10100.jpg)  
-Click to enlarge](img/10100.jpg)
+Click to enlarge](img/10100.jpg.md)
 
  
 
@@ -147,4 +147,4 @@ never, never have to give back the Torah."
 
 ------------------------------------------------------------------------
 
-[Next: 19. Ki-Tov--’Twas Good](tgm22)
+[Next: 19. Ki-Tov--’Twas Good](tgm22.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico002) 
-[Next](nico004) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico002.md) 
+[Next](nico004.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ and the purpose of the inquiry, may be taken as our preface.
 [Next: Chapter 4. The good is generally agreed to be happiness, but
 there are various views as to what happiness is. What is required at the
 start is an unreasoned conviction about the facts, such as is produced
-by a good upbringing](nico004)
+by a good upbringing](nico004.md)

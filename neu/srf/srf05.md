@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srf04)  [Next](srf06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srf04)  [Next](srf06.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 On the balcony of a Moscow hospital sat a group of convalescent
 soldiers, who had been wounded during the investment of Przemysl, <span
-id="fr_0"></span>[1](#fn_0) chatting and smoking in the warm sunshine.
+id="fr_0"></span>[1](#fn_0.md) chatting and smoking in the warm sunshine.
 Their dialects varied as much as their physical characteristics for they
 hailed from various parts of the Tsar's domains. Some were typical Slav
 peasants, whose native villages lay scattered among the marshes and
@@ -434,7 +434,7 @@ to the earth,
 
 [![PEOPLE CAME FROM ALL PARTS OF RUSSIA TO GAZE UPON THE
 PRINCESS](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 PEOPLE CAME FROM ALL PARTS OF RUSSIA TO GAZE UPON THE PRINCESS  
 
  
@@ -646,8 +646,8 @@ Muskovy, from which modern Russia has grown.
 
 ### Footnotes
 
-<span id="fn_0"></span>[51:1](srf05.htm#fr_0) Pronounced Pzhĕm´is’l.
+<span id="fn_0"></span>[51:1](srf05.htm#fr_0.md) Pronounced Pzhĕm´is’l.
 
 ------------------------------------------------------------------------
 
-[Next: Mikhail the Kringel Seller](srf06)
+[Next: Mikhail the Kringel Seller](srf06.md)

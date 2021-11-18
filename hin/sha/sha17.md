@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha16)  [Next](sha18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha16)  [Next](sha18.md) 
 
 ------------------------------------------------------------------------
 
@@ -1242,4 +1242,4 @@ One moment's separation from thy lightning bride.
 
 ------------------------------------------------------------------------
 
-[Next: The Seasons](sha18)
+[Next: The Seasons](sha18.md)

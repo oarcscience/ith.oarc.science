@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa02)  [Next](slaa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa02)  [Next](slaa04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -85,7 +85,7 @@ amount of light.
 
 The Kootenays believed that the sun was created by the coyote, or
 chicken hawk, out of a ball of grease, but the Cherokee myth <span
-id="fr_0"></span>[1](#fn_0) that related to the creation of the sun was
+id="fr_0"></span>[1](#fn_0.md) that related to the creation of the sun was
 more elaborate, and seems to imply that the Deluge myth was known to
 them.
 
@@ -169,7 +169,7 @@ order of a great council of animals, and he made the Moon to be the
 Sun's wife. He also created the fixed stars, but the stars which "run
 about the sky" are supposed to be the children of the Sun and Moon.
 
-The following Yuma legend <span id="fr_1"></span>[1](#fn_1) indicates
+The following Yuma legend <span id="fr_1"></span>[1](#fn_1.md) indicates
 that the moon was considered by their ancestors as of greater importance
 than the sun: "Kwikumat said, 'I will make the moon first.' He faced the
 east, and placing spittle on the forefinger of his right hand rubbed it
@@ -335,7 +335,7 @@ legends. As a pure product of the imagination, it ranks with the best
 examples of Egyptian and Grecian mythology.
 
 The myth relates the efforts of a wicked and blood-thirsty old man named
-Sas <span id="fr_2"></span>[1](#fn_2), to kill his son-in-law,
+Sas <span id="fr_2"></span>[1](#fn_2.md), to kill his son-in-law,
 Tulchuherris. After many ineffectual attempts
 
 <span id="page_15">p. 15</span>
@@ -544,7 +544,7 @@ growing old and becoming young again." Thus the moon changes in its
 phases from small to great as it pursues its heavenly way.
 
 The following beautiful solar creation myth is from Japan. <span
-id="fr_3"></span>[1](#fn_3) It is entitled "The Way of the Gods" and
+id="fr_3"></span>[1](#fn_3.md) It is entitled "The Way of the Gods" and
 contains a reference to a floating cloud in the midst of infinite space,
 before matter had taken any other form. This well describes the original
 nebula from which scientists aver the solar system was evolved. It is
@@ -633,7 +633,7 @@ guide them by day.
 
 The ancient Peruvians believed that the god Viracocha rose out of Lake
 Titicaca, and made the sun, moon, and stars, and regulated their
-courses. Tylor <span id="fr_4"></span>[1](#fn_4) tells us that
+courses. Tylor <span id="fr_4"></span>[1](#fn_4.md) tells us that
 originally the Muyscas, who inhabited the high plains of Bogota, lived
 in a
 
@@ -703,7 +703,7 @@ takes away the moon and pierces it with a knife.
 According to New Zealand traditions, the sun is the eye of Maui, which
 is placed in the sky, and the eyes of his two children became the
 morning and the evening star. The sun was born from the ocean and the
-story of its birth is thus related <span id="fr_5"></span>[1](#fn_5):
+story of its birth is thus related <span id="fr_5"></span>[1](#fn_5.md):
 "There were five brothers all called Maui, and it was the youngest Maui
 who had been thrown into the sea by Taranga his mother, and rescued by
 his ancestor Great-Man-In-Heaven, who took him to his house and hung him
@@ -792,28 +792,28 @@ any which mythology has bequeathed to us.
 
 ### Footnotes
 
-<span id="fn_0"></span>[5:1](slaa03.htm#fr_0) 19th Report U. S.
+<span id="fn_0"></span>[5:1](slaa03.htm#fr_0.md) 19th Report U. S.
 Ethnology Bureau.
 
-<span id="fn_1"></span>[8:1](slaa03.htm#fr_1) *Journal American
+<span id="fn_1"></span>[8:1](slaa03.htm#fr_1.md) *Journal American
 Folk-Lore*, vol. xxii.
 
-<span id="fn_2"></span>[14:1](slaa03.htm#fr_2) Sas was the Wintu Indian
+<span id="fn_2"></span>[14:1](slaa03.htm#fr_2.md) Sas was the Wintu Indian
 word for Sun.
 
-<span id="fn_3"></span>[23:1](slaa03.htm#fr_3) *The Child's Guide to
+<span id="fn_3"></span>[23:1](slaa03.htm#fr_3.md) *The Child's Guide to
 Mythology*, Helen A. Clarke.
 
-<span id="fn_4"></span>[26:1](slaa03.htm#fr_4) *Primitive Culture*,
+<span id="fn_4"></span>[26:1](slaa03.htm#fr_4.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_5"></span>[29:1](slaa03.htm#fr_5) *Primitive Culture*,
+<span id="fn_5"></span>[29:1](slaa03.htm#fr_5.md) *Primitive Culture*,
 Edward B. Tylor.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Ancient Ideas of the Sun and the Moon](slaa04)
+[Next: Chapter II. Ancient Ideas of the Sun and the Moon](slaa04.md)
 
 </div>

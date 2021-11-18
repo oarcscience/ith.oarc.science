@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sjf01)  [Next](sjf03) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sjf01)  [Next](sjf03.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ ST JOHN'S COLLEGE, April 9th, 1877.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](sjf03)
+[Next: Chapter I](sjf03.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop12)  [Next](pop14) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop12)  [Next](pop14.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ thyself and others to thy own pity.'
 
 ------------------------------------------------------------------------
 
-[Next: The Ninth Figure](pop14)
+[Next: The Ninth Figure](pop14.md)

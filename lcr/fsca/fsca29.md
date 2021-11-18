@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca28)  [Next](fsca30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca28)  [Next](fsca30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -22,10 +22,10 @@ at Intangible Textual Heritage
 
 <span id="page_126">p. 126</span> <span id="page_127">p. 127</span>
 
-<span id="img_12700"></span> ![Unicorn](img/12700.jpg)
+<span id="img_12700"></span> ![Unicorn](img/12700.jpg.md)
 
 <span class="small">Unicorn salient. <span
-id="fr_10"></span>[\*](#fn_10)</span>
+id="fr_10"></span>[\*](#fn_10.md)</span>
 
 ### The Unicorn
 
@@ -64,7 +64,7 @@ id="img_12800"></span>
 
 |                                                    |
 |----------------------------------------------------|
-| ![Crest: A Unicorn's head, couped.](img/12800.jpg) |
+| ![Crest: A Unicorn's head, couped.](img/12800.jpg.md) |
 
 the virtue of the mind and the strength of the body. It is well known as
 a supporter of the Royal Arms of England, a position it has occupied
@@ -122,10 +122,10 @@ between England and Scotland:
 
 ### Footnotes
 
-<span id="fn_10"></span>[127:\*](fsca29.htm#fr_10) But for an oversight
+<span id="fn_10"></span>[127:\*](fsca29.htm#fr_10.md) But for an oversight
 in the drawing, the unicorn should have been represented with the
 divided hoofs of a stag.
 
 ------------------------------------------------------------------------
 
-[Next: Mediaeval Conception of the Unicorn](fsca30)
+[Next: Mediaeval Conception of the Unicorn](fsca30.md)

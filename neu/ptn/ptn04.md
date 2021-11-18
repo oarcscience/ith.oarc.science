@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ptn03)  [Next](ptn05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn03)  [Next](ptn05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
 Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ time when that island and Martinique were held jointly by the French and
 the English; and the highest judicial and administrative offices in St.
 Christopher's, in Nevis, in Antigua, and, more recently, in St. Vincent
 itself were filled by Sir George Dasent's ancestors. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 His grandfather was Chief Justice of Nevis when Nelson first served on
 the West Indian station—so long the battle-ground of England and France
@@ -249,7 +249,7 @@ and Snorri, the worldly-wise priest, Mord Valgardson, the wily traitor,
 and Hallgerda, the overbearing hateful wife, are characters true for all
 time, whose works and ways are but eminent examples of our common
 humanity, and at once arouse our sympathy or our antipathy." <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 In 1842 he dedicated his first book to Thomas Carlyle in gratitude for
 the encouragement he received from him to definitely devote himself to
@@ -294,7 +294,7 @@ Arnold, and Doctor now Sir William, Russell, the first of all
 war-correspondents, and at the present day the only survivor of the
 great Delane dynasty in Printing House Square. Dasent's intimacy with
 Bunsen also proved of great service to Delane in connection with the
-foreign policy of the paper. <span id="fr_2"></span>[1](#fn_2)
+foreign policy of the paper. <span id="fr_2"></span>[1](#fn_2.md)
 
 In the happy phraseology of Sir James Graham, the Times through its
 masterly editing at this period "saved the English language." Dasent's
@@ -306,7 +306,7 @@ the service of the great newspaper, to which
 
 he contributed in addition to leading articles a large proportion of the
 reviews of current literature and the biographical notices of eminent
-men; <span id="fr_3"></span>[1](#fn_3) he worked assiduously at his
+men; <span id="fr_3"></span>[1](#fn_3.md) he worked assiduously at his
 translation of the Norse Tales of Asbjornsen: one of which, "The Master
 Thief," first appeared in *Blackwood's Magazine* for November 1851.
 
@@ -356,7 +356,7 @@ the alterations which the temporary editor thought it necessary to make
 in his contributions to the paper on foreign policy, but Delane upheld
 Dasent's line of action, and Reeve withdrew from the *Times* to assume
 the editorship of the *Edinburgh Review*. <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 <span id="page_xxviii">p. xxviii</span>
 
@@ -381,7 +381,7 @@ has come down to us in book form.
 The first edition of *Burnt Njal*, a work of which we gladly repeat the
 deliberate judgment of a distinguished American writer that "it is
 unsurpassed by any existing monument in the narrative department of any
-literature ancient or modern," <span id="fr_5"></span>[1](#fn_5)
+literature ancient or modern," <span id="fr_5"></span>[1](#fn_5.md)
 appeared in 1861.
 
 He had conceived the notion of giving an English dress to the Njal's
@@ -426,7 +426,7 @@ each of the five members of this merry group so admirably
 burlesqued, that we make no apology for reproducing their portraits:—
 
 'First—he who by tacit consent was reckoned the head of our party—was
-surnamed Archibald M'Diarmid. <span id="fr_6"></span>[1](#fn_6)
+surnamed Archibald M'Diarmid. <span id="fr_6"></span>[1](#fn_6.md)
 
 'I believe the addition of esquire is considered a sort of insult in the
 Highlands, whence he came, so I omit it. M'Diarmid, like Crichton, did
@@ -444,7 +444,7 @@ held it as an article of faith, not to be doubted, that his tent was
 completely waterproof.
 
 'Next to him I will introduce Mr. Darwin, <span
-id="fr_7"></span>[2](#fn_7) a really celebrated personage. He had
+id="fr_7"></span>[2](#fn_7.md) a really celebrated personage. He had
 written a learned book on northern antiquities, in recompense of which a
 Scandinavian potentate created him a Knight of the second class of the
 Order of the Walrus, the ribbon of which illustrious Order was suspended
@@ -475,7 +475,7 @@ misplaced in the narrow sphere of duties. But he was a most agreeable
 comrade.
 
 'Third was Ragner, Lord Lodbrog, an Irish peer, <span
-id="fr_8"></span>[1](#fn_8) and then a student at the University. He
+id="fr_8"></span>[1](#fn_8.md) and then a student at the University. He
 derived his descent from a chieftain of that name, who had slain a
 dragon after encasing himself in impenetrable hairy breeches; and it was
 still a custom in his family, out of respect to this ancestor, to wear
@@ -493,7 +493,7 @@ disgust of the Dons, awoke the echoes of Peckwater Quad, he was hailed
 by us as decidedly the "Skarzmadur" or Dandy of the party.
 
 'Fourth was Mr. X, a member of Parliament, <span
-id="fr_9"></span>[1](#fn_9) who had come out late in the session. I am
+id="fr_9"></span>[1](#fn_9.md) who had come out late in the session. I am
 not aware that he ever enlightened the senate by his eloquence. He was
 rather a silent, reserved person, and his chief talent seemed to consist
 in smoking tobacco. However, to do him justice, he was always
@@ -502,7 +502,7 @@ never bored any of us by quoting bluebooks, which is much to his credit.
 When he did speak, it was generally to make some citation from the
 classics or Shakespeare, which was tedious, but happily brief.
 
-'Fifth was Mr. Digwell, <span id="fr_10"></span>[2](#fn_10) a relative
+'Fifth was Mr. Digwell, <span id="fr_10"></span>[2](#fn_10.md) a relative
 of Mr. Darwin, Fellow of a College at Cambridge, and, unfortunately for
 him, smitten with a taste for Geology, which had impelled him to come to
 Iceland. He was a tall, thin man, and always carried a hammer to aid him
@@ -534,7 +534,7 @@ immediate loss of income, after some hesitation he accepted the post on
 the advice of his family. No longer constrained to work every night into
 the small hours of the morning, he was now free to go more into London
 society; and bringing to it, as he did, a well-stored mind, a fund of
-native humour, <span id="fr_11"></span>[1](#fn_11) great capacity for
+native humour, <span id="fr_11"></span>[1](#fn_11.md) great capacity for
 enjoyment, and rare conversational powers, he became one of its
 recognised favourites, and a welcome guest, like Delane himself, at its
 dinner-tables. One of his most
@@ -543,7 +543,7 @@ dinner-tables. One of his most
 
 valued friends throughout his lifetime, and they had been up at Oxford
 together, was William Bromley Davenport, <span
-id="fr_12"></span>[1](#fn_12) an English sportsman of the best type, and
+id="fr_12"></span>[1](#fn_12.md) an English sportsman of the best type, and
 as clever a letter writer as the Victorian Age has produced, though not
 strikingly successful as a public speaker.
 
@@ -570,7 +570,7 @@ like himself, *habitués* of the
 
 <span class="contnote">\[paragraph continues\]</span> Athenæum Club,
 where his unfailing spirits and cultivated talk were long
-appreciated. <span id="fr_13"></span>[1](#fn_13)
+appreciated. <span id="fr_13"></span>[1](#fn_13.md)
 
 Another very dear friend was the late Sir Robert Meade, the permanent
 Under-Secretary of the Colonial Office, who was also a neighbour in
@@ -598,7 +598,7 @@ While continuing to write reviews for the *Times*, so
 
 long as Delane remained at his post, Dasent now for the first time
 turned his attention to contemporary fiction. His first novel—*The
-Annals of an Eventful Life* <span id="fr_14"></span>[1](#fn_14)—issued
+Annals of an Eventful Life* <span id="fr_14"></span>[1](#fn_14.md)—issued
 at first anonymously in 1870, went through several editions in the
 course of a few months, and has since been frequently re-issued in one
 volume.
@@ -618,7 +618,7 @@ Jomsvikinga Saga into a modern three-volume novel, was published in
 
 On June 27th, 1876, on Mr. Disraeli's recommendation, Dasent received
 the honour of knighthood "for public services." <span
-id="fr_15"></span>[2](#fn_15) He was already a Knight of the Danish
+id="fr_15"></span>[2](#fn_15.md) He was already a Knight of the Danish
 Order of the Dannebrog; another compliment which he received from the
 Danes being a beautiful silver drinking-horn, shaped like a Viking ship,
 in recognition of his services to Northern literature. On the
@@ -738,7 +738,7 @@ contemplated Life of Delane, whose vast and unique correspondence passed
 into his keeping, and fortunately escaped the flames at Tower Hill, is
 withheld from publication for the present, though it will surely see the
 light when the times are ripe for it to be given to the world. <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 Dasent's once iron frame at last began to break down, and a gradual
 decay of his powers set in. For the last year and a half of his life be
@@ -782,48 +782,48 @@ House, Hants.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xvii:1](ptn04.htm#fr_0) For a detailed pedigree
+<span id="fn_0"></span>[xvii:1](ptn04.htm#fr_0.md) For a detailed pedigree
 of the family of Dasent, see V. L. Oliver's *History of the Island of
 Antigua*. 1894. Volume i. pp. 190-194, and Burke's *Landed Gentry*, 8th
 edition, pp. 469, 470.
 
-<span id="fn_1"></span>[xxiv:1](ptn04.htm#fr_1) Introduction to the
+<span id="fn_1"></span>[xxiv:1](ptn04.htm#fr_1.md) Introduction to the
 *Icelandic-English Dictionary*, p. xlvii.
 
-<span id="fn_2"></span>[xxv:1](ptn04.htm#fr_2) Kinglake, who was well
+<span id="fn_2"></span>[xxv:1](ptn04.htm#fr_2.md) Kinglake, who was well
 acquainted with Delane and competent to appreciate his remarkable
 talents, has given us an insight into his method of conducting the
 paper, derived from personal observation of the great editor and the
 principal members of his staff at their nightly work in Printing House
 Square.—*Invasion of the Crimea*, vol. vi. pp. 249-251.
 
-<span id="fn_3"></span>[xxvi:1](ptn04.htm#fr_3) Much of his best and
+<span id="fn_3"></span>[xxvi:1](ptn04.htm#fr_3.md) Much of his best and
 freshest writing perforce lies buried in the anonymous columns of the
 *Times*. Some of his contributions to the paper and the principal
 reviews were published by him in 1873, in two volumes, entitled *Jest
 and Earnest*.
 
-<span id="fn_4"></span>[xxvii:1](ptn04.htm#fr_4) In his
+<span id="fn_4"></span>[xxvii:1](ptn04.htm#fr_4.md) In his
 recently-published diary Reeve states that between 1840 and 1855 he
 wrote nearly two thousand five hundred articles for the paper, and
 received for them upwards of £13,000.
 
-<span id="fn_5"></span>[xxviii:1](ptn04.htm#fr_5) See *The Saturday
+<span id="fn_5"></span>[xxviii:1](ptn04.htm#fr_5.md) See *The Saturday
 Review*, vol. xi. p. 429.
 
-<span id="fn_6"></span>[xxx:1](ptn04.htm#fr_6) John Campbell of Islay.
+<span id="fn_6"></span>[xxx:1](ptn04.htm#fr_6.md) John Campbell of Islay.
 
-<span id="fn_7"></span>[xxx:2](ptn04.htm#fr_7) George Webbe Dasent.
+<span id="fn_7"></span>[xxx:2](ptn04.htm#fr_7.md) George Webbe Dasent.
 
-<span id="fn_8"></span>[xxxi:1](ptn04.htm#fr_8) Then Lord Newry, and now
+<span id="fn_8"></span>[xxxi:1](ptn04.htm#fr_8.md) Then Lord Newry, and now
 Earl of Kilmorey.
 
-<span id="fn_9"></span>[xxxii:1](ptn04.htm#fr_9) Charles Cavendish
+<span id="fn_9"></span>[xxxii:1](ptn04.htm#fr_9.md) Charles Cavendish
 Clifford.
 
-<span id="fn_10"></span>[xxxii:2](ptn04.htm#fr_10) John Roche Dakyns.
+<span id="fn_10"></span>[xxxii:2](ptn04.htm#fr_10.md) John Roche Dakyns.
 
-<span id="fn_11"></span>[xxxiii:1](ptn04.htm#fr_11) His innate love of a
+<span id="fn_11"></span>[xxxiii:1](ptn04.htm#fr_11.md) His innate love of a
 joke occasionally illumined the cold print of the Times columns. On one
 occasion, when he was acting for Delane, a letter came to the office
 from a Mr. Wieass for publication. The signature was an indistinct
@@ -836,26 +836,26 @@ caligraphy, we came to the conclusion that a difficulty existed as to
 deciphering the first part of the signature, but there was no mistake as
 to the latter part.'
 
-<span id="fn_12"></span>[xxxiv:1](ptn04.htm#fr_12) Late M.P. for North
+<span id="fn_12"></span>[xxxiv:1](ptn04.htm#fr_12.md) Late M.P. for North
 Warwickshire.
 
-<span id="fn_13"></span>[xxxv:1](ptn04.htm#fr_13) Elected to the
+<span id="fn_13"></span>[xxxv:1](ptn04.htm#fr_13.md) Elected to the
 Athenæum under the rule which provides for the admission of men "of
 distinguished eminence in literature, science, or the arts," without the
 ordeal of the ballot, his name remained on the list of members for forty
 years.
 
-<span id="fn_14"></span>[xxxvi:1](ptn04.htm#fr_14) This he wrote at his
+<span id="fn_14"></span>[xxxvi:1](ptn04.htm#fr_14.md) This he wrote at his
 London house, No. 19 Chesham Place, S.W., whilst lying on his back
 during the enforced inactivity following on an accident to his knee.
 
-<span id="fn_15"></span>[xxxvi:2](ptn04.htm#fr_15)
+<span id="fn_15"></span>[xxxvi:2](ptn04.htm#fr_15.md)
 
 The Queen has knighted Dasent;  
 Wit well deserves a handle to its name."  
                            —*Punch*, 8th July 1876.
 
-<span id="fn_16"></span>[xl:1](ptn04.htm#fr_16) Delane wrote to Reeve,
+<span id="fn_16"></span>[xl:1](ptn04.htm#fr_16.md) Delane wrote to Reeve,
 October 22nd, 1874:—"The world moves too quickly for long intervals of
 suppressed publication," à propos of the *Times* review of the Greville
 *Memoirs*. Dasent wrote the article referred to, and sat up all night to
@@ -863,4 +863,4 @@ finish it, as was his wont when absorbed in his subject.
 
 ------------------------------------------------------------------------
 
-[Next: Origin](ptn05)
+[Next: Origin](ptn05.md)

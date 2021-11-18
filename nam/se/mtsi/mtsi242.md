@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi241)  [Next](mtsi243) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi241)  [Next](mtsi243.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ here; when they have stopped nursing, let them go." And he said to her,
 
 ------------------------------------------------------------------------
 
-[Next: 43. The Story of Opossum (Second Version)](mtsi243)
+[Next: 43. The Story of Opossum (Second Version)](mtsi243.md)

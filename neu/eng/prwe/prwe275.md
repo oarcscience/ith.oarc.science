@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe274)  [Next](prwe276) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe274)  [Next](prwe276.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ all of them singing the above lines.
 
 ------------------------------------------------------------------------
 
-[Next: To Secure Good Luck for a Child](prwe276)
+[Next: To Secure Good Luck for a Child](prwe276.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft17)  [Next](sfft19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft17)  [Next](sfft19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -49,14 +49,14 @@ the cock to the fox.
 Then the fox opened his mouth to say as the cock did, and he dropped the
 cock, and he sprung up on the top of a house, and shut one eye and gave
 a loud crow; and that's all there is of that sgeulachd. <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_42"></span>[93:1](sfft18.htm#fr_42) Tale.
+<span id="fn_42"></span>[93:1](sfft18.htm#fr_42.md) Tale.
 
 ------------------------------------------------------------------------
 
-[Next: How the Wolf Lost His Tail](sfft19)
+[Next: How the Wolf Lost His Tail](sfft19.md)

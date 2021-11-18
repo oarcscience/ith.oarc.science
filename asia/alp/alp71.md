@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp70) 
-[Next](alp72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp70.md) 
+[Next](alp72.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Sayat Nova no credit hath when he would tell his pains to thee.
 
 ------------------------------------------------------------------------
 
-[Next: The Wandering Armenian to the Swallow](alp72)
+[Next: The Wandering Armenian to the Swallow](alp72.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tdp05)  [Next](tdp07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tdp05)  [Next](tdp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,12 +14,12 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 <span id="img_23000"></span>
 
 [![Coulin: Sheet-music](tn/23000.jpg)  
-Click to enlarge](img/23000.jpg)  
+Click to enlarge](img/23000.jpg.md)  
   
 
 <span id="page_231">p. 231</span>
 
-<span id="img_23100"></span> ![RANDUFF OF CUMANAC](img/23100.jpg)
+<span id="img_23100"></span> ![RANDUFF OF CUMANAC](img/23100.jpg.md)
 
 # RANDUFF OF CUMANAC
 
@@ -27,7 +27,7 @@ Click to enlarge](img/23000.jpg)
 
 |                      |
 |----------------------|
-| ![S](img/s2init.jpg) |
+| ![S](img/s2init.jpg.md) |
 
 UCH is the record of Kearmit;  
   --Kearmit the holy of Cumanac,  
@@ -350,7 +350,7 @@ aside and opened the book.
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 T is a curiosity in book-making and binding. The ivory panels of the
 back with their scroll work of silver were done by no prentice hand, and
@@ -371,7 +371,7 @@ others were. I find that Randuff means "The Dark, Handsome One."
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N Tormond, north of the Shannon, dwelt the clans of Cumanac before the
 foot of the invader brought the curse on the land, and sent westward
@@ -511,7 +511,7 @@ left ravaged. May memory be with our people in the Day of days!
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N a different but clear hand two pages were added:
 
@@ -802,7 +802,7 @@ a closed door.
 
 |                     |
 |---------------------|
-| ![W](img/winit.jpg) |
+| ![W](img/winit.jpg.md) |
 
 HEN I was seventeen my mother died. That left Raymond and me all alone,
 for his father had already gone the Way. He was like a father to me
@@ -944,7 +944,7 @@ some sunnier place."
 
 |                     |
 |---------------------|
-| ![S](img/sinit.jpg) |
+| ![S](img/sinit.jpg.md) |
 
 O I made my farewells and went wandering. For three years I never saw
 Ireland. All that time I was going, going--never at rest. And though
@@ -1268,7 +1268,7 @@ without offense to the man I felt deep love for.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE moon was at full and the grounds almost as day except under the thick
 vines. Music came faintly to my ears through the open windows, and dew
@@ -1395,4 +1395,4 @@ FERGAL.
 
 ------------------------------------------------------------------------
 
-[Next: The Dark Rose](tdp07)
+[Next: The Dark Rose](tdp07.md)

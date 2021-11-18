@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf03)  [Next](fmf05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf03)  [Next](fmf05.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ long Evenings at home.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The People's Choice Who Answered the Call of Duty
-and Took Seltzer](fmf05)
+and Took Seltzer](fmf05.md)

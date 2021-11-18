@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bof08)  [Next](bof10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bof08)  [Next](bof10.md) 
 
 ------------------------------------------------------------------------
 
@@ -650,4 +650,4 @@ Pixies and Brownies
 
 ------------------------------------------------------------------------
 
-[Next: Birth and Marriage](bof10)
+[Next: Birth and Marriage](bof10.md)

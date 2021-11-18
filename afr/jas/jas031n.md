@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas030n)  [Next](jas032n)   
- \[[31. The Yam-hills.](jas031)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas030n)  [Next](jas032n.md)   
+ \[[31. The Yam-hills.](jas031.md)\]
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ this collection.
 
 ------------------------------------------------------------------------
 
-[Next: Note 32. The Law against Back-biting.](jas032n)
+[Next: Note 32. The Law against Back-biting.](jas032n.md)

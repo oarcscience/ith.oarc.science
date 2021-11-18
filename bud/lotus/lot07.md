@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot06)  [Next](lot08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot06)  [Next](lot08.md) 
 
 ------------------------------------------------------------------------
 
@@ -936,4 +936,4 @@ in the knowledge of the all-knowing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](lot08)
+[Next: Chapter 8](lot08.md)

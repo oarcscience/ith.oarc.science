@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](oph09)  [Next](oph11) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](oph09)  [Next](oph11.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ would be followed by a great diminution of strength. By mistake,
 however, Garuda sometimes seized a priest or a religious man, but was
 admonished and punished in the first case by the scorching flame, and
 was unable, even when he had bound him in his den, to hurt the man of
-piety.  <span id="fr_10"></span>[1](#fn_10) To Rama also, in the war of
+piety.  <span id="fr_10"></span>[1](#fn_10.md) To Rama also, in the war of
 Lauka, Garuda was eminently useful: in Rama's last conflict with Ravana
 the latter was not overcome without the aid of Garuda, sent by Vishnu to
 destroy the serpent-arrows of Ravana. These arrows are called
@@ -204,9 +204,9 @@ winds to the regions of eternal day.
 
 ### Footnotes
 
-<span id="fn_10"></span>[1](oph10.htm#fr_10) Asiatic Res., vol. 5, p.
+<span id="fn_10"></span>[1](oph10.htm#fr_10.md) Asiatic Res., vol. 5, p.
 514.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11](oph11)
+[Next: Chapter 11](oph11.md)

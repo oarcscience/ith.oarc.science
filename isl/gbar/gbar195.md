@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar194) [Next](gbar196)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar194) [Next](gbar196.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ God.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar196)
+[Next](gbar196.md)

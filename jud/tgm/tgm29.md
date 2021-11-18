@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm28)  [Next](tgm30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm28)  [Next](tgm30.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ And very strong*."
 <span id="img_14700"></span>
 
 [![](tn/14700.jpg)  
-Click to enlarge](img/14700.jpg)
+Click to enlarge](img/14700.jpg.md)
 
  
 
@@ -251,4 +251,4 @@ forever and ever because of his beautiful poems.
 
 ------------------------------------------------------------------------
 
-[Next: 27. In the East is my Heart](tgm30)
+[Next: 27. In the East is my Heart](tgm30.md)

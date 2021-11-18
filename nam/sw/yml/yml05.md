@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml04)  [Next](yml06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml04)  [Next](yml06.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ are marked with the initials LC, MT, RL, and JV.
 
 ------------------------------------------------------------------------
 
-[Next: Yomumuli and the Little Surem People](yml06)
+[Next: Yomumuli and the Little Surem People](yml06.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](pme03)  [Next](pme05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](pme03)  [Next](pme05.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ of Christian nations, and of creating a permanent social antipathy.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Vulgar Errors](pme05)
+[Next: Chapter II. Vulgar Errors](pme05.md)

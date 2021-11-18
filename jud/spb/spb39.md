@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb38)  [Next](spb40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb38)  [Next](spb40.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 ### CONCLUSION SERVICE FOR THE DAY OF ATONEMENT
 
 *"Happy are they," etc., "And a redeemer," etc., and "Kaddish" pp
-[250](spb22.htm#page_250)–[254](spb22.htm#page_254)*.
+[250](spb22.htm#page_250)–[254](spb22.htm#page_254.md)*.
 
 O Lord, open thou my lips, and my mouth shall declare thy praise.
 
@@ -321,7 +321,7 @@ as in ancient years. Then shall the offering of Judah and Jerusalem be
 pleasant unto the Lord, as in the days of old, and as in ancient years.
 
 *"Our Father, our King," pp.
-[67](spb05.htm#page_67)–[70](spb05.htm#page_70), is said after the
+[67](spb05.htm#page_67)–[70](spb05.htm#page_70.md), is said after the
 Amidoth of the Evening, Morning, and Conclusion Services. On Sabbath
 this prayer is said only after the Conclusion Service*.
 
@@ -345,6 +345,6 @@ The Lord, he is God.
 
 ------------------------------------------------------------------------
 
-[Next: Order of Counting the Omer](spb40)
+[Next: Order of Counting the Omer](spb40.md)
 
 </div>

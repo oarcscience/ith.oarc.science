@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl45)  [Next](hpl47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl45)  [Next](hpl47.md) 
 
 ------------------------------------------------------------------------
 
@@ -254,4 +254,4 @@ died in the elder world.
 
 ------------------------------------------------------------------------
 
-[Next: The Haunter of the Dark (Weird Tales, 1936)](hpl47)
+[Next: The Haunter of the Dark (Weird Tales, 1936)](hpl47.md)

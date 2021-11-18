@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](tee03)  [Next](tee05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](tee03)  [Next](tee05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Evil Eye*, by Frederick Thomas Elworthy, \[1895\], at Intangible
 Textual Heritage
 
@@ -27,7 +27,7 @@ presence, breathing, or touching, there is a whole class of operations
 directly connected with it, comprehended in the terms Magic,
 Enchantment, Witchcraft.
 
-A great authority, <span id="fr_65"></span>[63](#fn_65) who has dealt
+A great authority, <span id="fr_65"></span>[63](#fn_65.md) who has dealt
 exhaustively with the subject of the Occult Sciences, including Omens,
 Augury, and Astrology, does not even allude to the belief in the evil
 eye, which we take to be the basis and origin of the Magical Arts. About
@@ -45,7 +45,7 @@ stages of civilisation; and although amongst most
 <span id="page_45">p. 45</span>
 
 savage races it is still the chief part of religion, <span
-id="fr_66"></span>[64](#fn_66) yet it is not to be taken in all cases as
+id="fr_66"></span>[64](#fn_66.md) yet it is not to be taken in all cases as
 the measure of the civilisation of the people practising it. The reason
 we assign is, that outward circumstances, such as local natural
 features, or climate, tend to make the mental condition of certain
@@ -87,14 +87,14 @@ Again, there are certain phenomena in thought-reading, which are
 well-established facts, clear to our senses. Above all, there are the
 strange powers possessed by Hypnotists over their patients, which we can
 no more explain than we can that minutely recorded act of the Witch of
-Endor <span id="fr_67"></span>[65](#fn_67) who "brought up" Samuel, and
+Endor <span id="fr_67"></span>[65](#fn_67.md) who "brought up" Samuel, and
 instantly discovered thereby that Saul himself was with her. Without
 believing either in magic or the evil eye, the writer fully agrees that
-"much may be learnt" <span id="fr_68"></span>[66](#fn_68) from a study
+"much may be learnt" <span id="fr_68"></span>[66](#fn_68.md) from a study
 of the belief, and of the many practices to which it has given rise. It
 is needful, however, to approach the subject with an open, judicial
 mind, and not to reject all, like the "Pharisees of Science," <span
-id="fr_69"></span>[67](#fn_69) that our superior understanding is unable
+id="fr_69"></span>[67](#fn_69.md) that our superior understanding is unable
 to explain. Our senses, our experience, alike tell us that there exist
 many facts and appearances, which appealed strongly to the despised
 judgment of our forefathers, rude and
@@ -105,11 +105,11 @@ cultured alike, which never have been either disproved or explained, and
 some of these facts have been held as firm articles of belief in all
 ages.
 
-Mr. De Vere <span id="fr_70"></span>[68](#fn_70) expresses precisely
+Mr. De Vere <span id="fr_70"></span>[68](#fn_70.md) expresses precisely
 what we mean when he says of the imaginative, rather than the critical
 mind of our chivalrous ancestors of the Middle Ages, that "they
 delightedly believed much that many modern men unreasonably disbelieve
-to show their cleverness." <span id="fr_71"></span>[69](#fn_71)
+to show their cleverness." <span id="fr_71"></span>[69](#fn_71.md)
 
 It is easy, and the failure of modern science has made it safe, to call
 everything we cannot understand contemptible superstition. It is however
@@ -120,7 +120,7 @@ Christianity, to the belief in our Lord's miracles, to most solemn
 mysteries, and creeds other than those of our infallible selves, to the
 magic omens and portents which many believe in, and to the incantations
 or enchantments of charlatans, wizards, and sorcerers. <span
-id="fr_72"></span>[70](#fn_72)
+id="fr_72"></span>[70](#fn_72.md)
 
 The more, however, we study with unbiassed mind the subjects which are
 called occult, the more evident will it become, even to the least
@@ -138,10 +138,10 @@ must always remain, beyond his ken-essentially the supernatural.
 Man, having come to associate in thought those things which he found by
 experience to be connected in fact, proceeded erroneously to invert this
 action, and to conclude that association in thought must involve similar
-connection in reality. <span id="fr_73"></span>[71](#fn_73)
+connection in reality. <span id="fr_73"></span>[71](#fn_73.md)
 
 Here no doubt we have the true reason for that association of ideas with
-facts which a recent author <span id="fr_74"></span>[72](#fn_74) calls
+facts which a recent author <span id="fr_74"></span>[72](#fn_74.md) calls
 Sympathetic Magic. He says: "One of the principles of this is that any
 effect may be produced by imitating it." So concise a definition may
 well be borne in mind, for we are told that it lies at the very
@@ -166,26 +166,26 @@ perverted to the accomplishment, actual or fancied, of the basest
 designs of malignant spite, than to the higher purposes of religion.
 
 To illustrate his meaning of the term Sympathetic Magic, the
-author <span id="fr_75"></span>[73](#fn_75) says: "If it is wished to
+author <span id="fr_75"></span>[73](#fn_75.md) says: "If it is wished to
 kill a person, an image of him is made and then destroyed, and it is
 believed that through a certain physical sympathy between the person and
 his image, the man feels the injuries done to the image as if they were
 done to his own body, and that when it is destroyed he must
 simultaneously perish." The idea herein expressed is as old as the
-hills, and is practised to-day. <span id="fr_76"></span>[74](#fn_76) The
+hills, and is practised to-day. <span id="fr_76"></span>[74](#fn_76.md) The
 ancient Egyptians believed that the *ushebtiu* or little figures of
-stone, wood, or pottery ([Figs. 1, 2, and 3](#img_05000) which they
+stone, wood, or pottery ([Figs. 1, 2, and 3](#img_05000.md) which they
 placed, often in such numbers, in the tombs of their dead, would provide
 the deceased with servants and attendants to work for him in the nether
 world, and to fight for him against the many enemies he would there have
 to combat. Their name signifies *respondents*, <span
-id="fr_77"></span>[75](#fn_77) as if to answer to the call for help. The
+id="fr_77"></span>[75](#fn_77.md) as if to answer to the call for help. The
 same curious belief is shown in the imitations or re-
 
 <span id="page_50">p. 50</span>
 
 presentations of food, such as terra-cotta bread, <span
-id="fr_78"></span>[76](#fn_78) and other articles placed with the dead
+id="fr_78"></span>[76](#fn_78.md) and other articles placed with the dead
 for his use and sustenance.
 
 Maspero in his lectures on the "Egyptian Hell" (see a long notice in the
@@ -193,10 +193,10 @@ Maspero in his lectures on the "Egyptian Hell" (see a long notice in the
 
 <span id="img_05000"></span> <span align="CENTER"> [![Figures 1, 2 and
 3](tn/05000.jpg)  
-Click to enlarge](img/05000.jpg)  
+Click to enlarge](img/05000.jpg.md)  
 Figures 1, 2 and 3  
 </span>  
- <span id="fr_79"></span>[76a](#fn_79)
+ <span id="fr_79"></span>[76a](#fn_79.md)
 
 dwells upon the reasons which induced the ancients to provide their dead
 with arms, food, amulets, and slaves, for it was thought the dead would
@@ -216,7 +216,7 @@ was devout belief, would be satisfied with a mere make-believe, or even
 the picture of the article he needed. They seem to have thought that in
 the future state the person deceased would be so readily deceived, as to
 consider himself provided for by the most innocently transparent
-counterfeits. <span id="fr_80"></span>[77](#fn_80)
+counterfeits. <span id="fr_80"></span>[77](#fn_80.md)
 
 This remarkable belief in the easy gullibility of the departed was by no
 means confined to the ancient Egyptians, for among the Chinese is found
@@ -239,7 +239,7 @@ spurious paper money in imitation of the old extinct currency, which
 they burn at the funeral, and also annually at the grave of their
 departed relative. The Egyptians did almost the same thing: they broke
 the arms placed with the dead. This killed them, and set their ghosts
-free to follow their dead master. <span id="fr_81"></span>[78](#fn_81)
+free to follow their dead master. <span id="fr_81"></span>[78](#fn_81.md)
 
 Such deception, which they think suitable for the spiritual world,
 evidently will not do for the present: at the death of a Chinaman, his
@@ -289,7 +289,7 @@ FIG. 4<br />
 
 and thorns, which have been found not long ago in old houses near the
 writer's home. The illustrations are careful drawings from the originals
-and represent actual size. <span id="fr_82"></span>[79](#fn_82) These
+and represent actual size. <span id="fr_82"></span>[79](#fn_82.md) These
 hearts are also said to be malignant in design as well as protective:
 that the persons who stuck those pins into the hearts, had special
 ill-will, and desired to work injury against the person in whose house
@@ -322,7 +322,7 @@ FIG. 5<br />
 
 in the middle of the heart, and it is regarded as the mainspring of
 action, so that to bewitch the spirit in a man's heart is to cause him
-to waste away and die." <span id="fr_83"></span>[80](#fn_83) The charm
+to waste away and die." <span id="fr_83"></span>[80](#fn_83.md) The charm
 doctor is the great spiritual power: his business is to find out the
 witch who has eaten the heart of a newly deceased person.
 
@@ -334,7 +334,7 @@ an onion was found hidden in a chimney, with a paper stuck round it by
 numberless pins; on this was written the name of a well-known and
 highly-respected gentleman, a large employer of labour.
 
-The other day I <span id="fr_84"></span>[81](#fn_84) was at the Court
+The other day I <span id="fr_84"></span>[81](#fn_84.md) was at the Court
 House, East Quantoxhead, and was shown in the chimney of a now disused
 kitchen--suspended--a sheep's heart stuck full of pins. I think Captain
 L------ told me that this was done by persons who thought themselves
@@ -357,12 +357,12 @@ remarkable coincidence followed these proceedings, that the old woman,
 who bore a bad reputation for "overlooking," should have met her death
 by falling into the fire on her own hearth. We are not told how soon
 this event followed the burning of the heart. <span
-id="fr_85"></span>[82](#fn_85)
+id="fr_85"></span>[82](#fn_85.md)
 
 Another recent instance in Somerset. An old woman living in the Mendip
 district had her pig "took bad," and of course at once concluded that it
 was "overlooked." As usual in such cases, a white witch was applied
-to. <span id="fr_86"></span>[83](#fn_86) The following is what took
+to. <span id="fr_86"></span>[83](#fn_86.md) The following is what took
 place in obedience to his orders.
 
 A sheep's heart was stuck full of pins and roasted before the fire.
@@ -379,13 +379,13 @@ fire, George," the son of the old woman bewitched, sprinkled the fire,
 thus adding a ghastly yellow light to the general effect. After this had
 gone on far into the night, the inevitable "black cat" jumped out from
 somewhere, and was pronounced to be the fiend which had been
-exorcised." <span id="fr_87"></span>[84](#fn_87)
+exorcised." <span id="fr_87"></span>[84](#fn_87.md)
 
 <span id="page_57">p. 57</span>
 
 Closely allied to these practices is that of the maidens in Shropshire,
 who drop needles and pins into the wells at Wenlock, to arrest and fix
-the affections of their lovers. <span id="fr_88"></span>[85](#fn_88) Nor
+the affections of their lovers. <span id="fr_88"></span>[85](#fn_88.md) Nor
 is this particular form of sympathetic enchantment, which here in
 Somerset is a very common one, by any means confined to this country.
 
@@ -418,13 +418,13 @@ regular name, *Fattura della* 
 
 morte (deathmaker), and that it is constantly employed in the same
 manner, and for the same purpose, as the pig's heart or onion is with
-us. [Fig. 6](#img_05800) is from a drawing of this remarkable object now
-in the Pitt Rivers Museum. <span id="fr_89"></span>[86](#fn_89) The
+us. [Fig. 6](#img_05800.md) is from a drawing of this remarkable object now
+in the Pitt Rivers Museum. <span id="fr_89"></span>[86](#fn_89.md) The
 string or yarn twisted
 
 <span id="img_05800"></span> <span align="CENTER"> [![FIG.
 6](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 FIG. 6  
 </span>
 
@@ -440,14 +440,14 @@ especial meaning, and is certainly a relic of ancient days, for
 Petronius, writing of certain incantations performed for the purpose of
 freeing a certain Encolplus from a spell, says: "She then took from her
 bosom a web of twisted threads of various colours, and bound it on my
-neck." <span id="fr_90"></span>[87](#fn_90)
+neck." <span id="fr_90"></span>[87](#fn_90.md)
 
 <span id="page_59">p. 59</span>
 
 <span class="contnote">\[paragraph continues\]</span> The same custom of
 tying threads of many colours on the necks of infants as part of a charm
 against fascination is mentioned by Persius. <span
-id="fr_91"></span>[88](#fn_91)
+id="fr_91"></span>[88](#fn_91.md)
 
 The foregoing examples are intended to show sympathetic magic in its
 destructive or evil-working side, but we may easily find instances of
@@ -467,7 +467,7 @@ by the practice of certain acts, such as dropping pins, maidens learn
 who is to be their lover; also on the other hand ill-wishing is
 practised; for corks stuck with pins are set afloat in them, and the
 hearts of enemies are wounded thereby. <span
-id="fr_92"></span>[89](#fn_92)
+id="fr_92"></span>[89](#fn_92.md)
 
 One of our commonest cures for warts is: "Take a dew-snail and rub it on
 the wart, then stick the
@@ -475,7 +475,7 @@ the wart, then stick the
 <span id="page_60">p. 60</span>
 
 snail upon a white thorn, and as the snail dries up and 'goes away' so
-will the wart." <span id="fr_93"></span>[90](#fn_93) Another is: "Steal
+will the wart." <span id="fr_93"></span>[90](#fn_93.md) Another is: "Steal
 a piece of fresh raw beef and rub that upon the wart, then bury it where
 nobody sees, and as the meat perishes, so will the wart." In both these
 cases secrecy is of the essence of the act--if any one is told or knows
@@ -528,7 +528,7 @@ in Sir Kenelm's *Relation of Mr. Howard*.
 To staunch the Blood either of a Wound or bleeding at the Nose, take
 only some of the Blood upon a Rag, and put some Powder upon it; or take
 a Bason with fresh water and put some Powder into it; and bath the
-Nostrils with it. <span id="fr_94"></span>[91](#fn_94)
+Nostrils with it. <span id="fr_94"></span>[91](#fn_94.md)
 
 "A few years ago in India, during a cholera scare," a witness tells the
 writer, "a woman dressed in fantastic style was led by two men up to an
@@ -565,7 +565,7 @@ Throughout Europe, the Maypole is supposed to impart a fertilising
 influence over both women and cattle as well as vegetation.
 
 Sometimes these May trees, and probably our west country <span
-id="fr_95"></span>[92](#fn_95) Neck, like the ancient Greek *Eiresione*,
+id="fr_95"></span>[92](#fn_95.md) Neck, like the ancient Greek *Eiresione*,
 were burnt at the end of the year, or when supposed to be dead; and
 surely it is no unfair inference to assume that such burning was a piece
 of ritualistic worship of the life-giving Sun, whose bright rays are so
@@ -586,16 +586,16 @@ virtue is supposed to be exhausted, it is replaced by a new one. How
 widely spread these ideas are found, and among what essentially
 different races, can be proved by the fact that precisely analogous
 customs are found in Sweden and Borneo, in India, Africa, North America,
-and Peru. <span id="fr_96"></span>[93](#fn_96)
+and Peru. <span id="fr_96"></span>[93](#fn_96.md)
 
 Referring to sun-worship, mentioned above, there are still remaining
 amongst us many vestiges, besides those relating to the Beltan
-fires, <span id="fr_97"></span>[94](#fn_97) in Scotland, Ireland, and
+fires, <span id="fr_97"></span>[94](#fn_97.md) in Scotland, Ireland, and
 Northern England.
 
 An Irish peasant crawls three times round the healing spring, in a
 circuit that imitates the course of the sun. <span
-id="fr_98"></span>[95](#fn_98) It is everywhere thought most unlucky to
+id="fr_98"></span>[95](#fn_98.md) It is everywhere thought most unlucky to
 progress in a direction opposite to the course of the sun; indeed so
 well is this understood that we
 
@@ -609,17 +609,17 @@ people used to march three times from east to west round their crops and
 their cattle. If a boat put out to sea, it first made three turns in
 this direction, before starting on its course; if a welcome stranger
 visited the islands, the people passed three times round their
-guest. <span id="fr_99"></span>[96](#fn_99) A flaming torch was carried
+guest. <span id="fr_99"></span>[96](#fn_99.md) A flaming torch was carried
 three times round a child daily until it was christened. <span
-id="fr_100"></span>[97](#fn_100)
+id="fr_100"></span>[97](#fn_100.md)
 
 The old Welsh names for the cardinal points of the sky, the north being
 the left hand and the south the right, are signs of an ancient practice
-of turning to the rising sun. <span id="fr_101"></span>[98](#fn_101)
+of turning to the rising sun. <span id="fr_101"></span>[98](#fn_101.md)
 
-In the Highlands of Scotland <span id="fr_102"></span>[99](#fn_102) and
+In the Highlands of Scotland <span id="fr_102"></span>[99](#fn_102.md) and
 in Ireland it was usual to drive cattle through the needfire as a
-preservative against disease. <span id="fr_103"></span>[100](#fn_103) In
+preservative against disease. <span id="fr_103"></span>[100](#fn_103.md) In
 these last examples we see customs almost analogous to making the
 children pass through the fire to Moloch.
 
@@ -629,7 +629,7 @@ We know that our British forefathers were Sun-worshippers,
 
 though the Sun does not appear to have been the chief of their
 divinities. Lug was the personification of the sun; he was the son of
-Dagda <span id="fr_104"></span>[101](#fn_104) "the good god," who was
+Dagda <span id="fr_104"></span>[101](#fn_104.md) "the good god," who was
 "grayer than the gray mist," and he had another son named "Ogma the
 sun-faced," the patron of writing and prophecy.
 
@@ -637,7 +637,7 @@ It may well be maintained that all our modern notions included in the
 general term Orientation are but survivals of the once universal
 sun-worship.
 
-A great authority <span id="fr_105"></span>[102](#fn_105) says that the
+A great authority <span id="fr_105"></span>[102](#fn_105.md) says that the
 ceremony of Orientation "unknown in primitive Christianity . . . was
 developed within its first four centuries."
 
@@ -668,11 +668,11 @@ Jerusalem, where he believed his God to reside, was situated to the west
 of Babylon.
 
 It was an ancient custom among the heathen to worship with their faces
-towards the east. <span id="fr_106"></span>[103](#fn_106) This is
+towards the east. <span id="fr_106"></span>[103](#fn_106.md) This is
 confirmed by Clement of Alexandria, who says that the altars and statues
 of pagan temples were placed at the east end, so that those who came to
 worship might have their faces towards them. <span
-id="fr_107"></span>[104](#fn_107) This account scarcely accords with the
+id="fr_107"></span>[104](#fn_107.md) This account scarcely accords with the
 construction of Egyptian temples, yet we read immediately: "Nevertheless
 the way of building temples towards the east, so that the doors being
 opened should receive the rays of the rising sun, was very ancient, and
@@ -695,7 +695,7 @@ sometimes built over his grave. The entrance, which faces east, has an
 opening through which a grown person may creep. Near Rockhampton I saw
 several graves not more than a foot deep, in which the feet were
 directed towards the rising sun." <span
-id="fr_108"></span>[105](#fn_108)
+id="fr_108"></span>[105](#fn_108.md)
 
 The care observed by the ancient Egyptians in building their temples
 properly east and west is remarkable, and while perhaps involving
@@ -705,11 +705,11 @@ rock-hewn temples at Abou Simbel. These are carefully constructed to
 meet the rising sun upon two anniversaries. The great temple was hewn
 out to commemorate the victory of Rameses the Great over the Cheta, and
 was specially dedicated to Ra, the God of Light. <span
-id="fr_109"></span>[106](#fn_109) The writer was fortunate enough to see
+id="fr_109"></span>[106](#fn_109.md) The writer was fortunate enough to see
 the rays at sunrise penetrate to the extreme end, and light up the
 statues at the innermost part of the sanctuary, on the very anniversary
 of the famous battle--February 24. <span
-id="fr_110"></span>[107](#fn_110) The smaller temple also commemorates a
+id="fr_110"></span>[107](#fn_110.md) The smaller temple also commemorates a
 victory of Rameses, but evidently at a later
 
 <span id="page_68">p. 68</span>
@@ -733,7 +733,7 @@ themselves, were not forbidden, but were consecrated by adoption as
 sacred ceremonies into the then reformed Jewish worship which we call
 Christianity. We find, too, that baptism itself was in the early Church
 closely allied to Orientation, in the position in which the catechumen
-was placed. <span id="fr_111"></span>[108](#fn_111)
+was placed. <span id="fr_111"></span>[108](#fn_111.md)
 
 It is not generally known that in pagan temples there was a vessel of
 stone or brass, called περιρραντήριον, filled with holy water, with
@@ -742,7 +742,7 @@ which all those admitted to the sacrifices were sprinkled, and
 <span id="page_69">p. 69</span>
 
 beyond this it was not lawful for the profane to pass, <span
-id="fr_112"></span>[109](#fn_112) until purified by water. By some
+id="fr_112"></span>[109](#fn_112.md) until purified by water. By some
 accounts this vessel was placed at the door of the temple; thus the
 holy-water stoups, outside the doors of so many of our old churches, are
 not of Christian origin at all, but merely an adaptation of the
@@ -751,7 +751,7 @@ lustration used in rites we now call heathen.
 Although it was usually considered that a small sprinkling was
 sufficient, yet sometimes, before participation in the sacred rites, the
 feet were washed as well as the hands. <span
-id="fr_113"></span>[110](#fn_113) So also the water was required to be
+id="fr_113"></span>[110](#fn_113.md) So also the water was required to be
 clear and free from all impurities. The Jews used the same rite as the
 pagans, and were careful to have clean water for their washing of
 purification, hence St. Paul's expression (Heb. x. 22), "Our hearts
@@ -774,10 +774,10 @@ west, for the child
 <span id="page_70">p. 70</span>
 
 must be passed through it towards the rising sun. <span
-id="fr_114"></span>[111](#fn_114)
+id="fr_114"></span>[111](#fn_114.md)
 
 Another custom almost similar is reported from Gweek, in the parish of
-Wendron, Cornwall, <span id="fr_115"></span>[112](#fn_115) where the
+Wendron, Cornwall, <span id="fr_115"></span>[112](#fn_115.md) where the
 Tolvan or holed stone was in repute as a means of curing weak or rickety
 infants, who were brought, often from a distance, to be passed through
 the hole.
@@ -793,7 +793,7 @@ so they might seem to be new born."
 So in Rome, such as had been thought dead in battle, and afterwards
 returned home unexpectedly, were not allowed to enter at the door of
 their own houses, but were received at a passage opened in the
-roof, <span id="fr_116"></span>[113](#fn_116) and thus, as it were, in
+roof, <span id="fr_116"></span>[113](#fn_116.md) and thus, as it were, in
 full view of the sun.
 
 These rites can be considered as nothing short of dramatic
@@ -835,7 +835,7 @@ Happahs the greater part of his property if they
 <span id="page_72">p. 72</span>
 
 would but bring back his hair and the leaf, for that otherwise he would
-be sure to die. <span id="fr_117"></span>[114](#fn_117)
+be sure to die. <span id="fr_117"></span>[114](#fn_117.md)
 
 It is for this reason that nothing whatever is to be seen but ashes on
 the spot where gypsies have encamped, unless it be the little peeled
@@ -865,19 +865,19 @@ thrown in the same direction with
 <span id="page_73">p. 73</span>
 
 hissing and curses, and wishes that disease and misfortune may overtake
-their enemy. <span id="fr_118"></span>[115](#fn_118)
+their enemy. <span id="fr_118"></span>[115](#fn_118.md)
 
 One cannot but wonder if the little stick stuck up by our gypsies is in
 any way connected with this custom. These latter are said to have come
 from India, and their habit of burning up all refuse after them, like
 the far-away Australians, seems to point to a common origin. <span
-id="fr_119"></span>[116](#fn_119)
+id="fr_119"></span>[116](#fn_119.md)
 
 A recent traveller in Australia says that "in order to be able to
 practise his arts against any black man, the wizard must be in
 possession of some article that has belonged to him--say, some of his
 hair or of the food left in his camp, or some similar thing. <span
-id="fr_120"></span>[117](#fn_120) On Herbert River the natives need only
+id="fr_120"></span>[117](#fn_120.md) On Herbert River the natives need only
 know the name of the person in question, and for this reason they rarely
 use their proper names in addressing or speaking of each other, but
 simply their clan names."
@@ -1003,14 +1003,14 @@ this, he is usually satisfied that he has definitely disposed of the
 matter. . . . The whole Aryan family believed at one time, not only that
 his name was a part of a man, but that it was the part of him which is
 termed the soul, the breath of life, or whatever you may choose to
-define it as being. <span id="fr_121"></span>[118](#fn_121)
+define it as being. <span id="fr_121"></span>[118](#fn_121.md)
 
 May we not add to this, that what relates to persons may by the same
 reasoning be applied to things? Hence, of course, comes the belief of
 the modern Neapolitan, that in the absence of the amulet or charm the
 mere utterance of its name is equally effective as a protection, and
 that force is added thereto by the repetition of the name. <span
-id="fr_122"></span>[119](#fn_122)
+id="fr_122"></span>[119](#fn_122.md)
 
 Professor Rhys says that the Irish "probably treated the name as a
 substance, but without placing it on one's person, or regarding it as
@@ -1024,7 +1024,7 @@ savages of other countries, that
 
 they never utter the names of the dead, lest their spirits should hear
 the voices of the living and thus discover their whereabouts." <span
-id="fr_123"></span>[120](#fn_123) Did not the Witch of Endor "call up"
+id="fr_123"></span>[120](#fn_123.md) Did not the Witch of Endor "call up"
 Samuel, that is by uttering his name?
 
 The connection of a man's shadow with his body, as evidenced in the
@@ -1041,14 +1041,14 @@ or hacking it with a sword. Sankara, to prove his supernatural powers to
 the Grand Lama, soared into the air, but as he mounted up, the Grand
 Lama, perceiving his shadow swaying and wavering on the ground, struck
 his knife into it, upon which down fell Sankara and broke his
-neck. <span id="fr_124"></span>[121](#fn_124) The ancient Greeks, too,
+neck. <span id="fr_124"></span>[121](#fn_124.md) The ancient Greeks, too,
 believed in the intimate association of a man or beast with his shadow.
 It was thought in Arabia that if a hyena trod on a person's shadow it
 deprived him of the power of speech; also that if a dog were standing on
 a roof, and if his shadow falling upon the ground were trodden upon by a
 hyena, the dog would fall down as if dragged by a rope. Again it was
 thought, on the other hand, that a dog treading upon the shadow of a
-hyena rendered the latter dumb. <span id="fr_125"></span>[122](#fn_125)
+hyena rendered the latter dumb. <span id="fr_125"></span>[122](#fn_125.md)
 
 <span id="page_79">p. 79</span>
 
@@ -1060,10 +1060,10 @@ do so, lose their shadow--from this it would seem to be thought, that
 the shadow contains the soul, *i.e.* the "Ka" of ancient Egypt.
 
 In olden times it was believed in many widely separated countries <span
-id="fr_126"></span>[123](#fn_126) that a human victim was a necessity
+id="fr_126"></span>[123](#fn_126.md) that a human victim was a necessity
 for the stability of any important building; indeed the idea was by no
 means confined to paganism, for we are told that St. Columba <span
-id="fr_127"></span>[124](#fn_127) found it necessary to bury St. Oran
+id="fr_127"></span>[124](#fn_127.md) found it necessary to bury St. Oran
 alive beneath the foundation of his monastery, in order to propitiate
 the spirits of the soil, who demolished at night what had been built
 during the day.
@@ -1072,7 +1072,7 @@ Here in England, throughout the Middle Ages, the common saying, "There's
 a skeleton in every house," or, "Every man has a skeleton in his
 closet," was hardly a figure of speech. The stories of finding the
 skeletons of faithless monks and nuns walled up alive, <span
-id="fr_128"></span>[124a](#fn_128) seem to have sprung from a much
+id="fr_128"></span>[124a](#fn_128.md) seem to have sprung from a much
 earlier notion; and it is now well established that these are by no
 means myths, but very facts. At Holsworthy, in North Devon, the parish
 church was restored in
@@ -1105,7 +1105,7 @@ self-reproach, fell from the ladder and broke his neck.
 At the castle of Liebenstein, a mother sold her child for this purpose.
 As the wall rose about the little one it cried out: "Mother, I still see
 you!" then later, "Mother, I can hardly see you!" and lastly, "Mother, I
-see you no more!" <span id="fr_129"></span>[124b](#fn_129) Several other
+see you no more!" <span id="fr_129"></span>[124b](#fn_129.md) Several other
 castles have similarly ghastly stories connected
 
 <span id="page_81">p. 81</span>
@@ -1127,7 +1127,7 @@ less value for one of more importance. The same idea, as that involved
 in the substitution of the sham for the real in the offerings made to
 the dead, is found running through sacrifice. This latter is defined as
 "primarily a meal offered to the deity," <span
-id="fr_130"></span>[125](#fn_130) and the offering up of a human victim
+id="fr_130"></span>[125](#fn_130.md) and the offering up of a human victim
 has been in all ages considered the highest and most important.
 
 The Romans substituted puppets for the human sacrifices to the goddess
@@ -1153,7 +1153,7 @@ Chumleigh or Roman offerings. The Egyptians who put off their dead with
 counterfeits, offered an animal to their gods instead of a man, but they
 symbolised their intended act by marking the creature to be slain with a
 seal bearing the image of a man bound and kneeling, with a sword at his
-throat. <span id="fr_131"></span>[125a](#fn_131)
+throat. <span id="fr_131"></span>[125a](#fn_131.md)
 
 When once the notion of substitution has got in, whether in offerings to
 gods or men, the decadence becomes rapid, and in these latter days takes
@@ -1167,7 +1167,7 @@ this, typifies it by building on a man's shadow. He entices a man on to
 the site, secretly measures his body or his shadow, and buries the
 measure under the foundation stone. It is believed, too, in this case
 that the man whose shadow is thus buried will die within the year. <span
-id="fr_132"></span>[126](#fn_132)
+id="fr_132"></span>[126](#fn_132.md)
 
 The Roumanians have a similar custom, and they,
 
@@ -1201,18 +1201,18 @@ terrible calamity which awaits the person who destroys his own image by
 breaking a looking-glass. Some hold that "he will shortly lose his best
 friend," which may of course mean that he will die himself, others that
 it portends speedy mortality in the family, usually the master. <span
-id="fr_133"></span>[127](#fn_133)
+id="fr_133"></span>[127](#fn_133.md)
 
 <span id="page_84">p. 84</span>
 
-In Germany, England, <span id="fr_134"></span>[128](#fn_134) Scotland,
+In Germany, England, <span id="fr_134"></span>[128](#fn_134.md) Scotland,
 and other places even as far off as India and Madagascar, it is still
 believed that, if after death a person see his image reflected in a
 mirror in the same room as the dead, he will shortly die himself; hence
 in many places it is customary to cover up looking-glasses in a
 death-chamber. Bombay Sunis not only cover the looking-glasses in the
 room of a dying person, but do so habitually in their bedrooms before
-retiring to rest. <span id="fr_135"></span>[129](#fn_135)
+retiring to rest. <span id="fr_135"></span>[129](#fn_135.md)
 
 The Zulus and Basutos of South Africa have almost precisely similar
 notions. We have no need however to go so far afield for instances of a
@@ -1249,7 +1249,7 @@ and wash un, because she wanted to look wether or no there wer' anything
 wi' his voot. Zo she went and helped lay un out, an' zhure enough there
 wer' a place right under his voot, as if so be a nail had been hammered
 into un. An' this, John her son twold I as it were certain true." <span
-id="fr_136"></span>[129a](#fn_136)
+id="fr_136"></span>[129a](#fn_136.md)
 
 The strange notion, that the soul goes out of the body with the shadow
 or the reflection, is carried still further by many savage people, and
@@ -1260,7 +1260,7 @@ lives. This idea is the secret of the savage's unwillingness to be
 photographed, or to have his likeness sketched, which may be said to be
 almost universal.
 
-A recent traveller <span id="fr_137"></span>[130](#fn_137) gives a
+A recent traveller <span id="fr_137"></span>[130](#fn_137.md) gives a
 graphic account of his experience among the Ainus after having
 apparently in another place (Volcano Bay) been permitted to paint the
 people unmolested, except by inquisitiveness. He says that a young lad
@@ -1297,30 +1297,30 @@ untold ages?
 
 ### Footnotes
 
-<span id="fn_65"></span>[44:63](tee04.htm#fr_65) Tylor, *Primitive
+<span id="fn_65"></span>[44:63](tee04.htm#fr_65.md) Tylor, *Primitive
 Culture*, vol. i. p. 101.
 
-<span id="fn_66"></span>[45:64](tee04.htm#fr_66) R. Stuart Poole in
+<span id="fn_66"></span>[45:64](tee04.htm#fr_66.md) R. Stuart Poole in
 Smith's *Dict. of Bible*, s.v. "Magic."
 
-<span id="fn_67"></span>[46:65](tee04.htm#fr_67) 1 Samuel xxviii. 7 *et
+<span id="fn_67"></span>[46:65](tee04.htm#fr_67.md) 1 Samuel xxviii. 7 *et
 seq*.
 
-<span id="fn_68"></span>[46:66](tee04.htm#fr_68) Tylor, *Primitive
+<span id="fn_68"></span>[46:66](tee04.htm#fr_68.md) Tylor, *Primitive
 Culture*, vol. i. p. 101.
 
-<span id="fn_69"></span>[46:67](tee04.htm#fr_69) *Spectator*, July 14,
+<span id="fn_69"></span>[46:67](tee04.htm#fr_69.md) *Spectator*, July 14,
 1894, p. 45.
 
-<span id="fn_70"></span>[47:68](tee04.htm#fr_70) "Mediæval Records,"
+<span id="fn_70"></span>[47:68](tee04.htm#fr_70.md) "Mediæval Records,"
 *Spectator*, January 6, 1894, p. 14.
 
-<span id="fn_71"></span>[47:69](tee04.htm#fr_71) These remarks are
+<span id="fn_71"></span>[47:69](tee04.htm#fr_71.md) These remarks are
 suggested by a "scientific gentleman," who was a witness with the writer
 of the twisting of the rod above mentioned, and who had the taste to
 assert that the young lady was in league with the Dowser.
 
-<span id="fn_72"></span>[47:70](tee04.htm#fr_72) Since this was written
+<span id="fn_72"></span>[47:70](tee04.htm#fr_72.md) Since this was written
 we have been favoured with Mr. Huxley's *ex cathedra* deliverance in the
 *Times* of July 9, 1894, on Mr. Lang's book, *Cock Lane and Common
 Sense*, which may be shortly summed up: "I do not understand these
@@ -1334,16 +1334,16 @@ there is a middle course, that of determining what we mean by
 witchcraft. As vulgarly understood and practised we are of course
 uncompromising unbelievers.
 
-<span id="fn_73"></span>[48:71](tee04.htm#fr_73) Tylor, *Primitive
+<span id="fn_73"></span>[48:71](tee04.htm#fr_73.md) Tylor, *Primitive
 Culture*, vol. i. p. 104.
 
-<span id="fn_74"></span>[48:72](tee04.htm#fr_74) Frazer, *Golden Bough*,
+<span id="fn_74"></span>[48:72](tee04.htm#fr_74.md) Frazer, *Golden Bough*,
 vol. i. p. 9.
 
-<span id="fn_75"></span>[49:73](tee04.htm#fr_75) Frazer, *Golden Bough*,
+<span id="fn_75"></span>[49:73](tee04.htm#fr_75.md) Frazer, *Golden Bough*,
 vol. i. p. 9.
 
-<span id="fn_76"></span>[49:74](tee04.htm#fr_76) In the Pitt Rivers
+<span id="fn_76"></span>[49:74](tee04.htm#fr_76.md) In the Pitt Rivers
 Museum at Oxford, is the original clay figure actually made to represent
 a man, whose death it was intended thereby to compass. This happened no
 longer ago than 1889 in Glen Urquhart, where the image was placed before
@@ -1356,10 +1356,10 @@ a papyrus scroll, evidently to compass the destruction of the person
 represented and denounced in the scrip. This figure and papyrus are now
 in the Ashmolean Museum. We refer again to this subject in Chapter XI.
 
-<span id="fn_77"></span>[49:75](tee04.htm#fr_77) Wilkinson, *Anc.
+<span id="fn_77"></span>[49:75](tee04.htm#fr_77.md) Wilkinson, *Anc.
 Egypt*, vol. iii. p. 492.
 
-<span id="fn_78"></span>[50:76](tee04.htm#fr_78) Maspero, *Archæol.
+<span id="fn_78"></span>[50:76](tee04.htm#fr_78.md) Maspero, *Archæol.
 Egyp.* p. 245. Of the ancient Greeks, we are told that in some "places
 they placed their infants in a thing bearing some resemblance to
 whatever sort of life they designed them for. Nothing was more common
@@ -1368,10 +1368,10 @@ designed as omens of their future riches and affluence" (Potter,
 *Archæol. Græc*. vol. ii. p. 321). We are further told these "things"
 were not real but imitations.
 
-<span id="fn_79"></span>[50:76a](tee04.htm#fr_79) Fig. 1 is from
+<span id="fn_79"></span>[50:76a](tee04.htm#fr_79.md) Fig. 1 is from
 Wilkinson, *Anc. Egyp.* Figs. 2 and 3 from author's collection.
 
-<span id="fn_80"></span>[51:77](tee04.htm#fr_80) "C'étaient des
+<span id="fn_80"></span>[51:77](tee04.htm#fr_80.md) "C'étaient des
 simulacres de pains, d'offrandes destinés à nourrir le mort
 éternellement. Beaucoup de vases qu'on déposait dans le tombe sont
 peints en imitation d'albâtre, de granit, de basalte, de bronze ou même
@@ -1382,12 +1382,12 @@ des peuples de l'Orient*, p. 53 sq.; Ib. *Trans. Bibl. Archæol. Soc.*
 vol. vii. p. 6 sq.; Mariette, *Sur les Tombes de l'Ancien Empire*, p. 17
 sq.; Brugsh, *Die Ægyptische Gräberwelt*, p. 16. sq.
 
-<span id="fn_81"></span>[52:78](tee04.htm#fr_81) Maspero, *Études
+<span id="fn_81"></span>[52:78](tee04.htm#fr_81.md) Maspero, *Études
 Égyptiennes*, vol. i. p. 192. See also Mariette, *Sur les Tombes*, p. 8.
 Closely allied to this is the breaking of votive offerings to SS. Cosmo
 and Damian, referred to later.
 
-<span id="fn_82"></span>[53:79](tee04.htm#fr_82) [Fig. 4](#img_05300)
+<span id="fn_82"></span>[53:79](tee04.htm#fr_82) [Fig. 4](#img_05300.md)
 was found October 1882 in a recess of a chimney in an old house occupied
 by Mrs. Cottrell in the village of Ashbrittle. It was wrapped in a
 flannel bag, black and rotten, which crumbled to pieces. Some of the old
@@ -1396,13 +1396,13 @@ people declared it to have been a custom when a pig died from the
 thorns, and to put it up the chimney, in the belief that as the heart
 dried and withered so would that of the malignant person who bad "ill
 wisht" the pig. As long as that lasted no witch could have power over
-the pigs belonging to that house. [Fig. 5](#img_05400) was found nailed
+the pigs belonging to that house. [Fig. 5](#img_05400.md) was found nailed
 up inside the "clavel" in the chimney of an old house at Staplegrove in
 1890. One side of this heart is stuck thickly with pins, the other side,
 here shown, has only the letters M. D. which are considered to be the
 initials of the supposed witch.
 
-<span id="fn_83"></span>[54:80](tee04.htm#fr_83) Herbert Ward, *Five
+<span id="fn_83"></span>[54:80](tee04.htm#fr_83.md) Herbert Ward, *Five
 Years with the Congo Cannibals*, 1890.
 
 Only ten years ago an old woman died here in the Workhouse, who was
@@ -1455,19 +1455,19 @@ the feet or other members are to injure the parts represented, while
 pins in the heart are intended to work fatally; thus a distinct
 gradation of enmity can be gratified.
 
-<span id="fn_84"></span>[55:81](tee04.htm#fr_84) Letter from Mr. J. L.
+<span id="fn_84"></span>[55:81](tee04.htm#fr_84.md) Letter from Mr. J. L.
 W. Page (Author of *Explorations of Dartmoor, Exmoor*, etc.), October
 20, 1890.
 
-<span id="fn_85"></span>[56:82](tee04.htm#fr_85) W. F. Rose, *Somerset
+<span id="fn_85"></span>[56:82](tee04.htm#fr_85.md) W. F. Rose, *Somerset
 and Dorset Notes and Queries*, vol. iv. part xxvi. p. 77 (1894).
 
-<span id="fn_86"></span>[56:83](tee04.htm#fr_86) Those whose profession
+<span id="fn_86"></span>[56:83](tee04.htm#fr_86.md) Those whose profession
 is to counter-charm and to discover witchcraft are white witches or
 "wise men," or more commonly "conjurers." They are usually, but not
 always, men.
 
-<span id="fn_87"></span>[56:84](tee04.htm#fr_87) H. S. in the
+<span id="fn_87"></span>[56:84](tee04.htm#fr_87.md) H. S. in the
 *Spectator*, Feb. 17, 1894, p. 232.
 
 <span id="page_57">p. 57</span>
@@ -1480,7 +1480,7 @@ specimen of the same kind of heart as Fig. 5, at Oxford (Pitt Rivers
 Museum), has also a large nail through it, to fasten it to the wooden
 clavel.
 
-<span id="fn_88"></span>[57:85](tee04.htm#fr_88) Mrs. Gaskell in
+<span id="fn_88"></span>[57:85](tee04.htm#fr_88.md) Mrs. Gaskell in
 *Nineteenth Century*, Feb. 1894, p. 264.
 
 This, however, is somewhat wide of our subject, and belongs rather to
@@ -1488,16 +1488,16 @@ the widely-extended belief in holy wells and sacred springs. (For full
 information on this subject, see Mackinlay, *Folk Lore of Scottish Lochs
 and Springs*, 1894.)
 
-<span id="fn_89"></span>[58:86](tee04.htm#fr_89) In the same case are to
+<span id="fn_89"></span>[58:86](tee04.htm#fr_89.md) In the same case are to
 be seen one or two other hearts of the same character as [Figs.
-4](#img_05300) and [5](#img_05400), though less perfect as specimens.
+4](#img_05300) and [5](#img_05400.md), though less perfect as specimens.
 
-<span id="fn_90"></span>[58:87](tee04.htm#fr_90) Petronius, *Sat*. 131.
+<span id="fn_90"></span>[58:87](tee04.htm#fr_90.md) Petronius, *Sat*. 131.
 Story, *Castle of S. Angelo*, p. 211. Jahn, etc., p. 42, says: "Bunte
 Fäden spielten bei allen Zauberwesen eine grosse Rolle," and gives
 numerous references to classics and scholiasts.
 
-<span id="fn_91"></span>[59:88](tee04.htm#fr_91) Persius, *Sat*. ii. 31.
+<span id="fn_91"></span>[59:88](tee04.htm#fr_91.md) Persius, *Sat*. ii. 31.
 There is also a very common practice both in England and elsewhere of
 tying a bunch of many-coloured ribbons to horses' heads. "During the
 panic caused in Tunis by the cholera some extraordinary remedies were
@@ -1505,22 +1505,22 @@ eagerly run after by the populace." Among others one woman "sold bits of
 coloured ribbon to be pinned on the clothes of those who were anxious to
 escape the epidemic" (*Hygiene*, Nov. 17, 1893, p. 938).
 
-<span id="fn_92"></span>[59:89](tee04.htm#fr_92) On this subject see
+<span id="fn_92"></span>[59:89](tee04.htm#fr_92.md) On this subject see
 *Sacred Wells in Wales*, by Professor Rhys, read before the Cwmrodorian
 Society, January 11, 1893.
 
-<span id="fn_93"></span>[60:90](tee04.htm#fr_93) Compare this with the
+<span id="fn_93"></span>[60:90](tee04.htm#fr_93.md) Compare this with the
 many examples of sending away various diseases by hanging articles on
 trees, giver, by Dr. Tylor, *Primitive Culture*, vol. ii. p. 137.
 
-<span id="fn_94"></span>[61:91](tee04.htm#fr_94) *The True Preserver and
+<span id="fn_94"></span>[61:91](tee04.htm#fr_94.md) *The True Preserver and
 Restorer of Health*, by G. Hartman, Chymist, 1695, servant of Sir Kenelm
 Digby.
 
-<span id="fn_95"></span>[62:92](tee04.htm#fr_95) See "Crying the Neck,"
+<span id="fn_95"></span>[62:92](tee04.htm#fr_95.md) See "Crying the Neck,"
 *Transactions Devon Association*, 1891.
 
-<span id="fn_96"></span>[63:93](tee04.htm#fr_96) At the Pitt Rivers
+<span id="fn_96"></span>[63:93](tee04.htm#fr_96.md) At the Pitt Rivers
 Museum, Oxford, are many specimens of this Harvest figure from several
 parts of the world. Particularly several "Kirn babies" from Scotland,
 made from the last of the corn cut, and thus supposed to contain the
@@ -1541,29 +1541,29 @@ is by no means implied in their Scotch name. Mr. Frazer (*Golden Bough*,
 vol. i. p. 344) has therefore been misled by Brand. See *N. E. Dict.*
 s.v. "Corn-Baby."
 
-<span id="fn_97"></span>[63:94](tee04.htm#fr_97) See Brand, vol. i. p.
+<span id="fn_97"></span>[63:94](tee04.htm#fr_97.md) See Brand, vol. i. p.
 226 *et seq*.
 
-<span id="fn_98"></span>[63:95](tee04.htm#fr_98) Elton, *Origins of
+<span id="fn_98"></span>[63:95](tee04.htm#fr_98.md) Elton, *Origins of
 English History*, 2nd ed. p. 282.
 
-<span id="fn_99"></span>[64:96](tee04.htm#fr_99) Martin, *Description of
+<span id="fn_99"></span>[64:96](tee04.htm#fr_99.md) Martin, *Description of
 Western Islands*, quoted by Elton, *Orig*. p. 282.
 
-<span id="fn_100"></span>[64:97](tee04.htm#fr_100) In ancient Greece,
+<span id="fn_100"></span>[64:97](tee04.htm#fr_100.md) In ancient Greece,
 "on the fifth day after the birth, the midwives, having first purified
 themselves by washing their hands, ran round the fire hearth with the
 infant in their arms, thereby, as it were, entering it into the family"
 (Potter, *Archæol. Græc.* vol. ii. p. 322).
 
-<span id="fn_101"></span>[64:98](tee04.htm#fr_101) Rhys, *Welsh
+<span id="fn_101"></span>[64:98](tee04.htm#fr_101.md) Rhys, *Welsh
 Philology*, p. 10.
 
-<span id="fn_102"></span>[64:99](tee04.htm#fr_102) Kemble, *Saxons in
+<span id="fn_102"></span>[64:99](tee04.htm#fr_102.md) Kemble, *Saxons in
 England*, vol. i. p. 360, has a long note on this act in Perthshire
 during the present century, and also in Devonshire.
 
-<span id="fn_103"></span>[64:100](tee04.htm#fr_103) We refer to these
+<span id="fn_103"></span>[64:100](tee04.htm#fr_103.md) We refer to these
 fires later on, but they were undoubtedly relics of sun-worship.
 
 "In Munster and Connaught a bone (probably the representative of the
@@ -1573,27 +1573,27 @@ with others jumped through the fire 'for luck,' none of us knowing the
 original reason. "--Kinahan, *Folk-Lore Record*, vol. iv. 1881, quoted
 *Notes and Queries*, 8th ser. v. 433.
 
-<span id="fn_104"></span>[65:101](tee04.htm#fr_104) Elton, *Origins of
+<span id="fn_104"></span>[65:101](tee04.htm#fr_104.md) Elton, *Origins of
 English History*, p. 276.
 
-<span id="fn_105"></span>[65:102](tee04.htm#fr_105) Tylor, *Primitive
+<span id="fn_105"></span>[65:102](tee04.htm#fr_105.md) Tylor, *Primitive
 Culture*, vol. ii. p. 387.
 
-<span id="fn_106"></span>[66:103](tee04.htm#fr_106) Selden says: "’Tis
+<span id="fn_106"></span>[66:103](tee04.htm#fr_106.md) Selden says: "’Tis
 in the main allowed that the heathens did in general look towards the
 east when they prayed, even from the earliest ages of the world."
 
-<span id="fn_107"></span>[66:104](tee04.htm#fr_107) Potter, vol. i. pp.
+<span id="fn_107"></span>[66:104](tee04.htm#fr_107.md) Potter, vol. i. pp.
 223, 224. Upon the subject of "Bowing towards the Altar" much is said in
 Brand, vol. ii. pp. 317-324 (Bohn, 1882).
 
-<span id="fn_108"></span>[67:105](tee04.htm#fr_108) Lumboltz, *Among
+<span id="fn_108"></span>[67:105](tee04.htm#fr_108.md) Lumboltz, *Among
 Cannibals*, 1889, p. 276.
 
-<span id="fn_109"></span>[67:106](tee04.htm#fr_109) Brugsch, *Egypt
+<span id="fn_109"></span>[67:106](tee04.htm#fr_109.md) Brugsch, *Egypt
 under the Pharaohs*, vol. ii. p. 412, 2nd ed. 1881,
 
-<span id="fn_110"></span>[67:107](tee04.htm#fr_110) The facts given here
+<span id="fn_110"></span>[67:107](tee04.htm#fr_110.md) The facts given here
 are those observed, and those related on the spot traditionally. It is
 however clear that although this temple may have been truly orientated
 by Rameses for the day of his great battle, yet that date could not then
@@ -1601,41 +1601,41 @@ have corresponded with the present season of February 24, owing to the
 precession of the equinox. Upon this subject see Norman Lockyer in *The
 Dawn of Astronomy*, reviewed in the Times, February 2, 1894.
 
-<span id="fn_111"></span>[68:108](tee04.htm#fr_111) As we proceed we
+<span id="fn_111"></span>[68:108](tee04.htm#fr_111.md) As we proceed we
 shall see other striking examples of this eclecticism of modern
 Christianity, and a lesson of tolerance may well be learnt from the
 spectacle.
 
-<span id="fn_112"></span>[69:109](tee04.htm#fr_112) Potter, vol. i. pp.
+<span id="fn_112"></span>[69:109](tee04.htm#fr_112.md) Potter, vol. i. pp.
 224, 261.
 
-<span id="fn_113"></span>[69:110](tee04.htm#fr_113) *Ibid.* vol. i. pp.
+<span id="fn_113"></span>[69:110](tee04.htm#fr_113.md) *Ibid.* vol. i. pp.
 262, 263.
 
-<span id="fn_114"></span>[70:111](tee04.htm#fr_114) Mead, *Proceed. Som.
+<span id="fn_114"></span>[70:111](tee04.htm#fr_114.md) Mead, *Proceed. Som.
 Arch. and Nat. Hist. Soc.* vol. xxxviii. p. 362, 1892. Also F. T.
 Elworthy in *Spectator*, February 5, 1887. The tree itself about which
 this notice in the *Spectator* was written is now in the Somerset
 Archæological Society's Museum at Taunton.
 
-<span id="fn_115"></span>[70:112](tee04.htm#fr_115) *First Report of
+<span id="fn_115"></span>[70:112](tee04.htm#fr_115.md) *First Report of
 Committee on Ethnographical Survey of the United Kingdom* (Sec. H,
 British Association), 1893, p. 15.
 
-<span id="fn_116"></span>[70:113](tee04.htm#fr_116) Potter, vol. i. p.
+<span id="fn_116"></span>[70:113](tee04.htm#fr_116.md) Potter, vol. i. p.
 265.
 
-<span id="fn_117"></span>[72:114](tee04.htm#fr_117) D. Porter, *Journal
+<span id="fn_117"></span>[72:114](tee04.htm#fr_117.md) D. Porter, *Journal
 of a Cruise in the Pacific*, vol. ii. p. 188. Dawson, *Australian
 Aborigines*, tells other stories of this nature.
 
 Frazer, Golden Bough, vol. i. p. 198, gives many references to authors
 who have recounted instances of this common belief.
 
-<span id="fn_118"></span>[73:115](tee04.htm#fr_118) Dawson, *Australian
+<span id="fn_118"></span>[73:115](tee04.htm#fr_118.md) Dawson, *Australian
 Aborigines*, p. 54.
 
-<span id="fn_119"></span>[73:116](tee04.htm#fr_119) Here we have another
+<span id="fn_119"></span>[73:116](tee04.htm#fr_119.md) Here we have another
 link in that remarkable chain of beliefs so ably demonstrated by Dr.
 Tylor, at the British Association meeting, 1894, in his lecture on the
 "Distribution of Mythical Beliefs as evidence in the History of
@@ -1646,26 +1646,26 @@ Sumatra, and the Indian Archipelago, is traced by Mr. Peal in "Fading
 Histories," *Journ. Asiatic Soc. of Bengal*, lxiii. part iii. No. 1,
 1894.
 
-<span id="fn_120"></span>[73:117](tee04.htm#fr_120) Lumholtz, *Among
+<span id="fn_120"></span>[73:117](tee04.htm#fr_120.md) Lumholtz, *Among
 Cannibals*, 1889, p. 280.
 
-<span id="fn_121"></span>[77:118](tee04.htm#fr_121) Prof. Rhys, "Welsh
+<span id="fn_121"></span>[77:118](tee04.htm#fr_121.md) Prof. Rhys, "Welsh
 Fairies," art. in *Nineteenth Century*, Oct. 1891, p. 566. *Cf.* also
 remark on Herbert River natives, p. 73.
 
-<span id="fn_122"></span>[77:119](tee04.htm#fr_122) Jorio, *Mimica degli
+<span id="fn_122"></span>[77:119](tee04.htm#fr_122.md) Jorio, *Mimica degli
 Antichi*, p. 92.
 
-<span id="fn_123"></span>[78:120](tee04.htm#fr_123) Lumholtz, *Among
+<span id="fn_123"></span>[78:120](tee04.htm#fr_123.md) Lumholtz, *Among
 Cannibals*, p. 279.
 
-<span id="fn_124"></span>[78:121](tee04.htm#fr_124) Bastian, *Die Völker
+<span id="fn_124"></span>[78:121](tee04.htm#fr_124.md) Bastian, *Die Völker
 des östlichen Asien*, v. 455.
 
-<span id="fn_125"></span>[78:122](tee04.htm#fr_125) Torreblanca, *De
+<span id="fn_125"></span>[78:122](tee04.htm#fr_125.md) Torreblanca, *De
 Magia*, ii. 49.
 
-<span id="fn_126"></span>[79:123](tee04.htm#fr_126) Tylor, *Primitive
+<span id="fn_126"></span>[79:123](tee04.htm#fr_126.md) Tylor, *Primitive
 Culture*, vol. i. p. 94 *et seq*. gives a number of very remarkable
 instances of foundation sacrifices from all parts of the world as for
 instance, quite in modern times even in our own possessions in the
@@ -1673,45 +1673,45 @@ Punjaub--the only son of a widow was thus sacrificed. But perhaps the
 strangest account of all is that of several willing victims, making the
 story of Quintus Curtius seem quite commonplace.
 
-<span id="fn_127"></span>[79:124](tee04.htm#fr_127) Baring-Gould, art.
+<span id="fn_127"></span>[79:124](tee04.htm#fr_127.md) Baring-Gould, art.
 "On Foundations," in Murray's Magazine, March 1887, pp. 365, 367. Tylor
 tells the same story, *op. cit.* i. 94.
 
-<span id="fn_128"></span>[79:124a](tee04.htm#fr_128) These stories are
+<span id="fn_128"></span>[79:124a](tee04.htm#fr_128.md) These stories are
 sifted and disproved in *The Immuring of Nuns*, by the Rev. H. Thurston,
 S.J., Catholic Truth Society, 1st ser. p. 125; but he by no means
 controverts facts relating to long antecedent beliefs.
 
-<span id="fn_129"></span>[80:124b](tee04.htm#fr_129) For authorities see
-Note [124](#fn_127), p. 79.
+<span id="fn_129"></span>[80:124b](tee04.htm#fr_129.md) For authorities see
+Note [124](#fn_127.md), p. 79.
 
-<span id="fn_130"></span>[81:125](tee04.htm#fr_130) Robertson Smith,
+<span id="fn_130"></span>[81:125](tee04.htm#fr_130.md) Robertson Smith,
 art. "Sacrifice," in *Ency. Brit.*
 
-<span id="fn_131"></span>[82:125a](tee04.htm#fr_131) Robertson Smith,
+<span id="fn_131"></span>[82:125a](tee04.htm#fr_131.md) Robertson Smith,
 art. "Sacrifice," in *Ency. Brit.*
 
-<span id="fn_132"></span>[82:126](tee04.htm#fr_132) Schmidt, Das
+<span id="fn_132"></span>[82:126](tee04.htm#fr_132.md) Schmidt, Das
 Volksleben der Neugriechen, p. 196 *et seq*. Frazer, Golden Bough, vol.
 i. p. 145, also quotes as above, and gives many other authorities, See
 also Baring-Gould, *Murray's Magazine*, March 1887, p. 373.
 
-<span id="fn_133"></span>[83:127](tee04.htm#fr_133) Dyer, *English Folk
+<span id="fn_133"></span>[83:127](tee04.htm#fr_133.md) Dyer, *English Folk
 Lore*, p. 277.
 
-<span id="fn_134"></span>[84:128](tee04.htm#fr_134) Dyer, *English Folk
+<span id="fn_134"></span>[84:128](tee04.htm#fr_134.md) Dyer, *English Folk
 Lore*, p. 109. *Folk-Lore Journal*, vol. iii. p. 281.
 
-<span id="fn_135"></span>[84:129](tee04.htm#fr_135) *Punjaub Notes and
+<span id="fn_135"></span>[84:129](tee04.htm#fr_135.md) *Punjaub Notes and
 Queries*, vol. ii. p. 906, quoted by Frazer.
 
-<span id="fn_136"></span>[85:129a](tee04.htm#fr_136) The recorder of
+<span id="fn_136"></span>[85:129a](tee04.htm#fr_136.md) The recorder of
 this story doubtless gives the facts correctly; but his rendering of the
 dialect is quite literary.
 
-<span id="fn_137"></span>[85:130](tee04.htm#fr_137) A. H. S. Landor,
+<span id="fn_137"></span>[85:130](tee04.htm#fr_137.md) A. H. S. Landor,
 *Alone with the Hairy Ainu*, p. 13
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Totems, Portents, Tree-Worship](tee05)
+[Next: Chapter III. Totems, Portents, Tree-Worship](tee05.md)

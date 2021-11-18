@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf21)  [Next](sbf23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf21)  [Next](sbf23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -61,6 +61,6 @@ wife; his wife died.
 ------------------------------------------------------------------------
 
 [Next: The Young Man Of The Ancient Race, Who Was Carried Off By A Lion;
-When Asleep In The Field.](sbf23)
+When Asleep In The Field.](sbf23.md)
 
 </div>

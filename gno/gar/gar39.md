@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar38)  [Next](gar40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar38)  [Next](gar40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -35,7 +35,7 @@ after the sum total has been reduced into its integrals Λατεινὸς; yet a
 prosaic non-controversialist will be more inclined to suspect that the
 Kabbalistic number shrouds the name of some potentate of the times who
 had happened to make himself especially formidable to the beholder of
-the Vision. <span id="fr_146"></span>[\*](#fn_145) But the titles *Iao*,
+the Vision. <span id="fr_146"></span>[\*](#fn_145.md) But the titles *Iao*,
 *Abraxas*, and the like, instead of being recent Gnostic *inventions*,
 were in all likelihood recognised "Holy Names," and borrowed from the
 most ancient religions of the East. Pliny must be alluding to something
@@ -56,7 +56,7 @@ Word," both are equally applicable to the Persian god. Again, the
 Egyptians, says Heliodorus (Æth. ix. 22), discovered the same value in
 Νειλος, appellation of that earliest god and father of their land,
 entitled in their hymns *Horus* also, properly the name of the
-Sun. <span id="fr_147"></span>[†](#fn_146) In the new-coined religions
+Sun. <span id="fr_147"></span>[†](#fn_146.md) In the new-coined religions
 of Egypt, other and stranger mysteries were extracted out of
 
 <span id="page_255">p. 255</span>
@@ -131,7 +131,7 @@ Papacy and the restoration of the Imperial power.
 
 <span id="img_fig11"></span> ![](img/fig11.jpg)
 
-[(\*)](gar71.htm#an_fig11)
+[(\*)](gar71.htm#an_fig11.md)
 
  
 
@@ -139,12 +139,12 @@ Papacy and the restoration of the Imperial power.
 
 ### Footnotes
 
-<span id="fn_145"></span>[254:\*](gar39.htm#fr_146) Who expressly tells
+<span id="fn_145"></span>[254:\*](gar39.htm#fr_146.md) Who expressly tells
 us that "his number is the number of a man"; that is, the sum of the
 numerical letters in the name of a certain person. The Hebrew characters
 representing "Cesar Nero" produce by addition the required sum.
 
-<span id="fn_146"></span>[254:†](gar39.htm#fr_147) Amongst the many
+<span id="fn_146"></span>[254:†](gar39.htm#fr_147.md) Amongst the many
 points of <span id="page_255">p. 255</span> close connexion between
 Hindoo and Egyptian Mythology is the name of the sacred river, so nearly
 resembling the Sanscrit *nil*, "blue," referring to the remarkable
@@ -155,4 +155,4 @@ upon that river. The Arabs still distinguish its upper confluents as the
 
 ------------------------------------------------------------------------
 
-[Next: The Abraxas Religion](gar40)
+[Next: The Abraxas Religion](gar40.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb62)  [Next](ptb64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb62)  [Next](ptb64.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 IN connection with the foregoing discussion on the properties of the
 mind, the circumstances relating to eminent mental disorders, such as
-madness, epilepsy; <span id="fr_220"></span>[1](#fn_220) and others of
+madness, epilepsy; <span id="fr_220"></span>[1](#fn_220.md) and others of
 the like formidable nature, duly claim attention.
 
 Now, with reference to these, it is always essential to consider the
@@ -24,7 +24,7 @@ adversely and noxiously configurated should be in elevation above them,
 or overrule them, or be in opposition to them, the mental properties
 will then consequently become impregnated with various disorders: the
 characters of which may be clearly known by the qualities of the stars
-thus controlling the places. <span id="fr_221"></span>[2](#fn_221)
+thus controlling the places. <span id="fr_221"></span>[2](#fn_221.md)
 
 It is true that there are many disorders of a moderate nature, capable
 of being distinguished by what has been already stated, in the preceding
@@ -116,7 +116,7 @@ publicly.
 
 The oriental and diurnal positions of Mars and Venus also contribute to
 more masculine and more reputable qualities; and their occidental and
-vespertine <span id="fr_222"></span>[1](#fn_222) positions to qualities
+vespertine <span id="fr_222"></span>[1](#fn_222.md) positions to qualities
 more feminine, and more sordid.
 
 Lastly, if Saturn be in familiarity with them, he will likewise
@@ -134,19 +134,19 @@ END OF THE THIRD BOOK
 
 ### Footnotes
 
-<span id="fn_220"></span>[114:1](ptb63.htm#fr_220) Epilepsy is defined
+<span id="fn_220"></span>[114:1](ptb63.htm#fr_220.md) Epilepsy is defined
 to be "a conclusive motion of the whole body, or some parts of its
 parts, accompanied with a loss of sense." The knowledge of this latter
 effect probably induced the author to rank it among diseases of the
 mind.
 
-<span id="fn_221"></span>[114:2](ptb63.htm#fr_221) Of Mercury, the Moon,
+<span id="fn_221"></span>[114:2](ptb63.htm#fr_221.md) Of Mercury, the Moon,
 and the ascendant.
 
-<span id="fn_222"></span>[116:1](ptb63.htm#fr_222) Εσπερινοι; perhaps,
+<span id="fn_222"></span>[116:1](ptb63.htm#fr_222.md) Εσπερινοι; perhaps,
 more properly, *nocturnal*; the word being used in contrast to ημερινοι,
 *diurnal*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Proem](ptb64)
+[Next: Chapter I. Proem](ptb64.md)

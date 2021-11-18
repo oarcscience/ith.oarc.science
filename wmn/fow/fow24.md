@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow23)  [Next](fow25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow23)  [Next](fow25.md) 
 
 ------------------------------------------------------------------------
 
@@ -261,4 +261,4 @@ omission of which was thought to presage unhappiness to the bride.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII: Superstitions About Women](fow25)
+[Next: Chapter XXIII: Superstitions About Women](fow25.md)

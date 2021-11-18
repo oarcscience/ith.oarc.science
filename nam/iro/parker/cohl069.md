@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl068)  [Next](cohl070) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl068)  [Next](cohl070.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ them and that they should never murmur.
 saying, 'How did you understand your people? '
 
 "'He answered, 'The majority consented that I should lead them.' <span
-id="fr_65"></span>[2](#fn_65)
+id="fr_65"></span>[2](#fn_65.md)
 
 "'Then the messengers replied, 'Truly the greater number will follow
 you."
@@ -37,11 +37,11 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_65"></span>[53:2](cohl069.htm#fr_65) Because the people of
+<span id="fn_65"></span>[53:2](cohl069.htm#fr_65.md) Because the people of
 this council elected that Handsome Lake should have authority over them
 he is ever after called Se:dwa:go'wa:nê, or chief leader, or our great
 teacher.
 
 ------------------------------------------------------------------------
 
-[Next: Section 59](cohl070)
+[Next: Section 59](cohl070.md)

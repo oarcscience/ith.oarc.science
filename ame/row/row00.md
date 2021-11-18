@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Next](row01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Next](row01.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@
 ------------------------------------------------------------------------
 
 [Next: What Makes a Man Superstitious; His Religion, or a Lack of
-It?](row01)
+It?](row01.md)

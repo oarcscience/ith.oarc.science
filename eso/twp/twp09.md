@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp08)  [Next](twp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp08)  [Next](twp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -383,4 +383,4 @@ especially of narcotics.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](twp10)
+[Next: Chapter VIII](twp10.md)

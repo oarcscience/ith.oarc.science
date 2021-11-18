@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kat00)  [Next](kat02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kat00)  [Next](kat02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
 ###### OF
 
-# VOLUME VII.--TRACT MOED KATAN. <span id="fr_0"></span>[1](#fn_0)
+# VOLUME VII.--TRACT MOED KATAN. <span id="fr_0"></span>[1](#fn_0.md)
 
 ### CHAPTER I.
 
@@ -27,7 +27,7 @@ overrule the decision of another? Where is it deduced from the
 Scriptures that tombs must be marked? Messengers on account of Kilaim,
 when and for what reason they were sent. The irrigating of plants and
 yard. gardens. How to stop a gap in a fence, in the middle days and the
-Sabbatical year, [1](kat02.htm#page_1)-9
+Sabbatical year, [1](kat02.htm#page_1.md)-9
 
 MISHNAS IV. to IX. How the priests had to make the inspection of
 plagues. If it is allowed to gather the bones of parents in the minor
@@ -40,7 +40,7 @@ interpretation by his father. How Rabh interpreted the advice of Ben
 Halafta to his own son as a blessing from the Scripture. The especial
 labors which may and may not be done on the middle days, and also the
 difference between a layman and a specialist on this subject,
-[9](kat02.htm#page_9)-18
+[9](kat02.htm#page_9.md)-18
 
 ### CHAPTER II.
 
@@ -48,7 +48,7 @@ MISHNAS I. to VI. Which labors may be done in the usual manner and which
 must be changed in their manner. If the property of one was fined by the
 court for violating the minor feasts, and he dies, is it in force for
 his heirs? And how it shall be done in the buying and selling places,
-[19](kat03.htm#page_19)-24
+[19](kat03.htm#page_19.md)-24
 
 ### CHAPTER III.
 
@@ -63,7 +63,7 @@ ban, and what is the fixed time for rebuke, ban, and excommunication.
 What happened to a young scholar whom R. Jehudah put under the ban. How
 the maid-servant of Rabbi put one under the ban for beating his grown-up
 son, and what the rabbis said to that. What Mar Zutra the Pious did when
-a young scholar was delinquent, [25](kat04.htm#page_25)-34
+a young scholar was delinquent, [25](kat04.htm#page_25.md)-34
 
 MISHNAS II. to VII. What documents are allowed to be written. About
 bonds and debts. About Phylacteries, etc. Do the days of the festival
@@ -77,15 +77,15 @@ funeral oration on Rabina. The answer of Bar Kipuk to the question of R.
 Ashi: What oration he would make on the day of his death; the oration on
 a child which died at birth; the oration on R. Zera when he has departed
 in Palestine--*all in verse*. To whom it must be said: "Go in peace,"
-and to whom, "Go with peace," [35](kat04.htm#page_35)-45
+and to whom, "Go with peace," [35](kat04.htm#page_35.md)-45
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[iii:1](kat01.htm#fr_0) See footnote in Tract
+<span id="fn_0"></span>[iii:1](kat01.htm#fr_0.md) See footnote in Tract
 Succah.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](kat02)
+[Next: Chapter I](kat02.md)

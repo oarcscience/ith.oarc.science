@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby12)  [Next](sby14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby12)  [Next](sby14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -60,12 +60,12 @@ And I am he to whom the serpent came,
 And by my will I made him dust.  
 And I am he that struck the rock and made it tremble,  
 And made to burst from its sides the sweetest of waters. <span
-id="fr_64"></span>[36](#fn_64)  
+id="fr_64"></span>[36](#fn_64.md)  
 And I am he that sent down the certain truth;  
 For me is the book that comforteth the oppressed.  
 And I am he that judged justly,  
 And when I judged it was my right  
-And I am he that made the springs <span id="fr_65"></span>[36](#fn_64)
+And I am he that made the springs <span id="fr_65"></span>[36](#fn_64.md)
 to give water,  
 Sweeter and pleasanter than all waters.  
 And I am he that caused it to appear in my mercy,  
@@ -75,7 +75,7 @@ Thou art the just judge and Ruler of the earth.
 And I am he that disclosed some of my wonders,  
 And some of my virtues are manifested in that which exists.  
 And I am he that caused the mountains to bow,  
-To move under me and at my will. <span id="fr_66"></span>[37](#fn_65)  
+To move under me and at my will. <span id="fr_66"></span>[37](#fn_65.md)  
 And I am he before whose majesty the wild beasts cried;  
 They turned to me worshiping, and kissed my feet.  
 And I am ‘Adî aš-Šâmî, the son of Musâfir. <span id="page_72">p.
@@ -110,14 +110,14 @@ place.
 
 ### Footnotes
 
-<span id="fn_64"></span>[71:36](sby13.htm#fr_65) That is the spring of
+<span id="fn_64"></span>[71:36](sby13.htm#fr_65.md) That is the spring of
 Šeiḫ ‘Adî.
 
-<span id="fn_65"></span>[71:37](sby13.htm#fr_66) The reference is to
+<span id="fn_65"></span>[71:37](sby13.htm#fr_66.md) The reference is to
 Jabal Maḳlûb, which, according to the Yezidi belief, moved from its
 place near Lališ to enable every Yezidi, wherever he may be, to direct
 his morning prayers toward the, tomb of ‘Adî.
 
 ------------------------------------------------------------------------
 
-[Next: The Principal Prayer of the Yezidis](sby14)
+[Next: The Principal Prayer of the Yezidis](sby14.md)

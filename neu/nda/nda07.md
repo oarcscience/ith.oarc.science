@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda06)  [Next](nda08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda06)  [Next](nda08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -64,7 +64,7 @@ biography:
 massive parchment-book in ancient monachal writing, containing sagas of
 the Kings of Norway, and many others: and it is, therefore, commonly
 called Flatey Book. This Bishop Bryniolf endeavored to purchase, first
-for money, and then for five [hundreds](errata.htm#1) of
+for money, and then for five [hundreds](errata.htm#1.md) of
 
 <span id="page_65">p. 65</span>
 
@@ -186,7 +186,7 @@ King Olaf sent Leif to Greenland to preach
 
 <span id="img_06800"></span> <span align="CENTER"> [![Reproduced page of
 the Flatey manuscript](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)  
+Click to enlarge](img/06800.jpg.md)  
 Reproduced page of the Flatey manuscript  
 </span>
 
@@ -327,4 +327,4 @@ follows.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. A Brief History of Eric the Red](nda08)
+[Next: Chapter IV. A Brief History of Eric the Red](nda08.md)

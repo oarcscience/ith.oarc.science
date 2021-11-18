@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl14)  [Next](jftl16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl14)  [Next](jftl16.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 <span id="img_15000"></span> <span align="CENTER"> [![He looked up and
 beheld the most beautiful woman his eyes had ever seen. (&lt;i&gt;Page
 157&lt;/i&gt;).](tn/15000.jpg)  
-Click to enlarge](img/15000.jpg)  
+Click to enlarge](img/15000.jpg.md)  
 He looked up and beheld the most beautiful woman his eyes had ever seen.
 (*Page 157*).  
 </span>
@@ -307,4 +307,4 @@ the land.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Bostanai](jftl16)
+[Next: The Story of Bostanai](jftl16.md)

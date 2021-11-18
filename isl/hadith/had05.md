@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had04)  [Next](had06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had04)  [Next](had06.md) 
 
 ------------------------------------------------------------------------
 
@@ -538,4 +538,4 @@ this chapter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Knowledge](had06)
+[Next: Chapter III. Knowledge](had06.md)

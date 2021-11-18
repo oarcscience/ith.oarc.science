@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp74) 
-[Next](alp76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp74.md) 
+[Next](alp76.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ He said, "I also do not know, my child."
 
 ------------------------------------------------------------------------
 
-[Next: Concerning Death](alp76)
+[Next: Concerning Death](alp76.md)

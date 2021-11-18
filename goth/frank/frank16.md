@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](frank15)  [Next](frank17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](frank15)  [Next](frank17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP3FC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP3FC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Frankenstein, or The Modern Prometheus*, by Mary Wollstonecraft Shelly,
 \[1818\], at Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ down and wept.
 
 "Soon a gentle light stole over the heavens, and gave me a sensation of
 pleasure. I started up, and beheld a radiant form rise from among the
-trees. [\*](#note) I gazed with a kind of wonder. It moved slowly, but
+trees. [\*](#note.md) I gazed with a kind of wonder. It moved slowly, but
 it enlightened my path; and I again went out in search of berries. I was
 still cold, when under one of the trees I found a huge cloak, with which
 I covered myself, and sat down upon the ground. No distinct ideas
@@ -281,4 +281,4 @@ extinguished their lights, and retired, as I conjectured, to rest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 12](frank17)
+[Next: Chapter 12](frank17.md)

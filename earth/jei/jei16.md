@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei15)  [Next](jei17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei15)  [Next](jei17.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ glacial epochs, but that they are remains of visitors from the land of
 the interior. Otherwise these present day forms would not be found
 alongside those of the mammoth which we have shown to be a present day
 inhabitant of the interior of the earth. Not knowing this, Mr. Cook has
-great difficulty in explaining the [occurrence](errata.htm#71) together
+great difficulty in explaining the [occurrence](errata.htm#71.md) together
 of these forms which in his view are earlier and later forms of life.
 But when we see that they are really contemporaneous the difficulty
 vanishes.
@@ -168,7 +168,7 @@ have been found as he suggests they might be. Evidently these were the
 remains of some specimens that in some way had wandered from the
 interior over the Antarctic polar lip and either through being caught on
 a floe or carried by a glacier they drifted on to some land which
-connects with [Patagonia](errata.htm#72).
+connects with [Patagonia](errata.htm#72.md).
 
 <span id="page_271">p. 271</span>
 
@@ -193,4 +193,4 @@ the interior of the earth, it is quite easy to see how this idea arose.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. The Aurora](jei17)
+[Next: Chapter XIV. The Aurora](jei17.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc111) 
-[Next](motc113) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc111.md) 
+[Next](motc113.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ about marrying and you don't know how to cook," and he sent her away.
 
 ------------------------------------------------------------------------
 
-[Next: 113. The Man In The Stump](motc113)
+[Next: 113. The Man In The Stump](motc113.md)

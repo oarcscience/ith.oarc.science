@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt21)  [Next](ebt23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt21)  [Next](ebt23.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ refers to the one under the altar at Winchester.
 
 ------------------------------------------------------------------------
 
-[Next: Roman Roads](ebt23)
+[Next: Roman Roads](ebt23.md)

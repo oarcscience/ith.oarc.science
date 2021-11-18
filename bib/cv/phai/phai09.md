@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai08) 
-[Next](phai10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai08.md) 
+[Next](phai10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -134,7 +134,7 @@ part with him with all Israel to make him king") is the list of 2 Sam.
 xxiii., which the Chronicler, as he betrays in chaps. xx., xxi., was
 acquainted with as it stood in that place, and here gives much too
 early, for it is for the most part warriors of David's later campaigns
-who are enumerated. <span id="fr_109"></span>[1](#fn_109) The second
+who are enumerated. <span id="fr_109"></span>[1](#fn_109.md) The second
 list (xii. 1-22: "these are they that came to David to Ziklag, while he
 yet kept himself close because of Saul") is not taken from the Book of
 Samuel, but one also
@@ -612,7 +612,7 @@ artistic skill, like
 xxxi. 2 seq.); his being made the son of a woman of Dan and not of a
 widow of Naphtali supplies interpreters with the materials for the
 construction of a little family romance, <span
-id="fr_110"></span>[1](#fn_110) but has no more real value than the idea
+id="fr_110"></span>[1](#fn_110.md) but has no more real value than the idea
 that sandalwood is obtained from Lebanon. The statement of 1 Kings v. 27
 \[13\] (xi. 28, xii. 4) that Israel was requisitioned in large numbers
 to render forced service to the king has substituted for it by the
@@ -698,7 +698,7 @@ changed into the opposite—that Hiram ceded the cities to Solomon, who
 settled them with Israelites (viii. 1, 2); and similarly the already
 observed statement of 1 Kings ix. 24 about the removal of Solomon's
 Egyptian wife out of the city of David into his new palace <span
-id="fr_111"></span>[1](#fn_111) is altered and put in quite a false
+id="fr_111"></span>[1](#fn_111.md) is altered and put in quite a false
 light: "Solomon brought up the daughter of Pharaoh out of the city of
 David unto the house that he had built for her; for he said, No woman
 shall dwell in the house of David, for the place is holy whereunto the
@@ -826,14 +826,14 @@ from the true Israel; they have made goats and calves their gods, driven
 away the priests and Levites, and in a word broken quite away from the
 institutions which shaped themselves in Judah during the period
 subsequent to Josiah and received their finishing-touches from
-Ezra. <span id="fr_112"></span>[1](#fn_112) Like other heathen,
+Ezra. <span id="fr_112"></span>[1](#fn_112.md) Like other heathen,
 therefore, they are taken account of by the sacred history only in so
 far as they stood in relations of friendship or hostility with the
 people of Jehovah properly so called, the Israel in the land of Judah (2
 Chron. xxiii. 2), and in all references to them the most sedulous and
 undisguised partisanship on behalf of Judah is manifested, even by the
 inhabitants of the northern kingdom itself. <span
-id="fr_113"></span>[2](#fn_113) If one seriously takes the Pentateuch as
+id="fr_113"></span>[2](#fn_113.md) If one seriously takes the Pentateuch as
 Mosaic law, this exclusion of the ten tribes is, in point of fact, an
 inevitable consequence, for the mere fact of their belonging to the
 people of Jehovah destroys the fundamental pre-supposition of that
@@ -856,7 +856,7 @@ intermeddle (xxvi. 16 seq.); to deliver discourses and ordain spiritual
 
 solemnities (which figure as the culminating points in the narrative)
 are among the leading duties of their reign. <span
-id="fr_114"></span>[1](#fn_114)
+id="fr_114"></span>[1](#fn_114.md)
 
 Those among them who are good apprehend their task and are inseparable
 from the holy servants of Jehovah,—so, in particular, Jehoshaphat,
@@ -1616,7 +1616,7 @@ possesses more than 1,100,000 soldiers (xvii, 14 seq.), for they are not
 used for purposes of war; the victory comes from God and from the music
 of the Levites (chap. xx.). In the statements about fortress-building
 which regularly recur in connection with the names of good rulers, <span
-id="fr_115"></span>[1](#fn_115) general statements, such as those of
+id="fr_115"></span>[1](#fn_115.md) general statements, such as those of
 Hosea viii. 14, 2 Kings xviii. 13, are illustrated by concrete examples,
 a few elements of tradition being also employed (Lachish). It is not
 possible, but, indeed, neither is it necessary, to demonstrate in every
@@ -1750,7 +1750,7 @@ which is a special case, but also Simeon and Reuben, with which alone we
 are here to deal—and they exist as independent integral twelfths of
 Israel, precisely like Ephraim and Manasseh, throughout the whole period
 of the monarchy down to the destruction of the kingdom by the
-Assyrians. <span id="fr_116"></span>[1](#fn_116) This is diametrically
+Assyrians. <span id="fr_116"></span>[1](#fn_116.md) This is diametrically
 opposed to all authentic tradition; for to maintain that nothing else is
 intended than a continued subsistence of individual Simeonite and
 Reubenite families within other tribes is merely a desperate resort of
@@ -1824,7 +1824,7 @@ gleaned anywhere; Maachah passes for the wife as well as the sister of
 Machir, but being a Gileaditess (Beth-Maachah), ought not to have been
 mentioned at all in this place where the cis-Jordanic Manasseh is being
 spoken of; to fill up blanks every contribution is thankfully
-received. <span id="fr_117"></span>[1](#fn_117) In the case of Ephraim a
+received. <span id="fr_117"></span>[1](#fn_117.md) In the case of Ephraim a
 long and meagre genealogy only is given, which, begun in vers. 20, 21,
 and continued in ver. 25, constantly repeats the same names (Tahath,
 Tahan, 1 Sam. i. 1; Eladah, Laadan, Shuthelah, Telah), and finally
@@ -1883,7 +1883,7 @@ in the capital, Bertheau has proved the post-exilic reference; it is
 interesting that in the later Jerusalem there existed a widespread
 family which wished to deduce its origin from Saul and rested its claims
 to this descent on a long genealogy (viii. 33-40). <span
-id="fr_118"></span>[1](#fn_118) It cannot be said that this produces a
+id="fr_118"></span>[1](#fn_118.md) It cannot be said that this produces a
 very favourable impression for the high antiquity of the other list of
 the Benjamites in vii. 6-11; to see how little value is to be attached
 to the pretensions of the latter
@@ -1915,7 +1915,7 @@ overlooked, with a mistaken piety. Whoever has eyes to see cannot assign
 any high value except to the two great Jewish genealogies in chaps. ii.
 and iv. Yet even here the most heterogeneous elements are tossed
 together, and chaff is found mingled with wheat. <span
-id="fr_119"></span>[1](#fn_119)
+id="fr_119"></span>[1](#fn_119.md)
 
 Apart from the introduction, vers. 1-8, chap. ii. is a genealogy of the
 children of Hezron, a tribe which in David's time had not yet been
@@ -1978,7 +1978,7 @@ through Jesse, Obed, Boaz, up to Salma. Salma is the father of Bethlehem
 (ii. 54), and hence the father of David. But Salma is the father of
 Bethlehem and the neighbouring towns or fractions of towns *after the
 exile;* he belongs to Kaleb Abi Hur. <span
-id="fr_120"></span>[1](#fn_120) But if anything at all is certain, it is
+id="fr_120"></span>[1](#fn_120.md) But if anything at all is certain, it is
 this, that in ancient times the Calebites lived in the south and not in
 the north of Judah, and in particular that David by his nativity
 belonged not to them but rather to the older portion of Judah which
@@ -1998,7 +1998,7 @@ iv. 1-23 is shown by many unmistakable indications to be a later
 composition having its reference only to post-exilian conditions,
 perhaps incorporating a few older elements, which, however, it is
 impossible with any certainty to detect. <span
-id="fr_121"></span>[2](#fn_121)
+id="fr_121"></span>[2](#fn_121.md)
 
 Levi of course receives the fullest treatment (1 Chron. v. 27 \[vi.
 1\]-vi. 66 \[81\], ix. 10 seq., xv., xvi., xxiii.-xxvii., &c.). We know
@@ -2300,7 +2300,7 @@ Words of the Seer in the Book of the Kings of Israel (Manasseh; xxxiii.
 and others have shown that under these different citations it is always
 one and the same book that is intended, whether by its collective title,
 or by the conventional sub-titles of its separate sections. <span
-id="fr_122"></span>[1](#fn_122) Bertheau calls attention to the fact
+id="fr_122"></span>[1](#fn_122.md) Bertheau calls attention to the fact
 that ordinarily it is either the one or the other title that is given,
 and when, as is less usual, there are two, then for the most part the
 prophetic writing is designated as a portion of the Book of the Kings of
@@ -2310,7 +2310,7 @@ mode
 <span id="page_226">p. 226</span>
 
 of naming the individual section <span
-id="fr_123"></span>[1](#fn_123)—at a time when chapters and verses were
+id="fr_123"></span>[1](#fn_123.md)—at a time when chapters and verses were
 unknown—has its origin in the idea that each period of the sacred
 history has its leading prophet (ἀκριβὴς τῶν προφητῶν διαδοχή; Jos., *c.
 Ap.* i. 8), but also at the same time involves (according to xxvi. 22,
@@ -2387,7 +2387,7 @@ Kings at once betray themselves in both respects.
 
 ### Footnotes
 
-<span id="fn_109"></span>[173:1](phai09.htm#fr_109) The division into a
+<span id="fn_109"></span>[173:1](phai09.htm#fr_109.md) The division into a
 group of three and another of thirty heroes, obscured in 2 Sam. xxiii.
 by corruption of the text (*Text der Bb. Sam.* p. 213-216), has not been
 understood by the Chronicler, and thus been made quite unrecognisable.
@@ -2396,17 +2396,17 @@ of additional names exceeding the number of thirty. In ver. 42 his style
 unmistakably betrays itself, wherever it may be that he met with the
 elements.
 
-<span id="fn_110"></span>[185:1](phai09.htm#fr_110) She was by birth a
+<span id="fn_110"></span>[185:1](phai09.htm#fr_110.md) She was by birth a
 woman of Dan, married into the tribe of Napthali, lost her husband, and
 as widow out of the tribe of Naphtali became the wife of the Tyrian. So
 Bertheau *in loc*.
 
-<span id="fn_111"></span>[187:1](phai09.htm#fr_111) Even in the text of
+<span id="fn_111"></span>[187:1](phai09.htm#fr_111.md) Even in the text of
 Kings this statement has been obscured; Comp. 1 Kings iii. 1. In ix. 24
 we must at least say *bêthô asher bana lô*, but this perhaps is not
 enough.
 
-<span id="fn_112"></span>[190:1](phai09.htm#fr_112) The Chronicler
+<span id="fn_112"></span>[190:1](phai09.htm#fr_112.md) The Chronicler
 indeed is unable, even in the case of these schismatics, to divest
 himself of his legal notions, as appears almost comically in the
 circumstance that the priests of Jeroboam set about their heretical
@@ -2414,34 +2414,34 @@ practices quite in accordance with the prescriptions of the Priestly
 Code, and procure their consecration by means of a great sacrifice (2
 Chron. xiii. 9).
 
-<span id="fn_113"></span>[190:2](phai09.htm#fr_113) Compare xi. 16, xv.
+<span id="fn_113"></span>[190:2](phai09.htm#fr_113.md) Compare xi. 16, xv.
 9, xix. 2, xx. 35 seq.. xxv 7, xxviii. 9 seq., xxx. 6.
 
-<span id="fn_114"></span>[191:1](phai09.htm#fr_114) xiii. 7 seq., xv. 10
+<span id="fn_114"></span>[191:1](phai09.htm#fr_114.md) xiii. 7 seq., xv. 10
 seq., xx. 6 seq., xxix. 5 seq., xxx. 1 seq., xxxv. 1 seq.
 
-<span id="fn_115"></span>[209:1](phai09.htm#fr_115) viii. 3-6, xi. 5-12,
+<span id="fn_115"></span>[209:1](phai09.htm#fr_115.md) viii. 3-6, xi. 5-12,
 xiii. 19, xiv. 5, 6 \[6, 7\], xvii. 12, xix. 5, xxvi. 9, 10, xxvii. 4,
 xxxii. 5, xxxiii. 14.
 
-<span id="fn_116"></span>[212:1](phai09.htm#fr_116) For Reuben see (in
+<span id="fn_116"></span>[212:1](phai09.htm#fr_116.md) For Reuben see (in
 addition to 1 Chron. v. 1-10) v. 18, xi. 42, xii. 37. xxvi. 32, xxvii.
 16, for Simeon, 1 Chron. iv. 24-43, with xii. 25, and 2 Chron. xv. 9,
 xxxiv. 6, observing that in the last two passages Simeon is reckoned as
 belonging to the northern kingdom, so as to complete the number of the
 ten tribes.
 
-<span id="fn_117"></span>[214:1](phai09.htm#fr_117) Kuenen, *Th.
+<span id="fn_117"></span>[214:1](phai09.htm#fr_117.md) Kuenen, *Th.
 Tijdschr.*, 1877, pp. 484, 488; *Godsdienst v. Isr.*, i. 165.
 
-<span id="fn_118"></span>[215:1](phai09.htm#fr_118) Equivalent to ix.
+<span id="fn_118"></span>[215:1](phai09.htm#fr_118.md) Equivalent to ix.
 35-44, which perhaps proves the later interpolation of ix. 1-34.
 
-<span id="fn_119"></span>[216:1](phai09.htm#fr_119) For further details
+<span id="fn_119"></span>[216:1](phai09.htm#fr_119.md) For further details
 the reader is referred to the author's dissertation *De gentibus et
 familiis Judæis*, Göttingen, 1870.
 
-<span id="fn_120"></span>[218:1](phai09.htm#fr_120) In the Targum,
+<span id="fn_120"></span>[218:1](phai09.htm#fr_120.md) In the Targum,
 Caleb's kindred the Kenites are designated as Salmæans; the name also
 occurs in Canticles (i. 5, the tents of Kedar, the curtains of Salmah),
 and also as the name of a Nabatæan tribe in Pliny. Among the families of
@@ -2450,7 +2450,7 @@ occur, along with several other names which enable us distinctly to
 recognise (Ezek. xliv.) the non-Israelite and foreign origin of these
 temple slaves; see, for example, vers. 48, 52, 55, 57.
 
-<span id="fn_121"></span>[218:2](phai09.htm#fr_121) Pharez, Hezron,
+<span id="fn_121"></span>[218:2](phai09.htm#fr_121.md) Pharez, Hezron,
 Carmi, Hur, Shobal (iv. 1), is a genealogically descending series;
 Chelubai must therefore of necessity be read instead of Carmi, all the
 more because Chelub and not Carmi appears in the third place in the
@@ -2459,17 +2459,17 @@ subsequent expansion; for this, ascending from below, begins with Shobal
 relation to Ash-hur as Tob to Ish-tob, and finally deals with Chelub or
 Caleb (vers. 11-15).
 
-<span id="fn_122"></span>[225:1](phai09.htm#fr_122) In Ezra and Nehemiah
+<span id="fn_122"></span>[225:1](phai09.htm#fr_122.md) In Ezra and Nehemiah
 also the Chronicler has not used so many sources as are usually
 supposed. There is no reason for refusing to identify the "lamentations"
 of 2 Chron. xxxv. 25, with our Lamentations of Jeremiah: at least the
 reference to the death of Josiah (Jos., *Ant.* x. 5, 1), erroneously
 attributed to them, ought not in candour to be regarded as such.
 
-<span id="fn_123"></span>[226:1](phai09.htm#fr_123) Romans xi. 2: ἐν
+<span id="fn_123"></span>[226:1](phai09.htm#fr_123.md) Romans xi. 2: ἐν
 Ἡλίᾳ τί λέγει ἡ γραφή *i.e.*, How stands it written in the section
 relating to Elijah?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Judges, Samuel, and Kings.](phai10)
+[Next: Chapter VII. Judges, Samuel, and Kings.](phai10.md)

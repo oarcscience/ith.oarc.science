@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg03)  [Next](btg05) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg03)  [Next](btg05.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ been proclaimed by the Buddha! Blessed be the Buddha!
 
 ------------------------------------------------------------------------
 
-[Next: The Enlightenment](btg05)
+[Next: The Enlightenment](btg05.md)

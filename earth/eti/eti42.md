@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti41)  [Next](eti43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti41)  [Next](eti43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -199,10 +199,10 @@ disconnected subject could be, as follows:
 
 <span id="img_23400"></span> <span align="CENTER"> [![HANDING ME ONE OF
 THE HALVES, HE SPOKE THE SINGLE WORD, DRINK.](tn/23400.jpg)  
-Click to enlarge](img/23400.jpg)  
+Click to enlarge](img/23400.jpg.md)  
 “HANDING ME ONE OF THE HALVES, HE SPOKE THE SINGLE WORD, DRINK.”  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVI. Drunkenness.—The Drinks of Man](eti43)
+[Next: Chapter XXXVI. Drunkenness.—The Drinks of Man](eti43.md)

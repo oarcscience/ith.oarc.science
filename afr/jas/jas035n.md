@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas034n)  [Next](jas036n)   
- \[[35. Tumble-bug and Anansi.](jas035)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas034n)  [Next](jas036n.md)   
+ \[[35. Tumble-bug and Anansi.](jas035.md)\]
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ spirit and gives him everything.
 
 ------------------------------------------------------------------------
 
-[Next: Note 36. Horse and Anansi.](jas036n)
+[Next: Note 36. Horse and Anansi.](jas036n.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos17)  [Next](dos19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos17)  [Next](dos19.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ and carried her where they would, until they brought her to another
 forest pool. And there she lay down, and leaned and drank of its water.
 And she looked into its mirror, and saw herself, slender and emaciated
 as the old moon, but pale and colourless as that moon at mid-day <span
-id="fr_79"></span>[e](#fn_79) And her long hair fell down over her
+id="fr_79"></span>[e](#fn_79.md) And her long hair fell down over her
 shoulder into the water. Then she bound up that wet hair into a knot,
 and remained all day by the pool, not endeavouring to go further: for
 she said to herself: Rather let me stay here to perish of hunger, or
@@ -56,7 +56,7 @@ began to run through the wood, shutting her eyes, and stopping her ears,
 
 ### Footnotes
 
-<span id="fn_79"></span>[102:e](dos18.htm#fr_79) The same idea is
+<span id="fn_79"></span>[102:e](dos18.htm#fr_79.md) The same idea is
 beautifully put by Butler in Hudibras, where he calls the sun's light on
 the moon a
 
@@ -65,4 +65,4 @@ That's both her lustre and her shade.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Before Dawn](dos19)
+[Next: XVI. Before Dawn](dos19.md)

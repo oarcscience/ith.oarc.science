@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas027n)  [Next](jas029n)   
- \[[28. Brother Dead and the Brindle Puppy.](jas028)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas027n)  [Next](jas029n.md)   
+ \[[28. Brother Dead and the Brindle Puppy.](jas028.md)\]
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ form to work their revenge.
 
 ------------------------------------------------------------------------
 
-[Next: Note 29. The Cowitch and Mr. Foolman.](jas029n)
+[Next: Note 29. The Cowitch and Mr. Foolman.](jas029n.md)

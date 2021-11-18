@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](kyog06)  [Next](kyog08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](kyog06)  [Next](kyog08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Karma-Yoga*, by Swami Vivekananda, \[1921\], at Intangible Textual
 Heritage
 
@@ -463,6 +463,6 @@ reap perfect freedom. This freedom is indeed the goal of *Karma-Yoga*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Ideal of Karma-Yoga](kyog08)
+[Next: Chapter VIII. The Ideal of Karma-Yoga](kyog08.md)
 
 </div>

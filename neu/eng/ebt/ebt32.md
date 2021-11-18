@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt31)  [Next](ebt33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt31)  [Next](ebt33.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ original book. They are included for completeness.--JBH.
 
 ------------------------------------------------------------------------
 
-[Next: Maps](ebt33)
+[Next: Maps](ebt33.md)

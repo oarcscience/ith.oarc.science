@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate12)  [Next](gate14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate12)  [Next](gate14.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ night which guideth this great god in this Circle.
 
 ------------------------------------------------------------------------
 
-[Next: The Twelfth Hour](gate14)
+[Next: The Twelfth Hour](gate14.md)

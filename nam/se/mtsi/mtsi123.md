@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi122)  [Next](mtsi124) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi122)  [Next](mtsi124.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ moriebatur, et quum Lynx mortuus humi jaceret Lepus abibat.
 
 ------------------------------------------------------------------------
 
-[Next: 31. Rabbit and Wildcat](mtsi124)
+[Next: 31. Rabbit and Wildcat](mtsi124.md)

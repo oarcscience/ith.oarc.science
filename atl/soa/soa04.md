@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa03)  [Next](soa05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa03)  [Next](soa05.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ continent in question was not Atlantis, but the still earlier Lemuria.
 
 ------------------------------------------------------------------------
 
-[Next: Similarity of Ethnological Types](soa05)
+[Next: Similarity of Ethnological Types](soa05.md)

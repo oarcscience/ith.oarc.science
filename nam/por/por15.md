@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por14)  [Next](por16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por14)  [Next](por16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ Intangible Textual Heritage
 Hû! Listen! In Alahí yi you repose, O Terrible Woman,  
 O you have drawn near to hearken.  
 There in Elahiyi you are at rest, a White Woman. <span
-id="fr_1"></span>[\*](#fn_1)  
+id="fr_1"></span>[\*](#fn_1.md)  
 No one, is ever lonely when with you.  
 You are most beautiful.  
 Instantly and at once you have rendered me a white man.  
@@ -198,10 +198,10 @@ We cause it to be so.
 
 ### Footnotes
 
-<span id="fn_1"></span>[33:\*](por15.htm#fr_1) White—happy;
+<span id="fn_1"></span>[33:\*](por15.htm#fr_1.md) White—happy;
 blue—despondent. "To make lonely" or to be "lonely" was, to the
 Cherokees, the depth of degradation.
 
 ------------------------------------------------------------------------
 
-[Next: Hunting Songs (Dakota)](por16)
+[Next: Hunting Songs (Dakota)](por16.md)

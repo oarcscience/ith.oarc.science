@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp93) 
-[Next](alp95) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp93.md) 
+[Next](alp95.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ towards new horizons, and soaring to loftier heights.
 
 ------------------------------------------------------------------------
 
-[Next: Addenda and Corrigenda](alp95)
+[Next: Addenda and Corrigenda](alp95.md)

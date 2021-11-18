@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj20)  [Next](atfj22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj20)  [Next](atfj22.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_23"></span> <span align="CENTER"> [![23. Yogodayu Saves
 the Bee's Life in Kizugawa Valley](tn/23.jpg)  
-Click to enlarge](img/23.jpg)  
+Click to enlarge](img/23.jpg.md)  
 23. Yogodayu Saves the Bee's Life in Kizugawa Valley  
 </span>
 
@@ -126,6 +126,6 @@ of his life Yogodayu used to go and worship there.
 
 ------------------------------------------------------------------------
 
-[Next: XX. The Isolated or Desolated Island](atfj22)
+[Next: XX. The Isolated or Desolated Island](atfj22.md)
 
 </div>

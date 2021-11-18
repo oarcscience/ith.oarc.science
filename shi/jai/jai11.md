@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai10)  [Next](jai12) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai10)  [Next](jai12.md) 
 
 ------------------------------------------------------------------------
 
@@ -593,4 +593,4 @@ of the welding, the lines of the juncture, almost totally disappeared.
 
 ------------------------------------------------------------------------
 
-[Next: The Higher Buddhism](jai12)
+[Next: The Higher Buddhism](jai12.md)

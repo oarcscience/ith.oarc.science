@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](emec04)  [Next](emec06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](emec04)  [Next](emec06.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,11 +16,11 @@ religion, and the chief was to abolish the worship of all statues and
 figures of the gods, and to introduce the more simple worship of the
 sun. Of this we see traces in the sculptures, made by a native Satrap,
 who governed the country under Artaxerxes Longimanus (see Fig.
-[83](#img_83)). We there see Thaomra, the son of the late king Adon-Ra
+[83](#img_83).md). We there see Thaomra, the son of the late king Adon-Ra
 Bakan, or Thannyras,
 
 <span id="img_83"></span> [![](tn/generic.jpg)  
-Click to view](img/07300.jpg)
+Click to view](img/07300.jpg.md)
 
 Fig. 83.
 
@@ -36,12 +36,12 @@ god. In this the sculptor borrows a figure from the name of the Persian
 king, who was called Longimanus, because his arm was supposed to over
 Asia, reach Africa, and part of Europe. And when we see a sculpture with
 one of the early Theban kings worshipping the figure of Amun-Ra, with
-the same sun, as in Fig. [84](#img_84), we may suppose that the rays
+the same sun, as in Fig. [84](#img_84.md), we may suppose that the rays
 ending in human hands were an after addition made by order of the
 Persians.
 
 <span id="img_84"></span> [![](tn/generic.jpg)  
-Click to view](img/07400.jpg)
+Click to view](img/07400.jpg.md)
 
 Fig. 84.
 
@@ -71,10 +71,10 @@ the writings of his followers that make us note its rise as important in
 the history of Egyptian opinions.
 
 <span id="img_07500"></span> [![](tn/generic.jpg)  
-Click to view](img/07500.jpg)
+Click to view](img/07500.jpg.md)
 
 "Pharaoh Thaomra, his name successor to Adonra."
 
 ------------------------------------------------------------------------
 
-[Next: The Religion Under the Ptolemies](emec06)
+[Next: The Religion Under the Ptolemies](emec06.md)

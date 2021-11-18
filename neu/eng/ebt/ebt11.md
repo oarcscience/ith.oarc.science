@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt10)  [Next](ebt12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt10)  [Next](ebt12.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ work thrown up on one side. The Wych on the Malvern ridge is an
 instance.
 
 The two fine gaps near Flansford (Goodrich) and Marstow ([Plate
-V](ebt10.htm#img_pl05).), both with bridges over them, are also ancient
+V](ebt10.htm#img_pl05)..md), both with bridges over them, are also ancient
 sighting cuttings.
 
 The sighting cuttings were also used in passing over banks in lower
@@ -50,4 +50,4 @@ straight line." This method was evidently used for all the leys.
 
 ------------------------------------------------------------------------
 
-[Next: Water Sighting Points](ebt12)
+[Next: Water Sighting Points](ebt12.md)

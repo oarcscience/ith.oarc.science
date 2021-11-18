@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll04)  [Next](oll06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll04)  [Next](oll06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -33,7 +33,7 @@ topu, *set with pearls*) *discovered seated*.)
 
   *Anahuarqui*. Since when art thou feeling so sad,  
 Cusi Coyllur! great Inti's prunelle? <span
-id="fr_14"></span>[1](#fn_14)  
+id="fr_14"></span>[1](#fn_14.md)  
 Since when hast thou lost all thy joy,  
 Thy smile and thy once merry laugh?
 
@@ -92,7 +92,7 @@ tiana.)
   *Inca Pachacuti*. Cusi Coyllur! Star of joy,  
 Most lovely of my progeny!  
 Thou symbol of parental love--  
-Thy lips are like the *huayruru*. <span id="fr_15"></span>[1](#fn_15)  
+Thy lips are like the *huayruru*. <span id="fr_15"></span>[1](#fn_15.md)  
 Rest upon thy father's breast,  
 Repose, my child, within mine arms.
 
@@ -141,7 +141,7 @@ approaches*.)
 song*.)
 
 Thou must not feed,  
-         O *Tuyallay*, <span id="fr_16"></span>[1](#fn_16)  
+         O *Tuyallay*, <span id="fr_16"></span>[1](#fn_16.md)  
 In Ñusta's field,  
          O *Tuyallay*.  
 Thou must not rob,  
@@ -167,7 +167,7 @@ We'll cut thy claws,
          O *Tuyallay*,  
 To seize thee quick,  
          O *Tuyallay*.  
-Ask *Piscaca*, <span id="fr_17"></span>[1](#fn_17)  
+Ask *Piscaca*, <span id="fr_17"></span>[1](#fn_17.md)  
          O *Tuyallay*,  
 Nailed on a branch,  
          O *Tuyallay*.  
@@ -195,12 +195,12 @@ Surrounded by thy maiden friends.
 
   *Cusi Coyllur*. I should better like a sadder song.  
 My dearest friends, the last you sang  
-To me foreshadowed evil things; <span id="fr_18"></span>[1](#fn_18)  
+To me foreshadowed evil things; <span id="fr_18"></span>[1](#fn_18.md)  
 You who sang it leave me now.
 
 \[*Exeunt boys and girls, except one girl who sings*.
 
-Two loving birds are in despair, <span id="fr_19"></span>[2](#fn_19)  
+Two loving birds are in despair, <span id="fr_19"></span>[2](#fn_19.md)  
   They moan, they weep, they sigh;  
 For snow has fallen on the pair,  
   To hollow tree they fly.
@@ -238,26 +238,26 @@ Now my tears can freely flow.
 
 ### Footnotes
 
-<span id="fn_14"></span>[350:1](oll05.htm#fr_14) *Intip llirpun*, 'apple
+<span id="fn_14"></span>[350:1](oll05.htm#fr_14.md) *Intip llirpun*, 'apple
 of the sun's eye.' There is no English equivalent that is suitable.
 
-<span id="fn_15"></span>[352:1](oll05.htm#fr_15) *Huayruru* is the seed
+<span id="fn_15"></span>[352:1](oll05.htm#fr_15.md) *Huayruru* is the seed
 of a thorny bush, *erythrina rubra*, of a bright red colour. Zegarra has
 *coral* as the equivalent for *huayruru*.
 
-<span id="fn_16"></span>[353:1](oll05.htm#fr_16) The *tuya* (coccoborus
+<span id="fn_16"></span>[353:1](oll05.htm#fr_16.md) The *tuya* (coccoborus
 chrysogaster) is a small finch, and *tuyallay* means 'my little *tuya*.'
 
-<span id="fn_17"></span>[354:1](oll05.htm#fr_17) The *piscaca* is a much
+<span id="fn_17"></span>[354:1](oll05.htm#fr_17.md) The *piscaca* is a much
 larger bird than the *tuya*. These *piscacas* (*coccoborus torridus*)
 are nailed to trees as a warning to other birds. They are black, with
 white breasts.
 
-<span id="fn_18"></span>[355:1](oll05.htm#fr_18) In the *tuya* she sees
+<span id="fn_18"></span>[355:1](oll05.htm#fr_18.md) In the *tuya* she sees
 her husband Ollantay, while the poor princess herself is the forbidden
 grain.
 
-<span id="fn_19"></span>[355:2](oll05.htm#fr_19) This is a *yarahui* or
+<span id="fn_19"></span>[355:2](oll05.htm#fr_19.md) This is a *yarahui* or
 mournful elegy, of which there are so many in the Quichua language. The
 singers of them were known as *yarahuec*.
 
@@ -265,6 +265,6 @@ singers of them were known as *yarahuec*.
 
 ------------------------------------------------------------------------
 
-[Next: Scene 3](oll06)
+[Next: Scene 3](oll06.md)
 
 </div>

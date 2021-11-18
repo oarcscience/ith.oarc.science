@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](alt19)  [Next](alt21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](alt19)  [Next](alt21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Australian Legendary Tales*, by K. Langloh Parker, \[1897\], at
 Intangible Textual Heritage
 
@@ -77,4 +77,4 @@ river. And never again did he see or hear of his wives or his children.
 
 ------------------------------------------------------------------------
 
-[Next: Mooregoo the Mopoke, and Bahloo the Moon](alt21)
+[Next: Mooregoo the Mopoke, and Bahloo the Moon](alt21.md)

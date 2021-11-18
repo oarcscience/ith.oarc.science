@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph21)  [Next](aph23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph21)  [Next](aph23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ The little girl repeated insistently, "Where is thy lover?"
 <span id="page_173">p. 173</span>
 
 <span id="img_17300"></span> <span align="CENTER"> [![](tn/17300.jpg)  
-Click to enlarge](img/17300.jpg)</span>
+Click to enlarge](img/17300.jpg.md)</span>
 
 <span id="page_174">p. 174</span> <span id="page_175">p. 175</span>
 
@@ -182,7 +182,7 @@ Little Cleopatra, erect, made herself as tall as possible and put her
 hands to her head like an Asiatic queen placing a tiara.
 
 Her elder sister, who had listened to her, seated upon the bed, her feet
-drawn up, sank upon her knees to [approach](errata.htm#1) her and put
+drawn up, sank upon her knees to [approach](errata.htm#1.md) her and put
 her hands upon her delicate shoulders. "Thou hast a lover?"
 
 She spoke timidly now, almost with respect. The little girl responded
@@ -237,7 +237,7 @@ colonnade, opened doors, walked over rings, flagstones, pale marble and
 twenty mosaics of twenty empty and silent halls. She descended a stone
 stair, crossed dark thresholds, passed echoing doors. Now and again two
 enormous guards stood upon mats, lance in hand. After a long time, she
-crossed a court [illuminated](errata.htm#2) by the full moon and the
+crossed a court [illuminated](errata.htm#2.md) by the full moon and the
 shadow of a palm tree caressed her hip. Berenice still followed,
 enveloped in her blue mantle.
 
@@ -261,4 +261,4 @@ And when he had done so, she kissed his lips.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One. The Dream of Demetrios](aph23)
+[Next: Chapter One. The Dream of Demetrios](aph23.md)

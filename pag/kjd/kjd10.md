@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Previous](kjd09)  [Next](kjd11) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Previous](kjd09)  [Next](kjd11.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ be reproued.
 
 ------------------------------------------------------------------------
 
-[Next: Newes from Scotland](kjd11)
+[Next: Newes from Scotland](kjd11.md)

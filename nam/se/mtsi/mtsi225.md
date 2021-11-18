@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi224)  [Next](mtsi226) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi224)  [Next](mtsi226.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ it fell dead. That is all.
 ------------------------------------------------------------------------
 
 [Next: 26. Story of Two Brothers Who Tried to Restore Their Sister to
-Life](mtsi226)
+Life](mtsi226.md)

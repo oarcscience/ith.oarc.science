@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo87)  [Next](hoo89) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo87)  [Next](hoo89.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 
 Daughter of Saturn, venerable dame,  
 The seat containing of unweary'd flame;  <span
-id="fr_127"></span>[2](#fn_127)
+id="fr_127"></span>[2](#fn_127.md)
 
 <span id="page_221">p. 221</span>
 
@@ -21,7 +21,7 @@ In thee, the Gods have fix'd place, 5
 Strong, stable, basis of the mortal race:  
 Eternal, much-form'd ever-florid queen,  
 Laughing and blessed, and of lovely mien;  <span
-id="fr_128"></span>[8](#fn_128)
+id="fr_128"></span>[8](#fn_128.md)
 
 <span id="page_222">p. 222</span>
 
@@ -32,7 +32,7 @@ And gentle health, and needful good inspire.
 
 ### Footnotes
 
-<span id="fn_127"></span>[220:2](hoo88.htm#fr_127) XXXIII. Ver. 2\] *The
+<span id="fn_127"></span>[220:2](hoo88.htm#fr_127.md) XXXIII. Ver. 2\] *The
 seat containing of unweary'd flame*. Vesta is celebrated in this Hymn as
 the earth, and is the same with the mother of the Gods; as is evident
 from the Hymn to that divinity, in which she is expressly called Vesta.
@@ -60,7 +60,7 @@ in these (i.e. his books of Cælo). But according to others, it is the
 throne of Jupiter. But they called the earth a centre, as being itself
 an organ or instrument of time: for it is the cause of day and night."
 
-<span id="fn_128"></span>[221:8](hoo88.htm#fr_128) Ver. 8\] *Laughing
+<span id="fn_128"></span>[221:8](hoo88.htm#fr_128.md) Ver. 8\] *Laughing
 and blessed*. Proclus, in Plat. Rep. p. 384. observes, that we ought to
 interpret the laughter of the Gods as an exuberant operation in the
 universe; and the gladness of mundane concerns, under the providence of
@@ -93,4 +93,4 @@ the religion of the Gods.
 
 ------------------------------------------------------------------------
 
-[Next: LXXXIV: To Sleep](hoo89)
+[Next: LXXXIV: To Sleep](hoo89.md)

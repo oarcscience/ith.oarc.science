@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort23)  [Next](kort25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort23)  [Next](kort25.md) 
 
 ------------------------------------------------------------------------
 
-# 20. Yini'a-ñawġut and Kĭlu's Marriage with Fish-Man. <span id="fr_47"></span>[3](#fn_47)
+# 20. Yini'a-ñawġut and Kĭlu's Marriage with Fish-Man. <span id="fr_47"></span>[3](#fn_47.md)
 
 Big-Raven lived with his family. Kĭlu' said to Yini'a-ñawġut, "Let us go
 for a walk!" They went out walking, and they took a fish-head for
@@ -58,19 +58,19 @@ forth sons. They bore some male children. That is all.
 
 ### Footnotes
 
-<span id="fn_45"></span>[87:1](kort23.htm#fr_45) The respective rôles of
+<span id="fn_45"></span>[87:1](kort23.htm#fr_45.md) The respective rôles of
 Big-Kamak and his wife are evidently confused in this tale. Thus the
 husband, killed not long ago, would seem to be alive again. Similar
 confusion is met in several other tales, Chukchee and Koryak (cf. for
 instance, Bogoras, Chukchee Mythology, Publications of the Jesup North
 Pacific Expedition, vol. viii, part ii, No. 1, pp. 15, 19).
 
-<span id="fn_46"></span>[87:2](kort23.htm#fr_46) Both Kamaks seem to
+<span id="fn_46"></span>[87:2](kort23.htm#fr_46.md) Both Kamaks seem to
 have revived after having been killed.
 
-<span id="fn_47"></span>[87:3](kort24.htm#fr_47) Compare Jochelson, The
+<span id="fn_47"></span>[87:3](kort24.htm#fr_47.md) Compare Jochelson, The
 Koryak, No. 109, p. 296.
 
 ------------------------------------------------------------------------
 
-[Next: 21. Big-Raven and Fox](kort25)
+[Next: 21. Big-Raven and Fox](kort25.md)

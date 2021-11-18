@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft76)  [Next](sfft78) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft76)  [Next](sfft78.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### LOTHIAN TOM. <span id="fr_153"></span>[1](#fn_153)
+### LOTHIAN TOM. <span id="fr_153"></span>[1](#fn_153.md)
 
 #### I.
 
@@ -29,7 +29,7 @@ halter, and then his parents would supply him no more. He knew his
 grandmother had plenty of money, but she would give him none; but the
 old woman had a good black cow of her own, which Tom went to the fields
 one evening and catches, and takes her to an old waste <span
-id="fr_154"></span>[2](#fn_154) house which stood at a distance from any
+id="fr_154"></span>[2](#fn_154.md) house which stood at a distance from any
 other, and there he kept her two or three days, giving her meat and
 drink at night when it was dark, and made the old woman believe somebody
 had stolen the cow for their winter's mart, which was grief enough to
@@ -43,7 +43,7 @@ which Tom accepts of very thankfully, and promises to buy her one as
 like the other as possibly he could get; then he takes a piece of chalk,
 and brays it as small as meal, and steeps it in a little water, and
 therewith rubs over the cow's face and back, which made her baith
-brucket and rigget. <span id="fr_155"></span>[1](#fn_155) So Tom in the
+brucket and rigget. <span id="fr_155"></span>[1](#fn_155.md) So Tom in the
 morning takes the cow to a public-house within a little of the fair, and
 left her till the fair was over, and then drives her home before him;
 and as soon as they came home, the cow began to rout as it used to do,
@@ -97,7 +97,7 @@ so much for his trouble, and had to take back his coffin with him again.
 
 Tom being short of money, began to think how he could raise a fresh
 supply; so he went to the port among the shearers, <span
-id="fr_156"></span>[1](#fn_156) and there he hired about thirty of them,
+id="fr_156"></span>[1](#fn_156.md) and there he hired about thirty of them,
 and agreed to give them a whole week's shearing at tenpence a-day, which
 was twopence higher than any had got that year; this made the poor
 shearers think he was a very honest, generous, and genteel master, as
@@ -260,16 +260,16 @@ again. So the butcher got fun for his trouble.
 
 ### Footnotes
 
-<span id="fn_153"></span>[293:1](sfft77.htm#fr_153) Dougal Graham, *The
+<span id="fn_153"></span>[293:1](sfft77.htm#fr_153.md) Dougal Graham, *The
 Comical Tricks of Lothian Tom*.
 
-<span id="fn_154"></span>[293:2](sfft77.htm#fr_154) Empty.
+<span id="fn_154"></span>[293:2](sfft77.htm#fr_154.md) Empty.
 
-<span id="fn_155"></span>[294:1](sfft77.htm#fr_155) Spotted on body and
+<span id="fn_155"></span>[294:1](sfft77.htm#fr_155.md) Spotted on body and
 face.
 
-<span id="fn_156"></span>[296:1](sfft77.htm#fr_156) Reapers.
+<span id="fn_156"></span>[296:1](sfft77.htm#fr_156.md) Reapers.
 
 ------------------------------------------------------------------------
 
-[Next: The Ploughman's Glory; Or, Tom's Song.](sfft78)
+[Next: The Ploughman's Glory; Or, Tom's Song.](sfft78.md)

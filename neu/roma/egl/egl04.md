@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl03)  [Next](egl05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl03)  [Next](egl05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ between him and another.
 “You don’t know *your own mind*,” said the disappointed candidate to me.
 
 “*Mind your own* business,” I replied. It was a poor palindrome,
- [38](egl13.htm#xref_38) reader—hardly worth telling—yet it settled him.
+ [38](egl13.htm#xref_38.md) reader—hardly worth telling—yet it settled him.
 But he swore—oh, of course he did—he swore beautifully.
 
 Therefore, being moved to caution, I approached calmly and gazed
@@ -378,4 +378,4 @@ all the world over “to speak words.”
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Gipsy Respect For the Dead](egl05)
+[Next: Chapter IV. Gipsy Respect For the Dead](egl05.md)

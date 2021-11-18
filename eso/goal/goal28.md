@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal27)  [Next](goal29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal27)  [Next](goal29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -354,7 +354,7 @@ enter into covenant with <span class="smallcaps">Yahveh</span>, the God
 of the universe, you, so to speak, rebel against the god of creation,
 you declare your purpose no longer to remain under his dominion, to
 serve his purpose no further, simply because his work is finished in
-you. <span id="fr_17"></span>[\*](#fn_17) But the dark spirits on the
+you. <span id="fr_17"></span>[\*](#fn_17.md) But the dark spirits on the
 invisible side will to hold you. The god of creation wills to hold you
 and to dominate you, but <span class="smallcaps">Yahveh</span>, the God
 of the universe, is the God of gods (Power of all powers), the King of
@@ -384,7 +384,7 @@ universe will be at your command.
 
 ### Footnotes
 
-<span id="fn_17"></span>[318:\*](goal28.htm#fr_17) The distinction here
+<span id="fn_17"></span>[318:\*](goal28.htm#fr_17.md) The distinction here
 made between the god of creation and Elohim, the Creator, is this: The
 god of creation is the embodied Word of Elohim, whose office and
 function it is to carry on creation through generation and all its
@@ -399,4 +399,4 @@ maturity and the harvest of the world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV. Part IV](goal29)
+[Next: Chapter XXIV. Part IV](goal29.md)

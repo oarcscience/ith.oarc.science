@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl35)  [Next](hpl37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl35)  [Next](hpl37.md) 
 
 ------------------------------------------------------------------------
 
@@ -385,4 +385,4 @@ formerly known to man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](hpl37)
+[Next: Chapter 3](hpl37.md)

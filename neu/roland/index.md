@@ -1,5 +1,5 @@
-<span class="small">[Intangible Textual Heritage](../../index) 
-[Northern European Texts](../index)</span>
+<span class="small">[Intangible Textual Heritage](../../index.md) 
+[Northern European Texts](../index.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -7,10 +7,10 @@
 
 ## Translated by Charles Scott Moncrief (1919).
 
-[Verses I - LXXXVII](rol00)  
-[Verses LXXXVIII - CLXI](rol01)  
-[Verses CLXII - CCXXXIII](rol02)  
-[Verses CCXXXIV - CCXCI](rol03)  
+[Verses I - LXXXVII](rol00.md)  
+[Verses LXXXVIII - CLXI](rol01.md)  
+[Verses CLXII - CCXXXIII](rol02.md)  
+[Verses CCXXXIV - CCXCI](rol03.md)  
 
 <span class="small"></span>
 

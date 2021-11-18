@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](pcc01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](pcc01.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ unconscious or quite subconscious way."--The Drama of Love and Death, p.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](pcc01)
+[Next: Contents](pcc01.md)

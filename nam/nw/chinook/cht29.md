@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht28)  [Next](cht30) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht28)  [Next](cht30.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ satisfied.
 
 ------------------------------------------------------------------------
 
-[Next: Death](cht30)
+[Next: Death](cht30.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](eog06)  [Next](eog08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](eog06)  [Next](eog08.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Intangible Textual Heritage
 
 #### OF THE FIGHT WITH HUMBABA.
 
-*Column I* <span id="fr_72"></span>[1](#fn_66).
+*Column I* <span id="fr_72"></span>[1](#fn_66.md).
 
 (*The Wonders of the Forest*).
 
@@ -25,12 +25,12 @@ Scanning the avenue into the Forest: (and there) where Humbaba
 <span class="margnote">5.</span>Stalk’d, was a path, (and) straight were
 his tracks, and good was the passage.  
 (Eke) they beheld the Mount of the Cedar, the home of th’ Immortals,  
-Shrine \[of Irnini <span id="fr_73"></span>[2](#fn_67), the Cedar
+Shrine \[of Irnini <span id="fr_73"></span>[2](#fn_67.md), the Cedar
 uplifting its pride ’gainst the mountain,  
 Fair was its shade, (all) full of delight, with bushes (there)
 spreading,  
 Spread, too, the . . . . the Cedar the incense <span
-id="fr_74"></span>[3](#fn_68) . . . .
+id="fr_74"></span>[3](#fn_68.md) . . . .
 
 (*After a few mutilated lines the Column breaks: the upper part of
 Column II contains about twenty lines badly mutilated; then the lower
@@ -41,7 +41,7 @@ part is more complete, beginning with visions granted to the hero*).
 (*Gilgamish relates his dreams*).
 
 <span class="margnote">32.</span>"\[ <span
-id="fr_75"></span>[4](#fn_69)Then came another dream to me, comrade, and
+id="fr_75"></span>[4](#fn_69.md)Then came another dream to me, comrade, and
 this second\] vision  
 \[Pleasant, indeed\], which I saw, (for) we (?) \[twain were standing
 together\]  
@@ -111,7 +111,7 @@ Enkidu (now) to interpret his dream unto Gilgamish speaketh:
 (*Remainder of Column III broken away*).
 
 (*A variant version is found on one of the Semitic tablets from Boghaz
-Keui <span id="fr_76"></span>[1](#fn_70). Where the sense becomes
+Keui <span id="fr_76"></span>[1](#fn_70.md). Where the sense becomes
 connected it briefly describes how the heroes halt for the night and at
 midnight sleep departs from the hero who tells his dream to Enkidu,
 after asking much in the same way why he is frightened at waking from
@@ -132,7 +132,7 @@ mutilated seven lines is lost*).
 VI once contained the story of the great fight, but except for a few
 broken lines at the end it is all lost. But we can fortunately replace
 it from the Hittite version from Boghaz Keui* <span
-id="fr_77"></span>[1](#fn_71))
+id="fr_77"></span>[1](#fn_71).md)
 
 *Column VI*.
 
@@ -178,19 +178,19 @@ of the expedition*).
 
 ### Footnotes
 
-<span id="fn_66"></span>[29:1](eog07.htm#fr_72) Assyrian Version.
+<span id="fn_66"></span>[29:1](eog07.htm#fr_72.md) Assyrian Version.
 
-<span id="fn_67"></span>[29:2](eog07.htm#fr_73) A form of Ishtar.
+<span id="fn_67"></span>[29:2](eog07.htm#fr_73.md) A form of Ishtar.
 
-<span id="fn_68"></span>[29:3](eog07.htm#fr_74) Lit. *Ferule Persica*.
+<span id="fn_68"></span>[29:3](eog07.htm#fr_74.md) Lit. *Ferule Persica*.
 
-<span id="fn_69"></span>[29:4](eog07.htm#fr_75) The restorations are
+<span id="fn_69"></span>[29:4](eog07.htm#fr_75.md) The restorations are
 obviously uncertain.
 
-<span id="fn_70"></span>[30:1](eog07.htm#fr_76) Published by Weidner,
+<span id="fn_70"></span>[30:1](eog07.htm#fr_76.md) Published by Weidner,
 *Keilschrifturkunden aus Boghazkoi*, IV. 12, *p*. 13.
 
-<span id="fn_71"></span>[31:1](eog07.htm#fr_77) Translation from J.
+<span id="fn_71"></span>[31:1](eog07.htm#fr_77.md) Translation from J.
 Friedrich, *Alter Orient*, 25, 2. 31, and Ungnad, *Kulturfragen*,
 4-5,20. Two other small fragments (*Keils. Boghaz*, VI. 30 and 32) are
 to be assigned hereabouts.
@@ -198,4 +198,4 @@ to be assigned hereabouts.
 ------------------------------------------------------------------------
 
 [Next: The Sixth Tablet: Of the Goddess Ishtar, Who Fell In Love With
-the Hero After His Exploit Against Humbaba](eog08)
+the Hero After His Exploit Against Humbaba](eog08.md)

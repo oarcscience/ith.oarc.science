@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat06)  [Next](aat08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat06)  [Next](aat08.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ wiped the sweat from him, and went home with Bluejay and Weasel.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Bluejay and Lizard and the Grizzly-Bears (Achomawi)](aat08)
+[Next: 7. Bluejay and Lizard and the Grizzly-Bears (Achomawi)](aat08.md)

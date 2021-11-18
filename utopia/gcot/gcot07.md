@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot06)  [Next](gcot08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot06)  [Next](gcot08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ compulsorily levied.
 The net available revenue of Garden City, after payment of interest on
 debentures, and providing a sinking fund for the landed estate, has been
 already estimated at £50,000 per annum (see Chapter Three, [p.
-69](gcot05.htm#page_69)). Having, in the fourth chapter, given special
+69](gcot05.htm#page_69).md). Having, in the fourth chapter, given special
 reasons why a given expenditure in Garden City would be unusually
 productive, I will now enter into fuller details, so
 
@@ -218,7 +218,7 @@ cost of sites has in this case to be defrayed out of estimate.
 (*C*) *Circular Railway and Bridges*
 
 The cost of site is elsewhere provided for (see [p.
-67](gcot05.htm#page_67)). The cost of maintenance does not, of course,
+67](gcot05.htm#page_67).md). The cost of maintenance does not, of course,
 include working expenses, locomotives, etc. To cover these a charge
 based on cost might be made to traders using the line. It should also be
 noticed that, as in the case of roads, by showing that the expense of
@@ -308,8 +308,8 @@ is customary elsewhere.
 (*I*) *Sewage Disposal*
 
 All that need be said on this subject has been said in Chapter One, [p.
-55](gcot03.htm#page_55), and Chapter Two, pp.
-[61](gcot04.htm#page_61)-2.
+55](gcot03.htm#page_55.md), and Chapter Two, pp.
+[61](gcot04.htm#page_61.md)-2.
 
 (*K*) *Interest*
 
@@ -368,7 +368,7 @@ local bodies for works of so permanent a character. The Local Government
 Board frequently allows loans to be created with a sinking fund
 extending over much longer periods. It is to be remembered also that an
 additional sinking fund for the landed estate has been already provided
-(see Chapter Four, [p. 70](gcot06.htm#page_70)).
+(see Chapter Four, [p. 70](gcot06.htm#page_70).md).
 
 (*M*) *Balance available for Rates levied by Local Bodies within whose
 jurisdiction the estate is situated*
@@ -425,4 +425,4 @@ such undertakings, I do not propose to make any estimate of expenditure.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six. Administration](gcot08)
+[Next: Chapter Six. Administration](gcot08.md)

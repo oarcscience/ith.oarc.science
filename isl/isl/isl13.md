@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl12)  [Next](isl14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl12)  [Next](isl14.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ ritual prayers a day. When they have made the ritual prayers, inform
 them that God has imposed *zakāt* on their possessions, to be taken from
 the rich and given to the poor. When they have accepted all this, then
 take the tax from them, but leave them their most precious
-possessions:'"'"'" <span id="fr_24"></span>[18](#fn_24)
+possessions:'"'"'" <span id="fr_24"></span>[18](#fn_24.md)
 
  
 
@@ -67,7 +67,7 @@ Bukhārī . . . from ‘Abdallah: "I said, 'Messenger of God, what is the
 greatest sin?' 'It is to make an idol for God, who created you.' 'Then
 what?' 'To kill your own child from motives of economy.' \[lit., fearing
 lest he eat with you.\] 'And then what?' 'To commit adultery with your
-neighbor's wife.'" <span id="fr_25"></span>[19](#fn_25)
+neighbor's wife.'" <span id="fr_25"></span>[19](#fn_25.md)
 
  
 
@@ -76,13 +76,13 @@ permitted it for others, but some people still abstained from it. And
 that came to the Prophet, and he went into the pulpit, and praised God.
 Then he said, 'What ails those people who refrain from a thing I have
 done? For by God, I know God better than they do, and I am more fearful
-of offending him.'" <span id="fr_26"></span>[20](#fn_26)
+of offending him.'" <span id="fr_26"></span>[20](#fn_26.md)
 
  
 
 Bukhārī . . . from Abū Sa‘īd al-Khudrī: "The Prophet was more shy than a
 virgin in her green years. When he saw a thing he disliked, we knew it
-from his face." <span id="fr_27"></span>[21](#fn_27)
+from his face." <span id="fr_27"></span>[21](#fn_27.md)
 
  
 
@@ -95,7 +95,7 @@ to him, 'Are you insane?' 'No,' he said. 'Are you married?' He replied
 outside Medina\]. When the stones struck him, he ran away, but he was
 caught and stoned until he was dead. Then the Prophet--the blessing of
 God and peace be upon him--spoke well of him and prayed over him." <span
-id="fr_28"></span>[22](#fn_28)
+id="fr_28"></span>[22](#fn_28.md)
 
  
 
@@ -114,7 +114,7 @@ said to him 'Raise your hand,' and there was the verse about stoning
 beneath his hand. The Messenger of God gave the order, and they were
 stoned." Ibn ‘Umar added: "They were stoned on the level ground and I
 saw the man leaning over the woman to shield her from the stones." <span
-id="fr_29"></span>[23](#fn_29)
+id="fr_29"></span>[23](#fn_29.md)
 
  
 
@@ -126,27 +126,27 @@ medicine). They did, and were cured. Then they renounced their religion,
 killed the herdsmen and stole the camels. He sent trackers after them,
 and they were captured. And he cut off their hands and their feet and
 burnt out their eyes and did not cauterize their wounds, so that they
-died." <span id="fr_30"></span>[24](#fn_30)
+died." <span id="fr_30"></span>[24](#fn_30.md)
 
  
 
 Bukhārī . . . from Ibn ‘Abbās: "The Prophet cursed men who act like
 women and women who act like men, and said, 'Drive them from your
 houses.' He expelled such people, and ‘Umar did it as well." <span
-id="fr_31"></span>[25](#fn_31)
+id="fr_31"></span>[25](#fn_31.md)
 
  
 
 Bukhārī . . . from Sa‘d ibn Abī Waqqās: "The Messenger of God refused to
 let ‘Uthmān ibn Maẓ‘ūn make a vow of chastity. Had he allowed him, we
-would all have been castrated." <span id="fr_32"></span>[26](#fn_32)
+would all have been castrated." <span id="fr_32"></span>[26](#fn_32.md)
 
  
 
 Bukhārī . . . from ‘A’isha: "A Beduin came to the Prophet and said 'Do
 you kiss children? We never do.' And the Prophet said, 'What shall I do
 to give back to you the mercy God has taken from your heart?'" <span
-id="fr_33"></span>[27](#fn_33)
+id="fr_33"></span>[27](#fn_33.md)
 
  
 
@@ -160,7 +160,7 @@ that?' he asked.
 
 <span class="contnote">\[paragraph continues\]</span> 'Something in the
 blood changed them.' 'Then perhaps something in the blood has changed
-your son,' said the Prophet." <span id="fr_34"></span>[28](#fn_34)
+your son,' said the Prophet." <span id="fr_34"></span>[28](#fn_34.md)
 
  
 
@@ -185,50 +185,50 @@ and ordered him to be called back. When he came, he said, 'How much of
 the Qur’ān do you know?' He replied, 'I know *sūra* so and so, and such
 a one, and such a one.' He said, 'Could you read them on the surface of
 your heart?' 'Yes,' said the man. 'Go then. I give her to you for what
-you have of the Qur’ān.'" <span id="fr_35"></span>[29](#fn_35)
+you have of the Qur’ān.'" <span id="fr_35"></span>[29](#fn_35.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_24"></span>[84:18](isl13.htm#fr_24) Al-Bukhārī, ed. Krehl &
+<span id="fn_24"></span>[84:18](isl13.htm#fr_24.md) Al-Bukhārī, ed. Krehl &
 Juynboll, *Kitāb al-Jāmi‘ al-Sahīh* (Leyden, 1868-1908), p. 445. The
 *Sahīh* has also been translated into French by O. Houdas and W. Marcais
 (Paris, 1903-1914).
 
-<span id="fn_25"></span>[84:19](isl13.htm#fr_25) *Ibid*., Vol. IV, p.
+<span id="fn_25"></span>[84:19](isl13.htm#fr_25.md) *Ibid*., Vol. IV, p.
 115.
 
-<span id="fn_26"></span>[84:20](isl13.htm#fr_26) *Ibid*., Vol. IV, p.
+<span id="fn_26"></span>[84:20](isl13.htm#fr_26.md) *Ibid*., Vol. IV, p.
 139.
 
-<span id="fn_27"></span>[84:21](isl13.htm#fr_27) *Ibid*., Vol. IV, p.
+<span id="fn_27"></span>[84:21](isl13.htm#fr_27.md) *Ibid*., Vol. IV, p.
 139.
 
-<span id="fn_28"></span>[84:22](isl13.htm#fr_28) *Ibid*., Vol. IV, p.
+<span id="fn_28"></span>[84:22](isl13.htm#fr_28.md) *Ibid*., Vol. IV, p.
 302.
 
-<span id="fn_29"></span>[84:23](isl13.htm#fr_29) *Ibid*., Vol. IV, pp.
+<span id="fn_29"></span>[84:23](isl13.htm#fr_29.md) *Ibid*., Vol. IV, pp.
 300, 309.
 
-<span id="fn_30"></span>[84:24](isl13.htm#fr_30) *Ibid*., Vol. IV, p.
+<span id="fn_30"></span>[84:24](isl13.htm#fr_30.md) *Ibid*., Vol. IV, p.
 298, several versions.
 
-<span id="fn_31"></span>[84:25](isl13.htm#fr_31) *Ibid*., Vol. IV, p.
+<span id="fn_31"></span>[84:25](isl13.htm#fr_31.md) *Ibid*., Vol. IV, p.
 308.
 
-<span id="fn_32"></span>[84:26](isl13.htm#fr_32) *Ibid*., Vol. III, p.
+<span id="fn_32"></span>[84:26](isl13.htm#fr_32.md) *Ibid*., Vol. III, p.
 413.
 
-<span id="fn_33"></span>[84:27](isl13.htm#fr_33) *Ibid*., Vol. IV, p.
+<span id="fn_33"></span>[84:27](isl13.htm#fr_33.md) *Ibid*., Vol. IV, p.
 114.
 
-<span id="fn_34"></span>[84:28](isl13.htm#fr_34) *Ibid*., Vol. IV, p.
+<span id="fn_34"></span>[84:28](isl13.htm#fr_34.md) *Ibid*., Vol. IV, p.
 431.
 
-<span id="fn_35"></span>[84:29](isl13.htm#fr_35) *Ibid*., Vol. III, p.
+<span id="fn_35"></span>[84:29](isl13.htm#fr_35.md) *Ibid*., Vol. III, p.
 403.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Muhammad as Model and Guide](isl14)
+[Next: 4. Muhammad as Model and Guide](isl14.md)

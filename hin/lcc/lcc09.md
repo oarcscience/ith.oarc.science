@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc08)  [Next](lcc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc08)  [Next](lcc10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ A wife who wants her lord to wear a horn
   You never can prevent;  
 A man who loves to gamble night and morn  
   You never can prevent;  
-And blemishes <span id="fr_43"></span>[1](#fn_43) that with a man are
+And blemishes <span id="fr_43"></span>[1](#fn_43.md) that with a man are
 born  
   You never can prevent.<span class="margnote">2</span>
 
@@ -185,7 +185,7 @@ And guard it safely, till it be restored.<span class="margnote">7</span>
 </div>
 
 \[*He nods, repeating the stanza* "The melody of song, the stricken
-strings:" *page* [44](#page_44).\]
+strings:" *page* [44](#page_44.md).\]
 
 *Maitreya*. Are you going to sleep?
 
@@ -205,7 +205,7 @@ class="margnote">8</span>
 
  
 
-\[*Enter Sharvilaka*. <span id="fr_44"></span>[1](#fn_44)\]
+\[*Enter Sharvilaka*. <span id="fr_44"></span>[1](#fn_44.md)\]
 
 *Sharv*. I made an entrance for my body's round
 
@@ -267,9 +267,9 @@ class="margnote">12</span>
 \[*He feels the wall*.\] Here is a spot weakened by constant sun and
 sprinkling and eaten by saltpeter rot. And here is a pile of dirt thrown
 up by a mouse. Now heaven be praised! My venture prospers. This is the
-first sign of success for Skanda's <span id="fr_45"></span>[1](#fn_45)
+first sign of success for Skanda's <span id="fr_45"></span>[1](#fn_45.md)
 sons. Now first of all, how shall I make the breach? The blessed Bearer
-of the Golden Lance <span id="fr_46"></span>[2](#fn_46) has prescribed
+of the Golden Lance <span id="fr_46"></span>[2](#fn_46.md) has prescribed
 four varieties of breach, thus: if the bricks are baked, pull them out;
 if they are unbaked, cut them; if they are made of earth, wet them; if
 they are made of wood, split them. Here we have baked bricks; ergo, pull
@@ -319,7 +319,7 @@ From cruel wounds shall leave me free.<span class="margnote">15</span>
 
 \[*He anoints himself*.\] Alas, I have forgotten my measuring line.
 \[*Reflecting*.\] Aha! This sacred cord <span
-id="fr_47"></span>[1](#fn_47) shall be my measuring line. Yes, the
+id="fr_47"></span>[1](#fn_47.md) shall be my measuring line. Yes, the
 sacred cord is a great blessing to a Brahman, especially to one like me.
 For, you see,
 
@@ -405,7 +405,7 @@ it. But no! It is hardly proper to rob a man of good birth, who is as
 poor as I am. I go.
 
 *Maitreya*. My friend, by the wishes of cows and Brahmans <span
-id="fr_48"></span>[1](#fn_48) I conjure you to take this golden casket.
+id="fr_48"></span>[1](#fn_48.md) I conjure you to take this golden casket.
 
 *Sharvilaka*. One may not disregard the sacred wish of a cow and the
 wish of a Brahman. I will take it. But look! There burns the candle. I
@@ -771,23 +771,23 @@ morning prayer.
 
 ### Footnotes
 
-<span id="fn_43"></span>[43:1](lcc09.htm#fr_43) This refers to
+<span id="fn_43"></span>[43:1](lcc09.htm#fr_43.md) This refers to
 Chārudatta's generosity, which continues after his wealth has vanished.
 
-<span id="fn_44"></span>[46:1](lcc09.htm#fr_44) The following scene
+<span id="fn_44"></span>[46:1](lcc09.htm#fr_44.md) The following scene
 satirizes the Hindu love of system and classification.
 
-<span id="fn_45"></span>[47:1](lcc09.htm#fr_45) The patron saint of
+<span id="fn_45"></span>[47:1](lcc09.htm#fr_45.md) The patron saint of
 thieves.
 
-<span id="fn_46"></span>[47:2](lcc09.htm#fr_46) An epithet of Skanda.
+<span id="fn_46"></span>[47:2](lcc09.htm#fr_46.md) An epithet of Skanda.
 
-<span id="fn_47"></span>[48:1](lcc09.htm#fr_47) The sacrificial cord,
+<span id="fn_47"></span>[48:1](lcc09.htm#fr_47.md) The sacrificial cord,
 which passes over the left shoulder and under the right arm, is worn
 constantly by members of the three upper castes.
 
-<span id="fn_48"></span>[50:1](lcc09.htm#fr_48) Sacred creatures.
+<span id="fn_48"></span>[50:1](lcc09.htm#fr_48.md) Sacred creatures.
 
 ------------------------------------------------------------------------
 
-[Next: Act the Fourth: Madanikā and Sharvilaka](lcc10)
+[Next: Act the Fourth: Madanikā and Sharvilaka](lcc10.md)

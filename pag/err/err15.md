@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err14)  [Next](err16) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err14)  [Next](err16.md) 
 
 ------------------------------------------------------------------------
 
@@ -1590,7 +1590,7 @@ as, 'If you
 throw a mole into a house the grandmother will die.' To this might be
 added several to the effect that by means of it disaster can be wrought
 to a family, especially to its head." <span
-id="fr_36"></span>[1](#fn_36) It was of yore much used in sorcery. Thus,
+id="fr_36"></span>[1](#fn_36.md) It was of yore much used in sorcery. Thus,
 according to PLINY (Hist. Nat., xxx., 7):--
 
  
@@ -2008,9 +2008,9 @@ in it a wild uncanny "Northern" spirit, far surpassing that of the
 
 ### Footnotes
 
-<span id="fn_36"></span>[296:1](err15.htm#fr_36) *Die Zoologie der alten
+<span id="fn_36"></span>[296:1](err15.htm#fr_36.md) *Die Zoologie der alten
 Römer und Griechen* (Gotha, 1856), p. 85
 
 ------------------------------------------------------------------------
 
-[Next: Part Two: Chapter III--THE EXORCISM OF DEATH](err16)
+[Next: Part Two: Chapter III--THE EXORCISM OF DEATH](err16.md)

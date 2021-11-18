@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos19)  [Next](gbos21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos19)  [Next](gbos21.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ to feel they are absolutely helpless but without discomfort.
 
 ------------------------------------------------------------------------
 
-[Next: The Meeting Dance](gbos21)
+[Next: The Meeting Dance](gbos21.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb33)  [Next](blfb35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb33)  [Next](blfb35.md) 
 
 </div>
 
@@ -340,6 +340,6 @@ still.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Prince Ahmed and the Fairy Paribanou](blfb35)
+[Next: The Story of Prince Ahmed and the Fairy Paribanou](blfb35.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](rtae13)  [Next](rtae15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](rtae13)  [Next](rtae15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Development of Religion and Thought in Ancient Egypt*, by James Henry
 Breasted, \[1912\], at Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ so that righteousness endured . . .; and made lying to be the
 abomination of the land, as in the beginning. For when his majesty was
 crowned as king, the temples of the gods and goddesses were
 \[desolat\]ed from Elephantine as far as the marshes of the Delta <span
-id="fr_859"></span>[1](#fn_859) . . . (hammered out). Their holy places
+id="fr_859"></span>[1](#fn_859) . . . (hammered out.md). Their holy places
 were ⌈forsaken⌉ and had become overgrown tracts, . . . their sanctuaries
 were like that which has never been, and their houses were trodden
 roads. The land was in an evil pass, and as for the gods, they had
@@ -52,7 +52,7 @@ and the needs of the two regions were before his majesty, as he took
 counsel with his own heart, seeking every excellent matter and searching
 for profitable things for his father Amon, fashioning his august
 emanation of pure gold, and giving to him more than was done
-before." <span id="fr_860"></span>[1](#fn_860)
+before." <span id="fr_860"></span>[1](#fn_860.md)
 
 Thus was the memory of the great idealist execrated. When in a state
 document it was necessary to refer to him, he was called "the criminal
@@ -84,7 +84,7 @@ continues\]</span>  But he who assails thee falls.
  The forecourt of him who assailed thee is in darkness,  
  But the whole earth is in light.  
  Whosoever puts thee in his heart, O Amon,  
- Lo, his sun dawns." <span id="fr_861"></span>[1](#fn_861)</span>
+ Lo, his sun dawns." <span id="fr_861"></span>[1](#fn_861.md)</span>
 
 </div>
 
@@ -107,7 +107,7 @@ Amon. Men sang of him:
  Lord of that which is,  
  Creator of the tree of life,  
  Maker of herbs, sustaining the cattle alive." <span
-id="fr_862"></span>[2](#fn_862)</span>
+id="fr_862"></span>[2](#fn_862.md)</span>
 
 </div>
 
@@ -187,7 +187,7 @@ continues\]</span>  Hail to thee, who hast made all these,
 
 A hymn to Osiris of the same age says to him: "Thou art the father and
 the mother of men, they live from thy breath." <span
-id="fr_863"></span>[1](#fn_863) There is a spirit of humane solicitude
+id="fr_863"></span>[1](#fn_863.md) There is a spirit of humane solicitude
 in all this, which, as we have seen, appeared as early as the social
 teaching of the Feudal Age. Especially the preference for the "timid" as
 over against the "haughty" and overbearing, and the discerning "taste"
@@ -262,7 +262,7 @@ continues\]</span>  Save me,
  Who maketh the people and the birds to live,  
  Who supplieth the needs of the mice in their holes,  
  The worms and the insects likewise." <span
-id="fr_864"></span>[1](#fn_864)</span>
+id="fr_864"></span>[1](#fn_864.md)</span>
 
 </div>
 
@@ -271,7 +271,7 @@ men of Thebes might bring their misfortunes and their daily cares,
 confident in his kindness and beneficence. A painter of tomb scenes in
 the necropolis erected a stela in one of the necropolis sanctuaries,
 telling how Amon, in gracious mercy, had saved his son from
-sickness. <span id="fr_865"></span>[2](#fn_865) Amon is to him the
+sickness. <span id="fr_865"></span>[2](#fn_865.md) Amon is to him the
 "august god, who heareth petitions, who cometh at the cry of the
 afflicted poor, and giveth breath to him who is bowed down," and the
 story of Amon's goodness he tells thus:
@@ -312,7 +312,7 @@ of earth;
  Then thou comest and savest me.  
  That thou mayest give breath to him who is bowed down,  
  And mayest save me lying in bondage. <span
-id="fr_866"></span>[1](#fn_866)  
+id="fr_866"></span>[1](#fn_866.md)  
   .   .   .   .   .   .   .   .   .   .   .   .   .  
  Thou, Amon-Re, Lord of Thebes, art he,  
  Who saveth him that is in the Nether World,  
@@ -326,7 +326,7 @@ in the necropolis, made this in the name of his lord, Amon, Lord of
 Thebes, who cometh at the cry of the poor; making for him praises in his
 name, because of the greatness of his might, and making for him prayers
 before him and before the whole land, on behalf of the painter
-Nakht-Amon, <span id="fr_867"></span>[2](#fn_867) when he lay sick unto
+Nakht-Amon, <span id="fr_867"></span>[2](#fn_867.md) when he lay sick unto
 death, being ⌈in⌉ the power of Amon, because of his sin."
 
 <span id="page_352">p. 352</span>
@@ -340,7 +340,7 @@ Peshed."
 wont to be gracious. The lord of Thebes spends not the whole day wroth.
 If he be wroth for the space of a moment, it remaineth not . . . turns
 to us in graciousness, Amon turns ⌈with⌉ his breath.'" <span
-id="fr_868"></span>[1](#fn_868)
+id="fr_868"></span>[1](#fn_868.md)
 
 "By thy ka, thou wilt be gracious, and that which is turned away will
 not be repeated."
@@ -370,20 +370,20 @@ forth from the district, the gazelles in the desert."
 peace, and thou art praised in the midst of the officials and
 established in the place of truth. Amon-Re, thy great Nile ascendeth the
 mountains, thou lord of fish, rich in birds; and all the poor are
-satiated." <span id="fr_869"></span>[1](#fn_869)
+satiated." <span id="fr_869"></span>[1](#fn_869.md)
 
 The Sun-god, or his supplanter, Amon, has thus become the champion of
 the distressed, "Who heareth the petition, who heareth the prayers of
 him who crieth out to him, who cometh at the voice of him who mentions
-his name," <span id="fr_870"></span>[2](#fn_870) "the loving god who
+his name," <span id="fr_870"></span>[2](#fn_870.md) "the loving god who
 heareth prayers, \[who giveth the hand\] to the poor, who saveth the
-weary." <span id="fr_871"></span>[3](#fn_871) So the injured mother,
+weary." <span id="fr_871"></span>[3](#fn_871.md) So the injured mother,
 neglected by her son, "raises her arms to the god, and he hears her
-cry." <span id="fr_872"></span>[4](#fn_872) The social justice which
+cry." <span id="fr_872"></span>[4](#fn_872.md) The social justice which
 arose in the Middle Kingdom is now a claim which every poor man pleads
 before the god, who has himself become a "just judge, not accepting a
 bribe, uplifting the insignificant, \[protecting\] the poor, not
-extending thy hand to the rich." <span id="fr_873"></span>[5](#fn_873)
+extending thy hand to the rich." <span id="fr_873"></span>[5](#fn_873.md)
 And so the poor man prays: "O Amon, lend thine ear to him who stands
 alone in the court (of justice), who is poor while his \[opponent\] is
 rich. The court oppresses him (saying), 'Silver and gold for the
@@ -392,7 +392,7 @@ the vizier, that he may cause the poor man to triumph; the poor man is
 just and the poor man ⌈overcomes⌉ the rich. Pilot \[in\] front who
 knoweth the water, Amon, thou Rudder, . . . who giveth bread to him who
 has none, and preserveth alive the servant of his house." <span
-id="fr_874"></span>[6](#fn_874) For the god is now that "Amon-Re who
+id="fr_874"></span>[6](#fn_874.md) For the god is now that "Amon-Re who
 first became king, O god of the beginning, thou vizier of the poor man,
 not taking the corrupt reward, not saying,
 
@@ -401,12 +401,12 @@ not taking the corrupt reward, not saying,
 <span class="contnote">\[paragraph continues\]</span> 'Bring witnesses;'
 Amon-Re who judgeth the earth with his finger, whose words are before
 the heart. He assigneth him that sinneth against him to the fire, and
-the just \[to\] the West." <span id="fr_875"></span>[1](#fn_875) Rich
+the just \[to\] the West." <span id="fr_875"></span>[1](#fn_875.md) Rich
 and poor alike may suffer the displeasure of the god aroused by sin. An
 oath taken lightly or falsely calls down the wrath of the god, and he
 smites the transgressor with sickness or blindness, from which relief
 may be obtained as we have seen, if repentance follows and the offender
-humbly seeks the favor of his god. <span id="fr_876"></span>[2](#fn_876)
+humbly seeks the favor of his god. <span id="fr_876"></span>[2](#fn_876.md)
 Now for the first time conscience is fully emancipated. The sinner
 pleads his ignorance and proneness to err. "Thou sole and only one, thou
 Harakhte who hath none other like him, protector of millions, savior of
@@ -414,7 +414,7 @@ hundred-thousands, who shieldeth him that calleth upon him, thou lord of
 Heliopolis; punish me not for my many sins. I am one ignorant of his own
 body, I am a man without understanding. All day I follow after my own
 dictates as the ox after his fodder." <span
-id="fr_877"></span>[3](#fn_877) This is in striking contrast with the
+id="fr_877"></span>[3](#fn_877.md) This is in striking contrast with the
 Book of the Dead, in which the soul admits no sin and claims entire
 innocence. But now in this posture of unworthiness and humility there is
 inner communion with God night and day. "Come to me, O Re-Harakhte, that
@@ -423,7 +423,7 @@ thee, but thou art he who doeth it. Come to me, Atum, thou art the
 august god. My heart goes out to Heliopolis My heart rejoiceth and my
 bosom is glad. My petitions are heard, even my daily prayers, and my
 hymns by night. My supplications shall flourish in my mouth, for they
-are heard this day." <span id="fr_878"></span>[4](#fn_878)
+are heard this day." <span id="fr_878"></span>[4](#fn_878.md)
 
 <span id="page_355">p. 355</span>
 
@@ -441,11 +441,11 @@ him. . . . O Amon-Re, I love thee and I have filled my heart with thee.
 . . . Thou wilt rescue me out of the mouth of men in the day when they
 speak lies; for the Lord of Truth, he liveth in truth. I will not follow
 the anxiety in my heart, (for) that which Amon hath said
-flourisheth." <span id="fr_879"></span>[1](#fn_879) There are, to be
+flourisheth." <span id="fr_879"></span>[1](#fn_879.md) There are, to be
 sure, external and material means which will further this spiritual
 relation with the god. The wise man sagely admonishes to" celebrate the
 feast of thy god, repeat his seasons; the god is wroth \[with\] him who
-transgresses \[against\] him." <span id="fr_880"></span>[2](#fn_880)
+transgresses \[against\] him." <span id="fr_880"></span>[2](#fn_880.md)
 Nevertheless, even in the opinion of the sages, who are wont to
 compromise with traditional customs, the most effective means of gaining
 the favor of God is contemplative silence and inner communion. "Be not
@@ -456,17 +456,17 @@ desiring heart whose every word is hidden,
 <span id="page_356">p. 356</span>
 
 and he will supply thy need, and hear thy speech and receive thy
-offering." <span id="fr_881"></span>[1](#fn_881) It is in such an
+offering." <span id="fr_881"></span>[1](#fn_881.md) It is in such an
 attitude as this that the worshipper may turn to his God as to a
 fountain of spiritual refreshment, saying, "Thou sweet Well for him that
 thirsteth in the desert; it is closed to him who speaks, but it is open
 to him who is silent. When he who is silent comes, lo, he finds the
-well." <span id="fr_882"></span>[2](#fn_882) This attitude of silent
+well." <span id="fr_882"></span>[2](#fn_882.md) This attitude of silent
 communion, waiting upon the gracious goodness of God, was not confined
 to the select few, nor to the educated priestly communities. On the
 humblest monuments of the common people Amon is called the god "who
 cometh to the silent," or the "lord of the silent," as we have already
-observed. <span id="fr_883"></span>[3](#fn_883) It is in this final
+observed. <span id="fr_883"></span>[3](#fn_883.md) It is in this final
 development of devotional feeling, crowning the religious and
 intellectual revolution of Ikhnaton, and also forming the culmination of
 the doctrines of social justice emerging in the Feudal Age, that the
@@ -480,7 +480,7 @@ maintain a spirit of wholesome regard for the highest practical ideals,
 an attitude in which we discern a distinct advance upon the teachings of
 the fathers. Reputation was strictly to be guarded. "Let every place
 which thou lovest be known," says the sage; <span
-id="fr_884"></span>[4](#fn_884) and drunkenness and dissolute living are
+id="fr_884"></span>[4](#fn_884.md) and drunkenness and dissolute living are
 exhibited in all their disastrous consequences for the young. To the
 young man the dangers of immorality are bared with naked frankness.
 
@@ -493,20 +493,20 @@ whose whirling no man knows. The woman whose husband is far away, 'I am
 beautiful,' says she to thee every day. When she has no witnesses, she
 stands and ensnares thee. O great crime worthy of death when one
 hearkens, even when it be not known abroad. (For) a man takes up every
-sin \[after\] this *one*." <span id="fr_885"></span>[1](#fn_885) As for
+sin \[after\] this *one*." <span id="fr_885"></span>[1](#fn_885.md) As for
 the good things of life, they are to be regarded with philosophical
 reserve. It is foolish to count upon inherited wealth as a source of
 happiness. "Say not, 'My maternal grandfather has a house on the estate
 of So and So.' Then when thou comest to the division (by will) with thy
 brother, thy portion is (only) a storage-shed." <span
-id="fr_886"></span>[2](#fn_886) In such things indeed there is no
+id="fr_886"></span>[2](#fn_886.md) In such things indeed there is no
 stability. "So it is forever, men are naught. One is rich, another is
 poor. . . . He who was rich last year, he is a vagrant this year. . . .
 The watercourse of last year, it is another place this year. Great seas
 become dry places, and shores become deeps." <span
-id="fr_887"></span>[3](#fn_887) We have here that Oriental resignation
+id="fr_887"></span>[3](#fn_887.md) We have here that Oriental resignation
 to the contrasts in life which seems to have developed among all the
-peoples of the early East. <span id="fr_888"></span>[4](#fn_888)
+peoples of the early East. <span id="fr_888"></span>[4](#fn_888.md)
 
 The speculations of the thinking class, especially those which we have
 found in intimations of pantheism as far back as the Pyramid Age, had
@@ -519,12 +519,12 @@ the East. A picturesque tale of the twelfth century
 <span class="contnote">\[paragraph continues\]</span> B.C. expresses in
 graphic form the thought of the people concerning these complicated and
 elusive matters. It is now commonly known as the Tale of the Two
-Brothers. <span id="fr_889"></span>[1](#fn_889) The two gods who appear
+Brothers. <span id="fr_889"></span>[1](#fn_889.md) The two gods who appear
 as the chief characters in the tale are pictured in the naïve
 imagination of the folk as two peasants, whose names, Anubis and Bata,
 have disclosed them as gods of the town of Kasa, <span
-id="fr_890"></span>[2](#fn_890) who had a place in the religion of Egypt
-at an enormously remote date. <span id="fr_891"></span>[3](#fn_891)
+id="fr_890"></span>[2](#fn_890.md) who had a place in the religion of Egypt
+at an enormously remote date. <span id="fr_891"></span>[3](#fn_891.md)
 Anubis, the elder brother, is married; Bata, the younger, lives with
 them almost as their son, when the idyllic round of picturesque rustic
 life is forever ended by an attempt on the part of the wife, enamoured
@@ -586,12 +586,12 @@ the Sun-god. But it will be noticed that Bata is alternately the persea
 of Osiris and the bull of the Sun, who still remains, as he has been
 throughout its history, the great god of Egypt. "The god of this land is
 the Sun in the horizon, (while) his statues are on earth," says the
-sage; <span id="fr_892"></span>[1](#fn_892) but the other gods have now
+sage; <span id="fr_892"></span>[1](#fn_892.md) but the other gods have now
 in the thought of the time completely coalesced with him. This Solar
 pantheism now took definite form in the thought of the theologian, and
 we ultimately find an "Amon-Re-Wennofer (Osiris)" as king of Egypt, with
 his name inclosed in a cartouche like an earthly ruler. <span
-id="fr_893"></span>[2](#fn_893) Amon as Sun-god becomes the
+id="fr_893"></span>[2](#fn_893.md) Amon as Sun-god becomes the
 all-pervasive, life-giving air. "He emits air, refreshing the throat, in
 his name of 'Amon,' who abides (mn) in all things, the soul of Shu (god
 of the air) for all gods, the substance of life, who created the tree of
@@ -600,15 +600,15 @@ life, . . . flooding
 <span id="page_361">p. 361</span>
 
 the Two Lands (Egypt), without whom none liveth in Egypt." <span
-id="fr_894"></span>[1](#fn_894) As god of the universal air, "his voice
+id="fr_894"></span>[1](#fn_894.md) As god of the universal air, "his voice
 is heard though he is not seen, refreshing every throat, strengthening
 the heart of the pregnant woman in travail, and the man-child born of
-her." <span id="fr_895"></span>[2](#fn_895) In the words of an old
+her." <span id="fr_895"></span>[2](#fn_895.md) In the words of an old
 Sun-hymn of Aton times, the worshipper says, "Thou art he who fashions
 his body with his own hands in any form he desires;" <span
-id="fr_896"></span>[3](#fn_896) and Amon, "lord of Thebes shines in his
+id="fr_896"></span>[3](#fn_896.md) and Amon, "lord of Thebes shines in his
 forms, which are in every province," <span
-id="fr_897"></span>[4](#fn_897) indicating that the local gods of the
+id="fr_897"></span>[4](#fn_897.md) indicating that the local gods of the
 provinces or nomes are but forms and names of Amon. The priests narrated
 too how this had come to pass. "Thou didst establish thy throne in every
 place thou lovest, in order that thy names might be many. Cities and
@@ -623,8 +623,8 @@ waters, and when they penetrate into the soil, thou makest it to live by
 thy flood. Thou art the sky, thou art the earth, thou art the Nether
 World, thou art the water, thou art the air that is between them. Men
 rejoice because of thee, (for) thou ceasest not <span
-id="fr_898"></span>[5](#fn_898) to care for all that is." <span
-id="fr_899"></span>[6](#fn_899)
+id="fr_898"></span>[5](#fn_898.md) to care for all that is." <span
+id="fr_899"></span>[6](#fn_899.md)
 
 <span id="page_362">p. 362</span>
 
@@ -645,16 +645,16 @@ vast industry which all classes of society called into requisition. The
 sages cautioned even the young to make ready their tombs. "Say not 'I am
 (too) young to be taken.' Thou knowest not thy death. Death comes and
 takes the child who is in his mother's arms, like the man who has
-reached old age." <span id="fr_900"></span>[1](#fn_900) "Adorn thy seat
+reached old age." <span id="fr_900"></span>[1](#fn_900.md) "Adorn thy seat
 which is in the valley, the tomb which shall hide thy body. Put it
 before thee in thy affairs, which are made account of in thy eyes, like
 the very old whom thou layest to rest in the midst of their ⌈dwelling⌉.
 There is no blame to him who doeth it, it is good that thou be likewise
 equipped. When thy messenger comes ⌈to take thee he shall find thee
-equipped⌉." <span id="fr_901"></span>[2](#fn_901) Neither should a man
+equipped⌉." <span id="fr_901"></span>[2](#fn_901.md) Neither should a man
 forget those who already lie there: "Put water for thy father and thy
 mother who rest in the valley. . . . Thy son shall do likewise for
-thee." <span id="fr_902"></span>[3](#fn_902)
+thee." <span id="fr_902"></span>[3](#fn_902.md)
 
 Under such influences as these grew up the vast cemetery of Thebes, in
 which myriads of the common people
@@ -683,7 +683,7 @@ endowed, became an economic menace. Moreover, the great Pharaohs of this
 age began to recognize oracles of Amon as mandatory. Thutmose III was
 seated on his throne by a conspiracy of the priests of Amon, supported
 by an oracle of the great god recognizing him as king. <span
-id="fr_903"></span>[1](#fn_903) When Thutmose III, therefore, made the
+id="fr_903"></span>[1](#fn_903.md) When Thutmose III, therefore, made the
 High Priest of Amon primate of all the priesthoods of Egypt, the chief
 sacerdotal official of the state, he was but paying his political debts.
 This Amonite papacy suffered severely at the hands of Ikhnaton, as we
@@ -693,7 +693,7 @@ have seen. After his overthrow, however, it recovered all it had lost
 
 and much more. Ramses II even allowed an oracle of Amon to guide him in
 the appointment of the god's high priest, <span
-id="fr_904"></span>[1](#fn_904) and under such circumstances it was easy
+id="fr_904"></span>[1](#fn_904.md) and under such circumstances it was easy
 for the high priests of Amon to make the office hereditary. Unable to
 resist the political power of this state within the state, a constant
 victim of its economic encroachments, Egypt rapidly degenerated into a
@@ -712,7 +712,7 @@ Thebes became in the hands of his crafty priesthood a mere oracular
 source for political and administrative decisions. Even routine legal
 verdicts were rendered by the nod of the god, and such matters as wills
 and testaments were subject to his oracles. <span
-id="fr_905"></span>[2](#fn_905) The old prayer of the oppressed, that
+id="fr_905"></span>[2](#fn_905.md) The old prayer of the oppressed, that
 Amon might become the vizier of the poor man, was receiving a very
 literal fulfilment, and with results little foreseen by the men who had
 framed this prayer. As Thebes degenerated into a sacerdotal principality
@@ -734,7 +734,7 @@ expressing itself in the spontaneous development of new forms and new
 manifestations, as at the beginning of the Empire, the nation fell back
 upon the past, and consciously endeavored to restore and rehabilitate
 the vanished state of the old days before the changes and innovations
-introduced by the Empire. <span id="fr_906"></span>[1](#fn_906) Seen
+introduced by the Empire. <span id="fr_906"></span>[1](#fn_906.md) Seen
 through the mist of two thousand years, what was to them ancient Egypt
 was endowed with the ideal perfection of the divine régime which had
 preceded it. In the endeavor to reconstitute modern religion, society,
@@ -767,7 +767,7 @@ own Theban tomb, because the owner of the ancient tomb was also named
 Aba.
 
 There is a large black granite stela in the British Museum, <span
-id="fr_907"></span>[1](#fn_907) a copy, dating from the dawn of the
+id="fr_907"></span>[1](#fn_907.md) a copy, dating from the dawn of the
 Restoration, of an ancient papyrus book of the Old Kingdom, a "work of
 the ancestors, which was eaten of worms." Thus the writings and sacred
 rolls of bygone days were now eagerly sought out, and, with the dust of
@@ -790,7 +790,7 @@ observances were no longer the expression of a growing and developing
 inner life, as in the days before the creative vitality of the race was
 extinct. To be sure, many of the finest of the old teachings continued
 as purely literary survivals, and new ones unconsciously crept in,
-chiefly due to foreign influence. <span id="fr_908"></span>[1](#fn_908)
+chiefly due to foreign influence. <span id="fr_908"></span>[1](#fn_908.md)
 
 In the days of the Greek kings, the Osirian faith finally submerged the
 venerable Sun-god, with whose name the greatest movements in the history
@@ -828,7 +828,7 @@ decades after the crucifixion which conquered the Roman world. It seems
 equally evident that it was the religion of Egypt as viewed,
 interpreted, and apprehended by generations of Greeks, it was this
 Hellenized composite of old Egyptian religion and Greek
-preconceptions <span id="fr_909"></span>[1](#fn_909) which passed out
+preconceptions <span id="fr_909"></span>[1](#fn_909.md) which passed out
 into the Mediterranean world to make Isis a household word in Athens, to
 give her a sanctuary even in such a provincial city as Pompeii, and to
 leave such monuments in Rome
@@ -867,7 +867,7 @@ realize with Agassiz in the
 
 <span id="page_370">p. 370</span>
 
-geological world, <span id="fr_910"></span>[1](#fn_910) that religion is
+geological world, <span id="fr_910"></span>[1](#fn_910.md) that religion is
 still in the making, that the processes which brought forth inherited
 religion have never ceased, that they are going on around us every day,
 and that they will continue as long as the great and complex fabric of
@@ -877,12 +877,12 @@ man's life endures.
 
 ### Footnotes
 
-<span id="fn_859"></span>[344:1](rtae14.htm#fr_859) "Marshes of the
+<span id="fn_859"></span>[344:1](rtae14.htm#fr_859.md) "Marshes of the
 Delta" (h̠’wt ydḥw) is not in the published edition of the text, but
 close study of a large-scale photograph shows that it is still
 discernible, though with great difficulty, on the stone.
 
-<span id="fn_860"></span>[345:1](rtae14.htm#fr_860) These new and
+<span id="fn_860"></span>[345:1](rtae14.htm#fr_860.md) These new and
 interesting facts are drawn from a large stela of Tutenkhamon found by
 <span class="smallcaps">Legrain</span> in the Karnak temple in 1905, and
 published by him in *Recueil de trav.*, XXIX, 162–173. I am indebted to
@@ -892,100 +892,100 @@ possible to read the important northern limits of the persecution of the
 gods by Ikhnaton, not before noted. The stela was usurped by Harmhab,
 who inserted his name over that of Tutenkhamon.
 
-<span id="fn_861"></span>[346:1](rtae14.htm#fr_861) Ostrakon 5656 a in
+<span id="fn_861"></span>[346:1](rtae14.htm#fr_861.md) Ostrakon 5656 a in
 the British Museum, published in <span class="smallcaps">Birch</span>,
 Inscriptions in the *Hieratic Character*, pl. xxvi. The historical
 connection of the passages cited was first noted in a brilliant
 interpretation by <span class="smallcaps">Erman</span>, *Zeitschr. für
 aegypt. Sprache*, 42, 106 *ff*.
 
-<span id="fn_862"></span>[346:2](rtae14.htm#fr_862) Great Hymn to Amon,
+<span id="fn_862"></span>[346:2](rtae14.htm#fr_862.md) Great Hymn to Amon,
 Cairo Papyrus, No. 17 (<span class="smallcaps">Mariette</span>, II, pls.
 11–13).
 
-<span id="fn_863"></span>[348:1](rtae14.htm#fr_863) *Zeitschr. für
+<span id="fn_863"></span>[348:1](rtae14.htm#fr_863.md) *Zeitschr. für
 aegypt. Sprache*, 38, 31.
 
-<span id="fn_864"></span>[350:1](rtae14.htm#fr_864) Berlin Statuette,
+<span id="fn_864"></span>[350:1](rtae14.htm#fr_864.md) Berlin Statuette,
 No. 6910.
 
-<span id="fn_865"></span>[350:2](rtae14.htm#fr_865) Berlin, No. 23077,
+<span id="fn_865"></span>[350:2](rtae14.htm#fr_865.md) Berlin, No. 23077,
 published by <span class="smallcaps">Erman</span>, *Sitzungsber. der
 Kgl. Preuss. Akad.*, 1911, XLIX, pp. 1087 *ff*. <span
 class="smallcaps">Erman</span> first called attention to the character
 of this group of necropolis votive stelæ in an essay, *Denksteine aus
 dem thebanischen Gräberstadt*, *ibid.*, pp. 1086. *ff*.
 
-<span id="fn_866"></span>[351:1](rtae14.htm#fr_866) So <span
+<span id="fn_866"></span>[351:1](rtae14.htm#fr_866.md) So <span
 class="smallcaps">Erman</span>.
 
-<span id="fn_867"></span>[351:2](rtae14.htm#fr_867) The son of Neb-Re,
+<span id="fn_867"></span>[351:2](rtae14.htm#fr_867.md) The son of Neb-Re,
 whose life Amon saves.
 
-<span id="fn_868"></span>[352:1](rtae14.htm#fr_868) So <span
+<span id="fn_868"></span>[352:1](rtae14.htm#fr_868.md) So <span
 class="smallcaps">Erman</span>.
 
-<span id="fn_869"></span>[353:1](rtae14.htm#fr_869) Papyrus Anastasi,
+<span id="fn_869"></span>[353:1](rtae14.htm#fr_869.md) Papyrus Anastasi,
 IV, 10, 1–7.
 
-<span id="fn_870"></span>[353:2](rtae14.htm#fr_870) <span
+<span id="fn_870"></span>[353:2](rtae14.htm#fr_870.md) <span
 class="smallcaps">Erman</span>, *ibid.*, 1107.
 
-<span id="fn_871"></span>[353:3](rtae14.htm#fr_871) *Ibid.*, 1108.
+<span id="fn_871"></span>[353:3](rtae14.htm#fr_871.md) *Ibid.*, 1108.
 
-<span id="fn_872"></span>[353:4](rtae14.htm#fr_872) *Maximes d’Ani*, 7,
+<span id="fn_872"></span>[353:4](rtae14.htm#fr_872.md) *Maximes d’Ani*, 7,
 3.
 
-<span id="fn_873"></span>[353:5](rtae14.htm#fr_873) *Zeitschr. für
+<span id="fn_873"></span>[353:5](rtae14.htm#fr_873.md) *Zeitschr. für
 aegypt. Sprache*, 38, 24.
 
-<span id="fn_874"></span>[353:6](rtae14.htm#fr_874) Papyrus Anastasi,
+<span id="fn_874"></span>[353:6](rtae14.htm#fr_874.md) Papyrus Anastasi,
 II, 8, 5–9, 3.
 
-<span id="fn_875"></span>[354:1](rtae14.htm#fr_875) Papyrus Anastasi,
+<span id="fn_875"></span>[354:1](rtae14.htm#fr_875.md) Papyrus Anastasi,
 II, 6, 5–7.
 
-<span id="fn_876"></span>[354:2](rtae14.htm#fr_876) <span
+<span id="fn_876"></span>[354:2](rtae14.htm#fr_876.md) <span
 class="smallcaps">Erman</span>, *ibid.*, 1102–3, 1104, 1098–1110,
 1101–2, 1107.
 
-<span id="fn_877"></span>[354:3](rtae14.htm#fr_877) Papyrus Anastasi,
+<span id="fn_877"></span>[354:3](rtae14.htm#fr_877.md) Papyrus Anastasi,
 II, 10, 5–11, 2.
 
-<span id="fn_878"></span>[354:4](rtae14.htm#fr_878) *Ibid.*, II, 10,
+<span id="fn_878"></span>[354:4](rtae14.htm#fr_878.md) *Ibid.*, II, 10,
 1–10, 5.
 
-<span id="fn_879"></span>[355:1](rtae14.htm#fr_879) *Inscriptions in the
+<span id="fn_879"></span>[355:1](rtae14.htm#fr_879.md) *Inscriptions in the
 Hieratic Character*, XXVI, British Museum Ostrakon, No. 5656 a, ll. 6–7,
 14–15, verso ll. 1–3 (after a collation by <span
 class="smallcaps">Erman</span>. *Cf*. *Zeitschr. für aegypt. Sprache*,
 42, 106).
 
-<span id="fn_880"></span>[355:2](rtae14.htm#fr_880) *Maximes d’Ani*, 2,
+<span id="fn_880"></span>[355:2](rtae14.htm#fr_880.md) *Maximes d’Ani*, 2,
 3–5.
 
-<span id="fn_881"></span>[356:1](rtae14.htm#fr_881) *Ibid.*, 3, 1–4.
+<span id="fn_881"></span>[356:1](rtae14.htm#fr_881.md) *Ibid.*, 3, 1–4.
 
-<span id="fn_882"></span>[356:2](rtae14.htm#fr_882) Papyrus Saltier, I,
+<span id="fn_882"></span>[356:2](rtae14.htm#fr_882.md) Papyrus Saltier, I,
 8, 2–3.
 
-<span id="fn_883"></span>[356:3](rtae14.htm#fr_883) See above, pp.
-[349](#page_349), [351](#page_351).
+<span id="fn_883"></span>[356:3](rtae14.htm#fr_883.md) See above, pp.
+[349](#page_349), [351](#page_351.md).
 
-<span id="fn_884"></span>[356:4](rtae14.htm#fr_884) *Maximes d’Ani*, 3,
+<span id="fn_884"></span>[356:4](rtae14.htm#fr_884.md) *Maximes d’Ani*, 3,
 12.
 
-<span id="fn_885"></span>[357:1](rtae14.htm#fr_885) *Ibid.*, 2, 13–17.
+<span id="fn_885"></span>[357:1](rtae14.htm#fr_885.md) *Ibid.*, 2, 13–17.
 
-<span id="fn_886"></span>[357:2](rtae14.htm#fr_886) *Ibid.*, 5, 7–8.
+<span id="fn_886"></span>[357:2](rtae14.htm#fr_886.md) *Ibid.*, 5, 7–8.
 
-<span id="fn_887"></span>[357:3](rtae14.htm#fr_887) *Ibid.*, 7, 8–9.
+<span id="fn_887"></span>[357:3](rtae14.htm#fr_887.md) *Ibid.*, 7, 8–9.
 
-<span id="fn_888"></span>[357:4](rtae14.htm#fr_888) See, for example,
+<span id="fn_888"></span>[357:4](rtae14.htm#fr_888.md) See, for example,
 the song of Sindebad the porter in the court of the rich man's house.
 Algiers edition of *Sindebad the Sailor*, Arabic text, p. 4.
 
-<span id="fn_889"></span>[358:1](rtae14.htm#fr_889) Preserved in a
+<span id="fn_889"></span>[358:1](rtae14.htm#fr_889.md) Preserved in a
 papyrus of the British Museum called *Papyrus D’Orbiney;* published in
 *Select Papyri . . . in the British Museum*, London, 1860, part II, pls.
 ix–xix. It has been often translated. A good rendering by <span
@@ -993,13 +993,13 @@ class="smallcaps">Griffith</span> will be found in <span
 class="smallcaps">Petrie's</span> Egyptian Tales, London, 1895, Second
 Series, pp. 36–65.
 
-<span id="fn_890"></span>[358:2](rtae14.htm#fr_890) See <span
+<span id="fn_890"></span>[358:2](rtae14.htm#fr_890.md) See <span
 class="smallcaps">Gardiner</span>, *Proceedings of the Soc. of Bibl.
 Arch.*, XXVII, 1905, p. 185, and <span
 class="smallcaps">Spiegelberg</span>, *Zeitschr. für aegypt. Sprache*,
 44, pp. 98–99.
 
-<span id="fn_891"></span>[358:3](rtae14.htm#fr_891) <span
+<span id="fn_891"></span>[358:3](rtae14.htm#fr_891.md) <span
 class="smallcaps">Naville</span> has called attention to the probable
 occurrence of Bata in the Pyramid Texts (*Zeitschr. für aegypt.
 Sprache*, 43, 77–83). <span class="smallcaps">Naville</span> seems to
@@ -1010,76 +1010,76 @@ fig. 3); for the bird represented there perched on the building or
 sanctuary has before him a "t." The bird is to be read "B’," which with
 the "t" gives us the reading Bata.
 
-<span id="fn_892"></span>[360:1](rtae14.htm#fr_892) *Maximes d’Ani*, 6,
+<span id="fn_892"></span>[360:1](rtae14.htm#fr_892.md) *Maximes d’Ani*, 6,
 16.
 
-<span id="fn_893"></span>[360:2](rtae14.htm#fr_893) <span
+<span id="fn_893"></span>[360:2](rtae14.htm#fr_893.md) <span
 class="smallcaps">Brugsch</span>, *Reise nach der grossen Oase*, pl.
 xvii.
 
-<span id="fn_894"></span>[361:1](rtae14.htm#fr_894) *Ibid.*, pl. xv, ll.
+<span id="fn_894"></span>[361:1](rtae14.htm#fr_894.md) *Ibid.*, pl. xv, ll.
 5–6.
 
-<span id="fn_895"></span>[361:2](rtae14.htm#fr_895) *Ibid.*, pl. xvi,
+<span id="fn_895"></span>[361:2](rtae14.htm#fr_895.md) *Ibid.*, pl. xvi,
 ll. 38–39.
 
-<span id="fn_896"></span>[361:3](rtae14.htm#fr_896) *Ibid.*, pl. xv, ll.
+<span id="fn_896"></span>[361:3](rtae14.htm#fr_896.md) *Ibid.*, pl. xv, ll.
 14–16.
 
-<span id="fn_897"></span>[361:4](rtae14.htm#fr_897) *Ibid.*, pl. xv, ll.
+<span id="fn_897"></span>[361:4](rtae14.htm#fr_897.md) *Ibid.*, pl. xv, ll.
 2–3.
 
-<span id="fn_898"></span>[361:5](rtae14.htm#fr_898) Text has "he ceaseth
+<span id="fn_898"></span>[361:5](rtae14.htm#fr_898.md) Text has "he ceaseth
 not."
 
-<span id="fn_899"></span>[361:6](rtae14.htm#fr_899) *Ibid.*, pls.
+<span id="fn_899"></span>[361:6](rtae14.htm#fr_899.md) *Ibid.*, pls.
 xxv–xxvi, ll. 22–41. All the above texts from <span
 class="smallcaps">Brugsch's</span> Grosse Oase are from the temple of
 Hibeh in the oasis of el Khargeh, and date from the reign of Darius II,
 the last quarter of the fifth century B.C.
 
-<span id="fn_900"></span>[362:1](rtae14.htm#fr_900) *Maximes d’Ani*, 4,
+<span id="fn_900"></span>[362:1](rtae14.htm#fr_900.md) *Maximes d’Ani*, 4,
 2–4.
 
-<span id="fn_901"></span>[362:2](rtae14.htm#fr_901) *Ibid.*, 3, 14–4, 2.
+<span id="fn_901"></span>[362:2](rtae14.htm#fr_901.md) *Ibid.*, 3, 14–4, 2.
 
-<span id="fn_902"></span>[362:3](rtae14.htm#fr_902) *Ibid.*, 3, 4–6.
+<span id="fn_902"></span>[362:3](rtae14.htm#fr_902.md) *Ibid.*, 3, 4–6.
 
-<span id="fn_903"></span>[363:1](rtae14.htm#fr_903) BAR, II, 131–149.
+<span id="fn_903"></span>[363:1](rtae14.htm#fr_903.md) BAR, II, 131–149.
 
-<span id="fn_904"></span>[364:1](rtae14.htm#fr_904) <span
+<span id="fn_904"></span>[364:1](rtae14.htm#fr_904.md) <span
 class="smallcaps">Sethe</span>, *Zeitschr. für aegypt. Sprache*, 44, 30
 *ff*.
 
-<span id="fn_905"></span>[364:2](rtae14.htm#fr_905) For the most
+<span id="fn_905"></span>[364:2](rtae14.htm#fr_905.md) For the most
 important of such oracles as yet known, see BAR, IV, 650–8, 725–8, 795,
 etc.
 
-<span id="fn_906"></span>[365:1](rtae14.htm#fr_906) These and the
+<span id="fn_906"></span>[365:1](rtae14.htm#fr_906.md) These and the
 following remarks largely after the author's *History of Egypt*, pp. 570
 *ff*.
 
-<span id="fn_907"></span>[366:1](rtae14.htm#fr_907) No. 797. See my
+<span id="fn_907"></span>[366:1](rtae14.htm#fr_907.md) No. 797. See my
 essay in *Zeitschr. für aegypt. Sprache*, 39, Tafel I, II, and *infra*,
-pp. [41](rtae05.htm#page_41)–[47](rtae05.htm#page_47), especially [p.
-46](rtae05.htm#page_46), note.
+pp. [41](rtae05.htm#page_41)–[47](rtae05.htm#page_47.md), especially [p.
+46](rtae05.htm#page_46.md), note.
 
-<span id="fn_908"></span>[367:1](rtae14.htm#fr_908) Especially
+<span id="fn_908"></span>[367:1](rtae14.htm#fr_908.md) Especially
 Babylonian astrology, see <span class="smallcaps">Cumont's</span>
 brilliant book, *Astrology and Religion Among the Greeks and Romans*,
 New York, 1912, pp. 73–77, although the Egyptian origin of Ikhnaton's
 movement is too evident to make possible <span class="smallcaps">M.
 Cumont's</span> suggestion of influences from Asia in it.
 
-<span id="fn_909"></span>[368:1](rtae14.htm#fr_909) Perhaps we should
+<span id="fn_909"></span>[368:1](rtae14.htm#fr_909.md) Perhaps we should
 also add here the astrological elements which had invaded Egypt from
 Syria, and after being Egyptianized passed on to Rome. See <span
 class="smallcaps">Cumont</span>, *ibid.*, pp. 76–77.
 
-<span id="fn_910"></span>[370:1](rtae14.htm#fr_910) It is, however, a
+<span id="fn_910"></span>[370:1](rtae14.htm#fr_910.md) It is, however, a
 remarkable fact in this connection, that Agassiz never accepted
 evolution in the *organic* world.
 
 ------------------------------------------------------------------------
 
-[Next: Index](rtae15)
+[Next: Index](rtae15.md)

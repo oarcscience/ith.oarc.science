@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits079) [Next](bits080)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits079) [Next](bits080.md)
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ are now no nuns in Ceylon.
 
 ------------------------------------------------------------------------
 
-[Next: § 80. Conduct](bits080)
+[Next: § 80. Conduct](bits080.md)
 
  
 

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat16.htm#CXXVIIII) 
-[Previous](satl127)  [Next](satl129) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat16.htm#CXXVIIII.md) 
+[Previous](satl127)  [Next](satl129.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ lecto iacuit".
 
 ------------------------------------------------------------------------
 
-[Next: CXXIX](satl129)
+[Next: CXXIX](satl129.md)

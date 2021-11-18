@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale26)  [Next](tale28) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale26)  [Next](tale28.md) 
 
 ------------------------------------------------------------------------
 
@@ -966,4 +966,4 @@ night and the day.
 
   And of the stories they tell is one anent  
 
-(*Next*) [THE SLEEPER AND THE WAKER](tale28)  
+(*Next*) [THE SLEEPER AND THE WAKER](tale28.md)  

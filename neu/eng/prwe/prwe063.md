@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe062)  [Next](prwe064) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe062)  [Next](prwe064.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ people.
 
 ------------------------------------------------------------------------
 
-[Next: The Mermaid's Vengence](prwe064)
+[Next: The Mermaid's Vengence](prwe064.md)

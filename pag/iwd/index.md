@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Celtic](../../neu/celt/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Celtic](../../neu/celt/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](iwd00)    [Page
-Index](pageidx)    [Text \[Zipped\]](iwd.txt.gz)
+[Contents](#contents)    [Start Reading](iwd00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](iwd.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -50,15 +50,15 @@ were vulnerable to being accused of witchcraft.--J.B. Hare, Nov. 2002.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](iwd00)  
-[Contents](iwd01)  
-[Chapter I: Some Remarks On Witchcraft In Ireland](iwd02)  
+<span id="contents"></span> [Title Page](iwd00.md)  
+[Contents](iwd01.md)  
+[Chapter I: Some Remarks On Witchcraft In Ireland](iwd02.md)  
 [Chapter II: A.D. 1324: Dame Alice Kyteler, The Sorceress of
-Kilkenny](iwd03)  
-[Chapter III: A.D. 1223-1583](iwd04)  
-[Chapter IV: A.D. 1606-1656](iwd05)  
-[Chapter V: A.D. 1661](iwd06)  
-[Chapter VI. A.D. 1662-1686](iwd07)  
-[Chapter VII: A.D. 1688: An Irish-American Witch](iwd08)  
-[Chapter VIII: A.D. 1689-1720](iwd09)  
-[Chapter IX: A.D. 1807 to Present Day](iwd10)  
+Kilkenny](iwd03.md)  
+[Chapter III: A.D. 1223-1583](iwd04.md)  
+[Chapter IV: A.D. 1606-1656](iwd05.md)  
+[Chapter V: A.D. 1661](iwd06.md)  
+[Chapter VI. A.D. 1662-1686](iwd07.md)  
+[Chapter VII: A.D. 1688: An Irish-American Witch](iwd08.md)  
+[Chapter VIII: A.D. 1689-1720](iwd09.md)  
+[Chapter IX: A.D. 1807 to Present Day](iwd10.md)  

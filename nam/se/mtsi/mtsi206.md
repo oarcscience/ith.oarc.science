@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi205)  [Next](mtsi207) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi205)  [Next](mtsi207.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ it was full of corn.
 
 ------------------------------------------------------------------------
 
-[Next: 7. How the Water Was Lost and Recovered](mtsi207)
+[Next: 7. How the Water Was Lost and Recovered](mtsi207.md)

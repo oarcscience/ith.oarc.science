@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst039)  [Next](inst041) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst039)  [Next](inst041.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ wickedly rob God of his glory. Wherefore, we must conclude with Paul,
 “After that in the wisdom of God the world by wisdom knew not God, it
 pleased God by the foolishness of preaching to save them that believe,”
 (<span id="iv.ii.vii-p9.1"></span>[1 Cor.
-1:21](../../../bib/kjv/co1001.htm#021)<span
+1:21](../../../bib/kjv/co1001.htm#021.md)<span
 id="iv.ii.vii-p9.1"></span>). By the “wisdom of God,” he designates this
 magnificent theatre of heaven and earth replenished with numberless
 wonders, the wise contemplation of which should have enabled us to know
@@ -94,7 +94,7 @@ salvation. Christ speaks not of his own age merely, but embraces all
 ages, when he says “This is life eternal that they might know thee the
 only true God, and Jesus Christ, whom thou hast sent,” (<span
 id="iv.ii.vii-p9.2"></span>[John
-17:3](../../../bib/kjv/joh017.htm#003)<span
+17:3](../../../bib/kjv/joh017.htm#003.md)<span
 id="iv.ii.vii-p9.2"></span>). The more shameful therefore is the
 presumption of those who throw heaven open to the unbelieving and
 profane, in the absence of that grace which Scripture uniformly
@@ -107,7 +107,7 @@ pleasing to God until they are reconciled. To this we may add the answer
 which our Saviour gave to the Samaritan woman “Ye worship ye know not
 what; we know what we worship: for salvation is of the Jews,” (<span
 id="iv.ii.vii-p9.3"></span>[John
-4:22](../../../bib/kjv/joh004.htm#022)<span
+4:22](../../../bib/kjv/joh004.htm#022.md)<span
 id="iv.ii.vii-p9.3"></span>). By these words, he both charges every
 Gentile religion with falsehood, and assigns the reason—viz. that under
 the Law the Redeemer was promised to the chosen people only, and that,
@@ -116,12 +116,12 @@ not had to Christ. Hence also Paul affirms, that all the Gentiles were
 “without God,” and deprived of the hope of life. Now, since John teaches
 that there was life in Christ from the beginning, and that the whole
 world had lost it (<span id="iv.ii.vii-p9.4"></span>[John
-1:4](../../../bib/kjv/joh001.htm#004)<span id="iv.ii.vii-p9.4"></span>),
+1:4](../../../bib/kjv/joh001.htm#004)<span id="iv.ii.vii-p9.4"></span>.md),
 it is necessary to return to that fountain; And, accordingly, Christ
 declares that inasmuch as he is a propitiator, he is life. And, indeed,
 the inheritance of heaven belongs to none but the sons of God (<span
 id="iv.ii.vii-p9.5"></span>[John
-15:6](../../../bib/kjv/joh015.htm#006)<span
+15:6](../../../bib/kjv/joh015.htm#006.md)<span
 id="iv.ii.vii-p9.5"></span>). Now, it were most incongruous to give the
 place and rank of sons to any who have not been engrafted into the body
 of the only begotten Son. And John distinctly testifies that those
@@ -138,7 +138,7 @@ I maintain is that the prosperous and happy state of the Church was
 always founded in the person of Christ. For although God embraced the
 whole posterity of Abraham in his covenant, yet Paul properly argues
 (<span id="iv.ii.vii-p10.1"></span>[Gal.
-3:16](../../../bib/kjv/gal003.htm#016)<span
+3:16](../../../bib/kjv/gal003.htm#016.md)<span
 id="iv.ii.vii-p10.1"></span>), that Christ was truly the seed in which
 all the nations of the earth were to be blessed, since we know that all
 who were born of Abraham, according to the flesh, were not accounted the
@@ -160,39 +160,39 @@ anointed;” meaning by these words, that God would bless his Church. To
 this corresponds the prediction, which is afterwards added, “I will
 raise me up a faithful priest, and he shall walk before mine anointed
 for ever,” (<span id="iv.ii.vii-p10.2"></span>[1 Sam.
-2:10](../../../bib/kjv/sa1002.htm#010),
-[35](../../../bib/kjv/sa1002.htm#035)<span
+2:10](../../../bib/kjv/sa1002.htm#010.md),
+[35](../../../bib/kjv/sa1002.htm#035.md)<span
 id="iv.ii.vii-p10.2"></span>). And there can be no doubt that our
 heavenly Father intended that a living image of Christ should be seen in
 David and his posterity. Accordingly, exhorting the righteous to fear
 Him, he bids them “Kiss the Son,” (<span
 id="iv.ii.vii-p10.3"></span>[Psalm
-2:12](../../../bib/kjv/psa002.htm#012)<span
+2:12](../../../bib/kjv/psa002.htm#012.md)<span
 id="iv.ii.vii-p10.3"></span>). Corresponding to this is the passage in
 the Gospel, “He that honoureth not the Son, honoureth not the Father,”
 (<span id="iv.ii.vii-p10.4"></span>[John
-5:23](../../../bib/kjv/joh005.htm#023)<span
+5:23](../../../bib/kjv/joh005.htm#023.md)<span
 id="iv.ii.vii-p10.4"></span>). Therefore, though the kingdom was broken
 up by the revolt of the ten tribes, yet the covenant which God had made
 in David and his successors behaved to stand, as is also declared by his
 Prophets, “Howbeit I will not take the whole kingdom out of his hand:
 but I will make him prince all the days of his life for David my
 servant’s sake,” (<span id="iv.ii.vii-p10.5"></span>[1 Kings
-11:34](../../../bib/kjv/kg1011.htm#034)<span
+11:34](../../../bib/kjv/kg1011.htm#034.md)<span
 id="iv.ii.vii-p10.5"></span>). The same thing is repeated a second and
 third time. It is also expressly said, “I will for this afflict the seed
 of David, but not for ever,” (<span id="iv.ii.vii-p10.6"></span>[1 Kings
-11:39](../../../bib/kjv/kg1011.htm#039)<span
+11:39](../../../bib/kjv/kg1011.htm#039.md)<span
 id="iv.ii.vii-p10.6"></span>). Some time afterwards it was said,
 “Nevertheless, for David’s sake did the Lord his God give him a lamp in
 Jerusalem, to set up his son after him, and to establish Jerusalem,”
 (<span id="iv.ii.vii-p10.7"></span>[1 Kings
-15:4](../../../bib/kjv/kg1015.htm#004)<span
+15:4](../../../bib/kjv/kg1015.htm#004.md)<span
 id="iv.ii.vii-p10.7"></span>). And when matters were bordering on
 destruction, it was again said, “Yet the Lord would not destroy Judah
 for David his servant’s sake, as he had promised to give him alway a
 light, and to his children,” (<span id="iv.ii.vii-p10.8"></span>[2 Kings
-8:19](../../../bib/kjv/kg2008.htm#019)<span
+8:19](../../../bib/kjv/kg2008.htm#019.md)<span
 id="iv.ii.vii-p10.8"></span>).
 
 <span id="iv.ii.vii-p11"></span>The sum of the whole comes to
@@ -205,10 +205,10 @@ David also his servant, and took him from the sheep folds: from
 following the ewes great with young he brought him to feed Jacob his
 people, and Israel his inheritance,” (<span
 id="iv.ii.vii-p11.1"></span>[Ps.
-78:60](../../../bib/kjv/psa078.htm#060),
-[67](../../../bib/kjv/psa078.htm#067),
-[70](../../../bib/kjv/psa078.htm#070),
-[71](../../../bib/kjv/psa078.htm#071)<span
+78:60](../../../bib/kjv/psa078.htm#060.md),
+[67](../../../bib/kjv/psa078.htm#067.md),
+[70](../../../bib/kjv/psa078.htm#070.md),
+[71](../../../bib/kjv/psa078.htm#071.md)<span
 id="iv.ii.vii-p11.1"></span>). In fine, God, in thus preserving his
 Church, intended that its security and salvation should depend on Christ
 as its head. Accordingly, David exclaims, “The Lord is their strength,
@@ -217,21 +217,21 @@ people, and bless thine inheritance;” intimating, that the safety of the
 Church was indissolubly connected with the government of Christ. In the
 same sense he elsewhere says, “Save, Lord: let the king hear us when we
 call,” (<span id="iv.ii.vii-p11.2"></span>[Ps.
-20:9](../../../bib/kjv/psa020.htm#009)<span
+20:9](../../../bib/kjv/psa020.htm#009.md)<span
 id="iv.ii.vii-p11.2"></span>). These words plainly teach that believers,
 in applying for the help of God, had their sole confidence in this—that
 they were under the unseen government of the King. This may be inferred
 from another psalm, “Save now, I beseech thee O Lord: Blessed be he that
 cometh in the name of the Lord,” (<span id="iv.ii.vii-p11.3"></span>[Ps.
-118:25](../../../bib/kjv/psa118.htm#025),
-[26](../../../bib/kjv/psa118.htm#026)<span
+118:25](../../../bib/kjv/psa118.htm#025.md),
+[26](../../../bib/kjv/psa118.htm#026.md)<span
 id="iv.ii.vii-p11.3"></span>). Here it is obvious that believers are
 invited to Christ, in the assurance that they will be safe when entirely
 in his hand. To the same effect is another prayer, in which the whole
 Church implores the divine mercy “Let thy hand be upon the Man of thy
 right hand, upon the Son of man, whom thou madest strong (or best
 fitted) for thyself,” (<span id="iv.ii.vii-p11.4"></span>[Ps.
-80:17](../../../bib/kjv/psa080.htm#017)<span
+80:17](../../../bib/kjv/psa080.htm#017.md)<span
 id="iv.ii.vii-p11.4"></span>). For though the author of the psalm
 laments the dispersion of the whole nations he prays for its revival in
 him who is sole Head. After the people were led away into captivity, the
@@ -241,7 +241,7 @@ destruction of the kingdom the hope of believers was cut off; “The
 breath of our nostrils, the anointed of the Lord, was taken in their
 pits, of whom we said, Under his shadow we shall live among the
 heathen,” (<span id="iv.ii.vii-p11.5"></span>[Lam.
-4:20](../../../bib/kjv/lam004.htm#020)<span
+4:20](../../../bib/kjv/lam004.htm#020.md)<span
 id="iv.ii.vii-p11.5"></span>). From all this it is abundantly plain,
 that as the Lord cannot be propitious to the human race without a
 Mediator, Christ was always held forth to the holy Fathers under the Law
@@ -257,7 +257,7 @@ promise made to David, that his kingdom would be for ever. And there is
 nothing strange in this, since otherwise there would have been no
 stability in the covenant. To this purpose is the remarkable prophecy in
 <span id="iv.ii.vii-p12.1"></span>[Isaiah
-7:14](../../../bib/kjv/isa007.htm#014)<span
+7:14](../../../bib/kjv/isa007.htm#014.md)<span
 id="iv.ii.vii-p12.1"></span>. After seeing that the unbelieving king
 Ahab repudiated what he had testified regarding the deliverance of
 Jerusalem from siege and its immediate safety, he passes as it were
@@ -272,8 +272,8 @@ eternal salvation depended. Thus in Isaiah it is said, “I will make an
 everlasting covenant with you, even the sure mercies of David. Behold, I
 have given him for a witness to the people,” (<span
 id="iv.ii.vii-p12.2"></span>[Isa.
-55:3](../../../bib/kjv/isa055.htm#003),
-[4](../../../bib/kjv/isa055.htm#004)<span id="iv.ii.vii-p12.2"></span>);
+55:3](../../../bib/kjv/isa055.htm#003.md),
+[4](../../../bib/kjv/isa055.htm#004)<span id="iv.ii.vii-p12.2"></span>.md);
 intimating, that believers, in calamitous circumstances, could have no
 hope, had they not this testimony that God would be ready to hear them.
 In the same way, to revive their drooping spirits, Jeremiah says,
@@ -281,45 +281,45 @@ In the same way, to revive their drooping spirits, Jeremiah says,
 righteous Branch, and a King shall reign and prosper, and shall execute
 judgment and justice in the earth. In his days Judah shall be saved, and
 Israel shall dwell safely,” (<span id="iv.ii.vii-p12.3"></span>[Jer.
-23:5](../../../bib/kjv/jer023.htm#005),
-[6](../../../bib/kjv/jer023.htm#006)<span id="iv.ii.vii-p12.3"></span>).
+23:5](../../../bib/kjv/jer023.htm#005.md),
+[6](../../../bib/kjv/jer023.htm#006)<span id="iv.ii.vii-p12.3"></span>.md).
 In Ezekiel also it is said, “I will set up one Shepherd over them, and
 he shall feed them, even my servant David; he shall feed them, and he
 shall be their shepherd. And I the Lord will be their God, and my
 servant David a prince among them: I the Lord have spoken it. And I will
 make with them a covenant of peace,” (<span
 id="iv.ii.vii-p12.4"></span>[Ezek.
-34:23](../../../bib/kjv/eze034.htm#023),
-[24](../../../bib/kjv/eze034.htm#024),
-[25](../../../bib/kjv/eze034.htm#025)<span
+34:23](../../../bib/kjv/eze034.htm#023.md),
+[24](../../../bib/kjv/eze034.htm#024.md),
+[25](../../../bib/kjv/eze034.htm#025.md)<span
 id="iv.ii.vii-p12.4"></span>). And again, after discoursing of this
 wondrous renovation, he says, “David my servant shall be king over them:
 and they all shall have one shepherd.” “Moreover, I will make a covenant
 of peace with them; it shall be an everlasting covenant with them,”
 (<span id="iv.ii.vii-p12.5"></span>[Ezek.
-37:24-26](../../../bib/kjv/eze037.htm#024)<span
+37:24-26](../../../bib/kjv/eze037.htm#024.md)<span
 id="iv.ii.vii-p12.5"></span>). I select a few passages out of many,
 because I merely wish to impress my readers with the fact, that the hope
 of believers was ever treasured up in Christ alone. All the other
 prophets concur in this. Thus Hosea, “Then shall the children of Judah
 and the children of Israel be gathered together, and appoint themselves
 one head,” (<span id="iv.ii.vii-p12.6"></span>[Hosea
-1:11](../../../bib/kjv/hos001.htm#011)<span
+1:11](../../../bib/kjv/hos001.htm#011.md)<span
 id="iv.ii.vii-p12.6"></span>). This he afterwards explains in clearer
 terms, “Afterward shall the children of Israel return, and seek the Lord
 their God, and David their king,” (<span
 id="iv.ii.vii-p12.7"></span>[Hosea
-3:5](../../../bib/kjv/hos003.htm#005)<span
+3:5](../../../bib/kjv/hos003.htm#005.md)<span
 id="iv.ii.vii-p12.7"></span>). Micas, also speaking of the return of the
 people, says expressly, “Their king shall pass before them, and the Lord
 on the head of them,” (<span id="iv.ii.vii-p12.8"></span>[Micah
-2:13](../../../bib/kjv/mic002.htm#013)<span
+2:13](../../../bib/kjv/mic002.htm#013.md)<span
 id="iv.ii.vii-p12.8"></span>). So Amos, in predicting the renovation of
 the people, says “In that day will I raise up the tabernacle of David
 that is fallen, and close up the breaches thereof; and I will raise up
 the ruins, and I will build it as in the days of old,” (<span
 id="iv.ii.vii-p12.9"></span>[Amos
-9:11](../../../bib/kjv/amo009.htm#011)<span
+9:11](../../../bib/kjv/amo009.htm#011.md)<span
 id="iv.ii.vii-p12.9"></span>); in other words, the only banner of
 salvation was, the exaltation of the family of David to regal splendour,
 as fulfilled in Christ. Hence, too, Zechariah, as nearer in time to the
@@ -327,7 +327,7 @@ manifestation of Christ, speaks more plainly, “Rejoice greatly, O
 daughter of Zion; shout, O daughter of Jerusalem: behold, thy King
 cometh unto thee: he is just, and having salvation,” (<span
 id="iv.ii.vii-p12.10"></span>[Zech.
-9:9](../../../bib/kjv/zac009.htm#009)<span
+9:9](../../../bib/kjv/zac009.htm#009.md)<span
 id="iv.ii.vii-p12.10"></span>). This corresponds to the passage already
 quoted from the Psalms, “The Lord is their strength, and he is the
 saving health of their anointed.” Here salvation is extended from the
@@ -343,7 +343,7 @@ way only the free covenant by which God had adopted his chosen people
 would be fulfilled. Hence it was, that on our Saviour’s entry into
 Jerusalem, shortly before his death, the children shouted, “Hosannah to
 the son of David,” (<span id="iv.ii.vii-p13.1"></span>[Mt.
-21:9](../../../bib/kjv/mat021.htm#009)<span
+21:9](../../../bib/kjv/mat021.htm#009.md)<span
 id="iv.ii.vii-p13.1"></span>). For there seems to have been a hymn known
 to all, and in general use, in which they sung that the only remaining
 pledge which they had of the divine mercy was the promised advent of a
@@ -351,7 +351,7 @@ Redeemer. For this reason, Christ tells his disciples to believe in him,
 in order that they might have a distinct and complete belief in God, “Ye
 believe in God, believe also in me,” (<span
 id="iv.ii.vii-p13.2"></span>[John
-14:1](../../../bib/kjv/joh014.htm#001)<span
+14:1](../../../bib/kjv/joh014.htm#001.md)<span
 id="iv.ii.vii-p13.2"></span>). For although, properly speaking, faith
 rises from Christ to the Father, he intimates, that even when it leans
 on God, it gradually vanishes away, unless he himself interpose to give
@@ -360,7 +360,7 @@ mortals, who creep like worms on the earth. Therefore, the common saying
 that God is the object of faith (Lactantius, lib. 4 c. 16), requires to
 be received with some modification. When Christ is called the image of
 the invisible God (<span id="iv.ii.vii-p13.3"></span>[Col.
-1:15](../../../bib/kjv/col001.htm#015)<span
+1:15](../../../bib/kjv/col001.htm#015.md)<span
 id="iv.ii.vii-p13.3"></span>), the expression is not used without cause,
 but is designed to remind us that we can have no knowledge of our
 salvation, until we behold God in Christ. For although the Jewish
@@ -371,7 +371,7 @@ desperate circumstances, no other mode of delivering the Church than the
 manifestation of the Mediator. It is true, that the fact adverted to by
 Paul was not so generally known as it ought to have been—viz. that
 Christ is the end of the Law (<span id="iv.ii.vii-p13.4"></span>[Rom.
-10:4](../../../bib/kjv/rom010.htm#004)<span
+10:4](../../../bib/kjv/rom010.htm#004.md)<span
 id="iv.ii.vii-p13.4"></span>), though this is both true, and clearly
 appears both from the Law and the Prophets. I am not now, however,
 treating of faith, as we shall elsewhere have a fitter place (Book 3
@@ -387,12 +387,12 @@ bounded in the Son, because he has accommodated himself to our capacity,
 lest our minds should be swallowed up by the immensity of his glory
 (Irenaeus, lib. 4 cap. 8). Fanatics, not attending to this, distort a
 useful sentiment into an impious dream,18  <span
-id="fr_180"></span>[181](#fn_180) as if Christ had only a share of the
+id="fr_180"></span>[181](#fn_180.md) as if Christ had only a share of the
 Godhead, as a part taken from a whole; whereas the meaning merely is,
 that God is comprehended in Christ alone. The saying of John was always
 true, “whosoever denieth the Son, the same has not the Father,” (<span
 id="iv.ii.vii-p14.1"></span>[1 John
-2:23](../../../bib/kjv/jo1002.htm#023)<span
+2:23](../../../bib/kjv/jo1002.htm#023.md)<span
 id="iv.ii.vii-p14.1"></span>). For though in old time there were many
 who boasted that they worshipped the Supreme Deity, the Maker of heaven
 and earth, yet as they had no Mediator, it was impossible for them truly
@@ -408,7 +408,7 @@ substitute an idol in his place.
 
 ### Footnotes
 
-<span id="fn_180"></span>[181](inst040.htm#fr_180) <span
+<span id="fn_180"></span>[181](inst040.htm#fr_180.md) <span
 id="iv.ii.vii-p13.5"></span>
 
 <span id="iv.ii.vii-p14"></span>87 187 French, “reverie infernale.”
@@ -417,4 +417,4 @@ id="iv.ii.vii-p13.5"></span>
 
 [Next: CHAPTER 7. - THE LAW GIVEN, NOT TO RETAIN A PEOPLE FOR ITSELF,
 BUT TO KEEP ALIVE THE HOPE OF SALVATION IN CHRIST UNTIL HIS
-ADVENT.](inst041)
+ADVENT.](inst041.md)

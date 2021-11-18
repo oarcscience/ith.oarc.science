@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah71)  [Next](oah73) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah71)  [Next](oah73.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,4 +145,4 @@ received under a rod of water, according to his rank.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI](oah73)
+[Next: Chapter XVI](oah73.md)

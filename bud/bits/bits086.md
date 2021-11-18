@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits085) [Next](bits087)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits085) [Next](bits087.md)
 
 ------------------------------------------------------------------------
 
@@ -120,7 +120,7 @@ admonished, begin to act accordingly."
 
 ------------------------------------------------------------------------
 
-[Next: § 87. The Value of Training in Religion](bits087)
+[Next: § 87. The Value of Training in Religion](bits087.md)
 
  
 

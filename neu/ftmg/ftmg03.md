@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ftmg02)  [Next](ftmg04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ftmg02)  [Next](ftmg04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fairy Tales of Modern Greece*, by Theodore P. Gianakoulis and Georgia
 H. MacPherson, \[1930\], at Intangible Textual Heritage
 
@@ -113,7 +113,7 @@ creatures that are a part of nature.
 
 One can see most clearly the mingling of Christianity and paganism in
 the *felahtare*. Grandmother Adamis’ bag, described in "The Fairies’
-Theft," page [89](ftmg11.htm#page_89), "contained incense from Mount
+Theft," page [89](ftmg11.htm#page_89.md), "contained incense from Mount
 Levanos, a bit of candle that had burned on Easter before the portrait
 of the Virgin, a leaf from a hundred-petaled rose and an amethyst stone.
 The bag had been hung about her neck by her godfather on the day of her
@@ -224,4 +224,4 @@ T. P. G.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Fairy Hunter](ftmg04)
+[Next: I. The Fairy Hunter](ftmg04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal077)  [Next](njal079) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal077)  [Next](njal079.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ own award from Mord.
 
 ------------------------------------------------------------------------
 
-[Next: 79. Hogni Takes An Atonement For Gunnar's Death](njal079)
+[Next: 79. Hogni Takes An Atonement For Gunnar's Death](njal079.md)

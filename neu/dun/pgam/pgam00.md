@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Next](pgam01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Next](pgam01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SZSM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SZSM/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Plays of Gods and Men*, by Lord Dunsany, \[1917\], at Intangible
 Textual Heritage
 
@@ -32,6 +32,6 @@ London: Unwin
 
 ------------------------------------------------------------------------
 
-[Next: Preface](pgam01)
+[Next: Preface](pgam01.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml52)  [Next](yml54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml52)  [Next](yml54.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ the southwest (Beals 1933: 79; Parsons 1939, Vol. 2: 1003).
 
 ------------------------------------------------------------------------
 
-[Next: Topol the Clever](yml54)
+[Next: Topol the Clever](yml54.md)

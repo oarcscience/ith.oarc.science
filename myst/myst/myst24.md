@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst23)  [Next](myst25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst23)  [Next](myst25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -194,7 +194,7 @@ Songs. Translated by S. J. Eales, M.A. London, 1895.
 
 <span id="an_vi-p39"></span>Sermons on the <span
 id="an_vi-p39.1"></span>[Canticles.
-2](../../bib/kjv/sol002.htm#000)<span id="an_vi-p39.1"></span> vols.
+2](../../bib/kjv/sol002.htm#000.md)<span id="an_vi-p39.1"></span> vols.
 Dublin, 1920.
 
 <span id="an_vi-p40"></span>St. Bernard on the Love of God. Translated
@@ -3409,6 +3409,6 @@ id="an_vi-Page_505_1"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Bibliographical Note](myst25)
+[Next: Bibliographical Note](myst25.md)
 
 </div>

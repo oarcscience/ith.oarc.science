@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](tbc10)  [Next](tbc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](tbc10)  [Next](tbc12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddhist Catechism*, by Henry S. Olcott \[1908\], at Intangible
 Textual Heritage
 
@@ -347,7 +347,7 @@ the Western mind?*
 A. Those of Karma and Re-incarnation. The rapidity of their acceptance
 is very surprising.
 
-324\. Q. *What is [believed](errata.htm#3) to be the explanation of
+324\. Q. *What is [believed](errata.htm#3.md) to be the explanation of
 this?*
 
 A. Because of their appeals to the natural instinct of justice, and
@@ -357,12 +357,12 @@ their evident reasonableness.
 
 ### Footnotes
 
-<span id="fn_24"></span>[93:\*](#fr_-1) See Appendix.
+<span id="fn_24"></span>[93:\*](#fr_-1.md) See Appendix.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Part V. Buddhism and Science](tbc12)
+[Next: Part V. Buddhism and Science](tbc12.md)
 
 </div>

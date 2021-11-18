@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal032)  [Next](njal034) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal032)  [Next](njal034.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ about the district to bid men to his wedding.
 
 ------------------------------------------------------------------------
 
-[Next: 34. Of Thrain Sigfus' Son](njal034)
+[Next: 34. Of Thrain Sigfus' Son](njal034.md)

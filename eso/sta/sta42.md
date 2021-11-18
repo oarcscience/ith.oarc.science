@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta41)  [Next](sta43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta41)  [Next](sta43.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ they rendered unintelligible the true nature of the writings, their very
 presence disclosed the fact of concealed information--which the priests
 also sought to conceal. Through patience or persecution, the keys to
 these alphabets were eventually acquired and the contents of the
-documents revealed to the unworthy. This [necessitated](errata.htm#13)
+documents revealed to the unworthy. This [necessitated](errata.htm#13.md)
 employment of more subtle methods for concealing the divine truths. The
 result was the appearance of cryptic systems of writing designed to
 conceal the presence of both the message and the cryptogram. Having thus
@@ -101,7 +101,7 @@ Society, Dr. William Romaine Newbold,
 <span id="img_16900"></span>
 
 [![A FAMOUS CRYPTIC TITLE PAGE.](tn/16900.jpg)  
-Click to enlarge](img/16900.jpg)  
+Click to enlarge](img/16900.jpg.md)  
 A FAMOUS CRYPTIC TITLE PAGE.  
 
 From Selenus' *Cryptomenytices et Cryptographiæ*.
@@ -257,7 +257,7 @@ the A of the inner alphabet
 <span id="img_17000"></span>
 
 [![AN EXAMPLE OF BILITERAL WRITING.](tn/17000.jpg)  
-Click to enlarge](img/17000.jpg)  
+Click to enlarge](img/17000.jpg.md)  
 AN EXAMPLE OF BILITERAL WRITING.  
 
 In the above sentence note carefully the formation of the letters.
@@ -279,7 +279,7 @@ employed in writing the sentence.
 <span id="img_17001"></span>
 
 [![THE KEY TO THE BILITERAL CIPHER.](tn/17001.jpg)  
-Click to enlarge](img/17001.jpg)  
+Click to enlarge](img/17001.jpg.md)  
 THE KEY TO THE BILITERAL CIPHER.  
 
 From Bacon's *De Augmentis Scientiarum*.
@@ -291,7 +291,7 @@ message read with the aid of the above table.
 <span id="img_17002"></span>
 
 [![A MODERN WHEEL, OR DISC, CIPHER.](tn/17002.jpg)  
-Click to enlarge](img/17002.jpg)  
+Click to enlarge](img/17002.jpg.md)  
 A MODERN WHEEL, OR DISC, CIPHER.  
 
 The above diagram shows a wheel cipher. The smaller, or inner, alphabet
@@ -303,7 +303,7 @@ alphabets read the same way.
 <span id="img_17003"></span>
 
 [![THE BILITERAL ALPHABET.](tn/17003.jpg)  
-Click to enlarge](img/17003.jpg)  
+Click to enlarge](img/17003.jpg.md)  
 THE BILITERAL ALPHABET.  
 
 From Bacon's *De Augmentis Scientiarum*.
@@ -433,7 +433,7 @@ but the uninitiated many worship the letters of it as gods.
 <span id="img_17100"></span>
 
 [![AN ALCHEMICAL CRYPTOGRAM.](tn/17100.jpg)  
-Click to enlarge](img/17100.jpg)  
+Click to enlarge](img/17100.jpg.md)  
 AN ALCHEMICAL CRYPTOGRAM.  
 
 From Brown's H*istory of Chemistry*.
@@ -449,7 +449,7 @@ is: "Fixed sulphur is gold."
 <span id="img_17101"></span>
 
 [![AN ALCHEMICAL CRYPTOGRAM.](tn/17101.jpg)  
-Click to enlarge](img/17101.jpg)  
+Click to enlarge](img/17101.jpg.md)  
 AN ALCHEMICAL CRYPTOGRAM.  
 
 From *Geheime Figuren der Rosenkreuzer*.
@@ -465,7 +465,7 @@ and words.
 <span id="img_17102"></span>
 
 [![A CRYPTIC DEPICTION OF DIVINE AND NATURAL JUSTICE.](tn/17102.jpg)  
-Click to enlarge](img/17102.jpg)  
+Click to enlarge](img/17102.jpg.md)  
 A CRYPTIC DEPICTION OF DIVINE AND NATURAL JUSTICE.  
 
 From Selenus' *Cryptomenytices et Cryptographiæ*.
@@ -649,7 +649,7 @@ to cryptography as a means of stimulating these powers.
 <span id="img_17200"></span>
 
 [![QABBALISTIC AND MAGIC ALPHABETS.](tn/17200.jpg)  
-Click to enlarge](img/17200.jpg)  
+Click to enlarge](img/17200.jpg.md)  
 QABBALISTIC AND MAGIC ALPHABETS.  
 
 From Barrett's *Magus*.
@@ -667,4 +667,4 @@ its Hebrew letter equivalent.
 
 ------------------------------------------------------------------------
 
-[Next: Freemasonic Symbolism](sta43)
+[Next: Freemasonic Symbolism](sta43.md)

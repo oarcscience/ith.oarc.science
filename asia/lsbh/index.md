@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
 
 </div>
 
@@ -24,8 +24,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](lsbh00)    [Page
-Index](pageidx)    [Text \[Zipped\]](lsbh.txt.gz)
+[Contents](#contents)    [Start Reading](lsbh00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](lsbh.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -56,45 +56,45 @@ decisions as to the location of the modern quotes. --J.B. Hare, October
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](lsbh00)  
-[Contents](lsbh01)  
-[Preface](lsbh02)  
-[Introduction](lsbh03)  
-[Introduction](lsbh04)  
-[List of the Chapters](lsbh05)  
+<span id="contents"></span> [Title Page](lsbh00.md)  
+[Contents](lsbh01.md)  
+[Preface](lsbh02.md)  
+[Introduction](lsbh03.md)  
+[Introduction](lsbh04.md)  
+[List of the Chapters](lsbh05.md)  
 [The First Chapter: Profitable Sayings of the Greek
-Philosophers](lsbh06)  
-[The Second Chapter: Profitable Sayings of the Persian Sages](lsbh07)  
-[The Third Chapter: Profitable Sayings of the Indian Sages](lsbh08)  
-[The Fourth Chapter: Profitable Sayings of the Hebrew Sages](lsbh09)  
+Philosophers](lsbh06.md)  
+[The Second Chapter: Profitable Sayings of the Persian Sages](lsbh07.md)  
+[The Third Chapter: Profitable Sayings of the Indian Sages](lsbh08.md)  
+[The Fourth Chapter: Profitable Sayings of the Hebrew Sages](lsbh09.md)  
 [The Fifth Chapter: Profitable Sayings of the Christian
-Recluses](lsbh10)  
+Recluses](lsbh10.md)  
 [The Sixth Chapter: Profitable Sayings of Muhammedan Kings and of Their
-Sages](lsbh11)  
+Sages](lsbh11.md)  
 [The Seventh Chapter: Profitable Stories Of Teachers And Learned
-Men](lsbh12)  
+Men](lsbh12.md)  
 [The Eighth Chapter: Profitable Sayings of the Arab Ascetics and Old
-Men](lsbh13)  
+Men](lsbh13.md)  
 [The Ninth Chapter: Profitable Sayings of Physicians and Legends
-Attributed to Them](lsbh14)  
+Attributed to Them](lsbh14.md)  
 [The Tenth Chapter: Choice Stories of the Speech of Irrational
-Beasts](lsbh15)  
+Beasts](lsbh15.md)  
 [The Eleventh Chapter: Stories of Those Whose Dreams and Divinations
-Have Come True](lsbh16)  
+Have Come True](lsbh16.md)  
 [The Twelfth Chapter: Stories About Wealthy and Liberal and Generous
-Men](lsbh17)  
-[The Thirteenth Chapter: Stories of Misers](lsbh18)  
+Men](lsbh17.md)  
+[The Thirteenth Chapter: Stories of Misers](lsbh18.md)  
 [The Fourteenth Chapter: Stories of Men Who Followed Despised
-Handicrafts](lsbh19)  
+Handicrafts](lsbh19.md)  
 [The Fifteenth Chapter: Laughable Stories of Actors and
-Comedians](lsbh20)  
-[The Sixteenth Chapter: Stories of Clowns and Simpletons](lsbh21)  
+Comedians](lsbh20.md)  
+[The Sixteenth Chapter: Stories of Clowns and Simpletons](lsbh21.md)  
 [The Seventeenth Chapter: Stories of Lunatics and of Men Possessed of
-Devils](lsbh22)  
-[The Eighteenth Chapter: Stories of Thieves and of Robbers](lsbh23)  
+Devils](lsbh22.md)  
+[The Eighteenth Chapter: Stories of Thieves and of Robbers](lsbh23.md)  
 [The Nineteenth Chapter: Stories of Wonderful Events and
-Occurrences](lsbh24)  
+Occurrences](lsbh24.md)  
 [The Twentieth Chapter: Physiognomical Characteristics Described by the
-Sages](lsbh25)  
-[Additional Verses](lsbh26)  
-[Index](lsbh27)  
+Sages](lsbh25.md)  
+[Additional Verses](lsbh26.md)  
+[Index](lsbh27.md)  

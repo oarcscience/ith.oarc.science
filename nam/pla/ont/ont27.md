@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont26)  [Next](ont28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont26)  [Next](ont28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -51,7 +51,7 @@ But Kionama doubted
 
 <span id="img_32600"></span> <span align="CENTER"> [![TWO MEDICINE LAKE
 (Mount Rising Wolf in the distance.).](tn/32600.jpg)  
-Click to enlarge](img/32600.jpg)  
+Click to enlarge](img/32600.jpg.md)  
 TWO MEDICINE LAKE (Mount Rising Wolf in the distance.).  
 </span>
 
@@ -66,7 +66,7 @@ had
 
 <span id="img_32700"></span> <span align="CENTER"> [![LODGES OF KATOYA
 AND HER SON.](tn/32700.jpg)  
-Click to enlarge](img/32700.jpg)  
+Click to enlarge](img/32700.jpg.md)  
 LODGES OF KATOYA AND HER SON.  
 </span>
 
@@ -121,7 +121,7 @@ In the evening Kionama and I went to pay our
 
 <span id="img_32900"></span> <span align="CENTER"> [![OUR CAMP NEAR THE
 HUDSON'S BAY DIVIDE.](tn/32900.jpg)  
-Click to enlarge](img/32900.jpg)  
+Click to enlarge](img/32900.jpg.md)  
 OUR CAMP NEAR THE HUDSON'S BAY DIVIDE.  
 </span>
 
@@ -283,4 +283,4 @@ to visit their daughter who had married among the South Piegans.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV. Spotted Eagle's Mythical Stories of Old Man](ont28)
+[Next: Chapter XXV. Spotted Eagle's Mythical Stories of Old Man](ont28.md)

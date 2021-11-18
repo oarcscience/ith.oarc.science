@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt34)  [Next](crt36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt34)  [Next](crt36.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_28000"></span>
 
 [![Sir Percival & Sir Lamorack ride together](tn/28000.jpg)  
-Click to enlarge](img/28000.jpg)  
+Click to enlarge](img/28000.jpg.md)  
 Sir Percival & Sir Lamorack ride together  
 
 <span id="page_281">p. 281</span>
@@ -444,4 +444,4 @@ after Sir Launcelot had thus taught Min at Joyous Gard.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Third](crt36)
+[Next: Chapter Third](crt36.md)

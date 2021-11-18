@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot11) 
-[Next](sot13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot11.md) 
+[Next](sot13.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ Light".
 
 ------------------------------------------------------------------------
 
-[Next: Card XVII. The Star](sot13)
+[Next: Card XVII. The Star](sot13.md)

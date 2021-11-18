@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf13)  [Next](taf15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf13)  [Next](taf15.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ may fairly assume, there is a great probability in the statement that
 during the first four centuries after the Nirvâna there was already a
 variety of free interpretations about the teaching of the Master, which,
 commingled with the other religio-philosophical thoughts in India,
-eventually made a full development under the [general](errata.htm#6)
+eventually made a full development under the [general](errata.htm#6.md)
 names of the Mahâyâna and the Hînayâna schools.
 
 A supplementary point to be noticed in Açvaghosha is the abundance of
@@ -117,4 +117,4 @@ translation of the entire text.
 
 ------------------------------------------------------------------------
 
-[Next: Adoration](taf15)
+[Next: Adoration](taf15.md)

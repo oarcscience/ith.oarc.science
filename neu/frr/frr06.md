@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr05) 
-[Next](frr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr05.md) 
+[Next](frr07.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,7 +86,7 @@ hast marked out the channels of the all-delighting rivers.'
 'Indra has filled the rivers, he has inundated the dry land.'
 
 'Indra has released the imprisoned waters to flow upon the earth <span
-id="fr_23"></span>[1](#fn_23).'
+id="fr_23"></span>[1](#fn_23.md).'
 
 It would be easy to fill pages with similar quotations, but these are
 sufficient for our purpose.
@@ -99,7 +99,7 @@ remains of a distinct type of early Indian literature, where verses
 forming the central, and illuminating, point of a formal ceremonial
 recital had been 'farced' with illustrative and explanatory prose
 passages; the form of the verses being fixed, that of the prose being
-varied at the will of the reciter <span id="fr_24"></span>[2](#fn_24).
+varied at the will of the reciter <span id="fr_24"></span>[2](#fn_24.md).
 
 This theory, which is technically known as the 'Âkhyâna' theory (as it
 derived its starting point from the discussion of the
@@ -113,16 +113,16 @@ beginning of the
 \[paragraph continues\] Indian Drama; and that the fragments could only
 be satisfactorily interpreted from the point of view that they were
 intended to be spoken, not by a solitary reciter, but by two or more
-*dramatis personae* <span id="fr_25"></span>[1](#fn_25).
+*dramatis personae* <span id="fr_25"></span>[1](#fn_25.md).
 
 J. Hertel (*Der Ursprung des Indischen Dramas und Epos*) went still
 further, and while accepting, and demonstrating, the justice of this
 interpretation of the 'Dialogue' poems, suggested a similar origin for
 certain 'Monologues' found in the same collection <span
-id="fr_26"></span>[2](#fn_26).
+id="fr_26"></span>[2](#fn_26.md).
 
 Professor Leopold von Schroeder, in his extremely interesting volume,
-*Mysterium und Mimus im Rig-Veda* <span id="fr_27"></span>[3](#fn_27),
+*Mysterium und Mimus im Rig-Veda* <span id="fr_27"></span>[3](#fn_27.md),
 has given a popular and practical form to the results of these
 researches, by translating and publishing, with an explanatory study, a
 selection of these early 'Culture' Dramas, explaining the speeches, and
@@ -162,14 +162,14 @@ worshippers praise Indra for his beneficent action, here Indra himself,
 "Ich schlug den V<u>r</u>itra mit der Kraft des Indra!  
 Durch eignen Grimm war ich so stark geworden!  
 Ich machte für die Menschen frei die Wasser <span
-id="fr_28"></span>[1](#fn_28)."
+id="fr_28"></span>[1](#fn_28.md)."
 
 \[paragraph continues\] And the impersonated rivers speak for
 themselves.
 
 "Indra, den Blitz im Arm, brach uns die Bahnen,  
 Er schlug den V<u>r</u>itra, die Ströme einschloss <span
-id="fr_29"></span>[2](#fn_29)."
+id="fr_29"></span>[2](#fn_29.md)."
 
 \[paragraph continues\] There is no need to insist further on the point
 that the task of the Grail hero is in this special respect no mere
@@ -182,7 +182,7 @@ us a further, and more curious, parallel with the Grail romances.
 In Section VIII. of the work referred to the author discusses the story
 of <u>R</u>ishyaç<u>r</u>iñga, as the *Mahâbhârata* names the hero; here
 we find a young Brahmin brought up by his father, Vibhâ<u>nd</u>aka, in
-a lonely forest hermitage <span id="fr_30"></span>[3](#fn_30) absolutely
+a lonely forest hermitage <span id="fr_30"></span>[3](#fn_30.md) absolutely
 
 <span id="page_28">p. 28</span>
 
@@ -228,7 +228,7 @@ the *rôle* of temptress.
 There is no doubt that a ceremonial 'marriage' very frequently formed a
 part of the 'Fertility' ritual, and was supposed to be specially
 efficacious in bringing about the effect desired <span
-id="fr_31"></span>[1](#fn_31). The practice subsists in Indian ritual to
+id="fr_31"></span>[1](#fn_31.md). The practice subsists in Indian ritual to
 this hour, and the surviving traces in European Folk-custom have been
 noted in full by Mannhardt in his exhaustive work on *Wald und
 Feld-Kulte*; its existence in Classic times is well known, and it is
@@ -236,7 +236,7 @@ certainly one of the living Folk-customs for which a well-attested chain
 of descent can be cited. Professor von Schroeder remarks that the
 efficacy of the rite appears to be enhanced by the previous strict
 observance of the rule of chastity by the officiant <span
-id="fr_32"></span>[2](#fn_32).
+id="fr_32"></span>[2](#fn_32.md).
 
 What, however, is of more immediate interest for our purpose is the fact
 that the <u>R</u>ishyaç<u>r</u>iñga story does, in effect, possess
@@ -246,7 +246,7 @@ Thus, the lonely upbringing of the youth in a forest, far from the
 haunts of men, his absolute ignorance of the existence of human beings
 other than his parent and himself, present a close parallel to the
 accounts of Perceval's youth and woodland life, as related in the Grail
-romances <span id="fr_33"></span>[3](#fn_33).
+romances <span id="fr_33"></span>[3](#fn_33.md).
 
 In Gerbert's continuation we are told that the marriage of the hero is
 an indispensable condition of achieving the Quest, a detail which must
@@ -262,14 +262,14 @@ descendant--a tissue of contradictions which can only be explained by
 the *mal-à-droit* blending of two versions, one of which knew the hero
 as wedded, the other, as celibate. There can be no doubt that the
 original *Perceval* story included the marriage of the hero <span
-id="fr_34"></span>[1](#fn_34).
+id="fr_34"></span>[1](#fn_34.md).
 
 The circumstances under which <u>R</u>ishyaç<u>r</u>iñga is lured from
 his Hermitage are curiously paralleled by the account, found in the
 *Queste* and Manessier, of Perceval's temptation by a fiend, in the form
 of a fair maiden, who comes to him by water in a vessel hung with black
 silk, and with great riches on board <span
-id="fr_35"></span>[2](#fn_35).
+id="fr_35"></span>[2](#fn_35.md).
 
 In pointing out these parallels I wish to make my position perfectly
 clear; I do not claim that either in the *Rig-Veda*, or in any other
@@ -302,45 +302,45 @@ striking and suggestive.
 
 ### Footnotes
 
-<span id="fn_23"></span>[25:1](frr06.htm#fr_23) Cf. *Rig-Veda Sanhita*,
+<span id="fn_23"></span>[25:1](frr06.htm#fr_23.md) Cf. *Rig-Veda Sanhita*,
 trans. H. H. Wilson, 6 vols. 1854-1888. Vol. I. p. 88, v. 12. 172, v. 8
 206, v. 10 Vol. III. p. 157, vv. 2, 5, 7, 8.
 
-<span id="fn_24"></span>[25:2](frr06.htm#fr_24) *Zeitschrift der
+<span id="fn_24"></span>[25:2](frr06.htm#fr_24.md) *Zeitschrift der
 Deutschen Morgenlandischen Geschichte*, Vols. XXXVII. and XXXIX.
 
-<span id="fn_25"></span>[26:1](frr06.htm#fr_25) Cf. *Le Théâtre Indien*,
+<span id="fn_25"></span>[26:1](frr06.htm#fr_25.md) Cf. *Le Théâtre Indien*,
 Paris, 1890.
 
-<span id="fn_26"></span>[26:2](frr06.htm#fr_26) Cf. *Wiener Zeitsch, für
+<span id="fn_26"></span>[26:2](frr06.htm#fr_26.md) Cf. *Wiener Zeitsch, für
 die Kunde des Morgenlandes*, Vol. XVIII. 1904.
 
-<span id="fn_27"></span>[26:3](frr06.htm#fr_27) Leipzig, 1908.
+<span id="fn_27"></span>[26:3](frr06.htm#fr_27.md) Leipzig, 1908.
 
-<span id="fn_28"></span>[27:1](frr06.htm#fr_28) *Op. cit.* p. 105.
+<span id="fn_28"></span>[27:1](frr06.htm#fr_28.md) *Op. cit.* p. 105.
 
-<span id="fn_29"></span>[27:2](frr06.htm#fr_29) *Ib*. p. 230.
+<span id="fn_29"></span>[27:2](frr06.htm#fr_29.md) *Ib*. p. 230.
 
-<span id="fn_30"></span>[27:3](frr06.htm#fr_30) *Ib*. p. 292, for
+<span id="fn_30"></span>[27:3](frr06.htm#fr_30.md) *Ib*. p. 292, for
 sources, and variants of tale.
 
-<span id="fn_31"></span>[29:1](frr06.htm#fr_31) On this point cf.
+<span id="fn_31"></span>[29:1](frr06.htm#fr_31.md) On this point cf.
 Cornford, *Origin of Attic Comedy*, pp. 8, 78, for importance of this
 feature.
 
-<span id="fn_32"></span>[29:2](frr06.htm#fr_32) *Op. cit.* pp. 161-170,
+<span id="fn_32"></span>[29:2](frr06.htm#fr_32.md) *Op. cit.* pp. 161-170,
 for general discussion of question, and summary of authorities. Also pp.
 297 *et seq*.
 
-<span id="fn_33"></span>[29:3](frr06.htm#fr_33) Cf. *Legend of Sir
+<span id="fn_33"></span>[29:3](frr06.htm#fr_33.md) Cf. *Legend of Sir
 Perceval*, Vol. I. Chapter 3.
 
-<span id="fn_34"></span>[30:1](frr06.htm#fr_34) MS. Bibl. Nat., f. Fr.
+<span id="fn_34"></span>[30:1](frr06.htm#fr_34.md) MS. Bibl. Nat., f. Fr.
 12576, fo. 173. Cf. also *Legend of Sir Perceval*, I. Chap. 4.
 
-<span id="fn_35"></span>[30:2](frr06.htm#fr_35) Malory, *Le Morte
+<span id="fn_35"></span>[30:2](frr06.htm#fr_35.md) Malory, *Le Morte
 Arthure*, Book XIV. Chaps. 8 and 9. Potvin, ll. 40420 *et seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Tammuz and Adonis](frr07)
+[Next: Chapter IV. Tammuz and Adonis](frr07.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mog10)  [Next](mog12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mog10)  [Next](mog12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ and beneath the so-called old temple of Athena are walls of a Mycenaean
 palace with column bases. Not a few Mycenaean sherds were found here
 during the excavations, but they are all of a late period. Notable but
 little known is a hoard of bronze utensils found near the Cyclopean
-wall. <span id="fr_319"></span>[1](#fn_319) Tombs with sub-Mycenaean
+wall. <span id="fr_319"></span>[1](#fn_319.md) Tombs with sub-Mycenaean
 pottery were found on the southern slope of the Acropolis.
 
 A fairly large bee-hive tomb was explored at Menidi, old Acharnae, and
@@ -29,7 +29,7 @@ this tomb
 <span id="page_160">p. 160</span>
 
 was continued down to the time of the Peloponnesian war. <span
-id="fr_320"></span>[2](#fn_320) At Aphidna in northern Attica Professors
+id="fr_320"></span>[2](#fn_320.md) At Aphidna in northern Attica Professors
 Wide and Kjellberg excavated long ago a big tumulus. This excavation is
 remarkable because here for the first time Middle Helladic vases were
 found in a regular excavation and taken up in scientific discussion. The
@@ -41,9 +41,9 @@ to be searched more thoroughly. In the interior of the province two or
 three necropolises were discovered near the modern village of Markopoulo
 in the Mesogaia. At Spata on the road from Athens to Marathon Mycenaean
 chamber tombs were found which contained not a few remains of funeral
-furniture. <span id="fr_321"></span>[3](#fn_321) In a cave called
+furniture. <span id="fr_321"></span>[3](#fn_321.md) In a cave called
 Lychnospelaion on Mount Parnes Mycenaean sherds of a late style were
-discovered. <span id="fr_322"></span>[4](#fn_322)
+discovered. <span id="fr_322"></span>[4](#fn_322.md)
 
 On the eastern coast there are several Mycenaean sites. At Brauron, an
 unexplored acropolis with traces of walls, both pre-Mycenaean and
@@ -64,10 +64,10 @@ been found at Phaleron.
 Eleusis is a Mycenaean site. Mycenaean and pre-Mycenaean sherds were
 collected on the surface of the acropolis and in other places also.
 There is a small tholos tomb, and other traces of Mycenaean occupation
-have been found. <span id="fr_323"></span>[5](#fn_323) The opinion that
+have been found. <span id="fr_323"></span>[5](#fn_323.md) The opinion that
 the oldest walls of the sacred precinct and of the hall of mysteries go
-back to the Mycenaean age <span id="fr_324"></span>[6](#fn_324) is,
-however, contested. <span id="fr_325"></span>[7](#fn_325)
+back to the Mycenaean age <span id="fr_324"></span>[6](#fn_324.md) is,
+however, contested. <span id="fr_325"></span>[7](#fn_325.md)
 
 Thus Mycenaean remains are scattered over all Attica and prove that this
 province was deeply penetrated by Mycenaean civilization; but on the
@@ -107,7 +107,7 @@ the prefix ἐπι-, "much." For certain reasons which cannot be repeated
 here I have inferred that Erichthonius is originally the Divine Child,
 the newborn spirit of vegetation, of whom there are many traces in
 connection with the Minoan-Mycenaean religion. <span
-id="fr_326"></span>[8](#fn_326) King Pandion is also doubled; he has
+id="fr_326"></span>[8](#fn_326.md) King Pandion is also doubled; he has
 hardly any importance for our subject. The connection of his myths with
 Megara is notable.
 
@@ -126,7 +126,7 @@ interesting, but they cannot be proved to have any connection with the
 Mycenaean age.
 
 The most famous of all Athenian myths remains the great Theseus
-cycle. <span id="fr_327"></span>[9](#fn_327) It is generally and justly
+cycle. <span id="fr_327"></span>[9](#fn_327.md) It is generally and justly
 recognized that the mythical fame and glory of Theseus grew and
 developed together with the power and glory of the state of Athens and
 the self-consciousness of its people. Theseus was made the national hero
@@ -150,8 +150,8 @@ around which these accretions were able to crystallize.
 
 The later group of the cycle comprises the adventures of Theseus on his
 way from Troezen to Athens; they appear first on late black-figured
-vases. <span id="fr_328"></span>[10](#fn_328) According to
-Pausanias, <span id="fr_329"></span>[11](#fn_329) Sinis is localized on
+vases. <span id="fr_328"></span>[10](#fn_328.md) According to
+Pausanias, <span id="fr_329"></span>[11](#fn_329.md) Sinis is localized on
 the Isthmus, near Cenchreai, a harbor of Corinth on the Saronian gulf.
 Crommyon, where Theseus slew the wild sow, was a village on the boundary
 between Megara and Corinth, to which it belonged in historical times.
@@ -168,11 +168,11 @@ the myths of Pandion and
 <span id="page_165">p. 165</span>
 
 <span class="contnote">\[paragraph continues\]</span> Nisus <span
-id="fr_330"></span>[12](#fn_330) to carry the mythological claims of
+id="fr_330"></span>[12](#fn_330.md) to carry the mythological claims of
 Athens to the Isthmus and to Megara, and here they extend to Eleusis
 also, which Athens succeeded in conquering in the seventh century B.C.
 As to the importance of such claims there is an illuminating story told
-by Plutarch <span id="fr_331"></span>[13](#fn_331) that when the
+by Plutarch <span id="fr_331"></span>[13](#fn_331.md) that when the
 Spartans were called upon as arbitrators in the contention of Athens and
 Megara concerning the island of Salamis, they adjudicated the island to
 Athens because it is said in Homer that Aias of Salamis placed his ships
@@ -200,19 +200,19 @@ of Troezen. This town is situated on the northern shore of the
 Argive peninsula, not far from its easternmost end. Theseus' son
 Hippolytus had a sanctuary at Troezen. Aithra, Pittheus' daughter, is
 first mentioned in the Iliad as a servant of Helen. <span
-id="fr_332"></span>[14](#fn_332)
+id="fr_332"></span>[14](#fn_332.md)
 
 Here opinions differ. Professor Wilamowitz admits no doubt that Theseus
 was originally at home at Troezen. <span
-id="fr_333"></span>[15](#fn_333) Professor Robert gives voice to the
+id="fr_333"></span>[15](#fn_333.md) Professor Robert gives voice to the
 opinion that the myth of the birth of Theseus was created in the sixth
-century B.C. <span id="fr_334"></span>[16](#fn_334) It may be adduced as
+century B.C. <span id="fr_334"></span>[16](#fn_334.md) It may be adduced as
 an argument for the former view that the northern shore of the Argive
 peninsula is said to have been inhabited by Ionians in early
-times, <span id="fr_335"></span>[17](#fn_335) but on the other hand it
+times, <span id="fr_335"></span>[17](#fn_335.md) but on the other hand it
 is a serious objection to the antiquity of the myth that nothing
 Mycenaean, not even a single sherd, has been found at Troezen, though
-remains have been sought for. <span id="fr_336"></span>[18](#fn_336) The
+remains have been sought for. <span id="fr_336"></span>[18](#fn_336.md) The
 town seems to be a post-Mycenaean foundation.
 
 It cannot possibly be doubted that Theseus is at home in Attica, for the
@@ -221,7 +221,7 @@ Marathonian bull, of the rape of Ariadne, and of the rape of Helen, are
 localized here, and these myths unquestionably go back into the
 Mycenaean age. Then it would seem amazing if he were born and bred in
 Troezen and not in Attica, and we had another case similar to that of
-Heracles. <span id="fr_337"></span>[19](#fn_337) But
+Heracles. <span id="fr_337"></span>[19](#fn_337.md) But
 
 <span id="page_167">p. 167</span>
 
@@ -239,7 +239,7 @@ Professor Wilamowitz thinks that Theseus' mother Aithra must be at home
 at Troezen, because there is no trace of her in Attica. That is true,
 but on the other hand the trace of her in Troezenian cult legend is not
 of much value. For that she founded the temple of Athena Apaturia on the
-island of Sphairia <span id="fr_338"></span>[20](#fn_338) is a hieratic
+island of Sphairia <span id="fr_338"></span>[20](#fn_338.md) is a hieratic
 legend of indeterminate and probably rather late date. If Pittheus'
 daughter Aithra really is a Troezenian, it is very curious that in the
 Iliad she appears as one of the servants of Helen. For this presupposes
@@ -273,7 +273,7 @@ his wandering through the Isthmus but is not a necessary premiss for it.
 There may have existed some myths or cults at Troezen by which the myth
 of Theseus was attracted, since it had transgressed the boundaries of
 Attica, but I am unable to point to such cults or myths; <span
-id="fr_339"></span>[21](#fn_339) I can only point to the
+id="fr_339"></span>[21](#fn_339.md) I can only point to the
 
 <span id="page_169">p. 169</span>
 
@@ -288,21 +288,21 @@ of the bull of Marathon by Theseus is a close parallel to the capture of
 the Cretan bull by Heracles; the bulls were identified by the ancient
 mythographers. In this case it is supposed that, in contrast to what
 usually happened, a deed of Theseus was transferred to Heracles. <span
-id="fr_340"></span>[22](#fn_340) I cannot see any necessary reason for
+id="fr_340"></span>[22](#fn_340.md) I cannot see any necessary reason for
 assuming such a transference; nor can I see why Professor Bethe
 identifies the Marathonian bull with the Minotaur. <span
-id="fr_341"></span>[23](#fn_341) Bulls were among the beasts of chase,
+id="fr_341"></span>[23](#fn_341.md) Bulls were among the beasts of chase,
 and hunting such big game was a valued pastime in the Mycenaean age.
 Such a simple adventure was told of more than one hero. <span
-id="fr_342"></span>[24](#fn_342) Professor Bethe .is right in stating
+id="fr_342"></span>[24](#fn_342.md) Professor Bethe .is right in stating
 that this deed belongs originally to Theseus as well as to
-Heracles. <span id="fr_343"></span>[25](#fn_343) There may be so much
+Heracles. <span id="fr_343"></span>[25](#fn_343.md) There may be so much
 truth in his identification of the Minotaur with the Marathonian bull
 that the myth of the latter was the starting point for developing the
 Minotaur myth.
 
 This deed of Theseus is represented in vase pictures at an earlier date
-than his other deeds, <span id="fr_344"></span>[26](#fn_344) and this
+than his other deeds, <span id="fr_344"></span>[26](#fn_344.md) and this
 
 <span id="page_170">p. 170</span>
 
@@ -316,14 +316,14 @@ absolute certainty.
 The two remaining myths, the rape of Ariadne and the rape of
 Helen--their parallelism ought to be noticed from the outset--can with
 certainty be proved to go back to the Mycenaean age. In discussing the
-Laconian myths <span id="fr_345"></span>[27](#fn_345) I spoke of the
+Laconian myths <span id="fr_345"></span>[27](#fn_345.md) I spoke of the
 abduction of Helen by Theseus and stated that all attempts have failed
 to separate this myth from Aphidna in northern Attica, a site with an
 unexplored acropolis which was inhabited in Mycenaean times, not very
 far to the northwest from the plain of Marathon. Helen belongs to Attica
 also. In the epos called Cypria she was said to be a daughter of
 Nemesis, who had a temple at Rhamnus on the coast north of
-Marathon. <span id="fr_346"></span>[28](#fn_346) But in this connection
+Marathon. <span id="fr_346"></span>[28](#fn_346.md) But in this connection
 of Helen with Nemesis, the goddess of retaliation, there appears a
 certain speculative strain which makes its date doubtful, and probably
 late; and I have to acknowledge that the goddess Nemesis as a cult
@@ -342,7 +342,7 @@ by epic poetry. It may be asked if the case of Theseus is similar. I am
 distinctly disinclined to believe so, for in two other myths, those of
 Ariadne and of Persephone, Theseus appears as the abductor of a goddess
 of vegetation. He may have been originally the chief male personage of
-the old hieratic myth. <span id="fr_347"></span>[29](#fn_347)
+the old hieratic myth. <span id="fr_347"></span>[29](#fn_347.md)
 
 The myth telling how Theseus, with the help of Ariadne, entered the
 Labyrinth, slew the Minotaur, rescued the Athenian children, and sailed
@@ -357,7 +357,7 @@ Minoan age.
 <span id="page_172">p. 172</span>
 
 I have collected and discussed in earlier works <span
-id="fr_348"></span>[30](#fn_348) the evidence concerning Ariadne and
+id="fr_348"></span>[30](#fn_348.md) the evidence concerning Ariadne and
 need not repeat the discussion here. The conclusion is that Ariadne
 seems to be a goddess of vegetation derived from Minoan times. She was
 venerated especially on the islands of the Aegean but is said to have
@@ -367,16 +367,16 @@ also a joyous festival in her honor. Once she is said to have hanged
 herself like Helen Dendritis. The most perplexing myth is, however, the
 Homeric one, according to which she was killed by Artemis on the island
 of Dia, because of information given by Dionysus. <span
-id="fr_349"></span>[31](#fn_349) In the common myth Ariadne is the wife
+id="fr_349"></span>[31](#fn_349.md) In the common myth Ariadne is the wife
 of Dionysus. I have explained these contradicting myths by the
 assumption that the Minoan vegetation goddess Ariadne entered into
 competition with the kindred cult of Dionysus, and on one hand was
 vanquished and ousted by him, or on the other hand became associated
-with his cult. <span id="fr_350"></span>[32](#fn_350)
+with his cult. <span id="fr_350"></span>[32](#fn_350.md)
 
 Both Ariadne and Helen are pre-Greek vegetation goddesses, and there are
 some similarities in detail between them also, to which I have pointed
-in another place. <span id="fr_351"></span>[33](#fn_351) The most
+in another place. <span id="fr_351"></span>[33](#fn_351.md) The most
 salient similarity is, however, that both were carried off by Theseus. I
 cannot but find the same pre-Greek myth here, the carrying off of the
 vegetation goddess, in two different versions. Consequently I take this
@@ -396,7 +396,7 @@ which I have tried to show, the myth of the Divine Child.
 This view of the rape of Ariadne and of the rape of Helen is supported
 by the third myth in which Theseus appears carrying off a woman or, to
 speak more exactly, the myth in which he attempts to carry off the queen
-of the Nether World, Persephone. <span id="fr_352"></span>[34](#fn_352)
+of the Nether World, Persephone. <span id="fr_352"></span>[34](#fn_352.md)
 It is highly improbable that this attempt was originally considered a
 crime; success would have been the crowning end of the hero's career,
 just as the victory over Hades or the fetching of Cerberus crowned the
@@ -435,7 +435,7 @@ feature of myth and folk-tale; it consists in the localization of
 Peirithous, for he is always said to be a Thessalian and king of the
 Lapiths. It is very difficult to find a sufficient reason why a
 Thessalian hero was brought to Attica; <span
-id="fr_353"></span>[35](#fn_353) the connection between the two heroes
+id="fr_353"></span>[35](#fn_353.md) the connection between the two heroes
 
 <span id="page_175">p. 175</span>
 
@@ -444,7 +444,7 @@ Peirithoidai in Attica after whom a demos belonging to the phyle of
 Oineis and situated a little to the west of Athens was named. Peirithous
 was of course the eponymous hero of this family, and thus it is possible
 to imagine why he and Theseus were connected. <span
-id="fr_354"></span>[36](#fn_354) Both were localized in Attica, not very
+id="fr_354"></span>[36](#fn_354.md) Both were localized in Attica, not very
 far from each other. But why is this hero said to be a Thessalian and
 king of the Lapiths? I see no other way than to surmise that the Attic
 Peirithous was identified with a better known Thessalian hero of the
@@ -457,9 +457,9 @@ Labyrinth, giving him the thread as a guide--clearly a folk-tale
 motif--or a crown by the splendor of which the Labyrinth was
 illuminated. The latter is of course a late and rather silly explanatory
 myth, for the crown was originally a wreath, which is appropriate to the
-vegetation goddess. <span id="fr_355"></span>[37](#fn_355) It is
+vegetation goddess. <span id="fr_355"></span>[37](#fn_355.md) It is
 depicted earlier than any other detail of the Theseus myth. A late
-Geometric vase picture <span id="fr_356"></span>[38](#fn_356) shows a
+Geometric vase picture <span id="fr_356"></span>[38](#fn_356.md) shows a
 man embarking on a ship and leading a woman who carries a crown or a
 wreath in the other hand. Though myths elsewhere are almost absent from
 Geometric vases, there is no sufficient reason for denying that
@@ -472,7 +472,7 @@ characteristic picture.
 That the myth of the Labyrinth is a reminiscence of the vast complexity
 of the palace at Cnossus is generally admitted, and I need not dwell
 upon this point nor speak of the etymology and explanation of the
-name. <span id="fr_357"></span>[39](#fn_357) I wish only to emphasize
+name. <span id="fr_357"></span>[39](#fn_357.md) I wish only to emphasize
 that this myth must needs go back to the time during which the palace at
 Cnossus was still standing in its old splendor; i.e., to the time before
 the final sack of Cnossus about 1400 B.C.
@@ -484,7 +484,7 @@ played a prominent part in the Minoan religion, but in fact there is no
 good evidence for this opinion. In the Minoan monuments, which often
 depict scenes from the bull-ring and from bull-hunting, there is nothing
 to prove that this was anything other than a popular, profane
-pastime. <span id="fr_358"></span>[40](#fn_358) Both youths and girls
+pastime. <span id="fr_358"></span>[40](#fn_358.md) Both youths and girls
 entered the bull-ring and took part in its performances, of which the
 public was exceedingly fond. They were of course trained for this
 perilous kind of sport; possibly the Minoans compelled captives to take
@@ -500,7 +500,7 @@ vague reminiscence of the vast palace at Cnossus, which seemed to a
 simple man to be a true labyrinth in which everybody was unavoidably
 lost, and a mythologically transformed reminiscence of the perilous
 bull-fights in which captive youths and girls lost their lives, <span
-id="fr_359"></span>[41](#fn_359) are at the back of the myth of Theseus'
+id="fr_359"></span>[41](#fn_359.md) are at the back of the myth of Theseus'
 rescue of the Athenian children from the Labyrinth and his slaying of
 the Minotaur. These reminiscences derive of course from the days of the
 glory of Cnossus. They were quite naturally attached to the hero who
@@ -512,7 +512,7 @@ the most common plot of the folk-tale and it gives the frame into which
 were put the elements derived from the Minoan world.
 
 Quite a number of other myths in which Minos is implicated are enacted
-in Attica and its neighborhood. <span id="fr_360"></span>[42](#fn_360)
+in Attica and its neighborhood. <span id="fr_360"></span>[42](#fn_360.md)
 One is the story of his son Androgeos, who went to Athens and in one way
 or another, for it is differently told, met his death there. His death
 is said to be the reason why King Minos went to war against the
@@ -523,11 +523,11 @@ seven girls. This myth is a later invention made in order to rationalize
 
 and historicize the earlier myth. It has been justly observed that the
 name of Androgeos has a form which is special to the Attic
-dialect. <span id="fr_361"></span>[43](#fn_361)
+dialect. <span id="fr_361"></span>[43](#fn_361.md)
 
 Nor can great antiquity be accorded to the myth that Procris fled to
 Minos and received from him the dog which nothing was able to escape,
-and the never failing spear. <span id="fr_362"></span>[44](#fn_362) For
+and the never failing spear. <span id="fr_362"></span>[44](#fn_362.md) For
 since Minos was a chief personage of the most famous Attic myth, it was
 almost unavoidable that he should be introduced into other tales too.
 Thus arose a certain exchange between Attic and Cretan myths. For
@@ -539,7 +539,7 @@ When Minos warred against Athens he besieged Megara also, and Scylla,
 the daughter of Nisus, the king of Megara, fell in love with him and cut
 off the purple lock from her father's head on which the luck of the city
 depended. The faithless daughter was thrown into the sea by Minos. <span
-id="fr_363"></span>[45](#fn_363) This myth is firmly localized. Nisus is
+id="fr_363"></span>[45](#fn_363.md) This myth is firmly localized. Nisus is
 the eponymous hero of the Megarian harbor town, Nisaia, and was annexed
 to the genealogy of the Athenian kings when Athens extended its
 political aspirations to the Megaris. Minoa is a small island
@@ -569,7 +569,7 @@ quoted, Professor Bethe called attention to this fact and added that the
 great antiquity of this myth is astonishing but ought not to frighten a
 scientific mind, for there are many instances proving that historical
 reminiscences in mythical form lived and were preserved through
-centuries. <span id="fr_364"></span>[46](#fn_364) That is eminently true
+centuries. <span id="fr_364"></span>[46](#fn_364.md) That is eminently true
 and agrees completely with the view which is here advanced
 
 <span id="page_180">p. 180</span>
@@ -583,9 +583,9 @@ is really worth considering and an explanation is needed. Why, for
 example, has Argive mythology, which is much richer, nothing to say of
 Cnossus and Minos except for the faint reminiscence of the bull-ring
 which may be contained in the localization of the capturing of the
-Cretan bull? <span id="fr_365"></span>[47](#fn_365) An evident
+Cretan bull? <span id="fr_365"></span>[47](#fn_365.md) An evident
 explanation seems to be found in the view which I have sketched
-elsewhere <span id="fr_366"></span>[48](#fn_366) as a probable
+elsewhere <span id="fr_366"></span>[48](#fn_366.md) as a probable
 hypothesis concerning the immigration of the Greek tribes; viz., that
 the Ionians came first, plundered Crete, and traded with its people
 during the first and second late Minoan periods, but were ousted from
@@ -602,80 +602,80 @@ thrown back, Attica.
 
 ### Footnotes
 
-<span id="fn_319"></span>[159:1](mog11.htm#fr_319) Now at last easily
+<span id="fn_319"></span>[159:1](mog11.htm#fr_319.md) Now at last easily
 accessible in O. Montelius, *La Grèce préclassique*, I, p. 153.
 
-<span id="fn_320"></span>[160:2](mog11.htm#fr_320) See my
+<span id="fn_320"></span>[160:2](mog11.htm#fr_320.md) See my
 *Minoan-Mycenaean Religion*, p. 524 *et seq*.
 
-<span id="fn_321"></span>[160:3](mog11.htm#fr_321) A survey in H.
+<span id="fn_321"></span>[160:3](mog11.htm#fr_321.md) A survey in H.
 Gropengiesser, *Die Gräber von Attika* (Dissertation, Heidelberg, 1907).
 Recent discoveries of Mycenaean tombs at Porto-Raphti, Pikermi,
 Velanideza, and Vourvatsi, *Deltion archaiologikon*, XI (1927-28), App.
 p. 59 *et seq*.
 
-<span id="fn_322"></span>[160:4](mog11.htm#fr_322) See my
+<span id="fn_322"></span>[160:4](mog11.htm#fr_322.md) See my
 *Minoan-Mycenaean Religion*, p. 61 *et seq*.
 
-<span id="fn_323"></span>[161:5](mog11.htm#fr_323) F. Noack, *Eleusis*
+<span id="fn_323"></span>[161:5](mog11.htm#fr_323.md) F. Noack, *Eleusis*
 (1927), p. 15.
 
-<span id="fn_324"></span>[161:6](mog11.htm#fr_324) A. W. Persson,
+<span id="fn_324"></span>[161:6](mog11.htm#fr_324.md) A. W. Persson,
 *Archiv für Religionswissenschaft*, XXI (1922), p. 292 *et seq*.
 
-<span id="fn_325"></span>[161:7](mog11.htm#fr_325) Noack, *loc. cit.*,
+<span id="fn_325"></span>[161:7](mog11.htm#fr_325.md) Noack, *loc. cit.*,
 p. 14.
 
-<span id="fn_326"></span>[162:8](mog11.htm#fr_326) In my
+<span id="fn_326"></span>[162:8](mog11.htm#fr_326.md) In my
 *Minoan-Mycenaean Religion*, p. 490 *et seq*.
 
-<span id="fn_327"></span>[163:9](mog11.htm#fr_327) In addition to
+<span id="fn_327"></span>[163:9](mog11.htm#fr_327.md) In addition to
 Robert's exhaustive treatment of the cycle in his *Griechische
 Heldensage*, p. 676 *et seq*., in which earlier papers are quoted fully,
 the short but searching analysis by Wilamowitz, "Die griechische
 Heldensage," II, *Sitzungsberichte der preuss. Akademie der
 Wissenschaften*, 1925, p. 234 *et seq*. is especially to be consulted.
 Cp. also the paper of V. Costanzi already quoted, [p.
-74](mog05.htm#page_74) n. [15](mog05.htm#fn_123) and E. Kjellberg, "Zur
+74](mog05.htm#page_74) n. [15](mog05.htm#fn_123.md) and E. Kjellberg, "Zur
 Entwicklung der attischen Theseussage" in *Strena philologica
 Upsaliensis* (1922), p. 270 *et seq*. A. v. Salis, *Theseus and Ariadne*
 (1930) appeared only after this section was written.
 
-<span id="fn_328"></span>[164:10](mog11.htm#fr_328) E. Buschor in
+<span id="fn_328"></span>[164:10](mog11.htm#fr_328.md) E. Buschor in
 Furtwängler and Reichhold, *Griech. Vasenmalerei*, Text, III, p. 119 *et
 seq*., gives a survey of vase paintings representing Theseus and his
 adventures.
 
-<span id="fn_329"></span>[164:11](mog11.htm#fr_329) Paus. ii. 1, 4.
+<span id="fn_329"></span>[164:11](mog11.htm#fr_329.md) Paus. ii. 1, 4.
 
-<span id="fn_330"></span>[165:12](mog11.htm#fr_330) Cp. below [p.
-178](#page_178).
+<span id="fn_330"></span>[165:12](mog11.htm#fr_330.md) Cp. below [p.
+178](#page_178.md).
 
-<span id="fn_331"></span>[165:13](mog11.htm#fr_331) Plutarch, *Solon*,
+<span id="fn_331"></span>[165:13](mog11.htm#fr_331.md) Plutarch, *Solon*,
 chap. 10.
 
-<span id="fn_332"></span>[166:14](mog11.htm#fr_332) *Il*. iii v. 144.
+<span id="fn_332"></span>[166:14](mog11.htm#fr_332.md) *Il*. iii v. 144.
 
-<span id="fn_333"></span>[166:15](mog11.htm#fr_333) Wilamowitz, *loc.
+<span id="fn_333"></span>[166:15](mog11.htm#fr_333.md) Wilamowitz, *loc.
 cit.*, p. 235.
 
-<span id="fn_334"></span>[166:16](mog11.htm#fr_334) Robert, *loc. cit.*,
+<span id="fn_334"></span>[166:16](mog11.htm#fr_334.md) Robert, *loc. cit.*,
 p. 708.
 
-<span id="fn_335"></span>[166:17](mog11.htm#fr_335) The passages concern
+<span id="fn_335"></span>[166:17](mog11.htm#fr_335.md) The passages concern
 Epidaurus; quotations in Busolt, *Griech. Geschichte* (ed. 2), I, p.
 216, n. 7.
 
-<span id="fn_336"></span>[166:18](mog11.htm#fr_336) *Athenische
+<span id="fn_336"></span>[166:18](mog11.htm#fr_336.md) *Athenische
 Mitteilungen*, XXXVI (1911), p. 33.
 
-<span id="fn_337"></span>[166:19](mog11.htm#fr_337) The exploits of
+<span id="fn_337"></span>[166:19](mog11.htm#fr_337.md) The exploits of
 Heracles belong to Tiryns and his birth story to Thebes; see below [p.
-200](mog13.htm#page_200) *et seq*.
+200](mog13.htm#page_200.md) *et seq*.
 
-<span id="fn_338"></span>[167:20](mog11.htm#fr_338) Paus. II, 33, 1.
+<span id="fn_338"></span>[167:20](mog11.htm#fr_338.md) Paus. II, 33, 1.
 
-<span id="fn_339"></span>[168:21](mog11.htm#fr_339) There is no cult or
+<span id="fn_339"></span>[168:21](mog11.htm#fr_339.md) There is no cult or
 myth at Troezen which can be proved to be of great antiquity; cp. S.
 Wide, *De sacris Troezeniorum*, etc. (Dissertation, Uppsala, 1888). In
 the temple of Artemis Soteira were altars of the gods ruling underground
@@ -683,29 +683,29 @@ and Dionysus was said to have here brought up his mother Semele from the
 Underworld, but this myth is localized elsewhere also and affords no
 sufficient clue.
 
-<span id="fn_340"></span>[169:22](mog11.htm#fr_340) Wilamowitz,
+<span id="fn_340"></span>[169:22](mog11.htm#fr_340.md) Wilamowitz,
 *Herakles*, I. p. 302; in opposition to this the myth is localized in
 Argolis by P. Friedländer, *Herakles* (1907), p. 37.
 
-<span id="fn_341"></span>[169:23](mog11.htm#fr_341) E. Bethe, "Minos,"
+<span id="fn_341"></span>[169:23](mog11.htm#fr_341.md) E. Bethe, "Minos,"
 Rheinisches Museum, LXV (1910), p. 223.
 
-<span id="fn_342"></span>[169:24](mog11.htm#fr_342) E.g. of Argos; see
-below [p. 212](mog13.htm#page_212).
+<span id="fn_342"></span>[169:24](mog11.htm#fr_342.md) E.g. of Argos; see
+below [p. 212](mog13.htm#page_212.md).
 
-<span id="fn_343"></span>[169:25](mog11.htm#fr_343) Bethe, *loc. cit.*,
+<span id="fn_343"></span>[169:25](mog11.htm#fr_343.md) Bethe, *loc. cit.*,
 p. 218 *et seq*.
 
-<span id="fn_344"></span>[169:26](mog11.htm#fr_344) References in
+<span id="fn_344"></span>[169:26](mog11.htm#fr_344.md) References in
 Robert, *Griech. Heldensage*, p. 678, n. 1.
 
-<span id="fn_345"></span>[170:27](mog11.htm#fr_345) Above [p.
-74](mog05.htm#page_74) *et seq*.
+<span id="fn_345"></span>[170:27](mog11.htm#fr_345.md) Above [p.
+74](mog05.htm#page_74.md) *et seq*.
 
-<span id="fn_346"></span>[170:28](mog11.htm#fr_346) Cp. Wide in the
+<span id="fn_346"></span>[170:28](mog11.htm#fr_346.md) Cp. Wide in the
 *Athenische Mitteilungen*, XXI (1896), p. 387.
 
-<span id="fn_347"></span>[171:29](mog11.htm#fr_347) The real
+<span id="fn_347"></span>[171:29](mog11.htm#fr_347.md) The real
 significance of the myth of the abduction of Kore by Pluto was well
 explained by F. M. Cornford in *Studies and Essays presented to Sir W.
 Ridgeway* (1913), p. 153 *et seq*. Kore is the Corn-maiden, the grains
@@ -719,22 +719,22 @@ corn down" (cp. Latin *Conditor*), but this guess seems to me to be too
 uncertain to be mentioned except in a note, although it fits in
 admirably with the opinion advanced in the text.
 
-<span id="fn_348"></span>[172:30](mog11.htm#fr_348) In my *Griechische
+<span id="fn_348"></span>[172:30](mog11.htm#fr_348.md) In my *Griechische
 Feste*, p. 382 *et seq*., and in my *Minoan-Mycenaean Religion*, p. 451
 *et seq*.
 
-<span id="fn_349"></span>[172:31](mog11.htm#fr_349) *Od*. xi. v. 323.
+<span id="fn_349"></span>[172:31](mog11.htm#fr_349.md) *Od*. xi. v. 323.
 
-<span id="fn_350"></span>[172:32](mog11.htm#fr_350) In my *Griechische
+<span id="fn_350"></span>[172:32](mog11.htm#fr_350.md) In my *Griechische
 Feste*, *loc. cit.*
 
-<span id="fn_351"></span>[172:33](mog11.htm#fr_351) In my
+<span id="fn_351"></span>[172:33](mog11.htm#fr_351.md) In my
 *Minoan-Mycenaean Religion*, p. 453.
 
-<span id="fn_352"></span>[173:34](mog11.htm#fr_352) First mentioned in
+<span id="fn_352"></span>[173:34](mog11.htm#fr_352.md) First mentioned in
 the very last part of the Nekyia, *Od*., ix., v.631.
 
-<span id="fn_353"></span>[174:35](mog11.htm#fr_353) According to the
+<span id="fn_353"></span>[174:35](mog11.htm#fr_353.md) According to the
 principles I follow, I am unable to approve of the treatment by J.
 Toepffer in his *Beiträge zur griech. Altertumswissenschaft*, 1897, p.
 148 *et seq*., reprinted from the volume *Aus der Anomia* (1890), p. 30
@@ -743,35 +743,35 @@ i. 265, which introduces Theseus among the Lapiths, but this verse is
 absent from good manuscripts and was taken from the *Scutum Herculis* of
 Hesiod, as Wilamowitz emphasizes again, *loc. cit.*, p. 237.
 
-<span id="fn_354"></span>[175:36](mog11.htm#fr_354) Cp. Wilamowitz,
+<span id="fn_354"></span>[175:36](mog11.htm#fr_354.md) Cp. Wilamowitz,
 *loc. cit.*, p. 238.
 
-<span id="fn_355"></span>[175:37](mog11.htm#fr_355) It is so
+<span id="fn_355"></span>[175:37](mog11.htm#fr_355.md) It is so
 represented, e. g., on the famous cup of Euphronius, Furtwängler and
 Reichhold, *Griech. Vasenmalerei*, pl. v.
 
-<span id="fn_356"></span>[175:38](mog11.htm#fr_356) *Journal of Hellenic
+<span id="fn_356"></span>[175:38](mog11.htm#fr_356.md) *Journal of Hellenic
 Studies*, XIX (1899), pl. 8; C. Robert, *Archäologische Hermeneutik*
 (1919), p. 38, fig. 24.
 
-<span id="fn_357"></span>[176:39](mog11.htm#fr_357) From λάβρυς, double
+<span id="fn_357"></span>[176:39](mog11.htm#fr_357.md) From λάβρυς, double
 axe; I have discussed it in my *Minoan-Mycenaean Religion*, p. 189 *et
 seq*.
 
-<span id="fn_358"></span>[176:40](mog11.htm#fr_358) See my
+<span id="fn_358"></span>[176:40](mog11.htm#fr_358.md) See my
 *Minoan-Mycenaean Religion*, p. 322.
 
-<span id="fn_359"></span>[177:41](mog11.htm#fr_359) I am afraid that we
+<span id="fn_359"></span>[177:41](mog11.htm#fr_359.md) I am afraid that we
 all are a little hypnotized by the name Minotaur, writing it with a
 capital letter and taking it to be a *nomen proprium*. If the original
 sense is only Μίνωος ταῦρος "a bull of Minos’" (Pausanias, iii. 18, 11,
 cp. 16, says τὸν Μίνω καλούμενον ταῦρον), it may be nothing but a bull
 introduced into the bull-ring on the order of King Minos.
 
-<span id="fn_360"></span>[177:42](mog11.htm#fr_360) Cp. Bethe in the
-paper quoted [p. 169](#page_169), n. [23](#fn_341).
+<span id="fn_360"></span>[177:42](mog11.htm#fr_360.md) Cp. Bethe in the
+paper quoted [p. 169](#page_169), n. [23](#fn_341.md).
 
-<span id="fn_361"></span>[178:43](mog11.htm#fr_361) L. Weber,
+<span id="fn_361"></span>[178:43](mog11.htm#fr_361.md) L. Weber,
 "Androgeos," *Archiv für Religionswissenschaft*, XXIII (1925), pp. 34
 *et seq*. and 229 *et seq*., tries to show that Androgeos is an old
 Cretan god who was transferred to Attica and to whom the human tribute
@@ -780,22 +780,22 @@ Minotaur. The testimony referred to is, however, generally derived from
 the Attidographers and late identifications and do not bear out so
 far-reaching conclusions.
 
-<span id="fn_362"></span>[178:44](mog11.htm#fr_362) Apollod. iii. 15, 1;
+<span id="fn_362"></span>[178:44](mog11.htm#fr_362.md) Apollod. iii. 15, 1;
 ii. 4, 7; Eratosthenes, *Catast*., 33; Hygin, *Astron*., ii. 35, etc. I
 disagree in this with Bethe, *loc. cit.*, p. 223.
 
-<span id="fn_363"></span>[178:45](mog11.htm#fr_363) The myth is first
+<span id="fn_363"></span>[178:45](mog11.htm#fr_363.md) The myth is first
 found in Aeschylus, *Choeph*., v. 613 *et seq*.
 
-<span id="fn_364"></span>[179:46](mog11.htm#fr_364) Bethe, *loc. cit.*,
+<span id="fn_364"></span>[179:46](mog11.htm#fr_364.md) Bethe, *loc. cit.*,
 p. 321.
 
-<span id="fn_365"></span>[180:47](mog11.htm#fr_365) See below [p.
-217](mog13.htm#page_217).
+<span id="fn_365"></span>[180:47](mog11.htm#fr_365.md) See below [p.
+217](mog13.htm#page_217.md).
 
-<span id="fn_366"></span>[180:48](mog11.htm#fr_366) In my
+<span id="fn_366"></span>[180:48](mog11.htm#fr_366.md) In my
 *Minoan-Mycenaean Religion*, p. 32 *et seq*.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Conclusion](mog12)
+[Next: 9. Conclusion](mog12.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog03)  [Next](hlog05) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog03)  [Next](hlog05.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ between the penult and final syllable of a word.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](hlog05)
+[Next: Part I](hlog05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei10)  [Next](jei12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei10)  [Next](jei12.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Nothing can illustrate better how really ignorant the scientists have
 been concerning the real constitution of the polar regions than the
 ridicule which many arctic explorers, and especially Greely, who seemed
 to believe in his later years that the pole was really a solid sheet of
-ice, cast upon Nansen when he [announced](errata.htm#44) his plans for a
+ice, cast upon Nansen when he [announced](errata.htm#44.md) his plans for a
 polar expedition.
 
 ### SCIENTISTS LAUGH AT NANSEN
@@ -263,11 +263,11 @@ ice-mews, kittiwakes, fulmars, blue and herring gulls, black guillemot,
 skua, and snow-bunting. But these visits were eclipsed in interest by
 the following, which Nansen tells under date of August 3rd, 1894:
 
-"On August 3rd a remarkable [occurrence](errata.htm#45) took place: we
+"On August 3rd a remarkable [occurrence](errata.htm#45.md) took place: we
 were visited by the Arctic ross-gull. I wrote as follows about it in my
 diary: 'Today my longing has at last been satisfied. I have shot Ross's
 gull, three specimens in one day. This rare mysterious inhabitant of the
-unknown north, which is only [occassionally](errata.htm#46) seen, and of
+unknown north, which is only [occassionally](errata.htm#46.md) seen, and of
 which no one knows whence it cometh or whither it goeth, which belongs
 exclusively to the world to which the imagination aspires, is what, from
 the first moment I saw these tracts, I had always hoped to discover as
@@ -462,7 +462,7 @@ What in the world was the fox doing up here? There were also unequivocal
 signs that it had not been without food. Were we in the vicinity of
 land? I looked around for it, but the weather was thick all day
 yesterday, and we might have been near it without seeing it. In any
-case, a warm-blooded [mammal](errata.htm#47) in the eighty-fifth
+case, a warm-blooded [mammal](errata.htm#47.md) in the eighty-fifth
 parallel. We had not gone far before we came across another fox-track;
 it went in about the same direction as the other, and followed the trend
 of the lane which had stopped us and by which we had been obliged to
@@ -470,7 +470,7 @@ camp. It is incomprehensible what these animals live on up here, but
 presumably they are able to snap up some crustaceans in the open water
 ways. But why do they leave the coasts? That is what puzzles me most.
 Can they have gone astray? There seems little
-[probability](errata.htm#48) of that."
+[probability](errata.htm#48.md) of that."
 
 <span id="page_182">p. 182</span>
 
@@ -639,7 +639,7 @@ observations. But the enigma over which we had pondered the whole winter
 still remained unsolved. Where was Dove Glacier and the whole of Wilczek
 Land? 'Where were the is-lands which Payer had named Braun Island,
 Hoffmann Island, and Freden Island? The last might, no doubt have been
-identified with the [southernmost](errata.htm#49) island of White Land
+identified with the [southernmost](errata.htm#49.md) island of White Land
 but the others had completely disappeared. I pondered for a long time
 over the question how such a mistake could have crept into
 
@@ -686,4 +686,4 @@ later chapter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Was the North Pole Discovered?](jei12)
+[Next: Chapter IX. Was the North Pole Discovered?](jei12.md)

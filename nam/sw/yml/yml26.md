@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml25)  [Next](yml27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml25)  [Next](yml27.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ The Cochiti also have a story about a cannibal eagle (Benedict 1931:
 
 ------------------------------------------------------------------------
 
-[Next: The Wars Against the Mexicans](yml27)
+[Next: The Wars Against the Mexicans](yml27.md)

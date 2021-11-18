@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi17)  [Next](hpi19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi17)  [Next](hpi19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ and with them the subjects which interested men, were sadly changed.
 <span class="contnote">\[paragraph continues\]</span> Ethics and
 Politics came more to the front, although without assuming an actually
 new form. But in the later Persian literature the predominant place was
-[unmistakably](errata.htm#10) held by Poetry, partly of a free-thinking
+[unmistakably](errata.htm#10.md) held by Poetry, partly of a free-thinking
 tendency, partly, and indeed preponderatingly, of a mystic kind, which
 satisfied the need for wisdom, experienced by people of culture.
 
@@ -176,4 +176,4 @@ sphere of the earth, as an unhappy symbol of impious Atheism.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Gazali](hpi19)
+[Next: 1. Gazali](hpi19.md)

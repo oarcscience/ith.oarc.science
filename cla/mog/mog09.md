@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mog08)  [Next](mog10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mog08)  [Next](mog10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,9 +25,9 @@ in a later place.
 But if we take a survey of the province as a whole in regard to
 Mycenaean remains, they do not appear to be so numerous as might be
 expected from these outstanding examples, <span
-id="fr_189"></span>[1](#fn_189) in fact, elsewhere in Boeotia both
+id="fr_189"></span>[1](#fn_189.md) in fact, elsewhere in Boeotia both
 Mycenaean habitations and isolated finds seem to be scarce. <span
-id="fr_190"></span>[2](#fn_190) Not to speak of Argolis, Attica is
+id="fr_190"></span>[2](#fn_190.md) Not to speak of Argolis, Attica is
 
 <span id="page_101">p. 101</span>
 
@@ -49,7 +49,7 @@ centers. I begin with Thebes, postponing the mention of the others until
 I treat their myths. Extensive remains of a Mycenaean palace have been
 found at Thebes; unhappily it was possible to excavate them only partly,
 because they are situated in the midst of the modern town. <span
-id="fr_191"></span>[3](#fn_191) This was the emplacement of ancient
+id="fr_191"></span>[3](#fn_191.md) This was the emplacement of ancient
 Thebes also, and this continuous habitation of the site was of course
 catastrophic to the Mycenaean remains. In spite of this, enough is left
 to show the outstanding importance of Mycenaean Thebes. Especially
@@ -58,11 +58,11 @@ period than
 
 <span id="page_102">p. 102</span>
 
-those of Orchomenus, <span id="fr_192"></span>[4](#fn_192) a potter's
+those of Orchomenus, <span id="fr_192"></span>[4](#fn_192.md) a potter's
 kiln, and a number of big stirrup jars or fragments of such jars with
-painted short inscriptions. <span id="fr_193"></span>[5](#fn_193)
+painted short inscriptions. <span id="fr_193"></span>[5](#fn_193.md)
 Further, a great number of tombs with rich contents has been
-found, <span id="fr_194"></span>[6](#fn_194) proving that Thebes had a
+found, <span id="fr_194"></span>[6](#fn_194.md) proving that Thebes had a
 prosperous and numerous population in the Mycenaean age.
 
 Thus, though the later ages have been fatal to the Mycenaean remains of
@@ -86,7 +86,7 @@ get
 behind the traditional myths and see what their origin and their
 connections with the Mycenaean age may be. I cannot share Professor
 Robert's opinion that Oedipus is an old depossessed god. <span
-id="fr_195"></span>[7](#fn_195) From the fact that three of the tombs
+id="fr_195"></span>[7](#fn_195.md) From the fact that three of the tombs
 and cult places ascribed to Oedipus are certainly late, Professor Robert
 draws the conclusion that the fourth, the tomb at Eteonus in Boeotia,
 was the original and old one. Oedipus is, however, no old vegetation god
@@ -95,11 +95,11 @@ the sphinx won the hand of the queen and the kingdom, although this
 simple and common motif was complicated by the addition of a great many
 others. That his name is a descriptive one, corroborates this view. Such
 a mythical personage has of course no tomb; even that at Eteonus is a
-late creation. <span id="fr_196"></span>[8](#fn_196) Nor can I side with
+late creation. <span id="fr_196"></span>[8](#fn_196.md) Nor can I side with
 Professor Rose who takes Oedipus to be a historical personage, a prince
 who had been exposed as a child and who at the head of a Corinthian army
 conquered Thebes, slew King Laius, and wedded Queen Epikaste, his
-mother. <span id="fr_197"></span>[9](#fn_197) He fully recognizes the
+mother. <span id="fr_197"></span>[9](#fn_197.md) He fully recognizes the
 folk-tale elements but thinks that Oedipus is a nickname. In view of the
 fact that it is one of the few characteristic *Märchen* names in Greek
 mythology, I am persuaded that the origin of Oedipus is to be found not
@@ -128,10 +128,10 @@ folk-tale of a well-known kind. But other motifs were added, drawn from
 the conflicts in family and ethical life of an early people: the queen
 was his mother and the man he slew his father. The addition of these
 motifs created the real Oedipus myth and its essential greatness. In a
-later chapter <span id="fr_198"></span>[10](#fn_198) we shall treat the
+later chapter <span id="fr_198"></span>[10](#fn_198.md) we shall treat the
 naming of the mythical personages and we shall see that the name Oedipus
 belongs to a class of names, rare in Greek mythology but of frequent
-[occurrence](errata.htm#2) in folk-tales, in which the hero's name is
+[occurrence](errata.htm#2.md) in folk-tales, in which the hero's name is
 descriptive of certain peculiar characteristics which he possesses.
 Oedipus signifies "the man with
 
@@ -139,7 +139,7 @@ Oedipus signifies "the man with
 
 the swollen feet." The formation of the name is of great antiquity,
 showing a kind of derivation which was obsolete in the Greek language of
-the historic age. <span id="fr_199"></span>[11](#fn_199) The feature
+the historic age. <span id="fr_199"></span>[11](#fn_199.md) The feature
 that his feet were pierced, though irrational as has been said, is bound
 up with the story that as a newborn child he was exposed to die, but was
 saved, and when grown up was recognized by his parents. This motif is on
@@ -162,10 +162,10 @@ answered by applying another motif of the same kind: Oedipus had without
 knowing it killed his father. Thus the terrific logic of events was
 still more emphasized. The slaying of his father is not so essential for
 the myth and may have been added later; but this motif also is certainly
-very old, <span id="fr_200"></span>[12](#fn_200) and with it the cycle
+very old, <span id="fr_200"></span>[12](#fn_200.md) and with it the cycle
 is established in all its essential parts. Other features are more
 loosely bound up with it and must be passed over here. <span
-id="fr_201"></span>[13](#fn_201) The history of Greek literature proves
+id="fr_201"></span>[13](#fn_201.md) The history of Greek literature proves
 that this myth was perhaps the most dramatic of all Greek myths. I
 venture to think that in its essential parts it was already created in
 the Mycenaean age and attached to Thebes. The reasons for its
@@ -189,7 +189,7 @@ the Atreidae, and in making the same assumption in regard to the War of
 the Seven against Thebes I only follow the footsteps of Wilamowitz, Ed.
 Meyer, and Robert, who take this myth to be a historical reminiscence of
 a war waged against Thebes by a confederation of Argive princes. <span
-id="fr_202"></span>[14](#fn_202)
+id="fr_202"></span>[14](#fn_202.md)
 
 But the matter is not so simple as it may appear. Difficulties arose
 when the myth of the war was joined with the myth of Oedipus, and we
@@ -203,10 +203,10 @@ Amphiaraus, who was swallowed alive by the earth. The sons of the Seven
 marched a second time against Thebes with an army, conquered, and
 destroyed the town. This complex form of the myth was known to Homer,
 for in the fifth book of the Iliad <span
-id="fr_203"></span>[15](#fn_203) it is related that Tydeus, one of the
+id="fr_203"></span>[15](#fn_203.md) it is related that Tydeus, one of the
 Seven, went to Thebes as a messenger, and that he challenged and
 vanquished all the Cadmeans in athletic contests. In a later passage in
-the preceding book, <span id="fr_204"></span>[16](#fn_204) the same
+the preceding book, <span id="fr_204"></span>[16](#fn_204.md) the same
 adventure is told more fully; it is added that Tydeus came to Mycenae
 accompanied by Polyneices in
 
@@ -219,16 +219,16 @@ Thebes of the Seven Gates.
 On the other hand, it is told in another passage of the Iliad that
 Mecisteus, who according to later sources was a brother of Adrastus,
 went to Thebes after the fall of Oedipus, to his funeral games, and
-vanquished all the Cadmeans. <span id="fr_205"></span>[17](#fn_205)
-Moreover, a passage in the Nekyia <span id="fr_206"></span>[18](#fn_206)
+vanquished all the Cadmeans. <span id="fr_205"></span>[17](#fn_205.md)
+Moreover, a passage in the Nekyia <span id="fr_206"></span>[18](#fn_206.md)
 says that Oedipus ruled at Thebes, enduring many evils, even after the
 discovery of his crimes. Professor Robert is quite right in rejecting
 the attempts to harmonize this version with the usual ones. <span
-id="fr_207"></span>[19](#fn_207) We have to admit frankly that the
+id="fr_207"></span>[19](#fn_207.md) We have to admit frankly that the
 last-quoted Homeric version tells that Oedipus, even after having
 recognized the frightful deeds of which he was guilty, ruled as king at
 Thebes and eventually met his death in a war. This version recurs in
-Hesiod, <span id="fr_208"></span>[20](#fn_208) where it is said that
+Hesiod, <span id="fr_208"></span>[20](#fn_208.md) where it is said that
 Zeus destroyed the generation of the heroes in two great wars, some of
 them beneath Thebes of the Seven Gates, warring because of Oedipus'
 sheep, and others whom he conducted in the ships oversea to Troy because
@@ -245,7 +245,7 @@ reminds us of the many wars which the
 according to the myths, with their traditional foes the Minyans, the
 Teleboans, and others, and concludes that the war in which Oedipus fell,
 according to the Iliad, cannot be the War of the Seven against
-Thebes. <span id="fr_209"></span>[21](#fn_209) This last-mentioned was
+Thebes. <span id="fr_209"></span>[21](#fn_209.md) This last-mentioned was
 only one of the many wars which the Thebans fought with their neighbors
 in the mythical age. He thinks that the epos called the Thebais fused
 all these wars into one Great War.
@@ -265,7 +265,7 @@ the dilemma and another way must be found.
 
 From the standpoint of principles Professor Robert's view of the Theban
 war is the same as that advanced by Professor Bethe in regard to the
-Trojan war. <span id="fr_210"></span>[22](#fn_210) He thinks that of old
+Trojan war. <span id="fr_210"></span>[22](#fn_210.md) He thinks that of old
 only scattered elements of myths existed, although he admits that the
 War
 
@@ -281,10 +281,10 @@ with them and that these separate myths originating in different
 provinces of the mainland coalesced in Ionia into the cycle of the War
 of the Seven, and that the myth of the hostile brothers was invented in
 order to give a cause for this war. <span
-id="fr_211"></span>[23](#fn_211) In a following chapter he attempts to
+id="fr_211"></span>[23](#fn_211.md) In a following chapter he attempts to
 reconstruct the epos which created this cycle, the Thebais. I pass over
 his reconstruction and his criticism of the earlier reconstruction of
-this epos by Professor Bethe. <span id="fr_212"></span>[24](#fn_212)
+this epos by Professor Bethe. <span id="fr_212"></span>[24](#fn_212.md)
 
 Here also I am unable to embrace the opinion that the great mythical
 ideas were conceived in a later age, say in the seventh century B.C. Of
@@ -310,7 +310,7 @@ woman.
 
 On the other hand, the Theban cycle was distinguished by the reception
 of motifs, already mentioned above, <span
-id="fr_213"></span>[25](#fn_213) which were derived from the ethical
+id="fr_213"></span>[25](#fn_213.md) which were derived from the ethical
 conflicts and family life of an early people. Still another familiar
 motif of this kind is that of the hostile brothers. Mythology knows
 plenty of such pairs, e.g., Proetus and Acrisius, Romulus and Remus, and
@@ -337,7 +337,7 @@ probable manner. These difficulties appear in the two questions: who was
 the mother of the brothers, and what happened in the time between the
 discovery of the crime of Oedipus and the Great War? I do not enter upon
 these questions, which are of no importance for this discussion. <span
-id="fr_214"></span>[26](#fn_214)
+id="fr_214"></span>[26](#fn_214.md)
 
 We turn to the other side, to the foes of the Thebans, who also are
 essential to the myth. We are wont to regard the Theban war from the
@@ -375,10 +375,10 @@ where he ruled mythological sources differ. He is commonly said to be
 king of Sicyon, and the special reason for this is Herodotus' account of
 how Cleisthenes, the tyrant of Sicyon, managed to get rid of his cult by
 introducing the cult of his death-foe Melanippus. <span
-id="fr_215"></span>[27](#fn_215) Herodotus says that Adrastus had a
+id="fr_215"></span>[27](#fn_215.md) Herodotus says that Adrastus had a
 heroön on the market place of Sicyon, but a learned Hellenistic author
 contends that this heroön was a cenotaph and that his real tomb was at
-Megara. <span id="fr_216"></span>[28](#fn_216) Such localizations must
+Megara. <span id="fr_216"></span>[28](#fn_216.md) Such localizations must
 always be regarded with a certain diffidence, because well-known hero
 names were applied to nameless tombs and cults, or ousted less known
 names. Thus it may be understood that a hero might have two or more
@@ -386,7 +386,7 @@ tombs, no one of which was necessarily the
 
 <span id="page_114">p. 114</span>
 
-real one. <span id="fr_217"></span>[29](#fn_217) The story of how
+real one. <span id="fr_217"></span>[29](#fn_217.md) The story of how
 Adrastus became king of Sicyon gives grounds for suspicion. He is said
 to be the son of Talaus, the king of Argos, and of the daughter of
 Polybus, the king of Sicyon. Expelled from Argos because of a quarrel,
@@ -431,12 +431,12 @@ appear in all versions as more important than the others. Amphiaraus is
 already in the Odyssey inserted into the genealogy of the seer Melampus
 and of the kingly house of Argos, and is said to be a son-in-law of
 Adrastus, but we have seen that this genealogy is not trustworthy. <span
-id="fr_218"></span>[30](#fn_218) The fact that Amphiaraus is at home in
+id="fr_218"></span>[30](#fn_218.md) The fact that Amphiaraus is at home in
 Boeotia is established by cults so important that they cannot be
 suspected to be later creations. He had a sanctuary at Oropus on the
 confines of Attica where, giving oracles during sleep, he cured the
 sick. Another oracle of his, already famous in the times of Croesus,
-seems, according to Herodotus, <span id="fr_219"></span>[31](#fn_219) to
+seems, according to Herodotus, <span id="fr_219"></span>[31](#fn_219.md) to
 have been near Thebes. We are unable to say whether it was identical
 with his temple at Harma
 
@@ -444,12 +444,12 @@ with his temple at Harma
 
 in Boeotia mentioned by Strabo, or with his temple at Potniae between
 Plataeae and Thebes, mentioned by Pausanias. <span
-id="fr_220"></span>[32](#fn_220) The myth telling that he was swallowed
+id="fr_220"></span>[32](#fn_220.md) The myth telling that he was swallowed
 alive by the earth is consistent and without any doubt part of the old
 tradition. It is of course an aetiologic myth meant to explain why
 Amphiaraus was thought of as living beneath the earth and why his cult
 place was under the ground, like that of Trophonius at Lebadeia. <span
-id="fr_221"></span>[33](#fn_221) We have to admit that a Boeotian cult
+id="fr_221"></span>[33](#fn_221.md) We have to admit that a Boeotian cult
 hero was received into the myth of the Seven against Thebes.
 
 The fact that Tydeus always is said to be a son of the Aetolian king of
@@ -460,7 +460,7 @@ of the old type and moreover his character shows traces of a high and
 crude antiquity which was detested by the Homeric age. He belongs to
 that older generation of heroes who possessed an admirable strength and
 did valiant deeds but met an evil fate. <span
-id="fr_222"></span>[34](#fn_222) His violent temper and his hasty deeds
+id="fr_222"></span>[34](#fn_222.md) His violent temper and his hasty deeds
 are prominent characteristics. Like so many other heroes he was exiled
 because he had slain a relative; that is a consistent feature of the
 tradition, although there are variations as to the names and the number
@@ -491,7 +491,7 @@ death in this terrible manner. From the funeral of Patroclus as
 described in Homer we know that captives were killed in order to
 accompany the deceased into the Other World, and this description is
 recognized as a most valuable testimony of old, crude funeral
-customs. <span id="fr_223"></span>[35](#fn_223) In several cases it has
+customs. <span id="fr_223"></span>[35](#fn_223.md) In several cases it has
 been assumed that the same custom has left traces in Mycenaean burials,
 and though this supposition is certainly wrong in
 
@@ -505,7 +505,7 @@ human bones which must have survived from a sacrifice at the funeral,
 and the king and the queen were buried at the same time. Professor
 Persson thinks it likely that in fact we here have an instance of the
 self-sacrifice of the queen at her husband's funeral. <span
-id="fr_224"></span>[36](#fn_224) At all events we have an example of
+id="fr_224"></span>[36](#fn_224.md) At all events we have an example of
 human sacrifice at the funeral. The myth of Euadne's voluntary death on
 her husband's pyre is pre-Greek and, I venture to think, a precious
 testimony as to Mycenaean funeral customs.
@@ -514,7 +514,7 @@ We have, consequently, good reason to think that the three foremost of
 the Seven have come down from Mycenaean times; but at least two of these
 three were not Argives or Peloponnesians, one being a Boeotian and the
 other an Aetolian. Professor Robert has duly emphasized this fact, <span
-id="fr_225"></span>[37](#fn_225) and according to his point of view he
+id="fr_225"></span>[37](#fn_225.md) and according to his point of view he
 draws the inference that both had waged a war of their own against
 Thebes, that the emigrants from Boeotia and Aetolia respectively had
 brought the myths of these wars with them to Ionia, and that there the
@@ -560,17 +560,17 @@ disaster has created the myth of the Epigonoi, the sons of the Seven,
 who conquered and sacked Thebes. This myth is obviously late, some
 scholars think very late. It may be post-Mycenaean, but cautiousness
 bids me to leave the question undecided. <span
-id="fr_226"></span>[38](#fn_226) One of the Epigonoi, Diomedes, derives
+id="fr_226"></span>[38](#fn_226.md) One of the Epigonoi, Diomedes, derives
 certainly from Mycenaean times.
 
 There is another well-known Theban myth which cannot be passed over in
 silence, although it is very difficult to judge and will not be of much
 importance for our purpose--the myth of Cadmus, the founder of Thebes.
-The opinion now current <span id="fr_227"></span>[39](#fn_227) reverses
+The opinion now current <span id="fr_227"></span>[39](#fn_227.md) reverses
 the traditional view. Cadmus is assumed to be at home at Miletus, where
 a noble family counted him as its ancestor. Not far from Miletus there
 were a mountain and a river both called Cadmus and the inhabitants of
-Priene were called Cadmeans. <span id="fr_228"></span>[40](#fn_228) At
+Priene were called Cadmeans. <span id="fr_228"></span>[40](#fn_228.md) At
 Miletus the tradition arose which ascribed the introduction of the
 Phoenician alphabet to Cadmus. Even the genealogy which makes Cadmus a
 brother of Phoenix, Cilix, and Thasos is said to point to Asia Minor.
@@ -580,12 +580,12 @@ transferred from Ionia to Thebes.
 <span id="page_121">p. 121</span>
 
 In Homer Cadmus is mentioned only once, as Ino's father; <span
-id="fr_229"></span>[41](#fn_229) in Hesiod's Theogony he occurs as
+id="fr_229"></span>[41](#fn_229.md) in Hesiod's Theogony he occurs as
 husband of Harmonia and father of Semele, Ino, and others. <span
-id="fr_230"></span>[42](#fn_230) Here at last the myth seems to be fully
+id="fr_230"></span>[42](#fn_230.md) Here at last the myth seems to be fully
 developed. The salient point is, however, another; viz., that Homer
 always calls the Thebans Cadmeans; <span
-id="fr_231"></span>[43](#fn_231) the town is on the contrary called
+id="fr_231"></span>[43](#fn_231.md) the town is on the contrary called
 Thebe or Thebae. The names of the people, Cadmeans, and of the
 acropolis, Cadmea, cannot of course be separated from the hero Cadmus,
 and this proves the lack of foundation of the current opinion. For it is
@@ -606,7 +606,7 @@ the last mentioned argument
 <span id="page_122">p. 122</span>
 
 and argued only from the oldest, rather scanty sources. <span
-id="fr_232"></span>[44](#fn_232)
+id="fr_232"></span>[44](#fn_232.md)
 
 If Cadmus is the old eponymous hero of the Cadmeans, the people who
 inhabited Thebes, we are bound to find an explanation for the mythical
@@ -635,10 +635,10 @@ true foundation myth referring to a town in Greece,
 <span id="page_123">p. 123</span>
 
 except perhaps in the case of Alos in Thessaly. <span
-id="fr_233"></span>[45](#fn_233) I do not of course take the many
+id="fr_233"></span>[45](#fn_233.md) I do not of course take the many
 etymological myths into account; their late make is so transparent that
 it is needless to dwell upon them. <span
-id="fr_234"></span>[46](#fn_234) There are not a few myths telling how
+id="fr_234"></span>[46](#fn_234.md) There are not a few myths telling how
 the walls of a city were built. E.g., Apollo and Poseidon built the
 walls of Troy for King Laomedon, the Cyclopes the walls of Tiryns for
 King Proetus, and Athena helped in erecting the walls of the Acropolis
@@ -657,7 +657,7 @@ built the walls of Thebes; hence one may reasonably be inclined to
 consider this myth as one of the common type describing the erection of
 the city walls; but as early as in the Nekyia it is expressly stated
 that the brothers founded the city of Thebes of the Seven Gates and
-built the walls. <span id="fr_235"></span>[47](#fn_235) The well-known
+built the walls. <span id="fr_235"></span>[47](#fn_235.md) The well-known
 version of the myth occurs, however, first in the Antiope of Euripides,
 the earlier tradition being very meager. It has a feature which is found
 in true foundation myths. The twins were exposed to die but were saved
@@ -681,7 +681,7 @@ very badly into it. That is the reason why Professor
 
 <span class="contnote">\[paragraph continues\]</span> Robert, relying
 upon a passage in Apollodorus, ascribes them to another Boeotian town,
-Hyria. <span id="fr_236"></span>[48](#fn_236) But even so we do not get
+Hyria. <span id="fr_236"></span>[48](#fn_236.md) But even so we do not get
 rid of the most embarrassing fact, that they built the walls of Thebes,
 for it is related only that they lived at Hyria and were exiled because
 of a murder; i.e., there is nothing to prove that the supposed
@@ -708,7 +708,7 @@ pre-Mycenaean times, but what has
 <span id="page_126">p. 126</span>
 
 been found from this age is not so much as to be a serious objection to
-this view. <span id="fr_237"></span>[49](#fn_237)
+this view. <span id="fr_237"></span>[49](#fn_237.md)
 
 If I am right, an old myth, of course handed down from Mycenaean times,
 told that Thebes was founded by the eponymous hero of the tribe which
@@ -716,7 +716,7 @@ inhabited the town, the Cadmeans. The founder, Cadmus, came consequently
 from abroad. The old myth did not tell or had forgotten whence he came,
 and the field was left open for guesses. At the beginning of the
 historical age the foreigners who constantly visited Greece were the
-Phoenicians. <span id="fr_238"></span>[50](#fn_238) If we take these
+Phoenicians. <span id="fr_238"></span>[50](#fn_238.md) If we take these
 conditions into consideration, we may perhaps be able to understand why
 the myth hit upon the idea of making Cadmus a Phoenician. At that time
 other foreigners were hardly known in Greece, and as Cadmus was
@@ -737,12 +737,12 @@ know, moreover, that the immigrants in Ionia were a very mixed lot.
 
 ### Footnotes
 
-<span id="fn_189"></span>[100:1](mog09.htm#fr_189) See D. Fimmen, "Die
+<span id="fn_189"></span>[100:1](mog09.htm#fr_189.md) See D. Fimmen, "Die
 Besiedelung Böotiens bis in frühgriechische Zeit," *Neue Jahrbücher für
 klass. Altertumswissenschaft*, XXIX (1912), pp. 524 *et seq*.,
 supplemented by his *Kretisch-mykenische Kultur*, pp. 5 *et seq*.
 
-<span id="fn_190"></span>[100:2](mog09.htm#fr_190) The Mycenaean remains
+<span id="fn_190"></span>[100:2](mog09.htm#fr_190.md) The Mycenaean remains
 unearthed at Eutresis between Thebes and Creusis on the Corinthian gulf
 are not numerous, but in Mycenaean times the place was fortified with a
 heavy Cyclopean wall. See Hetty Goldman, *Excavations at Eutresis* (Fogg
@@ -750,19 +750,19 @@ Art Museum, Harvard University, 1927), p. 82 *et seq*. The like at
 Haliartus, *Annual of the British School at Athens*, XXVIII (1926-27),
 p. 129; the walls *ibid*. XXVII (1925-26), p. 82.
 
-<span id="fn_191"></span>[101:3](mog09.htm#fr_191) They were explored by
+<span id="fn_191"></span>[101:3](mog09.htm#fr_191.md) They were explored by
 Professor Keramopoullos; see *Ephemeris archaiologike*, 1909, p. 57 *et
 seq*.; *Praktika*, 1911, p. 143 *et seq*.; 1912, p. 85 *et seq*. For a
 summary see the *American Journal of Archaeology*, XXXIV (1930), p. 219
 *et seq*.
 
-<span id="fn_192"></span>[102:4](mog09.htm#fr_192) See *Tiryns*, II, p.
+<span id="fn_192"></span>[102:4](mog09.htm#fr_192.md) See *Tiryns*, II, p.
 199. Cp. G. Rodenwaldt, *Der Fries des Megaron von Mykenai* (1921), p.
 69, n. 152; and in regard of the dating of the earlier period, W. Lamb,
 in the *Annual of the British School at Athens*, XXV (1921-23), p. 254
 *et seq*.
 
-<span id="fn_193"></span>[102:5](mog09.htm#fr_193) For a brief mention
+<span id="fn_193"></span>[102:5](mog09.htm#fr_193.md) For a brief mention
 see my *Minoan-Mycenaean Religion*, p. 20, n. 8. J. Sundwall discussed
 the script in the periodical *Klio*, XXII (1928-29), p. 228 *et seq*. A.
 W. Persson in his interesting attempt to decipher the Minoan-Mycenaean
@@ -771,28 +771,28 @@ which very much resembles Κάδμος ϝάναξ Θηβῶν (*Schrift and Sp
 Alt-Kreta*, Program of the Promotion of Doctors of Letters, Uppsala,
 1930, p. 28 *et seq*.).
 
-<span id="fn_194"></span>[102:6](mog09.htm#fr_194) A. Keramopoullos,
+<span id="fn_194"></span>[102:6](mog09.htm#fr_194.md) A. Keramopoullos,
 *Deltion archaiologikon*, III (1917), p. 25 *et seq*.
 
-<span id="fn_195"></span>[103:7](mog09.htm#fr_195) C. Robert, Oidipus, I
+<span id="fn_195"></span>[103:7](mog09.htm#fr_195.md) C. Robert, Oidipus, I
 (1915), p. 44 *et seq*. For a criticism see L. R. Farnell, *Greek Hero
 Cults* (1921), p. 332 *et seq*.
 
-<span id="fn_196"></span>[103:8](mog09.htm#fr_196) Cp. my review of
+<span id="fn_196"></span>[103:8](mog09.htm#fr_196.md) Cp. my review of
 Robert's book in *Göttingischer gelehrter Anzeiger* (1922), pp. 36 *et
 seq*.
 
-<span id="fn_197"></span>[103:9](mog09.htm#fr_197) H. J. Rose, *Modern
+<span id="fn_197"></span>[103:9](mog09.htm#fr_197.md) H. J. Rose, *Modern
 Methods in Classical Mythology* (St. Andrews, 1930), p. 24 *et seq*. An
 analysis from the point of view of folk-tale motifs is made by S. Luria
 in *Raccolta di scritti in onore di F. Ramorino* (1930), p. 289 *et
 seq*. I prefer to leave the treasure of Thisbe out of account.
 
-<span id="fn_198"></span>[104:10](mog09.htm#fr_198) See below pp.
-[189](mog13.htm#page_189) *et seq*.
+<span id="fn_198"></span>[104:10](mog09.htm#fr_198.md) See below pp.
+[189](mog13.htm#page_189.md) *et seq*.
 
-<span id="fn_199"></span>[105:11](mog09.htm#fr_199) H. Petersson in my
-above-quoted ([p. 103](#page_103) n. [8](#fn_196)) review, p. 45. I
+<span id="fn_199"></span>[105:11](mog09.htm#fr_199.md) H. Petersson in my
+above-quoted ([p. 103](#page_103) n. [8](#fn_196).md) review, p. 45. I
 repeat Petersson's convincing argument: It is evident that the first
 compound part of Οἰδίπους is connected with the stem in οἰδάω, οἰδέω,
 but the difficulty consisting in the difference of vowels (ι instead of
@@ -810,120 +810,120 @@ to it being found in other languages; e.g., Old German *eitar*,
 Kretschmer, in *Glotta* XII (1923), p. 59, but I cannot approve of his
 chthonic interpretation of Oedipus.
 
-<span id="fn_200"></span>[106:12](mog09.htm#fr_200) The earliest mention
+<span id="fn_200"></span>[106:12](mog09.htm#fr_200.md) The earliest mention
 is found in the Nekyia, *Od*., xi. v. 273.
 
-<span id="fn_201"></span>[106:13](mog09.htm#fr_201) Cp. my above-quoted
-([p. 103](#page_103), n. [8](#fn_196)) review.
+<span id="fn_201"></span>[106:13](mog09.htm#fr_201.md) Cp. my above-quoted
+([p. 103](#page_103), n. [8](#fn_196).md) review.
 
-<span id="fn_202"></span>[107:14](mog09.htm#fr_202) Wilamowitz,
+<span id="fn_202"></span>[107:14](mog09.htm#fr_202.md) Wilamowitz,
 *Hermes*, XXVI (1891), p. 240, and "Die griech. Heldensage, I,"
 *Sitzungsberichte der preuss. Akad. der Wissenschaften*, 1925, p. 58;
 Robert, *Oidipus*, I, p. 120; Ed. Meyer, *Geschichte des Altertums*, II,
 p. 189 *et seq*.
 
-<span id="fn_203"></span>[107:15](mog09.htm#fr_203) *Il*. v. v. 800 *et
+<span id="fn_203"></span>[107:15](mog09.htm#fr_203.md) *Il*. v. v. 800 *et
 seq*.
 
-<span id="fn_204"></span>[107:16](mog09.htm#fr_204) *Il*. iv. v. 370 *et
+<span id="fn_204"></span>[107:16](mog09.htm#fr_204.md) *Il*. iv. v. 370 *et
 seq*.
 
-<span id="fn_205"></span>[108:17](mog09.htm#fr_205) *Il*. xxiii. v. 678
+<span id="fn_205"></span>[108:17](mog09.htm#fr_205.md) *Il*. xxiii. v. 678
 *et seq*.
 
-<span id="fn_206"></span>[108:18](mog09.htm#fr_206) *Od*. xi. v. 273 *et
+<span id="fn_206"></span>[108:18](mog09.htm#fr_206.md) *Od*. xi. v. 273 *et
 seq*.
 
-<span id="fn_207"></span>[108:19](mog09.htm#fr_207) Robert, *Oidipus*,
+<span id="fn_207"></span>[108:19](mog09.htm#fr_207.md) Robert, *Oidipus*,
 I, p. 115.
 
-<span id="fn_208"></span>[108:20](mog09.htm#fr_208) Hesiod, *Works and
+<span id="fn_208"></span>[108:20](mog09.htm#fr_208.md) Hesiod, *Works and
 Days*, vv. 161 *et seq*.
 
-<span id="fn_209"></span>[109:21](mog09.htm#fr_209) Robert, *Oidipus*,
+<span id="fn_209"></span>[109:21](mog09.htm#fr_209.md) Robert, *Oidipus*,
 I. p. 121.
 
-<span id="fn_210"></span>[109:22](mog09.htm#fr_210) Cp. above p. 6 *et
+<span id="fn_210"></span>[109:22](mog09.htm#fr_210.md) Cp. above p. 6 *et
 seq*.
 
-<span id="fn_211"></span>[110:23](mog09.htm#fr_211) Robert, *Oidipus*,
+<span id="fn_211"></span>[110:23](mog09.htm#fr_211.md) Robert, *Oidipus*,
 I, p. 143 *et seq*.
 
-<span id="fn_212"></span>[110:24](mog09.htm#fr_212) E. Bethe in his
+<span id="fn_212"></span>[110:24](mog09.htm#fr_212.md) E. Bethe in his
 brilliant book *Thebanische Heldenlieder* (1891).
 
-<span id="fn_213"></span>[111:25](mog09.htm#fr_213) Above [p.
-104](#page_104).
+<span id="fn_213"></span>[111:25](mog09.htm#fr_213.md) Above [p.
+104](#page_104.md).
 
-<span id="fn_214"></span>[112:26](mog09.htm#fr_214) I touched upon them
-in my review quoted [p. 103](#page_103), n. [8](#fn_196), pp. 43 *et
+<span id="fn_214"></span>[112:26](mog09.htm#fr_214.md) I touched upon them
+in my review quoted [p. 103](#page_103), n. [8](#fn_196.md), pp. 43 *et
 seq*.
 
-<span id="fn_215"></span>[113:27](mog09.htm#fr_215) Herodotus, v. 67.
+<span id="fn_215"></span>[113:27](mog09.htm#fr_215.md) Herodotus, v. 67.
 
-<span id="fn_216"></span>[113:28](mog09.htm#fr_216) Dieuchidas in the
+<span id="fn_216"></span>[113:28](mog09.htm#fr_216.md) Dieuchidas in the
 *Scholion* to Pindarus, *Nem*., ix. v. 30.
 
-<span id="fn_217"></span>[114:29](mog09.htm#fr_217) think it hardly
+<span id="fn_217"></span>[114:29](mog09.htm#fr_217.md) think it hardly
 necessary to discuss the hypothesis that Adrastus originally was a name
 of the Lord of the Underworld. I cannot see why it should not be a
 purely human name.
 
-<span id="fn_218"></span>[115:30](mog09.htm#fr_218) *Od*. xv. v. 225 *et
-seq*.; see above [p. 114](#page_114).
+<span id="fn_218"></span>[115:30](mog09.htm#fr_218.md) *Od*. xv. v. 225 *et
+seq*.; see above [p. 114](#page_114.md).
 
-<span id="fn_219"></span>[115:31](mog09.htm#fr_219) Herodotus, viii.
+<span id="fn_219"></span>[115:31](mog09.htm#fr_219.md) Herodotus, viii.
 134.
 
-<span id="fn_220"></span>[116:32](mog09.htm#fr_220) Paus. ix. 8, 3.
+<span id="fn_220"></span>[116:32](mog09.htm#fr_220.md) Paus. ix. 8, 3.
 Strabo, ix, p. 404.
 
-<span id="fn_221"></span>[116:33](mog09.htm#fr_221) This is a valid
+<span id="fn_221"></span>[116:33](mog09.htm#fr_221.md) This is a valid
 objection to Farnell's euhemeristic view, *Greek Hero Cults*, p. 58 *et
 seq*.
 
-<span id="fn_222"></span>[116:34](mog09.htm#fr_222) E.g., Meleager. This
+<span id="fn_222"></span>[116:34](mog09.htm#fr_222.md) E.g., Meleager. This
 feeling seems to me to underlie the passage *Il*. i. v. 266 *et seq*.
 also.
 
-<span id="fn_223"></span>[117:35](mog09.htm#fr_223) By E. Rodhe,
+<span id="fn_223"></span>[117:35](mog09.htm#fr_223.md) By E. Rodhe,
 *Psyche* (ed. 10, 1925), I. p. 14 *et seq*.
 
-<span id="fn_224"></span>[118:36](mog09.htm#fr_224) A. W. Persson,
+<span id="fn_224"></span>[118:36](mog09.htm#fr_224.md) A. W. Persson,
 *Kungagraven i Dendra* (1928), p. 130 *et seq*.
 
-<span id="fn_225"></span>[118:37](mog09.htm#fr_225) It matters little
+<span id="fn_225"></span>[118:37](mog09.htm#fr_225.md) It matters little
 that he thinks that both Amphiaraus and Tydeus (in regard to Tydeus I
 cannot see why) belong to the tribe of the Graikoi, which was settled on
 both sides of the Euripus: Robert, *Oidipus*, I., p. 121.
 
-<span id="fn_226"></span>[120:38](mog09.htm#fr_226) Robert, *Griech.
+<span id="fn_226"></span>[120:38](mog09.htm#fr_226.md) Robert, *Griech.
 Heldensage*, p. 949 *et seq*.; and Wilamowitz, *Hermes*, XXVI (1891), p.
 239, hold that it is very late.
 
-<span id="fn_227"></span>[120:39](mog09.htm#fr_227) Summarized by K.
+<span id="fn_227"></span>[120:39](mog09.htm#fr_227.md) Summarized by K.
 Latte in his article in Pauly-Wissowa's *Realenzyklopädie der klass.
 Altertumswissenschaft*.
 
-<span id="fn_228"></span>[120:40](mog09.htm#fr_228) The sources are
+<span id="fn_228"></span>[120:40](mog09.htm#fr_228.md) The sources are
 quoted by O. Crusius in his able article in Roscher's *Lexikon der
 Mythologie*, II, p. 872 *et seq*.
 
-<span id="fn_229"></span>[121:41](mog09.htm#fr_229) *Od*. v. v. 333 *et
+<span id="fn_229"></span>[121:41](mog09.htm#fr_229.md) *Od*. v. v. 333 *et
 seq*.
 
-<span id="fn_230"></span>[121:42](mog09.htm#fr_230) Hesiod, *Theogony*,
+<span id="fn_230"></span>[121:42](mog09.htm#fr_230.md) Hesiod, *Theogony*,
 v. 937 and v. 975.
 
-<span id="fn_231"></span>[121:43](mog09.htm#fr_231) Καδμείωνες or
+<span id="fn_231"></span>[121:43](mog09.htm#fr_231.md) Καδμείωνες or
 Καδμεϊοι , occurs eight times; Θηβαϊος  occurs in the Odyssey, as an
 epithet of the seer Teiresias only.
 
-<span id="fn_232"></span>[122:44](mog09.htm#fr_232) I am glad to note
+<span id="fn_232"></span>[122:44](mog09.htm#fr_232.md) I am glad to note
 that Dr. Fimmen embraces the same opinion (*Neue Jahrbücher für das
 klass. Altertum*, XXIX (1912), p. 534 *et seq*.).
 
-<span id="fn_233"></span>[123:45](mog09.htm#fr_233) The town of Alos in
+<span id="fn_233"></span>[123:45](mog09.htm#fr_233.md) The town of Alos in
 Thessaly has a foundation myth. Its founder is said to be either Aloeus
 (*Schol. Apoll. Rhod.* i. v. 482 = Hesiod, *frag*. 9 Rzach, ed. 3; the
 town is here said to be Aetolian) or Athamas (*Schol. Apoll. Rhod.* ii.
@@ -943,19 +943,19 @@ youths and fifty maidens, following a cow, and founded the city of Ilion
 where she lay down. This myth appears only in Apollodor, ii. 12, 3, and
 is a late invention.
 
-<span id="fn_234"></span>[123:46](mog09.htm#fr_234) E.g. the myth that
+<span id="fn_234"></span>[123:46](mog09.htm#fr_234.md) E.g. the myth that
 Perseus founded the city of Mycenae where he lost the chape (μύκη) of
 his sword, Paus., ii. 16, 3; or the myth that Coroebus founded
 Tripodiskos in Megara where the tripod which he carried from Delphi fell
 from his shoulders, Paus., i. 43, 8.
 
-<span id="fn_235"></span>[124:47](mog09.htm#fr_235) *Od*. xi. v. 262 *et
+<span id="fn_235"></span>[124:47](mog09.htm#fr_235.md) *Od*. xi. v. 262 *et
 seq*.
 
-<span id="fn_236"></span>[125:48](mog09.htm#fr_236) Robert, *Oidipus*,
+<span id="fn_236"></span>[125:48](mog09.htm#fr_236.md) Robert, *Oidipus*,
 I, p. 398, referring to Apollodor, iii. 10, 1. 1, from Hellanicus.
 
-<span id="fn_237"></span>[126:49](mog09.htm#fr_237) Keramopoullos in
+<span id="fn_237"></span>[126:49](mog09.htm#fr_237.md) Keramopoullos in
 *Deltion archaiologikon*, III (1917), p. 2 *et seq*. A nest of
 pre-Mycenaean vases mentioned in the *Journal of Hellenic Studies*, XLIX
 (1929), p. 233. In 1929 sherds of Minyan ware and some sherds of good L.
@@ -963,7 +963,7 @@ H. II. pottery were found beneath a wall of the palace of the period
 before the reconstruction; see *American Journal of Archaeology*, XXXIV
 (1930), p. 220.
 
-<span id="fn_238"></span>[126:50](mog09.htm#fr_238) The name of the
+<span id="fn_238"></span>[126:50](mog09.htm#fr_238.md) The name of the
 Phoenicians (Φοίνικες) signifies etymologically "the Red Men." According
 to a sagacious hypothesis put forth by H. R. Hall, *Proceedings* of the
 Society of Biblical Archaeology, XXXI (1909), p. 282, "the Red Men" were
@@ -980,4 +980,4 @@ met and only later restricted to the Semites of Canaan.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Northern Boeotia and Thessaly](mog10)
+[Next: 7. Northern Boeotia and Thessaly](mog10.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi134)  [Next](mtsi136) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi134)  [Next](mtsi136.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ This is how it is told.
 
 ------------------------------------------------------------------------
 
-[Next: Stories 43-45](mtsi136)
+[Next: Stories 43-45](mtsi136.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc21)  [Next](osc23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc21)  [Next](osc23.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ at first might be very laudable in themselves."
 
 ------------------------------------------------------------------------
 
-[Next: (20) Lichfield Greenhill Bower](osc23)
+[Next: (20) Lichfield Greenhill Bower](osc23.md)

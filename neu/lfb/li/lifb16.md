@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb15)  [Next](lifb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb15)  [Next](lifb17.md) 
 
 </div>
 
@@ -302,6 +302,6 @@ A Pushto Story.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Deer](lifb17)
+[Next: The Enchanted Deer](lifb17.md)
 
 </div>

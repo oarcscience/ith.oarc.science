@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh05)  [Next](mbh07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh05)  [Next](mbh07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ poems.
 
 A certain resemblance with the story of the birth of Paris is presented
 by the poem of Zal, in Firdausi's Persian hero myths. <span
-id="fr_44"></span>[1](#fn_44) The first son is born to Sam, king of
+id="fr_44"></span>[1](#fn_44.md) The first son is born to Sam, king of
 Sistan, by one of his consorts. Because he had white hair, *his* 
 
 <span id="page_24">p. 24</span>
@@ -67,9 +67,9 @@ successor.
 
 ### Footnotes
 
-<span id="fn_44"></span>[23:1](mbh06.htm#fr_44) Ibid., translated by
+<span id="fn_44"></span>[23:1](mbh06.htm#fr_44.md) Ibid., translated by
 Schack.
 
 ------------------------------------------------------------------------
 
-[Next: Telephus](mbh07)
+[Next: Telephus](mbh07.md)

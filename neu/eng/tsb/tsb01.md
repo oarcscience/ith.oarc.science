@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tsb00)  [Next](tsb02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tsb00)  [Next](tsb02.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ CHARLES J. FINGER
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tsb02)
+[Next: Contents](tsb02.md)

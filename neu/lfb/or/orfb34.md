@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb33)  [Next](orfb35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb33)  [Next](orfb35.md) 
 
 </div>
 
@@ -271,7 +271,7 @@ him his name.
 
 'I have no parents; they died when I was six, sire,' replied the youth,
 modestly. 'Everyone in the town calls me Gilguerillo, <span
-id="fr_0"></span>[1](#fn_0) because, when I was little, I went singing
+id="fr_0"></span>[1](#fn_0.md) because, when I was little, I went singing
 through the world in spite of my misfortunes. Luckily for me I was born
 to be happy.'
 
@@ -447,12 +447,12 @@ ball afterwards nobody danced so long or so lightly as king Balancin.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](orfb34.htm#fr_0) Linnet.
+<span id="fn_0"></span>[1](orfb34.htm#fr_0.md) Linnet.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Book](orfb35)
+[Next: The Magic Book](orfb35.md)
 
 </div>

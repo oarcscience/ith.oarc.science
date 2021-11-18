@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](tmc03)  [Next](tmc05) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](tmc03)  [Next](tmc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -403,4 +403,4 @@ whereon the primal designs of the celestial artists were painted.
 
 ------------------------------------------------------------------------
 
-[Next: Sacrifices of Dsilyídje Qaçàl.](tmc05)
+[Next: Sacrifices of Dsilyídje Qaçàl.](tmc05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb10)  [Next](lrb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb10)  [Next](lrb12.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ published in the *Barzaz-Breiz*, where they
 <span id="page_212">p. 212</span>
 
 obviously appear as traditional tales in a polished, modern dress. <span
-id="fr_45"></span>[1](#fn_45) They may be regarded, largely, as efforts
+id="fr_45"></span>[1](#fn_45.md) They may be regarded, largely, as efforts
 of the modern imagination regarding the Breton past. In any case the
 author of a book on Breton romances would not be justified in omitting
 all mention of Villemarqué and refraining from affording the reader a
@@ -140,7 +140,7 @@ the house and the walls were half ruined and covered with
 <span id="img_21400"></span>
 
 [![MORVAN RETURNS TO HIS RUINED HOME](tn/21400.jpg)  
-Click to enlarge](img/21400.jpg)  
+Click to enlarge](img/21400.jpg.md)  
 MORVAN RETURNS TO HIS RUINED HOME  
 
  
@@ -391,7 +391,7 @@ But Morvan was already beyond ear-shot.
 
 .        .        .        .        .
 
-As the hermit of the wood of Helléan <span id="fr_46"></span>[1](#fn_46)
+As the hermit of the wood of Helléan <span id="fr_46"></span>[1](#fn_46.md)
 slept three knocks sounded on his door.
 
 "Good hermit," said some one, "open the door. I seek an asylum and help
@@ -796,7 +796,7 @@ children, dwelling happily in your own home.
 <span id="img_23200"></span>
 
 [![THE FINDING OF SILVESTIK](tn/23200.jpg)  
-Click to enlarge](img/23200.jpg)  
+Click to enlarge](img/23200.jpg.md)  
 THE FINDING OF SILVESTIK  
 
  
@@ -962,7 +962,7 @@ ties of brotherhood which had once united their fathers.
 
 However unlikely this incident may seem, it appears to be confirmed by
 tradition, if not by history. The air which the rival Celts sang is,
-says Villemarqué, <span id="fr_47"></span>[1](#fn_47) common
+says Villemarqué, <span id="fr_47"></span>[1](#fn_47.md) common
 
 <span id="page_238">p. 238</span>
 
@@ -1067,7 +1067,7 @@ Between the Britains twain!
 
 ### Footnotes
 
-<span id="fn_45"></span>[212:1](lrb11.htm#fr_45) For the criticism on
+<span id="fn_45"></span>[212:1](lrb11.htm#fr_45.md) For the criticism on
 Villemarqué's work see H. Gaidoz and P. Sébillot, "Bibliographie des
 Traditions et de la Littérature populaire de la Bretagne" (in the *Revue
 Celtique*, t. v, pp. 277 ff.). The title *Barzaz-Breiz* means "The
@@ -1075,14 +1075,14 @@ Breton Bards," the author being under the delusion that the early forms
 of the ballads he collected and altered had been composed by the ancient
 bards of Brittany.
 
-<span id="fn_46"></span>[221:1](lrb11.htm#fr_46) Once a part of the
+<span id="fn_46"></span>[221:1](lrb11.htm#fr_46.md) Once a part of the
 forest of Broceliande. It has now disappeared.
 
-<span id="fn_47"></span>[237:1](lrb11.htm#fr_47) *Barzaz-Breiz*, p. 335.
+<span id="fn_47"></span>[237:1](lrb11.htm#fr_47.md) *Barzaz-Breiz*, p. 335.
 Sébillot (*Traditions de la Haute-Bretagne*, t. i, p. 346) says that he
 could gain nothing regarding this incident at the village of Saint-Cast
 but "vague details."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: The Black Art and its Ministers](lrb12)
+[Next: Chapter IX: The Black Art and its Ministers](lrb12.md)

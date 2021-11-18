@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits054) [Next](bits056)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits054) [Next](bits056.md)
 
 ------------------------------------------------------------------------
 
@@ -278,7 +278,7 @@ The Birth Story of the Strider over Battle-fields.
 
 ------------------------------------------------------------------------
 
-[Next: § 56. The Hare-Mark in the Moon](bits056)
+[Next: § 56. The Hare-Mark in the Moon](bits056.md)
 
  
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip11)  [Next](fip13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip11)  [Next](fip13.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ They pined away and died within the year and day,
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Knockgrafton, by T. Crofton Croker](fip13)
+[Next: The Legend of Knockgrafton, by T. Crofton Croker](fip13.md)

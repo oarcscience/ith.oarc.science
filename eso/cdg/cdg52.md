@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg51)  [Next](cdg53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg51)  [Next](cdg53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ CAMBRIDGE. "AN ANTIDOTE AGAINST ATHEISM." EDITION 1653, PAGES
 
 ------------------------------------------------------------------------
 
-[Next: PP. Cassiodorus Renius or Reyna](cdg53)
+[Next: PP. Cassiodorus Renius or Reyna](cdg53.md)

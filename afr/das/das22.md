@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das21)  [Next](das23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das21)  [Next](das23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -32,13 +32,13 @@ from wandering too far. At the north a few cypress trees straggle off to
 the wood. A sturdy bush provides the sunny drying ground for the gourds
 that later will be used as water dippers.
 
-Aunty Jane <span id="fr_135"></span>[1](#fn_135) claims that she is one
+Aunty Jane <span id="fr_135"></span>[1](#fn_135.md) claims that she is one
 hundred and fifteen years old, and to see the small bent woman with the
 deeply lined black skin and filmy eyes is to believe her claim. Her
 voice is high pitched, with the thin timbre of extreme age, but she
 still moves with sudden agile gestures. During our conversation she
 hopped up from the steps and began to do the Buzzard
-Lope [17](das26.htm#xref_17) to illustrate her story.
+Lope [17](das26.htm#xref_17.md) to illustrate her story.
 
 "I belong tuh Robert Toodle wut lib in Nawt Calina an he sole me down
 yuh wen Ise twenty-one. I ain membuh much bout Nawt Calina but uh
@@ -63,12 +63,12 @@ mourners.
 
 "Yes'm, dey sho did hab regluh feastes in dem days, but tuhday, at mos
 settin-ups, yuh dohn git nuttn but coffee an
-bread. [37b](das26.htm#xref_37b),  [37c](das26.htm#xref_37c) Den dey
+bread. [37b](das26.htm#xref_37b),  [37c](das26.htm#xref_37c.md) Den dey
 would cook a regluh meal an dey would kill a chicken in front uh duh
-doe, wring he neck an cook um fuh duh feas. [35c](das26.htm#xref_35c)
+doe, wring he neck an cook um fuh duh feas. [35c](das26.htm#xref_35c.md)
 Den wen we all finish, we take wut victuals lef an put it in a dish by
 duh chimley an das fuh duh sperrit tuh hab a las good
-meal. [58](das26.htm#xref_58) We cubbuh up duh dish an deah's many a
+meal. [58](das26.htm#xref_58.md) We cubbuh up duh dish an deah's many a
 time Ise heah dat sperrit lif um. We ain preach duh suhmon wen we bury
 um but we waits a wile so's all duh relations kin come."
 
@@ -76,28 +76,28 @@ um but we waits a wile so's all duh relations kin come."
 
 "Bad luck?" repeated Aunty Jane. "Sho it bad luck. Dem dishes an bottles
 wut put on duh grabe is fuh duh sperrit an it ain fuh nobody tuh tech
-um. [64](das26.htm#xref_64) Das fuh duh sperrit tuh feel at
-home. [47](das26.htm#xref_47) Wen he die fah off, we bring um home tuh
+um. [64](das26.htm#xref_64.md) Das fuh duh sperrit tuh feel at
+home. [47](das26.htm#xref_47.md) Wen he die fah off, we bring um home tuh
 bury um, dohn leh no strainjuh be bury wid um. Yuh gib people wut ain
 belong tuh yuh anudduh piece uh groun tuh be bury
-in. [3](das26.htm#xref_3) We alluz hab two fewnul fuh duh pusson. We hab
+in. [3](das26.htm#xref_3.md) We alluz hab two fewnul fuh duh pusson. We hab
 duh regluh fewnul wen yuh die. Den once a yeah we hab one big preachin
-fuh ebrybody wut die dat yeah." [42](das26.htm#xref_42)
+fuh ebrybody wut die dat yeah." [42](das26.htm#xref_42.md)
 
 Aunty Jane looked up slyly when we asked her if she believed in conjure.
 
 "I ain belieb in um muhsef but deah's plenty wut do. Ise had Ellen
 Hammond libin wid me. She die las yeah. She sho wuz alluz fixin
-cunjuh. [15](das26.htm#xref_15) She tie up ebryting in sacks. She git a
-lill foot track dus, [7](das26.htm#xref_7) a lill haiah combins, an nail
-parin, [10](das26.htm#xref_10) an she tie um up wid a lill rag. Cose, I
+cunjuh. [15](das26.htm#xref_15.md) She tie up ebryting in sacks. She git a
+lill foot track dus, [7](das26.htm#xref_7.md) a lill haiah combins, an nail
+parin, [10](das26.htm#xref_10.md) an she tie um up wid a lill rag. Cose, I
 dohn belieb in dis an wen she die, I bun um. Ef yuh hab any trouble wid
-snakes, [50](das26.htm#xref_50)
+snakes, [50](das26.htm#xref_50.md)
 
 <span id="page_141">p. 141</span>
 
 yuh ketch um an bun um wid duh trash. Den all duh whole kingdom uh
-snakes will leab yuh lone." [50](das26.htm#xref_50)
+snakes will leab yuh lone." [50](das26.htm#xref_50.md)
 
 We next questioned Aunty Jane about signs.
 
@@ -111,14 +111,14 @@ The subject of drums was then brought up.
 "I ain heah um beat duh drums in my chuch," Aunty Jane said. "But I sho
 is heah plenty uh drum beat. We use tuh alluz dance tuh duh drums. We
 dance roun in a succle an we hab drum an we hab goad rattle an we beat
-tin pan tuhgedduh. [23](das26.htm#xref_23) Some time dey hab sto-bought
+tin pan tuhgedduh. [23](das26.htm#xref_23.md) Some time dey hab sto-bought
 drum, but Alex Harris, he muh son, he make um. He lib up duh ribbuh."
 
 Aunty Jane gave us a description of how the drums were made.
 
 "Yuh kill a coon an yuh skin um an yuh tack duh skin up side duh house
 tuh dry an yuh stretch um good till um tight an smood. Den yuh stretch
-um obuh duh en ub a holluh tree trunk. [25](das26.htm#xref_25) Sometime
+um obuh duh en ub a holluh tree trunk. [25](das26.htm#xref_25.md) Sometime
 dey is big drum wut stan as high as dis." She raised her hand about
 three feet from the ground.
 
@@ -131,12 +131,12 @@ holly wut'll do. Alex, he make drum up tuh two yeah ago an we sho hab
 big time doin duh dances wile dey beat duh drums. Wenebuh we happy aw
 wannuh celebrate, we dance." At this Point Aunty Jane rose to give us an
 exhibition of two dances, the Buzzard Lope and the Snake
-Hip. [17](das26.htm#xref_17)
+Hip. [17](das26.htm#xref_17.md)
 
 Across the highway from Aunty Jane's settlement, about one mile north of
 Darien, back of a turpentine still, is an irregular settlement of small
 houses, most of which are enclosed by high dilapidated paling fences.
-Here Wallace Quarterman <span id="fr_136"></span>[1](#fn_136) occupied a
+Here Wallace Quarterman <span id="fr_136"></span>[1](#fn_136.md) occupied a
 cabin with his daughter, Abby Gibson.
 
 <span id="page_142">p. 142</span>
@@ -172,13 +172,13 @@ We asked if they shouted to a drum then.
 
 "We sho did. We beat a drum at duh chuch an we beat a drum on duh way
 tuh duh grabeyahd tuh bury um. We walks in a long line moanin an we
-beats duh drum all duh way." [24](das26.htm#xref_24)
+beats duh drum all duh way." [24](das26.htm#xref_24.md)
 
 We inquired about the making of drums and the kinds of drums.
 
 "We makes drums out uh sheep hide but we gottuh dry um an stretch duh
 skin obuh. Some makes it out uh holluh lawgs wid skin obuh duh en an
-some ub um is as long as tree feet." [25](das26.htm#xref_25)
+some ub um is as long as tree feet." [25](das26.htm#xref_25.md)
 
 We asked the old man if he remembered any slaves that were real
 Africans.
@@ -197,7 +197,7 @@ say. Dey caahn unduhstan yo talk an you caahn unduhstan dey talk. Dey go
 'Ain no good tuh lissen tuh um.' Dey git long all right but yuh know dey
 wuz a lot ub um wut ain stay down yuh."
 
-Did he mean the Ibos <span id="fr_137"></span>[1](#fn_137) on St. Simons
+Did he mean the Ibos <span id="fr_137"></span>[1](#fn_137.md) on St. Simons
 who walked into the water?
 
 "No, ma'am, I ain mean dem. Ain yuh heah bout um? Well, at dat time Mr.
@@ -212,8 +212,8 @@ wid a long whip fuh tuh whip um good."
 actin. He got tuh whip um, Mr. Blue, he ain hab no choice. Anyways, he
 whip um good an dey gits tuhgedduh an stick duh hoe in duh fiel an den
 say 'quack, quack, quack,' an dey riz up in duh sky an tun hesef intuh
-buzzuds an fly right back tuh Africa." [68b](das26.htm#xref_68b),
- [69c](das26.htm#xref_69c)
+buzzuds an fly right back tuh Africa." [68b](das26.htm#xref_68b.md),
+ [69c](das26.htm#xref_69c.md)
 
 At this, we exclaimed and showed our astonishment.
 
@@ -228,7 +228,7 @@ hoe wut dey lef stickin up attuh dey done fly way."
 
 This story of the flying Africans seemed to be a familiar one, for it
 was later repeated to us by William Rogers, <span
-id="fr_138"></span>[2](#fn_138) who lived about a mile from Darien on
+id="fr_138"></span>[2](#fn_138.md) who lived about a mile from Darien on
 the Cowhorn Road. We had been told that he had been a cabinet maker in
 his
 
@@ -259,13 +259,13 @@ trigger struck a piece of flint, thereby igniting the powder.
 We inquired about his wood carving and he showed us some of the wooden
 figures about which we had been told. One of these, a spoon of cedar,
 was about a foot in length and had the roughly-sculptured head of a man
-on its handle. [41](das26.htm#xref_41) The head was square in shape, the
+on its handle. [41](das26.htm#xref_41.md) The head was square in shape, the
 features were only slightly raised, and the eyes were nail
-heads. [41c](das26.htm#xref_41c) Another item was a
-frog [41i](das26.htm#xref_41i) which, with eyes of brass nail heads,
+heads. [41c](das26.htm#xref_41c.md) Another item was a
+frog [41i](das26.htm#xref_41i.md) which, with eyes of brass nail heads,
 crouched on a block of wood. The frog and the stand had been carved from
-a solid piece of wood [70f](das26.htm#xref_70f),
- [70h](das26.htm#xref_70h) and lightly varnished.
+a solid piece of wood [70f](das26.htm#xref_70f.md),
+ [70h](das26.htm#xref_70h.md) and lightly varnished.
 
 As we left, the old man promised us, "Wen I gits muh hans back intuh
 use, I hopes tuh cahve a cane wid a gatuh on it lak duh ones I made long
@@ -295,7 +295,7 @@ cabins dotted the landscape and the settlement terminated at a grassy
 bluff where stood the last small house.
 
 We were looking for Priscilla McCullough <span
-id="fr_139"></span>[1](#fn_139) and the obliging neighbors directed us
+id="fr_139"></span>[1](#fn_139.md) and the obliging neighbors directed us
 to her house. It stood to the left of the roadway, a queer haphazard
 little dwelling place that looked like something out of a fairy tale. It
 was a tumble-down house, painted white, its roof patched with pieces of
@@ -329,7 +329,7 @@ and went on to tell us some of these.
 "I heahd many time bout how in Africa wen a girl dohn ack jis lak dey
 should, dey drum uh out uh town. Dey Jis beat duh drum, an call uh name
 on duh drum an duh drum say bout all duh tings she
-done. [26](das26.htm#xref_26) Dey drum an mahch long an take duh girl
+done. [26](das26.htm#xref_26.md) Dey drum an mahch long an take duh girl
 right out uh town.
 
 "Girls hab tuh be keahful den. Dey caahn be so trifflin lak some ub em
@@ -349,8 +349,8 @@ supposed to have taken place on a plantation during slavery times.
 
 "Duh slabes wuz out in duh fiel wukin. All ub a sudden dey git tuhgedduh
 an staht tuh moob roun in a ring. Roun dey go fastuhnfastuh. Den one by
-one dey riz up an take wing an fly lak a bud. [68b](das26.htm#xref_68b),
- [69c](das26.htm#xref_69c) Duh obuhseeuh heah duh noise an he come out
+one dey riz up an take wing an fly lak a bud. [68b](das26.htm#xref_68b.md),
+ [69c](das26.htm#xref_69c.md) Duh obuhseeuh heah duh noise an he come out
 an he see duh slabes riz up in duh eah an fly back tuh Africa. He run an
 he ketch duh las one by duh foot jis as he wuz bout tuh fly off. I dohn
 know ef he wuz neah nuff tuh pull um back down an keep um frum goin
@@ -363,7 +363,7 @@ variety of stories.
 <span id="page_147">p. 147</span>
 
 We had learned that an elderly Negro named Lawrence Baker <span
-id="fr_140"></span>[1](#fn_140) lived out on the Ridge Road near the
+id="fr_140"></span>[1](#fn_140.md) lived out on the Ridge Road near the
 Ridgeway Club. We followed the road for about two miles and came finally
 to a signpost directing us to turn right in order to reach the club.
 This section in former times had been occupied by extensive plantation
@@ -385,11 +385,11 @@ unoccupied for some time.
 
 He had heard of the custom of beating drums to warn people of a recent
 death. He said, "Dey use tuh alluz beat duh drum aw blow duh hawn wen
-somebody die. [24](das26.htm#xref_24) Dey beat two licks on duh. drum,
+somebody die. [24](das26.htm#xref_24.md) Dey beat two licks on duh. drum,
 den dey stop, den dey beat tree licks. Wen yuh beat dat, yuh know
-somebody done die. [24](das26.htm#xref_24),  [26](das26.htm#xref_26)
+somebody done die. [24](das26.htm#xref_24),  [26](das26.htm#xref_26.md)
 Lots uh duh drums wuz home-made. Dey wuz made out uh goat skin aw coon
-skin wut stretch out obuh hoops. [25](das26.htm#xref_25) Deah wuz tree
+skin wut stretch out obuh hoops. [25](das26.htm#xref_25.md) Deah wuz tree
 sizes uh drums. Deah wuz duh big barrel drum. It wuz highuhn it wuz
 cross. Den deah wuz a lill drum frum twelve tuh fifteen inches wide an
 bout eighteen inches high. Duh udduh drum wuz duh medium size, kine uh
@@ -406,14 +406,14 @@ and Lawrence hastened to assure us,
 
 <span class="contnote">\[paragraph continues\]</span> "Yes'm, dey alluz
 hole duh baptism on a high ebb tide. Das so duh tide will carry duh sin
-out." [63](das26.htm#xref_63)
+out." [63](das26.htm#xref_63.md)
 
 Had the old man ever known any people who had been named for the days of
 the week?
 
 "I knowd one man name Fridy, one dat wuz name Satdy an anudduh he name
 wuz Toosdy. Guess dey name um dataway cuz dey wuz bawn on doze
-days." [20](das26.htm#xref_20)
+days." [20](das26.htm#xref_20.md)
 
 Baker told us that many people in the section refused to eat certain
 foods, believing bad luck would follow if they ate them.
@@ -421,7 +421,7 @@ foods, believing bad luck would follow if they ate them.
 "Deah's lots dataway now," he commented. "Lots uh folks dohn eat some
 food cuz ef dey did dey say it would bring bad luck on duh parents. Some
 dohn eat rice, some dohn eat egg, an some dohn eat
-chicken. [65](das26.htm#xref_65)
+chicken. [65](das26.htm#xref_65.md)
 
 "Muh gran, she Rachel Grant, she use tuh tell me bout lot uh deze tings.
 I membuh she use tuh pray ebry day at sunrise, at middle day and den at
@@ -435,7 +435,7 @@ dey go tuh shoot duh gun, dey ketch duh fyuh wid a rag an flint."
 
 We asked him if he had ever heard of a hoe that worked by itself and he
 told us that he had often heard this story regarding the
-hoe [39](das26.htm#xref_39) and that he had also heard many tales about
+hoe [39](das26.htm#xref_39.md) and that he had also heard many tales about
 a magic rail splitting wood without anyone touching it.
 
 Suddenly the quiet of the afternoon was shattered by a high reed-like
@@ -448,11 +448,11 @@ an wistle jis lak a pusson. I dohn fool wid no spiduh. Dey is bad luck.
 All duh time dey drop down right out ub a tree.
 
 "I know deah is spirits an ghos cuz I kin see
-um. [59](das26.htm#xref_59) Yuh hab tuh be bawn wid a caul tuh be able
-tuh see duh spirits. [4](das26.htm#xref_4)
+um. [59](das26.htm#xref_59.md) Yuh hab tuh be bawn wid a caul tuh be able
+tuh see duh spirits. [4](das26.htm#xref_4.md)
 
 "Some uh duh folks is rid so much by witches dat attuh a time dey git
-tin an po an jis die. [69](das26.htm#xref_69) Wen a witch come in duh
+tin an po an jis die. [69](das26.htm#xref_69.md) Wen a witch come in duh
 
 <span id="page_149">p. 149</span>
 
@@ -461,10 +461,10 @@ skin, duh witch caahn put it on agen. Benne seed is bad fuh duh witch
 too an keep um way.
 
 "Witches take all kine uh shape. Sometime dey lak animal, sometime lak
-bud. [68](das26.htm#xref_68) In Harris Neck deah wuz a big buzzud wut
+bud. [68](das26.htm#xref_68.md) In Harris Neck deah wuz a big buzzud wut
 use tuh light on duh fence ebry time dey would be milkin duh cows. Wen
 duh buzzud would fly off, one uh duh milk buckets would alluz be
-dry. [69c](das26.htm#xref_69c) Dis happen ebry day. Dey would shoot at
+dry. [69c](das26.htm#xref_69c.md) Dis happen ebry day. Dey would shoot at
 duh bud but nobody could ebuh hit it. One man he take a dime an he
 quawtuh it; den he put it in duh gun. Duh nex day wen duh buzzud light,
 he shoot at it an he hit it in duh wing. It fly off an go down a
@@ -483,29 +483,29 @@ nebuh bodduh um an dey ain nebuh do me no hahm."
 
 ### Footnotes
 
-<span id="fn_135"></span>[139:1](das22.htm#fr_135) Jane Lewis, Darien.
+<span id="fn_135"></span>[139:1](das22.htm#fr_135.md) Jane Lewis, Darien.
 
-<span id="fn_136"></span>[141:1](das22.htm#fr_136) Wallace Quarterman,
+<span id="fn_136"></span>[141:1](das22.htm#fr_136.md) Wallace Quarterman,
 Darien. Deceased autumn, 1938.
 
-<span id="fn_137"></span>[143:1](das22.htm#fr_137) A group of slaves
+<span id="fn_137"></span>[143:1](das22.htm#fr_137.md) A group of slaves
 from the Ibo tribe refused to submit to slavery. Led by their chief and
 singing tribal songs, they walked into the water and were drowned at a
 point on Dunbar Creek later named Ebo (Ibo) Landing.
 
-<span id="fn_138"></span>[143:2](das22.htm#fr_138) William Rogers,
+<span id="fn_138"></span>[143:2](das22.htm#fr_138.md) William Rogers,
 Cowhorn Road, Darien.
 
-<span id="fn_139"></span>[145:1](das22.htm#fr_139) Priscilla McCullough,
+<span id="fn_139"></span>[145:1](das22.htm#fr_139.md) Priscilla McCullough,
 near Darien.
 
-<span id="fn_140"></span>[147:1](das22.htm#fr_140) Lawrence Baker, the
+<span id="fn_140"></span>[147:1](das22.htm#fr_140.md) Lawrence Baker, the
 Ridge Road, near Darien.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Sapelo Island](das23)
+[Next: Sapelo Island](das23.md)
 
 </div>

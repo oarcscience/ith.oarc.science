@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki234)  [Next](liki236) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki234)  [Next](liki236.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,6 +104,6 @@ known.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVI. Shan î or The Long Dress in One Piece](liki236)
+[Next: XXXVI. Shan î or The Long Dress in One Piece](liki236.md)
 
   

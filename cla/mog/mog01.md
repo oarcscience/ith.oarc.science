@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mog00)  [Next](mog02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mog00)  [Next](mog02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. How Old is Greek Mythology?](mog02)
+[Next: Chapter I. How Old is Greek Mythology?](mog02.md)

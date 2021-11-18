@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste00)  [Next](ste02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste00)  [Next](ste02.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ constant Prayer of* 
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Reader](ste02)
+[Next: Preface to the Reader](ste02.md)

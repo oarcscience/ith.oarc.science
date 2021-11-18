@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat12)  [Next](aat14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat12)  [Next](aat14.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ HARVARD UNIVERSITY, CAMBRIDGE, MASS.
 
 ------------------------------------------------------------------------
 
-[Next: Note](aat14)
+[Next: Note](aat14.md)

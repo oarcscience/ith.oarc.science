@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec14)  [Next](aec16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec14)  [Next](aec16.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ be honest, and they cite individuals who
 
 <span id="page_116">p. 116</span>
 
-amassed fortunes [fraudulently](errata.htm#7). That some unscrupulous
+amassed fortunes [fraudulently](errata.htm#7.md). That some unscrupulous
 and corrupt persons became wealthy proves nothing. They see only a part
 of life; they are not present at the inevitable hour of reckoning. One
 cannot plant thistles and reap roses on the material plane; neither can
@@ -270,4 +270,4 @@ our Father in Heaven. We shall have made a success of life.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. The Mystery of Death](aec16)
+[Next: XIII. The Mystery of Death](aec16.md)

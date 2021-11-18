@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat06)  [Next](flat08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat06)  [Next](flat08.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ sent her own child back to her.
 
 ------------------------------------------------------------------------
 
-[Next: The Two Gossips](flat08)
+[Next: The Two Gossips](flat08.md)

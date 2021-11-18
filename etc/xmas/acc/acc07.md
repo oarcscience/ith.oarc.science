@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Miscellaneous](../../index)  [Christmas](../index)  [Index](index) 
-[Previous](acc06)  [Next](acc08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Miscellaneous](../../index)  [Christmas](../index)  [Index](index.md) 
+[Previous](acc06)  [Next](acc08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -323,7 +323,7 @@ affairs this very afternoon, over a Christmas bowl of smoking bishop,
 Bob!
 
 <span id="img_16400"></span> <span align="CENTER"> [![](tn/16400.jpg)  
-Click to enlarge](img/16400.jpg)</span>
+Click to enlarge](img/16400.jpg.md)</span>
 
 <span id="page_165">p. 165</span>
 
@@ -379,4 +379,4 @@ BRADBURY AND EVANS, PRINTERS, WHITEFRIARS.
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](acc08)
+[Next: Advertisements](acc08.md)

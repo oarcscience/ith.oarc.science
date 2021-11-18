@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Next](liki211) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Next](liki211.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,6 +85,6 @@ INDEX TO PARTS I, II, III, IV (VOLS. III, XVI, XXVII, XXVIII).
 
 ------------------------------------------------------------------------
 
-[Next: XI. Yü Zâo or The Jade-Bead Pendants of the Royal Cap](liki211)
+[Next: XI. Yü Zâo or The Jade-Bead Pendants of the Royal Cap](liki211.md)
 
   

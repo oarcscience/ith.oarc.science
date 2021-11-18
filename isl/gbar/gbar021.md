@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar020) [Next](gbar022)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar020) [Next](gbar022.md)
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ of Israel.' Whereupon all her kinsfolk joined themselves unto the law of
 
 ------------------------------------------------------------------------
 
-[Next](gbar022)
+[Next](gbar022.md)
 
  
 

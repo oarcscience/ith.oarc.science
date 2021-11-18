@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq36)  [Next](sfq38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq36)  [Next](sfq38.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ of the wicked enchantress--the "Bower of Bliss."
 
 ------------------------------------------------------------------------
 
-[Next: The Bower of Bliss](sfq38)
+[Next: The Bower of Bliss](sfq38.md)

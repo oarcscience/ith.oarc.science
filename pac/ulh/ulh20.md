@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh19)  [Next](ulh21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh19)  [Next](ulh21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -76,7 +76,7 @@ needs mention to Hawaiian tourists. *Hi’i-lawe* is one of
 <span id="img_pl12"></span> <span align="CENTER"> [![PLATE XII&lt;br&gt;
 PUPU-KANI-OE, POETICALLY STYLED KAHULI&lt;br&gt; HAWAIIAN TREE-SHELLS
 (ACHATINELLA \* \* \*)](tn/pl12.jpg)  
-Click to enlarge](img/pl12.jpg)  
+Click to enlarge](img/pl12.jpg.md)  
 PLATE XII  
 PUPU-KANI-OE, POETICALLY STYLED KAHULI  
 HAWAIIAN TREE-SHELLS (ACHATINELLA \* \* \*)  
@@ -90,7 +90,7 @@ several high waterfalls that leap from the world of clouds into the
 valley-basin.
 
 *Kahuli* is a fanciful name applied to the beautiful and unique genus of
-tree-shells (Achatinella), [plate XII](#img_pl12), that inhabit the
+tree-shells (Achatinella), [plate XII](#img_pl12.md), that inhabit the
 Hawaiian woods. The natives are persuaded that these shells have the
 power of chirping a song of their own, and the writer has often heard
 the note which they ascribe to them; but to his ear it was
@@ -104,8 +104,8 @@ the natives credit to the tree-shells:
 Kahuli aku,  
 Kahuli mai,  
 Kahuli lei ula,  
-Lei akolea. <span id="fr_258"></span>[a](#fn_254)  
-5 Kolea, kolea, <span id="fr_259"></span>[b](#fn_255)  
+Lei akolea. <span id="fr_258"></span>[a](#fn_254.md)  
+5 Kolea, kolea, <span id="fr_259"></span>[b](#fn_255.md)  
 Ki’i ka wai,  
 Wai akolea.
 
@@ -135,15 +135,15 @@ learn.
 
 ### Footnotes
 
-<span id="fn_254"></span>[121:a](ulh20.htm#fr_258) The *akolea* is a
+<span id="fn_254"></span>[121:a](ulh20.htm#fr_258.md) The *akolea* is a
 fern (by some classed as a Polypodium) which, according to Doctor
 Hillebrand (Flora of the Hawaiian Islands), "sustains its extraordinary
 length by the circinnate tips which twine round the branches of
 neighboring shrubs or trees."
 
-<span id="fn_255"></span>[121:b](ulh20.htm#fr_259) *Kolea*. The
+<span id="fn_255"></span>[121:b](ulh20.htm#fr_259.md) *Kolea*. The
 red-breasted plover.
 
 ------------------------------------------------------------------------
 
-[Next: XVII.--The Hula Ká-éke-éke](ulh21)
+[Next: XVII.--The Hula Ká-éke-éke](ulh21.md)

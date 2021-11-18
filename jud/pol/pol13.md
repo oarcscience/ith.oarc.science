@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol12)  [Next](pol14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol12)  [Next](pol14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -618,7 +618,7 @@ and all it contains Thy power has created; to Thee, Thy handmaid calls
 for help! I am alone, oh God, without father and mother. Even as a poor
 woman, who begs from door to door, do I come before Thee for mercy, from
 window to window in the house of Ahasuerus. <span
-id="fr_3"></span>[1](#fn_3) From Thee alone can help and salvation flow.
+id="fr_3"></span>[1](#fn_3.md) From Thee alone can help and salvation flow.
 Oh, Father of the fatherless! stand upon the right hand of the orphan, I
 beseech Thee; give her mercy and favour in the eyes of Ahasuerus, that
 he may be moved to grant her petition for the lives of her people. 'May
@@ -948,11 +948,11 @@ Persia and Media."
 
 ### Footnotes
 
-<span id="fn_3"></span>[182:1](pol13.htm#fr_3) It was the ancient custom
+<span id="fn_3"></span>[182:1](pol13.htm#fr_3.md) It was the ancient custom
 of the Jews to stand by a window and look upon the sky when praying. We
 find the fact thus recorded in Daniel (6: 11): "He had open windows in
 his upper chamber in the direction of Jerusalem."
 
 ------------------------------------------------------------------------
 
-[Next: V. King Solomon, the Wise](pol14)
+[Next: V. King Solomon, the Wise](pol14.md)

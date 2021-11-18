@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal133)  [Next](njal135) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal133)  [Next](njal135.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,4 +181,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: 135. Of Flosi And The Burners](njal135)
+[Next: 135. Of Flosi And The Burners](njal135.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp10)  [Next](hmvp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp10)  [Next](hmvp12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ of sacrifice obtained supremacy
 
 <span id="img_05300"></span> <span align="CENTER">
 [![INDRA.](tn/05300.jpg)  
-Click to enlarge](img/05300.jpg)  
+Click to enlarge](img/05300.jpg.md)  
 INDRA.  
 </span>
 
@@ -70,13 +70,13 @@ the fourth is empty. He is also sometimes painted with two arms only,
 and, having eyes all over his body, is then called Sahasrāksha (the
 thousand-eye). He is generally depicted as riding upon the wonderful
 elephant Airavata, who was produced at the churning of the ocean, <span
-id="fr_50"></span>[\*](#fn_50) carrying a thunderbolt in his right hand
+id="fr_50"></span>[\*](#fn_50.md) carrying a thunderbolt in his right hand
 and a bow in his left. In the Vedic Age his worship was far more popular
 than it is at present.
 
 The position and attributes of Indra as taught by the Vedas will be seen
 from the following description, abbreviated from that given by Dr.
-Muir:— <span id="fr_51"></span>[†](#fn_51)
+Muir:— <span id="fr_51"></span>[†](#fn_51.md)
 
 <div style="margin-left: 32px">
 
@@ -137,7 +137,7 @@ appears.
 </div>
 
 Ready prepared for him is a feast, the principal attraction of which is
-the Soma juice. <span id="fr_52"></span>[\*](#fn_52) Indra was
+the Soma juice. <span id="fr_52"></span>[\*](#fn_52.md) Indra was
 particularly fond of this intoxicating drink. It is a most strange
 circumstance that, whilst the Hindus of the present day are prohibited
 from the use of intoxicants, Indra is described as being addicted to the
@@ -238,10 +238,10 @@ Such was Indra in ancient times; and though worshipped still, he
 occupies a very inferior position in the present age. As mentioned
 previously, according to the teaching of the later books, his rule over
 the gods continues for a hundred divine <span
-id="fr_53"></span>[\*](#fn_53) years; at the expiration of which time he
+id="fr_53"></span>[\*](#fn_53.md) years; at the expiration of which time he
 may be superseded by another god, or even by a man. The Purānas teach
 that, in each age of the world, a different being has enjoyed this
-position. In the "Vishnu Purāna" <span id="fr_54"></span>[†](#fn_54) is
+position. In the "Vishnu Purāna" <span id="fr_54"></span>[†](#fn_54.md) is
 the following story of a man raising himself to the throne of Indra.
 
 There was a war between the gods and demons; both parties inquired of
@@ -274,7 +274,7 @@ religious duties. When thus weakened, India fell upon and slew them.
 
 The most effectual way by which a mortal could obtain the position of
 Indra was by the sacrifice of a hundred horses; and, as will be seen in
-the account of Gangā, <span id="fr_55"></span>[\*](#fn_55) the Indra of
+the account of Gangā, <span id="fr_55"></span>[\*](#fn_55.md) the Indra of
 that time did not object to play the part of a thief, so as to prevent
 the completion of the rites by which he was to be deprived of his
 sovereignty. The most common and generally successful method by which
@@ -287,7 +287,7 @@ some celestial nymphs; called Apsaras, who, by their beauty, distracted
 the thoughts of the devotees, and rendered them unfit to offer this
 great sacrifice.
 
-In the "Vishnu Purāna," <span id="fr_56"></span>[\*](#fn_56) there is a
+In the "Vishnu Purāna," <span id="fr_56"></span>[\*](#fn_56.md) there is a
 legend of a conflict between Indra and Krishna, in which Indra is
 overcome. Krishna, accompanied by his wife Satyabhāmā, visits Indra in
 his heaven. On her arrival, this lady was most anxious to obtain
@@ -319,7 +319,7 @@ god and his wife. Indra in consequence lost his man- hood; and Ahalyā
 was doomed to live for many years
 
 invisible in a forest, until Rāma should come to restore her to her
-former state. <span id="fr_57"></span>[\*](#fn_57) Another account of
+former state. <span id="fr_57"></span>[\*](#fn_57.md) Another account of
 this curse of Gautama was that Indra was compelled to carry a thousand
 disgraceful marks upon his body, that all might know the sin of which he
 had been guilty. At the god's earnest request these were changed from
@@ -333,7 +333,7 @@ happiness a man can obtain, because he cannot remain there for ever.
 When his allotted years of happiness are over, he must return to earth
 and live other lives, until he becomes perfect and fit to enjoy the
 highest felicity—absorption into the Divine Being. The "Vishnu
-Purāna" <span id="fr_58"></span>[†](#fn_58) says: "Not in hell alone do
+Purāna" <span id="fr_58"></span>[†](#fn_58.md) says: "Not in hell alone do
 the souls of the deceased undergo pain: there is no cessation even in
 heaven; for its temporary inhabitant is ever tormented with the prospect
 of descending again to earth. Again must he be born upon earth, and
@@ -341,7 +341,7 @@ again must he die. Whatever is produced that is most acceptable to man
 becomes a seed whence springs the tree of sorrow."
 
 The home of Indra is situated on Mount Meru. <span
-id="fr_59"></span>[‡](#fn_59) It
+id="fr_59"></span>[‡](#fn_59.md) It
 
 <span id="page_62">p. 62</span>
 
@@ -353,7 +353,7 @@ are adorned with beautiful and fragrant flowers. Most beautiful nymphs
 unrivalled in the universe, discourse sweet music. The city was built by
 Visvakarma. It is eight hundred miles in circumference, and forty miles
 high. Its pillars are diamonds; its palaces, thrones, and furniture,
-pure gold. <span id="fr_60"></span>[\*](#fn_60)
+pure gold. <span id="fr_60"></span>[\*](#fn_60.md)
 
 In Bengal this deity is worshipped one day in each year. His image is
 made of mud, prettily painted; on the day after it has been worshipped
@@ -376,7 +376,7 @@ heaven.
 ##### 2. INDRĀNI.
 
 Of Indrāni, the wife of Indra (called also Sachi), very little is said.
-In the Rig-Veda <span id="fr_61"></span>[\*](#fn_61) we read, "Among all
+In the Rig-Veda <span id="fr_61"></span>[\*](#fn_61.md) we read, "Among all
 females Indrāni is the most fortunate; for her husband shall not at any
 future time die of old age." This may be explained by the fact that
 Indrāni is wife to all who successively attain to the throne of Indra.
@@ -395,7 +395,7 @@ the pains attendant on childbirth, and was able to nurse him.
 There are a few hymns addressed to this deity in the Rig-Veda; but from
 the character and functions ascribed to him it is difficult to see
 wherein he differs from Indra. Professor Roth <span
-id="fr_62"></span>[†](#fn_62) says, "Taking a review of the whole, we
+id="fr_62"></span>[†](#fn_62.md) says, "Taking a review of the whole, we
 find that Parjanya is a god who presides over the lightning, the
 thunder, the rain, and the procreation of plants and living creatures.
 But it is by no means clear whether he is originally a god of the rain,
@@ -408,7 +408,7 @@ and nourisher of plants and living creatures. Seeing that the hymns
 addressed to this deity are so very similar to those sung to Indra, may
 not Parjanya (whose name signifies one acting for another) be merely
 another name for Indra? " In these hymns are the following
-passages, <span id="fr_63"></span>[\*](#fn_63) all of which are in
+passages, <span id="fr_63"></span>[\*](#fn_63.md) all of which are in
 perfect harmony with those in honour of Indra:—"Laud Parjanya, worship
 him with reverence—the procreative and stimulating fructifier. . . . He
 splits the trees; he destroys the Rakshasas (cloud demons who withhold
@@ -440,14 +440,14 @@ regarded, equally with him, as representing or ruling over the
 atmosphere. He won the race for the first draught of the Soma juice;
 and, at Indra's request, allowed him to have a quarter of it. He does
 not occupy a very prominent position in the Vedic hymns. In one
-passage <span id="fr_64"></span>[\*](#fn_64) we read, "The two worlds
+passage <span id="fr_64"></span>[\*](#fn_64.md) we read, "The two worlds
 (heaven and earth) generated him for wealth." This may be intended to
 teach his parentage; and Dr. Muir says that he is not aware of any other
 passage where his
 
 <span id="img_06500"></span> <span align="CENTER">
 [![VĀYU.](tn/06500.jpg)  
-Click to enlarge](img/06500.jpg)  
+Click to enlarge](img/06500.jpg.md)  
 VĀYU.  
 </span>
 
@@ -456,7 +456,7 @@ parentage is declared. He is said to be the son-in-law of Tvastri
 is mentioned, and, as was noticed in the account of Surya, he was said
 to be husband of this girl.
 
-Vāyu is described <span id="fr_65"></span>[†](#fn_65) as being most
+Vāyu is described <span id="fr_65"></span>[†](#fn_65.md) as being most
 handsome in form; one who moves noisily in a shining car, drawn by a
 pair of red or purple horses. At times the number of horses is increased
 to ninety-nine, a hundred, or even a thousand.
@@ -469,7 +469,7 @@ connection with the Maruts (storm-deities), though in one place he is
 said to have begotten them by the rivers of heaven.
 
 Another name for Vāyu in the Vedas is Vāta. The praise of Vāta is sung
-in the following hymn:— <span id="fr_66"></span>[\*](#fn_66) (I
+in the following hymn:— <span id="fr_66"></span>[\*](#fn_66.md) (I
 celebrate) the glory of Vāta's chariot; his noise comes rending and
 resounding. Touching the sky, he moves onward, making all things ruddy;
 and he comes propelling the dust of the earth. The gusts of air rush
@@ -510,7 +510,7 @@ are called the sons of Rudra. They are the companions of Indra; at times
 they worship him, and thus acknowledge his superiority; at others they
 seem to assert their inherent power, and remind Indra of the aid they
 have given him. They are addressed in the following strain:— <span
-id="fr_67"></span>[\*](#fn_67) "Spears rest upon your shoulders, ye
+id="fr_67"></span>[\*](#fn_67.md) "Spears rest upon your shoulders, ye
 Maruts; ye have anklets on your feet, golden ornaments on your breasts,
 lustre in your ears, fiery lightnings in your hands, and golden helmets
 placed on your heads." They are armed with golden weapons and
@@ -522,7 +522,7 @@ mountains to quake. They were accustomed to the use of the soma; and
 were appealed to, to bring healing remedies, which are described as
 abiding in the (river) Sindhu, the seas, and the hills.
 
-In the "Vishnu Purāna" <span id="fr_68"></span>[†](#fn_68) we find quite
+In the "Vishnu Purāna" <span id="fr_68"></span>[†](#fn_68.md) we find quite
 a different account of the Maruts. They are there said to be the sons of
 Kasyapa and Diti. Diti having lost her children, propitiated her
 husband, who promised her a boon. She
@@ -560,30 +560,30 @@ controlling them.
 
 ### Footnotes
 
-<span id="fn_50"></span>[55:\*](hmvp11.htm#fr_50) See part ii. chap. iv.
+<span id="fn_50"></span>[55:\*](hmvp11.htm#fr_50.md) See part ii. chap. iv.
 
-<span id="fn_51"></span>[55:†](hmvp11.htm#fr_51) Muir, O. S. T., v. 126.
+<span id="fn_51"></span>[55:†](hmvp11.htm#fr_51.md) Muir, O. S. T., v. 126.
 
-<span id="fn_52"></span>[56:\*](hmvp11.htm#fr_52) See chap. viii.
+<span id="fn_52"></span>[56:\*](hmvp11.htm#fr_52.md) See chap. viii.
 
-<span id="fn_53"></span>[58:\*](hmvp11.htm#fr_53) See part ii, chap. x.
+<span id="fn_53"></span>[58:\*](hmvp11.htm#fr_53.md) See part ii, chap. x.
 
-<span id="fn_54"></span>[58:†](hmvp11.htm#fr_54) Book iv. chap. ix.
+<span id="fn_54"></span>[58:†](hmvp11.htm#fr_54.md) Book iv. chap. ix.
 
-<span id="fn_55"></span>[59:\*](hmvp11.htm#fr_55) Part iii. chap. viii.
+<span id="fn_55"></span>[59:\*](hmvp11.htm#fr_55.md) Part iii. chap. viii.
 
-<span id="fn_56"></span>[60:\*](hmvp11.htm#fr_56) Book v. chap. xxx.
+<span id="fn_56"></span>[60:\*](hmvp11.htm#fr_56.md) Book v. chap. xxx.
 
-<span id="fn_57"></span>[61:\*](hmvp11.htm#fr_57) One result of this sin
+<span id="fn_57"></span>[61:\*](hmvp11.htm#fr_57.md) One result of this sin
 of India was the fact that a son of Rāvana, a demon king, who ruled in
 Ceylon, was able to carry him off as a captive, when he made war upon
 the gods; and it was not until Brahmā promised immortality to this
 warrior, that he consented to release his prisoner. Brahmā gave this
 prince the name of Indrajita (conqueror of Indra).
 
-<span id="fn_58"></span>[61:†](hmvp11.htm#fr_58) Book vi. chap. v.
+<span id="fn_58"></span>[61:†](hmvp11.htm#fr_58.md) Book vi. chap. v.
 
-<span id="fn_59"></span>[61:‡](hmvp11.htm#fr_59) Meru is a fabulous
+<span id="fn_59"></span>[61:‡](hmvp11.htm#fr_59.md) Meru is a fabulous
 mountain, supposed to be the centre of the <span id="page_62">p.
 62</span> earth. It is believed to be somewhere to the north of the
 Himalayas. The heavens of the other gods are situated in its vicinity.
@@ -592,29 +592,29 @@ would seen that the Indo-Aryans retained pleasant recollections of the
 place whence they migrated; or perhaps the inaccessibility of these
 mountains was a reason for heaven being placed on their summits.
 
-<span id="fn_60"></span>[62:\*](hmvp11.htm#fr_60) "Mahābhārata," quoted
+<span id="fn_60"></span>[62:\*](hmvp11.htm#fr_60.md) "Mahābhārata," quoted
 by Ward, ii. 36.
 
-<span id="fn_61"></span>[63:\*](hmvp11.htm#fr_61) Muir, O. S. T., v. 82.
+<span id="fn_61"></span>[63:\*](hmvp11.htm#fr_61.md) Muir, O. S. T., v. 82.
 
-<span id="fn_62"></span>[63:†](hmvp11.htm#fr_62) Ibid. v, 142.
+<span id="fn_62"></span>[63:†](hmvp11.htm#fr_62.md) Ibid. v, 142.
 
-<span id="fn_63"></span>[64:\*](hmvp11.htm#fr_63) Muir, O. S. T., v.
+<span id="fn_63"></span>[64:\*](hmvp11.htm#fr_63.md) Muir, O. S. T., v.
 140.
 
-<span id="fn_64"></span>[65:\*](hmvp11.htm#fr_64) Muir, O. S. T., v.
+<span id="fn_64"></span>[65:\*](hmvp11.htm#fr_64.md) Muir, O. S. T., v.
 140.
 
-<span id="fn_65"></span>[65:†](hmvp11.htm#fr_65) Ibid. v. 143.
+<span id="fn_65"></span>[65:†](hmvp11.htm#fr_65.md) Ibid. v. 143.
 
-<span id="fn_66"></span>[66:\*](hmvp11.htm#fr_66) Muir, O. S. T., v.
+<span id="fn_66"></span>[66:\*](hmvp11.htm#fr_66.md) Muir, O. S. T., v.
 146.
 
-<span id="fn_67"></span>[67:\*](hmvp11.htm#fr_67) Muir, O. S. T., v. 147
+<span id="fn_67"></span>[67:\*](hmvp11.htm#fr_67.md) Muir, O. S. T., v. 147
 ff.
 
-<span id="fn_68"></span>[67:†](hmvp11.htm#fr_68) Book i. chap. xxi.
+<span id="fn_68"></span>[67:†](hmvp11.htm#fr_68.md) Book i. chap. xxi.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Soma](hmvp12)
+[Next: Chapter VIII. Soma](hmvp12.md)

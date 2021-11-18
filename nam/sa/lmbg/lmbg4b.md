@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](lmbg4a) [Next](lmbg5a)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](lmbg4a) [Next](lmbg5a.md)
 
 ------------------------------------------------------------------------
 
@@ -1698,7 +1698,7 @@ Calls, to "<em>come</em>'" to Him and "<em>rest</em>."<br />
 
 ------------------------------------------------------------------------
 
-[Next](lmbg5a)
+[Next](lmbg5a.md)
 
 ------------------------------------------------------------------------
 
@@ -1706,7 +1706,7 @@ Calls, to "<em>come</em>'" to Him and "<em>rest</em>."<br />
 
 <span id="footnotes_page_127">p. 127</span>
 
-<span id="page_127_note_1"></span>[1](#page_127_fr_1) "Ahkoo," the
+<span id="page_127_note_1"></span>[1](#page_127_fr_1.md) "Ahkoo," the
 *agouti*, or *acouri*. This little animal takes the part which, in the
 corresponding Caribi legend, is given to "Maipuri," the *tapir*. The
 *tree* itself, the source of all cultivation, is the same in both; and
@@ -1719,41 +1719,41 @@ spread, point to a common origin at some remote period.
 
 <span id="footnotes_page_130">p. 130</span>
 
-<span id="page_130_note_1"></span>[1](#page_130_fr_1) "Arawata," in the
+<span id="page_130_note_1"></span>[1](#page_130_fr_1.md) "Arawata," in the
 Caribi; Spanish, "Araguato."
 
 <span id="footnotes_page_132">p. 132</span>
 
-<span id="page_132_note_1"></span>[1](#page_132_fr_1) A bush fowl,
+<span id="page_132_note_1"></span>[1](#page_132_fr_1.md) A bush fowl,
 called by the Acawoios "Okura."
 
-<span id="page_132_note_2"></span>[2](#page_132_fr_2) The tongue of the
+<span id="page_132_note_2"></span>[2](#page_132_fr_2.md) The tongue of the
 alligator, previous to this calamity, is supposed to have been long and
 flexible.
 
 <span id="footnotes_page_149">p. 149</span>
 
-<span id="page_149_note_1"></span>[1](#page_149_fr_1) Arrows thus
+<span id="page_149_note_1"></span>[1](#page_149_fr_1.md) Arrows thus
 pointed are believed by the natives to inflict greater agony than any
 other weapon; and the terror they inspire is often heightened by
 superstition.
 
 <span id="footnotes_page_153">p. 153</span>
 
-<span id="page_153_note_1"></span>[1](#page_153_fr_1) Archdeacon Jones
+<span id="page_153_note_1"></span>[1](#page_153_fr_1.md) Archdeacon Jones
 and myself, on the Upper Demerara, in 1865. That "Kanáima" murderer, we
 found, had followed his victim and friends from the vicinity of Roráima
 to Georgetown and back, killing him on his return.
 
 <span id="footnotes_page_154">p. 154</span>
 
-<span id="page_154_note_1"></span>[1](#page_154_fr_1) A set of jaguar's
+<span id="page_154_note_1"></span>[1](#page_154_fr_1.md) A set of jaguar's
 claws, hung up in sorcerer's hut, have the same threatening
 signification.
 
 <span id="footnotes_page_158">p. 158</span>
 
-<span id="page_158_note_1"></span>[1](#page_158_fr_1) In 1845, all the
+<span id="page_158_note_1"></span>[1](#page_158_fr_1.md) In 1845, all the
 Acawoios, and many Caribs, went to that man, near the river Cako. We
 were unable to stop the movement. They were so numerous that food could
 not be got, so the imposture collapsed under the weight of too great

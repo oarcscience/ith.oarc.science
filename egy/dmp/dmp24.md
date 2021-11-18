@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp23)  [Next](dmp25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp23)  [Next](dmp25.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ without fail at any time. Quick (*bis*), hasten (*bis*).'
 
 ------------------------------------------------------------------------
 
-[Next: Col. XXII](dmp25)
+[Next: Col. XXII](dmp25.md)

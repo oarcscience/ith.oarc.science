@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa09)  [Next](soa11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa09)  [Next](soa11.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ accretions of territory.
 
 ------------------------------------------------------------------------
 
-[Next: Third Map Period](soa11)
+[Next: Third Map Period](soa11.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa10)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa10.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 >
 > T<span class="small">HERE</span> are medicines which give chiefs
 > strength and presence;<span
-> id="page_417_fr_80"></span>[80](#page_417_note_80) a common man, who
+> id="page_417_fr_80"></span>[80](#page_417_note_80.md) a common man, who
 > is neither a chief nor a doctor, cannot touch this kind of medicine;
 > if any one among the chief's men were seen with it, he used to be
 > killed; it was said, "What are you intending to do with that?" For a
@@ -43,7 +43,7 @@
 > matter, they saw one among them who appeared to be cold, and saw him
 > fall down—a young man of the people of Unomsimekwane, the chief of the
 > nation of Umkcoseli.<span
-> id="page_418_fr_81"></span>[81](#page_418_note_81) And <span
+> id="page_418_fr_81"></span>[81](#page_418_note_81.md) And <span
 > id="page_419">p. 419</span> the people asked, "What is the matter with
 > the man?" And they looked at each other, and asked, "What is the
 > matter with you?"
@@ -66,7 +66,7 @@
 >  If common men are unable to restore such a person, it at length
 > becomes known to the great men; and people suffering in this way are
 > helped by the chief; he will cure him.<span
-> id="page_419_fr_82"></span>[82](#page_419_note_82)
+> id="page_419_fr_82"></span>[82](#page_419_note_82.md)
 >
 > <span id="page_420">p. 420</span>
 >
@@ -74,7 +74,7 @@
 > man that falls, he falls from mere disease. No, we distinguish
 > diseases which cause a man to fall. For amongst us if a man has an old
 > injury of the head<span
-> id="page_420_fr_83"></span>[83](#page_420_note_83) it may cause him to
+> id="page_420_fr_83"></span>[83](#page_420_note_83.md) it may cause him to
 > fall, and be affected with blindness, especially when the sun is
 > intensely bright. And he stretches himself and falls; we say, that is
 > occasioned by the old accident.
@@ -84,7 +84,7 @@
 > medicines about him; for as he is not one who is thoroughly acquainted
 > with medicines, therefore his medicines are overcome by others which
 > are stronger than they, and the owner of the medicines falls.<span
-> id="page_420_fr_84"></span>[84](#page_420_note_84)
+> id="page_420_fr_84"></span>[84](#page_420_note_84.md)
 >
 > <span id="page_421">p. 421</span>
 >
@@ -92,7 +92,7 @@
 > Mountain, there are two doctors who disputed with each other about
 > their skill. One said to the other, "So-and-so, you are utterly unable
 > to pluck umdhlebe,<span
-> id="page_421_fr_85"></span>[85](#page_421_note_85) though you are a
+> id="page_421_fr_85"></span>[85](#page_421_note_85.md) though you are a
 > doctor." The other said, "I can pluck it at once, as soon as I reach
 > it." I know both these men; one is called Usopetu, and the other
 > Upeteni. Usopetu said to Upeteni, "Upeteni, let us go together to the
@@ -118,7 +118,7 @@
 > medicines, and selected what was proper; he chewed them and puffed on
 > his body. He arose, thinking to go and pluck from the tree. And as he
 > carried his assagais that he might stab it, he stabbed it;<span
-> id="page_422_fr_86"></span>[86](#page_422_note_86) it moved violently;
+> id="page_422_fr_86"></span>[86](#page_422_note_86.md) it moved violently;
 > and would not allow him to approach it. He went back to other
 > medicines, and chewed them and puffed upon his body; and again went to
 > the tree, and stabbed it; it made a great noise; again and again he
@@ -136,7 +136,7 @@
 >
 >  Usopetu replied, "Yes! yes! You are about to be satisfied today that
 > I am a doctor; you are my boy."<span
-> id="page_423_fr_87"></span>[87](#page_423_note_87) Usopetu untied his
+> id="page_423_fr_87"></span>[87](#page_423_note_87.md) Usopetu untied his
 > medicines, and chewed some and puffed on Upeteni, and cured him. He
 > took his medicines, and went with them to the tree; he stabbed and it
 > made a great noise; he went back from it, and took other medicines and
@@ -155,7 +155,7 @@
 > with pain; there is no place where he can rest, but he moves up and
 > down continually. At length a doctor comes, and sees that the man has
 > been made ill by umbulelo,<span
-> id="page_424_fr_88"></span>[88](#page_424_note_88) that is, umdhlebe;
+> id="page_424_fr_88"></span>[88](#page_424_note_88.md) that is, umdhlebe;
 > he cures him, His treatment consists in ordering him to abstain from
 > drinking water, and not to eat amasi.
 >
@@ -211,11 +211,11 @@
 >
 >  That disease of the Amanthlwenga we are thoroughly acquainted with,
 > and know that it is a deadly disease. Its name is imbo.<span
-> id="page_426_fr_89"></span>[89](#page_426_note_89) We abstain from
-> calling<span id="page_426_fr_90"></span>[90](#page_426_note_90) the
+> id="page_426_fr_89"></span>[89](#page_426_note_89.md) We abstain from
+> calling<span id="page_426_fr_90"></span>[90](#page_426_note_90.md) the
 > tree umdhlebe; for we do not take its name in vain, for it is an awful
 > tree; just as the term ibubesi was not used, but we used to say
-> ingonyama.<span id="page_426_fr_91"></span>[91](#page_426_note_91)
+> ingonyama.<span id="page_426_fr_91"></span>[91](#page_426_note_91.md)
 >
 > <span id="page_427">p. 427</span>
 >
@@ -225,7 +225,7 @@
 >
 > I<span class="small">T</span> is said it is difficult even for men who
 > consider themselves knowing ones<span
-> id="page_427_fr_92"></span>[92](#page_427_note_92) to drink out of the
+> id="page_427_fr_92"></span>[92](#page_427_note_92.md) to drink out of the
 > cup of a chief; for if one thinks that he too is taking the cup, yet
 > forsooth there is not among his medicines one which he can trust; and
 > when he thinks he is about to drink, it is as if he had a stick
@@ -235,15 +235,15 @@
 >  The men in the house look at each other, and do not know what to say.
 > And the beer is handed back to the chief; and if he give it to a man
 > who is faultless,<span
-> id="page_427_fr_93"></span>[93](#page_427_note_93) he just drinks it,
+> id="page_427_fr_93"></span>[93](#page_427_note_93.md) he just drinks it,
 > and it goes down. And they say to the first, "O! Your conduct is evil.
 > Why could you not eat the food<span
-> id="page_427_fr_94"></span>[94](#page_427_note_94) of the chief?"
+> id="page_427_fr_94"></span>[94](#page_427_note_94.md) of the chief?"
 >
 >  As it happened also when it was said an army was about to go to <span
 > id="page_428">p. 428</span> fight against the Amahhahhaba.<span
-> id="page_428_fr_95"></span>[95](#page_428_note_95) Usomseu<span
-> id="page_428_fr_96"></span>[96](#page_428_note_96) sent men to
+> id="page_428_fr_95"></span>[95](#page_428_note_95.md) Usomseu<span
+> id="page_428_fr_96"></span>[96](#page_428_note_96.md) sent men to
 > Udumisa, for the army was mustered out of all the tribes on this side
 > the Umkomanzi; and on this side the Umgeni Umkqundane was chief
 > officer; and on the other side the Umgeni, Ungoza. And the men who
@@ -259,7 +259,7 @@
 > and say one to another, "Oh, can it be that Udumisa is doing that
 > which we have heard mentioned, viz., that if a chief has practised
 > <span id="page_429">p. 429</span> magic on a bullock,<span
-> id="page_429_fr_97"></span>[97](#page_429_note_97) it does not get
+> id="page_429_fr_97"></span>[97](#page_429_note_97.md) it does not get
 > cooked, until heaps of firewood are burnt? This is what it is, for all
 > the firewood is burnt; we pour water into the pot, and it boils away,
 > and we add continually more water. When we wish to see, we see that
@@ -272,11 +272,11 @@
 > this? for he is not our enemy. For we know that this is done by one
 > chief to another, that he may see and say, 'If I fight with So-and-so
 > he will not be conquered,<span
-> id="page_430_fr_98"></span>[98](#page_430_note_98) but it is I myself
+> id="page_430_fr_98"></span>[98](#page_430_note_98.md) but it is I myself
 > that shall be conquered.'"
 >
 >  So they returned, and went at once to the chief.<span
-> id="page_430_fr_99"></span>[99](#page_430_note_99) And when the chief
+> id="page_430_fr_99"></span>[99](#page_430_note_99.md) And when the chief
 > heard that Udumisa had done this, he summoned him to appear before
 > him. When he came, it was said to him, "Udumisa, we have summoned you
 > on account of this report, to know whether it is true that you gave
@@ -284,7 +284,7 @@
 > thoroughly cooked?"
 >
 >  But Udumisa said in reply, "O, chiefs,<span
-> id="page_430_fr_1"></span>[1](#page_430_note_1) I do not know what to
+> id="page_430_fr_1"></span>[1](#page_430_note_1.md) I do not know what to
 > say, for I gave them a bullock. But if they did not kindle a fire to
 > cook it, do you say that it is I who ought to have gone out and
 > fetched firewood for them?"
@@ -309,9 +309,9 @@
 > *The Magic of Ufaku.*
 >
 > T<span class="small">HE</span> account of the magic of Ufaku,<span
-> id="page_431_fr_2"></span>[2](#page_431_note_2) the son of
+> id="page_431_fr_2"></span>[2](#page_431_note_2.md) the son of
 > Ungqungqushe, which he practised on Uncapayi,<span
-> id="page_431_fr_3"></span>[3](#page_431_note_3) the son of Umadikane.
+> id="page_431_fr_3"></span>[3](#page_431_note_3.md) the son of Umadikane.
 >
 >  Uncapayi married a daughter of Ufaku, the sister of Undamase. One day
 > Ufaku sent one of his men to go to Uncapayi by night whilst he was
@@ -321,7 +321,7 @@
 >
 >  Ufaku worked on the ornament with his magical knowledge. And one
 > night he called Uncapayi, having practised magic on him; he called him
-> by name,<span id="page_432_fr_4"></span>[4](#page_432_note_4) not
+> by name,<span id="page_432_fr_4"></span>[4](#page_432_note_4.md) not
 > shouting aloud, but calling him, and using the medicines with which he
 > was acquainted.
 >
@@ -357,7 +357,7 @@
 > talk in the morning." So they went to sleep.
 >
 >  In the morning Ufaku assembled his troops that they might go out to
-> battle.<span id="page_433_fr_5"></span>[5](#page_433_note_5) But the
+> battle.<span id="page_433_fr_5"></span>[5](#page_433_note_5.md) But the
 > soldiers of Uncapayi which followed him were very few in number. Ufaku
 > said, "I cannot kill my child's husband. Let him go home."
 >
@@ -376,20 +376,20 @@
 >
 > T<span class="small">HERE</span> are mally kinds of plants which are
 > called intelezi. Intelezi is a thing of this kind:<span
-> id="page_434_fr_6"></span>[6](#page_434_note_6) when a man goes to
+> id="page_434_fr_6"></span>[6](#page_434_note_6.md) when a man goes to
 > wash he docs not wash with water only, like women; it is women only
 > who wash with water only; when a man goes to wash he picks several
 > kinds of intelezi; and when he has come to the river he looks for a
 > pebble, and sits down and bruises the intelezi;<span
-> id="page_434_fr_7"></span>[7](#page_434_note_7) when he has bruised
+> id="page_434_fr_7"></span>[7](#page_434_note_7.md) when he has bruised
 > them he pours a little water on them, and squeezes them in both his
 > hands; he raises his hands over his head; and as the water <span
 > id="page_435">p. 435</span> which runs out of the bruised leaves and
-> stalks<span id="page_435_fr_8"></span>[8](#page_435_note_8) of the
+> stalks<span id="page_435_fr_8"></span>[8](#page_435_note_8.md) of the
 > intelezi descends by both his arms, it escapes at his feet; and he
 > pours some into his mouth, that he may squirt it in the direction of
 > where he has received an injury;<span
-> id="page_435_fr_9"></span>[9](#page_435_note_9) if he has no enemy he
+> id="page_435_fr_9"></span>[9](#page_435_note_9.md) if he has no enemy he
 > does not squirt in this manner; he then rubs his whole body, and
 > throws the remains on the grass. He then washes the pebble with which
 > he bruised the intelezi, and the rock on which he bruised it, and
@@ -401,7 +401,7 @@
 > his arms, after that he pours water over his body with both his hands;
 > then throws it over each shoulder, until he has washed the whole body,
 > when he dresses and goes out of the water.<span
-> id="page_435_fr_10"></span>[10](#page_435_note_10)
+> id="page_435_fr_10"></span>[10](#page_435_note_10.md)
 >
 >  He washes himself therefore with intelezi, that though he should meet
 > with danger whilst travelling, <span id="page_436">p. 436</span> he
@@ -411,16 +411,16 @@
 >
 >  Black men trust very much to intelezi; for at all times when a man is
 > about to wash he takes intelezi. But when he has gone to the ford<span
-> id="page_436_fr_11"></span>[11](#page_436_note_11) he does not take
+> id="page_436_fr_11"></span>[11](#page_436_note_11.md) he does not take
 > intelezi, but washes with water only; for he quits his hut when it is
 > still dark, and he cannot see intelezi;<span
-> id="page_436_fr_12"></span>[12](#page_436_note_12) further, he does
+> id="page_436_fr_12"></span>[12](#page_436_note_12.md) further, he does
 > not wash with intelezi under such circumstances, because the ford is
 > said to be a bad thing;<span
-> id="page_436_fr_13"></span>[13](#page_436_note_13) and although a man
+> id="page_436_fr_13"></span>[13](#page_436_note_13.md) and although a man
 > has medicines to which he trusts, he cannot go to them to touch them;
 > and if he has great need to touch his medicines, he searches for
-> izilumulo<span id="page_436_fr_14"></span>[14](#page_436_note_14)
+> izilumulo<span id="page_436_fr_14"></span>[14](#page_436_note_14.md)
 > among them, and uses them, and then he will untie his medicines,
 > having put them in safety, and then his medicines come to no harm.
 >
@@ -452,38 +452,38 @@
 > associate with his wife; they abstain excessively; for if a man, when
 > the army is going out, and the men have been treated with intelezi,
 > associate with his wife, he kills himself, making his own eyes
-> dark.<span id="page_438_fr_15"></span>[15](#page_438_note_15) No man
+> dark.<span id="page_438_fr_15"></span>[15](#page_438_note_15.md) No man
 > sins against the law of intelezi; if he does, he kills himself. For on
 > the day the army is summoned and assembles at the chief's, the chief
 > slaughters cattle, and they are then skinned; the first meat they eat
 > is black, being always smeared with umsizi."<span
-> id="page_438_fr_16"></span>[16](#page_438_note_16) All eat the meat,
+> id="page_438_fr_16"></span>[16](#page_438_note_16.md) All eat the meat,
 > each a slice, that they may be brave, and not fearful. When the doctor
 > has finished sprinkling the army, the chief<span
-> id="page_438_fr_17"></span>[17](#page_438_note_17) comes into the
+> id="page_438_fr_17"></span>[17](#page_438_note_17.md) comes into the
 > midst of it and talks with it, lauding the Amatongo of their people.
 > In conclusion the chief says, "Troops of our people, who did such and
 > such great actions,<span
-> id="page_438_fr_18"></span>[18](#page_438_note_18) I shall hear of
+> id="page_438_fr_18"></span>[18](#page_438_note_18.md) I shall hear of
 > your doings. There is the sun in the sky; I have this day given the
 > enemy into the hands of such and such a regiment; and I direct such
 > and <span id="page_439">p. 439</span> such a regiment to follow it. I
 > do not know for my part what more I could do. If you do not conquer,
 > you will disgrace yourselves.<span
-> id="page_439_fr_19"></span>[19](#page_439_note_19) My father was a
+> id="page_439_fr_19"></span>[19](#page_439_note_19.md) My father was a
 > brave; there was never known to be a coward amongst us. Let the
 > assagais wound you in front; let there be no wound in the back. If I
 > see you coming back conquered I will kill you; you will find no place
 > for you here at home; I too am an enemy if you are cowards."
 >
 >  Then there is no end of leaping and brandishing of weapons. Some
-> devote<span id="page_439_fr_20"></span>[20](#page_439_note_20) the
+> devote<span id="page_439_fr_20"></span>[20](#page_439_note_20.md) the
 > villages of their fathers, saying, "For my part, if I do not stab the
 > enemy, I give you the whole village of my family." But if it is a
 > chief who does not wish a boy to devote his fathers village whilst his
 > father is living, he says, "No. Do not devote the villages of other
 > men." Another says, "You speak the truth, leopard.<span
-> id="page_439_fr_21"></span>[21](#page_439_note_21) For my part I
+> id="page_439_fr_21"></span>[21](#page_439_note_21.md) For my part I
 > devote my own head, that if I do nothing, you may kill me; that is
 > all. That is what I devote." All say the same. Some do not know what
 > to say, and are silent.
@@ -500,12 +500,12 @@
 > "This little coward who resembles his mother! Where is the enemy which
 > you give us to fight with? We wish to see it with our eyes." He then
 > sends out his army.<span
-> id="page_440_fr_22"></span>[22](#page_440_note_22)
+> id="page_440_fr_22"></span>[22](#page_440_note_22.md)
 >
 >  Under these circumstances no black woman draws near, but they go to a
 > distance; those who approach are old women who have passed the time of
 > childbearing, and have become men;<span
-> id="page_440_fr_23"></span>[23](#page_440_note_23) it is they only who
+> id="page_440_fr_23"></span>[23](#page_440_note_23.md) it is they only who
 > go near the army; all the young women go to a distance from it.
 >
 >  So the army sets out from home singing its song, for it is as if they
@@ -521,7 +521,7 @@
 >
 >  And if there is any one who has just been married, and the enemy
 > stabs him at the very first onset, it is said, "The lap of that woman
-> is unlucky.<span id="page_441_fr_24"></span>[24](#page_441_note_24)
+> is unlucky.<span id="page_441_fr_24"></span>[24](#page_441_note_24.md)
 > Why has her husband died before any thing was done? Her lap is
 > unlucky."
 >
@@ -532,7 +532,7 @@
 > off."
 >
 >  There is a custom<span
-> id="page_441_fr_25"></span>[25](#page_441_note_25) which is carried
+> id="page_441_fr_25"></span>[25](#page_441_note_25.md) which is carried
 > out by the doctor when an army is about to take the field, which is a
 > sign by which it is <span id="page_442">p. 442</span> known whether
 > the army will be conquered or conquer. For when the army is assembled
@@ -541,10 +541,10 @@
 > army or not. And if they see that it is contemptible in their eyes,
 > they say to the chief, "No, O chief! The army which is assembled this
 > day we can not see; it is contemptible.<span
-> id="page_442_fr_26"></span>[26](#page_442_note_26) How is it that the
+> id="page_442_fr_26"></span>[26](#page_442_note_26.md) How is it that the
 > army is without awfulness, and weight in our sight? No; we do not see
 > an army. It is light; it has not been properly handled.<span
-> id="page_442_fr_27"></span>[27](#page_442_note_27) Return and set the
+> id="page_442_fr_27"></span>[27](#page_442_note_27.md) Return and set the
 > army to rights, that it may be awful, that if one look on it, it may
 > not appear a common thing to him, but strike him with awe. This is not
 > an army." And indeed they again sprinkle it with intelezi, that it may
@@ -553,7 +553,7 @@
 >  And among black men if a man has just married, it is not liked that
 > he should go out with the army; for it is said, "It is not proper that
 > the husband should leave the bride as soon as she has covered her
-> head,"<span id="page_442_fr_28"></span>[28](#page_442_note_28) that
+> head,"<span id="page_442_fr_28"></span>[28](#page_442_note_28.md) that
 > is, manifested respect for her husband's <span id="page_443">p.
 > 443</span> people. He was not allowed to go out with the army, because
 > it was said, the enemy quickly stabs the man who has made his bride
@@ -564,7 +564,7 @@
 > any of the soldiers should marry; all were commanded not to marry,
 > that they might not be afraid. It used to be so amongst us, and we
 > were afraid for one to go out with the army leaving his young wife
-> behind.<span id="page_443_fr_29"></span>[29](#page_443_note_29)
+> behind.<span id="page_443_fr_29"></span>[29](#page_443_note_29.md)
 > Marriage was given up, because it was said, "O, no! for men will say,
 > 'A man who has a young bride will be afraid, because he loves his wife
 > rather than bravery.'" But there is now no longer the custom amongst
@@ -572,7 +572,7 @@
 >
 >  But there is still this custom: If a woman is pregnant, it is said,
 > even though a man is a water-doctor,<span
-> id="page_443_fr_30"></span>[30](#page_443_note_30) it is proper that
+> id="page_443_fr_30"></span>[30](#page_443_note_30.md) it is proper that
 > he should abstain from going into the water, for it is said he will be
 > quickly carried away by the water if his wife is pregnant.
 >
@@ -611,7 +611,7 @@
 > And the husbands, although at first they stay at home, yet because of
 > hunger and the anger of their wives, who are harassed by the birds and
 > have now bleeding<span
-> id="page_445_fr_31"></span>[31](#page_445_note_31) hearts, at length
+> id="page_445_fr_31"></span>[31](#page_445_note_31.md) hearts, at length
 > go out to assist the women against the enemy which is fighting with
 > them; and then the woman leaves her husband in the garden, and goes to
 > seek for food in a small garden plot which is more forward than the
@@ -654,7 +654,7 @@
 > eaten on that day by the birds. And it is all collected, and ground; a
 > frog is found, and stuffed till it is like a stuffed sack; and the
 > same is done to all isinana;<span
-> id="page_447_fr_32"></span>[32](#page_447_note_32) and then all is
+> id="page_447_fr_32"></span>[32](#page_447_note_32.md) and then all is
 > buried together, and a fire is kindled on the top, and a huge
 > fireplace is made; and the fire is kept up all night until morning.
 > The doctor says, "Watch the birds to-morrow and the day after, and see
@@ -687,7 +687,7 @@
 >
 > He says further, "Do you watch yourselves for my sake; let no man of
 > you go to his house;<span
-> id="page_448_fr_33"></span>[33](#page_448_note_33) it is proper that
+> id="page_448_fr_33"></span>[33](#page_448_note_33.md) it is proper that
 > you should guard your heart for my sake; then you will see my skill."
 >
 >  And having shut out the birds for two days, on the third they wash,
@@ -717,7 +717,7 @@
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [African](../index) [Index](index)
+[Sacred-Texts](../../index) [African](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -725,19 +725,19 @@
 
 <span id="footnotes_page_417">p. 417</span>
 
- <span id="page_417_note_80"></span>[80](#page_417_fr_80) Lit., which
+ <span id="page_417_note_80"></span>[80](#page_417_fr_80.md) Lit., which
 make a chief stand, or which establish a chief; that is, make him strong
 in the face of danger, or give him presence before others, by which he
 is recognised at once as the chief.
 
 <span id="footnotes_page_418">p. 418</span>
 
- <span id="page_418_note_81"></span>[81](#page_418_fr_81) *Umkcoseli*,
+ <span id="page_418_note_81"></span>[81](#page_418_fr_81.md) *Umkcoseli*,
 the unkulunkulu or founder of the tribe.
 
 <span id="footnotes_page_419">p. 419</span>
 
- <span id="page_419_note_82"></span>[82](#page_419_fr_82) The chief
+ <span id="page_419_note_82"></span>[82](#page_419_fr_82.md) The chief
 collects to himself all medicines of known power; each doctor has his
 own special medicine or medicines, and treats some special form of
 disease, and the knowledge of such medicines is transmitted <span
@@ -751,14 +751,14 @@ has obtained some medicine of real or supposed great power from a
 doctor, he manages to poison the doctor, lest he should carry the secret
 to another and it be used against himself.
 
- <span id="page_420_note_83"></span>[83](#page_420_fr_83) An injury of
+ <span id="page_420_note_83"></span>[83](#page_420_fr_83.md) An injury of
 the head is always a cause of anxiety to natives, especially one which
 has caused depression of the bone, which the natives usually treat by
 cutting down to the bone, and scraping it, often leaving a deep
 depression. Such injuries are always referred to as the cause of all
 future diseases.
 
- <span id="page_420_note_84"></span>[84](#page_420_fr_84) That is, an
+ <span id="page_420_note_84"></span>[84](#page_420_fr_84.md) That is, an
 inexperienced man bears about him powerful medicines, and therefore the
 medicines of another become aware that there is an opponent at hand, and
 contend with the medicines till they are <span
@@ -769,14 +769,14 @@ who bears no such medicine does not suffer; not being a centre of
 influence, he is not a centre of attraction, and so, being neutral,
 escapes.
 
- <span id="page_421_note_85"></span>[85](#page_421_fr_85) *Umdhlebe*, a
+ <span id="page_421_note_85"></span>[85](#page_421_fr_85.md) *Umdhlebe*, a
 tree, which is probably a kind of Aspen. In some respects it reminds us
 of the Upas. But much that is said about it is doubtless fabulous and
 wholly untrustworthy.
 
 <span id="footnotes_page_422">p. 422</span>
 
- <span id="page_422_note_86"></span>[86](#page_422_fr_86) He stabbed it
+ <span id="page_422_note_86"></span>[86](#page_422_fr_86.md) He stabbed it
 by throwing his assagai, standing at a distance, not by approaching it
 so as to stab it without throwing. When the tree is pierced, it is said
 to throw out of the wound a water, with a hissing noise; and if the
@@ -785,33 +785,33 @@ him if he is not treated by a skilful doctor.
 
 <span id="footnotes_page_423">p. 423</span>
 
- <span id="page_423_note_87"></span>[87](#page_423_fr_87) You are my
+ <span id="page_423_note_87"></span>[87](#page_423_fr_87.md) You are my
 boy. That is, I am a man in my knowledge; you are but a boy. You are my
 pupil.
 
 <span id="footnotes_page_424">p. 424</span>
 
- <span id="page_424_note_88"></span>[88](#page_424_fr_88) *Umbulelo*, a
+ <span id="page_424_note_88"></span>[88](#page_424_fr_88.md) *Umbulelo*, a
 gen. term for destructive medicines, of which *umdhlebe* is one.
 
 <span id="footnotes_page_426">p. 426</span>
 
- <span id="page_426_note_89"></span>[89](#page_426_fr_89) *Imbo* is a
+ <span id="page_426_note_89"></span>[89](#page_426_fr_89.md) *Imbo* is a
 term applied to any severe epidemic or endemic disease, as acute
 dysentery, fever, &c.
 
- <span id="page_426_note_90"></span>[90](#page_426_fr_90) That is, its
+ <span id="page_426_note_90"></span>[90](#page_426_fr_90.md) That is, its
 name is *hlonipa’d*. It is "tapu," and must not be called by name.
 
- <span id="page_426_note_91"></span>[91](#page_426_fr_91) *Ibubesi*, a
+ <span id="page_426_note_91"></span>[91](#page_426_fr_91.md) *Ibubesi*, a
 lion; *ingonyama*, the name by which it is usually spoken of.
 
 <span id="footnotes_page_427">p. 427</span>
 
- <span id="page_427_note_92"></span>[92](#page_427_fr_92) *Izazi*,
+ <span id="page_427_note_92"></span>[92](#page_427_fr_92.md) *Izazi*,
 knowing ones, magicians.
 
- <span id="page_427_note_93"></span>[93](#page_427_fr_93) *Who is
+ <span id="page_427_note_93"></span>[93](#page_427_fr_93.md) *Who is
 faultless*, that is, to one who does not use those strong medicines
 which are supposed to be possessed of magical properties. The doctor is
 using medicines similar in character to those which the chief is using,
@@ -820,24 +820,24 @@ their power. He is, as it were, an enemy in the presence of an enemy
 more powerful than himself. The common man not being under the influence
 of medicines is not in a state of antagonism with those who use them.
 
- <span id="page_427_note_94"></span>[94](#page_427_fr_94) *Food*. Beer,
+ <span id="page_427_note_94"></span>[94](#page_427_fr_94.md) *Food*. Beer,
 *utshwala*, is called food, and is said to be eaten; to distinguish it
 from solid food, it is sometimes called *ukudhlana*—light food; or
 *amanzana*—waterish food.
 
 <span id="footnotes_page_428">p. 428</span>
 
- <span id="page_428_note_95"></span>[95](#page_428_fr_95) *Amahhahhaba*,
+ <span id="page_428_note_95"></span>[95](#page_428_fr_95.md) *Amahhahhaba*,
 a tribe among the Amakxosa Kafirs, probably a sub-tribe of the
 Amagcaleka, called by Dugmore, Amakhakhabe. (*Compendium of Kafir Laws
 and Customs, p.* 10.)
 
- <span id="page_428_note_96"></span>[96](#page_428_fr_96) *Usomseu*, Mr.
+ <span id="page_428_note_96"></span>[96](#page_428_fr_96.md) *Usomseu*, Mr.
 Shepstone.
 
 <span id="footnotes_page_429">p. 429</span>
 
- <span id="page_429_note_97"></span>[97](#page_429_fr_97)
+ <span id="page_429_note_97"></span>[97](#page_429_fr_97.md)
 
 >  Ukulinga inkomo—to bewitch or practise ruagic on a bullock—is for the
 > purpose of causing it to lose its natural properties; it is done in
@@ -860,28 +860,28 @@ Shepstone.
 
 <span id="footnotes_page_430">p. 430</span>
 
- <span id="page_430_note_98"></span>[98](#page_430_fr_98) Lit., cooked,
+ <span id="page_430_note_98"></span>[98](#page_430_fr_98.md) Lit., cooked,
 or boiled.
 
- <span id="page_430_note_99"></span>[99](#page_430_fr_99) *The chief*,
+ <span id="page_430_note_99"></span>[99](#page_430_fr_99.md) *The chief*,
 Mr. Shepstone.
 
- <span id="page_430_note_1"></span>[1](#page_430_fr_1) *Chiefs*.—All
+ <span id="page_430_note_1"></span>[1](#page_430_fr_1.md) *Chiefs*.—All
 superior white men are so called, especially those sitting with a
 magistrate; and government officials.
 
 <span id="footnotes_page_431">p. 431</span>
 
- <span id="page_431_note_2"></span>[2](#page_431_fr_2) Ufaku, a great
+ <span id="page_431_note_2"></span>[2](#page_431_fr_2.md) Ufaku, a great
 chief of the Amampondo, now dead.
 
- <span id="page_431_note_3"></span>[3](#page_431_fr_3) Uncapayi, by
+ <span id="page_431_note_3"></span>[3](#page_431_fr_3.md) Uncapayi, by
 descent a chief of a tribe of Amabakca, who raised himself to some
 position by his personal qualities as a leader.
 
 <span id="footnotes_page_432">p. 432</span>
 
- <span id="page_432_note_4"></span>[4](#page_432_fr_4) Calling him by
+ <span id="page_432_note_4"></span>[4](#page_432_fr_4.md) Calling him by
 name; that is, whilst practising magical arts he called Uncapayi by
 name, that the magic might take effect on him, and not on another.
 
@@ -897,7 +897,7 @@ intended to kill thee." (*Id., p.* 123.) See also p. 132 and p. 153.
 
 <span id="footnotes_page_433">p. 433</span>
 
- <span id="page_433_note_5"></span>[5](#page_433_fr_5) Although, as is
+ <span id="page_433_note_5"></span>[5](#page_433_fr_5.md) Although, as is
 supposed, Ufaku had by magical charms forced Uncapayi to come to him
 alone, yet when he was there in his power, Ufaku relented, and was
 unable to kill his son-in-law. But he could not be comfortable till he
@@ -906,21 +906,21 @@ them out on a raid against some neighbouring tribe.
 
 <span id="footnotes_page_434">p. 434</span>
 
- <span id="page_434_note_6"></span>[6](#page_434_fr_6) This cannot be
+ <span id="page_434_note_6"></span>[6](#page_434_fr_6.md) This cannot be
 rendered literally, so as to be intelligible to the English reader. It
 is very common for the Zulu thus to introduce a subject in an elliptical
 manner, "Intelezi is a thing which:—when a man goes to wash," &c.
 
- <span id="page_434_note_7"></span>[7](#page_434_fr_7) Properly
+ <span id="page_434_note_7"></span>[7](#page_434_fr_7.md) Properly
 *izintelezi*, the plural, for there are many kinds.
 
 <span id="footnotes_page_435">p. 435</span>
 
- <span id="page_435_note_8"></span>[8](#page_435_fr_8) By *ikambi
+ <span id="page_435_note_8"></span>[8](#page_435_fr_8.md) By *ikambi
 lezintelezi* we are to understand the green portions of the plants,
 leaves, and stalks, when bruised.
 
- <span id="page_435_note_9"></span>[9](#page_435_fr_9) This system of
+ <span id="page_435_note_9"></span>[9](#page_435_fr_9.md) This system of
 squirting water containing medicine from the mouth, is a very common
 custom among the natives, in the efficacy of which they have great
 faith. It is practised to ward off a danger which might arise from the
@@ -928,37 +928,37 @@ magical practices of another; it is also a defiance, and a means of
 sending evil to another. The custom of spitting in contempt is probably
 connected with some such superstition.
 
- <span id="page_435_note_10"></span>[10](#page_435_fr_10) The native
+ <span id="page_435_note_10"></span>[10](#page_435_fr_10.md) The native
 dress is very simple, and during washing is placed on a rock close at
 hand; and the man stands in the water whilst washing, and does not go
 out of the water till he has dressed.
 
 <span id="footnotes_page_436">p. 436</span>
 
- <span id="page_436_note_11"></span>[11](#page_436_fr_11) I do not
+ <span id="page_436_note_11"></span>[11](#page_436_fr_11.md) I do not
 explain this. The Zulu scholar will understand the meaning of the
 metaphor.
 
- <span id="page_436_note_12"></span>[12](#page_436_fr_12) That is,
+ <span id="page_436_note_12"></span>[12](#page_436_fr_12.md) That is,
 distinguish it from other plants.
 
- <span id="page_436_note_13"></span>[13](#page_436_fr_13) Influences
+ <span id="page_436_note_13"></span>[13](#page_436_fr_13.md) Influences
 other things for evil, and if the medicines be touched, their properties
 will be injuriously affected.
 
- <span id="page_436_note_14"></span>[14](#page_436_fr_14) *Izilumulo*, a
+ <span id="page_436_note_14"></span>[14](#page_436_fr_14.md) *Izilumulo*, a
 class of medicines which are chewed (*luma*), and the breath thus
 saturated by them puffed on the body, on medicines, &c., to protect them
 from evil.
 
 <span id="footnotes_page_ ">p.</span>
 
- <span id="page_438_note_15"></span>[15](#page_438_fr_15) That is, if he
+ <span id="page_438_note_15"></span>[15](#page_438_fr_15.md) That is, if he
 break the law of the intelezi-sprinkling or baptism, it is to his own
 injury, and when he goes into battle, he loses all power of
 discrimination, and is soon killed.
 
- <span id="page_438_note_16"></span>[16](#page_438_fr_16) *Umsizi*, a
+ <span id="page_438_note_16"></span>[16](#page_438_fr_16.md) *Umsizi*, a
 powder made of the dried flesh of various wild beasts,—leopard, lion,
 elephant, snakes, &c.,—the natives intending by the administering this
 compound to impart to the men the qualities of the several animals.
@@ -969,42 +969,42 @@ But it is said by others that this is dangerous, because it is apt to
 produce courage without prudence, and cause a man to rush on heedlessly
 to his death.
 
- <span id="page_438_note_17"></span>[17](#page_438_fr_17) Lit., the
+ <span id="page_438_note_17"></span>[17](#page_438_fr_17.md) Lit., the
 owner or master of the army, that is, the chief.
 
- <span id="page_438_note_18"></span>[18](#page_438_fr_18) Recounting the
+ <span id="page_438_note_18"></span>[18](#page_438_fr_18.md) Recounting the
 famous actions which they have done in battle.
 
 <span id="footnotes_page_439">p. 439</span>
 
- <span id="page_439_note_19"></span>[19](#page_439_fr_19) He means that
+ <span id="page_439_note_19"></span>[19](#page_439_fr_19.md) He means that
 he has done all that a chief can do to ensure them victory; and if they
 fail the fault will be their own, because it will arise from their
 having in some way failed to observe the conditions upon which the
 efficacy of the intelezi-baptism depends.
 
- <span id="page_439_note_20"></span>[20](#page_439_fr_20) Devote,—or
+ <span id="page_439_note_20"></span>[20](#page_439_fr_20.md) Devote,—or
 promise to give,—or vow to give,—*lay down*, as a votive offering.
 
- <span id="page_439_note_21"></span>[21](#page_439_fr_21) *Leopard*. The
+ <span id="page_439_note_21"></span>[21](#page_439_fr_21.md) *Leopard*. The
 natives magnify their chiefs by this title.
 
 <span id="footnotes_page_440">p. 440</span>
 
- <span id="page_440_note_22"></span>[22](#page_440_fr_22) *Impi* is used
+ <span id="page_440_note_22"></span>[22](#page_440_fr_22.md) *Impi* is used
 in this paragraph in the double sense of the enemy—*impi kubo*; and the
 chief's army—*impi yayo*.
 
- <span id="page_440_note_23"></span>[23](#page_440_fr_23) Old women are
+ <span id="page_440_note_23"></span>[23](#page_440_fr_23.md) Old women are
 called men, and no longer act as women, nor observe the customs of
 *hlonipa* in relation to the men.
 
 <span id="footnotes_page_441">p. 441</span>
 
- <span id="page_441_note_24"></span>[24](#page_441_fr_24) It is said of
+ <span id="page_441_note_24"></span>[24](#page_441_fr_24.md) It is said of
 such, *U ’matanga ’mabi*.
 
- <span id="page_441_note_25"></span>[25](#page_441_fr_25) This custom is
+ <span id="page_441_note_25"></span>[25](#page_441_fr_25.md) This custom is
 that of churning medicine in a pot of water. Two medicines are chosen;
 one represents the chief, the other the enemy. These medicines are
 placed is separate vessels; if that representing the enemy froths up
@@ -1018,36 +1018,36 @@ enemy does not froth.
 
 <span id="footnotes_page_442">p. 442</span>
 
- <span id="page_442_note_26"></span>[26](#page_442_fr_26) Lit.,
+ <span id="page_442_note_26"></span>[26](#page_442_fr_26.md) Lit.,
 *reddish*,—having nothing awful about it,—a thing we can look at without
 fear. And *awful*—lit., black, or dark—resembling the sky which is being
 overcast with dark clouds which threaten a coming tempest. But all this
 is a matter of *feeling* with the wise men.
 
- <span id="page_442_note_27"></span>[27](#page_442_fr_27) Viz., by the
+ <span id="page_442_note_27"></span>[27](#page_442_fr_27.md) Viz., by the
 doctor.
 
- <span id="page_442_note_28"></span>[28](#page_442_fr_28) A young bride,
+ <span id="page_442_note_28"></span>[28](#page_442_fr_28.md) A young bride,
 on reaching her husband's village, covers her head, as an intimation of
 respect for her husband's relatives, especially for his father.
 
 <span id="footnotes_page_443">p. 443</span>
 
- <span id="page_443_note_29"></span>[29](#page_443_fr_29) *Gobisile*,
+ <span id="page_443_note_29"></span>[29](#page_443_fr_29.md) *Gobisile*,
 who has taken a young wife.
 
- <span id="page_443_note_30"></span>[30](#page_443_fr_30) Not a
+ <span id="page_443_note_30"></span>[30](#page_443_fr_30.md) Not a
 hydropathic doctor; but a man whose occupation it is to enable others to
 cross deep rivers.
 
 <span id="footnotes_page_445">p. 445</span>
 
- <span id="page_445_note_31"></span>[31](#page_445_fr_31) That is, are
+ <span id="page_445_note_31"></span>[31](#page_445_fr_31.md) That is, are
 very angry.
 
 <span id="footnotes_page_447">p. 447</span>
 
- <span id="page_447_note_32"></span>[32](#page_447_fr_32) *Isinana* is a
+ <span id="page_447_note_32"></span>[32](#page_447_fr_32.md) *Isinana* is a
 Batrachian, which is found under stones. It has an almost globular body,
 and small short legs; it is covered with papillæ, which give out a milky
 fluid when touched. It is slow in its movements, not leaping, but
@@ -1055,9 +1055,9 @@ crawling. It is used much by the doctors.
 
 <span id="footnotes_page_448">p. 448</span>
 
- <span id="page_448_note_33"></span>[33](#page_448_fr_33) That is, they
+ <span id="page_448_note_33"></span>[33](#page_448_fr_33.md) That is, they
 are to abstain from their wives. Comp. [Exodus xix.
-15](../../bib/kjv/exo.htm#19:15). They also all abstain from eating any
+15](../../bib/kjv/exo.htm#19:15.md). They also all abstain from eating any
 thing growing in the gardens whilst the doctor is treating them, until
 they have washed. These are no doubt religious observances connected
 with some old and now forgotten superstition.

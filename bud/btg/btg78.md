@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg77)  [Next](btg79) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg77)  [Next](btg79.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ abated, and they came to a peaceable agreement.
 
 ------------------------------------------------------------------------
 
-[Next: The Hungry Dog](btg79)
+[Next: The Hungry Dog](btg79.md)

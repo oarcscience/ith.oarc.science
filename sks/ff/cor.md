@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../cor/cor) 
-[Previous](kh8)  [Next](ta) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../cor/cor.md) 
+[Previous](kh8)  [Next](ta.md) 
 
 ------------------------------------------------------------------------
 
@@ -4988,4 +4988,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Tragedie of Titus Andronicus](ta) 
+[Next: The Tragedie of Titus Andronicus](ta.md) 

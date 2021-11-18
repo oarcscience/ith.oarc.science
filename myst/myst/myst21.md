@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst20)  [Next](myst22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst20)  [Next](myst22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -93,7 +93,7 @@ Eucken’s words, they testify to “the advent of a triumphing Spiritual
 Power, as distinguished from a spirituality which merely lays the
 foundations of life or struggles to maintain <span id="page_415">p.
 415</span> <span id="an_iv.x-Page_415"></span> them”:  <span
-id="fr_841"></span>[842](#fn_841) to the actually life-enhancing power
+id="fr_841"></span>[842](#fn_841.md) to the actually life-enhancing power
 of the Love of God, once the human soul is freely opened to receive it.
 
 <span id="an_iv.x-p7"></span>Coming first to the evidence of the mystics
@@ -126,7 +126,7 @@ to explain.
 “spiritual marriage,” then, is temperamental language: and is related to
 subjective experience rather than to objective fact. It describes on the
 one hand the mystic’s astonished recognition of a profound change
-effected in his own personality  <span id="fr_842"></span>[843](#fn_842)
+effected in his own personality  <span id="fr_842"></span>[843](#fn_842.md)
 —the transmutation of his salt, sulphur, and mercury into Spiritual
 Gold—on the other, the rapturous consummation of his love. Hence by a
 comparison of these symbolic reconstructions, by the discovery and
@@ -145,7 +145,7 @@ which the trials of the Dark Night tended to produce. “This,” says
 Julian of Norwich, “is the cause why that no soul is rested till it is
 naughted of all things that are made. When it is willingly made naught
 for love to have Him that is all, then is it able to receive spiritual
-rest.”  <span id="fr_843"></span>[844](#fn_843) Only the thoroughly
+rest.”  <span id="fr_843"></span>[844](#fn_843.md) Only the thoroughly
 detached, “naughted soul” is “free,” says “The Mirror of Simple Souls,”
 and the Unitive State is essentially a state of free and filial
 participation in Eternal Life. The capital marks of the state itself are
@@ -163,7 +163,7 @@ involves these characteristic states and acts. Beyond this even Dante
 himself could not go:
 
 > <span id="an_iv.x-p17.1"></span> ‘Transumanar significar *per verba*  
-> non si poria.”  <span id="fr_844"></span>[845](#fn_844)  
+> non si poria.”  <span id="fr_844"></span>[845](#fn_844.md)  
 
 <span id="an_iv.x-p19"></span>We will then consider the Unitive Life (1)
 As it appears from the standpoint of the psychologist. (2) As it is
@@ -193,23 +193,23 @@ method of feeling and of action. Its growth results in the
 transformation of personality: it abolishes the primitive consciousness
 of selfhood, and substitutes for it a wider consciousness, the total
 disappearance of selfhood in the divine, the substitution of a Divine
-Self for the primitive self.”  <span id="fr_845"></span>[846](#fn_845)
+Self for the primitive self.”  <span id="fr_845"></span>[846](#fn_845.md)
 We give a philosophic content to this conception if we say further that
 man, in this Unitive State, by this substitution of the divine for the
 “primitive” self, has at last risen to true freedom; “entered on the
-fruition of reality.”  <span id="fr_846"></span>[847](#fn_846) Hence he
+fruition of reality.”  <span id="fr_846"></span>[847](#fn_846.md) Hence he
 has opened up new paths for the inflow of that Triumphing Power which is
 the very substance of the Real; has remade his consciousness, and in
 virtue of this total regeneration is “transplanted into that Universal
 Life, which is yet not alien but our own.”  <span
-id="fr_847"></span>[848](#fn_847) From contact set up with this
+id="fr_847"></span>[848](#fn_847.md) From contact set up with this
 Universal Life, this “Energetic Word of God, which nothing can
 contain”—from those deep levels of Being to which his shifting, growing
 personality is fully adapted at last—he draws that amazing strength,
 that immovable peace, that power of dealing with circumstance, which is
 one of the most marked characteristics of the Unitive Life. “That secret
 and permanent personality of a superior type”  <span
-id="fr_848"></span>[849](#fn_848) which gave to the surface-self
+id="fr_848"></span>[849](#fn_848.md) which gave to the surface-self
 constant and ever more insistent intimations of its existence at every
 stage of the mystic’s growth—his real, eternal self—has now consciously
 realized its destiny: and begins at last fully to *be.* In the travail
@@ -268,7 +268,7 @@ or a Godlike \[<span id="an_iv.x-p29.1"></span> *vergottet* *,*
 literally deified\] man? Answer: he who is imbued with or illuminated by
 the Eternal or Divine Light and inflamed or consumed with Eternal or
 Divine Love, he is a deified man and a partaker of the Divine Nature.”
- <span id="fr_849"></span>[850](#fn_849)
+ <span id="fr_849"></span>[850](#fn_849.md)
 
 <span id="an_iv.x-p31"></span>Such a word as “deification” is not, of
 course, a scientific term. It is a metaphor, an artistic expression
@@ -276,7 +276,7 @@ which tries to hint at a transcendent fact utterly beyond the powers of
 human understanding, and therefore without equivalent in human speech:
 that fact of which Dante perceived the “shadowy preface” when he saw the
 saints as petals of the Sempiternal Rose.  <span
-id="fr_850"></span>[851](#fn_850) Since we know not <span
+id="fr_850"></span>[851](#fn_850.md) Since we know not <span
 id="page_419">p. 419</span> <span id="an_iv.x-Page_419"></span> the
 Being of God, the mere statement that a soul is transformed in Him may
 convey to us an ecstatic suggestion, but will never give exact
@@ -290,7 +290,7 @@ co-equal with the Deity, they leave us in no doubt that it answers to a
 definite and normal experience of many souls who attain high levels of
 spiritual vitality. Its terms are chiefly used by those mystics by whom
 Reality is apprehended as a state or place rather than a Person:  <span
-id="fr_851"></span>[852](#fn_851) and who have adopted, in describing
+id="fr_851"></span>[852](#fn_851.md) and who have adopted, in describing
 the earlier stages of their journey to God, such symbols as those of
 rebirth or transmutation.
 
@@ -304,27 +304,27 @@ only of all mysticism, but also of much philosophy and most religion. It
 pushes their first principles to a logical end. Christian mysticism,
 says Delacroix with justice, springs from “that spontaneous and
 half-savage longing for deification which all religion contains.”  <span
-id="fr_852"></span>[853](#fn_852) Eastern Christianity has always
+id="fr_852"></span>[853](#fn_852.md) Eastern Christianity has always
 accepted it and expressed it in her rites. “The Body of God deifies me
 and feeds me,” says Simeon Metaphrastes, “it deifies my spirit and it
 feeds my soul in an incomprehensible manner.”  <span
-id="fr_853"></span>[854](#fn_853)
+id="fr_853"></span>[854](#fn_853.md)
 
 <span id="an_iv.x-p37"></span>The Christian mystics justify this dogma
 of the deifying of man, by exhibiting it as the necessary corollary of
 the Incarnation—the humanizing of God. They can quote the authority of
 the Fathers in support of this argument. “He became man that we might be
-made God,” says St. Athanasius.  <span id="fr_854"></span>[855](#fn_854)
+made God,” says St. Athanasius.  <span id="fr_854"></span>[855](#fn_854.md)
 “I heard,” says St. Augustine, speaking of his pre-converted period,
 “Thy voice from on high crying unto me, ‘I am the Food of the fullgrown:
 grow, and then thou shalt feed on Me. Nor shalt thou change Me into thy
 substance as thou changest the food of thy flesh, but thou shalt be
-changed into Mine.’”  <span id="fr_855"></span>[856](#fn_855) Eckhart
+changed into Mine.’”  <span id="fr_855"></span>[856](#fn_855.md) Eckhart
 therefore did no more than expand the patristic view when he wrote, “Our
 Lord says to every living <span id="page_420">p. 420</span> <span
 id="an_iv.x-Page_420"></span> soul, ‘I became man for you. If you do not
 become God for me, you do me wrong.’”  <span
-id="fr_856"></span>[857](#fn_856)
+id="fr_856"></span>[857](#fn_856.md)
 
 <span id="an_iv.x-p41"></span>If we are to allow that the mystics have
 ever attained the object of their quest, I think we must also allow that
@@ -335,7 +335,7 @@ such transmutation is an implicit of their first position: the law that
 whom the language of deification assumes its most extreme form,
 justifies it upon this necessity. “If,” he says, “I am to know God
 directly, I must become completely He and He I: so that this He and this
-I become and are one I.”  <span id="fr_857"></span>[858](#fn_857)
+I become and are one I.”  <span id="fr_857"></span>[858](#fn_857.md)
 
 <span id="an_iv.x-p43"></span>God, said St. Augustine, is the Country of
 the soul: its Home, says Ruysbroeck. The mystic in the unitive state is
@@ -346,7 +346,7 @@ and they know it by intuitive participation, by mergence, not by
 thought; so none but the “deified” know the secret life of God. This,
 too, is a knowledge conferred only by participation: by living a life,
 breathing an atmosphere, “union with that same Light by which they see,
-and which they see.”  <span id="fr_858"></span>[859](#fn_858) It is one
+and which they see.”  <span id="fr_858"></span>[859](#fn_858.md) It is one
 of those rights of citizenship which cannot be artificially conferred.
 Thus it becomes important to ask the mystics what they have to tell us
 of their life lived upon the bosom of Reality: and to receive their
@@ -363,19 +363,19 @@ again they assure us that personality is not lost, but made more real.
 “When,” says St. Augustine, “I shall cleave to Thee with all my being,
 then shall I in nothing have pain and labour; and my *life shall be a
 real life,* being wholly full of Thee.”  <span
-id="fr_859"></span>[860](#fn_859) “My life shall be a real life” because
+id="fr_859"></span>[860](#fn_859.md) “My life shall be a real life” because
 it is “full of Thee.” The achievement of reality, and deification, are
 then one and the same thing: necessarily so, since we know that only the
-divine is the real.  <span id="fr_860"></span>[861](#fn_860)
+divine is the real.  <span id="fr_860"></span>[861](#fn_860.md)
 
 <span id="an_iv.x-p48"></span>Mechthild of Magdeburg, and after her
 Dante, saw Deity as a <span id="page_421">p. 421</span> <span
 id="an_iv.x-Page_421"></span> flame or river of fire that filled the
 Universe, and the “deified” souls of the saints as ardent sparks
 therein, ablaze with that fire, one thing with it, yet distinct.  <span
-id="fr_861"></span>[862](#fn_861) Ruysbroeck, too, saw “Every soul like
+id="fr_861"></span>[862](#fn_861.md) Ruysbroeck, too, saw “Every soul like
 a live coal, burned up by God on the heart of His Infinite Love.”  <span
-id="fr_862"></span>[863](#fn_862) Such fire imagery has seemed to many
+id="fr_862"></span>[863](#fn_862.md) Such fire imagery has seemed to many
 of the mystics a peculiarly exact and suggestive symbol of the
 transcendent state which they are struggling to describe. No longer
 confused by the dim Cloud of Unknowing, they have pierced to its heart,
@@ -398,7 +398,7 @@ penetrateth through the soul, and dwelleth in the soul, yet the soul
 doth not comprehend the Deity, but the Deity comprehendeth the soul, but
 doth not alter it (from being a soul) but only giveth it the divine
 source (or property) of the Majesty.”  <span
-id="fr_863"></span>[864](#fn_863)
+id="fr_863"></span>[864](#fn_863.md)
 
 <span id="an_iv.x-p52"></span>Almost exactly the same image of
 deification was used, five hundred years before Boehme’s day, by Richard
@@ -410,7 +410,7 @@ nature is transmuted into an utterly different quality of being.” “As
 the difference between iron that is cold and iron that is hot,” he says
 again, “so is the difference between soul and soul: between the tepid
 soul and the soul made incandescent by divine love.”  <span
-id="fr_864"></span>[865](#fn_864) Other contemplatives say that the
+id="fr_864"></span>[865](#fn_864.md) Other contemplatives say that the
 deified soul is transfigured by the inundations of the Uncreated Light:
 that it is like a brand blazing in the furnace, transformed to the
 likeness of the fire. “These souls,” says the Divine voice to St.
@@ -423,7 +423,7 @@ fire. In the same way no one can seize these souls, or draw them outside
 of Me, because they are made *one thing* with Me through grace, and I
 never withdraw Myself from them by sentiment, as in the case of those
 whom I am leading on to perfection.”  <span
-id="fr_865"></span>[866](#fn_865)
+id="fr_865"></span>[866](#fn_865.md)
 
 <span id="an_iv.x-p55"></span>For the most subtle and delicate
 descriptions of the Unitive or Deified State, understood as self-loss in
@@ -475,7 +475,7 @@ richness and one unity with God. Yet even here there is an essential
 tending forward, and therein is an essential distinction between the
 being of the soul and the Being of God; and this is the highest and
 finest distinction which we are able to feel.”  <span
-id="fr_866"></span>[867](#fn_866)
+id="fr_866"></span>[867](#fn_866.md)
 
 <span id="an_iv.x-p57"></span>“When love has carried us above and beyond
 all things,” he says in another place, “above the light, into the Divine
@@ -486,7 +486,7 @@ us and penetrating us. And this flight is nothing else but an infinite
 gazing and seeing. We behold that which we are, and we are that which be
 behold; because our thought, life and being are uplifted in simplicity
 and made one with the Truth which is God.”  <span
-id="fr_867"></span>[868](#fn_867)
+id="fr_867"></span>[868](#fn_867.md)
 
 <span id="an_iv.x-p59"></span>Here the personal aspect of the Absolute
 seems to be reduced to a minimum: yet all that we value in
@@ -498,7 +498,7 @@ Such an endless contemplation, such a dwelling within the substance of
 Goodness, Truth and, Beauty, is the essence of that Beatific Vision,
 that participation of Eternity, “of all things most delightful and
 desired, of all things most loved by them who have it,”  <span
-id="fr_868"></span>[869](#fn_868) which theology presents to us as the
+id="fr_868"></span>[869](#fn_868.md) which theology presents to us as the
 objective of the soul.
 
 <span id="an_iv.x-p61"></span>Those mystics of the metaphysical type who
@@ -554,7 +554,7 @@ means of his union with the Divine Personality, there is given to man a
 divine strength and a divine power, that he may accomplish all which
 pertains to his blessedness and omit all which is contrary thereto? And
 thus it is that, as has been said, a man comes forth from his selfhood.”
- <span id="fr_869"></span>[870](#fn_869)
+ <span id="fr_869"></span>[870](#fn_869.md)
 
 <span id="an_iv.x-p64"></span>All the mystics agree that the stripping
 off of the I, the Me, the Mine, utter renouncement, or
@@ -567,12 +567,12 @@ individuality which we ordinarily recognize as ourselves. It goes for
 ever, and something new is established in its room. The self is made
 part of the mystical Body of God; and, humbly taking its place in the
 corporate life of Reality, would “fain be to the Eternal Goodness what
-his own hand is to a man.”  <span id="fr_870"></span>[871](#fn_870) That
+his own hand is to a man.”  <span id="fr_870"></span>[871](#fn_870.md) That
 strange “hunger and thirst of God for the soul,” “at once avid and
 generous,” of which they speak in their profoundest passages, here makes
 its final demand and receives its satisfaction. “All that He has, all
 that He is He gives: all that we have, all that we are, He takes.”
- <span id="fr_871"></span>[872](#fn_871) The self, they declare, is
+ <span id="fr_871"></span>[872](#fn_871.md) The self, they declare, is
 devoured, immersed in the Abyss; “sinks into God, Who is the deep of
 deeps.” In their efforts towards describing to us this, the supreme
 mystic act, and the new life to which it gives birth, they are often
@@ -580,7 +580,7 @@ driven to the use of images which must seem to us grotesque, were it not
 for the flame which burns behind: as when Ruysbroeck cries, “To eat and
 be eaten! this is Union! . . . Since His desire is without measure, to
 be devour of of Him does not greatly amaze me.”  <span
-id="fr_872"></span>[873](#fn_872)
+id="fr_872"></span>[873](#fn_872.md)
 
 <span id="an_iv.x-p68"></span>(B) At this point we begin to see that the
 language of deification, taken alone, will not suffice to describe the
@@ -630,7 +630,7 @@ speaks to heart.”
 > A lute, I on Thy breast recline.  
 > Breathe deep in me that I may sigh;  
 > Yet strike my strings, and tears shall shine.”  <span
-> id="fr_873"></span>[874](#fn_873)  
+> id="fr_873"></span>[874](#fn_873.md)  
 
 <span id="an_iv.x-p71"></span>What the mystic here desires to tell us
 is, that his new life is not only a free and conscious participation in
@@ -654,7 +654,7 @@ hers by righteousness of love, so that this precious beloved of me is
 learned, and led of Me without her \[working\]. . . . This \[soul\] is
 the eagle that flies high, so right high and yet more high than doth any
 other bird; for she is feathered with fine love.’”  <span
-id="fr_874"></span>[875](#fn_874)
+id="fr_874"></span>[875](#fn_874.md)
 
 <span id="an_iv.x-p74"></span>The simplest expression of the Unitive
 Life, the simplest interpretation which we can put on its declarations,
@@ -682,7 +682,7 @@ Bible, <span id="an_iv.x-p74.2"></span> *‘Dilectus meus mihi et ego
 illi,* *’* that is, My loved unto me, and I unto Him; understanding that
 God shall be knitted with the ghostly glue of grace on His party, and
 the lovely consent in gladness of spirit on thy party.”  <span
-id="fr_875"></span>[876](#fn_875)
+id="fr_875"></span>[876](#fn_875.md)
 
 <span id="an_iv.x-p76"></span>I think no one can deny that the
 comparison of the bond between the soul and the Absolute to “ghostly
@@ -700,11 +700,11 @@ more than that Thou enjoyest Thyself in me, and that I by Thy grace
 enjoy Thee in myself and myself in Thee. And when in Thee I shall love
 myself, nothing else but Thee do I love, because *Thou art in me and I
 in Thee, glued together as one and the selfsame thing,* which henceforth
-and forever cannot be divided.”  <span id="fr_876"></span>[877](#fn_876)
+and forever cannot be divided.”  <span id="fr_876"></span>[877](#fn_876.md)
 
 <span id="an_iv.x-p78"></span>From this kind of language to that of the
 Spiritual Marriage, as understood by the pure minds of the mystics, is
-but a step.  <span id="fr_877"></span>[878](#fn_877) They mean by it no
+but a step.  <span id="fr_877"></span>[878](#fn_877.md) They mean by it no
 rapturous satisfactions, no dubious spiritualizing of earthly ecstasies,
 but a life-long bond “that shall never be lost or broken,” a close
 personal union of will and of heart between the free self and that
@@ -715,8 +715,8 @@ growth in love: a deliberate fostering of the inward tendency of the
 soul towards its source, an eradication of its disorderly tendencies to
 “temporal goods.” But the only proper end of love is union: “a perfect
 uniting and coupling together of the lover and the loved into one.”
- <span id="fr_878"></span>[879](#fn_878) It is “a unifying principle,”
-the philosophers say:  <span id="fr_879"></span>[880](#fn_879) life’s
+ <span id="fr_878"></span>[879](#fn_878.md) It is “a unifying principle,”
+the philosophers say:  <span id="fr_879"></span>[880](#fn_879.md) life’s
 mightiest agent upon every plane. Moreover, just as earthly marriage is
 understood by the moral sense less as a satisfaction of personal desire,
 than as a part of the great process of life—the fusion of two selves for
@@ -732,7 +732,7 @@ is its becoming the cause of other things. While then a creature tends
 by many ways to the likeness of God, the last way left open to it is to
 seek the divine likeness by being the cause of other things, according
 to what the Apostle says, <span id="an_iv.x-p82.1"></span> *Dei enim
-sumus adjutores* *.”*  <span id="fr_880"></span>[881](#fn_880) <span
+sumus adjutores* *.”*  <span id="fr_880"></span>[881](#fn_880.md) <span
 id="page_429">p. 429</span> <span id="an_iv.x-Page_429"></span>
 
 <span id="an_iv.x-p84"></span>We find as a matter of fact, when we come
@@ -748,7 +748,7 @@ visions or raptures—however sublime and spiritualized—presented as marks
 of the Unitive Way, ends or objects of the quest of Reality, we may be
 sure that we have wandered from the “strait and narrow road” which
 leads, not to eternal rest, but to Eternal Life. “The fourth degree of
-love is spiritually fruitful,”  <span id="fr_881"></span>[882](#fn_881)
+love is spiritually fruitful,”  <span id="fr_881"></span>[882](#fn_881.md)
 said Richard of St. Victor. Wherever we find a sterile love, a “holy
 passivity,” we are in the presence of quietistic heresy; not of the
 Unitive Life. “I hold it for a certain truth,” says St. Teresa, “that in
@@ -768,7 +768,7 @@ are bent on how to please Him better, and when and how she may show Him
 her love. *This* is the end and aim of prayer, my daughters; *this* is
 the object of that spiritual marriage whose children are always good
 works. *Works* are the best proof that the favours which we receive have
-come from God.”  <span id="fr_882"></span>[883](#fn_882) “To give our
+come from God.”  <span id="fr_882"></span>[883](#fn_882.md) “To give our
 Lord a perfect hospitality” she says in the same chapter, “Mary and
 Martha must combine.”
 
@@ -851,7 +851,7 @@ which she had before. It is a life in God. It is a perfect life. She no
 longer lives or works of herself: but God lives, acts and works in her,
 and this grows little by little till she becomes perfect with God’s
 perfection, is rich with His riches, and loves with His love.” . . .
- <span id="fr_883"></span>[884](#fn_883)
+ <span id="fr_883"></span>[884](#fn_883.md)
 
 <span id="an_iv.x-p95"></span>This new, intense, and veritable life has
 other and even more vital characteristics than those which lead to “the
@@ -876,7 +876,7 @@ churches by which his journeyings are marked. Wherever Francis passed,
 he left <span id="page_432">p. 432</span> <span
 id="an_iv.x-Page_432"></span> Franciscans, “fragrant with a wondrous
 aspect,” where none had been before.  <span
-id="fr_884"></span>[885](#fn_884) The Friends of God spring up,
+id="fr_884"></span>[885](#fn_884.md) The Friends of God spring up,
 individual mystics, here and there through the Rhineland and Bavaria.
 Each becomes the centre of an ever widening circle of transcendent life,
 the parent of a spiritual family. They are come like their Master, that
@@ -925,7 +925,7 @@ tightly bound up with that other life in which he attains to <span
 id="page_433">p. 433</span> <span id="an_iv.x-Page_433"></span> complete
 communion with the Absolute Order, and submits to the inflow of its
 supernal vitality. In discussing the relation of the mystical experience
-to philosophy,  <span id="fr_885"></span>[886](#fn_885) we saw that the
+to philosophy,  <span id="fr_885"></span>[886](#fn_885.md) we saw that the
 complete mystic consciousness, and therefore, of course, the complete
 mystic world, had a twofold character which could hardly be reconciled
 with the requirements of monism. It embraced a Reality which seems from
@@ -952,7 +952,7 @@ life which mediates between man and the Eternal, and constitutes the
 action, his divine fecundity, may seem to us the best evidence of his
 state, it is the inner knowledge of his mystical sonship whereby “we
 feel eternal life in us above all other thing,”  <span
-id="fr_886"></span>[887](#fn_886) which is for him the guarantee of
+id="fr_886"></span>[887](#fn_886.md) which is for him the guarantee of
 absolute life. He has many ways of describing this central fact; this
 peculiar consciousness of his own transcendence, which coexists with,
 and depends on, a complete humility. Sometimes he says that whereas in
@@ -968,7 +968,7 @@ ascent towards God so simple that the bare supreme Love can lay hold of
 us, then we cease, and we and all our selfhood <span id="page_434">p.
 434</span> <span id="an_iv.x-Page_434"></span> die in God. And in this
 death we become the hidden children of God, and find a new life within
-us.”  <span id="fr_887"></span>[888](#fn_887)
+us.”  <span id="fr_887"></span>[888](#fn_887.md)
 
 <span id="an_iv.x-p104"></span>Though the outer career of the great
 mystic, then, be one of superhuman industry, a long fight with evil and
@@ -981,7 +981,7 @@ activity according to His Nature: absolute repose, absolute fecundity”:
 this, says Ruysbroeck again, is the twofold property of Godhead: and the
 secret child of the Absolute participates in this dual character of
 Reality—“for this dignity has man been made.”  <span
-id="fr_888"></span>[889](#fn_888)
+id="fr_888"></span>[889](#fn_888.md)
 
 <span id="an_iv.x-p106"></span>Those two aspects of truth which he has
 so clumsily classified as static and dynamic, as Being and Becoming, now
@@ -1020,7 +1020,7 @@ philosophy. He might say with Dante, his forerunner into the Empyrean:—
 > <span id="an_iv.x-p107.1"></span> “La forma universal di questo nodo  
 > credo ch’ io vidi, perchè più di largo  
 > dicendo questo, mi sento ch’ io godo.”  <span
-> id="fr_889"></span>[890](#fn_889)  
+> id="fr_889"></span>[890](#fn_889.md)  
 
 <span id="an_iv.x-p109"></span>It is then from Ruysbroeck that I shall
 make my quotations: and if they be found somewhat long and difficult of
@@ -1043,7 +1043,7 @@ beloved ones in the fruitive unity of His Spirit, above the fecundity of
 nature. And that same Father says to each soul in His infinite loving
 kindness, ‘Thou art Mine and I am thine: I am thine and thou art Mine,
 for I have chosen thee from all eternity.’”  <span
-id="fr_890"></span>[891](#fn_890)
+id="fr_890"></span>[891](#fn_890.md)
 
 <span id="an_iv.x-p113"></span>Next the vision of the self’s destiny:
 “Our activity consists in loving God and our fruition in enduring God
@@ -1055,7 +1055,7 @@ spirit of God Himself breathes us out from Himself that we may love, and
 may do good works; and again He draws us into Himself, that we may rest
 in fruition. And this is Eternal Life; even as our mortal life subsists
 in the indrawing and outgoing of our breath.”  <span
-id="fr_891"></span>[892](#fn_891)
+id="fr_891"></span>[892](#fn_891.md)
 
 <span id="an_iv.x-p115"></span>“Understand,” he says again, “God comes
 to us incessantly, both with means and without means; and He demands of
@@ -1086,7 +1086,7 @@ work, and he goes in God by his fruitive inclination in eternal rest.
 And he dwells in God; and yet he goes out towards all creatures, in a
 spirit of love towards all things, in virtue and in works of
 righteousness. *And this is she supreme summit of the inner life* .”
- <span id="fr_892"></span>[893](#fn_892)
+ <span id="fr_892"></span>[893](#fn_892.md)
 
 <span id="an_iv.x-p117"></span>Compare this description with the careers
 of the theopathetic mystics, in whom, indeed, “action has not injured
@@ -1132,17 +1132,17 @@ smitten by the blinding flash of the Uncreated light, knew that he had
 resolved Reality’s last paradox: the unity of <span
 id="an_iv.x-p118.1"></span> *“cerchio”* and <span
 id="an_iv.x-p118.2"></span> *“imago”* *—* the infinite and personal
-aspects of God.  <span id="fr_893"></span>[894](#fn_893) The enhanced
+aspects of God.  <span id="fr_893"></span>[894](#fn_893.md) The enhanced
 will, made over to the interests of the Transcendent, receives new
 worlds to conquer, new strength to match its exalted destiny. But the
 heart too here enters on a new order, begins to live upon high levels of
 joy. “This soul, says Love, swims in the sea of joy: that is, in the sea
 of delight, the stream of divine influences.”  <span
-id="fr_894"></span>[895](#fn_894)
+id="fr_894"></span>[895](#fn_894.md)
 
 <span id="an_iv.x-p121"></span><span id="an_iv.x-p121.1"></span> *“Amans
 volat, currit et laetatur: liber est et non tenetur* ,”  <span
-id="fr_895"></span>[896](#fn_895) said à Kempis: classic words, which
+id="fr_895"></span>[896](#fn_895.md) said à Kempis: classic words, which
 put before us once and for ever the inward joyousness and liberty of the
 saints. They “fly, run, and rejoice”—those great, laborious souls, often
 spent with amazing mortifications, vowed to hard and never-ending tasks.
@@ -1165,21 +1165,21 @@ morose resignation which it feels to be proper to the “spiritual life.”
 Thus St. Catherine of Siena, though constantly suffering, “was always
 jocund and of a happy spirit.” When prostrate with illness she
 overflowed with gaiety and gladness, and “was full of laughter in the
-Lord, exultant and rejoicing. “  <span id="fr_896"></span>[897](#fn_896)
+Lord, exultant and rejoicing. “  <span id="fr_896"></span>[897](#fn_896.md)
 
 <span id="an_iv.x-p125"></span>Moreover, the most clear-sighted amongst
 the mystics declare such joy to be an implicit of Reality. Thus Dante,
 initiated into Paradise, sees the whole Universe laugh with delight as
-it glorifies God:  <span id="fr_897"></span>[898](#fn_897) and the awful
+it glorifies God:  <span id="fr_897"></span>[898](#fn_897.md) and the awful
 countenance of Perfect Love adorned with smiles.  <span
-id="fr_898"></span>[899](#fn_898) Thus the souls of the great
+id="fr_898"></span>[899](#fn_898.md) Thus the souls of the great
 theologians dance to music and laughter in the Heaven of the Sun;  <span
-id="fr_899"></span>[900](#fn_899) the loving seraphs, in their ecstatic
+id="fr_899"></span>[900](#fn_899.md) the loving seraphs, in their ecstatic
 joy, whirl about the Being of God.  <span
-id="fr_900"></span>[901](#fn_900) <span id="an_iv.x-p129.1"></span>“O
+id="fr_900"></span>[901](#fn_900.md) <span id="an_iv.x-p129.1"></span>“O
 *luce sterna che . . . ami ed arridi,* ” exclaims the pilgrim, as the
 Divine Essence is at last revealed to him,  <span
-id="fr_901"></span>[902](#fn_901) and he perceives love and joy as the
+id="fr_901"></span>[902](#fn_901.md) and he perceives love and joy as the
 final attributes of the Triune God. Thus Beatrice with *“suoi occhi
 ridenti”*— so different from the world’s idea of a suitable demeanour
 for the soul’s supreme instructress—laughs as she mounts with him the
@@ -1193,7 +1193,7 @@ sphere in which the soul says:—
 
 > <span id="an_iv.x-p130.1"></span> “‘Shall I, a gnat which dances in
 > Thy ray,  
-> *Dare* to be reverent?’”  <span id="fr_902"></span>[903](#fn_902)  
+> *Dare* to be reverent?’”  <span id="fr_902"></span>[903](#fn_902.md)  
 
 <span id="an_iv.x-p132"></span>Richard Rolle has expressed this exultant
 “spirit of dalliance” with peculiar insight and delicacy. “Among the
@@ -1221,7 +1221,7 @@ love of the lover is, the nearer to him and the more present God is. And
 thereby more clearly in God he joys, and of the sweet Goodness the more
 he feels, that to lovers is wont Itself to inshed, and to mirth without
 comparison the hearts of the meek to turn.”  <span
-id="fr_903"></span>[904](#fn_903)
+id="fr_903"></span>[904](#fn_903.md)
 
 <span id="an_iv.x-p134"></span>The state of burning love, said Rolle,
 than which he could conceive no closer reaction to Reality, was the
@@ -1239,7 +1239,7 @@ great melody of the Divine. “Sweetest forsooth,” says Rolle again, “is
 the rest which the spirit takes whilst sweet goodly sound comes down, in
 which it is delighted: and in most sweet song and playful the mind is
 ravished to sing likings of love everlasting.”  <span
-id="fr_904"></span>[905](#fn_904)
+id="fr_904"></span>[905](#fn_904.md)
 
 <span id="an_iv.x-p136"></span>When we come to look at the lives of the
 mystics, we find it literally true that such “songs of lovely loving
@@ -1247,7 +1247,7 @@ commonly burst up” whenever we can catch them unawares; see behind the
 formidable and heroic activities of reformer, teacher, or leader of men
 the <span id="an_iv.x-p136.1"></span> *vie intime* which is lived at the
 hearth of Love. “What are the servants of the Lord but His minstrels?”
-said St. Francis,  <span id="fr_905"></span>[906](#fn_905) who saw
+said St. Francis,  <span id="fr_905"></span>[906](#fn_905.md) who saw
 nothing inconsistent between the Celestial Melodies and the Stigmata of
 Christ. Moreover the songs of such troubadours, as <span
 id="page_440">p. 440</span> <span id="an_iv.x-Page_440"></span> the
@@ -1259,10 +1259,10 @@ any amazement: they are at home.
 <span id="an_iv.x-p138"></span>The whole life of St. Francis of Assisi,
 that spirit transfigured in God, who “loved above all other birds a
 certain little bird which is called the lark,”  <span
-id="fr_906"></span>[907](#fn_906) was one long march to music through
+id="fr_906"></span>[907](#fn_906.md) was one long march to music through
 the world. To sing seemed to him a primary spiritual function: he taught
 his friars in their preaching to urge all men to this.  <span
-id="fr_907"></span>[908](#fn_907) It appeared to him appropriate and
+id="fr_907"></span>[908](#fn_907.md) It appeared to him appropriate and
 just to use the romantic language of the troubadours in praise of the
 perfect Love which had marked him as Its own. “Drunken with the love and
 compassion of Christ, blessed Francis on a time did things such as
@@ -1273,7 +1273,7 @@ And sometimes he picked up a branch from the earth, and laying it on his
 left arm, he drew in his right hand another stick like a bow over it, as
 if on a viol or other instrument, and, making fitting gestures, sang
 with it in French unto the Lord Jesus Christ.”  <span
-id="fr_908"></span>[909](#fn_908)
+id="fr_908"></span>[909](#fn_908.md)
 
 <span id="an_iv.x-p142"></span>Many a time has the romantic quality of
 the Unitive Life—its gaiety, freedom, assurance, and joy—broken out in
@@ -1292,7 +1292,7 @@ songs. Its great Reformer was quick to snub the too-spiritual sister who
 as she swept the convent corridor, to sing a little ditty about the most
 exalted of her own mystical experiences: that ineffable
 transverberation, in which the fiery arrow of the seraph pierced her
-heart.  <span id="fr_909"></span>[910](#fn_909)
+heart.  <span id="fr_909"></span>[910](#fn_909.md)
 
 <span id="an_iv.x-p144"></span>But the most lovely and real, most human
 and near to us, of all these descriptions of the celestial exhilaration
@@ -1337,7 +1337,7 @@ rhymes as these, making them according to her manner:—
 > <span id="an_iv.x-p145.2"></span> “‘Vuoi tu che tu mostr’io  
 > Presto che cosa è Dio?  
 > Pace non trova chi da lui si partiò.’” <span
-> id="fr_910"></span>[911](#fn_910)  
+> id="fr_910"></span>[911](#fn_910.md)  
 
 <span id="page_442">p. 442</span> <span id="an_iv.x-Page_442"></span>
 
@@ -1379,7 +1379,7 @@ midst of his active work, his incessant spiritual creation, joy and
 peace enfold him. He needs no stretched and sharpened intuition now: for
 he dwells in that “most perfect form of contemplation” which “consists
 in simple and perceived contact of the substance of the soul with that
-of the divine.”  <span id="fr_911"></span>[912](#fn_911) <span
+of the divine.”  <span id="fr_911"></span>[912](#fn_911.md) <span
 id="page_443">p. 443</span> <span id="an_iv.x-Page_443"></span>
 
 <span id="an_iv.x-p154"></span>The wheel of life has made its circle.
@@ -1413,12 +1413,12 @@ id="an_iv.x-Page_444"></span>
 
 ### Footnotes
 
-<span id="fn_841"></span>[415:842](myst21.htm#fr_841) <span
+<span id="fn_841"></span>[415:842](myst21.htm#fr_841.md) <span
 id="an_iv.x-p5.1"></span>
 
 <span id="an_iv.x-p6"></span> Der Sinn und Wert des Lebens,” p. 140.
 
-<span id="fn_842"></span>[415:843](myst21.htm#fr_842) <span
+<span id="fn_842"></span>[415:843](myst21.htm#fr_842.md) <span
 id="an_iv.x-p9.1"></span>
 
 <span id="an_iv.x-p10"></span> Compare Dante’s sense of a transmuted
@@ -1435,208 +1435,208 @@ personality when he first breathed the air of Paradise:—
 didst new create, oh Love who rulest heaven, thou knowest who with thy
 light didst lift me up.”
 
-<span id="fn_843"></span>[416:844](myst21.htm#fr_843) <span
+<span id="fn_843"></span>[416:844](myst21.htm#fr_843.md) <span
 id="an_iv.x-p16.1"></span>
 
 <span id="an_iv.x-p17"></span> “Revelations of Divine Love,” cap. v.
 
-<span id="fn_844"></span>[416:845](myst21.htm#fr_844) <span
+<span id="fn_844"></span>[416:845](myst21.htm#fr_844.md) <span
 id="an_iv.x-p17.4"></span>
 
 <span id="an_iv.x-p18"></span> Par. I. 70.
 
-<span id="fn_845"></span>[417:846](myst21.htm#fr_845) <span
+<span id="fn_845"></span>[417:846](myst21.htm#fr_845.md) <span
 id="an_iv.x-p21.1"></span>
 
 <span id="an_iv.x-p22"></span> Delacroix. “Études sur le Mysticism,” p.
 197.
 
-<span id="fn_846"></span>[417:847](myst21.htm#fr_846) <span
+<span id="fn_846"></span>[417:847](myst21.htm#fr_846.md) <span
 id="an_iv.x-p22.1"></span>
 
 <span id="an_iv.x-p23"></span> Eucken, “Der Sinn und Wert des Lebens,”
 p. 12.
 
-<span id="fn_847"></span>[417:848](myst21.htm#fr_847) <span
+<span id="fn_847"></span>[417:848](myst21.htm#fr_847.md) <span
 id="an_iv.x-p23.1"></span>
 
 <span id="an_iv.x-p24"></span> *Ibid.* , p. 96.
 
-<span id="fn_848"></span>[417:849](myst21.htm#fr_848) <span
+<span id="fn_848"></span>[417:849](myst21.htm#fr_848.md) <span
 id="an_iv.x-p24.1"></span>
 
 <span id="an_iv.x-p25"></span> Delacroix, *op. cit* ., p. 114 ( *vide*
 *supra* , p . 273).
 
-<span id="fn_849"></span>[418:850](myst21.htm#fr_849) <span
+<span id="fn_849"></span>[418:850](myst21.htm#fr_849.md) <span
 id="an_iv.x-p29.2"></span>
 
 <span id="an_iv.x-p30"></span> “Theologia Germanica,” cap. xli.
 
-<span id="fn_850"></span>[418:851](myst21.htm#fr_850) <span
+<span id="fn_850"></span>[418:851](myst21.htm#fr_850.md) <span
 id="an_iv.x-p31.1"></span>
 
 <span id="an_iv.x-p32"></span> Par. xxx. 115-130 and xxxi. 1-12.
 
-<span id="fn_851"></span>[419:852](myst21.htm#fr_851) <span
+<span id="fn_851"></span>[419:852](myst21.htm#fr_851.md) <span
 id="an_iv.x-p32.1"></span>
 
 <span id="an_iv.x-p33"></span> Compare, p. 128.
 
-<span id="fn_852"></span>[419:853](myst21.htm#fr_852) <span
+<span id="fn_852"></span>[419:853](myst21.htm#fr_852.md) <span
 id="an_iv.x-p34.1"></span>
 
 <span id="an_iv.x-p35"></span> *Op. cit* ., ix. But it is difficult to
 see why we need stigmatize as “half-savage” man’s primordial instinct
 for his destiny.
 
-<span id="fn_853"></span>[419:854](myst21.htm#fr_853) <span
+<span id="fn_853"></span>[419:854](myst21.htm#fr_853.md) <span
 id="an_iv.x-p35.1"></span>
 
 <span id="an_iv.x-p36"></span> Divine Liturgy of the Orthodox Eastern
 Church. Prayers before Communion.
 
-<span id="fn_854"></span>[419:855](myst21.htm#fr_854) <span
+<span id="fn_854"></span>[419:855](myst21.htm#fr_854.md) <span
 id="an_iv.x-p37.1"></span>
 
 <span id="an_iv.x-p38"></span> Athanasius, De Incarn. Verbi, i. 108.
 
-<span id="fn_855"></span>[419:856](myst21.htm#fr_855) <span
+<span id="fn_855"></span>[419:856](myst21.htm#fr_855.md) <span
 id="an_iv.x-p38.1"></span>
 
 <span id="an_iv.x-p39"></span> Aug. Conf., bk. vii. cap. x.
 
-<span id="fn_856"></span>[420:857](myst21.htm#fr_856) <span
+<span id="fn_856"></span>[420:857](myst21.htm#fr_856.md) <span
 id="an_iv.x-p39.1"></span>
 
 <span id="an_iv.x-p40"></span> Pred. lvii.
 
-<span id="fn_857"></span>[420:858](myst21.htm#fr_857) <span
+<span id="fn_857"></span>[420:858](myst21.htm#fr_857.md) <span
 id="an_iv.x-p41.1"></span>
 
 <span id="an_iv.x-p42"></span> Pred. xcix. (“Mystische Schriften,” p.
 122).
 
-<span id="fn_858"></span>[420:859](myst21.htm#fr_858) <span
+<span id="fn_858"></span>[420:859](myst21.htm#fr_858.md) <span
 id="an_iv.x-p43.1"></span>
 
 <span id="an_iv.x-p44"></span> Ruysbroeck, “De Ornatu Spiritalium
 Nuptiarum,” I. iii. cap. iii.
 
-<span id="fn_859"></span>[420:860](myst21.htm#fr_859) <span
+<span id="fn_859"></span>[420:860](myst21.htm#fr_859.md) <span
 id="an_iv.x-p45.1"></span>
 
 <span id="an_iv.x-p46"></span> Aug. Conf., bk. x. cap. xxviii.
 
-<span id="fn_860"></span>[420:861](myst21.htm#fr_860) <span
+<span id="fn_860"></span>[420:861](myst21.htm#fr_860.md) <span
 id="an_iv.x-p46.1"></span>
 
 <span id="an_iv.x-p47"></span> Cf. Coventry Patmore, “The Rod, the Root,
 and the Flower,” “Magna Moralia,” xxii.
 
-<span id="fn_861"></span>[421:862](myst21.htm#fr_861) <span
+<span id="fn_861"></span>[421:862](myst21.htm#fr_861.md) <span
 id="an_iv.x-p48.1"></span>
 
 <span id="an_iv.x-p49"></span> Par. xxx. 64.
 
-<span id="fn_862"></span>[421:863](myst21.htm#fr_862) <span
+<span id="fn_862"></span>[421:863](myst21.htm#fr_862.md) <span
 id="an_iv.x-p49.1"></span>
 
 <span id="an_iv.x-p50"></span> “De Septem Gradibus Amoris,” cap. xiv.
 
-<span id="fn_863"></span>[421:864](myst21.htm#fr_863) <span
+<span id="fn_863"></span>[421:864](myst21.htm#fr_863.md) <span
 id="an_iv.x-p50.1"></span>
 
 <span id="an_iv.x-p51"></span> “The Threefold Life of Man,” cap. vi. 88.
 
-<span id="fn_864"></span>[421:865](myst21.htm#fr_864) <span
+<span id="fn_864"></span>[421:865](myst21.htm#fr_864.md) <span
 id="an_iv.x-p52.1"></span>
 
 <span id="an_iv.x-p53"></span> “De Quatuor Gradibus Violentae
 Charitatis” (Migne, Patrologia Latina cxcvi.)
 
-<span id="fn_865"></span>[422:866](myst21.htm#fr_865) <span
+<span id="fn_865"></span>[422:866](myst21.htm#fr_865.md) <span
 id="an_iv.x-p53.1"></span>
 
 <span id="an_iv.x-p54"></span> Dialogo, cap. lxxviii.
 
-<span id="fn_866"></span>[423:867](myst21.htm#fr_866) <span
+<span id="fn_866"></span>[423:867](myst21.htm#fr_866.md) <span
 id="an_iv.x-p55.1"></span>
 
 <span id="an_iv.x-p56"></span> Ruysbroeck. “Samuel,” cap. xi. (English
 translation: “The Book of Truth.”)
 
-<span id="fn_867"></span>[423:868](myst21.htm#fr_867) <span
+<span id="fn_867"></span>[423:868](myst21.htm#fr_867.md) <span
 id="an_iv.x-p57.1"></span>
 
 <span id="an_iv.x-p58"></span> *Ibid* ., “De Calculo,” cap. ix.
 
-<span id="fn_868"></span>[423:869](myst21.htm#fr_868) <span
+<span id="fn_868"></span>[423:869](myst21.htm#fr_868.md) <span
 id="an_iv.x-p59.1"></span>
 
 <span id="an_iv.x-p60"></span> St. Thomas Aquinas, “Summa Contra
 Gentiles,” bk. iii. cap. lxii.
 
-<span id="fn_869"></span>[425:870](myst21.htm#fr_869) <span
+<span id="fn_869"></span>[425:870](myst21.htm#fr_869.md) <span
 id="an_iv.x-p62.1"></span>
 
 <span id="an_iv.x-p63"></span> Suso, “Buchlein von der Wahrheit,” cap.
 iv.
 
-<span id="fn_870"></span>[425:871](myst21.htm#fr_870) <span
+<span id="fn_870"></span>[425:871](myst21.htm#fr_870.md) <span
 id="an_iv.x-p64.1"></span>
 
 <span id="an_iv.x-p65"></span> “Theologia Germanica,” cap. x.
 
-<span id="fn_871"></span>[425:872](myst21.htm#fr_871) <span
+<span id="fn_871"></span>[425:872](myst21.htm#fr_871.md) <span
 id="an_iv.x-p65.1"></span>
 
 <span id="an_iv.x-p66"></span> Ruysbroeck, “Speculum Aeternae e
 Salutis,” cap. vii.
 
-<span id="fn_872"></span>[425:873](myst21.htm#fr_872) <span
+<span id="fn_872"></span>[425:873](myst21.htm#fr_872.md) <span
 id="an_iv.x-p66.1"></span>
 
 <span id="an_iv.x-p67"></span> “Regnum Deum Amantium,” cap xxii.
 
-<span id="fn_873"></span>[426:874](myst21.htm#fr_873) <span
+<span id="fn_873"></span>[426:874](myst21.htm#fr_873.md) <span
 id="an_iv.x-p69.18"></span>
 
 <span id="an_iv.x-p70"></span> Jalalu ‘d Din, “The Festival of Spring”
 (Hastie’s translation p. 10).
 
-<span id="fn_874"></span>[427:875](myst21.htm#fr_874) <span
+<span id="fn_874"></span>[427:875](myst21.htm#fr_874.md) <span
 id="an_iv.x-p72.1"></span>
 
 <span id="an_iv.x-p73"></span> “The Mirror of Simple Souls,” Div. iv.
 cap. i.
 
-<span id="fn_875"></span>[427:876](myst21.htm#fr_875) <span
+<span id="fn_875"></span>[427:876](myst21.htm#fr_875.md) <span
 id="an_iv.x-p74.3"></span>
 
 <span id="an_iv.x-p75"></span> “The Epistle of Prayer.” Printed from
 Pepwell’s edition in “The Cell of Self-knowledge,” edited by Edmund
 Gardner, p. 88.
 
-<span id="fn_876"></span>[428:877](myst21.htm#fr_876) <span
+<span id="fn_876"></span>[428:877](myst21.htm#fr_876.md) <span
 id="an_iv.x-p76.1"></span>
 
 <span id="an_iv.x-p77"></span> Gerlac Petersen, “Ignitum cum Deo
 Soliloqium,” cap. xv.
 
-<span id="fn_877"></span>[428:878](myst21.htm#fr_877) <span
+<span id="fn_877"></span>[428:878](myst21.htm#fr_877.md) <span
 id="an_iv.x-p78.1"></span>
 
 <span id="an_iv.x-p79"></span> Compare Pt. i. Cap. vi. It seems needless
 to repeat here the examples there given.
 
-<span id="fn_878"></span>[428:879](myst21.htm#fr_878) <span
+<span id="fn_878"></span>[428:879](myst21.htm#fr_878.md) <span
 id="an_iv.x-p80.1"></span>
 
 <span id="an_iv.x-p81"></span> Hilton, “The Treatise written to a Devout
 Man,” cap. viii.
 
-<span id="fn_879"></span>[428:880](myst21.htm#fr_879) <span
+<span id="fn_879"></span>[428:880](myst21.htm#fr_879.md) <span
 id="an_iv.x-p81.1"></span>
 
 <span id="an_iv.x-p82"></span> Cf. Ormond, “Foundations of Knowledge,”
@@ -1644,171 +1644,171 @@ p. 442. “When we love any being, we desire either the unification of its
 life with our own or our own unification with its life. Love in its
 innermost motive is a unifying principle.”
 
-<span id="fn_880"></span>[428:881](myst21.htm#fr_880) <span
+<span id="fn_880"></span>[428:881](myst21.htm#fr_880.md) <span
 id="an_iv.x-p82.2"></span>
 
 <span id="an_iv.x-p83"></span> “Summa Contra Gentiles,” bk. ii. cap.
 xxi.
 
-<span id="fn_881"></span>[429:882](myst21.htm#fr_881) <span
+<span id="fn_881"></span>[429:882](myst21.htm#fr_881.md) <span
 id="an_iv.x-p84.1"></span>
 
 <span id="an_iv.x-p85"></span> “De Quatuor Gradibus Violentae
 Charitatis” (Migne, Patrologia Latina cxcvi. col. 1216 D).
 
-<span id="fn_882"></span>[429:883](myst21.htm#fr_882) <span
+<span id="fn_882"></span>[429:883](myst21.htm#fr_882.md) <span
 id="an_iv.x-p85.1"></span>
 
 <span id="an_iv.x-p86"></span> “El Castillo Interior,” Moradas Sétimas,
 cap. iv.
 
-<span id="fn_883"></span>[431:884](myst21.htm#fr_883) <span
+<span id="fn_883"></span>[431:884](myst21.htm#fr_883.md) <span
 id="an_iv.x-p93.1"></span>
 
 <span id="an_iv.x-p94"></span> “Les Torrents,” pt. i. cap. ix.
 
-<span id="fn_884"></span>[432:885](myst21.htm#fr_884) <span
+<span id="fn_884"></span>[432:885](myst21.htm#fr_884.md) <span
 id="an_iv.x-p95.1"></span>
 
 <span id="an_iv.x-p96"></span> Thomas of Celano, Legenda Secunda, cap.
 xii.
 
-<span id="fn_885"></span>[433:886](myst21.htm#fr_885) <span
+<span id="fn_885"></span>[433:886](myst21.htm#fr_885.md) <span
 id="an_iv.x-p99.1"></span>
 
 <span id="an_iv.x-p100"></span> *Supra* , Pt. I. Cap. II.
 
-<span id="fn_886"></span>[433:887](myst21.htm#fr_886) <span
+<span id="fn_886"></span>[433:887](myst21.htm#fr_886.md) <span
 id="an_iv.x-p101.1"></span>
 
 <span id="an_iv.x-p102"></span> Ruysbroeck, “De Calculo,” cap. ix.
 
-<span id="fn_887"></span>[434:888](myst21.htm#fr_887) <span
+<span id="fn_887"></span>[434:888](myst21.htm#fr_887.md) <span
 id="an_iv.x-p102.1"></span>
 
 <span id="an_iv.x-p103"></span> *Op. cit* ., cap viii. and ix.
 (condensed).
 
-<span id="fn_888"></span>[434:889](myst21.htm#fr_888) <span
+<span id="fn_888"></span>[434:889](myst21.htm#fr_888.md) <span
 id="an_iv.x-p104.1"></span>
 
 <span id="an_iv.x-p105"></span> *Vide supra* p. 35.
 
-<span id="fn_889"></span>[435:890](myst21.htm#fr_889) <span
+<span id="fn_889"></span>[435:890](myst21.htm#fr_889.md) <span
 id="an_iv.x-p107.5"></span>
 
 <span id="an_iv.x-p108"></span> Par. xxxiii. 91. “I believe that I
 beheld the universal form of this knot: because in saying this I feel my
 joy increased.”
 
-<span id="fn_890"></span>[435:891](myst21.htm#fr_890) <span
+<span id="fn_890"></span>[435:891](myst21.htm#fr_890.md) <span
 id="an_iv.x-p111.1"></span>
 
 <span id="an_iv.x-p112"></span> “De Septem Gradibus Amoris,” Cap. xiv .
 
-<span id="fn_891"></span>[435:892](myst21.htm#fr_891) <span
+<span id="fn_891"></span>[435:892](myst21.htm#fr_891.md) <span
 id="an_iv.x-p113.1"></span>
 
 <span id="an_iv.x-p114"></span> *Ibid., loc. cit.*
 
-<span id="fn_892"></span>[436:893](myst21.htm#fr_892) <span
+<span id="fn_892"></span>[436:893](myst21.htm#fr_892.md) <span
 id="an_iv.x-p115.1"></span>
 
 <span id="an_iv.x-p116"></span> Ruysbroeck “Do Ornatu Spiritalium
 Nuptiarum,”” I. ii cap. lxv.
 
-<span id="fn_893"></span>[437:894](myst21.htm#fr_893) <span
+<span id="fn_893"></span>[437:894](myst21.htm#fr_893.md) <span
 id="an_iv.x-p118.3"></span>
 
 <span id="an_iv.x-p119"></span> Par. xxxiii. 137.
 
-<span id="fn_894"></span>[437:895](myst21.htm#fr_894) <span
+<span id="fn_894"></span>[437:895](myst21.htm#fr_894.md) <span
 id="an_iv.x-p119.1"></span>
 
 <span id="an_iv.x-p120"></span> “The Mirror of Simple Souls.” p. 161.
 
-<span id="fn_895"></span>[437:896](myst21.htm#fr_895) <span
+<span id="fn_895"></span>[437:896](myst21.htm#fr_895.md) <span
 id="an_iv.x-p121.2"></span>
 
 <span id="an_iv.x-p122"></span> “De Imitatione Christi,” I. iii. cap. v.
 
-<span id="fn_896"></span>[438:897](myst21.htm#fr_896) <span
+<span id="fn_896"></span>[438:897](myst21.htm#fr_896.md) <span
 id="an_iv.x-p123.1"></span>
 
 <span id="an_iv.x-p124"></span> Contestatio Fr. Thomae Caffarina,
 Processus, col. 1258 (E. Gardner, “St. Catherine of Siena,” p. 48).
 
-<span id="fn_897"></span>[438:898](myst21.htm#fr_897) <span
+<span id="fn_897"></span>[438:898](myst21.htm#fr_897.md) <span
 id="an_iv.x-p125.1"></span>
 
 <span id="an_iv.x-p126"></span> Par. xxvii. 4.
 
-<span id="fn_898"></span>[438:899](myst21.htm#fr_898) <span
+<span id="fn_898"></span>[438:899](myst21.htm#fr_898.md) <span
 id="an_iv.x-p126.1"></span>
 
 <span id="an_iv.x-p127"></span> *Ibid* ., xx. 13.
 
-<span id="fn_899"></span>[438:900](myst21.htm#fr_899) <span
+<span id="fn_899"></span>[438:900](myst21.htm#fr_899.md) <span
 id="an_iv.x-p127.1"></span>
 
 <span id="an_iv.x-p128"></span> *Ibid* ., x. 76, 118.
 
-<span id="fn_900"></span>[438:901](myst21.htm#fr_900) <span
+<span id="fn_900"></span>[438:901](myst21.htm#fr_900.md) <span
 id="an_iv.x-p128.1"></span>
 
 <span id="an_iv.x-p129"></span> *Ibid.*, xxviii. 100.
 
-<span id="fn_901"></span>[438:902](myst21.htm#fr_901) <span
+<span id="fn_901"></span>[438:902](myst21.htm#fr_901.md) <span
 id="an_iv.x-p129.2"></span>
 
 <span id="an_iv.x-p130"></span> *Ibid*., xxxiii. 124-26.
 
-<span id="fn_902"></span>[438:903](myst21.htm#fr_902) <span
+<span id="fn_902"></span>[438:903](myst21.htm#fr_902.md) <span
 id="an_iv.x-p130.4"></span>
 
 <span id="an_iv.x-p131"></span> Coventry Patmore, “The Rod, the Root,
 and the Flower,” “Aurea Dicta.”
 
-<span id="fn_903"></span>[439:904](myst21.htm#fr_903) <span
+<span id="fn_903"></span>[439:904](myst21.htm#fr_903.md) <span
 id="an_iv.x-p132.1"></span>
 
 <span id="an_iv.x-p133"></span> Richard Rolle, “The Fire of Love,” bk.
 ii. cap. vii.
 
-<span id="fn_904"></span>[439:905](myst21.htm#fr_904) <span
+<span id="fn_904"></span>[439:905](myst21.htm#fr_904.md) <span
 id="an_iv.x-p134.1"></span>
 
 <span id="an_iv.x-p135"></span> *Op. cit* ., bk. i. cap. xi.
 
-<span id="fn_905"></span>[439:906](myst21.htm#fr_905) <span
+<span id="fn_905"></span>[439:906](myst21.htm#fr_905.md) <span
 id="an_iv.x-p136.2"></span>
 
 <span id="an_iv.x-p137"></span> “Speculum Perfectionis,” cap, c.
 (Steele’s translation).
 
-<span id="fn_906"></span>[440:907](myst21.htm#fr_906) <span
+<span id="fn_906"></span>[440:907](myst21.htm#fr_906.md) <span
 id="an_iv.x-p138.1"></span>
 
 <span id="an_iv.x-p139"></span> “Speculum,” cap. cxiii.
 
-<span id="fn_907"></span>[440:908](myst21.htm#fr_907) <span
+<span id="fn_907"></span>[440:908](myst21.htm#fr_907.md) <span
 id="an_iv.x-p139.1"></span>
 
 <span id="an_iv.x-p140"></span> *Ibid.* , cap. c.
 
-<span id="fn_908"></span>[440:909](myst21.htm#fr_908) <span
+<span id="fn_908"></span>[440:909](myst21.htm#fr_908.md) <span
 id="an_iv.x-p140.1"></span>
 
 <span id="an_iv.x-p141"></span> *Ibid.* , cap. xciii., also Thomas of
 Celano, Vita Secunda, cap. xc.
 
-<span id="fn_909"></span>[440:910](myst21.htm#fr_909) <span
+<span id="fn_909"></span>[440:910](myst21.htm#fr_909.md) <span
 id="an_iv.x-p142.1"></span>
 
 <span id="an_iv.x-p143"></span> *Cf* . G. Cunninghame Graham, “Santa
 Teresa,” vol. i. pp. 180, 300, 304.
 
-<span id="fn_910"></span>[441:911](myst21.htm#fr_910) <span
+<span id="fn_910"></span>[441:911](myst21.htm#fr_910.md) <span
 id="an_iv.x-p145.6"></span>
 
 <span id="an_iv.x-p146"></span> “Dost thou wish that I should show
@@ -1829,7 +1829,7 @@ expressions supposed to be proper to the saints, is a guarantee of its
 authenticity. On the text of the “Vita” see Von Hügel, “The Mystical
 Element of Religion,” vol. i., Appendix.
 
-<span id="fn_911"></span>[442:912](myst21.htm#fr_911) <span
+<span id="fn_911"></span>[442:912](myst21.htm#fr_911.md) <span
 id="an_iv.x-p152.1"></span>
 
 <span id="an_iv.x-p153"></span> Coventry Patmore, “The Rod, the Root,
@@ -1839,6 +1839,6 @@ and the Flower,” “Magna Moralia,” xv.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](myst22)
+[Next: Conclusion](myst22.md)
 
 </div>

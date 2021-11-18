@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws46)  [Next](cws48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws46)  [Next](cws48.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XLIII
 
-#### CONCERNING PSYCHE, OR THE SUPERIOR HUMAN SOUL <span id="fr_168"></span>[2](#fn_168)
+#### CONCERNING PSYCHE, OR THE SUPERIOR HUMAN SOUL <span id="fr_168"></span>[2](#fn_168.md)
 
 IT is truly said that God is the primordial mind, and that the kosmic
 universe and its manifestations are the ideas of that mind. Mind in
@@ -16,7 +16,7 @@ ideas, and these constitute existence. Mind is abstract; ideas are
 concrete. When thou thinkest, thou createst. Every thought is a
 substantial action.
 
-Thoth, <span id="fr_169"></span>[3](#fn_169) therefore, is the creator
+Thoth, <span id="fr_169"></span>[3](#fn_169.md) therefore, is the creator
 of the Kosmos. The science of the mysteries can be understood only by
 one who has studied the physical sciences; because it is the climax and
 crown of all these, and must be learned last, and not first. Unless thou
@@ -32,7 +32,7 @@ knowledge, ever more and more. It is idle for thee to seek the inner
 chamber until thou hast passed through the outer. This, also, is another
 reason why occult science cannot be unveiled to the horde. To the
 unlearned, no truth can be demonstrated. Theosophy <span
-id="fr_170"></span>[1](#fn_170) is the royal science. If thou wouldst
+id="fr_170"></span>[1](#fn_170.md) is the royal science. If thou wouldst
 reach the king's presence chamber, there is no way save through the
 outer rooms and galleries of the palace.
 
@@ -44,7 +44,7 @@ domain of physiological science; the last to that of occult science. It
 is this last mode of power which belongs to the immaculate and
 essential. It is inherent in the substantial, and is therefore permanent
 as an indefeasible quantity. It is in the Arche, <span
-id="fr_171"></span>[2](#fn_171) and it is wherever there is organic
+id="fr_171"></span>[2](#fn_171.md) and it is wherever there is organic
 life. Now the Psyche is from the beginning latent and diffused in all
 matter; and forasmuch as Psyche also is not of herself, but of spirit,
 therefore is spirit also the basic quality of all things;--the
@@ -155,7 +155,7 @@ Do not confuse between substance and force. Substance is Psyche, the
 medium. Force is Spirit, the energy. That which burns in a flame is gas;
 the process of burning is a mode or condition of the gas. That which is
 burnt is fuel, or matter, in which the gas is generated. And when thou
-askest, "How can the [Psyche](errata.htm#1), which is generated in one
+askest, "How can the [Psyche](errata.htm#1.md), which is generated in one
 body, pass by transmigration
 
 <span id="page_108">p. 108</span>
@@ -183,22 +183,22 @@ condition by means of which Psyche abstract becomes Psyche concrete.
 
 ### Footnotes
 
-<span id="fn_168"></span>[104:2](cws47.htm#fr_168) Paris, December 13,
+<span id="fn_168"></span>[104:2](cws47.htm#fr_168.md) Paris, December 13,
 1882.
 
-<span id="fn_169"></span>[104:3](cws47.htm#fr_169) Also spelt *Thaut*,
+<span id="fn_169"></span>[104:3](cws47.htm#fr_169.md) Also spelt *Thaut*,
 in which form it is identical in both sound and meaning with our word
 *Thought*. Thoth or Thaut was the Egyptian equivalent for both Hermes
 and the Logos.    E. M.
 
-<span id="fn_170"></span>[105:1](cws47.htm#fr_170) This term is used
+<span id="fn_170"></span>[105:1](cws47.htm#fr_170.md) This term is used
 here in its ancient sense, the science of divine things, and without
 reference to any modern or special application of it.    E. M.
 
-<span id="fn_171"></span>[105:2](cws47.htm#fr_171) See Appendix,
+<span id="fn_171"></span>[105:2](cws47.htm#fr_171.md) See Appendix,
 "Definitions."
 
 ------------------------------------------------------------------------
 
 [Next: No. XLIV: Concerning The Poet, As Type Of The Heavenly
-Personality](cws48)
+Personality](cws48.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut15)  [Next](mdut17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut15)  [Next](mdut17.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ many (?).
 
 In the morning they prepared their loads, ready to go. Meanwhile
 (Bat-Man) spoke to them. ". . . sinew . . .," <span
-id="fr_13"></span>[1](#fn_13) he said. Then they replied, "What do you
+id="fr_13"></span>[1](#fn_13.md) he said. Then they replied, "What do you
 mean?" Meanwhile he said, ". . . sinew . . . ." Then one of them,
 untying his pack, gave him some sinew. "No," said Bat-Man, ". . . sinew
 . . . ."--"What do you mean?" said they. "What sort of sinew do you
@@ -116,7 +116,7 @@ antlers. Then they, again making him carry it, went back. He had said
 (asked. for) antler, but they did not understand (hear) the name (?).
 
 And returning, they remained there. Now some one brought to them
-invitation-strings, <span id="fr_14"></span>[1](#fn_14) and went away.
+invitation-strings, <span id="fr_14"></span>[1](#fn_14.md) and went away.
 After a few days the invitation-string was ended (i. e., all knots
 untied). Then they went off to the feast. "Don't let that bad man hear
 about it! If he learns of it, he will follow us. Let him stay!" they
@@ -200,7 +200,7 @@ Bat-Man did not come behind by very much. So coming back, having
 returned, he remained there.
 
 Then he went off towards the south. And there lived
-Momipispistom-Man <span id="fr_15"></span>[1](#fn_15) fishing with a
+Momipispistom-Man <span id="fr_15"></span>[1](#fn_15.md) fishing with a
 trap. He caught all kinds of game, they say. All kinds of people who
 went down the river, the Big-Meadows River, he caught. And thither
 (Bat-Man) went. And going along, having reached the great falls, he
@@ -221,15 +221,15 @@ not trouble the people. It shall be the end."
 
 ### Footnotes
 
-<span id="fn_13"></span>[207:1](mdut16.htm#fr_13) Obscure. Huta- occurs
+<span id="fn_13"></span>[207:1](mdut16.htm#fr_13.md) Obscure. Huta- occurs
 in only one other place in the texts, and there means "to think." The
 form hudan occurs only in this sentence, and has not been explained.
 
-<span id="fn_14"></span>[209:1](mdut16.htm#fr_14) The knotted cords used
+<span id="fn_14"></span>[209:1](mdut16.htm#fr_14.md) The knotted cords used
 to mark the number of days before the festival was to occur.
 
-<span id="fn_15"></span>[213:1](mdut16.htm#fr_15) An unidentified bird.
+<span id="fn_15"></span>[213:1](mdut16.htm#fr_15.md) An unidentified bird.
 
 ------------------------------------------------------------------------
 
-[Next: 15. The Frightener](mdut17)
+[Next: 15. The Frightener](mdut17.md)

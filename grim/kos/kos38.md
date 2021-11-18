@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos37)  [Next](kos39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos37)  [Next](kos39.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ be enabled to complete his work so as to arrive at the desired result.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III.](kos39)
+[Next: Chapter III.](kos39.md)

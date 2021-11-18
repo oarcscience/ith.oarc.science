@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl123)  [Next](cohl125) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl123)  [Next](cohl125.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 "So they continued on their journey and after a short time they came to
 a halt. Then spoke the messengers, 'This place is called, "the spring"
-and it is a place for rest. <span id="fr_89"></span>[1](#fn_89) Then
+and it is a place for rest. <span id="fr_89"></span>[1](#fn_89.md) Then
 behold he saw the spring and he thought that he had never seen so
 beautiful and
 
@@ -33,9 +33,9 @@ So they said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_89"></span>[74:1](cohl124.htm#fr_89) See legend, Two
-brothers who went to the sky, [p. 132](cohl164.htm#page_132).
+<span id="fn_89"></span>[74:1](cohl124.htm#fr_89.md) See legend, Two
+brothers who went to the sky, [p. 132](cohl164.htm#page_132.md).
 
 ------------------------------------------------------------------------
 
-[Next: Section 114](cohl125)
+[Next: Section 114](cohl125.md)

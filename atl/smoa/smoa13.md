@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa12)  [Next](smoa14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa12)  [Next](smoa14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -202,7 +202,7 @@ made. Tough, elastic, brittle not and could withstand the beating blasts
 of Time and rust not; neither was it rent by waves of sea. And barques
 were keeled with such—the galleys of the king.
 
-Yea, the copper mines of "Spain" <span id="fr_8"></span>[\*](#fn_8)
+Yea, the copper mines of "Spain" <span id="fr_8"></span>[\*](#fn_8.md)
 Atlantis knew. A warring tribe took captive such a one as always sought
 to learn all secrets. He it was who brought the knowledge of such copper
 ore upon that great peninsula; and forth set men—when he had been loosed
@@ -242,7 +242,7 @@ The fuel used in "smelting of the ores?" It was hardened tree trunks;
 aloes make heat as full of fierce and melting tendency as "coal," and
 aloe trees abounded there. Tulip is also a fierce, hot wood when
 fire-smitten. Tulip trees grew upon Atlantis, huge as the trees <span
-id="fr_9"></span>[\*](#fn_9) in this, thy land called wonders of the
+id="fr_9"></span>[\*](#fn_9.md) in this, thy land called wonders of the
 world by ye in this strange spot; and these great tulip trees were hewn
 to staves and dried in matter-soaked in slime from out the gushing wells
 to southward on that island.
@@ -274,11 +274,11 @@ light indeed.
 
 ### Footnotes
 
-<span id="fn_8"></span>[86:\*](smoa13.htm#fr_8) Reo Tinto.
+<span id="fn_8"></span>[86:\*](smoa13.htm#fr_8.md) Reo Tinto.
 
-<span id="fn_9"></span>[87:\*](smoa13.htm#fr_9) Redwoods of California.
+<span id="fn_9"></span>[87:\*](smoa13.htm#fr_9.md) Redwoods of California.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. The crime of old King Osiris and the king Atlantis
-gave to Egypt](smoa14)
+gave to Egypt](smoa14.md)

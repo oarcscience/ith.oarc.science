@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft28)  [Next](eft30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft28)  [Next](eft30.md) 
 
 ------------------------------------------------------------------------
 
 # Johnny-Cake
 
 <span id="img_031"></span> [![](tn/031.jpg)  
-Click to enlarge](img/031.jpg)
+Click to enlarge](img/031.jpg.md)
 
 ONCE upon a time there was an old man, and an old woman, and a little
 boy. One morning the old woman made a Johnny-cake, and put it in the
@@ -49,7 +49,7 @@ and sat down to rest.
 On went Johnny-cake, and by and by he came to a bear.
 
 <span id="img_032"></span> [![](tn/032.jpg)  
-Click to enlarge](img/032.jpg)
+Click to enlarge](img/032.jpg.md)
 
 The bear said: 'Where are ye going, Johnny-cake?'
 
@@ -107,8 +107,8 @@ OUTRUN YOU, TOO-O-O!'
 his sharp teeth in the twinkling of an eye.
 
 <span id="img_033"></span> [![](tn/033.jpg)  
-Click to enlarge](img/033.jpg)
+Click to enlarge](img/033.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Earl Mar's Daughter](eft30)
+[Next: Earl Mar's Daughter](eft30.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos24)  [Next](mos26) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos24)  [Next](mos26.md) 
 
 ------------------------------------------------------------------------
 
@@ -278,4 +278,4 @@ important facts, and God brings success.
 
 ------------------------------------------------------------------------
 
-[Next: Moses' Soliloquy With His Lord](mos26)
+[Next: Moses' Soliloquy With His Lord](mos26.md)

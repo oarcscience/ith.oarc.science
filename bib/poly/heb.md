@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Philemon](plm)  [James](jam)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Philemon](plm)  [James](jam.md)
 
 ------------------------------------------------------------------------
 
@@ -9,28 +9,28 @@
 
 ------------------------------------------------------------------------
 
-[Hebrews 1](heb001)  
+[Hebrews 1](heb001.md)  
 
-[Hebrews 2](heb002)  
+[Hebrews 2](heb002.md)  
 
-[Hebrews 3](heb003)  
+[Hebrews 3](heb003.md)  
 
-[Hebrews 4](heb004)  
+[Hebrews 4](heb004.md)  
 
-[Hebrews 5](heb005)  
+[Hebrews 5](heb005.md)  
 
-[Hebrews 6](heb006)  
+[Hebrews 6](heb006.md)  
 
-[Hebrews 7](heb007)  
+[Hebrews 7](heb007.md)  
 
-[Hebrews 8](heb008)  
+[Hebrews 8](heb008.md)  
 
-[Hebrews 9](heb009)  
+[Hebrews 9](heb009.md)  
 
-[Hebrews 10](heb010)  
+[Hebrews 10](heb010.md)  
 
-[Hebrews 11](heb011)  
+[Hebrews 11](heb011.md)  
 
-[Hebrews 12](heb012)  
+[Hebrews 12](heb012.md)  
 
-[Hebrews 13](heb013)  
+[Hebrews 13](heb013.md)  

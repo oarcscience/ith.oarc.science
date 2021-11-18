@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bok01)  [Next](bok03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bok01)  [Next](bok03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Kells*, by Edward Sullivan, \[1920\], at Intangible Textual
 Heritage
 
@@ -47,7 +47,7 @@ I suggested in 1914 that the square-shaped punctuation marks, which are
 a characteristic of the Manuscript, might have some bearing on the vexed
 question of its date. What I have since noticed has considerably
 strengthened my original surmise. For instance, in [Plate
-X.](bok14.htm#img_pl10) (lines 2 and 7) will be seen examples of the
+X.](bok14.htm#img_pl10) (lines 2 and 7.md) will be seen examples of the
 three-dot full stop which is frequently used to end a sentence
 throughout the work. It will be noticed, however, that in close and
 somewhat puzzling proximity to these stops there are other very similar
@@ -69,7 +69,7 @@ Besides this, there is another piece of internal evidence, as yet
 unnoted, which shows that the new system was firmly established when the
 Manuscript was written. The scribe occasionally *illuminates* the stops,
 enlarging them into decorative forms to harmonise with the general
-embellishment of the page. [Plate III](bok07.htm#img_pl03), contains
+embellishment of the page. [Plate III](bok07.htm#img_pl03.md), contains
 three striking examples of this curious innovation. In the 2nd, 4th, and
 7th lines from the foot of the page will be seen quaint ornaments of
 rectangular outline, intruding, as it were, immediately after the words
@@ -80,9 +80,9 @@ however, in places where a full stop is actually required, and where
 there is no trace of any other punctuation marks to be seen, shows them
 to be nothing more or less than enlarged forms of the single dot which
 was one of the recognised methods of indicating the end of a sentence in
-early Celtic manuscripts (see *post* [p. 35](bok04.htm#page_35)). [Plate
-X.](bok14.htm#img_pl10), at end of line 4, furnishes another example;
-and [Plate XV](bok19.htm#img_pl15), contains yet another, though of much
+early Celtic manuscripts (see *post* [p. 35](bok04.htm#page_35).md). [Plate
+X.](bok14.htm#img_pl10.md), at end of line 4, furnishes another example;
+and [Plate XV](bok19.htm#img_pl15.md), contains yet another, though of much
 smaller proportions, following the word "mihi." These strange instances
 of decorated punctuation would seem to me to have been introduced
 deliberately with a view to drawing special attention to the recently
@@ -106,6 +106,6 @@ EDWARD SULLIVAN
 
 ------------------------------------------------------------------------
 
-[Next: List of Plates](bok03)
+[Next: List of Plates](bok03.md)
 
 </div>

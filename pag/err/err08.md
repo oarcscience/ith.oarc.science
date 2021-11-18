@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err07)  [Next](err09) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err07)  [Next](err09.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ E non avrete mai
 Bene, fino che  
 Non prenderete  
 Questo palazzo  
-A mio figlio.' <span id="fr_8"></span>[1](#fn_8)
+A mio figlio.' <span id="fr_8"></span>[1](#fn_8.md)
 
 ("'I am the *Lasio*,  
 And there are with me  
@@ -600,7 +600,7 @@ buona."
 
 She seems to be identified with the old Etruscan Larunda, or Lara, of
 whom Lactantius remarks: "Who can keep from laughter when he hears the
-silent goddess mentioned? <span id="fr_9"></span>[1](#fn_9) This is she
+silent goddess mentioned? <span id="fr_9"></span>[1](#fn_9.md) This is she
 whom they call Lara, or Larunda " (i., 20, 3 5). OVID speaks of her as
 the *Dea muta*, or silent goddess. But from a passage in PRELLER'S
 Mythology, I infer that she was specially known as good, since in
@@ -711,7 +711,7 @@ churchyards." This
 clearly enough identifies them with the Latin *Lemures*, which were the
 same as the Larvæ, or the unhappy and terrifying ghosts of those who
 have died evil deaths, or under a ban, to which there are innumerable
-allusions in all Latin writers. <span id="fr_10"></span>[1](#fn_10)
+allusions in all Latin writers. <span id="fr_10"></span>[1](#fn_10.md)
 
 #### TAGO
 
@@ -1115,17 +1115,17 @@ Sethlans was the Etruscan Vulcan.
 
 ### Footnotes
 
-<span id="fn_8"></span>[83:1](err08.htm#fr_8) In all cases where the
+<span id="fn_8"></span>[83:1](err08.htm#fr_8.md) In all cases where the
 text is in metre the original was chanted or intoned.
 
-<span id="fn_9"></span>[94:1](err08.htm#fr_9) "Quis, quum audiat deam
+<span id="fn_9"></span>[94:1](err08.htm#fr_9.md) "Quis, quum audiat deam
 Mutam tenere risum queat? Hanc esse dicunt, ex qua sint nati Lares, et
 Laram nominant, vel Larundam." Which is what an ancient heathen might
 have said at seeing a Spanish Virgin Mary in an old French bonnet, or
 even some of her similitudes here, in Italy, which are ten times sillier
 and more laughter-moving than the rudest works of Roman times.
 
-<span id="fn_10"></span>[96:1](err08.htm#fr_10) "Verum illi manes,
+<span id="fn_10"></span>[96:1](err08.htm#fr_10.md) "Verum illi manes,
 quoniam corporibus illo tempore tribuuntur quo fit prima conceptio,
 etiam post vitam iisdem corporibus delectantur, atque cum iis manentes
 appellantur Lemures" (MARTIAN, *Cap de Mess*., ii., 9, p. 40; ap.
@@ -1136,4 +1136,4 @@ ap. PRELLER).
 
 ------------------------------------------------------------------------
 
-[Next: Part One: Chapter VI--CARRADORA](err09)
+[Next: Part One: Chapter VI--CARRADORA](err09.md)

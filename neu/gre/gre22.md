@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre21)  [Next](gre23) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre21)  [Next](gre23.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,7 +138,7 @@ Curdled milk, and deemed it well
 He who decks the reindeer's side  
 That 'twixt ness and ness doth glide,  
 Twice in one day had his fill  
-Of the feast of dart shower shrill."  <span id="fr_7"></span>[\*](#fn_7)
+Of the feast of dart shower shrill."  <span id="fr_7"></span>[\*](#fn_7.md)
 
 The shipmen thought this foul enough, and said he should not put shame
 on Skipper Haflidi for nought.
@@ -224,11 +224,11 @@ there, and therein too was the manor of a lord.
 
 ### Footnotes
 
-<span id="fn_7"></span>[43:\*](gre22.htm#fr_7) This is about as obscure
+<span id="fn_7"></span>[43:\*](gre22.htm#fr_7.md) This is about as obscure
 as the original, which seems to allude to some event not mentioned in
 the Saga.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVIII: Of Grettir at Haramsey and his dealings with Karr
-the Old](gre23)
+the Old](gre23.md)

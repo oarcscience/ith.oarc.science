@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss12)  [Next](oss14) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss12)  [Next](oss14.md) 
 
 ------------------------------------------------------------------------
 
@@ -304,7 +304,7 @@ thou fall?"
 
 It will be great, thou son of pride! begun the tall Clessámmor. I have
 been renowned in battle, but I never told my name to a foe.  <span
-id="fr_49"></span>[1](#fn_49) Yield to me, son of the wave, then shalt
+id="fr_49"></span>[1](#fn_49.md) Yield to me, son of the wave, then shalt
 thou know that the mark of my sword is in many a field. "I never
 yielded, king of spears!" replied the noble pride of Carthon: "I have
 also fought in war, I behold my future fame. Despise me not, thou chief
@@ -437,7 +437,7 @@ journey.
 
 ### Footnotes
 
-<span id="fn_49"></span>[230:1](oss13.htm#fr_49) To tell one's name to
+<span id="fn_49"></span>[230:1](oss13.htm#fr_49.md) To tell one's name to
 an enemy, was reckoned, in those days of heroism, a manifest evasion of
 fighting him; for if it was once known that friendship subsisted of old,
 between the ancestors of the combatants. the battle immediately ceased,
@@ -446,4 +446,4 @@ his name to his enemy," was of old an ignominious term for a coward.
 
 ------------------------------------------------------------------------
 
-[Next: Oina-morul](oss14)
+[Next: Oina-morul](oss14.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits092) [Next](bits094)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits092) [Next](bits094.md)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ In interest of my future weal."<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 94. Contentment Is Riches](bits094)
+[Next: § 94. Contentment Is Riches](bits094.md)
 
  
 

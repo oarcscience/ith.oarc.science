@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt23)  [Next](ebt25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt23)  [Next](ebt25.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,14 +21,14 @@ names in the light of traders coming along the road and meeting
 <span id="img_pl11"></span>
 
 [![PLATE XI. CHURCHYARD CROSS.&lt;BR&gt; Bitterley.](tn/pl11.jpg)  
-Click to enlarge](img/pl11.jpg)  
+Click to enlarge](img/pl11.jpg.md)  
 PLATE XI. CHURCHYARD CROSS.  
 Bitterley.  
 
 <span id="img_pl12"></span>
 
 [![PLATE XII. TREE.&lt;BR&gt; Eastwood Oak, Tarrington.](tn/pl12.jpg)  
-Click to enlarge](img/pl12.jpg)  
+Click to enlarge](img/pl12.jpg.md)  
 PLATE XII. TREE.  
 Eastwood Oak, Tarrington.  
 
@@ -101,7 +101,7 @@ there. It might possibly indicate a woman's shelter on the road.
 The suffix--tree, probably originated in a single tree planted as a
 sighting point, either as at "Cross of the Tree" in Deerfold Forest, or
 to mark the apex of a natural hill as illustrated in [Plate
-XII](#img_pl12). Webtree is on such a hill with two leys passing through
+XII](#img_pl12.md). Webtree is on such a hill with two leys passing through
 it. Its name signifies that it is the spot where the webbe or weaver met
 his buyers. He travelled along the webbe-ley, and there are three
 Weobleys (formerly Webbeley) in the county, at Weobley Ash, and Weobley
@@ -145,7 +145,7 @@ Forest) indicate the road by which wine was brought. Totnor, Totteridge,
 Tothill, and Twt indicate (as Mr. J. G. Wood has pointed out) tumps, and
 they are all sighting tumps on leys. Mr. Wood (who has come very near
 discovering the ley) also--in Woolhope Transactions for 1919--connects
-Titterstone, Clee Hill ([Plate I](ebt04.htm#img_pl01).) with the word
+Titterstone, Clee Hill ([Plate I](ebt04.htm#img_pl01)..md) with the word
 Tot or Toot. Tooting and Tottenham are London forms of the word.
 Rosemary Topping (English Bicknor) is a much prettier name for a
 sighting tump.
@@ -192,4 +192,4 @@ traversed by the short ley.
 
 ------------------------------------------------------------------------
 
-[Next: Discovery By Place Name](ebt25)
+[Next: Discovery By Place Name](ebt25.md)

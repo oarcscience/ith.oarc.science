@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits078) [Next](bit-int5)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits078) [Next](bit-int5.md)
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ He disentangles all this snarl."<br />
 
 ------------------------------------------------------------------------
 
-[Next: Introduction to Chapter V: The Order](bit-int5)
+[Next: Introduction to Chapter V: The Order](bit-int5.md)
 
  
 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste25)  [Next](ste27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste25)  [Next](ste27.md) 
 
 ------------------------------------------------------------------------
 
@@ -471,7 +471,7 @@ remembring, or any other? These are things of several orders, that have
 no similitude, nor any mixture of one another. And as this is the nature
 of Motion, so, on the other hand, in a *Thought* there are two things,
 *Consciousness*, and a *Representation*; Consciousness is in all
-Thoughts indifferently, whether distinct or [confus’d](errata.htm#4),
+Thoughts indifferently, whether distinct or [confus’d](errata.htm#4.md),
 for no man thinks but he is conscious that he thinks, nor perceives any
 thing but he is conscious that he perceives it; there is also in a
 Thought, especially if it be distinct, a representation; ’tis the image
@@ -579,7 +579,7 @@ am confin’d to a narrow sphere, and yet within that sphere I often erre;
 my conceptions of things are obscure and confus’d, my reason
 short-sighted; I am forc’d often to correct my self, to acknowledge that
 I have judg’d false, and consented to an errour.  <span
-id="fr_9"></span>[1](#fn_9) In summ, all my powers I find are limited,
+id="fr_9"></span>[1](#fn_9.md) In summ, all my powers I find are limited,
 and I can easily conceive the same kind of perfections in higher degrees
 than I possess them, and consequently there are Beings, or may be,
 greater and more excellent than my self, and more able to subsist by
@@ -750,9 +750,9 @@ for the Basis of it.
 
 ### Footnotes
 
-<span id="fn_9"></span>[215:1](ste26.htm#fr_9) Τὸ τέλοιον πρότερον τῆ
+<span id="fn_9"></span>[215:1](ste26.htm#fr_9.md) Τὸ τέλοιον πρότερον τῆ
 ουσει τοῦ ἀτελοῦς. *Arist*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Concerning NATURAL PROVIDENCE](ste27)
+[Next: Chapter XI. Concerning NATURAL PROVIDENCE](ste27.md)

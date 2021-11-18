@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain19)  [Next](ain21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain19)  [Next](ain21.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ prosperous as the others below them.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of Tawquahdahmawks](ain21)
+[Next: Notes on the Story of Tawquahdahmawks](ain21.md)

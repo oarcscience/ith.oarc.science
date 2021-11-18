@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw39)  [Next](omw41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw39)  [Next](omw41.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ was a name that belonged to the God Mars.
 
 ------------------------------------------------------------------------
 
-[Next: Numa the Law-Giver](omw41)
+[Next: Numa the Law-Giver](omw41.md)

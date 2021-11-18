@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw06)  [Next](cjw08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw06)  [Next](cjw08.md) 
 
 ------------------------------------------------------------------------
 
@@ -356,4 +356,4 @@ be cast away by the wise man by steadfastness in his own Self.
 
 ------------------------------------------------------------------------
 
-[Next: Finding the Real Self](cjw08)
+[Next: Finding the Real Self](cjw08.md)

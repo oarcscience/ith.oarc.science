@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft10)  [Next](eft12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft10)  [Next](eft12.md) 
 
 ------------------------------------------------------------------------
 
 # Mouse and Mouser
 
 <span id="img_015"></span> [![](tn/015.jpg)  
-Click to enlarge](img/015.jpg)
+Click to enlarge](img/015.jpg.md)
 
 THE Mouse went to visit the Cat, and found her sitting behind the hall
 door, spinning.
@@ -115,4 +115,4 @@ And I'll eat you, good body.
 
 ------------------------------------------------------------------------
 
-[Next: Cap O' Rushes](eft12)
+[Next: Cap O' Rushes](eft12.md)

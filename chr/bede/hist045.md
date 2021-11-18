@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist044) 
-[Next](hist046) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist044.md) 
+[Next](hist046.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ which religion he should adhere.
 ------------------------------------------------------------------------
 
 [Next: X. How Pope Boniface, by letter, exhorted the same king to
-embrace the faith. \[Circ. 625 A.D.\]](hist046)
+embrace the faith. \[Circ. 625 A.D.\]](hist046.md)

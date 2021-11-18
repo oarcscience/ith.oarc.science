@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Luther](index)  [Index](atn)  [Previous](addnob0)  [Next](addnob2) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Luther](index)  [Index](atn)  [Previous](addnob0)  [Next](addnob2.md) 
 
 ------------------------------------------------------------------------
 

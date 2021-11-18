@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr13) 
-[Next](idr15) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr13.md) 
+[Next](idr15.md) 
 
 ------------------------------------------------------------------------
 
@@ -267,4 +267,4 @@ transplanted to a new soil."
 
 ------------------------------------------------------------------------
 
-[Next: Druidical Mysticism](idr15)
+[Next: Druidical Mysticism](idr15.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos14)  [Next](dos16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos14)  [Next](dos16.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### XII. The Other Body
 
-But in the meanwhile Shrí <span id="fr_71"></span>[u](#fn_71), when she
+But in the meanwhile Shrí <span id="fr_71"></span>[u](#fn_71.md), when she
 abandoned the body in Indirálayá, flew in the twinkling of an eye to the
 Land of the Lotus of the Sun. And there she entered that other body,
 lying in a couch in the Palace hall. Then instantly she opened her eyes,
@@ -30,7 +30,7 @@ greater than mine? For it passes on from
 body to body, and draws fresh fire from each new birth.
 
 Then she dressed herself in the white pall <span
-id="fr_72"></span>[x](#fn_72), and went hastily out of that empty
+id="fr_72"></span>[x](#fn_72.md), and went hastily out of that empty
 palace, shrinking like a fawn at the echo of her own footsteps, and
 passed out of the gates, and ran through the deserted streets, down to
 the very edge of the sea. And there she stood with her bare feet lapped
@@ -112,7 +112,7 @@ forsake that miserable trader for me. Should the lioness, forsooth! mate
 
 with the jackal? And now will I place thee, like a choice jewel, in the
 centre of my diadem, and thou shalt be the very apex of the summit of my
-fortune <span id="fr_73"></span>[y](#fn_73). Then said Shrí: King, do
+fortune <span id="fr_73"></span>[y](#fn_73.md). Then said Shrí: King, do
 not speak thus. For I am the wife of another. And I fled to thee for
 refuge, and not for frivolity: for yonder merchant would have made me
 his wife by force. So do me justice, and let me go: for I may not be a
@@ -134,7 +134,7 @@ my love to my husband.
 \[paragraph continues\] But the King paid no heed to her words, which
 entered at his ear, but never reached his mind. For all his soul was in
 his eyes, feasting on the face of Shrí, which made him drunk like the
-juice of Soma <span id="fr_74"></span>[z](#fn_74).
+juice of Soma <span id="fr_74"></span>[z](#fn_74.md).
 
 Then seeing the state of the case, Shrí said to herself: Alas! I have
 escaped the lesser danger only to incur the greater, and become the prey
@@ -190,10 +190,10 @@ And he put to death, of his retainers, everything that was male.
 
 ### Footnotes
 
-<span id="fn_71"></span>[83:u](dos15.htm#fr_71) See note, [p.
-21](dos04.htm#page_21).
+<span id="fn_71"></span>[83:u](dos15.htm#fr_71.md) See note, [p.
+21](dos04.htm#page_21.md).
 
-<span id="fn_72"></span>[84:x](dos15.htm#fr_72) As this might sound
+<span id="fn_72"></span>[84:x](dos15.htm#fr_72.md) As this might sound
 bizarre to the English reader, accustomed to the elaborate toilettes of
 western ladies, he should know, that nothing can be more simple than the
 dress of a Hindoo woman. A single long piece of stuff, wound like a
@@ -202,14 +202,14 @@ veil, forms a garment that the Greeks might have envied. Nothing can
 surpass the taste, beauty, and grace of the way in which it follows and
 reveals without betraying the figure of its wearer.
 
-<span id="fn_73"></span>[88:y](dos15.htm#fr_73) He plays on her name.
+<span id="fn_73"></span>[88:y](dos15.htm#fr_73.md) He plays on her name.
 The old Hindoo rajas had the same veneration for their royal fortune
 (*Shrí*) as the Romans for their *Fors Fortuna*.
 
-<span id="fn_74"></span>[89:z](dos15.htm#fr_74) A play on her name, as a
+<span id="fn_74"></span>[89:z](dos15.htm#fr_74.md) A play on her name, as a
 digit of the moon: Sonia is the moon, and the famous intoxicant of the
 early Hindoos.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. A Light in Darkness](dos16)
+[Next: XIII. A Light in Darkness](dos16.md)

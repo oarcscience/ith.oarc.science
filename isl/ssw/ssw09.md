@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](ssw08) 
-[Next](ssw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](ssw08.md) 
+[Next](ssw10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sadi's Scroll of Wisdom*, by Arthur N. Wollaston, \[1906\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 Were the spheres to fall to the share of the miser,  
 Were fortune the slave of the miser,  
-Were the wealth of Korah <span id="fr_6"></span>[1](#fn_6) in his
+Were the wealth of Korah <span id="fr_6"></span>[1](#fn_6.md) in his
 hand,  
 Were a quarter of the universe subservient to him  
 The miser is not worthy that thou shouldest mention his name.  
@@ -38,13 +38,13 @@ The niggardly suffer grief from their gold and silver.
 
 ### Footnotes
 
-<span id="fn_6"></span>[33:1](ssw09.htm#fr_6) A man proverbial for his
+<span id="fn_6"></span>[33:1](ssw09.htm#fr_6.md) A man proverbial for his
 wealth and avarice.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Description of Humility](ssw10)
+[Next: Description of Humility](ssw10.md)
 
 </div>

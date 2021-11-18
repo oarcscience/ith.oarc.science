@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mhm06)  [Next](mhm08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mhm06)  [Next](mhm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,15 +17,15 @@ knowledge was handed down orally. In fact there was, till well
 <span id="page_15">p. 15</span>
 
 within the second century of the Hijra, a decided antipathy towards the
-written word <span id="fr_80"></span>[1](#fn_80) and those who desired
+written word <span id="fr_80"></span>[1](#fn_80.md) and those who desired
 to learn the traditions of the Prophet were obliged to travel. <span
-id="fr_81"></span>[2](#fn_81) Indeed the only way knowledge could be had
+id="fr_81"></span>[2](#fn_81.md) Indeed the only way knowledge could be had
 was by travelling.
 
 Those who wished to study Arabic philosophy, poetry, legend and the
 idiom of the desert were obliged to pursue their researches and
 investigations among the Bedawín tribes. <span
-id="fr_82"></span>[3](#fn_82)
+id="fr_82"></span>[3](#fn_82.md)
 
 Travel in search of knowledge thus rendered necessary at first by
 circumstance became the fashion not only for the acquisition of
@@ -34,12 +34,12 @@ led to the evolution of the vagabond scholar, a kind of knight-errant of
 literature and the prototype of the medieval wandering man of learning.
 
 Inspired by such examples of peripatetic scholars as well as by his own
-wanderings and varied experience, <span id="fr_83"></span>[4](#fn_83)
+wanderings and varied experience, <span id="fr_83"></span>[4](#fn_83.md)
 Hamadhání imagined a profoundly clever and witty but unscrupulous
 improvisor wandering from place to place, appearing in a variety of
 disguises unexpectedly, but always opportunely, in the gatherings of the
 great and the literary assemblies of the learned and living on the rich
-presents, <span id="fr_84"></span>[5](#fn_84) the display of his
+presents, <span id="fr_84"></span>[5](#fn_84.md) the display of his
 erudition rarely failed to produce from the generous and the cultured,
 and a ráwí, or narrator, a man of means of mature age, of a grave and
 generous disposition with a penchant for learning who should continually
@@ -48,17 +48,17 @@ meet him and relate his learned compositions.
 Abú’l-Fatḥ, therefore, represents the vagabond scholar of Hamadhání's
 own day, and, one is inclined to believe, occasionally the author
 himself relating his own experiences or personal adventures. <span
-id="fr_85"></span>[6](#fn_85)
+id="fr_85"></span>[6](#fn_85.md)
 
 The conception was an advance to the dramatic style which, on account of
 the religious objection to the portrayal or realistic representation of
 life or the human form, had hitherto been wanting in Arabic
-literature. <span id="fr_86"></span>[7](#fn_86)
+literature. <span id="fr_86"></span>[7](#fn_86.md)
 
 <span id="page_16">p. 16</span>
 
 According to the Zahr al-Adáb the occasion of the composing of the
-Maqámát was as follows: Abú Isḥáq, <span id="fr_87"></span>[1](#fn_87)
+Maqámát was as follows: Abú Isḥáq, <span id="fr_87"></span>[1](#fn_87.md)
 surnamed al-Ḥuṣrí, or the maker or seller of mats (ob. at Qairawán A.H.
 413). contemporary with Hamadhání, after referring in the most
 flattering terms to the unique appropriateness of the author's name and
@@ -71,10 +71,10 @@ natures would shrink from and their ears be closed against, which he
 said he had produced from the springs of his breast, extracted from the
 mines of his thought and exposed to public view and perception,
 Hamadhání met him with four hundred Maqámát on mendicity.' <span
-id="fr_88"></span>[2](#fn_88) These are instinct with interest and
+id="fr_88"></span>[2](#fn_88.md) These are instinct with interest and
 beauty and between no two of them is there the slightest resemblance,
 either as regards words or ideas. He attributes the composition and
-narration of them to two persons. <span id="fr_89"></span>[3](#fn_89)
+narration of them to two persons. <span id="fr_89"></span>[3](#fn_89.md)
 One of them he called ‘Ísá ibn Hishám and the other he named Abú’l-Fatḥ
 al-Iskanderí. These two he made to exchange pearls of thought and to
 give expression to bewitching language such as would cause the sorrowful
@@ -82,14 +82,14 @@ to laugh and the staid to become excited. 'In these compositions he,
 acquaints us with every kind of pleasantry and informs us of every
 species of subtlety. Generally, one of the characters is made the author
 of the story and the other the narrator of it.' <span
-id="fr_90"></span>[4](#fn_90)
+id="fr_90"></span>[4](#fn_90.md)
 
 Ibn Khallikan makes no mention of these stories in the list of works
-ascribed to Ibn Duraid <span id="fr_91"></span>[5](#fn_91) nor is there
+ascribed to Ibn Duraid <span id="fr_91"></span>[5](#fn_91.md) nor is there
 any reference to them in that cited by Yaqút. <span
-id="fr_92"></span>[6](#fn_92) The nearest approach to a work of this
+id="fr_92"></span>[6](#fn_92.md) The nearest approach to a work of this
 kind by that author is the *Kitáb al-Lughát* on the dialects or
-idiomatic expressions of the Arabs. <span id="fr_93"></span>[7](#fn_93)
+idiomatic expressions of the Arabs. <span id="fr_93"></span>[7](#fn_93.md)
 
 <span id="page_17">p. 17</span>
 
@@ -121,12 +121,12 @@ the Arabian people--difficult and obscure passages were inevitable. On
 page 10 of the text the author asserts that one of his objects was to
 capture these rare words and strange sayings. In fact the collection of
 nawádir, or recondite expressions, was a favourite pursuit. <span
-id="fr_94"></span>[1](#fn_94)
+id="fr_94"></span>[1](#fn_94.md)
 
 In electing to do this in rhymed prose he imposed upon himself all the
 limitations of a style which, in any but the hand of a master, tends to
 become oppressively monotonous and depressingly dull. <span
-id="fr_95"></span>[2](#fn_95)
+id="fr_95"></span>[2](#fn_95.md)
 
 In pleasing contrast, however, to the numerous obscurities, intentional
 and otherwise, the hypocritical and dishonest Qádí, the Bedawín robber,
@@ -144,7 +144,7 @@ combines the accuracy of the idiom of the dwellers of the desert with
 the refinement and taste of the people of the towns, so that the reader
 imagines himself to be now among the hair tents of a Bedawín encampment
 and anon amidst the stately buildings of a city.' <span
-id="fr_96"></span>[1](#fn_96)
+id="fr_96"></span>[1](#fn_96.md)
 
 The second point of importance in this extract from the *Zahr al-Adáb*
 is the reference to the number of the compositions. Al-Huṣrí must have
@@ -161,7 +161,7 @@ and literary finish, and I think the author himself, unconsciously,
 furnishes the explanation. In the fortieth maqáma he says: 'I wrote
 elegantly by virtue of much reading. I passed on from reading to
 investigation and from investigation to composition.' <span
-id="fr_97"></span>[2](#fn_97)
+id="fr_97"></span>[2](#fn_97.md)
 
 Again, on page 389 of the Letters, in replying to certain strictures
 passed on the maqámát and to the taunt by his great rival, Abú Bakr
@@ -201,17 +201,17 @@ forty-fourth is a variation and largely a reproduction of the
 twenty-eighth. Other instances of resemblance are recorded in the notes.
 
 Each maqáma is complete in itself and generally consists of a *mélange*
-of prose and verse. <span id="fr_98"></span>[1](#fn_98) It usually
+of prose and verse. <span id="fr_98"></span>[1](#fn_98.md) It usually
 concludes with some clever verses in which the improvisor administers a
 sharp rebuke, or explains, or justifies his conduct to the narrator.
 
 The maqámát vary in length. Some of them extending over several
-pages <span id="fr_99"></span>[2](#fn_99) while others are limited to a
-few lines. <span id="fr_100"></span>[3](#fn_100) In some both persons of
+pages <span id="fr_99"></span>[2](#fn_99.md) while others are limited to a
+few lines. <span id="fr_100"></span>[3](#fn_100.md) In some both persons of
 the drama are not introduced, and the narrator, who is, of course, the
 author himself, speaks in his own character. <span
-id="fr_101"></span>[4](#fn_101) In others one is left to conjecture as
-to the identity of the improvisor. <span id="fr_102"></span>[5](#fn_102)
+id="fr_101"></span>[4](#fn_101.md) In others one is left to conjecture as
+to the identity of the improvisor. <span id="fr_102"></span>[5](#fn_102.md)
 
 As regards the style of the work, its distinctive feature is
 parallelism, which consists in making the second part of a
@@ -221,7 +221,7 @@ parallelism, which consists in making the second part of a
 sentence balance with the first, either by way of antithesis, or by
 expressing the same idea in different words, thus producing, as it were,
 a rhyme of the sense as well as of the sound. <span
-id="fr_103"></span>[1](#fn_103)
+id="fr_103"></span>[1](#fn_103.md)
 
 The Maqámát did much to fix a style of composition in which Persian and
 Greek ideas could make little inroads. Still there is more of the
@@ -238,7 +238,7 @@ important branch of b*elles-lettres* (…), the relative merits of Jarír
 and Farazdaq, a question the Arabs never seemed able to decide;
 incidents from the lives of Dhúr’l-Rumma and Farazdaq; tests of
 acquaintance with the principal poets and their poetry; <span
-id="fr_104"></span>[2](#fn_104) polemical questions such as the
+id="fr_104"></span>[2](#fn_104.md) polemical questions such as the
 Mu‘tazilite heresy, the doctrine of free will and the dogmas of
 predestination and the uncreate Qur’án.
 
@@ -248,7 +248,7 @@ popular superstitions such as the belief in charms, pulpit oratory, the
 dangers of the desert, apt quotations from the Qur’án, popular sayings
 and customs illustrative of Bedawín life, insolence of the servants of
 the great, flattering and faithless friends and their treatment, <span
-id="fr_105"></span>[3](#fn_105) eulogy of the patron, satirizing of the
+id="fr_105"></span>[3](#fn_105.md) eulogy of the patron, satirizing of the
 Qáḍí and the convivial assembly. Others might be mentioned, but these
 are sufficient to show the subjects Hamadhání laid under contribution,
 and the versatile character of the Maqámát.
@@ -272,18 +272,18 @@ orators and poets of both nations at different periods.
 
 For instance, Hamadhání boasts of his ability to employ no less than
 four hundred artifices in writing and composition, <span
-id="fr_106"></span>[1](#fn_106) such as the writing of a letter which,
+id="fr_106"></span>[1](#fn_106.md) such as the writing of a letter which,
 if read backwards, furnishes the required reply, or an epistle
 containing no dotted letters, or without using the letters (ﺍ) or (ﻝ),
 or a letter which if read one way constitutes a eulogy, and, if taken in
 another, is a satire; feats which, when they were proposed to Abú Bakr
 al-Khwárazmí as literary tests, he denounced as the tricks of a
-juggler. <span id="fr_107"></span>[2](#fn_107)
+juggler. <span id="fr_107"></span>[2](#fn_107.md)
 
 He shows little disposition, however, to make use of such artifices in
 the Maqámát, but the suggestion was not lost upon Ḥarírí, who frequently
 employed them for the display of his superior skill and learning. <span
-id="fr_108"></span>[3](#fn_108)
+id="fr_108"></span>[3](#fn_108.md)
 
 In point of literary style and in regard to the manner of describing in
 an amusing way the occurrences of everyday life there is a closer
@@ -302,7 +302,7 @@ prose. 'These dialogues contained both male and female characters. Some
 were serious and some were humorous in style. They portrayed the daily
 life of the Sicilian Greeks, and were written in pithy, popular language
 full of proverbs and colloquialisms.' <span
-id="fr_109"></span>[4](#fn_109)
+id="fr_109"></span>[4](#fn_109.md)
 
 <span id="page_22">p. 22</span>
 
@@ -310,9 +310,9 @@ Almost every word of this description of the Mimes might, *mutatis
 mutandis*, be applied to the Maqámát. According to Reich the Mime
 influenced the thought of early ecclesiastical writers, and was a
 subject of considerable concern and controversy with the Christian
-Fathers. <span id="fr_110"></span>[1](mhm08.htm#fn_110) It found its way
+Fathers. <span id="fr_110"></span>[1](mhm08.htm#fn_110.md) It found its way
 to India and flourished in Syria, Palestine, Alexandria, Antioch and
-Constantinople. <span id="fr_111"></span>[2](mhm08.htm#fn_111) It would
+Constantinople. <span id="fr_111"></span>[2](mhm08.htm#fn_111.md) It would
 be strange indeed if the Arabs alone remained ignorant of its existence.
 That the term Mime was known to them appears from the word … and it is
 conceivable that the practice of composing humorous or entertaining
@@ -334,97 +334,97 @@ al-Iskanderí, the hero of the Maqamát.
 
 ### Footnotes
 
-<span id="fn_80"></span>[15:1](mhm07.htm#fr_80) De Slane's Introduction
+<span id="fn_80"></span>[15:1](mhm07.htm#fr_80.md) De Slane's Introduction
 to Ibn Kallikan, p. xxiii.
 
-<span id="fn_81"></span>[15:2](mhm07.htm#fr_81) Ibid., p. xxxi.
+<span id="fn_81"></span>[15:2](mhm07.htm#fr_81.md) Ibid., p. xxxi.
 
-<span id="fn_82"></span>[15:3](mhm07.htm#fr_82) See Ibn Khallikan i,
+<span id="fn_82"></span>[15:3](mhm07.htm#fr_82.md) See Ibn Khallikan i,
 102.
 
-<span id="fn_83"></span>[15:4](mhm07.htm#fr_83) See Letters, pp. 101-2.
+<span id="fn_83"></span>[15:4](mhm07.htm#fr_83.md) See Letters, pp. 101-2.
 
-<span id="fn_84"></span>[15:5](mhm07.htm#fr_84) Numerous examples of
+<span id="fn_84"></span>[15:5](mhm07.htm#fr_84.md) Numerous examples of
 these rich rewards, out of all proportion to the performance, might be
 quoted, e.g. Abú’l-‘Anbas, the hero of the forty-second maqáma, received
 from the Khalífa Mutúwakkil 10,000 dirhems for a few verses. (See Yaqút,
 *Dictionary of Learned Men*, vi. 406). Several instances are mentioned
 by Ibn Khallikan in his life of *Saif al-Daula*, ii, 334-7.
 
-<span id="fn_85"></span>[15:6](mhm07.htm#fr_85) See Letters, pp. 104-5
+<span id="fn_85"></span>[15:6](mhm07.htm#fr_85.md) See Letters, pp. 104-5
 and Text, pp. 187-8.
 
-<span id="fn_86"></span>[15:7](mhm07.htm#fr_86) See Qur’án, v. 92 and
+<span id="fn_86"></span>[15:7](mhm07.htm#fr_86.md) See Qur’án, v. 92 and
 Hermann Reich, *Der Mimus*, p. 80.
 
-<span id="fn_87"></span>[16:1](mhm07.htm#fr_87) Ibn Khallikan, i, 34.
+<span id="fn_87"></span>[16:1](mhm07.htm#fr_87.md) Ibn Khallikan, i, 34.
 
-<span id="fn_88"></span>[16:2](mhm07.htm#fr_88) On p. 49 of the Letters,
+<span id="fn_88"></span>[16:2](mhm07.htm#fr_88.md) On p. 49 of the Letters,
 Hamadhání taunts Abú Bakr al-Khwárazmí with having persistently
 practised mendicity and condemns the practice as a degrading one!
 
-<span id="fn_89"></span>[16:3](mhm07.htm#fr_89) Ḥarírí says: 'Both these
+<span id="fn_89"></span>[16:3](mhm07.htm#fr_89.md) Ḥarírí says: 'Both these
 are obscure persons not known.' Ḥarírí, p. 6.
 
-<span id="fn_90"></span>[16:4](mhm07.htm#fr_90) *Zahr al-Adáb*, i, pp.
+<span id="fn_90"></span>[16:4](mhm07.htm#fr_90.md) *Zahr al-Adáb*, i, pp.
 254-5.
 
-<span id="fn_91"></span>[16:5](mhm07.htm#fr_91) Men of learning said of
+<span id="fn_91"></span>[16:5](mhm07.htm#fr_91.md) Men of learning said of
 Ibn Duraid that he was the most learned among the poets and ablest poet
 among the learned. Ibn Khallikan, iii, 38.
 
-<span id="fn_92"></span>[16:6](mhm07.htm#fr_92) *Dictionary of Learned
+<span id="fn_92"></span>[16:6](mhm07.htm#fr_92.md) *Dictionary of Learned
 Men*, vi, 489.
 
-<span id="fn_93"></span>[16:7](mhm07.htm#fr_93) Ibn Khallikan, iii, 38.
+<span id="fn_93"></span>[16:7](mhm07.htm#fr_93.md) Ibn Khallikan, iii, 38.
 
-<span id="fn_94"></span>[17:1](mhm07.htm#fr_94) See collection of
+<span id="fn_94"></span>[17:1](mhm07.htm#fr_94.md) See collection of
 nawádir in Mabadi al-Lughat by Shaikh ‘Abdulláh (ob. A. H. 421) pub. A.
 H. 1325.
 
-<span id="fn_95"></span>[17:2](mhm07.htm#fr_95) See Ibn ‘Arabsháh, *Life
+<span id="fn_95"></span>[17:2](mhm07.htm#fr_95.md) See Ibn ‘Arabsháh, *Life
 of Timúr*.
 
-<span id="fn_96"></span>[18:1](mhm07.htm#fr_96) Introduction to the
+<span id="fn_96"></span>[18:1](mhm07.htm#fr_96.md) Introduction to the
 Text, p. 1.
 
-<span id="fn_97"></span>[18:2](mhm07.htm#fr_97) Text, pp. 203-4.
+<span id="fn_97"></span>[18:2](mhm07.htm#fr_97.md) Text, pp. 203-4.
 
-<span id="fn_98"></span>[19:1](mhm07.htm#fr_98) There are more than a
+<span id="fn_98"></span>[19:1](mhm07.htm#fr_98.md) There are more than a
 hundred pieces of poetry distributed throughout the Text.
 
-<span id="fn_99"></span>[19:2](mhm07.htm#fr_99) The Maqámát of Maḍirah,
+<span id="fn_99"></span>[19:2](mhm07.htm#fr_99.md) The Maqámát of Maḍirah,
 pp. 101-15 and Ṣaimara, pp. 207-16.
 
-<span id="fn_100"></span>[19:3](mhm07.htm#fr_100) The Maqámát of
+<span id="fn_100"></span>[19:3](mhm07.htm#fr_100.md) The Maqámát of
 Knowledge, p. 202 and Advice, p. 204 and the Yellow, 13.229.
 
-<span id="fn_101"></span>[19:4](mhm07.htm#fr_101) The Maqámát of
+<span id="fn_101"></span>[19:4](mhm07.htm#fr_101.md) The Maqámát of
 Baghdad, Ṣaimara and Bishr.
 
-<span id="fn_102"></span>[19:5](mhm07.htm#fr_102) The Maqáma of the
+<span id="fn_102"></span>[19:5](mhm07.htm#fr_102.md) The Maqáma of the
 Nájim.
 
-<span id="fn_103"></span>[20:1](mhm07.htm#fr_103) See Chenery's
+<span id="fn_103"></span>[20:1](mhm07.htm#fr_103.md) See Chenery's
 Introduction to Ḥarírí, p. 45.
 
-<span id="fn_104"></span>[20:2](mhm07.htm#fr_104) The *Kitáb al-Aghání*,
+<span id="fn_104"></span>[20:2](mhm07.htm#fr_104.md) The *Kitáb al-Aghání*,
 which the author was able to consult, contains numerous references to
 these four themes.
 
-<span id="fn_105"></span>[20:3](mhm07.htm#fr_105) Taken from
+<span id="fn_105"></span>[20:3](mhm07.htm#fr_105.md) Taken from
 Abú‘l-‘Anbas.
 
-<span id="fn_106"></span>[21:1](mhm07.htm#fr_106) Letters, p. 74.
+<span id="fn_106"></span>[21:1](mhm07.htm#fr_106.md) Letters, p. 74.
 
-<span id="fn_107"></span>[21:2](mhm07.htm#fr_107) Ibid., p. 76,
+<span id="fn_107"></span>[21:2](mhm07.htm#fr_107.md) Ibid., p. 76,
 
-<span id="fn_108"></span>[21:3](mhm07.htm#fr_108) See Ḥarírí, vi, xv,
+<span id="fn_108"></span>[21:3](mhm07.htm#fr_108.md) See Ḥarírí, vi, xv,
 xvi, xviii, xxix, xliv, etc.
 
-<span id="fn_109"></span>[21:4](mhm07.htm#fr_109) *Encyclopædia
+<span id="fn_109"></span>[21:4](mhm07.htm#fr_109.md) *Encyclopædia
 Britannica*, xxv, 429.
 
 ------------------------------------------------------------------------
 
-[Next: V. Hamadhání and Ḥarírí Compared](mhm08)
+[Next: V. Hamadhání and Ḥarírí Compared](mhm08.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk16)  [Next](tpk18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk16)  [Next](tpk18.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ PEACE BE UNTO YOU, PEACE BE UNTO YOU.
 
 ------------------------------------------------------------------------
 
-[Next: Forward to the King of Kings](tpk18)
+[Next: Forward to the King of Kings](tpk18.md)

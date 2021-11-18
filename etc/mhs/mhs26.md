@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs25)  [Next](mhs27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs25)  [Next](mhs27.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Necessity, some by fatal Destiny, and others by deliberate Counsel.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Roman Goddess Fortuna](mhs27)
+[Next: II. The Roman Goddess Fortuna](mhs27.md)

@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama305) 
-[Next](kama402) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama305.md) 
+[Next](kama402.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -159,7 +159,7 @@ absence of her husband on a journey.
 There are also some verses on the subject as follows:
 
 'The wife, whether she be a woman of noble family, or a virgin
-widow <span id="fr_49"></span>[1](kama101.htm#fn_0) remarried, or a
+widow <span id="fr_49"></span>[1](kama101.htm#fn_0.md) remarried, or a
 concubine, should lead a chaste life, devoted to her husband, and doing
 everything for his welfare. Women acting thus acquire Dharma, Artha, and
 Kama, obtain a high position, and generally keep their husbands devoted
@@ -169,7 +169,7 @@ to them.
 
 ### Footnotes
 
-<span id="fn_49"></span>[1](#fr_-1) This probably refers to a girl
+<span id="fn_49"></span>[1](#fr_-1.md) This probably refers to a girl
 married in her infancy, or when very young and whose husband had died
 before she arrived at the age of puberty. Infant marriages are still the
 common custom of the Hindoos.
@@ -178,4 +178,4 @@ common custom of the Hindoos.
 
 [Next: Chapter II. On the Conduct of the Eldest Wife Towards the Other
 Wives of her Husband, and of the Younger Wife Towards the Elder
-Ones...](kama402)
+Ones...](kama402.md)

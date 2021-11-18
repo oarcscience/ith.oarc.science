@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm58)  [Next](pnm60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm58)  [Next](pnm60.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -60,7 +60,7 @@ concerning those amorous bewitchings
 Is wounded with the darts of Cupid blind.  
 All parts do Sympathize i' th’ wound, but know  
 The blood appears in that which had the blow. <span
-id="fr_30"></span>[\*](#fn_30)</span>
+id="fr_30"></span>[\*](#fn_30.md)</span>
 
 </div>
 
@@ -79,7 +79,7 @@ use Saturnine things, and so of the rest.
 
 ### Footnotes
 
-<span id="fn_30"></span>[155:\*](pnm59.htm#fr_30) Again, in speaking of
+<span id="fn_30"></span>[155:\*](pnm59.htm#fr_30.md) Again, in speaking of
 the power of Venus, the goddess of peace, over Mars, the god of war, he
 says:
 
@@ -97,4 +97,4 @@ And all his soul hangs quivering from thy lips.</span>
 ------------------------------------------------------------------------
 
 [Next: Chapter LI. Of Certain Observations, Producing Wonderful
-Virtues](pnm60)
+Virtues](pnm60.md)

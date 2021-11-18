@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia41)  [Next](aia43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia41)  [Next](aia43.md) 
 
 ------------------------------------------------------------------------
 
@@ -291,4 +291,4 @@ learning, and gains great reputation by his abilities.
 
 ------------------------------------------------------------------------
 
-[Next: Of the ✶ and △ Aspects Between the Significators](aia43)
+[Next: Of the ✶ and △ Aspects Between the Significators](aia43.md)

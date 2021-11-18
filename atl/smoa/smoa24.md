@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa23)  [Next](smoa25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa23)  [Next](smoa25.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -168,4 +168,4 @@ to ancestral grasp of power.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIII. The destruction of Atlantis. Activities of the
-inhabitants on the morning the island sank into the ocean](smoa25)
+inhabitants on the morning the island sank into the ocean](smoa25.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb00)  [Next](ftb02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb00)  [Next](ftb02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_3">p. 3</span>
 
-<span id="img_00300"></span> ![Foreword](img/00300.jpg)
+<span id="img_00300"></span> ![Foreword](img/00300.jpg.md)
 
 These tales are still characteristic of the tales told or sung in the
 farmhouses, at weddings and christenings in the Breton-speaking regions
@@ -49,4 +49,4 @@ October, 1929.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ftb02)
+[Next: Contents](ftb02.md)

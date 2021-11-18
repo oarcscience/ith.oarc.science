@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt54)  [Next](egt56) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt54)  [Next](egt56.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ so by a key thou obtainest thy release.
 
 ------------------------------------------------------------------------
 
-[Next: ON DREAMS OF HANDICRAFTSMEN.](egt56)
+[Next: ON DREAMS OF HANDICRAFTSMEN.](egt56.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](lam)  [Next](dan) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](lam)  [Next](dan.md) 
 
 ------------------------------------------------------------------------
 
@@ -5322,4 +5322,4 @@ van die stad sal van vandag af wees: Die HERE is daar!
 
 ------------------------------------------------------------------------
 
-[Next: Daniel](dan)
+[Next: Daniel](dan.md)

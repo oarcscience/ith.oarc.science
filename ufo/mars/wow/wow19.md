@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow18)  [Next](wow20) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow18)  [Next](wow20.md) 
 
 ------------------------------------------------------------------------
 
@@ -323,4 +323,4 @@ I could see, the thing was without a directing Martian at all.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three: The Days Of Imprisonment](wow20)
+[Next: Chapter Three: The Days Of Imprisonment](wow20.md)

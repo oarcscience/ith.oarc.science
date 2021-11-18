@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws67)  [Next](cws69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws67)  [Next](cws69.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ AND the Spirit of Wisdom gave counsel, whose is the angel of the
 innermost sphere, the brightest of the sons of heaven.
 
 2\. Lord Adonai, who createst, remember the souls beneath Thine
-altar. <span id="fr_209"></span>[1](#fn_209)
+altar. <span id="fr_209"></span>[1](#fn_209.md)
 
 3\. And put a firmament between them and Thee, to divide the upper from
 the nether, and the inner from the without.
@@ -74,12 +74,12 @@ and the upper.
 again.
 
 21\. And his number is the number of twain; he is the angel of the
-twofold states. <span id="fr_210"></span>[1](#fn_210)
+twofold states. <span id="fr_210"></span>[1](#fn_210.md)
 
 22\. And the waters below and above the firmament, are the evening and
 the morning of the second day.\[G\]
 
-Hymn to Hermes <span id="fr_211"></span>[2](#fn_211)
+Hymn to Hermes <span id="fr_211"></span>[2](#fn_211.md)
 
 1\. As a moving light between heaven and earth; as a white cloud
 assuming many shapes;
@@ -142,7 +142,7 @@ sword, and the hat.
 boldness, which cometh by faith in God; a mighty will, and a complete
 discretion.
 
-19\. He who discovers <span id="fr_212"></span>[1](#fn_212) the holy
+19\. He who discovers <span id="fr_212"></span>[1](#fn_212.md) the holy
 mysteries is lost.
 
 20\. Go thy way in silence, and see thou tell no man.
@@ -152,7 +152,7 @@ mysteries is lost.
 ##### PART 2
 
 An Exhortation of Hermes to his Neophytes <span
-id="fr_213"></span>[1](#fn_213)
+id="fr_213"></span>[1](#fn_213.md)
 
 I. He whose adversaries fight with weapons of steel, must himself be
 armed in like manner, if he would not be ignominiously slain or save
@@ -196,7 +196,7 @@ are in God, and God in you.
 
 15\. Call no man your master or king upon the earth, lest ye forsake the
 spirit for the form and become idolaters. <span
-id="fr_214"></span>[2](#fn_214)
+id="fr_214"></span>[2](#fn_214.md)
 
 <span id="page_153">p. 153</span>
 
@@ -225,7 +225,7 @@ of yourselves.
 24\. For Adam -was first formed, then Eve.
 
 25\. Ye are twain, the man with the woman, <span
-id="fr_215"></span>[1](cws69.htm#fn_215) and she with him, neither man
+id="fr_215"></span>[1](cws69.htm#fn_215.md) and she with him, neither man
 nor woman, but one creature.
 
 26\. And the kingdom of God is within you.\[K\]
@@ -234,32 +234,32 @@ nor woman, but one creature.
 
 ### Footnotes
 
-<span id="fn_209"></span>[149:1](cws68.htm#fr_209) "Souls in so early a
+<span id="fn_209"></span>[149:1](cws68.htm#fr_209.md) "Souls in so early a
 stage of their evolution as to have not yet attained the consciousness
 of their Spiritual nature, and to be, therefore, still in bondage to the
 lower elements."    E. M.
 
-<span id="fn_210"></span>[150:1](cws68.htm#fr_210) The state, that is,
+<span id="fn_210"></span>[150:1](cws68.htm#fr_210.md) The state, that is,
 wherein the spirit and soul are all, and there is no admixture of matter
 (Lecture by E. M. on "The Creative Week and Its Four Generations
 ").    S. H. H.
 
-<span id="fn_211"></span>[150:2](cws68.htm#fr_211) Received under
+<span id="fn_211"></span>[150:2](cws68.htm#fr_211.md) Received under
 Illumination occuring in sleep, in the night of September 25, 1878, at
 Paris, and written down on waking (see *Life of Anna Kingsford*, vol. i,
 pp. 277, 278; vol. ii, p. 291).
 
-<span id="fn_212"></span>[151:1](cws68.htm#fr_212) *I.e.* uncovers, or
+<span id="fn_212"></span>[151:1](cws68.htm#fr_212.md) *I.e.* uncovers, or
 discloses, to profane eyes.    E. M.
 
-<span id="fn_213"></span>[152:1](cws68.htm#fr_213) Received, September
+<span id="fn_213"></span>[152:1](cws68.htm#fr_213.md) Received, September
 1878 (see *Life of Anna Kingsford*, vol. i, pp. 273, 274 and See p.
 280).
 
-<span id="fn_214"></span>[152:2](cws68.htm#fr_214) At this point the
+<span id="fn_214"></span>[152:2](cws68.htm#fr_214.md) At this point the
 seeress was shown a garland of fig-leaves, the symbol of Hermes. For its
 meaning see pp. 25-27 and 155.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. XIII: Eta, Or (mystically) The Third Of The Gods](cws69)
+[Next: No. XIII: Eta, Or (mystically) The Third Of The Gods](cws69.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt08) [Next](bkt10)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt08) [Next](bkt10.md)
 
 ------------------------------------------------------------------------
 
@@ -53,10 +53,10 @@ unsparingly, so shalt thou put to shame all the interpreters of thy
 dream. Let all the children that are born this year, and all women that
 are with child, be immediately put to death, and thou mayest defy the
 apprehended peril."<span
-id="page_116_fr_*"></span>[\*](#page_116_note_*) Pharaoh followed this
+id="page_116_fr_*"></span>[\*](#page_116_note_*.md) Pharaoh followed this
 cruel counsel. Seven thousand children of one year and under were
 strangled forthwith, and as many women with child thrown into the
-Nile.<span id="page_116_fr_dagger"></span>[†](#page_116_note_dagger)
+Nile.<span id="page_116_fr_dagger"></span>[†](#page_116_note_dagger.md)
 
    One night, when Amram, an Israelite, who <span id="page_117">p.
 117</span> was one of Pharoah's viziers, was as usual in attendance on
@@ -112,7 +112,7 @@ in the least suspect Johabed, and made her an exception from the common
 rule, as she was the vizier's wife. Within a twelvemonth from that time
 Johabed gave birth to a man child, whom she called Musa (Moses). She was
 delivered without a pain.<span
-id="page_119_fr_*"></span>[\*](#page_119_note_*)
+id="page_119_fr_*"></span>[\*](#page_119_note_*.md)
 
    But the sorrow of her heart was the greater when she cast her eyes on
 the little child, whose face beamed like the moon in her splendor, and
@@ -178,7 +178,7 @@ her own face, which hitherto had been covered with scars and sores of
 all the most hideous colors imaginable, shone like the moon in its
 brightness and purity, and her sisters exclaimed in amazement, "By what
 means hast thou been so suddenly freed from leprosy?"<span
-id="page_122_fr_*"></span>[\*](#page_122_note_*)
+id="page_122_fr_*"></span>[\*](#page_122_note_*.md)
 
 <span id="page_123">p. 123</span>
 
@@ -232,7 +232,7 @@ Scarcely had he pronounced the words of grace <span id="page_125">p.
 sent for an Egyptian nurse; but Moses thrust her away, for it was not
 the will of the Highest that he should receive nourishment from a
 worshiper of idols.<span
-id="page_125_fr_*"></span>[\*](#page_125_note_*) Asia commanded another
+id="page_125_fr_*"></span>[\*](#page_125_note_*.md) Asia commanded another
 nurse to be brought; but her also, as well as a third one, Moses would
 not embrace. On the following morning the queen made known that any
 woman, who would engage to nurse a strange child for a handsome
@@ -256,7 +256,7 @@ the king's head, and throwing it on the ground, thrust it away with his
 foot. The king's suspicion was roused afresh: enraged, he ran to Asia,
 reproaching her for having persuaded him to let Moses live, and
 manifested once more a desire to put him to death;<span
-id="page_126_fr_*"></span>[\*](#page_126_note_*) but Asia laughed at him
+id="page_126_fr_*"></span>[\*](#page_126_note_*.md) but Asia laughed at him
 <span id="page_127">p. 127</span> for permitting the naughtiness of a
 child to excite in him such gloomy thoughts.
 
@@ -272,7 +272,7 @@ coin, when Allah, watching over his life, sent an angel, who, against
 the child's will, directed his hand into the burning coals, and even put
 one to his mouth. Pharaoh was again reassured, and entreated Asia for
 forgiveness; but Moses had burned his tongue, and was a stammerer from
-that day.<span id="page_127_fr_*"></span>[\*](#page_127_note_*)
+that day.<span id="page_127_fr_*"></span>[\*](#page_127_note_*.md)
 
    When Moses was six years old, Pharaoh one day teased him so much,
 that in his anger he pushed with his foot so violently against the
@@ -367,7 +367,7 @@ guided him into Midian, where the faithful priest Shuib (Jethro) dwelt,
 in the midst of idolaters. The sun was declining when he arrived before
 a well at the outskirts of the little town, and there stood Lija and
 Safurja, the two daughters of Shuib, with their flocks.<span
-id="page_131_fr_*"></span>[\*](#page_131_note_*)
+id="page_131_fr_*"></span>[\*](#page_131_note_*.md)
 
    "Why do you not water your cattle," inquired Moses, "since the night
 will soon overtake you?"
@@ -410,7 +410,7 @@ morning following his arrival, he accompanied the daughters of Shuib to
 the pasture; but as he had fled from Egypt without a staff, Safurja
 brought to him the miraculous rod of her father, which had served for
 the support and defense of the prophets before him.<span
-id="page_133_fr_*"></span>[\*](#page_133_note_*) Adam had brought it
+id="page_133_fr_*"></span>[\*](#page_133_note_*.md) Adam had brought it
 with him from Paradise: after his death it passed into the hands of
 Sheth; after that it went to Idris, then to Noah, Salih, and Abraham.
 Moses was thirty years old when he entered the service of Shuib, and
@@ -495,7 +495,7 @@ nothing of the costly things scattered through the various saloons were
 missing, Haman said to Pharaoh, "Aaron, who has watched by thee, must
 explain this matter; for, as thy chamber has likewise been opened, the
 intruder can have had no other object than to converse with him."<span
-id="page_137_fr_*"></span>[\*](#page_137_note_*)
+id="page_137_fr_*"></span>[\*](#page_137_note_*.md)
 
 <span id="page_138">p. 138</span>
 
@@ -694,7 +694,7 @@ often he might change his raiment, had not a moment's rest. When this
 plague disappeared, and Pharaoh still resisted the wishes of Moses, all
 the waters were changed to blood as soon as an Egyptian took them in his
 hand, but remained unchanged for the Israelites.<span
-id="page_146_fr_*"></span>[\*](#page_146_note_*)
+id="page_146_fr_*"></span>[\*](#page_146_note_*.md)
 
    Finally, many of the Egyptians, especially the more eminent, who had
 strengthened Pharaoh in his unbelief were turned into stone, together
@@ -703,7 +703,7 @@ the bazar, with a balance in his hand; there, another, marking something
 with the Kalam, or counting gold; and even the gate-keeper of the palace
 stood there turned to stone, holding a sword in his right hand. Omar Ibn
 Abd Alasis<span
-id="page_146_fr_dagger"></span>[†](#page_146_note_dagger) had in his
+id="page_146_fr_dagger"></span>[†](#page_146_note_dagger.md) had in his
 possession all kinds <span id="page_147">p. 147</span> of petrified
 fruits of those times, and frequently showed them to his guests as a
 warning against unbelief. At Moses's prayer, Allah revived the petrified
@@ -792,7 +792,7 @@ which ran up and down like a natural one.
 
    "Here is your Lord, and the Lord of Moses!" then cried Samiri; "this
 God we will worship!"<span
-id="page_150_fr_*"></span>[\*](#page_150_note_*)
+id="page_150_fr_*"></span>[\*](#page_150_note_*.md)
 
  
 
@@ -828,7 +828,7 @@ day of the resurrection from his grave, and enter into Paradise at the
 head of all the prophets. He also shall obtain <span id="page_152">p.
 152</span> the grace of revealing to his people the commandment of the
 five daily prayers and the fast of Ramadhan."<span
-id="page_152_fr_*"></span>[\*](#page_152_note_*)
+id="page_152_fr_*"></span>[\*](#page_152_note_*.md)
 
    When Moses returned again to his own people, and found them
 worshiping before the golden calf, he fell upon Aaron, caught him by the
@@ -1039,7 +1039,7 @@ shall have grown up.
 
    "Thou seest, then," continued Al Chidhr, "that in all this I have not
 followed blind passion, but have acted according to the will of my
-Lord."<span id="page_160_fr_*"></span>[\*](#page_160_note_*)
+Lord."<span id="page_160_fr_*"></span>[\*](#page_160_note_*.md)
 
 <span id="page_161">p. 161</span>
 
@@ -1066,7 +1066,7 @@ Kolthum (Miriam), who was his wife, the science of alchemy, so that he
 was able to convert the meanest metal into gold. He was so rich that he
 built lofty walls of gold round his gardens, and required forty mules to
 carry the keys <span id="page_162">p. 162</span> of his treasures when
-he traveled.<span id="page_162_fr_*"></span>[\*](#page_162_note_*) By
+he traveled.<span id="page_162_fr_*"></span>[\*](#page_162_note_*.md) By
 means of his wealth he had succeeded in acquiring a truly regal
 influence during Moses's absence. But when, at Moses's return, his
 importance diminshed, he resolved on his destruction. He therefore
@@ -1142,7 +1142,7 @@ manifest his innocence in the presence of all the people, and behold,
 four angels brought Aaron's coffin from the cave, and raised it above
 the camp of the Israelites, so that every one could see him, and one of
 the angels exclaimed, "Allah has taken Aaron's soul to himself."<span
-id="page_165_fr_*"></span>[\*](#page_165_note_*) Moses, who now
+id="page_165_fr_*"></span>[\*](#page_165_note_*.md) Moses, who now
 anticipated his approaching end pronounced a long discourse before the
 Israelites, in which he enforced on them the most important laws. At the
 close, he warned them against falsifying the Law, which had been
@@ -1273,7 +1273,7 @@ Israfil, and Azrail, who had dug it, and whom Moses had taken for men.
 
 ------------------------------------------------------------------------
 
-[Next](bkt10)
+[Next](bkt10.md)
 
 ------------------------------------------------------------------------
 
@@ -1281,7 +1281,7 @@ Israfil, and Azrail, who had dug it, and whom Moses had taken for men.
 
 <span id="footnotes_page_116">p. 116</span>
 
-   <span id="page_116_note_*"></span>[\*](#page_116_fr_*) "Here the
+   <span id="page_116_note_*"></span>[\*](#page_116_fr_*.md) "Here the
 Mussulman legend differs from the Talmud, according to which Bileam gave
 this counsel. Job was silent; and Jethro, the king's third counselor,
 endeavored to dissuade the king from violence. Bileam was therefore
@@ -1290,7 +1290,7 @@ greatly for his silence; but Jethro, who, on account of his clemency,
 was forced to flee into Midian, was rewarded by becoming the
 father-in-law of Moses."—*Midrash*, p. 52.
 
-   <span id="page_116_note_dagger"></span>[†](#page_116_fr_dagger) "In
+   <span id="page_116_note_dagger"></span>[†](#page_116_fr_dagger.md) "In
 the year 130 after the settlement of the Israelites in Egypt, Pharaoh
 dreamed of an aged man who was holding a balance in his right hand. In
 one of its scales he placed all the sages and nobles of Egypt, and a
@@ -1305,7 +1305,7 @@ slain at its birth.' The king did as he was advised."—*Miarash*, p. 51.
 
 <span id="footnotes_page_119">p. 119</span>
 
-   <span id="page_119_note_*"></span>[\*](#page_119_fr_*) On these
+   <span id="page_119_note_*"></span>[\*](#page_119_fr_*.md) On these
 words, "And she saw that the child was fair," the Midrash offers the
 following reflection: "The learned maintain that at the birth of Moses
 there appeared a light which shone over the whole world, for in the
@@ -1322,7 +1322,7 @@ is no bad specimen of Rabbinical logic.—*E. T.*
 
 <span id="footnotes_page_122">p. 122</span>
 
-   <span id="page_122_note_*"></span>[\*](#page_122_fr_*) The daughter
+   <span id="page_122_note_*"></span>[\*](#page_122_fr_*.md) The daughter
 of Pharaoh went to the river for she was a leper, <span
 id="footnotes_page_123">p. 123</span> and not permitted to use warm
 baths; but she was healed as soon as she stretched out her hand to the
@@ -1333,7 +1333,7 @@ to come.—*Midrash*, p. 51.
 
 <span id="footnotes_page_125">p. 125</span>
 
-   <span id="page_125_note_*"></span>[\*](#page_125_fr_*) From these
+   <span id="page_125_note_*"></span>[\*](#page_125_fr_*.md) From these
 words, his sister said to the daughters of Pharaoh, "Shall I call a
 Hebrew nurse?" We may conclude that they had taken him (Moses) to all
 the Egyptian women, but that he refused to receive food from them, for
@@ -1342,7 +1342,7 @@ Shekinah touch that which is unclean?"—*Midrash*, p. 51.
 
 <span id="footnotes_page_126">p. 126</span>
 
-   <span id="page_126_note_*"></span>[\*](#page_126_fr_*) In the third
+   <span id="page_126_note_*"></span>[\*](#page_126_fr_*.md) In the third
 year after the birth of Moses, Pharaoh was sitting on his throne, the
 queen was at his right hand, his daughter holding Moses at his left, and
 the princes of Egypt were round a table before him. Moses stretched out
@@ -1361,7 +1361,7 @@ presented to the child," &c.—*Midrash*, p. 52.
 
 <span id="footnotes_page_127">p. 127</span>
 
-   <span id="page_127_note_*"></span>[\*](#page_127_fr_*) The Jewish
+   <span id="page_127_note_*"></span>[\*](#page_127_fr_*.md) The Jewish
 legend accounts from this occurrence for the words of Moses in Exodus,
 chap. iv., ver. 10: "O my Lord! I am not eloquent, neither heretofore,
 nor since thou hast spoken to thy servant; but I am slow of speech, and
@@ -1369,7 +1369,7 @@ of a slow tongue."—*E. T.*
 
 <span id="footnotes_page_131">p. 131</span>
 
-   <span id="page_131_note_*"></span>[\*](#page_131_fr_*) According to
+   <span id="page_131_note_*"></span>[\*](#page_131_fr_*.md) According to
 the Jewish legend, there intervened many years between the flight of
 Moses from Egypt and his arrival in Midian: these years, they say, he
 spent in Ethiopia, where Bilaam had gone before him; and while the king
@@ -1394,7 +1394,7 @@ bread and water, &c.
 
 <span id="footnotes_page_133">p. 133</span>
 
-   <span id="page_133_note_*"></span>[\*](#page_133_fr_*) The rod of
+   <span id="page_133_note_*"></span>[\*](#page_133_fr_*.md) The rod of
 Moses was created on the sixth day, and given to Adam while yet in
 Paradise: he left it to Enoch, and he gave it to Shem; from him it
 descended to Isaac and Jacob. The latter took it with him into Egypt,
@@ -1411,7 +1411,7 @@ his fold.—Midrash, p. 53.
 
 <span id="footnotes_page_137">p. 137</span>
 
-   <span id="page_137_note_*"></span>[\*](#page_137_fr_*) Rabbi Meier
+   <span id="page_137_note_*"></span>[\*](#page_137_fr_*.md) Rabbi Meier
 gays, "Pharaoh's palace had 400 gates, 100 on each side; and before each
 gate stood 60,000 tried warriors." It was therefore necessary for
 Gabriel to introduce Moses and Aaron by another way. On seeing them,
@@ -1433,7 +1433,7 @@ accompanying them to Pharaoh."—*Midrash*, p. 44, 45.
 
 <span id="footnotes_page_146">p. 146</span>
 
-   <span id="page_146_note_*"></span>[\*](#page_146_fr_*) "All the water
+   <span id="page_146_note_*"></span>[\*](#page_146_fr_*.md) "All the water
 kept in vessels was changed into blood; even the spittle in the mouth of
 the Egyptians; for it is written, 'there was blood, throughout the land
 of Egypt.' Rabbi Levi informs us that this plague enriched the Jews; for
@@ -1443,14 +1443,14 @@ went it remained pure. Drinking out of the same vessel, the Jew obtained
 water, and the other blood; but if the latter bought it of a Jew, it
 remained pure."—*Midrash*, p. 66.
 
-   <span id="page_146_note_dagger"></span>[†](#page_146_fr_dagger) This
+   <span id="page_146_note_dagger"></span>[†](#page_146_fr_dagger.md) This
 Omar was the eighth caliph of the house of Omarides. <span
 id="footnotes_page_147">p. 147</span> He ascended the throne in the 99th
 year of the Hegira, and was previously governor of Egypt.
 
 <span id="footnotes_page_150">p. 150</span>
 
-   <span id="page_150_note_*"></span>[\*](#page_150_fr_*) According to
+   <span id="page_150_note_*"></span>[\*](#page_150_fr_*.md) According to
 the Rabbinical legends, Samael (Satan) rushed into the calf, and groaned
 so loudly that the Israelites believed it living. The Rabbis also
 maintained that it was not Aaron, but some other person (some say
@@ -1458,7 +1458,7 @@ Micah), who made the calf.—Vide *Seiger*, p. 167.
 
 <span id="footnotes_page_152">p. 152</span>
 
-   <span id="page_152_note_*"></span>[\*](#page_152_fr_*) It is well
+   <span id="page_152_note_*"></span>[\*](#page_152_fr_*.md) It is well
 known that the Mussulmans keep a yearly fast, which lasts from sunrise
 to sunset for a whole month. And they even exceed the Jews in
 strictness, for they not only take neither meat nor drink, but also
@@ -1467,7 +1467,7 @@ of Ramadhan falls at every season of the year.
 
 <span id="footnotes_page_160">p. 160</span>
 
-   <span id="page_160_note_*"></span>[\*](#page_160_fr_*) This legend is
+   <span id="page_160_note_*"></span>[\*](#page_160_fr_*.md) This legend is
 evidently of Jewish origin. It is related respecting Moses, that while
 on Mount Sinai, the Lord instructed him in the mysteries of his
 providence. Moses having complained of the impunity of vice and its
@@ -1503,13 +1503,13 @@ with the Arabic legend, may have read the one have related in Schiller's
 
 <span id="footnotes_page_162">p. 162</span>
 
-   <span id="page_162_note_*"></span>[\*](#page_162_fr_*) The Midrash
+   <span id="page_162_note_*"></span>[\*](#page_162_fr_*.md) The Midrash
 says, "Korah had 300 white mules, which carried the keys of his
 treasuries. His wealth was his ruin!"
 
 <span id="footnotes_page_165">p. 165</span>
 
-   <span id="page_165_note_*"></span>[\*](#page_165_fr_*) In perfect
+   <span id="page_165_note_*"></span>[\*](#page_165_fr_*.md) In perfect
 accordance with the Midrash. p. 255.
 
  

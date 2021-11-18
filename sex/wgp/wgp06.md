@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp05)  [Next](wgp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp05)  [Next](wgp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ phallus. It is not an uncommon object among Roman
  
 
 <span id="img_pl10"></span> [![](tn/generic.jpg)  
-Click to view](img/pl10.jpg)  
+Click to view](img/pl10.jpg.md)  
 PLATE X  
 PHALLIC LEADEN TOKENS FROM THE SEINE
 
@@ -75,7 +75,7 @@ apricot,
 <span id="page_70">p. 70</span>
 
 to which a similar erotic meaning was given. <span
-id="fr_56"></span>[57](#fn_56) The form, under this name, was preserved
+id="fr_56"></span>[57](#fn_56.md) The form, under this name, was preserved
 through the middle ages, especially in the South of Europe, where Roman
 traditions were strongest, both as an amulet and as an insulting
 gesture. The Italian called this gesture *fare la fica*, to make or do
@@ -97,7 +97,7 @@ This we
 <span id="page_71">p. 71</span>
 
 assume from the circumstance that the English phrase was "to give the
-fig" (*dar la higa*), <span id="fr_57"></span>[58](#fn_57) and that the
+fig" (*dar la higa*), <span id="fr_57"></span>[58](#fn_57.md) and that the
 writers of the Elizabethan age call it "the fig of Spain." Thus, ancient
 "Pistol, in Shakespeare:--
 
@@ -137,18 +137,18 @@ shots of the enemy.
 
 ### Footnotes
 
-<span id="fn_55"></span>[65:56](wgp05.htm#fr_55) [Plate XII, Figs. 1 and
-2](wgp08.htm#img_pl12).
+<span id="fn_55"></span>[65:56](wgp05.htm#fr_55.md) [Plate XII, Figs. 1 and
+2](wgp08.htm#img_pl12.md).
 
-<span id="fn_56"></span>[70:57](wgp06.htm#fr_56) See before, page
-[43](wgp03.htm#page_43). Among the Romans, the fig was considered as a
+<span id="fn_56"></span>[70:57](wgp06.htm#fr_56.md) See before, page
+[43](wgp03.htm#page_43.md). Among the Romans, the fig was considered as a
 fruit consecrated to Priapus, on account, it is said, of its
 productiveness.
 
-<span id="fn_57"></span>[71:58](wgp06.htm#fr_57) "Behold next I see
+<span id="fn_57"></span>[71:58](wgp06.htm#fr_57.md) "Behold next I see
 contempt, *giving me the fico*." *Wit's Misery*, quoted in Nares, v.
 *Fico*.
 
 ------------------------------------------------------------------------
 
-[Next: Sexual Demons](wgp07)
+[Next: Sexual Demons](wgp07.md)

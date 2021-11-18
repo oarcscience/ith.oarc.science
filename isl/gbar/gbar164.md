@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar163) [Next](gbar165)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar163) [Next](gbar165.md)
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ not to sin, and entirely depriveth him of repentance.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar165)
+[Next](gbar165.md)

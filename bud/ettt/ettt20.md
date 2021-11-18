@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt19)  [Next](ettt21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt19)  [Next](ettt21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 
 Some say that this teaching (Six Yogas) appears in the first part of the
 general-contents section of the Book; some that it is in the last part
-of the Book[106](ettt22.htm#an_n_nar:106)<span
+of the Book[106](ettt22.htm#an_n_nar:106.md)<span
 id="an_r_nar:106"></span>. The former claim apparently has two mistakes.
 According to those who avow the latter, there is a commentary as well as
 a book called *Collective Instructions* written by Marpa; but this seems
@@ -35,7 +35,7 @@ great power (to the followers).
 
 The worst sources are those so-called "Six Yogas" texts discovered in
 the *Dharma of Treasury;* though they are numerous, I can have no
-confidence whatsoever in them[107](ettt22.htm#an_n_nar:107)<span
+confidence whatsoever in them[107](ettt22.htm#an_n_nar:107.md)<span
 id="an_r_nar:107"></span>.
 
 Marpa (the founder of the Kagyupa school) imparted this teaching to
@@ -55,9 +55,9 @@ Practitioner.
 
 The Light Yoga is mainly based on the pith-instructions and the
 available commentary *Wisdom Essence*. In addition to these sources,
-[writings](errata.htm#64) of the "Holy Father and Son" \[two revered and
+[writings](errata.htm#64.md) of the "Holy Father and Son" \[two revered and
 learned lamas who were father and son, with family name of
-[*A*pags-pa](errata.htm#65) *Ed*.\] have been relied upon. The
+[*A*pags-pa](errata.htm#65.md) *Ed*.\] have been relied upon. The
 Transformation Yoga and the Yoga of Entering into Another's Body are
 based not only on the *Tantra of Gdan-bzhi* as mentioned before, but
 also on the *Tantra Sambhoda* and the *Tantra Vajra Dakini*. Therefore,
@@ -68,6 +68,6 @@ them.
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](ettt21)
+[Next: Epilogue](ettt21.md)
 
 </div>

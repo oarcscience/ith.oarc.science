@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam09)  [Next](kam11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam09)  [Next](kam11.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -117,7 +117,7 @@ value.
 
 Rabba said: That a change acquires title is both written and taught:
 *Written* \[Lev. v. 23\]: "And he shall restore the robbed article <span
-id="fr_37"></span>[1](#fn_37) that he hath taken violently away." Why
+id="fr_37"></span>[1](#fn_37.md) that he hath taken violently away." Why
 did the Scripture mention "that he hath taken violently away"? (is it
 not understood from the words "*robbed* article"?)--to teach that if it
 is still in the same state as at the time it was stolen it must be
@@ -347,7 +347,7 @@ Jehudah R. Dosa. Why do you declare that Boraitha incorrect--better
 correct the statement of R. Johanan and place R. Johanan instead of R.
 Dosa? It may be said that the names in the Boraitha must be changed in
 any event, for from this Boraitha is to be inferred that R. Jehudah
-holds to the theory of choice, <span id="fr_38"></span>[1](#fn_38) and
+holds to the theory of choice, <span id="fr_38"></span>[1](#fn_38.md) and
 it is known from his statements elsewhere
 
 <span id="page_157">p. 157</span>
@@ -369,7 +369,7 @@ previously to be his part of the inheritance, which, according to the
 biblical law, does not return; hence he does not hold to the theory of
 choice?). Therefore R. Johanan's statement above remains unchanged, but
 his statement that stolen property cannot be consecrated, etc., is based
-upon our Mishna (*supra*, page [149](#page_149)), which states, "The one
+upon our Mishna (*supra*, page [149](#page_149).md), which states, "The one
 who steals a stolen article from a thief does not pay double" (which is
 anonymous). And why so? It would be correct that he should not pay to
 the thief, for it is written \[Ex. xxii. 6\]: "And it be stolen out of
@@ -406,7 +406,7 @@ Johanan that the pious ones and R. Dosa, etc., I would say that under
 "the pious ones" R. Meir is meant, because did not R. Meir say elsewhere
 that second tithe is consecrated property, and nevertheless as regards
 its redemption the Law considers it as if it were under the owner's
-control? <span id="fr_39"></span>[1](#fn_39)
+control? <span id="fr_39"></span>[1](#fn_39.md)
 
 The sages of Nahardea said: No writ of replevin of personal property is
 granted by the court, the bailee of which denied its possession before
@@ -935,7 +935,7 @@ steals stolen property from a thief, nor to one who steals consecrated
 property from the house of him who consecrated it, because it is written
 \[Ex. xx. 6\]: 'And it be stolen out of the *man's* house,' which means
 but not out of the house of the Sanctuary." <span
-id="fr_40"></span>[1](#fn_40) R. Simeon says: If he is responsible for
+id="fr_40"></span>[1](#fn_40.md) R. Simeon says: If he is responsible for
 the consecrated property, he is liable, for the reason that it is still
 under his control, and the verse, "be stolen out of the *man's* house,"
 is still to be applied, but not when it is not under his control. Rabha
@@ -1019,15 +1019,15 @@ the case where he gives it to another who slaughters it, means to teach
 us that in this particular case he is liable for the act of his agent,
 although in other cases one who appoints a messenger to commit a
 transgression is not liable for the act of the messenger (see above, p.
-[120](kam08.htm#page_120), and the latter part, which states that he
+[120](kam08.htm#page_120.md), and the latter part, which states that he
 consecrates it, means to teach us that there is no difference whether he
-sells it to an ordinary person or to the Sanctuary.[)](errata.htm#20)
+sells it to an ordinary person or to the Sanctuary.[)](errata.htm#20.md)
 
 MISHNA *VI*.: (The liability to the fine of four and five fold applies
 only where the thief slaughters it after he acquired title to it, or he
 slaughters it outside of the owner's premises, namely:) If he steals it
 within the premises of the owner and slaughters or sells it
-[outside](errata.htm#21) of it, or he steals it outside of the owner's
+[outside](errata.htm#21.md) of it, or he steals it outside of the owner's
 premises and slaughters or sells it within the premises, or the
 stealing, slaughtering, and sale are outside of the owner's premises, he
 pays four and five fold. If, however, the stealing, slaughtering, and
@@ -1225,13 +1225,13 @@ one.
 <span id="page_177">p. 177</span>
 
 R. A'ha b. Papa said in the name of R. Hanina b. Papa <span
-id="fr_41"></span>[1](#fn_41) the following three things: (*a*) In case
+id="fr_41"></span>[1](#fn_41) the following three things: (*a*.md) In case
 of a plague of the itch a fast day with the blowing of the horn may be
 ordered on the Sabbath; (*b*) if the door of success is closed to one,
 it will not open soon; and (*c*) if one buy a house in Palestine, the
 deed may be written and executed even on Sabbath. What does the
 statement, "if the door of success," etc., mean? Said Mar Zutra: The
-granting of a diploma for a rabbi <span id="fr_42"></span>[2](#fn_42).
+granting of a diploma for a rabbi <span id="fr_42"></span>[2](#fn_42.md).
 R. Ashi said: It means that when one falls into misfortune he cannot
 soon recover. "If one buy, etc., the deed, etc., on Sabbath." Does it
 really mean that the Sabbath may be violated in such a case? Nay, it
@@ -1275,7 +1275,7 @@ him who is deserving it, when it is in the power of thy hand to do it."
 But are there no more than those enumerated? Is there not another one,
 of which R. Jehudah speaks in the following Boraitha: "R. Jehudah says:
 During the manuring season, etc., for on this condition did Joshua, etc.
-(supra, p. [66](kam06.htm#page_66))?" Again, there are those enumerated
+(supra, p. [66](kam06.htm#page_66).md)?" Again, there are those enumerated
 in the following Boraitha: R. Ishmael the son of R. Johanan b. Broka
 says: The court declared the following conditions to have been made by
 Joshua when he distributed the land among Israel: (*a*) That one may
@@ -1404,7 +1404,7 @@ Sabbath, p. 124).
 learned in the following Mishna: "Dove-cots may be located at a distance
 of fifty ells from a town"? Said Abayi: They fly for a much longer
 distance, but as to pecking up food they do so only within fifty ells.
-But do they fly only thirty ris? <span id="fr_43"></span>[1](#fn_43)
+But do they fly only thirty ris? <span id="fr_43"></span>[1](#fn_43.md)
 Have we not learned in the following Boraitha that nets should not be
 spread out in the neighborhood of inhabited places, even at a distance
 of one hundred mil? R. Joseph said that "inhabited" means where
@@ -1418,32 +1418,32 @@ answered that he himself is the owner of the doves.
 
 ### Footnotes
 
-<span id="fn_37"></span>[151:1](kam10.htm#fr_37) Leeser does not
+<span id="fn_37"></span>[151:1](kam10.htm#fr_37.md) Leeser does not
 translate this word literally.
 
-<span id="fn_38"></span>[156:1](kam10.htm#fr_38) This is explained in
+<span id="fn_38"></span>[156:1](kam10.htm#fr_38.md) This is explained in
 Section Moed.
 
-<span id="fn_39"></span>[158:1](kam10.htm#fr_39) R. Meir's statement and
+<span id="fn_39"></span>[158:1](kam10.htm#fr_39.md) R. Meir's statement and
 the full discussion of it will be found translated in the forthcoming
 tracts at the proper place.
 
-<span id="fn_40"></span>[170:1](kam10.htm#fr_40) Because it now belongs
+<span id="fn_40"></span>[170:1](kam10.htm#fr_40.md) Because it now belongs
 to the Sanctuary and not to him who consecrated it, it is considered as
 if it would be stolen from the house of the Sanctuary.
 
-<span id="fn_41"></span>[177:1](kam10.htm#fr_41) Papa had many children,
+<span id="fn_41"></span>[177:1](kam10.htm#fr_41.md) Papa had many children,
 and the Gemara is not certain who of them was the author of this
 statement.
 
-<span id="fn_42"></span>[177:2](kam10.htm#fr_42) There were many sages
+<span id="fn_42"></span>[177:2](kam10.htm#fr_42.md) There were many sages
 who were worthy of this honor, but circumstances prevented them from
 getting the diploma. The well-known Samuel was one of them, (See Vol.
 XI., Tract Baba Metzia.)
 
-<span id="fn_43"></span>[181:1](kam10.htm#fr_43) Seven and a half ris
+<span id="fn_43"></span>[181:1](kam10.htm#fr_43.md) Seven and a half ris
 equalled one Palestinian mile.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](kam11)
+[Next: Chapter VIII](kam11.md)

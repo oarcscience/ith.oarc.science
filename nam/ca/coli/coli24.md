@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](coli23)  [Next](coli25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](coli23)  [Next](coli25.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Culture of the Luiseño Indians*, by Philip Stedman Sparkman,
 \[1908\], at Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ valley since 1890, and even then only a part of them were performed. The
 boys’ rites have not been performed for about forty years. The
 prohibition of eating venison, jackrabbit, and chia was perhaps made
 because the old people wished these delicacies to be reserved for
-themselves. <span id="fr_13"></span>[11](#fn_11) The opening left on the
+themselves. <span id="fr_13"></span>[11](#fn_11.md) The opening left on the
 north side of the circle of the ground-painting is symbolical of the
 direction the soul of a good person is supposed to take as it rises to
 the sky.
@@ -106,10 +106,10 @@ cause to rise your spirit and soul to the sky.
 
 ### Footnotes
 
-<span id="fn_11"></span>[225:11](coli24.htm#fr_13) This may have been
+<span id="fn_11"></span>[225:11](coli24.htm#fr_13.md) This may have been
 partly true, but in the main no doubt, if the Luiseños were like other
 uncivilized people, genuine religious beliefs were the principal motive.
 
 ------------------------------------------------------------------------
 
-[Next: Mourning Ceremonies and Mourning](coli25)
+[Next: Mourning Ceremonies and Mourning](coli25.md)

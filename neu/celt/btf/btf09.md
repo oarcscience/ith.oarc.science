@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf08)  [Next](btf10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf08)  [Next](btf10.md) 
 
 ------------------------------------------------------------------------
 
@@ -255,4 +255,4 @@ Leam O'Rooney's Burial
 
 ------------------------------------------------------------------------
 
-[Next: Guleesh na Guss Dhu](btf10)
+[Next: Guleesh na Guss Dhu](btf10.md)

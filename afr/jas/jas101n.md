@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas100n)  [Next](jas102n)   
- \[[101. Bull-of all-the-Land.](jas101)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas100n)  [Next](jas102n.md)   
+ \[[101. Bull-of all-the-Land.](jas101.md)\]
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ See Grimm 88, The Singing Soaring Lark; Bolte u. Polívka 2:229-273.
 
 ------------------------------------------------------------------------
 
-[Next: Note 102. The Boiling Pot.](jas102n)
+[Next: Note 102. The Boiling Pot.](jas102n.md)

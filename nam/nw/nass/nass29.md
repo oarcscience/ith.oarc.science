@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass28)  [Next](nass30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass28)  [Next](nass30.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ mortal.
 
 ------------------------------------------------------------------------
 
-[Next: The Porcupine and the Beaver](nass30)
+[Next: The Porcupine and the Beaver](nass30.md)

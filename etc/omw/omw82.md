@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw81)  [Next](omw83) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw81)  [Next](omw83.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ Quetzalcoatl was named the Lord of the Dawn.
 
 ------------------------------------------------------------------------
 
-[Next: Quetzalcoatl's Enemy](omw83)
+[Next: Quetzalcoatl's Enemy](omw83.md)

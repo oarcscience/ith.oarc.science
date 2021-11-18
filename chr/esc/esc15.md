@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc14)  [Next](esc16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc14)  [Next](esc16.md) 
 
 ------------------------------------------------------------------------
 
@@ -476,4 +476,4 @@ destroy them which destroy the earth."
 
 ------------------------------------------------------------------------
 
-[Next: Lecture XIV. The Woman in the Wilderness](esc16)
+[Next: Lecture XIV. The Woman in the Wilderness](esc16.md)

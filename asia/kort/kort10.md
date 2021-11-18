@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort09)  [Next](kort11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort09)  [Next](kort11.md) 
 
 ------------------------------------------------------------------------
 
-# 6. Kĭlu' and the Bumblebees. <span id="fr_20"></span>[2](#fn_20)
+# 6. Kĭlu' and the Bumblebees. <span id="fr_20"></span>[2](#fn_20.md)
 
 Eme'mqut lived with his people. He married Kĭlu', but they were
 childless. One time Eme'mqut went into
@@ -34,9 +34,9 @@ Bumblebees. Eme'mqut could do nothing, so he went home. That is all.
 
 ### Footnotes
 
-<span id="fn_20"></span>[43:2](kort10.htm#fr_20) Compare W. Jochelson,
+<span id="fn_20"></span>[43:2](kort10.htm#fr_20.md) Compare W. Jochelson,
 The Koryak, *l. c.*, No. 107, p. 294.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Eme'mqut's Whale-Festival](kort11)
+[Next: 7. Eme'mqut's Whale-Festival](kort11.md)

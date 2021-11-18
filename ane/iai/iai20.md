@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai19)  [Next](iai21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai19)  [Next](iai21.md) 
 
 ------------------------------------------------------------------------
 
-## TABLET IV <span id="fr_169"></span>[1](#fn_169)--COLUMN I
+## TABLET IV <span id="fr_169"></span>[1](#fn_169.md)--COLUMN I
 
 ### THE ANNUAL SALE OF THE MAIDENS OF BABYLON
 
@@ -59,7 +59,7 @@ And thorns shall tear his side with hellish wreath,
 And daggers pierce his heart, and ice his soul,  
 And thou become to him a hated ghoul!
 
- <span id="fr_170"></span>[2](#fn_170)What married woman is untainted,
+ <span id="fr_170"></span>[2](#fn_170.md)What married woman is untainted,
 pure?  
 She, who when married spreads for men no hire,  
 Bestows caresses on no man but him  
@@ -71,11 +71,11 @@ Her form to catch the vulgar gaze, nor paints
 Herself, or in her husband's absence taunts  
 Not her sweet purity; exposes not  
 Her form undraped, whose veil no freeman aught  
-Has raised; <span id="fr_171"></span>[3](#fn_171) or shows her face to
+Has raised; <span id="fr_171"></span>[3](#fn_171.md) or shows her face to
 others than  
 Her slaves; and loves alone her husbandman;  
 She who has never moistened her pure lips  
-With liquors that intoxicate; <span id="fr_172"></span>[4](#fn_172) nor
+With liquors that intoxicate; <span id="fr_172"></span>[4](#fn_172.md) nor
 sips  
 With others joys that sacred are alone  
 To him, her strength; who claims her as his own.
@@ -85,7 +85,7 @@ To woman's love of old, my muse aspire!
 When her sweet charms were equally bestowed,  
 And fairest of the sex with hopes imbued  
 Of capturing men of wealth and lives of ease,  
-When loveliness at public sale <span id="fr_173"></span>[5](#fn_173)
+When loveliness at public sale <span id="fr_173"></span>[5](#fn_173.md)
 doth please  
 The nobles of the land to wealth bestow  
 Upon ill-favored sisters, maids of woe,  
@@ -105,7 +105,7 @@ With beauty they have purchased with their gold.
 
 <span id="page_56">p. 56</span>
 
-The festival, the Sabat-tu <span id="fr_174"></span>[6](#fn_174) hath
+The festival, the Sabat-tu <span id="fr_174"></span>[6](#fn_174.md) hath
 come!  
 The Sabat-tu of Elul! hear the hum  
 Of voices filling Erech's streets!  
@@ -152,7 +152,7 @@ While her fond glistening eyes shall on him gleam.
 A look, a glance; when mingling souls speak love,  
 Will in his breast undying longings move;  
 And let us hope that when the youths have lain <span
-id="fr_175"></span>[7](#fn_175)  
+id="fr_175"></span>[7](#fn_175.md)  
 Their all before the herald, that no men  
 Who see their sacrifice will rob their hearts  
 Of all that gives them joy or bliss imparts;  
@@ -172,12 +172,12 @@ Of Nergal, the strong god, to whom they pray
 For strength to bless with vigor Accad's sons.  
 For many anxious years this day atones.
 
- <span id="fr_176"></span>[8](#fn_176) This day their Sar the flesh of
+ <span id="fr_176"></span>[8](#fn_176.md) This day their Sar the flesh of
 birds eats not,  
 Nor food profaned by fire this day, nor aught  
-Of labor may perform nor *zubat* <span id="fr_177"></span>[9](#fn_177)
+Of labor may perform nor *zubat* <span id="fr_177"></span>[9](#fn_177.md)
 change,  
-Nor snowy *ku-bar-ra* <span id="fr_178"></span>[10](#fn_178) anew
+Nor snowy *ku-bar-ra* <span id="fr_178"></span>[10](#fn_178.md) anew
 arrange.  
 A sacrifice he offers not, nor rides  
 Upon his chariot this day, nor guides  
@@ -237,11 +237,11 @@ Around her form.
 
 Behold this pearl! my lords and noblemen,  
 And who will bid for her as wife, my men?  
-"Ana-bilti khtirassi ash at ka!" <span id="fr_179"></span>[1](#fn_179)  
-"Akhadu khtirassi ana sa-sa!" <span id="fr_180"></span>[2](#fn_180)  
-"U sinu bilti khurassi!" <span id="fr_181"></span>[1](#fn_179) two
+"Ana-bilti khtirassi ash at ka!" <span id="fr_179"></span>[1](#fn_179.md)  
+"Akhadu khtirassi ana sa-sa!" <span id="fr_180"></span>[2](#fn_180.md)  
+"U sinu bilti khurassi!" <span id="fr_181"></span>[1](#fn_179.md) two
 cried.  
-"Sal-sutu bilti!" <span id="fr_182"></span>[2](#fn_180) nobles three
+"Sal-sutu bilti!" <span id="fr_182"></span>[2](#fn_180.md) nobles three
 replied;  
 And four, and five, and six, till one bid ten,  
 A vast amount of gold for noblemen:
@@ -254,19 +254,19 @@ Whose countless herds graze far upon the plain,
 His laden ships that ride upon the main  
 He counts by scores. He turns his evil eyes  
 And wolfish face upon the youth and cries,  
-"Khamisserit!" <span id="fr_183"></span>[3](#fn_181) The lover answering
+"Khamisserit!" <span id="fr_183"></span>[3](#fn_181.md) The lover answering
 says:  
-"Esra'a!" <span id="fr_184"></span>[4](#fn_182) "U selasa'a!" <span
-id="fr_185"></span>[5](#fn_183) then brays  
-The gray-haired lover. "U irbaha!" <span id="fr_186"></span>[6](#fn_184)
+"Esra'a!" <span id="fr_184"></span>[4](#fn_182.md) "U selasa'a!" <span
+id="fr_185"></span>[5](#fn_183.md) then brays  
+The gray-haired lover. "U irbaha!" <span id="fr_186"></span>[6](#fn_184.md)
 cries  
 The youth, and still the nobleman defies;  
-Who answers cooly, "Khausa'a;" <span id="fr_187"></span>[7](#fn_185) and
+Who answers cooly, "Khausa'a;" <span id="fr_187"></span>[7](#fn_185.md) and
 eyes  
 The anxious youth, who wildly "Miha!" <span
-id="fr_188"></span>[8](#fn_186) cries.  
+id="fr_188"></span>[8](#fn_186.md) cries.  
 "Mine I mine! she is! though you *alapu* <span
-id="fr_189"></span>[9](#fn_187)" bid!  
+id="fr_189"></span>[9](#fn_187.md)" bid!  
 "A fool thou art!" the noble, leaving, said.  
 "One hundred talents for a maid!" he sneered,  
 And in the crowd he growling disappeared.  
@@ -299,7 +299,7 @@ She is, and bidders now are at a loss
 How much to ask to take the hag to wife.  
 At last one cries:  
                     "Five *bilti*, <span
-id="fr_190"></span>[10](#fn_188) for relief  
+id="fr_190"></span>[10](#fn_188.md) for relief  
 Of herald I will take, to start the bid!"  
 "And four of *bilti*, I'll take, with the maid!  
 "Three and a half!" one cries with shaking head,  
@@ -335,24 +335,24 @@ For every woman had a husband then.
 
 ### Footnotes
 
-<span id="fn_169"></span>[53:1](iai20.htm#fr_169) We have included in
+<span id="fn_169"></span>[53:1](iai20.htm#fr_169.md) We have included in
 Tablet IV Tablets V and VI of the original, as classified by Mr. Sayce.
 
-<span id="fn_170"></span>[54:2](iai20.htm#fr_170) The above is taken
+<span id="fn_170"></span>[54:2](iai20.htm#fr_170.md) The above is taken
 from an Assyrian fragment ("W. A. I.," ii. 35, No. 4) translated in
 "Records of the Past," vol. xi., pp. 159, 160, and presents the Assyrian
 view of purity and  
 the customs of their people.
 
-<span id="fn_171"></span>[55:3](iai20.htm#fr_171) Literally, "whose veil
+<span id="fn_171"></span>[55:3](iai20.htm#fr_171.md) Literally, "whose veil
 no freeman of pure race has raised." Before slaves and men of mean rank,
 women of the East are not obliged to veil the face.
 
-<span id="fn_172"></span>[55:4](iai20.htm#fr_172) Literally, "who has
+<span id="fn_172"></span>[55:4](iai20.htm#fr_172.md) Literally, "who has
 never moistened her teeth with an intoxicating liquor." "Rec. of the
 Past," p. 160, l. 6.
 
-<span id="fn_173"></span>[55:5](iai20.htm#fr_173) The public sale herein
+<span id="fn_173"></span>[55:5](iai20.htm#fr_173.md) The public sale herein
 described is taken from the statement of Herodotus (see Herodotus, vol.
 i., p. 196. Compare "Nic. Dam. Fr.," 131, and Ælian. "Var. Hist." iv.
 1), who says all the marriageable virgins in all the towns of the empire
@@ -365,46 +365,46 @@ turn awarded to those who would accept them with the smallest amount as
 dowry. The numerous contracts for the sales of women now in the British
 Museum may possibly be records of these transactions.
 
-<span id="fn_174"></span>[56:6](iai20.htm#fr_174) "Sab-at-tu," a day of
+<span id="fn_174"></span>[56:6](iai20.htm#fr_174.md) "Sab-at-tu," a day of
 rest for the heart ("W. A. L," ii. 32), the Sabbath day, which was
 dedicated to the worship of the sun, moon, and stars, and their gods,
 which were known by different names.
 
-<span id="fn_175"></span>[57:7](iai20.htm#fr_175) "Lain," to lay, v.a.
+<span id="fn_175"></span>[57:7](iai20.htm#fr_175.md) "Lain," to lay, v.a.
 (pretr. "laid," art. passive "lain," from "liggan," Sax.) "to place
 along the ground." Fenning's Royal Eng. Dic., London, MDCLXXV.
 
-<span id="fn_176"></span>[57:8](iai20.htm#fr_176) From the Babylonian
+<span id="fn_176"></span>[57:8](iai20.htm#fr_176.md) From the Babylonian
 Festival Calendar ("C. I. W. A.," vol., iv. pls. 32, 33); also
 translated in "Records of the Past," vol. vii., pp. 162, 163.
 
-<span id="fn_177"></span>[57:9](iai20.htm#fr_177) "Zubat," robes.
+<span id="fn_177"></span>[57:9](iai20.htm#fr_177.md) "Zubat," robes.
 
-<span id="fn_178"></span>[57:10](iai20.htm#fr_178) "Ku-bar-ra," linen
+<span id="fn_178"></span>[57:10](iai20.htm#fr_178.md) "Ku-bar-ra," linen
 robes.
 
-<span id="fn_179"></span>[59:1](iai20.htm#fr_181) "And two golden
+<span id="fn_179"></span>[59:1](iai20.htm#fr_181.md) "And two golden
 talents!"
 
-<span id="fn_180"></span>[59:2](iai20.htm#fr_182) "Three talents!"
+<span id="fn_180"></span>[59:2](iai20.htm#fr_182.md) "Three talents!"
 
-<span id="fn_181"></span>[59:3](iai20.htm#fr_183) "Fifteen!"
+<span id="fn_181"></span>[59:3](iai20.htm#fr_183.md) "Fifteen!"
 
-<span id="fn_182"></span>[59:4](iai20.htm#fr_184) "Twenty!"
+<span id="fn_182"></span>[59:4](iai20.htm#fr_184.md) "Twenty!"
 
-<span id="fn_183"></span>[59:5](iai20.htm#fr_185) "And thirty!"
+<span id="fn_183"></span>[59:5](iai20.htm#fr_185.md) "And thirty!"
 
-<span id="fn_184"></span>[59:6](iai20.htm#fr_186) "And forty!"
+<span id="fn_184"></span>[59:6](iai20.htm#fr_186.md) "And forty!"
 
-<span id="fn_185"></span>[59:7](iai20.htm#fr_187) "Fifty!"
+<span id="fn_185"></span>[59:7](iai20.htm#fr_187.md) "Fifty!"
 
-<span id="fn_186"></span>[59:8](iai20.htm#fr_188) "One hundred!"
+<span id="fn_186"></span>[59:8](iai20.htm#fr_188.md) "One hundred!"
 
-<span id="fn_187"></span>[59:9](iai20.htm#fr_189) "One thousand!"
+<span id="fn_187"></span>[59:9](iai20.htm#fr_189.md) "One thousand!"
 
-<span id="fn_188"></span>[60:10](iai20.htm#fr_190) "Five bilti," about
+<span id="fn_188"></span>[60:10](iai20.htm#fr_190.md) "Five bilti," about
 £3,165 sterling, or $15,825.
 
 ------------------------------------------------------------------------
 
-[Next: Column II. Council in the Palace](iai21)
+[Next: Column II. Council in the Palace](iai21.md)

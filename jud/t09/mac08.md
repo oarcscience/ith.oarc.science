@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](mac07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](mac07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -37,7 +37,7 @@ liable only for the violation of one negative. A high-priest who was
 unclean and partook of things belonging to the sanctuary or entered the
 sanctuary while unclean; and he who consumed illegal fat, blood, or meat
 left overnight from the sacrifice, or *piggul*, <span
-id="fr_13"></span>[1](#fn_13) or unclean meat, and also of such which
+id="fr_13"></span>[1](#fn_13.md) or unclean meat, and also of such which
 was slaughtered and brought outside of the Temple; he who ate leaven on
 Passover, ate or labored on the Day of Atonement; who compounded oil
 similar to that of the Temple, or compounded the frankincense of the
@@ -66,7 +66,7 @@ also punished with stripes if they were so warned. So R. Ismael. R.
 Aqiba, however, maintains: Only that of Korath; because if they repent
 after the punishment with stripes, the heavenly court forgives them; but
 if they are under capital punishment the human court cannot forgive them
-even though they repent. <span id="fr_14"></span>[1](#fn_14) What is the
+even though they repent. <span id="fr_14"></span>[1](#fn_14.md) What is the
 reason of Ismael's theory? \[Deut. xxviii. 59\]: "Then will the Lord
 render peculiar thy plagues," etc. What the peculiarity is, is not
 stated; however, from \[ibid. xxv. 2\]: "The judge shall cause him to
@@ -78,7 +78,7 @@ violation transgression of a positive commandment? It reads: "If thou
 wilt not observe." R. Aqiba's reason is: concerning stripes the
 expression is "according to the degree of his *fault*," which means for
 one fault, but not for two faults, to which capital punishment
-applies. <span id="fr_15"></span>[2](#fn_15)
+applies. <span id="fr_15"></span>[2](#fn_15.md)
 
 "*Things belonging to the sanctuary*," etc. It is correct, the
 transgression of entering the sanctuary of which the punishment as well
@@ -193,7 +193,7 @@ said: R. Jehudah in the name of R. Jose the Galilean declared that for
 the violation of all the negatives of the Torah, if there be manual
 labor implied, the transgressor is punished with stripes, but not if
 mental, except in the cases of an oath, exchanging, <span
-id="fr_16"></span>[1](#fn_16) and cursing his neighbor by the Holy name.
+id="fr_16"></span>[1](#fn_16.md) and cursing his neighbor by the Holy name.
 But if so, then, R. Johudah contradicts himself? Resh Lakish may say
 that there are two Tanaim who said in the name of R. Jehudah
 differently, and R. Jehanan may say that in the latter Boraitha R.
@@ -207,7 +207,7 @@ punished with stripes; as the rule is: for a negative which is conjoined
 with a positive there is no liability. Said R. Johanan: There is only
 one more case similar to this. And to the question of R. Elazar, What is
 it? he rejoined: Go and find out! He did so and found the following: "If
-a seducer has divorced," etc., v. above, [p. 37](#page_37). But this can
+a seducer has divorced," etc., v. above, [p. 37](#page_37.md). But this can
 be correct only with him who holds that he is released from
 
 <span id="page_40">p. 40</span>
@@ -241,7 +241,7 @@ not cut . . . the corners" and the positive "unto the poor . . . leave"
 above? Therefore we must say that R. Jehanan by his statement, There is
 only one similar case, meant "Peah" and not a seducer; since concerning
 the latter the Law dictates that even if there were a vow on the mind of
-the public <span id="fr_17"></span>[1](#fn_17) it can be absolved when
+the public <span id="fr_17"></span>[1](#fn_17.md) it can be absolved when
 such absolution is necessary to a meritorious act; as it happened with a
 children-teacher who struck too much the children and R. A'ha
 excommunicated him, Rabbina, however, returned him, because he could not
@@ -274,7 +274,7 @@ not count; it counts only concerning sacrifices.
 
 MISHNA *II*.: Stripes also apply to the following: To him who partook of
 the first fruit before the ceremony of reading <span
-id="fr_18"></span>[1](#fn_18) was performed; of the sacrifices under the
+id="fr_18"></span>[1](#fn_18.md) was performed; of the sacrifices under the
 category of the most holy outside of the curtains, and of those under
 the category of a minor grade or of second tithe outside of the
 surrounding wall; and also to him who breaks a bone in the Paschal Lamb
@@ -327,7 +327,7 @@ it meant them, it would not be necessary, as they could be inferred by
 *a fortiori* reasoning from tithe; thanks and peace-offerings, and first
 born, all of which are more lenient than that of sin and transgression.
 Therefore it means to include him who consumed from the latter even
-after [sprinkling](errata.htm#40) outside of the curtain. "Nor any of
+after [sprinkling](errata.htm#40.md) outside of the curtain. "Nor any of
 thy vows" means burnt-offerings. Said R. Simeon: It would not be
 necessary, as they could be inferred by *a fortiori* reasoning from all
 those cases mentioned above, and therefore it means to include him who
@@ -338,7 +338,7 @@ curtains, that he get stripes. Said Rabha:
 
 <span class="contnote">\[paragraph continues\]</span> Every mother
 should bear a son like R. Simeon; although his theory can be objected
-to. <span id="fr_19"></span>[1](#fn_19)
+to. <span id="fr_19"></span>[1](#fn_19.md)
 
 It was taught: R. Gidel in the name of Rabh said: A stranger who had
 consumed sin- and transgression-offerings before their blood was
@@ -388,7 +388,7 @@ the case when both were defiled, and that he consumed them within the
 city. And whence do we know that one is culpable because of defilement?
 From the following Boraitha: R. Simeon said \[Deut. xxvi. 14\]: "Neither
 have I removed thereof while unclean," <span
-id="fr_20"></span>[1](#fn_20) means neither when I was unclean and they
+id="fr_20"></span>[1](#fn_20.md) means neither when I was unclean and they
 were clean, nor *vice versa*. R. Eliezer said: Whence do we know that
 second tithe which became defiled may be redeemed even within Jerusalem!
 From \[Deut. xiv. 24\]: "Not able to carry it," which means also when it
@@ -423,7 +423,7 @@ five incisions for one dead body, as in either case he is liable for
 five negatives. For rounding his hair he is also liable for two (one for
 one corner on one side, and another for the other corner on the other
 side; and for his beard five, for there are five corners. <span
-id="fr_21"></span>[1](#fn_21) R. Eliezer, however, maintains that if he
+id="fr_21"></span>[1](#fn_21.md) R. Eliezer, however, maintains that if he
 took off the whole beard at one time he is culpable only for one. The
 culpability arises only, then, when he took it off with a razor. R.
 Eliezer, however, maintains that the same is the case if he took it off
@@ -483,7 +483,7 @@ that if he made five incisions for one dead he is culpable for each one?
 From "any incision" which makes him culpable for each of them. R. Jose
 said: Whence do we know that if he made one incision for five dead he is
 culpable for five? From the expression "l'Nefesh" <span
-id="fr_22"></span>[1](#fn_22) (soul) *i.e.*, he is culpable for each
+id="fr_22"></span>[1](#fn_22) (soul.md) *i.e.*, he is culpable for each
 soul. But does not the same passage exclude the case when he did so for
 "his house" or "ship," etc.?
 
@@ -803,7 +803,7 @@ court of Shem \[Gen. xxxviii. 26\]: "And Judah acknowledged them and
 said, She hath been more righteous than I." And whence did he know it?
 Perhaps as he was with her, so was some one else? Therefore a heavenly
 voice was heard: I have decided that so is it to be. In the court of
-Samuel \[I Samuel, xii. 5\]: "And he <span id="fr_23"></span>[1](#fn_23)
+Samuel \[I Samuel, xii. 5\]: "And he <span id="fr_23"></span>[1](#fn_23.md)
 answered, He is witness." He? *they* ought to be! Hence a heavenly voice
 was heard, I witness that so it is. And \[I Kings, iii. 27\]: "The king
 then answered and said, Give her the living child and do not slay it.
@@ -884,7 +884,7 @@ abolished it \[vii. 5\]: "How should Jacob be able to endure," then
 immediately in (6) "The Lord bethought . . . this shall not be." Moses
 said \[Deut. xxviii. 65\]: "And among these nations shalt thou find no
 ease." Jeremiah abolished it, saying \[xxxi. 2\]: "He is going to give
-rest to Israel." <span id="fr_24"></span>[1](#fn_24) Moses said \[Ex.
+rest to Israel." <span id="fr_24"></span>[1](#fn_24.md) Moses said \[Ex.
 xxxiv. 7\]: "Visiting the iniquity of the fathers upon the children."
 Ezekiel abolished it by saying \[xviii. 4\]: "The soul which sinneth,
 that alone shall die." Moses said \[Lev. xxvi. 38\]: "And ye shall be
@@ -941,41 +941,41 @@ ye shall not excite one against the other.
 
 ### Footnotes
 
-<span id="fn_13"></span>[35:1](mac08.htm#fr_13) *I. e.*, meat of a
+<span id="fn_13"></span>[35:1](mac08.htm#fr_13.md) *I. e.*, meat of a
 sacrifice illegally slaughtered.
 
-<span id="fn_14"></span>[36:1](mac08.htm#fr_14) The text contains also
+<span id="fn_14"></span>[36:1](mac08.htm#fr_14.md) The text contains also
 what Itz'hak said, repeated from Kherithoth,--the proper place.
 
-<span id="fn_15"></span>[36:2](mac08.htm#fr_15) The text contains a long
+<span id="fn_15"></span>[36:2](mac08.htm#fr_15.md) The text contains a long
 discussion about this subject, which is repeated in many places of the
 Talmud; here, however, this is very complicated and not important, and
 therefore omitted.
 
-<span id="fn_16"></span>[39:1](mac08.htm#fr_16) Lev. xxvii., 10.
+<span id="fn_16"></span>[39:1](mac08.htm#fr_16.md) Lev. xxvii., 10.
 
-<span id="fn_17"></span>[40:1](mac08.htm#fr_17) This will be explained
+<span id="fn_17"></span>[40:1](mac08.htm#fr_17.md) This will be explained
 in Tract Gittin.
 
-<span id="fn_18"></span>[41:1](mac08.htm#fr_18) Deut. xxv, 15.
+<span id="fn_18"></span>[41:1](mac08.htm#fr_18.md) Deut. xxv, 15.
 
-<span id="fn_19"></span>[43:1](mac08.htm#fr_19) The text argues as to
+<span id="fn_19"></span>[43:1](mac08.htm#fr_19.md) The text argues as to
 how the theory can be objected to by a very complicated process of
 reasoning, and from things entirely irrelevant to the subject, and
 therefore omitted.
 
-<span id="fn_20"></span>[44:1](mac08.htm#fr_20) Leeser's translation
+<span id="fn_20"></span>[44:1](mac08.htm#fr_20.md) Leeser's translation
 does not correspond.
 
-<span id="fn_21"></span>[45:1](mac08.htm#fr_21) For an illustration of
+<span id="fn_21"></span>[45:1](mac08.htm#fr_21.md) For an illustration of
 the five corners, see Rashi, as we do not deem it necessary to
 illustrate them for the English reader.
 
-<span id="fn_22"></span>[46:1](mac08.htm#fr_22) The term "for dead" is
+<span id="fn_22"></span>[46:1](mac08.htm#fr_22.md) The term "for dead" is
 "l'Nefesh," which means for a dead soul.
 
-<span id="fn_23"></span>[53:1](mac08.htm#fr_23) Leeser's translation
+<span id="fn_23"></span>[53:1](mac08.htm#fr_23.md) Leeser's translation
 does not correspond.
 
-<span id="fn_24"></span>[55:1](mac08.htm#fr_24) Leeser's translation
+<span id="fn_24"></span>[55:1](mac08.htm#fr_24.md) Leeser's translation
 does not correspond.

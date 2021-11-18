@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hby00)  [Next](hby02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hby00)  [Next](hby02.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ THE EDITOR.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](hby02)
+[Next: Contents](hby02.md)

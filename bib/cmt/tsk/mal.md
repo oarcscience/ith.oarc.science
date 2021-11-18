@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Commentary](../index)  [Index](index)   
-[Zechariah](zac)  [Matthew](mat)
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Commentary](../index)  [Index](index.md)   
+[Zechariah](zac)  [Matthew](mat.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Malachi Chapter 1](mal001)  
-[Malachi Chapter 2](mal002)  
-[Malachi Chapter 3](mal003)  
-[Malachi Chapter 4](mal004)  
+[Malachi Chapter 1](mal001.md)  
+[Malachi Chapter 2](mal002.md)  
+[Malachi Chapter 3](mal003.md)  
+[Malachi Chapter 4](mal004.md)  

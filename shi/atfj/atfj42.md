@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj41)  [Next](atfj43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj41)  [Next](atfj43.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_46"></span> <span align="CENTER"> [![46. Iidamachi Pond,
 Hayashi's House](tn/46.jpg)  
-Click to enlarge](img/46.jpg)  
+Click to enlarge](img/46.jpg.md)  
 46. Iidamachi Pond, Hayashi's House  
 </span>
 
@@ -189,6 +189,6 @@ ghosts; but now I do.'
 
 ------------------------------------------------------------------------
 
-[Next: XLI. The Spirit of Yenoki](atfj43)
+[Next: XLI. The Spirit of Yenoki](atfj43.md)
 
 </div>

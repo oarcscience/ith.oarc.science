@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut12)  [Next](hut14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut12)  [Next](hut14.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # X.
 
-### Tōdiñ KeïtLō. <span id="fr_38"></span>[1](#fn_38)--By the River She Made Baskets.
+### Tōdiñ KeïtLō. <span id="fr_38"></span>[1](#fn_38.md)--By the River She Made Baskets.
 
 <span id="page_193">p. 193</span>
 
@@ -74,8 +74,8 @@ a quantity of soup that they might all have plenty to eat. When the rest
 were asleep she emptied down some acorns and buried some salmon under
 the earthen floor. At midnight the father pushed a stick under both the
 house and sweat-house and they went of their own accord under the
-water. <span id="fr_39"></span>[1](#fn_39) There their father, a water
-sprite, <span id="fr_40"></span>[2](#fn_40) lived.
+water. <span id="fr_39"></span>[1](#fn_39.md) There their father, a water
+sprite, <span id="fr_40"></span>[2](#fn_40.md) lived.
 
 The next morning when the others woke up they saw they were lying
 without a house to cover them. The woman looked about but saw nothing
@@ -86,17 +86,17 @@ salmon buried. She knew her daughter had done that for her.
 
 ### Footnotes
 
-<span id="fn_38"></span>[189:1](hut13.htm#fr_38) Told at Hupa, July
+<span id="fn_38"></span>[189:1](hut13.htm#fr_38.md) Told at Hupa, July
 1901, by Mary Marshall.
 
-<span id="fn_39"></span>[194:1](hut13.htm#fr_39) For another instance of
-this singular method of house-moving see [p. 149](hut05.htm#page_149).
+<span id="fn_39"></span>[194:1](hut13.htm#fr_39.md) For another instance of
+this singular method of house-moving see [p. 149](hut05.htm#page_149.md).
 
-<span id="fn_40"></span>[194:2](hut13.htm#fr_40) This sprite's name is
+<span id="fn_40"></span>[194:2](hut13.htm#fr_40.md) This sprite's name is
 Xaslinme Kûntcūwiltcwil, "Riffle in young man." He lives in the riffle
 below the Miskût ford and has a love song which the Hupa men sing to win
 the hearts of the maidens.
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Cause of the Lunar Eclipse](hut14)
+[Next: XI. The Cause of the Lunar Eclipse](hut14.md)

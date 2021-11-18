@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim10)  [Next](fim12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim10)  [Next](fim12.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N the Isle of Man, as elsewhere, a number of curious customs and
 superstitions have naturally grouped themselves about the important
@@ -40,7 +40,7 @@ part of the night, was spent in eating and drinking, to which "the whole
 country round" was invited, and they, in return, gave presents to the
 child. If, after child-birth, a woman did not recover her usual strength
 as soon as expected, she was then declared to be the victim of an "Evil
-Eye." (See [p. 78](fim08.htm#page_78).) Some neighbour is soon suspected
+Eye." (See [p. 78](fim08.htm#page_78)..md) Some neighbour is soon suspected
 of having given the envenomed glance; and to counteract its malignancy,
 a square piece was secretly cut out of some part of her garment, and
 burnt immediately under the nose of the afflicted woman. This was
@@ -54,10 +54,10 @@ the "Evil Eye" before baptism, and it. was considered
 that the best way to prevent this was to keep it constantly within the
 same room in which it was born. Children were also supposed to be much
 more liable to abduction by Fairies before the same ceremony. (See [p.
-34](fim06.htm#page_34).) From the time that a woman was delivered of a
+34](fim06.htm#page_34)..md) From the time that a woman was delivered of a
 child, till thanksgiving for her safe recovery was offered up by some
 divine, or until the consecrated candle <span
-id="fr_130"></span>[1](#fn_126)--which was kept in her room at this
+id="fr_130"></span>[1](#fn_126.md)--which was kept in her room at this
 time--was burnt, it was deemed requisite, as a protection for herself
 against the power of evil spirits, that she should keep her husband's
 trousers beside her in the bed, to prevent her infant being carried off
@@ -74,7 +74,7 @@ of prevention. For, if the child had once partaken of any food, it could
 not be exposed. It was deemed most unlucky to cut their hair or nails
 before they were a year old, and, if it was done, the fragments were
 carefully burned. A posthumous child was supposed to have the gift of
-second-sight (see [p. 162](#page_162)); and the seventh son of a seventh
+second-sight (see [p. 162](#page_162).md); and the seventh son of a seventh
 son, and a child born on Hallowe’en had powers of intercourse with the
 unseen world.
 
@@ -106,7 +106,7 @@ They have Bride-men, and Bride-maids, who lead the young couple, as in
 England, only with this difference, that the former have ozier-wands in
 their hands, as an emblem of superiority, they are preceded by musick,
 who play all the while before them the tune *The Black and the
-Grey*, <span id="fr_131"></span>[1](#fn_127) and no other ever is used
+Grey*, <span id="fr_131"></span>[1](#fn_127.md) and no other ever is used
 at weddings. When they arrive at the Churchyard, they walk three times
 round the Church, before they enter it. The ceremony being performed,
 the return home and sit down to the feast; after which they dance in the
@@ -187,11 +187,11 @@ dogs howled more loudly than usual, if the
 
 <span id="page_160">p. 160</span>
 
-death-watch <span id="fr_132"></span>[1](#fn_128) was distinct in the
+death-watch <span id="fr_132"></span>[1](#fn_128.md) was distinct in the
 sick person's room, if his or her wraith was seen by anyone, and if the
 strains of the funeral psalm were heard, then death was near. When death
 ensued the corpse was laid on what was called a "straightening board," a
-trencher with salt <span id="fr_133"></span>[2](#fn_129) in it and a
+trencher with salt <span id="fr_133"></span>[2](#fn_129.md) in it and a
 lighted candle were placed on the breast, and the bed, on which the
 straightening board lay, was generally strewed with strong scented
 flowers. It was then waked, as we shall see, and carried to the grave,
@@ -206,7 +206,7 @@ women habitually wore. Waldron wrote about death and funerals in Man 160
 years ago as follows:--
 
 "When a person dies, several of his acquaintances come and sit up with
-him, which they call the Wake <span id="fr_134"></span>[3](#fn_130)
+him, which they call the Wake <span id="fr_134"></span>[3](#fn_130.md)
 (*Farrar*, in Manx). The Clerk of the Parish is obliged to sing a Psalm,
 in which all the company join; and after that they begin some pastime to
 divert themselves, and having strong beer and tobacco allowed them in
@@ -225,7 +225,7 @@ enter the Church. But these are the funerals of the
 <span id="page_161">p. 161</span>
 
 better sort, for the poor are carried only on a bier, <span
-id="fr_135"></span>[1](#fn_131) with an old blanket round them fastened
+id="fr_135"></span>[1](#fn_131.md) with an old blanket round them fastened
 with a skewer."
 
 There were formerly crosses on the roads leading to the Parish Churches.
@@ -287,7 +287,7 @@ Manxmen, for he says, "There, ofte by daye time, men of that Islande
 seen men that bey dede to fore honde, byheeded or hole, and what dethe
 they dyde. Alyens setten there feet upon feet of the men of that londe
 for to see such syghts as the men of that londe doon." <span
-id="fr_136"></span>[1](#fn_132) Sacheverell, who was Governor of the
+id="fr_136"></span>[1](#fn_132.md) Sacheverell, who was Governor of the
 Isle of Man from 1692-1696, says that this power was sometimes derived
 by inheritance, and transmitted from father to son, and he remarks that
 there were people who would attest to having seen apparitions of funeral
@@ -309,7 +309,7 @@ has adapted the organs of some persons for discerning of spirits, is not
 for me to determine." This belief is not yet extinct, for
 "corpse-lights" seen about the bed of the patient are still supposed to
 be the certain forerunners of death. <span
-id="fr_137"></span>[2](#fn_133)
+id="fr_137"></span>[2](#fn_133.md)
 
 <span id="page_163">p. 163</span>
 
@@ -324,7 +324,7 @@ their boat and their lives. This is well attested. N.B.--Mr Corlett
 assured me y<sup>t</sup> the very same thing happened once to the boat
 he was in, only with the addition y<sup>t</sup> y<sup>e</sup> master of
 y<sup>e</sup> boat saw y<sup>e</sup> appearance of a man." <span
-id="fr_138"></span>[1](#fn_134)
+id="fr_138"></span>[1](#fn_134.md)
 
 It was formerly supposed, as already stated, that families had
 *Second-sight* by succession, and it was also supposed that the only way
@@ -374,23 +374,23 @@ doors."
 
 ### Footnotes
 
-<span id="fn_126"></span>[157:1](fim11.htm#fr_130) The churching of a
+<span id="fn_126"></span>[157:1](fim11.htm#fr_130.md) The churching of a
 woman, in the Manx language, is called *lostey-chainley*, from the
 practice of burning a candle, in former times, during his service.
 
-<span id="fn_127"></span>[158:1](fim11.htm#fr_131) This was a popular
+<span id="fn_127"></span>[158:1](fim11.htm#fr_131.md) This was a popular
 tune in the time of Charles II., and it continued in vogue till the end
 of the last century.
 
-<span id="fn_128"></span>[160:1](fim11.htm#fr_132) This sound was really
+<span id="fn_128"></span>[160:1](fim11.htm#fr_132.md) This sound was really
 produced by a small wood-moth.
 
-<span id="fn_129"></span>[160:2](fim11.htm#fr_133) Sometimes earth as
+<span id="fn_129"></span>[160:2](fim11.htm#fr_133.md) Sometimes earth as
 well as salt was laid on the corpse, the former being an emblem of the
 corruptibility of the body, the other of the incorruptibility of the
 soul.
 
-<span id="fn_130"></span>[160:3](fim11.htm#fr_134) Watching with the
+<span id="fn_130"></span>[160:3](fim11.htm#fr_134.md) Watching with the
 dead was an ancient custom of the Church. Pennant, in his Tour of
 Scotland, speaks of it as follows: "The evening after the death of any
 person, the relations or friends of the deceased meet at the house,
@@ -398,21 +398,21 @@ attended by bag-pipe or fiddle; the nearest of kin, be it wife, son, or
 daughter, opens a melancholy ball, dancing and greeting (*i.e.*, crying)
 at the same time."
 
-<span id="fn_131"></span>[161:1](fim11.htm#fr_135) Burial in coffins, as
+<span id="fn_131"></span>[161:1](fim11.htm#fr_135.md) Burial in coffins, as
 a universal custom, did not begin in England before the end of the
 seventeenth century.
 
-<span id="fn_132"></span>[162:1](fim11.htm#fr_136) Polychronicon, A. D.
+<span id="fn_132"></span>[162:1](fim11.htm#fr_136.md) Polychronicon, A. D.
 1482, Rolls series.
 
-<span id="fn_133"></span>[162:2](fim11.htm#fr_137) Its frequency in
+<span id="fn_133"></span>[162:2](fim11.htm#fr_137.md) Its frequency in
 earlier times may be reasonably attributed to the greater prevalency of
 marshy ground over which such phenomena as the *ignis fatuus*, or
 Will-o’-the-wisp, would often be seen.
 
-<span id="fn_134"></span>[163:1](fim11.htm#fr_138) Manx Note Boot:, Vol.
+<span id="fn_134"></span>[163:1](fim11.htm#fr_138.md) Manx Note Boot:, Vol.
 II., p. 87.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Customs Formerly Enforced by Law](fim12)
+[Next: Chapter IX. Customs Formerly Enforced by Law](fim12.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](ecl03) 
-[Previous](ecll02)  [Next](ecll04) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](ecl03.md) 
+[Previous](ecll02)  [Next](ecll04.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ claudite iam rivos, pueri; sat prata biberunt.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue IV.--Pollio](ecll04)
+[Next: Eclogue IV.--Pollio](ecll04.md)

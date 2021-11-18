@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](icpref)  [Next](icintr02) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](icpref)  [Next](icintr02.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 1\. Confucius is reported to have said on one occasion, 'If some years
 were added to my life, I would give fifty to the study of the Yî, and
 might then escape falling into great errors <span
-id="fr_0"></span>[1:1](#fn_0).'
+id="fr_0"></span>[1:1](#fn_0.md).'
 
 |                                         |
 |-----------------------------------------|
@@ -35,13 +35,13 @@ and wrote various appendixes to it, that he read his copy of it so much
 that the leathern thongs (by which the tablets containing it were bound
 together) were thrice worn out, and that he said, 'Give me several years
 (more), and I should be master of the Yî <span
-id="fr_1"></span>[1:2](#fn_1).' The ancient books on which Confucius had
+id="fr_1"></span>[1:2](#fn_1.md).' The ancient books on which Confucius had
 delighted
 
 <span id="page_2">p. 2</span>
 
 to discourse with his disciples were those of History, Poetry, and Rites
-and Ceremonies <span id="fr_2"></span>[2:1](#fn_2); but ere he passed
+and Ceremonies <span id="fr_2"></span>[2:1](#fn_2.md); but ere he passed
 away from among them, his attention was much occupied also by the Yî as
 a monument of antiquity, which in the prime of his days he had too much
 neglected.
@@ -71,14 +71,14 @@ to most of the ancient literature of China in
 B. C. 213. In the memorial which the premier Lî Sze addressed to his
 sovereign, advising that the old books should be consigned to the
 flames, an exception was made of those which treated of 'medicine,
-divination, and husbandry <span id="fr_3"></span>[2:2](#fn_3).' The Yî
+divination, and husbandry <span id="fr_3"></span>[2:2](#fn_3.md).' The Yî
 was held to be a book of divination, and so was preserved.
 
 In the catalogue of works in the imperial library, prepared by Liû Hin
 about the beginning of our era, there is an enumeration of those on the
 Yî and its Appendixes,--the books of thirteen different authors or
 schools, comprehended in 294 portions of larger or smaller
-dimensions <span id="fr_4"></span>[2:3](#fn_4). I need not follow the
+dimensions <span id="fr_4"></span>[2:3](#fn_4.md). I need not follow the
 history and study of the Yî into the line of the centuries since the
 time of Liû Hin. The imperial Khang-hsî edition of it, which appeared in
 1715, contains quotations from the commentaries of 218 scholars,
@@ -142,7 +142,7 @@ would be a waste of time to try to discover the meaning of these
 designations. They are found in this and another passage of the Official
 Book; and nowhere else. Not a single trace of what they denoted remains,
 while we possess 'the Yî of *K*âu' complete <span
-id="fr_5"></span>[4:1](#fn_5).
+id="fr_5"></span>[4:1](#fn_5.md).
 
 \(ii\) In the Supplement of Žo *Kh*iû-ming to 'the Spring and Autumn,'
 
@@ -165,11 +165,11 @@ doubt, find
 accounts of divination by the Yî interspersed over the long intervening
 period. For centuries before Confucius appeared on the stage of his
 country, the Yî was well known among the various feudal states, which
-then constituted the Middle Kingdom <span id="fr_6"></span>[5:1](#fn_6).
+then constituted the Middle Kingdom <span id="fr_6"></span>[5:1](#fn_6.md).
 
 \(iii\) We may now look into one of the Appendixes for its testimony to
 the age and authorship of the Text. The third Appendix is the longest,
-and the most important <span id="fr_7"></span>[5:2](#fn_7). In the 49th
+and the most important <span id="fr_7"></span>[5:2](#fn_7.md). In the 49th
 paragraph of the second Section of it it is said:--
 
 'Was it not in the middle period of antiquity that the Yî began to
@@ -207,18 +207,18 @@ confinement. His friends succeeded in appeasing the jealousy of his
 enemy, and securing his liberation in the following year. It follows
 that the Yî, so far as we owe it to king Wăn, was made in the year B.C.
 1143 or 1142, or perhaps that it was begun in the former year and
-finished in the latter <span id="fr_8"></span>[6:1](#fn_8).
+finished in the latter <span id="fr_8"></span>[6:1](#fn_8.md).
 
 But the part which is thus ascribed to king Wăn is only a small portion
 of the Yî. A larger share is attributed to his son Tan, known as the
 duke of Kâu, and in it we have allusions to king Wû, who succeeded his
 father Wăn, and was really the first sovereign of the dynasty of
-*K*âu <span id="fr_9"></span>[6:2](#fn_9). There are passages, moreover,
+*K*âu <span id="fr_9"></span>[6:2](#fn_9.md). There are passages, moreover,
 which must be understood of events in the early years of the next reign.
 But the duke of Kâu died in the year B. C. 1105, the 11th of king
 *Kh*ăng. A few years then before that time, in the last decade of the
 twelfth century B. C., the Yî King, as it has come down to us, was
-complete <span id="fr_10"></span>[6:3](#fn_10).
+complete <span id="fr_10"></span>[6:3](#fn_10.md).
 
 5\. We have thus traced the text of the Yî to its authors, the famous
 king Wăn in the year 1143 B. C., and his
@@ -237,7 +237,7 @@ of last century, though it was given to the public only
 <span id="page_7">p. 7</span>
 
 in 1834 by the late Jules Mohl, with a title commencing 'Y-King,
-antiquissimus Sinarum liber <span id="fr_11"></span>[7:1](#fn_11).' The
+antiquissimus Sinarum liber <span id="fr_11"></span>[7:1](#fn_11.md).' The
 language of the other European translator of it, the Rev. Canon
 McClatchie of Shanghâi, whose work appeared in 1876, is still more
 decided. The first sentence of his Introduction contains two very
@@ -310,7 +310,7 @@ commentary upon it; and one and all have arrived at the somewhat
 <span id="page_9">p. 9</span>
 
 lame conclusion that its full significance is past finding out <span
-id="fr_12"></span>[9:1](#fn_12).' A multitude of the native commentaries
+id="fr_12"></span>[9:1](#fn_12.md).' A multitude of the native commentaries
 are of the highest value, and have left little to be done for the
 elucidation of the Text; and if they say that a passage in an Appendix
 is 'unfathomable' or 'incalculable,' it is because their authors shrink
@@ -328,9 +328,9 @@ of European Chinese scholars have made translations of the Yî, and have,
 if possible, made confusion worse confounded,' he only shows how
 imperfectly he had made himself acquainted with the subject. 'The host
 of European Chinese scholars who have made translations of the Yî'
-amount to two,--the same two mentioned by me above on pp. [6](#page_6),
-[7](#page_7). The translation of Regis and his coadjutors <span
-id="fr_13"></span>[9:2](#fn_13) is indeed capable of improvement; but
+amount to two,--the same two mentioned by me above on pp. [6](#page_6.md),
+[7](#page_7.md). The translation of Regis and his coadjutors <span
+id="fr_13"></span>[9:2](#fn_13.md) is indeed capable of improvement; but
 their work as a whole, and especially the prolegomena, dissertations,
 and notes, supply a mass of correct and valuable information. They had
 nearly succeeded in unravelling the confusion, and solving the enigma of
@@ -340,21 +340,21 @@ the Yî.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1:1](icintr01.htm#fr_0) Confucian Analects,
+<span id="fn_0"></span>[1:1:1](icintr01.htm#fr_0.md) Confucian Analects,
 VII, xvi.
 
-<span id="fn_1"></span>[1:1:2](icintr01.htm#fr_1) The Historical
+<span id="fn_1"></span>[1:1:2](icintr01.htm#fr_1.md) The Historical
 Records; Life of Confucius, p. 12.
 
-<span id="fn_2"></span>[2:2:1](icintr01.htm#fr_2) Analects, VII, xvii.
+<span id="fn_2"></span>[2:2:1](icintr01.htm#fr_2.md) Analects, VII, xvii.
 
-<span id="fn_3"></span>[2:2:2](icintr01.htm#fr_3) Legge's Chinese
+<span id="fn_3"></span>[2:2:2](icintr01.htm#fr_3.md) Legge's Chinese
 Classics, I, prolegomena, pp. 6-9.
 
-<span id="fn_4"></span>[2:2:3](icintr01.htm#fr_4) Books of the Earlier
+<span id="fn_4"></span>[2:2:3](icintr01.htm#fr_4.md) Books of the Earlier
 Han; History of Literature, pp. 1, 2.
 
-<span id="fn_5"></span>[4:4:1](icintr01.htm#fr_5) See the *K*âu Kwan (or
+<span id="fn_5"></span>[4:4:1](icintr01.htm#fr_5.md) See the *K*âu Kwan (or
 Lî), Book XXIV, parr. 3, 4, and 27. Biot (Le Tcheou Lî, vol. ii, pp. 70,
 71) translates the former two paragraphs thus: 'Il (Le Grand Augure) est
 préposé aux trois methodes pour les changements (des lignes
@@ -378,7 +378,7 @@ doubled,--with reference to the disappearance and safe keeping of plants
 in the bosom of the earth in winter. All this, however, is only
 conjecture.
 
-<span id="fn_6"></span>[5:5:1](icintr01.htm#fr_6) See in the Žo Khwan,
+<span id="fn_6"></span>[5:5:1](icintr01.htm#fr_6.md) See in the Žo Khwan,
 under the 22nd year of duke *K*wang (B.C. 672); the 1st year of Min
 (1661); and in his 2nd year (660); twice in the 15th year of Hsî (645);
 his 25th year (635); the 12th year of Hsüan, (597); the 16th year of
@@ -386,26 +386,26 @@ his 25th year (635); the 12th year of Hsüan, (597); the 16th year of
 5th year of *Kh*âo (537); his 7th year (535); his 12th year (530); and
 the 9th year of Âi (486).
 
-<span id="fn_7"></span>[5:5:2](icintr01.htm#fr_7) That is, the third as
+<span id="fn_7"></span>[5:5:2](icintr01.htm#fr_7.md) That is, the third as
 it appears farther on in this volume in two Sections. With the Chinese
 critics it forms the fifth and sixth Appendixes, or, 'Wings,' as they
 are termed.
 
-<span id="fn_8"></span>[6:6:1](icintr01.htm#fr_8) Sze-mâ *Kh*ien
+<span id="fn_8"></span>[6:6:1](icintr01.htm#fr_8.md) Sze-mâ *Kh*ien
 (History of the *K*âu Dynasty, p. 3) relates that, 'when he was confined
 in Yû-lî, Wăn increased the 8 trigrams to 64 hexagrams.'
 
-<span id="fn_9"></span>[6:6:2](icintr01.htm#fr_9) E.g., hexagrams XVII,
+<span id="fn_9"></span>[6:6:2](icintr01.htm#fr_9.md) E.g., hexagrams XVII,
 1. 6; XLVI, 1. 4. Tan's authorship of the symbolism is recognised in the
 Žo *Kh*wan, B. C. 540.
 
-<span id="fn_10"></span>[6:6:3](icintr01.htm#fr_10) P. Regis (vol. ii,
+<span id="fn_10"></span>[6:6:3](icintr01.htm#fr_10.md) P. Regis (vol. ii,
 P. 379) says: 'Vel nihil vel parum errabit qui dicet opus Yî King fuisse
 perfectum anno quinto *Kh*ăng Wang, seu anno 1109 aut non ultra annum
 1108, ante aerae Christianae initium; quod satis in rebus non omnino
 certis.' But the fifth year of king *Kh*ăng was B. C. 1111.
 
-<span id="fn_11"></span>[7:7:1](icintr01.htm#fr_11) It has been
+<span id="fn_11"></span>[7:7:1](icintr01.htm#fr_11.md) It has been
 suggested that 'Antiquissimus Sinarum liber' may mean only 'A very
 ancient book of the Chinese,' but the first sentence of the Preface to
 the work commences:--'Inter onmes constat librorum Sinicorum, quos
@@ -431,12 +431,12 @@ Jesus (Intorcetta, Herdritch, and Rougemont). Both they and P. Visdelou
 give an example of a portion of the text and its interpretation, having
 singularly selected the same hexagram,--the 15th, on Humility.
 
-<span id="fn_12"></span>[9:9:1](icintr01.htm#fr_12) See a communication
+<span id="fn_12"></span>[9:9:1](icintr01.htm#fr_12.md) See a communication
 on certain new views about the Yî in the 'Times' of April 20, 1880;
 reprinted in Trübner's American, European, and Oriental Literary Record,
 New Series, vol. i, pp. 125-127.
 
-<span id="fn_13"></span>[9:9:2](icintr01.htm#fr_13) Regis' coadjutors in
+<span id="fn_13"></span>[9:9:2](icintr01.htm#fr_13.md) Regis' coadjutors in
 the work were the Fathers Joseph de Mailla, who turned the Chinese into
 Latin word for word, and compared the result with the Man*k*âu version
 of the Yî; and Peter du Tartre, whose principal business was to supply
@@ -447,4 +447,4 @@ Operis, immediately after M. Mohl's Preface.
 ------------------------------------------------------------------------
 
 [Next: Chapter II: The Subject-Matter of the Text. The Lineal Figures
-and the Explanation of Them](icintr02)
+and the Explanation of Them](icintr02.md)

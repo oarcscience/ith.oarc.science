@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc25)  [Next](osc27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc25)  [Next](osc27.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ pretio et religiosae."
 
 ------------------------------------------------------------------------
 
-[Next: (24) The Fifth of November](osc27)
+[Next: (24) The Fifth of November](osc27.md)

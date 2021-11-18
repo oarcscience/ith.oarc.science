@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg22)  [Next](hchg24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg22)  [Next](hchg24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -118,7 +118,7 @@ of these differences is the Quest of Gawain, according to *Diu Crône* by
 Heinrich, where the king indeed dies coincidently with his release, but
 this is his desired liberation from the condition of death in life.
 Speaking generally, the death of the wounded keeper is designed
-[throughout](errata.htm#1) to make room for his successor. In the *Didot
+[throughout](errata.htm#1.md) to make room for his successor. In the *Didot
 Perceval* he is released according to his yearning, and that almost at
 once; in the *Conte del Graal* Perceval, far from the Castle, awaits the
 keeper's demise, which occurs in the natural course. In the *Parsifal*
@@ -150,4 +150,4 @@ healing that it was said of his successor: Long live the King!
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Removal of the Hallows](hchg24)
+[Next: XII. The Removal of the Hallows](hchg24.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain15)  [Next](ain17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain15)  [Next](ain17.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ they made a fire, and Dthas Seeven got better again.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of Wayhohm](ain17)
+[Next: Notes on the Story of Wayhohm](ain17.md)

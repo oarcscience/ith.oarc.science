@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](dast05)  [Next](dast07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](dast05)  [Next](dast07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -290,7 +290,7 @@ milk
 
 is transformed into curd. By His Jnana-Sakti or energy of intelligence,
 the universe comes into being as made up of the
-[perceiver](errata.htm#12) and the objects of perception.
+[perceiver](errata.htm#12.md) and the objects of perception.
 
 <span class="small">The Sankhya holds that an effect comes into being
 independently of a sentient being, and adduces, in evidence of his
@@ -396,7 +396,7 @@ comparison. To explain: A man learns for the first time from a forester
 that a gayal (a wild animal) is like a cow. Afterwards, on seeing an
 animal like a cow in a forest, the perception of similarity reminds him
 of the forester' directions, and he concludes that it is
-[a](errata.htm#13) gayal.
+[a](errata.htm#13.md) gayal.
 
 *Arthapatti:* right knowledge in the form of presumption: surmising a
 thing to account for something else known. Thus, in the case of a fat
@@ -800,4 +800,4 @@ Dakshinâmûrti.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Unity of Atman](dast07)
+[Next: Chapter III. Unity of Atman](dast07.md)

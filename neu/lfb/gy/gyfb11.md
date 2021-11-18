@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb10)  [Next](gyfb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb10)  [Next](gyfb12.md) 
 
 </div>
 
@@ -192,6 +192,6 @@ days with the treasures she found in the cave, collected by the monster.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Bensurdatu](gyfb12)
+[Next: The Story of Bensurdatu](gyfb12.md)
 
 </div>

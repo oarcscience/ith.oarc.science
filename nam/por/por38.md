@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por37)  [Next](por39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por37)  [Next](por39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ It is going to be lighted.
 It is going to be lighted.  
 It will blaze.  
 We are going to dance.  
-Something bird-like is coming. <span id="fr_3"></span>[\*](#fn_3)
+Something bird-like is coming. <span id="fr_3"></span>[\*](#fn_3.md)
 
 Bird-like tracks will be about the place.  
 We are going to light this unclean house.  
@@ -112,9 +112,9 @@ Down into the interior."
 
 ### Footnotes
 
-<span id="fn_3"></span>[130:\*](por38.htm#fr_3) Where a house had been
+<span id="fn_3"></span>[130:\*](por38.htm#fr_3.md) Where a house had been
 burnt seeds were scattered, for the birds to devour.
 
 ------------------------------------------------------------------------
 
-[Next: Prayers of the Tsimshian](por39)
+[Next: Prayers of the Tsimshian](por39.md)

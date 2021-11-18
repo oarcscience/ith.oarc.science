@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw15)  [Next](sahw17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw15)  [Next](sahw17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -36,7 +36,7 @@ concerning God's grace. It will enable me to describe more accurately
 the Shinshu position.
 
 Grace consists in the direct illumination of the mind, and the
-inspiration of the will, by God. <span id="fr_92"></span>[\*](#fn_92) It
+inspiration of the will, by God. <span id="fr_92"></span>[\*](#fn_92.md) It
 is necessary for all good actions: it is indispensible to the just man,
 because, without it, he cannot persevere in the state of grace, or work
 out his own salvation: it is equally necessary to the man outside the
@@ -58,7 +58,7 @@ most despicable of creatures, who does anything in accordance with the
 promptings of God's grace, that shall fail to receive from the all-just
 tribunal of Heaven his due meed of praise and encouragement. If I may
 express myself in Buddhist terminology, the grace of God is the source
-(the *in* \#) of all good karma. <span id="fr_93"></span>[\*](#fn_93)
+(the *in* \#) of all good karma. <span id="fr_93"></span>[\*](#fn_93.md)
 
 Turning now to the *Shinshu Hyakuwa*, I find (in § 71) that the earthly
 life of a believer after receiving the Believing Heart may be compared
@@ -97,13 +97,13 @@ hajimete Shinshu no* <span class="smallcaps">utsuwa</span> *to naru no
 desu*. " It is not until a man has received faith that he becomes a
 <span class="smallcaps">vessel</span>, of the Shinshu." There is a sort
 of Pauline echo about the phrase which is not without
-significance. <span id="fr_94"></span>[\*](#fn_94) Before
+significance. <span id="fr_94"></span>[\*](#fn_94.md) Before
 
 <span id="page_112">p. 112</span>
 
 the acceptance of faith a man cannot be said to be *Shinshugyōja*, a
 practising believer of the Shinshu Faith. <span
-id="fr_95"></span>[\*](#fn_95) The *Zokutaimon* of the Shinshu Faith is
+id="fr_95"></span>[\*](#fn_95.md) The *Zokutaimon* of the Shinshu Faith is
 therefore, properly speaking, an obligation which does not come into
 full force until a man has definitely accepted the Faith in Amida as
 laid down in the *Shintaimon* portion of the Shinshu creed.
@@ -139,7 +139,7 @@ duties in this section are indeed nothing but natural duties, incumbent
 on all men as members of human society, there are certain others which
 concern believers only. These may be summed up in the one word *hō-on*,
 \#, a phrase to be more fully discussed in our next chapter. <span
-id="fr_96"></span>[\*](#fn_96)
+id="fr_96"></span>[\*](#fn_96.md)
 
 This section of the Catechism, (for Mr. Nishimoto now goes off into a
 consideration of the *hō on*,) closes with a warning against spiritual
@@ -149,7 +149,7 @@ It is customary, in some sects of Buddhism, to give to men who have a
 peculiar reputation for sanctity, certain distinguishing titles such as
 "living Buddha," &c, &c. Mr. Nishimoto has already in § 70 given us some
 of these distinguishing names and titles of honour. Here he gives us two
-more, *Shōjōjū*, and *Zennin*, <span id="fr_97"></span>[†](#fn_97)
+more, *Shōjōjū*, and *Zennin*, <span id="fr_97"></span>[†](#fn_97.md)
 "righteous man," and again
 
 <span id="page_114">p. 114</span>
@@ -177,43 +177,43 @@ look at the inner man of him that has accepted the principle of Faith,
 we find there a happiness and a peace, such as one who has not yet
 believed cannot possibly understand. That internal happiness and peace
 will necessarily show itself in the quiet, peaceful strength that will
-characterize our daily lives. <span id="fr_98"></span>[\*](#fn_98)
+characterize our daily lives. <span id="fr_98"></span>[\*](#fn_98.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_92"></span>[109:\*](sahw16.htm#fr_92) Gratia actualis
+<span id="fn_92"></span>[109:\*](sahw16.htm#fr_92.md) Gratia actualis
 consistit in immediatā mentis illustratione atque inspiratione
 voluntatis immediatā. Hurter, Theologiae Dogmaticae Compendium vol. iii
 p. 11.
 
-<span id="fn_93"></span>[110:\*](sahw16.htm#fr_93) There are some good
+<span id="fn_93"></span>[110:\*](sahw16.htm#fr_93.md) There are some good
 actions which are not done in obedience to the dictates of God's grace.
-Some are done from pride, others from a [hypocritical](errata.htm#12)
+Some are done from pride, others from a [hypocritical](errata.htm#12.md)
 desire to stand well in the sight of men. Such actions are only
 apparently good, and of these we can say that they have in them the
 "nature of sin." But I am not talking of these. I am thinking of the
 honestly good actions of men who have not yet attained to
 "justification" by faith in the One Saviour.
 
-<span id="fn_94"></span>[111:\*](sahw16.htm#fr_94) The Japanese word
+<span id="fn_94"></span>[111:\*](sahw16.htm#fr_94.md) The Japanese word
 *utsuwa* is the equivalent of the Greek word σκευος and is used in the
 Japanese versions of Rom ix. 22, both in the Protestant version and in
 that used in the Greek Church. I have not yet seen the new translation
 (now in print) of the Roman Catholics.
 
-<span id="fn_95"></span>[112:\*](sahw16.htm#fr_95) One frequently hears
+<span id="fn_95"></span>[112:\*](sahw16.htm#fr_95.md) One frequently hears
 among Roman Catholics phrases like, 'il est catholique mais il ne
 pratique pas': i.e. he is not a *gyōja*.
 
-<span id="fn_96"></span>[113:\*](sahw16.htm#fr_96) I may, however,
+<span id="fn_96"></span>[113:\*](sahw16.htm#fr_96.md) I may, however,
 briefly state here that the obvious Greek translation for *hō on* is
 Eucharistia, and that the attitude of the Shinshu mind after having made
 the act of Faith, may be most fitly described in the words of St Paul,
 Eph. v. 20.
 
-<span id="fn_97"></span>[113:†](sahw16.htm#fr_97) But see the quotation
+<span id="fn_97"></span>[113:†](sahw16.htm#fr_97.md) But see the quotation
 from Nanjo given in the note at the end of Chapt. vii. One of these
 titles, *Daitoku* (\#) "great virtue," though not mentioned by Mr.
 Nishimoto, is historically interesting. One of the Tang Emperors,
@@ -222,11 +222,11 @@ all sorts in his capital. Some of the Daitoku were undoubtedly
 Buddhists, but the title is also given to Olopen, the leader of the
 Nestorians, on the memorial erected a year or two later.
 
-<span id="fn_98"></span>[114:\*](sahw16.htm#fr_98) In the light of the
+<span id="fn_98"></span>[114:\*](sahw16.htm#fr_98.md) In the light of the
 historical discussion to be found in the Appendix, it is possible that
 *Shintaimon* and *Zokutaimon* may represent the distinction made between
 the "Perfect" and the "Hearers" in Manichaeism.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Hō-on.](sahw17)
+[Next: Chapter XV. Hō-on.](sahw17.md)

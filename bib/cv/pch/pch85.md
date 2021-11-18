@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch84) 
-[Next](pch86) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch84.md) 
+[Next](pch86.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -22,19 +22,19 @@ Heritage
 
 ### THE EATING OF THE CRUCIFIED HUMAN SACRIFICE.
 
-<span class="smallcaps">On</span> page [136](pch32.htm#page_136) I have
+<span class="smallcaps">On</span> page [136](pch32.htm#page_136.md) I have
 suggested that the cannibalism of the Bataks of Sumatra would seem to be
 a survival of an anthropophagous sacrament; and on [p.
-132](pch32.htm#page_132) I have put the original eating of the
+132](pch32.htm#page_132.md) I have put the original eating of the
 "crucified" human sacrifice as an inference supported by other cases of
 sacramental cannibalism, by the abundant evidence from Africa, and by
 the special case of the Dravidian Gonds in India. I had overlooked a
 decisive testimony, preserved by Pickering, <span
-id="fr_2003"></span>[1](#fn_2003) which exhibits the Bataks as
+id="fr_2003"></span>[1](#fn_2003.md) which exhibits the Bataks as
 practising human sacrifice under the aspect of crucifixion, in the way
 of the Khonds, and as eating the fragments of the victim, as late as
 1814. The testimony is that of Major Canning, <span
-id="fr_2004"></span>[2](#fn_2004) who in his residence among the Bataks
+id="fr_2004"></span>[2](#fn_2004.md) who in his residence among the Bataks
 at Tappanooly in that year "omitted no opportunity of making the most
 minute inquiries" on the subject of their cannibalism. It was previously
 known that they ate criminals, prisoners of war, and aged relatives,
@@ -79,13 +79,13 @@ ii, p. 809.)
 
 ### Footnotes
 
-<span id="fn_2003"></span>[389:1](pch85.htm#fr_2003) *The Races of Man*,
+<span id="fn_2003"></span>[389:1](pch85.htm#fr_2003.md) *The Races of Man*,
 by Charles Pickering, M.D., Bohn ed. 1863, pp. 303-4.
 
-<span id="fn_2004"></span>[389:2](pch85.htm#fr_2004) Published in the
+<span id="fn_2004"></span>[389:2](pch85.htm#fr_2004.md) Published in the
 *Malacca Observer*, 1827, and cited thence in Moore's *Papers on the
 Indian Archipelago*, cited in turn by Pickering.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix B. Dramatic and Ritual Survivals](pch86)
+[Next: Appendix B. Dramatic and Ritual Survivals](pch86.md)

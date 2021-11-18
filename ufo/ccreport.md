@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](ccircles)  [Next](cdiscs) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](ccircles)  [Next](cdiscs.md) 
 
 ### Oliver's Castle Crop-Circle Video
 
@@ -377,4 +377,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: Crashed Discs 12,000 Years Ago](cdiscs)
+[Next: Crashed Discs 12,000 Years Ago](cdiscs.md)

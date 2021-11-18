@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst084)  [Next](inst086) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst084)  [Next](inst086.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,7 +178,7 @@ were to be wicked over much. The people had a most excellent canon
 prescribed to them by the word of God—viz. that a bishop must be
 blameless, apt to teach, not a brawler, &c. (<span
 id="iv.iv.vi-p24.2"></span>[1 Tim.
-3:2](../../../bib/kjv/ti1003.htm#002)<span id="iv.iv.vi-p24.2"></span>).
+3:2](../../../bib/kjv/ti1003.htm#002)<span id="iv.iv.vi-p24.2"></span>.md).
 Why, then, was the province of electing transferred from the people to
 these men? Just because among the tumults and factions of the people the
 word of God was not heard. And, on the other hand, why is it not in the
@@ -273,7 +273,7 @@ the question which is thrice put in an unintelligible voice, when the
 persons who are to be ordained are brought to the altar—viz. Are they
 worthy of the honour? One (who never saw them, but has his part in the
 play, that no form may be wanting) answers, They are worthy.54  <span
-id="fr_550"></span>[551](#fn_550) What can you accuse in these venerable
+id="fr_550"></span>[551](#fn_550.md) What can you accuse in these venerable
 fathers save that, by indulging in such sacrilegious sport, they
 shamelessly laugh at God and man? But as they have long been in
 possession of the thing, they think they have now a legal title to it.
@@ -365,7 +365,7 @@ our Saviour had wished, or the nature of the office permits, presbyters
 to be made for such a purpose. When Scripture plainly testifies that it
 is the duty of a presbyter to rule his own church (<span
 id="iv.iv.vi-p31.1"></span>[Acts
-20:28](../../../bib/kjv/act020.htm#028)<span
+20:28](../../../bib/kjv/act020.htm#028.md)<span
 id="iv.iv.vi-p31.1"></span>), is it not impious profanation to transfer
 it to another purpose, nay, altogether to change the sacred institution
 of God? For when they are ordained, they are expressly forbidden to do
@@ -400,7 +400,7 @@ therefore, must not expect from me a discourse which can fully represent
 this flagitious indignity. I briefly say, that if it is the office of a
 presbyter (and this both the word of God prescribes (<span
 id="iv.iv.vi-p32.1"></span>[1 Cor.
-4:1](../../../bib/kjv/co1004.htm#001)<span id="iv.iv.vi-p32.1"></span>)
+4:1](../../../bib/kjv/co1004.htm#001)<span id="iv.iv.vi-p32.1"></span>.md)
 and the ancient canons enjoin) to feed the Church, and administer the
 spiritual kingdom of Christ, all those priests who have no work or
 stipend, save in the traffic of masses, not only fail in their office,
@@ -410,7 +410,7 @@ altar on which to sacrifice Christ; this is to sacrifice not to God but
 to demons, as we shall afterwards show (see chap.18 sec. 3, 9, 14).
 
 <span id="iv.iv.vi-p33"></span>10. I am not here touching on extraneous
-faults,54  <span id="fr_551"></span>[552](#fn_551) but only on the
+faults,54  <span id="fr_551"></span>[552](#fn_551.md) but only on the
 intestine evil which lies at the root of the very institution. I will
 add a sentence which will sound strange in their ears, but which, as it
 is true, it is right to express, that canons, deans, chaplains,
@@ -610,17 +610,17 @@ Christ’s kingdom, where the sacerdotal order is exhibited in royal
 attire, that it was not without cause that God made the following
 promises to his Church: “All kings shall fall down before him: all
 nations shall serve him” (<span id="iv.iv.vi-p41.1"></span>[Ps.
-72:11](../../../bib/kjv/psa072.htm#011)<span
+72:11](../../../bib/kjv/psa072.htm#011.md)<span
 id="iv.iv.vi-p41.1"></span>). “Awake, awake; put on thy strength, O
 Sion; put on thy beautiful garments, O Jerusalem, the holy city” (<span
 id="iv.iv.vi-p41.2"></span>[Isa.
-52:1](../../../bib/kjv/isa052.htm#001)<span
+52:1](../../../bib/kjv/isa052.htm#001.md)<span
 id="iv.iv.vi-p41.2"></span>). “All they from Sheba shall come; they
 shall bring gold and incense, and they shall show forth the praises of
 the Lord. All the flocks of Kedar shall be gathered together unto thee”
 (<span id="iv.iv.vi-p41.3"></span>[Isa.
-60:6](../../../bib/kjv/isa060.htm#006),
-[7](../../../bib/kjv/isa060.htm#007)<span id="iv.iv.vi-p41.3"></span>).
+60:6](../../../bib/kjv/isa060.htm#006.md),
+[7](../../../bib/kjv/isa060.htm#007)<span id="iv.iv.vi-p41.3"></span>.md).
 I fear I should seem childish were I to dwell long in refuting this
 dishonesty. I am unwilling, therefore, to use words unnecessarily; I
 ask, however, were any Jew to misapply these passages, what answer would
@@ -723,7 +723,7 @@ has been completely established.
 
 ### Footnotes
 
-<span id="fn_550"></span>[551](inst085.htm#fr_550) <span
+<span id="fn_550"></span>[551](inst085.htm#fr_550.md) <span
 id="iv.iv.vi-p27.1"></span>
 
 <span id="iv.iv.vi-p28"></span>47 547 “C’est un acte semblable, que
@@ -737,7 +737,7 @@ worthy; and some one who has never seen him, or some valet who does not
 understand Latin, replies, in Latin, that he is worthy: just as a person
 would play his part in a farce.
 
-<span id="fn_551"></span>[552](inst085.htm#fr_551) <span
+<span id="fn_551"></span>[552](inst085.htm#fr_551.md) <span
 id="iv.iv.vi-p33.1"></span>
 
 <span id="iv.iv.vi-p34"></span>48 548 French. “Ies vices des
@@ -745,4 +745,4 @@ personnes:”—the faults of individuals.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER 6. - OF THE PRIMACY OF THE ROMISH SEE.](inst086)
+[Next: CHAPTER 6. - OF THE PRIMACY OF THE ROMISH SEE.](inst086.md)

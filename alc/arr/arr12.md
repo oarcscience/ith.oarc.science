@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr11)  [Next](arr13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr11)  [Next](arr13.md) 
 
 ------------------------------------------------------------------------
 
@@ -248,4 +248,4 @@ which has recognized a metallic seed peculiar to all metals.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: The Spirit of Mercury](arr13)
+[Next: Chapter II: The Spirit of Mercury](arr13.md)

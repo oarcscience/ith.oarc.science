@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](pps06)  [Next](pps08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](pps06)  [Next](pps08.md) 
 
 ------------------------------------------------------------------------
 
@@ -440,4 +440,4 @@ and confess Him. 16, 11
 
 ------------------------------------------------------------------------
 
-[Next: 351-400](pps08)
+[Next: 351-400](pps08.md)

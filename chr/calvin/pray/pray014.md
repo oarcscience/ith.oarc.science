@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray013)  [Next](pray015) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray013)  [Next](pray015.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,10 +36,10 @@ whose prayers are given in Scripture thus supplicated. Nor are we thus
 taught by the Holy Spirit, who tells us to "come boldly unto the throne
 of grace, that we may obtain mercy, and find grace to help in time of
 need" (<span id="iii.xii-p1.1"></span>[Hebrews
-4:16](../../../bib/kjv/heb004.htm#016)<span id="iii.xii-p1.1"></span>);
+4:16](../../../bib/kjv/heb004.htm#016)<span id="iii.xii-p1.1"></span>.md);
 and elsewhere teaches us to "have boldness and access with confidence by
 the faith of Christ" (<span id="iii.xii-p1.2"></span>[Ephesians
-3:12](../../../bib/kjv/eph003.htm#012)<span id="iii.xii-p1.2"></span>).
+3:12](../../../bib/kjv/eph003.htm#012)<span id="iii.xii-p1.2"></span>.md).
 This confidence of obtaining what we ask, a confidence which the Lord
 commands, and all the saints teach by their example, we must therefore
 hold fast with both hands, if we would pray to any advantage. The only
@@ -51,14 +51,14 @@ he might distinguish us from unbelievers, who indeed like us pray to
 God, but pray at random. Hence, the whole Church thus prays "Let thy
 mercy O Lord, be upon us, according as we hope in thee" (<span
 id="iii.xii-p1.3"></span>[Psalm
-33:22](../../../bib/kjv/psa033.htm#022)<span id="iii.xii-p1.3"></span>).
+33:22](../../../bib/kjv/psa033.htm#022)<span id="iii.xii-p1.3"></span>.md).
 The same condition is set down by the Psalmist in another passage, "When
 I cry unto thee, then shall mine enemies turn back: this I know, for God
 is for me" (<span id="iii.xii-p1.4"></span>[Psalm
-56:9](../../../bib/kjv/psa056.htm#009)<span id="iii.xii-p1.4"></span>).
+56:9](../../../bib/kjv/psa056.htm#009)<span id="iii.xii-p1.4"></span>.md).
 Again, "In the morning will I direct my prayer unto thee, and will look
 up" (<span id="iii.xii-p1.5"></span>[Psalm
-5:3](../../../bib/kjv/psa005.htm#003)<span id="iii.xii-p1.5"></span>).
+5:3](../../../bib/kjv/psa005.htm#003)<span id="iii.xii-p1.5"></span>.md).
 From these words we gather, that prayers are vainly poured out into the
 air unless accompanied with faith, in which, as from a watchtower, we
 may quietly wait for God. With this agrees the order of Paul's
@@ -66,7 +66,7 @@ exhortation. For before urging believers to pray in the Spirit always,
 with vigilance and assiduity, he enjoins them to take "the shield of
 faith," " the helmet of salvation, and the sword of the Spirit, which is
 the word of God" (<span id="iii.xii-p1.6"></span>[Ephesians
-6:16-18](../../../bib/kjv/eph006.htm#016)<span
+6:16-18](../../../bib/kjv/eph006.htm#016.md)<span
 id="iii.xii-p1.6"></span>).
 
 <span id="iii.xii-p2"></span>Let the reader here call to mind what I
@@ -85,7 +85,7 @@ before their parents. Nay, the immense accumulation of our sins should
 rather spur us on and incite us to prayer. Of this the Psalmist gives us
 an example, "Heal my soul: for I have sinned against thee" (<span
 id="iii.xii-p2.1"></span>[Psalm
-41:4](../../../bib/kjv/psa041.htm#004)<span id="iii.xii-p2.1"></span>).
+41:4](../../../bib/kjv/psa041.htm#004)<span id="iii.xii-p2.1"></span>.md).
 I confess, indeed, that these stings would prove mortal darts, did not
 God give succour; but our heavenly Father has, in ineffable kindness,
 added a remedy, by which, calming all perturbation, soothing our cares,
@@ -95,4 +95,4 @@ us.
 
 ------------------------------------------------------------------------
 
-[Next: 13.](pray015)
+[Next: 13.](pray015.md)

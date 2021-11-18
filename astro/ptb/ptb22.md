@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb21)  [Next](ptb23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb21)  [Next](ptb23.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,20 +27,20 @@ the space of five signs are also considered inconjunct, because they
 divide the whole circle into unequal parts; whereas the spaces contained
 in the configurations above-mentioned, viz. the opposition, trine,
 quartile, and sextile, produce aliquot divisions. <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_57"></span>[27:1](ptb22.htm#fr_57) It has never been very
+<span id="fn_57"></span>[27:1](ptb22.htm#fr_57.md) It has never been very
 clearly shown how the followers of Ptolemy have reconciled the new
 aspects \[called the semiquadrate, quintile, sesquiquadrate, biquintile,
 &c.\] with the *veto* pronounced in this chapter. Kepler is said to have
 invented them, and they have been universally adopted; even Placidus,
 who has applied Ptolemy's doctrine to practice better than any other
 writer, has availed himself of them, <span
-id="fr_58"></span>[\*1](#fn_58) and, if the nativities published by him
+id="fr_58"></span>[\*1](#fn_58.md) and, if the nativities published by him
 are to be credited, he has fully established their importance.
 
 Salmon, in his "Horæ Mathematicæ," beforementioned, gives a long
@@ -80,9 +80,9 @@ octagon*" (the semiquadrate) "*but* 45; *the remainders of which arcs,
 viz*. 108 *and* 135 *degrees, are not subtended by the sides of any
 ordinate figure*."
 
-<span id="fn_58"></span>[27:\*1](ptb22.htm#fr_58) Except the
+<span id="fn_58"></span>[27:\*1](ptb22.htm#fr_58.md) Except the
 semiquadrate, which he has not at all noticed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. Houses of the Planets](ptb23)
+[Next: Chapter XX. Houses of the Planets](ptb23.md)

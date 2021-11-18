@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](mks18)  [Next](mks20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](mks18)  [Next](mks20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
 Textual Heritage
 
@@ -65,7 +65,7 @@ year.
 There are many who think that the world is just about to pass out of the
 sixth period; that it will soon enter into the seventh period, the
 period of readjustment, reconstruction and harmony; the period which is
-frequently referred to as the [Millennium](errata.htm#2).
+frequently referred to as the [Millennium](errata.htm#2.md).
 
 Those familiar with these cycles will not be disturbed when things seem
 to go wrong, but can apply the principle outlined in The Master Key,
@@ -467,4 +467,4 @@ to control it.
 
 ------------------------------------------------------------------------
 
-[Next: Part Seventeen](mks20)
+[Next: Part Seventeen](mks20.md)

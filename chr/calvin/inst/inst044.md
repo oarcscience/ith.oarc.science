@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst043)  [Next](inst045) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst043)  [Next](inst045.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Beveridge \[1845\], at Intangible Textual Heritage
 ### <span id="iv.ii.xi-p0.1"></span>CHAPTER 10.
 
 <span id="iv.ii.xi-p1"></span>THE RESEMBLANCE BETWEEN THE OLD TESTAMENT
-AND THE NEW.  <span id="fr_220"></span>[221](#fn_220)
+AND THE NEW.  <span id="fr_220"></span>[221](#fn_220.md)
 
 <span id="iv.ii.xi-p3"></span>This chapter consists of four parts. I.
 The sum, utility, and necessity of this discussion, sec. 1. II. A proof
@@ -57,7 +57,7 @@ proves that the condition of the ancient church was similar to ours.
 
 <span id="iv.ii.xi-p10"></span>6. An objection from <span
 id="iv.ii.xi-p10.1"></span>[John
-6:49](../../../bib/kjv/joh006.htm#049)<span
+6:49](../../../bib/kjv/joh006.htm#049.md)<span
 id="iv.ii.xi-p10.1"></span>—viz. that the Israelites ate manna in the
 wilderness, and are dead, whereas Christians eat the flesh of Christ,
 and die not. Answer reconciling this passage of the Evangelist with that
@@ -154,7 +154,7 @@ rendered necessary by that monstrous miscreant, Servetus, and some
 madmen of the sect of the Anabaptists, who think of the people of Israel
 just as they would do of some herd of swine, absurdly imagining that the
 Lord gorged them with temporal blessings here, and gave them no hope of
-a blessed immortality.22  <span id="fr_221"></span>[222](#fn_221) Let us
+a blessed immortality.22  <span id="fr_221"></span>[222](#fn_221.md) Let us
 guard pious minds against this pestilential error, while we at the same
 time remove all the difficulties which are wont to start up when mention
 is made of the difference between the Old and the New Testaments. By the
@@ -197,11 +197,11 @@ afterwards add it in its proper place. The Apostle, indeed, removes all
 doubt when he says that the Gospel which God gave concerning his Son,
 Jesus Christ, “he had promised aforetime by his prophets in the holy
 Scriptures,” (<span id="iv.ii.xi-p31.1"></span>[Rom.
-1:2](../../../bib/kjv/rom001.htm#002)<span id="iv.ii.xi-p31.1"></span>).
+1:2](../../../bib/kjv/rom001.htm#002)<span id="iv.ii.xi-p31.1"></span>.md).
 And again, that “the righteousness of God without the law is manifested,
 being witnessed by the law and the prophets,” (<span
 id="iv.ii.xi-p31.2"></span>[Rom.
-3:21](../../../bib/kjv/rom003.htm#021)<span
+3:21](../../../bib/kjv/rom003.htm#021.md)<span
 id="iv.ii.xi-p31.2"></span>). For the Gospel does not confine the hearts
 of men to the enjoyment of the present life, but raises them to the hope
 of immortality; does not fix them down to earthly delights, but
@@ -210,27 +210,27 @@ thither also. For in another place he thus explains, “After that ye
 believed \[the Gospel,\] ye were sealed with that Holy Spirit of
 promise, which is the earnest of our inheritance unto the redemption of
 the purchased possession,” (<span id="iv.ii.xi-p31.3"></span>[Eph.
-1:13](../../../bib/kjv/eph001.htm#013),
-[14](../../../bib/kjv/eph001.htm#014)<span id="iv.ii.xi-p31.3"></span>).
+1:13](../../../bib/kjv/eph001.htm#013.md),
+[14](../../../bib/kjv/eph001.htm#014)<span id="iv.ii.xi-p31.3"></span>.md).
 Again, “Since we heard of your faith in Christ Jesus, and of the love
 which ye have to all the saints, for the hope which is laid up for you
 in heaven, whereof ye heard before in the word of the truth of the
 Gospel,” (<span id="iv.ii.xi-p31.4"></span>[Col.
-1:4](../../../bib/kjv/col001.htm#004)<span id="iv.ii.xi-p31.4"></span>).
+1:4](../../../bib/kjv/col001.htm#004)<span id="iv.ii.xi-p31.4"></span>.md).
 Again, “Whereunto he called you by our Gospel to the obtaining of the
 glory of our Lord Jesus Christ,” (<span id="iv.ii.xi-p31.5"></span>[2
-Thess. 2:14](../../../bib/kjv/th2002.htm#014)<span
+Thess. 2:14](../../../bib/kjv/th2002.htm#014.md)<span
 id="iv.ii.xi-p31.5"></span>). Whence also it is called the word of
 salvation and the power of God, with salvation to every one that
 believes, and the kingdom of heaven.22  <span
-id="fr_222"></span>[223](#fn_222) But if the doctrine of the Gospel is
+id="fr_222"></span>[223](#fn_222.md) But if the doctrine of the Gospel is
 spiritual, and gives access to the possession of incorruptible life, let
 us not suppose that those to whom it was promised and declared
 altogether neglected the care of the soul, and lived stupidly like
 cattle in the enjoyment of bodily pleasures. Let no one here quibble and
 say, that the promises concerning the Gospel, which are contained in the
 Law and the Prophets, were designed for a new people.23  <span
-id="fr_223"></span>[224](#fn_223) For Paul, shortly after making that
+id="fr_223"></span>[224](#fn_223.md) For Paul, shortly after making that
 statement concerning the Gospel promised in the Law, adds, that
 “whatsoever things the law saith, it saith to those who are under the
 law.” I admit, indeed, he is there treating of a different subject, but
@@ -254,23 +254,23 @@ were instructed in the doctrine of justification by faith? And not to
 dwell on a point which is clear, we have the remarkable saying of our
 Lord, “Your father Abraham rejoiced to see my day, and he saw it and was
 glad,” (<span id="iv.ii.xi-p34.1"></span>[John
-8:56](../../../bib/kjv/joh008.htm#056)<span
+8:56](../../../bib/kjv/joh008.htm#056.md)<span
 id="iv.ii.xi-p34.1"></span>). What Christ here declares of Abraham, an
 apostle shows to be applicable to all believers, when he says that Jesus
 Christ is the “same yesterday, to-day, and for ever,” (<span
 id="iv.ii.xi-p34.2"></span>[Heb.
-13:8](../../../bib/kjv/heb013.htm#008)<span
+13:8](../../../bib/kjv/heb013.htm#008.md)<span
 id="iv.ii.xi-p34.2"></span>). For he is not there speaking merely of the
 eternal divinity of Christ, but of his power, of which believers had
 always full proof. Hence both the blessed Virgin23  <span
-id="fr_224"></span>[225](#fn_224) and Zachariah, in their hymns, say
+id="fr_224"></span>[225](#fn_224.md) and Zachariah, in their hymns, say
 that the salvation revealed in Christ was a fulfilment of the mercy
 promised “to our fathers, to Abraham, and to his seed for ever,” (<span
-id="iv.ii.xi-p35.1"></span>[Luke 1:55](../../../bib/kjv/luk001.htm#055),
-[72](../../../bib/kjv/luk001.htm#072)<span id="iv.ii.xi-p35.1"></span>).
+id="iv.ii.xi-p35.1"></span>[Luke 1:55](../../../bib/kjv/luk001.htm#055.md),
+[72](../../../bib/kjv/luk001.htm#072)<span id="iv.ii.xi-p35.1"></span>.md).
 If, by manifesting Christ, the Lord fulfilled his ancient oath, it
 cannot be denied that the subject of that oath23  <span
-id="fr_225"></span>[226](#fn_225) must ever have been Christ and eternal
+id="fr_225"></span>[226](#fn_225.md) must ever have been Christ and eternal
 life.
 
 <span id="iv.ii.xi-p37"></span>5. Nay, the Apostle makes the Israelites
@@ -298,15 +298,15 @@ follows—viz. that they did “all eat the same spiritual meat; and did all
 drink the same spiritual drink: for they drank of that spiritual Rock
 that followed them: and that Rock was Christ,” (<span
 id="iv.ii.xi-p37.1"></span>[1 Cor.
-10:3](../../../bib/kjv/co1010.htm#003),
-[4](../../../bib/kjv/co1010.htm#004)<span id="iv.ii.xi-p37.1"></span>).
+10:3](../../../bib/kjv/co1010.htm#003.md),
+[4](../../../bib/kjv/co1010.htm#004)<span id="iv.ii.xi-p37.1"></span>.md).
 
 <span id="iv.ii.xi-p38"></span>6. To take off the force of this passage
 of Paul, an objection is founded on the words of our Saviour, “Your
 fathers did eat manna in the wilderness, and are dead.” “If any man eat
 of this bread, he shall live for ever,” (<span
-id="iv.ii.xi-p38.1"></span>[John 6:49](../../../bib/kjv/joh006.htm#049),
-[51](../../../bib/kjv/joh006.htm#051)<span id="iv.ii.xi-p38.1"></span>).
+id="iv.ii.xi-p38.1"></span>[John 6:49](../../../bib/kjv/joh006.htm#049.md),
+[51](../../../bib/kjv/joh006.htm#051)<span id="iv.ii.xi-p38.1"></span>.md).
 There is no difficulty in reconciling the two passages. The Lord, as he
 was addressing hearers who only desired to be filled with earthly food,
 while they cared not for the true food of the soul, in some degree
@@ -353,10 +353,10 @@ has such an inherent efficacy, that it quickens the souls of all whom he
 is pleased to favour with the communication of it. Peter’s statement has
 ever been true, that it is an incorruptible seed, “which liveth and
 abideth for ever,” (<span id="iv.ii.xi-p39.1"></span>[1 Peter
-1:23](../../../bib/kjv/pe1001.htm#023)<span
+1:23](../../../bib/kjv/pe1001.htm#023.md)<span
 id="iv.ii.xi-p39.1"></span>), as he infers from the words of Isaiah
 (<span id="iv.ii.xi-p39.2"></span>[Is.
-40:6](../../../bib/kjv/isa040.htm#006)<span
+40:6](../../../bib/kjv/isa040.htm#006.md)<span
 id="iv.ii.xi-p39.2"></span>). Now when God, in ancient times, bound the
 Jews to him by this sacred bond, there cannot be a doubt that he
 separated them unto the hope of eternal life. When I say that they
@@ -378,14 +378,14 @@ satisfy calm thinkers, but sufficiently establish the ignorance of
 gainsayers. The covenant which God always made with his servants was
 this, “I will walk among you, and will be your God, and ye shall be my
 people,” (<span id="iv.ii.xi-p40.1"></span>[Lev.
-26:12](../../../bib/kjv/lev026.htm#012)<span
+26:12](../../../bib/kjv/lev026.htm#012.md)<span
 id="iv.ii.xi-p40.1"></span>). These words, even as the prophets are wont
 to expound them, comprehend life and salvation, and the whole sum of
 blessedness. For David repeatedly declares, and with good reason, “Happy
 is that people whose God is the Lord.” “Blessed is the nation whose God
 is the Lord; and the people whom he has chosen for his own inheritance,”
 (<span id="iv.ii.xi-p40.2"></span>[Psalm
-144:15](../../../bib/kjv/psa144.htm#015)<span
+144:15](../../../bib/kjv/psa144.htm#015.md)<span
 id="iv.ii.xi-p40.2"></span>; 33:12); and this not merely in respect of
 earthly happiness, but because he rescues from death, constantly
 preserves, and, with eternal mercy, visits those whom he has adopted for
@@ -394,11 +394,11 @@ everlasting, O Lord my God, mine Holy One? we shall not die.” “The Lord
 is our judge, the Lord is our lawgiver, the Lord is our king; he will
 save us” “Happy art thou, O Israel: who is like unto thee, O people
 saved by the Lord?” (<span id="iv.ii.xi-p40.3"></span>[Hab.
-1:12](../../../bib/kjv/hab001.htm#012)<span id="iv.ii.xi-p40.3"></span>;
+1:12](../../../bib/kjv/hab001.htm#012.md)<span id="iv.ii.xi-p40.3"></span>;
 <span id="iv.ii.xi-p40.4"></span>[Isaiah
-33:22](../../../bib/kjv/isa033.htm#022)<span
+33:22](../../../bib/kjv/isa033.htm#022.md)<span
 id="iv.ii.xi-p40.4"></span>; <span id="iv.ii.xi-p40.5"></span>[Deut.
-33:29](../../../bib/kjv/deu033.htm#029)<span
+33:29](../../../bib/kjv/deu033.htm#029.md)<span
 id="iv.ii.xi-p40.5"></span>). But not to labour superfluously, the
 prophets are constantly reminding us that no good thing and,
 consequently, no assurance of salvation, is wanting, provided the Lord
@@ -407,13 +407,13 @@ us, is a perfect pledge of salvation, how can he manifest himself to any
 one as his God, without opening to him the treasures of salvation? The
 terms on which God makes himself ours is to dwell in the midst of us, as
 he declared by Moses (<span id="iv.ii.xi-p40.6"></span>[Lev.
-26:11](../../../bib/kjv/lev026.htm#011)<span
+26:11](../../../bib/kjv/lev026.htm#011.md)<span
 id="iv.ii.xi-p40.6"></span>). But such presence cannot be enjoyed
 without life being, at the same time, possessed along with it. And
 though nothing more had been expressed, they had a sufficiently clear
 promise of spiritual life in these words, “I am your God,” (<span
 id="iv.ii.xi-p40.7"></span>[Exod.
-6:7](../../../bib/kjv/exo006.htm#007)<span id="iv.ii.xi-p40.7"></span>).
+6:7](../../../bib/kjv/exo006.htm#007)<span id="iv.ii.xi-p40.7"></span>.md).
 For he declared that he would be a God not to their bodies only, but
 specially to their souls. Souls, however, if not united to God by
 righteousness, remain estranged from him in death. On the other hand,
@@ -430,7 +430,7 @@ second part of the promise—viz. the blessing of God, its extending
 beyond the limits of the present life was still more clearly confirmed
 by the words, I will be the God of your seed after you (<span
 id="iv.ii.xi-p41.1"></span>[Gen.
-17:7](../../../bib/kjv/gen017.htm#007)<span
+17:7](../../../bib/kjv/gen017.htm#007.md)<span
 id="iv.ii.xi-p41.1"></span>). If he was to manifest his favour to the
 dead by doing good to their posterity, much less would he deny his
 favour to themselves. God is not like men, who transfer their love to
@@ -442,25 +442,25 @@ thousand generations. God, therefore, was pleased to give a striking
 proof of the abundance and greatness of his goodness which they were to
 enjoy after death, when he described it as overflowing to all their
 posterity (<span id="iv.ii.xi-p41.2"></span>[Exod.
-20:6](../../../bib/kjv/exo020.htm#006)<span
+20:6](../../../bib/kjv/exo020.htm#006.md)<span
 id="iv.ii.xi-p41.2"></span>). The truth of this promise was sealed, and
 in a manner completed, when, long after the death of Abraham, Isaac, and
 Jacob, he called himself their God (<span
 id="iv.ii.xi-p41.3"></span>[Exod.
-20:6](../../../bib/kjv/exo020.htm#006)<span
+20:6](../../../bib/kjv/exo020.htm#006.md)<span
 id="iv.ii.xi-p41.3"></span>). And why? Was not the name absurd if they
 had perished? It would have been just the same as if he had said, I am
 the God of men who exist not. Accordingly, the Evangelists relate that,
 by this very argument, our Saviour refuted the Sadducees (<span
 id="iv.ii.xi-p41.4"></span>[Mt.
-22:23](../../../bib/kjv/mat022.htm#023)<span
+22:23](../../../bib/kjv/mat022.htm#023.md)<span
 id="iv.ii.xi-p41.4"></span>; <span id="iv.ii.xi-p41.5"></span>[Luke
-20:32](../../../bib/kjv/luk020.htm#032)<span
+20:32](../../../bib/kjv/luk020.htm#032.md)<span
 id="iv.ii.xi-p41.5"></span>), who were, therefore, unable to deny that
 the resurrection of the dead was attested by Moses, inasmuch as he had
 taught them that all the saints are in his hand (<span
 id="iv.ii.xi-p41.6"></span>[Deut.
-33:3](../../../bib/kjv/deu033.htm#003)<span
+33:3](../../../bib/kjv/deu033.htm#003.md)<span
 id="iv.ii.xi-p41.6"></span>). Whence it is easy to infer that death is
 not the extinction of those who are taken under the tutelage,
 guardianship, and protection of him who is the disposer of life and
@@ -494,7 +494,7 @@ the great kindness of God, he had received safe from the deluge.
 to tens of thousands if we consider his faith, which is set before us as
 the best model of believing, to whose race also we must be held to
 belong in order that we may be the children of God.23  <span
-id="fr_226"></span>[227](#fn_226) What could be more absurd than that
+id="fr_226"></span>[227](#fn_226.md) What could be more absurd than that
 Abraham should be the father of all the faithful, and not even occupy
 the meanest corner among them? He cannot be denied a place in the list;
 nay, he cannot be denied one of the most honourable places in it,
@@ -513,7 +513,7 @@ often suffer from hunger, nay, perish from famine, unless you flee from
 it? Then, again, with Abimelech, he is reduced to the same necessity of
 saving his head by the loss of his wife (<span
 id="iv.ii.xi-p44.1"></span>[Gen.
-12:12](../../../bib/kjv/gen012.htm#012)<span
+12:12](../../../bib/kjv/gen012.htm#012.md)<span
 id="iv.ii.xi-p44.1"></span>). While he wanders up and down uncertain for
 many years, he is compelled, by the constant quarrelling of servants to
 part with his nephew, who was to him as a son. This departure must
@@ -557,26 +557,26 @@ great annoyance from his daughters-in-law; he is stung by the dissension
 of his sons, and has no other cure for this great evil than to send the
 son whom he had blessed into exile (<span
 id="iv.ii.xi-p45.1"></span>[Gen.
-26:27](../../../bib/kjv/gen026.htm#027)<span
+26:27](../../../bib/kjv/gen026.htm#027.md)<span
 id="iv.ii.xi-p45.1"></span>); Jacob, again, is nothing but a striking
 example of the greatest wretchedness. His boyhood is passed most
 uncomfortably at home amidst the threats and alarms of his elder
 brother, and to these he is at length forced to give way (<span
 id="iv.ii.xi-p45.2"></span>[Gen.
-27:28](../../../bib/kjv/gen027.htm#028)<span
+27:28](../../../bib/kjv/gen027.htm#028.md)<span
 id="iv.ii.xi-p45.2"></span>); A fugitive from his parents and his native
 soil, in addition to the hardships of exile, the treatment he receives
 from his uncle Laban is in no respect milder and more humane (<span
 id="iv.ii.xi-p45.3"></span>[Gen.
-29](../../../bib/kjv/gen029.htm#000)<span id="iv.ii.xi-p45.3"></span>).
+29](../../../bib/kjv/gen029.htm#000)<span id="iv.ii.xi-p45.3"></span>.md).
 As if it had been little to spend seven years of hard and rigorous
 servitude, he is cheated in the matter of a wife. For the sake of
 another wife, he must undergo a new servitude, during which, as he
 himself complains, the heat of the sun scorches him by day, while in
 frost and cold he spends the sleepless night (<span
 id="iv.ii.xi-p45.4"></span>[Gen.
-31:40](../../../bib/kjv/gen031.htm#040),
-[41](../../../bib/kjv/gen031.htm#041)<span id="iv.ii.xi-p45.4"></span>).
+31:40](../../../bib/kjv/gen031.htm#040.md),
+[41](../../../bib/kjv/gen031.htm#041)<span id="iv.ii.xi-p45.4"></span>.md).
 For twenty years he spends this bitter life, and daily suffers new
 injuries from his father-in-law. Nor is he quiet at home, which he sees
 disturbed and almost broken up by the hatreds, quarrels, and jealousies
@@ -585,11 +585,11 @@ obliged to take his departure in a manner resembling an ignominious
 flight. Even then he is unable to escape the injustice of his
 father-in-law, but in the midst of his journey is assailed by him with
 contumely and reproach (<span id="iv.ii.xi-p45.5"></span>[Gen.
-31:20](../../../bib/kjv/gen031.htm#020)<span
-id="iv.ii.xi-p45.5"></span>.23  <span id="fr_227"></span>[228](#fn_227)
+31:20](../../../bib/kjv/gen031.htm#020.md)<span
+id="iv.ii.xi-p45.5"></span>.23  <span id="fr_227"></span>[228](#fn_227.md)
 ) By and bye a much greater difficulty befalls him (<span
-id="iv.ii.xi-p46.1"></span>[Gen. 32:0](../../../bib/kjv/gen032.htm#000),
-[Gen. 33:0](../../../bib/kjv/gen033.htm#000)<span
+id="iv.ii.xi-p46.1"></span>[Gen. 32:0](../../../bib/kjv/gen032.htm#000.md),
+[Gen. 33:0](../../../bib/kjv/gen033.htm#000.md)<span
 id="iv.ii.xi-p46.1"></span>). For as he approaches his brother, he has
 as many forms of death in prospect as a cruel foe could invent. Hence,
 while waiting for his arrival, he is distracted and excruciated by
@@ -600,7 +600,7 @@ bereaved of Rachel his only beloved wife. Afterwards he hears that the
 son whom she had borne him, and whom he loved more than all his other
 children, is devoured by a wild beast (<span
 id="iv.ii.xi-p46.2"></span>[Gen.
-37:33](../../../bib/kjv/gen037.htm#033)<span
+37:33](../../../bib/kjv/gen037.htm#033.md)<span
 id="iv.ii.xi-p46.2"></span>). How deep the sorrow caused by his death he
 himself evinces, when, after long tears, he obstinately refuses to be
 comforted, declaring that he will go down to the grave to his son
@@ -609,30 +609,30 @@ have received from the carrying off and dishonour of his daughter, and
 the cruel revenge of his sons, which not only brought him into bad odour
 with all the inhabitants of the country, but exposed him to the greatest
 danger of extermination? (<span id="iv.ii.xi-p46.3"></span>[Gen.
-34](../../../bib/kjv/gen034.htm#000)<span id="iv.ii.xi-p46.3"></span>)
+34](../../../bib/kjv/gen034.htm#000)<span id="iv.ii.xi-p46.3"></span>.md)
 Then follows the horrid wickedness of Reuben his first-born, wickedness
 than which none could be committed more grievous (<span
 id="iv.ii.xi-p46.4"></span>[Gen.
-36:22](../../../bib/kjv/gen036.htm#022)<span
+36:22](../../../bib/kjv/gen036.htm#022.md)<span
 id="iv.ii.xi-p46.4"></span>). The dishonour of a wife being one of the
 greatest of calamities, what must be said when the atrocity is
 perpetrated by a son? Some time after, the family is again polluted with
 incest (<span id="iv.ii.xi-p46.5"></span>[Gen.
-38:18](../../../bib/kjv/gen038.htm#018)<span
+38:18](../../../bib/kjv/gen038.htm#018.md)<span
 id="iv.ii.xi-p46.5"></span>). All these disgraces might have crushed a
 mind otherwise the most firm and unbroken by misfortune. Towards the end
 of his life, when he seeks relief for himself and his family from
 famine, he is struck by the announcement of a new misfortune, that one
 of his sons is detained in prison, and that to recover him he must
 entrust to others his dearly beloved Benjamin (<span
-id="iv.ii.xi-p46.6"></span>[Gen. 42:0](../../../bib/kjv/gen042.htm#000),
-[Gen. 43:0](../../../bib/kjv/gen043.htm#000)<span
+id="iv.ii.xi-p46.6"></span>[Gen. 42:0](../../../bib/kjv/gen042.htm#000.md),
+[Gen. 43:0](../../../bib/kjv/gen043.htm#000.md)<span
 id="iv.ii.xi-p46.6"></span>). Who can think that in such a series of
 misfortunes, one moment was given him in which he could breathe secure?
 Accordingly, his own best witness, he declares to Pharaoh, “Few and evil
 have the days of the years of my life been,” (<span
 id="iv.ii.xi-p46.7"></span>[Gen.
-47:9](../../../bib/kjv/gen047.htm#009)<span
+47:9](../../../bib/kjv/gen047.htm#009.md)<span
 id="iv.ii.xi-p46.7"></span>). In declaring that he had spent his life in
 constant wretchedness, he denies that he had experienced the prosperity
 which had been promised him by the Lord. Jacob, therefore, either formed
@@ -656,16 +656,16 @@ whence they came out, they might have had opportunity to have returned.
 But now they desire a better country, that is, an heavenly: wherefore
 God is not ashamed to be called their God: for he has prepared for them
 a city,” (<span id="iv.ii.xi-p47.1"></span>[Heb.
-11:9](../../../bib/kjv/heb011.htm#009),
-[10](../../../bib/kjv/heb011.htm#010),
-[13](../../../bib/kjv/heb011.htm#013)<span
+11:9](../../../bib/kjv/heb011.htm#009.md),
+[10](../../../bib/kjv/heb011.htm#010.md),
+[13](../../../bib/kjv/heb011.htm#013.md)<span
 id="iv.ii.xi-p47.1"></span>–16). They had been duller than blocks in so
 pertinaciously pursuing promises, no hope of which appeared upon the
 earth, if they had not expected their completion elsewhere. The thing
 which the Apostle specially urges, and not without reason, is, that they
 called this world a pilgrimage, as Moses also relates (<span
 id="iv.ii.xi-p47.2"></span>[Gen.
-47:9](../../../bib/kjv/gen047.htm#009)<span
+47:9](../../../bib/kjv/gen047.htm#009.md)<span
 id="iv.ii.xi-p47.2"></span>). If they were pilgrims and strangers in the
 land of Canaan, where is the promise of the Lord which appointed them
 heirs of it? It is clear, therefore, that the promise of possession
@@ -677,8 +677,8 @@ being buried there, that he took Joseph bound by oath to see it done;
 and why Joseph wished that his bones should some ages later, long after
 they had mouldered into dust, be carried thither (<span
 id="iv.ii.xi-p47.3"></span>[Gen.
-47:29](../../../bib/kjv/gen047.htm#029),
-[30](../../../bib/kjv/gen047.htm#030)<span id="iv.ii.xi-p47.3"></span>;
+47:29](../../../bib/kjv/gen047.htm#029.md),
+[30](../../../bib/kjv/gen047.htm#030.md)<span id="iv.ii.xi-p47.3"></span>;
 50:25).
 
 <span id="iv.ii.xi-p48"></span>14. In short, it is manifest, that in the
@@ -689,7 +689,7 @@ destitution, and no good at all, unless he looked to some higher
 blessing? And that this was his feeling, he declared in one of the last
 sentences he uttered, “I have waited for thy salvation, O God,” (<span
 id="iv.ii.xi-p48.1"></span>[Gen.
-49:18](../../../bib/kjv/gen049.htm#018)<span
+49:18](../../../bib/kjv/gen049.htm#018.md)<span
 id="iv.ii.xi-p48.1"></span>). What salvation could he have waited for,
 when he felt himself breathing his last, if he did not see in death the
 beginning of a new life? And why talk of saints and the children of God,
@@ -697,11 +697,11 @@ when even one, who otherwise strove to resist the truth, was not devoid
 of some similar impression? For what did Balaam mean when he said, “Let
 me die the death of the righteous, and let my last end be like his,”
 (<span id="iv.ii.xi-p48.2"></span>[Num.
-23:10](../../../bib/kjv/num023.htm#010)<span
+23:10](../../../bib/kjv/num023.htm#010.md)<span
 id="iv.ii.xi-p48.2"></span>), unless he felt convinced of what David
 afterward declares, “Precious in the sight of the Lord is the death of
 his saints?” (<span id="iv.ii.xi-p48.3"></span>[Ps.
-116:15](../../../bib/kjv/psa116.htm#015)<span
+116:15](../../../bib/kjv/psa116.htm#015.md)<span
 id="iv.ii.xi-p48.3"></span>; 34:12). If death were the goal and ultimate
 limit, no distinction could be observed between the righteous and the
 wicked. The true distinction is the different lot which awaits them
@@ -722,10 +722,10 @@ words, “I am a stranger with thee, and a sojourner, as all my fathers
 were. Verily every man at his best estate is altogether vanity. Surely
 every man walketh in a vain show. And now, Lord, what wait I for? my
 hope is in thee,” (<span id="iv.ii.xi-p49.1"></span>[Ps.
-39:12](../../../bib/kjv/psa039.htm#012),
-[5](../../../bib/kjv/psa039.htm#005),
-[6](../../../bib/kjv/psa039.htm#006),
-[7](../../../bib/kjv/psa039.htm#007)<span id="iv.ii.xi-p49.1"></span>).
+39:12](../../../bib/kjv/psa039.htm#012.md),
+[5](../../../bib/kjv/psa039.htm#005.md),
+[6](../../../bib/kjv/psa039.htm#006.md),
+[7](../../../bib/kjv/psa039.htm#007)<span id="iv.ii.xi-p49.1"></span>.md).
 He who confesses that there is nothing solid or stable on the earth, and
 yet firmly retains his hope in God, undoubtedly contemplates a happiness
 reserved for him elsewhere. To this contemplation he is wont to invite
@@ -734,7 +734,7 @@ another passages after speaking of human life as a fleeting and
 evanescent show, he adds, “The mercy of the Lord is from everlasting to
 everlasting upon them that fear him,” (<span
 id="iv.ii.xi-p49.2"></span>[Ps.
-103:17](../../../bib/kjv/psa103.htm#017)<span
+103:17](../../../bib/kjv/psa103.htm#017.md)<span
 id="iv.ii.xi-p49.2"></span>). To this there is a corresponding passage
 in another psalm, “Of old thou hast laid the foundation of the earth;
 and the heavens are the work of thy hands. They shall perish, but thou
@@ -743,7 +743,7 @@ vesture shalt thou change them, and they shall be changed; but thou art
 the same, and thy years shall have no end. The children of thy servants
 shall continue, and their seed shall be established before thee,” (<span
 id="iv.ii.xi-p49.3"></span>[Ps.
-102:25-28](../../../bib/kjv/psa102.htm#025)<span
+102:25-28](../../../bib/kjv/psa102.htm#025.md)<span
 id="iv.ii.xi-p49.3"></span>). If, notwithstanding of the destruction of
 the heavens and the earth, the godly cease not to be established before
 God, it follows, that their salvation is connected with his eternity.
@@ -753,7 +753,7 @@ smoke, and the earth shall wax old like a garment, and they that dwell
 therein shall die in like manner; but my salvation shall be for ever,
 and my righteousness shall not be abolished,” (<span
 id="iv.ii.xi-p49.4"></span>[Isa.
-51:6](../../../bib/kjv/isa051.htm#006)<span
+51:6](../../../bib/kjv/isa051.htm#006.md)<span
 id="iv.ii.xi-p49.4"></span>). Perpetuity is here attributed to
 righteousness and salvation, not as they reside in God, but as they are
 experienced by men.
@@ -769,7 +769,7 @@ honour—the desire of the wicked shall perish.” “Surely the righteous
 shall give thanks unto thy name; the upright shall dwell in thy
 presence.” “The righteous shall be in everlasting remembrance.” “The
 Lord redeemeth the soul of his servants.”23  <span
-id="fr_228"></span>[229](#fn_228) But the Lord often leaves his
+id="fr_228"></span>[229](#fn_228.md) But the Lord often leaves his
 servants, not only to be annoyed by the violence of the wicked, but to
 be lacerated and destroyed; allows the good to languish in obscurity and
 squalid poverty, while the ungodly shine forth, as it were, among the
@@ -785,10 +785,10 @@ foolish, when I saw the prosperity of the wicked.” At length, after a
 statement of the case, he concludes, “When I thought to know this, it
 was too painful for me: until I went into the sanctuary of God; then
 understood I their end,” (<span id="iv.ii.xi-p51.2"></span>[Ps.
-73:2](../../../bib/kjv/psa073.htm#002),
-[3](../../../bib/kjv/psa073.htm#003),
-[16](../../../bib/kjv/psa073.htm#016),
-[17](../../../bib/kjv/psa073.htm#017)<span id="iv.ii.xi-p51.2"></span>).
+73:2](../../../bib/kjv/psa073.htm#002.md),
+[3](../../../bib/kjv/psa073.htm#003.md),
+[16](../../../bib/kjv/psa073.htm#016.md),
+[17](../../../bib/kjv/psa073.htm#017)<span id="iv.ii.xi-p51.2"></span>.md).
 
 <span id="iv.ii.xi-p52"></span>17. Therefore, even from this confession
 of David, let us learn that the holy fathers under the Old Testament
@@ -803,16 +803,16 @@ world, a time would at length arrive when the divine promises would be
 fulfilled. This is attested by such expressions as these: “As for me, I
 will behold thy face in righteousness: I shall be satisfied, when I
 awake, with thy likeness,” (<span id="iv.ii.xi-p52.1"></span>[Psalm
-17:15](../../../bib/kjv/psa017.htm#015)<span
+17:15](../../../bib/kjv/psa017.htm#015.md)<span
 id="iv.ii.xi-p52.1"></span>). “I am like a green olive tree in the house
 of God,” (<span id="iv.ii.xi-p52.2"></span>[Psalm
-52:8](../../../bib/kjv/psa052.htm#008)<span
+52:8](../../../bib/kjv/psa052.htm#008.md)<span
 id="iv.ii.xi-p52.2"></span>). Again, “The righteous shall flourish like
 the palm tree: he shall grow like a cedar in Lebanon. Those that be
 planted in the house of the Lord shall flourish in the courts of our
 God. They shall still bring forth fruit in old age; they shall be fat
 and flourishing,” (<span id="iv.ii.xi-p52.3"></span>[Psalm
-92:12-14](../../../bib/kjv/psa092.htm#012)<span
+92:12-14](../../../bib/kjv/psa092.htm#012.md)<span
 id="iv.ii.xi-p52.3"></span>). He had exclaimed a little before “O Lord,
 how great are thy works! and thy thoughts are very deep.” “When the
 wicked spring as the grass, and when all the workers of iniquity do
@@ -825,13 +825,13 @@ into these exclamations: “He shall never suffer the righteous to be
 moved. But thou, O God, shalt bring them down into the pit of
 destruction: bloody and deceitful men shall not live out half their
 days,” (<span id="iv.ii.xi-p52.4"></span>[Ps.
-55:22](../../../bib/kjv/psa055.htm#022),
-[23](../../../bib/kjv/psa055.htm#023)<span id="iv.ii.xi-p52.4"></span>).
+55:22](../../../bib/kjv/psa055.htm#022.md),
+[23](../../../bib/kjv/psa055.htm#023)<span id="iv.ii.xi-p52.4"></span>.md).
 Where in this world is there a pit of eternal destruction to swallow up
 the wicked, of whose happiness it is elsewhere said, “They spend their
 days in wealth, and in a moment go down to the grave?” (<span
 id="iv.ii.xi-p52.5"></span>[Job
-21:13](../../../bib/kjv/job021.htm#013)<span
+21:13](../../../bib/kjv/job021.htm#013.md)<span
 id="iv.ii.xi-p52.5"></span>). Where, on the other hand, is the great
 stability of the saints, who, as David complains, are not only
 disturbed, but everywhere utterly bruised and oppressed? It is here. He
@@ -850,9 +850,9 @@ their way is their folly: yet their posterity approve their sayings.
 Like sheep they are laid in the grave; death shall feed on them; and the
 upright shall have dominion over them in the morning; and their beauty
 shall consume in the grave from their dwelling,” (<span
-id="iv.ii.xi-p52.6"></span>[Ps. 49:6](../../../bib/kjv/psa049.htm#006),
-[7](../../../bib/kjv/psa049.htm#007),
-[10](../../../bib/kjv/psa049.htm#010)<span
+id="iv.ii.xi-p52.6"></span>[Ps. 49:6](../../../bib/kjv/psa049.htm#006.md),
+[7](../../../bib/kjv/psa049.htm#007.md),
+[10](../../../bib/kjv/psa049.htm#010.md)<span
 id="iv.ii.xi-p52.6"></span>–14). By this derision of the foolish for
 resting satisfied with the slippery and fickle pleasures, of the world,
 he shows that the wise must seek for a very different felicity. But he
@@ -866,7 +866,7 @@ an end?
 believers employed as a solace for their sufferings, and a remedy for
 their patience: “His anger endureth but a moment: in his favour is
 life,” (<span id="iv.ii.xi-p53.1"></span>[Psalm
-30:5](../../../bib/kjv/psa030.htm#005)<span
+30:5](../../../bib/kjv/psa030.htm#005.md)<span
 id="iv.ii.xi-p53.1"></span>). How did their afflictions, which continued
 almost throughout the whole course of life, terminate in a moment? Where
 did they see the long duration of the divine benignity, of which they
@@ -879,26 +879,26 @@ happiness for a day, there was reserved an eternal and never-ending
 destruction. Hence those expressions: “The memory of the just is
 blessed, but the name of the wicked shall rot,” (<span
 id="iv.ii.xi-p53.2"></span>[Prov.
-10:7](../../../bib/kjv/pro010.htm#007)<span
+10:7](../../../bib/kjv/pro010.htm#007.md)<span
 id="iv.ii.xi-p53.2"></span>). “Precious in the sight of the Lord is the
 death of his saints,” (<span id="iv.ii.xi-p53.3"></span>[Psalm
-116:15](../../../bib/kjv/psa116.htm#015)<span
+116:15](../../../bib/kjv/psa116.htm#015.md)<span
 id="iv.ii.xi-p53.3"></span>). Again in Samuel: “The Lord will keep the
 feet of his saints, and the wicked shall be silent in darkness,” (<span
 id="iv.ii.xi-p53.4"></span>[1 Sam.
-2:9](../../../bib/kjv/sa1002.htm#009)<span id="iv.ii.xi-p53.4"></span>);
+2:9](../../../bib/kjv/sa1002.htm#009)<span id="iv.ii.xi-p53.4"></span>.md);
 showing they knew well, that however much the righteous might be tossed
 about, their latter end was life and peace; that how pleasant soever the
 delights of the wicked, they gradually lead down to the chambers of
 death. They accordingly designated the death of such persons as the
 death “of the uncircumcised,” that is, persons cut off from the hope of
 resurrection (<span id="iv.ii.xi-p53.5"></span>[Ezek.
-28:10](../../../bib/kjv/eze028.htm#010)<span
+28:10](../../../bib/kjv/eze028.htm#010.md)<span
 id="iv.ii.xi-p53.5"></span>; 31:18). Hence David could not imagine a
 greater curse than this: “Let them be blotted out of the book of the
 living, and not be written with the righteous,” (<span
 id="iv.ii.xi-p53.6"></span>[Psalm
-69:28](../../../bib/kjv/psa069.htm#028)<span
+69:28](../../../bib/kjv/psa069.htm#028.md)<span
 id="iv.ii.xi-p53.6"></span>).
 
 <span id="iv.ii.xi-p54"></span>19. The most remarkable passage of all is
@@ -907,7 +907,7 @@ the latter day upon the earth: and though after my skin worms destroy
 this body, yet in my flesh shall I see God: whom I shall see for myself,
 and mine eyes shall behold, and not another,” (<span
 id="iv.ii.xi-p54.1"></span>[Job
-19:25-27](../../../bib/kjv/job019.htm#025)<span
+19:25-27](../../../bib/kjv/job019.htm#025.md)<span
 id="iv.ii.xi-p54.1"></span>). Those who would make a display of their
 acuteness, pretend that these words are to be understood not of the last
 resurrection, but of the day when Job expected that God would deal more
@@ -920,7 +920,7 @@ must have raised his eyes to a future immortality. To those who think
 only of the present life, death is the extremity of despair; but it
 could not destroy the hope of Job. “Though he slay me,” said he, “yet
 will I trust in him,” (<span id="iv.ii.xi-p54.2"></span>[Job
-13:15](../../../bib/kjv/job013.htm#015)<span
+13:15](../../../bib/kjv/job013.htm#015.md)<span
 id="iv.ii.xi-p54.2"></span>). Let no trifler here burst in with the
 objection that these are the sayings of a few, and do not by any means
 prove that there was such a doctrine among the Jews. To this my instant
@@ -944,14 +944,14 @@ the nearer the period of its full exhibition approached, the greater the
 additions which were daily made to the light of revelation. Accordingly,
 at the beginning, when the first promise of salvation was given to Adam
 (<span id="iv.ii.xi-p55.1"></span>[Gen.
-3:15](../../../bib/kjv/gen003.htm#015)<span
+3:15](../../../bib/kjv/gen003.htm#015.md)<span
 id="iv.ii.xi-p55.1"></span>), only a few slender sparks beamed forth:
 additions being afterwards made, a greater degree of light began to be
 displayed, and continued gradually to increase and shine with greater
 brightness, until at length all the clouds being dispersed, Christ the
 Sun of righteousness arose, and with full refulgence illumined all the
 earth (<span id="iv.ii.xi-p55.2"></span>[Mal.
-4](../../../bib/kjv/mal004.htm#000)<span id="iv.ii.xi-p55.2"></span>).
+4](../../../bib/kjv/mal004.htm#000)<span id="iv.ii.xi-p55.2"></span>.md).
 In appealing to the Prophets, therefore, we can have no fear of any
 deficiency of proof; but as I see an immense mass of materials, which
 would occupy us much longer than compatible with the nature of our
@@ -975,7 +975,7 @@ Israelites were carried away to Babylon, their dispersion seemed to be
 the next thing to death, and they could scarcely be dissuaded from
 thinking that Ezekiel’s prophecy of their restoration (<span
 id="iv.ii.xi-p56.1"></span>[Ezek.
-37:4](../../../bib/kjv/eze037.htm#004)<span id="iv.ii.xi-p56.1"></span>)
+37:4](../../../bib/kjv/eze037.htm#004)<span id="iv.ii.xi-p56.1"></span>.md)
 was a mere fable, because it seemed to them the same thing as if he had
 prophesied that putrid caresses would be raised to life. The Lord, in
 order to show that, even in that case, there was nothing to prevent him
@@ -995,7 +995,7 @@ be overpast. For, behold, the Lord cometh out of his place to punish the
 inhabitants of the earth for their iniquity: the earth also shall
 disclose her blood, and shall no more cover her slain,” (<span
 id="iv.ii.xi-p56.2"></span>[Isa.
-26:19-21](../../../bib/kjv/isa026.htm#019)<span
+26:19-21](../../../bib/kjv/isa026.htm#019.md)<span
 id="iv.ii.xi-p56.2"></span>).
 
 <span id="iv.ii.xi-p57"></span>22. It were absurd however to interpret
@@ -1011,7 +1011,7 @@ Lord. And they shall go forth, and look upon the caresses of the men
 that have transgressed against me: for their worm shall not die, neither
 shall their fire be quenched; and they shall be an abhorring unto all
 flesh,” (<span id="iv.ii.xi-p57.1"></span>[Isa.
-66:22-24](../../../bib/kjv/isa066.htm#022)<span
+66:22-24](../../../bib/kjv/isa066.htm#022.md)<span
 id="iv.ii.xi-p57.1"></span>). The other passage is in Daniel. “At that
 time shall Michael stand up, the great prince which standeth for the
 children of thy people: and there shall be a time of trouble, such as
@@ -1020,8 +1020,8 @@ that time thy people shall be delivered, every one shall be found
 written in the book. And many of them that sleep in the dust of the
 earth shall awake, some to everlasting life, and some to shame and
 everlasting contempt,” (<span id="iv.ii.xi-p57.2"></span>[Dan.
-12:1](../../../bib/kjv/dan012.htm#001),
-[2](../../../bib/kjv/dan012.htm#002)<span id="iv.ii.xi-p57.2"></span>).
+12:1](../../../bib/kjv/dan012.htm#001.md),
+[2](../../../bib/kjv/dan012.htm#002)<span id="iv.ii.xi-p57.2"></span>.md).
 
 <span id="iv.ii.xi-p58"></span>23. In proving the two remaining
 points—viz. that the Patriarchs had Christ as the pledge of their
@@ -1040,16 +1040,16 @@ animal nature deems valuable. For, even now, the only kingdom of heaven
 which our Lord Jesus Christ promises to his followers, is one in which
 they may sit down with Abraham, and Isaac and Jacob (<span
 id="iv.ii.xi-p58.1"></span>[Mt.
-8:11](../../../bib/kjv/mat008.htm#011)<span
+8:11](../../../bib/kjv/mat008.htm#011.md)<span
 id="iv.ii.xi-p58.1"></span>); and Peter declared of the Jews of his day,
 that they were heirs of gospel grace because they were the sons of the
 prophets, and comprehended in the covenant which the Lord of old made
 with his people (<span id="iv.ii.xi-p58.2"></span>[Acts
-3:25](../../../bib/kjv/act003.htm#025)<span
+3:25](../../../bib/kjv/act003.htm#025.md)<span
 id="iv.ii.xi-p58.2"></span>). And that this might not be attested by
 words merely, our Lord also approved it by act (<span
 id="iv.ii.xi-p58.3"></span>[Mt.
-27:52](../../../bib/kjv/mat027.htm#052)<span
+27:52](../../../bib/kjv/mat027.htm#052.md)<span
 id="iv.ii.xi-p58.3"></span>). At the moment when he rose again, he
 deigned to make many of the saints partakers of his resurrection, and
 allowed them to be seen in the city; thus giving a sure earnest, that
@@ -1058,16 +1058,16 @@ salvation belonged to believers under the Old Testament, just as much as
 to us. Indeed, as Peter testifies, they were endued with the same spirit
 of faith by which we are regenerated to life (<span
 id="iv.ii.xi-p58.4"></span>[Acts
-15:8](../../../bib/kjv/act015.htm#008)<span
+15:8](../../../bib/kjv/act015.htm#008.md)<span
 id="iv.ii.xi-p58.4"></span>). When we hear that that spirit, which is,
 as it were, a kind of spark of immortality in us (whence it is called
 the “earnest” of our inheritance, <span id="iv.ii.xi-p58.5"></span>[Eph.
-1:14](../../../bib/kjv/eph001.htm#014)<span
+1:14](../../../bib/kjv/eph001.htm#014.md)<span
 id="iv.ii.xi-p58.5"></span>), dwelt in like manner in them, how can we
 presume to deny them the inheritance? Hence, it is the more wonderful
 how the Sadducees of old fell into such a degree of sottishness as to
 deny both the resurrection and the substantive existence23  <span
-id="fr_229"></span>[230](#fn_229) of spirits, both of which where
+id="fr_229"></span>[230](#fn_229.md) of spirits, both of which where
 attested to them by so many striking passages of Scripture. Nor would
 the stupidity of the whole nation in the present day, in expecting an
 earthly reign of the Messiah, be less wonderful, had not the Scriptures
@@ -1077,7 +1077,7 @@ voluntarily invite darkness, by rejecting the offered light of heaven.
 They read, and are constantly turning over the pages of Moses, but a
 veil prevents them from seeing the light which beams forth in his
 countenance (<span id="iv.ii.xi-p59.1"></span>[2 Cor.
-3:14](../../../bib/kjv/co2003.htm#014)<span
+3:14](../../../bib/kjv/co2003.htm#014.md)<span
 id="iv.ii.xi-p59.1"></span>); and thus to them he will remain covered
 and veiled until they are converted to Christ, between whom and Moses
 they now study, as much as in them lies, to maintain a separation.
@@ -1086,14 +1086,14 @@ they now study, as much as in them lies, to maintain a separation.
 
 ### Footnotes
 
-<span id="fn_220"></span>[221](inst044.htm#fr_220) <span
+<span id="fn_220"></span>[221](inst044.htm#fr_220.md) <span
 id="iv.ii.xi-p1.1"></span>
 
 <span id="iv.ii.xi-p2"></span>27 227 As to the agreement of both
 dispensations, see August. Lib. de Moribus Eccles. Lat., especially cap.
 28.
 
-<span id="fn_221"></span>[222](inst044.htm#fr_221) <span
+<span id="fn_221"></span>[222](inst044.htm#fr_221.md) <span
 id="iv.ii.xi-p28.1"></span>
 
 <span id="iv.ii.xi-p29"></span>28 228 The French is, “Veu qu’ils pensent
@@ -1102,46 +1102,46 @@ auge, sans seperance aucune de l’immortalité celeste;”—seeing they think
 that our Lord only wished to fatten them on the earth as in a sty,
 without any hope of heavenly immortality.
 
-<span id="fn_222"></span>[223](inst044.htm#fr_222) <span
+<span id="fn_222"></span>[223](inst044.htm#fr_222.md) <span
 id="iv.ii.xi-p31.6"></span>
 
 <span id="iv.ii.xi-p32"></span>29 229 <span
 id="iv.ii.xi-p32.1"></span>[Acts
-13:26](../../../bib/kjv/act013.htm#026)<span
+13:26](../../../bib/kjv/act013.htm#026.md)<span
 id="iv.ii.xi-p32.1"></span>; <span id="iv.ii.xi-p32.2"></span>[Rom.
-1:16](../../../bib/kjv/rom001.htm#016)<span id="iv.ii.xi-p32.2"></span>;
+1:16](../../../bib/kjv/rom001.htm#016.md)<span id="iv.ii.xi-p32.2"></span>;
 <span id="iv.ii.xi-p32.3"></span>[1 Cor.
-1:18](../../../bib/kjv/co1001.htm#018)<span id="iv.ii.xi-p32.3"></span>;
+1:18](../../../bib/kjv/co1001.htm#018.md)<span id="iv.ii.xi-p32.3"></span>;
 <span id="iv.ii.xi-p32.4"></span>[Matt.
-3:2](../../../bib/kjv/mat003.htm#002),
-[4](../../../bib/kjv/mat003.htm#004),
-[17](../../../bib/kjv/mat003.htm#017)<span id="iv.ii.xi-p32.4"></span>,
+3:2](../../../bib/kjv/mat003.htm#002.md),
+[4](../../../bib/kjv/mat003.htm#004.md),
+[17](../../../bib/kjv/mat003.htm#017.md)<span id="iv.ii.xi-p32.4"></span>,
 &c., especially 13.
 
-<span id="fn_223"></span>[224](inst044.htm#fr_223) <span
+<span id="fn_223"></span>[224](inst044.htm#fr_223.md) <span
 id="iv.ii.xi-p32.5"></span>
 
 <span id="iv.ii.xi-p33"></span>30 230 “Novo populo.” French, “au peuple
 du Nouveau Testament”—the people of the New Dispensation;
 
-<span id="fn_224"></span>[225](inst044.htm#fr_224) <span
+<span id="fn_224"></span>[225](inst044.htm#fr_224.md) <span
 id="iv.ii.xi-p34.3"></span>
 
 <span id="iv.ii.xi-p35"></span>31 231 “Beata Virgo.” French, “la Vierge
 Marie;”—the Virgin Mary.
 
-<span id="fn_225"></span>[226](inst044.htm#fr_225) <span
+<span id="fn_225"></span>[226](inst044.htm#fr_225.md) <span
 id="iv.ii.xi-p35.2"></span>
 
 <span id="iv.ii.xi-p36"></span>32 232 “Ejus finis.” French, “la fin du
 Vieil Testament;”—the end of the Old Testament.
 
-<span id="fn_226"></span>[227](inst044.htm#fr_226) <span
+<span id="fn_226"></span>[227](inst044.htm#fr_226.md) <span
 id="iv.ii.xi-p43.1"></span>
 
 <span id="iv.ii.xi-p44"></span>33 233 Calv. in Genes. cap. 12:11—15.
 
-<span id="fn_227"></span>[228](inst044.htm#fr_227) <span
+<span id="fn_227"></span>[228](inst044.htm#fr_227.md) <span
 id="iv.ii.xi-p45.6"></span>
 
 <span id="iv.ii.xi-p46"></span>34 234 The French is, “Et encore ne peut
@@ -1155,15 +1155,15 @@ his journey; and because God did not allow worse to happen, he is
 assailed with much contumely and reproach by one of whom he had good
 cause to complain.
 
-<span id="fn_228"></span>[229](inst044.htm#fr_228) <span
+<span id="fn_228"></span>[229](inst044.htm#fr_228.md) <span
 id="iv.ii.xi-p50.1"></span>
 
 <span id="iv.ii.xi-p51"></span>35 235 <span
-id="iv.ii.xi-p51.1"></span>[Ps. 97:10](../../../bib/kjv/psa097.htm#010),
-[11](../../../bib/kjv/psa097.htm#011)<span id="iv.ii.xi-p51.1"></span>;
+id="iv.ii.xi-p51.1"></span>[Ps. 97:10](../../../bib/kjv/psa097.htm#010.md),
+[11](../../../bib/kjv/psa097.htm#011.md)<span id="iv.ii.xi-p51.1"></span>;
 112:9, 10; 140:13; 112:6; 34:22.
 
-<span id="fn_229"></span>[230](inst044.htm#fr_229) <span
+<span id="fn_229"></span>[230](inst044.htm#fr_229.md) <span
 id="iv.ii.xi-p58.6"></span>
 
 <span id="iv.ii.xi-p59"></span>36 236 “Animarum substantiam.” French,
@@ -1172,4 +1172,4 @@ id="iv.ii.xi-p58.6"></span>
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 11. - THE DIFFERENCE BETWEEN THE TWO
-TESTAMENTS.](inst045)
+TESTAMENTS.](inst045.md)

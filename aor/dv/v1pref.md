@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Age of Reason](../index) 
-[Index](index)  [Previous](v1title)  [Next](v1cont) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Age of Reason](../index.md) 
+[Index](index)  [Previous](v1title)  [Next](v1cont.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486225720/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486225720/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -288,4 +288,4 @@ LONDON, April 1883.
 
 ------------------------------------------------------------------------
 
-[Next: Contents of Volume I](v1cont)
+[Next: Contents of Volume I](v1cont.md)

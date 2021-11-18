@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig04)  [Next](vig06) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig04)  [Next](vig06.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ anything which was proposed. "Well," said Hreidar, "what are your plans,
 then?" "I really do not know." "Will you not visit the king, or some of
 the other great men? You would, as a matter of course, be entitled to
 every assistance from us. (At this time Hacon, the ward of Athelstan,
-ruled in Norway.)  <span id="fr_2"></span>[1](#fn_2) Such chiefs are the
+ruled in Norway.)  <span id="fr_2"></span>[1](#fn_2.md) Such chiefs are the
 persons whom you ought to serve." Eyiolf answered, "I am not well fitted
 for a king’s service; and though things might turn out as I should
 desire, yet I decline the proposal." Hreidar said, "What will you do,
@@ -50,7 +50,7 @@ Hreidar’s side.
 
 ### Footnotes
 
-<span id="fn_2"></span>[1](vig05.htm#fr_2) The date asigned for this
+<span id="fn_2"></span>[1](vig05.htm#fr_2.md) The date asigned for this
 voyage of Eyiolf is 918, at which time Hacon, the ward of Athelstan, had
 not succeeded to the throne, but Harold Hárfagr was still king. See
 Laing’s "Heimskringla," vol. i. p. 314. It is very possible that these
@@ -58,4 +58,4 @@ words may have been inserted by some transcriber.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](vig06)
+[Next: Chapter III](vig06.md)

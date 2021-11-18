@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt20)  [Next](dmt22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt20)  [Next](dmt22.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,7 +250,7 @@ finer than a hair. The feet of the unbelievers slip upon it, by the
 decree of God, and fall with them into the Fire. But the feet of
 believers stand firm upon it, by the grace of God, and so they pass into
 the Abiding Abode. And that he should believe in the Tank (*hawd*), to
-which the people shall go down, the Tank of [Muhammad](errata.htm#5)
+which the people shall go down, the Tank of [Muhammad](errata.htm#5.md)
 from which the believers shall drink before entering the Garden and
 after passing the Bridge. Whoever drinks of it a single draught will
 never thirst again thereafter. Its breadth is a journey of a month; its
@@ -295,4 +295,4 @@ Muhammad and upon every chosen creature.
 
 ------------------------------------------------------------------------
 
-[Next: V. Articles Of Belief of Najm ad-Din Abu Hafs An-Nasafi](dmt22)
+[Next: V. Articles Of Belief of Najm ad-Din Abu Hafs An-Nasafi](dmt22.md)

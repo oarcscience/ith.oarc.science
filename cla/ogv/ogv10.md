@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv09)  [Next](ogv11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv09)  [Next](ogv11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -411,7 +411,7 @@ poets lack the long syllables to constitute the last foot and to form
 the spondee; and that in the blank verse they are obliged to terminate
 them all in the same style; so that with the measure they create only
 lame verses, and without the rhyme they make them all equally
-languid. <span id="fr_223"></span>[1](#fn_223)
+languid. <span id="fr_223"></span>[1](#fn_223.md)
 
 <span id="page_98">p. 98</span>
 
@@ -433,7 +433,7 @@ French of this *mélange* of sweetness and force which makes it the
 *première langue* of Europe. The English language is lacking in
 precisely what the writers of whom I have spoken desired eliminated from
 the French, without foreseeing the grave disadvantages of their desire:
-it has no feminine finals <span id="fr_224"></span>[1](#fn_224);
+it has no feminine finals <span id="fr_224"></span>[1](#fn_224.md);
 
 <span id="page_99">p. 99</span>
 
@@ -472,7 +472,7 @@ obstacles, Shakespeare stamped upon England a movement of which Europe
 felt the influence. Raised by the sole force of his genius to the
 essence of dramatic poetry, he dared to seek for his subjects in the
 mythology of Odin, and put upon the stage, in *Hamlet* and in *Macbeth*,
-tableaux of the highest character. <span id="fr_225"></span>[1](#fn_225)
+tableaux of the highest character. <span id="fr_225"></span>[1](#fn_225.md)
 
 <span id="page_101">p. 101</span>
 
@@ -499,7 +499,7 @@ unseasonable ascendancy that this
 <span id="page_103">p. 103</span>
 
 proud nation had assumed over public opinion. <span
-id="fr_226"></span>[1](#fn_226) Notwithstanding the efforts of
+id="fr_226"></span>[1](#fn_226.md) Notwithstanding the efforts of
 Corneille, of Racine, and of Molière, the Théâtre Français retained
 always the romanesque tone that it had originally received. All that
 these three men could do was, by lofty sentiments, by purity of forms,
@@ -592,7 +592,7 @@ Greek, whose words, abounding in vowels, were, on the contrary, made
 clear by their elongation. The rhythmic lines of Klopstock are
 materially a third longer than those of Homer, although the German poet
 has aspired to build them on an equal measure. <span
-id="fr_227"></span>[1](#fn_227) Their rhythmic harmony, if it exists
+id="fr_227"></span>[1](#fn_227.md) Their rhythmic harmony, if it exists
 there, is absolutely factitious; it is a pedantic imitation and nothing
 more. In order to make the movement of these lines understood in French,
 and to copy as closely as possible their harmony, it is necessary to
@@ -806,7 +806,7 @@ which I desire above all to call your attention.
 
 ### Footnotes
 
-<span id="fn_223"></span>[97:1](ogv10.htm#fr_223) Nearly all of the
+<span id="fn_223"></span>[97:1](ogv10.htm#fr_223.md) Nearly all of the
 Italian words terminate with one of four vowels, *a*, *e*, *i*, *o*,
 without accent: it is very rare that the vowels are accentuated, as the
 vowel *ù*. When this occurs as in *cità*, *perchè*, *dì*, *farò*, etc.,
@@ -833,7 +833,7 @@ Segni del cielo, il mar profundo, e tutta
 D’animai d’ogni specie orni la terra:*  
 . . . etc.
 
-<span id="fn_224"></span>[98:1](ogv10.htm#fr_224) One must not believe
+<span id="fn_224"></span>[98:1](ogv10.htm#fr_224.md) One must not believe
 that the mute *e* with which many English words terminate represents the
 French feminine final, expressed by the same vowel. This mute *e* is in
 reality mute in English; ordinarily it is only used to give a more open
@@ -859,7 +859,7 @@ or these from Goldsmith:
  Where humble happiness endeared each scene."  
                                     *The Deserted Village*, i., 7.
 
-<span id="fn_225"></span>[100:1](ogv10.htm#fr_225) There remains to us
+<span id="fn_225"></span>[100:1](ogv10.htm#fr_225.md) There remains to us
 of this poetry the very precious fragments contained in the *Edda* and
 in *Voluspa*. The *Edda*, whose name signifies great-grandmother, is a
 collection, fairly ample, of Scandinavian traditions. *Voluspa* is a
@@ -966,7 +966,7 @@ The glittering rocks, and green heads of the mountains smile.
 This example serves to prove that eumolpique lines might easily adapt
 themselves to the dithyramb.
 
-<span id="fn_226"></span>[103:1](ogv10.htm#fr_226) The tragedy of the
+<span id="fn_226"></span>[103:1](ogv10.htm#fr_226.md) The tragedy of the
 *Cid*, given by Pierre Corneille in 1626, upon which were based the
 grandeur and dominant character of the Théâtre Français, as well as the
 renown of the author, is taken from a Spanish ballad very celebrated in
@@ -1017,7 +1017,7 @@ bring forth fruits in their season, corrupted hers and stamped her with
 a stationary movement, which becoming necessarily retrogressive, must
 ruin her, and did ruin her.
 
-<span id="fn_227"></span>[106:1](ogv10.htm#fr_227) In comparing the
+<span id="fn_227"></span>[106:1](ogv10.htm#fr_227.md) In comparing the
 first lines of Homer with those of Klopstock, it is seen that the Greek
 contains 29 letters, 18 of which are vowels; and the German 48 letters,
 31 of which are consonants. It is difficult with such disparity in the
@@ -1025,4 +1025,4 @@ elements to make the harmony the same.
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Verses of Pythagoras](ogv11)
+[Next: The Golden Verses of Pythagoras](ogv11.md)

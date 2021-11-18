@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft24)  [Next](eft26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft24)  [Next](eft26.md) 
 
 ------------------------------------------------------------------------
 
 # The Golden Arm
 
 <span id="img_025"></span> [![](tn/025.jpg)  
-Click to enlarge](img/025.jpg)
+Click to enlarge](img/025.jpg.md)
 
 THERE was once a man who travelled the land all over in search of a
 wife. He saw young and old, rich and poor, pretty and plain, and could
@@ -47,4 +47,4 @@ Golden Arm?'
 
 ------------------------------------------------------------------------
 
-[Next: The History of Tom Thumb](eft26)
+[Next: The History of Tom Thumb](eft26.md)

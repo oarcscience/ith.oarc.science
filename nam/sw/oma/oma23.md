@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma22)  [Next](oma24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma22)  [Next](oma24.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ At Tule Lake the people found many ant hills. When they built their
 houses they destroyed many of the ant homes. The people did not think
 very much of the ants and they stepped on them and killed them. There
 came a time when the people become sick with an unknown disease. <span
-id="fr_167"></span>[68](#fn_167) The sick ones had sores all over their
+id="fr_167"></span>[68](#fn_167.md) The sick ones had sores all over their
 bodies and it seemed as if ants were always running to them as they do
 to their homes. The medicine men did all they could to cure the people
 but they failed. In villages which they left behind \[? passed by\]
@@ -50,16 +50,16 @@ medicine man and gave him an altar; they named him Si·'i chaianyi. He
 was to have power to cure disease brought on by ants. He had to know the
 prayers of the ants and how to move them from one place to another, so
 they would not be destroyed. (There are no Ant chaianyi in Acoma
-now, <span id="fr_168"></span>[69](#fn_168) but other medicine men have
+now, <span id="fr_168"></span>[69](#fn_168.md) but other medicine men have
 their prayers.) The Ant altar is quite small. There are no sticks. There
 are one honani and two eagle feathers (the longest on each wing) and the
 two hands of a horned toad. These were given because the horned toad
 eats ants. The sand painting represents a horned toad or a lizard ([pl.
-10, fig. 2](oma43.htm#img_pl10b), *b*). A patient is seated on top of
+10, fig. 2](oma43.htm#img_pl10b), *b*.md). A patient is seated on top of
 the painting. The chaianyi then brushes off the disease with a grass
-broom. <span id="fr_169"></span>[70](#fn_169) After the patient is
+broom. <span id="fr_169"></span>[70](#fn_169.md) After the patient is
 brushed off, he is painted with red paint. The gravel <span
-id="fr_170"></span>[71](#fn_170) that has been swept off the patient is
+id="fr_170"></span>[71](#fn_170.md) that has been swept off the patient is
 gathered up in a corn husk and buried. Nowadays when a house is being
 built one of the chaianyi is called to remove the ants. He takes some
 and the owner digs out the rest. In the tradition it was not necessary
@@ -92,15 +92,15 @@ Chief and brought the altar and asked, "Is this what you have lost?"
 
 ### Footnotes
 
-<span id="fn_166"></span>[75:67](oma22.htm#fr_166) Informant's note: The
+<span id="fn_166"></span>[75:67](oma22.htm#fr_166.md) Informant's note: The
 name of this ceremony was kaiyapaitsaneetya, "come to club"; but it is
 now called kauwastheetya "attacking" (Cf. White, 1932, pp. 77, 88.)
 
-<span id="fn_167"></span>[75:68](oma23.htm#fr_167) Ants cause sores on
+<span id="fn_167"></span>[75:68](oma23.htm#fr_167.md) Ants cause sores on
 the body and sore throat according to general Keresan belief. (See
 White, 1930, pp. 607-608.)
 
-<span id="fn_168"></span>[76:69](oma23.htm#fr_168) No Ant medicine
+<span id="fn_168"></span>[76:69](oma23.htm#fr_168.md) No Ant medicine
 society has been reported from Acoma, though "there used to be an Ant
 society" there (White, 1932, p. 107). There were Ant societies at Sia
 (Stevenson, 1894, pp. 69, 104) and at Laguna (Parsons, 1920, p. 109,
@@ -109,13 +109,13 @@ he died in 1932. He practiced curing, not only in Santo Domingo, but in
 Santa Ana, Sia, San Felipe, Cochiti, and perhaps in some Tewa pueblos
 (White, 1935, pp. 67-68; 1932 a, p. 40; Parsons, 1923 a, p. 492).
 
-<span id="fn_169"></span>[76:70](oma23.htm#fr_169) See Stevenson, 1894,
+<span id="fn_169"></span>[76:70](oma23.htm#fr_169.md) See Stevenson, 1894,
 p. 100, for the extraction of ants from the body of a sick Sia boy. But
 it was the Giant society that did this, not the Ant.
 
-<span id="fn_170"></span>[76:71](oma23.htm#fr_170) (2) The "ants" which
+<span id="fn_170"></span>[76:71](oma23.htm#fr_170) (2.md) The "ants" which
 Stevenson saw extracted at Sia were "tiny pebbles."
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part XV](oma24)
+[Next: Wanderings, Part XV](oma24.md)

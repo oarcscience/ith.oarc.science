@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft19)  [Next](geft21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft19)  [Next](geft21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -72,7 +72,7 @@ a fire. He arose and went thither. On his way he said to the cock: 'Crow
 not, so that dawn break not till I come back again, or I shall slay
 thee.' When he came near, he met with a vast river like a sea. When he
 had swum over and reached the other side, the youth saw that the fire
-was burning among the *demis*, <span id="fr_31"></span>[1](#fn_30) who
+was burning among the *demis*, <span id="fr_31"></span>[1](#fn_30.md) who
 were sitting round it--so he stopped and bethought himself seriously;
 but, at last, he took a leap, jumped into the middle of them, seized a
 burning brand, and ran away.
@@ -83,7 +83,7 @@ the burning log went out. He was angry at this, but what could he do? He
 went back again, and when he threw himself upon the fire the *demis*
 caught him, and asked what he wanted. He told them. The *demis* said to
 him: 'In yonder castle there dwell three maidens unseen by the
-sun, <span id="fr_32"></span>[2](#fn_31) thou must bring them to us or
+sun, <span id="fr_32"></span>[2](#fn_31.md) thou must bring them to us or
 we will not let thee go.' The youth asked
 
 <span id="page_115">p. 115</span>
@@ -180,7 +180,7 @@ When the *demis* saw it they wept greatly, but their youngest brother
 blew the soul back into the pieces, and raised the youth to life. The
 prince arose, and again made ready to depart; the youngest *demi* said
 to him: 'Here is my three-legged horse, <span
-id="fr_33"></span>[1](#fn_32) take him with thee; if he do not help thee
+id="fr_33"></span>[1](#fn_32.md) take him with thee; if he do not help thee
 there is no help to hope for.' The youth mounted the horse, came again
 to his princess, took her and put her on the horse. When he was riding
 out of the gate it creaked more loudly than before. Kazha-Ndii heard it
@@ -201,23 +201,23 @@ then went home.
 
 ### Footnotes
 
-<span id="fn_30"></span>[114:1](geft20.htm#fr_31) *demi*, *dii*, *ndii*
+<span id="fn_30"></span>[114:1](geft20.htm#fr_31.md) *demi*, *dii*, *ndii*
 in Mingrelian, *devi*, *mdevi* in Georgian (connected with Pers. *div*),
 a representative of the principle of evil, but with certain limitations,
 neither incorporeal nor immortal, but half demon half man, *i.e.* an
 unclean spirit in the form of a giant. He is subject to death, even a
 man can kill, cheat, terrify him; he can marry a woman, etc.
 
-<span id="fn_31"></span>[114:2](geft20.htm#fr_32) This phrase is
+<span id="fn_31"></span>[114:2](geft20.htm#fr_32.md) This phrase is
 continually applied to beautiful girls in Georgian poetry. It has three
 meanings: (1) A girl strictly kept, and not seen out of doors; (2) One
 who is not sunburnt, fair complexioned; (3) A maiden such as the sun has
 never seen the like of for beauty. The last meaning is the most
 frequent.
 
-<span id="fn_32"></span>[117:1](geft20.htm#fr_33) Cf. No. III. 'Geria's
+<span id="fn_32"></span>[117:1](geft20.htm#fr_33.md) Cf. No. III. 'Geria's
 faithful dog and three-legged horse.'
 
 ------------------------------------------------------------------------
 
-[Next: III. The Story of Geria, the Poor Man's Son](geft21)
+[Next: III. The Story of Geria, the Poor Man's Son](geft21.md)

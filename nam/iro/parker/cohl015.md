@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl014)  [Next](cohl016) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl014)  [Next](cohl016.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 "Now spoke the beings and said, 'We now speak of the second word. This
 makes the Creator angry. The word is Got'go<sup>n</sup>?. <span
-id="fr_25"></span>[3](#fn_25)
+id="fr_25"></span>[3](#fn_25.md)
 
 <span id="page_28">p. 28</span>
 
@@ -51,7 +51,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_25"></span>[27:3](cohl015.htm#fr_25) A certain number of
+<span id="fn_25"></span>[27:3](cohl015.htm#fr_25.md) A certain number of
 the Seneca Iroquois still cling to the belief in witchcraft although
 they are loath to admit it to any one in whom they have not implicit
 confidence. While they assert that witchcraft was introduced among them
@@ -128,4 +128,4 @@ members are reputed to possess magic powers.
 
 ------------------------------------------------------------------------
 
-[Next: Section 3](cohl016)
+[Next: Section 3](cohl016.md)

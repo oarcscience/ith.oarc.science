@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl16)  [Next](orl18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl16)  [Next](orl18.md) 
 
 ------------------------------------------------------------------------
 
@@ -1512,4 +1512,4 @@ For, sir, ’tis time this song should have an end.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 18](orl18)
+[Next: Canto 18](orl18.md)

@@ -1,7 +1,7 @@
-[Sacred-Texts](../../index)  [Classical Paganism](../index) 
-[Index](index)  [Index of First Lines](first)  [Greek
-Transliteration](saphxlit)  
-[Previous](sappho1)  [Next](sappho3) 
+[Sacred-Texts](../../index)  [Classical Paganism](../index.md) 
+[Index](index)  [Index of First Lines](first.md)  [Greek
+Transliteration](saphxlit.md)  
+[Previous](sappho1)  [Next](sappho3.md) 
 
 ------------------------------------------------------------------------
 
@@ -873,4 +873,4 @@ From Apollonius, showing Aeolic form hma^s, "us".
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](sappho3)
+[Next: Part IV](sappho3.md)

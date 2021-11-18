@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc36)  [Next](pjc38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc36)  [Next](pjc38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ scourging of her Divine Son; she saw and suffered with inexpressible
 love and grief all the torments he was enduring. She groaned feebly, and
 her eyes were, red with weeping. A large veil covered her person, and
 she leant upon Mary of Heli, her eldest sister, <span
-id="fr_11"></span>[1](#fn_11) who was
+id="fr_11"></span>[1](#fn_11.md) who was
 
 <span id="page_211">p. 211</span>
 
@@ -66,7 +66,7 @@ scourging terminated.
 
 ### Footnotes
 
-<span id="fn_11"></span>[210:1](pjc37.htm#fr_11) Mary of Heli is often
+<span id="fn_11"></span>[210:1](pjc37.htm#fr_11.md) Mary of Heli is often
 spoken of in this relation. According to Sister Emmerich, she was the
 daughter of St. Joachim and St. Anne, and was born nearly twenty years
 before the Blessed Virgin. She was not the child of promise, and is
@@ -83,4 +83,4 @@ Simon was afterwards Bishop of Jerusalem.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIV. Interruption of the Visions of the Passion by the
-Appearance of St. Joseph under the form of a Child](pjc38)
+Appearance of St. Joseph under the form of a Child](pjc38.md)

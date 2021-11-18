@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hkt00)    [Page
-Index](pageidx)    [Text \[Zipped\]](hkt.txt.gz)
+[Contents](#contents)    [Start Reading](hkt00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](hkt.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -71,28 +71,28 @@ with.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](hkt00)  
-[Preface](hkt01)  
-[Contents](hkt02)  
+<span id="contents"></span> [Title Page](hkt00.md)  
+[Preface](hkt01.md)  
+[Contents](hkt02.md)  
 <span id="section_000"></span>
 
 ### The Knights Templars
 
-[Chapter I](hkt03)  
-[Chapter II](hkt04)  
-[Chapter III](hkt05)  
-[Chapter IV](hkt06)  
-[Chapter V](hkt07)  
-[Chapter VI](hkt08)  
-[Chapter VII](hkt09)  
-[Chapter VIII](hkt10)  
-[Chapter IX](hkt11)  
-[Chapter X](hkt12)  
+[Chapter I](hkt03.md)  
+[Chapter II](hkt04.md)  
+[Chapter III](hkt05.md)  
+[Chapter IV](hkt06.md)  
+[Chapter V](hkt07.md)  
+[Chapter VI](hkt08.md)  
+[Chapter VII](hkt09.md)  
+[Chapter VIII](hkt10.md)  
+[Chapter IX](hkt11.md)  
+[Chapter X](hkt12.md)  
 <span id="section_001"></span>
 
 ### The Temple Church
 
-[Chapter XI](hkt13)  
-[Chapter XII](hkt14)  
-[Chapter XIII](hkt15)  
-[Chapter XIV](hkt16)  
+[Chapter XI](hkt13.md)  
+[Chapter XII](hkt14.md)  
+[Chapter XIII](hkt15.md)  
+[Chapter XIV](hkt16.md)  

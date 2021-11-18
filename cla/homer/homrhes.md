@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index)  [Classics](../index)  [Homer](index)
+[Sacred-Texts](../../index)  [Classics](../index)  [Homer](index.md)
 
 ------------------------------------------------------------------------
 

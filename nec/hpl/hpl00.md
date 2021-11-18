@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Next](hpl01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Next](hpl01.md) 
 
 ------------------------------------------------------------------------
 
@@ -339,4 +339,4 @@ to maintain my revenge, for I am Charles Le Sorcier!'
 
 ------------------------------------------------------------------------
 
-[Next: The Beast in the Cave (1918)](hpl01)
+[Next: The Beast in the Cave (1918)](hpl01.md)

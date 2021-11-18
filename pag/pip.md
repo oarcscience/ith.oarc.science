@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index)  [Paganism](index) 
+[Intangible Textual Heritage](../index)  [Paganism](index.md) 
 
 ------------------------------------------------------------------------
 

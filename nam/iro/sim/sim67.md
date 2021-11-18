@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim66)  [Next](sim68) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim66)  [Next](sim68.md) 
 
 ------------------------------------------------------------------------
 
@@ -168,4 +168,4 @@ They went there, settled down, and lived happily.
 
 ------------------------------------------------------------------------
 
-[Next: War Between Senecas and Cherokees](sim68)
+[Next: War Between Senecas and Cherokees](sim68.md)

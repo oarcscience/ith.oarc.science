@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](botd18)  [Next](botd20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](botd18)  [Next](botd20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Brother of the Third Degree*, by Will L. Garver, \[1894\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 influence she had acquired over the great chief, had been his almost
 constant companion. There was no concealing the fact, he was in love
 with her. I knew this to be the case, but quenching the fires of
-jealousy [resolved](errata.htm#6) to let things take their course.
+jealousy [resolved](errata.htm#6.md) to let things take their course.
 Although I loved her better than all else on earth, I trusted that the
 fates would give me my dues, and kept her never-to-be-forgotten
 warning—"to forget self"—constantly in mind.
@@ -671,4 +671,4 @@ wish to get rid of my body before its natural time, I answered:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Brother of the “Third Degree.”](botd20)
+[Next: Chapter XIX. Brother of the “Third Degree.”](botd20.md)

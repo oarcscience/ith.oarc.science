@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](msn02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](msn02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55UBG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55UBG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Masnavi*, by Rumi, tr. by E.H. Whinfield, \[1898\], at Intangible
 Textual Heritage
 
@@ -2107,4 +2107,4 @@ Be patient, God knows what is best.
 
 ------------------------------------------------------------------------
 
-[Next: The Masnavi Book II](msn02)
+[Next: The Masnavi Book II](msn02.md)

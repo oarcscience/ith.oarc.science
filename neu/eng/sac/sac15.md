@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac14)  [Next](sac16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac14)  [Next](sac16.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ the sea horizon.
 
 [![The Conditions of “Sunrise” at the Summer Solstice in Lat. 50°
 N.](tn/fig36.jpg)  
-Click to enlarge](img/fig36.jpg)  
+Click to enlarge](img/fig36.jpg.md)  
 The Conditions of “Sunrise” at the Summer Solstice in Lat. 50° N.  
 
 <span id="page_120">p. 120</span>
@@ -82,7 +82,7 @@ the effect of the height of the hills on the azimuth is shown. The range
 of latitude given enables the diagram to be used in connection with the
 solstitial alignments at Carnak, Le Ménac, and other monuments in
 Brittany.](tn/fig37.jpg)  
-Click to enlarge](img/fig37.jpg)  
+Click to enlarge](img/fig37.jpg.md)  
 FIG. 37.—The Azimuths of the Sunrise (upper limb) at the Summer
 Solstice.  
 The values given in the table have been plotted, and the effect of the
@@ -106,7 +106,7 @@ deal with the sun as a star.
 
 To make the foregoing applicable for monuments in all latitudes between
 Brittany and the Orkneys, I give still another diagram, [Fig.
-37](#img_fig37), also prepared for me by Mr. Rolston which will enable
+37](#img_fig37.md), also prepared for me by Mr. Rolston which will enable
 any archæologist to determine approximately, *for the present time*, the
 azimuth of sunrise at the summer solstice, without waiting for the 21st
 of June in any year actually to observe it.
@@ -117,4 +117,4 @@ May year sun in the same way later on.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Stenness](sac16)
+[Next: Chapter XIII. Stenness](sac16.md)

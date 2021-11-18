@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu05)  [Next](tmu07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu05)  [Next](tmu07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -178,7 +178,7 @@ for Sannyāsa. At the moment when indifference towards all objects arises
 in the mind, a learned person may take up Sannyāsa. Otherwise, he is a
 fallen person. Whoever becomes a Sannyāsī on account of wealth, food,
 clothes and fame, becomes fallen in both (as a Sannyāsī and as
-[householder](errata.htm#4)); (then) he is not worthy of salvation.
+[householder](errata.htm#4)); (then.md) he is not worthy of salvation.
 
 "The thought of (contemplation upon) Ṭaṭṭwas is the transcendental one;
 that of the Śāsṭras, the middling, and that of Manṭras, the lowest. The
@@ -277,6 +277,6 @@ becomes himself Brahman. Thus is the Upanishaḍ."
 
 ------------------------------------------------------------------------
 
-[Next: 5. Kaivalya-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu07)
+[Next: 5. Kaivalya-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu07.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl42)  [Next](orl44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl42)  [Next](orl44.md) 
 
 ------------------------------------------------------------------------
 
@@ -2224,4 +2224,4 @@ In other strain, if you that strain will hear.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 44](orl44)
+[Next: Canto 44](orl44.md)

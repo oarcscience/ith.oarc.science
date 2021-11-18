@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst086)  [Next](inst088) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst086)  [Next](inst088.md) 
 
 ------------------------------------------------------------------------
 
@@ -230,7 +230,7 @@ primate and other titles of pride, of which that pontiff now makes a
 wondrous boast, it is not difficult to understand how and in what way
 they crept in. Cyprian often makes mention of Cornelius (Cyprian. Lib. 2
 Ep. 2; Lib. 4 <span id="iv.iv.viii-p36.1"></span>[Ep.
-6](../../../bib/kjv/eph006.htm#000)<span id="iv.iv.viii-p36.1"></span>),
+6](../../../bib/kjv/eph006.htm#000)<span id="iv.iv.viii-p36.1"></span>.md),
 nor does he distinguish him by any other name than that of brother, or
 fellow bishop, or colleague. When he writes to Stephen, the successor of
 Cornelius, he not only makes him the equal of himself and others, but
@@ -510,7 +510,7 @@ id="iv.iv.viii-p43.1"></span>, *et alibi*). Cecilianus prevails. Donatus
 of Casa Nigra is thrown in his calumnious action and appeals.
 Constantine devolves the decision of the appeal on the Bishop of Arles,
 who sits as judge, to give sentence after the Roman Pontiff.55  <span
-id="fr_564"></span>[565](#fn_564) If the Roman See has supreme power not
+id="fr_564"></span>[565](#fn_564.md) If the Roman See has supreme power not
 subject to appeal, why does Melciades allow himself to be so greatly
 insulted as to have the Bishop of Arles preferred to him? And who is the
 Emperor that does this? Constantine, who they boast not only made it his
@@ -827,7 +827,7 @@ and superfluous to review the privileges which they assume to themselves
 in what they call reservations. But the most intolerable of all things
 is their leaving no judicial authority in the world to restrain and curb
 them when they licentiously abuse their immense power. “No man (say
-they55  <span id="fr_565"></span>[566](#fn_565) ) is entitled to alter
+they55  <span id="fr_565"></span>[566](#fn_565) .md) is entitled to alter
 the judgment of this See, on account of the primacy of the Roman
 Church.” Again, “The judge shall not be judged either by the emperor, or
 by kings, or by the clergy, or by the people.” It is surely imperious
@@ -1029,12 +1029,12 @@ any one object that Paul’s words have a different meaning, and are
 wrested by us against the Roman Pontiff, I wil1 briefly show that they
 can only be understood of the Papacy. Paul says that Antichrist would
 sit in the temple of God (<span id="iv.iv.viii-p60.1"></span>[2 Thess.
-2:4](../../../bib/kjv/th2002.htm#004)<span
+2:4](../../../bib/kjv/th2002.htm#004.md)<span
 id="iv.iv.viii-p60.1"></span>). In another passage, the Spirit,
 portraying him in the person of Antiochus, says that his reign would be
 with great swelling words of vanity (<span
 id="iv.iv.viii-p60.2"></span>[Dan.
-7:25](../../../bib/kjv/dan007.htm#025)<span
+7:25](../../../bib/kjv/dan007.htm#025.md)<span
 id="iv.iv.viii-p60.2"></span>). Hence we infer that his tyranny is more
 over souls than bodies, a tyranny set up in opposition to the spiritual
 kingdom of Christ. Then his nature is such, that he abolishes not the
@@ -1050,9 +1050,9 @@ in his own time, the mystery of iniquity, which was afterwards to be
 openly manifested, had begun to work in secret, we thereby understand
 that this calamity was neither to be introduced by one man, nor to
 terminate in one man (see Calv. in <span id="iv.iv.viii-p60.3"></span>[2
-Thess. 2:3](../../../bib/kjv/th2002.htm#003)<span
+Thess. 2:3](../../../bib/kjv/th2002.htm#003.md)<span
 id="iv.iv.viii-p60.3"></span>; <span id="iv.iv.viii-p60.4"></span>[Dan.
-7:9](../../../bib/kjv/dan007.htm#009)<span
+7:9](../../../bib/kjv/dan007.htm#009.md)<span
 id="iv.iv.viii-p60.4"></span>). Moreover, when the mark by which he
 distinguishes Antichrist is, that he would rob God of his honour and
 take it to himself, he gives the leading feature which we ought to
@@ -1098,7 +1098,7 @@ Cardinals, and professors, in the present day. The first head of the
 secret theology which is in vogue among them is, that there is no God.
 Another, that whatever things have been written and are taught
 concerning Christ are lies and imposture.55  <span
-id="fr_566"></span>[567](#fn_566) A third, that the doctrine of a future
+id="fr_566"></span>[567](#fn_566.md) A third, that the doctrine of a future
 life and final resurrection is a mere fable. All do not think, few speak
 thus; I confess it. Yet it is long since this began to be the ordinary
 religion of pontiffs; and though the thing is notorious to all who know
@@ -1115,7 +1115,7 @@ have not published it either in sermons or writings, but betrayed it
 only at table or in their chamber, or at least within the walls of their
 court. But if they would have the privilege which they claim to be
 confirmed, they must expunge from their list of pontiffs John XXII.,55
- <span id="fr_567"></span>[568](#fn_567) who publicly maintained that
+ <span id="fr_567"></span>[568](#fn_567.md) who publicly maintained that
 the soul is mortal, and perishes with the body till the day of
 resurrection. And to show you that the whole See with its chief props
 then utterly fell, none of the Cardinals opposed his madness, only the
@@ -1147,7 +1147,7 @@ devoid of religion, or been its greatest enemies. The see which they
 occupy, therefore, no more makes them the vicars of Christ, than it
 makes an idol to become God, when it is placed in the temple of God
 (<span id="iv.iv.viii-p66.1"></span>[2 Thess.
-2:4](../../../bib/kjv/th2002.htm#004)<span
+2:4](../../../bib/kjv/th2002.htm#004.md)<span
 id="iv.iv.viii-p66.1"></span>). Then, if manners be inquired into, let
 the Popes answer for themselves, what there is in them that can make
 them be recognised for bishops. First, the mode of life at Rome, while
@@ -1170,7 +1170,7 @@ one of her minutest members.
 Cardinals, I know not how it happened that they rose so suddenly to such
 a height. In the age of Gregory, the name was applied to bishops only
 (Gregor. Lib. 2 Ep. 15, 77, 79; <span id="iv.iv.viii-p67.1"></span>[Eph.
-6:0](../../../bib/kjv/eph006.htm#000), Eph. 25:0<span
+6:0](../../../bib/kjv/eph006.htm#000.md), Eph. 25:0<span
 id="iv.iv.viii-p67.1"></span>). For whenever he makes mention of
 cardinals, he assigns them not only to the Roman Church, but to every
 other church, so that, in short, *a Cardinal priest* is nothing else
@@ -1211,8 +1211,8 @@ Nay, rather what Malachi says of such persons must be fulfilled in them:
 law; ye have corrupted the covenant of Levi, saith the Lord of hosts.
 Therefore have I also made you contemptible and base before all the
 people” (<span id="iv.iv.viii-p67.5"></span>[Mal.
-2:8](../../../bib/kjv/mal002.htm#008),
-[9](../../../bib/kjv/mal002.htm#009)<span
+2:8](../../../bib/kjv/mal002.htm#008.md),
+[9](../../../bib/kjv/mal002.htm#009.md)<span
 id="iv.iv.viii-p67.5"></span>). I now leave all the pious to judge what
 the supreme pinnacle of the Roman hierarchy must be, to which the
 Papists, with nefarious effrontery, hesitate not to subject the word of
@@ -1223,7 +1223,7 @@ heaven, to men and angels.
 
 ### Footnotes
 
-<span id="fn_564"></span>[565](inst087.htm#fr_564) <span
+<span id="fn_564"></span>[565](inst087.htm#fr_564.md) <span
 id="iv.iv.viii-p43.2"></span>
 
 <span id="iv.iv.viii-p44"></span>55 555 French, “Voila l’Archeveque
@@ -1232,14 +1232,14 @@ Romain. au moins pour juger par dessus lui.”—Here is the Archbishop of
 Arles seated to recall, if he thinks fit, the sentence of the Bishop of
 Rome, or at least to judge as his superior.
 
-<span id="fn_565"></span>[566](inst087.htm#fr_565) <span
+<span id="fn_565"></span>[566](inst087.htm#fr_565.md) <span
 id="iv.iv.viii-p53.1"></span>
 
 <span id="iv.iv.viii-p54"></span>56 556 Nicolas, whose view is given in
 Decretis 17, Quæst. 3, cap. Nemini; Innocent IX. Quæst. 3, cap. Nemo.
 Symmachi 9. Quæst. 3, cap. Aliorum. Antherius, ibidem, cap. Facta.
 
-<span id="fn_566"></span>[567](inst087.htm#fr_566) <span
+<span id="fn_566"></span>[567](inst087.htm#fr_566.md) <span
 id="iv.iv.viii-p62.1"></span>
 
 <span id="iv.iv.viii-p63"></span>57 557 Erasmus, in a letter to
@@ -1249,7 +1249,7 @@ inflicted on them. But at Rome, I have with my own ears heard men
 belching out horrid blasphemies against Christ and his apostles, in the
 presence of many besides myself, and doing it with impunity!”
 
-<span id="fn_567"></span>[568](inst087.htm#fr_567) <span
+<span id="fn_567"></span>[568](inst087.htm#fr_567.md) <span
 id="iv.iv.viii-p64.1"></span>
 
 <span id="iv.iv.viii-p65"></span>58 558 John Gerson, who lived at the
@@ -1259,4 +1259,4 @@ time, attests that John XXII. openly denied the immortality of the soul.
 
 [Next: CHAPTER 8. - OF THE POWER OF THE CHURCH IN ARTICLES OF FAITH. THE
 UNBRIDLED LICENCE OF THE PAPAL CHURCH IN DESTROYING PURITY OF
-DOCTRINE.](inst088)
+DOCTRINE.](inst088.md)

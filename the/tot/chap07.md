@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Theosophy](../index)
-[Index](index) [Previous](chap06) [Next](chap08)
+[Intangible Textual Heritage](../../index) [Theosophy](../index.md)
+[Index](index) [Previous](chap06) [Next](chap08.md)
 
 ------------------------------------------------------------------------
 
@@ -266,4 +266,4 @@ rendered, or to whom he in his turn owes a debt of love.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: The Purpose of Life](chap08)
+[Next: Chapter VIII: The Purpose of Life](chap08.md)

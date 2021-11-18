@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov10)  [Next](hlov12) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov10)  [Next](hlov12.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ through Pele's dominions.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Pele and Kaha-wali](hlov12)
+[Next: VII. Pele and Kaha-wali](hlov12.md)

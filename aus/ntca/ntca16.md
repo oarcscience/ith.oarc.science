@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca15)  [Next](ntca17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca15)  [Next](ntca17.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,7 +118,7 @@ father-in-law.
 When a man dies his special *Unawa* or *Unawas* smear their hair, faces
 and breasts with white pipeclay and remain silent for a certain time
 until a ceremony called *Aralkililima* has been performed. <span
-id="fr_164"></span>[1](#fn_164) The widow is called *Inpirta*, which
+id="fr_164"></span>[1](#fn_164.md) The widow is called *Inpirta*, which
 means the whitened one in reference to the pipeclay. Some times she
 smears over the pipeclay ashes from a fire, in which case she is called
 *Ura-inpirta, ura* meaning fire. In some of the more northern tribes, as
@@ -458,7 +458,7 @@ mourned for.
 
 ### Footnotes
 
-<span id="fn_164"></span>[500:1](ntca16.htm#fr_164) Amongst the
+<span id="fn_164"></span>[500:1](ntca16.htm#fr_164.md) Amongst the
 Warramunga tribe, the widow crops her hair short, and after cutting open
 the middle line of the scalp, runs a fire-stick along the wound, often
 with serious results.
@@ -466,4 +466,4 @@ with serious results.
 ------------------------------------------------------------------------
 
 [Next: Chapter XV. The Iruntarinia and Arumburinga, or Spirit
-Individuals](ntca17)
+Individuals](ntca17.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt24)  [Next](crt26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt24)  [Next](crt26.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_19600"></span>
 
 [![Sir Tristram cometh to ye castle of Sir Nabon](tn/19600.jpg)  
-Click to enlarge](img/19600.jpg)  
+Click to enlarge](img/19600.jpg.md)  
 Sir Tristram cometh to ye castle of Sir Nabon  
 
 <span id="page_197">p. 197</span>
@@ -554,4 +554,4 @@ and brethren-in-arms once more as they had been before.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Third](crt26)
+[Next: Chapter Third](crt26.md)

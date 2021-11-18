@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits062) [Next](bits064)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits062) [Next](bits064.md)
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ pleased smile on his face departed.
 
 ------------------------------------------------------------------------
 
-[Next: § 64. Love for Animals](bits064)
+[Next: § 64. Love for Animals](bits064.md)
 
  
 

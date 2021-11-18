@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK X CHAPTER XLIV
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK X](book09) 
-[Previous](mart280)  [Next](mart282) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK X](book09.md) 
+[Previous](mart280)  [Next](mart282.md) </span>
 
 ------------------------------------------------------------------------
 

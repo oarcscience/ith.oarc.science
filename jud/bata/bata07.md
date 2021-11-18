@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](bata06)  [Next](bata08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](bata06)  [Next](bata08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Talmud in Selection*, by Leo Auerbach, \[1944\], at
 Intangible Textual Heritage
 
@@ -330,8 +330,8 @@ was said: (*Exodus* xxvi, 33) *And the veil shall divide unto you
 between the holy place and the most holy*. The outer curtain was tied
 back from the south side, while the inner was tied back on the north
 side. He walked between them until he reached the north side; when he
-[reached](errata.htm#3) the north he turned his face to the south, and
-[walked](errata.htm#4) to the left of the curtain, till he reached the
+[reached](errata.htm#3.md) the north he turned his face to the south, and
+[walked](errata.htm#4.md) to the left of the curtain, till he reached the
 Ark. When he reached the Ark, he put the pan between the two poles. He
 heaped up the incense on the coals,
 
@@ -786,6 +786,6 @@ Israel.
 
 ------------------------------------------------------------------------
 
-[Next: Days of Fasting (Tractate Taanith)](bata08)
+[Next: Days of Fasting (Tractate Taanith)](bata08.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm24)  [Next](wsm26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm24)  [Next](wsm26.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ south.
 ------------------------------------------------------------------------
 
 [Next: Rat and Mountain Sheep (Saline Valley, California.
-Shoshoni)](wsm26)
+Shoshoni)](wsm26.md)

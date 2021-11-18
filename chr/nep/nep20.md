@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep19)  [Next](nep21) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep19)  [Next](nep21.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ Will soon a golden treasure find.
 
 ------------------------------------------------------------------------
 
-[Next: Offices of Humanity](nep21)
+[Next: Offices of Humanity](nep21.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb23)  [Next](gnfb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb23)  [Next](gnfb25.md) 
 
 </div>
 
@@ -238,6 +238,6 @@ they aren't dead I suppose they are living still.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Hok Lee and the Dwarfs](gnfb25)
+[Next: The Story of Hok Lee and the Dwarfs](gnfb25.md)
 
 </div>

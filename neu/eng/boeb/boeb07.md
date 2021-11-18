@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb06)  [Next](boeb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb06)  [Next](boeb08.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_69">p. 69</span>
 
 <span id="img_06900"></span> [![](tn/06900.jpg)  
-Click to enlarge](img/06900.jpg)
+Click to enlarge](img/06900.jpg.md)
 
 <span id="img_06901"></span> ![](img/06901.jpg)
 
@@ -57,4 +57,4 @@ Was made the lady of the Maye.
 
 ------------------------------------------------------------------------
 
-[Next: Fair Margaret and Sweet William](boeb08)
+[Next: Fair Margaret and Sweet William](boeb08.md)

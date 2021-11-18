@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft25)  [Next](efft27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft25)  [Next](efft27.md) 
 
 ------------------------------------------------------------------------
 
-# THE TULIP BED.  <span id="fr_32"></span>[1](#fn_32)
+# THE TULIP BED.  <span id="fr_32"></span>[1](#fn_32.md)
 
 NEAR a pixy field in this neighbourhood there lived on a time an old
 woman who possessed a cottage and a very pretty garden, wherein she
@@ -54,9 +54,9 @@ its original dust.
 
 ### Footnotes
 
-<span id="fn_32"></span>[1](efft26.htm#fr_32) Mrs. Bray, *The Borders of
+<span id="fn_32"></span>[1](efft26.htm#fr_32.md) Mrs. Bray, *The Borders of
 the Tamar and the Tavy*, vol. i., p. 180.
 
 ------------------------------------------------------------------------
 
-[Next: The Fisherman and the Piskies](efft27)
+[Next: The Fisherman and the Piskies](efft27.md)

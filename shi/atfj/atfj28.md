@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj27)  [Next](atfj29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj27)  [Next](atfj29.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_30"></span> <span align="CENTER"> [![30. O Ai San
 Continues Her Prayers Under the Fall](tn/30.jpg)  
-Click to enlarge](img/30.jpg)  
+Click to enlarge](img/30.jpg.md)  
 30. O Ai San Continues Her Prayers Under the Fall  
 </span>
 
@@ -176,6 +176,6 @@ tells me.
 
 ------------------------------------------------------------------------
 
-[Next: XXVII. Sagami Bay](atfj29)
+[Next: XXVII. Sagami Bay](atfj29.md)
 
 </div>

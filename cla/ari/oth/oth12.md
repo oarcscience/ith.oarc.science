@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth11)  [Next](oth13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth11)  [Next](oth13.md) 
 
 ------------------------------------------------------------------------
 
@@ -214,4 +214,4 @@ natural body are the very same that destroy it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1](oth13)
+[Next: Chapter 1](oth13.md)

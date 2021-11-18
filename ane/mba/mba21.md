@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba20)  [Next](mba22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba20)  [Next](mba22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ caravans supplanted by
 speedy trains. A beginning has already been made in this direction. The
 first modern commercial highway which is crossing the threshold of
 Babylonia's new Age is the German railway through Asia Minor, North
-Syria, and Mesopotamia to Baghdad. <span id="fr_408"></span>[1](#fn_406)
+Syria, and Mesopotamia to Baghdad. <span id="fr_408"></span>[1](#fn_406.md)
 It brings the land of Hammurabi into close touch with Europe, and will
 solve problems which engaged the attention of many rival monarchs for
 long centuries before the world knew aught of "the glory that was Greece
@@ -154,7 +154,7 @@ hereditary enemies of the Hebrews, although Jacob was regarded as being
 of their stock: "A Syrian ready to perish", runs a Biblical reference,
 "was my father (ancestor), and he went down into Egypt and sojourned
 there with a few, and became there a nation, great, mighty, and
-populous". <span id="fr_409"></span>[1](#fn_407)
+populous". <span id="fr_409"></span>[1](#fn_407.md)
 
 An heroic attempt was made by one of the Kassite kings of Babylonia to
 afford protection to traders by stamping out brigandage between Arabia
@@ -224,7 +224,7 @@ Flushed with his success, the Kassite king invaded Assyria when
 Adad-nirari I died and his son Arik-den-ilu came to the throne. He
 found, however, that the Assyrians were more powerful than the Elamites,
 and suffered defeat. His son, Na´zi-mar-ut´tash <span
-id="fr_410"></span>[1](#fn_408), also made an unsuccessful attempt to
+id="fr_410"></span>[1](#fn_408.md), also made an unsuccessful attempt to
 curb the growing power of the northern Power.
 
 These recurring conflicts were intimately associated with the
@@ -272,7 +272,7 @@ It is necessary at this point to review briefly the history of Palestine
 and north Syria after the period of Hittite expansion under King
 Subbi-luliuma and the decline of Egyptian power under Akhenaton. The
 western part of Mitanni and the most of northern Syria had been
-colonized by the Hittites. <span id="fr_411"></span>[1](#fn_409) Farther
+colonized by the Hittites. <span id="fr_411"></span>[1](#fn_409.md) Farther
 south, their allies, the Amorites, formed a buffer State on the borders
 of Egypt's limited sphere of influence in southern Palestine, and of
 Babylonia's sphere in southern Mesopotamia. Mitanni
@@ -366,7 +366,7 @@ Hattusil II to the King of Babylonia, who had made an enquiry regarding
 it. "I will inform my brother," wrote the Hittite monarch; the King of
 Egypt and I have made an alliance, and made ourselves brothers. Brothers
 we are and will \[unite against\] a common foe, and with friends in
-common." <span id="fr_412"></span>[1](#fn_410) The common foe could have
+common." <span id="fr_412"></span>[1](#fn_410.md) The common foe could have
 been no other than Assyria, and the Hittite king's letter appears to
 convey a hint to Kadashman-turgu of Babylon that he should make common
 cause with Rameses II and Hattusil.
@@ -446,7 +446,7 @@ Babylonia, and founding
 
 a new city which has not been located. There he built a great palace and
 a temple for Ashur and his pantheon. He called the city after himself,
-Kar-Tukulti-Ninip <span id="fr_413"></span>[1](#fn_411).
+Kar-Tukulti-Ninip <span id="fr_413"></span>[1](#fn_411.md).
 
 Seven years after the conquest of Babylonia revolts broke out against
 the emperor in Assyria and Babylonia, and he was murdered in his palace,
@@ -673,28 +673,28 @@ became powerful by developing the science of warfare.
 
 ### Footnotes
 
-<span id="fn_406"></span>[357:1](mba21.htm#fr_408) At Carchemish a
+<span id="fn_406"></span>[357:1](mba21.htm#fr_408.md) At Carchemish a
 railway bridge spans the mile-wide river ferry which Assyria's soldiers
 were wont to cross with the aid of skin floats. The engineers have found
 it possible to utilize a Hittite river wall about 3000 years old--the
 oldest engineering structure in the world. The ferry was on the old
 trade route.
 
-<span id="fn_407"></span>[360:1](mba21.htm#fr_409) *Deuteronomy*, xxvi,
+<span id="fn_407"></span>[360:1](mba21.htm#fr_409.md) *Deuteronomy*, xxvi,
 5.
 
-<span id="fn_408"></span>[362:1](mba21.htm#fr_410) Pr. *u* as *oo*.
+<span id="fn_408"></span>[362:1](mba21.htm#fr_410.md) Pr. *u* as *oo*.
 
-<span id="fn_409"></span>[363:1](mba21.htm#fr_411) The chief cities of
+<span id="fn_409"></span>[363:1](mba21.htm#fr_411.md) The chief cities of
 North Syria were prior to this period Hittite. This expansion did not
 change the civilization but extended the area of occupation and control.
 
-<span id="fn_410"></span>[366:1](mba21.htm#fr_412) Garstang's *The Land
+<span id="fn_410"></span>[366:1](mba21.htm#fr_412.md) Garstang's *The Land
 of the Hittites*, p. 349.
 
-<span id="fn_411"></span>[369:1](mba21.htm#fr_413) "Burgh of
+<span id="fn_411"></span>[369:1](mba21.htm#fr_413.md) "Burgh of
 Tukulti-Ninip."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Race Movements that Shattered Empires](mba22)
+[Next: Chapter XVI. Race Movements that Shattered Empires](mba22.md)

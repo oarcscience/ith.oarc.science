@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat23)  [Next](jat25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat23)  [Next](jat25.md) 
 
 ------------------------------------------------------------------------
 
-### 22. THE ORIGIN OF CORN AND DEER. <span id="fr_35"></span>[1](#fn_35)
+### 22. THE ORIGIN OF CORN AND DEER. <span id="fr_35"></span>[1](#fn_35.md)
 
 Once there was a man who went around with a little turkey. The man lost
 all he had in gambling. His people brought together more things for him
@@ -135,7 +135,7 @@ mouthful.
 <span id="page_217">p. 217</span>
 
 \[paragraph continues\] He took up his arrows and started home. Outside,
-only one footprint was to be seen. <span id="fr_36"></span>[1](#fn_36)
+only one footprint was to be seen. <span id="fr_36"></span>[1](#fn_36.md)
 He came where his turkey was. Then they tracked him to the place where
 the corn was growing. When he came to the turkey, it was afraid of him.
 When it was evening he made two cigarettes and tied them to his clothes.
@@ -154,7 +154,7 @@ gathered much corn and tobacco. The woman started home. When she came to
 the river, she took off her moccasins and waded through. She brought the
 corn to her people. "It is good," he said, "to eat with deer meat." He
 gave his father-in-law the corn. The father-in-law, in return, gave him
-the deer which he possessed. <span id="fr_37"></span>[2](#fn_37)
+the deer which he possessed. <span id="fr_37"></span>[2](#fn_37.md)
 
 The old man's name was DînîdeyînîLt'<u>a</u>nne, "Game he raised". The
 other man who came to him was named AtdiLdeyeseLdlî, "He floated down".
@@ -186,16 +186,16 @@ People will live upon you." Then the corn was all that belonged to them.
 
 ### Footnotes
 
-<span id="fn_35"></span>[214:1](jat24.htm#fr_35) Russell secured the
+<span id="fn_35"></span>[214:1](jat24.htm#fr_35.md) Russell secured the
 first part of this myth in much the form given here, (a), p. 268. The
 Navajo myth as given by Matthews (Natinesthani, pp. 160-194), is full of
 details and ii accompanied by songs. It is evidently the myth of an
 important ceremony.
 
-<span id="fn_36"></span>[217:1](jat24.htm#fr_36) He traveled with the
+<span id="fn_36"></span>[217:1](jat24.htm#fr_36.md) He traveled with the
 lightning was the explanation given of this.
 
-<span id="fn_37"></span>[217:2](jat24.htm#fr_37) It was explained that
+<span id="fn_37"></span>[217:2](jat24.htm#fr_37.md) It was explained that
 the young man was striving to get the advantage of the old man in the
 matter of smoking and of the young woman in resisting desire. On the
 fourth night the girl made the first advance. The young man having won
@@ -204,4 +204,4 @@ one as good as the other.
 
 ------------------------------------------------------------------------
 
-[Next: 23. The Origin of Corn and Deer (Second Version)](jat25)
+[Next: 23. The Origin of Corn and Deer (Second Version)](jat25.md)

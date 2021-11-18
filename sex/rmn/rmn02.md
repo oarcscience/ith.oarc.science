@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn01)  [Next](rmn03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn01)  [Next](rmn03.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,15 +61,15 @@ intemperance within the bounds of reason, as if it were a torrent
 carrying it away perforce, she often and in many places commits great
 outrages, disorders, and scandals against nature in the matter of the
 pleasure of love; for there have been men who have conceived a passion
-for goats, sows, mares, &c." <span id="fr_6"></span>[1](#fn_6)
+for goats, sows, mares, &c." <span id="fr_6"></span>[1](#fn_6.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_6"></span>[2:1](rmn02.htm#fr_6) PLUTARCH. *Discourse on the
+<span id="fn_6"></span>[2:1](rmn02.htm#fr_6.md) PLUTARCH. *Discourse on the
 Reason of Beasts*, xvii.
 
 ------------------------------------------------------------------------
 
-[Next: Plate II: Marsyas and Olympus](rmn03)
+[Next: Plate II: Marsyas and Olympus](rmn03.md)

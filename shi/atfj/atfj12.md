@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj11)  [Next](atfj13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj11)  [Next](atfj13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_13"></span> <span align="CENTER"> [![13. Matsuo Declares
 the Head to be That of Kanshusai](tn/13.jpg)  
-Click to enlarge](img/13.jpg)  
+Click to enlarge](img/13.jpg.md)  
 13. Matsuo Declares the Head to be That of Kanshusai  
 </span>
 
 ### X
 
-### A FAITHFUL SERVANT <span id="fr_24"></span>[1](#fn_24)
+### A FAITHFUL SERVANT <span id="fr_24"></span>[1](#fn_24.md)
 
 IN the reign of the Emperor Engi, which began in the year 901 A.D.,
 there lived a man whose name has ever since been celebrated on account
@@ -185,7 +185,7 @@ avenged.
 
 ### Footnotes
 
-<span id="fn_24"></span>[65:1](atfj12.htm#fr_24) This little tragedy,
+<span id="fn_24"></span>[65:1](atfj12.htm#fr_24.md) This little tragedy,
 showing the deep loyalty which was general 1000 years ago, was told to
 me by Mr. Matsuzaki of the Kencho (Government Office).
 
@@ -193,6 +193,6 @@ me by Mr. Matsuzaki of the Kencho (Government Office).
 
 ------------------------------------------------------------------------
 
-[Next: XI. Prince Hosokawa's Most Valuable Title-Deeds](atfj13)
+[Next: XI. Prince Hosokawa's Most Valuable Title-Deeds](atfj13.md)
 
 </div>

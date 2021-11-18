@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 In nomine BABALON Amen.
 
-Restriction unto Choronzon[**1**](#1).
+Restriction unto Choronzon[**1**](#1.md).
 
-**The Tenth Aethyr**[**2**](#2) **is Called ZAX**[**3**](#3)**.**
+**The Tenth Aethyr**[**2**](#2) **is Called ZAX**[**3**](#3.md)**.**
 
 This Aethyr being accursèd, and the seer forewarned, he taketh these
 precautions for the scribe.
@@ -18,16 +18,16 @@ Tetragrammaton and Shaddai El Chai and Ararita.
 
 And let the Demon be invoked within a triangle, wherein is inscribed the
 name of Choronzon, and about it let him write ANAPHAXETON ---
-ANAPHANETON -- PRIMEUMATON, and in the angles MI-CA-EL[**4**](#4): and
-at each angle the Seer shall slay a pigeon[**5**](#5), and having done
+ANAPHANETON -- PRIMEUMATON, and in the angles MI-CA-EL[**4**](#4.md): and
+at each angle the Seer shall slay a pigeon[**5**](#5.md), and having done
 this, let him retire to a secret place, where is neither sight nor
 hearing, and sit within his black robe, secretly invoking the
-Aethyr[**6**](#6). And let the Scribe perform the Banishing Rituals of
-the Pentagram and Hexagram[**7**](#7), and let him call upon the Holy
-Names of God, and say the Exorcism of Honorius[**8**](#8), and let him
+Aethyr[**6**](#6.md). And let the Scribe perform the Banishing Rituals of
+the Pentagram and Hexagram[**7**](#7.md), and let him call upon the Holy
+Names of God, and say the Exorcism of Honorius[**8**](#8.md), and let him
 beseech protection and help of the Most High.
 
-And let him be furnished with the Magick Dagger[**9**](#9), and let him
+And let him be furnished with the Magick Dagger[**9**](#9.md), and let him
 strike fearlessly at anything that may seek to break through the circle,
 were it the appearance of the Seer himself. And if the Demon pass out of
 the triangle, let him threaten him with the Dagger, and command him to
@@ -63,12 +63,12 @@ which if I break, may I perish, forsaken of Him. Amen and Amen.
 Which is Called ZAX**
 
 There is no being in the outermost Abyss, but constant forms come forth
-from the nothingness of it[**10**](#10).
+from the nothingness of it[**10**](#10.md).
 
 Then the Devil of the Aethyr, that mighty devil Choronzon, crieth aloud,
-Zazaz[**11**](#11), Zazas, Nasatanada Zasas.
+Zazaz[**11**](#11.md), Zazas, Nasatanada Zasas.
 
-I am the Master of Form[**12**](#12), and from me all forms proceed.
+I am the Master of Form[**12**](#12.md), and from me all forms proceed.
 
 I am I. I have shut myself up from the spendthrifts, my gold is safe in
 my treasure-chamber, and I have made every living thing my concubine,
@@ -79,7 +79,7 @@ while he plagueth me. From me come leprosy and pox and plague and cancer
 and cholera and the falling sickness. Ah! I will reach up to the knees
 of the Most High, and tear his phallus with my teeth, and I will bray
 his testicles in a mortar, and make poison thereof, to slay the sons of
-men[**13**](#13).
+men[**13**](#13.md).
 
 (Here the Spirit stimulated the voice of Frater P., which also appeared
 to come from his station and not from the triangle.)
@@ -87,7 +87,7 @@ to come from his station and not from the triangle.)
 I don't think I can get any more; I think that's all there is.
 
 (The Frater was seated in a secret place covered completely by a black
-robe[**14**](#14), in the position called the "Thunderbolt". He did not
+robe[**14**](#14.md), in the position called the "Thunderbolt". He did not
 move or speak during the ceremony.)
 
 Next the Scribe was hallucinated, believing that before him was a
@@ -103,7 +103,7 @@ delay.)
 They have called me the God of laughter, and I laugh when I will slay.
 And they have thought that I could not smile, but I smile upon whom I
 would seduce. O inviolable one, that canst not not be
-tempted[**15**](#15). If thou canst command me by the power of the Most
+tempted[**15**](#15.md). If thou canst command me by the power of the Most
 High, know that I did indeed tempt thee, and it repenteth me. I bow
 myself humbly before the great and terrible names whereby thou hast
 conjured and constrained me. But thy name is mercy, and I cry aloud for
@@ -127,7 +127,7 @@ seduce those whom he hateth, the servants of the Most High.
 
 Thus taketh he the form of a beautiful woman, or of a wise and holy man,
 or of a serpent that writheth upon the earth ready to
-sting[**16**](#16).
+sting[**16**](#16.md).
 
 And, because he is himself, therefore he is no self; the terror of
 darkness, and the blindness of night, and the deafness of the adder, and
@@ -141,7 +141,7 @@ may quench my thirst.
 
 (The Scribe refused.)
 
-Sprinkle water upon my head. I can hardly go on[**17**](#17).
+Sprinkle water upon my head. I can hardly go on[**17**](#17.md).
 
 (This last was spoken from the triangle in the natural voice of the
 Frater, which Choronzon again simulated. But he did not succeed in
@@ -151,12 +151,12 @@ The Scribe resisted the appeal to his pity, and conjured the demon to
 proceed by the names of the Most High. Choronzon attempted also to
 seduce the faithfulness of the Scribe. A long colloquy ensued. The
 Scribe cursed him by the Holy Names of God, and the power of the
-Pentagram.[**17**](#17))
+Pentagram.[**17**](#17).md)
 
 I feed upon the names of the Most High. I churn them in my jaws, and I
 void them from my fundament. I fear not the power of the Pentagram, for
 I am the Master of the Triangle. My name is three hundred and thirty and
-three, and that is thrice one[**18**](#18). Be vigilant, therefore, for
+three, and that is thrice one[**18**](#18.md). Be vigilant, therefore, for
 I warn thee that I am about to deceive thee. I shall say words that thou
 wilt take to be the cry of the Aethyr, and thou wilt write them down,
 thinking them to be great secrets of Magick power, and they will be only
@@ -173,7 +173,7 @@ him not, and ordered the demon to proceed.)
 
 Thou canst tell me naught that I know not, for in me is all Knowledge:
 Knowledge is my name. Is not the head of the great Serpent arisen into
-Knowledge[**19**](#19)?
+Knowledge[**19**](#19.md)?
 
 (Here the Scribe again commanded Choronzon to continue with the call.)
 
@@ -203,7 +203,7 @@ O thou that hast written two-and-thirty books of Wisdom, and art more
 stupid than an owl, by thine own talk is thy vigilance wearied, and by
 my talk art thou befooled and tricked, O thou that sayest that thou
 shalt endure. Knowest thou how nigh thou art to destruction? For thou
-that art the Scribe hast not the understanding[**20**](#20) that alone
+that art the Scribe hast not the understanding[**20**](#20.md) that alone
 availeth against Choronzon. And wert thou not protected by the Holy
 Names of God and the circle, I would rush upon thee and tear thee. For
 when I made myself like unto a beautiful woman, if thou hadst come to
@@ -300,7 +300,7 @@ I have prevailed against the Kingdom of the Father, and befouled his
 beard; and I have prevailed against the Kingdom of the Son, and torn off
 his Phallus; but against the Kingdom of the Holy Ghost shall I strive
 and not prevail. The three slain doves are my threefold blasphemy
-against him; but their blood shall make fertile the sand[**21**](#21),
+against him; but their blood shall make fertile the sand[**21**](#21.md),
 and I writhe in blackness and horror of hate, and prevail not.
 
 (Then the demon tried to make the Scribe laugh at Magick, and to think

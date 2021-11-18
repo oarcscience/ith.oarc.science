@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](kmu08)  [Next](kmu10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](kmu08)  [Next](kmu10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ helped many times by my Master thru the power of Dharana Yoga, as once
 being lost in the mountains, and again when there was no food or
 shelter, he sent me telepathic messages directing me which way I should
 go, although he was hundreds of miles from the place where I was. The
-power of Dharana is the most wonderful of the [wondrous](errata.htm#8).
+power of Dharana is the most wonderful of the [wondrous](errata.htm#8.md).
 
 Once when sitting by the Master in a small town, a chicken-hawk swooped
 down upon a small chicken. The little fellow
@@ -51,7 +51,7 @@ at once the chicken ran to his mother, and the hawk flew in the air.
 That was all done by the power of Samyama.
 
 What is Samyama and Dharana? It is of three kinds: gross, subtle and
-luminous. Mastery of mind and [development](errata.htm#9) of will, What
+luminous. Mastery of mind and [development](errata.htm#9.md) of will, What
 is will? Yogis know will is power. It can do anything for you and will
 set you free. The Master said: "By will man may become a Deva (like
 God), or the opposite." The Bible says: "As a man thinketh in his heart,
@@ -157,7 +157,7 @@ bed of six-inch nails driven point upward through a wooden door and
 reclined on this remarkable couch while an assistant weighing about 160
 pounds stood for several minutes on the fakir's chest.
 
-"After this [demonstration](errata.htm#10) the fakir's back, examined by
+"After this [demonstration](errata.htm#10.md) the fakir's back, examined by
 some of the physicians present, showed distinct marks of the points of
 the nails but no blood was shed and the fakir claimed to feel no pain.
 That the hat points and knives were actually thrust through the flesh
@@ -225,8 +225,8 @@ their ears a little as man's animal ancestors used to do.
 Assistant Police Commissioner of the Gold Coast Colony, in Africa,
 recently reported an instance in which a highly intelligent native
 willed himself to die as a result of a quarrel and supposed witchcraft.
-Even on his body alter death [European](errata.htm#11) physicians could
-discover no reason [whatsoever](errata.htm#12) for death or even for
+Even on his body alter death [European](errata.htm#11.md) physicians could
+discover no reason [whatsoever](errata.htm#12.md) for death or even for
 illness.
 
 "But if a strong will can stop a fakir's heartbeat at will, make him
@@ -240,7 +240,7 @@ a book. It can only be taught to those who are seeking truth, not to the
 faithless. But I will explain as much as can be given in any book.
 
 First I will give the idea of Samyama from Katha
-[Upanishad](errata.htm#13): "The Wise should sink the Speech into Mind.
+[Upanishad](errata.htm#13.md): "The Wise should sink the Speech into Mind.
 Mind should sink into Intellect. Intellect should sink into Self. The
 Self should sink into the Great Self. The Great Self should sink into
 Eternal Peace (Self-God).
@@ -287,7 +287,7 @@ operations performed with the instruments.
 consciousness, into our Chaitanyam. But when we say, taking it into our
 Chaitanyam. what do we imply? Whence do we take it? The European says
 from outside, we say from inside, from Chaitanyam itself. In other
-words, all knowledge is an act of [consciousness](errata.htm#14)
+words, all knowledge is an act of [consciousness](errata.htm#14.md)
 operating on something in the consciousness itself. In the first place
 everything we know exists in Parabrahma, that is, in our indivisible,
 universal self-existence. It is there, but not yet expressed, not
@@ -327,7 +327,7 @@ operations, first, objective
 
 <span class="contnote">\[paragraph continues\]</span> Upalabdhi or
 experience, secondly, intellectual statement of your understanding of
-the thing, thirdly, subjective Upalabdhi or [spiritual](errata.htm#15)
+the thing, thirdly, subjective Upalabdhi or [spiritual](errata.htm#15.md)
 experience. The scientist begins from the bottom and climbs if he can,
 to the top. The Yogin begins from the top and descends for perfect proof
 to the bottom. You are not scientists, you are sadhaks. Therefore, when
@@ -448,4 +448,4 @@ By Master Arabinda Ghose.
 
 ------------------------------------------------------------------------
 
-[Next: Samadhi Yoga](kmu10)
+[Next: Samadhi Yoga](kmu10.md)

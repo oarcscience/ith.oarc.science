@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](mmm05)  [Next](mmm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](mmm05)  [Next](mmm07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Traces of a Hidden Tradition in Masonry and Medieval Mysticism*, by
 Isabel Cooper-Oakley, \[1900\], at Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ Which was an image of the mighty world.
 </div>
 
 THE legend of the founding of the City Spiritual—the Kingdom of the Holy
-Grail <span id="fr_127"></span>[\*](#fn_127) or San Grëal—is so
+Grail <span id="fr_127"></span>[\*](#fn_127.md) or San Grëal—is so
 interwoven with myth and superadded tradition that to trace its origin
 is as difficult as to see through a dense fog the delicate outline of
 some fair gothic
@@ -67,17 +67,17 @@ seek for the Kingdom Spiritual, the " house not made with hands, eternal
 in the heavens."
 
 Gathered round the " Holy Grail" are the Knights—the guardians of the
-"Grail Kingdom," led by Titurel, <span id="fr_128"></span>[\*](#fn_128)
+"Grail Kingdom," led by Titurel, <span id="fr_128"></span>[\*](#fn_128.md)
 the mystic King, to whom is entrusted the charge of the Holy Teaching.
 Then later we find the knights Templars taking up the sacred
-mission. <span id="fr_129"></span>[†](#fn_129)
+mission. <span id="fr_129"></span>[†](#fn_129.md)
 
 <span id="page_139">p. 139</span>
 
 <span class="contnote">\[paragraph continues\]</span> But everywhere and
 always is there the inner doctrine for the few who seek the Holy Grail,
 for it is invisible to all but those who form the "Ingesinde" <span
-id="fr_130"></span>[\*](#fn_130) (inner circle).
+id="fr_130"></span>[\*](#fn_130) (inner circle.md).
 
 The chief function of the Grail Kingdom was to supply a constant type of
 a divinely governed society, a society ruled from the inner and
@@ -88,9 +88,9 @@ spiritual planes, and to train in "the kingly art of ruling"
 leaders for such communities as needed them. It was destined to be a
 practical civilizing power as well as a Palace Spiritual, not a passive
 force only, but active and powerful for the suppression of all evil on
-earth. Titurel <span id="fr_131"></span>[\*](#fn_131) is the type and
+earth. Titurel <span id="fr_131"></span>[\*](#fn_131.md) is the type and
 ideal leader round whom revolves the whole of mystic or celestial
-chivalry. <span id="fr_132"></span>[†](#fn_132) The Grail kingship is
+chivalry. <span id="fr_132"></span>[†](#fn_132.md) The Grail kingship is
 indeed the paradigm of the highest perfection, "the goal of all the
 saints," but the goal cannot be reached except by the conquest of the
 lower nature; every human being must struggle and must suffer ere he
@@ -109,12 +109,12 @@ from which developed all the "Arthurian" legends, all the "Graal-sagas"
 of Germany, and the "Romans" of Provence. Two dominant variants of the
 earliest traditions have come to us.
 
-1\. The Grail as a Secret Gospel <span id="fr_133"></span>[‡](#fn_133)
+1\. The Grail as a Secret Gospel <span id="fr_133"></span>[‡](#fn_133.md)
 or Tradition.
 
 <span id="page_141">p. 141</span>
 
-2\. The Grail as a Mystic Cup <span id="fr_134"></span>[\*](#fn_134)
+2\. The Grail as a Mystic Cup <span id="fr_134"></span>[\*](#fn_134.md)
 with miraculous power.
 
 Both variants are of vital interest to the theosophic student; we must
@@ -134,7 +134,7 @@ on this earth.
 #### THE ORIGIN OF THE TRADITION.—I.
 
 This can be definitely followed through Arabia to India; for according
-to a large number of authorities, <span id="fr_135"></span>[†](#fn_135)
+to a large number of authorities, <span id="fr_135"></span>[†](#fn_135.md)
 the tradition is mainly Eastern in origin,
 
 <span id="page_142">p. 142</span>
@@ -142,12 +142,12 @@ the tradition is mainly Eastern in origin,
 especially that of the Gral-king and Founder, with which are linked most
 intimately those of Parsifal and Lohengrin. Rosenkranz divides them as
 follows: Titurel is Oriental in its inception; Parsifal is Gallic (from
-Anjou); and Lohengrin <span id="fr_136"></span>[\*](#fn_136) is Belgian.
+Anjou); and Lohengrin <span id="fr_136"></span>[\*](#fn_136.md) is Belgian.
 
 The most sympathetic and interesting version perhaps, is that given by
-Görres <span id="fr_137"></span>[†](#fn_137) in his introduction to the
+Görres <span id="fr_137"></span>[†](#fn_137.md) in his introduction to the
 translation of the oldest MS. which is in the Vatican Library. This
-manuscript was seen by von Hagen, <span id="fr_138"></span>[‡](#fn_138)
+manuscript was seen by von Hagen, <span id="fr_138"></span>[‡](#fn_138.md)
 who gives an interesting account of it in his letters; another sketch of
 the Gral-saga, but less sympathetic, is given by Dr. Bergman in a small
 pamphlet printed in 1870. From all these various sources must be
@@ -165,7 +165,7 @@ Eschenbach, a Troubadour of a noble but poor family; born within the
 last thirty years of the twelfth century, he died about 1220; his
 monument was still existing at Eschenbach in Bavaria in the fifteenth
 century. He was one of a brilliant circle of Troubadours or
-Minnesänger <span id="fr_139"></span>[\*](#fn_139) who at that period
+Minnesänger <span id="fr_139"></span>[\*](#fn_139.md) who at that period
 were gathered at the then famous Court of Herman, Landgraf of Thuringia.
 Wolfram began a history in verse of Titurel, the old Gral-king, which
 was however left in an unfinished and fragmentary condition at his
@@ -173,7 +173,7 @@ death. Then about the year 1270, Albrecht von Schaffenberg wrote a poem
 upon Titurel which for long passed as the work of von Eschenbach. It was
 called *Der Jüngere Titurel*, to distinguish it from the original poem
 of Wolfram. Speaking of it San Marte <span
-id="fr_140"></span>[†](#fn_140) says:
+id="fr_140"></span>[†](#fn_140.md) says:
 
 <span class="small">Titurel—two fragments to which, according to the
 opening lines of the first piece, this title has been given, should
@@ -193,18 +193,18 @@ until</span>
 This so-called *Jüngere Titurel* and the *Parzifal*, both of which come
 from the same source, contain pretty well the whole history of the Holy
 Grail and in many passages they supplement one another. <span
-id="fr_141"></span>[\*](#fn_141)</span>
+id="fr_141"></span>[\*](#fn_141.md)</span>
 
 These form undoubtedly the most authentic versions of the Gral legend,
 but there is another line of tradition written down by Chrestien de
 Troyes, which eliminates the oriental and gives the purely Christian
 version of the vision of Joseph of Arimathæa. Of this Wolfram was
-cognizant, or, as Nutt <span id="fr_142"></span>[†](#fn_142) tells us,
+cognizant, or, as Nutt <span id="fr_142"></span>[†](#fn_142.md) tells us,
 
 <span class="small">He knew Chrestien's poem well, and repeatedly refers
 to it, but with great contempt, as being the wrong version of the story,
 whereas he holds the true version from Kyot <span
-id="fr_143"></span>[‡](#fn_143) the singer, a "Provenzal," who found the
+id="fr_143"></span>[‡](#fn_143.md) the singer, a "Provenzal," who found the
 tale of Parzifal</span>
 
 <span id="page_145">p. 145</span>
@@ -220,11 +220,11 @@ exclusion of the rest. The basis of the Christian legend is from the
 Gnostic tradition, and said to have been founded on the Apocryphal
 Gospel of Nicodemus, which was translated into Provençal verse, a
 "mystical Gospel" in every sense, says Paulin Paris, <span
-id="fr_144"></span>[\*](#fn_144) who, in referring to the MS. in the
+id="fr_144"></span>[\*](#fn_144.md) who, in referring to the MS. in the
 Vatican, further writes: "This latter text was of great antiquity and
 evidently mystical, showing a profound knowledge of the Apocryphal <span
-id="fr_145"></span>[†](#fn_145) Gospels containing the secret teachings
-of the Eucharist." <span id="fr_146"></span>[‡](#fn_146) This of course
+id="fr_145"></span>[†](#fn_145.md) Gospels containing the secret teachings
+of the Eucharist." <span id="fr_146"></span>[‡](#fn_146.md) This of course
 refers to the Christian aspect, and had to do with the Christian arcane
 doctrines, but this aspect must be left for treatment at some future
 time.
@@ -239,7 +239,7 @@ important details in order to form a clear conception of the many forces
 which were at play during this epoch.
 
 It has been said that Wolfram von Eschenbach, <span
-id="fr_147"></span>[\*](#fn_147) the writer of *Titurel*, was a
+id="fr_147"></span>[\*](#fn_147.md) the writer of *Titurel*, was a
 Troubadour, and according to some authorities Guiot (or Kyot) de Provins
 was a Jongleur. Who, then, are these Troubadours and Jongleurs who
 played a part so important in the so-called dark ages? On another
@@ -247,7 +247,7 @@ occasion we hope to take up this subject separately, forming as it does
 an important link between eastern mysticism and western development; it
 will be enough for the present to cite one important Catholic writer,
 who makes a very clear statement as to the hidden functions of these
-Troubadours. <span id="fr_148"></span>[†](#fn_148) Says Aroux:
+Troubadours. <span id="fr_148"></span>[†](#fn_148.md) Says Aroux:
 
 <span class="small">The Troubadours, hostile to Rome, were, to say
 the</span>
@@ -259,7 +259,7 @@ way constituted one of the powers of society and took up sides for
 republican liberty in the towns of the south, for the feudal suzerainty
 and its patrons—that is to say chivalry—against the church or authority.
 . . . for chivalry itself had become a machinery of war on the side of
-the Albigensian <span id="fr_149"></span>[\*](#fn_149) heresy.</span>
+the Albigensian <span id="fr_149"></span>[\*](#fn_149.md) heresy.</span>
 
 Strange and striking statements, but they can be tested and verified by
 testimony from all sides. Through these secret mystical channels came
@@ -282,7 +282,7 @@ mysticism. He also studied for some time in Spain at Toledo
 under the learned Arabian philosophers, to whom the Western world owes a
 heavy debt. Meister Guiot le Provençal found at Toledo an Arabian book
 compiled by an astrologer and philosopher named Flegetanis, <span
-id="fr_150"></span>[\*](#fn_150) containing the story of the Holy Grëal.
+id="fr_150"></span>[\*](#fn_150.md) containing the story of the Holy Grëal.
 This volume was written in a foreign character, of which Guiot was
 compelled to make himself master. After reading this Guiot began to
 search the records of other countries, Brittany, France, Ireland, and he
@@ -292,11 +292,11 @@ his history, but, as Warton and Görres both insist, the scene for the
 most part is laid in the East, and a large proportion of the names are
 of oriental origin. Then, again, the Saracens are always spoken of with
 consideration; Christian knights enroll themselves under the banner of
-the Caliph, <span id="fr_151"></span>[†](#fn_151) and no trace of hatred
+the Caliph, <span id="fr_151"></span>[†](#fn_151.md) and no trace of hatred
 is to be found between the followers of the crescent and the cross.
 Speaking of the widespread development of this mysterious legend, or
 tradition of the Holy Grail, Görres <span
-id="fr_152"></span>[‡](#fn_152) says:
+id="fr_152"></span>[‡](#fn_152.md) says:
 
 <span class="small">From the waters of the Ganeas (Ganges) in the
 land</span>
@@ -304,7 +304,7 @@ land</span>
 <span id="page_149">p. 149</span>
 
 <span class="small">of Tribalibot, that is Palibothra <span
-id="fr_153"></span>[\*](#fn_153) in Tricalinga, the Sanskrit name of the
+id="fr_153"></span>[\*](#fn_153.md) in Tricalinga, the Sanskrit name of the
 Ganges Provinces, it has spread itself over the Caucasus, or as the poem
 more correctly says, Kukkhasus, or again, as Titurel says, Kaukasus,
 where the red gold grows, from which the heathen weave many a beautiful
@@ -313,14 +313,14 @@ weave their glittering uniform amid the fire-flames' dance, and where
 the Queen Gekurdille rules.</span>
 
 Everywhere can be found the tradition of a sacred cup, <span
-id="fr_154"></span>[†](#fn_154) and it is said by Flegetanis, who had
+id="fr_154"></span>[†](#fn_154.md) and it is said by Flegetanis, who had
 carefully recorded the result of his nocturnal studies at Toledo, that
-this mysterious cup <span id="fr_155"></span>[‡](#fn_155) with the name
+this mysterious cup <span id="fr_155"></span>[‡](#fn_155.md) with the name
 of Graal emblazoned on it was left behind on earth by a band of
-spirits <span id="fr_156"></span>[§](#fn_156) as they winged their way
+spirits <span id="fr_156"></span>[§](#fn_156.md) as they winged their way
 to their celestial abode. This holy vessel is delivered by an angel to
 Titurel, at whose birth an angel had announced that God had chosen him
-to be a defender of the faith <span id="fr_157"></span>[¦¦](#fn_157)
+to be a defender of the faith <span id="fr_157"></span>[¦¦](#fn_157.md)
 
 <span id="page_150">p. 150</span>
 
@@ -332,14 +332,14 @@ the elect, the group of humanity's perfected sons.
 
 ### Footnotes
 
-<span id="fn_127"></span>[137:\*](mmm06.htm#fr_127) See *The
+<span id="fn_127"></span>[137:\*](mmm06.htm#fr_127.md) See *The
 Theosophical Review*, xxiii., pp. 9-16. Hardcastle (Miss A. L. B.), "The
 Secret of the Holy Grail."
 
-<span id="fn_128"></span>[138:\*](mmm06.htm#fr_128) Hammer-Purgstall
+<span id="fn_128"></span>[138:\*](mmm06.htm#fr_128.md) Hammer-Purgstall
 (Baron J. von), *Fundgruben des Orients*, vi. 24., n. 33. Vienna, 1818.
 
-<span id="fn_129"></span>[138:†](mmm06.htm#fr_129) See Naef (F.),
+<span id="fn_129"></span>[138:†](mmm06.htm#fr_129) See Naef (F..md),
 *Opinions religieuses des Templiers*, p. 36. Nismes; 1890. "The cult
 with which this mysterious chalice is surrounded far surpasses in
 grandeur and exaltation the worship paid by the Church even to the most
@@ -349,7 +349,7 @@ which unveils so clearly the symbol and the allegory." And again p. 38,
 striking symbol of Mystic Wisdom (*Sagesse mystique*) and of the
 communion which is established between God and man?"
 
-<span id="fn_130"></span>[139:\*](mmm06.htm#fr_130) J. Rutherford writes
+<span id="fn_130"></span>[139:\*](mmm06.htm#fr_130.md) J. Rutherford writes
 (*The Troubadours, their Loves and Lyrics*, p. 43. London, 1873):
 
 "The body of the learned in the Middle Ages—or the inner circle of that
@@ -380,25 +380,25 @@ the Canto in which it is said that the author, Pulci, was aided by the
 erudite Marsilio Ficino." See Cantù (Cesare), *Gli Eretici d’ Italia,*
 i. 178. Torino, 1865.
 
-<span id="fn_131"></span>[140:\*](mmm06.htm#fr_131) There are two
+<span id="fn_131"></span>[140:\*](mmm06.htm#fr_131.md) There are two
 Titurels; the poem *Titurel* of Wolfram von Eschenbach; and, later, *Der
 Jüngere Titurel*, by Albrecht von Scharffenberg, written about 1270. An
 interesting notice on the subject is given by Vilmar (A. F. C.),
 *Geschichte der deutschen National-Literatur*, 147, Marburg u. Leipsig,
 1870.
 
-<span id="fn_132"></span>[140:†](mmm06.htm#fr_132) Chivalry was divided
+<span id="fn_132"></span>[140:†](mmm06.htm#fr_132.md) Chivalry was divided
 into Heavenly and Earthly orders during part of the Middle Ages,
 especially in Spain.
 
-<span id="fn_133"></span>[140:‡](mmm06.htm#fr_133) Aroux (E.), *Les
+<span id="fn_133"></span>[140:‡](mmm06.htm#fr_133) Aroux (E..md), *Les
 Mystères de la Chevalerie*, p. 166. Paris, 1858. Paris (A. Paulin), *Les
 Romans de la Table Ronde*, Addenda to p. 102. Vol. I. Paris, 1868.
 *Helinandi Op*., Ed. Migne, *Patrol*., Vol. CCXII., col. 814. Fauriel
 (C. C.), *Histoire de la Poésie Provençale*, ii. 332, *et seq*. Paris,
 1846.
 
-<span id="fn_134"></span>[141:\*](mmm06.htm#fr_134) Burnouf (Émile)
+<span id="fn_134"></span>[141:\*](mmm06.htm#fr_134) Burnouf (Émile.md)
 writes as follows: "La vraie légende du Vase Sacré est celle qu’on peut
 suivre dans le passé en remontant d’aujourd’hui même par les textes
 chrétiens, grecs, perses et bouddhiques jusqu’ aux hymnes du Véda, où
@@ -410,7 +410,7 @@ appendice sur le Saint-Graal, p. 189. Paris, 1896.
 Hammer-Purgstall (Baron J. von), *Fundgruben des Orients*, vi. p. 24.
 Rio, *L’ Université Catholique*, i. p. 241.
 
-<span id="fn_135"></span>[141:†](mmm06.htm#fr_135) Rosenkranz (Dr.
+<span id="fn_135"></span>[141:†](mmm06.htm#fr_135.md) Rosenkranz (Dr.
 Karl), *Handbuch einer Allgemeinen Geschichte der Poesie*, ii., 84.
 Halle, 1832. Hagen (F. H. von der), *Heldenbilde aus dent Sagen
 Kreisen*, II., iii. 8. Breslau, 1823. Simrock (Dr. K.), *Parzifal und
@@ -421,39 +421,39 @@ Eschenbach—Parzifal und Titurel*, pt. i. p. xxiv. Leipzig, 1870. Vilmar
 (A. F. C.), *Geschichte der Deutschen National-Literatur*, i. 129-130.
 Marburg and Leipzig, 1870.
 
-<span id="fn_136"></span>[142:\*](mmm06.htm#fr_136) The history of
+<span id="fn_136"></span>[142:\*](mmm06.htm#fr_136.md) The history of
 Lohengrin, or Garin-le-Loherain was first treated by Hugo Metullus, in
 1150.
 
-<span id="fn_137"></span>[142:†](mmm06.htm#fr_137) Görres (Joseph),
+<span id="fn_137"></span>[142:†](mmm06.htm#fr_137) Görres (Joseph.md),
 *Lohengrin, ein altdeutsches Gedicht nach der Abschrift des
 Vaticanischen Manuscriptes, von Ferdinand Glöckle herausgegeben*. 1813.
 
 Koberstein (A.), *Grundriss zur Geschichte der Deutschen
 National-Literatur*, p. 50. Leipzig, 1830.
 
-<span id="fn_138"></span>[142:‡](mmm06.htm#fr_138) Hagen (F. H. von
+<span id="fn_138"></span>[142:‡](mmm06.htm#fr_138.md) Hagen (F. H. von
 der), *Briefe in die Heimat*, ii. 305. Breslau, 1818.
 
-<span id="fn_139"></span>[143:\*](mmm06.htm#fr_139) *Trouvères* in
+<span id="fn_139"></span>[143:\*](mmm06.htm#fr_139.md) *Trouvères* in
 Northern France; *Troubadours* in the South of France; *Minnesänger* in
 Germany; *Skalds* or *Scalds* in Norway; *Bards* in Wales and Ancient
 Britain.
 
-<span id="fn_140"></span>[143:†](mmm06.htm#fr_140) San Marte (A.
+<span id="fn_140"></span>[143:†](mmm06.htm#fr_140.md) San Marte (A.
 Schulz), *Leben and Dichten von W. v. Eschenbach*, xiv. Magdeburg, 1836.
 
-<span id="fn_141"></span>[144:\*](mmm06.htm#fr_141) The fragments of
+<span id="fn_141"></span>[144:\*](mmm06.htm#fr_141.md) The fragments of
 "Titurel" written by Wolfram were first made known by Docens (1810).
 They are in Karl Lachmann's edition of Wolfram v. Eschenbach (1833). The
 only edition of the *Jüngere Titurel*, which exists in a good many MSS.,
 is that of Hahn (1842).
 
-<span id="fn_142"></span>[144:†](mmm06.htm#fr_142) Nutt (Alfred),
+<span id="fn_142"></span>[144:†](mmm06.htm#fr_142) Nutt (Alfred.md),
 *Studies on the Legend of the Holy Grail*, p. 6. London, 1888. See *The
 Theosophical Review*, xxiii. 10.
 
-<span id="fn_143"></span>[144:‡](mmm06.htm#fr_143) Many materialistic
+<span id="fn_143"></span>[144:‡](mmm06.htm#fr_143.md) Many materialistic
 critics have tried to disprove the very existence of Kyot (or Guiot de
 Provins), and further have tried to prove that the tradition was
 invented by Wolfram. But research shows definitely that at this very
@@ -471,19 +471,19 @@ Alterthums. (III., pt. iii., pp. I-40). The author identifies the
 supposed mythical Guiot von Provence with the historical character Guiot
 von Provins (the town in Brie?) which is called *Provîs* by Wolfram.
 
-<span id="fn_144"></span>[145:\*](mmm06.htm#fr_144) Paris (A. Paulin),
+<span id="fn_144"></span>[145:\*](mmm06.htm#fr_144) Paris (A. Paulin.md),
 *Les Manuscrits françois de la Bibliothèque du Roi*. Paris, 1848. Vol.
 vii., p. 377.
 
-<span id="fn_145"></span>[145:†](mmm06.htm#fr_145) "Books withdrawn from
+<span id="fn_145"></span>[145:†](mmm06.htm#fr_145.md) "Books withdrawn from
 public perusal, or in other words, hidden or secret." See Mead (G. R.
 S), "The Secret Sermon on the Mountain," *The Theosophical Review*,
 xxiv. 26.
 
-<span id="fn_146"></span>[145:‡](mmm06.htm#fr_146) See Fauriel (C. C.),
+<span id="fn_146"></span>[145:‡](mmm06.htm#fr_146) See Fauriel (C. C..md),
 *Histoire de la Poésie Provençale*, iii. 5. Paris, 1846.
 
-<span id="fn_147"></span>[146:\*](mmm06.htm#fr_147) Mysticism was "in
+<span id="fn_147"></span>[146:\*](mmm06.htm#fr_147.md) Mysticism was "in
 the air" at this epoch; in Calabria the Abbate Gioachimo di Flor was
 preaching his *Evangelio Eterno*. Educated at the Court of the Duca di
 Puglia, a pilgrim to the Holy Land, a monk at Mount Tabor, he became a
@@ -500,32 +500,32 @@ Dominican named Gervaise in 1745. A full summary of his opinions, and
 those contained in *The Everlasting Gospel*, may be found in Natalis
 Alexander's *Ecclesiastical History*, VIII., pp. 73-76."
 
-<span id="fn_148"></span>[146:†](mmm06.htm#fr_148) Aroux (Eugène)
+<span id="fn_148"></span>[146:†](mmm06.htm#fr_148) Aroux (Eugène.md)
 *Dante, Hérétique, Révolutionnaire et Socialiste; Révélation d’un
 Catholique sur le Moyen Age*, p. 14. Paris, 1854.
 
-<span id="fn_149"></span>[147:\*](mmm06.htm#fr_149) The mystic doctrines
+<span id="fn_149"></span>[147:\*](mmm06.htm#fr_149.md) The mystic doctrines
 of the Albigenses will be treated later. They believed in re-incarnation
 and other fundamental theosophic doctrines.
 
-<span id="fn_150"></span>[148:\*](mmm06.htm#fr_150) Flegetanis was both
+<span id="fn_150"></span>[148:\*](mmm06.htm#fr_150.md) Flegetanis was both
 an astronomer and an astrologer. Both Görres and Warton (Thomas Warton,
 *The History of English Poetry*, Vol. I., London, 1824) consider that
 Flegetanis is a corruption of the Arabic name Felek-daneh, an
 astronomer.
 
-<span id="fn_151"></span>[148:†](mmm06.htm#fr_151) It can be proved from
+<span id="fn_151"></span>[148:†](mmm06.htm#fr_151.md) It can be proved from
 various sources that there was a friendly interchange of visits between
 the Caliph at Cairo and the Templars. (King, C. W., *The Gnostics and
 their Remains*, p. 418. London, 1887.)
 
-<span id="fn_152"></span>[148:‡](mmm06.htm#fr_152) *Lohengrin*, p. ix.
+<span id="fn_152"></span>[148:‡](mmm06.htm#fr_152.md) *Lohengrin*, p. ix.
 
-<span id="fn_153"></span>[149:\*](mmm06.htm#fr_153) "Pâtaliputra
+<span id="fn_153"></span>[149:\*](mmm06.htm#fr_153.md) "Pâtaliputra
 (Palibothra des Grecs) qui est aujourd’hui Patna." Burnout, *op. cit.*
 p. 109.
 
-<span id="fn_154"></span>[149:†](mmm06.htm#fr_154) In the Persian
+<span id="fn_154"></span>[149:†](mmm06.htm#fr_154.md) In the Persian
 tradition a similar miraculous and mystical vessel was given to Jemshad,
 the pattern of perfect kings, in whose reign the Golden Age was realised
 in Iran. He was the favourite of Ormuzd and his legitimate
@@ -535,21 +535,21 @@ Alexander the Great. It is a symbol of the world. See Burnouf (Émile),
 *Le Vase Sacré et ce qu’il contient. Dans l’Inde, la Perse, la Grèce et
 dans l’Eglise chrétienne*, p. 189. Paris, 1896.
 
-<span id="fn_155"></span>[149:‡](mmm06.htm#fr_155) In Grecian mythology
+<span id="fn_155"></span>[149:‡](mmm06.htm#fr_155.md) In Grecian mythology
 Apollo, or Helios, rises out of a golden-winged cup.
 
-<span id="fn_156"></span>[149:§](mmm06.htm#fr_156) Blavatsky (H. P.)
+<span id="fn_156"></span>[149:§](mmm06.htm#fr_156) Blavatsky (H. P..md)
 *The Secret Doctrine*, ii. 379: "The beneficent Entities who . . .
 brought light to the world, and endowed Humanity with intellect and
 reason."
 
-<span id="fn_157"></span>[149:¦¦](mmm06.htm#fr_157) The Gnosis, or
+<span id="fn_157"></span>[149:¦¦](mmm06.htm#fr_157.md) The Gnosis, or
 Wisdom Mysteries.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Part II.](mmm07)
+[Next: Part II.](mmm07.md)
 
 </div>

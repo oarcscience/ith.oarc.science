@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf17) [Next](bulf19) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf17) [Next](bulf19.md) 
 
 # CHAPTER XIX.
 
@@ -259,4 +259,4 @@ The beautiful legend of the "Choice of Hercules" may be found in the
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XX. Theseus- Daedalus- Castor And Pollux.](bulf19)
+Next: [CHAPTER XX. Theseus- Daedalus- Castor And Pollux.](bulf19.md)

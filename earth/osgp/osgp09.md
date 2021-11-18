@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](osgp08)  [Next](osgp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](osgp08)  [Next](osgp10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Origin and Significance of the Great Pyramid*, by C. Staniland
 Wake, \[1882\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ Dr. Sprenger says, further:—"In the Syrian chronicle of Bar-Hebræus
 (translated into Latin by Professor Bruns), Enoch is said to have
 invented letters and architecture, under the title of Trismigistus, or
 of Hermes, to have built many cities and established laws, to have
-taught the worship of God, <span id="fr_102"></span>[\*](#fn_102) and
+taught the worship of God, <span id="fr_102"></span>[\*](#fn_102.md) and
 astronomy, to give alms and tithes, to offer up first fruits, libations,
 etc., to abstain from unlawful foods, and drunkenness, and to keep
 feasts at the rising of the sun, or new moons, and at the ascent of the
@@ -99,10 +99,10 @@ form of their construction was called Makhrut."
 
 ### Footnotes
 
-<span id="fn_102"></span>[95:\*](osgp09.htm#fr_102) "This agrees with
+<span id="fn_102"></span>[95:\*](osgp09.htm#fr_102.md) "This agrees with
 the Biblical statement that in the days of Enos men began "to call on
 the name of the Lord," Gen. iv. 26.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix II](osgp10)
+[Next: Appendix II](osgp10.md)

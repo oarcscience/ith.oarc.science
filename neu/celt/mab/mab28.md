@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab27)  [Next](mab29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab27)  [Next](mab29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 
 # THE DREAM OF MAXEN WLEDIG
 
-Maxen Wledig [443a](mab29.htm#xref_443a) was emperor of Rome, and he was
+Maxen Wledig [443a](mab29.htm#xref_443a.md) was emperor of Rome, and he was
 a comelier man, and a better and a wiser than any emperor that had been
 before him. And one day he held a council of kings, and he said to his
 friends, "I desire to go to-morrow to hunt." And the next day in the
@@ -344,4 +344,4 @@ here it ends.
 
 ------------------------------------------------------------------------
 
-[Next: Note on Maxen Wledig](mab29)
+[Next: Note on Maxen Wledig](mab29.md)

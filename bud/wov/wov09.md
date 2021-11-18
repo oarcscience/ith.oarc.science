@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](wov08)  [Next](wov10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](wov08)  [Next](wov10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddha's Way of Virtue*, by W.D.C Wagiswara and K.J. Saunders,
 \[1920\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte)
 
 #### § V
 
-### THE FOOL <span id="fr_4"></span>[\*](#fn_4)
+### THE FOOL <span id="fr_4"></span>[\*](#fn_4.md)
 
 60\. <span class="smallcaps">Long</span> is the night to the watcher,
 long is the league to the weary traveller: long is the chain of
@@ -79,9 +79,9 @@ in solitude, not seeking the praise of men.
 
 ### Footnotes
 
-<span id="fn_4"></span>[30:\*](wov09.htm#fr_4) *cf.* Introduction, pp.
+<span id="fn_4"></span>[30:\*](wov09.htm#fr_4.md) *cf.* Introduction, pp.
 14, 15.
 
 ------------------------------------------------------------------------
 
-[Next: § VI The Wise Man](wov10)
+[Next: § VI The Wise Man](wov10.md)

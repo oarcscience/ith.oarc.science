@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe057)  [Next](prwe059) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe057)  [Next](prwe059.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ like many other local names."
 
 ------------------------------------------------------------------------
 
-[Next: Merrymaids and Merrymen](prwe059)
+[Next: Merrymaids and Merrymen](prwe059.md)

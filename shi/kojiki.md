@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../index)  [Shinto](index)  
-[Complete etext of the Kojiki, Chamberlain tr](kj/index)
+[Intangible Textual Heritage](../index)  [Shinto](index.md)  
+[Complete etext of the Kojiki, Chamberlain tr](kj/index.md)
 
 ------------------------------------------------------------------------
 

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb07)  [Next](gyfb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb07)  [Next](gyfb09.md) 
 
 </div>
 
@@ -231,6 +231,6 @@ homes; and history tells us no more about them.
 
 ------------------------------------------------------------------------
 
-[Next: Fortunatus and His Purse](gyfb09)
+[Next: Fortunatus and His Purse](gyfb09.md)
 
 </div>

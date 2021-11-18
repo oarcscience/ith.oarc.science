@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had17)  [Next](had19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had17)  [Next](had19.md) 
 
 ------------------------------------------------------------------------
 
@@ -601,4 +601,4 @@ security for ourselves and for you."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Charity and Zakāt](had19)
+[Next: Chapter XVI: Charity and Zakāt](had19.md)

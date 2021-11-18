@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte.md)
 
 </div>
 
@@ -36,8 +36,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rgq00)    [Page
-Index](pageidx)    [Text \[Zipped\]](rgq.txt.gz)
+[Contents](#contents)    [Start Reading](rgq00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](rgq.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -56,32 +56,32 @@ treasure trove of ancient lore which makes fascinating reading.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rgq00)  
+<span id="contents"></span> [Title Page](rgq00.md)  
 <span id="section_000"></span>
 
 ### The Roman Questions
 
-[Introduction](rgq01)  
-[1-9.](rgq02)  
-[10-19.](rgq03)  
-[20-29.](rgq04)  
-[30-39.](rgq05)  
-[40-49.](rgq06)  
-[50-59.](rgq07)  
-[60-69.](rgq08)  
-[70-79.](rgq09)  
-[80-89.](rgq10)  
-[90-99.](rgq11)  
-[100-109.](rgq12)  
-[110-113.](rgq13)  
+[Introduction](rgq01.md)  
+[1-9.](rgq02.md)  
+[10-19.](rgq03.md)  
+[20-29.](rgq04.md)  
+[30-39.](rgq05.md)  
+[40-49.](rgq06.md)  
+[50-59.](rgq07.md)  
+[60-69.](rgq08.md)  
+[70-79.](rgq09.md)  
+[80-89.](rgq10.md)  
+[90-99.](rgq11.md)  
+[100-109.](rgq12.md)  
+[110-113.](rgq13.md)  
 <span id="section_001"></span>
 
 ### The Greek Questions
 
-[Introduction](rgq14)  
-[1-9.](rgq15)  
-[10-19.](rgq16)  
-[20-29.](rgq17)  
-[30-39.](rgq18)  
-[40-49.](rgq19)  
-[50-59.](rgq20)  
+[Introduction](rgq14.md)  
+[1-9.](rgq15.md)  
+[10-19.](rgq16.md)  
+[20-29.](rgq17.md)  
+[30-39.](rgq18.md)  
+[40-49.](rgq19.md)  
+[50-59.](rgq20.md)  

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc06)  [Next](bosc08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc06)  [Next](bosc08.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,4 +162,4 @@ make provision for the poor and feeble.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Instructions Given to Their Children](bosc08)
+[Next: Chapter VI. The Instructions Given to Their Children](bosc08.md)

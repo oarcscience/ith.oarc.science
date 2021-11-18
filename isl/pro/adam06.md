@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam05)  [Next](adam07) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam05)  [Next](adam07.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ hands by the rights of the prophet and his purified Household (PUT)
 
 ------------------------------------------------------------------------
 
-[Next: The reasons for getting Adam down from paradise to earth](adam07)
+[Next: The reasons for getting Adam down from paradise to earth](adam07.md)

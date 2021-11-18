@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs24)  [Next](abs26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs24)  [Next](abs26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -28,14 +28,14 @@ Appendices
 
 |     |                            |                           |
 |-----|----------------------------|---------------------------|
-| A.  | ABSMal Connotations        | [453](abs26.htm#page_453) |
-| B.  | The Importance of Feet     | [463](abs27.htm#page_463) |
-| C.  | Where We Come In           | [477](abs28.htm#page_477) |
-| D.  | Others Involved            | [479](abs29.htm#page_479) |
-| E.  | Sir Edmund Hillary's Scalp | [483](abs30.htm#page_483) |
+| A.  | ABSMal Connotations        | [453](abs26.htm#page_453.md) |
+| B.  | The Importance of Feet     | [463](abs27.htm#page_463.md) |
+| C.  | Where We Come In           | [477](abs28.htm#page_477.md) |
+| D.  | Others Involved            | [479](abs29.htm#page_479.md) |
+| E.  | Sir Edmund Hillary's Scalp | [483](abs30.htm#page_483.md) |
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Next: Appendix A. ABSMal Connotations](abs26)
+[Next: Appendix A. ABSMal Connotations](abs26.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip47)  [Next](fip49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip47)  [Next](fip49.md) 
 
 ------------------------------------------------------------------------
 
-### THE HORNED WOMEN <span id="fr_24"></span>[1](#fn_24)
+### THE HORNED WOMEN <span id="fr_24"></span>[1](#fn_24.md)
 
 Lady Wilde
 
@@ -80,7 +80,7 @@ And she did so.
 When the witches inside heard the call, a great and terrible cry broke
 from their lips, and they rushed forth with wild lamentations and
 shrieks, and fled away to Slievenamon, <span
-id="fr_25"></span>[1](#fn_25) where was their chief abode. But the
+id="fr_25"></span>[1](#fn_25.md) where was their chief abode. But the
 Spirit of the Well bade the mistress of the house to enter and prepare
 her home against the enchantments of witches if they returned again.
 
@@ -128,12 +128,12 @@ generation for five hundred years after.
 
 ### Footnotes
 
-<span id="fn_24"></span>[165:1](fip48.htm#fr_24) *Ancient Legends of
+<span id="fn_24"></span>[165:1](fip48.htm#fr_24.md) *Ancient Legends of
 Ireland*.
 
-<span id="fn_25"></span>[167:1](fip48.htm#fr_25)
+<span id="fn_25"></span>[167:1](fip48.htm#fr_25.md)
 *Sliábh-na-mban*--*i.e.*, mountains of the women.
 
 ------------------------------------------------------------------------
 
-[Next: The Witches' Excursion, by Patrick Kennedy](fip49)
+[Next: The Witches' Excursion, by Patrick Kennedy](fip49.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai00)  [Next](iai02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai00)  [Next](iai02.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ Epiphanius Wilson
 
 ------------------------------------------------------------------------
 
-[Next: Tablet I--Column I. Invocation](iai02)
+[Next: Tablet I--Column I. Invocation](iai02.md)

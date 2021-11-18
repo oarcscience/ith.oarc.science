@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog22)  [Next](bog24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog22)  [Next](bog24.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ strength to be fair, calm and gentle. Blessed be."
 
 ------------------------------------------------------------------------
 
-[Next: Third Principle: Selene](bog24)
+[Next: Third Principle: Selene](bog24.md)

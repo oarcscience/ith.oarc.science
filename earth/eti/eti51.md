@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti50)  [Next](eti52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti50)  [Next](eti52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ in my present organism.
 
 <span id="img_30700"></span> <span align="CENTER"> [![WITH FEAR AND
 TREMBLING I CREPT ON MY KNEES TO HIS SIDE.](tn/30700.jpg)  
-Click to enlarge](img/30700.jpg)  
+Click to enlarge](img/30700.jpg.md)  
 “WITH FEAR AND TREMBLING I CREPT ON MY KNEES TO HIS SIDE.”  
 </span>
 
@@ -97,4 +97,4 @@ stone cliff, gazing into the depths of that immeasurable void.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLV. My Heart Throb Is Stilled, and Yet I Live](eti52)
+[Next: Chapter XLV. My Heart Throb Is Stilled, and Yet I Live](eti52.md)

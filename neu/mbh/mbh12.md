@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh11)  [Next](mbh13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh11)  [Next](mbh13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 The original version of the story of Romulus and Remus--as told by the
 most ancient Roman annalist Quintus Fabius Pictor--is rendered as
-follows by Mommsen: <span id="fr_63"></span>[1](#fn_63)
+follows by Mommsen: <span id="fr_63"></span>[1](#fn_63.md)
 
 <div style="margin-left: 32px">
 
@@ -71,12 +71,12 @@ house not far from the place where his tub had stood. The gully in which
 the she-wolf had disappeared has been known since that time as the
 Wolf's Gully, the Lupercal. The image in ore of the she-wolf with the
 twins was subsequently erected at this spot, <span
-id="fr_64"></span>[1](#fn_64) and the she-wolf herself, the Lupa, was
+id="fr_64"></span>[1](#fn_64.md) and the she-wolf herself, the Lupa, was
 worshipped by the Romans as a divinity.
 
 The Romulus saga later on underwent manifold transmutations,
 mutilations, additions, and interpretations. <span
-id="fr_65"></span>[2](#fn_65) It is best known in the form transmitted
+id="fr_65"></span>[2](#fn_65.md) It is best known in the form transmitted
 by Livy (I, 3 ff.), where we learn something about the antecedents and
 subsequent fate of the twins:
 
@@ -157,7 +157,7 @@ brothers, now grown up. The shepherd reveals to the youths the fact that
 Antiope is their mother. Thereupon they cruelly kill Dirce, and deprive
 Lycus of the rulership.
 
-The remaining twin sagas, <span id="fr_66"></span>[1](#fn_66) which are
+The remaining twin sagas, <span id="fr_66"></span>[1](#fn_66.md) which are
 extremely numerous, cannot be discussed in detail in this connection.
 Possibly they represent a complication of the birth myth by another very
 ancient and widely distributed myth complex, that of the hostile
@@ -172,27 +172,27 @@ desirable
 <span id="page_48">p. 48</span>
 
 to invest the consulate with a solemnity founded on old tradition. <span
-id="fr_67"></span>[1](mbh13.htm#fn_67)
+id="fr_67"></span>[1](mbh13.htm#fn_67.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_63"></span>[44:1](mbh12.htm#fr_63) Theodor Mommsen: "*Die
+<span id="fn_63"></span>[44:1](mbh12.htm#fr_63.md) Theodor Mommsen: "*Die
 echte and die falsche Acca Larentia*"; in *Festgaben für G. Homeyer*
 (Berlin, 1891), pp. 93 ff; and *Römische Forschungen* (Berlin, 1879),
 Vol. II, pp. 1 ff. Mommsen reconstructs the lost narrative of Fabius
 from the preserved reports of Dionysius (I, 79-831) and of Plutarch
 (*Romulus*).
 
-<span id="fn_64"></span>[45:1](mbh12.htm#fr_64) The Capitoline She-Wolf
+<span id="fn_64"></span>[45:1](mbh12.htm#fr_64.md) The Capitoline She-Wolf
 is considered the work of very ancient Etruscan artists; it was erected
 at the Lupercal in the year 296 B.C., according to Livy (X, 231).
 
-<span id="fn_65"></span>[45:2](mbh12.htm#fr_65) All these renderings
+<span id="fn_65"></span>[45:2](mbh12.htm#fr_65.md) All these renderings
 were compiled by Schwegler, in his *Roman History*, Vol. I, pp. 384 ff.
 
-<span id="fn_66"></span>[47:1](mbh12.htm#fr_66) Some Greek twin sagas
+<span id="fn_66"></span>[47:1](mbh12.htm#fr_66.md) Some Greek twin sagas
 are quoted by Schubert (op. cit. pp. 13 ff.) in their essential content.
 Concerning the extensive distribution of this legendary form, compare
 the somewhat confused book of J. H. Becker: *The Twin Saga as the Key to
@@ -200,4 +200,4 @@ the Interpretation of Ancient Tradition* (Leipzig, 1891).
 
 ------------------------------------------------------------------------
 
-[Next: Hercules](mbh13)
+[Next: Hercules](mbh13.md)

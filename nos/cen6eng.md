@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](cen5eng)  [Next](cen7eng) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](cen5eng)  [Next](cen7eng.md) 
 
 ------------------------------------------------------------------------
 
@@ -608,6 +608,6 @@ May he who does otherwise be subject to the sacred rite.
 
 ------------------------------------------------------------------------
 
-[Next: Century VII](cen7eng)
+[Next: Century VII](cen7eng.md)
 
   

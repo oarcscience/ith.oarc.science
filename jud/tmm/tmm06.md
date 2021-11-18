@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm05)  [Next](tmm07) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm05)  [Next](tmm07.md) 
 
 ------------------------------------------------------------------------
 
@@ -507,4 +507,4 @@ Messiah.
 
 ------------------------------------------------------------------------
 
-[Next: Genesis Rabba](tmm07)
+[Next: Genesis Rabba](tmm07.md)

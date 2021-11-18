@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft05)  [Next](mcft07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft05)  [Next](mcft07.md) 
 
 ------------------------------------------------------------------------
 
@@ -217,4 +217,4 @@ MacConglinney honoured.
 
 ------------------------------------------------------------------------
 
-[Next: Dream of Owen O'Mulready](mcft07)
+[Next: Dream of Owen O'Mulready](mcft07.md)

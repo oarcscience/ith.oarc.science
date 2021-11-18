@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb19)  [Next](refb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb19)  [Next](refb21.md) 
 
 </div>
 
@@ -489,6 +489,6 @@ wedding.\[14\]
 
 ------------------------------------------------------------------------
 
-[Next: Drakestail](refb21)
+[Next: Drakestail](refb21.md)
 
 </div>

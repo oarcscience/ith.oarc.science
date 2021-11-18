@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ class="small">\[3\]</span></sup> the top of which reached to the highest
 heaven. In all probability this imaginary formation is pictured in the
 Amarâvati sculptures as the "pillar of glory surmounted by Om"
 proceeding from the throne supposed to be occupied by Bhagavat (see
-particularly [pl. lxxi, figs. 1 and 2](bikyk-a), *Tree and Serpent
+particularly [pl. lxxi, figs. 1 and 2](bikyk-a.md), *Tree and Serpent
 Worship*). These pillars of light are also referred to by Spence Hardy
 (*Manual of Buddhism*, 1st ed. pp. 180, 207), and perhaps originated in
 the idea of the Li"nga and its worship. Be this as it may, it is curious
@@ -146,4 +146,4 @@ class="small">\[4\]</span></sup>
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Buddhist Articles](../../bud/etc/index)
+[Journals](../index) [Buddhist Articles](../../bud/etc/index.md)

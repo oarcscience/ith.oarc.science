@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](sum06)  [Next](sum08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](sum06)  [Next](sum08.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ East](../index)  [Index](index)  [Previous](sum06)  [Next](sum08) 
 
 # CHAPTER II
 
-### MYTHS OF ORIGINS <span id="fr_0"></span>[1](#fn_0)
+### MYTHS OF ORIGINS <span id="fr_0"></span>[1](#fn_0.md)
 
 The most significant myths of a given culture are usually the
 cosmogonic, or creation myths, the sacred stories evolved and developed
@@ -32,7 +32,7 @@ University Museum, published two from Philadelphia in 1910; Stephen
 Langdon published two from Istanbul in 1914; Edward Chiera published one
 from Istanbul in 1924 and two more from Philadelphia in 1934; C. J.
 Gadd, of the British Museum, published an excellently preserved tablet
-from Ur in 1930. [32](sum10.htm#xref_32) But an intelligent
+from Ur in 1930. [32](sum10.htm#xref_32.md) But an intelligent
 reconstruction
 
 <span id="page_31">p. 31</span>
@@ -42,7 +42,7 @@ tablets and fragments, some of which seemed to duplicate each other
 without rhyme or reason and with but little variation in their wording,
 could not be properly arranged. In 1936, after I had sent off to the
 *Revue d'assyriologie* my first translations of the myth "Inanna's
-Descent to the Nether World" (see [p. 83](sum08.htm#page_83)), I decided
+Descent to the Nether World" (see [p. 83](sum08.htm#page_83).md), I decided
 to make a serious effort to reconstruct the contents of the poem, which
 obviously seemed to contain a charming and significant story. And it was
 then that I came upon the clue which enabled me to arrange the pieces in
@@ -69,7 +69,7 @@ showing several regular and characteristic phonetic variations. What is
 more interesting, however, is the fact that the poet uses this Emesal
 dialect in rendering the direct speech of a *female*, not male, deity;
 thus the speeches of Inanna, queen of heaven, are regularly rendered in
-the Emesal dialect. [33](sum10.htm#xref_33) And so, on examining
+the Emesal dialect. [33](sum10.htm#xref_33.md) And so, on examining
 carefully the texts before me, I realized that what in the case of
 several passages had been taken
 
@@ -94,14 +94,14 @@ the seal-cutters on the stone cylinders which are of considerable value
 for our study of Sumerian mythology. Especially is this true of the
 cylinder seals current in Sumer in the latter half of the third
 millennium B. C., not a few of whose designs are religious and
-mythological in character. [31](sum10.htm#xref_31)
+mythological in character. [31](sum10.htm#xref_31.md)
 
 The upper design clearly attempts to portray a more or less complicated
 mythological story. Three of the deities can be identified with
 reasonable certainty. Second from the right is the water-god Enki, with
 the flowing streams of water and the swimming fishes. Immediately behind
 him is his Janus-faced messenger Isimud, who plays an important role in
-several of our Enki myths. [Seemingly](errata.htm#6) rising out of the
+several of our Enki myths. [Seemingly](errata.htm#6.md) rising out of the
 lower regions is Utu, the sun-god, with his saw-knife and fiery rays.
 The female figure standing on top of the mountain, near what seems to be
 a rather desolate tree, may perhaps be Inanna. If the figure to the left
@@ -119,7 +119,7 @@ who seems to be chopping down a tree whose trunk is bent to a curve. The
 right half of the design seems to depict a ritual scene.
 
 The lower design may illustrate graphically the meaning of such a phrase
-as, "The nether world has seized him" (see [p. 35](#page_35)). In the
+as, "The nether world has seized him" (see [p. 35](#page_35).md). In the
 right half of the scene we note a god actually within a flaming mountain
 (in Sumerian the word meaning "mountain" is the word used regularly for
 "nether world"). To the right of the mountain is a god who may be
@@ -138,7 +138,7 @@ XVIIIj.)
 
 [![PLATE VII&lt;br&gt; GODS AND THE NETHER WORLD (For description, see
 opposite page.)](tn/pl07.jpg)  
-Click to enlarge](img/pl07.jpg)  
+Click to enlarge](img/pl07.jpg.md)  
 PLATE VII  
 GODS AND THE NETHER WORLD (For description, see opposite page.)  
 
@@ -147,12 +147,12 @@ GODS AND THE NETHER WORLD (For description, see opposite page.)
 <span id="page_33">p. 33</span>
 
 this clue as a guide I succeeded in piecing together the first part of
-this poem; this was published in 1938. [34](sum10.htm#xref_34) The
+this poem; this was published in 1938. [34](sum10.htm#xref_34.md) The
 latter half of the poem still remained largely unintelligible, and even
 the first and published part had several serious breaks in the text. In
 1939 I found in Istanbul a broken prism inscribed with the poem. And in
 the course of the past year I identified and copied 7 additional pieces
-in the University Museum at Philadelphia. [35](sum10.htm#xref_35) As a
+in the University Museum at Philadelphia. [35](sum10.htm#xref_35.md) As a
 result we now have 16 pieces inscribed with the poem; over two hundred
 and fifty lines of its text can now be intelligently reconstructed and,
 barring a passage here and there, be correctly translated.
@@ -203,7 +203,7 @@ with the statement that "because of the cry of the young maidens" the
 hole in the ground. Gilgamesh put in his hand to retrieve them but was
 unable to reach them; he put in his foot but was quite as unsuccessful.
 And so he seated himself at the gate of the nether world and cried with
-fallen face: [j](sum11.htm#xref_j)
+fallen face: [j](sum11.htm#xref_j.md)
 
 My *pukku*, who will bring it up from the nether world?  
 My *mikku*, who will bring it up from the "face" of the nether world?
@@ -275,7 +275,7 @@ and the shade of Enkidu appeared to Gilgamesh. Master and servant
 embraced and Gilgamesh questioned Enkidu about what he saw in the nether
 world. The passage from here to the end of the poem is badly broken, but
 the following partly extant colloquy will serve as an
-illustration: [k](sum11.htm#xref_k)
+illustration: [k](sum11.htm#xref_k.md)
 
 *Gilgamesh*: "Him who has one son hast thou seen!"  
 *Enkidu*: "I have seen."  
@@ -299,22 +299,22 @@ illustration: [k](sum11.htm#xref_k)
 The two pieces illustrated here are duplicates belonging to the epic
 tale, "Gilgamesh, Enkidu, and the Nether World." The one to the left is
 a tablet (14068 in the Nippur collection of the University Museum)
-published by Chiera in 1934. [36](sum10.htm#xref_36) The one to the
+published by Chiera in 1934. [36](sum10.htm#xref_36.md) The one to the
 right (4429 in the Nippur collection of the Museum of the Ancient Orient
 at Istanbul) is a fragment of a prism copied by the author and hitherto
 unpublished. The marked passages contain the lines significant for the
 creation of the universe; for the translation and the transliteration,
-see page [37](#page_37) and note  [37](sum10.htm#xref_37).
+see page [37](#page_37) and note  [37](sum10.htm#xref_37.md).
 
 ### PLATE IX. ENLIL SEPARATES HEAVEN AND EARTH
 
 The tablet (13877 in the Nippur collection of the University Museum)
-illustrated [38](sum10.htm#xref_38) here is one of the 20 duplicating
+illustrated [38](sum10.htm#xref_38.md) here is one of the 20 duplicating
 pieces utilized to reconstruct the text of the poem, "The Creation of
-the Pickax" (see [p. 51](#page_51)). Its first five lines are
+the Pickax" (see [p. 51](#page_51).md). Its first five lines are
 significant for the Sumerian concepts of the creation of the universe;
-for the translation and the transliteration, see page [40](#page_40) and
-note  [39](sum10.htm#xref_39).
+for the translation and the transliteration, see page [40](#page_40.md) and
+note  [39](sum10.htm#xref_39.md).
 
  
 
@@ -322,7 +322,7 @@ note  [39](sum10.htm#xref_39).
 
 [![PLATE VIII. THE SEPARATION OF HEAVEN AND EARTH&lt;br&gt; (For
 description, see opposite page)](tn/pl08.jpg)  
-Click to enlarge](img/pl08.jpg)  
+Click to enlarge](img/pl08.jpg.md)  
 PLATE VIII. THE SEPARATION OF HEAVEN AND EARTH  
 (For description, see opposite page)  
 
@@ -330,7 +330,7 @@ PLATE VIII. THE SEPARATION OF HEAVEN AND EARTH
 
 [![PLATE IX&lt;br&gt; ENLIL SEPARATES HEAVEN AND EARTH&lt;br&gt; (For
 description, see page 36.)](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 PLATE IX  
 ENLIL SEPARATES HEAVEN AND EARTH  
 (For description, see page 36.)  
@@ -365,9 +365,9 @@ seen?"
 *Enkidu*: "I have seen."  
 *Gilgamesh*: "How is he treated?"  
 *Enkidu*: "His shade finds no rest in the nether
-world." [l](sum11.htm#xref_l)
+world." [l](sum11.htm#xref_l.md)
 
-And so our poem ends. [40](sum10.htm#xref_40) It is the *introduction*
+And so our poem ends. [40](sum10.htm#xref_40.md) It is the *introduction*
 to this composition which furnishes the most significant material for
 the Sumerian concepts of the creation of the universe. The intelligible
 part of the introduction reads as follows:
@@ -443,12 +443,12 @@ Fortunately, the answers to these three questions can be gleaned from
 several other Sumerian texts dating from our period. Thus:
 
 1\. In a tablet which gives a list of the Sumerian
-gods, [41](sum10.htm#xref_41) the goddess Nammu, written with the
+gods, [41](sum10.htm#xref_41.md) the goddess Nammu, written with the
 ideogram for "sea," is described as "the mother, who gave birth to
 heaven and earth." Heaven and earth were therefore conceived by the
 Sumerians as the created products of the primeval sea.
 
-2\. The myth "Cattle and Grain" (see [p. 53](#page_53)), which describes
+2\. The myth "Cattle and Grain" (see [p. 53](#page_53).md), which describes
 the birth in heaven of the spirits of cattle and grain, who were then
 sent down to earth to bring prosperity to mankind, begins with the
 following two lines:
@@ -460,7 +460,7 @@ An had caused the Anunnaki (his followers) to be born. . . .
 that heaven and earth united were conceived as a mountain whose base was
 the bottom of the earth and whose peak was the top of the heaven.
 
-3\. The myth "The Creation of the Pickax" (see [p. 51](#page_51)), which
+3\. The myth "The Creation of the Pickax" (see [p. 51](#page_51).md), which
 describes the fashioning and dedication of this valuable agricultural
 implement, is introduced with the following passage:
 
@@ -499,7 +499,7 @@ while attending deities throw open the gates.
 
 In the second design two of the deities are identifiable. At the extreme
 right is Enki, the water-god, enthroned in his "sea house," perhaps the
-very house described in "Enki and Eridu" (see [p. 62](#page_62)). To the
+very house described in "Enki and Eridu" (see [p. 62](#page_62).md). To the
 left of the center is Utu, the sun-god, with fiery rays and saw-knife.
 He stands with one foot on a winged lion while the other steps on a
 crouching deity. The kneeling figure at the left, holding a gatepost, is
@@ -508,12 +508,12 @@ climbing a mountain, is still unidentifiable.
 
 The third design depicts an unidentified god with fiery rays, travelling
 in his boat; the scene is reminiscent of Nanna's journey to Nippur (see
-[p. 47](#page_47)). The stem of the boat ends in the head of a snake,
+[p. 47](#page_47).md). The stem of the boat ends in the head of a snake,
 while the prow ends in the body of a god who is working a punting pole.
 In the boat are various pots, agricultural implements, and a
 human-headed lion. On the shore is a vegetation goddess, perhaps to be
-identified as Uttu, the goddess of plants (see [p. 57](#page_57)), or
-Ashnan, the goddess of grain (see [p. 53](#page_53)).
+identified as Uttu, the goddess of plants (see [p. 57](#page_57).md), or
+Ashnan, the goddess of grain (see [p. 53](#page_53).md).
 
 The lower design depicts what is probably a divine connubium.
 
@@ -526,7 +526,7 @@ Frankfort, *Cylinder Seals*, plates XVIIIa, k, XIXe, and XVI.)
 
 [![PLATE X&lt;br&gt; MISCELLANEOUS MYTHOLOGICAL SCENES&lt;br&gt; (For
 description, see opposite page.)](tn/pl10.jpg)  
-Click to enlarge](img/pl10.jpg)  
+Click to enlarge](img/pl10.jpg.md)  
 PLATE X  
 MISCELLANEOUS MYTHOLOGICAL SCENES  
 (For description, see opposite page.)  
@@ -559,13 +559,13 @@ air-goddess. Nanna, the moon-god, is conceived as travelling in a gufa
 across the heavens, thus bringing light to the pitch-dark lapis lazuli
 sky. The "little ones," the stars, are scattered about him like grain
 while the "big ones," perhaps the planets, walk about him like wild
-oxen." [43](sum10.htm#xref_43)
+oxen." [43](sum10.htm#xref_43.md)
 
 Nanna, the moon-god, and his wife Ningal are the parents of Utu, the
 sun-god, who rises in the "mountain of the east" and sets in the
 "mountain of the west." As yet we find no mention of any boat or chariot
 used by the sun-god Utu to traverse the sky. Nor is it clear just what
-he does at night. [m](sum11.htm#xref_m) The not unnatural assumption
+he does at night. [m](sum11.htm#xref_m.md) The not unnatural assumption
 that upon reaching the "mountain of the west" at the end of the day he
 continues his journey at night through the nether world, arriving at the
 "mountain of the east" at dawn, is not borne
@@ -573,7 +573,7 @@ continues his journey at night through the nether world, arriving at the
 <span id="page_42">p. 42</span>
 
 out by the extant data. Indeed to judge from a prayer to the sun-god
-which reads: [44](sum10.htm#xref_44)
+which reads: [44](sum10.htm#xref_44.md)
 
 O Utu, shepherd of the land, father of the black-headed people,  
 When thou liest down, the people, too, lie down,  
@@ -585,7 +585,7 @@ As light broke forth, as the horizon grew bright. . . .
 As Utu came forth from his *ganunu*,
 
 or from a description of the setting of the sun which
-reads: [46](sum10.htm#xref_46)
+reads: [46](sum10.htm#xref_46.md)
 
 Utu has gone forth with lifted head to the bosom of his mother Ningal;
 
@@ -628,10 +628,10 @@ wealth and variety, it is hoped, will enable the reader to evaluate the
 Sumerian mythological concepts together with their spiritual and
 religious implications.
 
-### ENLIL AND NINLIL: THE BEGETTING OF NANNA [n](sum11.htm#xref_n)
+### ENLIL AND NINLIL: THE BEGETTING OF NANNA [n](sum11.htm#xref_n.md)
 
 This delightful myth, consisting of 152 lines of
-text, [49](sum10.htm#xref_49) is almost complete. It seems to have been
+text, [49](sum10.htm#xref_49.md) is almost complete. It seems to have been
 evolved to explain the begetting of the moon-god Nanna as well as that
 of the three underworld deities, Nergal, Ninazu, and a third whose name
 is illegible. If rightly interpreted this poem furnishes us with the
@@ -667,7 +667,7 @@ Nunbarshegunu gave advice to Ninlil:
 O Ninlil, walk along the bank of the Idnunbirdu,  
 The bright-eyed, the lord, the bright-eyed,  
 The 'great mountain,' father Enlil, the bright-eyed, will see thee,  
-The [shepherd](errata.htm#7) . . . who decrees the fates, the
+The [shepherd](errata.htm#7.md) . . . who decrees the fates, the
 bright-eyed, will see thee,  
 He will . . . . he will kiss thee."
 
@@ -685,12 +685,12 @@ know whither Enlil has gone. Enlil then
 
 This illustrates the obverse of a tablet (9205 in the Nippur collection
 of the University Museum) that was published by the late George Barton
-as early as 1918. [47](sum10.htm#xref_47) Its contents, though obviously
+as early as 1918. [47](sum10.htm#xref_47.md) Its contents, though obviously
 most significant for Sumerian mythology, have remained largely
 unintelligible all these years. Sumerological progress in the course of
 the past quarter-century and the discovery by the author of nine
 additional fragments (eight in the University Museum and one in the
-Museum of the Ancient Orient) [48](sum10.htm#xref_48)have now made the
+Museum of the Ancient Orient) [48](sum10.htm#xref_48.md)have now made the
 reconstruction and translation of this poem possible. The marked passage
 contains the following lines:
 
@@ -703,7 +703,7 @@ nin-zu-<sup>d</sup>nin-líl-li i-im-du
 u<sub>4</sub>-da én-mu mu-ra-tar-ra  
 za-e ki-mu nam-mu-ni-in-pàd-dé*
 
-For the translation, see page [45](#page_45).
+For the translation, see page [45](#page_45.md).
 
  
 
@@ -711,7 +711,7 @@ For the translation, see page [45](#page_45).
 
 [![PLATE XI.&lt;br&gt; ENLIL AND NINLIL: THE BEGETTING OF
 NANNA&lt;br&gt; (For description, see opposite page.)](tn/pl11.jpg)  
-Click to enlarge](img/pl11.jpg)  
+Click to enlarge](img/pl11.jpg.md)  
 PLATE XI.  
 ENLIL AND NINLIL: THE BEGETTING OF NANNA  
 (For description, see opposite page.)  
@@ -827,7 +827,7 @@ the establishment of prosperity and abundance in the other important
 cities of Sumer, such as Eridu and Ur. To obtain this blessing, the
 tutelary deities of these cities were conceived as travelling to Nippur
 laden with gifts for its god and temple. Our
-myth [50](sum10.htm#xref_50) describes just such a journey from Ur to
+myth [50](sum10.htm#xref_50.md) describes just such a journey from Ur to
 Nippur of the moon-god Nanna (also known as Sin and Ashgirbabbar), the
 tutelary deity of Ur. In this myth, as in the preceding Enlil-Ninlil
 composition, the cities such as Nippur and Ur seem to be fully built and
@@ -906,7 +906,7 @@ In the palace he gave him long life.
 
 ### EMESH AND ENTEN: ENLIL CHOOSES THE FARMER-GOD
 
-This myth [51](sum10.htm#xref_51) is the closest extant Sumerian
+This myth [51](sum10.htm#xref_51.md) is the closest extant Sumerian
 parallel to the Biblical Cain-Abel story, although it ends with a
 reconciliation rather than a murder. It consists of over three hundred
 lines, only about half of which are complete; because of the numerous
@@ -973,7 +973,7 @@ the inscriptions which interest us here mostly. Both seem to have ears
 of grain sprouting from their shoulders, but the male god is equipped
 with club and bow, while a ram frolics at his feet. He may perhaps be
 identified as Lahar, the cattle-god, while the goddess facing him may be
-Ashnan, the grain goddess (see [p. 53](#page_53)).
+Ashnan, the grain goddess (see [p. 53](#page_53).md).
 
 (Reproduced, by permission of the Macmillan Company, from Henri
 Frankfort, *Cylinder Seals*, plates XX*a*, *d*, *e*, and XIX*e*.)
@@ -984,7 +984,7 @@ Frankfort, *Cylinder Seals*, plates XX*a*, *d*, *e*, and XIX*e*.)
 
 [![PLATE XII&lt;br&gt; GODS OF VEGETATION&lt;br&gt; (For description,
 see opposite page.)](tn/pl12.jpg)  
-Click to enlarge](img/pl12.jpg)  
+Click to enlarge](img/pl12.jpg.md)  
 PLATE XII  
 GODS OF VEGETATION  
 (For description, see opposite page.)  
@@ -1026,7 +1026,7 @@ Emesh,
 
 ### THE CREATION OF THE PICKAX
 
-This poem consisting of 108 lines [52](sum10.htm#xref_52) is practically
+This poem consisting of 108 lines [52](sum10.htm#xref_52.md) is practically
 complete, although not a few of the passages still remain obscure and
 unintelligible. It begins with a long introductory passage which is of
 prime significance for the Sumerian conception of the creation and
@@ -1046,7 +1046,7 @@ and religious pattern and well known to the Sumerian poet and his
 only with the gradual accumulation of living contexts from Sumerian
 literature that we may hope to overcome this difficulty; as yet it is
 best to hew close to the literal word. The introductory passage
-reads: [o](sum11.htm#xref_o)
+reads: [o](sum11.htm#xref_o.md)
 
 The lord, that which is appropriate verily he caused to appear,  
 The lord whose decisions are unalterable,  
@@ -1099,7 +1099,7 @@ The pickax is exalted.
 
 ### CATTLE AND GRAIN
 
-The myth [53](sum10.htm#xref_53) involving Lahar, the cattle-god, and
+The myth [53](sum10.htm#xref_53.md) involving Lahar, the cattle-god, and
 his sister Ashnan, the grain-goddess, represents another variation of
 the Cain-Abel motif in Near East mythology. Labar and Ashnan, according
 to our myth, were created in the creation chamber of the gods in order
@@ -1108,7 +1108,7 @@ might have food to eat and clothes to wear. But the Anunnaki were unable
 to make effective use of the products of these deities; it was to remedy
 this situation that man was created. All this is told in an introductory
 passage which, because of its significance for the Sumerian conception
-of the creation of man, is quoted in full on pages [72](#page_72)-73.
+of the creation of man, is quoted in full on pages [72](#page_72.md)-73.
 The passage following the introduction is another poetic gem; it
 describes the descent of Lahar and Ashnan from heaven to earth and the
 cultural benefits which they bestow on mankind:
@@ -1153,10 +1153,10 @@ extolled its achievements and belittled those of its opponent. Finally
 Enlil and Enki intervened, but the end of the poem which contains their
 decision is still wanting.
 
-### ENKI AND NINHURSAG: THE AFFAIRS OF THE WATER-GOD [p](sum11.htm#xref_p)
+### ENKI AND NINHURSAG: THE AFFAIRS OF THE WATER-GOD [p](sum11.htm#xref_p.md)
 
 Both for intricacy of story and for simplicity of style, this
-myth [57](sum10.htm#xref_57) is one of the most remarkable compositions
+myth [57](sum10.htm#xref_57.md) is one of the most remarkable compositions
 in our entire group. The hero is Enki, the great water-god of the
 Sumerians, one of the four creating deities of Sumer; his closest Greek
 counterpart is Poseidon. The place of our story is Dilmun, a district
@@ -1243,7 +1243,7 @@ Gave birth to Ninsar.
 This is a photograph of a tablet (4561 in the Nippur collection of the
 University Museum) published by Stephen Langdon more than 25 years ago
 under the title, "Sumerian Epic of Paradise, the Flood, and Fall of
-Man." [54](sum10.htm#xref_54) At the time of its publication, Sumerian
+Man." [54](sum10.htm#xref_54.md) At the time of its publication, Sumerian
 grammatical and lexicographical studies had made relatively little
 scientific progress, and the contents of this difficult poem were
 largely misunderstood. The author's interpretation of the poem is
@@ -1252,8 +1252,8 @@ problems, although the publication in 1930 by Henri de Genouillac of a
 duplicating fragment now in the Louvre u also proved of considerable
 help. The last 14 lines in the second column contain a passage which may
 be not inaptly entitled "The Birth of a Goddess"; for the translation
-and the transliteration, see page [56](#page_56) and note
- [56](sum10.htm#xref_56).
+and the transliteration, see page [56](#page_56.md) and note
+ [56](sum10.htm#xref_56.md).
 
  
 
@@ -1262,7 +1262,7 @@ and the transliteration, see page [56](#page_56) and note
 [![PLATE XIII.&lt;br&gt; ENKI AND NINHURSAG: THE AFFAIRS OF THE
 WATER-GOD&lt;br&gt; (For description, see opposite
 page.)](tn/pl13.jpg)  
-Click to enlarge](img/pl13.jpg)  
+Click to enlarge](img/pl13.jpg.md)  
 PLATE XIII.  
 ENKI AND NINHURSAG: THE AFFAIRS OF THE WATER-GOD  
 (For description, see opposite page.)  
@@ -1295,14 +1295,14 @@ plants sprout forth. But Enki eats up the plants; thus:
 
 And so on until Enki has eaten all the eight plants. Thereupon
 Ninhursag, who, it will be recalled, is actually responsible for the
-creation of these plants, curses Enki. [58](sum10.htm#xref_58) The curse
+creation of these plants, curses Enki. [58](sum10.htm#xref_58.md) The curse
 reads:
 
 "Until thou art dead, I shall not look upon thee with the 'eye of
 life'."
 
 Having uttered the curse, Ninhursag disappears. The gods are
-[chagrined](errata.htm#8); they "sit in the dust." Up speaks the fox to
+[chagrined](errata.htm#8.md); they "sit in the dust." Up speaks the fox to
 Enlil:
 
 "If I bring Ninhursag before thee, what shall be my reward?"
@@ -1382,9 +1382,9 @@ Enki's body. In brief, it is only because the name of the deity
 induced to associate the two; actually there is no organic relationship
 between them.
 
-### ENKI AND SUMER: THE ORGANIZATION OF THE EARTH AND ITS CULTURAL PROCESSES [q](sum11.htm#xref_q)
+### ENKI AND SUMER: THE ORGANIZATION OF THE EARTH AND ITS CULTURAL PROCESSES [q](sum11.htm#xref_q.md)
 
-This composition [59](sum10.htm#xref_59) furnishes us with a detailed
+This composition [59](sum10.htm#xref_59.md) furnishes us with a detailed
 account of the activities of the water-god Enki, the Sumerian god of
 wisdom, in organizing the earth and establishing what might be termed
 law and order upon it. The first part of our poem, approximately one
@@ -1461,7 +1461,7 @@ Frankfort, *Cylinder Seals*, plates XX*f*, XXI*e*, and XXXIII*d*, *f*.)
 
 [![PLATE XIV&lt;br&gt; ENKI, THE WATER-GOD&lt;br&gt; (For description,
 see opposite page.)](tn/pl14.jpg)  
-Click to enlarge](img/pl14.jpg)  
+Click to enlarge](img/pl14.jpg.md)  
 PLATE XIV  
 ENKI, THE WATER-GOD  
 (For description, see opposite page.)  
@@ -1514,10 +1514,10 @@ plain with plant and animal life and places Sumugan, "king of the
 
 \[paragraph continues\] 'mountain'," in control. Finally Enki builds
 stables and sheepfolds, fills them with milk and fat, and puts them in
-the care of the [shepherd](errata.htm#9)-god Dumuzi. The rest of our
+the care of the [shepherd](errata.htm#9.md)-god Dumuzi. The rest of our
 text is destroyed and we do not know how the poem ends.
 
-### ENKI AND ERIDU: THE JOURNEY OF THE WATER--GOD TO NIPPUR [r](sum11.htm#xref_r)
+### ENKI AND ERIDU: THE JOURNEY OF THE WATER--GOD TO NIPPUR [r](sum11.htm#xref_r.md)
 
 One of the oldest and most venerated cities in Sumer was Eridu, which
 lies buried to-day under the mound Abu-Shahrain; a thorough excavation
@@ -1528,7 +1528,7 @@ oldest city in Sumer, the first of the five cities founded before the
 flood; our myth, on the other hand, implies that the city Nippur
 preceded it in age. In this city, which in ancient times must have been
 situated on the Persian Gulf, the water-god Enki, also known as
-Nudimmud, builds his "sea-house": [60](sum10.htm#xref_60)
+Nudimmud, builds his "sea-house": [60](sum10.htm#xref_60.md)
 
 After the water of *creation* had been decreed,  
 After the name *hegal* (abundance), born in heaven,  
@@ -1613,9 +1613,9 @@ the more or less superficial analysis of the Sumerian scribes and
 thinkers, made up the warp and woof of Sumerian civilization. As early
 as 1911 a fragment belonging to this myth and located in the University
 Museum at Philadelphia was published by David W.
-Myhrman. [62](sum10.htm#xref_62) Three years later, Arno Poebel
+Myhrman. [62](sum10.htm#xref_62.md) Three years later, Arno Poebel
 published another Philadelphia tablet inscribed with part of the
-composition; [61](sum10.htm#xref_61) this is a large, well-preserved
+composition; [61](sum10.htm#xref_61.md) this is a large, well-preserved
 six-column tablet whose upper left
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -1624,10 +1624,10 @@ six-column tablet whose upper left
 
 Plate XV is the obverse of a large six-column tablet (15283 in the
 Nippur collection of the University Museum) published by Poebel in
-1914; [61](sum10.htm#xref_61) its upper left corner is broken away.
+1914; [61](sum10.htm#xref_61.md) its upper left corner is broken away.
 Plate XVI illustrates three fragments belonging to the same poem. The
 large fragment (13571 in the Nippur collection of the University Museum)
-was published by Myhrman in 1911. [62](sum10.htm#xref_62) Below the
+was published by Myhrman in 1911. [62](sum10.htm#xref_62.md) Below the
 large fragment, on the left, are the obverse and reverse of a small
 fragment (4151 in the Nippur collection of the Museum of the Ancient
 Orient) copied by the author in Istanbul and hitherto unpublished. *In
@@ -1639,9 +1639,9 @@ Istanbul and hitherto unpublished. Small as it is, this piece proved
 instrumental in supplying the motivating link to the story. For the
 translation and the transliteration of the first eight lines of the
 passage in which Enki presents the arts of civilization to the goddess
-Inanna, see page [66](#page_66) and note  [65](sum10.htm#xref_65).
+Inanna, see page [66](#page_66) and note  [65](sum10.htm#xref_65.md).
 
-Another significant verse in this passage reads: [66](sum10.htm#xref_66)
+Another significant verse in this passage reads: [66](sum10.htm#xref_66.md)
 
 "O name of my power, O name of my power,  
 To the bright Inanna, my daughter, I shall present . . .  
@@ -1656,7 +1656,7 @@ Pure Inanna took them.
 [![PLATE XV&lt;br&gt; INANNA AND ENKI: THE TRANSFER OF THE ARTS OF
 CIVILIZATION FROM ERIDU To ERECH&lt;br&gt; (For description, see
 opposite page.)](tn/pl15.jpg)  
-Click to enlarge](img/pl15.jpg)  
+Click to enlarge](img/pl15.jpg.md)  
 PLATE XV  
 INANNA AND ENKI: THE TRANSFER OF THE ARTS OF CIVILIZATION FROM ERIDU To
 ERECH  
@@ -1667,7 +1667,7 @@ ERECH
 [![PLATE XVI&lt;br&gt; INANNA AND ENKI: THE TRANSFER OF THE ARTS OF
 CIVILIZATION FROM ERIDU TO ERECH&lt;br&gt; (For description, see page
 64.)](tn/pl16.jpg)  
-Click to enlarge](img/pl16.jpg)  
+Click to enlarge](img/pl16.jpg.md)  
 PLATE XVI  
 INANNA AND ENKI: THE TRANSFER OF THE ARTS OF CIVILIZATION FROM ERIDU TO
 ERECH  
@@ -1679,14 +1679,14 @@ ERECH
 
 corner was broken off. This broken corner piece I was fortunate enough
 to discover in 1937, twenty-three years later, in the Museum of the
-Ancient Orient at Istanbul. [63](sum10.htm#xref_63) As early as 1914,
+Ancient Orient at Istanbul. [63](sum10.htm#xref_63.md) As early as 1914,
 therefore, a large part of the myth had been copied and published.
 However, no translation was attempted in all these years since the story
 seemed to make no connected sense; and what could be made out, seemed to
 lack intelligent motivation. In 1937 I located and copied in Istanbul a
-small piece [64](sum10.htm#xref_64) which supplied the missing clue, and
+small piece [64](sum10.htm#xref_64.md) which supplied the missing clue, and
 as a result, this tale of the all too human Sumerian gods can now be
-told. [67](sum10.htm#xref_67)
+told. [67](sum10.htm#xref_67.md)
 
 Inanna, queen of heaven, and tutelary goddess of Erech, is anxious to
 increase the welfare and prosperity of her city, to make it the center
@@ -1729,7 +1729,7 @@ Pure Inanna took them.
 "O name of my power, O name of my power,  
 To the pure Inanna, my daughter, I shall present . . . .  
 The exalted scepter, *staffs*, the exalted shrine,
-[shepherdship](errata.htm#10), kingship."
+[shepherdship](errata.htm#10.md), kingship."
 
 Pure Inanna took them.
 
@@ -1742,7 +1742,7 @@ the Egyptian, can at all compare in age and quality with that developed
 by the Sumerians. Among these divine decrees presented by Enki to Inanna
 are those referring to lordship, godship, the exalted and enduring
 crown, the throne of kingship, the exalted scepter, the exalted shrine,
-[shepherdship](errata.htm#11), kingship, the numerous priestly offices,
+[shepherdship](errata.htm#11.md), kingship, the numerous priestly offices,
 truth, descent into the nether world and ascent from it, the "standard,"
 the flood, sexual intercourse and prostitution, the *legal* tongue and
 the *libellous* tongue, art, the holy cult chambers, the "hierodule of
@@ -1842,7 +1842,7 @@ on two duplicating tablets: one is a Nippur tablet in our University
 Museum; the other is in the Louvre, which acquired it from an antique
 dealer. In spite of the fact that by 1934 the Louvre tablet and the
 greater part of the University Museum tablet had already been copied and
-published, [72](sum10.htm#xref_72) the contents remained unintelligible.
+published, [72](sum10.htm#xref_72.md) the contents remained unintelligible.
 Primarily responsible for this unfortunate situation is the fact that
 our University Museum tablet, which is better preserved than the Louvre
 fragment, arrived in Philadelphia
@@ -1851,16 +1851,16 @@ fragment, arrived in Philadelphia
 
 some four or five decades ago, broken into four parts. By 1919 two of
 the pieces had already been recognized and joined; these were copied and
-published by Stephen Langdon. [68](sum10.htm#xref_68) In 1934 Edward
-Chiera published the third piece [69](sum10.htm#xref_69) but failed to
+published by Stephen Langdon. [68](sum10.htm#xref_68.md) In 1934 Edward
+Chiera published the third piece [69](sum10.htm#xref_69.md) but failed to
 recognize that it joined the two pieces published by Langdon in 1919. It
 was the discovery of this fact, together with the identifying of the
-fourth and still unpublished piece [70](sum10.htm#xref_70) which *joins*
+fourth and still unpublished piece [70](sum10.htm#xref_70.md) which *joins*
 the three published pieces, that enabled me to arrange the contents in
 the proper order. It should be emphasized here that the approximately
 one hundred and fifty lines which make up the text of our poem still
 present numerous crucial breaks; many of the lines are poorly
-preserved. [73](sum10.htm#xref_73) Moreover, the linguistic difficulties
+preserved. [73](sum10.htm#xref_73.md) Moreover, the linguistic difficulties
 in this composition are particularly burdensome; not a few of the
 crucial words are met here for the first time in Sumerian literature.
 The translation is therefore full of gaps and its tentative character
@@ -1925,15 +1925,15 @@ Museum). Actually the tablet arrived in Philadelphia in *four* separate
 pieces. The lower piece on plate XVII is itself composed of two
 fragments which had already been joined in the University Museum
 sometime before 1919, when it was published by
-Langdon [68](sum10.htm#xref_68) The large upper fragment was published
-by Chiera in 1934. [69](sum10.htm#xref_69) The fourth
-piece [70](sum10.htm#xref_70) has hitherto remained unpublished. Plate
+Langdon [68](sum10.htm#xref_68.md) The large upper fragment was published
+by Chiera in 1934. [69](sum10.htm#xref_69.md) The fourth
+piece [70](sum10.htm#xref_70.md) has hitherto remained unpublished. Plate
 XVIII shows the same tablet, with all the pieces joined. The lower part
 of the first column contains the first; part of the passage in which
 Enki, the water-god, instructs his mother Nammu, the goddess who begot
 heaven and earth and all the gods, how to fashion man. For the
-translation and the transliteration, see page [70](#page_70) and note
- [71](sum10.htm#xref_71).
+translation and the transliteration, see page [70](#page_70.md) and note
+ [71](sum10.htm#xref_71.md).
 
  
 
@@ -1941,7 +1941,7 @@ translation and the transliteration, see page [70](#page_70) and note
 
 [![PLATE XVII&lt;br&gt; THE CREATION OF MAN&lt;br&gt; (For description,
 see opposite page.)](tn/pl17.jpg)  
-Click to enlarge](img/pl17.jpg)  
+Click to enlarge](img/pl17.jpg.md)  
 PLATE XVII  
 THE CREATION OF MAN  
 (For description, see opposite page.)  
@@ -1950,7 +1950,7 @@ THE CREATION OF MAN
 
 [![PLATE XVIII&lt;br&gt; THE CREATION OF MAN&lt;br&gt; (For description,
 see page 70.)](tn/pl18.jpg)  
-Click to enlarge](img/pl18.jpg)  
+Click to enlarge](img/pl18.jpg.md)  
 PLATE XVIII  
 THE CREATION OF MAN  
 (For description, see page 70.)  
@@ -2004,7 +2004,7 @@ due.
 
 In addition to the creation poem outlined above, a detailed description
 of the purpose for which mankind was created is given in the
-introduction to the myth "Cattle and Grain" (see [p. 53](#page_53)); it
+introduction to the myth "Cattle and Grain" (see [p. 53](#page_53).md); it
 runs as follows. After the Anunnaki, the heaven-gods, had been born, but
 before the creation of Lahar, the cattle-god, and Ashnan, the
 grain-goddess, there existed neither cattle nor grain. The gods
@@ -2066,7 +2066,7 @@ understanding and interpretation of its contents*), the Sumerian
 creation concepts indicate a keenly observing mentality as well as an
 ability to draw and formulate pertinent conclusions from the data
 observed. Thus rationally expressed, the Sumerian
-[cosmogonic](errata.htm#12) concepts may be summarized as follows:
+[cosmogonic](errata.htm#12.md) concepts may be summarized as follows:
 
 1\. First was the primeval *sea*; it is not unlikely that it was
 conceived by the Sumerian as *eternal* and *uncreated*.
@@ -2141,7 +2141,7 @@ our present material and limited understanding.
 
 ### Footnotes
 
-<span id="fn_0"></span>[30:1](sum07.htm#fr_0) In the translated Sumerian
+<span id="fn_0"></span>[30:1](sum07.htm#fr_0.md) In the translated Sumerian
 passages italics indicate doubtful renderings as well as foreign words.
 Words between parentheses are not in the Sumerian text but are added for
 purposes of clarification. Words between brackets are broken away and
@@ -2152,4 +2152,4 @@ rendering.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Myths of Kur](sum08)
+[Next: Chapter III. Myths of Kur](sum08.md)

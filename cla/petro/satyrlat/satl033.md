@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [Previous](satl032)  [Next](satl034) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [Previous](satl032)  [Next](satl034.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ vitello circumdatam.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIV](satl034)
+[Next: XXXIV](satl034.md)

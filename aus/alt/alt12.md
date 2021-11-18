@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](alt11)  [Next](alt13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](alt11)  [Next](alt13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Australian Legendary Tales*, by K. Langloh Parker, \[1897\], at
 Intangible Textual Heritage
 
@@ -126,4 +126,4 @@ the names that they bore on the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Meamei the Seven Sisters](alt13)
+[Next: Meamei the Seven Sisters](alt13.md)

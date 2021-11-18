@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc04)  [Next](esc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc04)  [Next](esc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -667,4 +667,4 @@ prey, and you be driven away in your wickedness.  *Amen.*
 ------------------------------------------------------------------------
 
 [Next: Lecture IV. Seventy weeks are determined upon thy
-people...](esc06)
+people...](esc06.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw07)  [Next](isw09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw07)  [Next](isw09.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ Is Cathleen the daughter of Houlihan.
 
 ------------------------------------------------------------------------
 
-[Next: The Old Men Admiring Themselves in the Water](isw09)
+[Next: The Old Men Admiring Themselves in the Water](isw09.md)

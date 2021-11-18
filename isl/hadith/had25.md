@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had24)  [Next](had26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had24)  [Next](had26.md) 
 
 ------------------------------------------------------------------------
 
@@ -365,4 +365,4 @@ not be eaten may be put to any other use.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIII: Cultivation of Land (Al-harth
-wa-l-muzāra'ah)](had26)
+wa-l-muzāra'ah)](had26.md)

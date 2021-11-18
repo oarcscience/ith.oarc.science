@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft06)  [Next](efft08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft06)  [Next](efft08.md) 
 
 ------------------------------------------------------------------------
 
 # HISTORICAL AND LOCAL
 
-### THE STORY OF SAINT KENELM  <span id="fr_8"></span>[1](#fn_8)
+### THE STORY OF SAINT KENELM  <span id="fr_8"></span>[1](#fn_8.md)
 
 WHEN little more than a mile out of Hales Owen, I struck off the high
 road through a green lane, flanked on both sides by extensive half-grown
@@ -120,9 +120,9 @@ corroborative of its truthful nucleus surviving still.
 
 ### Footnotes
 
-<span id="fn_8"></span>[1](efft07.htm#fr_8) Hugh Miller, *First
+<span id="fn_8"></span>[1](efft07.htm#fr_8.md) Hugh Miller, *First
 Impressions of England and its People*, p. 169.
 
 ------------------------------------------------------------------------
 
-[Next: Wild Edric](efft08)
+[Next: Wild Edric](efft08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain00)  [Next](ain02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain00)  [Next](ain02.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,14 +21,14 @@ different ways, but should always be Comalk Hawkkih. The name of the
 Creator should always be Juwerta Mahkai. The name of his subordinate
 should be Eeheetoy. Gee-ee-sop should be Geeheesop. Cheof should be
 Cheoff. Vah-kee-woldt-kee, as on Page 8, should be Vahf-kee-woldt-kih as
-on page [112](ain18.htm#page_112). Sah-kote-kee, on page
-[183](ain34.htm#page_183), should be Sah-kot-kih, and Chirt-kee should
-be Chirt-kih. On page [224](ain41.htm#page_224), vahs-shroms should be
-vahs-hroms. Tcheuassat Seeven (page [237](ain45.htm#page_237)) should be
-Tcheunassat Seeven. Stchenadack Seeven (page [238](ain45.htm#page_238))
+on page [112](ain18.htm#page_112.md). Sah-kote-kee, on page
+[183](ain34.htm#page_183.md), should be Sah-kot-kih, and Chirt-kee should
+be Chirt-kih. On page [224](ain41.htm#page_224.md), vahs-shroms should be
+vahs-hroms. Tcheuassat Seeven (page [237](ain45.htm#page_237).md) should be
+Tcheunassat Seeven. Stchenadack Seeven (page [238](ain45.htm#page_238).md)
 should be Stcheuadack Seeven. Scheunassat Seeven, on page
-[239](ain45.htm#page_239), should be Tcheunassat Seeven. In the story of
-the Turquoises and the Red bird (page [99](ain14.htm#page_99)) the name
+[239](ain45.htm#page_239.md), should be Tcheunassat Seeven. In the story of
+the Turquoises and the Red bird (page [99](ain14.htm#page_99).md) the name
 of the chief who lived in the Casa Grande ruins should have been spelled
 with a u, instead of a w, to secure uniformity; also the Indian name of
 the turquoises. The name of the Salt River Mountain, wherever it occurs,
@@ -36,4 +36,4 @@ should always be Moehahdheck.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of these Stories](ain02)
+[Next: The Story of these Stories](ain02.md)

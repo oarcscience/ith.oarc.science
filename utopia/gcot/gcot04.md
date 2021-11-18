@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot03)  [Next](gcot05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot03)  [Next](gcot05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ of many products will
 
 doubtless continue to be supplied from abroad. These farmers are hardly
 likely to supply them with tea, with coffee, with spices, with tropical
-fruits or with sugar, <span id="fr_5"></span>[1](#fn_5) and their
+fruits or with sugar, <span id="fr_5"></span>[1](#fn_5.md) and their
 struggle to compete with America and Russia for the supply of wheat or
 flour to the town may be as keen as ever. But surely the struggle will
 not be so despairing. A ray—a beam of hope will gladden the heart of the
@@ -145,7 +145,7 @@ despairing home-producer of wheat, for while the American has to pay
 railway charges to the seaboard, charges for Atlantic transit and
 railway charges to the consumer, the farmer of Garden City has a market
 at his very doors, and this a market which the rent he contributes will
-help to build up. <span id="fr_6"></span>[2](#fn_6)
+help to build up. <span id="fr_6"></span>[2](#fn_6.md)
 
 Or, consider vegetables and fruits. Farmers, except near towns, do not
 often grow them now. Why? Chiefly because of the difficulty and
@@ -193,7 +193,7 @@ productiveness of the agricultural estate.
 
 The great increase in the number of allotments, especially such
 favourably situated allotments as are shown in [Diagram
-2](gcot03.htm#img_diag02), would also tend to raise the total sum
+2](gcot03.htm#img_diag02.md), would also tend to raise the total sum
 offered in rent.
 
 There are yet other reasons why the rent which a farmer on the Garden
@@ -312,14 +312,14 @@ municipal needs of the town.
 
 ### Footnotes
 
-<span id="fn_5"></span>[61:1](gcot04.htm#fr_5) The electric light, with
+<span id="fn_5"></span>[61:1](gcot04.htm#fr_5.md) The electric light, with
 cheap motive power for its generation, with glass-houses, may make even
 some of these things possible.
 
-<span id="fn_6"></span>[61:2](gcot04.htm#fr_6) See *Fields, Factories,
+<span id="fn_6"></span>[61:2](gcot04.htm#fr_6.md) See *Fields, Factories,
 and Workshops*, by Prince Kropotkin (London, 1898), and *The Coming
 Revolution*, by Capt. J. W. Petavel.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three. The Revenue of Garden City—Town Estate](gcot05)
+[Next: Chapter Three. The Revenue of Garden City—Town Estate](gcot05.md)

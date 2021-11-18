@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs34) [Next](hbs36)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs34) [Next](hbs36.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Thou dost not love to gallop on the highway any more,
 To lie in wait for traders that come from the seashore.”  
  So spake bold Rádivoye. He leaped from the ground to his feet,  
 He seized on Breshka by the waist; the thirty followed fleet.  
-Rado<span id="page_195_fr_1"></span>[1](#page_195_note_1) went over the
+Rado<span id="page_195_fr_1"></span>[1](#page_195_note_1.md) went over the
 black mount; ’neath a green fir Novak lay,  
 With his two young sons. Brave Rado came to a crossing in the way.  
 
@@ -89,7 +89,7 @@ The good friends; but thy fortune they had it not this day.”
 
 ------------------------------------------------------------------------
 
-[Next](hbs36)
+[Next](hbs36.md)
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ The good friends; but thy fortune they had it not this day.”
 
 <span id="footnotes_page_195">p. 195</span>
 
-<span id="page_195_note_1"></span>[1](#page_195_fr_1) An abbreviation
+<span id="page_195_note_1"></span>[1](#page_195_fr_1.md) An abbreviation
 for Rádivoye.
 
  

@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@ Sagas](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ms100)    [Page
-Index](pageidx)    [Text \[Zipped\]](ms1.txt.gz)
+[Contents](#contents)    [Start Reading](ms100.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ms1.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -44,17 +44,17 @@ lore, and invites repeated browsings.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ms100)  
-[Preface](ms101)  
-[Contents](ms102)  
-[The Value of Additional Letters of the Alphabet](ms103)  
-[Full Titles of Books Consulted and Referred to](ms104)  
-[Illustrations](ms105)  
-[Chapter I. Geographical Position and Craniology of the Finns](ms106)  
-[Chapter II. The Neolithic Age in Finland](ms107)  
-[Chapter III. Historical Notices of Classical Authors](ms108)  
-[Chapter VI. The Prehistoric Civilisation of the Finns](ms109)  
-[Chapter V. The Third or Iranian Period](ms110)  
+<span id="contents"></span> [Title Page](ms100.md)  
+[Preface](ms101.md)  
+[Contents](ms102.md)  
+[The Value of Additional Letters of the Alphabet](ms103.md)  
+[Full Titles of Books Consulted and Referred to](ms104.md)  
+[Illustrations](ms105.md)  
+[Chapter I. Geographical Position and Craniology of the Finns](ms106.md)  
+[Chapter II. The Neolithic Age in Finland](ms107.md)  
+[Chapter III. Historical Notices of Classical Authors](ms108.md)  
+[Chapter VI. The Prehistoric Civilisation of the Finns](ms109.md)  
+[Chapter V. The Third or Iranian Period](ms110.md)  
 [Chapter VI. Beliefs of the West Finns as Exhibited in the Magic
-Songs](ms111)  
-[Advertisements](ms112)  
+Songs](ms111.md)  
+[Advertisements](ms112.md)  

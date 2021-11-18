@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr24)  [Next](ppr26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr24)  [Next](ppr26.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ terrible god--a cry on the winds!"
 
 ------------------------------------------------------------------------
 
-[Next: Hymn to the All-Mother (Mexican)](ppr26)
+[Next: Hymn to the All-Mother (Mexican)](ppr26.md)

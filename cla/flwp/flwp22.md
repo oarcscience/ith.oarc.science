@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp21)  [Next](flwp23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp21)  [Next](flwp23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ the orderly having a perpetual subsistence, he always produces then by
 
 <span id="page_74">p. 74</span>
 
-his very being. <span id="fr_64"></span>[\*](#fn_64) If, however, he
+his very being. <span id="fr_64"></span>[\*](#fn_64.md) If, however, he
 always produces that which he wishes to produce, he will certainly,
 through one of these wills, always abolish the inordinate, but will
 preserve, through the other, that which is reduced into order. For thus
@@ -64,7 +64,7 @@ maker and the thing made exist simultaneously with each other, as Plato
 says in the Philebus: for there he asserts, "that the thing which is
 becoming to be beautiful, and the artificer and maker of it, subsist
 together, and that the one is not without the other." <span
-id="fr_65"></span>[†](#fn_65) That which is disorderly, therefore, is
+id="fr_65"></span>[†](#fn_65.md) That which is disorderly, therefore, is
 always abolished,
 
 <span id="page_75">p. 75</span>
@@ -77,7 +77,7 @@ will not be prior to the orderly, nor the orderly to the inordinate. If,
 however, the inordinate is not prior to the orderly, that which is
 orderly will not have a beginning posterior to the inordinate; and if
 the orderly is not prior to the inordinate, it will not have an end
-prior to the inordinate. <span id="fr_66"></span>[\*](#fn_66) But if it
+prior to the inordinate. <span id="fr_66"></span>[\*](#fn_66.md) But if it
 neither began posterior to, nor will end prior to, the inordinate, order
 is without a beginning and without an end, and is both unbegotten and
 incorruptible. Moreover, the world is nothing else than order, and that
@@ -87,7 +87,7 @@ divinity, either that one of these should be always effective, but the
 other not always; or that one of these should produce by its very being,
 but the other not; since both possess the same essence, and have through
 the same cause an eternal subsistence. <span
-id="fr_67"></span>[†](#fn_67) For one
+id="fr_67"></span>[†](#fn_67.md) For one
 
 <span id="page_76">p. 76</span>
 
@@ -140,25 +140,25 @@ more imperfect.
 
 ### Footnotes
 
-<span id="fn_64"></span>[74:\*](flwp22.htm#fr_64) This sentence in the
+<span id="fn_64"></span>[74:\*](flwp22.htm#fr_64.md) This sentence in the
 original is, τησ ουν βουλησεως αυτῳ τῳ ειναι ποιουσης ο βουλεται, ἢ αει
 τῳ ειναι ποιησει. But for ἢ αιε, κ.τ.λ. it is necessary to read και αει,
 κ.τ.λ. conformably to the above translation, and also to the version of
 Mahotius, which is, "cum igitur voluntas ipso esse, quod vult efficiat,
 *et* semper sit utraque, semper ipso esse efficiet."
 
-<span id="fn_65"></span>[74:†](flwp22.htm#fr_65) Hence, as the world
+<span id="fn_65"></span>[74:†](flwp22.htm#fr_65.md) Hence, as the world
 subsists in *becoming to be*, and the artificer of it is an *eternally*
 energising being, and the one cannot exist without the other, the world
 must necessarily be perpetually rising into existence.
 
-<span id="fn_66"></span>[75:\*](flwp22.htm#fr_66) This follows from what
+<span id="fn_66"></span>[75:\*](flwp22.htm#fr_66.md) This follows from what
 is above demonstrated, viz. that both the inordinate and the orderly are
 perpetually generated.
 
-<span id="fn_67"></span>[75:†](flwp22.htm#fr_67) For το ευλογον here, in
+<span id="fn_67"></span>[75:†](flwp22.htm#fr_67.md) For το ευλογον here, in
 the original, I read το κιωνιον.
 
 ------------------------------------------------------------------------
 
-[Next: Argument the Seventeenth](flwp23)
+[Next: Argument the Seventeenth](flwp23.md)

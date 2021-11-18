@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt13)  [Next](crt15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt13)  [Next](crt15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ corn, an orange, and a ploughshare, and places them on the upper end of
 the log in order that the corn may grow well and the beasts be healthy
 during the year. In Montenegro, instead of throwing corn, he more
 usually breaks a piece of unleavened bread, places it upon the log, and
-pours over it a libation of wine.﻿ [11-1](crt22.htm#Note_11-1)<span
+pours over it a libation of wine.﻿ [11-1](crt22.htm#Note_11-1.md)<span
 id="Nanchor_11-1"></span>
 
 The first visit on Christmas Day is considered important﻿—we may compare
@@ -82,19 +82,19 @@ his household and farm. Money and sometimes an orange are then placed on
 the *badnjak*. It is not allowed to burn quite away; the last remains of
 the fire are extinguished and the embers are laid between the branches
 of young fruit-trees to promote their
-growth.﻿ [11-2](crt22.htm#Note_11-2)<span id="Nanchor_11-2"></span>
+growth.﻿ [11-2](crt22.htm#Note_11-2.md)<span id="Nanchor_11-2"></span>
 
 How shall we interpret these practices? Mannhardt regards the log as an
 embodiment of the vegetation-spirit, and its burning <span
 id="page_253">p. 253</span> <span id="Page_253"></span>as an efficacious
 symbol of sunshine, meant to secure the genial vitalizing influence of
-the sun during the coming year.﻿ [11-3](crt22.htm#Note_11-3)<span
+the sun during the coming year.﻿ [11-3](crt22.htm#Note_11-3.md)<span
 id="Nanchor_11-3"></span> It is, however, possible to connect it with a
 different circle of ideas and to see in its burning the solemn annual
 rekindling of the sacred hearth-fire, the centre of the family life and
 the dwelling-place of the ancestors. Primitive peoples in many parts of
 the world are accustomed to associate fire with human
-generation,﻿ [11-4](crt22.htm#Note_11-4)<span id="Nanchor_11-4"></span>
+generation,﻿ [11-4](crt22.htm#Note_11-4.md)<span id="Nanchor_11-4"></span>
 and it is a general belief among Aryan and other peoples that ancestral
 spirits have their seat in the hearth. In Russia, for instance, “in the
 Nijegorod Government it is still forbidden to break up the smouldering
@@ -102,10 +102,10 @@ faggots in a stove, because to do so might cause the ancestors to fall
 through into hell. And when a Russian family moves from one house to
 another, the fire is conveyed to the new one, where it is received with
 the words, ‘Welcome, grandfather, to the new
-home!’”﻿ [11-5](crt22.htm#Note_11-5)<span id="Nanchor_11-5"></span>
+home!’”﻿ [11-5](crt22.htm#Note_11-5.md)<span id="Nanchor_11-5"></span>
 
 Sir Arthur Evans in three articles in *Macmillan's Magazine* for
-1881﻿ [11-6](crt22.htm#Note_11-6)<span id="Nanchor_11-6"></span> gave a
+1881﻿ [11-6](crt22.htm#Note_11-6.md)<span id="Nanchor_11-6"></span> gave a
 minute account of the Christmas customs of the Serbian highlanders above
 Risano, who practise the log-rites with elaborate ceremonial, and
 explained them as connected in one way or other with ancestor-worship,
@@ -135,15 +135,15 @@ he stayed the fire-irons, the table, and the stools were removed to an
 obscure corner before the logs were brought in and the Christmas rites
 began﻿—an indication apparently of the extreme antiquity of the
 celebration, as dating from a time when such implements were
-unknown.﻿ [11-7](crt22.htm#Note_11-7)<span id="Nanchor_11-7"></span>
+unknown.﻿ [11-7](crt22.htm#Note_11-7.md)<span id="Nanchor_11-7"></span>
 
 If we take the view that ancestral spirits are the centre of the
 *badnjak* observances, we may regard the libations upon the fire as
 intended for their benefit. On the sun and vegetation hypothesis,
 however, the libations would be meant to secure, by homoeopathic magic,
 that sunshine should alternate with the rain necessary for the welfare
-of plants.﻿ [99](crt24.htm#Footnote_99)<span
-id="FNanchor_99"></span>﻿ [11-8](crt22.htm#Note_11-8)<span
+of plants.﻿ [99](crt24.htm#Footnote_99.md)<span
+id="FNanchor_99"></span>﻿ [11-8](crt22.htm#Note_11-8.md)<span
 id="Nanchor_11-8"></span> The fertilizing powers possessed by the sparks
 and ashes of the Christmas log appear frequently in folk-lore, and may
 be explained either by the connection of fire with human generation
@@ -152,7 +152,7 @@ of sacrament of sunshine. It is not perhaps necessary to exclude the
 idea of the log's connection with the vegetation-spirit even on the
 ancestral cult hypothesis, for the tree which furnished the fuel may
 have been regarded as the source of the life of the
-race.﻿ [11-9](crt22.htm#Note_11-9)<span id="Nanchor_11-9"></span> The
+race.﻿ [11-9](crt22.htm#Note_11-9.md)<span id="Nanchor_11-9"></span> The
 Serbian rites certainly suggest very strongly some sort of veneration
 for the log itself as well as for the fire that it feeds.
 
@@ -168,7 +168,7 @@ and the ewes lambs, that corn and flour may abound, and the cask be full
 of wine. Then the youngest child in the family pours wine on the log in
 the name of the Father, Son, and Holy Ghost. The log is then thrown upon
 the fire, and the charcoal is kept all the year and used as a remedy for
-various ills.﻿ [11-11](crt22.htm#Note_11-11)<span
+various ills.﻿ [11-11](crt22.htm#Note_11-11.md)<span
 id="Nanchor_11-11"></span>
 
 Another account is given in his Memoirs by Frédéric Mistral, the
@@ -191,7 +191,7 @@ fruit-tree:﻿—
 > ‘Joy, joy, joy!’ and lifted the log on the fire dogs. Then as the
 > first flame leapt up my father would cross himself, saying, ‘Burn the
 > log, O fire,’ and with that we all sat down to the
-> table.”﻿ [11-12](crt22.htm#Note_11-12)<span id="Nanchor_11-12"></span>
+> table.”﻿ [11-12](crt22.htm#Note_11-12.md)<span id="Nanchor_11-12"></span>
 
 In some places the *tréfoir* or *tison de Noël* is burnt every evening
 during the Thirteen Nights. If put under the bed its charcoal protects
@@ -201,10 +201,10 @@ fodder it makes cows calve; its brands thrown into the soil keep the
 corn healthy. In Périgord the portion which has not been burnt is used
 to form part of a plough, and is believed to make the seed prosper;
 women also keep some fragments until Epiphany that their poultry may
-thrive.﻿ [11-13](crt22.htm#Note_11-13)<span id="Nanchor_11-13"></span>
+thrive.﻿ [11-13](crt22.htm#Note_11-13.md)<span id="Nanchor_11-13"></span>
 In <span id="page_256">p. 256</span> <span id="Page_256"></span>Brittany
 the *tison* is a protection against lightning and its ashes are put in
-wells to keep the water good.﻿ [11-14](crt22.htm#Note_11-14)<span
+wells to keep the water good.﻿ [11-14](crt22.htm#Note_11-14.md)<span
 id="Nanchor_11-14"></span>
 
 In northern Italy also the *ceppo* or log is (or was) known﻿—the
@@ -212,7 +212,7 @@ Piedmontese call it *suc*﻿—and in Tuscany Christmas is called after it
 *Festa di Ceppo*. In the Val di Chiana on Christmas Eve the family
 gathers, a great log is set on the fire, the children are blindfolded
 and have to beat it with tongs, and an *Ave Maria del Ceppo* is
-sung.﻿ [11-15](crt22.htm#Note_11-15)<span id="Nanchor_11-15"></span>
+sung.﻿ [11-15](crt22.htm#Note_11-15.md)<span id="Nanchor_11-15"></span>
 Under the name in Lombardy of *zocco*, in Tuscany of *ciocco*, *di
 Natale*, the Yule log was in olden times common in Italian cities; the
 custom can there be traced back to the eleventh century. A little book
@@ -228,7 +228,7 @@ old Italian custom to preserve the ashes of the *zocco* as a protection
 against hail. A modern superstition is to keep some splinters of the
 wood and burn them in the fires made for the benefit of silkworms; so
 burnt, they are supposed to keep ills away from the
-creatures.﻿ [11-16](crt22.htm#Note_11-16)<span
+creatures.﻿ [11-16](crt22.htm#Note_11-16.md)<span
 id="Nanchor_11-16"></span>
 
 In many parts of Germany Yule log customs can be traced. In Hesse and
@@ -236,7 +236,7 @@ Westphalia, for instance, it was the custom on Christmas Eve or Day to
 lay a large block of wood on the fire and, as soon as it was charred a
 little, to take it off and preserve it. When a storm threatened, it was
 kindled again as a protection against lightning. It was called the
-*Christbrand*.﻿ [11-17](crt22.htm#Note_11-17)<span
+*Christbrand*.﻿ [11-17](crt22.htm#Note_11-17.md)<span
 id="Nanchor_11-17"></span> In Thuringia a *Christklotz* (Christ log) is
 put on the fire before people go to bed, so that it may burn all through
 the night. Its remains are kept to protect the house from fire and
@@ -247,9 +247,9 @@ protect plants and fruit-trees from insects, while in the country
 between the Sieg <span id="page_257">p. 257</span> <span
 id="Page_257"></span>and Lahn the powdered ashes of an oaken log are
 strewn during the Thirteen Nights on the fields, to increase their
-fertility.﻿ [11-18](crt22.htm#Note_11-18)<span
+fertility.﻿ [11-18](crt22.htm#Note_11-18.md)<span
 id="Nanchor_11-18"></span> In Sweden, too, some form of Yule log was
-known,﻿ [11-19](crt22.htm#Note_11-19)<span id="Nanchor_11-19"></span>
+known,﻿ [11-19](crt22.htm#Note_11-19.md)<span id="Nanchor_11-19"></span>
 and in Greece, as we have seen, the burning of a log is still supposed
 to be a protection against *Kallikantzaroi*.
 
@@ -277,8 +277,8 @@ Herrick's words:﻿—
 <span class="i3">On your psaltries play,</span>  
 <span class="i3">That sweet luck may</span>  
 <span class="i2">Come while the log is
-a-teending.”﻿ [100](crt24.htm#Footnote_100)<span
-id="FNanchor_100"></span>﻿ [11-20](crt22.htm#Note_11-20)<span
+a-teending.”﻿ [100](crt24.htm#Footnote_100.md)<span
+id="FNanchor_100"></span>﻿ [11-20](crt22.htm#Note_11-20.md)<span
 id="Nanchor_11-20"></span> </span>  
 
 </div>
@@ -303,16 +303,16 @@ Gomme:﻿—
 > <span id="page_258">p. 258</span> <span id="Page_258"></span>the
 > village pile \[for on New Year's Eve a great public bonfire is made\].
 > In some places the self-extinction of the yule-log at Christmas is
-> portentous of evil.”﻿ [11-21](crt22.htm#Note_11-21)<span
+> portentous of evil.”﻿ [11-21](crt22.htm#Note_11-21.md)<span
 > id="Nanchor_11-21"></span>
 
 In the north of England in the days of tinder-boxes, if any one could
 not get a light it was useless to ask a neighbour for one, so
 frightfully unlucky was it to allow any light to leave the house between
-Christmas Eve and New Year's Day.﻿ [11-22](crt22.htm#Note_11-22)<span
+Christmas Eve and New Year's Day.﻿ [11-22](crt22.htm#Note_11-22.md)<span
 id="Nanchor_11-22"></span> The idea of the unluckiness of giving out
 fire at the Kalends of January can be traced back to the eighth century
-when, as we saw in  [VI](crt10.htm#Chapter_VI), St. Boniface alluded to
+when, as we saw in  [VI](crt10.htm#Chapter_VI.md), St. Boniface alluded to
 this superstition among the people or Rome.
 
 In Shropshire the idea is extended even to ashes, which must not be
@@ -320,7 +320,7 @@ thrown out of the house on Christmas Day, “for fear of throwing them in
 Our Saviour's face.” Perhaps such superstitions may originally have had
 to do with dread that the “luck” of the family, the household spirit,
 might be carried away with the gift of fire from the
-hearth.﻿ [11-23](crt22.htm#Note_11-23)<span id="Nanchor_11-23"></span>
+hearth.﻿ [11-23](crt22.htm#Note_11-23.md)<span id="Nanchor_11-23"></span>
 
 When Miss Burne wrote in the eighties there were still many West
 Shropshire people who could remember seeing the “Christmas Brand” drawn
@@ -331,7 +331,7 @@ tended that it might not go out during the whole season, during which
 time no light might either be struck, given, or borrowed.” At Cleobury
 Mortimer in the south-east of the county the silence of the curfew bell
 during “the Christmas” points to a time when fires might not be
-extinguished during that season.﻿ [11-24](crt22.htm#Note_11-24)<span
+extinguished during that season.﻿ [11-24](crt22.htm#Note_11-24.md)<span
 id="Nanchor_11-24"></span>
 
 The place of the Yule log in Devonshire is taken by the “ashen
@@ -339,13 +339,13 @@ The place of the Yule log in Devonshire is taken by the “ashen
 Eve. The sticks of ash are fastened together by ashen bands, and the
 traditional custom is for a quart of cider to be called for and served
 to the merrymaking company, as each band bursts in the
-flames.﻿ [11-25](crt22.htm#Note_11-25)<span id="Nanchor_11-25"></span>
+flames.﻿ [11-25](crt22.htm#Note_11-25.md)<span id="Nanchor_11-25"></span>
 
 In England the Yule log was often supplemented or replaced <span
 id="page_259">p. 259</span> <span id="Page_259"></span>by a great
 candle. At Ripon in the eighteenth century the chandlers sent their
 customers large candles on Christmas Eve, and the coopers, logs of
-wood.﻿ [11-26](crt22.htm#Note_11-26)<span id="Nanchor_11-26"></span>
+wood.﻿ [11-26](crt22.htm#Note_11-26.md)<span id="Nanchor_11-26"></span>
 Hampson, writing in 1841, says:﻿—
 
 > “In some places candles are made of a particular kind, because the
@@ -356,8 +356,8 @@ Hampson, writing in 1841, says:﻿—
 > in the north of Scotland given by merchants to their customers. At one
 > time children at the village schools in Lancashire were required to
 > bring each a mould candle before the *parting* or separation for the
-> Christmas holidays.”﻿ [101](crt24.htm#Footnote_101)<span
-> id="FNanchor_101"></span>﻿ [11-27](crt22.htm#Note_11-27)<span
+> Christmas holidays.”﻿ [101](crt24.htm#Footnote_101.md)<span
+> id="FNanchor_101"></span>﻿ [11-27](crt22.htm#Note_11-27.md)<span
 > id="Nanchor_11-27"></span>
 
 In the Scandinavian countries the Yule candle is, or was, very prominent
@@ -365,11 +365,11 @@ indeed. In West Jutland (Denmark) two great tallow candles stood on the
 festive board. No one dared to touch or extinguish them, and if by any
 mischance one went out it was a portent of death. They stood for the
 husband and wife, and that one of the wedded pair whose candle burnt the
-longer would outlive the other.﻿ [11-28](crt22.htm#Note_11-28)<span
+longer would outlive the other.﻿ [11-28](crt22.htm#Note_11-28.md)<span
 id="Nanchor_11-28"></span>
 
 In Norway also two lights were placed on the
-table.﻿ [11-29](crt22.htm#Note_11-29)<span id="Nanchor_11-29"></span>
+table.﻿ [11-29](crt22.htm#Note_11-29.md)<span id="Nanchor_11-29"></span>
 All over the Scandinavian lands the Yule candle had to burn throughout
 the night; it was not to be extinguished till the sun rose or﻿—as was
 said elsewhere﻿—till the beginning of service on Christmas Day.
@@ -386,10 +386,10 @@ id="page_260">p. 260</span> <span id="Page_260"></span>the tallow, when
 used for the first time in spring. Or again the tallow was given to the
 fowls; and, lastly, in Denmark the ends were preserved and burnt in
 thundery weather to protect the house from
-lightning.﻿ [11-30](crt22.htm#Note_11-30)<span
+lightning.﻿ [11-30](crt22.htm#Note_11-30.md)<span
 id="Nanchor_11-30"></span> There is an analogy here with the use of the
 Christmas log, and also of the candles of the Purification (see
- [XVI](crt20.htm#Chapter_XVI)).
+ [XVI](crt20.htm#Chapter_XVI).md).
 
 <span id="page_261">p. 261</span> <span id="Page_261"></span><span
 id="page_262">p. 262</span> <span id="Page_262"></span><span
@@ -399,4 +399,4 @@ id="page_263">p. 263</span> <span id="Page_263"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Christmas-Tree, Decorations, and Gifts](crt15)
+[Next: Chapter XI. The Christmas-Tree, Decorations, and Gifts](crt15.md)

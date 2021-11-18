@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](aenl06)  [Previous](aen05) 
-[Next](aen07) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](aenl06)  [Previous](aen05.md) 
+[Next](aen07.md) 
 
 ------------------------------------------------------------------------
 
@@ -1286,4 +1286,4 @@ Their heads are turn'd to sea, their sterns to shore.
 
 ------------------------------------------------------------------------
 
-[Next: Book VII](aen07)
+[Next: Book VII](aen07.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](coz03)  [Next](coz05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](coz03)  [Next](coz05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -194,7 +194,7 @@ Proc. in *Crat*. T.
 
 Proc. in *Tim*. Z. or T.
 
-[68](errata.htm#1). The Fountain of Fountains, and the boundary of all
+[68](errata.htm#1.md). The Fountain of Fountains, and the boundary of all
 fountains.
 
 Dam., *De Prin*.
@@ -263,4 +263,4 @@ by more acute eyes, especially in Persia and Africa.
 
 ------------------------------------------------------------------------
 
-[Next: Particular Souls](coz05)
+[Next: Particular Souls](coz05.md)

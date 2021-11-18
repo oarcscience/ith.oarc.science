@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,8 +30,8 @@ FROM THE EARLIEST TIMES TO THE PRESENT DAY</h3>
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hod00)    [Page
-Index](pageidx)    [Text \[Zipped\]](hod.txt.gz)
+[Contents](#contents)    [Start Reading](hod00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](hod.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Index](pageidx)    [Text \[Zipped\]](hod.txt.gz)
 This massive work on the history of evil, particularly as symbolized by
 the Christian devil, was written on the cusp of the 20th century by Paul
 Carus, who wrote such other books as '[Buddha, the
-Gospel](../../bud/btg/index)'.
+Gospel](../../bud/btg/index.md)'.
 
 At that point in history it seemed apparent that evil would soon be
 eliminated by the onrushing forces of rationalism and modernism. The
@@ -50,8 +50,8 @@ devil had been reduced to a literary character, always ready to make a
 silly bargain for a soul. This trivialized image is perpetuated to this
 day. Satan in the cinema is either represented as a hideous special
 effect or a comic, bumbling trickster. Long gone is the noble adversary
-of Jehovah, as portrayed in the [Bible](../../bib/index),
-[Milton](../../chr/milton/index) or [Dante](../../chr/dante/index).
+of Jehovah, as portrayed in the [Bible](../../bib/index.md),
+[Milton](../../chr/milton/index) or [Dante](../../chr/dante/index.md).
 
 However, the 20th century brought total war; genocide; death camps;
 nuclear, biological and chemical weapons; mind control; double-speak;
@@ -72,24 +72,24 @@ ebook, which was an extremely difficult production job. -- J.B. Hare.
 
 ------------------------------------------------------------------------
 
-[Title Page](hod00)  
-[Contents](hod01)  
-[List of Illustrations](hod02)  
-[Good and Evil as Religious Ideas](hod03)  
-[Devil Worship](hod04)  
-[Ancient Egypt](hod05)  
-[Accad and the Early Semites](hod06)  
-[Persian Dualism](hod07)  
-[Israel](hod08)  
-[Brahmanism and Hinduism](hod09)  
-[Buddhism](hod10)  
-[The Dawn of a New Era.](hod11)  
-[Early Christianity](hod12)  
-[The Idea of Salvation in Greece and Italy.](hod13)  
-[The Demonology of Northern Europe](hod14)  
-[The Devil's Prime.](hod15)  
-[The Inquisition](hod16)  
-[The Age of the Reformation](hod17)  
-[The Abolition of Witch-Prosecution](hod18)  
-[In Verse and Fable](hod19)  
-[The Philosophical Problem of Good and Evil](hod20)  
+[Title Page](hod00.md)  
+[Contents](hod01.md)  
+[List of Illustrations](hod02.md)  
+[Good and Evil as Religious Ideas](hod03.md)  
+[Devil Worship](hod04.md)  
+[Ancient Egypt](hod05.md)  
+[Accad and the Early Semites](hod06.md)  
+[Persian Dualism](hod07.md)  
+[Israel](hod08.md)  
+[Brahmanism and Hinduism](hod09.md)  
+[Buddhism](hod10.md)  
+[The Dawn of a New Era.](hod11.md)  
+[Early Christianity](hod12.md)  
+[The Idea of Salvation in Greece and Italy.](hod13.md)  
+[The Demonology of Northern Europe](hod14.md)  
+[The Devil's Prime.](hod15.md)  
+[The Inquisition](hod16.md)  
+[The Age of the Reformation](hod17.md)  
+[The Abolition of Witch-Prosecution](hod18.md)  
+[In Verse and Fable](hod19.md)  
+[The Philosophical Problem of Good and Evil](hod20.md)  

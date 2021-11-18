@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof13)  [Next](sof15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof13)  [Next](sof15.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head12.png"></span> ![Header Chapter XII.](img/head12.png)
+<span id="img_head12.png"></span> ![Header Chapter XII.](img/head12.png.md)
 
 ## XII.
 
@@ -23,7 +23,7 @@ Symbolism of Freemasonry."
 
 Bearing in mind that speculative Masonry dates its origin from the
 building of King Solomon's temple by Jewish and Tyrian
-artisans, [53](sof37.htm#xref_53) the first important fact that attracts
+artisans, [53](sof37.htm#xref_53.md) the first important fact that attracts
 the attention is, that the operative masons at Jerusalem were engaged in
 the construction of an earthly and material temple, to be dedicated to
 the service and worship of God--a house in which Jehovah was to dwell
@@ -53,7 +53,7 @@ Temple worship is in itself an ancient type of the religious sentiment
 in its progress towards spiritual elevation. As soon as a nation
 emerged, in the world's progress, out of Fetichism, or the worship of
 visible objects,--the most degraded form of idolatry,--its people began
-to establish a priesthood and to erect temples. [54](sof37.htm#xref_54)
+to establish a priesthood and to erect temples. [54](sof37.htm#xref_54.md)
 The Scandinavians, the Celts, the Egyptians, and the Greeks, however
 much they may have differed in the ritual and the objects of their
 polytheistic worship, all were possessed of priests and temples. The
@@ -72,7 +72,7 @@ future aggregations of succeeding intellects. And yet no biblical
 scholar will venture to deny that there was, in the mode of building,
 and in all the circumstances connected with the construction of King
 Solomon's temple, an apparent design to establish a foundation for
-symbolism. [55](sof37.htm#xref_55)
+symbolism. [55](sof37.htm#xref_55.md)
 
 I propose now to illustrate, by a few examples, the method in which the
 speculative Masons have appropriated this design of King Solomon to
@@ -124,7 +124,7 @@ Here, then, again, in these materials do we find other elementary
 symbols. The rough and unpolished stone is a symbol of man's natural
 state--ignorant, uncultivated, and, as the Roman historian expresses it,
 "grovelling to the earth, like the beasts of the field, and obedient to
-every sordid appetite;"  [56](sof37.htm#xref_56) but when education has
+every sordid appetite;"  [56](sof37.htm#xref_56.md) but when education has
 exerted its salutary influences in expanding his intellect, in
 restraining his hitherto unruly passions, and purifying his life, he is
 then represented by the perfect ashlar, or finished stone, which, under
@@ -137,10 +137,10 @@ symbolic science. We learn from the account of the temple, contained in
 the First Book of Kings, that "The house, when it was in building, was
 built of stone, made ready before it was brought thither, so that there
 was neither hammer nor axe, nor any tool of iron, heard in the house
-while it was in building."  [57](sof37.htm#xref_57)
+while it was in building."  [57](sof37.htm#xref_57.md)
 
 Now, this mode of construction, undoubtedly adopted to avoid confusion
-and discord among so many thousand workmen, [58](sof37.htm#xref_58) has
+and discord among so many thousand workmen, [58](sof37.htm#xref_58.md) has
 been selected as an elementary symbol of concord and harmony--virtues
 which are not more essential to the preservation and perpetuity of our
 own society than they are to that of every human association.
@@ -207,7 +207,7 @@ gauge is a symbol of time well employed; the common gavel, of the
 purification of the heart.
 
 Here we may pause for a moment to refer to one of the coincidences
-between Freemasonry and those *Mysteries* [59](sof37.htm#xref_59) which
+between Freemasonry and those *Mysteries* [59](sof37.htm#xref_59.md) which
 formed so important a part of the ancient religions, and which
 coincidences have led the writers on this subject to the formation of a
 well-supported theory that there was a common connection between them.
@@ -241,7 +241,7 @@ had received the second degree of the ancient Mysteries. At this stage
 of the operative work more extensive and important labors were to be
 performed, and accordingly a greater amount of skill and knowledge was
 required of those to whom these labors were intrusted. The stones,
-having been prepared by the Apprentices [60](sof37.htm#xref_60) (for
+having been prepared by the Apprentices [60](sof37.htm#xref_60.md) (for
 hereafter, in speaking of the workmen of the temple, I shall use the
 equivalent appellations of the more modern Masons), were now to be
 deposited in their destined places in the building, and the massive
@@ -279,7 +279,7 @@ left, so the speculative Mason, guided by the unerring principles of
 right and truth inculcated in the symbolic teachings of the same
 implement, is steadfast in the pursuit of truth, neither bending beneath
 the frowns of adversity nor yielding to the seductions of
-prosperity. [61](sof37.htm#xref_61)
+prosperity. [61](sof37.htm#xref_61.md)
 
 The level, the last of the three working tools of the operative
 craftsman, is a symbol of equality of station. Not that equality of
@@ -289,7 +289,7 @@ which affects the whole human race as the children of one common Father,
 who causes his sun to shine and his rain to fall on all alike, and who
 has so appointed the universal lot of humanity, that death, the leveller
 of all human greatness, is made to visit with equal pace the prince's
-palace and the peasant's hut. [62](sof37.htm#xref_62)
+palace and the peasant's hut. [62](sof37.htm#xref_62.md)
 
 Here, then, we have three more signs or hieroglyphics added to our
 alphabet of symbolism. Others there are in this degree, but they belong
@@ -310,7 +310,7 @@ workmen,--whose duty it was to superintend the two other classes, and to
 see that the stones were not only duly prepared, but that the most exact
 accuracy had been observed in giving to them their true juxtaposition in
 the edifice. It was then only that the last and finishing
-labor [63](sof37.htm#xref_63) was performed, and the cement was applied
+labor [63](sof37.htm#xref_63.md) was performed, and the cement was applied
 by these skilful workmen, to secure the materials in their appropriate
 places, and to unite the building in one enduring and connected mass.
 Hence the *trowel*, we are informed, was the most important, though of
@@ -376,6 +376,6 @@ antiquity, in this "temple symbolism" it differs from them all.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. The Form of the Lodge](sof15)
+[Next: XIII. The Form of the Lodge](sof15.md)
 
 </div>

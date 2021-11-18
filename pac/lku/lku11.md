@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku10)  [Next](lku12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku10)  [Next](lku12.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Their first-born with sacred birthright
 
 ------------------------------------------------------------------------
 
-[Next: The Eleventh Era](lku12)
+[Next: The Eleventh Era](lku12.md)

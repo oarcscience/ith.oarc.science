@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw14) 
-[Next](wbw16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw14.md) 
+[Next](wbw16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -145,6 +145,6 @@ Then she nodded to him friendly and went her ways.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Of The King's Son And The Maid](wbw16)
+[Next: Chapter XVI: Of The King's Son And The Maid](wbw16.md)
 
 </div>

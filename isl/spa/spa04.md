@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa03)  [Next](spa05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa03)  [Next](spa05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ and with its people, he held no greater intercourse than necessity and
 the means of subsistence demanded. He is said to have been passionately
 fond of hearing religious songs, accompanied by some musical instrument,
 which the <u>Ch</u>astī sect of Muḥammadans <span
-id="fr_23"></span>[\*](#fn_23) appears to have a great partiality for.
+id="fr_23"></span>[\*](#fn_23.md) appears to have a great partiality for.
 After a time, when the gift of poesy was bestowed upon him, he became a
 strict recluse,
 
@@ -58,7 +58,7 @@ the future, to attend the place of public worship, and to pray and
 perform his other religious duties, along with the members of the
 congregation. He thus, whether agreeable to himself or not, was obliged
 in some measure to mix with the world; and this, doubtless, gave rise to
-the ode at page [29](spa05.htm#page_29), to which the reader is
+the ode at page [29](spa05.htm#page_29.md), to which the reader is
 referred.
 
 Raḥmān appears to have been in the habit of giving the copies of his
@@ -92,7 +92,7 @@ succeeded in collecting the poems in a single volume.
 
 By some accounts, the poet would appear to have been a co-temporary of
 the warrior-poet, <u>Kh</u>u<u>sh</u>ḥāl <u>Kh</u>ān; <span
-id="fr_24"></span>[\*](#fn_24) and it has been stated, that on two or
+id="fr_24"></span>[\*](#fn_24.md) and it has been stated, that on two or
 three occasions they held poetical disputations together. This, however,
 cannot be true; for it seems that although Raḥmān was living towards the
 latter part of that brave chieftain's life, yet he was a mere youth, and
@@ -102,7 +102,7 @@ rare, excellent, and extensive Af<u>gh</u>ān history, entitled,
 "Tārī<u>kh</u>-i-Muraṣṣaæ," and other valuable works. A proof of the
 incorrectness of this statement is, that the tragical end of Gul
 <u>Kh</u>ān and Jamal <u>Kh</u>ān, which Raḥmān and the poet Ḥamīd also
-have devoted a long poem to, <span id="fr_25"></span>[†](#fn_25) took
+have devoted a long poem to, <span id="fr_25"></span>[†](#fn_25.md) took
 place in the year of the Hijrah 1123 (<span
 class="smallcaps">a.d.</span> 1711), twenty-five years after the death
 of <u>Kh</u>u<u>sh</u>ḥāl. Another, and still stronger proof against the
@@ -125,17 +125,17 @@ village.
 
 ### Footnotes
 
-<span id="fn_23"></span>[1:\*](spa04.htm#fr_23) So called from a
+<span id="fn_23"></span>[1:\*](spa04.htm#fr_23.md) So called from a
 celebrated devotee named Muæīn-ud-Dīn, who dwelt at a place named
 <u>Ch</u>ast, in Arabia. The sect still exists in Af<u>gh</u>ānistān and
 the Panjāb.
 
-<span id="fn_24"></span>[3:\*](spa04.htm#fr_24) See Memoir preceding his
+<span id="fn_24"></span>[3:\*](spa04.htm#fr_24.md) See Memoir preceding his
 poems.
 
-<span id="fn_25"></span>[3:†](spa04.htm#fr_25) See Ḥamīd, Poem XLI. and
+<span id="fn_25"></span>[3:†](spa04.htm#fr_25.md) See Ḥamīd, Poem XLI. and
 note.
 
 ------------------------------------------------------------------------
 
-[Next: The Poems of Æabd-ur-Raḥmān](spa05)
+[Next: The Poems of Æabd-ur-Raḥmān](spa05.md)

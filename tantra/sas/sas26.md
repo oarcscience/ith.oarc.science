@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas25)  [Next](sas27)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas25)  [Next](sas27.md)  
 
 ------------------------------------------------------------------------
 
@@ -1963,4 +1963,4 @@ affording the means whereby Vedantik doctrine is realized.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Twenty-seven: The Pañcatattva (The Secret Ritual)](sas27)
+Next: [Chapter Twenty-seven: The Pañcatattva (The Secret Ritual)](sas27.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo59)  [Next](hoo61) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo59)  [Next](hoo61.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Female and Male, all charming to the sight, 5
 Adonis ever flourishing and bright;  
 At stated periods doom'd to set and rise,  
 With splendid lamp, the glory of the skies.  <span
-id="fr_115"></span>[8](#fn_115)  
+id="fr_115"></span>[8](#fn_115.md)  
 Two-horn'd and lovely, reverenc'd with tears,  
 Of beauteous form, adorn'd with copious hairs. 10  
 Rejoicing in the chace, all-graceful pow'r,  
@@ -36,11 +36,11 @@ Come, with earth's fruits, and in these flames delight.
 
 ### Footnotes
 
-<span id="fn_115"></span>[188:8](hoo60.htm#fr_115) Ver. 8.\] *With
+<span id="fn_115"></span>[188:8](hoo60.htm#fr_115.md) Ver. 8.\] *With
 splendid lamp*, &c. Proclus, in his elegant Hymn to the Sun, celebrates
 him as frequently called Adonis; and this perfectly agrees with the
 present epithet, and with many others in the Hymn.
 
 ------------------------------------------------------------------------
 
-[Next: LVI: To the Terrestrial Hermes](hoo61)
+[Next: LVI: To the Terrestrial Hermes](hoo61.md)

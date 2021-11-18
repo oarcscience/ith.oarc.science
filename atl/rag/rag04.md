@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag03)  [Next](rag05) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag03)  [Next](rag05.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ We will consider these several theories in their order.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Action Of Waves](rag05)
+[Next: Chapter III. The Action Of Waves](rag05.md)

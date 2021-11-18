@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub69) 
-[Next](jub71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub69.md) 
+[Next](jub71.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ than Jacob, because he was the first-born; but now I love Jacob more
 than Esau, for he hath done manifold evil deeds, and there is no
 righteousness in him, for all his ways are unrighteousness and violence,
 \[and there is no righteousness around him\]. <span
-id="fr_803"></span>[1](#fn_795) 14. And now my heart is troubled because
+id="fr_803"></span>[1](#fn_795.md) 14. And now my heart is troubled because
 of all his deeds, and neither he nor his seed is to be saved, for they
 are those who will be destroyed from the earth, and who will be rooted
 out from under heaven, for he hath forsaken the God of Abraham and gone
@@ -75,8 +75,8 @@ not slay Jacob, his brother; even if he swear he will not abide by his
 oath, and he will not do good but evil only. 16. But if he desireth to
 slay Jacob, his brother, into Jacob's hands will he be given, and he
 will not escape from his hands, \[for he will descend into his
-hands.\] <span id="fr_804"></span>[2](#fn_796) 17. And fear thou not on
-account of Jacob; for the guardian <span id="fr_805"></span>[3](#fn_797)
+hands.\] <span id="fr_804"></span>[2](#fn_796.md) 17. And fear thou not on
+account of Jacob; for the guardian <span id="fr_805"></span>[3](#fn_797.md)
 of Jacob is great and powerful and honoured, and praised more than the
 guardian of Esau." 18. And Rebecca sent
 
@@ -115,23 +115,23 @@ and one year old, on that night, and her two sons, Esau and
 <span id="page_176">p. 176</span>
 
 Jacob, buried her in the double cave <span
-id="fr_806"></span>[1](#fn_798) near Sarah, their father's mother.
+id="fr_806"></span>[1](#fn_798.md) near Sarah, their father's mother.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_795"></span>[174:1](jub70.htm#fr_803) ? a dittograph.
+<span id="fn_795"></span>[174:1](jub70.htm#fr_803.md) ? a dittograph.
 
-<span id="fn_796"></span>[174:2](jub70.htm#fr_804) ? bracketed words a
+<span id="fn_796"></span>[174:2](jub70.htm#fr_804.md) ? bracketed words a
 gloss; cf. xxxvi. 9.
 
-<span id="fn_797"></span>[174:3](jub70.htm#fr_805) ? the guardian-angel;
+<span id="fn_797"></span>[174:3](jub70.htm#fr_805.md) ? the guardian-angel;
 cf. Matt. xviii. 10; Acts xii. 15; Heb. i. 14.
 
-<span id="fn_798"></span>[176:1](jub70.htm#fr_806) *i. e.* Machpelah.
+<span id="fn_798"></span>[176:1](jub70.htm#fr_806.md) *i. e.* Machpelah.
 
 ------------------------------------------------------------------------
 
 [Next: Isaac's Last Words and Admonitions: his Death. The Death of Leah
-(xxxvi. 1-24)](jub71)
+(xxxvi. 1-24)](jub71.md)

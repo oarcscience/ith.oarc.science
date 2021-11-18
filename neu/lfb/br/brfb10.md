@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb09)  [Next](brfb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb09)  [Next](brfb11.md) 
 
 </div>
 
@@ -206,6 +206,6 @@ not dead, you may meet him still.
 
 ------------------------------------------------------------------------
 
-[Next: How Geirald The Coward Was Punished](brfb11)
+[Next: How Geirald The Coward Was Punished](brfb11.md)
 
 </div>

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab06)  [Next](saab08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab06)  [Next](saab08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -109,8 +109,8 @@ But the Sheikh replied: "Remember
 "Do it with a Will Resign’d."
 
 <span id="img_01200"></span> <span align="CENTER"> [![](tn/01200.jpg)  
-Click to enlarge](img/01200.jpg)</span>
+Click to enlarge](img/01200.jpg.md)</span>
 
 ------------------------------------------------------------------------
 
-[Next: VI](saab08)
+[Next: VI](saab08.md)

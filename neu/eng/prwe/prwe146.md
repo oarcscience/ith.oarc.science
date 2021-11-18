@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe145)  [Next](prwe147) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe145)  [Next](prwe147.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ Gibert, Parochial History of Cornwall,* vol. ii. p. 121.
 
 ------------------------------------------------------------------------
 
-[Next: The Well of St Keyne](prwe147)
+[Next: The Well of St Keyne](prwe147.md)

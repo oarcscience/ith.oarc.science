@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws09)  [Next](cws11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws09)  [Next](cws11.md) 
 
 ------------------------------------------------------------------------
 
 ### No. VI
 
-#### CONCERNING THE MOSAIC COSMOGONY <span id="fr_56"></span>[2](#fn_56)
+#### CONCERNING THE MOSAIC COSMOGONY <span id="fr_56"></span>[2](#fn_56.md)
 
 THE opening chapters of Genesis have, in some of their applications, a
 reference to the Mysteries. The following are some of their manifold
@@ -98,14 +98,14 @@ generation and education.
 
 ### Footnotes
 
-<span id="fn_55"></span>[15:1](cws09.htm#fr_55) Meaning, "the beginning
+<span id="fn_55"></span>[15:1](cws09.htm#fr_55.md) Meaning, "the beginning
 of he World in the Church: of worldliness or materiality, that is, in
 the interpretation of things spiritual" (*Life of Anna Kingsford*, vol.
 i. p 261).    S. H. H.
 
-<span id="fn_56"></span>[15:2](cws10.htm#fr_56) Boulogne, August 1880.
+<span id="fn_56"></span>[15:2](cws10.htm#fr_56.md) Boulogne, August 1880.
 Received in sleep.
 
 ------------------------------------------------------------------------
 
-[Next: No. VII: Concerning The Fall](cws11)
+[Next: No. VII: Concerning The Fall](cws11.md)

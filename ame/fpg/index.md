@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,6 +13,6 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](fpg00)  
-[Part I](fpg01)  
-[Part II](fpg02)  
+[Title Page](fpg00.md)  
+[Part I](fpg01.md)  
+[Part II](fpg02.md)  

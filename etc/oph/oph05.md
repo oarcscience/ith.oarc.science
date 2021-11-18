@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](oph04)  [Next](oph06) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](oph04)  [Next](oph06.md) 
 
 ------------------------------------------------------------------------
 
@@ -550,7 +550,7 @@ departure and recommended to them the good form of government which had
 been established, he returned to Mexico the same way he came, making
 some stay at Chanpotan, where, as a memorial of his journey, he erected
 a structure in the sea, which is to be seen to this day."  <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 We have here the direct statement that the principal structure at
 Mayapan was called Cuculcan; and from the language of Herrara the
@@ -838,7 +838,7 @@ idea of the large and many well-constructed buildings of lime and stone,
 which Bernal Diaz saw at Campeachy, with figures of serpents and idols
 painted on their walls." Mr. Norman mentions that the heads of the
 serpents were adorned with plumes of feathers, and that the tails showed
-the peculiarity of the rattlesnake.  <span id="fr_1"></span>[2](#fn_1)
+the peculiarity of the rattlesnake.  <span id="fr_1"></span>[2](#fn_1.md)
 
 The eastern facade, opposite that just described, is less elaborately,
 but more tastefully ornamented. Over each doorway is an ornament
@@ -881,11 +881,11 @@ of their religion were derived from a common Tottecan root.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](oph05.htm#fr_0) Herrara, Hist. America, vol.
+<span id="fn_0"></span>[1](oph05.htm#fr_0.md) Herrara, Hist. America, vol.
 iv., pp. 162-3
 
-<span id="fn_1"></span>[2](oph05.htm#fr_1) Trav. in Yucatan.
+<span id="fn_1"></span>[2](oph05.htm#fr_1.md) Trav. in Yucatan.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](oph06)
+[Next: Chapter 6](oph06.md)

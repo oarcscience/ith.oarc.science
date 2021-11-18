@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfl09)  [Next](wfl11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfl09)  [Next](wfl11.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ their fingers, so that they drop it, when it sinks into the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: Origins of Welsh Fairies](wfl11)
+[Next: Chapter XI: Origins of Welsh Fairies](wfl11.md)

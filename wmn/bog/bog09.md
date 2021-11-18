@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog08)  [Next](bog10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog08)  [Next](bog10.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ The Three in One.
 
 ------------------------------------------------------------------------
 
-[Next: Hymns to the Ennead](bog10)
+[Next: Hymns to the Ennead](bog10.md)

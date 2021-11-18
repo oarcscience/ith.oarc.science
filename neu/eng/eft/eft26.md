@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft25)  [Next](eft27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft25)  [Next](eft27.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,7 +145,7 @@ of the fish, his majesty ordered him a new suit of clothes, and to be
 mounted as a knight on a mouse.
 
 <span id="img_026"></span> [![](tn/026.jpg)  
-Click to enlarge](img/026.jpg)
+Click to enlarge](img/026.jpg.md)
 
 Of Butterfly's wings his shirt was made,  
 His boots of chicken's hide;  
@@ -212,8 +212,8 @@ And cry,--Alas! Tom Thumb is dead!
  
 
 <span id="img_027"></span> [![](tn/027.jpg)  
-Click to enlarge](img/027.jpg)
+Click to enlarge](img/027.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Mr Fox](eft27)
+[Next: Mr Fox](eft27.md)

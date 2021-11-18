@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip73)  [Next](fip75) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip73)  [Next](fip75.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
 
 ### THE ENCHANTMENT OF GEAROIDH IARLA.
 
-PATRICK KENNEDY. <span id="fr_67"></span>[1](#fn_67)
+PATRICK KENNEDY. <span id="fr_67"></span>[1](#fn_67.md)
 
 IN old times in Ireland there was a great man of the Fitzgeralds. The
 name on him was Gerald, but the Irish, that always had a great liking
@@ -59,7 +59,7 @@ steed, whose silver shoes were half an inch thick the time he
 disappeared; and when these shoes are worn as thin as a cat's ear he
 will be restored to the society of living men, fight a great battle with
 the English, and reign king of Ireland for two-score years. <span
-id="fr_68"></span>[1](#fn_68)
+id="fr_68"></span>[1](#fn_68.md)
 
 Himself and his warriors are now sleeping in a long cavern under the
 Rath of Mullaghmast. There is a table running along through the middle
@@ -92,12 +92,12 @@ opportunity.
 
 ### Footnotes
 
-<span id="fn_67"></span>[294:1](fip74.htm#fr_67) *Legendary Fiction of
+<span id="fn_67"></span>[294:1](fip74.htm#fr_67.md) *Legendary Fiction of
 the Irish Celts*.--(Macmillan).
 
-<span id="fn_68"></span>[295:1](fip74.htm#fr_68) The last time *Gearoidh
+<span id="fn_68"></span>[295:1](fip74.htm#fr_68.md) The last time *Gearoidh
 Iarla* appeared the horse-shoes were as thin as sixpence.
 
 ------------------------------------------------------------------------
 
-[Next: Munachar and Manachar, tr. by Douglas Hyde](fip75)
+[Next: Munachar and Manachar, tr. by Douglas Hyde](fip75.md)

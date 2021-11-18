@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos04)  [Next](mos06) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos04)  [Next](mos06.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ twain, and those who follow you, will be the winners(Al-Qasas:35).
 
 ------------------------------------------------------------------------
 
-[Next: Aaron as A Henchman as Moses Requested](mos06)
+[Next: Aaron as A Henchman as Moses Requested](mos06.md)

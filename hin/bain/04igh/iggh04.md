@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh03) 
-[Next](iggh05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh03.md) 
+[Next](iggh05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -30,7 +30,7 @@ Textual Heritage
 world and all its creatures and even the gods themselves were young,
 there lived in a certain country a King who died, leaving the kingdom to
 his heir. And this heir was only eighteen years old, and his name was
-Ranga <span id="fr_9"></span>[a](#fn_9). And though he resembled in
+Ranga <span id="fr_9"></span>[a](#fn_9.md). And though he resembled in
 person a combination of the gods of love and war, and was beloved by his
 subjects, he was generous and hot-tempered and open-hearted and
 credulous and inexperienced in the ways of the world: and he fell
@@ -52,7 +52,7 @@ For all my life I have been pious, and cultivated your divinity, and
 honoured you with praises and offerings: and yet by way of return, you
 have paid no attention to me, and allowed me to fall into this
 condition. Now, therefore, I have become an atheist and a
-*nástika* <span id="fr_10"></span>[b](#fn_10). And in his rage he abused
+*nástika* <span id="fr_10"></span>[b](#fn_10.md). And in his rage he abused
 the gods, calling them all by their names. And then he said: Henceforth
 I will worship none of you, and nothing, save only Her who alone
 deserves adoration, the Great Goddess of Chance and Wealth and Beauty
@@ -63,7 +63,7 @@ resemblest the sea that produced
 <span id="page_13">p. 13</span>
 
 thee, O Kamalá, O Padmá, O Shrí, O Lakshmí <span
-id="fr_11"></span>[c](#fn_11), O Beauty of beauties and Lotus of
+id="fr_11"></span>[c](#fn_11.md), O Beauty of beauties and Lotus of
 lotuses, show thy miserable worshipper favour. Thou art the very essence
 and soul of caprice, thou art compounded of the substance of waves and
 of bubbles and flashes of lightning, rivers that flow and flames that
@@ -93,7 +93,7 @@ having herself but lately risen from the sea. And she looked at him out
 of the corner of her long lotus eyes, and saw that he was very young,
 and very handsome; and she took a sudden fancy to him, and pitied him.
 So when he had finished, she cast at him a glance of approval, smiling
-with honied lips like a coquette <span id="fr_12"></span>[d](#fn_12)
+with honied lips like a coquette <span id="fr_12"></span>[d](#fn_12.md)
 whose vanity is flattered, and she said: Come, I will prove to this
 good-looking young Rajpoot that he was not deceived, when he chose my
 divinity for adoration as more worthy of worship than that of any other
@@ -143,13 +143,13 @@ leaving the rope hanging down.
 
 ### Footnotes
 
-<span id="fn_9"></span>[11:a](iggh04.htm#fr_9) 'Dye,' 'colour,' and so,
+<span id="fn_9"></span>[11:a](iggh04.htm#fr_9.md) 'Dye,' 'colour,' and so,
 'a field of battle.' (Pronounce to rhyme approximately with *hunger*.)
 
-<span id="fn_10"></span>[12:b](iggh04.htm#fr_10) An infidel or sceptic:
+<span id="fn_10"></span>[12:b](iggh04.htm#fr_10.md) An infidel or sceptic:
 one who 'says no' or denies.
 
-<span id="fn_11"></span>[13:c](iggh04.htm#fr_11) The names of the
+<span id="fn_11"></span>[13:c](iggh04.htm#fr_11.md) The names of the
 goddess are so innumerable, that if accurately followed they would only
 puzzle the English reader. They may, however, be tabulated generally as
 referring either to her *beauty*, her *inconstancy* or her connection
@@ -157,10 +157,10 @@ with the *lotus*. I have therefore chosen for her name that of
 *Water-Lily:* the word of all others that best conveys her general
 attributes to an English ear.
 
-<span id="fn_12"></span>[14:d](iggh04.htm#fr_12) Sanskrit is, I think,
+<span id="fn_12"></span>[14:d](iggh04.htm#fr_12.md) Sanskrit is, I think,
 the only other language that possesses an exact equivalent for the
 French.
 
 ------------------------------------------------------------------------
 
-[Next: II. A Rajpoot Marriage](iggh05)
+[Next: II. A Rajpoot Marriage](iggh05.md)

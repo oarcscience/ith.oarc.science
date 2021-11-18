@@ -1,4 +1,4 @@
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-4)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-4.md)
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ Christian, continued at least well on into the third century, and that
 the Dositheans, who were equally non-Christians, are known of as <span
 id="page_130">p. 130</span> being numerous even in the sixth
 century.<span id="page_130_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_130_note_1) By the rumour that these
+class="small">1</span></sup>](#page_130_note_1.md) By the rumour that these
 Gnostic teachers were 'disciples of John' we must understand in general,
 I believe, that there was simply in some respects similarity of doctrine
 betwen them. These Dosthai-Simon legends and reports are associated with
@@ -114,7 +114,7 @@ the heredity of the pre-Christian Gnosis is to be sought and of the
 apocalyptic eschatological <span id="page_132">p. 132</span>
 expectations and hopes of salvation that preceded the birth of
 Christianity.<span id="page_132_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_132_note_1)
+class="small">1</span></sup>](#page_132_note_1.md)
 
    "What lay in the prophetical religions (Persian, Chaldæan, Jewish) as
 a presage or presentiment, what at the time of Alexander the Great
@@ -171,7 +171,7 @@ nevertheless seems to have stood very near the popular belief of Syrian
 Jewry. Of its marvel-filled scriptures one piece after another now comes
 to light. 'He' is everywhere,—the Son of Man,<span
 id="page_134_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_134_note_1) the Saviour sent into
+class="small">1</span></sup>](#page_134_note_1.md) the Saviour sent into
 the deep, who must himself be saved, the goal of the expectation. In the
 John-Book the Father raised on high in the House of Perfection,
 surrounded with Light, speaks to his only-begotten Son: My Son, be for
@@ -264,7 +264,7 @@ Christian origins.
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -272,12 +272,12 @@ Christian origins.
 
 <span id="footnotes_page_130">p. 130</span>
 
-<span id="page_130_note_1"></span>[1](#page_130_fr_1) See my *Fragments
+<span id="page_130_note_1"></span>[1](#page_130_fr_1.md) See my *Fragments
 of a Faith Forgotten* (London, 2nd ed., 1906), pp. 162 ff.
 
 <span id="footnotes_page_132">p. 132</span>
 
-<span id="page_132_note_1"></span>[1](#page_132_fr_1) *Der Untergang des
+<span id="page_132_note_1"></span>[1](#page_132_fr_1.md) *Der Untergang des
 Abendlandes: Untrisse einer Morphologie der Weltgeschichte*, Band II.
 *Welthistorische Perspectiven* (München, 1923, revised ed.), pp. 258ff.
 The work has now run into upwards of 50,000 copies, a proof of very
@@ -287,7 +287,7 @@ acquainted with the most recent Mandæan studies.
 
 <span id="footnotes_page_134">p. 134</span>
 
-<span id="page_134_note_1"></span>[1](#page_134_fr_1) The Mandæans do
+<span id="page_134_note_1"></span>[1](#page_134_fr_1.md) The Mandæans do
 not use this idiom; it is ever simply the Man.—G. R. S. M.
 
  

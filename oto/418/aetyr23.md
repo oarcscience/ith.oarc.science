@@ -1,34 +1,34 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 23rd Aethyr,  
-Which is Called TOR**[**1**](#1)**.**
+Which is Called TOR**[**1**](#1.md)**.**
 
 In the brightness of the stone are three lights, brighter than all,
-which revolve ceaselessly[**2**](#2). And now there is a spider's web of
-silver[**3**](#3) covering the whole of the stone. Behind the spider's
-web is a star of twelve rays[**4**](#4); and behind that again, a black
+which revolve ceaselessly[**2**](#2.md). And now there is a spider's web of
+silver[**3**](#3.md) covering the whole of the stone. Behind the spider's
+web is a star of twelve rays[**4**](#4.md); and behind that again, a black
 bull, furiously pawing up the ground. The flames from his mouth increase
 and whirl, and he cries: Behold the mystery of toil, O thou who art
-taken in the toils of mystery[**5**](#5). For I who trample the earth
+taken in the toils of mystery[**5**](#5.md). For I who trample the earth
 thereby make whirlpools in the air; be comforted, therefore, for though
 I be black, in the roof of my mouth is the sign of the
-Beetle[**6**](#6). Bent are the backs of my brethren, yet shall they
+Beetle[**6**](#6.md). Bent are the backs of my brethren, yet shall they
 gore the lion with their horns. Have I not the wings of the eagle, and
 the face of the man?
 
 And now he is turned into one of those winged Assyrian bull-men.
 
 And he sayeth: The spade of the husbandman is the sceptre of the
-king[**7**](#7). All the heavens beneath me, they serve me. They are my
+king[**7**](#7.md). All the heavens beneath me, they serve me. They are my
 fields and my gardens and my orchards and my pastures.
 
-Glory be unto thee, who didst set thy feet in the North[**8**](#8);
+Glory be unto thee, who didst set thy feet in the North[**8**](#8.md);
 whose forehead is pierced with the sharp points of the diamonds in thy
-crown [**9**](#9); whose heart is pierced with the spear of thine own
-fecundity [**10**](#10).
+crown [**9**](#9.md); whose heart is pierced with the spear of thine own
+fecundity [**10**](#10.md).
 
 Thou art an egg of blackness, and a worm of poison. But thou hast
 formulated thy father, and made fertile thy mother.
@@ -37,18 +37,18 @@ Thou art the basilisk whose gaze turns men to stone, and the cockatrice
 at the breast of an harlot that giveth death for milk. Thou art the asp
 that has stolen into the cradle of the babe. Glory unto thee, who art
 twined about the world as the vine that clingeth to the bare body of a
-bacchanal[**11**](#11).
+bacchanal[**11**](#11.md).
 
 Also, though I be planted so firmly upon the earth, yet is my blood wine
 and my breath fire of madness. With these wings, though they be but
-little, I lift myself above the crown of the yod[**12**](#12), and being
-without fins I yet swim in the inviolate fountain[**13**](#13).
+little, I lift myself above the crown of the yod[**12**](#12.md), and being
+without fins I yet swim in the inviolate fountain[**13**](#13.md).
 
 I disport myself in the ruins of Eden, even as Leviathan in the false
-sea[**14**](#14), being whole as the rose at the crown of the
-cross[**15**](#15). Come ye unto me, my children, and be glad. At the
-end of labour is the power of labour[**16**](#16). And in my stability
-is concentrated eternal change[**17**](#17).
+sea[**14**](#14.md), being whole as the rose at the crown of the
+cross[**15**](#15.md). Come ye unto me, my children, and be glad. At the
+end of labour is the power of labour[**16**](#16.md). And in my stability
+is concentrated eternal change[**17**](#17.md).
 
 For the whirlings of the universe are but the course of the blood in my
 heart. And the unspeakable variety thereof is but my divers hairs, and
@@ -57,17 +57,17 @@ life of my rejoicing, and the sorrow that blackeneth your hearts is the
 myriad deaths by which I am renewed.
 
 And the instability which maketh ye to fear, is the little waverings of
-balance by which I am assured[**18**](#18). And now the veil of silver
+balance by which I am assured[**18**](#18.md). And now the veil of silver
 tissue-stuff closes over him, and above that, a purple veil, and above
 that, a golden veil, so that now the whole stone is like a thick mat of
 woven gold wires; and there come forth, one from each side of the stone,
 two women, and grasp each other by both hands, and kiss, and melt into
-one another; and melt away[**19**](#19). And now the veils open again,
+one another; and melt away[**19**](#19.md). And now the veils open again,
 the gold parts, and the purple parts, and the silver parts, and there is
 a crowned eagle, also like the Assyrian eagles. And he cries: All my
-strength and stability are turned to the use of flight[**20**](#20). For
+strength and stability are turned to the use of flight[**20**](#20.md). For
 though my wings are of fine gold, yet my heart is the heart of a
-scorpion[**21**](#21). Glory unto thee, who being born in a stable didst
+scorpion[**21**](#21.md). Glory unto thee, who being born in a stable didst
 make thee mirth of the filth thereof, who didst suck in iniquity from
 the breast of thy mother the harlot; who didst flood with iniquity the
 bodies of thy concubines. Thou didst lie in the filth of the streets
@@ -75,23 +75,23 @@ with the dogs; thou wast tumbled and shameless and wanton in a place
 where four roads meet. There wast thou defiled, and there wast thou
 slain, and there wast thou left to rot. The charred stake was thrust
 through thy bowels, and thy parts were cut off and thrust into thy mouth
-for derision[**22**](#22). All my unity is dissolved; I live in the tips
-of my feathers[**23**](#23). That which I think to be myself is but
-infinite number[**24**](#24). Glory unto the Rose and the Cross, for the
+for derision[**22**](#22.md). All my unity is dissolved; I live in the tips
+of my feathers[**23**](#23.md). That which I think to be myself is but
+infinite number[**24**](#24.md). Glory unto the Rose and the Cross, for the
 Cross is extended unto the uttermost end beyond space and time and being
 and knowledge and delight! Glory unto the Rose that is the minute point
 of its center! Even as we say; glory unto the Rose that is Nuit the
 circumference of all, and glory unto the Cross that is the heart of the
-Rose[**25**](#25)!
+Rose[**25**](#25.md)!
 
 Therefore do I cry aloud, and my scream is the treble as the bellowing
-of the bull is the bass[**26**](#26). Peace in the highest and peace in
+of the bull is the bass[**26**](#26.md). Peace in the highest and peace in
 the lowest and peace in the midst thereof! Peace in the eight quarters,
 peace in the ten points of the Pentagram! Peace in the twelve rays of
 the seal of Solomon, and peace in the four and thirty whirlings of the
-hammer of Thor[**27**](#27)! Behold! I blaze upon thee. (The eagle is
+hammer of Thor[**27**](#27.md)! Behold! I blaze upon thee. (The eagle is
 gone; it is only a flaming Rosy Cross of white brilliance.) I catch thee
-up into rapture. FALUTLI, FALUTLI[**28**](#28)! ... O it dies, it dies.
+up into rapture. FALUTLI, FALUTLI[**28**](#28.md)! ... O it dies, it dies.
 
 Bou Sada. November 28, 1909. 9:30-10:15 A.M.
 

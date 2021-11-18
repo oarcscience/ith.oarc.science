@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app19)  [Next](app21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app19)  [Next](app21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -106,7 +106,7 @@ rest as easy to throw.
 
 7\. Well, but I do all these things under compulsion; and, I think, no
 one is willingly good-for-nothing or willingly accepts affliction. <span
-id="fr_24"></span>[1](#fn_20)
+id="fr_24"></span>[1](#fn_20.md)
 
 8\. (*Epicharmus says*) the gods are winds, water, earth, sun, fire,
 stars; (*but I've come to the conclusion that for us the only useful
@@ -303,10 +303,10 @@ god, then I am not a corpse but a god.
 
 ### Footnotes
 
-<span id="fn_20"></span>[36:1](app20.htm#fr_24) Pun on the two senses of
+<span id="fn_20"></span>[36:1](app20.htm#fr_24.md) Pun on the two senses of
 πονηρὸς ('laden with toils' and 'wicked'), and of ἄτη ('disaster' or
 'madness'); put into the mouth of Heracles in a play.
 
 ------------------------------------------------------------------------
 
-[Next: 24. Alcmaeôn of Crotôn](app21)
+[Next: 24. Alcmaeôn of Crotôn](app21.md)

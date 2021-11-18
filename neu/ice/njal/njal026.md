@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal025)  [Next](njal027) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal025)  [Next](njal027.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ Saemund the Learned.
 
 ------------------------------------------------------------------------
 
-[Next: 27. Helgi Njal's Son's Wooing](njal027)
+[Next: 27. Helgi Njal's Son's Wooing](njal027.md)

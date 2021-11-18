@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt36)  [Next](pyt38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt36)  [Next](pyt38.md) 
 
 ------------------------------------------------------------------------
 
@@ -214,4 +214,4 @@ his form.
 
 ------------------------------------------------------------------------
 
-[Next: 35. Texts of Miscellaneous Contents, Utterances 571-575](pyt38)
+[Next: 35. Texts of Miscellaneous Contents, Utterances 571-575](pyt38.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits014) [Next](bits016)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits014) [Next](bits016.md)
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ is it destroys life? who is it takes what is not given him? who is it
 commits immorality? who is it tells lies? who is it drinks intoxicating
 liquor? who is it commits the five crimes that constitute 'proximate
 karma'?<span id="page_130_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_130_note_1) In that case, there is
+class="small">1</span></sup>](#page_130_note_1.md) In that case, there is
 no merit; there is no demerit; there is no one who does or causes to be
 done meritorious or demeritorious deeds; neither good nor evil deeds can
 have any fruit or result. Bhante Nâgasena, neither is he a murderer who
@@ -265,7 +265,7 @@ that it will perish, he falls into that of the annihilation of
 existences. And why do I say so? Because, just as sour cream has milk as
 its antecedent, so nothing here exists but what has its own
 antecedents.<span id="page_134_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_134_note_1) To say, "The living
+class="small">1</span></sup>](#page_134_note_1.md) To say, "The living
 entity persists," is to fall short of the truth; to say, "It is
 annihilated," is to outrun the truth. Therefore has The Blessed One
 said:--
@@ -324,7 +324,7 @@ sensation is not my Ego; my Ego has no sensation;'
 neither is sensation my Ego, nor does my Ego have no sensation. My Ego
 has sensation; my Ego possesses the faculty of sensation.'<span
 id="page_135_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_135_note_1)
+class="small">1</span></sup>](#page_135_note_1.md)
 
    "In the above case, Ânanda, where it is said, 'Sensation is my Ego,'
 reply should be made as follows: 'Brother, there are three sensations:
@@ -784,7 +784,7 @@ somewhatness of any one." And how?
    *I am nowhere*:--He sees that he has no Ego anywhere.
 
    *A somewhatness<span id="page_145_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_145_note_1) for any one*:--He sees
+class="small">1</span></sup>](#page_145_note_1.md) for any one*:--He sees
 that he has no Ego to bring forward to be a somewhatness for any one
 else. The sense is, he sees that he has none to bring forward to play
 the role of a brother, or of a friend, or of a follower.
@@ -834,7 +834,7 @@ The Path exists, but not the traveler on it."<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 16. All Signs of an Ego are Absent](bits016)
+[Next: § 16. All Signs of an Ego are Absent](bits016.md)
 
 ------------------------------------------------------------------------
 
@@ -842,7 +842,7 @@ The Path exists, but not the traveler on it."<br />
 
 <span id="footnotes_page_130">p. 130</span>
 
-<span id="page_130_note_1"></span>[1](#page_130_fr_1) Translated from
+<span id="page_130_note_1"></span>[1](#page_130_fr_1.md) Translated from
 the Sârasangaha, as quoted in Trenckner's note to this passage:
 
 "By *proximate karma* is meant karma that ripens in the next existence.
@@ -857,17 +857,17 @@ impossibility.'"
 
 <span id="footnotes_page_133">p. 133</span>
 
-<span id="page_133_note_1"></span>[1](#page_133_fr_1) That is, "a living
+<span id="page_133_note_1"></span>[1](#page_133_fr_1.md) That is, "a living
 entity."
 
 <span id="footnotes_page_134">p. 134</span>
 
-<span id="page_134_note_1"></span>[1](#page_134_fr_1) See [pages
-239-40](bits047.htm#page_239).
+<span id="page_134_note_1"></span>[1](#page_134_fr_1.md) See [pages
+239-40](bits047.htm#page_239.md).
 
 <span id="footnotes_page_135">p. 135</span>
 
-<span id="page_135_note_1"></span>[1](#page_135_fr_1) From the
+<span id="page_135_note_1"></span>[1](#page_135_fr_1.md) From the
 commentary on the Mahâ-Nidâna-Sutta, Providence Manuscript, folio
 *ghâu*, b, lines 4 and 5:--*Sensation is my Ego* gives the heresy of
 individuality as based on the sensation-group; *My Ego has no
@@ -879,7 +879,7 @@ faculty of sensation on account of the inseparability of this union.
 
 <span id="footnotes_page_145">p. 145</span>
 
-<span id="page_145_note_1"></span>[1](#page_145_fr_1) That is,
+<span id="page_145_note_1"></span>[1](#page_145_fr_1.md) That is,
 somethingness, the opposite of nothingness.
 
  

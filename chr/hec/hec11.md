@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec10)  [Next](hec12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec10)  [Next](hec12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -39,7 +39,7 @@ Come, ye that love the Martyrs,
 And weave them in a garland  
   For this our suppliant throng: <span id="page_63">p. 63</span>  
 And cry,—O thou that shinest  
-  In grace's [brightest](errata.htm#0) ray,  
+  In grace's [brightest](errata.htm#0.md) ray,  
 <span class="smallcaps">Christ's</span> valiant Protomartyr,  
   For peace and favour pray!
 
@@ -54,4 +54,4 @@ That He would give the kingdom,
 
 ------------------------------------------------------------------------
 
-[Next: Stichera for Christmas-Tide](hec12)
+[Next: Stichera for Christmas-Tide](hec12.md)

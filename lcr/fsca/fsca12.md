@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca11)  [Next](fsca13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca11)  [Next](fsca13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ id="img_04800"></span>
 
 |                                                        |
 |--------------------------------------------------------|
-| ![Angel crest of Tuite, Bart. co. Tip.](img/04800.jpg) |
+| ![Angel crest of Tuite, Bart. co. Tip.](img/04800.jpg.md) |
 
 the great Hebrew symbol in the minds of his readers, purposely throws
 over it the veil of obscurity. He says: "The cherubim are winged
@@ -161,7 +161,7 @@ forms of<span id="img_05200"></span>
 
 |                               |
 |-------------------------------|
-| ![Tetramorph.](img/05200.jpg) |
+| ![Tetramorph.](img/05200.jpg.md) |
 
 *the man*, *the lion*, *the ox*, and *the eagle*, all winged and
 invested with the nimbus, appear to have been most frequently made use
@@ -186,4 +186,4 @@ scarf tied in a knot round the neck.
 
 ------------------------------------------------------------------------
 
-[Next: Emblems of the Four Evangelists](fsca13)
+[Next: Emblems of the Four Evangelists](fsca13.md)

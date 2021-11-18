@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag21)  [Next](rag23) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag21)  [Next](rag23.md) 
 
 ------------------------------------------------------------------------
 
@@ -957,4 +957,4 @@ like it, in the Book of Job.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Triumph Of The Sun](rag23)
+[Next: Chapter IX. The Triumph Of The Sun](rag23.md)

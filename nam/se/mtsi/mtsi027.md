@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi026)  [Next](mtsi028) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi026)  [Next](mtsi028.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,15 +39,15 @@ ground to see him, and when he came it was with a powerful
 current of water as if a dam had broken and they were all swept away;
 perhaps they were turned into snakes. Thus the water snake was a kind of
 person. These water snakes had horns of different colors, yellow, blue,
-white, green, etc. <span id="fr_8"></span>[1](#fn_8)
+white, green, etc. <span id="fr_8"></span>[1](#fn_8.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_8"></span>[33:1](mtsi027.htm#fr_8) See also Forty-second
+<span id="fn_8"></span>[33:1](mtsi027.htm#fr_8.md) See also Forty-second
 Ann. Rept. Bur. Amer. Ethn., pp. 71-72.
 
 ------------------------------------------------------------------------
 
-[Next: 26. The Man Who Became A Snake (Fourth Version)](mtsi028)
+[Next: 26. The Man Who Became A Snake (Fourth Version)](mtsi028.md)

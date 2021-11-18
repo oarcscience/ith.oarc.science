@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb43)  [Next](spb45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb43)  [Next](spb45.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -282,6 +282,6 @@ Blessed art thou, O Lord, who renewest the months.
 
 ------------------------------------------------------------------------
 
-[Next: Prayers Before Retiring to Rest at Night](spb45)
+[Next: Prayers Before Retiring to Rest at Night](spb45.md)
 
 </div>

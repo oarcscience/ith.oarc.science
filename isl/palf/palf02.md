@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](palf01)  [Next](palf03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](palf01)  [Next](palf03.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ August 10, 1946
 
 ------------------------------------------------------------------------
 
-[Next: Life and Works](palf03)
+[Next: Life and Works](palf03.md)

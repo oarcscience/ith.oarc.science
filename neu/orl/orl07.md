@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl06)  [Next](orl08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl06)  [Next](orl08.md) 
 
 ------------------------------------------------------------------------
 
@@ -918,4 +918,4 @@ At last the realm where Logistilla reigned.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 8](orl08)
+[Next: Canto 8](orl08.md)

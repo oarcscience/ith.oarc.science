@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst080)  [Next](inst082) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst080)  [Next](inst082.md) 
 
 ------------------------------------------------------------------------
 
@@ -156,7 +156,7 @@ to our infirmity, has added such helps, and secured the effectual
 preaching of the gospel, by depositing this treasure with the Church. He
 has appointed pastors and teachers, by whose lips he might edify his
 people (<span id="iv.iv.ii-p33.1"></span>[Eph.
-4:11](../../../bib/kjv/eph004.htm#011)<span
+4:11](../../../bib/kjv/eph004.htm#011.md)<span
 id="iv.iv.ii-p33.1"></span>); he has invested them with authority, and,
 in short, omitted nothing that might conduce to holy consent in the
 faith, and to right order. In particular, he has instituted sacraments,
@@ -176,13 +176,13 @@ children, but may also be guided by her maternal care until they grow up
 to manhood, and, finally, attain to the perfection of faith. What God
 has thus joined, let not man put asunder (<span
 id="iv.iv.ii-p33.2"></span>[Mark
-10:9](../../../bib/kjv/mar010.htm#009)<span
+10:9](../../../bib/kjv/mar010.htm#009.md)<span
 id="iv.iv.ii-p33.2"></span>): to those to whom he is a Father, the
 Church must also be a mother. This was true not merely under the Law,
 but even now after the advent of Christ; since Paul declares that we are
 the children of a new, even a heavenly Jerusalem (<span
 id="iv.iv.ii-p33.3"></span>[Gal.
-4:26](../../../bib/kjv/gal004.htm#026)<span
+4:26](../../../bib/kjv/gal004.htm#026.md)<span
 id="iv.iv.ii-p33.3"></span>).
 
 <span id="iv.iv.ii-p34"></span>2. When in the Creed we profess to
@@ -216,14 +216,14 @@ extinguished,—the blood of Christ cannot be rendered barren, and
 prevented from producing fruit. Hence, regard must be had both to the
 secret election and to the internal calling of God, because he alone
 “knoweth them that are his” (<span id="iv.iv.ii-p34.1"></span>[2 Tim.
-2:19](../../../bib/kjv/ti2002.htm#019)<span
+2:19](../../../bib/kjv/ti2002.htm#019.md)<span
 id="iv.iv.ii-p34.1"></span>); and as Paul expresses it, holds them as it
 were enclosed under his seal, although, at the same time, they wear his
 insignia, and are thus distinguished from the reprobate. But as they are
 a small and despised number, concealed in an immense crowd, like a few
 grains of wheat buried among a heap of chaff, to God alone must be left
 the knowledge of his Church, of which his secret election forms the
-foundation.  <span id="fr_512"></span>[513](#fn_512) Nor is it enough to
+foundation.  <span id="fr_512"></span>[513](#fn_512.md) Nor is it enough to
 embrace the number of the elect in thought and intention merely. By the
 unity of the Church we must understand a unity into which we feel
 persuaded that we are truly ingrafted. For unless we are united with all
@@ -243,7 +243,7 @@ Christ produces fruit, and that God wondrously preserves his Church,
 while placing it as it were in concealment. Thus it was said to Elijah,
 “Yet I have left me seven thousand in Israel” (<span
 id="iv.iv.ii-p35.2"></span>[1 Kings
-19:18](../../../bib/kjv/kg1019.htm#018)<span
+19:18](../../../bib/kjv/kg1019.htm#018.md)<span
 id="iv.iv.ii-p35.2"></span>).
 
 <span id="iv.iv.ii-p36"></span>3. Moreover, this article of the Creed
@@ -264,11 +264,11 @@ among men that distinct rights of property should exist among them.
 Still a community is asserted, such as Luke describes when he says, “The
 multitude of them that believed were of one heart and of one soul”
 (<span id="iv.iv.ii-p36.1"></span>[Acts
-4:32](../../../bib/kjv/act004.htm#032)<span
+4:32](../../../bib/kjv/act004.htm#032.md)<span
 id="iv.iv.ii-p36.1"></span>); and Paul, when he reminds the Ephesians,
 “There is one body, and one Spirit, even as ye are called in one hope of
 your calling” (<span id="iv.iv.ii-p36.2"></span>[Eph.
-4:4](../../../bib/kjv/eph004.htm#004)<span id="iv.iv.ii-p36.2"></span>).
+4:4](../../../bib/kjv/eph004.htm#004)<span id="iv.iv.ii-p36.2"></span>.md).
 For if they are truly persuaded that God is the common Father of them
 all, and Christ their common head, they cannot but be united together in
 brotherly love, and mutually impart their blessings to each other. Then
@@ -286,12 +286,12 @@ Church, we are sure that the truth will remain with us. Lastly, we feel
 that we have an interest in such promises as these, “In Mount Zion and
 in Jerusalem shall be deliverance” (<span
 id="iv.iv.ii-p36.3"></span>[Joel
-2:32](../../../bib/kjv/joe002.htm#032)<span id="iv.iv.ii-p36.3"></span>;
+2:32](../../../bib/kjv/joe002.htm#032.md)<span id="iv.iv.ii-p36.3"></span>;
 <span id="iv.iv.ii-p36.4"></span>[Obad.
-17](../../../bib/kjv/oba001.htm#017)<span id="iv.iv.ii-p36.4"></span>);
+17](../../../bib/kjv/oba001.htm#017)<span id="iv.iv.ii-p36.4"></span>.md);
 “God is in the midst of her, she shall not be moved” (<span
 id="iv.iv.ii-p36.5"></span>[Ps.
-46:5](../../../bib/kjv/psa046.htm#005)<span
+46:5](../../../bib/kjv/psa046.htm#005.md)<span
 id="iv.iv.ii-p36.5"></span>). So available is communion with the Church
 to keep us in the fellowship of God. In the very term communion there is
 great consolation; because, while we are assured that everything which
@@ -311,35 +311,35 @@ of the number, we are also partakers of this great grace.
 
 <span id="iv.iv.ii-p37"></span>4. But as it is now our purpose to
 discourse of the visible Church,  <span
-id="fr_513"></span>[514](#fn_513) let us learn, from her single title of
+id="fr_513"></span>[514](#fn_513.md) let us learn, from her single title of
 Mother, how useful, nay, how necessary the knowledge of her is, since
 there is no other means of entering into life unless she conceive us in
 the womb and give us birth, unless she nourish us at her breasts, and,
 in short, keep us under her charge and government, until, divested of
 mortal flesh, we become like the angels (<span
 id="iv.iv.ii-p38.1"></span>[Mt.
-22:30](../../../bib/kjv/mat022.htm#030)<span
+22:30](../../../bib/kjv/mat022.htm#030.md)<span
 id="iv.iv.ii-p38.1"></span>). For our weakness does not permit us to
 leave the school until we have spent our whole lives as scholars.
 Moreover, beyond the pale of the Church no forgiveness of sins, no
 salvation, can be hoped for, as Isaiah and Joel testify (<span
 id="iv.iv.ii-p38.2"></span>[Isa.
-37:32](../../../bib/kjv/isa037.htm#032)<span
+37:32](../../../bib/kjv/isa037.htm#032.md)<span
 id="iv.iv.ii-p38.2"></span>; <span id="iv.iv.ii-p38.3"></span>[Joel
-2:32](../../../bib/kjv/joe002.htm#032)<span
+2:32](../../../bib/kjv/joe002.htm#032.md)<span
 id="iv.iv.ii-p38.3"></span>). To their testimony Ezekiel subscribes,
 when he declares, “They shall not be in the assembly of my people,
 neither shall they be written in the writing of the house of Israel”
 (<span id="iv.iv.ii-p38.4"></span>[Ezek.
-3:9](../../../bib/kjv/eze003.htm#009)<span id="iv.iv.ii-p38.4"></span>);
+3:9](../../../bib/kjv/eze003.htm#009)<span id="iv.iv.ii-p38.4"></span>.md);
 as, on the other hand, those who turn to the cultivation of true piety
 are said to inscribe their names among the citizens of Jerusalem. For
 which reason it is said in the psalm, “Remember me, O Lord, with the
 favour that thou bearest unto thy people: O visit me with thy salvation;
 that I may see the good of thy chosen, that I may rejoice in the
 gladness of thy nation, that I may glory with thine inheritance” (<span
-id="iv.iv.ii-p38.5"></span>[Ps. 106:4](../../../bib/kjv/psa106.htm#004),
-[5](../../../bib/kjv/psa106.htm#005)<span id="iv.iv.ii-p38.5"></span>).
+id="iv.iv.ii-p38.5"></span>[Ps. 106:4](../../../bib/kjv/psa106.htm#004.md),
+[5](../../../bib/kjv/psa106.htm#005)<span id="iv.iv.ii-p38.5"></span>.md).
 By these words the paternal favour of God and the special evidence of
 spiritual life are confined to his peculiar people, and hence the
 abandonment of the Church is always fatal.
@@ -353,7 +353,7 @@ ministry, for the edifying of the body of Christ: till we all come in
 the unity of the faith, and of the knowledge of the Son of God, unto a
 perfect man, unto the measure of the stature of the fulness of Christ”
 (<span id="iv.iv.ii-p39.1"></span>[Eph.
-4:10-13](../../../bib/kjv/eph004.htm#010)<span
+4:10-13](../../../bib/kjv/eph004.htm#010.md)<span
 id="iv.iv.ii-p39.1"></span>). We see that God, who might perfect his
 people in a moment, chooses not to bring them to manhood in any other
 way than by the education of the Church. We see the mode of doing it
@@ -366,13 +366,13 @@ thee, and my words which I have put in thy mouth, shall not depart out
 of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of
 thy seed’s seed, saith the Lord, from henceforth and for ever” (<span
 id="iv.iv.ii-p39.2"></span>[Isa.
-59:21](../../../bib/kjv/isa059.htm#021)<span
+59:21](../../../bib/kjv/isa059.htm#021.md)<span
 id="iv.iv.ii-p39.2"></span>). Hence it follows, that all who reject the
 spiritual food of the soul divinely offered to them by the hands of the
 Church, deserve to perish of hunger and famine. God inspires us with
 faith, but it is by the instrumentality of his gospel, as Paul reminds
 us, “Faith cometh by hearing” (<span id="iv.iv.ii-p39.3"></span>[Rom.
-10:17](../../../bib/kjv/rom010.htm#017)<span
+10:17](../../../bib/kjv/rom010.htm#017.md)<span
 id="iv.iv.ii-p39.3"></span>). God reserves to himself the power of
 maintaining it, but it is by the preaching of the gospel, as Paul also
 declares, that he brings it forth and unfolds it. With this view, it
@@ -381,21 +381,21 @@ sanctuary, that consent in faith might be nourished by doctrine
 proceeding from the lips of the priest. Those magnificent titles, as
 when the temple is called God’s rest, his sanctuary, his habitation, and
 when he is said to dwell between the cherubims (<span
-id="iv.iv.ii-p39.4"></span>[Ps. 32:13](../../../bib/kjv/psa032.htm#013),
-[14](../../../bib/kjv/psa032.htm#014)<span id="iv.iv.ii-p39.4"></span>;
+id="iv.iv.ii-p39.4"></span>[Ps. 32:13](../../../bib/kjv/psa032.htm#013.md),
+[14](../../../bib/kjv/psa032.htm#014.md)<span id="iv.iv.ii-p39.4"></span>;
 80:1), are used for no other purpose than to procure respect, love,
 reverence, and dignity to the ministry of heavenly doctrine, to which
 otherwise the appearance of an insignificant human being might be in no
 slight degree derogatory. Therefore, to teach us that the treasure
 offered to us in earthen vessels is of inestimable value (<span
 id="iv.iv.ii-p39.5"></span>[2 Cor.
-4:7](../../../bib/kjv/co2004.htm#007)<span id="iv.iv.ii-p39.5"></span>),
+4:7](../../../bib/kjv/co2004.htm#007)<span id="iv.iv.ii-p39.5"></span>.md),
 God himself appears and, as the author of this ordinance, requires his
 presence to be recognised in his own institution. Accordingly, after
 forbidding his people to give heed to familiar spirits, wizards, and
 other superstitions (<span id="iv.iv.ii-p39.6"></span>[Lev.
-19:30](../../../bib/kjv/lev019.htm#030),
-[31](../../../bib/kjv/lev019.htm#031)<span id="iv.iv.ii-p39.6"></span>),
+19:30](../../../bib/kjv/lev019.htm#030.md),
+[31](../../../bib/kjv/lev019.htm#031)<span id="iv.iv.ii-p39.6"></span>.md),
 he adds, that he will give what ought to be sufficient for all—namely,
 that he will never leave them without prophets. For, as he did not
 commit his ancient people to angels, but raised up teachers on the earth
@@ -442,13 +442,13 @@ of being taught by the lips and ministry of men. This is just the same
 as if they were to destroy the impress of God as exhibited to us in
 doctrine. For no other reason were believers anciently enjoined to seek
 the face of God in the sanctuary (<span id="iv.iv.ii-p40.1"></span>[Ps.
-105:4](../../../bib/kjv/psa105.htm#004)<span
+105:4](../../../bib/kjv/psa105.htm#004.md)<span
 id="iv.iv.ii-p40.1"></span>) (an injunction so often repeated in the
 Law), than because the doctrine of the Law, and the exhortations of the
 prophets, were to them a living image of God. Thus Paul declares, that
 in his preaching the glory of God shone in the face of Jesus Christ
 (<span id="iv.iv.ii-p40.2"></span>[2 Cor.
-4:6](../../../bib/kjv/co2004.htm#006)<span id="iv.iv.ii-p40.2"></span>).
+4:6](../../../bib/kjv/co2004.htm#006)<span id="iv.iv.ii-p40.2"></span>.md).
 The more detestable are the apostates who delight in producing schisms
 in churches, just as if they wished to drive the sheep from the fold,
 and throw them into the jaws of wolves. Let us hold, agreeably to the
@@ -461,13 +461,13 @@ anciently enjoined under the Law to flock together to the sanctuary; for
 when Moses speaks of the habitation of God, he at the same time calls it
 the place of the name of God, the place where he will record his name
 (<span id="iv.iv.ii-p40.3"></span>[Exod.
-20:24](../../../bib/kjv/exo020.htm#024)<span
+20:24](../../../bib/kjv/exo020.htm#024.md)<span
 id="iv.iv.ii-p40.3"></span>); thus plainly teaching that no use could be
 made of it without the doctrine of godliness. And there can be no doubt
 that, for the same reason, David complains with great bitterness of
 soul, that by the tyrannical cruelty of his enemies he was prevented
 from entering the tabernacle (<span id="iv.iv.ii-p40.4"></span>[Ps.
-84](../../../bib/kjv/psa084.htm#000)<span id="iv.iv.ii-p40.4"></span>).
+84](../../../bib/kjv/psa084.htm#000)<span id="iv.iv.ii-p40.4"></span>.md).
 To many the complaint seems childish, as if no great loss were
 sustained, not much pleasure lost, by exclusion from the temple,
 provided other amusements were enjoyed. David, however, laments this one
@@ -480,7 +480,7 @@ in such a way as to make their knowledge spiritual. Whence the temple is
 not only styled his face, but also, for the purpose of removing all
 superstition, is termed his footstool (<span
 id="iv.iv.ii-p40.5"></span>[Ps.
-132:7](../../../bib/kjv/psa132.htm#007)<span
+132:7](../../../bib/kjv/psa132.htm#007.md)<span
 id="iv.iv.ii-p40.5"></span>; 99:5). Herein is the unity of the faith
 happily realised, when all, from the highest to the lowest, aspire to
 the head. All the temples which the Gentiles built to God with a
@@ -490,7 +490,7 @@ grossness. With this Stephen upbraids them in the words of Isaiah when
 he says, “Howbeit the Most High dwelleth not in temples made with hands;
 as saith the Prophet, Heaven is my throne,” &c. (<span
 id="iv.iv.ii-p40.6"></span>[Acts
-7:48](../../../bib/kjv/act007.htm#048)<span
+7:48](../../../bib/kjv/act007.htm#048.md)<span
 id="iv.iv.ii-p40.6"></span>). For God only consecrates temples to their
 legitimate use by his word. And when we rashly attempt anything without
 his order, immediately setting out from a bad principle, we introduce
@@ -520,56 +520,56 @@ commencement and the whole course of faith. The office of the second
 Elias was, as Malachi declares, to “turn the heart of the fathers to the
 children, and the heart of the children to their fathers” (<span
 id="iv.iv.ii-p41.1"></span>[Mal.
-4:6](../../../bib/kjv/mal004.htm#006)<span id="iv.iv.ii-p41.1"></span>).
+4:6](../../../bib/kjv/mal004.htm#006)<span id="iv.iv.ii-p41.1"></span>.md).
 Christ declares that he sent the Apostles to produce fruit from his
 labours (<span id="iv.iv.ii-p41.2"></span>[John
-15:16](../../../bib/kjv/joh015.htm#016)<span
+15:16](../../../bib/kjv/joh015.htm#016.md)<span
 id="iv.iv.ii-p41.2"></span>). What this fruit is Peter briefly defines,
 when he says that we are begotten again of incorruptible seed (<span
 id="iv.iv.ii-p41.3"></span>[1 Pet.
-1:23](../../../bib/kjv/pe1001.htm#023)<span
+1:23](../../../bib/kjv/pe1001.htm#023.md)<span
 id="iv.iv.ii-p41.3"></span>). Hence Paul glories, that by means of the
 Gospel he had begotten the Corinthians, who were the seals of his
 apostleship (<span id="iv.iv.ii-p41.4"></span>[1 Cor.
-4:15](../../../bib/kjv/co1004.htm#015)<span
+4:15](../../../bib/kjv/co1004.htm#015.md)<span
 id="iv.iv.ii-p41.4"></span>); moreover, that his was not a ministry of
 the letter, which only sounded in the ear, but that the effectual agency
 of the Spirit was given to him, in order that his doctrine might not be
 in vain (<span id="iv.iv.ii-p41.5"></span>[1 Cor.
-9:2](../../../bib/kjv/co1009.htm#002)<span id="iv.iv.ii-p41.5"></span>;
+9:2](../../../bib/kjv/co1009.htm#002.md)<span id="iv.iv.ii-p41.5"></span>;
 <span id="iv.iv.ii-p41.6"></span>[2 Cor.
-3:6](../../../bib/kjv/co2003.htm#006)<span id="iv.iv.ii-p41.6"></span>).
+3:6](../../../bib/kjv/co2003.htm#006)<span id="iv.iv.ii-p41.6"></span>.md).
 In this sense he elsewhere declares that his Gospel was not in word, but
 in power (<span id="iv.iv.ii-p41.7"></span>[1 Thess.
-1:5](../../../bib/kjv/th1001.htm#005)<span id="iv.iv.ii-p41.7"></span>).
+1:5](../../../bib/kjv/th1001.htm#005)<span id="iv.iv.ii-p41.7"></span>.md).
 He also affirms that the Galatians received the Spirit by the hearing of
 faith (<span id="iv.iv.ii-p41.8"></span>[Gal.
-3:2](../../../bib/kjv/gal003.htm#002)<span id="iv.iv.ii-p41.8"></span>).
+3:2](../../../bib/kjv/gal003.htm#002)<span id="iv.iv.ii-p41.8"></span>.md).
 In short, in several passages he not only makes himself a fellow-worker
 with God, but attributes to himself the province of bestowing salvation
 (<span id="iv.iv.ii-p41.9"></span>[1 Cor.
-3:9](../../../bib/kjv/co1003.htm#009)<span id="iv.iv.ii-p41.9"></span>).
+3:9](../../../bib/kjv/co1003.htm#009)<span id="iv.iv.ii-p41.9"></span>.md).
 All these things he certainly never uttered with the view of attributing
 to himself one iota apart from God, as he elsewhere briefly explains.
 “For this cause also thank we God without ceasing, because, when ye
 received the word of God which ye heard of us, ye received it not as the
 word of men, but (as it is in truth) the word of God, which effectually
 worketh also in you that believe” (<span id="iv.iv.ii-p41.10"></span>[1
-Thess. 2:13](../../../bib/kjv/th1002.htm#013)<span
+Thess. 2:13](../../../bib/kjv/th1002.htm#013.md)<span
 id="iv.iv.ii-p41.10"></span>). Again, in another place, “He that wrought
 effectually in Peter to the apostleship of the circumcision, the same
 was mighty in me toward the Gentiles” (<span
 id="iv.iv.ii-p41.11"></span>[Gal.
-2:8](../../../bib/kjv/gal002.htm#008)<span
+2:8](../../../bib/kjv/gal002.htm#008.md)<span
 id="iv.iv.ii-p41.11"></span>). And that he allows no more to ministers
 is obvious from other passages. “So then neither is he that planteth
 anything, neither he that watereth; but God that giveth the increase”
 (<span id="iv.iv.ii-p41.12"></span>[1 Cor.
-3:7](../../../bib/kjv/co1003.htm#007)<span
+3:7](../../../bib/kjv/co1003.htm#007.md)<span
 id="iv.iv.ii-p41.12"></span>). Again, “I laboured more abundantly than
 they all: yet not I, but the grace of God which was with me” (<span
 id="iv.iv.ii-p41.13"></span>[1 Cor.
-15:10](../../../bib/kjv/co1015.htm#010)<span
+15:10](../../../bib/kjv/co1015.htm#010.md)<span
 id="iv.iv.ii-p41.13"></span>). And it is indeed necessary to keep these
 sentences in view, since God, in ascribing to himself the illumination
 of the mind and renewal of the heart, reminds us that it is sacrilege
@@ -600,7 +600,7 @@ evil-speaking men, some also of impurer lives, who are tolerated for a
 time, either because their guilt cannot be legally established, or
 because due strictness of discipline is not always observed. Hence, as
 it is necessary to believe the invisible Church,  <span
-id="fr_514"></span>[515](#fn_514) which is manifest to the eye of God
+id="fr_514"></span>[515](#fn_514.md) which is manifest to the eye of God
 only, so we are also enjoined to regard this Church which is so called
 with reference to man, and to cultivate its communion.
 
@@ -609,7 +609,7 @@ importance to us to recognise it, the Lord has distinguished it by
 certain marks, and as it were symbols. It is, indeed, the special
 prerogative of God to know those who are his, as Paul declares in the
 passage already quoted (<span id="iv.iv.ii-p44.1"></span>[2 Tim.
-2:19](../../../bib/kjv/ti2002.htm#019)<span
+2:19](../../../bib/kjv/ti2002.htm#019.md)<span
 id="iv.iv.ii-p44.1"></span>). And doubtless it has been so provided as a
 check on human rashness, the experience of every day reminding us how
 far his secret judgments surpass our apprehension. For even those who
@@ -628,7 +628,7 @@ was not necessary, he has in its place substituted the judgment of
 charity, by which we acknowledge all as members of the Church who by
 confession of faith, regularity of conduct, and participation in the
 sacraments, unite with us in acknowledging the same God and Christ.
- <span id="fr_515"></span>[516](#fn_515) The knowledge of his body,
+ <span id="fr_515"></span>[516](#fn_515.md) The knowledge of his body,
 inasmuch as he knew it to be more necessary for our salvation, he has
 made known to us by surer marks.
 
@@ -640,7 +640,7 @@ have any doubt that the Church of God has some existence, since his
 promise cannot fail, “Where two or three are gathered together in my
 name, there am I in the midst of them” (<span
 id="iv.iv.ii-p46.1"></span>[Mt.
-18:20](../../../bib/kjv/mat018.htm#020)<span
+18:20](../../../bib/kjv/mat018.htm#020.md)<span
 id="iv.iv.ii-p46.1"></span>). But that we may have a clear summary of
 this subject, we must proceed by the following steps:—The Church
 universal is the multitude collected out of all nations, who, though
@@ -667,7 +667,7 @@ that these things are not without a beneficial result. Thus we both
 maintain the Church universal in its unity, which malignant minds have
 always been eager to dissever, and deny not due authority to lawful
 assemblies distributed as circumstances require.  <span
-id="fr_516"></span>[517](#fn_516)
+id="fr_516"></span>[517](#fn_516.md)
 
 <span id="iv.iv.ii-p48"></span>10. We have said that the symbols by
 which the Church is discerned are the preaching of the word and the
@@ -689,7 +689,7 @@ does he recommend her authority, that when it is violated he considers
 that his own authority is impaired. For there is no small weight in the
 designation given to her, “the house of God,” “the pillar and ground of
 the truth” (<span id="iv.iv.ii-p48.1"></span>[1 Tim.
-3:15](../../../bib/kjv/ti1003.htm#015)<span
+3:15](../../../bib/kjv/ti1003.htm#015.md)<span
 id="iv.iv.ii-p48.1"></span>). By these words Paul intimates, that to
 prevent the truth from perishing in the world. the Church is its
 faithful guardian, because God has been pleased to preserve the pure
@@ -699,10 +699,10 @@ provides whatever is conducive to our salvation. Moreover, no mean
 praise is conferred on the Church when she is said to have been chosen
 and set apart by Christ as his spouse, “not having spot or wrinkle, or
 any such thing” (<span id="iv.iv.ii-p48.2"></span>[Eph.
-5:27](../../../bib/kjv/eph005.htm#027)<span
+5:27](../../../bib/kjv/eph005.htm#027.md)<span
 id="iv.iv.ii-p48.2"></span>), as “his body, the fulness of him that
 filleth all in all” (<span id="iv.iv.ii-p48.3"></span>[Eph.
-1:23](../../../bib/kjv/eph001.htm#023)<span
+1:23](../../../bib/kjv/eph001.htm#023.md)<span
 id="iv.iv.ii-p48.3"></span>). Whence it follows, that revolt from the
 Church is denial of God and Christ. Wherefore there is the more
 necessity to beware of a dissent so iniquitous; for seeing by it we aim
@@ -753,11 +753,11 @@ churches, if one, without any spirit of contention or perverseness in
 dogmatising, hold that the soul on quitting the body flies to heaven,
 and another, without venturing to speak positively as to the abode,
 holds it for certain that it lives with the Lord?51  <span
-id="fr_517"></span>[518](#fn_517) The words of the Apostle are, “Let us
+id="fr_517"></span>[518](#fn_517.md) The words of the Apostle are, “Let us
 therefore, as many as be perfect, be thus minded: and if in anything ye
 be otherwise minded, God shall reveal even this unto you” (<span
 id="iv.iv.ii-p51.1"></span>[Phil.
-3:15](../../../bib/kjv/phi003.htm#015)<span
+3:15](../../../bib/kjv/phi003.htm#015.md)<span
 id="iv.iv.ii-p51.1"></span>). Does he not sufficiently intimate that a
 difference of opinion as to these matters which are not absolutely
 necessary, ought not to be a ground of dissension among Christians? The
@@ -770,25 +770,25 @@ errors, as if I thought it right to foster them by flattery or
 connivance; what I say is, that we are not on account of every minute
 difference to abandon a church, provided it retain sound and unimpaired
 that doctrine in which the safety of piety consists,51  <span
-id="fr_518"></span>[519](#fn_518) and keep the use of the sacraments
+id="fr_518"></span>[519](#fn_518.md) and keep the use of the sacraments
 instituted by the Lord. Meanwhile, if we strive to reform what is
 offensive, we act in the discharge of duty. To this effect are the words
 of Paul, “If anything be revealed to another that sitteth by, let the
 first hold his peace” (<span id="iv.iv.ii-p52.1"></span>[1 Cor.
-14:30](../../../bib/kjv/co1014.htm#030)<span
+14:30](../../../bib/kjv/co1014.htm#030.md)<span
 id="iv.iv.ii-p52.1"></span>). From this it is evident that to each
 member of the Church, according to his measure of grace, the study of
 public edification has been assigned, provided it be done decently and
 in order. In other words, we must neither renounce the communion of the
 Church, nor, continuing in it, disturb peace and discipline when duly
-arranged.51  <span id="fr_519"></span>[520](#fn_519)
+arranged.51  <span id="fr_519"></span>[520](#fn_519.md)
 
 <span id="iv.iv.ii-p54"></span>13. Our indulgence ought to extend much
 farther in tolerating imperfection of conduct. Here there is great
 danger of falling, and Satan employs all his machinations to ensnare us.
 For there always have been persons who, imbued with a false persuasion
 of absolute holiness, as if they had already become a kind of aërial
-spirits,51  <span id="fr_520"></span>[521](#fn_520) spurn the society of
+spirits,51  <span id="fr_520"></span>[521](#fn_520.md) spurn the society of
 all in whom they see that something human still remains. Such of old
 were the Cathari and the Donatists, who were similarly infatuated. Such
 in the present day are some of the Anabaptists, who would be thought to
@@ -821,7 +821,7 @@ length laid up in the granary. If the Lord declares that the Church will
 labour under the defect of being burdened with a multitude of wicked
 until the day of judgment, it is in vain to look for a church altogether
 free from blemish (<span id="iv.iv.ii-p55.1"></span>[Mt.
-13](../../../bib/kjv/mat013.htm#000)<span id="iv.iv.ii-p55.1"></span>).
+13](../../../bib/kjv/mat013.htm#000)<span id="iv.iv.ii-p55.1"></span>.md).
 
 <span id="iv.iv.ii-p56"></span>14. They exclaim that it is impossible to
 tolerate the vice which everywhere stalks abroad like a pestilence. What
@@ -843,24 +843,24 @@ whom they ought to have honoured as a father, is petulantly assailed;
 where some hold the resurrection of the dead in derision, though with it
 the whole gospel must fall; where the gifts of God are made subservient
 to ambition, not to charity; where many things are done neither decently
-nor in order:52  <span id="fr_521"></span>[522](#fn_521) If there the
+nor in order:52  <span id="fr_521"></span>[522](#fn_521.md) If there the
 Church still remains, simply because the ministration of word and
 sacrament is not rejected, who will presume to deny the title of church
 to those to whom a tenth part of these crimes cannot be imputed? How, I
 ask, would those who act so morosely against present churches have acted
 to the Galatians, who had done all but abandon the gospel (<span
 id="iv.iv.ii-p57.1"></span>[Gal.
-1:6](../../../bib/kjv/gal001.htm#006)<span id="iv.iv.ii-p57.1"></span>),
+1:6](../../../bib/kjv/gal001.htm#006)<span id="iv.iv.ii-p57.1"></span>.md),
 and yet among them the same apostle found churches?52  <span
-id="fr_522"></span>[523](#fn_522)
+id="fr_522"></span>[523](#fn_522.md)
 
 <span id="iv.iv.ii-p59"></span>15. They also object, that Paul sharply
 rebukes the Corinthians for permitting an heinous offender in their
 communion, and then lays down a general sentence, by which he declares
 it unlawful even to eat bread with a man of impure life (<span
 id="iv.iv.ii-p59.1"></span>[1 Cor.
-5:11](../../../bib/kjv/co1005.htm#011),
-[12](../../../bib/kjv/co1005.htm#012)<span id="iv.iv.ii-p59.1"></span>).
+5:11](../../../bib/kjv/co1005.htm#011.md),
+[12](../../../bib/kjv/co1005.htm#012)<span id="iv.iv.ii-p59.1"></span>.md).
 Here they exclaim, If it is not lawful to eat ordinary bread, how can it
 be lawful to eat the Lord’s bread? I admit, that it is a great disgrace
 if dogs and swine are admitted among the children of God; much more, if
@@ -881,12 +881,12 @@ with them by any voluntary tie; but it is one thing to shun the society
 of the wicked, and another to renounce the communion of the Church
 through hatred of them. Those who think it sacrilege to partake the
 Lord’s bread with the wicked, are in this more rigid than Paul.52  <span
-id="fr_523"></span>[524](#fn_523) For when he exhorts us to pure and
+id="fr_523"></span>[524](#fn_523.md) For when he exhorts us to pure and
 holy communion, he does not require that we should examine others, or
 that every one should examine the whole church, but that each should
 examine himself (<span id="iv.iv.ii-p60.1"></span>[1 Cor.
-11:28](../../../bib/kjv/co1011.htm#028),
-[29](../../../bib/kjv/co1011.htm#029)<span id="iv.iv.ii-p60.1"></span>).
+11:28](../../../bib/kjv/co1011.htm#028.md),
+[29](../../../bib/kjv/co1011.htm#029)<span id="iv.iv.ii-p60.1"></span>.md).
 If it were unlawful to communicate with the unworthy, Paul would
 certainly have ordered us to take heed that there were no individual in
 the whole body by whose impurity we might be defiled, but now that he
@@ -958,7 +958,7 @@ with the washing of water by the word, that he might present it to
 himself a glorious church, not having spot, or wrinkle, or any such
 thing; but that it should be holy and without blemish” (<span
 id="iv.iv.ii-p62.1"></span>[Eph.
-5:25-27](../../../bib/kjv/eph005.htm#025)<span
+5:25-27](../../../bib/kjv/eph005.htm#025.md)<span
 id="iv.iv.ii-p62.1"></span>). Nevertheless, it is true, that the Lord is
 daily smoothing its wrinkles, and wiping away its spots. Hence it
 follows, that its holiness is not yet perfect. Such, then, is the
@@ -968,9 +968,9 @@ elsewhere be more fully explained. Therefore, when the Prophets foretel,
 “Then shall Jerusalem be holy, and there shall no strangers pass through
 her any more;”—“It shall be called, The way of holiness; the unclean
 shall not pass over it” (<span id="iv.iv.ii-p62.2"></span>[Joel
-3:17](../../../bib/kjv/joe003.htm#017)<span id="iv.iv.ii-p62.2"></span>;
+3:17](../../../bib/kjv/joe003.htm#017.md)<span id="iv.iv.ii-p62.2"></span>;
 <span id="iv.iv.ii-p62.3"></span>[Isa.
-35:8](../../../bib/kjv/isa035.htm#008)<span
+35:8](../../../bib/kjv/isa035.htm#008.md)<span
 id="iv.iv.ii-p62.3"></span>), let us not understand it as if no blemish
 remained in the members of the Church: but only that with there whole
 heart they aspire after holiness and perfect purity: and hence, that
@@ -979,7 +979,7 @@ God, attributed to them. And though the indications of such a kind of
 holiness existing among men are too rare, we must understand, that at no
 period since the world began has the Lord been without his Church, nor
 ever shall be till the final consummation of all things.  <span
-id="fr_524"></span>[525](#fn_524) For although, at the very outset, the
+id="fr_524"></span>[525](#fn_524.md) For although, at the very outset, the
 whole human race was vitiated and corrupted by the sin of Adam, yet of
 this kind of polluted mass he always sanctifies some vessels to honour,
 that no age may be left without experience of his mercy. This he has
@@ -987,21 +987,21 @@ declared by sure promises, such as the following: “I have made a
 covenant with my chosen, I have sworn unto David my servant, Thy seed
 will I establish for ever, and build up thy throne to all generations”
 (<span id="iv.iv.ii-p63.1"></span>[Ps.
-89:3](../../../bib/kjv/psa089.htm#003),
-[4](../../../bib/kjv/psa089.htm#004)<span id="iv.iv.ii-p63.1"></span>).
+89:3](../../../bib/kjv/psa089.htm#003.md),
+[4](../../../bib/kjv/psa089.htm#004)<span id="iv.iv.ii-p63.1"></span>.md).
 “The Lord hath chosen Zion; he hath desired it for his habitation. This
 is my rest for ever; here will I dwell” (<span
 id="iv.iv.ii-p63.2"></span>[Ps.
-132:13](../../../bib/kjv/psa132.htm#013),
-[14](../../../bib/kjv/psa132.htm#014)<span id="iv.iv.ii-p63.2"></span>).
+132:13](../../../bib/kjv/psa132.htm#013.md),
+[14](../../../bib/kjv/psa132.htm#014)<span id="iv.iv.ii-p63.2"></span>.md).
 “Thus saith the Lord, which giveth the sun for a light by day, and the
 ordinances of the moon and of the stars for a light by night, which
 divideth the sea when the waves thereof roar; The Lord of hosts is his
 name: If those ordinances depart from before me, saith the Lord, then
 the seed of Israel also shall cease from being a nation before me for
 ever” (<span id="iv.iv.ii-p63.3"></span>[Jer.
-31:35](../../../bib/kjv/jer031.htm#035),
-[36](../../../bib/kjv/jer031.htm#036)<span id="iv.iv.ii-p63.3"></span>).
+31:35](../../../bib/kjv/jer031.htm#035.md),
+[36](../../../bib/kjv/jer031.htm#036)<span id="iv.iv.ii-p63.3"></span>.md).
 
 <span id="iv.iv.ii-p64"></span>18. On this head, Christ himself, his
 apostles, and almost all the prophets, have furnished us with examples.
@@ -1010,7 +1010,7 @@ and others, deplore the diseases of the Church of Jerusalem. In the
 people, the rulers, and the priests, corruption prevailed to such a
 degree, that Isaiah hesitates not to liken Jerusalem to Sodom and
 Gomorrah (<span id="iv.iv.ii-p64.1"></span>[Isa.
-1:10](../../../bib/kjv/isa001.htm#010)<span
+1:10](../../../bib/kjv/isa001.htm#010.md)<span
 id="iv.iv.ii-p64.1"></span>). Religion was partly despised, partly
 adulterated, while in regard to morals, we everywhere meet with accounts
 of theft, robbery, perfidy, murder, and similar crimes. The prophets,
@@ -1065,7 +1065,7 @@ even to greater lengths. Refusing to acknowledge any church that is not
 pure from the minutest blemish, they take offence at sound teachers for
 exhorting believers to make progress, and so teaching them to groan
 during their whole lives under the burden of sin, and flee for pardon.
-For they preten  <span id="fr_525"></span>[526](#fn_525) that in this
+For they preten  <span id="fr_525"></span>[526](#fn_525.md) that in this
 way believers are led away from perfection. I admit that we are not to
 labour feebly or coldly in urging perfection, far less to desist from
 urging it; but I hold that it is a device of the devil to fill our minds
@@ -1074,7 +1074,7 @@ Accordingly, in the Creed forgiveness of sins is appropriately subjoined
 to belief as to the Church, because none obtain forgiveness but those
 who are citizens, and of the household of the Church, as we read in the
 Prophet (<span id="iv.iv.ii-p67.1"></span>[Is.
-33:24](../../../bib/kjv/isa033.htm#024)<span
+33:24](../../../bib/kjv/isa033.htm#024.md)<span
 id="iv.iv.ii-p67.1"></span>). The first place, therefore, should be
 given to the building of the heavenly Jerusalem, in which God afterwards
 is pleased to wipe away the iniquity of all who betake themselves to it.
@@ -1090,14 +1090,14 @@ and the battle, out of the earth, and will make them to lie down safely.
 And I will betroth thee unto me for ever; yea, I will betroth thee unto
 me in righteousness, and in judgment, and in loving-kindness, and in
 mercies” (<span id="iv.iv.ii-p67.2"></span>[Hos.
-2:18](../../../bib/kjv/hos002.htm#018),
-[19](../../../bib/kjv/hos002.htm#019)<span id="iv.iv.ii-p67.2"></span>).
+2:18](../../../bib/kjv/hos002.htm#018.md),
+[19](../../../bib/kjv/hos002.htm#019)<span id="iv.iv.ii-p67.2"></span>.md).
 We see in what way the Lord reconciles us to himself by his mercy. So in
 another passage, where he foretells that the people whom he had
 scattered in anger will again be gathered together, “I will cleanse them
 from all their iniquity, whereby they have sinned against me” (<span
 id="iv.iv.ii-p67.3"></span>[Jer.
-33:8](../../../bib/kjv/jer033.htm#008)<span
+33:8](../../../bib/kjv/jer033.htm#008.md)<span
 id="iv.iv.ii-p67.3"></span>). Wherefore, our initiation into the
 fellowship of the Church is, by the symbol of ablution, to teach us that
 we have no admission into the family of God, unless by his goodness our
@@ -1126,18 +1126,18 @@ Christ’s merits, and the sanctification of the Spirit.
 <span id="iv.iv.ii-p69"></span>22. To impart this blessing to us, the
 keys have been given to the Church (<span
 id="iv.iv.ii-p69.1"></span>[Mt.
-16:19](../../../bib/kjv/mat016.htm#019)<span
+16:19](../../../bib/kjv/mat016.htm#019.md)<span
 id="iv.iv.ii-p69.1"></span>; 18:18). For when Christ gave the command to
 the apostles, and conferred the power of forgiving sins, he not merely
 intended that they should loose the sins of those who should be
 converted from impiety to the faith of Christ;52  <span
-id="fr_526"></span>[527](#fn_526) but, moreover, that they should
+id="fr_526"></span>[527](#fn_526.md) but, moreover, that they should
 perpetually perform this office among believers. This Paul teaches, when
 he says that the embassy of reconciliation has been committed to the
 ministers of the Church, that they may ever and anon in the name of
 Christ exhort the people to be reconciled to God (<span
 id="iv.iv.ii-p70.1"></span>[2 Cor.
-5:20](../../../bib/kjv/co2005.htm#020)<span
+5:20](../../../bib/kjv/co2005.htm#020.md)<span
 id="iv.iv.ii-p70.1"></span>). Therefore, in the communion of saints our
 sins are constantly forgiven by the ministry of the Church, when
 presbyters or bishops, to whom the office has been committed, confirm
@@ -1148,8 +1148,8 @@ special pacification, and Paul declares that he testified of the grace
 of Christ not only in the public assembly, but from house to house,
 reminding each individually of the doctrine of salvation (<span
 id="iv.iv.ii-p70.2"></span>[Acts
-20:20](../../../bib/kjv/act020.htm#020),
-[21](../../../bib/kjv/act020.htm#021)<span id="iv.iv.ii-p70.2"></span>).
+20:20](../../../bib/kjv/act020.htm#020.md),
+[21](../../../bib/kjv/act020.htm#021)<span id="iv.iv.ii-p70.2"></span>.md).
 Three things are here to be observed. First, Whatever be the holiness
 which the children of God possess, it is always under the condition,
 that so long as they dwell in a mortal body, they cannot stand before
@@ -1182,7 +1182,7 @@ old had very many followers), let us briefly show how much they rave, to
 the destruction both of themselves and others. In the first place, since
 by the command of our Lord the saints daily repeat this prayer, “Forgive
 us our debts” (<span id="iv.iv.ii-p71.1"></span>[Mt.
-6:12](../../../bib/kjv/mat006.htm#012)<span
+6:12](../../../bib/kjv/mat006.htm#012.md)<span
 id="iv.iv.ii-p71.1"></span>), they confess that they are debtors. Nor do
 they ask in vain; for the Lord has only enjoined them to ask what he
 will give. Nay, while he has declared that the whole prayer will be
@@ -1193,7 +1193,7 @@ and promises pardon. How presumptuous, then, to exempt them from sin, or
 when they have stumbled, to exclude them altogether from grace? Then
 whom does he enjoin us to pardon seventy and seven times? Is it not our
 brethren? (<span id="iv.iv.ii-p71.2"></span>[Mt.
-18:22](../../../bib/kjv/mat018.htm#022)<span
+18:22](../../../bib/kjv/mat018.htm#022.md)<span
 id="iv.iv.ii-p71.2"></span>) And why has he so enjoined but that we may
 imitate his clemency? He therefore pardons not once or twice only, but
 as often as, under a sense of our faults, we feel alarmed, and sighing
@@ -1204,7 +1204,7 @@ first commencement of the Church: the Patriarchs had been circumcised,
 admitted to a participation in the covenant, and doubtless instructed by
 their father’s care in righteousness and integrity, when they conspired
 to commit fratricide. The crime was one which the most abandoned robbers
-would have abominated.52  <span id="fr_527"></span>[528](#fn_527) At
+would have abominated.52  <span id="fr_527"></span>[528](#fn_527.md) At
 length, softened by the remonstrances of Judah, they sold him; this also
 was intolerable cruelty. Simeon and Levi took a nefarious revenge on the
 sons of Sychem, one, too, condemned by the judgment of their father.
@@ -1225,7 +1225,7 @@ should return to the Lord? “Then the Lord thy God will turn thy
 captivity, and have compassion upon thee, and will return and gather
 thee from all the nations whither the Lord thy God hath scattered thee”
 (<span id="iv.iv.ii-p73.3"></span>[Deut.
-30:3](../../../bib/kjv/deu030.htm#003)<span
+30:3](../../../bib/kjv/deu030.htm#003.md)<span
 id="iv.iv.ii-p73.3"></span>).
 
 <span id="iv.iv.ii-p74"></span>25. But I am unwilling to begin an
@@ -1240,13 +1240,13 @@ harlot with many lovers; yet return again unto me, saith the Lord.”
 “Return, thou backsliding Israel, saith the Lord; and I will not cause
 mine anger to fall upon you; for I am merciful, saith the Lord, and I
 will not keep anger for ever” (<span id="iv.iv.ii-p74.1"></span>[Jer.
-3:1](../../../bib/kjv/jer003.htm#001),
-[12](../../../bib/kjv/jer003.htm#012)<span id="iv.iv.ii-p74.1"></span>).
+3:1](../../../bib/kjv/jer003.htm#001.md),
+[12](../../../bib/kjv/jer003.htm#012)<span id="iv.iv.ii-p74.1"></span>.md).
 And surely he could not have a different feeling who declares, “I have
 no pleasure in the death of him that dieth;” “Wherefore turn yourselves,
 and live ye” (<span id="iv.iv.ii-p74.2"></span>[Ezek.
-18:23](../../../bib/kjv/eze018.htm#023),
-[32](../../../bib/kjv/eze018.htm#032)<span id="iv.iv.ii-p74.2"></span>).
+18:23](../../../bib/kjv/eze018.htm#023.md),
+[32](../../../bib/kjv/eze018.htm#032)<span id="iv.iv.ii-p74.2"></span>.md).
 Accordingly, when Solomon dedicated the temple, one of the uses for
 which it was destined was, that prayers offered up for the pardon of
 sins might there be heard. “If they sin against thee (for there is no
@@ -1264,7 +1264,7 @@ then hear thou their prayer and their supplication in heaven thy
 dwelling-place, and maintain their cause, and forgive thy people that
 have sinned against thee, and all their transgressions wherein they have
 transgressed against thee” (<span id="iv.iv.ii-p74.3"></span>[1 Kings
-8:46-50](../../../bib/kjv/kg1008.htm#046)<span
+8:46-50](../../../bib/kjv/kg1008.htm#046.md)<span
 id="iv.iv.ii-p74.3"></span>). Nor in vain in the Law did God ordain a
 daily sacrifice for sins. Had he not foreseen that his people were
 constantly to labour under the disease of sin, he never would have
@@ -1282,10 +1282,10 @@ distinctly proclaiming that in Christ alone the grace and
 loving-kindness of the Lord have fully appeared, the riches of his mercy
 been poured out, reconciliation between God and man accomplished (<span
 id="iv.iv.ii-p75.1"></span>[Tit.
-2:11](../../../bib/kjv/tit002.htm#011)<span id="iv.iv.ii-p75.1"></span>;
+2:11](../../../bib/kjv/tit002.htm#011.md)<span id="iv.iv.ii-p75.1"></span>;
 3:4; <span id="iv.iv.ii-p75.2"></span>[2 Tim.
-1:9](../../../bib/kjv/ti2001.htm#009),
-[10](../../../bib/kjv/ti2001.htm#010)<span id="iv.iv.ii-p75.2"></span>),
+1:9](../../../bib/kjv/ti2001.htm#009.md),
+[10](../../../bib/kjv/ti2001.htm#010)<span id="iv.iv.ii-p75.2"></span>.md),
 let us not doubt that the clemency of our heavenly Father, instead of
 being cut off or curtailed, is in much greater exuberance. Nor are
 proofs of this wanting. Peter, who had heard our Saviour declare that he
@@ -1293,15 +1293,15 @@ who did not confess his name before men would be denied before the
 angels of God, denied him thrice in one night, and not without
 execration; yet he is not denied pardon (<span
 id="iv.iv.ii-p75.3"></span>[Mark
-8:38](../../../bib/kjv/mar008.htm#038)<span
+8:38](../../../bib/kjv/mar008.htm#038.md)<span
 id="iv.iv.ii-p75.3"></span>). Those who lived disorderly among the
 Thessalonians, though chastised, are still invited to repentance (<span
 id="iv.iv.ii-p75.4"></span>[2 Thess.
-3:6](../../../bib/kjv/th2003.htm#006)<span id="iv.iv.ii-p75.4"></span>).
+3:6](../../../bib/kjv/th2003.htm#006)<span id="iv.iv.ii-p75.4"></span>.md).
 Not even is Simon Magus thrown into despair. He is rather told to hope,
 since Peter invites him to have recourse to prayer (<span
 id="iv.iv.ii-p75.5"></span>[Acts
-8:22](../../../bib/kjv/act008.htm#022)<span
+8:22](../../../bib/kjv/act008.htm#022.md)<span
 id="iv.iv.ii-p75.5"></span>).
 
 <span id="iv.iv.ii-p76"></span>27. What shall we say to the fact, that
@@ -1320,7 +1320,7 @@ and keep not my commandments; then will I visit their transgression with
 the rod, and their iniquity with stripes. Nevertheless, my
 loving-kindness will I not utterly take from him” (<span
 id="iv.iv.ii-p76.1"></span>[Ps.
-89:30-33](../../../bib/kjv/psa089.htm#030)<span
+89:30-33](../../../bib/kjv/psa089.htm#030.md)<span
 id="iv.iv.ii-p76.1"></span>). In short, by the very arrangement of the
 Creed, we are reminded that forgiveness of sins always resides in the
 Church of Christ, for after the Church is as it were constituted,
@@ -1335,7 +1335,7 @@ committed through ignorance. But since the Lord has in the Law ordered
 some sacrifices to be offered in expiation of the voluntary sins of
 believers, and others to redeem sins of ignorance (<span
 id="iv.iv.ii-p77.1"></span>[Lev.
-4](../../../bib/kjv/lev004.htm#000)<span id="iv.iv.ii-p77.1"></span>),
+4](../../../bib/kjv/lev004.htm#000)<span id="iv.iv.ii-p77.1"></span>.md),
 how perverse is it to concede no expiation to a voluntary sin? I hold
 nothing to be more plain, than that the one sacrifice of Christ avails
 to remit the voluntary sins of believers, the Lord having attested this
@@ -1363,7 +1363,7 @@ break out into open invectives, and labour, besides, under other evils,
 which are in no slight degree offensive to the Lord; but they so called
 them to distinguish them from public crimes, which came under the
 cognisance of the Church, and produced much scandal.52  <span
-id="fr_528"></span>[529](#fn_528) The great difficulty they had in
+id="fr_528"></span>[529](#fn_528.md) The great difficulty they had in
 pardoning those who had done something that called for ecclesiastical
 animadversion, was not because they thought it difficult to obtain
 pardon from the Lord, but by this severity they wished to deter others
@@ -1374,14 +1374,14 @@ moderation, since it teaches that the rigour of discipline must not be
 stretched so far as to overwhelm with grief the individual for whose
 benefit it should specially be designed (<span
 id="iv.iv.ii-p79.1"></span>[2 Cor.
-2:7](../../../bib/kjv/co2002.htm#007)<span id="iv.iv.ii-p79.1"></span>),
+2:7](../../../bib/kjv/co2002.htm#007)<span id="iv.iv.ii-p79.1"></span>.md),
 as we have above discoursed at greater length.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_512"></span>[513](inst081.htm#fr_512) <span
+<span id="fn_512"></span>[513](inst081.htm#fr_512.md) <span
 id="iv.iv.ii-p34.2"></span>
 
 <span id="iv.iv.ii-p35"></span>103 D103 Here Calvin provides a basis for
@@ -1391,7 +1391,7 @@ known to God alone and cannot with certainty be ascertained by men
 (except for themselves, through their effectual calling). (see also
 section 7)
 
-<span id="fn_513"></span>[514](inst081.htm#fr_513) <span
+<span id="fn_513"></span>[514](inst081.htm#fr_513.md) <span
 id="iv.iv.ii-p37.1"></span>
 
 <span id="iv.iv.ii-p38"></span>104 D104 Here Calvin employs the term,
@@ -1404,7 +1404,7 @@ hypocrites in the church—those who are not truly members of Christ’s
 body. This mixed state of affairs forms part of the warrant for Church
 discipline. (see also section 7)
 
-<span id="fn_514"></span>[515](inst081.htm#fr_514) <span
+<span id="fn_514"></span>[515](inst081.htm#fr_514.md) <span
 id="iv.iv.ii-p42.1"></span>
 
 <span id="iv.iv.ii-p43"></span>105 D105 In this section (7), Calvin
@@ -1413,7 +1413,7 @@ specifically distinguishes between the invisible and the visible Church
 as it really is before God; the visible Church is the Church as it
 appears to man.
 
-<span id="fn_515"></span>[516](inst081.htm#fr_515) <span
+<span id="fn_515"></span>[516](inst081.htm#fr_515.md) <span
 id="iv.iv.ii-p44.2"></span>
 
 <span id="iv.iv.ii-p45"></span>106 D106 Here Calvin enumerates the
@@ -1424,7 +1424,7 @@ the invisible church (such certainty rests with God alone); but the
 absence of them leaves us with no bases upon which to judge who are to
 be regarded as members of the visible Church.
 
-<span id="fn_516"></span>[517](inst081.htm#fr_516) <span
+<span id="fn_516"></span>[517](inst081.htm#fr_516.md) <span
 id="iv.iv.ii-p46.2"></span>
 
 <span id="iv.iv.ii-p47"></span>107 D107 Here Calvin distinguishes
@@ -1432,7 +1432,7 @@ between the Church universal (the visible church throughout the world),
 and local churches and individuals (the visible Church manifested in
 particular places).
 
-<span id="fn_517"></span>[518](inst081.htm#fr_517) <span
+<span id="fn_517"></span>[518](inst081.htm#fr_517.md) <span
 id="iv.iv.ii-p50.1"></span>
 
 <span id="iv.iv.ii-p51"></span>16 516 French, “Pour donner exemple, s’il
@@ -1447,45 +1447,45 @@ determine the place, simply think that it lives in God, and should such
 diversity be without contention and obstinacy, why should they be
 divided?
 
-<span id="fn_518"></span>[519](inst081.htm#fr_518) <span
+<span id="fn_518"></span>[519](inst081.htm#fr_518.md) <span
 id="iv.iv.ii-p51.2"></span>
 
 <span id="iv.iv.ii-p52"></span>17 517 French, “La doctrine principale de
 nostre salut;”—the fundamental doctrine of our salvation.
 
-<span id="fn_519"></span>[520](inst081.htm#fr_519) <span
+<span id="fn_519"></span>[520](inst081.htm#fr_519.md) <span
 id="iv.iv.ii-p52.2"></span>
 
 <span id="iv.iv.ii-p53"></span>18 518 French, “Et aussi que demeurant en
 icelle nous ne troublions point la police ni la discipline;”—and also
 that, remaining in it, we disturb not its order and discipline.
 
-<span id="fn_520"></span>[521](inst081.htm#fr_520) <span
+<span id="fn_520"></span>[521](inst081.htm#fr_520.md) <span
 id="iv.iv.ii-p54.1"></span>
 
 <span id="iv.iv.ii-p55"></span>19 519 French. “Comme s’ils eussent ete
 quelques anges de Paradis;”—as if they had bean some angels of Paradise.
 
-<span id="fn_521"></span>[522](inst081.htm#fr_521) <span
+<span id="fn_521"></span>[522](inst081.htm#fr_521.md) <span
 id="iv.iv.ii-p56.1"></span>
 
 <span id="iv.iv.ii-p57"></span>20 520 l Cor. 1:11; 3:3; 5:l; 6:7; 9:l;
 15:12.
 
-<span id="fn_522"></span>[523](inst081.htm#fr_522) <span
+<span id="fn_522"></span>[523](inst081.htm#fr_522.md) <span
 id="iv.iv.ii-p57.2"></span>
 
 <span id="iv.iv.ii-p58"></span>21 521 French, “Toutesfois Sainct Paul
 recognoissoit entre eux quelque Eglise;”—yet St Paul recognised some
 church among them.
 
-<span id="fn_523"></span>[524](inst081.htm#fr_523) <span
+<span id="fn_523"></span>[524](inst081.htm#fr_523.md) <span
 id="iv.iv.ii-p59.2"></span>
 
 <span id="iv.iv.ii-p60"></span>22 522 See Calvin, Lib. de Cœna Domini;
 item, Instructio adv. Anabapt.
 
-<span id="fn_524"></span>[525](inst081.htm#fr_524) <span
+<span id="fn_524"></span>[525](inst081.htm#fr_524.md) <span
 id="iv.iv.ii-p62.4"></span>
 
 <span id="iv.iv.ii-p63"></span>108 D108 Calvin here asserts that, in all
@@ -1497,13 +1497,13 @@ view that Old Testament believers cannot be said to have been in the
 Church, since the Church began at Pentecost. Calvin views believers of
 all ages and dispensations as members of Christ’s Church.
 
-<span id="fn_525"></span>[526](inst081.htm#fr_525) <span
+<span id="fn_525"></span>[526](inst081.htm#fr_525.md) <span
 id="iv.iv.ii-p66.1"></span>
 
 <span id="iv.iv.ii-p67"></span>23 523 Latin, “Jactant.”—French, “Ces
 grands correcteurs leur reprochent;”—those great reformers upbraid them.
 
-<span id="fn_526"></span>[527](inst081.htm#fr_526) <span
+<span id="fn_526"></span>[527](inst081.htm#fr_526.md) <span
 id="iv.iv.ii-p69.2"></span>
 
 <span id="iv.iv.ii-p70"></span>24 524 French, “Ce n’a pas eté seulement
@@ -1512,19 +1512,19 @@ et qu’ils fissent cela pour une fois.”—It was not only that they might
 loose those who should be converted to the Christian faith, and that
 they should do so once for all
 
-<span id="fn_527"></span>[528](inst081.htm#fr_527) <span
+<span id="fn_527"></span>[528](inst081.htm#fr_527.md) <span
 id="iv.iv.ii-p72.1"></span>
 
 <span id="iv.iv.ii-p73"></span>25 525 <span
 id="iv.iv.ii-p73.1"></span>[Gen.
-37:18](../../../bib/kjv/gen037.htm#018),
-[28](../../../bib/kjv/gen037.htm#028)<span id="iv.iv.ii-p73.1"></span>;
+37:18](../../../bib/kjv/gen037.htm#018.md),
+[28](../../../bib/kjv/gen037.htm#028.md)<span id="iv.iv.ii-p73.1"></span>;
 34:25; 35:22; 38:16; <span id="iv.iv.ii-p73.2"></span>[2 Sam.
-11:4](../../../bib/kjv/sa2011.htm#004),
-[15](../../../bib/kjv/sa2011.htm#015)<span id="iv.iv.ii-p73.2"></span>;
+11:4](../../../bib/kjv/sa2011.htm#004.md),
+[15](../../../bib/kjv/sa2011.htm#015.md)<span id="iv.iv.ii-p73.2"></span>;
 xii 13.
 
-<span id="fn_528"></span>[529](inst081.htm#fr_528) <span
+<span id="fn_528"></span>[529](inst081.htm#fr_528.md) <span
 id="iv.iv.ii-p78.1"></span>
 
 <span id="iv.iv.ii-p79"></span>26 526 French, “Ils usoient de cette
@@ -1537,4 +1537,4 @@ the Church.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 2. - COMPARISON BETWEEN THE FALSE CHURCH AND THE
-TRUE.](inst082)
+TRUE.](inst082.md)

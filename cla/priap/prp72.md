@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp71)  [Next](prp73) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp71)  [Next](prp73.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ lose pleasurable things thou wilt be taught.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: 73. Of vergers diligent guard (Priapus!), threat](prp73)
+[Next: 73. Of vergers diligent guard (Priapus!), threat](prp73.md)

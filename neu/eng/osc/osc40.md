@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc39)  [Next](osc41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc39)  [Next](osc41.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ party, able at will to dispose of his wife as he thinks fit.
 
 ------------------------------------------------------------------------
 
-[Next: (9) Christening Customs](osc41)
+[Next: (9) Christening Customs](osc41.md)

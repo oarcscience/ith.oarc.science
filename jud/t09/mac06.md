@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](mac05)  [Next](mac07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](mac05)  [Next](mac07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -315,7 +315,7 @@ should be found false. The disciples of R. Ismael taught, it reads
 <span id="page_8">p. 8</span>
 
 <span class="contnote">\[paragraph continues\]</span> "Testify against
-him for any deviation," <span id="fr_2"></span>[1](#fn_2) which means
+him for any deviation," <span id="fr_2"></span>[1](#fn_2.md) which means
 the testifying itself should be a deviation.
 
 Rabha said: "If two persons testify that one has killed a man in the
@@ -336,7 +336,7 @@ If the investigation shows that it is possible for one to walk during
 that time from Sura to N'hardaia, then they are not collusive; otherwise
 they are." Is this not self-evident? Lest one say it is to be feared
 perhaps the man went to the latter city in a [flying
-camel](errata.htm#36) <span id="fr_3"></span>[2](#fn_3) he comes to
+camel](errata.htm#36) <span id="fr_3"></span>[2](#fn_3.md) he comes to
 teach us that such fear must not be taken into consideration.
 
 And he said again: If they testify that on Sunday one has killed a
@@ -427,7 +427,7 @@ daughter of thy mother." And it is also repeated \[ibid., ibid. ii.\]:
 "She is a sister," etc. Also for this purpose one shall not base this on
 *a fortiori* conclusion. All this is concerning capital punishment. But
 whence do we know that the same is the case with stripes? From an
-analogy of the expression "wicked" stated above ([p. 7](#page_7)) and
+analogy of the expression "wicked" stated above ([p. 7](#page_7).md) and
 whence do we know that the same is the case concerning exile? From the
 analogy of expression "murder" as stated above. There is a Boraitha. R.
 Jehuda b. Tabai said: "May I not live to see the consolation of our
@@ -517,7 +517,7 @@ found collusive, he (the accused) and they (the collusive) are put to
 death, and the other party is free. R. Jose, however, maintains that
 there is no capital punishment unless two witnesses have warned this
 culprit, as it reads: "Upon the mouth of two witnesses." <span
-id="fr_4"></span>[1](#fn_4) Another explanation of the words upon the
+id="fr_4"></span>[1](#fn_4.md) Another explanation of the words upon the
 mouth is that the Sanhedrin must not hear the evidence from a
 demonstrator (but they themselves must understand the language of the
 witness).
@@ -618,20 +618,20 @@ cities but not in the small ones.
 
 ### Footnotes
 
-<span id="fn_2"></span>[8:1](mac06.htm#fr_2) [Leeser](errata.htm#37)
+<span id="fn_2"></span>[8:1](mac06.htm#fr_2) [Leeser](errata.htm#37.md)
 translates "wrong"; however, he is wrong according to the sense in the
 text.
 
-<span id="fn_3"></span>[8:2](mac06.htm#fr_3)
-[*Rodkinson*:](errata.htm#38) The text says it shall be feared that they
+<span id="fn_3"></span>[8:2](mac06.htm#fr_3.md)
+[*Rodkinson*:](errata.htm#38.md) The text says it shall be feared that they
 went there on a flying camel, We have rendered it a balloon, as the
 sense is the same. [*JBH*: I have redacted this as the much more
-charming and to the point 'flying camel'](errata.htm#39).
+charming and to the point 'flying camel'](errata.htm#39.md).
 
-<span id="fn_4"></span>[12:1](mac06.htm#fr_4) The term in the Bible is
+<span id="fn_4"></span>[12:1](mac06.htm#fr_4.md) The term in the Bible is
 *al pe* and the Hebrew term for mouth is *pe*, and he takes it
 literally.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](mac07)
+[Next: Chapter II](mac07.md)

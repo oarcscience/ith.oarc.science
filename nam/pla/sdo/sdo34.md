@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo33)  [Next](sdo35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo33)  [Next](sdo35.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ American](../../index)  [Plains](../index)  [Index](index) 
 The *Hunka* ceremony is a Lakota ceremony in which two persons adopt the
 *Hunka* relationship toward each other and thereby both assume a more
 restricted relationship with all for whom the ceremony has been
-performed. The term, *Hunka*, <span id="fr_1"></span>[1](#fn_1)
+performed. The term, *Hunka*, <span id="fr_1"></span>[1](#fn_1.md)
 expresses the relationship of each of the two persons to the other,
 while the term, *Hunkaya*, expresses their relationship to all others
 for whom the ceremony has been performed. The term, *Hunkayapi*,
@@ -55,7 +55,7 @@ animal to the Lakota and as its tail was the most noticeable feature,
 the Lakota considered it sacred, with the potency of sacred things, in
 the same manner as they considered sacred the tail of a buffalo. The old
 Lakota still so consider horse-tails and wave them over others to cause
-an amicable influence. <span id="fr_2"></span>[1](#fn_2)
+an amicable influence. <span id="fr_2"></span>[1](#fn_2.md)
 
 Any two persons may become *Hunka*, provided a Shaman will perform the
 ceremony. This proviso makes it difficult for a white man to become a
@@ -96,7 +96,7 @@ feasts and presents expected.
 
 ### Footnotes
 
-<span id="fn_1"></span>[122:1](sdo34.htm#fr_1) According to the late
+<span id="fn_1"></span>[122:1](sdo34.htm#fr_1.md) According to the late
 Rev. W. J. Cleveland, the term *hunka*, while conforming to Dakota
 phonetics appears to be a foreign word. This opinion of Rev. Cleveland
 deserves serious consideration because of his perfect familiarity with
@@ -112,7 +112,7 @@ as the name for a similar ceremony. As just stated, there are historical
 reasons for believing that the Pawnee are chiefly responsible for the
 introduction of this ceremony to the other tribes of the Plains--Editor.
 
-<span id="fn_2"></span>[123:1](sdo34.htm#fr_2) This ceremony is
+<span id="fn_2"></span>[123:1](sdo34.htm#fr_2.md) This ceremony is
 essentially the same as the Hako of the Pawnee of which we have a
 published account. It also appears to be a form of the ceremony known to
 early explorers as the "Waving the Calumet," though not necessarily
@@ -127,4 +127,4 @@ the horse.--Editor.
 
 ------------------------------------------------------------------------
 
-[Next: Equipment for the Ceremony](sdo35)
+[Next: Equipment for the Ceremony](sdo35.md)

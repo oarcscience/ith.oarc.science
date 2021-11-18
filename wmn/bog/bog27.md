@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog26)  [Next](bog28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog26)  [Next](bog28.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ Blessed be."
 
 ------------------------------------------------------------------------
 
-[Next: Seventh Principle: Maria](bog28)
+[Next: Seventh Principle: Maria](bog28.md)

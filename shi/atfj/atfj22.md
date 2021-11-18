@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj21)  [Next](atfj23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj21)  [Next](atfj23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_24"></span> <span align="CENTER"> [![24. Makino Heinei
 Gets Blown Away in the Storm](tn/24.jpg)  
-Click to enlarge](img/24.jpg)  
+Click to enlarge](img/24.jpg.md)  
 24. Makino Heinei Gets Blown Away in the Storm  
 </span>
 
@@ -194,6 +194,6 @@ called Bonin Islands by Europeans.</span>
 
 ------------------------------------------------------------------------
 
-[Next: XXI. Chikubu Island, Lake Biwa](atfj23)
+[Next: XXI. Chikubu Island, Lake Biwa](atfj23.md)
 
 </div>

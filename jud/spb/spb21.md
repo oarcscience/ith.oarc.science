@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb20)  [Next](spb22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb20)  [Next](spb22.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ rested, and ceased from his work.
 
 Exod. xx. 8–11.
 
-Remember the sabbath day to [keep](errata.htm#4) it holy. Six days shalt
+Remember the sabbath day to [keep](errata.htm#4.md) it holy. Six days shalt
 thou labor, and do all thy work: but the seventh day is a sabbath unto
 the Lord thy God: in it thou shalt not do any work, thou, nor thy son,
 nor thy daughter, thy man-servant, nor thy maidservant, nor thy cattle,
@@ -48,6 +48,6 @@ forth bread from the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Afternoon Service for Sabbaths](spb22)
+[Next: Afternoon Service for Sabbaths](spb22.md)
 
 </div>

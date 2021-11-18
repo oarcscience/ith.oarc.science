@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfl04)  [Next](wfl06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfl04)  [Next](wfl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -234,4 +234,4 @@ afflicting the babe.' \[See Doolittle's 'Social Life of the Chinese.'\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Living with the Tylwyth Teg](wfl06)
+[Next: Chapter VI: Living with the Tylwyth Teg](wfl06.md)

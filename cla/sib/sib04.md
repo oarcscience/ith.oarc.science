@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib03)  [Next](sib05) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib03)  [Next](sib05.md) 
 
 ------------------------------------------------------------------------
 
@@ -648,4 +648,4 @@ Holy Giver of manna, King of the great realm.
 
 ------------------------------------------------------------------------
 
-[Next: Book III.](sib05)
+[Next: Book III.](sib05.md)

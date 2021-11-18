@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft35)  [Next](sfft37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft35)  [Next](sfft37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### WATER FAIRIES. <span id="fr_55"></span>[1](#fn_55)
+### WATER FAIRIES. <span id="fr_55"></span>[1](#fn_55.md)
 
 THE Dracæ are a sort of water-spirits who inveigle women and children
 into the recesses which they inhabit, beneath lakes and rivers, by
@@ -58,9 +58,9 @@ small noise and precipitation.
 
 ### Footnotes
 
-<span id="fn_55"></span>[124:1](sfft36.htm#fr_55) Sir Walter Scott,
+<span id="fn_55"></span>[124:1](sfft36.htm#fr_55.md) Sir Walter Scott,
 *Minstrelsy of the Scottish Border*.
 
 ------------------------------------------------------------------------
 
-[Next: Fairy Transportation](sfft37)
+[Next: Fairy Transportation](sfft37.md)

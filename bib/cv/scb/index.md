@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O3Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O3Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,8 +28,8 @@ See <a href="scb03.htm#90">Number 90</a></td>
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](scb00)    [Text
-\[Zipped\]](scb.txt.gz)
+[Contents](#contents)    [Start Reading](scb00.md)    [Text
+\[Zipped\]](scb.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -60,8 +60,8 @@ mystery as well.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](scb00)  
-[Theological Doctrines](scb01)  
-[Moral Precepts](scb02)  
-[Historical Facts](scb03)  
-[Speculative Doctrines](scb04)  
+<span id="contents"></span> [Title Page](scb00.md)  
+[Theological Doctrines](scb01.md)  
+[Moral Precepts](scb02.md)  
+[Historical Facts](scb03.md)  
+[Speculative Doctrines](scb04.md)  

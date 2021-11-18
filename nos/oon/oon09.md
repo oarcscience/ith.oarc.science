@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon08)  [Next](oon10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon08)  [Next](oon10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -58,10 +58,10 @@ THE PEACE OF CATEAU-CAMBRESIS (APRIL 3, 1559). \[I. 71.\]
 Century IX.--*Quatrain* 52.
 
 La paix s'approche d'un costé, et la guerre  
-Oncques <span id="fr_52"></span>[1](#fn_52) ne fut la poursuitte si
+Oncques <span id="fr_52"></span>[1](#fn_52.md) ne fut la poursuitte si
 grande:  
 Plaindre hômes, femmes, sang innocent par terre,  
-Et ce sera de France a <span id="fr_53"></span>[2](#fn_53) toute bande.
+Et ce sera de France a <span id="fr_53"></span>[2](#fn_53.md) toute bande.
 
 Translation
 
@@ -82,10 +82,10 @@ Century I.--*Quatrain* 35.
 
 Le lyon jeune le vieux surmontera  
 En champ bellique par singulier duelle:<span id="page_81">p. 81</span>  
-Dans cage d'or <span id="fr_54"></span>[1](#fn_54) les yeux lui
+Dans cage d'or <span id="fr_54"></span>[1](#fn_54.md) les yeux lui
 crevera,  
-Deux classes <span id="fr_55"></span>[2](#fn_55) une, <span
-id="fr_56"></span>[3](#fn_56) puis mourir, mort cruelle.
+Deux classes <span id="fr_55"></span>[2](#fn_55.md) une, <span
+id="fr_56"></span>[3](#fn_56.md) puis mourir, mort cruelle.
 
 Translation.
 
@@ -119,7 +119,7 @@ horoscope, as well as that of his two children, in 1556.
 
 The story of this is curious, as given by Guynaud in his "Concordance
 des Prophéties de Nostradamus," 1712, <span
-id="fr_57"></span>[1](#fn_57) pp. 86-91. Henri II., it would seem,
+id="fr_57"></span>[1](#fn_57.md) pp. 86-91. Henri II., it would seem,
 proclaimed a tournament in the Rue St. Antoine, the site of the
 Bastille, then in the country, for July 1, 1559, in honour of the
 marriage of his daughter Elizabeth of France with Philip II. of Spain.
@@ -212,13 +212,13 @@ ARREST OF MONTGOMERY (May 27, 1574). \[I. 73.\]
 
 Century III.--*Quatrain* 30.
 
-Celuy qu'en <span id="fr_58"></span>[1](#fn_58) luitte <span
-id="fr_59"></span>[2](#fn_59) et fer au faict bellique  
-Aura porté <span id="fr_60"></span>[3](#fn_60) plus grand qui luy le
+Celuy qu'en <span id="fr_58"></span>[1](#fn_58.md) luitte <span
+id="fr_59"></span>[2](#fn_59.md) et fer au faict bellique  
+Aura porté <span id="fr_60"></span>[3](#fn_60.md) plus grand qui luy le
 prix,  
 De nuict au lict six luy feront la pique,  
-Nud, sans harnois, subit <span id="fr_61"></span>[4](#fn_61) sera
-surprins. <span id="fr_62"></span>[5](#fn_62)
+Nud, sans harnois, subit <span id="fr_61"></span>[4](#fn_61.md) sera
+surprins. <span id="fr_62"></span>[5](#fn_62.md)
 
 Translation.
 
@@ -331,7 +331,7 @@ CIVIL WAR (1575, 1576). \[I. 78.\]
 Century VI.--*Quatrain* 11.
 
 Des septs rameaux à trois seront reduicts,  
-Les plus aisnés seront surprins <span id="fr_63"></span>[1](#fn_63) par
+Les plus aisnés seront surprins <span id="fr_63"></span>[1](#fn_63.md) par
 mort,  
 Fratricider les deux seront seduicts  
 Les conjurés en dormans seront morts.
@@ -364,8 +364,8 @@ Century V.--*Quatrain* 67.
 
 Quand chef Perouse n'osera sa tunique,  
 Sans au couvert tout nud s'expolier. <span
-id="fr_64"></span>[1](#fn_64)  
-Seront prins <span id="fr_65"></span>[2](#fn_65) sept, faict
+id="fr_64"></span>[1](#fn_64.md)  
+Seront prins <span id="fr_65"></span>[2](#fn_65.md) sept, faict
 aristocratique!  
 Le père et fils morts par poincte au colier.
 
@@ -387,13 +387,13 @@ DEATH OF THE GUISE (DECEMBER 23, 24, 1588). \[I. 80.\]
 
 Century IV.--*Quatrain* 60.
 
-Les sept enfans en hostaine <span id="fr_66"></span>[3](#fn_66)
+Les sept enfans en hostaine <span id="fr_66"></span>[3](#fn_66.md)
 laissés;  
-Le tiers <span id="fr_67"></span>[4](#fn_67) viendra son enfant
-trucider <span id="fr_68"></span>[5](#fn_68);  
+Le tiers <span id="fr_67"></span>[4](#fn_67.md) viendra son enfant
+trucider <span id="fr_68"></span>[5](#fn_68.md);  
 Deux par son fils seront d'estoc percés;  
 Gennes Florence les viendra enconder. <span
-id="fr_69"></span>[6](#fn_69)
+id="fr_69"></span>[6](#fn_69.md)
 
 <span id="page_89">p. 89</span>
 
@@ -423,10 +423,10 @@ BURIAL AT ST. DENIS OF THE LAST OF THE VALOIS (1589-1610). \[I. 82.\]
 
 Century I.--*Quatrain* 10.
 
-Serpens <span id="fr_70"></span>[1](#fn_70) transmis en la cage de fer  
+Serpens <span id="fr_70"></span>[1](#fn_70.md) transmis en la cage de fer  
 Où les enfans septains du Roy sont pris,  
-Les vieux et peres sortiront bas <span id="fr_71"></span>[2](#fn_71) de
-l'enfer, <span id="fr_72"></span>[3](#fn_72)  
+Les vieux et peres sortiront bas <span id="fr_71"></span>[2](#fn_71.md) de
+l'enfer, <span id="fr_72"></span>[3](#fn_72.md)  
 Ains mourir voir de fruict mort et cris.
 
 Translation.
@@ -456,11 +456,11 @@ MARRIAGE OF FRANÇOIS II. AND MARY STUART (APRIL 24, 1558). \[I. 84.\]
 
 Century X.--*Quatrain* 39.
 
-Premier fils vefve <span id="fr_73"></span>[1](#fn_73) malheureux
+Premier fils vefve <span id="fr_73"></span>[1](#fn_73.md) malheureux
 marriage,  
 Sans nuts enfants, deux Isles en discord,  
-Avant dix-huict incompetant age. <span id="fr_74"></span>[2](#fn_74)  
-De l'autre près <span id="fr_75"></span>[3](#fn_75) plus bas sera
+Avant dix-huict incompetant age. <span id="fr_74"></span>[2](#fn_74.md)  
+De l'autre près <span id="fr_75"></span>[3](#fn_75.md) plus bas sera
 l'accord.
 
 Translation.
@@ -469,7 +469,7 @@ The eldest son leaves, with his wretched marriage,
 Widow, no children, and two isles in strife,  
 And dies before eighteen, incompetent of age.  
 The younger son will marry earlier still. <span
-id="fr_76"></span>[4](#fn_76)
+id="fr_76"></span>[4](#fn_76.md)
 
 The matter seems to stand thus. François II., eldest son of Henri II.,
 shall die and leave his wife, Mary Stuart, a widow without children,
@@ -524,13 +524,13 @@ DEFECTION OF ADMIRAL COLIGNY (1559-1567). \[I. 87.\]
 
 Century VI.--*Quatrain* 75.
 
-Le grand pillot <span id="fr_77"></span>[1](#fn_77) par Roy sera
-mandé <span id="fr_78"></span>[2](#fn_78)  
-Laisser la classe <span id="fr_79"></span>[3](#fn_79) pour plus haut
+Le grand pillot <span id="fr_77"></span>[1](#fn_77.md) par Roy sera
+mandé <span id="fr_78"></span>[2](#fn_78.md)  
+Laisser la classe <span id="fr_79"></span>[3](#fn_79.md) pour plus haut
 lieu atteindre:  
-Sept ans après sera contrebandé, <span id="fr_80"></span>[4](#fn_80)  
+Sept ans après sera contrebandé, <span id="fr_80"></span>[4](#fn_80.md)  
 Barbare armée viendra. Venise craindre. <span
-id="fr_81"></span>[5](#fn_81)
+id="fr_81"></span>[5](#fn_81.md)
 
 Translation.
 
@@ -558,7 +558,7 @@ Century III.--*Quatrain* 41.
 
 Bossu sera esleu par le conseil:  
 Plus hideux monstre en terre n'apperceu.  
-Le coup voulant crevera l'œil <span id="fr_82"></span>[1](#fn_82)  
+Le coup voulant crevera l'œil <span id="fr_82"></span>[1](#fn_82.md)  
 Le traistre au Roy pour fidelle receu.
 
 Translation.
@@ -606,11 +606,11 @@ ST. BARTHOLOMEW'S DAY (AUGUST 24, 1572). \[I. 89.\]
 
 Century IV.--*Quatrain* 47.
 
-Le Noir <span id="fr_83"></span>[1](#fn_83) farouche, quand aura
+Le Noir <span id="fr_83"></span>[1](#fn_83.md) farouche, quand aura
 essayé  
 Sa main sanguine par feu, fer, arcs tendus, <span
-id="fr_84"></span>[2](#fn_84)  
-Trestous le peuple sera tant <span id="fr_85"></span>[3](#fn_85)
+id="fr_84"></span>[2](#fn_84.md)  
+Trestous le peuple sera tant <span id="fr_85"></span>[3](#fn_85.md)
 effrayé  
 Voir les plus grans par col et pieds pendus.
 
@@ -673,7 +673,7 @@ tiger-taste for the reek of blood in the streets of the City of Blood.
 If you wish to see the disgrace of religion, read Sully's description of
 the endeavour of the ferocious priests on that day to have *his* blood.
 Look also on the medal of Gregory XIII., <span
-id="fr_86"></span>[1](#fn_86) struck rejoicingly to commemorate that
+id="fr_86"></span>[1](#fn_86.md) struck rejoicingly to commemorate that
 awful crime. Bonanni shows it; and, as a work of medallic art, the head
 of the Pope is of the very highest order of beauty and Italian grace.
 But, then, it commemorates the blood of sixty thousand victims, he says.
@@ -768,9 +768,9 @@ that it was so. Having made this point as clear as I can, the reader
 will take it or reject it as he pleases.
 
 Le gros airain qui les heures ordonne,  
-Sur le trespas du Tyran cassera: <span id="fr_87"></span>[1](#fn_87)  
+Sur le trespas du Tyran cassera: <span id="fr_87"></span>[1](#fn_87.md)  
 Pleurs, plaintes et cris, eaux, glace pain ne dônc  
-V. S. C. <span id="fr_88"></span>[2](#fn_88) paix l'arme passera.
+V. S. C. <span id="fr_88"></span>[2](#fn_88.md) paix l'arme passera.
 
 Translation.
 
@@ -878,14 +878,14 @@ REGENCY OF CATHERINE DE MEDICI (1537-,574). \[I. 94.\]
 
 Century VI.--*Quatrain* 29.
 
-La vefve <span id="fr_89"></span>[1](#fn_89) saincte entendent les
+La vefve <span id="fr_89"></span>[1](#fn_89.md) saincte entendent les
 nouvelles  
 De ses rameaux mis en perplex et trouble:  
-Qui <span id="fr_90"></span>[2](#fn_90) sera duict <span
-id="fr_91"></span>[3](#fn_91) appaiser <span
-id="fr_92"></span>[4](#fn_92) les querelles  
-Par son pourchas <span id="fr_93"></span>[5](#fn_93) des razes <span
-id="fr_94"></span>[6](#fn_94) fera comble.
+Qui <span id="fr_90"></span>[2](#fn_90.md) sera duict <span
+id="fr_91"></span>[3](#fn_91.md) appaiser <span
+id="fr_92"></span>[4](#fn_92.md) les querelles  
+Par son pourchas <span id="fr_93"></span>[5](#fn_93.md) des razes <span
+id="fr_94"></span>[6](#fn_94.md) fera comble.
 
 Translation.
 
@@ -922,17 +922,17 @@ HENRI III. RENOUNCES POLAND (JUNE 26, 1574). \[I. 96.\]
 
 Century VII.--*Quatrain* 35.
 
-Le grande Pesche <span id="fr_95"></span>[1](#fn_95) viendra
-plaindre, <span id="fr_96"></span>[2](#fn_96) plorer  
+Le grande Pesche <span id="fr_95"></span>[1](#fn_95.md) viendra
+plaindre, <span id="fr_96"></span>[2](#fn_96.md) plorer  
 D'avoir esleu: trompés seront en l'âge:<span id="page_104">p.
 104</span>  
-Guiere <span id="fr_97"></span>[1](#fn_97) avec eux ne voudra
+Guiere <span id="fr_97"></span>[1](#fn_97.md) avec eux ne voudra
 demourer:  
-Deceu <span id="fr_98"></span>[2](#fn_98) sera par ceux de son langage.
+Deceu <span id="fr_98"></span>[2](#fn_98.md) sera par ceux de son langage.
 
 Translation.
 
-The great gambler <span id="fr_99"></span>[3](#fn_99) shall complain and
+The great gambler <span id="fr_99"></span>[3](#fn_99.md) shall complain and
 weep  
 To have elected him: deceived in his age:  
 The duke had no desire to stay with them:  
@@ -961,8 +961,8 @@ Century V.--*Quatrain* 72.
 
 Pour le plaisir d'edict voluptueux,  
 On mestera le poison dans la foy:  
-Venus sera en cours si vertueux, <span id="fr_100"></span>[1](#fn_100)  
-Qu'obfusquera du soleil tout aloy. <span id="fr_101"></span>[2](#fn_101)
+Venus sera en cours si vertueux, <span id="fr_100"></span>[1](#fn_100.md)  
+Qu'obfusquera du soleil tout aloy. <span id="fr_101"></span>[2](#fn_101.md)
 
 Translation.
 
@@ -1109,8 +1109,8 @@ Century I.--*Quatrain* 85.
 Par la response dc dame Roy troublé,  
 Ambassadeurs mespriseront leur vie:  
 Le Grand ses freres contrefera doublé  
-Par deux mourront ire, <span id="fr_102"></span>[1](#fn_102) haine, et
-envie. <span id="fr_103"></span>[2](#fn_103)
+Par deux mourront ire, <span id="fr_102"></span>[1](#fn_102.md) haine, et
+envie. <span id="fr_103"></span>[2](#fn_103.md)
 
 Translation.
 
@@ -1147,14 +1147,14 @@ CRIME OF JACQUES CLÉMENT (AUGUST 1, 1589). \[I. 102.\]
 
 Century IX.--*Quatrain* 36.
 
-Un grand Roy prins <span id="fr_104"></span>[1](#fn_104) entre les mains
-d'un Joyne <span id="fr_105"></span>[2](#fn_105)  
+Un grand Roy prins <span id="fr_104"></span>[1](#fn_104.md) entre les mains
+d'un Joyne <span id="fr_105"></span>[2](#fn_105.md)  
 Non loin de Pasque, confusion, coup cultre. <span
-id="fr_106"></span>[3](#fn_106)  
-Perpet, <span id="fr_107"></span>[4](#fn_107) captifs temps que foudre
-en la husne, <span id="fr_108"></span>[5](#fn_108)  
+id="fr_106"></span>[3](#fn_106.md)  
+Perpet, <span id="fr_107"></span>[4](#fn_107.md) captifs temps que foudre
+en la husne, <span id="fr_108"></span>[5](#fn_108.md)  
 Lors que trois freres se blesseront et murtre. <span
-id="fr_109"></span>[6](#fn_109)
+id="fr_109"></span>[6](#fn_109.md)
 
 Translation.
 
@@ -1188,12 +1188,12 @@ DEATH OF HENRI III. (AUGUST 2, 1589). \[I. 103.\]
 Présage 58.
 
 Le Roy-Roy n'estre, du Doux la pernicie, <span
-id="fr_110"></span>[1](#fn_110)  
-L'an pestilent, les esmues <span id="fr_111"></span>[2](#fn_111)
+id="fr_110"></span>[1](#fn_110.md)  
+L'an pestilent, les esmues <span id="fr_111"></span>[2](#fn_111.md)
 nubileux.  
-Tien <span id="fr_112"></span>[3](#fn_112) qui tiendra, les grands non
-letitie, <span id="fr_113"></span>[4](#fn_113)  
-Et passera terme de cavilleux. <span id="fr_114"></span>[5](#fn_114)
+Tien <span id="fr_112"></span>[3](#fn_112.md) qui tiendra, les grands non
+letitie, <span id="fr_113"></span>[4](#fn_113.md)  
+Et passera terme de cavilleux. <span id="fr_114"></span>[5](#fn_114.md)
 
 Translation.
 
@@ -1234,108 +1234,108 @@ by one poisoning and to poison.
 
 ### Footnotes
 
-<span id="fn_52"></span>[80:1](oon09.htm#fr_52) Old word for *jamais*,
+<span id="fn_52"></span>[80:1](oon09.htm#fr_52.md) Old word for *jamais*,
 never.
 
-<span id="fn_53"></span>[80:2](oon09.htm#fr_53) Latin, *a*. by.
+<span id="fn_53"></span>[80:2](oon09.htm#fr_53.md) Latin, *a*. by.
 
-<span id="fn_54"></span>[81:1](oon09.htm#fr_54) Bouys \[*Oracles*, p.
+<span id="fn_54"></span>[81:1](oon09.htm#fr_54.md) Bouys \[*Oracles*, p.
 103\] says that the King alone had the right to a visor of pure gold. I
 believe this to be pure nonsense. It would be little stronger than lead.
 It merely means a gilt casque, and I think some of the accounts say so
 in as many words. If Bouys were right, the King courted death.
 
-<span id="fn_55"></span>[81:2](oon09.htm#fr_55) Greek, κλάσις, breaking
+<span id="fn_55"></span>[81:2](oon09.htm#fr_55.md) Greek, κλάσις, breaking
 or lopping.
 
-<span id="fn_56"></span>[81:3](oon09.htm#fr_56) Latin, *una*, the one or
+<span id="fn_56"></span>[81:3](oon09.htm#fr_56.md) Latin, *una*, the one or
 first.
 
-<span id="fn_57"></span>[82:1](oon09.htm#fr_57) See also Brantôme, *Vie
+<span id="fn_57"></span>[82:1](oon09.htm#fr_57.md) See also Brantôme, *Vie
 des hommes illustres de son temps*.
 
-<span id="fn_58"></span>[84:1](oon09.htm#fr_58) *Qu'en*, for *qui en*.
+<span id="fn_58"></span>[84:1](oon09.htm#fr_58.md) *Qu'en*, for *qui en*.
 
-<span id="fn_59"></span>[84:2](oon09.htm#fr_59) Romance, for *lutte*.
+<span id="fn_59"></span>[84:2](oon09.htm#fr_59.md) Romance, for *lutte*.
 
-<span id="fn_60"></span>[84:3](oon09.htm#fr_60) *Porté*, pour remporté.
+<span id="fn_60"></span>[84:3](oon09.htm#fr_60.md) *Porté*, pour remporté.
 
-<span id="fn_61"></span>[84:4](oon09.htm#fr_61) Latin, *subito*,
+<span id="fn_61"></span>[84:4](oon09.htm#fr_61.md) Latin, *subito*,
 suddenly.
 
-<span id="fn_62"></span>[84:5](oon09.htm#fr_62) Romance, *surprins* for
+<span id="fn_62"></span>[84:5](oon09.htm#fr_62.md) Romance, *surprins* for
 surpris.
 
-<span id="fn_63"></span>[87:1](oon09.htm#fr_63) Romance, *surprins* =
+<span id="fn_63"></span>[87:1](oon09.htm#fr_63.md) Romance, *surprins* =
 *surpris*.
 
-<span id="fn_64"></span>[88:1](oon09.htm#fr_64) Latin, *exspoliare*,
+<span id="fn_64"></span>[88:1](oon09.htm#fr_64.md) Latin, *exspoliare*,
 totally despoiled.
 
-<span id="fn_65"></span>[88:2](oon09.htm#fr_65) Romance, for *pris*.
+<span id="fn_65"></span>[88:2](oon09.htm#fr_65.md) Romance, for *pris*.
 
-<span id="fn_66"></span>[88:3](oon09.htm#fr_66) Romance, *hostaige*,
+<span id="fn_66"></span>[88:3](oon09.htm#fr_66.md) Romance, *hostaige*,
 maison, house, palace.
 
-<span id="fn_67"></span>[88:4](oon09.htm#fr_67) Romance, *tiers*, third.
+<span id="fn_67"></span>[88:4](oon09.htm#fr_67.md) Romance, *tiers*, third.
 
-<span id="fn_68"></span>[88:5](oon09.htm#fr_68) Latin, *trucidare*, cut
+<span id="fn_68"></span>[88:5](oon09.htm#fr_68.md) Latin, *trucidare*, cut
 the throat.
 
-<span id="fn_69"></span>[88:6](oon09.htm#fr_69) Latin, *inconditus*,
+<span id="fn_69"></span>[88:6](oon09.htm#fr_69.md) Latin, *inconditus*,
 dispersed.
 
-<span id="fn_70"></span>[89:1](oon09.htm#fr_70) Greek, σάρπος, wooden
+<span id="fn_70"></span>[89:1](oon09.htm#fr_70.md) Greek, σάρπος, wooden
 case, coffin,
 
-<span id="fn_71"></span>[89:2](oon09.htm#fr_71) *Sortiront bas*, for
+<span id="fn_71"></span>[89:2](oon09.htm#fr_71.md) *Sortiront bas*, for
 *d'en bas*.
 
-<span id="fn_72"></span>[89:3](oon09.htm#fr_72) Latin, *infernus*,
+<span id="fn_72"></span>[89:3](oon09.htm#fr_72.md) Latin, *infernus*,
 subterranean.
 
-<span id="fn_73"></span>[90:1](oon09.htm#fr_73) Romance, *vefve*, veuve.
+<span id="fn_73"></span>[90:1](oon09.htm#fr_73.md) Romance, *vefve*, veuve.
 The word is made here to apply to the wife, Mary Stuart, whom he leaves
 a widow without children. The grammatical effort is somewhat violent;
 but *vef* or *veuf* is the masculine form, so there is very little
 choice given.
 
-<span id="fn_74"></span>[90:2](oon09.htm#fr_74) In the quatrain this
+<span id="fn_74"></span>[90:2](oon09.htm#fr_74.md) In the quatrain this
 ought to be written *eage*, as it stands in the texte-type, or the line
 will not scan.
 
-<span id="fn_75"></span>[90:3](oon09.htm#fr_75) Près, for après.
+<span id="fn_75"></span>[90:3](oon09.htm#fr_75.md) Près, for après.
 
-<span id="fn_76"></span>[90:4](oon09.htm#fr_76) This is how M. le
+<span id="fn_76"></span>[90:4](oon09.htm#fr_76.md) This is how M. le
 Pelletier renders the last line.
 
-<span id="fn_77"></span>[92:1](oon09.htm#fr_77) Italian, *piloto*,
+<span id="fn_77"></span>[92:1](oon09.htm#fr_77.md) Italian, *piloto*,
 pilot.
 
-<span id="fn_78"></span>[92:2](oon09.htm#fr_78) Latin, *mandatus*,
+<span id="fn_78"></span>[92:2](oon09.htm#fr_78.md) Latin, *mandatus*,
 appointed to a charge.
 
-<span id="fn_79"></span>[92:3](oon09.htm#fr_79) Latin, *classis*, fleet.
+<span id="fn_79"></span>[92:3](oon09.htm#fr_79.md) Latin, *classis*, fleet.
 
-<span id="fn_80"></span>[92:4](oon09.htm#fr_80) Romance, *contrebandé*,
+<span id="fn_80"></span>[92:4](oon09.htm#fr_80.md) Romance, *contrebandé*,
 marching in a contrary band.
 
-<span id="fn_81"></span>[92:5](oon09.htm#fr_81) *Ordo* is, *Venise
+<span id="fn_81"></span>[92:5](oon09.htm#fr_81.md) *Ordo* is, *Venise
 craindra une armie de barbares qui viendra*.
 
-<span id="fn_82"></span>[93:1](oon09.htm#fr_82) This line is a foot
+<span id="fn_82"></span>[93:1](oon09.htm#fr_82.md) This line is a foot
 short. Garencières reads:
 
 Le coup volant luy crevera un œil.
 
-<span id="fn_83"></span>[94:1](oon09.htm#fr_83) *Noir*, anagram of
+<span id="fn_83"></span>[94:1](oon09.htm#fr_83.md) *Noir*, anagram of
 *roi*, cutting off *n*.
 
-<span id="fn_84"></span>[94:2](oon09.htm#fr_84) *Arcs tendus*, arquebus.
+<span id="fn_84"></span>[94:2](oon09.htm#fr_84.md) *Arcs tendus*, arquebus.
 
-<span id="fn_85"></span>[94:3](oon09.htm#fr_85) Latin, *tantum*, much.
+<span id="fn_85"></span>[94:3](oon09.htm#fr_85.md) Latin, *tantum*, much.
 
-<span id="fn_86"></span>[96:1](oon09.htm#fr_86) The family name of Pope
+<span id="fn_86"></span>[96:1](oon09.htm#fr_86.md) The family name of Pope
 Gregory XIII. was Hugo Buon-Compagni. On May 13, 572, he was made Pope.
 He assumed the name of Gregory out of respect to St. Gregory Nazianzen.
 He caused the Church to encourage the murder of refractory kings; he
@@ -1360,32 +1360,32 @@ now is, and was then called *Monte Dragone*--a most fit name for the
 residence of the *Old Worm* of St. Bartholomew's massacre.--V. Paul
 Rycaut, "Lives of the Popes," ed. 1689, vol. ii. p. 163.
 
-<span id="fn_87"></span>[99:1](oon09.htm#fr_87) Will sound in full
+<span id="fn_87"></span>[99:1](oon09.htm#fr_87.md) Will sound in full
 volley.
 
-<span id="fn_88"></span>[99:2](oon09.htm#fr_88) These letters are
+<span id="fn_88"></span>[99:2](oon09.htm#fr_88.md) These letters are
 interpreted by the old commentators and Guynaud (p. 107) as meaning the
 peace concluded with Philip II. of Spain: V., cinq, S., successeur, C.,
 Charles--*i.e.*, Successor to Charles Quint.
 
-<span id="fn_89"></span>[102:1](oon09.htm#fr_89) Romance, *vefve* =
+<span id="fn_89"></span>[102:1](oon09.htm#fr_89.md) Romance, *vefve* =
 *veuve*, widow.
 
-<span id="fn_90"></span>[102:2](oon09.htm#fr_90) Latin, *qui*, celui
+<span id="fn_90"></span>[102:2](oon09.htm#fr_90.md) Latin, *qui*, celui
 qui.
 
-<span id="fn_91"></span>[102:3](oon09.htm#fr_91) Latin, *ductus*, led.
+<span id="fn_91"></span>[102:3](oon09.htm#fr_91.md) Latin, *ductus*, led.
 
-<span id="fn_92"></span>[102:4](oon09.htm#fr_92) *Appaiser*, for pour
+<span id="fn_92"></span>[102:4](oon09.htm#fr_92.md) *Appaiser*, for pour
 apaiser.
 
-<span id="fn_93"></span>[102:5](oon09.htm#fr_93) *Pourchas*, old word,
+<span id="fn_93"></span>[102:5](oon09.htm#fr_93.md) *Pourchas*, old word,
 pursuit, active intrigue (*proquassatio*).
 
-<span id="fn_94"></span>[102:6](oon09.htm#fr_94) Razes, tonsured priests
+<span id="fn_94"></span>[102:6](oon09.htm#fr_94.md) Razes, tonsured priests
 and monks (*têtes rasées*).
 
-<span id="fn_95"></span>[103:1](oon09.htm#fr_95) Greek, πεσσικός,
+<span id="fn_95"></span>[103:1](oon09.htm#fr_95.md) Greek, πεσσικός,
 draught-playing, or gambling. The word was applied to gaming by the
 Greeks, as we find a story in Plutarch \[Liddell and Scott, Lex.\],
 exhibiting Hermes as playing draughts (on the πεσσευτήριον) with Selene,
@@ -1393,32 +1393,32 @@ and winning five days, which he adds to the year. Guynaud (p. 119) reads
 *poche*, which I take to be an abscess, wolf, or devouring ulcer; both
 he and Le Pelletier interpret it as meaning Poland.
 
-<span id="fn_96"></span>[103:2](oon09.htm#fr_96) *Plaindre*, for se
+<span id="fn_96"></span>[103:2](oon09.htm#fr_96.md) *Plaindre*, for se
 plaindre.
 
-<span id="fn_97"></span>[104:1](oon09.htm#fr_97) *Guiere*. Nobody
+<span id="fn_97"></span>[104:1](oon09.htm#fr_97.md) *Guiere*. Nobody
 explains this word, and yet it seems to stand much in need of it. It is
 given by Roquefort, as from gubernator, a general. Leader, Or we may say
 *dux*, for the Duc d'Alençon. It is really guides or guide. *Guber*,
 *govern*, *guide*, being all three cognate.
 
-<span id="fn_98"></span>[104:2](oon09.htm#fr_98) Latin, *decisus*, cut
+<span id="fn_98"></span>[104:2](oon09.htm#fr_98.md) Latin, *decisus*, cut
 off, severed.
 
-<span id="fn_99"></span>[104:3](oon09.htm#fr_99) This term is applied to
+<span id="fn_99"></span>[104:3](oon09.htm#fr_99.md) This term is applied to
 Poland by Nostradamus n allusion to its elective throne, which became
 purely venal--a thing at last coming to be played for as a hazard at
 dice. But, curiously enough, the less authentic reading *poche* is
 almost equally descriptive--a burning ulcer eating into the body politic
 till it destroys it.
 
-<span id="fn_100"></span>[105:1](oon09.htm#fr_100) Latin, *virtuosus*;
+<span id="fn_100"></span>[105:1](oon09.htm#fr_100.md) Latin, *virtuosus*;
 according to M. le Pelletier "vigorous." Classical Latin has no such
 word, and the lower Latin means *probus, bonis moribus et virtute
 præditus*. Nostradamus probably meant *vertueux*, in old French, to be
 equivalent to *robuste*.
 
-<span id="fn_101"></span>[105:2](oon09.htm#fr_101) *Aloi*, the quality
+<span id="fn_101"></span>[105:2](oon09.htm#fr_101.md) *Aloi*, the quality
 of the substance of a metal. The battle of French etymologists is very
 instructive over this word, as may be seen in Littré. Of course,
 however, it comes from *à loi*, conformable to law. But I think there is
@@ -1429,42 +1429,42 @@ line, and was only by a "devil" carried to the second instead, by which
 that imp of mischief contrived to leave two errors in place of one. In
 confirmation somewhat of this, the texte-type reads *tout à loy*.
 
-<span id="fn_102"></span>[109:1](oon09.htm#fr_102) Latin, *ira*, anger.
+<span id="fn_102"></span>[109:1](oon09.htm#fr_102.md) Latin, *ira*, anger.
 
-<span id="fn_103"></span>[109:2](oon09.htm#fr_103) Ordo, deux mourront
+<span id="fn_103"></span>[109:2](oon09.htm#fr_103.md) Ordo, deux mourront
 par ire, etc.
 
-<span id="fn_104"></span>[110:1](oon09.htm#fr_104) Romance, *prins*,
+<span id="fn_104"></span>[110:1](oon09.htm#fr_104.md) Romance, *prins*,
 pris.
 
-<span id="fn_105"></span>[110:2](oon09.htm#fr_105) Romance, *joyne*,
+<span id="fn_105"></span>[110:2](oon09.htm#fr_105.md) Romance, *joyne*,
 jeune homme.
 
-<span id="fn_106"></span>[110:3](oon09.htm#fr_106) Romance, *cultre*,
+<span id="fn_106"></span>[110:3](oon09.htm#fr_106.md) Romance, *cultre*,
 couteau.
 
-<span id="fn_107"></span>[110:4](oon09.htm#fr_107) Latin, *perpetratio*.
+<span id="fn_107"></span>[110:4](oon09.htm#fr_107.md) Latin, *perpetratio*.
 
-<span id="fn_108"></span>[110:5](oon09.htm#fr_108) *Husne*, a small
+<span id="fn_108"></span>[110:5](oon09.htm#fr_108.md) *Husne*, a small
 tower, or belvidere.
 
-<span id="fn_109"></span>[110:6](oon09.htm#fr_109) Romance, *murtre*,
+<span id="fn_109"></span>[110:6](oon09.htm#fr_109.md) Romance, *murtre*,
 meurtre.
 
-<span id="fn_110"></span>[111:1](oon09.htm#fr_110) Latin, *pernicies*,
+<span id="fn_110"></span>[111:1](oon09.htm#fr_110.md) Latin, *pernicies*,
 destruction.
 
-<span id="fn_111"></span>[111:2](oon09.htm#fr_111) Romance, *esmues*,
+<span id="fn_111"></span>[111:2](oon09.htm#fr_111.md) Romance, *esmues*,
 émus, seditious.
 
-<span id="fn_112"></span>[111:3](oon09.htm#fr_112) *Tien*, for *tienne*.
+<span id="fn_112"></span>[111:3](oon09.htm#fr_112.md) *Tien*, for *tienne*.
 
-<span id="fn_113"></span>[111:4](oon09.htm#fr_113) Latin, *Lætitia*,
+<span id="fn_113"></span>[111:4](oon09.htm#fr_113.md) Latin, *Lætitia*,
 joy, pleasure, and play on *Lutetia*, Paris.
 
-<span id="fn_114"></span>[111:5](oon09.htm#fr_114) Romance, *cavilleux*,
+<span id="fn_114"></span>[111:5](oon09.htm#fr_114.md) Romance, *cavilleux*,
 cavillers.
 
 ------------------------------------------------------------------------
 
-[Next: Henri Quatre](oon10)
+[Next: Henri Quatre](oon10.md)

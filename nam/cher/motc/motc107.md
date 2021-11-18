@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc106) 
-[Next](motc108) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc106.md) 
+[Next](motc108.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ lived before they had ever known the white man or his ways.
 
 ------------------------------------------------------------------------
 
-[Next: 108. The Massacre Of The Ani'-kuta'nï](motc108)
+[Next: 108. The Massacre Of The Ani'-kuta'nï](motc108.md)

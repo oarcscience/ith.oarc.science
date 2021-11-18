@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc11)  [Next](blc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc11)  [Next](blc13.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ committed the night to his care.
 <span id="img_023"></span> <span align="CENTER"> [![Portion of a tablet
 inscribed in Assyrian with a text of the Fifth Tablet of the Creation
 Series. \[K. 3567.\]](tn/023.png)  
-Click to enlarge](img/023.png)  
+Click to enlarge](img/023.png.md)  
 Portion of a tablet inscribed in Assyrian with a text of the Fifth
 Tablet of the Creation Series. \[K. 3567.\]  
 </span>
@@ -87,4 +87,4 @@ are preserved, and these yield no connected sense.\]
 
 ------------------------------------------------------------------------
 
-[Next: Sixth Tablet](blc13)
+[Next: Sixth Tablet](blc13.md)

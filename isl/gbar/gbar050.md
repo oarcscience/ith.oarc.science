@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar049) [Next](gbar051)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar049) [Next](gbar051.md)
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ retired into the desert to pray, because he loved solitude greatly.
 
 ------------------------------------------------------------------------
 
-[Next](gbar051)
+[Next](gbar051.md)

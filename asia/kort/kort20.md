@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort19)  [Next](kort21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort19)  [Next](kort21.md) 
 
 ------------------------------------------------------------------------
 
-# 16. Miti' and Magpie-Man. <span id="fr_35"></span>[1](#fn_35)
+# 16. Miti' and Magpie-Man. <span id="fr_35"></span>[1](#fn_35.md)
 
 Big-Raven lived with his family. Oh, Big-Raven said, "I will (go and)
 fetch some willow-bark." Oh, Miti' went to feed the little puppies.
@@ -25,7 +25,7 @@ Big-Raven will not come back soon. He will not catch us."
 She took him into (the house). just as soon as they entered the
 sleeping-room and began to make love there, then Big-Raven came back,
 and called out, "Miti', take this load of willow!" Miti' said, "Let the
-I'kla <span id="fr_36"></span>[2](#fn_36) bring it down! I am busy
+I'kla <span id="fr_36"></span>[2](#fn_36.md) bring it down! I am busy
 trampling a half-scraped skin with lily feet."--"Nay," said Big-Raven,
 "I want you to take it
 
@@ -77,12 +77,12 @@ at a great distance. Then Big-Raven went home. That is all.
 
 ### Footnotes
 
-<span id="fn_35"></span>[73:1](kort20.htm#fr_35) Compare Jochelson, The
+<span id="fn_35"></span>[73:1](kort20.htm#fr_35.md) Compare Jochelson, The
 Koryak, *l. c.*, No. 100, p. 288.
 
-<span id="fn_36"></span>[73:2](kort20.htm#fr_36) Small wooden charms of
+<span id="fn_36"></span>[73:2](kort20.htm#fr_36.md) Small wooden charms of
 human shape (cf. Jochelson, The Koryak, *l. c.*, p. 42).
 
 ------------------------------------------------------------------------
 
-[Next: 17. How Big-Raven's Daughter was swallowed by a Kamak](kort21)
+[Next: 17. How Big-Raven's Daughter was swallowed by a Kamak](kort21.md)

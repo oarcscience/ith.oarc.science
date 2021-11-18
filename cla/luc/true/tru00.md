@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian of Samosata](../index)  [Index](index)  [Next](tru01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian of Samosata](../index)  [Index](index)  [Next](tru01.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Book I](tru01)
+[Next: Book I](tru01.md)

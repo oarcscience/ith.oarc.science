@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod20)  [Next](ebod22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod20)  [Next](ebod22.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ shall encompass him for everlasting\[3\] and for ever and for ever.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XV.](ebod22)
+[Next: Plate XV.](ebod22.md)

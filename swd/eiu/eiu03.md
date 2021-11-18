@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](eiu02)  [Next](eiu04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](eiu02)  [Next](eiu04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425496466/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425496466/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ introduce himself into the spiritual, that is, ascend; but when man is
 in faith, and thereby in spiritual life, in this case the spiritual man
 flows into the natural, and thinks therein. For there is given a
 spiritual influx, that is, an influx from the spiritual world into the
-natural, but not the reverse. <span id="fr_38"></span>[102-1](#fn_38)
+natural, but not the reverse. <span id="fr_38"></span>[102-1](#fn_38.md)
 
 <span class="margnote"><span id="103.">103.</span></span>
 
@@ -253,7 +253,7 @@ teaches moreover how man ought to live and believe, in order to come
 into heaven, and thus into eternal happiness. All these things would
 have been altogether unknown without a revelation, thus on this earth
 without the Word; and yet man is so created that, as to his interiors,
-he cannot die. <span id="fr_39"></span>[114-1](#fn_39)
+he cannot die. <span id="fr_39"></span>[114-1](#fn_39.md)
 
 <span class="margnote"><span id="115.">115.</span></span>
 
@@ -286,7 +286,7 @@ in no God. Hence it pleased the Lord to be born on this earth, and to
 make this manifest by the Word, that it might not only be known on this
 globe, but also might be made manifest thereby to spirits and angels
 even from other earths, and likewise to the Gentiles from our own
-earth." <span id="fr_40"></span>[118-1](#fn_40)
+earth." <span id="fr_40"></span>[118-1](#fn_40.md)
 
 <span class="margnote"><span id="119.">119.</span></span>
 
@@ -298,7 +298,7 @@ sense treats of the Lord, of His kingdom in the heavens and the earths,
 and of love and faith from Him and in Him, consequently of life from Him
 and in Him. Such things are presented to the angels in heaven, when the
 Word of our earth is read and preached. <span
-id="fr_41"></span>[119-1](#fn_41)
+id="fr_41"></span>[119-1](#fn_41.md)
 
 <span class="margnote"><span id="120.">120.</span></span>
 
@@ -331,7 +331,7 @@ and external sense, which sense is the ultimate wherein the interiors of
 life close, and rest as on their common basis. The case is similar in
 regard to the Divine truth in the letter, which is called the Word, and
 which for this reason also was given on this earth, and not on any
-other: <span id="fr_42"></span>[122-1](#fn_42) and because the Lord is
+other: <span id="fr_42"></span>[122-1](#fn_42.md) and because the Lord is
 the Word, and is the First and the Last thereof, therefore, that all
 things might exist according to order, He was willing to be born on this
 earth, and be made the Word, according to what is written in John: In
@@ -343,7 +343,7 @@ of the Only-begotten of the Father. No one has seen God at any time; the
 Only-begotten Son, who is in the bosom of the Father, He hath brought
 Him forth to view (i. 1-14, 18). The Word is the Lord as to the Divine
 truth, thus the Divine truth from the Lord. <span
-id="fr_43"></span>[122-2](#fn_43) But this is an arcanum which falls
+id="fr_43"></span>[122-2](#fn_43.md) But this is an arcanum which falls
 within the understanding of only a few.
 
 <span class="margnote"><span id="123.">123.</span></span>
@@ -404,7 +404,7 @@ experiences of the senses. But let him know that the spaces and
 distances, and thence the progressions in the natural world, are, in
 their origin and first cause, changes of the state of the interiors, and
 with angels and spirits appear according to these changes; <span
-id="fr_44"></span>[125-1](#fn_44) and that thus they can by these
+id="fr_44"></span>[125-1](#fn_44.md) and that thus they can by these
 changes be apparently transferred from one place to another, and from
 one earth to another, even to the earths which are at the end of the
 universe. So also may a man be transferred as to his spirit, his body
@@ -462,11 +462,11 @@ after the life in the world is finished, become spirits, and remain near
 their own earth. From these spirits, however, information is given about
 their earth, and about the state of the inhabitants there; for men who
 leave the body bring with them all their former life, and all their
-memory. <span id="fr_45"></span>[127-1](#fn_45) To be led to earths in
+memory. <span id="fr_45"></span>[127-1](#fn_45.md) To be led to earths in
 the universe is not to be led and transferred thither as to the body,
 but as to the spirit; and the spirit is led by variations of the state
 of the interior life, which appear to it as progressions through
-space. <span id="fr_46"></span>[127-2](#fn_46) Approaches also are made
+space. <span id="fr_46"></span>[127-2](#fn_46.md) Approaches also are made
 according to agreements or similarities of states of life; for agreement
 or similarity of life conjoined disagreement and dissimilarity disjoin.
 From this mite be evident how transference is made as to the spirit, and
@@ -550,7 +550,7 @@ their intellectual faculty is; for the understanding is according to the
 reception of the light which is in the heavens; since the Divine truth
 proceeding from the Lord as a sun is what shines there, and enables the
 angels not only to see, but also to understand. <span
-id="fr_47"></span>[131-1](#fn_47)
+id="fr_47"></span>[131-1](#fn_47.md)
 
 <span class="margnote"><span id="132.">132.</span></span>
 
@@ -847,7 +847,7 @@ could not be loosed until they withdrew. This appearance had its origin
 from correspondence; for the spirits of our earth have reference in the
 Greatest Man to the external sense, thus to the corporeal sensual, and
 this sensual is represented in the other life by serpents. <span
-id="fr_48"></span>[148-1](#fn_48)
+id="fr_48"></span>[148-1](#fn_48.md)
 
 <span class="margnote"><span id="149.">149.</span></span>
 
@@ -888,13 +888,13 @@ ones in heaven after death.
 
 ### Footnotes
 
-<span id="fn_38"></span>[102-1](eiu03.htm#fr_38) Influx is spiritual,
+<span id="fn_38"></span>[102-1](eiu03.htm#fr_38.md) Influx is spiritual,
 and not physical or natural, consequently influx is from the spiritual
 world into the natural, and not from the natural into the spiritual (n.
 3219, 5119, 5259, 5427, 5428, 5477, 6322). It appears as if influx is
 from externals into man's internals, but this is a fallacy (n. 3721).
 
-<span id="fn_39"></span>[114-1](eiu03.htm#fr_39) From natural light
+<span id="fn_39"></span>[114-1](eiu03.htm#fr_39.md) From natural light
 alone nothing is known concerning the Lord, concerning heaven and hell,
 concerning the life of man after death, and concerning Divine truths, by
 which man has spiritual and eternal life (n. 8944, 10,318-10,320). This
@@ -904,13 +904,13 @@ where there is instruction by the Word concerning those things (n.
 10,319). Therefore it was necessary there should be a revelation from
 heaven, because man was born for heaven (n. 1775).
 
-<span id="fn_40"></span>[118-1](eiu03.htm#fr_40) The Gentiles in the
+<span id="fn_40"></span>[118-1](eiu03.htm#fr_40.md) The Gentiles in the
 other life are instructed by angels, and they who have lived well
 according to their religious principles, receive the truths of faith,
 and acknowledge the Lord (n. 2049, 2595, 2598, 2600, 2601, 2603, 2661,
 2863, 3263).
 
-<span id="fn_41"></span>[119-1](eiu03.htm#fr_41) The word is understood
+<span id="fn_41"></span>[119-1](eiu03.htm#fr_41.md) The word is understood
 by the angels in the heavens differently from what it is understood by
 men on the earths, and that the internal or spiritual sense is for the
 angels but the external or natural sense for men (n. 1769-1772, 1887,
@@ -921,7 +921,7 @@ therefore is written by mere correspondences (n. 1404, 1408, 1409, 1540,
 the Lord alone and His Kingdom are treated of (n. 1873, 2249, 2523,
 7014, 9357).
 
-<span id="fn_42"></span>[122-1](eiu03.htm#fr_42) The word In the sense
+<span id="fn_42"></span>[122-1](eiu03.htm#fr_42.md) The word In the sense
 of the letter is natural (n. 8783). By reason that what is natural is
 the ultimate, wherein spiritual and celestial things close, and on which
 they subsist as on their foundation, and that otherwise the internal or
@@ -929,27 +929,27 @@ spiritual sense of the word without the external or natural sense, would
 be as a house without a foundation (n. 9430, 9433, 9824, 10,044,
 10,136).
 
-<span id="fn_43"></span>[122-2](eiu03.htm#fr_43) The Word is the Lord as
+<span id="fn_43"></span>[122-2](eiu03.htm#fr_43.md) The Word is the Lord as
 to the Divine truth, thus the Divine truth from the Lord (n. 2859, 4692,
 5075, 9987). By the Divine truth all things were created and made (n.
 2803, 2884, 5272, 7835).
 
-<span id="fn_44"></span>[125-1](eiu03.htm#fr_44) Movements,
+<span id="fn_44"></span>[125-1](eiu03.htm#fr_44.md) Movements,
 progressions, and changes of place in the other life are changes of
 state of the interiors of the life, and still they appear to spirits and
 angels as real changes of place (n. 1273-1277, 1377, 3356, 5605,
 10,734).
 
-<span id="fn_45"></span>[127-1](eiu03.htm#fr_45) Man after death retains
+<span id="fn_45"></span>[127-1](eiu03.htm#fr_45.md) Man after death retains
 the memory of all his affairs in the world (n. 2476-2486).
 
-<span id="fn_46"></span>[127-2](eiu03.htm#fr_46) Movements,
+<span id="fn_46"></span>[127-2](eiu03.htm#fr_46.md) Movements,
 progressions, and changes of place in the other life are changes of
 state of the interiors of the life, and still they appear to spirits and
 angels as real changes of place (n. 1273-1277, 1377, 3356, 5605,
 10,734).
 
-<span id="fn_47"></span>[131-1](eiu03.htm#fr_47) The light in the
+<span id="fn_47"></span>[131-1](eiu03.htm#fr_47.md) The light in the
 heavens is great (n. 1117, 1521, 1522, 1533, 1619-1632, 4527, 5400,
 8644). All the light in the heavens is from the Lord as a sun there (n.
 1053, 1521, 3195, 3341, 3636, 4415, 9548, 9684, 10,809). Divine truth
@@ -959,7 +959,7 @@ the understanding of angels and spirits (n. 2776, 3138). The light of
 heaven also illumines the understanding of man (n. 1524, 3138, 3167,
 4408, 6608, 8707, 9128, 9399, 10,569).
 
-<span id="fn_48"></span>[148-1](eiu03.htm#fr_48) Man's external sensual
+<span id="fn_48"></span>[148-1](eiu03.htm#fr_48.md) Man's external sensual
 is represented in the spiritual world by serpents, because it is in the
 lowest things, and in comparison with the interiors with man, lies on
 the ground and as it were creeps; and that they were thence called
@@ -967,4 +967,4 @@ serpents, who reasoned from that sensual (n. 195-197, 6398, 6949).
 
 ------------------------------------------------------------------------
 
-[Next: 151-200](eiu04)
+[Next: 151-200](eiu04.md)

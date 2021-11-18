@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca42)  [Next](fsca44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca42)  [Next](fsca44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ or claws. Some writers confound it with the martlet, stating that the
 alerion
 
 <span id="img_18800"></span> ![\[left\] Alerion displayed. \[right\]
-Heraldic Eagle.](img/18800.jpg)
+Heraldic Eagle.](img/18800.jpg.md)
 
 is the same bird with its wings displayed or extended. They are first
 found in the arms of Lorraine, which are blazoned *or, on a bend gules,
@@ -49,4 +49,4 @@ conventionalised representations of the natural bird.
 
 ------------------------------------------------------------------------
 
-[Next: The Liver (Cormorant)](fsca44)
+[Next: The Liver (Cormorant)](fsca44.md)

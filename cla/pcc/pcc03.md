@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc02)  [Next](pcc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc02)  [Next](pcc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,8 +98,8 @@ disciples were received by Baptism.
 Let me give a few brief examples.
 
 Mithra was born in a cave, and on the 25th December. <span
-id="fr_4"></span>[1](#fn_4) He was born of a Virgin. <span
-id="fr_5"></span>[2](#fn_5) He traveled far and wide as a teacher and
+id="fr_4"></span>[1](#fn_4.md) He was born of a Virgin. <span
+id="fr_5"></span>[2](#fn_5.md) He traveled far and wide as a teacher and
 illuminator of men. He slew the Bull (symbol of the gross Earth which
 the sunlight fructifies). His great festivals were the winter solstice
 and the Spring equinox (Christmas and Easter). He had twelve companions
@@ -118,7 +118,7 @@ Osiris was born (Plutarch tells us) on the 361st day of the year, say
 the 27th December. He too, like Mithra and Dionysus, was a great
 traveler. As King of Egypt he taught men civil arts, and "tamed them by
 music and gentleness, not by force of arms"; <span
-id="fr_6"></span>[1](#fn_6) he was the discoverer of corn and wine. But
+id="fr_6"></span>[1](#fn_6.md) he was the discoverer of corn and wine. But
 he was betrayed by Typhon, the power of darkness, and slain and
 dismembered. "This happened," says Plutarch, "on the 17th of the month
 Athyr, when the sun enters into the Scorpion" (the sign of the Zodiac
@@ -128,7 +128,7 @@ Mithra, Dionysus, Adonis and others, so in the cult of Osiris, an image
 placed in a coffin was brought out before the worshipers and saluted
 with glad cries of "Osiris is risen." "His sufferings, his death and his
 resurrection were enacted year by year in a great mystery-play at
-Abydos." <span id="fr_7"></span>[2](#fn_7)
+Abydos." <span id="fr_7"></span>[2](#fn_7.md)
 
 The two following legends have more distinctly the character of
 Vegetation myths.
@@ -153,7 +153,7 @@ grove and temple of Astarte, near which was a wild romantic gorge full
 of trees, the birthplace of a certain river Adonis--the water rushing
 from a Cavern, under lofty cliffs. Here (it was said) every year the
 youth Adonis was again wounded to death, and the river ran red with his
-blood, <span id="fr_8"></span>[1](#fn_8) while the scarlet anemone
+blood, <span id="fr_8"></span>[1](#fn_8.md) while the scarlet anemone
 bloomed among the cedars and walnuts.
 
 The story of Attis is very similar. He was a fair young shepherd or
@@ -194,12 +194,12 @@ the prayers of mortals.
 As to Krishna, the Indian god, the points of agreement with the general
 divine career indicated above are too salient to be overlooked, and too
 numerous to be fully recorded. He also was born of a Virgin (Devaki) and
-in a Cave, <span id="fr_9"></span>[1](#fn_9) and his birth announced by
+in a Cave, <span id="fr_9"></span>[1](#fn_9.md) and his birth announced by
 a Star. It was sought to destroy him, and for that purpose a massacre of
 infants was ordered. Everywhere he performed miracles, raising the dead,
 healing lepers, and the deaf and the blind, and championing the poor and
 oppressed. He had a beloved disciple, Arjuna, (cf. John) before whom he
-was transfigured. <span id="fr_10"></span>[2](#fn_10) His death is
+was transfigured. <span id="fr_10"></span>[2](#fn_10.md) His death is
 differently related--as being shot by an arrow, or crucified on a tree.
 He descended into hell; and rose again from the dead, ascending into
 heaven in the sight of many people. He will return at the last day to be
@@ -227,20 +227,20 @@ upon the innocent theory that the Devil--in order to confound the
 Christians--had, *centuries before*, caused the pagans to adopt certain
 beliefs and practices! (Very crafty, we may say, of the Devil, but also
 very innocent of the Fathers to believe it!) Justin Martyr for instance
-describes <span id="fr_11"></span>[1](#fn_11) the institution of the
+describes <span id="fr_11"></span>[1](#fn_11.md) the institution of the
 Lord's Supper as narrated in the Gospels, and then goes on to say:
 "Which the wicked devils have *imitated* in the mysteries of Mithra,
 commanding the same thing to be done. For, that bread and a cup of water
 are placed with certain incantations in the mystic rites of one who is
 being initiated you either know or can learn." Tertullian also
-says <span id="fr_12"></span>[2](#fn_12) that "the devil by the
+says <span id="fr_12"></span>[2](#fn_12.md) that "the devil by the
 mysteries of his idols imitates even the main part of the d vine
 mysteries." . . . "He baptizes his worshippers in water and makes them
 believe that this purifies them from their crimes." . . . "Mithra sets
 his mark on the forehead of his soldiers; he celebrates the oblation of
 bread; he offers an image of the resurrection, and presents at once the
 crown and the sword; he limits his chief priest to a single marriage; he
-even has his virgins and ascetics." <span id="fr_13"></span>[3](#fn_13)
+even has his virgins and ascetics." <span id="fr_13"></span>[3](#fn_13.md)
 Cortez, too, it will be remembered complained that the Devil had
 positively taught to the Mexicans the same things which God had taught
 to Christendom.
@@ -250,7 +250,7 @@ to Christendom.
 Justin Martyr again, in the *Dialogue with Trypho* says that the Birth
 in the Stable was the prototype of the birth of Mithra in the Cave of
 Zoroastrianism; and boasts that Christ was born when the Sun takes its
-birth in the Augean Stable, <span id="fr_14"></span>[1](#fn_14) coming
+birth in the Augean Stable, <span id="fr_14"></span>[1](#fn_14.md) coming
 as a second Hercules to cleanse a foul world; and St. Augustine says "we
 hold this (Christmas) day holy, not like the pagans because of the birth
 of the Sun, but because of the birth of him who made it." There are
@@ -267,10 +267,10 @@ supposed birth of Christ--that a Scythian Monk, Dionysius Exiguus, an
 abbot and astronomer of Rome, was commissioned to fix the day and the
 year of that birth. A nice problem, considering the historical science
 of the period! For year he assigned the date which we now adopt, <span
-id="fr_15"></span>[2](#fn_15) and for day and month he adopted the 25th
+id="fr_15"></span>[2](#fn_15.md) and for day and month he adopted the 25th
 December--a date which had been in popular use since about 350 B.C., and
 the very date, within a day or two, of the supposed birth of the
-previous Sungods. <span id="fr_16"></span>[3](#fn_16) From that
+previous Sungods. <span id="fr_16"></span>[3](#fn_16.md) From that
 
 <span id="page_27">p. 27</span>
 
@@ -278,7 +278,7 @@ fact alone we may fairly conclude that by the year 530 or earlier the
 existing Nature-worships had become largely fused into Christianity. In
 fact the dates of the main pagan religious festivals had by that time
 become so popular that Christianity was *obliged* to accommodate itself
-to them. <span id="fr_17"></span>[1](#fn_17)
+to them. <span id="fr_17"></span>[1](#fn_17.md)
 
  
 
@@ -300,14 +300,14 @@ dawning singeth all night long")? Why was Apollo born with only one hair
 from *Shemesh*, the sun) lose all his strength when he lost his hair?
 Why were so many of these gods--Mithra, Apollo, Krishna, Jesus, and
 others, born in caves or underground chambers? <span
-id="fr_18"></span>[2](#fn_18) Why, at the Easter
+id="fr_18"></span>[2](#fn_18.md) Why, at the Easter
 
 <span id="page_28">p. 28</span>
 
 \[paragraph continues\] Eve festival of the Holy Sepulchre at Jerusalem
 is a light brought from the grave and communicated to the candles of
 thousands who wait outside, and who rush forth rejoicing to carry the
-new glory over the world? <span id="fr_19"></span>[1](#fn_19) Why
+new glory over the world? <span id="fr_19"></span>[1](#fn_19.md) Why
 indeed? except that older than all history and all written records has
 been the fear and wonderment of the children of men over the failure of
 the Sun's strength in Autumn--the decay of their God; and the anxiety
@@ -330,7 +330,7 @@ first indication of a lengthening day; and the universal joy when the
 Priest (the representative of primitive science) having made some simple
 observations, announced from the Temple steps that the day *was*
 lengthening--that the Sun was really born again to a new and glorious
-career. <span id="fr_20"></span>[2](#fn_20)
+career. <span id="fr_20"></span>[2](#fn_20.md)
 
 <span id="page_29">p. 29</span>
 
@@ -373,7 +373,7 @@ of Christmas Eve, stands the magnificent
 in his belt which, as is well known, lie in a straight line pointing to
 Sirius. They are not so bright as Sirius, but they are sufficiently
 bright to attract attention. A long tradition gives them the name of the
-Three Kings. Dupuis <span id="fr_21"></span>[1](#fn_21) says: "Orion a
+Three Kings. Dupuis <span id="fr_21"></span>[1](#fn_21.md) says: "Orion a
 trois belles étoiles vers le milieu, qui sont de seconde grandeur et
 posées en ligne droite, l'une près de l'autre, le peuple les appelle
 *les trois rois*. On donne aux trois rois Magis les noms de Magalat,
@@ -429,7 +429,7 @@ hemisphere of the sky and the
 
 <span id="page_32">p. 32</span>
 
-\[paragraph continues\] Zodiac. <span id="fr_22"></span>[1](#fn_22) Here
+\[paragraph continues\] Zodiac. <span id="fr_22"></span>[1](#fn_22.md) Here
 Virgo the constellation is represented, as in our star-maps, by a woman
 with a spike of corn in her hand (Spica). But on the margin close by
 there is an annotating and explicatory figure--a figure of Isis with the
@@ -437,7 +437,7 @@ infant Horus in her arms, and quite resembling in style the Christian
 Madonna and Child, except that she is sitting and the child is on her
 knee. This seems to show that--whatever other nations may have done in
 associating Virgo with Demeter, Ceres, Diana, <span
-id="fr_23"></span>[2](#fn_23) etc.--the Egyptians made no doubt of the
+id="fr_23"></span>[2](#fn_23.md) etc.--the Egyptians made no doubt of the
 constellation's connection with Isis and Horus. But it is well known as
 a matter of history that the worship of Isis and Horus descended in the
 early Christian centuries to Alexandria, where it took the form of the
@@ -446,7 +446,7 @@ European ceremonial. We have therefore the Virgin Mary connected by
 linear succession and descent with that remote Zodiacal cluster in the
 sky! Also it may be mentioned that on the Arabian and Persian globes of
 Abenezra and Abuazar a Virgin and Child are figured in connection with
-the same constellation. <span id="fr_24"></span>[3](#fn_24)
+the same constellation. <span id="fr_24"></span>[3](#fn_24.md)
 
 A curious confirmation of the same astronomical connection is afforded
 by the Roman Catholic Calendar. For if this be consulted it will be
@@ -477,12 +477,12 @@ and Child.
 So strange is the scripture of the sky! Innumerable legends and customs
 connect the rebirth of the Sun with a Virgin parturition. Dr. J. G.
 Frazer in his Part IV of *The Golden Bough* <span
-id="fr_25"></span>[1](#fn_25) says: "If we may trust the evidence of an
+id="fr_25"></span>[1](#fn_25.md) says: "If we may trust the evidence of an
 obscure scholiast the Greeks \[in the worship of Mithras at Rome\] used
 to celebrate the birth of the luminary by a midnight service, coming out
 of the inner shrines and crying, 'The Virgin has brought forth! The
 light is waxing!' (Ἡ παρθένος τέτοκεν, αὔξει φῶς.)" In Elie Reclus'
-little book *Primitive Folk* <span id="fr_26"></span>[2](#fn_26) it is
+little book *Primitive Folk* <span id="fr_26"></span>[2](#fn_26.md) it is
 said of the Esquimaux that "On the longest night of the year two
 *angakout* (priests), of whom one is disguised as a *woman*, go from hut
 to hut extinguishing all the lights, rekindling them from a vestal
@@ -521,7 +521,7 @@ poetry and significance of the terrestrial interpretations.
 Between Christmas Day and Easter there are several minor festivals or
 holy days--such as the 28th December (the Massacre of the Innocents),
 the 6th January (the Epiphany), the 2nd February (Candlemas <span
-id="fr_27"></span>[1](#fn_27) Day), the period of Lent (German *Lenz*,
+id="fr_27"></span>[1](#fn_27) Day.md), the period of Lent (German *Lenz*,
 the Spring), the Annunciation
 
 <span id="page_35">p. 35</span>
@@ -535,46 +535,46 @@ too long; so let us pass at once to the period of Easter itself.
 
 ### Footnotes
 
-<span id="fn_4"></span>[21:1](pcc03.htm#fr_4) The birthfeast of Mithra
+<span id="fn_4"></span>[21:1](pcc03.htm#fr_4.md) The birthfeast of Mithra
 was held in Rome on the 8th day before the Kalends of January, being
 also the day of the Circassian games, which were sacred to the Sun. (See
 F. Nork, *Der Mystagog*, Leipzig.)
 
-<span id="fn_5"></span>[21:2](pcc03.htm#fr_5) This at any rate was
+<span id="fn_5"></span>[21:2](pcc03.htm#fr_5.md) This at any rate was
 reported by his later disciples (see Robertson's *Pagan Christs*, p.
 338).
 
-<span id="fn_6"></span>[22:1](pcc03.htm#fr_6) See Plutarch on *Isis and
+<span id="fn_6"></span>[22:1](pcc03.htm#fr_6.md) See Plutarch on *Isis and
 Osiris*.
 
-<span id="fn_7"></span>[22:2](pcc03.htm#fr_7) *Ancient Art and Ritual*,
+<span id="fn_7"></span>[22:2](pcc03.htm#fr_7.md) *Ancient Art and Ritual*,
 by Jane E. Harrison, chap. i.
 
-<span id="fn_8"></span>[23:1](pcc03.htm#fr_8) A discoloration caused by
+<span id="fn_8"></span>[23:1](pcc03.htm#fr_8.md) A discoloration caused by
 red earth washed by rain from the mountains, and which has been observed
 by modern travelers. For the whole story of Adonis and of Attis see
 Frazer's *Golden Bough*, part iv.
 
-<span id="fn_9"></span>[24:1](pcc03.htm#fr_9) Cox's *Myths of the Aryan
+<span id="fn_9"></span>[24:1](pcc03.htm#fr_9.md) Cox's *Myths of the Aryan
 Nations*, p. 107.
 
-<span id="fn_10"></span>[24:2](pcc03.htm#fr_10) *Bhagavat Gita*, ch. xi.
+<span id="fn_10"></span>[24:2](pcc03.htm#fr_10.md) *Bhagavat Gita*, ch. xi.
 
-<span id="fn_11"></span>[25:1](pcc03.htm#fr_11) I *Apol*. c. 66.
+<span id="fn_11"></span>[25:1](pcc03.htm#fr_11.md) I *Apol*. c. 66.
 
-<span id="fn_12"></span>[25:2](pcc03.htm#fr_12) *De Præscriptione
+<span id="fn_12"></span>[25:2](pcc03.htm#fr_12.md) *De Præscriptione
 Hereticorum*, c. 40; *De Bapt*. c. 3; *De Corona*, c. 15.
 
-<span id="fn_13"></span>[25:3](pcc03.htm#fr_13) For reference to both
+<span id="fn_13"></span>[25:3](pcc03.htm#fr_13.md) For reference to both
 these examples see J. M. Robertson's *Pagan Christs*, pp. 321, 322.
 
-<span id="fn_14"></span>[26:1](pcc03.htm#fr_14) The Zodiacal sign of
-*Capricornus*, see infra (iii. [49](pcc04.htm#page_49)).
+<span id="fn_14"></span>[26:1](pcc03.htm#fr_14.md) The Zodiacal sign of
+*Capricornus*, see infra (iii. [49](pcc04.htm#page_49).md).
 
-<span id="fn_15"></span>[26:2](pcc03.htm#fr_15) See *Encycl. Brit*. art.
+<span id="fn_15"></span>[26:2](pcc03.htm#fr_15.md) See *Encycl. Brit*. art.
 "Chronology."
 
-<span id="fn_16"></span>[26:3](pcc03.htm#fr_16) "There is however a
+<span id="fn_16"></span>[26:3](pcc03.htm#fr_16.md) "There is however a
 difficulty in accepting the 25th December as the real date of the
 Nativity, December being the height of the rainy season in Judæa, when
 neither flocks nor shepherds could have been at night in the fields of
@@ -586,49 +586,49 @@ but there is no evidence of a Feast of the Nativity taking place at all,
 before the fourth century A.D." It was not till 534 A.D. that Christmas
 Day and Epiphany were reckoned by the law-courts as *dies non*.
 
-<span id="fn_17"></span>[27:1](pcc03.htm#fr_17) As, for instance, the
+<span id="fn_17"></span>[27:1](pcc03.htm#fr_17.md) As, for instance, the
 festival of John the Baptist in June took the place of the pagan
 midsummer festival of water and bathing; the Assumption of the Virgin in
 August the place of that of Diana in the same month; and the festival of
 All Souls early in November, that of the world-wide pagan feasts of the
 dead and their ghosts at the same season.
 
-<span id="fn_18"></span>[27:2](pcc03.htm#fr_18) This same legend of gods
+<span id="fn_18"></span>[27:2](pcc03.htm#fr_18.md) This same legend of gods
 (or idols) being born in caves has, curiously enough, been reported from
 Mexico, Guatemala, the Antilles, and other places in Central America.
 See C. F. P. von Martius, *Ethnographie Amerika, etc*. (Leipzig, 1867),
 vol. i, p. 758.
 
-<span id="fn_19"></span>[28:1](pcc03.htm#fr_19) Compare the Aztec
+<span id="fn_19"></span>[28:1](pcc03.htm#fr_19.md) Compare the Aztec
 ceremonial of lighting a holy fire and communicating it to the multitude
 from the wounded breast of a human victim, celebrated every 52 years at
 the end of one cycle and the beginning of another--the constellation of
 the Pleiades being in the Zenith (Prescott's *Conquest of Mexico*, Bk.
 I, ch. 4).
 
-<span id="fn_20"></span>[28:2](pcc03.htm#fr_20) It was such things as
+<span id="fn_20"></span>[28:2](pcc03.htm#fr_20.md) It was such things as
 these which doubtless gave the Priesthood its power.
 
-<span id="fn_21"></span>[30:1](pcc03.htm#fr_21) Charles F. Dupuis
+<span id="fn_21"></span>[30:1](pcc03.htm#fr_21.md) Charles F. Dupuis
 (*Origine de Tous les Cultes*, Paris, 1822) was one of the earliest
 modern writers on these subjects.
 
-<span id="fn_22"></span>[32:1](pcc03.htm#fr_22) Carefully described and
+<span id="fn_22"></span>[32:1](pcc03.htm#fr_22.md) Carefully described and
 mapped by Dupuis, see *op. cit*.
 
-<span id="fn_23"></span>[32:2](pcc03.htm#fr_23) For the harvest-festival
+<span id="fn_23"></span>[32:2](pcc03.htm#fr_23.md) For the harvest-festival
 of Diana, the Virgin, and her parallelism with the Virgin Mary, see *The
 Golden Bough*, vol. i, 14 and ii, 121.
 
-<span id="fn_24"></span>[32:3](pcc03.htm#fr_24) See F. Nork, *Der
+<span id="fn_24"></span>[32:3](pcc03.htm#fr_24.md) See F. Nork, *Der
 Mystagog* (Leipzig, 1838).
 
-<span id="fn_25"></span>[33:1](pcc03.htm#fr_25) Book II, ch. vi.
+<span id="fn_25"></span>[33:1](pcc03.htm#fr_25.md) Book II, ch. vi.
 
-<span id="fn_26"></span>[33:2](pcc03.htm#fr_26) In the *Contemporary
+<span id="fn_26"></span>[33:2](pcc03.htm#fr_26.md) In the *Contemporary
 Science Series*, I. 92.
 
-<span id="fn_27"></span>[34:1](pcc03.htm#fr_27) This festival of the
+<span id="fn_27"></span>[34:1](pcc03.htm#fr_27.md) This festival of the
 Purification of the Virgin corresponds with the old Roman festival of
 *Juno Februata* (i. e. purified) which was held in the last month
 (February) of the Roman year, and which included a candle procession of
@@ -636,4 +636,4 @@ Ceres, searching for Proserpine. (F. Nork, *Der Mystagog*.)
 
 ------------------------------------------------------------------------
 
-[Next: III. The Symbolism Of The Zodiac](pcc04)
+[Next: III. The Symbolism Of The Zodiac](pcc04.md)

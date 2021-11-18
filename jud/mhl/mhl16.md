@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl15)  [Next](mhl17) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl15)  [Next](mhl17.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Messiah, called the
 
 Son of God, and this is the mystery of Father, Son, and Holy Ghost,
 although when we proclaim the Trinity it is really the Unity only which
-we believe. <span id="fr_9"></span>[1](#fn_6) I believe further that the
+we believe. <span id="fr_9"></span>[1](#fn_6.md) I believe further that the
 Messiah dwelt amongst Israel for their glory, so long as they adhered to
 the idea of the Godhead, manifest in him, but that at last they rebelled
 against him and crucified him. From that time till now the wrath of God
@@ -61,7 +61,7 @@ partly from the commandments of the Apostle Simon (Peter), partly from
 the Torah, which we read, and the truth of which is beyond question: for
 the Gospel itself relates what the Messiah said: 'I came not to destroy
 one tittle of the law of Moses, but to confirm and explain it.'" <span
-id="fr_10"></span>[2](#fn_7)
+id="fr_10"></span>[2](#fn_7.md)
 
 The King replied: "To argue on this subject is quite useless: for reason
 rejects most of what thou hast said. Only when the evidence and proof of
@@ -84,7 +84,7 @@ The King called next a learned Mohammedan to inquire concerning the
 belief and practises of Mohammedanism. His answer was as follows: "We
 affirm the unity and eternity of God, the creation of the world, and the
 descent of the whole human race from Adam and from Noah. <span
-id="fr_11"></span>[3](#fn_8) We deny in general the corporeality of God,
+id="fr_11"></span>[3](#fn_8.md) We deny in general the corporeality of God,
 endeavoring to explain any difficulty which may here meet us by saying
 that the expression which occasions it is only metaphorical or
 approximately true. We are bound to confess that the Koran is the Word
@@ -106,7 +106,7 @@ what he denies, namely, that God has held intercourse with flesh, can
 only do so successfully with the help of irrefragable evidences: only
 thus, I repeat, could one who doubts be persuaded that God has held
 intercourse with flesh. If your book is a miracle because it is written
-in Arabic <span id="fr_12"></span>[4](#fn_9) it certainly can not be
+in Arabic <span id="fr_12"></span>[4](#fn_9.md) it certainly can not be
 regarded
 
 <span id="page_365">p. 365</span>
@@ -139,7 +139,7 @@ and quails during the space of forty years, and spoke with Moses upon
 Sinai; how he made the sun stand still for Joshua, and helped him
 against the giants. Neither, again, is it possible to deny what he did
 at the time of the deluge, and how he destroyed the people of Lot. <span
-id="fr_13"></span>[5](#fn_10) All this is sufficiently clear, and there
+id="fr_13"></span>[5](#fn_10.md) All this is sufficiently clear, and there
 can be no suspicion of the operation of imagination or of collusion."
 
 The King of the Khazars then said: "There can be no longer any doubt
@@ -156,25 +156,25 @@ principles of his faith.
 
 ### Footnotes
 
-<span id="fn_6"></span>[363:1](mhl16.htm#fr_9) This was one of the chief
+<span id="fn_6"></span>[363:1](mhl16.htm#fr_9.md) This was one of the chief
 points of discussion between the Jews and the Christians in the Middle
 Ages.
 
-<span id="fn_7"></span>[363:2](mhl16.htm#fr_10) Matt, v. 17.
+<span id="fn_7"></span>[363:2](mhl16.htm#fr_10.md) Matt, v. 17.
 
-<span id="fn_8"></span>[364:3](mhl16.htm#fr_11) This point is one that
+<span id="fn_8"></span>[364:3](mhl16.htm#fr_11.md) This point is one that
 was adhered to by both Christians and Mohammedans, in opposition to the
 opinion of the philosophers that the world and man had both existed from
 eternity.
 
-<span id="fn_9"></span>[364:4](mhl16.htm#fr_12) Since it was generally
+<span id="fn_9"></span>[364:4](mhl16.htm#fr_12.md) Since it was generally
 believed that Mohammed could neither read nor write, the beautiful and
 elegant language in which the Koran was composed was thought to be a
 proof of its miraculous origin.
 
-<span id="fn_10"></span>[365:5](mhl16.htm#fr_13) The inhabitants of
+<span id="fn_10"></span>[365:5](mhl16.htm#fr_13.md) The inhabitants of
 Sodom and Gomorrah are by Mohammedan writers termed "the people of Lot."
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](mhl17)
+[Next: Introduction](mhl17.md)

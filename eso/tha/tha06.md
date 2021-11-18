@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tha05)  [Next](tha07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tha05)  [Next](tha07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ forces generating them.
 
 The aura has been constantly searched for in the dark without success,
 proving that it is not auto-luminous in the ordinary acceptation of the
-term. (Vide [chapter iv](tha05.htm#chap04).) It is now necessary to
+term. (Vide [chapter iv](tha05.htm#chap04)..md) It is now necessary to
 examine the conditions which govern its visibility. The best results are
 obtained in diffuse daylight, graduated to the proper extent. Endeavour
 has been made, without much success, to ascertain whether different
@@ -273,7 +273,7 @@ to allow the observer to notice as accurately as possible the breadth of
 both auras, and to make a mental note of their brightness. As soon as
 these observations have been completed, a negative charge is given
 through a chain attached to the corresponding pole of a Wimshurst
-machine. Generally <span id="fr_5"></span>[\*](#fn_5) within the
+machine. Generally <span id="fr_5"></span>[\*](#fn_5.md) within the
 fraction of a minute the outer aura will contract and grow more dense,
 while the inner will lose distinctness. From this stage onwards both
 auras decrease in brilliance, and in a short time the inner will
@@ -373,10 +373,10 @@ difficulty in determining the size of the aura round the head after a
 subject has been electrified, but over the rest of the body, as far as
 can be judged, the whole aura is generally augmented proportionally, and
 so it retains its natural shape. Any local peculiarities are generally
-accentuated. [Case 20](tha06.htm#case20) is a good example of this.
+accentuated. [Case 20](tha06.htm#case20.md) is a good example of this.
 
-<span id="case19">Case 19</span>. (Figs. [20](#img_fig20) and
-[21](#img_fig21)). V. S., a well grown girl, eight years old, of
+<span id="case19">Case 19</span>. (Figs. [20](#img_fig20.md) and
+[21](#img_fig21).md). V. S., a well grown girl, eight years old, of
 excitable temperament, but who had never suffered from any illness, with
 the exception of the usual infantile complaints, was inspected during
 the summer of 1915. Both auras were plain for a child of her age, and
@@ -482,8 +482,8 @@ her eighteenth year.
 
 <span id="page_97">p. 97</span>
 
-<span id="case21">Case 21</span>. (Figs. [22](#img_fig22) and
-[23](#img_fig23)). B. S., a schoolboy eleven years old, of excitable
+<span id="case21">Case 21</span>. (Figs. [22](#img_fig22.md) and
+[23](#img_fig23).md). B. S., a schoolboy eleven years old, of excitable
 temperament but in good health, was inspected in 1915. Both auras
 possessed the average distinctness, and the outer was wide for his age,
 being as he faced the observer, seven inches by the head, five by the
@@ -499,8 +499,8 @@ facing, ten inches round the head, the same by the sides of the trunk,
 and six by the legs. A side view gave six inches in front and by the
 legs, and twelve at the small of the back.
 
-<span id="case22">Case 22</span>. (Figs. [24](#img_fig24) and
-[25](#img_fig25)). E., a tall, powerful, well made man, fifty years of
+<span id="case22">Case 22</span>. (Figs. [24](#img_fig24.md) and
+[25](#img_fig25).md). E., a tall, powerful, well made man, fifty years of
 age was examined in 1915. His outer aura was unusually wide and
 distinct. The inner was hardly as marked as had been anticipated from
 his physique. There was no sign of any ultra-outer aura. The outer aura
@@ -512,7 +512,7 @@ was given a negative charge, and both auras vanished in the ordinary
 manner, only taking a rather long time. As an after-effect the outer was
 found to have considerably expanded, but at the same time had become
 proportionately less distinct and the distal margin was a trifle
-indefinite. There was no [pseudo](errata.htm#2)-ultra-outer aura. The
+indefinite. There was no [pseudo](errata.htm#2.md)-ultra-outer aura. The
 size of the aura was
 
 <span id="page_98">p. 98</span>
@@ -547,7 +547,7 @@ Figs. 24 and 25.
 
 <span id="img_09800"></span> ![](img/09800.jpg)
 
-examining a patient ([case 48](tha08.htm#case48), which is described
+examining a patient ([case 48](tha08.htm#case48.md), which is described
 later on), who had been undergoing electrical treatment for curative
 purposes. On the first occasion the outer margin of the patient's aura
 was as sharply defined as usual, but on her third visit, (the aura was
@@ -750,7 +750,7 @@ employ the following method:—Charge the electroscope E.1. with
 electricity having the same sign, usually negative, as that of the
 surface electricity, till the gold leaf diverges a few degrees. If now
 the proof plane is held near to and above the metal disc <span
-id="fr_6"></span>[\*](#fn_6), after having touched any part of the
+id="fr_6"></span>[\*](#fn_6.md), after having touched any part of the
 patient, it will cause a still further divergence of the gold leaf. By
 repetition a rough comparison of the potential at the different parts of
 the body can be made.
@@ -774,7 +774,7 @@ These experiments, contrary to expectations, generally but not
 invariably, showed certain parts of the body such as the palms of the
 hands, nose, elbows, nipples, etc., most of them, it will be noted being
 points, to be almost if not entirely devoid of electric potential. <span
-id="fr_7"></span>[\*](#fn_7)
+id="fr_7"></span>[\*](#fn_7.md)
 
 Mrs. A., an artist's model, on one occasion after she had been undressed
 a considerable time and was consequently as free from external
@@ -783,7 +783,7 @@ with electricity, and may be regarded as a typical case. Her aura was
 exceedingly distinct on that day. Her body was very carefully tested all
 over with the proof plane, at least once and in most parts several
 times, so that the results may be regarded as extremely accurate. (Figs.
-[26](#img_fig26) to [28](#img_fig28).) Except the forehead all the body
+[26](#img_fig26) to [28](#img_fig28)..md) Except the forehead all the body
 showed a negative surface charge, which, however, was unevenly
 distributed. In front it was least on the central line of the thorax,
 but started increasing a little above the umbilicus, and gained its
@@ -985,7 +985,7 @@ shade on the left side was darker with the blue, red, and yellow, but
 lighter with the green. This last colour was especially noticeable in
 the extensions of the band beyond the body, pointing to its presence in
 considerable quantity. Through the screens the hues were dissimilar on
-the two sides. (See [table 5](tha06.htm#tab05), series 1.)
+the two sides. (See [table 5](tha06.htm#tab05), series 1..md)
 
 Exp. 2. An European lady with a strain of Malay blood in her veins,
 showed an aura of a blue grey mixed with white, giving it an opaque
@@ -995,7 +995,7 @@ the aura in the intervals between the arms and the body exhibited more
 green than round the body, and this colour was even more in evidence
 with the various coloured screens, through which the aura appeared of a
 grey-green colour, instead of the more usual blue-grey. (See [table
-5](tha06.htm#tab05), series 2.)
+5](tha06.htm#tab05), series 2..md)
 
 Fumigation of iodine on the left side turned the colour to a red-brown,
 while the aura on the right side remained unaltered. The difference
@@ -1143,7 +1143,7 @@ bromine, the colour of the interspace was an opaque green, while the
 aura on the right side continued unaltered. Examination through the
 different screens showed the hue on the left side to be green, while the
 aura on the right side retained its normal colour. (See [table
-5](tha06.htm#tab05), series 3.)
+5](tha06.htm#tab05), series 3..md)
 
 Exp. 4. B.F., a woman three and twenty years old possessed a wide
 well-shaped aura, of the ordinary blue colour mixed with a little grey.
@@ -1214,7 +1214,7 @@ a mixture of salt and di-oxide of manganese. The colour of the aura
 which was originally blue, now changed to an opaque green. Examination
 through the dark carmine screen showed that the inner aura had lost
 distinctness and striation, and could only be detected with difficulty.
-For the other changes noted, see [table 5](tha06.htm#tab05), series 4.
+For the other changes noted, see [table 5](tha06.htm#tab05.md), series 4.
 
 A green shade is the easiest to produce, and has been found when the
 aura has been acted upon by ammonia, carbonic acid gas, or the fumes of
@@ -1330,7 +1330,7 @@ extra opaqueness and no heightening of the blue colour. The
 difference of the two colours on the two sides remained after the
 subsequenting charging proved that electricity had no action in inducing
 the colour change. The only explanation that can be offered is the
-asymmetry of the aura. (See page [209](tha08.htm#page_209)).
+asymmetry of the aura. (See page [209](tha08.htm#page_209).md).
 
 Attention must now be directed to the changes in the aura that can be
 brought about (1) voluntary efforts upon the part of the subject, and
@@ -1370,7 +1370,7 @@ rapidly receded.
 
 The next point chosen was on the lower part of the thorax, while she was
 standing in the same (position, viz, facing the observer. Rays of all
-kinds (page [52](tha04.htm#page_52)) and also patches of light are not
+kinds (page [52](tha04.htm#page_52).md) and also patches of light are not
 uncommonly seen in this part. The result was unexpected, as instead of
 projecting outwards, the whole of the inner aura from the sixth rib to
 the crest of the ilium became bright without any extension,
@@ -1473,7 +1473,7 @@ any object, e. g., a book, of the colour required.
 Exp. 1. As she stood with her hands upon her hips, she was first
 requested to make the aura in the left space of the same colour as a
 certain red book (darker portion of crimson alizarine of Rowney's
-specimen sheet of colours). <span id="fr_8"></span>[\*](#fn_8)
+specimen sheet of colours). <span id="fr_8"></span>[\*](#fn_8.md)
 
 In about a minute she said, "she could see the aura change in hue,
 becoming a scarlet red, but could not make it the same colour as the
@@ -1575,7 +1575,7 @@ of the colour change evidently arose from fatigue.
 
 The effects of suggestion while in a hypnotic state will now be
 considered. The differences between these effects and the phenomena
-recorded above is by no means as [fundamental](errata.htm#3) as might
+recorded above is by no means as [fundamental](errata.htm#3.md) as might
 have been imagined, since in the one case, the results are brought about
 by the individual's own efforts, while in the other an outside
 suggestion is accepted and put into force. In the hypnotic state the
@@ -1621,7 +1621,7 @@ the aura quickly regained its original condition.
 
 Exp. 3. She was now passed into the trajectory state. Almost immediately
 the inner aura all over the body disappeared, leaving a dark void space
-nearly two inches wide. (Compare page [91](#page_91).) Just outside this
+nearly two inches wide. (Compare page [91](#page_91)..md) Just outside this
 empty space the outer aura was massed, looked opaque and at the same
 time contracted. Nothing remained visible in this dark space through the
 deep carmine screen. When the screen was laid aside and the room
@@ -1651,13 +1651,13 @@ A week later Dr. Douglas brought the same lady a second time for
 investigations with coloured screens in the various stages of hypnosis.
 
 Exp. 5. Miss X.'s aura was inspected and presented the same appearances
-found at the preliminary examination described on page [125](#page_125).
+found at the preliminary examination described on page [125](#page_125.md).
 The details of further examination with coloured screens are set forth
-in the table. (See [table 6](tha06.htm#tab06), series 1.)
+in the table. (See [table 6](tha06.htm#tab06), series 1..md)
 
 Exp. 6. Hypnosis of the first degree was induced. For general details
-see page [125](#page_125). For screen colours sec table. ([Table
-6](tha06.htm#tab06), series 2.)
+see page [125](#page_125.md). For screen colours sec table. ([Table
+6](tha06.htm#tab06), series 2..md)
 
 Exp. 7. Dr. Douglas, without rousing her, then passed Miss X. into the
 trajectory state. The larger portion of the inner aura had vanished, but
@@ -1811,7 +1811,7 @@ complete paralysis of a limb.
 The auras, especially the inner in the space between the arm and the
 trunk, were not as bright as those on the other side, which were normal.
 The colours as seen through the screens are noted in [table
-6](tha06.htm#tab06), series 4. Immediately permission was given to move
+6](tha06.htm#tab06.md), series 4. Immediately permission was given to move
 the arm, the auras reverted to their normal condition.
 
 Exp. 10. The subject now stood with her hands resting on her head, and
@@ -1945,8 +1945,8 @@ territory of the inner, but it may be simultaneously
 
 affected. The inner aura can be made to vanish by artificial means from
 every part of the body, leaving a void space, as when acted upon by
-electricity or by a chemical. (See pages [91](#page_91) and
-[113](#page_113).) Secondly, the outer aura is entirely nebulous with an
+electricity or by a chemical. (See pages [91](#page_91.md) and
+[113](#page_113)..md) Secondly, the outer aura is entirely nebulous with an
 indefinite distal margin, its visible proximal edge coinciding with the
 outer border of the inner aura. The presumption that there must be more
 than one force concerned, is thus further strengthened by the crenated
@@ -1984,7 +1984,7 @@ whole body, but the breadth of the inner aura by the sides of the trunk
 shows that it must be rather more powerful in that situation than over
 the limbs. Although continuous the force is not constant, as projections
 in the form of unstable rays are common, and these beams are continually
-changing their positions. <span id="fr_9"></span>[\*](#fn_9) They pass
+changing their positions. <span id="fr_9"></span>[\*](#fn_9.md) They pass
 through the outer aura, but their transit cause no alteration outside
 their direct route. This is so easily modified by any local affection of
 the body, as to make the inner aura an extremely sensitive tell-tale,
@@ -2030,7 +2030,7 @@ of the nervous system, may cause wide-spread alterations of this aura,
 which in certain circumstances are diagnostic. The outer aura may be
 contracted while the inner retains its proper breadth, but the converse
 does not occur, as the outer never maintains its normal size after the
-inner has shrunk. <span id="fr_10"></span>[\*](#fn_10)
+inner has shrunk. <span id="fr_10"></span>[\*](#fn_10.md)
 
 <span id="page_137">p. 137</span>
 
@@ -2110,7 +2110,7 @@ examples will show:
 
 1\. The electric brush applied to the spine produces instantaneous
 enlargement of the aura, while applied to the median line of the body in
-front it has no effect. (See page [102](#page_102).) The reason is
+front it has no effect. (See page [102](#page_102)..md) The reason is
 obvious, as the spinal cord and the large nerves proceed from it near
 the surface at the back, and can be easily stimulated, but there are no
 great nerve centres near the front. The same effect is produced by
@@ -2169,24 +2169,24 @@ distinctness seen when a patient in a bad state of health is examined.
 
 ### Footnotes
 
-<span id="fn_5"></span>[91:\*](tha06.htm#fr_5) The time required for
+<span id="fn_5"></span>[91:\*](tha06.htm#fr_5.md) The time required for
 electrification to induce the changes described, varies on different
 days in the same subjects, and also with each individual.
 
-<span id="fn_6"></span>[104:\*](tha06.htm#fr_6) A greater degree of
+<span id="fn_6"></span>[104:\*](tha06.htm#fr_6.md) A greater degree of
 accuracy may be obtained by attaching three or four small thin pieces of
 ebonite to the upper surface of the disc of the electroscope for the
 proof plane to rest on, thus allowing the distance between the disc and
 the proof plane to be always the same.
 
-<span id="fn_7"></span>[105:\*](tha06.htm#fr_7) As the skin, unless
+<span id="fn_7"></span>[105:\*](tha06.htm#fr_7.md) As the skin, unless
 moist, is a very poor conductor of electricity, the increase of
 potential on points is not present as is the case with conductors.
 
-<span id="fn_8"></span>[123:\*](tha06.htm#fr_8) The names of all the
+<span id="fn_8"></span>[123:\*](tha06.htm#fr_8.md) The names of all the
 colours mentioned in this book are taken from Rowney's sheet of colours.
 
-<span id="fn_9"></span>[135:\*](tha06.htm#fr_9) These rays afford a
+<span id="fn_9"></span>[135:\*](tha06.htm#fr_9.md) These rays afford a
 solution to a problem that greatly puzzled the writer when he was
 experimenting with mechanical means for the detection and measurement of
 N rays. The difficulty was that sometimes a large deflection of the
@@ -2203,12 +2203,12 @@ held in his hands the means the aura could be made visible and submitted
 to examination, he felt that better and more comprehensive could be
 obtained by studying the seen rather than the unseen.
 
-<span id="fn_10"></span>[136:\*](tha06.htm#fr_10) [Case
-42](tha08.htm#case42) is, up to date, the only apparent exception to
+<span id="fn_10"></span>[136:\*](tha06.htm#fr_10.md) [Case
+42](tha08.htm#case42.md) is, up to date, the only apparent exception to
 this statement, and in all probability would have been found to comply
 with the rule, had not the presence of an ultra-outer aura rendered
 impossible the exact determination of the outer limits.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Complementary Colours](tha07)
+[Next: Chapter VI. Complementary Colours](tha07.md)

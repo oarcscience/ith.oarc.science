@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps32) 
-[Next](mps34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps32.md) 
+[Next](mps34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,17 +44,17 @@ clad as a merchant; he was by no means dressed in his proper raiment.
 Sometimes P’hatman calls on him, sometimes he visits P’hatman. They sat
 together; they conversed with refined discourse. Absence from him was
 death to P’hatman, as Ramin's was to Vis. <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_29"></span>[171:1](mps33.htm#fr_29) For the Story of the
+<span id="fn_29"></span>[171:1](mps33.htm#fr_29.md) For the Story of the
 Loves of Vis and Ramin, cf. *J.R.A.S.*, July 1902. There are two other
-references in Rust’haveli, [182](mps07.htm#182), [1519](mps49.htm#1519).
+references in Rust’haveli, [182](mps07.htm#182), [1519](mps49.htm#1519.md).
 
 ------------------------------------------------------------------------
 
 [Next: XXXI. P’hatman Becomes Enamoured of Avt’handil; Writes Him a
-Letter and Sends it](mps34)
+Letter and Sends it](mps34.md)

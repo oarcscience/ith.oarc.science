@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Next](npj01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Next](npj01.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,9 +20,9 @@
 
 <span id="img_front"></span>
 
-![YOUNG WOMAN'S MASK](img/front.jpg)  
+![YOUNG WOMAN'S MASK](img/front.jpg.md)  
 YOUNG WOMAN'S MASK
 
 ------------------------------------------------------------------------
 
-[Next: Contents](npj01)
+[Next: Contents](npj01.md)

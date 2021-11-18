@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof10)  [Next](otof12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof10)  [Next](otof12.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 ## OTHER FLESH
 
-<span id="img_19200"></span> ![Hopi Ceremonial Dancers](img/19200.jpg)  
+<span id="img_19200"></span> ![Hopi Ceremonial Dancers](img/19200.jpg.md)  
 Hopi Ceremonial Dancers
 
 <span id="page_193">p. 193</span>
@@ -111,7 +111,7 @@ transmission of the successive modifications are questioned.
 Science has proven by the Earth's record, written undisputedly in her
 rock formations, that the evolution of indigenous earth-life is a true
 fact. Fossil bearing formations literally tell the Earth's
-auto-biography. This [indigenous](errata.htm#17) earth-life, developed
+auto-biography. This [indigenous](errata.htm#17.md) earth-life, developed
 from the single-celled organisms into a highly evolved ape-form over
 millions of years. The "Sons of God" made wives of the ape creatures and
 the progeny was antediluvian man, or prehistoric-primitive man. The
@@ -359,4 +359,4 @@ order of souls: they are *The Wanderers*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. The Wanderers](otof12)
+[Next: Chapter 2. The Wanderers](otof12.md)

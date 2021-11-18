@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ptp00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ptp.txt.gz)
+[Contents](#contents)    [Start Reading](ptp00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ptp.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ declared infallible until a conclave in 1869. Napoleon imprisoned Pius
 VI, and almost got him to sign over the Vatican to France. There was
 only one English pope, Adrian IV, but quite a few French pontiffs. There
 were a number of popes who were related, including fathers and sons.
-Also of note is a useful [chronological table](ptp21) at the end which
+Also of note is a useful [chronological table](ptp21.md) at the end which
 lists every pope from St. Peter to Pius XII.
 
 Production notes: The illustrations from this book were damaged by
@@ -68,26 +68,26 @@ Hare, 12 Mar 2008.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ptp00)  
-[First Century](ptp01)  
-[Second Century](ptp02)  
-[Third Century](ptp03)  
-[Fourth Century](ptp04)  
-[Fifth Century](ptp05)  
-[Sixth Century](ptp06)  
-[Seventh Century](ptp07)  
-[Eighth Century](ptp08)  
-[Ninth Century](ptp09)  
-[Tenth Century](ptp10)  
-[Eleventh Century](ptp11)  
-[Twelfth Century](ptp12)  
-[Thirteenth Century](ptp13)  
-[Fourteenth Century](ptp14)  
-[Fifteenth Century](ptp15)  
-[Sixteenth Century](ptp16)  
-[Seventeenth Century](ptp17)  
-[Eighteenth Century](ptp18)  
-[Nineteenth Century](ptp19)  
-[Twentieth Century](ptp20)  
-[List of Popes](ptp21)  
-[Index](ptp22)  
+<span id="contents"></span> [Title Page](ptp00.md)  
+[First Century](ptp01.md)  
+[Second Century](ptp02.md)  
+[Third Century](ptp03.md)  
+[Fourth Century](ptp04.md)  
+[Fifth Century](ptp05.md)  
+[Sixth Century](ptp06.md)  
+[Seventh Century](ptp07.md)  
+[Eighth Century](ptp08.md)  
+[Ninth Century](ptp09.md)  
+[Tenth Century](ptp10.md)  
+[Eleventh Century](ptp11.md)  
+[Twelfth Century](ptp12.md)  
+[Thirteenth Century](ptp13.md)  
+[Fourteenth Century](ptp14.md)  
+[Fifteenth Century](ptp15.md)  
+[Sixteenth Century](ptp16.md)  
+[Seventeenth Century](ptp17.md)  
+[Eighteenth Century](ptp18.md)  
+[Nineteenth Century](ptp19.md)  
+[Twentieth Century](ptp20.md)  
+[List of Popes](ptp21.md)  
+[Index](ptp22.md)  

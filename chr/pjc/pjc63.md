@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc62)  [Next](pjc64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc62)  [Next](pjc64.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -101,7 +101,7 @@ on the way. Near the walls, to the east and south of Calvary, there were
 also gardens, sepulchres, and vineyards. The Cross was buried on the
 northeast side, at the foot of Mount Calvary.
 
-The garden of Joseph of Arimathea <span id="fr_15"></span>[1](#fn_15)
+The garden of Joseph of Arimathea <span id="fr_15"></span>[1](#fn_15.md)
 was situated near
 
 <span id="page_287">p. 287</span>
@@ -146,7 +146,7 @@ a white colour, intersected with red and blue veins.
 
 ### Footnotes
 
-<span id="fn_15"></span>[286:1](pjc63.htm#fr_15) We must here remark
+<span id="fn_15"></span>[286:1](pjc63.htm#fr_15.md) We must here remark
 that, in the four years during which Sister Emmerich had her visions,
 she described everything that had happened to the holy places from the
 earliest times down to our own. More than once she beheld them profaned
@@ -164,4 +164,4 @@ the church of Jerusalem.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter L. The Descent from the Cross](pjc64)
+[Next: Chapter L. The Descent from the Cross](pjc64.md)

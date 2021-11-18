@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](eci04)  [Next](eci06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](eci04)  [Next](eci06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ethnography of the Cahuilla Indians*, by A. L. Kroeber, \[1908\], at
 Intangible Textual Heritage
 
@@ -51,12 +51,12 @@ feet in length, fairly well shaped, and quite slender. A similar wooden
 mesquite mortar is used by the Mohave, though block, cavity, and pestle
 are shorter than among the Cahuilla.
 
-The stone mortar with basketry rim ([Pl. 15](eci12.htm#img_pl15)) is
+The stone mortar with basketry rim ([Pl. 15](eci12.htm#img_pl15).md) is
 used in the region where mesquite is unimportant or wanting. The block
 or boulder of stone is large compared with the size of the rather
 shallow cavity. The pestle used with this mortar ([Pl.
-8](eci12.htm#img_pl08), left) is naturally much shorter than the pestle
-accompanying the deep mortar of the desert ([Pl. 8](eci12.htm#img_pl08),
+8](eci12.htm#img_pl08), left.md) is naturally much shorter than the pestle
+accompanying the deep mortar of the desert ([Pl. 8](eci12.htm#img_pl08.md),
 right) . It is also much more rudely shaped. In most cases it appears to
 be only a convenient cobble or boulder, one end of which has been
 dressed to fit the surface of the mortar cavity.
@@ -71,7 +71,7 @@ Associated with the rough pestle among the Yokuts and Miwok, is the
 bedrock mortar, consisting of a hole in an exposed surface of granite.
 Most frequently a number of these holes, varying in depth, are found
 close together. Such assemblages, which have been a number of times
-described and illustrated, <span id="fr_19"></span>[17](#fn_18) are a
+described and illustrated, <span id="fr_19"></span>[17](#fn_18.md) are a
 conspicuous feature of past and present native life in the Sierra
 region. The basket mortar is unknown among these tribes, but is used by
 all the
@@ -140,10 +140,10 @@ culture between the San Joaquin valley and Southern California.
 
 ### Footnotes
 
-<span id="fn_18"></span>[52:17](eci05.htm#fr_19) Holmes, Anthropological
+<span id="fn_18"></span>[52:17](eci05.htm#fr_19.md) Holmes, Anthropological
 Studies in California, Rep. U. S. Nat. Mus. for 1900, 178, pl. 29, and
 Handbook of American Indians, Bull. 30 Bur. Am. Ethn., I, 944.
 
 ------------------------------------------------------------------------
 
-[Next: Pottery](eci06)
+[Next: Pottery](eci06.md)

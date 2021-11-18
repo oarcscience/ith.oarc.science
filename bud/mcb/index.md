@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,32 +26,32 @@ source material.
 
 ------------------------------------------------------------------------
 
-[Title Page](mcb00)  
-[Contents](mcb01)  
-[Preface](mcb02)  
+[Title Page](mcb00.md)  
+[Contents](mcb01.md)  
+[Preface](mcb02.md)  
 <span id="section_000"></span>
 
 ### Section One
 
-[Meister Eckhart and Buddhism](mcb03)  
-[II. The Basis of Buddhist Philosophy](mcb04)  
-[III. ''A Little Point'' and Satori](mcb05)  
-[IV. Living in the Light of Eternity](mcb06)  
+[Meister Eckhart and Buddhism](mcb03.md)  
+[II. The Basis of Buddhist Philosophy](mcb04.md)  
+[III. ''A Little Point'' and Satori](mcb05.md)  
+[IV. Living in the Light of Eternity](mcb06.md)  
 <span id="section_001"></span>
 
 ### Appendices to Part I
 
-[V. Transmigration](mcb07)  
-[VI. Crucifixion and Enlightenment](mcb08)  
+[V. Transmigration](mcb07.md)  
+[VI. Crucifixion and Enlightenment](mcb08.md)  
 <span id="section_002"></span>
 
 ### Section Two
 
-[VII. Kono-mama (''I Am That I Am'')](mcb09)  
+[VII. Kono-mama (''I Am That I Am'')](mcb09.md)  
 <span id="section_003"></span>
 
 ### Appendices to Part II
 
-[VIII. Notes on ''Namu-amida-butsu''](mcb10)  
-[IX. Rennyo's Letter](mcb11)  
-[X. From Saichi's Journals](mcb12)  
+[VIII. Notes on ''Namu-amida-butsu''](mcb10.md)  
+[IX. Rennyo's Letter](mcb11.md)  
+[X. From Saichi's Journals](mcb12.md)  

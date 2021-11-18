@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som15) 
-[Next](som17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som15.md) 
+[Next](som17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ suffers and is sick. The answer to this is the same answer which can be
 given, philosophically, to the whole problem of evil--that man is an
 individual and does with himself what he wills. The Scriptures say, "God
 hath made man upright; but they have sought out many inventions." <span
-id="fr_50"></span>[51](#fn_50) Individuality cannot be automatically
+id="fr_50"></span>[51](#fn_50.md) Individuality cannot be automatically
 produced but must be spontaneous. It could not be real individuality
 unless it had the ability to think as it chose; and it could not be
 individuality unless its ability to think as it chose were backed by a
@@ -70,7 +70,7 @@ held in the Mind of the Universe as an already accomplished fact, but
 man is subject to the law of his own individuality.
 
 Let us turn to the Law, and find what It says, in [Chart No.
-III](som15.htm#img_chart03), viz., that man is conscious mind or spirit;
+III](som15.htm#img_chart03.md), viz., that man is conscious mind or spirit;
 this stands for his objective faculty. The objective mind of man is his
 recognition of life in a conscious state; it is the only attribute of
 man that is volitional, or self-choosing; consequently, it is the
@@ -947,7 +947,7 @@ a reality.
 **SEEING PERFECTION**
 
 When Jesus said to the man, "Stretch forth thine hand," <span
-id="fr_51"></span>[52](#fn_51) He undoubtedly saw a perfect hand. Did he
+id="fr_51"></span>[52](#fn_51.md) He undoubtedly saw a perfect hand. Did he
 see the without
 
 <span id="page_160">p. 160</span>
@@ -1050,7 +1050,7 @@ states. The patient must be receptive to the Truth, and then the Truth
 will heal him. The practitioner is dealing with Universal Law, backed by
 Omnipotent Power, which is Divine Principle. This is what Jesus meant
 when He said: "Ye shall know the Truth and the Truth shall make you
-free." <span id="fr_52"></span>[53](#fn_52)
+free." <span id="fr_52"></span>[53](#fn_52.md)
 
 Every time we think, we are thinking into a receptive, plastic
 Substance, which receives the impress of our thought. When we stop to
@@ -1177,10 +1177,10 @@ is supposed to do. And it must know that it is continuous and will
 operate until it does all that it is supposed to do.
 
 Jesus said: "Heaven and earth shall pass away: but my words shall not
-pass away." <span id="fr_53"></span>[54](#fn_53) Isaiah understood
+pass away." <span id="fr_53"></span>[54](#fn_53.md) Isaiah understood
 something of this when he said: "So shall my word be that goeth forth
 out of my mouth: it shall not return unto me void." <span
-id="fr_54"></span>[55](#fn_54)
+id="fr_54"></span>[55](#fn_54.md)
 
 <span id="page_166">p. 166</span>
 
@@ -1236,7 +1236,7 @@ first eliminate all doubt and fear from your own thought. Realize that
 you are a Divine Idea and that your word is the law unto the thing unto
 which it is spoken. This is what gave Jesus his power; "For he taught
 them as one having authority, and not as the scribes." <span
-id="fr_55"></span>[56](#fn_55)
+id="fr_55"></span>[56](#fn_55.md)
 
 **REMOVE DOUBT**
 
@@ -1330,7 +1330,7 @@ It is probable that when Jesus forgave the man his sins, He realized
 that the man had a complex of condemnation within himself. The sense of
 condemnation which the race holds about itself weights it down, and it
 must be removed. This explains why Jesus said: "Thy sins be forgiven
-thee." <span id="fr_56"></span>[57](#fn_56) It is feeling that hurts.
+thee." <span id="fr_56"></span>[57](#fn_56.md) It is feeling that hurts.
 The thinking man thinks things out, resolves everything into its normal
 parts and so avoids complexes. It has been said: "Life is a comedy to
 him who thinks, a tragedy to him who feels."
@@ -1409,20 +1409,20 @@ Cady; "Primary Lessons," Militz; "Outwitting Our Nerves," Jackson.
 
 ### Footnotes
 
-<span id="fn_50"></span>[137:51](som16.htm#fr_50) Eccl. 7:29.
+<span id="fn_50"></span>[137:51](som16.htm#fr_50.md) Eccl. 7:29.
 
-<span id="fn_51"></span>[159:52](som16.htm#fr_51) Matt. 12:13.
+<span id="fn_51"></span>[159:52](som16.htm#fr_51.md) Matt. 12:13.
 
-<span id="fn_52"></span>[162:53](som16.htm#fr_52) John 8:52.
+<span id="fn_52"></span>[162:53](som16.htm#fr_52.md) John 8:52.
 
-<span id="fn_53"></span>[165:54](som16.htm#fr_53) Luke 21:33.
+<span id="fn_53"></span>[165:54](som16.htm#fr_53.md) Luke 21:33.
 
-<span id="fn_54"></span>[165:55](som16.htm#fr_54) Isa. 55:11.
+<span id="fn_54"></span>[165:55](som16.htm#fr_54.md) Isa. 55:11.
 
-<span id="fn_55"></span>[167:56](som16.htm#fr_55) Matt 7:29.
+<span id="fn_55"></span>[167:56](som16.htm#fr_55.md) Matt 7:29.
 
-<span id="fn_56"></span>[169:57](som16.htm#fr_56) Matt. 9:2.
+<span id="fn_56"></span>[169:57](som16.htm#fr_56.md) Matt. 9:2.
 
 ------------------------------------------------------------------------
 
-[Next: Recapitulation](som17)
+[Next: Recapitulation](som17.md)

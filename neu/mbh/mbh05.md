@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh04)  [Next](mbh06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh04)  [Next](mbh06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -35,7 +35,7 @@ the sea, and was
 <span id="page_21">p. 21</span>
 
 taken from the water by Periböa, the wife of King Polybus, as she was
-rinsing her clothes by the shore. <span id="fr_41"></span>[1](#fn_41)
+rinsing her clothes by the shore. <span id="fr_41"></span>[1](#fn_41.md)
 Polybus brought him up as his own son.
 
 Oedipus, on hearing accidentally that he is a foundling, asks the
@@ -78,10 +78,10 @@ prefers the life of a knight, is victorious in combats, and in reward is
 given the hand of the princess, his mother. After the discovery of the
 incest, Gregory does penance for seventeen years on a rock in the midst
 of the sea, and he is finally made the Pope, at the command of
-God. <span id="fr_42"></span>[1](#fn_42)
+God. <span id="fr_42"></span>[1](#fn_42.md)
 
 A very similar legend is the Persian epic of King Darab, told by the
-poet Firdausi. <span id="fr_43"></span>[2](#fn_43) The last Kiranian
+poet Firdausi. <span id="fr_43"></span>[2](#fn_43.md) The last Kiranian
 Behmen nominated as his successor his daughter and simultaneous wife
 Humâi; his son Sâsân was grieved and withdrew into solitude. A short
 time after the death of her husband, Humâi gave birth to a son, whom she
@@ -102,19 +102,19 @@ her successor.
 
 ### Footnotes
 
-<span id="fn_41"></span>[21:1](mbh05.htm#fr_41) According to Bethe
+<span id="fn_41"></span>[21:1](mbh05.htm#fr_41.md) According to Bethe
 (*Thebanische Heldenlieder*), the exposure on the waters was the
 original rendering. According to other versions, the boy is found and
 raised by horseherds; according to a later myth, by a countryman,
 Melibios.
 
-<span id="fn_42"></span>[22:1](mbh05.htm#fr_42) Cholevicas: *History of
+<span id="fn_42"></span>[22:1](mbh05.htm#fr_42.md) Cholevicas: *History of
 German Poetry According to the Antique Elements*.
 
-<span id="fn_43"></span>[22:2](mbh05.htm#fr_43) Firdausi: *Shah Namah*
+<span id="fn_43"></span>[22:2](mbh05.htm#fr_43.md) Firdausi: *Shah Namah*
 ("The Book of Kings"), as rendered by F. Spiegel: *Eranische
 Alterumskunde*, Vol. II, p. 584.
 
 ------------------------------------------------------------------------
 
-[Next: Paris](mbh06)
+[Next: Paris](mbh06.md)

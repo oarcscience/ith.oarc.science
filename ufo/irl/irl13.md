@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl12)  [Next](irl14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl12)  [Next](irl14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -102,7 +102,7 @@ those devils—and when we do you may get those hands you're so proud of,
 singed. Carry on!"
 
 I settled myself in my seat before the universal view screen <span
-id="fr_37"></span>[1](#fn_37), thinking, "There's nothing to do now
+id="fr_37"></span>[1](#fn_37.md), thinking, "There's nothing to do now
 until we catch sight of whatever is making this trail." I, myself, was
 as impatient for action as Tyron, but in the long years since I left the
 culture farms of Mother Mu, I had learned to restrain my desire for
@@ -150,14 +150,14 @@ the war vessel, Darkome—the crew alerted for battle action—its
 glistening hull plunging toward the general area of the planetary system
 that gave me birth long years ago.
 
-Once his defection <span id="fr_38"></span>[2](#fn_38) had been fully
+Once his defection <span id="fr_38"></span>[2](#fn_38.md) had been fully
 exposed, Sathanas escaped our avenging fleet by the barest seconds. The
 ships in his fleet—several hundreds in numbers—had blasted
 
 <span id="page_114">p. 114</span>
 
 up in the very face of our fleet—jockeyed into position in the center of
-the 'zone of weightlessness' <span id="fr_39"></span>[3](#fn_39) between
+the 'zone of weightlessness' <span id="fr_39"></span>[3](#fn_39.md) between
 the planet Satana and her satellite Feon—then disappeared in that fierce
 burst of full acceleration into light speeds that is only possible in
 the precise center of such zones of weightlessness. To make the maneuver
@@ -216,7 +216,7 @@ heating. Where would the chase lead?
 
 ### Footnotes
 
-<span id="fn_37"></span>[112:1](irl13.htm#fr_37) This "universal viewer"
+<span id="fn_37"></span>[112:1](irl13.htm#fr_37.md) This "universal viewer"
 is a device which assembles and coordinates the images resulting from a
 large number of penetray beams and their accompanying televisor—or
 direct-view screens. These beams point to every direction in space and
@@ -233,12 +233,12 @@ space in every direction simultaneously—and could at the same time use
 his exterior vision for other purposes, to write a report—or a letter
 home.—Author.
 
-<span id="fn_38"></span>[113:2](irl13.htm#fr_38) DEFECTION: Note the
+<span id="fn_38"></span>[113:2](irl13.htm#fr_38.md) DEFECTION: Note the
 persistence of this word—WITH the meaning INTACT—"dis-integrant energy
 infection," is shortened to DEfection, and STILL means—"to fall into
 evil; err on a job."—Author.
 
-<span id="fn_39"></span>[114:3](irl13.htm#fr_39) ZONE OF WEIGHTLESSNESS:
+<span id="fn_39"></span>[114:3](irl13.htm#fr_39.md) ZONE OF WEIGHTLESSNESS:
 In a place where no thing has weight, infinite acceleration can be
 achieved with every slight impetus—no inertia drag would crush the
 occupants. The acceleration would have no effect onthe bodies of the
@@ -250,4 +250,4 @@ points for all long, fast voyages.—Author.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Whence Came Sathanas?](irl14)
+[Next: Chapter II. Whence Came Sathanas?](irl14.md)

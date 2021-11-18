@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda17)  [Next](nda19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda17)  [Next](nda19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -59,9 +59,9 @@ his immediate followers.
 
 Thorvald hight (name) a man, a son of Osvald, a son of
 Ulf-Oxne-Thorersson. Thorvald and his son Erik the Red removed from
-Jæder <span id="fr_17"></span>[1](#fn_17) to Iceland, in consequence of
+Jæder <span id="fr_17"></span>[1](#fn_17.md) to Iceland, in consequence of
 murder. At that time was Iceland colonized wide around. <span
-id="fr_18"></span>[2](#fn_18) They lived at Drange on Hornstand; there
+id="fr_18"></span>[2](#fn_18.md) They lived at Drange on Hornstand; there
 died Thorvald. Erik then married Thorhild, the daughter of Jærunda and
 Thorbjorg Knarrarbringa, who afterwards married Thorbjorn of Haukadal.
 
@@ -84,7 +84,7 @@ he was ready, Styr and the others followed him out past the islands.
 that he intended to go in search of the land, which Ulf Krages son
 Gunnbjorn saw, when he was driven out to the westward in the sea, the
 time when he found the rocks of Gunnbjorn. <span
-id="fr_19"></span>[1](#fn_19) He said he would come back to his friends
+id="fr_19"></span>[1](#fn_19.md) He said he would come back to his friends
 if he found the land. Erik sailed out from Snæfellsjokul; he found land,
 and came in from the sea to the place which he called Midjokul; it is
 now hight Blaserkr. He then went southwards to see whether it was there
@@ -225,7 +225,7 @@ day of his
 
 <span id="page_198">p. 198</span>
 
-death <span id="fr_20"></span>[1](#fn_20). Besides, how different were
+death <span id="fr_20"></span>[1](#fn_20.md). Besides, how different were
 the circumstances under which the two voyages were made? The Northmen,
 without compass or quadrant, without any of the advantages of science,
 geographical knowledge, personal experience, or previous
@@ -260,7 +260,7 @@ Porto Santo from the west: added to this, was the fact of huge pine
 trees, of unknown species, having been wafted by westerly winds to the
 Azores, and human bodies of wondrous form and feature cast upon the
 island of Flores. Nor should it be forgotten that Columbus visited
-Iceland in 1477, <span id="fr_21"></span>[1](#fn_21) when, having had
+Iceland in 1477, <span id="fr_21"></span>[1](#fn_21.md) when, having had
 access to the archives of the island, and ample opportunity of
 conversing with the learned there, through the medium of the Latin
 language, he might easily have obtained a complete knowledge of the
@@ -273,9 +273,9 @@ will appear from the following narratives.
 
 ### Footnotes
 
-<span id="fn_17"></span>[192:1](nda18.htm#fr_17) S. W. coast of Norway.
+<span id="fn_17"></span>[192:1](nda18.htm#fr_17.md) S. W. coast of Norway.
 
-<span id="fn_18"></span>[192:2](nda18.htm#fr_18) Iceland was colonized
+<span id="fn_18"></span>[192:2](nda18.htm#fr_18.md) Iceland was colonized
 by Ingolf, a Norwegian, in 874. The discovery of the island has been
 erroneously given to Nadodd in 862, but Finn Magnusen and Rafn have
 shewn that it had been previously visited by Gardar, a Dane of Swedish
@@ -286,12 +286,12 @@ Norwegian and Swedo-Dane must give place to the Irish monks, who, it
 will be shewn, visited and resided in Iceland *sixty-five* years before
 the discovery of Gardar.
 
-<span id="fn_19"></span>[193:1](nda18.htm#fr_19) Gunnbjarnasker, stated
+<span id="fn_19"></span>[193:1](nda18.htm#fr_19.md) Gunnbjarnasker, stated
 by Bjorn Johnson to have been about midway between Iceland and
 Greenland, but now concealed, or rendered inaccessible by the descent of
 Arctic ice.
 
-<span id="fn_20"></span>[198:1](nda18.htm#fr_20) "With all the visionary
+<span id="fn_20"></span>[198:1](nda18.htm#fr_20.md) "With all the visionary
 fervour of his imagination, its fondest dreams fell short of reality. He
 died in ignorance of the real grandeur of his discovery. Until his last
 breath, he entertained the idea that he had merely opened a new way to
@@ -309,7 +309,7 @@ midst of the Garden of Eden."--Ib. p. 219.
 whence, according to Josephus, the gold had been procured for the
 building of the Temple of Jerusalem. "--Ib. p. 291.
 
-<span id="fn_21"></span>[199:1](nda18.htm#fr_21) "While the design of
+<span id="fn_21"></span>[199:1](nda18.htm#fr_21.md) "While the design of
 attempting the discovery in the west was maturing in the mind of
 Columbus, he made a voyage to the northern seas, to the island of Thule,
 to which the English navigators, particularly those of Bristol, were
@@ -321,4 +321,4 @@ generally supposed to have been Iceland."
 
 ------------------------------------------------------------------------
 
-[Next: Voyage of Leif Erikson](nda19)
+[Next: Voyage of Leif Erikson](nda19.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som21) 
-[Next](som23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som21.md) 
+[Next](som23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 ### Lesson Five: The Perfect Whole
 
-[Chart No. V](#img_chart05) represents the Triune Unity. The other
+[Chart No. V](#img_chart05.md) represents the Triune Unity. The other
 charts were divided into Spirit, Soul and Body, symbolizing the
 Conscious part of Existence; the Law through which It operates; and the
 result of the operation. But those lines were entirely arbitrary. No
@@ -48,7 +48,7 @@ The big circle represents the Universal, within which is the individual;
 the One Person within Whom are all people. There is really but One
 Person in the Universe; but within this One Person all people live, "for
 in Him we live, and move, and have our being." <span
-id="fr_85"></span>[86](#fn_85) It is the Source and center of all Life,
+id="fr_85"></span>[86](#fn_85.md) It is the Source and center of all Life,
 Power, Action, Truth, Love, Mind, Spirit, the Ever and the All. It is,
 of course, God.
 
@@ -57,7 +57,7 @@ of course, God.
 <span id="img_chart05"></span>
 
 [![Lesson Five: Metaphysical Chart No. V.](tn/chart05.jpg)  
-Click to enlarge](img/chart05.jpg)  
+Click to enlarge](img/chart05.jpg.md)  
 Lesson Five: Metaphysical Chart No. V.  
 
 This is the Mystic's chart and shows how the Universal becomes the
@@ -86,7 +86,7 @@ or God.
 Man is the Personification of the Infinite Life; and so we place, just
 above this point and on the inside of it, "The Son"; and just above this
 (with no line to divide them) are written the words, "Our Father which
-art in Heaven," <span id="fr_86"></span>[87](#fn_86) taken from the
+art in Heaven," <span id="fr_86"></span>[87](#fn_86.md) taken from the
 Lord's Prayer. There is no difference between God, the Absolute, which
 is Our Father in Heaven, and the Son, so far as actual Being is
 concerned. The Son is simply a point where God recognizes Himself as
@@ -127,7 +127,7 @@ That person has the greatest power who the most completely recognizes
 himself to be one with this Infinite Mind. That is why Jesus said: "I
 speak not of myself" (it is not this individualized point); "but the
 Father that dwelleth in Me" (that is, God, our Father, Which is in
-Heaven); "He doeth the works." <span id="fr_87"></span>[88](#fn_87)
+Heaven); "He doeth the works." <span id="fr_87"></span>[88](#fn_87.md)
 
 The evolution of man, which is the unfoldment of Spirit through his
 personality, will be more complete when his objective and subjective
@@ -151,7 +151,7 @@ stopped looking for the Spirit, because we have found It; It is what you
 are and It is what I am; we could not be anything else if we tried. The
 thing that we look with is the thing that we have been looking for. That
 is why it is written: "I have said, Ye are gods; and all of you are
-children of the most High." <span id="fr_88"></span>[89](#fn_88) We have
+children of the most High." <span id="fr_88"></span>[89](#fn_88.md) We have
 stopped looking for the Law. We have found It. In the Universe we call
 It the Universal Subjectivity or Soul; in our own experience we call
 
@@ -175,7 +175,7 @@ helpful; but the evolution of the individual, the unfoldment of
 personality, the enlightenment of the Soul, the illumination of Spirit,
 can come only to the degree that the individual himself purposes to let
 Life operate through him. "Let this Mind be in you which was also in
-Christ Jesus." <span id="fr_89"></span>[90](#fn_89) This is the Mind of
+Christ Jesus." <span id="fr_89"></span>[90](#fn_89.md) This is the Mind of
 God,--the only Mind,--the Supreme Intelligence of the Universe.
 
 **THE ANSWER IS IN MAN**
@@ -185,9 +185,9 @@ and Spirit is an Indivisible Whole. The solution to every problem is
 within man; the healing of all disease is within man; the forgiveness of
 all sin is within man; the raising of the dead is within man; Heaven is
 within man. That is why Jesus prayed to this indwelling "I am" and said:
-"Our Father Which art in Heaven." <span id="fr_90"></span>[91](#fn_90)
+"Our Father Which art in Heaven." <span id="fr_90"></span>[91](#fn_90.md)
 He also said: "The Kingdom of God is within you." <span
-id="fr_91"></span>[92](#fn_91)
+id="fr_91"></span>[92](#fn_91.md)
 
 Each of us, then, represents the Whole. How should we feel toward the
 Whole? In the old order, we thought of the Whole as a sort of mandatory
@@ -216,7 +216,7 @@ demonstrate instantaneously.
 An evolved soul is always a worshiper of God. He worships God in
 everything; for God *is* in everything. God not only is *in everything,
 but He is more than everything He is in.* "Ye are the light of the
-world"; <span id="fr_92"></span>[93](#fn_92)--that is, God in us. All
+world"; <span id="fr_92"></span>[93](#fn_92.md)--that is, God in us. All
 that we are is God; yet God is more than all we are.
 
 The nearer consciousness gets to the Truth, the more Cosmic sweep it
@@ -253,7 +253,7 @@ Changelessness; God as the Big Circle, and man as the little circle. Man
 is in God and God is in man; just as a drop of water is in the ocean,
 while the ocean is in the drop of water. This is the recognition Jesus
 had when He said: "I and my Father are One." <span
-id="fr_93"></span>[94](#fn_93) There is a Perfect Union; and to the
+id="fr_93"></span>[94](#fn_93.md) There is a Perfect Union; and to the
 degree that we are conscious of this Union we incorporate this
 consciousness in our word, and our word has just as much power as we put
 in it, no more and no less.
@@ -338,7 +338,7 @@ the only Father;--not the only begotten Son of God. Christ means the
 Universal Idea of Sonship, of which each is a Member. That is why we are
 spoken of as Members of that One Body; and why we are told to have that
 Mind in us "which was also in Christ Jesus." <span
-id="fr_94"></span>[95](#fn_94) Each partakes of the Christ Nature to the
+id="fr_94"></span>[95](#fn_94.md) Each partakes of the Christ Nature to the
 degree that the Christ is revealed through him, and to that degree he
 becomes the Christ. We should turn to that Living Presence within, Which
 is the Father in Heaven, recognize It as the One and Only Power in the
@@ -383,7 +383,7 @@ indwelling Spirit within me, Almighty God within me, Perfect Peace
 within me, Complete Satisfaction within me, Real Substance within me;
 that which is the Truth within me." "I am the Truth," Jesus said. He
 said: "I am the way; I am the Life; no man cometh unto the Father but by
-Me." <span id="fr_95"></span>[96](#fn_95) How true it is! We cannot come
+Me." <span id="fr_95"></span>[96](#fn_95.md) How true it is! We cannot come
 unto the Father Which art in Heaven except through our own nature.
 
 Right here, through our own nature, is the gateway and the path that
@@ -494,8 +494,8 @@ manifests, declaring that it is.
 This great teaching plainly shows the way to liberty and freedom. It is
 a pathway continuously unfolding from a Limitless Source to a Limitless
 Source. "Arise, shine, for thy light is come." <span
-id="fr_96"></span>[97](#fn_96) "I am that I am." <span
-id="fr_97"></span>[98](#fn_97)
+id="fr_96"></span>[97](#fn_96.md) "I am that I am." <span
+id="fr_97"></span>[98](#fn_97.md)
 
  
 
@@ -508,32 +508,32 @@ Individual," T. Troward; "Bible Mystery and Meaning," T. Troward;
 
 ### Footnotes
 
-<span id="fn_85"></span>[216:86](som22.htm#fr_85) Acts. 17:28.
+<span id="fn_85"></span>[216:86](som22.htm#fr_85.md) Acts. 17:28.
 
-<span id="fn_86"></span>[218:87](som22.htm#fr_86) Luke 11:2.
+<span id="fn_86"></span>[218:87](som22.htm#fr_86.md) Luke 11:2.
 
-<span id="fn_87"></span>[219:88](som22.htm#fr_87) John 14:10.
+<span id="fn_87"></span>[219:88](som22.htm#fr_87.md) John 14:10.
 
-<span id="fn_88"></span>[219:89](som22.htm#fr_88) Ps. 82:6.
+<span id="fn_88"></span>[219:89](som22.htm#fr_88.md) Ps. 82:6.
 
-<span id="fn_89"></span>[220:90](som22.htm#fr_89) Phil. 2:5.
+<span id="fn_89"></span>[220:90](som22.htm#fr_89.md) Phil. 2:5.
 
-<span id="fn_90"></span>[220:91](som22.htm#fr_90) Luke 11:2.
+<span id="fn_90"></span>[220:91](som22.htm#fr_90.md) Luke 11:2.
 
-<span id="fn_91"></span>[220:92](som22.htm#fr_91) Luke 17:21.
+<span id="fn_91"></span>[220:92](som22.htm#fr_91.md) Luke 17:21.
 
-<span id="fn_92"></span>[221:93](som22.htm#fr_92) Matt. 5:14.
+<span id="fn_92"></span>[221:93](som22.htm#fr_92.md) Matt. 5:14.
 
-<span id="fn_93"></span>[222:94](som22.htm#fr_93) John 10:30.
+<span id="fn_93"></span>[222:94](som22.htm#fr_93.md) John 10:30.
 
-<span id="fn_94"></span>[224:95](som22.htm#fr_94) Phil 2:5.
+<span id="fn_94"></span>[224:95](som22.htm#fr_94.md) Phil 2:5.
 
-<span id="fn_95"></span>[225:96](som22.htm#fr_95) John 14:6.
+<span id="fn_95"></span>[225:96](som22.htm#fr_95.md) John 14:6.
 
-<span id="fn_96"></span>[228:97](som22.htm#fr_96) Isa. 60:1.
+<span id="fn_96"></span>[228:97](som22.htm#fr_96.md) Isa. 60:1.
 
-<span id="fn_97"></span>[228:98](som22.htm#fr_97) Exodus 3:14.
+<span id="fn_97"></span>[228:98](som22.htm#fr_97.md) Exodus 3:14.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](som23)
+[Next: Introduction](som23.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mzb03)  [Next](mzb05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mzb03)  [Next](mzb05.md) 
 
 ------------------------------------------------------------------------
 
@@ -2402,4 +2402,4 @@ Behold the lilies of the field and its fresh sweet-scented verdure.
 
 ------------------------------------------------------------------------
 
-[Next: V. From the Japanese Zen Masters](mzb05)
+[Next: V. From the Japanese Zen Masters](mzb05.md)

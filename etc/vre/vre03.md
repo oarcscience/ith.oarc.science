@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre02)  [Next](vre04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre02)  [Next](vre04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -346,7 +346,7 @@ puberty and adolescence. The macerations of saints, and the devotion of
 missionaries, are only instances of the parental instinct of
 self-sacrifice gone astray. For the hysterical nun, starving for natural
 life, Christ is but an imaginary substitute for a more earthly object of
-affection. And the like. <span id="fr_0"></span>[1](#fn_0)
+affection. And the like. <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_13">p. 13</span>
 
@@ -382,7 +382,7 @@ action of various glands which physiology will yet discover.
 
 And medical materialism then thinks that the spiritual authority of all
 such personages is successfully undermined. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 Let us ourselves look at the matter in the largest possible way. Modern
 psychology, finding definite psycho-physical connections to hold good,
@@ -492,7 +492,7 @@ sufficiently illustrious and recorded with sufficient fullness to be a
 subject of profitable study, he inevitably falls into the morbid
 category. . . . And it is worthy of remark that, as a rule, the greater
 the genius, the greater the unsoundness." <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 Now do these authors, after having succeeded in establishing to their
 own satisfaction that the works of genius are fruits of disease,
@@ -508,7 +508,7 @@ consistency, medical materialism ought to be only too glad to draw. One
 disciple of the school, indeed, has striven to impugn the value of works
 of genius in a wholesale way (such works of contemporary art, namely, as
 he himself is unable to enjoy, and they are many) by using medical
-arguments. <span id="fr_3"></span>[2](#fn_3) But for the most part the
+arguments. <span id="fr_3"></span>[2](#fn_3.md) But for the most part the
 masterpieces are left unchallenged; and the medical line of attack
 either confines itself to such secular productions as everyone admits to
 be intrinsically eccentric, or else addresses itself exclusively to
@@ -582,7 +582,7 @@ defective—if indeed he were hypocrite, adulterer, eccentric, or lunatic.
 . . . Home we come again, then, to the old and last resort of
 certitude—namely the common assent of mankind, or of the competent by
 instruction and training among mankind." <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 <span id="page_21">p. 21</span>
 
@@ -642,7 +642,7 @@ expedient so contrary to his own interests as that of uprooting my
 vices, and filling me with masculine courage and other virtues instead,
 for I saw clearly that a single one of these visions was enough to
 enrich me with all that wealth." <span
-id="fr_5"></span>[1](#fn_5)</span>
+id="fr_5"></span>[1](#fn_5.md)</span>
 
 I fear I may have made a longer excursus than was necessary, and that
 fewer words would have dispelled the uneasiness which may have arisen
@@ -694,7 +694,7 @@ individual, make it more probable that
 
 he will make his mark and affect his age, than if his temperament were
 less neurotic. There is of course no special affinity between crankiness
-as such and superior intellect, <span id="fr_6"></span>[1](#fn_6) for
+as such and superior intellect, <span id="fr_6"></span>[1](#fn_6.md) for
 most psychopaths have feeble intellects, and superior intellects more
 commonly have normal nervous systems. But the psychopathic temperament,
 whatever be the intellect with which it finds itself paired, often
@@ -732,7 +732,7 @@ To pass now to religious phenomena, take the melancholy which, as we
 shall see, constitutes an essential moment in every complete religious
 evolution. Take the happiness which achieved religious belief confers.
 Take the trancelike states of insight into truth which all religious
-mystics report. <span id="fr_7"></span>[1](#fn_7) These are each and all
+mystics report. <span id="fr_7"></span>[1](#fn_7.md) These are each and all
 of them special cases of kinds of human experience of much wider scope.
 Religious melancholy, whatever peculiarities it may have *qua*
 religious, is at any rate melancholy. Religious happiness is happiness.
@@ -787,7 +787,7 @@ in a wider context than has been usual in university courses.
 
 ### Footnotes
 
-<span id="fn_0"></span>[12:1](vre03.htm#fr_0) As with many ideas that
+<span id="fn_0"></span>[12:1](vre03.htm#fr_0.md) As with many ideas that
 float in the air of one's time, this notion shrinks from dogmatic
 general statement and expresses itself only partially and by innuendo.
 It seems to me that few conceptions are less instructive than this
@@ -877,33 +877,33 @@ on the sexual apparatus, and the whole theory has lost its point in
 evaporating into a vague general assertion of the dependence, *somehow*,
 of the mind upon the body.
 
-<span id="fn_1"></span>[15:1](vre03.htm#fr_1) For a first-rate example
+<span id="fn_1"></span>[15:1](vre03.htm#fr_1.md) For a first-rate example
 of medical-materialist reasoning, see an article on "les Variétés du
 Type dévot," by Dr. Binet-Sanglé, in the Revue de l’Hypnotisme, xiv.
 161.
 
-<span id="fn_2"></span>[18:1](vre03.htm#fr_2) <span class="smallcaps">J.
+<span id="fn_2"></span>[18:1](vre03.htm#fr_2.md) <span class="smallcaps">J.
 F. Nisbet</span>: The Insanity of Genius, 3d ed., London, 1893, pp.
 xvi., xxiv.
 
-<span id="fn_3"></span>[18:2](vre03.htm#fr_3) <span
+<span id="fn_3"></span>[18:2](vre03.htm#fr_3.md) <span
 class="smallcaps">Max Nordau</span>, in his bulky book entitled
 *Degeneration*.
 
-<span id="fn_4"></span>[20:1](vre03.htm#fr_4) <span class="smallcaps">H.
+<span id="fn_4"></span>[20:1](vre03.htm#fr_4.md) <span class="smallcaps">H.
 Maudsley</span>: Natural Causes and Supernatural Seemings, 1886, pp.
 256, 257.
 
-<span id="fn_5"></span>[22:1](vre03.htm#fr_5) Autobiography, ch. xxviii.
+<span id="fn_5"></span>[22:1](vre03.htm#fr_5.md) Autobiography, ch. xxviii.
 
-<span id="fn_6"></span>[24:1](vre03.htm#fr_6) Superior intellect, as
+<span id="fn_6"></span>[24:1](vre03.htm#fr_6.md) Superior intellect, as
 Professor Bain has admirably shown, seems to consist in nothing so much
 as in a large development of the faculty of association by similarity.
 
-<span id="fn_7"></span>[25:1](vre03.htm#fr_7) I may refer to a criticism
+<span id="fn_7"></span>[25:1](vre03.htm#fr_7.md) I may refer to a criticism
 of the insanity theory of genius in the Psychological Review, ii. 287
 (1895).
 
 ------------------------------------------------------------------------
 
-[Next: Lecture II. Circumscription of the Topic](vre04)
+[Next: Lecture II. Circumscription of the Topic](vre04.md)

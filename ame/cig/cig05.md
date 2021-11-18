@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](cig04)  [Next](cig06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](cig04)  [Next](cig06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Coffee in the Gourd*, ed. J. Frank Dobie \[1923\], at Intangible
 Textual Heritage
 
@@ -111,6 +111,6 @@ But the ship was sunk, and the waves o'er-casting,
 ------------------------------------------------------------------------
 
 [Next: Human Foundation Sacrifices In Balkan Ballads, by Max Sylvius
-Handman](cig06)
+Handman](cig06.md)
 
 </div>

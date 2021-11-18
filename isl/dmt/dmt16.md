@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt15)  [Next](dmt17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt15)  [Next](dmt17.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ III\. CHRONOLOGICAL TABLE.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](dmt17)
+[Next: Contents](dmt17.md)

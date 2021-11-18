@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst003)  [Next](inst005) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst003)  [Next](inst005.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ Bonham Norton. 1599
 
 ------------------------------------------------------------------------
 
-[Next: THE ORIGINAL TRANSLATORS PREFACE.](inst005)
+[Next: THE ORIGINAL TRANSLATORS PREFACE.](inst005.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar79)  [Next](gar81) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar79)  [Next](gar81.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_h"></span> <span align="CENTER"> [![Plate
 H](tn/pl_h.jpg)  
-Click to enlarge](img/pl_h.jpg)  
+Click to enlarge](img/pl_h.jpg.md)  
 Plate H  
 </span>
 
@@ -89,10 +89,10 @@ Persian style.
 7\. The Baboon adoring a *Triangle*, Egyptian symbol of the Moon,
 elevated upon a column bearing an inscription. The fact that the
 Pythagoreans (who avowedly got their whole system from Egypt) symbolised
-Athene by the triangle, lends [strength](errata.htm#32) to the idea that
+Athene by the triangle, lends [strength](errata.htm#32.md) to the idea that
 the Attic goddess was in her origin merely the expression of the Lunar
 Power.
 
 ------------------------------------------------------------------------
 
-[Next: Plate J. Subjects Connected with the Mithraic Mysteries](gar81)
+[Next: Plate J. Subjects Connected with the Mithraic Mysteries](gar81.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb27)  [Next](refb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb27)  [Next](refb29.md) 
 
 </div>
 
@@ -256,6 +256,6 @@ lived happily ever afterwards.\[22\]
 
 ------------------------------------------------------------------------
 
-[Next: Rapunzel](refb29)
+[Next: Rapunzel](refb29.md)
 
 </div>

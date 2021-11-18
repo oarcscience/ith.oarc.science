@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc07)  [Next](motc09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc07)  [Next](motc09.md) 
 
 ------------------------------------------------------------------------
 
@@ -196,4 +196,4 @@ Have me, dear Pamphilos! But lean lightly.
 
 ------------------------------------------------------------------------
 
-[Next: The Lesbians](motc09)
+[Next: The Lesbians](motc09.md)

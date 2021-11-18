@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod32)  [Next](eod34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod32)  [Next](eod34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -26,7 +26,7 @@ The cowry and its surrogates were supposed to be potent to confer
 fertility on maidens; and it became the practice for growing girls to
 wear a girdle on which to suspend the shells as near as possible to the
 organ their magic was supposed to stimulate. Among many peoples <span
-id="fr_263"></span>[2](#fn_263) this girdle was discarded as soon as the
+id="fr_263"></span>[2](#fn_263.md) this girdle was discarded as soon as the
 girls reached maturity.
 
 This practice probably represents the beginning of the history of
@@ -34,7 +34,7 @@ clothing; but it had other far-reaching effects in the domain of belief.
 
 It has often been claimed that the feeling of modesty was not the reason
 for the invention of clothing, but that the clothes begat modesty. <span
-id="fr_264"></span>[3](#fn_264) This doctrine contains a certain element
+id="fr_264"></span>[3](#fn_264.md) This doctrine contains a certain element
 of truth, but is by no means the whole explanation. For true modesty is
 displayed by people who have never worn clothes.
 
@@ -47,7 +47,7 @@ danger to life, and (I) as a means of conferring fecundity on
 
 <span id="page_154">p. 154</span>
 
-girls <span id="fr_265"></span>[1](#fn_265) provided the circumstances
+girls <span id="fr_265"></span>[1](#fn_265.md) provided the circumstances
 which enabled men to discover that the sexual attractiveness of maidens,
 which in a state of nature was originally associated with modesty and
 coyness, was profoundly intensified by the artifices of clothing and
@@ -64,7 +64,7 @@ reputation of being able to *compel* love. When Ishtar removed her
 girdle in the under-world reproduction ceased in the world. The Teutonic
 Brunhild's great strength lay in her girdle. In fact magic virtues were
 conferred upon most goddesses in every part of the world by means of a
-cestus of some sort. <span id="fr_266"></span>[2](#fn_266) But the
+cestus of some sort. <span id="fr_266"></span>[2](#fn_266.md) But the
 outstanding
 
 <span id="page_155">p. 155</span>
@@ -80,7 +80,7 @@ or, as the Revised Version expresses it, "girdles". The girdle of
 fig-leaves, however, was originally a surrogate of the
 
 <span id="img_15500"></span> ![FIG. 4.TWO REPRESENTATIONS OF ASTARTE
-(QETESH).](img/15500.jpg)
+(QETESH).](img/15500.jpg.md)
 
 (*a*) The mother-goddess standing upon a lioness (which is her Sekhet
 form): she is wearing her girdle, and upon her head is the moon and the
@@ -111,9 +111,9 @@ In Greece and Italy, the sweet basil has a reputation for magical
 properties analogous to those of the cowry. Maidens collect the plant
 and wear bunches of it upon their body or upon their girdles; while
 married women fix basil upon their heads. <span
-id="fr_267"></span>[1](#fn_267) It is believed that the odour of the
+id="fr_267"></span>[1](#fn_267.md) It is believed that the odour of the
 plant will attract admirers: hence in Italy it is called *Bacia-nicola*,
-"Kiss me, Nicholas". <span id="fr_268"></span>[2](#fn_268)
+"Kiss me, Nicholas". <span id="fr_268"></span>[2](#fn_268.md)
 
 In Crete it is a sign of mourning presumably because its life-prolonging
 attributes, as a means of conferring continued existence to the dead,
@@ -126,17 +126,17 @@ Basil is come from Cæsarea".
 
 ### Footnotes
 
-<span id="fn_263"></span>[153:2](eod33.htm#fr_263) See Jackson, *op.
+<span id="fn_263"></span>[153:2](eod33.htm#fr_263.md) See Jackson, *op.
 cit.*, pp. 139 *et seq*.
 
-<span id="fn_264"></span>[153:3](eod33.htm#fr_264) For a discussion of
+<span id="fn_264"></span>[153:3](eod33.htm#fr_264.md) For a discussion of
 this subject see the chapter on "The Psychology of Modesty and
 Clothing," in William I. Thomas's "Sex and Society," Chicago, 1907; also
 S. Reinach, "Cults, Myths, and Religions," p. 177; and Paton, "The
 Pharmakoi and the Story of the Fall," *Revue Archéol.*, Série IV, T. IX,
 1907, p. 51.
 
-<span id="fn_265"></span>[154:1](eod33.htm#fr_265) It is important to
+<span id="fn_265"></span>[154:1](eod33.htm#fr_265.md) It is important to
 remember that shell-girdles were used by both sexes for general
 life-giving and luck-bringing purposes, in the funerary ritual of both
 sexes, in animating the dead or statues of the dead, to attain success
@@ -154,7 +154,7 @@ pregnant women to ensure safe delivery in child-birth. It was their
 wider employment by women that gives these shells their peculiar
 cultural significance.
 
-<span id="fn_266"></span>[154:2](eod33.htm#fr_266) Witness the
+<span id="fn_266"></span>[154:2](eod33.htm#fr_266.md) Witness the
 importance of the girdle in early Indian and American sculptures: in the
 literature of Egypt, Babylonia, Western Europe, and the Mediterranean
 area. For important Indian analogies and Egyptian parallels see Moret,
@@ -170,7 +170,7 @@ fragments we hear of Isis the great, who *fastened on the girdle* in
 Khemmis, when she brought her \[censer\] and burned incense before her
 son Horus".
 
-<span id="fn_267"></span>[156:1](eod33.htm#fr_267) This distinction
+<span id="fn_267"></span>[156:1](eod33.htm#fr_267.md) This distinction
 between the significance of the amulet when worn on the girdle and on
 the head (in the hair), or as a necklace or bracelet, is very
 widespread. On the girdle it *usually* has the significance of
@@ -179,9 +179,9 @@ to ward off danger to life, *i.e.* to give good luck. An interesting
 surrogate of Hathor's distinctive emblem is the necklace of golden
 apples worn by a priestess of Apollo (Rendel Harris, *op. cit.*, p. 42).
 
-<span id="fn_268"></span>[156:2](eod33.htm#fr_268) De Gubernatis,
+<span id="fn_268"></span>[156:2](eod33.htm#fr_268.md) De Gubernatis,
 "Mythologie des Plantes," Vol. II, p. 35.
 
 ------------------------------------------------------------------------
 
-[Next: Pearls](eod34)
+[Next: Pearls](eod34.md)

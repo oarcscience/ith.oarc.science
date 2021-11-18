@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod43)  [Next](eod45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod43)  [Next](eod45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -47,7 +47,7 @@ to<span id="img_22200"></span>
 
 |                                                                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Fig. 9.The Egyptian emblem for gold, the sign nub. It represents a collar from which golden amulets, probably representing cowries, are suspended.](img/22200.jpg) |
+| ![Fig. 9.The Egyptian emblem for gold, the sign nub. It represents a collar from which golden amulets, probably representing cowries, are suspended.](img/22200.jpg.md) |
 
 the early Egyptians, and were in large measure responsible for the hold
 gold acquired over mankind. But this was an outcome of the empirical
@@ -65,7 +65,7 @@ It is a significant token of the influence of these Egyptian incidents
 upon the history of the Ægean that among the earliest gold ornaments
 found by Schliemann at Troy were a series of crude representations of
 cowries worn as pendants to a hair ornament. <span
-id="fr_435"></span>[1](#fn_435)
+id="fr_435"></span>[1](#fn_435.md)
 
 It is hardly necessary to insist upon the vast influence upon the
 history of civilization which this arbitrary value of gold has been
@@ -76,7 +76,7 @@ responsible for exerting. For more than fifty centuries men have been
 searching for the precious metal, and have been spreading abroad
 throughout the world the elements of our civilization. It has been not
 only the chief factor in bringing about the contact of peoples <span
-id="fr_436"></span>[1](#fn_436) and incidentally in building up our
+id="fr_436"></span>[1](#fn_436.md) and incidentally in building up our
 culture, but it has been the cause, directly or indirectly, of most of
 the warfare which has afflicted mankind. Yet these mighty forces were
 let loose upon the world as the result of the circumstance that early
@@ -101,7 +101,7 @@ energy), the people offered their most treasured possessions, such as
 their cattle, in exchange for the amulets which were believed to confer
 such priceless social and religious boons. Cattle were therefore given
 in exchange for cowries, or the shells were used for the
-[purchase](errata.htm#10) of wives. When the new significance as
+[purchase](errata.htm#10.md) of wives. When the new significance as
 currency developed a remarkable confusion occurred. In many places
 cowries were placed in the mouth of the dead to confer the breath of
 life: but when the cowries acquired the new meaning as currency, the
@@ -118,7 +118,7 @@ meaning of the act.
 
 Another result of the use of gold models of shells as life-giving
 amulets was that the metal also acquired the reputation of being a giver
-of life, <span id="fr_437"></span>[1](#fn_437) which originally belonged
+of life, <span id="fr_437"></span>[1](#fn_437.md) which originally belonged
 merely to the shell or the imitation of its form, whatever the substance
 used for making the model.
 
@@ -160,7 +160,7 @@ searchers after gold discovered the precious metal in Hyderabad,
 <span id="page_225">p. 225</span>
 
 and the diamonds of Golconda came to be accredited with life-giving
-powers. <span id="fr_438"></span>[1](#fn_438)
+powers. <span id="fr_438"></span>[1](#fn_438.md)
 
 According to the beliefs of the Indians "the Nâga owns riches, the water
 of life, and a jewel that restores the dead to life".
@@ -187,25 +187,25 @@ Mentu-Ra, the Warrior Sun-god of Egypt, of Hathor, and of Horus" (p.
 
 ### Footnotes
 
-<span id="fn_435"></span>[222:1](eod44.htm#fr_435) So far as I am aware
+<span id="fn_435"></span>[222:1](eod44.htm#fr_435.md) So far as I am aware
 the fact that these objects were intended to represent cowries does not
 appear to have been recognized hitherto. I am indebted to Mr. Wilfrid
 Jackson for calling my attention to the figures 685 and 832 in
 Schliemann's "Ilios" (1880), and for identifying the objects.
 
-<span id="fn_436"></span>[223:1](eod44.htm#fr_436) See Perry,
+<span id="fn_436"></span>[223:1](eod44.htm#fr_436.md) See Perry,
 "Megalithic Monuments and Ancient Mines," *Proceedings and Memorials of
 the Manchester Literary and Philosophical Society*, 1916: also "War and
 Civilization," *Bulletin of the John Rylands Library*, 1918.
 
-<span id="fn_437"></span>[224:1](eod44.htm#fr_437) "Danæ pregnant with
+<span id="fn_437"></span>[224:1](eod44.htm#fr_437.md) "Danæ pregnant with
 immortal gold."
 
-<span id="fn_438"></span>[225:1](eod44.htm#fr_438) See Laufer, "The
+<span id="fn_438"></span>[225:1](eod44.htm#fr_438.md) See Laufer, "The
 Diamond," also Munn, "The Ancient Gold Mines of Hyderabad," paper now
 being published in the *Proceedings of the Manchester Literary and
 Philosophical Society*.
 
 ------------------------------------------------------------------------
 
-[Next: Aphrodite as the Thunder-Stone](eod45)
+[Next: Aphrodite as the Thunder-Stone](eod45.md)

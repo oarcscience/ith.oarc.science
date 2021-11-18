@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](lgh04) 
-[Next](lgh06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](lgh04.md) 
+[Next](lgh06.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ all the business and pleasure of his life seemed unprofitable and dull.
 
 "O thou Far-darter," he prayed, stretching out his hands to the sun-god,
 when his first beams smote the earth, "thou who hast thyself sorrowed
-for thy lost Daphne, [3](lgh14.htm#xref_3) thou who sendest hope and joy
+for thy lost Daphne, [3](lgh14.htm#xref_3.md) thou who sendest hope and joy
 to men, be thou my helper, and teach me how to obey the mandate of the
 haughty king, or thyself take away this life which is bitter to me!"
 
@@ -141,7 +141,7 @@ sojourn upon earth. But the Moirae were stern; what had once passed
 their lips could not be recalled. Only this much did the power of the
 sun-god wring from them: that if another head from the house of
 Admetus--a head as royal as his--were yielded to
-Thanatos [4](lgh14.htm#xref_4) instead of his, the span of his life
+Thanatos [4](lgh14.htm#xref_4.md) instead of his, the span of his life
 might be lengthened. With this favour Phoebus was fain at length to
 return, nor did the condition seem very hard to him, for in the house of
 Admetus still dwelt Pheres and Periklymene, father and mother of the
@@ -371,7 +371,7 @@ face in his mantle, unable longer to control his tears.
 
 "And yet ye received me and made me a feast?"
 
-"Yes, for it was his will; he honours Zeus Zenius [5](lgh14.htm#xref_5)
+"Yes, for it was his will; he honours Zeus Zenius [5](lgh14.htm#xref_5.md)
 too much to thrust thee away."
 
 "Poor prince! What a wife to lose!"
@@ -502,4 +502,4 @@ easy as the sleep of the wayfarer weary with long travel.
 
 ------------------------------------------------------------------------
 
-[Next: Atalanta](lgh06)
+[Next: Atalanta](lgh06.md)

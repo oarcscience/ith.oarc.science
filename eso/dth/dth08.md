@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth07) 
-[Next](dth09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth07.md) 
+[Next](dth09.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ second, that you should never under any circumstances use your mind
 forces in order to dominate other people. Whoever prostitutes his mental
 powers in this way is hurrying to disaster. To so misuse the tremendous
 powers of the mind is to destroy oneself, body and soul. All who sink to
-these practices are [deliberately](errata.htm#14) creating for
+these practices are [deliberately](errata.htm#14.md) creating for
 themselves an inferno of trouble. The powers of the mind are like
 electricity; for the latter, if used according to certain laws, produces
 beneficial results; if used in opposition to these laws, it burns,
@@ -449,9 +449,9 @@ your wisdom and understanding.
 
 In the letter I have sent you this week I speak of visualizing and
 affirming the success that you desire to demonstrate, fn the same way
-hold the [picture](errata.htm#15) of perfect health ever before your
+hold the [picture](errata.htm#15.md) of perfect health ever before your
 mind. Let it be a constant inspiration and source of radiant joy.
 
 ------------------------------------------------------------------------
 
-[Next: Part VIII](dth09)
+[Next: Part VIII](dth09.md)

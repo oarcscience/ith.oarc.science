@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm12)  [Next](pnm14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm12)  [Next](pnm14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ themselves are not Elements, but are twice
 <span id="page_45">p. 45</span>
 
 compounded, various and changeable one into the other. <span
-id="fr_5"></span>[\*](#fn_5) They are the infallible *Mediums*, and
+id="fr_5"></span>[\*](#fn_5.md) They are the infallible *Mediums*, and
 therefore are called the middle nature, or Soul of the middle nature.
 Very few there are that understand the deep mysteries thereof. In them
 is, by means of certain numbers, degrees and orders, the perfection of
@@ -64,11 +64,11 @@ Natural things and Celestial secrets.
 
 ### Footnotes
 
-<span id="fn_5"></span>[45:\*](pnm13.htm#fr_5) Such as heat, light and
+<span id="fn_5"></span>[45:\*](pnm13.htm#fr_5.md) Such as heat, light and
 electricity; astral magnetism, attraction and vibration; form, number
 and color; occult principles of natural law; the immutable attributes of
 time, space and substance.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Of the Wonderful Natures of Fire and Earth](pnm14)
+[Next: Chapter V. Of the Wonderful Natures of Fire and Earth](pnm14.md)

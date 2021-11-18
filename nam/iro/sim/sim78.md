@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim77)  [Next](sim79) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim77)  [Next](sim79.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,7 +174,7 @@ eldest cub, "You must go first, the others will follow."
 
 The eldest crawled out of the tree and that instant the boy heard the
 whiz of an arrow. As he watched the little bear it
-[seemed](errata.htm#4) to throw off a pack. The pack fell to the ground
+[seemed](errata.htm#4.md) to throw off a pack. The pack fell to the ground
 but the little bear itself went straight on, never stopping.
 
 The other little bears followed and each shared the fate of the first.
@@ -205,4 +205,4 @@ child, and ever after took him with him wherever he went.
 
 ------------------------------------------------------------------------
 
-[Next: A Brother and Sister Pursued by a Man-Eater](sim79)
+[Next: A Brother and Sister Pursued by a Man-Eater](sim79.md)

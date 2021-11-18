@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku54)  [Next](tku56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku54)  [Next](tku56.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 convexity of its joining together, which is extended, and shineth.
 
 52\. And from it the just shall inherit four hundred <span
-id="fr_216"></span>[2](#fn_214) desirable worlds in the world to come.
+id="fr_216"></span>[2](#fn_214.md) desirable worlds in the world to come.
 
 53\. And from this convexity of the joining together
 
@@ -53,7 +53,7 @@ the remaining wisdoms.
 all Concealments.
 
 63\. The Head of all Heads, the Head which is not a Head <span
-id="fr_217"></span>[1](#fn_215)--namely, that which is in that
+id="fr_217"></span>[1](#fn_215.md)--namely, that which is in that
 Head--neither knows nor is known, because it cannot be comprehended
 either by Wisdom or Understanding.
 
@@ -65,7 +65,7 @@ and return.
 
 65\. And therefore is the Most Holy Ancient One called AIN, Ain, the
 Negatively Existent; seeing that back from Him dependeth the AIN, the
-Negative Existence. <span id="fr_218"></span>[1](#fn_216)
+Negative Existence. <span id="fr_218"></span>[1](#fn_216.md)
 
 66\. But all these hairs and all those locks depend from the Hidden
 Brain.
@@ -78,9 +78,9 @@ which overshadow it*).
 of joy, neither changeth He from mercy for ever.
 
 69\. But in the thirteen measurements <span
-id="fr_219"></span>[2](#fn_217) of mercies is He found, because that
+id="fr_219"></span>[2](#fn_217.md) of mercies is He found, because that
 Wisdom hidden in Him is divided into three, <span
-id="fr_220"></span>[3](#fn_218) paths in a quarternary, and He Himself
+id="fr_220"></span>[3](#fn_218.md) paths in a quarternary, and He Himself
 the Ancient One comprehendeth them, and through them doth He reign over
 all things.
 
@@ -96,7 +96,7 @@ delight thyself in Tetragrammaton."
 
 <span id="page_267">p. 267</span>
 
-73\. And from that path <span id="fr_221"></span>[1](#fn_219) are all
+73\. And from that path <span id="fr_221"></span>[1](#fn_219.md) are all
 the other paths illuminated which depend from Microprosopus.
 
 74\. He the Eternal Ancient of the Ancient Ones is the highest Crown
@@ -112,13 +112,13 @@ known.
 splendour (*from him*).
 
 78\. He the Most Holy Ancient One is found to have three heads, which
-are contained in the one Head. <span id="fr_222"></span>[2](#fn_220)
+are contained in the one Head. <span id="fr_222"></span>[2](#fn_220.md)
 
 79\. And He Himself is that only highest supreme Head.
 
 80\. And since He the Most Holy Ancient One is thus symbolized in the
 Triad, hence all the other Lights which shine are included in
-Triads. <span id="fr_223"></span>[3](#fn_221)
+Triads. <span id="fr_223"></span>[3](#fn_221.md)
 
 81\. Moreover, the Most Holy Ancient One is also symbolized by the Duad.
 
@@ -145,17 +145,17 @@ are HVA, *Hoa*, Himself.
 
 ### Footnotes
 
-<span id="fn_213"></span>[264:1](tku54.htm#fr_215) The Sephiroth.
+<span id="fn_213"></span>[264:1](tku54.htm#fr_215.md) The Sephiroth.
 
-<span id="fn_214"></span>[264:2](tku55.htm#fr_216) Which is the number
+<span id="fn_214"></span>[264:2](tku55.htm#fr_216.md) Which is the number
 of Th, the last letter of the Hebrew Alphabet, which includes the
 symbology of the cross.
 
-<span id="fn_215"></span>[265:1](tku55.htm#fr_217) That is to say, which
+<span id="fn_215"></span>[265:1](tku55.htm#fr_217.md) That is to say, which
 will hardly admit even of so vague a definition, seeing it is the
 Indefinite Absolute in Kether.
 
-<span id="fn_216"></span>[266:1](tku55.htm#fr_218) We must be most
+<span id="fn_216"></span>[266:1](tku55.htm#fr_218.md) We must be most
 careful not to misapprehend the meaning intended to be conveyed in this
 passage. Kether, the Ancient One, Macroprosopus, is not in the more
 restricted sense of the first Sephira. the AIN, but that that idea links
@@ -169,20 +169,20 @@ space rushes the Voice of Ages, unheard save in the concentrated unity
 of the thought-formulated Abstract, and eternally that Voice formulates
 a Word which is glyphed in the vast ocean of limitless life.
 
-<span id="fn_217"></span>[266:2](tku55.htm#fr_219) The thirteen
+<span id="fn_217"></span>[266:2](tku55.htm#fr_219.md) The thirteen
 conformations of the beard of Macroprosopus.
 
-<span id="fn_218"></span>[266:3](tku55.htm#fr_220) The Trinity completed
+<span id="fn_218"></span>[266:3](tku55.htm#fr_220.md) The Trinity completed
 by the Quaternary.
 
-<span id="fn_219"></span>[267:1](tku55.htm#fr_221) Kether, the first
+<span id="fn_219"></span>[267:1](tku55.htm#fr_221.md) Kether, the first
 Sephira, from which all the other Sephiroth, proceed, namely, those
 which are summed up in the Tetragrammaton.
 
-<span id="fn_220"></span>[267:2](tku55.htm#fr_222) I.e., His
+<span id="fn_220"></span>[267:2](tku55.htm#fr_222.md) I.e., His
 manifestation is triune.
 
-<span id="fn_221"></span>[267:3](tku55.htm#fr_223) This refers to the
+<span id="fn_221"></span>[267:3](tku55.htm#fr_223.md) This refers to the
 Triads in the Sephiroth, when the Autz Chaiim. is formed. (See
 Introduction.) It will be found that in this arrangement of the ten
 Sephiroth there are ten Triads, viz.:
@@ -205,4 +205,4 @@ four times; and Yesod twice.
 ------------------------------------------------------------------------
 
 [Next: Chapter III: Concerning the Forehead of the Most Holy Ancient
-One](tku56)
+One](tku56.md)

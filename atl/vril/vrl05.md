@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl04)  [Next](vrl06) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl04)  [Next](vrl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ in a tone of command. "Repose and take food."
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER VII](vrl06)
+[Next: CHAPTER VII](vrl06.md)

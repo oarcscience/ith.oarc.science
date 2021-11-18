@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](phc00)  [Next](phc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](phc00)  [Next](phc02.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philistines*, by R.A.S. Macalister, \[1913\], at Intangible Textual
 Heritage
 
@@ -29,7 +29,7 @@ judgement passed by the Hebrews on the Philistines has made a much
 deeper impression on the Bible-reading West than have their fulminations
 against other races and communities with which they had to do. In
 English, from at least the time of Dekker, <span
-id="fr_0"></span>[1](#fn_0) the word 'Philistine' has been used in one
+id="fr_0"></span>[1](#fn_0.md) the word 'Philistine' has been used in one
 or other of the senses of the modern colloquialism 'outsider'; and,
 especially since the publication of the essays of Mr. Matthew Arnold, it
 has become almost a technical term for a person boorish or bucolic of
@@ -103,7 +103,7 @@ R. A. S. M.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xv:1](phc01.htm#fr_0) The *New English
+<span id="fn_0"></span>[xv:1](phc01.htm#fr_0.md) The *New English
 Dictionary* quotes, *inter alia*, 'Silke and satten, you mad
 Philistines, silke and satten' (Dekker, 1600): 'They say, you went to
 Court last Night very drunk; nay, I'm told for certain you had been
@@ -118,6 +118,6 @@ title-page.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](phc02)
+[Next: Contents](phc02.md)
 
 </div>

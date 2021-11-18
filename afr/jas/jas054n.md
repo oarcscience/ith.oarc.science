@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas053n)  [Next](jas055n)   
- \[[54. Why Crab is afraid after Dark.](jas054)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas053n)  [Next](jas055n.md)   
+ \[[54. Why Crab is afraid after Dark.](jas054.md)\]
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ neighbors for his pains.
 
 ------------------------------------------------------------------------
 
-[Next: Note 55. Why Mice are no Bigger.](jas055n)
+[Next: Note 55. Why Mice are no Bigger.](jas055n.md)

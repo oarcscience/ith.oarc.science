@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 </div>
 
@@ -24,8 +24,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](fsgr00)    [Page
-Index](pageidx)    [Text \[Zipped\]](fsgr.txt.gz)
+[Contents](#contents)    [Start Reading](fsgr00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](fsgr.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -41,16 +41,16 @@ evolution of ancient Greek religion.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](fsgr00)  
-[Preface to the Third Edition](fsgr01)  
-[Preface to the Second Edition](fsgr02)  
-[Preface to the First Edition](fsgr03)  
-[Contents](fsgr04)  
-[I. Saturnia Regna](fsgr05)  
-[II. The Olympian Conquest](fsgr06)  
-[III. The Great Schools](fsgr07)  
-[IV. The Failure of Nerve](fsgr08)  
-[V. The Last Protest](fsgr09)  
-[Appendix: Translation of the Treatise of Sallustius](fsgr10)  
-[Index](fsgr11)  
-[Transcriber's Notes](fsgr12)  
+<span id="contents"></span> [Title Page](fsgr00.md)  
+[Preface to the Third Edition](fsgr01.md)  
+[Preface to the Second Edition](fsgr02.md)  
+[Preface to the First Edition](fsgr03.md)  
+[Contents](fsgr04.md)  
+[I. Saturnia Regna](fsgr05.md)  
+[II. The Olympian Conquest](fsgr06.md)  
+[III. The Great Schools](fsgr07.md)  
+[IV. The Failure of Nerve](fsgr08.md)  
+[V. The Last Protest](fsgr09.md)  
+[Appendix: Translation of the Treatise of Sallustius](fsgr10.md)  
+[Index](fsgr11.md)  
+[Transcriber's Notes](fsgr12.md)  

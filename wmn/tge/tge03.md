@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](tge02)  [Next](tge04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](tge02)  [Next](tge04.md) 
 
 ------------------------------------------------------------------------
 
@@ -1046,7 +1046,7 @@ given by Moses of the garden.
 which goeth toward the east of Assyria." Next in importance to the
 maintenance of the human economy is the river that drains the system of
 another class of impurities, running by the way of the kidneys,
-[uterus](errata.htm#0), bladder, and urethra. This is the river
+[uterus](errata.htm#0.md), bladder, and urethra. This is the river
 Hiddekel; or the stream that runs with a "swift current" and a "sharp
 sound." Search the language through and through for a more appropriate
 description for the elimination of the waste matter, by the means of the
@@ -1333,7 +1333,7 @@ excitement and consequent exhaustion.
 Why is it that when the testes are extirpated in the male the secondary
 sexual characters do not produce themselves? And when the ovaries are
 extirpated in the female, the secondary sexual characters do produce
-themselves? This would show that the [testes](errata.htm#1) react upon
+themselves? This would show that the [testes](errata.htm#1.md) react upon
 the body of the male to cause increased vital activity. It is just the
 opposite with the female, though with savages and in some parts of the
 East where ovariotomy is performed for certain purposes, it is said that
@@ -1675,4 +1675,4 @@ brought us kindly on our way to this exalted place as His abode.
 
 ------------------------------------------------------------------------
 
-[Next: Revelation](tge04)
+[Next: Revelation](tge04.md)

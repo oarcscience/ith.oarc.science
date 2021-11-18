@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl5) [Next](tgl7)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl5) [Next](tgl7.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ DISSERTATION ON
 A COMPENDIOUS REVIEW OF THE INFLUENCE  
 OF THE COSMIC SPIRIT ON THE UNIVERSE
 
-{[notes](tgln1.htm#6)\|[elucidations and analyses](tgln2.htm#6)}
+{[notes](tgln1.htm#6)\|[elucidations and analyses](tgln2.htm#6.md)}
 
    *The title is Fan Lun \#\#\#. The meaning of fan is a large expanse
 of water; overflowing water. Here it is used to describe a wide survey
@@ -33,7 +33,7 @@ of history from the beginning of time, to discover the gains and losses,
 with the tao as the standard of measurement; and everything is referred
 to it as the unity.*
 
-   An ancient king<span id="fr_1"></span>[1](tgln1.htm#6_note_1) did not
+   An ancient king<span id="fr_1"></span>[1](tgln1.htm#6_note_1.md) did not
 wear the crown and royal robes to govern the empire. He cherished the
 people and
 
@@ -47,7 +47,7 @@ of regal symbols, since it respected the virtues of his person. During
 such a period, the Yin and Yang were in harmonious cooperation; the rain
 and wind were seasonable, and creation flourished. Nests could be looked
 into and the birds fondled. Wild beasts could be held in the leash and
-led about.<span id="fr_2"></span>[2](tgln1.htm#6_note_2) What need was
+led about.<span id="fr_2"></span>[2](tgln1.htm#6_note_2.md) What need was
 there for the authorities to wear broad phylacteries and the embroidered
 symbols of power, such as a crown, etc.?
 
@@ -148,7 +148,7 @@ Yü the Ta Hsia, T‛ang the Ta Hu, Chou the Wu-Hsiang, These show that the
 music used by the different dynasties differed.
 
    Thus we see that whilst there was a diversity in the practices of the
-Five Emperors,<span id="fr_4"></span>[4](tgln1.htm#6_note_4)
+Five Emperors,<span id="fr_4"></span>[4](tgln1.htm#6_note_4.md)
 nevertheless their virtues equally embraced the whole empire. The Three
 Kings <span id="page_146">p. 146</span> used different methods; but the
 renown of each equally became a tradition.
@@ -170,7 +170,7 @@ Duke Shao of Lu had a foster mother whom he loved. When she died, he
 wore a white linen cap in mourning. Thus arose the custom of mourning
 for foster mothers. Yang Hou slew Liao Hou (at a feast) and took his
 wife. Owing to this, the custom of women's presence at a feast was
-abrogated.<span id="fr_5"></span>[5](tgln1.htm#6_note_5)
+abrogated.<span id="fr_5"></span>[5](tgln1.htm#6_note_5.md)
 
    Thus when the practices of the Ancient Kings appeared to be
 unsuitable to new times, they were abandoned; but when suitable to and
@@ -251,7 +251,7 @@ that is imperfect is not comparable to the Tao in its perfection. The
 humming of the Odes of former Kings is inferior to a realization of the
 principles that inspired them. But to put into words this inspiration
 <span id="page_148">p. 148</span> is not possible. Words cannot express
-this. Hence this saying.<span id="fr_6"></span>[6](tgln1.htm#6_note_6)
+this. Hence this saying.<span id="fr_6"></span>[6](tgln1.htm#6_note_6.md)
 
 > <span class="small">THE TAO THAT CAN BE EXPRESSED IN WORDS IS NOT THE
 > ETERNAL TAO.</span>
@@ -274,11 +274,11 @@ said *to be a true son*.
 on the work of Wen Wang. He attended to the Census, transacted the
 affairs of administration, suppressed the disturbances of the I and Ti:
 he executed his two brothers, Kuan and Tsai.<span
-id="fr_7"></span>[{7}](tgln1.htm#6_note_7) He sat with his back to the
-screen and faced south;<span id="fr_8"></span>[8](tgln1.htm#6_note_8)
+id="fr_7"></span>[{7}](tgln1.htm#6_note_7.md) He sat with his back to the
+screen and faced south;<span id="fr_8"></span>[8](tgln1.htm#6_note_8.md)
 and gave audience to the Feudal Lords. He had no counsellor in
 administering rewards and punishments, in organizing and deciding.<span
-id="fr_9"></span>[9](tgln1.htm#6_note_9) His authority was respected
+id="fr_9"></span>[9](tgln1.htm#6_note_9.md) His authority was respected
 everywhere, and his renown filled the land. In this he may be said to be
 perfect as *a great statesman*.
 
@@ -345,12 +345,12 @@ people already lawless and base. <span id="page_150">p. 150</span> It
 would be just like an attempt to control a restive horse without bit,
 bridle, stirrups and a whip.
 
-   Of old, Shen Nung<span id="fr_10"></span>[10](tgln1.htm#6_note_10)
+   Of old, Shen Nung<span id="fr_10"></span>[10](tgln1.htm#6_note_10.md)
 never issued laws; nevertheless the people followed him. T‛ang and Yü
 had a system of laws without punishments. The House of Chow governed by
 faithfulness: they never broke their word. The House of Yin demanded an
 oath from the people. The House of Chou went further and entered into
-covenant by blood.<span id="fr_9a"></span>[9a](tgln1.htm#6_note_9a) When
+covenant by blood.<span id="fr_9a"></span>[9a](tgln1.htm#6_note_9a.md) When
 we come to consider the present age, when the people think lightly of
 the shame of castigation and punishment, and do not consider a lustful
 disposition degrading, any attempt to apply the way of Shen Nung in
@@ -367,7 +367,7 @@ Their pikes had no points, their long lances no barbs. But soldiers of a
 later age must be equipped with battering rams for attack; the defenders
 must have shields to stop the arrows. The bow became a multiple one and
 it was needful to have a cow drag the carriage into battle.<span
-id="fr_11"></span>[11](tgln1.htm#6_note_11)
+id="fr_11"></span>[11](tgln1.htm#6_note_11.md)
 
    In olden times it was not the custom to slay youths in taking a
 kingdom nor to make captives of men whose temples were getting grey.
@@ -436,7 +436,7 @@ difficult to obtain, by any such procedure, satisfactory and firm
 issues, such as are desired.
 
    At present the Confucianist and Meist extol the Three Dynasties, the
-Wen and Wu systems,<span id="fr_12"></span>[12](tgln1.htm#6_note_12) but
+Wen and Wu systems,<span id="fr_12"></span>[12](tgln1.htm#6_note_12.md) but
 do not act up
 
 |                          |
@@ -452,7 +452,7 @@ without giving any help to the King or the age. Modern artists paint
 monstrosities, such as demons and nymphs, and dislike to paint common
 objects, such as dogs and horses, because demons and nymphs never
 appear, whereas dogs and horses may daily be seen.<span
-id="fr_13"></span>[13](tgln1.htm#6_note_13) (People could say whether
+id="fr_13"></span>[13](tgln1.htm#6_note_13.md) (People could say whether
 the art was good and correct them).
 
    Now it is not possible without knowledge to meet critical situations.
@@ -595,7 +595,7 @@ one person looks on as right the other regards as wrong, and vice versa.
 Just as, for example, a hatchet, an axe, a bradawl, a file each has its
 own work. When Yü was King, he heard all the affairs of empire by the
 help of the five musical tones.<span
-id="fr_14"></span>[14](tgln1.htm#6_note_14) There was hung the bell, the
+id="fr_14"></span>[14](tgln1.htm#6_note_14.md) There was hung the bell, the
 drum, the sonorous stone, the bell and clappers, to receive and give
 notice of the arrival of visitors from the <span id="page_156">p.
 156</span> Four Parts. The purpose of this arrangement may be explained
@@ -609,9 +609,9 @@ was busy. He got up from his meal ten times; often he had no time to
 dress his hair after a bath, but answered the summons clutching his hair
 in his hand. Such was his toil in the service of the people; and if
 anyone failed to be good and loyal under such an example, it was the
-person's fault.<span id="fr_15"></span>[15](tgln1.htm#6_note_15)
+person's fault.<span id="fr_15"></span>[15](tgln1.htm#6_note_15.md)
 
-   In the age of Ts‛in<span id="fr_16"></span>[16](tgln1.htm#6_note_16)
+   In the age of Ts‛in<span id="fr_16"></span>[16](tgln1.htm#6_note_16.md)
 (the fashion was) to build lofty belvederes and grand-stands, to lay out
 extensive gardens
 
@@ -649,7 +649,7 @@ the house of Lin created its own symbolic crown. The doctrines of the
 literati, of Mei, of Lu and of Ch‛u were unified and the traditional
 teachings of the former sages were understood and practised. The banners
 of the King were displayed and the great coach<span
-id="fr_17"></span>[17](tgln1.htm#6_note_17) ridden in; the nine pennants
+id="fr_17"></span>[17](tgln1.htm#6_note_17.md) ridden in; the nine pennants
 gonfallon were furled; the great bell sounded; the musical drum played;
 the imperial music Hsien Ch‛ih was presented and the Kan Chi dance
 performed. The emperor would hesitate to order a recrudesence of
@@ -673,7 +673,7 @@ not see the south. Thus, as there is no comprehensive view, there
 can to be no kind of understanding. Moral truth is the principle by
 which nations are preserved. Families decay because morality is being
 clogged. Yao had not a hundred families under his rule.<span
-id="fr_18"></span>[{18}](tgln1.htm#6_note_18) Shun had but a pin point
+id="fr_18"></span>[{18}](tgln1.htm#6_note_18.md) Shun had but a pin point
 of <span id="page_158">p. 158</span> territory. Howbeit they gained the
 empire in the end. Yü had not even 18 people nor Tang as much as seven
 *li* of land, yet finally they ruled the Feudal Lords. Wen Wang was
@@ -685,7 +685,7 @@ yet he rose to be emperor. These
 | **Rise and fall of Nations** |
 
 men exercised the *kingly* way.<span
-id="fr_19"></span>[19](tgln1.htm#6_note_19) On the other hand, Hsia,
+id="fr_19"></span>[19](tgln1.htm#6_note_19.md) On the other hand, Hsia,
 Chieh, Yin and Chou were most powerful. Wherever the foot of man went or
 boat penetrated was within their territories; nevertheless, these kings
 were slain by the hand of man and became the laughing-stock of the
@@ -696,7 +696,7 @@ have hold of the right way are bound to grow, though small at first.
 They who have the seed of death in them and are bound to come to an end,
 even though they have attained to the possession of great power.
 
-   Consider; when Hsia<span id="fr_20"></span>[20](tgln1.htm#6_note_20)
+   Consider; when Hsia<span id="fr_20"></span>[20](tgln1.htm#6_note_20.md)
 was about to fall, Chung Ku, the Prime Minister, anticipating the
 disaster, fled beforehand to Shang; just three years afterwards, Chieh,
 the emperor, perished. When Yin was about to be overthrown, Huang and I,
@@ -704,7 +704,7 @@ ministers, went over to Wen Wang, just a year before the death of Chou.
 We thus see that the sages, in their discernment of the symptoms of rise
 and fall, and the crises of success and failure, have no need to wait
 for the actual days of Ming T‛ao and Yeh Chia.<span
-id="fr_21"></span>[21](tgln1.htm#6_note_21)
+id="fr_21"></span>[21](tgln1.htm#6_note_21.md)
 
    Now, people seeing that success comes to the strong, measure their
 land and count their numbers. Thinking that
@@ -722,7 +722,7 @@ unsophisticated woman could discourse on them. However these are not
 <span id="page_159">p. 159</span> the means of success, nor the law of
 continuance, Hsiang Tzû of Chao, by means of the one city of Tsin Yang,
 became an autocrat, Chih Pei through possessing San Tsin, fell a
-victim.<span id="fr_22"></span>[22](tgln1.htm#6_note_22) Min Wang
+victim.<span id="fr_22"></span>[22](tgln1.htm#6_note_22.md) Min Wang
 perished, though he ruled
 
 |                             |
@@ -736,7 +736,7 @@ From these examples we may learn that the preservation of kingdoms does
 not depend on their bigness but on the reign of law; and their ruin
 results from the loss of truth and not from their littleness. The Ode
 says:—"God looked towards the West and favoured that reign."<span
-id="fr_22a"></span>[22a](tgln1.htm#6_note_22a) These words speak of
+id="fr_22a"></span>[22a](tgln1.htm#6_note_22a.md) These words speak of
 locality, indicating the removal of Yin (on the east) by the advance of
 Chou (from the west).
 
@@ -754,10 +754,10 @@ preserve them and create the very conditions of decay and ruin. For
 these reasons, when Chieh became the prisoner (of T‛ang) in Chiao Men,
 he did not even then repent of his evil ways, but rather only regretted
 that he had not killed T‛ang, when he had him prisoner in Hsin Tai.<span
-id="fr_23"></span>[23](tgln1.htm#6_note_23) Likewise Chou, when he was
+id="fr_23"></span>[23](tgln1.htm#6_note_23.md) Likewise Chou, when he was
 confined in Hsuan Shih, had no sorrow for his wickedness, but only
 regretted that he had not killed Wen Wang at Chin Li.<span
-id="fr_24"></span>[24](tgln1.htm#6_note_24) These two princes, when they
+id="fr_24"></span>[24](tgln1.htm#6_note_24.md) These two princes, when they
 were mighty and strong, failed to realize their wrong-doing. If they had
 
 |                        |
@@ -888,7 +888,7 @@ and the shoe of the father; but when one's father is drowning, the son
 may pull the father out by the hair, to save him. No one would think the
 son guilty of any contumely to the person of a father, in so doing. Thus
 we see that the pulling of a father by the hair or the mention of the
-King's name<span id="fr_25"></span>[25](tgln1.htm#6_note_25) in prayer,
+King's name<span id="fr_25"></span>[25](tgln1.htm#6_note_25.md) in prayer,
 is a natural act demanded by the circumstances. This is the demand of
 expediency. Listen to the words of Confucius:
 
@@ -919,7 +919,7 @@ few, his successes many. His commands carry to all parts of the empire
 without opposition.
 
    The ape has a cognizance of the past, but none of the future. The
-Eastern magpie<span id="fr_26"></span>[26](tgln1.htm#6_note_26) knows
+Eastern magpie<span id="fr_26"></span>[26](tgln1.htm#6_note_26.md) knows
 the future, but not the past. This is a differentiation in merits and
 shortcomings.
 
@@ -1040,7 +1040,7 @@ He thus won back in a day what he had lost in three defeats. The renown
 of his valour spread over the empire and his deeds were enshrined in the
 Luh nation.
 
-   Kuan Chung<span id="fr_27"></span>[27](tgln1.htm#6_note_27) attempted
+   Kuan Chung<span id="fr_27"></span>[27](tgln1.htm#6_note_27.md) attempted
 to rescue his King, Baron Chin, but he cannot be praised for
 intelligence, for he fled and escaped and had no share in the tragic
 death of his King (as a minister should). For this he cannot be called
@@ -1118,7 +1118,7 @@ indiscretions: the only thing to be feared is lest these small faults
 should get the mastery of life. Yao, Shun, Tang and Wu were masters of
 the world during its most brilliant periods. Ch‛i Huan and Tsin Wen were
 the heroic figures of the Five Autocracies.<span
-id="fr_28"></span>[28](tgln1.htm#6_note_28) Yet Yao had the name of
+id="fr_28"></span>[28](tgln1.htm#6_note_28.md) Yet Yao had the name of
 being unkind, Shun bears the reproach of haughtiness towards his father.
 Tang and Wu are sullied by those affairs of slaying people. The Five
 Barons have the reputation of planning rebellions. Thus, no gentleman
@@ -1218,7 +1218,7 @@ a snake may be gauged by the head uplifted just one foot. The size of an
 elephant may be guessed from its tusk. The expert in swords, Chu Yung
 Tzu of Hsieh, was able to discern the keenness of the edge by an
 apparent image of the Fox cuirass on the blade.<span
-id="fr_29"></span>[29](tgln1.htm#6_note_29) If the waters of the Chih
+id="fr_29"></span>[29](tgln1.htm#6_note_29.md) If the waters of the Chih
 and Sheng rivers were mixed, Hsü Erh and I Yü could yet disinguish the
 one from the other by sipping the mixture, distinguishing the sweet and
 bitter. In like manner, too, the Sage determines a worthy man from a
@@ -1442,7 +1442,7 @@ wonder.
 
    An old cypress takes fire by spontaneous combustion; old corpses
 become phosphorescent; yet people do not think these things strange. The
-Hsiao Yang<span id="fr_30"></span>[30](tgln1.htm#6_note_30) stalks the
+Hsiao Yang<span id="fr_30"></span>[30](tgln1.htm#6_note_30.md) stalks the
 mountains. The undines (Yin Hsiang) are begotten by the waters. The
 trees give birth to the Pi Fang, fabulous bird, (Hamadryad) (Satyr). The
 well begets the Fen Yang Rain naiad. That people should think these
@@ -1529,10 +1529,10 @@ and horse should not be forgotten for their services. How much more so
 should this be the case in respect of man! The Sage, therefore, pays
 great attention to humanity and multiplies the ceremonials of gratitude
 and thanksgiving. For such reasons, Yen Ti,<span
-id="fr_31"></span>[31](tgln1.htm#6_note_31) reigning under the symbolic
+id="fr_31"></span>[31](tgln1.htm#6_note_31.md) reigning under the symbolic
 essence of fire, was created to be the Kitchen God. Yü spent a laborious
 life in the service of the empire and was deified as the lares of the
-home. Hou Chi,<span id="fr_32"></span>[32](tgln1.htm#6_note_32) on his
+home. Hou Chi,<span id="fr_32"></span>[32](tgln1.htm#6_note_32.md) on his
 death, was made the god of agriculture for his great services to men in
 the art of <span id="page_179">p. 179</span>
 
@@ -1596,7 +1596,7 @@ plain. When the emperor abides in the Chiao pavilion, the officers of
 state hasten with him, the ministers walk alongside, those who sit bend
 their heads, those who stand do so reverently. At this very time in the
 Ming T‛ang and the T‛ai Miao,<span
-id="fr_33"></span>[33](tgln1.htm#6_note_33) hats are hung, swords are
+id="fr_33"></span>[33](tgln1.htm#6_note_33.md) hats are hung, swords are
 unstrapped, girdles are unloosed and sleepers lie about. And this not
 because the Chiao pavilion is big and the others small, but the presence
 of the emperor makes the difference and gives the dignity. Now the
@@ -1611,7 +1611,7 @@ How much more would man so share!
 
 ------------------------------------------------------------------------
 
-[Next](tgl7)
+[Next](tgl7.md)
 
  
 

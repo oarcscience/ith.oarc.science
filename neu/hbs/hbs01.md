@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs00) [Next](hbs02)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs00) [Next](hbs02.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ G. R. N<span class="small">OYES</span>. 
 
 ------------------------------------------------------------------------
 
-[Next](hbs02)
+[Next](hbs02.md)
 
  
 

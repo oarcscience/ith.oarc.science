@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr05)  [Next](wsgr07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr05)  [Next](wsgr07.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ too. It often happens that way.
 
 ------------------------------------------------------------------------
 
-[Next: The Plant That Grows in Trees](wsgr07)
+[Next: The Plant That Grows in Trees](wsgr07.md)

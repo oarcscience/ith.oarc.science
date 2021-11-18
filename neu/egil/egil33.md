@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil32)  [Next](egil34) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil32)  [Next](egil34.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ repaired damages.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXXIII. Bjorn goes to Iceland.](egil34)
+[Next: CHAPTER XXXIII. Bjorn goes to Iceland.](egil34.md)

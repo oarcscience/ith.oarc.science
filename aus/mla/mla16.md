@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla15)  [Next](mla17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla15)  [Next](mla17.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ forest for the wood that lights the fire of the sun.
 
 ------------------------------------------------------------------------
 
-[Next: Thugine, the Rainbow and the Wandering Boys](mla17)
+[Next: Thugine, the Rainbow and the Wandering Boys](mla17.md)

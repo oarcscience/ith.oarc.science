@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc05) 
-[Next](dsc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc05.md) 
+[Next](dsc07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
 
 #### MAN: ANIMAL AND DIVINE.
 
-BY the side of the Ganges, close to the [Desaswamedh](errata.htm#0)
+BY the side of the Ganges, close to the [Desaswamedh](errata.htm#0.md)
 Ghat, there sits a man of nearly seventy. He is stark naked. Clad in
 nature's own garb, the Paramahamsa remains seated in one place, morning,
 noon and night.
@@ -168,4 +168,4 @@ path. Once again I say *Look ever upwards and onwards*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Double Consciousness](dsc07)
+[Next: Chapter V. Double Consciousness](dsc07.md)

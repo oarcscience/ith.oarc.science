@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib06)  [Next](sib08) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib06)  [Next](sib08.md) 
 
 ------------------------------------------------------------------------
 
@@ -1276,4 +1276,4 @@ And the high heaven remained without a star.
 
 ------------------------------------------------------------------------
 
-[Next: Book VI.](sib08)
+[Next: Book VI.](sib08.md)

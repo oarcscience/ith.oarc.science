@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli04)  [Next](mfli06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli04)  [Next](mfli06.md) 
 
 ------------------------------------------------------------------------
 
@@ -542,4 +542,4 @@ Tubber
 
 ------------------------------------------------------------------------
 
-[Next: The Shee an Gannon and the Grugach Gaire](mfli06)
+[Next: The Shee an Gannon and the Grugach Gaire](mfli06.md)

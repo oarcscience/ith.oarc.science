@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda11)  [Next](nda13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda11)  [Next](nda13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -82,7 +82,7 @@ title of earl, and he continued earl for seventy years. He died in the
 latter days of Harold Sigurdsson," \[ca. A. D. 10641.
 
 (<span id="xref_5">5</span>) It is recorded in Icelandic Annals that
-King Olaf Tryggvason effected the [Christianization](errata.htm#3) of
+King Olaf Tryggvason effected the [Christianization](errata.htm#3.md) of
 Halogaland in the year 999.
 
 (<span id="xref_6">6</span>) Lit. "house-neat-wood." May be rendered
@@ -190,7 +190,7 @@ promptly revenged by their master. It was this right of revenge for such
 an affront which led Eric the Red to kill Eyiolf Saur, who had punished
 Eric's thralls for a crime committed against Eyiolf's kinsman, Valthiof.
 The master, however, was made liable for the misdeeds of his thrall, and
-could be prosecuted for these; the offense in [Eyiolf's](errata.htm#4)
+could be prosecuted for these; the offense in [Eyiolf's](errata.htm#4.md)
 case was, that he took the execution of the law into his own hands.
 
 (<span id="xref_14">14</span>) Dalalend, lit. the Dale-lands. The region
@@ -571,7 +571,7 @@ hoisting a red shield to the yard, . . . 'tell it this evening. . . .
 that the Wolfings are coming from the East, lusting for war.'" The use
 of a white flag-of-truce for a purpose similar to that for which Snorri
 recommended the white shield, is described in the passage quoted in note
- [52](nda12.htm#xref_52), "Nouember the sixt two Canoas appeared, and
+ [52](nda12.htm#xref_52.md), "Nouember the sixt two Canoas appeared, and
 one man alone coming towards vs with a Flag in his hand of a Wolfes
 skin, shaking it and making a loud noise, which we took to be for a
 parley, whereupon a white Flag was put out, and the Barke and Shallop
@@ -761,7 +761,7 @@ made within the limits of a region wherein, early in the eleventh
 century, the sun was visible upon the shortest day of the year between
 dagmálastadr and eyktarstadr; 'it is, therefore, apparent that if we can
 arrive at the exact meaning of either dagmálastadr or
-[eyktarstadr](errata.htm#5), or the length of time intervening between
+[eyktarstadr](errata.htm#5.md), or the length of time intervening between
 these, it should not be difficult to obtain positive information
 concerning the location of the region in which the observation was made.
 
@@ -838,4 +838,4 @@ the Commonwealth.
 
 ------------------------------------------------------------------------
 
-[Next: Arguments and Evidences Respecting the Wineland Discovery](nda13)
+[Next: Arguments and Evidences Respecting the Wineland Discovery](nda13.md)

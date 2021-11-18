@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng20)  [Next](vlsng22) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng20)  [Next](vlsng22.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,4 +153,4 @@ translators.
 ------------------------------------------------------------------------
 
 [Next: Chapter XX: Of Sigurd's Meeting with Brynhild on the
-Mountain](vlsng22)
+Mountain](vlsng22.md)

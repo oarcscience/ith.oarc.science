@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy10)  [Next](omy12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy10)  [Next](omy12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -58,7 +58,7 @@ There are three grades of proximity to God which are out of the reach of
 human Intelligence: the proximity of Time, Place and Attributes. We can
 say, for instance, that Mohammed was nearer our own time than Christ;
 that the moon is nearer to the earth than the planet Jupiter; that
-Báyazíd Bístámí <span id="fr_8"></span>[1](#fn_8) more closely resembled
+Báyazíd Bístámí <span id="fr_8"></span>[1](#fn_8.md) more closely resembled
 Mohammed in qualities than did any even of the Prophet's contemporaries;
 but we cannot predicate this proximity of God. The verse of the Corán,
 "He is with you wherever you are" (Cor. cap. 57, v. 4), alludes to this
@@ -155,7 +155,7 @@ being disturbed or confined by anything.
 Nature of God is infinitely subtle, nothing can ever veil or conceal it;
 for the more subtle a thing is the greater is its capacity for
 penetration. Thus the Sufis explain the expression of the Corán, "He is
-the Subtle the Wise <span id="fr_9"></span>[1](#fn_9)," with reference
+the Subtle the Wise <span id="fr_9"></span>[1](#fn_9.md)," with reference
 to the Nature of God, as the only truly subtle nature. They say that
 this sentence would convince every one of the truth of the Mohammedan
 creed if they could but understand that this is the right interpretation
@@ -181,11 +181,11 @@ knowing and seeing all they do.
 
 ### Footnotes
 
-<span id="fn_8"></span>[23:1](omy11.htm#fr_8) An eminent Sufí
+<span id="fn_8"></span>[23:1](omy11.htm#fr_8.md) An eminent Sufí
 philosopher and poet. See Sprenger, *Journal As. S. of Bengal*, 1856, p.
 134.
 
-<span id="fn_9"></span>[26:1](omy11.htm#fr_9) <span
+<span id="fn_9"></span>[26:1](omy11.htm#fr_9.md) <span
 id="img_02600"></span> ![](img/02600.jpg) (Cor. cap. 6, v. 103). In
 Sale's version the word *latíf* is rendered gracious. I have, however,
 translated it *subtle*, which is its primary meaning, and accords with
@@ -193,4 +193,4 @@ the Sufiistic interpretation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Concerning the Attributes of God](omy12)
+[Next: Chapter II. Concerning the Attributes of God](omy12.md)

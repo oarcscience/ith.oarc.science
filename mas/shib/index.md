@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](shib00)    [Page
-Index](pageidx)    [Text \[Zipped\]](shib.txt.gz)
+[Contents](#contents)    [Start Reading](shib00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](shib.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -37,12 +37,12 @@ Index](pageidx)    [Text \[Zipped\]](shib.txt.gz)
 This is a nineteenth century 'Monitor' of the American Knights Templar.
 This is a Masonic organization which has its own distinctive rituals and
 regalia. While they are not connected directly to the [Medieval
-Templars](../../sro/index), they carry on the knightly ideals by
+Templars](../../sro/index.md), they carry on the knightly ideals by
 charitable works, and sponsoring Masonic youth groups.
 
 Shibboleth is similar in format and organization to other 19th century
 Masonic literature such as [Duncan's Masonic Ritual and
-Monitor](../dun/index), including the funky woodcuts and 19th century
+Monitor](../dun/index.md), including the funky woodcuts and 19th century
 atmosphere. Mixed in with this is historical material on the Templars,
 stories from the Bible, songs, poetry, sermons, a lot of blank forms for
 all occasions, and bits of advice. For instance, 'Hints on Templar
@@ -50,73 +50,73 @@ Banquets' notes: 'Never permit smoking when ladies are present...'
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](shib00)  
-[Dedication](shib01)  
-[Preface to Fifth Edition](shib02)  
-[Note by the Publishers](shib03)  
-[Monitorial Instructions](shib04)  
-[Order of the Red Cross](shib05)  
-[To Open a Council of the Red Cross](shib06)  
-[The Records of our Fathers](shib07)  
-[The Journey](shib08)  
-[The Immemorial Discussion](shib09)  
-[Three Ancient Cities of Persia](shib10)  
-[Concluding Remarks](shib11)  
-[History of the Order of the Temple](shib12)  
-[History of the Order in the United States](shib13)  
-[Original Templar Grand Masters](shib14)  
-[Banners, Crosses and Paraphernalia](shib15)  
-[Officers of a Commandery](shib16)  
-[To Open a Commandery](shib17)  
-[The Work](shib18)  
-[Second House of the Templars](shib19)  
-[Third House of the Templars](shib20)  
-[Close of Seven Years of Preparation](shib21)  
-[The Banners](shib22)  
-[Historical Lecture](shib23)  
-[The Charge](shib24)  
-[To Close the Commandery](shib25)  
-[A Ritualistic Commentary](shib26)  
-[The So-Called Vision of Constantine](shib27)  
-[An Historical Fact](shib28)  
-[Dress of the Ancient Templars](shib29)  
-[The Ancient Motto](shib30)  
-[“It Is Finished”](shib31)  
+<span id="contents"></span> [Title Page](shib00.md)  
+[Dedication](shib01.md)  
+[Preface to Fifth Edition](shib02.md)  
+[Note by the Publishers](shib03.md)  
+[Monitorial Instructions](shib04.md)  
+[Order of the Red Cross](shib05.md)  
+[To Open a Council of the Red Cross](shib06.md)  
+[The Records of our Fathers](shib07.md)  
+[The Journey](shib08.md)  
+[The Immemorial Discussion](shib09.md)  
+[Three Ancient Cities of Persia](shib10.md)  
+[Concluding Remarks](shib11.md)  
+[History of the Order of the Temple](shib12.md)  
+[History of the Order in the United States](shib13.md)  
+[Original Templar Grand Masters](shib14.md)  
+[Banners, Crosses and Paraphernalia](shib15.md)  
+[Officers of a Commandery](shib16.md)  
+[To Open a Commandery](shib17.md)  
+[The Work](shib18.md)  
+[Second House of the Templars](shib19.md)  
+[Third House of the Templars](shib20.md)  
+[Close of Seven Years of Preparation](shib21.md)  
+[The Banners](shib22.md)  
+[Historical Lecture](shib23.md)  
+[The Charge](shib24.md)  
+[To Close the Commandery](shib25.md)  
+[A Ritualistic Commentary](shib26.md)  
+[The So-Called Vision of Constantine](shib27.md)  
+[An Historical Fact](shib28.md)  
+[Dress of the Ancient Templars](shib29.md)  
+[The Ancient Motto](shib30.md)  
+[“It Is Finished”](shib31.md)  
 <span id="section_000"></span>
 
 ### Appendix
 
-[Dedication and Consecration of Asylums](shib32)  
-[Constituting New Commanderies](shib33)  
-[Installation of Officers of a Commandery](shib34)  
-[Grand Commanderies](shib35)  
-[Installation of Grand Encampment](shib36)  
-[Templar Uniform](shib37)  
-[Burial Service](shib38)  
-[The Order of Malta](shib39)  
+[Dedication and Consecration of Asylums](shib32.md)  
+[Constituting New Commanderies](shib33.md)  
+[Installation of Officers of a Commandery](shib34.md)  
+[Grand Commanderies](shib35.md)  
+[Installation of Grand Encampment](shib36.md)  
+[Templar Uniform](shib37.md)  
+[Burial Service](shib38.md)  
+[The Order of Malta](shib39.md)  
 <span id="section_001"></span>
 
 ### Second Appendix
 
-[Calendars](shib40)  
-[Knight Templar Grand Jurisdictions of the United States](shib41)  
-[The Name of God in Twenty-Two Languages](shib42)  
-[Popular Abbreviations](shib43)  
-[Some Words Not Fully Understood](shib44)  
-[Fraternity Music](shib45)  
-[Templar Forms](shib46)  
+[Calendars](shib40.md)  
+[Knight Templar Grand Jurisdictions of the United States](shib41.md)  
+[The Name of God in Twenty-Two Languages](shib42.md)  
+[Popular Abbreviations](shib43.md)  
+[Some Words Not Fully Understood](shib44.md)  
+[Fraternity Music](shib45.md)  
+[Templar Forms](shib46.md)  
 <span id="section_002"></span>
 
 ### Third Appendix
 
-[Reception of Grand Visitors](shib47)  
-[Hints to Eminent Commanders](shib48)  
-[Rules of Order](shib49)  
+[Reception of Grand Visitors](shib47.md)  
+[Hints to Eminent Commanders](shib48.md)  
+[Rules of Order](shib49.md)  
 [A Form of Divine Worship on Ascension Day, and Other
-Occasions](shib50)  
-[Ritual of a Commandery of Sorrow](shib51)  
-[The Christmas Observance](shib52)  
-[Form of Recorder's Minutes](shib53)  
-[Asylum, and Prelate's Hall](shib54)  
-[Hints on Templar Banquets](shib55)  
-[Index](shib56)  
+Occasions](shib50.md)  
+[Ritual of a Commandery of Sorrow](shib51.md)  
+[The Christmas Observance](shib52.md)  
+[Form of Recorder's Minutes](shib53.md)  
+[Asylum, and Prelate's Hall](shib54.md)  
+[Hints on Templar Banquets](shib55.md)  
+[Index](shib56.md)  

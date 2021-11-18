@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp12)  [Next](hmvp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp12)  [Next](hmvp14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ from the womb, and blesses the married couple with offspring. This
 accounts for the fact that the wives of the gods are his most constant
 companions. He made the world and all that is in it; and he is the
 protector of the creatures he has made. He shares with the other gods in
-the sacrifices offered by mortals. <span id="fr_79"></span>[\*](#fn_79)
+the sacrifices offered by mortals. <span id="fr_79"></span>[\*](#fn_79.md)
 
 Tvastri is in several passages connected with the Ribhus. These were
 sons of a man named Sudhanvan; who, owing to their great skill in
@@ -74,7 +74,7 @@ drops of
 effect to a curse. He employed the right formula for accomplishing the
 death of Indra, but unfortunately laid stress upon the wrong word. So,
 instead of slaying Indra, he was himself slain by him. <span
-id="fr_80"></span>[\*](#fn_80)
+id="fr_80"></span>[\*](#fn_80.md)
 
 In the Purānas, Tvastri appears under the name of Visvakarma. In the
 "Vishnu Purāna" he is styled "the author of a thousand arts, the
@@ -104,12 +104,12 @@ ordinary avocations that his aid is now sought.
 
 ### Footnotes
 
-<span id="fn_79"></span>[75:\*](hmvp13.htm#fr_79) Muir, O. S. T., v.
+<span id="fn_79"></span>[75:\*](hmvp13.htm#fr_79.md) Muir, O. S. T., v.
 224.
 
-<span id="fn_80"></span>[77:\*](hmvp13.htm#fr_80) Muir, O. S. T., v.
+<span id="fn_80"></span>[77:\*](hmvp13.htm#fr_80.md) Muir, O. S. T., v.
 232.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Yama](hmvp14)
+[Next: Chapter X. Yama](hmvp14.md)

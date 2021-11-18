@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog10)  [Next](bog12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog10)  [Next](bog12.md) 
 
 ------------------------------------------------------------------------
 
@@ -218,4 +218,4 @@ She follows the darkness.
 
 ------------------------------------------------------------------------
 
-[Next: Kali](bog12)
+[Next: Kali](bog12.md)

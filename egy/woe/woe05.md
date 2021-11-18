@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](woe04)  [Next](woe06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](woe04)  [Next](woe06.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ the
 leading principles of morality current in his day; even before the
 Vizier, five hundred years earlier, gave to his children the scroll
 which they prized above all things on earth; <span
-id="fr_3"></span>[1](#fn_3) but those have perished and these remain.
+id="fr_3"></span>[1](#fn_3.md) but those have perished and these remain.
 There are lists of titles which have a large sound, and prayers to the
 gods for all good things, on the tombs and monuments of kings and
 magnates long before the time Ke'gemni; but those are not books in any
@@ -40,7 +40,7 @@ sense of that word. Even the long, strange chants and spells engraven in
 the royal pyramids over against Memphis are later than the time of
 Ptah-hotep, and cannot be called books in their present form, although
 some of them apparently originated before the First Dynasty. <span
-id="fr_4"></span>[2](#fn_4)
+id="fr_4"></span>[2](#fn_4.md)
 
 Nor do the oldest books of any other country approach these two in
 antiquity. To draw comparisons between them let us, in imagination,
@@ -116,7 +116,7 @@ counsel of the men of old time; those that once hearkened unto the gods.
 I pray thee, let this thing be done, that sin may be banished from among
 persons of understanding, that thou may enlighten the lands."
 
-Said the Majesty of this God: <span id="fr_5"></span>[1](#fn_5)
+Said the Majesty of this God: <span id="fr_5"></span>[1](#fn_5.md)
 "Instruct him, then, in the words of old time; may he be a wonder unto
 the children of princes, that they may enter and hearken with him. Make
 straight all their
@@ -140,7 +140,7 @@ the pebbles.
 
 2\. If thou find an arguer talking, one that is well disposed and wiser
 than thou, let thine arms fall, bend thy back, <span
-id="fr_6"></span>[1](#fn_6) be not angry with him if he agree (?) not
+id="fr_6"></span>[1](#fn_6) be not angry with him if he agree (?.md) not
 with thee. Refrain from speaking evilly; oppose him not at any time when
 he speaketh. If he address thee as one ignorant of the matter, thine
 humbleness shall bear away his contentions.
@@ -164,7 +164,7 @@ heart, overcome it as a thing rejected of princes.
 5\. If thou be a leader, as one directing the conduct of the multitude,
 endeavor always to be gracious, that thine own conduct be without
 defect. Great is Truth, appointing a straight path; never hath it been
-overthrown since the reign of Osiris. <span id="fr_7"></span>[1](#fn_7)
+overthrown since the reign of Osiris. <span id="fr_7"></span>[1](#fn_7.md)
 One that oversteppeth the laws shall be punished. Overstepping is by the
 covetous man; but degradations (?) bear off his riches. Never hath
 evil-doing, brought its venture safe to port. For he saith, "I will
@@ -189,7 +189,7 @@ and give gifts of themselves.
 7\. If thou be among the guests of a man that is greater than thou,
 accept that which he giveth thee, putting it to thy lips. If thou look
 at him that is before thee--thine host--pierce him not with many
-glances. It is abhorred of the soul <span id="fr_8"></span>[1](#fn_8) to
+glances. It is abhorred of the soul <span id="fr_8"></span>[1](#fn_8.md) to
 stare at him. Speak not until he address thee; one knoweth not what may
 be evil in his opinion. Speak when he questioneth thee; so shall thy
 speech be good in his opinion. The noble who sitteth before food
@@ -211,7 +211,7 @@ is abhorrent to the soul.
 
 9\. If thou have ploughed, gather thine harvest in the field, and the
 God shall make it great under thine hand. Fill not thy mouth at any
-neighbor's table . . . <span id="fr_9"></span>[1](#fn_9) If a crafty man
+neighbor's table . . . <span id="fr_9"></span>[1](#fn_9.md) If a crafty man
 be the possessor of wealth, he stealeth like a crocodile from the
 priests.
 
@@ -259,7 +259,7 @@ straight course.
 13\. If thou be in the chamber of council, act always according to the
 steps enjoined on thee at the beginning of the day. Be not absent, or
 thou shalt be expelled; but be ready in entering and making report.
-Wide <span id="fr_10"></span>[1](#fn_10) is the seat of one that hath
+Wide <span id="fr_10"></span>[1](#fn_10.md) is the seat of one that hath
 made address. The council chamber acteth by strict rule; and all its
 plans are in accordance with method. It is the God that advanceth one to
 a seat therein; the like is not done for elbowers.
@@ -277,14 +277,14 @@ thou shalt be provided with what thou lackest. As to the man whose heart
 obeyeth his belly, he causeth disgust in place of love. His heart is
 wretched (?), his body is gross (?), he is insolent toward those endowed
 of the God. He that obeyeth his belly hath an enemy. <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 15\. Report thine actions without concealment; discover thy conduct when
 in council with thine overlord. It is not evil for the envoy that his
 report be not answered. "Yea, I know it," by the prince; for that which
 he knoweth includeth not--this. If he--the prince--think that he will
 oppose him on account of it,--he thinketh--"He will be silent because I
-have spoken." <span id="fr_12"></span>[2](#fn_12)
+have spoken." <span id="fr_12"></span>[2](#fn_12.md)
 
 16\. If thou be a leader, cause that the rules that thou hast enjoined
 be carried out; and do all things as one that remembereth the days
@@ -299,7 +299,7 @@ speech of a suppliant. Let
 him not hesitate to deliver himself of that which he hath thought to
 tell thee; but be desirous of removing his injury. Let him speak freely,
 that the thing for which he hath come to thee may be done. If he
-[hesitate](errata.htm#4) to open his heart, it is said, "Is it because
+[hesitate](errata.htm#4.md) to open his heart, it is said, "Is it because
 he--the judge--doeth the wrong that no entreaties are made to him
 concerning it by those to whom it happeneth?" But a well taught heart
 hearkeneth readily.
@@ -322,7 +322,7 @@ daughter-in-law; it sundereth
 <span id="page_106">p. 106</span>
 
 the wife and the husband. It gathereth unto itself all evils; it is the
-girdle of all wickedness. <span id="fr_13"></span>[1](#fn_13) But the
+girdle of all wickedness. <span id="fr_13"></span>[1](#fn_13.md) But the
 man that is just flourisheth; truth goes in his footsteps, and he maketh
 habitations therein, not in the dwelling of covetousness.
 
@@ -346,7 +346,7 @@ to
 
 <span id="page_107">p. 107</span>
 
-satisfy hired servants. For one <span id="fr_14"></span>[1](#fn_14)
+satisfy hired servants. For one <span id="fr_14"></span>[1](#fn_14.md)
 saith, 'He is a lavish person; one knoweth not that which may come--from
 him." But on the morrow he thinketh, 'We is a person of
 exactitude--parsimony--content therein." And when favours have been
@@ -383,7 +383,7 @@ One that reckoneth accounts all the day passeth not an happy moment. One
 that gladdeneth his heart all the day provideth not for his house. The
 bowman hitteth the mark, as the steersman reacheth land, by diversity of
 aim. He that obeyeth his heart shall command. <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 26\. Let not a prince be hindered when he is occupied; neither oppress
 the heart of him that is already laden. For he shall be hostile toward
@@ -404,10 +404,10 @@ thine heart, that thine house may flourish and thine honour--if thou
 wish it to flourish--thereby. He shall extend thee a kindly hand.
 Further, he shall implant the love of thee in the bodies of thy friends.
 Forsooth, it is a soul loving to hearken. <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 28\. If thou be the son of a man of the priesthood, and an envoy to
-conciliate the multitude. . . . <span id="fr_17"></span>[2](#fn_17)
+conciliate the multitude. . . . <span id="fr_17"></span>[2](#fn_17.md)
 speak thou without favouring one side. Let it not be said: "His conduct
 is that of the nobles, favouring one side in his speech." Turn thine aim
 toward exact judgments.
@@ -433,7 +433,7 @@ liveth only while he is gracious. . . .
 
 Plunder not the houses of tenants; neither steal the things of a friend,
 lest he accuse thee in thine bearing, which thrusteth back the
-heart. <span id="fr_18"></span>[1](#fn_18) If he know of it, he will do
+heart. <span id="fr_18"></span>[1](#fn_18.md) If he know of it, he will do
 thee an injury. Quarrelling in place of friendship is a foolish thing.
 
 32\. --Concerning unnatural sin.
@@ -456,7 +456,7 @@ the storehouse must come out therefrom; and bread is to be shared. He
 that is grasping in entertainment shall himself have an empty belly; he
 that causeth strife cometh himself to sorrow. Take not such an one for
 thy companion. It is a man's kindly acts that are remembered of him in
-the years after his life. <span id="fr_19"></span>[1](#fn_19)
+the years after his life. <span id="fr_19"></span>[1](#fn_19.md)
 
 35\. Know well thy merchants; for when thine affairs are in evil case,
 thy good repute among thy friends is a channel (?) which is filled. It
@@ -489,7 +489,7 @@ them. Good fortune shall befall him, for he shall be of the highest
 rank. He shall be gracious to the end of his life; he shall be contented
 always. His knowledge shall be his guide (?) into a place of security,
 wherein he shall prosper while on earth. The scholar <span
-id="fr_20"></span>[1](#fn_20) shall be content in his knowledge. As to
+id="fr_20"></span>[1](#fn_20.md) shall be content in his knowledge. As to
 the prince, in his turn,
 
 <span id="page_113">p. 113</span>
@@ -529,7 +529,7 @@ hath spoken hath great
 joy of it. Such a son shall be mild as a master, and he that heareth him
 shall obey him that hath spoken. He shall be comely in body and honoured
 by his father. His memory shall be in the mouths of the living, those
-upon earth, as long as they exist. <span id="fr_21"></span>[1](#fn_21)
+upon earth, as long as they exist. <span id="fr_21"></span>[1](#fn_21.md)
 
 39\. Let a son receive the word of his father, not being heedless of any
 rule of his. Instruct thy son--thus;--for the obedient man is one that
@@ -551,7 +551,7 @@ day. He is shunned because of his misfortunes, by reason of the
 multitude of afflictions that cometh upon \]him every day.
 
 41\. A son that hearkeneth is as a Follower of Horus. <span
-id="fr_22"></span>[1](#fn_22) He is good after he hearkeneth; he groweth
+id="fr_22"></span>[1](#fn_22.md) He is good after he hearkeneth; he groweth
 old, he reacheth honour and reverence. He repeated in like manner to his
 sons and daughters, so renewing the instruction of his father. Each man
 instructeth as did his begetter, repeating it unto his children. Let
@@ -569,7 +569,7 @@ Take not my word away, neither add one; set
 <span id="page_116">p. 116</span>
 
 not one in the place of another. Beware of opening . . . <span
-id="fr_23"></span>[1](#fn_23) in thyself.
+id="fr_23"></span>[1](#fn_23.md) in thyself.
 
 Be wary of speech when a learned man hearkeneth unto thee; desire to be
 established for good in the mouth of those that hear thee speaking. If
@@ -610,7 +610,7 @@ Even As Found In Writing.
 
 1\. The cautious man flourisheth, the exact one is praised; the
 innermost chamber openeth unto the man of silence. Wide <span
-id="fr_24"></span>[1](#fn_24) is the seat of the man gentle of speech;
+id="fr_24"></span>[1](#fn_24.md) is the seat of the man gentle of speech;
 but knives are prepared against one that forceth a path, that he advance
 not, save in due season.
 
@@ -623,7 +623,7 @@ abomination;
 therein is the quality of a beast. A handful of water quencheth the
 thirst, and a mouthful of melon supporteth the heart. A good thing
 standeth for goodness, but some small thing standeth for plenty. <span
-id="fr_25"></span>[1](#fn_25) A base man is he that is governed by his
+id="fr_25"></span>[1](#fn_25.md) A base man is he that is governed by his
 belly; he departeth only when he is no longer able to fill full his
 belly in men's houses.
 
@@ -670,7 +670,7 @@ and lower Egypt, Sehotep'eb-Re, son of the Sun, *Amenemhe'et*, the
 
 <span id="page_120">p. 120</span>
 
-Justified. <span id="fr_26"></span>[1](#fn_26) He speaketh thus in
+Justified. <span id="fr_26"></span>[1](#fn_26.md) He speaketh thus in
 discovering words of truth unto his son, the Lord of the World:
 
 1\. Shine forth, he saith, even as the God. Hearken to that which I say
@@ -684,7 +684,7 @@ know not a trusted friend; make for thyself no familiar dependents; in
 these things is no satisfaction.
 
 3\. When thou liest down have a care for thy  <span
-id="fr_27"></span>[2](#fn_27) very life, since friends exist not for a
+id="fr_27"></span>[2](#fn_27.md) very life, since friends exist not for a
 man in the day of misfortunes. I gave to the beggar, and caused the
 orphan to live; I made him that had not to attain, even as he that had.
 
@@ -700,14 +700,14 @@ entered my harem.
 5\. My images are among the living; and my achievements are among men.
 But I have made an heroic story that hath not been heard; a great feat
 of arms that hath not been seen. Surely one fighteth for a lassoed ox
-that forgetteth yesterday; <span id="fr_28"></span>[1](#fn_28) and good
+that forgetteth yesterday; <span id="fr_28"></span>[1](#fn_28.md) and good
 fortune is of no avail unto one that cannot perceive it.
 
 6\. It was after the evening meal, and night was come. I took for myself
 an hour of ease. I lay down upon my bed, for I was weary. My heart began
 to wander (?). I slept. And lo! weapons were brandished, and there was
 conference concerning me. I acted as the serpent of the desert. <span
-id="fr_29"></span>[2](#fn_29)
+id="fr_29"></span>[2](#fn_29.md)
 
 7\. I awoke to fight; I was alone. I found one struck down, it was the
 captain of the guard. Had I received quickly the arms from his hand, I
@@ -721,23 +721,23 @@ cometh not to one surprised. Thus was I.
 
 \[paragraph continues\] I was without thee; the courtiers knew not that
 I had passed on to thee--my power. I sat not with thee on the
-throne. <span id="fr_30"></span>[1](#fn_30) Let me then, make my plans.
+throne. <span id="fr_30"></span>[1](#fn_30.md) Let me then, make my plans.
 Because I awed them not I was not unmindful of them; but mine heart
 bringeth not to remembrance the slackness of servants.
 
 9\. Have ever women gathered together assailants? Are assassins reared
 within my palace? Was the opening done by cutting through the ground?
 The underlings were deceived as to what they did. <span
-id="fr_31"></span>[2](#fn_31) But misfortunes have not come in my train
+id="fr_31"></span>[2](#fn_31.md) But misfortunes have not come in my train
 since my birth; nor hath there existed the equal of me as a doer of
 valiance.
 
 10\. I forced my way up to Elephantine, I went down unto the
-coast-lakes; <span id="fr_32"></span>[3](#fn_32) I have stood upon the
+coast-lakes; <span id="fr_32"></span>[3](#fn_32.md) I have stood upon the
 boundaries of the land, and I have seen its centre. I have set the
 limits of might by my might in my deeds.
 
-11\. I raised corn, I loved Nopi; <span id="fr_33"></span>[4](#fn_33)
+11\. I raised corn, I loved Nopi; <span id="fr_33"></span>[4](#fn_33.md)
 the Nile begged of me every valley. In my reign none hungered; none
 thirsted therein. They were contented in that which I did, saying
 concerning me, "Every commandment is meet."
@@ -758,9 +758,9 @@ men when inquiring into its beauties; but they know not that it was
 without thee, O my Son, Senwesert; life, safe and sound, be to thee--by
 thy feet do I walk; thou art after mine own heart; by thine eyes do I
 see; born in an hour of delight; with spirits <span
-id="fr_34"></span>[1](#fn_34) that rendered thee praise.
+id="fr_34"></span>[1](#fn_34.md) that rendered thee praise.
 
-15\. Behold, that which I have done at the [beginning](errata.htm#5),
+15\. Behold, that which I have done at the [beginning](errata.htm#5.md),
 let me set it in order for thee at the end; let me be the landing-place
 of that which is in thine heart. All men together set the White Crown on
 the Offspring of the God. fixing it unto its due place. I shall begin
@@ -777,108 +777,108 @@ sound, be to thee.
 
 ### Footnotes
 
-<span id="fn_3"></span>[94:1](woe05.htm#fr_3) The monuments leave no
+<span id="fn_3"></span>[94:1](woe05.htm#fr_3.md) The monuments leave no
 doubt of this. Pen and ink were used in the First Dynasty, and speech
 had been reduced to visible signs before that.
 
-<span id="fn_4"></span>[94:2](woe05.htm#fr_4) About B.C. 4770. In all
+<span id="fn_4"></span>[94:2](woe05.htm#fr_4.md) About B.C. 4770. In all
 Egyptian dates given in this book I follow Professor Petrie's
 chronology.
 
-<span id="fn_5"></span>[97:1](woe05.htm#fr_5) The King.
+<span id="fn_5"></span>[97:1](woe05.htm#fr_5.md) The King.
 
-<span id="fn_6"></span>[98:1](woe05.htm#fr_6) The customary attitude of
+<span id="fn_6"></span>[98:1](woe05.htm#fr_6.md) The customary attitude of
 a submissive inferior at that time.
 
-<span id="fn_7"></span>[99:1](woe05.htm#fr_7) The god Osiris was
+<span id="fn_7"></span>[99:1](woe05.htm#fr_7.md) The god Osiris was
 believed to have reigned on earth many thousand years before
-[Menes](errata.htm#3), the first historical king.
+[Menes](errata.htm#3.md), the first historical king.
 
-<span id="fn_8"></span>[100:1](woe05.htm#fr_8) soul--Ka'.
+<span id="fn_8"></span>[100:1](woe05.htm#fr_8.md) soul--Ka'.
 
-<span id="fn_9"></span>[101:1](woe05.htm#fr_9) An obscure or corrupt
+<span id="fn_9"></span>[101:1](woe05.htm#fr_9.md) An obscure or corrupt
 phrase here follows, which does not admit of satisfactory translation.
 
-<span id="fn_10"></span>[103:1](woe05.htm#fr_10) I.e., comfortable.
+<span id="fn_10"></span>[103:1](woe05.htm#fr_10.md) I.e., comfortable.
 
-<span id="fn_11"></span>[104:1](woe05.htm#fr_11) His belly, presumably.
+<span id="fn_11"></span>[104:1](woe05.htm#fr_11.md) His belly, presumably.
 
-<span id="fn_12"></span>[104:2](woe05.htm#fr_12) The above translation
+<span id="fn_12"></span>[104:2](woe05.htm#fr_12.md) The above translation
 is not satisfactory; the text may be corrupt. No intelligible
 translation of it has yet been made.
 
-<span id="fn_13"></span>[106:1](woe05.htm#fr_13) I.e.., all wickedness
+<span id="fn_13"></span>[106:1](woe05.htm#fr_13.md) I.e.., all wickedness
 is contained therein.
 
-<span id="fn_14"></span>[107:1](woe05.htm#fr_14) A servant.
+<span id="fn_14"></span>[107:1](woe05.htm#fr_14.md) A servant.
 
-<span id="fn_15"></span>[108:1](woe05.htm#fr_15) So also in life, by
+<span id="fn_15"></span>[108:1](woe05.htm#fr_15.md) So also in life, by
 diversity of aim, alternating work and play, happiness is secured.
 Tacking is evidently meant in the case of the steersman.
 
-<span id="fn_16"></span>[109:1](woe05.htm#fr_16) This section refers to
+<span id="fn_16"></span>[109:1](woe05.htm#fr_16.md) This section refers to
 the relations between the son of a nobleman and his tutor, dwelling on
 the benefits from former pupils in high places, if their school days
 have been pleasant.
 
-<span id="fn_17"></span>[109:2](woe05.htm#fr_17) An obscure phrase.
+<span id="fn_17"></span>[109:2](woe05.htm#fr_17.md) An obscure phrase.
 
-<span id="fn_18"></span>[110:1](woe05.htm#fr_18) Literally, "It is that
+<span id="fn_18"></span>[110:1](woe05.htm#fr_18.md) Literally, "It is that
 which preventeth the heart from advancing (?)" A curious phrase.
 
-<span id="fn_19"></span>[111:1](woe05.htm#fr_19) Literally, after his
+<span id="fn_19"></span>[111:1](woe05.htm#fr_19.md) Literally, after his
 stick or sceptre.
 
-<span id="fn_20"></span>[112:1](woe05.htm#fr_20) Who knows them.
+<span id="fn_20"></span>[112:1](woe05.htm#fr_20.md) Who knows them.
 
-<span id="fn_21"></span>[114:1](woe05.htm#fr_21) The greater part of
+<span id="fn_21"></span>[114:1](woe05.htm#fr_21.md) The greater part of
 this section is a play upon the root sodem, which in its meaning
 includes our hear--listen--and obey. This tiresome torture of words is
 frequent in Egyptian, especially in old religious texts.
 
-<span id="fn_22"></span>[115:1](woe05.htm#fr_22) The "Followers of
+<span id="fn_22"></span>[115:1](woe05.htm#fr_22.md) The "Followers of
 Horns" are a legendary dynasty of demigods, believed by the Egyptians to
 have ruled for about 13,400 years after the reign of Horus, and before
 that of Menes. There is also an order of spirits by this name.
 
-<span id="fn_23"></span>[116:1](woe05.htm#fr_23) A word of unknown
+<span id="fn_23"></span>[116:1](woe05.htm#fr_23.md) A word of unknown
 meaning; apparently some kind of plant. Such a word seems out of place
 here, and may be idiomatic, like our "flowery language." But the
 preceding line obviously refers to this book.
 
-<span id="fn_24"></span>[117:1](woe05.htm#fr_24) Comfortable.
+<span id="fn_24"></span>[117:1](woe05.htm#fr_24.md) Comfortable.
 
-<span id="fn_25"></span>[118:1](woe05.htm#fr_25) This is a rather dark
+<span id="fn_25"></span>[118:1](woe05.htm#fr_25.md) This is a rather dark
 saying, but apparently the author means that although the duly
 instructed guest may only partake moderately of the abundance before
 him, what he cats is as good as the rest. His portion will be equal to
 the whole as regards quality, though inferior as regards quantity.
 
-<span id="fn_26"></span>[120:1](woe05.htm#fr_26) A ceremonial title
+<span id="fn_26"></span>[120:1](woe05.htm#fr_26.md) A ceremonial title
 applied to deceased persons, analogous to our "the late." "Justified" is
 not an exact rendering, but it is usual, and will serve.
 
-<span id="fn_27"></span>[120:2](woe05.htm#fr_27) Literally, heart.
+<span id="fn_27"></span>[120:2](woe05.htm#fr_27.md) Literally, heart.
 
-<span id="fn_28"></span>[121:1](woe05.htm#fr_28) An allusion to the
+<span id="fn_28"></span>[121:1](woe05.htm#fr_28.md) An allusion to the
 people of Egypt, whom he had freed from the foreign oppressors.
 
-<span id="fn_29"></span>[121:2](woe05.htm#fr_29) He remained quiet but
+<span id="fn_29"></span>[121:2](woe05.htm#fr_29.md) He remained quiet but
 watchful.
 
-<span id="fn_30"></span>[122:1](woe05.htm#fr_30) Referring to the
+<span id="fn_30"></span>[122:1](woe05.htm#fr_30.md) Referring to the
 co-regency with his son.
 
-<span id="fn_31"></span>[122:2](woe05.htm#fr_31) Referring to the
+<span id="fn_31"></span>[122:2](woe05.htm#fr_31.md) Referring to the
 attempted assassination.
 
-<span id="fn_32"></span>[122:3](woe05.htm#fr_32) The limits, south and
+<span id="fn_32"></span>[122:3](woe05.htm#fr_32.md) The limits, south and
 north, of his Kingdom.
 
-<span id="fn_33"></span>[122:4](woe05.htm#fr_33) The god of corn.
+<span id="fn_33"></span>[122:4](woe05.htm#fr_33.md) The god of corn.
 
-<span id="fn_34"></span>[123:1](woe05.htm#fr_34) Or, unborn souls.
+<span id="fn_34"></span>[123:1](woe05.htm#fr_34.md) Or, unborn souls.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Book of the Dead](woe06)
+[Next: Chapter IV: The Book of the Dead](woe06.md)

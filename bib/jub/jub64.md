@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub63) 
-[Next](jub65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub63.md) 
+[Next](jub65.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 
 26\. And in the morning Jacob told his father Isaac the vow which he had
 vowed to the Lord, and the vision which he had seen, and that he had
-built an altar, <span id="fr_735"></span>[1](#fn_732) and that
+built an altar, <span id="fr_735"></span>[1](#fn_732.md) and that
 everything was ready for the sacrifice to be made before the Lord as he
 had vowed, and that he had come to set him on an ass. 27. And Isaac said
 unto Jacob his son: "I am not able to go with thee; for I am old, and
@@ -22,7 +22,7 @@ that thou hast come on my account, and may this day be blessed on which
 thou hast seen me alive, and I also have seen thee, my son. 29. Mayest
 thou prosper and fulfil the vow which thou hast vowed, and put not off
 thy vow; for thou wilt be called to account as touching the vow; <span
-id="fr_736"></span>[2](#fn_733) now therefore make haste to perform it,
+id="fr_736"></span>[2](#fn_733.md) now therefore make haste to perform it,
 and may He be pleased who hath made all things, to whom thou hast vowed
 the vow." 30. And he said to Rebecca: "Go with Jacob thy son"; and
 Rebecca went with Jacob her son, and Deborah with her, and they came to
@@ -38,14 +38,14 @@ them.
 
 ### Footnotes
 
-<span id="fn_732"></span>[161:1](jub64.htm#fr_735) At Bethel; cf. Gen.
+<span id="fn_732"></span>[161:1](jub64.htm#fr_735.md) At Bethel; cf. Gen.
 xxviii. 18-22.
 
-<span id="fn_733"></span>[161:2](jub64.htm#fr_736) Note the emphasis on
+<span id="fn_733"></span>[161:2](jub64.htm#fr_736.md) Note the emphasis on
 the obligation to keep a vow.
 
 ------------------------------------------------------------------------
 
 [Next: Levi's Dream at Bethel; he is appointed to the Priesthood. Jacob
 celebrates the Feast of Tabernacles and offers Tithes. The Institution
-of Tithes (xxxii. 1-15)](jub65)
+of Tithes (xxxii. 1-15)](jub65.md)

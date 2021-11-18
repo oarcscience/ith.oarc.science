@@ -1,7 +1,7 @@
-[Sacred-Texts](../../index)  [Classical Paganism](../index) 
-[Index](index)  [Index of First Lines](first)  [Greek
-Transliteration](saphxlit)  
-[Previous](sappho0)  [Next](sappho2) 
+[Sacred-Texts](../../index)  [Classical Paganism](../index.md) 
+[Index](index)  [Index of First Lines](first.md)  [Greek
+Transliteration](saphxlit.md)  
+[Previous](sappho0)  [Next](sappho2.md) 
 
 ------------------------------------------------------------------------
 
@@ -329,4 +329,4 @@ Quoted by Athenaeus
 
 ------------------------------------------------------------------------
 
-[Next: Part III](sappho2)
+[Next: Part III](sappho2.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth21)  [Next](doth23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth21)  [Next](doth23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -30,6 +30,6 @@ freewill gift, and whose kindness is extended to all reasonable beings.
 
 ------------------------------------------------------------------------
 
-[Next: The Motive Forces that Impel Man to Grateful Service](doth23)
+[Next: The Motive Forces that Impel Man to Grateful Service](doth23.md)
 
 </div>

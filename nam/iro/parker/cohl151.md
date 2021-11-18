@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl150)  [Next](cohl152) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl150)  [Next](cohl152.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ being brought in only during the intermissions.
 
 ------------------------------------------------------------------------
 
-[Next: Pygmy Society, The Dark Dance Ceremony](cohl152)
+[Next: Pygmy Society, The Dark Dance Ceremony](cohl152.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi029)  [Next](mtsi031) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi029)  [Next](mtsi031.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ foes.
 
 ------------------------------------------------------------------------
 
-[Next: 29. The Story of the Turkey](mtsi031)
+[Next: 29. The Story of the Turkey](mtsi031.md)

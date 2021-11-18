@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft29)  [Next](efft31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft29)  [Next](efft31.md) 
 
 ------------------------------------------------------------------------
 
-# THE KING OF THE CATS  <span id="fr_36"></span>[1](#fn_36)
+# THE KING OF THE CATS  <span id="fr_36"></span>[1](#fn_36.md)
 
 MANY years ago, long before shooting in Scotland was a fashion as it is
 now, two young men spent the autumn in the very far north, living in a
@@ -51,9 +51,9 @@ chimney and was seen no more.
 
 ### Footnotes
 
-<span id="fn_36"></span>[1](efft30.htm#fr_36) *Folk Lore Journa*l, vol.
+<span id="fn_36"></span>[1](efft30.htm#fr_36.md) *Folk Lore Journa*l, vol.
 ii., p 22.
 
 ------------------------------------------------------------------------
 
-[Next: A Myth of Midridge](efft31)
+[Next: A Myth of Midridge](efft31.md)

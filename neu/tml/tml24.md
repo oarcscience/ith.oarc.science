@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml23)  [Next](tml25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml23)  [Next](tml25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -122,7 +122,7 @@ warriors followed his trail on horseback until they came to the water of
 sea demons, which they beheld weltering with blood; the waves surged red
 and hot with gore. The death-doomed Grendel had laid his life down in
 his lair--his heathen soul. There Hela <span
-id="fr_30"></span>[1](#fn_30) snatched him away.
+id="fr_30"></span>[1](#fn_30.md) snatched him away.
 
 Then the mounted warriors rode back and proclaimed the tidings and the
 glory of Beowulf, of whom they said that no other warrior between the
@@ -158,7 +158,7 @@ Nydam. 5. Bronze Sword Grip decorated with gold and garnets.&lt;br&gt;
 1. 3, &lt;i&gt;and&lt;/i&gt; 5 &lt;i&gt;reproduced by permission
 from&lt;/i&gt; ''&lt;i&gt;Kulturgeshichte Schwedens&lt;/i&gt;''
 &lt;i&gt;by Oscar Montelius&lt;/i&gt;](tn/20000.jpg)  
-Click to enlarge](img/20000.jpg)  
+Click to enlarge](img/20000.jpg.md)  
 VIKING RELICS  
 1. Gold Collar from Oland. 2. Masked Helmet from Thorsbjerg Moss. 3.
 Drinking-horn. 4. Portion of a Damascened Sword from Nydam. 5. Bronze
@@ -179,7 +179,7 @@ hero's followers was given a sword, and blood money was paid for the
 warrior whom Grendel had devoured.
 
 At the feast a minstrel sang of the deeds of King Finn <span
-id="fr_31"></span>[1](#fn_31) and of Hengest, Hnaef, and Hildeburgh--how
+id="fr_31"></span>[1](#fn_31.md) and of Hengest, Hnaef, and Hildeburgh--how
 Finn married Hildeburgh, the sister of Hnaef, who was afterwards slain
 and burned at the king's hall, and how Hengest went against Finn and
 slew him, returning to the fatherland with Hildeburgh.
@@ -187,13 +187,13 @@ slew him, returning to the fatherland with Hildeburgh.
 When the song was ended, Hrothgar's queen, Wealtitheow, gave the golden
 cup to the king, and then bore it to Beowulf, to whom she also gave two
 golden armlets, a mantle, and a jewelled collar which was as precious as
-the collar of the Brisings, <span id="fr_32"></span>[2](#fn_32) which
+the collar of the Brisings, <span id="fr_32"></span>[2](#fn_32.md) which
 Hama took from Eormanric. The wondrous collar did Beowulf afterwards
 gift to his king, Hygelac, who wore it when, in after days, he fell
 fighting against the Frisians, when to them it passed.
 
 The feast was then spread; men drank wine. They knew not stem Wyrd <span
-id="fr_33"></span>[3](#fn_33)--Destiny--as had many of the nobles before
+id="fr_33"></span>[3](#fn_33.md)--Destiny--as had many of the nobles before
 them there. And when evening came, Hrothgar rose and left the hall, and
 Beowulf went also to sleep in an outer dwelling. The benches were
 cleared and laid out as sleeping couches. . . . One among the revellers
@@ -246,7 +246,7 @@ pursued will die rather than enter the water. An awesome place it is!
 
 Thence do the waves surge to the clouds when the wind stirs up fearsome
 storms, the air is filled with mist, and the heavens weep. <span
-id="fr_34"></span>[1](#fn_34)
+id="fr_34"></span>[1](#fn_34.md)
 
 Then said the king unto Beowulf: "Once more do we look to thee for aid.
 Thou knowest not yet the demon lair, the perilous retreat, where the
@@ -271,7 +271,7 @@ and his warriors.
 <span class="contnote">\[paragraph continues\]</span> They followed the
 track of the demon over the moor, and came to the stony places and the
 cliffs and the homes of sea-monsters. They reached the grey rock <span
-id="fr_35"></span>[1](#fn_35) overhung by trees, and below they beheld
+id="fr_35"></span>[1](#fn_35.md) overhung by trees, and below they beheld
 the mere surging and red with blood. On a cliff top they found Æschere's
 head.
 
@@ -304,7 +304,7 @@ could do him no hurt. Sea
 <span id="page_205">p. 205</span>
 
 monsters attacked him with sharp tusks, <span
-id="fr_36"></span>[1](#fn_36) so that he could not use his sword, and
+id="fr_36"></span>[1](#fn_36.md) so that he could not use his sword, and
 they followed as the demon drew him into her lair. Then did Beowulf
 perceive that he was dragged into a hall beyond the sea's reach. The
 glow of fire-like light was shining bright, and Beowulf perceived that
@@ -386,12 +386,12 @@ attacks in the darkness."
 To Hrothgar gave Beowulf the sword-hilt rich in victory, the work of a
 wonder-smith. It was a heritage of the past, and upon it was engraved
 that primeval war when the surging sea engulfed the race of giants <span
-id="fr_37"></span>[1](#fn_37). Terribly were they punished--that people
+id="fr_37"></span>[1](#fn_37.md). Terribly were they punished--that people
 who were alien to the Eternal Lord; the Supreme Ruler gave them their
 final deserts in the flood. A gold plate upon the hilt had engraved in
 runes the name of him for whom that choicest of weapons was first made
 with decorated hilt and serpent ornament. <span
-id="fr_38"></span>[2](#fn_38)
+id="fr_38"></span>[2](#fn_38.md)
 
 There was silence in the hall when Hrothgar, son of Halfdane, spoke of
 Beowulf's deed. Well may he say, an aged guardian who promotes truth and
@@ -405,7 +405,7 @@ wide. With modesty and prudence thou dost bear thyself. My friendship
 thou shalt have, as I promised thee. Thou shalt ever be a strength to
 thy people and an aid to war men.
 
-Not so was Heremod <span id="fr_39"></span>[1](#fn_39) to the children
+Not so was Heremod <span id="fr_39"></span>[1](#fn_39.md) to the children
 of Ecgwela, the renowned Scyldings. Not for their happiness did he
 flourish, but to bring cruelty and slaughter to the Danes. God had given
 him power and strength greater than any other man, but he had a fierce
@@ -436,7 +436,7 @@ and horses which Hrothgar had given.
 <span id="img_20800"></span> <span align="CENTER"> [![VIKING
 ORNAMENTS&lt;br&gt; 1. Pin-brooch; 2, 3, 4, 5, Bronze Buckles; 6, Gold
 Neck-chain with Hammer of Thor hanging at bottom](tn/20800.jpg)  
-Click to enlarge](img/20800.jpg)  
+Click to enlarge](img/20800.jpg.md)  
 VIKING ORNAMENTS  
 1. Pin-brooch; 2, 3, 4, 5, Bronze Buckles; 6, Gold Neck-chain with
 Hammer of Thor hanging at bottom  
@@ -461,37 +461,37 @@ a country seat, and the rank of a prince.
 
 ### Footnotes
 
-<span id="fn_30"></span>[200:1](tml24.htm#fr_30) Urd, Queen of Hela.
+<span id="fn_30"></span>[200:1](tml24.htm#fr_30.md) Urd, Queen of Hela.
 
-<span id="fn_31"></span>[201:1](tml24.htm#fr_31) One of several heroic
+<span id="fn_31"></span>[201:1](tml24.htm#fr_31.md) One of several heroic
 poems founded on the Ivalde moon-myth.
 
-<span id="fn_32"></span>[201:2](tml24.htm#fr_32) Probably a legend
+<span id="fn_32"></span>[201:2](tml24.htm#fr_32.md) Probably a legend
 founded on the fight between Heimdal and Loke, when the latter tries to
 steal Brisingamen, Freyja's necklace. Hama is Heimdal.
 
-<span id="fn_33"></span>[201:3](tml24.htm#fr_33) Urd, Queen of Fate (as
+<span id="fn_33"></span>[201:3](tml24.htm#fr_33.md) Urd, Queen of Fate (as
 chief Norn) and of Death.
 
-<span id="fn_34"></span>[203:1](tml24.htm#fr_34) Ironwood and the Hag
+<span id="fn_34"></span>[203:1](tml24.htm#fr_34.md) Ironwood and the Hag
 are suggested. Hati-managarm, Angerboda's son, is also a maneater like
 Grendel.
 
-<span id="fn_35"></span>[204:1](tml24.htm#fr_35) The Svipdag-dragon is
+<span id="fn_35"></span>[204:1](tml24.htm#fr_35.md) The Svipdag-dragon is
 also under a grey rock. The treasures he guards, and especially Freyja's
 necklace, also shine like fire in the water.
 
-<span id="fn_36"></span>[205:1](tml24.htm#fr_36) Walruses?
+<span id="fn_36"></span>[205:1](tml24.htm#fr_36.md) Walruses?
 
-<span id="fn_37"></span>[207:1](tml24.htm#fr_37) The sons of Ymer.
+<span id="fn_37"></span>[207:1](tml24.htm#fr_37.md) The sons of Ymer.
 
-<span id="fn_38"></span>[207:2](tml24.htm#fr_38) The traditional Sword
+<span id="fn_38"></span>[207:2](tml24.htm#fr_38.md) The traditional Sword
 of Victory, made by Thjasse-Volund, which was in the keeping of the Hag
 of Ironwood and her shepherd, Gymer. The runes, the smith's name, and
 the serpent charm suggest its magical qualities. It was evidently
 intended to achieve as great a disaster as did the Ymer deluge.
 
-<span id="fn_39"></span>[208:1](tml24.htm#fr_39) A reference to an older
+<span id="fn_39"></span>[208:1](tml24.htm#fr_39.md) A reference to an older
 heroic tale. Hermod, the son of Odin, who visited Balder in Hades, has
 some connection with the Svipdag myth. Indeed, Rydberg identifies him
 with Svipdag. Beowulf is a hero of similar cast. Each has the attributes
@@ -501,4 +501,4 @@ tradition, were condemned when compared with the new and nobler.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. Beowulf and the Dragon](tml25)
+[Next: Chapter XX. Beowulf and the Dragon](tml25.md)

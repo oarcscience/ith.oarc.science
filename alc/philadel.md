@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](mirror)  [Next](rbacon2) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](mirror)  [Next](rbacon2.md) 
 
 ------------------------------------------------------------------------
 
@@ -895,6 +895,6 @@ and how it is made to multiply itself.
 ------------------------------------------------------------------------
 
 [Next: Tract on the Tincture and Oil of Antimony by Roger
-Bacon](rbacon2)
+Bacon](rbacon2.md)
 
   

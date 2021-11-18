@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia08)  [Next](aia10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia08)  [Next](aia10.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,28 +74,28 @@ thereof.
 *Places*.--He delights in being near altars of churches, in public
 conventions, synods, convocations; in places neat and sweet; in
 wardrobes, courts of justice, and oratories. <span
-id="fr_23"></span>[1](#fn_23) His greatest years are 428; his greater,
+id="fr_23"></span>[1](#fn_23.md) His greatest years are 428; his greater,
 79; his mean, 45; least, 12.
 
 <span id="page_40">p. 40</span>
 
 Men of middle age, or of a full judgment and discretion, are described
 by him. Babylon, Persia, Hungaria, Spain, Cullen, are ruled by him.
- <span id="fr_24"></span>[1](#fn_24)
+ <span id="fr_24"></span>[1](#fn_24.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_23"></span>[39:1](aia09.htm#fr_23) This implies, that the
+<span id="fn_23"></span>[39:1](aia09.htm#fr_23.md) This implies, that the
 person inquired about in a horary question, if signified by ♃, frequents
 such places.
 
-<span id="fn_24"></span>[40:1](aia09.htm#fr_24) We have no opinion of
+<span id="fn_24"></span>[40:1](aia09.htm#fr_24.md) We have no opinion of
 the rule of the planets over different countries: but in mundane
 astrology the signs which rule them must be observed.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Of the Planet Mars, and his Several
-Significations](aia10)
+Significations](aia10.md)

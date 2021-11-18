@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr19)  [Next](ppr21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr19)  [Next](ppr21.md) 
 
 ------------------------------------------------------------------------
 
 ### PRAYER TO BUDDHA
 
-([*Buddhist*](errata.htm#1))
+([*Buddhist*](errata.htm#1).md)
 
 THOU in whom innumerable creatures believe!  
 Thou, Buddha, Victor over the hosts of evil!  
@@ -23,4 +23,4 @@ us with all thy unstained heavenly societies.
 
 ------------------------------------------------------------------------
 
-[Next: Hymn to Agni (Hindu)](ppr21)
+[Next: Hymn to Agni (Hindu)](ppr21.md)

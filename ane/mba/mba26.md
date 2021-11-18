@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba25)  [Next](mba27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba25)  [Next](mba27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ grievous: all that hear the bruit of thee shall clap the hands</span>
 <span id="page_478">p. 478</span>
 
 <span class="small">over thee: for upon whom hath not thy wickedness
-passed continually? <span id="fr_545"></span>[1](#fn_543)</span>
+passed continually? <span id="fr_545"></span>[1](#fn_543.md)</span>
 
 The doom of Babylon was also foretold:
 
@@ -73,7 +73,7 @@ stand up, and save thee from these things that shall come upon thee.
 Behold, they shall be as stubble; the fire shall burn them. . . . Thus
 shall they be unto thee with whom thou hast laboured, even thy
 merchants, from thy youth: they shall wander every one to his quarter;
-none shall save thee. <span id="fr_546"></span>[2](#fn_544)</span>
+none shall save thee. <span id="fr_546"></span>[2](#fn_544.md)</span>
 
 Against a gloomy background, dark and ominous as a thundercloud, we have
 revealed in the last century of Mesopotamian glory the splendour of
@@ -83,7 +83,7 @@ Cities resounded with "the noise of a whip, and the noise of the
 rattling of the wheels, and of the pransing horses, and of the jumping
 chariots. The horseman lifteth up both the bright sword and the
 glittering spear. . . . The valiant men are in scarlet." <span
-id="fr_547"></span>[3](#fn_545) But the minds of cultured men were more
+id="fr_547"></span>[3](#fn_545.md) But the minds of cultured men were more
 deeply occupied than ever with the mysteries of life and creation. In
 the libraries, the temples, and observatories, philosophers and
 scientists were shattering the unsubstantial fabric of immemorial
@@ -129,7 +129,7 @@ And create in my heart
 The worship of thy godhead  
 And grant whatever is pleasing to thee,  
 Because thou hast fashioned my life. <span
-id="fr_548"></span>[1](#fn_546)</span>
+id="fr_548"></span>[1](#fn_546.md)</span>
 
 </div>
 
@@ -250,7 +250,7 @@ sacked. Its nobles were slain or taken captive. According to the prophet
 Nahum, who refers to Thebes as No (Nu-Amon = city of Amon), "her young
 children also were dashed in pieces at the top of all the streets: and
 they (the Assyrians) cast lots for her honourable men, and all her great
-men were bound in chains". <span id="fr_549"></span>[1](#fn_547) Thebes
+men were bound in chains". <span id="fr_549"></span>[1](#fn_547.md) Thebes
 never again recovered its prestige. Its treasures were transported to
 Nineveh. The Ethiopian supremacy in Egypt was finally extinguished, and
 Psamtik, son of Necho, who was appointed the Pharaoh, began to reign as
@@ -324,7 +324,7 @@ occurred. Shamash-shum-ukin, the rebel king, shut himself up in his
 palace and set fire to it, and perished there amidst the flames with his
 wife and children, his slaves and all his treasures. Ashur-bani-pal was
 in 647 B.C. proclaimed King Kandalanu <span
-id="fr_550"></span>[1](#fn_548) of Babylon, and reigned over it until
+id="fr_550"></span>[1](#fn_548.md) of Babylon, and reigned over it until
 his death in 626 B.C.
 
 Elam was severely dealt with. That unhappy country was terribly
@@ -376,7 +376,7 @@ siege of Nineveh took place.
 RECLINING IN A BOWER&lt;br&gt; &lt;i&gt;Marble Slab from Kouyunjik
 (Nineveh); now in British Museum&lt;/i&gt;.&lt;br&gt; Photo.
 Mansell](tn/48600.jpg)  
-Click to enlarge](img/48600.jpg)  
+Click to enlarge](img/48600.jpg.md)  
 ASHUR-BANI-PAL RECLINING IN A BOWER  
 *Marble Slab from Kouyunjik (Nineveh); now in British Museum*.  
 Photo. Mansell  
@@ -389,7 +389,7 @@ Photo. Mansell
 In the Bible he is referred to as "the great and noble Asnapper", and he
 appears to have been the emperor who settled the Babylonian, Elamite,
 and other colonists "in the cities of Samaria". <span
-id="fr_551"></span>[1](#fn_549)
+id="fr_551"></span>[1](#fn_549.md)
 
 He erected at Nineveh a magnificent palace, which was decorated on a
 lavish scale. The sculptures are the finest productions of Assyrian art,
@@ -438,7 +438,7 @@ Assyrian capital. "Woe to the bloody city! it is all full of lies and
 robbery", Nahum had cried. ". . . The gates of the rivers shall be
 opened, and the palace shall be dissolved. . . . Take ye the spoil of
 silver, take the spoil of gold. . . . Behold, I am against thee, saith
-the Lord of hosts." <span id="fr_552"></span>[1](#fn_550)
+the Lord of hosts." <span id="fr_552"></span>[1](#fn_550.md)
 
 According to Herodotus, an army of Medes under Cyaxares had defeated the
 Assyrians and were besieging Nineveh when the Scythians overran Media.
@@ -463,21 +463,21 @@ an army and fleet. Gaza and Askalon were captured. Josiah, the grandson
 of Manasseh, was King of Judah. "In his days Pharaoh-nechoh king of
 Egypt went up against the king of Assyria to the river Euphrates: and
 king Josiah went against him; and he (Necho) slew him at Megiddo." <span
-id="fr_553"></span>[1](#fn_551) His son, Jehoahaz, succeeded him, but
+id="fr_553"></span>[1](#fn_551.md) His son, Jehoahaz, succeeded him, but
 was deposed three months later by Necho, who placed another son of
 Josiah, named Eliakim, on the throne, "and turned his name to
-Jehoiakim". <span id="fr_554"></span>[2](#fn_552) The people were
+Jehoiakim". <span id="fr_554"></span>[2](#fn_552.md) The people were
 heavily taxed to pay tribute to the Pharaoh.
 
 When Necho pushed northward towards the Euphrates he was met by a
 Babylonian army under command of Prince Nebuchadrezzar. <span
-id="fr_555"></span>[3](#fn_553) The Egyptians were routed at Carchemish
+id="fr_555"></span>[3](#fn_553.md) The Egyptians were routed at Carchemish
 in 60s B.C. (*Jeremiah*, xvi, 2).
 
 In 604 B.C. Nabopolassar died, and the famous Nebuchadrezzar II ascended
 the throne of Babylon. He lived to be one of its greatest kings, and
 reigned for over forty years. It was he who built the city described by
-Herodotus (pp. [219](mba16.htm#page_219) *et seq*.), and constructed its
+Herodotus (pp. [219](mba16.htm#page_219) *et seq*..md), and constructed its
 outer wall, which enclosed so large an area that no army could invest
 it. Merodach's temple was decorated with greater magnificence than ever
 before. The great palace and hanging gardens were erected by this mighty
@@ -496,12 +496,12 @@ infested the caravan roads. "The king of Egypt", after his crushing
 defeat at Carchemish, "came not again any more out of his land: for the
 king of Babylon had taken from the river of Egypt unto the river
 Euphrates all that pertained to the king of Egypt." <span
-id="fr_556"></span>[1](#fn_554) Jehoiakim of Judah remained faithful to
+id="fr_556"></span>[1](#fn_554.md) Jehoiakim of Judah remained faithful to
 Necho until he was made a prisoner by Nebuchadrezzar, who "bound him in
-fetters to carry him to Babylon". <span id="fr_557"></span>[2](#fn_555)
+fetters to carry him to Babylon". <span id="fr_557"></span>[2](#fn_555.md)
 He was afterwards sent back to Jerusalem. "And Jehoiakim became his
 (Nebuchadrezzar's) servant three years: then he turned and rebelled
-against him." <span id="fr_558"></span>[3](#fn_556)
+against him." <span id="fr_558"></span>[3](#fn_556.md)
 
 Bands of Chaldæans, Syrians, Moabites, and Ammonites were harassing the
 frontiers of Judah, and it seemed to the king as if the Babylonian power
@@ -512,7 +512,7 @@ and the young king submitted to him and was carried off to Babylon, with
 "all the princes, and all the mighty men of valour, even ten thousand
 captives, and all the craftsmen and smiths: none remained save the
 poorest sort of the people of the land". <span
-id="fr_559"></span>[4](#fn_557) Nebuchadrezzar had need of warriors and
+id="fr_559"></span>[4](#fn_557.md) Nebuchadrezzar had need of warriors and
 work-men.
 
 Zedekiah was placed on the throne of Judah as an Assyrian vassal. He
@@ -525,7 +525,7 @@ Tyre and Sidon,
 Ammon in favour of Egyptian suzerainty. Pharaoh Hophra (Apries), the
 fourth king of the Twenty-sixth Dynasty, took active steps to assist the
 conspirators, and "Zedekiah rebelled against the king of Babylon". <span
-id="fr_560"></span>[1](#fn_558)
+id="fr_560"></span>[1](#fn_558.md)
 
 Nebuchadrezzar led a strong army through Mesopotamia, and divided it at
 Riblah, on the Orontes River. One part of it descended upon Judah and
@@ -541,7 +541,7 @@ Nebuchadrezzar, who was at Riblah, in the land of Hamath.
 before his eyes. . . . Then he put out the eyes of Zedekiah; and the
 king of Babylon bound him in chains and carried him to Babylon and put
 him in prison till the day of his death. <span
-id="fr_561"></span>[2](#fn_559)</span>
+id="fr_561"></span>[2](#fn_559.md)</span>
 
 <span class="contnote">\[paragraph continues\]</span> The majority of
 the Jews were deported to Babylonia, where they were employed as farm
@@ -569,7 +569,7 @@ persecutors overtook her between the straits. . . .
 
 Jerusalem remembered in the days of her affliction and of her miseries
 all her pleasant things that she had in the days of old. . . . <span
-id="fr_562"></span>[1](#fn_560)
+id="fr_562"></span>[1](#fn_560.md)
 
 Tyre was besieged, but was not captured. Its king, however, arranged
 terms of peace with Nebuchadrezzar.
@@ -577,7 +577,7 @@ terms of peace with Nebuchadrezzar.
 Amel-Marduk, the "Evil Merodach" of the Bible, the next king of Babylon,
 reigned for a little over two years. He released Jehoiachin from prison,
 and allowed him to live in the royal palace. <span
-id="fr_563"></span>[2](#fn_561) Berosus relates that Amel-Marduk lived a
+id="fr_563"></span>[2](#fn_561.md) Berosus relates that Amel-Marduk lived a
 dissipated life, and was slain by his brother-in-law, Nergal-shar-utsur,
 who reigned two years (559-6 B.C.). Labashi-Marduk, son of
 Nergal-shar-utsur, followed with a reign of nine months. He was deposed
@@ -668,7 +668,7 @@ gods of gold, and of silver, of brass, of iron, of</span>
 CHARIOTS, RINGS, AND WREATHS&lt;br&gt; &lt;i&gt;Bas-relief from
 Persepolis: now in the British Museum&lt;/i&gt;.&lt;br&gt; Photo.
 Mansell](tn/49400.jpg)  
-Click to enlarge](img/49400.jpg)  
+Click to enlarge](img/49400.jpg.md)  
 PERSIANS BRINGING CHARIOTS, RINGS, AND WREATHS  
 *Bas-relief from Persepolis: now in the British Museum*.  
 Photo. Mansell  
@@ -680,7 +680,7 @@ Photo. Mansell
 
 <span class="small">wood, and of stone. . . . In that night was
 Belshazzar the king of the Chaldeans slain. <span
-id="fr_564"></span>[1](#fn_562)</span>
+id="fr_564"></span>[1](#fn_562.md)</span>
 
 On the 16th of Tammuz the investing army under Gobryas entered Babylon,
 the gates having been opened by friends within the city. Some think that
@@ -717,7 +717,7 @@ strange land? If I forget thee, O</span>
 <span class="contnote">\[paragraph continues\]</span> Jerusalem, let my
 right hand forget her cunning. If I do not remember thee, let my tongue
 cleave to the roof of my mouth; if I prefer not Jerusalem above my chief
-joy. <span id="fr_565"></span>[1](#fn_563)
+joy. <span id="fr_565"></span>[1](#fn_563.md)
 
 Cyrus heard with compassion the cry of the captives.
 
@@ -730,7 +730,7 @@ given me all kingdoms of the earth; and he hath charged me to build him
 an house at Jerusalem, which is in Judah. Who is there among you of all
 his people? his God be with him, and let him go up to Jerusalem, which
 is in Judah, and build the house of the Lord God of Israel (he is the
-God) which is in Jerusalem. <span id="fr_566"></span>[2](#fn_564)</span>
+God) which is in Jerusalem. <span id="fr_566"></span>[2](#fn_564.md)</span>
 
 In 538 B.C. the first party of Jews who were set free saw through tears
 the hills of home, and hastened their steps to reach Mount Zion. Fifty
@@ -760,7 +760,7 @@ however, was afraid "to lay his hands upon it". Xerxes, son of Darius
 (485-465 B.C.), punished Babylon for revolting, when intelligence
 reached them of his disasters in Greece, by pillaging and partly
 destroying the temple. "He killed the priest who forbade him to move the
-statue, and took it away." <span id="fr_567"></span>[1](#fn_565) The
+statue, and took it away." <span id="fr_567"></span>[1](#fn_565.md) The
 city lost its vassal king, and was put under the control of a governor.
 It, however, regained some of its ancient glory after the burning of
 Susa palace, for the later Persian monarchs resided in it. Darius II
@@ -805,7 +805,7 @@ to the undertaking at Babylon"--the reconstruction of Merodach's temple.
 "Other works were neglected, and the city was dilapidated partly by the
 Persians and partly by time and through the indifference of the Greeks,
 particularly after Seleucus Nicator fortified Seleukeia on the
-Tigris." <span id="fr_568"></span>[1](#fn_566)
+Tigris." <span id="fr_568"></span>[1](#fn_566.md)
 
 Seleucus drafted to the city which bore his name the great bulk of the
 inhabitants of Babylon. The remnant which was left behind continued to
@@ -824,7 +824,7 @@ habitation of dragons, and a court for owls. The wild beasts of the
 desert shall also meet with the wild beasts of the island, and the satyr
 shall cry to his fellow: the screech owl also shall rest there, and find
 for herself a place of rest. <span
-id="fr_569"></span>[1](#fn_567)</span>
+id="fr_569"></span>[1](#fn_567.md)</span>
 
  
 
@@ -838,71 +838,71 @@ id="fr_569"></span>[1](#fn_567)</span>
 
 ### Footnotes
 
-<span id="fn_543"></span>[478:1](mba26.htm#fr_545) *Nahum*, i, ii, and
+<span id="fn_543"></span>[478:1](mba26.htm#fr_545.md) *Nahum*, i, ii, and
 iii.
 
-<span id="fn_544"></span>[478:2](mba26.htm#fr_546) *Isaiah*, xivi, 1;
+<span id="fn_544"></span>[478:2](mba26.htm#fr_546.md) *Isaiah*, xivi, 1;
 xlvii, 1-15.
 
-<span id="fn_545"></span>[478:3](mba26.htm#fr_547) *Nahum*, iii, 2, 3;
+<span id="fn_545"></span>[478:3](mba26.htm#fr_547.md) *Nahum*, iii, 2, 3;
 ii, 3.
 
-<span id="fn_546"></span>[479:1](mba26.htm#fr_548) Goodspeed's *A
+<span id="fn_546"></span>[479:1](mba26.htm#fr_548.md) Goodspeed's *A
 History of the Babylonians and Assyrians*, p. 348.
 
-<span id="fn_547"></span>[483:1](mba26.htm#fr_549) *Nahum*, iii, 8-11.
+<span id="fn_547"></span>[483:1](mba26.htm#fr_549.md) *Nahum*, iii, 8-11.
 
-<span id="fn_548"></span>[485:1](mba26.htm#fr_550) Ptolemy's
+<span id="fn_548"></span>[485:1](mba26.htm#fr_550.md) Ptolemy's
 Kineladanus.
 
-<span id="fn_549"></span>[487:1](mba26.htm#fr_551) *Ezra*, iv, 10.
+<span id="fn_549"></span>[487:1](mba26.htm#fr_551.md) *Ezra*, iv, 10.
 
-<span id="fn_550"></span>[488:1](mba26.htm#fr_552) *Nahum*, iii and ii.
+<span id="fn_550"></span>[488:1](mba26.htm#fr_552.md) *Nahum*, iii and ii.
 
-<span id="fn_551"></span>[489:1](mba26.htm#fr_553) *2 Kings*, xxiii, 29.
+<span id="fn_551"></span>[489:1](mba26.htm#fr_553.md) *2 Kings*, xxiii, 29.
 
-<span id="fn_552"></span>[489:2](mba26.htm#fr_554) *Ibid*., 33-5.
+<span id="fn_552"></span>[489:2](mba26.htm#fr_554.md) *Ibid*., 33-5.
 
-<span id="fn_553"></span>[489:3](mba26.htm#fr_555) Nebuchadrezzar is
+<span id="fn_553"></span>[489:3](mba26.htm#fr_555.md) Nebuchadrezzar is
 more correct than Nebuchadnezzar.
 
-<span id="fn_554"></span>[490:1](mba26.htm#fr_556) *2 Kings*, xxiv, 7.
+<span id="fn_554"></span>[490:1](mba26.htm#fr_556.md) *2 Kings*, xxiv, 7.
 
-<span id="fn_555"></span>[490:2](mba26.htm#fr_557) *2 Chronicles*,
+<span id="fn_555"></span>[490:2](mba26.htm#fr_557.md) *2 Chronicles*,
 xxxvi, 6.
 
-<span id="fn_556"></span>[490:3](mba26.htm#fr_558) *2 Kings*, xxiv, 1.
+<span id="fn_556"></span>[490:3](mba26.htm#fr_558.md) *2 Kings*, xxiv, 1.
 
-<span id="fn_557"></span>[490:4](mba26.htm#fr_559) *2 Kings*, xxiv,
+<span id="fn_557"></span>[490:4](mba26.htm#fr_559.md) *2 Kings*, xxiv,
 8-15.
 
-<span id="fn_558"></span>[491:1](mba26.htm#fr_560) *Jeremiah*, lii, 3.
+<span id="fn_558"></span>[491:1](mba26.htm#fr_560.md) *Jeremiah*, lii, 3.
 
-<span id="fn_559"></span>[491:2](mba26.htm#fr_561) *Jeremiah*, lii,
+<span id="fn_559"></span>[491:2](mba26.htm#fr_561.md) *Jeremiah*, lii,
 4-11.
 
-<span id="fn_560"></span>[492:1](mba26.htm#fr_562) *The Lamentations of
+<span id="fn_560"></span>[492:1](mba26.htm#fr_562.md) *The Lamentations of
 Jeremiah*, i, 1-7.
 
-<span id="fn_561"></span>[492:2](mba26.htm#fr_563) *Jeremiah*, lii,
+<span id="fn_561"></span>[492:2](mba26.htm#fr_563.md) *Jeremiah*, lii,
 31-4.
 
-<span id="fn_562"></span>[495:1](mba26.htm#fr_564) *Daniel*, v, 1 *et
+<span id="fn_562"></span>[495:1](mba26.htm#fr_564.md) *Daniel*, v, 1 *et
 seq*.
 
-<span id="fn_563"></span>[496:1](mba26.htm#fr_565) *Psalms*, cxxxvii,
+<span id="fn_563"></span>[496:1](mba26.htm#fr_565.md) *Psalms*, cxxxvii,
 1-6.
 
-<span id="fn_564"></span>[496:2](mba26.htm#fr_566) *Ezra*, i, 1-3.
+<span id="fn_564"></span>[496:2](mba26.htm#fr_566.md) *Ezra*, i, 1-3.
 
-<span id="fn_565"></span>[497:1](mba26.htm#fr_567) *Herodotus*, i, 183;
+<span id="fn_565"></span>[497:1](mba26.htm#fr_567.md) *Herodotus*, i, 183;
 *Strabo*, xvi, 1, 5; and *Arrian*, vii, 17.
 
-<span id="fn_566"></span>[498:1](mba26.htm#fr_568) *Strabo*, xvi, 1-5.
+<span id="fn_566"></span>[498:1](mba26.htm#fr_568.md) *Strabo*, xvi, 1-5.
 
-<span id="fn_567"></span>[499:1](mba26.htm#fr_569) *Isaiah*, xxxiv,
+<span id="fn_567"></span>[499:1](mba26.htm#fr_569.md) *Isaiah*, xxxiv,
 11-4.
 
 ------------------------------------------------------------------------
 
-[Next: A-C](mba27)
+[Next: A-C](mba27.md)

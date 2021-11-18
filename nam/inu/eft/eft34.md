@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft33)  [Next](eft35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft33)  [Next](eft35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -74,17 +74,17 @@ in the fog.
 <span id="img_096a"></span> <span align="CENTER"> [![An
 ''inland-dweller,'' half dog, half human, pointing out a settlement for
 destruction.](tn/096a.jpg)  
-Click to enlarge](img/096a.jpg)  
+Click to enlarge](img/096a.jpg.md)  
 An ''inland-dweller,'' half dog, half human, pointing out a settlement
 for destruction.  
 </span>
 
 <span id="img_096b"></span> <span align="CENTER"> [![A tupilak
 frightening a man to death in his kayak.](tn/096b.jpg)  
-Click to enlarge](img/096b.jpg)  
+Click to enlarge](img/096b.jpg.md)  
 A tupilak frightening a man to death in his kayak.  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: THE INLAND-DWELLERS OF ETAH](eft35)
+[Next: THE INLAND-DWELLERS OF ETAH](eft35.md)

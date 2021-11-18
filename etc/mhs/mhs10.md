@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs09)  [Next](mhs11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs09)  [Next](mhs11.md) 
 
 ------------------------------------------------------------------------
 
@@ -317,4 +317,4 @@ horse-shoes and to iron articles generally.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Fire As A Spirit-scaring Element](mhs11)
+[Next: VIII. Fire As A Spirit-scaring Element](mhs11.md)

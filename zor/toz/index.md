@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index) 
-[Wisdom of the East](../../woe/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index.md) 
+[Wisdom of the East](../../woe/index.md) 
 
 </div>
 
@@ -25,24 +25,24 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](toz00)    [Page
-Index](pageidx)    [Text \[Zipped\]](toz.txt.gz)
+[Contents](#contents)    [Start Reading](toz00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](toz.txt.gz.md)
 
 ------------------------------------------------------------------------
 
 This is a short study of the Zoroastrian religion, part of the Wisdom of
 the East series. S.A. Kapadia, who along with L. Cranmer-Byng, edited or
-wrote many of the books in the [Wisdom of the East](../../woe/index),
+wrote many of the books in the [Wisdom of the East](../../woe/index.md),
 was a member of the Indian Zoroastrian community, and his personal
 insights into the religion are invaluable.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](toz00)  
-[Contents](toz01)  
-[Editorial Note](toz02)  
-[Author's Preface](toz03)  
-[Introduction](toz04)  
-[Extracts](toz05)  
-[Notes](toz06)  
-[Advertisements](toz07)  
+<span id="contents"></span> [Title Page](toz00.md)  
+[Contents](toz01.md)  
+[Editorial Note](toz02.md)  
+[Author's Preface](toz03.md)  
+[Introduction](toz04.md)  
+[Extracts](toz05.md)  
+[Notes](toz06.md)  
+[Advertisements](toz07.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov12)  [Next](vov14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov12)  [Next](vov14.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ this? O Vema.
 
 Words are produced by the thousand (let bags of wards come); yet by well
 weighing words, they become magic gems. By knowing the
-[composition](errata.htm#193) of words, thou with thy words gain
+[composition](errata.htm#193.md) of words, thou with thy words gain
 perfection O, Vema!
 
 <span id="page_265">p. 265</span>
@@ -50,7 +50,7 @@ Vema!
 1106
 
 Though you have gained wealth you may not have got liberality. The
-wisdom of Brahma Deva is the [wisdom](errata.htm#194) of a fool (lit.
+wisdom of Brahma Deva is the [wisdom](errata.htm#194.md) of a fool (lit.
 slave). He gives wealth here and liberality there.
 
 1107
@@ -75,7 +75,7 @@ our great object to know what is true happiness.
 1110
 
 If thou plant a tree carefully but give it no trellis, it will not grow
-but perish in this world. Thus [it](errata.htm#195) is with him who
+but perish in this world. Thus [it](errata.htm#195.md) is with him who
 desireth wisdom but can obtain no teacher.
 
 1111
@@ -102,7 +102,7 @@ pupil does not depend on the teacher.
 1114
 
 If you take a vile fellow and give him wealth he will overthrow even the
-venerable. [Does](errata.htm#196) the dog that gnaws shoes know the
+venerable. [Does](errata.htm#196.md) the dog that gnaws shoes know the
 sweetness of the sugar cane?
 
 1115
@@ -175,7 +175,7 @@ should the sinner be a teacher? Behold the mind of a fool. Does it know
 1126
 
 To cleanse his mouth is a great trouble (nastiness) even to the great
-saint. Not even a son of Brahma can [purify](errata.htm#197) his mouth,
+saint. Not even a son of Brahma can [purify](errata.htm#197.md) his mouth,
 But the mouth that speaks the truth is the purest in the world.
 
 1127
@@ -214,7 +214,7 @@ they burn and eat them.
 
 They will quit all tasks whatever and the men of the world long (lit.
 dwell) for the taste of the mouth (eloquence). If you say Devil, the
-girls are alarmed; [all](errata.htm#198) the world has become thus. O
+girls are alarmed; [all](errata.htm#198.md) the world has become thus. O
 Vera I look well to thy words.
 
 1133
@@ -272,7 +272,7 @@ perceive it, go to. This is the bond of the worldly life.
 1141
 
 What though we learn and know whence we came and where we go; it is but
-like the coming or going [of](errata.htm#199) sleep. The birth and
+like the coming or going [of](errata.htm#199.md) sleep. The birth and
 departure of the soul, these behold, form the divine state and are alone
 of importance.
 
@@ -335,7 +335,7 @@ beatified. Purity of heart is the root of all acceptable worship.
 1151
 
 Time is the effective form of Siva. Time is the
-[duration](errata.htm#200) of God. How shalt a fool know the meaning of
+[duration](errata.htm#200.md) of God. How shalt a fool know the meaning of
 true happiness?
 
 1152
@@ -349,7 +349,7 @@ holy streams.
 For garden herbs, for spontaneous vegetables, for bran and for empty
 ears (of corn), those jack asses who for such boons as these have
 written poems and have become as great as the truly
-[excellent](errata.htm#201).
+[excellent](errata.htm#201.md).
 
 1154
 
@@ -386,13 +386,13 @@ pariar, after death hell shall be his fate. O men!
 
 Is not it wrong to call that man living soul who can perceive no beauty
 in the deity Where is the linga? Where is the Zangam? (i.e., what has
-such a [Zangam](errata.htm#202) to do with the linga).
+such a [Zangam](errata.htm#202) to do with the linga.md).
 
 <span id="page_277">p. 277</span>
 
 1160
 
-Relinquish the degraded [commerce](errata.htm#203) of excessive sensual
+Relinquish the degraded [commerce](errata.htm#203.md) of excessive sensual
 delights (Lit. delights of the five senses) and truly become part of the
 divine self. Let not the internal vision desire the pleasures of
 eyesights. Call not merely with thy mouth on god, O Vema!
@@ -508,7 +508,7 @@ their quality.
 
 While there is still salt and tamarind fruits in the village why dread
 famine, O farmer! Is there no orpiment? Is there no tin? (That is, I
-advise you to poison [yourselves either](errata.htm#204) with natural
+advise you to poison [yourselves either](errata.htm#204.md) with natural
 poisons or with immoderate quantities of salt or tamarind acid).
 
 1179
@@ -646,9 +646,9 @@ out of the way shall the words of Vemana ever fall to the ground?
 
 By the spread of the passing wind, (water touched by it,) water acquires
 coolness. There is another secret hidden near to this, if men would
-understand it (the mind is [similarly](errata.htm#205) affected by
-outward [occurrences](errata.htm#206)).
+understand it (the mind is [similarly](errata.htm#205.md) affected by
+outward [occurrences](errata.htm#206).md).
 
 ------------------------------------------------------------------------
 
-[Next: 1200-1215](vov14)
+[Next: 1200-1215](vov14.md)

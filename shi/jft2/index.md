@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,22 +22,22 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](jft200)  
-[A Foreword](jft201)  
-[Contents](jft202)  
-[The First Rabbits](jft203)  
-[Lord Bag of Rice](jft204)  
-[Peach Darling](jft205)  
-[The Old Man with a Wart](jft206)  
-[The Eighty-One Brothers](jft207)  
+[Title Page](jft200.md)  
+[A Foreword](jft201.md)  
+[Contents](jft202.md)  
+[The First Rabbits](jft203.md)  
+[Lord Bag of Rice](jft204.md)  
+[Peach Darling](jft205.md)  
+[The Old Man with a Wart](jft206.md)  
+[The Eighty-One Brothers](jft207.md)  
 <span id="section_000"></span>
 
 ### The Bamboo-Cutter's Daughter
 
-[The Bamboo Princess](jft208)  
-[The Great Stone Bowl](jft209)  
-[The Branch of the Jewel Tree](jft210)  
-[The Fire Robe](jft211)  
-[The Shell in the Swallows' Nest](jft212)  
-[The Dragon Jewel](jft213)  
-[The Smoke of Fuji Yama](jft214)  
+[The Bamboo Princess](jft208.md)  
+[The Great Stone Bowl](jft209.md)  
+[The Branch of the Jewel Tree](jft210.md)  
+[The Fire Robe](jft211.md)  
+[The Shell in the Swallows' Nest](jft212.md)  
+[The Dragon Jewel](jft213.md)  
+[The Smoke of Fuji Yama](jft214.md)  

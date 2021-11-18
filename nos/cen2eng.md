@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](cen1eng)  [Next](cen3eng) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](cen1eng)  [Next](cen3eng.md) 
 
 ------------------------------------------------------------------------
 
@@ -607,6 +607,6 @@ That they will come to be joined in the great league.
 
 ------------------------------------------------------------------------
 
-[Next: Century III](cen3eng)
+[Next: Century III](cen3eng.md)
 
   

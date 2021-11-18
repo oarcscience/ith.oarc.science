@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb21)  [Next](brfb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb21)  [Next](brfb23.md) 
 
 </div>
 
@@ -329,6 +329,6 @@ a man like other men.'
 
 ------------------------------------------------------------------------
 
-[Next: The Sister of the Sun](brfb23)
+[Next: The Sister of the Sun](brfb23.md)
 
 </div>

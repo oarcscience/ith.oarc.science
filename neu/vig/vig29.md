@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig28)  [Next](vig30) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig28)  [Next](vig30.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ these posts, or stick on them some insult to me. You must not go there,
 however."  
         Einar transferred his household to Thverà in the spring, but
 Glum remained where he was till the last day for moving,  <span
-id="fr_24"></span>[1](#fn_24) and when people were all ready to start he
+id="fr_24"></span>[1](#fn_24.md) and when people were all ready to start he
 sat down on the high seat and did not move, although he was summoned to
 do so. He had the hall decorated with hangings, and refused to turn out
 like mere "cottage tenants." Hallbera, the daughter of Thorodd, the son
@@ -51,7 +51,7 @@ of Hialm, was the mother of Gudmund and Einar, and lived at Hanakamb.
 She came to Thverà, and saluted Glum, saying, "Good morning to you,
 Glum, but you cannot stay here any longer. I have marked out the land of
 Thverà with fire, and I eject you and all yours formally from it, as
-made over to my son Einar."  <span id="fr_25"></span>[2](#fn_25) Then
+made over to my son Einar."  <span id="fr_25"></span>[2](#fn_25.md) Then
 Glum rose up and told her she might chatter away like a miserable old
 woman as she was; but as he rode away he looked over his shoulder
 towards the homestead and sung a stanza--
@@ -68,27 +68,27 @@ not content to remain there more than one winter. Then he dwelt two
 winters in Myrkárdal, but a landslip fell near the homestead and
 destroyed some of the buildings. After that he bought land at Thverbrek,
 in Öxnadal, and dwelt there as long as he lived, and became aged and
-blind.  <span id="fr_26"></span>[3](#fn_26)
+blind.  <span id="fr_26"></span>[3](#fn_26.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_24"></span>[1](vig29.htm#fr_24) The last of the "flitting
+<span id="fn_24"></span>[1](vig29.htm#fr_24.md) The last of the "flitting
 days"--Fardagar. They began on the Thursday after the expiration of six
 weeks of summer, which was reckoned to begin on the Thursday between the
 9th and 15th of April. They fell therefore about the beginning of June.
 See the Glossary to the Grágás, and Dasent’s Preface, p. liv.
 
-<span id="fn_25"></span>[2](vig29.htm#fr_25) Maurer (s. 58) gives a
+<span id="fn_25"></span>[2](vig29.htm#fr_25) Maurer (s. 58.md) gives a
 translation of this curious passage, and remarks that it shows the
 hallowing of the land by fire as applicable not only to its first
 occupation, but also to a change of possession.
 
-<span id="fn_26"></span>[3](vig29.htm#fr_26) Some verses of Glum’s occur
+<span id="fn_26"></span>[3](vig29.htm#fr_26.md) Some verses of Glum’s occur
 here, but the text is so doubtful that I cannot venture a translation of
 them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII](vig30)
+[Next: Chapter XXVII](vig30.md)

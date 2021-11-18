@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](dun01)  [Next](dun03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](dun01)  [Next](dun03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Duncan's Masoic Ritual and Monitor*, by Malcom C. Duncan, \[1866\], at
 Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ suitably prepared and furnished for Lodge purposes, which is, by Masons,
 termed "the Ground Floor of King Solomon's Temple."
 
 The officers take their seats, as represented in the [Plate on page
-8](#img_00800). Lodge-meetings are arranged as follows, viz.: a
+8](#img_00800.md). Lodge-meetings are arranged as follows, viz.: a
 "regular" is held but once a month (*i.e.* every month on, or preceding,
 the full of the moon in each month); special meetings are held as often
 as the exigency of the case may seem to demand, if every night in the
@@ -52,7 +52,7 @@ regular night."
 
 <span id="img_00800"></span> <span align="CENTER"> [![LODGE OF ENTERED
 APPRENTICES, FELLOW CRAFTS, OR MASTER MASONS.](tn/00800.jpg)  
-Click to enlarge](img/00800.jpg)  
+Click to enlarge](img/00800.jpg.md)  
 LODGE OF ENTERED APPRENTICES, FELLOW CRAFTS, OR MASTER MASONS.  
 </span>
 
@@ -224,14 +224,14 @@ On the evening of a Lodge-meeting, brethren generally get together at an
 early hour at the Lodge-room, which has been opened and cleaned out by
 the Tyler. On arrival of the Master, and the hour of meeting, the Master
 repairs to his seat in the east, puts on his *hat*, <span
-id="fr_0"></span>[1](#fn_0) sash, yoke, and apron, with gavel in hand,
+id="fr_0"></span>[1](#fn_0.md) sash, yoke, and apron, with gavel in hand,
 and says: "Brethren will he properly clothed and in order; officers
 repair to their stations for the purpose of opening."
 
 At this announcement the brethren put on their aprons, and seat
 themselves around the Lodge-room, while the officers invest themselves
 with their yokes and aprons, and take their stations as represented in
-[Plate on page 8](#img_00800), viz.: Senior Warden in the west; Junior
+[Plate on page 8](#img_00800.md), viz.: Senior Warden in the west; Junior
 Warden in the south; Senior Deacon in front of the Worshipful Master in
 the east, and a little to his right hand, with a long rod in hand;
 Junior Deacon at the right hand of the Senior Warden in the west,
@@ -257,7 +257,7 @@ Master's permission.
 
 W. M.--You will receive the implement of your office (handing him the
 sword). Repair to your post, and be in the active discharge of your
-duty. (See Note  [A](dun10.htm#xref_A), Appendix.)
+duty. (See Note  [A](dun10.htm#xref_A), Appendix..md)
 
 The Tyler retires to the inside of the outer door of the ante-room, and
 all Lodge-doors are closed after him.
@@ -290,7 +290,7 @@ J. D.--By a brother of this degree, without the inner door, invested
 with the proper implement of his office (the sword). W. M.--His duty
 there?
 
-J. D.--To keep off all cowans <span id="fr_1"></span>[1](#fn_1) and
+J. D.--To keep off all cowans <span id="fr_1"></span>[1](#fn_1.md) and
 eavesdroppers; suffer none to pass or repass, except such as are duly
 qualified, and have the Worshipful Master's permission. (Sits down.)
 
@@ -335,7 +335,7 @@ W. M. (two raps with his gavel, when all the officers of the Lodge rise
 to their feet.)--Your duty there, brother Junior Deacon?
 
 J. D. (makes the sign of an Entered Apprentice Mason, see Fig. 2, page
-[17](#page_17).)--To carry orders from the Senior Warden in the west to
+[17](#page_17)..md)--To carry orders from the Senior Warden in the west to
 the Junior Warden in the south, and elsewhere around the Lodge, as he
 may direct, and see that the Lodge is tyled.
 
@@ -422,7 +422,7 @@ brethren present, acting under the by-laws of this Lodge, may see fit to
 inflict: this you will communicate to the Junior Warden in the south,
 and he to the brethren around the Lodge, that they, having due and
 timely notice, may govern themselves accordingly. <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 S. W. (turning to the Junior Warden in the south.)--Brother Junior
 Warden, you have heard the orders of the Worshipful Master, as
@@ -464,7 +464,7 @@ After which the Master makes the sign of an Entered Apprentice Mason,
 which alludes to the penalty of the Entered Apprentice's obligation,
 which is imitated by all the brethren present.
 
-\[<span class="small">[Explanation of Fig. 2](#img_01700).--Draw the
+\[<span class="small">[Explanation of Fig. 2](#img_01700.md).--Draw the
 right hand rapidly across the neck, as represented in the cut, and drop
 the arm to the side.--Remember that the duegards and signs are all made
 with *right angles, horizontals*, and *perpendiculars*, with very
@@ -474,7 +474,7 @@ sign.</span>\]
 The Master then makes the duegard of a Fellow Craft, which alludes to
 the position of the hands when taking the oath of a Fellow Craft Mason.
 
-\[<span class="small">[Explanation of Fig. 3](#img_01701).--The left
+\[<span class="small">[Explanation of Fig. 3](#img_01701.md).--The left
 arm, as far as the elbow, should be held in a horizontal position, and
 the rest of the arm in a vertical position, forming a square. The right
 hand detached from the stomach, fingers extending outward.</span>\]
@@ -537,25 +537,25 @@ FIG. 7. GRAND HAILING SIGN OF DISTRESS.</p></td>
 
  
 
-And then ([Fig. 6](#img_01800)) the sign of a Master Mason, which
+And then ([Fig. 6](#img_01800).md) the sign of a Master Mason, which
 alludes to the penalty of the obligation of a Master Mason.
 
-\[<span class="small">[Explanation of Fig. 6](#img_01800).--In making
+\[<span class="small">[Explanation of Fig. 6](#img_01800.md).--In making
 this sign, draw the right hand (thumb in) across the stomach as low down
 as the vest, then drop the hand suddenly.</span>\]
 
-The last sign given ([Fig. 7](#img_01801)) is the "grand hailing sign of
+The last sign given ([Fig. 7](#img_01801).md) is the "grand hailing sign of
 distress."
 
-\[<span class="small">[Explanation of Fig. 7](#img_01801).--Raise the
+\[<span class="small">[Explanation of Fig. 7](#img_01801.md).--Raise the
 hands as represented in the cut, and drop them with spirit. Repeat this
 three times.</span>\]
 
 The words accompanying this sign in the night, or dark, when the sign
 cannot be seen, are, viz.: "O Lord my God! is there no help for the
 widow's son?" This sign is given by the Master, at the grave of our
-"Grand Master Hiram Abiff." <span id="fr_3"></span>[1](#fn_3) (See Note
- [B](dun10.htm#xref_B), Appendix.)
+"Grand Master Hiram Abiff." <span id="fr_3"></span>[1](#fn_3.md) (See Note
+ [B](dun10.htm#xref_B), Appendix..md)
 
 Master gives one rap with his gavel; Senior Warden, one;
 
@@ -658,12 +658,12 @@ S. W. (gives three raps with his gavel, when all in the Lodge rise to
 their feet.)--Brethren, you will come to order as Master Masons.
 
 Brethren all place their hands in the form of a duegard of a Master
-Mason. (See [Fig. 5](#img_01703), page [17](#page_17).)
+Mason. (See [Fig. 5](#img_01703), page [17](#page_17)..md)
 
 S. W.--In order, Worshipful.
 
 W. M.--Together on the sign, brethren; and makes the sign of a Master
-Mason (see [Fig. 6](#img_01800), page [18](#page_18)), which is imitated
+Mason (see [Fig. 6](#img_01800), page [18](#page_18).md), which is imitated
 by the officers and brethren, and lastly the Senior Warden. The Master
 gives one rap, Senior Warden one, Junior Warden one, and then
 
@@ -675,7 +675,7 @@ rapped three times each.
 W. M.--I now declare this Lodge open on the Third Degree of Masonry.
 Brother Junior Deacon, inform the Tyler. Brother Senior Deacon attend to
 the altar. (Raps once, and the officers and brethren take their seats.)
-(See Note  [D](dun10.htm#xref_D), Appendix.)
+(See Note  [D](dun10.htm#xref_D), Appendix..md)
 
 Order of business as follows, viz.:--
 
@@ -761,7 +761,7 @@ Lodge of Entered Apprentices closed, and a Lodge of Fellow Crafts opened
 in due form.
 
 Brother Stephen Currie, an Entered Apprentice, being in
-[waiting](errata.htm#0), was duly prepared, brought forward, and passed
+[waiting](errata.htm#0.md), was duly prepared, brought forward, and passed
 to the degree of a Fellow Craft, he paying the further sum of five
 dollars ($5).
 
@@ -807,18 +807,18 @@ confirmed.
 
 W. M.--Brother Senior Warden, have you any alterations to propose?
 
-S. W. (makes the sign of a Master Mason, see [Fig. 6](#img_01800), page
-[18](#page_18).)--I have none, Worshipful.
+S. W. (makes the sign of a Master Mason, see [Fig. 6](#img_01800.md), page
+[18](#page_18)..md)--I have none, Worshipful.
 
 W. M.--Have you any, Brother Junior Warden?
 
-J. W. (sign, [Fig. 6](#img_01800).)--None, Worshipful.
+J. W. (sign, [Fig. 6](#img_01800)..md)--None, Worshipful.
 
 W. M.--Has any brother around the Lodge any alterations to propose?
 (None offering) W. M.--Then, brethren, the motion is on the confirmation
 of the minutes of our last communication; all that are in favor of their
 confirmation will make it known by the usual sign of a Mason (see [Fig
-6](#img_01800), page [18](#page_18)--raise the right hand); those
+6](#img_01800), page [18](#page_18)--raise the right hand.md); those
 opposed, by the same sign, which is called the usual sign of a Mason.
 The question of confirmation is simply a question whether the secretary
 has faithfully and correctly recorded the transactions of the Lodge.
@@ -956,8 +956,8 @@ the Master says to him:
 
 W. M.--Brother Junior Warden, how stands the ballot in the south?
 
-J. W. (makes the sign of a Master Mason, see [Fig. 6](#img_01800), page
-[18](#page_18).)--Clear in the south, Worshipful. (If not clear, and
+J. W. (makes the sign of a Master Mason, see [Fig. 6](#img_01800.md), page
+[18](#page_18)..md)--Clear in the south, Worshipful. (If not clear, and
 there should be a black ball or two, he would say--Not clear in the
 south, Worshipful.)
 
@@ -1029,7 +1029,7 @@ S. W. (gives three raps with his gavel, all rise to their
 feet.)--Brethren, you will come to order as Entered Apprentice Masons.
 
 The members place their hands in the position of a duegard of an Entered
-Apprentice. (See [Plate 1](#img_01600), page [16](#page_16).) When the
+Apprentice. (See [Plate 1](#img_01600), page [16](#page_16)..md) When the
 Master makes "the sign, by drawing his hand across his throat, all
 follow suit; Worshipful then makes one rap with the gavel, Senior Warden
 one, and the Junior Warden one.
@@ -1088,9 +1088,9 @@ put it through the bosom of your shirt, that your arm and breast may be
 naked. The Deacon now ties a handkerchief or hoodwink over his eyes,
 places a slipper on his right foot, and after-wards puts a rope, called
 a cable-tow, once round his neck, letting it drag behind. <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
-[The figure](#img_02800) is a representation of the candidate duly and
+[The figure](#img_02800.md) is a representation of the candidate duly and
 truly prepared for the First Degree in Masonry.
 
 The Junior Deacon now takes the candidate by the arm and leads him
@@ -1201,7 +1201,7 @@ W. M. (rising to his feet, taking candidate by the right hand, placing
 his left on his head.)--Mr. "Gabe" (sometimes Masters say, "Stranger!"),
 in whom do you put your trust?
 
-Candidate (prompted.)--In God. <span id="fr_5"></span>[1](#fn_5)
+Candidate (prompted.)--In God. <span id="fr_5"></span>[1](#fn_5.md)
 
 <span id="page_31">p. 31</span>
 
@@ -1217,7 +1217,7 @@ the following passage:--
 in unity!" &c., &c. (See opening, or Monitor's.) The reading is so timed
 as to be concluded when they have passed once around the Lodge-room to
 the Junior Warden's station in the south; as they pass each  <span
-id="fr_6"></span>[1](#fn_6)<span id="img_03100"></span>
+id="fr_6"></span>[1](#fn_6.md)<span id="img_03100"></span>
 
 <table data-align="RIGHT">
 <colgroup>
@@ -1286,7 +1286,7 @@ candidate, and place him in charge of the Senior Warden in the west,
 with my orders that he teach this candidate to approach the east, the
 place of light, by advancing with one upright, regular step to the first
 stop, the heel of his right placed in the hollow of his left foot, his
-body erect at the altar (see [Fig. 14](dun04.htm#img_09300)), before the
+body erect at the altar (see [Fig. 14](dun04.htm#img_09300).md), before the
 Worshipful Master in the east.
 
 Senior Deacon conducts candidate back to the Senior Warden in the west,
@@ -1296,14 +1296,14 @@ S. D.--Brother Senior Warden, it is the orders of the Worshipful Master,
 that you teach this candidate to approach the east, the place of light,
 by advancing on one regular upright step to the first stop; the heel of
 his right foot in the hollow of his left (see [Fig.
-14](dun04.htm#img_09300), [p. 93](dun04.htm#page_93)), his body erect at
+14](dun04.htm#img_09300), [p. 93](dun04.htm#page_93).md), his body erect at
 the altar before the Worshipful Master in the east.
 
 Senior Warden leaves his seat, comes down to the candidate, faces him
 towards the Worshipful Master, and requests him to step off with his
 left foot, bringing the heel of his right in the hollow of his left (see
-[step 1, Fig. 14](dun04.htm#img_09300), page
-[93](dun04.htm#page_93)--before the candidate is requested to do this,
+[step 1, Fig. 14](dun04.htm#img_09300.md), page
+[93](dun04.htm#page_93.md)--before the candidate is requested to do this,
 he is led by the Warden within one pace of the altar). Senior Warden
 reports to the Worshipful Master.
 
@@ -1331,14 +1331,14 @@ compasses, his right hand resting thereon.
 
 The Warden now places, or causes the candidate to be placed, in the
 position commanded by the Worshipful Master, as shown in [Figure
-8](#img_03300).
+8](#img_03300.md).
 
 W. M.--Mr. Gabe, you are now in position for taking upon
 
  
 
 <span id="img_03300"></span> ![FIG. 8. CANDIDATE TAKING THE OATH OF AN
-ENTERED APPRENTICE.](img/03300.jpg)  
+ENTERED APPRENTICE.](img/03300.jpg.md)  
 FIG. 8. CANDIDATE TAKING THE OATH OF AN ENTERED APPRENTICE.
 
 (left to right: Master. Altar. Candidate. Conductor.)
@@ -1361,10 +1361,10 @@ to assemble around the altar.
 
 I, Peter Gabe, of my own free will and accord, in the presence of
 Almighty God, and this Worshipful Lodge, erected to Him, and dedicated
-to the holy *Sts. John*, <span id="fr_7"></span>[1](#fn_7) do hereby and
+to the holy *Sts. John*, <span id="fr_7"></span>[1](#fn_7.md) do hereby and
 hereon (Master presses his gavel on candidate's knuckles) most solemnly
 and sincerely promise and swear, that I will always *hail*, <span
-id="fr_8"></span>[2](#fn_8) ever conceal, and never reveal, any of the
+id="fr_8"></span>[2](#fn_8.md) ever conceal, and never reveal, any of the
 arts, parts, or points of the hidden mysteries of Ancient Free Masonry,
 which may have been, or hereafter shall be, at this time, or any future
 period, communicated to me, as such, to any person or persons
@@ -1387,9 +1387,9 @@ or secret evasion of mind whatever, binding
 <span id="page_35">p. 35</span>
 
 myself under no less penalty than that of having my throat cut
-across, <span id="fr_9"></span>[1](#fn_9) my tongue torn out by its
+across, <span id="fr_9"></span>[1](#fn_9.md) my tongue torn out by its
 roots, and *my body buried in the rough sands of the sea*, at low-water
-mark, <span id="fr_10"></span>[2](#fn_10) where the tide ebbs and flows
+mark, <span id="fr_10"></span>[2](#fn_10.md) where the tide ebbs and flows
 twice in twenty-four hours, should I ever knowingly violate this my
 Entered Apprentice obligation. So help me God, and keep me steadfast in
 the due performance of the same.
@@ -1400,14 +1400,14 @@ kiss the book on which your hands rest, which is the Holy Bible.
 After the candidate has kissed the Bible, he is asked by the Master:
 
 W. M.--In your present condition, what do you most desire? Candidate
-(prompted.)--*Light*. <span id="fr_11"></span>[3](#fn_11)
+(prompted.)--*Light*. <span id="fr_11"></span>[3](#fn_11.md)
 
 W. M.--Brethren, you will stretch forth your hands, and assist me in
 bringing our newly made brother to light.
 
 Here the brethren surrounding the altar place their hands in form of
-duegard of an Entered Apprenticed Mason (see [Fig. 1](#img_01600), [p.
-16](#page_16)).
+duegard of an Entered Apprenticed Mason (see [Fig. 1](#img_01600.md), [p.
+16](#page_16).md).
 
 W. M.--"In the beginning God created the heavens and the earth. And the
 earth was without form, and void; and darkness was upon the face of the
@@ -1450,8 +1450,8 @@ W. M. (taking a step back from the altar.)--You next discover me as the
 Master of this Lodge, approaching you from the east, under the duegard,
 sign, and step of an Entered Apprentice Mason (Master making the
 duegard, sign, and step, as represented and explained in Figs.
-[1](#img_01600), [2](#img_01700), and [14](dun04.htm#img_09300), pp.
-[16](#page_16), [17](#page_17)), and, in <span id="img_03600"></span>
+[1](#img_01600), [2](#img_01700), and [14](dun04.htm#img_09300.md), pp.
+[16](#page_16), [17](#page_17).md), and, in <span id="img_03600"></span>
 
 <table data-align="LEFT">
 <colgroup>
@@ -1564,7 +1564,7 @@ another, in the dark as well as in the light,
 J. W.--Give me a sign.
 
 Senior Deacon gives the duegard, and directs the candidate to do
-likewise. (See duegard, [Fig. 1](#img_01600), [p. 16](#page_16).)
+likewise. (See duegard, [Fig. 1](#img_01600), [p. 16](#page_16)..md)
 
 J. W.--What is that?
 
@@ -1578,7 +1578,7 @@ when I took upon myself the obligation of an Entered Apprentice Mason.
 J. W.--Have you any further sign?
 
 S. D.--I have. (Makes the sign of an Entered Apprentice. See [Fig.
-2](#img_01700), [p. 17](#page_17).)
+2](#img_01700), [p. 17](#page_17)..md)
 
 J W.--What is that?
 
@@ -1587,7 +1587,7 @@ S. D.--Sign of an Entered Apprentice Mason.
 J. W.--Has it an allusion?
 
 S. D.--It has, to the penalty of my obligation. <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 J. W.--Have you any further sign?
 
@@ -1648,7 +1648,7 @@ J. W--Az.
 
 S. D. (pronounces)--Boaz. In spelling this word--Boaz--always begin with
 the letter "A." This is one way that Masons detect impostors, *i.e.*,
-Morgan or book Masons.--See Note  [E](dun10.htm#xref_E), Appendix.)
+Morgan or book Masons.--See Note  [E](dun10.htm#xref_E), Appendix..md)
 
 J. W.--I am satisfied, and will suffer you to pass on to the Senior
 Warden in the west for his examination.
@@ -1725,7 +1725,7 @@ conscience; and remember, should you ever see a friend, but more
 especially a brother, in a like destitute condition, you will contribute
 as liberally to his support and relief as his necessities may seem to
 demand and your ability permit, without any material injury to yourself
-or family. <span id="fr_13"></span>[1](#fn_13)
+or family. <span id="fr_13"></span>[1](#fn_13.md)
 
 W. M.--Brother Senior Deacon, you will now reconduct this candidate to
 the place from whence he came, and reinvest him with that which he has
@@ -1762,7 +1762,7 @@ equal parts, is emblematical of the twenty-four hours of the day which
 we are taught to divide
 
 <span id="img_04100"></span> ![the twenty-four inch
-gauge](img/04100.jpg)
+gauge](img/04100.jpg.md)
 
 into three parts, whereby we find a portion for the service of God and
 the relief of a distressed worthy brother, a portion for our usual
@@ -1774,7 +1774,7 @@ them <span id="img_04101"></span>
 
 |                             |
 |-----------------------------|
-| ![the gavel](img/04101.jpg) |
+| ![the gavel](img/04101.jpg.md) |
 
 for the builder's use; but we, as Free and Accepted Masons, are taught
 to make use of it for the more noble and glorious purpose of divesting
@@ -1784,7 +1784,7 @@ house not made with hands, eternal in the heavens.
 
 W. M.--Brother Gabe, there is a lecture to this Degree, consisting of
 three sections, which you will at your earliest opportunity commit to
-memory. <span id="fr_14"></span>[1](#fn_14) The first section treats of
+memory. <span id="fr_14"></span>[1](#fn_14.md) The first section treats of
 the manner of your initiation; the second section, the reasons wily,
 &c.; the third section, the form, furniture, lights, &c., &c. This
 lecture commences as follows:
@@ -1804,7 +1804,7 @@ A. To learn to subdue my passions and improve myself in Masonry.
 Q. Then I presume you are a Mason?
 
 A. *I am so taken and accepted among all brothers and fellows*. (See
-Note  [F](dun10.htm#xref_F), Appendix.)
+Note  [F](dun10.htm#xref_F), Appendix..md)
 
 Q. How do you know yourself to be a Mason?
 
@@ -1827,8 +1827,8 @@ Q. What are tokens?
 A. Certain friendly or brotherly grips, by which one Mason may know
 another in the dark as well as in the light. Q. Give me a sign.
 
-Here give sign of Entered Apprentice. (See [Fig 2](#img_01700), [p.
-17](#page_17).)
+Here give sign of Entered Apprentice. (See [Fig 2](#img_01700.md), [p.
+17](#page_17)..md)
 
 Q. Has that an allusion?
 
@@ -1836,8 +1836,8 @@ A. It has; to the penalty of my obligation.
 
 Q. Give me a token.
 
-Here give sign of Entered Apprentice. (See [Fig. 2](#img_01700), [p.
-17](#page_17).)
+Here give sign of Entered Apprentice. (See [Fig. 2](#img_01700.md), [p.
+17](#page_17)..md)
 
 Q. I hail.
 
@@ -1897,14 +1897,14 @@ A. In my heart.
 Q. Where were you next prepared?
 
 A. In a room adjacent to a regularly constituted Lodge of Free and
-Accepted Masons. (See Note  [G](dun10.htm#xref_G), Appendix.)
+Accepted Masons. (See Note  [G](dun10.htm#xref_G), Appendix..md)
 
 Q. How were you prepared?
 
 A. By being divested of all metals, neither naked nor clothed; barefoot
 nor shod, hoodwinked, with a cable-tow around my neck; in which
 condition I was conducted to the door of a Lodge by a friend, whom I
-afterward found to be a brother. <span id="fr_15"></span>[1](#fn_15)
+afterward found to be a brother. <span id="fr_15"></span>[1](#fn_15.md)
 
 Q. How did you know it to be a door, being hoodwinked?
 
@@ -1974,7 +1974,7 @@ Q. Where did you follow your conductor?
 
 A. Once around the Lodge, to the Junior Warden's station in the south,
 where the same questions and like answers were asked and returned as at
-the door. (See Note  [H](dun10.htm#xref_H), Appendix.)
+the door. (See Note  [H](dun10.htm#xref_H), Appendix..md)
 
 Q. How did the Junior Warden dispose of you?
 
@@ -1987,7 +1987,7 @@ Q. How did the Worshipful Master dispose of you?
 A. He ordered me to be reconducted to the Senior Warden in the west, who
 taught me to approach the east by one upright, regular step, my feet
 forming an angle of an oblong square, my body erect, at the altar before
-the Worshipful Master in the east. <span id="fr_16"></span>[1](#fn_16)
+the Worshipful Master in the east. <span id="fr_16"></span>[1](#fn_16.md)
 
 Q. What did the Worshipful Master then do with you?
 
@@ -2227,12 +2227,12 @@ neighbor, and that was testimony in Israel. This then we do in
 confirmation of a token, and as a pledge of our fidelity; thereby
 signifying that we will renounce our own will in all things, and become
 obedient to the laws of our ancient institution. <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 Q. Why were you hoodwinked, and a cable-tow put about your neck?
 
 A. For the reason, first, as I was then in darkness, <span
-id="fr_18"></span>[2](#fn_18) so I should keep the whole world in
+id="fr_18"></span>[2](#fn_18.md) so I should keep the whole world in
 darkness so far as it related to the secrets of Free-Masonry. Secondly:
 in case I had not submitted
 
@@ -2334,7 +2334,7 @@ Q. Why were you conducted to the northeast corner of the Lodge, as the
 youngest Entered Apprentice, and there caused to stand upright like a
 man, your feet forming a square--receiving at the same time a solemn
 charge ever to walk and act uprightly before God and man? <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 A. Because the first stone of a building is usually laid in the
 northeast corner. I was therefore placed there to receive my first
@@ -2353,7 +2353,7 @@ square, and compasses, and charter, or warrant empowering them to work.
 
 Q. Where did our ancient brethren usually meet?
 
-A. On a high hill or in a low valley. (See Note  [I](dun10.htm#xref_I),
+A. On a high hill or in a low valley. (See Note  [I](dun10.htm#xref_I.md),
 Appendix.)
 
 Q. Why so?
@@ -2457,7 +2457,7 @@ masonically, term the north a place of darkness.
 Q. How many jewels has a Lodge?
 
 A. Six: three movable, and three immovable. <span
-id="fr_20"></span>[1](#fn_20)
+id="fr_20"></span>[1](#fn_20.md)
 
 Q. What are the movable jewels?
 
@@ -2541,7 +2541,7 @@ Holy Scriptures, and while
 a Mason keeps himself circumscribed within their precepts it is
 impossible that he should materially err.
 
-This ends the lecture <span id="fr_21"></span>[1](#fn_21) on the Entered
+This ends the lecture <span id="fr_21"></span>[1](#fn_21.md) on the Entered
 Apprentices' Degree. But very few Masons are sufficiently posted in
 these lectures to answer every inquiry respecting then. Not one in a
 hundred ever gets them perfect, none but a few aspiring members seeking
@@ -2585,7 +2585,7 @@ and never
 
 reveal, and which would consequently subject him to the contempt and
 detestation of all good Masons. See "Guttural," ([p.
-248](dun08.htm#page_248).)
+248](dun08.htm#page_248)..md)
 
 This virtue alludes to the Mason's obligation, which is the Guttural.
 
@@ -2598,7 +2598,7 @@ made, by force or otherwise, to extort from him any of those secrets
 with which he has been so solemnly intrusted; and which virtue was
 emblematically represented upon his first admission into the Lodge, on
 the point of a sharp instrument pressing his naked left breast. This
-alludes to the Pectoral. <span id="fr_22"></span>[1](#fn_22)
+alludes to the Pectoral. <span id="fr_22"></span>[1](#fn_22.md)
 
 Prudence teaches us to regulate our lives and actions agreeably to the
 dictates of our reason, and is that habit by which we wisely judge, and
@@ -2726,7 +2726,7 @@ association; and these are the laudable bonds which unite *us* in one
 indissoluble fraternity.
 
 For the ceremony of closing a Lodge, see the end of the Third, or Master
-Masons' Degree, page [142](dun04.htm#page_142).
+Masons' Degree, page [142](dun04.htm#page_142.md).
 
 <table data-border="0" width="100%">
 <colgroup>
@@ -2749,13 +2749,13 @@ ROUGH ASHLER</p></td>
 
 ### Footnotes
 
-<span id="fn_0"></span>[12:1](dun02.htm#fr_0) In most foreign Lodges the
+<span id="fn_0"></span>[12:1](dun02.htm#fr_0.md) In most foreign Lodges the
 Master wears his hat, while the rest of the brethren remain uncovered.
 This practice was followed by MacKenzie Beverly Esq., when he held the
 office of D. P. G. M. for the East Riding of York.--*Historical
 Landmarks*, vol. i. p. 138.
 
-<span id="fn_1"></span>[13:1](dun02.htm#fr_1) From the affair of
+<span id="fn_1"></span>[13:1](dun02.htm#fr_1.md) From the affair of
 Jephthah, an Ephraimite was termed a cowan. In Egypt, *cohen* was the
 title of a priest or prince, and a term of honor. Bryant, speaking of
 the harpies, says, they were priests of the sun; and, as *cohen* was the
@@ -2766,7 +2766,7 @@ Paul exhorts the Christians to "beware of *dogs*, because they are evil
 workers" (Phil. W. 2). Now, κυων, a dog, or evil worker, is the masonic
 *cowan*.--*Historical Landmarks*, vol. i. p. 349.
 
-<span id="fn_2"></span>[15:1](dun02.htm#fr_2) The ceremony of OPENING
+<span id="fn_2"></span>[15:1](dun02.htm#fr_2.md) The ceremony of OPENING
 THE LODGE is solemn and impressive. *Every brother is reminded of his
 duties and obligations*. The necessary precautions are employed to avoid
 the intrusion of the profane, and every member, being compelled to
@@ -2780,13 +2780,13 @@ imposing rite, and strongly files the attention of every serious Mason.
 with the importance attached to his situation*.--*Theo. Phil.*, p.
 272-3.
 
-<span id="fn_3"></span>[18:1](dun02.htm#fr_3) When a Mason enters a
+<span id="fn_3"></span>[18:1](dun02.htm#fr_3.md) When a Mason enters a
 Lodge after it is opened and at work, he proceeds to the centre of the
 Lodge, at the altar, and, facing the Worshipful Master in the east,
 gives the duegard and sign of the degree in which the Lodge is working.
 The duegard is never omitted when the Master is addressed.
 
-<span id="fn_4"></span>[28:1](dun02.htm#fr_4) Every initiated person,
+<span id="fn_4"></span>[28:1](dun02.htm#fr_4.md) Every initiated person,
 whether prince, peer, or peasant, is bound, al least once during his
 Masonic career, to pass through this emblematical <span id="page_29">p.
 29</span> feature of his profession, as an unmistakable pledge of
@@ -2814,7 +2814,7 @@ pavement is accounted pure and immaculate; and therefore no pollution
 can be tolerated on that sacred floor."--*The Freemason's Treasury*, p.
 177.
 
-<span id="fn_5"></span>[30:1](dun02.htm#fr_5) This is the first
+<span id="fn_5"></span>[30:1](dun02.htm#fr_5.md) This is the first
 admission of a candidate before initiation. He avows airs belief and
 trust in God: and it is on that avowal alone that his admission among us
 is based. If he refused to acknowledge the being of a God would he at
@@ -2823,14 +2823,14 @@ his trust in God, the chief officer of the Lodge expresses his
 satisfaction, and tells him that where the name of God is invoked no
 danger can possibly ensue.--*Historical Landmarks*, vol. i. p. 45.
 
-<span id="fn_6"></span>[31:1](dun02.htm#fr_6) NOTE.--If more than one
+<span id="fn_6"></span>[31:1](dun02.htm#fr_6.md) NOTE.--If more than one
 candidate is being initiated at once, they <span id="page_32">p.
 32</span> are required to take hold of each other's arms. Five are about
 as many as can be initiated at once; the same number "passed" to Second
 Degree; but only one at a time can be raised to the Master's Degree.
 Small Lodges cannot manage but one at a time conveniently.
 
-<span id="fn_7"></span>[34:1](dun02.htm#fr_7) Neither Adam, nor Nimrod,
+<span id="fn_7"></span>[34:1](dun02.htm#fr_7.md) Neither Adam, nor Nimrod,
 nor Moses, nor Joshua, nor David, not Solomon, nor Hiram, nor St. John
 the Evangelist, nor St. John the Baptist belonged to the Masonic Order.
 It is unwise to assert more than we can prove, and to argue against
@@ -2839,7 +2839,7 @@ believe that these holy and distinguished men were Freemasons, and our
 traditions do not go back to their days.--*Dr Dalcho, G. M. of South
 Carolina*. *Historical Landmarks*, vol. i, p. 59.
 
-<span id="fn_8"></span>[34:2](dun02.htm#fr_8) "HAIL," or "HALE."--This
+<span id="fn_8"></span>[34:2](dun02.htm#fr_8.md) "HAIL," or "HALE."--This
 word is used among Masons with two very different significations:
 
 \(1\) When addressed as an inquiry to a visiting brother, it has the
@@ -2852,11 +2852,11 @@ member?" Used in this sense, it comes from the Saxon term of salutation
 and in this sense signifies to *conceal*, being derived from the Saxon
 word "*helan*," to hide.--*Lexicon*.
 
-<span id="fn_9"></span>[35:1](dun02.htm#fr_9) In some Lodges, at the
+<span id="fn_9"></span>[35:1](dun02.htm#fr_9.md) In some Lodges, at the
 words "throat cut across," one of the members, or the conductor, draws
 his hand across candidate's throat: sometimes they draw the sword.
 
-<span id="fn_10"></span>[35:2](dun02.htm#fr_10) A terrible instance of
+<span id="fn_10"></span>[35:2](dun02.htm#fr_10.md) A terrible instance of
 the consequences which attended a violation of this principle has been
 handed down to us in the story of Hipparchus, a Pythagorean, who, having
 out of spleen and resentment violated and broke through the several
@@ -2872,12 +2872,12 @@ in those times; instead of which, *his body was suffered to lie upon the
 sands of the seashore* in the Isle of Samos, to be devoured by rapacious
 animals.--*Theo. Phil.*, vol. I. pp. 246-7.
 
-<span id="fn_11"></span>[35:3](dun02.htm#fr_11) Light is the first
+<span id="fn_11"></span>[35:3](dun02.htm#fr_11.md) Light is the first
 demand of a candidate at his initiation; and the material light is
 succeeded by an intellectual illumination.--*Historical Landmarks*, vol.
 i. p. 135.
 
-<span id="fn_12"></span>[38:1](dun02.htm#fr_12) The *palate* and
+<span id="fn_12"></span>[38:1](dun02.htm#fr_12.md) The *palate* and
 *throat* being the chief seat of irregular appetites, we are instructed
 by the first sign to avoid temptation by a proper restraint on our
 passions; that we may be temperate in all our indulgences, and never
@@ -2885,11 +2885,11 @@ exceed the boundary-line of decency and decorum, under the penalty of
 disobedience, or the violation of those engagements which, as Masons, we
 have voluntarily assumed.--*Theo. Phil.*, p. 289.
 
-<span id="fn_13"></span>[40:1](dun02.htm#fr_13) The Master, assisted by
+<span id="fn_13"></span>[40:1](dun02.htm#fr_13.md) The Master, assisted by
 the Senior Warden, lays *the chief corner-stone* of a beautiful
 fabric.--*Theo. Phil.*, p. 274.
 
-<span id="fn_14"></span>[41:1](dun02.htm#fr_14) The labors are conducted
+<span id="fn_14"></span>[41:1](dun02.htm#fr_14.md) The labors are conducted
 on a plan which is intended to produce an exciting spirit of emulation.
 Every individual is personally and in turn requested by the Worshipful
 Master to give his opinion on some specific doctrine or ceremony
@@ -2900,14 +2900,14 @@ negative, and the query is transferred to the next in succession, whose
 absolute freedom of will is acknowledged by leaving him at full liberty
 to act as he may feel disposed.--*The Freemason's Treasury*, p. 149.
 
-<span id="fn_15"></span>[43:1](dun02.htm#fr_15) The Tracing Board
+<span id="fn_15"></span>[43:1](dun02.htm#fr_15.md) The Tracing Board
 combines all the Landmarks of the Degree, and Includes the essence of
 its lectures and illustrations. It opens with mortality in its feeblest
 state; *poor and penniless, and blind and naked*; and conducts the pious
 inquirer to a glorious immortality.--*Historical Landmarks*, vol. i. p.
 134.
 
-<span id="fn_16"></span>[44:1](dun02.htm#fr_16) The candidate is
+<span id="fn_16"></span>[44:1](dun02.htm#fr_16.md) The candidate is
 obligated in the east and invested in the west; advances from west to
 east by right lines and angles, to typify the necessity of an upright
 life and well-squared actions; and he is subsequently placed in the
@@ -2915,14 +2915,14 @@ northeast to receive instruction, as a corner-stone, from which a
 superstructure is expected to rise, perfect in its parts and honorable
 to the builder.--*The Freemason's Treasury*, p. 24.
 
-<span id="fn_17"></span>[48:1](dun02.htm#fr_17) Among the ancient
+<span id="fn_17"></span>[48:1](dun02.htm#fr_17.md) Among the ancient
 Israelites, the SHOE was made use of in several significant ways. *To
 put off the shoes* imported reverence, and was done in the presence of
 God, or on entering the dwelling of a superior. *To unloose one's shoe,
 and give it to another*, was the way of confirming a
 contract.--*Lexicon*.
 
-<span id="fn_18"></span>[48:2](dun02.htm#fr_18) DARKNESS among
+<span id="fn_18"></span>[48:2](dun02.htm#fr_18.md) DARKNESS among
 Freemasons is emblematical of ignorance; for as our science has
 technically been called "LUX," or light, the absence of light must be
 the absence of knowledge. Hence the rule, that *the eye should not see
@@ -2930,12 +2930,12 @@ until the heart has conceived* the true nature of those beauties which
 constitute the mysteries of our Order. Freemasonry has restored Darkness
 to its proper place, *as a state of preparation*.--*Lexicon*.
 
-<span id="fn_19"></span>[50:1](dun02.htm#fr_19) It was asserted by
+<span id="fn_19"></span>[50:1](dun02.htm#fr_19.md) It was asserted by
 Aristotle, that "he who bears the shocks of fortune valiantly and
 demeans himself uprightly, is truly good, and of a SQUARE POSTURE,
 without reproof."--*Historical Landmarks*, vol. i. p. 189.
 
-<span id="fn_20"></span>[52:1](dun02.htm#fr_20) Every Lodge is furnished
+<span id="fn_20"></span>[52:1](dun02.htm#fr_20.md) Every Lodge is furnished
 with six JEWELS, three of which are movable and three immovable. The
 movable jewels, so called because they are not confined to any
 particular part of the Lodge. are the rough ashler, the perfect ashler,
@@ -2945,7 +2945,7 @@ to particular parts of the Lodge, where alone they should be found,
 namely, the square in the east, the level to the west, and the plumb to
 the south--*Lexicon*.
 
-<span id="fn_21"></span>[54:1](dun02.htm#fr_21) Each Degree of Masonry
+<span id="fn_21"></span>[54:1](dun02.htm#fr_21.md) Each Degree of Masonry
 contains a course of instruction, in which the ceremonies. traditions,
 and moral instruction appertaining to the Degree are set forth. This
 arrangement is called a LECTURE. In the Entered Apprentices' Degree, the
@@ -2958,10 +2958,10 @@ construction of the Lodge, furnishing, in conclusion, some important
 lessons on the various virtues which should distinguish a
 Freemason.--*Lexicon*.
 
-<span id="fn_22"></span>[55:1](dun02.htm#fr_22) Pectoral, a breastplate;
+<span id="fn_22"></span>[55:1](dun02.htm#fr_22.md) Pectoral, a breastplate;
 especially, a sacerdotal habit or vestment worn by the Jewish
 High-Priest.--*Webster*.
 
 ------------------------------------------------------------------------
 
-[Next: Fellow Craft, or Second Degree](dun03)
+[Next: Fellow Craft, or Second Degree](dun03.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg55)  [Next](btg57) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg55)  [Next](btg57.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ various beings."
 
 ------------------------------------------------------------------------
 
-[Next: The Lesson Given To Rahula](btg57)
+[Next: The Lesson Given To Rahula](btg57.md)

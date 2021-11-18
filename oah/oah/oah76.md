@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah75)  [Next](oah77) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah75)  [Next](oah77.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ inhabited the islands thereof, north and south and east and west.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](oah77)
+[Next: Chapter III](oah77.md)

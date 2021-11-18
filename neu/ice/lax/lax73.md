@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Icelandic](../index)  [Index](index) 
-[Previous](lax72)  [Next](lax74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Icelandic](../index)  [Index](index.md) 
+[Previous](lax72)  [Next](lax74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ Bolli most highly of whilst he was with them in Micklegarth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXIV: Thorkell Eyjolfson goes to Norway](lax74)
+[Next: Chapter LXXIV: Thorkell Eyjolfson goes to Norway](lax74.md)

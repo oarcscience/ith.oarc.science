@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi210)  [Next](mtsi212) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi210)  [Next](mtsi212.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ The human child, however, they took with them.
 
 ------------------------------------------------------------------------
 
-[Next: 12. Bead-Spitter](mtsi212)
+[Next: 12. Bead-Spitter](mtsi212.md)

@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth014)  [Next](toth016) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth014)  [Next](toth016.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 12. THE DESTRUCTION OF PALÁTKWAPI. <span id="fr_38"></span>[1](#fn_38)
+## 12. THE DESTRUCTION OF PALÁTKWAPI. <span id="fr_38"></span>[1](#fn_38.md)
 
 After all the people, except the Zunis, had come out from the underworld
 through the sípahpuni, they remained for some time with Skeleton
@@ -24,7 +24,7 @@ through the sípahpuni, they remained for some time with Skeleton
 here on different routes, and in different sections and parties, a large
 party came to a place called Palátkwapi, somewhere south-east of
 Flagstaff, in southern Arizona. Among these were the Divided Water clan
-(Bátki-ñamu). <span id="fr_39"></span>[2](#fn_39)
+(Bátki-ñamu). <span id="fr_39"></span>[2](#fn_39.md)
 
 So these people had their clan name before they arrived at the above
 -mentioned place, but with them a great many other people stopped at
@@ -32,7 +32,7 @@ Palátkwapi. Here they remained for a long time, for the truth of which
 statement the extensive ruins at that place are proof. The name seems to
 be derived from a high bluff of red stone. The people, especially the
 young men, here became very bad. They ill-treated the people sometimes
-in a disgraceful manner. <span id="fr_40"></span>[3](#fn_40) One time a
+in a disgraceful manner. <span id="fr_40"></span>[3](#fn_40.md) One time a
 young man again shamefully mistreated an old man, who then became very
 angry. This old man belonged to the Bátki clan. He went and reported the
 same to the village chief (Kík-mongwi), crier chief (Chaák-mongwi) and
@@ -47,7 +47,7 @@ Pine Ridge
 
 <span id="page_49">p. 49</span>
 
-(Löqö'nmuru). <span id="fr_41"></span>[1](#fn_41) So the young man ran
+(Löqö'nmuru). <span id="fr_41"></span>[1](#fn_41.md) So the young man ran
 and when he came back his father asked him: "How is it now, are you
 strong?" "Yes," the son replied, "my legs are strong now." "All right,"
 the father said. Both of them were sorcerers (Powáka), bad men.
@@ -68,7 +68,7 @@ he had been told and coming back he climbed up to the house of his
 father. He now acted as a Ghost (duálangwu). The people had not noticed
 his going or coming. After he had arrived in the house he ground corn on
 his sister's small mealing stone. While he was grinding he sang:
-"Tû'tawunaha! tû'tawunaha!" <span id="fr_42"></span>[2](#fn_42) Hereupon
+"Tû'tawunaha! tû'tawunaha!" <span id="fr_42"></span>[2](#fn_42.md) Hereupon
 he left the house and again ran away and set other timbers on fire.
 
 The next night he returned, again ground a little corn, and departed,
@@ -187,7 +187,7 @@ Katcinas). So they dressed him up, painting his back black, his chest
 and abdomen red, and both sides of the front part of his body green. On
 the arms, chest, and legs they made the typical marks of Pö'okong (two
 short lines). To the back of his head they fastened a póhtakni, <span
-id="fr_43"></span>[1](#fn_43) of the tail of a sparrow-hawk, extending
+id="fr_43"></span>[1](#fn_43.md) of the tail of a sparrow-hawk, extending
 upwards with the points of the feathers. To the top of his head they
 fastened a horn. His face was also painted black. He was to represent
 the Bálölöokong. He wore no costume.
@@ -390,7 +390,7 @@ they were nearly exhausted and were very thirsty. They sat down under a
 pine-tree. Their food was also all consumed. As soon as they had sat
 down they fell over and fell asleep.
 
-Cótukvnangi, <span id="fr_44"></span>[1](#fn_44) the God of Thunder,
+Cótukvnangi, <span id="fr_44"></span>[1](#fn_44.md) the God of Thunder,
 lived in the sky and saw the children and took pity on them. He
 concluded to descend and help them. He took a gourd vessel full of water
 and some rolls of nuvá-muhpi (píki made of meal of fresh roasting ears)
@@ -405,7 +405,7 @@ standing sideways, and one standing upward on top of the head. They
 were of ice. His costume also consisted of ice and was full of little
 fringes or icicles that rattled all over his body. On the head he also
 had two large ice ridges representing clouds. <span
-id="fr_45"></span>[1](#fn_45)
+id="fr_45"></span>[1](#fn_45.md)
 
 The little boy was very much frightened and grasped his brother and
 cried: "Get up, there is somebody here." So the elder brother jumped up
@@ -443,7 +443,7 @@ encircle it by a line of corn-meal. The warrior who had brought home the
 scalp should sit on this bear skin for three days and three nights, and
 on the morning of the fourth day the warrior should wash his head in the
 kiva (tókasnaya). Then he should go to his home where his k'áamu, <span
-id="fr_46"></span>[2](#fn_46) should also wash his head. Then he should
+id="fr_46"></span>[2](#fn_46.md) should also wash his head. Then he should
 put the scalp which he had brought on a stick and
 
 <span id="page_58">p. 58</span>
@@ -461,7 +461,7 @@ promised them, but had not yet delivered to them. He told them that
 whenever they needed them, wanting to go and kill some one, they should
 pray to him and he would give them those things. So the two brothers
 started off after they had refreshed themselves with the morning meal
-once more. Arriving at Homólovi <span id="fr_47"></span>[1](#fn_47) they
+once more. Arriving at Homólovi <span id="fr_47"></span>[1](#fn_47.md) they
 came upon their people. They lived in two little villages, and in the
 one farthest north only a few people lived, and here they found their
 mother.
@@ -663,7 +663,7 @@ the man that carne to you and said that he wanted you to come and get
 his people?" "No," the officer said, "this is not the man." "Thanks,
 thanks, thanks," the Hopi said on all sides, and came and shook hands
 with the officer. "Thanks that this is not the man." <span
-id="fr_48"></span>[1](#fn_48)
+id="fr_48"></span>[1](#fn_48.md)
 
 "No," he repeated, "I never wanted that, it must be the chief of
 Shongópavi." The officer then said that the next day he would
@@ -701,46 +701,46 @@ Shupaúlavi.
 
 ### Footnotes
 
-<span id="fn_38"></span>[48:1](toth015.htm#fr_38) Told by Lomávântiwa
+<span id="fn_38"></span>[48:1](toth015.htm#fr_38.md) Told by Lomávântiwa
 (Shupaúlavi).
 
-<span id="fn_39"></span>[48:2](toth015.htm#fr_39) Lomávântiwa claims
+<span id="fn_39"></span>[48:2](toth015.htm#fr_39.md) Lomávântiwa claims
 that this clan brought with them from the lower world a small water
 vessel which was later supplanted by the móngwikuru (a netted gourd
 vessel). He said that this small vessel was their típoni, and from that
 they derived their name.
 
-<span id="fn_40"></span>[48:3](toth015.htm#fr_40) A favorite sport being
+<span id="fn_40"></span>[48:3](toth015.htm#fr_40.md) A favorite sport being
 to follow those who went to attend to a call of nature, rush upon them
 and throw them backward, thus soiling their bodies.
 
-<span id="fn_41"></span>[49:1](toth015.htm#fr_41) Simply for practice,
+<span id="fn_41"></span>[49:1](toth015.htm#fr_41.md) Simply for practice,
 it seems from the story.
 
-<span id="fn_42"></span>[49:2](toth015.htm#fr_42) The meaning of this
+<span id="fn_42"></span>[49:2](toth015.htm#fr_42.md) The meaning of this
 could not be ascertained.
 
-<span id="fn_43"></span>[52:1](toth015.htm#fr_43) A number of feathers
+<span id="fn_43"></span>[52:1](toth015.htm#fr_43.md) A number of feathers
 which are arranged side by side, but close together, forming a fan
 shaped head-dress which is worn on many ceremonial occasions by various
 dancers.
 
-<span id="fn_44"></span>[56:1](toth015.htm#fr_44) Usually called
+<span id="fn_44"></span>[56:1](toth015.htm#fr_44.md) Usually called
 Cotukvnangwuu.
 
-<span id="fn_45"></span>[57:1](toth015.htm#fr_45) Similar ridges are
+<span id="fn_45"></span>[57:1](toth015.htm#fr_45.md) Similar ridges are
 still made on the top of the mask of the Tukwúnangw Katcina.
 
-<span id="fn_46"></span>[57:2](toth015.htm#fr_46) Clan aunts.
+<span id="fn_46"></span>[57:2](toth015.htm#fr_46.md) Clan aunts.
 
-<span id="fn_47"></span>[58:1](toth015.htm#fr_47) A place a few miles
+<span id="fn_47"></span>[58:1](toth015.htm#fr_47.md) A place a few miles
 north of the present Winslow.
 
-<span id="fn_48"></span>[62:1](toth015.htm#fr_48) The Hopi say that the
+<span id="fn_48"></span>[62:1](toth015.htm#fr_48.md) The Hopi say that the
 chief of Shongópavi was a Powáka (sorcerer), who was able to fly when he
 wanted to do so. He had been over in New Mexico during some night and
 had informed the Spanish chief himself, being back the next day.
 
 ------------------------------------------------------------------------
 
-[Next: 13. The Revenge of the Katcinas](toth016)
+[Next: 13. The Revenge of the Katcinas](toth016.md)

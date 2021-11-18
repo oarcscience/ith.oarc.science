@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop23)  [Next](pop25) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop23)  [Next](pop25.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Bethink thyself that pride and ill-manners never ended well.
 
 ------------------------------------------------------------------------
 
-[Next: The Twentieth Figure](pop25)
+[Next: The Twentieth Figure](pop25.md)

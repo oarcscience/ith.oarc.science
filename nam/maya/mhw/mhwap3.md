@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](mhwap2)  [Next](mhwap4) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](mhwap2)  [Next](mhwap4.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ as a feather (fig. 19,*15*), "*kukum*," from which one drops the
 *ku* and obtains kumhu. The mere fact that kumhu (glottalized) and Cumhu
 are totally different sounds is not accepted by Whorf as a valid
 argument against his theory. Whorf does not mention that the superfix in
-question is extremely rare with Cumku, [occurring](errata.htm#3) only
+question is extremely rare with Cumku, [occurring](errata.htm#3.md) only
 twice in Dresden and never in the inscriptions, and he gives nothing
 beyond his bare statement for accepting this highly conventionalized
 symbol as representing a feather.
@@ -272,4 +272,4 @@ introduced to the New World in post-Columbian times.
 ------------------------------------------------------------------------
 
 [Next: Appendix IV. Maya Calculations Far into the Past and into the
-Future](mhwap4)
+Future](mhwap4.md)

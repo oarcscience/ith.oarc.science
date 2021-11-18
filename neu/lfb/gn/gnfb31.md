@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb30)  [Next](gnfb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb30)  [Next](gnfb32.md) 
 
 </div>
 
@@ -152,6 +152,6 @@ Grimm.
 
 ------------------------------------------------------------------------
 
-[Next: Spindle, Shuttle, and Needle](gnfb32)
+[Next: Spindle, Shuttle, and Needle](gnfb32.md)
 
 </div>

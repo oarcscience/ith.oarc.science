@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico043) 
-[Next](nico045) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico043.md) 
+[Next](nico045.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ without qualification, virtue.
 ------------------------------------------------------------------------
 
 [Next: Chapter 2. The latter considered: divided into distributive and
-rectificatory justice](nico045)
+rectificatory justice](nico045.md)

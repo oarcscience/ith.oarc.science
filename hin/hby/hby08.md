@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hby07)  [Next](hby09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hby07)  [Next](hby09.md) 
 
 ------------------------------------------------------------------------
 
@@ -176,7 +176,7 @@ life, that He is the one stupendous Whole while we are but
 \[paragraph continues\] His parts. The Bhakta then reaches that state
 which is called qualified non-dualism. He sees that from the minutest
 insect up to man all living creatures are related to the Iswara <span
-id="fr_5"></span>[1](#fn_5) s a part is related to the whole. Therefore
+id="fr_5"></span>[1](#fn_5.md) s a part is related to the whole. Therefore
 he cannot kill or injure any living being. Understanding that everything
 pertaining to any part belongs in reality to the whole, he says,
 "Whatever is mine is Thine"; and it is from this moment that absolute
@@ -207,10 +207,10 @@ highest ideal of Bhakti Yoga.
 
 ### Footnotes
 
-<span id="fn_5"></span>[104:1](hby08.htm#fr_5) The most appropriate
+<span id="fn_5"></span>[104:1](hby08.htm#fr_5.md) The most appropriate
 Sanskrit word for God who is the all-pervading, internal Ruler of the
 universe.
 
 ------------------------------------------------------------------------
 
-[Next: Jnâna Yoga](hby09)
+[Next: Jnâna Yoga](hby09.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc39)  [Next](pjc41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc39)  [Next](pjc41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -88,7 +88,7 @@ the greatest possible brutality.
 It is quite impossible to describe the cruel outrages which were thought
 of and perpetrated by these monsters under human form. The sufferings of
 Jesus from thirst, caused by the fever which his wounds and sufferings
-had brought on, were intense. <span id="fr_12"></span>[1](#fn_12) He
+had brought on, were intense. <span id="fr_12"></span>[1](#fn_12.md) He
 trembled all over, his
 
 <span id="page_222">p. 222</span>
@@ -103,7 +103,7 @@ encourage the perpetration of still greater outrages.
 
 ### Footnotes
 
-<span id="fn_12"></span>[221:1](pjc40.htm#fr_12) These meditations on
+<span id="fn_12"></span>[221:1](pjc40.htm#fr_12.md) These meditations on
 the sufferings of Jesus filled Sister Emmerich with such feelings of
 compassion that she begged of God <span id="page_222">p. 222</span> to
 allow her to suffer as he had done. She instantly became feverish and
@@ -117,4 +117,4 @@ the Passion.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII. Ecce Homo](pjc41)
+[Next: Chapter XXVII. Ecce Homo](pjc41.md)

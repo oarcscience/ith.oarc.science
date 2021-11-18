@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale14)  [Next](tale16) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale14)  [Next](tale16.md) 
 
 ------------------------------------------------------------------------
 
@@ -1012,4 +1012,4 @@ visible and invisible!
   Moreover I have heard tell the tale of  
 
 (*Next*) [THE ANGEL OF DEATH WITH THE PROUD AND THE DEVOUT
-MAN](tale16)  
+MAN](tale16.md)  

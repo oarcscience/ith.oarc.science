@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis61)  [Next](kis63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis61)  [Next](kis63.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ needle of itself, and a needle that sewed of itself.
 
 ------------------------------------------------------------------------
 
-[Next: Part V](kis63)
+[Next: Part V](kis63.md)

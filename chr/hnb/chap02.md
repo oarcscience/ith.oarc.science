@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap01)  [Next](chap03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap01)  [Next](chap03.md) 
 
 ------------------------------------------------------------------------
 
@@ -680,4 +680,4 @@ bones were carried out of Egypt and buried in the Promised Land.
 
 ------------------------------------------------------------------------
 
-[Next: III. Moses and the Ten Commandments](chap03)
+[Next: III. Moses and the Ten Commandments](chap03.md)

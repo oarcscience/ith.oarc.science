@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl24)  [Next](vrl26) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl24)  [Next](vrl26.md) 
 
 ------------------------------------------------------------------------
 
@@ -211,4 +211,4 @@ sides forbade place for human footing!
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXVII](vrl26)
+[Next: CHAPTER XXVII](vrl26.md)

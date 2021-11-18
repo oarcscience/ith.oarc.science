@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg50)  [Next](leg52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg50)  [Next](leg52.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ with these imaginary countries.
 
 ------------------------------------------------------------------------
 
-[Next: Section XXIV](leg52)
+[Next: Section XXIV](leg52.md)

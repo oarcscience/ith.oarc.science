@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](dast08)  [Next](dast10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](dast08)  [Next](dast10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -69,7 +69,7 @@ growth, change of form, diminution or decay, and death,—all these
 pertain to the body.
 
 <span class="small">They are not spoken of as
-[pertaining](errata.htm#14) to an Atman distinct from the body. There is
+[pertaining](errata.htm#14.md) to an Atman distinct from the body. There is
 no need to suppose the existence of an Atman distinct from the body, as
 the subject of these changes.</span>
 
@@ -123,7 +123,7 @@ function during sleep when all the
 
 sense-organs are quiescent, would naturally lead to the conclusion that
 Prana is the self more than the sense-organs. <span
-id="fr_2"></span>[\*](#fn_2)
+id="fr_2"></span>[\*](#fn_2.md)
 
 15\. On the strength of the notion "I understand," others regard Buddhi
 (Intellect) as the Atman.
@@ -169,7 +169,7 @@ himself being a tiger. Here the consciousness of Ego, the feeling of "I,
 has been associated in the two states of jagrat and svapna.
 
 Now, as to the contention that *anumana* or inference cannot constitute
-an [authority](errata.htm#15) in itself. Our every day experience
+an [authority](errata.htm#15.md) in itself. Our every day experience
 furnishes so many instances of our conduct being consciously based on no
 better authority than *anumana*. What basis, for instance, other than
 *anumana* or inference from past experience, is there for our belief
@@ -395,7 +395,7 @@ Dakshinâmûrti.
 
 ### Footnotes
 
-<span id="fn_2"></span>[101:\*](dast09.htm#fr_2) One of the manuscripts
+<span id="fn_2"></span>[101:\*](dast09.htm#fr_2.md) One of the manuscripts
 of Manasollasa consulted for this edition gives the text in the logical
 order of the two theories. Evidently the gloss-writer whose exposition
 of the Vartika I followed in my translation and notes had not this
@@ -403,4 +403,4 @@ reading before him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Atman the Eternal Existence](dast10)
+[Next: Chapter VI. Atman the Eternal Existence](dast10.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr70)  [Next](corr72) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr70)  [Next](corr72.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 
 ### LETTER LXXI. (LXXXII.)
 
-#### \* \* \* \* \* \* <span id="fr_81"></span>[1](#fn_80) TO SPINOZA.
+#### \* \* \* \* \* \* <span id="fr_81"></span>[1](#fn_80.md) TO SPINOZA.
 
 \[*How can the variety of the universe be shown à priori from the
 Spinozistic conception of extension?*\]
@@ -76,8 +76,8 @@ Paris, 23 June, 1676.
 
 ### Footnotes
 
-<span id="fn_80"></span>[408:1](corr71.htm#fr_81) Tsehirnhausen.
+<span id="fn_80"></span>[408:1](corr71.htm#fr_81.md) Tsehirnhausen.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXXII. To Anon. \[Tschirnhausen\]](corr72)
+[Next: Letter LXXII. To Anon. \[Tschirnhausen\]](corr72.md)

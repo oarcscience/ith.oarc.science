@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst071)  [Next](inst073) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst071)  [Next](inst073.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,9 +150,9 @@ before the judgment-seat of God. The two things are very different, and
 should be well and carefully distinguished. The whole lives of
 Christians ought to be a kind of aspiration after piety, seeing they are
 called unto holiness (<span id="iv.iii.xx-p21.1"></span>[Eph.
-1:4](../../../bib/kjv/eph001.htm#004)<span id="iv.iii.xx-p21.1"></span>;
+1:4](../../../bib/kjv/eph001.htm#004.md)<span id="iv.iii.xx-p21.1"></span>;
 <span id="iv.iii.xx-p21.2"></span>[1 Thess.
-4:5](../../../bib/kjv/th1004.htm#005)<span
+4:5](../../../bib/kjv/th1004.htm#005.md)<span
 id="iv.iii.xx-p21.2"></span>). The office of the law is to excite them
 to the study of purity and holiness, by reminding them of their duty.
 For when the conscience feels anxious as to how it may have the favor of
@@ -173,7 +173,7 @@ profit you nothing. For I testify again to every man that is
 circumcised, that he is a debtor to do the whole law. Christ is become
 of no effect unto you, whosoever of you are justified by the law; ye are
 fallen from grace,” (<span id="iv.iii.xx-p22.1"></span>[Gal.
-3:13](../../../bib/kjv/gal003.htm#013)<span
+3:13](../../../bib/kjv/gal003.htm#013.md)<span
 id="iv.iii.xx-p22.1"></span>; 5:1-4). These words certainly refer to
 something of a higher order than freedom from ceremonies. I confess,
 indeed, that Paul there treats of ceremonies, because he was contending
@@ -192,8 +192,8 @@ observances. At the same time, he shows that by the cross of Christ they
 are free from the condemnation of the law, to which otherwise all men
 are exposed, so that in Christ alone they can rest in full security.
 This argument is pertinent to the present subject (<span
-id="iv.iii.xx-p22.2"></span>[Gal. 4:5](../../../bib/kjv/gal004.htm#005),
-[21](../../../bib/kjv/gal004.htm#021)<span id="iv.iii.xx-p22.2"></span>,
+id="iv.iii.xx-p22.2"></span>[Gal. 4:5](../../../bib/kjv/gal004.htm#005.md),
+[21](../../../bib/kjv/gal004.htm#021.md)<span id="iv.iii.xx-p22.2"></span>,
 &c). Lastly, he asserts the right of believers to liberty of conscience,
 a liberty which may not be restrained without necessity.
 
@@ -207,7 +207,7 @@ shall be explained more briefly and clearly by an example. The command
 of the law is, “Thou shalt love the Lord thy God with all thine heart,
 and with all thy soul, and with all thy might,” (<span
 id="iv.iii.xx-p23.1"></span>[Deut.
-6:5](../../../bib/kjv/deu006.htm#005)<span
+6:5](../../../bib/kjv/deu006.htm#005.md)<span
 id="iv.iii.xx-p23.1"></span>). To accomplish this, the soul must
 previously be divested of every other thought and feeling, the heart
 purified from all its desires, all its powers collected and united on
@@ -251,7 +251,7 @@ services, however small they may be, and however rude and imperfect.
 Thus He declares to us by the prophet, “I will spare them as a man
 spareth his own son that serveth him,” (<span
 id="iv.iii.xx-p24.1"></span>[Mal.
-3:17](../../../bib/kjv/mal003.htm#017)<span
+3:17](../../../bib/kjv/mal003.htm#017.md)<span
 id="iv.iii.xx-p24.1"></span>); where the word *spare* evidently means
 indulgence, or connivance at faults, while at the same time service is
 remembered. This confidence is necessary in no slight degree, since
@@ -264,12 +264,12 @@ doubt whether God is offended or served by our work?
 the Epistle to the Hebrews ascribes to faith all the good works which
 the holy patriarchs are said to have performed, and estimates them
 merely by faith (<span id="iv.iii.xx-p25.1"></span>[Heb.
-11:2](../../../bib/kjv/heb011.htm#002)<span
+11:2](../../../bib/kjv/heb011.htm#002.md)<span
 id="iv.iii.xx-p25.1"></span>). In regard to this liberty there is a
 remarkable passage in the Epistle to the Romans, where Paul argues, “Sin
 shall not have dominion over you; for ye are not under the law, but
 under grace,” (<span id="iv.iii.xx-p25.2"></span>[Rom.
-6:14](../../../bib/kjv/rom006.htm#014)<span
+6:14](../../../bib/kjv/rom006.htm#014.md)<span
 id="iv.iii.xx-p25.2"></span>). For after he had exhorted believers, “Let
 not sin therefore reign in your mortal body, that ye should obey it in
 the lusts thereof: Neither yield ye your members as instruments of
@@ -323,7 +323,7 @@ conscience.
 nothing unclean of itself,” (by unclean meaning unholy); “but to him
 that esteemeth any thing to be unclean, to him it is unclean,” (<span
 id="iv.iii.xx-p27.1"></span>[Rom.
-14:14](../../../bib/kjv/rom014.htm#014)<span
+14:14](../../../bib/kjv/rom014.htm#014.md)<span
 id="iv.iii.xx-p27.1"></span>). By these words he makes all external
 things subject to our liberty, provided the nature of that liberty
 approves itself to our minds as before God. But if any superstitious
@@ -332,8 +332,8 @@ are to us contaminated. Wherefore the apostle adds, “Happy is he that
 condemneth not himself in that which he alloweth. And he that doubteth
 is damned if he eat, because he eateth not of faith: for whatsoever is
 not of faith is sin,” (<span id="iv.iii.xx-p27.2"></span>[Rom.
-14:22](../../../bib/kjv/rom014.htm#022),
-[23](../../../bib/kjv/rom014.htm#023)<span
+14:22](../../../bib/kjv/rom014.htm#022.md),
+[23](../../../bib/kjv/rom014.htm#023.md)<span
 id="iv.iii.xx-p27.2"></span>). When men, amid such difficulties, proceed
 with greater confidence, securely doing whatever pleases them, do they
 not in so far revolt from God? Those who are thoroughly impressed with
@@ -342,7 +342,7 @@ consciences are discouraged and filled with dread. All such persons
 receive none of the gifts of God with thanksgiving, by which alone Paul
 declares that all things are sanctified for our use (<span
 id="iv.iii.xx-p27.3"></span>[1 Tim.
-4:5](../../../bib/kjv/ti1004.htm#005)<span
+4:5](../../../bib/kjv/ti1004.htm#005.md)<span
 id="iv.iii.xx-p27.3"></span>). By thanksgiving I understand that which
 proceeds from a mind recognizing the kindness and goodness of God in his
 gifts. For many, indeed, understand that the blessings which they enjoy
@@ -382,20 +382,20 @@ vices. Paul makes an admirable distinction in regard to things
 indifferent: “Unto the pure all things are pure: but unto them that are
 defiled and unbelieving is nothing pure; but even their mind and
 conscience is defiled” (<span id="iv.iii.xx-p28.1"></span>[Tit.
-1:15](../../../bib/kjv/tit001.htm#015)<span
+1:15](../../../bib/kjv/tit001.htm#015.md)<span
 id="iv.iii.xx-p28.1"></span>). For why is a woe pronounced upon the rich
 who have received their consolation? (<span
 id="iv.iii.xx-p28.2"></span>[Luke
-6:24](../../../bib/kjv/luk006.htm#024)<span
+6:24](../../../bib/kjv/luk006.htm#024.md)<span
 id="iv.iii.xx-p28.2"></span>), who are full, who laugh now, who “lie
 upon beds of ivory and stretch themselves upon their couches;” “join
 house to house,” and “lay field to field;” “and the harp and the viol,
 the tablet and pipe, and wine, are in their feasts,” (<span
 id="iv.iii.xx-p28.3"></span>[Amos
-6:6](../../../bib/kjv/amo006.htm#006)<span id="iv.iii.xx-p28.3"></span>;
+6:6](../../../bib/kjv/amo006.htm#006.md)<span id="iv.iii.xx-p28.3"></span>;
 <span id="iv.iii.xx-p28.4"></span>[Isa.
-5:8](../../../bib/kjv/isa005.htm#008),
-[10](../../../bib/kjv/isa005.htm#010)<span
+5:8](../../../bib/kjv/isa005.htm#008.md),
+[10](../../../bib/kjv/isa005.htm#010.md)<span
 id="iv.iii.xx-p28.4"></span>). Certainly ivory and gold, and riches, are
 the good creatures of God, permitted, nay destined, by divine providence
 for the use of man; nor was it ever forbidden to laugh, or to be full,
@@ -418,7 +418,7 @@ learn with Paul in whatever state they are, “therewith to be content,”
 to know “both how to be abased,” and “how to abound,” “to be full and to
 be hungry, both to abound and to suffer need,” (<span
 id="iv.iii.xx-p28.5"></span>[Phil.
-4:11](../../../bib/kjv/phi004.htm#011)<span
+4:11](../../../bib/kjv/phi004.htm#011.md)<span
 id="iv.iii.xx-p28.5"></span>).
 
 <span id="iv.iii.xx-p29"></span>10. Very many also err in this: as if
@@ -439,7 +439,7 @@ color, they are not less free. Nay, just because they are free, they
 abstain with a free conscience. But they err most egregiously in paying
 no regard to the infirmity of their brethren, with which it becomes us
 to bear, so as not rashly to give them offense. But46  <span
-id="fr_453"></span>[454](#fn_453) it is sometimes also of consequence
+id="fr_453"></span>[454](#fn_453.md) it is sometimes also of consequence
 that we should assert our liberty before men. This I admit: yet must we
 use great caution in the mode, lest we should cast off the care of the
 weak whom God has specially committed to us.
@@ -479,14 +479,14 @@ shambles, that eat, asking no question for conscience sake.”
 none offense, neither to the Jews nor to the Gentiles nor to the Church
 of God.” Also in another passage, “Brethren, ye have been called into
 liberty, only use not liberty for an occasion to the flesh, but by love
-serve one another.”46  <span id="fr_454"></span>[455](#fn_454) Thus,
+serve one another.”46  <span id="fr_454"></span>[455](#fn_454.md) Thus,
 indeed, it is: our liberty was not given us against our weak neighbors,
 whom charity enjoins us to serve in all things, but rather that, having
 peace with God in our minds, we should live peaceably among men. What
 value is to be set upon the offense of the Pharisees we learn from the
 words of our Lord, in which he says, “Let them alone: they be blind
 leaders of the blind,” (<span id="iv.iii.xx-p32.4"></span>[Mt.
-15:14](../../../bib/kjv/mat015.htm#014)<span
+15:14](../../../bib/kjv/mat015.htm#014.md)<span
 id="iv.iii.xx-p32.4"></span>). The disciples had intimated that the
 Pharisees were offended at his words. He answers that they are to be let
 alone that their offense is not to be regarded.
@@ -500,9 +500,9 @@ example as by doctrine, how far our liberty, in the case of offense, is
 to be modified or maintained. When he adopts Timothy as his companion,
 he circumcises him: nothing can induce him to circumcise Titus (<span
 id="iv.iii.xx-p33.1"></span>[Acts
-16:3](../../../bib/kjv/act016.htm#003)<span
+16:3](../../../bib/kjv/act016.htm#003.md)<span
 id="iv.iii.xx-p33.1"></span>; <span id="iv.iii.xx-p33.2"></span>[Gal.
-2:3](../../../bib/kjv/gal002.htm#003)<span
+2:3](../../../bib/kjv/gal002.htm#003.md)<span
 id="iv.iii.xx-p33.2"></span>). The acts are different, but there is no
 difference in the purpose or intention; in circumcising Timothy, as he
 was free from all men, he made himself the servant of all: “Unto the
@@ -513,7 +513,7 @@ law to God, but under the law to Christ), that I might gain them that
 are without law. To the weak became I as weak that I might gain the
 weak: I am made all things to all men, that I might by all means save
 some” (<span id="iv.iii.xx-p33.3"></span>[1 Cor.
-9:20-22](../../../bib/kjv/co1009.htm#020)<span
+9:20-22](../../../bib/kjv/co1009.htm#020.md)<span
 id="iv.iii.xx-p33.3"></span>). We have here the proper modification of
 liberty, when in things indifferent it can be restrained with some
 advantage. What he had in view in firmly resisting the circumcision of
@@ -524,7 +524,7 @@ spy out our liberty which we have in Christ Jesus, that they might bring
 us into bondage: to whom we gave place by subjection, no, not for an
 hour, that the truth of the gospel might continue with you,” (<span
 id="iv.iii.xx-p33.4"></span>[Gal.
-2:3-5](../../../bib/kjv/gal002.htm#003)<span
+2:3-5](../../../bib/kjv/gal002.htm#003.md)<span
 id="iv.iii.xx-p33.4"></span>). We here see the necessity of vindicating
 our liberty when, by the unjust exactions of false apostles, it is
 brought into danger with weak consciences. In all cases we must study
@@ -532,8 +532,8 @@ charity, and look to the edification of our neighbor. “All things are
 lawful for me,” says he, “but all things are not expedient; all things
 are lawful for me, but all things edify not. Let no man seek his own,
 but every man another’s wealth,” (<span id="iv.iii.xx-p33.5"></span>[1
-Cor. 10:23](../../../bib/kjv/co1010.htm#023),
-[24](../../../bib/kjv/co1010.htm#024)<span
+Cor. 10:23](../../../bib/kjv/co1010.htm#023.md),
+[24](../../../bib/kjv/co1010.htm#024.md)<span
 id="iv.iii.xx-p33.5"></span>). There is nothing plainer than this rule,
 that we are to use our liberty if it tends to the edification of our
 neighbor, but if inexpedient for our neighbor, we are to abstain from
@@ -548,7 +548,7 @@ things is to make him the readier in all offices of charity.
 
 <span id="iv.iii.xx-p34"></span>13. Whatever I have said about avoiding
 offenses, I wish to be referred to things indifferent.46  <span
-id="fr_455"></span>[456](#fn_455) Things which are necessary to be done
+id="fr_455"></span>[456](#fn_455.md) Things which are necessary to be done
 cannot be omitted from any fear of offense. For as our liberty is to be
 made subservient to charity, so charity must in its turn be subordinate
 to purity of faith. Here, too, regard must be had to charity, but it
@@ -565,7 +565,7 @@ or by example, then smooth-tongued men say that he is to be fed with
 milk, while they are instilling into him the worst and most pernicious
 opinions. Paul says to the Corinthians, “I have fed you with milk, and
 not with meat,” (<span id="iv.iii.xx-p35.1"></span>[1 Cor.
-3:2](../../../bib/kjv/co1003.htm#002)<span
+3:2](../../../bib/kjv/co1003.htm#002.md)<span
 id="iv.iii.xx-p35.1"></span>); but had there then been a Popish mass
 among them, would he have sacrificed as one of the modes of giving them
 milk? By no means: milk is not poison. It is false then to say they
@@ -574,12 +574,12 @@ But granting that such dissimulation may be used for a time, how long
 are they to make their pupils drink that kind of milk? If they never
 grow up so as to be able to bear at least some gentle food, it is
 certain that they have never been reared on milk.46  <span
-id="fr_456"></span>[457](#fn_456) Two reasons prevent me from now
+id="fr_456"></span>[457](#fn_456.md) Two reasons prevent me from now
 entering farther into contest with these people, first, their follies
 are scarcely worthy of refutation, seeing all men of sense must nauseate
 them; and, secondly, having already amply refuted them in special
 treatises, I am unwilling to do it over again.46  <span
-id="fr_457"></span>[458](#fn_457) Let my readers only bear in mind,
+id="fr_457"></span>[458](#fn_457.md) Let my readers only bear in mind,
 first, that whatever be the offenses by which Satan and the world
 attempt to lead us away from the law of God, we must, nevertheless,
 strenuously proceed in the course which he prescribes; and, secondly,
@@ -597,15 +597,15 @@ consciences of believers should derive no benefit from it. We must not
 regard it as a trivial matter when we see how much it cost our Savior,
 being purchased not with silver or gold, but with his own blood (<span
 id="iv.iii.xx-p38.1"></span>[1 Pet.
-1:18](../../../bib/kjv/pe1001.htm#018),
-[19](../../../bib/kjv/pe1001.htm#019)<span
+1:18](../../../bib/kjv/pe1001.htm#018.md),
+[19](../../../bib/kjv/pe1001.htm#019.md)<span
 id="iv.iii.xx-p38.1"></span>); so that Paul hesitates not to say that
 Christ has died in vain, if we place our souls under subjection to men
 (<span id="iv.iii.xx-p38.2"></span>[Gal.
-5:1](../../../bib/kjv/gal005.htm#001),
-[4](../../../bib/kjv/gal005.htm#004)<span id="iv.iii.xx-p38.2"></span>;
+5:1](../../../bib/kjv/gal005.htm#001.md),
+[4](../../../bib/kjv/gal005.htm#004.md)<span id="iv.iii.xx-p38.2"></span>;
 <span id="iv.iii.xx-p38.3"></span>[1 Cor.
-7:23](../../../bib/kjv/co1007.htm#023)<span
+7:23](../../../bib/kjv/co1007.htm#023.md)<span
 id="iv.iii.xx-p38.3"></span>). Several chapters of the Epistle to the
 Galatians are wholly occupied with showing that Christ is obscured, or
 rather extinguished to us, unless our consciences maintain their
@@ -655,8 +655,8 @@ accuracy between what is called the external *forum*, and the *forum* of
 conscience. What increases the difficulty is, that Paul commands us to
 obey the magistrate, “not only for wrath, but also for conscience sake,”
 (<span id="iv.iii.xx-p39.1"></span>[Rom.
-13:1](../../../bib/kjv/rom013.htm#001),
-[5](../../../bib/kjv/rom013.htm#005)<span id="iv.iii.xx-p39.1"></span>).
+13:1](../../../bib/kjv/rom013.htm#001.md),
+[5](../../../bib/kjv/rom013.htm#005)<span id="iv.iii.xx-p39.1"></span>.md).
 Whence it follows that civil laws also bind the conscience. Were this
 so, then what we said a little ago, and are still to say of spiritual
 governments would fall. To solve this difficulty, the first thing of
@@ -672,7 +672,7 @@ himself; but following him on even to conviction. It is this that Paul
 means when he says, “Their conscience also bearing witness, and their
 thoughts the meanwhile accusing, or else excusing one another,” (<span
 id="iv.iii.xx-p39.2"></span>[Rom.
-2:15](../../../bib/kjv/rom002.htm#015)<span
+2:15](../../../bib/kjv/rom002.htm#015.md)<span
 id="iv.iii.xx-p39.2"></span>). Simple knowledge may exist in man, as it
 were shut up; therefore this sense, which sists man before the bar of
 God, is set over him as a kind of sentinel to observe and spy out all
@@ -680,12 +680,12 @@ his secrets, that nothing may remain buried in darkness. Hence the
 ancient proverb, Conscience is a thousand witnesses. For the same reason
 Peter also employs the expression, “the answer of a good conscience,”
 (<span id="iv.iii.xx-p39.3"></span>[1 Pet.
-3:21](../../../bib/kjv/pe1003.htm#021)<span
+3:21](../../../bib/kjv/pe1003.htm#021.md)<span
 id="iv.iii.xx-p39.3"></span>), for tranquillity of mind; when persuaded
 of the grace of Christ, we boldly present ourselves before God. And the
 author of the Epistle to the Hebrews says, that we have “no more
 conscience of sins,” (<span id="iv.iii.xx-p39.4"></span>[Heb.
-10:2](../../../bib/kjv/heb010.htm#002)<span
+10:2](../../../bib/kjv/heb010.htm#002.md)<span
 id="iv.iii.xx-p39.4"></span>), that we are held as freed or acquitted,
 so that sin no longer accuses us.
 
@@ -695,19 +695,19 @@ nothing else than inward integrity of heart. In this sense Paul says
 that “the end of the commandment is charity, out of a pure heart, and of
 a good consciences and of faith unfeigned” (<span
 id="iv.iii.xx-p40.1"></span>[1 Tim.
-1:5](../../../bib/kjv/ti1001.htm#005)<span
+1:5](../../../bib/kjv/ti1001.htm#005.md)<span
 id="iv.iii.xx-p40.1"></span>). He afterwards, in the same chapter, shows
 how much it differs from intellect when he speaks of “holding faith, and
 a good conscience; which some having put away, have made shipwreck,”
 (<span id="iv.iii.xx-p40.2"></span>[1 Tim.
-1:19](../../../bib/kjv/ti1001.htm#019)<span
+1:19](../../../bib/kjv/ti1001.htm#019.md)<span
 id="iv.iii.xx-p40.2"></span>). For by these words he intimates, that it
 is a lively inclination to serve God, a sincere desire to live in piety
 and holiness. Sometimes, indeed, it is even extended to men, as when
 Paul testifies, “Herein do I exercise myself, to have always a
 conscience void of offense toward God, and toward men,” (<span
 id="iv.iii.xx-p40.3"></span>[Acts
-24:16](../../../bib/kjv/act024.htm#016)<span
+24:16](../../../bib/kjv/act024.htm#016.md)<span
 id="iv.iii.xx-p40.3"></span>). He speaks thus, because the fruits of a
 good conscience go forth and reach even to men. But, as I have said,
 properly speaking, it refers to God only. Hence a law is said to bind
@@ -725,8 +725,8 @@ any man say unto you, This is offered in sacrifice unto idols, eat not
 for his sake that showed it, and for conscience sake:” “Conscience, I
 say, not thine own, but of the other,” (<span
 id="iv.iii.xx-p40.4"></span>[1 Cor.
-10:28](../../../bib/kjv/co1010.htm#028),
-[29](../../../bib/kjv/co1010.htm#029)<span
+10:28](../../../bib/kjv/co1010.htm#028.md),
+[29](../../../bib/kjv/co1010.htm#029.md)<span
 id="iv.iii.xx-p40.4"></span>). A believer, after being previously
 admonished, would sin were he still to eat meat so offered. But though
 abstinence, on his part, is necessary, in respect of a brother, as it is
@@ -738,39 +738,39 @@ conscience unbound.
 
 ### Footnotes
 
-<span id="fn_453"></span>[454](inst072.htm#fr_453) <span
+<span id="fn_453"></span>[454](inst072.htm#fr_453.md) <span
 id="iv.iii.xx-p29.1"></span>
 
 <span id="iv.iii.xx-p30"></span>60 460 French, “Mais quelcun dira”—But
 some one will say.
 
-<span id="fn_454"></span>[455](inst072.htm#fr_454) <span
+<span id="fn_454"></span>[455](inst072.htm#fr_454.md) <span
 id="iv.iii.xx-p31.1"></span>
 
 <span id="iv.iii.xx-p32"></span>61 461 <span
 id="iv.iii.xx-p32.1"></span>[Rom.
-14:1](../../../bib/kjv/rom014.htm#001),
-[13](../../../bib/kjv/rom014.htm#013)<span id="iv.iii.xx-p32.1"></span>;
+14:1](../../../bib/kjv/rom014.htm#001.md),
+[13](../../../bib/kjv/rom014.htm#013.md)<span id="iv.iii.xx-p32.1"></span>;
 16:1; <span id="iv.iii.xx-p32.2"></span>[1 Cor.
-8:9](../../../bib/kjv/co1008.htm#009)<span id="iv.iii.xx-p32.2"></span>;
+8:9](../../../bib/kjv/co1008.htm#009.md)<span id="iv.iii.xx-p32.2"></span>;
 10:25, 29, 32; <span id="iv.iii.xx-p32.3"></span>[Gal.
-5:13](../../../bib/kjv/gal005.htm#013)<span
+5:13](../../../bib/kjv/gal005.htm#013.md)<span
 id="iv.iii.xx-p32.3"></span>.
 
-<span id="fn_455"></span>[456](inst072.htm#fr_455) <span
+<span id="fn_455"></span>[456](inst072.htm#fr_455.md) <span
 id="iv.iii.xx-p34.1"></span>
 
 <span id="iv.iii.xx-p35"></span>62 462 The French adds, “Lesquelles ne
 sont de soy ne bonnes ne mauvais;”—which in themselves are neither good
 nor bad.
 
-<span id="fn_456"></span>[457](inst072.htm#fr_456) <span
+<span id="fn_456"></span>[457](inst072.htm#fr_456.md) <span
 id="iv.iii.xx-p35.2"></span>
 
 <span id="iv.iii.xx-p36"></span>63 463 French, “de bon laict;”—good
 milk.
 
-<span id="fn_457"></span>[458](inst072.htm#fr_457) <span
+<span id="fn_457"></span>[458](inst072.htm#fr_457.md) <span
 id="iv.iii.xx-p36.1"></span>
 
 <span id="iv.iii.xx-p37"></span>64 464 See Epist. de Fugiendis Impiorum
@@ -780,4 +780,4 @@ Sacerdotiis Also the short treatise, De Vitandis Superstitionibus.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 20. - OF PRAYERA PERPETUAL EXERCISE OF FAITH. THE DAILY
-BENEFITS DERIVED FROM IT.](inst073)
+BENEFITS DERIVED FROM IT.](inst073.md)

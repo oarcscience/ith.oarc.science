@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat56)  [Next](jat58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat56)  [Next](jat58.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ which they took away and hid in the brush. From there
 <span id="page_244">p. 244</span>
 
 they went to Bosque where all the Navajo had been placed. <span
-id="fr_69"></span>[1](#fn_69) When they got there, six Ute rode on in
+id="fr_69"></span>[1](#fn_69.md) When they got there, six Ute rode on in
 front and after dark drove away four of the horses. Two of the Ute, who
 were out after another horse during the night, came upon a Navajo whom
 they shot, inflicting a flesh wound. The Navajo hid in the brush and the
@@ -55,7 +55,7 @@ corn, bread, flour, peas, and whisky. They brought them all away,
 arriving after night where the Apache were camped. They did not take the
 scalps because no one knew how. The Ute knew how to take scalps but the
 Ute did not kill him. For that reason he was not touched. <span
-id="fr_70"></span>[2](#fn_70)
+id="fr_70"></span>[2](#fn_70.md)
 
 Early next morning, a man went over to the Ute and told them. "You come
 and scalp the man. We do not know how," he said to them. They
@@ -68,7 +68,7 @@ where the man lay. They took the scalp, and cut off the ears. They cut
 off the fingers too. They brought these back to their camp. One of them
 took the scalp, turned it over his knee, and cut off pieces of flesh.
 They put these pieces in the fire, eating some of them and rubbing the
-others on their bodies. <span id="fr_71"></span>[1](#fn_71)
+others on their bodies. <span id="fr_71"></span>[1](#fn_71.md)
 
 They rode off, stopping at noon, to eat. They built a fire. A man leaned
 his gun against a rock. While they were eating, a Ute climbed to the top
@@ -77,7 +77,7 @@ touching it, the gun went off, shooting this man through the hip. He
 fell down and the others all ran up to him. The ball passed through the
 bone breaking it. They moved away from there, placing the wounded man on
 poles fastened on each side of a horse. They dragged him along this
-way. <span id="fr_72"></span>[2](#fn_72)
+way. <span id="fr_72"></span>[2](#fn_72.md)
 
 They moved to Cimarron. As they rode near they held the enemy's scalp.
 They went dancing around there and kept it up until night. They stopped
@@ -93,26 +93,26 @@ it was daylight when they finished.
 
 ### Footnotes
 
-<span id="fn_69"></span>[244:1](jat57.htm#fr_69) The Navajo were
+<span id="fn_69"></span>[244:1](jat57.htm#fr_69.md) The Navajo were
 prisoners of war at Ft. Sumner, Bosque Redondo, on the Pecos River from
 1863 until 1867.
 
-<span id="fn_70"></span>[244:2](jat57.htm#fr_70) The informant
+<span id="fn_70"></span>[244:2](jat57.htm#fr_70.md) The informant
 commented, "Very few of the Apache know how to take a scalp. if they do
 not know how, it (scalping) makes them die without sickness. The body
 dries up. They sometimes fall in the fire."
 
-<span id="fn_71"></span>[245:1](jat57.htm#fr_71) Because the enemy
+<span id="fn_71"></span>[245:1](jat57.htm#fr_71.md) Because the enemy
 (Plains Indians) sometimes took off the Utes' ears and fingers to wear,
 the Ute did the same. "Just the Ute did this way, (ate it). The Ute say
 if they do this the enemy will not be strong. They will get scared
 quickly."
 
-<span id="fn_72"></span>[245:2](jat57.htm#fr_72) The travois seems to
+<span id="fn_72"></span>[245:2](jat57.htm#fr_72.md) The travois seems to
 have been used only for the transportation of the wounded and infirm,
 the practice of packing the loads on the backs of the horses having been
 adopted from the Mexicans.
 
 ------------------------------------------------------------------------
 
-[Next: 56. A Fight With the Enemy on the Arkansas River](jat58)
+[Next: 56. A Fight With the Enemy on the Arkansas River](jat58.md)

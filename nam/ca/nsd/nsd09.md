@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](nsd08)  [Next](nsd10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](nsd08)  [Next](nsd10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Shoshonean Dialects of Southern California*, by A. L.
 Kroeber, \[1909\], at Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ plural in meaning, may contain the usual Shoshonean plural suffix -m.
 Compare anawic-bit, girl, in which -bit is the diminutive; and anabic,
 sweet. The name which the Tübatulabal apply to the Kawaiisu, Kawishm,
 and perhaps their designation of the Bankalachi, Toloim, <span
-id="fr_18"></span>[17](#fn_17) seem also to contain the plural suffix.
+id="fr_18"></span>[17](#fn_17.md) seem also to contain the plural suffix.
 
 A comparison of the practically equivalent Tübatulabal and Bankalachi
 vocabularies shows several forms denoting parts of
@@ -49,9 +49,9 @@ Southern California and Ute-Chemehuevi dialectic groups.
 
 ### Footnotes
 
-<span id="fn_17"></span>[262:17](nsd09.htm#fr_18) Present series, IV,
+<span id="fn_17"></span>[262:17](nsd09.htm#fr_18.md) Present series, IV,
 110, 124, 1907.
 
 ------------------------------------------------------------------------
 
-[Next: Giamina](nsd10)
+[Next: Giamina](nsd10.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh30)  [Next](ulh32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh30)  [Next](ulh32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 The hula *kí-e-léi*, or *kí-le-léi*, was a performance of Hawaii's
 classic times. and finds mention as such in the professedly imperfect
 list of hulas given by the historian David Malo. <span
-id="fr_406"></span>[a](#fn_393) It was marked by strenuous bodily
+id="fr_406"></span>[a](#fn_393.md) It was marked by strenuous bodily
 action, gestures with feet and hands, and that vigorous exercise of the
 pelvis and body termed *ami*, the chief feature of which was a rotation
 of the pelvis in circles and ellipses, which is not to be regarded as an
@@ -45,11 +45,11 @@ offering contained, good pork or fish and strong awa.
 
 <div style="margin-left: 32px">
 
-Ku piliki’i Hanalei-lehua, <span id="fr_407"></span>[b](#fn_394) la;  
-Kao’o <span id="fr_408"></span>[c](#fn_395) ’luna o ka naéle, <span
-id="fr_409"></span>[d](#fn_396) la;  
+Ku piliki’i Hanalei-lehua, <span id="fr_407"></span>[b](#fn_394.md) la;  
+Kao’o <span id="fr_408"></span>[c](#fn_395.md) ’luna o ka naéle, <span
+id="fr_409"></span>[d](#fn_396.md) la;  
 Ka Pili-iki i ka Hua-moa, la;  
-E ka mauna o ke a’a lewalewa <span id="fr_410"></span>[e](#fn_397) la.  
+E ka mauna o ke a’a lewalewa <span id="fr_410"></span>[e](#fn_397.md) la.  
 5 A lewa ka hope o ko’u hoa, la,
 
 </div>
@@ -59,7 +59,7 @@ E ka mauna o ke a’a lewalewa <span id="fr_410"></span>[e](#fn_397) la.
 <span id="img_pl22"></span> <span align="CENTER"> [![PLATE
 XXII&lt;br&gt; AWA-PUHI, A HAWAIIAN GINGER&lt;br&gt; (ZINGIBER
 ZERUMBET)](tn/pl22.jpg)  
-Click to enlarge](img/pl22.jpg)  
+Click to enlarge](img/pl22.jpg.md)  
 PLATE XXII  
 AWA-PUHI, A HAWAIIAN GINGER  
 (ZINGIBER ZERUMBET)  
@@ -72,8 +72,8 @@ AWA-PUHI, A HAWAIIAN GINGER
 <div style="margin-left: 32px">
 
 A ko-ú ka hope o ke koléa, la--  
-Na u’i elua <span id="fr_411"></span>[a](#fn_398)  
-Ki-ki’i ka ua i ka nana keia, la. <span id="fr_412"></span>[b](#fn_399)
+Na u’i elua <span id="fr_411"></span>[a](#fn_398.md)  
+Ki-ki’i ka ua i ka nana keia, la. <span id="fr_412"></span>[b](#fn_399.md)
 
 </div>
 
@@ -111,32 +111,32 @@ any hidden meaning to this mele.
 
 ### Footnotes
 
-<span id="fn_393"></span>[210:a](ulh31.htm#fr_406) Hawaiian Antiquities,
+<span id="fn_393"></span>[210:a](ulh31.htm#fr_406.md) Hawaiian Antiquities,
 by David Malo; translated by N. B. Emerson, A. M., M. D. Honolulu, the
 Hawaiian Gazette Company (Limited), 1903.
 
-<span id="fn_394"></span>[210:b](ulh31.htm#fr_407) *Hanalei-lehua*. A
+<span id="fn_394"></span>[210:b](ulh31.htm#fr_407.md) *Hanalei-lehua*. A
 wilderness back of Hanalei valley, Kauai, in which the lehua
 tree-abounds. The features of this region are as above described.
 
-<span id="fn_395"></span>[210:c](ulh31.htm#fr_408) *Kaó’o*. To bend down
+<span id="fn_395"></span>[210:c](ulh31.htm#fr_408.md) *Kaó’o*. To bend down
 the shrubs and tussocks of grass to furnish solid footing in crossing
 swampy ground.
 
-<span id="fn_396"></span>[210:d](ulh31.htm#fr_409) *Naé’le*. Boggy
+<span id="fn_396"></span>[210:d](ulh31.htm#fr_409.md) *Naé’le*. Boggy
 ground; a swamp, such as pitted the summit of Kauai's central mountain
 mass, Waiáleále.
 
-<span id="fn_397"></span>[210:e](ulh31.htm#fr_410) *A'a lewalewa*.
+<span id="fn_397"></span>[210:e](ulh31.htm#fr_410.md) *A'a lewalewa*.
 Aerial roots such as are put forth by the lehua trees in high altitudes
 and in a damp climate. They often aid the traveler by furnishing him
 with a sort of ladder.
 
-<span id="fn_398"></span>[211:a](ulh31.htm#fr_411) *U'i elua*. Literally
+<span id="fn_398"></span>[211:a](ulh31.htm#fr_411.md) *U'i elua*. Literally
 two beauties. One interpreter says the reference is to the arms, with
 which one pulls himself up; it is here rendered " flanks."
 
-<span id="fn_399"></span>[211:b](ulh31.htm#fr_412) *Ki-ki’i ka ua i ka
+<span id="fn_399"></span>[211:b](ulh31.htm#fr_412.md) *Ki-ki’i ka ua i ka
 nana keia, la*. The meaning of this passage is obscure. The most
 plausible view is that this is an exclamation made by one of the two
 travelers while crouching for shelter under an overhanging bank. This
@@ -149,4 +149,4 @@ Hawaiian friend, however, finds it all implied in this passage.
 
 ------------------------------------------------------------------------
 
-[Next: XXVIII.--The Hula Mú’u-mú’u](ulh32)
+[Next: XXVIII.--The Hula Mú’u-mú’u](ulh32.md)

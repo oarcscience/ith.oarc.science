@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly53)  [Next](lly55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly53)  [Next](lly55.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ were also made the occasion of big dances and other ceremonies.
 
 ------------------------------------------------------------------------
 
-[Next: Dances](lly55)
+[Next: Dances](lly55.md)

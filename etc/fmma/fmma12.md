@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma11)  [Next](fmma13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma11)  [Next](fmma13.md) 
 
 ------------------------------------------------------------------------
 
@@ -261,4 +261,4 @@ Pepin died in 768.
 
 ------------------------------------------------------------------------
 
-[Next: Charlemagne. King From 768-814 A.D.](fmma13)
+[Next: Charlemagne. King From 768-814 A.D.](fmma13.md)

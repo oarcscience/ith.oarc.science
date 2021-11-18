@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah81)  [Next](oah83) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah81)  [Next](oah83.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ henceforth, forever!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](oah83)
+[Next: Chapter VI](oah83.md)

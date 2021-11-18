@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi248)  [Next](mtsi250) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi248)  [Next](mtsi250.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ things there. I, however, can go on licking flowers."
 
 ------------------------------------------------------------------------
 
-[Next: 50. The Conceit of Tciktcinigåsi](mtsi250)
+[Next: 50. The Conceit of Tciktcinigåsi](mtsi250.md)

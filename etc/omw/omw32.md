@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw31)  [Next](omw33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw31)  [Next](omw33.md) 
 
 ------------------------------------------------------------------------
 
@@ -251,4 +251,4 @@ the will of Zeus, she goes down into the world of men.
 
 ------------------------------------------------------------------------
 
-[Next: Demeter](omw33)
+[Next: Demeter](omw33.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku34)  [Next](tku36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku34)  [Next](tku36.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 ### CONCERNING THE SKULL OP MICROPROSOPUS AND ITS APPURTENANCES; NAMELY, CONCERNING THE SUBTLE AIR, AND THE FIRE, AND THE DEW.
 
 536\. THIS is the tradition. When the White Head <span
-id="fr_95"></span>[1](#fn_94) propounded unto Himself to superadd
+id="fr_95"></span>[1](#fn_94.md) propounded unto Himself to superadd
 ornament unto His own adornment, He constituted, prepared, and produced
 one single spark from His intense splendour of light. He fanned it and
 condensed it (or conformed it).
@@ -20,7 +20,7 @@ seventy directions.
 538\. And the spark subsisted, and waited until the pure air went forth
 which involved it around; and an ultimate extension having been made, He
 produced a certain hard skull (*bounded*) on four sides. <span
-id="fr_96"></span>[2](#fn_95)
+id="fr_96"></span>[2](#fn_95.md)
 
 <span id="page_178">p. 178</span>
 
@@ -48,7 +48,7 @@ called the hard skull.
 receive the influx from it, and are at peace above it.
 
 546\. In that skull distilleth the dew <span
-id="fr_97"></span>[1](#fn_96) from the White Head, which is ever filled
+id="fr_97"></span>[1](#fn_96.md) from the White Head, which is ever filled
 therewith; and from that dew are the dead raised unto life.
 
 547\. And that dew hath in itself two colours. From the White Head there
@@ -92,7 +92,7 @@ Ancient of the Ancient Ones, from whom is the life of the universe.
 557\. And from that skull there is a place of exit in one place unto
 those which are below; and they reflect His light towards the Ancient of
 Days, when they ascend in numeration beneath the wand. <span
-id="fr_98"></span>[1](#fn_97)
+id="fr_98"></span>[1](#fn_97.md)
 
 558\. Therefore is His skull cleft beneath, when (the inferiors) ascend
 in numeration, and from this cleavage a reflection of light ariseth
@@ -102,18 +102,18 @@ toward the Ancient of Days.
 
 ### Footnotes
 
-<span id="fn_94"></span>[177:1](tku35.htm#fr_95) Another title for the
+<span id="fn_94"></span>[177:1](tku35.htm#fr_95.md) Another title for the
 crown, Kether. (See Introduction.)
 
-<span id="fn_95"></span>[177:2](tku35.htm#fr_96) By the letters of the
+<span id="fn_95"></span>[177:2](tku35.htm#fr_96.md) By the letters of the
 Tetragram.
 
-<span id="fn_96"></span>[178:1](tku35.htm#fr_97) This subtle air, fire,
+<span id="fn_96"></span>[178:1](tku35.htm#fr_97.md) This subtle air, fire,
 and dew are analogous to the three "mother letters" of the "Sepher
 Yetzirah." A, M. and Sh: the letter A symbolising air, the medium
 between M the water, and Sh the fire.
 
-<span id="fn_97"></span>[179:1](tku35.htm#fr_98) This statement will be
+<span id="fn_97"></span>[179:1](tku35.htm#fr_98.md) This statement will be
 utterly unintelligible to the ordinary reader. unless he is told that
 there are four secret qabalistical symbols attached to the four letters
 of Tetragrammaton--viz., the wand to I, the cup of libation to H, the
@@ -124,4 +124,4 @@ I of IHVH and at the head of the Sephiroth.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVIII: Concerning the Brain and Membrane of the Brain of
-Microprosopus](tku36)
+Microprosopus](tku36.md)

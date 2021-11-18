@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico071) 
-[Next](nico073) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico071.md) 
+[Next](nico073.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ incontinence by a metaphor and not simply, is plain.
 ------------------------------------------------------------------------
 
 [Next: Chapter 6. Incontinence in respect of anger less disgraceful than
-incontinence proper](nico073)
+incontinence proper](nico073.md)

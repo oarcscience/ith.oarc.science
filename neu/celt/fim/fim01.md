@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim00)  [Next](fim02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim00)  [Next](fim02.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE Isle of Man has been unfortunate in not having had competent
 collectors of its Legendary Lore. But few have taken the slightest
@@ -59,7 +59,7 @@ trust the foreigner with secrets; his eyes twinkled suspiciously, and
 his hand seemed unconsciously to grasp his mouth, as if to keep all
 fast. "It is remarkable that no native Manxmen have, till recently,
 troubled themselves about collecting what, we suppose, they considered
-idle, if not mischievous, tales. <span id="fr_0"></span>[1](#fn_0) If
+idle, if not mischievous, tales. <span id="fr_0"></span>[1](#fn_0.md) If
 they had done so, and had recorded them in the original Manx, they would
 have conferred a boon upon those who are interested in such researches.
 Now it is, unfortunately, too late. The Manx language is moribund, and
@@ -80,7 +80,7 @@ especially if a clergyman, and, even among themselves, they are
 mentioned with some sense of shame, and with a wish to keep them as
 secret as possible, so that the most diligent and craftily-put enquiries
 have extracted but little that has not been hitherto known. <span
-id="fr_1"></span>[2](#fn_1) On the whole, the present state of the Isle
+id="fr_1"></span>[2](#fn_1.md) On the whole, the present state of the Isle
 of Man is so antagonistic to such superstitions that, to place the
 reader in a position which will enable him to understand the sort of
 people and the state of society in which they originated, it is
@@ -115,12 +115,12 @@ their constant diet is only salt butter, herrings, and oat cakes, here
 made almost as thin as a paper leaf . . . their drink is either simple
 water, or water mixt with milk, or at best buttermilk." Beer, he says,
 is only drunk when they meet at market. <span
-id="fr_2"></span>[1](#fn_2) Chaloner, who was Governor of the Island at
+id="fr_2"></span>[1](#fn_2.md) Chaloner, who was Governor of the Island at
 this time, says that the Manx are "very civil . . . laborious, contented
 with simple diet and lodgings; their drink, water; their meat, fish;
 their bedding, hay or straw, generally; much addicted to the musick of
 the violyne . . . bearing a great esteem and reverence for the publique
-service of God." <span id="fr_3"></span>[2](#fn_3) Bishop Gibson's
+service of God." <span id="fr_3"></span>[2](#fn_3.md) Bishop Gibson's
 account, in the edition of Camden's *Britannia* published in 1695, adds
 nothing new. Waldron (1720-30) says that the houses of the peasantry
 "are no more than cabins built of sods, and covered with the same,
@@ -130,7 +130,7 @@ go barefoot, except on Sunday or when they are at work in the field, and
 have then only small pieces of cow's or horse's hide at the bottom of
 their feet, tyed on with packthread, which they call carranes. Their
 food is commonly herrings and potatoes, or bread made of
-potatoes." <span id="fr_4"></span>[3](#fn_4)
+potatoes." <span id="fr_4"></span>[3](#fn_4.md)
 
 Thomas Quayle, a Manxman, who wrote in 1812 about the agriculture of the
 Island, also mentions the cottages of the peasantry as follows: ''The
@@ -165,7 +165,7 @@ cottages
 <span id="page_iv">p. iv</span>
 
 more. The ancient mode of thatching and roping is still general" <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 He is followed, in 1816, by Bullock, who declares that "what any English
 peasant would consider a state of actual starvation is scarcely regarded
@@ -179,7 +179,7 @@ common necessaries above stated the good people add a stock of turf for
 the fire and a cow, fed in the lanes and hedges, they enjoy the utmost
 abundance of which they have any idea. A chaff bed for the whole family,
 a stool, and a wooden table constitute the furniture of their
-mansion." <span id="fr_6"></span>[2](#fn_6) Finally, Campbell, in 1860,
+mansion." <span id="fr_6"></span>[2](#fn_6.md) Finally, Campbell, in 1860,
 tells us that, "Of the poorer classes living in the mountain farms, and
 at the points and distant corners of the Island, these are still many
 who can hardly speak anything but Manx. Their hair is dark; the sound of
@@ -311,7 +311,7 @@ late years to recognise that they contain elements of instruction as
 well as of amusement, for they are "often the only possible means of
 penetrating to the historic past of nations," and they are "certainly
 the only means of tracing out many of the landmarks in the mental
-development of man." <span id="fr_7"></span>[1](#fn_7)
+development of man." <span id="fr_7"></span>[1](#fn_7.md)
 
 <span id="img_i00600"></span> ![](img/i00600.jpg)
 
@@ -321,32 +321,32 @@ development of man." <span id="fr_7"></span>[1](#fn_7)
 
 ### Footnotes
 
-<span id="fn_0"></span>[ii:1](fim01.htm#fr_0) The Isle of Man Natural
+<span id="fn_0"></span>[ii:1](fim01.htm#fr_0.md) The Isle of Man Natural
 History and Antiquarian Society has appointed a Committee for this
 purpose.
 
-<span id="fn_1"></span>[ii:2](fim01.htm#fr_1) The results. of these
+<span id="fn_1"></span>[ii:2](fim01.htm#fr_1.md) The results. of these
 enquiries, which have chiefly been made by Professor Rhys and the
 writer, are given in the following pages, together with the Folk-Lore
 taken from previously published accounts.
 
-<span id="fn_2"></span>[iii:1](fim01.htm#fr_2) Manx Society, Vol. xxv.,
+<span id="fn_2"></span>[iii:1](fim01.htm#fr_2.md) Manx Society, Vol. xxv.,
 p. 57.
 
-<span id="fn_3"></span>[iii:2](fim01.htm#fr_3) Manx Society, Vol. x, p.
+<span id="fn_3"></span>[iii:2](fim01.htm#fr_3.md) Manx Society, Vol. x, p.
 11.
 
-<span id="fn_4"></span>[iii:3](fim01.htm#fr_4) Manx Society, Vol. xi, p.
+<span id="fn_4"></span>[iii:3](fim01.htm#fr_4.md) Manx Society, Vol. xi, p.
 2.
 
-<span id="fn_5"></span>[iv:1](fim01.htm#fr_5) Quayle; General View of
+<span id="fn_5"></span>[iv:1](fim01.htm#fr_5.md) Quayle; General View of
 the Agriculture of the Isle of Man, pp. 22-3.
 
-<span id="fn_6"></span>[iv:2](fim01.htm#fr_6) History of the Isle of
+<span id="fn_6"></span>[iv:2](fim01.htm#fr_6.md) History of the Isle of
 Man, pp. 350-1.
 
-<span id="fn_7"></span>[vi:1](fim01.htm#fr_7) The Handbook of Folk-Lore.
+<span id="fn_7"></span>[vi:1](fim01.htm#fr_7.md) The Handbook of Folk-Lore.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](fim02)
+[Next: Preface](fim02.md)

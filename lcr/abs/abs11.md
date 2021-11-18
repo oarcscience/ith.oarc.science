@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs10)  [Next](abs12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs10)  [Next](abs12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -225,7 +225,7 @@ January, 1961 and read:
 
 **Albany, Ore.**—The monster of Conser Lake is still on the loose. The
 creature reportedly stands on two webbed \[italics mine\]  <span
-id="fr_13"></span>[\*](#fn_13) feet, is 7 to 3 feet high \[tall\], and
+id="fr_13"></span>[\*](#fn_13.md) feet, is 7 to 3 feet high \[tall\], and
 with its shaggy white hair somewhat resembles a gorilla. It has kept
 pace with a truck going 35 m.p.h. Never harmed anyone though.
 
@@ -305,7 +305,7 @@ them Hominids, or at least as already being on the *Man* branch of that
 stock rather than on the Pongid or ape branch—about a million years ago
 took to semi-aquatic life and especially along seacoasts. But let this
 bold savant state his case in his own words: <span
-id="fr_14"></span>[\*](#fn_14)
+id="fr_14"></span>[\*](#fn_14.md)
 
 <div style="font-family: Helvetica, Arial, Geneva, sans-serif">
 
@@ -509,7 +509,7 @@ you. I know!
 
 Yours truly,
 
-(signed) (Miss) B. C. <span id="fr_15"></span>[\*](#fn_15)
+(signed) (Miss) B. C. <span id="fr_15"></span>[\*](#fn_15.md)
 
 </div>
 
@@ -573,17 +573,17 @@ border south to our sister republic of Mexico.
 
 ### Footnotes
 
-<span id="fn_13"></span>[140:\*](abs11.htm#fr_13) For the significance
+<span id="fn_13"></span>[140:\*](abs11.htm#fr_13.md) For the significance
 of the use of the word webbed here, see analysis of the imprints of the
 *Oh-Mahs* in Appendix B.
 
-<span id="fn_14"></span>[141:\*](abs11.htm#fr_14) Quoted from a story in
+<span id="fn_14"></span>[141:\*](abs11.htm#fr_14.md) Quoted from a story in
 the New York Herald Tribune, of March 7, 1960, from a March 6, verbatim,
 A.P. report on a conference of "Marine Scientists" at Brighton, England.
 
-<span id="fn_15"></span>[145:\*](abs11.htm#fr_15) Name and address on
+<span id="fn_15"></span>[145:\*](abs11.htm#fr_15.md) Name and address on
 file, but for release in special circumstances only.—Author.
 
 ------------------------------------------------------------------------
 
-[Next: 8. On the Tracks of …](abs12)
+[Next: 8. On the Tracks of …](abs12.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](mhl01) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](mhl01.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ NEW YORK LONDON
 
 ###### Scanned at Intangible Textual Heritage, December 2002. J.B. Hare, redactor. This book is in the public domain. This file may be redistributed for any non-commercial purpose, provided this attribution is left intact.
 
-###### REDACTORS NOTE: This etext does not include the extracts from *The Kabbalah Unveiled*; a comprehensive etext of which can be found at [https://ith.oarc.science/jud/tku/index.htm](https://ith.oarc.science/jud/tku/index).
+###### REDACTORS NOTE: This etext does not include the extracts from *The Kabbalah Unveiled*; a comprehensive etext of which can be found at [https://ith.oarc.science/jud/tku/index.htm](https://ith.oarc.science/jud/tku/index.md).
 
 <span id="img_front"></span> ![](img/front.jpg)  
 *The ancient tomb near the Phœnician coast, which tradition says
@@ -55,4 +55,4 @@ religion, unless you call a child a false man*."--MAX MÜLLER.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mhl01)
+[Next: Contents](mhl01.md)

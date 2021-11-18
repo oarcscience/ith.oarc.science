@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits029) [Next](bits031)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits029) [Next](bits031.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ the six organs of sense.
 
 ------------------------------------------------------------------------
 
-[Next: § 31. Contact](bits031)
+[Next: § 31. Contact](bits031.md)
 
  
 

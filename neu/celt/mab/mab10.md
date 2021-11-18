@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab09)  [Next](mab11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab09)  [Next](mab11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -20,12 +20,12 @@ Textual Heritage
 
 <span id="img_08100"></span> ![](img/08100.jpg)
 
-# PEREDUR THE SON OF EVRAWC [81a](mab11.htm#xref_81a)
+# PEREDUR THE SON OF EVRAWC [81a](mab11.htm#xref_81a.md)
 
 Earl Evrawc owned the Earldom of the North. And he had seven sons. And
 Evrawc maintained himself not so much by his own possessions as by
-attending tournaments [81b](mab11.htm#xref_81b), and wars, and
-combats [81c](mab11.htm#xref_81c). And, as it often befalls those who
+attending tournaments [81b](mab11.htm#xref_81b.md), and wars, and
+combats [81c](mab11.htm#xref_81c.md). And, as it often befalls those who
 join in encounters and wars, he was slain, and six of his sons likewise.
 Now the name of his seventh son was Peredur, and he was the youngest of
 them. And he was not of an age to go to wars and encounters, otherwise
@@ -60,7 +60,7 @@ borders of the forest. And the three knights were Gwalchmai the son of
 Gwyar, and Geneir Gwystyl, and Owain the son of Urien. And Owain kept on
 the track of the knight who had divided the apples in Arthur's Court,
 whom they were in pursuit of. "Mother," said Peredur, "what are those
-yonder?" "They are angels, my son [82a](mab11.htm#xref_82a)," said she.
+yonder?" "They are angels, my son [82a](mab11.htm#xref_82a.md)," said she.
 "By my faith," said Peredur, "I will go and become an angel with them."
 And Peredur went to the road, and met them. "Tell me, good soul," said
 Owain, "sawest thou a knight pass this way, either to-day or yesterday?"
@@ -95,7 +95,7 @@ Paternoster unto it. And if thou see meat and drink, and have need of
 them, and none have the kindness or the courtesy to give them to thee,
 take them thyself. If thou hear an outcry, proceed towards it,
 especially if it be the outcry of a woman. If thou see a fair jewel,
-possess thyself of it, and give it to another [83a](mab11.htm#xref_83a),
+possess thyself of it, and give it to another [83a](mab11.htm#xref_83a.md),
 for thus thou shalt obtain praise. If thou see a fair woman, pay thy
 court to her, whether she will or no; for thus thou wilt render thyself
 a better and more esteemed man than thou wast before."
@@ -153,7 +153,7 @@ took his horse, and rode to the meadow. And all the household hung down
 their heads, lest any of them should be requested to go and avenge the
 insult to Gwenhwyvar. For it seemed to them, that no one would have
 ventured on so daring an outrage, unless he possessed such powers,
-through magic or charms [85a](mab11.htm#xref_85a), that none could be
+through magic or charms [85a](mab11.htm#xref_85a.md), that none could be
 able to take vengeance upon him. Then, behold, Peredur entered the Hall,
 upon the bony piebald horse, with the uncouth trappings upon it; and in
 this way he traversed the whole length of the Hall. In the centre of the
@@ -198,7 +198,7 @@ so quickly, I will not wait for him." "By my faith," said Peredur,
 "choose thou whether it shall be willingly or unwillingly, but I will
 have the horse, and the arms, and the goblet." And upon this the knight
 ran at him furiously, and struck him a violent blow with the shaft of
-his spear, between the neck and the shoulder [86a](mab11.htm#xref_86a).
+his spear, between the neck and the shoulder [86a](mab11.htm#xref_86a.md).
 "Haha! lad," said Peredur, "my mother's servants were not used to play
 with me in this wise; therefore, thus will I play with thee." And
 thereupon he struck him with a sharp-pointed fork, and it hit him in the
@@ -214,7 +214,7 @@ his warriors. And if he is slain, the disgrace will be the same, and
 moreover, his sin will be upon him; therefore will I go to see what has
 befallen him." So Owain went to the meadow, and he found Peredur
 dragging the man about. "What art thou doing thus?" said Owain. "This
-iron coat [86b](mab11.htm#xref_86b)," said Peredur, "will never come
+iron coat [86b](mab11.htm#xref_86b.md)," said Peredur, "will never come
 from off him; not by my efforts, at any rate." And Owain unfastened his
 armour and his
 
@@ -328,7 +328,7 @@ full power, none will be able to contend with thee. I am thy uncle, thy
 mother's brother, and I am brother to the man in whose house thou wast
 last night." Then Peredur and his uncle discoursed together, and he
 beheld two youths enter the hall, and proceed up to the chamber, bearing
-a spear of mighty size [90a](mab11.htm#xref_90a), with three streams of
+a spear of mighty size [90a](mab11.htm#xref_90a.md), with three streams of
 blood flowing from the point to the ground. And when all the company saw
 this, they began wailing and lamenting. But for all that, the man did
 not break off his discourse with Peredur. And as he did not tell Peredur
@@ -482,7 +482,7 @@ close of the day, one of the chief knights came to fight with him, and
 he overthrew him also, so that he besought his mercy. "Who art thou?"
 said Peredur. "Verily," said he, "I am Master of the Household to the
 earl." "And how much of the countess's possessions is there in thy
-power?" "The third part [94a](mab11.htm#xref_94a), verily," answered he.
+power?" "The third part [94a](mab11.htm#xref_94a.md), verily," answered he.
 "Then," said Peredur, "restore to her the third of her possessions in
 full, and all the profit thou hast made by them, and bring meat and
 drink for a hundred men, with their horses and arms, to her court this
@@ -618,7 +618,7 @@ Arthur's tent, and Arthur caused skilful physicians to come to him. And
 Arthur was grieved that Kai had met with this reverse, for he loved him
 greatly.
 
-"Then," said Gwalchmai [98a](mab11.htm#xref_98a), "it is not fitting
+"Then," said Gwalchmai [98a](mab11.htm#xref_98a.md), "it is not fitting
 that any should disturb an honourable knight from his thought
 unadvisedly; for either he is pondering some damage that he has
 sustained, or he is thinking of the lady whom best he loves. And through
@@ -698,12 +698,12 @@ great honour and respect, and they returned towards Caerlleon.
 
 And the first night Peredur came to Caerlleon to Arthur's Court, and as
 he walked in the city after his repast, behold, there met him Angharad
-Law Eurawc [100a](mab11.htm#xref_100a). "By my faith, sister," said
+Law Eurawc [100a](mab11.htm#xref_100a.md). "By my faith, sister," said
 Peredur, "thou art a beauteous and lovely maiden; and, were it pleasing
 to thee, I could love thee above all women." "I pledge my faith," said
 she, "that I do not love thee, nor will I ever do so." "I also pledge my
 faith," said Peredur, "that I will never speak a word to any Christian
-again [100b](mab11.htm#xref_100b), until thou come to love me above all
+again [100b](mab11.htm#xref_100b.md), until thou come to love me above all
 men."
 
 The next day Peredur went forth by the high road, along a
@@ -934,7 +934,7 @@ single man around me whom I have not oppressed, and justice have I done
 unto none." "Tell me," said Peredur, "how far is it hence?" "The same
 day that thou settest forth, thou wilt come to the Palace of the Sons of
 the King of the Tortures." "Wherefore are they called thus?" "The
-Addanc [107a](mab11.htm#xref_107a) of the Lake slays them once every
+Addanc [107a](mab11.htm#xref_107a.md) of the Lake slays them once every
 day. When thou goest thence, thou wilt come to the Court of the Countess
 of the Achievements." "What achievements are there?" asked Peredur.
 "Three hundred men there are in her household, and unto every stranger
@@ -1042,7 +1042,7 @@ the favour of Heaven and of man. And Peredur greeted the youth kindly.
 "Lord, I come to make a request unto thee." "What wouldest thou?" "That
 thou shouldest take me as thine attendant." "Whom then should I take as
 my attendant, if I did so?" "I will not conceal from thee what kindred I
-am of. Etlym Gleddyv Coch [110a](mab11.htm#xref_110a) am I called, an
+am of. Etlym Gleddyv Coch [110a](mab11.htm#xref_110a.md) am I called, an
 Earl from the East Country." "I marvel that thou shouldest offer to
 become attendant to a man whose possessions are no greater than thine
 own; for I have but an earldom like thyself. But since thou desirest to
@@ -1199,7 +1199,7 @@ was entertained by the Empress fourteen years, as the story relates.
 Arthur was at Caerlleon upon Usk, his principal palace; and in the
 centre of the floor of the hall were four men sitting on a carpet of
 velvet, Owain the son of Urien, and Gwalchmai the son of Gwyar, and
-Howel the son of Emyr Llydaw [114a](mab11.htm#xref_114a), and Peredur of
+Howel the son of Emyr Llydaw [114a](mab11.htm#xref_114a.md), and Peredur of
 the long lance. And thereupon they saw a black curly-headed maiden
 enter, riding upon a yellow mule, with jagged thongs in her hand to urge
 it on; and having a rough and hideous aspect. Blacker were her face and
@@ -1439,7 +1439,7 @@ what wonders are therein, but thus is it called."
 And Peredur proceeded towards the Castle, and the gate of the Castle was
 open. And when he came to the hall, the door was open, and he entered.
 And he beheld a chessboard in the hall, and the chessmen were
-playing [121a](mab11.htm#xref_121a) against each other, by themselves.
+playing [121a](mab11.htm#xref_121a.md) against each other, by themselves.
 And the side that he favoured lost the game, and thereupon the others
 set up a shout, as though they had been living men. And Peredur was
 wroth, and took the chessmen in his lap, and cast the chessboard into
@@ -1551,4 +1551,4 @@ Wonders.
 
 ------------------------------------------------------------------------
 
-[Next: Notes to Peredur the Son of Evrawc](mab11)
+[Next: Notes to Peredur the Son of Evrawc](mab11.md)

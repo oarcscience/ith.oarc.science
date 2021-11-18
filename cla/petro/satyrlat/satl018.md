@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat04.htm#XVIII) 
-[Previous](satl017)  [Next](satl019) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat04.htm#XVIII.md) 
+[Previous](satl017)  [Next](satl019.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ idem virguncula, quae una intraverat.
 
 ------------------------------------------------------------------------
 
-[Next: XIX](satl019)
+[Next: XIX](satl019.md)

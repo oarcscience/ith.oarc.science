@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao71)   
-[Previous](tao70)  [Next](tao72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao71.md)   
+[Previous](tao70)  [Next](tao72.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ understands his ignorance and grieves over it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 72](tao72)
+[Next: Chapter 72](tao72.md)

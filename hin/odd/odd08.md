@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd07)  [Next](odd09) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd07)  [Next](odd09.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ man--and it came to pass that one day when he was travelling in a
 distant part of his kingdom, accompanied by this Wuzeer and the rest of
 his court, he came upon a large garden, and in walking round it he was
 particularly struck by a little tree which grew there. It was a bringal
- <span id="fr_32"></span>[1](#fn_32) tree, not above two feet in height.
+ <span id="fr_32"></span>[1](#fn_32.md) tree, not above two feet in height.
 It had no leaves, but on it grew a hundred and one bringals. The Rajah
 stopped to count them, and then turning to the Wuzeer in great
 astonishment said, 'It is to me a most unaccountable thing--that this
@@ -37,7 +37,7 @@ are frightened, and run away and hide themselves; therefore, as long as
 you stay here as Rajah you cannot hope to see her. Your only means will
 be to send away your suite, and cause it to be announced that you have
 left the place. Then, if you walk daily in this garden you may some
-morning meet the pretty Guzra Bai,  <span id="fr_33"></span>[2](#fn_33)
+morning meet the pretty Guzra Bai,  <span id="fr_33"></span>[2](#fn_33.md)
 of whom I speak.'
 
 Upon this advice the Rajah acted; and one day, whilst walking in the
@@ -160,7 +160,7 @@ the nurse testified that the hundred and one children she had charge of
 had turned into stones, and the RaJah believed them rather than Guzra
 Bai, and he ordered her to be imprisoned for life.
 
-Meanwhile a Bandicote  <span id="fr_34"></span>[3](#fn_34) had heard the
+Meanwhile a Bandicote  <span id="fr_34"></span>[3](#fn_34.md) had heard the
 pitiful cries of the children, and taking pity on them, dragged them all
 one by one into her hole, out of the way of kites and vultures. She next
 assembled all the Bandicotes from far and near, and told them what she
@@ -306,7 +306,7 @@ them how she was a persecuted Princess, and asked their leave to marry
 her; and because her loving goodness had won all hearts, they gave their
 consent as joyfully as if she had been daughter of the greatest of
 Rajahs, and brought with her a splendid dower; and they called her
-Draupadi Bai.  <span id="fr_35"></span>[4](#fn_35)
+Draupadi Bai.  <span id="fr_35"></span>[4](#fn_35.md)
 
 Draupadi had some beautiful trees planted in front of her palace, in
 which the crows, her brothers, used to live, and she daily with her own
@@ -453,17 +453,17 @@ had as big a funeral pile as any virtuous Hindu.
 
 ### Footnotes
 
-<span id="fn_32"></span>[1](odd08.htm#fr_32) Solanum Melongena; the
+<span id="fn_32"></span>[1](odd08.htm#fr_32.md) Solanum Melongena; the
 egg-shaped fruit of which is a favourite vegetable all over India.
 
-<span id="fn_33"></span>[2](odd08.htm#fr_33) Flower Girl.
+<span id="fn_33"></span>[2](odd08.htm#fr_33.md) Flower Girl.
 
-<span id="fn_34"></span>[3](odd08.htm#fr_34) A species of large rat.
+<span id="fn_34"></span>[3](odd08.htm#fr_34.md) A species of large rat.
 
-<span id="fn_35"></span>[4](odd08.htm#fr_35) Doubtless after the
+<span id="fn_35"></span>[4](odd08.htm#fr_35.md) Doubtless after the
 beautiful Princess Draupadi, daughter of the Rajah of Panchála, and a
 famous character in the great Hindu Epic, the Mahá Bhárata.'
 
 ------------------------------------------------------------------------
 
-[Next: V. Rama and Luxman; or the Learned Owl](odd09)
+[Next: V. Rama and Luxman; or the Learned Owl](odd09.md)

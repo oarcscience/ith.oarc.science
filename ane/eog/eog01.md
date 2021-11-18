@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](eog00)  [Next](eog02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](eog00)  [Next](eog02.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ knowledge of the poem, it was divided into twelve tablets, each
 containing about three hundred lines in metre. Its subject was the
 Legend of Gilgamish, a composite story made up probably of different
 myths which had grown up at various times round the hero's
-[name](errata.htm#0). He was one of the earliest Kings of Erech in the
+[name](errata.htm#0.md). He was one of the earliest Kings of Erech in the
 South of Babylonia, and his name is found written on a tablet giving the
 rulers of Erech, following in order after that of Tammuz (the god of
 vegetation and one of the husbands of Ishtar) who in his turn follows
@@ -148,4 +148,4 @@ R. CAMPBELL THOMPSON.
 
 ------------------------------------------------------------------------
 
-[Next: Addenda et Corrigenda](eog02)
+[Next: Addenda et Corrigenda](eog02.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng08)  [Next](nblng10) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng08)  [Next](nblng10.md) 
 
 ------------------------------------------------------------------------
 
@@ -354,4 +354,4 @@ determined by the size of the melting-pot.
 ------------------------------------------------------------------------
 
 [Next: Adventure VIII: How Siegfried Fared To His Men-At-Arms, the
-Nibelungs.](nblng10)
+Nibelungs.](nblng10.md)

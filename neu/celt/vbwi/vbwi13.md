@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi12)  [Next](vbwi14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi12)  [Next](vbwi14.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ does the rest go to?
 
 ------------------------------------------------------------------------
 
-[Next: The Fool of the Forth](vbwi14)
+[Next: The Fool of the Forth](vbwi14.md)

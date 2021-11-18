@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop30)  [Next](pop32) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop30)  [Next](pop32.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ also therewith cometh that wherefore the time hath come.'
 
 ------------------------------------------------------------------------
 
-[Next: The Twenty-Seventh Figure](pop32)
+[Next: The Twenty-Seventh Figure](pop32.md)

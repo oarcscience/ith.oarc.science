@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal106)  [Next](njal108) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal106)  [Next](njal108.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ giver in the coin which he no doubt wishes to get."
 
 ------------------------------------------------------------------------
 
-[Next: 108. Of The Slander Of Mord Valgard's Son.](njal108)
+[Next: 108. Of The Slander Of Mord Valgard's Son.](njal108.md)

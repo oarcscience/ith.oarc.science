@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb48)  [Next](wfb50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb48)  [Next](wfb50.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ Wylan, or Wylan's Stead, both near Oswestry.
 
 ------------------------------------------------------------------------
 
-[Next: What Marged Rolant Saw](wfb50)
+[Next: What Marged Rolant Saw](wfb50.md)

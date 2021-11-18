@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara07)  [Next](ara09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara07)  [Next](ara09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ little or mere fragments, which will seem as a confused dream. And she
 will take the form of a dog because *Diana* has ever a dog by her side.
 
 And this is the spell to be repeated by him who would bring a love to
-his home. <span id="fr_14"></span>[1](#fn_14)
+his home. <span id="fr_14"></span>[1](#fn_14.md)
 
 To day is Friday, and I wish to rise very early, not having been able to
 sleep all night, having seen a very beautiful girl, the daughter of a
@@ -107,11 +107,11 @@ by Aradia.
 
 ### Footnotes
 
-<span id="fn_14"></span>[35:1](ara08.htm#fr_14) The beginning of this
+<span id="fn_14"></span>[35:1](ara08.htm#fr_14.md) The beginning of this
 spell seems to be merely a prose introduction explaining the nature of
 the ceremony.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. To Find or Buy Anything, or to Have Good Fortune
-Thereby](ara09)
+Thereby](ara09.md)

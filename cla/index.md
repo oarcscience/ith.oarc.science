@@ -8,9 +8,9 @@ pathh1: "img/sounion0.jpg"
 alttext1: "Temple of Posiedon at Sounioun, (c) J.B. Hare 2002"
 titleh1: "The Classics"
 ---
-[Greek Texts](#greek)   [Roman Texts](#roman)  
-  [General Books](#general)  
-[About the Photos...](#aboutphotos)
+[Greek Texts](#greek)   [Roman Texts](#roman.md)  
+  [General Books](#general.md)  
+[About the Photos...](#aboutphotos.md)
 
 ------------------------------------------------------------------------
 
@@ -29,63 +29,63 @@ learning as Baghdad.
 ## Greek
 
 HOMER  
-[Works of Homer](homer/index):  
+[Works of Homer](homer/index.md):  
 <span class="c_e"> <span class="c_t">[The Iliad of
-Homer](homer/ili/index)</span>, <span class="c_a">Samuel Butler</span>
+Homer](homer/ili/index.md)</span>, <span class="c_a">Samuel Butler</span>
 translator \[<span class="c_d">1898</span>\] </span>  
 <span class="c_e"> <span class="c_t">[The Odyssey of
-Homer](homer/ody/index)</span>, <span class="c_a">Samuel Butler</span>
+Homer](homer/ody/index.md)</span>, <span class="c_a">Samuel Butler</span>
 translator \[<span class="c_d">1900</span>\]  
 </span> <span class="c_e"><span class="c_t">[The Homeric Hymn to
-Demeter](demeter)</span></span>  
+Demeter](demeter.md)</span></span>  
 <span class="c_e"><span class="c_t">[The Iliad and Odyssey of Homer in
-Greek](homer/greek/index)</span></span>
+Greek](homer/greek/index.md)</span></span>
 
 <span class="c_e"> <span class="c_t">[The Authoress of the
-Odyssey](aoto/index)</span>, by <span class="c_a">Samuel Butler</span>
+Odyssey](aoto/index.md)</span>, by <span class="c_a">Samuel Butler</span>
 \[<span class="c_d">1922</span>\]   <span class="c_b">Men are from the
 Iliad, Women are from the Odyssey...</span> </span>
 
 HESIOD  
-[Works of Hesiod:](hesiod/index)  
+[Works of Hesiod:](hesiod/index.md)  
 <span class="c_e"><span class="c_t">[Hesiod's
-Theogony](hesiod/theogony)</span></span>  
+Theogony](hesiod/theogony.md)</span></span>  
 <span class="c_e"><span class="c_t">[Works and
-Days](hesiod/works)</span></span>  
+Days](hesiod/works.md)</span></span>  
 
 ORPHEUS  
 <span class="c_e"> <span class="c_t">[The Hymns of
-Orpheus](hoo/index)</span>   by <span class="c_a">Thomas Taylor</span>
+Orpheus](hoo/index.md)</span>   by <span class="c_a">Thomas Taylor</span>
 \[<span class="c_d">1792</span>\]  
 <span class="c_a"></span> </span>
 
 PRE-SOCRATIC PHILOSOPHERS  
 <span class="c_e"> <span class="c_t">[Ancilla to the Pre-Socratic
-Philosophers](app/index)</span>   by <span class="c_a">Kathleen
+Philosophers](app/index.md)</span>   by <span class="c_a">Kathleen
 Freeman</span> \[<span class="c_d">1948</span>\]   <span class="c_b">The
 framentary textual remains of the oldest ancient Greek
 philosophers.</span> </span>
 
 SAPPHO  
-[Works of Sappho:](saph/index)  
+[Works of Sappho:](saph/index.md)  
 <span class="c_e"> <span class="c_t">[The Poems of
-Sappho](sappho/index)</span>  
+Sappho](sappho/index.md)</span>  
 *English and Transliterated Greek*  
 translated by <span class="c_a">Edwin Marion Cox</span> \[<span
 class="c_d">1925</span>\] <span class="c_a"></span> </span>  
 <span class="c_e"> <span class="c_t">[The Poems of Sappho
-(Unicode)](usappho/index)</span>  
+(Unicode)](usappho/index.md)</span>  
 *English and Greek* translated by <span class="c_a">Edwin Marion
 Cox</span> \[<span class="c_d">1925</span>\] <span class="c_a"></span>
 </span>  
 <span class="c_e"> <span class="c_t">[The Songs of
-Bilitis](sob/index)</span>   by <span class="c_a">Pierre Louÿs</span>,
+Bilitis](sob/index.md)</span>   by <span class="c_a">Pierre Louÿs</span>,
 tr. by <span class="c_a">Alvah C. Bessie</span> \[<span
 class="c_d">1926</span>\]   <span class="c_b">A famous hoax, which has
 had a huge impact on our modern perception of Sappho.</span> <span
 class="c_a"></span> <span class="c_a"></span> </span>  
 <span class="c_e"> <span class="c_t">[Aphrodite (Ancient
-Manners)](aph/index)</span>   by <span class="c_a">Pierre Louÿs</span>,
+Manners)](aph/index.md)</span>   by <span class="c_a">Pierre Louÿs</span>,
 tr. by <span class="c_a">Willis L. Parker</span>, ill. by <span
 class="c_a">Frank J. Buttera</span> \[<span class="c_d">1932</span>\]  
 <span class="c_b">Tragic loves of a courtesan in Ptolemaic Egypt, from
@@ -93,7 +93,7 @@ the author of Bilitis.</span> </span>
 
 HERODOTUS  
 <span class="c_e"> <span class="c_t">[The History of
-Herodotus](hh/index)</span>  
+Herodotus](hh/index.md)</span>  
 *parallel English/Greek*  
 English tr. by <span class="c_a">G. C. Macaulay</span> \[<span
 class="c_d">1890</span>\]   <span class="c_b">The epochal conflict
@@ -102,14 +102,14 @@ between the Greeks and Persians, by 'the Father of History.'</span>
 
 AESOP  
 <span class="c_e"> <span class="c_t">[The Fables of
-Aesop](aesop/index)  
+Aesop](aesop/index.md)  
 </span>   by <span class="c_a">Aesop</span>, tr. by <span
 class="c_a">George Fyler Townsend</span>, \[<span
 class="c_d">1887</span>\] </span>
 
 APOLLONIUS RHODIUS  
 <span class="c_e"> <span class="c_t">[The
-Argonautica](argo/index)</span>  
+Argonautica](argo/index.md)</span>  
 *parallel English/Greek*.  
 English tr. by <span class="c_a">R.C. Seaton</span> \[<span
 class="c_d">1912</span>\]   <span class="c_b">The primary text for the
@@ -117,93 +117,93 @@ story of Jason, the Argonauts, and the quest for the Golden
 Fleece.</span> <span class="c_a"></span> </span>
 
 AESCHYLUS  
-[The Dramas of Aeschylus](aesch/index)  
+[The Dramas of Aeschylus](aesch/index.md)  
 
 ARISTOTLE  
-[The Works of Aristotle](ari/index)  
+[The Works of Aristotle](ari/index.md)  
 
 SOPHOCLES  
-[The Dramas of Sophocles](soph/index)  
+[The Dramas of Sophocles](soph/index.md)  
 
 EURIPIDES  
-[The Dramas of Euripides](eurip/index)  
+[The Dramas of Euripides](eurip/index.md)  
 
 PLATO  
-[The Dialogues of Plato](plato/index)  
+[The Dialogues of Plato](plato/index.md)  
 
-[ARCHIMEDES](archim/index)  
-[The Sand Reckoner](archim/sand/index)
+[ARCHIMEDES](archim/index.md)  
+[The Sand Reckoner](archim/sand/index.md)
 
 PYTHAGORAS  
 <span class="c_da"></span> <span class="c_e"> <span class="c_t">[The
-Golden Verses of Pythagoras](gvp/index)</span>   by <span
+Golden Verses of Pythagoras](gvp/index.md)</span>   by <span
 class="c_a">Florence M. Firth</span> \[<span class="c_d">1902</span>\]  
 </span> <span class="c_e"> <span class="c_t">[The Golden Verses of
-Pythagoras](ogv/index)</span>   by <span class="c_a">Fabre
+Pythagoras](ogv/index.md)</span>   by <span class="c_a">Fabre
 d'Olivet</span> \[<span class="c_d">1917</span>\]   <span
 class="c_b">The full Greek text with English and French translations;
 featuring extended essays by a prominent 18th century French estoteric
 writer.</span> </span>  
 <span class="c_da"></span> <span class="c_e"> <span
-class="c_t">[Pythagoras and the Delphic Mysteries](pdm/index)</span>  
+class="c_t">[Pythagoras and the Delphic Mysteries](pdm/index.md)</span>  
 by <span class="c_a">Edouard Schuré</span> \[<span
 class="c_d">1906</span>\]   <span class="c_b">The philosopher, his times
 and thought, and the modern esoteric interpretation of his
 legacy.</span> </span>  
 
 APOLLONIUS OF TYANA  
-[Apollonius index](aot/index):  
+[Apollonius index](aot/index.md):  
 <span class="c_e"> <span class="c_t">[Apollonius of
-Tyana](aot/aot/index)</span>   by <span class="c_a">George Robert Stowe
+Tyana](aot/aot/index.md)</span>   by <span class="c_a">George Robert Stowe
 Mead</span> \[<span class="c_d">1901</span>\]   <span class="c_b">Mead's
 review of the literature around Apollonius</span> </span>  
 <span class="c_e"> <span class="c_t">[The Life of Apollonius of
-Tyana](aot/laot/index)</span>   by <span
+Tyana](aot/laot/index.md)</span>   by <span
 class="c_a">Philostrates</span>, tr. <span class="c_a">F.C.
 Conybeare</span> \[<span class="c_d">1912</span>\]   <span
 class="c_b">Philostrates' Life of Apollonius is our primary contemporary
 account.</span> </span>
 
 PLUTARCH  
-[Works of Plutarch](plu/index):
+[Works of Plutarch](plu/index.md):
 
 <span class="c_e"> <span class="c_t">[Plutarch's Morals: Theosophical
-Essays](plu/pte/index)</span>  
+Essays](plu/pte/index.md)</span>  
 tr. by <span class="c_a">Charles William King</span> \[<span
 class="c_d">1908</span>\]   <span class="c_b">Six essays by Plutarch,
 rich with details of ancient mythology and natural philosophy.</span>
 </span>  
 <span class="c_e"> <span class="c_t">[The Roman and Greek
-Questions](plu/rgq/index)</span>  
+Questions](plu/rgq/index.md)</span>  
 of <span class="c_a">Plutarch</span>, tr. by <span class="c_a">Frank
 Cole Babbitt</span> \[<span class="c_d">1938</span>\]   <span
 class="c_b">A treasure trove of classical pagan lore.</span> </span>
 
 EPICTETUS  
 <span class="c_e"> <span class="c_t">[The Discourses of
-Epictetus](dep/index)</span>   by <span class="c_a">Arrian</span>, tr.
+Epictetus](dep/index.md)</span>   by <span class="c_a">Arrian</span>, tr.
 by <span class="c_a">P.E. Matheson</span>, \[<span
 class="c_d">1916</span>\]   <span class="c_b">The Discourses, Fragments,
 and Enchiridion, of the Stoic Greek philosopher Epictetus.</span>
 </span>
 
 LUCIAN OF SAMOSATA  
-[Works of Lucian](luc/index):  
+[Works of Lucian](luc/index.md):  
 <span class="c_e"> <span class="c_t">[A True
-Story](luc/true/index)</span>  
+Story](luc/true/index.md)</span>  
 *parallel English/Greek*  
 English translation by <span class="c_a">A.M. Harmon</span> \[<span
 class="c_d">1913</span>\]   <span class="c_b">The original space
 odyssey...</span> </span>  
 <span class="c_e"> <span class="c_t">[The Syrian
-Goddess](luc/tsg/index)</span>  
+Goddess](luc/tsg/index.md)</span>  
 translated by <span class="c_a">Herbert A. Strong</span> \[<span
 class="c_d">1913</span>\]   <span class="c_b">Lucian's hair-raising
 description of ancient Goddess worship.</span> </span>
 
 PROCLUS  
 <span class="c_e"> <span class="c_t">[Fragments that Remain of the Lost
-Writings of Proclus](flwp/index)</span>   by <span
+Writings of Proclus](flwp/index.md)</span>   by <span
 class="c_a">Proclus</span>, tr. by <span class="c_a">Thomas
 Taylor</span>, \[<span class="c_d">1825</span>\]   <span
 class="c_b">Some writings of the last classical era neo-Platonist
@@ -216,66 +216,66 @@ philosopher.</span> </span>
 ## Roman
 
 VIRGIL  
-[Works of Virgil](virgil/index)  
+[Works of Virgil](virgil/index.md)  
 <span class="c_e"><span class="c_t">[The
-Aeneid](virgil/aen/index)</span>  
+Aeneid](virgil/aen/index.md)</span>  
 tr. by <span class="c_a">John Dryden</span> \[<span
 class="c_d">1697</span>\]  
 *English and Latin*. </span>  
 <span class="c_e"> <span class="c_t">[The
-Eclogues](virgil/ecl/index)</span> <span class="c_a">J.W. MacKail</span>
+Eclogues](virgil/ecl/index.md)</span> <span class="c_a">J.W. MacKail</span>
 tr. \[<span class="c_d">1934</span>\]  
 *English and Latin* </span>  
 <span class="c_e"> <span class="c_t">[The
-Georgics](virgil/geo/index)</span> <span class="c_a">J.W. MacKail</span>
+Georgics](virgil/geo/index.md)</span> <span class="c_a">J.W. MacKail</span>
 tr. \[<span class="c_d">1934</span>\]  
 *English and Latin* </span>  
 
 APULEIUS  
-<span class="c_e"> <span class="c_t">[The Golden Asse](ga/index)</span>
+<span class="c_e"> <span class="c_t">[The Golden Asse](ga/index.md)</span>
   by <span class="c_a">Apuleius</span>, tr. by <span class="c_a">William
 Adlington</span> \[<span class="c_d">1566</span>\] </span>  
 
 <span class="c_e"> <span class="c_t">[The Most Pleasant and Delectable
-Tale of The Marriage of Cupid and Psyche](cap/index)</span>   by <span
+Tale of The Marriage of Cupid and Psyche](cap/index.md)</span>   by <span
 class="c_a">Apuleius</span>, tr. by <span class="c_a">William
 Adlington</span>, Illustrations by <span class="c_a">Dorothy
 Mullock</span> \[<span class="c_d">1914</span>\] </span>
 
 PLOTINUS  
 <span class="c_e"> <span class="c_t">[The Enneads of
-Plotinus](plotenn/index)</span>   by <span class="c_a">Plotinus</span>,
+Plotinus](plotenn/index.md)</span>   by <span class="c_a">Plotinus</span>,
 tr. by <span class="c_a">Stephen MacKenna</span> and <span
 class="c_a">B. S. Page</span> \[<span class="c_d">1917-1930</span>\]
 </span>
 
 JULIUS CAESAR  
 <span class="c_e"> <span class="c_t">[Works of Julius
-Caesar](jcsr/index)</span>   by <span class="c_a">Julius Caesar</span>,
+Caesar](jcsr/index.md)</span>   by <span class="c_a">Julius Caesar</span>,
 tr. by <span class="c_a">W.A. McDevitte</span> and <span
 class="c_a">W.S. Bohn</span> \[<span class="c_d">1869</span>\]  
 *parallel English/Latin*  
 </span>
 
 MARCUS AURELIUS ANTONINUS  
-<span class="c_e"> <span class="c_t">[Meditations](aurelmed)</span>  
+<span class="c_e"> <span class="c_t">[Meditations](aurelmed.md)</span>  
 of <span class="c_a">Marcus Aurelius Antoninus</span>, tr. by <span
 class="c_a">George Long</span> </span>
 
 LUCRETIUS  
 <span class="c_e"> <span class="c_t">[On The Nature Of
-Things](dererum)</span>   by <span class="c_a">Titus Lucretius
+Things](dererum.md)</span>   by <span class="c_a">Titus Lucretius
 Carus</span>, tr. by <span class="c_a">William Ellery Leonard</span>
 </span>
 
-[OVID](ovid/index)  
-[Metamorphoses](ovid/meta/index) *English and Latin*  
+[OVID](ovid/index.md)  
+[Metamorphoses](ovid/meta/index.md) *English and Latin*  
 [Amores, Ars Amatoria, Remedia Amoris and Medicamina Faciei
-Femineae](ovid/lboo/index) *English and Latin*  
+Femineae](ovid/lboo/index.md) *English and Latin*  
 
-[PETRONIUS](petro/index)  
+[PETRONIUS](petro/index.md)  
 <span class="c_e"> <span class="c_t">[The Satyricon of
-Petronius](petro/satyr/index)</span>   by <span class="c_a">Gaius
+Petronius](petro/satyr/index.md)</span>   by <span class="c_a">Gaius
 Petronius</span>, tr. <span class="c_a">Alfred R. Allinson</span>
 \[<span class="c_d">1930</span>\]   <span class="c_b">A satirical, bawdy
 and hallucinatory trip through the underbelly of Neros' Rome</span>.  
@@ -283,14 +283,14 @@ and hallucinatory trip through the underbelly of Neros' Rome</span>.
 
 PRIAPEIA  
 <span class="c_e"> <span class="c_t">[The
-Priapeia](priap/index)</span>  
+Priapeia](priap/index.md)</span>  
 Translated by <span class="c_a">L.C. Smithers</span> and Sir <span
 class="c_a">Richard Burton</span> \[<span class="c_d">1890</span>\]  
 *English and Latin* </span>  
 
 TACITUS  
 <span class="c_e"> <span class="c_t">[The Works of
-Tacitus](tac/index)</span>  
+Tacitus](tac/index.md)</span>  
 tr. by <span class="c_a">Alfred John Church</span> and <span
 class="c_a">William Jackson Brodribb</span> \[<span
 class="c_d">1864-1877</span>\]   <span class="c_b">The preeminent Latin
@@ -300,19 +300,19 @@ text.*
 
 EMPEROR JULIAN  
 <span class="c_e"> <span class="c_t">[Two Orations of the Emperor
-Julian](toj/index)</span>  
+Julian](toj/index.md)</span>  
 tr. by <span class="c_a">Thomas Taylor</span> \[<span
 class="c_d">1793</span>\] <span class="c_a"></span> </span>
 
 PROCOPIUS  
-[Works of Procopius](proc/index)  
+[Works of Procopius](proc/index.md)  
 
   
 
 #### Other Roman resources
 
 <span class="c_e"> <span class="c_t">[The Royal Museum at
-Naples](../sex/rmn/index)</span>  
+Naples](../sex/rmn/index.md)</span>  
 Being Some Account of The Erotic Paintings, Bronzes, and Statues
 Contained in that Famous "Cabinet Secret", by <span
 class="c_a">Stanislas Marie César Famin</span> \[<span
@@ -320,7 +320,7 @@ class="c_d">1871</span>\]   <span class="c_b">Sixty lithographs of
 erotic Roman art and artifacts.</span> </span>
 
 [Latin Resources at
-wordgumbo.com](https://www.wordgumbo.com/ie/rom/lat/index) \[External
+wordgumbo.com](https://www.wordgumbo.com/ie/rom/lat/index.md) \[External
 Site\]
 
 ------------------------------------------------------------------------
@@ -330,87 +330,87 @@ Site\]
 ## General
 
 <span class="c_e"> <span class="c_t">[Decline and Fall of the Roman
-Empire](gibbon/index)</span>   by <span class="c_a">Edward Gibbon</span>
+Empire](gibbon/index.md)</span>   by <span class="c_a">Edward Gibbon</span>
 \[<span class="c_d">1776-88</span>\]   <span class="c_b">The majestic
 history of the downfall of Rome, unabridged.</span> </span>  
 <span class="c_e"> <span class="c_t">[Bulfinch's
-Mythology](bulf/index)</span>   by <span class="c_a">Thomas
+Mythology](bulf/index.md)</span>   by <span class="c_a">Thomas
 Bulfinch</span> \[<span class="c_d">1855</span>\]   <span
 class="c_b">Bulfinch's able retelling of the classic myths has served as
 an introduction to the subject for generation of readers.</span>
 </span>  
 <span class="c_e"> <span class="c_t">[The Eleusinian and Bacchic
-Mysteries](ebm/index)</span>  
+Mysteries](ebm/index.md)</span>  
 <span class="c_a">Thomas Taylor</span> \[<span
 class="c_d">1891</span>\].   <span class="c_b">What secrets lay at the
 heart of the ancient initiation rituals at Eleusis?</span> </span>  
 <span class="c_e"> <span class="c_t">[The Heroes, or Greek Fairy Tales
-for my Children](gft/index)</span>  
+for my Children](gft/index.md)</span>  
   by <span class="c_a">Charles Kingsley</span> \[<span
 class="c_d">1901</span>\]   <span class="c_b">A retelling of the myths
 of Perseus, Jason and the Argonauts, and Theseus for young adults, with
 lavish art-deco illustrations.</span> </span>  
 <span class="c_e"> <span class="c_t">[The Sibylline
-Oracles](sib/index)</span>  
+Oracles](sib/index.md)</span>  
 Tr. by <span class="c_a">Milton S. Terry</span> \[<span
 class="c_d">1899</span>\].   <span class="c_b">The (pseudo)-Sibylline
 Oracles are ancient books of prophecy.</span> </span>  
 <span class="c_e"> <span class="c_t">[Myths of Crete and Pre-Hellenic
-Europe](moc/index)</span>   by <span class="c_a">Donald A.
+Europe](moc/index.md)</span>   by <span class="c_a">Donald A.
 Mackenzie</span> \[<span class="c_d">1917</span>\]   <span class="c_b">A
 survey of what is known about the civilization of ancient Crete.</span>
 </span>  
 <span class="c_e"> <span class="c_t">[The Dionysian
-Artificers](dart/index)</span>   by <span class="c_a">Hippolyto Joseph
+Artificers](dart/index.md)</span>   by <span class="c_a">Hippolyto Joseph
 da Costa</span> \[<span class="c_d">1820</span>\]. </span>  
 <span class="c_e"> <span class="c_t">[Ancient
-Fragments](af/index)</span>   by <span class="c_a">I. P. Cory</span>
+Fragments](af/index.md)</span>   by <span class="c_a">I. P. Cory</span>
 \[<span class="c_d">1832</span>\] </span>  
 <span class="c_e"> <span class="c_t">[Lives of the Greek
-Heroines](../wmn/lgh/index)</span>   by <span class="c_a">Louisa
+Heroines](../wmn/lgh/index.md)</span>   by <span class="c_a">Louisa
 Menzies</span> \[<span class="c_d">1880</span>\] </span>  
 <span class="c_e"> <span class="c_t">[The Mysteries of
-Mithra](mom/index)</span>   by <span class="c_a">Franz Cumont</span>
+Mithra](mom/index.md)</span>   by <span class="c_a">Franz Cumont</span>
 \[<span class="c_d">1903</span>\]   <span class="c_b">The religion that
 might have taken the place of Christianity.</span> </span>  
 <span class="c_e"> <span class="c_t">[The Oriental Religions in Roman
-Paganism](orrp/index)</span>   by <span class="c_a">Franz Cumont</span>
+Paganism](orrp/index.md)</span>   by <span class="c_a">Franz Cumont</span>
 \[<span class="c_d">1911</span>\]   <span class="c_b">Roman paganism
 later incorporated a diverse set of beliefs including ecstatic
 near-eastern religions, a wide range of goddess cults, dualism from
 Persia, and astrology.</span> </span>  
 <span class="c_e"> <span class="c_t">[Astrology and Religion Among the
-Greeks and Romans](../astro/argr/index)</span>   by <span
+Greeks and Romans](../astro/argr/index.md)</span>   by <span
 class="c_a">Franz Cumont</span> \[<span class="c_d">1912</span>\]
 </span>  
 <span class="c_e"> <span class="c_t">[Pagan
-Regeneration](pr/index)</span>  
+Regeneration](pr/index.md)</span>  
 <span class="c_t">A Study of Mystery Initiations in the Graeco-Roman
 World</span> by <span class="c_a">Harold R. Willoughby</span> \[<span
 class="c_d">1929</span>\]  
-   Thanks to Eliza at [sacredspiral.com](https://www.sacredspiral.com/)!
+   Thanks to Eliza at [sacredspiral.com](https://www.sacredspiral.com/.md)!
 </span>  
 <span class="c_e"> <span class="c_t">[Taboo, Magic,
-Spirits](tms/index)</span>  
+Spirits](tms/index.md)</span>  
 <span class="c_t">A Study of Primitive Elements in Roman Religion</span>
 by <span class="c_a">Eli Edward Burriss</span> \[<span
 class="c_d">1931</span>\]  
-   Thanks to Eliza at [sacredspiral.com](https://www.sacredspiral.com/)!
+   Thanks to Eliza at [sacredspiral.com](https://www.sacredspiral.com/.md)!
 </span>  
 <span class="c_e"> <span class="c_t">[The Religion of
-Numa](numa/index)</span>  
+Numa](numa/index.md)</span>  
 <span class="c_t">And Other Essays on the Religion of Ancient
 Rome</span> by <span class="c_a">Jesse Benedict Carter</span> \[<span
 class="c_d">1906</span>\]   <span class="c_b">An excellent history of
 the evolution of Roman religious ideas.</span> </span>  
 <span class="c_e"> <span class="c_t">[The
-Amazons](../wmn/ama/index)</span>   by <span class="c_a">Guy Cadogan
+Amazons](../wmn/ama/index.md)</span>   by <span class="c_a">Guy Cadogan
 Rothery</span>. \[<span class="c_d">1910</span>\] </span>  
 <span class="c_e"> <span class="c_t">[Religious Cults Associated with
-the Amazons](../wmn/rca/index)</span>   by <span class="c_a">Florence
+the Amazons](../wmn/rca/index.md)</span>   by <span class="c_a">Florence
 Mary Bennett</span>. \[<span class="c_d">1912</span>\] </span>  
 <span class="c_e"> <span class="c_t">[Ioläus, An Anthology of
-Friendship](../lgbt/iol/index)</span>   by <span class="c_a">Edward
+Friendship](../lgbt/iol/index.md)</span>   by <span class="c_a">Edward
 Carpenter</span> \[<span class="c_d">1917</span>\] <span class="c_b">An
 anthology of literary quotes about (primarily) male friendship, from
 David and Jonathan to Walt Whitman, particularly those verging on
@@ -418,44 +418,44 @@ romantic love.</span>
 Whether any of these relationships were actually erotic in nature is
 left up to the reader's imagination. </span>  
 <span class="c_e"> <span class="c_t">[Pagan and Christian
-Creeds](pcc/index)</span>   by <span class="c_a">Edward Carpenter</span>
+Creeds](pcc/index.md)</span>   by <span class="c_a">Edward Carpenter</span>
 \[<span class="c_d">1922</span>\]   <span class="c_b">Carpenter explores
 the similaries between Christianity and ancient mystery religions, as
 well as the similiarities between the narrative of Christ and other
 solar heros.</span> </span>  
 <span class="c_e"> <span class="c_t">[A Problem in Greek
-Ethics](../lgbt/pge/index)</span>   by <span class="c_a">John Addington
+Ethics](../lgbt/pge/index.md)</span>   by <span class="c_a">John Addington
 Symonds</span> \[<span class="c_d">1901</span>\]   <span class="c_b">A
 study of Greek homosexuality, centering on the institutionalized (and
 idealized) love of adolescent males by older men.</span> </span>  
 <span class="c_e"> <span class="c_t">[Intermediate Types Among Primitive
-Folk](../lgbt/itp/index)</span>   by <span class="c_a">Edward
+Folk](../lgbt/itp/index.md)</span>   by <span class="c_a">Edward
 Carpenter</span> \[<span class="c_d">1914</span>\]   <span
 class="c_b">Carpenter reviews the data on homosexuality in the ancient
 world</span>, relating it to anthopological reports about shamans and
 berdaches (transgender people) in tribal societies, as well as to male
 same-sex relationships in feudal Japan. </span>  
 <span class="c_e"> <span class="c_t">[Ancient Art and
-Ritual](aar/index)</span>   by <span class="c_a">Jane Harrison</span>
+Ritual](aar/index.md)</span>   by <span class="c_a">Jane Harrison</span>
 \[<span class="c_d">1913</span>\] </span>  
 <span class="c_e"> <span class="c_t">[Five Stages of Greek
-Religion](fsgr/index)</span>   by <span class="c_a">Gilbert
+Religion](fsgr/index.md)</span>   by <span class="c_a">Gilbert
 Murray</span> \[<span class="c_d">1925</span>\] <span class="c_b">The
 evolution of Greek religion from the ancient Olympians to the Platonic
 philosophers, and onward.</span> </span>  
 <span class="c_e"> <span class="c_t">[Myths of Greece and
-Rome](mgr/index)</span>   by <span class="c_a">Jane Harrison</span>
+Rome](mgr/index.md)</span>   by <span class="c_a">Jane Harrison</span>
 \[<span class="c_d">1928</span>\]   <span class="c_b">Jane Harrison's
 primer of Classical Mythology.</span> </span>  
 <span class="c_e"> <span class="c_t">[The Mycenaean Origin of Greek
-Mythology](mog/index)</span>   by <span class="c_a">Martin P.
+Mythology](mog/index.md)</span>   by <span class="c_a">Martin P.
 Nilsson</span> \[<span class="c_d">1932</span>\] </span>  
 <span class="c_e"> <span class="c_t">[Greek Popular
-Religion](gpr/index)</span>   by <span class="c_a">Martin P.
+Religion](gpr/index.md)</span>   by <span class="c_a">Martin P.
 Nilsson</span> \[<span class="c_d">1940</span>\] </span>  
 <span class="c_e"> The First Two Chapters of  
 <span class="c_t">[Prolegomena to the Study of Greek
-Religion](pgr/index)</span>   by <span class="c_a">Jane Harrison</span>,
+Religion](pgr/index.md)</span>   by <span class="c_a">Jane Harrison</span>,
 3rd. ed. \[<span class="c_d">1922</span>\]   <span class="c_b">An
 in-progress posting of the first two chapters of Jane Harrison's
 masterwork.</span> </span>  
@@ -473,30 +473,30 @@ students in the group), our tour visited Athens, Delphi, Mycenae and
 Knossos. The photos were taken with a cheap Instamatic. I recently found
 these photos and scanned some of them to accompany this section  
   
-[\[View\]](img/sounion0.jpg)  The photo on this page is the Temple of
+[\[View\]](img/sounion0.jpg.md)  The photo on this page is the Temple of
 Poseidon at Sounion. Isadora Duncan danced there. I threw the last watch
 I ever owned into the sea from this promontory.  
-[\[View\]](img/mycenae0.jpg)  The photo on the works of Homer index page
+[\[View\]](img/mycenae0.jpg.md)  The photo on the works of Homer index page
 is the entrance to the Treasury of Atreus at Mycenae. A fabulous hoard
 of gold artifacts was found in it when it was excavated, including a
 gold death mask which Schliemann decided was that of Agamemnon. The
 interior is shaped like a beehive and has bizarre acoustics.  
-[\[View\]](img/mycenae1.jpg)  The photo on the Iliad index page is the
+[\[View\]](img/mycenae1.jpg.md)  The photo on the Iliad index page is the
 arch of the Lion Gate at Mycenae; many of the key figures of the Iliad
 (if they actually existed) must have walked under this arch.  
-[\[View\]](img/aegean0.jpg)  The photo on the Odyssey index page is a
+[\[View\]](img/aegean0.jpg.md)  The photo on the Odyssey index page is a
 view of the Aegean which I took from the cruise ship taking us to
 Crete.  
-[\[View\]](img/acrop0.jpg)  The photo on the Bulfinch index page is a
+[\[View\]](img/acrop0.jpg.md)  The photo on the Bulfinch index page is a
 panorama of the Acropolis.  
-[\[View\]](img/acrop1.jpg) The photo on the Aesop index page is yet
+[\[View\]](img/acrop1.jpg.md) The photo on the Aesop index page is yet
 another view of the Acropolis.  
-[\[View\]](img/acrop2.jpg) Yet another view of the Acropolis.
+[\[View\]](img/acrop2.jpg.md) Yet another view of the Acropolis.
 
 Another photo I haven't found a home for:
 
   
-[\[View\]](img/knossos1.jpg)  The Palace of Minos at Knossos, interior
+[\[View\]](img/knossos1.jpg.md)  The Palace of Minos at Knossos, interior
 detail.
 
 These previously unpublished images are © 2002, J.B. Hare, all rights

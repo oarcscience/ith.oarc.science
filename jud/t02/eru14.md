@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](eru13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru13.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -231,7 +231,7 @@ for the head and one for the arm, should be examined. Then why only
 three? Four or five should be examined? Such is really. the case, any
 amount should be examined but three only are mentioned as a rule, that
 in this instance the theory of *Hazakah* <span
-id="fr_60"></span>[1](#fn_60) does not apply.
+id="fr_60"></span>[1](#fn_60.md) does not apply.
 
 "*He should remain with them till dark and then bring them in*." Why not
 bring them in in single pairs? Said R. Itz'hak the son of R. Jehudah:
@@ -246,7 +246,7 @@ learned that in times of danger he should carry them less than four ells
 at a time? Said Rabh: "This presents no difficulty. Our Mishna treats of
 times of danger arising from religious persecutions by the Gentiles
 while in the Boraitha the danger is supposed to be that arising from
-robbers." Said Abayi <span id="fr_61"></span>[2](#fn_61) to him: "Thou
+robbers." Said Abayi <span id="fr_61"></span>[2](#fn_61.md) to him: "Thou
 sayest that our Mishna treats of danger arising from religious
 persecutions, how then will the latter clause of the Mishna correspond
 with this? R. Simeon said: 'He should hand them to his companion,' etc.
@@ -299,7 +299,7 @@ threshold of the house, and the scroll slips out of his hand, he may
 draw it back again. If a man reads in a scroll of the scriptures on the
 roof of his house and the scroll slips out of his hand, he may, if it
 has not rolled down for a distance of ten spans (from public ground),
-draw it up again; <span id="fr_62"></span>[1](#fn_62) but if it reached
+draw it up again; <span id="fr_62"></span>[1](#fn_62.md) but if it reached
 down to a distance of ten spans (from public ground) he should turn the
 written side over (downwards to the wall), and leave it there till
 nightfall. R. Jehudah said: "If the scroll be but the breadth of a
@@ -505,7 +505,7 @@ dunghill is public property and there is no fear of its being removed.
 Mareimar erected partitions for all the entries in Sura facing the sea
 out of fish-nets, saying: There is danger lest the sea recede and leave
 the land in front of the entries dry. <span
-id="fr_63"></span>[1](#fn_63)
+id="fr_63"></span>[1](#fn_63.md)
 
 MISHNA: Beneath a tree, the branches of which droop and cover the ground
 so that the tips of its twigs be within three spans from the ground, it
@@ -639,7 +639,7 @@ something in public ground, nor may he, standing in the public ground,
 unlock with a key something in private ground, unless he had previously
 made a partition ten hands high (round the spot on which he stands).
 Such is the dictum of R. Meir; but the sages said to him: "It was the
-custom in the poultry-dealers' <span id="fr_64"></span>[1](#fn_64)
+custom in the poultry-dealers' <span id="fr_64"></span>[1](#fn_64.md)
 market, at Jerusalem, to lock up the shops, and place the key in the
 window (aperture) above the door." R. Jose said: "This was done in the
 wool-market."
@@ -967,7 +967,7 @@ the week, so he prohibited the drawing of that water on Sabbath.
 well? Said R. Na'hman bar Itz'hak: "That well was filled with
 spring-water." Whence does R. Na'hman adduce this? From the passage
 \[Jeremiah vi. 7\]: "As a well sendeth forth its waters." <span
-id="fr_65"></span>[1](#fn_65)
+id="fr_65"></span>[1](#fn_65.md)
 
 We have learned in a Boraitha: It was not permitted to draw water from
 all cold wells but only from the one mentioned; because when the
@@ -1003,7 +1003,7 @@ sake of the Sabbath-rest.
 GEMARA: R. Tabhi bar Kisna said in the name of Samuel: "One who brings a
 thing, which had become unclean through a reptile into the Temple (if he
 does it intentionally), he becomes amenable to the punishment of Kareth
-(being cut off) <span id="fr_66"></span>[1](#fn_66) and (if he does it
+(being cut off) <span id="fr_66"></span>[1](#fn_66.md) and (if he does it
 inadvertently) is liable for a sin-offering; but one who brings in the
 carcass of a reptile itself, is not culpable." Why so? Because it is
 written \[Numbers v. 3\]: "Both male and female shall ye send out," and
@@ -1099,31 +1099,31 @@ END OF THIRD VOLUME.
 
 ### Footnotes
 
-<span id="fn_60"></span>[232:1](eru14.htm#fr_60) The explanation of the
+<span id="fn_60"></span>[232:1](eru14.htm#fr_60.md) The explanation of the
 Hazakah will be found in section Jurisprudence.
 
-<span id="fn_61"></span>[232:2](eru14.htm#fr_61) This Abayi is
+<span id="fn_61"></span>[232:2](eru14.htm#fr_61.md) This Abayi is
 presumably Abayi the elder, as the Abayi generally quoted lived at a
 later period than Rabh and could not have seen him.
 
-<span id="fn_62"></span>[233:1](eru14.htm#fr_62) It must be borne in
+<span id="fn_62"></span>[233:1](eru14.htm#fr_62.md) It must be borne in
 mind that the scrolls were rolled on two separate rollers, and were
 unwound from one and wound on the other as the reading progressed.
 
-<span id="fn_63"></span>[238:1](eru14.htm#fr_63) This passage is
+<span id="fn_63"></span>[238:1](eru14.htm#fr_63.md) This passage is
 transferred to this place from page 8a in the original, as it is more
 pertinent to this discussion.
 
-<span id="fn_64"></span>[241:1](eru14.htm#fr_64) The Hebrew term which
+<span id="fn_64"></span>[241:1](eru14.htm#fr_64.md) The Hebrew term which
 we render "poultry-dealers" is Patmim. Rashi translates it "butchers."
 The Aruch and the Alphasi, however, interpret the term
 "poultry-dealers." In Tract Beitza, 296, Rashi explains the word Patam
 "one who feeds poultry."
 
-<span id="fn_65"></span>[248:1](eru14.htm#fr_65) The Hebrew term for
+<span id="fn_65"></span>[248:1](eru14.htm#fr_65.md) The Hebrew term for
 "sendeth forth" is "hokir," and the term for "cold well" is "Bor
 hak'ar," whence R. Na'hman adduces that as a well which sendeth forth
 waters must necessarily be a spring, so this well called Bor Hakar was
 also a spring: a deduction by analogy.
 
-<span id="fn_66"></span>[249:1](eru14.htm#fr_66) See Numbers xix. 13.
+<span id="fn_66"></span>[249:1](eru14.htm#fr_66.md) See Numbers xix. 13.

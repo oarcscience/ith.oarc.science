@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos50)  [Next](kos52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos50)  [Next](kos52.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,10 +22,10 @@ High Creator. Amen.
 
 After this thou shalt point and complete the pen with the Knife of the
 Art, and with the pen and ink of the Art thou shalt write upon its side
-the Name, ANAIRETON (*see [Figure 86](kos44.htm#img_kos14)*), and thou
+the Name, ANAIRETON (*see [Figure 86](kos44.htm#img_kos14)*.md), and thou
 shalt say over it the following Psalms: cxxxiii.; cxvii.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVI. Of the Blood of the Bat, Pigeon, And Other
-Animals](kos52)
+Animals](kos52.md)

@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Confucianism](../index) [Taoism](../../tao/index)
+Heritage](../../index) [Confucianism](../index) [Taoism](../../tao/index.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ and historical labors of China's literati during the 2,000+ years of the
 Empire. Also, the first three chapters of the work are directly
 concerned with China's mythology and legendary history and in large part
 recapitulate and expand on the documents of the
-[Shu](../sbe03/index.htm#shu).
+[Shu](../sbe03/index.htm#shu.md).
 
 The first three chapters of Ssuma's history were translated by Herbert
 J. Allen in 1894-5 for the expressed purpose of discrediting Ssŭma
@@ -39,13 +39,13 @@ field of Chinese creation mythology.
 
 ------------------------------------------------------------------------
 
-[Introductory Chapter](../../journals/jras/1894-10): includes the
+[Introductory Chapter](../../journals/jras/1894-10.md): includes the
 Introductory chapter by Ssŭma Chêng \[c. 720 C.E.\], *Original Record of
 the Three Sovereigns* and Ssŭma Ch‘ien's first chapter, *Original Record
 of the Five Gods*.  
-[Chapter II](../../journals/jras/1895-03): *The Hsia Dynasty.*  
-[Chapter III](../../journals/jras/1895-17): *The Yin Dynasty*.  
+[Chapter II](../../journals/jras/1895-03.md): *The Hsia Dynasty.*  
+[Chapter III](../../journals/jras/1895-17.md): *The Yin Dynasty*.  
    
-[Anecdotes from Sze-ma Chien on Lao-Tze and Chuang-Tze](ltct), from *The
+[Anecdotes from Sze-ma Chien on Lao-Tze and Chuang-Tze](ltct.md), from *The
 Sacred Books and Early Literature of the East, Volume XII: Medieval
 China*, ed. Charles F. Horne, 1917, pp. 396-398, translator not stated.

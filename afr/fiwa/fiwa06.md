@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa05)  [Next](fiwa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa05)  [Next](fiwa07.md) 
 
 ------------------------------------------------------------------------
 
@@ -470,4 +470,4 @@ sale to the curio-hunting foreigner.
 ------------------------------------------------------------------------
 
 [Next: Chapter V: Spiritual Beings in Africa--Their Classes and
-Functions](fiwa07)
+Functions](fiwa07.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ American](../../index)  [Northwest](../index) 
 
 This is a collection of texts from the Tsimshian, who lived (and
 continue to reside) on the northwestern coast of British Columbia. An
-earlier (1902) collection of [Tsimshian Texts](../nass/index) by Boas,
+earlier (1902) collection of [Tsimshian Texts](../nass/index.md) by Boas,
 is also available at Intangible Textual Heritage.
 
 The first three are tales of culture heroes and heroines, far longer
@@ -42,11 +42,11 @@ and theory of ethnography were still being worked out at the time.
 
 ------------------------------------------------------------------------
 
-[Title Page](tst00)  
-[Introduction](tst01)  
-[1. The Story of Asdi-wâ'l; or, The Meeting on the Ice.](tst02)  
-[2. Story of GunaxnêsEmg\*a'd.](tst03)  
-[3. Gauô'](tst04)  
-[4. Story of Porcupine and Beaver](tst05)  
-[5. Story of the Porcupine](tst06)  
-[6. Story of the Deluge](tst07)  
+[Title Page](tst00.md)  
+[Introduction](tst01.md)  
+[1. The Story of Asdi-wâ'l; or, The Meeting on the Ice.](tst02.md)  
+[2. Story of GunaxnêsEmg\*a'd.](tst03.md)  
+[3. Gauô'](tst04.md)  
+[4. Story of Porcupine and Beaver](tst05.md)  
+[5. Story of the Porcupine](tst06.md)  
+[6. Story of the Deluge](tst07.md)  

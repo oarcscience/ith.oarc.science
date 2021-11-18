@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe06)  [Next](boe08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe06)  [Next](boe08.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,7 +128,7 @@ kinds of taste, of all kinds of scent, of all kinds of liquids, and of
 all kinds of animals.
 
 *The Walam Olum* (or "Red Score") *of the Lenape*. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 |                                                 |                                                                                                                                                 |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -219,7 +219,7 @@ the firmament to work evil on Earth. So little has ever been done with
 these Lenape pictographs, as Dr. Brinton himself admits, that it is
 impossible to speak with certainty about the real meaning of any of
 them; and it is only a hazardous guess to suggest that [Fig.
-29](#img_fig029), the last "sign" of the Deluge story--"The water ran
+29](#img_fig029.md), the last "sign" of the Deluge story--"The water ran
 off, the earth dried, the lakes were at rest, all was silent, and the
 mighty snake departed"--may represent the ocean surrounding the Earth as
 barred, perhaps forever, against the "mighty snake" which had wrought
@@ -240,7 +240,7 @@ extraordinarily similar to other ideas we shall meet later on. It is the
 Creation story of the Maidus, an Indian tribe of northern California.
 
 "When this world was filled with water," so Dixon translates the
-tradition, <span id="fr_1"></span>[1](#fn_1) Earth-Maker floated upon
+tradition, <span id="fr_1"></span>[1](#fn_1.md) Earth-Maker floated upon
 it, kept floating about. Nowhere in the world could he see even a tiny
 bit of earth. No persons of any kind flew about. He went about in this
 world, the world itself being invisible, transparent like the sky.
@@ -270,7 +270,7 @@ Chaos: Division of Light from Darkness: Separation of Earth and Water.
 Vegetation. II. Sun, Moon, and Stars: Fishes and Birds: Animals and Man;
 Sabbath Rest&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Haggadah von
 Sarajevo&lt;/i&gt; of the 14th century)](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 Plate I: STAGES OF CREATION  
 *From right to left: I. Chaos: Division of Light from Darkness:
 Separation of Earth and Water. Vegetation. II. Sun, Moon, and Stars:
@@ -440,7 +440,7 @@ they say."
 
 ### Footnotes
 
-<span id="fn_0"></span>[26:1](boe07.htm#fr_0) This Creation and Deluge
+<span id="fn_0"></span>[26:1](boe07.htm#fr_0.md) This Creation and Deluge
 story of the Lenape or Delaware Indians is taken from Dr. Daniel G.
 Brinton's *The Lenape and Their Legends* (The Library of Aboriginal
 American Literature, Vol. V, 1885). Since "walam" means "painted,"
@@ -453,9 +453,9 @@ or "Painted Bark-Record." The pictographs or glyphs or signs were
 "notches" designed to keep the long chant in memory. The very beautiful
 translation is Dr. Brinton's.
 
-<span id="fn_1"></span>[32:1](boe07.htm#fr_1) *Maidu Texts*: Roland B.
+<span id="fn_1"></span>[32:1](boe07.htm#fr_1.md) *Maidu Texts*: Roland B.
 Dixon. Leyden, 1912.
 
 ------------------------------------------------------------------------
 
-[Next: Upholders of the World](boe08)
+[Next: Upholders of the World](boe08.md)

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa26)  [Next](tsoa28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa26)  [Next](tsoa28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -39,7 +39,7 @@ Textual Heritage
  He started to sing as he tackled the thing  
    That couldn't be done, and he did it."  
                          —<span class="smallcaps">Edgar A.
-Guest</span>. <span id="fr_9"></span>[\*](#fn_9)
+Guest</span>. <span id="fr_9"></span>[\*](#fn_9.md)
 
 </div>
 
@@ -177,9 +177,9 @@ Universal Mind we are—
 
 ### Footnotes
 
-<span id="fn_9"></span>[419:\*](tsoa27.htm#fr_9) From "The Path to
+<span id="fn_9"></span>[419:\*](tsoa27.htm#fr_9.md) From "The Path to
 Home." The Reilly & Lee Co.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. The Secret of Power](tsoa28)
+[Next: XVII. The Secret of Power](tsoa28.md)

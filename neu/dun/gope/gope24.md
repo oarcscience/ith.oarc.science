@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](gope23)  [Next](gope25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](gope23)  [Next](gope25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SXVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SXVG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gods of Pegana*, by Lord Dunsany, \[1905\], at Intangible Textual
 Heritage
 
@@ -90,6 +90,6 @@ with the wind crying out for the mercy of Mung, if any such there be.
 
 ------------------------------------------------------------------------
 
-[Next: Of How the Gods Whelmed Sidith](gope25)
+[Next: Of How the Gods Whelmed Sidith](gope25.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto00)  [Next](gto02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto00)  [Next](gto02.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ pencil of Mr. Drummond. To him, too, a meed of praise is due.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](gto02)
+[Next: Contents](gto02.md)

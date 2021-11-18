@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva17)  [Next](rva19) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva17)  [Next](rva19.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### XVIII. Atlaua Icuic.
 
-[English](#english)
+[English](#english.md)
 
 ![](rva04.jpg)
 
@@ -83,4 +83,4 @@ On *Quilaztli* see notes to Hymn XIII.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. Hymn to the God of Flowers.](rva19) 
+[Next: XIX. Hymn to the God of Flowers.](rva19.md) 

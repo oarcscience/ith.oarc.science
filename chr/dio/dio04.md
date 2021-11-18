@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio03)  [Next](dio05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio03)  [Next](dio05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ and what the tradition concerning Divine Names.
 <span id="ii.ii.ii.i-p3"></span>SECTION I.
 
 <span id="ii.ii.ii.i-p4"></span>Now then, O Blessed One, after the
-*Theological Outlines* <span id="fr_11"></span>[12](#fn_11) , I will
+*Theological Outlines* <span id="fr_11"></span>[12](#fn_11.md) , I will
 pass to the interpretation of the Divine Names, as best I can.
 
 <span id="ii.ii.ii.i-p5"></span>But, let the rule of the Oracles be here
@@ -46,7 +46,7 @@ proportion to the superior union of the reasoning and intuitive faculty
 and operation within us. By no means then is it permitted to speak, or
 even to think, anything, concerning the superessential and hidden Deity,
 beyond those things divinely revealed to us in the sacred Oracles <span
-id="fr_12"></span>[13](#fn_12) . For Agnosia, <span id="page_2">p.
+id="fr_12"></span>[13](#fn_12.md) . For Agnosia, <span id="page_2">p.
 2</span> <span id="ii.ii.ii.i-Page_2"></span>(supra-knowledge) of its
 superessentiality above reason and mind and essence--to, it must we
 attribute the superessential science, so far aspiring to the Highest, as
@@ -67,8 +67,8 @@ placed above things essential, and the Unity above mind above the Minds;
 and the One above conception is inconceivable to all conceptions; and
 the Good above word is unutterable by word--Unit making one every unit,
 and superessential essence and mind inconceivable, and Word unutterable,
-speechlessness <span id="fr_13"></span>[14](#fn_13) and
-inconception <span id="fr_14"></span>[15](#fn_14) , and
+speechlessness <span id="fr_13"></span>[14](#fn_13.md) and
+inconception <span id="fr_14"></span>[15](#fn_14.md) , and
 namelessness--being after the manner of no existing being, and Cause of
 being to all, but Itself not being, <span id="page_3">p. 3</span> <span
 id="ii.ii.ii.i-Page_3"></span>as beyond every essence, and as It may
@@ -300,7 +300,7 @@ causes and powers, and clothe It in forms and shapes of man, or fire, or
 electron, and celebrate Its eyes and ears, and locks of hair, and
 countenance, and hands, and back, and wings, and arms, and hinder parts
 and feet. Also they assign to It crowns <span
-id="fr_15"></span>[16](#fn_15) and seats, and drinking vessels and
+id="fr_15"></span>[16](#fn_15.md) and seats, and drinking vessels and
 bowls, and certain other things mystical, concerning which, in our
 *Symbolic Theology,* we will speak as best we can. But <span
 id="page_12">p. 12</span> <span id="ii.ii.ii.i-Page_12"></span> now,
@@ -326,21 +326,21 @@ not take away a word of truth from my mouth.
 
 ### Footnotes
 
-<span id="fn_11"></span>[xvii:12](dio04.htm#fr_11) <span
+<span id="fn_11"></span>[xvii:12](dio04.htm#fr_11.md) <span
 id="ii.ii.ii.i-p4.1"></span>Cap. 3. Mystic Theology.
 
-<span id="fn_12"></span>[xvii:13](dio04.htm#fr_12) <span
+<span id="fn_12"></span>[xvii:13](dio04.htm#fr_12.md) <span
 id="ii.ii.ii.i-p5.1"></span>Ib. c. I. s. 3.
 
-<span id="fn_13"></span>[2:14](dio04.htm#fr_13) <span
+<span id="fn_13"></span>[2:14](dio04.htm#fr_13.md) <span
 id="ii.ii.ii.i-p5.2"></span>*alogia.*
 
-<span id="fn_14"></span>[2:15](dio04.htm#fr_14) <span
+<span id="fn_14"></span>[2:15](dio04.htm#fr_14.md) <span
 id="ii.ii.ii.i-p5.3"></span><span id="ii.ii.ii.i-p5.4"></span>ἀνοησία.
 
-<span id="fn_15"></span>[11:16](dio04.htm#fr_15) <span
+<span id="fn_15"></span>[11:16](dio04.htm#fr_15.md) <span
 id="ii.ii.ii.i-p20.1"></span>Letter to Titus.
 
 ------------------------------------------------------------------------
 
-[Next: Caput II.](dio05)
+[Next: Caput II.](dio05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck07)  [Next](peck09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck07)  [Next](peck09.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ from its flowers."
 
 ------------------------------------------------------------------------
 
-[Next: Why The Sun Sets](peck09)
+[Next: Why The Sun Sets](peck09.md)

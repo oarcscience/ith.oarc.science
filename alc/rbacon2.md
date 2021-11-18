@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](philadel)  [Next](turba) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](philadel)  [Next](turba.md) 
 
 ------------------------------------------------------------------------
 
@@ -444,6 +444,6 @@ Kerckring, p. 15.
 
 ------------------------------------------------------------------------
 
-[Next: Turba Philosophorum (part 1)](turba)
+[Next: Turba Philosophorum (part 1)](turba.md)
 
   

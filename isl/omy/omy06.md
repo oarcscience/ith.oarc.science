@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy05)  [Next](omy07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy05)  [Next](omy07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -27,7 +27,7 @@ Heritage
 THE Law is the word of the Prophet, the Doctrine <span
 class="margnote">Definition of Law, Doctrine and Truth.</span> is the
 example of the Prophet, and the Truth is the vision of the Prophet. This
-follows from the Hadís <span id="fr_3"></span>[1](#fn_3), "My words are
+follows from the Hadís <span id="fr_3"></span>[1](#fn_3.md), "My words are
 Law, my example is Doctrine, my state is Truth." The Traveller must
 first learn the theory of the Law, and act up to the practice of the
 Doctrine, by which means the Truth will become manifest in him. Those
@@ -110,7 +110,7 @@ subsequently the nature and properties of material objects. 2. That he
 should be at peace with all the world, and refrain from all
 contradiction and opposition. According to the mother from whom he is
 born into the community each receives a different patronymic; thus one
-is called a Hanefite, one a Shafíite <span id="fr_4"></span>[1](#fn_4),
+is called a Hanefite, one a Shafíite <span id="fr_4"></span>[1](#fn_4.md),
 one a Pagan, one a Jew, and another a Mussulmán; but the true
 philosopher recognises in each a weak and helpless being like himself,
 he sees in each a fellow-searcher after God. 3. Charity towards all.
@@ -136,10 +136,10 @@ these marks and qualities will not be made manifest in him.
 
 ### Footnotes
 
-<span id="fn_3"></span>[7:1](omy06.htm#fr_3) The sayings of Mohammed are
+<span id="fn_3"></span>[7:1](omy06.htm#fr_3.md) The sayings of Mohammed are
 so called.
 
-<span id="fn_4"></span>[10:1](omy06.htm#fr_4) The Hanefites are the
+<span id="fn_4"></span>[10:1](omy06.htm#fr_4.md) The Hanefites are the
 followers of Abú Hanífa, one of the principal authorities for the
 traditional law. His doctrines are esteemed chiefly among the Turks.
 
@@ -153,4 +153,4 @@ orthodox by the Mussulmáns.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Concerning the Perfect Man, and the Perfectly Free
-Man](omy07)
+Man](omy07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa35)  [Next](soa37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa35)  [Next](soa37.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ representation on the State coinage.
 
 ------------------------------------------------------------------------
 
-[Next: Land Tenure](soa37)
+[Next: Land Tenure](soa37.md)

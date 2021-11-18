@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf24)  [Next](fmf26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf24)  [Next](fmf26.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ Pocket.
 
 ------------------------------------------------------------------------
 
-[Next: The Fable of Woman's True Friend and The Hopeful Antique](fmf26)
+[Next: The Fable of Woman's True Friend and The Hopeful Antique](fmf26.md)

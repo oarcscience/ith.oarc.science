@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos35)  [Next](kos37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos35)  [Next](kos37.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 # BOOK II
 
-## PREFATORY NOTE <span id="fr_73"></span>[1](#fn_73)
+## PREFATORY NOTE <span id="fr_73"></span>[1](#fn_73.md)
 
 THIS Work of Solomon is divided into two books. In the first thou mayest
 see and know how to avoid errors in Experiments, Operations, and in the
@@ -41,9 +41,9 @@ and that he makes no foolish or ignorant man a partaker therein.
 
 ### Footnotes
 
-<span id="fn_73"></span>[79:1](kos36.htm#fr_73) This Prefatory Note is
+<span id="fn_73"></span>[79:1](kos36.htm#fr_73.md) This Prefatory Note is
 only found in 3991 Harleian MSS., 3091 Sloane MSS., and 288 King's MSS.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I.](kos37)
+[Next: Chapter I.](kos37.md)

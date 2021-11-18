@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift13) 
-[Next](ift15) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift13.md) 
+[Next](ift15.md) 
 
 ------------------------------------------------------------------------
 
 # The Talkative Tortoise
 
 <span id="img_40"></span> [![](tn/40.jpg)  
-Click to enlarge](img/40.jpg)
+Click to enlarge](img/40.jpg.md)
 
 THE future Buddha was once born in a minister's family, when
 Brahma-datta was reigning in Benares; and when he grew up, he became the
@@ -86,4 +86,4 @@ words.
 
 ------------------------------------------------------------------------
 
-[Next: A Lac of Rupees for a Piece of Advice](ift15)
+[Next: A Lac of Rupees for a Piece of Advice](ift15.md)

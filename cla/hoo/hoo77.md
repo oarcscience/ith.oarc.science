@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo76)  [Next](hoo78) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo76)  [Next](hoo78.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ And grant my days a glorious, blessed end.
 
 ------------------------------------------------------------------------
 
-[Next: LXXIII: To Leucothea](hoo78)
+[Next: LXXIII: To Leucothea](hoo78.md)

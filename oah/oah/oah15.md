@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah14)  [Next](oah16) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah14)  [Next](oah16.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,4 +201,4 @@ they be raised up to their places, and given dominion unto My glory.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](oah16)
+[Next: Chapter VIII](oah16.md)

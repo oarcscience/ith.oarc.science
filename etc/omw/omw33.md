@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw32)  [Next](omw34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw32)  [Next](omw34.md) 
 
 ------------------------------------------------------------------------
 
@@ -330,4 +330,4 @@ earth, through fields of flowers and fruit and ripening grain.
 
 ------------------------------------------------------------------------
 
-[Next: Orpheus](omw34)
+[Next: Orpheus](omw34.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Next](srp01) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Next](srp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface](srp01)
+[Next: Preface](srp01.md)

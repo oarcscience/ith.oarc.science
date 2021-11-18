@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl09)  [Next](irl11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl09)  [Next](irl11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -27,7 +27,7 @@ center where the rodite mechs of the whole city were supervised by a
 concentration of screens which controlled them all when necessary. Upon
 these screens the whole city was watched, and could at any time be
 wholly robotized in an emergency from this point. <span
-id="fr_28"></span>[29](#fn_28) And here we found them, the controllers
+id="fr_28"></span>[29](#fn_28.md) And here we found them, the controllers
 of the city; but they were not the giant elders I had expected to find.
 I broke into laughter at the sight of them.
 
@@ -47,7 +47,7 @@ of the heavy drapes from the walls.
 and cities of Mu. When the machinery became defective from age, many
 centuries ago, a vast number of caverns were sealed up. Fugitives hid in
 them, used the defective pleasure stimulators, <span
-id="fr_29"></span>[30](#fn_29) and as a result, their children were
+id="fr_29"></span>[30](#fn_29.md) and as a result, their children were
 these things.
 
 <span id="page_84">p. 84</span>
@@ -260,7 +260,7 @@ rollat tunnel and out into space.
 
 ### Footnotes
 
-<span id="fn_28"></span>[82:29](irl10.htm#fr_28) The telemechro center
+<span id="fn_28"></span>[82:29](irl10.htm#fr_28.md) The telemechro center
 was in itself under outside control, the communications mechanics being
 ro to the central control which was ro to the master control in its
 turn. Thus, all the rodite supervising the city could be placed under
@@ -270,7 +270,7 @@ condition, even including the rodite themselves. From this it can be
 seen the telemechro center is a vital spot in the dero control which had
 been thrown over all Mu.—Ed.
 
-<span id="fn_29"></span>[83:30](irl10.htm#fr_29) Entirely aside from our
+<span id="fn_29"></span>[83:30](irl10.htm#fr_29.md) Entirely aside from our
 questioning of Mr. Shaver, we received a letter from him in which he
 describes the pleasure stimulator mentioned here. Or rather, he
 describes the sensations concurrent with its use in a very peculiar
@@ -340,4 +340,4 @@ through an accumulation of radioactives which impair their action.—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Into the Tunnels of the Dero](irl11)
+[Next: Chapter X. Into the Tunnels of the Dero](irl11.md)

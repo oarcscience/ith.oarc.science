@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd03)  [Next](pbd05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd03)  [Next](pbd05.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ them to be carefully concealed, there are now some Pomo skeptics who
 maintain that bear doctors never existed.
 
 Both men and women of middle or old age could become bear doctors, the
-same name <span id="fr_13"></span>[14](#fn_13) being applied to both. In
+same name <span id="fr_13"></span>[14](#fn_13.md) being applied to both. In
 fact, it is said that women sometimes made, very successful bear
 doctors; even a woman so old and feeble that she could hardly walk would
 acquire great powers of endurance and swiftness through this magic.
@@ -38,7 +38,7 @@ similarly restricted by the menstrual periods of both his wife and his
 female assistant or the other female members of his household. He was
 even prohibited from going near his bear hiding-place during his wife's
 menstruation. The periods of other members of his household also
-restricted him. <span id="fr_14"></span>[15](#fn_14)
+restricted him. <span id="fr_14"></span>[15](#fn_14.md)
 
 No specific fee was paid for instruction in bear-doctoring, but the
 instructor was given a large share, usually one-half, of the spoils
@@ -54,7 +54,7 @@ he saw fit.
 
 A bear doctor might "catch" a man who was out in some lonely spot,
 particularly a solitary hunter, take him to his hiding place, and teach
-him his secrets. <span id="fr_15"></span>[16](#fn_15) Particularly was
+him his secrets. <span id="fr_15"></span>[16](#fn_15.md) Particularly was
 this the case if the bear doctor happened to be a man possessed of few
 friends, since it was thought necessary for him to will his
 paraphernalia to some one. Stories are told of specific instances in
@@ -129,13 +129,13 @@ upon his attempt to kill the fifth.
 
 ### Footnotes
 
-<span id="fn_13"></span>[452:14](pbd04.htm#fr_13) The bear doctor was
+<span id="fn_13"></span>[452:14](pbd04.htm#fr_13.md) The bear doctor was
 known to the Pomo as *gauk būrakal*, "human bear." *Būrakal*
 specifically denotes the grizzly bear. The brown or cinnamon bear is
 lima, but black individuals, which we reckon as of the same species,
 were called *ciyō* *būrakal*, "black grizzly bears," by the Pomo.
 
-<span id="fn_14"></span>[452:15](pbd04.htm#fr_14) It would appear that
+<span id="fn_14"></span>[452:15](pbd04.htm#fr_14.md) It would appear that
 restriction depended rather upon co-residence than blood kinship. The
 extent to which the taboo might accordingly affect a bear doctor's
 activities will be realized when we reflect that it was customary for
@@ -143,10 +143,10 @@ several related families to reside in one house, each family having its
 own door and each two families a separate fire. In the center of the
 house was the common baking pit.
 
-<span id="fn_15"></span>[453:16](pbd04.htm#fr_15) Usually, however, a
+<span id="fn_15"></span>[453:16](pbd04.htm#fr_15.md) Usually, however, a
 person caught in this way was used as a "head rest" and servant, it is
 said, and received no instruction whatever.
 
 ------------------------------------------------------------------------
 
-[Next: Assistants](pbd05)
+[Next: Assistants](pbd05.md)

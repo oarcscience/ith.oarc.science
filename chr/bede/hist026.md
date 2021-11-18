@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist025) 
-[Next](hist027) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist025.md) 
+[Next](hist027.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ indiction."
 
 [Next: XXV. How Augustine, coming into Britain, first preached in the
 Isle of Thanet to the King of Kent, and having obtained licence from
-him, went into Kent, in order to preach therein. \[597 A. D.\]](hist027)
+him, went into Kent, in order to preach therein. \[597 A. D.\]](hist027.md)

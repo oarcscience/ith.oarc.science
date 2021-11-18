@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index)  [Index](index)  [Next](sadh01) 
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index)  [Index](index)  [Next](sadh01.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ HTML version produced by J.B. Hare at Intangible Textual Heritage.
 
 ------------------------------------------------------------------------
 
-[Next: Author's Preface](sadh01)
+[Next: Author's Preface](sadh01.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar015) [Next](gbar017)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar015) [Next](gbar017.md)
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ how much ye ought to be content to serve God.
 
 ------------------------------------------------------------------------
 
-[Next](gbar017)
+[Next](gbar017.md)
 
  
 

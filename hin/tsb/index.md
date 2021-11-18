@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tsb00)    [Text](tsb.txt)
+[Contents](#contents)    [Start Reading](tsb00)    [Text](tsb.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -39,9 +39,9 @@ American philosopher and writer.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tsb00)  
-[Acknowledgement](tsb01)  
-[Contents](tsb02)  
-[Introduction](tsb03)  
-[The Transcription](tsb04)  
-[Translation by Thoreau](tsb05)  
+<span id="contents"></span> [Title Page](tsb00.md)  
+[Acknowledgement](tsb01.md)  
+[Contents](tsb02.md)  
+[Introduction](tsb03.md)  
+[The Transcription](tsb04.md)  
+[Translation by Thoreau](tsb05.md)  

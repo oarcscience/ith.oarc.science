@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](jos)  [Next](rut) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](jos)  [Next](rut.md) 
 
 ------------------------------------------------------------------------
 
@@ -2566,4 +2566,4 @@ Israel; every man did what was right in his own eyes.
 
 ------------------------------------------------------------------------
 
-[Next: Ruth](rut)
+[Next: Ruth](rut.md)

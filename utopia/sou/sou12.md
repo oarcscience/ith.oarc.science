@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](sou11)  [Next](sou13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](sou11)  [Next](sou13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -152,7 +152,7 @@ socially selected other traits that made for survival. It is possible
 that in times past man has done a great deal to domesticate himself and
 fit himself for harmonious social life; and a utopia which rests upon
 the notion that there should be a certain direction in our breeding is
-not altogether [loony](errata.htm#4); indeed, is nowadays less so than
+not altogether [loony](errata.htm#4.md); indeed, is nowadays less so than
 ever before, for the reason that it is possible to separate romantic
 love from physical procreation without, as the Athenians did, resorting
 to homosexuality.
@@ -529,4 +529,4 @@ remainder of this book.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Ten](sou13)
+[Next: Chapter Ten](sou13.md)

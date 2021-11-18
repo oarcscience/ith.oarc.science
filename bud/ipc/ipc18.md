@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc17)  [Next](ipc19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc17)  [Next](ipc19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -75,7 +75,7 @@ manners prevailed amongst great numbers of those who affected the name
 of Christians."
 
 Gibbon instances Tertullian who, when he became a Montanist, turned
-against his former comrades. <span id="fr_239"></span>[\*](#fn_238) Mr.
+against his former comrades. <span id="fr_239"></span>[\*](#fn_238.md) Mr.
 Meredith, enlarging on this difficult question, comes to a conclusion
 that a doctrine so utterly repugnant to reason as the Roman Catholic
 doctrine of Transubstantiation must be a survival of something that once
@@ -91,7 +91,7 @@ S’ivan books scenes described very like those attributed to the
 Christian Agapæ. The tântrika rites ought properly to be called the
 Left-Handed Tantrikas (Vâmâcharîs) when applied to certain rites which
 the celebrant, as Mr. Wilson puts it, "dare not publicly avow." <span
-id="fr_240"></span>[\*](#fn_239) In the mysteries of the Durgâ-pûjah,
+id="fr_240"></span>[\*](#fn_239.md) In the mysteries of the Durgâ-pûjah,
 the great festival of nature's powers of reproduction, the Vâmâcharîs
 had a Bacchantic rite which they called S’rî Ka Chakra (the "Wheel of
 S’rî"). The upper vests of the women were taken off and put in a basket,
@@ -171,14 +171,14 @@ and this fact is not concealed.
 "When this has been done, O my children, the victim is even as myself,
 and the guardian deities of the ten quarters take care of him. Then
 Brahmâ and all the other deities assemble on the victim." <span
-id="fr_241"></span>[\*](#fn_240)
+id="fr_241"></span>[\*](#fn_240.md)
 
 Now if we compare all this with the transubstantiation rites of the
 Roman Catholic Church, we find a close analogy. In each a God under one
 aspect of himself sacrifices himself to another aspect of himself, that
 his faithful followers may drink that mixture of human blood and spirits
 which the ancients believed to be the meat and drink of immortal
-life. <span id="fr_242"></span>[†](#fn_241)
+life. <span id="fr_242"></span>[†](#fn_241.md)
 
 But it might be said that Victim, Priest and God were all united.
 
@@ -209,7 +209,7 @@ energy is transient.
 "And only for a time," says Surgeon-Major Waddell, "can this relief from
 persecution endure for all the exorcisms of all the saints are of little
 avail to keep back the advancing hordes. The shrieking demons must close
-in upon the soul again." <span id="fr_243"></span>[\*](#fn_242)
+in upon the soul again." <span id="fr_243"></span>[\*](#fn_242.md)
 
 The great "Miracle-play" or "Mystery" of Tibet is called "The
 Sacrificial Body of the Dead Year;" and it "is acted on the last day of
@@ -266,7 +266,7 @@ or Thug-noose. This character can only be assumed by a monk of the
 purest morals. The Emperor of China on one occasion rewarded him with a
 dress of great price. There is no great secrecy in this Mystery about
 the identity of this Demon King. The more intelligent Lâmas admit that
-he is S’iva as Mahâkâla, <span id="fr_244"></span>[\*](#fn_243) and that
+he is S’iva as Mahâkâla, <span id="fr_244"></span>[\*](#fn_243.md) and that
 the stage of this mighty drama is S’iva's hell.
 
 Now for the great climax. After more devil-dancing the Demon King draws
@@ -288,7 +288,7 @@ the immortal food scrambled for by the gods and men in the old
 mysteries. Tibet in the old days reeked with cannibalism. "At the new
 year in Tibet," says an ancient Chinese manuscript, deciphered by Dr.
 Bushell, "the Tibetans sacrifice men, or offer monkeys." <span
-id="fr_245"></span>[†](#fn_244)
+id="fr_245"></span>[†](#fn_244.md)
 
 <span id="page_243">p. 243</span>
 
@@ -299,7 +299,7 @@ great is the craze for human flesh even now that the Tibetans chew a
 portion of the human skin when preparing the human thigh bone for a
 "bone trumpet." Also we learn from him that the neighbours of the Lâmas
 in the Tsang Po valley are cannibals to this day. <span
-id="fr_246"></span>[\*](#fn_245)
+id="fr_246"></span>[\*](#fn_245.md)
 
 A minor scene in the great Miracle play must not be omitted. A figure of
 a child in dough is brought in, and naked skeletons something like S’iva
@@ -311,7 +311,7 @@ a tall form in beautiful silk robes, wearing a large mask representing a
 benign and peaceful face. "As he advanced, men and boys dressed as
 abbots and acolytes of the Church of Rome," prostrated themselves before
 him and addressed him with intoning and pleasing chanting. <span
-id="fr_247"></span>[†](#fn_246) There are doubts whether this figure is
+id="fr_247"></span>[†](#fn_246.md) There are doubts whether this figure is
 Padma Sambhava, a popular local saint and indeed local Buddha, or Buddha
 himself. The demons flee away with loud shrieks. A more important
 question arises:—Was this little child the new year? The pontiff covers
@@ -335,7 +335,7 @@ the word "host" meant a sacrificial victim and not a piece of bread. And
 what is still called the "altar" must have been a real altar up to the
 time when the ninth and tenth Canon of the Council of Nice imposed upon
 the Christian priests degradation if they sacrificed any more." <span
-id="fr_248"></span>[\*](#fn_247) And the word "mass" from "Ita missa
+id="fr_248"></span>[\*](#fn_247.md) And the word "mass" from "Ita missa
 est" was also pagan. Certainly, the Catholic and the Tibetan
 "mysteries," and their modifications seem to have run on the same lines.
 
@@ -347,36 +347,36 @@ of the religion of the blameless, vegetarian, water-drinker S’âkya Muni.
 
 ### Footnotes
 
-<span id="fn_238"></span>[236:\*](ipc18.htm#fr_239) "Decline and Fall,"
+<span id="fn_238"></span>[236:\*](ipc18.htm#fr_239.md) "Decline and Fall,"
 Chapter XVI.
 
-<span id="fn_239"></span>[237:\*](ipc18.htm#fr_240) H. H. Wilson,
+<span id="fn_239"></span>[237:\*](ipc18.htm#fr_240.md) H. H. Wilson,
 "Asiatic Researches," Vol. XVII.
 
-<span id="fn_240"></span>[239:\*](ipc18.htm#fr_241) Blaquiere "Asiatic
+<span id="fn_240"></span>[239:\*](ipc18.htm#fr_241.md) Blaquiere "Asiatic
 Researches," Vol. V.
 
-<span id="fn_241"></span>[239:†](ipc18.htm#fr_242) "Himself the Victim
+<span id="fn_241"></span>[239:†](ipc18.htm#fr_242.md) "Himself the Victim
 and Himself the Priest" is a verse of a hymn based on Heb. vii. 27.
 
-<span id="fn_242"></span>[240:\*](ipc18.htm#fr_243) Waddell, "Buddhism
+<span id="fn_242"></span>[240:\*](ipc18.htm#fr_243.md) Waddell, "Buddhism
 in Tibet," p. 523.
 
-<span id="fn_243"></span>[242:\*](ipc18.htm#fr_244) Waddell, "Buddhism
+<span id="fn_243"></span>[242:\*](ipc18.htm#fr_244.md) Waddell, "Buddhism
 in Tibet," p. 531.
 
-<span id="fn_244"></span>[242:†](ipc18.htm#fr_245) "Journal R.A.
+<span id="fn_244"></span>[242:†](ipc18.htm#fr_245.md) "Journal R.A.
 Society's New Series XII.," p. 440.
 
-<span id="fn_245"></span>[243:\*](ipc18.htm#fr_246) Waddell, "Buddhism
+<span id="fn_245"></span>[243:\*](ipc18.htm#fr_246.md) Waddell, "Buddhism
 in Tibet," 518.
 
-<span id="fn_246"></span>[243:†](ipc18.htm#fr_247) Waddell, "Buddhism in
+<span id="fn_246"></span>[243:†](ipc18.htm#fr_247.md) Waddell, "Buddhism in
 Tibet," p. 526.
 
-<span id="fn_247"></span>[244:\*](ipc18.htm#fr_248) Meredith, "The
+<span id="fn_247"></span>[244:\*](ipc18.htm#fr_248.md) Meredith, "The
 Prophet of Nazareth," p. 527.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Ceylon](ipc19)
+[Next: Chapter XVI. Ceylon](ipc19.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt58)  [Next](egt60) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt58)  [Next](egt60.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ interpretation: pass hence,--thou hast finished thy recital.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE INCOMPATIBILITY OF THE TWO ABODES.](egt60)
+[Next: ON THE INCOMPATIBILITY OF THE TWO ABODES.](egt60.md)

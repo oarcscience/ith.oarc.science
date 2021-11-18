@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](eom12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](eom12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -447,7 +447,7 @@ and eloquent plea for the rights of the child, the writer says:
 ### \[ZUGASSENTS' DISCOVERY - THE STRIKE OF A SEX\]
 
 Strike of A Sex, by Geo. N. Miller, has been read by thousands. <span
-id="fr_1"></span>[2](#fn_1) He writes:
+id="fr_1"></span>[2](#fn_1.md) He writes:
 
 > To the teachers of the young, Zugassent's Discovery appeals with the
 > voice of a prophet. It concerns the happiness of millions yet to be.
@@ -553,7 +553,7 @@ id="fr_1"></span>[2](#fn_1) He writes:
 > point to the conclusion, that there are strictly no involuntary
 > departments in the human system, but that every part falls
 > appropriately and in fact within the dominion of mind, spirit, and
-> will. <span id="fr_2"></span>[3](#fn_2)
+> will. <span id="fr_2"></span>[3](#fn_2.md)
 >
 > As a promoter of domestic happiness and a preventer of the woes that
 > lead to divorce, Zugassent's Discovery is entitled to the lasting
@@ -808,10 +808,10 @@ id="fr_1"></span>[2](#fn_1) He writes:
 >
 > ### Footnotes
 >
-> <span id="fn_1"></span>[128:2](eom13.htm#fr_1) Zugassent's Discovery
+> <span id="fn_1"></span>[128:2](eom13.htm#fr_1.md) Zugassent's Discovery
 > is the same theory of control as Karezza.
 >
-> <span id="fn_2"></span>[132:3](eom13.htm#fr_2) Those familiar with the
+> <span id="fn_2"></span>[132:3](eom13.htm#fr_2.md) Those familiar with the
 > writings of Henry Wood, W. F. Evans, Ursula N. Gestefeld and a host of
 > others will see that G. N. Miller hints only at fundamental truths
 > that are in everyday usage and guidance for thousands of people.

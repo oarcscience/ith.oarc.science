@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Confucianism](../../cfu/index)  [Index](index)  [Next](aow01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Confucianism](../../cfu/index)  [Index](index)  [Next](aow01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of War*, by Lionel Giles, \[1910\], at Intangible Textual
 Heritage
 
@@ -50,4 +50,4 @@ is affectionately dedicated.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](aow01)
+[Next: Contents](aow01.md)

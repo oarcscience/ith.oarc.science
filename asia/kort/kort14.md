@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort13)  [Next](kort15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort13)  [Next](kort15.md) 
 
 ------------------------------------------------------------------------
 
-# 10. Eme'mqut and Fox-Woman. <span id="fr_25"></span>[1](#fn_25)
+# 10. Eme'mqut and Fox-Woman. <span id="fr_25"></span>[1](#fn_25.md)
 
 Eme'mqut married Fox-Woman. He said, "I will go and get some blubber
 from our summer place." He arrived there. One of the flippers of his
@@ -28,7 +28,7 @@ outside! I am eating strings of snowshoes in the brightness of the full
 moon."
 
 Indeed, they eat them. Whenever we come to look for our snowshoes, the
-strings are eaten. <span id="fr_26"></span>[1](#fn_26)
+strings are eaten. <span id="fr_26"></span>[1](#fn_26.md)
 
 <span id="page_60">p. 60</span>
 
@@ -52,7 +52,7 @@ together are her children." In truth, she was a skilful seamstress, and
 had no reason for going away and living in secrecy.
 
 After that they lived in joy. Eme'mqut married Kĭlu, <span
-id="fr_27"></span>[1](#fn_27) Ila' married Yini'a-ña'wġut. When so
+id="fr_27"></span>[1](#fn_27.md) Ila' married Yini'a-ña'wġut. When so
 disposed, they would ascend the river and catch plenty of winter fish.
 Then they would return to their house-mates. They killed plenty of game.
 In this manner they led a happy life. What has become of them I do not
@@ -62,15 +62,15 @@ know. That is all.
 
 ### Footnotes
 
-<span id="fn_25"></span>[58:1](kort14.htm#fr_25) Compare Jochelson, The
+<span id="fn_25"></span>[58:1](kort14.htm#fr_25.md) Compare Jochelson, The
 Koryak, *l. c.*, No. 106, p. 294.
 
-<span id="fn_26"></span>[59:1](kort14.htm#fr_26) Remark of the narrator.
+<span id="fn_26"></span>[59:1](kort14.htm#fr_26.md) Remark of the narrator.
 
-<span id="fn_27"></span>[61:1](kort14.htm#fr_27) The narrator seems to
+<span id="fn_27"></span>[61:1](kort14.htm#fr_27.md) The narrator seems to
 have forgotten the marriage of Eme'mqut with Fox-Woman, and their
 subsequent reconciliation.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Ermine-People.--I](kort15)
+[Next: 11. Ermine-People.--I](kort15.md)

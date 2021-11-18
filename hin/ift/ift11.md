@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift10) 
-[Next](ift12) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift10.md) 
+[Next](ift12.md) 
 
 ------------------------------------------------------------------------
 
 The Soothsayer's Son
 
 <span id="img_34"></span> [![](tn/34.jpg)  
-Click to enlarge](img/34.jpg)
+Click to enlarge](img/34.jpg.md)
 
 <span id="img_33"></span> ![](img/33.jpg) SOOTHSAYER when on his
 deathbed wrote out the horoscope of his second son, whose name was
@@ -390,8 +390,8 @@ fulfilled.
  
 
 <span id="img_35"></span> [![](tn/35.jpg)  
-Click to enlarge](img/35.jpg)
+Click to enlarge](img/35.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Harisarman](ift12)
+[Next: Harisarman](ift12.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu08)  [Next](yfhu10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu08)  [Next](yfhu10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -339,4 +339,4 @@ needed for his welfare today, of that he shall surely have abundance*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Art of Changing For the Better](yfhu10)
+[Next: Chapter VIII. The Art of Changing For the Better](yfhu10.md)

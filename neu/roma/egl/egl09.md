@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl08)  [Next](egl10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl08)  [Next](egl10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ world over—but by the right *formation*, Vishnoo is the Duvel’s ratt.
 I’ve shūned adovo būt dusta cheiruses. An’ the snow is poris, that jāls
 from the angels’ winguses. And what I penned, that Bishnoo is the
 Duvel’s ratt, is pūro Rommanis, and jinned by saw our foki.”
- [110](egl13.htm#xref_110)
+ [110](egl13.htm#xref_110.md)
 
 Now in India, Vishnu and Indra are the gods of the rain.
 
@@ -100,7 +100,7 @@ the same word meant a dolphin. “But a dolphin has no wings,” I remarked.
 “Oh, hasn’t it?” rejoined the Gipsy; “its *fins* are its wings, if it
 hadn’t wings it could not be a Seemór.” I think I recognise in this
 Seemór, the Simurgh or Griffin of Persian fable.
- [112](egl13.htm#xref_112) I could learn nothing more than this, that
+ [112](egl13.htm#xref_112.md) I could learn nothing more than this, that
 the Gipsy had always regarded a dolphin as resembling a large-headed
 winged monster, which he called a Seemór.
 
@@ -407,7 +407,7 @@ it is true, other castes and classes in India, such as Nāts, the roving
 Banjaree, Thugs, &c., all of which have left unmistakable traces on the
 Gipsies, from which I conclude that at some time when these pariahs
 became too numerous and dangerous there was a general expulsion of them
-from India.  [124](egl13.htm#xref_124)
+from India.  [124](egl13.htm#xref_124.md)
 
 I would call particular attention to my suggestion that the Corn of
 India is the true parent of the Rom, because all that is known of the
@@ -471,7 +471,7 @@ signifies “early in the evening,” from which I infer that the Dom or Rom
 was a nocturnal character like the Night-Cavalier of Quevedo, and who
 sang when night fell, “Arouse ye, then, my merry men!” or who said
 “Good-evening!” just as we say (or used to say) “Good-day!”
- [127](egl13.htm#xref_127)
+ [127](egl13.htm#xref_127.md)
 
 A very curious point of affinity between the Gipsies and Hindus may be
 found in a custom which was described to me by a Rom in the following
@@ -626,8 +626,8 @@ right, that a Chech and a Rom could understand one another in either of
 their respective tongues. I once devoted my time for several months to
 unintermitted study of Chech, and consequently do not speak in entire
 ignorance when I declare that true Rommany contains scores of Hindu
-words to one of Bohemian.  [133](egl13.htm#xref_133)
+words to one of Bohemian.  [133](egl13.htm#xref_133.md)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Miscellanea](egl10)
+[Next: Chapter IX. Miscellanea](egl10.md)

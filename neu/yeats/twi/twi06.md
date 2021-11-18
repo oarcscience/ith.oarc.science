@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](twi05)  [Next](twi07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](twi05)  [Next](twi07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Twilight*, by William Butler Yeats, \[1893, 1902\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ mind strong, vigorous, and calm, and the emotional life of the artist
 was bad for him, he feared. He recited his poems readily, however. He
 had them all in his memory. Some indeed had never been written down.
 They, with their wild music as of winds blowing in the reeds, <span
-id="fr_0"></span>[1](#fn_0) seemed to me the
+id="fr_0"></span>[1](#fn_0.md) seemed to me the
 
 <span id="page_16">p. 16</span>
 
@@ -151,7 +151,7 @@ angel revealed.
 
 ### Footnotes
 
-<span id="fn_0"></span>[15:1](twi06.htm#fr_0) I wrote this sentence long
+<span id="fn_0"></span>[15:1](twi06.htm#fr_0.md) I wrote this sentence long
 ago. This sadness now seems to me a part of all peoples who preserve the
 moods of the ancient peoples of the world. I am not so pre-occupied with
 the mystery of Race as I used to be, but leave this sentence and other
@@ -160,4 +160,4 @@ not grown wiser.
 
 ------------------------------------------------------------------------
 
-[Next: Village Ghosts](twi07)
+[Next: Village Ghosts](twi07.md)

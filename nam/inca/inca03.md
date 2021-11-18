@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](inca02)  [Next](inca04) 
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](inca02)  [Next](inca04.md) 
 
 ------------------------------------------------------------------------
 
@@ -644,4 +644,4 @@ and knots.
 
 ------------------------------------------------------------------------
 
-[Next: Three Inca Prayers](inca04)
+[Next: Three Inca Prayers](inca04.md)

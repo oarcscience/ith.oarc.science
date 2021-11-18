@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks12)  [Next](lks14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks12)  [Next](lks14.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,14 +8,14 @@
 
 THIS is the Form of the Vessel of Brass wherein King Solomon did shut up
 the Evil Spirits, etc. (*See Figures* 158 <span id="img_fig158"></span>
-[![](tn/generic.jpg)](img/fig158.jpg) and 159 <span
-id="img_fig159"></span> [![](tn/generic.jpg)](img/fig159.jpg).)
+[![](tn/generic.jpg)](img/fig158.jpg.md) and 159 <span
+id="img_fig159"></span> [![](tn/generic.jpg)](img/fig159.jpg)..md)
 (Somewhat different forms are given in
 
 <span id="page_52">p. 52</span>
 
 the various codices. The seal in Figure 160 <span
-id="img_fig160"></span> [![](tn/generic.jpg)](img/fig160.jpg) was made
+id="img_fig160"></span> [![](tn/generic.jpg)](img/fig160.jpg.md) was made
 in brass to cover this vessel with at the top. This history of the genii
 shut up in the brazen vessel by King Solomon recalls the story of "The
 Fisherman and the Jinni" in "The Arabian Nights." In this tale, however,
@@ -27,4 +27,4 @@ fisherman that his name is Sakhr, or Sacar.)
 
 ------------------------------------------------------------------------
 
-[Next: The Secret Seal Of Solomon](lks14)
+[Next: The Secret Seal Of Solomon](lks14.md)

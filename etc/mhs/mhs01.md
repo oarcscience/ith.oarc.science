@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs00)  [Next](mhs02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs00)  [Next](mhs02.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ Boston, September 1, 1898.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mhs02)
+[Next: Contents](mhs02.md)

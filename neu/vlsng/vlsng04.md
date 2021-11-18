@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng03)  [Next](vlsng05) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng03)  [Next](vlsng05.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ ENDNOTES:
 ------------------------------------------------------------------------
 
 [Next: Chapter III: Of the Sword that Sigmund, Volsung's son, drew from
-the Branstock.](vlsng05)
+the Branstock.](vlsng05.md)

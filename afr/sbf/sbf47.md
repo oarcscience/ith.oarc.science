@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf46)  [Next](sbf48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf46)  [Next](sbf48.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -137,6 +137,6 @@ sun stands (in the sky).
 
 ------------------------------------------------------------------------
 
-[Next: Certain Hunting Observances, Called !Nanna-Sse.](sbf48)
+[Next: Certain Hunting Observances, Called !Nanna-Sse.](sbf48.md)
 
 </div>

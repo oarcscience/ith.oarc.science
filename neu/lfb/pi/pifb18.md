@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb17)  [Next](pifb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb17)  [Next](pifb19.md) 
 
 </div>
 
@@ -326,6 +326,6 @@ all its heart to the king and all his court.
 
 ------------------------------------------------------------------------
 
-[Next: Snowflake Slavonic story](pifb19)
+[Next: Snowflake Slavonic story](pifb19.md)
 
 </div>

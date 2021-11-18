@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb33)  [Next](pifb35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb33)  [Next](pifb35.md) 
 
 </div>
 
@@ -542,6 +542,6 @@ time forward he was no longer the butt of the rest at home.
 
 ------------------------------------------------------------------------
 
-[Next: Princess Minon-minette](pifb35)
+[Next: Princess Minon-minette](pifb35.md)
 
 </div>

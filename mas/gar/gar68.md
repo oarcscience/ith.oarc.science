@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar67)  [Next](gar69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar67)  [Next](gar69.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -96,7 +96,7 @@ henceforth blessed are the dead who die in the LORD! Even so, saith the
 Spirit; for they rest from their labors."
 
 Here the Master will take the SACRED ROLL, <span
-id="fr_40"></span>[\*](#fn_40) on which have been inscribed the name,
+id="fr_40"></span>[\*](#fn_40.md) on which have been inscribed the name,
 age, date of initiation or affiliation, date of death, and any matters
 that may be interesting to the brethren; and shall read the same aloud,
 and shall then say,
@@ -106,7 +106,7 @@ of our departed brother.
 
 *Response*. Amen! So mote it be!
 
-The grand honors <span id="fr_41"></span>[†](#fn_41) should then be
+The grand honors <span id="fr_41"></span>[†](#fn_41.md) should then be
 given three times; the brethren to respond each time—
 
 The will of GOD is accomplished.—AMEN. So mote it be!
@@ -119,7 +119,7 @@ The following or some other appropriate HYMN may be sung:
 
 <span id="img_32000"></span> <span align="CENTER">
 [![AIR—&lt;i&gt;Balerma&lt;/i&gt;. C. M.](tn/32000.jpg)  
-Click to enlarge](img/32000.jpg)  
+Click to enlarge](img/32000.jpg.md)  
 AIR—*Balerma*. C. M.  
 </span>
 
@@ -185,11 +185,11 @@ and Treasurer;&lt;br&gt; Senior and Junior Wardens;&lt;br&gt; Past
 Masters;&lt;br&gt; The Holy Bible,&lt;br&gt; On a cushion, covered with
 black cloth, carried by the oldest&lt;br&gt; member of the
 Lodge.&lt;br&gt; THE MASTER,&lt;br&gt; Supported by two Deacons, with
-white rods.](img/32200.jpg)
+white rods.](img/32200.jpg.md)
 
 When the head of the procession arrives at the entrance of the building,
 it should halt and open to the right and left, forming two
-[parallel](errata.htm#6) lines, when the Marshal, with the Tiler, will
+[parallel](errata.htm#6.md) lines, when the Marshal, with the Tiler, will
 pass through the lines to end, and escort the Master or Grand Officer
 into the house, the brethren closing in and following, thus reversing
 the order of procession—the brethren with heads uncovered.
@@ -198,11 +198,11 @@ the order of procession—the brethren with heads uncovered.
 
 ### Footnotes
 
-<span id="fn_40"></span>[319:\*](gar68.htm#fr_40) A sheet of parchment
+<span id="fn_40"></span>[319:\*](gar68.htm#fr_40.md) A sheet of parchment
 or paper, prepared for the purpose.
 
-<span id="fn_41"></span>[319:†](gar68.htm#fr_41) See note, p. 886.
+<span id="fn_41"></span>[319:†](gar68.htm#fr_41.md) See note, p. 886.
 
 ------------------------------------------------------------------------
 
-[Next: Service at the Church or the House of the Deceased](gar69)
+[Next: Service at the Church or the House of the Deceased](gar69.md)

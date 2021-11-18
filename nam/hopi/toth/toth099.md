@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth098)  [Next](toth100) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth098)  [Next](toth100.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 96. THE BEE AND THE ÁSYA. <span id="fr_180"></span>[1](#fn_178)
+## 96. THE BEE AND THE ÁSYA. <span id="fr_180"></span>[1](#fn_178.md)
 
 Halíksai! At Potátuk'aovi lived the Bee, and at Móngwupcovi lived the
 Ásya (a species of bird). They were both women and both had children.
@@ -57,9 +57,9 @@ since that time the bees can fly.
 
 ### Footnotes
 
-<span id="fn_178"></span>[235:1](toth099.htm#fr_180) Told by Kwáyeshva,
+<span id="fn_178"></span>[235:1](toth099.htm#fr_180.md) Told by Kwáyeshva,
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 97. The Grasshoppers and the Oraíbi Maiden](toth100)
+[Next: 97. The Grasshoppers and the Oraíbi Maiden](toth100.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](rls01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](rls01.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ Reprinted in the Collected Edition of Prof. Max Muller's Works, August,
 
 ------------------------------------------------------------------------
 
-[Next: Preface](rls01)
+[Next: Preface](rls01.md)

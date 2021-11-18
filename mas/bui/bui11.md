@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui10)  [Next](bui12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui10)  [Next](bui12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ before, and that following, the Grand Lodge—the Assembly on 1717 becomes
 the more remarkable. Against such a background, when religion and morals
 seemed to reach the nadir of depredation, the men of that Assembly stand
 out as prophets of liberty of faith and righteousness of life. <span
-id="fr_112"></span>[1](#fn_112)
+id="fr_112"></span>[1](#fn_112.md)
 
 Some imagination is needed to realize the moral declension of that time,
 as it is portrayed—to use a single example—in the sermon by the Bishop
@@ -122,7 +122,7 @@ rather, a transfiguration! For, when we compare the Masonry of, say,
 1688 with that of 1723, we discover that much more than a revival had
 come to pass. Set the instructions of the *Old Charges*—not all of them,
 however, for even in earliest times some of them escaped the stamp of
-the Church <span id="fr_113"></span>[1](#fn_113)—in respect of religion
+the Church <span id="fr_113"></span>[1](#fn_113.md)—in respect of religion
 alongside the
 
 <span id="page_177">p. 177</span>
@@ -165,7 +165,7 @@ liberty of worship; a sad choice in truth. It is, then, to the
 everlasting honor of the century, that, in the midst of its clashing
 extremes, the Masons appeared with heads unbowed, abjuring both
 tyrannies and championing both liberties. <span
-id="fr_114"></span>[1](#fn_114) Ecclesiastically and doctrinally they
+id="fr_114"></span>[1](#fn_114.md) Ecclesiastically and doctrinally they
 stood in the open, while Romanist and Protestant, Anglican and Puritan,
 Calvinist and Arminian waged bitter war, filling the air with angry
 maledictions. These men of latitude in a cramped age felt pent up alike
@@ -173,7 +173,7 @@ by narrowness of ritual and by narrowness of creed, and they cried out
 for room and air, for liberty and charity!
 
 Though differences of creed played no part in Masonry,
-[nevertheless](errata.htm#7) it held religion in high esteem,
+[nevertheless](errata.htm#7.md) it held religion in high esteem,
 
 <span id="page_179">p. 179</span>
 
@@ -186,7 +186,7 @@ was: "He has passed over into the eternal East,"—to that region whence
 cometh light and hope. Unsectarian in religion, the Masons were also
 non-partisan in politics: one principle being common to them all—love of
 country, respect for law and order, and the desire for human
-welfare. <span id="fr_115"></span>[1](#fn_115) Upon that basis the first
+welfare. <span id="fr_115"></span>[1](#fn_115.md) Upon that basis the first
 Grand
 
 <span id="page_180">p. 180</span>
@@ -281,10 +281,10 @@ of the Craft. There was no idea of innovation, but, as Anderson states
 in a note, "it should meet Quarterly *according to ancient Usage*,"
 tradition having by this time become authoritative in such matters.
 Hints of what the old usages were are given in the observance of St.
-John's Day <span id="fr_116"></span>[1](#fn_116) as a feast, in the
+John's Day <span id="fr_116"></span>[1](#fn_116.md) as a feast, in the
 democracy of the order and its manner of voting by a show of hands, in
 its deference to the oldest Master Mason, its use of badges of
-office, <span id="fr_117"></span>[2](#fn_117) its ceremony of
+office, <span id="fr_117"></span>[2](#fn_117.md) its ceremony of
 installation, all in a lodge duly tyled.
 
 <span id="page_184">p. 184</span>
@@ -292,7 +292,7 @@ installation, all in a lodge duly tyled.
 Second, it is clear that, instead of being a deliberately planned effort
 to organize Masonry in general, the Grand Lodge was intended at first to
 affect only London and Westminster; <span
-id="fr_118"></span>[1](#fn_118) the desire being to weld a link of
+id="fr_118"></span>[1](#fn_118.md) the desire being to weld a link of
 closer fellowship and coöperation between the Lodges. While we do not
 know the names of the moving spirits—unless we may infer that the men
 elected to office were such—nothing is clearer than that the initiative
@@ -301,7 +301,7 @@ upon it from without; and so great was the necessity for it that, when
 once started, link after link was added until it "put a girdle around
 the earth."
 
-Third, of the four Lodges <span id="fr_119"></span>[2](#fn_119) known to
+Third, of the four Lodges <span id="fr_119"></span>[2](#fn_119.md) known to
 have taken part, only one—that meeting at the Rummer and Grape
 Tavern—had a majority of Accepted Masons
 
@@ -319,7 +319,7 @@ historian, both George Payne and Dr. Desaguliers, the second and third
 Grand Masters, were of that Lodge. In 1721 the Duke of Montagu was
 elected to the chair, and thereafter members of the nobility sat in the
 East until it became the custom for the Prince of Wales to be Grand
-Master of Masons in England. <span id="fr_120"></span>[1](#fn_120)
+Master of Masons in England. <span id="fr_120"></span>[1](#fn_120.md)
 
 Fourth, why did Masonry alone of all trades and professions live after
 its work was done, preserving not only its identity of organization, but
@@ -367,7 +367,7 @@ perpetual gratitude of the order—the more so if he it was who wrote the
 article, already quoted, setting forth the religious attitude of the
 order. That article, by whomsoever written, is one of the great
 documents of mankind, and it would be an added joy to know that it was
-penned by a minister. <span id="fr_121"></span>[1](#fn_121) The *Book of
+penned by a minister. <span id="fr_121"></span>[1](#fn_121.md) The *Book of
 Constitutions*, which
 
 <span id="page_188">p. 188</span>
@@ -407,7 +407,7 @@ to the only place where they may ever hope to discover it—in Masonry
 itself. But no; they are bound to bring mystics, occultists, alchemists,
 Culdees or Cabalists—even the *Vehmgerichte* of Germany—into the making
 of Masonry somewhere, if only for the sake of glamor, and this is the
-last opportunity to do it. <span id="fr_122"></span>[1](#fn_122) Willing
+last opportunity to do it. <span id="fr_122"></span>[1](#fn_122.md) Willing
 to give due credit
 
 <span id="page_190">p. 190</span>
@@ -419,7 +419,7 @@ helped to make Masonry, *much less any fact to prove it*.
 Hear now a review of the facts in the case. No one denies that the
 Temple of Solomon was much in the minds of men at the time of the
 organization of the Grand Lodge, and long before—as in the Bacon romance
-of the *New Atlantis* in 1597. <span id="fr_123"></span>[1](#fn_123)
+of the *New Atlantis* in 1597. <span id="fr_123"></span>[1](#fn_123.md)
 
 <span id="page_191">p. 191</span>
 
@@ -428,7 +428,7 @@ Lightfoot, Walton, Lee, Prideaux, and other English writers were deeply
 interested in the Hebrew Temple, not, however, so much in its symbolical
 suggestion as in its form and construction—a model of which was brought
 to London by Judah Templo in the reign of Charles II. <span
-id="fr_124"></span>[1](#fn_124) It was much the same on the Continent,
+id="fr_124"></span>[1](#fn_124.md) It was much the same on the Continent,
 but so far from being a new topic of study and discussion, we may trace
 this interest in the Temple all through the Middle Ages. Nor was it
 peculiar to the Cabalists, at least not to such a degree that they must
@@ -442,7 +442,7 @@ Temple of Solomon built in Jerusalem, and its successor as built by
 Herod. *Throughout the Middle Ages it influenced to a considerable
 degree the forms of Christian churches, and its peculiarities were the
 watchwords and rallying points of associations of builders*." <span
-id="fr_125"></span>[2](#fn_125) Clearly, the notion that interest in the
+id="fr_125"></span>[2](#fn_125.md) Clearly, the notion that interest in the
 Temple was new, and
 
 <span id="page_192">p. 192</span>
@@ -456,7 +456,7 @@ No Hiramic legend! No hint of tragedy! Why, both were almost as old as
 the Temple itself, rabbinic legend affirming that "*all the workmen were
 killed that they should not build another Temple devoted to idolatry,
 Hiram himself being translated to heaven like Enoch*." <span
-id="fr_126"></span>[1](#fn_126) The Talmud has many variations of this
+id="fr_126"></span>[1](#fn_126.md) The Talmud has many variations of this
 legend. Where would one expect the legends of the Temple to be kept
 alive and be made use of in ceremonial, if not in a religious order of
 builders like the Masons? Is it surprising that we find so few
@@ -464,7 +464,7 @@ references in later literature to what was thus held as a sacred secret?
 As we have seen, the legend of Hiram was kept as a profound secret until
 1841 by the French Companionage, who almost certainly learned it from
 the Free-masons. Naturally it was never made a matter of record, <span
-id="fr_127"></span>[2](#fn_127) but was
+id="fr_127"></span>[2](#fn_127.md) but was
 
 <span id="page_193">p. 193</span>
 
@@ -485,7 +485,7 @@ of the Third Degree, and the introduction of Hermetic and other symbols
 into Masonry; that they framed the three degrees for the purpose of
 communicating their doctrines, veiled by their symbols, to those fitted
 to receive them, and gave to others trite moral explanations they could
-comprehend." <span id="fr_128"></span>[1](#fn_128) How gracious of them
+comprehend." <span id="fr_128"></span>[1](#fn_128.md) How gracious of them
 to vouchsafe even trite explanations, but why frame a set of degrees
 
 <span id="page_194">p. 194</span>
@@ -497,7 +497,7 @@ to teach it. But did Masonry have to go outside its own history and
 tradition to learn Hermetic truths and symbols? Who was Hermes? Whether
 man or myth no one knows, but he was a great figure in the Egyptian
 Mysteries, and was called the Father of Wisdom. <span
-id="fr_129"></span>[1](#fn_129) What was his wisdom? From such fragments
+id="fr_129"></span>[1](#fn_129.md) What was his wisdom? From such fragments
 of his lore as have floated down to us, impaired, it may be, but always
 vivid, we discover that his wisdom was only a high spiritual faith and
 morality taught in visions and rhapsodies, and using numbers as symbols.
@@ -517,10 +517,10 @@ Who were those "men of intelligence" to whom Pike ascribed the making of
 the Third Degree of Masonry? Tradition has fixed upon Desaguliers as the
 ritualist of the Grand Lodge, and Lyon speaks of him as "the pioneer and
 co-fabricator of symbolical Masonry." <span
-id="fr_130"></span>[1](#fn_130) This, however, is an exaggeration,
+id="fr_130"></span>[1](#fn_130.md) This, however, is an exaggeration,
 albeit Desaguliers was worthy of high eulogy, as were Anderson and
 Payne, who are said to have been his collaborators. <span
-id="fr_131"></span>[2](#fn_131) But the fact is that
+id="fr_131"></span>[2](#fn_131.md) But the fact is that
 
 <span id="page_196">p. 196</span>
 
@@ -578,7 +578,7 @@ the world.</span>
 
 ### Footnotes
 
-<span id="fn_112"></span>[175:1](bui11.htm#fr_112) We should not forget
+<span id="fn_112"></span>[175:1](bui11.htm#fr_112.md) We should not forget
 that noble dynasty of large and liberal souls in the seventeenth
 century—John Hales, Chillingsworth, Which-cote, John Smith, Henry More,
 Jeremy Taylor—whose *Liberty of Prophesying* set the principle of
@@ -589,7 +589,7 @@ path of wisdom and charity. Milton, too, taught tolerance in a bigoted
 and bitter age (see *Seventeenth Century Men of Latitude*, E. A.
 George).
 
-<span id="fn_113"></span>[176:1](bui11.htm#fr_113) For instance the
+<span id="fn_113"></span>[176:1](bui11.htm#fr_113.md) For instance the
 *Cooke MS*, next to the oldest of all, as well as the *W. Watson* and
 *York No. 4 MSS*. It is rather surprising, in view of the supremacy of
 the Church in those times, to find such <span id="page_177">p.
@@ -599,7 +599,7 @@ MSS did not succumb to the theology of the Church, and their invocations
 remind us more of the God of Isaiah than of the decrees of the Council
 of Nicæa.
 
-<span id="fn_114"></span>[178:1](bui11.htm#fr_114) It was, perhaps, a
+<span id="fn_114"></span>[178:1](bui11.htm#fr_114.md) It was, perhaps, a
 picture of the Masonic Lodges of that era that Toland drew in his
 *Socratic Society*, published in 1720, which, however, he clothed in a
 vesture quite un-Grecian. At least, the symposia or brotherly feasts of
@@ -609,7 +609,7 @@ belief, and to creed hatred, as well as their mild and tolerant
 disposition and their brotherly regard for one another, remind one of
 the spirit and habits of the Masons of that day.
 
-<span id="fn_115"></span>[179:1](bui11.htm#fr_115) Now is as good a time
+<span id="fn_115"></span>[179:1](bui11.htm#fr_115.md) Now is as good a time
 as another to name certain curious theories which have been put forth to
 account for the origin of Masonry in general, and of the organization of
 the Grand Lodge in particular. They are as follows: First, that it was
@@ -631,7 +631,7 @@ might also have added his own pet notion of the Rosicrucian origin of
 the order—it being only a little less fantastic than the rest (De
 Quincey's Works, vol. xvi).
 
-<span id="fn_116"></span>[183:1](bui11.htm#fr_116) Of the Masonic feasts
+<span id="fn_116"></span>[183:1](bui11.htm#fr_116.md) Of the Masonic feasts
 of St. John the Baptist and St. John the Evangelist much has been
 written, and to little account. In pre-Christian times, as we have seen,
 the Roman Collegia were wont to adopt pagan deities as patrons. When
@@ -643,7 +643,7 @@ these two feasts, coming at the time of the summer and winter solstices,
 are in reality older than Christianity, being reminiscences of the old
 Light Religion in which Masonry had its origin.
 
-<span id="fn_117"></span>[183:2](bui11.htm#fr_117) The badge of office
+<span id="fn_117"></span>[183:2](bui11.htm#fr_117.md) The badge of office
 was a huge white apron, such as we see in Hogarth's picture of the
 *Night*. The collar was of much the same shape as that at present in
 use, only shorter. When the color was changed to blue, and why, is
@@ -656,7 +656,7 @@ ordered to wear "the jewels of Masonry hanging to a white apron." In
 blue ribbons about the neck, and a white leather apron *lined* with blue
 silk.
 
-<span id="fn_118"></span>[184:1](bui11.htm#fr_118) This is clear from
+<span id="fn_118"></span>[184:1](bui11.htm#fr_118.md) This is clear from
 the book of *Constitutions* of 1723, which is said to be "for the use of
 Lodges in London." Then follow the names of the Masters and Wardens of
 twenty Lodges, all in London. There was no thought at the time of
@@ -667,15 +667,15 @@ giving details of the organization of the Grand Lodge and its changes,
 see *A. Q. C.*, ii, 86. If an elaborate account is wanted, it may be
 found in Gould's *History of Masonry*, vol. iii.
 
-<span id="fn_119"></span>[184:2](bui11.htm#fr_119) *History of the Four
+<span id="fn_119"></span>[184:2](bui11.htm#fr_119.md) *History of the Four
 Lodges*, by R. F. Gould. Apparently the Goose and Gridiron Lodge—No.
 1—is the only one of the four now in existence. After various changes of
 name it is now the Lodge of Antiquity, No. 2.
 
-<span id="fn_120"></span>[185:1](bui11.htm#fr_120) *Royal Masons*, by G.
+<span id="fn_120"></span>[185:1](bui11.htm#fr_120.md) *Royal Masons*, by G.
 W. Speth.
 
-<span id="fn_121"></span>[187:1](bui11.htm#fr_121) From a meager sketch
+<span id="fn_121"></span>[187:1](bui11.htm#fr_121.md) From a meager sketch
 of Dr. Anderson in the Gentlemen's Magazine, 1783, we learn that he was
 a native of Scotland—the place of his birth is not given—and that for
 many years he was minister of the Scots Presbyterian Church in Swallow
@@ -692,7 +692,7 @@ description we are not told. He died in 1739. Perhaps his learning was
 exaggerated by his Masonic eulogists, but he was a noble man and
 manifestly a useful one (Gould's *History of Masonry*, vol. iii).
 
-<span id="fn_122"></span>[189:1](bui11.htm#fr_122) Having emphasized
+<span id="fn_122"></span>[189:1](bui11.htm#fr_122.md) Having emphasized
 this point so repeatedly, the writer feels it just to himself to state
 his own position, lest he be thought a kind of materialist, or at least
 an enemy of mysticism. Not so. Instead, he has long been an humble
@@ -730,20 +730,20 @@ fantastic, and in nowise eerie, unreal, or unbalanced. Of course these
 words fail to describe it, as all words must, and it is therefore that
 Masonry uses parables, pictures, and symbols.
 
-<span id="fn_123"></span>[190:1](bui11.htm#fr_123) *Seventeenth Century
+<span id="fn_123"></span>[190:1](bui11.htm#fr_123.md) *Seventeenth Century
 Descriptions of Solomon's Temple*, by Prof. S. P. Johnston (*A. Q. C.*,
 xii, 135).
 
-<span id="fn_124"></span>[191:1](bui11.htm#fr_124) *Transactions Jewish
+<span id="fn_124"></span>[191:1](bui11.htm#fr_124.md) *Transactions Jewish
 Historical Society of England*, vol. ii.
 
-<span id="fn_125"></span>[191:2](bui11.htm#fr_125) Smith's *Dictionary
+<span id="fn_125"></span>[191:2](bui11.htm#fr_125.md) Smith's *Dictionary
 of the Bible*, article "Temple."
 
-<span id="fn_126"></span>[192:1](bui11.htm#fr_126) *Jewish
+<span id="fn_126"></span>[192:1](bui11.htm#fr_126.md) *Jewish
 Encyclopedia*, art. "Freemasonry." Also *Builder's Rites*, G. W. Speth.
 
-<span id="fn_127"></span>[192:2](bui11.htm#fr_127) In the *Book of
+<span id="fn_127"></span>[192:2](bui11.htm#fr_127.md) In the *Book of
 Constitutions*, 1723, Dr. Anderson dilates at length on the building of
 the Temple—including a note on the meaning of the name Abif, which, it
 will be remembered, was not found in the Authorized Version of the
@@ -754,16 +754,16 @@ among Masons a name and legend unknown to them. Had he done so, would it
 have met with such instant and universal acceptance by old Masons who
 stood for the ancient usages of the order?
 
-<span id="fn_128"></span>[193:1](bui11.htm#fr_128) Letter to Gould
+<span id="fn_128"></span>[193:1](bui11.htm#fr_128.md) Letter to Gould
 "Touching Masonic Symbolism."
 
-<span id="fn_129"></span>[194:1](bui11.htm#fr_129) *Hermes and Plato*,
+<span id="fn_129"></span>[194:1](bui11.htm#fr_129.md) *Hermes and Plato*,
 Edouard Schure.
 
-<span id="fn_130"></span>[195:1](bui11.htm#fr_130) *History of the Lodge
+<span id="fn_130"></span>[195:1](bui11.htm#fr_130.md) *History of the Lodge
 of Edinburgh*.
 
-<span id="fn_131"></span>[195:2](bui11.htm#fr_131) Steinbrenner,
+<span id="fn_131"></span>[195:2](bui11.htm#fr_131.md) Steinbrenner,
 following Findel, speaks of the Third Degree as if it were a pure
 invention, quoting a passage from *Ahiman Rezon*, by Lawrence Dermott,
 to prove it. He further states that Anderson and Desaguliers were
@@ -791,4 +791,4 @@ the facts are in dispute (Gould's *History of Masonry*, vol. iii).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Universal Masonry](bui12)
+[Next: Chapter V. Universal Masonry](bui12.md)

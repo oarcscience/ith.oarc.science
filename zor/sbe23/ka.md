@@ -1,5 +1,5 @@
-<span class="small">[Sacred-Texts](../../index)  [Zoroastrian
-Texts](../index)  [Next](ka2) </span>
+<span class="small">[Sacred-Texts](../../index.md)  [Zoroastrian
+Texts](../index)  [Next](ka2.md) </span>
 
 ------------------------------------------------------------------------
 

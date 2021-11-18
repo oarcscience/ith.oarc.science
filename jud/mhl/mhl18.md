@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl17)  [Next](mhl19) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl17)  [Next](mhl19.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,4 +169,4 @@ wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: Maimonides](mhl19)
+[Next: Maimonides](mhl19.md)

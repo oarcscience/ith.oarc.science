@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](shb04)  [Next](shb06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](shb04)  [Next](shb06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -74,14 +74,14 @@ is: Try always to judge everybody from his better side. R. Joseph
 taught: This verse signifies that him who is your equal in wisdom and
 deeds, you shall try to judge fairly.
 
-It [happened](errata.htm#43) that Ula b. Eilai had a case in the court
+It [happened](errata.htm#43.md) that Ula b. Eilai had a case in the court
 of R. Na'hman, and R. Joseph sent word to R. Na'hman: Ula, our
 colleague, is equal to us in wisdom and deeds; and R. Na'hman wondered
 what the purpose of the message was; does he mean: I shall flatter him?
 After some deliberation he said: He must mean I shall give preference to
 Ula's case over some other cases, or if in his case the evidence will be
 equally balanced on the two sides, and the opinion of the judges will be
-[decisive](errata.htm#44).
+[decisive](errata.htm#44.md).
 
 Ula said: The point of difference above concerns only the contending
 parties, while concerning the witnesses all agree that they must stand,
@@ -196,7 +196,7 @@ in a cloak worth 100 *mana*, and the other clad in rags, the court must
 instruct the former to go and dress like his contestant, or to dress him
 richly like one's self (this, too, is inferred from the verse, because
 the contrast between the rich and the poor would stupefy latter and also
-possibly influence the judge). <span id="fr_19"></span>[1](#fn_19)
+possibly influence the judge). <span id="fr_19"></span>[1](#fn_19.md)
 
 It reads \[Ezek. xviii. 19\]:"And did that which is not good in the
 midst of his people," which according to Rabh means him who conies to
@@ -279,7 +279,7 @@ adjuration five times in presence of the court and they denied, they are
 liable but once. Said R. Simeon: What is the reason? Because they are
 not able to retract the previous statement and to testify. If the two
 denied simultaneously, they both are guilty, but if successively, only
-he who denied first is [guilty](errata.htm#45), while the second one is
+he who denied first is [guilty](errata.htm#45.md), while the second one is
 free. If one of them denies and the other confesses the truth, the
 denier is guilty. If there were two parties of witnesses and both denied
 successively, the two are guilty, since the testimony could have been
@@ -592,7 +592,7 @@ Simeon's last statement--viz.: Lest one say that the case of witnesses
 is more rigorous, etc.; saying: To what purpose did he need this after
 he had used an analogy of expression? But why should it be ridiculed?
 Perhaps he had put this point before, but not after, he established the
-said analogy? <span id="fr_20"></span>[1](#fn_20) Because it was known
+said analogy? <span id="fr_20"></span>[1](#fn_20.md) Because it was known
 that the Scripture has made mention of a witness-oath in connection both
 with an uttered oath, and with the case of defiling the Temple and its
 holiness in order to indicate that concerning a witness-oath "Escaped
@@ -692,7 +692,7 @@ may be erased, and others that must not; the latter are: *Eil, Eloëchu,
 Eloîm, Eloëchem, Eiëh asher Eieh, Aleph Daleth, Yah, Shadai* and
 *Zebaoth*; but *Hagodal, Hayibor, Hanora, Haädir, Hachazak, Haämatz,
 Haäzaz, Chanun, Rachum, Erech-apäim, Rabh-chessed* <span
-id="fr_21"></span>[1](#fn_21) may be erased; we see thus that *chanun*
+id="fr_21"></span>[1](#fn_21.md) may be erased; we see thus that *chanun*
 and *rachum* are not divine names? Said Abayi: The Mishna means to say,
 I adjure you by him who is all favor, or: all merciful. Said Rabha to
 him: If so, let him be liable for adjuring one by heaven and earth, as
@@ -733,7 +733,7 @@ all the names found in connection with Lot, are common, except \[ibid.
 xix. 18, 19\]: "Oh, not so, my Lord; (*Adonai*) thy servant hath found
 grace in thy eyes, and thou hast magnified thy kindness," etc., and who
 but God can save? Again, all names in connection with Nob'oth. <span
-id="fr_22"></span>[1](#fn_22) are holy, those in connection with Micha
+id="fr_22"></span>[1](#fn_22.md) are holy, those in connection with Micha
 \[Jud. xvii.\] are common. R. Elazar, however, said that the names with
 Nob'oth are holy, but those with Micha are partly holy and partly
 common, namely *El* is common and *Yah* is holy, except \[ibid., ibid.
@@ -823,7 +823,7 @@ common sense: if Nay is an oath yea is one, too. Said Rabha: Provided he
 says each twice; nay, nay, or yea, yea; and this is inferred from the
 above cited verse \[Gen. ix.\] where no (*V'lo*) is written twice, and
 as Nay must be said twice to become an oath, so also yea. <span
-id="fr_23"></span>[1](#fn_23)
+id="fr_23"></span>[1](#fn_23.md)
 
 "*Curses himself or his neighbor*," etc. Said R. Janai: Concerning this
 statement, all agree that he transgress thereby a negative commandment;
@@ -869,26 +869,26 @@ connection with her marriage contract.
 
 ### Footnotes
 
-<span id="fn_19"></span>[51:1](shb05.htm#fr_19) There are still more
+<span id="fn_19"></span>[51:1](shb05.htm#fr_19.md) There are still more
 significations imputed to this verse, and they have appeared already in
 Sanhedrin and Maccoth.
 
-<span id="fn_20"></span>[60:1](shb05.htm#fr_20) In the text is also
+<span id="fn_20"></span>[60:1](shb05.htm#fr_20.md) In the text is also
 repeated what Rabha b. Aithi said above to contradict R. Simeon, which
 is followed again by a discussion. But it being very complicated and
 apparently offering nothing new, we omit the few lines.
 
-<span id="fn_21"></span>[62:1](shb05.htm#fr_21) The divine names, from
+<span id="fn_21"></span>[62:1](shb05.htm#fr_21.md) The divine names, from
 *Eil* till *Zebaoth* inclusive, are known, while those from *Hagodal*
 till Rabh-*chessed* inclusive, mean in order as follows: The Great,
 Mighty, Awe-inspiring, Glorious, Strong, Omnipotent, Powerful, Gracious,
 Merciful, Long. suffering, and Abundant in beneficence.
 
-<span id="fn_22"></span>[63:1](shb05.htm#fr_22) I Kings xxi. 3.
+<span id="fn_22"></span>[63:1](shb05.htm#fr_22.md) I Kings xxi. 3.
 
-<span id="fn_23"></span>[65:1](shb05.htm#fr_23) Concerning blasphemy
+<span id="fn_23"></span>[65:1](shb05.htm#fr_23.md) Concerning blasphemy
 repeated here, see Sanhedrin, Chap. VII., Mish. 8.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](shb06)
+[Next: Chapter V](shb06.md)

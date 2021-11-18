@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index) 
-[Siberian](../../../asia/index.htm#siberia)  [Index](index) 
-[Previous](eos03)  [Next](eos05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index.md) 
+[Siberian](../../../asia/index.htm#siberia)  [Index](index.md) 
+[Previous](eos03)  [Next](eos05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eskimo of Siberia*, by Waldemar Bogoras, \[1913\], at Intangible
 Textual Heritage
 
@@ -35,7 +35,7 @@ mother jumped into the water and was gone.
 
    The father took his little son and carried him home. He had also a
 human wife, and even a companion in marriage. <span
-id="fr_1"></span>[1](#fn_1) The latter felt aversion against the
+id="fr_1"></span>[1](#fn_1.md) The latter felt aversion against the
 One-without-Arms. He considered him to forebode evil. Therefore he left
 the settlement and emigrated in a boat to the opposite shore.
 
@@ -124,9 +124,9 @@ Indian Point, May, 1901.
 
 ### Footnotes
 
-<span id="fn_1"></span>[421:1](eos04.htm#fr_1) Compare Bogoras, The
+<span id="fn_1"></span>[421:1](eos04.htm#fr_1.md) Compare Bogoras, The
 Chukchee, Vol. VII of this series, p. 602.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Girl who watched in the Night-Time.](eos05)
+[Next: 4. The Girl who watched in the Night-Time.](eos05.md)

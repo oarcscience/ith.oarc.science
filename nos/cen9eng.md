@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](cen8eng)  [Next](cen10eng) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](cen8eng)  [Next](cen10eng.md) 
 
 ------------------------------------------------------------------------
 
@@ -606,6 +606,6 @@ Anger to the vanquished, and victory in a drizzle.
 
 ------------------------------------------------------------------------
 
-[Next: Century X](cen10eng)
+[Next: Century X](cen10eng.md)
 
   

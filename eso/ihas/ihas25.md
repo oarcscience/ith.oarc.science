@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ihas24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ihas24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Initiation, Human and Solar*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ so called in the septenary constitution of man. (See diagram in
 Introduction.)
 
 *Atomic subplane*. The matter of the solar system is divided by the
-[occultists](errata.htm#2) into seven planes or states, the highest of
+[occultists](errata.htm#2.md) into seven planes or states, the highest of
 which is the atomic plane. Similarly, each of the seven planes is
 divided into seven subplanes, of which the highest is called the atomic
 subplane. There are therefore forty-nine subplanes, and seven of these
@@ -143,7 +143,7 @@ Hierarchies. Within our planetary scheme, the earth scheme, there is a
 reflection of this Hierarchy which is called by the occultist the Occult
 Hierarchy. This Hierarchy is formed of chohans, adepts, and initiates
 working through their disciples, and, by this means, in the world. (See
-diagram page [48](ihas09.htm#page_48).)
+diagram page [48](ihas09.htm#page_48)..md)
 
 *Initiations*. From the Latin root meaning the first principles of any
 science. Process of penetrating into the mysteries of the science of the
@@ -314,7 +314,7 @@ best is to enumerate the four as follows:
 
 1\. Lower mind.
 
-2\. Emotional or [karmic](errata.htm#3) body.
+2\. Emotional or [karmic](errata.htm#3.md) body.
 
 3\. Prana, or the Life Principle.
 
@@ -402,7 +402,7 @@ of occultism is the discrimination between the real and the unreal,
 between substance and phenomenon, between the Self and the Not-self,
 between spirit and matter.
 
-*Wesak*. A festival which takes place in the [Himalayas](errata.htm#4)
+*Wesak*. A festival which takes place in the [Himalayas](errata.htm#4.md)
 at the full moon of May. It is said that at this festival, at which all
 the members of the Hierarchy are present, the Buddha, for a brief
 period, renews his touch and association with the work of our planet.

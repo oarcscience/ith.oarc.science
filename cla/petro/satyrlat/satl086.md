@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat12.htm#LXXXVI) 
-[Previous](satl085)  [Next](satl087) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#LXXXVI.md) 
+[Previous](satl085)  [Next](satl087.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ amplexu: "Rogo, inquit, domine, ubi est asturco?"
 
 ------------------------------------------------------------------------
 
-[Next: LXXXVII](satl087)
+[Next: LXXXVII](satl087.md)

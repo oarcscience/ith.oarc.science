@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc13)  [Next](osc15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc13)  [Next](osc15.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ social custom.
 
 ------------------------------------------------------------------------
 
-[Next: (12) Knutsford: The May Queen and the Morris Dances](osc15)
+[Next: (12) Knutsford: The May Queen and the Morris Dances](osc15.md)

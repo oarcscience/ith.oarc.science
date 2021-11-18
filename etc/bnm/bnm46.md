@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm45)  [Next](bnm47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm45)  [Next](bnm47.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ wise as the birds.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The Earth And The Sky.](bnm47)
+[Next: The Story Of The Earth And The Sky.](bnm47.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo75)  [Next](sdo77) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo75)  [Next](sdo77.md) 
 
 ------------------------------------------------------------------------
 
@@ -482,4 +482,4 @@ him on the man's place.
 
 ------------------------------------------------------------------------
 
-[Next: How the Lark Won the Race](sdo77)
+[Next: How the Lark Won the Race](sdo77.md)

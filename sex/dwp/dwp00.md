@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Next](dwp01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Next](dwp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ Sexuality](../index)  [Index](index)  [Next](dwp01) 
 
 ------------------------------------------------------------------------
 
-[Next: On the Worship of Priapus in the Kingdom of Naples](dwp01)
+[Next: On the Worship of Priapus in the Kingdom of Naples](dwp01.md)

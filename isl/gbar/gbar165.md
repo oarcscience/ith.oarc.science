@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar164) [Next](gbar166)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar164) [Next](gbar166.md)
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ contradict God altogether.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar166)
+[Next](gbar166.md)

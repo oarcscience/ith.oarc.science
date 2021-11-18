@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki239)  [Next](liki241) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki239)  [Next](liki241.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,6 +75,6 @@ usages, and that it is the most important of the festive services.
 
 ------------------------------------------------------------------------
 
-[Next: XLI. Hwan Î or The Meaning of the Marriage Ceremony](liki241)
+[Next: XLI. Hwan Î or The Meaning of the Marriage Ceremony](liki241.md)
 
   

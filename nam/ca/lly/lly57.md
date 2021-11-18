@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly56)  [Next](lly58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly56)  [Next](lly58.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ less to their medicine men, and the profession gradually died out.
 
 ------------------------------------------------------------------------
 
-[Next: Marriage](lly58)
+[Next: Marriage](lly58.md)

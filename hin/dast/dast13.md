@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](dast12)  [Next](dast14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](dast12)  [Next](dast14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -97,7 +97,7 @@ the Brahmanda.</span>
 the devotee will become co-extensive with the macrocosm. This the Sruti
 has declared ten times in the words "he unites with Atman."
 
-<span class="small">Having first enumerated the [five](errata.htm#24)
+<span class="small">Having first enumerated the [five](errata.htm#24.md)
 kosas (sheaths) of the individual, the Taittiriya-Upanishad (2–8)
 declares five times that the devotee attains unity with Brahman,
 dwelling in the anandamaya kosa as the basis of all, in the words " He
@@ -398,7 +398,7 @@ and Nâda; who has no beginning, middle or end; to the Guru of the Gurus
 be this bow!
 
 This explains the meaning of pranava. Existence, Consciousness, and
-Bliss, represented [respectively](errata.htm#25) by *a*, *u*, *m*,
+Bliss, represented [respectively](errata.htm#25.md) by *a*, *u*, *m*,
 constitute the Pranava and form the essential nature of Brahman. Bindu
 and nada stand for name and form, the one standing
 
@@ -415,4 +415,4 @@ Dakshinâmurti.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Perfection](dast14)
+[Next: Chapter X. Perfection](dast14.md)

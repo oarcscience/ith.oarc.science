@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao69)   
-[Previous](tao68)  [Next](tao70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao69.md)   
+[Previous](tao68)  [Next](tao70.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ army that regrets the hostility between them, always conquers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 70](tao70)
+[Next: Chapter 70](tao70.md)

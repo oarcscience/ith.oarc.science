@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma36)  [Next](cma38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma36)  [Next](cma38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ I, Hau, whistle on the road of stars."
 
 "The circuit of earth which you see,  
 The scattering of stars in the sky which you see,  
-All that is the place for my-hair." <span id="fr_4"></span>[1](#fn_4)
+All that is the place for my-hair." <span id="fr_4"></span>[1](#fn_4.md)
 
  
 
@@ -63,10 +63,10 @@ All that is the place for my-hair." <span id="fr_4"></span>[1](#fn_4)
 
 ### Footnotes
 
-<span id="fn_4"></span>[516:1](cma37.htm#fr_4) Hair in Indian mythology,
+<span id="fn_4"></span>[516:1](cma37.htm#fr_4.md) Hair in Indian mythology,
 as in other mythologies, is the equivalent of rays of light when
 connected with the sun and with planet luminaries.
 
 ------------------------------------------------------------------------
 
-[Next: The Yanas](cma38)
+[Next: The Yanas](cma38.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh19) 
-[Next](iggh21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh19.md) 
+[Next](iggh21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -29,7 +29,7 @@ beautiful thou art; and I am faint
 and hungry, but only for the nectar of thy arms and thy lips. And she
 put her arms round him, and they stood together for an instant, while
 their souls met rapturously after separation, hovering in agitation at
-the door <span id="fr_33"></span>[a](#fn_33) of their thirsty lips. And
+the door <span id="fr_33"></span>[a](#fn_33.md) of their thirsty lips. And
 then, after a while, she said: Come, thou art here, and thou art hungry,
 and so am I. Let us eat first, and then it may be, thou shalt kiss me
 again. But Ranga put his burden down, and took her in his arms. And he
@@ -40,7 +40,7 @@ in their eyes, utterly forgetting their own names.
 
 Then when they had finished eating, they got up and wandered about in
 each other's arms, like a human symbol of myself <span
-id="fr_34"></span>[b](#fn_34) and thee, watching the parrots screaming
+id="fr_34"></span>[b](#fn_34.md) and thee, watching the parrots screaming
 in the fig trees, and the monkeys climbing over the roofs of the
 deserted houses, and sighing by reason of excess of happiness, and
 laughing without a cause, while the day passed away like a flash of
@@ -53,9 +53,9 @@ moon rose. And then Wanawallarí said: Come let us go back, and find the
 wine, and we will have a drinking bout: thou shalt drink for both of us,
 and I will sing and play to thee on the lute, and dance with my shadow
 to attend me, to show thee my accomplishments <span
-id="fr_35"></span>[c](#fn_35) and give thee pleasure in the light of the
+id="fr_35"></span>[c](#fn_35.md) and give thee pleasure in the light of the
 moon. So they did. And Ranga sat under the tree, with the cup of red
-wine in his hand, while she danced <span id="fr_36"></span>[d](#fn_36)
+wine in his hand, while she danced <span id="fr_36"></span>[d](#fn_36.md)
 and played and sang to him, looking in the moonlight like a feminine
 incarnation of the camphor-essence and beauty of the moon come down to
 earth to entrance his soul and wean it from all care for earthly things.
@@ -118,19 +118,19 @@ himself.
 
 ### Footnotes
 
-<span id="fn_33"></span>[65:a](iggh20.htm#fr_33) *Dantachada:* precisely
+<span id="fn_33"></span>[65:a](iggh20.htm#fr_33.md) *Dantachada:* precisely
 the Homeric ἕρκος ὁδόντων.
 
-<span id="fn_34"></span>[65:b](iggh20.htm#fr_34) Maheshwara *loquitur*.
+<span id="fn_34"></span>[65:b](iggh20.htm#fr_34.md) Maheshwara *loquitur*.
 
-<span id="fn_35"></span>[66:c](iggh20.htm#fr_35) There is a pun here:
+<span id="fn_35"></span>[66:c](iggh20.htm#fr_35.md) There is a pun here:
 she compares herself to a digit of the moon.
 
-<span id="fn_36"></span>[66:d](iggh20.htm#fr_36) Dancing is associated
+<span id="fn_36"></span>[66:d](iggh20.htm#fr_36.md) Dancing is associated
 by the modern Hindoos with lax morality: but this cannot always have
 been the case, for in most Hindoo romances the heroine is accomplished
 in that art.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. The Favour of Fortune](iggh21)
+[Next: XVIII. The Favour of Fortune](iggh21.md)

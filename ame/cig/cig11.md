@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](cig10)  [Next](cig12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](cig10)  [Next](cig12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Coffee in the Gourd*, ed. J. Frank Dobie \[1923\], at Intangible
 Textual Heritage
 
@@ -76,6 +76,6 @@ jestice for you pore nigger.
 
 ------------------------------------------------------------------------
 
-[Next: The ''Blues'' As Folk-Songs, by Dorothy Scarborough](cig12)
+[Next: The ''Blues'' As Folk-Songs, by Dorothy Scarborough](cig12.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs53)  [Next](mhs55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs53)  [Next](mhs55.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,4 +145,4 @@ me, on the same day.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Friday In Modern Times](mhs55)
+[Next: VI. Friday In Modern Times](mhs55.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe320)  [Next](prwe322) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe320)  [Next](prwe322.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ being over six feet in height.
 
 ------------------------------------------------------------------------
 
-[Next: Prussia Cove and Smugglers' Holes](prwe322)
+[Next: Prussia Cove and Smugglers' Holes](prwe322.md)

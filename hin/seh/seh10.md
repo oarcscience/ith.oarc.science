@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh09)  [Next](seh11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh09)  [Next](seh11.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ in Bengal.
 
 ------------------------------------------------------------------------
 
-[Next: Janmastami; The Day of the Great Birth](seh11)
+[Next: Janmastami; The Day of the Great Birth](seh11.md)

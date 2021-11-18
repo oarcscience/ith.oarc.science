@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](teia08)  [Next](teia10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](teia08)  [Next](teia10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ then her hands became fast to it, and
 [![''The hands of Pryderi and Rhiannon were held fast by the enchanted
 bowl, and their feet by the enchanted slab; and their joyousness forsook
 them, and they could not utter a word.''--p. 42](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 ''The hands of Pryderi and Rhiannon were held fast by the enchanted
 bowl, and their feet by the enchanted slab; and their joyousness forsook
 them, and they could not utter a word.''--p. 42  
@@ -200,4 +200,4 @@ away."
 
 ------------------------------------------------------------------------
 
-[Next: VII. Merlin the Enchanter](teia10)
+[Next: VII. Merlin the Enchanter](teia10.md)

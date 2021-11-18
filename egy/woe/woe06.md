@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](woe05)  [Next](woe07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](woe05)  [Next](woe07.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ one form or another of much greater antiquity than the period of Mena,
 the first historical king of Egypt. Indeed, from internal evidence it is
 possible to show that many of these were revised or edited long before
 the copies known to us were made. Even at as early a date as 3300 B.C.,
-the professional writers who transcribed the [ancient](errata.htm#6)
+the professional writers who transcribed the [ancient](errata.htm#6.md)
 texts appear to have been so puzzled by their contents that they hardly
 understood their purport. Dr. Budge states: "We are in any case
 justified in estimating the earliest form of the work to be
@@ -665,7 +665,7 @@ am
 
 the sailor who ceaseth not on the boat of Ra. I, even I, know the two
 sycamores of turquoise between which Ra showed himself when he strideth
-forward over the supports of Shu <span id="fr_35"></span>[1](#fn_35)
+forward over the supports of Shu <span id="fr_35"></span>[1](#fn_35.md)
 toward the gate of the lord of the East through which Ra cometh forth.
 I, even I, know the Sektet-Aarru of Ra, the walls of which are of iron.
 The height of the wheat therein is five cubits, of the cars thereof two
@@ -764,7 +764,7 @@ receive it, and may my equipment be from the god Hetep. May I gain the
 mastery over the great and mighty word which is in my body in this my
 place, and by it I will remember and I will forget. Let me go forward in
 my journey, and let me plough. I am at peace in the divine city <span
-id="fr_36"></span>[1](#fn_36), and I know the waters, cities, nomes, and
+id="fr_36"></span>[1](#fn_36.md), and I know the waters, cities, nomes, and
 lakes which are in Sekhet-hetep. I exist therein, I am strong therein, I
 become a khu therein, I eat therein, I sow seed therein, I reap the
 harvest therein, I plough therein, I make love therein, I am at peace
@@ -783,9 +783,9 @@ onward to its land, I have put on my girdle (?), I have come forth so
 that the gifts which are about to be given unto me may be given, I have
 made gladness for myself. I have laid hold upon my strength which the
 god Hetep hath greatly increased for me. O Unen-em-hetep, <span
-id="fr_37"></span>[1](#fn_37) I have entered into thee and my soul
+id="fr_37"></span>[1](#fn_37.md) I have entered into thee and my soul
 followeth after me, and my divine food is upon both my hands, O Lady of
-the two lands, <span id="fr_38"></span>[2](#fn_38) who establishest my
+the two lands, <span id="fr_38"></span>[2](#fn_38.md) who establishest my
 word whereby I remember and forget; I would live without injury, without
 any injury--being done--unto me, oh, grant to me, oh, do thou grant to
 me, joy of heart. Make thou me to be at peace, bind thou up my sinews
@@ -798,15 +798,15 @@ shown--my head. Ra falleth asleep,
 but I am awake, and there is the goddess Hast at the gate of heaven by
 night. Obstacles have been set before me, but I have gathered together
 what he hath emitted. I am in my city. O Nut-urt, <span
-id="fr_39"></span>[1](#fn_39) I have entered into thee and I have
+id="fr_39"></span>[1](#fn_39.md) I have entered into thee and I have
 counted my harvest, and I go forward to Uakh. <span
-id="fr_40"></span>[2](#fn_40) I am the bull enveloped in turquoise, the
+id="fr_40"></span>[2](#fn_40.md) I am the bull enveloped in turquoise, the
 lord of the Field of the Bull, the lord of the divine speech of the
 goddess Septer--Sothis--at her hours. O Uakh, I have entered into thee,
 I have eaten my bread, I have gotten the mastery over choice pieces of
 the flesh of oxen and of feathered fowl, and the birds of Shu have been
 given unto me; I follow after the gods and--I come after--the divine
-kas. O Tchefet, <span id="fr_41"></span>[3](#fn_41) I have entered in to
+kas. O Tchefet, <span id="fr_41"></span>[3](#fn_41.md) I have entered in to
 thee. I array myself in apparel, and I gird myself with the sa garment
 of Ra; now behold,--he is--in heaven and those who dwell therein follow
 Ra, and--I--follow Ra in heaven. O Unen-em-hetep, lord of the two lands,
@@ -817,7 +817,7 @@ therein, and behold, I have found--food therein--; I have
 <span id="page_160">p. 160</span>
 
 snared feathered fowl and I feed upon the finest--of them--. O
-Qenqentet, <span id="fr_42"></span>[1](#fn_42) I have entered into thee,
+Qenqentet, <span id="fr_42"></span>[1](#fn_42.md) I have entered into thee,
 and I have seen the Osiris--my father--, and I have gazed upon my
 mother, and I have made love. I have caught the worms and serpents, and
 I am delivered. And I know the name of the god who is opposite to the
@@ -828,9 +828,9 @@ turquoise--sky--, and I have followed the winds of the company of the
 gods. The Great God hath given my head unto me, and he who hath bound on
 me my head is the Mighty one who hath turquoise (?) eyes, namely,
 Ari-en-ab-f--i.e., he doeth as he pleaseth--. O Usert, <span
-id="fr_43"></span>[2](#fn_43) I have come into thee at the head of the
+id="fr_43"></span>[2](#fn_43.md) I have come into thee at the head of the
 house wherein divine food is brought for me. O Smam, <span
-id="fr_44"></span>[3](#fn_44) I have come into thee. My heart watcheth,
+id="fr_44"></span>[3](#fn_44.md) I have come into thee. My heart watcheth,
 my head is equipped with the white crown, I am led into celestial
 regions, and I make to flourish terrestrial objects, and there is joy of
 heart for the
@@ -855,7 +855,7 @@ Another chapter of knowing the souls of Pe. The overseer of the palace,
 the chancellor-in-chief, Nu, triumphant, saith:
 
 "--Hail, --Khat, who dwellest in Khat, in Anpet, <span
-id="fr_45"></span>[1](#fn_45) and in the nome of Khat! --Hail,--ye
+id="fr_45"></span>[1](#fn_45.md) and in the nome of Khat! --Hail,--ye
 goddesses of the class who dwell in the city of Pe, ye celestial lands
 (?), ye stars, and ye divine beings, who give cakes and ale (?), do ye
 know for what reason the city of Pe hath been given unto Horus? I, even
@@ -870,7 +870,7 @@ said to Horus, 'Look at that black pig,' and he looked, and straightway
 an injury was done unto his eye,--namely--, a mighty storm--took
 place--. Then said Horus unto Ra, 'Verily, my eye seems as if it were an
 eye upon which Suti had inflicted a blow';--and thus saying--he ate his
-heart. <span id="fr_46"></span>[1](#fn_46) Then said Ra to those gods,
+heart. <span id="fr_46"></span>[1](#fn_46.md) Then said Ra to those gods,
 'Place ye him in his chamber, and he shall do well.' Now the black pig
 was Suti who had transformed himself into a black pig, and it was he who
 had aimed the blow of fire which was in the eye of Horus. Then said Ra
@@ -1197,7 +1197,7 @@ whereon I may pass in peace, for I am just and true; I have not spoken
 lies wittingly, nor have I done aught with deceit."
 
 "Homage to thee, O thou art mighty in thine hour, thou great and mighty
-Prince, dweller in An-rut-f, <span id="fr_47"></span>[1](#fn_47) lord of
+Prince, dweller in An-rut-f, <span id="fr_47"></span>[1](#fn_47.md) lord of
 eternity and creator of everlastingness, thou art the lord of
 Suten-henen--Heracleopolis Magna--. Oh, grant thou unto me a path
 whereon I may pass in peace, for I am just and true; I have not spoken
@@ -1216,14 +1216,14 @@ deceit."
 "Homage to thee, O thou who art within thy boat, thou bringest
 Hapi--i.e., the Nile--forth from his course; the light shineth upon thy
 body and thou art the dweller in Nekhen. <span
-id="fr_48"></span>[1](#fn_48) Oh, grant thou unto me a path whereon I
+id="fr_48"></span>[1](#fn_48.md) Oh, grant thou unto me a path whereon I
 may pass in peace, for I am just and true; I have not spoken lies
 wittingly, nor have I done aught with deceit."
 
 "Homage to thee, O creator of the gods, thou King of the North and of
 the South, O Osiris, victorious one, ruler of the world in thy gracious
 seasons, thou art the lord of the celestial world. <span
-id="fr_49"></span>[2](#fn_49) Oh, grant thou unto me a path whereon I
+id="fr_49"></span>[2](#fn_49.md) Oh, grant thou unto me a path whereon I
 may pass in peace, for I am just and true! I have not spoken lies
 wittingly, nor have I done aught with deceit."
 
@@ -1251,52 +1251,52 @@ never-resting stars in the heavens."
 
 ### Footnotes
 
-<span id="fn_35"></span>[153:1](woe06.htm#fr_35) The four pillars at the
+<span id="fn_35"></span>[153:1](woe06.htm#fr_35.md) The four pillars at the
 south, north, west, and east of heaven upon which the heavens were
 believed to rest.
 
-<span id="fn_36"></span>[157:1](woe06.htm#fr_36) Or, "I am at peace with
+<span id="fn_36"></span>[157:1](woe06.htm#fr_36.md) Or, "I am at peace with
 the god of the city."
 
-<span id="fn_37"></span>[158:1](woe06.htm#fr_37) "Existence in Peace,"
+<span id="fn_37"></span>[158:1](woe06.htm#fr_37.md) "Existence in Peace,"
 the name of the first section of the Elysian Fields.
 
-<span id="fn_38"></span>[158:2](woe06.htm#fr_38) The name of a pool in
+<span id="fn_38"></span>[158:2](woe06.htm#fr_38.md) The name of a pool in
 the second section of the Elysian Fields.
 
-<span id="fn_39"></span>[159:1](woe06.htm#fr_39) The name of a pool in
+<span id="fn_39"></span>[159:1](woe06.htm#fr_39.md) The name of a pool in
 the first section of the Elysian Fields.
 
-<span id="fn_40"></span>[159:2](woe06.htm#fr_40) He name of a pool in
+<span id="fn_40"></span>[159:2](woe06.htm#fr_40.md) He name of a pool in
 the second section of the Elysian Fields.
 
-<span id="fn_41"></span>[159:3](woe06.htm#fr_41) The name of a district
+<span id="fn_41"></span>[159:3](woe06.htm#fr_41.md) The name of a district
 in the third section of the Elysian Fields.
 
-<span id="fn_42"></span>[160:1](woe06.htm#fr_42) The name of a pool In
+<span id="fn_42"></span>[160:1](woe06.htm#fr_42.md) The name of a pool In
 the first section of the Elysian Fields.
 
-<span id="fn_43"></span>[160:2](woe06.htm#fr_43) "Usert," the name of a
+<span id="fn_43"></span>[160:2](woe06.htm#fr_43.md) "Usert," the name of a
 pool in the third section of the Elysian Fields.
 
-<span id="fn_44"></span>[160:3](woe06.htm#fr_44) "Smam," the name of a
+<span id="fn_44"></span>[160:3](woe06.htm#fr_44.md) "Smam," the name of a
 pool in the third section of the Elysian Fields.
 
-<span id="fn_45"></span>[161:1](woe06.htm#fr_45) A name of the city of
+<span id="fn_45"></span>[161:1](woe06.htm#fr_45.md) A name of the city of
 Mendes, the metropolis of the sixteenth nome of Lower Egypt.
 
-<span id="fn_46"></span>[162:1](woe06.htm#fr_46) "He ate his heart." He
+<span id="fn_46"></span>[162:1](woe06.htm#fr_46.md) "He ate his heart." He
 lost his temper and raged.
 
-<span id="fn_47"></span>[175:1](woe06.htm#fr_47) "The place where
+<span id="fn_47"></span>[175:1](woe06.htm#fr_47.md) "The place where
 nothing groweth," the name of a district in the underworld.
 
-<span id="fn_48"></span>[176:1](woe06.htm#fr_48) The name of the
+<span id="fn_48"></span>[176:1](woe06.htm#fr_48.md) The name of the
 sanctuary of the goddess Nekhebet in Upper Egypt.
 
-<span id="fn_49"></span>[176:2](woe06.htm#fr_49) The two lands, Atebui,
+<span id="fn_49"></span>[176:2](woe06.htm#fr_49.md) The two lands, Atebui,
 which were situated one on each side of the celestial Nile.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Hermes Trismegistus](woe07)
+[Next: Chapter V: Hermes Trismegistus](woe07.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ expiation for three years and six months. But Onias, the high priest,
 fled to Ptolemy, and received a place from him in the Nomus of
 Heliopolis, where he built a city resembling Jerusalem, and a temple
 that was like its temple <span
-id="EndNote War 1.1a"></span>[(1)](#EndNote%20War%201.1b) concerning
+id="EndNote War 1.1a"></span>[(1)](#EndNote%20War%201.1b.md) concerning
 which we shall speak more in its proper place hereafter.
 
 2\. Now Antiochus was not satisfied either with his unexpected taking
@@ -159,7 +159,7 @@ the empire \[of Seleucus\].
 feast by his son-in-law Ptolemy, who put his wife and two sons into
 prison, and sent some persons to kill John, who was also called
 Hyrcanus. <span
-id="EndNote War 1.2a"></span>[(2)](#EndNote%20War%201.2b) But when the
+id="EndNote War 1.2a"></span>[(2)](#EndNote%20War%201.2b.md) But when the
 young man was informed of their coming beforehand, he made haste to get
 to the city, as having a very great confidence in the people there, both
 on account of the memory of the glorious actions of his father, and of
@@ -453,7 +453,7 @@ kingdom, and left off fighting any more.
 7\. Yet did that Antiochus, who was also called Dionysius, become an
 origin of troubles again. This man was the brother of Demetrius, and the
 last of the race of the Seleucidse. <span
-id="EndNote War 1.3a"></span>[(3)](#EndNote%20War%201.3b) Alexander was
+id="EndNote War 1.3a"></span>[(3)](#EndNote%20War%201.3b.md) Alexander was
 afraid of him, when he was marching against the Arabians; so he cut a
 deep trench between Antipatris, which was near the mountains, and the
 shores of Joppa; he also erected a high wall before the trench, and
@@ -524,7 +524,7 @@ insinuated themselves into her favor by little and little, and became
 themselves the real administrators of the public affairs: they banished
 and reduced whom they pleased; they bound and loosed \[men\] at their
 pleasure; <span
-id="EndNote War 1.4a"></span>[(4)](#EndNote%20War%201.4b) and, to say
+id="EndNote War 1.4a"></span>[(4)](#EndNote%20War%201.4b.md) and, to say
 all at once, they had the enjoyment of the royal authority, whilst the
 expenses and the difficulties of it belonged to Alexandra. She was a
 sagacious woman in the management of great affairs, and intent always
@@ -549,7 +549,7 @@ army to Damascus, under pretense that Ptolemy was always oppressing that
 city, she got possession of it; nor did it make any considerable
 resistance. She also prevailed with Tigranes, king of Armenia, who lay
 with his troops about Ptolemais, and besieged Cleopatra, <span
-id="EndNote War 1.5a"></span>[(5)](#EndNote%20War%201.5b) by agreements
+id="EndNote War 1.5a"></span>[(5)](#EndNote%20War%201.5b.md) by agreements
 and presents, to go away. Accordingly, Tigranes soon arose from the
 siege, by reason of those domestic tumults which happened upon
 Lucullus's expedition into Armenia.
@@ -596,7 +596,7 @@ to the house of Aristobulus.
 2\. Now those other people which were at variance with Aristobulus were
 afraid upon his unexpected obtaining the government; and especially this
 concerned Antipater <span
-id="EndNote War 1.6a"></span>[(6)](#EndNote%20War%201.6b) whom
+id="EndNote War 1.6a"></span>[(6)](#EndNote%20War%201.6b.md) whom
 Aristobulus hated of old. He was by birth an Idumean, and one of the
 principal of that nation, on account of his ancestors and riches, and
 other authority to him belonging: he also persuaded Hyrcanus to fly to
@@ -686,7 +686,7 @@ siege\], but followed him at his heels; he was also obliged to make
 haste in his attempt, by the death of Mithridates, of which he was
 informed about Jericho. Now here is the most fruitful country of Judea,
 which bears a vast number of palm trees <span
-id="EndNote War 1.7a"></span>[(7)](#EndNote%20War%201.7b) besides the
+id="EndNote War 1.7a"></span>[(7)](#EndNote%20War%201.7b.md) besides the
 balsam tree, whose sprouts they cut with sharp stones, and at the
 incisions they gather the juice, which drops down like tears. So Pompey
 pitched his camp in that place one night, and then hasted away the next
@@ -784,7 +784,7 @@ but a greater number was wounded.
 calamities they were then under, as that their holy place, which had
 been hitherto seen by none, should be laid open to strangers; for
 Pompey, and those that were about him, went into the temple itself <span
-id="EndNote War 1.8a"></span>[(8)](#EndNote%20War%201.8b) whither it was
+id="EndNote War 1.8a"></span>[(8)](#EndNote%20War%201.8b.md) whither it was
 not lawful for any to enter but the high priest, and saw what was
 reposited therein, the candlestick with its lamps, and the table, and
 the pouring vessels, and the censers, all made entirely of gold, as also
@@ -808,7 +808,7 @@ laid a tribute upon the country, and upon Jerusalem itself.
 formerly taken, and that belonged to Celesyria, and made them subject to
 him that was at that time appointed to be the Roman president there; and
 reduced Judea within its proper bounds. He also rebuilt Gadara, <span
-id="EndNote War 1.9a"></span>[(9)](#EndNote%20War%201.9b) that had been
+id="EndNote War 1.9a"></span>[(9)](#EndNote%20War%201.9b.md) that had been
 demolished by the Jews, in order to gratify one Demetrius, who was of
 Gadara, and was one of his own freed-men. He also made other cities free
 from their dominion, that lay in the midst of the country, such, I mean,
@@ -846,7 +846,7 @@ provisions by the means of Antipater; whom also Scaurus sent to Aretas,
 as one well acquainted with him, to induce him to pay him money to buy
 his peace. The king of Arabia complied with the proposal, and gave him
 three hundred talents; upon which Scaurus drew his army out of Arabia
-<span id="EndNote War 1.10a"></span>[(10)](#EndNote%20War%201.10b)
+<span id="EndNote War 1.10a"></span>[(10)](#EndNote%20War%201.10b.md)
 
 2\. But as for Alexander, that son of Aristobulus who ran away from
 Pompey, in some time he got a considerable band of men together, and lay
@@ -982,7 +982,7 @@ Aristobulus, he sent and intrusted his children with him. So when
 Cassius had forced Alexander to come to terms and to be quiet, he
 returned to Euphrates, in order to prevent the Parthians from repassing
 it; concerning which matter we shall speak elsewhere. <span
-id="EndNote War 1.11a"></span>[(11)](#EndNote%20War%201.11b)
+id="EndNote War 1.11a"></span>[(11)](#EndNote%20War%201.11b.md)
 
 CHAPTER 9.
 
@@ -1101,7 +1101,7 @@ of the high priesthood, and gave leave to Antipater to choose what
 authority he pleased; but he left the determination of such dignity to
 him that bestowed the dignity upon him; so he was constituted procurator
 of all Judea, and obtained leave, moreover, to rebuild <span
-id="EndNote War 1.12a"></span>[(12)](#EndNote%20War%201.12b) those walls
+id="EndNote War 1.12a"></span>[(12)](#EndNote%20War%201.12b.md) those walls
 of his country that had been thrown down. These honorary grants Caesar
 sent orders to have engraved in the Capitol, that they might stand there
 as indications of his own justice, and of the virtue of Antipater.
@@ -1124,7 +1124,7 @@ affairs of the country by himself, because he saw that Hyrcanus was
 inactive, and not fit to manage the affairs of the kingdom. So he
 constituted his eldest son, Phasaelus, governor of Jerusalem, and of the
 parts about it; he also sent his next son, Herod, who was very young,
-<span id="EndNote War 1.13a"></span>[(13)](#EndNote%20War%201.13b) with
+<span id="EndNote War 1.13a"></span>[(13)](#EndNote%20War%201.13b.md) with
 equal authority into Galilee.
 
 5\. Now Herod was an active man, and soon found proper materials for his
@@ -1236,7 +1236,7 @@ ARE PREVAILED WITH TO KILL HIM.**
 1\. THERE, was at this time a mighty war raised among the Romans upon
 the sudden and treacherous slaughter of Caesar by Cassius and Brutus,
 after he had held the government for three years and seven months. <span
-id="EndNote War 1.14a"></span>[(14)](#EndNote%20War%201.14b) Upon this
+id="EndNote War 1.14a"></span>[(14)](#EndNote%20War%201.14b.md) Upon this
 murder there were very great agitations, and the great men were mightily
 at difference one with another, and every one betook himself to that
 party where they had the greatest hopes of their own, of advancing
@@ -1261,7 +1261,7 @@ others of less note; nay, he proceeded as if he would kill Malichus,
 because he had not made greater haste in exacting his tribute; but
 Antipater prevented the ruin of this man, and of the other cities, and
 got into Cassius's favor by bringing in a hundred talents immediately.
-<span id="EndNote War 1.15a"></span>[(15)](#EndNote%20War%201.15b)
+<span id="EndNote War 1.15a"></span>[(15)](#EndNote%20War%201.15b.md)
 
 3\. However, when Cassius was gone Malichus forgot the kindness that
 Antipater had done him, and laid frequent plots against him that had
@@ -1377,7 +1377,7 @@ of them he gave presents to, and so sent them away, and thereby procured
 good-will to himself from the city, and hatred to the tyrant. Marion had
 indeed obtained that tyrannical power of Cassius, who set tyrants over
 all Syria <span
-id="EndNote War 1.16a"></span>[(16)](#EndNote%20War%201.16b) and out of
+id="EndNote War 1.16a"></span>[(16)](#EndNote%20War%201.16b.md) and out of
 hatred to Herod it was that he assisted Antigonus, the son of
 Aristobulus, and principally on Fabius's account, whom Antigonus had
 made his assistant by money, and had him accordingly on his side when he
@@ -1410,7 +1410,7 @@ the Jews to Daphne by Antioch to Antony, who was already in love with
 Cleopatra to the degree of slavery; these Jews put those men that were
 the most potent, both in dignity and eloquence, foremost, and accused
 the brethren. <span
-id="EndNote War 1.17a"></span>[(17)](#EndNote%20War%201.17b) But Messala
+id="EndNote War 1.17a"></span>[(17)](#EndNote%20War%201.17b.md) But Messala
 opposed them, and defended the brethren, and that while Hyrcanus stood
 by him, on account of his relation to them. When Antony had heard both
 sides, he asked Hyrcanus which party was the fittest to govern, who
@@ -1466,7 +1466,7 @@ Antigonus when he should want his assistance.
 to Antigonus, and showed themselves ready to make an incursion into the
 country; so he sent them before into that place called Drymus, \[the
 woodland <span
-id="EndNote War 1.18a"></span>[(18)](#EndNote%20War%201.18b) \] to seize
+id="EndNote War 1.18a"></span>[(18)](#EndNote%20War%201.18b.md) \] to seize
 upon the place; whereupon a battle was fought between them, and they
 drove the enemy away, and pursued them, and ran after them as far as
 Jerusalem, and as their numbers increased, they proceeded as far as the
@@ -1500,7 +1500,7 @@ kill the plotter, but not expose himself to the snares he had laid for
 him, because the barbarians are naturally perfidious. However, Pacorus
 went out and took Hyrcanus with him, that he might be the less
 suspected; he also <span
-id="EndNote War 1.19a"></span>[(19)](#EndNote%20War%201.19b) left some
+id="EndNote War 1.19a"></span>[(19)](#EndNote%20War%201.19b.md) left some
 of the horsemen, called the Freemen, with Herod, and conducted Phasaelus
 with the rest.
 
@@ -1544,7 +1544,7 @@ the messengers that brought the letters, for that the enemy had not
 taken them, and that the contents of them were not accounts of any plots
 upon them, but of what Phasaelus had done; yet had he heard from others
 that his brother was seized; and Alexandra <span
-id="EndNote War 1.20a"></span>[(20)](#EndNote%20War%201.20b) the
+id="EndNote War 1.20a"></span>[(20)](#EndNote%20War%201.20b.md) the
 shrewdest woman in the world, Hyrcanus's daughter, begged of him that he
 would not go out, nor trust himself to those barbarians, who now were
 come to make an attempt upon him openly.
@@ -1677,7 +1677,7 @@ Cassius. He was there received by his friends, Ptolemy and Sappinius;
 and although he was then in want of money, he fitted up a three-decked
 ship of very great magnitude, wherein he and his friends sailed to
 Brundusium, <span
-id="EndNote War 1.21a"></span>[(21)](#EndNote%20War%201.21b) and went
+id="EndNote War 1.21a"></span>[(21)](#EndNote%20War%201.21b.md) and went
 thence to Rome with all speed; where he first of all went to Antony, on
 account of the friendship his father had with him, and laid before him
 the calamities of himself and his family; and that he had left his
@@ -1747,7 +1747,7 @@ Ptolemais; and as soon as he had gotten together no small army of
 foreigners, and of his own countrymen, he marched through Galilee
 against Antigonus, wherein he was assisted by Ventidius and Silo, both
 whom Dellius, <span
-id="EndNote War 1.22a"></span>[(22)](#EndNote%20War%201.22b) a person
+id="EndNote War 1.22a"></span>[(22)](#EndNote%20War%201.22b.md) a person
 sent by Antony, persuaded to bring Herod \[into his kingdom\]. Now
 Ventidius was at this time among the cities, and composing the
 disturbances which had happened by means of the Parthians, as was Silo
@@ -1843,7 +1843,7 @@ marched to take the remaining parts of Galilee, and to drive away the
 garrisons placed there by Antigonus.
 
 2\. But when Herod had reached Sepphoris, <span
-id="EndNote War 1.23a"></span>[(23)](#EndNote%20War%201.23b) in a very
+id="EndNote War 1.23a"></span>[(23)](#EndNote%20War%201.23b.md) in a very
 great snow, he took the city without any difficulty; the guards that
 should have kept it flying away before it was assaulted; where he gave
 an opportunity to his followers that had been in distress to refresh
@@ -1853,7 +1853,7 @@ overran a great part of the country, and did as great mischief to its
 inhabitants as a war itself could have done. Accordingly, he sent
 beforehand three cohorts of footmen, and one troop of horsemen, to the
 village Arbela, and came himself forty days afterwards <span
-id="EndNote War 1.24a"></span>[(24)](#EndNote%20War%201.24b) with the
+id="EndNote War 1.24a"></span>[(24)](#EndNote%20War%201.24b.md) with the
 rest of his forces Yet were not the enemy aftrighted at his assault but
 met him in arms; for their skill was that of warriors, but their
 boldness was the boldness of robbers: when therefore it came to a
@@ -1950,7 +1950,7 @@ sensible of his offenses, and followed after the king immediately, and
 earnestly begged and obtained that he would be reconciled to him.
 However, Herod did not desist from his resolution of going to Antony;
 but when he heard that he was besieging Samosata <span
-id="EndNote War 1.25a"></span>[(25)](#EndNote%20War%201.25b) with a
+id="EndNote War 1.25a"></span>[(25)](#EndNote%20War%201.25b.md) with a
 great army, which is a strong city near to Euphrates, he made the
 greater haste; as observing that this was a proper opportunity for
 showing at once his courage, and for doing what would greatly oblige
@@ -2161,7 +2161,7 @@ ages, like madmen. Then it was that Antigonus, without any regard to his
 former or to his present fortune, came down from the citadel, and fell
 at Sosius's feet, who without pitying him at all, upon the change of his
 condition, laughed at him beyond measure, and called him Antigona. <span
-id="EndNote War 1.26a"></span>[(26)](#EndNote%20War%201.26b) Yet did he
+id="EndNote War 1.26a"></span>[(26)](#EndNote%20War%201.26b.md) Yet did he
 not treat him like a woman, or let him go free, but put him into bonds,
 and kept him in custody.
 
@@ -2187,7 +2187,7 @@ Sosius himself, whereby nobody went away but in a wealthy condition.
 Hereupon Sosius dedicated a crown of gold to God, and then went away
 from Jerusalem, leading Antigonus away in bonds to Antony; then did the
 axe bring him to his end, <span
-id="EndNote War 1.27a"></span>[(27)](#EndNote%20War%201.27b) who still
+id="EndNote War 1.27a"></span>[(27)](#EndNote%20War%201.27b.md) who still
 had a fond desire of life, and some frigid hopes of it to the last, but
 by his cowardly behavior well deserved to die by it.
 
@@ -2214,7 +2214,7 @@ He also took away a great deal of their country; nay, even the
 plantation of palm trees at Jericho, where also grows the balsam tree,
 and bestowed them upon her; as also all the cities on this side the
 river Eleutherus, Tyre and Sidon <span
-id="EndNote War 1.28a"></span>[(28)](#EndNote%20War%201.28b) excepted.
+id="EndNote War 1.28a"></span>[(28)](#EndNote%20War%201.28b.md) excepted.
 And when she was become mistress of these, and had conducted Antony in
 his expedition against the Parthians as far as Euphrates, she came by
 Apamia and Damascus into Judea and there did Herod pacify her
@@ -2272,7 +2272,7 @@ for Herod: however, he was even with the Arabians afterward, and overran
 their country, and did them more harm than their single victory could
 compensate. But as he was avenging himself on his enemies, there fell
 upon him another providential calamity; for in the seventh <span
-id="EndNote War 1.29a"></span>[(29)](#EndNote%20War%201.29b) year of his
+id="EndNote War 1.29a"></span>[(29)](#EndNote%20War%201.29b.md) year of his
 reign, when the war about Actium was at the height, at the beginning of
 the spring, the earth was shaken, and destroyed an immense number of
 cattle, with thirty thousand men; but the army received no harm, because
@@ -2342,7 +2342,7 @@ ambassadors will conduct this war of ours better than we ourselves who
 are alive. And if you will be ruled by me, I will myself go before you
 into danger; for you know this well enough, that your courage is
 irresistible, unless you hurt yourselves by acting rashly. <span
-id="EndNote War 1.30a"></span>[(30)](#EndNote%20War%201.30b)
+id="EndNote War 1.30a"></span>[(30)](#EndNote%20War%201.30b.md)
 
 5\. When Herod had encouraged them by this speech, and he saw with what
 alacrity they went, he offered sacrifice to God; and after that
@@ -2456,7 +2456,7 @@ dead, he did not only bestow other marks of honor upon him, but made an
 addition to his kingdom, by giving him not only the country which had
 been taken from him by Cleopatra, but besides that, Gadara, and Hippos,
 and Samaria; and moreover, of the maritime cities, Gaza <span
-id="EndNote War 1.31a"></span>[(31)](#EndNote%20War%201.31b) and
+id="EndNote War 1.31a"></span>[(31)](#EndNote%20War%201.31b.md) and
 Anthedon, and Joppa, and Strato's Tower. He also made him a present of
 four hundred Galls \[Galatians\] as a guard for his body, which they had
 been to Cleopatra before. Nor did any thing so strongly induce Caesar to
@@ -2499,7 +2499,7 @@ upon it were vastly large also, and the riches about it were
 unspeakable. A sign of which you have in the great cloisters that were
 erected about the temple, and the citadel which was on its north side.
 The cloisters he built from the foundation, but the citadel <span
-id="EndNote War 1.32a"></span>[(32)](#EndNote%20War%201.32b) he repaired
+id="EndNote War 1.32a"></span>[(32)](#EndNote%20War%201.32b.md) he repaired
 at a vast expense; nor was it other than a royal palace, which he called
 Antonia, in honor of Antony. He also built himself a palace in the Upper
 city, containing two very large and most beautiful apartments; to which
@@ -2554,7 +2554,7 @@ waves are raised, and dash upon the rocks, that upon their retreat the
 sea is in a great ferment for a long way. But the king, by the expenses
 he was at, and the liberal disposal of them, overcame nature, and built
 a haven larger than was the Pyrecum <span
-id="EndNote War 1.33a"></span>[(33)](#EndNote%20War%201.33b) \[at
+id="EndNote War 1.33a"></span>[(33)](#EndNote%20War%201.33b.md) \[at
 Athens\]; and in the inner retirements of the water he built other deep
 stations \[for the ships also\].
 
@@ -2593,7 +2593,7 @@ less than that of Jupiter Olympius, which it was made to resemble. The
 other Colossus of Rome was equal to that of Juno at Argos. So he
 dedicated the city to the province, and the haven to the sailors there;
 but the honor of the building he ascribed to Caesar, <span
-id="EndNote War 1.34a"></span>[(34)](#EndNote%20War%201.34b) and named
+id="EndNote War 1.34a"></span>[(34)](#EndNote%20War%201.34b.md) and named
 it Cesarea accordingly.
 
 8\. He also built the other edifices, the amphitheater, and theater, and
@@ -2622,7 +2622,7 @@ the valley that leads northward from Jericho, and named it Phasaelis.
 10\. And as he transmitted to eternity his family and friends, so did he
 not neglect a memorial for himself, but built a fortress upon a mountain
 towards Arabia, and named it from himself, Herodium <span
-id="EndNote War 1.35a"></span>[(35)](#EndNote%20War%201.35b) and he
+id="EndNote War 1.35a"></span>[(35)](#EndNote%20War%201.35b.md) and he
 called that hill that was of the shape of a woman's breast, and was
 sixty furlongs distant from Jerusalem, by the same name. He also
 bestowed much curious art upon it, with great ambition, and built round
@@ -2689,7 +2689,7 @@ more liberal gifts upon these cities than did their owners themselves.
 excellent hunter, where he generally had good success, by the means of
 his great skill in riding horses; for in one day he caught forty wild
 beasts: <span
-id="EndNote War 1.36a"></span>[(36)](#EndNote%20War%201.36b) that
+id="EndNote War 1.36a"></span>[(36)](#EndNote%20War%201.36b.md) that
 country breeds also bears, and the greatest part of it is replenished
 with stags and wild asses. He was also such a warrior as could not be
 withstood: many men, therefore, there are who have stood amazed at his
@@ -2781,7 +2781,7 @@ her that he had never such an affection for any other woman as he had
 for her, - " Yes," says she, "thou didst, to be sure, demonstrate thy
 love to me by the injunctions thou gavest Joseph, when thou commandedst
 him to kill me." <span
-id="EndNote War 1.37a"></span>[(37)](#EndNote%20War%201.37b)
+id="EndNote War 1.37a"></span>[(37)](#EndNote%20War%201.37b.md)
 
 5\. When he heard that this grand secret was discovered, he was like a
 distracted man, and said that Joseph would never have disclosed that
@@ -2866,7 +2866,7 @@ his suspicions of them. They were followed by Antipater, who was the
 fountain-head of those accusations; yet did not he openly discover his
 hatred to them, as revering him that had reconciled them. But as Herod
 sailed by Cilicia, he touched at Eleusa, <span
-id="EndNote War 1.38a"></span>[(38)](#EndNote%20War%201.38b) where
+id="EndNote War 1.38a"></span>[(38)](#EndNote%20War%201.38b.md) where
 Archclaus treated them in the most obliging manner, and gave him thanks
 for the deliverance of his son-in-law, and was much pleased at their
 reconciliation; and this the more, because he had formerly written to
@@ -3018,7 +3018,7 @@ the ignobility of their descent; and that they were every one chosen by
 him for their beauty, but not for their family. Now those wives of his
 were not a few; it being of old permitted to the Jews to marry many
 wives, <span
-id="EndNote War 1.39a"></span>[(39)](#EndNote%20War%201.39b) and this
+id="EndNote War 1.39a"></span>[(39)](#EndNote%20War%201.39b.md) and this
 king delighting in many; all which hated Alexander, on account of
 Glaphyra's boasting and reproaches.
 
@@ -3271,7 +3271,7 @@ Herod and his nobility as far as Antioch.
 CHAPTER 26.
 
 **HOW EURYCLES <span
-id="EndNote War 1.40a"></span>[(40)](#EndNote%20War%201.40b) CALUMNIATED
+id="EndNote War 1.40a"></span>[(40)](#EndNote%20War%201.40b.md) CALUMNIATED
 THE SONS OF MARIAMNE; AND HOW EUARATUS OF COSTS APOLOGY FOR THEM HAD NO
 EFFECT.**
 
@@ -3291,7 +3291,7 @@ side, so he said and did every thing that might please him, and thereby
 became one of his most intimate friends; for both the king and all that
 were about him had a great regard for this Spartan, on account of his
 country. <span
-id="EndNote War 1.41a"></span>[(41)](#EndNote%20War%201.41b)
+id="EndNote War 1.41a"></span>[(41)](#EndNote%20War%201.41b.md)
 
 2\. Now as soon as this fellow perceived the rotten parts of the family,
 and what quarrels the brothers had one with another, and in what
@@ -3602,12 +3602,12 @@ be able to keep the government, if Alexander's son was to have both his
 grandfather Archelaus and Pheroras for his curators; and he besought him
 earnestly, since there were so many of the royal family alive, that he
 would change those \[intended\] marriages. Now the king had nine wives,
-<span id="EndNote War 1.42a"></span>[(42)](#EndNote%20War%201.42b) and
+<span id="EndNote War 1.42a"></span>[(42)](#EndNote%20War%201.42b.md) and
 children by seven of them; Antipater was himself born of Doris, and
 Herod Philip of Mariamne, the high priest's daughter; Antipas also and
 Archelaus were by Malthace, the Samaritan, as was his daughter Olympias,
 which his brother Joseph's <span
-id="EndNote War 1.43a"></span>[(43)](#EndNote%20War%201.43b) son had
+id="EndNote War 1.43a"></span>[(43)](#EndNote%20War%201.43b.md) son had
 married. By Cleopatra of Jerusalem he had Herod and Philip; and by
 Pallas, Phasaelus; he had also two daughters, Roxana and Salome, the one
 by Phedra, and the other by Elpis; he had also two wives that had no
@@ -3654,7 +3654,7 @@ was also a company of women in the court, which excited new
 disturbances; for Pheroras's wife, together with her mother and sister,
 as also Antipater's mother, grew very impudent in the palace. She also
 was so insolent as to affront the king's two daughters, <span
-id="EndNote War 1.44a"></span>[(44)](#EndNote%20War%201.44b) on which
+id="EndNote War 1.44a"></span>[(44)](#EndNote%20War%201.44b.md) on which
 account the king hated her to a great degree; yet although these women
 were hated by him, they domineered over others: there was only Salome
 who opposed their good agreement, and informed the king of their
@@ -3721,7 +3721,7 @@ president of Syria, they were sent to Rome.
 
 4\. However, Herod did not leave off importuning Pheroras, but proceeded
 to force him to put away his wife; <span
-id="EndNote War 1.45a"></span>[(45)](#EndNote%20War%201.45b) yet could
+id="EndNote War 1.45a"></span>[(45)](#EndNote%20War%201.45b.md) yet could
 he not devise any way by which he could bring the woman herself to
 punishment, although he had many causes of hatred to her; till at length
 he was in such great uneasiness at her, that he cast both her and his
@@ -3928,7 +3928,7 @@ then lay aside the complaints he had against his mother; for Antipater
 was not ignorant that his mother had been expelled out of the palace.
 However, he had before received a letter, which contained an account of
 the death of Pheroras, at Tarentum, <span
-id="EndNote War 1.46a"></span>[(46)](#EndNote%20War%201.46b) and made
+id="EndNote War 1.46a"></span>[(46)](#EndNote%20War%201.46b.md) and made
 great lamentations at it; for which some commended him, as being for his
 own uncle; though probably this confusion arose on account of his having
 thereby failed in his plot \[on his father's life\]; and his tears were
@@ -4102,7 +4102,7 @@ absent, father, on thy affairs, that Sylleus might not treat thee with
 contempt in thine old age. Rome is a witness to my filial affection, and
 so is Caesar, the ruler of the habitable earth, who oftentimes called me
 Philopater. <span
-id="EndNote War 1.47a"></span>[(47)](#EndNote%20War%201.47b) Take here
+id="EndNote War 1.47a"></span>[(47)](#EndNote%20War%201.47b.md) Take here
 the letters he hath sent thee, they are more to be believed than the
 calumnies raised here; these letters are my only apology; these I use as
 the demonstration of that natural affection I have to thee. Remember
@@ -4237,7 +4237,7 @@ he asked them by whose command they had done it, they replied, at the
 command of the law of their country; and when he further asked them how
 they could be so joyful when they were to be put to death, they replied,
 because they should enjoy greater happiness after they were dead. <span
-id="EndNote War 1.48a"></span>[(48)](#EndNote%20War%201.48b)
+id="EndNote War 1.48a"></span>[(48)](#EndNote%20War%201.48b.md)
 
 4\. At this the king was in such an extravagant passion, that he
 overcame his disease \[for the time,\] and went out, and spake to the
@@ -4361,7 +4361,7 @@ Herod.
 
 ENDNOTE
 
-<span id="EndNote War 1.1b"></span>[(1)](#EndNote%20War%201.1a) I see
+<span id="EndNote War 1.1b"></span>[(1)](#EndNote%20War%201.1a.md) I see
 little difference in the several accounts in Josephus about the Egyptian
 temple Onion, of which large complaints are made by his commentators.
 Onias, it seems, hoped to have :made it very like that at Jerusalem, and
@@ -4369,7 +4369,7 @@ of the same dimensions; and so he appears to have really done, as far as
 he was able and thought proper. Of this temple, see Antiq. B. XIII. ch.
 3. sect. 1--3, and Of the War, B. VII. ch. 10. sect. 8.
 
-<span id="EndNote War 1.2b"></span>[(2)](#EndNote%20War%201.2a) Why this
+<span id="EndNote War 1.2b"></span>[(2)](#EndNote%20War%201.2a.md) Why this
 John, the son of Simon, the high priest and governor of the Jews, was
 called Hyrcanus, Josephus no where informs us; nor is he called other
 than John at the end of the First Book of the Maccabees. However, Sixtus
@@ -4379,19 +4379,19 @@ then extant, assures us that he was called Hyrcanus from his conquest of
 one of that name. See Authent. Rec. Part I. p. 207. But of this younger
 Antiochus, see Dean Aldrich's note here.
 
-<span id="EndNote War 1.3b"></span>[(3)](#EndNote%20War%201.3a) Josephus
+<span id="EndNote War 1.3b"></span>[(3)](#EndNote%20War%201.3a.md) Josephus
 here calls this Antiochus the last of the Seleucidae, although there
 remained still a shadow of another king of that family, Antiochus
 Asiaticus, or Commagenus, who reigned, or rather lay hid, till Pompey
 quite turned him out, as Dean Aldrich here notes from Appian and Justin.
 
-<span id="EndNote War 1.4b"></span>[(4)](#EndNote%20War%201.4a) Matthew
+<span id="EndNote War 1.4b"></span>[(4)](#EndNote%20War%201.4a.md) Matthew
 16:19; 18:18. Here we have the oldest and most authentic Jewish
 exposition of binding and loosing, for punishing or absolving men, not
 for declaring actions lawful or unlawful, as some more modern Jews and
 Christians vainly pretend.
 
-<span id="EndNote War 1.5b"></span>[(5)](#EndNote%20War%201.5a) Strabo,
+<span id="EndNote War 1.5b"></span>[(5)](#EndNote%20War%201.5a.md) Strabo,
 B. XVI. p. 740, relates, that this Selene Cleopatra was besieged by
 Tigranes, not in Ptolemais, as here, but after she had left Syria, in
 Seleucia, a citadel in Mesopotamia; and adds, that when he had kept her
@@ -4403,7 +4403,7 @@ city, as the Antiquities inform us, yet does he no where intimate that
 he now took the queen herself; so that both the narrations of Strabo and
 Josephus may still be true notwithstanding.
 
-<span id="EndNote War 1.6b"></span>[(6)](#EndNote%20War%201.6a) That
+<span id="EndNote War 1.6b"></span>[(6)](#EndNote%20War%201.6a.md) That
 this Antipater, the father of Herod the Great was an Idumean, as
 Josephus affirms here, see the note on Antiq. B. XIV. ch. 15. sect. 2.
 It is somewhat probable, as Hapercamp supposes, and partly Spanheim
@@ -4414,22 +4414,22 @@ temple, when he took it a little afterward, ch. 7. sect. 6, and Antiq.
 B. XIV. ch. 4. sect. 4, will to Greek all which agree he did not take
 them.
 
-<span id="EndNote War 1.7b"></span>[(7)](#EndNote%20War%201.7a) Of the
+<span id="EndNote War 1.7b"></span>[(7)](#EndNote%20War%201.7a.md) Of the
 famous palm trees and balsam about Jericho and Engaddl, see the notes in
 Havercamp's edition, both here and B. II. ch. 9. sect. 1. They are
 somewhat too long to be transcribed in this place.
 
-<span id="EndNote War 1.8b"></span>[(8)](#EndNote%20War%201.8a) Thus
+<span id="EndNote War 1.8b"></span>[(8)](#EndNote%20War%201.8a.md) Thus
 says Tacitus: Cn. Pompelna first of all subdued the Jews, and went into
 their temple, by right of conquest, Hist. B. V. ch. 9. Nor did he touch
 any of its riches, as has been observed on the parallel place of the
 Antiquities, B. XIV. ch. 4. sect. 4, out of Cicero himself.
 
-<span id="EndNote War 1.9b"></span>[(9)](#EndNote%20War%201.9a) The coin
+<span id="EndNote War 1.9b"></span>[(9)](#EndNote%20War%201.9a.md) The coin
 of this Gadara, still extant, with its date from this era, is a certain
 evidence of this its rebuilding by Pompey, as Spanheim here assures us.
 
-<span id="EndNote War 1.10b"></span>[(10)](#EndNote%20War%201.10a) Take
+<span id="EndNote War 1.10b"></span>[(10)](#EndNote%20War%201.10a.md) Take
 the like attestation to the truth of this submission of Aretas, king of
 Arabia, to Scaurus the Roman general, in the words of Dean Aldrich.
 "Hence (says he) is derived that old and famous Denarius belonging to
@@ -4439,10 +4439,10 @@ camel's bridle with his left hand, and with his right hand presenting a
 branch of the frankincense tree, with this inscription, M. SCAURUS EX
 S.C.; and beneath, REX ARETAS."
 
-<span id="EndNote War 1.11b"></span>[(11)](#EndNote%20War%201.11a) This
+<span id="EndNote War 1.11b"></span>[(11)](#EndNote%20War%201.11a.md) This
 citation is now wanting.
 
-<span id="EndNote War 1.12b"></span>[(12)](#EndNote%20War%201.12a) What
+<span id="EndNote War 1.12b"></span>[(12)](#EndNote%20War%201.12a.md) What
 is here noted by Hudson and Spanheim, that this grant of leave to
 rebuild the walls of the cities of Judea was made by Julius Caesar, not
 as here to Antipater, but to Hyrcanas, Antiq. B. XIV. ch. 8. sect. 5,
@@ -4451,21 +4451,21 @@ considered only as Hyrcanus's deputy and minister; although he
 afterwards made a cipher of Hyrcanus, and, under great decency of
 behavior to him, took the real authority to himself.
 
-<span id="EndNote War 1.13b"></span>[(13)](#EndNote%20War%201.13a) Or
+<span id="EndNote War 1.13b"></span>[(13)](#EndNote%20War%201.13a.md) Or
 twenty-five years of age. See note on Antiq. B. I. ch. 12. sect. 3; and
 on B. XIV. ch. 9. sect. 2; and Of the War, B. II. ch. 11. sect. 6; and
 Polyb. B. XVII. p. 725. Many writers of the Roman history give an
 account of this murder of Sextus Caesar, and of the war of Apamia upon
 that occasion. They are cited in Dean Aldrich's note.
 
-<span id="EndNote War 1.14b"></span>[(14)](#EndNote%20War%201.14a) In
+<span id="EndNote War 1.14b"></span>[(14)](#EndNote%20War%201.14a.md) In
 the Antiquities, B. XIV. ch. 11. sect. 1, the duration of the reign of
 Julius Caesar is three years six months; but here three years seven
 months, beginning nightly, says Dean Aldrich, from his second
 dictatorship. It is probable the real duration might be three years and
 between six and seven months.
 
-<span id="EndNote War 1.15b"></span>[(15)](#EndNote%20War%201.15a) It
+<span id="EndNote War 1.15b"></span>[(15)](#EndNote%20War%201.15a.md) It
 appears evidently by Josephus's accounts, both here and in his
 Antiquities, B. XIV. ch. 11. sect. 2, that this Cassius, one of Caesar's
 murderers, was a bitter oppressor, and exactor of tribute in Judea.
@@ -4475,42 +4475,42 @@ afterwards. See the note on Antiq. B. XVII. ch. 11. sect. 4. It also
 appears that Galilee then paid no more than one hundred talents, or the
 seventh part of the entire sum to be levied in all the country.
 
-<span id="EndNote War 1.16b"></span>[(16)](#EndNote%20War%201.16a) Here
+<span id="EndNote War 1.16b"></span>[(16)](#EndNote%20War%201.16a.md) Here
 we see that Cassius set tyrants over all Syria; so that his assisting to
 destroy Caesar does not seem to have proceeded from his true zeal for
 public liberty, but from a desire to be a tyrant himself.
 
-<span id="EndNote War 1.17b"></span>[(17)](#EndNote%20War%201.17a)
+<span id="EndNote War 1.17b"></span>[(17)](#EndNote%20War%201.17a.md)
 Phasaelus and Herod.
 
-<span id="EndNote War 1.18b"></span>[(18)](#EndNote%20War%201.18a) This
+<span id="EndNote War 1.18b"></span>[(18)](#EndNote%20War%201.18a.md) This
 large and noted wood, or woodland, belonging to Carmel, called apago by
 the Septuagint, is mentioned in the Old Testament, 2 Kings 19:23; Isaiah
 37:24, and by I Strabo, B. XVI. p. 758, as both Aldrich and Spanheim
 here remark very pertinently.
 
-<span id="EndNote War 1.19b"></span>[(19)](#EndNote%20War%201.19a) These
+<span id="EndNote War 1.19b"></span>[(19)](#EndNote%20War%201.19a.md) These
 accounts, both here and Antiq. B. XIV. ch. 13. sect. 5, that the
 Parthians fought chiefly on horseback, and that only some few of their
 soldiers were free-men, perfectly agree with Trogus Pompeius, in Justin,
 B. XLI. 2, 3, as Dean Aldrich well observes on this place.
 
-<span id="EndNote War 1.20b"></span>[(20)](#EndNote%20War%201.20a)
+<span id="EndNote War 1.20b"></span>[(20)](#EndNote%20War%201.20a.md)
 Mariamac here, in the copies.
 
-<span id="EndNote War 1.21b"></span>[(21)](#EndNote%20War%201.21a) This
+<span id="EndNote War 1.21b"></span>[(21)](#EndNote%20War%201.21a.md) This
 Brentesium or Brundusium has coin still preserved, on which is written,
 as Spanheim informs us.
 
-<span id="EndNote War 1.22b"></span>[(22)](#EndNote%20War%201.22a) This
+<span id="EndNote War 1.22b"></span>[(22)](#EndNote%20War%201.22a.md) This
 Dellius is famous, or rather infamous, in the history of Mark Antony, as
 Spanheim and Aldrich here note, from the coins, from Plutarch and Dio.
 
-<span id="EndNote War 1.23b"></span>[(23)](#EndNote%20War%201.23a) This
+<span id="EndNote War 1.23b"></span>[(23)](#EndNote%20War%201.23a.md) This
 Sepphoris, the metropolis of Galilee, so often mentioned by Josephus,
 has coins still remaining, as Spanheim here informs us.
 
-<span id="EndNote War 1.24b"></span>[(24)](#EndNote%20War%201.24a) This
+<span id="EndNote War 1.24b"></span>[(24)](#EndNote%20War%201.24a.md) This
 way of speaking, "after forty days," is interpreted by Josephus himself,
 "on the fortieth day," Antiq. B. XIV. ch. 15. sect. 4. In like manner,
 when Josephus says, ch. 33. sect. 8, that Herod lived "after" he had
@@ -4521,28 +4521,28 @@ two years," is, Antiq. B. XIV. ch. 13. sect. 3, "on the second year."
 And Dean Aldrich here notes that this way of speaking is familiar to
 Josephus.
 
-<span id="EndNote War 1.25b"></span>[(25)](#EndNote%20War%201.25a) This
+<span id="EndNote War 1.25b"></span>[(25)](#EndNote%20War%201.25a.md) This
 Samosata, the metropolis of Commagena, is well known from its coins, as
 Spanheim here assures us. Dean Aldrich also confirms what Josephus here
 notes, that Herod was a great means of taking the city by Antony, and
 that from Plutarch and Dio.
 
-<span id="EndNote War 1.26b"></span>[(26)](#EndNote%20War%201.26a) That
+<span id="EndNote War 1.26b"></span>[(26)](#EndNote%20War%201.26a.md) That
 is, a woman, not, a man.
 
-<span id="EndNote War 1.27b"></span>[(27)](#EndNote%20War%201.27a) This
+<span id="EndNote War 1.27b"></span>[(27)](#EndNote%20War%201.27a.md) This
 death of Antigonus is confirmed by Plutarch and. Straho; the latter of
 whom is cited for it by Josephus himself, Antiq. B. XV. ch. 1. sect. 2,
 as Dean Aldrich here observes.
 
-<span id="EndNote War 1.28b"></span>[(28)](#EndNote%20War%201.28a) This
+<span id="EndNote War 1.28b"></span>[(28)](#EndNote%20War%201.28a.md) This
 ancient liberty of Tyre and Sidon under the Romans, taken notice of by
 Josephus, both here and Antiq. B. XV. ch. 4. sect. 1, is confirmed by
 the testimony of Sirabe, B. XVI. p. 757, as Dean Aldrich remarks;
 although, as he justly adds, this liberty lasted but a little while
 longer, when Augtus took it away from them.
 
-<span id="EndNote War 1.29b"></span>[(29)](#EndNote%20War%201.29a) This
+<span id="EndNote War 1.29b"></span>[(29)](#EndNote%20War%201.29a.md) This
 seventh year of the reign of Herod \[from the conquest or death of
 Antigonus\], with the great earthquake in the beginning of the same
 spring, which are here fully implied to be not much before the fight at
@@ -4556,13 +4556,13 @@ the Christian era, contained the latter part of a Sabbatic year, on
 which Sabbatic year, therefore, it is plain this great earthquake
 happened in Judea.
 
-<span id="EndNote War 1.30b"></span>[(30)](#EndNote%20War%201.30a) This
+<span id="EndNote War 1.30b"></span>[(30)](#EndNote%20War%201.30a.md) This
 speech of Herod is set down twice by Josephus, here and Antiq. B. XV.
 ch. 5. sect. 3, to the very same purpose, but by no means in the same
 words; whence it appears that the sense was Herod's, but the composition
 Josephus's.
 
-<span id="EndNote War 1.31b"></span>[(31)](#EndNote%20War%201.31a) Since
+<span id="EndNote War 1.31b"></span>[(31)](#EndNote%20War%201.31a.md) Since
 Josephus, both here and in his Antiq. B. XV. ch. 7. sect. 3, reckons
 Gaza, which had been a free city, among the cities given Herod by
 Augustus, and yet implies that Herod had made Costobarus a governor of
@@ -4572,7 +4572,7 @@ thought he had sufficient authority to put a governor into Gaza, after
 he was made tetrarch or king, in times of war, before the city was
 entirely delivered into his hands by Augustus.
 
-<span id="EndNote War 1.32b"></span>[(32)](#EndNote%20War%201.32a) This
+<span id="EndNote War 1.32b"></span>[(32)](#EndNote%20War%201.32a.md) This
 fort was first built, as it is supposed, by John Hyrcanus; see Prid. at
 the year 107; and called "Baris," the Tower or Citadel. It was
 afterwards rebuilt, with great improvements, by Herod, under the
@@ -4582,7 +4582,7 @@ his last hand to it. See Antiq. B. XVIII. ch. 5. sect. 4; Of the War, B.
 I. ch. 3. sect. 3; ch. 5. sect. 4. It lay on the northwest side of the
 temple, and was a quarter as large.
 
-<span id="EndNote War 1.33b"></span>[(33)](#EndNote%20War%201.33a) That
+<span id="EndNote War 1.33b"></span>[(33)](#EndNote%20War%201.33a.md) That
 Josephus speaks truth, when he assures us that the haven of this Cesarea
 was made by Herod not less, nay rather larger, than that famous haven at
 Athens, called the Pyrecum, will appear, says Dean Aldrich, to him who
@@ -4590,14 +4590,14 @@ compares the descriptions of that at Athens in Thucydides and Pausanias,
 with this of Cesarea in Josephus here, and in the Antiq. B. XV. ch. 9.
 sect. 6, and B. XVII. ch. 9. sect. 1.
 
-<span id="EndNote War 1.34b"></span>[(34)](#EndNote%20War%201.34a) These
+<span id="EndNote War 1.34b"></span>[(34)](#EndNote%20War%201.34a.md) These
 buildings of cities by the name of Caesar, and institution of solemn
 games in honor of Augustus Caesar, as here, and in the Antiquities,
 related of Herod by Josephus, the Roman historians attest to, as things
 then frequent in the provinces of that empire, as Dean Aldrich observes
 on this chapter.
 
-<span id="EndNote War 1.35b"></span>[(35)](#EndNote%20War%201.35a) There
+<span id="EndNote War 1.35b"></span>[(35)](#EndNote%20War%201.35a.md) There
 were two cities, or citadels, called Herodium, in Judea, and both
 mentioned by Josephus, not only here, but Antiq. B. XIV. ch. 13. sect.
 9; B. XV. ch. 9. sect. 6; Of the War, B. I. ch. 13. sect. 8; B. III. ch.
@@ -4605,12 +4605,12 @@ mentioned by Josephus, not only here, but Antiq. B. XIV. ch. 13. sect.
 distant from Jerusalem. One of them is mentioned by Pliny, Hist. Nat. B.
 V. ch. 14., as Dean Aldrich observes here.
 
-<span id="EndNote War 1.36b"></span>[(36)](#EndNote%20War%201.36a) Here
+<span id="EndNote War 1.36b"></span>[(36)](#EndNote%20War%201.36a.md) Here
 seems to be a small defect in the copies, which describe the wild beasts
 which were hunted in a certain country by Herod, without naming any such
 country at all.
 
-<span id="EndNote War 1.37b"></span>[(37)](#EndNote%20War%201.37a) Here
+<span id="EndNote War 1.37b"></span>[(37)](#EndNote%20War%201.37a.md) Here
 is either a defect or a great mistake in Josephus's present copies or
 memory; for Mariamne did not now reproach Herod with this his first
 injunction to Joseph to kill her, if he himself were slain by Antony,
@@ -4618,7 +4618,7 @@ but that he had given the like command a second time to Soemus also,
 when he was afraid of being slain by Augustus. Antiq. B. XV. ch. 3.
 sect. 5, etc.
 
-<span id="EndNote War 1.38b"></span>[(38)](#EndNote%20War%201.38a) That
+<span id="EndNote War 1.38b"></span>[(38)](#EndNote%20War%201.38a.md) That
 this island Eleusa, afterward called Sebaste, near Cilicia, had in it
 the royal palace of this Archclaus, king of Cappadocia, Strabo
 testifies, B. XV. p. 671. Stephanus of Byzantiam also calls it "an
@@ -4626,7 +4626,7 @@ island of Cilicia, which is now Sebaste;" both whose testimonies are
 pertinently cited here by Dr. Hudson. See the same history, Antiq. B.
 XVI. ch. 10. sect. 7.
 
-<span id="EndNote War 1.39b"></span>[(39)](#EndNote%20War%201.39a) That
+<span id="EndNote War 1.39b"></span>[(39)](#EndNote%20War%201.39a.md) That
 it was an immemorial custom among the Jews, and their forefathers, the
 patriarchs, to have sometimes more wives or wives and concubines, than
 one at the same the and that this polygamy was not directly forbidden in
@@ -4640,7 +4640,7 @@ hardness of their hearts," suffered them to have several wives at the
 same time, but that "from the beginning it was not so," Matthew 19:8;
 Mark 10:5.
 
-<span id="EndNote War 1.40b"></span>[(40)](#EndNote%20War%201.40a) This
+<span id="EndNote War 1.40b"></span>[(40)](#EndNote%20War%201.40a.md) This
 vile fellow, Eurycles the Lacedemonian, seems to have been the same who
 is mentioned by Plutarch, as (twenty-live years before) a companion to
 Mark Antony, and as living with Herod; whence he might easily insinuate
@@ -4652,16 +4652,16 @@ Spartans to be of kin to the Jews, and derived from their common
 ancestor Abraham, the first patriarch of the Jewish nation, Antiq. B.
 XII. ch. 4. sect. 10; B. XIII. ch. 5. sect. 8; and 1 Macc. 12:7.
 
-<span id="EndNote War 1.41b"></span>[(41)](#EndNote%20War%201.41a) See
+<span id="EndNote War 1.41b"></span>[(41)](#EndNote%20War%201.41a.md) See
 the preceding note.
 
-<span id="EndNote War 1.42b"></span>[(42)](#EndNote%20War%201.42a) Dean
+<span id="EndNote War 1.42b"></span>[(42)](#EndNote%20War%201.42a.md) Dean
 Aldrich takes notice here, that these nine wives of Herod were alive at
 the same time; and that if the celebrated Mariamne, who was now dead, be
 reckoned, those wives were in all ten. Yet it is remarkable that he had
 no more than fifteen children by them all.
 
-<span id="EndNote War 1.43b"></span>[(43)](#EndNote%20War%201.43a) To
+<span id="EndNote War 1.43b"></span>[(43)](#EndNote%20War%201.43a.md) To
 prevent confusion, it may not be amiss, with Dean Aldrich, to
 distinguish between four Josephs in the history of Herod. 1. Joseph,
 Herod's uncle, and the \[second\] husband of his sister Salome, slain by
@@ -4670,12 +4670,12 @@ treasurer, slain on the same account. 3. Joseph, Herod's brother, slain
 in battle against Antigonus. 4. Joseph, Herod's nephew, the husband of
 Olympias, mentioned in this place.
 
-<span id="EndNote War 1.44b"></span>[(44)](#EndNote%20War%201.44a) These
+<span id="EndNote War 1.44b"></span>[(44)](#EndNote%20War%201.44a.md) These
 daughters of Herod, whom Pheroras's wife affronted, were Salome and
 Roxana, two virgins, who were born to him of his two wives, Elpide and
 Phedra. See Herod's genealogy, Antiq. B. XVII. ch. 1. sect. 3.
 
-<span id="EndNote War 1.45b"></span>[(45)](#EndNote%20War%201.45a) This
+<span id="EndNote War 1.45b"></span>[(45)](#EndNote%20War%201.45a.md) This
 strange obstinacy of Pheroras in retaining his wife, who was one of a
 low family, and refusing to marry one nearly related to Herod, though he
 so earnestly desired it, as also that wife's admission to the counsels
@@ -4688,13 +4688,13 @@ translated from Herod to Pheroras's posterity and that most probably to
 Pheroras's posterity by this his wife, also would prove true. See Antiq.
 B. XVII. ch. 2. sect. 4; and ch. 3. sect. 1.
 
-<span id="EndNote War 1.46b"></span>[(46)](#EndNote%20War%201.46a) This
+<span id="EndNote War 1.46b"></span>[(46)](#EndNote%20War%201.46a.md) This
 Tarentum has coins still extant, as Reland informs us here in his note.
 
-<span id="EndNote War 1.47b"></span>[(47)](#EndNote%20War%201.47a) A
+<span id="EndNote War 1.47b"></span>[(47)](#EndNote%20War%201.47a.md) A
 lover of his father.
 
-<span id="EndNote War 1.48b"></span>[(48)](#EndNote%20War%201.48a) Since
+<span id="EndNote War 1.48b"></span>[(48)](#EndNote%20War%201.48a.md) Since
 in these two sections we have an evident account of the Jewish opinions
 in the days of Josephus, about a future happy state, and the
 resurrection of the dead, as in the New Testament, John 11:24, I shall
@@ -4720,4 +4720,4 @@ B. XIII. ch. 5. sect. 9, and ch. 10. sect. 4, 5; B. XVIII. ch. 1. sect.
 2-14. Nor does St. Paul himself reason to Gentiles at Athens, Acts
 17:16-34, as he does to Jews in his Epistles.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

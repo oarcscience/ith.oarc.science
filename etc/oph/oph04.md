@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](oph03)  [Next](oph05) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](oph03)  [Next](oph05.md) 
 
 ------------------------------------------------------------------------
 
@@ -685,4 +685,4 @@ readily admitted.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](oph05)
+[Next: Chapter 5](oph05.md)

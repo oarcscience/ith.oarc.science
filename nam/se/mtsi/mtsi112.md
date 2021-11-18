@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi111)  [Next](mtsi113) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi111)  [Next](mtsi113.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ This is the way it has been told.
 
 ------------------------------------------------------------------------
 
-[Next: 20. The Wolves and the Dogs](mtsi113)
+[Next: 20. The Wolves and the Dogs](mtsi113.md)

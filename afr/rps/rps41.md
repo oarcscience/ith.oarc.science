@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps40)  [Next](rps42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps40)  [Next](rps42.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ His Majesty King MELCHISEDEC'S AFFIDAVIT.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 40. The Ethiopian People's Ordination](rps42)
+[Next: Chapter 40. The Ethiopian People's Ordination](rps42.md)

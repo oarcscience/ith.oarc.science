@@ -1,31 +1,31 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg15) [Next](aflg17)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg15) [Next](aflg17.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_308">p. 308</span>
 
-## C<span class="small">HAPTER</span> XVI SEXUAL LIFE<span id="page_308_fr_1"></span>[1](#page_308_note_1)
+## C<span class="small">HAPTER</span> XVI SEXUAL LIFE<span id="page_308_fr_1"></span>[1](#page_308_note_1.md)
 
-   <span class="small">Puberty Ordeals (*[267](#pp_267)*): fasting
-(*[268](#pp_268)*); exposure to ant bites (*[269](#pp_269)*);
-scarification (*[270](#pp_270)*); flogging (*[271](#pp_271)*); other
+   <span class="small">Puberty Ordeals (*[267](#pp_267)*.md): fasting
+(*[268](#pp_268)*); exposure to ant bites (*[269](#pp_269)*.md);
+scarification (*[270](#pp_270)*); flogging (*[271](#pp_271)*.md); other
 inconveniences in connection with isolation, water, fire, cooking, and
-the hair (*[272](#pp_272)*); conclusion of ceremony (*[273](#pp_273)*).
-Similar ordeals at subsequent menstruations (*[274](#pp_274)*).  
-   Courtship: Tokens of accepted proposals (*[275](#pp_275)*).  
-   Marriage Ordeals: Similar to those at puberty (*[276](#pp_276)*), but
-additional trials of skill, etc., for males (*[277](#pp_277)-278*).
-Family Restrictions on Marriage (*[278A](#pp_278A)*).  
+the hair (*[272](#pp_272)*); conclusion of ceremony (*[273](#pp_273)*.md).
+Similar ordeals at subsequent menstruations (*[274](#pp_274)*.md).  
+   Courtship: Tokens of accepted proposals (*[275](#pp_275)*.md).  
+   Marriage Ordeals: Similar to those at puberty (*[276](#pp_276)*.md), but
+additional trials of skill, etc., for males (*[277](#pp_277)-278*.md).
+Family Restrictions on Marriage (*[278A](#pp_278A)*.md).  
    Childbirth Ordeals: Pre-natal, for one or both parents
-(*[279](#pp_279)*); Post-natal—fasting, scarification, flogging
-(*[280](#pp_280)*), isolation and couvade (*[281](#pp_281)*); Male as
-parturient parent (*[281A](#pp_281A)*); Miscellaneous restrictions
-(*[282](#pp_282), 283*); Destruction of new-born child, Twins
-(*[284](#pp_284)*). Asexual genesis of children (*[284A](#pp_284A)*).
-Birth marks (*[284B](#pp_284B)*).</span>
+(*[279](#pp_279)*.md); Post-natal—fasting, scarification, flogging
+(*[280](#pp_280)*), isolation and couvade (*[281](#pp_281)*.md); Male as
+parturient parent (*[281A](#pp_281A)*.md); Miscellaneous restrictions
+(*[282](#pp_282), 283*.md); Destruction of new-born child, Twins
+(*[284](#pp_284)*). Asexual genesis of children (*[284A](#pp_284A)*.md).
+Birth marks (*[284B](#pp_284B)*.md).</span>
 
-   <span id="pp_267"></span>**267.**[\*](#pp_267) In many of the tribes,
+   <span id="pp_267"></span>**267.**[\*](#pp_267.md) In many of the tribes,
 as the Warraus and the Caribs, the young people of both sexes can not
 enter into permanent sexual partnership until they have successfully
 undergone the puberty ordeals (Cr, 612); in others, the betrothal or
@@ -42,14 +42,14 @@ the young people being healthy and strong, willing to work, skilful, and
 industrious. In the case of the female, the general tenor of the facts
 points to a belief in her being possessed by some Spirit prone to evil,
 whose influence so far as practicable, has to be counteracted and
-destroyed. Hence the piai blows on ([Sect. *85*](aflg05.htm#pp_85)) and
+destroyed. Hence the piai blows on ([Sect. *85*](aflg05.htm#pp_85).md) and
 mutters over the \[Makusi\] girl and her more valuable belongings so as
 to disenchant her and everything she has come into contact with (ScR,
 <span class="small">II</span>, 316) Some of the ordeals may be repeated,
 though in a less degree, at the second, perhaps at the third menstrual
 period.
 
-   <span id="pp_268"></span>**268.**[\*](#pp_268) To account for this
+   <span id="pp_268"></span>**268.**[\*](#pp_268.md) To account for this
 enforced abstinence from sufficient food on the part of the women at
 times of menstruation, a cacique on the Orinoco told Gumilla: "Our
 ancestors observed that wherever the women, during their monthly
@@ -77,7 +77,7 @@ to utter a word. She was subsequently starved for a month on a diet of
 roots, cassava bread, and water (ScR, <span class="small">II</span>,
 431). Girls may die under this treatment.
 
-   <span id="pp_269"></span>**269.**[\*](#pp_269) In order that the
+   <span id="pp_269"></span>**269.**[\*](#pp_269.md) In order that the
 Arawak girl, now become a woman, may henceforth have strength and
 willingness to work, some old stranger whose character is known to be
 strong and good, and a willing worker, is chosen to place an ant-frame
@@ -123,7 +123,7 @@ attached at their centers, some big black ants. All the people of the
 tribe, irrespective of age or sex, presented themselves for me to apply
 it to their bodies, loins, thighs, etc." (Cr, 300).
 
-   <span id="pp_270"></span>**270.**[\*](#pp_270) The Warrau boys had to
+   <span id="pp_270"></span>**270.**[\*](#pp_270.md) The Warrau boys had to
 undergo at initiation greater ordeals than the girls, to demonstrate
 their strength and manly prowess. These ordeals consisted principally in
 the infliction of painful wounds upon the breast and arms with the tusk
@@ -142,7 +142,7 @@ only after having passed the necessary ordeals (PBa, 225). In Cayenne
 again, the girl is said to have her teeth filed down by the piai at her
 puberty initiation (LAP, <span class="small">II</span>, 267).
 
-   <span id="pp_271"></span>**271.**[\*](#pp_271) On returning from her
+   <span id="pp_271"></span>**271.**[\*](#pp_271.md) On returning from her
 first bath \[after the first menstrul period\] the Makusi girl must
 during the night sit upon a stool or stone, to be whipped by her mother
 with thin rods without raising the slightest cry to wake the sleeping
@@ -153,14 +153,14 @@ place also at the second menstrual period, but not subsequently (ScR,
 Ynirida \[upper Orinoco\], the "Devil" who three days before has been
 making terrible music in the forest at last enters the house of the poor
 young girl, who tries to take to flight. A piai at this moment runs up
-and, binding her eyes ([Sect. *255*](aflg15.htm#pp_255)), leads her
+and, binding her eyes ([Sect. *255*](aflg15.htm#pp_255).md), leads her
 through the village while the Devil all by himself is making a frightful
 hubbub. Now is the time for the festival of the beating with the sticks,
 when the men strike the unfortunate girl, who dares not complain. At
 last a young man, admiring her courage, takes her place, and exposes
 himself to the blows of the company; if he bears the pain without
 murmuring she chooses him for her husband (Cr, 532). \[Compare [Sect.
-*276*](aflg16.htm#pp_276).\] With the Uaupes River Indians, "all
+*276*](aflg16.htm#pp_276.md).\] With the Uaupes River Indians, "all
 relatives and friends of the parents are assembled, bringing, each of
 them, pieces of sipó (an elastic climber); the girl is then brought out,
 perfectly naked, into the midst of them, when each person present gives
@@ -170,13 +170,13 @@ recovers it is repeated four times at intervals of six hours, and it is
 considered an offence to the parents not to strike hard. During this
 time numerous pots of all kinds of meat and fish have been prepared,
 when the sipós are dipped in them and given to her to lick<span
-id="page_311_fr_1"></span>[1](#page_311_note_1) and she is then
+id="page_311_fr_1"></span>[1](#page_311_note_1.md) and she is then
 considered a woman and allowed to eat anything, and is marriageable. The
 boys undergo a somewhat similar ordeal \[at puberty, as the girls\] but
 not so severe, which initiates them into manhood, and allows them to see
 the Jurupari music" (ARW, 345).
 
-   <span id="pp_272"></span>**272.**[\*](#pp_272) What may be regarded
+   <span id="pp_272"></span>**272.**[\*](#pp_272.md) What may be regarded
 as remaining puberty ordeals to which the young girl has to submit at
 her first menstruation, and to a minor degree at all her subsequent
 ones, are certain procedures connected with her isolation, with water,
@@ -218,7 +218,7 @@ burned off (ScR, <span class="small">II</span>, 431). On the Aiary River
 and dance ornaments by the men (KG, <span class="small">I</span>, 181;
 <span class="small">II</span>, 253).
 
-   <span id="pp_273"></span>**273.**[\*](#pp_273) As a rule the puberty
+   <span id="pp_273"></span>**273.**[\*](#pp_273.md) As a rule the puberty
 ordeal is brought to a conclusion with drink-and-dance party, in which
 the girl herself neither drinks nor dances, though she constitutes of
 course the central object of attraction. If an Arawak, she is brought
@@ -237,7 +237,7 @@ smooth head \[the hair having been cut\], and the arms and legs (ScR,
 In place of the stool they would seem to have employed a stone or (?)
 plate (ScR, <span class="small">II</span>, 431).
 
-   <span id="pp_274"></span>**274.**[\*](#pp_274) The following are the
+   <span id="pp_274"></span>**274.**[\*](#pp_274.md) The following are the
 ordeals regularly undergone by Arawak women at subsequent menstruations,
 and which I understand are undergone, to a greater or less extent, by
 women of other tribes also, for example, the Warraus. The girl takes up
@@ -266,7 +266,7 @@ lower Guaviar the Piapoco husband is said to bring the wife her food
 during the few days that she remains isolated in the special hut (Cr,
 526).
 
-   <span id="pp_275"></span>**275.**[\*](#pp_275) In matters of
+   <span id="pp_275"></span>**275.**[\*](#pp_275.md) In matters of
 courtship the would-be benedict knows that the acceptance of an offering
 of food or of other objects is the token of a favorable, the rejection,
 that of an unfavorable issue. The Arawak lover, after making sure
@@ -294,7 +294,7 @@ drink, together with firewood to light near <span id="page_314">p.
 314</span> his hammock; if he refuses the offer it means that he does
 not want her (PBa, 220).
 
-   <span id="pp_276"></span>**276.**[\*](#pp_276) In none of the tribes
+   <span id="pp_276"></span>**276.**[\*](#pp_276.md) In none of the tribes
 is any sexual union publicly recognized as permanent—the closest
 correspondence I can find to our idea of marriage—prior to the advent of
 womanhood. Certain of the ordeals of puberty are closely paralleled:
@@ -324,13 +324,13 @@ man comes forward and strikes her breasts with a switch—this is her
 future husband: the other men hit her on the shoulders, and she receives
 the flagellation without a groan: her fiancé in his turn is struck with
 the switch, his hands joined above his head and without a murmur (Cr,
-548). \[Compare [Sect. *271*](aflg16.htm#pp_271).\] After the above
+548). \[Compare [Sect. *271*](aflg16.htm#pp_271.md).\] After the above
 ceremony, they place another woman on the grave and pierce the extremity
 of her tongue with a bone: the blood runs down her chest, and a sorcerer
 besmears her breasts with it (Cr, 548).
 
-   <span id="pp_277"></span>**277.**[\*](#pp_277) In most of the tribes
-there were certain trials of skill ([Sect. *30*](aflg02.htm#pp_30)),
+   <span id="pp_277"></span>**277.**[\*](#pp_277.md) In most of the tribes
+there were certain trials of skill ([Sect. *30*](aflg02.htm#pp_30).md),
 certain marriage ordeals, which the would-be suitor had successfully to
 surmount before gaining permanent possession of his wife, in addition to
 the puberty ordeals that had previously to be passed. These marriage
@@ -410,7 +410,7 @@ shooting of the arrow into the woodpecker's nest.
  
 
 <span id="story_107"></span><span
-id="pp_278"></span>**278.**[\*](#pp_278) A W<span class="small">ARNING
+id="pp_278"></span>**278.**[\*](#pp_278.md) A W<span class="small">ARNING
 TO</span> W<span class="small">IVES</span> (A)
 
 >    You must remeinber that in the days of long ago we Arawaks would
@@ -426,7 +426,7 @@ TO</span> W<span class="small">IVES</span> (A)
 > courting a girl, thought he would have no difficulty in gaining
 > permanent possession of her now that all he had to do for his
 > father-in-law was to catch some crabs ([Sect.
-> *365*](aflg21.htm#pp_365)) and cut a field. So when he went and asked
+> *365*](aflg21.htm#pp_365).md) and cut a field. So when he went and asked
 > the old man for his daughter and obtained his consent, he had no
 > compunction in settling down at his new quarters, for with us a
 > husband always lives with his bride before he completes the tests: on
@@ -456,7 +456,7 @@ TO</span> W<span class="small">IVES</span> (A)
 > little "four-eye" fish \[*Tetrophthalmus* sp.\] toward the boat. And
 > while he was there squatting on the bench, with the mukru strands in
 > his hands trying to make his basket, the fish all passed by.<span
-> id="page_317_fr_1"></span>[1](#page_317_note_1) As might have been
+> id="page_317_fr_1"></span>[1](#page_317_note_1.md) As might have been
 > expected, he realized that he was making no progress, so he made the
 > woman surround the shoal a second time, and drive the fish back again,
 > thus allowing him to have another look. She thus continued driving the
@@ -545,7 +545,7 @@ TO</span> W<span class="small">IVES</span> (A)
 > themselves at having treated the young man so badly a little more than
 > a year ago that they could not even eat the cassava, and without even
 > touching it, told their hostess to "take the pot away."<span
-> id="page_318_fr_1"></span>[1](#page_318_note_1) The elder of the two
+> id="page_318_fr_1"></span>[1](#page_318_note_1.md) The elder of the two
 > visitors rose to leave, and expected her daughter to do the same, but
 > the latter said, "No! I intend staying here, with my first husband;
 > whether he beats me or not, I don't care. He has turned out far better
@@ -559,22 +559,22 @@ TO</span> W<span class="small">IVES</span> (A)
 > him, to return to her own people and her second husband, but the first
 > one remained alone in his hammock and was glad to hear her go.
 
-   <span id="pp_278A"></span>**278A.**[\*](#pp_278A) I have been un able
+   <span id="pp_278A"></span>**278A.**[\*](#pp_278A.md) I have been un able
 to confirm Brett's statement as to the members of the Demarena, a
 particular family group, being restricted to connubium only with those
 of the Korobohana family group ([BrB,
-179](../lmbg/lmbg5b.htm#page_179)); otherwise, all the Guiana Indian
+179](../lmbg/lmbg5b.htm#page_179).md); otherwise, all the Guiana Indian
 tribes are exogamous <span id="page_319">p. 319</span> and trace descent
 exclusively through the mother. Certainly among the Arawaks and Warraus,
 sexual union between persons of certain degrees of cousinship is
 regarded in the same light as is incest by Europeans. (See [Sect.
-*131*](aflg09.htm#pp_131).)
+*131*](aflg09.htm#pp_131)..md)
 
-   <span id="pp_279"></span>**279.**[\*](#pp_279) An analysis of the
+   <span id="pp_279"></span>**279.**[\*](#pp_279.md) An analysis of the
 pre-natal and post-natal ordeals undergone by father and mother bring
 into prominence the fact that they bear remarkably strong resemblance to
 those submitted to at puberty (by both sexes) and at menstruation
-([Sect. *267*](aflg16.htm#pp_267) et seq.). In the main, these ordeals
+([Sect. *267*](aflg16.htm#pp_267) et seq..md). In the main, these ordeals
 consist of food restrictions; the tolerance of severe physical pain
 without visible signs of suffering; and procedures connected with
 isolation, with water, fire, and cooking. The proper performance of the
@@ -632,7 +632,7 @@ that the Arawak woman must not laugh, and must not grieve; neither may
 she look at the face of a dead person though it is permissible for her
 to gaze on the body.
 
-   <span id="pp_280"></span>**280.**[\*](#pp_280) And even when the baby
+   <span id="pp_280"></span>**280.**[\*](#pp_280.md) And even when the baby
 does put in an appearance, the mother's troubles, like the father's, are
 far from over; for until her youngster is able to walk well, the Arawak
 mother on the Pomeroon must eat neither deer, turtle, nor iguana,
@@ -690,7 +690,7 @@ some weeks' subsistence on a stinted diet, is "scarified on various
 parts of the body with fish-bones or agouti teeth: very often even he is
 given several lashes with a whip" (PBa, 223-4).
 
-   <span id="pp_281"></span>**281.**[\*](#pp_281) After the birth of the
+   <span id="pp_281"></span>**281.**[\*](#pp_281.md) After the birth of the
 baby come the various procedures connected with the isolation of one or
 both parents; in the case of the father, his so-called "lying-in" is
 spoken of as the *couvade*, and is met with in many tribes, for example,
@@ -748,7 +748,7 @@ With the Uaupes River (Rio Negro) Indians, when a birth takes place in
 the house, everything is taken out of it, even the pans and pots, and
 bows and arrows, till the next day (ARW, 345).
 
-   <span id="pp_281A"></span>**281A.**[\*](#pp_281A) In connection with
+   <span id="pp_281A"></span>**281A.**[\*](#pp_281A.md) In connection with
 this question of couvade, it is of interest to note that from among the
 Caribs I obtained a trace of an idea of the male acting as the
 parturient parent.
@@ -757,7 +757,7 @@ parturient parent.
 
  
 
-<span id="story_108"></span>[\*](#story_108)T<span
+<span id="story_108"></span>[\*](#story_108.md)T<span
 class="small">HE</span> B<span class="small">ROKEN</span> E<span
 class="small">GG</span> (C)
 
@@ -772,7 +772,7 @@ class="small">GG</span> (C)
 > woman and she will have to hatch it." It is only the female that lays
 > eggs nowadays.
 
-   <span id="pp_282"></span>**282.**[\*](#pp_282) There seem to be some
+   <span id="pp_282"></span>**282.**[\*](#pp_282.md) There seem to be some
 curious restrictions concerning water, so far as the father is
 concerned, both previous and subsequent to birth. R. L. Kingston gives
 the following interesting pre-natal example: "While some (True) Caribs
@@ -811,7 +811,7 @@ bodies or heads <span id="page_324">p. 324</span> with their nails. A
 piece of the midrib of the kokerite palm is specially employed for the
 purpose (ScR, <span class="small">II</span>, 314).
 
-   <span id="pp_283"></span>**283.**[\*](#pp_283) In many of the tribes
+   <span id="pp_283"></span>**283.**[\*](#pp_283.md) In many of the tribes
 during the couvade, and often for long afterward, the husband is
 prohibited from engaging in certain of his ordinary occupations. The
 Pomeroon Arawak must neither smoke, lift any heavy weight, use a
@@ -879,9 +879,9 @@ studying them among Arawaks as well as Warraus.
 
    For my own part, I am very much inclined to believe that this little
 Baby Spirit is identical with the Familiar Spirit ([Sect.
-*93A*](aflg07.htm#pp_93A)).
+*93A*](aflg07.htm#pp_93A).md).
 
-   <span id="pp_284"></span>**284.**[\*](#pp_284) In view of the facts
+   <span id="pp_284"></span>**284.**[\*](#pp_284.md) In view of the facts
 mentioned throughout this chapter it is as well to note that, on the
 Orinoco, when an infant (male or female) was born with any defect or
 monstrosity it was put to death (G, <span class="small">II</span>, 60).
@@ -892,7 +892,7 @@ not so general among the savages of Guayana as has been supposed" (ScF,
 first-born children among the Ximánas and Cauxanas, tribes met with
 between the Iça and Japura Rivers (ARW, 355). Among the Zaparos of the
 Napo River (upper Amazon), when a mother having a very young child dies,
-the child is sometimes buried alive ([Sect. *76*](aflg05.htm#pp_76))
+the child is sometimes buried alive ([Sect. *76*](aflg05.htm#pp_76).md)
 with her (AS, 175). On the Orinoco, among the Salivas, twins were
 considered a sign of dishonor.
 
@@ -913,27 +913,27 @@ at the present day, the second-born of the twins being killed, but if of
 different sexes, the girl is sacrificed (KG, <span
 class="small">II</span>, 146).
 
-   <span id="pp_284A"></span>**284A.**[\*](#pp_284A) There are certainly
+   <span id="pp_284A"></span>**284A.**[\*](#pp_284A.md) There are certainly
 traces of a belief in sexual relationships having no necessary
 connection with the production of children. Even at the present day
 women can cohabit with Water Spirits without disastrous consequences
-resulting ([Sect. *186*](aflg12.htm#pp_186)). On the other hand women
+resulting ([Sect. *186*](aflg12.htm#pp_186).md). On the other hand women
 can get babies if they want them, by eating certain binas, plant or
-animal ([Sects. *237*](aflg14.htm#pp_237), [*238*](aflg14.htm#pp_238));
+animal ([Sects. *237*](aflg14.htm#pp_237), [*238*](aflg14.htm#pp_238).md);
 in a case of this kind the <span id="page_326">p. 326</span> child is
 already in existence, its body being attached to, and by some mysterious
 means passing into, the body of the mother. As to the origin of such
 babies, all I can gather is that they arrive in the water of in the
 bush, and hence may make their appearance in our mundane world either as
-a gift from the Water Spirits ([Sect. *186*](aflg12.htm#pp_186)), or at
+a gift from the Water Spirits ([Sect. *186*](aflg12.htm#pp_186).md), or at
 the instigation of the Spirits of the Forest ([Sects.
-*117*](aflg08.htm#pp_117), [*302*](aflg17.htm#pp_302)), with or without
+*117*](aflg08.htm#pp_117), [*302*](aflg17.htm#pp_302).md), with or without
 the agency of the piai. The following is a Warrau story bearing on this
 subject:
 
  
 
-<span id="story_109"></span>[\*](#story_109)T<span
+<span id="story_109"></span>[\*](#story_109.md)T<span
 class="small">HE</span> L<span class="small">ITTLE</span> B<span
 class="small">USH</span> C<span class="small">HILD</span> (W)
 
@@ -957,7 +957,7 @@ class="small">USH</span> C<span class="small">HILD</span> (W)
 > she was delivered of him. Women ever since have borne children in this
 > manner just because Yaburawáko was so unkind to the little bush child.
 
-   <span id="pp_284B"></span>**284B.**[\*](#pp_284B) Arawaks believe
+   <span id="pp_284B"></span>**284B.**[\*](#pp_284B.md) Arawaks believe
 that birth-marks and moles (*namarakan*) are due to the failure of the
 mother, during pregnancy, to get what she wanted. She may have said,
 "Oh! how I should like to have just a bit of marudi!" thoughtlessly
@@ -970,7 +970,7 @@ it begins to fade it is known as *anakwarro*.
 
 ------------------------------------------------------------------------
 
-[Next](aflg17)
+[Next](aflg17.md)
 
 ------------------------------------------------------------------------
 
@@ -978,20 +978,20 @@ it begins to fade it is known as *anakwarro*.
 
 <span id="footnotes_page_308">p. 308</span>
 
-<span id="page_308_note_1"></span>[1](#page_308_fr_1) For the various
+<span id="page_308_note_1"></span>[1](#page_308_fr_1.md) For the various
 charms connected with sexual matters, love and affection, see
 
 Sects. *237-238*.
 
 <span id="footnotes_page_311">p. 311</span>
 
-<span id="page_311_note_1"></span>[1](#page_311_fr_1) Compare the
+<span id="page_311_note_1"></span>[1](#page_311_fr_1.md) Compare the
 licking of the stick by the Kanaima devotee to obtain purification
-([Sect. *329*](aflg18.htm#pp_329)).
+([Sect. *329*](aflg18.htm#pp_329).md).
 
 <span id="footnotes_page_317">p. 317</span>
 
-<span id="page_317_note_1"></span>[1](#page_317_fr_1) The pattern of the
+<span id="page_317_note_1"></span>[1](#page_317_fr_1.md) The pattern of the
 weft of these crab-quakes is known to the Arawaks as the kassaroa, or
 "four-eye fish," from the manner in which the starting strads are
 arranged, like so many "eyes." The idea intended to be conveyed here is
@@ -1001,7 +1001,7 @@ him for a model which he could copy.
 
 <span id="footnotes_page_218">p. 218</span>
 
-<span id="page_318_note_1"></span>[1](#page_318_fr_1) Whenever a visitor
+<span id="page_318_note_1"></span>[1](#page_318_fr_1.md) Whenever a visitor
 comes to a house, he is offered something to eat or drink; to express
 his satisfaction at having had enough, he informs his hostess
 accordingly in this terse manner.

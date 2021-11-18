@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp03) [Next](ycgp05)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp03) [Next](ycgp05.md)
 
 ------------------------------------------------------------------------
 
@@ -23,13 +23,13 @@ mean.
 benevolent die as the cruel and imbecile.
 
    "In life they are known as Yao and Shun<span
-id="page_41_fr_1"></span>[1](#page_41_note_1); dead they are so many
+id="page_41_fr_1"></span>[1](#page_41_note_1.md); dead they are so many
 bones which cannot be distinguished. But if we hasten to enjoy our life,
 we have no time to trouble about what comes after death."
 
 ------------------------------------------------------------------------
 
-[Next](ycgp05)
+[Next](ycgp05.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ we have no time to trouble about what comes after death."
 
 <span id="footnotes_page_41">p. 41</span>
 
-<span id="page_41_note_1"></span>[1](#page_41_fr_1) Yao and Shun, the
+<span id="page_41_note_1"></span>[1](#page_41_fr_1.md) Yao and Shun, the
 two model emperors of antiquity.
 
  

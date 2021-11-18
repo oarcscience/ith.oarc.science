@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic14)  [Next](tic16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic14)  [Next](tic16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ this soul, with its ardent desires and great virtues, helps others and
 kindles their fervour with its own. Yet even after having lost this it
 may still long to benefit others and delight to make known the mercies
 shown by God to those who love and serve Him. <span
-id="fr_184"></span>[1](#fn_184)
+id="fr_184"></span>[1](#fn_184.md)
 
 2\. I knew a person to whom this happened. Although greatly erring, she
 longed that others should profit by the favours God had bestowed on her
@@ -61,7 +61,7 @@ learn from this, sisters, that if we would merit fresh favours and avoid
 losing those we already possess, our only safety lies in obedience and
 in following the law of God. This I say, both to those who have received
 these graces and to those who have not. <span
-id="fr_185"></span>[2](#fn_185)
+id="fr_185"></span>[2](#fn_185.md)
 
 3\. In spite of all I have written, there still seems some difficulty in
 understanding this mansion. The
@@ -73,7 +73,7 @@ despair of doing so because God does not give them the supernatural
 gifts described above. With the help of divine grace true union can
 always be attained by forcing ourselves to renounce our own will and by
 following the will of God in all things. <span
-id="fr_186"></span>[3](#fn_186)
+id="fr_186"></span>[3](#fn_186.md)
 
 4\. Oh, how many of us affirm that we do this, and believe we seek
 nothing else--indeed we would die for the truth of what we say! If this
@@ -82,7 +82,7 @@ again and again, that we have already obtained this grace from God.
 Therefore we need not wish for that other delightful union described
 above, for its chief value lies in the resignation of our will to that
 of God without which it could not be reached. <span
-id="fr_187"></span>[4](#fn_187) Oh, how desirable is this union! The
+id="fr_187"></span>[4](#fn_187.md) Oh, how desirable is this union! The
 happy soul which has attained it will live in this world and in the next
 without care of any sort. No earthly events can trouble it, unless it
 should see itself in danger of losing God or should witness any offence
@@ -98,10 +98,10 @@ desires.
 of sorrow: there are both griefs and joys rising from an impulse of
 nature or from a charity which makes us pity our neighbour, like that
 felt by our Saviour when He raised Lazarus from the dead. <span
-id="fr_188"></span>[5](#fn_188) These feelings do not destroy union with
+id="fr_188"></span>[5](#fn_188.md) These feelings do not destroy union with
 the will of God nor do they disturb the soul by a restless, turbulent,
 and lasting passion. They soon pass away, for as I said of sweetness in
-prayer, <span id="fr_189"></span>[6](#fn_189) they do not affect the
+prayer, <span id="fr_189"></span>[6](#fn_189.md) they do not affect the
 depths of the soul but only its senses and faculties. They are found in
 the former mansions, but do not enter the last of all. Is it necessary,
 in order to attain to this kind of divine union, for the powers of the
@@ -113,7 +113,7 @@ death is facilitated by finding ourselves introduced into a new life;
 here, on the contrary, we must give ourselves the death-blow. I own that
 the work will be much harder, but then it will be of higher value so
 that your reward will be greater if you come forth victorious; <span
-id="fr_190"></span>[7](#fn_190) yet there is no doubt it is possible for
+id="fr_190"></span>[7](#fn_190.md) yet there is no doubt it is possible for
 you to attain this true union with the will of God.
 
 6\. This is the union I have longed for all my life and that I beg our
@@ -125,7 +125,7 @@ few of us ever
 obtain it! Those who are careful not to offend God, and who enter the
 religious state, think there is nothing more to do. How many maggots
 remain in hiding until, like the worm which gnawed at Jonas's ivy, <span
-id="fr_191"></span>[8](#fn_191) they have destroyed our virtues. These
+id="fr_191"></span>[8](#fn_191.md) they have destroyed our virtues. These
 pests are such evils as self-love, self-esteem, rash judgment of others
 even in small matters, and a want of charity in not loving our neighbour
 quite as much as ourselves. Although perforce we satisfy our obligations
@@ -134,7 +134,7 @@ order to obtain perfect union with the will of God.
 
 7\. What do you think, daughters, is His will? That we may become quite
 perfect and so be made one with Him and with His Father as He prayed we
-might be. <span id="fr_192"></span>[9](#fn_192) Observe, then, what is
+might be. <span id="fr_192"></span>[9](#fn_192.md) Observe, then, what is
 wanting in us to obtain this. I assure you it is most painful for me to
 write on this subject, for I see how far I am, through my own fault,
 from having attained perfection. There is no need for us to receive
@@ -146,7 +146,7 @@ bear crosses
 
 <span id="page_143">p. 143</span>
 
-and sickness with joy. <span id="fr_193"></span>[10](#fn_193) This is
+and sickness with joy. <span id="fr_193"></span>[10](#fn_193.md) This is
 well, but it sometimes comes from common sense which, as we cannot help
 ourselves, makes a virtue of necessity. How often the great wisdom of
 the heathen philosophers led them to act thus in trials of this kind!
@@ -161,9 +161,9 @@ to merit union with Him; it is in our power to gain it if we will.
 that we have a genuine love for others. We cannot know whether we love
 God although there may be strong reasons for thinking so, but there can
 be no doubt about whether we love our neighbour or no. <span
-id="fr_194"></span>[11](#fn_194) Be sure that in proportion as you
+id="fr_194"></span>[11](#fn_194.md) Be sure that in proportion as you
 advance in fraternal charity, you are increasing in your love of
-God, <span id="fr_195"></span>[12](#fn_195) for His Majesty bears so
+God, <span id="fr_195"></span>[12](#fn_195.md) for His Majesty bears so
 tender an affection for us that I cannot doubt He will repay our love
 for others by augmenting, in a thousand different ways, that which we
 bear for Him. We should watch most carefully over ourselves in this
@@ -211,7 +211,7 @@ should lose any slight tenderness and devotion they feel, I know how
 little they understand how to attain union with God since they think it
 consists in such things as these. No, sisters, no; our Lord expects
 *works* from us. If you see a sick sister whom you can relieve, <span
-id="fr_196"></span>[13](#fn_196) never fear losing your devotion;
+id="fr_196"></span>[13](#fn_196.md) never fear losing your devotion;
 compassionate her; if she is in pain, feel for it as if it were your own
 and, when there is need, fast so that she may eat, not so much for her
 sake as because you know your Lord asks it of you. This is the true
@@ -223,7 +223,7 @@ sorry for the fault you see in her as if it were yours, hiding it from
 the sight of others.
 
 12\. I have often spoken on this subject elsewhere, <span
-id="fr_197"></span>[14](#fn_197) because, my sisters, if we fail in this
+id="fr_197"></span>[14](#fn_197.md) because, my sisters, if we fail in this
 I know that all is lost: please God this may never be our case. If you
 possess fraternal charity, I assure you that you will certainly obtain
 the union I have described.
@@ -250,57 +250,57 @@ suffered the most painful death of all--the death of the Cross.
 
 ### Footnotes
 
-<span id="fn_184"></span>[139:1](tic15.htm#fr_184) *Life*, ch. vii. 18.
+<span id="fn_184"></span>[139:1](tic15.htm#fr_184.md) *Life*, ch. vii. 18.
 *Way of Perf*. xli. 8.
 
-<span id="fn_185"></span>[139:2](tic15.htm#fr_185) *Life*. ch, vii. 21.
+<span id="fn_185"></span>[139:2](tic15.htm#fr_185.md) *Life*. ch, vii. 21.
 
-<span id="fn_186"></span>[140:3](tic15.htm#fr_186) *Found*. ch. v. 10.
+<span id="fn_186"></span>[140:3](tic15.htm#fr_186.md) *Found*. ch. v. 10.
 'These shall not attain to the true liberty of a pure heart, nor to the
 grace of a delightful familiarity with Me, unless they first resign
 themselves and offer themselves a daily sacrifice to Me: for without
 this, divine union neither is nor will be obtained.' (Imitation, book
 iii. ch. xxxvii. 4.)
 
-<span id="fn_187"></span>[140:4](tic15.htm#fr_187) Philippus a SS.
+<span id="fn_187"></span>[140:4](tic15.htm#fr_187.md) Philippus a SS.
 Trinitate, *l.c.*, p. iii. tr. i, disc. ii. art. 4.
 
-<span id="fn_188"></span>[141:5](tic15.htm#fr_188) St. John xi. 35, 36:
+<span id="fn_188"></span>[141:5](tic15.htm#fr_188.md) St. John xi. 35, 36:
 'Et lacrymatus est Jesus. Dixerunt ergo Judæi: Ecce quomodo amabat cum.'
 
-<span id="fn_189"></span>[141:6](tic15.htm#fr_189) Fourth Mansions, ch.
+<span id="fn_189"></span>[141:6](tic15.htm#fr_189.md) Fourth Mansions, ch.
 i. 5. Fifth Mansions, ch. i. 7.
 
-<span id="fn_190"></span>[141:7](tic15.htm#fr_190) *Way of Perf*. ch.
+<span id="fn_190"></span>[141:7](tic15.htm#fr_190.md) *Way of Perf*. ch.
 xvii. 2.
 
-<span id="fn_191"></span>[142:8](tic15.htm#fr_191) Jonas iv. 6, 7: 'And
+<span id="fn_191"></span>[142:8](tic15.htm#fr_191.md) Jonas iv. 6, 7: 'And
 the Lord God prepared an ivy, and it came up over the head of Jonas, to
 be a shadow over his head, and to cover him, for he was fatigued; and
 Jonas was exceeding glad of the ivy. But God prepared a worm, when the
 morning arose on the following day: and it struck the ivy and it
 withered.'
 
-<span id="fn_192"></span>[142:9](tic15.htm#fr_192) St. John xvii. 22,
+<span id="fn_192"></span>[142:9](tic15.htm#fr_192.md) St. John xvii. 22,
 23: 'Ut sint unum, sicut et nos unum sumus. Ego in eis, et tu in me: ut
 sint consummati in unum.' *Way of Perf.* ch. xxxii. 6.
 
-<span id="fn_193"></span>[143:10](tic15.htm#fr_193) *Way of Perf*. ch.
+<span id="fn_193"></span>[143:10](tic15.htm#fr_193.md) *Way of Perf*. ch.
 ix. i, 2.
 
-<span id="fn_194"></span>[143:11](tic15.htm#fr_194) 1 St. John iv. 20:
+<span id="fn_194"></span>[143:11](tic15.htm#fr_194.md) 1 St. John iv. 20:
 'Qui enim non diligit fratrem suum quem videt, Deum quem non videt
 quomodo potest diligere?'
 
-<span id="fn_195"></span>[143:12](tic15.htm#fr_195) *Way of Perf.* ch.
+<span id="fn_195"></span>[143:12](tic15.htm#fr_195.md) *Way of Perf.* ch.
 xviii. 5.
 
-<span id="fn_196"></span>[145:13](tic15.htm#fr_196) *Way of Perf.* ch.
+<span id="fn_196"></span>[145:13](tic15.htm#fr_196.md) *Way of Perf.* ch.
 vii. 4.
 
-<span id="fn_197"></span>[145:14](tic15.htm#fr_197) *Way of Perf.* ch.
+<span id="fn_197"></span>[145:14](tic15.htm#fr_197.md) *Way of Perf.* ch.
 iv. 3; vii. 4.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Spiritual Espousals](tic16)
+[Next: Chapter IV. Spiritual Espousals](tic16.md)

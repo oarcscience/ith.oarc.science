@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sss06)  [Next](sss08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sss06)  [Next](sss08.md) 
 
 ------------------------------------------------------------------------
 
@@ -246,4 +246,4 @@ to join parted lovers.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Ritual of the Rice-Field](sss08)
+[Next: VI. The Ritual of the Rice-Field](sss08.md)

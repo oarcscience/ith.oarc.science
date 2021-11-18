@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](sph01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](sph01.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ copyright holder.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sph01)
+[Next: Introduction](sph01.md)

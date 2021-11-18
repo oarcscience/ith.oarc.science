@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs04)  [Next](mhs06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs04)  [Next](mhs06.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ evil.
 
 ------------------------------------------------------------------------
 
-[Next: III. Horns And Other Two-pronged Objects](mhs06)
+[Next: III. Horns And Other Two-pronged Objects](mhs06.md)

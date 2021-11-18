@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb31)  [Next](gnfb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb31)  [Next](gnfb33.md) 
 
 </div>
 
@@ -135,6 +135,6 @@ Grimm.
 
 ------------------------------------------------------------------------
 
-[Next: The Crystal Coffin](gnfb33)
+[Next: The Crystal Coffin](gnfb33.md)
 
 </div>

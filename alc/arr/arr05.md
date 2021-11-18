@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr04)  [Next](arr06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr04)  [Next](arr06.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ experts themselves.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Story of Nicholas Flamel](arr06)
+[Next: Chapter III: The Story of Nicholas Flamel](arr06.md)

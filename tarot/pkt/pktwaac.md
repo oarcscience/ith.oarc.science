@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktwa02)  [Next](pktcuki) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktwa02)  [Next](pktcuki.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Ace
 
 <span id="img_waac"></span> <span align="CENTER"> [![](tn/waac.jpg)  
-Click to enlarge](img/waac.jpg)</span>
+Click to enlarge](img/waac.jpg.md)</span>
 
 A hand issuing from a cloud grasps a stout wand or club. *Divinatory
 Meanings*: Creation, invention, enterprise, the powers which result in
@@ -32,4 +32,4 @@ clouded joy.
 
 ------------------------------------------------------------------------
 
-[Next: King of Cups](pktcuki)
+[Next: King of Cups](pktcuki.md)

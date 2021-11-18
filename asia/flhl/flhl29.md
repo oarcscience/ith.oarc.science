@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl28)  [Next](flhl30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl28)  [Next](flhl30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -65,7 +65,7 @@ neighbour for a few figs, he had also brought some and hoped to receive
 a similar reward. On hearing this reply the guards reported the case to
 Harûn, by whose orders the foolish man was pelted with his own fruit.
 Angry and hurt, he went home and divorced the wife whose folly had
-exposed him to such shame. <span id="fr_85"></span>[1](#fn_84)
+exposed him to such shame. <span id="fr_85"></span>[1](#fn_84.md)
 
  
 
@@ -85,7 +85,7 @@ The wazìr obeyed, and the man who had called Allah bountiful was
 gratefully turning away to carry the fowl to his wife when the other
 said to him, "Buy this fowl from me. I have neither wife nor children.
 What I want is money, and not rich food." "I have only a bishlik," <span
-id="fr_86"></span>[1](#fn_85) was the reply, "and that is nothing like
+id="fr_86"></span>[1](#fn_85.md) was the reply, "and that is nothing like
 the value of a roast fowl." "You shall have it for that," said the
 other; and so it happened that the beggar who praised Allah got not only
 a good dinner but also a small fortune.
@@ -141,8 +141,8 @@ arrived, and he at once came in and saluted them. Having assured them
 that his house was theirs, he asked to be excused for a minute, and
 going to the owners of the flock he tended, begged two loaves of wheaten
 bread, as he could not set coarse dhurrah <span
-id="fr_87"></span>[1](#fn_86) bread before his guests. The two loaves
-with some eggs, curds, <span id="fr_88"></span>[2](#fn_87) and olives,
+id="fr_87"></span>[1](#fn_86.md) bread before his guests. The two loaves
+with some eggs, curds, <span id="fr_88"></span>[2](#fn_87.md) and olives,
 made a tempting meal. "But pardon us," said the Sultan, "we are under a
 vow not to eat anything but bread and kidneys for a year and a day."
 Without a word, the host went out, killed his four goats, and broiled
@@ -222,7 +222,7 @@ to his heap and transferred seven measures thence to his brother's
 portion; then went back to sleep. In the morning each was amazed to find
 the heaps still equal; till Allah sent a prophet who informed them that
 their unselfish love was pleasing to the Almighty; and that
-threshing-floor <span id="fr_89"></span>[1](#fn_88) was blessed for
+threshing-floor <span id="fr_89"></span>[1](#fn_88.md) was blessed for
 evermore.
 
  
@@ -264,7 +264,7 @@ have just come from thence, and that the Commander of the Faithful was
 there when you left?" "Yes, my lord." "Very well, you remain here in my
 house till I return, and in the meantime let me have your donkey and its
 empty sack for a few hours. Inshallah, as I am somewhat known to the
-Emìr el Mûmenìn, <span id="fr_90"></span>[1](#fn_89) I shall succeed in
+Emìr el Mûmenìn, <span id="fr_90"></span>[1](#fn_89.md) I shall succeed in
 persuading
 
 <span id="page_170">p. 170</span>
@@ -275,7 +275,7 @@ On hearing these words the poor widow at once consented to his proposal,
 and the Judge departed, driving the ass before him. He soon reached the
 place, and found the Khalìfeh on the spot, giving various orders to the
 architect who was to erect the new palace. On beholding the ruler of El
-Islamìyeh, <span id="fr_91"></span>[1](#fn_90) the Judge, prostrating
+Islamìyeh, <span id="fr_91"></span>[1](#fn_90.md) the Judge, prostrating
 himself before him with every reverence, begged for a private audience
 without delay. The Khalìfeh, who had a great respect for the Kâdi,
 granted his request, and Abdullah, acting as the widow's advocate,
@@ -366,7 +366,7 @@ surety to die in his stead in case he should break his word. The poor
 man looked around him in despair upon the crowd of utter strangers. The
 "nuta ’a" was brought and the executioner advanced to bind his hands. In
 despair he cried out, "Has the race of the manly <span
-id="fr_92"></span>[1](#fn_91) perished? "Receiving no answer, he
+id="fr_92"></span>[1](#fn_91.md) perished? "Receiving no answer, he
 repeated the question with yet greater emphasis, whereupon the noble Abu
 Dhûr, who was one of the "Sohaba" or companions of the Prophet, stepped
 forward and asked the Caliph's permission to become his surety. The
@@ -396,11 +396,11 @@ exhausted to the ground. "Fool," said the Caliph to him, "why didst thou
 return? Hadst thou stayed away, the surety would have died in thy stead
 and thou wouldst have been free." "I returned," replied the man, "in
 order to prove that not only the race of the virtuous has not yet died
-out but also that of the truthful." <span id="fr_93"></span>[1](#fn_92)
+out but also that of the truthful." <span id="fr_93"></span>[1](#fn_92.md)
 "Then why didst thou go away at all?" asked the monarch. "In order,"
 said the man, who was now kneeling with bound hands upon the hide from
 which Abu Dhûr had arisen, "in order to prove that the race of the
-trustworthy <span id="fr_94"></span>[2](#fn_93)
+trustworthy <span id="fr_94"></span>[2](#fn_93.md)
 
 <span id="page_175">p. 175</span>
 
@@ -432,8 +432,8 @@ the races of the
 
 manly, the virtuous, the truthful, and the trustworthy have not yet
 perished; it only remains for me to demonstrate that the races of the
-clement <span id="fr_95"></span>[1](#fn_94) and the generous <span
-id="fr_96"></span>[2](#fn_95) are also still alive, and I therefore not
+clement <span id="fr_95"></span>[1](#fn_94.md) and the generous <span
+id="fr_96"></span>[2](#fn_95.md) are also still alive, and I therefore not
 only pardon the man, but shall pay the 'dìyeh' (blood money) out of my
 own private means."
 
@@ -441,43 +441,43 @@ own private means."
 
 ### Footnotes
 
-<span id="fn_84"></span>[162:1](flhl29.htm#fr_85) Variants of this story
+<span id="fn_84"></span>[162:1](flhl29.htm#fr_85.md) Variants of this story
 are legion in Syria and Egypt, but the greater number could not fitly be
 ranged under the headline, "Moral Tales."--ED.
 
-<span id="fn_85"></span>[163:1](flhl29.htm#fr_86) A coin worth a little
+<span id="fn_85"></span>[163:1](flhl29.htm#fr_86.md) A coin worth a little
 less than sixpence.
 
-<span id="fn_86"></span>[165:1](flhl29.htm#fr_87) Sorghum Annuum.
+<span id="fn_86"></span>[165:1](flhl29.htm#fr_87.md) Sorghum Annuum.
 
-<span id="fn_87"></span>[165:2](flhl29.htm#fr_88) Ar. leben.
+<span id="fn_87"></span>[165:2](flhl29.htm#fr_88.md) Ar. leben.
 
-<span id="fn_88"></span>[168:1](flhl29.htm#fr_89) It was on the hill
+<span id="fn_88"></span>[168:1](flhl29.htm#fr_89.md) It was on the hill
 traditionally known in Zion--the rock-hewn base of a tower which once
 formed the south-west corner of the city wall. It is now part of the
 foundation of Bishop Gobal's school. My authority for alleging it to he
 the scene of the above incident is the sheykh Mahmûd of Debi Daûd, who
 used to tell this story of the twins in connection with it.
 
-<span id="fn_89"></span>[169:1](flhl29.htm#fr_90) Prince of Believers,
+<span id="fn_89"></span>[169:1](flhl29.htm#fr_90.md) Prince of Believers,
 the phrase commonly translated, "Commander of the Faithful."--ED.
 
-<span id="fn_90"></span>[170:1](flhl29.htm#fr_91) The whole region of El
+<span id="fn_90"></span>[170:1](flhl29.htm#fr_91.md) The whole region of El
 Islâm. *Cf*. Christendom.--ED.
 
-<span id="fn_91"></span>[173:1](flhl29.htm#fr_92) Or "virtuous. "Ahl el
+<span id="fn_91"></span>[173:1](flhl29.htm#fr_92.md) Or "virtuous. "Ahl el
 merowah; lit. the family, or race, of manly virtue.
 
-<span id="fn_92"></span>[174:1](flhl29.htm#fr_93) Ahl es sidk.
+<span id="fn_92"></span>[174:1](flhl29.htm#fr_93.md) Ahl es sidk.
 
-<span id="fn_93"></span>[174:2](flhl29.htm#fr_94) Ahl el amâny; lit.
+<span id="fn_93"></span>[174:2](flhl29.htm#fr_94.md) Ahl el amâny; lit.
 "the family of the pledge-acknowledging."
 
-<span id="fn_94"></span>[176:1](flhl29.htm#fr_95) Ahl el ’afu; lit. "the
+<span id="fn_94"></span>[176:1](flhl29.htm#fr_95.md) Ahl el ’afu; lit. "the
 race of pardon."
 
-<span id="fn_95"></span>[176:2](flhl29.htm#fr_96) Ahl el kurrum.
+<span id="fn_95"></span>[176:2](flhl29.htm#fr_96.md) Ahl el kurrum.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Angel of Death](flhl30)
+[Next: V. The Angel of Death](flhl30.md)

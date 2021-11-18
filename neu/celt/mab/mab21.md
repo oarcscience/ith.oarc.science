@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab20)  [Next](mab22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab20)  [Next](mab22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -23,7 +23,7 @@ Textual Heritage
 ### NOTES TO PWYLL PRINCE OF DYVED.
 
 <span id="xref_339a">339a</span> PWYLL.--*Page*
-[339](mab20.htm#page_339).
+[339](mab20.htm#page_339.md).
 
 NEARLY the whole of the Mabinogi of Pwyll Pendevig Dyved, has already
 been printed with a translation in the Cambrian Register, and the story
@@ -32,7 +32,7 @@ has also appeared in Jones's Welsh Bards.
 Who Pwyll (whose name literally signifies Prudence) really was, appears
 to be a matter of uncertainty, but in some of the pedigrees of Gwynvardd
 Dyved, Prince of Dyved, he is said to be the son of Argoel, or Aircol
-Law Hir, <span id="fr_189"></span>[1](#fn_188) son of Pyr y Dwyrain. Mr.
+Law Hir, <span id="fr_189"></span>[1](#fn_188.md) son of Pyr y Dwyrain. Mr.
 Davies, in the "Rites and Mythology of the Druids," states that he was
 the son of Meirig, son of Aircol, son of Pyr, which is rather confirmed
 by some other MS. pedigrees.
@@ -63,14 +63,14 @@ Besides seven none returned from Caer Sidi."
 In subsequent parts of the poem Arthur is spoken of as having himself
 taken a share in the various expeditions which it records. The ship
 Prydwen is well known as one of his treasures. See [p.
-261](mab17.htm#page_261). Gwair's captivity, which one of the Triads
+261](mab17.htm#page_261.md). Gwair's captivity, which one of the Triads
 places in the Castle of Oeth and Annoeth, has been already adverted to,
-[p. 192](mab14.htm#page_192).
+[p. 192](mab14.htm#page_192.md).
 
  
 
 <span id="xref_339b">339b</span> DYVED.--*Page*
-[339](mab20.htm#page_339).
+[339](mab20.htm#page_339.md).
 
 IT often happens, and is a cause of great confusion in comparing ancient
 story with modern topography, that the old names are retained while the
@@ -86,7 +86,7 @@ There appears, however, to have been an exception to this general
 division, a portion of Cardigan having been once exclusively termed
 Ceredigiawn, and one-third part of Carmarthenshire having been included
 in the District of Rheged, called subsequently "Cantrev Bychan and
-Kidwelly." Lewis Dwnn, <span id="fr_190"></span>[1](#fn_189) in the
+Kidwelly." Lewis Dwnn, <span id="fr_190"></span>[1](#fn_189.md) in the
 reign of Elizabeth, thus describes the ancient boundaries of Dyved, as
 he understood them to have been:--
 
@@ -110,14 +110,14 @@ of Ystrad Tywi, or Carmarthenshire, Cantrev Bychan, Cantrev Mawr, and
 Cantrev Eginawg, together with the four Cantrevs of Ceredigiawn, Cantrev
 Emlyn, Cantrev Caer Wedws, Cantrev Mabwyniawn, and Cantrev Gwarthav,
 which seven Cantrevs were classed together under the appellation of
-Seissyllwch. <span id="fr_191"></span>[1](#fn_190) The addition made by
+Seissyllwch. <span id="fr_191"></span>[1](#fn_190.md) The addition made by
 Pryderi probably restored Dyved to its original extent at the time of
 the Romans.
 
  
 
 <span id="xref_339c">339c</span> GLYN CUCH.--*Page*
-[339](mab20.htm#page_339).
+[339](mab20.htm#page_339.md).
 
 CUCH, or, as it is generally written, Cych, is the boundary stream
 between the counties of Pembroke and Carmarthen, and falls into the
@@ -130,20 +130,20 @@ trace their descent.
 <span id="page_363">p. 363</span>
 
 <span id="xref_340a">340a</span> ARAWN, KING OF ANNWVYN.--*Page*
-[340](mab20.htm#page_340).
+[340](mab20.htm#page_340.md).
 
 THIS personage is the King of Annwn, already noticed (see [p.
-280](mab17.htm#page_280)) as having fought against Amaethon mab Don, in
+280](mab17.htm#page_280).md) as having fought against Amaethon mab Don, in
 the battle of Cad Goddeu. But it is doubtful whether he can be
 identified either with the Arawn ab Cynvarch, whom the Triads celebrate
 as one of the three Knights of Counsel, <span
-id="fr_192"></span>[1](#fn_191) or with the Aron mab Dewinvin, whose
+id="fr_192"></span>[1](#fn_191.md) or with the Aron mab Dewinvin, whose
 grave is alluded to in the Englynion y Beddau.--Myv. Arch. I. p. 82.
 
  
 
 <span id="xref_340b">340b</span> ANNWVYN.--*Page*
-[340](mab20.htm#page_340).
+[340](mab20.htm#page_340.md).
 
 ANNWVYN, or Annwn, is frequently rendered "Hell," though, perhaps, "The
 Lower Regions" would more aptly express the meaning which the name
@@ -158,7 +158,7 @@ cry in pursuit of some object.
  
 
 <span id="xref_344a">344a</span> MOUND.--*Page*
-[344](mab20.htm#page_344).
+[344](mab20.htm#page_344.md).
 
 THE word in the original is Gorsedd, which signifies a tumulus or mound,
 used as a seat of judicature, to which in its derivative sense it is
@@ -171,7 +171,7 @@ judicial assemblies.
  
 
 <span id="xref_347a">347a</span> RHIANNON.--*Page*
-[347](mab20.htm#page_347).
+[347](mab20.htm#page_347.md).
 
 AFTER the death of Pwyll, Rhiannon was, by her son Pryderi, bestowed in
 marriage upon Manawyddan, the son of Llyr, and her subsequent history is
@@ -181,15 +181,15 @@ years together listening to them, are a frequent theme with the poets.
 
 "Three things that are not often heard; the song of the birds of
 Rhiannon, a song of wisdom from the mouth of a Saxon, and an invitation
-to a feast from a miser." <span id="fr_193"></span>[2](#fn_192)
+to a feast from a miser." <span id="fr_193"></span>[2](#fn_192.md)
 
 <span id="page_364">p. 364</span>
 
 <span id="xref_347b">347b</span> HEVEYDD HÊN.--*Page*
-[347](mab20.htm#page_347).
+[347](mab20.htm#page_347.md).
 
 ACCORDING to the Triads, Heveydd Hên (probably the same as Hyvaidd Hir)
-was the son of Bleiddan Sant <span id="fr_194"></span>[1](#fn_193) of
+was the son of Bleiddan Sant <span id="fr_194"></span>[1](#fn_193.md) of
 Glamorgan, and was one of the three stranger kings upon whom dominion
 was conferred for their mighty deeds, and for their praiseworthy and
 gracious qualities. But in some of the pedigrees he is called the son of
@@ -198,7 +198,7 @@ Caradawc Vreichvras.--See Professor Rees's Welsh Saints, p. 103.
  
 
 <span id="xref_354a">354a</span> GWENT IS COED.--*Page*
-[354](mab20.htm#page_354).
+[354](mab20.htm#page_354.md).
 
 ONE of the divisions of Gwent; the other two being Gwent Uch Coed, and
 Gwent Coch yn y Dena, or the Forest of Dean. Gwent was the name formerly
@@ -208,7 +208,7 @@ restricted sense it is applied only to the county of Monmouth.
  
 
 <span id="xref_355a">355a</span> GWRI GWALLT EURYN.--*Page*
-[355](mab20.htm#page_355).
+[355](mab20.htm#page_355.md).
 
 GWRI GWALLT EURYN, styled at the close of the present tale Pryderi (care
 or anxiety), is frequently alluded to by the Bards, who speak of him
@@ -251,12 +251,12 @@ Enchantment.
  
 
 <span id="xref_357a">357a</span> PENDARAN DYVED.--*Page*
-[357](mab20.htm#page_357).
+[357](mab20.htm#page_357.md).
 
 WE learn from the Triads, that the foster-father of Pryderi was the
 chief of one of the principal Welsh tribes; that which extended over
 Dyved, Gower (in Glamorgan), and Cardigan. <span
-id="fr_195"></span>[1](#fn_194)
+id="fr_195"></span>[1](#fn_194.md)
 
 Beyond this, and the fact of his possessing an immense herd of swine,
 which his foster-son Pryderi kept for him in the Vale of Ouch, but few
@@ -270,17 +270,17 @@ particulars of Pendaran Dyved are extant.
 
 ### Footnotes
 
-<span id="fn_188"></span>[360:1](mab21.htm#fr_189) Aircol Law Hir is
+<span id="fn_188"></span>[360:1](mab21.htm#fr_189.md) Aircol Law Hir is
 recorded, in the Liber Landavensis, to have been the son of Tryfun and
 contemporary with St. Teiliaw, who flourished in the Sixth century. We
 find the grave of Aircol spoken of as being in Dyved.--Myv. Arch. I. p.
 82.
 
-<span id="fn_189"></span>[361:1](mab21.htm#fr_190) "Heraldic Visitation
+<span id="fn_189"></span>[361:1](mab21.htm#fr_190.md) "Heraldic Visitation
 of Wales," published by the Welsh MSS. Society, under the care of Sir
 Samuel Rush Meyrick.
 
-<span id="fn_190"></span>[362:1](mab21.htm#fr_191) Seissyllwch was one
+<span id="fn_190"></span>[362:1](mab21.htm#fr_191.md) Seissyllwch was one
 of the ancient kingdoms of South Wales, and must not be confounded with
 Essyllwg (the Welsh word for the country of the Silures), as it has
 sometimes been. In the life of St. Paternus (preserved among the Cotton
@@ -297,16 +297,16 @@ Seissyllwch occurs in the Triads, where we are told that Cynan Meriadawc
 led the warriors of that district to the assistance of Maxen
 Wledig.--Triad 14.
 
-<span id="fn_191"></span>[363:1](mab21.htm#fr_192) Triad lxxxvi.
+<span id="fn_191"></span>[363:1](mab21.htm#fr_192.md) Triad lxxxvi.
 
-<span id="fn_192"></span>[363:2](mab21.htm#fr_193) Trioedd y Cybydd, The
+<span id="fn_192"></span>[363:2](mab21.htm#fr_193.md) Trioedd y Cybydd, The
 Miser's Triads. Myv. Arch. III. p. 245.
 
-<span id="fn_193"></span>[364:1](mab21.htm#fr_194) Written in other
+<span id="fn_193"></span>[364:1](mab21.htm#fr_194.md) Written in other
 versions of the Triads, Bleiddig in Deheubarth.
 
-<span id="fn_194"></span>[365:1](mab21.htm#fr_195) Triad 16.
+<span id="fn_194"></span>[365:1](mab21.htm#fr_195.md) Triad 16.
 
 ------------------------------------------------------------------------
 
-[Next: Branwen the Daughter of Llyr](mab22)
+[Next: Branwen the Daughter of Llyr](mab22.md)

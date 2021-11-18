@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index) [Index](gppt0) [Previous](gppt1) [Next](gppt3)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index) [Index](gppt0) [Previous](gppt1) [Next](gppt3.md)
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ EDMUNDS.</span>
 <span id="pp_1"></span>{1} THE MASTER REMEMBERS A PRE-EXISTENT STATE.
 
 <span class="small">Itivuttaka 22. [John xvii.
-5](../../bib/kjv/joh.htm#17:5). (Not before translated).</span>
+5](../../bib/kjv/joh.htm#17:5). (Not before translated.md).</span>
 
 THIS was spoken by the Blessed One, spoken by the Arahat and heard by
 me.
@@ -76,7 +76,7 @@ all-seeing, controlling. And thirty-six times, O monks, was I Sakko, the
 lord of the angels; many hundreds of times I was a king, a righteous
 emperor, a king of righteousness,<span
 id="page_246_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_246_note_1) victorious in the four
+class="small">1</span></sup>](#page_246_note_1.md) victorious in the four
 quarters, securely established in my country, and possessed of the seven
 treasures. Now what was the doctrine of that region and kingdom? This is
 what I thought of it, O monks: What deed of mine, is this the fruit of?
@@ -97,7 +97,7 @@ heard by me.
 <span id="pp_2"></span>{2} FAITH TO REMOVE MOUNTAINS.
 
 <span class="small">Numerical Collection VI. 24. [Matthew xvii. 20,
-21](../../bib/kjv/mat.htm#17:20). (Not before translated.)</span>
+21](../../bib/kjv/mat.htm#17:20). (Not before translated..md)</span>
 
    <span class="small">(Repeated in Matt. xxi, which is parallel with
 Mark xi. But the added verse which appears in some MSS., Matt. xvii. 21,
@@ -119,8 +119,8 @@ doctrine for vile ignorance!
 <span id="pp_3"></span>{3} THE BELOVED DISCIPLE REACHES HEAVEN HERE.
 
 <span class="small">Numerical Collection III. 80. [John xxi.
-22](../../bib/kjv/joh.htm#21:22). Cf. [Mark ix.
-1](../../bib/kjv/mar.htm#9:1). (Not before translated).</span>
+22](../../bib/kjv/joh.htm#21:22.md). Cf. [Mark ix.
+1](../../bib/kjv/mar.htm#9:1). (Not before translated.md).</span>
 
    Udâyi, if Ânando should die with passion unsubdued, yet by his
 believing heart he would seven times obtain an angelic kingdom among the
@@ -132,12 +132,12 @@ times. But, O Udâyi, even in this life, will Ânando enter Nirvâ.na.
 <span id="pp_4"></span>{4} THE MASTER KNOWS GOD AND HIS KINGDOM.
 
 <span class="small">Long Collection, Dialogue 13. (Translated In [S. B.
-E. XI](../../bud/sbe11/sbe1105). and in [*Sacred Books of the
-Buddhists*, Vol. 2](../../bud/dob/dob-13tx), each time by Rhys Davids:
+E. XI](../../bud/sbe11/sbe1105.md). and in [*Sacred Books of the
+Buddhists*, Vol. 2](../../bud/dob/dob-13tx.md), each time by Rhys Davids:
 1881 and 1899).  
-[John vi. 46](../../bib/kjv/joh.htm#6:46); [vii.
-29](../../bib/kjv/joh.htm#7:29); [viii. 42](../../bib/kjv/joh.htm#8:42),
-[55](../../bib/kjv/joh.htm#8:55).</span>
+[John vi. 46](../../bib/kjv/joh.htm#6:46.md); [vii.
+29](../../bib/kjv/joh.htm#7:29); [viii. 42](../../bib/kjv/joh.htm#8:42.md),
+[55](../../bib/kjv/joh.htm#8:55.md).</span>
 
    That man, O Vâse.t.tha, born and brought up at Manasâkata, might
 hesitate or falter when asked the way thereto. But not so does the
@@ -145,21 +145,21 @@ Tathâgato hesitate or falter when asked of the kingdom of God (world of
 Brahmâ) or the path that goeth thereto. For I, O Vâse.t.tha, know both
 God and the Kingdom of God and the path that goeth thereto; I know it
 even as<span id="page_247_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_247_note_1) one who hath entered the
+class="small">1</span></sup>](#page_247_note_1.md) one who hath entered the
 Kingdom of God and been born there.
 
 <span id="page_248">p. 248</span>
 
 <span id="pp_5"></span>{5} THE MISSIONARY CHARGE.
 
-<span class="small">[Mark vi. 7-13](../../bib/kjv/mar.htm#6:7); [Matthew
-xxviii. 19, 20](../../bib/kjv/mat.htm#28:19); [Luke x.
-1](../../bib/kjv/luk.htm#10:1).  
+<span class="small">[Mark vi. 7-13](../../bib/kjv/mar.htm#6:7.md); [Matthew
+xxviii. 19, 20](../../bib/kjv/mat.htm#28:19.md); [Luke x.
+1](../../bib/kjv/luk.htm#10:1.md).  
 Mahâvaggo I, 10, 11. (Translated in S. B. E. XIII. p. 112).</span>
 
    At that time there were sixty-one<span
 id="page_248_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_248_note_1) Arahats in the world.
+class="small">1</span></sup>](#page_248_note_1.md) Arahats in the world.
 
    And the Blessed One said unto the monks: "I am delivered, O monks,
 from all fetters, human and divine. Ye, O monks, are also delivered
@@ -177,7 +177,7 @@ understand it.
 
 <span id="pp_6"></span>{6} AN ETERNAL SIN.
 
-<span class="small">[Mark iii. 29](../../bib/kjv/mar.htm#3:29). (R. V.
+<span class="small">[Mark iii. 29](../../bib/kjv/mar.htm#3:29.md). (R. V.
 1881.) Cullavaggo VII. 3. (Translated in S. B. E. XX. p. 254)</span>
 
    "Is it true, Devadatto, as they say, that thou goest about to stir up
@@ -208,9 +208,9 @@ lost Dâmdâd Nosk, then even this sin is finally forgiven.\]
 
 <span id="pp_7"></span>{7} TRANSFIGURATION.
 
-<span class="small">[Mark ix. 2-8](../../bib/kjv/mar.htm#9:2). Book of
+<span class="small">[Mark ix. 2-8](../../bib/kjv/mar.htm#9:2.md). Book of
 the Great Decease. p. 46 of the Pâli. (Translated in [S. B. E.
-XI](../../bud/sbe11/sbe1103).)</span>
+XI](../../bud/sbe11/sbe1103)..md)</span>
 
    Now not long after Pukkuso the Mallian had gone, the venrable Ânando
 placed upon the person of the Blessed One that pair of gold-cloth robes,
@@ -229,7 +229,7 @@ are the two?--On the night, Ânando, wherein a Tathâgato is supernally
 enlightened with incomparable and perfect Enlightenent, and on the night
 when he enters Nirvâ.na with that kind<span
 id="page_249_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_249_note_1) of Nirvâ.na which leaves
+class="small">1</span></sup>](#page_249_note_1.md) of Nirvâ.na which leaves
 no substrata behind: on these two occasions the color of a Tathagato's
 skin becomes pure and exceeding purified. And now, Ânando, this day, in
 the third watch of the night, in the garden ground of Kusinârâ, in the
@@ -256,7 +256,7 @@ assent unto the Blessed One.
 
 <span id="pp_8"></span>{8} THE NATIVITY.
 
-   See *The Open Court* for [August, 1898](cabgb), with critical notes
+   See *The Open Court* for [August, 1898](cabgb.md), with critical notes
 in November, 1898, and June, 1899. The same story from another and
 fuller version in the Canon has been translated by me in separate form.
 
@@ -272,9 +272,9 @@ publish a new translation.
 <span id="pp_9"></span>{9} POWER OVER EVIL SPIRITS AND ASSOCIATION WITH
 ANGELS.
 
-<span class="small">[Mark iii. 11](../../bib/kjv/mar.htm#3:11); [Matthew
-xxvi. 53](../../bib/kjv/mat.htm#26:53); [John i.
-51](../../bib/kjv/joh.htm#1:51). Udâna I. 7.</span>
+<span class="small">[Mark iii. 11](../../bib/kjv/mar.htm#3:11.md); [Matthew
+xxvi. 53](../../bib/kjv/mat.htm#26:53.md); [John i.
+51](../../bib/kjv/joh.htm#1:51.md). Udâna I. 7.</span>
 
    Thus have I heard. At one season the Blessed One was staying at
 Pâ.talî, at the Goat-herd Shrine, in the haunt of the Goblin Goat-herd.
@@ -284,7 +284,7 @@ touch him. Then the Goblin Goat-herd, being seized with fear and
 bristling terror, approached the Blessed One and when near him uttered
 thrice his cry of "Blighted! Affrighted!" and said in his fright: "This
 demon is thine, O Prophet!"<span id="page_250_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_250_note_1)
+class="small">1</span></sup>](#page_250_note_1.md)
 
    Then the Blessed One, when he had understood the fact, gave vent,
 upon that occasion, to the following Udâna:
@@ -303,7 +303,7 @@ upon that occasion, to the following Udâna:
 
 ------------------------------------------------------------------------
 
-[Next](gppt3)
+[Next](gppt3.md)
 
 ------------------------------------------------------------------------
 
@@ -311,12 +311,12 @@ upon that occasion, to the following Udâna:
 
 <span id="footnotes_page_246">p. 246</span>
 
-<span id="page_246_note_1"></span>[1](#page_246_fr_1). Or King by right,
+<span id="page_246_note_1"></span>[1](#page_246_fr_1.md). Or King by right,
 the Epic title of a Hindû suzerain.
 
 <span id="footnotes_page_247">p. 247</span>
 
-<span id="page_247_note_1"></span>[1](#page_247_fr_1). The Siam text has
+<span id="page_247_note_1"></span>[1](#page_247_fr_1.md). The Siam text has
 *even as Brahmâ* (i.e., God or archangel). Though the Buddhists held
 that the supreme Godhead was an office, not a person, and that Buddha
 himself had held that office in a past eternity (see above), yet they
@@ -325,13 +325,13 @@ ascribed to the chief Brahmâ all the Christian titles of the Deity.
 
 <span id="footnotes_page_248">p. 248</span>
 
-<span id="page_248_note_1"></span>[1](#page_248_fr_1). Rendel Harris
+<span id="page_248_note_1"></span>[1](#page_248_fr_1.md). Rendel Harris
 suggests a parallel, if not a connexion, with Luke's Seventy who went to
 the Gentiles.
 
 <span id="footnotes_page_249">p. 249</span>
 
-<span id="page_249_note_1"></span>[1](#page_249_fr_1). See *Itivuttaka*
+<span id="page_249_note_1"></span>[1](#page_249_fr_1.md). See *Itivuttaka*
 44, for the two kinds of Nirvâ.na. I do not fear to translate thus in
 view of this remarkable passage, so obviously referred to in our text.
 One line of the primitive Itivuttaka is worth whole pages of the
@@ -339,7 +339,7 @@ developed Dialogues.
 
 <span id="footnotes_page_250">p. 250</span>
 
-<span id="page_250_note_1"></span>[1](#page_250_fr_1). The Pâli
+<span id="page_250_note_1"></span>[1](#page_250_fr_1.md). The Pâli
 *Samano*, in contradistinction to *Brâhmano*, is precisely the Old
 Testament prophet as against the priest. Buddha, however, persistently
 idealised the word "Brâhman," as in our present stanzas, to mean an

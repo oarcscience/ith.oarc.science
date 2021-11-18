@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma11)  [Next](oma13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma11)  [Next](oma13.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ spoke up, saying, "It is time now, let me go after Iatiku." So he went
 after her and brought her. So Iatiku, when she came to the kiva roof,
 called, "Chima!" Koshari, who had rushed in ahead, said, "Come on in, it
 is all right with us." So Iatiku, when she had come in, Said, "koa’tsi
-kanai skauchani daimi, <span id="fr_84"></span>[85](#fn_84) (Greetings,
+kanai skauchani daimi, <span id="fr_84"></span>[85](#fn_84.md) (Greetings,
 mother, my officers
 
 <span id="page_34">p. 34</span>
@@ -86,7 +86,7 @@ that are ahead of you," i. e., to the now living altar. So the medicine
 man placed the food in front of the altar and started to pray, gesturing
 the food toward the spirits or the altar. In the song-prayer, Oak Man
 asks help, saying, "I am just a common man. I am not superhuman. My
-hands have no skill" <span id="fr_85"></span>[86](#fn_85) Koshari was
+hands have no skill" <span id="fr_85"></span>[86](#fn_85.md) Koshari was
 doing the same thing. Iatiku told Oak Man to have some of the food.
 "When you finish, you are to offer it to the earth the next day, thus
 giving it back." After a few minutes, Iatiku spoke to Oak Man, saying,
@@ -111,7 +111,7 @@ bare hands into the hot coals. So
 \[paragraph continues\] Koshari did it too. After the corn was parched,
 Oak Man was to jump into the hot coals, throwing hot coals over his
 chest and body. (They still initiate in this way. <span
-id="fr_86"></span>[87](#fn_86) Before this is done they mix some
+id="fr_86"></span>[87](#fn_86.md) Before this is done they mix some
 medicine, a plant ground up fresh, with which they paint their bodies.
 It is called hakanyi, fire.) After this was done it meant he was a
 member of the altar--the altar belonged to him. Many other songs
@@ -121,7 +121,7 @@ followed this first song.
 after water, getting yellow water (north), blue water (west), red
 (south), white (east). (The water is not actually colored; this is in
 the song. The names of the mountains are called for each
-direction.) <span id="fr_87"></span>[88](#fn_87) Then the song to get
+direction.) <span id="fr_87"></span>[88](#fn_87.md) Then the song to get
 herbs for the medicine is sung. Some of the medicine is taken and there
 is a song-prayer for the power to come to the medicine from the north,
 east, south, and west. After they finish the water song, they pour the
@@ -140,7 +140,7 @@ the altar. Eagle feathers are dipped in the medicine and it is sprinkled
 over the altar. After Oak Man did this he sprinkled medicine in the same
 way over the audience. Then Koshari brought some ashes and placed them
 in front of the altar and did the same with the ashes, dipping the tips
-of the feathers under them and [sprinkling](errata.htm#1) them over the
+of the feathers under them and [sprinkling](errata.htm#1.md) them over the
 people. This lasted all night.
 
 Iatiku then instructed Oak Man to put on the bear paw like a glove and
@@ -156,22 +156,22 @@ people and sucked the sickness from each in
 <span id="page_36">p. 36</span>
 
 turn, from the chest (over the heart), with his lips. <span
-id="fr_88"></span>[89](#fn_88) Before he started to do this, Iatiku told
+id="fr_88"></span>[89](#fn_88.md) Before he started to do this, Iatiku told
 him to take some of the medicine and put it over his eyes. This opened
-his eyes so he could see into them  <span id="fr_89"></span>[90](#fn_89)
+his eyes so he could see into them  <span id="fr_89"></span>[90](#fn_89.md)
 \[i. e., the people\]. They were all naked. He would then spit up this
 sickness from his mouth, catch it in the palm of his hand, and cast it
-off. <span id="fr_90"></span>[91](#fn_90) When he had finished
-sucking <span id="fr_91"></span>[92](#fn_91) he gave every one a drink
+off. <span id="fr_90"></span>[91](#fn_90.md) When he had finished
+sucking <span id="fr_91"></span>[92](#fn_91.md) he gave every one a drink
 from a shell containing medicine, just a mouthful: Koshari did
-this <span id="fr_92"></span>[93](#fn_92) \[i. e., administered the
-medicine\]. It is still done so. <span id="fr_93"></span>[94](#fn_93)
+this <span id="fr_92"></span>[93](#fn_92.md) \[i. e., administered the
+medicine\]. It is still done so. <span id="fr_93"></span>[94](#fn_93.md)
 
 This was not finished till daybreak (4 a. m.). Then the people were told
 that they might go. A dismissal song is sung for them to go out. Before
 they were dismissed, Oak Man got up and spoke, saying that Iatiku had
 said that the altar was to represent her. "We will call it
-nitranaish <span id="fr_94"></span>[95](#fn_94) shuksts (it will be our
+nitranaish <span id="fr_94"></span>[95](#fn_94.md) shuksts (it will be our
 mother \[Iatiku\]). Thus she gives it to us forever, and the chaianyi
 will have for their purpose the healing of sickness." So the people were
 told to go and rest.
@@ -180,7 +180,7 @@ Iatiku. was still there, so she said to Oak Man, "You know everything
 now, but I have seen that you need helpers, so you are going, to make
 other groups (mi'ik) of medicine men." She told him they were to be
 named: Flint (histian) Chaianyi; Spider (kăpi'nă) <span
-id="fr_95"></span>[96](#fn_95), Chaianyi; Giant (shkui) Chaianyi. These
+id="fr_95"></span>[96](#fn_95), Chaianyi; Giant (shkui.md) Chaianyi. These
 four, Fire, Flint, Spider, and Giant are the only ones in the tradition.
 Fire Chaianyi, the Oak Man, was instructed to make altars for them
 similar to his.
@@ -200,7 +200,7 @@ initiate people into your order. It is through tobacco. If
 
 anyone should roll a cigarette in the corner and give it to you without
 lighting it, you are to take this person and initiate him." <span
-id="fr_96"></span>[97](oma13.htm#fn_96)
+id="fr_96"></span>[97](oma13.htm#fn_96.md)
 
 The people learned all about this and they found that this ceremony had
 cured them. Iatiku told Oak Man to take down all of the altar and to be
@@ -218,13 +218,13 @@ Iatiku turned to Koshari and said, "You have done your work faithfully
 but you are not acting normally enough to be here with the people." He
 was different from the other people because he knew something about
 himself, so Iatiku told him to go and live at hakuai'ch <span
-id="fr_97"></span>[98](oma13.htm#fn_97) (the house of the Sun). "You are
+id="fr_97"></span>[98](oma13.htm#fn_97) (the house of the Sun.md). "You are
 to be a help to the Sun. You will be called at times to help here. You
 are not going to be afraid of anything or to regard anything as sacred.
 You are to be allowed everywhere." So Iatiku painted him white with
 black stripes around his body <span
-id="fr_98"></span>[99](oma13.htm#fn_98) and said, "This is your costume"
-([pl. 5, fig. 3](oma38.htm#img_pl05c)). She took some of the things from
+id="fr_98"></span>[99](oma13.htm#fn_98.md) and said, "This is your costume"
+([pl. 5, fig. 3](oma38.htm#img_pl05c).md). She took some of the things from
 the altar and gave them to Koshari saying, "You will use these." He
 thanked her but said, "I can make more to it and get what I want." So he
 went and lives today with the Sun, whom he helps.
@@ -233,31 +233,31 @@ went and lives today with the Sun, whom he helps.
 
 ### Footnotes
 
-<span id="fn_84"></span>[33:85](oma12.htm#fr_84) Cf. White, 1932, p. 47.
+<span id="fn_84"></span>[33:85](oma12.htm#fr_84.md) Cf. White, 1932, p. 47.
 
-<span id="fn_85"></span>[34:86](oma12.htm#fr_85) Paraphrases?
+<span id="fn_85"></span>[34:86](oma12.htm#fr_85.md) Paraphrases?
 
-<span id="fn_86"></span>[35:87](oma12.htm#fr_86) Cf. White, 1932, pp.
+<span id="fn_86"></span>[35:87](oma12.htm#fr_86.md) Cf. White, 1932, pp.
 114-115.
 
-<span id="fn_87"></span>[35:88](oma12.htm#fr_87) Colors, spirits, and
+<span id="fn_87"></span>[35:88](oma12.htm#fr_87.md) Colors, spirits, and
 mountains are associated with the cardinal points. In almost all rituals
 one begins with the north, then passes to west, south, and east. Songs
 are sung for each direction, this is to get power "from the whole world"
 and to concentrate it at the point where the medicine man wants to use
 it.
 
-<span id="fn_88"></span>[36:89](oma12.htm#fr_88) Witches "shoot" thorns,
+<span id="fn_88"></span>[36:89](oma12.htm#fr_88.md) Witches "shoot" thorns,
 rags, or broken glass into people's bodies, causing illness.
 
-<span id="fn_89"></span>[36:90](oma12.htm#fr_89) Medicine men use a
+<span id="fn_89"></span>[36:90](oma12.htm#fr_89.md) Medicine men use a
 quartz crystal called ma·'caiyoyo to obtain second sight. (See White,
 1942.)
 
-<span id="fn_90"></span>[36:91](oma12.htm#fr_90) See White, 1932, pp.
+<span id="fn_90"></span>[36:91](oma12.htm#fr_90.md) See White, 1932, pp.
 111, 120, for disposal of "disease objects."
 
-<span id="fn_91"></span>[36:92](oma12.htm#fr_91) Informant's note:
+<span id="fn_91"></span>[36:92](oma12.htm#fr_91.md) Informant's note:
 During the ceremony, when one doctor tires of curing he sits down while
 another takes his place. When he sits down be is given a cigarette by
 the official cigarette roller (who is selected when the 4-day fast
@@ -266,17 +266,17 @@ this word is used only during ceremonies, for everyday use the word
 shattsi is used). The cigarette roller repeats the same word. When the
 doctor accepts the cigarette, the roller says, "Shanaishtyu, my father."
 
-<span id="fn_92"></span>[36:93](oma12.htm#fr_92) I know of no case in
+<span id="fn_92"></span>[36:93](oma12.htm#fr_92.md) I know of no case in
 which a Koshari *as a koshari* assists medicine men in a curing
 ceremony.
 
-<span id="fn_93"></span>[36:94](oma12.htm#fr_93) Cp. White, 1932, pp.
+<span id="fn_93"></span>[36:94](oma12.htm#fr_93.md) Cp. White, 1932, pp.
 116-120.
 
-<span id="fn_94"></span>[36:95](oma12.htm#fr_94) Sutanaiyic means our
+<span id="fn_94"></span>[36:95](oma12.htm#fr_94.md) Sutanaiyic means our
 mother.
 
-<span id="fn_95"></span>[36:96](oma12.htm#fr_95) In Sia mythology, the
+<span id="fn_95"></span>[36:96](oma12.htm#fr_95.md) In Sia mythology, the
 Kapina society is referred to as Spider society; it was composed of
 Spider people. Sûs'sĭstinnako, a spider, was its first head (Stevenson,
 18914, pp. 26, 39-40, 69).
@@ -290,4 +290,4 @@ societies.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part IV](oma13)
+[Next: Wanderings, Part IV](oma13.md)

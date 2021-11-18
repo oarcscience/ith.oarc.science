@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas146n)  [Next](jas150n)   
- \[[149. Animal Talk.](jas149)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas146n)  [Next](jas150n.md)   
+ \[[149. Animal Talk.](jas149.md)\]
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ great many examples are given of this kind of entertainment.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on Witticisms.](jas150n)
+[Next: Notes on Witticisms.](jas150n.md)

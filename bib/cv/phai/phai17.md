@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai16) 
-[Next](phai18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai16.md) 
+[Next](phai18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ Jezreel and the hill country bordering it on the south, but also the
 proper citadel of the country, "Mount Ephraim." The old sanctuary at
 Shiloh was destroyed by them; its temple of Jehovah thenceforward lay in
 ruins. Their supremacy extended as far as to Benjamin; the Philistines
-had a *neçib* in Gibeah. <span id="fr_247"></span>[1](#fn_247) But the
+had a *neçib* in Gibeah. <span id="fr_247"></span>[1](#fn_247.md) But the
 assertion that they had confiscated all weapons and removed all smiths
 must be regarded as an unhistorical exaggeration; under their régime at
 all events it was possible for the messengers of a beleaguered city on
@@ -130,7 +130,7 @@ once the business and the resource
 
 of the new kingdom. It was carried on against the Philistines without
 interruption, though for the most part not in the grand style but rather
-in a series of border skirmishes. <span id="fr_248"></span>[1](#fn_248)
+in a series of border skirmishes. <span id="fr_248"></span>[1](#fn_248.md)
 
 It is not without significance that the warlike revival of the nation
 proceeded from Benjamin. By the battle of Aphek Ephraim had lost at once
@@ -197,7 +197,7 @@ the house over Jezreel, Ephraim, and Benjamin, of course in
 uninterrupted struggle with the Philistines.
 
 But he did not regain hold of Judah. David seized the opportunity
-[to](errata.htm#4) set up for himself, with the sanction of the
+[to](errata.htm#4.md) set up for himself, with the sanction of the
 Philistines, and, it may safely be presumed, as their vassal, a separate
 principality which had its centre of gravity in the south, which was
 inhabited, not by the tribe of Judah properly so called, but by the
@@ -263,7 +263,7 @@ already, as is probable, subjugated Moab,—and with the utmost contumely
 sent back the messengers to their master forthwith, at the same time
 making preparations for war by entering into alliance with various
 Syrian kings, and particularly with the powerful king of Soba. <span
-id="fr_249"></span>[1](#fn_249) David took the initiative, and sent his
+id="fr_249"></span>[1](#fn_249.md) David took the initiative, and sent his
 army under command of Joab against Rabbath-Ammon. The Syrians advanced
 to the relief of the besieged city; but Joab divided his forces, and,
 leaving his brother Abishai to hold the Ammonites in the town in check,
@@ -352,7 +352,7 @@ matters of internal administration; according to tradition, the wisdom
 of the ruler and the judge was his special "gift." Disregarding the
 tribal system, he divided his kingdom into twelve provinces, over each
 of which he placed a royal governor, thus making a beginning of vigorous
-and orderly administration. <span id="fr_250"></span>[1](#fn_250)
+and orderly administration. <span id="fr_250"></span>[1](#fn_250.md)
 
 Judah alone he exempted from this arrangement, as if to show special
 favour. For his aim was less the advantage of his subjects than the
@@ -401,14 +401,14 @@ author of Deuteronomy.
 
 ### Footnotes
 
-<span id="fn_247"></span>[448:1](phai17.htm#fr_247) *Neçib* is an
+<span id="fn_247"></span>[448:1](phai17.htm#fr_247.md) *Neçib* is an
 Aramaic word of uncertain meaning. In the name of the town Neçibin
 (Nisibis) it certainly seems to mean "pillars;" according to 1 Kings iv.
 5 and xxii. 48 (where it is pointed *niççab*), "governor", seems the
 best translation, and this is the only rendering consistent with the
 expression in 1 Sam. xiii. 3 ("Jonathan slew the *neçib*," &c.).
 
-<span id="fn_248"></span>[451:1](phai17.htm#fr_248) As regards the
+<span id="fn_248"></span>[451:1](phai17.htm#fr_248.md) As regards the
 position of Samuel in the theocracy and the relation in which the stood
 to Saul, the several narratives in the Book of Samuel differ widely. The
 preceding account, so far as it relates to Samuel, is based upon 1 Sam.
@@ -416,18 +416,18 @@ ix., x. 1-15, xi., where he appears simply as a Rôeh at Ramah, and has
 nothing to do either with the administration of the theocracy or with
 the Nebiim. Compare *Prolegomena* above, chap. VII.
 
-<span id="fn_249"></span>[454:1](phai17.htm#fr_249) Soba appears to have
+<span id="fn_249"></span>[454:1](phai17.htm#fr_249.md) Soba appears to have
 been situated somewhat to the north of Damascus, and to have bordered on
 the west with Hamath. The Aramæans were beginning even at that period to
 press westwards; the Hittites, Phœnicians, and Israelites had common
 interests against them. To the kingdom of Soba succeeded afterwards that
 of Damascus.
 
-<span id="fn_250"></span>[456:1](phai17.htm#fr_250) Very possibly the
+<span id="fn_250"></span>[456:1](phai17.htm#fr_250.md) Very possibly the
 Canaanites, whose complete absorption falls within this period, were an
 element that helped to loosen the bonds of tribal unity, and consolidate
 a state in its place.
 
 ------------------------------------------------------------------------
 
-[Next: 4. From Jeroboam I. to Jeroboam II.](phai18)
+[Next: 4. From Jeroboam I. to Jeroboam II.](phai18.md)

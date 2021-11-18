@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](tit)  [Next](heb) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](tit)  [Next](heb.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ with your spirit. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Hebrews](heb)
+[Next: Hebrews](heb.md)

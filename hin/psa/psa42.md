@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa41)  [Next](psa43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa41)  [Next](psa43.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ said, "O lord of compassion! take me under your protection.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLII](psa43)
+[Next: Chapter XLII](psa43.md)

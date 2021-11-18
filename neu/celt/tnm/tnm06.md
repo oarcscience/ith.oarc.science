@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
-[Iceland](../../ice/index)  [Index](index)  [Previous](tnm05) 
-[Next](tnm07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
+[Iceland](../../ice/index)  [Index](index)  [Previous](tnm05.md) 
+[Next](tnm07.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_pl05"></span>
 
 [![PLATE V.&lt;br&gt; MAL LOMCHON CROSS, MICHAEL.](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 PLATE V.  
 MAL LOMCHON CROSS, MICHAEL.  
 
 ### IV.--VALKYRIE.
 
 A very beautiful cross at the Church gates, Michael ([pl.
-V.](#img_pl05)), erected by Mal-Lomchon to Malworrey, his foster-mother,
+V.](#img_pl05).md), erected by Mal-Lomchon to Malworrey, his foster-mother,
 daughter of Dugald and wife of Athisl, bears the figure of a Harper
 seated, and approached by a long-robed figure offering a drinking horn.
 Significance lies in the fact that the harp was unknown among the
@@ -40,4 +40,4 @@ musician as she would to a great hero.
 
 ------------------------------------------------------------------------
 
-[Next: V.--Odin, Thor, Giants, Demons, Dwarves](tnm07)
+[Next: V.--Odin, Thor, Giants, Demons, Dwarves](tnm07.md)

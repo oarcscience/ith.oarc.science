@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm04)  [Next](tmm06) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm04)  [Next](tmm06.md) 
 
 ------------------------------------------------------------------------
 
@@ -294,7 +294,7 @@ the wizard with the people who consulted him?' 'Why should I not laugh
 when I saw a stupid person who professed to remove the veil of the
 hidden future, whilst he knew not that under the stone on which he was
 sitting there was hidden a kingly treasure?' <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 <span id="page_37">p. 37</span>
 
@@ -409,7 +409,7 @@ individuals, and when we returned one had disappeared, without our being
 able to comprehend how that happened? My advice is, that we request
 Topos, one of King Solomon's many wives, that when the present king pays
 her a visit, she may notice his feet, <span
-id="fr_16"></span>[1](#fn_16) and then on her report on this you can
+id="fr_16"></span>[1](#fn_16.md) and then on her report on this you can
 form your judgment in this matter.' The Sanhedrin fell in with this
 suggestion, and when they appealed to Topos, she reported that the king,
 her husband, never entered her chamber without a cover over his feet.
@@ -441,7 +441,7 @@ Songs, and Midr. Tanchuma Emmor and Midr. Psalms, 78.
 
 ### Footnotes
 
-<span id="fn_15"></span>[36:1](tmm05.htm#fr_15) Demons resemble man in
+<span id="fn_15"></span>[36:1](tmm05.htm#fr_15.md) Demons resemble man in
 these respects, they eat and drink, are fruitful and multiply, and die.
 But they also somewhat resemble angels in so far as they have wings,
 flying to and fro all the world over like angels, and knowing a little
@@ -449,9 +449,9 @@ of the secrets of the higher spheres--not quite as much as angels, but
 generally the fate of men is known to them. Talmud. Chagiga 15/11. Hence
 Ashmedai knew the late of those he met on his way to Jerusalem.
 
-<span id="fn_16"></span>[40:1](tmm05.htm#fr_16) The Rabbis say that the
+<span id="fn_16"></span>[40:1](tmm05.htm#fr_16.md) The Rabbis say that the
 feet of demons resemble those of a cock.
 
 ------------------------------------------------------------------------
 
-[Next: Messiah](tmm06)
+[Next: Messiah](tmm06.md)

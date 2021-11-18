@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb07)  [Next](mlb09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb07)  [Next](mlb09.md) 
 
 ------------------------------------------------------------------------
 
@@ -653,4 +653,4 @@ vengeance, and how its cry never passes unheard.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: The Avenger of Blood](mlb09)
+[Next: Chapter VII: The Avenger of Blood](mlb09.md)

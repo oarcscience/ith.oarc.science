@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe171)  [Next](prwe173) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe171)  [Next](prwe173.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ upon by the farmer, and cruelly ill-treated.
 
 ------------------------------------------------------------------------
 
-[Next: How to become a Witch](prwe173)
+[Next: How to become a Witch](prwe173.md)

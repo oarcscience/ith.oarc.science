@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst027)  [Next](inst029) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst027)  [Next](inst029.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,7 +112,7 @@ excited to trust in God, pray to him, and love him.
 worshipers of false gods with stupidity, in not learning from the
 foundations of the earth, and the circle of the heavens, who the true
 God is (<span id="iv.i.xv-p26.1"></span>[Isa.
-40:21](../../../bib/kjv/isa040.htm#021)<span
+40:21](../../../bib/kjv/isa040.htm#021.md)<span
 id="iv.i.xv-p26.1"></span>); yet so sluggish and grovelling is our
 intellect, that it was necessary he should be more clearly depicted, in
 order that the faithful might not fall away to Gentile fictions. the
@@ -303,15 +303,15 @@ by the prophets, and especially by Daniel, when he says, that when God
 stood up to Judgment, “thousand thousands ministered unto him, and ten
 thousand times ten thousand stood before him,” (<span
 id="iv.i.xv-p31.1"></span>[Dan.
-7:10](../../../bib/kjv/dan007.htm#010)<span id="iv.i.xv-p31.1"></span>).
+7:10](../../../bib/kjv/dan007.htm#010)<span id="iv.i.xv-p31.1"></span>.md).
 As by these means the Lord wonderfully exerts and declares the power and
 might of his hand, they are called virtues. Again, as his government of
 the world is exercised and administered by them, they are called at one
 time Principalities, at another Powers, at another Dominions (<span
 id="iv.i.xv-p31.2"></span>[Col.
-1:16](../../../bib/kjv/col001.htm#016)<span id="iv.i.xv-p31.2"></span>;
+1:16](../../../bib/kjv/col001.htm#016.md)<span id="iv.i.xv-p31.2"></span>;
 <span id="iv.i.xv-p31.3"></span>[Eph.
-1:21](../../../bib/kjv/eph001.htm#021)<span id="iv.i.xv-p31.3"></span>).
+1:21](../../../bib/kjv/eph001.htm#021)<span id="iv.i.xv-p31.3"></span>.md).
 Lastly, as the glory of God in some measure dwells in them, they are
 also termed Thrones; though as to this last designation I am unwilling
 to speak positively, as a different interpretation is equally, if not
@@ -322,7 +322,7 @@ those instruments by whom God specially manifests the presence of his
 power. Nay, they are more than once called Gods, because the Deity is in
 some measure represented to us in their service, as in a mirror. I am
 rather inclined, however, to agree with ancient writers, that in those
-passages11  <span id="fr_104"></span>[105](#fn_104) wherein it is stated
+passages11  <span id="fr_104"></span>[105](#fn_104.md) wherein it is stated
 that the angel of the Lord appeared to Abraham, Jacob, and Moses, Christ
 was that angel. Still it is true, that when mention is made of all the
 angels, they are frequently so designated. Nor ought this to seem
@@ -342,7 +342,7 @@ and after him to all believers. “He shall give his angels charge over
 thee, to keep thee in all thy ways. They shall bear thee up in their
 hands, lest thou dash thy foot against a stone.” Again, “The angel of
 the Lord encampeth round about them that fear him, and delivereth
-them.”11  <span id="fr_105"></span>[106](#fn_105) By these passages the
+them.”11  <span id="fr_105"></span>[106](#fn_105.md) By these passages the
 Lord shows that the protection of those whom he has undertaken to defend
 he has delegated to his angels. Accordingly, an angel of the Lord
 consoles Hagar in her flight, and bids her be reconciled to her
@@ -365,7 +365,7 @@ single angel assigned to him for his defence, I dare not positively
 affirm. When Daniel introduces the angel of the Persian and the angel of
 the Greeks, he undoubtedly intimates that certain angels are appointed
 as a kind of presidents over kingdoms and provinces.11  <span
-id="fr_106"></span>[107](#fn_106) Again, when Christ says that the
+id="fr_106"></span>[107](#fn_106.md) Again, when Christ says that the
 angels of children always behold the face of his Father, he insinuates
 that there are certain angels to whom their safety has been entrusted.
 But I know not if it can be inferred from this, that each believer has
@@ -390,7 +390,7 @@ any one of the angels to whom the Lord might have given the charge of
 Peter at that particular time, without implying that he was to be his,
 perpetual guardian, according to the vulgar imagination (see Calvin on
 <span id="iv.i.xv-p37.1"></span>[Mark
-5:9](../../../bib/kjv/mar005.htm#009)<span id="iv.i.xv-p37.1"></span>),
+5:9](../../../bib/kjv/mar005.htm#009)<span id="iv.i.xv-p37.1"></span>.md),
 that two angels a good and a bad, as a kind of genii, are assigned to
 each individual. After all, it is not worthwhile anxiously to
 investigate a point which does not greatly concern us. If any one does
@@ -406,7 +406,7 @@ encircling and defending us, embolden us to fight more manfully.
 ranks and numbers of angels, would do well to consider on what
 foundation they rest. As to their rank, I admit that Michael is
 described by David as a mighty Prince, and by Jude as an Archangel.11
- <span id="fr_107"></span>[108](#fn_107) Paul also tells us, that an
+ <span id="fr_107"></span>[108](#fn_107.md) Paul also tells us, that an
 archangel will blow the trumpet which is to summon the world to
 Judgment. But how is it possible from such passages to ascertain the
 gradations of honour among the angels to determine the insignia, and
@@ -433,20 +433,20 @@ talking presumptuously.
 though called into doubt by certain restless individuals, we ought to
 hold for certain—viz. that angels are ministering spirits (<span
 id="iv.i.xv-p40.1"></span>[Heb.
-1:14](../../../bib/kjv/heb001.htm#014)<span id="iv.i.xv-p40.1"></span>);
+1:14](../../../bib/kjv/heb001.htm#014)<span id="iv.i.xv-p40.1"></span>.md);
 whose service God employs for the protection of his people, and by whose
 means he distributes his favours among men, and also executes other
 works. The Sadducees of old maintained, that by angels nothing more was
 meant than the movements which God impresses on men, or manifestations
 which he gives of his own power (<span id="iv.i.xv-p40.2"></span>[Acts
-23:8](../../../bib/kjv/act023.htm#008)<span id="iv.i.xv-p40.2"></span>).
+23:8](../../../bib/kjv/act023.htm#008)<span id="iv.i.xv-p40.2"></span>.md).
 But this dream is contradicted by so many passages of Scriptures that it
 seems strange how such gross ignorance could have had any countenance
 among the Jews. To say nothing of the passages I have already quoted,
 passages which refer to thousands and legions of angels, speak of them
 as rejoicing, as bearing up the faithful in their hands, carrying their
 souls to rest, beholding the face of their Father, and so forth:11
- <span id="fr_108"></span>[109](#fn_108) there are other passages which
+ <span id="fr_108"></span>[109](#fn_108.md) there are other passages which
 most clearly prove that they are real beings possessed of spiritual
 essence. Stephen and Paul say that the Law was enacted in the hands of
 angels. Our Saviour, moreover says that at the resurrection the elect
@@ -471,7 +471,7 @@ to the holy patriarchs in human form, their speaking, and consenting to
 be hospitably entertained. Christ, too, in consequence of the supremacy
 which he obtains as Mediator, is called the Angel (<span
 id="iv.i.xv-p41.13"></span>[Mal.
-3:1](../../../bib/kjv/mal003.htm#001)<span id="iv.i.xv-p41.13"></span>).
+3:1](../../../bib/kjv/mal003.htm#001)<span id="iv.i.xv-p41.13"></span>.md).
 It was thought proper to touch on this subject in passing, with the view
 of putting the simple upon their guard against the foolish and absurd
 imaginations which, suggested by Satan many centuries ago, are ever and
@@ -489,8 +489,8 @@ we now oppose, there is scarcely any one of greater antiquity. Even Paul
 appears to have had a severe contest with some who so exalted angels as
 to make them almost the superiors of Christ. Hence he so anxiously urges
 in his Epistle to the Colossians (<span id="iv.i.xv-p42.1"></span>[Col.
-1:16](../../../bib/kjv/col001.htm#016),
-[20](../../../bib/kjv/col001.htm#020)<span id="iv.i.xv-p42.1"></span>),
+1:16](../../../bib/kjv/col001.htm#016.md),
+[20](../../../bib/kjv/col001.htm#020)<span id="iv.i.xv-p42.1"></span>.md),
 that Christ is not only superior to all angels, but that all the
 endowments which they possess are derived from him; thus warning us
 against forsaking him, by turning to those who are not sufficient for
@@ -500,7 +500,7 @@ to which we are more prone than to prostrate ourselves before them in
 stupid adoration, and then ascribe to them the blessings which we owe to
 God alone. Even John confesses in the Apocalypse (<span
 id="iv.i.xv-p42.2"></span>[Rev.
-19:10](../../../bib/kjv/rev019.htm#010)<span id="iv.i.xv-p42.2"></span>;
+19:10](../../../bib/kjv/rev019.htm#010.md)<span id="iv.i.xv-p42.2"></span>;
 22:8, 9), that this was his own case, but he immediately adds the answer
 which was given to him, “See thou do it not; I am thy fellow servant:
 worship God.”
@@ -530,7 +530,7 @@ for this our weakness the Lord is pleased, in his infinite goodness and
 indulgence, to provide, it would ill become us to overlook the favour.
 Of this we have an example in the servant of Elisha (<span
 id="iv.i.xv-p43.1"></span>[2 Kings
-6:17](../../../bib/kjv/kg2006.htm#017)<span id="iv.i.xv-p43.1"></span>),
+6:17](../../../bib/kjv/kg2006.htm#017)<span id="iv.i.xv-p43.1"></span>.md),
 who, seeing the mountain encompassed by the army of the Assyrians, and
 no means of escape, was completely overcome with terror, and thought it
 all over with himself and his master. Then Elisha prayed to God to open
@@ -556,7 +556,7 @@ they do not direct us to Christ as the only Mediator on whom we must
 wholly depend and recline, looking towards him, and resting in him. Our
 minds ought to give thorough heed to what Jacob saw in his vision (<span
 id="iv.i.xv-p44.1"></span>[Gen.
-28:12](../../../bib/kjv/gen028.htm#012)<span
+28:12](../../../bib/kjv/gen028.htm#012.md)<span
 id="iv.i.xv-p44.1"></span>),—angels descending to the earth to men, and
 again mounting up from men to heaven, by means of a ladder, at the head
 of which the Lord of Hosts was seated, intimating that it is solely by
@@ -564,10 +564,10 @@ the intercession of Christ that the ministry of angels extends to us, as
 he himself declares, “Hereafter ye shall see heaven open, and the angels
 of God ascending and descending upon the Son of man,” (<span
 id="iv.i.xv-p44.2"></span>[John
-1:51](../../../bib/kjv/joh001.htm#051)<span id="iv.i.xv-p44.2"></span>).
+1:51](../../../bib/kjv/joh001.htm#051)<span id="iv.i.xv-p44.2"></span>.md).
 Accordingly, the servant of Abraham, though he had been commended to the
 guardianship of an angel (<span id="iv.i.xv-p44.3"></span>[Gen.
-24:7](../../../bib/kjv/gen024.htm#007)<span id="iv.i.xv-p44.3"></span>),
+24:7](../../../bib/kjv/gen024.htm#007)<span id="iv.i.xv-p44.3"></span>.md),
 does not therefore invoke that angel to be present with him, but
 trusting to the commendation, pours out his prayers before the Lord, and
 entreats him to show mercy to Abraham. As God does not make angels the
@@ -586,19 +586,19 @@ and machinations, that we may provide ourselves with weapons strong
 enough to drive away the most formidable foes. For when Satan is called
 the god and ruler of this world, the strong man armed, the prince of the
 power of the air, the roaring lion,11  <span
-id="fr_109"></span>[110](#fn_109) the object of all these descriptions
+id="fr_109"></span>[110](#fn_109.md) the object of all these descriptions
 is to make us more cautious and vigilant, and more prepared for the
 contest. This is sometimes stated in distinct terms. For Peter, after
 describing the devil as a roaring lion going about seeking whom he may
 devour, immediately adds the exhortation, “whom resist steadfast in the
 faith,” (<span id="iv.i.xv-p46.5"></span>[1 Pet.
-5:9](../../../bib/kjv/pe1005.htm#009)<span id="iv.i.xv-p46.5"></span>).
+5:9](../../../bib/kjv/pe1005.htm#009)<span id="iv.i.xv-p46.5"></span>.md).
 And Paul, after reminding us that we wrestle not against flesh and
 blood, but against principalities, against powers, against the rulers of
 the darkness of this world, against spiritual wickedness in high places,
 immediately enjoins us to put on armour equal to so great and perilous a
 contest (<span id="iv.i.xv-p46.6"></span>[Ephes.
-6:12](../../../bib/kjv/eph006.htm#012)<span id="iv.i.xv-p46.6"></span>).
+6:12](../../../bib/kjv/eph006.htm#012)<span id="iv.i.xv-p46.6"></span>.md).
 Wherefore, let this be the use to which we turn all these statements.
 Being forewarned of the constant presence of an enemy the most daring,
 the most powerful, the most crafty, the most indefatigable, the most
@@ -619,7 +619,7 @@ was possessed; and our Saviour assures us that it is an ordinary
 circumstance, when a devil has been expelled, if access is again given
 to it, to take seven other spirits, more wicked than itself, and resume
 the vacant possession. Nay, one man is said to have been possessed by a
-whole legion.11  <span id="fr_110"></span>[111](#fn_110) By this, then,
+whole legion.11  <span id="fr_110"></span>[111](#fn_110.md) By this, then,
 we are taught that the number of enemies with whom we have to war is
 almost infinite, that we may not, from a contemptuous idea of the
 fewness of their numbers, be more remiss in the contest, or from
@@ -631,7 +631,7 @@ for its head, so the faction of the wicked and wickedness itself, is
 portrayed with its prince exercising supremacy. Hence the expression,
 “Depart, ye cursed, into everlasting fire, prepared for the devil and
 his angels,” (<span id="iv.i.xv-p48.4"></span>[Mt.
-25:41](../../../bib/kjv/mat025.htm#041)<span
+25:41](../../../bib/kjv/mat025.htm#041.md)<span
 id="iv.i.xv-p48.4"></span>).
 
 <span id="iv.i.xv-p49"></span>15. One thing which ought to animate us to
@@ -648,13 +648,13 @@ he is seen seducing man from his allegiance to God, that he may both
 deprive God of his due honour, and plunge man headlong in destruction.
 Such, too, is the description given of him in the Gospels (<span
 id="iv.i.xv-p49.1"></span>[Mt.
-13:28](../../../bib/kjv/mat013.htm#028)<span
+13:28](../../../bib/kjv/mat013.htm#028.md)<span
 id="iv.i.xv-p49.1"></span>), where he is called the enemy, and is said
 to sow tares in order to corrupt the seed of eternal life. In one word,
 in all his actions we experience the truth of our Saviour’s description,
 that he was “a murderer from the beginning, and abode not in the truth,”
 (<span id="iv.i.xv-p49.2"></span>[John
-8:44](../../../bib/kjv/joh008.htm#044)<span id="iv.i.xv-p49.2"></span>).
+8:44](../../../bib/kjv/joh008.htm#044)<span id="iv.i.xv-p49.2"></span>.md).
 Truth he assails with lies, light he obscures with darkness. The minds
 of men he involves in error; he stirs up hatred, inflames strife and
 war, and all in order that he may overthrow the kingdom of God, and
@@ -664,7 +664,7 @@ extreme depravity in a mind bent on assailing the glory of God and the
 salvation of man. This is intimated by John in his Epistle, when he says
 that he “sinneth from the beginning,” (<span
 id="iv.i.xv-p49.3"></span>[1 John
-3:8](../../../bib/kjv/jo1003.htm#008)<span id="iv.i.xv-p49.3"></span>),
+3:8](../../../bib/kjv/jo1003.htm#008)<span id="iv.i.xv-p49.3"></span>.md),
 implying that he is the author, leader, and contriver of all malice and
 wickedness.
 
@@ -675,7 +675,7 @@ brought upon himself, by his revolt and fall. Of this Scripture reminds
 us, lest, by believing that he was so created at first, we should
 ascribe to God what is most foreign to his nature. For this reason,
 Christ declares (<span id="iv.i.xv-p50.1"></span>[John
-8:44](../../../bib/kjv/joh008.htm#044)<span id="iv.i.xv-p50.1"></span>),
+8:44](../../../bib/kjv/joh008.htm#044)<span id="iv.i.xv-p50.1"></span>.md),
 that Satan, when he lies, “speaketh of his own,” and states the reason,
 “because he abode not in the truth.” By saying that he abode not in the
 truth, he certainly intimates that he once was in the truth, and by
@@ -699,7 +699,7 @@ it was useful to know this much, it is clearly taught by Peter and Jude;
 “God,” they say, “spared not the angels that sinned, but cast them down
 to hell, and delivered them into chains of darkness to be reserved unto
 Judgment,” (<span id="iv.i.xv-p50.2"></span>[2 Pet.
-2:4](../../../bib/kjv/pe2002.htm#004)<span id="iv.i.xv-p50.2"></span>;
+2:4](../../../bib/kjv/pe2002.htm#004.md)<span id="iv.i.xv-p50.2"></span>;
 Jude ver. 6). And Paul, by speaking of the elect angels, obviously draws
 a tacit contrast between them and reprobate angels.
 
@@ -718,7 +718,7 @@ punished. In another place it is said that the plagues of Egypt were
 inflicted by God through the instrumentality of wicked angels. In
 conformity with these particular examples, Paul declares generally that
 unbelievers are blinded by God, though he had previously described it as
-the doing of Satan.11  <span id="fr_111"></span>[112](#fn_111) It is
+the doing of Satan.11  <span id="fr_111"></span>[112](#fn_111.md) It is
 evident, therefore, that Satan is under the power of God, and is so
 ruled by his authority, that he must yield obedience to it. Moreover,
 though we say that Satan resists God, and does works at variance with
@@ -746,16 +746,16 @@ exhortations as these: “Neither give place to the devil;” “Your
 adversary the devil, as a roaring lion, walketh about seeking whom he
 may devour; whom resist steadfast in the faith,” (<span
 id="iv.i.xv-p53.1"></span>[Eph.
-4:27](../../../bib/kjv/eph004.htm#027)<span id="iv.i.xv-p53.1"></span>;
+4:27](../../../bib/kjv/eph004.htm#027.md)<span id="iv.i.xv-p53.1"></span>;
 <span id="iv.i.xv-p53.2"></span>[1 Pet.
-5:8](../../../bib/kjv/pe1005.htm#008)<span id="iv.i.xv-p53.2"></span>).
+5:8](../../../bib/kjv/pe1005.htm#008)<span id="iv.i.xv-p53.2"></span>.md).
 Paul acknowledges that he was not exempt from this species of contest
 when he says, that for the purpose of subduing his pride, a messenger of
 Satan was sent to buffet him (<span id="iv.i.xv-p53.3"></span>[2 Cor.
-12:7](../../../bib/kjv/co2012.htm#007)<span id="iv.i.xv-p53.3"></span>).
+12:7](../../../bib/kjv/co2012.htm#007)<span id="iv.i.xv-p53.3"></span>.md).
 This trial, therefore, is common to all the children of God. But as the
 promise of bruising Satan’s head (<span id="iv.i.xv-p53.4"></span>[Gen.
-3:15](../../../bib/kjv/gen003.htm#015)<span id="iv.i.xv-p53.4"></span>)
+3:15](../../../bib/kjv/gen003.htm#015)<span id="iv.i.xv-p53.4"></span>.md)
 applies alike to Christ and to all his members, I deny that believers
 can ever be oppressed or vanquished by him. They are often, indeed,
 thrown into alarm, but never so thoroughly as not to recover themselves.
@@ -765,21 +765,21 @@ course of their lives, so as ultimately to gain the victory, though they
 meet with occasional defeats. We know how David, through the just anger
 of God, was left for a time to Satan, and by his instigation numbered
 the people (<span id="iv.i.xv-p53.5"></span>[2 Sam.
-24:1](../../../bib/kjv/sa2024.htm#001)<span id="iv.i.xv-p53.5"></span>);
+24:1](../../../bib/kjv/sa2024.htm#001)<span id="iv.i.xv-p53.5"></span>.md);
 nor without cause does Paul hold out a hope of pardon in case any should
 have become ensnared by the wiles of the devil (<span
 id="iv.i.xv-p53.6"></span>[2 Tim.
-2:26](../../../bib/kjv/ti2002.htm#026)<span id="iv.i.xv-p53.6"></span>).
+2:26](../../../bib/kjv/ti2002.htm#026)<span id="iv.i.xv-p53.6"></span>.md).
 Accordingly, he elsewhere shows that the promise above quoted commences
 in this life where the struggle is carried on, and that it is completed
 after the struggle is ended. His words are, “The God of peace shall
 bruise Satan under your feet shortly,” (<span
 id="iv.i.xv-p53.7"></span>[Rom.
-16:20](../../../bib/kjv/rom016.htm#020)<span
+16:20](../../../bib/kjv/rom016.htm#020.md)<span
 id="iv.i.xv-p53.7"></span>). In our Head, indeed, this victory was
 always perfect, because the prince of the world “had nothing” in him
 (<span id="iv.i.xv-p53.8"></span>[John
-14:30](../../../bib/kjv/joh014.htm#030)<span
+14:30](../../../bib/kjv/joh014.htm#030.md)<span
 id="iv.i.xv-p53.8"></span>); but in us, who are his members, it is now
 partially obtained, and will be perfected when we shall have put off our
 mortal flesh, through which we are liable to infirmity, and shall have
@@ -787,18 +787,18 @@ been filled with the energy of the Holy Spirit. In this way, when the
 kingdom of Christ is raised up and established, that of Satan falls, as
 our Lord himself expresses it, “I beheld Satan as lightning fall from
 heaven,” (<span id="iv.i.xv-p53.9"></span>[Luke
-10:18](../../../bib/kjv/luk010.htm#018)<span
+10:18](../../../bib/kjv/luk010.htm#018.md)<span
 id="iv.i.xv-p53.9"></span>). By these words, he confirmed the report
 which the apostles gave of the efficacy of their preaching. In like
 manner he says, “When a strong man armed keepeth his palace, his goods
 are in peace. But when a stronger than he shall come upon him, and
 overcome him, he taketh from him all his armour wherein he trusted, and
 divideth his spoils,” (<span id="iv.i.xv-p53.10"></span>[Luke
-11:21](../../../bib/kjv/luk011.htm#021),
-[22](../../../bib/kjv/luk011.htm#022)<span id="iv.i.xv-p53.10"></span>).
+11:21](../../../bib/kjv/luk011.htm#021.md),
+[22](../../../bib/kjv/luk011.htm#022)<span id="iv.i.xv-p53.10"></span>.md).
 And to this end, Christ, by dying, overcame Satan, who had the power of
 death (<span id="iv.i.xv-p53.11"></span>[Heb.
-2:14](../../../bib/kjv/heb002.htm#014)<span
+2:14](../../../bib/kjv/heb002.htm#014.md)<span
 id="iv.i.xv-p53.11"></span>), and triumphed over all his hosts that they
 might not injure the Church, which otherwise would suffer from them
 every moment. For (such being our weakness, and such his raging fury),
@@ -813,7 +813,7 @@ Gospel, and to do his own work in the children of disobedience. And
 justly; for all the wicked are vessels of wrath, and, accordingly, to
 whom should they be subjected but to the minister of the divine
 vengeance? In fine, they are said to be of their father the devil.11
- <span id="fr_112"></span>[113](#fn_112) For as believers are recognised
+ <span id="fr_112"></span>[113](#fn_112.md) For as believers are recognised
 to be the sons of God by bearing his image, so the wicked are properly
 regarded as the children of Satan, from having degenerated into his
 image.
@@ -827,7 +827,7 @@ carnal nature. The brief refutation is to be found in passages of
 Scripture on this subject, passages neither few nor obscure. First, when
 they are called unclean spirits and apostate angels (<span
 id="iv.i.xv-p55.1"></span>[Mt.
-12:43](../../../bib/kjv/mat012.htm#043)<span id="iv.i.xv-p55.1"></span>;
+12:43](../../../bib/kjv/mat012.htm#043.md)<span id="iv.i.xv-p55.1"></span>;
 Jude, verse 6), who have degenerated from their original, the very terms
 sufficiently declare that they are not motions or affections of the
 mind, but truly, as they are called, minds or spirits endued with sense
@@ -836,7 +836,7 @@ by John, and also by our Saviour, with the children of the devil, would
 not the contrast be absurd if the term devil meant nothing more than
 evil inspirations? And John adds still more emphatically, that the devil
 sinneth from the beginning (<span id="iv.i.xv-p55.2"></span>[1 John
-3:8](../../../bib/kjv/jo1003.htm#008)<span id="iv.i.xv-p55.2"></span>).
+3:8](../../../bib/kjv/jo1003.htm#008)<span id="iv.i.xv-p55.2"></span>.md).
 In like manner, when Jude introduces the archangel Michael contending
 with the devil (Jude, verse 9), he certainly contrasts a wicked and
 rebellious with a good angel. To this corresponds the account given in
@@ -847,15 +847,15 @@ begin to feel, and are to feel more especially at the resurrection,
 “What have we to do with thee, Jesus, thou Son of God? art thou come
 hither to torment us before the time?” (<span
 id="iv.i.xv-p55.3"></span>[Mt.
-8:29](../../../bib/kjv/mat008.htm#029)<span id="iv.i.xv-p55.3"></span>);
+8:29](../../../bib/kjv/mat008.htm#029)<span id="iv.i.xv-p55.3"></span>.md);
 and again, “Depart, ye cursed, into everlasting fire, prepared for the
 devil and his angels,” (<span id="iv.i.xv-p55.4"></span>[Mt.
-25:41](../../../bib/kjv/mat025.htm#041)<span
+25:41](../../../bib/kjv/mat025.htm#041.md)<span
 id="iv.i.xv-p55.4"></span>). Again, “If God spared not the angels that
 sinned, but cast them down to hell, and delivered them into chains of
 darkness to be reserved unto Judgment,” &c. (<span
 id="iv.i.xv-p55.5"></span>[2 Pet.
-2:4](../../../bib/kjv/pe2002.htm#004)<span id="iv.i.xv-p55.5"></span>).
+2:4](../../../bib/kjv/pe2002.htm#004)<span id="iv.i.xv-p55.5"></span>.md).
 How absurd the expressions, that devils are doomed to eternal
 punishment, that fire is prepared for them, that they are even now
 excruciated and tormented by the glory of Christ, if there were truly no
@@ -977,171 +977,171 @@ study with our whole heart to love and serve him.
 
 ### Footnotes
 
-<span id="fn_104"></span>[105](inst028.htm#fr_104) <span
+<span id="fn_104"></span>[105](inst028.htm#fr_104.md) <span
 id="iv.i.xv-p31.4"></span>
 
 <span id="iv.i.xv-p32"></span>11 111 <span
 id="iv.i.xv-p32.1"></span>[Gen
-18:2](../../../bib/kjv/gen018.htm#002)<span id="iv.i.xv-p32.1"></span>;
+18:2](../../../bib/kjv/gen018.htm#002.md)<span id="iv.i.xv-p32.1"></span>;
 32:1, 28; <span id="iv.i.xv-p32.2"></span>[Josh.
-5:14](../../../bib/kjv/jos005.htm#014)<span id="iv.i.xv-p32.2"></span>;
+5:14](../../../bib/kjv/jos005.htm#014.md)<span id="iv.i.xv-p32.2"></span>;
 <span id="iv.i.xv-p32.3"></span>[Judges
-6:14](../../../bib/kjv/jdg006.htm#014)<span id="iv.i.xv-p32.3"></span>;
+6:14](../../../bib/kjv/jdg006.htm#014.md)<span id="iv.i.xv-p32.3"></span>;
 13:10, 22.
 
-<span id="fn_105"></span>[106](inst028.htm#fr_105) <span
+<span id="fn_105"></span>[106](inst028.htm#fr_105.md) <span
 id="iv.i.xv-p33.1"></span>
 
 <span id="iv.i.xv-p34"></span>12 112 <span
 id="iv.i.xv-p34.1"></span>[Ps.
-91:11](../../../bib/kjv/psa091.htm#011)<span id="iv.i.xv-p34.1"></span>;
+91:11](../../../bib/kjv/psa091.htm#011.md)<span id="iv.i.xv-p34.1"></span>;
 34:8; <span id="iv.i.xv-p34.2"></span>[Gen.
-16:9](../../../bib/kjv/gen016.htm#009)<span id="iv.i.xv-p34.2"></span>;
+16:9](../../../bib/kjv/gen016.htm#009.md)<span id="iv.i.xv-p34.2"></span>;
 24:7; 48:16; <span id="iv.i.xv-p34.3"></span>[Exod.
-14:19](../../../bib/kjv/exo014.htm#019),
-[28](../../../bib/kjv/exo014.htm#028),
-[29](../../../bib/kjv/exo014.htm#029)<span id="iv.i.xv-p34.3"></span>;
+14:19](../../../bib/kjv/exo014.htm#019.md),
+[28](../../../bib/kjv/exo014.htm#028.md),
+[29](../../../bib/kjv/exo014.htm#029.md)<span id="iv.i.xv-p34.3"></span>;
 <span id="iv.i.xv-p34.4"></span>[Judg.
-2:1](../../../bib/kjv/jdg002.htm#001),
-[20](../../../bib/kjv/jdg002.htm#020)<span id="iv.i.xv-p34.4"></span>;
+2:1](../../../bib/kjv/jdg002.htm#001.md),
+[20](../../../bib/kjv/jdg002.htm#020.md)<span id="iv.i.xv-p34.4"></span>;
 6:11; 13:10; <span id="iv.i.xv-p34.5"></span>[Mt.
-4:11](../../../bib/kjv/mat004.htm#011)<span id="iv.i.xv-p34.5"></span>;
+4:11](../../../bib/kjv/mat004.htm#011.md)<span id="iv.i.xv-p34.5"></span>;
 <span id="iv.i.xv-p34.6"></span>[Luke
-22:43](../../../bib/kjv/luk022.htm#043)<span id="iv.i.xv-p34.6"></span>;
+22:43](../../../bib/kjv/luk022.htm#043.md)<span id="iv.i.xv-p34.6"></span>;
 <span id="iv.i.xv-p34.7"></span>[Mt.
-28:5](../../../bib/kjv/mat028.htm#005)<span id="iv.i.xv-p34.7"></span>;
+28:5](../../../bib/kjv/mat028.htm#005.md)<span id="iv.i.xv-p34.7"></span>;
 <span id="iv.i.xv-p34.8"></span>[Luke
-24:5](../../../bib/kjv/luk024.htm#005)<span id="iv.i.xv-p34.8"></span>;
+24:5](../../../bib/kjv/luk024.htm#005.md)<span id="iv.i.xv-p34.8"></span>;
 <span id="iv.i.xv-p34.9"></span>[Acts
-1:10](../../../bib/kjv/act001.htm#010)<span id="iv.i.xv-p34.9"></span>;
+1:10](../../../bib/kjv/act001.htm#010.md)<span id="iv.i.xv-p34.9"></span>;
 <span id="iv.i.xv-p34.10"></span>[2 Kings
-19:35](../../../bib/kjv/kg2019.htm#035)<span
+19:35](../../../bib/kjv/kg2019.htm#035.md)<span
 id="iv.i.xv-p34.10"></span>; <span id="iv.i.xv-p34.11"></span>[Isa
-37:36](../../../bib/kjv/isa037.htm#036)<span
+37:36](../../../bib/kjv/isa037.htm#036.md)<span
 id="iv.i.xv-p34.11"></span>.
 
-<span id="fn_106"></span>[107](inst028.htm#fr_106) <span
+<span id="fn_106"></span>[107](inst028.htm#fr_106.md) <span
 id="iv.i.xv-p35.1"></span>
 
 <span id="iv.i.xv-p36"></span>13 113 <span
-id="iv.i.xv-p36.1"></span>[Dan. 10:13](../../../bib/kjv/dan010.htm#013),
-[20](../../../bib/kjv/dan010.htm#020)<span id="iv.i.xv-p36.1"></span>;
+id="iv.i.xv-p36.1"></span>[Dan. 10:13](../../../bib/kjv/dan010.htm#013.md),
+[20](../../../bib/kjv/dan010.htm#020.md)<span id="iv.i.xv-p36.1"></span>;
 12:1; <span id="iv.i.xv-p36.2"></span>[Mt.
-18:20](../../../bib/kjv/mat018.htm#020)<span id="iv.i.xv-p36.2"></span>;
+18:20](../../../bib/kjv/mat018.htm#020.md)<span id="iv.i.xv-p36.2"></span>;
 <span id="iv.i.xv-p36.3"></span>[Luke
-15:7](../../../bib/kjv/luk015.htm#007)<span id="iv.i.xv-p36.3"></span>;
+15:7](../../../bib/kjv/luk015.htm#007.md)<span id="iv.i.xv-p36.3"></span>;
 16:22; <span id="iv.i.xv-p36.4"></span>[2 Kings
-16:17](../../../bib/kjv/kg2016.htm#017)<span id="iv.i.xv-p36.4"></span>;
+16:17](../../../bib/kjv/kg2016.htm#017.md)<span id="iv.i.xv-p36.4"></span>;
 <span id="iv.i.xv-p36.5"></span>[Acts
-12:15](../../../bib/kjv/act012.htm#015)<span id="iv.i.xv-p36.5"></span>.
+12:15](../../../bib/kjv/act012.htm#015.md)<span id="iv.i.xv-p36.5"></span>.
 
-<span id="fn_107"></span>[108](inst028.htm#fr_107) <span
+<span id="fn_107"></span>[108](inst028.htm#fr_107.md) <span
 id="iv.i.xv-p38.1"></span>
 
 <span id="iv.i.xv-p39"></span>14 114 <span
 id="iv.i.xv-p39.1"></span>[Dan
-12:1](../../../bib/kjv/dan012.htm#001)<span id="iv.i.xv-p39.1"></span>;
+12:1](../../../bib/kjv/dan012.htm#001.md)<span id="iv.i.xv-p39.1"></span>;
 <span id="iv.i.xv-p39.2"></span>[Jude
-9](../../../bib/kjv/jde001.htm#009)<span id="iv.i.xv-p39.2"></span>;
+9](../../../bib/kjv/jde001.htm#009.md)<span id="iv.i.xv-p39.2"></span>;
 <span id="iv.i.xv-p39.3"></span>[1 Thess.
-4:16](../../../bib/kjv/th1004.htm#016)<span id="iv.i.xv-p39.3"></span>;
+4:16](../../../bib/kjv/th1004.htm#016.md)<span id="iv.i.xv-p39.3"></span>;
 <span id="iv.i.xv-p39.4"></span>[Dan.
-10:13](../../../bib/kjv/dan010.htm#013),
-[21](../../../bib/kjv/dan010.htm#021)<span id="iv.i.xv-p39.4"></span>;
+10:13](../../../bib/kjv/dan010.htm#013.md),
+[21](../../../bib/kjv/dan010.htm#021.md)<span id="iv.i.xv-p39.4"></span>;
 <span id="iv.i.xv-p39.5"></span>[Luke
-1:19](../../../bib/kjv/luk001.htm#019),
-[26](../../../bib/kjv/luk001.htm#026)<span id="iv.i.xv-p39.5"></span>;
+1:19](../../../bib/kjv/luk001.htm#019.md),
+[26](../../../bib/kjv/luk001.htm#026.md)<span id="iv.i.xv-p39.5"></span>;
 <span id="iv.i.xv-p39.6"></span>[Tobit
-3:17](../../../bib/apo/tob003.htm#017)<span id="iv.i.xv-p39.6"></span>;
+3:17](../../../bib/apo/tob003.htm#017.md)<span id="iv.i.xv-p39.6"></span>;
 5:5; <span id="iv.i.xv-p39.7"></span>[Mt.
-26:53](../../../bib/kjv/mat026.htm#053)<span id="iv.i.xv-p39.7"></span>;
+26:53](../../../bib/kjv/mat026.htm#053.md)<span id="iv.i.xv-p39.7"></span>;
 <span id="iv.i.xv-p39.8"></span>[Dan.
-7:10](../../../bib/kjv/dan007.htm#010)<span id="iv.i.xv-p39.8"></span>;
+7:10](../../../bib/kjv/dan007.htm#010.md)<span id="iv.i.xv-p39.8"></span>;
 <span id="iv.i.xv-p39.9"></span>[2 Kings
-6:17](../../../bib/kjv/kg2006.htm#017)<span id="iv.i.xv-p39.9"></span>;
+6:17](../../../bib/kjv/kg2006.htm#017.md)<span id="iv.i.xv-p39.9"></span>;
 <span id="iv.i.xv-p39.10"></span>[Ps.
-34:7](../../../bib/kjv/psa034.htm#007)<span id="iv.i.xv-p39.10"></span>.
+34:7](../../../bib/kjv/psa034.htm#007.md)<span id="iv.i.xv-p39.10"></span>.
 
-<span id="fn_108"></span>[109](inst028.htm#fr_108) <span
+<span id="fn_108"></span>[109](inst028.htm#fr_108.md) <span
 id="iv.i.xv-p40.3"></span>
 
 <span id="iv.i.xv-p41"></span>15 115 <span
 id="iv.i.xv-p41.1"></span>[Luke
-15:10](../../../bib/kjv/luk015.htm#010)<span id="iv.i.xv-p41.1"></span>;
+15:10](../../../bib/kjv/luk015.htm#010.md)<span id="iv.i.xv-p41.1"></span>;
 <span id="iv.i.xv-p41.2"></span>[Ps.
-91:11](../../../bib/kjv/psa091.htm#011)<span id="iv.i.xv-p41.2"></span>;
+91:11](../../../bib/kjv/psa091.htm#011.md)<span id="iv.i.xv-p41.2"></span>;
 <span id="iv.i.xv-p41.3"></span>[Mt.
-4:6](../../../bib/kjv/mat004.htm#006)<span id="iv.i.xv-p41.3"></span>;
+4:6](../../../bib/kjv/mat004.htm#006.md)<span id="iv.i.xv-p41.3"></span>;
 <span id="iv.i.xv-p41.4"></span>[Luke
-4:10](../../../bib/kjv/luk004.htm#010),
-[16](../../../bib/kjv/luk004.htm#016),
-[22](../../../bib/kjv/luk004.htm#022)<span id="iv.i.xv-p41.4"></span>;
+4:10](../../../bib/kjv/luk004.htm#010.md),
+[16](../../../bib/kjv/luk004.htm#016.md),
+[22](../../../bib/kjv/luk004.htm#022.md)<span id="iv.i.xv-p41.4"></span>;
 <span id="iv.i.xv-p41.5"></span>[Matt.
-18:10](../../../bib/kjv/mat018.htm#010)<span id="iv.i.xv-p41.5"></span>;
+18:10](../../../bib/kjv/mat018.htm#010.md)<span id="iv.i.xv-p41.5"></span>;
 <span id="iv.i.xv-p41.6"></span>[Acts
-7:55](../../../bib/kjv/act007.htm#055)<span id="iv.i.xv-p41.6"></span>;
+7:55](../../../bib/kjv/act007.htm#055.md)<span id="iv.i.xv-p41.6"></span>;
 <span id="iv.i.xv-p41.7"></span>[Gal.
-3:19](../../../bib/kjv/gal003.htm#019)<span id="iv.i.xv-p41.7"></span>;
+3:19](../../../bib/kjv/gal003.htm#019.md)<span id="iv.i.xv-p41.7"></span>;
 <span id="iv.i.xv-p41.8"></span>[Mt.
-22:80](../../../bib/kjv/mat022.htm#080)<span id="iv.i.xv-p41.8"></span>;
+22:80](../../../bib/kjv/mat022.htm#080.md)<span id="iv.i.xv-p41.8"></span>;
 24:36; <span id="iv.i.xv-p41.9"></span>Eph. 30:10<span
 id="iv.i.xv-p41.9"></span>; <span id="iv.i.xv-p41.10"></span>[1 Peter
-1:12](../../../bib/kjv/pe1001.htm#012)<span id="iv.i.xv-p41.10"></span>;
+1:12](../../../bib/kjv/pe1001.htm#012.md)<span id="iv.i.xv-p41.10"></span>;
 <span id="iv.i.xv-p41.11"></span>[Heb.
-1:6](../../../bib/kjv/heb001.htm#006)<span id="iv.i.xv-p41.11"></span>;
+1:6](../../../bib/kjv/heb001.htm#006.md)<span id="iv.i.xv-p41.11"></span>;
 <span id="iv.i.xv-p41.12"></span>[Ps.
-97:7](../../../bib/kjv/psa097.htm#007)<span id="iv.i.xv-p41.12"></span>.
+97:7](../../../bib/kjv/psa097.htm#007.md)<span id="iv.i.xv-p41.12"></span>.
 
-<span id="fn_109"></span>[110](inst028.htm#fr_109) <span
+<span id="fn_109"></span>[110](inst028.htm#fr_109.md) <span
 id="iv.i.xv-p45.1"></span>
 
 <span id="iv.i.xv-p46"></span>16 116 <span id="iv.i.xv-p46.1"></span>[2
-Cor. 4:4](../../../bib/kjv/co2004.htm#004)<span
+Cor. 4:4](../../../bib/kjv/co2004.htm#004.md)<span
 id="iv.i.xv-p46.1"></span>; <span id="iv.i.xv-p46.2"></span>[John
-12:31](../../../bib/kjv/joh012.htm#031)<span id="iv.i.xv-p46.2"></span>;
+12:31](../../../bib/kjv/joh012.htm#031.md)<span id="iv.i.xv-p46.2"></span>;
 <span id="iv.i.xv-p46.3"></span>[Mt.
-12:29](../../../bib/kjv/mat012.htm#029)<span id="iv.i.xv-p46.3"></span>;
+12:29](../../../bib/kjv/mat012.htm#029.md)<span id="iv.i.xv-p46.3"></span>;
 <span id="iv.i.xv-p46.4"></span>[Eph.
-2:2](../../../bib/kjv/eph002.htm#002)<span id="iv.i.xv-p46.4"></span>.
+2:2](../../../bib/kjv/eph002.htm#002.md)<span id="iv.i.xv-p46.4"></span>.
 
-<span id="fn_110"></span>[111](inst028.htm#fr_110) <span
+<span id="fn_110"></span>[111](inst028.htm#fr_110.md) <span
 id="iv.i.xv-p47.1"></span>
 
 <span id="iv.i.xv-p48"></span>17 117 <span
 id="iv.i.xv-p48.1"></span>[Mark
-16:9](../../../bib/kjv/mar016.htm#009)<span id="iv.i.xv-p48.1"></span>;
+16:9](../../../bib/kjv/mar016.htm#009.md)<span id="iv.i.xv-p48.1"></span>;
 <span id="iv.i.xv-p48.2"></span>[Mt.
-12:43](../../../bib/kjv/mat012.htm#043)<span id="iv.i.xv-p48.2"></span>;
+12:43](../../../bib/kjv/mat012.htm#043.md)<span id="iv.i.xv-p48.2"></span>;
 <span id="iv.i.xv-p48.3"></span>[Luke
-8:30](../../../bib/kjv/luk008.htm#030)<span id="iv.i.xv-p48.3"></span>.
+8:30](../../../bib/kjv/luk008.htm#030.md)<span id="iv.i.xv-p48.3"></span>.
 
-<span id="fn_111"></span>[112](inst028.htm#fr_111) <span
+<span id="fn_111"></span>[112](inst028.htm#fr_111.md) <span
 id="iv.i.xv-p51.1"></span>
 
 <span id="iv.i.xv-p52"></span>18 118 <span
 id="iv.i.xv-p52.1"></span>[Job
-1:6](../../../bib/kjv/job001.htm#006)<span id="iv.i.xv-p52.1"></span>;
+1:6](../../../bib/kjv/job001.htm#006.md)<span id="iv.i.xv-p52.1"></span>;
 2:1; <span id="iv.i.xv-p52.2"></span>[1 Kings
-22:20](../../../bib/kjv/kg1022.htm#020)<span id="iv.i.xv-p52.2"></span>;
+22:20](../../../bib/kjv/kg1022.htm#020.md)<span id="iv.i.xv-p52.2"></span>;
 1 Sam.16:14; 18:10; <span id="iv.i.xv-p52.3"></span>[2 Thess.
-2:9](../../../bib/kjv/th2002.htm#009),
-[11](../../../bib/kjv/th2002.htm#011)<span id="iv.i.xv-p52.3"></span>.
+2:9](../../../bib/kjv/th2002.htm#009.md),
+[11](../../../bib/kjv/th2002.htm#011.md)<span id="iv.i.xv-p52.3"></span>.
 
-<span id="fn_112"></span>[113](inst028.htm#fr_112) <span
+<span id="fn_112"></span>[113](inst028.htm#fr_112.md) <span
 id="iv.i.xv-p53.12"></span>
 
 <span id="iv.i.xv-p54"></span>19 119 <span id="iv.i.xv-p54.1"></span>[2
-Cor. 4:4](../../../bib/kjv/co2004.htm#004)<span
+Cor. 4:4](../../../bib/kjv/co2004.htm#004.md)<span
 id="iv.i.xv-p54.1"></span>; <span id="iv.i.xv-p54.2"></span>[Eph.
-2:2](../../../bib/kjv/eph002.htm#002)<span id="iv.i.xv-p54.2"></span>;
+2:2](../../../bib/kjv/eph002.htm#002.md)<span id="iv.i.xv-p54.2"></span>;
 <span id="iv.i.xv-p54.3"></span>[Rom.
-9:22](../../../bib/kjv/rom009.htm#022)<span id="iv.i.xv-p54.3"></span>;
+9:22](../../../bib/kjv/rom009.htm#022.md)<span id="iv.i.xv-p54.3"></span>;
 <span id="iv.i.xv-p54.4"></span>[John
-8:44](../../../bib/kjv/joh008.htm#044)<span id="iv.i.xv-p54.4"></span>;
+8:44](../../../bib/kjv/joh008.htm#044.md)<span id="iv.i.xv-p54.4"></span>;
 <span id="iv.i.xv-p54.5"></span>[1 John
-3:8](../../../bib/kjv/jo1003.htm#008)<span id="iv.i.xv-p54.5"></span>.
+3:8](../../../bib/kjv/jo1003.htm#008.md)<span id="iv.i.xv-p54.5"></span>.
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 15. - STATE IN WHICH MAN WAS CREATED. THE FACULTIES OF
-THE SOULTHE IMAGE OF GODFREE WILLORIGINAL RIGHTEOUSNESS](inst029)
+THE SOULTHE IMAGE OF GODFREE WILLORIGINAL RIGHTEOUSNESS](inst029.md)

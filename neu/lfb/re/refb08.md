@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb07)  [Next](refb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb07)  [Next](refb09.md) 
 
 </div>
 
@@ -641,6 +641,6 @@ pastime.
 
 ------------------------------------------------------------------------
 
-[Next: Brother and Sister](refb09)
+[Next: Brother and Sister](refb09.md)
 
 </div>

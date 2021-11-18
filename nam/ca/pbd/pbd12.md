@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd11)  [Next](pbd13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd11)  [Next](pbd13.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,11 +15,11 @@ Heritage
 The ideas that the doctor is actually transformed into a bear, that bear
 hair grows out through his skin, and that he comes to life after having
 been killed—ideas found among certain California Indians <span
-id="fr_18"></span>[19](#fn_18) have not been discovered among the Pomo.
+id="fr_18"></span>[19](#fn_18.md) have not been discovered among the Pomo.
 
 As might be expected, from the contiguity of the two groups and their
 numerous cultural identities, the Pomo and Yuki <span
-id="fr_19"></span>[20](#fn_19) bear doctors are very similar. The Yuki,
+id="fr_19"></span>[20](#fn_19.md) bear doctors are very similar. The Yuki,
 however, have certain beliefs that the Pomo do not possess.
 
 The Yuki bear doctor began by repeatedly dreaming of bears and was taken
@@ -55,11 +55,11 @@ similar in both tribes.
 
 ### Footnotes
 
-<span id="fn_18"></span>[462:19](pbd12.htm#fr_18) Kroeber, *loc. cit*.
+<span id="fn_18"></span>[462:19](pbd12.htm#fr_18.md) Kroeber, *loc. cit*.
 
-<span id="fn_19"></span>[462:20](pbd12.htm#fr_19) This comparison is
+<span id="fn_19"></span>[462:20](pbd12.htm#fr_19.md) This comparison is
 based on manuscript data of Dr. Kroeber concerning the Yuki.
 
 ------------------------------------------------------------------------
 
-[Next: Comparison With Miwok Beliefs](pbd13)
+[Next: Comparison With Miwok Beliefs](pbd13.md)

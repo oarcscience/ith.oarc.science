@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip52)  [Next](fip54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip52)  [Next](fip54.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_201">p. 201</span>
 
-### THE LEGEND OF O'DONOGHUE <span id="fr_41"></span>[1](#fn_41)
+### THE LEGEND OF O'DONOGHUE <span id="fr_41"></span>[1](#fn_41.md)
 
 T. Crofton Croker
 
@@ -98,9 +98,9 @@ died away, and the hearers awoke as from a dream of bliss.
 
 ### Footnotes
 
-<span id="fn_41"></span>[201:1](fip53.htm#fr_41) Fairy Legends of the
+<span id="fn_41"></span>[201:1](fip53.htm#fr_41.md) Fairy Legends of the
 South of Ireland.
 
 ------------------------------------------------------------------------
 
-[Next: Rent-day](fip54)
+[Next: Rent-day](fip54.md)

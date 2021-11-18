@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar043) [Next](gbar045)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar043) [Next](gbar045.md)
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ And having said this, Jesus rendered his thanks to God.
 
 ------------------------------------------------------------------------
 
-[Next](gbar045)
+[Next](gbar045.md)

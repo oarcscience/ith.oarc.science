@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes25)  [Next](mes27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes25)  [Next](mes27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,7 +21,7 @@ Textual Heritage
 ### XI.
 
 <span id="img_m21800"></span> ![The Lion's Hunt, in
-Company.](img/m21800.jpg)
+Company.](img/m21800.jpg.md)
 
 <span class="smallcaps">A lion</span>, wolf, and fox together went to
 hunt;  
@@ -39,7 +39,7 @@ kindness makes them share his warlike swoops
 The sun would feel ashamed, did stars with him appear;  
 ’Tis generous in the sun to grace the starry sphere.  
 ’Twas God's command to Ahmed still: "With them consult." <span
-id="fr_332"></span>[1](#fn_331)  
+id="fr_332"></span>[1](#fn_331.md)  
 True, they gave no advice; no counsel did result.  
 Upon the balance barley's weighed, as well as gold;  
 But barley, thence, has not acquired gold's value told.  
@@ -86,7 +86,7 @@ So all your paltry surmise of my royal mind
 An insult is,—an arrogance,—that must be fined. <span
 class="margnote"><span id="an_25">25</span></span>  
 'They who conceive an evil thing of God' <span
-id="fr_333"></span>[1](#fn_332) are cursed;  
+id="fr_333"></span>[1](#fn_332.md) are cursed;  
 And if I spare you, justice will be clean reversed.  
 To rid the world of scandal, I must end your lives;  
 Your story shall a moral point; whoe’er contrives."
@@ -127,7 +127,7 @@ Thyself thou shouldst have vanquished in my presence dread.
 so, thou’rt now numbered with the dead."
 
 "All perisheth, except His counsel" ’s holy writ. <span
-id="fr_334"></span>[1](#fn_333)  
+id="fr_334"></span>[1](#fn_333.md)  
 If we're not of "His counsel," life cannot us fit.
 
 <span id="page_m221">p. 221</span>
@@ -182,7 +182,7 @@ E’en non-existence, death of death, at His command,
 life, compelled by His supreme demand.
 
 Recite, my friend: "Each day He's busied with a work:" <span
-id="fr_335"></span>[1](#fn_334)  
+id="fr_335"></span>[1](#fn_334.md)  
 And know, He's never idle, unemployed to lurk.  
 His smallest daily toil,—a work like pleasure still,—  
 Is to send forth three armies, bound to work His will.  
@@ -263,7 +263,7 @@ With our acquaintances, wolf, fox, and lion;—trow.
 
 The lordly lion ’d torn poor wolf's head from his tail,  
 That so two heads there might not be for one avail.  
-"On them We vengeance took" <span id="fr_336"></span>[1](#fn_335) ’s a
+"On them We vengeance took" <span id="fr_336"></span>[1](#fn_335.md) ’s a
 well-known sacred text;  
 Wherefore, poor wolf, not quash thyself, when lion's next?
 
@@ -318,7 +318,7 @@ Consider well, ye readers;—think upon yourselves.
 
 Who's wise will from his heart cast out all fond conceits  
 Of greatness, when he hears of ‘Ād's <span
-id="fr_337"></span>[1](#fn_336) and Pharaoh's feats.  
+id="fr_337"></span>[1](#fn_336.md) and Pharaoh's feats.  
 Unless he warning take from what on others fell,  
 Men shall a moral draw from his case, sad to tell.
 
@@ -346,7 +346,7 @@ Whoe’er ’gainst the hidden lion in saint's form
 Upraise the voice of pride, like to our wolf, base worm,  
 Shall, like that wolf, be torn by lion piecemeal quite;  
 The text: "On them we vengeance took" he shall recite. <span
-id="fr_338"></span>[2](#fn_337)  
+id="fr_338"></span>[2](#fn_337.md)  
 A stroke shall lay him low, as wolf by lion's paw.  
 A madman must he be who'd rush in lion's maw.  
 O that the stroke had fallen upon the body frail;  
@@ -392,22 +392,22 @@ class="margnote"><span id="an_139">139</span></span>
 
 ### Footnotes
 
-<span id="fn_331"></span>[m218:1](mes26.htm#fr_332) Qur’ān iii. 153.
+<span id="fn_331"></span>[m218:1](mes26.htm#fr_332.md) Qur’ān iii. 153.
 
-<span id="fn_332"></span>[m219:1](mes26.htm#fr_333) Qur’ān xlviii. 6.
+<span id="fn_332"></span>[m219:1](mes26.htm#fr_333.md) Qur’ān xlviii. 6.
 
-<span id="fn_333"></span>[m220:1](mes26.htm#fr_334) Qur’ān xxviii. 88.
+<span id="fn_333"></span>[m220:1](mes26.htm#fr_334.md) Qur’ān xxviii. 88.
 
-<span id="fn_334"></span>[m222:1](mes26.htm#fr_335) Qur’ān lv. 29.
+<span id="fn_334"></span>[m222:1](mes26.htm#fr_335.md) Qur’ān lv. 29.
 
-<span id="fn_335"></span>[m224:1](mes26.htm#fr_336) Qur’ān vii. 132.
+<span id="fn_335"></span>[m224:1](mes26.htm#fr_336.md) Qur’ān vii. 132.
 
-<span id="fn_336"></span>[m226:1](mes26.htm#fr_337) See Tale iv., dist.
+<span id="fn_336"></span>[m226:1](mes26.htm#fr_337.md) See Tale iv., dist.
 121.
 
-<span id="fn_337"></span>[m226:2](mes26.htm#fr_338) Qur’ān vii. 132. See
-note \[[1](#fn_335)\], p. 224.
+<span id="fn_337"></span>[m226:2](mes26.htm#fr_338.md) Qur’ān vii. 132. See
+note \[[1](#fn_335.md)\], p. 224.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Joseph and the Mirror](mes27)
+[Next: XII. Joseph and the Mirror](mes27.md)

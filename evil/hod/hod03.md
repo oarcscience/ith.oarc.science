@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod02)  [Next](hod04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod02)  [Next](hod04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ immanent and transcendent: it is immanent as the constituent
 characteristic of the law that pervades the universe; it is
 transcendent, for it is the condition of any possible cosmic order; and
 in this sense it is supercosmic and supernatural. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 We do not say that God is impersonal, for the word "impersonal" implies
 the absence of those features which constitute personality; it implies
@@ -152,11 +152,11 @@ the nature of the idea of evil.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:1](hod03.htm#fr_0) See the author's *Idea of
+<span id="fn_0"></span>[4:1](hod03.htm#fr_0.md) See the author's *Idea of
 God; Soul of Man*, pp. 338 et seq.; *Fundamental Problems*, p. 152 *et
 passim*; *Primer of Philosophy*, p 170 *et passim*; *The Monist*, Vol.
 III., pp. 357 et seq.; *Homilies of Science*, pp. 79-120.
 
 ------------------------------------------------------------------------
 
-[Next: Devil Worship](hod04)
+[Next: Devil Worship](hod04.md)

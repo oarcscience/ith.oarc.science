@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv15)  [Next](rsv17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv15)  [Next](rsv17.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ appease would be to create problems.
 
 Thus the Spirit House, the Spirit Pole in the rice paddies, the mirror
 by the door of the home, the "ishi" lions at the Temples or homes, the
-[Ancestor](errata.htm#26) Altars or Shelves, etc., are attempts to be in
+[Ancestor](errata.htm#26.md) Altars or Shelves, etc., are attempts to be in
 harmony with the spirits, and to have the spirits to do the will of the
 appeaser. Moreover, pleased spirits can do much to counteract evil ones.
 It is widely believed by most classes throughout Vietnam that spirits
@@ -249,4 +249,4 @@ Determine to be the best American example possible.
 
 ------------------------------------------------------------------------
 
-[Next: A Religiously Influenced Culture](rsv17)
+[Next: A Religiously Influenced Culture](rsv17.md)

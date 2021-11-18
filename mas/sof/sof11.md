@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof10)  [Next](sof12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof10)  [Next](sof12.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head09.png"></span> ![Header Chapter IX.](img/head09.png)
+<span id="img_head09.png"></span> ![Header Chapter IX.](img/head09.png.md)
 
 ## IX.
 
@@ -133,6 +133,6 @@ itself could never be understood.
 
 ------------------------------------------------------------------------
 
-[Next: X. The System of Symbolic Instuction](sof12)
+[Next: X. The System of Symbolic Instuction](sof12.md)
 
 </div>

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410203565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410203565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410203565/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](eoc00)    [Page
-Index](pageidx)    [Text (Zipped)](eoctxt.zip)
+[Contents](#contents)    [Start Reading](eoc00.md)    [Page
+Index](pageidx)    [Text (Zipped)](eoctxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -41,19 +41,19 @@ Confucius.'
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](eoc00)  
-[Foreword](eoc01)  
-[Introduction](eoc02)  
+<span id="contents"></span> [Title Page](eoc00.md)  
+[Foreword](eoc01.md)  
+[Introduction](eoc02.md)  
 [The Works of Confucius, His Disciples, and Most Important
-Followers](eoc03)  
-[Confucius](eoc04)  
-[Contents](eoc05)  
-[Chapter I. What Constitutes the Superior Man](eoc06)  
-[Chapter II. Self-Development](eoc07)  
-[Chapter III. General Human Relations](eoc08)  
-[Chapter IV. The Family](eoc09)  
-[Chapter V. The State](eoc10)  
-[Chapter VI. Cultivation of the Fine Arts](eoc11)  
-[Chapter VII. Universal Relations](eoc12)  
-[Appendix: The “Great Principle” of Confucius](eoc13)  
-[Index](eoc14)  
+Followers](eoc03.md)  
+[Confucius](eoc04.md)  
+[Contents](eoc05.md)  
+[Chapter I. What Constitutes the Superior Man](eoc06.md)  
+[Chapter II. Self-Development](eoc07.md)  
+[Chapter III. General Human Relations](eoc08.md)  
+[Chapter IV. The Family](eoc09.md)  
+[Chapter V. The State](eoc10.md)  
+[Chapter VI. Cultivation of the Fine Arts](eoc11.md)  
+[Chapter VII. Universal Relations](eoc12.md)  
+[Appendix: The “Great Principle” of Confucius](eoc13.md)  
+[Index](eoc14.md)  

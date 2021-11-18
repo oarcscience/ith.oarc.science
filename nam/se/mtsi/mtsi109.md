@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi108)  [Next](mtsi110) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi108)  [Next](mtsi110.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ off.
 
 ------------------------------------------------------------------------
 
-[Next: 17. The Man Who Became a Snake](mtsi110)
+[Next: 17. The Man Who Became a Snake](mtsi110.md)

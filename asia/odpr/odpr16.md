@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](odpr15)  [Next](odpr17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](odpr15)  [Next](odpr17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
 
 My trust I put in our lord the Ḥakīm-God who is above number and child,
 and my thanks I offer to his servant, the only Messiah \[Ḥamzah\]. From
-the eloquent servant, <span id="fr_215"></span>[1](#fn_215) the slave of
+the eloquent servant, <span id="fr_215"></span>[1](#fn_215.md) the slave of
 our lord the guide and Messiah, to all those who seek rapprochement to
 the deity through the reality of the Eucharist and who, of all people of
 truth, hold fast to the belief in it \[i.e., the Eucharist\] be they
@@ -33,7 +33,7 @@ their loyalty to the Lord according to the covenant they made with him
 pledging their own souls, and who offer their lives in the love of the
 loyal one, the high priest, the martyr of martyrs, John the Evangelist,
 who sustained for the sake of his Lord insult, slaughter and
-beheadedness! <span id="fr_216"></span>[2](#fn_216)
+beheadedness! <span id="fr_216"></span>[2](#fn_216.md)
 
 One of the strangest things of the age is how these people have
 forgotten the fundamentals of their religion, followed what has been
@@ -46,7 +46,7 @@ and far, for their wicked beliefs.
 <span id="page_69">p. 69</span>
 
 Where is then your loyalty to the Lord, O you assembly of
-hypocrites, <span id="fr_217"></span>[1](#fn_217) and where is your
+hypocrites, <span id="fr_217"></span>[1](#fn_217.md) and where is your
 acceptance of his commandments, O liars, if you believe in him and trust
 in his return for the salvation of the people of truth from their sins?
 Did he not command you in the third chapter of the Gospel of Matthew
@@ -57,7 +57,7 @@ your father who is in the heavens, who makes his sun to shine upon the
 good and the evil, and his rain to fall upon the righteous and the
 wicked? For if you love those who love you, what reward or credit should
 be given you? Even the Pharisees may do this very thing itself." <span
-id="fr_218"></span>[2](#fn_218)
+id="fr_218"></span>[2](#fn_218.md)
 
 O you stiff-necked and stupid ones, the remnant of idol worshipers! You
 have neither accepted him who gave you his commandment, recognized and
@@ -105,22 +105,22 @@ those who relate themselves to the Christian nation.
 
 ### Footnotes
 
-<span id="fn_215"></span>[68:1](odpr16.htm#fr_215) I. e. Bahā’-al-Dīn,
+<span id="fn_215"></span>[68:1](odpr16.htm#fr_215.md) I. e. Bahā’-al-Dīn,
 the writer of this epistle.
 
-<span id="fn_216"></span>[68:2](odpr16.htm#fr_216) Bahā’-al-Dīn, who may
+<span id="fn_216"></span>[68:2](odpr16.htm#fr_216.md) Bahā’-al-Dīn, who may
 have been a Christian apostate, confuses here John the Evangelist with
 John the Baptist, and in another place with John Chrysostom.
 
-<span id="fn_217"></span>[69:1](odpr16.htm#fr_217) In the preceding
+<span id="fn_217"></span>[69:1](odpr16.htm#fr_217.md) In the preceding
 Epistle to Constantine, Bahā’-al-Dīn addresses the Christians as
 "assembly of saints," because he was then still hopeful of winning them
 to the Druze religion.
 
-<span id="fn_218"></span>[69:2](odpr16.htm#fr_218) *Cf*. Matthew 5:
+<span id="fn_218"></span>[69:2](odpr16.htm#fr_218.md) *Cf*. Matthew 5:
 44-47.
 
 ------------------------------------------------------------------------
 
 [Next: Appendix F. Exhortations And Prayers By Al-Sayyid ‘Abdullāh
-Al-Tanūkhi](odpr17)
+Al-Tanūkhi](odpr17.md)

@@ -1,9 +1,9 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](hanged0) [Next](hanged2)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](hanged0) [Next](hanged2.md)
 
 ------------------------------------------------------------------------
 
-## THE POEM OF IMRU-UL-QUAIS<span id="fr_1"></span>[1](#note_1)
+## THE POEM OF IMRU-UL-QUAIS<span id="fr_1"></span>[1](#note_1.md)
 
    Stop, oh my friends, let us pause to weep over the remembrance of my
 beloved.  
@@ -41,7 +41,7 @@ Ummul-Rahab in Masal.
 
    Behold how many pleasant days have I spent with fair women;  
    Especially do I remember the day at the pool of Darat-i-Juljul.<span
-id="fr_2"></span>[2](#note_2)  
+id="fr_2"></span>[2](#note_2.md)  
 
    On that day I killed my riding camel for food for the maidens:  
    How merry was their dividing my camel's trappings to be carried on
@@ -278,19 +278,19 @@ like the onion's root-bulbs.
 
 ------------------------------------------------------------------------
 
-[Next: The Poem of Antar](hanged2)
+[Next: The Poem of Antar](hanged2.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="note_1"></span>[1](#fr_1). This is supposed to be the oldest
+<span id="note_1"></span>[1](#fr_1.md). This is supposed to be the oldest
 of the "hanged" poems. Like the others it shifts abruptly from theme to
 theme, and is full of poetic comparisons. Indeed, its author is said to
 have started this fashion, winning for himself the name of "The creator
 of images."
 
-<span id="note_2"></span>[2](#fr_2). The poet in this and the following
+<span id="note_2"></span>[2](#fr_2.md). The poet in this and the following
 lines refers to an incident which is thus told us: during his wooing of
 Unaizah he followed her and the other maidens when they rode on camels
 to the pool Darat-i-Juljul. The women bathed in the pool and he captured

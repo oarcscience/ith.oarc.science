@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs08)  [Next](abs10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs08)  [Next](abs10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -60,7 +60,7 @@ by something, and something which must
 
 <span id="img_map03"></span> <span align="CENTER"> [![MAP III. NORTH
 AMERICA](tn/map03.jpg)  
-Click to enlarge](img/map03.jpg)  
+Click to enlarge](img/map03.jpg.md)  
 MAP III. NORTH AMERICA  
 </span>
 
@@ -183,8 +183,8 @@ clear through this country to tropical America, we are going to have to
 be prepared for some real surprises—both ways. You will see what I mean
 by this in a minute.
 
-At this point I would ask you to glance at [Maps III](#img_map03) and
-[XVI](abs22.htm#img_map16),
+At this point I would ask you to glance at [Maps III](#img_map03.md) and
+[XVI](abs22.htm#img_map16.md),
 
 <span id="page_86">p. 86</span>
 
@@ -417,7 +417,7 @@ map that look like this:
 
 <span id="img_09200"></span> <span align="CENTER"> [![1050 square miles
 in Northern Louisiana](tn/09200.jpg)  
-Click to enlarge](img/09200.jpg)  
+Click to enlarge](img/09200.jpg.md)  
 1050 square miles in Northern Louisiana  
 </span>
 
@@ -447,7 +447,7 @@ It is therefore my duty to report to you; so here goes:
 Dear Sir,
 
 My name is James Meacham, I read the article that you wrote for True
-Magazine. <span id="fr_10"></span>[\*](#fn_10) I have been planning on
+Magazine. <span id="fr_10"></span>[\*](#fn_10.md) I have been planning on
 going to California in the same area that your article was about. I was
 a little surprised to read about such a creature as an abominable
 Snowman living so close to where I intended to visit. I have always
@@ -586,7 +586,7 @@ alive.
 
 <div style="font-family: Helvetica, Arial, Geneva, sans-serif">
 
-Usually <span id="fr_11"></span>[\*](#fn_11) this strange beast can't be
+Usually <span id="fr_11"></span>[\*](#fn_11.md) this strange beast can't be
 found, and interest in it dies as mysteriously as it arose in the
 beginning.… About 25 years ago, a 'coon hunter from Hecker one night
 heard a strange beast screaming up ahead on Prairie du Long Creek.
@@ -785,7 +785,7 @@ the Klamath River area in northern California.
 The extent, position, and boundaries of this area may be seen on Map IV.
 You may calculate its dimensions for yourself. This I beg of you to do,
 rather than writing to me about it.  <span
-id="fr_12"></span>[\*](#fn_12) Please note also that it starts at the
+id="fr_12"></span>[\*](#fn_12.md) Please note also that it starts at the
 bottom about Clear Lake which is just 70 miles north of San Francisco,
 and it continues on north into Oregon. Actually it is confluent with a
 much vaster block in the Cascades, and is nowhere completely cut off (by
@@ -909,7 +909,7 @@ This interesting information was first given to me by a Mr. Oscar Mack,
 doyen of the Yurok clans of the upper Hoopa Valley. The same statement
 has cropped up again and again during my investigations all over the
 Puget Sound to California area. If, moreover, you look at [Map
-I](abs06.htm#img_map01) you will note an extremely odd
+I](abs06.htm#img_map01.md) you will note an extremely odd
 
 <span id="page_104">p. 104</span>
 
@@ -1219,14 +1219,14 @@ Government. He was, in fact, solidly on the right track!
 
 ### Footnotes
 
-<span id="fn_10"></span>[93:\*](abs09.htm#fr_10) "The Strange Story of
+<span id="fn_10"></span>[93:\*](abs09.htm#fr_10.md) "The Strange Story of
 America's Abominable Snowman," True, The Man's Magazine, Vol. 40,
 December, 1959.
 
-<span id="fn_11"></span>[96:\*](abs09.htm#fr_11) This is a funny word.
+<span id="fn_11"></span>[96:\*](abs09.htm#fr_11.md) This is a funny word.
 Does it imply that sometimes it *can* be found?
 
-<span id="fn_12"></span>[100:\*](abs09.htm#fr_12) In the article
+<span id="fn_12"></span>[100:\*](abs09.htm#fr_12.md) In the article
 mentioned above in True Magazine, an extra zero unfortunately became
 attached to the area given, a mistake that started with my typing but
 went clean through to the published story. This resulted in a deluge of
@@ -1236,4 +1236,4 @@ Californians; and some even from the counties concerned!
 
 ------------------------------------------------------------------------
 
-[Next: 6. In Our Own Back Yard](abs10)
+[Next: 6. In Our Own Back Yard](abs10.md)

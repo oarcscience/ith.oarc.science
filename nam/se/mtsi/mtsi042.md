@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi041)  [Next](mtsi043) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi041)  [Next](mtsi043.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ This story is used as a medicine song in cases of cholera morbus.
 ------------------------------------------------------------------------
 
 [Next: 41. Rabbit Gets Man-eater Over to the Other Side of the Ocean
-(Second Version)](mtsi043)
+(Second Version)](mtsi043.md)

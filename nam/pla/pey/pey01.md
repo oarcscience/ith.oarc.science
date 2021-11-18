@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pey00)  [Next](pey02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pey00)  [Next](pey02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -61,13 +61,13 @@ forgiveness.
 <span id="img_pl54a"></span>
 
 [![&lt;i&gt;a&lt;/i&gt;. PEYOTE LEADERS](tn/pl54a.jpg)  
-Click to enlarge](img/pl54a.jpg)  
+Click to enlarge](img/pl54a.jpg.md)  
 *a*. PEYOTE LEADERS  
 
 <span id="img_pl54b"></span>
 
 [![&lt;i&gt;b&lt;/i&gt;. BURIAL HUTS](tn/pl54b.jpg)  
-Click to enlarge](img/pl54b.jpg)  
+Click to enlarge](img/pl54b.jpg.md)  
 *b*. BURIAL HUTS  
 
 <span id="page_341">p. 341</span>
@@ -75,18 +75,18 @@ Click to enlarge](img/pl54b.jpg)
 <span id="img_pl55a"></span>
 
 [![&lt;i&gt;a&lt;/i&gt;. OLIVER LAMERE](tn/pl55a.jpg)  
-Click to enlarge](img/pl55a.jpg)  
+Click to enlarge](img/pl55a.jpg.md)  
 *a*. OLIVER LAMERE  
 
 <span id="img_pl55b"></span>
 
 [![&lt;i&gt;b&lt;/i&gt;. JOHN RAVE](tn/pl55b.jpg)  
-Click to enlarge](img/pl55b.jpg)  
+Click to enlarge](img/pl55b.jpg.md)  
 *b*. JOHN RAVE  
 
 In 1910 the cult already had a rather definite organization. There was,
-at every performance, one leader ([pl. 54, a](#img_pl54a)) and four
-principal participants. John Rave (pls. 5, *b*; [55, b](#img_pl55b)),
+at every performance, one leader ([pl. 54, a](#img_pl54a).md) and four
+principal participants. John Rave (pls. 5, *b*; [55, b](#img_pl55b).md),
 the Winnebago who introduced the peyote, was always the leader whenever
 he was present. On other occasions leadership devolved upon some older
 member. The four other principal participants changed from meeting to
@@ -134,4 +134,4 @@ peyote eaters.
 ------------------------------------------------------------------------
 
 [Next: John Rave's Account of the Peyote Cult and of His
-Conversion](pey02)
+Conversion](pey02.md)

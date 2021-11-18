@@ -1,13 +1,13 @@
 # Heidelberg Catechism
 
--   [Heidelberg Catechism](#Heading1)
-    -   [The First Part - Of The Misery Of Man](#Heading2)
-    -   [The Second Part - Of Man's Deliverance](#Heading3)
-        -   [Of God The Father](#Heading4)
-        -   [Of God The Son](#Heading5)
-        -   [Of God The Holy Ghost](#Heading6)
-    -   [The Third Part - Of Thankfulness](#Heading7)
-        -   [Of Prayer](#Heading8)
+-   [Heidelberg Catechism](#Heading1.md)
+    -   [The First Part - Of The Misery Of Man](#Heading2.md)
+    -   [The Second Part - Of Man's Deliverance](#Heading3.md)
+        -   [Of God The Father](#Heading4.md)
+        -   [Of God The Son](#Heading5.md)
+        -   [Of God The Holy Ghost](#Heading6.md)
+    -   [The Third Part - Of Thankfulness](#Heading7.md)
+        -   [Of Prayer](#Heading8.md)
 
 ------------------------------------------------------------------------
 

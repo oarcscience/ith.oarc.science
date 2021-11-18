@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0252068823/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0252068823/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0252068823/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gd00)    [Page
-Index](pageidx)    [Text](gd.txt)
+[Contents](#contents)    [Start Reading](gd00.md)    [Page
+Index](pageidx)    [Text](gd.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -63,18 +63,18 @@ person a favor. . .
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gd00)  
-[Table of Contents](gd01)  
-[Introduction](gd02)  
-[Chapter I. A Review](gd03)  
-[Chapter II. Bibliography](gd04)  
+<span id="contents"></span> [Title Page](gd00.md)  
+[Table of Contents](gd01.md)  
+[Introduction](gd02.md)  
+[Chapter I. A Review](gd03.md)  
+[Chapter II. Bibliography](gd04.md)  
 [Chapter III. Tales With the Simple Theme and Miscellaneous
-Combinations](gd05)  
-[Chapter IV. The Grateful Dead and the Poison Maiden](gd06)  
-[Chapter V. The Grateful Dead and the Ransomed Woman](gd07)  
+Combinations](gd05.md)  
+[Chapter IV. The Grateful Dead and the Poison Maiden](gd06.md)  
+[Chapter V. The Grateful Dead and the Ransomed Woman](gd07.md)  
 [Chapter VI. The Grateful Dead and the Water of Life or Kindred
-Themes](gd08)  
+Themes](gd08.md)  
 [Chapter VII. The Relations of the Grateful Dead to the Spendthrift
-Knight, the Two Friends, and the Thankful Beasts](gd09)  
-[Chapter VIII. Conclusion](gd10)  
-[Index](gd11)  
+Knight, the Two Friends, and the Thankful Beasts](gd09.md)  
+[Chapter VIII. Conclusion](gd10.md)  
+[Index](gd11.md)  

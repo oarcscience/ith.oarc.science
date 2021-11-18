@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por72)  [Next](por74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por72)  [Next](por74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### LISTENING <span id="fr_8"></span>[\*](por74.htm#fn_8)
+### LISTENING <span id="fr_8"></span>[\*](por74.htm#fn_8.md)
 
 <div style="margin-left: 32px">
 
@@ -28,4 +28,4 @@ Who come out of the silence?
 
 ------------------------------------------------------------------------
 
-[Next: Buffalo Dance](por74)
+[Next: Buffalo Dance](por74.md)

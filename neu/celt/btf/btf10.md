@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf09)  [Next](btf11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf09)  [Next](btf11.md) 
 
 ------------------------------------------------------------------------
 
@@ -914,4 +914,4 @@ Guleesh na Guss Dhu
 
 ------------------------------------------------------------------------
 
-[Next: The Well of D'Yerree-In-Dowan](btf11)
+[Next: The Well of D'Yerree-In-Dowan](btf11.md)

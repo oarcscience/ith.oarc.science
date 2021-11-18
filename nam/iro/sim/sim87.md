@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim86)  [Next](sim88) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim86)  [Next](sim88.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ On seeing it the Indians say, "The lazy man has killed the Bear."
 
 ------------------------------------------------------------------------
 
-[Next: The Chipmunk and the Bear](sim88)
+[Next: The Chipmunk and the Bear](sim88.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth106)  [Next](toth108) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth106)  [Next](toth108.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_254">p. 254</span>
 
-## 104. THE DESTRUCTION OF AOATOVI. <span id="fr_193"></span>[1](#fn_191)
+## 104. THE DESTRUCTION OF AOATOVI. <span id="fr_193"></span>[1](#fn_191.md)
 
 Alíksai! At Aoátovi they were living. The village chief had some fine
 nice fields there. North of the village were two springs. The village
@@ -80,9 +80,9 @@ taken to the villages and distributed there where they remained.
 
 ### Footnotes
 
-<span id="fn_191"></span>[254:1](toth107.htm#fr_193) Told by Kúhkuima
+<span id="fn_191"></span>[254:1](toth107.htm#fr_193.md) Told by Kúhkuima
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 105. How An Oraíbi Chief Punished His People](toth108)
+[Next: 105. How An Oraíbi Chief Punished His People](toth108.md)

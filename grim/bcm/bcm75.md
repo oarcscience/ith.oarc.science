@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm74)  [Next](bcm76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm74)  [Next](bcm76.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ exceedingly popular and is to be found in most of the Grimoires.
 
 ------------------------------------------------------------------------
 
-[Next: Section 6: Concerning Divination by the Word of Uriel](bcm76)
+[Next: Section 6: Concerning Divination by the Word of Uriel](bcm76.md)

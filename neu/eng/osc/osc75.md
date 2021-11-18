@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc74)  [Next](osc76) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc74)  [Next](osc76.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ them are based in fear and a lack of self-confidence.
 
 ------------------------------------------------------------------------
 
-[Next: (10) Christening Ships](osc76)
+[Next: (10) Christening Ships](osc76.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram11)  [Next](ram13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram11)  [Next](ram13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -60,7 +60,7 @@ each armed with a kurbach or slave-whip. The elders of the tribe and a
 number of women gather as spectators and judges of the contest that is
 to follow. The young men, stripped stark naked, begin a mutual process
 of flogging, and he who stands this ordeal best is the successful
-wooer. <span id="fr_168"></span>[\*](#fn_168) No other consideration or
+wooer. <span id="fr_168"></span>[\*](#fn_168.md) No other consideration or
 feeling is allowed to interfere with custom, as that would be
 displeasing to the gods. Should a woman marry without such a contest,
 her prospects would be poor indeed, having despised an ordinance of
@@ -86,13 +86,13 @@ a sacred function conformable to the will of the gods who delight in
 manly vigour. A Mitto chief warns those entering his country of war
 being made upon them, should they persist, by displaying on a tree near
 the path, an ear of corn, a feather and an arrow. <span
-id="fr_169"></span>[\*](#fn_169) He who touches corn or cock will
+id="fr_169"></span>[\*](#fn_169.md) He who touches corn or cock will
 receive an arrow. In that country, too, a man wishing to marry applies
 to his chief for a wife. If thought worthy one is bestowed upon him, as
 all persons and property within the territory belong to the king. Both
 Mitto and Niam-Niam bury their dead, with strict regard to the points of
 the compass; men being buried with the face towards the east; women
-looking to the west. <span id="fr_170"></span>[†](#fn_170)
+looking to the west. <span id="fr_170"></span>[†](#fn_170.md)
 
 <span id="page_176">p. 176</span>
 
@@ -103,7 +103,7 @@ age of puberty, he is smeared with white clay and decorated, after which
 he betakes himself to the woods, either alone or in company with others
 of his own age. There they must remain till they meet and kill a man,
 after which they wash off their clay and return home to be feasted and
-honoured. <span id="fr_171"></span>[\*](#fn_171) They are now men, not
+honoured. <span id="fr_171"></span>[\*](#fn_171.md) They are now men, not
 boys. A Waneka prophetess begins operations at midnight by frantic
 screams. When all are astir she declares, "Roma, *i.e.*, spirit or the
 god, is here, and demands the sacrifice of a black ox." This is at once
@@ -117,11 +117,11 @@ by strategy, and for this purpose may have to lie in wait for months.
 Before he begins his vigil he pays the parents the dower. Hottentots
 preserve a certain membrane at birth, a bit of which is worn through
 life. Its loss would entail evil here and hereafter. <span
-id="fr_172"></span>[†](#fn_172) Common people in Dahomey may not grow
+id="fr_172"></span>[†](#fn_172.md) Common people in Dahomey may not grow
 grain except for domestic purposes, as all property belongs to the king.
 So, too, the persons of his subjects. At certain annual festivals he
 holds a sale of marriageable young women. <span
-id="fr_173"></span>[‡](#fn_173) Court favourites receive wives free, but
+id="fr_173"></span>[‡](#fn_173.md) Court favourites receive wives free, but
 all others pay. Unlawful wounding is an injury done
 
 <span id="page_177">p. 177</span>
@@ -145,7 +145,7 @@ tribesmen. If the criminal is among them, one of the reeds flies out of
 his hand as he approaches him. This reed he picks up, as the magic reed,
 and lays the bundle aside. He then presses it against the man indicated,
 when, if he is guilty, the rod revolves in his hand. <span
-id="fr_174"></span>[\*](#fn_174) When an earthquake occurred at Accra,
+id="fr_174"></span>[\*](#fn_174.md) When an earthquake occurred at Accra,
 the king issued a proclamation that his father's spirit was giving the
 earth a shake, because the children were not obeying the customs, and
 giving due reverence to the reigning monarch. After this, he called for
@@ -163,14 +163,14 @@ gardens, satisfied he had done an act of most reverent devotion. His
 conduct will not seem so strange and horrible as at first sight appears,
 when it is borne in mind that as late as 1230 human sacrifices were
 offered in Prussia in honour of the goddess of corn and fruits. <span
-id="fr_175"></span>[\*](#fn_175)
+id="fr_175"></span>[\*](#fn_175.md)
 
 When old King Chop of Calabar drank, a chief held his great toe. The
 chief of Old Town kept his soul in a sacred grove near a spring of
 water. Some Europeans, in frolic or ignorance, cut down part of the
 grove, to the intense indignation of the spirit, who, according to the
 king, would visit them with all manner of evil. <span
-id="fr_176"></span>[†](#fn_176) A successor is not chosen till the king
+id="fr_176"></span>[†](#fn_176.md) A successor is not chosen till the king
 is buried and all the ceremonies completed. These are elaborate and
 protracted. What becomes of the soul in the grove I do not know;
 probably it enters the new king, who in turn deposits it in the wood for
@@ -190,7 +190,7 @@ decked with feathers. He is then led to the edge of the forest, where he
 wanders till he has killed a man, after which he returns and has a ring
 of rhinoceros hide placed upon his arm as a badge of office and to
 indicate that he is now a sacred person. <span
-id="fr_177"></span>[\*](#fn_177) Some tribes regard twins as the
+id="fr_177"></span>[\*](#fn_177.md) Some tribes regard twins as the
 greatest good luck, others as monsters to be killed—the harbingers of
 calamity. Most, if not all Africans have some sacred animal which they
 do not kill, and with which their lives are in some way bound up. This
@@ -203,7 +203,7 @@ is our friend; if he lies may he perish, he and all his caravan." The
 stranger then takes the goat, and doing as the chief has done, says, "If
 I practise any evil against Maganine, him or his people, his cattle or
 his lands, may I utterly perish, and this caravan." <span
-id="fr_178"></span>[†](#fn_178) The goat's head is then cut off "that
+id="fr_178"></span>[†](#fn_178.md) The goat's head is then cut off "that
 blood and saliva may mingle." The skin of its forehead is divided into
 two parts and one given to each of the parties to the contract. A small
 slit is made in this and worn as a ring on the middle finger in token of
@@ -212,16 +212,16 @@ to
 
 <span id="page_180">p. 180</span>
 
-cement friendship. <span id="fr_179"></span>[\*](#fn_179) The people of
+cement friendship. <span id="fr_179"></span>[\*](#fn_179.md) The people of
 Kiwendo never sacrifice a goat, but at their great religious meetings
 they turn one adrift to wander where it will. The animal has a collar of
 cowries tied round its neck, by which it is distinguished from a strayed
-animal. <span id="fr_180"></span>[†](#fn_180) This is the only approach
+animal. <span id="fr_180"></span>[†](#fn_180.md) This is the only approach
 to the idea of a scapegoat, as understood by the Jews, I know of in
 Africa. The goat is devoted to Lubare. Of old, when a Scottish king gave
 an unjust judgment his neck took a twist, and so remained till justice
 was done. African chiefs have boils <span
-id="fr_181"></span>[‡](#fn_181) in such a case as this.
+id="fr_181"></span>[‡](#fn_181.md) in such a case as this.
 
 These customs I have set down at random, selecting them from the
 observances of peoples widely apart. My object is not to trace the
@@ -234,35 +234,35 @@ aimed at. by the performance of these acts.
 
 ### Footnotes
 
-<span id="fn_168"></span>[174:\*](ram12.htm#fr_168) Felkin.
+<span id="fn_168"></span>[174:\*](ram12.htm#fr_168.md) Felkin.
 
-<span id="fn_169"></span>[175:\*](ram12.htm#fr_169) Schweinfurth.
+<span id="fn_169"></span>[175:\*](ram12.htm#fr_169.md) Schweinfurth.
 
-<span id="fn_170"></span>[175:†](ram12.htm#fr_170) *Ibid*.
+<span id="fn_170"></span>[175:†](ram12.htm#fr_170.md) *Ibid*.
 
-<span id="fn_171"></span>[176:\*](ram12.htm#fr_171) Krapf.
+<span id="fn_171"></span>[176:\*](ram12.htm#fr_171.md) Krapf.
 
-<span id="fn_172"></span>[176:†](ram12.htm#fr_172) Moody.
+<span id="fn_172"></span>[176:†](ram12.htm#fr_172.md) Moody.
 
-<span id="fn_173"></span>[176:‡](ram12.htm#fr_173) Rowley.
+<span id="fn_173"></span>[176:‡](ram12.htm#fr_173.md) Rowley.
 
-<span id="fn_174"></span>[177:\*](ram12.htm#fr_174) Elmslie, Krapf,
+<span id="fn_174"></span>[177:\*](ram12.htm#fr_174.md) Elmslie, Krapf,
 Perry.
 
-<span id="fn_175"></span>[178:\*](ram12.htm#fr_175) Dr. Maclear.
+<span id="fn_175"></span>[178:\*](ram12.htm#fr_175.md) Dr. Maclear.
 
-<span id="fn_176"></span>[178:†](ram12.htm#fr_176) New.
+<span id="fn_176"></span>[178:†](ram12.htm#fr_176.md) New.
 
-<span id="fn_177"></span>[179:\*](ram12.htm#fr_177) New.
+<span id="fn_177"></span>[179:\*](ram12.htm#fr_177.md) New.
 
-<span id="fn_178"></span>[179:†](ram12.htm#fr_178) Myer.
+<span id="fn_178"></span>[179:†](ram12.htm#fr_178.md) Myer.
 
-<span id="fn_179"></span>[180:\*](ram12.htm#fr_179) Ashe.
+<span id="fn_179"></span>[180:\*](ram12.htm#fr_179.md) Ashe.
 
-<span id="fn_180"></span>[180:†](ram12.htm#fr_180) *Ibid*.
+<span id="fn_180"></span>[180:†](ram12.htm#fr_180.md) *Ibid*.
 
-<span id="fn_181"></span>[180:‡](ram12.htm#fr_181) Stewart.
+<span id="fn_181"></span>[180:‡](ram12.htm#fr_181.md) Stewart.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Acts of Devotion—Myths](ram13)
+[Next: Chapter XI. Acts of Devotion—Myths](ram13.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str07)  [Next](str09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str07)  [Next](str09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -77,7 +77,7 @@ which it lies. But ’tis very difficult to come at its true length. ’Tis
 
 <span id="img_pl16"></span> <span align="CENTER"> [![Plate 16. The
 Section of Stonehenge looking towards the Entrance.](tn/pl16.jpg)  
-Click to enlarge](img/pl16.jpg)  
+Click to enlarge](img/pl16.jpg.md)  
 Plate 16. The Section of Stonehenge looking towards the Entrance.  
 </span>
 
@@ -113,7 +113,7 @@ of a future pate had the Druids infus’d into them. The reader may divert
 himself with endeavouring to explain it. The writing upon plates of gold
 or tin is exceeding ancient, as we see in *Job* xix. 24.
 
-<span id="img_03100"></span> ![Reputed Celtic Writing](img/03100.jpg)
+<span id="img_03100"></span> ![Reputed Celtic Writing](img/03100.jpg.md)
 
 Plutarch in his pamphlet *de dæmonio Socratis* tells a similar story.
 “About the time of *Agesilaus*, they found a brazen tablet in the
@@ -141,7 +141,7 @@ collections, relating to antiquities of this sort. There are several of
 these ditches, being very small in breadth, which run across the downs.
 I take them for boundaries of hundreds, <span class="margnote">TAB.
 XXXI.</span> parishes, *&c*. Such as the reader may observe in my
-*Plate* [XXXI.](str14.htm#img_pl31) of the barrows in *Lake-field*. I
+*Plate* [XXXI.](str14.htm#img_pl31.md) of the barrows in *Lake-field*. I
 suspect this too was a tablet with an inscription on it, but falling
 into the hands of the countrymen, they could no more discern the
 writing, than interpret it. No doubt but this was some of the old
@@ -178,7 +178,7 @@ I have a brass coin given me by *John Collins* Esq; collector of the
 excise at *Stamford*. The heads of *Julius* and *Augustus* averse: the
 reverse a crocodile, palm-branch and garland. COL. NEM. the colony of
 Nemausus in France. It was found upon *Salisbury* plain; and might be
-lost there before the *Roman* conquest of [*Britain*](errata.htm#4)
+lost there before the *Roman* conquest of [*Britain*](errata.htm#4.md)
 under *Claudius*, by people of *France* coming hither; or in after-ages:
 no matter which.
 
@@ -200,10 +200,10 @@ what has been found by digging at *Stonehenge*, which I can give.
 
 <span id="img_pl17"></span> <span align="CENTER"> [![Plate 17. An inward
 View of Stonehenge. Aug. 1722 from the north.](tn/pl17.jpg)  
-Click to enlarge](img/pl17.jpg)  
+Click to enlarge](img/pl17.jpg.md)  
 Plate 17. An inward View of Stonehenge. Aug. 1722 from the north.  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](str09)
+[Next: Chapter VII](str09.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce21)  [Next](sce23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce21)  [Next](sce23.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ Sight tranƒmitted from Father to Sone thorow the whole Family, without
 their own Conƒent or others teaching, proceeding only from a Bounty of
 Providence it ƒeems, or by Compact, or by a complexionall Quality of the
 firƒt Acquirer. As it may ƒeem alike ƒtrange (yet nothing vicious) in
-ƒuch as Maƒter Great-rake, <span id="fr_34"></span>[1](#fn_34) the Iriƒh
+ƒuch as Maƒter Great-rake, <span id="fr_34"></span>[1](#fn_34.md) the Iriƒh
 Stroaker, Seventh-ƒons, and others that cure the King's Evill,
 
 and
@@ -133,9 +133,9 @@ uƒewally the unhealthy Fumes of the ƒick infect the ƒound and whole.
 
 ### Footnotes
 
-<span id="fn_34"></span>[30:1](sce22.htm#fr_34) Note
-( [e1](sce29.htm#xref_e1)), [p. 88](sce29.htm#page_88).
+<span id="fn_34"></span>[30:1](sce22.htm#fr_34.md) Note
+( [e1](sce29.htm#xref_e1)), [p. 88](sce29.htm#page_88.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 13](sce23)
+[Next: Chapter 13](sce23.md)

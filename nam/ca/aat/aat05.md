@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat04)  [Next](aat06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat04)  [Next](aat06.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ got fire again.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Loon-Woman (Achomawi)](aat06)
+[Next: 5. Loon-Woman (Achomawi)](aat06.md)

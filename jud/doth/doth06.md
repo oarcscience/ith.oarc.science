@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth05)  [Next](doth07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth05)  [Next](doth07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 ### <span class="smallcaps">The Ethics of the Body and the Ethics of the Soul</span>
 
 <span class="smallcaps">The</span> wisdom of the *Torah* <span
-id="fr_3"></span>[\*](doth05.htm#fn_2) is divided into two parts:
+id="fr_3"></span>[\*](doth05.htm#fn_2.md) is divided into two parts:
 
 I. The wisdom of the visible, that enables us to know the duties of the
 body and its members; and these include not only all the practical
@@ -40,6 +40,6 @@ even without revelation.
 
 ------------------------------------------------------------------------
 
-[Next: Examples of Duties of the Heart](doth07)
+[Next: Examples of Duties of the Heart](doth07.md)
 
 </div>

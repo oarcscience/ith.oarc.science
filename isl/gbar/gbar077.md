@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar076) [Next](gbar078)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar076) [Next](gbar078.md)
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ should use the gifts as instruments to slay the giver.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar078)
+[Next](gbar078.md)

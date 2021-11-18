@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Next](frr01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Next](frr01.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface](frr01)
+[Next: Preface](frr01.md)

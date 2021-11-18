@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst067)  [Next](inst069) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst067)  [Next](inst069.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,12 +99,12 @@ the grace of God reign by Jesus Christ,” (August. de Prædest. Sanct).
 Again, “The saints ascribe nothing to their merits; every thing will
 they ascribe solely to thy mercy, O God,” (August. in <span
 id="iv.iii.xvi-p13.1"></span>[Psal.
-139](../../../bib/kjv/psa139.htm#000)<span
+139](../../../bib/kjv/psa139.htm#000.md)<span
 id="iv.iii.xvi-p13.1"></span>). Again, “And when a man sees that
 whatever good he has he has not of himself, but of his God, he sees that
 every thing in him which is praised is not of his own merits, but of the
 divine mercy,” (August. in <span id="iv.iii.xvi-p13.2"></span>[Psal.
-88](../../../bib/kjv/psa088.htm#000)<span
+88](../../../bib/kjv/psa088.htm#000.md)<span
 id="iv.iii.xvi-p13.2"></span>). You see how he denies man the power of
 acting aright, and thus lays merit prostrate. Chrysostom says, “If any
 works of ours follow the free calling of God, they are return and debt;
@@ -126,7 +126,7 @@ reason for asking by what merits may we hope for blessings; especially
 when you hear, ‘Thus saith the Lord God; I do not this for your sakes, O
 house of Israel, but for mine holy name’s sake,’ (<span
 id="iv.iii.xvi-p13.3"></span>[Ezek.
-36:22](../../../bib/kjv/eze036.htm#022)<span
+36:22](../../../bib/kjv/eze036.htm#022.md)<span
 id="iv.iii.xvi-p13.3"></span>). It suffices for merit to know that
 merits suffice not.”
 
@@ -137,7 +137,7 @@ observance of the law (if it can any where be found) will merit when it
 enjoins, “So likewise ye, when ye shall have done all those things which
 are commanded you, say, We are unprofitable servants, we have done that
 which was our duty to do,” (<span id="iv.iii.xvi-p14.1"></span>[Luke
-17:10](../../../bib/kjv/luk017.htm#010)<span
+17:10](../../../bib/kjv/luk017.htm#010.md)<span
 id="iv.iii.xvi-p14.1"></span>); because we make no free-offering to God,
 but only perform due service by which no favor is deserved. And yet
 those good works which the Lord has bestowed upon us he counts ours
@@ -182,11 +182,11 @@ passages in order to prove that the Scriptures use the term *merit* with
 reference to God. They quote a passage from Ecclesiasticus: “Mercy will
 give place to every man according to the merit of his works,” (<span
 id="iv.iii.xvi-p15.1"></span>[Ecclesiasticus
-16:14](../../../bib/apo/sir016.htm#014)<span
+16:14](../../../bib/apo/sir016.htm#014.md)<span
 id="iv.iii.xvi-p15.1"></span>); and from the Epistle to the Hebrews: “To
 do good and communicate forget not; for with such sacrifices God is well
 pleased,” (<span id="iv.iii.xvi-p15.2"></span>[Heb.
-13:16](../../../bib/kjv/heb013.htm#016)<span
+13:16](../../../bib/kjv/heb013.htm#016.md)<span
 id="iv.iii.xvi-p15.2"></span>). I now renounce my right to repudiate the
 authority of Ecclesiasticus; but I deny that the words of
 Ecclesiasticus, whoever the writer may have been, are faithfully quoted.
@@ -217,14 +217,14 @@ is contrary to the doctrine of Scripture. For though Christ says, “Unto
 every one that has shall be given;” “thou hast been faithful over a few
 things, I will make thee ruler over many things,” (<span
 id="iv.iii.xvi-p15.3"></span>[Matt.
-25:29](../../../bib/kjv/mat025.htm#029),
-[21](../../../bib/kjv/mat025.htm#021)<span
+25:29](../../../bib/kjv/mat025.htm#029.md),
+[21](../../../bib/kjv/mat025.htm#021.md)<span
 id="iv.iii.xvi-p15.3"></span>), he, at the same time, shows that all
 additional gifts to believers are of his free benignity: “Ho, every one
 that thirsteth, come ye to the waters, and he that has no money, come
 ye, buy, and eat: yea, come, buy wine and milk, without money and
 without price,” (<span id="iv.iii.xvi-p15.4"></span>[Isaiah
-55:1](../../../bib/kjv/isa055.htm#001)<span
+55:1](../../../bib/kjv/isa055.htm#001.md)<span
 id="iv.iii.xvi-p15.4"></span>). Therefore, every help to salvation
 bestowed upon believers, and blessedness itself, are entirely the gift
 of God, and yet in both the Lord testifies that he takes account of
@@ -238,7 +238,7 @@ have arisen. Paul says, that in the architecture of Christian doctrine,
 it is necessary to retain the foundation which he had laid with the
 Corinthians, “Other foundation can no man lay than that which is laid,
 which is Jesus Christ,” (<span id="iv.iii.xvi-p16.1"></span>[1 Cor.
-3:11](../../../bib/kjv/co1003.htm#011)<span
+3:11](../../../bib/kjv/co1003.htm#011.md)<span
 id="iv.iii.xvi-p16.1"></span>). What then is our foundation in Christ?
 Is it that he begins salvation and leaves us to complete it? Is it that
 he only opened up the way, and left us to follow it in our own strength?
@@ -255,14 +255,14 @@ cross;” that we are reconciled by his blood; that, placed under his
 protection, we are delivered from the danger of finally perishing; that
 thus ingrafted into him we are made partakers of eternal life, and hope
 for admission into the kingdom of God.43  <span
-id="fr_425"></span>[426](#fn_425) Nor is this all. Being admitted to
+id="fr_425"></span>[426](#fn_425.md) Nor is this all. Being admitted to
 participation in him, though we are still foolish, he is our wisdom;
 though we are still sinners he is our righteousness; though we are
 unclean, he is our purity; though we are weak, unarmed, and exposed to
 Satan, yet ours is the power which has been given him in heaven and in
 earth, to bruise Satan under our feet, and burst the gates of hell
 (<span id="iv.iii.xvi-p17.4"></span>[Mt.
-28:18](../../../bib/kjv/mat028.htm#018)<span
+28:18](../../../bib/kjv/mat028.htm#018.md)<span
 id="iv.iii.xvi-p17.4"></span>); though we still bear about with us a
 body of death, he is our life; in short, all things of his are ours, we
 have all things in him, he nothing in us. On this foundation, I say, we
@@ -274,12 +274,12 @@ found out, by which men are rendered agreeable to God before they are
 ingrafted into Christ; as if Scripture spoke falsely when it says, “He
 that has the Son has life, and he that has not the Son of God has not
 life,” (<span id="iv.iii.xvi-p18.1"></span>[1 John
-5:12](../../../bib/kjv/jo1005.htm#012)<span
+5:12](../../../bib/kjv/jo1005.htm#012.md)<span
 id="iv.iii.xvi-p18.1"></span>). How can they produce the materials of
 life if they are dead? Is there no meaning in its being said that
 “whatsoever is not of faith is sin?” (<span
 id="iv.iii.xvi-p18.2"></span>[Rom.
-14:23](../../../bib/kjv/rom014.htm#023)<span
+14:23](../../../bib/kjv/rom014.htm#023.md)<span
 id="iv.iii.xvi-p18.2"></span>); or can good fruit be produced from a bad
 tree? What have these most pestilential Sophists left to Christ on which
 to exert his virtue? They say that he merited for us the first grace,
@@ -298,7 +298,7 @@ grace, through the redemption that is in Christ Jesus.” “He that keepeth
 his commandments dwelleth in him, and he in him.” God “has raised us up
 together, and made us sit together in heavenly places in Christ.” “Who
 has delivered us from the power of darkness, and has translated us into
-the kingdom of his dear Son.”43  <span id="fr_426"></span>[427](#fn_426)
+the kingdom of his dear Son.”43  <span id="fr_426"></span>[427](#fn_426.md)
 There are similar passages without number. Their meaning is not, that by
 faith in Christ an opportunity is given us of procuring justifications
 or acquiring salvation, but that both are given us. Hence, so soon as
@@ -331,7 +331,7 @@ against ascribing a single particle of praise to man because of good
 works. Above, when treating of free-will, we quoted some passages from
 him to this effect, and similar passages frequently occur in his
 writings (see in <span id="iv.iii.xvi-p20.1"></span>[Psal.
-104](../../../bib/kjv/psa104.htm#000)<span
+104](../../../bib/kjv/psa104.htm#000.md)<span
 id="iv.iii.xvi-p20.1"></span>; <span id="iv.iii.xvi-p20.2"></span>Ep.
 105<span id="iv.iii.xvi-p20.2"></span>), as when he forbids us ever to
 boast of our merits, because they themselves also are the gifts of God,
@@ -339,13 +339,13 @@ and when he says that all our merits are only of grace, are not provided
 by our sufficiency, but are entirely the production of grace, &c. It is
 less strange that Lombard was blind to the light of Scripture, in which
 it is obvious that he had not been a very successful student.43  <span
-id="fr_427"></span>[428](#fn_427) Still there cannot be a stronger
+id="fr_427"></span>[428](#fn_427.md) Still there cannot be a stronger
 declaration against him and his disciples than the words of the Apostles
 who, after interdicting all Christians from glorying, subjoins the
 reason why glorying is unlawful: “For we are his workmanship, created in
 Christ Jesus unto good works, which God has before ordained that we
 should walk in them,” (<span id="iv.iii.xvi-p21.1"></span>[Eph.
-2:10](../../../bib/kjv/eph002.htm#010)<span
+2:10](../../../bib/kjv/eph002.htm#010.md)<span
 id="iv.iii.xvi-p21.1"></span>). Seeing, then, that no good proceeds from
 us unless in so far as we are regenerated—and our regeneration is
 without exception wholly of God—there is no ground for claiming to
@@ -361,7 +361,7 @@ it will please God.
 
 <span id="iv.iii.xvi-p22"></span>8. Wherefore, let us never on any
 account allow ourselves to be drawn away one nail’s breadth43  <span
-id="fr_428"></span>[429](#fn_428) from that only foundation. After it is
+id="fr_428"></span>[429](#fn_428.md) from that only foundation. After it is
 laid, wise architects build upon it rightly and in order. For whether
 there is need of doctrine or exhortation, they remind us that “for this
 purpose the Son of God was manifested, that he might destroy the works
@@ -372,7 +372,7 @@ honor,” purged, “sanctified, and meet for the Master’s use, and prepared
 unto every good work.” The whole is expressed at once, when Christ thus
 describes his disciples, “If any man will come after me, let him deny
 himself, and take up his cross daily, and follow me.”43  <span
-id="fr_429"></span>[430](#fn_429) He who has denied himself has cut off
+id="fr_429"></span>[430](#fn_429.md) He who has denied himself has cut off
 the root of all evils so as no longer to seek his own; he who has taken
 up his cross has prepared himself for all meekness and endurance. The
 example of Christ includes this and all offices of piety and holiness.
@@ -393,7 +393,7 @@ that “neither death, nor life, nor angels, nor principalities, nor
 powers, nor things present, nor things to come, nor height, nor depth,
 nor any other creature, shall be able to separate us from the love of
 God which is in Christ Jesus our Lord;”43  <span
-id="fr_430"></span>[431](#fn_430) nay, rather all things will work
+id="fr_430"></span>[431](#fn_430.md) nay, rather all things will work
 together for our good. See how it is that we do not justify men before
 God by works, but say, that all who are of God are regenerated and made
 new creatures, so that they pass from the kingdom of sin into the
@@ -404,80 +404,80 @@ like trees, are judged by their fruits.
 
 ### Footnotes
 
-<span id="fn_425"></span>[426](inst068.htm#fr_425) <span
+<span id="fn_425"></span>[426](inst068.htm#fr_425.md) <span
 id="iv.iii.xvi-p16.2"></span>
 
 <span id="iv.iii.xvi-p17"></span>32 432 1. Cor. 1:30; <span
 id="iv.iii.xvi-p17.1"></span>[Eph.
-1:3-5](../../../bib/kjv/eph001.htm#003)<span
+1:3-5](../../../bib/kjv/eph001.htm#003.md)<span
 id="iv.iii.xvi-p17.1"></span>; <span id="iv.iii.xvi-p17.2"></span>[Col.
-1:14](../../../bib/kjv/col001.htm#014),
-[20](../../../bib/kjv/col001.htm#020)<span
+1:14](../../../bib/kjv/col001.htm#014.md),
+[20](../../../bib/kjv/col001.htm#020.md)<span
 id="iv.iii.xvi-p17.2"></span>; <span id="iv.iii.xvi-p17.3"></span>[John
-1:12](../../../bib/kjv/joh001.htm#012)<span
+1:12](../../../bib/kjv/joh001.htm#012.md)<span
 id="iv.iii.xvi-p17.3"></span>; 10:28.
 
-<span id="fn_426"></span>[427](inst068.htm#fr_426) <span
+<span id="fn_426"></span>[427](inst068.htm#fr_426.md) <span
 id="iv.iii.xvi-p18.3"></span>
 
 <span id="iv.iii.xvi-p19"></span>33 433 <span
 id="iv.iii.xvi-p19.1"></span>[John
-5:12](../../../bib/kjv/joh005.htm#012)<span
+5:12](../../../bib/kjv/joh005.htm#012.md)<span
 id="iv.iii.xvi-p19.1"></span>; <span id="iv.iii.xvi-p19.2"></span>[John
-5:24](../../../bib/kjv/joh005.htm#024)<span
+5:24](../../../bib/kjv/joh005.htm#024.md)<span
 id="iv.iii.xvi-p19.2"></span>; <span id="iv.iii.xvi-p19.3"></span>[Rom.
-3:24](../../../bib/kjv/rom003.htm#024)<span
+3:24](../../../bib/kjv/rom003.htm#024.md)<span
 id="iv.iii.xvi-p19.3"></span>; <span id="iv.iii.xvi-p19.4"></span>[John
-3:24](../../../bib/kjv/joh003.htm#024)<span
+3:24](../../../bib/kjv/joh003.htm#024.md)<span
 id="iv.iii.xvi-p19.4"></span>; <span id="iv.iii.xvi-p19.5"></span>[Eph.
-2:6](../../../bib/kjv/eph002.htm#006)<span
+2:6](../../../bib/kjv/eph002.htm#006.md)<span
 id="iv.iii.xvi-p19.5"></span>; <span id="iv.iii.xvi-p19.6"></span>[Col.
-1:13](../../../bib/kjv/col001.htm#013)<span
+1:13](../../../bib/kjv/col001.htm#013.md)<span
 id="iv.iii.xvi-p19.6"></span>
 
-<span id="fn_427"></span>[428](inst068.htm#fr_427) <span
+<span id="fn_427"></span>[428](inst068.htm#fr_427.md) <span
 id="iv.iii.xvi-p20.3"></span>
 
 <span id="iv.iii.xvi-p21"></span>34 434 French, “d’autant qu’il n’y
 estoit gueres exercité;”—inasmuch as he was little versant in it.
 
-<span id="fn_428"></span>[429](inst068.htm#fr_428) <span
+<span id="fn_428"></span>[429](inst068.htm#fr_428.md) <span
 id="iv.iii.xvi-p22.1"></span>
 
 <span id="iv.iii.xvi-p23"></span>35 435 French, “ne fust ce que de la
 pointe d’une sepingle;”—were it only a pin’s point.
 
-<span id="fn_429"></span>[430](inst068.htm#fr_429) <span
+<span id="fn_429"></span>[430](inst068.htm#fr_429.md) <span
 id="iv.iii.xvi-p23.1"></span>
 
 <span id="iv.iii.xvi-p24"></span>36 436 <span
 id="iv.iii.xvi-p24.1"></span>[John
-3:8](../../../bib/kjv/joh003.htm#008)<span
+3:8](../../../bib/kjv/joh003.htm#008.md)<span
 id="iv.iii.xvi-p24.1"></span>; <span id="iv.iii.xvi-p24.2"></span>[1
-Pet. 4:3](../../../bib/kjv/pe1004.htm#003)<span
+Pet. 4:3](../../../bib/kjv/pe1004.htm#003.md)<span
 id="iv.iii.xvi-p24.2"></span>; <span id="iv.iii.xvi-p24.3"></span>[2
-Tim. 2:20](../../../bib/kjv/ti2002.htm#020),
-[21](../../../bib/kjv/ti2002.htm#021)<span
+Tim. 2:20](../../../bib/kjv/ti2002.htm#020.md),
+[21](../../../bib/kjv/ti2002.htm#021.md)<span
 id="iv.iii.xvi-p24.3"></span>; <span id="iv.iii.xvi-p24.4"></span>[Luke
-9:23](../../../bib/kjv/luk009.htm#023)<span
+9:23](../../../bib/kjv/luk009.htm#023.md)<span
 id="iv.iii.xvi-p24.4"></span>.
 
-<span id="fn_430"></span>[431](inst068.htm#fr_430) <span
+<span id="fn_430"></span>[431](inst068.htm#fr_430.md) <span
 id="iv.iii.xvi-p24.5"></span>
 
 <span id="iv.iii.xvi-p25"></span>37 437 <span
 id="iv.iii.xvi-p25.1"></span>[2 Cor.
-4:8](../../../bib/kjv/co2004.htm#008)<span
+4:8](../../../bib/kjv/co2004.htm#008.md)<span
 id="iv.iii.xvi-p25.1"></span>; <span id="iv.iii.xvi-p25.2"></span>[2
-Tim. 2:11](../../../bib/kjv/ti2002.htm#011)<span
+Tim. 2:11](../../../bib/kjv/ti2002.htm#011.md)<span
 id="iv.iii.xvi-p25.2"></span>; <span id="iv.iii.xvi-p25.3"></span>[Phil.
-3:10](../../../bib/kjv/phi003.htm#010)<span
+3:10](../../../bib/kjv/phi003.htm#010.md)<span
 id="iv.iii.xvi-p25.3"></span>; <span id="iv.iii.xvi-p25.4"></span>[Rom.
-7:29](../../../bib/kjv/rom007.htm#029),
-[39](../../../bib/kjv/rom007.htm#039)<span
+7:29](../../../bib/kjv/rom007.htm#029.md),
+[39](../../../bib/kjv/rom007.htm#039.md)<span
 id="iv.iii.xvi-p25.4"></span>.
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 16. - REFUTATION OF THE CALUMNIES BY WHICH IT IS
-ATTEMPTED TO THROW ODIUM ON THIS DOCTRINE.](inst069)
+ATTEMPTED TO THROW ODIUM ON THIS DOCTRINE.](inst069.md)

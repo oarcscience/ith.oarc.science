@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc19)  [Next](mtc21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc19)  [Next](mtc21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 ### \[19\] AT THE END OF SPRING
 
-#### *To Yüan Chēn.* <span id="fr_8"></span>[1](#fn_7) (A.D. *810*)
+#### *To Yüan Chēn.* <span id="fr_8"></span>[1](#fn_7) (A.D. *810*.md)
 
 <span class="smallcaps">The</span> flower of the pear-tree gathers and
 turns to fruit;  
@@ -38,13 +38,13 @@ That from time to time we may chance to meet again.
 
 ### Footnotes
 
-<span id="fn_7"></span>[45:1](mtc20.htm#fr_8) Po Chü-i's great friend.
+<span id="fn_7"></span>[45:1](mtc20.htm#fr_8.md) Po Chü-i's great friend.
 See Nos. 63 and 64.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Poem on the Wall](mtc21)
+[Next: The Poem on the Wall](mtc21.md)
 
 </div>

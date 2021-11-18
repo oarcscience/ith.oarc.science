@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](cbc37)  [Next](cbc39) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](cbc37)  [Next](cbc39.md) 
 
 ------------------------------------------------------------------------
 
@@ -200,16 +200,16 @@ Peabody museum papers, v. 6, No. 1.) Cambridge.
 1920 The distribution of the several branches of the Mayance linguistic
 stock. In Morley, 1920, pp. 604-615.
 
-1931 <span id="fr_1097"></span>[1](#fn_1090) The thirteen Ahaus in the
+1931 <span id="fr_1097"></span>[1](#fn_1090.md) The thirteen Ahaus in the
 Kaua manuscript and related katun wheels in the Paris Codex, Landa,
 Cogolludo and the Chumayel. In the Maya Society Quarterly, v. 1, pp.
 2-20.
 
-1932a <span id="fr_1098"></span>[1](#fn_1090) Eras of the thirteen gods
+1932a <span id="fr_1098"></span>[1](#fn_1090.md) Eras of the thirteen gods
 and the nine gods. Book of Chumayel, pages 42-48. In The Maya Society
 Quarterly, v. 1, 78-92.
 
-1932b <span id="fr_1099"></span>[1](#fn_1090) The testing of the
+1932b <span id="fr_1099"></span>[1](#fn_1090.md) The testing of the
 princes. Book of Chumayel, pages 28-42. In The Maya Society Quarterly,
 v. 1, pp. 123-144.
 
@@ -687,10 +687,10 @@ pp. 71-227. Joaquín García Icazbalceta, Ed. Mexico.
 
 ### Footnotes
 
-<span id="fn_1090"></span>[209:1](cbc38.htm#fr_1099) Gates 1931, 1932a
+<span id="fn_1090"></span>[209:1](cbc38.htm#fr_1099.md) Gates 1931, 1932a
 and 1932b were received by the writer after the present work had gone to
 press.
 
 ------------------------------------------------------------------------
 
-[Next: Map of Northern Yucatan](cbc39)
+[Next: Map of Northern Yucatan](cbc39.md)

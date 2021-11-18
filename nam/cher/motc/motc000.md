@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Next](motc001) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Next](motc001.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ ever since.
 
 ------------------------------------------------------------------------
 
-[Next: 2. THE FIRST FIRE](motc001)
+[Next: 2. THE FIRST FIRE](motc001.md)

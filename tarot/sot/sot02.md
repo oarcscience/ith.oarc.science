@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot01) 
-[Next](sot03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot01.md) 
+[Next](sot03.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ could see unearthly things. and hear unearthly words.
 
 ------------------------------------------------------------------------
 
-[Next: Card 0. The Fool](sot03)
+[Next: Card 0. The Fool](sot03.md)

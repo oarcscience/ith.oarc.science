@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob13) 
-[Next](sob15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob13.md) 
+[Next](sob15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ unchangeable. Forms are but appearances—they come, they go, but the
 Reality is eternal and unchangeable.
 
 The atoms of the human body are in constant vibration. Unceasing changes
-are [occurring](errata.htm#18). In a few months there is almost a
+are [occurring](errata.htm#18.md). In a few months there is almost a
 complete change in the matter composing the body, and scarcely a single
 atom now composing your body will be found in it a few months hence.
 Vibration, constant vibration. Change, constant change.
@@ -68,8 +68,8 @@ sea of life is swelling and receding, rising and falling, and we are
 responding to its vibrations and rhythm. In a normal condition we
 receive the vibration and rhythm of the great ocean of life, and respond
 to it, but at times the mouth of the inlet seems choked up
-[with](errata.htm#19) debris, and we fail to receive the impulse from
-Mother Ocean, and [disharmony](errata.htm#20) manifests within us.
+[with](errata.htm#19.md) debris, and we fail to receive the impulse from
+Mother Ocean, and [disharmony](errata.htm#20.md) manifests within us.
 
 You have heard how a note on a violin, if sounded repeatedly and in
 rhythm, will start into motion vibrations which will in time destroy a
@@ -175,4 +175,4 @@ largely to the possession of those qualities.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Phenomena of Yogi Psychic Breathing](sob15)
+[Next: Chapter XIV. Phenomena of Yogi Psychic Breathing](sob15.md)

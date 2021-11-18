@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft18)  [Next](pft20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft18)  [Next](pft20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Sogsogot called his dog and withdrew to an open spot near by, where he
 waited for the deer to come out.
 
 While he stood there eagerly watching, a big bird  <span
-id="fr_84"></span>[85](pft68.htm#fn_84) swooped down, caught him in its
+id="fr_84"></span>[85](pft68.htm#fn_84.md) swooped down, caught him in its
 claws, and carried him away. Far off over the mountains the bird soared,
 until finally it came to a big tree where it had its nest, and here it
 left the man and flew away.
@@ -62,7 +62,7 @@ He did as she commanded him, and after a while he came to a place where
 she was bathing in the river. She said to him:
 
 "Now you may come with me to our spirit town.  <span
-id="fr_85"></span>[86](pft68.htm#fn_85) I shall hide you in the rice-bin
+id="fr_85"></span>[86](pft68.htm#fn_85.md) I shall hide you in the rice-bin
 and shall bring food to you every day. But at night the people in the
 town will want to eat you, and when they come to the bin you must take
 some of the feathers of the white chicken and throw at them."
@@ -84,4 +84,4 @@ he knew that it was her spirit that had taken him to the strange town.
 
 ------------------------------------------------------------------------
 
-[Next: The Mistaken Gifts](pft20)
+[Next: The Mistaken Gifts](pft20.md)

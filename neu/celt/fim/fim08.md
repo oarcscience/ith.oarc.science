@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim07)  [Next](fim09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim07)  [Next](fim09.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 t would seem that the inhabitants of Man and the other Western Isles of
 Scotland had acquired a reputation for magical powers at an early
@@ -28,13 +28,13 @@ abominations of an impious race. The troubled flood tore many fair
 gallies from their moorings, and swept them anchor less before the
 waves. A magic raised watery tempest blew upon our warriors, ambitious
 of conquest, and against the floating habitations of the brave." <span
-id="fr_45"></span>[1](#fn_44) Two centuries later, we are told by
+id="fr_45"></span>[1](#fn_44.md) Two centuries later, we are told by
 Ranulph Higden that "In the Ilonde of Mann is sortilege and witchcraft
 used; for women there sell to shipmen wynde as it were closed under
 three knottes of threde, so that the more wynde he would have the more
-knottes he must undo." <span id="fr_46"></span>[2](#fn_45) According to
+knottes he must undo." <span id="fr_46"></span>[2](#fn_45.md) According to
 Sacheverell, Martholine, who was Governor of the Isle of Man in 1338.
-wrote a treatise [against](errata.htm#15) the practice of witchcraft
+wrote a treatise [against](errata.htm#15.md) the practice of witchcraft
 then prevalent there.
 
 A profound belief in the power of Magic was one of the charactistics of
@@ -57,7 +57,7 @@ to be protected
      Against black laws of heathens,  
 Against spells of women, smiths, and *Druads*."
 
-These Goidelic *Druadh* <span id="fr_47"></span>[1](#fn_46) probably
+These Goidelic *Druadh* <span id="fr_47"></span>[1](#fn_46.md) probably
 belonged to the same system as the Gaulish Druids at a very remote
 period; but, by Julius Cæsar's time, the latter had picked up a little
 Greek philosophy, and were probably comparatively well educated and
@@ -95,7 +95,7 @@ supernatural power which persons were formerly supposed to
 
 obtain by entering into compact with the devil. As soon as the bargain
 was concluded, the devil was said to deliver to the Wizard or Witch an
-imp or [familiar](errata.htm#16) spirit, to be ready at call to do
+imp or [familiar](errata.htm#16.md) spirit, to be ready at call to do
 whatever it was directed. By the aid of this imp and the devil together,
 the Witch--who was almost always an old woman, the Wizard being
 comparatively uncommon--was enabled to transport herself through the air
@@ -139,7 +139,7 @@ fasting spittle, in the virtues of which there was a
 
 very general belief; but to accomplish the more recondite branch of
 their profession they used charms and incantations <span
-id="fr_48"></span>[1](#fn_47) only. They were all more or less tainted
+id="fr_48"></span>[1](#fn_47.md) only. They were all more or less tainted
 with the suspicion of dabbling a little in sorcery and witchcraft on
 their own account, but, as their powers were on the whole used for good
 purposes, they were tolerated.
@@ -163,7 +163,7 @@ These powers were supposed to be hereditary, and were handed down in the
 same family for generations. There, is for instance, a daughter of
 Teare's still practising the same art, and she is resorted to by the
 fishermen for the sake of having their nets charmed, and so cause them
-to be lucky in their fishing. <span id="fr_49"></span>[2](#fn_48) To
+to be lucky in their fishing. <span id="fr_49"></span>[2](#fn_48.md) To
 preserve these powers intact from generation to generation, it was
 supposed to be necessary to hand them down from a man to a woman, but in
 the next generation from a woman to a man, and so on. Having thus
@@ -390,7 +390,7 @@ Bishop Wilson evidently viewed the practice of charming with abhorrence,
 as we find him writing about it, in 1741, as follows:--"There is a
 cursed practice carried on secretly by Satan and his instruments, which
 I beseech you, my brethren, take this proper occasion <span
-id="fr_50"></span>[1](#fn_49) to speak upon: both to terrify those that
+id="fr_50"></span>[1](#fn_49.md) to speak upon: both to terrify those that
 practice it, and to confirm people's
 
 <span id="page_84">p. 84</span>
@@ -495,7 +495,7 @@ the element, all the face of heaven was deformed
 with lightning, the most dreadful thunder rattled over his head, and in
 less than a moment this fine palace, with all its proud and lofty
 piazzas, porticos, and brazen doors, vanished into the air, and he found
-himself in the midst of a wide, desert, [mountainous](errata.htm#17)
+himself in the midst of a wide, desert, [mountainous](errata.htm#17.md)
 plain, without the least appearance of anything he had formerly seen.
 Surprised as he was, he instantly betook himself to his prayers, nor
 removed from his knees till day began to break, when, after thanking God
@@ -518,7 +518,7 @@ salt to the rest of your benevolence.--*Waldron*.
 
 Salt has borne a conspicuous part in many superstitious ceremonies. The
 high priest of the Jews was ordered to season all offerings with
-salt. <span id="fr_51"></span>[1](#fn_50) The [Egyptians](errata.htm#18)
+salt. <span id="fr_51"></span>[1](#fn_50) The [Egyptians](errata.htm#18.md)
 and Romans also used it in their sacrifices. In Ireland, before the seed
 is put into the ground, salt is sent into the field for the purpose of
 counteracting the power of the witches and fairies. So in the Isle of
@@ -695,7 +695,7 @@ get there.--*Harrison*.
 
 A story is told of a girl who was going to the Glencrutchery well for
 water, and met an old man, who had the reputation of being a
-sorcerer, <span id="fr_52"></span>[1](#fn_51) on her way. He asked her
+sorcerer, <span id="fr_52"></span>[1](#fn_51.md) on her way. He asked her
 where she was going. "Going to your well for water," she said. "Is there
 no water in your well?" said he. She replied that there was, but that
 her mistress had sent her to get water from his well. He then gave her
@@ -786,11 +786,11 @@ notions about these creatures
 
 #### THE MANX WITCH.
 
-A wutch <span id="fr_53"></span>[1](#fn_52), of coorse she was a
+A wutch <span id="fr_53"></span>[1](#fn_52.md), of coorse she was a
 wutch,  
 And a black wutch, the wuss that's goin’--  
 The white is--well, I’m hardly knowin’.  
-Is the lek in <span id="fr_54"></span>[2](#fn_53): but these ould
+Is the lek in <span id="fr_54"></span>[2](#fn_53.md): but these ould
 things  
 That's sellin’ charms to sailors--rings,  
 Papers, ye know  
@@ -812,7 +812,7 @@ Cussin’ your horse and cussin’ your cow,
 Cussin’ the boar and cussin’ the sow--  
 Everything that’s got a tail.  
 Aye, and your spade, and your cart and your flail,  
-Plough and harras <span id="fr_55"></span>[3](#fn_54), stock and crop,  
+Plough and harras <span id="fr_55"></span>[3](#fn_54.md), stock and crop,  
 Nets and lines--they'll navar stop.  
      .     .     .     You'll be passin’ by,  
 And not a word, but the evil eye.--  
@@ -944,7 +944,7 @@ the shape of a hare, was crossing a field and stood still to stare at a
 team of horses employed in ploughing, when, to the horror of the
 ploughman, they instantly dropped dead on the ground. Fortunately,
 however, he retained his presence of mind, and, remembering that what
-had [occurred](errata.htm#19) was doubtless the result of the "Evil
+had [occurred](errata.htm#19.md) was doubtless the result of the "Evil
 Eye," he collected some of the dust from where the hare had stood and
 threw it over the horses, who were at once restored to life.--*Oral*.
 
@@ -984,12 +984,12 @@ have all the grain carried away before the straw is fit for the sickle."
 that," replied Mr Teare, "and I am just come to try if I can put them
 away for you." After returning from the cornfield, where he had
 performed some ceremonious rites, he remarked to the innkeeper "these
-sparrows know well to take advantage of corn that [has](errata.htm#20)
+sparrows know well to take advantage of corn that [has](errata.htm#20.md)
 not been seen by me before it was sown, but I have sent them all away
 now, and I think they will not again venture into your field this
 season." This singular exorcism of the sparrows soon became known
 throughout Laxey; the paper-makers and the miners in the
-[neighbourhood](errata.htm#21) were the only persons who had any doubt
+[neighbourhood](errata.htm#21.md) were the only persons who had any doubt
 as to the doctor's power in such matters, and, for the purpose of
 satisfying themselves, they narrowly watched the field during the
 remaining part of the season. To their great surprise, however, though
@@ -1059,9 +1059,9 @@ Moirrey elley, Dy gast yn uill shoh, myr chast yne uill haink as lottyn
 Chreest: mish dy ghra eh, as mac Voirrey dy chooilleeney eh*.
 
 Three Maries went to Rome, the Spirits of the Church stiles and the
-Spirits of the houghs, <span id="fr_56"></span>[1](#fn_55) Peter and
+Spirits of the houghs, <span id="fr_56"></span>[1](#fn_55.md) Peter and
 Paul, a Mary of them said, stand; a Mary of them said, walk; the other
-Mary said, may this blood stop <span id="fr_57"></span>[2](#fn_56) as
+Mary said, may this blood stop <span id="fr_57"></span>[2](#fn_56.md) as
 the blood stopped which came out of the wounds of Christ: me to say it
 and the son of Mary to fulfil it."
 
@@ -1075,7 +1075,7 @@ names by the Charmer:--
 *Three deiney chranee haink voish y Raue--Chreest, Peddyr, as Paul. Va
 Creest y Chrosh, yn uill echey shilley, as Moirrey er ny glioonyn yn ec
 liorish. Ghow for jeu yn er-obbee ayns e lau yesh, as hayrn Creest
-crosh <span id="fr_58"></span>[2](#fn_56) harrish eh. Three mraane aegey
+crosh <span id="fr_58"></span>[2](#fn_56.md) harrish eh. Three mraane aegey
 haink harrish yn ushtey, dooyrt unnane jeu, seose, dooyrt, nane elley,
 fuirree--dooyrt yn trass-unnane sthappyms fuill dooinney ny ben. Mish dy
 ghra eh, as Chreest dy yannoo eh, ayns ennym yn Ayr, as y Vac as y
@@ -1151,7 +1151,7 @@ Another charm to stop blood is as follows:--*O Hiarn eaisht rish my
 phadjer! Ayns dty ynrickys cur geill da, my aghyn! As ayns dty ynrickys
 jean hoilshaghey mieys; son cha vel dooiney bio oddys ayns dty hilley's
 ve ynrick as er ny heyrey gys yn jerrey* <span
-id="fr_59"></span>[1](#fn_57). *Ta mee credjal dy ren Adaue as Eve chur
+id="fr_59"></span>[1](#fn_57.md). *Ta mee credjal dy ren Adaue as Eve chur
 er, hoshiaght yn cheid peccah. Ayns ennym Adaue ta mish eisht cur fo
 harey dagh giarey as bine jeh fuill yn*, {*dooiney*, *ben*} *shoh dy
 scuirr Amen. Amen*.
@@ -1165,7 +1165,7 @@ drop of this \[man's, woman's\] blood to stop. Amen. Amen."
 #### A CHARM AGAINST THE FAIRIES.
 
 *Shee Yee as shee ghooinney,  
-Shee Yee er Columb-Killey* <span id="fr_60"></span>[1](#fn_57)  
+Shee Yee er Columb-Killey* <span id="fr_60"></span>[1](#fn_57.md)  
 *Er dagh uinnag, er dagh ghorrys,  
 Er dagh howl joaill stiagh yn Re-hollys.  
 Er kiare cornelllyn y thie  
@@ -1285,46 +1285,46 @@ us Faith alone in Thee. Amen, Almighty *Lord Jesus Christ*.
 
 ### Footnotes
 
-<span id="fn_44"></span>[76:1](fim08.htm#fr_45) Poem of Snorro Sturlson
+<span id="fn_44"></span>[76:1](fim08.htm#fr_45.md) Poem of Snorro Sturlson
 (Johnstone's Translation.)
 
-<span id="fn_45"></span>[76:2](fim08.htm#fr_46) Polychronicon, A. D.
+<span id="fn_45"></span>[76:2](fim08.htm#fr_46.md) Polychronicon, A. D.
 5487. Rolls Series.
 
-<span id="fn_46"></span>[77:1](fim08.htm#fr_47) The genitive of this
+<span id="fn_46"></span>[77:1](fim08.htm#fr_47.md) The genitive of this
 word, *droata*, has been deciphered by Professor Rhys in the Ogam
 character on a stone at Ballaqueeney, near Port St. Mary.
 
-<span id="fn_47"></span>[79:1](fim08.htm#fr_48) Specimens of these are
+<span id="fn_47"></span>[79:1](fim08.htm#fr_48.md) Specimens of these are
 given at the end of this chapter.
 
-<span id="fn_48"></span>[79:2](fim08.htm#fr_49) Even now it is no
+<span id="fn_48"></span>[79:2](fim08.htm#fr_49.md) Even now it is no
 uncommon thing for any one who has a cut, or a burn, to seek the nearest
 Charmer and have a charm 'put on it.'
 
-<span id="fn_49"></span>[83:1](fim08.htm#fr_50) During the
+<span id="fn_49"></span>[83:1](fim08.htm#fr_50.md) During the
 perambulations of the parishes on Ascension Day.
 
-<span id="fn_50"></span>[86:1](fim08.htm#fr_51) Leviticus ii., 53.
+<span id="fn_50"></span>[86:1](fim08.htm#fr_51.md) Leviticus ii., 53.
 
-<span id="fn_51"></span>[90:1](fim08.htm#fr_52) There seems to be
+<span id="fn_51"></span>[90:1](fim08.htm#fr_52.md) There seems to be
 practically no distinction between Sorcery, when deprived of the
 prophetic element, and Witchcraft.
 
-<span id="fn_52"></span>[92:1](fim08.htm#fr_53) Witch.
+<span id="fn_52"></span>[92:1](fim08.htm#fr_53.md) Witch.
 
-<span id="fn_53"></span>[92:2](fim08.htm#fr_54) If the like exist.
+<span id="fn_53"></span>[92:2](fim08.htm#fr_54.md) If the like exist.
 
-<span id="fn_54"></span>[92:3](fim08.htm#fr_55) Harrows.
+<span id="fn_54"></span>[92:3](fim08.htm#fr_55.md) Harrows.
 
-<span id="fn_55"></span>[97:1](fim08.htm#fr_56) Or, cliffs by the sea.
+<span id="fn_55"></span>[97:1](fim08.htm#fr_56.md) Or, cliffs by the sea.
 
-<span id="fn_56"></span>[97:2](fim08.htm#fr_58) Or, heal.
+<span id="fn_56"></span>[97:2](fim08.htm#fr_58.md) Or, heal.
 
-<span id="fn_57"></span>[99:1](fim08.htm#fr_60) These words are almost
+<span id="fn_57"></span>[99:1](fim08.htm#fr_60.md) These words are almost
 identical with those of the first two verses of the 143rd Psalm.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. Customs and Superstitions Connected With the
-Seasons](fim09)
+Seasons](fim09.md)

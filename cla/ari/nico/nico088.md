@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico087) 
-[Next](nico089) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico087.md) 
+[Next](nico089.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ for it is for himself most of all that each man wishes what is good.
 ------------------------------------------------------------------------
 
 [Next: Chapter 8. Loving is more of the essence of friendship than being
-loved](nico089)
+loved](nico089.md)

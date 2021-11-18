@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](hif03)  [Next](hif05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](hif03)  [Next](hif05.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_dragon"></span>
 
 [![](tn/dragon.jpg)  
-Click to enlarge](img/dragon.jpg)
+Click to enlarge](img/dragon.jpg.md)
 
 "SIEGFRIED AND THE DRAGON"
 
@@ -18,4 +18,4 @@ Real Exploits by Real Atlanteans Ages Ago.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](hif05)
+[Next: Introduction](hif05.md)

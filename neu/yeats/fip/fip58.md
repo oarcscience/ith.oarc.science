@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip57)  [Next](fip59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip57)  [Next](fip59.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ rogue-corpse, but they were saints, and had to do things in style.
 
 ------------------------------------------------------------------------
 
-[Next: The Priest's Soul, by Lady Wilde](fip59)
+[Next: The Priest's Soul, by Lady Wilde](fip59.md)

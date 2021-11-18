@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk32)  [Next](wyvbk34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk32)  [Next](wyvbk34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ all sin before Mitra and Varuna,
 May we share Savitar's best animating help. We crave this  
 gracious favour of the Gods to-day.  
 18 Like barren cows, moreover, swelled the waters: singers  
-[approached](errata.htm#16) thy holy cult, O Indra.  
+[approached](errata.htm#16.md) thy holy cult, O Indra.  
 Come thou to us as to his team comes Vâyu. Thou through  
 our solemn hymns bestowest bounty.  
 19 Ye Cows, protect the fount. The two mighty Ones bless the  
@@ -246,7 +246,7 @@ Who make the oil-fed rite complete.
 clipt grass.  
 Come ye whose paths are bright with glow.  
 59 When Saramâ had, found the mountain's fissure, that vast  
-and ancient place she plundered [thoroughly](errata.htm#17).  
+and ancient place she plundered [thoroughly](errata.htm#17.md).  
 In the floods’ van she led them forth, light-footed: she who  
 well knew came first unto their lowing.
 
@@ -395,4 +395,4 @@ Stand up erect.
 
 ------------------------------------------------------------------------
 
-[Next: Book XXXIV](wyvbk34)
+[Next: Book XXXIV](wyvbk34.md)

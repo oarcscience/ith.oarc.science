@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls15)  [Next](rls17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls15)  [Next](rls17.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ Process.
 
 ------------------------------------------------------------------------
 
-[Next: Râmak*ri*sh*n*a's Language](rls17)
+[Next: Râmak*ri*sh*n*a's Language](rls17.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plato](../index)  [Index](index)  [Next](laws01) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plato](../index)  [Index](index)  [Next](laws01.md) 
 
 ------------------------------------------------------------------------
 
@@ -1238,4 +1238,4 @@ Cle. Exactly so.
 
 ------------------------------------------------------------------------
 
-[Next: BOOK II](laws01)
+[Next: BOOK II](laws01.md)

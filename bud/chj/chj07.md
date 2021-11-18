@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj06)  [Next](chj08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj06)  [Next](chj08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -33,7 +33,7 @@ speedy ruin that the Mauryan family practically disappears from the
 annals of India.
 
 A recent writer in the *Journal of the Asiatic Society of Bengal* <span
-id="fr_62"></span>[1](#fn_62) calls attention to the fact that As’oka's
+id="fr_62"></span>[1](#fn_62.md) calls attention to the fact that As’oka's
 policy was one of unmerciful antagonism to the Brahmans, whose most
 cherished prejudices he took a pride in shocking. As’oka had, by precept
 and example, discouraged the taking of animal life, and had thereby put
@@ -104,7 +104,7 @@ faith that has readily taken into itself whatever in its immediate
 surroundings it has found suitable for its purposes. Even Jewish
 influences would not necessarily be excluded. "Woe is me," says the
 Hebrew pilgrim, "that I am constrained to dwell in Mesech." <span
-id="fr_63"></span>[1](#fn_63) There
+id="fr_63"></span>[1](#fn_63.md) There
 
 <span id="page_50">p. 50</span>
 
@@ -119,12 +119,12 @@ And in process of time As’vaghosha is converted to the Mahāyāna.
 
 ### Footnotes
 
-<span id="fn_62"></span>[47:1](chj07.htm#fr_62) See *Journal and
+<span id="fn_62"></span>[47:1](chj07.htm#fr_62.md) See *Journal and
 Proceedings of the Asiatic Society of Bengal*, vol. vi., No. 5 (May,
 1910), "Causes of the Dismemberment of the Maurya Empire," by
 Mahamahopadhyaya Haraprasad S’astri.
 
-<span id="fn_63"></span>[49:1](chj07.htm#fr_63) The Jewish diaspora went
+<span id="fn_63"></span>[49:1](chj07.htm#fr_63.md) The Jewish diaspora went
 as far as China. The Chinese Jews at Kaifongfu, in Honan, seem to have
 entered China between B.C. 170 and the Nativity of Christ, though laying
 claim to an even earlier date. But it is clear that they must be
@@ -139,4 +139,4 @@ vol. xiv. p. 325).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The New Testament in Touch with the East](chj08)
+[Next: Chapter IV. The New Testament in Touch with the East](chj08.md)

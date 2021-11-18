@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd20)  [Next](odd22) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd20)  [Next](odd22.md) 
 
 ------------------------------------------------------------------------
 
@@ -318,4 +318,4 @@ together in peace and joy their whole lives long.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. The Blind Man, the Deaf Man, and the Monkey](odd22)
+[Next: XVIII. The Blind Man, the Deaf Man, and the Monkey](odd22.md)

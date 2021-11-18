@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm36)  [Next](tgm38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm36)  [Next](tgm38.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Godfrey walked first into one room, then into another
 <span id="img_20200"></span>
 
 [![](tn/20200.jpg)  
-Click to enlarge](img/20200.jpg)
+Click to enlarge](img/20200.jpg.md)
 
  
 
@@ -126,4 +126,4 @@ himself. "The prophecy of Rashi is fulfilled!"
 
 ------------------------------------------------------------------------
 
-[Next: 35. Flying from the Roofs](tgm38)
+[Next: 35. Flying from the Roofs](tgm38.md)

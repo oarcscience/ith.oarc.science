@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass27)  [Next](nass29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass27)  [Next](nass29.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ them.
 
 ------------------------------------------------------------------------
 
-[Next: The Stone and the Elderberry Bush](nass29)
+[Next: The Stone and the Elderberry Bush](nass29.md)

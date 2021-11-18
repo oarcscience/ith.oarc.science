@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku29)  [Next](tku31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku29)  [Next](tku31.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,9 +31,9 @@ Holy of the Holy Ones the Spirit breaketh forth.
 that it may enshroud Him.
 
 454\. And with that Spirit are all those <span
-id="fr_69"></span>[1](#fn_68) veiled which are inferior. And when that
+id="fr_69"></span>[1](#fn_68.md) veiled which are inferior. And when that
 Spirit goeth forth, then is it divided into 37,000 aspects, <span
-id="fr_70"></span>[2](#fn_69) of which each one is expanded, but only in
+id="fr_70"></span>[2](#fn_69.md) of which each one is expanded, but only in
 its proper place.
 
 <span id="page_165">p. 165</span>
@@ -51,7 +51,7 @@ nor doth anything touch upon it from above or below; and it is concealed
 in the secret of secrets, so that it cannot be known.
 
 458\. In fact, it is not formed, nor doth it exist <span
-id="fr_71"></span>[1](#fn_70) (properly speaking) in this conformation.
+id="fr_71"></span>[1](#fn_70) (properly speaking.md) in this conformation.
 
 459\. And because that Spirit which proceedeth unto the exteriors, and
 wherewith the true prophets have been overshadowed, is called the mouth
@@ -82,19 +82,19 @@ fathers."
 
 ### Footnotes
 
-<span id="fn_68"></span>[164:1](tku30.htm#fr_69) That is, the fourth,
+<span id="fn_68"></span>[164:1](tku30.htm#fr_69.md) That is, the fourth,
 fifth, sixth, seventh, eighth, and ninth Sephiroth which form
 Microprosopus; and the tenth, which is the Bride.
 
-<span id="fn_69"></span>[164:2](tku30.htm#fr_70) That is, 37 in the
+<span id="fn_69"></span>[164:2](tku30.htm#fr_70.md) That is, 37 in the
 material, or Asiah = ZL, Zal = profession, LZ, *Laz* = diversion of
 force.
 
-<span id="fn_70"></span>[165:1](tku30.htm#fr_71) Meaning that in this
+<span id="fn_70"></span>[165:1](tku30.htm#fr_71.md) Meaning that in this
 place it is the conformations of the *beard* and not the *mouth* that
 are being described.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIII: Concerning the Thirteenth Part of the Beard of
-Macroprosopus](tku31)
+Macroprosopus](tku31.md)

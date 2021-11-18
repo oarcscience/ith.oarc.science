@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb29)  [Next](blfb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb29)  [Next](blfb31.md) 
 
 </div>
 
@@ -237,6 +237,6 @@ with Blue Beard.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Trusty John](blfb31)
+[Next: Trusty John](blfb31.md)
 
 </div>

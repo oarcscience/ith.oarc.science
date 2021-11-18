@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft27)  [Next](ftft29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft27)  [Next](ftft29.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_213">p. 213</span>
 
-<span id="img_21300"></span> ![The Soothsayer](img/21300.jpg)
+<span id="img_21300"></span> ![The Soothsayer](img/21300.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a man between forty and fifty, whose grey hairs and beard
 might have caused him to be mistaken for sixty or seventy. Being skilled
@@ -52,7 +52,7 @@ leave him.<span id="img_21400"></span>
 
 |                                                        |
 |--------------------------------------------------------|
-| ![''O best of Hodjas'' I have the ring](img/21400.jpg) |
+| ![''O best of Hodjas'' I have the ring](img/21400.jpg.md) |
 
 His wife being of exceptional beauty he did not like the thought of
 losing her, so he began to consider whether anything could be done. He
@@ -90,7 +90,7 @@ success as a soothsayer.<span id="img_21500"></span>
 
 |                                                               |
 |---------------------------------------------------------------|
-| ![''O King, kill this goose,'' said the hodja](img/21500.jpg) |
+| ![''O King, kill this goose,'' said the hodja](img/21500.jpg.md) |
 
 A few days later it was re ported that the Sultana had lost her ring in
 the serai. It was believed one of the slaves had stolen it. Every. body
@@ -141,4 +141,4 @@ as presents. Thus the poor artisan became a very famous hodja.
 
 ------------------------------------------------------------------------
 
-[Next: The Daughter of the Padishah of Kandahar](ftft29)
+[Next: The Daughter of the Padishah of Kandahar](ftft29.md)

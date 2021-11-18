@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft65)  [Next](sfft67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft65)  [Next](sfft67.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE WITCH OF LAGGAN. <span id="fr_99"></span>[1](#fn_99)
+### THE WITCH OF LAGGAN. <span id="fr_99"></span>[1](#fn_99.md)
 
 THE same day, another hero, celebrated for his hatred of witchcraft, was
 warming himself in his hunting hut, in the forest of Gaick, in Badenoch.
@@ -182,9 +182,9 @@ alive. But it seems the unhappy Wife of Laggan was a stage too late.
 
 ### Footnotes
 
-<span id="fn_99"></span>[221:1](sfft66.htm#fr_99) W. Grant Stewart,
+<span id="fn_99"></span>[221:1](sfft66.htm#fr_99.md) W. Grant Stewart,
 *Highland Superstitions*.
 
 ------------------------------------------------------------------------
 
-[Next: The Blacksmith's Wife of Yarrowfoot](sfft67)
+[Next: The Blacksmith's Wife of Yarrowfoot](sfft67.md)

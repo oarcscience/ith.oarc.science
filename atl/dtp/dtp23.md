@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp22)  [Next](dtp24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp22)  [Next](dtp24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -156,7 +156,7 @@ appointed, who reported having relieved the captain from command of his
 vailx and commissarial office, and the placing of another Poseida in his
 place. The Salda was the father of Lolix, and I thought it well to break
 the news as gently as possible to her. How was I astounded, after having
-done, so, to hear her [calmly](errata.htm#10) say:
+done, so, to hear her [calmly](errata.htm#10.md) say:
 
 "Prithee, how doth this concern me?"
 
@@ -229,4 +229,4 @@ then; conscience slept the sounder, but passion awoke.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: Duplicity](dtp24)
+[Next: Chapter XX: Duplicity](dtp24.md)

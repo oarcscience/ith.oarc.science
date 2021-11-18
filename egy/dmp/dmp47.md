@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp46)  [Next](dmp48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp46)  [Next](dmp48.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ It will do a mighty work (?) bringing in a criminal.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XVI](dmp48)
+[Next: Verso Col. XVI](dmp48.md)

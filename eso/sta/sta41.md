@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta40)  [Next](sta42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta40)  [Next](sta42.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ Father of modern science, remodeler
 <span id="img_16500"></span>
 
 [![HEADPIECE SHOWING LIGHT AND SHADED A's.](tn/16500.jpg)  
-Click to enlarge](img/16500.jpg)  
+Click to enlarge](img/16500.jpg.md)  
 HEADPIECE SHOWING LIGHT AND SHADED A's.  
 
 From Shakespeare's *King Richard The Second*, Quarto of 1597.
@@ -123,7 +123,7 @@ pages, the cryptic use of the two A's will be further demonstrated.
 <span id="img_16501"></span>
 
 [![THE TITLE PAGE OF BURTON'S ANATOMY OF MELANCHOLY.](tn/16501.jpg)  
-Click to enlarge](img/16501.jpg)  
+Click to enlarge](img/16501.jpg.md)  
 THE TITLE PAGE OF BURTON'S ANATOMY OF MELANCHOLY.  
 
 From Burton's *Anatomy of Melancholy*.
@@ -262,7 +262,7 @@ of Robert Cawdry's *Treasurie or Storehouse* 
 <span id="img_16600"></span>
 
 [![A BACONIAN SIGNATURE.](tn/16600.jpg)  
-Click to enlarge](img/16600.jpg)  
+Click to enlarge](img/16600.jpg.md)  
 A BACONIAN SIGNATURE.  
 
 From *Alciati Emblemata*.
@@ -283,7 +283,7 @@ the illustration.
 <span id="img_16601"></span>
 
 [![FRANCIS BACON, BARON VERULAM, VISCOUNT ST. ALBANS.](tn/16601.jpg)  
-Click to enlarge](img/16601.jpg)  
+Click to enlarge](img/16601.jpg.md)  
 FRANCIS BACON, BARON VERULAM, VISCOUNT ST. ALBANS.  
 
 From Bacon's *Advancement of Learning*.
@@ -401,7 +401,7 @@ might be lost again, perpetuated it in two ways: (1) by an organization
 <span id="img_16700"></span>
 
 [![A CRYPTIC HEADPIECE.](tn/16700.jpg)  
-Click to enlarge](img/16700.jpg)  
+Click to enlarge](img/16700.jpg.md)  
 A CRYPTIC HEADPIECE.  
 
 From Ralegh's *History of the World*.
@@ -423,7 +423,7 @@ History of the World (1614) (See *American Baconiana*.)
 <span id="img_16701"></span>
 
 [![THE DROESHOUT PORTRAIT OF SHAKSPERE.](tn/16701.jpg)  
-Click to enlarge](img/16701.jpg)  
+Click to enlarge](img/16701.jpg.md)  
 THE DROESHOUT PORTRAIT OF SHAKSPERE.  
 
 From Shakespeare's *Great Folio* of 1623.
@@ -572,7 +572,7 @@ Hercules, whom time will establish as the true "Spear-Shaker"
 
 [![TITLE PAGE OF THE FAMOUS FIRST EDITION OF SIR WALTER RALEGH'S HISTORY
 OF THE WORLD.](tn/16800.jpg)  
-Click to enlarge](img/16800.jpg)  
+Click to enlarge](img/16800.jpg.md)  
 TITLE PAGE OF THE FAMOUS FIRST EDITION OF SIR WALTER RALEGH'S HISTORY OF
 THE WORLD.  
 
@@ -613,4 +613,4 @@ and also in Bacon's *Novum Organum*.
 
 ------------------------------------------------------------------------
 
-[Next: The Cryptogram as a factor in Symbolic Philosophy](sta42)
+[Next: The Cryptogram as a factor in Symbolic Philosophy](sta42.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml07)  [Next](cml09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml07)  [Next](cml09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ as the mountains, the streams,
 
 [![CELTIC WORSHIP&lt;br&gt; &lt;i&gt;From the Drawing by E.
 Wallcousins&lt;/i&gt;](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)  
+Click to enlarge](img/03200.jpg.md)  
 CELTIC WORSHIP  
 *From the Drawing by E. Wallcousins*  
 
@@ -92,15 +92,15 @@ the altar.
 
 The priests of the Celts are well-known to us by name as the "Druids"--a
 word derived from a root DR which signifies a tree, and especially the
-oak, in several Aryan languages. <span id="fr_30"></span>[1](#fn_30)
+oak, in several Aryan languages. <span id="fr_30"></span>[1](#fn_30.md)
 This is generally--though not by all scholars--taken as proving that
 they paid an especial veneration to the king of trees. It is true that
 the mistletoe--that strange parasite upon the oak--was prominent among
 their "herbs of power", and played a part in their ritual; <span
-id="fr_31"></span>[2](#fn_31) but this is equally true of other Aryan
+id="fr_31"></span>[2](#fn_31.md) but this is equally true of other Aryan
 nations. By the Norse it was held sacred to the god Balder, while the
 Romans believed it to be the "golden bough" that gave access to
-Hades. <span id="fr_32"></span>[3](#fn_32)
+Hades. <span id="fr_32"></span>[3](#fn_32.md)
 
 <span id="page_34">p. 34</span>
 
@@ -114,7 +114,7 @@ and chiefs. They were freed from all contribution to the State, whether
 by tribute or service in war, so that they might the better apply
 themselves to their divine offices. Their decisions were absolutely
 final, and those who disobeyed them were laid under a terrible
-excommunication or "boycott". <span id="fr_33"></span>[1](#fn_33)
+excommunication or "boycott". <span id="fr_33"></span>[1](#fn_33.md)
 Classic writers tell us how they lorded it in Gaul, where, no doubt,
 they borrowed splendour by imitating their more civilized neighbours.
 Men of the highest rank were proud to cast aside the insignia of mere
@@ -132,16 +132,16 @@ sought. We learn from Caesar that the Gallic Druids believed
 their religion to have come to them, originally, from Britain, and that
 it was their practice to send their "theological students" across the
 Channel to learn its doctrines at their purest source. <span
-id="fr_34"></span>[1](#fn_34) To trace a cult backwards is often to take
+id="fr_34"></span>[1](#fn_34.md) To trace a cult backwards is often to take
 a retrograde course in culture, and it was no doubt in Britain--which
 Pliny the Elder tells us "might have taught magic to Persia" <span
-id="fr_35"></span>[2](#fn_35)--that the sufficiently primitive and
+id="fr_35"></span>[2](#fn_35.md)--that the sufficiently primitive and
 savage rites of the Druids of Gaul were preserved in their still more
 savage and primitive forms. It is curious corroboration of this alleged
 British origin of Druidism that the ancient Irish also believed their
 Druidism to have come from the sister island. Their heroes and seers are
 described as only gaining the highest knowledge by travelling to
-Alba. <span id="fr_36"></span>[3](#fn_36) However this may be, we may
+Alba. <span id="fr_36"></span>[3](#fn_36.md) However this may be, we may
 take it as certain that this Druidism was the accepted religion of the
 Celtic race.
 
@@ -153,7 +153,7 @@ invasion: the "Druidism" of the Iberian aborigines; the pure polytheism
 of the Brythons, who, having come later into the country, had mixed but
 little with the natives; and the mingled Aryan and non-Aryan cults of
 the Goidels, who were already largely amalgamated with them. <span
-id="fr_37"></span>[4](#fn_37)
+id="fr_37"></span>[4](#fn_37.md)
 
 <span id="page_36">p. 36</span>
 
@@ -164,7 +164,7 @@ primitive and savage features underlying a higher religion. The "Aryan"
 nations must have passed, equally with all others, through a state of
 pure savagery; and we know that the religion of the Greeks, in many
 respects so lofty, sheltered features and legends as barbarous as any
-that can be attributed to the Celts. <span id="fr_38"></span>[1](#fn_38)
+that can be attributed to the Celts. <span id="fr_38"></span>[1](#fn_38.md)
 
 Of the famous teaching of the Druids we know little, owing to their
 habit of never allowing their doctrines to be put into writing. Caesar,
@@ -175,7 +175,7 @@ teaching men are much encouraged to valour, through disregarding the
 fear of death. They also discuss and impart to the young many things
 concerning the heavenly bodies and their movements, the size of the
 world and of our earth, natural science, and of the influence and power
-of the immortal gods." <span id="fr_39"></span>[2](#fn_39) The Romans
+of the immortal gods." <span id="fr_39"></span>[2](#fn_39.md) The Romans
 seem to have held their wisdom in some awe, though it is not unlikely
 that the Druids themselves borrowed whatever knowledge they may have had
 of science and philosophy from the classical culture. That their creed
@@ -188,10 +188,10 @@ ancient Gaelic myths. Not only the "shape-shifting" common to the magic
 stories of all nations, but actual reincarnation was in the power of
 privileged beings. The hero Cuchulainn was urged by the men of Ulster to
 marry, because they knew "that his rebirth would be of himself", <span
-id="fr_40"></span>[1](#fn_40) and they did not wish so great a warrior
+id="fr_40"></span>[1](#fn_40.md) and they did not wish so great a warrior
 to be lost to their tribe. Another legend tells how the famous Finn mac
 Coul was reborn, after two hundred years, as an Ulster king called
-Mongan. <span id="fr_41"></span>[2](#fn_41)
+Mongan. <span id="fr_41"></span>[2](#fn_41.md)
 
 Such ideas, however, belonged to the metaphysical side of Druidism. Far
 more important to the practical primitive mind are ritual and sacrifice,
@@ -212,7 +212,7 @@ immortal gods cannot be
 
 appeased. They also ordain national offerings of the same kind. Others
 make wicker-work images of vast size, the limbs of which they fill with
-living men and set on fire." <span id="fr_42"></span>[1](#fn_42)
+living men and set on fire." <span id="fr_42"></span>[1](#fn_42.md)
 
 We find evidence of similarly awful customs in pagan Ireland. Among the
 oldest Gaelic records are tracts called *Dinnsenchus*, in which famous
@@ -225,7 +225,7 @@ imagined that any monastic scribe could have invented such a legend as
 this one which describes the practice of human sacrifice among the
 ancient Irish. The poem (which is found in the Books of Leinster, of
 Ballymote, of Lecan, and in a document called the Rennes MS.) <span
-id="fr_43"></span>[2](#fn_43) records the reason why a spot near the
+id="fr_43"></span>[2](#fn_43.md) records the reason why a spot near the
 present village of Ballymagauran, in County Cavan, received the name of
 Mag Slecht, the "Plain of Adoration".
 
@@ -280,7 +280,7 @@ The figure of the Cromm was made of gold. <span id="page_40">p.
 40</span>
 
 "Since the rule  
-Of Herimon <span id="fr_44"></span>[1](#fn_44), the noble man of
+Of Herimon <span id="fr_44"></span>[1](#fn_44.md), the noble man of
 grace,  
 There was worshipping of stones  
 Until the coming of good Patrick of Macha.
@@ -295,7 +295,7 @@ sacrifice in early Ireland. According to the quoted verse, one third of
 the healthy children were slaughtered, presumably every year, to wrest
 from the powers of nature the grain and grass upon which the tribes and
 their cattle subsisted. In a prose *dinnsenchus* preserved in the Rennes
-MS., <span id="fr_45"></span>[2](#fn_45) there is a slight variant. "’T
+MS., <span id="fr_45"></span>[2](#fn_45.md) there is a slight variant. "’T
 is there", (at Mag Slecht), it runs, "was the king idol of Erin, namely
 the Crom Croich, and around him were twelve idols made of stones, but he
 was of gold. Until Patrick's advent he was the god of every folk that
@@ -313,11 +313,11 @@ the "Bowed One of the Mound", and was evidently applied to him only
 after his fall from godhead. It relates to the tradition that, at the
 approach of the all-conquering Saint Patrick, the "demon" fled from his
 golden image, which thereupon sank forward in the earth in homage to the
-power that had come to supersede it. <span id="fr_46"></span>[1](#fn_46)
+power that had come to supersede it. <span id="fr_46"></span>[1](#fn_46.md)
 But from another source we glean that the word *cromm* was a kind of pun
 upon *cenn*, and that the real title of the "king idol of Erin" was
 *Cenn Cruaich*, "Head" or "Lord" of the Mound. Professor Rhys, in his
-*Celtic Heathendom*, <span id="fr_47"></span>[2](#fn_47) suggests that
+*Celtic Heathendom*, <span id="fr_47"></span>[2](#fn_47.md) suggests that
 he was probably the Gaelic heaven-god, worshipped, like the Hellenic
 Zeus, upon "high places", natural or artificial. At any rate, we may see
 in him the god most revered by the Gaels, surrounded by the other twelve
@@ -327,16 +327,16 @@ It would appear probable that the Celtic State worship was what is
 called "solar". All its chief festivals related to points in the sun's
 progress, the equinoxes having been considered more important than the
 solstices. It was at the spring equinox (called by the Celts
-"Beltaine" <span id="fr_48"></span>[3](#fn_48)) in every nineteenth year
+"Beltaine" <span id="fr_48"></span>[3](#fn_48).md) in every nineteenth year
 that, we learn from Diodorus the Sicilian, a writer contemporary with
 Julius Caesar, Apollo himself appeared to his worshippers, and was seen
 harping and dancing in the sky until the rising of the Pleiades. <span
-id="fr_49"></span>[4](#fn_49) The other corresponding festival was
+id="fr_49"></span>[4](#fn_49.md) The other corresponding festival was
 
 <span id="page_42">p. 42</span>
 
 <span class="contnote">\[paragraph continues\]</span> "Samhain" <span
-id="fr_50"></span>[1](#fn_50), the autumn equinox. As Beltaine marked
+id="fr_50"></span>[1](#fn_50.md), the autumn equinox. As Beltaine marked
 the beginning of summer, so Samhain recorded its end. The summer
 solstice was also a great Celtic feast. It was held at the beginning of
 August in honour of the god called Lugus by the Gauls, Lugh by the
@@ -350,10 +350,10 @@ Diodorus's description of a "magnificent temple of Apollo" which he
 locates "in the centre of Britain". "It is a circular enclosure," he
 says, "adorned with votive offerings and tablets with Greek inscriptions
 suspended by travellers upon the walls. The rulers of the temple and
-city are called 'Boreadæ' <span id="fr_51"></span>[2](#fn_51), and they
+city are called 'Boreadæ' <span id="fr_51"></span>[2](#fn_51.md), and they
 take up the government from each other according to the order of their
 tribes. The citizens are given up to music, harping and chanting in
-honour of the sun." <span id="fr_52"></span>[3](#fn_52) Stonehenge,
+honour of the sun." <span id="fr_52"></span>[3](#fn_52.md) Stonehenge,
 therefore, was a sacred religious centre, equally revered by and equally
 belonging to all the British tribes--a Rome or Jerusalem of our ancient
 paganism.
@@ -367,7 +367,7 @@ they can be traced by name right across the ancient
 <span id="img_04200"></span>
 
 [![PORTION OF THE CIRCLE, STONEHENGE.--Frith](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 PORTION OF THE CIRCLE, STONEHENGE.--Frith  
 
  
@@ -386,7 +386,7 @@ the Celtic Druidism. Professor Rhys inclines to see in the *genii
 locorum*, the almost nameless spirits of well and river, mountain and
 wood--shadowy remnants of whose cults survive today,--members of a
 swarming Pantheon of the older Iberians. <span
-id="fr_53"></span>[1](#fn_53) These local beings would in no way
+id="fr_53"></span>[1](#fn_53.md) These local beings would in no way
 conflict with the great Celtic nature-gods, and the two worships could
 exist side by side, both even claiming the same votary. It needs the
 stern faith of mono-theism to deny the existence of the gods of others.
@@ -409,7 +409,7 @@ stories we are about to tell. Were they all Aryan, or did any of the
 greater aboriginal deities climb up to take their place among the Gaelic
 tribe of the goddess Danu, or the British children of the goddess Dôn?
 Some of the Celtic gods have seemed to scholars to bear signs of a
-non-Aryan origin. <span id="fr_54"></span>[1](#fn_54) The point,
+non-Aryan origin. <span id="fr_54"></span>[1](#fn_54.md) The point,
 however, is at present very obscure. Neither does it much concern us.
 Just as the diverse deities of the Greeks--some Aryan and Hellenic, some
 pre-Aryan and Pelasgian, some imported and Semitic--were all gathered
@@ -421,90 +421,90 @@ the British Islands".
 
 ### Footnotes
 
-<span id="fn_30"></span>[33:1](cml08.htm#fr_30) See Schrader:
+<span id="fn_30"></span>[33:1](cml08.htm#fr_30.md) See Schrader:
 *Prehistoric Antiquities of the Aryan Peoples*, pp. 138, 272.
 
-<span id="fn_31"></span>[33:2](cml08.htm#fr_31) A description of the
+<span id="fn_31"></span>[33:2](cml08.htm#fr_31.md) A description of the
 Druidical cult of the mistletoe is given by Pliny: *Natural History*,
 XVI, chap. xcv.
 
-<span id="fn_32"></span>[33:3](cml08.htm#fr_32) See Frazer: *The Golden
+<span id="fn_32"></span>[33:3](cml08.htm#fr_32.md) See Frazer: *The Golden
 Bough*, chap. IV.
 
-<span id="fn_33"></span>[34:1](cml08.htm#fr_33) Caesar: *De Bello
+<span id="fn_33"></span>[34:1](cml08.htm#fr_33.md) Caesar: *De Bello
 Gallico*, Book VI, chaps. XIII, XIV. But for a full exposition of what
 is known of the Druids the reader is referred to M. d’Arbois de
 Jubainville's *Introduction d l’Etude de la Littérature Celtique*, Vol.
 I of his *Cours de Littérature Celtique*.
 
-<span id="fn_34"></span>[35:1](cml08.htm#fr_34) Caesar: *De Bello
+<span id="fn_34"></span>[35:1](cml08.htm#fr_34.md) Caesar: *De Bello
 Gallico*, Book VI, chap. XIII.
 
-<span id="fn_35"></span>[35:2](cml08.htm#fr_35) Pliny: *Natural
+<span id="fn_35"></span>[35:2](cml08.htm#fr_35.md) Pliny: *Natural
 History*, XXX.
 
-<span id="fn_36"></span>[35:3](cml08.htm#fr_36) See [chap.
-XII](cml16.htm#ch-12), *The Irish Iliad*.
+<span id="fn_36"></span>[35:3](cml08.htm#fr_36.md) See [chap.
+XII](cml16.htm#ch-12.md), *The Irish Iliad*.
 
-<span id="fn_37"></span>[35:4](cml08.htm#fr_37) Rhys: *Celtic Britain*,
+<span id="fn_37"></span>[35:4](cml08.htm#fr_37.md) Rhys: *Celtic Britain*,
 chap. II. See also Gomme: *Ethnology in Folk-lore*, pp. 58-62; *Village
 Community*, p. 104.
 
-<span id="fn_38"></span>[36:1](cml08.htm#fr_38) Abundant evidence of
+<span id="fn_38"></span>[36:1](cml08.htm#fr_38.md) Abundant evidence of
 this is contained in Pausanias' *Description of Greece*.
 
-<span id="fn_39"></span>[36:2](cml08.htm#fr_39) Caesar: *De Bello
+<span id="fn_39"></span>[36:2](cml08.htm#fr_39.md) Caesar: *De Bello
 Gallico*, Book VI, chap. XIV.
 
-<span id="fn_40"></span>[37:1](cml08.htm#fr_40) *The Wooing of Emer*.
+<span id="fn_40"></span>[37:1](cml08.htm#fr_40.md) *The Wooing of Emer*.
 
-<span id="fn_41"></span>[37:2](cml08.htm#fr_41) It is contained in the
+<span id="fn_41"></span>[37:2](cml08.htm#fr_41.md) It is contained in the
 Book of the Dun Cow, and has been translated or commented upon by Eugene
 O’Curry (*Manners and Customs of the Ancient Irish*), De Jubainville
 (*Cycle Mythologique Irlandais*), and Nutt (*Voyage of Bran*).
 
-<span id="fn_42"></span>[38:1](cml08.htm#fr_42) Caesar: *De Bello
+<span id="fn_42"></span>[38:1](cml08.htm#fr_42.md) Caesar: *De Bello
 Gallico*, Book VI, chap. XVI.
 
-<span id="fn_43"></span>[38:2](cml08.htm#fr_43) The following
+<span id="fn_43"></span>[38:2](cml08.htm#fr_43.md) The following
 translation was made by Dr. Kuno Meyer, and appears as Appendix B to
 Nutt's *Voyage of Bran*. Three verses, here omitted, will be found later
-as a note to [chap. XII](cml16.htm#ch-12)--"The Irish Iliad".
+as a note to [chap. XII](cml16.htm#ch-12.md)--"The Irish Iliad".
 
-<span id="fn_44"></span>[40:1](cml08.htm#fr_44) The first King of the
+<span id="fn_44"></span>[40:1](cml08.htm#fr_44.md) The first King of the
 Milesians. The name is more usually spelt Eremon.
 
-<span id="fn_45"></span>[40:2](cml08.htm#fr_45) The Rennes *Dinnsenchus*
+<span id="fn_45"></span>[40:2](cml08.htm#fr_45.md) The Rennes *Dinnsenchus*
 has been translated by Dr. Whitley Stokes iii Vol. XVI of the *Revue
 Celtique*.
 
-<span id="fn_46"></span>[41:1](cml08.htm#fr_46) Told in the Tripartite
+<span id="fn_46"></span>[41:1](cml08.htm#fr_46.md) Told in the Tripartite
 Life of Saint Patrick, a fifteenth-century combination of three very
 ancient Gaelic MSS.
 
-<span id="fn_47"></span>[41:2](cml08.htm#fr_47) The *Hibbert Lectures*
+<span id="fn_47"></span>[41:2](cml08.htm#fr_47.md) The *Hibbert Lectures*
 for 1886. Lecture II--"The Zeus of the Insular Celts"
 
-<span id="fn_48"></span>[41:3](cml08.htm#fr_48) Pronounced *Baltinna*.
+<span id="fn_48"></span>[41:3](cml08.htm#fr_48.md) Pronounced *Baltinna*.
 
-<span id="fn_49"></span>[41:4](cml08.htm#fr_49) *Diodorus Siculus*: Book
+<span id="fn_49"></span>[41:4](cml08.htm#fr_49.md) *Diodorus Siculus*: Book
 II, chap. III.
 
-<span id="fn_50"></span>[42:1](cml08.htm#fr_50) Pronounced Sowin.
+<span id="fn_50"></span>[42:1](cml08.htm#fr_50.md) Pronounced Sowin.
 
-<span id="fn_51"></span>[42:2](cml08.htm#fr_51) It has been suggested
+<span id="fn_51"></span>[42:2](cml08.htm#fr_51.md) It has been suggested
 that this title is an attempt to reproduce the ancient British word for
 "bards".
 
-<span id="fn_52"></span>[42:3](cml08.htm#fr_52) *Diodorus Siculus*: Book
+<span id="fn_52"></span>[42:3](cml08.htm#fr_52.md) *Diodorus Siculus*: Book
 II, chap. III.
 
-<span id="fn_53"></span>[43:1](cml08.htm#fr_53) *Hibbert Lectures*,
+<span id="fn_53"></span>[43:1](cml08.htm#fr_53.md) *Hibbert Lectures*,
 1886. Lecture I--"The Gaulish Pantheon"
 
-<span id="fn_54"></span>[44:1](cml08.htm#fr_54) See Rhys: *Lectures on
+<span id="fn_54"></span>[44:1](cml08.htm#fr_54.md) See Rhys: *Lectures on
 Welsh Philology*, pp. 426, 552, 659.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Gods of the Gaels](cml09)
+[Next: Chapter V. The Gods of the Gaels](cml09.md)

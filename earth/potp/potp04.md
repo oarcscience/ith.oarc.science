@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp03)  [Next](potp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp03)  [Next](potp05.md) 
 
 ------------------------------------------------------------------------
 
@@ -163,7 +163,7 @@ the northern and southern extremities. In the interior are vast
 continents, oceans, mountains and rivers. Vegetable and animal life are
 evident in this new world, and it is probably peopled by races yet
 unknown to the dwellers upon the earth's exterior.](tn/02700.jpg)  
-Click to enlarge](img/02700.jpg)  
+Click to enlarge](img/02700.jpg.md)  
 GLOBE SHOWING SECTION OF THE EARTH'S INTERIOR  
 The earth is hollow. The poles so long sought are but phantoms. There
 are openings at the northern and southern extremities. In the interior
@@ -177,4 +177,4 @@ yet unknown to the dwellers upon the earth's exterior.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Flattening of the Earth at the Poles.](potp05)
+[Next: Chapter I. Flattening of the Earth at the Poles.](potp05.md)

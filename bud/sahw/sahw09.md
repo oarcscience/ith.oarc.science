@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw08)  [Next](sahw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw08)  [Next](sahw10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -84,7 +84,7 @@ simplest and most ignorant soul."
 
 Then she left him, and it was not for some years that he discovered that
 he had been conversing with the daughter of Fujiwara Kanezane, the lady
-who afterwards became his wife. <span id="fr_69"></span>[\*](#fn_69)
+who afterwards became his wife. <span id="fr_69"></span>[\*](#fn_69.md)
 
 I have told this story because it seems to it illustrate one or two of
 the questions brought before us in our consideration of the Shinshu
@@ -93,7 +93,7 @@ Catechism.
 For what period in the world's history, we are asked, and for what
 persons are the Shinshu doctrines of Salvation by Faith in Amida
 specially suitable? They are suited especially for the "last days," is
-the answer, for the *matsudai*, <span id="fr_70"></span>[†](#fn_70) the
+the answer, for the *matsudai*, <span id="fr_70"></span>[†](#fn_70.md) the
 *sue no yo*, in which we live. And they are suited for sinners, for
 weak, vacillating, helpless, persons like ourselves, who have not the
 moral and spiritual strength necessary for the working out of our own
@@ -128,7 +128,7 @@ nothing,"—has passed into a proverb.
 But as there were occasions when St. Paul could "speak wisdom," so the
 Shinshu has its philosophies for the perfect, the spiritual, the wise
 man. It does not reject knowledge, it only assigns it to a secondary
-[place](errata.htm#5), instead of making it the end-all of religion.
+[place](errata.htm#5.md), instead of making it the end-all of religion.
 "Had Christ said, 'He that hath *known* me hath known the Father, he
 would have been but a man," said to me a disciple of Hōnen. "But he said
 'He that hath *seen* me,' and that word <span
@@ -166,7 +166,7 @@ distinction is also found in the *Larger Sukhāvati Vyūha*. It is claimed
 <span id="page_68">p. 68</span>
 
 that the Eighteenth Section of Amida's Great Vow contains both. <span
-id="fr_71"></span>[\*](#fn_71)
+id="fr_71"></span>[\*](#fn_71.md)
 
 I will end this chapter by giving a translation (taken from Satow and
 Hawes’ Guidebook to Japan. Introd. p. 92) of this Shinshu Creed.
@@ -242,18 +242,18 @@ for a salvation already received.
 
 ### Footnotes
 
-<span id="fn_69"></span>[65:\*](sahw09.htm#fr_69) In Shinshu books,
-Shinran's wife is always spoken of as Tama [Hi](errata.htm#4) no Miya,
+<span id="fn_69"></span>[65:\*](sahw09.htm#fr_69.md) In Shinshu books,
+Shinran's wife is always spoken of as Tama [Hi](errata.htm#4.md) no Miya,
 "Princess Burning-Crystal."
 
-<span id="fn_70"></span>[65:†](sahw09.htm#fr_70) The Shinshu arrangement
+<span id="fn_70"></span>[65:†](sahw09.htm#fr_70.md) The Shinshu arrangement
 of the ages to come after the death: of S’akyamuni is somewhat different
 from that which we find in the Nichiren system (see my *Japanese
 Mahāyāna*). In the Shinshu, it is 500 years of Upright Law, 1030 years
 of Image Law, and 10,000 years (instead of 1000 only) of corrupted Law,
 at the end of which the knowledge of the Law will perish.
 
-<span id="fn_71"></span>[68:\*](sahw09.htm#fr_71) The eighteenth section
+<span id="fn_71"></span>[68:\*](sahw09.htm#fr_71.md) The eighteenth section
 of Amida Vow, as given in vol. XLIX of the *Sacred Books of the East*
 (Description of Sukhāvati, p. 73), is as follows:—
 
@@ -276,4 +276,4 @@ a while at least.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Amida Nyorai.](sahw10)
+[Next: Chapter VIII. Amida Nyorai.](sahw10.md)

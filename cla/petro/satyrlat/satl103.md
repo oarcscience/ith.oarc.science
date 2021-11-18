@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat14.htm#CIII) 
-[Previous](satl102)  [Next](satl104) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat14.htm#CIII.md) 
+[Previous](satl102)  [Next](satl104.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ male soporati consumpsimus. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CIV](satl104)
+[Next: CIV](satl104.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh14)  [Next](mbh16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh14)  [Next](mbh16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 The old Norse Thidreksaga, as recorded about the year 1250 by an
 Icelander, according to oral traditions and ancient songs, relates the
 history of the birth and youth of Siegfried. <span
-id="fr_80"></span>[4](#fn_80) King Sigmund of Tarlungaland, on his
+id="fr_80"></span>[4](#fn_80.md) King Sigmund of Tarlungaland, on his
 return
 
 <span id="page_57">p. 57</span>
@@ -65,10 +65,10 @@ proceeds to Brunhild, who names his parents to him.
 
 Similar to the early history of Siegfried is an Austrasian saga that
 tells of the birth and youth of Wolfdietrich. <span
-id="fr_81"></span>[1](#fn_81) His mother is likewise accused of
+id="fr_81"></span>[1](#fn_81.md) His mother is likewise accused of
 *unfaithfulness*, and of intercourse with the devil, by a vassal whom
 she has repulsed, and who speaks evil of her to the returning king,
-Hugdietrich of Constantinople. <span id="fr_82"></span>[2](#fn_82)
+Hugdietrich of Constantinople. <span id="fr_82"></span>[2](#fn_82.md)
 
 *The king surrenders the child to the faithful Berchtung, who is to kill
 it, but exposes it instead in the forest, near the water*, in the hope
@@ -77,7 +77,7 @@ frolicking child remains unhurt, and *even the wild animals*--lions,
 bears, and wolves, which come at night to the water--*do not harm it*.
 The astonished Berchtung resolves to save the boy, and he *surrenders
 him to a gamekeeper* who, together with his wife, raises him and names
-him Wolfdietrich. <span id="fr_83"></span>[3](#fn_83)
+him Wolfdietrich. <span id="fr_83"></span>[3](#fn_83.md)
 
 Three later hero epics may also be quoted in this connection: First,
 there is the thirteenth-century French saga of Horn, the son of Aluf,
@@ -98,7 +98,7 @@ exposure, and the early life with a lowly man.
 
 ### Footnotes
 
-<span id="fn_77"></span>[56:1](mbh14.htm#fr_77) Very similar traits are
+<span id="fn_77"></span>[56:1](mbh14.htm#fr_77.md) Very similar traits are
 found in the Celtic saga of Habis, as transmitted by Justin. Born as the
 illegitimate son of a king's daughter, Habis is persecuted in all sorts
 of ways by his royal grandfather, Gargoris, but is always saved by
@@ -110,23 +110,23 @@ a herd in a narrow path; then he was cast before hungry beasts, but they
 again nursed him; and finally he is thrown into the sea, but is gently
 lapped ashore and nursed by a doe, near which he grows up.
 
-<span id="fn_78"></span>[56:2](mbh14.htm#fr_78) Compare Spiegel, op.
+<span id="fn_78"></span>[56:2](mbh14.htm#fr_78.md) Compare Spiegel, op.
 cit., Vol. I., pp. 688 ff.; also Brodbeck, op. cit.
 
-<span id="fn_79"></span>[56:3](mbh14.htm#fr_79) As in the history of
+<span id="fn_79"></span>[56:3](mbh14.htm#fr_79.md) As in the history of
 Jesus; compare Luke 2:41-49.
 
-<span id="fn_80"></span>[56:4](mbh15.htm#fr_80) Compare August Rassmann:
+<span id="fn_80"></span>[56:4](mbh15.htm#fr_80.md) Compare August Rassmann:
 *Die deutsche Heldensage and ihre Heimat* (Hanover, 1857-8), Vol. II,
 pp. 7; for the sources, see Jiriczek: Die deutsche Heldensage, and
 Piper's introduction to the volume *Die Nibelungen*, in Kürschner's
 *German National Literature*.
 
-<span id="fn_81"></span>[58:1](mbh15.htm#fr_81) Compare: *Deutsches
+<span id="fn_81"></span>[58:1](mbh15.htm#fr_81.md) Compare: *Deutsches
 Heldenbuch*, Vol. I, Part III (Berlin, 1871), edited by Amelung and
 Jaenicke, which also contains a second version of the Wolfdietrich saga.
 
-<span id="fn_82"></span>[58:2](mbh15.htm#fr_82) The motive of
+<span id="fn_82"></span>[58:2](mbh15.htm#fr_82.md) The motive of
 calumniation of the wife by a rejected suitor, in combination with the
 exposure and nursing by an animal (doe), forms the nucleus of the story
 of Genovefa and her son Schmerzenreich, as told, for example, by the
@@ -138,10 +138,10 @@ Seuffert: *Die Legende von der Pfalzgräfin Genovefa* (Wurzburg, 1877).
 Similar legends of wives suspected of infidelity and punished by
 exposure are discussed in Chapter xi of my *Inzestmotiv*.
 
-<span id="fn_83"></span>[58:3](mbh15.htm#fr_83) The same accentuation of
+<span id="fn_83"></span>[58:3](mbh15.htm#fr_83.md) The same accentuation of
 the animal motif is found in the saga of Schalû, the Hindu wolf-child.
-Compare [Jülg](errata.htm#1), op. cit.
+Compare [Jülg](errata.htm#1.md), op. cit.
 
 ------------------------------------------------------------------------
 
-[Next: Lohengrin](mbh16)
+[Next: Lohengrin](mbh16.md)

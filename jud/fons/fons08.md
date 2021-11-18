@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](fons07)  [Next](fons09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](fons07)  [Next](fons09.md) 
 
 ------------------------------------------------------------------------
 
@@ -690,7 +690,7 @@ this reason the inferior substances are submissive to the superior
 substances and obey them, until the motion reaches the highest
 substance. We thus find that all substances are submissive to the
 highest substance, that they obey it, that they follow it and that they
-move at its [command](errata.htm#0). And I consider that the order of
+move at its [command](errata.htm#0.md). And I consider that the order of
 the particular soul imitates the disposition of the universal world.
 
 If the present discussion had no other result but that, it would be
@@ -713,4 +713,4 @@ in the sensibles.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](fons09)
+[Next: Bibliography](fons09.md)

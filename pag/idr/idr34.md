@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr33) 
-[Next](idr35) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr33.md) 
+[Next](idr35.md) 
 
 ------------------------------------------------------------------------
 
@@ -666,4 +666,4 @@ Inner Life of poor Humanity.
 
 ------------------------------------------------------------------------
 
-[Next: Ancient Irish Literature](idr35)
+[Next: Ancient Irish Literature](idr35.md)

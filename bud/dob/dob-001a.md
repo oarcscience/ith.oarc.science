@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Next](dob-001b)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Next](dob-001b.md)
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Table of Contents](dob-001b)
+[Return to top](#top)   [Next: Table of Contents](dob-001b.md)

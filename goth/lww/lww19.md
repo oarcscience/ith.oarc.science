@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww18)  [Next](lww20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww18)  [Next](lww20.md) 
 
 ------------------------------------------------------------------------
 
@@ -210,4 +210,4 @@ it carefully behind him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX--Metabolism](lww20)
+[Next: Chapter XX--Metabolism](lww20.md)

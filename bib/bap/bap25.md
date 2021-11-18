@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap24) 
-[Next](bap26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap24.md) 
+[Next](bap26.md) 
 
 ------------------------------------------------------------------------
 
 ### CHAPTER IX.
 
-IX\.  <span id="fr_40"></span>[3](#fn_40) And it came to pass after the
+IX\.  <span id="fr_40"></span>[3](#fn_40.md) And it came to pass after the
 departure of
 
 |              |
@@ -55,7 +55,7 @@ do.
 
 3\. And Amram answered and said: It will sooner come to pass that the
 age shall be utterly abolished and the immeasurable world fall, <span
-id="fr_41"></span>[1](#fn_41) or the heart of the depths touch the
+id="fr_41"></span>[1](#fn_41.md) or the heart of the depths touch the
 stars, than that the race of the children of Israel should be
 diminished. And it shall be, when the covenant is fulfilled whereof God
 when he made it spake to Abraham saying: Surely thy sons shall dwell in
@@ -76,13 +76,13 @@ I consent to
 the commandment of this king. And if it be right in your eyes, so let us
 do all of us, for it shall be, when our wives conceive, they shall not
 be known to be great with child until 3 months are fulfilled, like as
-also our mother Thamar <span id="fr_42"></span>[1](#fn_42) did, for her
+also our mother Thamar <span id="fr_42"></span>[1](#fn_42.md) did, for her
 intent was not to fornication, but because she would not separate
 herself from the sons of Israel she took thought and said: It is better
 for me to die for sinning with my father-in-law than to be joined to
 Gentiles. And she hid the fruit of her womb till the 3rd month, for then
 was it perceived. And as she went to be put to death she affirmed
-it <span id="fr_43"></span>[2](#fn_43) saying: The man whose is this
+it <span id="fr_43"></span>[2](#fn_43.md) saying: The man whose is this
 staff and this ring and goatskin, of him have I conceived. And her
 device delivered her out of all peril. 6. Now therefore let us also do
 thus. And it shall be when the time of bringing forth is come, if it be
@@ -105,7 +105,7 @@ covenant which no man hath seen, and manifest to him my great
 excellency, and my justice and judgments and will shine for him a
 perpetual light. For in ancient days I thought of him, saying: My spirit
 shall not be a mediator among these men for ever, for they are flesh,
-and their days shall be 120 years. <span id="fr_44"></span>[1](#fn_44)
+and their days shall be 120 years. <span id="fr_44"></span>[1](#fn_44.md)
 
 9\. And Amram of the tribe of Levi went forth and took a wife of his
 tribe, and it was so when he took her, that the residue did after him
@@ -113,7 +113,7 @@ and took their wives. Now he had one son and one daughter, and their
 names were Aaron and Maria,
 
 10\. And the spirit of God came upon Maria by night, and she saw a
-dream, <span id="fr_45"></span>[2](#fn_45) and told her parents in the
+dream, <span id="fr_45"></span>[2](#fn_45.md) and told her parents in the
 morning saying: I saw this night, and behold a man in a linen garment
 stood and said to me: Go and tell thy parents: behold, that which shall
 be born of you shall be cast into the water, for by him water shall be
@@ -141,13 +141,13 @@ be cast into the water?" And when they said so, Amram hearkened not to
 them.
 
 15\. But the daughter of Pharao came down to wash in the river according
-as she had seen in a dream, <span id="fr_46"></span>[1](#fn_46) and her
+as she had seen in a dream, <span id="fr_46"></span>[1](#fn_46.md) and her
 maids saw the ark, and she sent one of them and took it and opened it.
 And when she saw the child and looked upon the covenant, <span
-id="fr_47"></span>[2](#fn_47) that is, the testament in his flesh, she
+id="fr_47"></span>[2](#fn_47.md) that is, the testament in his flesh, she
 said: He is of the children of the Hebrews. 16. And she took him and
 nourished him and he became her son, and she called his name Moyses. But
-his mother called him Melchiel. <span id="fr_48"></span>[3](#fn_48) And
+his mother called him Melchiel. <span id="fr_48"></span>[3](#fn_48.md) And
 the child was nourished and became glorious above all men, and by him
 God delivered the children of Israel, as he had said.
 
@@ -155,38 +155,38 @@ God delivered the children of Israel, as he had said.
 
 ### Footnotes
 
-<span id="fn_40"></span>[99:3](bap25.htm#fr_40) IX. 1. A Midrash quoted
+<span id="fn_40"></span>[99:3](bap25.htm#fr_40.md) IX. 1. A Midrash quoted
 by Cohn (p. 317) agrees that the Egyptians desired to marry the Hebrew
 girls. *Jashar* and other authorities also say that Amram, in common
 with others, put away his wife when the Egyptian decree was promulgated.
 
-<span id="fn_41"></span>[100:1](bap25.htm#fr_41) 3. in uictoria minuatur
+<span id="fn_41"></span>[100:1](bap25.htm#fr_41.md) 3. in uictoria minuatur
 seculum: utterly, εἰσ νῖκοσ. The Hebraism (למנצח) occurs again, XII. 6,
 and perhaps in XLIX. 6.
 
-<span id="fn_42"></span>[101:1](bap25.htm#fr_42) 5. *Tamar*. Here the
+<span id="fn_42"></span>[101:1](bap25.htm#fr_42.md) 5. *Tamar*. Here the
 author first introduces a story from the past history of Israel by way
 of illustration: it is his constant practice later on.
 
-<span id="fn_43"></span>[101:2](bap25.htm#fr_43) *Affirmed it: statuit
+<span id="fn_43"></span>[101:2](bap25.htm#fr_43.md) *Affirmed it: statuit
 hoc*. Perhaps "presented" the staff, etc.
 
-<span id="fn_44"></span>[102:1](bap25.htm#fr_44) 8. *fin*. The point of
+<span id="fn_44"></span>[102:1](bap25.htm#fr_44.md) 8. *fin*. The point of
 the quotation is that Moses was 120 years old when he died. Cf. II. 2.
 
-<span id="fn_45"></span>[102:2](bap25.htm#fr_45) 10. *Miriam's vision*.
+<span id="fn_45"></span>[102:2](bap25.htm#fr_45.md) 10. *Miriam's vision*.
 In *Jashar* and elsewhere (*e.g.* Talmud Bab. *Megillah*, tr. Rodkinson,
 p. 36) Miriam prophesies the birth of Moses. Cf. Cohn, p. 318.
 
-<span id="fn_46"></span>[103:1](bap25.htm#fr_46) 15. *according as she
+<span id="fn_46"></span>[103:1](bap25.htm#fr_46.md) 15. *according as she
 had seen in a dream*. The usual story is that God sent a great heat upon
 Egypt, so that the people were constrained to bathe (*Jashar*, etc.).
 
-<span id="fn_47"></span>[103:2](bap25.htm#fr_47) *covenant*. Zaticon =
+<span id="fn_47"></span>[103:2](bap25.htm#fr_47.md) *covenant*. Zaticon =
 διαθήκην. The Midrashim (Cohn, l.c.) agree that Moses was born
 circumcised.
 
-<span id="fn_48"></span>[103:3](bap25.htm#fr_48) 16. Melchiel. Syncellus
+<span id="fn_48"></span>[103:3](bap25.htm#fr_48.md) 16. Melchiel. Syncellus
 and Cedrenus say that he was called by his parents Melchias. Clement of
 Alexandria (*Strom*. I. 23) says they called him Ioacim, and he "had a
 third name after the assumption, as the initiated (μύσται) say, viz.
@@ -195,4 +195,4 @@ is not among them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](bap26)
+[Next: Chapter X](bap26.md)

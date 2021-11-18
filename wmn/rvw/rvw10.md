@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw09)  [Next](rvw11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw09)  [Next](rvw11.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ United States v. Vuitch, 402 U.S., at 67-72.
 
 ------------------------------------------------------------------------
 
-[Next: Section XI](rvw11)
+[Next: Section XI](rvw11.md)

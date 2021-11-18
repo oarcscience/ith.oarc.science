@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb18)  [Next](wfb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb18)  [Next](wfb20.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ this is a warning to all who abuse the gifts of the fairies.
 
 ------------------------------------------------------------------------
 
-[Next: Guto Bach and the Fairies](wfb20)
+[Next: Guto Bach and the Fairies](wfb20.md)

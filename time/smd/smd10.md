@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd09)  [Next](smd11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd09)  [Next](smd11.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ slightly altered form of the word hlaf-maesse.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. September--The Seventh Month](smd11)
+[Next: Chapter IX. September--The Seventh Month](smd11.md)

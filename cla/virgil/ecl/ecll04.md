@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](ecl04) 
-[Previous](ecll03)  [Next](ecll05) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](ecl04.md) 
+[Previous](ecll03)  [Next](ecll05.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ nec deus hunc mensa dea nec dignata cubili est.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue V.--Daphnis](ecll05)
+[Next: Eclogue V.--Daphnis](ecll05.md)

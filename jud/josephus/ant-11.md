@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ SUFFERED THEM TO RETURN TO THEIR OWN COUNTRY AND TO BUILD THEIR TEMPLE,
 FOR WHICH WORK HE GAVE THEM MONEY.**
 
 1\. IN the first year of the reign of Cyrus <span
-id="EndNote Ant 11.1a"></span>[(1)](#EndNote%20Ant%2011.1b) which was
+id="EndNote Ant 11.1a"></span>[(1)](#EndNote%20Ant%2011.1b.md) which was
 the seventieth from the day that our people were removed out of their
 own land into Babylon, God commiserated the captivity and calamity of
 these poor people, according as he had foretold to them by Jeremiah the
@@ -44,7 +44,7 @@ and ambition seized upon him to fulfill what was so written; so he
 called for the most eminent Jews that were in Babylon, and said to them,
 that he gave them leave to go back to their own country, and to rebuild
 their city Jerusalem, <span
-id="EndNote Ant 11.2a"></span>[(2)](#EndNote%20Ant%2011.2b) and the
+id="EndNote Ant 11.2a"></span>[(2)](#EndNote%20Ant%2011.2b.md) and the
 temple of God, for that he would be their assistant, and that he would
 write to the rulers and governors that were in the neighborhood of their
 country of Judea, that they should contribute to them gold and silver
@@ -90,7 +90,7 @@ five hundred of silver; fifty basons of gold, and five hundred of
 silver; thirty vessels for pouring \[the drink-offerings\], and three
 hundred of silver; thirty vials of gold, and two thousand four hundred
 of silver; with a thousand other large vessels. <span
-id="EndNote Ant 11.3a"></span>[(3)](#EndNote%20Ant%2011.3b) I permit
+id="EndNote Ant 11.3a"></span>[(3)](#EndNote%20Ant%2011.3b.md) I permit
 them to have the same honor which they were used to have from their
 forefathers, as also for their small cattle, and for wine and oil, two
 hundred and five thousand and five hundred drachme; and for wheat flour,
@@ -123,7 +123,7 @@ their interest for rendering this building a slow and a careless work,
 for Cyrus, who was busy about other wars, knew nothing of all this; and
 it so happened, that when he had led his army against the Massagetae, he
 ended his life. <span
-id="EndNote Ant 11.4a"></span>[(4)](#EndNote%20Ant%2011.4b) But when
+id="EndNote Ant 11.4a"></span>[(4)](#EndNote%20Ant%2011.4b.md) But when
 Cambyses, the son of Cyrus, had taken the kingdom, the governors in
 Syria, and Phoenicia, and in the countries of Amlnon, and Moab, and
 Samaria, wrote an epistle to Calnbyses; whose contents were as follow:
@@ -308,7 +308,7 @@ thing that is immortal and eternal. It affords us not indeed such a
 beauty as will wither away by time, nor such riches as may be taken away
 by fortune, but righteous rules and laws. It distinguishes them from
 injustice, and puts what is unrighteous to rebuke.” <span
-id="EndNote Ant 11.5a"></span>[(5)](#EndNote%20Ant%2011.5b)
+id="EndNote Ant 11.5a"></span>[(5)](#EndNote%20Ant%2011.5b.md)
 
 7\. So when Zorobabel had left off his discourse about truth, and the
 multitude had cried out aloud that he had spoken the most wisely, and
@@ -376,7 +376,7 @@ from the connexion of the historical facts, and make it hard for them to
 follow the coherence of my narrations; but the sum of those that went
 up, above the age of twelve years, of the tribes of Judah and Benjamin,
 was four hundred and sixty-two myriads and eight thousand <span
-id="EndNote Ant 11.6a"></span>[(6)](#EndNote%20Ant%2011.6b) the Levites
+id="EndNote Ant 11.6a"></span>[(6)](#EndNote%20Ant%2011.6b.md) the Levites
 were seventy-four; the number of the women and children mixed together
 was forty thousand seven hundred and forty-two; and besides these, there
 were singers of the Levites one hundred and twenty-eight, and porters
@@ -606,7 +606,7 @@ their commander. And this is the account I had to give of the Jews who
 had been carried into captivity, but were delivered from it in the times
 of Cyrus and Darius.
 
-9\. <span id="EndNote Ant 11.7a"></span>[(7)](#EndNote%20Ant%2011.7b)
+9\. <span id="EndNote Ant 11.7a"></span>[(7)](#EndNote%20Ant%2011.7b.md)
 But the Samaritans, being evil and enviously disposed to the Jews,
 wrought them many mischiefs, by reliance on their riches, and by their
 pretense that they were allied to the Persians, on account that thence
@@ -713,7 +713,7 @@ the treasurers, who were of the family of the priests, of silver six
 hundred and fifty talents, vessels of silver one hundred talents,
 vessels of gold twenty talents, vessels of brass, that was more precious
 than gold, <span
-id="EndNote Ant 11.8a"></span>[(8)](#EndNote%20Ant%2011.8b) twelve
+id="EndNote Ant 11.8a"></span>[(8)](#EndNote%20Ant%2011.8b.md) twelve
 talents by weight; for these Presents had been made by the king and his
 counselors, and by all the Israelites that staid at Babylon. So when
 Esdras had delivered these things to the priests, he gave to God, as the
@@ -792,7 +792,7 @@ the first day of the next month, and found a great many of the posterity
 of Jeshua the high priest, and of the priests and Levites, and
 Israelites, who had a greater regard to the observation of the law than
 to their natural affection, <span
-id="EndNote Ant 11.9a"></span>[(9)](#EndNote%20Ant%2011.9b) and
+id="EndNote Ant 11.9a"></span>[(9)](#EndNote%20Ant%2011.9b.md) and
 immediately cast out their wives, and the children which were born of
 them. And in order to appease God, they offered sacrifices, and slew
 rams, as oblations to him; but it does not seem to me to be necessary to
@@ -802,7 +802,7 @@ practice to purity, so that it continued in that state for the time to
 come.
 
 5\. Now when they kept the feast of tabernacles in the seventh month
-<span id="EndNote Ant 11.10a"></span>[(10)](#EndNote%20Ant%2011.10b) and
+<span id="EndNote Ant 11.10a"></span>[(10)](#EndNote%20Ant%2011.10b.md) and
 almost all the people were come together to it, they went up to the open
 part of the temple, to the gate which looked eastward, and desired of
 Esdras that the laws of Moses might be read to them. Accordingly, he
@@ -816,7 +816,7 @@ which they had experienced. But when Esdras saw them in that
 disposition, he bade them go home, and not weep, for that it was a
 festival, and that they ought not to weep thereon, for that it was not
 lawful so to do. <span
-id="EndNote Ant 11.11a"></span>[(11)](#EndNote%20Ant%2011.11b) He
+id="EndNote Ant 11.11a"></span>[(11)](#EndNote%20Ant%2011.11b.md) He
 exhorted them rather to proceed immediately to feasting, and to do what
 was suitable to a feast, and what was agreeable to a day of joy; but to
 let their repentance and sorrow for their former sins be a security and
@@ -839,7 +839,7 @@ whence they came. And when their answer was, that they came from Judea,
 he began to inquire of them again in what state the multitude was, and
 in what condition Jerusalem was; and when they replied that they were in
 a bad state <span
-id="EndNote Ant 11.12a"></span>[(12)](#EndNote%20Ant%2011.12b) for that
+id="EndNote Ant 11.12a"></span>[(12)](#EndNote%20Ant%2011.12b.md) for that
 their walls were thrown down to the ground, and that the neighboring
 nations did a great deal of mischief to the Jews, while in the day time
 they overran the country, and pillaged it, and in the night did them
@@ -877,7 +877,7 @@ Nehemiah, and to supply him with what he wanted for his building.
 countrymen, who voluntarily followed him, he came to Jerusalem in the
 twenty and fifth year of the reign of Xerxes. And when he had shown the
 epistles to God <span
-id="EndNote Ant 11.13a"></span>[(13)](#EndNote%20Ant%2011.13b) he gave
+id="EndNote Ant 11.13a"></span>[(13)](#EndNote%20Ant%2011.13b.md) he gave
 them to Adeus, and to the other governors. He also called together all
 the people to Jerusalem, and stood in the midst of the temple, and made
 the following speech to them: "You know, O Jews, that God hath kept our
@@ -927,7 +927,7 @@ naked. He also went about the compass of the city by night, being never
 discouraged, neither about the work itself, nor about his own diet and
 sleep, for he made no use of those things for his pleasure, but out of
 necessity. And this trouble he underwent for two years and four months;
-<span id="EndNote Ant 11.14a"></span>[(14)](#EndNote%20Ant%2011.14b) for
+<span id="EndNote Ant 11.14a"></span>[(14)](#EndNote%20Ant%2011.14b.md) for
 in so long a time was the wall built, in the twenty-eighth year of the
 reign of Xerxes, in the ninth month. Now when the walls were finished,
 Nehemiah and the multitude offered sacrifices to God for the building of
@@ -957,7 +957,7 @@ ARTAXERXES THE WHOLE NATION OF THE JEWS WAS IN DANGER OF PERISHING.**
 1\. AFTER the death of Xerxes, the kingdom came to be transferred to his
 son Cyrus, whom the Greeks called Artaxerxes. When this man had obtained
 the government over the Persians, the whole nation of the Jews, <span
-id="EndNote Ant 11.15a"></span>[(15)](#EndNote%20Ant%2011.15b) with
+id="EndNote Ant 11.15a"></span>[(15)](#EndNote%20Ant%2011.15b.md) with
 their wives and children, were in danger of perishing; the occasion
 whereof we shall declare in a little time; for it is proper, in the
 first place, to explain somewhat relating to this king, and how he came
@@ -987,7 +987,7 @@ her, who exceeded all other women in beauty, to those that feasted with
 him, and he sent some to command her to come to his feast. But she, out
 of regard to the laws of the Persians, which forbid the wives to be seen
 by strangers, did not go to the king <span
-id="EndNote Ant 11.16a"></span>[(16)](#EndNote%20Ant%2011.16b) and
+id="EndNote Ant 11.16a"></span>[(16)](#EndNote%20Ant%2011.16b.md) and
 though he oftentimes sent the eunuchs to her, she did nevertheless stay
 away, and refused to come, till the king was so much irritated, that he
 brake up the entertainment, and rose up, and called for those seven who
@@ -1050,7 +1050,7 @@ inquiring how the damsel did, for he loved her as though she had been
 his own daughter.
 
 3\. Now the king had made a law, <span
-id="EndNote Ant 11.17a"></span>[(17)](#EndNote%20Ant%2011.17b) that none
+id="EndNote Ant 11.17a"></span>[(17)](#EndNote%20Ant%2011.17b.md) that none
 of his own people should approach him unless he were called, when he sat
 upon his throne and men, with axes in their hands, stood round about his
 throne, in order to punish such as approached to him without being
@@ -1075,7 +1075,7 @@ that used to go in to the king; and the foreigners and Persians
 worshipped him, as Artaxerxes had commanded that such honor should be
 paid to him; but Mordecai was so wise, and so observant of his own
 country's laws, that he would not worship the man <span
-id="EndNote Ant 11.18a"></span>[(18)](#EndNote%20Ant%2011.18b) When
+id="EndNote Ant 11.18a"></span>[(18)](#EndNote%20Ant%2011.18b.md) When
 Haman observed this, he inquired whence he came; and when he understood
 that he was a Jew, he had indignation at him, and said within himself,
 that whereas the Persians, who were free men, worshipped him, this man,
@@ -1380,7 +1380,7 @@ governors, that were over his hundred twenty and seven provinces, from
 India to Ethiopia. Now the contents of this epistle were these: "The
 great king Artaxerxes to our rulers, and those that are our faithful
 subjects, sendeth greeting. <span
-id="EndNote Ant 11.19a"></span>[(19)](#EndNote%20Ant%2011.19b) Many men
+id="EndNote Ant 11.19a"></span>[(19)](#EndNote%20Ant%2011.19b.md) Many men
 there are who, on account of the greatness of the benefits bestowed on
 them, and because of the honor which they have obtained from the
 wonderful kind treatment of those that bestowed it, are not only
@@ -1414,7 +1414,7 @@ treacherously requiring to have Esther, the partner of my life, and of
 my dominion, brought to destruction; for he contrived by this means to
 deprive me of my faithful friends, and transfer the government to
 others: <span
-id="EndNote Ant 11.20a"></span>[(20)](#EndNote%20Ant%2011.20b) but since
+id="EndNote Ant 11.20a"></span>[(20)](#EndNote%20Ant%2011.20b.md) but since
 I perceived that these Jews, that were by this pernicious fellow devoted
 to destruction, were not wicked men, but conducted their lives after the
 best manner, and were men dedicated to the worship of that God who hath
@@ -1486,7 +1486,7 @@ them, and on them inflicting punishment on their enemies, to observe
 those days, and give thanks to God on them; for which cause the Jews
 still keep the forementioned days, and call them days of Phurim \[or
 Purim.\] <span
-id="EndNote Ant 11.21a"></span>[(21)](#EndNote%20Ant%2011.21b) And
+id="EndNote Ant 11.21a"></span>[(21)](#EndNote%20Ant%2011.21b.md) And
 Mordecai became a great and illustrious person with the king, and
 assisted him in the government of the people. He also lived with the
 queen; so that the affairs of the Jews were, by their means, better than
@@ -1502,7 +1502,7 @@ MANY INJURIES TO THE JEWS; AND WHAT SANBALLAT DID.**
 the high priesthood; and when he was dead, his son John took that
 dignity; on whose account it was also that Bagoses, the general of
 another Artaxerxes's army, <span
-id="EndNote Ant 11.22a"></span>[(22)](#EndNote%20Ant%2011.22b) polluted
+id="EndNote Ant 11.22a"></span>[(22)](#EndNote%20Ant%2011.22b.md) polluted
 the temple, and imposed tributes on the Jews, that out of the public
 stock, before they offered the daily sacrifices, they should pay for
 every lamb fifty shekels. Now Jesus was the brother of John, and was a
@@ -1687,7 +1687,7 @@ ran along by him, and he came into the city. And when he went up into
 the temple, he offered sacrifice to God, according to the high priest's
 direction, and magnificently treated both the high priest and the
 priests. And when the Book of Daniel was showed him <span
-id="EndNote Ant 11.23a"></span>[(23)](#EndNote%20Ant%2011.23b) wherein
+id="EndNote Ant 11.23a"></span>[(23)](#EndNote%20Ant%2011.23b.md) wherein
 Daniel declared that one of the Greeks should destroy the empire of the
 Persians, he supposed that himself was the person intended. And as he
 was then glad, he dismissed the multitude for the present; but the next
@@ -1736,7 +1736,7 @@ guard that country.
 7\. Now when Alexander was dead, the government was parted among his
 successors, but the temple upon Mount Gerizzim remained. And if any one
 were accused by those of Jerusalem of having eaten things common <span
-id="EndNote Ant 11.24a"></span>[(24)](#EndNote%20Ant%2011.24b) or of
+id="EndNote Ant 11.24a"></span>[(24)](#EndNote%20Ant%2011.24b.md) or of
 having broken the sabbath, or of any other crime of the like nature, he
 fled away to the Shechemites, and said that he was accused unjustly.
 About this time it was that Jaddua the high priest died, and Onias his
@@ -1745,14 +1745,14 @@ people of Jerusalem at this time.
 
 ENDNOTE
 
-<span id="EndNote Ant 11.1b"></span>[(1)](#EndNote%20Ant%2011.1a) This
+<span id="EndNote Ant 11.1b"></span>[(1)](#EndNote%20Ant%2011.1a.md) This
 Cyrus is called God's shepherd by Xenophon, as well as by Isaiah, Isaiah
 44:28; as also it is said of him by the same prophet, that "I will make
 a man more precious than fine gold, even a man than the golden wedge of
 Ophir," Isaiah 13:12, which character makes Xenophon's most excellent
 history of him very credible.
 
-<span id="EndNote Ant 11.2b"></span>[(2)](#EndNote%20Ant%2011.2a) This
+<span id="EndNote Ant 11.2b"></span>[(2)](#EndNote%20Ant%2011.2a.md) This
 leave to build Jerusalem, sect. 3, and this epistle of Cyrus to Sisinnes
 and Sathrabuzanes, to the same purpose, are most unfortunately omitted
 in all our copies but this best and completest copy of Josephus; and by
@@ -1766,11 +1766,11 @@ commission for rebuilding the city Jerusalem as distinct from the
 temple, whose rebuilding is alone permitted or directed in the decree of
 Cyrus in all our copies.
 
-<span id="EndNote Ant 11.3b"></span>[(3)](#EndNote%20Ant%2011.3a) Of the
+<span id="EndNote Ant 11.3b"></span>[(3)](#EndNote%20Ant%2011.3a.md) Of the
 true number of golden and silver vessels here and elsewhere belonging to
 the temple of Solomon, see the description of the temples, chap. 13.
 
-<span id="EndNote Ant 11.4b"></span>[(4)](#EndNote%20Ant%2011.4a)
+<span id="EndNote Ant 11.4b"></span>[(4)](#EndNote%20Ant%2011.4a.md)
 Josephus here follows Herodotus, and those that related how Cyrus made
 war with the Scythians and Massagets, near the Caspian Sea, and perished
 in it; while Xenophon's account, which appears never to have been seen
@@ -1788,7 +1788,7 @@ there, that I ever heard of, the least mention in the reign of Cambyses
 of any war against the Scythians and Massagets that he was ever engaged
 in all his life.
 
-<span id="EndNote Ant 11.5b"></span>[(5)](#EndNote%20Ant%2011.5a) The
+<span id="EndNote Ant 11.5b"></span>[(5)](#EndNote%20Ant%2011.5a.md) The
 reader is to note, that although the speeches or papers of these three
 of the king's guard are much the same, in our Third Book of Esdras, ch.
 3. and 4., as they are here in Josephus, yet that the introduction of
@@ -1812,7 +1812,7 @@ of Israel." To which doctrine, such as Cyrus and Darius; etc., the Jews'
 great patrons, seem not to have been very averse, though the entire
 idolatry of their kingdoms made them generally conceal it.
 
-<span id="EndNote Ant 11.6b"></span>[(6)](#EndNote%20Ant%2011.6a) This
+<span id="EndNote Ant 11.6b"></span>[(6)](#EndNote%20Ant%2011.6a.md) This
 strange reading in Josephus's present copies of four millions instead of
 forty thousand, is one of the grossest errors that is in them, and ought
 to be corrected from Ezra 2:61; 1 Esd. 5:40; and Nehemiah 7:66, who all
@@ -1830,16 +1830,16 @@ part" of the people that now came up from Babylon, at the end of this
 chapter, imply the same smaller number of Jews that now came up, and
 will no way agree with the four millions.
 
-<span id="EndNote Ant 11.7b"></span>[(7)](#EndNote%20Ant%2011.7a) The
+<span id="EndNote Ant 11.7b"></span>[(7)](#EndNote%20Ant%2011.7a.md) The
 history contained in this section is entirely wanting in all our other
 copies, both of Ezra and Esdras.
 
-<span id="EndNote Ant 11.8b"></span>[(8)](#EndNote%20Ant%2011.8a) Dr.
+<span id="EndNote Ant 11.8b"></span>[(8)](#EndNote%20Ant%2011.8a.md) Dr.
 Hudson takes notice here, that this kind of brass or copper, or rather
 mixture of gold and brass or copper, was called aurichalcum, and that
 this was of old esteemed the most precious of all metals.
 
-<span id="EndNote Ant 11.9b"></span>[(9)](#EndNote%20Ant%2011.9a) This
+<span id="EndNote Ant 11.9b"></span>[(9)](#EndNote%20Ant%2011.9a.md) This
 procedure of Esdras, and of the best part of the Jewish nation, after
 their return from the Babylonish captivity, of reducing the Jewish
 marriages, once for all, to the strictness of the law of Moses, without
@@ -1854,17 +1854,17 @@ place instead of the Divine laws, and so the blessing of God is
 forfeited, and the church still suffered to continue corrupt from one
 generation to another. See ch. 8. sect. 2.
 
-<span id="EndNote Ant 11.10b"></span>[(10)](#EndNote%20Ant%2011.10a)
+<span id="EndNote Ant 11.10b"></span>[(10)](#EndNote%20Ant%2011.10a.md)
 This Jewish feast of tabernacles was imitated in several heathen
 solemnities, as Spanheim here observes and proves. He also further
 observes presently, what great regard many heathens had to the monuments
 of their forefathers, as Nehemiah had here, sect. 6.
 
-<span id="EndNote Ant 11.11b"></span>[(11)](#EndNote%20Ant%2011.11a)
+<span id="EndNote Ant 11.11b"></span>[(11)](#EndNote%20Ant%2011.11a.md)
 This rule of Esdras, not to fast on a festival day, is quoted in the
 Apostolical Constitutions, B. V., as obtaining among Christians also.
 
-<span id="EndNote Ant 11.12b"></span>[(12)](#EndNote%20Ant%2011.12a)
+<span id="EndNote Ant 11.12b"></span>[(12)](#EndNote%20Ant%2011.12a.md)
 This miserable condition of the Jews, and their capital, must have been
 after the death of Esdras, their former governor, and before Nehemiah
 came with his commission to build the walls of Jerusalem. Nor is that at
@@ -1872,7 +1872,7 @@ all disagreeable to these histories in Josephus, since Esdras came on
 the seventh, and Nehemiah not till the twenty-fifth of Xerxes, at the
 interval of eighteen years.
 
-<span id="EndNote Ant 11.13b"></span>[(13)](#EndNote%20Ant%2011.13a)
+<span id="EndNote Ant 11.13b"></span>[(13)](#EndNote%20Ant%2011.13a.md)
 This showing king Xerxes's epistles to God, or laying them open before
 God in the temple, is very like the laying open the epistles of
 Sennacherib before him also by Hezekiah, 2 Kings 19:14; Isaiah 37:14,
@@ -1881,7 +1881,7 @@ enemies, in order to move the Divine compassion, and the present as a
 token of gratitude for mercies already received, as Hayercamp well
 observes on this place.
 
-<span id="EndNote Ant 11.14b"></span>[(14)](#EndNote%20Ant%2011.14a) It
+<span id="EndNote Ant 11.14b"></span>[(14)](#EndNote%20Ant%2011.14a.md) It
 may not be very improper to remark here, with what an unusual accuracy
 Josephus determines these years of Xerxes, in which the walls of
 Jerusalem were built, viz. that Nehemiah came with his commission in the
@@ -1897,7 +1897,7 @@ weeks, and the duration of our Savior's ministry, and the time of his
 death, in correspondence to those seventy weeks. See the Supplement to
 the Lit. Accorap. of Proph. p. 72.
 
-<span id="EndNote Ant 11.15b"></span>[(15)](#EndNote%20Ant%2011.15a)
+<span id="EndNote Ant 11.15b"></span>[(15)](#EndNote%20Ant%2011.15a.md)
 Since some skeptical persons are willing to discard this Book of Esther
 as no true history; and even our learned and judicious Dr. Wall, in his
 late posthumous Critical Notes upon all the other Hebrew books of the
@@ -1925,7 +1925,7 @@ upon granting this Book of Esther, or sixth of Esdras, (as it is placed
 in some of the most ancient copies of the Vulgate,) to be a most true
 and certain history," etc.
 
-<span id="EndNote Ant 11.16b"></span>[(16)](#EndNote%20Ant%2011.16a) If
+<span id="EndNote Ant 11.16b"></span>[(16)](#EndNote%20Ant%2011.16a.md) If
 the Chaldee paraphrast be in the right, that Artaxerxes intended to show
 Vashti to his guests naked, it is no wonder at all that she would not
 submit to such an indignity; but still if it were not so gross as that,
@@ -1940,7 +1940,7 @@ most wonderful deliverances which the Jewish or any other nation ever
 had, we need not be further solicitous about the motives by which the
 king was induced to divorce Vashti, and marry Esther.
 
-<span id="EndNote Ant 11.17b"></span>[(17)](#EndNote%20Ant%2011.17a)
+<span id="EndNote Ant 11.17b"></span>[(17)](#EndNote%20Ant%2011.17a.md)
 Herodotus says that this law \[against any one's coming uncalled to the
 kings of Persia when they were sitting on their thrones\] was first
 enacted by Deioces \[i.e. by him who first withdrew the Medes from the
@@ -1949,7 +1949,7 @@ also, lays Spanheim, stood guards, with their axes, about the throne of
 Tenus, or Tenudus, that the offender might by them be punished
 immediately.
 
-<span id="EndNote Ant 11.18b"></span>[(18)](#EndNote%20Ant%2011.18a)
+<span id="EndNote Ant 11.18b"></span>[(18)](#EndNote%20Ant%2011.18a.md)
 Whether this adoration required of Mordecai to Haman were by him deemed
 too like the adoration due only to God, as Josephus seems here to think,
 as well as the Septuagint interpreters also, by their translation of
@@ -1959,7 +1959,7 @@ to have been universally devoted to destruction by God himself, Exodus
 17:14-16; 1 Samuel 15:18, or whether both causes concurred, cannot now,
 I doubt, be certainly determined.
 
-<span id="EndNote Ant 11.19b"></span>[(19)](#EndNote%20Ant%2011.19a) The
+<span id="EndNote Ant 11.19b"></span>[(19)](#EndNote%20Ant%2011.19a.md) The
 true reason why king Artaxerxes did not here properly revoke his former
 barbarous decree for the universal slaughter of the Jews, but only
 empowered and encouraged the Jews to fight for their lives, and to kill
@@ -1971,7 +1971,7 @@ changed, but remained unalterable, Daniel 6:7-9, 12, 15, 17; Esther
 himself signed this decree for the Jews' slaughter instead of the
 ancient lords, and so might have rendered it by their rules irrevocable.
 
-<span id="EndNote Ant 11.20b"></span>[(20)](#EndNote%20Ant%2011.20a)
+<span id="EndNote Ant 11.20b"></span>[(20)](#EndNote%20Ant%2011.20a.md)
 These words give an intimation as if Artaxerxes suspected a deeper
 design in Haman than openly appeared, viz. that knowing the Jews would
 be faithful to him, and that he could never transfer the crown to his
@@ -1986,7 +1986,7 @@ occasion, were Amalekites, their old and hereditary enemies, Exodus
 the first of the nations, but his latter end shall be, that he perish
 for ever" Numbers 24:20.
 
-<span id="EndNote Ant 11.21b"></span>[(21)](#EndNote%20Ant%2011.21a)
+<span id="EndNote Ant 11.21b"></span>[(21)](#EndNote%20Ant%2011.21a.md)
 Take here part of Reland's note on this disputed passage: "In Josephus's
 copies these Hebrew words, 'days of Purim,' or ' lots,' as in the Greek
 copies of Esther, ch. 9:26, 28-32, is read 'days of Phurim,' or 'days of
@@ -2005,7 +2005,7 @@ them to have a constant regard to God, and whatsoever related to his
 worship; nor do we know that there ever was so imperfect a copy of it in
 the world till after the days of Barchochab, in the second century.
 
-<span id="EndNote Ant 11.22b"></span>[(22)](#EndNote%20Ant%2011.22a)
+<span id="EndNote Ant 11.22b"></span>[(22)](#EndNote%20Ant%2011.22a.md)
 Concerning this other Artaxerxes, called Muemon, and the Persian
 affliction and captivity of the Jews under him, occasioned by the murder
 of the high priest's brother in the holy house itself, see Authent. Rec.
@@ -2025,14 +2025,14 @@ unless Bagoses, one of the governors and commanders under him, had
 occasioned the pollution of the Jewish temple, and had greatly
 distressed the Jews upon that pollution.
 
-<span id="EndNote Ant 11.23b"></span>[(23)](#EndNote%20Ant%2011.23a) The
+<span id="EndNote Ant 11.23b"></span>[(23)](#EndNote%20Ant%2011.23a.md) The
 place showed Alexander might be Daniel 7:6; 8:3-8, 20--22; 11:3; some or
 all of them very plain predictions of Alexander's conquests and
 successors.
 
-<span id="EndNote Ant 11.24b"></span>[(24)](#EndNote%20Ant%2011.24a)
+<span id="EndNote Ant 11.24b"></span>[(24)](#EndNote%20Ant%2011.24a.md)
 Here Josephus uses the very word *koinophagia* "eating things common,"
 for "eating things unclean;" as does our New Testament, Acts x. 14,15,
 28; xi. 8, 9; Rom. xiv. 14.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

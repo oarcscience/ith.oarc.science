@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Next](wnr01) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Next](wnr01.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ WHO GAVE BIRTH TO ELEVEN LIVING CHILDREN
 
 ------------------------------------------------------------------------
 
-[Next: Preface](wnr01)
+[Next: Preface](wnr01.md)

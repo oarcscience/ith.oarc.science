@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr01)  [Next](ppr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr01)  [Next](ppr03.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ BIBLIOGRAPHY
 
 ------------------------------------------------------------------------
 
-[Next: On the Writing of a Prayer of Praise (Mexican)](ppr03)
+[Next: On the Writing of a Prayer of Praise (Mexican)](ppr03.md)

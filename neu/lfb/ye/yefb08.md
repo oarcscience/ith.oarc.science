@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb07)  [Next](yefb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb07)  [Next](yefb09.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_32">p. 32</span>
 
-THE IRON STOVE <span id="fr_6"></span>[1](#fn_6)
+THE IRON STOVE <span id="fr_6"></span>[1](#fn_6.md)
 
 Once upon a time when wishes came true there was a king's son who was
 enchanted by an old witch, so that he was obliged to sit in a large iron
@@ -227,12 +227,12 @@ My story's done.
 
 ### Footnotes
 
-<span id="fn_6"></span>[32:1](yefb08.htm#fr_6) Grimm.
+<span id="fn_6"></span>[32:1](yefb08.htm#fr_6.md) Grimm.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Dragon and his Grandmother](yefb09)
+[Next: The Dragon and his Grandmother](yefb09.md)
 
 </div>

@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](swld00)  [Next](swld02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](swld00)  [Next](swld02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T2IE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T2IE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selections from the Writings of Lord Dunsany*, by Lord Dunsany,
 \[1912\], at Intangible Textual Heritage
 
@@ -22,27 +22,27 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T2IE/internetsacredte)
 
 CONTENTS
 
-[Introduction](swld02.htm#an_f00)
+[Introduction](swld02.htm#an_f00.md)
 
-[The Gods of the Mountain](swld03.htm#an_f01)
+[The Gods of the Mountain](swld03.htm#an_f01.md)
 
 [The First Act of King Argimenes and the Unknown
-Warrior](swld06.htm#an_f02)
+Warrior](swld06.htm#an_f02.md)
 
-[The Fall of Babbulkund](swld07.htm#an_f03)
+[The Fall of Babbulkund](swld07.htm#an_f03.md)
 
-[The Sphinx at Gizeh](swld08.htm#an_f04)
+[The Sphinx at Gizeh](swld08.htm#an_f04.md)
 
-[Idle Days on the Yann](swld09.htm#an_f05)
+[Idle Days on the Yann](swld09.htm#an_f05.md)
 
-[A Miracle](swld10.htm#an_f06)
+[A Miracle](swld10.htm#an_f06.md)
 
-[The Castle of Time](swld11.htm#an_f07)
+[The Castle of Time](swld11.htm#an_f07.md)
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](swld02)
+[Next: Introduction](swld02.md)
 
 </div>

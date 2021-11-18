@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo15)  [Next](beo17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo15)  [Next](beo17.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ Estmere, and in the romances.
 
 ------------------------------------------------------------------------
 
-[Next: Part XVI](beo17)
+[Next: Part XVI](beo17.md)

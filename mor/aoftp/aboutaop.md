@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Angel of the Prairies](aoftp) 
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Angel of the Prairies](aoftp.md) 
 
 ------------------------------------------------------------------------
 
 Being curious on the authenticity and subject of the *Angel of the
 Prairies* document I contacted the Scholarly & Historical Information
 Exchange for Latter-Day Saints or SHEILDS at their website
-[https://www.shields-research.org/index.htm](https://www.shields-research.org/index)
+[https://www.shields-research.org/index.htm](https://www.shields-research.org/index.md)
 .
 
 SHEILDS is run by individuals with experience in some of the rarer
@@ -36,7 +36,7 @@ Hollin Parrott wrote:
 First of all I enjoy you site very much. I'm LDS and stumbled upon the
 following while surfing the net:
 
-[https://ith.oarc.science/mor/aoftp/aoftp.htm](https://ith.oarc.science/mor/aoftp/aoftp)
+[https://ith.oarc.science/mor/aoftp/aoftp.htm](https://ith.oarc.science/mor/aoftp/aoftp.md)
 
 I was wondering if this was actually written by Parley P. Pratt and if
 so how is it received as a document by the church. I mean the preface

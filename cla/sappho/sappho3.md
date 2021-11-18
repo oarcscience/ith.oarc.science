@@ -1,7 +1,7 @@
-[Sacred-Texts](../../index)  [Classical Paganism](../index) 
-[Index](index)  [Index of First Lines](first)  [Greek
-Transliteration](saphxlit)  
-[Previous](sappho2) 
+[Sacred-Texts](../../index)  [Classical Paganism](../index.md) 
+[Index](index)  [Index of First Lines](first.md)  [Greek
+Transliteration](saphxlit.md)  
+[Previous](sappho2.md) 
 
 ------------------------------------------------------------------------
 

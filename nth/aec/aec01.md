@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec00)  [Next](aec02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec00)  [Next](aec02.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ Such is the salutation of the dawn!</p>
 
 ------------------------------------------------------------------------
 
-[Next: Preface](aec02)
+[Next: Preface](aec02.md)

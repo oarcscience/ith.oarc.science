@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp72) 
-[Next](alp74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp72.md) 
+[Next](alp74.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ And clustering lilies spring up in his path.
 
 ------------------------------------------------------------------------
 
-[Next: The Castle of Anoush](alp74)
+[Next: The Castle of Anoush](alp74.md)

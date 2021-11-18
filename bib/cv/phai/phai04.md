@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai03) 
-[Next](phai05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai03.md) 
+[Next](phai05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -144,7 +144,7 @@ iii. 2: "The people sacrificed upon the high places, for as yet no house
 to the name of Jehovah had been built." Not until the house had been
 built to the name of Jehovah—such is the idea—did the law come into
 force which forbade having other places of worship besides. <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 From the building of the temple of Solomon,
 
@@ -252,7 +252,7 @@ house, His ground and territory. Not outside of Jerusalem, but outside
 of Canaan had one to sojourn far from His presence, under the dominion
 and (cujus regio ejus religio) in the service of strange gods. The
 sanctity of the land did not depend on that of the temple; the reverse
-was the case. <span id="fr_7"></span>[1](#fn_7)
+was the case. <span id="fr_7"></span>[1](#fn_7.md)
 
 <span id="page_23">p. 23</span>
 
@@ -316,7 +316,7 @@ had yielded in importance to the temple. From the few narratives we have
 relating to Judah one almost gathers an impression as if it had no other
 concern besides those of the temple; the kings in particular appear to
 have regarded the charge of their palace sanctuary as the chief of all
-their cares. <span id="fr_8"></span>[1](#fn_8) In this way the increased
+their cares. <span id="fr_8"></span>[1](#fn_8.md) In this way the increased
 importance of Judah after the fall of Samaria accrued in the first
 instance to the benefit of the capital and its sanctuary, especially as
 what Judah gained by the fall of her rival was not so much political
@@ -403,7 +403,7 @@ law was promulgated and sworn to. Now an intimate fellowship between
 these two leading classes appears to be characteristic of the whole
 course of the religious movement in Judah, and to have been necessarily
 connected with the lines on which that movement advanced; <span
-id="fr_9"></span>[1](#fn_9) we shall be justified therefore in assuming
+id="fr_9"></span>[1](#fn_9.md) we shall be justified therefore in assuming
 that the display of harmony between them on this occasion was not got up
 merely for the purposes of scenic effect, but that the change in the
 national cultus now proposed was really the common suggestion of
@@ -434,7 +434,7 @@ example, to Deuteronomy, may have helped to discredit them, while, on
 the other hand, the founding of Jerusalem belonged to the proudest
 memories of Israelite history, and the Ark, which had been the origin of
 the temple there, had a certain right to be considered the one genuine
-Mosaic sanctuary. <span id="fr_10"></span>[1](#fn_10)
+Mosaic sanctuary. <span id="fr_10"></span>[1](#fn_10.md)
 
 In the eighteenth year of Josiah, 601 B.C., the first heavy blow fell
 upon the local sacrificial places. How vigorously the king set to work,
@@ -514,13 +514,13 @@ polluted it. And thou shalt not go up to mine altar by steps, that thy
 nakedness be not discovered before it." Unquestionably it is not the
 altar of the tabernacle, which was made of wood and plated over with
 brass, nor that of Solomon's temple, which on its eastern side had a
-flight of steps, <span id="fr_11"></span>[1](#fn_11) and had a passage
+flight of steps, <span id="fr_11"></span>[1](#fn_11.md) and had a passage
 right round it at half its height, that is here described as the only
 true one. On the other hand, it is obvious that a multiplicity of altars
 is not merely regarded as permissible, but assumed as a matter of
 course. For no stress at all is laid upon having always the same
 sacrificial seat, whether fixed or to be moved about from place to
-place; earth and unhewn stones <span id="fr_12"></span>[2](#fn_12) of
+place; earth and unhewn stones <span id="fr_12"></span>[2](#fn_12.md) of
 the field can be found everywhere, and such an altar falls to pieces
 just as readily as it is built. A choice of two kinds of material is
 also given, which surely implies that the lawgiver thought of more than
@@ -572,7 +572,7 @@ determined by means of a tree or a well, as that of
 <span id="page_31">p. 31</span>
 
 <span class="contnote">\[paragraph continues\]</span> Shechem or
-Beersheba. <span id="fr_13"></span>[1](#fn_13) But of course it was not
+Beersheba. <span id="fr_13"></span>[1](#fn_13.md) But of course it was not
 intended to throw dishonour upon the cultus of the present when its
 institution was ascribed to the fathers of the nation. Rather, on the
 contrary, do these legends glorify the origin of the sanctuaries to
@@ -619,7 +619,7 @@ centuries of the divided kingdom. All that seems offensive and
 heathenish to a later age is here consecrated and countenanced by
 Jehovah Himself and His favoured ones,—the high places, the memorial
 stones (maççeboth), the trees, the wells. <span
-id="fr_14"></span>[1](#fn_14) An essential agreement prevails between
+id="fr_14"></span>[1](#fn_14.md) An essential agreement prevails between
 the Jehovistic law which sanctions the existing seats of worship and the
 Jehovistic narrative; the latter is as regards its nucleus perhaps
 somewhat older. Both obviously belong to the pre-prophetic period; a
@@ -708,7 +708,7 @@ reformation which was brought to a victorious issue by King Josiah.
 to the question of the one sanctuary, neither permitting multiplicity of
 sacrificial centres nor laying stress upon the unity, and that on
 account of this attitude it must be assigned to an earlier date than
-Deuteronomy. <span id="fr_15"></span>[1](#fn_15) Such an idea is, to say
+Deuteronomy. <span id="fr_15"></span>[1](#fn_15.md) Such an idea is, to say
 the least, in the highest degree superficial. The assumption that
 worship is restricted to one single centre runs everywhere throughout
 the entire document. To appeal specially, in proof of the restriction,
@@ -752,7 +752,7 @@ than Deuteronomy does. But is it older or younger than Deuteronomy? In
 that book the unity of the cultus is *commanded;* in the Priestly Code
 it is *presupposed*. Everywhere it is tacitly assumed as a fundamental
 postulate, but nowhere does it find actual expression; <span
-id="fr_16"></span>[1](#fn_16) it is nothing new, but quite a thing of
+id="fr_16"></span>[1](#fn_16.md) it is nothing new, but quite a thing of
 course. What follows from this for the question before us? To my
 thinking, this:—that the Priestly Code rests upon the result which is
 only the aim of Deuteronomy. The latter is in the midst of movement and
@@ -813,7 +813,7 @@ settlement, that it is made portable, and in the form of a tabernacle
 set up in the very beginning of things. For the truth is, that the
 tabernacle is the copy, not the prototype, of the temple at Jerusalem.
 The resemblance of the two is indeed unmistakable, <span
-id="fr_17"></span>[1](#fn_17) but it is not said in 1 Kings vi. that
+id="fr_17"></span>[1](#fn_17.md) but it is not said in 1 Kings vi. that
 Solomon made use of the old pattern and ordered his Tyrian workmen to
 follow it. The posteriority of the Mosaic structure comes into clearer
 light from the two following considerations brought forward by Graf (p.
@@ -910,7 +910,7 @@ Code; for some kind of tent for the ark there may well have been: in
 fact, tents were in Palestine the earliest dwellings of idols (Hos. ix.
 6), and only afterwards gave place to fixed houses; and even the
 Jehovistic tradition (although not J) knows of a sacred tent <span
-id="fr_18"></span>[1](#fn_18) in connection with the Mosaic camp, and
+id="fr_18"></span>[1](#fn_18.md) in connection with the Mosaic camp, and
 outside it, just as the older high places generally had open sites
 without the city. The question before us has reference exclusively to
 the particular tent which, according to Exodus xxv. seq., was erected at
@@ -955,7 +955,7 @@ the cultus, notwithstanding the variety and great distances of the
 places at which that cultus was celebrated. In every case in which a
 manifestation of Jehovah and an offering to Him are spoken of, the
 tabernacle must be tacitly understood. <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 The dogmatic character of this way of making history, and the absurd
 consequences to which it leads, need not in the meantime be insisted on;
@@ -988,7 +988,7 @@ author. He would certainly have experienced some embarrassment at the
 question whether it had previously stood at Nob, for he lays stress upon
 the connection between the legitimate sanctuary and the legitimate
 Zadok-Eleazar priestly family, which it is indeed possible to assume for
-Shiloh, but not for Nob. <span id="fr_20"></span>[1](#fn_20)
+Shiloh, but not for Nob. <span id="fr_20"></span>[1](#fn_20.md)
 
 The fact that Chronicles represents the Israelite history in accordance
 with the Priestly Code has had the effect of causing its view of the
@@ -999,7 +999,7 @@ Judges and Samuel make mention indeed of many sanctuaries, but never
 among them of the tabernacle, the most important of all. For the single
 passage where the name Ohel Moed occurs (1 Sam. ii. 22 is badly
 attested, and from its contents open to suspicion. <span
-id="fr_21"></span>[2](#fn_21) Of the existence of the ark of Jehovah
+id="fr_21"></span>[2](#fn_21.md) Of the existence of the ark of Jehovah
 there certainly are distinct traces towards the end of the period of the
 judges (compare 1 Samuel iv.-vi.) But is the ark a guarantee of the
 existence of the tabernacle? On the contrary its whole history down to
@@ -1027,7 +1027,7 @@ assumed that the housing of the ark was left behind at Shiloh. Very
 likely; but that was not the Mosaic tabernacle, the inseparable
 companion of the ark. In fact, the narrator speaks of a permanent house
 at Shiloh with doors and doorposts; that possibly may be an
-anachronism <span id="fr_22"></span>[1](#fn_22) (yet why?); but so much
+anachronism <span id="fr_22"></span>[1](#fn_22) (yet why?.md); but so much
 at least may be inferred from it that he had not any idea of the
 tabernacle, which, however, would have had to go with the ark to the
 field. If on this one occasion only an illegal exception to the Law was
@@ -1053,7 +1053,7 @@ was standing empty at Gibeon, in the immediate neighbourhood, he would
 have been relieved of all difficulty. But inasmuch as the ark brings
 blessing to the house of Obed-Edom,—the ark, be it remembered, in the
 house of a soldier and a Philistine, yet bringing down, not wrath, but
-blessing <span id="fr_23"></span>[1](#fn_23),—the king is thereby
+blessing <span id="fr_23"></span>[1](#fn_23.md),—the king is thereby
 encouraged to persevere after all with his original proposal, and
 establish it upon his citadel. And this he does in a tent he had caused
 to be made for it (2 Sam. vi. 17), which tent of David in Zion continued
@@ -1105,7 +1105,7 @@ go to ruin at Gibeon, which, from another point of view, would also have
 been extremely dangerous to the unity of the sacrificial worship.
 Further, if the sacred vessels were transferred from the tabernacle to
 the temple, why then was it that Solomon, according to 1 Kings vii.,
-cast a completely new set? <span id="fr_24"></span>[1](#fn_24) The old
+cast a completely new set? <span id="fr_24"></span>[1](#fn_24.md) The old
 ones were costly enough, in part even costlier than the new, and,
 moreover, had been consecrated by long use. It is clear that in
 Solomon's time neither tabernacle, nor holy vessels, nor brazen altar of
@@ -1212,7 +1212,7 @@ alleged fact
 <span id="page_47">p. 47</span>
 
 at present under discussion amounts to anything at all <span
-id="fr_25"></span>[1](#fn_25), Hezekiah only made a feeble and wholly
+id="fr_25"></span>[1](#fn_25.md), Hezekiah only made a feeble and wholly
 ineffectual attempt in this direction, and by no means "carried out the
 unification in Judah with tolerable thoroughness." At the same time, one
 might concede even this last point, and yet not give any ground for the
@@ -1303,7 +1303,7 @@ is unreasonably indifferent. He seems to be of the opinion that the
 post-exilian time would not have ventured to take in hand so
 thoroughgoing an alteration, or rather reconstruction, of tradition as
 is implied in antedating the temple of Solomon by means of the
-tabernacle. <span id="fr_26"></span>[1](#fn_26) But it is, on the
+tabernacle. <span id="fr_26"></span>[1](#fn_26.md) But it is, on the
 contrary, precisely the mark which distinguished the post-exile writers
 that they treat in the freest possible manner, in accordance with their
 own ideas, the institutions of the bygone past, with which their time
@@ -1312,7 +1312,7 @@ Chronicles stand in the canon at all, if not in order to teach us this?
 
 But when Nöldeke excuses the ignorance with regard to the tabernacle on
 the plea that it is a mere creature of the brain, <span
-id="fr_27"></span>[2](#fn_27) he for the
+id="fr_27"></span>[2](#fn_27.md) he for the
 
 <span id="page_50">p. 50</span>
 
@@ -1358,7 +1358,7 @@ to
 
 <span id="page_51">p. 51</span>
 
-devils. <span id="fr_28"></span>[1](#fn_28) I refuse to believe that any
+devils. <span id="fr_28"></span>[1](#fn_28.md) I refuse to believe that any
 such thing could have been possible for one who lived before the
 Deuteronomic reformation, or even under the old conditions that were in
 existence immediately before the exile.
@@ -1375,7 +1375,7 @@ indeed, but it is regarded as a thing of course. This alone can account
 for the fact that the thank-offering is treated so entirely as a
 subordinate affair and the sacrificial meal almost ignored, while in
 Lev. vii. 22-27 rules are even given for procedure in the slaughter of
-such animals as are not sacrificed. <span id="fr_29"></span>[2](#fn_29)
+such animals as are not sacrificed. <span id="fr_29"></span>[2](#fn_29.md)
 Here accordingly is another instance of what we have already so often
 observed: what is brought forward in Deuteronomy as an innovation is
 assumed in the Priestly Code to be an ancient custom dating as far back
@@ -1386,7 +1386,7 @@ has been prepared by means of the former.
 
 ### Footnotes
 
-<span id="fn_6"></span>[19:1](phai04.htm#fr_6) Compare 1 Kings viii. 16.
+<span id="fn_6"></span>[19:1](phai04.htm#fr_6.md) Compare 1 Kings viii. 16.
 According to Deut. xii. 10 seq., the local unity of <span
 id="page_20">p. 20</span> worship becomes law from the time when the
 Israelites have found rest (menuḥa). Comparing 2 Sam. vii. 11 and 1
@@ -1394,7 +1394,7 @@ Kings v. 18 (A.V., v. 4), we find that "menuḥa" first came in with David
 and Solomon. The period of the judges must at that time have been
 regarded as much shorter than appears in the present chronology.
 
-<span id="fn_7"></span>[22:1](phai04.htm#fr_7) Gen. iv. 14, 16: when
+<span id="fn_7"></span>[22:1](phai04.htm#fr_7.md) Gen. iv. 14, 16: when
 Cain is driven out of the land (Canaan), he is driven from the presence
 of Jehovah (Jonah i. 3, 10). Gen. xlvi. 4: Jacob is not to hesitate
 about going down into Egypt, for Jehovah will, by a special act of
@@ -1423,11 +1423,11 @@ and in the day of the feast of Jehovah? "Compare Jer. xvi. 13; Ezek. iv.
 than as that of Chemosh, in whose land the army of Israel is at the
 time.
 
-<span id="fn_8"></span>[24:1](phai04.htm#fr_8) Nearly all the Judæan
+<span id="fn_8"></span>[24:1](phai04.htm#fr_8.md) Nearly all the Judæan
 narratives in the Books of Kings relate to the temple and the measures
 taken by the ruling princes with reference to this their sanctuary.
 
-<span id="fn_9"></span>[26:1](phai04.htm#fr_9) While Hosea, the man of
+<span id="fn_9"></span>[26:1](phai04.htm#fr_9.md) While Hosea, the man of
 northern Israel, frequently assails the clergy of his home, and lays
 upon them the chief share of the blame for the depraved and blinded
 condition of the people, Isaiah even in his fiercest declamation against
@@ -1439,7 +1439,7 @@ connection between priests and prophets can be gathered most
 particularly. To a certain extent they shared the possession of the
 sanctuary between them. (Compare Lam. ii. 20.)
 
-<span id="fn_10"></span>[27:1](phai04.htm#fr_10) Luther in his address
+<span id="fn_10"></span>[27:1](phai04.htm#fr_10.md) Luther in his address
 to the princes of Germany counsels in the twentieth place that the field
 chapels and churches be destroyed, as devices of the devil used by him
 to strengthen covetousness, to set up a false and spurious faith, to
@@ -1447,13 +1447,13 @@ weaken parochial churches, to increase taverns and fornication, to
 squander money and labour to no purpose, and merely to lead the poor
 people about by the nose. (Niemeyer's Reprint, p. 54.)
 
-<span id="fn_11"></span>[29:1](phai04.htm#fr_11) The altar of the second
+<span id="fn_11"></span>[29:1](phai04.htm#fr_11.md) The altar of the second
 temple had no steps, but a sloping ascent to it, as also, according to
 the belief of the Jews, had that of the tabernacle. The reason,
 moreover, for which in Exodus xx. 26 steps are forbidden, disappears
 when the priests are provided with breeches (Exod. xxviii. 42).
 
-<span id="fn_12"></span>[29:2](phai04.htm#fr_12) The plural "stones" is
+<span id="fn_12"></span>[29:2](phai04.htm#fr_12.md) The plural "stones" is
 perhaps worthy of note. There were also sacrificial places consisting of
 *one* great stone (1 Sam. xiv. 33, vi. 14, 15; 2 Sam. xx. 8; Judges vi.
 20, xiii. 19, 20; 1 Kings i. 9); to the same category also doubtless
@@ -1468,7 +1468,7 @@ distinguished from the altar in Exod. xxiv. 4, yet elsewhere clearly put
 on the same plane with it (Gen. xxxiii. 20), and everywhere more or less
 identified with the Deity (Gen. xxviii.).
 
-<span id="fn_13"></span>[31:1](phai04.htm#fr_13) The correct explanation
+<span id="fn_13"></span>[31:1](phai04.htm#fr_13.md) The correct explanation
 of this is found in Ewald, *Gesch. d. V. Israels*, i. 436 seq. (3d
 edit.). A. Bernstein (*Ursprung der Sagen von Abraham*, etc., Berlin,
 1871) drags in politics in a repulsive way. "He does not indeed actually
@@ -1480,7 +1480,7 @@ afterwards stood, and that was not inside the towns. In Gen. xviii. also
 the oak of Mamre is employed to fix not Abraham's residence, but the
 place of Jehovah's appearing.
 
-<span id="fn_14"></span>[32:1](phai04.htm#fr_14) But it is only the
+<span id="fn_14"></span>[32:1](phai04.htm#fr_14.md) But it is only the
 public cultus and that of certain leading sanctuaries that is thus
 glorified; on the other hand, the domestic worship of seraphim, to which
 the women are specially attached, is already discountenanced (in E) by
@@ -1488,7 +1488,7 @@ Jacob. Asherim are not alluded to, molten images are rejected,
 particularly by E. Here perhaps a correction of the ancient legend has
 already taken place in JE.
 
-<span id="fn_15"></span>[34:1](phai04.htm#fr_15) De Wette, in the fifth
+<span id="fn_15"></span>[34:1](phai04.htm#fr_15.md) De Wette, in the fifth
 place of his *Habilitationsschrift über das Deuteronomium* (Jena, 1805):
 "De hoc unico cultus sacri loco. . . priores libri nihil omnino habent.
 De sacrificiis tantum unice ante tabernaculum conventus offerendis lex
@@ -1496,37 +1496,37 @@ quædam extat. Sed in legibus de diebus festis, de primitiis et decimis,
 tam sæpe repetitis, nihil omnino monitum est de loco unico, ubi
 celebrari et offerri debeant" (*Opusc. Theol.*, p. 163-165).
 
-<span id="fn_16"></span>[35:1](phai04.htm#fr_16) Except in Lev. xvii.;
+<span id="fn_16"></span>[35:1](phai04.htm#fr_16.md) Except in Lev. xvii.;
 but the small body of legislation contained in Lev. xvii-xxvi is the
 transition from Deuteronomy to the Priestly Code.
 
-<span id="fn_17"></span>[37:1](phai04.htm#fr_17) In Wisdom of Solomon
+<span id="fn_17"></span>[37:1](phai04.htm#fr_17.md) In Wisdom of Solomon
 ix. 8 the temple is called μίμημα σκηνῆς ἁγίας. Josephus (*Ant.* iii. 6,
 1) says of the tabernacle, ἢ δ᾽ οὐδὲν μεταφερομένου καὶ
 συμπερινοστοῦντος ναοῦ διέφερε.
 
-<span id="fn_18"></span>[39:1](phai04.htm#fr_18) It is never, however,
+<span id="fn_18"></span>[39:1](phai04.htm#fr_18.md) It is never, however,
 employed for legislative purposes, but is simply a shelter for the ark;
 it stands without the camp, as the oldest sanctuaries were wont to do
 outside the cities. It is kept by Joshua as *ædituus*, who sleeps in it,
 as did Samuel the *ædituus* for Eli.
 
-<span id="fn_19"></span>[40:1](phai04.htm#fr_19) Josh. xxiv. 24, 33
+<span id="fn_19"></span>[40:1](phai04.htm#fr_19.md) Josh. xxiv. 24, 33
 (LXX): after the death of Joshua and Eleazar, λαβόντες οἱ υἱοὶ Ἰσραηλ
 τὴν κιβωτὸν τοῦ θεοῦ περιεφέροσαν ἐν ἐαυτοῖς. After J. Buxtorf and Sal.
 van Til (Ugol., *Thes*. viii.), this theory has been, worked out
 specially by Movers. See, on the other hand, De Wette, *Beiträge*, p.
 108 seq., and Vatke, *ut supra*, p. 316, note.
 
-<span id="fn_20"></span>[41:1](phai04.htm#fr_20) Of the priests at Nob,
+<span id="fn_20"></span>[41:1](phai04.htm#fr_20.md) Of the priests at Nob,
 Abiathar alone escaped the massacre (1 Sam. xxii.); Gad therefore was
 not one of them.
 
-<span id="fn_21"></span>[41:2](phai04.htm#fr_21) The passage does not
+<span id="fn_21"></span>[41:2](phai04.htm#fr_21.md) The passage does not
 occur in the LXX, and everywhere else in 1 Sam. i-iii the sanctuary of
 Shiloh is called hēkal, that is to say, certainly not a tent.
 
-<span id="fn_22"></span>[42:1](phai04.htm#fr_22) Compare similar
+<span id="fn_22"></span>[42:1](phai04.htm#fr_22.md) Compare similar
 passages in Josh. vi. 19, 24, ix. 27, where the very anachronism shows
 that the idea of the tabernacle was unknown to the narrator. That,
 moreover. a permanent house did actually exist then at Shiloh follows
@@ -1536,13 +1536,13 @@ preceding that of Jerusalem; and besides, there is not the faintest
 trace of a more important temple having arisen at Shiloh within the
 period of the kings.
 
-<span id="fn_23"></span>[43:1](phai04.htm#fr_23) The Chronicle has good
+<span id="fn_23"></span>[43:1](phai04.htm#fr_23.md) The Chronicle has good
 reason for making him a Levite. But Gath without any qualifying epithet,
 and particularly in connection with David, is the Philistine Gath, and
 Obed-Edom belongs to the bodyguard, which consisted chiefly of
 foreigners and Philistines. His name, moreover, is hardly Israelite.
 
-<span id="fn_24"></span>[44:1](phai04.htm#fr_24) The brazen altar cast
+<span id="fn_24"></span>[44:1](phai04.htm#fr_24.md) The brazen altar cast
 by Solomon (1 Kings viii. 64; 2 Kings xvi. 14, 15) is not now found in
 the inventory of the temple furniture in 1 Kings vii.; but originally it
 cannot have been absent, for it is the most important article. It has
@@ -1550,7 +1550,7 @@ therefore been struck out in order to avoid collision with the brazen
 altar of Moses. The deletion is the negative counterpart to the
 interpolation of the tabernacle in 1 Kings viii. 4.
 
-<span id="fn_25"></span>[47:1](phai04.htm#fr_25) Little importance is to
+<span id="fn_25"></span>[47:1](phai04.htm#fr_25.md) Little importance is to
 be attached to 2 Kings xviii. 22. The narrative of the Assyrian siege of
 Jerusalem is not a contemporary one, as appears generally from the
 entirely indefinite character of the statements about the sudden
@@ -1580,27 +1580,27 @@ against Maççeboth and Asherim; the movement originated with the
 prophets, and the chief, or rather the only, weight is to be attached to
 their authentic testimony.
 
-<span id="fn_26"></span>[49:1](phai04.htm#fr_26) *Jahrb. für prot.
+<span id="fn_26"></span>[49:1](phai04.htm#fr_26.md) *Jahrb. für prot.
 Theol.*, i. p. 352: "And now let me ask whether a document of this kind
 presenting, as it does, a picture of the history, land distribution, and
 sacrificial rites of Israel, as a whole, which in so many particulars
 departs from the actual truth, can belong to a time in which Israel
 clung to what was traditional with such timid anxiety?"
 
-<span id="fn_27"></span>[49:2](phai04.htm#fr_27) *Unters*., p. 130: "It
+<span id="fn_27"></span>[49:2](phai04.htm#fr_27.md) *Unters*., p. 130: "It
 must always be remembered that the author in his statements, <span
 id="page_50">p. 50</span> as in his laws, does not depict actual
 relations, but in the first instance his own theories and ideals. Hence
 the glorification of the tabernacle," &c. &c.
 
-<span id="fn_28"></span>[51:1](phai04.htm#fr_28) With reference to these
+<span id="fn_28"></span>[51:1](phai04.htm#fr_28.md) With reference to these
 rural demons, compare my note in *Vakidi's Maghazi* (Berlin, 1882), p.
 113. It is somewhat similar, though not quite the same thing, when the
 Moslems say that the old Arabs dedicated their worship to the Jinns; and
 other instances may be compared in which divinities have been degraded
 to demons.
 
-<span id="fn_29"></span>[51:2](phai04.htm#fr_29) That Lev. vii. 22-27 is
+<span id="fn_29"></span>[51:2](phai04.htm#fr_29.md) That Lev. vii. 22-27 is
 not a repetition of the old and fuller regulations about the
 thank-offering, but an appendix containing new ones relating to
 slaughtering, is clear from "the beast of which men offer an offering
@@ -1609,4 +1609,4 @@ as from the praxis of Judaism.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Sacrifice.](phai05)
+[Next: Chapter II. Sacrifice.](phai05.md)

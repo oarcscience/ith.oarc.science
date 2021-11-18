@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia11)  [Next](aia13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia11)  [Next](aia13.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,14 +46,14 @@ loose people; a mere lazy companion, nothing careful of the things of
 this life, or any thing religious.
 
 *Corporature*.--A man of fair but not tall stature, his complexion being
-white, tending to a little darkness <span id="fr_30"></span>[1](#fn_30)
+white, tending to a little darkness <span id="fr_30"></span>[1](#fn_30.md)
 which makes him more lovely, very fair, lovely eyes, and sometimes
 black; a round face and not large, fair hair, smooth and plenty of it,
 and it is usually of a light brown colour; a lovely mouth and cherry
 lips, the face pretty fleshy, a rolling wandering eye, a body very
 delightful, lovely, and exceedingly well shaped; one desirous of
 trimming and making himself neat and complete both in clothes and body,
-a love dimple in his cheeks, <span id="fr_31"></span>[2](#fn_31) a
+a love dimple in his cheeks, <span id="fr_31"></span>[2](#fn_31.md) a
 stedfast eye, and full of amorous enticements.
 
 *Oriental*.--When oriental, the body inclines to tallness or a kind of
@@ -88,24 +88,24 @@ hernias, &c., the diabetes, or an involuntary discharge of urine.
 least 8. In man she governs youth from 14 to 28.
 
 *Countries*.--Arabia, Austria, Campania, Vienna, Polonia the Greater,
-Turin, Parthia, Media, Cyprus. <span id="fr_32"></span>[1](#fn_32)
+Turin, Parthia, Media, Cyprus. <span id="fr_32"></span>[1](#fn_32.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_30"></span>[46:1](aia12.htm#fr_30) This signifies a pale or
+<span id="fn_30"></span>[46:1](aia12.htm#fr_30.md) This signifies a pale or
 wan complexion, yet with a dark hue.
 
-<span id="fn_31"></span>[46:2](aia12.htm#fr_31) Those who have Venus
+<span id="fn_31"></span>[46:2](aia12.htm#fr_31.md) Those who have Venus
 strong, either in their nativities, or as their significators in
 questions, invariably have dimples either in the cheek or chin.
 
-<span id="fn_32"></span>[47:1](aia12.htm#fr_32) These observations are
+<span id="fn_32"></span>[47:1](aia12.htm#fr_32.md) These observations are
 retained from respect to our author; but we must repeat, that it is ♉
 and ♎ the houses of ♀, which govern these.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter X. Of Mercury, and his Signification, Nature, and
-Property](aia13)
+Property](aia13.md)

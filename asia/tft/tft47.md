@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft46)  [Next](tft48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft46)  [Next](tft48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -159,7 +159,7 @@ each
 had done. He knew not how to answer, but told them this story,
 
 "One time a lot of men owned a fine chorten, <span
-id="fr_2"></span>[1](#fn_2) and as they couldn't decide to whom it
+id="fr_2"></span>[1](#fn_2.md) and as they couldn't decide to whom it
 belonged they cut it into pieces and divided it." So these six men drew
 their knives and slew the girl.
 
@@ -167,10 +167,10 @@ their knives and slew the girl.
 
 ### Footnotes
 
-<span id="fn_2"></span>[177:1](tft47.htm#fr_2) A chorten is a stupa, or
+<span id="fn_2"></span>[177:1](tft47.htm#fr_2.md) A chorten is a stupa, or
 pagoda, sometimes of gold, more often made of clay, of religious
 significance.
 
 ------------------------------------------------------------------------
 
-[Next: Forty-Five: The Frugal Woman](tft48)
+[Next: Forty-Five: The Frugal Woman](tft48.md)

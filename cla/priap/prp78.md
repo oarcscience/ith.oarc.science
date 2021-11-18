@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp77)  [Next](prp79) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp77)  [Next](prp79.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ Priapus.
 
 ------------------------------------------------------------------------
 
-[Next: 79. The Gods and Goddesses deny thy teeth](prp79)
+[Next: 79. The Gods and Goddesses deny thy teeth](prp79.md)

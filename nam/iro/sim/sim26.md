@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim25)  [Next](sim27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim25)  [Next](sim27.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ One of the men was stubborn, he always wanted his own way. He wouldn't
 follow the old man's advice. But he went farther than he intended.
 
 When night came all the party returned to camp except the
-[stubborn](errata.htm#3) man and as they gathered around the fire they
+[stubborn](errata.htm#3.md) man and as they gathered around the fire they
 talked of him and said he must have gone far into the forest.
 
 The man traveled all day. When night overtook him he built a fire. After
@@ -174,4 +174,4 @@ had a supply of all things good to eat.
 
 ------------------------------------------------------------------------
 
-[Next: The Ganyo Gowa](sim27)
+[Next: The Ganyo Gowa](sim27.md)

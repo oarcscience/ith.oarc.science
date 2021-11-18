@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt57)  [Next](egt59) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt57)  [Next](egt59.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ it means war.
 
 ------------------------------------------------------------------------
 
-[Next: ON DREAMS OF LIGHTS AND STARS.](egt59)
+[Next: ON DREAMS OF LIGHTS AND STARS.](egt59.md)

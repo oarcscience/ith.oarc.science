@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc03)  [Next](crc05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc03)  [Next](crc05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ in Mag Murthemne. The stories of the boys in Emain were related to him;
 for there are three fifties of boys there,' said Fergus, 'at play. It is
 thus that Conchobar enjoys his sovereignty: a third of the day watching
 the boys; another third playing chess; <span
-id="fr_24"></span>[1](#fn_24) another third drinking beer till sleep
+id="fr_24"></span>[1](#fn_24.md) another third drinking beer till sleep
 seizes him therefrom. Although we are in exile, there is not in Ireland
 a warrior who is more wonderful,' said Fergus.
 
@@ -72,7 +72,7 @@ was not wider than the eye of a needle. He opened
 
 the other so that it was as large as the mouth of a meadcup. He laid
 bare from his jawbone to his ear; he opened his mouth to his jaw <span
-id="fr_25"></span>[1](#fn_25) so that his gullet was visible. The hero's
+id="fr_25"></span>[1](#fn_25.md) so that his gullet was visible. The hero's
 light rose from his head. Then he strikes at the boys. He overthrows
 fifty of them before they reached the door of Emain. Nine of them came
 over me and Conchobar as we were playing chess. Then he springs over the
@@ -96,7 +96,7 @@ against them then."
 
 '"I recognise it," said Conchobar.
 
-'Then he turned aside on <span id="fr_26"></span>[2](#fn_26) the boys
+'Then he turned aside on <span id="fr_26"></span>[2](#fn_26.md) the boys
 throughout the house.
 
 '"What ails you at them now?" said Conchobar.
@@ -224,7 +224,7 @@ Macha.
 us,' said Fergus, 'weakness on women and boys, nor on any one who was
 outside the country of the Ulstermen, nor on Cuchulainn and his father.
 And so no one dared to shed their blood; for the suffering springs on
-him who wounds them. <span id="fr_27"></span>[1](#fn_27)
+him who wounds them. <span id="fr_27"></span>[1](#fn_27.md)
 
 'Three times nine men came to us from the Isles of Faiche. They went
 over our back court when we were in our weakness. The women screamed in
@@ -282,7 +282,7 @@ expect any one to follow you?" said he.
 foster-son who was following him.
 
 '"I have a watch-dog," said Culann; "there are three chains on him, and
-three men to each chain. <span id="fr_28"></span>[1](#fn_28) Let him be
+three men to each chain. <span id="fr_28"></span>[1](#fn_28.md) Let him be
 let slip because of our cattle and stock, and let the court be shut."
 
 'Then the boy comes. The dog attacks him. He went on with his play
@@ -387,7 +387,7 @@ shall be over Ireland for ever."
 'Then Cuchulainn heard this; he comes to Conchobar and said to him: "O
 friend Conchobar," said he, "give me a chariot." He gave him a chariot.
 He put his hand between the two poles <span
-id="fr_29"></span>[1](#fn_29) of the chariot, so that the chariot broke.
+id="fr_29"></span>[1](#fn_29.md) of the chariot, so that the chariot broke.
 He broke twelve chariots in this way. Then Conchobar's chariot was given
 to him. This withstood him. He goes then in the chariot, and Conchobar's
 charioteer with him. The charioteer (Ibor was his name) turned the
@@ -467,7 +467,7 @@ the white cairn yonder on the top of the mountain?"
 chief fort between Temair and Cenandas. He tells him first their meadows
 and their fords, their famous places and their dwellings, their
 fortresses and their high hills. He shows <span
-id="fr_30"></span>[1](#fn_30) him then the fort of the three sons of
+id="fr_30"></span>[1](#fn_30.md) him then the fort of the three sons of
 Nechta Scene; Foill, Fandall, and Tuachell were their names.
 
 '"Is it they who say," said Cuchulainn, "that there are not more of the
@@ -534,7 +534,7 @@ reach him from my hand. It will be an outlaw's hand to him."
 his accoutrements and his head.
 
 '"Take heed of another man," said the charioteer, Fandall <span
-id="fr_31"></span>[1](#fn_31) is his name. Not more heavily does he
+id="fr_31"></span>[1](#fn_31.md) is his name. Not more heavily does he
 traverse (?) the water than swan or swallow."
 
 '"I swear that he will not ply that feat again on the Ulstermen," said
@@ -545,7 +545,7 @@ Emain."
 head and his arms.
 
 '"Take heed of another man who comes towards you," said the charioteer.
-"Tuachell <span id="fr_32"></span>[2](#fn_32) is his name. It is no
+"Tuachell <span id="fr_32"></span>[2](#fn_32.md) is his name. It is no
 misname for him, Tor he does not fall by arms at all."
 
 '"Here is the javelin for him to confuse him, so that it may make a
@@ -614,7 +614,7 @@ you."
 
 '"It is not easy for me to go to them," said the charioteer. "The horses
 have become wild so that I cannot go past them. I cannot go past the two
-iron tyres <span id="fr_33"></span>[1](#fn_33) of the chariot, because
+iron tyres <span id="fr_33"></span>[1](#fn_33.md) of the chariot, because
 of their sharpness; and I cannot go past the deer, for his horn has
 filled all the space between the two poles of the chariot."
 
@@ -638,7 +638,7 @@ of every man who is in the court, unless heed is taken, and unless naked
 women go to him."
 
 'Then he turned the left side of his chariot towards Emain, and that was
-a *geis* <span id="fr_34"></span>[1](#fn_34) to it; and Cuchulainn said:
+a *geis* <span id="fr_34"></span>[1](#fn_34.md) to it; and Cuchulainn said:
 "I swear by the god by whom the Ulstermen swear, unless a man is found
 to fight with me, I will shed the blood of every one who is in the
 fort."
@@ -661,7 +661,7 @@ Fiacha Mac Fir-Febe, 'it were not wonderful though he should rout an
 overwhelming force, and though he should exhaust (?) an equal force,
 when his seventeen years are complete to-day.'
 
-(What follows is a separate version <span id="fr_35"></span>[2](#fn_35)
+(What follows is a separate version <span id="fr_35"></span>[2](#fn_35.md)
 to the death of Orlam.)
 
  
@@ -681,42 +681,42 @@ n-Ane, that is the name of that place for ever.
 
 ### Footnotes
 
-<span id="fn_24"></span>[17:1](crc04.htm#fr_24) *Fidchill*, usually so
+<span id="fn_24"></span>[17:1](crc04.htm#fr_24.md) *Fidchill*, usually so
 translated, but the exact nature of the game is uncertain.
 
-<span id="fn_25"></span>[19:1](crc04.htm#fr_25) Conjectured from the
+<span id="fn_25"></span>[19:1](crc04.htm#fr_25.md) Conjectured from the
 later description of Cuchulainn's distortion.
 
-<span id="fn_26"></span>[19:2](crc04.htm#fr_26) *i.e.* to attack them.
+<span id="fn_26"></span>[19:2](crc04.htm#fr_26.md) *i.e.* to attack them.
 
-<span id="fn_27"></span>[22:1](crc04.htm#fr_27) Gloss incorporated in
+<span id="fn_27"></span>[22:1](crc04.htm#fr_27.md) Gloss incorporated in
 text: 'or their decay, or their shortness of life.'
 
-<span id="fn_28"></span>[24:1](crc04.htm#fr_28) Gloss incorporated in
+<span id="fn_28"></span>[24:1](crc04.htm#fr_28.md) Gloss incorporated in
 text: 'He was brought from Spain.'
 
-<span id="fn_29"></span>[27:1](crc04.htm#fr_29) The *fertais* were poles
+<span id="fn_29"></span>[27:1](crc04.htm#fr_29.md) The *fertais* were poles
 sticking out behind the chariot, as the account of the wild deer, later,
 shows.
 
-<span id="fn_30"></span>[29:1](crc04.htm#fr_30) Reading with YBL.
+<span id="fn_30"></span>[29:1](crc04.htm#fr_30.md) Reading with YBL.
 
-<span id="fn_31"></span>[31:1](crc04.htm#fr_31) *i.e.* 'Swallow.'
+<span id="fn_31"></span>[31:1](crc04.htm#fr_31.md) *i.e.* 'Swallow.'
 
-<span id="fn_32"></span>[31:2](crc04.htm#fr_32) *i.e.* 'Cunning.'
+<span id="fn_32"></span>[31:2](crc04.htm#fr_32.md) *i.e.* 'Cunning.'
 
-<span id="fn_33"></span>[33:1](crc04.htm#fr_33) Interlinear gloss,
+<span id="fn_33"></span>[33:1](crc04.htm#fr_33.md) Interlinear gloss,
 *fonnod*. The *fonnod* was some part of the rim of the wheel apparently.
 
-<span id="fn_34"></span>[34:1](crc04.htm#fr_34) *i.e.* it was an insult.
+<span id="fn_34"></span>[34:1](crc04.htm#fr_34.md) *i.e.* it was an insult.
 
-<span id="fn_35"></span>[34:2](crc04.htm#fr_35) The next episode, the
+<span id="fn_35"></span>[34:2](crc04.htm#fr_35.md) The next episode, the
 Death of Fraech, is not given in LL.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Fraech](crc05)
+[Next: The Death of Fraech](crc05.md)
 
 </div>

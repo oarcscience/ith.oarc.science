@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes31)  [Next](tes33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes31)  [Next](tes33.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ flew onward; the eldest sister ran in pursuit. At last the She-Monster
 gave up, and at the last only shouted, "This time you do not want to
 look at me! But later you will be married, and you will have a boy and a
 girl. The girl will sit on an earth bench, <span
-id="fr_49"></span>[1](#fn_49) and she will play with her little
+id="fr_49"></span>[1](#fn_49.md) and she will play with her little
 scissors; and the boy will play with his bow and arrows. Then I shall
 come to you." The other one flew on. At last she saw a small house,
 standing all alone. She sat down near the chimney-hole, and looked down
@@ -120,10 +120,10 @@ village of Pokhotsk, in the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_49"></span>[68:1](tes32.htm#fr_49) The Russian log cabin
+<span id="fn_49"></span>[68:1](tes32.htm#fr_49.md) The Russian log cabin
 and the Yakut hut are surrounded by a low earth wall up to the
 window-sills. This wall serves also as a bench.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 12. The Monster With Iron Teeth](tes33)
+[Next: 12. The Monster With Iron Teeth](tes33.md)

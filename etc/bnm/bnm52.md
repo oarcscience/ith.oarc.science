@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm51)  [Next](bnm53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm51)  [Next](bnm53.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ tell their children about it.
 
 ------------------------------------------------------------------------
 
-[Next: The Children In The Moon.](bnm53)
+[Next: The Children In The Moon.](bnm53.md)

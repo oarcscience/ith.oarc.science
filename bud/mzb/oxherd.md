@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Next](mzb00) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Next](mzb00.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ Behold the lilies of the field and its fresh sweet-scented verdure.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](mzb00)
+[Next: Introduction](mzb00.md)

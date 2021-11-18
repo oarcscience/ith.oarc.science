@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray000)  [Next](pray002) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray000)  [Next](pray002.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,4 +270,4 @@ The knowledge of this most necessary.
 
 ------------------------------------------------------------------------
 
-[Next: Of Prayer.](pray002)
+[Next: Of Prayer.](pray002.md)

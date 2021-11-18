@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por73)  [Next](por75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por73)  [Next](por75.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -44,10 +44,10 @@ With curved horns!
 
 ### Footnotes
 
-<span id="fn_8"></span>[200:\*](por73.htm#fr_8) Miss Frances Densmore's
+<span id="fn_8"></span>[200:\*](por73.htm#fr_8.md) Miss Frances Densmore's
 literal translations from the Chippewa furnished the keynotes of this
 and the following five songs.       A. C. H.
 
 ------------------------------------------------------------------------
 
-[Next: Where the Fight Was](por75)
+[Next: Where the Fight Was](por75.md)

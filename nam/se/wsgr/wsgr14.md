@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr13)  [Next](wsgr15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr13)  [Next](wsgr15.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ phlox got their soft colors that look like the evening clouds.
 
 ------------------------------------------------------------------------
 
-[Next: The Swift Blue One](wsgr15)
+[Next: The Swift Blue One](wsgr15.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam05)  [Next](lam07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam05)  [Next](lam07.md) 
 
 ------------------------------------------------------------------------
 
@@ -269,4 +269,4 @@ before reaching perfection. The most precious jewel of all is the soul*.
 
 ------------------------------------------------------------------------
 
-[Next: V. Truth](lam07)
+[Next: V. Truth](lam07.md)

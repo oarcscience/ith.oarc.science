@@ -1,9 +1,9 @@
-[Sacred-Texts](../index)  [Neopaganism](index) 
+[Sacred-Texts](../index)  [Neopaganism](index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy The White Goddess at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374504938/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374504938/internetsacredte.md)
 
 # The White Goddess by Robert Graves
 
@@ -15,7 +15,7 @@ reinventor of Paganism.
 
 The White Goddess was one of the first widely available books which
 uncompromisingly advocated a Goddess-centered spirituality. It builds on
-Frazier's [Golden Bough](frazer/index), but written from the point of
+Frazier's [Golden Bough](frazer/index.md), but written from the point of
 view of a working poet struggling to reconcile the ancient crafts of
 poetry and mythology with the brutality of the twentieth century.
 Although it is a 'difficult book' it will also prove very rewarding. It

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc06)  [Next](ogc08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc06)  [Next](ogc08.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,4 +126,4 @@ it is possible for action and passion to take place.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](ogc08)
+[Next: Chapter 8](ogc08.md)

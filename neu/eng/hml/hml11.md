@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml10)  [Next](hml12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml10)  [Next](hml12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ called Roncesvalles), and there slew every man.
 
 The whole romantic legend of Roland has sprung from the simple words in
 a contemporary chronicle, "In which battle was slain Roland, prefect of
-the marches of Brittany." <span id="fr_11"></span>[1](#fn_11)
+the marches of Brittany." <span id="fr_11"></span>[1](#fn_11.md)
 
 This same fight of Roncesvalles was the theme of an archaic poem, the
 "Song of Altobiscar," written about 1835. In it we hear the exultation
@@ -231,13 +231,13 @@ of salvation, and is willing to be baptized; but you have been
 <span id="img_12400"></span>
 
 [![''Here sits Charles the King!''](tn/12400.jpg)  
-Click to enlarge](img/12400.jpg)  
+Click to enlarge](img/12400.jpg.md)  
 ''Here sits Charles the King!''  
 
 <span id="img_12500"></span>
 
 [![''Ganelon rode away''](tn/12500.jpg)  
-Click to enlarge](img/12500.jpg)  
+Click to enlarge](img/12500.jpg.md)  
 ''Ganelon rode away''  
 
  
@@ -766,13 +766,13 @@ And how small our Frankish troop is!'
 <span id="img_13800"></span>
 
 [![''The saintly Archbishop Turpin''](tn/13800.jpg)  
-Click to enlarge](img/13800.jpg)  
+Click to enlarge](img/13800.jpg.md)  
 ''The saintly Archbishop Turpin''  
 
 <span id="img_13900"></span>
 
 [![''Charlemagne heard it again''](tn/13900.jpg)  
-Click to enlarge](img/13900.jpg)  
+Click to enlarge](img/13900.jpg.md)  
 ''Charlemagne heard it again''  
 
  
@@ -927,7 +927,7 @@ On then, Friends of God, to glory!'"
 
 And the battle raged anew, with all the odds against the small handful
 of French, who knew they were doomed, and fought as though they were
-"fey." <span id="fr_12"></span>[1](#fn_12)
+"fey." <span id="fr_12"></span>[1](#fn_12.md)
 
 <span id="page_143">p. 143</span>
 
@@ -1155,13 +1155,13 @@ Paradise, to bless his lord Charlemagne and the fair
 <span id="img_14800"></span>
 
 [![''Turpin fell forward dying''](tn/14800.jpg)  
-Click to enlarge](img/14800.jpg)  
+Click to enlarge](img/14800.jpg.md)  
 ''Turpin fell forward dying''  
 
 <span id="img_14900"></span>
 
 [![''The angels of God descended around him''](tn/14900.jpg)  
-Click to enlarge](img/14900.jpg)  
+Click to enlarge](img/14900.jpg.md)  
 ''The angels of God descended around him''  
 
  
@@ -1310,13 +1310,13 @@ Charlemagne and the Franks might see when they came that he died
 <span id="img_15200"></span>
 
 [![''Under the trees lay the body of Roland''](tn/15200.jpg)  
-Click to enlarge](img/15200.jpg)  
+Click to enlarge](img/15200.jpg.md)  
 ''Under the trees lay the body of Roland''  
 
 <span id="img_15300"></span>
 
 [![Aude the Fair falls dead at the Emperor's feet](tn/15300.jpg)  
-Click to enlarge](img/15300.jpg)  
+Click to enlarge](img/15300.jpg.md)  
 Aude the Fair falls dead at the Emperor's feet  
 
  
@@ -1403,7 +1403,7 @@ Now thou art taken from my weary age! <span id="page_155">p.
 So deep my woe that fain would I die too  
 And join my valiant Peers in Paradise  
 While men inter my weary limbs with thine!'" <span
-id="fr_13"></span>[1](#fn_13)
+id="fr_13"></span>[1](#fn_13.md)
 
 ### The Dead Buried
 
@@ -1439,14 +1439,14 @@ in France a byword for all disloyalty and treachery.
 
 ### Footnotes
 
-<span id="fn_11"></span>[120:1](hml11.htm#fr_11) *See* "Myths and
+<span id="fn_11"></span>[120:1](hml11.htm#fr_11.md) *See* "Myths and
 Legends of the Middle Ages," by H. Guerber.
 
-<span id="fn_12"></span>[142:1](hml11.htm#fr_12) Marked out for death.
+<span id="fn_12"></span>[142:1](hml11.htm#fr_12.md) Marked out for death.
 
-<span id="fn_13"></span>[155:1](hml11.htm#fr_13) The poetical quotations
+<span id="fn_13"></span>[155:1](hml11.htm#fr_13.md) The poetical quotations
 are from the "Chanson dc Roland."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: The Countess Cathleen](hml12)
+[Next: Chapter VIII: The Countess Cathleen](hml12.md)

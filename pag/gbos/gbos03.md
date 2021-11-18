@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos02)  [Next](gbos04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos02)  [Next](gbos04.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ to your pleasant abodes. Hail and farewell." If not, go to next degree.)
 
 ------------------------------------------------------------------------
 
-[Next: Initiation: Second Degree](gbos04)
+[Next: Initiation: Second Degree](gbos04.md)

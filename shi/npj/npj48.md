@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj47) 
-[Next](npj49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj47.md) 
+[Next](npj49.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 (THE ONE-HORNED RISHI)
 
 A RISHI lived in the hills near Benares. Under strange
-circumstances <span id="fr_213"></span>[1](#fn_211) a roe bore him a son
+circumstances <span id="fr_213"></span>[1](#fn_211.md) a roe bore him a son
 whose form was human, save that a single horn grew on his forehead, and
 that he had stag's hoofs instead of feet. He was given the name
 *Ekashringa*, "One-horn."
@@ -83,11 +83,11 @@ To the Dragon City of the sea.
 
 ### Footnotes
 
-<span id="fn_211"></span>[245:1](npj48.htm#fr_213) 'Il aperçut un cerf
+<span id="fn_211"></span>[245:1](npj48.htm#fr_213.md) 'Il aperçut un cerf
 et une biche qui s'accouplaient. La passion impure s'excita en lui. . .
 . La biche . . . se trouva grosse." Péri, *Les Femmes de Çakyamouni*, p.
 24.
 
 ------------------------------------------------------------------------
 
-[Next: Yamauba (The Dame of the Mountains)](npj49)
+[Next: Yamauba (The Dame of the Mountains)](npj49.md)

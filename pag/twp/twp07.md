@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](twp06)  [Next](twp08) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](twp06)  [Next](twp08.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ which way and by what means shee was able to performe matters of so
 great importance; whereat shee gave him no aunswere: nevertheless, her
 maister, to the intent that hee might the better trie and finde out the
 truth of the same, did with the help of others torment her with the
-torture of the pilliwinkes <span id="fr_23"></span>[1](#fn_23) upon her
+torture of the pilliwinkes <span id="fr_23"></span>[1](#fn_23.md) upon her
 fingers, which is a grievous torture; and binding or wrinching her head
 with a cord or roape, which is a most cruell torment also; yet would she
 not confess anie thing; whereuppon, they suspecting that she had beene
@@ -45,7 +45,7 @@ prison, where shee continued a season, where immediately shee accused
 these persons following to bee notorious witches, and caused them
 forthwith to be apprehended, one after another, viz. Agnes Sampson the
 eldest witche of them all, dwelling in Haddington; Agnes Tompson of
-Edenbrough <span id="fr_24"></span>[1](#fn_24); Doctor Fian alias John
+Edenbrough <span id="fr_24"></span>[1](#fn_24.md); Doctor Fian alias John
 Cuningham, master of the schoole at Saltpans in Lowthian, of whose life
 and strange acts you shal heare more largely in the end of this
 discourse. These were by the saide Geillis Duncane accused, as also
@@ -67,9 +67,9 @@ the Phisition knewe not how to cure or remedie the same. But of all
 other the said witches, these two last before recited, were reputed for
 as civill honest women as anie that dwelled within the cittie of
 Edenbrough, before they were apprehended. Many other besides were taken
-dwelling in Lieth, <span id="fr_25"></span>[2](#fn_25) who are detayned
+dwelling in Lieth, <span id="fr_25"></span>[2](#fn_25.md) who are detayned
 in prison untill his Majesties further will and pleasure be knowne . . .
-. <span id="fr_26"></span>[3](#fn_26)
+. <span id="fr_26"></span>[3](#fn_26.md)
 
 As touching the aforesaide Doctor Fian alias John Cunningham, the
 examination of his actes since his apprehension, declareth the great
@@ -87,7 +87,7 @@ aforsaide. First, By thrawing of his head with a rope, whereat be would
 confesse nothing. Secondly, Hee was perswaded by faire meanes to
 confesse his follies, but that would prevaile as little. Lastly, Hee was
 put to the most severe and cruell paine in the worlde, called the
-bootes; <span id="fr_27"></span>[1](#fn_27) who after he had received
+bootes; <span id="fr_27"></span>[1](#fn_27.md) who after he had received
 three strokes, being inquired if he would confesse his damnable actes
 and wicked life, his toong would not serve him to speake; in respect
 whereof the rest of the witches willed to searche his toong, under which
@@ -95,8 +95,8 @@ was founde two pinnes, thrust up into the heade; whereupon the witches
 did say, Now is the charme stinted; and shrewed, that those charmed
 pinnes were the cause he could not confesse any thing: Then was he
 immediately released of the bootes, brought before the King, <span
-id="fr_28"></span>[2](#fn_28) his confession was taken, and his own hand
-willingly set thereunto. . . .  <span id="fr_29"></span>[3](#fn_29)
+id="fr_28"></span>[2](#fn_28.md) his confession was taken, and his own hand
+willingly set thereunto. . . .  <span id="fr_29"></span>[3](#fn_29.md)
 
 Thus, all the daie, this Doctor Fian continued very solitarie, and
 seemed to have a care of his owne soule, and would call uppon God,
@@ -164,17 +164,17 @@ past, 1591.
 
 ### Footnotes
 
-<span id="fn_23"></span>[19:1](twp07.htm#fr_23) An instrument of torture
+<span id="fn_23"></span>[19:1](twp07.htm#fr_23.md) An instrument of torture
 similar to the thumbscrews later in use.
 
-<span id="fn_24"></span>[20:1](twp07.htm#fr_24) Edinburgh.
+<span id="fn_24"></span>[20:1](twp07.htm#fr_24.md) Edinburgh.
 
-<span id="fn_25"></span>[20:2](twp07.htm#fr_25) Leith.
+<span id="fn_25"></span>[20:2](twp07.htm#fr_25.md) Leith.
 
-<span id="fn_26"></span>[20:3](twp07.htm#fr_26) Then follows an account
+<span id="fn_26"></span>[20:3](twp07.htm#fr_26.md) Then follows an account
 of the torture and confession of Agnes Sampson.
 
-<span id="fn_27"></span>[21:1](twp07.htm#fr_27) "The boots, or
+<span id="fn_27"></span>[21:1](twp07.htm#fr_27.md) "The boots, or
 *bootikins*," says Pitcairn in his note on this passage, "were chiefly
 made use of in extreme cases, such as High Treason, Witchcraft, etc.
 This horrid instrument extended from the ankles to the knee, and at each
@@ -182,7 +182,7 @@ stroke of a large hammer (which forced the wedges closer), the question
 was repeated. In many instances, the bones and flesh of the leg were
 crushed and lacerated in a shocking manner before confession was made."
 
-<span id="fn_28"></span>[21:2](twp07.htm#fr_28) The personal interest
+<span id="fn_28"></span>[21:2](twp07.htm#fr_28.md) The personal interest
 taken in these trials by King James is explained by the fact that one of
 the crimes which the witches were made to confess was that they had gone
 to sea in sieves and there raised the contrary wind which distressed His
@@ -196,10 +196,10 @@ statute against the witches. Under this statute of James was carried on
 the later witch-persecution in England; and it formed a basis for that
 in the colonies.
 
-<span id="fn_29"></span>[21:3](twp07.htm#fr_29) Then follows a summary
+<span id="fn_29"></span>[21:3](twp07.htm#fr_29.md) Then follows a summary
 of his confession and an account of his commission to a solitary cell.
 What is next printed above is alleged to have happened on the morrow.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Witch-Persecution at Bamberg.](twp08)
+[Next: VI. The Witch-Persecution at Bamberg.](twp08.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft72)  [Next](sfft74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft72)  [Next](sfft74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_237">p. 237</span>
 
-### THE WITCHES OF DELNABO. <span id="fr_112"></span>[1](#fn_112)
+### THE WITCHES OF DELNABO. <span id="fr_112"></span>[1](#fn_112.md)
 
 IN the time of my grandmother, the farm of Delnabo was proportionally
 divided between three tenants. At first equally comfortable in their
@@ -103,11 +103,11 @@ to be only a spectator,
 and not a participator in the night's performance. On reaching the
 pool's side he saw what was going on,--he saw abundance of hags steering
 themselves to and fro in their riddles, by means of their oars (the
-brooms), hallooing and skirling <span id="fr_113"></span>[1](#fn_113)
+brooms), hallooing and skirling <span id="fr_113"></span>[1](#fn_113.md)
 worse than the bogles, and each holding in her left hand a torch of
 fir,--whilst at other times they would swirl themselves into a row, and
 make profound obeisance to a large black ugly tyke, <span
-id="fr_114"></span>[2](#fn_114) perched on a lofty rock, and who was no
+id="fr_114"></span>[2](#fn_114.md) perched on a lofty rock, and who was no
 doubt the "muckle thief" himself, and who was pleased to acknowledge
 most graciously those expressions of their loyalty and devotion, by
 bowing, grinning, and clapping his paws. Having administered to the
@@ -166,13 +166,13 @@ as rich as he was formerly poor.
 
 ### Footnotes
 
-<span id="fn_112"></span>[237:1](sfft73.htm#fr_112) W. Grant Stewart,
+<span id="fn_112"></span>[237:1](sfft73.htm#fr_112.md) W. Grant Stewart,
 *Highland Superstitions*.
 
-<span id="fn_113"></span>[240:1](sfft73.htm#fr_113) Shrieking.
+<span id="fn_113"></span>[240:1](sfft73.htm#fr_113.md) Shrieking.
 
-<span id="fn_114"></span>[240:2](sfft73.htm#fr_114) Dog.
+<span id="fn_114"></span>[240:2](sfft73.htm#fr_114.md) Dog.
 
 ------------------------------------------------------------------------
 
-[Next: The Brazen Brogues](sfft74)
+[Next: The Brazen Brogues](sfft74.md)

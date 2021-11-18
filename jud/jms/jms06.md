@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms05)  [Next](jms07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms05)  [Next](jms07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ We can only conjecture on the basis of the chance personal comments that
 wormed their way quite incidentally into a literature which was
 primarily legalistic and exegetical. It is significant, for instance,
 that a homely little book like the Yiddish
-*Brantspiegel*,[1](jms25.htm#an_4_1) intended for the intimate
+*Brantspiegel*,[1](jms25.htm#an_4_1.md) intended for the intimate
 instruction of womenfolk, a book which certainly came closer to the folk
 psyche than did the more formal writing of the period, singled out as
 the foremost dangers to life and limb demons, evil spirits, wild animals
@@ -58,7 +58,7 @@ terrible attribute, but yet, as the Talmud
 
 sagely observed, it is fortunate that we are blind to their presence,
 for if we should see them swarming about us, we must collapse from sheer
-terror.[2](jms25.htm#an_4_2) Like all the other dangers attending life,
+terror.[2](jms25.htm#an_4_2.md) Like all the other dangers attending life,
 always implicit in the play of nature's forces, but fully realized only
 at rare and fragmentary intervals, man learned to take this one too in
 his stride, to accept it into his consciousness of the world, build his
@@ -78,7 +78,7 @@ there is the ingenious polemic according to which the non-monotheistic
 faith of "two certain peoples" lays them peculiarly open to demonic
 attack, "but unlike theirs is the portion of Jacob, who believe in the
 one God." But the implacable enmity of the spirits toward all mankind
-was an axiom of demon lore.[3](jms25.htm#an_4_3) Superstition supported
+was an axiom of demon lore.[3](jms25.htm#an_4_3.md) Superstition supported
 this belief with a wealth of instance. Many anecdotes tell of unprovoked
 physical attacks by the spirits; the man who is dogged by ill-luck is
 the special prey of demons; the etiology of folk-medicine was primarily
@@ -151,7 +151,7 @@ inhabitant; when the tenant leaves his home there is no one to look
 after it." Therefore most people fall sick at night, while they are
 asleep. Indeed, R. Jacob Weil confessed, "When I prepare for my
 afternoon nap I recite first the 'anti-demonic psalm'" for "all sleep is
-dangerous because of the demons."[5](jms25.htm#an_4_5)
+dangerous because of the demons."[5](jms25.htm#an_4_5.md)
 
 Great as the danger was every night of the week, on two nights
 especially was it heightened—the eves of Wednesday and Saturday. At
@@ -171,7 +171,7 @@ the late homegoer was not in pressing danger. Nevertheless some medieval
 rabbis made it a practice to linger until the last man was through with
 his prayers, in order to accompany him home, even pretending to be
 engrossed in a book so that the laggard might not be
-embarrassed.[6](jms25.htm#an_4_6)
+embarrassed.[6](jms25.htm#an_4_6.md)
 
 #### CRISES
 
@@ -183,7 +183,7 @@ his extraordinary joy unduly excited the envy and animus of the spirit
 world, the danger was heightened and the safeguards were correspondingly
 strengthened. These were the moments in the life cycle "when man's star
 is low": birth, illness, death, while marriage, man's happiest moment,
-was an especially perilous one.[7](jms25.htm#an_4_7) These were the
+was an especially perilous one.[7](jms25.htm#an_4_7.md) These were the
 moments of man's greatest vulnerability
 
 <span id="page_48">p. 48</span>
@@ -218,7 +218,7 @@ name. Because of the great importance attached to this rite it was
 feared that the forces of evil would exert their utmost powers to
 prevent its consummation. The night before the circumcision, therefore,
 was held to be the most dangerous for the male
-child.[8](jms25.htm#an_4_8)
+child.[8](jms25.htm#an_4_8.md)
 
 The dangers that beset the bridal pair were attributable to the savage
 envy and rage that man's joys aroused in the evil spirits, perhaps, too,
@@ -226,7 +226,7 @@ to their desire to frustrate the act that is responsible for the
 propagation of human life. Gathering force throughout the period
 preparatory to the wedding, these dangers assumed their highest
 intensity on the bridal night and gradually tapered off
-afterwards.[9](jms25.htm#an_4_9)
+afterwards.[9](jms25.htm#an_4_9.md)
 
 The especial susceptibility of the invalid—his ailment was probably
 itself merely a symptom of demonic attack—was self-evident. The dying
@@ -265,7 +265,7 @@ sorts of magic, perhaps in the last analysis against death itself; the
 corpse, on the other hand, brings the living into mortal danger, partly
 through the enmity of the evil powers which cling to it yet a while,
 partly through the desire of the soul to draw others along with it to
-the beyond."[10](jms25.htm#an_4_10) The measures adopted to counteract
+the beyond."[10](jms25.htm#an_4_10.md) The measures adopted to counteract
 the dangers implicit in death and burial provided for every one of these
 apprehensions.
 
@@ -293,7 +293,7 @@ Popularized by the Lurianic *Kabbalah* it became a characteristic
 superstition of East-European Jewry. But it is found full-blown among
 German Jews at a time when the Lurianic concept could not yet have
 gained any wide popular acceptance. The initial appearance of a *dibbuk*
-is in a story included in the *Ma‘aseh Book*,[11](jms25.htm#an_4_11)
+is in a story included in the *Ma‘aseh Book*,[11](jms25.htm#an_4_11.md)
 which was first published in 1602, and which contains material whose
 origin is considerably earlier than that date. In this story the spirit
 which took possession of a young man was the spirit of one who in this
@@ -307,7 +307,7 @@ souls, *gilgul*, which the older Spanish *Kabbalah* developed.
 
 In earlier times we find a purer form of the belief in the possibility
 of spirit possession—a form familiar in Christian
-legend[12](jms25.htm#an_4_12)—that is, that the demons proper may make
+legend[12](jms25.htm#an_4_12.md)—that is, that the demons proper may make
 their homes in man's body. This view found its rationalization in the
 legend that the demons, created on the eve of the Sabbath, are bodiless.
 Since all creation is engaged in the quest for perfection, all things
@@ -324,7 +324,7 @@ represents the next degree of creation above them. This is why
 women are more prone to sorcery than are men; the sorceress is a woman
 through whom the demon that has possessed her operates, or one who
 through close association with demons has acquired their malevolent
-attributes.[13](jms25.htm#an_4_13)
+attributes.[13](jms25.htm#an_4_13.md)
 
 Demons who have taken possession of a human body exercise such complete
 control over it that the personality and the will of the victim are
@@ -332,7 +332,7 @@ extinguished. They can be expelled only by the most powerful exorcisms.
 This was the method of liberation employed in the story from the
 *Ma‘aseh Book* mentioned above. We have a most circumstantial account of
 such a proceeding in Nikolsburg, in the year
-1696,[14](jms25.htm#an_4_14) a date beyond the close of the period we
+1696,[14](jms25.htm#an_4_14.md) a date beyond the close of the period we
 are studying, when the Lurianic ideas had already gained wide
 popularity, but shedding light none the less on the procedure which was
 universally employed. The spirit in this instance proved extremely
@@ -358,25 +358,25 @@ The Jewish belief took its cue from the Midrashic legend about Adam's
 siring a demonic brood, and the assertion of the *Zohar*, sourcebook for
 all the mystic science of medieval Jewry, that even now the propagation
 of the species continues by virtue of the union of men with spirits in
-their sleep.[15](jms25.htm#an_4_15) As to the manner of such union, it
+their sleep.[15](jms25.htm#an_4_15.md) As to the manner of such union, it
 was generally agreed that man's nocturnal emissions often result from
 the efforts of the demons to arouse his passions, and that these provide
 the seed from which the hybrid offspring are
-born.[16](jms25.htm#an_4_16) This takes place, of course, without man's
+born.[16](jms25.htm#an_4_16.md) This takes place, of course, without man's
 knowledge or volition; the
 
 <span id="page_52">p. 52</span>
 
 spirits, lacking bodies, have no means of achieving physical union with
-man.[17](jms25.htm#an_4_17) However, in the guise of man or woman a
+man.[17](jms25.htm#an_4_17.md) However, in the guise of man or woman a
 demon may successfully pass itself off upon an unsuspecting human as a
 being of his own kind, and thus achieve its
-purpose.[18](jms25.htm#an_4_18)
+purpose.[18](jms25.htm#an_4_18.md)
 
 As to the children of such a union, they retain an essentially demonic
 nature, but in the kingdom of the spirits they rank very high indeed,
 occupying the positions of rulership. This is one of the reasons why
-demons are so avid for union with human beings.[19](jms25.htm#an_4_19)
+demons are so avid for union with human beings.[19](jms25.htm#an_4_19.md)
 
 This belief created some interesting moral and legal problems. Was a man
 or woman who had been seduced by a demon to be regarded as an adulterer?
@@ -398,7 +398,7 @@ uniform of the local petty count. Was she to be considered an
 adulteress? this rabbi was asked, and was she therefore to be
 "forbidden" to her husband, since she might have had intercourse with
 this demon of her free will? The judge absolved her of all guilt and
-"permitted" her to her husband.[20](jms25.htm#an_4_20)
+"permitted" her to her husband.[20](jms25.htm#an_4_20.md)
 
 Finally, as a fitting climax to the story, we have the most unusual
 spectacle of a lawsuit between the inhabitants of a house and the
@@ -456,14 +456,14 @@ most terrifying exorcisms,
 <span id="page_54">p. 54</span>
 
 and succeeded in banishing the intruders from cellar as well as house,
-to the forests and deserts where they belonged.[21](jms25.htm#an_4_21)
+to the forests and deserts where they belonged.[21](jms25.htm#an_4_21.md)
 
 #### THE EVIL EYE
 
 The "evil eye," one of the most widely feared manifestations of demonic
 animus, is not always what the term implies; it comprehends two distinct
 types of supernatural phenomena, only the first of which should properly
-be so denoted.[22](jms25.htm#an_4_22) This superstition affirms that
+be so denoted.[22](jms25.htm#an_4_22.md) This superstition affirms that
 certain baneful potencies are inherent in the "evil" eye itself, that
 they are natural properties of such eyes. Not a few unfortunate men are
 born *jettatori*, shedding rays of destruction about them with every
@@ -492,7 +492,7 @@ detect the least word or gesture of commendation. Demons are like men,
 Menasseh b. Israel wrote; "when a man receives praise in the presence of
 his enemy, the latter is filled with anger and reveals his discomfiture,
 for envy consumes his heart like a raging fire, and he cannot contain
-himself."[23](jms25.htm#an_4_23) A glance that expresses approbation is
+himself."[23](jms25.htm#an_4_23.md) A glance that expresses approbation is
 as eloquent as a speech, and just as likely to arouse their malice. Such
 words and glances, in themselves perhaps innocent, constitute the evil
 eye, which brings swift persecution in its wake. We may say
@@ -504,7 +504,7 @@ invidiousness, a translation of a profound poetic truth into the
 language of superstition.
 
 Rabbinic Judaism was acquainted with both aspects of the evil
-eye.[24](jms25.htm#an_4_24) Several rabbis of the Talmud were accredited
+eye.[24](jms25.htm#an_4_24.md) Several rabbis of the Talmud were accredited
 with the power to turn men into "a heap of bones" with a glance, or to
 cause whatever their gaze fell upon to burst into flames. But the second
 aspect was predominant. As has been pointed out by several scholars, the
@@ -532,7 +532,7 @@ over the *Torah* before a congregation. A double wedding in one
 household, or indeed, any two simultaneous marriages were avoided for
 this reason. Even animals and plants were subject to the evil eye; a man
 who admired his neighbor's crop was suspected of casting the evil eye
-upon it.[26](jms25.htm#an_4_26)
+upon it.[26](jms25.htm#an_4_26.md)
 
 The early Jewish literature was little concerned with the explanation or
 the theoretical basis of this phenomenon. Even in the Middle Ages
@@ -561,7 +561,7 @@ upon the victim a glance that sheds beneficence. . . . Even if the first
 man has not expressly uttered a curse, but has merely said, 'How nice
 and plump that child is!' or has regarded him without saying anything,
 the pious one should bless the child with a
-glance."[27](jms25.htm#an_4_27) Protection against the evil eye was
+glance."[27](jms25.htm#an_4_27.md) Protection against the evil eye was
 essentially a matter of repelling the demons and evil spirits and
 practically all the anti-demonic measures were effective safeguards.
 
@@ -572,7 +572,7 @@ jocosely called out to his servant, "Come, devil, take off my shoes!"
 whereupon his shoes were whisked off by an invisible force, and the poor
 fellow was almost frightened out of his wits. Luckily he had the
 presence of mind to shriek, "Hence! vile one, hence!" and saved himself
-from further diabolic accommodation.[28](jms25.htm#an_4_28)
+from further diabolic accommodation.[28](jms25.htm#an_4_28.md)
 
 The Talmud put the matter succinctly: "One should never open his mouth
 to Satan," that is, evil talk is nothing less than an invitation to the
@@ -613,12 +613,12 @@ three days lest the spirits make a premature end of the invalid when
 they hear people talking about his infirmity; the secret is not guarded
 any longer, if the illness continues, for fear that the patient may be
 deprived of the benefit of public prayer. When a person is sick one must
-not gossip about his sins.[29](jms25.htm#an_4_29)
+not gossip about his sins.[29](jms25.htm#an_4_29.md)
 
 There is also a second method of cozening the spirits, namely, to
 nullify the possible effect of a remark with such formal comments as
 "God forbid," "may it not occur to you," "may God protect you," etc.
-Similar phrases are in use all over the world.[30](jms25.htm#an_4_30)
+Similar phrases are in use all over the world.[30](jms25.htm#an_4_30.md)
 
 If such simple devices impute to the spirits a degree of naiveté which
 does little credit to their vaunted cunning as man's antagonists, the
@@ -652,7 +652,7 @@ right, he took issue with this dictum. "We had not yet completed that
 tractate," writes his Boswell, "when he let out a series of groans such
 as I had never before heard from his lips, and neither before nor since
 have I seen him in such excruciating pain. 'In the future,' said the
-teacher, 'I'll put a bridle on my tongue.'"[31](jms25.htm#an_4_31)
+teacher, 'I'll put a bridle on my tongue.'"[31](jms25.htm#an_4_31.md)
 
 Vows and curses were especially singled out in this connection. A vow,
 let us say, sworn by the life of a child, is a serious matter, for at
@@ -684,7 +684,7 @@ curse extended even beyond the grave—the soul of the deceased was made
 to suffer if his memory was reviled. It is on this basis that we can
 comprehend the peculiar dread that attached to the formal rite of
 excommunication which called down upon the head of the guilty one a most
-terrifying catalogue of maledictions.[32](jms25.htm#an_4_32)
+terrifying catalogue of maledictions.[32](jms25.htm#an_4_32.md)
 
 So strong was this fear that it was forbidden to repeat in direct
 discourse an overheard conversation which had included a curse, for
@@ -705,7 +705,7 @@ singular person and present tense. In one synagogue, it is reported, "on
 a Sabbath on which the 'chapter of maledictions' was to be read, the
 Scroll of the *Torah* was shamefully permitted to lie open for several
 hours, because no member of the congregation was willing to come up to
-the pulpit."[33](jms25.htm#an_4_33)
+the pulpit."[33](jms25.htm#an_4_33.md)
 
 Some writers attributed the random effectiveness of curses to
 astrological factors—"not all times are equal," they explained; at
@@ -723,12 +723,12 @@ lehr aus.
 un’ es wird ihr selbert der nach leid." According to either view,
 whether man's defenses be weakened by the defection of his star or the
 anger of God, the executers of the curse are the
-demons.[34](jms25.htm#an_4_34)
+demons.[34](jms25.htm#an_4_34.md)
 
 Since the consummation of a curse may remain temporarily in abeyance,
 the threat hung over one's head like a poised sword. Some way out of
 this dilemma was ardently desired, and a formula was devised to meet
-this need:[35](jms25.htm#an_4_35) "With the consent of the heavenly and
+this need:[35](jms25.htm#an_4_35.md) "With the consent of the heavenly and
 earthly courts, of our sacred Torah, of the great and small Sanhedrins,
 and of this holy congregation, we release N son of N from all the
 curses, maledictions, oaths, vows . . . uttered in his home, or directed
@@ -745,4 +745,4 @@ the matter the demons need no longer be feared.
 
 ------------------------------------------------------------------------
 
-[Next: 5. The Spirits of the Dead](jms07)
+[Next: 5. The Spirits of the Dead](jms07.md)

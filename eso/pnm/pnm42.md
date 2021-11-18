@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm41)  [Next](pnm43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm41)  [Next](pnm43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -35,7 +35,7 @@ them the peculiar Natures, Virtues, and Roots of their Stars, and
 produce the like operations upon *other* things, on which they are
 reflected, and stir up and help the influences of *their* Stars, whether
 they be Planets, or fixed Stars, or Figures, or celestial Signs, <span
-id="fr_26"></span>[†](#fn_26) viz.,
+id="fr_26"></span>[†](#fn_26.md) viz.,
 
 <span id="page_115">p. 115</span>
 
@@ -87,49 +87,49 @@ sufficient here to shew from
 The Letters or Characters of Saturn.
 
 <span id="img_11700"></span> ![The Letters or Characters of
-Saturn](img/11700.jpg)
+Saturn](img/11700.jpg.md)
 
 The Letters or Characters of Jupiter.
 
 <span id="img_11701"></span> ![The Letters or Characters of
-Jupiter](img/11701.jpg)
+Jupiter](img/11701.jpg.md)
 
 The Letters or Characters of Mars.
 
 <span id="img_11702"></span> ![The Letters or Characters of
-Mars](img/11702.jpg)
+Mars](img/11702.jpg.md)
 
 The Letters or Characters of the Sun.
 
 <span id="img_11703"></span> ![The Letters or Characters of the
-Sun](img/11703.jpg)
+Sun](img/11703.jpg.md)
 
 The Letters or Characters of Venus.
 
 <span id="img_11704"></span> ![The Letters or Characters of
-Venus](img/11704.jpg)
+Venus](img/11704.jpg.md)
 
 The Letters or Characters of Mercury.
 
 <span id="img_11705"></span> ![The Letters or Characters of
-Mercury](img/11705.jpg)
+Mercury](img/11705.jpg.md)
 
 The Letters or Characters of the Moon.
 
 <span id="img_11706"></span> ![The Letters or Characters of the
-Moon](img/11706.jpg)
+Moon](img/11706.jpg.md)
 
 <span id="page_118">p. 118</span>
 
 whence the Characters of Nature have their original source, and in what
 things they are to be enquired after. <span
-id="fr_27"></span>[\*](#fn_27)
+id="fr_27"></span>[\*](#fn_27.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_26"></span>[114:†](pnm42.htm#fr_26) The Heavens in general
+<span id="fn_26"></span>[114:†](pnm42.htm#fr_26.md) The Heavens in general
 are mapped out into clusters and combinations of stars, known as
 "constellations," and to each constellation the ancients gave a certain
 "figure," the name of which also named the constellation, <span
@@ -139,17 +139,17 @@ constellation, by being one of the twelve constellations of the Zodiac,
 is further known as one of the <span class="smallcaps">twelve</span>
 "Signs."
 
-<span id="fn_27"></span>[118:\*](pnm42.htm#fr_27) "Mr. Morley, on page
+<span id="fn_27"></span>[118:\*](pnm42.htm#fr_27.md) "Mr. Morley, on page
 138 of his work, gives "successively, line under line, the divine
 letters of Saturn, Jupiter, Mars, Venus, Mercury, the Sun, and the
 Moon," which may be compared with the figures made from the 1651
 edition:
 
 <span id="img_11600"></span> <span align="CENTER"> [![](tn/11600.jpg)  
-Click to enlarge](img/11600.jpg)</span>
+Click to enlarge](img/11600.jpg.md)</span>
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXIX. How, by Natural Things and Their Virtues, We May
 Draw Forth and Attract the Influences and Virtues of Celestial
-Bodies](pnm43)
+Bodies](pnm43.md)

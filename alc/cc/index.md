@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1558181490/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1558181490/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1558181490/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cc00)    [Text](cc.txt)
+[Contents](#contents)    [Start Reading](cc00)    [Text](cc.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -38,43 +38,43 @@ was republished by A.E. Waite in 1893. According to the preface, Waite
 found these in a manuscript belonging to a collector of occult books.
 This etext uses Unicode to display astrological symbols (here used in an
 alchemical sense, of course). For instructions on viewing Unicode in
-your browser, refer to [this file](../../unicode).
+your browser, refer to [this file](../../unicode.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cc00)  
-[Table of Contents](cc01)  
-[Prefatory Note](cc02)  
+<span id="contents"></span> [Title Page](cc00.md)  
+[Table of Contents](cc01.md)  
+[Prefatory Note](cc02.md)  
 [The Secret of the Immortal Liquor called Alkahest or
-Ignis-Aqua](cc03)  
-[Aurum Potabile: Or the Receipt of Dr. Fr. Antonie](cc04)  
-[The Oil of Sulphur](cc05)  
+Ignis-Aqua](cc03.md)  
+[Aurum Potabile: Or the Receipt of Dr. Fr. Antonie](cc04.md)  
+[The Oil of Sulphur](cc05.md)  
 <span id="section_000"></span>
 
 ### The Stone of the Philosophers
 
-[Title Page](cc06)  
-[The Contents](cc07)  
-[The Preface](cc08)  
-[Chapter I. The Introduction](cc09)  
-[Chapter II. Of the Vegetable Tincture](cc10)  
-[Chapter III. Of the Uses of the Vegetable Tinctures](cc11)  
-[Chapter IV. Of the Metallic Tincture](cc12)  
-[Chapter V. Of the Second Matter, or Seed in Metals](cc13)  
+[Title Page](cc06.md)  
+[The Contents](cc07.md)  
+[The Preface](cc08.md)  
+[Chapter I. The Introduction](cc09.md)  
+[Chapter II. Of the Vegetable Tincture](cc10.md)  
+[Chapter III. Of the Uses of the Vegetable Tinctures](cc11.md)  
+[Chapter IV. Of the Metallic Tincture](cc12.md)  
+[Chapter V. Of the Second Matter, or Seed in Metals](cc13.md)  
 [Chapter VI. Of the Dissolution and Extraction of the Seed in
-Metals](cc14)  
+Metals](cc14.md)  
 [Chapter VII. Of the Separation and Further Treatment of our
-Philosophical Seed](cc15)  
+Philosophical Seed](cc15.md)  
 [Chapter VIII. Of the Union or Mystical Marriage in the Philosophical
-Process](cc16)  
-[Chapter IX. Of the Further Treatment and Ripening of our Seed](cc17)  
+Process](cc16.md)  
+[Chapter IX. Of the Further Treatment and Ripening of our Seed](cc17.md)  
 [Chapter X. Of the Further Process to the Ripening of our Noble
-Seed](cc18)  
-[Chapter XI. A Further Description of the Process](cc19)  
-[Chapter XII. Of the Stone and its Uses](cc20)  
-[Chapter XIII. Of the Transmutation](cc21)  
+Seed](cc18.md)  
+[Chapter XI. A Further Description of the Process](cc19.md)  
+[Chapter XII. Of the Stone and its Uses](cc20.md)  
+[Chapter XIII. Of the Transmutation](cc21.md)  
 
  
 
-[The Bosom Book of Sir George Ripley](cc22)  
-[Preparations of the Sophic Mercury](cc23)  
+[The Bosom Book of Sir George Ripley](cc22.md)  
+[Preparations of the Sophic Mercury](cc23.md)  

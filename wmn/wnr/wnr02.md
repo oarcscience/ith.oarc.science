@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr01)  [Next](wnr03) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr01)  [Next](wnr03.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: I. Woman's Error And Her Debt](wnr03)
+[Next: I. Woman's Error And Her Debt](wnr03.md)

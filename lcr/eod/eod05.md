@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod04)  [Next](eod06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod04)  [Next](eod06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -24,7 +24,7 @@ Textual Heritage
 
 ### CHAPTER I.
 
-### INCENSE AND LIBATIONS. <span id="fr_2"></span>[1](#fn_2)
+### INCENSE AND LIBATIONS. <span id="fr_2"></span>[1](#fn_2.md)
 
 *The dragon was primarily a personification of the life giving and
 life-destroying powers of water. This chapter is concerned with the
@@ -63,7 +63,7 @@ ceremonies are so widespread and capable of being explained in such
 plausible, though infinitely diverse, ways that it has seemed
 unnecessary to inquire more deeply into their real origin and
 significance. For example, Professor Toy <span
-id="fr_3"></span>[1](#fn_3) disposes of these questions in relation to
+id="fr_3"></span>[1](#fn_3.md) disposes of these questions in relation to
 incense in a summary fashion. He claims that "when burnt before the
 deity" it is "to be regarded as food, though in course of time, when the
 recollection of this primitive character was lost, a conventional
@@ -81,7 +81,7 @@ But a bewildering variety of other explanations, for all of which the
 merit of being "simple and obvious" is claimed, have been suggested. The
 reader who is curious about these things will find a luxurious crop of
 speculations by consulting a series of encyclopædias. <span
-id="fr_4"></span>[2](#fn_4) I shall content myself by quoting only one
+id="fr_4"></span>[2](#fn_4.md) I shall content myself by quoting only one
 more. "Frankincense and other spices were indispensable in temples where
 bloody sacrifices formed part of the religion. The atmosphere of
 Solomon's temple must have been that of a sickening slaughter-house, and
@@ -89,7 +89,7 @@ the fumes of incense could alone enable the priests and worshippers to
 support it. This would apply to thousands of other temples through Asia,
 and doubtless the palaces of kings and nobles suffered from
 uncleanliness and insanitary arrangements and required an antidote to
-evil smells to make them endurable." <span id="fr_5"></span>[3](#fn_5)
+evil smells to make them endurable." <span id="fr_5"></span>[3](#fn_5.md)
 
 It is an altogether delightful anachronism to imagine that religious
 ritual in the ancient and aromatic East was inspired by such
@@ -100,7 +100,7 @@ might experience!
 CONVENTIONAL EGYPTIAN REPRESENTATION OF THE BURNING OF INCENSE AND THE
 POURING OF LIBATIONS (Period of the New Empire)after
 Lepsius](tn/fig01.jpg)  
-Click to enlarge](img/fig01.jpg)  
+Click to enlarge](img/fig01.jpg.md)  
 FIG. 1.—THE CONVENTIONAL EGYPTIAN REPRESENTATION OF THE BURNING OF
 INCENSE AND THE POURING OF LIBATIONS (Period of the New Empire)—after
 Lepsius  
@@ -123,7 +123,7 @@ Before this ancient testimony is examined certain general principles
 involved in the discussion of such problems should be considered. In
 this connexion it is appropriate to quote the apt remarks made, in
 reference to the practice of totemism, by Professor Sollas. <span
-id="fr_6"></span>[1](#fn_6) "If it is difficult to conceive how such
+id="fr_6"></span>[1](#fn_6.md) "If it is difficult to conceive how such
 ideas … originated at all, it is still more difficult to understand how
 they should have arisen repeatedly and have developed in much the same
 way among races evolving independently in different environments. It is
@@ -174,7 +174,7 @@ It is a common fallacy to suppose that men's actions are inspired mainly
 by reason. The most elementary investigation of the psychology of
 everyday life is sufficient to reveal the truth that man is not, as a
 rule, the pre-eminently rational creature he is commonly supposed to
-be. <span id="fr_7"></span>[1](#fn_7) He is impelled to most of his acts
+be. <span id="fr_7"></span>[1](#fn_7.md) He is impelled to most of his acts
 by his instincts, the circumstances of his personal experience, and the
 conventions of the society in which he has grown up. But once he has
 acted or decided upon a course of procedure he is ready with excuses in
@@ -208,7 +208,7 @@ undue thought. The very words in which the accumulated traditions of his
 community are conveyed to each individual are themselves charged with
 the complex symbolism that has slowly developed during the ages, and
 tinges the whole of his thoughts with their subtle and, to most men,
-vaguely appreciated shades of meaning. <span id="fr_8"></span>[1](#fn_8)
+vaguely appreciated shades of meaning. <span id="fr_8"></span>[1](#fn_8.md)
 During this process of acquiring the fruits of his community's beliefs
 and experiences every individual accepts without question a vast number
 of apparently simple customs and ideas. He is apt to regard them as
@@ -217,7 +217,7 @@ by them, although when the specific question is put to him he is unable
 to give their real history.
 
 Before leaving these general considerations <span
-id="fr_9"></span>[2](#fn_9) I want to emphasize certain elementary facts
+id="fr_9"></span>[2](#fn_9.md) I want to emphasize certain elementary facts
 of psychology which are often ignored by those who investigate the early
 history of civilization.
 
@@ -320,7 +320,7 @@ open to least objection.
 
 <span id="page_8">p. 8</span>
 
-In my last Rylands lecture <span id="fr_10"></span>[1](#fn_10) I
+In my last Rylands lecture <span id="fr_10"></span>[1](#fn_10.md) I
 sketched in rough outline a tentative explanation of the world-wide
 dispersal of the elements of the civilization that is now the heritage
 of the world at large, and referred to the part played by Ancient Egypt
@@ -350,7 +350,7 @@ fact any of the essential elements of civilization—has been deflected a
 hair's breadth to the right or left as the outcome, directly or
 indirectly, of such a practice?
 
-In previous essays and lectures <span id="fr_11"></span>[2](#fn_11) I
+In previous essays and lectures <span id="fr_11"></span>[2](#fn_11.md) I
 have indicated how intimately this custom was related, not merely to the
 invention of the arts and crafts of the carpenter and stonemason and all
 that is implied in the building up of what Professor Lethaby has called
@@ -364,7 +364,7 @@ conception of a material resurrection. I have also suggested the
 far-reaching significance of an indirect influence of the practice of
 mummification in the history of civilization. It was mainly responsible
 for prompting the earliest great maritime expeditions of which the
-history has been preserved. <span id="fr_12"></span>[1](#fn_12) For many
+history has been preserved. <span id="fr_12"></span>[1](#fn_12.md) For many
 centuries the quest of resins and balsams for embalming and for use in
 temple ritual, and wood for coffin-making, continued to provide the
 chief motives which induced the Egyptians to undertake sea-trafficking
@@ -387,10 +387,10 @@ physicians of the Ptolemaic and later ages to initiate in Alexandria the
 systematic dissection of the human body which popular prejudice forbade
 elsewhere, and especially in Greece itself. Upon this foundation the
 knowledge of anatomy and the science of medicine has been built
-up. <span id="fr_13"></span>[2](#fn_13) But in many other ways the
+up. <span id="fr_13"></span>[2](#fn_13.md) But in many other ways the
 practice of mummification exerted far-reaching effects, directly and
 indirectly, upon the development of medical and pharmaceutical knowledge
-and methods. <span id="fr_14"></span>[3](#fn_14)
+and methods. <span id="fr_14"></span>[3](#fn_14.md)
 
 <span id="page_10">p. 10</span>
 
@@ -406,7 +406,7 @@ many centuries afterward.
 It had a profound influence upon the history of human thought. The vague
 and ill-defined ideas of physiology and psychology, which had probably
 been developing since Aurignacian times <span
-id="fr_15"></span>[1](#fn_15) in Europe, were suddenly crystallized into
+id="fr_15"></span>[1](#fn_15.md) in Europe, were suddenly crystallized into
 a coherent structure and definite form by the musings of the Egyptian
 embalmer. But at the same time, if the new philosophy did not find
 expression in the invention of the first deities, it gave them a much
@@ -420,54 +420,54 @@ of mummification.
 
 ### Footnotes
 
-<span id="fn_2"></span>[1:1](eod05.htm#fr_2) An elaboration of a Lecture
+<span id="fn_2"></span>[1:1](eod05.htm#fr_2.md) An elaboration of a Lecture
 on the relationship of the Egyptian practice of mummification to the
 development of civilization delivered in the John Rylands Library, on 9
 February, 1916.
 
-<span id="fn_3"></span>[2:1](eod05.htm#fr_3) Introduction to the History
+<span id="fn_3"></span>[2:1](eod05.htm#fr_3.md) Introduction to the History
 of Religions," p. 486.
 
-<span id="fn_4"></span>[2:2](eod05.htm#fr_4) He might start upon this
+<span id="fn_4"></span>[2:2](eod05.htm#fr_4.md) He might start upon this
 journey of adventure by reading the article on "Incense" in Hastings’
 *Encyclopædia of Religion and Ethics*.
 
-<span id="fn_5"></span>[2:3](eod05.htm#fr_5) Samuel Laing, "Human
+<span id="fn_5"></span>[2:3](eod05.htm#fr_5.md) Samuel Laing, "Human
 Origins," Revised by Edward Clodd, 1903, p. 38.
 
-<span id="fn_6"></span>[3:1](eod05.htm#fr_6) "Ancient Hunters," 2nd
+<span id="fn_6"></span>[3:1](eod05.htm#fr_6.md) "Ancient Hunters," 2nd
 Edition, pp. 234 and 235.
 
-<span id="fn_7"></span>[4:1](eod05.htm#fr_7) On this subject see Elliot
+<span id="fn_7"></span>[4:1](eod05.htm#fr_7.md) On this subject see Elliot
 Smith and Pear, "Shell Shock and its Lessons," Manchester University
 Press, 1917, p. 59.
 
-<span id="fn_8"></span>[5:1](eod05.htm#fr_8) An interesting discussion
+<span id="fn_8"></span>[5:1](eod05.htm#fr_8.md) An interesting discussion
 of this matter by the late Professor William James will be found in his
 "Principles of Psychology," Vol. I, pp. 261 *et seq*.
 
-<span id="fn_9"></span>[5:2](eod05.htm#fr_9) 2 For a fuller discussion
+<span id="fn_9"></span>[5:2](eod05.htm#fr_9.md) 2 For a fuller discussion
 of certain phases of this matter see my address on "Primitive Man," in
 the *Proceedings of the British Academy*, 1917, especially pp. 23-50.
 
-<span id="fn_10"></span>[8:1](eod05.htm#fr_10) "The Influence of Ancient
+<span id="fn_10"></span>[8:1](eod05.htm#fr_10.md) "The Influence of Ancient
 Egyptian Civilization in the East and in America," *The Bulletin of the
 John Rylands Library*, Jan.-March, 1916.
 
-<span id="fn_11"></span>[8:2](eod05.htm#fr_11) "The Migrations of Early
+<span id="fn_11"></span>[8:2](eod05.htm#fr_11.md) "The Migrations of Early
 Culture," 1915, Manchester University Press: "The Evolution of the
 Rock-cut Tomb and the Dolmen," *Essays and Studies Presented to William
 Ridgeway*, Cambridge, 1913, p. 493: "Oriental Tombs and Temples,"
 *Journal of the Manchester Egyptian and Oriental Society*, 1914-1915, p.
 55.
 
-<span id="fn_12"></span>[9:1](eod05.htm#fr_12) "Ships as Evidence of the
+<span id="fn_12"></span>[9:1](eod05.htm#fr_12.md) "Ships as Evidence of the
 Migrations of Early Culture," Manchester University Press, 1917, p. 37.
 
-<span id="fn_13"></span>[9:2](eod05.htm#fr_13) "Egyptian Mummies,"
+<span id="fn_13"></span>[9:2](eod05.htm#fr_13.md) "Egyptian Mummies,"
 *Journal of Egyptian Archæology*, Vol. I, Part III, July, 1914, p. 189.
 
-<span id="fn_14"></span>[9:3](eod05.htm#fr_14) Such, for example, as its
+<span id="fn_14"></span>[9:3](eod05.htm#fr_14.md) Such, for example, as its
 influence in the acquisition of the means of preserving the tissues of
 the body, which has played so large a part in the development of the
 sciences of anatomy, pathology, and in fact biology in general. The
@@ -487,9 +487,9 @@ knowledge. Nor was the attitude of mind of the Egyptians such as to
 permit the acquisition of a real appreciation of the structure of the
 body.
 
-<span id="fn_15"></span>[10:1](eod05.htm#fr_15) See my address,
+<span id="fn_15"></span>[10:1](eod05.htm#fr_15.md) See my address,
 "Primitive Man," *Proc. Brit. Academy*, 1917.
 
 ------------------------------------------------------------------------
 
-[Next: The Beginning of Stone-Working](eod06)
+[Next: The Beginning of Stone-Working](eod06.md)

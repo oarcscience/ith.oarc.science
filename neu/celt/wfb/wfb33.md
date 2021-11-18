@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb32)  [Next](wfb34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb32)  [Next](wfb34.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ of anything whatever but the green hillock.
 
 ------------------------------------------------------------------------
 
-[Next: Helig's Hollow](wfb34)
+[Next: Helig's Hollow](wfb34.md)

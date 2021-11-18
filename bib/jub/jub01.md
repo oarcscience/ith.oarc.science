@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub00) 
-[Next](jub02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub00.md) 
+[Next](jub02.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ G. H. Box.
 
 ------------------------------------------------------------------------
 
-[Next: Short Account of the Book](jub02)
+[Next: Short Account of the Book](jub02.md)

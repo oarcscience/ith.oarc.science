@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj17)  [Next](chj19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj17)  [Next](chj19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -88,7 +88,7 @@ concerned itself very little about its missions to China.
 It will easily be understood that the sympathies of the Buddhists would
 be more with the Buddhist principalities on the north and west than with
 the Confucianist Chinese State of Tsin. <span
-id="fr_203"></span>[1](#fn_202) The "Bibliothecal catastrophe," or
+id="fr_203"></span>[1](#fn_202.md) The "Bibliothecal catastrophe," or
 "burning of the books," instituted by Hweiti in A.D. 306, must have been
 directed against the Buddhists and their importations, and appears to
 have been well deserved. It also possibly affected the Taoists. It would
@@ -111,7 +111,7 @@ were limited to the dominions of Hweiti and his Tsin successors.
 In the year 335 A.D. an Indian monk, of the name of Buddhoganga,
 persuaded the Emperor She-hu of the Posterior Chow to allow Chinese
 subjects to take monastic vows. The Chow were Huns, <span
-id="fr_204"></span>[1](#fn_203) in touch with the main body of their
+id="fr_204"></span>[1](#fn_203.md) in touch with the main body of their
 tribe, whose vanguards, driven from their homes by the same process of
 desiccation which had sent the Chow against China, were now on their way
 to Europe. The permission obtained by Buddhoganga enabled Buddhism, at
@@ -139,7 +139,7 @@ at the bottom of the sea. How suitable those weird books must have
 seemed for reconciling the occupants of the Dragon-throne to the faith
 of the great Sea-dragon! In the year 381 Hiao-wu-ti, Emperor of the
 Anterior Thsin, was the first ruler of China openly to profess the
-Buddhist faith. <span id="fr_205"></span>[1](#fn_204) He built large
+Buddhist faith. <span id="fr_205"></span>[1](#fn_204.md) He built large
 monasteries and did much for the spread of Buddhism in his extensive
 dominions. He was not a great gain, perhaps, to his new religion. He was
 a very sensual man, and was smothered by one of his concubines whom he
@@ -151,7 +151,7 @@ and from which they received Buddhist missionaries. In 375, two
 Christian missionaries, Palladius, a Goth, and Musæus, Bishop of Aduli,
 were sent from Galatia to India. Palladius turned back, Musæus went on
 from India to Bokhara, and there established a mission. <span
-id="fr_206"></span>[2](#fn_205) It was probably not without some
+id="fr_206"></span>[2](#fn_205.md) It was probably not without some
 results.
 
 Communications with India were restored. The peninsula was now under the
@@ -241,9 +241,9 @@ all be consumed, but the tongue only will remain untouched by the fire."
 So his disciples knew that his written words were true and correct.
 
 Among Kumarajīva's most notable translations were the Smaller
-Sukhāvati-vyūha, <span id="fr_207"></span>[1](#fn_206) the
+Sukhāvati-vyūha, <span id="fr_207"></span>[1](#fn_206.md) the
 Saddharmapundarika, and the three S’āstras <span
-id="fr_208"></span>[2](#fn_207) which form the basal teaching of the
+id="fr_208"></span>[2](#fn_207.md) which form the basal teaching of the
 Sanron sect. These last he had studied under Suryasoma in Kharachar, and
 it was to the expounding of them that he devoted the greater part of his
 energy. The result of his labours was the formation of a sect—the
@@ -285,7 +285,7 @@ Amidaist Patriarch Zendō. It has been said that he was a Manichæan: the
 <span class="contnote">\[paragraph continues\]</span> White Lotus
 Society still exists in China, I am told, and its members sing hymns
 which it is hard to distinguish from Christian ones. <span
-id="fr_209"></span>[1](#fn_208)
+id="fr_209"></span>[1](#fn_208.md)
 
 With Kumarajīva commences the period of Saddharmapundarika influence.
 That remarkable book (the connection between which and one of the
@@ -320,7 +320,7 @@ in preaching.
 
 At the head of the bands of those that shall believe are four great
 Bodhisattvas. The later chapters make us infer that "the Four" are
-Yakushi, Kwannon, Fugen, Myō-On. <span id="fr_210"></span>[1](#fn_209)
+Yakushi, Kwannon, Fugen, Myō-On. <span id="fr_210"></span>[1](#fn_209.md)
 Nichiren claimed that he himself was one of the Four. Whoever they are,
 they are beings of great power, and they stand around the Master, who is
 supreme, and uncircumscribed in time or space.
@@ -482,7 +482,7 @@ B. <span class="smallcaps">Note on the Three Amida Books.</span>
 The three books are—
 
 1\. The Larger Sukhāvati Vyūha, translated by Lokaraksha, <span
-id="fr_211"></span>[1](#fn_210) Anshikao, and numerous other translators
+id="fr_211"></span>[1](#fn_210.md) Anshikao, and numerous other translators
 during the first three centuries. The translation most in use now is
 that made by Sanghavarman in A.D. 252. "This Sūtra gives a history of
 the Tathāgata Amitābha, from the first spiritual impulses which led him
@@ -529,29 +529,29 @@ shall reach, as a fruit, the ninefold bliss of the Pure Land.
 
 ### Footnotes
 
-<span id="fn_202"></span>[154:1](chj18.htm#fr_203) There is a long and
+<span id="fn_202"></span>[154:1](chj18.htm#fr_203.md) There is a long and
 painstaking article on the history of the Tsin Dynasty by Ch. Pithon in
 China Review, vol. xii. p. 401. He shows that during this period the
 illegitimate states were the true props of Buddhism, just as in Germany
 it was the small states that favoured the Reformation.
 
-<span id="fn_203"></span>[155:1](chj18.htm#fr_204) In 375, the Huns,
+<span id="fn_203"></span>[155:1](chj18.htm#fr_204.md) In 375, the Huns,
 with the Alani and Ostrogoths, crossed the Volga and attacked the West
 Goths. The latter applied for help to the Emperor Valens, and it was on
 this occasion that they brought into prominence the bishops, priests,
 nuns, etc., whom they had according to their ancient rites. See the
 quotation from Eunapius at the end of the preceding chapter.
 
-<span id="fn_204"></span>[156:1](chj18.htm#fr_205) *China Review*, vol.
+<span id="fn_204"></span>[156:1](chj18.htm#fr_205.md) *China Review*, vol.
 xi. p. 308.
 
-<span id="fn_205"></span>[156:2](chj18.htm#fr_206) Mentioned by Cosmas
+<span id="fn_205"></span>[156:2](chj18.htm#fr_206.md) Mentioned by Cosmas
 Indicopleustes.
 
-<span id="fn_206"></span>[159:1](chj18.htm#fr_207) See note on the three
+<span id="fn_206"></span>[159:1](chj18.htm#fr_207.md) See note on the three
 Amida books at the end of this chapter.
 
-<span id="fn_207"></span>[159:2](chj18.htm#fr_208) The three S’astras
+<span id="fn_207"></span>[159:2](chj18.htm#fr_208.md) The three S’astras
 are (i) "the *Madhyamika-s’āstra*, or "Book of the Mean" (*Chūron*);
 (ii) the *S’ata sātra*, or "Collection of one hundred Essays"
 (*Hyaku-ron*) and (iii) *Dvādas’anikāya s’āstra*, or "Book of the Twelve
@@ -567,7 +567,7 @@ Buddha's personal teachings. It is not the object of this book to
 explain Buddhist philosophy. I leave these questions for discussion in a
 later volume.
 
-<span id="fn_208"></span>[161:1](chj18.htm#fr_209) I have had no
+<span id="fn_208"></span>[161:1](chj18.htm#fr_209.md) I have had no
 opportunities of verifying this statement, nor have I been able to find
 any account of the White Lotus Society in any publication accessible to
 me. The statement may be capable of verification by persons residing in
@@ -580,11 +580,11 @@ is said to be unique, no other exemplar being known to exist. Through
 the kindness of the librarian of that institution, a copy is now being
 made for me.
 
-<span id="fn_209"></span>[162:1](chj18.htm#fr_210) Their names in
+<span id="fn_209"></span>[162:1](chj18.htm#fr_210.md) Their names in
 Sanskrit are Bhaishajyarāja, Avalokites’vara, Samantabhadra, and
 Gadgadasavara.
 
-<span id="fn_210"></span>[166:1](chj18.htm#fr_211) With regard to the
+<span id="fn_210"></span>[166:1](chj18.htm#fr_211.md) With regard to the
 earliest extant Chinese translation of this work, the one made by
 Lokaraksha in A.D. 147, it is worthy of notice that Hōzō Biku, the
 earthly phase of Amida, there makes his vow before not the last, but the
@@ -607,4 +607,4 @@ clearly do not belong to the first stages of the Amida cult.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Buddhism Reaches Japan](chj19)
+[Next: Chapter XVII. Buddhism Reaches Japan](chj19.md)

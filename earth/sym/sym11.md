@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](sym10) 
-[Next](sym12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](sym10.md) 
+[Next](sym12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symzonia; Voyage of Discovery*, by Adam Seaborn (pseud. John Cleves
 Symmes?), \[1820\], at Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ Great numbers of small cattle and other domestic animals enriched the
 view, and a profusion of flowers, tastefully arranged in the vicinity of
 every house, filled the air with perfume, and charmed the eye with their
 variegated beauties. No fogs or vapours obscured the charming prospect,
-nor formed in wainrows <span id="fr_2"></span>[\*](#fn_2) to ornament
+nor formed in wainrows <span id="fr_2"></span>[\*](#fn_2.md) to ornament
 the scene, the mild influence of the sun not being sufficient to produce
 rapid exhalations, nor the nights cold enough to condense them into
 
@@ -410,10 +410,10 @@ sun be seen directly over head, without going to the external tropic.
 
 ### Footnotes
 
-<span id="fn_2"></span>[118:\*](sym11.htm#fr_2) Wainrows, rows formed
+<span id="fn_2"></span>[118:\*](sym11.htm#fr_2.md) Wainrows, rows formed
 for the convenience of loading wains; not winrows, as the learned
 Professor Silliman has it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](sym12)
+[Next: Chapter IX](sym12.md)

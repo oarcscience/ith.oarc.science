@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tsb02)  [Next](tsb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tsb02)  [Next](tsb04.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ heard of the monster GRENDEL, and of Daneland.
 <span id="img_illus03"></span>
 
 [![](tn/illus03.jpg)  
-Click to enlarge](img/illus03.jpg)
+Click to enlarge](img/illus03.jpg.md)
 
     ONCE upon a time, in the far north of what is now called Europe,
 there was a kingdom known as Geatsland, and its ruler was named Hygelac.
@@ -65,7 +65,7 @@ horns of bulls or the black wings of ravens.
 <span id="img_illus04"></span>
 
 [![](tn/illus04.jpg)  
-Click to enlarge](img/illus04.jpg)
+Click to enlarge](img/illus04.jpg.md)
 
     In battle these lords were fierce and terrible, and their war-cries
 froze the blood of their enemies. But in their own halls, in times of
@@ -113,7 +113,7 @@ forests.
 <span id="img_illus05"></span>
 
 [![](tn/illus05.jpg)  
-Click to enlarge](img/illus05.jpg)
+Click to enlarge](img/illus05.jpg.md)
 
     When he was sixteen years of age, Beowulf was challenged by one of
 his companions, Breca by name, to a swimming race in the sea. He
@@ -168,7 +168,7 @@ by the seated guests.
 <span id="img_illus06"></span>
 
 [![](tn/illus06.jpg)  
-Click to enlarge](img/illus06.jpg)
+Click to enlarge](img/illus06.jpg.md)
 
     Hygelac and his lady were served separately, from dishes more
 beautiful and precious than the rest, and the queen paused often to
@@ -181,7 +181,7 @@ placed before her.
 <span id="img_illus07"></span>
 
 [![](tn/illus07.jpg)  
-Click to enlarge](img/illus07.jpg)
+Click to enlarge](img/illus07.jpg.md)
 
     At the feet of the royal couple sat Beowulf, at a table especially
 prepared for the king's earls. These were the most favored and beloved
@@ -220,7 +220,7 @@ to the limit of their power.
 <span id="img_illus08"></span>
 
 [![](tn/illus08.jpg)  
-Click to enlarge](img/illus08.jpg)
+Click to enlarge](img/illus08.jpg.md)
 
     True, he thought, I have fought small dragons and hunted wild boars,
 but such hazards are mere games for boys, and I am now a man. My uncle
@@ -262,7 +262,7 @@ in eagerness to catch every word.
 <span id="img_illus09"></span>
 
 [![](tn/illus09.jpg)  
-Click to enlarge](img/illus09.jpg)
+Click to enlarge](img/illus09.jpg.md)
 
     He sang of the vast and frozen North, where winter lay upon the land
 for many, many months, and men fought in the gloomy light of the
@@ -347,7 +347,7 @@ suddenly a wild cry broke from his lips and he leaped from his seat.
 <span id="img_illus10"></span>
 
 [![](tn/illus10.jpg)  
-Click to enlarge](img/illus10.jpg)
+Click to enlarge](img/illus10.jpg.md)
 
     "Lords of Geatsland and earls of Hygelac," he shouted, as the
 minstrel finished the song, am the son of Ecgtheow and of Hygelac's
@@ -371,7 +371,7 @@ smiled at him in affection and pride.
 <span id="img_illus11"></span>
 
 [![](tn/illus11.jpg)  
-Click to enlarge](img/illus11.jpg)
+Click to enlarge](img/illus11.jpg.md)
 
     Once again Hygelac commanded silence among the guests in the
 drinking-hall, and turning to Beowulf said in a loud voice:
@@ -418,7 +418,7 @@ head-pieces and spears and swords in the kingdom.
 <span id="img_illus12"></span>
 
 [![](tn/illus12.jpg)  
-Click to enlarge](img/illus12.jpg)
+Click to enlarge](img/illus12.jpg.md)
 
     Special shields were made, of stout wood covered with thick hides
 and bound with iron and studded with golden nails. Rich cloaks of
@@ -536,7 +536,7 @@ once to Beowulf, he asked:
 <span id="img_illus13"></span>
 
 [![](tn/illus13.jpg)  
-Click to enlarge](img/illus13.jpg)
+Click to enlarge](img/illus13.jpg.md)
 
     "Who are you, stranger in Daneland, that you beach your boat with so
 much confidence upon these shores?"
@@ -578,4 +578,4 @@ set out at last upon their great adventure in the land of the Danes.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](tsb04)
+[Next: Part II](tsb04.md)

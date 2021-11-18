@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico111) 
-[Next](nico113) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico111.md) 
+[Next](nico113.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ arise, and every activity is completed by the attendant pleasure.
 ------------------------------------------------------------------------
 
 [Next: Chapter 5. Pleasures differ with the activities which they
-accompany and complete: criterion of the value of pleasures](nico113)
+accompany and complete: criterion of the value of pleasures](nico113.md)

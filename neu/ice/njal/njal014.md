@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal013)  [Next](njal015) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal013)  [Next](njal015.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ Varmalek to myself." When Glum told this to Hallgerda, she said,
 
 ------------------------------------------------------------------------
 
-[Next: 15. Thiostolf Goes To Glum's House](njal015)
+[Next: 15. Thiostolf Goes To Glum's House](njal015.md)

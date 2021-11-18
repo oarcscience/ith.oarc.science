@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof29)  [Next](sof31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof29)  [Next](sof31.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head28.png"></span> ![Header Chapter
-XXVIII.](img/head28.png)
+XXVIII.](img/head28.png.md)
 
 ## XXVIII.
 
@@ -43,7 +43,7 @@ common habit among illiterate people of sinking the sound of the letter
 syllable. Just, for instance, as we constantly hear, in the conversation
 of the uneducated, the words *pothecary* and *prentice* for *apothecary*
 and *apprentice*, shall we also find *cassia* used for
-*acacia*. [177](sof37.htm#xref_177) Unfortunately, however, this
+*acacia*. [177](sof37.htm#xref_177.md) Unfortunately, however, this
 corruption of *acacia* into *cassia* has not always been confined to the
 illiterate: but the long employment of the corrupted form has at length
 introduced it, in some instances, among a few of our writers. Even the
@@ -53,7 +53,7 @@ allowed himself to use the objectionable corruption, unwittingly
 influenced, in all probability, by the too frequent adoption of the
 latter word in the English lodges. In America, but few Masons fall into
 the error of speaking of the *Cassia*. The proper teaching of the
-*Acacia* is here well understood. [178](sof37.htm#xref_178)
+*Acacia* is here well understood. [178](sof37.htm#xref_178.md)
 
 The *cassia* of the ancients was, in fact, an ignoble plant having no
 mystic meaning and no sacred character, and was never elevated to a
@@ -63,7 +63,7 @@ other odorous herbs in the formation of a garland:--
 > "...violets pale,  
 > The poppy's flush, and dill which scents the gale,  
 > Cassia, and hyacinth, and daffodil,  
-> With yellow marigold the chaplet fill."  [179](sof37.htm#xref_179)
+> With yellow marigold the chaplet fill."  [179](sof37.htm#xref_179.md)
 
 Alston says that the "Cassia lignea of the ancients was the larger
 branches of the cinnamon tree, cut off with their bark and sent together
@@ -72,7 +72,7 @@ in the bark only;" but Ruæus says that it also sometimes denoted the
 lavender, and sometimes the rosemary.
 
 In Scripture the cassia is only three times
-mentioned, [180](sof37.htm#xref_180) twice as the translation of the
+mentioned, [180](sof37.htm#xref_180.md) twice as the translation of the
 Hebrew word *kiddak*, and once as the rendering of *ketzioth*, but
 always as referring to an aromatic plant which formed a constituent
 portion of some perfume. There is, indeed, strong reason for believing
@@ -82,13 +82,13 @@ Palestine, but was imported from the East.
 
 The *acacia*, on the contrary, was esteemed a sacred tree. It is the
 *acacia vera* of Tournefort, and the *mimosa nilotica* of Linnæus. It
-grew abundantly in the vicinity of Jerusalem, [181](sof37.htm#xref_181)
+grew abundantly in the vicinity of Jerusalem, [181](sof37.htm#xref_181.md)
 where it is still to be found, and is familiar to us all, in its modern
 uses at least, as the tree from which the gum arabic of commerce is
 obtained.
 
 The acacia, which, in Scripture, is always called
-*shittah* [182](sof37.htm#xref_182) and in the plural *shittim*, was
+*shittah* [182](sof37.htm#xref_182.md) and in the plural *shittim*, was
 esteemed a sacred wood among the Hebrews. Of it Moses was ordered to
 make the tabernacle, the ark of the covenant, the table for the
 showbread, and the rest of the sacred furniture. Isaiah, in recounting
@@ -133,10 +133,10 @@ to be found existing in all ages and nations. It was an ancient custom,
 which is not, even now, altogether disused, for mourners to carry in
 their hands at funerals a sprig of some evergreen, generally the cedar
 or the cypress, and to deposit it in the grave of the deceased.
-According to Dalcho, [183](sof37.htm#xref_183) the Hebrews always
+According to Dalcho, [183](sof37.htm#xref_183.md) the Hebrews always
 planted a sprig of the acacia at the head of the grave of a departed
 friend. Potter tells us that the ancient Greeks "had a custom of
-bedecking tombs with herbs and flowers."  [184](sof37.htm#xref_184) All
+bedecking tombs with herbs and flowers."  [184](sof37.htm#xref_184.md) All
 sorts of purple and white flowers were acceptable to the dead, but
 principally the amaranth and the myrtle. The very name of the former of
 these plants, which signifies "never fading," would seem to indicate the
@@ -152,7 +152,7 @@ of immortality, among the symbols of that degree, all of whose
 ceremonies are intended to teach us the great truth, that "the life of
 man, regulated by morality, faith, and justice, will be rewarded at its
 closing hour by the prospect of eternal bliss."
- [185](sof37.htm#xref_185) So, therefore, says Dr. Oliver, when the
+ [185](sof37.htm#xref_185.md) So, therefore, says Dr. Oliver, when the
 Master Mason exclaims, "My name is Acacia," it is equivalent to saying,
 "I have been in the grave,--I have triumphed over it by rising from the
 dead,--and being regenerated in the process, I have a claim to life
@@ -193,7 +193,7 @@ devotees of the Jewish altar had hid Religion from those who sought her,
 and she was only to be found where *innocence* survived, and under the
 banner of the divine Lamb; and as to ourselves, professing that we were
 to be distinguished by our *Acacy*, or as true *Acacians* in our
-religious faith and tenets."  [186](sof37.htm#xref_186)
+religious faith and tenets."  [186](sof37.htm#xref_186.md)
 
 Among the nations of antiquity, it was common thus by peculiar plants to
 symbolize the virtues and other qualities of the mind. In many instances
@@ -201,26 +201,26 @@ the symbolism has been lost to the moderns, but in others it has been
 retained, and is well understood, even at the present day. Thus the
 olive was adopted as the symbol of peace, because, says Lee, "its oil is
 very useful, in some way or other, in all arts manual which principally
-flourish in times of peace."  [187](sof37.htm#xref_187)
+flourish in times of peace."  [187](sof37.htm#xref_187.md)
 
 The quince among the Greeks was the symbol of love and
-happiness; [188](sof37.htm#xref_188) and hence, by the laws of Solon, in
+happiness; [188](sof37.htm#xref_188.md) and hence, by the laws of Solon, in
 Athenian marriages, the bride and bridegroom were required to eat a
 quince together.
 
-The palm was the symbol of victory; [189](sof37.htm#xref_189) and hence,
+The palm was the symbol of victory; [189](sof37.htm#xref_189.md) and hence,
 in the catacombs of Rome, the burial-place of so many of the early
 Christians, the palm leaf is constantly found as an emblem of the
 Christian's triumph over sin and death.
 
 The rosemary was a symbol of remembrance, and hence was used both at
 marriages and at funerals, the memory of the past being equally
-appropriate in both rites. [190](sof37.htm#xref_190)
+appropriate in both rites. [190](sof37.htm#xref_190.md)
 
 The parsley was consecrated to grief; and hence all the Greeks decked
 their tombs with it; and it was used to crown the conquerors in the
 Nemean games, which were of a funereal
-character. [191](sof37.htm#xref_191)
+character. [191](sof37.htm#xref_191.md)
 
 But it is needless to multiply instances of this symbolism. In adopting
 the acacia as a symbol of innocence, Masonry has but extended the
@@ -259,7 +259,7 @@ was considered as the symbol of their elemental trinity,--earth, water,
 and air,--because, as an aquatic plant, it derived its nutriment from
 all of these elements combined, its roots being planted in the earth,
 its stem rising through the water, and its leaves exposed to the
-air. [192](sof37.htm#xref_192) The Egyptians, who borrowed a large
+air. [192](sof37.htm#xref_192.md) The Egyptians, who borrowed a large
 portion of their religious rites from the East, adopted the lotus, which
 was also indigenous to their country, as a mystical plant, and made it
 the symbol of their initiation, or the birth into celestial light.
@@ -273,7 +273,7 @@ and as that luminary was the principal object of the popular worship,
 the lotus became in all their sacred rites a consecrated and mystical
 plant.
 
-The Egyptians also selected the *erica* [193](sof37.htm#xref_193) or
+The Egyptians also selected the *erica* [193](sof37.htm#xref_193.md) or
 heath, as a sacred plant. The origin of the consecration of this plant
 presents us with a singular coincidence, that will be peculiarly
 interesting to the masonic student. We are informed that there was a
@@ -283,9 +283,9 @@ the brow of a hill, near which an erica, or heath plant, grew; and
 hence, after the recovery of the body and the resurrection of the god,
 when she established the mysteries to commemorate her loss and her
 recovery, she adopted the erica, as a sacred
-plant, [194](sof37.htm#xref_194) in memory of its having pointed out the
+plant, [194](sof37.htm#xref_194.md) in memory of its having pointed out the
 spot where the *mangled remains* of Osiris were
-concealed. [195](sof37.htm#xref_195)
+concealed. [195](sof37.htm#xref_195.md)
 
 The *mistletoe* was the sacred plant of Druidism. Its consecrated
 character was derived from a legend of the Scandinavian mythology, and
@@ -307,14 +307,14 @@ to the powers of darkness; and annually it became an important rite
 among the Druids to proceed into the forest in search of the mistletoe,
 which, being found, was cut down by the Arch Druid, and its parts, after
 a solemn sacrifice, were distributed among the people.
-Clavel [196](sof37.htm#xref_196) very ingeniously remarks, that it is
+Clavel [196](sof37.htm#xref_196.md) very ingeniously remarks, that it is
 evident, in reference to the legend, that as Balder symbolizes the
 Sun-god, and Lok, Darkness, this search for the mistletoe was intended
 to deprive the god of Darkness of the power of destroying the god of
 Light. And the distribution of the fragments of the mistletoe among
 their pious worshippers, was to assure them that henceforth a similar
 attempt of Lok would prove abortive, and he was thus deprived of the
-means of effecting his design. [197](sof37.htm#xref_197)
+means of effecting his design. [197](sof37.htm#xref_197.md)
 
 The *myrtle* performed the same office of symbolism in the Mysteries of
 Greece as the lotus did in Egypt, or the mistletoe among the Druids. The
@@ -323,7 +323,7 @@ according to the popular theology, the myrtle was sacred to Proserpine,
 the goddess of the future life. Every classical scholar will remember
 the golden branch with which Aeneas was supplied by the Sibyl, before
 proceeding on his journey to the infernal
-regions [198](sof37.htm#xref_198)--a voyage which is now universally
+regions [198](sof37.htm#xref_198.md)--a voyage which is now universally
 admitted to be a mythical representation of the ceremonies of
 initiation.
 
@@ -362,6 +362,6 @@ grave.
 
 ------------------------------------------------------------------------
 
-[Next: XXIX. The Symbolism of Labor](sof31)
+[Next: XXIX. The Symbolism of Labor](sof31.md)
 
 </div>

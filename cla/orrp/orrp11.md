@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp10)  [Next](orrp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp10)  [Next](orrp12.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ WHEN we consider the absolute authority that astrology exercised under
 the Roman empire, we find it hard to escape a feeling of surprise. It is
 difficult to think that people could ever consider astrology as the most
 valuable of all arts and the queen of
-sciences, [7\_1](orrp20.htm#xref_7_1) and it is not easy for us to
+sciences, [7\_1](orrp20.htm#xref_7_1.md) and it is not easy for us to
 imagine the moral conditions that made such a phenomenon possible,
 because our state of mind to-day is very different. Little by little the
 conviction has gained ground that all that can be known about the
@@ -40,19 +40,19 @@ oracles could save them from falling into irretrievable desuetude. This
 great chimera changed religion as well as divination, its spirit
 penetrated everything. And truly, if, as some scholars still hold, the
 main feature of science is the ability to
-predict, [7\_2](orrp20.htm#xref_7_2) no branch of learning could compare
+predict, [7\_2](orrp20.htm#xref_7_2.md) no branch of learning could compare
 with this one, nor escape its influence.
 
 The success of astrology was connected with that of the Oriental
 religions, which lent it their support, as it in turn helped them. We
 have seen how it forced itself upon Semitic paganism, how it transformed
 Persian Mazdaism and even subdued the arrogance of the Egyptian
-sacerdotal caste. [7\_3](orrp20.htm#xref_7_3) Certain mystical treatises
+sacerdotal caste. [7\_3](orrp20.htm#xref_7_3.md) Certain mystical treatises
 ascribed to the old Pharaoh Nechepso and his confidant, the priest
 Petosiris, nebulous and abstruse works that became, one might say, the
 Bible of the new belief in the power of the stars, were translated into
 Greek, undoubtedly in Alexandria, about the year 150 before our
-era. [7\_4](orrp20.htm#xref_7_4) About the same time the Chaldean
+era. [7\_4](orrp20.htm#xref_7_4.md) About the same time the Chaldean
 genethlialogy began to spread in Italy, with regard to which Berosus, a
 priest of the god Baal, who came to Babylon from the island of Cos, had
 previously succeeded in arousing the curiosity of the Greeks. In 139 a
@@ -68,7 +68,7 @@ In the time of Pompey, the senator Nigidius Figulus, who was an ardent
 occultist, expounded the barbarian uranography in Latin. But the scholar
 whose authority contributed most to the final acceptance of sidereal
 divination was a Syrian philosopher of encyclopedic knowledge,
-Posidonius of Apamea, the teacher of Cicero. [7\_5](orrp20.htm#xref_7_5)
+Posidonius of Apamea, the teacher of Cicero. [7\_5](orrp20.htm#xref_7_5.md)
 The works of that erudite and religious writer influenced the
 development of the entire Roman theology more than anything else.
 
@@ -76,10 +76,10 @@ Under the empire, while the Semitic Baals and Mithra were triumphing,
 astrology manifested its power everywhere. During that period everybody
 bowed to it. The Cæsars became its fervent devotees, frequently at the
 expense of the ancient cults. Tiberius neglected the gods because he
-believed only in fatalism, [7\_6](orrp20.htm#xref_7_6) and Otho, blindly
+believed only in fatalism, [7\_6](orrp20.htm#xref_7_6.md) and Otho, blindly
 confiding in the Oriental seer, marched against Vitellius in spite of
 the baneful presages that affrighted his official
-clergy. [7\_7](orrp20.htm#xref_7_7) The most earnest scholars, Ptolemy
+clergy. [7\_7](orrp20.htm#xref_7_7.md) The most earnest scholars, Ptolemy
 under the Antonines for instance, expounded the principles of that
 pseudo-science, and the very best minds received them. In fact, scarcely
 anybody made a distinction between astronomy and its illegitimate
@@ -94,8 +94,8 @@ likeness of
 <span id="page_165">p. 165</span>
 
 the seven spheres in which the planets that rule our destinies
-move. [7\_8](orrp20.htm#xref_7_8) This Asiatic divination was first
-aristocratic [7\_9](orrp20.htm#xref_7_9)--because the obtaining of an
+move. [7\_8](orrp20.htm#xref_7_8.md) This Asiatic divination was first
+aristocratic [7\_9](orrp20.htm#xref_7_9.md)--because the obtaining of an
 exact horoscope was a complicated matter, and consultations were
 expensive--but it promptly became popular, especially in the urban
 centers where Oriental slaves gathered in large numbers. The learned
@@ -107,7 +107,7 @@ a life to the very hour, for the moment of birth determined that of
 death:
 
 *Nascentes morimur, finisque ab origine
-pendet*. [7\_10](orrp20.htm#xref_7_10)
+pendet*. [7\_10](orrp20.htm#xref_7_10.md)
 
 Soon neither important nor small matters were undertaken without
 consulting the astrologer. His previsions were sought not only in regard
@@ -117,17 +117,17 @@ journey, or a change of domicile; but the most trifling acts of
 every-day life were gravely submitted to his sagacity. People would no
 longer take a bath, go to the barber, change their clothes or manicure
 their fingernails, without first awaiting the propitious
-moment. [7\_11](orrp20.htm#xref_7_11) The collections of
-"initiatives" <span id="fr_22"></span>[1](#fn_22) that have come to us
+moment. [7\_11](orrp20.htm#xref_7_11.md) The collections of
+"initiatives" <span id="fr_22"></span>[1](#fn_22.md) that have come to us
 contain questions that make us smile: Will a son who is about to be born
 have a big nose? Will a girl just coming into this world have gallant
-adventures? [7\_12](orrp20.htm#xref_7_12) And certain precepts sound
+adventures? [7\_12](orrp20.htm#xref_7_12.md) And certain precepts sound
 almost like burlesques: he who gets his hair cut while
 
 <span id="page_166">p. 166</span>
 
 the moon is in her increase will become bald--evidently by
-analogy. [7\_13](orrp20.htm#xref_7_13)
+analogy. [7\_13](orrp20.htm#xref_7_13.md)
 
 The entire existence of states and individuals, down to the slightest
 incidents, was thought to depend on the stars. The absolute control they
@@ -197,24 +197,24 @@ worthlessness. Errors must have occurred frequently and must have been
 followed by cruel disillusionment. Having lost a child at the age of
 four for whom a brilliant future had been predicted, the parents
 stigmatized in the epitaph the "lying mathematician whose great renown
-deluded them." [7\_14](orrp20.htm#xref_7_14) Nobody thought of denying
+deluded them." [7\_14](orrp20.htm#xref_7_14.md) Nobody thought of denying
 the possibility of such errors. Manuscripts have been preserved, wherein
 the makers of horoscopes themselves candidly and learnedly explain how
 they were mistaken in such and such a case, because they had not taken
 into account some one of the data of the
-problem. [7\_15](orrp20.htm#xref_7_15) Manilius, in spite of his
+problem. [7\_15](orrp20.htm#xref_7_15.md) Manilius, in spite of his
 unlimited confidence in the power of reason, hesitated at the complexity
 of an immense task that seemed to exceed the capacity of human
-intelligence, [7\_16](orrp20.htm#xref_7_16) and in the second century,
+intelligence, [7\_16](orrp20.htm#xref_7_16.md) and in the second century,
 Vettius Valens bitterly denounced the contemptible bunglers who claimed
 to be prophets, without having had the long training necessary, and who
 thereby cast odium and ridicule upon astrology, in the name of which
-they pretended to operate. [7\_17](orrp20.htm#xref_7_17) It must be
+they pretended to operate. [7\_17](orrp20.htm#xref_7_17.md) It must be
 remembered that astrology, like medicine, was not only a science, <span
-id="fr_23"></span>[1](#fn_23) but also an art. <span
-id="fr_24"></span>[2](#fn_24) This comparison, which sounds irreverent
+id="fr_23"></span>[1](#fn_23.md) but also an art. <span
+id="fr_24"></span>[2](#fn_24.md) This comparison, which sounds irreverent
 to-day, was a flattering one in the eyes of the
-ancients. [7\_18](orrp20.htm#xref_7_18) To observe the sky was as
+ancients. [7\_18](orrp20.htm#xref_7_18.md) To observe the sky was as
 delicate a task as to observe the human body; to cast the horoscope of a
 newly born child, just as perilous as to make a diagnosis, and to
 interpret the cosmic symptoms just as hard as to interpret
@@ -255,7 +255,7 @@ it implied belief in postulates that could not be proved--the same thing
 might be said of almost all of our poor human knowledge, and even our
 systems of physics and cosmology in the last analysis are based upon
 hypotheses--but that astrology was born and reared in the temples of
-Chaldea and Egypt. [7\_19](orrp20.htm#xref_7_19) Even in the Occident it
+Chaldea and Egypt. [7\_19](orrp20.htm#xref_7_19.md) Even in the Occident it
 never forgot its sacerdotal origin and never more than half freed itself
 from religion, whose offspring it was. Here lies the connection between
 astrology and the Oriental religions, and I wish to draw the reader's
@@ -266,7 +266,7 @@ reveal this essential feature only very imperfectly. The Byzantines
 stripped this pseudo-science, always regarded suspiciously by the
 church, of everything that savored of paganism. Their process of
 purification can, in some instances, be traced from manuscript to
-manuscript. [7\_20](orrp20.htm#xref_7_20) If they retained the name of
+manuscript. [7\_20](orrp20.htm#xref_7_20.md) If they retained the name of
 some god or hero of mythology, the only way they dared to write it was
 by cryptography. They have especially preserved purely didactic
 treatises, the most perfect type of which is Ptolemy's Tetrabiblos which
@@ -276,24 +276,24 @@ doctrines are drily summarized. During the classic age works of a
 different character were commonly read. Many "Chaldeans" interspersed
 their cosmological calculations and theories with moral considerations
 and mystical speculations. In the first part of a work that he names
-"Vision," <span id="fr_25"></span>[1](#fn_25) Critodemus, in prophetic
+"Vision," <span id="fr_25"></span>[1](#fn_25.md) Critodemus, in prophetic
 language, represents the truths he reveals
 
 <span id="page_171">p. 171</span>
 
 as a secure harbor of refuge from the storms of this world, and he
 promises his readers to raise them to the rank of
-immortals. [7\_21](orrp20.htm#xref_7_21) Vettius Valens, a contemporary
+immortals. [7\_21](orrp20.htm#xref_7_21.md) Vettius Valens, a contemporary
 of Marcus Aurelius, implored them in solemn terms, not to divulge to the
 ignorant and impious the arcana he was about to acquaint them
-with. [7\_22](orrp20.htm#xref_7_22) The astrologers liked to assume the
+with. [7\_22](orrp20.htm#xref_7_22.md) The astrologers liked to assume the
 appearance of incorruptible and holy priests and to consider their
-calling a sacerdotal one. [7\_23](orrp20.htm#xref_7_23) In fact, the two
+calling a sacerdotal one. [7\_23](orrp20.htm#xref_7_23.md) In fact, the two
 ministries sometimes combined: A dignitary of the Mithraic clergy called
-himself *studiosus astrologiae* [7\_24](orrp20.htm#xref_7_24) in his
+himself *studiosus astrologiae* [7\_24](orrp20.htm#xref_7_24.md) in his
 epitaph, and a member of a prominent family of Phrygian prelates
 celebrated in verse the science of divination which enabled him to issue
-a number of infallible predictions. [7\_25](orrp20.htm#xref_7_25)
+a number of infallible predictions. [7\_25](orrp20.htm#xref_7_25.md)
 
 The sacred character of astrology revealed itself in some passages that
 escaped the orthodox censure and in the tone some of its followers
@@ -308,7 +308,7 @@ effluvia. The stars, inexhaustible generators of energy, constantly act
 upon the earth and man--upon man, the epitome of all nature, a
 "microcosm" whose every element corresponds to some part of the starry
 sky. This was, in a few words, the theory formulated by the Stoic
-disciples of the Chaldeans; [7\_26](orrp20.htm#xref_7_26) but if we
+disciples of the Chaldeans; [7\_26](orrp20.htm#xref_7_26.md) but if we
 divest it of all the philosophic garments with which it has been
 adorned, what do we find? The idea of sympathy,
 
@@ -321,7 +321,7 @@ of their own endowed with latent power, but we shall speak of this later
 on, when taking up the subject of magic. Even before the propagation of
 the Oriental religions, popular superstition in Italy and Greece
 attributed a number of odd actions to the sun, the moon, and the
-constellations as well. [7\_27](orrp20.htm#xref_7_27)
+constellations as well. [7\_27](orrp20.htm#xref_7_27.md)
 
 The Chaldaei, however, claimed a predominant power for the stars. In
 fact, they were regarded as gods *par excellence* by the religion of the
@@ -345,7 +345,7 @@ observation or experience? Sometimes. Saturn made people apathetic
 <span id="page_173">p. 173</span>
 
 and irresolute, because it moved most slowly of all the
-planets. [7\_28](orrp20.htm#xref_7_28) But in most instances purely
+planets. [7\_28](orrp20.htm#xref_7_28.md) But in most instances purely
 mythological reasons inspired the precepts of astrology. The seven
 planets were associated with certain deities, Mars, Venus, or Mercury,
 whose character and history are known to all. It is sufficient simply to
@@ -365,7 +365,7 @@ These constellations, then, assumed to a certain extent the good and the
 bad qualities of the mythical or historical beings that had been
 transferred upon them. For instance, the serpent, which shines near the
 northern pole, was the author of medical cures, because it was the
-animal sacred to Æsculapius. [7\_29](orrp20.htm#xref_7_29)
+animal sacred to Æsculapius. [7\_29](orrp20.htm#xref_7_29.md)
 
 The religious foundation of the rules of astrology, however, can not
 always be recognized. Sometimes it is entirely forgotten, and in such
@@ -392,7 +392,7 @@ elements, taken from all the religions of the Orient, were combined in
 the uranography of the ancients, and in the power ascribed to the
 phantoms that it evoked, vibrates in the indistinct echo of ancient
 devotions that are often completely unknown to
-us. [7\_30](orrp20.htm#xref_7_30)
+us. [7\_30](orrp20.htm#xref_7_30.md)
 
 Astrology, then, was religious in its origin and in its principles. It
 was religious also in its close relation to the Oriental religions,
@@ -400,7 +400,7 @@ especially those of the Syrian Baals and of Mithra; finally, it was
 religious in the effects that it produced. I do not mean the effects
 expected from a constellation in any particular instance: as for example
 the power to evoke the gods that were subject to their
-domination. [7\_31](orrp20.htm#xref_7_31) But I have in mind the general
+domination. [7\_31](orrp20.htm#xref_7_31.md) But I have in mind the general
 influence those doctrines exercised upon Roman paganism.
 
 When the Olympian gods were incorporated among the stars, when Saturn
@@ -410,7 +410,7 @@ and Jupiter became planets and
 
 the celestial virgin a sign of the zodiac, they assumed a character very
 different from the one they had originally possessed. It has been
-shown [7\_32](orrp20.htm#xref_7_32) how, in Syria, the idea of an
+shown [7\_32](orrp20.htm#xref_7_32.md) how, in Syria, the idea of an
 infinite repetition of cycles of years according to which the celestial
 revolutions took place, led to the conception of divine eternity, how
 the theory of a fatal domination of the stars over the earth brought
@@ -422,20 +422,20 @@ astrology was plain to the Latin as well as to the Semitic races, and
 caused a rapid transformation of the ancient idolatry. As in Syria, the
 sun, which the astrologers called the leader of the planetary choir,
 "who is established as king and leader of the whole
-world," [7\_33](orrp20.htm#xref_7_33) necessarily became the highest
+world," [7\_33](orrp20.htm#xref_7_33.md) necessarily became the highest
 power of the Roman pantheon.
 
 Astrology also modified theology, by introducing into this pantheon a
 great number of new gods, some of whom were singularly abstract.
 Thereafter man worshiped the constellations of the firmament,
-[particularly](errata.htm#3) the twelve signs of the zodiac, every one
+[particularly](errata.htm#3.md) the twelve signs of the zodiac, every one
 of which had its mythologic legend; the sky (*Caelus*) itself, because
 it was considered the first cause, and was sometimes confused with the
 supreme being; the four elements, the antithesis and perpetual
 transmutations of which produced all tangible phenomena, and which were
 often symbolized by a group of animals ready to devour each
-other; [7\_34](orrp20.htm#xref_7_34) finally, time and its
-subdivisions. [7\_35](orrp20.htm#xref_7_35)
+other; [7\_34](orrp20.htm#xref_7_34.md) finally, time and its
+subdivisions. [7\_35](orrp20.htm#xref_7_35.md)
 
 The calendars were religious before they were secular; their purpose was
 not, primarily, to record fleeting
@@ -448,21 +448,21 @@ return of certain moments is associated with the appearance of certain
 phenomena; they have, therefore, a special efficacy, and are endowed
 with a sacred character. By determining periods with mathematical
 exactness, astrology continued to see in them "a divine
-power," [7\_36](orrp20.htm#xref_7_36) to use Zeno's term. Time, that
+power," [7\_36](orrp20.htm#xref_7_36.md) to use Zeno's term. Time, that
 regulates the course of the stars and the transubstantiation of the
 elements, was conceived of as the master of the gods and the primordial
 principle, and was likened to destiny. Each part of its infinite
 duration brought with it some propitious or evil movement of the sky
 that was anxiously observed, and transformed the ever modified universe.
 The centuries, the years and the seasons, placed into relation with the
-four winds and the four cardinal points, the [twelve](errata.htm#4)
+four winds and the four cardinal points, the [twelve](errata.htm#4.md)
 months connected with the zodiac, the day and the night, the twelve
 hours, all were personified and deified, as the authors of every change
 in the universe. The allegorical figures contrived for these
 abstractions by astrological paganism did not even perish with it. The
 symbolism it had disseminated outlived it, and until the Middle Ages
 these pictures of fallen gods were reproduced indefinitely in sculpture,
-mosaics, and in Christian miniatures. [7\_38](orrp20.htm#xref_7_38)
+mosaics, and in Christian miniatures. [7\_38](orrp20.htm#xref_7_38.md)
 
 Thus astrology entered into all religious ideas, and the doctrines of
 the destiny of the world and of man harmonized with its teachings.
@@ -483,14 +483,14 @@ same position, they were forced to act in identically the same manner as
 before. This Babylonian theory, an anticipation of that of the "eternal
 return of things," which Nietzsche boasts of having discovered, enjoyed
 lasting popularity during antiquity, and in various forms came down to
-the Renaissance. [7\_39](orrp20.htm#xref_7_39) The belief that the world
+the Renaissance. [7\_39](orrp20.htm#xref_7_39.md) The belief that the world
 would be destroyed by fire, a theory also spread abroad by the Stoics,
 found a new support in these cosmic speculations.
 
 Astrology, however, revealed the future not only of the universe, but
 also of man. According to a Chaldeo-Persian doctrine, accepted by the
 pagan mystics and previously pointed out by
-us, [7\_40](orrp20.htm#xref_7_40) a bitter necessity compelled the souls
+us, [7\_40](orrp20.htm#xref_7_40.md) a bitter necessity compelled the souls
 that dwell in great numbers on the celestial heights, to descend upon
 this earth and to animate certain bodies that are to hold them in
 captivity. In descending to the earth they travel through the spheres of
@@ -513,20 +513,20 @@ concerning the relation of heaven and earth, the nature of God, the
 existence of the world, and their own destiny. Astrology was really the
 first scientific theology. Hellenistic logic arranged the Oriental
 doctrines properly, combined them with the Stoic philosophy and built
-them up into a system of [indisputable](errata.htm#5) grandeur, an ideal
+them up into a system of [indisputable](errata.htm#5.md) grandeur, an ideal
 reconstruction of the universe, the powerful assurance of which inspired
 Manilius to sublime language when he was not exhausted by his efforts to
-master an ill-adapted theme. [7\_41](orrp20.htm#xref_7_41) The vague and
+master an ill-adapted theme. [7\_41](orrp20.htm#xref_7_41.md) The vague and
 irrational notion of "sympathy" is transformed into a deep sense of the
 relationship between the human soul, an igneous substance, and the
 divine stars, and this feeling is strengthened by
-thought. [7\_42](orrp20.htm#xref_7_42) The contemplation of the sky has
+thought. [7\_42](orrp20.htm#xref_7_42.md) The contemplation of the sky has
 become a communion. During the splendor of night the mind of man became
 intoxicated with the light streaming from above; born on the wings of
 enthusiasm, he ascended into the sacred choir of the stars and took part
 in their harmonious movements. "He participates in their immortality,
 and, before his appointed hour, converses with the
-gods." [7\_43](orrp20.htm#xref_7_43) In spite of the subtle precision
+gods." [7\_43](orrp20.htm#xref_7_43.md) In spite of the subtle precision
 the Greeks always maintained in their speculations, the feeling that
 permeated astrology down to the end of paganism never belied its
 Oriental and religious origin.
@@ -534,7 +534,7 @@ Oriental and religious origin.
 <span id="page_179">p. 179</span>
 
 The most essential principle of astrology was that of fatalism. As the
-poet says: [7\_44](orrp20.htm#xref_7_44)
+poet says: [7\_44](orrp20.htm#xref_7_44.md)
 
 "*Fata regunt orbem, certa stant omnia lege*."
 
@@ -552,17 +552,17 @@ the pronunciamentos and in the anarchy of the third century, blind
 chance seemed to play with the life of every one according to its fancy,
 and it can easily be understood that the ephemeral rulers of that
 period, like the masses, saw in chance the sovereign disposer of their
-fates. [7\_45](orrp20.htm#xref_7_45)
+fates. [7\_45](orrp20.htm#xref_7_45.md)
 
 The power of this fatalist conception during antiquity may be measured
 by its long persistence, at least in the Orient, where it originated.
-Starting from Babylonia, [7\_46](orrp20.htm#xref_7_46) it spread over
+Starting from Babylonia, [7\_46](orrp20.htm#xref_7_46.md) it spread over
 the entire Hellenic world, as early as the Alexandrian period, and
 towards the end of paganism a considerable part of the efforts of the
 Christian apologists was directed against
-it. [7\_47](orrp20.htm#xref_7_47) But it was destined to outlast all
+it. [7\_47](orrp20.htm#xref_7_47.md) But it was destined to outlast all
 attacks, and to impose itself even on
-Islam. [7\_48](orrp20.htm#xref_7_48) In Latin Europe, in spite of the
+Islam. [7\_48](orrp20.htm#xref_7_48.md) In Latin Europe, in spite of the
 anathemas of the church, the belief remained confusedly
 
 <span id="page_180">p. 180</span>
@@ -572,7 +572,7 @@ somewhat
 
 "Per ovra delle rote magne,  
 Che drizzan ciascun seme ad alcun fine  
-Secondo che le stella son campagne." [7\_49](orrp20.htm#xref_7_49)
+Secondo che le stella son campagne." [7\_49](orrp20.htm#xref_7_49.md)
 
 The weapons used by the ecclesiastic writers in contending against this
 sidereal fatalism were taken from the arsenal of the old Greek
@@ -580,16 +580,16 @@ dialectics. In general, they were those that all defenders of free will
 had used for centuries: determinism destroys responsibility; rewards and
 punishments are absurd if man acts under a necessity that compels him,
 if he is born a hero or a criminal. We shall not dwell on these
-metaphysical discussions, [7\_50](orrp20.htm#xref_7_50) but there is one
+metaphysical discussions, [7\_50](orrp20.htm#xref_7_50.md) but there is one
 argument that is more closely connected with our subject, and therefore
 should be mentioned. If we live under an immutable fate, no supplication
 can change its decisions; religion is unavailing, it is useless to ask
 the oracles to reveal the secrets of a future which nothing can change,
 and prayers, to use one of Seneca's expressions, are nothing but "the
-solace of diseased minds." [7\_51](orrp20.htm#xref_7_51)
+solace of diseased minds." [7\_51](orrp20.htm#xref_7_51.md)
 
 And, doubtless, some adepts of astrology, like the Emperor
-Tiberius, [7\_52](orrp20.htm#xref_7_52) neglected the practice of
+Tiberius, [7\_52](orrp20.htm#xref_7_52.md) neglected the practice of
 religion, because they were convinced that fate governed all things.
 Following the example set by the Stoics, they made absolute submission
 to an almighty fate and joyful acceptance of the inevitable a moral
@@ -602,15 +602,15 @@ them, and
 <span id="page_181">p. 181</span>
 
 knows how to make the hardest servitude
-tolerable. [7\_53](orrp20.htm#xref_7_53) The masses, however, never
+tolerable. [7\_53](orrp20.htm#xref_7_53.md) The masses, however, never
 reached that height of resignation. They looked at astrology far more
 from a religious than from a logical
-standpoint. [7\_54](orrp20.htm#xref_7_54) The planets and constellations
+standpoint. [7\_54](orrp20.htm#xref_7_54.md) The planets and constellations
 were not only cosmic forces, whose favorable or inauspicious action grew
 weaker or stronger according to the turnings of a course established for
 eternity; they were deities who saw and heard, who were glad or sad, who
 had a voice and sex, who were prolific or sterile, gentle or savage,
-obsequious or arrogant. [7\_55](orrp20.htm#xref_7_55) Their anger could
+obsequious or arrogant. [7\_55](orrp20.htm#xref_7_55.md) Their anger could
 therefore be soothed and their favor obtained through rites and
 offerings; even the adverse stars were not unrelenting and, could be
 persuaded through sacrifices and supplications. The narrow and pedantic
@@ -620,7 +620,7 @@ influence of the stars. As late as the fourth century the pagans of Rome
 who were about to marry, or to make a purchase, or to solicit a public
 office, went to the diviner for his prognostics, at the same time
 praying to Fate for prosperity in their
-undertaking. [7\_56](orrp20.htm#xref_7_56) Thus a fundamental antinomy
+undertaking. [7\_56](orrp20.htm#xref_7_56.md) Thus a fundamental antinomy
 manifested itself all through the development of astrology, which
 pretended to be an exact science, but always remained a sacerdotal
 theology.
@@ -638,10 +638,10 @@ Ananke. But he no longer had confidence in the ceremonies of his old
 religion. The new powers that had taken possession of heaven had to be
 propitiated by new means. The Oriental religions themselves offered a
 remedy against the evils they had created, and taught powerful and
-mysterious processes for conjuring fate. [7\_57](orrp20.htm#xref_7_57)
+mysterious processes for conjuring fate. [7\_57](orrp20.htm#xref_7_57.md)
 And side by side with astrology we see magic, a more pernicious
 aberration, gaining
-[ground](errata.htm#6). [7\_58](orrp20.htm#xref_7_58)
+[ground](errata.htm#6). [7\_58](orrp20.htm#xref_7_58.md)
 
 \*    \*    \*
 
@@ -669,7 +669,7 @@ reasoning
 
 as astrology. Born during the same period in the primitive civilizations
 of the Orient, both were based on a number of common
-ideas. [7\_59](orrp20.htm#xref_7_59) Magic, like astrology, proceeded
+ideas. [7\_59](orrp20.htm#xref_7_59.md) Magic, like astrology, proceeded
 from the principle of universal sympathy, yet it did not consider the
 relation existing between the stars traversing the heavens, and physical
 or moral phenomena, but the relation between whatever bodies there are.
@@ -740,7 +740,7 @@ dubious knowledge of fetichists who claimed to have control over the
 spirits that peopled nature and animated everything, and who claimed
 that they communicated with these spirits by means of rites known to
 themselves alone. Magic has been cleverly defined as "the strategy of
-animism." [7\_60](orrp20.htm#xref_7_60) But, just as the growing power
+animism." [7\_60](orrp20.htm#xref_7_60.md) But, just as the growing power
 ascribed by the Chaldeans to the sidereal deities transformed the
 original astrology, so primitive sorcery assumed a different character
 when the world of the gods, conceived after the image of man, separated
@@ -760,7 +760,7 @@ the audacious operator, who feared them, although invoking
 their aid. Thus the incantation often assumed the shape of a prayer
 addressed to a power stronger than man, and magic became a religion. Its
 rites developed side by side with the canonical liturgies, and
-frequently encroached on them. [7\_61](orrp20.htm#xref_7_61) The only
+frequently encroached on them. [7\_61](orrp20.htm#xref_7_61.md) The only
 barrier between them was the vague and constantly shifting borderline
 that limits the neighboring domains of religion and superstition.
 
@@ -792,14 +792,14 @@ Originally the adepts in this dubious art were despised.
 generally equivocal beggar-women who plied their miserable trade in the
 lowest quarters of the slums. But with the invasion of the Oriental
 religions the magician began to receive more consideration, and his
-condition improved. [7\_62](orrp20.htm#xref_7_62) He was honored, and
+condition improved. [7\_62](orrp20.htm#xref_7_62.md) He was honored, and
 feared even more. During the second century scarcely anybody would have
 doubted his power to call up divine apparitions, converse with the
 superior spirits and even translate himself bodily into the
-heavens. [7\_63](orrp20.htm#xref_7_63)
+heavens. [7\_63](orrp20.htm#xref_7_63.md)
 
 Here the victorious progress of the Oriental religions shows itself. The
-Egyptian ritual [7\_64](orrp20.htm#xref_7_64) originally was nothing but
+Egyptian ritual [7\_64](orrp20.htm#xref_7_64.md) originally was nothing but
 a collection of magical practices, properly speaking. The religious
 community imposed its will upon the gods by means of prayers or even
 threats. The gods were compelled to obey the officiating priest, if the
@@ -813,7 +813,7 @@ advanced. Until the end of paganism they remained so closely associated
 that it is sometimes difficult to distinguish the texts of one from
 those of the other.
 
-The Chaldeans [7\_65](orrp20.htm#xref_7_65) also were past masters of
+The Chaldeans [7\_65](orrp20.htm#xref_7_65.md) also were past masters of
 sorcery, well versed in the knowledge of presages and experts in
 conjuring the evils which the presages foretold. In Mesopotamia, where
 they were confidential advisers of the kings, the magicians belonged to
@@ -827,14 +827,14 @@ The immense prestige that continued to surround it, assured its
 persistence after the fall of Nineveh and Babylon. Its tradition was
 still alive under the Cæsars, and a number of enchanters rightly or
 wrongly claimed to possess the ancient wisdom of
-Chaldea. [7\_66](orrp20.htm#xref_7_66)
+Chaldea. [7\_66](orrp20.htm#xref_7_66.md)
 
 And the thaumaturgus, who was supposed to be the heir of the archaic
 priests, assumed a wholly sacerdotal appearance at Rome. Being an
 inspired sage who received confidential communications from heavenly
 spirits, he gave to his life and to his appearance a dignity almost
 equal to that of the philosopher. The common people soon confused the
-two, [7\_67](orrp20.htm#xref_7_67) and the Orientalizing philosophy of
+two, [7\_67](orrp20.htm#xref_7_67.md) and the Orientalizing philosophy of
 the last period of paganism actually accepted and justified all the
 superstitions of magic. Neo-Platonism, which concerned itself to a large
 extent with demonology, leaned more and more towards theurgy, and was
@@ -842,11 +842,11 @@ finally completely absorbed by it.
 
 But the ancients expressly distinguished, "magic," which was always
 under suspicion and disapproved of, from the legitimate and honorable
-art for which the name "theurgy" [7\_68](orrp20.htm#xref_7_68) was
-invented. The term "magician," <span id="fr_26"></span>[1](#fn_26) which
+art for which the name "theurgy" [7\_68](orrp20.htm#xref_7_68.md) was
+invented. The term "magician," <span id="fr_26"></span>[1](#fn_26.md) which
 applied to all performers of miracles, properly means the priests of
 Mazdaism, and a well attested tradition makes the
-Persians [7\_69](orrp20.htm#xref_7_69) the authors of the real magic,
+Persians [7\_69](orrp20.htm#xref_7_69.md) the authors of the real magic,
 that called "black magic" by the Middle Ages. If they did not invent
 it--because it is as old as humanity--they were at least the first to
 place it upon a doctrinal foundation and to assign to it a place
@@ -861,12 +861,12 @@ Under what influences did the Persian magic come into existence? When
 and how did it spread? These are questions that are not well elucidated
 yet. The intimate fusion of the religious doctrines of the Iranian
 conquerors with those of the native clergy, which took place at Babylon,
-occurred in this era of belief, [7\_70](orrp20.htm#xref_7_70), and the
+occurred in this era of belief, [7\_70](orrp20.htm#xref_7_70.md), and the
 magicians that were established in Mesopotamia combined their secret
 traditions with the rites and formulas codified by the Chaldean
 sorcerers. The universal curiosity of the Greeks soon took note of this
 marvelous science. Naturalist philosophers like
-Democritus, [7\_71](orrp20.htm#xref_7_71) the great traveler, seem to
+Democritus, [7\_71](orrp20.htm#xref_7_71.md) the great traveler, seem to
 have helped themselves more than once from the treasure of observations
 collected by the Oriental priests. Without a doubt they drew from these
 incongruous compilations, in which truth was mingled with the absurd and
@@ -883,14 +883,14 @@ some of the recipes known wherever the dispersion brought
 
 <span id="page_190">p. 190</span>
 
-them. [7\_72](orrp20.htm#xref_7_72) Later, a more immediate influence
+them. [7\_72](orrp20.htm#xref_7_72.md) Later, a more immediate influence
 was exercised upon the Roman world by the Persian colonies of Asia
-Minor, [7\_73](orrp20.htm#xref_7_73) who retained an obstinate faith in
+Minor, [7\_73](orrp20.htm#xref_7_73.md) who retained an obstinate faith in
 their ancient national beliefs.
 
 The particular importance attributed to magic by the Mazdeans is a
 necessary consequence of their dualist system, which has been treated by
-us before. [7\_74](orrp20.htm#xref_7_74) Ormuzd, residing in the heavens
+us before. [7\_74](orrp20.htm#xref_7_74.md) Ormuzd, residing in the heavens
 of light, is opposed by his irreconcilable adversary, Ahriman, ruler of
 the underworld. The one stands for light, truth, and goodness, the other
 for darkness, falsehood, and perversity. The one commands the kind
@@ -899,13 +899,13 @@ demons whose malice causes all the evils that afflict humanity. These
 opposite principles fight for the domination of the earth, and each
 creates favorable or noxious animals and plants. Everything on earth is
 either heavenly or infernal. Ahriman and his demons, who surround man to
-tempt or hurt him, [7\_75](orrp20.htm#xref_7_75) are evil gods and
+tempt or hurt him, [7\_75](orrp20.htm#xref_7_75.md) are evil gods and
 entirely different from those of which Ormuzd's host consists. The
 magician sacrifices to them, either to avert evils they threaten, or to
 direct their ire against enemies of true belief, and the impure spirits
 rejoice in bloody immolations and delight in the fumes of flesh burning
-on the altars. [7\_76](orrp20.htm#xref_7_76) Terrible acts and words
-attended all immolations. Plutarch [7\_77](orrp20.htm#xref_7_77)
+on the altars. [7\_76](orrp20.htm#xref_7_76.md) Terrible acts and words
+attended all immolations. Plutarch [7\_77](orrp20.htm#xref_7_77.md)
 mentions an example of the dark sacrifices of the Mazdeans. "In a
 mortar," he says, "they pound a certain herb called wild garlic, at the
 same time invoking Hades (Ahriman), and the powers of darkness, then
@@ -927,10 +927,10 @@ the number of impious practices performed in the dark, practices the
 horror of which is equaled only by their absurdity: preparing beverages
 that disturbed the senses and impaired the intellect; mixing subtle
 poisons extracted from demoniac plants and corpses already in a state of
-putridity; [7\_78](orrp20.htm#xref_7_78) immolating children in order to
+putridity; [7\_78](orrp20.htm#xref_7_78.md) immolating children in order to
 read the future in their quivering entrails or to conjure up ghosts. All
 the satanic refinement that a perverted imagination in a state of
-insanity could conceive [7\_79](orrp20.htm#xref_7_79) pleased the
+insanity could conceive [7\_79](orrp20.htm#xref_7_79.md) pleased the
 malicious evil spirits; the more odious the monstrosity, the more
 assured was its efficacy. These abominable practices were sternly
 suppressed by the Roman government. Whereas, in the case of an
@@ -941,7 +941,7 @@ poisoners, and was subjected to the very severest punishment. He was
 nailed to the cross or thrown to the wild beasts. Not only the practice
 of the profession, but even the simple fact of possessing works of
 sorcery made any one subject to
-prosecution. [7\_80](orrp20.htm#xref_7_80)
+prosecution. [7\_80](orrp20.htm#xref_7_80.md)
 
 <span id="page_192">p. 192</span>
 
@@ -984,7 +984,7 @@ law. By order of the bishop a solemn auto-da-fé was made of all this
 literature, in the presence of the city officials and the clergy, and
 the most revolting passages were read in public, "in order to acquaint
 everybody with the conceited and vain promises of the demons," as the
-pious writer of the story says. [7\_81](orrp20.htm#xref_7_81)
+pious writer of the story says. [7\_81](orrp20.htm#xref_7_81.md)
 
 Thus the ancient traditions of magic continued to live in the Christian
 Orient after the fall of paganism. They even outlived the domination of
@@ -992,7 +992,7 @@ the church. The rigorous principles of its monotheism notwithstanding,
 Islam became infected with those Persian superstitions. In the Occident
 the evil art resisted persecution and anathemas with the same obstinacy
 as in the Orient. It remained alive in Rome all through the fifth
-century, [7\_82](orrp20.htm#xref_7_82) and when scientific astrology in
+century, [7\_82](orrp20.htm#xref_7_82.md) and when scientific astrology in
 Europe went down with science itself, the old Mazdean dualism continued
 to manifest itself, during the entire Middle Ages in the ceremonies of
 the black mass and the worshiping of Satan, until the dawn of the modern
@@ -1050,16 +1050,16 @@ their birth.
 
 ### Footnotes
 
-<span id="fn_22"></span>[165:1](orrp11.htm#fr_22) καταρχαί.
+<span id="fn_22"></span>[165:1](orrp11.htm#fr_22.md) καταρχαί.
 
-<span id="fn_23"></span>[168:1](orrp11.htm#fr_23) ἐπιστήμη.
+<span id="fn_23"></span>[168:1](orrp11.htm#fr_23.md) ἐπιστήμη.
 
-<span id="fn_24"></span>[168:2](orrp11.htm#fr_24) τέχνη.
+<span id="fn_24"></span>[168:2](orrp11.htm#fr_24.md) τέχνη.
 
-<span id="fn_25"></span>[170:1](orrp11.htm#fr_25) Ὅρασις.
+<span id="fn_25"></span>[170:1](orrp11.htm#fr_25.md) Ὅρασις.
 
-<span id="fn_26"></span>[188:1](orrp11.htm#fr_26) μάγος.
+<span id="fn_26"></span>[188:1](orrp11.htm#fr_26.md) μάγος.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Transformation of Roman Paganism](orrp12)
+[Next: VIII. The Transformation of Roman Paganism](orrp12.md)

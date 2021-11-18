@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap01) [Next](chap03)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap01) [Next](chap03.md)
 
 ------------------------------------------------------------------------
 
@@ -163,4 +163,4 @@ Canaan."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](chap03)
+[Next: Chapter 3](chap03.md)

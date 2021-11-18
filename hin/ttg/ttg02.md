@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg01)  [Next](ttg03) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg01)  [Next](ttg03.md) 
 
 ------------------------------------------------------------------------
 
@@ -285,4 +285,4 @@ back fearlessly to get him.
 ------------------------------------------------------------------------
 
 [Next: Second Goblin: The Three Lovers who brought the Dead Girl to
-Life. Whose wife should she be?](ttg03)
+Life. Whose wife should she be?](ttg03.md)

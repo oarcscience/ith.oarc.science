@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -114,7 +114,7 @@ admiring contemplation of Nature, to His honor and praise, and to the
 love, helpe, comfort, and strengthening of our neighbours,, and to the
 restoring of health of all the diseased. Amen.
 
-### A ROSICRUCIAN ALLEGORY. <span id="fr_117"></span>[1](#fn_117)
+### A ROSICRUCIAN ALLEGORY. <span id="fr_117"></span>[1](#fn_117.md)
 
 There is a mountain situated in the midst of the *earth* or *centre* of
 the *world*, which is both *small* and *great*. It is soft also above
@@ -185,7 +185,7 @@ God reveals is to be kept secret. But Rosie Crucian philosophers lay up
 this secret into the bosome of God which I have presumed to manifest
 clearly and plainly. I beseech the Trinity it may be printed as I have
 written it that the truth may no more be darkened with ambiguous
-language. <span id="fr_118"></span>[1](#fn_118) Good God, besides Thee
+language. <span id="fr_118"></span>[1](#fn_118.md) Good God, besides Thee
 nothing is! O stream Thyself into my soul, and flow it with Thy grace,
 illumination and revelation! Make me to depend on Thee. Thou delightest
 that man should account Thee as his King, and not hide what honey of
@@ -227,11 +227,11 @@ grateful.
 
 ### Footnotes
 
-<span id="fn_117"></span>[443:1](rhr34.htm#fr_117) See the preface to
+<span id="fn_117"></span>[443:1](rhr34.htm#fr_117.md) See the preface to
 Heydon's "Holy Guide"; also "A Suggestive Inquiry concerning the
 Rosicrucian Mystery."
 
-<span id="fn_118"></span>[445:1](rhr34.htm#fr_118) The speaker is John
+<span id="fn_118"></span>[445:1](rhr34.htm#fr_118.md) The speaker is John
 Heydon, in "The Holy Guide."
 
  

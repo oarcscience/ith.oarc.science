@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe03)  [Next](toe05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe03)  [Next](toe05.md) 
 
 ------------------------------------------------------------------------
 
@@ -652,7 +652,7 @@ there is perceived a short one, running at right angles, and
 communicating with the other two that run parallel.
 
 THERE is in this country, and in Derbyshire <span
-id="fr_6"></span>[\*](#fn_6), another regular appearance of this stone,
+id="fr_6"></span>[\*](#fn_6.md), another regular appearance of this stone,
 which CRONSTEDT has not mentioned. In this case, the strata are not
 broken in order to have the whinstone introduced, they are separated,
 and the whinstone is interjected in form of strata, having various
@@ -669,7 +669,7 @@ among the strata of the globe, strata which had been formed by
 subsidence at the bottom of the sea, it will now be proper to examine
 the difference that subsists between these subterraneous lavas, as they
 may be termed, and the analogous bodies, which are proper lavas, in
-having issued out of a volcano <span id="fr_7"></span>[†](#fn_7).
+having issued out of a volcano <span id="fr_7"></span>[†](#fn_7.md).
 
 <span id="page_280">p. 280</span>
 
@@ -849,10 +849,10 @@ its operations, as a living world, maintaining plants and animals.
 
 ### Footnotes
 
-<span id="fn_6"></span>[279:\*](toe04.htm#fr_6)  See Mr WHITEHURST'S
+<span id="fn_6"></span>[279:\*](toe04.htm#fr_6.md)  See Mr WHITEHURST'S
 Theory of the Earth.
 
-<span id="fn_7"></span>[279:†](toe04.htm#fr_7)  The Chevalier de
+<span id="fn_7"></span>[279:†](toe04.htm#fr_7.md)  The Chevalier de
 Dolomieu, in his accurate examination of Ætna and the Lipari islands,
 has very well observed the distinction of these two different species of
 lavas; but without seeming to know the principle upon which this
@@ -889,4 +889,4 @@ of these are ever observed.
 ------------------------------------------------------------------------
 
 [Next: Part IV. System of Decay and Renovation observed in the
-Earth](toe05)
+Earth](toe05.md)

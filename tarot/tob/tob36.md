@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob35) 
-[Next](tob37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob35.md) 
+[Next](tob37.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ The Ternary of Transition.
 
 ------------------------------------------------------------------------
 
-[Next: 19. The Sun](tob37)
+[Next: 19. The Sun](tob37.md)

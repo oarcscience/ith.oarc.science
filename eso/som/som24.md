@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som23) 
-[Next](som25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som23.md) 
+[Next](som25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ both are effects.
 <span id="img_chart06"></span>
 
 [![Lesson Six: Metaphysical Chart No. VI.](tn/chart06.jpg)  
-Click to enlarge](img/chart06.jpg)  
+Click to enlarge](img/chart06.jpg.md)  
 Lesson Six: Metaphysical Chart No. VI.  
 
 This is the psychic's chart and should be carefully considered, as it
@@ -64,4 +64,4 @@ true.
 
 ------------------------------------------------------------------------
 
-[Next: Psychic Phenomena](som25)
+[Next: Psychic Phenomena](som25.md)

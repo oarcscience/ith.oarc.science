@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm09)  [Next](bcm11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm09)  [Next](bcm11.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,7 +108,7 @@ this criticism, the examples of 1633 and 1660 have been alone available.
 The first claims to be *nuperrime mendis omnibus purgatum*, but it has
 been evidently in the hands of a Grimoire maker, and it appears to have
 been edited and extended in the Grimoire interest. <span
-id="fr_26"></span>[1](#fn_26) This is certain, but it is impossible to
+id="fr_26"></span>[1](#fn_26.md) This is certain, but it is impossible to
 say how much beyond the *Seven Mysterious Orisons* connected with the
 name of Pope Leo are to be found in the original, or whether the
 original was antedated. Outside these Orisons the modern accent of the
@@ -146,7 +146,7 @@ Creator."
 Here we have the magical doctrine concerning planetary intelligences
 which connects the *Enchiridion* with the *Arbatel*, and the hint of
 "secondary deities" which connects it with Trithemius. <span
-id="fr_27"></span>[1](#fn_27)\]
+id="fr_27"></span>[1](#fn_27.md)\]
 
 The *In Principio*, or first chapter of the Gospel according to St.
 John, is declared to be the most potent of all the devotions in the
@@ -204,7 +204,7 @@ fulfilled the work given Him by His Father. It goes on to say that
 Christ has written it with His own hand, and that wheresoever the
 recipient shall be, in house or field, by sea or stream, *sive in prætio
 Paganorum seu Christianorum*--such is the stultification thereof--his
-enemy shall never prevail over him. <span id="fr_28"></span>[1](#fn_28)
+enemy shall never prevail over him. <span id="fr_28"></span>[1](#fn_28.md)
 The king received the epistle with many tears and prayers, all which
 being duly described, the conjuration of the *baculi, gladii, lanceæ,
 enses, cultelli, sagittæ, claves, funes, et omnia alia genera armorum*,
@@ -228,7 +228,7 @@ practical part is here added, namely:--
 
 ### Footnotes
 
-<span id="fn_26"></span>[42:1](bcm10.htm#fr_26) This appears more
+<span id="fn_26"></span>[42:1](bcm10.htm#fr_26.md) This appears more
 evidently in the last Roman edition, which pretends to be based on all
 those which preceded it, including impressions published at Parma,
 Ancona and Frankfort which are now generally unknown. The editor has,
@@ -236,15 +236,15 @@ moreover, altered and rearranged, omitted and added at choice. He has
 supplied also a Key to the whole work, which is a short process for the
 government of evil spirits.
 
-<span id="fn_27"></span>[43:1](bcm10.htm#fr_27) Joannis Tritemii,
+<span id="fn_27"></span>[43:1](bcm10.htm#fr_27.md) Joannis Tritemii,
 Abbatis Spanheymensis, *De Septem Secundiis, id est, Intelligentiis,
 sive Spiritibus, Orbes post Deum Moventibus, &c.* Coloniæ, 1567. The
 treatise is well known, or at least much talked of, and this is the
 original edition, belonging to the date claimed for it.
 
-<span id="fn_28"></span>[45:1](bcm10.htm#fr_28) For this legend, see
+<span id="fn_28"></span>[45:1](bcm10.htm#fr_28.md) For this legend, see
 Fabricius, *Cod. Apoc. N.T.*, I., p. 317.
 
 ------------------------------------------------------------------------
 
-[Next: Section 4: The Seven Mysterious Orisons](bcm11)
+[Next: Section 4: The Seven Mysterious Orisons](bcm11.md)

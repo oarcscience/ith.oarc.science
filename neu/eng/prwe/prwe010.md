@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe009)  [Next](prwe011) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe009)  [Next](prwe011.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ small people, and so small as not to be observable by the eye."
 
 ------------------------------------------------------------------------
 
-[Next: The Giant of Nancledry](prwe011)
+[Next: The Giant of Nancledry](prwe011.md)

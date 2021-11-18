@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits100) [Next](bits102)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits100) [Next](bits102.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Monastery; and it was concerning Visâkhâ, a female lay disciple. She was
 born, we are told, in the city of Bhaddiya, in the kingdom of Bengal.
 Her father Dhanañjaya, Bon of Mendaka<span
 id="page_451_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_451_note_1) the treasurer, ranked
+class="small">1</span></sup>](#page_451_note_1.md) the treasurer, ranked
 
 |                                   |                                                   |
 |:----------------------------------|--------------------------------------------------:|
@@ -1435,7 +1435,7 @@ Should fruitful be in all good works."<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 102. The Buddhist Apocalypse](bits102)
+[Next: § 102. The Buddhist Apocalypse](bits102.md)
 
 ------------------------------------------------------------------------
 
@@ -1443,7 +1443,7 @@ Should fruitful be in all good works."<br />
 
 <span id="footnotes_page_451">p. 451</span>
 
-<span id="page_451_note_1"></span>[1](#page_451_fr_1) Identical with the
+<span id="page_451_note_1"></span>[1](#page_451_fr_1.md) Identical with the
 Mendaka of the last selection.
 
  

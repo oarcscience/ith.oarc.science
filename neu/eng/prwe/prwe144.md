@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe143)  [Next](prwe145) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe143)  [Next](prwe145.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ hearts to the true faith.
 
 ------------------------------------------------------------------------
 
-[Next: The Well of St Ludgvan](prwe145)
+[Next: The Well of St Ludgvan](prwe145.md)

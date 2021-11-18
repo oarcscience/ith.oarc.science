@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj41) 
-[Next](npj43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj41.md) 
+[Next](npj43.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,12 +23,12 @@ ninety-nine roadside shrines. This "holy way" they decked with *nusa*,
 ceremonies of the three shrines of Kumano.
 
 When the play begins the two exiles are carrying out these rites. Having
-no albs  <span id="fr_203"></span>[1](#fn_201) to wear, they put on the
+no albs  <span id="fr_203"></span>[1](#fn_201.md) to wear, they put on the
 tattered hemp-smocks which they wore on their journey; having no rice to
 offer, they pour out a libation of sand.
 
 Shunkwan, who had been abbot of the Zen <span
-id="fr_204"></span>[2](#fn_202) temple Hosshōji, holds aloof from these
+id="fr_204"></span>[2](#fn_202.md) temple Hosshōji, holds aloof from these
 ceremonies. But when the worshippers return he comes to meet them
 carrying a bucket of water, which he tells them is the wine for their
 final libation. They look into the bucket and cry in disgust: *Ya! Kore
@@ -51,7 +51,7 @@ Of flowers and trees. <span id="page_230">p. 230</span>
 Oh, longed-for time of old!  
 Oh, recollection sweet whithersoever  
 The mind travels; City streets and cloisters now  
-Seem Edens <span id="fr_205"></span>[1](#fn_203) garlanded  
+Seem Edens <span id="fr_205"></span>[1](#fn_203.md) garlanded  
 With every flower of Spring.
 
 Suddenly a boat appears carrying a stranger to the shore. This is
@@ -141,7 +141,7 @@ No other names he saw
 But Yasuyori's name and Naritsune's name  
 Then thinking "There is a codicil, perhaps,"  
 Again he opens the scroll and looks.  
-Nowhere is the word Sōzu, <span id="fr_206"></span>[1](#fn_204) nowhere
+Nowhere is the word Sōzu, <span id="fr_206"></span>[1](#fn_204.md) nowhere
 the word Shunkwan.
 
 (*The* ENVOY *then calls upon* NARITSUNE *and* YASUYORI *to board the
@@ -157,7 +157,7 @@ Bring me at least to the mainland. Have so much charity!
 
 ENVOY.
 
-But the sailor <span id="fr_207"></span>[1](#fn_205) knew no pity;  
+But the sailor <span id="fr_207"></span>[1](#fn_205.md) knew no pity;  
 He took his oar and struck. . .
 
 SHUNKWAN (retreating a step).
@@ -185,10 +185,10 @@ It was over; he struggled no more.
 CHORUS.
 
 But left upon the beach, wildly he waved his sleeves,  
-Stricken as she <span id="fr_208"></span>[2](#fn_206) who on the shore  
+Stricken as she <span id="fr_208"></span>[2](#fn_206.md) who on the shore  
 Of Matsura waved till she froze to stone.
 
-ENVOYS, [NARITSUNE](errata.htm#4) and YASUYORI (*together*).
+ENVOYS, [NARITSUNE](errata.htm#4) and YASUYORI (*together*.md).
 
 Unhappy man, our hearts are not cold. When we reach the City, we will
 plead unceasingly for your recall. In a little while you shall return.
@@ -264,7 +264,7 @@ Shunkwan, how think you?
 
 SHUNKWAN.
 
-Were it the Hill King of Hiyei, <span id="fr_209"></span>[1](#fn_207) I
+Were it the Hill King of Hiyei, <span id="fr_209"></span>[1](#fn_207.md) I
 would not say no. But as for this God of Kumano, I have no faith in him.
 (*Describing the actions of* NARITSUNE *and* YASUYORI.)
 
@@ -299,7 +299,7 @@ His eye wandered north, south, east and west.
 
 ![THE DRAGON LADY IN &lt;I&gt;AMA&lt;/I&gt; HOLDING ALOFT THE SCROLL OF
 THE &lt;I&gt;HOKKEKYŌ&lt;/I&gt;&lt;BR&gt; (BEHIND HER IS THE
-&lt;I&gt;HASHIGAKARI&lt;/I&gt;)](img/23400.jpg)  
+&lt;I&gt;HASHIGAKARI&lt;/I&gt;)](img/23400.jpg.md)  
 THE DRAGON LADY IN *AMA* HOLDING ALOFT THE SCROLL OF THE *HOKKEKYŌ*  
 (BEHIND HER IS THE *HASHIGAKARI*)
 
@@ -333,27 +333,27 @@ On unrepentance and commandments broke.
 
 ### Footnotes
 
-<span id="fn_201"></span>[229:1](npj42.htm#fr_203) Ceremonial white
+<span id="fn_201"></span>[229:1](npj42.htm#fr_203.md) Ceremonial white
 vestments, *hakuye*.
 
-<span id="fn_202"></span>[229:2](npj42.htm#fr_204) For "Zen" see
-Introduction, [p. 32](npj06.htm#page_32).
+<span id="fn_202"></span>[229:2](npj42.htm#fr_204.md) For "Zen" see
+Introduction, [p. 32](npj06.htm#page_32.md).
 
-<span id="fn_203"></span>[230:1](npj42.htm#fr_205) Lit, Kikenjō, one of
+<span id="fn_203"></span>[230:1](npj42.htm#fr_205.md) Lit, Kikenjō, one of
 the Buddhist paradises.
 
-<span id="fn_204"></span>[231:1](npj42.htm#fr_206) Priest.
+<span id="fn_204"></span>[231:1](npj42.htm#fr_206.md) Priest.
 
-<span id="fn_205"></span>[232:1](npj42.htm#fr_207) Acted by a *kyōgen*
+<span id="fn_205"></span>[232:1](npj42.htm#fr_207.md) Acted by a *kyōgen*
 or farce-character.
 
-<span id="fn_206"></span>[232:2](npj42.htm#fr_208) Sayohime who, when
+<span id="fn_206"></span>[232:2](npj42.htm#fr_208.md) Sayohime who, when
 her husband sailed to Korea, stood waving on the cliff till she turned
 into stone.
 
-<span id="fn_207"></span>[234:1](npj42.htm#fr_209) The headquarters of
+<span id="fn_207"></span>[234:1](npj42.htm#fr_209.md) The headquarters of
 the Tendai sect of Buddhism
 
 ------------------------------------------------------------------------
 
-[Next: Ama (The Fisher-Girl)](npj43)
+[Next: Ama (The Fisher-Girl)](npj43.md)

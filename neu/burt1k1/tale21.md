@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale20)  [Next](tale22) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale20)  [Next](tale22.md) 
 
 ------------------------------------------------------------------------
 
@@ -418,4 +418,4 @@ him till the rest of the company arrived, when they ate and drank and
 made merry and the talk went round amongst them. Presently, their host
 began the narrative of
 
-(*Next*) [THE FIFTH VOYAGE OF SINDBAD THE SEAMAN](tale22)  
+(*Next*) [THE FIFTH VOYAGE OF SINDBAD THE SEAMAN](tale22.md)  

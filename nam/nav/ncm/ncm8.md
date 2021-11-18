@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](ncm6) [Next](ncm9)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](ncm6) [Next](ncm9.md)
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ mountains.
 
 ------------------------------------------------------------------------
 
-[Next](ncm9)
+[Next](ncm9.md)
 
  
 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl02)  [Next](isl04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl02)  [Next](isl04.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ Qur’ān. It is recited for each new beginning.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](isl04)
+[Next: Introduction](isl04.md)

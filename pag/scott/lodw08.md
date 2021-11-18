@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](lodw07)  [Next](lodw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](lodw07)  [Next](lodw09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -367,7 +367,7 @@ frog, or the bouncings of a goat, or friskings of a dog, or
 gesticulations of a monkey? And cannot a palsy shake such a loose lea as
 that ? Dost thou not twirl like a calf that hath the turn, and twitch up
 thy houghs just like a springhault tit?" <span
-id="fr_53"></span>[54](#fn_53) One might almost conceive the demon
+id="fr_53"></span>[54](#fn_53.md) One might almost conceive the demon
 replying to this raillery in the words of Dr. Johnson, "This merriment
 of parsons is extremely offensive."
 
@@ -564,7 +564,7 @@ animas nostras* and reflecting upon the court, I ask you (5) Whether you
 have not more reason to give God thanks that you met with a wise judge,
 and a sensible gentleman, who kept you from shedding innocent blood, and
 reviving the meanest and cruelest of all superstitions amongst
-us?" <span id="fr_54"></span>[55](#fn_54)
+us?" <span id="fr_54"></span>[55](#fn_54.md)
 
       But although individuals of the English Church might on some
 occasions be justly accused of falling into lamentable errors on a
@@ -748,7 +748,7 @@ that he was instructed and suborned to swear these things against the
 accused persons by his father and others, and was heard often to confess
 that on the day which be pretended to see the said witches at the house
 or barn, he was gathering plums in a neighbour's orchard. <span
-id="fr_55"></span>[56](#fn_55)
+id="fr_55"></span>[56](#fn_55.md)
 
       There was now approaching a time when the law against witchcraft,
 sufficiently bloody in itself, was to be pushed to more violent
@@ -811,7 +811,7 @@ that the Witchfinder General had cheated the devil out of a certain
 memorandum-book, in which Satan, for the benefit of his memory
 certainly, had entered all the witches' names in England, and that
 Hopkins availed himself of this record." <span
-id="fr_56"></span>[57](#fn_56)
+id="fr_56"></span>[57](#fn_56.md)
 
       It may be noticed that times of misrule and violence seem to
 create individuals fatted to take advantage from them, and having a
@@ -873,7 +873,7 @@ far against us, through ignorance). I intend to come, God willing, the
 sooner to hear his singular judgment in the behalf of such parties. I
 have known a minister in Suffolk as much against this discovery in a
 pulpit, and forced to recant it by the Committee <span
-id="fr_57"></span>[58](#fn_57) in the same place. I much marvel such
+id="fr_57"></span>[58](#fn_57.md) in the same place. I much marvel such
 evil men should have any (much more any of the clergy, who should daily
 speak terror to convince such offenders) stand up to take their parts
 against such as are complainants for the king, and sufferers themselves,
@@ -963,7 +963,7 @@ Or pigs that suddenly deceased
 Of griefs unnatural, as he guess'd, Who proved himself at length a
 witch,  
 And made a rod for his own breech."  <span
-id="fr_58"></span>[59](#fn_58)  
+id="fr_58"></span>[59](#fn_58.md)  
 
       The understanding reader will easily conceive that this alteration
 of the current in favour of those who disapproved of witch-prosecutions,
@@ -1041,7 +1041,7 @@ person. What perhaps sealed the fate of the accused was the evidence of
 the celebrated Sir Thomas Browne, " that the fits were natural, but
 heightened by the power of the devil co-operating with the malice of
 witches;" -- a strange opinion, certainly, from the author of a treatise
-on " Vulgar Errors !" <span id="fr_59"></span>[60](#fn_59)
+on " Vulgar Errors !" <span id="fr_59"></span>[60](#fn_59.md)
 
       But the torch of science was now fairly lighted, and gleamed in
 more than one kingdom of the world, shooting its rays on every side, and
@@ -1097,7 +1097,7 @@ respectable authority, " seems to imply the reality of the business,
 those ascititious particles which he held together in his sensible shape
 being loosened at the vanishing, and so offending the nostrils by their
 floating and diffusing themselves in the open air." <span
-id="fr_60"></span>[61](#fn_60) How much are we bound to regret that Mr.
+id="fr_60"></span>[61](#fn_60.md) How much are we bound to regret that Mr.
 Justice Hunt's discovery " of this hellish kind of witches," in itself
 so clear and plain, and containing such valuable information, should
 have been smothered by meeting with opposition and discouragement from
@@ -1154,7 +1154,7 @@ asked the cause of the peculiar interest which she took in the
 acquittal. " Twenty years ago," said the poor woman, " they would have
 hanged me for a witch, but could not; and now, but for your lordship,
 they would have murdered my innocent son." <span
-id="fr_61"></span>[62](lodw09.htm#fn_61)
+id="fr_61"></span>[62](lodw09.htm#fn_61.md)
 
       Such scenes happened frequently on the assizes, while country
 gentlemen, like the excellent Sir Roger de Coverley, retained a private
@@ -1168,7 +1168,7 @@ scroll of paper creep from under the prison-door, and then change itself
 first into a monkey and then into a turkey, which the under-keeper
 confirmed. This," says Sir John, "I have heard from the mouth of both,
 and now leave it to be believed or disbelieved as the reader may be
-inclined. <span id="fr_62"></span>[63](lodw09.htm#fn_62) We may see that
+inclined. <span id="fr_62"></span>[63](lodw09.htm#fn_62.md) We may see that
 Reresby, a statesman and a soldier, had not as yet " plucked the old
 woman out of his heart." Even Addison himself ventured no farther in his
 incredulity respecting this crime than to contend that although
@@ -1443,7 +1443,7 @@ those that were accused, and feared that Satan, by his wiles, had
 enwrapped innocent persons under the imputation of that crime; and at
 last, as was evidently seen, there must be a stop put, or the generation
 of the kingdom of God would fall under condemnation." <span
-id="fr_63"></span>[64](lodw09.htm#fn_63)
+id="fr_63"></span>[64](lodw09.htm#fn_63.md)
 
       The prosecutions were therefore suddenly stopped, the prisoners
 dismissed, the condemned pardoned, and even those who had confessed, the
@@ -1495,16 +1495,16 @@ severity.
 
 ### Footnotes
 
-<span id="fn_53"></span>[54](lodw08.htm#fr_53) Hutchison on Witchcraft,
+<span id="fn_53"></span>[54](lodw08.htm#fr_53.md) Hutchison on Witchcraft,
 p. 162.
 
-<span id="fn_54"></span>[55](lodw08.htm#fr_54) Hutchison's "Essay on
+<span id="fn_54"></span>[55](lodw08.htm#fr_54.md) Hutchison's "Essay on
 Witchcraft," p. 166.
 
-<span id="fn_55"></span>[56](lodw08.htm#fr_55) Webster on Witchcraft,
+<span id="fn_55"></span>[56](lodw08.htm#fr_55.md) Webster on Witchcraft,
 edition 1677, p. 278.
 
-<span id="fn_56"></span>[57](lodw08.htm#fr_56) This reproach is noticed
+<span id="fn_56"></span>[57](lodw08.htm#fr_56.md) This reproach is noticed
 in a very rare tract, which was bought at Mr. Lort's sale, by the
 celebrated collector Mr. Bindley, and is now in the author's possession.
 Its full title is, " The Discovery of Witches, in Answer to several
@@ -1513,18 +1513,18 @@ Norfolk; and now published by Matthew Hopkins, Witchfinder, for the
 Benefit of the whole Kingdom. Printed for R, Royston, at the Angel, in
 Inn Lane. 1647."
 
-<span id="fn_57"></span>[58](lodw08.htm#fr_57) Of Parliament.
+<span id="fn_57"></span>[58](lodw08.htm#fr_57.md) Of Parliament.
 
-<span id="fn_58"></span>[59](lodw08.htm#fr_58) "Hudibras," part ii.
+<span id="fn_58"></span>[59](lodw08.htm#fr_58.md) "Hudibras," part ii.
 canto 3.
 
-<span id="fn_59"></span>[60](lodw08.htm#fr_59) See the account of Sir T.
+<span id="fn_59"></span>[60](lodw08.htm#fr_59.md) See the account of Sir T.
 Browne in No. XIV. of the " Family Library" (" Lives of British
 Physicians"), p. 60.
 
-<span id="fn_60"></span>[61](lodw08.htm#fr_60) Glanville's " Collection
+<span id="fn_60"></span>[61](lodw08.htm#fr_60.md) Glanville's " Collection
 of Relations."
 
 ------------------------------------------------------------------------
 
-[Next: Letter 9](lodw09)
+[Next: Letter 9](lodw09.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste07)  [Next](ste09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste07)  [Next](ste09.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ the mass, which swims above, would be also
 <span id="img_05500"></span>
 
 [![Fig 1](tn/05500.jpg)  
-Click to enlarge](img/05500.jpg)  
+Click to enlarge](img/05500.jpg.md)  
 Fig 1  
 
 divided by the same principle of gravity into two orders of Bodies, the
@@ -126,7 +126,7 @@ to the Earth.
 <span id="img_05600"></span>
 
 [![Fig. 2](tn/05600.jpg)  
-Click to enlarge](img/05600.jpg)  
+Click to enlarge](img/05600.jpg.md)  
 Fig. 2  
 
 \[paragraph continues\] I mean of all that do originally belong to it.
@@ -152,7 +152,7 @@ two great masses
 <span id="img_05700"></span>
 
 [![Fig. 3](tn/05700.jpg)  
-Click to enlarge](img/05700.jpg)  
+Click to enlarge](img/05700.jpg.md)  
 Fig. 3  
 
 of the *Air* and *Water*, and consider how their impurities or grosser
@@ -176,7 +176,7 @@ the Waters; as ’tis represented in this fourth Figure.
 <span id="img_05800"></span>
 
 [![Fig. 4](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 Fig. 4  
 
 This thin and tender Orb of Earth increas’d still more and more, as the
@@ -189,7 +189,7 @@ more with that oily liquor, they suckt it all up at length, and where
 wholly incorporate together, and so began to grow more stiff and firm,
 making both but one substance, which was the first concretion, or firm
 and consistent substance that rise upon the face of the Chaos. And the
-whole Globe stood in this posture, as in [Fig. the fifth](#img_05900).
+whole Globe stood in this posture, as in [Fig. the fifth](#img_05900.md).
 
 It may be, you will say, we take our liberty, and our own time for the
 separation of these two liquors, the Oily and the Earthy, the lighter
@@ -211,7 +211,7 @@ this is an unreasonable and incredible supposition, if we consider,
 <span id="img_05900"></span>
 
 [![Fig. 5](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)  
+Click to enlarge](img/05900.jpg.md)  
 Fig. 5  
 
 that the mass of the Air was many thousand times greater than the Water,
@@ -276,7 +276,7 @@ Creatures would require? What soil more proper for Vegetation than this
 warm moisture, which could have no fault, unless it was too fertile and
 luxuriant? and that is no fault neither at the beginning of a World.
 This I am sure of, that the learned amongst the Ancients,  <span
-id="fr_1"></span>[1](#fn_1) both *Greeks*, *Egyptians*, *Phœnicians*,
+id="fr_1"></span>[1](#fn_1.md) both *Greeks*, *Egyptians*, *Phœnicians*,
 and others, have describ’d the primigenial soil, or the temper of the
 Earth, that was the first subject for the Generation and Origin of
 Plants and Animals, after such a manner, as is truly express’d, and I
@@ -322,7 +322,7 @@ stretched out the Earth above the Waters*. What can be more plain and
 positive to denote that form of the Earth that we have describ’d, and to
 express particularly the inclosure of the Waters within the Earth, as we
 have represented them? He saith in another place; *By the Word of the
-Lord were the Heavens made;[he](errata.htm#1) shut up the Waters of the
+Lord were the Heavens made;[he](errata.htm#1.md) shut up the Waters of the
 Sea as in Bags*, (for so the word is to be render’d, and is render’d by
 all, except the *English*) and *laid up the Abysse as in store-houses*.
 We cannot easily imagine any thing more express, or more conformable to
@@ -389,7 +389,7 @@ shewn at large in the *Latin* Treatise. <span class="margnote">*Lib*. 2.
 <span id="img_06200"></span>
 
 [![Fig. 6](tn/06200.jpg)  
-Click to enlarge](img/06200.jpg)  
+Click to enlarge](img/06200.jpg.md)  
 Fig. 6  
 
 There is another thing in Antiquity, relating to the form and
@@ -453,7 +453,7 @@ also when he had describ’d the Chaos, saith, *The spirit of God mov’d
 upon*, or sat brooding upon, *the face of the waters*; without all doubt
 to produce some effects there. And S. *Peter*, when he speaks of the
 form of the Ante-diluvian Earth, how it stood in reference to the
-Waters,  <span id="fr_2"></span>[1](#fn_2) adds, *By the Word of God*,
+Waters,  <span id="fr_2"></span>[1](#fn_2.md) adds, *By the Word of God*,
 or by the *Wisdom* of God it was made so. And this same Wisdom of God,
 
 <span id="page_64">p. 64</span>
@@ -462,7 +462,7 @@ in the Proverbs, as we observed before, takes notice of this very piece
 of work in the formation of the Earth. *When he set an Orb over the face
 of the Deep I was there*. And lastly, the Ancient Philosophers, or at
 least the best of them, to give them their due, always brought in <span
-id="fr_3"></span>[1](#fn_3) *Mens* or *Amor*, as a Supernatural
+id="fr_3"></span>[1](#fn_3.md) *Mens* or *Amor*, as a Supernatural
 principle to unite and consociate the parts of the Chaos; which was
 first done in the composition of this wonderful Arch of the Earth.
 *Wherefore* to the great Architect, who made the boundless Universe out
@@ -474,12 +474,12 @@ honour be given.
 
 ### Footnotes
 
-<span id="fn_1"></span>[60:1](ste08.htm#fr_1) Ἰλὺς ωροτος γενής.
+<span id="fn_1"></span>[60:1](ste08.htm#fr_1.md) Ἰλὺς ωροτος γενής.
 
-<span id="fn_2"></span>[63:1](ste08.htm#fr_2) Τῷ λόγῳ τοῦ Θεοῦ.
+<span id="fn_2"></span>[63:1](ste08.htm#fr_2.md) Τῷ λόγῳ τοῦ Θεοῦ.
 
-<span id="fn_3"></span>[64:1](ste08.htm#fr_3) Λόγος & Ἕρως
+<span id="fn_3"></span>[64:1](ste08.htm#fr_3.md) Λόγος & Ἕρως
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](ste09)
+[Next: Chapter VI](ste09.md)

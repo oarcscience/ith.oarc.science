@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon12)  [Next](oon14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon12)  [Next](oon14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -46,10 +46,10 @@ DECADENCE OF MONARCHY (1715-1774). \[I. 132.\]
 Century V.--*Quatrain* 38.
 
 Ce grand monarque qu'au mort succedera, <span
-id="fr_173"></span>[1](#fn_173)  
+id="fr_173"></span>[1](#fn_173.md)  
 Donnera vie illicite lubrique,  
 Par nonchalance à tous concedera,  
-Qu'à la parfin faudra <span id="fr_174"></span>[2](#fn_174) la loy
+Qu'à la parfin faudra <span id="fr_174"></span>[2](#fn_174.md) la loy
 Salique.
 
 Translation.
@@ -67,12 +67,12 @@ Republic; the annihilation of the Salic law; and of the French throne.
 
 ### Footnotes
 
-<span id="fn_173"></span>[144:1](oon13.htm#fr_173) Ordo. He who shall
+<span id="fn_173"></span>[144:1](oon13.htm#fr_173.md) Ordo. He who shall
 succeed to the great monarch dead.
 
-<span id="fn_174"></span>[144:2](oon13.htm#fr_174) *Faudra*, future
+<span id="fn_174"></span>[144:2](oon13.htm#fr_174.md) *Faudra*, future
 tense of *faillir*, fail, or disappear.
 
 ------------------------------------------------------------------------
 
-[Next: England](oon14)
+[Next: England](oon14.md)

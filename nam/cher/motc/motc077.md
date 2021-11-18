@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc076) 
-[Next](motc078) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc076.md) 
+[Next](motc078.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ rock ledge. They call this spot on Nottely "The Leech place" also.
 
 ------------------------------------------------------------------------
 
-[Next: 78. The Nûñnë'hï And Other Spirit Folk](motc078)
+[Next: 78. The Nûñnë'hï And Other Spirit Folk](motc078.md)

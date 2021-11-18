@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim55)  [Next](sim57) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim55)  [Next](sim57.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ daughters. And she lived with them ever after happy and contented.
 
 ------------------------------------------------------------------------
 
-[Next: Hodadeion and his Sister](sim57)
+[Next: Hodadeion and his Sister](sim57.md)

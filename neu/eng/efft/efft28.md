@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft27)  [Next](efft29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft27)  [Next](efft29.md) 
 
 ------------------------------------------------------------------------
 
-# A FAIRY CAUGHT  <span id="fr_34"></span>[1](#fn_34)
+# A FAIRY CAUGHT  <span id="fr_34"></span>[1](#fn_34.md)
 
 I HEARD last week of three fairies having been seen in Zennor very
 recently. A man who lived at the foot of Trendreen Hill, in the valley
@@ -43,9 +43,9 @@ children got a sound thrashing for letting Skillywidden escape.
 
 ### Footnotes
 
-<span id="fn_34"></span>[1](efft28.htm#fr_34) Robert Hunt, *Popular
+<span id="fn_34"></span>[1](efft28.htm#fr_34.md) Robert Hunt, *Popular
 Romances of the West of England*, 2nd series, p. 265.
 
 ------------------------------------------------------------------------
 
-[Next: Colman Grey](efft29)
+[Next: Colman Grey](efft29.md)

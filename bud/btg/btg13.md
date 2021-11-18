@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg12)  [Next](btg14) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg12)  [Next](btg14.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ selfishness and vanity. He has become the Buddha, the Perfect One.
 
 ------------------------------------------------------------------------
 
-[Next: The First Converts](btg14)
+[Next: The First Converts](btg14.md)

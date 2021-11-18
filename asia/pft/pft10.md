@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft09)  [Next](pft11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft09)  [Next](pft11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 "Tikgi, tikgi, tikgi, we will come to work for you. Let us cut your
 rice."
 
-Ligi  <span id="fr_64"></span>[65](pft68.htm#fn_64) had gone to the
+Ligi  <span id="fr_64"></span>[65](pft68.htm#fn_64.md) had gone to the
 field to look at his growing rice, but when he heard this sound he
 looked up and was surprised to see some birds circling above and calling
 to him.
@@ -80,7 +80,7 @@ was full of rice, he doubted if the tikgi could be real birds.
 
 Not long after this Ligi invited all his relatives from the different
 towns to help him make the ceremony for the spirits.  <span
-id="fr_65"></span>[66](pft68.htm#fn_65) As soon as the people arrived,
+id="fr_65"></span>[66](pft68.htm#fn_65.md) As soon as the people arrived,
 the tikgi came also; and they flew over the people's heads and made them
 drink basi until they were drunk. Then they said to Ligi:
 
@@ -99,12 +99,12 @@ you would not have found me." Ligi took her back to his house where the
 people were making the ceremony, and as soon as they saw her they began
 chewing the magic betel-nuts to find who she might be.
 
-The quid  <span id="fr_66"></span>[67](pft68.htm#fn_66) of Ebang and her
+The quid  <span id="fr_66"></span>[67](pft68.htm#fn_66.md) of Ebang and her
 husband and that of the tikgi went together, so they knew that she was
 their daughter who had disappeared from their house one day long ago
 while they were in the fields. In answer to their many questions, she
 told them that she had been in the bana-asi tree, where Kaboniyan  <span
-id="fr_67"></span>[68](pft68.htm#fn_67) had carried her, until the day
+id="fr_67"></span>[68](pft68.htm#fn_67.md) had carried her, until the day
 that she changed herself into the tikgi birds and went to the field of
 Ligi.
 
@@ -115,4 +115,4 @@ and dancing for three months.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Sayen](pft11)
+[Next: The Story of Sayen](pft11.md)

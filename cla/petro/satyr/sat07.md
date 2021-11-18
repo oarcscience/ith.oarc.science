@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat06)  [Next](sat08) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat06)  [Next](sat08.md) 
 
 ------------------------------------------------------------------------
 
 # CHAPTER SIX
 
-\[XXXV <span id="XXXV"></span>[(Latin)](../satyrlat/satl035) \] Our
+\[XXXV <span id="XXXV"></span>[(Latin)](../satyrlat/satl035.md) \] Our
 applause was interrupted by the second course, which did not by any
 means come up to our expectations. Still the oddity of the thing drew
 the eyes of all. An immense circular tray bore the twelve signs of the
@@ -25,7 +25,7 @@ in a horrible voice a song on wine and laserpitium.
 Seeing us look rather blank at the idea of attacking such common fare,
 Trimalchio cried, "I pray you gentlemen, begin; the best of your dinner
 is before you." \[XXXVI <span
-id="XXXVI"></span>[(Latin)](../satyrlat/satl036) \] No sooner had he
+id="XXXVI"></span>[(Latin)](../satyrlat/satl036.md) \] No sooner had he
 spoken than four fellows ran prancing in, keeping time to the music, and
 whipped off the top of the tray. This done, we beheld underneath, on a
 second tray in fact, stuffed capons, a sow's paps, and as a centerpiece
@@ -46,7 +46,7 @@ above me. He had often witnessed similar scenes and told me at once,
 "You see the man who is carving; well; his name is Cut. The master is
 calling and commanding him at one and the same time."
 
-\[XXXVII <span id="XXXVII"></span>[(Latin)](../satyrlat/satl037) \]
+\[XXXVII <span id="XXXVII"></span>[(Latin)](../satyrlat/satl037.md) \]
 Unable to eat any more, I now turned towards my neighbor in order to
 glean what information I could, and after indulging in a string of
 general remarks, presently asked him, "Who is that lady bustling up and
@@ -69,7 +69,7 @@ porter's lodge than would make another man's whole fortune. Slaves! why,
 heaven and earth! I don't believe one in ten knows his own master by
 sight. For all that, there's never a one of the fine fellows a word of
 his wouldn't send scuttling into the nearest rat-hole. \[XXXVIII <span
-id="XXXVIII"></span>[(Latin)](../satyrlat/satl038) \] And don't you
+id="XXXVIII"></span>[(Latin)](../satyrlat/satl038.md) \] And don't you
 imagine he ever buys anything; every mortal thing is home grown,--wool,
 rosin, pepper; call for hen's milk and he'd supply you! As a matter of
 fact his wool was not first-rate originally; but he purchased rams at
@@ -118,7 +118,7 @@ WILL PUT UP TO AUCTION
 AN ASSORTMENT  
 OF HIS SUPERFLUOUS FURNITURE."
 
-\[XXXIX <span id="XXXIX"></span>[(Latin)](../satyrlat/satl039) \] This
+\[XXXIX <span id="XXXIX"></span>[(Latin)](../satyrlat/satl039.md) \] This
 agreeable gossip was here interrupted by Trimalchio; for the second
 course had now been removed, and the company being merry with wine began
 to engage in general conversation. Our host then, lying back on his
@@ -158,7 +158,7 @@ and the honeycomb a-top of it, I have a good reason to show too. Our
 mother Earth is in the middle, round-about like an egg, and has all good
 things in her inside, like a honey-comb!"
 
-\[XL <span id="XL"></span>[(Latin)](../satyrlat/satl040) \] "Clever!
+\[XL <span id="XL"></span>[(Latin)](../satyrlat/satl040.md) \] "Clever!
 clever!" we cry in chorus and with hands uplifted to the ceiling, swear
 Hipparchus and Aratus were not to be named in the same breath with him.
 This lasted till fresh servants entered and spread carpets before the
@@ -184,7 +184,7 @@ added "Look what elegant acorns this wildwood pig fed on." Instantly
 slaves ran to the baskets that were suspended from the animal's tushes
 and divided the two kind of dates in equal proportions among the diners.
 
-\[XLI <span id="XLI"></span>[(Latin)](../satyrlat/satl041) \] Meantime,
+\[XLI <span id="XLI"></span>[(Latin)](../satyrlat/satl041.md) \] Meantime,
 sitting as I did a little apart, I was led into a thousand conjectures
 to account for the boar's being brought in with a cap on. So after
 exhausting all sorts of absurd guesses, I resolved to ask my former
@@ -209,4 +209,4 @@ he went round to receive our congratulations.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven](sat08)
+[Next: Chapter Seven](sat08.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](bus12)  [Next](bus14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](bus12)  [Next](bus14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Bustan of Sadi*, tr. by A. Hart Edwards, \[1911\], at Intangible
 Textual Heritage
 
@@ -70,7 +70,7 @@ it be to close the shop in the morning than to sell the stock at a loss.
 
 To-day, O youth, take the path of worship, for to-morrow comes old age.
 Leisure thou hast, and strength—strike the ball when the field is wide.
-[35](bus15.htm#an_35)
+[35](bus15.htm#an_35.md)
 
 I knew not the value of life's day till now that I have lost it.
 
@@ -82,11 +82,11 @@ carelessness the cup of life has fallen from thy hand, naught remains
 but to join the pieces.
 
 Negligently hast thou let the pure water go; how canst thou now perform
-thy ablutions, except with sand? [36](bus15.htm#an_36)
+thy ablutions, except with sand? [36](bus15.htm#an_36.md)
 
 #### SADI'S REBUKE FROM A CAMEL-DRIVER
 
-One night in the desert of Faid [37](bus15.htm#an_37) my feet became
+One night in the desert of Faid [37](bus15.htm#an_37.md) my feet became
 fettered with sleep. A camel-driver awoke me, saying: "Arise; since thou
 heedest
 
@@ -114,7 +114,7 @@ Strive now, when the water reacheth not beyond thy waist; delay not
 until the flood has 'passed over thy head.
 
 Heed the counsel of the wise to-day, for to- morrow will Nakir
-[38](bus15.htm#an_38) question thee with sternness. Esteem as a
+[38](bus15.htm#an_38.md) question thee with sternness. Esteem as a
 privilege thy precious soul,
 
 <span id="page_140">p. 140</span>
@@ -178,7 +178,7 @@ His imaginings made him crazy; the crab had pierced its claws into his
 brain. He forsook his prayers and devotions, and neither ate nor slept.
 
 Unable to rest tranquil in one place, he wandered to a plain, with his
-head [confused](errata.htm#3) with the charms of his vain fancies. An
+head [confused](errata.htm#3.md) with the charms of his vain fancies. An
 old man was kneading mud upon a grave for the purpose of making bricks.
 Absorbed in thought for a while, the old man said:
 
@@ -211,7 +211,7 @@ Why fix we thus our minds upon this caravanserai? Our friends have
 departed and we are on the road. After us, the same flowers will bloom
 in the garden, together will friends still sit.
 
-When thou comest to Shiraz, [39](bus15.htm#an_39) dost thou not cleanse
+When thou comest to Shiraz, [39](bus15.htm#an_39.md) dost thou not cleanse
 thyself from the dust of the road?
 
 Soon, O thou polluted with the dust of sin, wilt thou journey to a
@@ -337,4 +337,4 @@ have not washed away.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Concerning Prayer](bus14)
+[Next: Chapter X. Concerning Prayer](bus14.md)

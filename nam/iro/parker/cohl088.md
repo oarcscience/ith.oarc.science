@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl087)  [Next](cohl089) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl087)  [Next](cohl089.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 "Now we think that when the end comes the earth will be destroyed by
 fire and not one upon it will escape for all the earth will be enveloped
 in flames and all those who refuse to believe in Gai'wiio\` will be in
-it." <span id="fr_74"></span>[1](#fn_74)
+it." <span id="fr_74"></span>[1](#fn_74.md)
 
 So they said and he said. Eniaiehuk.
 
@@ -19,10 +19,10 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_74"></span>[59:1](cohl088.htm#fr_74) Because Handsome Lake
+<span id="fn_74"></span>[59:1](cohl088.htm#fr_74.md) Because Handsome Lake
 did not die in this manner some of his half believing followers at
 Onondaga repudiated his teaching.
 
 ------------------------------------------------------------------------
 
-[Next: Section 78](cohl089)
+[Next: Section 78](cohl089.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz07)  [Next](krz09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz07)  [Next](krz09.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ life-giving in function.
 
 ------------------------------------------------------------------------
 
-[Next: Duality and Spirituality in Sex](krz09)
+[Next: Duality and Spirituality in Sex](krz09.md)

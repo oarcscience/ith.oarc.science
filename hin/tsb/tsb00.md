@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](tsb01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](tsb01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,15 +51,15 @@ purpose.
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_manu"></span>
 
 [![Thoreau's manuscript, detail](tn/manu.jpg)  
-Click to enlarge](img/manu.jpg)  
+Click to enlarge](img/manu.jpg.md)  
 Thoreau's manuscript, detail  
 
 ------------------------------------------------------------------------
 
-[Next: Acknowledgement](tsb01)
+[Next: Acknowledgement](tsb01.md)

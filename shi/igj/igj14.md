@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj13)  [Next](igj15) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj13)  [Next](igj15.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,4 +201,4 @@ Thereafter nothing more was ever heard of her.
 
 ------------------------------------------------------------------------
 
-[Next: Story of a Tengu](igj15)
+[Next: Story of a Tengu](igj15.md)

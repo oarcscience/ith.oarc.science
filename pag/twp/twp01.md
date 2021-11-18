@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](twp00)  [Next](twp02) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](twp00)  [Next](twp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Introduction.](twp02)
+[Next: Introduction.](twp02.md)

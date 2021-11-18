@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos12)  [Next](kos14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos12)  [Next](kos14.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ together, arranged, consecrated, and kept, for the benefit of the human
 race, and the preservation of Body and of Soul.
 
 The Pentacles should then be made in the days and hours of Mercury, when
-the Moon is in an aerial <span id="fr_51"></span>[1](#fn_51)or
+the Moon is in an aerial <span id="fr_51"></span>[1](#fn_51.md)or
 terrestrial sign; she should also be in her increase, and in equal
 number of days with the Sun.
 
@@ -60,25 +60,25 @@ washed, as thou shalt find given in the proper place. Furthermore, thou
 shouldest have the Sickle or Knife of Magical Art, with the which thou
 shalt make a Circle, and trace within it an inner circle, and in the
 space between the two thou shalt write the Names of God, <span
-id="fr_52"></span>[1](#fn_52) which thou shalt think fit and proper. It
+id="fr_52"></span>[1](#fn_52.md) which thou shalt think fit and proper. It
 is necessary after this that thou shouldest have within the Circle a
 vessel of earth with burning coals and odoriferous perfumes thereon;
 with the which thou shalt fumigate the aforesaid Pentacles; and, having
 turned thy face towards the East, thou shalt hold the said Pentacles
 over the smoke of the Incense, and shalt repeat devoutly the following
 Psalms of David my Father: Psalms viii., xxi., xxvii., xxix., xxxii.,
-li., lxxii., cxxxiv. <span id="fr_53"></span>[2](#fn_53)
+li., lxxii., cxxxiv. <span id="fr_53"></span>[2](#fn_53.md)
 
 (For a convenient form of Circle which may be used for preparing
 Instruments and other things of the same kind, as well as for
-consecrating the Pentacles, *see [Figure 3](kos00.htm#img_kos01)*.)
+consecrating the Pentacles, *see [Figure 3](kos00.htm#img_kos01)*..md)
 
 After this thou shalt repeat the following Oration:--
 
 ### THE ORATION.
 
 O ADONAI most powerful, EL most strong, AGLA most holy, ON Most
-righteous, the ALEPH <span id="fr_54"></span>[3](#fn_54) and the TAU,
+righteous, the ALEPH <span id="fr_54"></span>[3](#fn_54.md) and the TAU,
 the Beginning and the End; Thou Who hast established all things in Thy
 Wisdom; Thou Who has chosen Abraham Thy faithful servant, and hast
 promised that in his seed shall all nations of the earth be blessed,
@@ -116,14 +116,14 @@ which it is necessary to attract the Spirits so as to make them speak.
 Now, by Divine aid, I will teach thee how to perform certain experiments
 with success.
 
-Know, <span id="fr_55"></span>[1](#fn_55) O my Son Roboam, that all the
+Know, <span id="fr_55"></span>[1](#fn_55.md) O my Son Roboam, that all the
 Divine Sigils, Characters, and Names (which are the most precious and
 excellent things in Nature, whether Terrestrial or Celestial), should be
 written by thee each separately,
 
 when thou art in a state of grace and purity, upon virgin parchment,
 with ordinary ink, in the beginning of the month <span
-id="fr_56"></span>[2](#fn_56) of August before sunrise, raising thine
+id="fr_56"></span>[2](#fn_56.md) of August before sunrise, raising thine
 eyes unto heaven, and turning towards the east. Thou shalt preserve them
 to suspend from thy neck, whichever thou wilt, on the day and hour
 wherein thou wast born, after which thou shalt take heed to name every
@@ -175,25 +175,25 @@ that is contained in this my Testament.
 
 ### Footnotes
 
-<span id="fn_51"></span>[44:1](kos13.htm#fr_51) *i.e.* in Gemini, Libra,
+<span id="fn_51"></span>[44:1](kos13.htm#fr_51.md) *i.e.* in Gemini, Libra,
 Aquarius, Taurus, Virgo, or Capricorn.
 
-<span id="fn_52"></span>[45:1](kos13.htm#fr_52) Preferably those having
+<span id="fn_52"></span>[45:1](kos13.htm#fr_52.md) Preferably those having
 some reference to the work in hand.
 
-<span id="fn_53"></span>[45:2](kos13.htm#fr_53) I have given the numbers
+<span id="fn_53"></span>[45:2](kos13.htm#fr_53.md) I have given the numbers
 of the Psalms according to the *English*, not the *Hebrew* numbers.
 
-<span id="fn_54"></span>[45:3](kos13.htm#fr_54) The Qabalistic word
+<span id="fn_54"></span>[45:3](kos13.htm#fr_54.md) The Qabalistic word
 AZOTH may be substituted for 'the Aleph and the Tau.'
 
-<span id="fn_55"></span>[46:1](kos13.htm#fr_55) From here to the end of
+<span id="fn_55"></span>[46:1](kos13.htm#fr_55.md) From here to the end of
 the Chapter is only given in Lansdowne MSS. 1203.
 
-<span id="fn_56"></span>[46:2](kos13.htm#fr_56) *i.e.* When the Sun is
+<span id="fn_56"></span>[46:2](kos13.htm#fr_56.md) *i.e.* When the Sun is
 in the Sign Leo.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. Of the Experiment Concerning Things Stolen, And How
-It Should Be Performed](kos14)
+It Should Be Performed](kos14.md)

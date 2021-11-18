@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh06)  [Next](boh08) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh06)  [Next](boh08.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ To the earth, that is one wide grave."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Origin And Character Of Hallowe'en Omens](boh08)
+[Next: Chapter VI: Origin And Character Of Hallowe'en Omens](boh08.md)

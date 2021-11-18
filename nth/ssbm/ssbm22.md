@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm21)  [Next](ssbm23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm21)  [Next](ssbm23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -96,7 +96,7 @@ goes on in the low self that counts in magic.
 Mr. Emerson retained his contact with the High Self of this level all
 the rest of his life. Repeatedly his friends came to him to get his help
 in quieting the weather when they wished to go by ship between the
-islands. On the annual kite day at [Kamehameha](errata.htm#9) School for
+islands. On the annual kite day at [Kamehameha](errata.htm#9.md) School for
 Boys, he was invariably asked to be present, and to make the prayer for
 the large winds to be let out of the wind calabash (symbolic, of course)
 so that the big kites could go up. I have talked with a number of people
@@ -236,4 +236,4 @@ pact was effective and continued up to the time of writing the report.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXII. The Practical Use of the Magic of the
-Miracle](ssbm23)
+Miracle](ssbm23.md)

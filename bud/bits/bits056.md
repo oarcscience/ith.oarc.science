@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits055) [Next](bit-int4)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits055) [Next](bit-int4.md)
 
 ------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ remembering that he was keeping the precepts, and thinking, "I will eat
 these at the proper time." The Future Buddha, however, remained in his
 thicket, thinking, "At the proper time I will go out and eat
 dabba-grass.<span id="page_276_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_276_note_1)" Then he thought,
+class="small">1</span></sup>](#page_276_note_1.md)" Then he thought,
 
    "If any suppliants come, they will not want to eat grass, and I have
 no sesamum, rice, or other such food. If any suppliant comes, I will
@@ -277,7 +277,7 @@ the monkey was Sâriputta, while the wise hare was I myself."
 
 ------------------------------------------------------------------------
 
-[Next: Introduction to Chapter IV: Meditation and Nirvana](bit-int4)
+[Next: Introduction to Chapter IV: Meditation and Nirvana](bit-int4.md)
 
 ------------------------------------------------------------------------
 
@@ -285,7 +285,7 @@ the monkey was Sâriputta, while the wise hare was I myself."
 
 <span id="footnotes_page_276">p. 276</span>
 
-<span id="page_276_note_1"></span>[1](#page_276_fr_1) Name of various
+<span id="page_276_note_1"></span>[1](#page_276_fr_1.md) Name of various
 kinds of grasses used for sacrificial purposes.
 
  

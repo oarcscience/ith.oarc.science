@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf03)  [Next](tsf05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf03)  [Next](tsf05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ the course of execution. All other
 
 [![Primitive man's crude portrayal of the creative
 force](tn/01400.jpg)  
-Click to enlarge](img/01400.jpg)  
+Click to enlarge](img/01400.jpg.md)  
 Primitive man's crude portrayal of the creative force  
 
 dances seem to have been merely a warming up for the chief dance of the
@@ -255,7 +255,7 @@ song.
 <span id="img_01800"></span>
 
 [![Sex pervaded the art of Old Anthropology Adam](tn/01800.jpg)  
-Click to enlarge](img/01800.jpg)  
+Click to enlarge](img/01800.jpg.md)  
 Sex pervaded the art of Old Anthropology Adam  
 
 He shouted it forth in his speech; for the sounds that escaped him
@@ -374,7 +374,7 @@ also closing the outlet for his other emotions. Modern man must either
 sublimate
 
 <span id="img_02200"></span> ![An Egyptian phallic
-altar](img/02200.jpg)  
+altar](img/02200.jpg.md)  
 An Egyptian phallic altar
 
 his suppressed energies or develop a psychosis. Old Anthropology Adam
@@ -663,7 +663,7 @@ Rajputana. These dances
 
 [![A demon of love&lt;br&gt; (Adapted from an old English
 ballad)](tn/03100.jpg)  
-Click to enlarge](img/03100.jpg)  
+Click to enlarge](img/03100.jpg.md)  
 A demon of love  
 (Adapted from an old English ballad)  
 
@@ -782,7 +782,7 @@ other gods partook of the sacrifices that Old Anthropology
 
 [![Man's first church—the spreading banyan tree; his best-loved god—the
 male creative force](tn/03500.jpg)  
-Click to enlarge](img/03500.jpg)  
+Click to enlarge](img/03500.jpg.md)  
 Man's first church—the spreading banyan tree; his best-loved god—the
 male creative force  
 
@@ -815,7 +815,7 @@ and open
 <span id="img_03600"></span>
 
 [![From an old Egyptian urn](tn/03600.jpg)  
-Click to enlarge](img/03600.jpg)  
+Click to enlarge](img/03600.jpg.md)  
 From an old Egyptian urn  
 
 spaces, before the eyes of the people. Love was forbidden altogether
@@ -849,4 +849,4 @@ happy and lasting.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. In the Foundry of the Gods](tsf05)
+[Next: Chapter III. In the Foundry of the Gods](tsf05.md)

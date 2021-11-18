@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe114)  [Next](prwe116) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe114)  [Next](prwe116.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ and his body thrown into a neighbouring shaft."
 
 ------------------------------------------------------------------------
 
-[Next: Laying a Ghost](prwe116)
+[Next: Laying a Ghost](prwe116.md)

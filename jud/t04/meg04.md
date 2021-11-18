@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](meg03)  [Next](meg05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](meg03)  [Next](meg05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -274,7 +274,7 @@ needed an explanation
 of it, and you asked me not; did you ever ask me anything to which I
 answered not?
 
-Said Jacob, one of the Minim, <span id="fr_44"></span>[1](#fn_34) to R.
+Said Jacob, one of the Minim, <span id="fr_44"></span>[1](#fn_34.md) to R.
 Jehudah: The six men who read on the Day of Atonement, to whom do they
 correspond?, He said: To the six men who stood on the right and the left
 of Ezra, as is written \[Nehem. viii. 4\]: "The names of the six who
@@ -328,7 +328,7 @@ person to the sanctuary).
 GEMARA: Where is this deduced from? Said R. Hyya b. Abba in the name of
 R. Johanan: Because it is written \[Lev. xxii. 32\]: "I may be
 sanctified among the children of Israel." All things sanctified must not
-be less than ten. <span id="fr_45"></span>[1](#fn_35)
+be less than ten. <span id="fr_45"></span>[1](#fn_35.md)
 
 "*Standings and sittings*." Because it was the custom for a mourner to
 say: "Rise, honored men, rise!" and "Sit down, honored men, sit down!"
@@ -343,7 +343,7 @@ including, however, the bridegrooms.
 
 "*Mention the Divine name*." Why so? Because he must say: "Let us bless
 our God," and this is not suitable when there are less than ten. <span
-id="fr_46"></span>[2](#fn_36) (The Owner of Rewards shall recompense you
+id="fr_46"></span>[2](#fn_36.md) (The Owner of Rewards shall recompense you
 for the kindness of accompanying the deceased. Blessed art Thou, O Lord,
 who givest rewards), and the same was said to the condolers.
 
@@ -455,14 +455,14 @@ colored clothes," may not be permitted to do so even in white ones
 are particular about this\]. If he refuses to minister with sandals on
 his feet, he may not be permitted to minister even barefooted. A man who
 makes the Tephilin round endangers himself, and has not properly
-observed the commandment. <span id="fr_47"></span>[1](#fn_37) A person
+observed the commandment. <span id="fr_47"></span>[1](#fn_37.md) A person
 who places them low down on his forehead, or on the palm of his hand,
 acts like the Sadducees. If he covers them with gold, or places them on
-his *unkli*, <span id="fr_48"></span>[2](#fn_38) he acts like a
+his *unkli*, <span id="fr_48"></span>[2](#fn_38.md) he acts like a
 dissenter who does not care for our tradition.
 
 If one says in his prayers: "The good shall bless Thee," he acts
-heretically. <span id="fr_49"></span>[3](#fn_39) If he says: "As to
+heretically. <span id="fr_49"></span>[3](#fn_39.md) If he says: "As to
 birds' nests were Thy mercies extended, so have mercy upon us"; or, "For
 Thy good be Thy name remembered"; or one who says twice "Modim," he
 shall be silenced (by authority). Also, whoever explains the text \[Lev.
@@ -548,33 +548,33 @@ be read; but the other places may.
 
 ### Footnotes
 
-<span id="fn_34"></span>[63:1](meg04.htm#fr_44) Tosphoth proposes it
+<span id="fn_34"></span>[63:1](meg04.htm#fr_44.md) Tosphoth proposes it
 should be read Matzaa, of the city of that name, because, If he would be
 of the Minim, the Gemara would not mention his name. We, however, have
 explained in our *Philacterien-Ritus* that Jacob the Mini is right.
 
-<span id="fn_35"></span>[64:1](meg04.htm#fr_45) The Gemara deduces this
+<span id="fn_35"></span>[64:1](meg04.htm#fr_45.md) The Gemara deduces this
 from an analogy of expression, where a congregation is mentioned, and it
 is said a congregation is not called an assembly if less than ten.
 
-<span id="fn_36"></span>[64:2](meg04.htm#fr_46) It is also shown from
+<span id="fn_36"></span>[64:2](meg04.htm#fr_46.md) It is also shown from
 what the other laws are deduced, but they will all be found in other and
 mare proper places in the Talmud.
 
-<span id="fn_37"></span>[67:1](meg04.htm#fr_47) In our
+<span id="fn_37"></span>[67:1](meg04.htm#fr_47.md) In our
 *Philacterien-Ritus*, pp. 56, 87, 126, we have corrected this misprint
 as, "it is dangerous and there is no merit in it." We found this
 misprint corrected in Tract Tephilin of the seven new tracts by
 Kirchheim.
 
-<span id="fn_38"></span>[67:2](meg04.htm#fr_48) About this Mishna we
+<span id="fn_38"></span>[67:2](meg04.htm#fr_48.md) About this Mishna we
 have remarked in our "History of Amulets, Charms, and Talismans," p. 30,
 note 33, thus: We have already demonstrated in "Phyl.-R.," p. 56 (and at
 length on p. 65, under the heading ‏אונקלי‎) that the Mishna in Megilla,
 "If one cover them with gold," etc., "he acts like a dissenter," refers
 to the Jewish Christians.
 
-<span id="fn_39"></span>[67:3](meg04.htm#fr_49) The expression here is
+<span id="fn_39"></span>[67:3](meg04.htm#fr_49.md) The expression here is
 not plain. It seems to us that the Mishna meant to say he acts like the
 Persians, who believe in two Gods--one of good, the other of evil--as
 the latter part of the Mishna, "who says twice Modin," means: Who
@@ -583,4 +583,4 @@ has not done evil.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](meg05)
+[Next: Chapter IV](meg05.md)

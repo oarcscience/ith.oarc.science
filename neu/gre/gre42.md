@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre41)  [Next](gre43) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre41)  [Next](gre43.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ therefrom, because he would fain see the king.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXVIII: Of Thorir of Garth and his sons; and how Grettir
-fetched fire for his shipmates](gre43)
+fetched fire for his shipmates](gre43.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida11)  [Next](ida13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida11)  [Next](ida13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -244,7 +244,7 @@ you never heard of the method
 
 of Dr. Variot, by which a human body can be preserved without embalming?
 Have you never read the book of that practitioner? <span
-id="fr_11"></span>[1](#fn_11) He explains a method called
+id="fr_11"></span>[1](#fn_11.md) He explains a method called
 electro-plating. The skin is coated with a very thin layer of silver
 salts, to make it a conductor. The body then is placed in a solution of
 copper sulphate, and the polar currents do their work. The body of this
@@ -470,9 +470,9 @@ Without a word, I obeyed.
 
 ### Footnotes
 
-<span id="fn_11"></span>[153:1](ida12.htm#fr_11) Variot:
+<span id="fn_11"></span>[153:1](ida12.htm#fr_11.md) Variot:
 *L’anthropologie galvanique*. Paris, 1890. (Note by M. Leroux.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Antinea](ida13)
+[Next: Chapter XI. Antinea](ida13.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes76)  [Next](tes78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes76)  [Next](tes78.md) 
 
 ------------------------------------------------------------------------
 
-### 12. STORY ABOUT KUNDIRIK. <span id="fr_113"></span>[1](#fn_113)
+### 12. STORY ABOUT KUNDIRIK. <span id="fr_113"></span>[1](#fn_113.md)
 
 There was an old man with an old woman. One time they prayed to God,
 asking Him to give them a child. God granted their prayer, and they had
@@ -16,7 +16,7 @@ him and wanted to kill him. "O grandfather! spare me!" "Unless you
 promise to give me your son Kundirik, I shall kill all of you." He
 promised to give him the boy and the bear let him go. The old woman saw
 him come covered with blood: "Ah!" cried she, "Pičini'č, pičini'č, <span
-id="fr_114"></span>[2](#fn_114) My husband is bringing reindeer meat!"
+id="fr_114"></span>[2](#fn_114.md) My husband is bringing reindeer meat!"
 "Do not make so much noise! It is my own blood. The grandfather wanted
 to kill me. O wife! he asked for our little Kundirik. Otherwise he said
 he should come and kill all of us." The old woman cried much, then she
@@ -91,12 +91,12 @@ Anadyr country, fall of 1900.
 
 ### Footnotes
 
-<span id="fn_113"></span>[139:1](tes77.htm#fr_113) Cf. No. 2, [p.
-112](tes56.htm#page_112), of the series of Children's Stories--W. B.
+<span id="fn_113"></span>[139:1](tes77.htm#fr_113.md) Cf. No. 2, [p.
+112](tes56.htm#page_112.md), of the series of Children's Stories--W. B.
 
-<span id="fn_114"></span>[139:2](tes77.htm#fr_114) These words were
+<span id="fn_114"></span>[139:2](tes77.htm#fr_114.md) These words were
 indicated as belonging to the Chuvantzi language.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 13. A Markova Tale](tes78)
+[Next: 13. A Markova Tale](tes78.md)

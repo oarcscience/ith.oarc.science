@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw11) 
-[Next](wbw13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw11.md) 
+[Next](wbw13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -221,6 +221,6 @@ but was as one bound hand and foot, till he had seen the Maid again.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: Now Is The Hunt Up](wbw13)
+[Next: Chapter XIII: Now Is The Hunt Up](wbw13.md)
 
 </div>

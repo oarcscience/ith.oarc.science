@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](fsca00)    [Page
-Index](pageidx)    [Text \[Zipped\]](fsca.txt.gz)
+[Contents](#contents)    [Start Reading](fsca00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](fsca.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -46,98 +46,98 @@ for browsing.--J.B. Hare, May 25, 2009.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](fsca00)  
-[Preface](fsca01)  
-[Contents](fsca02)  
-[List of Illustrations](fsca03)  
-[Introduction](fsca04)  
+<span id="contents"></span> [Title Page](fsca00.md)  
+[Preface](fsca01.md)  
+[Contents](fsca02.md)  
+[List of Illustrations](fsca03.md)  
+[Introduction](fsca04.md)  
 <span id="section_000"></span>
 
 ### Notes on Animated Beings in Heraldic Art
 
-[Introduction](fsca05)  
-[The Symbolism of Attitude or Position](fsca06)  
+[Introduction](fsca05.md)  
+[The Symbolism of Attitude or Position](fsca06.md)  
 [The Heraldic Spirit—Effective decorative Quality essential in
-Heraldry](fsca07)  
+Heraldry](fsca07.md)  
 <span id="section_001"></span>
 
 ### Celestial Beings
 
-[Angels](fsca08)  
-[Mistaken Modern Conception of Angels](fsca09)  
-[Mediæval Art Treatment of Angels](fsca10)  
-[Cherubim and Seraphim in Heraldry](fsca11)  
-[Cherubim & Seraphim of Scripture](fsca12)  
-[Emblems of the Four Evangelists](fsca13)  
+[Angels](fsca08.md)  
+[Mistaken Modern Conception of Angels](fsca09.md)  
+[Mediæval Art Treatment of Angels](fsca10.md)  
+[Cherubim and Seraphim in Heraldry](fsca11.md)  
+[Cherubim & Seraphim of Scripture](fsca12.md)  
+[Emblems of the Four Evangelists](fsca13.md)  
 <span id="section_002"></span>
 
 ### Chimerical Creatures of the Dragon and Serpent kind
 
-[The Dragon](fsca14)  
-[The Dragon in Christian Art](fsca15)  
-[St. George and the Dragon](fsca16)  
-[The Dragon in the Royal Heraldry of Britain](fsca17)  
-[The Crocodile as the Prototype of the Dragon](fsca18)  
-[The Heraldic Dragon](fsca19)  
-[The Hydra](fsca20)  
-[The Wyvern](fsca21)  
-[The Chimera](fsca22)  
-[The Lion-Dragon](fsca23)  
-[The Gorgon](fsca24)  
-[The Cockatrice](fsca25)  
-[The Basilisk](fsca26)  
-[The Mythical Serpent](fsca27)  
-[The Scorpion](fsca28)  
+[The Dragon](fsca14.md)  
+[The Dragon in Christian Art](fsca15.md)  
+[St. George and the Dragon](fsca16.md)  
+[The Dragon in the Royal Heraldry of Britain](fsca17.md)  
+[The Crocodile as the Prototype of the Dragon](fsca18.md)  
+[The Heraldic Dragon](fsca19.md)  
+[The Hydra](fsca20.md)  
+[The Wyvern](fsca21.md)  
+[The Chimera](fsca22.md)  
+[The Lion-Dragon](fsca23.md)  
+[The Gorgon](fsca24.md)  
+[The Cockatrice](fsca25.md)  
+[The Basilisk](fsca26.md)  
+[The Mythical Serpent](fsca27.md)  
+[The Scorpion](fsca28.md)  
 <span id="section_003"></span>
 
 ### Other Chimerical Creatures and Heraldic Beasts
 
-[The Unicorn](fsca29)  
-[Mediaeval Conception of the Unicorn](fsca30)  
-[The Horn of the Unicorn](fsca31)  
-[The Pegasus](fsca32)  
-[Sagittary, Centaur, Sagittarius, Centaurus, Hippocentaur](fsca33)  
-[The Griffin](fsca34)  
-[The Male Griffin](fsca35)  
-[Other Varieties of the Griffin](fsca36)  
-[The Opinicus, or Epimacus](fsca37)  
-[The Sphynx](fsca38)  
-[The Phœnix Bird of the Sun](fsca39)  
-[The Harpy](fsca40)  
-[The Heraldic Pelican](fsca41)  
-[The Martlet](fsca42)  
-[The Alerion](fsca43)  
-[The Liver (Cormorant)](fsca44)  
-[The Heraldic Tigre or Tyger](fsca45)  
-[The Royal Tiger](fsca46)  
-[Leopard, or Panther, Felis Pardus, Lybbarde](fsca47)  
-[The Panther Incensed](fsca48)  
-[The Lynx](fsca49)  
-[Cat-a-Mountain—Tiger Cat or Wild Cat](fsca50)  
-[The Salamander](fsca51)  
-[Heraldic Antelope](fsca52)  
-[Heraldic Ibex](fsca53)  
-[Bagwyn](fsca54)  
-[The Camelopard, Camel-leopard](fsca55)  
-[Musimon, Tityrus](fsca56)  
-[The Enfield](fsca57)  
-[Mantiger, Montegre or Manticora Satyral](fsca58)  
-[Lamia or Emipusa](fsca59)  
-[Baphomet](fsca60)  
-[Apres](fsca61)  
-[Stelliones](fsca62)  
+[The Unicorn](fsca29.md)  
+[Mediaeval Conception of the Unicorn](fsca30.md)  
+[The Horn of the Unicorn](fsca31.md)  
+[The Pegasus](fsca32.md)  
+[Sagittary, Centaur, Sagittarius, Centaurus, Hippocentaur](fsca33.md)  
+[The Griffin](fsca34.md)  
+[The Male Griffin](fsca35.md)  
+[Other Varieties of the Griffin](fsca36.md)  
+[The Opinicus, or Epimacus](fsca37.md)  
+[The Sphynx](fsca38.md)  
+[The Phœnix Bird of the Sun](fsca39.md)  
+[The Harpy](fsca40.md)  
+[The Heraldic Pelican](fsca41.md)  
+[The Martlet](fsca42.md)  
+[The Alerion](fsca43.md)  
+[The Liver (Cormorant)](fsca44.md)  
+[The Heraldic Tigre or Tyger](fsca45.md)  
+[The Royal Tiger](fsca46.md)  
+[Leopard, or Panther, Felis Pardus, Lybbarde](fsca47.md)  
+[The Panther Incensed](fsca48.md)  
+[The Lynx](fsca49.md)  
+[Cat-a-Mountain—Tiger Cat or Wild Cat](fsca50.md)  
+[The Salamander](fsca51.md)  
+[Heraldic Antelope](fsca52.md)  
+[Heraldic Ibex](fsca53.md)  
+[Bagwyn](fsca54.md)  
+[The Camelopard, Camel-leopard](fsca55.md)  
+[Musimon, Tityrus](fsca56.md)  
+[The Enfield](fsca57.md)  
+[Mantiger, Montegre or Manticora Satyral](fsca58.md)  
+[Lamia or Emipusa](fsca59.md)  
+[Baphomet](fsca60.md)  
+[Apres](fsca61.md)  
+[Stelliones](fsca62.md)  
 <span id="section_004"></span>
 
 ### Fictitious Creatures of the Sea
 
-[Introductory Notes](fsca63)  
-[Poseidon or Neptune](fsca64)  
-[Merman or Triton](fsca65)  
-[The Mermaid or Siren](fsca66)  
-[The Sirens of Classical Mythology](fsca67)  
-[The Dolphin of Legend and of Heraldry](fsca68)  
-[The Dauphin of France](fsca69)  
-[The Heraldic Dolphin](fsca70)  
-[The Sea-Horse](fsca71)  
-[Sea-lion](fsca72)  
-[Sea-dog](fsca73)  
+[Introductory Notes](fsca63.md)  
+[Poseidon or Neptune](fsca64.md)  
+[Merman or Triton](fsca65.md)  
+[The Mermaid or Siren](fsca66.md)  
+[The Sirens of Classical Mythology](fsca67.md)  
+[The Dolphin of Legend and of Heraldry](fsca68.md)  
+[The Dauphin of France](fsca69.md)  
+[The Heraldic Dolphin](fsca70.md)  
+[The Sea-Horse](fsca71.md)  
+[Sea-lion](fsca72.md)  
+[Sea-dog](fsca73.md)  

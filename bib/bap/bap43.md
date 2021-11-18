@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap42) 
-[Next](bap44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap42.md) 
+[Next](bap44.md) 
 
 ------------------------------------------------------------------------
 
 ### CHAPTER XXVII.
 
 XXVII\. And after this he armed of the people 300,000 men and went up to
-fight against the Amorites, <span id="fr_113"></span>[2](#fn_113) and
+fight against the Amorites, <span id="fr_113"></span>[2](#fn_113.md) and
 slew on the first day 800,000 men, and on the second day he slew about
 500,000. 2. And when the third day came, certain men of the people spake
 evil against Cenez, saying: Lo now, Cenez alone lieth in his house with
 his wife and his concubines, and sendeth us to battle, that we may be
 destroyed before our enemies. 3. And when the servants of Cenez heard,
 they brought him word. And he commanded a captain of fifty, and he
-brought of them thirty-seven men <span id="fr_114"></span>[3](#fn_114)
+brought of them thirty-seven men <span id="fr_114"></span>[3](#fn_114.md)
 
 <span id="page_159">p. 159</span>
 
@@ -94,7 +94,7 @@ Amorites forty and five thousand men, and they themselves smote one
 another, and fell forty and five thousand men. 11. And when Cenez had
 smitten a great multitude, he would have loosened his hand from his
 sword, for the handle of the sword clave, <span
-id="fr_115"></span>[1](#fn_115) that it could not be loosed, and his
+id="fr_115"></span>[1](#fn_115.md) that it could not be loosed, and his
 right hand had taken into it the strength of the sword.
 
 Then they that were left of the Amorites fled into the mountains; but
@@ -157,7 +157,7 @@ for we die not for this sin that we have now spoken, but for that former
 one wherein those men were taken which were burned in their sins; for
 then we did consent unto their sin, saying: Peradventure the people will
 not perceive us; and then we did escape the people. But now have we been
-(rightly) made a public example <span id="fr_116"></span>[1](#fn_116) by
+(rightly) made a public example <span id="fr_116"></span>[1](#fn_116.md) by
 our sins in that we fell into slandering of thee. And Cenez said: If ye
 yourselves therefore witness against yourselves, how shall I have
 compassion upon you? And Cenez commanded them to be burned with fire,
@@ -171,23 +171,23 @@ was fear upon all his enemies all his days.
 
 ### Footnotes
 
-<span id="fn_113"></span>[158:2](bap43.htm#fr_113) XXVII. 1. The
+<span id="fn_113"></span>[158:2](bap43.htm#fr_113.md) XXVII. 1. The
 Amorites. In XXV. 1, the enemy were the Philistines, Allophyli. But the
 Amorites, of whose idols so much has been said in the interim, seem to
 have absorbed Philo's attention.
 
-<span id="fn_114"></span>[158:3](bap43.htm#fr_114) 3. I can only make
+<span id="fn_114"></span>[158:3](bap43.htm#fr_114.md) 3. I can only make
 thirty-six names from the manuscripts unless Eliesor is divided into
 two.
 
-<span id="fn_115"></span>[161:1](bap43.htm#fr_115) 11. Kenaz's hand
+<span id="fn_115"></span>[161:1](bap43.htm#fr_115.md) 11. Kenaz's hand
 cleaves to his sword like that of Eleazar, the mighty man in 2 Sam.
 23:10.
 
-<span id="fn_116"></span>[163:1](bap43.htm#fr_116) 15. *made a public
+<span id="fn_116"></span>[163:1](bap43.htm#fr_116.md) 15. *made a public
 example*: *transducti*. In the old Latin Bible versions *transduco*
 renders παραδειγματίζω, ἐλέγχω.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII](bap44)
+[Next: Chapter XXVIII](bap44.md)

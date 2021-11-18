@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama503) 
-[Next](kama505) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama503.md) 
+[Next](kama505.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -65,8 +65,8 @@ listens with a favourable ear, then on the following day the go-between,
 having observed marks of good spirits in her face, in her eyes, and in
 her manner of conversation, should again converse with her on the
 subject of the man, and should tell her the stories of Ahalya <span
-id="fr_55"></span>[1](kama101.htm#fn_0) and Indra, of Sakoontala <span
-id="fr_56"></span>[2](kama101.htm#fn_1) and Dushyanti, and such others
+id="fr_55"></span>[1](kama101.htm#fn_0.md) and Indra, of Sakoontala <span
+id="fr_56"></span>[2](kama101.htm#fn_1.md) and Dushyanti, and such others
 as may be fitted for the occasion. She should also describe to her the
 strength of the man, his talents, his skill in the sixty-four sorts of
 enjoyments mentioned by Babhravya, his good looks, and his liaison with
@@ -119,7 +119,7 @@ saffron both his hands joined together as if in earnest entreaty.
 The go-between should also show to the woman ornamental figures of
 various kinds cut in leaves, together with ear ornaments, and chaplets
 made of flowers containing love letters expressive of the desire of the
-man, <span id="fr_57"></span>[3](kama101.htm#fn_2) and she should cause
+man, <span id="fr_57"></span>[3](kama101.htm#fn_2.md) and she should cause
 her to send affectionate presents to the man in return. After they have
 mutually accepted each other's presents, then a meeting should be
 arranged between them on the faith of the go-between.
@@ -129,7 +129,7 @@ the time of going to the temple of a Deity, or on occasions of fairs,
 garden parties, theatrical performances, marriages, sacrifices,
 festivals and funerals, as also at the time of going to the river to
 bathe, or at times of natural calamities, <span
-id="fr_58"></span>[4](kama102.htm#fn_6) fear of robbers or hostile
+id="fr_58"></span>[4](kama102.htm#fn_6.md) fear of robbers or hostile
 invasions of the country.
 
 Gonikaputra is of opinion however that these meetings had better be
@@ -252,17 +252,17 @@ himself from her.
 
 ### Footnotes
 
-<span id="fn_55"></span>[1](#fr_-1) The wife of the sage Gautama, she
+<span id="fn_55"></span>[1](#fr_-1.md) The wife of the sage Gautama, she
 was seduced by Indra the king of the Gods.
 
-<span id="fn_56"></span>[2](#fr_-1) The heroine of one of the best, if
+<span id="fn_56"></span>[2](#fr_-1.md) The heroine of one of the best, if
 not the best, of Hindoo plays, and the best known in Sanscrit dramatic
 literature. It was first brought to notice by Sir William Jones, and has
 been well and poetically translated by Dr Monier Williams under the
 title of Sakoontala, or the lost ring, an Indian drama, translated into
 English prose and verse from the Sanscrit of Kalidasa.
 
-<span id="fn_57"></span>[3](#fr_-1) It is presumed that something like
+<span id="fn_57"></span>[3](#fr_-1.md) It is presumed that something like
 the following French verses are intended:
 
  
@@ -283,10 +283,10 @@ Or these:
 Quand on vous voit, on vous aime;  
 Quand on vous aime, oû vous voit on?
 
-<span id="fn_58"></span>[4](#fr_-1) It is supposed that storms,
+<span id="fn_58"></span>[4](#fr_-1.md) It is supposed that storms,
 earthquakes, famines and pestilent diseases are here alluded to.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter V. On the Love of Persons in Authority with the Wives of
-Other People](kama505)
+Other People](kama505.md)

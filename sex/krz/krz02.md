@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz01)  [Next](krz03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz01)  [Next](krz03.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ love-happiness.
 
 ------------------------------------------------------------------------
 
-[Next: Soul Blending](krz03)
+[Next: Soul Blending](krz03.md)

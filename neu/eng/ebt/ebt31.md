@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt30)  [Next](ebt32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt30)  [Next](ebt32.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ The two-colour title by Mr. W. E. Henner, Hereford.
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements from original](ebt32)
+[Next: Advertisements from original](ebt32.md)

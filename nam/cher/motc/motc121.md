@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc120) 
-[Next](motc122) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc120.md) 
+[Next](motc122.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ fountain occasions."--Adair, American Indians, p. 231, 1775.
 
 ------------------------------------------------------------------------
 
-[Next: 122. Local Legends Of North Carolina](motc122)
+[Next: 122. Local Legends Of North Carolina](motc122.md)

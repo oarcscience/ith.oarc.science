@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs32)  [Next](sfs34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs32)  [Next](sfs34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ literature of the Austrian Russians to the notice of the British reader.
 
 The prophet Elijah (*Ilya*) is a very important and powerful personage
 in Russian folklore, and we find him accordingly in [No.
-27](sfs37.htm#an_27) holding a prominent position in the heavenly
+27](sfs37.htm#an_27.md) holding a prominent position in the heavenly
 hierarchy, even before the creation of man! He seems to have taken the
 place of Perun, the god of thunder, among the heathen Slavonians.
 
@@ -51,8 +51,8 @@ their Teutonic brethren, and do not appear to have any connection with
 the Arch Enemy, but to be, as Mr. Ralston says (p. 370), rather 'the
 lubber fiends of heathen mythology, beings endowed with supernatural
 might, but scantily provided with mental power.' [No.
-26](sfs36.htm#an_26) gives a specimen of their average intelligence.
+26](sfs36.htm#an_26.md) gives a specimen of their average intelligence.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV. God Knows How to Punish Man](sfs34)
+[Next: XXIV. God Knows How to Punish Man](sfs34.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cob10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cob10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Buddha*, by Edmond Holmes, \[1919\], at Intangible Textual
 Heritage
 
@@ -117,7 +117,7 @@ allows the thinker to proceed at once on his way.
 If the soul is to believe in itself, it must break away, finally and
 completely, from Western standards of reality, or rather--for the
 Western mind does not think in the category of the *real* and the
-*unreal* <span id="fr_46"></span>[1](#fn_45)--from Western criteria of
+*unreal* <span id="fr_46"></span>[1](#fn_45.md)--from Western criteria of
 existence. While it is engaged in freeing itself from these fetters, its
 conception of Nature will undergo a profound and far-reaching change.
 Vast possibilities will begin to dawn upon its vision. No longer bound
@@ -337,7 +337,7 @@ terrible command is in its essence the echo of what Buddha had said,
 centuries before, in quite other words: "The material form is not the
 self: the sensations are not the self: the perceptions are not the self:
 the conformations \[predispositions\] are not the self: the
-consciousness is not the self." <span id="fr_47"></span>[1](#fn_46)
+consciousness is not the self." <span id="fr_47"></span>[1](#fn_46.md)
 
 The "Kingdom of Heaven," which figures so prominently in Christ's
 discourses, is obviously the kingdom of soul-life;--a kingdom which is
@@ -488,7 +488,7 @@ allowed the paradox--that the reality of the soul is unprovable.
 "Only by soul itself  
 Ts soul perceived.--when the Soul wills it so!  
 There shines no light save its own light to show  
-Itself unto itself." <span id="fr_48"></span>[1](#fn_47)
+Itself unto itself." <span id="fr_48"></span>[1](#fn_47.md)
 
 </div>
 
@@ -556,7 +556,7 @@ physical or palpable side of Nature should have
 
 been the first for Science to explore. But there is no reason why
 Science should confine her operations to that particular sphere. To be
-immersed in physical matter is not of the [essence](errata.htm#3) of
+immersed in physical matter is not of the [essence](errata.htm#3.md) of
 Science. What is of her essence is the secret faith which is the
 mainspring of all her energies,--the faith of the soul of man in the
 intrinsic unity of Nature, its latent belief that the Universe is "not
@@ -683,7 +683,7 @@ very right to exist;--which recognizes, for example, that silence
 "implies sound," that failure is "a triumph's evidence," that the
 supernatural world is at the heart of Nature, that form is as truly the
 expression of spirit, as spirit is the soul and life of form. <span
-id="fr_49"></span>[1](#fn_48)
+id="fr_49"></span>[1](#fn_48.md)
 
 Such a monism was once taught in the Far East. The Indian doctrine of
 the fundamental identity of the individual and the universal life, and,
@@ -693,7 +693,7 @@ Universal Soul, makes an end, once and
 <span id="page_255">p. 255</span>
 
 for all, of the false dualism of the human and the Divine, <span
-id="fr_50"></span>[1](#fn_49) and provides for the return of the Lord
+id="fr_50"></span>[1](#fn_49.md) and provides for the return of the Lord
 and Giver of Life from his exile in the supernatural dreamland to his
 home at the heart of Nature. If Western thought will accept this
 doctrine as a provisional theory of things, and try to master its
@@ -712,7 +712,7 @@ line with the anti-idealistic theories of the dominant school of Western
 thought. The attempt has not been successful; for it can be shown, I
 think, that Buddha based his scheme of life, not on rejection of the
 "soul-theory," but on whole-hearted acceptance of it. But those who
-contend that Buddha's [philosophy](errata.htm#4) is modern and Western,
+contend that Buddha's [philosophy](errata.htm#4.md) is modern and Western,
 have come within a little of stumbling
 
 <span id="page_256">p. 256</span>
@@ -731,7 +731,7 @@ is under the reign of *law* (a conception of Nature which Science must
 have unconsciously brought with her to her work of investigation, and
 which has made that work possible); and the further discovery that all
 laws of Nature are subordinate to the master law of *development* or
-*growth*. <span id="fr_51"></span>[1](#fn_50) Both these discoveries
+*growth*. <span id="fr_51"></span>[1](#fn_50.md) Both these discoveries
 were anticipated by Buddha; but they were made by him--or by the
 thinkers who sowed what he reaped--not on the physical plane, but on the
 spiritual, on the plane of man's inner life. Buddha realized, as no man
@@ -774,7 +774,7 @@ take it up and repeat it,
 
 developing in its own way the mighty ideas that are behind it. Dr Rhys
 Davids seems to think that it is "unmanly" <span
-id="fr_52"></span>[1](#fn_51) to take thought for one's soul; and it is
+id="fr_52"></span>[1](#fn_51.md) to take thought for one's soul; and it is
 possible that care for the soul has at times taken forms which are open
 to this reproach. But when the idea of soul-growth is interpreted in the
 light of the idea of inexorable law, it loses the sickly savour which
@@ -856,12 +856,12 @@ THE END
 
 ### Footnotes
 
-<span id="fn_45"></span>[234:1](cob11.htm#fr_46) Its favourite category
+<span id="fn_45"></span>[234:1](cob11.htm#fr_46.md) Its favourite category
 is a hybrid one,--that of the *real* and the *not-existent*. But by the
 *real* it obviously means the *existent*. The idea that there are
 degrees of reality lies beyond the horizon of its thought.
 
-<span id="fn_46"></span>[242:1](cob11.htm#fr_47) Compare Sâriputta's
+<span id="fn_46"></span>[242:1](cob11.htm#fr_47.md) Compare Sâriputta's
 words in his dialogue with Yamaka: "As regards all form . . . all
 sensation . . . all perception . . . all predispositions . . . all
 consciousness . . . the correct view in the light of the highest
@@ -870,16 +870,16 @@ my Ego.'" Can it be that the beautiful story of Kunâla \[the son of the
 great Buddhist Emperor, Asoka\], whose eyes were "plucked out" by order
 of his wicked stepmother, had made its way to Galilee?
 
-<span id="fn_47"></span>[247:1](cob11.htm#fr_48) "The Secret of Death,"
+<span id="fn_47"></span>[247:1](cob11.htm#fr_48.md) "The Secret of Death,"
 by Sir Edwin Arnold.
 
-<span id="fn_48"></span>[254:1](cob11.htm#fr_49) The initial mistake of
+<span id="fn_48"></span>[254:1](cob11.htm#fr_49.md) The initial mistake of
 modern materialism is to assume that there can be no form except what is
 discernible, directly or indirectly, by man's bodily senses,--a naïvely
 egotistic assumption which has nothing to say for itself except that it
 seems a truism to a certain type of mind.
 
-<span id="fn_49"></span>[255:1](cob11.htm#fr_50) I am sometimes told
+<span id="fn_49"></span>[255:1](cob11.htm#fr_50.md) I am sometimes told
 that, if I do not believe in the supernatural Divinity of Christ, I have
 no choice but to regard him as a "mere man." What is a "mere man"? I
 have not the faintest conception. What is "mere" Nature? What is "mere"
@@ -887,12 +887,12 @@ beauty? What is "mere" life? When a noun has an unfathomable depth of
 meaning, "mere," in the limiting sense of the word, is surely the last
 adjective to apply to it.
 
-<span id="fn_50"></span>[256:1](cob11.htm#fr_51) We speak of the
+<span id="fn_50"></span>[256:1](cob11.htm#fr_51.md) We speak of the
 *growth* of an individual organism; of the *development* of a type. As
 the soul is both individual and universal, either term may be applied to
 it.
 
-<span id="fn_51"></span>[258:1](cob11.htm#fr_52) "The ancient Aryans
+<span id="fn_51"></span>[258:1](cob11.htm#fr_52.md) "The ancient Aryans
 were far too manly and free to be troubled much about their own souls,
 either before or after the death of the body."--"American Lectures on
 Buddha," p.17.

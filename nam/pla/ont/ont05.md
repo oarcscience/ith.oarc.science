@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont04)  [Next](ont06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont04)  [Next](ont06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -103,7 +103,7 @@ still upon my horse, my mind went back many years, and I pictured to
 
 <span id="img_02800"></span> <span align="CENTER"> [![LOOKED DOWN ON A
 SMALL INDIAN CAMP.](tn/02800.jpg)  
-Click to enlarge](img/02800.jpg)  
+Click to enlarge](img/02800.jpg.md)  
 LOOKED DOWN ON A SMALL INDIAN CAMP.  
 </span>
 
@@ -144,13 +144,13 @@ made a speciality of white horses and would have no other colour in his
 herds.
 
 To the right of Mad Wolf lay the sacred bundle of the Beaver
-Medicine. <span id="fr_9"></span>[1](#fn_5) Next to it sat Mad Wolf's
+Medicine. <span id="fr_9"></span>[1](#fn_5.md) Next to it sat Mad Wolf's
 wife, Gives-to-the-Sun. From the lodge poles over their heads hung the
 Medicine Pipe and a raw-hide case
 
 <span id="page_30">p. 30</span>
 
-containing the Medicine Bonnet. <span id="fr_10"></span>[1](#fn_6) To
+containing the Medicine Bonnet. <span id="fr_10"></span>[1](#fn_6.md) To
 the right of Gives-to-the-Sun were women and children completely filling
 the circle to the doorway of the lodge.
 
@@ -160,7 +160,7 @@ a young woman, who arose and, bending over the fire, slowly stirred a
 
 <span id="img_03000"></span> <span align="CENTER">
 [![“STRIKES-ON-BOTH-SIDES.”](tn/03000.jpg)  
-Click to enlarge](img/03000.jpg)  
+Click to enlarge](img/03000.jpg.md)  
 “STRIKES-ON-BOTH-SIDES.”  
 </span>
 
@@ -313,7 +313,7 @@ and relatives. On the first day of the full moon, at the</span>
 on the South Fork of Cutbank River. Come to my lodge on that day, for I
 will have there the leading chiefs and medicine men. I will hold a
 sacred ceremonial, and will unroll the ancient Medicine Bundle <span
-id="fr_11"></span>[1](#fn_7) of the Beavers. We will give you an Indian
+id="fr_11"></span>[1](#fn_7.md) of the Beavers. We will give you an Indian
 name, again painting you with the sacred paint, and receiving you into
 the tribe of the Blackfeet."</span>
 
@@ -321,15 +321,15 @@ the tribe of the Blackfeet."</span>
 
 ### Footnotes
 
-<span id="fn_5"></span>[29:1](ont05.htm#fr_9) See
-[Appendix](ont44.htm#an_29).
+<span id="fn_5"></span>[29:1](ont05.htm#fr_9.md) See
+[Appendix](ont44.htm#an_29.md).
 
-<span id="fn_6"></span>[30:1](ont05.htm#fr_10) See
-[Appendix](ont44.htm#an_30).
+<span id="fn_6"></span>[30:1](ont05.htm#fr_10.md) See
+[Appendix](ont44.htm#an_30.md).
 
-<span id="fn_7"></span>[35:1](ont05.htm#fr_11) See
-[Appendix](ont44.htm#an_35).
+<span id="fn_7"></span>[35:1](ont05.htm#fr_11.md) See
+[Appendix](ont44.htm#an_35.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Hunting in the Rocky Mountains](ont06)
+[Next: Chapter III. Hunting in the Rocky Mountains](ont06.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff22)  [Next](fff24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff22)  [Next](fff24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -71,7 +71,7 @@ enough. The mere fact that Irenæus gives a summary which presents
 comparatively simple features, is no guarantee that the systems
 themselves may not have been full and carefully worked out expositions.
 We may with safety regard the summary of the bishop of Lyons as a rough
-indication of heads of [doctrine](errata.htm#25), as a catalogue of
+indication of heads of [doctrine](errata.htm#25.md), as a catalogue of
 subjects deprived of their content. Thus we learn that Saturninus taught
 the Unknown Father; the great intermediate hierarchies, archangels,
 angels, and powers; the seven creative spheres and their rulers; the
@@ -116,4 +116,4 @@ Saturninus and his "heresy" with so scant notice.
 
 ------------------------------------------------------------------------
 
-[Next: The ''Ophites''](fff24)
+[Next: The ''Ophites''](fff24.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw307)  [Next](ataw309) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw307)  [Next](ataw309.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -92,7 +92,7 @@ copper ore
  
 
 <span id="img_23900"></span> <span align="CENTER"> [![](tn/23900.jpg)  
-Click to enlarge](img/23900.jpg)</span>  
+Click to enlarge](img/23900.jpg.md)</span>  
 IMPLEMENTS AND ORNAMENTS OF THE BRONZE AGE.
 
  
@@ -141,7 +141,7 @@ This view is also held by M. de Fallenberg, in the "Bulletin
  
 
 <span id="img_24200"></span> <span align="CENTER"> [![](tn/24200.jpg)  
-Click to enlarge](img/24200.jpg)</span>  
+Click to enlarge](img/24200.jpg.md)</span>  
 ORNAMENTS OF THE BRONZE AGE.
 
  
@@ -206,7 +206,7 @@ Tokhari, who were contemporaries of the Phœnicians.
  
 
 <span id="img_24400"></span> <span align="CENTER"> [![](tn/24400.jpg)  
-Click to enlarge](img/24400.jpg)</span>  
+Click to enlarge](img/24400.jpg.md)</span>  
 CELTIC WARRIOR, FROM EGYPTIAN MONUMENTS.
 
  
@@ -248,7 +248,7 @@ generations.
  
 
 <span id="img_24500"></span> <span align="CENTER"> [![](tn/24500.jpg)  
-Click to enlarge](img/24500.jpg)</span>  
+Click to enlarge](img/24500.jpg.md)</span>  
 CELTIC WARRIOR, FROM ASSYRIAN MONUMENTS.
 
  
@@ -480,7 +480,7 @@ DANISH CELT.</p></td>
  
 
 <span id="img_25100"></span> <span align="CENTER"> [![](tn/25100.jpg)  
-Click to enlarge](img/25100.jpg)</span>  
+Click to enlarge](img/25100.jpg.md)</span>  
 LEAF SHAPED BRONZE SWORDS.
 
  
@@ -493,7 +493,7 @@ Here we have the same form precisely.
  
 
 <span id="img_25300"></span> <span align="CENTER"> [![](tn/25300.jpg)  
-Click to enlarge](img/25300.jpg)</span>  
+Click to enlarge](img/25300.jpg.md)</span>  
 STONE CELT, MOUND IN TENNESSEE.
 
  
@@ -523,7 +523,7 @@ of bronze now found in such abundance in those regions.
 
 The same similarity of form exists in the bronze knives from Denmark and
 Switzerland, as represented in the [illustrations on p.
-254](#img_25400).
+254](#img_25400.md).
 
 In the central figure we have a representation of an Egyptian-looking
 man holding a cup before him. We shall see,
@@ -533,11 +533,11 @@ man holding a cup before him. We shall see,
  
 
 <span id="img_25400"></span> <span align="CENTER"> [![](tn/25400.jpg)  
-Click to enlarge](img/25400.jpg)</span>  
+Click to enlarge](img/25400.jpg.md)</span>  
 BRONZE KNIVES FROM DENMARK.
 
 <span id="img_25401"></span> <span align="CENTER"> [![](tn/25401.jpg)  
-Click to enlarge](img/25401.jpg)</span>  
+Click to enlarge](img/25401.jpg.md)</span>  
 BRONZE KNIVES FROM SWITZERLAND.
 
  
@@ -558,7 +558,7 @@ was pre-eminently the symbol of Atlantis.
  
 
 <span id="img_25500"></span> <span align="CENTER"> [![](tn/25500.jpg)  
-Click to enlarge](img/25500.jpg)</span>  
+Click to enlarge](img/25500.jpg.md)</span>  
 HUT URN, ALBANO.
 
  
@@ -578,7 +578,7 @@ this appearance.
  
 
 <span id="img_25501"></span> <span align="CENTER"> [![](tn/25501.jpg)  
-Click to enlarge](img/25501.jpg)</span>  
+Click to enlarge](img/25501.jpg.md)</span>  
 BRONZE LAKE VILLAGE.
 
  
@@ -608,7 +608,7 @@ feature: Upon the handle of the razor there are *ten* 
  
 
 <span id="img_25600"></span> <span align="CENTER"> [![](tn/25600.jpg)  
-Click to enlarge](img/25600.jpg)</span>  
+Click to enlarge](img/25600.jpg.md)</span>  
 BRONZE RAZOR-KNIVES.
 
  
@@ -625,7 +625,7 @@ ten in the emblems upon
  
 
 <span id="img_25700"></span> <span align="CENTER"> [![](tn/25700.jpg)  
-Click to enlarge](img/25700.jpg)</span>  
+Click to enlarge](img/25700.jpg.md)</span>  
 ANCIENT GALLEY, FROM A ROMAN COIN.
 
  
@@ -643,13 +643,13 @@ which Plato described as filling the harbors of Atlantis.
  
 
 <span id="img_25701"></span> <span align="CENTER"> [![](tn/25701.jpg)  
-Click to enlarge](img/25701.jpg)</span>  
+Click to enlarge](img/25701.jpg.md)</span>  
 SHIP OF WILLIAM THE CONQUERER.
 
  
 
 We give on [page 258 a representation of a bronze dagger found in
-Ireland](#img_25801), a strongly-made weapon. The cut below it
+Ireland](#img_25801.md), a strongly-made weapon. The cut below it
 represents the only implement of the Bronze Age yet found containing an
 inscription. It has been impossible to decipher it, or even to tell to
 what group of languages its alphabet belongs.
@@ -659,7 +659,7 @@ what group of languages its alphabet belongs.
  
 
 <span id="img_25800"></span> <span align="CENTER"> [![](tn/25800.jpg)  
-Click to enlarge](img/25800.jpg)</span>  
+Click to enlarge](img/25800.jpg.md)</span>  
 IRISH BRONZE DAGGER.
 
  
@@ -675,7 +675,7 @@ for bronze, as well as the metal itself, dates back to Plato's island.
  
 
 <span id="img_25801"></span> <span align="CENTER"> [![](tn/25801.jpg)  
-Click to enlarge](img/25801.jpg)</span>  
+Click to enlarge](img/25801.jpg.md)</span>  
 INSCRIBED CELT.
 
  
@@ -697,7 +697,7 @@ possessed very fair specimens of pottery. Sir John Lubbock argues
  
 
 <span id="img_25900"></span> <span align="CENTER"> [![](tn/25900.jpg)  
-Click to enlarge](img/25900.jpg)</span>  
+Click to enlarge](img/25900.jpg.md)</span>  
 BRONZE HAIR PINS.
 
  
@@ -723,7 +723,7 @@ maritime nation whose
 
 site was practically as near their shores as it was to the shores of the
 Mediterranean. We have but to look at [our map on page
-43](ataw105.htm#img_04700), *ante*, to see that Atlantis was
+43](ataw105.htm#img_04700.md), *ante*, to see that Atlantis was
 considerably nearer to Ireland than it was to Italy.
 
 The striking resemblance between the bronze implements found in the
@@ -741,7 +741,7 @@ but identical*." Says Sir John Lubbock ("Prehistoric Times," p. 59),
  
 
 <span id="img_26000"></span> <span align="CENTER"> [![](tn/26000.jpg)  
-Click to enlarge](img/26000.jpg)</span>  
+Click to enlarge](img/26000.jpg.md)</span>  
 VASES FROM MOUNDS IN THE MISSISSIPPI VALLEY.
 
  
@@ -761,14 +761,14 @@ mention of any such?
 
 We find a great resemblance between the pottery of the Bronze Age in
 Europe and the pottery of the ancient inhabitants of America. The two
-figures on page [260](#page_260) represent vases from one of the mounds
+figures on page [260](#page_260.md) represent vases from one of the mounds
 of the Mississippi Valley. Compare them with the following from the lake
 dwellings of Switzerland:
 
  
 
 <span id="img_26100"></span> <span align="CENTER"> [![](tn/26100.jpg)  
-Click to enlarge](img/26100.jpg)</span>  
+Click to enlarge](img/26100.jpg.md)</span>  
 VASES FROM SWITZERLAND.
 
  
@@ -781,12 +781,12 @@ as in the annexed figure. The Mound Builders used the same contrivance.
  
 
 <span id="img_26101"></span> <span align="CENTER"> [![](tn/26101.jpg)  
-Click to enlarge](img/26101.jpg)</span>  
+Click to enlarge](img/26101.jpg.md)</span>  
 ANCIENT SWISS VASE AND SUPPORTER.
 
  
 
-The [illustrations of discoidal stones on page 263](#img_26300) are from
+The [illustrations of discoidal stones on page 263](#img_26300.md) are from
 the "North Americans of Antiquity," p. 77. The objects represented were
 taken from an ancient mound in Illinois. It would be indeed surprising
 if two distinct peoples, living in two different continents, thousands
@@ -797,7 +797,7 @@ of miles
  
 
 <span id="img_26200"></span> <span align="CENTER"> [![](tn/26200.jpg)  
-Click to enlarge](img/26200.jpg)</span>  
+Click to enlarge](img/26200.jpg.md)</span>  
 BRONZE CHISELS.
 
  
@@ -814,7 +814,7 @@ passed out of use.
  
 
 <span id="img_26201"></span> <span align="CENTER"> [![](tn/26201.jpg)  
-Click to enlarge](img/26201.jpg)</span>  
+Click to enlarge](img/26201.jpg.md)</span>  
 SPIRALS, FROM SCOTLAND.
 
  
@@ -827,7 +827,7 @@ sculptures of Argyleshire, Scotland, here shown.
  
 
 <span id="img_26202"></span> <span align="CENTER"> [![](tn/26202.jpg)  
-Click to enlarge](img/26202.jpg)</span>  
+Click to enlarge](img/26202.jpg.md)</span>  
 SPIRAL, FROM NEW MEXICO.
 
  
@@ -838,22 +838,22 @@ Report," vol. iii., p. 49, art. *Pottery*. It was part of a large
 vessel. The annexed illustration represents this.
 
 The same design is also found in ancient rock etchings of the Zuñis of
-New Mexico, of which the [cut on p. 265](#img_26500) is an illustration.
+New Mexico, of which the [cut on p. 265](#img_26500.md) is an illustration.
 
 <span id="page_263">p. 263</span>
 
  
 
 <span id="img_26300"></span> <span align="CENTER"> [![](tn/26300.jpg)  
-Click to enlarge](img/26300.jpg)</span>  
+Click to enlarge](img/26300.jpg.md)</span>  
 DISCOIDAL STONES, ILLINOIS.
 
 <span id="img_26301"></span> <span align="CENTER"> [![](tn/26301.jpg)  
-Click to enlarge](img/26301.jpg)</span>  
+Click to enlarge](img/26301.jpg.md)</span>  
 COPPER SPEAR-HEAD, LAKE SUPERIOR.
 
 <span id="img_26302"></span> <span align="CENTER"> [![](tn/26302.jpg)  
-Click to enlarge](img/26302.jpg)</span>  
+Click to enlarge](img/26302.jpg.md)</span>  
 BRONZE HATCHETS, SWITZERLAND.
 
  
@@ -863,13 +863,13 @@ BRONZE HATCHETS, SWITZERLAND.
  
 
 <span id="img_26500"></span> <span align="CENTER"> [![](tn/26500.jpg)  
-Click to enlarge](img/26500.jpg)</span>  
+Click to enlarge](img/26500.jpg.md)</span>  
 SPIRAL, FROM NEW MEXICO.
 
  
 
 We also find this figure repeated upon vase from a Mississippi Valley
-mound, which we give elsewhere. (See [p. 260](#page_260).)
+mound, which we give elsewhere. (See [p. 260](#page_260)..md)
 
 It is found upon many of the monuments of Central America. In the
 Treasure House of Atreus, at Mycenæ, Greece, a fragment of a pillar was
@@ -881,7 +881,7 @@ This Treasure House of Atreus is one of the oldest buildings in Greece.
  
 
 <span id="img_26501"></span> <span align="CENTER"> [![](tn/26501.jpg)  
-Click to enlarge](img/26501.jpg)</span>  
+Click to enlarge](img/26501.jpg.md)</span>  
 SHELL ORNAMENT, MOUND NEAR NASHVILLE, TENNESSEE.
 
 We find the double-spiral figure upon a shell ornament found on the
@@ -904,11 +904,11 @@ Their stone axes are made largely of jade or
  
 
 <span id="img_26600"></span> <span align="CENTER"> [![](tn/26600.jpg)  
-Click to enlarge](img/26600.jpg)</span>  
+Click to enlarge](img/26600.jpg.md)</span>  
 COPPER AXE, FROM A MOUND NEAR LAPORTE, INDIANA.
 
 <span id="img_26601"></span> <span align="CENTER"> [![](tn/26601.jpg)  
-Click to enlarge](img/26601.jpg)</span>  
+Click to enlarge](img/26601.jpg.md)</span>  
 COPPER AXE, WATEFORD IRELAND.
 
  
@@ -992,4 +992,4 @@ quantities of bronze implements were manufactured and carried to Europe.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Artificial Deformation of the Skull.](ataw309)
+[Next: Chapter IX: Artificial Deformation of the Skull.](ataw309.md)

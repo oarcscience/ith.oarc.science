@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc102) 
-[Next](motc104) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc102.md) 
+[Next](motc104.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ a good country; hold on to it."
 
 ------------------------------------------------------------------------
 
-[Next: 104. The Eastern Tribes](motc104)
+[Next: 104. The Eastern Tribes](motc104.md)

@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa12)  [Next](slaa14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa12)  [Next](slaa14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -44,7 +44,7 @@ strengthened this idea, and down through the ages the influence of this
 belief has swept, retaining even to-day much of its ancient force and
 vigour.
 
-According to Tylor <span id="fr_78"></span>[1](#fn_78): "It seems to be
+According to Tylor <span id="fr_78"></span>[1](#fn_78.md): "It seems to be
 the working out of the solar analogy on the one hand in death at sunset,
 on the other in new life at sunrise, that has produced two contrasted
 rules of burial
@@ -159,7 +159,7 @@ We learn from Josephus that as early as Solomon's time the temple at
 Jerusalem was oriented to the east with great care. It was open to the
 east, and closed absolutely to the west.
 
-"In plan," says Keary, <span id="fr_79"></span>[1](#fn_79) "it was like
+"In plan," says Keary, <span id="fr_79"></span>[1](#fn_79.md) "it was like
 an Egyptian temple, the light from the sun at the equinox being free to
 come along an open passage to reach at last the Holy of Holies. There is
 evidence too that the entrance of the sunlight on the morning of the
@@ -174,14 +174,14 @@ which represented them, were both indicative of the Garden of Paradise.
 Again, the portals of Eden where God stationed the Cherubim to keep the
 way of the tree of life, was on the eastern side of the sacred grove.
 Not infrequently the approach to these temples was guarded by the
-figures of the compound sphinx." <span id="fr_80"></span>[2](#fn_80)
+figures of the compound sphinx." <span id="fr_80"></span>[2](#fn_80.md)
 
 The orientation of the Egyptian temples formed
 
 <span id="page_273">p. 273</span>
 
 the basis first of the Greek, and later of the Latin temples of worship.
-Tylor <span id="fr_81"></span>[1](#fn_81) tells us: "It was an Athenian
+Tylor <span id="fr_81"></span>[1](#fn_81.md) tells us: "It was an Athenian
 custom for the temple to have its entrance east, looking out through
 which the divine image stood to behold the rising sun," but for the most
 part the Greek temples were oriented to the stars that heralded the
@@ -217,7 +217,7 @@ temples. The Pyramids of Gizeh were oriented to the equinoxes. Perhaps
 the most elaborate and important of all the Egyptian solar temples was
 the magnificent edifice erected at Karnak to the worship of the Sun-God,
 Amen-Ra. Sir J. Norman Lockyer has given us the following splendid
-description of this temple. <span id="fr_82"></span>[1](#fn_82) Because
+description of this temple. <span id="fr_82"></span>[1](#fn_82.md) Because
 it is a typical case of orientation, and one of the most interesting
 ruins in the world, the author takes the liberty of quoting it in full:
 
@@ -327,7 +327,7 @@ The ancient cave temples of the Apalachees of Florida faced eastward,
 and on festival days the priest waited till the rays of the sun had
 entered the temple before beginning the ceremonial chants.
 
-According to Tylor, <span id="fr_83"></span>[1](#fn_83) the ceremony of
+According to Tylor, <span id="fr_83"></span>[1](#fn_83.md) the ceremony of
 orientation
 
 <span id="page_279">p. 279</span>
@@ -364,7 +364,7 @@ the custom revived later, and to-day all our churches are more or less
 oriented, particularly those of the Romish and English branches of the
 Christian Church.
 
-"Any church," says Keary, <span id="fr_84"></span>[1](#fn_84) "that is
+"Any church," says Keary, <span id="fr_84"></span>[1](#fn_84.md) "that is
 properly built, will have its axis pointing to the rising of the sun on
 the Saint's day, *i.e.*, a church dedicated to St. John should not
 parallel a church dedicated to St. Peter.
@@ -460,31 +460,31 @@ of the earth.
 
 ### Footnotes
 
-<span id="fn_78"></span>[267:1](slaa13.htm#fr_78) *Primitive Culture*,
+<span id="fn_78"></span>[267:1](slaa13.htm#fr_78.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_79"></span>[272:1](slaa13.htm#fr_79) *The Dawn of History*,
+<span id="fn_79"></span>[272:1](slaa13.htm#fr_79.md) *The Dawn of History*,
 C. F. Keary.
 
-<span id="fn_80"></span>[272:2](slaa13.htm#fr_80) *The Origin of Pagan
+<span id="fn_80"></span>[272:2](slaa13.htm#fr_80.md) *The Origin of Pagan
 Idolatry*, G. S. Faber.
 
-<span id="fn_81"></span>[273:1](slaa13.htm#fr_81) *Primitive Culture*,
+<span id="fn_81"></span>[273:1](slaa13.htm#fr_81.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_82"></span>[274:1](slaa13.htm#fr_82) *The Dawn of
+<span id="fn_82"></span>[274:1](slaa13.htm#fr_82.md) *The Dawn of
 Astronomy*, Sir Norman Lockyer.
 
-<span id="fn_83"></span>[278:1](slaa13.htm#fr_83) *Primitive Culture*,
+<span id="fn_83"></span>[278:1](slaa13.htm#fr_83.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_84"></span>[280:1](slaa13.htm#fr_84) *The Dawn of History*,
+<span id="fn_84"></span>[280:1](slaa13.htm#fr_84.md) *The Dawn of History*,
 C. F. Keary.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Emblematic and Symbolic Forms of the Sun](slaa14)
+[Next: Chapter XII. Emblematic and Symbolic Forms of the Sun](slaa14.md)
 
 </div>

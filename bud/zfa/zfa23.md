@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa22)  [Next](zfa24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa22)  [Next](zfa24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Heritage
 
 <span id="page_198">p. 198</span>
 
-### AT THE BATTLE OF NAN-SHAN HILL <span id="fr_44"></span>[1](#fn_44)
+### AT THE BATTLE OF NAN-SHAN HILL <span id="fr_44"></span>[1](#fn_44.md)
 
 ALL that I can say is, "It beggars description!" Verily, it is the acme
 of brutality and recklessness conceived in this world of
@@ -63,7 +63,7 @@ of our teacher.
 
 Buddhism provides us with two entrances through which we can reach the
 citadel of perfect truth. One is the gate of love (*karunâ*) and the
-other the gate of knowledge ([*prajñâ*](errata.htm#3)). The former leads
+other the gate of knowledge ([*prajñâ*](errata.htm#3).md). The former leads
 us to the world of particulars and the latter to the realm of the
 absolute. By knowledge we aspire to reach the summit of spiritual
 enlightenment; by love we strive to rescue our fellow-creatures from
@@ -196,10 +196,10 @@ While belching cannons sing
 
 ### Footnotes
 
-<span id="fn_44"></span>[198:1](zfa23.htm#fr_44) Reproduced from Tim
+<span id="fn_44"></span>[198:1](zfa23.htm#fr_44.md) Reproduced from Tim
 OPEN COURT, December, 1904.
 
 ------------------------------------------------------------------------
 
 [Next: An Address Delivered at a Service Held in Memory of Those Who
-Died in The Russo-Japanese War](zfa24)
+Died in The Russo-Japanese War](zfa24.md)

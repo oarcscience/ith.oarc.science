@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar095) [Next](gbar097)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar095) [Next](gbar097.md)
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ words.
 
 ------------------------------------------------------------------------
 
-[Next](gbar097)
+[Next](gbar097.md)

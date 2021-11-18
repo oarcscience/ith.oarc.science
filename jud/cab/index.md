@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cab00)    [Page
-Index](pageidx)    [Text \[Zipped\]](cabtxt.zip)
+[Contents](#contents)    [Start Reading](cab00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](cabtxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -60,16 +60,16 @@ begin.
 
 ------------------------------------------------------------------------
 
-[Title Page](cab00)  
-[Contents](cab01)  
-[Foreword](cab02)  
-[Chapter I. Name and Origin of the Cabala](cab03)  
+[Title Page](cab00.md)  
+[Contents](cab01.md)  
+[Foreword](cab02.md)  
+[Chapter I. Name and Origin of the Cabala](cab03.md)  
 [Chapter II. The Development of the Cabala in the Pre-Zohar
-Period](cab04)  
-[Chapter III. The Zohar](cab05)  
-[Chapter IV. The Cabala in the Post-Zohar Period](cab06)  
-[Chapter V. The Most Important Doctrines of the Cabala](cab07)  
+Period](cab04.md)  
+[Chapter III. The Zohar](cab05.md)  
+[Chapter IV. The Cabala in the Post-Zohar Period](cab06.md)  
+[Chapter V. The Most Important Doctrines of the Cabala](cab07.md)  
 [Chapter VI. The Cabala in Relation to Judaism and
-Christianity](cab08)  
-[Bibliography](cab09)  
-[Index](cab10)  
+Christianity](cab08.md)  
+[Bibliography](cab09.md)  
+[Index](cab10.md)  

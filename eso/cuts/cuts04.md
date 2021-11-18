@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cuts03)  [Next](cuts05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cuts03)  [Next](cuts05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud Upon the Sanctuary*, by Karl Eckartshausen, \[1909\], at
 Intangible Textual Heritage
 
@@ -195,7 +195,7 @@ The external Church of the ancient alliance was visible, the interior
 Church was always invisible, must be invisible, and yet must govern all,
 because force and power are alone confided to her.
 
-When the divine external <span id="fr_0"></span>[\*](#fn_0) worship
+When the divine external <span id="fr_0"></span>[\*](#fn_0.md) worship
 abandoned the interior worship, it fell, and God proved by a remarkable
 chain of circumstances that the letter could not exist without the
 spirit, that it is only there to lead to the spirit, and it is useless
@@ -434,19 +434,19 @@ centre and source of all nature and creation. It is a society which
 unites superior strength to its own, and counts its members from more
 than one world. It is the society whose members form a theocratic
 republic, which one day will be the Regent Mother of the whole
-World. <span id="fr_1"></span>[\*](#fn_1)
+World. <span id="fr_1"></span>[\*](#fn_1.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[21:\*](cuts04.htm#fr_0) I can't but think here
+<span id="fn_0"></span>[21:\*](cuts04.htm#fr_0.md) I can't but think here
 that the words interior and exterior are transposed in translating from
 the original German to the French from which I translate it, but I put
 it as I find in the text of the very valuable edition to which I have
 access.—I. de S.
 
-<span id="fn_1"></span>[29:\*](cuts04.htm#fr_1) Capitals are rarely
+<span id="fn_1"></span>[29:\*](cuts04.htm#fr_1.md) Capitals are rarely
 employed. I always quote them, but occasionally use them in other places
 when the sense requires them, so as not to confuse the cases and
 genders, for instance, esprit evidently requires to be written
@@ -454,4 +454,4 @@ occasionally Spirit, not spirit.
 
 ------------------------------------------------------------------------
 
-[Next: Letter III](cuts05)
+[Next: Letter III](cuts05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta11)  [Next](sta13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta11)  [Next](sta13.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,7 +126,7 @@ and through the entire zodiac in about \[paragraph continues\]
 
 [![CHART SHOWING THE RELATIONSHIP BETWEEN THE HUMAN BODY AND THE
 EXTERIOR UNIVERSE.](tn/05300.jpg)  
-Click to enlarge](img/05300.jpg)  
+Click to enlarge](img/05300.jpg.md)  
 CHART SHOWING THE RELATIONSHIP BETWEEN THE HUMAN BODY AND THE EXTERIOR
 UNIVERSE.  
 
@@ -145,7 +145,7 @@ on either side of the figure.
 <span id="img_05301"></span>
 
 [![THE EQUINOXES AND SOLSTICES.](tn/05301.jpg)  
-Click to enlarge](img/05301.jpg)  
+Click to enlarge](img/05301.jpg.md)  
 THE EQUINOXES AND SOLSTICES.  
 
 The plane of the zodiac intersects the celestial equator at an angle of
@@ -315,7 +315,7 @@ powerful
 <span id="img_05400"></span>
 
 [![THE MICROCOSM.](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 THE MICROCOSM.  
 
 From Schotus' *Margarita Philosophica*.
@@ -488,7 +488,7 @@ come forth.)
 <span id="img_05500"></span>
 
 [![THE CIRCULAR ZODIAC OF TENTYRA.](tn/05500.jpg)  
-Click to enlarge](img/05500.jpg)  
+Click to enlarge](img/05500.jpg.md)  
 THE CIRCULAR ZODIAC OF TENTYRA.  
 
 From Cole's *Treatise--the Circular Zodiac of Tentyra, in Egypt*.
@@ -655,7 +655,7 @@ Jupiter; and decrepitude and dissolution, Saturn.
 <span id="img_05600"></span>
 
 [![HIEROGLYPHIC PLAN, By HERMES, OF THE ANCIENT ZODIAC.](tn/05600.jpg)  
-Click to enlarge](img/05600.jpg)  
+Click to enlarge](img/05600.jpg.md)  
 HIEROGLYPHIC PLAN, By HERMES, OF THE ANCIENT ZODIAC.  
 
 From Kircher's *Œdipus Ægyptiacus*.
@@ -671,4 +671,4 @@ subdivisions of the houses.
 
 ------------------------------------------------------------------------
 
-[Next: The Bembine Table of Isis](sta13)
+[Next: The Bembine Table of Isis](sta13.md)

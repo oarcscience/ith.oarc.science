@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft32)  [Next](ftft34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft32)  [Next](ftft34.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_250">p. 250</span>
 
 <span id="img_25000"></span> ![The Deceiver and the
-Thief](img/25000.jpg)
+Thief](img/25000.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a cunning woman who had two husbands, neither of whom knew
 of the other's existence. The one got his living by cheating, the other
@@ -46,7 +46,7 @@ The woman took a sheep's tail and cut it in two halves, one of which she
 made into a package with bread and gave to the thief, who soon shook the
 dust of the town from his feet.
 
-<span id="img_25100"></span> ![The sat down to eat](img/25100.jpg)
+<span id="img_25100"></span> ![The sat down to eat](img/25100.jpg.md)
 
 In a short time the cheat came home and told the woman that his game was
 up; his deception could no longer be hidden. "Give me food," he said,
@@ -75,7 +75,7 @@ lie?"
 
 |                                                                           |
 |---------------------------------------------------------------------------|
-| ![The Deceiver abstracted the wallet from the man's bosom](img/25200.jpg) |
+| ![The Deceiver abstracted the wallet from the man's bosom](img/25200.jpg.md) |
 
 "Man, art thou out of thy senses, or joking?" returned the thief, "That
 woman has been my wife for a long time," Knowing not what to make of it,
@@ -147,7 +147,7 @@ tomorrow thou wilt alter thy mind. But if the Padishah decides the
 matter thou art bound to agree."
 
 <span id="img_25400"></span> ![The thief withdrew the raisin by means of
-the horse-hair](img/25400.jpg)
+the horse-hair](img/25400.jpg.md)
 
 He slid stealthily into the Padishah's bed chamber. From where he hid he
 had a good view of the interior, and saw the Padishah lying in bed; a
@@ -164,7 +164,7 @@ lost
 <span id="img_25401"></span>
 
 [![](tn/25401.jpg)  
-Click to enlarge](img/25401.jpg)
+Click to enlarge](img/25401.jpg.md)
 
 <span id="page_255">p. 255</span>
 
@@ -241,4 +241,4 @@ for the health and happiness of the Padishah as long as they lived.
 
 ------------------------------------------------------------------------
 
-[Next: The Snake-Peri and the Magic Mirror](ftft34)
+[Next: The Snake-Peri and the Magic Mirror](ftft34.md)

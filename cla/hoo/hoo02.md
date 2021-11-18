@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo01)  [Next](hoo03) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo01)  [Next](hoo03.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ at the time when the kingdom of the Athenians was
 dissolved. Some assert that he was prior to the Trojan wars, and that he
 lived eleven, or according to others nine generations. But the Greek
 word γενεα, or generation, according to Gyraldus,  <span
-id="fr_0"></span>[a](#fn_0), signifies the space of seven years; for
+id="fr_0"></span>[a](#fn_0.md), signifies the space of seven years; for
 unless this is supposed, how is it possible that the period of his life
 can have any foundation in the nature of things? Plutarch indeed,
 Heraclitus, Suidas, and some grammarians, assert that this word
@@ -117,7 +117,7 @@ mysteries, were called Orpheotelestæ. Besides according to Lucian, our
 Orpheus brought astrology, and the magical arts into Greece; and with
 respect to his drawing trees and wild beasts by the melody of his lyre,
 Palæphatus accounts for it as follows  <span
-id="fr_1"></span>[b](#fn_1). The mad Bacchanalian nymphs, says he,
+id="fr_1"></span>[b](#fn_1.md). The mad Bacchanalian nymphs, says he,
 having violently taken away cattle and other necessaries of life,
 retired for some days into the mountains. When the citizens having
 expected their return for a long time, and fearing the worst for their
@@ -136,7 +136,7 @@ But so great was the reputation of Orpheus, that he was deified by the
 Greeks; and Philostratus relates, that his head gave oracles in Lesbos,
 which, when separated from his body by the Thracian women, was, together
 with his lyre, carried down the river Hebrus into the Sea. In this
-manner says Lucian  <span id="fr_2"></span>[c](#fn_2), singing as it
+manner says Lucian  <span id="fr_2"></span>[c](#fn_2.md), singing as it
 were his funeral oration, to which
 
 <span id="page_9">p. 9</span>
@@ -192,7 +192,7 @@ is doubtless the same
 Onomacritus the author of these hymns. He writ Decennalia, δεκαετηρια,
 and, in the opinion of Gyraldus, the Argonautics, which are now extant
 under the name of Orpheus, with other writings called Orphical, but
-which, according to Cicero  <span id="fr_3"></span>[d](#fn_3), some
+which, according to Cicero  <span id="fr_3"></span>[d](#fn_3.md), some
 ascribe to Cecrops the Pythagorean. The last Orpheus, was Camarinæus, a
 most excellent versifier; and the same according to Gyraldus whose
 descent into hell is so universally known. And thus much for the life of
@@ -202,14 +202,14 @@ Orpheus.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:a](hoo02.htm#fr_0) Syntag,. Poet. p. 54.
+<span id="fn_0"></span>[4:a](hoo02.htm#fr_0.md) Syntag,. Poet. p. 54.
 
-<span id="fn_1"></span>[7:b](hoo02.htm#fr_1) Opusc. Mythol. p. 45
+<span id="fn_1"></span>[7:b](hoo02.htm#fr_1.md) Opusc. Mythol. p. 45
 
-<span id="fn_2"></span>[8:c](hoo02.htm#fr_2) In Oratione ad Indoctum.
+<span id="fn_2"></span>[8:c](hoo02.htm#fr_2.md) In Oratione ad Indoctum.
 
-<span id="fn_3"></span>[12:d](hoo02.htm#fr_3) In 1. De Nat. Deor.
+<span id="fn_3"></span>[12:d](hoo02.htm#fr_3.md) In 1. De Nat. Deor.
 
 ------------------------------------------------------------------------
 
-[Next: Section II](hoo03)
+[Next: Section II](hoo03.md)

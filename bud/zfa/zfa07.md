@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa06)  [Next](zfa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa06)  [Next](zfa08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -196,7 +196,7 @@ relying on their demonstrative knowledge. But the way that leads us
 practical religionists most effectively to the satisfactory adjustment
 of the puzzling world-riddles which so greatly disturb all deep, serious
 souls is the practice of meditation, called Dhyâna <span
-id="fr_26"></span>[1](#fn_26) by Buddhists.
+id="fr_26"></span>[1](#fn_26.md) by Buddhists.
 
 As to the practical part of Buddhism, or Discipline, it will be treated
 under "Buddhist Ethics," which follows.
@@ -205,9 +205,9 @@ under "Buddhist Ethics," which follows.
 
 ### Footnotes
 
-<span id="fn_26"></span>[68:1](zfa07.htm#fr_26) See the article
-"Practice of Dhyâna." (See [p. 146](zfa16.htm#page_146)).
+<span id="fn_26"></span>[68:1](zfa07.htm#fr_26.md) See the article
+"Practice of Dhyâna." (See [p. 146](zfa16.htm#page_146).md).
 
 ------------------------------------------------------------------------
 
-[Next: Buddhist Ethics](zfa08)
+[Next: Buddhist Ethics](zfa08.md)

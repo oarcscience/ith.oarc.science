@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft15) 
-[Next](gsft17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft15.md) 
+[Next](gsft17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gypsy Sorcery and Fortune Telling*, by Charles Godfrey Leland,
 \[1891\], at Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
 
 <span id="page_209">p. 209</span>
 
-**CHAPTER XIV** <span id="fr_20"></span>[1](#fn_20)
+**CHAPTER XIV** <span id="fr_20"></span>[1](#fn_20.md)
 
 A GYPSY MAGIC SPELL—HOKKANI BÂSO—LELLIN DUDIKABIN, OR THE GREAT
 SECRET—CHILDREN'S RHYMES AND INCANTATIONS—TEN LITTLE INDIAN BOYS AND TEN
@@ -274,9 +274,9 @@ a world-old Oriental offence, an European Middle Age penalty for
 witchcraft, and the fierce torture of the Red Indian.
 
 In the United States there is often to be found in a gypsy camp a negro
-or two [...](errata.htm#2) a few years ago a coloured sorcerer appeared
+or two [...](errata.htm#2.md) a few years ago a coloured sorcerer appeared
 in Philadelphia, who, as I was assured, "persuaded half the
-[negroes](errata.htm#3) in Lombard Street to dig up their cellars to
+[negroes](errata.htm#3.md) in Lombard Street to dig up their cellars to
 find treasure—and carried off all the treasures they had." He had been,
 like MATTHEW ARNOLD'S scholar, among the tents of the Romany, and had
 learned their peculiar wisdom, and turned it to profit.
@@ -516,7 +516,7 @@ John Brown who had
 Ten little, nine little, eight little, seven little,  
 Six little Indian boys;  
 Five little, four little, three little, two little,  
-One little Indian boy, <span id="fr_21"></span>[1](#fn_21)
+One little Indian boy, <span id="fr_21"></span>[1](#fn_21.md)
 
 And of the fate which overtook them all, one by one, inevitable as the
 decrees of Nemesis. This song is in action a game. I have heard it in
@@ -820,7 +820,7 @@ be perfectly plain, but on which, when filled with wine, inscriptions or
 figures appeared, and which were used in divination as to answer
 questions. In the winter of 1886-87, Sir HENRY AUSTIN LAYARD went with
 me through his glass factory at Venice. <span
-id="fr_22"></span>[1](#fn_22) As we were standing by the furnace
+id="fr_22"></span>[1](#fn_22.md) As we were standing by the furnace
 watching the workmen it flashed upon me quite in a second how the
 mysterious old goblets of the Chinese could be made. This would be by
 blowing a bottle, &c., of thin white glass and putting on the interior
@@ -856,18 +856,18 @@ origin to these Chinese bottles.
 
 ### Footnotes
 
-<span id="fn_20"></span>[209:1](gsft16.htm#fr_20) This chapter is
+<span id="fn_20"></span>[209:1](gsft16.htm#fr_20.md) This chapter is
 reproduced, but with much addition, from one in my work entitled "The
 Gypsies," published in Boston, 1881, by HOUGHTON and MIFFLIN. London:
 TRÜBNER & Co. The addition will be the most interesting portion to the
 folk-lorist.
 
-<span id="fn_21"></span>[221:1](gsft16.htm#fr_21) This song which, with
+<span id="fn_21"></span>[221:1](gsft16.htm#fr_21.md) This song which, with
 its air, is very old in the United States, has been vulgarizcd by being
 turned into a ballad of ten little nigger boys. It is given in Mrs.
 VALENTINE'S Nursery Rhymes as "Indian boys."
 
-<span id="fn_22"></span>[228:1](gsft16.htm#fr_22) It is not generally
+<span id="fn_22"></span>[228:1](gsft16.htm#fr_22.md) It is not generally
 known that Sir H. A. Layard and Sir William Drake were the true revivers
 of the glass manufacture of Venice.
 
@@ -875,6 +875,6 @@ of the glass manufacture of Venice.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: Gypsy Amulets](gsft17)
+[Next: Chapter XV: Gypsy Amulets](gsft17.md)
 
 </div>

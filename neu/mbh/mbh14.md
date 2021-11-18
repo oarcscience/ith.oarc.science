@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh13)  [Next](mbh15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh13)  [Next](mbh15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ thing which shall be born of thee *shall be called the Son of God*.
 
 This report is supplemented by the Gospel according to Matthew
 (1:18-25), in the narrative of the birth and childhood of Jesus: <span
-id="fr_74"></span>[1](#fn_74)
+id="fr_74"></span>[1](#fn_74.md)
 
 <div style="margin-left: 32px">
 
@@ -93,7 +93,7 @@ was of the house and lineage of David:) to be taxed with Mary his
 espoused wife, being great with child. And so it was, that, while they
 were there, the days were accomplished that she should be delivered. And
 *she brought forth her firstborn son, and wrapped him in swaddling
-clothes, and laid him in a manger;* <span id="fr_75"></span>[1](#fn_75)
+clothes, and laid him in a manger;* <span id="fr_75"></span>[1](#fn_75.md)
 because there was no room for them in the inn. And there were in the
 same country shepherds abiding in the field, keeping watch over their
 flocks by night. And, lo, the angel of the Lord came upon them, and the
@@ -186,7 +186,7 @@ afraid to go thither: notwithstanding, being warned of God in a dream,
 he turned aside into the parts of Galilee: And he came and dwelt in a
 city called Nazareth: that it might be fulfilled which was spoken by the
 prophets, He shall be called a Nazarene. <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 </div>
 
@@ -222,7 +222,7 @@ in a narrow passageway,
 <span id="page_56">p. 56</span>
 
 by a herd of oxen, by command of the king. <span
-id="fr_77"></span>[1](mbh15.htm#fn_77) But the largest of the cattle
+id="fr_77"></span>[1](mbh15.htm#fn_77.md) But the largest of the cattle
 took the child between his feet and preserved it from harm. This was the
 fourth miracle. The fifth is merely a repetition of the preceding: what
 the cattle had refused to do, was to be accomplished by horses. But
@@ -233,23 +233,23 @@ place. But a god closed the jaws of the furious wolves, so that they
 could not harm the child. Two divine cows arrived instead and presented
 their udders to the child, giving it to drink. This was the sixth
 miracle through which Zoroaster's life was preserved. <span
-id="fr_78"></span>[2](mbh15.htm#fn_78)
+id="fr_78"></span>[2](mbh15.htm#fn_78.md)
 
 Related themes are also encountered in the history of Buddha (sixth
 century before Christ), such as the long sterility of the parents, the
 dream, the birth of the boy under the open sky, the death of the mother
 and her substitution by a foster mother, the announcing of the birth to
 the ruler of the realm, and later on the losing of the boy in the
-temple. <span id="fr_79"></span>[3](mbh15.htm#fn_79)
+temple. <span id="fr_79"></span>[3](mbh15.htm#fn_79.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_73"></span>[50:1](mbh13.htm#fr_73) After Preller, op. cit.,
+<span id="fn_73"></span>[50:1](mbh13.htm#fr_73.md) After Preller, op. cit.,
 Vol. II, p. 123.
 
-<span id="fn_74"></span>[51:1](mbh14.htm#fr_74) For the formal
+<span id="fn_74"></span>[51:1](mbh14.htm#fr_74.md) For the formal
 demonstration of the entire identity with the other hero myths of the
 birth story and early history of Jesus, the author has presumed to
 rearrange the corresponding paragraphs from the different versions in
@@ -265,13 +265,13 @@ these birth myths are to be elucidated in the present research, no
 matter if these contradictions be encountered within a single uniform
 saga, or in its different versions (as, for example, in the Cyrus myth).
 
-<span id="fn_75"></span>[52:1](mbh14.htm#fr_75) Concerning the birth of
+<span id="fn_75"></span>[52:1](mbh14.htm#fr_75.md) Concerning the birth of
 Jesus in a cave, and the furnishing of the birthplace with the typical
 animals (ox and ass), compare Jeremias: *Babylonisches im Neuen
 Testament* (Leipzig, 1905), p. 56; and Preuschen, "*Jesu Geburt in einer
 Höhle*," *Zeitschrift für die Neutest. Wissenschaften*, 1902, p. 359.
 
-<span id="fn_76"></span>[54:1](mbh14.htm#fr_76) According to recent
+<span id="fn_76"></span>[54:1](mbh14.htm#fr_76.md) According to recent
 investigations, the birth history of Christ is said have the greatest
 resemblance with the royal Egyptian myth, over five thousand years old,
 which relates the birth of Amenophis III. Here again recurs the divine
@@ -285,4 +285,4 @@ Zeitung*, November 8, 1908).
 
 ------------------------------------------------------------------------
 
-[Next: Siegfried](mbh15)
+[Next: Siegfried](mbh15.md)

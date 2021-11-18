@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits070) [Next](bits072)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits070) [Next](bits072.md)
 
 ------------------------------------------------------------------------
 
@@ -933,7 +933,7 @@ speech of The Blessed One.
 
 ------------------------------------------------------------------------
 
-[Next: § 72. Mâra as Plowman](bits072)
+[Next: § 72. Mâra as Plowman](bits072.md)
 
  
 

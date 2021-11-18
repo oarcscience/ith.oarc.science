@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](life000)  [Next](life002) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](life000)  [Next](life002.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,4 +190,4 @@ doctrine. It is full of comfort.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Life of a Christian Man. Scriptural Arguments
-Exhorting to it.](life002)
+Exhorting to it.](life002.md)

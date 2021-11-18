@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj06)  [Next](atfj08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj06)  [Next](atfj08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_06"></span> <span align="CENTER"> [![6. Jogen Sights the
 Haunted Temple](tn/06.jpg)  
-Click to enlarge](img/06.jpg)  
+Click to enlarge](img/06.jpg.md)  
 6. Jogen Sights the Haunted Temple  
 </span>
 
 ### V
 
-### A HAUNTED TEMPLE IN INABA PROVINCE <span id="fr_18"></span>[1](#fn_18)
+### A HAUNTED TEMPLE IN INABA PROVINCE <span id="fr_18"></span>[1](#fn_18.md)
 
 ABOUT the year 1680 there stood an old temple on a wild pine-clad
 mountain near the village of Kisaichi, in the Province of Inaba. The
@@ -247,7 +247,7 @@ the foundations.
 
 ### Footnotes
 
-<span id="fn_18"></span>[36:1](atfj07.htm#fr_18) In many stories in MS.
+<span id="fn_18"></span>[36:1](atfj07.htm#fr_18.md) In many stories in MS.
 volumes I have told of shito dama or astral spirits. So much evidence
 have I got from personal acquaintances as to their existence, and even
 frequent occurrence, that I almost believe in them myself. Some say that
@@ -270,6 +270,6 @@ haunted a temple and also showed itself as a ghost.
 
 ------------------------------------------------------------------------
 
-[Next: VI. A Carp Gives a Lesson in Perseverance](atfj08)
+[Next: VI. A Carp Gives a Lesson in Perseverance](atfj08.md)
 
 </div>

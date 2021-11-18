@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca27)  [Next](fsca29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca27)  [Next](fsca29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -35,7 +35,7 @@ id="img_12300"></span>
 
 |                             |
 |-----------------------------|
-| ![Scorpion.](img/12300.jpg) |
+| ![Scorpion.](img/12300.jpg.md) |
 
 Charles V. in his army with Bourbon at the sack of Rome. When Charles
 made his public entry into Mantua, Rodomonte wore a blue surcoat made in
@@ -47,15 +47,15 @@ offend him, would clear himself of the injury by the death of his enemy.
 
 "If a man be stung with a scorpion, and drink the powder of them in
 wine, it is thought to be present remedie." <span
-id="fr_9"></span>[\*](#fn_9)
+id="fr_9"></span>[\*](#fn_9.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_9"></span>[123:\*](fsca28.htm#fr_9) Pliny, Book xi. ch. 25,
+<span id="fn_9"></span>[123:\*](fsca28.htm#fr_9.md) Pliny, Book xi. ch. 25,
 from an old translation.
 
 ------------------------------------------------------------------------
 
-[Next: The Unicorn](fsca29)
+[Next: The Unicorn](fsca29.md)

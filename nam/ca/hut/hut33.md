@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut32)  [Next](hut34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut32)  [Next](hut34.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 ## XXX.
 
-### Formula of Medicine for Pregnant Women (Deer's Medicine.) <span id="fr_71"></span>[1](#fn_71)
+### Formula of Medicine for Pregnant Women (Deer's Medicine.) <span id="fr_71"></span>[1](#fn_71.md)
 
 They say, deer, you do this way when the young grow in your body. All
 day and all night you chew this brush. You drop your young without harm
@@ -23,7 +23,7 @@ same way to me.
 
 ### Footnotes
 
-<span id="fn_71"></span>[275:1](hut33.htm#fr_71) Told at Hops, June
+<span id="fn_71"></span>[275:1](hut33.htm#fr_71.md) Told at Hops, June
 1901, by Mary Marshall.
 
 The formula is said to the growing shrub, *Ceanothus integerrimus*. The
@@ -33,4 +33,4 @@ the first three months of the term to keep the fœtus of moderate size.
 ------------------------------------------------------------------------
 
 [Next: XXXI. Formula of Medicine for Pregnant Women (Bear's
-Medicine.)](hut34)
+Medicine.)](hut34.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](sws12)  [Next](sws14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](sws12)  [Next](sws14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Spider Woman*, by Gladys A. Reichard, \[1934\], at Intangible Textual
 Heritage
 
@@ -112,19 +112,19 @@ criticise every thread of the blanket. Cha was one of
 
 <span id="img_07200"></span> <span align="CENTER"> [![MY FIRST
 RUG](tn/07200.jpg)  
-Click to enlarge](img/07200.jpg)  
+Click to enlarge](img/07200.jpg.md)  
 MY FIRST RUG  
 </span>
 
 <span id="img_07201"></span> <span align="CENTER"> [![MY
 SECOND](tn/07201.jpg)  
-Click to enlarge](img/07201.jpg)  
+Click to enlarge](img/07201.jpg.md)  
 MY SECOND  
 </span>
 
 <span id="img_07300"></span> <span align="CENTER"> [![DIVERSION DAM
 AFTER THE TORNADO](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)  
+Click to enlarge](img/07300.jpg.md)  
 DIVERSION DAM AFTER THE TORNADO  
 </span>
 
@@ -327,4 +327,4 @@ in the morning the wool is as I left it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: Rain](sws14)
+[Next: Chapter XI: Rain](sws14.md)

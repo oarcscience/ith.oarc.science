@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac18)  [Next](sac20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac18)  [Next](sac20.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ brings us into presence of the cult of the solstitial year, secondly,
 because it shows us that the system most in vogue in Brittany was
 introduced in relation to that year. In Brittany, as I have before
 shown, the complicated alignments, there are 11 parallel rows at Le
-Ménac ([p. 99](sac13.htm#page_99)) (there were 8 parallel rows at
+Ménac ([p. 99](sac13.htm#page_99).md) (there were 8 parallel rows at
 Challacombe), were set up to watch the May and August sunrises, and the
 solstitial alignments came afterwards. The Brittany May alignments,
 therefore, were probably used long before 1860 B.C., the date we have
@@ -96,7 +96,7 @@ priest-astronomers so
 [![FIG. 45.—The remains of the eight rows of the Challacombe Avenue.
 Looking North of East. Terminal Menhir on the extreme
 right.](tn/fig45.jpg)  
-Click to enlarge](img/fig45.jpg)  
+Click to enlarge](img/fig45.jpg.md)  
 FIG. 45.—The remains of the eight rows of the Challacombe Avenue.
 Looking North of East. Terminal Menhir on the extreme right.  
 
@@ -192,7 +192,7 @@ circle which terminates the N.-S. avenue will justify it.
 
 [![FIG. 46.—The sight-lines at Trowlesworthy, showing high northern
 azimuths.&lt;br&gt; From the Ordnance map.](tn/fig46.jpg)  
-Click to enlarge](img/fig46.jpg)  
+Click to enlarge](img/fig46.jpg.md)  
 FIG. 46.—The sight-lines at Trowlesworthy, showing high northern
 azimuths.  
 From the Ordnance map.  
@@ -286,4 +286,4 @@ at the critical points of the May or solstitial year.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Stanton Drew](sac20)
+[Next: Chapter XVII. Stanton Drew](sac20.md)

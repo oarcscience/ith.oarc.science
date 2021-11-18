@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg43)  [Next](leg45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg43)  [Next](leg45.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ becoming angry she dried up its current.
 
 ------------------------------------------------------------------------
 
-[Next: Section XVII.](leg45)
+[Next: Section XVII.](leg45.md)

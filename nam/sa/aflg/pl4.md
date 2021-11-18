@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Return to Text](aflg11.htm#pl4)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Return to Text](aflg11.htm#pl4.md)
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ THE KAIETUR FALL
 
 ------------------------------------------------------------------------
 
-[Return to Text](aflg11.htm#pl4)
+[Return to Text](aflg11.htm#pl4.md)

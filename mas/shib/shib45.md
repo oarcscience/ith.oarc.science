@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib44)  [Next](shib46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib44)  [Next](shib46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -21,11 +21,11 @@ Intangible Textual Heritage
 
 #### OLD HUNDRED. L. M.
 
-(<span class="small">SEE PAGE [60](shib20.htm#page_60).</span>)
+(<span class="small">SEE PAGE [60](shib20.htm#page_60).</span>.md)
 
 <span id="img_14600"></span> <span align="CENTER"> [![Old Hundred, L. M.
 (sheet music)](tn/14600.jpg)  
-Click to enlarge](img/14600.jpg)  
+Click to enlarge](img/14600.jpg.md)  
   
 </span>
 
@@ -33,11 +33,11 @@ Click to enlarge](img/14600.jpg)
 
 #### HENDON. 7s.
 
-(<span class="small">SEE PAGE [60](shib20.htm#page_60).</span>)
+(<span class="small">SEE PAGE [60](shib20.htm#page_60).</span>.md)
 
 <span id="img_14700"></span> <span align="CENTER"> [![Hendon. 7s. (sheet
 music)](tn/14700.jpg)  
-Click to enlarge](img/14700.jpg)  
+Click to enlarge](img/14700.jpg.md)  
   
 </span>
 
@@ -47,7 +47,7 @@ Click to enlarge](img/14700.jpg)
 
 <span id="img_14800"></span> <span align="CENTER"> [![Nearer, my God, to
 Thee. (sheet music)](tn/14800.jpg)  
-Click to enlarge](img/14800.jpg)  
+Click to enlarge](img/14800.jpg.md)  
   
 </span>
 
@@ -57,7 +57,7 @@ Click to enlarge](img/14800.jpg)
 
 <span id="img_14900"></span> <span align="CENTER"> [![Auld Lang Syne.
 (sheet music)](tn/14900.jpg)  
-Click to enlarge](img/14900.jpg)  
+Click to enlarge](img/14900.jpg.md)  
   
 </span>
 
@@ -102,4 +102,4 @@ When Time reveals Eternity!
 
 ------------------------------------------------------------------------
 
-[Next: Templar Forms](shib46)
+[Next: Templar Forms](shib46.md)

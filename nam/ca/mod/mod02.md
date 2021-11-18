@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mod01)  [Next](mod03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mod01)  [Next](mod03.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ Then Yo-ko-mat-is was thinking very much.
 
 "Oh, I must think; but now I have arranged it. I draw a line thus (a
 crossline), and I name it Ya-wak, South; Ka-tulk, <span
-id="fr_0"></span>[1](#fn_0) North."
+id="fr_0"></span>[1](#fn_0.md) North."
 
 "Why have we done this?"
 
@@ -105,9 +105,9 @@ but he was thinking many days.
 
 ### Footnotes
 
-<span id="fn_0"></span>[182:1](mod02.htm#fr_0) Or Ka-tulch; it has a
+<span id="fn_0"></span>[182:1](mod02.htm#fr_0.md) Or Ka-tulch; it has a
 guttural sound.
 
 ------------------------------------------------------------------------
 
-[Next: The Fly at the Council](mod03)
+[Next: The Fly at the Council](mod03.md)

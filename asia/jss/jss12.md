@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss11)  [Next](jss13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss11)  [Next](jss13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -387,22 +387,22 @@ the Burkans to locate persons whom they are about to punish.
 <span id="img_10000"></span> <span align="CENTER"> [![THE OWNER OF THE
 LAND IS SICK; A RAM HAS BEEN SACRIFICED WITH DUE
 CEREMONY.](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 THE OWNER OF THE LAND IS SICK; A RAM HAS BEEN SACRIFICED WITH DUE
 CEREMONY.  
 </span>
 
-*Page* [99](#page_99)
+*Page* [99](#page_99.md)
 
 <span id="img_10001"></span> <span align="CENTER"> [![BONES OF THE
 RAM.&lt;br&gt; They will remain until the bundles rot and
 fall](tn/10001.jpg)  
-Click to enlarge](img/10001.jpg)  
+Click to enlarge](img/10001.jpg.md)  
 BONES OF THE RAM.  
 They will remain until the bundles rot and fall  
 </span>
 
-*Page* [100](#page_100)
+*Page* [100](#page_100.md)
 
  
 
@@ -561,4 +561,4 @@ its returning to the body.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Origin of Shamans](jss13)
+[Next: Chapter IX. The Origin of Shamans](jss13.md)

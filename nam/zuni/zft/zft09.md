@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft08)  [Next](zft10) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft08)  [Next](zft10.md) 
 
 ------------------------------------------------------------------------
 
@@ -509,4 +509,4 @@ Thus shortens my story.
 ------------------------------------------------------------------------
 
 [Next: The Boy Hunter Who Never Sacrificed to The Deer He Had Slain: or
-The Origin Of The Society Of Rattlesnakes](zft10)
+The Origin Of The Society Of Rattlesnakes](zft10.md)

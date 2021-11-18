@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc03)  [Next](sfoc05) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc03)  [Next](sfoc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ the contents of the book.
 
 ------------------------------------------------------------------------
 
-[Next: The Gatigwanasti Manuscript](sfoc05)
+[Next: The Gatigwanasti Manuscript](sfoc05.md)

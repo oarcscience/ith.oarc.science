@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](ajp03)  [Next](ajp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](ajp03)  [Next](ajp05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Jewish Proverbs*, by Abraham Cohen, \[1911\], at Intangible
 Textual Heritage
 
@@ -54,7 +54,7 @@ material for forming an idea of how the people spoke in their everyday
 intercourse.
 
 All nations have many proverbs in common, <span
-id="fr_0"></span>[1](#fn_0)—*i.e.* a certain phase of human existence or
+id="fr_0"></span>[1](#fn_0.md)—*i.e.* a certain phase of human existence or
 a certain characteristic of the human being is dealt with, which is very
 much the same the world over. But each nation has its own distinctive
 way of giving expression to this common idea. From this fact springs
@@ -148,7 +148,7 @@ aphorisms, however—not even such as "go to the ant, thou sluggard," or
 folly"—are popular proverbs or folk-sayings. They are all reflective and
 academic in tone, and must be regarded as the productions of schools of
 moralists in a period of high moral culture." <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 In five places in the Bible we find the word employed in the narrower
 sense of a "short pithy saying in common and recognised use." They
@@ -257,7 +257,7 @@ century B.C. (*Eduyoth* viii. 4). Slowly but surely Aramaic began to
 displace Hebrew as the vernacular of the Jews, until towards the end of
 the Jewish State we find it in complete possession. The language spoken
 in Palestine about the time of the rise of Christianity was
-Aramaic. <span id="fr_2"></span>[1](#fn_2) Thus Hillel, who was a
+Aramaic. <span id="fr_2"></span>[1](#fn_2.md) Thus Hillel, who was a
 contemporary of Herod, often frames his maxims in that language (cf, no.
 177 below, and *Aboth* i. 13; ii. 7; iv. 7).
 
@@ -297,7 +297,7 @@ The following collection is not a *florilegium*, but
 <span id="page_24">p. 24</span>
 
 has been made as exhaustive as possible. <span
-id="fr_3"></span>[1](#fn_3) We have not therefore a selection of the
+id="fr_3"></span>[1](#fn_3.md) We have not therefore a selection of the
 best of the recorded sayings used by the Jewish people nearly two
 thousand years ago, but a list of practically all that have been
 preserved. It is necessary to bear this in mind when attempting to pass
@@ -316,7 +316,7 @@ The lofty standard of morality displayed in the proverbs also calls for
 commendation. It has been rightly said, "If the moral character of a
 nation is to be judged by its proverbs, only the best of them may go to
 form the verdict, only such as may be considered the product of gradual
-ethical growth." <span id="fr_4"></span>[2](#fn_4) It is inevitable that
+ethical growth." <span id="fr_4"></span>[2](#fn_4.md) It is inevitable that
 all nations, however highly developed their culture may be, should have
 among their proverbs some which
 
@@ -348,7 +348,7 @@ whereas proverbs in languages other than Hebrew
 
 <span id="page_26">p. 26</span>
 
-favour abstract expressions." <span id="fr_5"></span>[1](#fn_5) Instead
+favour abstract expressions." <span id="fr_5"></span>[1](#fn_5.md) Instead
 of taking an experience which occurs to different classes of men under
 different aspects and generalising it, a concrete instance is selected
 as typical of them all. For instance, the idea "Familiarity breeds
@@ -368,7 +368,7 @@ was only in the first centuries of the current era that it could be
 said: "As for ourselves, we neither inhabit a maritime country, nor do
 we delight in merchandise …; but the cities we dwell in are remote from
 the sea, and having a fruitful country for our habitation, we take pains
-in cultivating that only." <span id="fr_6"></span>[2](#fn_6) The
+in cultivating that only." <span id="fr_6"></span>[2](#fn_6.md) The
 proverbs connected
 
 <span id="page_27">p. 27</span>
@@ -401,7 +401,7 @@ and idlers despised
 
 (nos. 156 ff.). Only in few instances do we find a class of workmen
 contemned—*e.g.* in the case of weavers (nos. 23 f., 53, etc.). <span
-id="fr_7"></span>[1](#fn_7) Such a proverb as no. 148 teaches us that it
+id="fr_7"></span>[1](#fn_7.md) Such a proverb as no. 148 teaches us that it
 was a common practice to put by the family savings in jars. A reference
 to this custom is perhaps to be found in 2 Cor. iv. 7. Nos. 73 and 99
 could only have arisen in a country where snakes, and nos. 11, 15, 72,
@@ -432,36 +432,36 @@ old proverb: "First learn, then form opinions" (no. 217).
 
 ### Footnotes
 
-<span id="fn_0"></span>[14:1](ajp04.htm#fr_0) *Cf. Analogous Proverbs in
+<span id="fn_0"></span>[14:1](ajp04.htm#fr_0.md) *Cf. Analogous Proverbs in
 Ten Languages*, by Mrs. E. B. Maur (London, 1885).
 
-<span id="fn_1"></span>[18:1](ajp04.htm#fr_1) *"Book of Proverbs,"
+<span id="fn_1"></span>[18:1](ajp04.htm#fr_1.md) *"Book of Proverbs,"
 International Critical Commentary,* Introduction, p. xi.
 
-<span id="fn_2"></span>[22:1](ajp04.htm#fr_2) A heated controversy raged
+<span id="fn_2"></span>[22:1](ajp04.htm#fr_2.md) A heated controversy raged
 over this question for a long time, but the statement made above has
 been conclusively proved by Professor Dalman in his *Die Worte* *Jesu*
 (1898), and *Aramäische Grammatik* (1905). For a recent summary of the
 Language-problem the reader is referred to Schweitzer's *The Quest of
 the Historical Jesus* (Eng. Trans. 1910), pp. 269-75.
 
-<span id="fn_3"></span>[24:1](ajp04.htm#fr_3) Proverbs of only
+<span id="fn_3"></span>[24:1](ajp04.htm#fr_3.md) Proverbs of only
 linguistic interest have been omitted. They may be found in Dukes, pp.
 14 *f*., and Lewin, pp. 82 *f*.
 
-<span id="fn_4"></span>[24:2](ajp04.htm#fr_4) Lazarus, *Ethics of
+<span id="fn_4"></span>[24:2](ajp04.htm#fr_4.md) Lazarus, *Ethics of
 Judaism* (Eng. Trans.), vol. i. p. 65.
 
-<span id="fn_5"></span>[26:1](ajp04.htm#fr_5) *Jewish Encyclopedia*,
+<span id="fn_5"></span>[26:1](ajp04.htm#fr_5.md) *Jewish Encyclopedia*,
 vol. x. p. 227.
 
-<span id="fn_6"></span>[26:2](ajp04.htm#fr_6) Josephus, *Contra
+<span id="fn_6"></span>[26:2](ajp04.htm#fr_6.md) Josephus, *Contra
 Apionem*, I. 12.
 
-<span id="fn_7"></span>[28:1](ajp04.htm#fr_7) Trade guilds seem to have
+<span id="fn_7"></span>[28:1](ajp04.htm#fr_7.md) Trade guilds seem to have
 had their own proverbs, since we read of millers’ proverbs (see no.
 350), and fullers’ (Suc. 28<sup>a</sup>; BḄ. 134<sup>a</sup>).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Human Existence](ajp05)
+[Next: Chapter I: Human Existence](ajp05.md)

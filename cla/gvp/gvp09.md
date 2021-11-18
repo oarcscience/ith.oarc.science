@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gvp08)  [Next](gvp10) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gvp08)  [Next](gvp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ For every thing which is called by a name, receives
 <span id="page_54">p. 54</span>
 
 its appellation from that which is more worthy than itself, <span
-id="fr_6"></span>[1](#fn_6) so that it is one person that calls, and
+id="fr_6"></span>[1](#fn_6.md) so that it is one person that calls, and
 another that hears. Who is it, therefore, that has given a name to God?
 God, however, is not a name to God, but an indication of what we
 conceive of Him.
@@ -300,7 +300,7 @@ God.
 
 ### Footnotes
 
-<span id="fn_6"></span>[54:1](gvp09.htm#fr_6) For as every cause of
+<span id="fn_6"></span>[54:1](gvp09.htm#fr_6.md) For as every cause of
 Existence to a thing, is better than that thing, so far as the one is
 cause and the other effect; thus also, that which gives a name to any
 thing is better than the thing named, so far as it is named, *i. e.*, so
@@ -309,4 +309,4 @@ cause, and the name the effect.
 
 ------------------------------------------------------------------------
 
-[Next: Pythagorean Sentences from the Protreptics of Iamblichus](gvp10)
+[Next: Pythagorean Sentences from the Protreptics of Iamblichus](gvp10.md)

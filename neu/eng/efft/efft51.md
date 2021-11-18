@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft50)  [Next](efft52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft50)  [Next](efft52.md) 
 
 ------------------------------------------------------------------------
 
-# WITCH AND HARE  <span id="fr_58"></span>[1](#fn_58)
+# WITCH AND HARE  <span id="fr_58"></span>[1](#fn_58.md)
 
 AN old witch, in days of yore, lived in this neighbourhood; and whenever
 she wanted money she would assume the shape of a hare, and would send
@@ -55,9 +55,9 @@ jury, and the old woman finished her days, like a martyr, at the stake.
 
 ### Footnotes
 
-<span id="fn_58"></span>[1](efft51.htm#fr_58) Mrs. Bray, *The Borders of
+<span id="fn_58"></span>[1](efft51.htm#fr_58.md) Mrs. Bray, *The Borders of
 the Tamar and the Tavy*, vol. ii. p. 112.
 
 ------------------------------------------------------------------------
 
-[Next: The Hand of Glory](efft52)
+[Next: The Hand of Glory](efft52.md)

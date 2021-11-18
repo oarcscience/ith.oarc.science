@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge13) 
-[Next](pge15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge13.md) 
+[Next](pge15.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ approval of Greek love more forcibly to modern minds than the fact that
 tragedians like Æschylus and Sophocles made it the subject of their
 dramas. From a notice in Athenæus it appears that Stesichorus, who first
 gave dramatic form to lyric poetry, composed interludes upon paiderastic
-subjects. <span id="fr_78"></span>[1](#fn_78) But of these it is
+subjects. <span id="fr_78"></span>[1](#fn_78.md) But of these it is
 impossible to speak, since their very titles have been lost. What
 immediately follows, in the narrative of Athenæus, will serve as text
 for what I have to say upon this topic. "And Aeschylus, that mighty
@@ -30,7 +30,7 @@ for Aristophanes quotes it no less than four times--twice in the
 *Frogs*, once in the *Birds*, and once in the *Ecclesiazusæ*. We can
 reconstruct its general plan from the lines which have come down to us
 on the authority of the writers above mentioned. <span
-id="fr_79"></span>[2](#fn_79) The play opened with an
+id="fr_79"></span>[2](#fn_79.md) The play opened with an
 
 <span id="page_28">p. 28</span>
 
@@ -50,7 +50,7 @@ over his friend. The *Threnos* of Achilles on this occasion was very
 celebrated among the ancients. One passage of unmeasured passion, which
 described the love which subsisted between the two heroes, has been
 quoted with varieties of reading by Lucian, Plutarch, and
-Athenæus. <span id="fr_80"></span>[1](#fn_80) Lucian says: "Achilles,
+Athenæus. <span id="fr_80"></span>[1](#fn_80.md) Lucian says: "Achilles,
 bewailing the death of Patroclus with unhusbanded passion, broke forth
 into the truth in self-abandonment to woe." Athenæus gives the text as
 follows:--
@@ -59,13 +59,13 @@ follows:--
 ungrateful for the showers of kisses given."
 
 What we have here chiefly to notice is the change which the tale of
-Achilles had undergone since Homer. <span id="fr_81"></span>[2](#fn_81)
+Achilles had undergone since Homer. <span id="fr_81"></span>[2](#fn_81.md)
 Homer represented Patroclus as older in years than the son of Peleus,
 but inferior to him in station; nor did he hint which of the friends was
 the *Erastes* of the other. That view of their comradeship had not
 occurred to him. Æschylus makes Achilles the lover; and for this
 distortion of the Homeric legend he was severely criticised by
-Plato. <span id="fr_82"></span>[3](#fn_82) At the same time, as the two
+Plato. <span id="fr_82"></span>[3](#fn_82.md) At the same time, as the two
 lines quoted from the *Threnos* prove, he treated their affection from
 the point of view of post-Homeric paiderastia.
 
@@ -77,17 +77,17 @@ Hesychius has preserved one phrase which illustrates
 
 the Greek notion that love was an effluence from the beloved person
 through the eyes into the lover's soul, <span
-id="fr_83"></span>[1](#fn_83) while Stobæus quotes the beautiful simile
+id="fr_83"></span>[1](#fn_83.md) while Stobæus quotes the beautiful simile
 by which love is compared to a piece of ice held in the hand by
-children. <span id="fr_84"></span>[2](#fn_84) Another play of Sophocles,
+children. <span id="fr_84"></span>[2](#fn_84.md) Another play of Sophocles,
 the *Niobe*, is alluded to by Plutarch and by Athenæus for the
 paiderastia which it contained. Plutarch's words are these: <span
-id="fr_85"></span>[3](#fn_85) "When the children of Niobe, in Sophocles,
+id="fr_85"></span>[3](#fn_85.md) "When the children of Niobe, in Sophocles,
 are being pierced and dying, one of them cries out, appealing to no
 other rescuer or ally than his lover: Ho! comrade, up and aid me!"
 Finally, Athenæus quotes a single line from the *Colchian Women* of
 Sophocles, which alludes to Ganymede, and runs as follows: <span
-id="fr_86"></span>[4](#fn_86) "Inflaming with his thighs the royalty of
+id="fr_86"></span>[4](#fn_86.md) "Inflaming with his thighs the royalty of
 Zeus."
 
 Whether Euripides treated paiderastia directly in any of his plays is
@@ -98,7 +98,7 @@ preserved from that tragedy--
 
 justify us in believing that he made the crime of Laius his subject. It
 may be added that a passage in Cicero confirms this belief. <span
-id="fr_87"></span>[5](#fn_87) The title of another tragedy,
+id="fr_87"></span>[5](#fn_87.md) The title of another tragedy,
 *Peirithous*, seems in like manner to point at friendship; while a
 beautiful quotation from the *Dictys* sufficiently indicates the high
 moral tone assumed by Euripides in treating of Greek love. It runs as
@@ -129,7 +129,7 @@ What has been quoted from Æschylus and Sophocles sufficiently
 establishes the fact that paiderastia was publicly received with
 approbation on the tragic stage. This should make us cautious in
 rejecting the stories which are told about the love adventures of
-Sophocles. <span id="fr_88"></span>[1](#fn_88) Athenæus calls him a
+Sophocles. <span id="fr_88"></span>[1](#fn_88.md) Athenæus calls him a
 lover of lads, nor is it strange if, in the age of Pericles, and while
 he was producing the *Achilles' Loves*, he should have shared the tastes
 of which his race approved.
@@ -138,9 +138,9 @@ At this point it may be as well to mention a few illustrious names,
 which to the student of Greek art and literature are indissolubly
 connected with paiderastia. Parmenides, whose life, like that of
 Pythagoras, was accounted peculiarly holy, loved his pupil Zeno. <span
-id="fr_89"></span>[2](#fn_89) Pheidias loved Pantarkes, a youth of Elis,
+id="fr_89"></span>[2](#fn_89.md) Pheidias loved Pantarkes, a youth of Elis,
 and carved his portrait in the figure of a victorious athlete at the
-foot of the Olympian Zeus. <span id="fr_90"></span>[3](#fn_90) Euripides
+foot of the Olympian Zeus. <span id="fr_90"></span>[3](#fn_90.md) Euripides
 is said to have loved the adult Agathon. Lysias, Demosthenes, and
 Æschines, orators whose conduct was open to the most searching censure
 of malicious criticism, did not scruple to avow their love. Socrates
@@ -153,45 +153,45 @@ Agathon. This list might be indefinitely lengthened.
 
 ### Footnotes
 
-<span id="fn_78"></span>[27:1](pge14.htm#fr_78) Athen., xiii. 601 A.
+<span id="fn_78"></span>[27:1](pge14.htm#fr_78.md) Athen., xiii. 601 A.
 
-<span id="fn_79"></span>[27:2](pge14.htm#fr_79) See the fragments of the
+<span id="fn_79"></span>[27:2](pge14.htm#fr_79.md) See the fragments of the
 *Myrmidones* in the *Poetæ Scenici Græci*. My interpretation of them is,
 of course, conjectural.
 
-<span id="fn_80"></span>[28:1](pge14.htm#fr_80) Lucian, Amores;
+<span id="fn_80"></span>[28:1](pge14.htm#fr_80.md) Lucian, Amores;
 Plutarch, Eroticus; Althenæus, xiii. 602 E.
 
-<span id="fn_81"></span>[28:2](pge14.htm#fr_81) Possibly Æschylus drew
+<span id="fn_81"></span>[28:2](pge14.htm#fr_81.md) Possibly Æschylus drew
 his fable from a non-Homeric source, but if so, it is curious that Plato
 should only refer to Homer.
 
-<span id="fn_82"></span>[28:3](pge14.htm#fr_82) *Symph*., 180 A.
+<span id="fn_82"></span>[28:3](pge14.htm#fr_82.md) *Symph*., 180 A.
 Xenophon, *Symph*. 8, 31, points out that in Homer Achilles avenged the
 death of Patroclus, not as his lover, but as his comrade in arms.
 
-<span id="fn_83"></span>[29:1](pge14.htm#fr_83) Cf. Eurid., *Hippol*.,
+<span id="fn_83"></span>[29:1](pge14.htm#fr_83.md) Cf. Eurid., *Hippol*.,
 l. 525; Plato, *Phædr*., p. 255; Max. Tyr., *Dissert*., XXV. 2.
 
-<span id="fn_84"></span>[29:2](pge14.htm#fr_84) See *Poetæ Scenici*,
+<span id="fn_84"></span>[29:2](pge14.htm#fr_84.md) See *Poetæ Scenici*,
 *Fragments of Sophocles*.
 
-<span id="fn_85"></span>[29:3](pge14.htm#fr_85) *Eroticus*, p. 760 E.
+<span id="fn_85"></span>[29:3](pge14.htm#fr_85.md) *Eroticus*, p. 760 E.
 
-<span id="fn_86"></span>[29:4](pge14.htm#fr_86) Ath. p. 602 E.
+<span id="fn_86"></span>[29:4](pge14.htm#fr_86.md) Ath. p. 602 E.
 
-<span id="fn_87"></span>[29:5](pge14.htm#fr_87) *Tusc*., iv. 33
+<span id="fn_87"></span>[29:5](pge14.htm#fr_87.md) *Tusc*., iv. 33
 
-<span id="fn_88"></span>[30:1](pge14.htm#fr_88) See Athenæus, xiii. pp.
+<span id="fn_88"></span>[30:1](pge14.htm#fr_88.md) See Athenæus, xiii. pp.
 604, 605, for two very outspoken stories about Sophocles at Chios and
 apparently at Athens. In 582, e, he mentions one of the boys beloved by
 Sophocles; a certain Demophon.
 
-<span id="fn_89"></span>[30:2](pge14.htm#fr_89) Plato, *Parm*., 127 A.
+<span id="fn_89"></span>[30:2](pge14.htm#fr_89.md) Plato, *Parm*., 127 A.
 
-<span id="fn_90"></span>[30:3](pge14.htm#fr_90) Pausanias, v. 11, and
+<span id="fn_90"></span>[30:3](pge14.htm#fr_90.md) Pausanias, v. 11, and
 see Meier, p. 159, note 93.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Recapitulation of points--The Palæstra](pge15)
+[Next: XIII. Recapitulation of points--The Palæstra](pge15.md)

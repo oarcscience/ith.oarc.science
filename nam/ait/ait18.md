@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait17)  [Next](ait19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait17)  [Next](ait19.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![S](img/15700.jpg) |
+| ![S](img/15700.jpg.md) |
 
 TONE-SHIRT was a terrible giant who wore a shirt of shells so fastened
 that no arrow could pierce it. He lived with his three daughters on the
@@ -122,7 +122,7 @@ up their bows and arrows and declared themselves ready
 
 [![“Instead of one handsome young warrior, there were
 two.”](tn/16100.jpg)  
-Click to enlarge](img/16100.jpg)  
+Click to enlarge](img/16100.jpg.md)  
 “Instead of one handsome young warrior, there were two.”  
 
 to follow him. Among them were two magicians, the Wolf and the
@@ -276,4 +276,4 @@ to rot as he had left those of their father, the Crane.
 
 ------------------------------------------------------------------------
 
-[Next: The Great Wizard](ait19)
+[Next: The Great Wizard](ait19.md)

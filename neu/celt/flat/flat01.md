@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat00)  [Next](flat02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat00)  [Next](flat02.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,4 +153,4 @@ after his death is more than I can say.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Knockfierna](flat02)
+[Next: The Legend of Knockfierna](flat02.md)

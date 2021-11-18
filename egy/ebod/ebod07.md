@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod06)  [Next](ebod08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod06)  [Next](ebod08.md) 
 
 ------------------------------------------------------------------------
 
@@ -632,4 +632,4 @@ see Col. 26, l. 22; Col. 27, l. 5; and Col. 28, l. 20; Col. 29, l. 6.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Abode Of The Blessed.](ebod08)
+[Next: The Abode Of The Blessed.](ebod08.md)

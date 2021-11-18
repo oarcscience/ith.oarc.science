@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](lot02)  [Next](lot04) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](lot02)  [Next](lot04.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ God knows.
 
 ------------------------------------------------------------------------
 
-[Next: The Wife of Lot (PUH)](lot04)
+[Next: The Wife of Lot (PUH)](lot04.md)
 
 </div>
 

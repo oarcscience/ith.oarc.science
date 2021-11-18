@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp38)  [Next](dmp40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp38)  [Next](dmp40.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ days.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. VIII](dmp40)
+[Next: Verso Col. VIII](dmp40.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](elpg01)  [Next](elpg03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](elpg01)  [Next](elpg03.md) 
 
 ------------------------------------------------------------------------
 
@@ -215,7 +215,7 @@ should sign a declaration of allegiance and subjection to the king of
 Great Britain, and of fidelity to the Proprietary of Pennsylvania.
 
 Such lists with names, over thirty thousand in number, may be found in
-print. <span id="fr_0"></span>[1](#fn_0) They are also of interest to
+print. <span id="fr_0"></span>[1](#fn_0.md) They are also of interest to
 the amateur researcher. These lists contain also the names of the
 vessels, captains, port from which last sailed, and date of arrival in
 Philadelphia. The lists are not too detailed as to the specific parts of
@@ -292,7 +292,7 @@ West?"
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](elpg02.htm#fr_0) Prof. I. Daniel Rupp’s
+<span id="fn_0"></span>[1](elpg02.htm#fr_0.md) Prof. I. Daniel Rupp’s
 "Thirty Thousand Names of Immigrants," 1856; also later dates, some
 editions carrying part of the text in German, as well as English. (No
 index).
@@ -305,4 +305,4 @@ volume of facsimile signatures of the original lists.
 
 ------------------------------------------------------------------------
 
-[Next: Pioneer Immigrants were Farmers and Tradesmen](elpg03)
+[Next: Pioneer Immigrants were Farmers and Tradesmen](elpg03.md)

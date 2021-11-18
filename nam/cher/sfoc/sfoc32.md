@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc31)  [Next](sfoc33) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc31)  [Next](sfoc33.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ and strangers are excluded for reasons already explained.
 
 ------------------------------------------------------------------------
 
-[Next: This Tells About Moving Pains in the Teeth (Neuralgia?)](sfoc33)
+[Next: This Tells About Moving Pains in the Teeth (Neuralgia?)](sfoc33.md)

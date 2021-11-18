@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Freemasonry](../../mas/index)
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Freemasonry](../../mas/index.md)
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ be visible if you have a Unicode font installed on your system.
 
 ------------------------------------------------------------------------
 
-[The Dionysian Artificers](dart00)  
+[The Dionysian Artificers](dart00.md)  

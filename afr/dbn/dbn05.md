@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn04)  [Next](dbn06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn04)  [Next](dbn06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ now by Berber types from the north and west.
 
 Egyptian monuments show distinctly Negro and mulatto faces. Herodotus,
 in an incontrovertible passage, alludes to the Egyptians as "black and
-curly-haired" <span id="fr_3"></span>[1](#fn_3)--a peculiarly
+curly-haired" <span id="fr_3"></span>[1](#fn_3.md)--a peculiarly
 significant statement from
 
 <span id="page_18">p. 18</span>
@@ -66,7 +66,7 @@ the Thebaid from one-seventh to one-third of the Egyptian population
 were Negroes, and that of the predynastic Egyptians less than half could
 be classed as non-Negroid. Judging from measurements in the tombs of
 nobles as late as the eighteenth dynasty, Negroes form at least
-one-sixth of the higher class. <span id="fr_4"></span>[1](#fn_4)
+one-sixth of the higher class. <span id="fr_4"></span>[1](#fn_4.md)
 
 Such measurements are by no means conclusive, but they are apt to be
 under rather than over statements of the prevalence of Negro blood. Head
@@ -89,7 +89,7 @@ prime reasons why no civilization of the type of that of the Nile arose
 in other parts of the continent, if such a thing were at all possible,
 was that Egypt acted as a sort of channel by which the genius of
 Negro-land was drafted off into the service of Mediterranean and Asiatic
-culture." <span id="fr_5"></span>[2](#fn_5)
+culture." <span id="fr_5"></span>[2](#fn_5.md)
 
 To one familiar with the striking and beautiful types arising from the
 mingling of Negro with Latin and Germanic types in America, the puzzle
@@ -121,7 +121,7 @@ of the Esquiline at Rome, and the Colossi of Bubastis all represent
 black, full-blooded Negroes and are described by Petrie as "having high
 cheek bones, flat checks, both in one plane, a massive nose, firm
 projecting lips, and thick hair, with an austere and almost savage
-expression of power." <span id="fr_6"></span>[1](#fn_6)
+expression of power." <span id="fr_6"></span>[1](#fn_6.md)
 
 Blyden, the great modern black leader of West Africa, said of the Sphinx
 at Gizeh: "Her features are decidedly of the African or Negro type, with
@@ -130,7 +130,7 @@ in majestic and mysterious silence over the empty plain where once stood
 the great city of Memphis in all its pride and glory, as an 'emblematic
 representation of the king'--is not the inference clear as to the
 peculiar type or race to which that king belonged?" <span
-id="fr_7"></span>[2](#fn_7)
+id="fr_7"></span>[2](#fn_7.md)
 
 The middle empire arose 3064 B.C. and lasted nearly twenty-four
 centuries. Under Pharaohs whose Negro descent is plainly evident, like
@@ -154,22 +154,22 @@ mean that an incursion from the far south had placed a black conqueror
 on the throne. At any rate, the whole empire was in some way shaken, and
 two hundred years later the invasion of the Hyksos began. The domination
 of Hyksos kings who may have been Negroids from Asia <span
-id="fr_8"></span>[1](#fn_8) lasted for five hundred years.
+id="fr_8"></span>[1](#fn_8.md) lasted for five hundred years.
 
 The redemption of Egypt from these barbarians came from Upper Egypt, led
 by the mulatto Aahmes. He founded in 1703 B.C. the new empire, which
 lasted fifteen hundred years. His queen, Nefertari, "the most venerated
-figure of Egyptian history," <span id="fr_9"></span>[2](#fn_9) was a
+figure of Egyptian history," <span id="fr_9"></span>[2](#fn_9.md) was a
 Negress of great beauty, strong personality, and of unusual
 administrative force. She was for many years joint ruler with her son,
 Amenhotep I, who succeeded his father. <span
-id="fr_10"></span>[3](#fn_10)
+id="fr_10"></span>[3](#fn_10.md)
 
 The new empire was a period of foreign conquest and internal splendor
 and finally of religious dispute and overthrow. Syria was conquered in
 these reigns and Asiatic civilization and influences poured in upon
 Egypt. The great Tahutmes, III, whose reign was "one of the grandest and
-most eventful in Egyptian history," <span id="fr_11"></span>[4](#fn_11)
+most eventful in Egyptian history," <span id="fr_11"></span>[4](#fn_11.md)
 had a strong Negroid countenance, as had also Queen Hatshepsut, who sent
 the celebrated expedition to reopen ancient trade with the Hottentots of
 Punt. A new strain of Negro blood came to the royal line through Queen
@@ -211,7 +211,7 @@ The Egyptians themselves, in later days, affirmed that they and their
 civilization came from the south and from the black tribes of Punt, and
 certainly "at the earliest period in which human remains have been
 recovered Egypt and Lower Nubia appear to have formed culturally and
-racially one land." <span id="fr_12"></span>[1](#fn_12)
+racially one land." <span id="fr_12"></span>[1](#fn_12.md)
 
 The forging ahead of Egypt in culture was mainly from economic causes.
 Ethiopia, living in a much poorer land with limited agricultural
@@ -234,7 +234,7 @@ A separate and independent Ethiopian culture finally began to
 
 arise during the middle empire of Egypt and centered at Nepata and
 Meroe. Widespread trade in gold, ivory, precious stones, skins, wood,
-and works of handicraft arose. <span id="fr_13"></span>[1](#fn_13) The
+and works of handicraft arose. <span id="fr_13"></span>[1](#fn_13.md) The
 Negro began to figure as the great trader of Egypt.
 
 This new wealth of Ethiopia excited the cupidity of the Pharaohs and led
@@ -279,7 +279,7 @@ claimants to the throne. "It
 
 was the heyday of the Negro. For the greater part of the century. . . .
 Egypt itself was subject to the blacks, just as in the new empire the
-Sudan had been subject to Egypt." <span id="fr_14"></span>[1](#fn_14)
+Sudan had been subject to Egypt." <span id="fr_14"></span>[1](#fn_14.md)
 
 Egypt now began to fall into the hands of Asia and was conquered first
 by the Assyrians and then by the Persians, but the Ethiopian kings kept
@@ -302,7 +302,7 @@ became the real capital and supported at one time four thousand artisans
 and two hundred thousand soldiers. It was here that the famous Candaces
 reigned as queens. Pliny tells us that one Candace of the time of Nero
 had had forty-four predecessors on the throne, while another Candace
-figures in the New Testament. <span id="fr_15"></span>[2](#fn_15)
+figures in the New Testament. <span id="fr_15"></span>[2](#fn_15.md)
 
 It was probably this latter Candace who warred against Rome at the time
 of Augustus and received unusual consideration from her formidable foe.
@@ -441,51 +441,51 @@ the Nile--of Egypt, the motherland of human culture and
 
 ### Footnotes
 
-<span id="fn_3"></span>[17:1](dbn05.htm#fr_3) "αὐτός δὲ εἵκασα τῇδε καὶ
+<span id="fn_3"></span>[17:1](dbn05.htm#fr_3.md) "αὐτός δὲ εἵκασα τῇδε καὶ
 ὅτε μελάγχροές εἰσι καὶ οὐλότριχες." Liber II, Cap. 104.
 
-<span id="fn_4"></span>[18:1](dbn05.htm#fr_4) . Cf. Maciver and
+<span id="fn_4"></span>[18:1](dbn05.htm#fr_4.md) . Cf. Maciver and
 Thompson: *Ancient Races of the Thebaid*.
 
-<span id="fn_5"></span>[18:2](dbn05.htm#fr_5) *Journal of Race
+<span id="fn_5"></span>[18:2](dbn05.htm#fr_5.md) *Journal of Race
 Development*, I, 484.
 
-<span id="fn_6"></span>[19:1](dbn05.htm#fr_6) Petrie: *History of
+<span id="fn_6"></span>[19:1](dbn05.htm#fr_6.md) Petrie: *History of
 Egypt*, I, 51, 237.
 
-<span id="fn_7"></span>[19:2](dbn05.htm#fr_7) From *West Africa to
+<span id="fn_7"></span>[19:2](dbn05.htm#fr_7.md) From *West Africa to
 Palestine*, p. 114.
 
-<span id="fn_8"></span>[20:1](dbn05.htm#fr_8) Depending partly on
+<span id="fn_8"></span>[20:1](dbn05.htm#fr_8.md) Depending partly on
 whether the so-called Hyksos sphinxes belong to the period of the Hyksos
 kings or to an earlier period (cf. Petrie, I, 52-53, 237). That Negroids
 largely dominated in the early history of western Asia is proven by the
 monuments.
 
-<span id="fn_9"></span>[20:2](dbn05.htm#fr_9) Petrie: *History of
+<span id="fn_9"></span>[20:2](dbn05.htm#fr_9.md) Petrie: *History of
 Egypt*, II, 337.
 
-<span id="fn_10"></span>[20:3](dbn05.htm#fr_10) Chamberlain: *Journal of
+<span id="fn_10"></span>[20:3](dbn05.htm#fr_10.md) Chamberlain: *Journal of
 Race Development*, April, 1911.
 
-<span id="fn_11"></span>[20:4](dbn05.htm#fr_11) Petrie: *History of
+<span id="fn_11"></span>[20:4](dbn05.htm#fr_11.md) Petrie: *History of
 Egypt*, II, 337.
 
-<span id="fn_12"></span>[21:1](dbn05.htm#fr_12) Reisner: *Archeological
+<span id="fn_12"></span>[21:1](dbn05.htm#fr_12.md) Reisner: *Archeological
 Survey of Nubia*, I, 319.
 
-<span id="fn_13"></span>[22:1](dbn05.htm#fr_13) Hoskins declares that
+<span id="fn_13"></span>[22:1](dbn05.htm#fr_13.md) Hoskins declares that
 the arch had its origin in Ethiopia.
 
-<span id="fn_14"></span>[23:1](dbn05.htm#fr_14) Maciver and Wooley:
+<span id="fn_14"></span>[23:1](dbn05.htm#fr_14.md) Maciver and Wooley:
 *Areika*, p. 2.
 
-<span id="fn_15"></span>[23:2](dbn05.htm#fr_15) Acts VIII, 27.
+<span id="fn_15"></span>[23:2](dbn05.htm#fr_15.md) Acts VIII, 27.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Niger and Islam](dbn06)
+[Next: IV. The Niger and Islam](dbn06.md)
 
 </div>

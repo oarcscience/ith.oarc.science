@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift29) 
-[Next](ift31) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift29.md) 
+[Next](ift31.md) 
 
 ------------------------------------------------------------------------
 
 # The Pigeon and the Crow
 
 <span id="img_77"></span> [![](tn/77.jpg)  
-Click to enlarge](img/77.jpg)
+Click to enlarge](img/77.jpg.md)
 
 <span id="img_78"></span> ![](img/78.jpg)NCE upon a time the Bodhisatta
 was a Pigeon, and lived in a nest-basket which a rich man's cook had
@@ -90,4 +90,4 @@ longer." And the Crow lay there groaning till he died.
 
 ------------------------------------------------------------------------
 
-[Next: General Notes](ift31)
+[Next: General Notes](ift31.md)

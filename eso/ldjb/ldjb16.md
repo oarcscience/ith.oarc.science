@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb15)  [Next](ldjb17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb15)  [Next](ldjb17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -165,7 +165,7 @@ Spirit within his own soul. To accomplish this he must rise by the aid
 of the divine Spirit within himself above the inferior elements within
 his own nature, and thus surrender his whole self-will to God, an act
 which is expressed in the original meaning of the word "prayer." <span
-id="fr_214"></span>[1](#fn_214)
+id="fr_214"></span>[1](#fn_214.md)
 
 <span id="page_267">p. 267</span>
 
@@ -216,7 +216,7 @@ of the omnipotent God.
 
 Prayer is the union with God effected by the sacrifice of the personal
 will. It is, therefore, the only "*Yoga* practice" worthy of serious
-attention. <span id="fr_215"></span>[1](#fn_215)
+attention. <span id="fr_215"></span>[1](#fn_215.md)
 
 "The will necessary to accomplish prayer is far too weak as long as it
 is in our own powers that we pray, but if acted upon by divine power it
@@ -359,7 +359,7 @@ his eyes (spiritually) opened he would be terrified. Whatever a
 man sees or touches, therein is a devil's trap, and if the Word of the
 Lord, having become human, were not occupying the middle, the devil
 would capture and devour all souls." <span
-id="fr_216"></span>[1](#fn_216) (*Menschwerdung*, xi. 6.)
+id="fr_216"></span>[1](#fn_216) (*Menschwerdung*, xi. 6..md)
 
 "As long as earthly man lives the soul will be in continual danger, for
 the devil is at enmity with her, and shoots his rays with a false
@@ -451,7 +451,7 @@ ass of ignorance in the stable, represented by the animal constitution
 of man, when the king of pride (Herod) finds his kingdom endangered, and
 seeks to kill the child, which is to become the ruler in the new
 Jerusalem within the consciousness of man. <span
-id="fr_217"></span>[1](#fn_217)
+id="fr_217"></span>[1](#fn_217.md)
 
 "The enlightened children of God are threatened by a great danger;
 namely, in many of them who enjoyed the great sight of the holiness of
@@ -474,7 +474,7 @@ beginning, during which the light of God began to shine within nature,
 and then the light of God departs from him. There is then nothing left
 but the light of external nature within the creature, but self-assertion
 puts itself therein and fancies that it is the original light received
-from God." <span id="fr_218"></span>[1](#fn_218) (*Calmness*, i. 8.)
+from God." <span id="fr_218"></span>[1](#fn_218) (*Calmness*, i. 8..md)
 
  
 
@@ -541,7 +541,7 @@ each other, but they do not act upon each other; each one is merely the
 dwelling of the other, as is the case with gold-bearing rock. The rock
 is not the gold, but merely its vehicle. The roughness of the rock is
 not that which produces gold, but this is done by the tincture of the
-sun acting therein." <span id="fr_219"></span>[1](#fn_219)
+sun acting therein." <span id="fr_219"></span>[1](#fn_219.md)
 (*Menschwerdung*, i. 14.)
 
  
@@ -567,7 +567,7 @@ xv. 20.)
 Christ who has conquered, for His soul is our soul and His flesh is our
 flesh, provided that we trust in Him and surrender ourselves to Him
 entirely, as Christ surrendered Himself to His Father." <span
-id="fr_220"></span>[1](#fn_220) (*Forty Questions*, i. 10.)
+id="fr_220"></span>[1](#fn_220) (*Forty Questions*, i. 10..md)
 
  
 
@@ -595,7 +595,7 @@ of that disease) already born, and there will not be needed such great
 earnestness as will be required by him who wants to come out of the
 company of the monsters which he has created, and who will have to
 destroy the being which he has brought into shape within his own
-soul." <span id="fr_221"></span>[1](#fn_221) (*Mysterium*, xxiv. 25.)
+soul." <span id="fr_221"></span>[1](#fn_221) (*Mysterium*, xxiv. 25..md)
 
  
 
@@ -629,7 +629,7 @@ obstacles)." (*Six Theosophical Points*, x. 23.)
 "Over-eating and intoxication cause sin, because the pure will which
 emanates from the fire-life becomes imprisoned and drowned in desire, so
 that it is rendered impotent in the battle." <span
-id="fr_222"></span>[1](#fn_222) (*Six Theosophical Points*, cxi. 29.)
+id="fr_222"></span>[1](#fn_222) (*Six Theosophical Points*, cxi. 29..md)
 
 As the power of the inner man over the outer man increases, the former
 changes the qualities of the latter to a certain extent. Nevertheless
@@ -721,7 +721,7 @@ fire-life may evolve celestial substance." (*Six Mysterious Points*, ii.
 continual chain of sin. Truly the noble lily-branch, newly born in
 Christ, does not sin; nevertheless the terrestrial man sins in body and
 soul, and seeks to spoil the noble flower." <span
-id="fr_223"></span>[1](#fn_223) (*Stiefel*, xi. 537.)
+id="fr_223"></span>[1](#fn_223) (*Stiefel*, xi. 537..md)
 
 "A true Christian hates the will of the flesh and rejects it. He is
 continually his own accuser, and considers himself unworthy, and with
@@ -754,7 +754,7 @@ foot of His Cross, so that the devil may not perceive it." (*Threefold
 Life*, xv.)
 
 "A real Christian loves truth and justice, and hates hypocrisy."
-(*Communion*, iv. 228.) <span id="fr_224"></span>[1](#fn_224)
+(*Communion*, iv. 228.) <span id="fr_224"></span>[1](#fn_224.md)
 
  
 
@@ -795,7 +795,7 @@ hinder it, will she become truly manifest in the love of God."
 The object of our life should be to die continually in regard to our
 human selfhood, and to live only in the love of God, labouring in His
 service. Thereby our activity will become blessed. <span
-id="fr_225"></span>[1](#fn_225)
+id="fr_225"></span>[1](#fn_225.md)
 
 "I am not rejoicing because I am living within my own sense of self, but
 because in my selfhood I am in the death of Christ and am dying
@@ -836,7 +836,7 @@ the self-assertion, and thus the wrath of God cannot reach her. If the
 wrath should reach that essence, then the submitted will rises up in its
 power therein, and stands there in shape before God as a production of
 victory that will inherit the in fancy." <span
-id="fr_226"></span>[1](#fn_226) (*Calmness*, xi. 1.)
+id="fr_226"></span>[1](#fn_226) (*Calmness*, xi. 1..md)
 
 <span id="page_286">p. 286</span>
 
@@ -945,7 +945,7 @@ their principles have departed." (*Threefold Life*, i. 1.)
 
 ### Footnotes
 
-<span id="fn_214"></span>[266:1](ldjb16.htm#fr_214) In the German
+<span id="fn_214"></span>[266:1](ldjb16.htm#fr_214.md) In the German
 language the word *Gebet* (prayer) originates from *geben* (to give),
 and means, therefore, a gift or sacrifice to God. It does <span
 id="page_267">p. 267</span> not imply the offering of selfish petitions
@@ -955,11 +955,11 @@ God, and consequently a partaker of His divine powers. It would then be
 easy for us to grant our own desires, if in that divine state there
 could be room for personal desires of any kind.
 
-<span id="fn_215"></span>[268:1](ldjb16.htm#fr_215) True prayer is the
+<span id="fn_215"></span>[268:1](ldjb16.htm#fr_215.md) True prayer is the
 bringing of will, thought, and word into one Δ by the power of the
 Spirit of God.
 
-<span id="fn_216"></span>[272:1](ldjb16.htm#fr_216) Here it may be
+<span id="fn_216"></span>[272:1](ldjb16.htm#fr_216.md) Here it may be
 useful to remark that if a person cannot perceive these dangers of the
 devil which are lurking in everything, it would be folly for him to
 imagine all sorts of dangers in his own fancy, whereby he would merely
@@ -971,10 +971,10 @@ found his true dignity and manhood in God is superior to the devil, and
 there is nothing in the universe which could give him just cause for
 fear.
 
-<span id="fn_217"></span>[274:1](ldjb16.htm#fr_217) See "*Jehoshua, the
+<span id="fn_217"></span>[274:1](ldjb16.htm#fr_217.md) See "*Jehoshua, the
 Prophet of Nazareth*."
 
-<span id="fn_218"></span>[275:1](ldjb16.htm#fr_218) The human intellect,
+<span id="fn_218"></span>[275:1](ldjb16.htm#fr_218.md) The human intellect,
 in its relation to the divine spirit, may be compared to the moon that
 receives her light from the sun. In either case the former is merely a
 reflection, while in the latter rests the true light. Thus there are
@@ -983,7 +983,7 @@ for the wisdom of God, and from this arises that self-conceit which is
 never more repulsive than if found among those who boast of being the
 servants of God.
 
-<span id="fn_219"></span>[277:1](ldjb16.htm#fr_219) There are many
+<span id="fn_219"></span>[277:1](ldjb16.htm#fr_219.md) There are many
 "Christians," "Buddhists," &c., who imagine that they could attain the
 apex of perfection if they were only getting rid of their physical body.
 Some even go so far as to object to having a soul. Surely the Divinity
@@ -999,8 +999,8 @@ is godless himself. *Gautama* himself could not have become a
 of a soul which could be enlightened. This divine soul is the body of
 Christ.
 
-<span id="fn_220"></span>[278:1](ldjb16.htm#fr_220) The very same idea
-is expressed in the [*Bhagavad*](errata.htm#2) *Gita*, where man is
+<span id="fn_220"></span>[278:1](ldjb16.htm#fr_220.md) The very same idea
+is expressed in the [*Bhagavad*](errata.htm#2.md) *Gita*, where man is
 advised to seek to realise that he is one with *Krishna*, and having
 realised it, he will be no longer a partaker, but merely a spectator, in
 the battle, which after all does not concern the Divinity in him, his
@@ -1022,7 +1022,7 @@ that foundation (cause). If he then, in his imagination, sinks himself
 into the abyss, he is then already there, and in this abyss is his pearl
 (the celestial jewel)." (*Grace*, ii. 43.)
 
-<span id="fn_221"></span>[279:1](ldjb16.htm#fr_221) This may be
+<span id="fn_221"></span>[279:1](ldjb16.htm#fr_221.md) This may be
 expressed in other words by saying that desire gives rise to the
 formation of a thought, and this thought is made alive by the will, and
 obtains substantiality and the right to live by being acted out. It is
@@ -1030,13 +1030,13 @@ easier to avoid creating such an *Elemental* than to kill it after it
 has been created; because such a being is a part of our own self, and
 its destruction involves suffering.
 
-<span id="fn_222"></span>[280:1](ldjb16.htm#fr_222) Here it may be
+<span id="fn_222"></span>[280:1](ldjb16.htm#fr_222.md) Here it may be
 remarked that it will hardly be sufficient to have merely a theoretical
 knowledge of the uselessness of material attractions to cure the desire
 for them. In this, as in all other cases, there can be no true
 self-knowledge except that which arises from practical experience.
 
-<span id="fn_223"></span>[282:1](ldjb16.htm#fr_223) True "repentance"
+<span id="fn_223"></span>[282:1](ldjb16.htm#fr_223.md) True "repentance"
 does not consist in fancying oneself to be sorry on account of the
 consequences to be expected from sins committed in the past, or in
 worrying about what has been done and cannot be undone now, while
@@ -1045,11 +1045,11 @@ turning away from that which is sinful and evil, and in forming the firm
 resolution to sacrifice and surrender oneself, faults and all, to the
 immutable will of God. (Compare *True Repentance*, i.)
 
-<span id="fn_224"></span>[283:1](ldjb16.htm#fr_224) No man can truly
+<span id="fn_224"></span>[283:1](ldjb16.htm#fr_224.md) No man can truly
 realise his own unworthiness so long as the light has not become active
 in him.
 
-<span id="fn_225"></span>[284:1](ldjb16.htm#fr_225) We cannot labour in
+<span id="fn_225"></span>[284:1](ldjb16.htm#fr_225.md) We cannot labour in
 the service of God without dying to our human selfhood. To "labour in
 the service of God" does not mean that, for instance, "I, parson, or
 professor, or author So-and-so, in my human personality, considered as
@@ -1062,7 +1062,7 @@ all clerical assumption and pretence, by which is assumed an authority
 apart from that of the God to whom they profess to serve, is repulsive
 to the religious instinct of man.
 
-<span id="fn_226"></span>[285:1](ldjb16.htm#fr_226) If the saints or
+<span id="fn_226"></span>[285:1](ldjb16.htm#fr_226.md) If the saints or
 "adepts" are often addressed as "children," this is not a mere invented
 figure of speech, without any adequate cause, but has <span
 id="page_286">p. 286</span> a deep signification; for no one can inherit
@@ -1073,6 +1073,6 @@ like a child that of itself knows nothing in the realm of the spirit.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Death and Eternal Life](ldjb17)
+[Next: Chapter XIV. Death and Eternal Life](ldjb17.md)
 
 </div>

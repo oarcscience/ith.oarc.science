@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap14) 
-[Next](chap16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap14.md) 
+[Next](chap16.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ only can cure them.
 ------------------------------------------------------------------------
 
 [Next: Chapter 16: Undoing of Aiguillettes (Impotence for a
-Time)](chap16)
+Time)](chap16.md)

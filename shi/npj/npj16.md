@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj15) 
-[Next](npj17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj15.md) 
+[Next](npj17.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,11 +28,11 @@ GIRL.
 
 I am Hitomaru. I live in the valley of Kamegaye. My father Kagekiyo the
 Passionate fought for the House of Hei <span
-id="fr_68"></span>[1](#fn_66), and for this was hated by the
-Genji. <span id="fr_69"></span>[2](#fn_67) I am told they have banished
+id="fr_68"></span>[1](#fn_66.md), and for this was hated by the
+Genji. <span id="fr_69"></span>[2](#fn_67.md) I am told they have banished
 him to Miyazaki in the country of Hyūga, and there in changed estate he
 passes the months and years. I must not be downcast at the toil of the
-journey; <span id="fr_70"></span>[3](#fn_68) for hardship is the lot of
+journey; <span id="fr_70"></span>[3](#fn_68.md) for hardship is the lot of
 all that travel on unfamiliar roads, and I must bear it for my father's
 sake.
 
@@ -43,11 +43,11 @@ With the tears of troubled dreaming and the dews
 That wet our grassy bed.  
 We leave Sagami; who shall point the way  
 To Tōtōmi, far off not only in name? <span
-id="fr_71"></span>[4](#fn_69)  
+id="fr_71"></span>[4](#fn_69.md)  
 Over the sea we row: <span id="page_90">p. 90</span>  
 And now the eight-fold Spider Bridge we cross  
 To Mikawa. How long, O City of the Clouds, <span
-id="fr_72"></span>[1](#fn_70)  
+id="fr_72"></span>[1](#fn_70.md)  
 Shall we, inured to travel, see you in our dreams?
 
 ATTENDANT.
@@ -104,7 +104,7 @@ Finding rest nowhere
 KAGEKIYO.
 
 For in the Three Worlds of Being  
-Nowhere is rest, <span id="fr_73"></span>[1](#fn_71) but only  
+Nowhere is rest, <span id="fr_73"></span>[1](#fn_71.md) but only  
 In the Void Eternal.  
 None is, and none can answer  
 Where to thy asking.
@@ -127,7 +127,7 @@ The exile? What exile do you mean? Tell me his name.
 
 ATTENDANT.
 
-We are [looking](errata.htm#0) for Kagekiyo the Passionate who fought
+We are [looking](errata.htm#0.md) for Kagekiyo the Passionate who fought
 for the Taira.
 
 KAGEKIYO.
@@ -374,7 +374,7 @@ And of the many who served him
 None cavilled, disputed.  
 But now  
 He that of all was envied  
-Is like Kirin <span id="fr_74"></span>[1](#fn_72) grown old,  
+Is like Kirin <span id="fr_74"></span>[1](#fn_72.md) grown old,  
 By every jade outrun.
 
 VILLAGER (*seeing the* GIRL *standing sadly apart*).
@@ -411,7 +411,7 @@ I will. So soon as your tale is finished, I will send her home.
 
 KAGEKIYO.
 
-It was in the third year of Juyei, <span id="fr_75"></span>[1](#fn_73)  
+It was in the third year of Juyei, <span id="fr_75"></span>[1](#fn_73.md)  
 At the close of the third month.  
 We of Heike were in our ships,  
 The men of Genji on shore.  
@@ -424,7 +424,7 @@ At Water Island, even at Jackdaw Pass,
 We were beaten again and again; outwitted  
 By Yoshitsune's strategy.  
 Oh that some plan might be found, some counsel given  
-For the slaying of Kurō." <span id="fr_76"></span>[2](#fn_74) So spoke
+For the slaying of Kurō." <span id="fr_76"></span>[2](#fn_74.md) So spoke
 he.  
 Then thought Kagekiyo in his heart,  
 "Though he be called 'Judge,'  
@@ -511,33 +511,33 @@ Remembrance other.
 
 ### Footnotes
 
-<span id="fn_66"></span>[89:1](npj16.htm#fr_68) The Tairas.
+<span id="fn_66"></span>[89:1](npj16.htm#fr_68.md) The Tairas.
 
-<span id="fn_67"></span>[89:2](npj16.htm#fr_69) The Minamotos, who came
+<span id="fn_67"></span>[89:2](npj16.htm#fr_69.md) The Minamotos, who came
 into power at the end of the twelfth century.
 
-<span id="fn_68"></span>[89:3](npj16.htm#fr_70) The journey to look for
+<span id="fn_68"></span>[89:3](npj16.htm#fr_70.md) The journey to look for
 her father.
 
-<span id="fn_69"></span>[89:4](npj16.htm#fr_71) Tōtōmi is written with
+<span id="fn_69"></span>[89:4](npj16.htm#fr_71.md) Tōtōmi is written with
 characters meaning "distant estuary." The whole passage is full of
 double-meanings which cannot be rendered.
 
-<span id="fn_70"></span>[90:1](npj16.htm#fr_72) The Capital.
+<span id="fn_70"></span>[90:1](npj16.htm#fr_72.md) The Capital.
 
-<span id="fn_71"></span>[91:1](npj16.htm#fr_73) Quotation from the
+<span id="fn_71"></span>[91:1](npj16.htm#fr_73.md) Quotation from the
 Parable Chapter of the *Hokkekyō*.
 
-<span id="fn_72"></span>[96:1](npj16.htm#fr_74) A Chinese Pegasus. The
+<span id="fn_72"></span>[96:1](npj16.htm#fr_74.md) A Chinese Pegasus. The
 Proverb says, "Even Kirin, when he was old, was outstripped by hacks."
 Seami quotes this proverb, *Works*, p. 9.
 
-<span id="fn_73"></span>[97:1](npj16.htm#fr_75) "Le vieux guerrier
+<span id="fn_73"></span>[97:1](npj16.htm#fr_75.md) "Le vieux guerrier
 avengle, assis devant sa cabane d'exilé, mime son dernier combat de
 gestes incertains et tremblants" (Péri).
 
-<span id="fn_74"></span>[97:2](npj16.htm#fr_76) Yoshitsune.
+<span id="fn_74"></span>[97:2](npj16.htm#fr_76.md) Yoshitsune.
 
 ------------------------------------------------------------------------
 
-[Next: Hachi no Ki](npj17)
+[Next: Hachi no Ki](npj17.md)

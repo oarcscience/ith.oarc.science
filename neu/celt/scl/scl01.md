@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](scl00)  [Next](scl02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](scl00)  [Next](scl02.md) 
 
 ------------------------------------------------------------------------
 
@@ -320,4 +320,4 @@ difficult for the other side . . . "--DP.\]
 
 ------------------------------------------------------------------------
 
-[Next: Preface](scl02)
+[Next: Preface](scl02.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](ktl19)  [Next](ktl21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](ktl19)  [Next](ktl21.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Keep a True Lent*, by Charles Fillmore, \[1953\], at Intangible Textual
 Heritage
 
@@ -1631,1021 +1631,1021 @@ life, light, and power of God."
 
 INDEX
 
-abundance, [101](ktl15.htm#page_101), [183](#page_183)
+abundance, [101](ktl15.htm#page_101), [183](#page_183.md)
 
 Adam, all included in his sin,
 
-[98](ktl15.htm#page_98); ejected from Eden, [74](ktl12.htm#page_74)
+[98](ktl15.htm#page_98); ejected from Eden, [74](ktl12.htm#page_74.md)
 
-Adam consciousness, [61](ktl10.htm#page_61), [171](#page_171)
+Adam consciousness, [61](ktl10.htm#page_61), [171](#page_171.md)
 
-Adamic race, [130](ktl19.htm#page_130)
+Adamic race, [130](ktl19.htm#page_130.md)
 
-Adam method of generation, [93](ktl14.htm#page_93)
+Adam method of generation, [93](ktl14.htm#page_93.md)
 
-affirmations, [71](ktl11.htm#page_71), [142](ktl19.htm#page_142); used
-in transforming body, [168](#page_168)
+affirmations, [71](ktl11.htm#page_71), [142](ktl19.htm#page_142.md); used
+in transforming body, [168](#page_168.md)
 
-altar, [145](ktl19.htm#page_145); as place in consciousness,
-[16](ktl04.htm#page_16); of Jacob, [83](ktl13.htm#page_83)
+altar, [145](ktl19.htm#page_145.md); as place in consciousness,
+[16](ktl04.htm#page_16); of Jacob, [83](ktl13.htm#page_83.md)
 
-Andrew, [117](ktl17.htm#page_117)
+Andrew, [117](ktl17.htm#page_117.md)
 
-angels, [155](#page_155)
+angels, [155](#page_155.md)
 
-animal nature, of man, [60](ktl10.htm#page_60)
+animal nature, of man, [60](ktl10.htm#page_60.md)
 
-Aorist, first, [109](ktl16.htm#page_109)
+Aorist, first, [109](ktl16.htm#page_109.md)
 
-Apollo, [38](ktl08.htm#page_38)
+Apollo, [38](ktl08.htm#page_38.md)
 
-apostles, [113](ktl17.htm#page_113)
+apostles, [113](ktl17.htm#page_113.md)
 
-Arimathea, represents thoughts of lofty character, [195](#page_195)
+Arimathea, represents thoughts of lofty character, [195](#page_195.md)
 
-Ascension, the, [162](#page_162)
+Ascension, the, [162](#page_162.md)
 
-Ash Wednesday, [138](ktl19.htm#page_138), [141](ktl19.htm#page_141)
+Ash Wednesday, [138](ktl19.htm#page_138), [141](ktl19.htm#page_141.md)
 
-atoms, [38](ktl08.htm#page_38), [69](ktl11.htm#page_69),
-[132](ktl19.htm#page_132)
+atoms, [38](ktl08.htm#page_38), [69](ktl11.htm#page_69.md),
+[132](ktl19.htm#page_132.md)
 
-atonement, [185](#page_185)
+atonement, [185](#page_185.md)
 
-at-one-ment, [53](ktl09.htm#page_53)
+at-one-ment, [53](ktl09.htm#page_53.md)
 
-authority, of Jesus, [29](ktl06.htm#page_29)
+authority, of Jesus, [29](ktl06.htm#page_29.md)
 
-Aven, Hebrew word, [115](ktl17.htm#page_115)
+Aven, Hebrew word, [115](ktl17.htm#page_115.md)
 
-baptism, source of power, [73](ktl12.htm#page_73)
+baptism, source of power, [73](ktl12.htm#page_73.md)
 
-beholding state of mind, [44](ktl09.htm#page_44)
+beholding state of mind, [44](ktl09.htm#page_44.md)
 
-being, equilibrium of, [43](ktl08.htm#page_43); inherencies of,
-[58](ktl10.htm#page_58); in miniature, [54](ktl09.htm#page_54); powers
-of, [55](ktl10.htm#page_55); pure, [170](#page_170); two-in-one of,
-[58](ktl10.htm#page_58); where there is evidence of life,
-[132](ktl19.htm#page_132)
+being, equilibrium of, [43](ktl08.htm#page_43.md); inherencies of,
+[58](ktl10.htm#page_58); in miniature, [54](ktl09.htm#page_54.md); powers
+of, [55](ktl10.htm#page_55); pure, [170](#page_170.md); two-in-one of,
+[58](ktl10.htm#page_58.md); where there is evidence of life,
+[132](ktl19.htm#page_132.md)
 
-Bible, [97](ktl15.htm#page_97)
+Bible, [97](ktl15.htm#page_97.md)
 
-blessing, importance of, [80](ktl13.htm#page_80); of body temple,
-[168](#page_168)
+blessing, importance of, [80](ktl13.htm#page_80.md); of body temple,
+[168](#page_168.md)
 
-blood of Jesus, [166](#page_166); salvation through,
-[134](ktl19.htm#page_134); saving power of, [28](ktl06.htm#page_28)
+blood of Jesus, [166](#page_166.md); salvation through,
+[134](ktl19.htm#page_134); saving power of, [28](ktl06.htm#page_28.md)
 
-body, as spiritual, [22](ktl05.htm#page_22); as temple of God,
-[10](ktl03.htm#page_10), [22](ktl05.htm#page_22),
-[146](ktl19.htm#page_146), [167](#page_167); attainment of perfection
-in, [168](#page_168); cells in mathematical order, [152](#page_152);
-fruit of the mind, [125](ktl18.htm#page_125); healing of,
-[21](ktl05.htm#page_21); layers of consciousness in,
-[52](ktl09.htm#page_52); man's cognizance of, [59](ktl10.htm#page_59);
-of man, in relation to Divine Mind, [19](ktl04.htm#page_19); outer
-expression of Garden of Eden, [147](ktl19.htm#page_147); perfect in
-mind, [20](ktl05.htm#page_20), [69](ktl11.htm#page_69); product of the
-mind, [10](ktl03.htm#page_10), [155](#page_155); recognition of
-importance, [82](ktl13.htm#page_82); reveals radiant body,
-[186](#page_186); renewal of, through thought, [98](ktl15.htm#page_98);
-requires spiritual quickening, [125](ktl18.htm#page_125); robbers of,
-[123](ktl18.htm#page_123); symbols of, in story of Jacob and Esau,
-[81](ktl13.htm#page_81); thoughts on conditions of,
-[118](ktl17.htm#page_118); translated in chariots of fire,
-[69](ktl11.htm#page_69)
+body, as spiritual, [22](ktl05.htm#page_22.md); as temple of God,
+[10](ktl03.htm#page_10), [22](ktl05.htm#page_22.md),
+[146](ktl19.htm#page_146), [167](#page_167.md); attainment of perfection
+in, [168](#page_168); cells in mathematical order, [152](#page_152.md);
+fruit of the mind, [125](ktl18.htm#page_125.md); healing of,
+[21](ktl05.htm#page_21.md); layers of consciousness in,
+[52](ktl09.htm#page_52); man's cognizance of, [59](ktl10.htm#page_59.md);
+of man, in relation to Divine Mind, [19](ktl04.htm#page_19.md); outer
+expression of Garden of Eden, [147](ktl19.htm#page_147.md); perfect in
+mind, [20](ktl05.htm#page_20), [69](ktl11.htm#page_69.md); product of the
+mind, [10](ktl03.htm#page_10), [155](#page_155.md); recognition of
+importance, [82](ktl13.htm#page_82.md); reveals radiant body,
+[186](#page_186); renewal of, through thought, [98](ktl15.htm#page_98.md);
+requires spiritual quickening, [125](ktl18.htm#page_125.md); robbers of,
+[123](ktl18.htm#page_123.md); symbols of, in story of Jacob and Esau,
+[81](ktl13.htm#page_81.md); thoughts on conditions of,
+[118](ktl17.htm#page_118.md); translated in chariots of fire,
+[69](ktl11.htm#page_69.md)
 
-body of Christ, [134](ktl19.htm#page_134)
+body of Christ, [134](ktl19.htm#page_134.md)
 
-bread, [192](#page_192)
+bread, [192](#page_192.md)
 
-Calvary, "place of a skull," [195](#page_195)
+Calvary, "place of a skull," [195](#page_195.md)
 
-Cana, "place of reeds," [75](ktl12.htm#page_75)
+Cana, "place of reeds," [75](ktl12.htm#page_75.md)
 
-cardiac plexus, as love center, [34](ktl07.htm#page_34)
+cardiac plexus, as love center, [34](ktl07.htm#page_34.md)
 
-carnal mind, [195](#page_195)
+carnal mind, [195](#page_195.md)
 
-cause and effect, [46](ktl09.htm#page_46)
+cause and effect, [46](ktl09.htm#page_46.md)
 
-cells, of body, [39](ktl08.htm#page_39)
+cells, of body, [39](ktl08.htm#page_39.md)
 
-change, [39](ktl08.htm#page_39)
+change, [39](ktl08.htm#page_39.md)
 
-character, delusions concerning, [67](ktl11.htm#page_67); spiritual,
-[145](ktl19.htm#page_145)
+character, delusions concerning, [67](ktl11.htm#page_67.md); spiritual,
+[145](ktl19.htm#page_145.md)
 
-children, relation to the kingdom, [107](ktl16.htm#page_107)
+children, relation to the kingdom, [107](ktl16.htm#page_107.md)
 
-Christ, as atonement, [185](#page_185); as God's divine idea of man,
-[10](ktl03.htm#page_10), [15](ktl04.htm#page_15),
-[53](ktl09.htm#page_53), [63](ktl10.htm#page_63); as living principle,
-[10](ktl03.htm#page_10), [54](ktl09.htm#page_54); as perfect body,
-[12](ktl03.htm#page_12), [21](ktl05.htm#page_21),
-[26](ktl06.htm#page_26); as point of contact with race life,
-[133](ktl19.htm#page_133); as the one great Teacher,
-[140](ktl19.htm#page_140); as the one perfect pattern, [180](#page_180);
-as universal man, [110](ktl16.htm#page_110); atoms of,
+Christ, as atonement, [185](#page_185.md); as God's divine idea of man,
+[10](ktl03.htm#page_10), [15](ktl04.htm#page_15.md),
+[53](ktl09.htm#page_53), [63](ktl10.htm#page_63.md); as living principle,
+[10](ktl03.htm#page_10), [54](ktl09.htm#page_54.md); as perfect body,
+[12](ktl03.htm#page_12), [21](ktl05.htm#page_21.md),
+[26](ktl06.htm#page_26.md); as point of contact with race life,
+[133](ktl19.htm#page_133.md); as the one great Teacher,
+[140](ktl19.htm#page_140); as the one perfect pattern, [180](#page_180.md);
+as universal man, [110](ktl16.htm#page_110.md); atoms of,
 
 <span id="page_ii">p. ii</span>
 
-[133](ktl19.htm#page_133); began series of physical incarnations,
-[131](ktl19.htm#page_131); body of, [134](ktl19.htm#page_134); declares
-power of binding and loosing, [117](ktl17.htm#page_117); individuality
-of, [16](ktl04.htm#page_16); radiance, [151](#page_151)
+[133](ktl19.htm#page_133.md); began series of physical incarnations,
+[131](ktl19.htm#page_131); body of, [134](ktl19.htm#page_134.md); declares
+power of binding and loosing, [117](ktl17.htm#page_117.md); individuality
+of, [16](ktl04.htm#page_16); radiance, [151](#page_151.md)
 
-Christian, mental attitude of, [76](ktl12.htm#page_76)
+Christian, mental attitude of, [76](ktl12.htm#page_76.md)
 
 Christianity, progressive nature
 
-of, [37](ktl08.htm#page_37)
+of, [37](ktl08.htm#page_37.md)
 
-Christians (early), experiences in healing, [174](#page_174)
+Christians (early), experiences in healing, [174](#page_174.md)
 
-Christ Mind, [71](ktl11.htm#page_71), [77](ktl12.htm#page_77)
+Christ Mind, [71](ktl11.htm#page_71), [77](ktl12.htm#page_77.md)
 
-Christ Spirit, [28](ktl06.htm#page_28)
+Christ Spirit, [28](ktl06.htm#page_28.md)
 
-church of Christ, [115](ktl17.htm#page_115), [160](#page_160)
+church of Christ, [115](ktl17.htm#page_115), [160](#page_160.md)
 
-Colorado River, [40](ktl08.htm#page_40)
+Colorado River, [40](ktl08.htm#page_40.md)
 
-Comforter, [16](ktl04.htm#page_16), [17](ktl04.htm#page_17),
-[28](ktl06.htm#page_28)
+Comforter, [16](ktl04.htm#page_16), [17](ktl04.htm#page_17.md),
+[28](ktl06.htm#page_28.md)
 
-concentration, necessity for, [120](ktl17.htm#page_120)
+concentration, necessity for, [120](ktl17.htm#page_120.md)
 
-conscience, [43](ktl08.htm#page_43); how to heed,
-[50](ktl09.htm#page_50)
+conscience, [43](ktl08.htm#page_43.md); how to heed,
+[50](ktl09.htm#page_50.md)
 
-consciousness, [11](ktl03.htm#page_11), [12](ktl03.htm#page_12),
-[15](ktl04.htm#page_15); affirmations for realization of,
-[77](ktl12.htm#page_77), [78](ktl13.htm#page_78); altar the center of,
-[145](ktl19.htm#page_145); as result of seed ideas, [165](#page_165);
-attainment during Lent, [140](ktl19.htm#page_140); carnal,
-[58](ktl10.htm#page_58); control over, in mind, [77](ktl12.htm#page_77);
-danger when lost, [65](ktl11.htm#page_65); foundation of,
-[115](ktl17.htm#page_115); God's power incorporated in,
-[124](ktl18.htm#page_124); layers of, in body, [52](ktl09.htm#page_52);
-makes heaven and hell, [116](ktl17.htm#page_116); of spiritual origin,
-[67](ktl11.htm#page_67); primitive relation to cause,
-[68](ktl11.htm#page_68); resting in Spirit, [70](ktl11.htm#page_70);
-satanic, [107](ktl16.htm#page_107); through righteous thinking,
-[141](ktl19.htm#page_141); two planes of, [176](#page_176)
+consciousness, [11](ktl03.htm#page_11), [12](ktl03.htm#page_12.md),
+[15](ktl04.htm#page_15.md); affirmations for realization of,
+[77](ktl12.htm#page_77), [78](ktl13.htm#page_78.md); altar the center of,
+[145](ktl19.htm#page_145); as result of seed ideas, [165](#page_165.md);
+attainment during Lent, [140](ktl19.htm#page_140.md); carnal,
+[58](ktl10.htm#page_58); control over, in mind, [77](ktl12.htm#page_77.md);
+danger when lost, [65](ktl11.htm#page_65.md); foundation of,
+[115](ktl17.htm#page_115.md); God's power incorporated in,
+[124](ktl18.htm#page_124); layers of, in body, [52](ktl09.htm#page_52.md);
+makes heaven and hell, [116](ktl17.htm#page_116.md); of spiritual origin,
+[67](ktl11.htm#page_67.md); primitive relation to cause,
+[68](ktl11.htm#page_68); resting in Spirit, [70](ktl11.htm#page_70.md);
+satanic, [107](ktl16.htm#page_107.md); through righteous thinking,
+[141](ktl19.htm#page_141); two planes of, [176](#page_176.md)
 
-conservation, [162](#page_162)
+conservation, [162](#page_162.md)
 
-courage, [36](ktl07.htm#page_36)
+courage, [36](ktl07.htm#page_36.md)
 
-covenant, of Jacob, [84](ktl13.htm#page_84)
+covenant, of Jacob, [84](ktl13.htm#page_84.md)
 
-creation, of God and man, difference between, [176](#page_176); man most
-important factor in, [110](ktl16.htm#page_110); steps in,
-[19](ktl04.htm#page_19), [61](ktl10.htm#page_61)
+creation, of God and man, difference between, [176](#page_176.md); man most
+important factor in, [110](ktl16.htm#page_110.md); steps in,
+[19](ktl04.htm#page_19), [61](ktl10.htm#page_61.md)
 
-creative center, faith-thinking faculty, [114](ktl17.htm#page_114)
+creative center, faith-thinking faculty, [114](ktl17.htm#page_114.md)
 
-creative source, right conception of, [25](ktl06.htm#page_25)
+creative source, right conception of, [25](ktl06.htm#page_25.md)
 
-crucifixion, [194](#page_194)
+crucifixion, [194](#page_194.md)
 
-current(s), of universal life, [73](ktl12.htm#page_73); that animate
-body, [74](ktl12.htm#page_74)
+current(s), of universal life, [73](ktl12.htm#page_73.md); that animate
+body, [74](ktl12.htm#page_74.md)
 
-David, [31](ktl07.htm#page_31)
+David, [31](ktl07.htm#page_31.md)
 
-death, brought on by man, [94](ktl15.htm#page_94); cause of,
-[19](ktl04.htm#page_19); error of belief in, [96](ktl15.htm#page_96);
-how to save our body from, [21](ktl05.htm#page_21); when it came into
-the world, [131](ktl19.htm#page_131)
+death, brought on by man, [94](ktl15.htm#page_94.md); cause of,
+[19](ktl04.htm#page_19); error of belief in, [96](ktl15.htm#page_96.md);
+how to save our body from, [21](ktl05.htm#page_21.md); when it came into
+the world, [131](ktl19.htm#page_131.md)
 
-degeneration, [131](ktl19.htm#page_131)
+degeneration, [131](ktl19.htm#page_131.md)
 
-Deity, foundation of, [61](ktl10.htm#page_61)
+Deity, foundation of, [61](ktl10.htm#page_61.md)
 
-demonstration, example of, [146](ktl19.htm#page_146); hindrances to,
-[18](ktl04.htm#page_18); how to make, [18](ktl04.htm#page_18)
+demonstration, example of, [146](ktl19.htm#page_146.md); hindrances to,
+[18](ktl04.htm#page_18); how to make, [18](ktl04.htm#page_18.md)
 
-denial, [63](ktl10.htm#page_63), [141](ktl19.htm#page_141); as
-repentance, [141](ktl19.htm#page_141); dissolving power of,
-[63](ktl10.htm#page_63); how to make, [64](ktl11.htm#page_64); of self,
-[53](ktl09.htm#page_53), [195](#page_195)
+denial, [63](ktl10.htm#page_63), [141](ktl19.htm#page_141.md); as
+repentance, [141](ktl19.htm#page_141.md); dissolving power of,
+[63](ktl10.htm#page_63); how to make, [64](ktl11.htm#page_64.md); of self,
+[53](ktl09.htm#page_53), [195](#page_195.md)
 
-Descartes, [121](ktl17.htm#page_121)
+Descartes, [121](ktl17.htm#page_121.md)
 
-desire, as form of prayer, [146](ktl19.htm#page_146)
+desire, as form of prayer, [146](ktl19.htm#page_146.md)
 
-Devil, [61](ktl10.htm#page_61)
+Devil, [61](ktl10.htm#page_61.md)
 
-disease, [22](ktl05.htm#page_22)
+disease, [22](ktl05.htm#page_22.md)
 
-Divine Mind, how to express in body, [21](ktl05.htm#page_21)
+Divine Mind, how to express in body, [21](ktl05.htm#page_21.md)
 
-dreams, [155](#page_155)
+dreams, [155](#page_155.md)
 
-earth, universal matrix, [184](#page_184)
+earth, universal matrix, [184](#page_184.md)
 
-Easter, [139](ktl19.htm#page_139), [197](#page_197)
+Easter, [139](ktl19.htm#page_139), [197](#page_197.md)
 
-Eden, Garden of, [130](ktl19.htm#page_130), [147](ktl19.htm#page_147)
+Eden, Garden of, [130](ktl19.htm#page_130), [147](ktl19.htm#page_147.md)
 
-Edenic state, [115](ktl17.htm#page_115)
+Edenic state, [115](ktl17.htm#page_115.md)
 
-Edison, on atoms, [69](ktl11.htm#page_69)
+Edison, on atoms, [69](ktl11.htm#page_69.md)
 
-ego, [55](ktl10.htm#page_55)
+ego, [55](ktl10.htm#page_55.md)
 
-Egypt, [56](ktl10.htm#page_56)
+Egypt, [56](ktl10.htm#page_56.md)
 
-electrons, spiritual, [166](#page_166)
+electrons, spiritual, [166](#page_166.md)
 
 electricity, metaphor for mind action,
-[47](ktl09.htm#page_47)-[48](ktl09.htm#page_48); modern scientific view,
-[132](ktl19.htm#page_132)
+[47](ktl09.htm#page_47)-[48](ktl09.htm#page_48.md); modern scientific view,
+[132](ktl19.htm#page_132.md)
 
-Elijah, [3](ktl00.htm#page_3), [69](ktl11.htm#page_69); example of
-penitence, [138](ktl19.htm#page_138); penetrated atoms by power of
-thought, [179](#page_179)
+Elijah, [3](ktl00.htm#page_3), [69](ktl11.htm#page_69.md); example of
+penitence, [138](ktl19.htm#page_138.md); penetrated atoms by power of
+thought, [179](#page_179.md)
 
-Elohim God, [132](ktl19.htm#page_132), [177](#page_177)
+Elohim God, [132](ktl19.htm#page_132), [177](#page_177.md)
 
-end of the age (world), [26](ktl06.htm#page_26),
-[40](ktl08.htm#page_40)-[42](ktl08.htm#page_42)
+end of the age (world), [26](ktl06.htm#page_26.md),
+[40](ktl08.htm#page_40)-[42](ktl08.htm#page_42.md)
 
-energy, as life source, [125](ktl18.htm#page_125);
+energy, as life source, [125](ktl18.htm#page_125.md);
 
 <span id="page_iii">p. iii</span>
 
-omnipresent in atoms, [132](ktl19.htm#page_132); radiated by minds,
-[80](ktl13.htm#page_80); re-
+omnipresent in atoms, [132](ktl19.htm#page_132.md); radiated by minds,
+[80](ktl13.htm#page_80.md); re-
 
-lease of, [71](ktl11.htm#page_71)
+lease of, [71](ktl11.htm#page_71.md)
 
-error, abstinence from, [141](ktl19.htm#page_141);
+error, abstinence from, [141](ktl19.htm#page_141.md);
 
-deeply rooted in subconscious, [193](#page_193); denial of,
-[141](ktl19.htm#page_141); depth of our bondage to,
-[127](ktl18.htm#page_127); destruction of, [191](#page_191); has no
-power in itself, [141](ktl19.htm#page_141); joy in overcoming,
-[189](#page_189); necessity for denial of, [64](ktl11.htm#page_64);
-three steps in overcoming, [195](#page_195)
+deeply rooted in subconscious, [193](#page_193.md); denial of,
+[141](ktl19.htm#page_141.md); depth of our bondage to,
+[127](ktl18.htm#page_127); destruction of, [191](#page_191.md); has no
+power in itself, [141](ktl19.htm#page_141.md); joy in overcoming,
+[189](#page_189); necessity for denial of, [64](ktl11.htm#page_64.md);
+three steps in overcoming, [195](#page_195.md)
 
-Esau, [78](ktl13.htm#page_78), [79](ktl13.htm#page_79)
+Esau, [78](ktl13.htm#page_78), [79](ktl13.htm#page_79.md)
 
-ethers, spiritual, [11](ktl03.htm#page_11)
+ethers, spiritual, [11](ktl03.htm#page_11.md)
 
-evil, denial of, [152](#page_152); destruction of, [191](#page_191)
+evil, denial of, [152](#page_152); destruction of, [191](#page_191.md)
 
-evolution, race, [23](ktl05.htm#page_23), [130](ktl19.htm#page_130),
-[134](ktl19.htm#page_134); spiritual, [165](#page_165)
+evolution, race, [23](ktl05.htm#page_23), [130](ktl19.htm#page_130.md),
+[134](ktl19.htm#page_134); spiritual, [165](#page_165.md)
 
-experience, "school of fools," [45](ktl09.htm#page_45)
+experience, "school of fools," [45](ktl09.htm#page_45.md)
 
-eye, limited in sight, [164](#page_164); mental, [148](#page_148)
+eye, limited in sight, [164](#page_164); mental, [148](#page_148.md)
 
-Ezekiel, [91](ktl14.htm#page_91)
+Ezekiel, [91](ktl14.htm#page_91.md)
 
-faculties, of mind, [147](ktl19.htm#page_147); swift development of,
-[157](#page_157)
+faculties, of mind, [147](ktl19.htm#page_147.md); swift development of,
+[157](#page_157.md)
 
-faith, [110](ktl16.htm#page_110), [148](#page_148); as result of many
-affirmations, [143](ktl19.htm#page_143); center in man's brain,
-[148](#page_148); how to develop, [72](ktl12.htm#page_72)
+faith, [110](ktl16.htm#page_110), [148](#page_148.md); as result of many
+affirmations, [143](ktl19.htm#page_143.md); center in man's brain,
+[148](#page_148); how to develop, [72](ktl12.htm#page_72.md)
 
-faith-thinking, [110](ktl16.htm#page_110); food of,
-[119](ktl17.htm#page_119); most important power of man,
-[113](ktl17.htm#page_113); nature of, [119](ktl17.htm#page_119) fasting,
-[4](ktl01.htm#page_4), [5](ktl01.htm#page_5), [140](ktl19.htm#page_140)
+faith-thinking, [110](ktl16.htm#page_110.md); food of,
+[119](ktl17.htm#page_119.md); most important power of man,
+[113](ktl17.htm#page_113); nature of, [119](ktl17.htm#page_119.md) fasting,
+[4](ktl01.htm#page_4), [5](ktl01.htm#page_5), [140](ktl19.htm#page_140.md)
 
-Fenton, Ferrar, translation of Lord's Prayer, [108](ktl16.htm#page_108)
+Fenton, Ferrar, translation of Lord's Prayer, [108](ktl16.htm#page_108.md)
 
-financier, Jacob, [84](ktl13.htm#page_84)
+financier, Jacob, [84](ktl13.htm#page_84.md)
 
-fire of God, [191](#page_191)
+fire of God, [191](#page_191.md)
 
-flesh, saving from corruption, [151](#page_151); symbols of, in story of
-Jacob and Esau, [81](ktl13.htm#page_81)
+flesh, saving from corruption, [151](#page_151.md); symbols of, in story of
+Jacob and Esau, [81](ktl13.htm#page_81.md)
 
-fountain, of pure life, [123](ktl18.htm#page_123)
+fountain, of pure life, [123](ktl18.htm#page_123.md)
 
-forty, symbolic number, [3](ktl00.htm#page_3)
+forty, symbolic number, [3](ktl00.htm#page_3.md)
 
-fourth dimension, how to enter, [170](#page_170)
+fourth dimension, how to enter, [170](#page_170.md)
 
-future, [45](ktl09.htm#page_45), [46](ktl09.htm#page_46)
+future, [45](ktl09.htm#page_45), [46](ktl09.htm#page_46.md)
 
-Galilee, "rolling energy," [75](ktl12.htm#page_75)
+Galilee, "rolling energy," [75](ktl12.htm#page_75.md)
 
-Gethsemane, [134](ktl19.htm#page_134), [193](#page_193)
+Gethsemane, [134](ktl19.htm#page_134), [193](#page_193.md)
 
-gift, [104](ktl16.htm#page_104)
+gift, [104](ktl16.htm#page_104.md)
 
-God, as absolute good, [9](ktl02.htm#page_9), [25](ktl06.htm#page_25),
-[68](ktl11.htm#page_68); as creative principle, [169](#page_169); as
-Creator and ruler of universe, [9](ktl02.htm#page_9); as consuming fire,
-[191](#page_191); as intelligence, [61](ktl10.htm#page_61); as
-life-giving atom, [132](ktl19.htm#page_132); as mind, first in Trinity,
-[14](ktl03.htm#page_14); as partner in man's prosperity,
-[105](ktl16.htm#page_105); as potential, unformed will,
-[157](#page_157); as principle, [9](ktl02.htm#page_9),
-[14](ktl03.htm#page_14), [54](ktl09.htm#page_54); as substance,
-[14](ktl03.htm#page_14), [61](ktl10.htm#page_61); as supreme knowing,
-[156](#page_156); created ideas of body, [167](#page_167); does not
-rest, [171](#page_171); falsely conceived of as a person,
-[25](ktl06.htm#page_25), [28](ktl06.htm#page_28); false impressions of
-character of, [24](ktl05.htm#page_24); grace of, [168](#page_168); how
-to worship, [123](ktl18.htm#page_123), [143](ktl19.htm#page_143);
-idealized two planes of consciousness, [176](#page_176); loves cheerful
-giver, [103](ktl16.htm#page_103); man's oneness with,
-[53](ktl09.htm#page_53); metaphysical understanding of,
-[29](ktl06.htm#page_29); never performs miracles, [179](#page_179); not
-an angry Being, [25](ktl06.htm#page_25); of the living,
-[69](ktl11.htm#page_69); omnipresence of, [11](ktl03.htm#page_11);
-omniscience and omnipotence of, [9](ktl02.htm#page_9),
-[14](ktl03.htm#page_14); real body of, [22](ktl05.htm#page_22); soul of,
-[126](ktl18.htm#page_126); transcendent, [144](ktl19.htm#page_144); why
-resorts to limitations of law, [131](ktl19.htm#page_131)
+God, as absolute good, [9](ktl02.htm#page_9), [25](ktl06.htm#page_25.md),
+[68](ktl11.htm#page_68); as creative principle, [169](#page_169.md); as
+Creator and ruler of universe, [9](ktl02.htm#page_9.md); as consuming fire,
+[191](#page_191); as intelligence, [61](ktl10.htm#page_61.md); as
+life-giving atom, [132](ktl19.htm#page_132.md); as mind, first in Trinity,
+[14](ktl03.htm#page_14.md); as partner in man's prosperity,
+[105](ktl16.htm#page_105.md); as potential, unformed will,
+[157](#page_157); as principle, [9](ktl02.htm#page_9.md),
+[14](ktl03.htm#page_14), [54](ktl09.htm#page_54.md); as substance,
+[14](ktl03.htm#page_14), [61](ktl10.htm#page_61.md); as supreme knowing,
+[156](#page_156); created ideas of body, [167](#page_167.md); does not
+rest, [171](#page_171.md); falsely conceived of as a person,
+[25](ktl06.htm#page_25), [28](ktl06.htm#page_28.md); false impressions of
+character of, [24](ktl05.htm#page_24); grace of, [168](#page_168.md); how
+to worship, [123](ktl18.htm#page_123), [143](ktl19.htm#page_143.md);
+idealized two planes of consciousness, [176](#page_176.md); loves cheerful
+giver, [103](ktl16.htm#page_103.md); man's oneness with,
+[53](ktl09.htm#page_53.md); metaphysical understanding of,
+[29](ktl06.htm#page_29); never performs miracles, [179](#page_179.md); not
+an angry Being, [25](ktl06.htm#page_25.md); of the living,
+[69](ktl11.htm#page_69); omnipresence of, [11](ktl03.htm#page_11.md);
+omniscience and omnipotence of, [9](ktl02.htm#page_9.md),
+[14](ktl03.htm#page_14); real body of, [22](ktl05.htm#page_22.md); soul of,
+[126](ktl18.htm#page_126); transcendent, [144](ktl19.htm#page_144.md); why
+resorts to limitations of law, [131](ktl19.htm#page_131.md)
 
-Godhead, [112](ktl17.htm#page_112)
+Godhead, [112](ktl17.htm#page_112.md)
 
-God's idea of man, [15](ktl04.htm#page_15)
+God's idea of man, [15](ktl04.htm#page_15.md)
 
-God-image, [49](ktl09.htm#page_49)
+God-image, [49](ktl09.htm#page_49.md)
 
-God-men, [130](ktl19.htm#page_130)
+God-men, [130](ktl19.htm#page_130.md)
 
-God-Mind, [12](ktl03.htm#page_12), [17](ktl04.htm#page_17),
-[25](ktl06.htm#page_25)
+God-Mind, [12](ktl03.htm#page_12), [17](ktl04.htm#page_17.md),
+[25](ktl06.htm#page_25.md)
 
-Good Friday, [139](ktl19.htm#page_139)
+Good Friday, [139](ktl19.htm#page_139.md)
 
-goodness, divine, [43](ktl08.htm#page_43)
+goodness, divine, [43](ktl08.htm#page_43.md)
 
-grace of God, [168](#page_168)
+grace of God, [168](#page_168.md)
 
-Grand Canyon, [40](ktl08.htm#page_40)
+Grand Canyon, [40](ktl08.htm#page_40.md)
 
 <span id="page_iv">p. iv</span>
 
-Grand Man, [110](ktl16.htm#page_110)
+Grand Man, [110](ktl16.htm#page_110.md)
 
-halo, [148](#page_148)
+halo, [148](#page_148.md)
 
-harmony, [111](ktl17.htm#page_111), [190](#page_190)
+harmony, [111](ktl17.htm#page_111), [190](#page_190.md)
 
-healing, [173](#page_173); power of, [117](ktl17.htm#page_117); power of
-nature, [22](ktl05.htm#page_22); secret of, [21](ktl05.htm#page_21);
-steps in, [173](#page_173); through right thinking,
-[22](ktl05.htm#page_22)
+healing, [173](#page_173); power of, [117](ktl17.htm#page_117.md); power of
+nature, [22](ktl05.htm#page_22); secret of, [21](ktl05.htm#page_21.md);
+steps in, [173](#page_173.md); through right thinking,
+[22](ktl05.htm#page_22.md)
 
-health, [173](#page_173)
+health, [173](#page_173.md)
 
-heart, [91](ktl14.htm#page_91), [113](ktl17.htm#page_113)
+heart, [91](ktl14.htm#page_91), [113](ktl17.htm#page_113.md)
 
-heaven, as creative Mind, [171](#page_171); definite location of,
-[176](#page_176); definition of, [177](#page_177); entering into,
-[157](#page_157); here on earth, [145](ktl19.htm#page_145)
+heaven, as creative Mind, [171](#page_171.md); definite location of,
+[176](#page_176); definition of, [177](#page_177.md); entering into,
+[157](#page_157); here on earth, [145](ktl19.htm#page_145.md)
 
-Herod, represents limited thoughts, [188](#page_188); symbol of
-domineering will, [50](ktl09.htm#page_50)
+Herod, represents limited thoughts, [188](#page_188.md); symbol of
+domineering will, [50](ktl09.htm#page_50.md)
 
-Holy City, [147](ktl19.htm#page_147), [176](#page_176), [188](#page_188)
+Holy City, [147](ktl19.htm#page_147), [176](#page_176), [188](#page_188.md)
 
-Holy Communion, [192](#page_192)
+Holy Communion, [192](#page_192.md)
 
-Holy Spirit, as "breath" of God, [17](ktl04.htm#page_17); as fire of
-God, [191](#page_191); as teacher, [16](ktl04.htm#page_16); as third in
-Trinity, [16](ktl04.htm#page_16); as Word of God in action,
-[144](ktl19.htm#page_144); cleansing power of, [68](ktl11.htm#page_68);
-function of, [16](ktl04.htm#page_16); here now, [68](ktl11.htm#page_68);
-inspiration of, [140](ktl19.htm#page_140); reveals lack in making
-demonstration, [18](ktl04.htm#page_18)
+Holy Spirit, as "breath" of God, [17](ktl04.htm#page_17.md); as fire of
+God, [191](#page_191); as teacher, [16](ktl04.htm#page_16.md); as third in
+Trinity, [16](ktl04.htm#page_16.md); as Word of God in action,
+[144](ktl19.htm#page_144); cleansing power of, [68](ktl11.htm#page_68.md);
+function of, [16](ktl04.htm#page_16); here now, [68](ktl11.htm#page_68.md);
+inspiration of, [140](ktl19.htm#page_140.md); reveals lack in making
+demonstration, [18](ktl04.htm#page_18.md)
 
-Holy Trinity, [14](ktl03.htm#page_14)
+Holy Trinity, [14](ktl03.htm#page_14.md)
 
-Holy Week, [138](ktl19.htm#page_138)
+Holy Week, [138](ktl19.htm#page_138.md)
 
-humanity, garden of God, [165](#page_165)
+humanity, garden of God, [165](#page_165.md)
 
-I, as potentiality and all-comprehensive, [58](ktl10.htm#page_58); as
-summation of powers of Being, [55](ktl10.htm#page_55); mystery of,
-[56](ktl10.htm#page_56)
+I, as potentiality and all-comprehensive, [58](ktl10.htm#page_58.md); as
+summation of powers of Being, [55](ktl10.htm#page_55.md); mystery of,
+[56](ktl10.htm#page_56.md)
 
-I AM, [12](ktl03.htm#page_12), [15](ktl04.htm#page_15),
-[20](ktl05.htm#page_20), [121](ktl17.htm#page_121),
-[124](ktl18.htm#page_124), [144](ktl19.htm#page_144); as gate,
-[144](ktl19.htm#page_144); as link with Father,
-[144](ktl19.htm#page_144); body obedient to, [21](ktl05.htm#page_21);
-forgives error, [161](#page_161); symbolized by Jesus, [189](#page_189);
-symbolized in Isaac, [82](ktl13.htm#page_82); without limit in capacity,
-[56](ktl10.htm#page_56)
+I AM, [12](ktl03.htm#page_12), [15](ktl04.htm#page_15.md),
+[20](ktl05.htm#page_20), [121](ktl17.htm#page_121.md),
+[124](ktl18.htm#page_124), [144](ktl19.htm#page_144.md); as gate,
+[144](ktl19.htm#page_144.md); as link with Father,
+[144](ktl19.htm#page_144); body obedient to, [21](ktl05.htm#page_21.md);
+forgives error, [161](#page_161); symbolized by Jesus, [189](#page_189.md);
+symbolized in Isaac, [82](ktl13.htm#page_82.md); without limit in capacity,
+[56](ktl10.htm#page_56.md)
 
-ideal(s), [172](#page_172); as food of faith-thinking faculty,
-[119](ktl17.htm#page_119); as
+ideal(s), [172](#page_172.md); as food of faith-thinking faculty,
+[119](ktl17.htm#page_119.md); as
 
-source of substance, [184](#page_184); catching, [172](#page_172);
-character of, [47](ktl09.htm#page_47); development of, [165](#page_165);
-of God, [53](ktl09.htm#page_53); of health, [48](ktl09.htm#page_48);
-power of, [80](ktl13.htm#page_80); realm of, [49](ktl09.htm#page_49);
+source of substance, [184](#page_184); catching, [172](#page_172.md);
+character of, [47](ktl09.htm#page_47); development of, [165](#page_165.md);
+of God, [53](ktl09.htm#page_53); of health, [48](ktl09.htm#page_48.md);
+power of, [80](ktl13.htm#page_80); realm of, [49](ktl09.htm#page_49.md);
 
-symbolized by fish, [172](#page_172)
+symbolized by fish, [172](#page_172.md)
 
-identity, formed by Christ's attributes, [110](ktl16.htm#page_110)
+identity, formed by Christ's attributes, [110](ktl16.htm#page_110.md)
 
-ignorance, keeps man from his own, [55](ktl10.htm#page_55)
+ignorance, keeps man from his own, [55](ktl10.htm#page_55.md)
 
-illusion, world of, [89](ktl14.htm#page_89)
+illusion, world of, [89](ktl14.htm#page_89.md)
 
-imagination, [154](#page_154)
+imagination, [154](#page_154.md)
 
-immortality, appearance of, [68](ktl11.htm#page_68)
+immortality, appearance of, [68](ktl11.htm#page_68.md)
 
-imperfection, of man, [59](ktl10.htm#page_59)
+imperfection, of man, [59](ktl10.htm#page_59.md)
 
-incarnation(s), [26](ktl06.htm#page_26); of Christ,
-[131](ktl19.htm#page_131)
+incarnation(s), [26](ktl06.htm#page_26.md); of Christ,
+[131](ktl19.htm#page_131.md)
 
-increase, [101](ktl15.htm#page_101)
+increase, [101](ktl15.htm#page_101.md)
 
-individuality, [145](ktl19.htm#page_145)
+individuality, [145](ktl19.htm#page_145.md)
 
-Ingersoll, Robert, [24](ktl05.htm#page_24)
+Ingersoll, Robert, [24](ktl05.htm#page_24.md)
 
-inheritance, from God, [144](ktl19.htm#page_144)
+inheritance, from God, [144](ktl19.htm#page_144.md)
 
-inner eye, [12](ktl03.htm#page_12)
+inner eye, [12](ktl03.htm#page_12.md)
 
-inspiration spiritual, [173](#page_173)
+inspiration spiritual, [173](#page_173.md)
 
-intellect, [77](ktl12.htm#page_77); rules today, [82](ktl13.htm#page_82)
+intellect, [77](ktl12.htm#page_77); rules today, [82](ktl13.htm#page_82.md)
 
-intuition, [191](#page_191)
+intuition, [191](#page_191.md)
 
-Isaac, [78](ktl13.htm#page_78), [82](ktl13.htm#page_82)
+Isaac, [78](ktl13.htm#page_78), [82](ktl13.htm#page_82.md)
 
-Isaiah, [39](ktl08.htm#page_39), [40](ktl08.htm#page_40)
+Isaiah, [39](ktl08.htm#page_39), [40](ktl08.htm#page_40.md)
 
-Israelites, [37](ktl08.htm#page_37)
+Israelites, [37](ktl08.htm#page_37.md)
 
-Jacob, experiences after receiving blessing, [83](ktl13.htm#page_83);
-experiences with tithing, [85](ktl13.htm#page_85),
-[104](ktl16.htm#page_104); represents the mind, [79](ktl13.htm#page_79);
-story of receiving Isaac's blessing, [78](ktl13.htm#page_78)
+Jacob, experiences after receiving blessing, [83](ktl13.htm#page_83.md);
+experiences with tithing, [85](ktl13.htm#page_85.md),
+[104](ktl16.htm#page_104); represents the mind, [79](ktl13.htm#page_79.md);
+story of receiving Isaac's blessing, [78](ktl13.htm#page_78.md)
 
-Jacob's ladder, evidence of omnipresence, [83](ktl13.htm#page_83)
+Jacob's ladder, evidence of omnipresence, [83](ktl13.htm#page_83.md)
 
-James, instruction to purify heart, [92](ktl14.htm#page_92); symbol of
-power of justice, [117](ktl17.htm#page_117)
+James, instruction to purify heart, [92](ktl14.htm#page_92.md); symbol of
+power of justice, [117](ktl17.htm#page_117.md)
 
-Jehovah, as Christ, [130](ktl19.htm#page_130); as God's idea of man,
-[15](ktl04.htm#page_15); as word charged with power, [153](#page_153);
-as word held in silence, [170](#page_170); promise to overcomer,
-[180](#page_180)
+Jehovah, as Christ, [130](ktl19.htm#page_130.md); as God's idea of man,
+[15](ktl04.htm#page_15); as word charged with power, [153](#page_153.md);
+as word held in silence, [170](#page_170.md); promise to overcomer,
+[180](#page_180.md)
 
 Jerusalem, as symbol of love
 
 <span id="page_v">p. v</span>
 
-center, [34](ktl07.htm#page_34); as symbol of peace and prosperity,
-[188](#page_188); symbolizes great nerve center, [189](#page_189)
+center, [34](ktl07.htm#page_34.md); as symbol of peace and prosperity,
+[188](#page_188); symbolizes great nerve center, [189](#page_189.md)
 
-Jesus, as channel for grace and truth, [169](#page_169); as continuous
-working factor in civilization, [164](#page_164); as joint heir to
-kingdom, [27](ktl06.htm#page_27); as light of the world,
-[128](ktl19.htm#page_128); as one of God-men, [130](ktl19.htm#page_130);
-as our helper, [164](#page_164); as psychologist,
-[76](ktl12.htm#page_76); as Word of God, [20](ktl05.htm#page_20);
-authority given to, [15](ktl04.htm#page_15), [29](ktl06.htm#page_29),
-[55](ktl10.htm#page_55), [72](ktl12.htm#page_72); available to all,
-[164](#page_164); blood of, [27](ktl06.htm#page_27); body offered as
-life transformer, [133](ktl19.htm#page_133); born to be Way-Shower,
-[197](#page_197); brought good news of salvation from death,
-[96](ktl15.htm#page_96); came to give life, [132](ktl19.htm#page_132);
-came to save man from sin, [163](#page_163); changed water to wine,
-[75](ktl12.htm#page_75); claimed human race as His flock,
-[129](ktl19.htm#page_129); developed innate powers, [164](#page_164);
-dissolution of false will, [62](ktl10.htm#page_62); elements of His
-teaching, [36](ktl07.htm#page_36); entrance into Jerusalem,
-[139](ktl19.htm#page_139); healed sick and raised dead,
-[173](#page_173); laid claim to prior existence,
-[129](ktl19.htm#page_129); mastering carnality, [162](#page_162);
-mastery of two currents in body, [74](ktl12.htm#page_74); mission of,
-[17](ktl04.htm#page_17); misunderstood by contemporaries,
-[129](ktl19.htm#page_129); on end of the age, [26](ktl06.htm#page_26),
-[40](ktl08.htm#page_40); oneness with Father, [18](ktl04.htm#page_18);
-on fasting, [4](ktl01.htm#page_4); on God as Spirit,
-[29](ktl06.htm#page_29); on God of the living, [69](ktl11.htm#page_69);
-on greatest commandments, [34](ktl07.htm#page_34),
-[41](ktl08.htm#page_41); on physical resurrection,
-[21](ktl05.htm#page_21); on reincarnation, [94](ktl15.htm#page_94); on
-resistance and antagonism, [175](#page_175); on single eye,
-[21](ktl05.htm#page_21); passion of, [138](ktl19.htm#page_138); prayers
-of, [65](ktl11.htm#page_65), [72](ktl12.htm#page_72); raised up whole
-man, [197](#page_197); real character of, [128](ktl19.htm#page_128);
-recognition of sonship and brotherhood, [32](ktl07.htm#page_32);
-redemptive work of, [26](ktl06.htm#page_26); refers to Holy Spirit as
-Comforter, [16](ktl04.htm#page_16); relationship to human family,
-[129](ktl19.htm#page_129); represents man in regeneration,
-[163](#page_163); resurrection of, in us, [13](ktl03.htm#page_13),
-[162](#page_162); second coming of, [26](ktl06.htm#page_26); taught use
-of affirmative, [73](ktl12.htm#page_73); three days in tomb,
-[195](#page_195); very God or ideal man?, [128](ktl19.htm#page_128); way
-to do His works, [57](ktl10.htm#page_57); went all the way from human to
-divine, [127](ktl18.htm#page_127)
+Jesus, as channel for grace and truth, [169](#page_169.md); as continuous
+working factor in civilization, [164](#page_164.md); as joint heir to
+kingdom, [27](ktl06.htm#page_27.md); as light of the world,
+[128](ktl19.htm#page_128); as one of God-men, [130](ktl19.htm#page_130.md);
+as our helper, [164](#page_164.md); as psychologist,
+[76](ktl12.htm#page_76); as Word of God, [20](ktl05.htm#page_20.md);
+authority given to, [15](ktl04.htm#page_15), [29](ktl06.htm#page_29.md),
+[55](ktl10.htm#page_55), [72](ktl12.htm#page_72.md); available to all,
+[164](#page_164); blood of, [27](ktl06.htm#page_27.md); body offered as
+life transformer, [133](ktl19.htm#page_133.md); born to be Way-Shower,
+[197](#page_197.md); brought good news of salvation from death,
+[96](ktl15.htm#page_96); came to give life, [132](ktl19.htm#page_132.md);
+came to save man from sin, [163](#page_163.md); changed water to wine,
+[75](ktl12.htm#page_75.md); claimed human race as His flock,
+[129](ktl19.htm#page_129); developed innate powers, [164](#page_164.md);
+dissolution of false will, [62](ktl10.htm#page_62.md); elements of His
+teaching, [36](ktl07.htm#page_36.md); entrance into Jerusalem,
+[139](ktl19.htm#page_139.md); healed sick and raised dead,
+[173](#page_173.md); laid claim to prior existence,
+[129](ktl19.htm#page_129); mastering carnality, [162](#page_162.md);
+mastery of two currents in body, [74](ktl12.htm#page_74.md); mission of,
+[17](ktl04.htm#page_17.md); misunderstood by contemporaries,
+[129](ktl19.htm#page_129); on end of the age, [26](ktl06.htm#page_26.md),
+[40](ktl08.htm#page_40); oneness with Father, [18](ktl04.htm#page_18.md);
+on fasting, [4](ktl01.htm#page_4.md); on God as Spirit,
+[29](ktl06.htm#page_29); on God of the living, [69](ktl11.htm#page_69.md);
+on greatest commandments, [34](ktl07.htm#page_34.md),
+[41](ktl08.htm#page_41.md); on physical resurrection,
+[21](ktl05.htm#page_21); on reincarnation, [94](ktl15.htm#page_94.md); on
+resistance and antagonism, [175](#page_175.md); on single eye,
+[21](ktl05.htm#page_21); passion of, [138](ktl19.htm#page_138.md); prayers
+of, [65](ktl11.htm#page_65), [72](ktl12.htm#page_72.md); raised up whole
+man, [197](#page_197); real character of, [128](ktl19.htm#page_128.md);
+recognition of sonship and brotherhood, [32](ktl07.htm#page_32.md);
+redemptive work of, [26](ktl06.htm#page_26.md); refers to Holy Spirit as
+Comforter, [16](ktl04.htm#page_16.md); relationship to human family,
+[129](ktl19.htm#page_129.md); represents man in regeneration,
+[163](#page_163); resurrection of, in us, [13](ktl03.htm#page_13.md),
+[162](#page_162); second coming of, [26](ktl06.htm#page_26.md); taught use
+of affirmative, [73](ktl12.htm#page_73.md); three days in tomb,
+[195](#page_195); very God or ideal man?, [128](ktl19.htm#page_128.md); way
+to do His works, [57](ktl10.htm#page_57.md); went all the way from human to
+divine, [127](ktl18.htm#page_127.md)
 
-Jews, [32](ktl07.htm#page_32), [104](ktl16.htm#page_104)
+Jews, [32](ktl07.htm#page_32), [104](ktl16.htm#page_104.md)
 
-John the Baptist, [50](ktl09.htm#page_50), [141](ktl19.htm#page_141)
+John the Baptist, [50](ktl09.htm#page_50), [141](ktl19.htm#page_141.md)
 
-John the Mystic, as symbol of love faculty, [117](ktl17.htm#page_117);
-his vision of Jesus, [187](#page_187); on mystery of Jesus,
-[130](ktl19.htm#page_130); presiding genius of love,
-[34](ktl07.htm#page_34)
+John the Mystic, as symbol of love faculty, [117](ktl17.htm#page_117.md);
+his vision of Jesus, [187](#page_187.md); on mystery of Jesus,
+[130](ktl19.htm#page_130.md); presiding genius of love,
+[34](ktl07.htm#page_34.md)
 
-Joseph of Arimathea, [195](#page_195)
+Joseph of Arimathea, [195](#page_195.md)
 
-joy, [30](ktl06.htm#page_30)
+joy, [30](ktl06.htm#page_30.md)
 
-judgment, [182](#page_182)
+judgment, [182](#page_182.md)
 
-justice, universal law of, [175](#page_175)
+justice, universal law of, [175](#page_175.md)
 
-kingdom, attainment through thought, [142](ktl19.htm#page_142); how
-developed within man, [30](ktl06.htm#page_30); how entered,
-[177](#page_177); keys to, [117](ktl17.htm#page_117); relation to
-children, [107](ktl16.htm#page_107); to be established here on earth,
-[163](#page_163)
+kingdom, attainment through thought, [142](ktl19.htm#page_142.md); how
+developed within man, [30](ktl06.htm#page_30.md); how entered,
+[177](#page_177); keys to, [117](ktl17.htm#page_117.md); relation to
+children, [107](ktl16.htm#page_107.md); to be established here on earth,
+[163](#page_163.md)
 
-labor, [107](ktl16.htm#page_107)
+labor, [107](ktl16.htm#page_107.md)
 
-Lamb of God, [124](ktl18.htm#page_124)
+Lamb of God, [124](ktl18.htm#page_124.md)
 
-larynx, [74](ktl12.htm#page_74)
+larynx, [74](ktl12.htm#page_74.md)
 
-Last Supper, [133](ktl19.htm#page_133), [139](ktl19.htm#page_139),
-[192](#page_192)
+Last Supper, [133](ktl19.htm#page_133), [139](ktl19.htm#page_139.md),
+[192](#page_192.md)
 
-law, active in all of nature, [131](ktl19.htm#page_131); cannot be
-broken, [158](#page_158); definition of, [158](#page_158); of action,
-[47](ktl09.htm#page_47); of the All-Good, [30](ktl06.htm#page_30); of
-Being, [88](ktl14.htm#page_88); of denial, [70](ktl11.htm#page_70); of
+law, active in all of nature, [131](ktl19.htm#page_131.md); cannot be
+broken, [158](#page_158); definition of, [158](#page_158.md); of action,
+[47](ktl09.htm#page_47); of the All-Good, [30](ktl06.htm#page_30.md); of
+Being, [88](ktl14.htm#page_88); of denial, [70](ktl11.htm#page_70.md); of
 
 <span id="page_vi">p. vi</span>
 
-evolution, [165](#page_165); of expression, [10](ktl03.htm#page_10); of
-man less than grace of God, [169](#page_169); of righteous thinking,
-[67](ktl11.htm#page_67); of universal balance, [43](ktl08.htm#page_43);
-recognition of power of, [32](ktl07.htm#page_32); transgression of and
-punishment, [32](ktl07.htm#page_32); wipes out all transgressions,
-[161](#page_161); works within man for re-embodiment,
-[93](ktl14.htm#page_93)
+evolution, [165](#page_165); of expression, [10](ktl03.htm#page_10.md); of
+man less than grace of God, [169](#page_169.md); of righteous thinking,
+[67](ktl11.htm#page_67); of universal balance, [43](ktl08.htm#page_43.md);
+recognition of power of, [32](ktl07.htm#page_32.md); transgression of and
+punishment, [32](ktl07.htm#page_32.md); wipes out all transgressions,
+[161](#page_161.md); works within man for re-embodiment,
+[93](ktl14.htm#page_93.md)
 
-Lent, [3](ktl00.htm#page_3)-[5](ktl01.htm#page_5),
-[138](ktl19.htm#page_138), [140](ktl19.htm#page_140)
+Lent, [3](ktl00.htm#page_3)-[5](ktl01.htm#page_5.md),
+[138](ktl19.htm#page_138), [140](ktl19.htm#page_140.md)
 
-life, as abiding flame in us, [162](#page_162); as gift of God,
-[161](#page_161); center of, [123](ktl18.htm#page_123); conserved,
-[163](#page_163); continuity of, [94](ktl15.htm#page_94); difference
-between essence and living, [60](ktl10.htm#page_60); first step in
-realization of, [123](ktl18.htm#page_123); higher,
-[126](ktl18.htm#page_126); how to appropriate more of,
-[123](ktl18.htm#page_123); precious in God's sight,
+life, as abiding flame in us, [162](#page_162.md); as gift of God,
+[161](#page_161); center of, [123](ktl18.htm#page_123.md); conserved,
+[163](#page_163); continuity of, [94](ktl15.htm#page_94.md); difference
+between essence and living, [60](ktl10.htm#page_60.md); first step in
+realization of, [123](ktl18.htm#page_123.md); higher,
+[126](ktl18.htm#page_126.md); how to appropriate more of,
+[123](ktl18.htm#page_123.md); precious in God's sight,
 
-[125](ktl18.htm#page_125); source of, [20](ktl05.htm#page_20)
+[125](ktl18.htm#page_125); source of, [20](ktl05.htm#page_20.md)
 
-life current, [123](ktl18.htm#page_123), [131](ktl19.htm#page_131); how
+life current, [123](ktl18.htm#page_123), [131](ktl19.htm#page_131.md); how
 
-changed, [126](ktl18.htm#page_126); how to make flow, [161](#page_161);
-subject to word of man, [73](ktl12.htm#page_73)
+changed, [126](ktl18.htm#page_126); how to make flow, [161](#page_161.md);
+subject to word of man, [73](ktl12.htm#page_73.md)
 
-life, eternal, [122](ktl17.htm#page_122); crown of, [167](#page_167);
-hindrance to attainment of, [122](ktl17.htm#page_122); man's enmity
-with, [122](ktl17.htm#page_122); secret of inheriting,
-[122](ktl17.htm#page_122)
+life, eternal, [122](ktl17.htm#page_122); crown of, [167](#page_167.md);
+hindrance to attainment of, [122](ktl17.htm#page_122.md); man's enmity
+with, [122](ktl17.htm#page_122.md); secret of inheriting,
+[122](ktl17.htm#page_122.md)
 
-light, of Divine within, [141](ktl19.htm#page_141); of Spirit,
-[67](ktl11.htm#page_67)
+light, of Divine within, [141](ktl19.htm#page_141.md); of Spirit,
+[67](ktl11.htm#page_67.md)
 
-limitation, false belief in, [63](ktl10.htm#page_63)
+limitation, false belief in, [63](ktl10.htm#page_63.md)
 
-locomotive (illustration of controlled zeal), [159](#page_159)
+locomotive (illustration of controlled zeal), [159](#page_159.md)
 
-logic, argues against end of world, [41](ktl08.htm#page_41); of Truth,
-[19](ktl04.htm#page_19)
+logic, argues against end of world, [41](ktl08.htm#page_41.md); of Truth,
+[19](ktl04.htm#page_19.md)
 
-Logos, [15](ktl04.htm#page_15), [172](#page_172)
+Logos, [15](ktl04.htm#page_15), [172](#page_172.md)
 
-Lord's Prayer, [72](ktl12.htm#page_72); Fenton version,
-[108](ktl16.htm#page_108); most powerful prayer Jesus uttered,
-[174](#page_174); praying fifteen times, [174](#page_174)
+Lord's Prayer, [72](ktl12.htm#page_72.md); Fenton version,
+[108](ktl16.htm#page_108.md); most powerful prayer Jesus uttered,
+[174](#page_174); praying fifteen times, [174](#page_174.md)
 
-love, [30](ktl06.htm#page_30), [151](#page_151); as builder of mind
-substance, [34](ktl07.htm#page_34); as divine ordinance,
-[35](ktl07.htm#page_35); as great force, [30](ktl06.htm#page_30); as
-idea of universal unity, [151](#page_151); as Principle,
-[33](ktl07.htm#page_33); as servant, [35](ktl07.htm#page_35); definition
-of, [32](ktl07.htm#page_32); directed by wisdom,
-[31](ktl07.htm#page_31); distinction between divine and human,
-[31](ktl07.htm#page_31); dominant thoughts about,
-[34](ktl07.htm#page_34); obstacles to fellowship of,
-[35](ktl07.htm#page_35); of fellow men, [35](ktl07.htm#page_35); purity
-of, [33](ktl07.htm#page_33); unselfish qualities of,
-[31](ktl07.htm#page_31); value of affirming it, [34](ktl07.htm#page_34);
-why not quickly developed, [33](ktl07.htm#page_33)
+love, [30](ktl06.htm#page_30), [151](#page_151.md); as builder of mind
+substance, [34](ktl07.htm#page_34.md); as divine ordinance,
+[35](ktl07.htm#page_35); as great force, [30](ktl06.htm#page_30.md); as
+idea of universal unity, [151](#page_151.md); as Principle,
+[33](ktl07.htm#page_33); as servant, [35](ktl07.htm#page_35.md); definition
+of, [32](ktl07.htm#page_32.md); directed by wisdom,
+[31](ktl07.htm#page_31.md); distinction between divine and human,
+[31](ktl07.htm#page_31.md); dominant thoughts about,
+[34](ktl07.htm#page_34.md); obstacles to fellowship of,
+[35](ktl07.htm#page_35); of fellow men, [35](ktl07.htm#page_35.md); purity
+of, [33](ktl07.htm#page_33.md); unselfish qualities of,
+[31](ktl07.htm#page_31); value of affirming it, [34](ktl07.htm#page_34.md);
+why not quickly developed, [33](ktl07.htm#page_33.md)
 
-magnet, spiritual, [133](ktl19.htm#page_133)
+magnet, spiritual, [133](ktl19.htm#page_133.md)
 
-man, [54](ktl09.htm#page_54); aligns self with law, [158](#page_158);
-and conscience, [44](ktl09.htm#page_44); animal nature of,
-[60](ktl10.htm#page_60); as architect, [46](ktl09.htm#page_46); as Being
-in miniature, [54](ktl09.htm#page_54); as transformer of all things,
-[55](ktl10.htm#page_55); as manifest God will, [157](#page_157); as
-power of God in action, [153](#page_153); as will of God externalized,
-[61](ktl10.htm#page_61); fall of, [54](ktl09.htm#page_54); foolish
-beliefs about God, [44](ktl09.htm#page_44); gives way to Christ man,
-[95](ktl15.htm#page_95); great privileges of, [58](ktl10.htm#page_58);
-imperfection in, [59](ktl10.htm#page_59); made in image of God,
-[60](ktl10.htm#page_60); of Christ, [185](#page_185); office of,
-[119](ktl17.htm#page_119); on way to perfect expression,
-[54](ktl09.htm#page_54); open to God, [51](ktl09.htm#page_51); place in
-God's planning, [61](ktl10.htm#page_61); potentialities of,
-[54](ktl09.htm#page_54); primary work of, [147](ktl19.htm#page_147);
-real, [56](ktl10.htm#page_56); true estate of, [59](ktl10.htm#page_59)
+man, [54](ktl09.htm#page_54); aligns self with law, [158](#page_158.md);
+and conscience, [44](ktl09.htm#page_44.md); animal nature of,
+[60](ktl10.htm#page_60); as architect, [46](ktl09.htm#page_46.md); as Being
+in miniature, [54](ktl09.htm#page_54.md); as transformer of all things,
+[55](ktl10.htm#page_55); as manifest God will, [157](#page_157.md); as
+power of God in action, [153](#page_153.md); as will of God externalized,
+[61](ktl10.htm#page_61); fall of, [54](ktl09.htm#page_54.md); foolish
+beliefs about God, [44](ktl09.htm#page_44.md); gives way to Christ man,
+[95](ktl15.htm#page_95); great privileges of, [58](ktl10.htm#page_58.md);
+imperfection in, [59](ktl10.htm#page_59.md); made in image of God,
+[60](ktl10.htm#page_60); of Christ, [185](#page_185.md); office of,
+[119](ktl17.htm#page_119.md); on way to perfect expression,
+[54](ktl09.htm#page_54); open to God, [51](ktl09.htm#page_51.md); place in
+God's planning, [61](ktl10.htm#page_61.md); potentialities of,
+[54](ktl09.htm#page_54); primary work of, [147](ktl19.htm#page_147.md);
+real, [56](ktl10.htm#page_56); true estate of, [59](ktl10.htm#page_59.md)
 
-materiality, [20](ktl05.htm#page_20), [118](ktl17.htm#page_118)
+materiality, [20](ktl05.htm#page_20), [118](ktl17.htm#page_118.md)
 
-matter, [14](ktl03.htm#page_14), [66](ktl11.htm#page_66)
+matter, [14](ktl03.htm#page_14), [66](ktl11.htm#page_66.md)
 
-Maundy Thursday, [139](ktl19.htm#page_139)
+Maundy Thursday, [139](ktl19.htm#page_139.md)
 
-meditation, [12](ktl03.htm#page_12), [15](ktl04.htm#page_15)
+meditation, [12](ktl03.htm#page_12), [15](ktl04.htm#page_15.md)
 
-memory, [89](ktl14.htm#page_89); in connection with reincarnation,
-[99](ktl15.htm#page_99)
+memory, [89](ktl14.htm#page_89.md); in connection with reincarnation,
+[99](ktl15.htm#page_99.md)
 
-mental conceptions, [24](ktl05.htm#page_24)
+mental conceptions, [24](ktl05.htm#page_24.md)
 
-mental dominion, [68](ktl11.htm#page_68)
+mental dominion, [68](ktl11.htm#page_68.md)
 
-mental pictures, [52](ktl09.htm#page_52), [154](#page_154)
+mental pictures, [52](ktl09.htm#page_52), [154](#page_154.md)
 
-mental renewal, [13](ktl03.htm#page_13), [17](ktl04.htm#page_17),
-[51](ktl09.htm#page_51)
+mental renewal, [13](ktl03.htm#page_13), [17](ktl04.htm#page_17.md),
+[51](ktl09.htm#page_51.md)
 
-metaphysicians, logic of, [19](ktl04.htm#page_19);
+metaphysicians, logic of, [19](ktl04.htm#page_19.md);
 
 <span id="page_vii">p. vii</span>
 
-modern beliefs of, [38](ktl08.htm#page_38)
+modern beliefs of, [38](ktl08.htm#page_38.md)
 
-mind, conscious, [87](ktl13.htm#page_87); as crucible for ideas,
-[39](ktl08.htm#page_39); as meeting ground between God and man,
-[10](ktl03.htm#page_10); bound by time, [170](#page_170); control of
-consciousness in, [77](ktl12.htm#page_77); dominates the body,
-[80](ktl13.htm#page_80); has own law of dynamics,
-[47](ktl09.htm#page_47); illusions created by, [88](ktl14.htm#page_88);
-man's cognizance of, [59](ktl10.htm#page_59); subdivisions of,
-[17](ktl04.htm#page_17); unified with Divine Mind in daily worship,
-[77](ktl12.htm#page_77), [178](#page_178); use of,
-[87](ktl13.htm#page_87)
+mind, conscious, [87](ktl13.htm#page_87.md); as crucible for ideas,
+[39](ktl08.htm#page_39.md); as meeting ground between God and man,
+[10](ktl03.htm#page_10); bound by time, [170](#page_170.md); control of
+consciousness in, [77](ktl12.htm#page_77.md); dominates the body,
+[80](ktl13.htm#page_80.md); has own law of dynamics,
+[47](ktl09.htm#page_47); illusions created by, [88](ktl14.htm#page_88.md);
+man's cognizance of, [59](ktl10.htm#page_59.md); subdivisions of,
+[17](ktl04.htm#page_17.md); unified with Divine Mind in daily worship,
+[77](ktl12.htm#page_77), [178](#page_178.md); use of,
+[87](ktl13.htm#page_87.md)
 
-mind, subconscious, [87](ktl13.htm#page_87); release of light and energy
-in, [71](ktl11.htm#page_71); spoken of as "heart,"
-[91](ktl14.htm#page_91); spoken of as "memory," [89](ktl14.htm#page_89);
-true office of, [87](ktl13.htm#page_87)
+mind, subconscious, [87](ktl13.htm#page_87.md); release of light and energy
+in, [71](ktl11.htm#page_71.md); spoken of as "heart,"
+[91](ktl14.htm#page_91); spoken of as "memory," [89](ktl14.htm#page_89.md);
+true office of, [87](ktl13.htm#page_87.md)
 
-mind, superconscious, [88](ktl14.htm#page_88); as Principle,
-[63](ktl10.htm#page_63); instrument of regeneration,
-[89](ktl14.htm#page_89); laboratory of, [116](ktl17.htm#page_116); not
-subject to lack, [64](ktl11.htm#page_64); opposition from mind of the
-flesh, [131](ktl19.htm#page_131); ready to pour forth blessing,
-[88](ktl14.htm#page_88); wider horizons of, [110](ktl16.htm#page_110)
+mind, superconscious, [88](ktl14.htm#page_88.md); as Principle,
+[63](ktl10.htm#page_63.md); instrument of regeneration,
+[89](ktl14.htm#page_89); laboratory of, [116](ktl17.htm#page_116.md); not
+subject to lack, [64](ktl11.htm#page_64.md); opposition from mind of the
+flesh, [131](ktl19.htm#page_131.md); ready to pour forth blessing,
+[88](ktl14.htm#page_88); wider horizons of, [110](ktl16.htm#page_110.md)
 
-miracle, definition of, [178](#page_178); changing water to wine,
-[75](ktl12.htm#page_75)
+miracle, definition of, [178](#page_178.md); changing water to wine,
+[75](ktl12.htm#page_75.md)
 
 money, how to think about,
 
-[102](ktl16.htm#page_102); power of, [106](ktl16.htm#page_106); unjustly
-deferred to, [105](ktl16.htm#page_105)
+[102](ktl16.htm#page_102); power of, [106](ktl16.htm#page_106.md); unjustly
+deferred to, [105](ktl16.htm#page_105.md)
 
-Moses, [3](ktl00.htm#page_3), [106](ktl16.htm#page_106),
-[138](ktl19.htm#page_138), [154](#page_154)
+Moses, [3](ktl00.htm#page_3), [106](ktl16.htm#page_106.md),
+[138](ktl19.htm#page_138), [154](#page_154.md)
 
-movement, [38](ktl08.htm#page_38)
+movement, [38](ktl08.htm#page_38.md)
 
-music, principle of, [111](ktl17.htm#page_111)
+music, principle of, [111](ktl17.htm#page_111.md)
 
-Napoleon, [47](ktl09.htm#page_47)
+Napoleon, [47](ktl09.htm#page_47.md)
 
-negation, [141](ktl19.htm#page_141)
+negation, [141](ktl19.htm#page_141.md)
 
-Nehemiah, [37](ktl08.htm#page_37)
+Nehemiah, [37](ktl08.htm#page_37.md)
 
-new birth, [162](#page_162)
+new birth, [162](#page_162.md)
 
-Newman, Cardinal, [87](ktl13.htm#page_87)
+Newman, Cardinal, [87](ktl13.htm#page_87.md)
 
-nonresistance, [30](ktl06.htm#page_30), [195](#page_195)
+nonresistance, [30](ktl06.htm#page_30), [195](#page_195.md)
 
-obedience, spirit of, [35](ktl07.htm#page_35)
+obedience, spirit of, [35](ktl07.htm#page_35.md)
 
-omnipresence, [83](ktl13.htm#page_83)
+omnipresence, [83](ktl13.htm#page_83.md)
 
-omnipresent intelligence, [45](ktl09.htm#page_45)
+omnipresent intelligence, [45](ktl09.htm#page_45.md)
 
-oneness, with life, [123](ktl18.htm#page_123)
+oneness, with life, [123](ktl18.htm#page_123.md)
 
-overcomer, [180](#page_180), [190](#page_190)
+overcomer, [180](#page_180), [190](#page_190.md)
 
-overcoming, [38](ktl08.htm#page_38), [180](#page_180)
+overcoming, [38](ktl08.htm#page_38), [180](#page_180.md)
 
-Palm Sunday, [139](ktl19.htm#page_139), [188](#page_188)
+Palm Sunday, [139](ktl19.htm#page_139), [188](#page_188.md)
 
-patience, [181](#page_181)
+patience, [181](#page_181.md)
 
-Paul, on all-sufficiency, [103](ktl16.htm#page_103); on cause of
-weakness, sickness, and death, [19](ktl04.htm#page_19); on condemnation,
-[98](ktl15.htm#page_98); on law of thought in finances,
-[102](ktl16.htm#page_102); on Mind of Christ in men,
-[111](ktl17.htm#page_111); on mystery of Christ,
-[27](ktl06.htm#page_27); on peace, [6](ktl01.htm#page_6); on realization
-of oneness, [11](ktl03.htm#page_11); on resurrection,
-[21](ktl05.htm#page_21); on scientific religion,
-[76](ktl12.htm#page_76); on Sonship of man, [130](ktl19.htm#page_130);
-on subjects for thought, [135](ktl19.htm#page_135)
+Paul, on all-sufficiency, [103](ktl16.htm#page_103.md); on cause of
+weakness, sickness, and death, [19](ktl04.htm#page_19.md); on condemnation,
+[98](ktl15.htm#page_98.md); on law of thought in finances,
+[102](ktl16.htm#page_102.md); on Mind of Christ in men,
+[111](ktl17.htm#page_111.md); on mystery of Christ,
+[27](ktl06.htm#page_27); on peace, [6](ktl01.htm#page_6.md); on realization
+of oneness, [11](ktl03.htm#page_11.md); on resurrection,
+[21](ktl05.htm#page_21.md); on scientific religion,
+[76](ktl12.htm#page_76); on Sonship of man, [130](ktl19.htm#page_130.md);
+on subjects for thought, [135](ktl19.htm#page_135.md)
 
-peace, [175](#page_175); of knowing God, [9](ktl02.htm#page_9); our
-influence for, [5](ktl01.htm#page_5)
+peace, [175](#page_175); of knowing God, [9](ktl02.htm#page_9.md); our
+influence for, [5](ktl01.htm#page_5.md)
 
-perfection, attainment of, [18](ktl04.htm#page_18); divine idea of,
-[22](ktl05.htm#page_22); entering through affirmation,
-[142](ktl19.htm#page_142); not out of reach, [144](ktl19.htm#page_144);
-of body, [19](ktl04.htm#page_19); processes to, [59](ktl10.htm#page_59)
+perfection, attainment of, [18](ktl04.htm#page_18.md); divine idea of,
+[22](ktl05.htm#page_22.md); entering through affirmation,
+[142](ktl19.htm#page_142); not out of reach, [144](ktl19.htm#page_144.md);
+of body, [19](ktl04.htm#page_19); processes to, [59](ktl10.htm#page_59.md)
 
-Peter, [116](ktl17.htm#page_116)-[120](ktl17.htm#page_120)
+Peter, [116](ktl17.htm#page_116)-[120](ktl17.htm#page_120.md)
 
-Pharisees, [188](#page_188)
+Pharisees, [188](#page_188.md)
 
-physical translation, [69](ktl11.htm#page_69)
+physical translation, [69](ktl11.htm#page_69.md)
 
-poverty, causes of, [101](ktl15.htm#page_101)
+poverty, causes of, [101](ktl15.htm#page_101.md)
 
-power, [153](#page_153); available to man, [54](ktl09.htm#page_54);
-center in throat, [155](#page_155); declared by Jesus,
-[73](ktl12.htm#page_73); destructive, [73](ktl12.htm#page_73); new
-source of, [143](ktl19.htm#page_143); of the I AM,
-[145](ktl19.htm#page_145); twelve powers of Christ,
-[113](ktl17.htm#page_113)
+power, [153](#page_153); available to man, [54](ktl09.htm#page_54.md);
+center in throat, [155](#page_155.md); declared by Jesus,
+[73](ktl12.htm#page_73); destructive, [73](ktl12.htm#page_73.md); new
+source of, [143](ktl19.htm#page_143.md); of the I AM,
+[145](ktl19.htm#page_145.md); twelve powers of Christ,
+[113](ktl17.htm#page_113.md)
 
-prayer, as language of spirituality, [10](ktl03.htm#page_10); as mind
-action, [10](ktl03.htm#page_10); does not change God,
-[146](ktl19.htm#page_146); how to pray, [71](ktl11.htm#page_71); of
-Jesus, [72](ktl12.htm#page_72); scientific, [170](#page_170); why not
-always effective, [72](ktl12.htm#page_72)
+prayer, as language of spirituality, [10](ktl03.htm#page_10.md); as mind
+action, [10](ktl03.htm#page_10.md); does not change God,
+[146](ktl19.htm#page_146); how to pray, [71](ktl11.htm#page_71.md); of
+Jesus, [72](ktl12.htm#page_72); scientific, [170](#page_170.md); why not
+always effective, [72](ktl12.htm#page_72.md)
 
-Principle, [177](#page_177); Christ the idea of,
-[54](ktl09.htm#page_54); how to demonstrate, [177](#page_177);
-legitimate outworking of, [69](ktl11.htm#page_69); of good and evil,
-[60](ktl10.htm#page_60);
+Principle, [177](#page_177.md); Christ the idea of,
+[54](ktl09.htm#page_54); how to demonstrate, [177](#page_177.md);
+legitimate outworking of, [69](ktl11.htm#page_69.md); of good and evil,
+[60](ktl10.htm#page_60.md);
 
 <span id="page_viii">p. viii</span>
 
-of mathematics or music, [14](ktl03.htm#page_14),
-[63](ktl10.htm#page_63), [156](#page_156); of music,
-[111](ktl17.htm#page_111)
+of mathematics or music, [14](ktl03.htm#page_14.md),
+[63](ktl10.htm#page_63), [156](#page_156.md); of music,
+[111](ktl17.htm#page_111.md)
 
-prodigal son, [88](ktl14.htm#page_88), [133](ktl19.htm#page_133)
+prodigal son, [88](ktl14.htm#page_88), [133](ktl19.htm#page_133.md)
 
-promised land, [56](ktl10.htm#page_56), [57](ktl10.htm#page_57)
+promised land, [56](ktl10.htm#page_56), [57](ktl10.htm#page_57.md)
 
-prosperity, [101](ktl15.htm#page_101); key to achieving,
-[85](ktl13.htm#page_85); result of work, [37](ktl08.htm#page_37); why
-Jews have been noted for, [104](ktl16.htm#page_104)
+prosperity, [101](ktl15.htm#page_101.md); key to achieving,
+[85](ktl13.htm#page_85); result of work, [37](ktl08.htm#page_37.md); why
+Jews have been noted for, [104](ktl16.htm#page_104.md)
 
-psychology, place in religion today, [76](ktl12.htm#page_76)
+psychology, place in religion today, [76](ktl12.htm#page_76.md)
 
-race beliefs, [72](ktl12.htm#page_72)
+race beliefs, [72](ktl12.htm#page_72.md)
 
-race consciousness, [131](ktl19.htm#page_131), [181](#page_181)
+race consciousness, [131](ktl19.htm#page_131), [181](#page_181.md)
 
-race, new, [189](#page_189)
+race, new, [189](#page_189.md)
 
-realization, [170](#page_170)
+realization, [170](#page_170.md)
 
-Rebekah, [78](ktl13.htm#page_78)
+Rebekah, [78](ktl13.htm#page_78.md)
 
-redemption, [71](ktl11.htm#page_71), [124](ktl18.htm#page_124)
+redemption, [71](ktl11.htm#page_71), [124](ktl18.htm#page_124.md)
 
 re-embodiment (see reincarnation)
 
-regeneration, by superconscious mind, [89](ktl14.htm#page_89); only safe
-way to eternal life, [74](ktl12.htm#page_74); through appropriating
-Christ atoms, [133](ktl19.htm#page_133)
+regeneration, by superconscious mind, [89](ktl14.htm#page_89.md); only safe
+way to eternal life, [74](ktl12.htm#page_74.md); through appropriating
+Christ atoms, [133](ktl19.htm#page_133.md)
 
-reincarnation, [93](ktl14.htm#page_93); a temporary remedy,
-[94](ktl15.htm#page_94); partly to be speculated on,
-[99](ktl15.htm#page_99); when no longer necessary,
-[28](ktl06.htm#page_28)
+reincarnation, [93](ktl14.htm#page_93.md); a temporary remedy,
+[94](ktl15.htm#page_94.md); partly to be speculated on,
+[99](ktl15.htm#page_99.md); when no longer necessary,
+[28](ktl06.htm#page_28.md)
 
-renunciation, [160](#page_160)
+renunciation, [160](#page_160.md)
 
-repentance, [141](ktl19.htm#page_141)
+repentance, [141](ktl19.htm#page_141.md)
 
-resurrection, [197](#page_197); of body, importance of,
-[21](ktl05.htm#page_21); of "damnation," [98](ktl15.htm#page_98); of
-Jesus in us, [13](ktl03.htm#page_13); not confined to Jesus,
-[151](#page_151)
+resurrection, [197](#page_197.md); of body, importance of,
+[21](ktl05.htm#page_21); of "damnation," [98](ktl15.htm#page_98.md); of
+Jesus in us, [13](ktl03.htm#page_13.md); not confined to Jesus,
+[151](#page_151.md)
 
-Sabbath, [171](#page_171); as institution, [171](#page_171); made for
-man, [172](#page_172)
+Sabbath, [171](#page_171); as institution, [171](#page_171.md); made for
+man, [172](#page_172.md)
 
-sacrament, [167](#page_167)
+sacrament, [167](#page_167.md)
 
-sacrifice, privilege of, [95](ktl15.htm#page_95)
+sacrifice, privilege of, [95](ktl15.htm#page_95.md)
 
-salvation, dependent on consciousness, [115](ktl17.htm#page_115);
-mystery of, clarified, [134](ktl19.htm#page_134); not yet fully
-understood, [127](ktl18.htm#page_127); of all men,
-[93](ktl14.htm#page_93); of world, [67](ktl11.htm#page_67)
+salvation, dependent on consciousness, [115](ktl17.htm#page_115.md);
+mystery of, clarified, [134](ktl19.htm#page_134.md); not yet fully
+understood, [127](ktl18.htm#page_127.md); of all men,
+[93](ktl14.htm#page_93); of world, [67](ktl11.htm#page_67.md)
 
-Satan, [131](ktl19.htm#page_131)
+Satan, [131](ktl19.htm#page_131.md)
 
-security, [33](ktl07.htm#page_33)
+security, [33](ktl07.htm#page_33.md)
 
-self, denial of, [53](ktl09.htm#page_53), [145](ktl19.htm#page_145)
+self, denial of, [53](ktl09.htm#page_53), [145](ktl19.htm#page_145.md)
 
-self-control, [182](#page_182)
+self-control, [182](#page_182.md)
 
-selfhood, [55](ktl10.htm#page_55)
+selfhood, [55](ktl10.htm#page_55.md)
 
-selflessness, day of, [52](ktl09.htm#page_52)
+selflessness, day of, [52](ktl09.htm#page_52.md)
 
-sense, center of will, [62](ktl10.htm#page_62); delusions of,
-[27](ktl06.htm#page_27), [61](ktl10.htm#page_61),
-[114](ktl17.htm#page_114); gratification of, [50](ktl09.htm#page_50);
-surrender to, [32](ktl07.htm#page_32); transmutation of,
-[196](#page_196); when began to rule, [130](ktl19.htm#page_130)
+sense, center of will, [62](ktl10.htm#page_62.md); delusions of,
+[27](ktl06.htm#page_27), [61](ktl10.htm#page_61.md),
+[114](ktl17.htm#page_114); gratification of, [50](ktl09.htm#page_50.md);
+surrender to, [32](ktl07.htm#page_32.md); transmutation of,
+[196](#page_196); when began to rule, [130](ktl19.htm#page_130.md)
 
-Shakespeare, [40](ktl08.htm#page_40), [175](#page_175)
+Shakespeare, [40](ktl08.htm#page_40), [175](#page_175.md)
 
-sickness, cause of, [19](ktl04.htm#page_19)
+sickness, cause of, [19](ktl04.htm#page_19.md)
 
-silence, [10](ktl03.htm#page_10), [16](ktl04.htm#page_16),
-[170](#page_170)
+silence, [10](ktl03.htm#page_10), [16](ktl04.htm#page_16.md),
+[170](#page_170.md)
 
-sin, [160](#page_160)
+sin, [160](#page_160.md)
 
-Son of God, [14](ktl03.htm#page_14), [114](ktl17.htm#page_114),
-[115](ktl17.htm#page_115)
+Son of God, [14](ktl03.htm#page_14), [114](ktl17.htm#page_114.md),
+[115](ktl17.htm#page_115.md)
 
-Son of man, [114](ktl17.htm#page_114)
+Son of man, [114](ktl17.htm#page_114.md)
 
-Spirit, as dominating mind force, [9](ktl02.htm#page_9); as guide
-(conscience), [44](ktl09.htm#page_44); as leveler,
-[43](ktl08.htm#page_43); frees from delusions, [66](ktl11.htm#page_66);
-light of, [67](ktl11.htm#page_67); of wisdom, [12](ktl03.htm#page_12);
-oneness with, [11](ktl03.htm#page_11), [18](ktl04.htm#page_18);
-prerogative to know future, [46](ktl09.htm#page_46); science of,
-[42](ktl08.htm#page_42) spiritual center, in man,
-[115](ktl17.htm#page_115)
+Spirit, as dominating mind force, [9](ktl02.htm#page_9.md); as guide
+(conscience), [44](ktl09.htm#page_44.md); as leveler,
+[43](ktl08.htm#page_43); frees from delusions, [66](ktl11.htm#page_66.md);
+light of, [67](ktl11.htm#page_67); of wisdom, [12](ktl03.htm#page_12.md);
+oneness with, [11](ktl03.htm#page_11), [18](ktl04.htm#page_18.md);
+prerogative to know future, [46](ktl09.htm#page_46.md); science of,
+[42](ktl08.htm#page_42.md) spiritual center, in man,
+[115](ktl17.htm#page_115.md)
 
-spiritual energy, [125](ktl18.htm#page_125)
+spiritual energy, [125](ktl18.htm#page_125.md)
 
-spiritual history, of man, [79](ktl13.htm#page_79)
+spiritual history, of man, [79](ktl13.htm#page_79.md)
 
-strength, [149](#page_149)
+strength, [149](#page_149.md)
 
-substance, mental, drawn from Christ, [110](ktl16.htm#page_110);
-nucleated by idea, [170](#page_170); part of God substance,
-[84](ktl13.htm#page_84); represented by money,
-[106](ktl16.htm#page_106); sensitive to man's thoughts,
-[102](ktl16.htm#page_102)
+substance, mental, drawn from Christ, [110](ktl16.htm#page_110.md);
+nucleated by idea, [170](#page_170.md); part of God substance,
+[84](ktl13.htm#page_84.md); represented by money,
+[106](ktl16.htm#page_106.md); sensitive to man's thoughts,
+[102](ktl16.htm#page_102.md)
 
 substance, physical, part of God
 
-substance, [84](ktl13.htm#page_84); waste of, [163](#page_163)
+substance, [84](ktl13.htm#page_84); waste of, [163](#page_163.md)
 
-substance, spiritual, [11](ktl03.htm#page_11), [14](ktl03.htm#page_14),
-[184](#page_184); everywhere present, [126](ktl18.htm#page_126); race
-starving for, [133](ktl19.htm#page_133); represented by Garden of Eden,
-[147](ktl19.htm#page_147); source of incorruptible body,
-[95](ktl15.htm#page_95)
+substance, spiritual, [11](ktl03.htm#page_11), [14](ktl03.htm#page_14.md),
+[184](#page_184); everywhere present, [126](ktl18.htm#page_126.md); race
+starving for, [133](ktl19.htm#page_133.md); represented by Garden of Eden,
+[147](ktl19.htm#page_147.md); source of incorruptible body,
+[95](ktl15.htm#page_95.md)
 
-superiority, false thought of, [33](ktl07.htm#page_33),
-[66](ktl11.htm#page_66)
+superiority, false thought of, [33](ktl07.htm#page_33.md),
+[66](ktl11.htm#page_66.md)
 
 talents, hindrances to expresssion
 
 <span id="page_ix">p. ix</span>
 
-of, [112](ktl17.htm#page_112)
+of, [112](ktl17.htm#page_112.md)
 
-talk, [47](ktl09.htm#page_47)
+talk, [47](ktl09.htm#page_47.md)
 
-temptation, [134](ktl19.htm#page_134)
+temptation, [134](ktl19.htm#page_134.md)
 
-Tennyson, [144](ktl19.htm#page_144)
+Tennyson, [144](ktl19.htm#page_144.md)
 
-thinking, [191](#page_191)
+thinking, [191](#page_191.md)
 
-thought(s), about money, [102](ktl16.htm#page_102); as greatest gift of
-God to man, [147](ktl19.htm#page_147); as working power of mind,
-[64](ktl11.htm#page_64); control of, [74](ktl12.htm#page_74),
-[77](ktl12.htm#page_77), [116](ktl17.htm#page_116), [153](#page_153);
-silent power of, [170](#page_170); thinking faculty in the head,
-[113](ktl17.htm#page_113); waves of, [175](#page_175)
+thought(s), about money, [102](ktl16.htm#page_102.md); as greatest gift of
+God to man, [147](ktl19.htm#page_147.md); as working power of mind,
+[64](ktl11.htm#page_64); control of, [74](ktl12.htm#page_74.md),
+[77](ktl12.htm#page_77), [116](ktl17.htm#page_116), [153](#page_153.md);
+silent power of, [170](#page_170.md); thinking faculty in the head,
+[113](ktl17.htm#page_113); waves of, [175](#page_175.md)
 
-throat, center of power, [153](#page_153)
+throat, center of power, [153](#page_153.md)
 
-tithing, [84](ktl13.htm#page_84), [104](ktl16.htm#page_104)
+tithing, [84](ktl13.htm#page_84), [104](ktl16.htm#page_104.md)
 
-transfiguration, [186](#page_186)
+transfiguration, [186](#page_186.md)
 
-transmutation, [187](#page_187)
+transmutation, [187](#page_187.md)
 
-tree of knowledge, [73](ktl12.htm#page_73)
+tree of knowledge, [73](ktl12.htm#page_73.md)
 
-Truth, as leaven, [196](#page_196); discerned by judgment faculty,
-[182](#page_182); dissolving error, [12](ktl03.htm#page_12),
-[66](ktl11.htm#page_66); established in consciousness through
-affirmations, [143](ktl19.htm#page_143); man cut away from,
-[114](ktl17.htm#page_114);
+Truth, as leaven, [196](#page_196.md); discerned by judgment faculty,
+[182](#page_182); dissolving error, [12](ktl03.htm#page_12.md),
+[66](ktl11.htm#page_66.md); established in consciousness through
+affirmations, [143](ktl19.htm#page_143.md); man cut away from,
+[114](ktl17.htm#page_114.md);
 
-meditation on, [12](ktl03.htm#page_12); of Being,
-[125](ktl18.htm#page_125); worked into body through thought,
-[125](ktl18.htm#page_125)
+meditation on, [12](ktl03.htm#page_12.md); of Being,
+[125](ktl18.htm#page_125.md); worked into body through thought,
+[125](ktl18.htm#page_125.md)
 
-twelve powers of Christ, [113](ktl17.htm#page_113)
+twelve powers of Christ, [113](ktl17.htm#page_113.md)
 
 typewriting, use of subconscious mind in learning,
-[90](ktl14.htm#page_90)
+[90](ktl14.htm#page_90.md)
 
-understanding, [155](#page_155); first requisite for patience,
-[181](#page_181); fruit of Spirit's inspiration and knowledge,
-[157](#page_157); light of, [127](ktl18.htm#page_127); two ways to get,
-[45](ktl09.htm#page_45)
+understanding, [155](#page_155.md); first requisite for patience,
+[181](#page_181.md); fruit of Spirit's inspiration and knowledge,
+[157](#page_157); light of, [127](ktl18.htm#page_127.md); two ways to get,
+[45](ktl09.htm#page_45.md)
 
-unfoldment, [171](#page_171)
+unfoldment, [171](#page_171.md)
 
-unity, idea of, [151](#page_151); with the Father,
-[27](ktl06.htm#page_27), [29](ktl06.htm#page_29)
+unity, idea of, [151](#page_151.md); with the Father,
+[27](ktl06.htm#page_27), [29](ktl06.htm#page_29.md)
 
-universal man, [110](ktl16.htm#page_110)
+universal man, [110](ktl16.htm#page_110.md)
 
-universe, existed billions of years in past, [130](ktl19.htm#page_130);
-nature of, [158](#page_158)
+universe, existed billions of years in past, [130](ktl19.htm#page_130.md);
+nature of, [158](#page_158.md)
 
-unknown God, altar to, [146](ktl19.htm#page_146)
+unknown God, altar to, [146](ktl19.htm#page_146.md)
 
-Vanderbilt, [47](ktl09.htm#page_47)
+Vanderbilt, [47](ktl09.htm#page_47.md)
 
-vibrations, [38](ktl08.htm#page_38), [65](ktl11.htm#page_65)
+vibrations, [38](ktl08.htm#page_38), [65](ktl11.htm#page_65.md)
 
-visions, [155](#page_155)
+visions, [155](#page_155.md)
 
-voice, [74](ktl12.htm#page_74), [153](#page_153)
+voice, [74](ktl12.htm#page_74), [153](#page_153.md)
 
-Voltaire, [24](ktl05.htm#page_24)
+Voltaire, [24](ktl05.htm#page_24.md)
 
-water of life, [124](ktl18.htm#page_124)
+water of life, [124](ktl18.htm#page_124.md)
 
-weakness, cause of, [19](ktl04.htm#page_19); denial of, [150](#page_150)
+weakness, cause of, [19](ktl04.htm#page_19); denial of, [150](#page_150.md)
 
-will, [156](#page_156); difference between seeming and pure,
-[62](ktl10.htm#page_62); domineering, symbolized in Herod,
-[50](ktl09.htm#page_50); executive power of mind, [156](#page_156),
-[194](#page_194); freedom of, [29](ktl06.htm#page_29),
-[55](ktl10.htm#page_55); highest aspect of, [145](ktl19.htm#page_145);
-man, the will of Christ, [110](ktl16.htm#page_110)
+will, [156](#page_156.md); difference between seeming and pure,
+[62](ktl10.htm#page_62.md); domineering, symbolized in Herod,
+[50](ktl09.htm#page_50); executive power of mind, [156](#page_156.md),
+[194](#page_194); freedom of, [29](ktl06.htm#page_29.md),
+[55](ktl10.htm#page_55); highest aspect of, [145](ktl19.htm#page_145.md);
+man, the will of Christ, [110](ktl16.htm#page_110.md)
 
-wine, [43](ktl08.htm#page_43)
+wine, [43](ktl08.htm#page_43.md)
 
-wisdom, [57](ktl10.htm#page_57), [150](#page_150)
+wisdom, [57](ktl10.htm#page_57), [150](#page_150.md)
 
-word, as creative agency, [36](ktl07.htm#page_36); as creative idea in
-Divine Mind, [10](ktl03.htm#page_10); as second in Trinity,
-[15](ktl04.htm#page_15); how to keep, [10](ktl03.htm#page_10); man
-judged by, [75](ktl12.htm#page_75); of Christ, [12](ktl03.htm#page_12);
-of God, as revelation to man, [15](ktl04.htm#page_15); power of,
-[71](ktl11.htm#page_71); power to bring health, [174](#page_174);
-relation to ideas, [49](ktl09.htm#page_49), [154](#page_154); working
-power of God, [15](ktl04.htm#page_15), [17](ktl04.htm#page_17),
-[142](ktl19.htm#page_142)
+word, as creative agency, [36](ktl07.htm#page_36.md); as creative idea in
+Divine Mind, [10](ktl03.htm#page_10.md); as second in Trinity,
+[15](ktl04.htm#page_15); how to keep, [10](ktl03.htm#page_10.md); man
+judged by, [75](ktl12.htm#page_75); of Christ, [12](ktl03.htm#page_12.md);
+of God, as revelation to man, [15](ktl04.htm#page_15.md); power of,
+[71](ktl11.htm#page_71); power to bring health, [174](#page_174.md);
+relation to ideas, [49](ktl09.htm#page_49), [154](#page_154.md); working
+power of God, [15](ktl04.htm#page_15), [17](ktl04.htm#page_17.md),
+[142](ktl19.htm#page_142.md)
 
-work, [107](ktl16.htm#page_107)
+work, [107](ktl16.htm#page_107.md)
 
-world, visible and invisible, [102](ktl16.htm#page_102)
+world, visible and invisible, [102](ktl16.htm#page_102.md)
 
-worldly fortune, [44](ktl09.htm#page_44)
+worldly fortune, [44](ktl09.htm#page_44.md)
 
-Yeve, Hebrew word, [111](ktl17.htm#page_111)
+Yeve, Hebrew word, [111](ktl17.htm#page_111.md)
 
-youth, renewal of, [13](ktl03.htm#page_13), [70](ktl11.htm#page_70),
-[163](#page_163)
+youth, renewal of, [13](ktl03.htm#page_13), [70](ktl11.htm#page_70.md),
+[163](#page_163.md)
 
-zeal, [159](#page_159)
+zeal, [159](#page_159.md)
 
 <span id="page_207">p. 207</span>
 
@@ -2653,4 +2653,4 @@ zeal, [159](#page_159)
 
 ------------------------------------------------------------------------
 
-[Next: The Unity Lenten Guide](ktl21)
+[Next: The Unity Lenten Guide](ktl21.md)

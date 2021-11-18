@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont25)  [Next](ont27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont25)  [Next](ont27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -39,7 +39,7 @@ the Sun-lodge. On the morning of the fifth day they walked slowly
 through camp, dancing and blowing their medicine whistles as a signal to
 the tribe that they were proceeding to the Sun-lodge.
 
-Bull Child wore a robe, <span id="fr_34"></span>[1](#fn_30) famous among
+Bull Child wore a robe, <span id="fr_34"></span>[1](#fn_30.md) famous among
 the Blackfeet, and purchased by him from "Brings-down-the-Sun," a
 celebrated medicine man of the north. Many bird and animal tails were
 attached, including those of the eagle, owl, weasel, mink and gopher. It
@@ -50,7 +50,7 @@ represent the
 
 <span id="img_31200"></span> <span align="CENTER"> [![BLACKFEET CAMP IN
 MOONLIGHT](tn/31200.jpg)  
-Click to enlarge](img/31200.jpg)  
+Click to enlarge](img/31200.jpg.md)  
 BLACKFEET CAMP IN MOONLIGHT  
 </span>
 
@@ -108,7 +108,7 @@ bar inquisitive eyes from the outside. The
 
 <span id="img_31400"></span> <span align="CENTER"> [![THE
 SUN-LODGE.](tn/31400.jpg)  
-Click to enlarge](img/31400.jpg)  
+Click to enlarge](img/31400.jpg.md)  
 THE SUN-LODGE.  
 </span>
 
@@ -132,7 +132,7 @@ within to withdraw. Seats were reserved for the lodge-giver with
 
 <span id="img_31500"></span> <span align="CENTER"> [![THE THREE MEDICINE
 MEN IN THEIR BOOTH.](tn/31500.jpg)  
-Click to enlarge](img/31500.jpg)  
+Click to enlarge](img/31500.jpg.md)  
 THE THREE MEDICINE MEN IN THEIR BOOTH.  
 </span>
 
@@ -200,7 +200,7 @@ buried it in the
 
 <span id="img_31700"></span> <span align="CENTER"> [![MEDICINE MAN
 PRAYING FOR BIG BEAVER AND HIS FAMILY.](tn/31700.jpg)  
-Click to enlarge](img/31700.jpg)  
+Click to enlarge](img/31700.jpg.md)  
 MEDICINE MAN PRAYING FOR BIG BEAVER AND HIS FAMILY.  
 </span>
 
@@ -320,7 +320,7 @@ medicine belt to keep his body free from sickness. In one hand he
 
 <span id="img_32100"></span> <span align="CENTER"> [![A MEDICINE MAN
 MAKING INCANTATIONS TO DRIVE AWAY A STORM.](tn/32100.jpg)  
-Click to enlarge](img/32100.jpg)  
+Click to enlarge](img/32100.jpg.md)  
 A MEDICINE MAN MAKING INCANTATIONS TO DRIVE AWAY A STORM.  
 </span>
 
@@ -392,7 +392,7 @@ recent encampment, watching them as they slowly
 
 <span id="img_32300"></span> <span align="CENTER"> [![MAD WOLF WITH His
 BAND DEPARTING FOR THE NORTH.](tn/32300.jpg)  
-Click to enlarge](img/32300.jpg)  
+Click to enlarge](img/32300.jpg.md)  
 MAD WOLF WITH His BAND DEPARTING FOR THE NORTH.  
 </span>
 
@@ -440,9 +440,9 @@ spirits of many generations of the Blackfeet dead.
 
 ### Footnotes
 
-<span id="fn_30"></span>[312:1](ont26.htm#fr_34) See
-[Appendix](ont44.htm#an_312).
+<span id="fn_30"></span>[312:1](ont26.htm#fr_34.md) See
+[Appendix](ont44.htm#an_312.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV. Along the Old North Trail](ont27)
+[Next: Chapter XXIV. Along the Old North Trail](ont27.md)

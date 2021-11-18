@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft08)  [Next](sfft10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft08)  [Next](sfft10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE TEMPTED LADY. <span id="fr_29"></span>[2](#fn_29)
+### THE TEMPTED LADY. <span id="fr_29"></span>[2](#fn_29.md)
 
 "Noo, lasses, ye should never be owre proud; for ye see there was ance a
 leddy, and she was aye fond o' being brawer than other folk; so she gaed
@@ -27,7 +27,7 @@ but he keepit them out o' sight. So he began to make love to the young
 leddy:--
 
 'I'll gie you a pennyworth o' preens, <span
-id="fr_30"></span>[3](#fn_30)  
+id="fr_30"></span>[3](#fn_30.md)  
 That's aye the way that love begins;  
 If ye'll walk with me, leddy, leddy,  
 If ye'll walk with me, leddy.'
@@ -100,11 +100,11 @@ And I will walk with you."
 
 ### Footnotes
 
-<span id="fn_29"></span>[79:2](sfft09.htm#fr_29) Chambers, *Popular
+<span id="fn_29"></span>[79:2](sfft09.htm#fr_29.md) Chambers, *Popular
 Rhymes of Scotland*.
 
-<span id="fn_30"></span>[79:3](sfft09.htm#fr_30) Pins.
+<span id="fn_30"></span>[79:3](sfft09.htm#fr_30.md) Pins.
 
 ------------------------------------------------------------------------
 
-[Next: The Fause Knight and the Wee Boy](sfft10)
+[Next: The Fause Knight and the Wee Boy](sfft10.md)

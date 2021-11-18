@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](aof05)  [Next](aof07) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](aof05)  [Next](aof07.md) 
 
 ------------------------------------------------------------------------
 
@@ -318,7 +318,7 @@ vain thoughts are mutually helpful to one another and inseparable. If
 both are not practised, one cannot then enter on the way of wisdom.
 
 4\. Next consider those who begin to learn the five methods of this
-chapter, [p. 81](#page_81), and desire to get right faith, but are timid
+chapter, [p. 81](#page_81.md), and desire to get right faith, but are timid
 and weak. As they live in this world of extreme suffering, they fear
 they cannot constantly approach God (Buddha) and personally contribute
 to His service. Thus they fear they cannot attain to this perfect faith,
@@ -340,4 +340,4 @@ true wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: 5: The Advantages of the Practice of the Mahayana Faith](aof07)
+[Next: 5: The Advantages of the Practice of the Mahayana Faith](aof07.md)

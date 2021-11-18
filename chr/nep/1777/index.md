@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [New England Primer (ca. 1820)](../index)
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [New England Primer (ca. 1820)](../index.md)
 
 ------------------------------------------------------------------------
 

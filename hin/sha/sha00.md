@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](sha01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](sha01.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ copies.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sha01)
+[Next: Contents](sha01.md)

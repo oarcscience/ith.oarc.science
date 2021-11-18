@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa16)  [Next](smoa18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa16)  [Next](smoa18.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 *Origin of the Mongolian race. Kling, from Atlantis, tempted*.
 
 Atlantis held no kings who warred upon the land thou names, <span
-id="fr_10"></span>[\*](#fn_10) for they were wise and as allies held the
+id="fr_10"></span>[\*](#fn_10.md) for they were wise and as allies held the
 people near and far nor yet desired war where peace could give all that
 they asked.
 
@@ -312,7 +312,7 @@ Marked were they by the hand of isolation. Strong the will still binding
 to the country left afar. A people chosen for their stolid worth to
 self. A chosen race to hold tradition strong and mark in time the
 history of the world. His race that lives today! <span
-id="fr_11"></span>[\*](#fn_11)
+id="fr_11"></span>[\*](#fn_11.md)
 
 There stored, the forming of a government made plain. The law of Life—of
 Death—the full, deep thought born of communion with the unseen world
@@ -346,11 +346,11 @@ become a star of destiny to nations that have scoffed at thee.
 
 ### Footnotes
 
-<span id="fn_10"></span>[110:\*](smoa17.htm#fr_10) Mongolia.
+<span id="fn_10"></span>[110:\*](smoa17.htm#fr_10.md) Mongolia.
 
-<span id="fn_11"></span>[118:\*](smoa17.htm#fr_11) Chinese.
+<span id="fn_11"></span>[118:\*](smoa17.htm#fr_11.md) Chinese.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVI. The first Mongolian city. Mention of
-Yucatan](smoa18)
+Yucatan](smoa18.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof08)  [Next](otof10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof08)  [Next](otof10.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ facts to remain
 
 [![About eleven miles from Desert Center, Calif. toward Parker, Ariz. L.
 McGinnis, L., Geo. Adamski, R.](tn/09600.jpg)  
-Click to enlarge](img/09600.jpg)  
+Click to enlarge](img/09600.jpg.md)  
 About eleven miles from Desert Center, Calif. toward Parker, Ariz. L.
 McGinnis, L., Geo. Adamski, R.  
 
@@ -68,7 +68,7 @@ friends want. They made those footprints in order to arouse curiosity,
 
 [![Geo. Adamski standing where Saucer had hovered. Only a few feet from
 footprints.](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)  
+Click to enlarge](img/09700.jpg.md)  
 Geo. Adamski standing where Saucer had hovered. Only a few feet from
 footprints.  
 
@@ -101,7 +101,7 @@ planets and respective satellites.
 
 [![The author (far right) making the plaster casts. Mrs. Williamson,
 Bailey, McGinnis, Wells (L to R).](tn/09800.jpg)  
-Click to enlarge](img/09800.jpg)  
+Click to enlarge](img/09800.jpg.md)  
 The author (far right) making the plaster casts. Mrs. Williamson,
 Bailey, McGinnis, Wells (L to R).  
 
@@ -113,7 +113,7 @@ Bailey, McGinnis, Wells (L to R).
 
 [![Left Footprint. Arrow points to toe of track. (Compare with Plate
 IV.)](tn/09900.jpg)  
-Click to enlarge](img/09900.jpg)  
+Click to enlarge](img/09900.jpg.md)  
 Left Footprint. Arrow points to toe of track. (Compare with Plate IV.)  
 
 How else could it be done?
@@ -146,7 +146,7 @@ were observed on the ground are exactly the reverse (direction) of the
 
 [![Right Footprint. Arrow points to toe of track. (Compare with Plate
 VI.)](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 Right Footprint. Arrow points to toe of track. (Compare with Plate
 VI.)  
 
@@ -187,7 +187,7 @@ the pouring of the plaster) a partial reconstruction of the original
 <span id="img_pl04"></span>
 
 [![PLATE IV. Left Footprint](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 PLATE IV. Left Footprint  
 
  
@@ -204,12 +204,12 @@ same conclusions as I have.
 
 I took several photographs of the events on November 20, 1952. Five of
 these photographs are re-produced in this book. (See Plate III, Fig.
-1-5, pp. [96](#page_96)).
+1-5, pp. [96](#page_96).md).
 
 From the impression left by the LEFT FOOT, we get the following
 interpretation:
 
-A. The LEFT footprint (See [Plate IV](#img_pl04)), taken as a total,
+A. The LEFT footprint (See [Plate IV](#img_pl04).md), taken as a total,
 represents things Spiritual and Cause.
 
 B. In reading the footprint, we read from *heel* to *toe*; for when
@@ -294,7 +294,7 @@ have come to the Earth
 <span id="img_pl05"></span>
 
 [![PLATE V. Left Footprint](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 PLATE V. Left Footprint  
 
  
@@ -311,7 +311,7 @@ built-up layer was superimposed on the flat sole of the original shoe.
 Since this section was added to the bottom of the shoe it must mean that
 we are only to consider that part and omit the general outline and shape
 of the foot itself. When we do this we immediately recognize the outline
-of a fish. (See [Plate V](#img_pl05)).
+of a fish. (See [Plate V](#img_pl05).md).
 
 In the LEFT footprint, that which appears to be the eye of a fish, is
 also a geometrical figure known as *Vesica Piscis*. It is a rough
@@ -538,7 +538,7 @@ for the fish is trampled underfoot!
 From the impression left by the RIGHT FOOT, we get the following
 interpretation:
 
-A. The RIGHT [footprint](errata.htm#13) (See [Plate VI](#img_pl06)),
+A. The RIGHT [footprint](errata.htm#13) (See [Plate VI](#img_pl06).md),
 taken as a total represents things Material and Effect.
 
 B. In reading the footprint, we read from *heel* to *toe*; for when
@@ -570,7 +570,7 @@ therein. They . . . the Four Great Builders, the
 <span id="img_pl06"></span>
 
 [![Plate VI. Right Footprint](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 Plate VI. Right Footprint  
 
  
@@ -594,7 +594,7 @@ forces through it is destroyed. The ancients used the flow, they did not
 destroy it. This power is the Will and Command of the Infinite. The
 esoteric or hidden meaning of the swastika was known by the priesthood
 and this meaning was not communicated to the layman. (See  Plate XVII"
-[p. 253](otof13.htm#page_253)). The swastika is an ancient sign in India
+[p. 253](otof13.htm#page_253).md). The swastika is an ancient sign in India
 and is sacred for it was one of the body marks of the Lord Buddha and
 has a solemn meaning among both Brahmans and Buddhists. The swastika has
 been said to resemble the apparatus used prehistorically to make fire
@@ -701,7 +701,7 @@ December and East of the pole in late February." Taking this description
 of the Great Bear Constellation into consideration we find we have a
 definite swastika design that is, by drawing, a clockwise swastika.
 However, it moves counter-clockwise around the pole star. (See [Plate
-VII](#img_pl07), Fig. 1). So it
+VII](#img_pl07), Fig. 1.md). So it
 
 <span id="page_122">p. 122</span>
 
@@ -710,7 +710,7 @@ VII](#img_pl07), Fig. 1). So it
 <span id="img_pl07"></span>
 
 [![Plate VII](tn/pl07.jpg)  
-Click to enlarge](img/pl07.jpg)  
+Click to enlarge](img/pl07.jpg.md)  
 Plate VII  
 
  
@@ -772,7 +772,7 @@ Saucers and their respective pilots or occupants.
 
 However, this is discussed in detail in this book under *The Prophets*
 in the section called: *Other Flesh*. We see in Ezekiel 1:10: "As for
-the likeness of their faces, the [cherubim](errata.htm#14), they had the
+the likeness of their faces, the [cherubim](errata.htm#14.md), they had the
 face of a man; and they four had the face of a lion on the right side;
 and they four had also the face of an ox (bull) on the left side; they
 four also had the face of an eagle." In Revelation 4:6-7, we read: "And
@@ -801,32 +801,32 @@ Taurus (the Bull).
 <span id="img_pl08"></span>
 
 [![Plate VIII. Fig. 1: Aquarius. Fig. 2: Taurus](tn/pl08.jpg)  
-Click to enlarge](img/pl08.jpg)  
+Click to enlarge](img/pl08.jpg.md)  
 Plate VIII. Fig. 1: Aquarius. Fig. 2: Taurus  
 
  
 
 <span id="page_127">p. 127</span>
 
-\[paragraph continues\] (See [Plate VIII](#img_pl08), Fig. 2). In the
+\[paragraph continues\] (See [Plate VIII](#img_pl08), Fig. 2.md). In the
 lower right hand section we see: <span id="img_12700"></span>
 ![](img/12700.jpg) This symbol closely resembles the star grouping in
-the constellation of Leo (the Lion). (See [Plate IX](#img_pl09), Fig.
+the constellation of Leo (the Lion). (See [Plate IX](#img_pl09.md), Fig.
 1). In the lower left hand section we see: <span id="img_12701"></span>
 ![](img/12701.jpg) This symbol closely resembles the fishhook-shape of
-the star group in Scorpio (the Eagle). (See [Plate IX](#img_pl09), Fig.
+the star group in Scorpio (the Eagle). (See [Plate IX](#img_pl09.md), Fig.
 2). In the upper left hand section we see: <span id="img_12700"></span>
 ![](img/12700.jpg) This symbol resembles the main star grouping in
-Aquarius (the Man). (See [Plate VIII](#img_pl08), Fig. 1). Therefore, we
+Aquarius (the Man). (See [Plate VIII](#img_pl08), Fig. 1.md). Therefore, we
 can see why the four symbols have been drawn between the four arms of
 the swastika instead of at the four points. It is because now these four
 constellations of the Zodiac have slipped into a more Easterly
 direction. So, the swastika in the *heel* is definitely the Universal
 Time Piece or Clock. Its position indicates where those constellations
-are *today*. The diagram on [Plate X](#img_pl10), Fig. 1 shows the four
+are *today*. The diagram on [Plate X](#img_pl10.md), Fig. 1 shows the four
 symbols from the heel representing the four constellations and their
 relative positions five-thousand years ago. The drawing on the *heel*
-itself shows their relative positions today. (See [Plate X](#img_pl10),
+itself shows their relative positions today. (See [Plate X](#img_pl10.md),
 Fig. 2). We can see that the four arms of the swastika have moved
 clockwise
 
@@ -837,7 +837,7 @@ clockwise
 <span id="img_pl09"></span>
 
 [![PLATE IX. Fig. 1. Leo. Fig. 2. Scorpio](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 PLATE IX. Fig. 1. Leo. Fig. 2. Scorpio  
 
  
@@ -849,7 +849,7 @@ PLATE IX. Fig. 1. Leo. Fig. 2. Scorpio
 <span id="img_pl10"></span>
 
 [![PLATE X.](tn/pl10.jpg)  
-Click to enlarge](img/pl10.jpg)  
+Click to enlarge](img/pl10.jpg.md)  
 PLATE X.  
 
  
@@ -860,8 +860,8 @@ in an Easterly direction. When thinking of the swastika as the Universal
 Clock, the center of it represents the pole star Polaris; when thinking
 of it as pointing to the four constellations and showing their present
 position, the center represents the Sun. By looking at [Plate
-XI](#img_pl11), and moving the swastika arms sixty degrees to the East
-(Right) one can readily see the meaning of [Plate X](#img_pl10).
+XI](#img_pl11.md), and moving the swastika arms sixty degrees to the East
+(Right) one can readily see the meaning of [Plate X](#img_pl10.md).
 Therefore, our space
 
  
@@ -869,7 +869,7 @@ Therefore, our space
 <span id="img_pl11"></span>
 
 [![PLATE XI](tn/pl11.jpg)  
-Click to enlarge](img/pl11.jpg)  
+Click to enlarge](img/pl11.jpg.md)  
 PLATE XI  
 
  
@@ -898,7 +898,7 @@ Mexico. From the idea of a clock we immediately think of the passage of
 time or of past events or cataclysms that have transpired on Earth. So,
 the four could also stand for these past Ages. The fact that they are
 passed Ages is shown by the arms of the swastika being moved in a
-Easterly direction. It [also](errata.htm#15) seems that the symbols of
+Easterly direction. It [also](errata.htm#15.md) seems that the symbols of
 the Bull, Eagle, Lion and Man were used (or
 
 <span id="page_132">p. 132</span>
@@ -1256,12 +1256,12 @@ the Sun, Motherland of the
 <span id="page_145">p. 145</span>
 
 human race on the planet Earth, lies beneath the waters. She is also
-called Kui, Pan, or Lemuria. (See [Plate IV](#img_pl04)).
+called Kui, Pan, or Lemuria. (See [Plate IV](#img_pl04).md).
 
 <span id="img_14500"></span>
 
 [![](tn/14500.jpg)  
-Click to enlarge](img/14500.jpg)
+Click to enlarge](img/14500.jpg.md)
 
 A. Closed lotus means Mu no longer exists. The fish represents sunken Mu
 and is, as mentioned before, the symbol of the Piscean Age. Mu will
@@ -1289,7 +1289,7 @@ to the *One*.
 <span id="img_14600"></span>
 
 [![](tn/14600.jpg)  
-Click to enlarge](img/14600.jpg)
+Click to enlarge](img/14600.jpg.md)
 
 B. The lotus flower, the floral symbol of Mu. The lotus was the first
 flower to appear on Earth.
@@ -1323,12 +1323,12 @@ region of the Southern Cross.
 The RIGHT footprint stands for the *new continent* of Mu. The New
 Heavens and the New Earth, the New Golden Dawn or Age, the Aquarian or
 Air Age; the New Mu will emerge from the Pacific Ocean. (See [Plate
-VI](#img_pl06)).
+VI](#img_pl06).md).
 
 <span id="img_14700"></span>
 
 [![](tn/14700.jpg)  
-Click to enlarge](img/14700.jpg)
+Click to enlarge](img/14700.jpg.md)
 
 C. The Four Great Primary Forces of Infinite Spirit are continually
 active in the Universe.
@@ -1357,10 +1357,10 @@ received took the form of a crudely drawn *human face*!
 <span id="img_14800"></span>
 
 [![](tn/14800.jpg)  
-Click to enlarge](img/14800.jpg)
+Click to enlarge](img/14800.jpg.md)
 
 D. The new, resurrected continent of Mu, brought up through cataclysmic
-changes in the [Pacific](errata.htm#16).
+changes in the [Pacific](errata.htm#16.md).
 
 1\. All comes from the Great Totality, the One. All in the New Age will
 be according to the
@@ -1428,4 +1428,4 @@ ancient prophecy, brought to us by OTHER TONGUES!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3: Maldek and Malona](otof10)
+[Next: Chapter 3: Maldek and Malona](otof10.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl015)  [Next](cohl017) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl015)  [Next](cohl017.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ poisons in little bundles named Gawênnodûs'hä
 <span id="page_30">p. 30</span>
 
 \[paragraph continues\] (compelling charms <span
-id="fr_26"></span>[1](#fn_26)). Now the Creator who made us commands
+id="fr_26"></span>[1](#fn_26).md). Now the Creator who made us commands
 that they who do this evil, when they hear this message, must stop it
 immediately and do it nevermore while they live upon this earth-world.
 It matters not how much destruction they have wrought--let them repent
@@ -27,7 +27,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_26"></span>[30:1](cohl016.htm#fr_26) Charms. Should a
+<span id="fn_26"></span>[30:1](cohl016.htm#fr_26.md) Charms. Should a
 person die holding a secret, one may discover it by sleeping upon the
 ground with a handful of the grave dirt beneath his head. Then, *if all
 conditions are perfect*, the dead person will appear in three successive
@@ -50,4 +50,4 @@ nia?gwahe:.
 
 ------------------------------------------------------------------------
 
-[Next: Section 4](cohl017)
+[Next: Section 4](cohl017.md)

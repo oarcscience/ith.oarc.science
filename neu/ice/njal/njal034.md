@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal033)  [Next](njal035) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal033)  [Next](njal035.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ good housewife.
 
 ------------------------------------------------------------------------
 
-[Next: 35. The Visit To Bergthorsknoll](njal035)
+[Next: 35. The Visit To Bergthorsknoll](njal035.md)

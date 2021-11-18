@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe160)  [Next](prwe162) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe160)  [Next](prwe162.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ J*.* Powell end Eirekur
 
 ------------------------------------------------------------------------
 
-[Next: King Arthur in the Form of a Chough](prwe162)
+[Next: King Arthur in the Form of a Chough](prwe162.md)

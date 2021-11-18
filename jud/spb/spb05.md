@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb04)  [Next](spb06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb04)  [Next](spb06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -507,7 +507,7 @@ the command of my Creator, who hath commanded us to lay the Tephillin,
 as it is written in the Law, And thou shalt bind them for a sign upon
 thine hand, and they shall be for frontlets between thine eyes. Within
 these Tephillin are placed four sections of the Law, <span
-id="fr_0"></span>[\*](#fn_0) that declare the absolute
+id="fr_0"></span>[\*](#fn_0.md) that declare the absolute
 
 <span id="page_18">p. 18</span>
 
@@ -553,7 +553,7 @@ know the Lord.
 
 ------------------------------------------------------------------------
 
-*In some Congregations Psalm xxx (page [103](spb07.htm#page_103)) is
+*In some Congregations Psalm xxx (page [103](spb07.htm#page_103).md) is
 said here*.
 
 ------------------------------------------------------------------------
@@ -671,7 +671,7 @@ his courts with praise: give thanks unto him, bless his name. For the
 Lord is good; his lovingkindness is everlasting; and his faithfulness
 from generation to generation.
 
-*On Weekdays continue "Let the glory," etc., [p. 33](#page_33)*.
+*On Weekdays continue "Let the glory," etc., [p. 33](#page_33.md)*.
 
 *On Sabbaths and Holydays, and on Hoshana Rabba, the following Psalms
 are said:—*
@@ -1021,7 +1021,7 @@ is the Lord on high.
 <span class="contnote">\[paragraph continues\]</span> Thy testimonies
 are very faithful: holiness becometh thine house, O Lord, for evermore.
 
-*On Weekdays continue here from [p. 23](#page_23)*.
+*On Weekdays continue here from [p. 23](#page_23.md)*.
 
 Let the glory of the Lord endure for ever; let the Lord rejoice in his
 works. Let the name of the Lord be blessed from this time forth and for
@@ -1228,7 +1228,7 @@ the Lord God, the God of Israel, who alone doeth wondrous things: and
 blessed be his glorious name for ever; and let the whole earth be filled
 with his glory. Amen, and Amen.
 
-*The following to "worship thee," [p. 40](#page_40), is said standing*.
+*The following to "worship thee," [p. 40](#page_40.md), is said standing*.
 
 1 Chron. xxix. 10–13.
 
@@ -1328,7 +1328,7 @@ the Lord be One, and his name One. And in thy Law it is written, saying,
 Hear, O Israel: the Lord our God, the Lord is One.
 
 *On Sabbaths and Holydays continue here "The breath," etc., [p.
-182](spb17.htm#page_182)*.
+182](spb17.htm#page_182.md)*.
 
 Praised be thy name for ever, O our King, the great and holy God and
 King, in heaven and on earth; for unto thee, O Lord our God, and God of
@@ -1586,7 +1586,7 @@ name, the Holy One of Israel. Blessed art thou, O Lord, who hast
 redeemed Israel.
 
 *The following prayer (Amidah) to "as in ancient years," [p.
-66](#page_66) is to be said standing*.
+66](#page_66.md) is to be said standing*.
 
 <span class="small">O Lord, open thou my lips, and my mouth shall
 declare thy praise.</span>
@@ -1641,7 +1641,7 @@ Thou art holy, and thy name is holy, and holy beings praise thee daily.
 <span class="small">the holy King.</span>
 
 *When the Reader repeats the Amidah, the following is said, to "holy
-God," [p. 56](#page_56)*.
+God," [p. 56](#page_56.md)*.
 
 \* Reader.—We will sanctify thy name in the world even as they sanctify
 it in the highest heavens, as it is written by the hand of thy prophet:
@@ -1695,21 +1695,21 @@ Lord, the Redeemer of Israel.
 
 <span id="page_57">p. 57</span>
 
-*On Fast Days the Reader here says "Answer us," etc., [p. 61](#page_61),
+*On Fast Days the Reader here says "Answer us," etc., [p. 61](#page_61.md),
 and concludes thus—*
 
 Blessed art thou, O Lord, who answerest in time of trouble.
 
 Heal us, O Lord, and we shall be healed; save us and we shall be saved;
 for thou art our praise. Vouchsafe a perfect healing to all our
-wounds; <span id="fr_1"></span>[\*](#fn_1) for thou, almighty King, art
+wounds; <span id="fr_1"></span>[\*](#fn_1.md) for thou, almighty King, art
 a faithful and merciful Physician. Blessed art thou, O Lord, who healest
 the sick of thy people Israel.
 
 Bless this year unto us, O Lord our God, together with every kind of the
 produce thereof, for our welfare; give a blessing
 
-*During the Winter Season <span id="fr_2"></span>[\*\*](#fn_2)
+*During the Winter Season <span id="fr_2"></span>[\*\*](#fn_2.md)
 substitute for the last sentence:*
 
 <span class="small">Give dew and rain for a blessing upon the face of
@@ -1756,7 +1756,7 @@ Lord, the stay and trust of the righteous.
 And to Jerusalem, thy city, return in mercy, and dwell therein as thou
 hast spoken; rebuild it soon in our days as an everlasting building, and
 speedily set up therein the throne of David. <span
-id="fr_3"></span>[\*](#fn_3) Blessed art thou, O Lord, who rebuildest
+id="fr_3"></span>[\*](#fn_3.md) Blessed art thou, O Lord, who rebuildest
 Jerusalem.
 
 <span id="page_60">p. 60</span>
@@ -1773,7 +1773,7 @@ unto prayers and supplications:
 <span id="page_61">p. 61</span>
 
 from thy presence, O our King, turn us not empty away; <span
-id="fr_4"></span>[\*](#fn_4) for thou hearkenest in mercy to the prayer
+id="fr_4"></span>[\*](#fn_4.md) for thou hearkenest in mercy to the prayer
 of thy people Israel. Blessed art thou, O Lord, who hearkenest unto
 prayer.
 
@@ -1959,7 +1959,7 @@ pleasant unto the Lord, as in the days of old, and as in ancient years.
 *In illness, or when time is lacking, the following shortened form of
 the Amidah may be said:—*
 
-"O Lord," [p. 53](#page_53), to "holy God," [p. 55](#page_55).
+"O Lord," [p. 53](#page_53), to "holy God," [p. 55](#page_55.md).
 
 Give us understanding, O Lord our God, to know thy ways; circumcise our
 hearts to fear thee, and forgive us so that we may be redeemed. Keep us
@@ -1974,17 +1974,17 @@ Lord, who hearkenest unto prayer.
 
 *Continue—*
 
-"Accept," [p. 61](#page_61), to "ancient years," [p. 66](#page_66).
+"Accept," [p. 61](#page_61), to "ancient years," [p. 66](#page_66.md).
 
 ------------------------------------------------------------------------
 
 *On New Moon, the Intermediate Days of Passover and Tabernacles, and on
-the Feast of Dedication, say "Hanel," [p. 313](spb26.htm#page_313)*.
+the Feast of Dedication, say "Hanel," [p. 313](spb26.htm#page_313.md)*.
 
 ------------------------------------------------------------------------
 
 *During the Ten Days of Penitence, the Sabbath excepted, the following
-to "and save us" [p. 70](#page_70), is said*.
+to "and save us" [p. 70](#page_70.md), is said*.
 
 Our Father, our King! we have sinned before thee.
 
@@ -2027,7 +2027,7 @@ Our Father, our King! rend the evil judgment decreed against us.
 
 Our Father, our King! let thy remembrance of us be for good.
 
-Our Father, our King!  <span id="fr_5"></span>[\*](#fn_5)inscribe us in
+Our Father, our King!  <span id="fr_5"></span>[\*](#fn_5.md)inscribe us in
 the book of happy life.
 
 Our Father, our King! inscribe us in the book of redemption and
@@ -2097,8 +2097,8 @@ good works of our own; deal with us in charity and kindness, and save
 us.
 
 *On Mondays and Thursdays the following is said to "the Lord is One,"
-[p. 76](#page_76). On other Week Days continue, "And David said," etc.,
-[p. 76](#page_76). Both these Prayers are omitted on New Moon, during
+[p. 76](#page_76.md). On other Week Days continue, "And David said," etc.,
+[p. 76](#page_76.md). Both these Prayers are omitted on New Moon, during
 the whole month of Nisan, on the thirty-third day of Counting the Omer,
 from the first day of Sivan until the second day after Pentecost, on the
 9th and 15th of Ab, on the day before New Year, from the day before the
@@ -2289,7 +2289,7 @@ sore troubled: they shall turn back, they shall be ashamed suddenly.
 
 *On Monday and Thursday Mornings the following is added. On other
 Weekdays, and in the Afternoon Service, continue "O Guardian of Israel,"
-[p. 79](#page_79)*.
+[p. 79](#page_79.md)*.
 
 *Reader and Cong*.—O Lord God of Israel, turn from thy fierce wrath, and
 repent of the evil against thy people.
@@ -2403,10 +2403,10 @@ according to the abundance of thy tender mercies, O God.
 
 ##### ORDER OF READING THE LAW.
 
-*The following to "as of old," [p. 87](#page_87), forms part of the
+*The following to "as of old," [p. 87](#page_87.md), forms part of the
 Service when Prayers are said with a Congregation on Mondays and
 Thursdays, and also, with the exception of "May it be the will," etc.,
-to "Amen," [p. 85](#page_85), on Sabbath Afternoons, New Moon, the
+to "Amen," [p. 85](#page_85.md), on Sabbath Afternoons, New Moon, the
 Intermediate Days of Passover and Tabernacles, and on Fast Days
 (Mornings and Afternoons)*.
 
@@ -2518,8 +2518,8 @@ in its right hand; in its left hand are riches and honor. It pleased the
 Lord, for his righteousness’ sake, to magnify the Law and to make it
 honorable.
 
-*On those Mondays and Thursdays when the Prayers, pp. [70](#page_70) to
-[81](#page_81), are said, the Reader adds the following, previous to the
+*On those Mondays and Thursdays when the Prayers, pp. [70](#page_70.md) to
+[81](#page_81.md), are said, the Reader adds the following, previous to the
 Scroll of the Law being returned to the Ark:—*
 
 May it be the will of our Father who is in heaven to establish the
@@ -2696,17 +2696,17 @@ seed, saith the Lord, from henceforth and for ever.
 But thou art holy, O thou that dwellest amid the praises of Israel. And
 one cried unto another, and said, Holy, holy, holy is the Lord of hosts:
 the whole earth is full of his glory.  <span
-id="fr_6"></span>[\*](#fn_6)And they receive sanction the one from the
+id="fr_6"></span>[\*](#fn_6.md)And they receive sanction the one from the
 other, and say, Holy in the highest heavens, the place of his divine
 abode; holy upon earth, the work of his might; holy for ever and to all
 eternity is the Lord of hosts; the whole earth is full of the radiance
 of his glory. Then a wind lifted me up, and I heard behind me the voice
 of a great rushing (saying), Blessed be the glory of the Lord from his
-place.  <span id="fr_7"></span>[\*](#fn_6)Then a wind lifted me up, and
+place.  <span id="fr_7"></span>[\*](#fn_6.md)Then a wind lifted me up, and
 I heard behind me the voice of a great rushing, of those who uttered
 praises, and said, Blessed be the glory of the Lord from the region of
 his divine abode. The Lord shall reign for ever and ever.  <span
-id="fr_8"></span>[\*](#fn_6)The kingdom of the Lord endureth for ever
+id="fr_8"></span>[\*](#fn_6.md)The kingdom of the Lord endureth for ever
 and to all eternity. O Lord, the God of Abraham, of Isaac and of Israel,
 our fathers, keep this for ever in the imagination of the thoughts of
 the heart of thy people, and direct their heart unto thee. And he, being
@@ -2818,20 +2818,20 @@ One, and his name One.
 
 ### Footnotes
 
-<span id="fn_0"></span>[17:\*](spb05.htm#fr_0) Deut. vi. 4–9; xi. 13–21;
+<span id="fn_0"></span>[17:\*](spb05.htm#fr_0.md) Deut. vi. 4–9; xi. 13–21;
 Exod. xiii. 1–10; 11–16.
 
-<span id="fn_1"></span>[57:\*](spb05.htm#fr_1) *The following Prayer for
+<span id="fn_1"></span>[57:\*](spb05.htm#fr_1.md) *The following Prayer for
 a Sick Person may be introduced here:—*
 
 May it be thy will, O Lord our God, and God of our fathers, speedily to
 send a perfect healing from heaven, a healing of soul and body unto the
 sick . . . among the other sick of Israel.
 
-<span id="fn_2"></span>[57:\*\*](spb05.htm#fr_2) *From the Fourth of
+<span id="fn_2"></span>[57:\*\*](spb05.htm#fr_2.md) *From the Fourth of
 December until the First Day of Passover*.
 
-<span id="fn_3"></span>[59:\*](spb05.htm#fr_3) *On the Fast of the Ninth
+<span id="fn_3"></span>[59:\*](spb05.htm#fr_3.md) *On the Fast of the Ninth
 of Ab the following is added at the Afternoon Service:—*
 
 Comfort, O Lord our God, the mourners of Zion, and the mourners of
@@ -2853,7 +2853,7 @@ Jerusalem.
 
 "Speedily," etc.
 
-<span id="fn_4"></span>[61:\*](spb05.htm#fr_4) *On Fast Days the
+<span id="fn_4"></span>[61:\*](spb05.htm#fr_4.md) *On Fast Days the
 Congregation here say the following:—*
 
 Answer us, O Lord, answer us on this day of the fast of our humiliation,
@@ -2866,17 +2866,17 @@ yet speaking, I will hear; for thou, O Lord, art he who answereth in
 time of trouble, who delivereth and rescueth in all times of trouble and
 distress; for thou hearkenest, etc.
 
-<span id="fn_5"></span>[68:\*](spb05.htm#fr_5) At the Conclusion Service
+<span id="fn_5"></span>[68:\*](spb05.htm#fr_5.md) At the Conclusion Service
 on the Day of Atonement, "seal us" is substituted for "inscribe us" in
 this and the following sentences.
 
-<span id="fn_6"></span>[90:\*](spb05.htm#fr_8) The Chaldee paraphrase of
+<span id="fn_6"></span>[90:\*](spb05.htm#fr_8.md) The Chaldee paraphrase of
 the preceding verse.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Mourner's Kaddish](spb06)
+[Next: Mourner's Kaddish](spb06.md)
 
 </div>

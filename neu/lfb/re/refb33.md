@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb32)  [Next](refb34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb32)  [Next](refb34.md) 
 
 </div>
 
@@ -634,6 +634,6 @@ were heard of and talked about all over seven kingdoms.\[27\]
 
 ------------------------------------------------------------------------
 
-[Next: Bushy Bride](refb34)
+[Next: Bushy Bride](refb34.md)
 
 </div>

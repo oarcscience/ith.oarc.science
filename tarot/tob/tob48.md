@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob47) 
-[Next](tob49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob47.md) 
+[Next](tob49.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ the six letters of Adam-Eve, אדמ-הוה, the senary of *Bereschith*.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIX. List of the Authors who Have Interested Themselves
-in the Tarot](tob49)
+in the Tarot](tob49.md)

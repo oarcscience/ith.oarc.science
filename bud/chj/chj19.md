@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj18)  [Next](chj20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj18)  [Next](chj20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -58,7 +58,7 @@ division into sects in China was still new, and sectarian lines were not
 very clearly defined. The doctrine still wore its Indian and
 predominantly Hīnayānistic character; Vasubandhu, Asangha, and other
 great teachers of Mahāyāna had possibly not been born when Buddhism
-reached Korea. <span id="fr_212"></span>[1](#fn_211) There are
+reached Korea. <span id="fr_212"></span>[1](#fn_211.md) There are
 indications to show that much attention was paid to the Vinaya
 discipline, and that whatever speculation there was ran along the lines
 laid down by the Kusha, Sanron, and Jōjitsu sects (see Chapter XVI.).
@@ -77,7 +77,7 @@ Kami, which may have been due to the influence
 
 <span id="page_170">p. 170</span>
 
-of a foreign religion. <span id="fr_213"></span>[1](#fn_212) In A.D. 2
+of a foreign religion. <span id="fr_213"></span>[1](#fn_212.md) In A.D. 2
 Suinin is said to have abolished the custom of burying alive the wives,
 concubines, and retainers of deceased rulers and nobles, and to have
 substituted the burial of clay figures, a practice which led to the
@@ -110,7 +110,7 @@ of Nintoku with deep respect as a man of singular virtue and nobility.
 Nintoku introduced silkworm breeding into Japan, and it is a significant
 fact as showing a possibly earlier existence of Buddhism in this country
 that in the silk districts the patron deity of sericulture is the
-Buddhist saint As’vaghosha. <span id="fr_214"></span>[1](#fn_213)
+Buddhist saint As’vaghosha. <span id="fr_214"></span>[1](#fn_213.md)
 
 In the year A.D. 522, a Chinese priest named Shiba Tatsu, a subject of
 the Liang (502–557), made an attempt to establish a mission in Yamato,
@@ -120,7 +120,7 @@ house to the sea-coast on tile east, and did much to foster trade and
 commerce. In his reign the Chinese began to be a seafaring people, and
 Chinese ships visited the Bay of Bengal, Ceylon, the west coast of
 India, and even penetrated as far as the Persian Gulf. <span
-id="fr_215"></span>[3](#fn_215) Wu-ti, during the earlier years of his
+id="fr_215"></span>[3](#fn_215.md) Wu-ti, during the earlier years of his
 reign (502–549), was a great patron of Confucianism; in his later years
 he alienated his Confucian subjects by his zeal for Buddhism, which he
 adopted with all the ardour of a convert. In the north of China, his
@@ -129,9 +129,9 @@ Hushi, who, like Wu-ti, was a zealous Buddhist, much to the disgust of
 her Confucianist subjects, who objected to the worship of S’akyamuni on
 the ground that he was only a deified man, and not a god like Tientei,
 the ruler of Heaven. In the end they dethroned their queen and threw her
-into the Hoangho. <span id="fr_216"></span>[2](#fn_214)
+into the Hoangho. <span id="fr_216"></span>[2](#fn_214.md)
 
-The Wei <span id="fr_217"></span>[3](#fn_215) influence (386–584) would
+The Wei <span id="fr_217"></span>[3](#fn_215) influence (386–584.md) would
 naturally be great in the Korean states which touched their boundaries.
 
 <span id="page_172">p. 172</span>
@@ -150,12 +150,12 @@ though ruled over by sovereigns with Buddhist propensities, had powerful
 aristocracies which were strongly anti-Buddhist. Had either of these
 kingdoms gained the ascendency in the Peninsula a grievous persecution
 would have followed, ending perhaps in the overthrow of Korean
-dynasties. <span id="fr_218"></span>[1](#fn_216) Japan was as yet
+dynasties. <span id="fr_218"></span>[1](#fn_216.md) Japan was as yet
 neither Buddhist nor Confucian. If she could be won over to the faith,
 the immediate future at least would be secured from danger.
 
 Accordingly, in 545, and again in 552, <span
-id="fr_219"></span>[2](#fn_217) King Seimei of Kudara sent presents to
+id="fr_219"></span>[2](#fn_217.md) King Seimei of Kudara sent presents to
 the Emperor of Japan—images of Buddha and Sacred Books—together with a
 recommendatory letter in which he pointed out the excellences of the
 Buddhist religion, as well as its evident destiny to travel constantly
@@ -171,7 +171,7 @@ Nakatomi no Kanako, was furiously opposed to having any dealings with a
 new religion which could not be brought into the country without offence
 to the national gods. The Emperor temporized. He entrusted the care of
 the images and books to Soga no Iname, as though to allow those who
-would to adopt the new religion, <span id="fr_220"></span>[1](#fn_218)
+would to adopt the new religion, <span id="fr_220"></span>[1](#fn_218.md)
 without committing himself to any definite line of action in this
 respect. Soga housed the idols in his own villa, which he converted into
 a place of worship. Soon after this a pestilence broke out, which was
@@ -180,7 +180,7 @@ destroyed by a mob, and the great statue of the Buddha thrown into the
 canal at Naniwa. Then followed another portent—a flash of lightning from
 a cloudless sky, which set fire to the Imperial Palace. This was clearly
 a token of the anger of the Hotoke. <span
-id="fr_221"></span>[2](#fn_219) The offending statue was fished out of
+id="fr_221"></span>[2](#fn_219.md) The offending statue was fished out of
 the river, and reverently placed in a suitable abode, and the Emperor,
 as a further act of reparation, caused two images to be carved in wood
 and set up at Hoshino. This was the first beginning of the glyptic arts
@@ -192,7 +192,7 @@ with munitions of
 
 <span id="page_174">p. 174</span>
 
-war. <span id="fr_222"></span>[1](#fn_220) This last clause looks very
+war. <span id="fr_222"></span>[1](#fn_220.md) This last clause looks very
 much as though an offensive and defensive alliance had been really the
 aim of the King of Kudara.
 
@@ -210,7 +210,7 @@ and almanacks, of which they had almost a monopoly, came, and were
 eagerly received by the Japanese, who have always had a desire to know.
 But priests came too, and nuns, and in their hands were books, relics,
 and sacred images of Maitreya, of Amitābha with his two
-companions, <span id="fr_223"></span>[2](#fn_221) of Kwannon the Deity
+companions, <span id="fr_223"></span>[2](#fn_221.md) of Kwannon the Deity
 of Mercy, so that by the death of Shōtoku Taishi there were 46 temples
 and nearly 1400 monks and nuns composing the staff of Buddhist missions.
 Many sacred books came also, for
@@ -259,13 +259,13 @@ may. The pious women of Japan took kindly to the definite rules of
 Vinaya Buddhism, and their adherence to the new religion was of immense
 importance. There were not wanting signs of the need of discipline
 amongst religious communities, even in those early days. <span
-id="fr_224"></span>[1](#fn_222)
+id="fr_224"></span>[1](#fn_222.md)
 
 The fashionable form of religious metaphysics was that adopted by the
 Sanron sect, which commenced its Japanese existence in the year 624,
 three years after the death of Shōtoku. This sect professed to accept
 the whole of the Buddhist Canon so far as it existed in China in those
-days. <span id="fr_225"></span>[2](#fn_223) The diseases of the human
+days. <span id="fr_225"></span>[2](#fn_223.md) The diseases of the human
 mind were many and various, so they said, and the prescriptions for so
 many diseases must be many also. The object of Buddha's teaching was to
 destroy error and establish the truth: the one implied the other, for
@@ -283,7 +283,7 @@ heads. There
 
 were errors connected with positive views of Life and Death, about
 Oneness and Multiplicity, about the Determinate and the Indeterminate,
-about Going and Coming. <span id="fr_226"></span>[1](#fn_224) Place the
+about Going and Coming. <span id="fr_226"></span>[1](#fn_224.md) Place the
 word "No" (<span id="img_17700"></span> ![](img/17700.jpg)) in front of
 each of these eight notions, and the Truth would be clear. "No Life and
 No Death, No Oneness and No Multiplicity, No Determinate and No
@@ -292,7 +292,7 @@ Man, are nothing but negations.
 
 Speculations such as these, the products of the hairsplitting Indian
 mind, had no charm for the practical Japanese intellect, and the Sanron
-sect <span id="fr_227"></span>[2](#fn_225) was never more than a shadow
+sect <span id="fr_227"></span>[2](#fn_225.md) was never more than a shadow
 among the Buddhist denominations in Japan. If it had not been for the
 simple faith of the Japanese women, who took the Buddha of the Vinaya
 books as their model, with his plain, straightforward directions as to
@@ -304,27 +304,27 @@ Japanese people. The lesson is one not to be thrown away.
 
 ### Footnotes
 
-<span id="fn_211"></span>[169:1](chj19.htm#fr_212) Takakusu gives for
+<span id="fn_211"></span>[169:1](chj19.htm#fr_212.md) Takakusu gives for
 Vasubandhu's date A.D. 445.
 
-<span id="fn_212"></span>[170:1](chj19.htm#fr_213) It is not impossible
+<span id="fn_212"></span>[170:1](chj19.htm#fr_213.md) It is not impossible
 that this may have been Buddhism. A.D. 64 marks the *official*
 recognition of Buddhism in China, not its popular acceptance, and there
 is an early Japanese tradition that at a very early period certain
 *Ratai no hito* brought an image of Kwannon to Japan, which they set up
 at Kumano-ura for worship ("Bukkyo Seiten," App., p. 12).
 
-<span id="fn_213"></span>[171:1](chj19.htm#fr_214) See "Bukkyō Mondō
+<span id="fn_213"></span>[171:1](chj19.htm#fr_214.md) See "Bukkyō Mondō
 Shū," pp. 14–24.
 
-<span id="fn_214"></span>[171:2](chj19.htm#fr_216) Kaeuffer, "Geschichte
+<span id="fn_214"></span>[171:2](chj19.htm#fr_216.md) Kaeuffer, "Geschichte
 Ostasiens," vol. ii. p. 397.
 
-<span id="fn_215"></span>[171:3](chj19.htm#fr_217) There were three Wei
+<span id="fn_215"></span>[171:3](chj19.htm#fr_217.md) There were three Wei
 dynasties, all in the north of China: (1) Northern Wei, 386–534; (2)
 Western Wei, 534–557; (3) Eastern Wei, 534–550.
 
-<span id="fn_216"></span>[172:1](chj19.htm#fr_218) The straits to which
+<span id="fn_216"></span>[172:1](chj19.htm#fr_218.md) The straits to which
 Buddhism in China was at this time reduced may be seen in the fact,
 noticed by Kaeuffer, that about 555 an attempt was made forcibly to
 unite Buddhism and Taoism, in a common enterprise against the powerful
@@ -332,17 +332,17 @@ Confucianists—a foreshadowing of Ryōbu Shinto. The attempt failed
 because the Taoist priests objected to having their heads shaved, and
 the failure only made things worse.
 
-<span id="fn_217"></span>[172:2](chj19.htm#fr_219) This must be
+<span id="fn_217"></span>[172:2](chj19.htm#fr_219.md) This must be
 considered as the date of the official introduction of Buddhism.
 
-<span id="fn_218"></span>[173:1](chj19.htm#fr_220) The Emperor would
+<span id="fn_218"></span>[173:1](chj19.htm#fr_220.md) The Emperor would
 scarcely have adopted this course had not Iname been backed by a
 considerable number of influential sympathizers.
 
-<span id="fn_219"></span>[173:2](chj19.htm#fr_221) *Hotoke*, the
+<span id="fn_219"></span>[173:2](chj19.htm#fr_221.md) *Hotoke*, the
 Japanese term for a Buddha.
 
-<span id="fn_220"></span>[174:1](chj19.htm#fr_222) In preparing this
+<span id="fn_220"></span>[174:1](chj19.htm#fr_222.md) In preparing this
 chapter I have largely consulted the historical sections of Rein's
 "Japan," which remains a standard work. For the Buddhist part I am much
 indebted to the painstaking chronology published by my friend, Dr. Hans
@@ -350,25 +350,25 @@ Haas, of Heidelberg, in *Mitteilungen der Gesellschaft für Natur and
 Völkerkunde Ostasiens*, vol. xi. 3 (Berlin: Behrend & Co., Unter den
 Linden 16).
 
-<span id="fn_221"></span>[174:2](chj19.htm#fr_223) The statue of
+<span id="fn_221"></span>[174:2](chj19.htm#fr_223.md) The statue of
 Amitābha, with Avalokiteśvara and Mahāsthamaprāpta, sent over by the
 King of Kudara, in 552, is said to be now at the Zenkōji Temple at
 Nagano. See Satow and Hawes, "Handbook of Japan," p. 289.
 
-<span id="fn_222"></span>[176:1](chj19.htm#fr_224) See Haas, "Chronology
+<span id="fn_222"></span>[176:1](chj19.htm#fr_224.md) See Haas, "Chronology
 of Buddhism, A.D. 623 and 628," in *Mitteilungen der deutschen
 Gesellschaft far Natur and Völkerkunde Ostasiens*.
 
-<span id="fn_223"></span>[176:2](chj19.htm#fr_225) See Nanjo, "Cat.
+<span id="fn_223"></span>[176:2](chj19.htm#fr_225.md) See Nanjo, "Cat.
 Trip.," Introd., p. xviii.
 
-<span id="fn_224"></span>[177:1](chj19.htm#fr_226) "Murakami," p. 446.
+<span id="fn_224"></span>[177:1](chj19.htm#fr_226.md) "Murakami," p. 446.
 The words are Shō-metsu-ichi-i-dan-jō-ko-rai (<span
 id="img_17700"></span> ![](img/17700.jpg)).
 
-<span id="fn_225"></span>[177:2](chj19.htm#fr_227) For the meaning of
+<span id="fn_225"></span>[177:2](chj19.htm#fr_227.md) For the meaning of
 Sanron see previous chapter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. The Crown Prince Shōtoku Taishi](chj20)
+[Next: Chapter XVIII. The Crown Prince Shōtoku Taishi](chj20.md)

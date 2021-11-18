@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre36)  [Next](gre38) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre36)  [Next](gre38.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ this.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIII: Of the doings of Glam at Thorhall-stead](gre38)
+[Next: Chapter XXXIII: Of the doings of Glam at Thorhall-stead](gre38.md)

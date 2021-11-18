@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet02)  [Next](tet04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet02)  [Next](tet04.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ poetical expression.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The All Father, Byamee](tet04)
+[Next: Chapter II. The All Father, Byamee](tet04.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Sagas](../../index)  [England](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tsb03)
+[Contents](#contents)    [Start Reading](tsb03.md)
 
 ------------------------------------------------------------------------
 
@@ -30,14 +30,14 @@ translation, it captures the mood of the original without being
 self-consciously archaic. The black and white illustrations are stylized
 and sometimes a bit cartoonish, and nicely dimensionalize the story.
 
-Thanks to Eliza of [sacredspiral.com](https://www.sacredspiral.com/),
+Thanks to Eliza of [sacredspiral.com](https://www.sacredspiral.com/.md),
 for unearthing and transcribing this gem.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tsb00)  
-[Foreword](tsb01)  
-[Contents](tsb02)  
-[Part I](tsb03)  
-[Part II](tsb04)  
-[Part III](tsb05)  
+<span id="contents"></span> [Title Page](tsb00.md)  
+[Foreword](tsb01.md)  
+[Contents](tsb02.md)  
+[Part I](tsb03.md)  
+[Part II](tsb04.md)  
+[Part III](tsb05.md)  

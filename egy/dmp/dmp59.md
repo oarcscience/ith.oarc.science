@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp58)  [Next](dmp60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp58)  [Next](dmp60.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ Ablanathanalba, gryphon of the shrine of the god which stands to-day
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXVIII](dmp60)
+[Next: Verso Col. XXVIII](dmp60.md)

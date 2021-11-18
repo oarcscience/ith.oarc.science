@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe256)  [Next](prwe258) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe256)  [Next](prwe258.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ having lost the companion by whom it had been fascinated.
 
 ------------------------------------------------------------------------
 
-[Next: To Charm a Snake](prwe258)
+[Next: To Charm a Snake](prwe258.md)

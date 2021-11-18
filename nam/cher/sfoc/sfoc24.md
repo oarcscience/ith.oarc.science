@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc23)  [Next](sfoc25) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc23)  [Next](sfoc25.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ ancient Oriental nations no less than among the modern Cherokees.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Importance Attached to Names](sfoc25)
+[Next: Importance Attached to Names](sfoc25.md)

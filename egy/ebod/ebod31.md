@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod30)  [Next](ebod32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod30)  [Next](ebod32.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ and hath created terror of me! The gods of the {*continued next plate*}
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXVI.](ebod32)
+[Next: Plate XXVI.](ebod32.md)

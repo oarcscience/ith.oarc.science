@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah86)  [Next](oah88) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah86)  [Next](oah88.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ END OF THE LORDS' SECOND BOOK.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](oah88)
+[Next: Chapter I](oah88.md)

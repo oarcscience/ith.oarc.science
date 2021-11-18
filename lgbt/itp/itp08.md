@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](itp07)  [Next](itp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](itp07)  [Next](itp09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -61,9 +61,9 @@ tribes and peoples.
 
 The chief modern accounts of the Dorian Military love are to be found in
 the *History and Antiquities of the Doric Race*, by C. O. Müller, <span
-id="fr_55"></span>[1](#fn_55) and in Professor E. Bethe's long treatise,
+id="fr_55"></span>[1](#fn_55.md) and in Professor E. Bethe's long treatise,
 *Die Dorische Knabenliebe*, printed in Frankfurt in 1907. <span
-id="fr_56"></span>[2](#fn_56) John
+id="fr_56"></span>[2](#fn_56.md) John
 
 <span id="page_89">p. 89</span>
 
@@ -135,7 +135,7 @@ Dorians, whom we are now considering.
 I cannot perhaps do better by way of description of this institution
 than to quote the careful account of it both in Sparta and in Crete
 given by C. O. Müller in his great work. <span
-id="fr_57"></span>[1](#fn_57) He says:--"At Sparta the party loving was
+id="fr_57"></span>[1](#fn_57.md) He says:--"At Sparta the party loving was
 called εἰσπνήλας and his affection was termed a *breathing-in* or
 *inspiring* (ἐισπνε̃ιν); which expresses the pure and mental connection
 between the two persons, and corresponds with the name of the other,
@@ -177,7 +177,7 @@ termed κλεινὸς, the *praised*; the lover being simply called φιλήτ
 
 Of the institution in Crete--of which the tradition still existed in his
 time--Strabo, in his *Geographica*, gives a detailed account. <span
-id="fr_58"></span>[1](#fn_58) And his account is particularly
+id="fr_58"></span>[1](#fn_58.md) And his account is particularly
 interesting on account of the similarity of the uses which he describes
 to the custom of ordinary marriage-by-capture, with which all students
 of primitive society are familiar. Quoting from Ephorus, who wrote about
@@ -273,7 +273,7 @@ lover to self-sacrifice in case of need."
 
 Professor Bethe, in his article on *Die Dorische Knabenliebe*, to which
 I have already alluded, says (p. 447):--"Among the Dorians, although the
-practice was no doubt sensual, <span id="fr_59"></span>[1](#fn_59)
+practice was no doubt sensual, <span id="fr_59"></span>[1](#fn_59.md)
 *paiderastia* was not by any means a crime; on the contrary, it was, or
 could be, or aspired to be, the most complete imaginable union and
 mutual devotion of two tribesmen, out of which sprung abundant noble
@@ -312,7 +312,7 @@ is interesting to note that in Albania--which is the very land from
 which the Dorians probably came--a marriage-ceremonial still lingers on
 to-day and is perfectly recognised as customary between a man and a
 youth who are attached to each other. <span
-id="fr_60"></span>[1](#fn_60) Anyhow, whether the formalities of
+id="fr_60"></span>[1](#fn_60.md) Anyhow, whether the formalities of
 marriage were observed or not, the general institution of military
 comradeship, as we have described it, spread far and wide among the
 Greek peoples, and immense importance was attached to it. It became a
@@ -329,8 +329,8 @@ lives to propitiate offended deities when a plague had fallen on
 <span id="page_100">p. 100</span>
 
 <span class="contnote">\[paragraph continues\]</span> Athens," <span
-id="fr_61"></span>[1](#fn_61) testify to the profound interest felt in
-the subject. And similar stories <span id="fr_62"></span>[2](#fn_62)
+id="fr_61"></span>[1](#fn_61.md) testify to the profound interest felt in
+the subject. And similar stories <span id="fr_62"></span>[2](#fn_62.md)
 from Sparta, from Chalkis, from Elis, Eubœa, and other places, show how
 wide and universal was the impression. As far back as the time of Solon
 at Athens, the inspiration of *paiderastia* had taken such hold, and was
@@ -338,7 +338,7 @@ felt to be so thoroughly honorable, that even he, Athens' great and wise
 law-giver, wrote poems in praise of it, and in his laws placed the
 pursuit of it and of athletics on a par, as worthy of, and to be
 encouraged in free men, but as forbidden to slaves. <span
-id="fr_63"></span>[3](#fn_63) Aeschylus and Sophocles did not disdain to
+id="fr_63"></span>[3](#fn_63.md) Aeschylus and Sophocles did not disdain to
 make comrade-love the theme of two of their tragedies--the Myrmidones
 and Niobe respectively--nor is evidence wanting that they personally
 favored it themselves; and Plato, of course, makes it the corner-stone
@@ -369,20 +369,20 @@ comradeship, and marked it with an ineffaceable impression of grandeur.
 
 ### Footnotes
 
-<span id="fn_55"></span>[88:1](itp08.htm#fr_55) 2 vols., translated from
+<span id="fn_55"></span>[88:1](itp08.htm#fr_55.md) 2 vols., translated from
 the German by G. Cornewall Lewis (John Murray, 1830).
 
-<span id="fn_56"></span>[88:2](itp08.htm#fr_56) In the Rheinisches
+<span id="fn_56"></span>[88:2](itp08.htm#fr_56.md) In the Rheinisches
 Museum, vol. lxii., pp. 438-475.
 
-<span id="fn_57"></span>[91:1](itp08.htm#fr_57) *History and Antiquities
+<span id="fn_57"></span>[91:1](itp08.htm#fr_57.md) *History and Antiquities
 of the Doric Race*, Book iv., ch. 4, p. 6; see also E. Carpenter's
 *Ioläus*, pp. 16-19.
 
-<span id="fn_58"></span>[93:1](itp08.htm#fr_58) Strabo, Book x., ch. 4,
+<span id="fn_58"></span>[93:1](itp08.htm#fr_58.md) Strabo, Book x., ch. 4,
 p. 21 (Bohn's edition of the classics).
 
-<span id="fn_59"></span>[97:1](itp08.htm#fr_59) Müller maintains the
+<span id="fn_59"></span>[97:1](itp08.htm#fr_59.md) Müller maintains the
 general chastity of the institution, quoting Xenophon and others; but
 Bethe contests this, referring to Plato (*The Laws*) and Aristotle (vol.
 ii. 10), where it is suggested that one of its objects was the
@@ -391,20 +391,20 @@ it is impossible to make any very definite statement. Whatever general
 theories there might be, practice would vary widely from place to place
 and from people to people, and public opinion would do the same.
 
-<span id="fn_60"></span>[99:1](itp08.htm#fr_60) See Hahn's *Albanesische
+<span id="fn_60"></span>[99:1](itp08.htm#fr_60.md) See Hahn's *Albanesische
 Studien*, vol. i., p. 166, where considerable light altogether is thrown
 on the Dorian comradeship.
 
-<span id="fn_61"></span>[100:1](itp08.htm#fr_61) See *Studies of the
+<span id="fn_61"></span>[100:1](itp08.htm#fr_61.md) See *Studies of the
 Greek Poets*, by J. A. Symonds, vol. i., p. 97.
 
-<span id="fn_62"></span>[100:2](itp08.htm#fr_62) See Plutarch's
+<span id="fn_62"></span>[100:2](itp08.htm#fr_62.md) See Plutarch's
 *Eroticus*, his Lives, etc.
 
-<span id="fn_63"></span>[100:3](itp08.htm#fr_63) See Plutarch's *Solon*,
+<span id="fn_63"></span>[100:3](itp08.htm#fr_63.md) See Plutarch's *Solon*,
 ch. i.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. The Dorian Comradeship in Relation to the Status of
-Woman](itp09)
+Woman](itp09.md)

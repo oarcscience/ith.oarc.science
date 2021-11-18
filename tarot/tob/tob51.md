@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob50) 
-[Next](tob52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob50.md) 
+[Next](tob52.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ read. We will explain them in the following lessons.
 ------------------------------------------------------------------------
 
 [Next: Second Lesson. Minor Arcana. Signification from the Divining
-Point of View](tob52)
+Point of View](tob52.md)

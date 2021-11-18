@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc124)  [Next](ffcc126) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc124)  [Next](ffcc126.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -136,7 +136,7 @@ remember that a final *s* or *z* in Cornish almost always represents a
 *t* or *d* of Welsh and Breton (cf. *tas* for *tad*, *nans* for *nant*,
 *bos* for *bod*), we may not unreasonably, though without absolute
 certainty, conjecture that *Pixy* is *Picty* in a Cornish form. <span
-id="fr_63"></span>[1](#fn_62)
+id="fr_63"></span>[1](#fn_62.md)
 
 Without begging any question concerning the origin, ethnology, or
 homogeneity of those who are called 'Picts' in history, from the times
@@ -399,7 +399,7 @@ the matter is very doubtful, that Marazion was the chief mart for the
 tin trade of Celtic Britain, and that the Mount--sacred to the Sun and
 to the Pagan Mysteries long before Caesar crossed the Channel from
 Gaul--sheltered the brilliantly-coloured sailing-ships of the
-Phoenicians. <span id="fr_64"></span>[1](#fn_63) In such a romantic
+Phoenicians. <span id="fr_64"></span>[1](#fn_63.md) In such a romantic
 town, where Oriental merchants and Celtic pilgrims probably once mingled
 together, one might expect some survival of olden beliefs and customs.
 
@@ -424,7 +424,7 @@ said to be small, and they were
 
 <span id="page_174">p. 174</span>
 
-thought of as spirits.' <span id="fr_65"></span>[1](#fn_64) Mr. Rowe's
+thought of as spirits.' <span id="fr_65"></span>[1](#fn_64.md) Mr. Rowe's
 sister added:--'If we as children did anything wrong, the old folks
 would say to us, "The piskies will carry you away if you do that
 again."'
@@ -463,15 +463,15 @@ sea-strand between high and low
 
 <span id="page_175">p. 175</span>
 
-water mark. <span id="fr_66"></span>[1](#fn_65) The land-dwelling pixy
+water mark. <span id="fr_66"></span>[1](#fn_65.md) The land-dwelling pixy
 was usually thought to be full of mischievous fun, but it did no harm.
 There was a very prevalent belief, when I was a boy, that this
-sea-strand pixy, called *Bucca*, <span id="fr_67"></span>[2](#fn_66) had
+sea-strand pixy, called *Bucca*, <span id="fr_67"></span>[2](#fn_66.md) had
 to be propitiated by a *cast* (three) of fish, to ensure the fishermen
 having a good *shot* (catch) of fish. The land pixy was supposed to be
 able to render its devotees invisible, if they only anointed their eyes
 with a certain green salve made of secret herbs gathered from
-Kerris-moor. <span id="fr_68"></span>[3](#fn_67) In the invisible
+Kerris-moor. <span id="fr_68"></span>[3](#fn_67.md) In the invisible
 condition thus induced, people were able to join the pixy revels, during
 which, according to the old tradition, time slipped away very, very
 rapidly, though people returned from the pixies no older than when they
@@ -499,7 +499,7 @@ her back to her people. She always had the one regret, that she had not
 gone into the forbidden room at first.'
 
 The Tolcarne Troll.--'The fairy of the Newlyn Tolcarne <span
-id="fr_69"></span>[1](#fn_68) was in some ways like the Puck of the
+id="fr_69"></span>[1](#fn_68.md) was in some ways like the Puck of the
 English Midlands. But this fairy, or troll, was supposed to date back to
 the time of the Phoenicians. He was described as a little old
 pleasant-faced man dressed in a tight-fitting leathern jerkin, with a
@@ -515,7 +515,7 @@ thorn, and pronounced an incantation or charm. Betty would never tell me
 the words of the charm, because she said I was too much of a sceptic.
 The words of such a Cornish charm had to pass from one believer to
 another, through a woman to a man, and from a man to a woman, and thus
-alternately.' <span id="fr_70"></span>[2](#fn_69)
+alternately.' <span id="fr_70"></span>[2](#fn_69.md)
 
 Nature of Pixies.--'Pixies were often supposed to be the souls of the
 prehistoric dwellers of this country. As such, pixies were supposed to
@@ -537,7 +537,7 @@ the *croust*, he would be left to his own resources to find the lode,
 and, moreover, the "knockers" would do all they could to lead him away
 from a good lode. These mine pixies, too, were supposed to be spirits,
 sometimes spirits of the miners of ancient times.' <span
-id="fr_71"></span>[1](#fn_70)
+id="fr_71"></span>[1](#fn_70.md)
 
 Fairies and Pixies.--'In general appearance the fairies were much the
 same as pixies. They were small men and women, much smaller than dwarfs.
@@ -586,7 +586,7 @@ there is a belief that the dead in the sea will be heard calling if a
 drowning is about to occur. I know of a woman who went to a clergyman to
 have him exorcize her of the spirit of her dead sister, which she said
 appeared in the form of a bee. And I have heard of miners believing that
-white moths are spirits.'' <span id="fr_72"></span>[1](#fn_71)
+white moths are spirits.'' <span id="fr_72"></span>[1](#fn_71.md)
 
 ### EVIDENCE FROM NEWLYN
 
@@ -603,10 +603,10 @@ would go to the wells blessed by the saints. Whenever anything went
 wrong in the kitchen at night the pixies were blamed. After the 31st of
 October \[or after Halloween\] the blackberries are not fit to eat, for
 the pixies have then been over them' (cf. the parallel Irish belief, [p.
-38](ffcc121.htm#page_38)).
+38](ffcc121.htm#page_38).md).
 
 Fairy Guardian of the Men-an-Tol. <span
-id="fr_73"></span>[1](#fn_72)--'At the Men-an-Tol there is supposed to
+id="fr_73"></span>[1](#fn_72.md)--'At the Men-an-Tol there is supposed to
 be a guardian fairy or pixy who can make miraculous cures. And my mother
 knew of an actual case in which a changeling was put through the stone
 in order to get the real child back. It seems that evil pixies changed
@@ -764,13 +764,13 @@ during his lifetime; and what he offers first is about King Arthur:--
 
 King Arthur.--'We always thought of King Arthur as a great warrior. And
 many a time I've heard old people say that he used to appear in this
-country in the form of a nath.' <span id="fr_74"></span>[1](#fn_73) This
+country in the form of a nath.' <span id="fr_74"></span>[1](#fn_73.md) This
 was all that could be told of King Arthur; and the conversation finally
 was directed toward piskies, with the following results:--
 
 Piskies.--'A man named Bottrell, who lived near St. Teath, was pisky-led
 at West Down, and when he turned his pockets inside out he heard the
-piskies going away laughing. <span id="fr_75"></span>[2](#fn_74) Often
+piskies going away laughing. <span id="fr_75"></span>[2](#fn_74.md) Often
 my grandmother used to say when I got home after dark, "You had better
 mind, or the piskies will carry you away." And I can remember hearing
 the old people say that the piskies are the spirits of dead-born
@@ -836,27 +836,27 @@ Britain, the third of the Brythonic countries.
 
 ### Footnotes
 
-<span id="fn_62"></span>[166:1](ffcc125.htm#fr_63) *The New English
+<span id="fn_62"></span>[166:1](ffcc125.htm#fr_63.md) *The New English
 Dictionary*, s.v. *Pixy*, gives rather vaguely a Swedish dialect word,
 *pysg*, a small fairy. It also mentions *pix* as a Devon Imprecation, 'a
 pix take him.' I suspect the last is only an *umlaut* form of a common
 Shakespearean imprecation. If not, it is interesting, and reminds one of
 the fate of Margery Dawe, 'Piskies came and carr'd her away.'
 
-<span id="fn_63"></span>[173:1](ffcc125.htm#fr_64) 'Some say that the
+<span id="fn_63"></span>[173:1](ffcc125.htm#fr_64.md) 'Some say that the
 Phoenicians never came to Cornwall at all, and that their Ictis was
 Vectis (the Isle of Wight) or even Thanet.'--HENRY JENNER.
 
-<span id="fn_64"></span>[174:1](ffcc125.htm#fr_65) This is, I think, the
+<span id="fn_64"></span>[174:1](ffcc125.htm#fr_65.md) This is, I think, the
 usual Cornish belief.'--HENRY JENNER.
 
-<span id="fn_65"></span>[175:1](ffcc125.htm#fr_66) 'About Porth Curnow
+<span id="fn_65"></span>[175:1](ffcc125.htm#fr_66.md) 'About Porth Curnow
 and the Logan Rock there are little spots of earth in the face of the
 granite cliffs where sea-daisies (thrift) and other wild flowers grow.
 These are referred to the sea pisky, and are known as "piskies'
 gardens."' --HENRY JENNER.
 
-<span id="fn_66"></span>[175:2](ffcc125.htm#fr_67) I was told by another
+<span id="fn_66"></span>[175:2](ffcc125.htm#fr_67.md) I was told by another
 Cornishman that, in a spirit of municipal rivalry and fun, the Penzance
 people like to taunt the people of Newlyn (now almost a suburb of
 Penzance) by calling them *Buccas*, and that the Newlyn townsmen very
@@ -864,32 +864,32 @@ much resent being so designated. Thus what no doubt was originally an
 ancient cult to some local sea-divinity called *Bucca*, has survived as
 folk-humour. (See Mr. Jenner's Introduction, p. 164.)
 
-<span id="fn_67"></span>[175:3](ffcc125.htm#fr_68) 'Another version,
+<span id="fn_67"></span>[175:3](ffcc125.htm#fr_68.md) 'Another version,
 which is more usual, is that the pisky anointed the person's eyes and so
 rendered itself visible.'--HENRY JENNER.
 
-<span id="fn_68"></span>[176:1](ffcc125.htm#fr_69) This is a natural
+<span id="fn_68"></span>[176:1](ffcc125.htm#fr_69.md) This is a natural
 outcropping of greenstone on a commanding bill just above the vicarage
 in Newlyn, and concerning it many weird legends survive. In
 pre-Christian times it was probably one of the Cornish sacred spots for
 the celebration of ancient rites--probably in honour of the Sun--and for
 divination.
 
-<span id="fn_69"></span>[176:2](ffcc125.htm#fr_70) For more about the
+<span id="fn_69"></span>[176:2](ffcc125.htm#fr_70.md) For more about the
 Tolcarne Troll see chapter on Celtic Re-birth [p.
-391](ffcc270.htm#page_391).
+391](ffcc270.htm#page_391.md).
 
-<span id="fn_70"></span>[177:1](ffcc125.htm#fr_71) Mr. John B. Cornish,
+<span id="fn_70"></span>[177:1](ffcc125.htm#fr_71.md) Mr. John B. Cornish,
 solicitor, of Penzance, told me that when he once suggested to an old
 miner who fully believed in the 'knockers', that the noises they were
 supposed to make were due to material causes, the old miner became quite
 annoyed, and said, 'Well, I guess I have ears to hear.'
 
-<span id="fn_71"></span>[178:1](ffcc125.htm#fr_72) For the Cornish
+<span id="fn_71"></span>[178:1](ffcc125.htm#fr_72.md) For the Cornish
 folk-lore already published by Miss M. A. Courtney, the reader is
 referred to her work, *Cornish Feasts and Folk-Lore* (Penzance, 1890).
 
-<span id="fn_72"></span>[179:1](ffcc125.htm#fr_73) A curious holed stone
+<span id="fn_72"></span>[179:1](ffcc125.htm#fr_73.md) A curious holed stone
 standing between two low menhirs on the moors beyond the Lanyon Dolmen,
 near Madron; but in Borlase's time (Cf. his *Antiquities of Cornwall*,
 ed. 1769, p. 577) the three stones were not as now in a direct line. The
@@ -900,14 +900,14 @@ ancient priests took sun observations (cf. Sir Norman Lockyer,
 *Stonehenge and Other Stone Monuments*); or it may have been otherwise
 related to a sun cult, or to some pagan initiatory rites.
 
-<span id="fn_73"></span>[183:1](ffcc125.htm#fr_74) I asked what a nath
+<span id="fn_73"></span>[183:1](ffcc125.htm#fr_74.md) I asked what a nath
 is, and Mr. Spragg explained:--'A nath is a bird with a beak like that
 of a parrot, and with black and grey feathers. The naths live on
 sea-islands in holes like rabbits, and before they start to fly they
 first run.' The nath, as Mr. Henry Jenner informs me, is the same as the
 puffin (*Fratercula arctica*), called also in Cornwall a 'sea parrot'.
 
-<span id="fn_74"></span>[183:2](ffcc125.htm#fr_75) Sometimes it is
+<span id="fn_74"></span>[183:2](ffcc125.htm#fr_75.md) Sometimes it is
 necessary to turn your coat inside out. A Zennor man said that to do the
 same thing with your socks or stockings is as good. In Ireland this
 strange psychological state of going astray comes from walking over a
@@ -915,4 +915,4 @@ fairy domain, over a confusing-sod, or getting into a fairy pass.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Taking of Evidence: VII: In Brittany](ffcc126)
+[Next: Chapter II. Taking of Evidence: VII: In Brittany](ffcc126.md)

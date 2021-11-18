@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic076)  [Next](lfic078) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic076)  [Next](lfic078.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ welcome as a specimen
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of the Lake of Tiis](lfic078)
+[Next: The Origin of the Lake of Tiis](lfic078.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale05)  [Next](tale07) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale05)  [Next](tale07.md) 
 
 ------------------------------------------------------------------------
 
@@ -684,4 +684,4 @@ far more marvelous. In their case Fate and Fortune came down on them
 unawares, but I drew down Destiny upon my own head and brought sorrow on
 mine own soul, and shaved my own beard and lost my own eye. Hear then
 
-(*Next*) [THE THIRD KALANDAR'S TALE](tale07)  
+(*Next*) [THE THIRD KALANDAR'S TALE](tale07.md)  

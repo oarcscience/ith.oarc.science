@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](toz05)  [Next](toz07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](toz05)  [Next](toz07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Teachings of Zoroaster*, by S.A. Kapadia, \[1905\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 # NOTES
 
 <span class="smallcaps">Yima</span> was known in the Shah Nameh <span
-id="fr_84"></span>[\*](#fn_84) as Jamshid. Pride was the cause of his
+id="fr_84"></span>[\*](#fn_84.md) as Jamshid. Pride was the cause of his
 downfall. God conferred favours on him, and, according to the Vendidad,
 he became a mighty and prosperous king. Being elated by success, he
 disowned God, and in the words of Firdosi thus expressed himself:
@@ -90,13 +90,13 @@ London and Aylesbury*.</span>
 
 ### Footnotes
 
-<span id="fn_84"></span>[103:\*](toz06.htm#fr_84) History of Persian
+<span id="fn_84"></span>[103:\*](toz06.htm#fr_84.md) History of Persian
 kings, by the great epic poet Firdosi.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](toz07)
+[Next: Advertisements](toz07.md)
 
 </div>

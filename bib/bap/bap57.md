@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap56) 
-[Next](bap58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap56.md) 
+[Next](bap58.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Philistines and served them forty years.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLII](bap58)
+[Next: Chapter XLII](bap58.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass05)  [Next](nass07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass05)  [Next](nass07.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ that men die quickly.
 
 ------------------------------------------------------------------------
 
-[Next: The Porcupine and the Beaver](nass07)
+[Next: The Porcupine and the Beaver](nass07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai04)  [Next](iai06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai04)  [Next](iai06.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,9 +30,9 @@ We crown Tar-u-ma-ni iz-zu sar-ri!
 
 Away to Samas' temple grand, away!  
   For Accad crowns him, crowns him there!  
-He is our chosen Sar <span id="fr_49"></span>[1](#fn_49) this glorious
+He is our chosen Sar <span id="fr_49"></span>[1](#fn_49.md) this glorious
 day,  
-  Oh, send the Khanga <span id="fr_50"></span>[2](#fn_50) through the
+  Oh, send the Khanga <span id="fr_50"></span>[2](#fn_50.md) through the
 air!
 
 Then chant the chorus, all ye hosts above!  
@@ -76,7 +76,7 @@ And bowing to the priests, he lowly bends
 Before the sacred altar of the Sun,  
 And prays to Samas, Accad's Holy One.
 
- <span id="fr_51"></span>[3](#fn_51)"O Samas, I invoke thee, throned on
+ <span id="fr_51"></span>[3](#fn_51.md)"O Samas, I invoke thee, throned on
 high!  
   Within the cedars' shadow bright thou art,  
 Thy footing rests upon immensity;  
@@ -99,25 +99,25 @@ And men and countries in thy might o'erturn,
 Oh, in thy presence refuge let me find!  
   From those who spells invoke against thy King,  
 Protect one! and my heart within thine, oh, bind!  
-   <span id="fr_52"></span>[4](#fn_52) Thy breath within mine inmost
+   <span id="fr_52"></span>[4](#fn_52.md) Thy breath within mine inmost
 soul, oh, bring!  
 That I with thee, O Samas, may rejoice.  
   And may the gods who me created, take  
 Thy hands and lead me, make thy will my choice,  
-   <span id="fr_53"></span>[5](#fn_53) Direct my breath, my hands, and
+   <span id="fr_53"></span>[5](#fn_53.md) Direct my breath, my hands, and
 of me make  
 They servant, Lord of light of legions vast,  
   O Judge, thy glory hath all things surpassed!"
 
 The King then rises, takes the sacred glass, <span
-id="fr_54"></span>[6](#fn_54)  
+id="fr_54"></span>[6](#fn_54.md)  
 And holds it in the sun before the mass  
 Of waiting fuel on the altar piled.  
 The centring rays--the fuel glowing gild  
 With a round spot of fire and quickly. spring  
 Above the altar curling, while they sing!
 
- <span id="fr_55"></span>[7](#fn_55) "Oh, to the desert places may it
+ <span id="fr_55"></span>[7](#fn_55.md) "Oh, to the desert places may it
 fly,  
   This incantation holy!  
 O spirit of the heavens, us this day  
@@ -153,24 +153,24 @@ With Heaven's vast sublimity!
 
 ### Footnotes
 
-<span id="fn_49"></span>[17:1](iai05.htm#fr_49) "Sar," king.
+<span id="fn_49"></span>[17:1](iai05.htm#fr_49.md) "Sar," king.
 
-<span id="fn_50"></span>[17:2](iai05.htm#fr_50) "Khanga," chorus.
+<span id="fn_50"></span>[17:2](iai05.htm#fr_50.md) "Khanga," chorus.
 
-<span id="fn_51"></span>[18:3](iai05.htm#fr_51) One of the Accadian
+<span id="fn_51"></span>[18:3](iai05.htm#fr_51.md) One of the Accadian
 psalms is here quoted from "Chaldean Magic," by Lenormant, pp. 185, 186.
 See also "Records of the Past," vol. xi. Pl. 17, col. 2.
 
-<span id="fn_52"></span>[19:4](iai05.htm#fr_52) Literally, "Right into
+<span id="fn_52"></span>[19:4](iai05.htm#fr_52.md) Literally, "Right into
 my marrow, O Lords of breath."
 
-<span id="fn_53"></span>[19:5](iai05.htm#fr_53) Literally, "Direct the
+<span id="fn_53"></span>[19:5](iai05.htm#fr_53.md) Literally, "Direct the
 breath of my mouth!"
 
-<span id="fn_54"></span>[19:6](iai05.htm#fr_54) Sacred glass, sun-glass
+<span id="fn_54"></span>[19:6](iai05.htm#fr_54.md) Sacred glass, sun-glass
 used to light the sacred fire.
 
-<span id="fn_55"></span>[19:7](iai05.htm#fr_55) Incantation to Fire
+<span id="fn_55"></span>[19:7](iai05.htm#fr_55.md) Incantation to Fire
 "Records of the Past," vol. xi. p. 137). The Accadian and Assyrian text
 is found in "C. I. W. A.," vol. iv. p. 14, and on tablet K. 49,002, in
 the British Museum.
@@ -178,4 +178,4 @@ the British Museum.
 ------------------------------------------------------------------------
 
 [Next: Column V. Ishtar and Her Maids in the Favorite Haunt of
-Izdubar](iai06)
+Izdubar](iai06.md)

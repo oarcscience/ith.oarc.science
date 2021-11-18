@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml17)  [Next](cml19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml17)  [Next](cml19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
 
 ### CHAPTER XIV
 
-### FINN AND THE FENIANS <span id="fr_222"></span>[1](#fn_222)
+### FINN AND THE FENIANS <span id="fr_222"></span>[1](#fn_222.md)
 
 The epoch of Emain Macha is followed in the annals of ancient Ireland by
 a succession of monarchs who, though doubtless as mythical as King
@@ -28,7 +28,7 @@ connected with the third Gaelic cycle--that which relates the exploits
 of Finn and the Fenians. All these kings had their dealings with the
 national gods. A story contained in a fifteenth-century Irish
 manuscript, and called "The Champion's Prophecy", <span
-id="fr_223"></span>[2](#fn_223) tells how Lugh appeared to Conn,
+id="fr_223"></span>[2](#fn_223.md) tells how Lugh appeared to Conn,
 enveloped him in a magic mist, led him away to an enchanted palace, and
 there prophesied to him the number of his descendants, the length of
 their reigns,
@@ -38,7 +38,7 @@ their reigns,
 and the manner of their deaths. Another tradition relates how Conn's
 son, Connla, was wooed by a goddess and borne away, like the British
 Arthur, in a boat of glass to the Earthly Paradise beyond the sea. <span
-id="fr_224"></span>[1](#fn_224) Yet another relates Conn's own marriage
+id="fr_224"></span>[1](#fn_224.md) Yet another relates Conn's own marriage
 with Becuma of the Fair Skin, wife of that same Labraid of the Quick
 Hand on Sword who, in another legend, married Liban, the sister of Fand,
 Cuchulainn's fairy love. Becuma had been discovered in an intrigue with
@@ -68,11 +68,11 @@ golden apples, and, when it was shaken, it made such sweet music that
 the wounded, the sick, and the sorrowful forgot their pains, and were
 lulled into deep sleep. Cormac kept this treasure all his life; but, at
 his death, it returned into the hands of the gods. <span
-id="fr_225"></span>[1](#fn_225)
+id="fr_225"></span>[1](#fn_225.md)
 
 King Cormac was a contemporary of Finn mac Coul <span
-id="fr_226"></span>[2](#fn_226), whom he appointed head of the
-*Fianna* <span id="fr_227"></span>[3](#fn_227) *Eirinn*, more generally
+id="fr_226"></span>[2](#fn_226.md), whom he appointed head of the
+*Fianna* <span id="fr_227"></span>[3](#fn_227.md) *Eirinn*, more generally
 known as the "Fenians". Around Finn and his men have gathered a cycle of
 legends which were equally popular with the Gaels of both Scotland and
 Ireland. We read of their exploits in stories and poems preserved in the
@@ -101,7 +101,7 @@ mythical character", was "an undoubtedly historical personage; and that
 he existed about the time at which his appearance is recorded in the
 Annals is as certain as that Julius Caesar lived and ruled at the time
 stated on the authority of the Roman historians". <span
-id="fr_228"></span>[1](#fn_228)
+id="fr_228"></span>[1](#fn_228.md)
 
 The opinion of more recent Celtic scholars, however, is opposed to this
 view. Finn's pedigree, preserved in the Book of Leinster, may seem at
@@ -109,7 +109,7 @@ first to give some support to the theory of his real existence, but, on
 more careful examination of it, his own name and that of his father
 equally bewray him. Finn or Fionn, meaning "fair", is the name of one of
 the mythical ancestors of the Gaels, while his father's name,
-Cumhal <span id="fr_229"></span>[2](#fn_229), signifies the "sky", and
+Cumhal <span id="fr_229"></span>[2](#fn_229.md), signifies the "sky", and
 is the same word as *Camulus*, the Gaulish heaven-god identified by the
 Romans with Mars. His followers are as doubtfully human as himself. One
 may compare them with Cuchulainn and the rest of the heroes of Emain
@@ -120,10 +120,10 @@ Macha. Their deeds are not less marvellous.
 <span class="contnote">\[paragraph continues\]</span> Like the Ultonian
 warriors, they move, too, on equal terms with the gods. "The Fianna of
 Erin", says a tract called "The Dialogue of the Elders", <span
-id="fr_230"></span>[1](#fn_230) contained in thirteenth and fourteenth
+id="fr_230"></span>[1](#fn_230.md) contained in thirteenth and fourteenth
 century manuscripts, "had not more frequent and free intercourse with
 the men of settled habitation than with the Tuatha Dé Danann". <span
-id="fr_231"></span>[2](#fn_231) Angus, Mider, Lêr, Manannán, and Bodb
+id="fr_231"></span>[2](#fn_231.md) Angus, Mider, Lêr, Manannán, and Bodb
 the Red, with their countless sons and daughters, loom as large in the
 Fenian, or so-called "Ossianic" stories as do the Fenians themselves.
 They fight for them, or against them; they marry them, and are given to
@@ -140,7 +140,7 @@ century. But the nucleus of the Fenian tales antedates these
 Scandinavian raids, and mortal foes have probably merely stepped into
 the place of those immortal enemies of the gods whose "Lochlann" was a
 country, not over the sea--but under it. <span
-id="fr_232"></span>[3](#fn_232)
+id="fr_232"></span>[3](#fn_232.md)
 
 The earlier historians of Ireland were as ready with their dates and
 facts regarding the Fenian band
@@ -155,7 +155,7 @@ modelled on the Roman legion; each of these bodies contained, on a peace
 footing, three thousand men, but in time of war could be indefinitely
 strengthened. Its object was to defend the coasts of Ireland and the
 country generally, throwing its weight upon the side of any prince who
-[happened](errata.htm#3) to be assailed by foreign foes. During the six
+[happened](errata.htm#3.md) to be assailed by foreign foes. During the six
 months of winter, its members were quartered upon the population, but
 during the summer they had to forage for themselves, which they did by
 hunting and fishing. Thus they lived in the woods and on the open moors,
@@ -192,10 +192,10 @@ jump over a branch as high as his forehead, and stoop under one as low
 as his knee, while running at full speed, and to pluck a thorn out of
 his heel without hindrance to his flight, it is clear that even the rank
 and file of the Fenians must have been quite exceptional athletes. <span
-id="fr_233"></span>[1](#fn_233)
+id="fr_233"></span>[1](#fn_233.md)
 
 But it is time to pass on to a more detailed description of these
-champions. <span id="fr_234"></span>[2](#fn_234) They are a goodly
+champions. <span id="fr_234"></span>[2](#fn_234.md) They are a goodly
 company, not less heroic than the mighty men of Ulster. First comes Finn
 himself, not the strongest in body of the Fenians, but the truest,
 wisest, and kindest, gentle to women, generous to men, and
@@ -207,7 +207,7 @@ trouble or poverty. "If the dead leaves of the forest had been gold, and
 the white foam of the water silver, Finn would have given it all away."
 
 Finn had two sons, Fergus and his more famous brother Ossian <span
-id="fr_235"></span>[1](#fn_235). Fergus of the sweet speech was the
+id="fr_235"></span>[1](#fn_235.md). Fergus of the sweet speech was the
 Fenian's bard, and, also, because of his honeyed words, their
 diplomatist and ambassador. Yet, by the irony of fate, it is to Ossian,
 who is not mentioned as a poet in the earliest texts, that the poems
@@ -217,7 +217,7 @@ of Bodb the Red. A rival goddess changed her into a deer--which explains
 how Ossian got his name, which means "fawn". With such advantages of
 birth, naturally he was speedy enough to run down a red deer hind and
 catch her by the ear, though far less swift-footed than his cousin
-Caoilte <span id="fr_236"></span>[2](#fn_236), the "Thin Man". Neither
+Caoilte <span id="fr_236"></span>[2](#fn_236.md), the "Thin Man". Neither
 was he so strong as his own son Oscar, the mightiest of all the Fenians,
 yet, in his youth, so clumsy that the rest of the band refused to take
 him with them on their warlike expeditions. They changed their minds,
@@ -231,7 +231,7 @@ After this, Oscar was hailed the best warrior of all the
 <span id="img_20800"></span>
 
 [![OSSIAN'S CAVE, GLENCOE](tn/20800.jpg)  
-Click to enlarge](img/20800.jpg)  
+Click to enlarge](img/20800.jpg.md)  
 OSSIAN'S CAVE, GLENCOE  
 
  
@@ -242,12 +242,12 @@ OSSIAN'S CAVE, GLENCOE
 given command of a battalion, and its banner, called the "Terrible
 Broom", was regarded as the centre of every battle, for it was never
 known to retreat a foot. Other prominent Fenians were Goll <span
-id="fr_237"></span>[1](#fn_237), son of Morna, at first Finn's enemy but
+id="fr_237"></span>[1](#fn_237.md), son of Morna, at first Finn's enemy but
 afterwards his follower, a man skilled alike in war and learning. Even
 though he was one-eyed, we are told that he was much loved by women, but
 not so much as Finn's cousin, Diarmait O’Duibhne <span
-id="fr_238"></span>[2](#fn_238), whose fatal beauty ensnared even Finn's
-betrothed bride, Grainne <span id="fr_239"></span>[3](#fn_239). Their
+id="fr_238"></span>[2](#fn_238.md), whose fatal beauty ensnared even Finn's
+betrothed bride, Grainne <span id="fr_239"></span>[3](#fn_239.md). Their
 comic character was Conan, who is represented as an old, bald, vain,
 irritable man, as great a braggart as ancient Pistol and as foul-mouthed
 as Thersites, and yet, after he had once been shamed into activity, a
@@ -257,9 +257,9 @@ actors in its stories.
 The Fenian epic begins, before the birth of its hero, with the struggle
 of two rival clans, each of whom claimed to be the real and only Fianna
 Eirinn. They were called the Clann Morna, of which Goll mac Morna was
-head, and the Clann Baoisgne <span id="fr_240"></span>[4](#fn_240),
+head, and the Clann Baoisgne <span id="fr_240"></span>[4](#fn_240.md),
 commanded by Finn's father, Cumhal. A battle was fought at Cnucha <span
-id="fr_241"></span>[5](#fn_241), in which Goll killed Cumhal, and the
+id="fr_241"></span>[5](#fn_241.md), in which Goll killed Cumhal, and the
 Clann Baoisgne was scattered. Cumhal's wife, however, bore a posthumous
 son, who was brought up among the Slieve Bloom Mountains secretly, for
 fear his father's enemies should find and kill him. The boy, who was at
@@ -267,7 +267,7 @@ first
 
 <span id="page_210">p. 210</span>
 
-called Deimne <span id="fr_242"></span>[1](#fn_242), grew up to be an
+called Deimne <span id="fr_242"></span>[1](#fn_242.md), grew up to be an
 expert hurler, swimmer, runner, and hunter. Later, like Cuchulainn, and
 indeed many modern savages, he took a second, more personal name. Those
 who saw him asked who was the "fair" youth. He accepted the omen, and
@@ -298,7 +298,7 @@ tooth, as he had done when he
 
 [![FINN FINDS THE SALMON OF KNOWLEDGE&lt;br&gt; &lt;i&gt;From the
 Drawing by H. R. Millar&lt;/i&gt;.](tn/21000.jpg)  
-Click to enlarge](img/21000.jpg)  
+Click to enlarge](img/21000.jpg.md)  
 FINN FINDS THE SALMON OF KNOWLEDGE  
 *From the Drawing by H. R. Millar*.  
 
@@ -307,12 +307,12 @@ FINN FINDS THE SALMON OF KNOWLEDGE
 <span id="page_211">p. 211</span>
 
 scalded it, to receive fore-knowledge and magic counsel. <span
-id="fr_243"></span>[1](#fn_243)
+id="fr_243"></span>[1](#fn_243.md)
 
 Thus armed, Finn was more than a match for the Clann Morna. Curious
 legends tell how he discovered himself to his father's old followers,
 confounded his enemies with his magic, and turned them into faithful
-servants. <span id="fr_244"></span>[2](#fn_244) Even Goll of the Blows
+servants. <span id="fr_244"></span>[2](#fn_244.md) Even Goll of the Blows
 had to submit to his sway. Gradually he welded the two opposing clans
 into one Fianna, over which he ruled, taking tribute from the kings of
 Ireland, warring against the Fomorian "Lochlannach", destroying every
@@ -323,10 +323,10 @@ Out of the numberless stories of the Fenian exploits it is hard to
 choose examples. All are heroic, romantic, wild, fantastic. In many of
 them the Tuatha Dé Danann play prominent parts. One such story connects
 itself with an earlier mythological episode already related. The reader
-will remember <span id="fr_245"></span>[3](#fn_245) how, when the Dagda
+will remember <span id="fr_245"></span>[3](#fn_245.md) how, when the Dagda
 gave up the kingship of the immortals, five aspirants appeared to claim
 it; how of these five--Angus, Mider, Lêr, Ilbhreach son of
-[Manannán](errata.htm#4), and Bodb the Red--the latter was chosen; how
+[Manannán](errata.htm#4.md), and Bodb the Red--the latter was chosen; how
 Lêr refused to acknowledge him, but was reconciled later; how Mider,
 equally rebellious, fled to "desert country round Mount Leinster" in
 County Carlow; and how a yearly war was waged upon him and his people by
@@ -362,12 +362,12 @@ Diarmait,
 <span id="page_213">p. 213</span>
 
 as well as most of Mider's many sons, were sorely wounded, but the leech
-Labhra healed all their wounds. <span id="fr_246"></span>[1](#fn_246)
+Labhra healed all their wounds. <span id="fr_246"></span>[1](#fn_246.md)
 
 Sooth to say, the Fenians did not always require the excuse of fairy
 alliance to start them making war on the race of the hills. One of the
 so-called "Ossianic ballads" is entitled "The Chase of the Enchanted
-Pigs of Angus of the Brugh <span id="fr_247"></span>[2](#fn_247)". This
+Pigs of Angus of the Brugh <span id="fr_247"></span>[2](#fn_247.md)". This
 Angus is, of course, the "Son of the Young", and the Brugh that famous
 *sídh* beside the Boyne out of which he cheated his father, the Dagda.
 After the friendly manner of gods towards heroes, he invited Finn and a
@@ -379,8 +379,8 @@ contending that "the gods' life of perpetual feasting" was better than
 all the Fenian huntings, and Finn as stoutly denying it. Finn boasted of
 his hounds, and Angus said that the best of them could not kill one of
 his pigs. Finn angrily replied that his two hounds, Bran <span
-id="fr_248"></span>[3](#fn_248) and Sgeolan <span
-id="fr_249"></span>[4](#fn_249), would kill any pig that trod on dry
+id="fr_248"></span>[3](#fn_248.md) and Sgeolan <span
+id="fr_249"></span>[4](#fn_249.md), would kill any pig that trod on dry
 land. Angus answered that he could show Finn a pig that none of his
 hounds or huntsmen could catch or kill. Here were the makings of a
 pretty quarrel among such inflammable creatures as gods and heroes, but
@@ -422,7 +422,7 @@ always emerge successfully, as Ossian is represented proudly boasting,
 
 The most famous chase of all is, however, not that of deer or boar, but
 of a woman and a man, Finn's betrothed wife and his nephew
-Diarmait. <span id="fr_250"></span>[1](#fn_250) Ever fortunate in war,
+Diarmait. <span id="fr_250"></span>[1](#fn_250.md) Ever fortunate in war,
 the Fenian leader found disaster in his love. Wishing for a wife in his
 old age, he sent to seek Grainne, the daughter of Cormac, the High-King
 of Ireland. Both King Cormac and his daughter consented, and Finn's
@@ -465,7 +465,7 @@ branches for Grainne to shelter in.
 
 Meanwhile Finn had discovered their flight, and his rage knew no bounds.
 He sent his trackers, the Clann Neamhuain <span
-id="fr_251"></span>[1](#fn_251), to follow them. They tracked them to
+id="fr_251"></span>[1](#fn_251.md), to follow them. They tracked them to
 the wood, and one of them climbed a tree, and, looking down, saw the
 hut, with a strong seven-doored fence built round it, and Diarmait and
 
@@ -524,7 +524,7 @@ venomous hounds to take or kill them. But Diarmait conquered all who
 were sent against him.
 
 Yet still Finn pursued, until Diarmait, as a last hope of escape, took
-refuge under a magic quicken-tree <span id="fr_252"></span>[1](#fn_252),
+refuge under a magic quicken-tree <span id="fr_252"></span>[1](#fn_252.md),
 which bore scarlet fruit, the ambrosia of the
 
 <span id="page_219">p. 219</span>
@@ -604,7 +604,7 @@ allowed to return in peace.
 
 But Finn never really forgave, and, soon after, he urged Diarmait to go
 out to the chase of the wild boar of Benn Gulban <span
-id="fr_253"></span>[1](#fn_253). Diarmait killed the boar without
+id="fr_253"></span>[1](#fn_253.md). Diarmait killed the boar without
 getting any hurt; for, like the Greek Achilles, he was invulnerable,
 save in his heel alone. Finn, who knew this, told him to measure out the
 length of the skin with his bare feet. Diarmait did so. Then Finn,
@@ -624,7 +624,7 @@ compassed his death. The ever-slumbering rivalry between Goll and his
 Clann Morna and Finn and his Clann Baoisgne began to show itself as open
 enmity. Quarrels arose, too, between the Fenians and the High-Kings of
 Ireland, which culminated at last in the annihilation of the Fianna at
-the battle of Gabhra <span id="fr_254"></span>[1](#fn_254).
+the battle of Gabhra <span id="fr_254"></span>[1](#fn_254.md).
 
 This is said to have been fought in A.D. 284. Finn himself had perished
 a year before it, in a skirmish with rebellious Fenians at the Ford of
@@ -641,7 +641,7 @@ to St. Patrick, centuries after, of the Fenians' wonderful deeds. Having
 lost his friends of the heroic age, he is said to have cast in his lot
 with the Tuatha Dé Danann. He fought in a battle, with Ilbhreach son of
 Manannán, against Lêr himself, and killed the ancient sea-god with his
-own hand. <span id="fr_255"></span>[2](#fn_255) The tale represents him
+own hand. <span id="fr_255"></span>[2](#fn_255.md) The tale represents him
 taking possession of Lêr's fairy palace of Sídh Fionnechaidh, after
 which we know no more of him, except that
 
@@ -656,9 +656,9 @@ bourne from which no ordinary mortal ever returns. Like Cuchulainn, it
 was upon the invitation of a goddess that he went. The Fenians were
 hunting near Lake Killarney when a lady of more than human beauty came
 to them, and told them that her name was Niamh <span
-id="fr_256"></span>[1](#fn_256), daughter of the Son of the Sea. The
+id="fr_256"></span>[1](#fn_256.md), daughter of the Son of the Sea. The
 Gaelic poet, Michael Comyn, who, in the eighteenth century, rewove the
-ancient story into his own words, <span id="fr_257"></span>[2](#fn_257)
+ancient story into his own words, <span id="fr_257"></span>[2](#fn_257.md)
 describes her in just the same way as one of the old bards would have
 done:
 
@@ -740,7 +740,7 @@ the ground, no
 longer divinely young and fair and strong, but a blind, gray-haired,
 withered old man.
 
-A number of spirited ballads <span id="fr_258"></span>[1](#fn_258) tell
+A number of spirited ballads <span id="fr_258"></span>[1](#fn_258.md) tell
 how Ossian, stranded in his old age upon earthly soil, unable to help
 himself or find his own food, is taken by St. Patrick into his house to
 be converted. The saint paints to him in the brightest colours the
@@ -759,7 +759,7 @@ in the fire; and so he dies as he had lived.
 
 ### Footnotes
 
-<span id="fn_222"></span>[201:1](cml18.htm#fr_222) The translations of
+<span id="fn_222"></span>[201:1](cml18.htm#fr_222.md) The translations of
 Fenian stories are numerous. The reader will find many of them popularly
 retold in Lady Gregory's *Gods and Fighting Men*. Thence he may pass on
 to Mr. Standish Hayes O’Grady's *Silva Gadelica*; the *Waifs and .Strays
@@ -767,118 +767,118 @@ of Celtic Tradition*, especially Vol. IV; Mr. J. G. Campbell's *The
 Fians*; as well as the volumes of the *Revue Celtique* and the
 *Transactions of the Ossianic Society*.
 
-<span id="fn_223"></span>[201:2](cml18.htm#fr_223) See O’Curry's
+<span id="fn_223"></span>[201:2](cml18.htm#fr_223.md) See O’Curry's
 translation in Appendix CXXVIII to his MS. Materials.
 
-<span id="fn_224"></span>[202:1](cml18.htm#fr_224) The story, found in
+<span id="fn_224"></span>[202:1](cml18.htm#fr_224.md) The story, found in
 the Book of the Dun Cow, appears in French in De Jubainville's *Épopée
 Celtique*.
 
-<span id="fn_225"></span>[203:1](cml18.htm#fr_225) This famous story is
+<span id="fn_225"></span>[203:1](cml18.htm#fr_225.md) This famous story is
 told in several MSS. of the fourteenth and fifteenth centuries. For
 translations see Dr. Whitley Stokes, *Irische Texte*, and Standish Hayes
 O’Grady, *Transactions of the Ossianic Society*, Vol. III.
 
-<span id="fn_226"></span>[203:2](cml18.htm#fr_226) In Gaelic spelling,
+<span id="fn_226"></span>[203:2](cml18.htm#fr_226.md) In Gaelic spelling,
 Fionn mac Cumhail.
 
-<span id="fn_227"></span>[203:3](cml18.htm#fr_227) Pronounced *Fēna*.
+<span id="fn_227"></span>[203:3](cml18.htm#fr_227.md) Pronounced *Fēna*.
 
-<span id="fn_228"></span>[204:1](cml18.htm#fr_228) O’Curry: *MS.
+<span id="fn_228"></span>[204:1](cml18.htm#fr_228.md) O’Curry: *MS.
 Materials*, Lecture XIV, p. 303.
 
-<span id="fn_229"></span>[204:2](cml18.htm#fr_229) Pronounced *Coul* or
+<span id="fn_229"></span>[204:2](cml18.htm#fr_229.md) Pronounced *Coul* or
 *Cooal*.
 
-<span id="fn_230"></span>[205:1](cml18.htm#fr_230) *Agalamh na
+<span id="fn_230"></span>[205:1](cml18.htm#fr_230.md) *Agalamh na
 Senórach*. Under the title *The Colloquy of the Ancients*, there is an
 excellent translation of it, from the Book of Lismore, in Standish Hayes
 O’Grady 's *Silva Gadelica*.
 
-<span id="fn_231"></span>[205:2](cml18.htm#fr_231) O’Grady: *Silva
+<span id="fn_231"></span>[205:2](cml18.htm#fr_231.md) O’Grady: *Silva
 Gadelica*.
 
-<span id="fn_232"></span>[205:3](cml18.htm#fr_232) *Hibbert Lectures*,
+<span id="fn_232"></span>[205:3](cml18.htm#fr_232.md) *Hibbert Lectures*,
 p. 355.
 
-<span id="fn_233"></span>[207:1](cml18.htm#fr_233) See *The Enumeration
+<span id="fn_233"></span>[207:1](cml18.htm#fr_233.md) See *The Enumeration
 of Finn's Household*, translated by O’Grady in *Silva Gadelica*.
 
-<span id="fn_234"></span>[207:2](cml18.htm#fr_234) For a good account,
+<span id="fn_234"></span>[207:2](cml18.htm#fr_234.md) For a good account,
 see J. G. Campbell's *The Finns*, pp. 10-80.
 
-<span id="fn_235"></span>[208:1](cml18.htm#fr_235) In more correct
+<span id="fn_235"></span>[208:1](cml18.htm#fr_235.md) In more correct
 spelling, *Oisin*, and pronounced *Usheen* or *Isheen*.
 
-<span id="fn_236"></span>[208:2](cml18.htm#fr_236) Pronounced *Kylta* or
+<span id="fn_236"></span>[208:2](cml18.htm#fr_236.md) Pronounced *Kylta* or
 *Cweeltia*.
 
-<span id="fn_237"></span>[209:1](cml18.htm#fr_237) Pronounced *Gaul*.
+<span id="fn_237"></span>[209:1](cml18.htm#fr_237.md) Pronounced *Gaul*.
 
-<span id="fn_238"></span>[209:2](cml18.htm#fr_238) Pronounced *Dermat
+<span id="fn_238"></span>[209:2](cml18.htm#fr_238.md) Pronounced *Dermat
 O’Dyna*.
 
-<span id="fn_239"></span>[209:3](cml18.htm#fr_239) Pronounced *Grania*.
+<span id="fn_239"></span>[209:3](cml18.htm#fr_239.md) Pronounced *Grania*.
 
-<span id="fn_240"></span>[209:4](cml18.htm#fr_240) Pronounced *Baskin*.
+<span id="fn_240"></span>[209:4](cml18.htm#fr_240.md) Pronounced *Baskin*.
 
-<span id="fn_241"></span>[209:5](cml18.htm#fr_241) Now Castleknock, near
+<span id="fn_241"></span>[209:5](cml18.htm#fr_241.md) Now Castleknock, near
 Dublin.
 
-<span id="fn_242"></span>[210:1](cml18.htm#fr_242) Pronounced *Demna*.
+<span id="fn_242"></span>[210:1](cml18.htm#fr_242.md) Pronounced *Demna*.
 
-<span id="fn_243"></span>[211:1](cml18.htm#fr_243) This and other
+<span id="fn_243"></span>[211:1](cml18.htm#fr_243.md) This and other
 "boy-exploits" of Finn mac Cumhail are contained in a little tract
 written upon a fragment of the ninth century *Psalter of Cashel*. It is
 translated in Vol. IV of the *Transactions of the Ossianic Society*.
 
-<span id="fn_244"></span>[211:2](cml18.htm#fr_244) Campbell's *Fians*,
+<span id="fn_244"></span>[211:2](cml18.htm#fr_244.md) Campbell's *Fians*,
 p. 22.
 
-<span id="fn_245"></span>[211:3](cml18.htm#fr_245) See [chap.
-XI](cml15.htm#ch-11)--"The Gods in Exile".
+<span id="fn_245"></span>[211:3](cml18.htm#fr_245.md) See [chap.
+XI](cml15.htm#ch-11.md)--"The Gods in Exile".
 
-<span id="fn_246"></span>[213:1](cml18.htm#fr_246) From the *Colloquy of
+<span id="fn_246"></span>[213:1](cml18.htm#fr_246.md) From the *Colloquy of
 the Ancients* in O’Grady's *Silva Gadelica*.
 
-<span id="fn_247"></span>[213:2](cml18.htm#fr_247) It is translated in
+<span id="fn_247"></span>[213:2](cml18.htm#fr_247.md) It is translated in
 Vol. VI of the *Transactions of the Ossianic Society*.
 
-<span id="fn_248"></span>[213:3](cml18.htm#fr_248) Pronounced *Brăn*,
+<span id="fn_248"></span>[213:3](cml18.htm#fr_248.md) Pronounced *Brăn*,
 not *Brān*.
 
-<span id="fn_249"></span>[213:4](cml18.htm#fr_249) Pronounced *Skōlaun*
+<span id="fn_249"></span>[213:4](cml18.htm#fr_249.md) Pronounced *Skōlaun*
 or *Scolaing*.
 
-<span id="fn_250"></span>[215:1](cml18.htm#fr_250) A fine translation of
+<span id="fn_250"></span>[215:1](cml18.htm#fr_250.md) A fine translation of
 the *Pursuit of Diarmait and Grainne* has been published by S. H.
 O’Grady in Vol. III of the *Transactions of the Ossianic Society*.
 
-<span id="fn_251"></span>[216:1](cml18.htm#fr_251) Pronounced *Navin* or
+<span id="fn_251"></span>[216:1](cml18.htm#fr_251.md) Pronounced *Navin* or
 *Nowin*.
 
-<span id="fn_252"></span>[218:1](cml18.htm#fr_252) The mountain-ash, or
+<span id="fn_252"></span>[218:1](cml18.htm#fr_252.md) The mountain-ash, or
 rowan.
 
-<span id="fn_253"></span>[221:1](cml18.htm#fr_253) Now called Benbulben.
+<span id="fn_253"></span>[221:1](cml18.htm#fr_253.md) Now called Benbulben.
 It is near Sligo.
 
-<span id="fn_254"></span>[222:1](cml18.htm#fr_254) Pronounced *Gavra*.
+<span id="fn_254"></span>[222:1](cml18.htm#fr_254.md) Pronounced *Gavra*.
 
-<span id="fn_255"></span>[222:2](cml18.htm#fr_255) See O’Grady's *Silva
+<span id="fn_255"></span>[222:2](cml18.htm#fr_255.md) See O’Grady's *Silva
 Gadelica*.
 
-<span id="fn_256"></span>[223:1](cml18.htm#fr_256) Pronounced *Nee-av*.
+<span id="fn_256"></span>[223:1](cml18.htm#fr_256.md) Pronounced *Nee-av*.
 
-<span id="fn_257"></span>[223:2](cml18.htm#fr_257) *The Lay of Oisin in
+<span id="fn_257"></span>[223:2](cml18.htm#fr_257.md) *The Lay of Oisin in
 the Land of Youth*, translated by Brian O’Looney for the Ossianic
 Society--*Transactions*, Vol. IV. A fine modem poem on the same subject
 is W. B. Yeats' *Wanderings of Oisin*.
 
-<span id="fn_258"></span>[226:1](cml18.htm#fr_258) See the *Transactions
+<span id="fn_258"></span>[226:1](cml18.htm#fr_258.md) See the *Transactions
 of the Ossianic Society*. They are generally called the *Dialogues of
 Oisin and Patrick*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. The Decline and Fall of the Gods](cml19)
+[Next: Chapter XV. The Decline and Fall of the Gods](cml19.md)

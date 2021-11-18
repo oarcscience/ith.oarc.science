@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw16) 
-[Next](wbw18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw16.md) 
+[Next](wbw18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -148,6 +148,6 @@ fear for the morrow, and no seeds of enmity and death sown betwixt them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII: The Maid Gives Walter Tryst](wbw18)
+[Next: Chapter XVIII: The Maid Gives Walter Tryst](wbw18.md)
 
 </div>

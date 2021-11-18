@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot04) 
-[Next](bot06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot04.md) 
+[Next](bot06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -55,14 +55,14 @@ present day.
 
 Amongst the remains of the Stone Age, Talismans formed in the shape of
 Axe-heads have been found pierced with holes for suspension, and
-Illustration No. 13 ([Plate I](#img_pl01)) is an example in Slate of the
+Illustration No. 13 ([Plate I](#img_pl01).md) is an example in Slate of the
 Neolithic period found in Portugal, and its ornament is the Divine in
 its feminine aspect as represented by prehistoric man, who placed the
 feminine first in his beliefs, tracing his own descent and his position
 in the tribe through the Mother.
 
-Illustration No. 16 ([Plate I](#img_pl01)) is of a blue flint Talisman
-from Egypt; and No. 15 ([Plate I](#img_pl01)) is in Hæmatite, and comes
+Illustration No. 16 ([Plate I](#img_pl01).md) is of a blue flint Talisman
+from Egypt; and No. 15 ([Plate I](#img_pl01).md) is in Hæmatite, and comes
 from the Upper Congo, where the natives of the present day regard it as
 an effective Talisman against disease.
 
@@ -77,14 +77,14 @@ dropped or dipped, being considered very efficacious in.
 
 <span id="img_pl01"></span> <span align="CENTER"> [![PLATE I. PRIMEVAL,
 CHINESE, INDIAN AND THIBETAN TALISMANS.](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 PLATE I. PRIMEVAL, CHINESE, INDIAN AND THIBETAN TALISMANS.  
 </span>
 
 <span id="page_15">p. 15</span>
 
 curing feminine ailments (see Illustration No. 17, [Plate
-I](#img_pl01)).
+I](#img_pl01).md).
 
 <span class="smallcaps">The Swastika</span>, one of the oldest and
 certainly the most universal Talisman known, can be traced back to the
@@ -113,7 +113,7 @@ well; *Asti*—being, making it = "Good Being"; and it is still used in
 India, China, and Japan as an Amulet for long life, good fortune, and
 good luck.
 
-The illustration shown on [Plate I](#img_pl01), No. 14 is from a shield
+The illustration shown on [Plate I](#img_pl01.md), No. 14 is from a shield
 of the Bronze Age, the background being of dull red enamel, and the arms
 turned to the left; whilst No. 18, which turns to the right, is taken
 from between the feet of a statue of Buddha from Ceylon, and is also
@@ -187,7 +187,7 @@ protective and enduring virtues.
 
 When shown coiled, its folds signify succession of ages, and if the tail
 is hidden, unfathomable antiquity (see Illustration No. 22, [Plate
-I](#img_pl01), which is taken from an ancient Japanese example in the
+I](#img_pl01.md), which is taken from an ancient Japanese example in the
 British Museum).
 
 In primeval days, serpents of the Python family attained huge
@@ -267,13 +267,13 @@ and at the commencement of our present civilisation was considered an
 all-powerful Talisman, particularly when used with either a Tau Cross,
 the Hebrew Yod, or the Crux Ansata in the centre.
 
-The Illustration No. 23, [Plate I](#img_pl01), is from an Indian form of
+The Illustration No. 23, [Plate I](#img_pl01.md), is from an Indian form of
 the Talisman, and has the Sun's symbol in the centre.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](bot06)
+[Next: Chapter III](bot06.md)
 
 </div>

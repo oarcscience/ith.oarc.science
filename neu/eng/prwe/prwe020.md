@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe019)  [Next](prwe021) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe019)  [Next](prwe021.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ and the hole has ever since been most favourable to the growth of ivy.
 
 ------------------------------------------------------------------------
 
-[Next: The Giant Wrath, or Ralph](prwe021)
+[Next: The Giant Wrath, or Ralph](prwe021.md)

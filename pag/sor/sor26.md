@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor25)  [Next](sor27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor25)  [Next](sor27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -174,7 +174,7 @@ registrar, wrote the report of the proceedings. Did he report
 impartially? This is open to legitimate doubt, when we see how this same
 clerical registrar systematically intimidated the witnesses, and went
 every evening to show their depositions to the Jesuits. <span
-id="fr_93"></span>[1](#fn_93)
+id="fr_93"></span>[1](#fn_93.md)
 
 The two joint vicars of Charlotte Cadière's parish, who were heard
 first, gave their evidence drily, showing no bias in her favour, but
@@ -227,7 +227,7 @@ on Aubany's behalf. This settled, he came back full of zeal, a Jesuit to
 the backbone, to his flock at Ollioules,—and the poor flock trembled not
 a little on the father's informing them that he was commissioned to warn
 them that, if they were not discreet, *they would be put to the
-question*. <span id="fr_94"></span>[2](#fn_94)
+question*. <span id="fr_94"></span>[2](#fn_94.md)
 
 For all this, they failed to elicit what they wanted from the fifteen
 nuns. Barely two or three were for Girard, and all detailed facts,
@@ -243,7 +243,7 @@ if they were against Girard,
 <span id="page_289">p. 289</span>
 
 barring their entrance altogether and impudently putting them to the
-door again. <span id="fr_95"></span>[3](#fn_95)
+door again. <span id="fr_95"></span>[3](#fn_95.md)
 
 The ecclesiastical judge and the King's "lieutenant" were simply
 cat's-paws in the hands of the Jesuits. This the whole town realised
@@ -355,7 +355,7 @@ So furious were they that they regretted bitterly they had no
 executioner or torture "to make her sing out a bit." This was always
 *ultima ratio;* in every century the Parlements resorted to it. I have
 before me at the present moment an eloquent panegyric of torture, <span
-id="fr_96"></span>[4](#fn_96) written in 1780 by a learned member of
+id="fr_96"></span>[4](#fn_96.md) written in 1780 by a learned member of
 Parlement, promoted to a seat on the Great Council, and dedicated to the
 King (Louis XVI.), and approved in most flattering terms by his Holiness
 Pius VI.
@@ -699,11 +699,11 @@ the eighteenth century. Spain in a single reign, that of Philip V.,
 burns 1600 persons, even burning a witch as late as 1782. Germany burned
 a witch in 1751, and Switzerland one in 1781. Rome burns still,—on the
 sly, it is true, in the furnaces and cellars of the Inquisition. <span
-id="fr_97"></span>[5](#fn_97)
+id="fr_97"></span>[5](#fn_97.md)
 
 "But doubtless France at any rate is more humane?"—France is
 inconsistent. In 1718 a wizard was burned at Bordeaux. <span
-id="fr_98"></span>[6](#fn_98)
+id="fr_98"></span>[6](#fn_98.md)
 
 In 1724 and 1726 fires were lighted in the Place de Grève for offences
 which at Versailles passed for schoolboys’ tricks. The tutors to the
@@ -803,7 +803,7 @@ This deep and powerful movement reacted on the Parlement itself. The
 enemies of the Jesuits were instantly encouraged and fortified, so much
 so as to brave the threats of those in power, the influence the Jesuits
 could bring to bear, the lightnings of Versailles that Fleury might hurl
-at them. <span id="fr_99"></span>[7](#fn_99)
+at them. <span id="fr_99"></span>[7](#fn_99.md)
 
 Girard's own friends, seeing their numbers decreasing and their ranks
 thinning, called for an immediate decision,—which was given October
@@ -876,28 +876,28 @@ and her voice stifled for ever in an *in pace*.
 
 She was only twenty-one at the time the judgment was delivered, and she
 had always hoped for a short life. Pray God, she had her wish! <span
-id="fr_100"></span>[8](#fn_100)
+id="fr_100"></span>[8](#fn_100.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_93"></span>[287:1](sor26.htm#fr_93) Page 80 of the folio
+<span id="fn_93"></span>[287:1](sor26.htm#fr_93.md) Page 80 of the folio
 edition, vol. i., p. 33 of the 12mo.
 
-<span id="fn_94"></span>[288:2](sor26.htm#fr_94) *Trial*, 12mo., vol.
+<span id="fn_94"></span>[288:2](sor26.htm#fr_94.md) *Trial*, 12mo., vol.
 ii., p. 198.
 
-<span id="fn_95"></span>[289:3](sor26.htm#fr_95) Ibid., 12mo., vol. i.,
+<span id="fn_95"></span>[289:3](sor26.htm#fr_95.md) Ibid., 12mo., vol. i.,
 p. 44.
 
-<span id="fn_96"></span>[292:4](sor26.htm#fr_96) Muyart de Vouglans, at
+<span id="fn_96"></span>[292:4](sor26.htm#fr_96.md) Muyart de Vouglans, at
 the end of his *Loix criminelles*, fol., 1780.
 
-<span id="fn_97"></span>[301:5](sor26.htm#fr_97) This detail is sent us
+<span id="fn_97"></span>[301:5](sor26.htm#fr_97.md) This detail is sent us
 by a "Consultor" of the Holy Office still alive.
 
-<span id="fn_98"></span>[301:6](sor26.htm#fr_98) I am not here speaking
+<span id="fn_98"></span>[301:6](sor26.htm#fr_98.md) I am not here speaking
 of executions the people carried out on their own account. A hundred
 years ago, in a village of Provence, an old woman, to whom a landowner
 refused an alms, flew into a passion and said, "You will be dead
@@ -908,7 +908,7 @@ where she was burned alive. The Parlement made a pretence of inquiry,
 but no one was punished. To the present day the people of the village in
 question are called *woman-burners* (brulo-fenno) by their neighbours.
 
-<span id="fn_99"></span>[304:7](sor26.htm#fr_99) A grotesque anecdote
+<span id="fn_99"></span>[304:7](sor26.htm#fr_99.md) A grotesque anecdote
 symbolises and wonderfully well expresses the condition of the
 Parlement. The official reporter was reading his work, his conclusions
 with regard to the case as a trial for witchcraft and the share the
@@ -922,7 +922,7 @@ of the people, of the devil of popular indignation, pinned the Parlement
 down, and held it motionless, like the judge entangled in his gown in
 this story.
 
-<span id="fn_100"></span>[306:8](sor26.htm#fr_100) Persecution has gone
+<span id="fn_100"></span>[306:8](sor26.htm#fr_100.md) Persecution has gone
 on, both by means of the publication of falsified documents, and even in
 the pages of the historians of the present day. The *Trial* (folio,
 1733) itself, our main source of information, is followed by an Index
@@ -942,4 +942,4 @@ victim!
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](sor27)
+[Next: Epilogue](sor27.md)

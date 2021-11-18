@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](choc02)  [Next](choc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](choc02)  [Next](choc04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Occultism*, by Paul Carus, \[1907\], at Intangible Textual
 Heritage
 
@@ -49,7 +49,7 @@ nature science. If the
 
 <span id="img_03500"></span> <span align="CENTER"> [![A DIVINATION
 OUTFIT.](tn/03500.jpg)  
-Click to enlarge](img/03500.jpg)  
+Click to enlarge](img/03500.jpg.md)  
 A DIVINATION OUTFIT.  
 </span>
 
@@ -102,7 +102,7 @@ referred to in the oldest documents.
 
 ### Footnotes
 
-<span id="fn_13"></span>[34:21](choc02.htm#fr_13) Anu, Bel, and Ea are
+<span id="fn_13"></span>[34:21](choc02.htm#fr_13.md) Anu, Bel, and Ea are
 the Sumerian trinity. The words Bel and Ea are illegible on the tablet
 and have been restored by an unequivocal emendation. A doubtful word of
 the tablet has been translated by "omen" which presupposes that the
@@ -110,4 +110,4 @@ translator regards the tablet as a means of divination.
 
 ------------------------------------------------------------------------
 
-[Next: Urim and Thummim](choc04)
+[Next: Urim and Thummim](choc04.md)

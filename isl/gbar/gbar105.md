@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar104) [Next](gbar106)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar104) [Next](gbar106.md)
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ salvation of our people, every one of us saying:'Amen.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar106)
+[Next](gbar106.md)

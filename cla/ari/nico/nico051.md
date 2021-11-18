@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico050) 
-[Next](nico052) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico050.md) 
+[Next](nico052.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ such as man is liable to, are not excusable.
 ------------------------------------------------------------------------
 
 [Next: Chapter 9. Can a man be voluntarily treated
-unjustly?...](nico052)
+unjustly?...](nico052.md)

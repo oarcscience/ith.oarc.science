@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha08)  [Next](sha10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha08)  [Next](sha10.md) 
 
 ------------------------------------------------------------------------
 
@@ -608,4 +608,4 @@ And yet my sad and stricken heart
 
 ------------------------------------------------------------------------
 
-[Next: Act VI. Separation From Shakuntala](sha10)
+[Next: Act VI. Separation From Shakuntala](sha10.md)

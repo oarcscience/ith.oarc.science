@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh35)  [Next](ulh37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh35)  [Next](ulh37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -43,18 +43,18 @@ his fellows by the noise of their furious couching disturbed the prayers
 and rituals of King Liloa and his priests, Kane himself being the chief
 offender by his blowing on the conch-shell Kihapú, stolen from Liloa's
 temple of Paka’alana; its recovery by the wit and dramatic action of the
-gifted dog Puapua-lenalena. (See [p. 131](ulh22.htm#page_131).)
+gifted dog Puapua-lenalena. (See [p. 131](ulh22.htm#page_131)..md)
 
 *Mele*
 
 <div style="margin-left: 32px">
 
 Ku e, naná e!  
-Makole <span id="fr_435"></span>[a](#fn_419) o Ku!  
-Hoolei ia ka lei, <span id="fr_436"></span>[b](#fn_420)  
+Makole <span id="fr_435"></span>[a](#fn_419.md) o Ku!  
+Hoolei ia ka lei, <span id="fr_436"></span>[b](#fn_420.md)  
 I lei no Puapua-lenalena,  
-5 He lei hinano no Kahili, <span id="fr_437"></span>[c](#fn_421)  
-He wehiwehi no Niho-kú. <span id="fr_438"></span>[d](#fn_422)
+5 He lei hinano no Kahili, <span id="fr_437"></span>[c](#fn_421.md)  
+He wehiwehi no Niho-kú. <span id="fr_438"></span>[d](#fn_422.md)
 
 </div>
 
@@ -62,26 +62,26 @@ He wehiwehi no Niho-kú. <span id="fr_438"></span>[d](#fn_422)
 
 <div style="margin-left: 32px">
 
-Kaanini ka lani, <span id="fr_439"></span>[a](#fn_423) uwé ka honua;  
+Kaanini ka lani, <span id="fr_439"></span>[a](#fn_423.md) uwé ka honua;  
 A aoa aku oe;  
-Lohe o Hiwa-uli, <span id="fr_440"></span>[b](#fn_424)  
+Lohe o Hiwa-uli, <span id="fr_440"></span>[b](#fn_424.md)  
 10 Ka milimili a ka lani.  
 Noho opua i ka malámaláma  
-Málama ia ka ipu. <span id="fr_441"></span>[c](#fn_425)  
-He hano-wai no Kilioe, <span id="fr_442"></span>[d](#fn_426)  
+Málama ia ka ipu. <span id="fr_441"></span>[c](#fn_425.md)  
+He hano-wai no Kilioe, <span id="fr_442"></span>[d](#fn_426.md)  
 Wahine noho pali o Haena.  
-15 Enaena na ahi o Kilauea, <span id="fr_443"></span>[e](#fn_427)  
-Ka haku pali o Kamohoalii. <span id="fr_444"></span>[f](#fn_428)  
+15 Enaena na ahi o Kilauea, <span id="fr_443"></span>[e](#fn_427.md)  
+Ka haku pali o Kamohoalii. <span id="fr_444"></span>[f](#fn_428.md)  
 A noho i Waipi’o,  
 Ka pali kapu a Kane.  
 Moe ole ka po o he alii,  
 20 Ke kani mau o Kiha-pú.  
 Ukiuki, uluhua ke alii  
-Hoouna ka elele; <span id="fr_445"></span>[g](#fn_429)  
+Hoouna ka elele; <span id="fr_445"></span>[g](#fn_429.md)  
 Loaa i Kauai o Máno.  
 Kupueu a Wai-uli me Kahili;  
-25 A ao aku oe, aoa, <span id="fr_446"></span>[h](#fn_430) aoa a aoa.  
-Hana e o Kaua-hoa, <span id="fr_447"></span>[i](#fn_431)  
+25 A ao aku oe, aoa, <span id="fr_446"></span>[h](#fn_430.md) aoa a aoa.  
+Hana e o Kaua-hoa, <span id="fr_447"></span>[i](#fn_431.md)  
 Ka mea úi o Hanalei,  
 Hu'e’a kaua, moe i ke awakea,
 
@@ -91,18 +91,18 @@ Hu'e’a kaua, moe i ke awakea,
 
 <div style="margin-left: 32px">
 
-Kapae ke kaua o ka hoahanau! <span id="fr_448"></span>[a](#fn_432)  
+Kapae ke kaua o ka hoahanau! <span id="fr_448"></span>[a](#fn_432.md)  
 30 Hookahi no pua o ka oi;  
-Awili pu me ke kaio'e. <span id="fr_449"></span>[b](#fn_433)  
+Awili pu me ke kaio'e. <span id="fr_449"></span>[b](#fn_433.md)  
 I lei no Puapua-lenalena.  
 O ku’u luhi ua hiki iho la,  
-Ka nioi o Paka’a-lana. <span id="fr_450"></span>[c](#fn_434)  
+Ka nioi o Paka’a-lana. <span id="fr_450"></span>[c](#fn_434.md)  
 35 A lana ka manao, hakuko’i ’loko,  
 Ka hae mau ana a Puapua-lenalena,  
-A hiki i Kumu-kahi, <span id="fr_451"></span>[d](#fn_435)  
+A hiki i Kumu-kahi, <span id="fr_451"></span>[d](#fn_435.md)  
 Kahi au i noho ai,  
 A hiki iho la ka elele,  
-40 Inu i ka awa kau-laau o Puna. <span id="fr_452"></span>[e](#fn_436)  
+40 Inu i ka awa kau-laau o Puna. <span id="fr_452"></span>[e](#fn_436.md)  
 Aoa, he, he, hene!
 
 </div>
@@ -114,7 +114,7 @@ doubt, of his notorious addiction to awa, in which he was not alone
 among the gods. But it is not at all certain that the Hawaiians looked
 upon this ophthalmic redness as repulsive or disgraceful. Everything
 connected with awa had for them a cherished value, In the mele given on
-[p. 130](ulh22.htm#page_130) the cry was, "Kane is drunken with awa!"
+[p. 130](ulh22.htm#page_130.md) the cry was, "Kane is drunken with awa!"
 The two gods Kane and Ku were companions in their revels as well as in
 nobler adventures. Such a poem as this flashes a strong light into the
 workings of the Hawaiian mind on the creations of their own imagination,
@@ -254,33 +254,33 @@ vowel-combination.
 
 ### Footnotes
 
-<span id="fn_419"></span>[223:a](ulh36.htm#fr_435) *Makole*. Red-eyed;
+<span id="fn_419"></span>[223:a](ulh36.htm#fr_435.md) *Makole*. Red-eyed;
 ophthalmic.
 
-<span id="fn_420"></span>[223:b](ulh36.htm#fr_436) The wreath, *lei*, is
+<span id="fn_420"></span>[223:b](ulh36.htm#fr_436.md) The wreath, *lei*, is
 not for the god, but for the dog Puapua-lenalena, the one who in the
 story recovered the stolen conch. *Kiha-pú* (verse 20), with which god
 Kane made night hideous and disturbed the repose of pious King Liloa
 (*Moe ole ka po o ke alii*, verse 19).
 
-<span id="fn_421"></span>[223:c](ulh36.htm#fr_437) *Kahili*. Said to be
+<span id="fn_421"></span>[223:c](ulh36.htm#fr_437.md) *Kahili*. Said to be
 the foster mother of Puapua-lenalena.
 
-<span id="fn_422"></span>[223:d](ulh36.htm#fr_438) *Niho-kú*. Literally
+<span id="fn_422"></span>[223:d](ulh36.htm#fr_438.md) *Niho-kú*. Literally
 an upright tooth, was the name of the hill on which lived the old couple
 who were the foster parents of the dog.
 
-<span id="fn_423"></span>[224:a](ulh36.htm#fr_439) *Kaanini ka lani*,
+<span id="fn_423"></span>[224:a](ulh36.htm#fr_439.md) *Kaanini ka lani*,
 etc. Portents by which heaven and earth expressed their appreciation of
 the birth of a new prodigy, the dog Puapua-lenalena.
 
-<span id="fn_424"></span>[224:b](ulh36.htm#fr_440) *Hiwa-uli*. An
+<span id="fn_424"></span>[224:b](ulh36.htm#fr_440.md) *Hiwa-uli*. An
 epithet applied to the island of Hawaii, perhaps on account of the
 immense extent of territory on that island that was simply black lava;
 *hiwa*, black, was a sacred color. The term *uli* has reference to its
 verdancy.
 
-<span id="fn_425"></span>[224:c](ulh36.htm#fr_441) *Ipu*. Wai-uli, the
+<span id="fn_425"></span>[224:c](ulh36.htm#fr_441.md) *Ipu*. Wai-uli, the
 foster father of the dog, while fishing in a mountain brook, brought up
 a pebble on his hook; his wife, who was childless and yearned for
 offspring, kept it in a calabash wrapped in choice tapa. In a year or
@@ -288,11 +288,11 @@ two it had developed into the wonderful dog, Puapua-lenalena. The
 calabash was the *ipu* here mentioned, the same as the *hano wai* (verse
 13), a water-container.
 
-<span id="fn_426"></span>[224:d](ulh36.htm#fr_442) Kilióe. A sorceress
+<span id="fn_426"></span>[224:d](ulh36.htm#fr_442.md) Kilióe. A sorceress
 who lived at Haéna. Kauai, on the steep cliffs that were inaccessible to
 human foot.
 
-<span id="fn_427"></span>[224:e](ulh36.htm#fr_443) *Ena-ena na ahi o
+<span id="fn_427"></span>[224:e](ulh36.htm#fr_443.md) *Ena-ena na ahi o
 Kilauea*. "Hot are the fires of Kilauea." The duplicated word *ena-ena*,
 taken in connection with *Ha-ena* in the previous verse, is a capital
 instance of a form of assonance, or nonterminal rhyme, much favored and
@@ -302,24 +302,24 @@ hard to reconcile with unity one may think that the poet was seduced
 from the straight and narrow way by this opportunity for an indulgence
 that sacrifices reason to rhyme.
 
-<span id="fn_428"></span>[224:f](ulh36.htm#fr_444) *Kamoho-alii*. The
+<span id="fn_428"></span>[224:f](ulh36.htm#fr_444.md) *Kamoho-alii*. The
 brother of Pele; his person was so sacred that the flames and smoke of
 Kilauea dared not invade the bank on which he reposed. The connection of
 thought between this and the main line of argument is not clear.
 
-<span id="fn_429"></span>[224:g](ulh36.htm#fr_445) *Hoouna ka elele*.
+<span id="fn_429"></span>[224:g](ulh36.htm#fr_445.md) *Hoouna ka elele*.
 According to one story Liloa dispatched a messenger to bring
 Puapua-lenalena and his master to Waipi’o to aid him in regaining
 possession of Kiha-pú.
 
-<span id="fn_430"></span>[224:h](ulh36.htm#fr_446) *A no aku oe, aoa* \*
+<span id="fn_430"></span>[224:h](ulh36.htm#fr_446.md) *A no aku oe, aoa* \*
 \* \* . This indicated the dog's assent. Puapua-lenalena understood what
 was said to him, but could make no reply in human speech. When a
 question was put to him, if he wished to make a negative answer, he
 would keep silent; but if he wished to express assent to a proposition,
 he barked and frisked about.
 
-<span id="fn_431"></span>[224:i](ulh36.htm#fr_447) *Hana e o Kaua-hoa*.
+<span id="fn_431"></span>[224:i](ulh36.htm#fr_447.md) *Hana e o Kaua-hoa*.
 \* \* \* No one has been found who can give a satisfactory explanation
 of the logical connection existing between the passage here cited and
 the rest of the poem. It treats of an armed conflict between Kauahoa and
@@ -331,30 +331,30 @@ to Kauahoa's liege-lord Ai-kanaka. Kauahoa's answer to this proposition
 is given in verse 28; *Hu'e a kaua, aloe i ke awakea*!--"Strike home,
 then sleep at midday!" The sleep at midday was the sleep of death.
 
-<span id="fn_432"></span>[225:a](ulh36.htm#fr_448) *Kapae ke kaua o ka
+<span id="fn_432"></span>[225:a](ulh36.htm#fr_448.md) *Kapae ke kaua o ka
 hoahanau!* This was the reply of Kawelo, urging Kauahoa to set the
 demands of kinship above those of honor and loyalty to his liege-lord.
 In the battle that ensued Kauahoa came to his death. The story of Kawelo
 is full of romance.
 
-<span id="fn_433"></span>[225:b](ulh36.htm#fr_449) *Kaio'e*. Said to be
+<span id="fn_433"></span>[225:b](ulh36.htm#fr_449.md) *Kaio'e*. Said to be
 a choice and beautiful flower found on Kauai. It is not described by
 Hillebrand.
 
-<span id="fn_434"></span>[225:c](ulh36.htm#fr_450) *Ka nioi o
+<span id="fn_434"></span>[225:c](ulh36.htm#fr_450.md) *Ka nioi o
 Paka’a-lana*. The doorsill of the temple, *heiau*, of Paka’a-lana was
 made of the exceedingly hard wood *nioi*. It was to this temple that
 Puapua-lenalena brought the conch Kiha-pú when he had stolen (recovered)
 it from god Kane.
 
-<span id="fn_435"></span>[225:d](ulh36.htm#fr_451)
-[*Kumukahi*](errata.htm#10). See note e on [p. 197](ulh28.htm#page_197).
+<span id="fn_435"></span>[225:d](ulh36.htm#fr_451.md)
+[*Kumukahi*](errata.htm#10). See note e on [p. 197](ulh28.htm#page_197.md).
 
-<span id="fn_436"></span>[225:e](ulh36.htm#fr_452) *Awa kau-laau o
+<span id="fn_436"></span>[225:e](ulh36.htm#fr_452.md) *Awa kau-laau o
 Puna*. It is said that in Puna the birds sometimes planted the awa in
 the stumps or in the crotches of the trees, and this awa was of the
 finest quality.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIII.--The Hula Pua’a](ulh37)
+[Next: XXXIII.--The Hula Pua’a](ulh37.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar031) [Next](gbar033)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar031) [Next](gbar033.md)
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ Jesus.
 
 ------------------------------------------------------------------------
 
-[Next](gbar033)
+[Next](gbar033.md)

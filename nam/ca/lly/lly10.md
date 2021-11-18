@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly09)  [Next](lly11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly09)  [Next](lly11.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ themselves into our consciousness, this impression is vivified.
 
 ------------------------------------------------------------------------
 
-[Next: Cathedral Rocks](lly11)
+[Next: Cathedral Rocks](lly11.md)

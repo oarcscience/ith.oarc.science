@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc09)  [Next](bosc11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc09)  [Next](bosc11.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ suffering.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. On Their Principal Feasts and Dances](bosc11)
+[Next: Chapter IX. On Their Principal Feasts and Dances](bosc11.md)

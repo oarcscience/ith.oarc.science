@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb02)  [Next](boeb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb02)  [Next](boeb04.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ That, without my consent, doe chase
  
 
 <span id="img_03200"></span> [![](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)
+Click to enlarge](img/03200.jpg.md)
 
  
 
@@ -225,7 +225,7 @@ I will not yeelde to any Scott,
  
 
 <span id="img_03600"></span> [![](tn/03600.jpg)  
-Click to enlarge](img/03600.jpg)
+Click to enlarge](img/03600.jpg.md)
 
  
 
@@ -286,7 +286,7 @@ An arrow of a cloth-yard long
  
 
 <span id="img_03800"></span> [![](tn/03800.jpg)  
-Click to enlarge](img/03800.jpg)
+Click to enlarge](img/03800.jpg.md)
 
  
 
@@ -395,4 +395,4 @@ And grant henceforth, that foule debate
 
 ------------------------------------------------------------------------
 
-[Next: King Cophetua and the Beggar-Maid](boeb04)
+[Next: King Cophetua and the Beggar-Maid](boeb04.md)

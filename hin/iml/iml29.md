@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml28)  [Next](iml30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml28)  [Next](iml30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Plot--Fulfilment of an Old Vow--Prince Bharata Chosen and Rama
 Banished--A Faithful Wife and Loyal Brother.
 
 Now hear the tale of Rama and Sita, which was related unto the poet
-Valmiki <span id="fr_326"></span>[1](#fn_325) by Narada, the renowned
+Valmiki <span id="fr_326"></span>[1](#fn_325.md) by Narada, the renowned
 Rishi. Be it told that when Valmiki came to know of the adventures and
 achievements of the great prince, he went towards the river to bathe,
 musing the while. It chanced that two fond herons disported on the bank,
@@ -44,7 +44,7 @@ Brahma. He sat upon a carpet of
 <span id="img_37400"></span>
 
 [![A VAISHNAVAITE NUN READING THE RAMAYANA](tn/37400.jpg)  
-Click to enlarge](img/37400.jpg)  
+Click to enlarge](img/37400.jpg.md)  
 A VAISHNAVAITE NUN READING THE RAMAYANA  
 
  
@@ -59,11 +59,11 @@ towards the sea, so long will it be repeated by the lips of mankind.
 
 Valmiki sang that in days of yore there were two mighty kingdoms in
 sun-bright Hindustan, and these were Ko´sala, whose King was Dasarat´ha,
-father of Rama, and Mit´hila, <span id="fr_327"></span>[1](#fn_326)
+father of Rama, and Mit´hila, <span id="fr_327"></span>[1](#fn_326.md)
 which was ruled over by Jan´aka, the father of beauteous Sita.
 
 Now the capital of Kosala was Ayodhya <span
-id="fr_328"></span>[2](#fn_327), which shone in splendour like to
+id="fr_328"></span>[2](#fn_327.md), which shone in splendour like to
 Indra's celestial city; it had wide streets with large dwellings, richly
 decorated temples, towering like mountains, and grand and noble palaces.
 In the palace gardens there were numerous birds and flowers, shady
@@ -93,10 +93,10 @@ perpetuate his race. When his will was made known to the queens, their
 faces brightened as the lotus brightens at the promise of spring.
 
 So it came to pass that a black horse was let loose on the night of the
-full moon of the month of Choitro <span id="fr_329"></span>[1](#fn_328).
+full moon of the month of Choitro <span id="fr_329"></span>[1](#fn_328.md).
 A Brahman accompanied it, and after wandering for a full year, the
 animal returned again to the kingdom. <span
-id="fr_330"></span>[2](#fn_329)
+id="fr_330"></span>[2](#fn_329.md)
 
 Many rajahs attended the ceremony which took place on the north bank of
 the Sarayu river. Twenty-one sacrificial posts were set up for the
@@ -111,7 +111,7 @@ Dasaratha awarded great gifts of kine and treasure to the Brahmans.
 
 An oblation was afterwards offered to the gods, who came to the place of
 sacrifice with the music-loving Gandharvas, the Celestial saints, the
-Siddhas <span id="fr_331"></span>[3](#fn_330), and seven Deva-rishis.
+Siddhas <span id="fr_331"></span>[3](#fn_330.md), and seven Deva-rishis.
 Brahma came with Vishnu and Shiva, and
 
 <span id="page_377">p. 377</span>
@@ -121,10 +121,10 @@ with the hastening Maruts. Ere they departed, the gods promised that
 four sons would be born to Dasaratha.
 
 After this, Indra and the other gods <span
-id="fr_332"></span>[1](#fn_331) journeyed to the heaven of Brahma, and
-spake regarding Ravana <span id="fr_333"></span>[2](#fn_332), the
+id="fr_332"></span>[1](#fn_331.md) journeyed to the heaven of Brahma, and
+spake regarding Ravana <span id="fr_333"></span>[2](#fn_332.md), the
 monarch of demons, who had his dwelling in Lanka. <span
-id="fr_334"></span>[3](#fn_333)
+id="fr_334"></span>[3](#fn_333.md)
 
 Now Ravana had performed such great penances that Brahma rendered him
 invulnerable to gods and demons, with the result that the demon made
@@ -179,7 +179,7 @@ ease once again.
 
 When the children grew older they began to lisp words, and as they were
 unable to pronounce "peeta" and "mata" <span
-id="fr_335"></span>[1](#fn_334) they said "pa" and "ma". If Rama were
+id="fr_335"></span>[1](#fn_334.md) they said "pa" and "ma". If Rama were
 asked his name, he answered "Ama". Sometimes
 
 <span id="page_379">p. 379</span>
@@ -236,7 +236,7 @@ eye.
 Next day the sage led the two princes towards a dark and fearsome jungle
 haunted by numerous beasts of prey, in which dwelt the terrible Rakshasa
 woman named Taraka, mother of Maricha; <span
-id="fr_336"></span>[1](#fn_335) she was misshapen and horrible, and
+id="fr_336"></span>[1](#fn_335.md) she was misshapen and horrible, and
 continually ravaged all that country. Rama twanged his bow to challenge
 her, and she came towards the princes roaring angrily and throwing
 boulders. Be-cause she was a female, the sons of Dasaratha were
@@ -256,7 +256,7 @@ which caused Celestial weapons to appear for Rama, and the spirits of
 the weapons stood before the prince with clasped hands and said: "*We
 are thy servants, O nobly generous one. Good betide thee! Whatever thou
 dost desire, lo! we shall accomplish for thee*." <span
-id="fr_337"></span>[1](#fn_336)
+id="fr_337"></span>[1](#fn_336.md)
 
 Said Rama: "When I have need of you, I will think of you, and then you
 will wait upon me."
@@ -287,7 +287,7 @@ through Shiva's hair, and of the cursing of Indra by a sage.
 <span id="page_382">p. 382</span>
 
 At length they reached the capital of Janaka, <span
-id="fr_338"></span>[1](#fn_337) King of Mithila, who welcomed
+id="fr_338"></span>[1](#fn_337.md) King of Mithila, who welcomed
 Vishwamitra, and said: "Who are these courageous young men with the
 majesty of elephants and the fearlessness of tigers? Comely are they as
 the twin Aswins."
@@ -395,7 +395,7 @@ the queen
 <span id="page_385">p. 385</span>
 
 <span class="contnote">\[paragraph continues\]</span> Kaikeyi <span
-id="fr_339"></span>[1](#fn_338). Her name was Manthara; she had been the
+id="fr_339"></span>[1](#fn_338.md). Her name was Manthara; she had been the
 slave of Kaikeyi while that queen yet abode in the palace of her sire,
 the rajah Aswapati. Ugly and misshapen was Manthara; she was
 short-necked, flat-breasted, and had legs like a crane; she was
@@ -725,49 +725,49 @@ mourning city of Ayodhya.
 
 ### Footnotes
 
-<span id="fn_325"></span>[374:1](iml29.htm#fr_326) *Pron*. val-mee´kee.
+<span id="fn_325"></span>[374:1](iml29.htm#fr_326.md) *Pron*. val-mee´kee.
 
-<span id="fn_326"></span>[375:1](iml29.htm#fr_327) The kingdoms of Oudh
+<span id="fn_326"></span>[375:1](iml29.htm#fr_327.md) The kingdoms of Oudh
 and North Behar.
 
-<span id="fn_327"></span>[375:2](iml29.htm#fr_328) *Pron*. a-yõd´hya.
+<span id="fn_327"></span>[375:2](iml29.htm#fr_328.md) *Pron*. a-yõd´hya.
 
-<span id="fn_328"></span>[376:1](iml29.htm#fr_329) Easter full moon.
+<span id="fn_328"></span>[376:1](iml29.htm#fr_329.md) Easter full moon.
 
-<span id="fn_329"></span>[376:2](iml29.htm#fr_330) As we have seen,
+<span id="fn_329"></span>[376:2](iml29.htm#fr_330.md) As we have seen,
 Arjuna and an army accompanied the white horse which was sacrificed in
 the *Mahábhárata*.
 
-<span id="fn_330"></span>[376:3](iml29.htm#fr_331) The spirits of
+<span id="fn_330"></span>[376:3](iml29.htm#fr_331.md) The spirits of
 ancestors.
 
-<span id="fn_331"></span>[377:1](iml29.htm#fr_332) The Vedic deities.
+<span id="fn_331"></span>[377:1](iml29.htm#fr_332.md) The Vedic deities.
 
-<span id="fn_332"></span>[377:2](iml29.htm#fr_333) *Pron*. rah´va-na.
+<span id="fn_332"></span>[377:2](iml29.htm#fr_333.md) *Pron*. rah´va-na.
 
-<span id="fn_333"></span>[377:3](iml29.htm#fr_334) He is called a
+<span id="fn_333"></span>[377:3](iml29.htm#fr_334.md) He is called a
 Rakshasa king in the *Ramayana*. Ravana appears to be the Brahmanical
 conception of Vritra, the ruler of the Danavas or Asuras. Lanká is
 Ceylon.
 
-<span id="fn_334"></span>[378:1](iml29.htm#fr_335) Father and mother.
+<span id="fn_334"></span>[378:1](iml29.htm#fr_335.md) Father and mother.
 
-<span id="fn_335"></span>[380:1](iml29.htm#fr_336) The fighting
+<span id="fn_335"></span>[380:1](iml29.htm#fr_336.md) The fighting
 Rakshasas of the *Mahábhárata* are all males. Here the female--the
 mother of demons--is prominent, as in Beowulf and typical Scottish
 stories.
 
-<span id="fn_336"></span>[381:1](iml29.htm#fr_337) A Gaelic axiom says,
+<span id="fn_336"></span>[381:1](iml29.htm#fr_337.md) A Gaelic axiom says,
 "Every weapon has its demon".
 
-<span id="fn_337"></span>[382:1](iml29.htm#fr_338) "The remains of the
+<span id="fn_337"></span>[382:1](iml29.htm#fr_338.md) "The remains of the
 capital founded by Janaka, and thence termed Janakpur, are still to be
 seen, according to Buchanan, on the northern frontier at the Janeckpoor
 of the maps."--Note to Professor H. H. Wilson's translation of the
 *Uttara Rama Charita*.
 
-<span id="fn_338"></span>[385:1](iml29.htm#fr_339) *Pron*. ky-kay-yee´.
+<span id="fn_338"></span>[385:1](iml29.htm#fr_339.md) *Pron*. ky-kay-yee´.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV. The Rape of Sita](iml30)
+[Next: Chapter XXV. The Rape of Sita](iml30.md)

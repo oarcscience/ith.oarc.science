@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa10)  [Next](awa12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa10)  [Next](awa12.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ may say that any living being more repulsive, than the average old
 
 ------------------------------------------------------------------------
 
-[Next: Childhood](awa12)
+[Next: Childhood](awa12.md)

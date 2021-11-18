@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por38)  [Next](por40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por38)  [Next](por40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ Look down and see
     what those under you  
     whom you made are doing!  
 Pull up your foot  
-    and sweep off your face! <span id="fr_4"></span>[\*](#fn_4)
+    and sweep off your face! <span id="fr_4"></span>[\*](#fn_4.md)
 
 </div>
 
@@ -58,10 +58,10 @@ Hold in your breath, Chief,
 
 ### Footnotes
 
-<span id="fn_4"></span>[135:\*](por39.htm#fr_4) "pull up your foot"
+<span id="fn_4"></span>[135:\*](por39.htm#fr_4.md) "pull up your foot"
 means "stop the rain"; "sweep off your face" means "take away the
 clouds."
 
 ------------------------------------------------------------------------
 
-[Next: Three Songs from the Haida](por40)
+[Next: Three Songs from the Haida](por40.md)

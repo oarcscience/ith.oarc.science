@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,22 +20,22 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ohpe00)
+[Contents](#contents)    [Start Reading](ohpe00.md)
 
 ------------------------------------------------------------------------
 
 > *Every bird dwelleth according to his kind,  
 > and (so doth) man according to his like.*  
->    -- Ben Sira's Proverbs, XXIV, [p. xxii](ohpe04.htm#page_xxii).
+>    -- Ben Sira's Proverbs, XXIV, [p. xxii](ohpe04.htm#page_xxii.md).
 
 This is a scholarly monograph from the late 19th century on one of the
-Jewish non-canonical Biblical books, [Sirach](../../bib/apo/sir), also
+Jewish non-canonical Biblical books, [Sirach](../../bib/apo/sir.md), also
 known as 'Ecclesiasticus,' not to be confused with the canonical book
 Ecclesiastes. This particular paper has been cited because it has a
 section on the 'Alphabet of Ben Sira,' a set of Talmudic Jewish
 proverbs, each of which begins with successive letters of the Hebrew
 alphabet. The Hebrew text and English translation of each of these
-proverbs is included [here](ohpe05).
+proverbs is included [here](ohpe05.md).
 
 What the general interest reader will find at the core of this otherwise
 very dry dissertation is an exquisite example of Rabbinical era Jewish
@@ -57,11 +57,11 @@ Hebrew text of the Alphabet of Ben Sira.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ohpe00)  
-[Contents](ohpe01)  
-[Preface](ohpe02)  
-[A List of Works Used](ohpe03)  
+<span id="contents"></span> [Title Page](ohpe00.md)  
+[Contents](ohpe01.md)  
+[Preface](ohpe02.md)  
+[A List of Works Used](ohpe03.md)  
 [Ben Sira's Proverbs Preserved In Talmudic And Rabbinic
-Literature](ohpe04)  
-[The Alphabet of Ben Sira](ohpe05)  
-[Ecclesiasticus XXXIX 15 to XLIX 11](ohpe06)  
+Literature](ohpe04.md)  
+[The Alphabet of Ben Sira](ohpe05.md)  
+[Ecclesiasticus XXXIX 15 to XLIX 11](ohpe06.md)  

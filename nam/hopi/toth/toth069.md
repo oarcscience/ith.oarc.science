@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth068)  [Next](toth070) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth068)  [Next](toth070.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 66. THE ÁAHTU <span id="fr_135"></span>[1](#fn_133) AND THE COYOTE. <span id="fr_136"></span>[2](#fn_134)
+## 66. THE ÁAHTU <span id="fr_135"></span>[1](#fn_133) AND THE COYOTE. <span id="fr_136"></span>[2](#fn_134.md)
 
 A long time ago many Áahtu were playing in the cedar timber north of
 Oraíbi. One time they were near a very pretty cedar-tree and here they
@@ -70,12 +70,12 @@ where he died was called Coyote-Death-Place (íshmo'mokpu) ever since.
 
 ### Footnotes
 
-<span id="fn_133"></span>[194:1](toth069.htm#fr_135) Plural from Ahu, a
+<span id="fn_133"></span>[194:1](toth069.htm#fr_135.md) Plural from Ahu, a
 blue-bird of about the size of a turtle-dove, probably the blue Jay.
 
-<span id="fn_134"></span>[194:2](toth069.htm#fr_136) Told by Qöyáwaima
+<span id="fn_134"></span>[194:2](toth069.htm#fr_136.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 67. The Coyote and the Turtle-dove](toth070)
+[Next: 67. The Coyote and the Turtle-dove](toth070.md)

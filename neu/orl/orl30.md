@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl29)  [Next](orl31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl29)  [Next](orl31.md) 
 
 ------------------------------------------------------------------------
 
@@ -1079,4 +1079,4 @@ He succoured Charles, shall other canto tell.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 31](orl31)
+[Next: Canto 31](orl31.md)

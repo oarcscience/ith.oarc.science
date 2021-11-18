@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp06)  [Next](lbp08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp06)  [Next](lbp08.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 
 [![ROLDAN'S BUGLE HORN.&lt;BR&gt; ''His shadow nevertheless wanders
 about these solitary places armed to the teeth.''](tn/12500.jpg)  
-Click to enlarge](img/12500.jpg)  
+Click to enlarge](img/12500.jpg.md)  
 ROLDAN'S BUGLE HORN.  
 ''His shadow nevertheless wanders about these solitary places armed to
 the teeth.''  
@@ -711,4 +711,4 @@ caught in the clutches of a black bear.
 
 ------------------------------------------------------------------------
 
-[Next: Jaun-Zuria, Prince Of Erin](lbp08)
+[Next: Jaun-Zuria, Prince Of Erin](lbp08.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos53)  [Next](kos55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos53)  [Next](kos55.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ hast need thereof.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIX. Concerning the Needle And Other Iron
-Instruments](kos55)
+Instruments](kos55.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw76)  [Next](omw78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw76)  [Next](omw78.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ said.
 "He and Hi-i-aka kissed, and the man was tapu for Pe-le," the sisters
 answered.
 
-"He tasted death at Haena. Why was he made [to](errata.htm#3) taste
+"He tasted death at Haena. Why was he made [to](errata.htm#3.md) taste
 death again in Hawaii?"
 
 Pe-le, seated at the back of the Pit, spoke: 'What is it that you say?
@@ -115,4 +115,4 @@ and the Gods of the Pit were not now so terror-inspiring.
 
 ------------------------------------------------------------------------
 
-[Next: Viracocha](omw78)
+[Next: Viracocha](omw78.md)

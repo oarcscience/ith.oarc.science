@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs14)  [Next](pifs16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs14)  [Next](pifs16.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ knew how.
 my children, and they will sleep."
 
 So he went. But as he came to a pool, halfway home, a flock of
-Afraids-of-the-Water <span id="fr_47"></span>[1](#fn_47) flew up at his
+Afraids-of-the-Water <span id="fr_47"></span>[1](#fn_47.md) flew up at his
 very nose, and drove out his memory. He went looking around, turning
 over the stones and peeping in the grass; but he could not find the song
 anywhere. So he started back at last to get the Locust to teach him
@@ -72,7 +72,7 @@ shown me. I think now \[paragraph continues\]
 I will take her out, to see if she will not sing for me."
 
 So he ran all around, hunting for a black thunder-knife, <span
-id="fr_48"></span>[1](#fn_48) and singing:
+id="fr_48"></span>[1](#fn_48.md) and singing:
 
 Where can I find Shée-eh-fóon?  
 Where can I find Shée-eh-fóon?
@@ -101,12 +101,12 @@ folk-story becomes changed.
 
 ### Footnotes
 
-<span id="fn_47"></span>[85:1](pifs15.htm#fr_47) The ironical Tée-wahn
+<span id="fn_47"></span>[85:1](pifs15.htm#fr_47.md) The ironical Tée-wahn
 name for ducks.
 
-<span id="fn_48"></span>[86:1](pifs15.htm#fr_48) One of obsidian, or
+<span id="fn_48"></span>[86:1](pifs15.htm#fr_48.md) One of obsidian, or
 volcanic glass.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. The Magic Hide and Seek](pifs16)
+[Next: XIII. The Magic Hide and Seek](pifs16.md)

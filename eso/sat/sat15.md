@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat14)  [Next](sat16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat14)  [Next](sat16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -46,7 +46,7 @@ the warming light (which also receives its fiery sharpness in the
 impression in Sulphur from Mars) brings its desire again into the
 liberty, viz. through the dying in the fire, through the anguish: It
 wholly and freely gives itself forth in the dying of the fire, <span
-id="fr_205"></span>[1](#fn_205) and forsakes the property of the wrath.
+id="fr_205"></span>[1](#fn_205.md) and forsakes the property of the wrath.
 
 3\. And so it becomes a general joy, and not its own only, even like the
 sun that gives forth its shining lustre universally: The sunshine is
@@ -92,12 +92,12 @@ condescends in the fire-flagrat, and gives forth \[or diffuses\] itself
 into their desire, and leaves its essence; so that in their desire they
 reach after its property in the death's flagrat; this is a poison to
 death, and a pestilence to hell; and in this property <span
-id="fr_206"></span>[1](#fn_206) death was deprived of its power in the
+id="fr_206"></span>[1](#fn_206.md) death was deprived of its power in the
 humanity; for Christ, when he shed his heavenly blood in the flagrat of
 death, and left it in death, the wrath of God was driven to retain the
 heavenly love-essence in itself: Even there the fire-desire in the
 enkindled humanity was changed into a love-desire, and out of the
-anguish of death proceeded <span id="fr_207"></span>[2](#fn_207) a joy
+anguish of death proceeded <span id="fr_207"></span>[2](#fn_207.md) a joy
 and strength of divine power.
 
 6\. But I will hereby give the well-wisher fundamentally to understand
@@ -279,7 +279,7 @@ with the white splendour of the sun sees this, then she hides herself;
 as the disciples of Christ fled, and the enraged \[rude\] multitude
 also, who did highly presume to stand by him in the cross and
 persecution, but in the earnestness <span
-id="fr_208"></span>[1](#fn_208) they fly; for Luna is inconstant, she
+id="fr_208"></span>[1](#fn_208.md) they fly; for Luna is inconstant, she
 has not Sol's heart in the love-flame; and Saturn with his thorny
 impression puts the Sulphur upon the child, viz. the mother of all
 beings with the purple-coloured raiment of her own peculiar property, in
@@ -379,7 +379,7 @@ receive the child, for it is not of his property; and Mars and Mercury
 likewise will not have it in its property: But what do they do? The
 child is among them, they would fain be rid of it, but yet cannot: They
 grow angry and enraged, as the Jews against Jesus, and take the child
-into their arms, <span id="fr_209"></span>[1](#fn_209) viz. into their
+into their arms, <span id="fr_209"></span>[1](#fn_209.md) viz. into their
 false poisonful angry desire, and
 
 <span id="page_137">p. 137</span>
@@ -501,7 +501,7 @@ God had created him to his image.
 
 41\. Thus let the philosopher observe, that when the three murtherers,
 viz. Saturn, Mars, and Mercury, sink <span
-id="fr_210"></span>[1](#fn_210) in the crimson-coloured blood of the
+id="fr_210"></span>[1](#fn_210.md) in the crimson-coloured blood of the
 lion, they do not perish; but they are pardoned, that is, their wrath is
 changed into a love-desire, viz. out of Venus into Sol; for when the
 fiery desire enters into the watery desire, then a shining, viz. a
@@ -643,7 +643,7 @@ he changed the anger into love; and the kingdom with the source of
 darkness shall be separated from it.
 
 55\. But in this life-time, though the spirit be changed <span
-id="fr_211"></span>[1](#fn_211) in the divine power, and the spirit be
+id="fr_211"></span>[1](#fn_211.md) in the divine power, and the spirit be
 baptized with the virgin's baptism, and puts on the image of Christ
 internally, viz. Venus's body in the love; yet Adam is not capable of it
 till he also enters into the transmutation of Christ, which comes to
@@ -654,7 +654,7 @@ stead, must provide for the outward mother according to the outward man,
 and feed and teach the lambs of Christ with Christ's spirit: And it
 exactly shews us how the outward man is not God's mother; for Christ
 separates himself from his outward mother, and gives her to John; he has
-put on <span id="fr_212"></span>[2](#fn_212) the eternal mother, viz.
+put on <span id="fr_212"></span>[2](#fn_212.md) the eternal mother, viz.
 the Father of the eternal birth, and therefore they do very ill that
 honour and worship the outward mother of Christ for God's mother.
 
@@ -697,7 +697,7 @@ members.
 
 59\. They wrangle and contend only about the church, and yet none will
 take care of the poor forsaken mother of Christ: They are mad in their
-martial and mercurial contest, <span id="fr_213"></span>[1](#fn_213) and
+martial and mercurial contest, <span id="fr_213"></span>[1](#fn_213.md) and
 are not Johannites, they enter not in Christ's spirit at the door of
 Christ into the sheepfold; they are wolves, lions, and bears, yea foxes
 and fearful hares, who fly from and forsake the mother; their rise and
@@ -734,7 +734,7 @@ vipers, who crucify Jesus in his members.
 Christ's mother, whom he recommended to John to take care of: He must
 likewise be a John, and know that his business is about the mother, and
 that his work in this world is not wholly <span
-id="fr_214"></span>[1](#fn_214) heavenly: He will not so manifest
+id="fr_214"></span>[1](#fn_214.md) heavenly: He will not so manifest
 paradise, that God will appear, and be manifest face to face in his
 work: No, he remains in the mother, yet he obtains the universal in the
 mother; for the mother of Christ obtained it also, for it was said to
@@ -754,7 +754,7 @@ the mother, but an almsgiver, and not a gatherer of treasure and wealth,
 not a covetous muck-worm; also none shall attain to it, or understand
 our meaning, that will not be a guardian of the mother: The Most High
 has laid a bar before the foolish understanding, <span
-id="fr_215"></span>[2](#fn_215) that it is
+id="fr_215"></span>[2](#fn_215.md) that it is
 
 <span id="page_145">p. 145</span>
 
@@ -881,7 +881,7 @@ Adam's sleep when he entered with the desire into the centre of the
 eternal nature, viz. into the birth, where the love and anger part
 themselves into two centres, and would prove the cold and hot fire,
 which took him, and did powerfully work in him. Here are three hours
-according to the ternary, <span id="fr_216"></span>[1](#fn_216) and in
+according to the ternary, <span id="fr_216"></span>[1](#fn_216.md) and in
 the grave three days according to the time, viz. according to the
 humanity.
 
@@ -900,7 +900,7 @@ the temptation of the body was upon them forty years, that the body must
 eat manna to try whether man could be remedied: And when the body \[or
 outward person\] could not stand, then Joshua brought them through the
 water with the covenant of the type, <span
-id="fr_217"></span>[1](#fn_217) where Israel must serve with sacrifices
+id="fr_217"></span>[1](#fn_217.md) where Israel must serve with sacrifices
 in the covenant in the type of the final accomplishment, till the time
 of restitution came in: And then the valiant champion in battle stood
 forty days in the wilderness in the temptation, and stood out the first
@@ -936,7 +936,7 @@ earth which stands in the curse of God into the benediction, and make of
 death's-anguish the highest triumphant joy in the outward pregnant
 mother; but he himself does it not, only his will labours with the
 understanding therein, and conjoins the compacta, <span
-id="fr_218"></span>[2](#fn_218) which belong together, as life and death
+id="fr_218"></span>[2](#fn_218.md) which belong together, as life and death
 which stand opposite to one another: These he must join together, and
 bring them into one by such an art as time and
 
@@ -973,7 +973,7 @@ essentiality, and had devoured the image of God.
 God, why hast thou forsaken me?" For the human image which disappeared
 in Adam, and was again revived in Christ's incarnation, should bruise
 the head of God's anger in the fire-soul, and change its fire-might into
-Sol: <span id="fr_219"></span>[1](#fn_219) And now the speaking word of
+Sol: <span id="fr_219"></span>[1](#fn_219.md) And now the speaking word of
 God did here forsake it, and it fell into the soul's wrath, where it
 felt God's anger; for the speaking word did so bring it through the
 anger into death, and out of the death again into the solar life,
@@ -998,7 +998,7 @@ darkness, and the darkness takes its original from the eternal desire.
 85\. And as Adam changed the likeness of God into the dark death's form,
 so God did again change the likeness through his fire-wrath out of death
 into the light; he drew forth the likeness again out of death, as a
-blossom grows from the harsh <span id="fr_220"></span>[1](#fn_220)
+blossom grows from the harsh <span id="fr_220"></span>[1](#fn_220.md)
 earth.
 
 86\. Thus it goes likewise in the philosophic work; Venus is forsaken
@@ -1007,7 +1007,7 @@ their wrath, viz. the death devours her life, whereupon she loses the
 colour, and yet becomes a death to the three forms in the wrath, for she
 drowns death with love. Thus the life is made a death to death, viz. to
 the wrath, and now they both lie in the will of the eternal nature, viz.
-in the verbum fiat, which proceeds <span id="fr_221"></span>[2](#fn_221)
+in the verbum fiat, which proceeds <span id="fr_221"></span>[2](#fn_221.md)
 with them the divine way, in manner as it proceeded forth into essence
 in the beginning of the creation: For in the beginning paradise, viz.
 the universal was manifest, and the love shined through the death or
@@ -1071,7 +1071,7 @@ end of its selfishness, and resign itself into the speaking word.
 till the judgment of God, which now at death stands in the centre of
 Sol, viz. in the compaction of Venus and Mercury, which compaction at
 death falls wholly into one \[thing\], viz. into one power of
-Jupiter, <span id="fr_222"></span>[1](#fn_222) that is, into the centre
+Jupiter, <span id="fr_222"></span>[1](#fn_222.md) that is, into the centre
 of the liberty; for here the desire to cold and heat goes out, all
 earthly will and desire of the properties dies, and there is no more any
 hunger after the earthly, or death's property.
@@ -1080,50 +1080,50 @@ hunger after the earthly, or death's property.
 
 ### Footnotes
 
-<span id="fn_205"></span>[129:1](sat15.htm#fr_205) It freely loses
+<span id="fn_205"></span>[129:1](sat15.htm#fr_205.md) It freely loses
 itself in the nothing.
 
-<span id="fn_206"></span>[130:1](sat15.htm#fr_206) Manner, or condition.
+<span id="fn_206"></span>[130:1](sat15.htm#fr_206.md) Manner, or condition.
 
-<span id="fn_207"></span>[130:2](sat15.htm#fr_207) Was born, or
+<span id="fn_207"></span>[130:2](sat15.htm#fr_207.md) Was born, or
 begotten.
 
-<span id="fn_208"></span>[134:1](sat15.htm#fr_208) In the heat of his
+<span id="fn_208"></span>[134:1](sat15.htm#fr_208.md) In the heat of his
 trial.
 
-<span id="fn_209"></span>[136:1](sat15.htm#fr_209) Text, hold.
+<span id="fn_209"></span>[136:1](sat15.htm#fr_209.md) Text, hold.
 
-<span id="fn_210"></span>[139:1](sat15.htm#fr_210) Are drowned.
+<span id="fn_210"></span>[139:1](sat15.htm#fr_210.md) Are drowned.
 
-<span id="fn_211"></span>[142:1](sat15.htm#fr_211) Transformed.
+<span id="fn_211"></span>[142:1](sat15.htm#fr_211.md) Transformed.
 
-<span id="fn_212"></span>[142:2](sat15.htm#fr_212) Taken, or received.
+<span id="fn_212"></span>[142:2](sat15.htm#fr_212.md) Taken, or received.
 
-<span id="fn_213"></span>[143:1](sat15.htm#fr_213) In war for their
+<span id="fn_213"></span>[143:1](sat15.htm#fr_213.md) In war for their
 proud unrighteous mammon, and in bitter strife about their outward
 worship of Christ.
 
-<span id="fn_214"></span>[144:1](sat15.htm#fr_214) Altogether.
+<span id="fn_214"></span>[144:1](sat15.htm#fr_214.md) Altogether.
 
-<span id="fn_215"></span>[144:2](sat15.htm#fr_215) Understanding of
+<span id="fn_215"></span>[144:2](sat15.htm#fr_215.md) Understanding of
 folly.
 
-<span id="fn_216"></span>[147:1](sat15.htm#fr_216) Or number three.
+<span id="fn_216"></span>[147:1](sat15.htm#fr_216.md) Or number three.
 
-<span id="fn_217"></span>[148:1](sat15.htm#fr_217) Mirror, resemblance.
+<span id="fn_217"></span>[148:1](sat15.htm#fr_217.md) Mirror, resemblance.
 
-<span id="fn_218"></span>[148:2](sat15.htm#fr_218) Things to be
+<span id="fn_218"></span>[148:2](sat15.htm#fr_218.md) Things to be
 compacted.
 
-<span id="fn_219"></span>[149:1](sat15.htm#fr_219) Text, the sun.
+<span id="fn_219"></span>[149:1](sat15.htm#fr_219.md) Text, the sun.
 
-<span id="fn_220"></span>[150:1](sat15.htm#fr_220) Or wild.
+<span id="fn_220"></span>[150:1](sat15.htm#fr_220.md) Or wild.
 
-<span id="fn_221"></span>[150:2](sat15.htm#fr_221) Goes out.
+<span id="fn_221"></span>[150:2](sat15.htm#fr_221.md) Goes out.
 
-<span id="fn_222"></span>[151:1](sat15.htm#fr_222) Into the sole power
+<span id="fn_222"></span>[151:1](sat15.htm#fr_222.md) Into the sole power
 and virtue of Jupiter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](sat16)
+[Next: Chapter XII](sat16.md)

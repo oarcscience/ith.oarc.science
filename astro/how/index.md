@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](how00)
+[Contents](#contents)    [Start Reading](how00.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ thousand years, has finally brought you forth in these last generations,
 the first true images of the universe. By means of your concords of
 various voices, and through your ears, she has whispered to the human
 mind, the favorite daughter of God the Creator, how she exists in the
-innermost bosom.*--\[[p. 1040](how08)\].
+innermost bosom.*--\[[p. 1040](how08.md)\].
 
 Johannes Kepler, who originally studied theology, was introduced to the
 Copernican world-view while studying for his Master's degree in
@@ -74,7 +74,7 @@ plurality of inhabited worlds. He muses on the diversity of life on
 Earth, and how it was inconceivable that the other planets would be
 devoid of life, that God had "adorned\[ed\] the other globes too with
 their fitting creatures". \[pp.
-[1084](how11.htm#page_1084)-[1085](how11.htm#page_1085)\]
+[1084](how11.htm#page_1084)-[1085](how11.htm#page_1085.md)\]
 
 *Production Notes*: this is an excerpt from the standard English edition
 of Kepler's works, which has been published in part and whole numerous
@@ -84,28 +84,28 @@ but if you see an English translation of this on the market, it will
 undoubtably be the Wallis translation. The particular copytext I used
 was the one published in volume 16 of The Great Books of the Western
 World; I have corrected minor spelling errors in the [usual
-fashion](errata).
+fashion](errata.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](how00)  
-[Proem](how01)  
-[1. Concerning the Five Regular Solid Figures](how02)  
+<span id="contents"></span> [Title Page](how00.md)  
+[Proem](how01.md)  
+[1. Concerning the Five Regular Solid Figures](how02.md)  
 [2. On the Kinship Between the Harmonic Ratios and the Five Regular
-Figures](how03)  
+Figures](how03.md)  
 [3. A Summary of Astronomical Doctrine Necessary For Speculation Into
-the Celestial Harmonies](how04)  
+the Celestial Harmonies](how04.md)  
 [4. In What Things Having To Do With the Planetary Movements Have the
 Harmonic Consonances Been Expressed By the Creator, and In What
-Way?](how05)  
+Way?](how05.md)  
 [5. In The Ratios of the Planetary Movements Which Are
-Apparent...](how06)  
+Apparent...](how06.md)  
 [6. In The Extreme Planetary Movements the Musical Modes or Tones Have
-Somehow Been Expressed](how07)  
+Somehow Been Expressed](how07.md)  
 [7. The Universal Consonances of All Six Planets, Like Common Four-Part
-Counterpoint, Can Exist](how08)  
+Counterpoint, Can Exist](how08.md)  
 [8. In the Celestial Harmonies Which Planet Sings Soprano, Which Alto,
-Which Tenor, and Which Bass?](how09)  
+Which Tenor, and Which Bass?](how09.md)  
 [9. The Genesis of the Eccentricities in the Single Planets From the
-Procurement of the Consonances Between Their Movements](how10)  
-[10. Epilogue Concerning the Sun, By Way of Conjecture](how11)  
+Procurement of the Consonances Between Their Movements](how10.md)  
+[10. Epilogue Concerning the Sun, By Way of Conjecture](how11.md)  

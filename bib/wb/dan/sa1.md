@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](rut)  [Next](sa2) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](rut)  [Next](sa2.md) 
 
 ------------------------------------------------------------------------
 
@@ -3134,4 +3134,4 @@ under Tamarisken i Jabesj og fastede syv Dage.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Samuel](sa2)
+[Next: 2 Samuel](sa2.md)

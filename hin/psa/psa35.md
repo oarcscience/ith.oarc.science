@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa34)  [Next](psa36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa34)  [Next](psa36.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ procured by celebrating the great renown of Shree Krishnù.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXV](psa36)
+[Next: Chapter XXXV](psa36.md)

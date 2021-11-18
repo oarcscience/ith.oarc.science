@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec55)  [Next](hec57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec55)  [Next](hec57.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -87,7 +87,7 @@ Assemble ye together
   So joyous and so bold,  
 The ascetic troops, and pen them  
   Once more within the fold! <span id="page_188">p. 188</span>  
-If strength again he gather, <span id="fr_5"></span>[\*](#fn_5)  
+If strength again he gather, <span id="fr_5"></span>[\*](#fn_5.md)  
   Again the foe shall fall:  
 If counsel he shall counsel,  
   Our <span class="smallcaps">God</span> shall scatter all.
@@ -153,7 +153,7 @@ One voice, one hymn, one spirit,
 
 ### Footnotes
 
-<span id="fn_5"></span>[188:\*](hec56.htm#fr_5) This is from the
+<span id="fn_5"></span>[188:\*](hec56.htm#fr_5.md) This is from the
 magnificent Emmanuel Ode sung at Great Compline on high festivals.
 
 "Having become mighty, ye have been subdued.  
@@ -168,4 +168,4 @@ magnificent Emmanuel Ode sung at Great Compline on high festivals.
 
 ------------------------------------------------------------------------
 
-[Next: S. Methodius I. Idiomela for a Sunday of the Fourth Tone](hec57)
+[Next: S. Methodius I. Idiomela for a Sunday of the Fourth Tone](hec57.md)

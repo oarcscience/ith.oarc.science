@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot10) 
-[Next](laot12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot10.md) 
+[Next](laot12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ AND they rode out of Taxila, and after a journey of two days reached the
 plain, in which Porus is said to have engaged Alexander: and they say
 they saw gates therein that enclosed nothing, but had been erected to
 carry trophies. For there was set up on them a statue of Alexander
-standing in a four-poled chariot, <span id="fr_5"></span>[1](#fn_5) as
+standing in a four-poled chariot, <span id="fr_5"></span>[1](#fn_5.md) as
 he looked when at Issus he confronted the satraps of Darius. And at a
 short distance from one another there are said to have been built two
 gates, carrying the one a statue of Porus, and the other one of
@@ -69,9 +69,9 @@ their pride at Alexander's having gone no further.
 
 ### Footnotes
 
-<span id="fn_5"></span>[1:227:1](laot11.htm#fr_5) *i.e.* with eight
+<span id="fn_5"></span>[1:227:1](laot11.htm#fr_5.md) *i.e.* with eight
 horses.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 1-10](laot12)
+[Next: Chapters 1-10](laot12.md)

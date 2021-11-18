@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai42)  [Next](iai44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai42)  [Next](iai44.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ And ever, ever crown the god of Fate;
 And there, upon her ebon throne she sate  
 The awful fiend, dark goddess Mam-mitu,  
 Who reigns through all these realms of La-Atzu. <span
-id="fr_257"></span>[1](#fn_254)
+id="fr_257"></span>[1](#fn_254.md)
 
 But hark! what are these sounds within the gloom?  
 And see! long lines of torches nearer come!  
@@ -245,7 +245,7 @@ A joy that few can dare to here aspire.
 
 The beauteous spirit has her joy, and flees  
 With all her sister spirits 'neath the trees.  
-And lo! the *gesdin* <span id="fr_258"></span>[1](#fn_255) shining
+And lo! the *gesdin* <span id="fr_258"></span>[1](#fn_255.md) shining
 stands,  
 With crystal branches in the golden sands,  
 In this immortal garden stands the tree,  
@@ -253,11 +253,11 @@ With trunk of gold, and beautiful to see.
 Beside a sacred fount the tree is placed,  
 With emeralds and unknown gems is graced,  
 Thus stands, the prince of emeralds, <span
-id="fr_259"></span>[2](#fn_256) Elam's tree,  
+id="fr_259"></span>[2](#fn_256.md) Elam's tree,  
 As once it stood, gave Immortality  
 To man, and bearing fruit, there sacred grew,  
 Till Heaven claimed again Fair Eridu. <span
-id="fr_260"></span>[3](#fn_257)
+id="fr_260"></span>[3](#fn_257.md)
 
 The hero now the wondrous fountain eyes;  
 Its beryl base to ruby stem doth rise,  
@@ -280,7 +280,7 @@ Upon the summit, the bright waters flow,
 With aromatic splendors to the skies,  
 While glistening colors of the rainbow rise.
 
-Here ends the tablet, <span id="fr_261"></span>[4](#fn_258) "When the
+Here ends the tablet, <span id="fr_261"></span>[4](#fn_258.md) "When the
 hero viewed  
 The fountain which within the garden stood."
 
@@ -288,23 +288,23 @@ The fountain which within the garden stood."
 
 ### Footnotes
 
-<span id="fn_254"></span>[127:1](iai43.htm#fr_257) "La-Atzu," Hades,
+<span id="fn_254"></span>[127:1](iai43.htm#fr_257.md) "La-Atzu," Hades,
 hell, the spirit-world.
 
-<span id="fn_255"></span>[132:1](iai43.htm#fr_258) "Gesdin," the Tree of
+<span id="fn_255"></span>[132:1](iai43.htm#fr_258.md) "Gesdin," the Tree of
 Life and Immortality.
 
-<span id="fn_256"></span>[132:2](iai43.htm#fr_259) See Sayce's edition
+<span id="fn_256"></span>[132:2](iai43.htm#fr_259.md) See Sayce's edition
 Smith's "Chald. Acc. of Gen.," p. 264.
 
-<span id="fn_257"></span>[132:3](iai43.htm#fr_260) "Eridu," the Garden
+<span id="fn_257"></span>[132:3](iai43.htm#fr_260.md) "Eridu," the Garden
 of Eden. Idem, pp. 84-86.
 
-<span id="fn_258"></span>[132:4](iai43.htm#fr_261) "Tablet of the
+<span id="fn_258"></span>[132:4](iai43.htm#fr_261.md) "Tablet of the
 series; when the hero Izdubar saw the fountain."--Sayce's edition
 Smith's "Chald. Acc. of Gen.," p. 264, l. 14.
 
 ------------------------------------------------------------------------
 
 [Next: Tablet VIII--Column I. The King's Adventure at the Gate of the
-Garden of the Gods with the Two Maidens](iai44)
+Garden of the Gods with the Two Maidens](iai44.md)

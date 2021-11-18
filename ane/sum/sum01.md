@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](sum00)  [Next](sum02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](sum00)  [Next](sum02.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ East](../index)  [Index](index)  [Previous](sum00)  [Next](sum02) 
 
 ------------------------------------------------------------------------
 
-[Next: Preface](sum02)
+[Next: Preface](sum02.md)

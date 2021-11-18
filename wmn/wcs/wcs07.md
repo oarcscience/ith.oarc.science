@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wcs06)  [Next](wcs08) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wcs06)  [Next](wcs08.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ tamed a frog, was condemned to be burned in consequence, the harmless
 amphibian being looked upon as a familiar of Satan. The devil ever being
 depicted in sermon or story as black, all black animals by an easy
 transition of ideas, became associated with evil and witches.<span
-id="fr_1"></span>[1](#fn_1) Although I have referred to witchcraft as
+id="fr_1"></span>[1](#fn_1.md) Although I have referred to witchcraft as
 having taken on a new phase soon after the confirmation of celibacy as a
 dogma of the church by
 
@@ -34,16 +34,16 @@ dogma of the church by
 the Lateran Council of 1215, it yet requires a chapter by itself, in
 order to show to what proportions this form of heresy arose, and the
 method of the church in its treatment. This period was the age of
-supreme despair for woman,<span id="fr_2"></span>[2](#fn_2) death by
+supreme despair for woman,<span id="fr_2"></span>[2](#fn_2.md) death by
 fire being the common form of witch punishment. Black cats were
 frequently burned with a witch at the stake;<span
-id="fr_3"></span>[3](#fn_3) during the reign of Louis XV. of France,
+id="fr_3"></span>[3](#fn_3.md) during the reign of Louis XV. of France,
 sacks of condemned cats were burned upon the public square devoted to
 witch torture. Cats and witches are found depicted together in a curious
 cut on the title page of a book printed in 1621. The proverbial 'nine
 lives' of a cat were associated in the minds of people with the
 universally believed possible metamorphosis of a witch into a cat.<span
-id="fr_4"></span>[4](#fn_4) So firmly did the diabolical nature of the
+id="fr_4"></span>[4](#fn_4.md) So firmly did the diabolical nature of the
 black cat impress itself upon the people, that its effects are felt in
 business to this day, the skin of black cats being less prized and of
 less value in the fur market than those of other colors. A curious
@@ -51,7 +51,7 @@ exemplification of this inherited belief is found in Great Britain. An
 English taxidermist who exports thousands of mounted kittens each year
 to the United States and other countries, finds the prejudice against
 black cats still so great that he will not purchase kittens of this
-obnoxious color.<span id="fr_5"></span>[5](#fn_5) In the minds of many
+obnoxious color.<span id="fr_5"></span>[5](#fn_5.md) In the minds of many
 
 <span id="page_219">p. 219</span>
 
@@ -64,12 +64,12 @@ child as a remedy for the croup. She admitted the fact but denied that
 witchcraft had anything to do with it, and twenty witnesses were called
 to prove its success as a remedy. From an early period the belief in
 metamorphosis by means of magical power was common throughout
-Christendom. St. Augustine relates<span id="fr_6"></span>[6](#fn_6) that
+Christendom. St. Augustine relates<span id="fr_6"></span>[6](#fn_6.md) that
 "hostess or innkeepers sometimes put confections into a kind of cheese
 made by them, and travelers eating thereof, were presently metamorphosed
 into laboring beasts, as horses, asses or oxen." It was also believed
 that the power of changing into various animals was possessed by witches
-themselves.<span id="fr_7"></span>[7](#fn_7) At the present day under
+themselves.<span id="fr_7"></span>[7](#fn_7.md) At the present day under
 certain forms of insanity persons imagine themselves to be animals,
 birds, and even inanimate things, as glass; but usually those
 hallucinations occur in isolated instances. But among the strange
@@ -88,11 +88,11 @@ Six hundred persons were executed upon their own confessions, which
 included admissions of compact with the devil, attendance upon the
 Sabbath and cannibal feasting upon a mountain, the devil having used his
 power for their transmutation into wolves.<span
-id="fr_8"></span>[8](#fn_8) Witches were believed to ride through the
+id="fr_8"></span>[8](#fn_8.md) Witches were believed to ride through the
 air upon animals or bits of wood. The fact of their possession of such
 powers is asserted by many writers, the usual method of transportation
 being a goat, night crow or enchanted staff.<span
-id="fr_9"></span>[9](#fn_9) The rhyming Mother Goose question:
+id="fr_9"></span>[9](#fn_9.md) The rhyming Mother Goose question:
 
     "Old woman, old woman, oh whither, oh whither so high?"
 
@@ -164,7 +164,7 @@ epochs. One occurred when the Council of Nice allowed chance to dictate
 which should be considered the canonical books of the New Testament,
 accepting some theretofore regarded as of doubtful authenticity and
 rejecting others that had been universally conceded genuine.<span
-id="fr_10"></span>[10](#fn_10) Another epoch of degeneration occurs when
+id="fr_10"></span>[10](#fn_10.md) Another epoch of degeneration occurs when
 the State in person of the great emperor Charlemagne added to the power
 of the Church by the establishment of torture, whose extremest use fell
 upon that portion of humanity looked upon as the direct embodiment of
@@ -178,7 +178,7 @@ being held as only equal to that of one man. At first, young children
 and women expecting motherhood, were exempted, but afterwards neither
 age or condition freed from accusation and torture, and women even in
 the pangs of maternity were burned at the stake,<span
-id="fr_11"></span>[11](#fn_11) Christianity in this respect showing much
+id="fr_11"></span>[11](#fn_11.md) Christianity in this respect showing much
 more barbarity than pagan nations. In pagan Rome the expectant mother
 was held sacred; to vex or disturb her mind was punishable, to strike
 her was death. She even possessed a right pertaining to the Vestal
@@ -218,18 +218,18 @@ another writer asserted there were 100,000 witches in France alone. The
 great inquisitor Sprenger, author of the "Witch Hammer" and through
 whose instrumentality many countries were filled with victims, largely
 promoted this belief. "Heresy of witches, not of wizards<span
-id="fr_12"></span>[12](#fn_12) must we call it, for these latter are of
+id="fr_12"></span>[12](#fn_12.md) must we call it, for these latter are of
 very small account." No class or condition of women escaped him; we read
 of young children, old people, infants, witches of fifteen years, and
 two "infernally beautiful" of seventeen years. Although the ordeal of
 the red hot iron fell into disuse in the secular courts early in the
-fourteenth century, (1329),<span id="fr_13"></span>[13](#fn_13)
+fourteenth century, (1329),<span id="fr_13"></span>[13](#fn_13.md)
 ecclesiasticism preserved it in case of
 
 <span id="page_225">p. 225</span>
 
 women accused of witchcraft for one hundred and fifty years longer.<span
-id="fr_14"></span>[14](#fn_14) One of the peculiarities of witchcraft
+id="fr_14"></span>[14](#fn_14.md) One of the peculiarities of witchcraft
 accusations, was that protestations of innocence, and a submission to
 ordeals such as had always vindicated those taking part in them if
 passing through unharmed, did not clear a woman charged with witchcraft,
@@ -254,16 +254,16 @@ himself, the saying arose "one wizard to 10,000
 witches." and the persecution for witchcraft became chiefly directed
 against women. The church degraded woman by destroying her self-respect,
 and teaching her to feel consciousness of guilt in the very fact of her
-existence.<span id="fr_15"></span>[15](#fn_15) The extreme wickedness of
+existence.<span id="fr_15"></span>[15](#fn_15.md) The extreme wickedness of
 woman, taught as a cardinal doctrine of the church, created the belief
 that she was desirous of destroying all religion, witchcraft being
-regarded as her strongest weapon,<span id="fr_16"></span>[16](#fn_16)
+regarded as her strongest weapon,<span id="fr_16"></span>[16](#fn_16.md)
 therefore no punishment for it was thought too severe. The teaching of
 the church, as to the creation of women and the origin of evil, embodied
 the ordinary belief of the christian peoples, and that woman rather than
 man practiced this sin, was attributed by the church to her original
 sinful nature, which led her to disobey God's first command in
-Eden.<span id="fr_17"></span>[17](#fn_17)
+Eden.<span id="fr_17"></span>[17](#fn_17.md)
 
     Although witchcraft was treated as a crime against the state, it was
 regarded as a greater sin against heaven, the bible having set its seal
@@ -278,7 +278,7 @@ source of emolument to the church, which grew enormously rich
 by its confiscation to its own use of all property of the condemned.
 Sprenger, whose work (The Witch Hammer), was devoted to methods of
 dealing with this sin, was printed in size convenient for carrying in
-the pocket.<span id="fr_18"></span>[18](#fn_18) It based its authority
+the pocket.<span id="fr_18"></span>[18](#fn_18.md) It based its authority
 upon the bible, twenty-three pages being devoted to proving that women
 were especially addicted to sorcery. This work was sanctioned by the
 pope, but after the reformation became equally authoritative in
@@ -291,7 +291,7 @@ than famine or pestilence, especially by women, against whom their
 malignity was chiefly directed, Sprenger, the great authority, declaring
 that her name signified evil; "the very word *femina*, (woman), meaning
 one wanting in faith, for *fe* means faith, and *minus* less.<span
-id="fr_19"></span>[19](#fn_19)" The reformation caused no diminution in
+id="fr_19"></span>[19](#fn_19.md)" The reformation caused no diminution in
 its use, the protestant clergy equally with the Catholic constantly
 appealing to its pages. Still another class known as "Witch Finders," or
 "Witch Persecutors" confined their work to their own neighborhoods. Of
@@ -299,7 +299,7 @@ these, Cardan, a famous Italian physician, said:
 
     "In order to obtain forfeit property, the same persons act as
 accusers and judges, and invent a thousand stories as proof."<span
-id="fr_20"></span>[20](#fn_20) The love of power, and the love
+id="fr_20"></span>[20](#fn_20.md) The love of power, and the love
 
 <span id="page_228">p. 228</span>
 
@@ -335,7 +335,7 @@ dying agonizingly by fire, a new and weird evidence as
 to the innumerable multitude of these martyrs was of late most
 unexpectedly brought to light in Spain. During a course of leveling and
 excavations for city improvements in Madrid, recently, the workmen came
-upon the *Quemadero de la Cruz*.<span id="fr_21"></span>[21](#fn_21) The
+upon the *Quemadero de la Cruz*.<span id="fr_21"></span>[21](#fn_21.md) The
 cutting of a new road through that part of the city laid bare like
 geological strata, long black layers super-imposed one above the other
 at distances of one or two feet, in the sandstone and clay. Some of
@@ -343,7 +343,7 @@ these layers extended 150 feet in a horizontal direction, and were at
 first supposed to be the actual discovery of new geological strata,
 which they closely resembled. They proved to be the remains of
 inquisitorial burnings, where thousands of human beings of all ages had
-perished by the torture of fire.<span id="fr_22"></span>[22](#fn_22) The
+perished by the torture of fire.<span id="fr_22"></span>[22](#fn_22.md) The
 layers consisted of coal coagulated with human fat, bones, the remains
 of singed hair, and the shreds of burnt garments This discovery created
 great excitement, people visiting the spot by thousands to satisfy
@@ -393,10 +393,10 @@ credited were it not a subject of history, and the date so recent.
 
     "By no means dear mother will I do you the wrong, for the drier you
 are no doubt you will burn the better."<span
-id="fr_23"></span>[23](#fn_23) Under Accadian law 3,000 years before
+id="fr_23"></span>[23](#fn_23.md) Under Accadian law 3,000 years before
 christianity, the son who denied his father was sentenced to a simple
 fine, but he who denied his mother was to be banished from the land and
-sea;<span id="fr_24"></span>[24](#fn_24) but in the sixteenth century of
+sea;<span id="fr_24"></span>[24](#fn_24.md) but in the sixteenth century of
 the christian era, we find a son under christian laws denying his mother
 a drink of water in her death agony by fire.
 
@@ -407,7 +407,7 @@ sorcery, necromancy, or pretended skill therein, shall be punished
 capitally; upon which statute numberless innocent persons were tried and
 burnt to death, upon evidence which, in place of affording reasonable
 conviction to the judge, was fraught with absurdity and
-superstition.<span id="fr_25"></span>[25](#fn_25)
+superstition.<span id="fr_25"></span>[25](#fn_25.md)
 
     Thirty thousand persons accused of witchcraft were burned to death
 in Germany and Italy alone, and although neither age nor sex was spared,
@@ -424,7 +424,7 @@ use.
 death. During the height of witch. craft persecution, hundreds of little
 ones were condemned as witches. Little girls of ten, eight, and seven
 years are mentioned; blind girls, infants<span
-id="fr_26"></span>[26](#fn_26) and even young boys were among the
+id="fr_26"></span>[26](#fn_26.md) and even young boys were among the
 numbers who thus perished. Everywhere the most helpless classes were the
 victims.
 
@@ -436,12 +436,12 @@ downcast look, is due; although the church taught that a woman should
 preserve a downward look in shame for the sin she had brought into the
 world, and to this day, an open, confident look upon a woman's face is
 deprecated as evil. Attendance upon Sabbats<span
-id="fr_27"></span>[27](#fn_27) and control of the weather were among the
+id="fr_27"></span>[27](#fn_27.md) and control of the weather were among the
 accusations brought against the witch. In Scotland a woman accused of
 raising a storm by taking off her stockings, was put to death. Sprenger
 tells of a Swiss farmer whose little daughter startled him by saying she
 could bring rain, immediately raising a storm.<span
-id="fr_28"></span>[28](#fn_28)
+id="fr_28"></span>[28](#fn_28.md)
 
 <span id="page_233">p. 233</span>
 
@@ -564,7 +564,7 @@ governing ordinary natural phenomena still exists even among civilized
 people, is indubitable. Our American Indians in various portions of the
 continent, according to authorities, also possess power to produce
 storms of thunder, lightning and rain<span
-id="fr_29"></span>[29](#fn_29)
+id="fr_29"></span>[29](#fn_29.md)
 
     A vast amount of evidence exists, to show that the word "witch"
 formerly signified a woman of superior knowledge. Many of the persons
@@ -622,11 +622,11 @@ forming an opinion to know that the word "witch" is from wekken, to
 prophesy a direct bearing upon the psychic powers of many such persons.
 The modern Slavonian or Russian name for witch, "vjédma," is from the
 verb "to know" signifying much the same as Veda.<span
-id="fr_30"></span>[30](#fn_30) Muller says "Veda" means the same as the
+id="fr_30"></span>[30](#fn_30.md) Muller says "Veda" means the same as the
 wise, "wisdom." The Sanskrit word "Vidma" answers to the German "wir
 wissen," which literally means "we know." A Russian name for the witch
 "Zaharku," is derived from the verb "Znat," to know.<span
-id="fr_31"></span>[31](#fn_31) A curious account of modern Russian
+id="fr_31"></span>[31](#fn_31.md) A curious account of modern Russian
 belief in witchcraft is to be found in Madame Blavatsky's "Isis
 Unveiled." The German word "Heke," that is, witch, primarily signified
 priestess, a wise or superior woman who in a sylvan temple worshiped
@@ -652,14 +652,14 @@ April, each of these festivals at a time when winter having released its
 sway, smiling earth giving her life to healing herbs and leaves, once
 more welcomed her worshipers. In the south of Europe, the month of
 October peculiarly belonged to the witches.<span
-id="fr_32"></span>[32](#fn_32) The first of May, May-day, was especially
+id="fr_32"></span>[32](#fn_32.md) The first of May, May-day, was especially
 devoted by those elementals known as fairies, whose special rites were
 dances upon the green sward, leaving curious mementoes of their visits
 in the circles known as "Fairies Rings." In reality the original meaning
 of "witch" was a wise woman. So also the word "Sab" means sage or wise,
-and "Saba" a host or congregation;<span id="fr_33"></span>[33](#fn_33)
-while "Bac," "Boc" and "Bacchus"<span id="fr_34"></span>[34](#fn_34) all
-originally signified book.<span id="fr_35"></span>[35](#fn_35) "Sabs"
+and "Saba" a host or congregation;<span id="fr_33"></span>[33](#fn_33.md)
+while "Bac," "Boc" and "Bacchus"<span id="fr_34"></span>[34](#fn_34.md) all
+originally signified book.<span id="fr_35"></span>[35](#fn_35.md) "Sabs"
 was the name of the day when the Celtic Druids gave instruction and is
 the origin of our words Sabbath and Sunday.
 
@@ -669,7 +669,7 @@ But the degradation of learning, its almost total loss among christian
 nations, an entire change in the signification of words, owing to
 ignorance and superstition led to the strangest and most infamous
 results. The earliest doctors among the common people of christian
-Europe were women<span id="fr_36"></span>[36](#fn_36) who had learned
+Europe were women<span id="fr_36"></span>[36](#fn_36.md) who had learned
 the virtues and use of herbs. The famous works of Paracelsus were but
 compilations of the knowledge of these "wise women" as he himself
 stated. During the feudal ages women were excellent surgeons, wounded
@@ -696,7 +696,7 @@ others without having duly studied, was a witch and should suffer death;
 yet in that same century, 1527, at Basle, Paracelsus threw all his
 medical works, including those of Hippocrates and Galen into the fire,
 saying that he knew nothing except what he had learned from
-witches.<span id="fr_37"></span>[37](#fn_37) As late as 1736, the
+witches.<span id="fr_37"></span>[37](#fn_37.md) As late as 1736, the
 persecution of her male compeers cast Elizabeth Blackwell, an English
 woman physician, into prison for debt. Devoting herself even behind the
 bars to her loved science, she prepared the first medical botany given
@@ -728,7 +728,7 @@ Its teachings that she had therefore been especially cursed by her Maker
 with suffering and sorrow at this period, rendered the use of mitigating
 remedies during childbirth, dangerous alike to the "wise woman" and the
 mother for whose relief they were employed.<span
-id="fr_39"></span>[39](#fn_39) Although the present century has shown
+id="fr_39"></span>[39](#fn_39.md) Although the present century has shown
 similar opposition by the church to the use of anæsthetics for women at
 this time, it is almost impossible to depict the sentiment against such
 relief which made the witchcraft period one of especial terror to
@@ -781,7 +781,7 @@ practice of medicine and surgery, and for many hundred
 years but few women doctors were to be found in christian countries. It
 is, however, a noticeable fact that Madam La Chapelle, an eminent woman
 accoucher of France, during the present century, and M. Chaussure
-revived the use of Belladonna<span id="fr_40"></span>[40](#fn_40) during
+revived the use of Belladonna<span id="fr_40"></span>[40](#fn_40.md) during
 parturition, thus acknowledging the scientific acquirements of serf
 women and "witches." Since the re-entrance of woman into the medical
 profession within the past few years, the world has been indebted for a
@@ -808,7 +808,7 @@ Gaul and among the Celts were especially famous for their
 
 <span id="page_245">p. 245</span>
 
-healing powers, <span id="fr_41"></span>[41](#fn_41) possessing
+healing powers, <span id="fr_41"></span>[41](#fn_41.md) possessing
 knowledge by which wounds and diseases that baffled the most expert male
 physicians were cured. The women of a still more ancient period, the
 fame of whose magical powers has descended to the present time, Circe,
@@ -822,7 +822,7 @@ that the country deemed it an honor to thus perpetuate her name.
 
     Aside from women of superior intelligence who were almost invariably
 accused of witchcraft, the old, the insane, the bed-ridden, the
-idiotic,<span id="fr_42"></span>[42](#fn_42) also fell under
+idiotic,<span id="fr_42"></span>[42](#fn_42.md) also fell under
 condemnation. The first investigation by Rev. Cotten Mather in America
 resulted in the hanging of a half-witted Quaker woman. Later still, an
 Indian woman, an insane man, and another woman who was bed-ridden were
@@ -834,7 +834,7 @@ women increased in proportion to
 
 <span id="page_246">p. 246</span>
 
-the spread of christianity,<span id="fr_43"></span>[43](#fn_43) and the
+the spread of christianity,<span id="fr_43"></span>[43](#fn_43.md) and the
 broader area over which man's sole authority in church and state was
 disseminated. As the supreme extent of spiritual wrong grew out of the
 bondage of the church over free thought, so the extreme of **physical**
@@ -917,7 +917,7 @@ means were considered too severe in order to secure conviction. The
 Jesuit, Del Rio, said torture could scarcely be properly administered
 without more or less dislocation of the joints, and persons escaping
 conviction were frequently crippled for life.<span
-id="fr_44"></span>[44](#fn_44) The church declared the female sex had
+id="fr_44"></span>[44](#fn_44.md) The church declared the female sex had
 always been most concerned in the crime of christian witchcraft and as
 it was its aim to separate woman from all connection with its
 ordinances, it also asserted that the priestesses of antiquity held
@@ -951,10 +951,10 @@ because of his connection with a Succubus.
 
     One of the most notable things connected with such accusation was
 the frequent confession of its truthfulness. In 1459, a great number of
-witches and wizards were burned,<span id="fr_45"></span>[45](#fn_45) who
+witches and wizards were burned,<span id="fr_45"></span>[45](#fn_45.md) who
 publicly confessed to their use of ungents, to their dances, feasts, and
 their consort with devils. A Vicar General<span
-id="fr_46"></span>[46](#fn_46) among the Laodunenses, at his death left
+id="fr_46"></span>[46](#fn_46.md) among the Laodunenses, at his death left
 confession of his witch-rides, his copulation with devils, etc. Nor is
 the present age free from similar confessions. Tales of marriage with
 spirits; of dead lovers paying nightly visits to the living
@@ -971,12 +971,12 @@ exorcise them as
 <span id="page_251">p. 251</span>
 
 Elementals are said to have been exorcised during the last half of the
-present century.<span id="fr_47"></span>[47](#fn_47) Devils were said to
+present century.<span id="fr_47"></span>[47](#fn_47.md) Devils were said to
 be very fond of women with beautiful hair and the direction of St. Paul
 in regard to woman's keeping her head covered, was not always regarded
 as a sign of inferiority, but sometimes believed to be a precautionary
 admonition intended for the safety of christian women.<span
-id="fr_48"></span>[48](#fn_48) To this day the people of some eastern
+id="fr_48"></span>[48](#fn_48.md) To this day the people of some eastern
 countries, men and women alike, will not expose the head uncovered,
 because of the danger of thus giving entrance to certain invisible
 beings of an injurious character; the Persians in particular, wearing a
@@ -1015,7 +1015,7 @@ understanding of mediæval witchcraft. The Scotch woman who asked if a
 person could not be a witch without knowing it, had intuitive perception
 that by the action of one person upon another, consequences could be
 induced of which the perpetrator was entirely guiltless.<span
-id="fr_49"></span>[49](#fn_49) Doubtless the
+id="fr_49"></span>[49](#fn_49.md) Doubtless the
 
 <span id="page_253">p. 253</span>
 
@@ -1028,7 +1028,7 @@ satisfied themselves while throwing the external appearance of guilt
 upon others. The most complete protection against such powers,--a strong
 will,--it has ever been the aim of the church to destroy. Freedom of the
 will has ever held place in clerical denunciation by side of "original
-sin," and punished as sorcery.<span id="fr_50"></span>[50](#fn_50)
+sin," and punished as sorcery.<span id="fr_50"></span>[50](#fn_50.md)
 
     A reminiscence of olden magic--far older than the witchcraft period
 is found in the Masonic lamentation over the "lost word." This "lost
@@ -1054,7 +1054,7 @@ therefore claim the lost power to abide in a number rather than in a
 word; sounds possessing great and peculiar influence in all magical
 formulas, their power largely depending upon inflection and tone or
 vibration; color and light are also called in aid during magical
-formulas.<span id="fr_51"></span>[51](#fn_51)
+formulas.<span id="fr_51"></span>[51](#fn_51.md)
 
     The three most distinguishing features of the history of witchcraft
 were its use for the enrichment of the church; for the advancement of
@@ -1090,7 +1090,7 @@ Puritan Fathers. It was no less wide-spread in Calvinistic Scotland,
 while it re-appeared with renewed vigor in Catholic countries. In the
 State of Venice it caused open rebellion against church authority, the
 Council forbidding the sentence of the Inquisition to be carried
-out.<span id="fr_52"></span>[52](#fn_52)
+out.<span id="fr_52"></span>[52](#fn_52.md)
 
     While only Venice in the whole of Europe defied the church upon this
 point, emphatically protesting against such robbery of her citizens, she
@@ -1103,7 +1103,7 @@ its subjects, a question upon which the state held itself
 
 pre-eminent, soon effected a radical change and had remarkable effect in
 lessening the number of accusations in that state.<span
-id="fr_51"></span>[51](#fn_51) Theft by the church in that direction, no
+id="fr_51"></span>[51](#fn_51.md) Theft by the church in that direction, no
 longer possible, accusations of witchcraft soon ceased; being no longer
 recognized as sin, after ceasing to bring money into the coffers of the
 church.
@@ -1124,7 +1124,7 @@ witchcraft period was but a continuation of her policy from the moment
 of her existence--that of universal dominion over the lives, the
 property, and the thoughts of mankind. Neither rank, nor learning, age,
 nor goodness freed a woman from accusation.<span
-id="fr_54"></span>[54](#fn_54) The mother of the great astronomer,
+id="fr_54"></span>[54](#fn_54.md) The mother of the great astronomer,
 Kepler, a woman
 
 <span id="page_257">p. 257</span>
@@ -1167,7 +1167,7 @@ ceremonials of the church. This service where woman by virtue of her
 greater despair acted both as altar and priest, opened with the
 following address and prayer. "I will come before Thine altar, but save
 me, O, Lord, from the faithless and violent man!" (from the priest and
-the baron.)<span id="fr_56"></span>[56](#fn_56) From these assemblages
+the baron.)<span id="fr_56"></span>[56](#fn_56.md) From these assemblages
 known as "Sabbat" or "the Sabbath" from the old Pagan midsummer-day
 sacrifice to "Bacchus Sabiesa" rose the belief in the "Witches Sabbath,"
 which for several hundred years formed a source of accusation against
@@ -1175,7 +1175,7 @@ women, sending tens of thousands to most horrible deaths. The thirteenth
 century was about the central period of this rebellion of the serfs
 against God and the church when they drank each other's blood as a
 sacrament, while secretly speaking of their oppression.<span
-id="fr_57"></span>[57](#fn_57) The officiating priestess was usually
+id="fr_57"></span>[57](#fn_57.md) The officiating priestess was usually
 about thirty years old, having experienced all the wrongs that woman
 suffered under church and state. She was entitled "The Elder" yet in
 defiance of that God to whom the serfs under church teaching ascribed
@@ -1198,7 +1198,7 @@ due.
 Solanæ which mixed with mead, beer, cider, or farcy,--the strong drink
 of the west--disposed the oppressed serfs to joyous dancing and partial
 forgetfulness of their wrongs during these popular night gatherings of
-the Sabbath.<span id="fr_58"></span>[58](#fn_58) It became "the
+the Sabbath.<span id="fr_58"></span>[58](#fn_58.md) It became "the
 comforter" throwing the friendly mantle of partial oblivion over the
 mental suffering of "him who had been so wronged" as it had done for the
 mother's physical pain. "The Sabbath" was evidently the secret protest
@@ -1208,7 +1208,7 @@ class of humanity--for this degraded portion of christendom--yet, even
 then women held position of superiority in these night assemblages.
 Among the "Papers of the Bastile," a more extended account of woman
 officiating as her own altar, is to be found.<span
-id="fr_59"></span>[59](#fn_59)
+id="fr_59"></span>[59](#fn_59.md)
 
 <span id="page_260">p. 260</span>
 
@@ -1246,13 +1246,13 @@ sickness were in themselves proof of this league.
 <span id="page_261">p. 261</span>
 
     Catholics and protestants yet agree in holding Women as the chief
-accessory of the devil.<span id="fr_60"></span>[60](#fn_60)
+accessory of the devil.<span id="fr_60"></span>[60](#fn_60.md)
 
     The belief in witches indeed seemed intensified after the
 reformation. Luther said: "I would have no compassion for a witch, I
 would burn them all." He looked upon those who were afflicted with
 blindness, lameness, or idiocy from birth,<span
-id="fr_61"></span>[61](#fn_61) as possessed of demons and there is
+id="fr_61"></span>[61](#fn_61.md) as possessed of demons and there is
 record of his attempt to drown an afflicted child in whom he declared no
 soul existed, its body being animated by the devil alone. But a
 magistrate more enlightened or more humane than the great reformer,
@@ -1283,7 +1283,7 @@ the headsman's block, who neither hesitated at incest or at casting the
 taint of illegitimacy upon the daughter who succeeded him upon the
 throne, could not be expected to show justice or mercy to subject women.
 The penal laws of even celibate Elizabeth were largely the result of the
-change in religion of the realm.<span id="fr_62"></span>[62](#fn_62) The
+change in religion of the realm.<span id="fr_62"></span>[62](#fn_62.md) The
 queen, absolute in Church as in State, who "bent priest and prelate to
 her fiery will," caused the laws to bear with equal severity upon
 protestant and catholic. Under her "A Statute of Uniformity for
@@ -1300,10 +1300,10 @@ which period if still unmarried
 <span id="page_263">p. 263</span>
 
 she could be bound out at the option of the court.<span
-id="fr_63"></span>[63](#fn_63) Nor did the Cromwellian period lessen
+id="fr_63"></span>[63](#fn_63.md) Nor did the Cromwellian period lessen
 woman's persecution. The number of witches executed under the
 Presbyterian domination of the Long Parliament according to a list<span
-id="fr_64"></span>[64](#fn_64) that has been preserved, amounted to
+id="fr_64"></span>[64](#fn_64.md) that has been preserved, amounted to
 between three and four thousand persons. The legal profession no less
 than the clerical asserted its belief in witchcraft, referring to the
 Bible in confirmation. Blackstone said:
@@ -1327,7 +1327,7 @@ system of robbery, inaugurated by the church and sustained by the state.
 In the name of religion, the worst crimes against humanity have ever
 been perpetrated. On the accession of James I. he ordered the learned
 work of Reginald Scott against witchcraft, to be burned.<span
-id="fr_65"></span>[65](#fn_65)
+id="fr_65"></span>[65](#fn_65.md)
 
 <span id="page_264">p. 264</span>
 
@@ -1399,7 +1399,7 @@ says:
 
 challenge a right to her soul as the minister said when he desired her
 to confess; and therefore she desired to die.<span
-id="fr_66"></span>[66](#fn_66)
+id="fr_66"></span>[66](#fn_66.md)
 
     The following is an account of the material used and the expenses
 attending the execution of two witches in Scotland.
@@ -1442,7 +1442,7 @@ juricounsul at Helmstadt she was ordered to be again submitted to the
 torture. Then protesting she was a good Christian while the executioner
 stretched her on the rack, whipt her with rods and sprinkled her with
 burning brimstone, she fell again fast asleep and could not by any means
-be awakened.<span id="fr_67"></span>[67](#fn_67)
+be awakened.<span id="fr_67"></span>[67](#fn_67.md)
 
     Boiling heretics and malefactors alive, commonly in oil but
 occasionally in water, was practiced throughout Europe until a
@@ -1530,7 +1530,7 @@ down the tongue, one touched the palate, the other two doing their
 barbarous work upon the inner side of the cheeks. As this instrument
 prevented speech thus allowing no complaint upon the part of the victim,
 it was preferred to many other methods of torture.<span
-id="fr_68"></span>[68](#fn_68) The woman upon
+id="fr_68"></span>[68](#fn_68.md) The woman upon
 
 <span id="page_270">p. 270</span>
 
@@ -1553,7 +1553,7 @@ no other reason than that they were old, were held to be the most
 susceptible to the assaults of the devil, and the persons most
 especially endowed with supernatural powers for evil. Blackstone refers
 to this persecution of aged women in his reference to a statute of the
-Eight Henry.<span id="fr_69"></span>[69](#fn_69) We discover a reason
+Eight Henry.<span id="fr_69"></span>[69](#fn_69.md) We discover a reason
 for this intense hatred of old women in the fact that woman has chiefly
 been looked upon from
 
@@ -1602,7 +1602,7 @@ family, confession having been obtained through this diabolical means,
 she was still condemned to the flames, undergoing death at the stake a
 blazing torch of fire, and died calling upon God for that mercy she
 could not find at the hands of Christian men.<span
-id="fr_70"></span>[70](#fn_70) In
+id="fr_70"></span>[70](#fn_70.md) In
 
 <span id="page_273">p. 273</span>
 
@@ -1610,7 +1610,7 @@ protestant Scotland as in catholic countries, witchcraft was under
 control of the clergy. When a woman fell under suspicion of being a
 witch, the minister denounced her from the pulpit, forbade any one to
 harbour or shelter her and exhorted his parishoners to give evidence
-against her.<span id="fr_71"></span>[71](#fn_71) She was under ban
+against her.<span id="fr_71"></span>[71](#fn_71.md) She was under ban
 similar to the excommunicate of the catholic church, a being outside of
 human help or sympathy. In protestant as in catholic countries the woman
 accused was virtually dead. She was excommunicated from humanity;
@@ -1618,20 +1618,20 @@ designated and denounced as one whom all must shun, to whom no one must
 give food or lodging or speech or shelter; life was not worth the
 living. To afford such a one aid was to hazard accusation as a
 confederate. The first complaint was made to the clergy and Kirk
-Sessions.<span id="fr_72"></span>[72](#fn_72)
+Sessions.<span id="fr_72"></span>[72](#fn_72.md)
 
     Notwithstanding two hundred years of such experience, when by ail
 act of parliament in 1784, the burning and hanging of witches was
 abolished, the General Assembly of the Calvinistic church of Scotland
 "confessed" this act "as a great national sin." Not only were the courts
 and the church alert for the detection of alleged witches, but the
-populace persecuted many to death.<span id="fr_73"></span>[73](#fn_73)
+populace persecuted many to death.<span id="fr_73"></span>[73](#fn_73.md)
 Deserted by her friends, the suspected
 
 <span id="page_274">p. 274</span>
 
 witch was beaten, worried by dogs, denied food and prevented from
-sleeping.<span id="fr_74"></span>[74](#fn_74) Contrary to equity and the
+sleeping.<span id="fr_74"></span>[74](#fn_74.md) Contrary to equity and the
 principles of modern law, the church sought in every way to entrap
 victims into giving evidence against themselves. Once a person was
 accused, no effort was spared to induce confession. Holding control over
@@ -1819,7 +1819,7 @@ whose merciless power she had fallen, she "confessed" to communion
 
 with a demon spirit which appeared to her in the form of a brown dog."
 From a work entitled The Sommers Trials, the form of indictment is
-learned.<span id="fr_76"></span>[76](#fn_76)
+learned.<span id="fr_76"></span>[76](#fn_76.md)
 
     INDICTMENT.
 
@@ -1834,7 +1834,7 @@ indictment, upon her arraignment, she pleaded, not guiltie; and for the
 tryall of her life put herself upon God and her country.
 
     One of the chief witnesses at this trial was a child of nine
-years.<span id="fr_77"></span>[77](#fn_77) Upon seeing her own daughter
+years.<span id="fr_77"></span>[77](#fn_77.md) Upon seeing her own daughter
 arraigned against her, the mother broke into shrieks and lamentations
 pleading with the girl not to falsify the truth and thus condemn her own
 mother to death. The judges instead of seeing in this agony a proof of
@@ -1888,7 +1888,7 @@ witch.
 
 <span id="page_282">p. 282</span>
 
-reward<span id="fr_78"></span>[78](#fn_78) or because they believed they
+reward<span id="fr_78"></span>[78](#fn_78.md) or because they believed they
 were thus aiding the cause of justice, kept private note books of
 instruction in the examination of witches, and new varieties were
 constantly discovered. When witchcraft by Act of Parliament was decreed
@@ -1962,13 +1962,13 @@ witness against her mother.
     Some of the condemned, especially Rebecca Nurse, Martha Corey, and
 Mary Easty, were aged women who had led unblemished lives and were
 conspicuous for their prudence, their charities and all domestic
-virtues.<span id="fr_79"></span>[79](#fn_79)
+virtues.<span id="fr_79"></span>[79](#fn_79.md)
 
     So extended became the persecution for witchcraft that the king was
 at last aroused to the necessity of putting a stop to such wholesale
 massacre of his subjects, issued a mandate forbidding the putting of any
 more persons to death on account of witchcraft.<span
-id="fr_80"></span>[80](#fn_80) A remarkable family gathering took place
+id="fr_80"></span>[80](#fn_80.md) A remarkable family gathering took place
 at Salem, July 18, 1883, of two hundred persons who met to celebrate
 their descent from Mrs. Rebecca Nurse, who was executed as a witch at
 that place in 1692. The character and life of Mrs. Nurse were
@@ -1986,7 +1986,7 @@ obliged to steal it away by night, depositing it in a secret place known
 but to the family. Forty persons at the hazard of their own lives
 testified to the goodness and piety of Mrs. Nurse. Their names were
 inscribed upon the monument erected by her descendants, in 1892, to her
-memory.<span id="fr_81"></span>[81](#fn_81) The Rev. Cotton Mather and
+memory.<span id="fr_81"></span>[81](#fn_81.md) The Rev. Cotton Mather and
 the Rev. Samuel Parrish are indissolubly connected with this period, as
 both were extremely active in fomenting a belief in witchcraft. Richard
 Baxter, known as the "greatest of the Puritans" condemned those who
@@ -2148,7 +2148,7 @@ witchcraft. The records of the trial show that the court after a
 consideration of the charges, ordered the sheriff to take the said Grace
 into his custody and to commit her body to the common jail, there to
 secure her with irons or otherwise, until brought to trial.<span
-id="fr_82"></span>[82](#fn_82)
+id="fr_82"></span>[82](#fn_82.md)
 
     In 1692, the Grand jury brought a bill against Mary Osgood of the
 Province of Massachusetts Bay, as follows:
@@ -2168,7 +2168,7 @@ detestable witch against the peace of our sovereign
 
 lord and lady, the king and queen, their crown and dignity and the laws
 in that case made and provided. A true bill.<span
-id="fr_83"></span>[83](#fn_83)
+id="fr_83"></span>[83](#fn_83.md)
 
     When for "witches" we read "women," we gain fuller comprehension of
 the cruelties inflicted by the church upon this portion of humanity.
@@ -2208,7 +2208,7 @@ evidence for several hours before recalling the fact that there was no
 law upon which he could base his decision, the latest legislation being
 the law of 1668 repealed 1795 (twenty years after our Declaration of
 Independence), the crime was no longer officially recognized.<span
-id="fr_84"></span>[84](#fn_84) It is curious to note the close parallel
+id="fr_84"></span>[84](#fn_84.md) It is curious to note the close parallel
 between accusations during the witchcraft period and those against the
 New Jersey suspect of 1885. It was said of her that during the night she
 accomplished such feats by supernatural power as jumping from a third
@@ -2244,7 +2244,7 @@ of sorcery; and it is but little more than twenty years since a woman in
 the state of Puebla, Mexico, was hung and burned as a witch, because
 unable to reveal the whereabouts of a lost animal. She was seized, hung
 to a tree shot at and then plunged into fire until she expired.<span
-id="fr_85"></span>[85](#fn_85) The body at first buried in the cemetery,
+id="fr_85"></span>[85](#fn_85.md) The body at first buried in the cemetery,
 was exhumed the following day by order of the priest, who refused to
 allow the remains of a witch to be buried in consecrated ground. The
 state, in person of the mayor of the city, authorized the proceedings by
@@ -2261,7 +2261,7 @@ she brought sin into the world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Wives.](wcs08)
+[Next: Chapter VI. Wives.](wcs08.md)
 
 ------------------------------------------------------------------------
 
@@ -2269,17 +2269,17 @@ she brought sin into the world.
 
 <span id="fn_page_217">p. 217</span>  
 
-<span id="fn_1"></span>[1.](#fr_1)  Black was hated as the colors of the
+<span id="fn_1"></span>[1.](#fr_1.md)  Black was hated as the colors of the
 devil. In the same manner red was hated in Egypt as the color of Typhon.
 
 <span id="fn_page_218">p. 218</span>  
 
-<span id="fn_2"></span>[2.](#fr_2)  At what date then did the witch
+<span id="fn_2"></span>[2.](#fr_2.md)  At what date then did the witch
 appear? In the age of despair, of that deep despair which the guilt of
 the church engendered. Unfalteringly I say, the witch is a crime of
 their own making.--*Michelet*.
 
-<span id="fn_3"></span>[3.](#fr_3)  "It is not a little remarkable,
+<span id="fn_3"></span>[3.](#fr_3.md)  "It is not a little remarkable,
 though perfectly natural, that the introduction of the cat gave a new
 impulse to tales and fears of ghosts and enchantments. The sly,
 creeping, nocturnal grimalkin took rank at once with owls and bats, and
@@ -2288,10 +2288,10 @@ supernatural. Entirely new conceptions of witchcraft were gained for the
 world when the black cat appeared upon the scene with her swollen tail,
 glistening eyes and unearthly yell."--Ex.
 
-<span id="fn_4"></span>[4.](#fr_4)  Steevens says it was permitted to a
+<span id="fn_4"></span>[4.](#fr_4.md)  Steevens says it was permitted to a
 witch to take on a cattes body nine times.-Brand 3, 89-90.
 
-<span id="fn_5"></span>[5.](#fr_5)  Mr. E, F. Spicer, a taxidermist of
+<span id="fn_5"></span>[5.](#fr_5.md)  Mr. E, F. Spicer, a taxidermist of
 Birmingham, whose great specialty is <span id="fn_page_219">p.
 219</span> the artistic preparation of kittens for sale, will not
 purchase black ones, as he finds the superstition against black cats
@@ -2302,12 +2302,12 @@ propagation of black cats to be raised for their fur.
 
 <span id="fn_page_219">p. 219</span>  
 
-<span id="fn_6"></span>[6.](#fr_6)  *City of God*, Lib. XVIII. Charles
+<span id="fn_6"></span>[6.](#fr_6.md)  *City of God*, Lib. XVIII. Charles
 F. Lummis, in a recent work, *Some Strange Corners of Our Country, the
 Wonderland of the Southwest*, refers to the power of the **shamans** to
 turn themselves at will into any animal shape, as a wolf, bear or dog.
 
-<span id="fn_7"></span>[7.](#fr_7)  Italian women usually became cats.
+<span id="fn_7"></span>[7.](#fr_7.md)  Italian women usually became cats.
 The Witch Hammer mentioned a belief in Lycanthropy and Metamorphosis. It
 gave the story of a countryman who was assaulted by three cats. He
 wounded them, after which three infamous witches were found wounded and
@@ -2315,11 +2315,11 @@ bleeding.
 
 <span id="fn_page_220">p. 220</span>  
 
-<span id="fn_8"></span>[8.](#fr_8)  For a full account of this madness,
+<span id="fn_8"></span>[8.](#fr_8.md)  For a full account of this madness,
 and other forms that sometimes attacked whole communities during the
 middle Christian ages, see "Hecker.--*Epidemics of the Middle Ages*."
 
-<span id="fn_9"></span>[9.](#fr_9)  The conventicle of witches was said
+<span id="fn_9"></span>[9.](#fr_9.md)  The conventicle of witches was said
 to be held on Mt. Atlas, "to which they rode upon a goat, a night crow,
 or an enchanted staff, or bestriding a broom staff. Sundry speeches
 belonged to these witches, the words whereof were neither Hebrew, Greek,
@@ -2328,7 +2328,7 @@ from any known language."
 
 <span id="fn_page_222">p. 222</span>  
 
-<span id="fn_10"></span>[10.](#fr_10)  *St. Gregory, of Nyassa*, a
+<span id="fn_10"></span>[10.](#fr_10.md)  *St. Gregory, of Nyassa*, a
 canonized saint, the only theologian to whom the church (except St.
 John) has ever allowed the title of "The Divine," was a member of that
 council, aiding in the preparation of the Nicene Creed. it is a
@@ -2337,7 +2337,7 @@ number," congregated at Nice during the sessions of this council.
 
 <span id="fn_page_223">p. 223</span>  
 
-<span id="fn_11"></span>[11.](#fr_11)  In Guernsey a mother and her two
+<span id="fn_11"></span>[11.](#fr_11.md)  In Guernsey a mother and her two
 daughters were brought to the stake; One of the latter, a married woman
 with child, was delivered in the midst of her torments, and the infant,
 just rescued, was tossed back into the flames by a priest with the cry,
@@ -2345,17 +2345,17 @@ just rescued, was tossed back into the flames by a priest with the cry,
 
 <span id="fn_page_224">p. 224</span>  
 
-<span id="fn_12"></span>[12.](#fr_12)  "Old writers declared that women
+<span id="fn_12"></span>[12.](#fr_12.md)  "Old writers declared that women
 have been more addicted to those devilish arts than men, was manifest by
 'many grave authors,' among whom Diodorus, Sindas, Pliny and St.
 Augustine were mentioned. Quintillian declared theft more prevalent
 among men, but witchcraft especially a sin of omen."
 
-<span id="fn_13"></span>[13.](#fr_13)  Lea.--*Superstition and Force*.
+<span id="fn_13"></span>[13.](#fr_13.md)  Lea.--*Superstition and Force*.
 
 <span id="fn_page_225">p. 225</span>  
 
-<span id="fn_14"></span>[14.](#fr_14)  Certain forms of ordeal, such as
+<span id="fn_14"></span>[14.](#fr_14.md)  Certain forms of ordeal, such as
 the ordinary ones of fire and water, seem to have owed their origin to
 the trials passed by the candidate for admission into the ancient
 mysteries as Lea, has also conjectured. During the mysteries of Isis,
@@ -2374,7 +2374,7 @@ was to the scandal of the faithful.
 
 <span id="fn_page_226">p. 226</span>  
 
-<span id="fn_15"></span>[15.](#fr_15)  Woman was represented as the door
+<span id="fn_15"></span>[15.](#fr_15.md)  Woman was represented as the door
 of hell, as the mother of all human ill. She should be ashamed at the
 very thought she is a woman. She should live in continual penance on
 account of the curses she has brought upon the world. She should be
@@ -2382,10 +2382,10 @@ ashamed of her dress, for it is the memorial of her fall. She should be
 especially ashamed of her beauty, for it is the most potent instrument
 of the demon.--*Hist. European Morals*, Vol. 2, p. 358.
 
-<span id="fn_16"></span>[16.](#fr_16)  Witchcraft was supposed to have
+<span id="fn_16"></span>[16.](#fr_16.md)  Witchcraft was supposed to have
 power of subverting religion.--*Montesquieu*.
 
-<span id="fn_17"></span>[17.](#fr_17)  The question why the immense
+<span id="fn_17"></span>[17.](#fr_17.md)  The question why the immense
 majority of those who were accused should be women, early attracted
 attention; it was answered by the inherent wickedness of the sex, which
 had its influence in pre-disposing men to believe in witches, and also
@@ -2394,12 +2394,12 @@ victims were contemplated.--*Rationalism in Europe* I, 88.
 
 <span id="fn_page_227">p. 227</span>  
 
-<span id="fn_18"></span>[18.](#fr_18)  18 mo. An unusually small size
+<span id="fn_18"></span>[18.](#fr_18.md)  18 mo. An unusually small size
 for that period.
 
-<span id="fn_19"></span>[19.](#fr_19)  (*Witch Hammer*.)
+<span id="fn_19"></span>[19.](#fr_19)  (*Witch Hammer*..md)
 
-<span id="fn_20"></span>[20.](#fr_20)  The Court of Rome was fully
+<span id="fn_20"></span>[20.](#fr_20.md)  The Court of Rome was fully
 apprized that power cannot be maintained without property, and thereupon
 its attention began very early to be riveted upon every method that
 promised pecuniary advantage. All the wealth of Christendom was
@@ -2413,16 +2413,16 @@ grew scarce and disappeared."
 
 <span id="fn_page_229">p. 229</span>  
 
-<span id="fn_21"></span>[21.](#fr_21)  Burning Place of the Cross.
+<span id="fn_21"></span>[21.](#fr_21.md)  Burning Place of the Cross.
 
-<span id="fn_22"></span>[22.](#fr_22)  A MS. upholding the burning of
+<span id="fn_22"></span>[22.](#fr_22.md)  A MS. upholding the burning of
 witches as heretics, written in 1450 by the Dominican Brother
 *Hieronymes Visconti*, of Milan, is among the treasures of the *White
 Library*, recently presented to Cornell University.
 
 <span id="fn_page_231">p. 231</span>  
 
-<span id="fn_23"></span>[23.](#fr_23)  It shall not be amiss to insert
+<span id="fn_23"></span>[23.](#fr_23.md)  It shall not be amiss to insert
 among these what I have heard concerning a witch of Scotland: One of
 that countrie (as by report there are too many) being for no goodness of
 the judges of Assize, arrayed, convicted and condemned to be burnt, and
@@ -2441,26 +2441,26 @@ drie, drie;" to which the young fellow answered, "by no means, deere
 mother will I do you that wrong; *for the drier you are (no doubt) you
 will burne the better*." Heywoode--*History of Women*, Lib. 8, p. 06.
 
-<span id="fn_24"></span>[24.](#fr_24)  Lenormant.--*Chaldean Magic and
+<span id="fn_24"></span>[24.](#fr_24.md)  Lenormant.--*Chaldean Magic and
 Sorcery*, 385.
 
-<span id="fn_25"></span>[25.](#fr_25)  *Institutes of Scotland*.
+<span id="fn_25"></span>[25.](#fr_25.md)  *Institutes of Scotland*.
 
 <span id="fn_page_232">p. 232</span>  
 
-<span id="fn_26"></span>[26.](#fr_26)  At *Bamburg, Germany* an original
+<span id="fn_26"></span>[26.](#fr_26.md)  At *Bamburg, Germany* an original
 record of twenty-nine burnings in nineteen months, 162 persons in all,
 mentions the infant daughter of Dr. Schutz as a victim of the
 twenty-eighth burning. Hauber.--*Bibliotheca Magica*.
 
-<span id="fn_27"></span>[27.](#fr_27)  In those terrible trials presided
+<span id="fn_27"></span>[27.](#fr_27.md)  In those terrible trials presided
 over by Pierre de Lancre, it was asserted that hundreds of girls and
 boys flocked to the indescribable Sabbats of Labourd. The Venitians
 record the story of a little girl of nine years who raised a great
 tempest, and who like her mother was a witch. Signor Bernoni,--*Folk
 Lore*.
 
-<span id="fn_28"></span>[28.](#fr_28)  Some very strange stories of such
+<span id="fn_28"></span>[28.](#fr_28.md)  Some very strange stories of such
 power at the present time have become known to the author, one from the
 lips of a literary gentleman in New York City, this man of undoubted
 veracity declaring that he had seen his own father extend <span
@@ -2472,7 +2472,7 @@ of by a school girl in a spirit of ignorant bravado.
 
 <span id="fn_page_236">p. 236</span>  
 
-<span id="fn_29"></span>[29.](#fr_29)  These and similar powers known as
+<span id="fn_29"></span>[29.](#fr_29.md)  These and similar powers known as
 magical, are given as pertaining to the Pueblo Indians, by Charles F.
 Lummis, in *Some Strange Corners of Our Country*, pub. 1892. A friend of
 the author witnessed rain thus produced by a very aged Iowa Indian a few
@@ -2480,19 +2480,19 @@ years since.
 
 <span id="fn_page_238">p. 238</span>  
 
-<span id="fn_30"></span>[30.](#fr_30)  A *Hindoo Scripture* whose name
+<span id="fn_30"></span>[30.](#fr_30.md)  A *Hindoo Scripture* whose name
 signifies knowledge.--Max Muller.
 
-<span id="fn_31"></span>[31.](#fr_31)  *Isis Unveiled*, I, 354.
+<span id="fn_31"></span>[31.](#fr_31.md)  *Isis Unveiled*, I, 354.
 
 <span id="fn_page_239">p. 239</span>  
 
-<span id="fn_32"></span>[32.](#fr_32)  of which the tricks of Halloween
+<span id="fn_32"></span>[32.](#fr_32.md)  of which the tricks of Halloween
 may be a memento.
 
-<span id="fn_33"></span>[33.](#fr_33)  *Anacalypsis*, Vol. I, p. 35.
+<span id="fn_33"></span>[33.](#fr_33.md)  *Anacalypsis*, Vol. I, p. 35.
 
-<span id="fn_34"></span>[34.](#fr_34)  Bacchus was not originally the
+<span id="fn_34"></span>[34.](#fr_34.md)  Bacchus was not originally the
 god of wine, but signified books. Instruction of old, when learning was
 a secret science, was given by means of leaves. "Bacchus Sabiesa" really
 signified "book wise" or learned, and the midsummer-day festival was
@@ -2504,12 +2504,12 @@ an account of which may be seen in *Dulare's History of Paris*. Sunday
 was the day of instruction of the Druids, whence it was called
 Sabs.--*Ibid* I, 716.
 
-<span id="fn_35"></span>[35.](#fr_35)  From the preachment of the Sabs,
+<span id="fn_35"></span>[35.](#fr_35.md)  From the preachment of the Sabs,
 or Sages, or wise Segent Sarcedos.--*Ibid* I, 716.
 
 <span id="fn_page_240">p. 240</span>  
 
-<span id="fn_36"></span>[36.](#fr_36)  The only physician of the people
+<span id="fn_36"></span>[36.](#fr_36.md)  The only physician of the people
 for a thousand years was the witch. The emperors, kings, popes and
 richer barons had indeed the doctors of Salermo, then Moors and Jews,
 but the bulk of the people in every state; the world, it might as well
@@ -2518,14 +2518,14 @@ Sorciere*.
 
 <span id="fn_page_241">p. 241</span>  
 
-<span id="fn_37"></span>[37.](#fr_37)  I make no doubt that his
+<span id="fn_37"></span>[37.](#fr_37.md)  I make no doubt that his
 (Paracelsus) admirable and masterly work on the Diseases of Women, the
 first written on this theme, so large, so deep, so tender, came forth
 from his special experience of those women to whom others went for aid,
 the witches, who acted as midwives, for never in those days was a male
 physician admitted to the women.--*Ibid*.
 
-<span id="fn_38"></span>[38.](#fr_38)  Within the past fifty years the
+<span id="fn_38"></span>[38.](#fr_38.md)  Within the past fifty years the
 death rate in childbirth was forty in a thousand, an enormous mortality,
 and although the advances in medical knowledge have somewhat lessened
 the rate, more women still lose their lives during childbirth than
@@ -2533,20 +2533,20 @@ soldiers in battle.
 
 <span id="fn_page_242">p. 242</span>  
 
-<span id="fn_39"></span>[39.](#fr_39)  In childbirth a motherly hand
+<span id="fn_39"></span>[39.](#fr_39.md)  In childbirth a motherly hand
 instilled the gentle poison, casting the mother herself into a sleep,
 and soothing the infant's passage, after the manner of modern
 chloroform, into the world.--*Michelet*.
 
 <span id="fn_page_244">p. 244</span>  
 
-<span id="fn_40"></span>[40.](#fr_40)  *Pouruchet Solenasaes*.
+<span id="fn_40"></span>[40.](#fr_40.md)  *Pouruchet Solenasaes*.
 
 <span id="fn_page_245">p. 245</span>  
 
-<span id="fn_41"></span>[41.](#fr_41)  Alexander.--*History of Women*.
+<span id="fn_41"></span>[41.](#fr_41.md)  Alexander.--*History of Women*.
 
-<span id="fn_42"></span>[42.](#fr_42)  You will hardly believe it, but I
+<span id="fn_42"></span>[42.](#fr_42.md)  You will hardly believe it, but I
 saw a real witch's skull, the other evening, at a supper party I had the
 pleasure of attending it was at the house of Dr. Dow, a medical
 gentleman of culture and great skill in his profession here. You will
@@ -2585,7 +2585,7 @@ ceremonies. Pike.--*History of Crime in England*, Vol. pp. 7-8.
 
 <span id="fn_page_246">p. 246</span>  
 
-<span id="fn_43"></span>[43.](#fr_43)  The mysteries of the human
+<span id="fn_43"></span>[43.](#fr_43.md)  The mysteries of the human
 conscience and of human motives are well nigh inscrutable, and it may be
 shocking to assert that these customs of unmitigated wrong are
 indirectly traceable to that religion of which the two great
@@ -2594,24 +2594,24 @@ Lea.--*Superstition and Force*, 53.
 
 <span id="fn_page_249">p. 249</span>  
 
-<span id="fn_44"></span>[44.](#fr_44)  Fox's *Book of Martyrs*, gives
+<span id="fn_44"></span>[44.](#fr_44.md)  Fox's *Book of Martyrs*, gives
 account of persons brought into court upon <span id="fn_page_250">p.
 250</span> litters six months after having been subjected to the rack.
 
 <span id="fn_page_250">p. 250</span>  
 
-<span id="fn_45"></span>[45.](#fr_45)  In this case both men and women
+<span id="fn_45"></span>[45.](#fr_45.md)  In this case both men and women
 says Johannus Megerus, author of a History of Flanders.
 
-<span id="fn_46"></span>[46.](#fr_46)  Adrianus Ferrens.
+<span id="fn_46"></span>[46.](#fr_46.md)  Adrianus Ferrens.
 
 <span id="fn_page_251">p. 251</span>  
 
-<span id="fn_47"></span>[47.](#fr_47)  St. Bernard exorcised a demon
+<span id="fn_47"></span>[47.](#fr_47.md)  St. Bernard exorcised a demon
 Incubus, who for six years maintained commerce with a woman, who could
 not get rid of him. Lea.--*Studies in Church History*.
 
-<span id="fn_48"></span>[48.](#fr_48)  It was observed they (devils) had
+<span id="fn_48"></span>[48.](#fr_48)  It was observed they (devils.md) had
 a peculiar attachment to women with beautiful hair, and it was an old
 Catholic belief that St. Paul alluded to this in that somewhat obscure
 passage in which he exhorts women to cover their heads because of the
@@ -2619,7 +2619,7 @@ angels.--*Sprangler*.
 
 <span id="fn_page_252">p. 252</span>  
 
-<span id="fn_49"></span>[49.](#fr_49)  The attention of scientific men
+<span id="fn_49"></span>[49.](#fr_49.md)  The attention of scientific men
 and governments has recently been directed to what are now called "*The
 Accursed Sciences*," under whose action certain crimes have been
 committed from "suggestion," the hand which executed being only that of
@@ -2643,14 +2643,14 @@ possible.
 
 <span id="fn_page_253">p. 253</span>  
 
-<span id="fn_50"></span>[50.](#fr_50)  In 1609 six hundred sorcerers
+<span id="fn_50"></span>[50.](#fr_50.md)  In 1609 six hundred sorcerers
 were convicted in the Province of Bordeaux, France, most of whom were
 burned.--*Dr. Priestly*. Within the last year fourteen women have been
 tried in France for sorcery.
 
 <span id="fn_page_254">p. 254</span>  
 
-<span id="fn_51"></span>[51.](#fr_51)  The supreme end of magic is to
+<span id="fn_51"></span>[51.](#fr_51.md)  The supreme end of magic is to
 conjure the spirits. The highest and most inscrutable of all the powers
 dwells in the divine and mysterious name, "The Supreme Name," with which
 Hea alone is acquainted. Before this name everything bows in heaven and
@@ -2661,7 +2661,7 @@ gods.--*Chaldean Magic and Sorcery*.
 
 <span id="fn_page_255">p. 255</span>  
 
-<span id="fn_52"></span>[52.](#fr_52)  Venitians concluded not
+<span id="fn_52"></span>[52.](#fr_52.md)  Venitians concluded not
 unreasonably that the latter ran no more risk from the taint of
 witchcraft attached to their inheritance than did the clergy or the
 church. Where profits were all spiritual their ardor soon cooled. Thus
@@ -2674,28 +2674,28 @@ to outnumber those of the Black Death.--*The Witches of Venice*.
 
 <span id="fn_page_256">p. 256</span>  
 
-<span id="fn_53"></span>[53.](#fr_53)  One of the most powerful features
+<span id="fn_53"></span>[53.](#fr_53.md)  One of the most powerful features
 of the belief in witchcraft was the power that greed had in producing
 belief and causing persecution. The church had grown rich from such
 trials, and the state was now to take its turn. By the public offering
 of a reward for the finding of witches, their numbers greatly increased.
 
-<span id="fn_54"></span>[54.](#fr_54)  The most exceptional conduct, the
+<span id="fn_54"></span>[54.](#fr_54.md)  The most exceptional conduct, the
 purest morals in constant practice of every day life, are not sufficient
 security against the suspicion of errors like these.--*Montesquieu*.
 
 <span id="fn_page_257">p. 257</span>  
 
-<span id="fn_55"></span>[55.](#fr_55)  For a number of years her
+<span id="fn_55"></span>[55.](#fr_55.md)  For a number of years her
 celebrated son struggled amid his scientific studies for the
 **preservation** of her life.
 
 <span id="fn_page_258">p. 258</span>  
 
-<span id="fn_56"></span>[56.](#fr_56)  Michelet.--*Le Sorcerie* 151. See
+<span id="fn_56"></span>[56.](#fr_56.md)  Michelet.--*Le Sorcerie* 151. See
 *Papers on the Bastile*.
 
-<span id="fn_57"></span>[57.](#fr_57)  In its earliest phase the Black
+<span id="fn_57"></span>[57.](#fr_57.md)  In its earliest phase the Black
 Mass seemed to betoken the redemption of Eve, so long accused by
 Christianity. The woman filled every place in the Sabbath. Following its
 celebration was the denial of Jesus, by whose authority the priests and
@@ -2706,19 +2706,19 @@ Sorcerie.--Ibid.*
 
 <span id="fn_page_259">p. 259</span>  
 
-<span id="fn_58"></span>[58.](#fr_58)  "This word at different times
+<span id="fn_58"></span>[58.](#fr_58.md)  "This word at different times
 clearly meant quite different things. In the 14th century, under the
 Avignon popes, during the great schism when the church with two heads
 seems no longer a church, the Sabbath took the horrible form of the
 Black Mass."
 
-<span id="fn_59"></span>[59.](#fr_59)  This important part of the woman
+<span id="fn_59"></span>[59.](#fr_59.md)  This important part of the woman
 being her own altar, is known to us by the trial of La Voisin, which M.
 Revanna *Sen*. published with other *Papers of the Bastile.--Ibid*.
 
 <span id="fn_page_261">p. 261</span>  
 
-<span id="fn_60"></span>[60.](#fr_60)  That women have been more
+<span id="fn_60"></span>[60.](#fr_60.md)  That women have been more
 addicted to this devilish art than man, is manifest by the approbation
 of many grave authority. Diodorus, in his fifth book, speaks of Hecate.
 Heywood.--*History of Women*, London, 1624. St. Augustine, in his City
@@ -2728,7 +2728,7 @@ cites an old proverb, declaring witchcraft peculiar to woman and not to
 man. Quintillian, referring to this statement, says: Theft is more
 common with man, but witchcraft with woman.
 
-<span id="fn_61"></span>[61.](#fr_61)  Idiots, the lame, the blind and
+<span id="fn_61"></span>[61.](#fr_61.md)  Idiots, the lame, the blind and
 the dumb, are men in whom devils have established themselves, and all
 the physicians who heal these infirmities as though they preceded from
 natural causes are ignorant blockheads, who know nothing about the power
@@ -2736,19 +2736,19 @@ of the demons.--*Tishreden*, p. 202.
 
 <span id="fn_page_262">p. 262</span>  
 
-<span id="fn_62"></span>[62.](#fr_62)  See *Reeves*, and *Hume*.
+<span id="fn_62"></span>[62.](#fr_62.md)  See *Reeves*, and *Hume*.
 
 <span id="fn_page_263">p. 263</span>  
 
-<span id="fn_63"></span>[63.](#fr_63)  *The Statute of Labourers* (5
+<span id="fn_63"></span>[63.](#fr_63.md)  *The Statute of Labourers* (5
 Eliz. C. 4) enacted that unmarried women between twelve and forty years
 old may be appointed by two justices to serve by the year, week, or day,
 for such wages and in such reasonable sort and manner as they shall
 think meet.--*Reeves* 3, 591-8.
 
-<span id="fn_64"></span>[64.](#fr_64)  Seen by *Dr. Gray*.
+<span id="fn_64"></span>[64.](#fr_64.md)  Seen by *Dr. Gray*.
 
-<span id="fn_65"></span>[65.](#fr_65)  James believing in their
+<span id="fn_65"></span>[65.](#fr_65.md)  James believing in their
 (witches) influence, and Bacon partly sharing in <span
 id="fn_page_264">p. 264</span> the belief. Macbeth appeared in this year
 mixed up with Bacon's inquiries into witchcraft. Ignatius
@@ -2759,16 +2759,16 @@ accusation was equal to condemnation.
 
 <span id="fn_page_266">p. 266</span>  
 
-<span id="fn_66"></span>[66.](#fr_66)  *Laws and Customs of Scotland*,
+<span id="fn_66"></span>[66.](#fr_66.md)  *Laws and Customs of Scotland*,
 2; 56
 
 <span id="fn_page_267">p. 267</span>  
 
-<span id="fn_67"></span>[67.](#fr_67)  *The Seeress of Prevorst*.
+<span id="fn_67"></span>[67.](#fr_67.md)  *The Seeress of Prevorst*.
 
 <span id="fn_page_269">p. 269</span>  
 
-<span id="fn_68"></span>[68.](#fr_68)  Iron collars, or Witches'
+<span id="fn_68"></span>[68.](#fr_68.md)  Iron collars, or Witches'
 Bridles, are still preserved in various parts of Scotland, which had
 been used for such iniquitous purposes. These instruments were so
 constructed that by means of a loop which passed over the head, a piece
@@ -2800,7 +2800,7 @@ Salem."
 
 <span id="fn_page_270">p. 270</span>  
 
-<span id="fn_69"></span>[69.](#fr_69)  By statute 33 of Henry VIII., C.
+<span id="fn_69"></span>[69.](#fr_69.md)  By statute 33 of Henry VIII., C.
 8, all witchcraft and sorcery was to be felony without benefit of
 clergy. This act continued in force till lately to the terror of all
 ancient females in the kingdom.--*Commentaries*. As bad as the Georges
@@ -2810,7 +2810,7 @@ person for conjuration, witchcraft, sorcery or enchantment.
 
 <span id="fn_page_272">p. 272</span>  
 
-<span id="fn_70"></span>[70.](#fr_70)  Towards the end Of 1593 there was
+<span id="fn_70"></span>[70.](#fr_70.md)  Towards the end Of 1593 there was
 trouble in the family of the Earl of Orkney. His brother laid a plot to
 murder him, and was said to have sought the help of a notorious witch
 called "Allison Balfour." No evidence could be found connecting her with
@@ -2844,12 +2844,12 @@ report of the proceedings. Froude.--*Short Stories on Great Subjects*.
 
 <span id="fn_page_273">p. 273</span>  
 
-<span id="fn_71"></span>[71.](#fr_71)  The same dark superstition shared
+<span id="fn_71"></span>[71.](#fr_71.md)  The same dark superstition shared
 the civil councils of Scotland as late as the beginning of the 18th
 century, and the convictions which then took place are chiefly to be
 ascribed to the ignorance and fanaticism of the clergy.
 
-<span id="fn_72"></span>[72.](#fr_72)  Excommunication was both of
+<span id="fn_72"></span>[72.](#fr_72.md)  Excommunication was both of
 temporal and spiritual effect, the person under ban not only being
 deprived of absolution, extreme unction, consecrated burial, etc, but
 all persons were forbidden to deal with the recalcitrant. Under the
@@ -2862,14 +2862,14 @@ is scarcely more than 150 years since the last witch was burned in
 Scotland, having been accused of raising a thunder storm by pulling off
 her stockings.--*Witchcraft Under Protestantism*.
 
-<span id="fn_73"></span>[73.](#fr_73)  Many witches lost their lives in
+<span id="fn_73"></span>[73.](#fr_73.md)  Many witches lost their lives in
 every part of England, without being brought to trial at all, from
 injuries received at the hands of the populace. Mackay.--*Memoirs of
 Extraordinary Popular Delusions*.
 
 <span id="fn_page_274">p. 274</span>  
 
-<span id="fn_74"></span>[74.](#fr_74)  One of the most powerful
+<span id="fn_74"></span>[74.](#fr_74.md)  One of the most powerful
 incentives to confession was to systematically deprive the suspected
 witch of her natural sleep. It was said who but witches can be present
 and so witness of the doings of witches, since all their meetings and
@@ -2879,14 +2879,14 @@ devil and she knows best."
 
 <span id="fn_page_280">p. 280</span>  
 
-<span id="fn_75"></span>[75.](#fr_75)  Among the Lancashire witches was
+<span id="fn_75"></span>[75.](#fr_75.md)  Among the Lancashire witches was
 Old Demedike, four score years old, who had been a witch fifty years,
 and confessed to possessing a demon which appeared to her in the form of
 a brown dog.--Sommer's Trials.
 
-<span id="fn_76"></span>[76.](#fr_76)  *Ibid*.
+<span id="fn_76"></span>[76.](#fr_76.md)  *Ibid*.
 
-<span id="fn_77"></span>[77.](#fr_77)  Which examination, although she
+<span id="fn_77"></span>[77.](#fr_77.md)  Which examination, although she
 was but very young, yet it was wonderful to the Court in so great a
 presence and audience.--*Ibid*. Ties of the tenderest nature did not
 restrain the inquisitors. Young girls were regarded as the best
@@ -2896,17 +2896,17 @@ parent.--Superstition and Force, p. 93.
 
 <span id="fn_page_282">p. 282</span>  
 
-<span id="fn_78"></span>[78.](#fr_78)  When a reward was publicly
+<span id="fn_78"></span>[78.](#fr_78.md)  When a reward was publicly
 offered there seemed to be no end of finding witches, and many kept with
 great care their note book of "Examination of Witches," and were
 discovering "hellish kinds of them."
 
 <span id="fn_page_284">p. 284</span>  
 
-<span id="fn_79"></span>[79.](#fr_79)  *Salem Witchcraft* I, 393-4; 2,
+<span id="fn_79"></span>[79.](#fr_79.md)  *Salem Witchcraft* I, 393-4; 2,
 373.
 
-<span id="fn_80"></span>[80.](#fr_80)  I seemed to have stepped back to
+<span id="fn_80"></span>[80.](#fr_80.md)  I seemed to have stepped back to
 Puritan time, when an old gentleman said to me. "I am descended from
 that line of witches; my grandmother and 120 others were under
 condemnation of death at New Bedford, when an order came from the king
@@ -2914,7 +2914,7 @@ prohibiting farther executions."
 
 <span id="fn_page_285">p. 285</span>  
 
-<span id="fn_81"></span>[81.](#fr_81)  SALEM, Mass., July 30, 1892.--The
+<span id="fn_81"></span>[81.](#fr_81.md)  SALEM, Mass., July 30, 1892.--The
 200th anniversary of the hanging of Rebecca Nurse of Salem village for
 witchcraft, was commemorated in Danvers Centre, old Salem village, by
 the Nurse Monument Association. The distinct feature of the occasion was
@@ -2924,23 +2924,23 @@ favor of Rebecca Nurse in 1692.
 
 <span id="fn_page_290">p. 290</span>  
 
-<span id="fn_82"></span>[82.](#fr_82)  Howes.--*Historical Collection of
+<span id="fn_82"></span>[82.](#fr_82.md)  Howes.--*Historical Collection of
 Virginia*, p. 438.
 
 <span id="fn_page_291">p. 291</span>  
 
-<span id="fn_83"></span>[83.](#fr_83)  *Collection Massachusetts
+<span id="fn_83"></span>[83.](#fr_83.md)  *Collection Massachusetts
 Historical Society* for the year 1800. p. 241.
 
 <span id="fn_page_292">p. 292</span>  
 
-<span id="fn_84"></span>[84.](#fr_84)  No prosecution, suit or
+<span id="fn_84"></span>[84.](#fr_84.md)  No prosecution, suit or
 proceedings shall be commenced or carried on in any court of this state
 against any person for conjuration or witchcraft, sorcery or enchantment
 or for charging another with such offense.
 
 <span id="fn_page_293">p. 293</span>  
 
-<span id="fn_85"></span>[85.](#fr_85)  Under the church theory that all
+<span id="fn_85"></span>[85.](#fr_85.md)  Under the church theory that all
 members of the witch's family are tainted, the husband of this
 unfortunate woman hid himself, fearing the same fate.--*Telegram*.

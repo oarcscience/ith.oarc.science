@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep10)  [Next](nep12) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep10)  [Next](nep12.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,4 +10,4 @@ that curseth father or mother, let him die the death."
 
 ------------------------------------------------------------------------
 
-[Next: Uncertainty of Life](nep12)
+[Next: Uncertainty of Life](nep12.md)

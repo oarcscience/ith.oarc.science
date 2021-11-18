@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc27)  [Next](scc29) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc27)  [Next](scc29.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ and so he obtained it for the people.
 
 ------------------------------------------------------------------------
 
-[Next: 27.--Yaudanchi Yokuts. The Eagle And The Condor.](scc29)
+[Next: 27.--Yaudanchi Yokuts. The Eagle And The Condor.](scc29.md)

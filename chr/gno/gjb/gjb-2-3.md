@@ -1,4 +1,4 @@
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-2-2) [Next](gjb-3)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-2-2) [Next](gjb-3.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ expression.
 
 > THE FISHER OF SOULS SAGA (§§ 36-39)<span
 > id="page_71_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_71_note_1).
+> class="small">1</span></sup>](#page_71_note_1.md).
 >
 > In the Name of Great Life may hallowed Light be glorified.
 >
@@ -35,7 +35,7 @@ expression.
 > night.
 >
 >    I see the fish<span id="page_71_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_71_note_2) in (? on) the dike. I
+> class="small">2</span></sup>](#page_71_note_2) in (? on.md) the dike. I
 > pressed forward on the way with a . . . that was not of iron. I
 > covered (?) the . . . which was for us an obstruction. Aside did I
 > push the swimmers <span id="page_72">p. 72</span> who hinder Life's
@@ -57,19 +57,19 @@ expression.
 >    Close by me, close near my boat, I hear the uproar (?) of the
 > fishers, the fishers who eat fish,<span
 > id="page_72_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_72_note_1) and their stench rushes
+> class="small">1</span></sup>](#page_72_note_1.md) and their stench rushes
 > on me,—the uproar of the fishers and the uproar of their mongers who
 > revile and curse one another. Everyone accuses the other. The buyer
 > says to the fisher: "\[Take back?\] thy fish! They are stinking
 > already, and no one wants to buy them off of me. Thou makest the catch
 > far out at sea,<span id="page_72_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_72_note_2) so that loss falls on
+> class="small">2</span></sup>](#page_72_note_2.md) so that loss falls on
 > the buyer."
 >
 >    Thereon speaks the fisher and makes the man, his customer, hear: "A
 > curse on thee, a curse on thy buyers, a curse on thy bell,<span
 > id="page_72_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_72_note_3) a curse on thy boat for
+> class="small">3</span></sup>](#page_72_note_3.md) a curse on thy boat for
 > not filling up. Thou hast brought no salt and sprinkled it over thy
 > fish which thou boughtest, so that the fish of thy boat will not be
 > stinking and thou then canst sell for hard cash. Next, hast thou no
@@ -88,11 +88,11 @@ expression.
 > highest of all catchers of fish, heard this, he said to him (? Anōsh):
 > "Bring me my . . . , hand me the *squbrā*,<span
 > id="page_73_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_73_note_1) that I may make a call
+> class="small">1</span></sup>](#page_73_note_1.md) that I may make a call
 > sound forth into the marsh, that I may warn the fish of the depths and
 > scare away the foul-smelling birds that pursue after my fish. I will
 > catch the great *sidmā*,<span id="page_73_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_73_note_2) and tear off his wings
+> class="small">2</span></sup>](#page_73_note_2.md) and tear off his wings
 > on the spot. I will take from him \* \* \* and will blow into my
 > *squbrā*. A true *squbrā* is it, so that the water may not mix with
 > pitch."
@@ -120,7 +120,7 @@ expression.
 > order that they may not catch the good fish,—that they may not steal
 > them from me, stick them on a cane, hang them up,<span
 > id="page_73_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_73_note_3) I cut them in pieces
+> class="small">3</span></sup>](#page_73_note_3.md) I cut them in pieces
 > and throw them into baskets (?) with laurel and aloe. They (the
 > fishers) are laid low and cannot rise up. The nets ... ..., and they
 > no longer stab the fisher-trident into the Jordan. They do not cut off
@@ -134,7 +134,7 @@ expression.
 > Deception, and they were caught and were tied up. Water from the Ulai
 > they drink not and know not the way to the Kshash river.<span
 > id="page_74_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_74_note_1) I bound them fast in
+> class="small">1</span></sup>](#page_74_note_1.md) I bound them fast in
 > their ships, and threw out my ropes to the good ones. To them I speak:
 > "Draw your boat up here, so that it runs not into the dike."
 >
@@ -217,7 +217,7 @@ expression.
 >    THE Fisher clad him with vestures of glory, and an axe hung from
 > his shoulder ... ... and commotion of mischief, and a bell is not on
 > the handle.<span id="page_76_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_76_note_1) When the fishers caught
+> class="small">1</span></sup>](#page_76_note_1.md) When the fishers caught
 > sight of the Fisher, they came and gathered around him. "Thou art,"
 > say they unto him, "a ... Fisher, thou who hast caught no fish of the
 > marsh. Thou hast not seen the ... ... in which the fish gather ... ...
@@ -247,7 +247,7 @@ expression.
 > that collapse, they (the nets) come and fall on the good. They do not
 > let the fish rise, nor turn their face to the boulders.<span
 > id="page_77_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_77_note_1) They make them sink
+> class="small">1</span></sup>](#page_77_note_1.md) They make them sink
 > deep under the mud and shut them into ... ... ... ... . They collect
 > them into heaps and shake them (?) out of the ... ... . There is there
 > a ... ..., into which the fish dash and are stopped. On the ... of the
@@ -262,14 +262,14 @@ expression.
 > There, is the water mingled with fennel ... ... ... ... the pegs (?)
 > of death. Woe to the fish who fall into them."<span
 > id="page_77_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_77_note_2)
+> class="small">2</span></sup>](#page_77_note_2.md)
 >
 >    When the Fisher heard this, he stamped on the bows of the ship. The
 > Fisher stamped on the ships of the fishers; the fishers lie in the
 > shallows close crowded together, tied up together like bundles of
 > wheat, and cannot rise up. The reeds swish ...,<span
 > id="page_77_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_77_note_3) and the fish of the sea
+> class="small">3</span></sup>](#page_77_note_3.md) and the fish of the sea
 > lie over the fishers. They snarl in the marsh and the water rings them
 > round in its circle (?).
 >
@@ -282,7 +282,7 @@ expression.
 > hook with bad dates, a mess which \[my?\] fish do not eat. They fall
 > not into the nets that are coloured<span
 > id="page_78_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_78_note_1) and turn not to the
+> class="small">1</span></sup>](#page_78_note_1.md) and turn not to the
 > lamps of the Lie. They sink not down through the mud of the water, and
 > go not after the ... of Deception. They (? the nets) divide not the
 > water \* \* \* \* \* \*, that shall fall on the good. If the fishers
@@ -292,10 +292,10 @@ expression.
 > which the dove loves the ravens. Accursèd be ye, ye foul-smelling
 > birds, and accursèd your nest, so that it may not be filled. Woe to
 > your father Sirmā,<span id="page_78_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_78_note_2) whose bed is in the
+> class="small">2</span></sup>](#page_78_note_2.md) whose bed is in the
 > reeds. Woe to thee, hungry Safnā, whose wings do not dry in this
 > world.<span id="page_78_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_78_note_3) Woe to thee,
+> class="small">3</span></sup>](#page_78_note_3.md) Woe to thee,
 > foul-smelling Sagiā, thou who seest the fish and sighest \[for them\].
 > He shrieks and cries bitterly, when he strikes for the fish and misses
 > them. Woe to thee, Arbānā ..., thou who haulest the fish out of the
@@ -313,7 +313,7 @@ expression.
 > hole in her head. I lead on my friends, raise them on high in my ship
 > and guide them past all the tax-gatherers.<span
 > id="page_78_fr_4"></span>[<sup><span
-> class="small">4</span></sup>](#page_78_note_4) I guide them through
+> class="small">4</span></sup>](#page_78_note_4.md) I guide them through
 > the passage of outrage, <span id="page_79">p. 79</span> the region
 > where the fishes are taken. I make them escape the filth-eaters. But
 > ye will come to an end in your dwellings. I and my friends of the
@@ -338,9 +338,9 @@ expression.
 > the surface of the water stand upright; then will your force be double
 > as great. Guard yourselves from the fishers who catch the fish and
 > beat on the Jordan.<span id="page_79_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_79_note_1) Shilmai and Nidbai<span
+> class="small">1</span></sup>](#page_79_note_1.md) Shilmai and Nidbai<span
 > id="page_79_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_79_note_2) curse them, and they
+> class="small">2</span></sup>](#page_79_note_2.md) curse them, and they
 > depart and settle themselves down behind me a mile off. The fish curse
 > their casting-net in their place."
 >
@@ -366,7 +366,7 @@ expression.
 > a rudder that gleams in the water-shallows. On thy cast-net is no
 > cord, and they have not laid ... ...<span
 > id="page_80_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_80_note_1) round it. There are no
+> class="small">1</span></sup>](#page_80_note_1.md) round it. There are no
 > ... in it, which are a cunning device against the fish of the ... ...
 > ... . Thou keepest thy yarn and hast no clapper and no hatchet. Thy
 > yarn ( = net) fishes not in the water and is not coloured for catching
@@ -379,7 +379,7 @@ expression.
 > to him: There is a Fisher in the boat, in which are four ... . \[There
 > is\] a rudder, and it stands there, and a mast ... ... ... ...<span
 > id="page_80_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_80_note_2) and redemptions. They
+> class="small">2</span></sup>](#page_80_note_2.md) and redemptions. They
 > lay waste the land of Jerusalem."
 >
 >    When they heard this from the Fisher who has come hither, and
@@ -414,23 +414,23 @@ The 'discourse' runs as follows:
 > whirl of the water, may not be afraid of the water, and if they are
 > thirsty may not drink of the water.<span
 > id="page_81_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_81_note_1) I bear them away \[from
+> class="small">1</span></sup>](#page_81_note_1.md) I bear them away \[from
 > the sea\], and water them with the cup of my hand, until they have
 > drunken their fill. I bring them unto the good fold; and they feed by
 > my side. From the mouth of Euphrates, from the mouth of Euphrates the
 > Radiant,<span id="page_81_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_81_note_2) things of marvellous
+> class="small">2</span></sup>](#page_81_note_2.md) things of marvellous
 > goodness I brought them. I brought them myrtle, white sesame brought
 > them and brought them bright standards.<span
 > id="page_81_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_81_note_3) I cleansed them and
+> class="small">3</span></sup>](#page_81_note_3.md) I cleansed them and
 > washed them and made them to smell the sweet odour of Life. I put
 > round them a girdle, at sight of which the wolves tremble. No wolf
 > leaps into our fold; and of no fierce lion need they be alarmed. Of
 > the tempest they need not be frightened; and no thief can break in
 > upon us. A thief breaks not into their fold; and of a knife<span
 > id="page_81_fr_4"></span>[<sup><span
-> class="small">4</span></sup>](#page_81_note_4) they need not be
+> class="small">4</span></sup>](#page_81_note_4.md) they need not be
 > anxious. When my sheep were quietly laid down and my head lay there on
 > the threshold, a rift was rent in the height and thunder did thunder
 > behind me. The clouds seized hold one of another, <span
@@ -438,16 +438,16 @@ The 'discourse' runs as follows:
 > poured down in sheets and hail that smites elephants low, hail that
 > shatters the mountains. And the tempests unchain themselves in an
 > hour.<span id="page_82_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_82_note_1) Seas burst forth; they
+> class="small">1</span></sup>](#page_82_note_1.md) Seas burst forth; they
 > flooded the whole of the world. There, under the water, no one
 > escaped, once he sank from the height as into a gulf. The water swept
 > off everyone who had no wings or no feet.<span
 > id="page_82_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_82_note_2) He speeds on, and knows
+> class="small">2</span></sup>](#page_82_note_2.md) He speeds on, and knows
 > not he speeds; he goes, and knows not he goes. Thereupon I sprang up
 > and I entered the fold to bear my sheep forth from their place. I saw
 > my eyes full.<span id="page_82_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_82_note_3) I saw the sea, I saw
+> class="small">3</span></sup>](#page_82_note_3.md) I saw the sea, I saw
 > the fierce-raging tempest, I saw the storm-clouds that send forth no
 > \[friendly\] greeting the one to the other. Ten-thousand times
 > ten-thousand dragons are in each single cloud. I weep for my sheep,
@@ -456,13 +456,13 @@ The 'discourse' runs as follows:
 >
 >    When then \* \* \* \* \* \*, I entered the house,<span
 > id="page_82_fr_4"></span>[<sup><span
-> class="small">4</span></sup>](#page_82_note_4) I mounted up to the
+> class="small">4</span></sup>](#page_82_note_4.md) I mounted up to the
 > highest place \[in it\], and I call to my sheep. To the sheep in my
 > care do I call. I pipe to them; I get them to hear, so that they come
 > unto me. To them I pipe on my pipe, and beat on my tabour (?),
 > \[leading them\] to the water.<span
 > id="page_82_fr_5"></span>[<sup><span
-> class="small">5</span></sup>](#page_82_note_5) I call to them: "My
+> class="small">5</span></sup>](#page_82_note_5.md) I call to them: "My
 > little sheep, little sheep, come! Rise up at my call! Come, rise at my
 > call; then will you 'scape the cloud-dragons. Come, come unto me! I am
 > a shepherd whose boat is soon coming. My boat of glory is coming; and
@@ -474,7 +474,7 @@ The 'discourse' runs as follows:
 > did swallow. Whoever gave no ear to my call, sank under. To the
 > highest part of the vessel I went. The bows stand up with the
 > bow-post.<span id="page_82_fr_6"></span>[<sup><span
-> class="small">6</span></sup>](#page_82_note_6) I say: How woeful am I
+> class="small">6</span></sup>](#page_82_note_6.md) I say: How woeful am I
 > for my sheep who <span id="page_83">p. 83</span> because of the mud
 > have sunk under. The water-whirl sank them away from my reach, the
 > swirling whirl of the water. How grieved am I for the rams whose
@@ -487,14 +487,14 @@ The 'discourse' runs as follows:
 > sheep-stealers. Happy is he who has not couched down, has not lain
 > down, has not loved to sleep deeply. Happy is he who in this defective
 > age of Bishlom<span id="page_83_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_83_note_1) has stayed whole. Happy
+> class="small">1</span></sup>](#page_83_note_1.md) has stayed whole. Happy
 > are they who free themselves from the snares of Rūhā (the Mother
 > World-Spirit), from the filth and the shame and the bondage that have
 > no end. My chosen! whoever shall live at the end of this age of Nirig
 > (Mars), for him let his own conscience be a support. He will come and
 > mount up to the Radiant Dwelling, to the region whose sun never sets,
 > and whose light-lamps<span id="page_83_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_83_note_2) never darken.
+> class="small">2</span></sup>](#page_83_note_2.md) never darken.
 >
 > Life is exalted and is victorious, and victorious is the Man who has
 > come hither.
@@ -553,20 +553,20 @@ The 'discourse' runs as follows:
 > that he bows himself down to the seas. If one stays behind in the pen,
 > let him go his way and fall a prey to the pen-demon.<span
 > id="page_84_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_84_note_1) Let him go <span
+> class="small">1</span></sup>](#page_84_note_1.md) Let him go <span
 > id="page_85">p. 85</span> his way and fall prey to the pen-demon, in
 > that he bows himself down to the idols. ... ...<span
 > id="page_85_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_85_note_1) Come, be for me a
+> class="small">1</span></sup>](#page_85_note_1.md) Come, be for me a
 > loving shepherd and watch me a thousand out of ten thousand."<span
 > id="page_85_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_85_note_2)—
+> class="small">2</span></sup>](#page_85_note_2.md)—
 >
 >    "So will I then be for thee a loving shepherd and watch thee a
 > thousand out of ten thousand. I will watch a thousand of thousands,
 > yea of ten thousand those who adore him."<span
 > id="page_85_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_85_note_3)
+> class="small">3</span></sup>](#page_85_note_3.md)
 >
 >    "But some of them wander from me. I went up into high mountains and
 > went down into deep valleys. I went and found him where he can crop
@@ -625,7 +625,7 @@ indubitably less over-worked.
 > the treasures and to the shekīnahs \[e'en\] in the Æther, the King
 > laid me as vesture round N<sup>e</sup>ṣab the Radiant.<span
 > id="page_86_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_86_note_1) N<sup>e</sup>ṣab the
+> class="small">1</span></sup>](#page_86_note_1.md) N<sup>e</sup>ṣab the
 > Radiant then took me, brought me and laid me as vesture o'er Jordan.
 > As vesture o'er Jordan he laid me, through whom the treasures shine
 > beyond measure.
@@ -670,7 +670,7 @@ indubitably less over-worked.
 > load for him full. If he bears a pure load, he is counted with the Men
 > of piety put to the test who separate themselves \[from the world\] in
 > the Name of Yawar.<span id="page_87_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_87_note_1) Life's <span
+> class="small">1</span></sup>](#page_87_note_1.md) Life's <span
 > id="page_88">p. 88</span> Treasury rested upon them, to their form it
 > gave light, and for them a way to Great \[Life's\] House has been
 > established.
@@ -756,12 +756,12 @@ the Darkness but also the Light.
 >
 >    "When the soul still sat in the Bowl,<span
 > id="page_90_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_90_note_1) she felt neither hunger
+> class="small">1</span></sup>](#page_90_note_1.md) she felt neither hunger
 > nor thirst. When the soul still sat in the Bowl, she had no pains and
 > no faults. When the soul still sat in the Bowl, she felt no cold and
 > no heat. When she still sat in the Bowl, the locks on her
 > forehead<span id="page_90_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_90_note_2) were incurled, and an
+> class="small">2</span></sup>](#page_90_note_2.md) were incurled, and an
 > æther-crown sat on her head. Her eyes were light-rays (?), and they
 > gazed on the region of the House of Great \[Life\]. Her mouth was of
 > pure\[st\] perfection, and sang the praise of the King of Light's
@@ -772,7 +772,7 @@ the Darkness but also the Light.
 > Light. The Envoy was sent to tread down the power of the rebels.
 >
 >    "They<span id="page_90_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_90_note_3) brought living water
+> class="small">3</span></sup>](#page_90_note_3.md) brought living water
 > and into the muddy water they poured it. They brought light-giving
 > light and into the gloomful darkness they cast it. They brought the
 > delightsome wind and into the frantic wind cast it. They brought the
@@ -782,7 +782,7 @@ the Darkness but also the Light.
 >    "Out of fire and of water was the one heaven spread out. Out of
 > fire and of water have they made dense the earth on the anvil.<span
 > id="page_90_fr_4"></span>[<sup><span
-> class="small">4</span></sup>](#page_90_note_4) Out of fire and of
+> class="small">4</span></sup>](#page_90_note_4.md) Out of fire and of
 > water fruits, grapes and trees did arise. Out of fire and of water was
 > imaged the corporeal Adam.
 >
@@ -790,7 +790,7 @@ the Darkness but also the Light.
 > id="page_91">p. 91</span> they sent him. With heavenly voice he called
 > hence into the worlds' disquiet. At the call of the Envoy Adam, who
 > lay there,<span id="page_91_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_91_note_1) awoke. Adam, who lay
+> class="small">1</span></sup>](#page_91_note_1.md) awoke. Adam, who lay
 > there, awoke and went forth to meet the Envoy: 'Come in peace, O
 > Envoy, Life's Messenger, who hast come from the House of my Father.
 > How firmly is planted withal dear, beautiful Life in his region! But
@@ -800,7 +800,7 @@ the Darkness but also the Light.
 >    "Thereon the Envoy made answer and spake to the corporeal Adam:
 > 'Thy throne has been set up in beauty, O Adam; and 't is thy form sits
 > here lamenting. All<span id="page_91_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_91_note_2) were mindful of thee
+> class="small">2</span></sup>](#page_91_note_2.md) were mindful of thee
 > for thy good and fashioned and sent me to thee. I am come and will
 > give thee instruction, O Adam, and free thee from this world. Give ear
 > and hearken and get thee instructed, and mount to Light's region
@@ -808,7 +808,7 @@ the Darkness but also the Light.
 >
 >    Adam gave ear and had faith.—Hail to him who gives ear after
 > thee<span id="page_91_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_91_note_3) and has faith! Adam
+> class="small">3</span></sup>](#page_91_note_3.md) and has faith! Adam
 > received the Truth.—Hail to him who receives the Truth after thee!
 > Adam looked up full of hope and ascended.—Hail to him who ascends
 > after thee!
@@ -857,7 +857,7 @@ ethical exhortation of which the following is an example.
 > the weak to the strong. \[He who acts otherwise\] will be fettered in
 > a distant region, in the tax-gatherers' house;<span
 > id="page_92_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_92_note_1) his eyes behold only
+> class="small">1</span></sup>](#page_92_note_1.md) his eyes behold only
 > the Darkness and his foot finds no firm ground.
 >
 >    My sons! See that you take not \[to wife\] a slave-girl who has not
@@ -1024,7 +1024,7 @@ the Oxford Collection (Bk. I., No. lvi.) and may be entitled:
 ------------------------------------------------------------------------
 
 [Next: III. The Slavonic Josephus' Account of the Baptist and
-Jesus](gjb-3)
+Jesus](gjb-3.md)
 
 ------------------------------------------------------------------------
 
@@ -1032,38 +1032,38 @@ Jesus](gjb-3)
 
 <span id="footnotes_page_71">p. 71</span>
 
-<span id="page_71_note_1"></span>[1](#page_71_fr_1) This section is the
+<span id="page_71_note_1"></span>[1](#page_71_fr_1.md) This section is the
 most difficult of all to translate owing to the abundance of technical
 fishing terms. In spite of marvellous philological industry and
 wide-flung enquiries L. has been unable to identify a number of words.
 
-<span id="page_71_note_2"></span>[2](#page_71_fr_2) *Sc*. the faithful.
+<span id="page_71_note_2"></span>[2](#page_71_fr_2.md) *Sc*. the faithful.
 
 <span id="footnotes_page_72">p. 72</span>
 
-<span id="page_72_note_1"></span>[1](#page_72_fr_1) *Sc*. the Seven.
+<span id="page_72_note_1"></span>[1](#page_72_fr_1.md) *Sc*. the Seven.
 
-<span id="page_72_note_2"></span>[2](#page_72_fr_2) Lit. 'on the high
+<span id="page_72_note_2"></span>[2](#page_72_fr_2.md) Lit. 'on the high
 seas' L. glosses this as meaning that they are not river fish; but this
 seems to me unnecessary, as my rendering suggests.
 
-<span id="page_72_note_3"></span>[3](#page_72_fr_3) Used apparently by
+<span id="page_72_note_3"></span>[3](#page_72_fr_3.md) Used apparently by
 the fish-seller for advertising his wares.
 
 <span id="footnotes_page_73">p. 73</span>
 
-<span id="page_73_note_1"></span>[1](#page_73_fr_1) Evidently a
+<span id="page_73_note_1"></span>[1](#page_73_fr_1.md) Evidently a
 wind-instrument of some kind.
 
-<span id="page_73_note_2"></span>[2](#page_73_fr_2) Presumably a
+<span id="page_73_note_2"></span>[2](#page_73_fr_2.md) Presumably a
 water-bird.
 
-<span id="page_73_note_3"></span>[3](#page_73_fr_3) *Sc*. to dry in the
+<span id="page_73_note_3"></span>[3](#page_73_fr_3.md) *Sc*. to dry in the
 sun.
 
 <span id="footnotes_page_74">p. 74</span>
 
-<span id="page_74_note_1"></span>[1](#page_74_fr_1) K. is the infernal
+<span id="page_74_note_1"></span>[1](#page_74_fr_1.md) K. is the infernal
 river which the souls have to cross after death; its waters are figured
 as dragons and its waves as scorpions (§ 51). Ulai is also a river. If
 it is in any way connected with the Eulæus from which the Kings of
@@ -1073,112 +1073,112 @@ drank.
 
 <span id="footnotes_page_76">p. 76</span>
 
-<span id="page_76_note_1"></span>[1](#page_76_fr_1) Uncertain. Père
+<span id="page_76_note_1"></span>[1](#page_76_fr_1.md) Uncertain. Père
 Anastase of Baghdad informs L. that now-a-days a bell is attached to the
 rudder-bar; but here it seems to have some connection with the axe.
 
 <span id="footnotes_page_77">p. 77</span>
 
-<span id="page_77_note_1"></span>[1](#page_77_fr_1) L. suggests so as to
+<span id="page_77_note_1"></span>[1](#page_77_fr_1.md) L. suggests so as to
 seek the spawning places or in order to hide themselves.
 
-<span id="page_77_note_2"></span>[2](#page_77_fr_2) The numerous gaps
+<span id="page_77_note_2"></span>[2](#page_77_fr_2.md) The numerous gaps
 which have to be left owing to uncertainty of translation make a number
 of the above sentences unintelligible. The concluding paragraphs are
 presumably an allegory of the attractions of false religions, and can
 hardly be thought to be part of the speech of the fishers.
 
-<span id="page_77_note_3"></span>[3](#page_77_fr_3) Presumably as the
+<span id="page_77_note_3"></span>[3](#page_77_fr_3.md) Presumably as the
 waves made by the foundering ships reach the shore.
 
 <span id="footnotes_page_78">p. 78</span>
 
-<span id="page_78_note_1"></span>[1](#page_78_fr_1) The Mandæan colour
+<span id="page_78_note_1"></span>[1](#page_78_fr_1.md) The Mandæan colour
 is white.
 
-<span id="page_78_note_2"></span>[2](#page_78_fr_2) In the M. text, 146,
+<span id="page_78_note_2"></span>[2](#page_78_fr_2.md) In the M. text, 146,
 12, this is given as Sidmā. L. thinks it is a water-fowl of some kind.
 
-<span id="page_78_note_3"></span>[3](#page_78_fr_3) Presumably because
+<span id="page_78_note_3"></span>[3](#page_78_fr_3.md) Presumably because
 it is always diving after its prey.
 
-<span id="page_78_note_4"></span>[4](#page_78_fr_4) *Sc*. the Seven.
+<span id="page_78_note_4"></span>[4](#page_78_fr_4.md) *Sc*. the Seven.
 
 <span id="footnotes_page_79">p. 79</span>
 
-<span id="page_79_note_1"></span>[1](#page_79_fr_1) *Sc*. to frighten
+<span id="page_79_note_1"></span>[1](#page_79_fr_1.md) *Sc*. to frighten
 the fish into the nets.
 
-<span id="page_79_note_2"></span>[2](#page_79_fr_2) The Jordan-Watchers.
+<span id="page_79_note_2"></span>[2](#page_79_fr_2.md) The Jordan-Watchers.
 
 <span id="footnotes_page_80">p. 80</span>
 
-<span id="page_80_note_1"></span>[1](#page_80_fr_1) Bait of some kind
+<span id="page_80_note_1"></span>[1](#page_80_fr_1.md) Bait of some kind
 presumably.
 
-<span id="page_80_note_2"></span>[2](#page_80_fr_2) Detailing probably
+<span id="page_80_note_2"></span>[2](#page_80_fr_2.md) Detailing probably
 the remaining two of the four objects referred to.
 
 <span id="footnotes_page_81">p. 81</span>
 
-<span id="page_81_note_1"></span>[1](#page_81_fr_1) The salt, bitter,
+<span id="page_81_note_1"></span>[1](#page_81_fr_1.md) The salt, bitter,
 water of the sea of death and destruction, as opposed to the fresh,
 sweet water, the living water or water of Life.
 
-<span id="page_81_note_2"></span>[2](#page_81_fr_2) Equating with the
+<span id="page_81_note_2"></span>[2](#page_81_fr_2.md) Equating with the
 Heavenly Jordan.
 
-<span id="page_81_note_3"></span>[3](#page_81_fr_3) All symbolic objects
+<span id="page_81_note_3"></span>[3](#page_81_fr_3.md) All symbolic objects
 in the cult.
 
-<span id="page_81_note_4"></span>[4](#page_81_fr_4) *Sc*. the knife or
+<span id="page_81_note_4"></span>[4](#page_81_fr_4.md) *Sc*. the knife or
 sword of the Angel of Death.
 
 <span id="footnotes_page_82">p. 82</span>
 
-<span id="page_82_note_1"></span>[1](#page_82_fr_1) This may mean at a
+<span id="page_82_note_1"></span>[1](#page_82_fr_1.md) This may mean at a
 certain period or appointed time.
 
-<span id="page_82_note_2"></span>[2](#page_82_fr_2) The faithful are
+<span id="page_82_note_2"></span>[2](#page_82_fr_2.md) The faithful are
 figured as birds as well as sheep.
 
-<span id="page_82_note_3"></span>[3](#page_82_fr_3) An untranslatable
+<span id="page_82_note_3"></span>[3](#page_82_fr_3.md) An untranslatable
 idiom.
 
-<span id="page_82_note_4"></span>[4](#page_82_fr_4) *Sc*. of this world.
+<span id="page_82_note_4"></span>[4](#page_82_fr_4.md) *Sc*. of this world.
 
-<span id="page_82_note_5"></span>[5](#page_82_fr_5) That is, the living
+<span id="page_82_note_5"></span>[5](#page_82_fr_5.md) That is, the living
 water.
 
-<span id="page_82_note_6"></span>[6](#page_82_fr_6) This is conjectural.
+<span id="page_82_note_6"></span>[6](#page_82_fr_6.md) This is conjectural.
 
 <span id="footnotes_page_83">p. 83</span>
 
-<span id="page_83_note_1"></span>[1](#page_83_fr_1) Lidzbarski (p. 465)
+<span id="page_83_note_1"></span>[1](#page_83_fr_1) Lidzbarski (p. 465.md)
 thinks this refers to the Moslim period. Elsewhere we find the parallel
 phrase 'age of Bizbat,' which L. also refers to Muhammad. But Bizbat is
 clearly a corrupt form of Baal-Zebul, and therefore the reference should
 be more general.
 
-<span id="page_83_note_2"></span>[2](#page_83_fr_2) Presumably stars.
+<span id="page_83_note_2"></span>[2](#page_83_fr_2.md) Presumably stars.
 
 <span id="footnotes_page_84">p. 84</span>
 
-<span id="page_84_note_1"></span>[1](#page_84_fr_1) Spirit or jinn (?)
+<span id="page_84_note_1"></span>[1](#page_84_fr_1) Spirit or jinn (?.md)
 
 <span id="footnotes_page_85">p. 85</span>
 
-<span id="page_85_note_1"></span>[1](#page_85_fr_1) A still more
+<span id="page_85_note_1"></span>[1](#page_85_fr_1.md) A still more
 degraded form of cult is mentioned, but the meaning baffles the
 translator; it is referred to those who bow down before Rūhā, here in
 mockery called 'Holy' Spirit.
 
-<span id="page_85_note_2"></span>[2](#page_85_fr_2) The above is
+<span id="page_85_note_2"></span>[2](#page_85_fr_2.md) The above is
 obscure, especially the 'pen-demon' reference. The general sense.
 however, seems to be that those who fall away from the Mandæan faith are
 not to be restrained by force, but let go their way.
 
-<span id="page_85_note_3"></span>[3](#page_85_fr_3) *Sc*. Life. The
+<span id="page_85_note_3"></span>[3](#page_85_fr_3.md) *Sc*. Life. The
 concluding paragraph runs on without break in the German, being assigned
 to the same speaker; but the subject is clearly changed and the whole
 spirit is different. The Good Shepherd now seeks for the lost sheep and
@@ -1186,19 +1186,19 @@ does not leave it to perish.
 
 <span id="footnotes_page_86">p. 86</span>
 
-<span id="page_86_note_1"></span>[1](#page_86_fr_1) In § 9 ([p.
-39](gjb-2-1.htm#page_39)) N. is called the Watcher who has his station
+<span id="page_86_note_1"></span>[1](#page_86_fr_1.md) In § 9 ([p.
+39](gjb-2-1.htm#page_39).md) N. is called the Watcher who has his station
 in every region, *i.e.* the Great Watcher.
 
 <span id="footnotes_page_87">p. 87</span>
 
-<span id="page_87_note_1"></span>[1](#page_87_fr_1) Y. is the Helper or
+<span id="page_87_note_1"></span>[1](#page_87_fr_1.md) Y. is the Helper or
 Saviour. The shekīnah or celestial abode of Yawar, the Chosen, is the
 Home of the Blessed (*cp*. J.B. 189<span class="small">4</span>).
 
 <span id="footnotes_page_90">p. 90</span>
 
-<span id="page_90_note_1"></span>[1](#page_90_fr_1) *Kannā*. L. leaves
+<span id="page_90_note_1"></span>[1](#page_90_fr_1.md) *Kannā*. L. leaves
 this technical term untranslated; but in note 4 to p. 4 he shows that it
 frequently means a wine-cup or wine-bowl. I would therefore venture to
 connect it with the widespread notion of the *kratēr* or mixing-bowl of
@@ -1208,34 +1208,34 @@ Hermeticum* is called 'The Cup' or 'The Bowl,' or alternatively 'The
 Monad.' It was not only the source of souls, but also the Mind into
 which they had to be dowsed for spiritual baptism or regeneration.
 
-<span id="page_90_note_2"></span>[2](#page_90_fr_2) Presumably the rays
+<span id="page_90_note_2"></span>[2](#page_90_fr_2.md) Presumably the rays
 of glory, signifying a state of contemplation.
 
-<span id="page_90_note_3"></span>[3](#page_90_fr_3) The supernal powers.
+<span id="page_90_note_3"></span>[3](#page_90_fr_3.md) The supernal powers.
 
-<span id="page_90_note_4"></span>[4](#page_90_fr_4) I can find no
+<span id="page_90_note_4"></span>[4](#page_90_fr_4.md) I can find no
 explanation of this occasionally recurring figure; it indubitably goes
 back to some ancient myth.
 
 <span id="footnotes_page_91">p. 91</span>
 
-<span id="page_91_note_1"></span>[1](#page_91_fr_1) In a number of the
+<span id="page_91_note_1"></span>[1](#page_91_fr_1.md) In a number of the
 Gnostic systems of the Early Christian period the body of the first man
 is said to lie like a log till the light-spark is breathed into him.
 
-<span id="page_91_note_2"></span>[2](#page_91_fr_2) *Sc*. the heavenly
+<span id="page_91_note_2"></span>[2](#page_91_fr_2.md) *Sc*. the heavenly
 powers.
 
-<span id="page_91_note_3"></span>[3](#page_91_fr_3) Presumably Adam
+<span id="page_91_note_3"></span>[3](#page_91_fr_3.md) Presumably Adam
 
 <span id="footnotes_page_92">p. 92</span>
 
-<span id="page_92_note_1"></span>[1](#page_92_fr_1) The region of the
+<span id="page_92_note_1"></span>[1](#page_92_fr_1.md) The region of the
 lower world-rulers.
 
 <span id="footnotes_page_93">p. 93</span>
 
-<span id="page_93_note_1"></span>[1](#page_93_fr_1) Or "One of the Poor
+<span id="page_93_note_1"></span>[1](#page_93_fr_1.md) Or "One of the Poor
 am I," Compare the Ebionīm or Poor of early Christianity; the Poor
 (spiritually) are those who have voluntarily renounced this world's
 goods.

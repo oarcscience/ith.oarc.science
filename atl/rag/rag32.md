@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag31)  [Next](rag33) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag31)  [Next](rag33.md) 
 
 ------------------------------------------------------------------------
 
@@ -578,4 +578,4 @@ increasing the amount of oxygen in the air they breathed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Universal Belief Of Mankind](rag33)
+[Next: Chapter VI. The Universal Belief Of Mankind](rag33.md)

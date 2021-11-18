@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm31)  [Next](wsm33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm31)  [Next](wsm33.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ American](../../index)  [California](../index)  [Index](index) 
 
 Badger lived alone in his camp. He had lived there a long time. On a
 hill close by his home were some rocks. In these rocks were the houses
-of many Woodchucks (Yaha). <span id="fr_34"></span>[35](#fn_34)
+of many Woodchucks (Yaha). <span id="fr_34"></span>[35](#fn_34.md)
 
 <span id="page_292">p. 292</span>
 
 Badger thought, "These must be very good to eat. I am going to try
 them." He sharpened a big stick on both edges; he had some kind of
-knife. Then he [climbed](errata.htm#2) up to the Yaha holes in the
+knife. Then he [climbed](errata.htm#2.md) up to the Yaha holes in the
 rocks. He found a flat place below the entrance to the houses and lay
 down there with his stick close beside him. He thought, "I will sing a
 song and pretend I am singing in my sleep." He started singing:
@@ -125,7 +125,7 @@ Coyote went home.
 
 ### Footnotes
 
-<span id="fn_34"></span>[291:35](wsm32.htm#fr_34) J. S. explained that
+<span id="fn_34"></span>[291:35](wsm32.htm#fr_34.md) J. S. explained that
 these Yaha were like rats or mice, but that he had never, seen any of
 them. Actually Yaha are woodchucks and, though an important food farther
 north, are unknown in this region.
@@ -133,4 +133,4 @@ north, are unknown in this region.
 ------------------------------------------------------------------------
 
 [Next: Coyote and the Bear Cubs; The Death of Wolf (Ash Meadows, Nevada.
-Shoshoni.)](wsm33)
+Shoshoni.)](wsm33.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp01)  [Next](ptp03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp01)  [Next](ptp03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -142,7 +142,7 @@ wishes. As the Church had grown, so of course had the priesthood; and
 with such a quickly spreading organization, still forced to the shroud
 of secrecy, it was easy for unauthorized changes to creep into the
 liturgy, particularly when that liturgy was not yet recorded in written
-form. <span class="smallcaps">Soter</span> who [succeeded](errata.htm#0)
+form. <span class="smallcaps">Soter</span> who [succeeded](errata.htm#0.md)
 Anicetus in 166 turned a vigilant eye on these errors and insisted on
 the correct and orthodox observance of all sacred customs. In searching
 for such abuses he came in contact with many of the poorer Christian
@@ -169,4 +169,4 @@ far-off places as Britain.
 
 ------------------------------------------------------------------------
 
-[Next: Third Century](ptp03)
+[Next: Third Century](ptp03.md)

@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Next](htk01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Next](htk01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -51,25 +51,25 @@ copies.
 
 <span id="img_front"></span> <span align="CENTER">
 [![Frontispiece](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 </span>
 
 <span id="img_yantra1"></span> <span align="CENTER"> [![Yantra from
 front cover](tn/yantra1.jpg)  
-Click to enlarge](img/yantra1.jpg)  
+Click to enlarge](img/yantra1.jpg.md)  
 Yantra from front cover  
 </span>
 
 <span id="img_yantra2"></span> <span align="CENTER"> [![Yantra from
 front dust jacket](tn/yantra2.jpg)  
-Click to enlarge](img/yantra2.jpg)  
+Click to enlarge](img/yantra2.jpg.md)  
 Yantra from front dust jacket  
 </span>
 
 <span id="img_yantra3"></span> <span align="CENTER"> [![Yantra from back
 dust jacket](tn/yantra3.jpg)  
-Click to enlarge](img/yantra3.jpg)  
+Click to enlarge](img/yantra3.jpg.md)  
 Yantra from back dust jacket  
 </span>
 
@@ -77,6 +77,6 @@ Yantra from back dust jacket
 
 ------------------------------------------------------------------------
 
-[Next: Publishers’ Note](htk01)
+[Next: Publishers’ Note](htk01.md)
 
 </div>

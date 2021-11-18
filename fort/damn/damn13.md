@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](damn12)  [Next](damn14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](damn12)  [Next](damn14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of the Damned*, by Charles Fort, \[1919\], at Intangible
 Textual Heritage
 
@@ -345,7 +345,7 @@ but articles of faith—that a hailstone falling through this earth's
 atmosphere, with planetary velocity, would perform 13,000 times as much
 work as would raise an equal weight of water one degree centigrade, and
 therefore never fall as a hailstone at all; be more than
-melted—super-[volatilized](errata.htm#4)—
+melted—super-[volatilized](errata.htm#4.md)—
 
 These turls and these bleats of pedantry—though we insist that,
 relatively to 1882, these turls and bleats should be regarded as
@@ -842,4 +842,4 @@ trees, and when lightest occurs there only."
 
 ------------------------------------------------------------------------
 
-[Next: 14](damn14)
+[Next: 14](damn14.md)

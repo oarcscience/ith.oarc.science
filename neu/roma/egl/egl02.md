@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl01)  [Next](egl03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl01)  [Next](egl03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Chinese, the American Indian, and the Wandering Gipsy.
 
 Although the valuable and curious works of Mr George Borrow have been in
 part for more than twenty years before the British public,
- [1](egl13.htm#xref_1) it may still be doubted whether many, even of our
+ [1](egl13.htm#xref_1.md) it may still be doubted whether many, even of our
 scholars, are aware of the remarkable, social, and philological facts
 which are connected with an immense proportion of our out-of-door
 population. There are, indeed, very few people who know, that every time
@@ -120,7 +120,7 @@ a Gipsy yourself, sir; but you know you *are* one—*you talk like one*.”
 
 Truly, the secret of the Rommany has been well kept in England. It seems
 so to me when I reflect that, with the exception of Lavengro and the
-Rommany Rye,  [5](egl13.htm#xref_5) I cannot recall a single novel, in
+Rommany Rye,  [5](egl13.htm#xref_5.md) I cannot recall a single novel, in
 our language, in which the writer has shown familiarity with the *real*
 life, habits, or language of the vast majority of that very large class,
 the itinerants of the roads. Mr Dickens has set before us Cheap Jacks,
@@ -509,7 +509,7 @@ perfection of innumerable wise and moral precepts have, by the practice
 of thousands of years, produced in him their natural result. Whenever he
 attempts to think, his mind runs at once into some broad and open path,
 beautifully bordered with dry artificial flowers,
- [21](egl13.htm#xref_21) and the result has been the inability to
+ [21](egl13.htm#xref_21.md) and the result has been the inability to
 comprehend any new idea—a state to which the Church of the Middle Ages,
 or any too rigidly established system, would in a few thousand years
 have reduced humanity. Under the action of widely different causes, the
@@ -527,4 +527,4 @@ an integral part of that great body-corporate—Society.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. A Gipsy Cottage](egl03)
+[Next: Chapter II. A Gipsy Cottage](egl03.md)

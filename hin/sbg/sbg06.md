@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sbg05)  [Next](sbg07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sbg05)  [Next](sbg07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103498/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103498/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Srimad-Bhagavad-Gita*, English translation and commentary by Swami
 Swarupananda, \[1909\], at Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ Dhritarâshtra said:
 
 1\. Tell me, O Sanjaya! Assembled on Kurukshetra, the centre of
 religious activity, desirous to fight, what indeed did my people and the
-Pândavas do? <span id="fr_1"></span>[1](#fn_1)
+Pândavas do? <span id="fr_1"></span>[1](#fn_1.md)
 
 <span id="page_2">p. 2</span>
 
@@ -41,13 +41,13 @@ Sanjaya said:
 
 2\. But then King Duryodhana, having seen the Pândava forces in
 battle-array, approached his teacher Drona, and spoke these words: <span
-id="fr_2"></span>[2](#fn_2)
+id="fr_2"></span>[2](#fn_2.md)
 
 <span id="page_3">p. 3</span>
 
 3\. "Behold, O Teacher! this mighty army of the sons of Pându, arrayed
 by the son of Drupada, thy gifted pupil. <span
-id="fr_3"></span>[3](#fn_3)
+id="fr_3"></span>[3](#fn_3.md)
 
 <span id="page_4">p. 4</span>
 
@@ -56,17 +56,17 @@ and Arjuna—the great warriors Yuyudhâna, Virâta, Drupada; the valiant
 Dhrishtaketu, Chekitâna and the king of Kâshi; the best of men, Purujit,
 Kunti-Bhoja and Shaivya; the powerful Yudhâmanyu, and the brave
 Uttamaujas, the son of Subhadrâ, and the sons of Draupadi,—lords of
-great chariots. <span id="fr_4"></span>[4](#fn_4)
+great chariots. <span id="fr_4"></span>[4](#fn_4.md)
 
 <span id="page_5">p. 5</span>
 
 7\. "Hear also, O Best of the twice-born! the names of those who (are)
 distinguished amongst ourselves, the leaders of my army. These I relate
-(to you) for your information. <span id="fr_5"></span>[7](#fn_5)
+(to you) for your information. <span id="fr_5"></span>[7](#fn_5.md)
 
 8\. "Yourself and Bhishma and Karna and Kripa, the victorious in war.
 Asvatthâmâ and Vikarna and Jayadratha, the son of Somadatta. <span
-id="fr_6"></span>[8](#fn_6)
+id="fr_6"></span>[8](#fn_6.md)
 
 <span id="page_6">p. 6</span>
 
@@ -76,18 +76,18 @@ my sake.
 
 10\. "This our army defended by Bhishma (is) impossible to be counted,
 but that army of theirs, defended by Bhima (is) easy to number. <span
-id="fr_7"></span>[10](#fn_7)
+id="fr_7"></span>[10](#fn_7.md)
 
 <span id="page_7">p. 7</span>
 
 11\. "(Now) do, being stationed in your proper places in the divisions
-of the army, support Bhishma alone." <span id="fr_8"></span>[11](#fn_8)
+of the army, support Bhishma alone." <span id="fr_8"></span>[11](#fn_8.md)
 
 <span id="page_8">p. 8</span>
 
 12\. That powerful, oldest of the Kurus, Bhishma the grandsire, in order
 to cheer Duryodhana, now sounded aloud a lion-roar and blew his
-conch. <span id="fr_9"></span>[12](#fn_9)
+conch. <span id="fr_9"></span>[12](#fn_9.md)
 
 13\. Then following Bhishma, conches and kettle-drums, tabors, trumpets
 and
@@ -121,7 +121,7 @@ mighty-armed son of Subhadrâ, all, also blew each his own conch.
 
 19\. And the terrific noise resounding throughout heaven and earth rent
 the hearts of Dhritarâshtra's party. <span
-id="fr_10"></span>[19](#fn_10)
+id="fr_10"></span>[19](#fn_10.md)
 
 <span id="page_12">p. 12</span>
 
@@ -132,7 +132,7 @@ was the monkey,
 <span id="page_13">p. 13</span>
 
 raising his bow, said the following words to Krishna: <span
-id="fr_11"></span>[20](#fn_11)
+id="fr_11"></span>[20](#fn_11.md)
 
 Arjuna said:
 
@@ -144,7 +144,7 @@ know) with whom I have to fight.
 
 23\. For I desire to observe those who are assembled here for fight,
 wishing to please the evil-minded Duryodhana by taking his side on this
-battle-field. <span id="fr_12"></span>[23](#fn_12)
+battle-field. <span id="fr_12"></span>[23](#fn_12.md)
 
 <span id="page_15">p. 15</span>
 
@@ -173,7 +173,7 @@ Arjuna said:
 29\. Seeing, O Krishna, these my kinsmen gathered here, eager for fight,
 my limbs fail me, and my mouth is parched up. I shiver all over, and my
 hair stands on end. The bow Gândiva slips from my hand, and my skin
-burns. <span id="fr_13"></span>[29](#fn_13)
+burns. <span id="fr_13"></span>[29](#fn_13.md)
 
 30\. Neither, O Keshava, can I stand upright. My mind is in a whirl. And
 I see adverse omens.
@@ -200,7 +200,7 @@ worlds, how much less for the sake of the earth!
 
 36\. What pleasure indeed could be ours, O Jnanârdana, from killing
 these sons of Dhritarâshtra? Sin only could take hold of us by the
-slaying of these felons. <span id="fr_14"></span>[36](#fn_14)
+slaying of these felons. <span id="fr_14"></span>[36](#fn_14.md)
 
 <span id="page_21">p. 21</span>
 
@@ -229,7 +229,7 @@ there arises, O Vârshneya, intermingling of castes.
 
 42\. Admixture of castes, indeed, is for the hell of the family and the
 destroyers of the family; their ancestors fall, deprived of the
-offerings of rice-ball and water. <span id="fr_15"></span>[42](#fn_15)
+offerings of rice-ball and water. <span id="fr_15"></span>[42](#fn_15.md)
 
 <span id="page_24">p. 24</span>
 
@@ -264,7 +264,7 @@ The end of chapter first, designated *The Grief of Arjuna*.
 
 ### Footnotes
 
-<span id="fn_1"></span>[1:1](sbg06.htm#fr_1) True it is that the two
+<span id="fn_1"></span>[1:1](sbg06.htm#fr_1.md) True it is that the two
 parties were gathered together for battle, but was the influence of
 Kurukshetra, the sacred centre of religious and spiritual activity from
 of old, barren of any result? Did not <span id="page_3">p. 3</span> the
@@ -272,36 +272,36 @@ spiritual influence of the spot affect any of the leaders in a way
 unfavourable to the occurrence of the battle? is the purport of
 Dhritarâshtra's question.
 
-<span id="fn_2"></span>[2:2](sbg06.htm#fr_2) Sanjaya's reply beginning
+<span id="fn_2"></span>[2:2](sbg06.htm#fr_2.md) Sanjaya's reply beginning
 with "But then" and describing Duryodhana's action is a plain hint to
 the old king that his son was afraid. For he went to his teacher
 (regarded as father) instead of to the commander-in-chief, as a child in
 fright would run to its parents in preference to others.
 
-<span id="fn_3"></span>[3:3](sbg06.htm#fr_3) As a scorpion would sting
+<span id="fn_3"></span>[3:3](sbg06.htm#fr_3.md) As a scorpion would sting
 even that whose protection is sought to be free from fear, so did the
 wicked Duryodhana insult his teacher. His meaning in plain words comes
 to this: just think of your stupidity in teaching the science of fight
 to the son of Drupada and to those of Pându. They are now arrayed to
 kill you!
 
-<span id="fn_4"></span>[4:4](sbg06.htm#fr_4) great-charioted: one who is
+<span id="fn_4"></span>[4:4](sbg06.htm#fr_4.md) great-charioted: one who is
 well-versed in the science of war and commands eleven thousand bowmen.
 
-<span id="fn_5"></span>[5:7](sbg06.htm#fr_5) However well-versed in the
+<span id="fn_5"></span>[5:7](sbg06.htm#fr_5.md) However well-versed in the
 science of war you might be, you are after all a Brâhmana (best of the
 twice-born) a lover of peace, that is to say, a coward. It is therefore
 natural for you to be afraid of the Pândava force. But take heart, we
 too have, great warriors in our ranks—is the veiled meaning of
 Duryodhana's words.
 
-<span id="fn_6"></span>[5:8](sbg06.htm#fr_6) Afraid lest he had said too
+<span id="fn_6"></span>[5:8](sbg06.htm#fr_6.md) Afraid lest he had said too
 much Duryodhana is flattering Drona, by mentioning the latter before
 <span id="page_6">p. 6</span> even Bhishma and qualifying Drona's
 brother-in law with the phrase 'victorious in war,' a move likely to
 touch the heart of most mortals.
 
-<span id="fn_7"></span>[6:10](sbg06.htm#fr_7) <span id="page_7">p.
+<span id="fn_7"></span>[6:10](sbg06.htm#fr_7.md) <span id="page_7">p.
 7</span> In ancient Indian warfare, one commanding a force had for his
 main-stay a defender about him, whose position was no less important.
 Here are given the names of the chief defenders, and not of the chief
@@ -311,11 +311,11 @@ The verse is often interpreted to mean that Duryodhana considers his
 army inefficient and that of the enemy efficient. But this view seems
 inapposite to the context.
 
-<span id="fn_8"></span>[7:11](sbg06.htm#fr_8) Since I cannot expect from
+<span id="fn_8"></span>[7:11](sbg06.htm#fr_8.md) Since I cannot expect from
 you any initiative, do what you are told to do,—seems to be Duryodhana's
 intention.
 
-<span id="fn_9"></span>[8:12](sbg06.htm#fr_9) All eyes were turned upon
+<span id="fn_9"></span>[8:12](sbg06.htm#fr_9.md) All eyes were turned upon
 Duryodhana and the penetrating intelligence of Bhishma detected his
 fear; and since Drona took no notice of Duryodhana's words, knowing his
 grandson as he did, he had no difficulty in understanding that the
@@ -326,7 +326,7 @@ should here be noted that this action, amounting to a challenge, really
 began the fight. It was the Kaurava side again which took the
 aggressor's part.
 
-<span id="fn_10"></span>[11:19](sbg06.htm#fr_10) Verses 14-19 are full
+<span id="fn_10"></span>[11:19](sbg06.htm#fr_10.md) Verses 14-19 are full
 of hints about the superiority of the Pândava party and the consequent
 <span id="page_12">p. 12</span> sure defeat of Dhritarâshtra. The figure
 to which Sanjaya draws the old king's attention as first taking up
@@ -339,18 +339,18 @@ tremendous, whereas that of the latter was not only tremendous but
 filled the earth and sky with reverberations and rent the hearts of the
 former.
 
-<span id="fn_11"></span>[13:20](sbg06.htm#fr_11) In view of the sudden
+<span id="fn_11"></span>[13:20](sbg06.htm#fr_11.md) In view of the sudden
 change of feeling that is to come over Arjuna it should be noted how
 full of the war-spirit we find him in this verse.
 
-<span id="fn_12"></span>[14:23](sbg06.htm#fr_12) Arjuna is impatient to
+<span id="fn_12"></span>[14:23](sbg06.htm#fr_12.md) Arjuna is impatient to
 see who dared face him in fight!
 
-<span id="fn_13"></span>[17:29](sbg06.htm#fr_13) Compassion overpowered
+<span id="fn_13"></span>[17:29](sbg06.htm#fr_13.md) Compassion overpowered
 him. Not that it was due to discrimination, but rather to the lack of
 this. He lost self-control—the first step into the abyss of ignorance.
 
-<span id="fn_14"></span>[20:36](sbg06.htm#fr_14) *Felons:* Atatâyi, one
+<span id="fn_14"></span>[20:36](sbg06.htm#fr_14.md) *Felons:* Atatâyi, one
 who sets fire to the house of, administers poison to, falls upon with a
 sword on, steals the wealth, land and wife of, another person.
 Duryodhana did all these to the Pândava brothers. According to the Artha
@@ -362,7 +362,7 @@ then the general sin of killing is sure to take hold of us, for Dharma
 Shâstra which is more authoritative than Artha Shâstra enjoins
 non-killing."
 
-<span id="fn_15"></span>[23:42](sbg06.htm#fr_15) Verily, confusion of
+<span id="fn_15"></span>[23:42](sbg06.htm#fr_15.md) Verily, confusion of
 family is the hell of destroyers of family. (For then do) their own
 ancestors fall, deprived &c. This refers to the well-known Srâddha
 ceremony of the Hindus, the main principle of which consists in sending
@@ -375,6 +375,6 @@ are also fed to secure their good wishes.
 
 ------------------------------------------------------------------------
 
-[Next: Second Chapter. The Way of Knowledge](sbg07)
+[Next: Second Chapter. The Way of Knowledge](sbg07.md)
 
 </div>

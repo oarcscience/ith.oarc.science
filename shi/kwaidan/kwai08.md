@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai07)  [Next](kwai09) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai07)  [Next](kwai09.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ the tomb of a priest.
 
 ------------------------------------------------------------------------
 
-[Next: Mujina](kwai09)
+[Next: Mujina](kwai09.md)

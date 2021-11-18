@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,11 +21,11 @@
 </tbody>
 </table>
 
-[Jump to Index](#index)           [Start Reading](cws02)  
+[Jump to Index](#index)           [Start Reading](cws02.md)  
 *Images*  
-[Front Cover](front.jpg)  [Entire Cover](cover.jpg)  [Back
-Cover](back.jpg)  
-[Another Photograph of Anna Kingsford](anna2.jpg)  
+[Front Cover](front.jpg)  [Entire Cover](cover.jpg.md)  [Back
+Cover](back.jpg.md)  
+[Another Photograph of Anna Kingsford](anna2.jpg.md)  
 
 ------------------------------------------------------------------------
 
@@ -74,108 +74,108 @@ from pneumonia at the early age of 42, on February 22nd 1888.
 
 ------------------------------------------------------------------------
 
-[Title Page](cws00)  
-[Table Of Contents](cws01)  
-[Preface To The Second Edition](cws02)  
-[Preface To The First Edition](cws03)  
+[Title Page](cws00.md)  
+[Table Of Contents](cws01.md)  
+[Preface To The Second Edition](cws02.md)  
+[Preface To The First Edition](cws03.md)  
 <span id="section_000"></span>
 
 ### Part The First: Illuminations
 
-[Part The First: Illuminations](cws04)  
-[No. I: Concerning The Three Veils Between Man And God](cws05)  
-[No. II: Concerning Inspiration and Prophesying](cws06)  
-[No. III: Concerning The Prophecy Of The Immaculate Conception](cws07)  
-[No. IV: Concerning Revelation](cws08)  
+[Part The First: Illuminations](cws04.md)  
+[No. I: Concerning The Three Veils Between Man And God](cws05.md)  
+[No. II: Concerning Inspiration and Prophesying](cws06.md)  
+[No. III: Concerning The Prophecy Of The Immaculate Conception](cws07.md)  
+[No. IV: Concerning Revelation](cws08.md)  
 [No. V: Concerning The Interpretation Of The Mystical
-Scriptures](cws09)  
-[No. VI: Concerning The Mosaic Cosmogony](cws10)  
-[No. VII: Concerning The Fall](cws11)  
-[No. VIII: Concerning The Prophecy Of The Deluge](cws12)  
-[No. IX: Concerning the Prophecy of the Book of Esther](cws13)  
+Scriptures](cws09.md)  
+[No. VI: Concerning The Mosaic Cosmogony](cws10.md)  
+[No. VII: Concerning The Fall](cws11.md)  
+[No. VIII: Concerning The Prophecy Of The Deluge](cws12.md)  
+[No. IX: Concerning the Prophecy of the Book of Esther](cws13.md)  
 [No. X: Concerning The Prophecy Of The Vision Of
-Nebuchadnezzar](cws14)  
-[No. XI: Concerning The Prophecy Of The Time Of The End](cws15)  
+Nebuchadnezzar](cws14.md)  
+[No. XI: Concerning The Prophecy Of The Time Of The End](cws15.md)  
 [No. XII: Concerning The Soul: Its Origin, Nature, And
-Potentialities](cws16)  
+Potentialities](cws16.md)  
 [No. XIII: Concerning Persephone, Or The Soul's Descent Into
-Matter](cws17)  
-[No. XIV: Concerning The Genius Or Daimon](cws18)  
-[No. XV: Concerning The ''Powers Of The Air''](cws19)  
-[No. XVI: Concerning The Devil And Devils](cws20)  
-[No. XVII: Concerning The Gods](cws21)  
-[No. XVIII: Concerning The Greek Mysteries](cws22)  
+Matter](cws17.md)  
+[No. XIV: Concerning The Genius Or Daimon](cws18.md)  
+[No. XV: Concerning The ''Powers Of The Air''](cws19.md)  
+[No. XVI: Concerning The Devil And Devils](cws20.md)  
+[No. XVII: Concerning The Gods](cws21.md)  
+[No. XVIII: Concerning The Greek Mysteries](cws22.md)  
 [No. XIX: Concerning The Origin Of Evil, And The Tree As The Type Of
-Creation](cws23)  
+Creation](cws23.md)  
 [No. XX: Concerning The Great Pyramid, And The Initiations
-Therein](cws24)  
-[No. XXI: Concerning The ''Man Of Power''](cws25)  
-[No. XXII: Concerning The ''Work Of Power''](cws26)  
-[No. XXIII: Concerning Regeneration](cws27)  
-[No. XXIV: Concerning The Man Regenerate](cws28)  
-[No. XXV: Concerning The Christ And The Logos](cws29)  
-[No. XXVI: Concerning The Perfectionment Of The Christ](cws30)  
-[No. XXVII: Concerning Christian Pantheism](cws31)  
-[No. XXVIII: Concerning The ''Blood Of Christ''](cws32)  
-[No. XXIX: Concerning Vicarious Atonement](cws33)  
-[No. XXX: Concerning Paul And The Disciples Of Jesus](cws34)  
-[No. XXXI: Concerning The Manichæanism Of Paul](cws35)  
+Therein](cws24.md)  
+[No. XXI: Concerning The ''Man Of Power''](cws25.md)  
+[No. XXII: Concerning The ''Work Of Power''](cws26.md)  
+[No. XXIII: Concerning Regeneration](cws27.md)  
+[No. XXIV: Concerning The Man Regenerate](cws28.md)  
+[No. XXV: Concerning The Christ And The Logos](cws29.md)  
+[No. XXVI: Concerning The Perfectionment Of The Christ](cws30.md)  
+[No. XXVII: Concerning Christian Pantheism](cws31.md)  
+[No. XXVIII: Concerning The ''Blood Of Christ''](cws32.md)  
+[No. XXIX: Concerning Vicarious Atonement](cws33.md)  
+[No. XXX: Concerning Paul And The Disciples Of Jesus](cws34.md)  
+[No. XXXI: Concerning The Manichæanism Of Paul](cws35.md)  
 [No. XXXII: Concerning The Gospels: Their Origin And
-Composition](cws36)  
-[No. XXXIII: Concerning The Actual Jesus](cws37)  
-[No. XXXIV: Concerning The Previous Lives Of Jesus](cws38)  
-[No. XXXV: Concerning The Holy Family](cws39)  
-[No. XXXVI: Concerning The Metempsychosis Or Avatâr](cws40)  
-[No. XXXVII: Concerning The Æon of the Christ](cws41)  
-[No. XXXVIII: Concerning The Doctrine Of Grace](cws42)  
-[No. XXXIX: Concerning The ''Four Atmospheres''](cws43)  
-[No. XL: Concerning The Hereafter](cws44)  
-[No. XLI: Concerning The True Ego](cws45)  
-[No. XLII: Concerning God](cws46)  
-[No. XLIII: Concerning Psyche, Or The Superior Human Soul](cws47)  
+Composition](cws36.md)  
+[No. XXXIII: Concerning The Actual Jesus](cws37.md)  
+[No. XXXIV: Concerning The Previous Lives Of Jesus](cws38.md)  
+[No. XXXV: Concerning The Holy Family](cws39.md)  
+[No. XXXVI: Concerning The Metempsychosis Or Avatâr](cws40.md)  
+[No. XXXVII: Concerning The Æon of the Christ](cws41.md)  
+[No. XXXVIII: Concerning The Doctrine Of Grace](cws42.md)  
+[No. XXXIX: Concerning The ''Four Atmospheres''](cws43.md)  
+[No. XL: Concerning The Hereafter](cws44.md)  
+[No. XLI: Concerning The True Ego](cws45.md)  
+[No. XLII: Concerning God](cws46.md)  
+[No. XLIII: Concerning Psyche, Or The Superior Human Soul](cws47.md)  
 [No. XLIV: Concerning The Poet, As Type Of The Heavenly
-Personality](cws48)  
-[No. XLV: Concerning Psyche](cws49)  
+Personality](cws48.md)  
+[No. XLV: Concerning Psyche](cws49.md)  
 [No. XLVI: Concerning Consciousness And Memory In Relation To
-Personality](cws50)  
-[No. XLVII: Concerning The Substantial Ego As The True Subject](cws51)  
-[No. XLVIII: Concerning The Christian Mysteries](cws52)  
-[No. XLIX: Concerning Dying](cws53)  
-[No. L: Concerning The One Life: Being A Recapitulation](cws54)  
+Personality](cws50.md)  
+[No. XLVII: Concerning The Substantial Ego As The True Subject](cws51.md)  
+[No. XLVIII: Concerning The Christian Mysteries](cws52.md)  
+[No. XLIX: Concerning Dying](cws53.md)  
+[No. L: Concerning The One Life: Being A Recapitulation](cws54.md)  
 <span id="section_001"></span>
 
 ### Part The Second: The Book of the Mysteries of God
 
-[Part The Second: The Book of the Mysteries of God](cws55)  
-[''I AM''](cws56)  
-[No. I: The Credo](cws57)  
-[No. II: The ''Lord's Prayer''](cws58)  
-[No. III: Concerning Holy Writ](cws59)  
-[No. IV: Concerning Sin And Death](cws60)  
+[Part The Second: The Book of the Mysteries of God](cws55.md)  
+[''I AM''](cws56.md)  
+[No. I: The Credo](cws57.md)  
+[No. II: The ''Lord's Prayer''](cws58.md)  
+[No. III: Concerning Holy Writ](cws59.md)  
+[No. IV: Concerning Sin And Death](cws60.md)  
 [No. V: Concerning The ''Great Work,'' The Redemption, And The Share Of
-Christ Jesus Therein](cws61)  
+Christ Jesus Therein](cws61.md)  
 [No. VI: Concerning Original Being; Or, ''Before The
-Beginning''](cws62)  
-[No. VII: Alpha, Or ''In The Beginning''](cws63)  
-[No. VIII: Beta, Or Adonai, The Manifestor](cws64)  
-[No. IX: Gamma, Or The Mystery Of Redemption](cws65)  
-[No. X: Delta, Or The Mystery Of Generation](cws66)  
-[No. XI: Epsilon, Or The First Of The Gods](cws67)  
-[No. XII: Zeta, Or The Second Of The Gods](cws68)  
-[No. XIII: Eta, Or (mystically) The Third Of The Gods](cws69)  
-[No. XIV: Theta, Or (mystically) The Fourth Of The Gods](cws70)  
+Beginning''](cws62.md)  
+[No. VII: Alpha, Or ''In The Beginning''](cws63.md)  
+[No. VIII: Beta, Or Adonai, The Manifestor](cws64.md)  
+[No. IX: Gamma, Or The Mystery Of Redemption](cws65.md)  
+[No. X: Delta, Or The Mystery Of Generation](cws66.md)  
+[No. XI: Epsilon, Or The First Of The Gods](cws67.md)  
+[No. XII: Zeta, Or The Second Of The Gods](cws68.md)  
+[No. XIII: Eta, Or (mystically) The Third Of The Gods](cws69.md)  
+[No. XIV: Theta, Or (mystically) The Fourth Of The Gods](cws70.md)  
 [No. XV: Lambda, Or The Last Of The Gods; Being The Secret Of
-Satan](cws71)  
-[No. XVI: The Seven Spirits Of God And Their Correspondences](cws72)  
-[No. XVII: The Mysteries Of The Kingdoms Of The Seven Spheres](cws73)  
+Satan](cws71.md)  
+[No. XVI: The Seven Spirits Of God And Their Correspondences](cws72.md)  
+[No. XVII: The Mysteries Of The Kingdoms Of The Seven Spheres](cws73.md)  
 <span id="section_002"></span>
 
 ### Part The Third: Concerning The Divine Image Or The Vision Of Adonai
 
 [Part The Third: Concerning The Divine Image Or The Vision Of
-Adonai](cws74)  
+Adonai](cws74.md)  
 <span id="section_003"></span>
 
 ### Appendix
 
-[Appendix](cws75)  
+[Appendix](cws75.md)  

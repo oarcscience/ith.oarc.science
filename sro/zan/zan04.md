@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](zan03)  [Next](zan05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](zan03)  [Next](zan05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Zanoni*, by Edward Bulwer Lytton, \[1842\], at Intangible Textual
 Heritage
 
@@ -323,7 +323,7 @@ packet and trimmed my lamp. Conceive my dismay when I found the whole
 written in an unintelligible cipher. I present the reader with a
 specimen:
 
-<span id="img_01400"></span> ![Strange writing](img/01400.jpg)
+<span id="img_01400"></span> ![Strange writing](img/01400.jpg.md)
 
 and so on for 940 mortal pages in foolscap!
 
@@ -381,4 +381,4 @@ reader will be rarely at fault.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](zan05)
+[Next: Chapter I](zan05.md)

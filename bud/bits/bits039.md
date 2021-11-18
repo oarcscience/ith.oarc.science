@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits038) [Next](bits040)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits038) [Next](bits040.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ their refuge; karma allots beings to meanness or greatness.'"
 
 ------------------------------------------------------------------------
 
-[Next: § 40. Fruitful and Barren Karma](bits040)
+[Next: § 40. Fruitful and Barren Karma](bits040.md)
 
  
 

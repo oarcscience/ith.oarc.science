@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat07.htm#XXXIX) 
-[Previous](satl038)  [Next](satl040) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat07.htm#XXXIX.md) 
+[Previous](satl038)  [Next](satl040.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ medio quasi ovum corrotundata, et omnia bona in se habet tanquam favus."
 
 ------------------------------------------------------------------------
 
-[Next: XL](satl040)
+[Next: XL](satl040.md)

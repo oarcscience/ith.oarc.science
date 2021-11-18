@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob33) 
-[Next](tob35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob33.md) 
+[Next](tob35.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob33) 
 
 <span id="img_wiar18"></span>
 
-![THE MOON.](img/wiar18.jpg)  
+![THE MOON.](img/wiar18.jpg.md)  
 THE MOON.
 
    <span id="img_msar18"></span>
 
-![THE MOON.](img/msar18.jpg)  
+![THE MOON.](img/msar18.jpg.md)  
 THE MOON.
 
 18\. צ
@@ -26,7 +26,7 @@ ORIGIN OF THE SYMBOLISM OF THE EIGHTEENTH CARD OF THE TAROT.
 The hieroglyphic idea connected with the Tzaddi is the same as that of
 the Teth (9th card); but it chiefly signifies a *term*, an aim, an end.
 It is a final concluding sign, relating to all the ideas of term, of
-secession, division and aim. <span id="fr_62"></span>[1](#fn_62)
+secession, division and aim. <span id="fr_62"></span>[1](#fn_62.md)
 
 The Tzaddi is a simple letter; it corresponds with the zodiacal sign of
 Aquarius.
@@ -121,7 +121,7 @@ forces gradually return to their common principle by *evolution*.
 
 ### Footnotes
 
-<span id="fn_62"></span>[174:1](tob34.htm#fr_62) Placed at the
+<span id="fn_62"></span>[174:1](tob34.htm#fr_62.md) Placed at the
 commencement of a word it indicates the movement which leads towards the
 end; placed at the end it marks the term itself to which it has tended;
 it then receives this form, ץ. It is derived from the letter Samech ס
@@ -130,4 +130,4 @@ other.
 
 ------------------------------------------------------------------------
 
-[Next: Constitution of the Universe](tob35)
+[Next: Constitution of the Universe](tob35.md)

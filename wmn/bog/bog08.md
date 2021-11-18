@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog07)  [Next](bog09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog07)  [Next](bog09.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ It and the Stars.
 
 ------------------------------------------------------------------------
 
-[Next: V](bog09)
+[Next: V](bog09.md)

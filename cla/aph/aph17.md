@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph16)  [Next](aph18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph16)  [Next](aph18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -155,7 +155,7 @@ morsels in little fragments and left the rest for the slaves.
 
 "Love," began Phrasilas, "is a word which has no meaning or which means
 everything at once, for it designates in turn two
-[irreconcilable](errata.htm#0) sentiments: Voluptuousness and passion. I
+[irreconcilable](errata.htm#0.md) sentiments: Voluptuousness and passion. I
 do not know in what sense Faustina means it."
 
 "I wish," interrupted Chrysis, "voluptuousness for my part and passion
@@ -489,4 +489,4 @@ couch and fled.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three. Rhacotis](aph18)
+[Next: Chapter Three. Rhacotis](aph18.md)

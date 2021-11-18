@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Classics](../index)  [Hesiod](index) 
-[Greek](gtheo)
+[Sacred-Texts](../../index)  [Classics](../index)  [Hesiod](index.md) 
+[Greek](gtheo.md)
 
 ------------------------------------------------------------------------
 

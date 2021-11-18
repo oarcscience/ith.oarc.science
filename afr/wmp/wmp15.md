@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp14)  [Next](wmp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp14)  [Next](wmp16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -132,7 +132,7 @@ is unmarried, his sister, must wear a sword day and night in order that
 he may be always thinking of his weapons; and she may not sleep during
 the day nor go to bed before two in the morning lest her husband or
 brother should thereby be surprised in his sleep by an enemy." <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 As an example of the way in which native customs are sometimes
 misunderstood by even the best-meaning of white men, it may perhaps be
@@ -166,7 +166,7 @@ the custom and was told, after considerable hesitation, that feminine
 aid was necessary *because Egbo was originally a woman's secret
 society*, until the men wrested from them its secrets, learnt the rites,
 and then drove out women from all participation therein. <span
-id="fr_31"></span>[1](#fn_31)
+id="fr_31"></span>[1](#fn_31.md)
 
 <span id="page_194">p. 194</span>
 
@@ -188,7 +188,7 @@ and hanged almost immediately. Their brother, who was a member of the
 highest grade of the society, was allowed as a great favour to be
 present at their death, and afterwards to carry home the bodies to his
 family. Of redress in such a case there could be neither hope nor
-thought." <span id="fr_32"></span>[1](#fn_32)
+thought." <span id="fr_32"></span>[1](#fn_32.md)
 
 Later we learned that the original discoverers of Egbo were some women
 of the Kamerun who went at dawn one morning to fish in the river. There,
@@ -221,7 +221,7 @@ intrude upon the secrets of a cult the mysteries of which had once been
 exclusively their own.
 
 That the most dreaded of all Ibibio secret societies, Ekkpo Njawhaw,
-i.e. Ghosts--The Destroyers, <span id="fr_33"></span>[1](#fn_33) was
+i.e. Ghosts--The Destroyers, <span id="fr_33"></span>[1](#fn_33.md) was
 originally also a woman's society is proved by the following story
 compiled from three accounts, only varying slightly in detail, which
 were collected from different parts of the District.
@@ -375,13 +375,13 @@ scars, which are still clearly to be seen.
 Another case concerned a little girl about eight years of age, also
 named Adiaha, who was rescued from being offered up to Ekkpo Njawhaw,
 after the sacrificial dress had been actually placed upon her. <span
-id="fr_34"></span>[1](#fn_34)
+id="fr_34"></span>[1](#fn_34.md)
 
 This Ibibio story of the revolt of man calls to mind a similar state of
 things, the memory of which is celebrated at the Fuegian festival, Kina.
 This was instituted to commemorate the rising of the males against the
 women "who formerly had the authority and possessed the secrets of
-sorcery." <span id="fr_35"></span>[2](#fn_35)
+sorcery." <span id="fr_35"></span>[2](#fn_35.md)
 
 <span id="page_201">p. 201</span>
 
@@ -417,7 +417,7 @@ but the greater ceremonies take
 place at the New Yam Festival. Eight days before the first of the new
 season's crop may be eaten, in any town where this society has gained a
 footing, the images must be carried forth in solemn procession and set
-up in the public square." <span id="fr_36"></span>[1](#fn_36)
+up in the public square." <span id="fr_36"></span>[1](#fn_36.md)
 
 On such occasions the figure of Eka Ekkpo stands in the midst, with a
 son on either hand. Sometimes the effigies of the two daughters are
@@ -450,7 +450,7 @@ that according to some peoples, for instance the Yaos and Wayisa of East
 Central Africa, death itself "was originally brought into the world by a
 woman who taught two men to go to sleep. One day, while they slumbered,
 she held the nostrils of one of them till his breath ceased, and he
-died." <span id="fr_37"></span>[1](#fn_37)
+died." <span id="fr_37"></span>[1](#fn_37.md)
 
 As has already been mentioned, if a woman chanced to witness an Ekkpo
 Njawhaw play, no matter how unwillingly, a member was singled out, and
@@ -498,35 +498,35 @@ latter account was afterwards corroborated by Akpabio of Awa.
 
 ### Footnotes
 
-<span id="fn_30"></span>[192:1](wmp15.htm#fr_30) "Magic and Fetishism,"
+<span id="fn_30"></span>[192:1](wmp15.htm#fr_30.md) "Magic and Fetishism,"
 p. 12. A. C. Haddon, F.R.S.
 
-<span id="fn_31"></span>[193:1](wmp15.htm#fr_31) A full description of
+<span id="fn_31"></span>[193:1](wmp15.htm#fr_31.md) A full description of
 the ceremony of "recalling the Egbo" will be found under the heading
 "Burial Rites" in my husband's book "By Haunted Waters."
 
-<span id="fn_32"></span>[194:1](wmp15.htm#fr_32) "In the Shadow of the
+<span id="fn_32"></span>[194:1](wmp15.htm#fr_32.md) "In the Shadow of the
 Bush," pp. 43-4. (Heinemann, London; George Doran, New York.)
 
-<span id="fn_33"></span>[195:1](wmp15.htm#fr_33) A full account of this
+<span id="fn_33"></span>[195:1](wmp15.htm#fr_33.md) A full account of this
 terrible society will be found in "By Haunted Waters."
 
-<span id="fn_34"></span>[200:1](wmp15.htm#fr_34) "By Haunted Waters." P.
+<span id="fn_34"></span>[200:1](wmp15.htm#fr_34.md) "By Haunted Waters." P.
 Amaury Talbot.
 
-<span id="fn_35"></span>[200:2](wmp15.htm#fr_35) "Les Origines du
+<span id="fn_35"></span>[200:2](wmp15.htm#fr_35.md) "Les Origines du
 Mariage et de la Famille," p. 448. Giraud Teulon.
 
-<span id="fn_36"></span>[202:1](wmp15.htm#fr_36) Edinburgh Review, July,
+<span id="fn_36"></span>[202:1](wmp15.htm#fr_36.md) Edinburgh Review, July,
 1914. P. Amaury Talbot.
 
-<span id="fn_37"></span>[203:1](wmp15.htm#fr_37) *Journ. Anthrop.
+<span id="fn_37"></span>[203:1](wmp15.htm#fr_37.md) *Journ. Anthrop.
 Inst.*, xxii., 111-12. J. Macdonald.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 14: Woman In War Time](wmp16)
+[Next: Chapter 14: Woman In War Time](wmp16.md)
 
 </div>

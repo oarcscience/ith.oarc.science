@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti07)  [Next](eti09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti07)  [Next](eti09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -183,7 +183,7 @@ ordinary, flesh-and-blood man;
 
 <span id="img_00700"></span> <span align="CENTER"> [![AND TO MY
 AMAZEMENT SAW A WHITE-HAIRED MAN.](tn/00700.jpg)  
-Click to enlarge](img/00700.jpg)  
+Click to enlarge](img/00700.jpg.md)  
 “AND TO MY AMAZEMENT SAW A WHITE-HAIRED MAN.”  
 </span>
 
@@ -328,7 +328,7 @@ conditionally."
 
 <span id="img_01200"></span> <span align="CENTER"> [![LET ME HAVE YOUR
 ANSWER NOW.](tn/01200.jpg)  
-Click to enlarge](img/01200.jpg)  
+Click to enlarge](img/01200.jpg.md)  
 “LET ME HAVE YOUR ANSWER NOW.”  
 </span>
 
@@ -391,7 +391,7 @@ of sleep.
 
 <span id="img_01400"></span> <span align="CENTER"> [![I ESPIED UPON THE
 TABLE A LONG WHITE HAIR.](tn/01400.jpg)  
-Click to enlarge](img/01400.jpg)  
+Click to enlarge](img/01400.jpg.md)  
 “I ESPIED UPON THE TABLE A LONG WHITE HAIR.  
 </span>
 
@@ -434,4 +434,4 @@ mind, he came no more.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. A Friendly Conference](eti09)
+[Next: Chapter II. A Friendly Conference](eti09.md)

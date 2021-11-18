@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb06)  [Next](vifb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb06)  [Next](vifb08.md) 
 
 </div>
 
@@ -300,6 +300,6 @@ husband, and there were great rejoicings throughout the land.
 
 ------------------------------------------------------------------------
 
-[Next: The Goat's Ears of the Emperor Trojan](vifb08)
+[Next: The Goat's Ears of the Emperor Trojan](vifb08.md)
 
 </div>

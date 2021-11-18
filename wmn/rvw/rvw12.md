@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw11)  [Next](rvw13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw11)  [Next](rvw13.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ It is so ordered.
 
 ------------------------------------------------------------------------
 
-[Next: Footnotes](rvw13)
+[Next: Footnotes](rvw13.md)

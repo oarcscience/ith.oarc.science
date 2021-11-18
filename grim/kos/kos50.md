@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos49)  [Next](kos51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos49)  [Next](kos51.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ it, sprinkle it, and place it aside in a silken cloth.
 Thou shalt have an Inkstand made of earth or any convenient matter, and
 in the day and hour of Mercury thou shalt engrave thereon with the Burin
 of Art these Names:--Yod, He, Vau, He, Metatron, Iah Iah Iah, Qadosch,
-Elohim Tzabaoth (*see [Figure 85](kos44.htm#img_kos14)*); and in putting
+Elohim Tzabaoth (*see [Figure 85](kos44.htm#img_kos14)*.md); and in putting
 the ink therein thou shalt say:--
 
 I exorcise thee, O Creature of Ink, by ANAIRETON, by SIMULATOR, and by
@@ -42,4 +42,4 @@ shalt exorcise, perfume, and sprinkle them in the usual manner.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Of the Pen of the Swallow And of the Crow](kos51)
+[Next: Chapter XV. Of the Pen of the Swallow And of the Crow](kos51.md)

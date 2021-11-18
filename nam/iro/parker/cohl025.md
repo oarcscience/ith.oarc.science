@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl024)  [Next](cohl026) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl024)  [Next](cohl026.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 "'This is what your people do.
 
-"'An old woman punished her children <span id="fr_29"></span>[1](#fn_29)
+"'An old woman punished her children <span id="fr_29"></span>[1](#fn_29.md)
 unjustly. The Creator is sad because of such things and bids us tell you
 that such practices must cease.' So they said.
 
@@ -31,7 +31,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_29"></span>[33:1](cohl025.htm#fr_29) Handsome Lake was ever
+<span id="fn_29"></span>[33:1](cohl025.htm#fr_29.md) Handsome Lake was ever
 the lover and champion of children. There are many instances in the
 Gaiwiio relating to the care and rearing of children. The mode of
 punishment here referred to was one of long usage. Sometimes the mother
@@ -48,4 +48,4 @@ punished.
 
 ------------------------------------------------------------------------
 
-[Next: Section 15](cohl026)
+[Next: Section 15](cohl026.md)

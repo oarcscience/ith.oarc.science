@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt04)  [Next](crt06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt04)  [Next](crt06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 ## <span id="Chapter_II"></span>CHAPTER II
 
-## CHRISTMAS POETRY (I)﻿ [8](crt24.htm#Footnote_8)<span id="FNanchor_8"></span>﻿ [2-1](crt22.htm#Note_2-1)<span id="Nanchor_2-1"></span>
+## CHRISTMAS POETRY (I)﻿ [8](crt24.htm#Footnote_8)<span id="FNanchor_8"></span>﻿ [2-1](crt22.htm#Note_2-1.md)<span id="Nanchor_2-1"></span>
 
 > Ancient Latin Hymns, their Dogmatic, Theological Character﻿—Humanizing
 > Influence of Franciscanism﻿—Jacopone da Todi's Vernacular
@@ -29,7 +29,7 @@ Intangible Textual Heritage
 <span id="image03"></span><span id="img_image03"></span>
 
 [![MADONNA ENTHRONED WITH SAINTS AND ANGELS.](tn/image03.jpg)  
-Click to enlarge](img/image03.jpg)  
+Click to enlarge](img/image03.jpg.md)  
   
 
 MADONNA ENTHRONED WITH SAINTS AND ANGELS.
@@ -68,8 +68,8 @@ feeling for the human pathos and poetry of the scene at Bethlehem﻿—
 <span class="i2">Sed mystico spiramine,</span>  
 <span class="i2">Verbum Dei factum caro,</span>  
 <span class="i2">Fructusque ventris
-floruit.”﻿ [9](crt24.htm#Footnote_9)<span
-id="FNanchor_9"></span>﻿ [2-2](crt22.htm#Note_2-2)<span
+floruit.”﻿ [9](crt24.htm#Footnote_9.md)<span
+id="FNanchor_9"></span>﻿ [2-2](crt22.htm#Note_2-2.md)<span
 id="Nanchor_2-2"></span> </span>  
 
 </div>
@@ -96,8 +96,8 @@ is
 <span class="i2">Ipse fons et clausula</span>  
 <span class="i2">Omnium quae sunt, fuerunt,</span>  
 <span class="i2">Quaeque post futura sunt</span>  
-<span class="i4">Saeculorum saeculis.”﻿ [10](crt24.htm#Footnote_10)<span
-id="FNanchor_10"></span>﻿ [2-3](crt22.htm#Note_2-3)<span
+<span class="i4">Saeculorum saeculis.”﻿ [10](crt24.htm#Footnote_10.md)<span
+id="FNanchor_10"></span>﻿ [2-3](crt22.htm#Note_2-3.md)<span
 id="Nanchor_2-3"></span> </span>  
 
 </div>
@@ -143,8 +143,8 @@ opening verses:﻿—
 <span class="i4">Sol de stella!</span>  
 <span class="i2">Sol occasum nesciens,</span>  
 <span class="i2">Stella semper rutilans,</span>  
-<span class="i4">Semper clara.”﻿ [11](crt24.htm#Footnote_11)<span
-id="FNanchor_11"></span>﻿ [2-4](crt22.htm#Note_2-4)<span
+<span class="i4">Semper clara.”﻿ [11](crt24.htm#Footnote_11.md)<span
+id="FNanchor_11"></span>﻿ [2-4](crt22.htm#Note_2-4.md)<span
 id="Nanchor_2-4"></span> </span>  
 
 </div>
@@ -180,7 +180,7 @@ the Church tamed and Christianized the barbarians, and both religion and
 culture till the middle of the twelfth century were predominantly
 monastic. “In writing of any eminently religious man of this period”
 \[the eleventh century\], says Dean Church, “it must be taken almost as
-a matter of course that he was a monk.”﻿ [2-5](crt22.htm#Note_2-5)<span
+a matter of course that he was a monk.”﻿ [2-5](crt22.htm#Note_2-5.md)<span
 id="Nanchor_2-5"></span> And a monastery was not the place for human
 feeling about Christmas; the monk was﻿—at any rate in ideal﻿—cut off
 from the world; not for him were the joys of parenthood or tender
@@ -207,7 +207,7 @@ and foreign agent, which destroys and shapes, but does not mingle or
 renew.... Society was a long time unlearning heathenism; it has not done
 so yet; but it had hardly begun, at any rate it was only just beginning,
 to imagine the possibility of such a thing in the eleventh
-century.”﻿ [2-6](crt22.htm#Note_2-6)<span id="Nanchor_2-6"></span>
+century.”﻿ [2-6](crt22.htm#Note_2-6.md)<span id="Nanchor_2-6"></span>
 
 “The practical religion of the illiterate,” says another ecclesiastical
 historian, Dr. W. R. W. Stephens, “was in many respects merely a
@@ -218,7 +218,7 @@ worship.... Fear, the note of superstition, rather than love, which is
 the characteristic of a rational faith, was conspicuous in much of the
 popular religion. The world was haunted by demons, hobgoblins, malignant
 spirits of divers kinds, whose baneful influence must be averted by
-charms or offerings.”﻿ [2-7](crt22.htm#Note_2-7)<span
+charms or offerings.”﻿ [2-7](crt22.htm#Note_2-7.md)<span
 id="Nanchor_2-7"></span>
 
 The writings of ecclesiastics, the decrees of councils and synods, from
@@ -250,8 +250,8 @@ typical:
 <span class="i4">Par mon conseil;</span>  
 <span class="i2">Si jo vus di trestoz, ‘Wesseyl!’</span>  
 <span class="i2">Dehaiz eit qui ne dirra,
-‘Drincheyl!’”﻿ [12](crt24.htm#Footnote_12)<span
-id="FNanchor_12"></span>﻿ [2-8](crt22.htm#Note_2-8)<span
+‘Drincheyl!’”﻿ [12](crt24.htm#Footnote_12.md)<span
+id="FNanchor_12"></span>﻿ [2-8](crt22.htm#Note_2-8.md)<span
 id="Nanchor_2-8"></span> </span>  
 
 </div>
@@ -274,7 +274,7 @@ Franciscan Jacopone da Todi (b. 1228, d. 1306). *Franciscan*, in that
 name we have an indication of the change in religious feeling that came
 over the western world, and <span id="page_37">p. 37</span> <span
 id="Page_37"></span>especially Italy, in the thirteenth
-century.﻿ [2-9](crt22.htm#Note_2-9)<span id="Nanchor_2-9"></span> For
+century.﻿ [2-9](crt22.htm#Note_2-9.md)<span id="Nanchor_2-9"></span> For
 the twenty all-too-short years of St. Francis's apostolate have passed,
 and a new attitude towards God and man and the world has become
 possible. Not that the change was due solely to St. Francis; he was
@@ -324,7 +324,7 @@ Greccio we shall read when we come to consider the *Presepio*. He had a
 peculiar affection for the festival of the Holy Child; “the Child
 Jesus,” says Thomas of Celano, “had been given over to forgetfulness in
 the hearts of many in whom, by the working of His grace, He was raised
-up again through His servant Francis.”﻿ [2-10](crt22.htm#Note_2-10)<span
+up again through His servant Francis.”﻿ [2-10](crt22.htm#Note_2-10.md)<span
 id="Nanchor_2-10"></span>
 
 To the Early Middle Ages Christ was the awful Judge, the *Rex tremendae
@@ -377,7 +377,7 @@ id="page_39">p. 39</span> <span id="Page_39"></span></span>
 <span class="i3">had no room in the inn.</span>  
 <span class="i2">Glory to God in the highest: and</span>  
 <span class="i3">on earth peace to men of good
-will.”﻿ [2-11](crt22.htm#Note_2-11)<span id="Nanchor_2-11"></span>
+will.”﻿ [2-11](crt22.htm#Note_2-11.md)<span id="Nanchor_2-11"></span>
 </span>  
 
 </div>
@@ -394,7 +394,7 @@ piccino” (“God made a little thing”) is the keynote of his music; the
 Christ Child is for him “our sweet little brother”; with tender
 affection he rejoices in endearing diminutives﻿—“Bambolino,”
 “Piccolino,” “Jesulino.” He sings of the Nativity with extraordinary
-realism.﻿ [13](crt24.htm#Footnote_13)<span id="FNanchor_13"></span>
+realism.﻿ [13](crt24.htm#Footnote_13.md)<span id="FNanchor_13"></span>
 Here, in words, is a picture of the Madonna and her Child that might
 well have inspired an early Tuscan artist:﻿—
 
@@ -430,8 +430,8 @@ well have inspired an early Tuscan artist:﻿—
 <span class="i2">Se ne gian danzando,</span>  
 <span class="i2">Facendo dolci versi</span>  
 <span class="i2">E d’ amor
-favellando.”﻿ [14](crt24.htm#Footnote_14)<span
-id="FNanchor_14"></span>﻿ [2-12](crt22.htm#Note_2-12)<span
+favellando.”﻿ [14](crt24.htm#Footnote_14.md)<span
+id="FNanchor_14"></span>﻿ [2-12](crt22.htm#Note_2-12.md)<span
 id="Nanchor_2-12"></span> </span>  
 
 </div>
@@ -447,7 +447,7 @@ Incarnation:﻿—
 <span id="image04"></span><span id="img_image04"></span>
 
 [![JACOPONE IN ECSTASY BEFORE THE VIRGIN.](tn/image04.jpg)  
-Click to enlarge](img/image04.jpg)  
+Click to enlarge](img/image04.jpg.md)  
   
 
 JACOPONE IN ECSTASY BEFORE THE VIRGIN.
@@ -484,8 +484,8 @@ From “Laude di Frate Jacopone da Todi”
 <span class="i2">In questo dì par che non sappia niente,</span>  
 <span class="i2">Guardal su’ l fieno, che gambetta piangente,</span>  
 <span class="i2">Como elli non fusse huomo
-divino.”﻿ [15](crt24.htm#Footnote_15)<span
-id="FNanchor_15"></span>﻿ [2-13](crt22.htm#Note_2-13)<span
+divino.”﻿ [15](crt24.htm#Footnote_15.md)<span
+id="FNanchor_15"></span>﻿ [2-13](crt22.htm#Note_2-13.md)<span
 id="Nanchor_2-13"></span> </span>  
 
 </div>
@@ -511,8 +511,8 @@ Infant Saviour:﻿—
 <span class="i3">Lo cor adempito</span>  
 <span class="i2">Dagiamoli fornito</span>  
 <span class="i2">Senza odio ne
-rancura.”﻿ [16](crt24.htm#Footnote_16)<span
-id="FNanchor_16"></span>﻿ [2-14](crt22.htm#Note_2-14)<span
+rancura.”﻿ [16](crt24.htm#Footnote_16.md)<span
+id="FNanchor_16"></span>﻿ [2-14](crt22.htm#Note_2-14.md)<span
 id="Nanchor_2-14"></span> </span>  
 
 </div>
@@ -538,8 +538,8 @@ Mater dolorosa”; he wrote also a joyous Christmas pendant to it:﻿—
 <span class="i2">Cujus animam gaudentem,</span>  
 <span class="i2">Laetabundam ac ferventem,</span>  
 <span class="i3">Pertransivit
-jubilus.”﻿ [17](crt24.htm#Footnote_17)<span
-id="FNanchor_17"></span>﻿ [2-15](crt22.htm#Note_2-15)<span
+jubilus.”﻿ [17](crt24.htm#Footnote_17.md)<span
+id="FNanchor_17"></span>﻿ [2-15](crt22.htm#Note_2-15.md)<span
 id="Nanchor_2-15"></span> </span>  
 
 </div>
@@ -547,7 +547,7 @@ id="Nanchor_2-15"></span> </span>
 </div>
 
 In the fourteenth century we find a blossoming forth of Christmas poetry
-in another land, Germany.﻿ [2-16](crt22.htm#Note_2-16)<span
+in another land, Germany.﻿ [2-16](crt22.htm#Note_2-16.md)<span
 id="Nanchor_2-16"></span> There are indeed Christmas and Epiphany
 passages in a poetical Life of Christ by Otfrid of Weissenburg in the
 ninth century, and a twelfth-century poem by Spervogel, “Er ist gewaltic
@@ -567,12 +567,12 @@ Divine Birth in the soul of the believer; according to Eckhart the soul
 comes into immediate union with God by “bringing forth the Son” within
 itself; the historic Christ is the symbol of the divine humanity to
 which the soul should rise: “when the soul bringeth forth the Son,” he
-says, “it is happier than Mary.”﻿ [2-17](crt22.htm#Note_2-17)<span
+says, “it is happier than Mary.”﻿ [2-17](crt22.htm#Note_2-17.md)<span
 id="Nanchor_2-17"></span> Several Christmas sermons by Eckhart have been
 preserved; one of them ends with the prayer, “To this Birth may that
 God, who to-day is new born as man, bring us, that we, poor children of
 earth, may be born in Him as God; to this may He bring us eternally!
-Amen.”﻿ [2-18](crt22.htm#Note_2-18)<span id="Nanchor_2-18"></span> With
+Amen.”﻿ [2-18](crt22.htm#Note_2-18.md)<span id="Nanchor_2-18"></span> With
 this profound doctrine of the Divine Birth, it was natural that the
 German mystics should enter deeply into the festival of Christmas, and
 one of the earliest of German Christmas carols, “Es komt ein schif
@@ -612,7 +612,7 @@ verses:﻿—
 <span class="i3">And rise to righteousness,</span>  
 <span class="i2">That so with Christ he too may share</span>  
 <span class="i3">Eternal life and
-bliss.”﻿ [2-19](crt22.htm#Note_2-19)<span id="Nanchor_2-19"></span>
+bliss.”﻿ [2-19](crt22.htm#Note_2-19.md)<span id="Nanchor_2-19"></span>
 </span>  
 
 </div>
@@ -641,8 +641,8 @@ sung in both Catholic and Protestant Germany:﻿—
 <span class="i2">Aus Gottes ew'gem Rat</span>  
 <span class="i2">Hat sie ein Kind geboren</span>  
 <span class="i2">Wohl zu der halben
-Nacht.”﻿ [18](crt24.htm#Footnote_18)<span
-id="FNanchor_18"></span>﻿ [2-20](crt22.htm#Note_2-20)<span
+Nacht.”﻿ [18](crt24.htm#Footnote_18.md)<span
+id="FNanchor_18"></span>﻿ [2-20](crt22.htm#Note_2-20.md)<span
 id="Nanchor_2-20"></span> </span>  
 
 </div>
@@ -676,14 +676,14 @@ gloriae*</span>
 <span class="i2">Quhair that the Angellis sing *Nova cantica*,</span>  
 <span class="i2">Bot and the bellis ring *in regis curia*,</span>  
 <span class="i2">God gif I war thair, God gif I war
-thair.”﻿ [2-21](crt22.htm#Note_2-21)<span id="Nanchor_2-21"></span>
+thair.”﻿ [2-21](crt22.htm#Note_2-21.md)<span id="Nanchor_2-21"></span>
 </span>  
 
 </div>
 
 </div>
 
-The music of “In dulci jubilo”﻿ [19](crt24.htm#Footnote_19)<span
+The music of “In dulci jubilo”﻿ [19](crt24.htm#Footnote_19.md)<span
 id="FNanchor_19"></span> has, with all its religious feeling, something
 of the nature of a dance, and unites in a strange fashion solemnity,
 playfulness, and ecstatic delight. No other air, perhaps, shows so
@@ -704,8 +704,8 @@ the beginning of one such:﻿—
 <span class="i2">die atmizten über das hailig kint</span>  
 <span class="i2">gar unverborgen.</span>  
 <span class="i2">Der ain raines herze hat, der darf nit
-sorgen.”﻿ [20](crt24.htm#Footnote_20)<span
-id="FNanchor_20"></span>﻿ [2-22](crt22.htm#Note_2-22)<span
+sorgen.”﻿ [20](crt24.htm#Footnote_20.md)<span
+id="FNanchor_20"></span>﻿ [2-22](crt22.htm#Note_2-22.md)<span
 id="Nanchor_2-22"></span> </span>  
 
 </div>
@@ -719,7 +719,7 @@ This carol type lasted, and continued to develop, in Austria and the
 Catholic parts of Germany through the sixteenth, seventeenth, and
 eighteenth centuries, and even in the nineteenth. In Carinthia in the
 early nineteenth century, almost every parish had its local poet, who
-added new songs to the old treasury.﻿ [2-23](crt22.htm#Note_2-23)<span
+added new songs to the old treasury.﻿ [2-23](crt22.htm#Note_2-23.md)<span
 id="Nanchor_2-23"></span> Particularly popular were the *Hirtenlieder*
 or shepherd songs, in which the peasant worshippers joined themselves to
 the shepherds of Bethlehem, and sought to share their devout <span
@@ -745,8 +745,8 @@ gschwind.</span>
 <span class="i2">Thua unser gedenken, verzeich unser Sünd.</span>  
 <span class="i2">Es freut uns von Herzen dass d'ankomen bist;</span>  
 <span class="i2">Es hätt uns ja niemand zu helfen
-gewist.”﻿ [21](crt24.htm#Footnote_21)<span
-id="FNanchor_21"></span>﻿ [2-24](crt22.htm#Note_2-24)<span
+gewist.”﻿ [21](crt24.htm#Footnote_21.md)<span
+id="FNanchor_21"></span>﻿ [2-24](crt22.htm#Note_2-24.md)<span
 id="Nanchor_2-24"></span> </span>  
 
 </div>
@@ -780,8 +780,8 @@ And what fatherly affection is here:﻿—
 <span class="i2">Liess i brav hoazen ein,</span>  
 <span class="i2">Do in den Stâl kimt überâl</span>  
 <span class="i2">Der kalte Wind
-herein.”﻿ [22](crt24.htm#Footnote_22)<span
-id="FNanchor_22"></span>﻿ [2-25](crt22.htm#Note_2-25)<span
+herein.”﻿ [22](crt24.htm#Footnote_22.md)<span
+id="FNanchor_22"></span>﻿ [2-25](crt22.htm#Note_2-25.md)<span
 id="Nanchor_2-25"></span> </span>  
 
 </div>
@@ -814,7 +814,7 @@ writes:﻿—
 
 and then follows a collection of twenty-five songs, some of which are
 genuine Christmas carols, as one now understands the
-word.﻿ [2-26](crt22.htm#Note_2-26)<span id="Nanchor_2-26"></span>
+word.﻿ [2-26](crt22.htm#Note_2-26.md)<span id="Nanchor_2-26"></span>
 
 A carol, in the modern English sense, may perhaps be defined as a
 religious song, less formal and solemn than the ordinary Church hymn﻿—an
@@ -842,7 +842,7 @@ common outcry of the dancers as they leaped around.
 
 Awdlay's carols are perhaps meant to be sung by “wassailing neighbours,
 who make their rounds at Christmastide to drink a cup and take a gift,
-and bring good fortune upon the house”﻿ [2-27](crt22.htm#Note_2-27)<span
+and bring good fortune upon the house”﻿ [2-27](crt22.htm#Note_2-27.md)<span
 id="Nanchor_2-27"></span> ﻿—predecessors of those carol-singers of rural
 England in the nineteenth century, whom Mr. Hardy depicts so
 delightfully in “Under the Greenwood Tree.” Carol-singing by a band of
@@ -856,7 +856,7 @@ the last half of the fourteenth century. They seem indeed to be the
 later blossomings of the great springtime of English literature, the
 period which produced Chaucer and Langland, an innumerable company of
 minstrels and ballad-makers, and the mystical poet, Richard Rolle of
-Hampole.﻿ [23](crt24.htm#Footnote_23)<span id="FNanchor_23"></span>
+Hampole.﻿ [23](crt24.htm#Footnote_23.md)<span id="FNanchor_23"></span>
 
 Through the fifteenth century and the first half of the sixteenth, the
 flowering continued; and something like two hundred carols of this
@@ -871,7 +871,7 @@ may have been the work of *goliards* or wandering scholars, and a common
 feature is the interweaving of Latin with English words.
 
 Some, like the exquisite “I sing of a maiden that is
-makeles,”﻿ [2-29](crt22.htm#Note_2-29)<span id="Nanchor_2-29"></span>
+makeles,”﻿ [2-29](crt22.htm#Note_2-29.md)<span id="Nanchor_2-29"></span>
 are rather songs to or about the Virgin than strictly Christmas carols;
 the Annunciation rather than the Nativity is their theme. Others again
 tell the whole story of Christ's life. The feudal idea is strong in such
@@ -884,7 +884,7 @@ lines as these:﻿—
 <span class="i15">“Mary is quene of allë thinge,</span>  
 <span class="i2">And her sone a lovely kinge.</span>  
 <span class="i2">God graunt us allë good endinge!</span>  
-<span class="i5">*Regnat dei gracia*.”﻿ [2-30](crt22.htm#Note_2-30)<span
+<span class="i5">*Regnat dei gracia*.”﻿ [2-30](crt22.htm#Note_2-30.md)<span
 id="Nanchor_2-30"></span> </span>  
 
 </div>
@@ -905,7 +905,7 @@ rather than as one whose soul is athirst for God:﻿—
 <span class="i2">Now man in heven an hie shall wonne;</span>  
 <span class="i2">Blessëd be God this game is begonne</span>  
 <span class="i3">And his moder emperesse of
-helle.”﻿ [2-31](crt22.htm#Note_2-31)<span id="Nanchor_2-31"></span>
+helle.”﻿ [2-31](crt22.htm#Note_2-31.md)<span id="Nanchor_2-31"></span>
 </span>  
 
 </div>
@@ -936,7 +936,7 @@ great event of Christmas:﻿—
 <span class="i2">For every man to hell gan go.</span>  
 <span class="i2">It was litel mery tho,</span>  
 <span class="i3">Till on the Cristmes
-day.”﻿ [2-32](crt22.htm#Note_2-32)<span id="Nanchor_2-32"></span>
+day.”﻿ [2-32](crt22.htm#Note_2-32.md)<span id="Nanchor_2-32"></span>
 </span>  
 
 </div>
@@ -969,7 +969,7 @@ indeed:﻿—
 <span class="i2">And pray that child that is so free;</span>  
 <span class="i2">And with gode hertë now sing we</span>  
 <span class="i5">*Gloria tibi
-domine*.”﻿ [2-33](crt22.htm#Note_2-33)<span id="Nanchor_2-33"></span>
+domine*.”﻿ [2-33](crt22.htm#Note_2-33.md)<span id="Nanchor_2-33"></span>
 </span>  
 
 </div>
@@ -1018,7 +1018,7 @@ little more than a gay pastoral song:﻿—
 <span class="i2">And also look unto my shepe.’</span>  
 <span class="i9">Ut hoy!</span>  
 <span class="i3">For in his pipe he made so much
-joy.”﻿ [2-34](crt22.htm#Note_2-34)<span id="Nanchor_2-34"></span>
+joy.”﻿ [2-34](crt22.htm#Note_2-34.md)<span id="Nanchor_2-34"></span>
 </span>  
 
 </div>
@@ -1077,7 +1077,7 @@ there is the thought of the sword that shall pierce Mary's bosom:﻿—
 <span class="i3">And die as it is skill.</span>  
 <span class="i2">That I have bought lesse will I nought;</span>  
 <span class="i3">It is my fader's
-will.’”﻿ [2-35](crt22.htm#Note_2-35)<span id="Nanchor_2-35"></span>
+will.’”﻿ [2-35](crt22.htm#Note_2-35.md)<span id="Nanchor_2-35"></span>
 </span>  
 
 </div>
@@ -1106,7 +1106,7 @@ of the carols. Here is an exquisitely musical verse from one of 1530:﻿—
 <span class="i3">*Rockëd I my child.*</span>  
 <span class="i2">*By-by, by-by, by-by, lullaby,*</span>  
 <span class="i3">*Rockëd I my
-child.* ”﻿ [2-36](crt22.htm#Note_2-36)<span id="Nanchor_2-36"></span>
+child.* ”﻿ [2-36](crt22.htm#Note_2-36.md)<span id="Nanchor_2-36"></span>
 </span>  
 
 </div>
@@ -1122,4 +1122,4 @@ id="page_55">p. 55</span> <span id="Page_55"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Christmas Poetry (II)](crt06)
+[Next: Chapter III. Christmas Poetry (II)](crt06.md)

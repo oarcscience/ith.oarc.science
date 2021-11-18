@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](tah02)  [Next](tah04) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](tah02)  [Next](tah04.md) 
 
 ------------------------------------------------------------------------
 
@@ -222,4 +222,4 @@ the first of Muhammadan divines."
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](tah04)
+[Next: Introduction](tah04.md)

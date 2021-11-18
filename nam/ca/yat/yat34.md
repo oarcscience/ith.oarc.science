@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat33)  [Next](yat35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat33)  [Next](yat35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### XI. COYOTE AND THE STUMP. <span id="fr_168"></span>[345](#fn_163)
+### XI. COYOTE AND THE STUMP. <span id="fr_168"></span>[345](#fn_163.md)
 
 Coyote went to P‘ā'wi one day. It was early in the morning and it was
 very foggy. He met some one in the trail. Coyote stooped. "Whew! I'm
@@ -40,11 +40,11 @@ fighting that stump."
 
 ### Footnotes
 
-<span id="fn_163"></span>[227:345](yat34.htm#fr_168) In Dr. Dixon's
+<span id="fn_163"></span>[227:345](yat34.htm#fr_168.md) In Dr. Dixon's
 manuscript this incident is immediately preceded by the story of Coyote
 and Frost (see no. VII of texts). It is practically a version of the
 world-wide "Tar Baby" myth. A very similar myth is told by the Takelmas.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Loon Woman](yat35)
+[Next: XII. Loon Woman](yat35.md)

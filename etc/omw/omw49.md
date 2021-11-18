@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw48)  [Next](omw50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw48)  [Next](omw50.md) 
 
 ------------------------------------------------------------------------
 
@@ -264,4 +264,4 @@ day to this there has been neither tale nor tidings of Prince Bran.
 ------------------------------------------------------------------------
 
 [Next: Pwyll, Prince of Dyfed and His Visit to Annwfn, the Realm of
-Faërie](omw50)
+Faërie](omw50.md)

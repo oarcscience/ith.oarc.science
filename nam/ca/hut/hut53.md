@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut52)  [Next](hut54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut52)  [Next](hut54.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # L.
 
-### Formula of Medicine for Purification of One Who has Buried the Dead. <span id="fr_102"></span>[1](#fn_102)
+### Formula of Medicine for Purification of One Who has Buried the Dead. <span id="fr_102"></span>[1](#fn_102.md)
 
 <span id="page_357">p. 357</span>
 
@@ -101,11 +101,11 @@ will be easy for you to get. You will possess dentalia."
 
 ### Footnotes
 
-<span id="fn_102"></span>[351:1](hut53.htm#fr_102) Told at Hupa, June
+<span id="fn_102"></span>[351:1](hut53.htm#fr_102.md) Told at Hupa, June
 1901, by Mary Marshall, who learned it from an aged relative and
 employed it after his death.
 
 ------------------------------------------------------------------------
 
 [Next: LI. Formula of Medicine for the Purification of Those Who Have
-Buried the Dead](hut54)
+Buried the Dead](hut54.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm94)  [Next](pnm96) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm94)  [Next](pnm96.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -427,7 +427,7 @@ and Brotherhood of Mystics.
 Foremost, procure unto thyself the following materials from Messrs. de
 Laurence, Scott & Co., with which to make your own Opaque Magic Mirror.
 
-One Convexo-Concave superior transparent glass[\*](pnm95.htm#an_n295)
+One Convexo-Concave superior transparent glass[\*](pnm95.htm#an_n295.md)
 which has a perfect and complete sphericity of form on the properly
 indicated side; manufactured by a certain secret process and formed by
 infusing silicious matter with fixed alkalies; but so constructed
@@ -508,7 +508,7 @@ materials from them or not, or whether he is imposing upon you.
 
 They also sell, at a small cost, an excellent sphere or Crystal, which
 no Mystic or Adept ever thinks of being without. **See pages
-[308](pnm96.htm#page_306)-309**.
+[308](pnm96.htm#page_306.md)-309**.
 
 A Mystic or real Adept would be in no better shape to carry on Occult or
 Mystical work without his Rock Crystal or "Hindu Beryl," or an imported
@@ -530,7 +530,7 @@ name is as well known in South Africa, Gold Coast Africa, India and
 British West Indies as it is in Europe and the United States. After a
 careful canvass and checking up of sales it was found that there was not
 a city nor town in the United States but what sheltered one or more
-[students](errata.htm#10) who had purchased and studied this famous
+[students](errata.htm#10.md) who had purchased and studied this famous
 man's books.
 
 Another thing students have this firm to thank for is their bold manner
@@ -731,7 +731,7 @@ power that will
 <span id="page_300">p. 300</span>
 
 make you a power and a Mystic. Remember, Brother and Sister, that each
-should give [according](errata.htm#11) to his or her ability and will
+should give [according](errata.htm#11.md) to his or her ability and will
 receive according to his or her capacity.
 
 This development, this inspiration, this Astral unfoldment, this
@@ -891,7 +891,7 @@ obtain as many brothers and sisters as you can.
 They can either have you make them a Magic Mirror or send for materials
 to make one and thereby become a member of our Brotherhood of Mystics.
 
-It [becomes](errata.htm#12) your plain duty to do this, especially
+It [becomes](errata.htm#12.md) your plain duty to do this, especially
 should they be influenced or inclined to apply to you by their Astral
 influence and not as the direct result of printed matter or
 advertisement.
@@ -1090,4 +1090,4 @@ are destined to melt as snow beneath the Sun of Aries.
 
 ------------------------------------------------------------------------
 
-[Next: The Hindu Magic Mirror](pnm96)
+[Next: The Hindu Magic Mirror](pnm96.md)

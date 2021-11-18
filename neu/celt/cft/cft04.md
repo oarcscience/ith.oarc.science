@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cft03)  [Next](cft05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cft03)  [Next](cft05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Celtic Fairy Tales*, by Joseph Jacobs, \[1892\], at Intangible Textual
 Heritage
 
@@ -80,7 +80,7 @@ But when the last day of the month of waiting came, Connla stood by the
 side of the king his father on the Plain of Arcomin, and again he saw
 the maiden come towards him, and again she spoke to him.
 
-<span id="img_00200"></span> ![The Sea-Maiden](img/00200.jpg)  
+<span id="img_00200"></span> ![The Sea-Maiden](img/00200.jpg.md)  
 The Sea-Maiden
 
 <span id="page_3">p. 3</span>
@@ -129,4 +129,4 @@ sea, and were no more seen, nor did any know where they came.
 
 ------------------------------------------------------------------------
 
-[Next: Guleesh](cft05)
+[Next: Guleesh](cft05.md)

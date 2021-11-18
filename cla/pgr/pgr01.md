@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pgr00)  [Next](pgr02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pgr00)  [Next](pgr02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 The First Two Chapters of *Prolegomena to the Study of Greek Religion*,
 by Jane Ellen Harrison, \[1922\], at Intangible Textual Heritage
 
@@ -417,4 +417,4 @@ JANE ELLEN HARRISON.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](pgr02)
+[Next: Table of Contents](pgr02.md)

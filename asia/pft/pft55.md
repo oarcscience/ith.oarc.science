@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft54)  [Next](pft56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft54)  [Next](pft56.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 
 When the world first began there was no land, but only the stea and the
 sky, and between them was a kite.  <span
-id="fr_153"></span>[154](pft68.htm#fn_153) One day the bird which had
+id="fr_153"></span>[154](pft68.htm#fn_153.md) One day the bird which had
 nowhere to light grew tired of flying about, so she stirred up the sea
 until it threw its waters against the sky. The sky, in order to restrain
 the sea, showered upon it many islands until it could no longer rise,
@@ -56,8 +56,8 @@ themselves in the walls became slaves. Those who ran outside were free
 men; and those who hid in the fireplace became negroes; while those who
 fled to the sea were gone many years, and when their children came back
 they were the white people.  <span
-id="fr_154"></span>[155](pft68.htm#fn_154)
+id="fr_154"></span>[155](pft68.htm#fn_154.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Benito](pft56)
+[Next: The Story of Benito](pft56.md)

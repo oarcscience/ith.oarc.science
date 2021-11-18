@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi049)  [Next](mtsi051) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi049)  [Next](mtsi051.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ A Panther met a Raccoon and was about to eat him, when the Raccoon said:
 eat me. Let me find a way for both of us to get plenty to eat."
 
 The Panther agreed, and the Raccoon said: "You make out you are dead.
-Lie down and stretch out. I will get some [rotten](errata.htm#0) wood
+Lie down and stretch out. I will get some [rotten](errata.htm#0.md) wood
 and stuff it into your eyes, mouth and nose, to look like flyblows. Then
 I will tell the Deer that you are dead, and get a crowd of them to come
 and dance around your body. I will sit at your head and beat the drum
@@ -46,4 +46,4 @@ killed the buck.
 ------------------------------------------------------------------------
 
 [Next: 49. Rabbit Engineers a Tug of War Between Two
-Tie-Snakes](mtsi051)
+Tie-Snakes](mtsi051.md)

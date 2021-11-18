@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Next](crt01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Next](crt01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Intangible Textual Heritage
 <span id="image01"></span><span id="img_image01"></span>
 
 [![THE ADORATION OF THE MAGI (DETAIL).](tn/image01.jpg)  
-Click to enlarge](img/image01.jpg)  
+Click to enlarge](img/image01.jpg.md)  
   
 
 THE ADORATION OF THE MAGI (DETAIL).
@@ -44,4 +44,4 @@ GENTILE DA FABRIANO
 
 ------------------------------------------------------------------------
 
-[Next: Preface](crt01)
+[Next: Preface](crt01.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](saw00)  [Next](saw02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](saw00)  [Next](saw02.md) 
 
 ------------------------------------------------------------------------
 
@@ -369,4 +369,4 @@ Gael.
 
 ------------------------------------------------------------------------
 
-[Next: Book Two. Columcille, The Friend of the Angels of God](saw02)
+[Next: Book Two. Columcille, The Friend of the Angels of God](saw02.md)

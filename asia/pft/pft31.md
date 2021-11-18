@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft30)  [Next](pft32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft30)  [Next](pft32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,12 +14,12 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE SERPENT EAGLE  <span id="fr_106"></span>[107](pft68.htm#fn_106)
+### THE SERPENT EAGLE  <span id="fr_106"></span>[107](pft68.htm#fn_106.md)
 
 *Igorot*
 
 Once there lived two boys whose mother sent them every day to the forest
-to get wood  <span id="fr_107"></span>[108](pft68.htm#fn_107) for her
+to get wood  <span id="fr_107"></span>[108](pft68.htm#fn_107.md) for her
 fires. Each morning, as they started out, she gave them some food for
 their trip, but it was always poor and there was little of it, and she
 would say:
@@ -80,4 +80,4 @@ called:
 
 ------------------------------------------------------------------------
 
-[Next: The Tattooed Men](pft32)
+[Next: The Tattooed Men](pft32.md)

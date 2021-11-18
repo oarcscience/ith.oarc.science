@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi08)  [Next](hpi10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi08)  [Next](hpi10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ governing various cases,
 <span id="page_38">p. 38</span>
 
 from which the conduct proper in a particular case might be deduced
-(*i.e.* syllogistically) <span id="fr_8"></span>[1](#fn_8).
+(*i.e.* syllogistically) <span id="fr_8"></span>[1](#fn_8.md).
 
 The application of Qiyas appears to have come into use, first and most
 extensively, in the Hanifite school, but afterwards also in the school
@@ -139,7 +139,7 @@ matter of indifference:
 <span id="page_40">p. 40</span>
 
 5\. Acts which are forbidden by the Law and which demand unconditional
-punishment <span id="fr_9"></span>[1](#fn_9).
+punishment <span id="fr_9"></span>[1](#fn_9.md).
 
 4\. Greek philosophic enquiries have had a two-fold influence upon the
 Ethics of Islam. With many of the sectaries and mystics, both orthodox
@@ -185,15 +185,15 @@ unpractical.
 
 ### Footnotes
 
-<span id="fn_8"></span>[38:1](hpi09.htm#fr_8) Examples of both methods
+<span id="fn_8"></span>[38:1](hpi09.htm#fr_8.md) Examples of both methods
 occur, but usually *Qiyas* is equivalent to *Analogy*. However, in the
 philosophical terminology which owes its origin to the Translators,
 *Qiyas* always stands for συλλογισμός, while ἀναλογία is rendered by the
 Arabic *mithl*.
 
-<span id="fn_9"></span>[40:1](hpi09.htm#fr_9) Cf. Snouck Hurgronje in
+<span id="fn_9"></span>[40:1](hpi09.htm#fr_9.md) Cf. Snouck Hurgronje in
 ZDMG, LIII p. 155.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Doctrinal Systems](hpi10)
+[Next: 3. Doctrinal Systems](hpi10.md)

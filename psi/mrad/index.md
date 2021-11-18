@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mrad00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mrad.txt.gz)
+[Contents](#contents)    [Start Reading](mrad00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mrad.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ Psychology Department at Duke University, who wrote the introduction for
 this edition, conducted his own experiments with Craig. McDougal and
 J.B. Rhine later went on to found the Parapsychology Laboratory at Duke,
 which conducted the [first academic investigations of
-ESP](../esp/index). Walter Franklin Price, founder of the Boston Society
+ESP](../esp/index.md). Walter Franklin Price, founder of the Boston Society
 for Psychical Research, asked the Sinclairs if he could analyze their
 research notes. In April 1932, Price published an analysis of the
 Sinclair experiments in the Society's *Bulletin* in which he concluded
@@ -86,31 +86,31 @@ a slow Internet connection.--<span class="small">*J.B. Hare, May 15,
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mrad00)  
-[Introduction](mrad01)  
-[Chapter I](mrad02)  
-[Chapter II](mrad03)  
-[Chapter III](mrad04)  
-[Chapter IV](mrad05)  
-[Chapter V](mrad06)  
-[Chapter VI](mrad07)  
-[Chapter VII](mrad08)  
-[Chapter VIII](mrad09)  
-[Chapter IX](mrad10)  
-[Chapter X](mrad11)  
-[Chapter XI](mrad12)  
-[Chapter XII](mrad13)  
-[Chapter XIII](mrad14)  
-[Chapter XIV](mrad15)  
-[Chapter XV](mrad16)  
-[Chapter XVI](mrad17)  
-[Chapter XVII](mrad18)  
-[Chapter XVIII](mrad19)  
-[Chapter XIX](mrad20)  
-[Chapter XX](mrad21)  
-[Chapter XXI](mrad22)  
-[Chapter XXII](mrad23)  
-[Chapter XXIII](mrad24)  
-[Chapter XXIV](mrad25)  
-[Chapter XXV](mrad26)  
-[Chapter XXVI](mrad27)  
+<span id="contents"></span> [Title Page](mrad00.md)  
+[Introduction](mrad01.md)  
+[Chapter I](mrad02.md)  
+[Chapter II](mrad03.md)  
+[Chapter III](mrad04.md)  
+[Chapter IV](mrad05.md)  
+[Chapter V](mrad06.md)  
+[Chapter VI](mrad07.md)  
+[Chapter VII](mrad08.md)  
+[Chapter VIII](mrad09.md)  
+[Chapter IX](mrad10.md)  
+[Chapter X](mrad11.md)  
+[Chapter XI](mrad12.md)  
+[Chapter XII](mrad13.md)  
+[Chapter XIII](mrad14.md)  
+[Chapter XIV](mrad15.md)  
+[Chapter XV](mrad16.md)  
+[Chapter XVI](mrad17.md)  
+[Chapter XVII](mrad18.md)  
+[Chapter XVIII](mrad19.md)  
+[Chapter XIX](mrad20.md)  
+[Chapter XX](mrad21.md)  
+[Chapter XXI](mrad22.md)  
+[Chapter XXII](mrad23.md)  
+[Chapter XXIII](mrad24.md)  
+[Chapter XXIV](mrad25.md)  
+[Chapter XXV](mrad26.md)  
+[Chapter XXVI](mrad27.md)  

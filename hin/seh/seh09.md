@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh08)  [Next](seh10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh08)  [Next](seh10.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ some central authority, which persisted long enough not only to
 pronounce authentically on disputable matters, but also to radiate as
 custom what had been thus determined. This central authority exists in
 India as the empire whose seat for nearly a thousand years was
-Pataliputra. <span id="fr_1"></span>[1](#fn_1) By its rulings was
+Pataliputra. <span id="fr_1"></span>[1](#fn_1.md) By its rulings was
 Hinduism, in so far as it is universal throughout the country, shaped
 and determined, and in order to know exactly what this was in its daily
 working, it would be necessary to study in.
@@ -185,11 +185,11 @@ a name without a person, a face without a soul.
 
 ### Footnotes
 
-<span id="fn_1"></span>[29:1](seh09.htm#fr_1) Pataliputra, on the site
+<span id="fn_1"></span>[29:1](seh09.htm#fr_1.md) Pataliputra, on the site
 of the modern Patna, in Behar; capital of the ancient kingdom of
 Magadha, described by Megasthenes; in the third century B.C. the
 metropolis of the Emperor Asoka.
 
 ------------------------------------------------------------------------
 
-[Next: Dol-Jatra](seh10)
+[Next: Dol-Jatra](seh10.md)

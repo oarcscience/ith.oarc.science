@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ for the Pâli *Itivuttaka* is one of the jewels of the Canon.\]
    Hermann Oldenberg, in his pioneer essay on the Canon (1879) threw
 grave doubts upon the historicity of the First Council, as Suzuki now
 reminds us. Rhys Davids, while admitting the doubt, subtracted from its
-cogency. ([*S. B. E.*, XI., Introd.](../../bud/sbe11/sbe1102), 1881.)
+cogency. ([*S. B. E.*, XI., Introd.](../../bud/sbe11/sbe1102), 1881..md)
 For that doubt is based upon the argument from silence, viz: the silence
 of the *Decease Book* upon any convocation, while yet reporting the very
 speech of Subhadra which, according to the Council Appendix, gave rise
@@ -111,7 +111,7 @@ foremost among those who could accurately expand an utterance of the
 Master's which had been spoken concisely*. (*Anguttara* I., 14). The
 Middling Collection adds that Buddha complimented Kaccâna upon his
 ability to do this. (*Majjhima*, No. 18.) The same Nikâya ([No.
-84](../jras/1894-14)) tells us that Kaccâna converted the King of Avanti
+84](../jras/1894-14).md) tells us that Kaccâna converted the King of Avanti
 after Buddha's decease, and the monarch was ready to take him for his
 master. Besides this learned Kaccâna, there was Ânanda learned in the
 Suttas, Upâli in the Vinaya; while others, both clerical and lay, were
@@ -163,7 +163,7 @@ year through the long decades of his life-work, and
 \[1. *Dîpavamsa* 4 and 5.
 
 2\. Cf. "Gospel Parallels from Pâli Texts," in *The Open Court* for
-[January, 1901](../oc/gppt5.htm#page_45).\]
+[January, 1901](../oc/gppt5.htm#page_45.md).\]
 
 <span id="page_256">p. 256</span> they could not have done without one
 when he was no more. Again does the *Decease Book* come to our aid:
@@ -1418,4 +1418,4 @@ TEITARO SUZUKI.      
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Buddhist Articles](../../bud/etc/index)
+[Journals](../index) [Buddhist Articles](../../bud/etc/index.md)

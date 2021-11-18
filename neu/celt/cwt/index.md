@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,18 +22,18 @@ Legends](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](cwt00)  
-[The Earth Shapers](cwt01)  
-[The Spear of Victory](cwt02)  
-[A Good Action](cwt03)  
-[How the Son of Gobhaun Saor Sold the Sheepskin](cwt04)  
-[How the Son of Gobhaun Saor Shortened the Road](cwt05)  
-[The Cow of Plenty](cwt06)  
-[The Coming of Lugh](cwt07)  
-[The Eric-Fine of Lugh](cwt08)  
-[The Great Battle](cwt09)  
-[Inisfail](cwt10)  
-[The Golden Fly](cwt11)  
-[The Children of Lir](cwt12)  
-[The Luck-Child](cwt13)  
-[Conary Mor](cwt14)  
+[Title Page](cwt00.md)  
+[The Earth Shapers](cwt01.md)  
+[The Spear of Victory](cwt02.md)  
+[A Good Action](cwt03.md)  
+[How the Son of Gobhaun Saor Sold the Sheepskin](cwt04.md)  
+[How the Son of Gobhaun Saor Shortened the Road](cwt05.md)  
+[The Cow of Plenty](cwt06.md)  
+[The Coming of Lugh](cwt07.md)  
+[The Eric-Fine of Lugh](cwt08.md)  
+[The Great Battle](cwt09.md)  
+[Inisfail](cwt10.md)  
+[The Golden Fly](cwt11.md)  
+[The Children of Lir](cwt12.md)  
+[The Luck-Child](cwt13.md)  
+[Conary Mor](cwt14.md)  

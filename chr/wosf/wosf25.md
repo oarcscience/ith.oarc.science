@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](wosf24)  [Next](wosf26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](wosf24)  [Next](wosf26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Bollandus, etc. (ed. 3).
 Prof. Alessandri: *Inventario dei Manoscritti della biblioteca del conv.
 di S. Francesco di Assisi*. Forli, 1894.
 
-*Analecta Bollandiana*. <span id="fr_626"></span>[1](#fn_626) Brussels.
+*Analecta Bollandiana*. <span id="fr_626"></span>[1](#fn_626.md) Brussels.
 
 *Analecta Franciscana*. Quaracchi.
 
@@ -44,7 +44,7 @@ Portiuncula*. Ed. Sabatier, Paris, 1900.
 
 Fr. Bartholomaeus Pisanus, O.F.M.: *De Conformitate Vitae B. Francisci
 ad vitam D. N. Jesu Christi*. Milan, 1510. <span
-id="fr_627"></span>[2](#fn_627)
+id="fr_627"></span>[2](#fn_627.md)
 
 <span id="page_190">p. 190</span>
 
@@ -105,7 +105,7 @@ Fr. Thomas Eccleston, O.F.M.: *De Adventu Fratrum Minorum in Angliam* in
 (English translation by Fr. Cuthbert, O.S.F.C.: *The Friars and how they
 came to England*. Sands, 1903.)
 
-Fr. Edouard d’Alençon, O.M.Cap.: <span id="fr_628"></span>[1](#fn_628)
+Fr. Edouard d’Alençon, O.M.Cap.: <span id="fr_628"></span>[1](#fn_628.md)
 *Epistola S. Francisci ad Ministrum Generalem in sua forma authentica*.
 Rome, 1899. *La Benediction de S. François*. Paris, 1896. See also
 *Sacrum Commercium*.
@@ -172,7 +172,7 @@ Poenitentia au XIII<sup>e</sup> Siècle* (Paris, 1902).
 *Monumenta Germaniae Historica*. Berlin.
 
 Prof. Karl Müller: *Anfänge des Minoritenordens und der*
-[*Bussbrüderschaften*](errata.htm#5). Freiburg, 1885.
+[*Bussbrüderschaften*](errata.htm#5.md). Freiburg, 1885.
 
 A. F. Ozanam: *Les Poètes Franciscains en Italie au Treizième Siècle*.
 Paris, 1882, 6th ed.
@@ -231,7 +231,7 @@ Fr. Van Ortroy, S.J. For his article on the *Opuscula* of St. Francis,
 see *Analecta Bollandiana*, t. xxiv, fasc. iii (1905), p. 411 seq.
 
 Fr. Luke Wadding, O.F.M.: *Annales Minorum*. <span
-id="fr_629"></span>[1](#fn_629) *B. P. Francisci Assisiatis Opuscula*.
+id="fr_629"></span>[1](#fn_629.md) *B. P. Francisci Assisiatis Opuscula*.
 Antwerp, 1623. *Scriptores Ordinis Minorum*. Rome, 1650.
 
 <span id="img_19500"></span> ![](img/19500.jpg)
@@ -240,21 +240,21 @@ Antwerp, 1623. *Scriptores Ordinis Minorum*. Rome, 1650.
 
 ### Footnotes
 
-<span id="fn_626"></span>[189:1](wosf25.htm#fr_626) The space devoted by
+<span id="fn_626"></span>[189:1](wosf25.htm#fr_626.md) The space devoted by
 Fr. Van Ortroy, S.J., to Franciscan history in this periodical assumes
 larger proportions each year.
 
-<span id="fn_627"></span>[189:2](wosf25.htm#fr_627) A critical edition
+<span id="fn_627"></span>[189:2](wosf25.htm#fr_627.md) A critical edition
 of this work will form Vol. IV of the *Anal. Franc.*
 
-<span id="fn_628"></span>[191:1](wosf25.htm#fr_628) When this volume is
+<span id="fn_628"></span>[191:1](wosf25.htm#fr_628.md) When this volume is
 almost through the press, I learn of the publication of Fr. Edouard's
 long-promised edition of Celano's works—*S. Francisci Assisiensis vita
 et miracula additis opusculis liturgicis auctore Fr. Thoma de Celano.
 Hanc editionem novam ad fidem mss. recensuit P. Eduardus Alenconiensis*,
 Rome. Desclée, 1905.
 
-<span id="fn_629"></span>[195:1](wosf25.htm#fr_629) Wadding's *Annales*
+<span id="fn_629"></span>[195:1](wosf25.htm#fr_629.md) Wadding's *Annales*
 appeared at Lyons in 8 vols. in fol. 1625-54. Fr. Jos. Man. Fonseca
 published a new edition and a continuation of the *Annales* in 19 vols.
 at Rome, 1731-45. The official Annalists of the Friars Minor have since
@@ -265,4 +265,4 @@ the 26th volume.
 
 ------------------------------------------------------------------------
 
-[Next: Index](wosf26)
+[Next: Index](wosf26.md)

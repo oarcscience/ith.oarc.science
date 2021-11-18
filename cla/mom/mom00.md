@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](mom01) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](mom01.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the French Edition](mom01)
+[Next: Preface to the French Edition](mom01.md)

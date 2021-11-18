@@ -1,5 +1,5 @@
-[Back to Esoteric Sacred Texts](../../eso/index)  
-[Back to Sacred Texts Main Index](../../index)  
+[Back to Esoteric Sacred Texts](../../eso/index.md)  
+[Back to Sacred Texts Main Index](../../index.md)  
 
 ------------------------------------------------------------------------
 
@@ -56,14 +56,14 @@ For they called it forth, and for them it was recorded.
 
 #### <span id="contents">T</span>ABLE OF CONTENTS.
 
-\[\[[Contents of Volume 1](sd1-0-co), Secret Doctrine
-[Homepage](index)\]\]
+\[\[[Contents of Volume 1](sd1-0-co.md), Secret Doctrine
+[Homepage](index.md)\]\]
 
 -------
 
 ##### **<span id="DDE_LINK1"></span><span id="DDE_LINK2"></span>VOLUME SECOND.**
 
-[PRELIMINARY NOTES.](sd2-0-pn)
+[PRELIMINARY NOTES.](sd2-0-pn.md)
 
 > On the Archaic Stanzas, and the Four Prehistoric Continents ... 1  
 > The Imperishable Sacred Land ... 6  
@@ -74,11 +74,11 @@ For they called it forth, and for them it was recorded.
 
 ##### BOOK II. -- PART I. ANTHROPOGENESIS.
 
-[STANZAS FROM THE BOOK OF DZYAN . . . 15](sd2-1-01)
+[STANZAS FROM THE BOOK OF DZYAN . . . 15](sd2-1-01.md)
 
 -------
 
-[THE BEGINNINGS OF SENTIENT LIVE ... 22](sd2-1-02)
+[THE BEGINNINGS OF SENTIENT LIVE ... 22](sd2-1-02.md)
 
 > Man, the Third Logos ... 25  
 > The Celestial Governors of Humanity ... 29  
@@ -89,11 +89,11 @@ For they called it forth, and for them it was recorded.
 
 -------
 
-[TWO ANTEDILUVIAN ASTRONOMERS ... 47](sd2-1-02.htm#two)
+[TWO ANTEDILUVIAN ASTRONOMERS ... 47](sd2-1-02.htm#two.md)
 
 -------
 
-[STANZA II. -- NATURE UNAIDED FAILS ... 52](sd2-1-03)
+[STANZA II. -- NATURE UNAIDED FAILS ... 52](sd2-1-03.md)
 
 > The Monsters of Chaos ... 53  
 > The "Double Dragon" ... 57  
@@ -103,14 +103,14 @@ For they called it forth, and for them it was recorded.
 
 ###### \[\[Vol. 2, Page\]\] viii CONTENTS.
 
-[THE CHRONOLOGY OF THE BRAHMINS ... 66](sd2-1-03.htm#chronology)
+[THE CHRONOLOGY OF THE BRAHMINS ... 66](sd2-1-03.htm#chronology.md)
 
 > The Race that never dies ... 67  
 > Cosmogony, an intelligent plan ... 73
 
 -------
 
-[STANZA III. -- ATTEMPTS TO CREATE MAN ... 75](sd2-1-04)
+[STANZA III. -- ATTEMPTS TO CREATE MAN ... 75](sd2-1-04.md)
 
 > The various classes of Creators ... 77  
 > Man, a god in animal form ... 81  
@@ -118,7 +118,7 @@ For they called it forth, and for them it was recorded.
 
 -------
 
-[STANZA IV. -- CREATION OF THE FIRST RACES ... 86](sd2-1-05)
+[STANZA IV. -- CREATION OF THE FIRST RACES ... 86](sd2-1-05.md)
 
 > Pitris of the Gods and Demons ... 89  
 > What Prometheus symbolized ... 95  
@@ -128,7 +128,7 @@ For they called it forth, and for them it was recorded.
 
 -------
 
-[STANZA V. -- THE EVOLUTION OF THE SECOND RACE ... 109](sd2-1-06)
+[STANZA V. -- THE EVOLUTION OF THE SECOND RACE ... 109](sd2-1-06.md)
 
 > The Secret Work of Chiram ... 113  
 > The outgrowth of Races ... 117  
@@ -138,7 +138,7 @@ For they called it forth, and for them it was recorded.
 
 -------
 
-[STANZA VI. -- THE EVOLUTION OF THE SWEAT-BORN ... 131](sd2-1-07)
+[STANZA VI. -- THE EVOLUTION OF THE SWEAT-BORN ... 131](sd2-1-07.md)
 
 > Bi-sexual reproduction ... 133  
 > The Virgin Third Race ... 135  
@@ -153,7 +153,7 @@ For they called it forth, and for them it was recorded.
 -------
 
 [STANZA VII. -- FROM THE SEMI-DIVINE DOWN TO THE FIRST HUMAN RACES ...
-161](sd2-1-08)
+161](sd2-1-08.md)
 
 > Monads and Rounds ... 167  
 > A Suggestive Explanation ... 171
@@ -168,18 +168,18 @@ For they called it forth, and for them it was recorded.
 -------
 
 [STANZA VIII. -- EVOLUTION OF THE ANIMAL MAMMALIANS -- THE FIRST ...
-180](sd2-1-09)
+180](sd2-1-09.md)
 
 > Archaic Zoology ... 183  
 > The Sin of the Mindless Men ... 185
 
 -------
 
-[WHAT MAY BE THE OBJECTIONS TO THE FOREGOING ... 185](sd2-1-09.htm)
+[WHAT MAY BE THE OBJECTIONS TO THE FOREGOING ... 185](sd2-1-09.htm.md)
 
 -------
 
-[STANZA IX. -- THE FINAL EVOLUTION OF MAN ... 191](sd2-1-10)
+[STANZA IX. -- THE FINAL EVOLUTION OF MAN ... 191](sd2-1-10.md)
 
 > The Hairy Men of China ... 195  
 > The Separation of Sexes ... 197  
@@ -187,7 +187,7 @@ For they called it forth, and for them it was recorded.
 
 -------
 
-[EDENS, SERPENTS AND DRAGONS ... 202](sd2-1-11)
+[EDENS, SERPENTS AND DRAGONS ... 202](sd2-1-11.md)
 
 > The Garden of Eden a College ... 203  
 > Flying Camels ... 205  
@@ -196,13 +196,13 @@ For they called it forth, and for them it was recorded.
 
 -------
 
-[THE SONS OF GOD AND THE SACRED ISLAND ... 220](sd2-1-12)
+[THE SONS OF GOD AND THE SACRED ISLAND ... 220](sd2-1-12.md)
 
 > The Magicians of Atlantis ... 223
 
 -------
 
-[STANZA X. -- THE HISTORY OF THE FOURTH RACE ... 227](sd2-1-13)
+[STANZA X. -- THE HISTORY OF THE FOURTH RACE ... 227](sd2-1-13.md)
 
 > The Mysteries among the Mayas ... 229  
 > Satanic Myths ... 233  
@@ -212,14 +212,14 @@ For they called it forth, and for them it was recorded.
 
 -------
 
-[ARCHAIC TEACHINGS IN THE PURANAS AND GENESIS ... 251](sd2-1-14)
+[ARCHAIC TEACHINGS IN THE PURANAS AND GENESIS ... 251](sd2-1-14.md)
 
 > From worm to man ... 255  
 > Identity of Human and Animal embryos ... 259
 
 -------
 
-[A PANORAMIC VIEW OF THE EARLY RACES ... 263](sd2-1-15)
+[A PANORAMIC VIEW OF THE EARLY RACES ... 263](sd2-1-15.md)
 
 > The Natural "Fall" ... 267  
 > The Symbolism of Kronos ... 269
@@ -228,14 +228,14 @@ For they called it forth, and for them it was recorded.
 
 ###### \[\[Vol. 2, Page\]\] x CONTENTS.
 
-[STANZA X. -- Continued ... 271](sd2-1-15.htm#stanza)
+[STANZA X. -- Continued ... 271](sd2-1-15.htm#stanza.md)
 
 > The Golden Age ... 273  
 > No Devils outside Humanity ... 275
 
 -------
 
-[ARE GIANTS A FICTION? ... 277](sd2-1-16)
+[ARE GIANTS A FICTION? ... 277](sd2-1-16.md)
 
 > The Seven Virgin Youths ... 281  
 > The Tibetan Lilith ... 285  
@@ -243,7 +243,7 @@ For they called it forth, and for them it was recorded.
 
 -------
 
-[THE RACES WITH THE "THIRD EYE" ... 289](sd2-1-17)
+[THE RACES WITH THE "THIRD EYE" ... 289](sd2-1-17.md)
 
 > Occult Physiology ... 295  
 > The Evolution of the Eye ... 299  
@@ -251,14 +251,14 @@ For they called it forth, and for them it was recorded.
 
 -------
 
-[THE PRIMEVAL MANUS OF HUMANITY ... 307](sd2-1-18)
+[THE PRIMEVAL MANUS OF HUMANITY ... 307](sd2-1-18.md)
 
 > The Four Earlier Races ... 311  
 > The Esoteric Meaning of " /Fish" ... 313
 
 -------
 
-[STANZA XI. -- THE CIVILIZATION AND DESTRUCTION](sd2-1-19) OF THE FOURTH
+[STANZA XI. -- THE CIVILIZATION AND DESTRUCTION](sd2-1-19.md) OF THE FOURTH
 AND FIFTH RACES ... 316
 
 > Degeneration of Mankind ... 319  
@@ -270,7 +270,7 @@ AND FIFTH RACES ... 316
 -------
 
 [CYCLOPEAN RUINS AND COLOSSAL STONES AS WITNESSES TO GIANTS ...
-341](sd2-1-20)
+341](sd2-1-20.md)
 
 > Living, Speaking, and Moving Stones ... 345  
 > It takes a God to become a Man ... 349
@@ -278,13 +278,13 @@ AND FIFTH RACES ... 316
 -------
 
 [STANZA XII. -- THE FIFTH RACE AND ITS DIVINE INSTRUCTORS ...
-351](sd2-1-21)
+351](sd2-1-21.md)
 
 > The Astronomical Dragon ... 353  
 > Serpents and Dragons under different Symbolisms ... 355  
 > The Sidereal and Cosmic Glyphs ... 357  
 > Our Divine Instructors ... 365  
-> [The Origin of the Satanic Myth ... 378](sd2-1-22)  
+> [The Origin of the Satanic Myth ... 378](sd2-1-22.md)  
 > Noah was a Kabir, hence he must have been a Demon ... 390
 
 ------------------------------------------------------------------------
@@ -294,12 +294,12 @@ AND FIFTH RACES ... 316
 > The oldest Persian Traditions about the Polar, and the Submerged
 > Continents ... 393  
 > [Western Speculations founded on the Greek and Puranic Traditions ...
-> 402](sd2-1-23)  
+> 402](sd2-1-23.md)  
 > The "Curse" from a Philosophical point of view ... 409
 
 -------
 
-[ADDITIONAL FRAGMENTS FROM A COMMENTARY](sd2-1-24) ON THE VERSES OF
+[ADDITIONAL FRAGMENTS FROM A COMMENTARY](sd2-1-24.md) ON THE VERSES OF
 STANZA XII. ... 423
 
 > The Oldest Records about Atlantis ... 425  
@@ -308,23 +308,23 @@ STANZA XII. ... 423
 
 --------
 
-[CONCLUSION ... 437](sd2-1-25)
+[CONCLUSION ... 437](sd2-1-25.md)
 
 -------
 
 ##### BOOK II. -- PART II. THE ARCHAIC SYMBOLISM OF THE WORLD-RELIGIONS.
 
-[ESOTERIC TENETS CORROBORATED IN EVERY SCRIPTURE ... 449](sd2-2-01)
+[ESOTERIC TENETS CORROBORATED IN EVERY SCRIPTURE ... 449](sd2-2-01.md)
 
 -------
 
-[§ XVI. ADAM-ADAMI ... 452](sd2-2-02)
+[§ XVI. ADAM-ADAMI ... 452](sd2-2-02.md)
 
 > The Cabalistic Four Adams ... 457
 
 -------
 
-[XVII. THE "HOLY OF HOLIES": ITS DEGRADATION ... 459](sd2-2-03)
+[XVII. THE "HOLY OF HOLIES": ITS DEGRADATION ... 459](sd2-2-03.md)
 
 > Christian Symbolism ... 463  
 > The "Four-faced" Brahma ... 465  
@@ -333,15 +333,15 @@ STANZA XII. ... 423
 -------
 
 [XVIII. ON THE MYTH OF THE "FALLEN ANGEL," IN ITS VARIOUS ASPECTS ...
-475](sd2-2-04)
+475](sd2-2-04.md)
 
 > The Evil Spirit: Who and What? ... 475  
 > The Gods of Light proceed from the Gods of Darkness ... 483  
-> [The many meanings of the "War in Heaven" ... 492](sd2-2-05)
+> [The many meanings of the "War in Heaven" ... 492](sd2-2-05.md)
 
 -------
 
-[XIX. IS PLEROMA SATAN'S LAIR? ... 506](sd2-2-06)
+[XIX. IS PLEROMA SATAN'S LAIR? ... 506](sd2-2-06.md)
 
 > Jehovah's Personating Spirit ... 509  
 > The Mysterium Magnum ... 512  
@@ -351,33 +351,33 @@ STANZA XII. ... 423
 
 ###### \[\[Vol. 2, Page\]\] xii CONTENTS.
 
-[XX. PROMETHEUS THE TITAN ... 519](sd2-2-07)
+[XX. PROMETHEUS THE TITAN ... 519](sd2-2-07.md)
 
 > His Origin in Ancient India ... 519  
 > The Boon he Gives ... 523
 
 -------
 
-[XXI. ENOICHION-HENOCH ... 529](sd2-2-08)
+[XXI. ENOICHION-HENOCH ... 529](sd2-2-08.md)
 
 -------
 
 [XXII. THE SYMBOLISM OF THE MYSTERY NAMES IAO AND JEHOVAH ...
-536](sd2-2-09)
+536](sd2-2-09.md)
 
 > Cross and Circle ... 545  
 > The Fall of the Cross into Matter ... 553
 
 -------
 
-[XXIII. THE UPANISHADS IN GNOSTIC LITERATURE ... 563](sd2-2-10)
+[XXIII. THE UPANISHADS IN GNOSTIC LITERATURE ... 563](sd2-2-10.md)
 
 > When Time be no longer ... 565  
 > The Divine Self's Wisdom ... 566
 
 -------
 
-[XXIV. THE CROSS AND THE PYTHAGOREAN DECADE ... 573](sd2-2-11)
+[XXIV. THE CROSS AND THE PYTHAGOREAN DECADE ... 573](sd2-2-11.md)
 
 > Poseidon's Five Ministers ... 577  
 > The Mystery of the Number Six ... 583  
@@ -385,16 +385,16 @@ STANZA XII. ... 423
 
 -------
 
-[XXV. THE MYSTERIES OF THE HEBDOMAD ... 590](sd2-2-12)
+[XXV. THE MYSTERIES OF THE HEBDOMAD ... 590](sd2-2-12.md)
 
 ------------------------------------------------------------------------
 
 > Saptaparna ... 590  
 > The Tetraktis in relation to the Heptagon ... 598  
-> [The Septenary Element in the Vedas](sd2-2-13) ... 605  
+> [The Septenary Element in the Vedas](sd2-2-13.md) ... 605  
 > The Septenary in the Exoteric Works ... 611  
 > Seven in Astronomy, Science and Magic ... 618  
-> [The Seven Souls of the Egyptologists](sd2-2-14) ... 630
+> [The Seven Souls of the Egyptologists](sd2-2-14.md) ... 630
 
 ---------------------
 
@@ -402,7 +402,7 @@ STANZA XII. ... 423
 
 §§
 
-[I. ARCHAIC, OR MODERN ANTHROPOLOGY? ... 645](sd2-3-01)
+[I. ARCHAIC, OR MODERN ANTHROPOLOGY? ... 645](sd2-3-01.md)
 
 > The Occult and the Modern Doctrines ... 649  
 > Science is Silent on every Problem ... 653
@@ -411,7 +411,7 @@ STANZA XII. ... 423
 
 ###### \[\[Vol. 2, Page\]\] xiii CONTENTS.
 
-[II. THE ANCESTORS MANKIND IS OFFERED BY SCIENCE ... 656](sd2-3-02)
+[II. THE ANCESTORS MANKIND IS OFFERED BY SCIENCE ... 656](sd2-3-02.md)
 
 > Various Modes of Reproduction ... 659  
 > A Pithecoid Man Wanted ... 669  
@@ -420,7 +420,7 @@ STANZA XII. ... 423
 
 -------
 
-[III. THE FOSSIL RELICS OF MAN AND THE ANTHROPOID APE ... 675](sd2-3-03)
+[III. THE FOSSIL RELICS OF MAN AND THE ANTHROPOID APE ... 675](sd2-3-03.md)
 
 > Insurmountable difficulties for the Darwinians ... 677  
 > The Argument of "Rudimentary Organs" ... 683  
@@ -431,7 +431,7 @@ STANZA XII. ... 423
 
 -------
 
-[IV. DURATION OF THE GEOLOGICAL PERIODS, RACE CYCLES](sd2-3-04), AND THE
+[IV. DURATION OF THE GEOLOGICAL PERIODS, RACE CYCLES](sd2-3-04.md), AND THE
 ANTIQUITY OF MAN ... 690
 
 > Sayce's Sketch of Chronology ... 691
@@ -443,7 +443,7 @@ ANTIQUITY OF MAN ... 690
 > States of Consciousness ... 701  
 > Worlds mentioned in the Bible ... 703
 
-> [(c) Esoteric Geological Chronology ... 709](sd2-3-05)  
+> [(c) Esoteric Geological Chronology ... 709](sd2-3-05.md)  
 > Parallelism of Life ... 711  
 > The Two Sciences contrasted ... 713  
 > The Paleolithic Landseer ... 721  
@@ -452,7 +452,7 @@ ANTIQUITY OF MAN ... 690
 
 -------
 
-[V. ORGANIC EVOLUTION AND CREATIVE CENTRES ... 731](sd2-3-06)
+[V. ORGANIC EVOLUTION AND CREATIVE CENTRES ... 731](sd2-3-06.md)
 
 > Dhyan Chohans and these Centres ... 732
 
@@ -465,7 +465,7 @@ ANTIQUITY OF MAN ... 690
 
 ###### \[\[Vol. 2, Page\]\] xiv CONTENTS.
 
-[VI. GIANTS, CIVILIZATIONS, AND SUBMERGED CONTINENTS](sd2-3-07) TRACED
+[VI. GIANTS, CIVILIZATIONS, AND SUBMERGED CONTINENTS](sd2-3-07.md) TRACED
 IN HISTORY ... 742
 
 > A Mysterious Nation ... 743  
@@ -475,7 +475,7 @@ IN HISTORY ... 742
 > Races of Giants ... 755  
 > Mazdean "Seven Earths" ... 759
 
-> [(a) Statements about the Sacred Islands ... 760](sd2-3-08)  
+> [(a) Statements about the Sacred Islands ... 760](sd2-3-08.md)  
 > The Heirloom of Atlantis ... 763  
 > The God-bearing Land ... 765  
 > The Power of Names ... 767  
@@ -487,7 +487,7 @@ IN HISTORY ... 742
 
 -------
 
-[VII. SCIENTIFIC AND GEOLOGICAL PROOFS](sd2-3-09) OF THE EXISTENCE OF
+[VII. SCIENTIFIC AND GEOLOGICAL PROOFS](sd2-3-09.md) OF THE EXISTENCE OF
 SEVERAL SUBMERGED CONTINENTS ... 778
 
 > Corroborations of Occultism by Geology ... 779  
@@ -501,6 +501,6 @@ SEVERAL SUBMERGED CONTINENTS ... 778
 
 -------
 
-##### \[\[[Contents](sd1-0-co.htm#contents), Volume 1\]\]
+##### \[\[[Contents](sd1-0-co.htm#contents.md), Volume 1\]\]
 
 ------------------------------------------------------------------------

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork02)  [Next](gork04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork02)  [Next](gork04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -161,7 +161,7 @@ Scholars and intelligent people of all classes poured from every quarter
 to that spot which was sanctified by the presence of the Bhagavân. He
 was the living example of the spiritual greatness and Divinity which had
 been manifested by the great Incarnations like Christ, Buddha, Krishna,
-Râma, Chaitanya <span id="fr_1"></span>[\*](#fn_1) and other Saviours of
+Râma, Chaitanya <span id="fr_1"></span>[\*](#fn_1.md) and other Saviours of
 the world.
 
 We know a number of sceptics and agnostics who had never believed in
@@ -200,7 +200,7 @@ name of Jesus of Nazareth? The Mahometan saints who came to see Him,
 prostrated at His holy feet and recognized in Him the highest Ideal of
 Islam. The Buddhists regarded Him as Sambuddha, the Enlightened. The
 followers of Chaitanya, like Vaishnava Charan, <span
-id="fr_2"></span>[\*](#fn_2) and others, worshipped Him as the second
+id="fr_2"></span>[\*](#fn_2.md) and others, worshipped Him as the second
 Prophet of Nuddea when Bhagavân Srî Râmakrishna occupied the altar which
 was reverentially dedicated to Srî Chaitanya by hundreds of devoted
 Vaishnavas, who always prostrated before that altar and prayed to their
@@ -208,7 +208,7 @@ Lord Guarânga. The worshippers of Krishna called Him the Incarnation of
 Krishna. The devotees of the Divine Mother realized that the Mother of
 the universe was playing through Him; the followers of Shiva declared
 that Bhagavân Srî Râmakrishna was their living Deity; while the Sikhs,
-the faithful votaries of Guru Nânaka, <span id="fr_3"></span>[†](#fn_3)
+the faithful votaries of Guru Nânaka, <span id="fr_3"></span>[†](#fn_3.md)
 
 <span id="page_10">p. 10</span>
 
@@ -408,7 +408,7 @@ in a woman form. No other Saviour or spiritual leader has ever given
 such an honor to womanhood in the annals of religious history.
 
 <span class="margnote">His mission.</span>The mission of Bhagavân Srî
-[Râmakrishna](errata.htm#1) was to show by His living example how a
+[Râmakrishna](errata.htm#1.md) was to show by His living example how a
 truly spiritual man, being dead to the world of senses, can live on the
 spiritual plane of God-consciousness; it was to prove
 
@@ -460,18 +460,18 @@ servant,
 
 ### Footnotes
 
-<span id="fn_1"></span>[7:\*](gork03.htm#fr_1) Chaitanya, the Founder of
+<span id="fn_1"></span>[7:\*](gork03.htm#fr_1.md) Chaitanya, the Founder of
 a sect of the Vaishnavas, is regarded in India as the Incarnation of
 Krishna. He is also known as the "Prophet of Nuddea," for Nuddea (or
 Navadvipa) in Bengal was his birthplace. His other name is Lord
-[Guarânga](errata.htm#0) (see [p. 9](#page_9)). He was born in 1485
+[Guarânga](errata.htm#0) (see [p. 9](#page_9).md). He was born in 1485
 A.D., and was a contemporary of Luther.
 
-<span id="fn_2"></span>[9:\*](gork03.htm#fr_2) Vaishnava Charan was a
+<span id="fn_2"></span>[9:\*](gork03.htm#fr_2.md) Vaishnava Charan was a
 great Hindu saint and a true follower of Chaitanya, whom he worshipped
 as the Ideal Incarnation of Divine Love.
 
-<span id="fn_3"></span>[9:†](gork03.htm#fr_3) Guru Nânaka was the
+<span id="fn_3"></span>[9:†](gork03.htm#fr_3.md) Guru Nânaka was the
 founder of the sect known as the <span id="page_10">p. 10</span> Sikhs,
 or disciples. He was born near Lahore in the Punjab (India) in the year
 1469 A.D. and died in 1538 A.D. He was the first of the ten Gurus or
@@ -481,4 +481,4 @@ as a manifestation of Divinity.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Srî Râmakrishna at the Temple of
-Dakshineswara](gork04)
+Dakshineswara](gork04.md)

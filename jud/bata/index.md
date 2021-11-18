@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte.md)
 
 </div>
 
@@ -29,8 +29,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bata00)    [Page
-Index](pageidx)    [Text \[Zipped\]](bata.txt.gz)
+[Contents](#contents)    [Start Reading](bata00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](bata.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -52,45 +52,45 @@ from Nashim (Women).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](bata00)  
-[Contents](bata01)  
-[Introduction](bata02)  
+<span id="contents"></span> [Title Page](bata00.md)  
+[Contents](bata01.md)  
+[Introduction](bata02.md)  
 <span id="section_000"></span>
 
 ### Tractate Aboth
 
-[Fathers of the Mishna](bata03)  
+[Fathers of the Mishna](bata03.md)  
 <span id="section_001"></span>
 
 ### Zeraim (Agriculture)
 
-[The Portion of the Poor (Tractate Peah)](bata04)  
+[The Portion of the Poor (Tractate Peah)](bata04.md)  
 <span id="section_002"></span>
 
 ### Moed (Holy Days)
 
-[Sabbath (Tractate Sabbath)](bata05)  
-[Passover (Tractate Pessahim)](bata06)  
-[The Day of Atonement (Tractate Yoma)](bata07)  
-[Days of Fasting (Tractate Taanith)](bata08)  
+[Sabbath (Tractate Sabbath)](bata05.md)  
+[Passover (Tractate Pessahim)](bata06.md)  
+[The Day of Atonement (Tractate Yoma)](bata07.md)  
+[Days of Fasting (Tractate Taanith)](bata08.md)  
 <span id="section_003"></span>
 
 ### Nashim (Women)
 
-[Childless Widows (Tractate Yebamoth)](bata09)  
-[The Marriage Contract (Tractate Kethuboth)](bata10)  
-[Adultery (Tractate Sotah)](bata11)  
-[Divorces (Tractate Gittin)](bata12)  
-[Betrothals (Tractate Kiddushin)](bata13)  
+[Childless Widows (Tractate Yebamoth)](bata09.md)  
+[The Marriage Contract (Tractate Kethuboth)](bata10.md)  
+[Adultery (Tractate Sotah)](bata11.md)  
+[Divorces (Tractate Gittin)](bata12.md)  
+[Betrothals (Tractate Kiddushin)](bata13.md)  
 <span id="section_004"></span>
 
 ### Nezikin (Law)
 
-[Civil Law (Tractate Baba Kamma)](bata14)  
-[Law of Procedure (Tractate Sanhedrin)](bata15)  
-[Flogging (Tractate Macoth)](bata16)  
-[Oaths (Tractate Shebuoth)](bata17)  
+[Civil Law (Tractate Baba Kamma)](bata14.md)  
+[Law of Procedure (Tractate Sanhedrin)](bata15.md)  
+[Flogging (Tractate Macoth)](bata16.md)  
+[Oaths (Tractate Shebuoth)](bata17.md)  
 
  
 
-[Glossary](bata18)  
+[Glossary](bata18.md)  

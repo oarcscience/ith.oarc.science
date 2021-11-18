@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi208)  [Next](mtsi210) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi208)  [Next](mtsi210.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ came to be everywhere.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Six Brothers](mtsi210)
+[Next: 10. The Six Brothers](mtsi210.md)

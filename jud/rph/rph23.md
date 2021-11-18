@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph22)  [Next](rph24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph22)  [Next](rph24.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,10 +22,10 @@ grand monument of the Kabbalah:
 1\. ‏מדרשו‎ (Midroshau)--his Midrash, or, ‏מדרש של ר׳ שמעון בן יוחאי‎
 (Midrosh shel R. Simeon ben Yohai)--the Midrash of Simeon ben Yohai.
 Under this name the Zohar appears with the following authors: Behai
-(died 1340), <span id="fr_715"></span>[1](#fn_715) Commentary to the
+(died 1340), <span id="fr_715"></span>[1](#fn_715.md) Commentary to the
 Pentateuch, section Mishpatim; R. Simeon ben Zemach Duran (died 1444),
 Responsa, vol. III, questions 56 and 57; R. Meier ben Gabbai (born
-1481), Abodath ha-Kodesh; <span id="fr_716"></span>[2](#fn_716) R. Judah
+1481), Abodath ha-Kodesh; <span id="fr_716"></span>[2](#fn_716.md) R. Judah
 Moscato (died 1580), Nefuzat Yehudah (fol. 1166, 211a). This name
 guarantees the genuineness of the work.
 
@@ -45,7 +45,7 @@ that is bound to accrue to the reader of this work.
 3\. ‏זהר‎ (Zohar), Splendor, Brightness. So called according to Daniel
 XII, 3. ‏והמשכילים יזהירו בזהר הרקיע‎--And the Wise shall shine as the
 Brightness of the firmament. Compare ‏זעיא מהימנא‎ Zohar, vol. III, fol.
-64a in the Sulzbach edition. <span id="fr_717"></span>[3](#fn_717) This
+64a in the Sulzbach edition. <span id="fr_717"></span>[3](#fn_717.md) This
 last name has become the predominating one since the author of "Yuhasin"
 in 1502.
 
@@ -105,7 +105,7 @@ this work contains also:
 
 5\. Saba (The old man),
 
-6\. Midrash Ruth <span id="fr_718"></span>[4](#fn_718) (fragments only),
+6\. Midrash Ruth <span id="fr_718"></span>[4](#fn_718) (fragments only.md),
 
 7\. Sefer ha-Bahir (Book of Brightness),
 
@@ -137,7 +137,7 @@ this work contains also:
 
 All these elements are to be found in the Sulzbach edition; the Mantua
 edition contains only Nos. 1, 2, 3, 4, 8, 9, 11 and 12. <span
-id="fr_719"></span>[5](#fn_719)
+id="fr_719"></span>[5](#fn_719.md)
 
 D
 
@@ -160,7 +160,7 @@ denudata."
 4\. Several fragments of the Zohar have been translated into French by
 the author of this book, and by the translator into
 
-5\. German. <span id="fr_720"></span>[6](#fn_720)
+5\. German. <span id="fr_720"></span>[6](#fn_720.md)
 
 <span id="page_312">p. 312</span>
 
@@ -447,29 +447,29 @@ Mittelalters. Kabbala, 170-236.
 
 ### Footnotes
 
-<span id="fn_715"></span>[308:1](rph23.htm#fr_715) Behai (Bahya) ben
+<span id="fn_715"></span>[308:1](rph23.htm#fr_715) Behai (Bahya.md) ben
 Asher ben Halevi. Not to be confounded with the well known philosopher
 Behai ben Joseph ibn Pakuda of the eleventh century, author of "Hoboth
 Halvovoth (‏חובות הלבבות‎).--Transl.
 
-<span id="fn_716"></span>[308:2](rph23.htm#fr_716) Omitted in the Jewish
+<span id="fn_716"></span>[308:2](rph23.htm#fr_716.md) Omitted in the Jewish
 Encyclopedia. Listed in "Seder Hadoreth."--Transl.
 
-<span id="fn_717"></span>[309:3](rph23.htm#fr_717) The passage quoted
+<span id="fn_717"></span>[309:3](rph23.htm#fr_717.md) The passage quoted
 from ‏רעיא מהימנא‎ refutes also Milsahagis ‏ראבי״ה‎, fol. 20b)
 contention about the genesis of this name, and justifies Zunz's
 (Sermons, p. 406) explanation,--Jellinek
 
-<span id="fn_718"></span>[310:4](rph23.htm#fr_718) I know of no reason
+<span id="fn_718"></span>[310:4](rph23.htm#fr_718.md) I know of no reason
 why this Midrash was named after the Book of Ruth. Jellinek
 
-<span id="fn_719"></span>[311:5](rph23.htm#fr_719) Wolf (Bibliotheca
+<span id="fn_719"></span>[311:5](rph23.htm#fr_719.md) Wolf (Bibliotheca
 hebraea I, 1141) is mistaken when he adds, after counting the ‏ספרא
 דעניעותא‎, among the elements of the Cremona edition, the following:
 Mantuana vero quatuor tantum ex his exhibet, nempe; Tosaphta, Medrash
 Neelam, Raja Mahemena, et Sitre Tora.--Jellinek
 
-<span id="fn_720"></span>[311:6](rph23.htm#fr_720) And into English by
+<span id="fn_720"></span>[311:6](rph23.htm#fr_720.md) And into English by
 the present translator.
 
 For those wishing to go deeper into the study of the Kabbalah or of the
@@ -479,4 +479,4 @@ Zohar.--Transl.
 
 ------------------------------------------------------------------------
 
-[Next: Index](rph24)
+[Next: Index](rph24.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar177) [Next](gbar179)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar177) [Next](gbar179.md)
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ blasphemest.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar179)
+[Next](gbar179.md)

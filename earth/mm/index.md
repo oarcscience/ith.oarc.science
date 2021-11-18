@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Legendary Creatures](../../lcr/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Legendary Creatures](../../lcr/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1851709444/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1851709444/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1851709444/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mm00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mmtxt.zip)
+[Contents](#contents)    [Start Reading](mm00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mmtxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -52,48 +52,48 @@ prehistoric megafauna, from flying lizards to whale-sized aquatic
 dinosaurs.
 
 In context the proposal was not all that outrageous.
-[Darwin](../../aor/darwin/index) had 25 years earlier proposed that
+[Darwin](../../aor/darwin/index.md) had 25 years earlier proposed that
 humans are part of a huge web of biological relationships over vast
 realms of time and space. So what other paradigms were about to be
 shattered?
 
 Gould leads off with a discussion of some other 'earth mysteries:' the
 world-wide flood myth, cultural diffusion, and Atlantis; readers looking
-for the cryptozoology will want to skip forward to [Chapter VI](mm09).
+for the cryptozoology will want to skip forward to [Chapter VI](mm09.md).
 Extensive illustrations, translations from rare documents, and
 historical accounts from newspaper articles, make this a must-have book
 for anyone interested in this subject.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mm00)  
-[Preface](mm01)  
-[Contents](mm02)  
-[Introduction](mm03)  
-[Chapter I. On Some Remarkable Animal Forms](mm04)  
-[Chapter II. Extinction of Species](mm05)  
-[Chapter III. Antiquity of Man](mm06)  
-[Chapter IV. The Deluge Not A Myth](mm07)  
+<span id="contents"></span> [Title Page](mm00.md)  
+[Preface](mm01.md)  
+[Contents](mm02.md)  
+[Introduction](mm03.md)  
+[Chapter I. On Some Remarkable Animal Forms](mm04.md)  
+[Chapter II. Extinction of Species](mm05.md)  
+[Chapter III. Antiquity of Man](mm06.md)  
+[Chapter IV. The Deluge Not A Myth](mm07.md)  
 [Chapter V. On the Translation of Myths Between the Old and the New
-World](mm08)  
-[Chapter VI. The Dragon](mm09)  
-[Chapter VII. The Chinese Dragon](mm10)  
-[Chapter VIII. The Japanese Dragon](mm11)  
-[Chapter IX. The Sea-Serpent](mm12)  
-[Chapter X. The Unicorn](mm13)  
-[Chapter XI. The Chinese Phœnix](mm14)  
+World](mm08.md)  
+[Chapter VI. The Dragon](mm09.md)  
+[Chapter VII. The Chinese Dragon](mm10.md)  
+[Chapter VIII. The Japanese Dragon](mm11.md)  
+[Chapter IX. The Sea-Serpent](mm12.md)  
+[Chapter X. The Unicorn](mm13.md)  
+[Chapter XI. The Chinese Phœnix](mm14.md)  
 <span id="section_000"></span>
 
 ### Appendices
 
-[Appendix I. The Deluge Tradition According To Berosus](mm15)  
-[Appendix II. The Dragon](mm16)  
-[Appendix III. Original Preface To “Wonders by Land and Sea”](mm17)  
+[Appendix I. The Deluge Tradition According To Berosus](mm15.md)  
+[Appendix II. The Dragon](mm16.md)  
+[Appendix III. Original Preface To “Wonders by Land and Sea”](mm17.md)  
 [Appendix IV. A Memorial Presented by Liu Hsiu, by Order of His Imperial
-Majesty The Emperor, on the “Book of Wonders by Land and Sea.”](mm18)  
+Majesty The Emperor, on the “Book of Wonders by Land and Sea.”](mm18.md)  
 [Appendix V. After Preface to the “Book of Wonders by Land and
-Sea.”](mm19)  
-[Appendix VI. Extracts From “Social Life of the Chinese”](mm20)  
-[Appendix VII. Extracts From the “Pan Tsaou Kang Mu.”](mm21)  
-[Appendix VIII. Extract From the “Yuen Keen Lei Han.”](mm22)  
-[Appendix IX. Appendix to the Chapter on the Sea-Serpent](mm23)  
+Sea.”](mm19.md)  
+[Appendix VI. Extracts From “Social Life of the Chinese”](mm20.md)  
+[Appendix VII. Extracts From the “Pan Tsaou Kang Mu.”](mm21.md)  
+[Appendix VIII. Extract From the “Yuen Keen Lei Han.”](mm22.md)  
+[Appendix IX. Appendix to the Chapter on the Sea-Serpent](mm23.md)  

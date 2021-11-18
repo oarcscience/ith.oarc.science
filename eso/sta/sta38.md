@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta37)  [Next](sta39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta37)  [Next](sta39.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ followed that original, and Virgil followed
 <span id="img_15700"></span>
 
 [![THE KEY TO ALCHEMY ACCORDING TO THE EGYPTIANS.](tn/15700.jpg)  
-Click to enlarge](img/15700.jpg)  
+Click to enlarge](img/15700.jpg.md)  
 THE KEY TO ALCHEMY ACCORDING TO THE EGYPTIANS.  
 
 From Kircher's *Œdipus Ægyptiacus*.
@@ -465,7 +465,7 @@ sulphur--the Divine Fire. These rays are crystallized by contact with
 <span id="img_15900"></span>
 
 [![ THE INVISIBLE MAGICAL MOUNTAIN.](tn/15900.jpg)  
-Click to enlarge](img/15900.jpg)  
+Click to enlarge](img/15900.jpg.md)  
 THE INVISIBLE MAGICAL MOUNTAIN.  
 
 From Phililethales' *Lumen de Lumine*.
@@ -679,4 +679,4 @@ blood, the last day of my Life on my deathbed. Actum Leyden, 27 March
 ------------------------------------------------------------------------
 
 [Next: The Hermetic And Alchemical Figures of Claudius De Dominico
-Celentano Vallis Novi](sta39)
+Celentano Vallis Novi](sta39.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index)  [Index](index)  [Previous](sadh01)  [Next](sadh03) 
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index)  [Index](index)  [Previous](sadh01)  [Next](sadh03.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ VIII. THE REALISATION OF THE INFINITE
 
 ------------------------------------------------------------------------
 
-[Next: I. The Relation of the Individual to the Universe](sadh03)
+[Next: I. The Relation of the Individual to the Universe](sadh03.md)

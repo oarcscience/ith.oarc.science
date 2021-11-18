@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc49)  [Next](osc51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc49)  [Next](osc51.md) 
 
 ------------------------------------------------------------------------
 
@@ -168,4 +168,4 @@ apparently means no more than its popularity as a social diversion.
 
 ------------------------------------------------------------------------
 
-[Next: (10) Amulets, Gems, Charms, Talismans, Mascots](osc51)
+[Next: (10) Amulets, Gems, Charms, Talismans, Mascots](osc51.md)

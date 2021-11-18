@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw01)  [Next](omw03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw01)  [Next](omw03.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ picture it.
 
 ------------------------------------------------------------------------
 
-[Next: Babylonian](omw03)
+[Next: Babylonian](omw03.md)

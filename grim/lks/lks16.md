@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks15)  [Next](lks17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks15)  [Next](lks17.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ as Solomon hath commanded.
 ------------------------------------------------------------------------
 
 [Next: The Conjuration To Call Forth Any Of The Aforesaid
-Spirits](lks17)
+Spirits](lks17.md)

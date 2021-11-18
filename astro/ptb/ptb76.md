@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb75)  [Next](ptb77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb75)  [Next](ptb77.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### No. III.
 
-### THE CENTILOQUY, OR HUNDRED APHORISMS OF CLAUDIUS PTOLEMY <span id="fr_304"></span>[1](#fn_304); OTHERWISE CALLED, THE FRUIT OF HIS FOUR BOOKS
+### THE CENTILOQUY, OR HUNDRED APHORISMS OF CLAUDIUS PTOLEMY <span id="fr_304"></span>[1](#fn_304.md); OTHERWISE CALLED, THE FRUIT OF HIS FOUR BOOKS
 
 I. JUDGMENT must be regulated by thyself, as well as by the science; for
 it is not possible that particular forms of events should be declared by
@@ -20,7 +20,7 @@ particulars.
 
 II\. When an enquirer shall make mature search into an expected event,
 there will be found no material difference between the event
-[itself](errata.htm#16) and his idea of it.
+[itself](errata.htm#16.md) and his idea of it.
 
 III\. Whosoever may be adapted to any particular event or pursuit, will
 assuredly have the star indicative thereof very potent in his nativity.
@@ -81,7 +81,7 @@ XVII\. Give no judgment as to the future life of an aged person, until
 the number of years he may live shall have been reckoned.
 
 XVIII\. If, while a benefic may ascend, both the luminaries should be in
-the same minute, <span id="fr_305"></span>[1](#fn_305) the native will
+the same minute, <span id="fr_305"></span>[1](#fn_305.md) the native will
 be equally and highly prosperous in all things which can befall him. So,
 likewise, if the luminaries be mutually opposed by the east and west.
 But the contrary effect will be produced, should a malefic be on the
@@ -235,7 +235,7 @@ the birth.
 LII\. Men of tall stature have their lords of nativity in elevation, and
 their ascendants in the beginnings of signs; but the lords of men of
 short stature will be found in declination. <span
-id="fr_306"></span>[1](#fn_306) It must also be seen whether the signs
+id="fr_306"></span>[1](#fn_306.md) It must also be seen whether the signs
 be right or oblique.
 
 LIII\. The lords of nativity of slight or thin men have no latitude, but
@@ -279,7 +279,7 @@ LXI\. The Moon is significative of bodily matters, which, in respect of
 motion, resemble her.
 
 LXII\. By marking exactly the beginning of a conjunction, <span
-id="fr_307"></span>[1](#fn_307) judgment may be made of the variation of
+id="fr_307"></span>[1](#fn_307.md) judgment may be made of the variation of
 the weather in the ensuing month. It will depend upon the lord of the
 angle of every figure, for he controls the nature of the atmosphere;
 assuming also at these times the quality of the existing weather.
@@ -294,7 +294,7 @@ pronounce accordingly.
 
 LXV\. In the least conjunction, the difference of the mean conjunction,
 and in the mean conjunction the difference of the greatest
-conjunction. <span id="fr_308"></span>[2](#fn_308)
+conjunction. <span id="fr_308"></span>[2](#fn_308.md)
 
 LXVI\. Consider no profection by itself alone, but make reference also
 to the qualifications and impediments of the stars.
@@ -375,7 +375,7 @@ hasty in giving judgment.
 
 LXXXIII\. The time of obtaining a grant indicates the affection between
 the applicant and his prince; but the seat <span
-id="fr_309"></span>[1](#fn_309) shows the nature of the office;--
+id="fr_309"></span>[1](#fn_309.md) shows the nature of the office;--
 
 <span id="page_160">p. 160</span>
 
@@ -466,7 +466,7 @@ END OF THE CENTILOQUY
 
 ### Footnotes
 
-<span id="fn_304"></span>[153:1](ptb76.htm#fr_304) Moxon's Mathematical
+<span id="fn_304"></span>[153:1](ptb76.htm#fr_304.md) Moxon's Mathematical
 Dictionary says, that the "Centiloquium is a book containing one hundred
 astrological aphorisms, commonly ascribed to Ptolemy, as its author, but
 by some to Hermes Trismegistus." This account, however, seems to be
@@ -480,21 +480,21 @@ to horary questions only, which are not adverted to in the Tetrabiblos,
 and there are others also which do not appear to result from the
 doctrine of that book.
 
-<span id="fn_305"></span>[154:1](ptb76.htm#fr_305) Of the same degree
+<span id="fn_305"></span>[154:1](ptb76.htm#fr_305.md) Of the same degree
 and sign.
 
-<span id="fn_306"></span>[157:1](ptb76.htm#fr_306) Or in obscure
+<span id="fn_306"></span>[157:1](ptb76.htm#fr_306.md) Or in obscure
 situations.
 
-<span id="fn_307"></span>[158:1](ptb76.htm#fr_307) Of the Sun and Moon.
+<span id="fn_307"></span>[158:1](ptb76.htm#fr_307.md) Of the Sun and Moon.
 
-<span id="fn_308"></span>[158:2](ptb76.htm#fr_308) On this aphorism
+<span id="fn_308"></span>[158:2](ptb76.htm#fr_308.md) On this aphorism
 Partridge has said, "how Ptolemy meant it to be understood, I know not;
 and so I leave it."
 
-<span id="fn_309"></span>[159:1](ptb76.htm#fr_309) Or part of heaven
+<span id="fn_309"></span>[159:1](ptb76.htm#fr_309.md) Or part of heaven
 indicating the grant.
 
 ------------------------------------------------------------------------
 
-[Next: No. IV. The Zodiacal Planisphere](ptb77)
+[Next: No. IV. The Zodiacal Planisphere](ptb77.md)

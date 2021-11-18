@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Next](mhs01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Next](mhs01.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface](mhs01)
+[Next: Preface](mhs01.md)

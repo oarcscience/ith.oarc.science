@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt12)  [Next](trt14) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt12)  [Next](trt14.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ other, and every Knight took the way he best liked.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventure of Sir Galahad](trt14)
+[Next: The Adventure of Sir Galahad](trt14.md)

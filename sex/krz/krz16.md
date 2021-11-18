@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz15)  [Next](krz17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz15)  [Next](krz17.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ it.
 
 ------------------------------------------------------------------------
 
-[Next: Psychic Impotence](krz17)
+[Next: Psychic Impotence](krz17.md)

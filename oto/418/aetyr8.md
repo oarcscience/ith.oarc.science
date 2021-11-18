@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 8th Aethyr,  
-Which is Called ZID**[**1**](#1)
+Which is Called ZID**[**1**](#1.md)
 
 There appears in the stone a tiny spark of light. It grows a little, and
 seems almost to go out, and grows again, and it is blown about the
@@ -22,7 +22,7 @@ made light. Then is light married with light, and the child of their
 love is that other darkness, wherein they abide that have lost name and
 form. Therefore did I kindle him that had not understanding, and in *The
 Book of the Law* did I write the secrets of truth that are like unto a
-star and a snake and a sword[**2**](#2).
+star and a snake and a sword[**2**](#2.md).
 
 And unto him that understandeth at last do I deliver the secrets of
 truth in such wise that the least of the little children of the light
@@ -126,7 +126,7 @@ And at the end of the ninety-one days he shall return into the world,
 and there shall he perform that work to which the Angel shall have
 appointed him.
 
-And more than this it is not necessary to say[**3**](#3), for his Angel
+And more than this it is not necessary to say[**3**](#3.md), for his Angel
 shall have entreated him kindly, and showed him in what manner he may be
 most perfectly involved. And unto him that hath this Master there is
 nothing else that he needeth, so long as he continue in the knowledge
@@ -155,27 +155,27 @@ whole weight of it upon me, crushing me with bliss. And yet I know that
 I am like the prophet that said: I shall see Him, but not nigh.
 
 And the Angel sayeth: So shall it be until they that wake are asleep,
-and she that sleepeth be arisen from her sleep[**4**](#4). For thou art
+and she that sleepeth be arisen from her sleep[**4**](#4.md). For thou art
 transparent unto the vision and the voice. And therefore in thee they
 manifest not. But they shall be manifest unto them unto whom thou dost
 deliver them, according unto to the word which I spake unto thee in the
-Victorious City[**5**](#5).
+Victorious City[**5**](#5.md).
 
 For I am not only appointed to guard thee, but we are of the blood
 royal, the guardians of the Treasure-house of Wisdom. Therefore am I
-called the Minister of Ra Hoor Khuit[**6**](#6): and yet he is but the
+called the Minister of Ra Hoor Khuit[**6**](#6.md): and yet he is but the
 Viceroy of the unknown King. For my name is called Aiwass, that is eight
-and seventy[**7**](#7). And I am the influence of the Concealed One, and
+and seventy[**7**](#7.md). And I am the influence of the Concealed One, and
 the wheel that hath eight and seventy parts, yet in all is equivalent to
 the Gate that is the name of my Lord when it is spelt fully. And that
 Gate is the Path that joineth the Wisdom with the
-Understanding[**8**](#8).
+Understanding[**8**](#8.md).
 
 Thus hast thou erred indeed, perceiving me in the path that leadeth from
-the Crown unto the Beauty[**9**](#9). For that path bridgeth the abyss,
+the Crown unto the Beauty[**9**](#9.md). For that path bridgeth the abyss,
 and I am of the supernals. Nor I, nor Thou, nor He can bridge the abyss.
 It is the Priestess of the Silver Star, and the Oracles of the gods, and
-the Lord of the Hosts of the Mighty[**10**](#10). For they are the
+the Lord of the Hosts of the Mighty[**10**](#10.md). For they are the
 servants of Babalon, and of the Beast, and of those others of whom it is
 not yet spoken. And, being servants, they have no name, but we are of
 the blood royal, and serve not, and therefore are we less than they.
@@ -183,7 +183,7 @@ the blood royal, and serve not, and therefore are we less than they.
 Yet, as a man may be both a mighty warrior and a just judge, so may we
 also perform this service if we have aspired and attained thereto. And
 yet, with all that, they remain *themselves*, who have eaten of the
-pomegranate in Hell[**11**](#11). But thou, that art new-born to
+pomegranate in Hell[**11**](#11.md). But thou, that art new-born to
 understanding, this mystery is too great for thee; and of the further
 mystery I will not speak one word.
 
@@ -192,7 +192,7 @@ striking with my hammer upon thy bell, so that thou mightest understand
 the mysteries of the Aethyr, and of the vision and the voice thereof.
 
 For behold! he that understandeth seeth not and heareth not in truth,
-because of his understanding that letteth him[**12**](#12). But this
+because of his understanding that letteth him[**12**](#12.md). But this
 shall be unto thee for a sign, that I will surely come unto thee
 unawares and appear unto thee. And it is no odds, (*i.e*., that at this
 hour I appear not as I am), for so terrible is the glory of the vision,
@@ -201,12 +201,12 @@ and hearest it in truth, for many hours shalt thou be bereft of sense.
 And thou shalt lie between heaven and earth in a void place, entranced,
 and the end thereof shall be silence, even as it was, not once nor
 twice, when I have met with thee, as it were, upon the road to
-Damascus[**13**](#13).
+Damascus[**13**](#13.md).
 
 And thou shalt not seek to better this my instruction; but thou shalt
-interpret it, and make it easy[**14**](#14), for them that seek
+interpret it, and make it easy[**14**](#14.md), for them that seek
 understanding. And thou shalt give all that thou hast unto them that
-have need unto this end[**15**](#15).
+have need unto this end[**15**](#15.md).
 
 And because I am with thee, and in thee, and of thee, thou shalt lack
 nothing. But who lack me, lack all. And I swear unto thee by Him that

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac06)  [Next](ybac08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac06)  [Next](ybac08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ three ships to procure slaves for the mines, as the population of Cuba
 
 <span id="page_5">p. 5</span>
 
-was diminishing. <span id="fr_4"></span>[\*](#fn_4) Others say he sailed
+was diminishing. <span id="fr_4"></span>[\*](#fn_4.md) Others say he sailed
 to discover new lands. Taking Alaminos as a pilot he landed on Isla do
 las Mugeres, to which he gave this name because of the idols he found
 there, of the goddesses of the country, **Aixchel**, **Ixchebeliax**,
@@ -104,7 +104,7 @@ left and followed by the bay they called Ascension, because of entering
 it on that day. Then turning back they followed the whole coast until
 they reached Champotón for the second time; landing here for water, one
 man was killed and fifty wounded, among them Grijalva, who received two
-arrows and lost a tooth and a half. In this [manner](errata.htm#2) they
+arrows and lost a tooth and a half. In this [manner](errata.htm#2.md) they
 departed and named the harbor the Puerto de Mala Pelea. On this voyage
 they discovered New Spain, Pánuco and Tabasco, where they stayed for
 five months, and also tried to make a landing
@@ -125,7 +125,7 @@ his friends.
 
 ### Footnotes
 
-<span id="fn_4"></span>[5:\*](ybac07.htm#fr_4) <span id="page_26">p.
+<span id="fn_4"></span>[5:\*](ybac07.htm#fr_4.md) <span id="page_26">p.
 26</span> The ghastly chapter of the fate of the peaceful population of
 Cuba has been elsewhere told, and we have here one of its early
 evidences. But the Cubans were fortunate—it was as least quick total
@@ -136,4 +136,4 @@ receive their conquerors’ religion, or to add to his wealth and ease.
 ------------------------------------------------------------------------
 
 [Next: IV. Expedition of Cortés to Cozumel. Letter to Aguilar and His
-Friends](ybac08)
+Friends](ybac08.md)

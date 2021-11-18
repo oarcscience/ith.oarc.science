@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt71)  [Next](egt73) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt71)  [Next](egt73.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ that?'
 
 ------------------------------------------------------------------------
 
-[Next: ON POVERTY AND PERPLEXITY.](egt73)
+[Next: ON POVERTY AND PERPLEXITY.](egt73.md)

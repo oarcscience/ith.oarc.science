@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb08)  [Next](lifb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb08)  [Next](lifb10.md) 
 
 </div>
 
@@ -283,6 +283,6 @@ From Z. Topelius.
 
 ------------------------------------------------------------------------
 
-[Next: The King of the Waterfalls](lifb10)
+[Next: The King of the Waterfalls](lifb10.md)
 
 </div>

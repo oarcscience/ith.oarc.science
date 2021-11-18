@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce20)  [Next](sce22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce20)  [Next](sce22.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Spite, Hypocracie, Lieing, and Diƒƒimulation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 12](sce22)
+[Next: Chapter 12](sce22.md)

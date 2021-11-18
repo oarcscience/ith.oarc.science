@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../oth/oth) 
-[Previous](lear)  [Next](aac) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../oth/oth.md) 
+[Previous](lear)  [Next](aac.md) 
 
 ------------------------------------------------------------------------
 
@@ -4670,4 +4670,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Tragedie of Anthonie, and Cleopatra](aac) 
+[Next: The Tragedie of Anthonie, and Cleopatra](aac.md) 

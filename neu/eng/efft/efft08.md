@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft07)  [Next](efft09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft07)  [Next](efft09.md) 
 
 ------------------------------------------------------------------------
 
-# WILD EDRIC.   <span id="fr_9"></span>[1](#fn_9)
+# WILD EDRIC.   <span id="fr_9"></span>[1](#fn_9.md)
 
 SHROPSHIRE men must have been well acquainted with the fairies five
 hundred years ago. It was reported then that our famous champion, Wild
@@ -63,9 +63,9 @@ wife had long before foretold.
 
 ### Footnotes
 
-<span id="fn_9"></span>[1](efft08.htm#fr_9) Miss C. S. Burne,
+<span id="fn_9"></span>[1](efft08.htm#fr_9.md) Miss C. S. Burne,
 *Shropshire Folk-Lore*, p. 59; from Walter Mapes.
 
 ------------------------------------------------------------------------
 
-[Next: Lady Godiva](efft09)
+[Next: Lady Godiva](efft09.md)

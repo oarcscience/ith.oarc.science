@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits056) [Next](bits057)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits056) [Next](bits057.md)
 
 ------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ climax and the cap-stone.
 
 ------------------------------------------------------------------------
 
-[Next: § 57. The Way of Purity](bits057)
+[Next: § 57. The Way of Purity](bits057.md)
 
  
 

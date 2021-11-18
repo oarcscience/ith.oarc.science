@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis54)  [Next](kis56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis54)  [Next](kis56.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ come here and how hard the task is I have taken on myself.
 
 ------------------------------------------------------------------------
 
-[Next: Part VI](kis56)
+[Next: Part VI](kis56.md)

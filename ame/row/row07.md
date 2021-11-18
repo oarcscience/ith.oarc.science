@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](row06)  [Next](row08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](row06)  [Next](row08.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ everyday citizens.
 
 ------------------------------------------------------------------------
 
-[Next: And So They Celebrate Pagan Days In Our Public Schools](row08)
+[Next: And So They Celebrate Pagan Days In Our Public Schools](row08.md)

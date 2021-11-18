@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou19)  [Next](hou21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou19)  [Next](hou21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ justice may have been done by the bishops, it was
 <span id="page_440">p. 440</span>
 
 difficult for the latter to believe that such was the case. When the
-loser appealed to the presidency, <span id="fr_634"></span>[1](#fn_634)
+loser appealed to the presidency, <span id="fr_634"></span>[1](#fn_634.md)
 their judgment always confirmed the decision of the bishops, and hence
 was further ground for dissatisfaction. The saints regarded their courts
 as divinely commissioned and inspired tribunals; but not so the
@@ -64,11 +64,11 @@ such government, the incoming gentiles would do so erelong.
     Early in 1849, therefore, a convention was summoned of "the
 inhabitants of that portion of Upper California lying east of the Sierra
 Nevada Mountains," and on the 4th of March assembled at Salt Lake City.
-A committee <span id="fr_635"></span>[2](#fn_635) was appointed to
+A committee <span id="fr_635"></span>[2](#fn_635.md) was appointed to
 draught a constitution, under which the people might govern themselves
 until congress should otherwise provide by law. A, few days later the
 constitution was adopted, and a provisional government organized, under
-the name of the State of Deseret. <span id="fr_636"></span>[3](#fn_636)
+the name of the State of Deseret. <span id="fr_636"></span>[3](#fn_636.md)
 An immense tract of country was claimed, extending from latitude 33° to
 the border of Oregon, and from the Rocky Mountains to the Sierra Nevada,
 together with a section of the territory now included in southern
@@ -77,29 +77,29 @@ California, and the strip of
 <span id="page_441">p. 441</span>
 
 coast lying between Lower California and 118° 30´ of west
-longitude. <span id="fr_637"></span>[4](#fn_637) The seat of government
+longitude. <span id="fr_637"></span>[4](#fn_637.md) The seat of government
 was to be at Salt Lake City, and its powers were to be divided, as in
 other states, into three branches, the legislative, executive, and
 judiciary. The legislative authority was to be vested in a general
 assembly, consisting of a senate and house of representatives, both to
-be elected by the people. <span id="fr_638"></span>[5](#fn_638) The
+be elected by the people. <span id="fr_638"></span>[5](#fn_638.md) The
 executive power was placed in the hands of a governor, elected as
-elsewhere for four years; <span id="fr_639"></span>[6](#fn_639) a
+elsewhere for four years; <span id="fr_639"></span>[6](#fn_639.md) a
 lieutenant-governor, who was chosen for the
 
 <span id="page_442">p. 442</span>
 
 same term, and became ex officio president of the senate; a secretary of
 state; an auditor; and a treasurer. <span
-id="fr_640"></span>[7](#fn_640) The judiciary was to consist of a
+id="fr_640"></span>[7](#fn_640.md) The judiciary was to consist of a
 supreme court, and such inferior courts as the general assembly might
 establish. A chief justice and two associate judges were to be elected
 by a joint vote of the senate and house of representatives. <span
-id="fr_641"></span>[8](#fn_641)
+id="fr_641"></span>[8](#fn_641.md)
 
     All free white male residents of the state over the age of
 twenty-one were allowed a vote at the first election, <span
-id="fr_642"></span>[9](#fn_642) and all between the ages of eighteen and
+id="fr_642"></span>[9](#fn_642.md) and all between the ages of eighteen and
 forty-five, except those exempt by the laws of the United States and of
 the state of Deseret, were to be armed, equipped, and trained as a state
 militia, embodied a few weeks later in the Nauvoo legion, which was now
@@ -107,7 +107,7 @@ reorganized and divided into two cohorts, each cohort containing four
 regiments, each regiment two battalions, and each battalion five
 companies, Daniel H. Wells being major-general, and Jedediah M. Grant
 and Horace S. Eldredge brigadier-generals. <span
-id="fr_643"></span>[10](#fn_643)
+id="fr_643"></span>[10](#fn_643.md)
 
 <span id="page_443">p. 443</span>
 
@@ -120,7 +120,7 @@ Carrington, assessor and collector; Newell K. Whitney, treasurer; and
 Joseph L. Heywood, supervisor of roads. As no session of the assembly
 had yet been held, the judiciary was also elected by the people, Heber
 C. Kimball being chosen chief justice, and John Taylor and Newell K.
-Whitney associate judges. <span id="fr_644"></span>[11](#fn_644)
+Whitney associate judges. <span id="fr_644"></span>[11](#fn_644.md)
 
     The general assembly was first convened on the 2d of July, and on
 the 3d Willard Snow, being appointed speaker of the house of
@@ -157,7 +157,7 @@ recognized by the United States. On the 30th of April a memorial had
 already been signed by more than two thousand persons, asking for a
 "territorial government of the most liberal construction authorized by
 our excellent federal constitution, with the least possible
-delay." <span id="fr_645"></span>[12](#fn_645) On the 5th of July Almon
+delay." <span id="fr_645"></span>[12](#fn_645.md) On the 5th of July Almon
 W. Babbitt was elected delegate to congress in a joint session of the
 senate and representatives, and on the 6th a memorial was adopted by the
 representatives, in which the senate concurred three days later, asking
@@ -181,7 +181,7 @@ authority over this portion of the national domain. The memorial
 declares that, for their own security, and for the preservation of the
 rights of the United States, the people of the state of Deseret have
 organized a provisional government, under which the civil policy of the
-nation is duly maintained; <span id="fr_646"></span>[13](#fn_646) also
+nation is duly maintained; <span id="fr_646"></span>[13](#fn_646.md) also
 that there is now a sufficient number of individuals to support a state
 government, and that they have erected at their own expense a hall of
 legislature which will bear comparison with those in the older states.
@@ -194,7 +194,7 @@ form of civil government as your wisdom and magnanimity may award to the
 people of Deseret; and upon the adoption of any form of government here,
 that their delegate be received, and their interests properly and
 faithfully represented in the congress of the United States." <span
-id="fr_647"></span>[14](#fn_647)
+id="fr_647"></span>[14](#fn_647.md)
 
 <span id="page_446">p. 446</span>
 
@@ -236,12 +236,12 @@ one, condemned them all. "The two communities were too far apart," he
 declared, "to be combined even temporarily, and Texas and Maine might as
 well have been made one state as Deseret and California." Thereupon the
 legislature refused to entertain the memorial, and nothing was
-accomplished. <span id="fr_648"></span>[15](#fn_648)
+accomplished. <span id="fr_648"></span>[15](#fn_648.md)
 
  
 
     While Babbitt and his colleagues <span
-id="fr_649"></span>[16](#fn_649) are fulfilling their mission to
+id="fr_649"></span>[16](#fn_649.md) are fulfilling their mission to
 Washington, let us inquire how justice is administered and the affairs
 of the people managed in the self-constituted state of Deseret, through
 which lay the principal routes to the gold-fields of California. Some of
@@ -252,7 +252,7 @@ market in the mining camps. When they made a division of their property,
 as frequently happened on arriving in the valley, difficulties arose
 among them, and the discontented parties applied for redress to the
 courts of Deseret. In these instances there is sufficient evidence that
-impartial justice was rendered, <span id="fr_650"></span>[17](#fn_650)
+impartial justice was rendered, <span id="fr_650"></span>[17](#fn_650.md)
 and whatever the decision, appeal to a higher court was useless, for the
 judgment was invariably confirmed. If the losing party rebelled, or
 expressed in unseemly language his opinion of Mormon justice, he was
@@ -277,7 +277,7 @@ let alone two men," he remarked on one occasion, while at the same time
 he threatened to dismiss the entire bench if they did not improve.
 
     The organization of a civil government was intended mainly for the
-better control of the gentiles, <span id="fr_651"></span>[18](#fn_651)
+better control of the gentiles, <span id="fr_651"></span>[18](#fn_651.md)
 since, to its own members, the authority of the church sufficed. The
 judicial system of the saints was founded on the doctrines of the book
 of Mormon rather than on common law, and later, as we shall see, became
@@ -286,9 +286,9 @@ making much impression on the pockets of the community. For other
 reasons the Mormon code was distasteful, especially so far as it related
 to women. To marry out of the church was an offence. Those who had been
 sealed were advised not to cast in their lot with the gentiles; <span
-id="fr_652"></span>[19](#fn_652) any one found guilty of seducing a
+id="fr_652"></span>[19](#fn_652.md) any one found guilty of seducing a
 Mormon's wife must surely be put to death. <span
-id="fr_653"></span>[20](#fn_653)
+id="fr_653"></span>[20](#fn_653.md)
 
 <span id="page_449">p. 449</span>
 
@@ -313,10 +313,10 @@ land of their adoption.
 there is little worthy of record, and that little relates mainly to
 municipal affairs, and the establishment of courts of justice, no
 expense being incurred for this or other branches of government. <span
-id="fr_654"></span>[21](#fn_654) During the winter of 1849-50 a portion
+id="fr_654"></span>[21](#fn_654.md) During the winter of 1849-50 a portion
 of the territory was divided into counties, which were named Salt Lake,
 Weber, Utah, San Pete, Tooele, and Juab. <span
-id="fr_655"></span>[22](#fn_655) To these were added, in 1850, Iron
+id="fr_655"></span>[22](#fn_655.md) To these were added, in 1850, Iron
 county; in 1851, Millard
 
 <span id="page_450">p. 450</span>
@@ -324,7 +324,7 @@ county; in 1851, Millard
 and Box Elder counties; and in 1852, Washington county. The limits of
 Davis county were settled as early as 1848, and the boundaries of
 several other counties, together with the county seats, were defined in
-1850. <span id="fr_656"></span>[23](#fn_656) Acts were passed whereby it
+1850. <span id="fr_656"></span>[23](#fn_656.md) Acts were passed whereby it
 was ordered that county courts should be established, and judges,
 clerks, and sheriffs appointed for each, together with justices and
 constables for the several precincts. At Salt Lake City, the supreme
@@ -334,17 +334,17 @@ a hearing before the proper officers, and be determined without delay,
 according to law and equity.
 
     In January 1851 Salt Lake City was incorporated <span
-id="fr_657"></span>[24](#fn_657) by charter of the general assembly,
+id="fr_657"></span>[24](#fn_657.md) by charter of the general assembly,
 powers being granted to levy and collect taxes; to establish a system of
 common schools; to provide a water supply; to open streets, light them,
 and keep them in repair; to organize a police; and to tax, regulate,
 restrain, or suppress gambling-houses, houses of ill-fame, and the sale
 of spirituous and fermented liquors. <span
-id="fr_658"></span>[25](#fn_658) Acts of incorporation were also passed,
+id="fr_658"></span>[25](#fn_658.md) Acts of incorporation were also passed,
 between this date and 1865, for Payson, Tooele, Palmyra, Parowan, Nephi,
 Springville, Lehi, Manti, American Fork, Pleasant Grove, Spanish Fork,
 Fillmore, Cedar City, Ogden, and Provo, <span
-id="fr_659"></span>[26](#fn_659) the privileges granted being similar to
+id="fr_659"></span>[26](#fn_659.md) the privileges granted being similar to
 those conferred on the capital.
 
 <span id="page_451">p. 451</span>
@@ -362,7 +362,7 @@ between that point and Salt Lake Valley, and of the waters of Twin and
 Rock Springs in Tooele Valley. To Heber C. Kimball were given the waters
 of North Mill Creek cañon—all these grants, with the exception of the
 first, being made without consideration. <span
-id="fr_660"></span>[27](#fn_660)
+id="fr_660"></span>[27](#fn_660.md)
 
  
 
@@ -376,15 +376,15 @@ course failed to meet with the approval of congress. The memorial,
 accompanied by the constitution of the state of Deseret, was presented
 to the senate on the 27th of December, 1849, by Stephen A. Douglas, who
 moved that it be referred to the committee on territories, <span
-id="fr_661"></span>[28](#fn_661) and about one month later it was so
+id="fr_661"></span>[28](#fn_661.md) and about one month later it was so
 
 <span id="page_452">p. 452</span>
 
-referred. <span id="fr_662"></span>[29](#fn_662) On the 28th of January,
+referred. <span id="fr_662"></span>[29](#fn_662.md) On the 28th of January,
 1850, it was ordered by the house of representatives that a memorial
 presented by the delegate praying to be admitted to a seat in that body
 be referred to the committee on elections. <span
-id="fr_663"></span>[30](#fn_663) The committee unanimously recommended
+id="fr_663"></span>[30](#fn_663.md) The committee unanimously recommended
 the adoption of the following resolution: "That it is inexpedient to
 admit Almon W. Babbitt, Esq., to a seat in this body, as a delegate to
 the alleged state of Deseret." In a committee of the whole the report of
@@ -398,7 +398,7 @@ house which, even by implication, may give force and vitality to a
 political organization extra-constitutional and independent of the laws
 of the United States." After considerable debate the report was adopted
 by a vote of 108 to 77, and the state of Deseret thus failed to receive
-recognition from congress. <span id="fr_664"></span>[31](#fn_664)
+recognition from congress. <span id="fr_664"></span>[31](#fn_664.md)
 
 <span id="page_453">p. 453</span>
 
@@ -431,7 +431,7 @@ worthlessness."
 <span id="page_454">p. 454</span>
 
 <span class="contnote">\[paragraph continues\]</span> Utah <span
-id="fr_665"></span>[32](#fn_665) placed the southern boundary at the
+id="fr_665"></span>[32](#fn_665.md) placed the southern boundary at the
 thirty-seventh parallel, the section between that limit and the
 thirty-third parallel being included in the territory of New Mexico,
 with the exception of the part transferred to California, by which state
@@ -452,7 +452,7 @@ and untravelled solitude, they would have selected the site of their new
 Zion elsewhere than in the valley of the Great Salt Lake.
 
     On the 5th of April, 1851, the general assembly of the state of
-Deseret was dissolved, <span id="fr_666"></span>[33](#fn_666) though it
+Deseret was dissolved, <span id="fr_666"></span>[33](#fn_666.md) though it
 was
 
 <span id="page_455">p. 455</span>
@@ -470,12 +470,12 @@ had previously passed as a territorial legislature.
 ordering that an election for members of the assembly and for a delegate
 to congress be held throughout the territory on the first Monday in
 August. On July 21st three Indian agencies were established, <span
-id="fr_667"></span>[34](#fn_667) an agent and two sub-agents, of whom
+id="fr_667"></span>[34](#fn_667.md) an agent and two sub-agents, of whom
 the latter had already arrived, and were now assigned to their
 districts, having been appointed by the government. On the 8th of August
 three judicial districts were defined. Judges were assigned to each, and
 the times and places appointed for holding courts in the several
-counties appointed, <span id="fr_668"></span>[35](#fn_668) these powers
+counties appointed, <span id="fr_668"></span>[35](#fn_668.md) these powers
 being temporarily conferred on the governor by the organic act.
 
     The appointment of governor and superintendent of
@@ -483,7 +483,7 @@ being temporarily conferred on the governor by the organic act.
 <span id="page_456">p. 456</span>
 
 <span class="contnote">\[paragraph continues\]</span> Indian affairs was
-given to Brigham, <span id="fr_669"></span>[36](#fn_669) and it is
+given to Brigham, <span id="fr_669"></span>[36](#fn_669.md) and it is
 probable that no better selection could have been made. It is at least
 certain that if any other had been made, the rupture which occurred a
 few years later between the Mormons and the United States government
@@ -493,7 +493,7 @@ Alabama and Zerubbabel Snow of Ohio, associate judges; Seth M. Blair of
 Deseret, United States attorney; and Joseph L. Heywood of Deseret,
 United States marshal. As Buffington declined to serve, Lemuel H.
 Brandebury was selected to fill his place. <span
-id="fr_670"></span>[37](#fn_670) Snow, Heywood, and Blair being Mormons,
+id="fr_670"></span>[37](#fn_670.md) Snow, Heywood, and Blair being Mormons,
 the government patronage was thus fairly distributed between saints and
 gentiles. Although these appointments were made on the 20th of
 September, 1850, none of the gentile officials arrived in Salt Lake City
@@ -517,7 +517,7 @@ the 7th and 10th of September, a general conference of the church was
 held, at which the judge obtained permission to address the assembly.
 During his remarks he drifted into the subject of polygamy, directing
 this part of his discourse to the women, whom he exhorted to a life of
-virtue. <span id="fr_671"></span>[38](#fn_671) He also took to task some
+virtue. <span id="fr_671"></span>[38](#fn_671.md) He also took to task some
 of the Mormon leaders, who on a previous occasion had spoken
 disrespectfully of the government, one of them having gone so far as to
 consign the late President Zachary Taylor to the nether regions.
@@ -527,7 +527,7 @@ restraint by Brigham, would have done violence to the judge. "If," said
 the former, "I had but crooked my little finger, he would have been used
 up; but I did not bend it. If I had, the sisters alone felt indignant
 enough to have chopped him in pieces." <span
-id="fr_672"></span>[39](#fn_672) The governor contented himself with
+id="fr_672"></span>[39](#fn_672.md) The governor contented himself with
 rebuking the judge, who, he declared, must be either profoundly ignorant
 or perversely wicked. It had become a matter of history throughout the
 enlightened world, he declared, that the government of the United States
@@ -565,15 +565,15 @@ secretary would also take with him the funds placed in his hands, and
 the seal, records, and documents pertaining to his office. The governor
 considered this course illegal, and immediately issued a proclamation
 declaring the result of the election, <span
-id="fr_673"></span>[40](#fn_673) and ordering the assembly to convene on
+id="fr_673"></span>[40](#fn_673.md) and ordering the assembly to convene on
 the 22d of September, only four days later. <span
-id="fr_674"></span>[41](#fn_674) On the 24th a
+id="fr_674"></span>[41](#fn_674.md) On the 24th a
 
 <span id="page_459">p. 459</span>
 
 resolution was passed, enjoining the United States marshal to take into
 his custody all the government funds and other public property in
-possession of the secretary. <span id="fr_675"></span>[42](#fn_675) This
+possession of the secretary. <span id="fr_675"></span>[42](#fn_675.md) This
 resolution was presented to Harris, together with an order for $500 to
 defray the incidental expenses of the assembly. The secretary ignored
 the resolution and refused to pay the order, under the plea that the
@@ -583,7 +583,7 @@ members were not legally elected.
 illegal was, that before the votes were cast the governor had failed to
 take a census of the territory, as provided in the organic act; this the
 latter attributed to the miscarriage of instructions and blanks, which
-had not even yet arrived. <span id="fr_676"></span>[43](#fn_676) On the
+had not even yet arrived. <span id="fr_676"></span>[43](#fn_676.md) On the
 other hand, it was clearly the duty of the secretary, as stated in that
 act, to remain in the territory during his tenure of office. Moreover,
 the judges organized and held a session of the supreme court before any
@@ -603,11 +603,11 @@ form and phrase, no further action was taken. Finally, on the 28th of
 September, the secretary, and judges Brandebury and Brocchus, set forth
 for Washington, taking with them the territorial seal, the records,
 documents, and funds, which were returned to the proper
-authorities. <span id="fr_677"></span>[44](#fn_677) On the following
+authorities. <span id="fr_677"></span>[44](#fn_677.md) On the following
 
 <span id="img_46000"></span> <span align="CENTER"> [![TERRITORIAL
 SEAL.](tn/46000.jpg)  
-Click to enlarge](img/46000.jpg)  
+Click to enlarge](img/46000.jpg.md)  
 TERRITORIAL SEAL.  
 </span>
 
@@ -615,7 +615,7 @@ TERRITORIAL SEAL.
 
 day the legislative assembly signed a memorial praying that the
 vacancies be filled as soon as possible from residents of the
-territory. <span id="fr_678"></span>[45](#fn_678) Meanwhile, to prevent
+territory. <span id="fr_678"></span>[45](#fn_678.md) Meanwhile, to prevent
 further derangement, and for the safe-keeping of the territorial
 records, Willard Richards was temporarily appointed secretary.
 
@@ -624,11 +624,11 @@ York, who was appointed chief justice; Leonidas Shaver, who succeeded
 Brocchus; and as secretary, Benjamin G. Ferris. The new officials
 enjoyed but a brief tenure of office. After remaining in Utah for about
 a year, Reid returned to New York, where he died in 1855. <span
-id="fr_679"></span>[46](#fn_679) Shaver retiring to rest one night, soon
+id="fr_679"></span>[46](#fn_679.md) Shaver retiring to rest one night, soon
 after his arrival, was found dead in his room next morning, thereby
 giving rise to an unfounded rumor that he had been poisoned on account
 of a supposed difficulty with the governor. <span
-id="fr_680"></span>[47](#fn_680) Secretary Ferris, after a six months'
+id="fr_680"></span>[47](#fn_680.md) Secretary Ferris, after a six months'
 residence, proceeded
 
 <span id="page_462">p. 462</span>
@@ -643,17 +643,17 @@ prominent part in the history of the saints.
     Although there were no funds wherewith to pay the members, the
 sessions of the legislature were continued, with occasional
 adjournments, until February 1852, when a special session was ordered by
-the governor, <span id="fr_681"></span>[48](#fn_681) and lasted until
+the governor, <span id="fr_681"></span>[48](#fn_681.md) and lasted until
 the 6th of March. The laws enacted by the assembly of the state of
 Deseret were declared to be in force, so far as they did not conflict
-with the organic act. <span id="fr_682"></span>[49](#fn_682) Other laws
+with the organic act. <span id="fr_682"></span>[49](#fn_682.md) Other laws
 were passed relating to the punishment of crime, the organization of
 courts, the administration of estates, the training of the militia, the
 incorporation of cities, the distribution of lands, the construction of
 roads, bridges, and canals, and such matters as lay within the range of
-territorial legislation. <span id="fr_683"></span>[50](#fn_683) It was
+territorial legislation. <span id="fr_683"></span>[50](#fn_683.md) It was
 determined to remove the site of the capital from Salt Lake City <span
-id="fr_684"></span>[51](#fn_684) to some point in the Pahvan Valley, and
+id="fr_684"></span>[51](#fn_684.md) to some point in the Pahvan Valley, and
 a committee appointed for that purpose selected the town of Fillmore.
 
     Memorials to congress were also adopted, one of which asked that
@@ -673,7 +673,7 @@ abundant; that on the completion of the line the entire trade of China
 and the East Indies would pass through the United States; and that the
 road would consolidate the relations of the country with foreign powers
 in times of peace, and furnish means of defence in times of war. <span
-id="fr_685"></span>[52](#fn_685) In 1854 a second memorial was
+id="fr_685"></span>[52](#fn_685.md) In 1854 a second memorial was
 presented, stating the opinion of the Mormons as to the best route for
 an overland railroad, and a demonstration was held in favor of the
 project, the inhabitants, male and female, attending en masse. In the
@@ -716,7 +716,7 @@ informed that the authorities were well pleased with the proposed
 exploration, that they had themselves contemplated such a measure, but
 could not yet afford the expense, and that they would cheerfully render
 all the assistance in their power. <span
-id="fr_686"></span>[53](#fn_686)
+id="fr_686"></span>[53](#fn_686.md)
 
     After exploring a route to Fort Hall, and making a reconnoissance of
 Cache Valley and the western shore of the lake, Stansbury and his men
@@ -724,7 +724,7 @@ returned to Salt Lake City, and there passed the winter of 1849-50.
 During this winter Lieutenant Gunnison gathered most of the material for
 his well-known book on the Mormons, one of the most valuable and
 impartial works yet published by a gentile writer. <span
-id="fr_687"></span>[54](#fn_687)
+id="fr_687"></span>[54](#fn_687.md)
 
 <span id="page_465">p. 465</span>
 
@@ -741,7 +741,7 @@ observations extending over an area of more than five
 
 <span id="page_467">p. 467</span>
 
-thousand square miles. <span id="fr_688"></span>[55](#fn_688) He then
+thousand square miles. <span id="fr_688"></span>[55](#fn_688.md) He then
 resolved to search out on his return journey some practicable route to
 the southward of South Pass, though a part of it lay through the
 territory where Sioux, Blackfoot, Snake, and Utah were used to meet in
@@ -759,7 +759,7 @@ north fork of the Platte to South Pass; thence by way of Bear River
 Valley to Fort Bridger; from that point by way of Black Fork and turning
 the Uintah Range to the Kamas prairie, whence the route to the capital
 lay through the valley of the Timpanogos. <span
-id="fr_689"></span>[56](#fn_689)
+id="fr_689"></span>[56](#fn_689.md)
 
     In 1853 Gunnison, who had now been promoted to the rank of captain,
 was ordered to survey a route farther to the south, by way of the
@@ -811,11 +811,11 @@ to within twenty-five yards of the spot. The surprise was complete. In
 vain Gunnison, running forth from his tent, called out to them that he
 was their friend. He fell, pierced by fifteen arrows, and of the rest
 only four escaped, after being pursued for several hours by the
-Indians. <span id="fr_690"></span>[57](#fn_690)
+Indians. <span id="fr_690"></span>[57](#fn_690.md)
 
 <span id="img_46900"></span> <span align="CENTER"> [![SITE OF THE
 GUNNISON MASSACRE.](tn/46900.jpg)  
-Click to enlarge](img/46900.jpg)  
+Click to enlarge](img/46900.jpg.md)  
 SITE OF THE GUNNISON MASSACRE.  
 </span>
 
@@ -843,13 +843,13 @@ have a fair specimen of the hundreds of defamatory stories which have
 been told about the Mormons from the beginning. In this instance not
 only is there no valid proof against them, but there are many
 circumstances pointing in the opposite direction, <span
-id="fr_691"></span>[58](#fn_691) one of them being that among the slain
+id="fr_691"></span>[58](#fn_691.md) one of them being that among the slain
 was a Mormon guide. The Gunnison massacre was brought on by gentiles; it
 was the direct result of the killing of the Pah Ute by California
 emigrants. As no compensation had been made to his tribe, they avenged
 themselves, as was their custom, on the first Americans—for thus they
 termed all white men, other than Mormons—whom they found in their
-territory. <span id="fr_692"></span>[59](#fn_692) The
+territory. <span id="fr_692"></span>[59](#fn_692.md) The
 
 <span id="page_471">p. 471</span>
 
@@ -861,8 +861,8 @@ of Nephi, Payson, and Provo.
 
     The Mormon maxim with regard to the Indians was that it was cheaper
 to feed than to fight them. Hence their intercourse with the Utes and
-Shoshones <span id="fr_693"></span>[60](#fn_693) was generally
-peaceable. <span id="fr_694"></span>[61](#fn_694) They taught them
+Shoshones <span id="fr_693"></span>[60](#fn_693.md) was generally
+peaceable. <span id="fr_694"></span>[61](#fn_694.md) They taught them
 
 <span id="page_472">p. 472</span>
 
@@ -889,13 +889,13 @@ and cattle. A number of Utahs were on the ground, and a portion of them
 were made prisoners and retained as hostages, the tribe being advised to
 move south to their usual place of abode and avoid all further
 intercourse with the Shoshones. Thus the matter was settled without
-further bloodshed. <span id="fr_695"></span>[62](#fn_695)
+further bloodshed. <span id="fr_695"></span>[62](#fn_695.md)
 
     No serious outbreaks occurred among the Indian tribes during 1851-2,
 though emigrant parties, both Mormon and gentile, were sometimes
-molested, <span id="fr_696"></span>[63](#fn_696) and in October of the
+molested, <span id="fr_696"></span>[63](#fn_696.md) and in October of the
 former year, the mail for California was captured within a few days
-after leaving Salt Lake City. <span id="fr_697"></span>[64](#fn_697)
+after leaving Salt Lake City. <span id="fr_697"></span>[64](#fn_697.md)
 
     During 1853 and a portion of the following year occurred what was
 known as the Walker war, in which the Mormons suffered serious loss of
@@ -917,7 +917,7 @@ this costume he wore his gaudy Indian trappings, and as he rode at the
 head of his braves, with their gayly accoutred steeds and embroidered
 saddles glittering with metal ornaments, he might have been taken for a
 Soldan among the dusky Painims of the west. <span
-id="fr_698"></span>[65](#fn_698)
+id="fr_698"></span>[65](#fn_698.md)
 
     At first Walker received the exiled saints with open arms, gave them
 information as to the nature of the country, advised them where to
@@ -930,7 +930,7 @@ man. On the 17th of July, 1853, hostilities broke out, and continued
 with little interruption until winter. During this year twelve Mormons
 were killed and a number wounded; about four hundred cattle and horses
 were stolen, and the expense incurred in building forts and removing
-settlements amounted to $200,000. <span id="fr_699"></span>[66](#fn_699)
+settlements amounted to $200,000. <span id="fr_699"></span>[66](#fn_699.md)
 That the loss was not still greater was due to the vigilance of
 
 <span id="page_475">p. 475</span>
@@ -943,11 +943,11 @@ the Indian camps in person, and for a time averted the outbreak.
 presence of trading parties from New Mexico, who supplied the Indians
 with horses, firearms, and ammunition, often taking in exchange Indian
 women and children, who were afterward sold into slavery. <span
-id="fr_700"></span>[67](#fn_700) To remedy this evil, an act was passed
+id="fr_700"></span>[67](#fn_700.md) To remedy this evil, an act was passed
 by the Utah legislature in 1852, legalizing the enforced apprenticeship
 of Indian children, but only for the purpose of inducing the brethren to
 purchase those who would otherwise have been sold to the Mexicans or
-abandoned by their parents. <span id="fr_701"></span>[68](#fn_701) So
+abandoned by their parents. <span id="fr_701"></span>[68](#fn_701.md) So
 frequent were
 
 <span id="page_476">p. 476</span>
@@ -955,10 +955,10 @@ frequent were
 the visits of the slave-traders, that in April 1853 a proclamation was
 issued by the governor, ordering the arrest of all strolling parties of
 Mexicans, and forbidding any Mexican to leave the territory until
-further advised. <span id="fr_702"></span>[69](#fn_702)
+further advised. <span id="fr_702"></span>[69](#fn_702.md)
 
     Between 1854 and 1856 troubles with the Indians were less
-frequent, <span id="fr_703"></span>[70](#fn_703) and these were mainly
+frequent, <span id="fr_703"></span>[70](#fn_703.md) and these were mainly
 with the
 
 <span id="page_477">p. 477</span>
@@ -968,20 +968,20 @@ of August, 1855, a treaty was negotiated by the Indian agent with the
 Shoshones, whereby, for a consideration of $3,000, peace and friendship
 were to be confirmed with the United States, and the passage of United
 States citizens through their territory without molestation was to be
-guaranteed. <span id="fr_704"></span>[71](#fn_704) In January of this
-year the chief Walker died, <span id="fr_705"></span>[72](#fn_705) at
+guaranteed. <span id="fr_704"></span>[71](#fn_704.md) In January of this
+year the chief Walker died, <span id="fr_705"></span>[72](#fn_705.md) at
 peace, as it seems, with the Mormons,
 
 <span id="page_478">p. 478</span>
 
 and was succeeded by his brother Arapeen. <span
-id="fr_706"></span>[73](#fn_706) Thus the leading spirit of the Utahs
+id="fr_706"></span>[73](#fn_706.md) Thus the leading spirit of the Utahs
 was taken from their midst, and starved though the Indians were, <span
-id="fr_707"></span>[74](#fn_707) they ceased for a time from open
+id="fr_707"></span>[74](#fn_707.md) they ceased for a time from open
 hostility, contenting themselves with occasional raids on the Mormons’
 cattle and horses, and accepting with thankfulness such small presents
 as the Indian agents were pleased to give them. <span
-id="fr_708"></span>[75](#fn_708)
+id="fr_708"></span>[75](#fn_708.md)
 
     It is worthy of note that the United States should have deemed Utah
 fit to be organized as a territory, and should yet have considered the
@@ -995,7 +995,7 @@ thousand
 citizens, and on the highway of travel between the verges of the
 continent. Between July 1853 and August 1856 more than $11,000,000 were
 expended for the occupation or acquisition of Indian territory. <span
-id="fr_709"></span>[76](#fn_709) Of this total less than the
+id="fr_709"></span>[76](#fn_709.md) Of this total less than the
 three-hundredth part of one per cent was paid to the Shoshones, and to
 the Utahs nothing. For the five years ending the 30th of June, 1855, the
 sum paid to the Mormons for losses incurred through Indian depredations,
@@ -1003,13 +1003,13 @@ for the expense of suppressing Indian outbreaks, and of negotiating
 treaties, amounting probably to not less than $300,000 was $95,940.65;
 and, small as it was, when drafts were presented at the treasury,
 excuses were found for not paying them. <span
-id="fr_710"></span>[77](#fn_710)
+id="fr_710"></span>[77](#fn_710.md)
 
     The occupation of territory under such conditions was of course
 resented by the original owners of the soil, and it is no matter for
 surprise that the small detachments of United States troops lost more in
 number between the years 1853 and 1856 than did the Mormons. <span
-id="fr_711"></span>[78](#fn_711) The saints seldom used their rifles
+id="fr_711"></span>[78](#fn_711.md) The saints seldom used their rifles
 
 <span id="page_480">p. 480</span>
 
@@ -1020,24 +1020,24 @@ beings. The emigrants had no such scruples.
 
 ### Footnotes
 
-<span id="fn_634"></span>[440:1](hou20.htm#fr_634) The president desired
+<span id="fn_634"></span>[440:1](hou20.htm#fr_634.md) The president desired
 no litigation among his people. 'Most of them,' he said, 'have learned
 that it is a condescension far beneath them, and that it opens a wide
 door, when indulged in, for the admission of every unclean spirit.'
 *Hist. B. Young*, 1852, MS., 15.
 
-<span id="fn_635"></span>[440:2](hou20.htm#fr_635) Albert Carrington,
+<span id="fn_635"></span>[440:2](hou20.htm#fr_635.md) Albert Carrington,
 Joseph L. Heywood, William W. Phelps, David Fullmer, John S. Fullruer,
 Charles C. Rich, John Taylor, Parley P. Pratt, John M. Bernhisel, and
 Erastus Snow. *Utah Early Records*, MS., 51.
 
-<span id="fn_636"></span>[440:3](hou20.htm#fr_636) The word 'Deseret' is
+<span id="fn_636"></span>[440:3](hou20.htm#fr_636.md) The word 'Deseret' is
 taken from the book of Mormon, and means honey-bee. As it is written in
 the book of Ether of the people who came over the great water from the
 old world to the new: 'And they did also carry with them "deseret,"
 which, by interpretation, is a honey-bee.'
 
-<span id="fn_637"></span>[441:4](hou20.htm#fr_637) After the preamble,
+<span id="fn_637"></span>[441:4](hou20.htm#fr_637.md) After the preamble,
 in which it is stated that since the treaty with Mexico all civil
 organization originating with that republic was abrogated, and that
 congress had failed to provide for the civil government of the territory
@@ -1068,7 +1068,7 @@ Charles Preuss, and published by order of the senate of the United
 States in 1848.' *Id*., 52-4; Hist. B. Young, MS., passim; Burton's City
 of the Saints, 350-1; Mackay's The Mormons, 258-9.
 
-<span id="fn_638"></span>[441:5](hou20.htm#fr_638) Annual sessions of
+<span id="fn_638"></span>[441:5](hou20.htm#fr_638.md) Annual sessions of
 the general assembly were to be held, the first one to convene on the
 first Monday in July 1849, and thereafter on the first Monday in
 December, unless summoned by the governor of the state during the
@@ -1087,27 +1087,27 @@ constitution of the United States and of the state of Deseret, the oath
 to be administered by the members to each other. To the governor was
 granted the usual power of veto. Utah Early Records, MS., 54-6.
 
-<span id="fn_639"></span>[441:6](hou20.htm#fr_639) The qualifications,
+<span id="fn_639"></span>[441:6](hou20.htm#fr_639.md) The qualifications,
 powers, and duties of the governor were similar to those of the
 governors of other states.
 
-<span id="fn_640"></span>[442:7](hou20.htm#fr_640) The returns of each
+<span id="fn_640"></span>[442:7](hou20.htm#fr_640.md) The returns of each
 election for executive officials were to be sealed up and transmitted to
 the speaker of the house of representatives, who, during the first week
 of the session, must open and publish them in the presence of both
 houses. They were required to take the same oath or affirmation as did
 the members of the assembly. *Id*., 60.
 
-<span id="fn_641"></span>[442:8](hou20.htm#fr_641) The judges were to
+<span id="fn_641"></span>[442:8](hou20.htm#fr_641.md) The judges were to
 hold office for four years, or until their successors were elected.
 
-<span id="fn_642"></span>[442:9](hou20.htm#fr_642) No person in the
+<span id="fn_642"></span>[442:9](hou20.htm#fr_642.md) No person in the
 service of the U.S. government was to be considered a resident on
 account of his being stationed within the territory, unless otherwise
 provided by law. Vote was of course by ballot. *Utah, Acts Legisl*. (ed.
 1855), 53.
 
-<span id="fn_643"></span>[442:10](hou20.htm#fr_643) Military districts
+<span id="fn_643"></span>[442:10](hou20.htm#fr_643.md) Military districts
 were organized, one in each county. At the first there were only
 sufficient men in each district for a company or battalion. As the
 number increased, a brigade was formed, with a brigadier-general in
@@ -1140,13 +1140,13 @@ Apr. 4, 1855; *S. F. Herald*, Feb. 22, 1854; *Sen. Doc*., 32d Cong. 2d
 Sess., no. 33; *Fisher's Am. Star. Ann*., 1854, 120; *Burton's City of
 the Saints*, 408.
 
-<span id="fn_644"></span>[443:11](hou20.htm#fr_644) *Utah Early
+<span id="fn_644"></span>[443:11](hou20.htm#fr_644.md) *Utah Early
 Records*, MS., 66; *Harrison's Crit. Notes on Utah*, MS., 5-6; *S. L.
 City Contributor*, ii. 177; *Smith's Rise, Progress, and Travels*, 19.
 At the same election 25 magistrates or bishops of wards were elected.
 The number of votes polled was 674. *Hist. B. Young*, MS., 1849, p. 38.
 
-<span id="fn_645"></span>[444:12](hou20.htm#fr_645) In the preamble we
+<span id="fn_645"></span>[444:12](hou20.htm#fr_645.md) In the preamble we
 read: 'Whereas we are so far removed from all civilized society and
 organized government, and also by natural barriers of trackless deserts,
 everlasting mountains of snow, and savages moro bloody than either, so
@@ -1160,7 +1160,7 @@ body of the petition, which was signed by Brigham on the 30th, 2,270
 signatures having been appended at that date. *Utah Early Records*, Ms.,
 75-7.
 
-<span id="fn_646"></span>[445:13](hou20.htm#fr_646) Then follow two
+<span id="fn_646"></span>[445:13](hou20.htm#fr_646.md) Then follow two
 clauses in the preamble in which are mentioned the natural barriers
 between the state of Deseret and other portions of the Union, and the
 importance of meeting out the boundaries of states and territories in
@@ -1170,34 +1170,34 @@ Next comes a brief homily on the science of government and its
 application to the state of Deseret. A copy of the memorial will be
 found in *Id*., 87-90.
 
-<span id="fn_647"></span>[445:14](hou20.htm#fr_647) The assembly at S.
+<span id="fn_647"></span>[445:14](hou20.htm#fr_647.md) The assembly at S.
 L. City resolved that 2,000 copies of the memorial, together with copies
 of the constitution, and an abstract of all records, journals, <span
 id="page_446">p. 446</span> and other documents pertaining to the
 organization of the state, be printed and furnished to members of
 congress. *Id*., 90-1.
 
-<span id="fn_648"></span>[447:15](hou20.htm#fr_648) *Cal. Sen. Jour*.
+<span id="fn_648"></span>[447:15](hou20.htm#fr_648.md) *Cal. Sen. Jour*.
 1850, 429-42, 1296; *Frontier Guardian*, May 29, 1850; *Deseret News*,
 July 6, 1850; *Utah Early Records*, MS., 94-5; *Hist. B. Young*, MS.,
 1850-1.
 
-<span id="fn_649"></span>[447:16](hou20.htm#fr_649) R. L. Campbell,
+<span id="fn_649"></span>[447:16](hou20.htm#fr_649.md) R. L. Campbell,
 Oliver G. Workman, and Edgar Blodgett. *Utah Early Records*, MS., 93.
 
-<span id="fn_650"></span>[447:17](hou20.htm#fr_650) Lieut Gunnison and
+<span id="fn_650"></span>[447:17](hou20.htm#fr_650.md) Lieut Gunnison and
 Capt. Stansbury, who may be considered impartial observers, both state
 that this was the case. The former says: 'There was every appearance of
 impartiality and strict justice done to all parties.' *The Mormons*, 65.
 The latter remarks: 'Justice was equitably administered alike to saint
 and gentile.' *Expedition to Valley of G. S. Lake*. 130.
 
-<span id="fn_651"></span>[448:18](hou20.htm#fr_651) Although we read in
+<span id="fn_651"></span>[448:18](hou20.htm#fr_651.md) Although we read in
 *Doctrine and Covenants*, 332, 'We believe that all governments
 necessarily require civil officers and magistrates to enforce the laws
 of the same.'
 
-<span id="fn_652"></span>[448:19](hou20.htm#fr_652) Gunnison relates an
+<span id="fn_652"></span>[448:19](hou20.htm#fr_652.md) Gunnison relates an
 instance where an emigrant, on his way to California, took in his train,
 at her own request, a woman who represented that the person to whom she
 was sealed had not visited or provided for her for three years, and that
@@ -1206,7 +1206,7 @@ betrothed. When about 100 miles from Salt Lake City he was overtaken by
 a party of Mormons and compelled to surrender the woman. *The Mormons*,
 72.
 
-<span id="fn_653"></span>[448:20](hou20.htm#fr_653) At the trial of a
+<span id="fn_653"></span>[448:20](hou20.htm#fr_653.md) At the trial of a
 man named Egan for killing the seducer of a Mormon <span
 id="page_449">p. 449</span> woman, during the husband's absence, the
 judge declared: 'The principle, the only one that beats and throbs
@@ -1215,10 +1215,10 @@ this: The man who seduces his neighbor's wife must die, and her nearest
 relative must kill him.' *Id*., 72. See also *Utah Early Records*, MS.,
 159-60.
 
-<span id="fn_654"></span>[449:21](hou20.htm#fr_654) *Utah Early
+<span id="fn_654"></span>[449:21](hou20.htm#fr_654.md) *Utah Early
 Records*, MS., 117.
 
-<span id="fn_655"></span>[449:22](hou20.htm#fr_655) *Third General
+<span id="fn_655"></span>[449:22](hou20.htm#fr_655.md) *Third General
 Epistle of the Twelve*, in *Frontier Guardian*, June 12, 1850, where the
 two last are spelled Yoab and Tuille. In *Smith's Rise, Progress, and
 Travels*, 20, it is stated that Juab county was not organized Until
@@ -1227,14 +1227,14 @@ word, signifying flat or level. San Pete, sometimes called Sanpitch, was
 the name of an Indian chief. Weber is named after an explorer along the
 river of that name. *Richards’ Utah Miscell*., MS., 1.
 
-<span id="fn_656"></span>[450:23](hou20.htm#fr_656) *Utah, Compend.
+<span id="fn_656"></span>[450:23](hou20.htm#fr_656.md) *Utah, Compend.
 Laws*, 113-18. For organization of Millard co., see *Utah, Acts Legisl*.
 (ed. 1855), 224. It was called after Millard Fillmore; Davis co. after
 Capt. Davis of the Morm. battalion; Iron co., of course, from the
 deposits of iron ore found thereabout; and Box Elder from the trees on
 Box Elder creek. *Richards’ Utah Miscell*., MS., 7.
 
-<span id="fn_657"></span>[450:24](hou20.htm#fr_657) Jedediah M. Grant
+<span id="fn_657"></span>[450:24](hou20.htm#fr_657.md) Jedediah M. Grant
 was appointed mayor; Nathaniel H. Felt, William Snow, Jesse P. Harmon,
 and Nathaniel V. Jones, aldermen; Vincent Shirtleff, Benjamin L. Clapp,
 Zera Pulsipher, William G. Perkins, Lewis Robinson, Harrison Burgess,
@@ -1243,21 +1243,21 @@ Jeter Clinton, John L. Dunyon, and Samuel W. Richards, councillors.
 77, where the name of Lewis Robinson does not appear in the list of
 councillors.
 
-<span id="fn_658"></span>[450:25](hou20.htm#fr_658) *Utah, Acts Legisl*.
+<span id="fn_658"></span>[450:25](hou20.htm#fr_658.md) *Utah, Acts Legisl*.
 (ed. 1855), 64-72; *Tullidge's Hist. S. L. City*, 72-7. In 1860 this
 charter was repealed, and a new act of incorporation passed. In 1864 'an
 act amending the charter of Great Salt Lake City' passed the legislative
 assembly, and was approved by the governor. *Utah, Acts Legisl*. (ed.
 1866), 113-20.
 
-<span id="fn_659"></span>[450:26](hou20.htm#fr_659) *Id*. (ed. 1855),
+<span id="fn_659"></span>[450:26](hou20.htm#fr_659) *Id*. (ed. 1855.md),
 74-102, 321-57; (ed. 1866), 120-72; *Utah, Comp. Laws*, 770, 823-42;
 *Deseret News*, Feb. 19, 1853.
 
-<span id="fn_660"></span>[451:27](hou20.htm#fr_660) *Utah, Acts Legisl*.
+<span id="fn_660"></span>[451:27](hou20.htm#fr_660.md) *Utah, Acts Legisl*.
 (ed. 1855), 63-4, 72-3.
 
-<span id="fn_661"></span>[451:28](hou20.htm#fr_661) On Dec. 31st, Joseph
+<span id="fn_661"></span>[451:28](hou20.htm#fr_661.md) On Dec. 31st, Joseph
 R. Underwood of Kentucky presented a memorial from William Smith and
 Isaac Sheen—the former a brother of the prophet—representing themselves
 to be the legitimate presidents of the church of Jesus Christ of
@@ -1277,16 +1277,16 @@ around Council Bluffs controlled the post-office in that district and
 obstructed the free circulation of newspapers. It was referred to the
 committee on post-offices and post-roads. *Id*., 524.
 
-<span id="fn_662"></span>[452:29](hou20.htm#fr_662) On Jan. 22d. On the
+<span id="fn_662"></span>[452:29](hou20.htm#fr_662.md) On Jan. 22d. On the
 same date a bill introduced by Henry S. Foote of Mississippi to
 establish suitable territorial governments for California, Deseret, and
 New Mexico, and for other purposes, was referred to the committee on
 territories. *Id*., 212-13.
 
-<span id="fn_663"></span>[452:30](hou20.htm#fr_663) *House Jour*., 31st
+<span id="fn_663"></span>[452:30](hou20.htm#fr_663.md) *House Jour*., 31st
 Cong. 1st Sess., 414.
 
-<span id="fn_664"></span>[452:31](hou20.htm#fr_664) A report of the
+<span id="fn_664"></span>[452:31](hou20.htm#fr_664.md) A report of the
 debates in the senate and house with regard to the admission of Utah as
 a state or territory will be found in *Cong. Globe*, 1849-50, passim. In
 *Id*., xxi. 1221, is a copy of a memorial drawn up by James J. Strung,
@@ -1308,13 +1308,13 @@ forever occupy the uninhabited lands in the islands of Lake Michigan.
 Although there probably were no unoccupied lands in these islands in
 1850, the petition was referred to the committee on public lands.
 
-<span id="fn_665"></span>[454:32](hou20.htm#fr_665) Copies of it will be
+<span id="fn_665"></span>[454:32](hou20.htm#fr_665.md) Copies of it will be
 found in *U. S. Public Laws*, 31st Cong. 1st Sess., 453-8; *U. S.
 Charters and Const*., ii. 1236-40; *U. S. Acts and Res*., 31st Cong. 1st
 Sess., 53-8; *Utah, Acts Legist*. (ed. 1866), 25-8; (ed. 1855), 111-19;
 *Deseret News*, Dec. 30, 1850; *Frontier Guardian*, Oct. 16, 1850.
 
-<span id="fn_666"></span>[454:33](hou20.htm#fr_666) Ten days before, the
+<span id="fn_666"></span>[454:33](hou20.htm#fr_666.md) Ten days before, the
 governor had formally notified the assembly, in a special message, of
 the passing of the organic act. 'Upon the dissolving of this
 legislature,' he says, 'permit me to add, the industry and unanimity
@@ -1330,7 +1330,7 @@ S. L. City*, 79. On March 28th the legislature, in joint session, passed
 resolutions cordially accepting the legislation of congress and
 appropriating the union square for the public buildings. *Id*., 80.
 
-<span id="fn_667"></span>[455:34](hou20.htm#fr_667) The first or Parvan
+<span id="fn_667"></span>[455:34](hou20.htm#fr_667.md) The first or Parvan
 agency included all that lay within the limits of the territory north of
 the Parvan Valley and west of the Shoshones. The second, or Uintah
 agency, included the Shoshones, Ewintes or Uintahs, Yampas, 'and all
@@ -1340,7 +1340,7 @@ lying west of the eastern rim of the great basin, and south of the south
 line of the Parvan Valley, to the western bounds of the territory.'
 *Governor Young's Proclamation*, in *Utah, Jour. Legisl*., 1851-2, 160.
 
-<span id="fn_668"></span>[455:35](hou20.htm#fr_668) The first judicial
+<span id="fn_668"></span>[455:35](hou20.htm#fr_668.md) The first judicial
 district included the city and county of G. S. Lake, Tootle county, and
 the region east and west to the limits of the territory. Two terms were
 to be held each year at S. L. City, commencing on the second Tuesday of
@@ -1354,7 +1354,7 @@ Each term in the several districts was to continue one week, if
 necessary, after which the court might adjourn to any other county if
 business should require it. *Id*., 160-1.
 
-<span id="fn_669"></span>[456:36](hou20.htm#fr_669) Stenhouse, *Rocky
+<span id="fn_669"></span>[456:36](hou20.htm#fr_669.md) Stenhouse, *Rocky
 Mountain Saints*, 275, says that Brigham owed his appointment to the
 recommendation of Kane. He took the oath of office Jan. 3, 1851. On the
 same day a special session of the county court was held, and a grand
@@ -1363,19 +1363,19 @@ route for California, were convicted of stealing, and sentenced to hard
 labor, but were afterward pardoned by the executive, and sent out of the
 country. *Hist. B. Young*, MS., 1851, 28.
 
-<span id="fn_670"></span>[456:37](hou20.htm#fr_670) Brandebury was
+<span id="fn_670"></span>[456:37](hou20.htm#fr_670.md) Brandebury was
 assigned to the first district, Snow to the second, and Brocchus to the
 third. *Utah, Jour. Legisl*., 1851-2, 161.
 
-<span id="fn_671"></span>[457:38](hou20.htm#fr_671) *Utah Early
+<span id="fn_671"></span>[457:38](hou20.htm#fr_671.md) *Utah Early
 Records*, MS., 134-5; *Stenhouse's Rocky Mountain Saints*, 276.
 
-<span id="fn_672"></span>[457:39](hou20.htm#fr_672) *Journal of
+<span id="fn_672"></span>[457:39](hou20.htm#fr_672.md) *Journal of
 Discourses*, ii. 186-7. After this occurrence, Brigham frequently warned
 the troublesome of the danger they incurred should he but crook his
 finger. *Stenhouse's Rocky Mountain Saints*, 277.
 
-<span id="fn_673"></span>[458:40](hou20.htm#fr_673) The members of the
+<span id="fn_673"></span>[458:40](hou20.htm#fr_673.md) The members of the
 council were Heber C. Kimball, Willard Richards, Dan. H. Wells, Jedediah
 M. Grant, Ezra T. Benson, and Orson Spencer for Salt Lake co.; John S.
 Fullmer for Davis co.; Loren Farr and Chas R. Dana for Weber co.; Alex.
@@ -1394,7 +1394,7 @@ provided that there should be 26 representatives, the number of members
 for either house being based on the census of 1850. George Brimhall, the
 remaining member for Iron co., was elected Nov. 15, 1851.
 
-<span id="fn_674"></span>[458:41](hou20.htm#fr_674) This proceeding did
+<span id="fn_674"></span>[458:41](hou20.htm#fr_674.md) This proceeding did
 not conflict with the organic act, which provides—section iv.—that the
 first election shall be held and the members elected shall <span
 id="page_XXX">p. XXX</span> meet at such places and on such day as the
@@ -1402,10 +1402,10 @@ governor shall appoint, but that thereafter the time, place, and manner
 of conducting elections, and the day for the opening of the regular
 sessions, shall be prescribed by law.
 
-<span id="fn_675"></span>[459:42](hou20.htm#fr_675) *Hist. B. Young*,
+<span id="fn_675"></span>[459:42](hou20.htm#fr_675.md) *Hist. B. Young*,
 MS., 1851, p. 99.
 
-<span id="fn_676"></span>[459:43](hou20.htm#fr_676) In a letter to
+<span id="fn_676"></span>[459:43](hou20.htm#fr_676.md) In a letter to
 Willard Richards, president of the council, and W. W. Phelps, speaker of
 the representatives, dated Sept. 25, 1851, Harris declares the election
 illegal on the grounds—lst. That no census had been taken; 2d. That the
@@ -1421,7 +1421,7 @@ chosen clerk of the representatives, and James Cragun sergeant-at-arms;
 Howard Coray secretary of the council, and Wm H. Kimball
 sergeant-at-arms. *Utah, Jour. Legisl*., 1851-2, pp. 5, 46.
 
-<span id="fn_677"></span>[460:44](hou20.htm#fr_677) *Young's Despatch to
+<span id="fn_677"></span>[460:44](hou20.htm#fr_677.md) *Young's Despatch to
 Fillmore in House Doc*., 32d Cong. 1st Sess., v. no. 25, pp. 28-32. See
 also *Utah Early Records*, MS., 249-51. Stenhouse says that on their
 return Harris and his colleagues published an account of the matter,
@@ -1478,14 +1478,14 @@ time as we can be admitted as a state.' A copy of the report will be
 found in *House Ex. Doc*., 32d Cong. 1st Seas., v. no. 25, pp. 28-32. It
 is also mentioned in *Hist. B. Young*, MS., 1851, p. 136.
 
-<span id="fn_678"></span>[461:45](hou20.htm#fr_678) *Utah Jour.
+<span id="fn_678"></span>[461:45](hou20.htm#fr_678.md) *Utah Jour.
 Legisl*., 1851-2, p. 53; *Hist. B. Young*, MS., 1851, p. 109.
 
-<span id="fn_679"></span>[461:46](hou20.htm#fr_679) At his home in Bath,
+<span id="fn_679"></span>[461:46](hou20.htm#fr_679.md) At his home in Bath,
 Steuben co., *Waite's The Morm. Prophet*, 25; in his 40th year.
 *Richards’ Incidents in Utah Hist*., MS., 5.
 
-<span id="fn_680"></span>[461:47](hou20.htm#fr_680) *Stenhouse's Rocky
+<span id="fn_680"></span>[461:47](hou20.htm#fr_680.md) *Stenhouse's Rocky
 Mountain Saints*, 279. Brigham said of him: 'One of our judges, Judge
 Shaver, has been here during the winter, and, as far as he is known, he
 is a straightforward, judicious, upright man.' The heads of the church
@@ -1495,33 +1495,33 @@ in Utah Hist*., MS., 78. Beadle, *Life in Utah*, 170, says that the
 Mormons believed him to be an opium-eater, and that he died from being
 suddenly deprived of that drug.
 
-<span id="fn_681"></span>[462:48](hou20.htm#fr_681) As the 40 days
+<span id="fn_681"></span>[462:48](hou20.htm#fr_681.md) As the 40 days
 allowed by the organic act were about to expire, and further time was
 required for the completion of the necessary business of the session.
 For copy of proclamation, see *Utah, Jour. Legisl*., 1851-2, 166.
 
-<span id="fn_682"></span>[462:49](hou20.htm#fr_682) By joint resolution,
+<span id="fn_682"></span>[462:49](hou20.htm#fr_682.md) By joint resolution,
 approved Oct. 4, 1851. *Utah, Acts Legisl*. (ed. 1866), 108.
 
-<span id="fn_683"></span>[462:50](hou20.htm#fr_683) They will be found
+<span id="fn_683"></span>[462:50](hou20.htm#fr_683.md) They will be found
 in *Utah, Acts Legisl*. (ed. 1855), 120-232. 'It is questionable,' says
 Richards in his *Hist. Incidents of Utah*, MS., 8, 'whether any of the
 sister territories had a code of laws framed by its own legislature that
 would compare favorably with those enacted during this session.'
 
-<span id="fn_684"></span>[462:51](hou20.htm#fr_684) The foundation for a
+<span id="fn_684"></span>[462:51](hou20.htm#fr_684.md) The foundation for a
 state-house was laid in S. L. City Sept. 1, 1851. *Utah Early Records*,
 MS., 133.
 
-<span id="fn_685"></span>[463:52](hou20.htm#fr_685) A copy of the
+<span id="fn_685"></span>[463:52](hou20.htm#fr_685.md) A copy of the
 memorial will be found in *Tullidge's Life of Young*, 213-14; *Smith's
 Rise, Progress, and Travels*, 22. For other memorials passed during the
 sessions of 1851-2, see *Utah, Acts Legisl*. (ed. 1855), 401-5.
 
-<span id="fn_686"></span>[464:53](hou20.htm#fr_686) *Stansbury's Exped.
+<span id="fn_686"></span>[464:53](hou20.htm#fr_686.md) *Stansbury's Exped.
 to Valley of G. S. Lake*, 84-6.
 
-<span id="fn_687"></span>[464:54](hou20.htm#fr_687) *The Mormons or
+<span id="fn_687"></span>[464:54](hou20.htm#fr_687.md) *The Mormons or
 Latter-day Saints in the Valley of the Great Salt Lake: A History of
 their Rise and Progress, Peculiar Doctrines, Present Condition, and
 Prospects, Derived from Personal Observation during a Residence among
@@ -1645,7 +1645,7 @@ the Mormons from the vicinity of the writer's home; but up to that
 point, and not forgetting that it is the plea of an advocate rather than
 the decision of a judge, it may be called a first-class authority.
 
-<span id="fn_688"></span>[467:55](hou20.htm#fr_688) Stansbury's
+<span id="fn_688"></span>[467:55](hou20.htm#fr_688.md) Stansbury's
 field-work is thus summarized: 1. The selection and measurement of a
 base-line 6 miles in length; 2. The erection of 24 principal
 triangulation stations; 3. The survey of G. S. Lake, the shore-line of
@@ -1656,18 +1656,18 @@ observations from different triangular stations extending from the
 northern extremity of G. S. Lake to the southern boundary of the valley
 of Lake Utah. *Exped. to Valley of G. S. Lake*, 216.
 
-<span id="fn_689"></span>[467:56](hou20.htm#fr_689) *Id*., 227, 261-3;
+<span id="fn_689"></span>[467:56](hou20.htm#fr_689.md) *Id*., 227, 261-3;
 *Gunnison's The Mormons*, 152. There is little difference in the line of
 route laid down by either. Stansbury suggests that from Kamas prairie
 the road might fork, one branch descending the Wasatch Range by the
 Golden Pass, and the other following the Timpanogos Valley.
 
-<span id="fn_690"></span>[469:57](hou20.htm#fr_690) One of the survivors
+<span id="fn_690"></span>[469:57](hou20.htm#fr_690.md) One of the survivors
 was thrown from his horse into a bush, where he lay for several hours,
 the Indians passing him on every side. *Beckwith*, in *Rept. Explor. and
 Surveys*, ii. 74.
 
-<span id="fn_691"></span>[470:58](hou20.htm#fr_691) A full account of
+<span id="fn_691"></span>[470:58](hou20.htm#fr_691.md) A full account of
 Gnnnison's survey, prepared mainly by himself, and of the massacre will
 be found in *Beckwith's Reports*, in *Id*., ii. Lieut Beckwith writes:
 'The statement which has from time to time appeared or been copied in
@@ -1688,7 +1688,7 @@ massacre, see *Möllhausen, Tagelbuch*, 429-30; *Carvalho's Incidents of
 Travel*, 196-9; *S. F. Alta*, June 25, 1854, Nov. 11, 1857; *S. F.
 Herald*, May 7, 1855.
 
-<span id="fn_692"></span>[470:59](hou20.htm#fr_692) On hearing of the
+<span id="fn_692"></span>[470:59](hou20.htm#fr_692.md) On hearing of the
 massacre, Brigham took measures for the recovery of the property and the
 disposal of the bodies. Gunnison was somewhat of a favorite among the
 Mormons. In the Deseret Nrews of Nov. 12, 1853, where is a copy of
@@ -1727,14 +1727,14 @@ nothing to do with the massacre, F. D. Richards says that he and Erastus
 Snow rescued four of the survivors near Cedar Springs. *Hist. Incidents
 of Utah*, MS., 42-3.
 
-<span id="fn_693"></span>[471:60](hou20.htm#fr_693) Although the Indian
+<span id="fn_693"></span>[471:60](hou20.htm#fr_693.md) Although the Indian
 tribes of Utah were at this period very numerous, the word 'Utahs' was
 commonly applied to those south of G. S. Lake, and 'Shoshones' or
 'Snakes' to those north and west of the lake, especially in the valley
 of the Humboldt River. The Snakes and Utahs were both Shoshone tribes.
 See my *Native Races*, i. passim.
 
-<span id="fn_694"></span>[471:61](hou20.htm#fr_694) *Richards’ Narr*.,
+<span id="fn_694"></span>[471:61](hou20.htm#fr_694.md) *Richards’ Narr*.,
 MS., 47; Wells’ Narr., MS., 23; *Young's Early Experiences*, MS., 5-6.
 In the latter MS. it is related that when the pioneers entered the
 valley Indians were very numerous, but that the only trouble which
@@ -1784,13 +1784,13 @@ grandchildren. He expressed a wish that the doctrine of polygamy should
 be studied in the light of the old testament, and the facts laid bare by
 some honest and impartial inquirer.
 
-<span id="fn_695"></span>[473:62](hou20.htm#fr_695) *Deseret News*,
+<span id="fn_695"></span>[473:62](hou20.htm#fr_695.md) *Deseret News*,
 Sept. 21, 1850; *Smith's Rise, Progress and Travels*, 28. Smith states
 that on arriving at the spot, the detachment ascertained the cause of
 the outbreak from some friendly Indians, and restored peace by
 reimbursing the Shoshones.
 
-<span id="fn_696"></span>[473:63](hou20.htm#fr_696) When near a branch
+<span id="fn_696"></span>[473:63](hou20.htm#fr_696.md) When near a branch
 of the Loupe fork of the Platte, Orson Hyde and his party were robbed by
 a band of 300 Pawnees, the plunder amounting to about $1,000. *Frontier
 Guardian*, Aug. 22, 1851. In 1852 there was also some trouble in Tooele
@@ -1798,7 +1798,7 @@ co. between the settlers and the Indians, and a company of the legion
 was sent there, but the Indians got the best of it, carrying away the
 Mormons’ cattle. *Wells’ Narr.*, MS., 13.
 
-<span id="fn_697"></span>[473:64](hou20.htm#fr_697) The party with the
+<span id="fn_697"></span>[473:64](hou20.htm#fr_697.md) The party with the
 mail left S. L. City on Oct. 1st, and reached Goose Creek on the 6th.
 Here they encamped and lighted a fire for the first time. In the
 morning, when ready to start, 200 or 300 Indians made their appearance,
@@ -1808,7 +1808,7 @@ fight with the Indians for several miles. At least five of the
 assailants were killed. *S. F. Alta*, Nov. 2, 1851. In *Id*., June 2, 5,
 1852, are reports of murders committed by Indians.
 
-<span id="fn_698"></span>[474:65](hou20.htm#fr_698) Richards and others
+<span id="fn_698"></span>[474:65](hou20.htm#fr_698.md) Richards and others
 state that even after the gold discovery Walker made raids into
 California, and that on one occasion, about the year 1849, the people
 turned out en masse to capture him and his band in their lurking place
@@ -1821,7 +1821,7 @@ and feed others, he was at once regarded as a big man among the Utahs,
 and thus Walker obtained his prestige. Ora, now dead, was the head chief
 of the Ute nation, and Uintah was a great chief among the Utahs.
 
-<span id="fn_699"></span>[474:66](hou20.htm#fr_699) Governor's message,
+<span id="fn_699"></span>[474:66](hou20.htm#fr_699.md) Governor's message,
 in *Utah, Jour. Legisl.*, 1853-4, 121-2. On July 17th the Utahs made a
 raid on Springville, but, the inhabitants being forewarned, no damage
 was done. On the 18th Alexander Keele, who was on sentry near Payson,
@@ -1850,7 +1850,7 @@ accounts of Indian disturbances, see *S. F. Herald*, Sept. 30, Dec. 24,
 1853; *S. F. Alta*, Aug. 27, Sept. 30, 1853; *Olshausen's Mormonen*,
 186-7.
 
-<span id="fn_700"></span>[475:67](hou20.htm#fr_700) In the *Deseret
+<span id="fn_700"></span>[475:67](hou20.htm#fr_700.md) In the *Deseret
 News* of Nov. 15, 1851, it is stated that a copy of a license granted to
 one Pedro Leon, dated Santa Fé, Aug. 14, 1851, and signed by James S.
 Calhoon, superintendent of Indian affairs, was shown to Willard
@@ -1869,7 +1869,7 @@ superintendent of Indian affairs, Brigham Young forbade all trading of
 this nature, and told the Mexicans that their license was not valid.
 *Hist. B. Young*, MS., 1851, 115.
 
-<span id="fn_701"></span>[475:68](hou20.htm#fr_701) In the preamble it
+<span id="fn_701"></span>[475:68](hou20.htm#fr_701.md) In the preamble it
 is stated that the purchase of Indian women and children by Mexican
 traders has been carried on from time immemorial; that it is a common
 practice with Indians to gamble away their women and children; that the
@@ -1908,10 +1908,10 @@ civil or ecclesiastical. They have not wisdom to act like white men…The
 day will come when the seed of Canaan will be redeemed.' *Hist. B.
 Young*, MS., 1852, p. 2.
 
-<span id="fn_702"></span>[476:69](hou20.htm#fr_702) A copy of the
+<span id="fn_702"></span>[476:69](hou20.htm#fr_702.md) A copy of the
 proclamation will be found in the *Deseret News* of April 30, 1853.
 
-<span id="fn_703"></span>[476:70](hou20.htm#fr_703) On Jan. 1, 1854, a
+<span id="fn_703"></span>[476:70](hou20.htm#fr_703.md) On Jan. 1, 1854, a
 wagon-train on its way from S. L. City to California for supplies was
 attacked by Indians, and three Mormons were wounded. When the party
 arrived at San Bernardino they had only 30 out of nearly 100 head of
@@ -1969,11 +1969,11 @@ why he and his people were so wild when I came so far just to see them
 and give them presents. He said they were afraid we were Californians
 and would kill them.'
 
-<span id="fn_704"></span>[477:71](hou20.htm#fr_704) *Id*., 267. The
+<span id="fn_704"></span>[477:71](hou20.htm#fr_704.md) *Id*., 267. The
 treaty was not ratified, and only a copy of it was received at
 Washington.
 
-<span id="fn_705"></span>[477:72](hou20.htm#fr_705) At Meadow Creek,
+<span id="fn_705"></span>[477:72](hou20.htm#fr_705.md) At Meadow Creek,
 near Fillmore. In a letter to Brigham, dated Fillmore City, Jan. 29th,
 David Lewis says that on the previous day he met Walker, who was so
 feeble that he had to he supported on his horse. He asked whether
@@ -1989,13 +1989,13 @@ death, *Incidents in* <span id="page_478">p. 478</span> *Utah Hist*.,
 MS., 63; *MiIlennial Star*, 269-70; *S. F. Alta*, Apr. 6, 1855; *Sac.
 Union*, Apr. 9, 1855.
 
-<span id="fn_706"></span>[478:73](hou20.htm#fr_706) Walker had three
+<span id="fn_706"></span>[478:73](hou20.htm#fr_706.md) Walker had three
 brothers, named Arapeen, Sanpitch, and Tabby. Sanpitch succeeded
 Arapeen, and Tabby was afterward chief of the Utahs. *Wells’ Narr.*,
 MS., 22. In his summary of the Walker war, Richards mentions a brother
 named Ammon. *Incidents in Hist. Utah*, MS., 30.
 
-<span id="fn_707"></span>[478:74](hou20.htm#fr_707) In his report to
+<span id="fn_707"></span>[478:74](hou20.htm#fr_707.md) In his report to
 Brigham Young, in *House Ex. Doc*., i. 34th Cong. 1st Sess., pt i. 518,
 Garland Hurt states that while in the Humboldt Valley 400 Indians came
 to his camp within three days, and that many had travelled 100 miles
@@ -2004,7 +2004,7 @@ to work on a farm at Nephi, but they had nothing to eat, and most of
 them were compelled to betake themselves to the mountains and streams,
 where there were fish and game.
 
-<span id="fn_708"></span>[478:75](hou20.htm#fr_708) In 1849 John Wilson
+<span id="fn_708"></span>[478:75](hou20.htm#fr_708.md) In 1849 John Wilson
 was appointed Indian agent at Salt Lake. In *House Ex. Doc*., 17, 31st
 Cong. 1st Sess., pp. 182-4, is a copy of his instructions. The total sum
 allowed him for presents to Indians, rent, fuel, stationery, forage, the
@@ -2030,10 +2030,10 @@ peaceable.' Nevertheless, in Feb. of this year there were a few war
 parties in the field. See Brigham Young's proclamation, in *Deseret
 News*. Feb. 27, 1856.
 
-<span id="fn_709"></span>[479:76](hou20.htm#fr_709) *Ind. Aff. Repts*,
+<span id="fn_709"></span>[479:76](hou20.htm#fr_709.md) *Ind. Aff. Repts*,
 1856, 264-7.
 
-<span id="fn_710"></span>[479:77](hou20.htm#fr_710) *Linforth's Route
+<span id="fn_710"></span>[479:77](hou20.htm#fr_710.md) *Linforth's Route
 from Liverpool*, 108. Gen. Wells states that the cost of the Walker war,
 apart from losses incurred, was $70,000; that this was cut down to
 $40,000, after special agents had been sent to investigate, and was not
@@ -2051,7 +2051,7 @@ territory for moneys advanced in suppressing Indian hostilities in 1853.
 which two were forwarded to congress, see *Utah, Acts Legisl*. (ed.
 1855), 409-10, 416-17.
 
-<span id="fn_711"></span>[479:78](hou20.htm#fr_711) Garland Hurt, under
+<span id="fn_711"></span>[479:78](hou20.htm#fr_711.md) Garland Hurt, under
 date G. S. L. City, May 2, 1855, in *Ind. Aff. Repts*, 1857, 305, says
 he has become satisfied that the saints have accidentally or purposely
 created a distinction in the minds of the Indian tribes of this
@@ -2088,4 +2088,4 @@ ii. 26-7; *Sac. Union*, June 16, 1855; *S. F. Bulletin*, Dec. 11, 1855;
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. The Government in Arms. 1853-1857.](hou21)
+[Next: Chapter XVIII. The Government in Arms. 1853-1857.](hou21.md)

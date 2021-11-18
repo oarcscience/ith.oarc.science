@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](dun04)  [Next](dun06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](dun04)  [Next](dun06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Duncan's Masoic Ritual and Monitor*, by Malcom C. Duncan, \[1866\], at
 Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ undertaking was completely prevented, and not only the craftsmen
 themselves, but every part of their workmanship was discriminated with
 the greatest nicety and the utmost facility.
 
-It is claimed by Masonic writers, <span id="fr_53"></span>[1](#fn_53)
+It is claimed by Masonic writers, <span id="fr_53"></span>[1](#fn_53.md)
 that this Degree in Masonry was instituted by King Solomon, at the
 building of the Temple, for the purpose of detecting impostors, while
 paying wages to the craftsmen. Each operative was required to put his
@@ -72,7 +72,7 @@ Lodges of Mark Masters are "dedicated to Hiram, the Builder."
 
 The interior arrangements of the Lodge, and the positions of the Master,
 Wardens, Deacons, Secretary, and Treasurer, are the same as those in the
-Entered Apprentices' Degree ([p. 8](dun02.htm#page_8)). The Master
+Entered Apprentices' Degree ([p. 8](dun02.htm#page_8).md). The Master
 Overseer takes his seat on the right of the Right Worshipful Master in
 the east. The Senior Overseer sits on the right of the Senior Grand
 Warden in the west, and his Junior on the right of the Junior Grand
@@ -93,13 +93,13 @@ brethren.
 
 The two Deacons thereupon go round and receive the word, which is JOPPA,
 in the same manner as in the Master Mason's Degree ([p.
-20](dun02.htm#page_20)).
+20](dun02.htm#page_20).md).
 
 R. W M. (giving one rap.)--Brother Junior Deacon, the first care of
 congregated Masons?
 
 J. D. (rising on his feet, and, at the same time, giving a sign--see
-Fig. [20](#img_15401), [p. 154](#page_154).)--To see the Lodge tyled,
+Fig. [20](#img_15401), [p. 154](#page_154)..md)--To see the Lodge tyled,
 Right Worshipful.
 
 R. W. M.--Perform that part of your duty, and inform the Tyler that we
@@ -114,7 +114,7 @@ The Junior Deacon then walks rapidly to the door, and gives four raps
 (• • • •), which are answered by four without from the Tyler; the Junior
 Deacon gives one, which is answered by the Tyler with (•); the door is
 then partly opened, when the Junior Deacon delivers his message. He then
-returns, gives the sign (see Fig. [20](#img_15400), [p. 154](#page_154))
+returns, gives the sign (see Fig. [20](#img_15400), [p. 154](#page_154).md)
 again, and says:
 
 The door is tyled, Right Worshipful.
@@ -291,13 +291,13 @@ R. W. M.--Attend to the signs, brethren.
 Here the Right Worshipful Master gives all the signs, in their regular
 order, from the Entered Apprentice to Mark Master, the brethren all
 imitating him. (For signs of the Entered Apprentice, or First Degree,
-see Figs. [1](dun02.htm#img_01600) and [2](dun02.htm#img_01700); for
+see Figs. [1](dun02.htm#img_01600) and [2](dun02.htm#img_01700.md); for
 signs of the Fellow Craft, or Second Degree, see Figs.
-[3](dun02.htm#img_01701) and [4](dun02.htm#img_01702); and for signs of
-Master Mason, or Third Degree, see Figs. [5](dun02.htm#img_01703),
-[6](dun02.htm#img_01800), and [7](dun02.htm#img_01801), pp.
-[16](dun02.htm#page_16), [17](dun02.htm#page_17), and
-[18](dun02.htm#page_18).)
+[3](dun02.htm#img_01701) and [4](dun02.htm#img_01702.md); and for signs of
+Master Mason, or Third Degree, see Figs. [5](dun02.htm#img_01703.md),
+[6](dun02.htm#img_01800), and [7](dun02.htm#img_01801.md), pp.
+[16](dun02.htm#page_16), [17](dun02.htm#page_17.md), and
+[18](dun02.htm#page_18)..md)
 
 After the duegard and sign of the Entered Apprentice, the duegard and
 sign of the Fellow Craft, and the duegard, sign, and grand hailing sign
@@ -313,7 +313,7 @@ together, do so with a sharp slap, the palms facing your shoulder. In
 old times this sign was made by interlacing the fingers. (See
 Richardson's *Monitor*.) This sign is called the Heave-over, and alludes
 to the rejection of the keystone in this Degree. (See [Fig.
-19](#img_15400).)
+19](#img_15400)..md)
 
 The second sign is made as follows:
 
@@ -325,14 +325,14 @@ carry the keystone. You then raise the right hand rapidly to the right
 ear, still holding the thumb and first two fingers open, and with a
 circular motion of the hand pass the fingers around the ear, as thought
 you were combing back your earlock, the ear passing between the two
-fingers and thumb. (See [Fig. 20](#img_15401).) This sign alludes to a
+fingers and thumb. (See [Fig. 20](#img_15401)..md) This sign alludes to a
 penalty of the obligation, to have the ear smitten off.
 
 After having completed the sign, as just described, drop the right hand
 a little to the right side, about as high up as the waist, the palm open
 and horizontal, and, at the same time, lift up the left hand and bring
 it down edgewise and vertically upon the wrist of the right. (See [Fig.
-21](#img_15600).) These motions must all
+21](#img_15600)..md) These motions must all
 
 <span id="page_156">p. 156</span>
 
@@ -343,7 +343,7 @@ hand cut off.
 The sign of receiving wages is made by extending in front the right arm
 at full length, the thumb and two first fingers open, about one inch
 apart, the third and little fingers clinched, palm of the hand up. (See
-[Fig. 22](#img_15601).) It alludes to the peculiar manner in which the
+[Fig. 22](#img_15601)..md) It alludes to the peculiar manner in which the
 Mark Master is taught to receive wages, so that impostors may be
 detected.
 
@@ -431,7 +431,7 @@ upon it, the
 
 <span id="page_158">p. 158</span>
 
-other, a plumb. (See [cut](#img_15800).) The candidate is then furnished
+other, a plumb. (See [cut](#img_15800)..md) The candidate is then furnished
 with a block representing a keystone, which he is requested to carry
 between the thumb and two first fingers of the right hand, the other
 fingers clinched with the nails tight against the palm, the arm extended
@@ -453,7 +453,7 @@ the Junior Overseer's station, at the south gate, where the conductor
 gives four raps (in couplets) on the floor with his heel (• • • •).
 
 <span id="img_15800"></span> ![WORKMEN FROM THE
-QUARRIES.](img/15800.jpg)  
+QUARRIES.](img/15800.jpg.md)  
 WORKMEN FROM THE QUARRIES.
 
 Junior Overseer--Who comes here?
@@ -561,14 +561,14 @@ Senior Overseer--Neither do I.
 Master Overseer--What shall I do with it?
 
 Junior Overseer--I propose we heave it over among the rubbish. <span
-id="fr_54"></span>[1](#fn_54)
+id="fr_54"></span>[1](#fn_54.md)
 
 Master Overseer--Agreed.
 
 The Master and Senior Overseers take up the keystone, and swinging it
 four times back and forth between them, the fourth time the Junior
 Overseer catches it over the left shoulder of the Master Overseer (in
-imitation of the sign of "heave-over," see [Fig. 19](#img_15600)), and
+imitation of the sign of "heave-over," see [Fig. 19](#img_15600).md), and
 throws it aside. At this moment all the brethren begin to shuffle around
 the room, leaving their seats.
 
@@ -652,10 +652,10 @@ May all their virtues be
 As they finish the second verse, each brother walks up in his turn to
 the Senior Warden, who stands behind a lattice-window, and thrusts his
 right hand, with the thumb and two first fingers open, and the third and
-little fingers clinched, palm up (see [Fig. 22](#img_15601)), through
+little fingers clinched, palm up (see [Fig. 22](#img_15601).md), through
 the hole in the window, receives his penny, withdraws his hand, and
 passes on, and so on until the candidate, who comes last, puts his hand
-through for his penny in this manner (see [cut](#img_16200).) The Senior
+through for his penny in this manner (see [cut](#img_16200)..md) The Senior
 Grand Warden seizes his hand, and, bracing his foot against the window,
 draws the candidate's arm through to the shoulder, and exclaims <span
 id="img_16200"></span>
@@ -681,8 +681,8 @@ S. G. W.--On those conditions I will release him, provided he can
 satisfy me he is a Fellow Craft Mason.
 
 The candidate now withdraws his arm, and gives the sign of a Fellow
-Craft Mason. (See [Fig. 4](dun02.htm#img_01702), [p.
-17](dun02.htm#page_17).)
+Craft Mason. (See [Fig. 4](dun02.htm#img_01702.md), [p.
+17](dun02.htm#page_17)..md)
 
 The members of the Lodge then take their seats.
 
@@ -776,7 +776,7 @@ S. D.--Is he duly and truly prepared?
 J. D.--He is.
 
 S. D.--Has he wrought in the quarries, <span
-id="fr_55"></span>[1](#fn_55) and exhibited specimens of his skill in
+id="fr_55"></span>[1](#fn_55.md) and exhibited specimens of his skill in
 the preceding Degrees?
 
 J. D.--He has.
@@ -825,7 +825,7 @@ edge of the indenting chisel, and under the pressure of the mallet.
 As he pronounces the last words, he braces his feet, raises his mallet,
 makes two or three false motions, and gives a violent blow upon the head
 of the chisel; throws down mallet and chisel, takes hold of the
-candidate's left arm. <span id="fr_56"></span>[1](#fn_56)
+candidate's left arm. <span id="fr_56"></span>[1](#fn_56.md)
 
 "Follow me."
 
@@ -978,7 +978,7 @@ a favor, before you deny him make diligent search, and be quite sure of
 your inability to serve him; perhaps you will then find, as in the
 present instance, that some unknown person has befriended you, and you
 are really in a better situation than you thought yourself. <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
 The above is a true description of the manner in which the candidate was
 formerly taught his duty as a Mark Master Mason. In these *latter days*,
@@ -1012,7 +1012,7 @@ sum, and he in turn hands it, together with the Mark, to the Right
 Worshipful Master. The Right Worshipful Master then administers the
 caution to candidate, beginning as follows:--
 
-Brother, let this scene, &c. (See line 16, page [168](#page_168).)
+Brother, let this scene, &c. (See line 16, page [168](#page_168)..md)
 
 The Right Worshipful Master now takes the candidate by the hand, and
 says:
@@ -1026,16 +1026,16 @@ assist another up a steep ascent. It is said to have originated from the
 fact that the banks of the river at
 
 <span id="img_16900"></span> ![FIG. 23. PASS-GRIP OF A MARK MASTER
-MASON.](img/16900.jpg)  
+MASON.](img/16900.jpg.md)  
 FIG. 23. PASS-GRIP OF A MARK MASTER MASON.
 
 <span class="contnote">\[paragraph continues\]</span> Joppa were so
 steep that the workmen on the Temple had to assist each other up them
 while conveying the timber from the forests of Lebanon. The pass-word is
-JOPPA. <span id="fr_58"></span>[1](#fn_58)
+JOPPA. <span id="fr_58"></span>[1](#fn_58.md)
 
 <span id="img_16901"></span> ![FIG. 24. REAL GRIP OF A MARK MASTER
-MASON.](img/16901.jpg)  
+MASON.](img/16901.jpg.md)  
 FIG. 24. REAL GRIP OF A MARK MASTER MASON.
 
 <span id="page_170">p. 170</span>
@@ -1097,7 +1097,7 @@ The Right Worshipful Master receives the keystone and places it in front
 of him, on the desk, upright and plumb, with the initials on it facing
 the whole Lodge, but more especially the candidate, who is seated in a
 chair in front of the Right Worshipful Master. <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 The Right Worshipful Master gives four raps with the gavel (• • • •),
 when all rise to their feet. (Some Lodges do not do so, but keep their
@@ -1141,7 +1141,7 @@ keystone before him, by pointing out to him the initials on the stone,
 which he is informed read as follows:--
 
 <span id="img_17200"></span> ![HIRAM, TYRIAN, WIDOW'S SON, SENDETH TO
-KING SOLOMON.](img/17200.jpg)  
+KING SOLOMON.](img/17200.jpg.md)  
 HIRAM, TYRIAN, WIDOW'S SON, SENDETH TO KING SOLOMON.
 
 The candidate is here instructed how to read the words when challenged
@@ -1178,8 +1178,8 @@ Master reads to candidate: "He that hath an ear to hear, let him
 hear."--*Rev*. iii. 13.
 
 The Master further instructs the candidate in the signs of the penalties
-of this Degree (see Figs. [19](#img_15400), [20](#img_15401),
-[21](#img_15600), and [22](#img_15601)), and then presents, or points
+of this Degree (see Figs. [19](#img_15400), [20](#img_15401.md),
+[21](#img_15600), and [22](#img_15601).md), and then presents, or points
 out to him on the chart, the working-tools of a Mark Master Mason, viz.:
 a *mallet* and *chisel*, the use of which he explains as follows:--
 
@@ -1194,7 +1194,7 @@ education discovers the latent beauties of the mind, and draws them
 forth to range the large field of matter and space, to display the
 summit of human knowledge, our duty to
 
-<span id="img_17300"></span> ![TOOLS OF A MARK MASTER.](img/17300.jpg)  
+<span id="img_17300"></span> ![TOOLS OF A MARK MASTER.](img/17300.jpg.md)  
 TOOLS OF A MARK MASTER.
 
 <span class="contnote">\[paragraph continues\]</span> God and man. The
@@ -1240,7 +1240,7 @@ wages; and in order to prevent the craft being imposed upon by unskilful
 workmen, each craftsman claiming wages was made to thrust his hand
 through a lattice window, and at the same time give this token, holding
 under the two last fingers of his hand a copy of his mark. (See [Fig.
-22](#img_15601), [p. 156](#page_156).)
+22](#img_15601), [p. 156](#page_156)..md)
 
 The Senior Grand Warden casts his eye upon the corresponding mark in the
 book (where all the marks of the craft, eighty thousand in number, were
@@ -1406,7 +1406,7 @@ A. They were not, for King Solomon took the further precaution that each
 craftsman demanding wages should thrust his right hand into the
 apartments of the Senior Grand Warden, with a copy of his mark in the
 palm thereof, at the same time giving this token (see page
-[156](#page_156)).
+[156](#page_156).md).
 
 Q. To what does this token allude?
 
@@ -1554,7 +1554,7 @@ Q. Show me a sign? (Chopping off the right ear.)
 
 Q. What is that called?
 
-A. The [duegard](errata.htm#4).
+A. The [duegard](errata.htm#4.md).
 
 Q. To what does it allude?
 
@@ -1571,7 +1571,7 @@ A. The sign.
 Q. To what does it allude?
 
 A. To the additional portion of the penalty of my obligation, that I
-would sooner have my right hand [stricken](errata.htm#5) off as the
+would sooner have my right hand [stricken](errata.htm#5.md) off as the
 penalty of an imposter than divulge any of the secrets of this degree
 unlawfully.
 
@@ -1699,7 +1699,7 @@ Q. What was its color?
 A. White; and to it alludes a certain passage of Scripture, which says:
 "To him that overcometh will I give to eat of the hidden manna, and I
 will give him a white stone, and in that stone a new name written, which
-no man knoweth save him that receiveth (or [receives](errata.htm#6) it).
+no man knoweth save him that receiveth (or [receives](errata.htm#6) it.md).
 
 Q. What is that new name?
 
@@ -1800,17 +1800,17 @@ the eye of compassion; purify our hearts, and cause us to know and serve
 thee aright. Guide us in the paths of rectitude and honor; correct our
 errors by the unerring square of thy wisdom, and enable us so to
 practise the precepts of Masonry, that all our actions may be acceptable
-in thy sight. So mote it be. Amen. <span id="fr_60"></span>[1](#fn_60)
+in thy sight. So mote it be. Amen. <span id="fr_60"></span>[1](#fn_60.md)
 
 <span id="img_18300"></span> ![MARK OF A MARK MASTER
-MASON.](img/18300.jpg)  
+MASON.](img/18300.jpg.md)  
 MARK OF A MARK MASTER MASON.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_53"></span>[150:1](dun05.htm#fr_53) This Degree is said to
+<span id="fn_53"></span>[150:1](dun05.htm#fr_53.md) This Degree is said to
 have been instituted to detect impostors, in paying the wages to the
 craftsmen, as we have just seen. It is a well-known fact, that such a
 system of distinction was practised in the Masonry of all ages. Mr.
@@ -1821,7 +1821,7 @@ the man who works a atone (being different from the man who sets it)
 makes his mark on the bed or other internal face of it, so that it may
 be identified.--*Historical Landmarks*, vol. i., p. 427.
 
-<span id="fn_54"></span>[160:1](dun05.htm#fr_54) By the influence of the
+<span id="fn_54"></span>[160:1](dun05.htm#fr_54.md) By the influence of the
 Mark Master's Degree, the work of every operative Mason was distinctly
 known. The perfect stones were received with acclamations; while those
 that were deficient were rejected with disdain. This arrangement proved
@@ -1829,7 +1829,7 @@ a superior stimulus to exertion, which accounts for the high finish
 which the Temple subsequently acquired.--*Historical Landmarks*, vol. i.
 p. 421.
 
-<span id="fn_55"></span>[164:1](dun05.htm#fr_55) There can be no doubt
+<span id="fn_55"></span>[164:1](dun05.htm#fr_55.md) There can be no doubt
 that the quarries from whence the Masons received their materials were
 situated very near to the Temple. Mr. Prime visited one of these
 quarries, situated beneath the City of Jerusalem, in 1856, and thus
@@ -1855,11 +1855,11 @@ extend under the Temple itself, and the stones were all finished and
 dressed there, and then raised up at the very spot for their
 appropriation."--*Christian Witness*, September 11, 1857.
 
-<span id="fn_56"></span>[165:1](dun05.htm#fr_56) The hoodwink is raised
+<span id="fn_56"></span>[165:1](dun05.htm#fr_56.md) The hoodwink is raised
 from over the candidate's eyes while this scene is being then enacted,
 it is replaced again, and he is marched around four times.
 
-<span id="fn_57"></span>[168:1](dun05.htm#fr_57) MARK.--It is a plate of
+<span id="fn_57"></span>[168:1](dun05.htm#fr_57.md) MARK.--It is a plate of
 gold or silver worn by Mark Masters. The form is generally that of a
 Mark Master's keystone. within the circular inscription there being
 engraved a device selected by the owner. This mark, on being adopted by
@@ -1870,7 +1870,7 @@ another Mark Master, claims from the latter certain offices of
 friendship and hospitality, which are of solemn obligation among the
 brethren of this Degree*.--*Lexicon*.
 
-<span id="fn_58"></span>[169:1](dun05.htm#fr_58) Yesterday morning at
+<span id="fn_58"></span>[169:1](dun05.htm#fr_58.md) Yesterday morning at
 daybreak, boats put off and surrounded the vessel to take us to the town
 (JOPPA), *the access to which is difficult, on account of the numerous
 rocks that present to view their bare flanks*. <span id="page_170">p.
@@ -1888,11 +1888,11 @@ each other up by means of a *peculiar locking of the right hand*, which
 is still preserved in the Mark Master's Degree.--*Historical Landmarks*,
 vol. i. p. 425.
 
-<span id="fn_59"></span>[171:1](dun05.htm#fr_59) Some Lodges here call
+<span id="fn_59"></span>[171:1](dun05.htm#fr_59.md) Some Lodges here call
 the candidate's attention to the indenting chisel and mallet, before
 reading the Scripture relative to the stone.
 
-<span id="fn_60"></span>[183:1](dun05.htm#fr_60) The legend of the
+<span id="fn_60"></span>[183:1](dun05.htm#fr_60.md) The legend of the
 Degree is in substance as follows: "A young Craftsman found in the
 quarries of Tyre a stone of peculiar form and beauty, which was *marked*
 with a double circle, containing certain mysterious characters that
@@ -1913,4 +1913,4 @@ work."--*Historical Landmarks*, vol. ii. p. 126.
 
 ------------------------------------------------------------------------
 
-[Next: Past Master, or Fifth Degree](dun06)
+[Next: Past Master, or Fifth Degree](dun06.md)

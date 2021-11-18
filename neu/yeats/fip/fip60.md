@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip59)  [Next](fip61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip59)  [Next](fip61.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,11 +11,11 @@ W. B. Yeats
 
 Good Father John O'Hart  
   In penal days rode out  
-To a *shoneen* <span id="fr_52"></span>[1](#fn_52) in his freelands,  
+To a *shoneen* <span id="fr_52"></span>[1](#fn_52.md) in his freelands,  
   With his snipe marsh and his trout.
 
 In trust took he John's lands,  
-  --*Sleiveens* <span id="fr_53"></span>[2](#fn_53) were all his
+  --*Sleiveens* <span id="fr_53"></span>[2](#fn_53.md) were all his
 race--  
 And he gave them as dowers to his daughters,  
   And they married beyond their place.
@@ -66,12 +66,12 @@ prospered. It has changed owners many times.\]
 
 ### Footnotes
 
-<span id="fn_52"></span>[220:1](fip60.htm#fr_52) *Shoneen*--*i.e.*,
+<span id="fn_52"></span>[220:1](fip60.htm#fr_52.md) *Shoneen*--*i.e.*,
 upstart.
 
-<span id="fn_53"></span>[220:2](fip60.htm#fr_53) *Sleiveen*--*i.e.*,
+<span id="fn_53"></span>[220:2](fip60.htm#fr_53.md) *Sleiveen*--*i.e.*,
 mean fellow.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Little Bird, by T. Crofton Croker](fip61)
+[Next: The Story of the Little Bird, by T. Crofton Croker](fip61.md)

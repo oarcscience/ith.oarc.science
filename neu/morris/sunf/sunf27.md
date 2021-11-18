@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf26)  [Next](sunf28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf26)  [Next](sunf28.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -200,6 +200,6 @@ captain looking so much mended in health.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI. They Bring the Baron into Eastcheaping](sunf28)
+[Next: Chapter XXVI. They Bring the Baron into Eastcheaping](sunf28.md)
 
 </div>

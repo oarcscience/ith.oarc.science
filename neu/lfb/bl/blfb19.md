@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb18)  [Next](blfb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb18)  [Next](blfb20.md) 
 
 </div>
 
@@ -358,6 +358,6 @@ after all their troubles.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Pretty Goldilocks](blfb20)
+[Next: The Story of Pretty Goldilocks](blfb20.md)
 
 </div>

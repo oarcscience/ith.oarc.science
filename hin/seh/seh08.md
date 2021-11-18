@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh07)  [Next](seh09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh07)  [Next](seh09.md) 
 
 ------------------------------------------------------------------------
 
@@ -252,4 +252,4 @@ comfort that for us all, the world over--
 
 ------------------------------------------------------------------------
 
-[Next: The Sacred Year](seh09)
+[Next: The Sacred Year](seh09.md)

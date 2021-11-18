@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](eze)  [Next](hos) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](eze)  [Next](hos.md) 
 
 ------------------------------------------------------------------------
 
@@ -1646,4 +1646,4 @@ okioki hoki koe, a ka tu ki tou wahi i te mutunga o nga ra.
 
 ------------------------------------------------------------------------
 
-[Next: Hosea](hos)
+[Next: Hosea](hos.md)

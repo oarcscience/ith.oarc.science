@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt03)  [Next](ettt05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt03)  [Next](ettt05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 ### CHAPTER THREE
 
-### THE INITIATION RITUAL OF THE ALL-MERCIFUL ONE[1](ettt04.htm#an_n_3:1)<span id="an_r_3:1"></span>
+### THE INITIATION RITUAL OF THE ALL-MERCIFUL ONE[1](ettt04.htm#an_n_3:1.md)<span id="an_r_3:1"></span>
 
 <span id="img_04800"></span>
 
@@ -33,28 +33,28 @@ Pray grant me all Siddhis *Hūṃ!*
 This is the Fourth Initiation \[of the Tantric Scheme\], the Initiation
 of the All-Merciful One.
 
-The Mandala should be arranged as before[2](ettt04.htm#an_n_3:2)<span
+The Mandala should be arranged as before[2](ettt04.htm#an_n_3:2.md)<span
 id="an_r_3:2"></span>. The Gtor-ma should be made as the pomegranate in
 shape and placed in the center of the Mandala. On the right side a glass
 rosary is placed; on the left side three fossil shells; in the front
 many precious ornaments; on the west side a white vase bound with
 ribbons. On the top of the Gtor-ma, the
-Tsag’li[3](ettt04.htm#an_n_3:3)<span id="an_r_3:3"></span> is installed.
+Tsag’li[3](ettt04.htm#an_n_3:3.md)<span id="an_r_3:3"></span> is installed.
 
 (The aforesaid articles are arranged in preparation for the ceremony. At
 the time of performing the Initiation, the Vase Ritual and Gtor-ma
 Ritual may be performed according to the general rules. In the
 preparation practice for the Initiation, the guru should meditate on the
 proceeding once: visualize the Self, Front, and Vase as all
-instantaneously united with the Wisdom Ones[4](ettt04.htm#an_n_3:4)<span
+instantaneously united with the Wisdom Ones[4](ettt04.htm#an_n_3:4.md)<span
 id="an_r_3:4"></span>, and recite the incantation not less than one
 hundred times. If one wants to practice a more comprehensive and
 elaborate ceremony, he should perform the Three
-Purifications[5](ettt04.htm#an_n_3:5)<span id="an_r_3:5"></span>.)
+Purifications[5](ettt04.htm#an_n_3:5)<span id="an_r_3:5"></span>..md)
 
 One should visualize as follows:
 
-In front of me is the Vase-Buddha[6](ettt04.htm#an_n_3:6)<span
+In front of me is the Vase-Buddha[6](ettt04.htm#an_n_3:6.md)<span
 id="an_r_3:6"></span>, the All-Merciful One.
 
 He is white in color with four arms and one face.
@@ -66,7 +66,7 @@ He folds his two palms together with his central arms.
 The two outer arms hold separately the lotus and the rosary.
 
 His two feet join together in the Diamond Sitting
-Posture[7](ettt04.htm#an_n_3:7)<span id="an_r_3:7"></span>.
+Posture[7](ettt04.htm#an_n_3:7.md)<span id="an_r_3:7"></span>.
 
 All the precious ornaments adorn his body.
 
@@ -81,7 +81,7 @@ He sits solemnly on the cushion of the Lotus-Moon.
 Recite and visualize as follows:
 
 In the heart-center of the Vase-Buddha before me, there is a white word,
-[*Śri*](errata.htm#7) standing straight on the moon disc and encircling
+[*Śri*](errata.htm#7.md) standing straight on the moon disc and encircling
 the *Śhri* clockwise are the Six Words. From these Words emanate rays of
 light shining into the ten directions. Among all the Bodhisattvas, the
 rays of light choose the All-Merciful One and entreat him, with all
@@ -91,10 +91,10 @@ Buddha of Tibet. Practicing his meditation makes it easier to attain the
 grace of bliss. He is nearer to us than other Buddhas. Padmasambhava
 said, "In the time of defilements, Avalokiteshvara is the most
 compassionate one. Especially to us, the Kham
-Pa[8](ettt04.htm#an_n_3:8)<span id="an_r_3:8"></span>, the Six Words of
+Pa[8](ettt04.htm#an_n_3:8.md)<span id="an_r_3:8"></span>, the Six Words of
 Incantation are most beneficial and appropriate. The All-Merciful One,
 His Holiness Avalokiteśvara, is the intimate patron deity of the Snow
-Country[9](ettt04.htm#an_n_3:9)<span id="an_r_3:9"></span>. His Dharma,
+Country[9](ettt04.htm#an_n_3:9.md)<span id="an_r_3:9"></span>. His Dharma,
 especially, has a close affinity to the people of Kham. Therefore, in
 the region of Kham, one sees that men and women alike all recite the Six
 Words Incantation diligently." This was prophesied by Padmasambhava
@@ -108,7 +108,7 @@ the All-Merciful One, *The Thousand-Arms-and-Thousand-Eyes-True-Words
 Tantra* says, "If one takes the initiation and recites the incantation
 of Avalakiteśvara, his sins will all be cleansed and his obstacles
 removed. He will obtain the infinite
-merits[10](ettt04.htm#an_n_3:10)<span id="an_r_3:10"></span>; after his
+merits[10](ettt04.htm#an_n_3:10.md)<span id="an_r_3:10"></span>; after his
 death he will go to the Pure Land (of Buddha Amida)." In *The Sutra of
 the Ten Countenances*, one reads, "The All-Merciful One himself said,
 'If one think of me and call my name, whatever his wishes may be, all
@@ -123,10 +123,10 @@ is also said, "In the future time, any good man or good woman who has
 heard the merits of the All-Merciful One will gradually exhaust his or
 her kleśas; the Great Five Unceasing Sins and their like will be
 exhausted. If one has nothing in his mind but the All-Merciful
-One[11](ettt04.htm#an_n_3:11)<span id="an_r_3:11"></span> and meditates
+One[11](ettt04.htm#an_n_3:11.md)<span id="an_r_3:11"></span> and meditates
 on the merits of Avalokiteśvara for only one month, he will be able to
 see the All-Merciful One as well as Buddha Amida face to face. He will
-thus never regress on the Path of Bodhi[12](ettt04.htm#an_n_3:12)<span
+thus never regress on the Path of Bodhi[12](ettt04.htm#an_n_3:12.md)<span
 id="an_r_3:12"></span>. He will recollect his lives in the past, follow
 the teachings he has heard, and wherever he is born will corn across
 Dharma. He will never depart from Buddhism, and will attain great wealth
@@ -144,7 +144,7 @@ Amida. Those devoted to the All-Merciful One will have no Samsaric
 sufferings in their bodies, no leśas in their minds; hunger and thirst
 cannot threaten them, nor will they undergo ordeal in the womb. With
 sincere devotion growing in their hearts, they will then be born in the
-lotus[13](ettt04.htm#an_n_3:13)<span id="an_r_3:13"></span>. Those
+lotus[13](ettt04.htm#an_n_3:13.md)<span id="an_r_3:13"></span>. Those
 relying on the Victorious Master Avalokiteshvara to be their tutelary
 Buddha will always be able to go to Buddha's paradise and remain
 there.'"
@@ -155,7 +155,7 @@ good men and good women who contemplate Avalokiteshvara and recite the
 Six Sacred Words: *Oṃ Mani Padme Hūṃ*, will never fall into the lower
 Lokas or the Unceasing Hell. Whoever takes this incantation in his mind
 and recites it with sound, his body becomes immune from leprosy, ulcer,
-Bra Gyan and Bas Lhag diseases[14](ettt04.htm#an_n_3:14)<span
+Bra Gyan and Bas Lhag diseases[14](ettt04.htm#an_n_3:14.md)<span
 id="an_r_3:14"></span>, tuberculosis, asthma, and all kinds of disease.
 Immediately after death, he will be born in the Happy Pure Land.
 Wherever he is born he will never be separated from the All-Merciful
@@ -166,9 +166,9 @@ says, 'That good man or good woman who recites these Six Sacred Words
 will attain the following benefits: his valor and spirit will never
 diminish, his wisdom will grow, he will become a man with great
 compassion and kindness, he will complete the Six
-Paramitas[15](ettt04.htm#an_n_3:15)<span id="an_r_3:15"></span> in his
+Paramitas[15](ettt04.htm#an_n_3:15.md)<span id="an_r_3:15"></span> in his
 everyday activity. He will become the King of
-Turning-the-Mystic-Holding-Wheel[16](ettt04.htm#an_n_3:16)<span
+Turning-the-Mystic-Holding-Wheel[16](ettt04.htm#an_n_3:16.md)<span
 id="an_r_3:16"></span>. He will become a Bodhisattva of Non-Regression.
 He will eventually attain the perfect, peerless Buddhahood.'"
 
@@ -180,7 +180,7 @@ to His Holiness Mi-rgyur-rdo-rje in the (year of the) Fire Monkey,
 Dragon Month, when he was twelve years old. This initiation was bestowed
 upon me \[the original lama-scribe. *Ed*.\] by two Living Buddhas;
 therefore it is a very recent late and close one with great blessing
-power. Dakinis[17](ettt04.htm#an_n_3:17)<span id="an_r_3:17"></span>
+power. Dakinis[17](ettt04.htm#an_n_3:17.md)<span id="an_r_3:17"></span>
 vowed to give special protection to this instruction. Therefore,
 together with sincerity and respect you should feel happiness and joy
 for this opportunity.
@@ -211,7 +211,7 @@ I devote and submit myself, my whole being, to all Buddhas!
 For the sake of benefiting self and others,
 
 I hereby take the oath for the Devotion for
-Bodhi[18](ettt04.htm#an_n_3:18)<span id="an_r_3:18"></span>.
+Bodhi[18](ettt04.htm#an_n_3:18.md)<span id="an_r_3:18"></span>.
 
 After the growing of the Heart for Bodhi,
 
@@ -271,7 +271,7 @@ From the *Śri* word emanate infinite rays of light.
 These rays of light shine forth to the Pure Land of Happiness,
 
 Also shining forth south toward the Holy
-Potala[19](ettt04.htm#an_n_3:19)<span id="an_r_3:19"></span>.
+Potala[19](ettt04.htm#an_n_3:19.md)<span id="an_r_3:19"></span>.
 
 There by numerous forms of Avalokiteśvara, big as mountains, small as
 mustard seeds,
@@ -373,9 +373,9 @@ I pray the twenty-eight followers and one-hundred-and-one Treasure
 Finders,
 
 I pray all accomplished Illumination
-Holders[20](ettt04.htm#an_n_3:20)<span id="an_r_3:20"></span>.
+Holders[20](ettt04.htm#an_n_3:20.md)<span id="an_r_3:20"></span>.
 
-Pray the All-Merciful One, Lord of [Transiency](errata.htm#8), One with
+Pray the All-Merciful One, Lord of [Transiency](errata.htm#8.md), One with
 the Eyes of Compassion,
 
 Mighty being! Also pray all the accompanying holy beings to bless this
@@ -384,7 +384,7 @@ disciple of Diamond Vehicle, and grant them the Initiation!
 <span id="page_56">p. 56</span>
 
 Pray to cleanse the Hindrance of Passion, Hindrance of
-Knowledge[21](ettt04.htm#an_n_3:21)<span id="an_r_3:21"></span>, and all
+Knowledge[21](ettt04.htm#an_n_3:21.md)<span id="an_r_3:21"></span>, and all
 Habitual Thinking for them forever!
 
 Pray forever close the gate of Sanmara and Lower Path for them!
@@ -416,14 +416,14 @@ the Initiation of Body, Mouth, and Mind.
 the benediction psalm and dedications.)
 
 *Hūṃ!* May all the gurus who possess the
-Trikaya[22](ettt04.htm#an_n_3:22)<span id="an_r_3:22"></span> grant us
+Trikaya[22](ettt04.htm#an_n_3:22.md)<span id="an_r_3:22"></span> grant us
 the blessing and prosperity.
 
 May the tutelary Buddha, Deities, and Dakinis grant us the blessing and
 prosperity!
 
 May all the Guardians of Dharma, the Ocean-like
-Samaya[23](ettt04.htm#an_n_3:23)<span id="an_r_3:23"></span> Holders
+Samaya[23](ettt04.htm#an_n_3:23.md)<span id="an_r_3:23"></span> Holders
 bless us.
 
 <span id="page_57">p. 57</span>
@@ -444,75 +444,75 @@ All-Merciful One as my tutelary Buddha.
 
 ##### NOTES
 
-[1](ettt04.htm#an_r_3:1)<span id="an_n_3:1"></span>. *The All-Merciful
+[1](ettt04.htm#an_r_3:1.md)<span id="an_n_3:1"></span>. *The All-Merciful
 One:* Avalokiteśvara, patron Bodhisattva of Tibet.
 
-[2](ettt04.htm#an_r_3:2)<span id="an_n_3:2"></span>. The ritual
+[2](ettt04.htm#an_r_3:2.md)<span id="an_n_3:2"></span>. The ritual
 containing these instructions is missing from the manuscript.—*Ed*.
 
-[3](ettt04.htm#an_r_3:3)<span id="an_n_3:3"></span>. *Tsag’-li:* A
+[3](ettt04.htm#an_r_3:3.md)<span id="an_n_3:3"></span>. *Tsag’-li:* A
 miniature flag with the device of a mandala or mantram, one of the
 Tantric ornaments.
 
-[4](ettt04.htm#an_r_3:4)<span id="an_n_3:4"></span>. *Wisdom Ones:*
+[4](ettt04.htm#an_r_3:4.md)<span id="an_n_3:4"></span>. *Wisdom Ones:*
 Those Buddhas that give life to the Front Vase, manifestations of the
 coming Buddhas. See Note 5, Chapter 4.
 
-[5](ettt04.htm#an_r_3:5)<span id="an_n_3:5"></span>. *Three*
-[*Purifications*](errata.htm#9): The ceremony of purifying the body,
+[5](ettt04.htm#an_r_3:5.md)<span id="an_n_3:5"></span>. *Three*
+[*Purifications*](errata.htm#9.md): The ceremony of purifying the body,
 mouth, and mind.
 
-[6](ettt04.htm#an_r_3:6)<span id="an_n_3:6"></span>. *Vase-Buddha:* See
+[6](ettt04.htm#an_r_3:6.md)<span id="an_n_3:6"></span>. *Vase-Buddha:* See
 Note 2, Chapter 4.
 
-[7](ettt04.htm#an_r_3:7)<span id="an_n_3:7"></span>. *Diamond Sitting
+[7](ettt04.htm#an_r_3:7.md)<span id="an_n_3:7"></span>. *Diamond Sitting
 Posture:* Traditional cross-legged posture of the Buddhas.
 
-[8](ettt04.htm#an_r_3:8)<span id="an_n_3:8"></span>. *Kham Pa:* People
+[8](ettt04.htm#an_r_3:8.md)<span id="an_n_3:8"></span>. *Kham Pa:* People
 of Kham, or East Tibet.
 
-[9](ettt04.htm#an_r_3:9)<span id="an_n_3:9"></span>. *Snow Country:*
+[9](ettt04.htm#an_r_3:9.md)<span id="an_n_3:9"></span>. *Snow Country:*
 Another name for Tibet.
 
-[10](ettt04.htm#an_r_3:10)<span id="an_n_3:10"></span>. *Infinite
+[10](ettt04.htm#an_r_3:10.md)<span id="an_n_3:10"></span>. *Infinite
 merits:* Buddhist term for all virtues.
 
-[11](ettt04.htm#an_r_3:11)<span id="an_n_3:11"></span>. This refers to
+[11](ettt04.htm#an_r_3:11.md)<span id="an_n_3:11"></span>. This refers to
 deep Samadhi in which the thought-flow is stopped.
 
-[12](ettt04.htm#an_r_3:12)<span id="an_n_3:12"></span>. *Path of Bodhi:*
+[12](ettt04.htm#an_r_3:12.md)<span id="an_n_3:12"></span>. *Path of Bodhi:*
 The way to Buddhahood.
 
-[13](ettt04.htm#an_r_3:13)<span id="an_n_3:13"></span>. *Born in the
+[13](ettt04.htm#an_r_3:13.md)<span id="an_n_3:13"></span>. *Born in the
 lotus:* A term of the Pure Land Sutras referring to those advanced
 beings having a higher birth than from the womb.
 
-[14](ettt04.htm#an_r_3:14)<span id="an_n_3:14"></span>. *Bra Gyan and
+[14](ettt04.htm#an_r_3:14.md)<span id="an_n_3:14"></span>. *Bra Gyan and
 Bas Lhag diseases:* Unknown diseases.
 
-[15](ettt04.htm#an_r_3:15)<span id="an_n_3:15"></span>. *Six Paramitas:*
+[15](ettt04.htm#an_r_3:15.md)<span id="an_n_3:15"></span>. *Six Paramitas:*
 Six perfections of Buddhist philosophy.
 
-[16](ettt04.htm#an_r_3:16)<span id="an_n_3:16"></span>. *Mystic
+[16](ettt04.htm#an_r_3:16.md)<span id="an_n_3:16"></span>. *Mystic
 Holding-Wheel:* The ruler of a Golden Age holds a golden wheel and rules
 through love; the king of a Silver Age rules through fear; the king of
 an Iron Age, whose symbol is the iron wheel, rules through violence.
 (Asoka is identified with the last type of ruler.)
 
-[17](ettt04.htm#an_r_3:17)<span id="an_n_3:17"></span>. *Dakinis:*
+[17](ettt04.htm#an_r_3:17.md)<span id="an_n_3:17"></span>. *Dakinis:*
 *Tantric goddesses*.
 
-[18](ettt04.htm#an_r_3:18)<span id="an_n_3:18"></span>. *Oath for the
+[18](ettt04.htm#an_r_3:18.md)<span id="an_n_3:18"></span>. *Oath for the
 Devotion for Bodhi:* The Bodhisattva's vow.
 
-[19](ettt04.htm#an_r_3:19)<span id="an_n_3:19"></span>. *Holy Bodala:*
+[19](ettt04.htm#an_r_3:19.md)<span id="an_n_3:19"></span>. *Holy Bodala:*
 Pure Land of Kwan Yin, traditionally located in this world in a region
 of the Chinese coast, Chekiang province.
 
-[20](ettt04.htm#an_r_3:20)<span id="an_n_3:20"></span>. *Illumination
+[20](ettt04.htm#an_r_3:20.md)<span id="an_n_3:20"></span>. *Illumination
 Holders:* Tantric yogis.
 
-[21](ettt04.htm#an_r_3:21)<span id="an_n_3:21"></span>. One freed of the
+[21](ettt04.htm#an_r_3:21.md)<span id="an_n_3:21"></span>. One freed of the
 passions may yet have *Hindrance of Knowledge*,
 
 <span id="page_59">p. 59</span>
@@ -520,10 +520,10 @@ passions may yet have *Hindrance of Knowledge*,
 not being omniscient. Such a one is an arhat, but not yet a fully
 enlightened being—Buddha.
 
-[22](ettt04.htm#an_r_3:22)<span id="an_n_3:22"></span>. *Trikaya:* The
+[22](ettt04.htm#an_r_3:22.md)<span id="an_n_3:22"></span>. *Trikaya:* The
 Three Bodies of Buddha.
 
-[23](ettt04.htm#an_r_3:23)<span id="an_n_3:23"></span>. *Samaya* here
+[23](ettt04.htm#an_r_3:23.md)<span id="an_n_3:23"></span>. *Samaya* here
 means the Tantric precepts
 
 <div class="filenav">
@@ -532,6 +532,6 @@ means the Tantric precepts
 
 [Next: Chapter Four: The Initiation Ritual of Hayagriva Buddha, The
 Green Rta-Mgrin's Initiation Ceremony From the Treasury of
-Percipience](ettt05)
+Percipience](ettt05.md)
 
 </div>

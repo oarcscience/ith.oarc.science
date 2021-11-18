@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta05)  [Next](sta07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta05)  [Next](sta07.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,7 +130,7 @@ hour. For this reason many of the Eleusinian
 <span id="img_02900"></span>
 
 [![THE RAPE OF PERSEPHONE.](tn/02900.jpg)  
-Click to enlarge](img/02900.jpg)  
+Click to enlarge](img/02900.jpg.md)  
 THE RAPE OF PERSEPHONE.  
 
 From Thomassin's *Recucil des Figures, Groupes, Themes, Fontaines, Vases
@@ -318,7 +318,7 @@ the initiate. During the course of initiation the candidate
 <span id="img_03000"></span>
 
 [![CERES, THE PATRON OF THE MYSTERIES.](tn/03000.jpg)  
-Click to enlarge](img/03000.jpg)  
+Click to enlarge](img/03000.jpg.md)  
 CERES, THE PATRON OF THE MYSTERIES.  
 
 From a mural painting in Pompeii.
@@ -336,7 +336,7 @@ serpents.
 <span id="img_03100"></span>
 
 [![THE PROCESSIONAL OF THE BACCHIC RITES.](tn/03100.jpg)  
-Click to enlarge](img/03100.jpg)  
+Click to enlarge](img/03100.jpg.md)  
 THE PROCESSIONAL OF THE BACCHIC RITES.  
 
 From Ovid's *Metamorphosis*.
@@ -623,4 +623,4 @@ was an initiate of this society.
 
 ------------------------------------------------------------------------
 
-[Next: Atlantis and the Gods of Antiquity](sta07)
+[Next: Atlantis and the Gods of Antiquity](sta07.md)

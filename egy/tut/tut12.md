@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](tut11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](tut11.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,19 +23,19 @@ monotheistic, polytheistic, or pantheistic, and the differences in the
 opinions which they formed about it will illustrate its difficulty.
 Champollion believed it to have been "a pure monotheism, which
 manifested itself externally by a symbolic polytheism." <span
-id="fr_66"></span>[1](#fn_66) Tiele thought that in the beginning it was
+id="fr_66"></span>[1](#fn_66.md) Tiele thought that in the beginning it was
 polytheistic, but that it developed in two opposite directions; in the
 one direction gods were multiplied, and in the other it drew nearer and
-nearer to monotheism. <span id="fr_67"></span>[2](#fn_67) Naville
+nearer to monotheism. <span id="fr_67"></span>[2](#fn_67.md) Naville
 treated it as a "religion of
 
 <span id="page_141">p. 141</span>
 
-nature, inclining to pantheism." <span id="fr_68"></span>[1](#fn_68)
+nature, inclining to pantheism." <span id="fr_68"></span>[1](#fn_68.md)
 Maspero admitted that the Egyptians applied the epithets, "one God" and
 "only God" to several gods, even when the god was associated with a
 goddess and a son, but he adds "ce dieu Un n'etait jamais DIEU tout
-court"; <span id="fr_69"></span>[2](#fn_69) the "only god" is the only
+court"; <span id="fr_69"></span>[2](#fn_69.md) the "only god" is the only
 god Amen, or the only god Ptah, or the only god Osiris, that is to say,
 a being determinate possessing a personality, name, attributes, apparel,
 members, a family, a man infinitely more perfect than men. He is a
@@ -61,8 +61,8 @@ Egyptians a most
 <span id="page_142">p. 142</span>
 
 honourable place among the religions of antiquity." <span
-id="fr_70"></span>[1](#fn_70) And in his work on the Religion and
-Mythology of the Ancient Egyptians <span id="fr_71"></span>[2](#fn_71)
+id="fr_70"></span>[1](#fn_70.md) And in his work on the Religion and
+Mythology of the Ancient Egyptians <span id="fr_71"></span>[2](#fn_71.md)
 Brugsch expressed his conviction that, from the earliest times, a
 nameless, incomprehensible and eternal God was worshipped by the
 inhabitants of the Valley of the Nile. This conviction he based on many
@@ -111,7 +111,7 @@ whereon is placed the White Crown. He cannot be seen. Service cannot be
 rendered to him. Gifts cannot be presented to him. He is not to be
 approached in the sanctuaries. Where he is is not known. He is not to be
 found in inscribed shrines. No habitation can contain him. There is none
-who acteth as guide to his heart." <span id="fr_72"></span>[1](#fn_72)
+who acteth as guide to his heart." <span id="fr_72"></span>[1](#fn_72.md)
 The
 
 <span id="page_144">p. 144</span>
@@ -144,7 +144,7 @@ from the Precepts of Kagemna
 
 \[paragraph continues\] (IVth dynasty) and the Precepts of Ptah-hetep
 (Vth dynasty) will illustrate this use of Neter. <span
-id="fr_73"></span>[1](#fn_73)
+id="fr_73"></span>[1](#fn_73.md)
 
 1\. The things which God, (*neter*), doeth cannot be known.
 
@@ -175,7 +175,7 @@ and under the XVIIIth dynasty he lost something of the aloofness with
 which they regarded him, and a fuller idea of his personality existed in
 their minds. This is clear from the following extracts taken from the
 Precepts, or Teaching, of Khensu-hetep, <span
-id="fr_74"></span>[1](#fn_74) more generally known as the "Maxims of
+id="fr_74"></span>[1](#fn_74.md) more generally known as the "Maxims of
 Ani."
 
 1\. The God magnifies his name.
@@ -245,7 +245,7 @@ It is he who makes a man to arrive in Amentt (the Other World) \[where\]
 he is safe in the hand of God (Col. XXIV).
 
 8\. The love of God, praised and adored be he is more than the respect
-of the Chief (Col. XXVI). <span id="fr_75"></span>[1](#fn_75)
+of the Chief (Col. XXVI). <span id="fr_75"></span>[1](#fn_75.md)
 
 It will be noted that in none of these extracts is any attempt made to
 describe God, *Neter*, and that he is never called "One," or "Only One."
@@ -266,7 +266,7 @@ declaration before the Forty-two gods, "I have not cursed God,"
 <span id="page_149">p. 149</span>
 
 and "I have not contemned the god of my city <span
-id="fr_76"></span>[1](#fn_76). The distinction between "God" and "god of
+id="fr_76"></span>[1](#fn_76.md). The distinction between "God" and "god of
 the city" was quite clear in the mind of the Egyptian.
 
 It has been claimed by some that Amenhetep IV was the first monotheist
@@ -279,7 +279,7 @@ oneness was well understood under the Ancient Empire, but in the Pyramid
 Texts the attribute is ascribed to the "gods" and to kings as well as to
 God. Thus in Teta (l. 237) the "lord one" is mentioned; in Merenra I the
 king is called "great god alone," (l. 127), <span
-id="fr_77"></span>[2](#fn_77) and is said to be stronger than every god;
+id="fr_77"></span>[2](#fn_77.md) and is said to be stronger than every god;
 and in Pepi II (l. 952) the king is called the "one of heaven," Now the
 monotheism of Amenhetep IV was different from that of the writers of the
 Moral Papyri, and the oneness of Aten which he proclaimed resembled the
@@ -296,7 +296,7 @@ the worshipper of Amen was proclaiming the oneness of Amen in Thebes,
 the worshipper of Ra or Tem was proclaiming the oneness of his god in
 Heliopolis, and so on throughout the country. And it is interesting to
 note that votaries of Neith of Saïs proclaimed that their goddess was
-"One," <span id="fr_78"></span>[1](#fn_78) that she first created
+"One," <span id="fr_78"></span>[1](#fn_78.md) that she first created
 herself and then produced Ra from her own body. The second portion of a
 fine Hymn to the solar triad, which is preserved in the Papyrus of Ani
 (sheet 19), and is addressed to Ra-Tem-Heraakhuti the "only one," adds
@@ -360,7 +360,7 @@ in which their spiritual feelings were embodied.
  
 
 <span id="img_15200"></span> [![](tn/15200.jpg)  
-Click to enlarge](img/15200.jpg)  
+Click to enlarge](img/15200.jpg.md)  
 Variegated glass bottle in the form of a fish.  
 From Tall al-'Amarnah. British Museum, No. 55193.  
 \[Presented by the Egypt Exploration Society, 1921.\]
@@ -369,44 +369,44 @@ From Tall al-'Amarnah. British Museum, No. 55193.
 
 ### Footnotes
 
-<span id="fn_66"></span>[140:1](tut12.htm#fr_66) *L'Égypte*, Paris,
+<span id="fn_66"></span>[140:1](tut12.htm#fr_66.md) *L'Égypte*, Paris,
 1839, p. 245.
 
-<span id="fn_67"></span>[140:2](tut12.htm#fr_67) *Geschiedenis van den
+<span id="fn_67"></span>[140:2](tut12.htm#fr_67.md) *Geschiedenis van den
 Godsdienst in de Oudheid*, Amsterdam, 1893, p. 25.
 
-<span id="fn_68"></span>[141:1](tut12.htm#fr_68) *La Religion*, p. 92.
+<span id="fn_68"></span>[141:1](tut12.htm#fr_68.md) *La Religion*, p. 92.
 
-<span id="fn_69"></span>[141:2](tut12.htm#fr_69) *Histoire Ancienne*,
+<span id="fn_69"></span>[141:2](tut12.htm#fr_69.md) *Histoire Ancienne*,
 Paris, 1904, p. 33.
 
-<span id="fn_70"></span>[142:1](tut12.htm#fr_70) *Études sur le Rituel
+<span id="fn_70"></span>[142:1](tut12.htm#fr_70.md) *Études sur le Rituel
 Funéraire* (in *Rev. Arch.*, Paris, 1860, p. 12).
 
-<span id="fn_71"></span>[142:2](tut12.htm#fr_71) *Religion und
+<span id="fn_71"></span>[142:2](tut12.htm#fr_71.md) *Religion und
 Mythologie*, Leipzig, 1885, p. 90.
 
-<span id="fn_72"></span>[143:1](tut12.htm#fr_72) See *Egyptian Hieratic
+<span id="fn_72"></span>[143:1](tut12.htm#fr_72.md) See *Egyptian Hieratic
 Papyri in the British Museum*, Second Series, London, 1923, pl. LXXIII.
 (Introduction, p. 31.)
 
-<span id="fn_73"></span>[145:1](tut12.htm#fr_73) They are taken from the
+<span id="fn_73"></span>[145:1](tut12.htm#fr_73.md) They are taken from the
 Prisse Papyrus which was written under the XIth or XIIth dynasty. See
 Virey, *Études sur le Papyrus Prisse*, Paris, 1877, where a transcript
 of the hieratic text and a French translation will be found.
 
-<span id="fn_74"></span>[146:1](tut12.htm#fr_74) See Chabas,
+<span id="fn_74"></span>[146:1](tut12.htm#fr_74.md) See Chabas,
 *L'Egyptologie, Série I*., Chalon-sur-Saône, Paris, 1876-78; and
 Amélineau, *La Morale Egyptienne*, Paris, 1892.
 
-<span id="fn_75"></span>[148:1](tut12.htm#fr_75) See *Egyptian Hieratic
+<span id="fn_75"></span>[148:1](tut12.htm#fr_75.md) See *Egyptian Hieratic
 Papyri*, ed. Budge, Second Series, London, 1923.
 
-<span id="fn_76"></span>[149:1](tut12.htm#fr_76) From the Papyrus of
+<span id="fn_76"></span>[149:1](tut12.htm#fr_76.md) From the Papyrus of
 Nebseni. Early XVIIIth dynasty.
 
-<span id="fn_77"></span>[149:2](tut12.htm#fr_77) And "Lord of the earth
+<span id="fn_77"></span>[149:2](tut12.htm#fr_77.md) And "Lord of the earth
 to its limit"
 
-<span id="fn_78"></span>[150:1](tut12.htm#fr_78) See Budge, *Gods of the
+<span id="fn_78"></span>[150:1](tut12.htm#fr_78.md) See Budge, *Gods of the
 Egyptians*, Vol. 1, p. 458.

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg22)  [Next](ttg24) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg22)  [Next](ttg24.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,4 +159,4 @@ took the body and joyfully went to the fig-tree.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](ttg24)
+[Next: Conclusion](ttg24.md)

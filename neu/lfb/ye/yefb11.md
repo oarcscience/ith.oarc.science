@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb10)  [Next](yefb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb10)  [Next](yefb12.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_50">p. 50</span>
 
-THE LITTLE GREEN FROG <span id="fr_7"></span>[1](#fn_7)
+THE LITTLE GREEN FROG <span id="fr_7"></span>[1](#fn_7.md)
 
 In a part of the world whose name I forget lived once upon a time two
 kings, called Peridor and Diamantino.  They were cousins as well as
@@ -398,12 +398,12 @@ and everybody lived happy and contented to the end of their lives.
 
 ### Footnotes
 
-<span id="fn_7"></span>[50:1](yefb11.htm#fr_7) *Cabinet des Fées*.
+<span id="fn_7"></span>[50:1](yefb11.htm#fr_7.md) *Cabinet des Fées*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Seven-Headed Serpent](yefb12)
+[Next: The Seven-Headed Serpent](yefb12.md)
 
 </div>

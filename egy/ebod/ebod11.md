@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod10)  [Next](ebod12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod10)  [Next](ebod12.md) 
 
 ------------------------------------------------------------------------
 
@@ -272,4 +272,4 @@ among them."
 
 ------------------------------------------------------------------------
 
-[Next: The Papyrus Of Ani.](ebod12)
+[Next: The Papyrus Of Ani.](ebod12.md)

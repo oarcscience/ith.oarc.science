@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes46)  [Next](tes48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes46)  [Next](tes48.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ nothing. The next day likewise he caught nothing. The third day he cast
 his fishing rod, and could not pull back the line, it was so heavy.
 "Ah!" thought he, "it must be some large fish." He pulled at it with all
 his might, and at last he brought to the surface Shérkala, <span
-id="fr_78"></span>[1](#fn_78) the fish-girl. "What is it?" said he to
+id="fr_78"></span>[1](#fn_78.md) the fish-girl. "What is it?" said he to
 himself. "Is it my good luck, or is it my bad luck?" He was ready to
 throw her back into the water; but then he bethought himself, and said,
 "I am very poor. I can lose nothing by it, let me take her home!" He
@@ -49,7 +49,7 @@ Pokhotsk, the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_78"></span>[101:1](tes47.htm#fr_78) In Russian Шеркала.
+<span id="fn_78"></span>[101:1](tes47.htm#fr_78.md) In Russian Шеркала.
 Compare this very curious fish tale with that of the Koryak (Bogoras, in
 Jochelson, "The Koryak" (*The Jesup North Pacific Expedition*, vol. 6,
 292), also with Indian tales of a similar character (Bogoras, "The
@@ -58,4 +58,4 @@ America," (*American Anthropologist*, Vol. 4, 1902). 658--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 27. Yukaghir Manners](tes48)
+[Next: 27. Yukaghir Manners](tes48.md)

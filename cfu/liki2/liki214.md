@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki213)  [Next](liki215) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki213)  [Next](liki215.md) 
 
 ------------------------------------------------------------------------
 
@@ -262,6 +262,6 @@ And ne'er will men be weary of his fame\[1\].'
 
 ------------------------------------------------------------------------
 
-[Next: XV. Shâo Î or Smaller Rules of Demeanour](liki215)
+[Next: XV. Shâo Î or Smaller Rules of Demeanour](liki215.md)
 
   

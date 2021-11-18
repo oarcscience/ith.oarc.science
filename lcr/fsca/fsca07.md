@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca06)  [Next](fsca08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca06)  [Next](fsca08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ feature. He may curl the mane of his lion, fancifully develop its tongue
 and tail, and display its claws in a manner for which there is little or
 no authority in nature; but if he add wings, or endow it with a
 plurality of heads or tails, it instantly becomes another creature and a
-totally different symbol. <span id="fr_1"></span>[\*](#fn_1) A wise
+totally different symbol. <span id="fr_1"></span>[\*](#fn_1.md) A wise
 reticence in treatment is more to be commended than such fanciful
 extravagance.
 
@@ -63,10 +63,10 @@ has been "hitherto the most brilliant" and "most effective of the Arts."
 
 ### Footnotes
 
-<span id="fn_1"></span>[23:\*](fsca07.htm#fr_1) The above notes on
+<span id="fn_1"></span>[23:\*](fsca07.htm#fr_1.md) The above notes on
 heraldic treatment are largely adapted from the admirable works on
 Decorative Art, by Louis F. Day.
 
 ------------------------------------------------------------------------
 
-[Next: Angels](fsca08)
+[Next: Angels](fsca08.md)

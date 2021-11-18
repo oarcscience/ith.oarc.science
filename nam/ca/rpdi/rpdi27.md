@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi26.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -22,14 +22,14 @@ valid*.—JBH
 
 <span id="img_pl21"></span> <span align="CENTER"> [![Plate 21. DIEGUEÑO
 STONE OBJECTS](tn/pl21.jpg)  
-Click to enlarge](img/pl21.jpg)  
+Click to enlarge](img/pl21.jpg.md)  
 Plate 21. DIEGUEÑO STONE OBJECTS  
 </span>
 
 EXPLANATION OF PLATE 21.
 
 Fig. 1.—Crescent-shaped ceremonial stone. Mesa Grande. 1-13747 <span
-id="fr_174"></span>[1](#fn_172).
+id="fr_174"></span>[1](#fn_172.md).
 
 Fig. 2.—Toloache mortar. Mesa Grande. 1-13742.
 
@@ -43,7 +43,7 @@ Figures are .3 natural size.
 
 <span id="img_pl22"></span> <span align="CENTER"> [![Plate 22. DIEGUEÑO
 FEATHER OBJECTS](tn/pl22.jpg)  
-Click to enlarge](img/pl22.jpg)  
+Click to enlarge](img/pl22.jpg.md)  
 Plate 22. DIEGUEÑO FEATHER OBJECTS  
 </span>
 
@@ -60,7 +60,7 @@ Figures are .13 natural size.
 
 <span id="img_pl23"></span> <span align="CENTER"> [![Plate 23. ANCIENT
 FUNERAL JAR.](tn/pl23.jpg)  
-Click to enlarge](img/pl23.jpg)  
+Click to enlarge](img/pl23.jpg.md)  
 Plate 23. ANCIENT FUNERAL JAR.  
 </span>
 
@@ -74,7 +74,7 @@ Funeral jar. Found about 15 miles from Mesa Grande. 1-13739.
 
 <span id="img_pl24"></span> <span align="CENTER"> [![DIEGUEÑO GROUND
 PAINTING.](tn/pl24.jpg)  
-Click to enlarge](img/pl24.jpg)  
+Click to enlarge](img/pl24.jpg.md)  
 DIEGUEÑO GROUND PAINTING.  
 </span>
 
@@ -125,7 +125,7 @@ Coronado island.
 
 <span id="img_pl25"></span> <span align="CENTER"> [![DIEGUEÑO GROUND
 PAINTING.](tn/pl25.jpg)  
-Click to enlarge](img/pl25.jpg)  
+Click to enlarge](img/pl25.jpg.md)  
 DIEGUEÑO GROUND PAINTING.  
 </span>
 
@@ -173,7 +173,7 @@ color for this figure.
 
 <span id="img_pl26"></span> <span align="CENTER"> [![DIEGUEÑO
 DANCERS.](tn/pl26.jpg)  
-Click to enlarge](img/pl26.jpg)  
+Click to enlarge](img/pl26.jpg.md)  
 DIEGUEÑO DANCERS.  
 </span>
 
@@ -187,7 +187,7 @@ Figs. 2, 3.—Dancers painted for Tapakwirp.
 
 <span id="img_pl27"></span> <span align="CENTER"> [![DIEGUEÑO TAPAKWIRP
 DANCE.](tn/pl27.jpg)  
-Click to enlarge](img/pl27.jpg)  
+Click to enlarge](img/pl27.jpg.md)  
 DIEGUEÑO TAPAKWIRP DANCE.  
 </span>
 
@@ -205,7 +205,7 @@ Fig. 4.—Tapakwirp dancer squatting in the midst of a song.
 
 <span id="img_pl28"></span> <span align="CENTER"> [![DIEGUEÑO KERUK
 CEREMONY AND MOURNER.](tn/pl28.jpg)  
-Click to enlarge](img/pl28.jpg)  
+Click to enlarge](img/pl28.jpg.md)  
 DIEGUEÑO KERUK CEREMONY AND MOURNER.  
 </span>
 
@@ -227,7 +227,7 @@ Fig. 2.—Old woman. Her breast is lacerated as a sign of mourning.
 
 ### Footnotes
 
-<span id="fn_172"></span>[345:1](rpdi27.htm#fr_174) The numbers given
+<span id="fn_172"></span>[345:1](rpdi27.htm#fr_174.md) The numbers given
 are the catalogue numbers of the Museum of the Department of
 Anthropology of the University of California.
 

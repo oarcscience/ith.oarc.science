@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb16)  [Next](vifb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb16)  [Next](vifb18.md) 
 
 </div>
 
@@ -253,6 +253,6 @@ was a pleasure to see them, and so the story has an end.
 
 ------------------------------------------------------------------------
 
-[Next: The Envious Neighbour](vifb18)
+[Next: The Envious Neighbour](vifb18.md)
 
 </div>

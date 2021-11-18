@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ Chelcias, and Simon the son of Ezron, who were among the men of greatest
 power. There was also with him Hezekiah, the son of Chobar, a person of
 eminence. Each of these were followed by a great many of the zealots;
 these seized upon the inner court of the temple <span
-id="EndNote 5.1a"></span>[(1)](#EndNote%205.1b) and laid their arms upon
+id="EndNote 5.1a"></span>[(1)](#EndNote%205.1b.md) and laid their arms upon
 the holy gates, and over the holy fronts of that court. And because they
 had plenty of provisions, they were of good courage, for there was a
 great abundance of what was consecrated to sacred uses, and they
@@ -93,7 +93,7 @@ yet often destroyed by this sedition; for those darts that were thrown
 by the engines came with that force, that they went over all the
 buildings, and reached as far as the altar, and the temple itself, and
 fell upon the priests, and those <span
-id="EndNote 5.2a"></span>[(2)](#EndNote%205.2b) that were about the
+id="EndNote 5.2a"></span>[(2)](#EndNote%205.2b.md) that were about the
 sacred offices; insomuch that many persons who came thither with great
 zeal from the ends of the earth, to offer sacrifices at this celebrated
 place, which was esteemed holy by all mankind, fell down before their
@@ -113,7 +113,7 @@ that God who is the author of thy destruction." But I must restrain
 myself from these passions by the rules of history, since this is not a
 proper time for domestical lamentations, but for historical narrations;
 I therefore return to the operations that follow in this sedition. <span
-id="EndNote 5.3a"></span>[(3)](#EndNote%205.3b)
+id="EndNote 5.3a"></span>[(3)](#EndNote%205.3b.md)
 
 4\. And now there were three treacherous factions in the city, the one
 parted from the other. Eleazar and his party, that kept the sacred
@@ -129,7 +129,7 @@ happened frequently, from their being drunk and tired, he sallied out
 with a great number upon Simon and his party; and this he did always in
 such parts of the city as he could come at, till he set on fire those
 houses that were full of corn, and of all other provisions. <span
-id="EndNote 5.4a"></span>[(4)](#EndNote%205.4b) The same thing was done
+id="EndNote 5.4a"></span>[(4)](#EndNote%205.4b.md) The same thing was done
 by Simon, when, upon the other's retreat, he attacked the city also; as
 if they had, on purpose, done it to serve the Romans, by destroying what
 the city had laid up against the siege, and by thus cutting off the
@@ -175,7 +175,7 @@ moreover, were still inventing somewhat or other that was pernicious
 against themselves; and when they had resolved upon any thing, they
 executed it without mercy, and omitted no method of torment or of
 barbarity. Nay, John abused the sacred materials, <span
-id="EndNote 5.5a"></span>[(5)](#EndNote%205.5b) and employed them in the
+id="EndNote 5.5a"></span>[(5)](#EndNote%205.5b.md) and employed them in the
 construction of his engines of war; for the people and the priests had
 formerly determined to support the temple, and raise the holy house
 twenty cubits higher; for king Agrippa had at a very great expense, and
@@ -247,7 +247,7 @@ marched on in the morning; and when he had gone as far as a day's march,
 he pitched his camp at that valley which the Jews, in their own tongue,
 call "the Valley of Thorns," near a certain village called Gabaothsath,
 which signifies "the Hill of Saul," being distant from Jerusalem about
-thirty furlongs. <span id="EndNote 5.6a"></span>[(6)](#EndNote%205.6b)
+thirty furlongs. <span id="EndNote 5.6a"></span>[(6)](#EndNote%205.6b.md)
 There it was that he chose out six hundred select horsemen, and went to
 take a view of the city, to observe what strength it was of, and how
 courageous the Jews were; whether, when they saw him, and before they
@@ -277,7 +277,7 @@ and turned his horse about, and cried out aloud to those that were about
 him to follow him, and ran with violence into the midst of his enemies,
 in order to force his way through them to his own men. And hence we may
 principally learn, that both the success of wars, and the dangers that
-kings <span id="EndNote 5.7a"></span>[(7)](#EndNote%205.7b) are in, are
+kings <span id="EndNote 5.7a"></span>[(7)](#EndNote%205.7b.md) are in, are
 under the providence of God; for while such a number of darts were
 thrown at Titus, when he had neither his head-piece on, nor his
 breastplate, (for, as I told you, he went out not to fight, but to view
@@ -319,7 +319,7 @@ already come to the place, where a certain party of armed men had
 formerly lain, to guard that pass into the city, and had been taken
 before by Vespasian. These legions had orders to encamp at the distance
 of six furlongs from Jerusalem, at the mount called the Mount of Olives
-<span id="EndNote 5.8a"></span>[(8)](#EndNote%205.8b) which lies over
+<span id="EndNote 5.8a"></span>[(8)](#EndNote%205.8b.md) which lies over
 against the city on the east side, and is parted from it by a deep
 valley, interposed between them, which is named Cedron.
 
@@ -441,7 +441,7 @@ being the fourteenth day of the month Xanthicus, \[Nisan,\] when it is
 believed the Jews were first freed from the Egyptians, Eleazar and his
 party opened the gates of this \[inmost court of the\] temple, and
 admitted such of the people as were desirous to worship God into it.
-<span id="EndNote 5.9a"></span>[(9)](#EndNote%205.9b) But John made use
+<span id="EndNote 5.9a"></span>[(9)](#EndNote%205.9b.md) But John made use
 of this festival as a cloak for his treacherous designs, and armed the
 most inconsiderable of his own party, the greater part of whom were not
 purified, with weapons concealed under their garments, and sent them
@@ -571,7 +571,7 @@ from making sallies upon the Romans, both the beasts that bare the
 burdens, and belonged to the three legions, and the rest of the
 multitude, marched on without any fear. But as for Titus himself, he was
 but about two furlongs distant from the wall, at that part of it where
-was the corner <span id="EndNote 5.10a"></span>[(10)](#EndNote%205.10b)
+was the corner <span id="EndNote 5.10a"></span>[(10)](#EndNote%205.10b.md)
 and over against that tower which was called Psephinus, at which tower
 the compass of the wall belonging to the north bended, and extended
 itself over against the west; but the other part of the army fortified
@@ -749,7 +749,7 @@ courts that were exposed to the air every where green. There were,
 moreover, several groves of trees, and long walks through them, with
 deep canals, and cisterns, that in several parts were filled with brazen
 statues, through which the water ran out. There were withal many
-dove-courts <span id="EndNote 5.11a"></span>[(11)](#EndNote%205.11b) of
+dove-courts <span id="EndNote 5.11a"></span>[(11)](#EndNote%205.11b.md) of
 tame pigeons about the canals. But indeed it is not possible to give a
 complete description of these palaces; and the very remembrance of them
 is a torment to one, as putting one in mind what vastly rich buildings
@@ -770,7 +770,7 @@ precipice; but when king Solomon, who was the person that built the
 temple, had built a wall to it on its east side, there was then added
 one cloister founded on a bank cast up for it, and on the other parts
 the holy house stood naked. But in future ages the people added new
-banks, <span id="EndNote 5.12a"></span>[(12)](#EndNote%205.12b) and the
+banks, <span id="EndNote 5.12a"></span>[(12)](#EndNote%205.12b.md) and the
 hill became a larger plain. They then broke down the wall on the north
 side, and took in as much as sufficed afterward for the compass of the
 entire temple. And when they had built walls on three sides of the
@@ -813,7 +813,7 @@ was called "the Sanctuary," and was ascended to by fourteen steps from
 the first court. This court was four-square, and had a wall about it
 peculiar to itself; the height of its buildings, although it were on the
 outside forty cubits, <span
-id="EndNote 5.13a"></span>[(13)](#EndNote%205.13b) was hidden by the
+id="EndNote 5.13a"></span>[(13)](#EndNote%205.13b.md) was hidden by the
 steps, and on the inside that height was but twenty-five cubits; for it
 being built over against a higher part of the hill with steps, it was no
 further to be entirely discerned within, being covered by the hill
@@ -1017,7 +1017,7 @@ cloisters, with their arms, on the Jewish festivals, in order to watch
 the people, that they might not there attempt to make any innovations;
 for the temple was a fortress that guarded the city, as was the tower of
 Antonia a guard to the temple; and in that tower were the guards of
-those three <span id="EndNote 5.14a"></span>[(14)](#EndNote%205.14b).
+those three <span id="EndNote 5.14a"></span>[(14)](#EndNote%205.14b.md).
 There was also a peculiar fortress belonging to the upper city, which
 was Herod's palace; but for the hill Bezetha, it was divided from the
 tower Antonia, as we have already told you; and as that hill on which
@@ -1139,7 +1139,7 @@ noise it made, but could be seen also before it came by its brightness;
 accordingly the watchmen that sat upon the towers gave them notice when
 the engine was let go, and the stone came from it, and cried out aloud,
 in their own country language, THE STONE COMETH <span
-id="EndNote 5.15a"></span>[(15)](#EndNote%205.15b) so those that were in
+id="EndNote 5.15a"></span>[(15)](#EndNote%205.15b.md) so those that were in
 its way stood off, and threw themselves down upon the ground; by which
 means, and by their thus guarding themselves, the stone fell down and
 did them no harm. But the Romans contrived how to prevent that by
@@ -1628,7 +1628,7 @@ injurious person by war, although he had three hundred and eighteen
 captains under him, and an immense army under each of them? Indeed he
 deemed them to be no number at all without God's assistance, and only
 spread out his hands towards this holy place, <span
-id="EndNote 5.16a"></span>[(16)](#EndNote%205.16b) which you have now
+id="EndNote 5.16a"></span>[(16)](#EndNote%205.16b.md) which you have now
 polluted, and reckoned upon him as upon his invincible supporter,
 instead of his own army. Was not our queen sent back, without any
 defilement, to her husband, the very next evening? - while the king of
@@ -1637,7 +1637,7 @@ thereon the blood of your own countrymen; and he also trembled at those
 visions which he saw in the night season, and bestowed both silver and
 gold on the Hebrews, as on a people beloved by God. Shall I say nothing,
 or shall I mention the removal of our fathers into Egypt, who, <span
-id="EndNote 5.17a"></span>[(17)](#EndNote%205.17b) when they were used
+id="EndNote 5.17a"></span>[(17)](#EndNote%205.17b.md) when they were used
 tyrannically, and were fallen under the power of foreign kings for four
 hundred ears together, and might have defended themselves by war and by
 fighting, did yet do nothing but commit themselves to God! Who is there
@@ -1754,7 +1754,7 @@ only suffer nothing, but took the city by force; as did Vespasian go
 from the war he made against you to receive the empire; and as for
 Titus, those springs that were formerly almost dried up when they were
 under your power <span
-id="EndNote 5.18a"></span>[(18)](#EndNote%205.18b) since he is come, run
+id="EndNote 5.18a"></span>[(18)](#EndNote%205.18b.md) since he is come, run
 more plentifully than they did before; accordingly, you know that
 Siloam, as well as all the other springs that were without the city, did
 so far fail, that water was sold by distinct measures; whereas they now
@@ -1962,7 +1962,7 @@ soldiers, out of the wrath and hatred they bore the Jews, nailed those
 they caught, one after one way, and another after another, to the
 crosses, by way of jest, when their multitude was so great, that room
 was wanting for the crosses, and crosses wanting for the bodies. <span
-id="EndNote 5.19a"></span>[(19)](#EndNote%205.19b)
+id="EndNote 5.19a"></span>[(19)](#EndNote%205.19b.md)
 
 2\. But so far were the seditious from repenting at this sad sight,
 that, on the contrary, they made the rest of the multitude believe
@@ -2453,7 +2453,7 @@ me, and it is this: I suppose, that had the Romans made any longer delay
 in coming against these villains, that the city would either have been
 swallowed up by the ground opening upon them, or been overflowed by
 water, or else been destroyed by such thunder as the country of Sodom
-<span id="EndNote 5.20a"></span>[(20)](#EndNote%205.20b) perished by,
+<span id="EndNote 5.20a"></span>[(20)](#EndNote%205.20b.md) perished by,
 for it had brought forth a generation of men much more atheistical than
 were those that suffered such punishments; for by their madness it was
 that all the people came to be destroyed.
@@ -2490,7 +2490,7 @@ and upon themselves also.
 
 ENDNOTE
 
-<span id="EndNote 5.1b"></span>[(1)](#EndNote%205.1a) This appears to be
+<span id="EndNote 5.1b"></span>[(1)](#EndNote%205.1a.md) This appears to be
 the first time that the zealots ventured to pollute this most sacred
 court of the temple, which was the court of the priests, wherein the
 temple itself and the altar stood. So that the conjecture of those that
@@ -2499,9 +2499,9 @@ the altar" several months before, B. IV. ch. 5. sect. 4, as if he were
 slain there by these zealots, is groundless, as I have noted on that
 place already.
 
-<span id="EndNote 5.2b"></span>[(2)](#EndNote%205.2a) The Levites.
+<span id="EndNote 5.2b"></span>[(2)](#EndNote%205.2a.md) The Levites.
 
-<span id="EndNote 5.3b"></span>[(3)](#EndNote%205.3a) This is an
+<span id="EndNote 5.3b"></span>[(3)](#EndNote%205.3a.md) This is an
 excellent reflection of Josephus, including his hopes of the restoration
 of the Jews upon their repentance, See Antiq. B. IV. ch. 8. sect. 46,
 which is the grand "Hope of Israel," as Manasseh-ben-Israel, the famous
@@ -2510,7 +2510,7 @@ subject, of which the Jewish prophets are every where full. See the
 principal of those prophecies collected together at the end of the Essay
 on the Revelation, p. 822, etc.
 
-<span id="EndNote 5.5b"></span>[(4)](#EndNote%205.4a) This destruction
+<span id="EndNote 5.5b"></span>[(4)](#EndNote%205.4a.md) This destruction
 of such a vast quantity of corn and other provisions, as was sufficient
 for many years. was the direct occasion of that terrible famine, which
 consumed incredible numbers of Jews in Jerusalem during its siege. Nor
@@ -2518,12 +2518,12 @@ probably could the Romans have taken this city, after all, had not these
 seditious Jews been so infatuated as thus madly to destroy, what
 Josephus here justly styles, "The nerves of their power."
 
-<span id="EndNote 5.5b"></span>[(5)](#EndNote%205.5a) This timber, we
+<span id="EndNote 5.5b"></span>[(5)](#EndNote%205.5a.md) This timber, we
 see, was designed for the rebuilding those twenty additional cubits of
 the holy house above the hundred, which had fallen down some years
 before. See the note on Antiq. B. XV. ch. 11. sect. 3.
 
-<span id="EndNote 5.6b"></span>[(6)](#EndNote%205.6a) There being no
+<span id="EndNote 5.6b"></span>[(6)](#EndNote%205.6a.md) There being no
 gate on the west, and only on the west, side of the court of the
 priests, and so no steps there, this was the only side that the
 seditious, under this John of Gischala, could bring their engines close
@@ -2531,7 +2531,7 @@ to the cloisters of that court end-ways, though upon the floor of the
 court of Israel. See the scheme of that temple, in the description of
 the temples hereto belonging.
 
-<span id="EndNote 5.7b"></span>[(7)](#EndNote%205.7a) We may here note,
+<span id="EndNote 5.7b"></span>[(7)](#EndNote%205.7a.md) We may here note,
 that Titus is here called "a king," and "Caesar," by Josephus, even
 while he was no more than the emperor's son, and general of the Roman
 army, and his father Vespasian was still alive; just as the New
@@ -2547,14 +2547,14 @@ VII. 16; VIII. 2, 13; and elsewhere in the New Testament, Matthew 10:18;
 particularly esteemed Titus as joint king with his father ever since his
 divine dreams that declared them both such, B. III. ch. 8. sect. 9.
 
-<span id="EndNote 5.8b"></span>[(8)](#EndNote%205.8a) This situation of
+<span id="EndNote 5.8b"></span>[(8)](#EndNote%205.8a.md) This situation of
 the Mount of Olives, on the east of Jerusalem, at about the distance of
 five or six furlongs, with the valley of Cedron interposed between that
 mountain and the city, are things well known both in the Old and New
 Testament, in Josephus elsewhere, and in all the descriptions of
 Palestine.
 
-<span id="EndNote 5.9b"></span>[(9)](#EndNote%205.9a) Here we see the
+<span id="EndNote 5.9b"></span>[(9)](#EndNote%205.9a.md) Here we see the
 true occasion of those vast numbers of Jews that were in Jerusalem
 during this siege by Titus, and perished therein; that the siege began
 at the feast of the passover, when such prodigious multitudes of Jews
@@ -2575,18 +2575,18 @@ were 1,100,000, besides 97,000 captives. But Tacitus's history of the
 last part of this siege is not now extant; so we cannot compare his
 parallel numbers with those of Josephus.
 
-<span id="EndNote 5.10b"></span>[(10)](#EndNote%205.10a) Perhaps, says
+<span id="EndNote 5.10b"></span>[(10)](#EndNote%205.10a.md) Perhaps, says
 Dr. Hudson, here was that gate, called the "Gate of the Corner," in 2
 Chronicles 26:9. See ch. 4. sect. 2
 
-<span id="EndNote 5.11b"></span>[(11)](#EndNote%205.11a) These
+<span id="EndNote 5.11b"></span>[(11)](#EndNote%205.11a.md) These
 dove-courts in Josephus, built by Herod the Great, are, in the opinion
 of Reland, the very same that are mentioned by the Talmudists, and named
 by them "Herod's dove courts." Nor is there any reason to suppose
 otherwise, since in both accounts they were expressly tame pigeons which
 were kept in them.
 
-<span id="EndNote 5.12b"></span>[(12)](#EndNote%205.12a) See the
+<span id="EndNote 5.12b"></span>[(12)](#EndNote%205.12a.md) See the
 description of the temples hereto belonging, ch. 15. But note, that what
 Josephus here says of the original scantiness of this Mount Moriah, that
 it was quite too little for the temple, and that at first it held only
@@ -2602,7 +2602,7 @@ supported by great pillars and arches under ground, which Josephus
 speaks of elsewhere, Antiq. B. XV. ch. 11. sect. 3, and which Mr.
 Maundrel saw, and describes, p. 100, as extant under ground at this day.
 
-<span id="EndNote 5.13b"></span>[(13)](#EndNote%205.13a) What Josephus
+<span id="EndNote 5.13b"></span>[(13)](#EndNote%205.13a.md) What Josephus
 seems here to mean is this: that these pillars, supporting the cloisters
 in the second court, had their foundations or lowest parts as deep as
 the floor of the first or lowest court; but that so far of those lowest
@@ -2617,11 +2617,11 @@ fourteen or fifteen steps at the partition wall, and fourteen or fifteen
 more thence into the court itself, which would bring the whole near to
 the just proportion. See sect. 3, infra. But I determine nothing.
 
-<span id="EndNote 5.14b"></span>[(14)](#EndNote%205.14a) These three
+<span id="EndNote 5.14b"></span>[(14)](#EndNote%205.14a.md) These three
 guards that lay in the tower of Antonia must be those that guarded the
 city, the temple, and the tower of Antonia.
 
-<span id="EndNote 5.15b"></span>[(15)](#EndNote%205.15a) What should be
+<span id="EndNote 5.15b"></span>[(15)](#EndNote%205.15a.md) What should be
 the meaning of this signal or watchword, when the watchmen saw a stone
 coming from the engine, "The Stone Cometh," or what mistake there is in
 the reading, I cannot tell. The MSS., both Greek and Latin, all agree in
@@ -2653,7 +2653,7 @@ or dart, is only a poetical word, and never used by Josephus elsewhere,
 and is indeed no way suitable to the occasion, this engine not throwing
 arrows or darts, but great stones, at this time.
 
-<span id="EndNote 5.16b"></span>[(16)](#EndNote%205.16a) Josephus
+<span id="EndNote 5.16b"></span>[(16)](#EndNote%205.16a.md) Josephus
 supposes, in this his admirable speech to the Jews, that not Abraham
 only, but Pharaoh king of Egypt, prayed towards a temple at Jerusalem,
 or towards Jerusalem itself, in which were Mount Sion and Mount Moriah,
@@ -2663,7 +2663,7 @@ famous command given by God to Abraham, to go two or three days'
 journey, on purpose to offer up his son Isaac there, unfavorable to such
 a notion.
 
-<span id="EndNote 5.17b"></span>[(17)](#EndNote%205.17a) Note here, that
+<span id="EndNote 5.17b"></span>[(17)](#EndNote%205.17a.md) Note here, that
 Josephus, in this his same admirable speech, calls the Syrians, nay,
 even the Philistines, on the most south part of Syria, Assyrians; which
 Reland observes as what was common among the ancient writers. Note also,
@@ -2675,7 +2675,7 @@ the Assyrian army lay seven hundred and eighty years before, and which
 retained the very name of the Camp of the Assyrians to that very day.
 See chap. 7. sect. 3, and chap. 12. sect. 2.
 
-<span id="EndNote 5.18b"></span>[(18)](#EndNote%205.18a) This drying up
+<span id="EndNote 5.18b"></span>[(18)](#EndNote%205.18a.md) This drying up
 of the Jerusalem fountain of Siloam when the Jews wanted it, and its
 flowing abundantly when the enemies of the Jews wanted it, and these
 both in the days of Zedekiah and of Titus, (and this last as a certain
@@ -2684,14 +2684,14 @@ openly to their faces,) are very remarkable instances of a Divine
 Providence for the punishment of the Jewish nation, when they were grown
 very wicked, at both those times of the destruction of Jerusalem.
 
-<span id="EndNote 5.19b"></span>[(19)](#EndNote%205.19a) Reland very
+<span id="EndNote 5.19b"></span>[(19)](#EndNote%205.19a.md) Reland very
 properly takes notice here, how justly this judgment came upon the Jews,
 when they were crucified in such multitudes together, that the Romans
 wanted room for the crosses, and crosses for the bodies of these Jews,
 since they had brought this judgment on themselves by the crucifixion of
 their Messiah.
 
-<span id="EndNote 5.20b"></span>[(20)](#EndNote%205.20a) Josephus, both
+<span id="EndNote 5.20b"></span>[(20)](#EndNote%205.20a.md) Josephus, both
 here and before, B. IV. ch. 8. sect. 4, esteems the land of Sodom, not
 as part of the lake Asphaltiris, or under its waters, but near it only,
 as Tacitus also took the same notion from him, Hist. V. ch. 6. 7, which
@@ -2700,4 +2700,4 @@ place, and in his Palestina, tom. I. p. 254-258; though I rather suppose
 part of that region of Pentapolis to be now under the waters of the
 south part of that sea, but perhaps not the whole country.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err04)  [Next](err06) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err04)  [Next](err06.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ And whose fires no longer burn."
 
 ------------------------------------------------------------------------
 
-[Next: Part One: Chapter III--FERONIA](err06)
+[Next: Part One: Chapter III--FERONIA](err06.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](had01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](had01.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ States cannot be determined at this time.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](had01)
+[Next: Preface](had01.md)

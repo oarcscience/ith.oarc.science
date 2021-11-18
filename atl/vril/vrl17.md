@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl16)  [Next](vrl18) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl16)  [Next](vrl18.md) 
 
 ------------------------------------------------------------------------
 
@@ -291,4 +291,4 @@ them mercifully to their native element.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XIX](vrl18)
+[Next: CHAPTER XIX](vrl18.md)

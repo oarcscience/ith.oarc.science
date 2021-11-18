@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst079)  [Next](inst081) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst079)  [Next](inst081.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ heads of Magistrates, Laws, and People.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 1. - OF THE TRUE CHURCH. DUTY OF CULTIVATING UNITY WITH
-HER, AS THE MOTHER OF ALL THE GODLY.](inst081)
+HER, AS THE MOTHER OF ALL THE GODLY.](inst081.md)

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,11 +20,11 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ntca00)
+[Contents](#contents)    [Start Reading](ntca00.md)
 
 ------------------------------------------------------------------------
 
-[Rock art gallery](arock)
+[Rock art gallery](arock.md)
 
 ------------------------------------------------------------------------
 
@@ -41,50 +41,50 @@ picture that emerges is that of a sophisticated culture living under
 what most others would consider very marginal conditions.
 
 Like its companion work, Spencer's [Native Tribes of the Northern
-Territory of Australia](../ntna/index), this book stands far in front of
+Territory of Australia](../ntna/index.md), this book stands far in front of
 everything else written on the subject, and is an indispensible
 reference on Australian ethnography.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ntca00)  
-[Preface](ntca01)  
-[List of Illustrations](ntca02)  
-[Chapter I. Introduction](ntca03)  
-[Chapter II. The Social Organisation of the Tribes](ntca04)  
+<span id="contents"></span> [Title Page](ntca00.md)  
+[Preface](ntca01.md)  
+[List of Illustrations](ntca02.md)  
+[Chapter I. Introduction](ntca03.md)  
+[Chapter II. The Social Organisation of the Tribes](ntca04.md)  
 [Chapter III. Certain Ceremonies Concerned with Marriage Together with a
-Discussion Regarding the Same](ntca05)  
-[Chapter IV. The Totems](ntca06)  
+Discussion Regarding the Same](ntca05.md)  
+[Chapter IV. The Totems](ntca06.md)  
 [Chapter V. The Churinga or Bull Roarers of the Arunta and Other
-Tribes](ntca07)  
-[Chapter VI. Intichiuma Ceremonies](ntca08)  
-[Chapter VII. Initiation Ceremonies](ntca09)  
+Tribes](ntca07.md)  
+[Chapter VI. Intichiuma Ceremonies](ntca08.md)  
+[Chapter VII. Initiation Ceremonies](ntca09.md)  
 [Chapter VIII. Initiation Ceremonies (Continued) the Engwura
-Ceremony](ntca10)  
+Ceremony](ntca10.md)  
 [Chapter IX. Initiation Ceremonies (Continued) the Engwura Ceremony
-(Concluded)](ntca11)  
+(Concluded)](ntca11.md)  
 [Chapter X: Traditions Dealing with the Origin of the Alcheringa
-Ancestors of the Arunta Tribe and with Particular Customs](ntca12)  
+Ancestors of the Arunta Tribe and with Particular Customs](ntca12.md)  
 [Chapter XI. Traditions Dealing with the Origin of the Alcheringa
 Ancestors of the Arunta Tribe and with Particular Customs
-(Continued)](ntca13)  
+(Continued)](ntca13.md)  
 [Chapter XII. Customs Concerned with Knocking out of Teeth; Nose-Boring;
 Growth of Breasts; Blood, Blood-Letting, Blood-Giving, Blood-Drinking;
-Hair; Childbirth; Food Restrictions; Cannibalism](ntca14)  
+Hair; Childbirth; Food Restrictions; Cannibalism](ntca14.md)  
 [Chapter XIII. The Customs of Kurdaitcha and Illapurinja and the
-Avenging Party or Atninga](ntca15)  
-[Chapter XIV. Customs Relating to Burial and Mourning](ntca16)  
+Avenging Party or Atninga](ntca15.md)  
+[Chapter XIV. Customs Relating to Burial and Mourning](ntca16.md)  
 [Chapter XV. The Iruntarinia and Arumburinga, or Spirit
-Individuals](ntca17)  
+Individuals](ntca17.md)  
 [Chapter XVI. The Making and the Powers of Medicine Men; Various Forms
-of Magic](ntca18)  
-[Chapter XVII. Methods of Obtaining Wives](ntca19)  
-[Chapter XVIII. Myths Relating to Sun, Moon, Eclipses, Etc.](ntca20)  
-[Chapter XIX. Clothing, Weapons, Implements, Decorative Art](ntca21)  
-[Appendix A. The Names of the Natives](ntca22)  
+of Magic](ntca18.md)  
+[Chapter XVII. Methods of Obtaining Wives](ntca19.md)  
+[Chapter XVIII. Myths Relating to Sun, Moon, Eclipses, Etc.](ntca20.md)  
+[Chapter XIX. Clothing, Weapons, Implements, Decorative Art](ntca21.md)  
+[Appendix A. The Names of the Natives](ntca22.md)  
 [Appendix B. The Wilyaru Ceremony of the Urabunna Tribe, Together with
 References to Mr. Gason's Account of the Dieri (Dieyerie)
-Tribe](ntca23)  
-[Appendix C](ntca24)  
-[Glossary of Native Terms Used](ntca25)  
-[Index](ntca26)  
+Tribe](ntca23.md)  
+[Appendix C](ntca24.md)  
+[Glossary of Native Terms Used](ntca25.md)  
+[Index](ntca26.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm47)  [Next](bcm49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm47)  [Next](bcm49.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ virgin parchment or virgin vellum could be prepared.
 
 That is called virgin, says the *Book of True Black Magic*, which is
 made from animals that have never engendered, males above all, <span
-id="fr_131"></span>[1](#fn_130)--from which definition it is obvious
+id="fr_131"></span>[1](#fn_130.md)--from which definition it is obvious
 that recourse
 
 <span id="page_171">p. 171</span>
@@ -49,13 +49,13 @@ that recourse
 to the professional tanner might jeopardise the entire injunction. But
 seeing that every operation undertaken in the Art assumed a religious
 aspect, the slaughter of the animal became a sacrifice <span
-id="fr_132"></span>[1](#fn_131) and had its accompanying ceremonies,
+id="fr_132"></span>[1](#fn_131.md) and had its accompanying ceremonies,
 prayers and invocations, each ritual possessing its own variants.
 
 The preparation of the virgin parchment is given as follows in the
-*Grimorium Verum*: <span id="fr_133"></span>[2](#fn_132)--
+*Grimorium Verum*: <span id="fr_133"></span>[2](#fn_132.md)--
 
-CONCERNING THE VICTIM OF THE ART <span id="fr_134"></span>[3](#fn_133)
+CONCERNING THE VICTIM OF THE ART <span id="fr_134"></span>[3](#fn_133.md)
 
 Take your kid; place it on a block with the throat turned upward, so
 that it may be easier for you to cut it; be ready with your knife, and
@@ -68,7 +68,7 @@ skinning it make the following
 INVOCATION
 
 ADIRAM, DALMAY, LAUDAY, TETRAGRAMMATON, ANERETON, <span
-id="fr_135"></span>[4](#fn_134)
+id="fr_135"></span>[4](#fn_134.md)
 
 and all ye holy angels of God, be ye here and deign to impart
 
@@ -128,7 +128,7 @@ JE, AGLA, JOD, HOI, HE, EMMANUEL, *be ye guardians of this parchment or
 skin, so that no phantoms may possess it*.
 
 This finished, leave it in the air until it be dried, <span
-id="fr_136"></span>[1](#fn_135) taking care that the place is clean and
+id="fr_136"></span>[1](#fn_135.md) taking care that the place is clean and
 has been asperged while reciting the following holy words: *In the name
 of the immortal God, may God asperge thee and cleanse thee from all
 delusion and from all wickedness; so shall thou be whiter than snow.
@@ -144,7 +144,7 @@ Feast or another
 <span id="page_174">p. 174</span>
 
 day, and note that all the instruments must be generally on the
-Altar. <span id="fr_137"></span>[1](#fn_136)
+Altar. <span id="fr_137"></span>[1](#fn_136.md)
 
 The Book of True Black Magic reproduces with further variations the
 process of the genuine Clavicle:--Secure the animal which is to furnish
@@ -153,18 +153,18 @@ Then take a virgin rod; shape it into the form of a knife with the
 white-handled Knife of the Art, paring it neatly of all branches. Over
 this say: *I conjure thee, Rod, by the Creator of the Universe and the
 King of Angels, Whose name is* HELSADAY! <span
-id="fr_138"></span>[2](#fn_137) *Receive thou power and virtue to skin
+id="fr_138"></span>[2](#fn_137.md) *Receive thou power and virtue to skin
 this animal for the making of the parchment, that so all things which I
 shall write thereon may prosper, by God Almighty, Who liveth and
 reigneth for ever and ever. Amen*. When shaping this knife recite the
 Psalm *Deus, judicium tuum Regi da*. <span
-id="fr_139"></span>[3](#fn_138) Then write these words upon the Rod:
-AGLA, ADONAY, ELOE, <span id="fr_140"></span>[4](#fn_139) *may the work
+id="fr_139"></span>[3](#fn_138.md) Then write these words upon the Rod:
+AGLA, ADONAY, ELOE, <span id="fr_140"></span>[4](#fn_139.md) *may the work
 of this wooden Knife be accomplished by you!* Say also over it: CARA,
-CHERNA, SITO, CIRNA. <span id="fr_141"></span>[5](#fn_140) Next, skin
+CHERNA, SITO, CIRNA. <span id="fr_141"></span>[5](#fn_140.md) Next, skin
 the animal with the same wooden knife, saying: ADIRAM, DAHNAY, SADAY,
 TETRAGRAMMATON, ANERETON, ANERETON, CURETON, <span
-id="fr_142"></span>[6](#fn_141) *Holy Angels of God, be ye present and
+id="fr_142"></span>[6](#fn_141.md) *Holy Angels of God, be ye present and
 give virtue to this parchment. May it be consecrated by you, and thus
 may all things which shall be written therein acquire the virtue needful
 for the attainment of the desired end*. . . .
@@ -182,7 +182,7 @@ clay and write these characters about it; place a large
  
 
 <span id="img_17500"></span> [![](tn/generic.jpg)  
-Click to view](img/17500.jpg)
+Click to view](img/17500.jpg.md)
 
  
 
@@ -197,23 +197,23 @@ cloth with the other instruments of the Art; and take notice that if it
 be seen by a woman in her times, it will lose all its virtue.
 
 But if this kind of parchment be too difficult to prepare, <span
-id="fr_143"></span>[1](#fn_142) take virgin parchment of any animal;
+id="fr_143"></span>[1](#fn_142.md) take virgin parchment of any animal;
 exorcise it as before; place lighted coal in a new glazed pot; mix good
 perfumes therewith; and hold your parchment above the vessel to receive
 them. Before all, however, write these characters about the pot <span
-id="fr_144"></span>[2](#fn_143)
+id="fr_144"></span>[2](#fn_143.md)
 
  
 
 <span id="img_17501"></span> [![](tn/generic.jpg)  
-Click to view](img/17501.jpg)
+Click to view](img/17501.jpg.md)
 
  
 
 with the instruments of the Art. So long as the fumigation goes on, say:
 *Angels of God, be my help, and by you be my work accomplished*! . . .
 When it is finished, say: LAZAY, SALMAY, DALMAY, ANEPATON, CENDRION,
-ANITOR, ENCHEION, <span id="fr_145"></span>[3](#fn_144)
+ANITOR, ENCHEION, <span id="fr_145"></span>[3](#fn_144.md)
 
 Holy Angels of God, be ye present and
 
@@ -243,7 +243,7 @@ other animal, which would, however, involve a like process; or (*b*.)
 the caul of a new-born child, which would, of course, possess the
 requisite virgin character, and was simply consecrated according to the
 following instructions, as found in *True Black Magic*. <span
-id="fr_146"></span>[1](#fn_145)
+id="fr_146"></span>[1](#fn_145.md)
 
 When you have succeeded in obtaining the caul of a newborn child,
 perfume the same with sweet odours and sprinkle it, after which say the
@@ -258,7 +258,7 @@ didst choose Abraham, Thy first believer, and his seed hath multiplied
 like the stars of heaven; Who didst appear unto Moses, Thy servant,
 surrounded with flaming fire, and didst make known to him Thy names,
 which are* HEIE, ACER, HEIE <span
-id="fr_147"></span>[1](bcm49.htm#fn_146)*--that is to say, I am that I
+id="fr_147"></span>[1](bcm49.htm#fn_146.md)*--that is to say, I am that I
 am; Who didst also lead forth Thy people dry-shod over the Red Sea; Who
 unto Moses, Thy servant, didst give the Law of Salvation on Mount Sinai;
 Who unto Solomon didst impart wisdom above the measure of men: I humbly
@@ -275,12 +275,12 @@ stinking odours.
 
 ### Footnotes
 
-<span id="fn_130"></span>[170:1](bcm48.htm#fr_131) The *Key of Solomon*,
+<span id="fn_130"></span>[170:1](bcm48.htm#fr_131.md) The *Key of Solomon*,
 Book ii. c. 17, distinguishes between virgin parchment and unborn
 parchment; the latter is obtained from an animal which has been taken
 before its time from the womb of its mother.
 
-<span id="fn_131"></span>[171:1](bcm48.htm#fr_132) It is fair to state
+<span id="fn_131"></span>[171:1](bcm48.htm#fr_132.md) It is fair to state
 that there is a form of evocation given in the *Vocabulaire Infernal* in
 which a sacrifice *per se* is prescribed. The source from which it is
 derived is not cited. "Whosoever would evoke the devil must sacrifice to
@@ -294,58 +294,58 @@ unknown to the Grimoires. It should be added that the *Vocabulaire
 Infernal* was compiled in the Catholic interest--though it looks as if
 that interest had been in traffic with Satan.
 
-<span id="fn_132"></span>[171:2](bcm48.htm#fr_133) This preparation
+<span id="fn_132"></span>[171:2](bcm48.htm#fr_133.md) This preparation
 being one of the most important preliminaries of Goëtic Art, will be
 given with all its variations as they are found in the four chief
 Grimoires. For the sacrificial Portions of the *Grand Grimoire* and that
 of Honorius, see Chapters VI. and VII.
 
-<span id="fn_133"></span>[171:3](bcm48.htm#fr_134) The process in the
+<span id="fn_133"></span>[171:3](bcm48.htm#fr_134.md) The process in the
 *Grimorium Verum* is an adaptation of that in the *Key of Solomon*.
 
-<span id="fn_134"></span>[171:4](bcm48.htm#fr_135) The English edition
+<span id="fn_134"></span>[171:4](bcm48.htm#fr_135.md) The English edition
 of the Clavicle reads, *Zohar, Zip, Talmaï, Adonai, Shaddai,
 Tetragrammaton*.
 
-<span id="fn_135"></span>[173:1](bcm48.htm#fr_136) Which should be in
+<span id="fn_135"></span>[173:1](bcm48.htm#fr_136.md) Which should be in
 the space of three days, according to the Clavicle.
 
-<span id="fn_136"></span>[174:1](bcm48.htm#fr_137) The *Grimorium Verum*
+<span id="fn_136"></span>[174:1](bcm48.htm#fr_137.md) The *Grimorium Verum*
 exhibits the transition of the Rituals from the purely Jewish elements
 of the *Key of Solomon* to the purely Christian materials of the
 Grimoire of Honorius.
 
-<span id="fn_137"></span>[174:2](bcm48.htm#fr_138) *i.e.*, *El Shaddai*.
+<span id="fn_137"></span>[174:2](bcm48.htm#fr_138.md) *i.e.*, *El Shaddai*.
 
-<span id="fn_138"></span>[174:3](bcm48.htm#fr_139) Psalm lxxi. of the
+<span id="fn_138"></span>[174:3](bcm48.htm#fr_139.md) Psalm lxxi. of the
 Vulgate.
 
-<span id="fn_139"></span>[174:4](bcm48.htm#fr_140) *i.e.*, *Elohim*, or
+<span id="fn_139"></span>[174:4](bcm48.htm#fr_140.md) *i.e.*, *Elohim*, or
 *Eloah*.
 
-<span id="fn_140"></span>[174:5](bcm48.htm#fr_141) These words are
+<span id="fn_140"></span>[174:5](bcm48.htm#fr_141.md) These words are
 peculiar to the Grimoire, and their significance is beyond conjecture.
 
-<span id="fn_141"></span>[174:6](bcm48.htm#fr_142) See Note on [p.
-171](#page_171).
+<span id="fn_141"></span>[174:6](bcm48.htm#fr_142.md) See Note on [p.
+171](#page_171.md).
 
-<span id="fn_142"></span>[175:1](bcm48.htm#fr_143) The shorter process
+<span id="fn_142"></span>[175:1](bcm48.htm#fr_143.md) The shorter process
 is not so good, says the Clavicle.
 
-<span id="fn_143"></span>[175:2](bcm48.htm#fr_144) The *Key of Salomon*
+<span id="fn_143"></span>[175:2](bcm48.htm#fr_144.md) The *Key of Salomon*
 provides characters for the parchment but not for the pot. They are,
 moreover, entirely different.
 
-<span id="fn_144"></span>[175:3](bcm48.htm#fr_145) The *Key of Solomon*
+<span id="fn_144"></span>[175:3](bcm48.htm#fr_145.md) The *Key of Solomon*
 reads: *Zazaii, Zalmaii, Dalmaï, Adonai, Anaphaxeton, Cedrion, Cripon,
 Prion, Anaireton, Elion, Octinomon, Zevanion, Alazaion, Zideon, Agla,
 On, Yod Be Vau He, Artor, Dinotor*.
 
-<span id="fn_145"></span>[176:1](bcm48.htm#fr_146) The *Key of Solomon*
+<span id="fn_145"></span>[176:1](bcm48.htm#fr_146.md) The *Key of Solomon*
 merely observes that the cauls of newly-born children, duly consecrated,
 way be used instead of virgin parchment, and that paper, satin, or silk
 may also be employed in operations of less importance.
 
 ------------------------------------------------------------------------
 
-[Next: Section 8: Concerning Aspersion and Cleansing](bcm49)
+[Next: Section 8: Concerning Aspersion and Cleansing](bcm49.md)

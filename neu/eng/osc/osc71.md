@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc70)  [Next](osc72) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc70)  [Next](osc72.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ the vampire is the power of the idea.
 
 ------------------------------------------------------------------------
 
-[Next: (6) Robin Redbreast](osc72)
+[Next: (6) Robin Redbreast](osc72.md)

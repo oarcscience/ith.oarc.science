@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK II CHAPTER XIX
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK II](book01) 
-[Previous](mart044)  [Next](mart046) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK II](book01.md) 
+[Previous](mart044)  [Next](mart046.md) </span>
 
 ------------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp02) 
-[Next](alp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp02.md) 
+[Next](alp04.md) 
 
 ------------------------------------------------------------------------
 
@@ -377,4 +377,4 @@ ARMENIAN LEGENDS AND POEMS<br />
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations](alp04)
+[Next: List of Illustrations](alp04.md)

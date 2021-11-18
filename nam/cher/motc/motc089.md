@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc088) 
-[Next](motc090) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc088.md) 
+[Next](motc090.md) 
 
 ------------------------------------------------------------------------
 
@@ -236,4 +236,4 @@ was burned by the Confederate Cherokee under their general, Stand Watie.
 
 ------------------------------------------------------------------------
 
-[Next: 90. Hiadeoni, The Seneca](motc090)
+[Next: 90. Hiadeoni, The Seneca](motc090.md)

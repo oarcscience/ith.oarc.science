@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos09)  [Next](flos11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos09)  [Next](flos11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -51,13 +51,13 @@ Ellacombe's exhaustive work on the "Plant-Lore of Shakespeare," a book
 to which we are much indebted in the following pages, as also to Mr
 Biesly's "Shakspere's Garden."
 
-   *Aconite*. <span id="fr_454"></span>[1](#fn_452)—This plant from the
+   *Aconite*. <span id="fr_454"></span>[1](#fn_452.md)—This plant from the
 deadly virulence of its juice, which, Mr Turner says, "is of all
 poysones the most hastie
 
 <span id="page_191">p. 191</span>
 
-poysone," is compared by Shakespeare to gunpowder, as [in](errata.htm#4)
+poysone," is compared by Shakespeare to gunpowder, as [in](errata.htm#4.md)
 "2 Henry IV." (iv. 4)—
 
 <div style="margin-left: 32px">
@@ -97,11 +97,11 @@ vii. 419)—
 
 It is probably derived from the Greek ἀκόνιτον, without a struggle, in
 allusion to the intensity of its poisonous qualities. Virgil <span
-id="fr_455"></span>[1](#fn_453) speaks of it, and tells us "how the
+id="fr_455"></span>[1](#fn_453.md) speaks of it, and tells us "how the
 aconite deceives the wretched gatherers, because often mistaken for some
-harmless plant. <span id="fr_456"></span>[2](#fn_454) The ancients
+harmless plant. <span id="fr_456"></span>[2](#fn_454.md) The ancients
 fabled it as the invention of Hecate, <span
-id="fr_457"></span>[3](#fn_455) who caused the plant to spring from the
+id="fr_457"></span>[3](#fn_455.md) who caused the plant to spring from the
 foam of Cerberus, when Hercules dragged him from the gloomy regions of
 Pluto. Ovid pictures the stepdame as preparing a deadly potion of
 aconite, (Metam. i. I47)—
@@ -114,7 +114,7 @@ aconite, (Metam. i. I47)—
 
 In hunting the ancients poisoned their arrows with this venomous plant,
 as "also when following their mortal brutal trade of slaughtering their
-fellow creatures. <span id="fr_458"></span>[4](#fn_456)\* Numerous
+fellow creatures. <span id="fr_458"></span>[4](#fn_456.md)\* Numerous
 instances are on record of the fatal results through persons eating this
 
 <span id="page_192">p. 192</span>
@@ -155,12 +155,12 @@ Venus wept over the body of Adonis—
 </div>
 
 Other classical writers make the anemone to be the flower of Adonis. Mr
-Ellacombe, <span id="fr_459"></span>[1](#fn_457) says that although
+Ellacombe, <span id="fr_459"></span>[1](#fn_457.md) says that although
 Shakespeare does not actually name the anemone, yet the evidence is in
 favour of this plant. The "purple colour," he adds, is no objection, for
 purple in Shakespeare's time had a very wide signification, meaning
 almost any bright colour, just as "purpureus" had in Latin. <span
-id="fr_460"></span>[2](#fn_458)
+id="fr_460"></span>[2](#fn_458.md)
 
    *Apple*.—Although Shakespeare has so frequently introduced the apple
 into his Plays, yet he has abstained from alluding to the extensive
@@ -174,7 +174,7 @@ name applied to any fruit, as
 <span id="page_193">p. 193</span>
 
 we still speak of the love-apple, pine-apple, &c." <span
-id="fr_461"></span>[1](#fn_459) So when Shakespeare ("Sonnet" xciii.),
+id="fr_461"></span>[1](#fn_459) So when Shakespeare ("Sonnet" xciii..md),
 makes mention of Eve's apple, he simply means that it was some fruit
 that grew in Eden—
 
@@ -188,7 +188,7 @@ that grew in Eden—
    (*a*.) The "Apple-john," called in France *deux-années* or
 *deux-ans*, because it will keep two years, and considered to be in
 perfection when shrivelled and withered, <span
-id="fr_462"></span>[2](#fn_460) is evidently spoken of in "1 Henry IV."
+id="fr_462"></span>[2](#fn_460.md) is evidently spoken of in "1 Henry IV."
 (iii. 3) where Falstaff says—"My skin hangs about me like an old lady's
 loose gown; I am withered like an old apple-john." In "2 Henry IV." (ii.
 4) there is a further. allusion—"1*st Drawer*. What the devil hast thou
@@ -209,9 +209,9 @@ described by Phillips ("Cider," B. i.)—
 
    In Ben Jonson's "Bartholomew Fair" (i. 1) where Little-wit encourages
 Quarlus to kiss his wife, he says, "she may call you an apple-john if
-you use this." "Here apple-john <span id="fr_463"></span>[3](#fn_461)
+you use this." "Here apple-john <span id="fr_463"></span>[3](#fn_461.md)
 evidently means a procuring John, besides the allusion to the fruit so
-called. <span id="fr_464"></span>[4](#fn_462)
+called. <span id="fr_464"></span>[4](#fn_462.md)
 
    (*b*.) The "Bitter-sweet or sweeting" to which Mercutio alludes in
 "Romeo and Juliet" (ii. 4)—"Thy wit is a very bitter sweeting; it is a
@@ -234,7 +234,7 @@ favourite apple, which furnished many allusions to poets. Gower in his
 
    The name is "now given to an apple of no great value as a table
 fruit, but good as a cider apple, and for use in silk dyeing." <span
-id="fr_465"></span>[1](#fn_463)
+id="fr_465"></span>[1](#fn_463.md)
 
    (*c*.) The "Crab" roasted before the fire and put into ale was a very
 favourite indulgence, especially at Christmas, in days gone by, and is
@@ -250,8 +250,8 @@ referred to in the song of winter in "Love's Labour's Lost" (v. 2)—
 The beverage thus formed was called "Lambs-wool," and generally
 consisted of ale, nutmeg, sugar, toast, and roasted crabs, or apples. It
 formed the ingredient of the wassail-bowl; <span
-id="fr_466"></span>[2](#fn_464) and also of the gossip's bowl <span
-id="fr_467"></span>[3](#fn_465) alluded to in "Midsummer Night's Dream"
+id="fr_466"></span>[2](#fn_464.md) and also of the gossip's bowl <span
+id="fr_467"></span>[3](#fn_465.md) alluded to in "Midsummer Night's Dream"
 (ii. 1) where Puck says—
 
 <div style="margin-left: 32px">
@@ -268,7 +268,7 @@ id="fr_467"></span>[3](#fn_465) alluded to in "Midsummer Night's Dream"
 <div style="margin-left: 32px">
 
 <span class="small">"Lay a crab in the fire to roast for lamb's
-wool." <span id="fr_468"></span>[4](#fn_466)</span>
+wool." <span id="fr_468"></span>[4](#fn_466.md)</span>
 
 </div>
 
@@ -291,13 +291,13 @@ apple,"—is not the variety now so-called, but was the popular term for
 an immature apple, such as would require cooking to be eaten, being
 derived from "coddle," to stew or boil lightly,—hence it denoted a
 boiling apple, an apple for coddling or boiling. <span
-id="fr_469"></span>[1](#fn_467) Mr Gifford <span
-id="fr_470"></span>[2](#fn_468) says that codling was used by our old
+id="fr_469"></span>[1](#fn_467.md) Mr Gifford <span
+id="fr_470"></span>[2](#fn_468.md) says that codling was used by our old
 writers for that early state of vegetation when the fruit, after shaking
 off the blossom, began to assume a globular and determinate form.
 
    (*e*). The "Leather Coat" was the apple generally known as "the
-golden russeting." <span id="fr_471"></span>[3](#fn_469) Davy, in "2
+golden russeting." <span id="fr_471"></span>[3](#fn_469.md) Davy, in "2
 Henry IV," (v. 3), says:—"There's a dish of leather coats for you."
 
    (*f*.) The "Pippin" was formerly a common term for an apple, to which
@@ -310,7 +310,7 @@ reference is made in "Hudibras Redivivus," (1705),—
 
 </div>
 
-   In Taylor's Workes <span id="fr_472"></span>[4](#fn_470) (1630), we
+   In Taylor's Workes <span id="fr_472"></span>[4](#fn_470) (1630.md), we
 read:—
 
 <div style="margin-left: 32px">
@@ -320,7 +320,7 @@ read:—
 
 </div>
 
-Mr Ellacombe <span id="fr_473"></span>[5](#fn_471) says the word
+Mr Ellacombe <span id="fr_473"></span>[5](#fn_471.md) says the word
 "pippin" denoted an apple raised from pips and not from grafts, and "is
 now, and probably was in Shakespeare's time, confined to the
 bright-coloured long-keeping apples of which the golden pippin is the
@@ -339,7 +339,7 @@ in the ear of
 cœlo,—the sky, the welkin, the heaven; and anon falleth like a crab on
 the face of *terra*,—the soil, the land, the earth."
 
-   Parkinson <span id="fr_474"></span>[1](#fn_472) tells us the
+   Parkinson <span id="fr_474"></span>[1](#fn_472.md) tells us the
 "Pomewater is an excellent, good, and great whiteish apple, full of sap
 or moisture, somewhat pleasant sharp, but a little bitter withal; it
 will not last long, the winter's frost soon causing it to rot and
@@ -360,11 +360,11 @@ in his chapter on apples, he says:—"Howbeit wee are wont to eat
 carrawaies or biskets, or some other kind of comfits, or seeds together
 with apples, thereby to breake winde ingendred by them, and surely this
 is a verie good way for students." Mr Ellacombe, <span
-id="fr_475"></span>[2](#fn_473) however, considers that in "the dish of
+id="fr_475"></span>[2](#fn_473.md) however, considers that in "the dish of
 carraways" mentioned by Justice Shallow, neither caraway seeds, nor
 cakes made of caraways, are meant; but the carraway or carraway-russet
 apple. Most of the commentators are in favour of one of the former
-explanations. Mr Dyce <span id="fr_476"></span>[3](#fn_474) reads
+explanations. Mr Dyce <span id="fr_476"></span>[3](#fn_474.md) reads
 caraways in the sense of comfits or confections made with caraway-seeds,
 and quotes from Shadwell's "Woman-Captain" the following:—"The fruit,
 crab-apples, sweetings, and horse-plumbs; and for confections, a few
@@ -394,7 +394,7 @@ And in "A Midsummer Night's Dream" (iii. i), Titania gives directions:—
 
 </div>
 
-   The spelling "Apricock," <span id="fr_477"></span>[1](#fn_475) is
+   The spelling "Apricock," <span id="fr_477"></span>[1](#fn_475.md) is
 derived from the Latin *præcox*, or *præcoquus;* and it was called "the
 precocious tree" because it flowered and fruited earlier than the peach.
 The term "Apricock" is still in use in Northamptonshire.
@@ -404,7 +404,7 @@ tree dates from its having supplied the wood of the Cross, and that its
 leaves have trembled ever since at the recollection of their guilt. De
 Quincey in his essay on "Modern Superstition" says, that this belief is
 co-extensive with Christendom. The following verses, <span
-id="fr_478"></span>[2](#fn_476) after telling how other trees were
+id="fr_478"></span>[2](#fn_476.md) after telling how other trees were
 passed by in the choice of wood for the Cross, describe the hewing down
 of the aspen, and the dragging of it from the forest to Calvary—
 
@@ -445,7 +445,7 @@ in a little poem, which may be thus translated:—
 
 </div>
 
-   Another legend tells us <span id="fr_479"></span>[1](#fn_477) that
+   Another legend tells us <span id="fr_479"></span>[1](#fn_477.md) that
 the aspen was said to have been the tree on which Judas hanged himself
 after the betrayal of his Master, and ever since its leaves have
 trembled with shame. Shakespeare twice alludes to the trembling of the
@@ -466,7 +466,7 @@ perhaps in Shakespeare's time was more loosely applied to any flower in
 bud. It is now usually understood to be a *double variety* of
 ranunculus; according to others, the *Lychnis Sylvestris;* and in some
 counties it is applied to the *Scabiosa Succisa*. <span
-id="fr_480"></span>[2](#fn_478) According to Gerarde, this plant was so
+id="fr_480"></span>[2](#fn_478.md) According to Gerarde, this plant was so
 called from the similitude of its flowers "to the jagged cloathe
 buttons, anciently worne in this kingdome." It was formerly supposed by
 country people to have some magical effect upon the fortunes of lovers.
@@ -484,7 +484,7 @@ in Southey's "Common-Place Book" (1851, 4th series 244) says that this
 
 practice was common in his time, in Shropshire and Staffordshire. The
 term "to wear bachelor's buttons," seems to have grown into a phrase for
-being unmarried. <span id="fr_481"></span>[1](#fn_479)
+being unmarried. <span id="fr_481"></span>[1](#fn_479.md)
 
    *Balm*.—From very early times, the balm or balsam has been valued for
 its curative properties, and, as such, is alluded to in "Troilus and
@@ -499,7 +499,7 @@ Cressida" (i. 1)—
 </div>
 
    In "3 Henry VI." (iv. 8) King Henry says <span
-id="fr_482"></span>[2](#fn_480)—
+id="fr_482"></span>[2](#fn_480.md)—
 
 <div style="margin-left: 32px">
 
@@ -528,7 +528,7 @@ wounds."</span>
 
 </div>
 
-   As the oil of consecration, <span id="fr_483"></span>[3](#fn_481) it
+   As the oil of consecration, <span id="fr_483"></span>[3](#fn_481.md) it
 is spoken of by Richard ("Richard II.," iii. 2)—
 
 <div style="margin-left: 32px">
@@ -550,7 +550,7 @@ speaks thus—
 </div>
 
    The origin of balsam, says Mr Ellacombe <span
-id="fr_484"></span>[4](#fn_482) "was for a long time a secret, but it is
+id="fr_484"></span>[4](#fn_482.md) "was for a long time a secret, but it is
 now known to have been the produce of
 
 <span id="page_200">p. 200</span>
@@ -561,7 +561,7 @@ confined to the produce of any one plant."
 
    *Barley*.—The barley broth, of which the Constable in "Henry V."
 (iii. 5) spoke so contemptuously as the food of English soldiers, was
-probably beer, <span id="fr_485"></span>[1](#fn_483) which long before
+probably beer, <span id="fr_485"></span>[1](#fn_483.md) which long before
 the time of Henry was so celebrated that it gave its name to the plant
 (barley being simply the beer-plant)—
 
@@ -575,7 +575,7 @@ Decoct their cold blood to such valiant heat."</span>
 
    *Bay-tree*.—The withering and death of this tree were reckoned a
 prognostic of evil, both in ancient and modern times, a notion <span
-id="fr_486"></span>[2](#fn_484) to which Shakespeare refers in "Richard
+id="fr_486"></span>[2](#fn_484.md) to which Shakespeare refers in "Richard
 II." (ii. 4)—
 
 <div style="margin-left: 32px">
@@ -590,14 +590,14 @@ a manner throughout all the realme of Englande, old baie trees
 withered." Lupton, in his "Syxt Booke of Notable Things," mentions this
 as a bad omen—"Neyther falling-sickness, neyther devyll, wyll infest or
 hurt one in that place whereas a bay-tree is. The Romaynes call it the
-plant of the good angel." <span id="fr_487"></span>[3](#fn_485)
+plant of the good angel." <span id="fr_487"></span>[3](#fn_485.md)
 
    *Camomile*.—It was formerly imagined that this plant grew the more
 luxuriantly for being frequently trodden or pressed down; a notion
 alluded to in "1 Henry IV." (ii. 4), by Falstaff—"For though the
 camomile, the more it is trodden on the faster it grows, yet youth, the
 more it is wasted the sooner it wears." Nares <span
-id="fr_488"></span>[4](#fn_486) considers that the above was evidently
+id="fr_488"></span>[4](#fn_486.md) considers that the above was evidently
 written in ridicule of the following passage, in a book very fashionable
 in Shakespeare's day, Lyly's "Euphues," of which it is a parody—"Though
 the camomile, the more it is trodden and pressed down, the more it
@@ -664,7 +664,7 @@ alluded to is the "Ranunculus Bulbosus"; but Mr Beisly, in his
 spring, and is in bloom at the same time as the other flowers named in
 the song. Mr Swinfen Jervis, however, in his "Dictionary of the Language
 of Shakespeare" (1868), decides in favour of cowslips <span
-id="fr_489"></span>[1](#fn_487); and
+id="fr_489"></span>[1](#fn_487.md); and
 
 <span id="page_202">p. 202</span>
 
@@ -673,7 +673,7 @@ the buds of the crowfoot. At the present day the nickname cuckoo-bud is
 assigned to the meadow cress (cardamine pratensis).
 
    *Cuckoo-Flowers*.—By this flower, Mr Beisly <span
-id="fr_490"></span>[1](#fn_488) says, the ragged robin is meant, a
+id="fr_490"></span>[1](#fn_488.md) says, the ragged robin is meant, a
 well-known meadow and marsh plant, with rose-coloured flowers and
 deeply-cut narrow segments. It blossoms at the time the cuckoo comes,
 hence one of its names. In "King Lear," (iv. 4), Cordelia narrates how:—
@@ -707,11 +707,11 @@ about beset
 Formerly coffins were frequently made of cypress wood, a practice to
 which Shakespeare probably alludes in "Twelfth Night," (ii. 4), where
 the clown says:—"In sad cypress let me be laid. Some, however,
-prefer <span id="fr_491"></span>[2](#fn_489) understanding cypress to
+prefer <span id="fr_491"></span>[2](#fn_489.md) understanding cypress to
 mean "a shroud of cyprus or cypress,"—a fine transparent stuff, similar
 to crape, either white or black, but more commonly the latter. <span
-id="fr_492"></span>[3](#fn_490) Douce <span
-id="fr_493"></span>[4](#fn_491) thinks that the expression "laid"
+id="fr_492"></span>[3](#fn_490.md) Douce <span
+id="fr_493"></span>[4](#fn_491.md) thinks that the expression "laid"
 
 <span id="page_203">p. 203</span>
 
@@ -743,7 +743,7 @@ The winds of March with beauty."</span>
 
    *Darnel*.—This plant, like the cockle, was used in Shakespeare's day
 to denote any hurtful weed. Newton, <span
-id="fr_494"></span>[1](#fn_492) in his "Herbal to the Bible," says that
+id="fr_494"></span>[1](#fn_492.md) in his "Herbal to the Bible," says that
 "under the name of cockle and darnel is comprehended all vicious,
 noisome, and unprofitable graine, encombring and hindering good corne."
 Thus Cordelia, in "King Lear," (iv. 4), says:—
@@ -836,7 +836,7 @@ His perishing root with the increasing vine."</span>
 
 </div>
 
-   The Dwarf Elder <span id="fr_495"></span>[1](#fn_493) (*Sambucus
+   The Dwarf Elder <span id="fr_495"></span>[1](#fn_493.md) (*Sambucus
 Ebulus*) is said only to grow where blood has been shed either in battle
 or in murder. The Welsh call it "Llysan gward gwyr," or "plant of the
 blood of man." Shakespeare perhaps had this piece of folklore in mind
@@ -848,16 +848,16 @@ elder tree."
 as such are mentioned by Falstaff in "Merry Wives of Windsor" (v. 5).
 "Let the sky rain potatoes; let it thunder to the tune of Green Sleeves,
 hail kissing comfits, and snow eryngoes." Mr Ellacombe <span
-id="fr_496"></span>[2](#fn_494) thinks that in this passage the Globe
+id="fr_496"></span>[2](#fn_494.md) thinks that in this passage the Globe
 Artichoke is meant, "which is a near ally of the Eryngium, and was a
 favourite dish in Shakespeare's time."
 
    *Fennel*.—This was generally considered as an inflammatory herb; and
 to eat "conger and fennel" was "to eat two high and hot things
 together," which was an act of libertinism. <span
-id="fr_497"></span>[3](#fn_495)\* Thus in "2 Henry IV." (ii. 4) Falstaff
+id="fr_497"></span>[3](#fn_495)\* Thus in "2 Henry IV." (ii. 4.md) Falstaff
 says of Poins he "eats conger and fennel." Mr Beisly states <span
-id="fr_498"></span>[4](#fn_496) that fennel was used as a sauce with
+id="fr_498"></span>[4](#fn_496.md) that fennel was used as a sauce with
 fish hard of digestion, being aromatic, and as the old writers term it,
 "hot in the third degree." One of the herbs distributed by poor Ophelia
 in her distraction is fennel which she offers either as a cordial or as
@@ -873,7 +873,7 @@ flattery; especially, as in Shakespeare's time, it was regarded
 emblematical of flattery. In this sense it is often quoted by old
 writers. In Greene's "Quip for an Upstart Courtier," we read—"Fennell I
 meane for flatterers." In "Phyala Lachrymarum" <span
-id="fr_499"></span>[1](#fn_497) we find—
+id="fr_499"></span>[1](#fn_497.md) we find—
 
 <div style="margin-left: 32px">
 
@@ -930,7 +930,7 @@ advertisement thrust into your hand of a doctor
 <span id="page_207">p. 207</span>
 
 who had arrived at the knowledge of the green and red dragon, and had
-discovered the female fern-seed." <span id="fr_500"></span>[1](#fn_498)
+discovered the female fern-seed." <span id="fr_500"></span>[1](#fn_498.md)
 
    *Fig*—Formerly the term fig served as a common expression of
 contempt, and was used to denote a thing of the least importance. Hence
@@ -942,20 +942,20 @@ says, "Virtue! a fig."
 
    The term, "to give or make the fig," as an expression of insult, has
 for many ages been very prevalent among the nations of Europe, and
-according to Douce <span id="fr_501"></span>[2](#fn_499) was known to
+according to Douce <span id="fr_501"></span>[2](#fn_499.md) was known to
 the Romans. It consists in thrusting the thumb between two of the closed
 fingers, or into the mouth, a practice, as some say, <span
-id="fr_502"></span>[3](#fn_500) in allusion to a contemptuous punishment
+id="fr_502"></span>[3](#fn_500.md) in allusion to a contemptuous punishment
 inflicted on the Milanese, by the Emperor Frederic Barbarossa in 1162,
 when he took their city. This, however, is altogether improbable, the
 real origin no doubt being a coarse w representation of a disease, to
 which the name of *ficus* or fig has always been given. <span
-id="fr_503"></span>[4](#fn_501)
+id="fr_503"></span>[4](#fn_501.md)
 
    The "fig of Spain" spoken of in "Henry V." (iii. 6), may either
 allude to the poisoned fig employed in Spain as a secret way of
 destroying an obnoxious person, as in Webster's "White Devil" <span
-id="fr_504"></span>[5](#fn_502)—
+id="fr_504"></span>[5](#fn_502.md)—
 
 <div style="margin-left: 32px">
 
@@ -964,7 +964,7 @@ salad, daily,"</span>
 
 </div>
 
-And in Shirley's "Brothers" <span id="fr_505"></span>[6](#fn_503)—
+And in Shirley's "Brothers" <span id="fr_505"></span>[6](#fn_503.md)—
 
 <div style="margin-left: 32px">
 
@@ -975,7 +975,7 @@ Erebus."</span>
 
 <span id="page_208">p. 208</span>
 
-   It may, as Mr Dyce remarks, <span id="fr_506"></span>[1](#fn_504)
+   It may, as Mr Dyce remarks, <span id="fr_506"></span>[1](#fn_504.md)
 simply denote contempt or insult in the sense already mentioned.
 
    *Flower-de-luce*.—The common purple iris which adorns our gardens is
@@ -988,7 +988,7 @@ Constantinople; but it is still a matter of dispute among antiquarians
 as to what it was originally intended to represent. Some say a flower,
 some a toad, some a halbert-head. It is uncertain as to what plant is
 referred to by Shakespeare when he alludes to the fleur-de-luce in the
-following passage <span id="fr_507"></span>[2](#fn_505) in "2 Henry VI."
+following passage <span id="fr_507"></span>[2](#fn_505.md) in "2 Henry VI."
 (v. 1) where the Duke of York says—
 
 <div style="margin-left: 32px">
@@ -1008,7 +1008,7 @@ following passage <span id="fr_507"></span>[2](#fn_505) in "2 Henry VI."
 </div>
 
 Some think the lily is meant, others the iris. For the lily theory, says
-Mr Ellacombe, <span id="fr_508"></span>[3](#fn_506) "there are the facts
+Mr Ellacombe, <span id="fr_508"></span>[3](#fn_506.md) "there are the facts
 that Shakespeare calls it one of the lilies, and that the other way of
 spelling is fleur-de-lys."
 
@@ -1049,8 +1049,8 @@ present century.
    *Gillifower*.—This was the old name for the whole class of
 carnations, pinks, and sweet-williams, from the French *girofle*, which
 is itself corrupted from the Latin *cariophyllum*. <span
-id="fr_509"></span>[1](#fn_507) The streaked gillyflowers, says Mr
-Beisly, <span id="fr_510"></span>[2](#fn_508) noticed by Perdita in
+id="fr_509"></span>[1](#fn_507.md) The streaked gillyflowers, says Mr
+Beisly, <span id="fr_510"></span>[2](#fn_508.md) noticed by Perdita in
 "Winter's Tale" (iv. 4)—
 
 <div style="margin-left: 32px">
@@ -1104,7 +1104,7 @@ rue. The origin of the term is uncertain. Most probably it arose from
 the extreme bitterness of the plant, which, as it had always borne the
 name *rue* (to be sorry for anything), was not unnaturally associated
 with repentance. It was, therefore, the herb of repentance, <span
-id="fr_511"></span>[1](#fn_509)" and this was soon changed into 'herb of
+id="fr_511"></span>[1](#fn_509.md)" and this was soon changed into 'herb of
 grace,' repentance being the chief sign of grace." The expression is
 several times used by Shakespeare. In "Richard II." (iii. 4), the
 gardener narrates—
@@ -1121,7 +1121,7 @@ gardener narrates—
 In "Hamlet" (iv. 5), Ophelia, when addressing the queen, says, "There's
 rue for you; and here's some for me: we may call it herb-grace o’
 Sundays: O, you must wear your rue with a difference." <span
-id="fr_512"></span>[2](#fn_510)
+id="fr_512"></span>[2](#fn_510.md)
 
    Malone observes that there is no ground for supposing that rue was
 called "herb of grace" from its being used in exorcisms in churches on
@@ -1129,7 +1129,7 @@ Sunday, a notion entertained by Jeremy Taylor, who says, referring to
 the *Flagellum Dæmonum*, "First, they (the Romish exorcisers) are to try
 the devil by holy water, incense, sulphur, rue, which from thence, as we
 suppose, came to be called "herb of grace." <span
-id="fr_513"></span>[3](#fn_511) Rue was also a common subject of puns,
+id="fr_513"></span>[3](#fn_511.md) Rue was also a common subject of puns,
 from being the
 
 <span id="page_211">p. 211</span>
@@ -1140,7 +1140,7 @@ above).
    *Holy Thistle*.—The Carduus Benedictus, called also "blessed
 thistle," was so named, like other plants which bear the specific name
 of "blessed," from its supposed power of counteracting the effect of
-poison. <span id="fr_514"></span>[1](#fn_512) Cogan, in his "Haven of
+poison. <span id="fr_514"></span>[1](#fn_512.md) Cogan, in his "Haven of
 Health," 1595, says, "This herbe may worthily be called *Benedictus*, or
 *Omnimorbia*, that is, a salve for every sore, not known to physitians
 of old time, but lately revealed by the special providence of almighty
@@ -1174,10 +1174,10 @@ Banquo in "Macbeth" (i. 3)—
 plant which "made them out of their wits." Several plants have been
 suggested—the hemlock, belladonna, mandrake, henbane, &c. Douce supports
 the last, and cites the following passage <span
-id="fr_515"></span>[2](#fn_513):—"Henbane . . . is called insana, mad,
+id="fr_515"></span>[2](#fn_513.md):—"Henbane . . . is called insana, mad,
 for the use thereof is perillous; for if it be eate or dronke, it
 breedeth madness, or slow lykenesse of sleepe." Nares <span
-id="fr_516"></span>[3](#fn_514) quotes from Ben Jonson ("Sejanus" iii.
+id="fr_516"></span>[3](#fn_514.md) quotes from Ben Jonson ("Sejanus" iii.
 2), in support of hemlock—
 
 <div style="margin-left: 32px">
@@ -1196,7 +1196,7 @@ vintner. Hence the allusion in "As You Like It" (v. 4, Epilogue), where
 Rosalind wittingly remarks, "If it be true that good wine needs no bush,
 ’tis true that a good play needs no epilogue." This custom is often
 referred to by our old writers, as, for instance, in Nash's "Summer's
-Last Will and Testament; <span id="fr_517"></span>[1](#fn_515)" 1600—
+Last Will and Testament; <span id="fr_517"></span>[1](#fn_515.md)" 1600—
 
 <div style="margin-left: 32px">
 
@@ -1215,7 +1215,7 @@ And in the "Rival Friends," 1632—
    This plant was no doubt chosen from its being sacred to Bacchus. The
 practice was observed at statute hirings, wakes, &c., by people who sold
 ale at no other time. The manner, says Mr Singer, <span
-id="fr_518"></span>[2](#fn_516) in which they were decorated appears
+id="fr_518"></span>[2](#fn_516.md) in which they were decorated appears
 from a passage in Florio's "Italian Dictionary," in voce *trcmola*,
 "Gold foile, or thin leaves of gold or silver, namely, thinne plate, as
 our vintners adorn their bushes with." We may compare the old sign of
@@ -1233,18 +1233,18 @@ Losing both beauty and utility."</span>
 
 </div>
 
-It has been suggested <span id="fr_519"></span>[3](#fn_517) that
+It has been suggested <span id="fr_519"></span>[3](#fn_517.md) that
 kecksies may be a mistaken form of the plural kex; and that kex may have
 been formed from keck, something so dry that the eater would keck at it,
 or be unable to swallow it. The word is probably derived from the Welsh
 "cecys," which is applied to several plants of the umbelliferous kind.
-Dr Prior, <span id="fr_520"></span>[4](#fn_518) however, says that
+Dr Prior, <span id="fr_520"></span>[4](#fn_518.md) however, says that
 kecksies is from an old English word keek, or kike, retained in the
 northern counties in the sense of "peep" or "spy."
 
 <span id="page_213">p. 213</span>
 
-   *Knotgrass*. <span id="fr_521"></span>[1](#fn_519)—The allusion to
+   *Knotgrass*. <span id="fr_521"></span>[1](#fn_519.md)—The allusion to
 this plant in "A Midsummer Night's Dream" (iii. 2):—
 
 <div style="margin-left: 32px">
@@ -1308,7 +1308,7 @@ And in "Antony and Cleopatra" (v. 3), the latter exclaims:—
 <div style="margin-left: 32px">
 
 <span class="small">        "Upon your sword  
-Sit laurelled victory." <span id="fr_522"></span>[2](#fn_520)</span>
+Sit laurelled victory." <span id="fr_522"></span>[2](#fn_520.md)</span>
 
 </div>
 
@@ -1325,13 +1325,13 @@ majesties is remembered of it, the Welshmen did good service in a garden
 where leeks did grow, wearing leeks in their Monmouth caps, which your
 majesty know to this hour is an honourable badge of the service; and I
 do believe your majesty takes no scorn to wear the leek upon Saint
-Tavy's Day." <span id="fr_523"></span>[1](#fn_521) Dr Owen Pughe <span
-id="fr_524"></span>[2](#fn_522) supposes the custom arose from the
+Tavy's Day." <span id="fr_523"></span>[1](#fn_521.md) Dr Owen Pughe <span
+id="fr_524"></span>[2](#fn_522.md) supposes the custom arose from the
 practice of every farmer contributing his leek to the common repast when
 they met at the Cymmortha, an association by which they reciprocated
 assistance in ploughing the land. Anyhow, the subject is one involved in
 complete uncertainty, and the various explanations given are purely
-conjectural (see page [284](flos13.htm#page_284)).
+conjectural (see page [284](flos13.htm#page_284).md).
 
    *Lily*.—Although so many pretty legends and romantic superstitions
 have. clustered round this sweet and favourite flower, yet they have
@@ -1373,10 +1373,10 @@ that the wild arum is the plant alluded to by Shakespeare," but there
 seems no authority for this statement.
 
    *Love-in-Idleness*, or, with more accuracy, *Love-in-Idle*, <span
-id="fr_525"></span>[1](#fn_523) is one of the many nicknames of the
+id="fr_525"></span>[1](#fn_523.md) is one of the many nicknames of the
 pansy or heart’s-ease—a term said to be still in use in Warwickshire. It
 occurs in "Midsummer Night's Dream" (ii. 1) <span
-id="fr_526"></span>[2](#fn_524) where Oberon says—
+id="fr_526"></span>[2](#fn_524.md) where Oberon says—
 
 <div style="margin-left: 32px">
 
@@ -1398,7 +1398,7 @@ alludes to it in the following couplet:—
 </div>
 
    That flowers, and pansies especially, were used as
-love-philtres, <span id="fr_527"></span>[3](#fn_525) or for the object
+love-philtres, <span id="fr_527"></span>[3](#fn_525.md) or for the object
 of casting a spell over people in Shakespeare's day, is shown in the
 passage already quoted, where Puck and Oberon amuse themselves at
 Titania's expense. Again, a further reference occurs (iv. 1) where the
@@ -1418,15 +1418,15 @@ king removes the spell—
 
 <span class="small"><span class="contnote">\[paragraph
 continues\]</span>       Dian's bud <span
-id="fr_528"></span>[1](#fn_526) o’er Cupid's flower <span
-id="fr_529"></span>[2](#fn_527)  
+id="fr_528"></span>[1](#fn_526.md) o’er Cupid's flower <span
+id="fr_529"></span>[2](#fn_527.md)  
       Hath such force and blessed power.  
  Now, my Titania; wake you, my sweet queen."</span>
 
 </div>
 
    "It has been suggested," says Mr Aldis Wright, <span
-id="fr_530"></span>[3](#fn_528) "that the device employed by Oberon to
+id="fr_530"></span>[3](#fn_528.md) "that the device employed by Oberon to
 enchant Titania by anointing her eyelids with the juice of a flower, may
 have been borrowed by Shakespeare from the Spanish Romance of Diana by
 George of Montemayor. But apart from the difficulty which arises from
@@ -1483,7 +1483,7 @@ With madness strikes."</span>
 
 </div>
 
-Pliny <span id="fr_531"></span>[1](#fn_529) informs us that those who
+Pliny <span id="fr_531"></span>[1](#fn_529.md) informs us that those who
 dug up this plant paid particular attention to stand so that the wind
 was at their back; and before they began to dig, they made three circles
 round the plant with the point of the sword, and then proceeding to the
@@ -1538,7 +1538,7 @@ generally believed that it is the same as that which the
 
 <span id="page_218">p. 218</span>
 
-ancient Hebrews called Dudain. <span id="fr_532"></span>[1](#fn_530)
+ancient Hebrews called Dudain. <span id="fr_532"></span>[1](#fn_530.md)
 That these people held it in the highest esteem in the days of Jacob is
 evident from its having been found by Reuben, who carried the plant to
 his mother, and the inducement which tempted Leah to part with it,
@@ -1550,11 +1550,11 @@ Among the many other items of folk-lore associated with the mandrake;
 there is one which informs us that "it is perpetually watched over by
 Satan, and if it be pulled up at certain holy times, and with certain
 invocations, the evil spirit will appear to do the bidding of the
-practitioner." <span id="fr_533"></span>[2](#fn_531) In comparatively
+practitioner." <span id="fr_533"></span>[2](#fn_531.md) In comparatively
 recent times, quacks and impostors counterfeited with the root briony
 figures resembling parts of the human body, which were sold to the
 credulous as endued with specific virtues. <span
-id="fr_534"></span>[3](#fn_532) The Germans, too, equally superstitious,
+id="fr_534"></span>[3](#fn_532.md) The Germans, too, equally superstitious,
 formed little idols of the roots of the mandrake, which were regularly
 dressed every day, and consulted as oracles,—their repute being such
 that they were manufactured in great numbers and sold in cases. They
@@ -1564,7 +1564,7 @@ words, increase whatever money was placed near them. In order, too, to
 enhance the value of these so-called miracle workers, it was said that
 the roots of this plant were produced from the flesh of criminals which
 fell from the gibbet, and that it only grew in such a situation. <span
-id="fr_535"></span>[4](#fn_533)
+id="fr_535"></span>[4](#fn_533.md)
 
    *Marigold*.—This flower was a great favourite with our old writers,
 from a curious notion that it always opened or shut its flowers at the
@@ -1626,7 +1626,7 @@ Andronicus" (ii. 3), Tamora describes it in the graphic passage below as
 extremely appropriate either conformably to an ancient, but erroneous,
 opinion, that the berries of the mistletoe were poisonous; or on account
 of the use made of this plant by the Druids during their detestable
-human sacrifices. <span id="fr_536"></span>[1](#fn_534)
+human sacrifices. <span id="fr_536"></span>[1](#fn_534.md)
 
 <div style="margin-left: 32px">
 
@@ -1647,15 +1647,15 @@ Unless the nightly owl or fatal raven."</span>
 
    *Mushroom*.—Besides his notice of the mushroom in the following
 passages, Shakespeare alludes to the fairy rings <span
-id="fr_537"></span>[1](#fn_535) which are formed by fungi, though, as Mr
-Ellacombe <span id="fr_538"></span>[2](#fn_536) points out, he probably
+id="fr_537"></span>[1](#fn_535.md) which are formed by fungi, though, as Mr
+Ellacombe <span id="fr_538"></span>[2](#fn_536.md) points out, he probably
 knew little of this. In the "Tempest" (v. 1), Prospero says of the
 fairies—
 
 <div style="margin-left: 32px">
 
 <span class="small">                   "You demi-puppets that  
-By [moonshine](errata.htm#5) do the green-sour ringlets make,  
+By [moonshine](errata.htm#5.md) do the green-sour ringlets make,  
 Whereof the ewe not bites, and you whose pastime  
 Is to make midnight mushrooms."</span>
 
@@ -1685,7 +1685,7 @@ Emilia in "The Two Noble Kinsmen" (ii. 1)—
    *Nutmeg*.—A gilt nutmeg was formerly a common gift at Christmas and
 on other festive occasions, a notice of which occurs in "Love's Labour's
 Lost" (v. 2), in the following dialogue <span
-id="fr_539"></span>[3](#fn_537)—
+id="fr_539"></span>[3](#fn_537.md)—
 
 <div style="margin-left: 32px">
 
@@ -1730,14 +1730,14 @@ Windsor" (iv. 4)—
 now no more. According to one theory, the old tree was blown down,
 August 31st, 1863; and a young oak was planted by Her Majesty, September
 12th, 1863, to mark the spot where Herne's oak stood. <span
-id="fr_540"></span>[1](#fn_538) Mr Halliwell-Phillipps, however, tells
+id="fr_540"></span>[1](#fn_538.md) Mr Halliwell-Phillipps, however, tells
 us, "the general opinion is that it was accidentally destroyed in the
 year 1796, through an order of George III. to the bailiff Robinson, that
 all the unsightly trees in the vicinity of the castle, should be
 removed; an opinion confirmed by a well-established fact, that a person
 named Grantham, who contracted with the bailiff for the removal of the
 trees, fell into disgrace with the king for having included the oak in
-his gatherings." <span id="fr_541"></span>[2](#fn_539)
+his gatherings." <span id="fr_541"></span>[2](#fn_539.md)
 
    *Olive*.—This plant ever famous from its association with the return
 of the dove to the oak, has been considered typical of peace. It was as
@@ -1752,7 +1752,7 @@ and Romans. It is, too, in this sense, that Shakespeare speaks of it
 when he makes Viola in "Twelfth Night" (i. 5), say—"I bring no overture
 of war, no taxation of homage; I hold the olive in my hand, my words are
 as full of peace as matter." In his "Sonnet" (cvii.), here are too those
-well-known lines <span id="fr_542"></span>[1](#fn_540)—
+well-known lines <span id="fr_542"></span>[1](#fn_540.md)—
 
 <div style="margin-left: 32px">
 
@@ -1763,7 +1763,7 @@ well-known lines <span id="fr_542"></span>[1](#fn_540)—
    *Palm*.—As the symbol of victory, this was carried before the
 conqueror in triumphal processions. Its classical use is noticed by
 Shakespeare in "Coriolanus" (v. 3). Volumnia says <span
-id="fr_543"></span>[2](#fn_541)—
+id="fr_543"></span>[2](#fn_541.md)—
 
 <div style="margin-left: 32px">
 
@@ -1816,7 +1816,7 @@ word had its origin
 from the horticultural skill of the Cistercian monks of Wardon Abbey, in
 Bedfordshire, founded in the twelfth century. Three warden pears
 appeared on the armorial bearings of the Abbey. <span
-id="fr_544"></span>[1](#fn_542) It is noticeable that the warden pies of
+id="fr_544"></span>[1](#fn_542.md) It is noticeable that the warden pies of
 Shakespeare's day, coloured with saffron, have been replaced by stewed
 pears coloured with cochineal.
 
@@ -1835,7 +1835,7 @@ lover selecting one growing on the stem, snatching it away quickly, and
 if the good omen of the peas remaining in the husk were preserved, in
 then presenting it to the lady of his choice. Touchstone in "As You Like
 It" (ii. 4), alludes to this piece of popular suggestion:—"I remember
-the wooing of a peascod <span id="fr_545"></span>[2](#fn_543) instead of
+the wooing of a peascod <span id="fr_545"></span>[2](#fn_543.md) instead of
 her." Gay, who has carefully chronicled many a custom of his time, says
 in his "Fourth Pastoral":—
 
@@ -1857,7 +1857,7 @@ Browne's "Pastorals" (Bk. ii., song 3).
  He’d seek for in the fattest, fertil’st soile,  
  And rende it from the stalke to bring it to her,  
  And in her bosom for acceptance wooe her." <span
-id="fr_546"></span>[3](#fn_544)</span>
+id="fr_546"></span>[3](#fn_544.md)</span>
 
 </div>
 
@@ -1876,7 +1876,7 @@ eye,
  *Romeo*. Your plantain leaf is excellent for that.  
  *Benvolio*. For what, I pray thee?  
  *Romeo*. For your broken skin." <span
-id="fr_547"></span>[1](#fn_545)</span>
+id="fr_547"></span>[1](#fn_545.md)</span>
 
 </div>
 
@@ -1896,7 +1896,7 @@ is described by Spencer, "Faerie Queene" (ii. 7, 52), as the
 the flowers that procure "deadly sleeping."
 
    *Potato*.—It is curious enough, says Nares <span
-id="fr_548"></span>[2](#fn_546) to find that excellent root which now
+id="fr_548"></span>[2](#fn_546.md) to find that excellent root which now
 forms a regular portion of the daily nutriment of every individual, and
 is the chief or entire support of multitudes in Ireland, spoken of
 continually as having some powerful effect upon the human frame, in
@@ -1906,9 +1906,9 @@ Windsor" (v. 5) says:—"Let the sky rain potatoes; let it thunder to the
 tune of Green Sleeves, hail kissing comfits," &c. In "Troilus and
 Cressida" (v. 2) Thersites adds:—"How the devil Luxury with his fat rump
 and potato finger, tickles these together." <span
-id="fr_549"></span>[3](#fn_547) It appears, too, that the medical
+id="fr_549"></span>[3](#fn_547.md) It appears, too, that the medical
 writers of the times countenanced this fancy. Mr Ellacombe <span
-id="fr_550"></span>[4](#fn_548) observes that the above passages are of
+id="fr_550"></span>[4](#fn_548.md) observes that the above passages are of
 peculiar interest inasmuch as they contain almost the
 
 <span id="page_225">p. 225</span>
@@ -1917,7 +1917,7 @@ earliest notice of potatoes after their introduction into England.
 
    *Primrose*.—Although the early primrose has always been such a
 popular and favourite flower, yet it seems to have been associated with
-sadness, <span id="fr_551"></span>[1](#fn_549) or even worse than
+sadness, <span id="fr_551"></span>[1](#fn_549.md) or even worse than
 sadness; for in the following passages the "primrose paths," and
 "primrose way," are meant to be suggestive of sinful pleasures. Thus in
 "Hamlet" (i. 3), Ophelia says:—
@@ -1983,14 +1983,14 @@ with it.
 It appears that in Shakspeare's time one of the fashions of the day was
 the wearing of enormous roses on the shoes, of which full-length
 portraits afford striking examples. <span
-id="fr_552"></span>[1](#fn_550) Hamlet (iii. 2) speaks "of two
+id="fr_552"></span>[1](#fn_550) Hamlet (iii. 2.md) speaks "of two
 provincial roses on his razed shoes."—meaning, no doubt, rosettes of
 ribbon in the shape of roses of Provins or Provence. Douce favours the
 former, Warton the latter locality. In either case it was a large rose.
 The Province or damask rose, was probably the better known. Gerarde in
 his "Herbal," says that the damask rose is called by some "Rosa
-provincialis." <span id="fr_553"></span>[2](#fn_551) Mr Fairholt <span
-id="fr_554"></span>[3](#fn_552) quotes from Friar Bacon's Prophecy,
+provincialis." <span id="fr_553"></span>[2](#fn_551.md) Mr Fairholt <span
+id="fr_554"></span>[3](#fn_552.md) quotes from Friar Bacon's Prophecy,
 1604, the following in allusion to this fashion:—
 
 <div style="margin-left: 32px">
@@ -2006,7 +2006,7 @@ id="fr_554"></span>[3](#fn_552) quotes from Friar Bacon's Prophecy,
 three-farthing silver pieces of Queen Elizabeth, which were extremely
 thin, and had the profile of the sovereign, with a rose on the back of
 her head, there doubtless is a fuller reference to the court fashion of
-sticking roses in the ear:— <span id="fr_555"></span>[4](#fn_553)
+sticking roses in the ear:— <span id="fr_555"></span>[4](#fn_553.md)
 
 <div style="margin-left: 32px">
 
@@ -2133,7 +2133,7 @@ Glendower in "1 Henry IV." (iii. 1) says—
 
 <span class="small">"She bids you on the wanton rushes lay you down  
  And rest your gentle head upon her lap." <span
-id="fr_556"></span>[1](#fn_554)</span>
+id="fr_556"></span>[1](#fn_554.md)</span>
 
 </div>
 
@@ -2141,7 +2141,7 @@ At the coronation of Henry V. ("2 Henry IV.," v. 5) when the procession
 is coming, the grooms cry, "More rushes, more rushes," which seems to
 have been the usual cry for rushes to be scattered on a pavement or a
 platform when a procession was approaching. <span
-id="fr_557"></span>[2](#fn_555) Again, in "Richard II." (i. 3) the
+id="fr_557"></span>[2](#fn_555) Again, in "Richard II." (i. 3.md) the
 custom is further alluded to by John of Gaunt, who speaks of the
 presence strew’d," referring to the presence chamber. So, too, in
 "Cymbeline" (ii. 2), Iachimo soliloquizes—
@@ -2182,7 +2182,7 @@ carrying "strewings" for the two prisoners’ chamber.
 
    Rush-bearings were a sort of rural festival, when the parishioners
 brought rushes to strew the church. <span
-id="fr_558"></span>[1](#fn_556)
+id="fr_558"></span>[1](#fn_556.md)
 
    The "rush-ring" appears to have been a kind of token for plighting of
 troth among rustic lovers. It was afterwards vilely used, however, for
@@ -2205,7 +2205,7 @@ Spenser, in the "Shepherd's Kalendar," speaks of—
 </div>
 
 Du Breul, in his "Antiquities of Paris," <span
-id="fr_559"></span>[2](#fn_557) mentions the rush-ring as "a kind of
+id="fr_559"></span>[2](#fn_557.md) mentions the rush-ring as "a kind of
 espousal used in France by such persons as meant to live together in a
 state of concubinage; but in England it was scarcely ever practised
 except by designing men, for the purpose of corrupting those young women
@@ -2224,7 +2224,7 @@ is mentioned in "Taming of the Shrew" (iv. 5)—
 </div>
 
    *Saffron*.—In the following passage ("All's Well that Ends Well," iv.
-5) there seems to be an allusion <span id="fr_560"></span>[3](#fn_558)
+5) there seems to be an allusion <span id="fr_560"></span>[3](#fn_558.md)
 by Lafeu to the
 
 <span id="page_230">p. 230</span>
@@ -2239,7 +2239,7 @@ Henry IV." (ii. 4) as used for tickling the nose and making it bleed. In
 Lupton's "Notable Things" it is mentioned as part of a medical
 recipe—"Whoever is tormented with sciatica or the hip gout, let them
 take an herb called spear-grass, and stamp it and lay a little thereof
-upon the grief." Mr Ellacombe <span id="fr_561"></span>[1](#fn_559)
+upon the grief." Mr Ellacombe <span id="fr_561"></span>[1](#fn_559.md)
 thinks that the plant alluded to is the common couch grass, (Triticum
 repens), which is still known in the Eastern Counties as spear-grass.
 
@@ -2264,7 +2264,7 @@ with the nettle in "Henry V." (i. 1):—
 
 <div style="margin-left: 32px">
 
-<span class="small">"The strawberry grows [underneath](errata.htm#6) the
+<span class="small">"The strawberry grows [underneath](errata.htm#6.md) the
 nettle  
  And wholesome berries thrive and ripen best  
  Neighbour’d by fruit of baser quality."</span>
@@ -2284,7 +2284,7 @@ being corrupted.'"
 <span id="page_231">p. 231</span>
 
    *Thorns*.—The popular tradition which represents the marks on the
-moon <span id="fr_562"></span>[1](#fn_560) to be that of a man carrying
+moon <span id="fr_562"></span>[1](#fn_560.md) to be that of a man carrying
 a thorn-bush on his head, is alluded to in "Midsummer Night's Dream" (v.
 1) in the prologue: "This man, with lanthorn, dog, and bush of thorn,
 presenteth Moonshine." Little else is mentioned by Shakespeare with
@@ -2313,7 +2313,7 @@ Nascentur violæ."</span>
 </div>
 
    The violet has generally been associated with early death. This, Mr
-Ellacombe considers <span id="fr_563"></span>[2](#fn_561) "may have
+Ellacombe considers <span id="fr_563"></span>[2](#fn_561.md) "may have
 arisen from a sort of pity for flowers that were only allowed to see the
 opening year, and were cut off before the first beauty of summer had
 come, and so were looked upon as apt emblems of those who enjoyed the
@@ -2344,7 +2344,7 @@ Or Cytherea's breath."</span>
 <span id="page_232">p. 232</span>
 
 <span class="contnote">\[paragraph continues\]</span> Upon which Mr
-Singer <span id="fr_564"></span>[1](#fn_562) thus comments:—"The eyes of
+Singer <span id="fr_564"></span>[1](#fn_562.md) thus comments:—"The eyes of
 Juno were as remarkable as those of Pallas, and:—
 
 <div style="margin-left: 32px">
@@ -2375,7 +2375,7 @@ death, says:—
 
 </div>
 
-The following is the song <span id="fr_565"></span>[2](#fn_563):—
+The following is the song <span id="fr_565"></span>[2](#fn_563.md):—
 
 <div style="margin-left: 32px">
 
@@ -2416,7 +2416,7 @@ Upon the wild sea-banks."</span>
    It was, too, in reference to this custom that Shakespeare in "Hamlet"
 (iv. 7), represented poor Ophelia hanging her flowers on the "willow
 aslaunt a brook." "This tree," says Douce <span
-id="fr_566"></span>[1](#fn_564) "might have been chosen as the symbol of
+id="fr_566"></span>[1](#fn_564.md) "might have been chosen as the symbol of
 sadness from the cxxxvii. Psalm (verse 2)—'We hanged our harps upon the
 willows;' or else from a coincidence between the weeping-willow and
 falling tears." Another reason has been assigned. The agnus castus was
@@ -2473,11 +2473,11 @@ To counteract, therefore, this imaginary danger, our ancestors may have
 planted the yew tree in their churchyards—not only on account of its
 vitality as an evergreen, but as connected, in some way in heathen
 times, with the influence of evil powers. <span
-id="fr_567"></span>[1](#fn_565) In a statute made in the latter part of
+id="fr_567"></span>[1](#fn_565.md) In a statute made in the latter part of
 Edward the First's reign, to prevent rectors from cutting down trees in
 churchyards, we find the following: "Verum arbores ipsæ, propter
 ventorum impetus ne ecclesiis noceant, sœpe plantantur." <span
-id="fr_568"></span>[2](#fn_566)
+id="fr_568"></span>[2](#fn_566.md)
 
    The custom of sticking yew in the shroud is alluded to in the
 following song in "Twelfth Night" (ii. 4)—
@@ -2491,7 +2491,7 @@ following song in "Twelfth Night" (ii. 4)—
 
 </div>
 
-Through being reckoned poisonous, it is [introduced](errata.htm#7) in
+Through being reckoned poisonous, it is [introduced](errata.htm#7.md) in
 "Macbeth" (iv. 1), in connection with the witches—
 
 <div style="margin-left: 32px">
@@ -2507,7 +2507,7 @@ for a beam, a branch, or a tree, broken by the wind. The devil, or storm
 spirit, claims it as his own, and, were it used, the evil spirit would
 haunt the house. It is a broken branch the witches choose; a sliver’d
 slip the woodman will have none of." <span
-id="fr_569"></span>[3](#fn_567)
+id="fr_569"></span>[3](#fn_567.md)
 
    Its epithet, "double fatal" "Richard II." (iii. 2), no doubt refers
 to the poisonous quality of the leaves, and on account
@@ -2531,140 +2531,140 @@ that the symptoms attendant upon yew poisoning correspond, in a very
 remarkable manner, with those which follow the bites of poisonous
 snakes; and lastly, that no other poison but the yew produces the
 "lazar-like" ulcerations on the body, upon which Shakespeare, in this
-passage, lays so much stress. <span id="fr_570"></span>[1](#fn_568)
+passage, lays so much stress. <span id="fr_570"></span>[1](#fn_568.md)
 
    Amongst the other explanations of this passage, is the well-known one
 which identifies "hebenon" with henbane. Mr Beisly suggests that
 nightshade may be meant, while Nares considers that ebony is
-meant. <span id="fr_571"></span>[2](#fn_569)
+meant. <span id="fr_571"></span>[2](#fn_569.md)
 
    From certain ancient statutes it appears that every Englishman, while
 archery was practised, was obliged to keep in his house either a bow of
-yew or some other wood. <span id="fr_572"></span>[3](#fn_570)
+yew or some other wood. <span id="fr_572"></span>[3](#fn_570.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_452"></span>[190:1](flos10.htm#fr_454) Aconitum napellus,
+<span id="fn_452"></span>[190:1](flos10.htm#fr_454.md) Aconitum napellus,
 Wolf's-bane or Monk's-hood.
 
-<span id="fn_453"></span>[191:1](flos10.htm#fr_455) "Miseros fallunt
+<span id="fn_453"></span>[191:1](flos10.htm#fr_455.md) "Miseros fallunt
 aconita legentes" (Georgic, ii. 152).
 
-<span id="fn_454"></span>[191:2](flos10.htm#fr_456) See Ellacombe's
+<span id="fn_454"></span>[191:2](flos10.htm#fr_456.md) See Ellacombe's
 "Plant Lore of Shakespeare," 1878, pp. 7, 8.
 
-<span id="fn_455"></span>[191:3](flos10.htm#fr_457) Dr Prior's "Popular
+<span id="fn_455"></span>[191:3](flos10.htm#fr_457.md) Dr Prior's "Popular
 Names of British Plants," 1870, pp. 1, 2.
 
-<span id="fn_456"></span>[191:4](flos10.htm#fr_458) Phillips "Flora
+<span id="fn_456"></span>[191:4](flos10.htm#fr_458.md) Phillips "Flora
 Historica," 1829, ii. pp. 122, 128.
 
-<span id="fn_457"></span>[192:1](flos10.htm#fr_459) "Plant Lore of
+<span id="fn_457"></span>[192:1](flos10.htm#fr_459.md) "Plant Lore of
 Shakespeare," pp. 10, 11.
 
-<span id="fn_458"></span>[192:2](flos10.htm#fr_460) Phillips, "Flora
+<span id="fn_458"></span>[192:2](flos10.htm#fr_460.md) Phillips, "Flora
 Historica," 1829, i. p. 104.
 
-<span id="fn_459"></span>[193:1](flos10.htm#fr_461) Ellacombe's "Plant
+<span id="fn_459"></span>[193:1](flos10.htm#fr_461.md) Ellacombe's "Plant
 Lore of Shakespeare," p. 13.
 
-<span id="fn_460"></span>[193:2](flos10.htm#fr_462) Dyce's "Glossary to
+<span id="fn_460"></span>[193:2](flos10.htm#fr_462.md) Dyce's "Glossary to
 Shakespeare," p. 15.
 
-<span id="fn_461"></span>[193:3](flos10.htm#fr_463) See Nares’
+<span id="fn_461"></span>[193:3](flos10.htm#fr_463.md) See Nares’
 "Glossary," ii. p. 29, probably synonymous with the term "Apple-Squire,"
 which formerly signified a pimp.
 
-<span id="fn_462"></span>[193:4](flos10.htm#fr_464) Forby, in his
+<span id="fn_462"></span>[193:4](flos10.htm#fr_464.md) Forby, in his
 "Vocabulary of East Anglia," says of this Apple, "we retain the name,
 but whether we mean the same variety of fruit which was so called in
 Shakespeare's time, it is not possible to ascertain."
 
-<span id="fn_463"></span>[194:1](flos10.htm#fr_465) Ellacombe's "Plant
+<span id="fn_463"></span>[194:1](flos10.htm#fr_465.md) Ellacombe's "Plant
 Lore of Shakespeare," p. 16; Dyce's "Glossary," p. 430; Nares’
 "Glossary," i. p. 81; Coles's "Latin and English Dictionary." "A
 bitter-suete \[apple\]—Amari-mellum."
 
-<span id="fn_464"></span>[194:2](flos10.htm#fr_466) See chapter XI.,
+<span id="fn_464"></span>[194:2](flos10.htm#fr_466.md) See chapter XI.,
 Customs connected with the Calendar.
 
-<span id="fn_465"></span>[194:3](flos10.htm#fr_467) See chapter on
+<span id="fn_465"></span>[194:3](flos10.htm#fr_467.md) See chapter on
 Customs connected with Birth and Baptism.
 
-<span id="fn_466"></span>[194:4](flos10.htm#fr_468) Edited by Dyce,
+<span id="fn_466"></span>[194:4](flos10.htm#fr_468.md) Edited by Dyce,
 1861, p. 446. Many fanciful derivations for this word have been thought
 of, but it was no doubt named from its smoothness and softness,
 resembling the wool of lambs.
 
-<span id="fn_467"></span>[195:1](flos10.htm#fr_469) Dr Prior's "Popular
+<span id="fn_467"></span>[195:1](flos10.htm#fr_469.md) Dr Prior's "Popular
 Names of British Plants," 1870, p. 50.
 
-<span id="fn_468"></span>[195:2](flos10.htm#fr_470) Note on "Jonson's
+<span id="fn_468"></span>[195:2](flos10.htm#fr_470.md) Note on "Jonson's
 Works," iv. p. 24.
 
-<span id="fn_469"></span>[195:3](flos10.htm#fr_471) Dyce's "Glossary,"
+<span id="fn_469"></span>[195:3](flos10.htm#fr_471.md) Dyce's "Glossary,"
 p. 242.
 
-<span id="fn_470"></span>[195:4](flos10.htm#fr_472) Quoted by Nares’
+<span id="fn_470"></span>[195:4](flos10.htm#fr_472.md) Quoted by Nares’
 "Glossary," ii. p. 662.
 
-<span id="fn_471"></span>[195:5](flos10.htm#fr_473) "Plant-Lore of
+<span id="fn_471"></span>[195:5](flos10.htm#fr_473.md) "Plant-Lore of
 Shakespeare," p. 16.
 
-<span id="fn_472"></span>[196:1](flos10.htm#fr_474) "Theatrum
+<span id="fn_472"></span>[196:1](flos10.htm#fr_474.md) "Theatrum
 Botanicum," 1640.
 
-<span id="fn_473"></span>[196:2](flos10.htm#fr_475) "Plant-Lore of
+<span id="fn_473"></span>[196:2](flos10.htm#fr_475.md) "Plant-Lore of
 Shakespeare," pp. 17, 37.
 
-<span id="fn_474"></span>[196:3](flos10.htm#fr_476) "Glossary," pp. 65,
+<span id="fn_474"></span>[196:3](flos10.htm#fr_476.md) "Glossary," pp. 65,
 66.
 
-<span id="fn_475"></span>[197:1](flos10.htm#fr_477) See "Notes and
+<span id="fn_475"></span>[197:1](flos10.htm#fr_477.md) See "Notes and
 Queries," i. s. ii. p. 420.
 
-<span id="fn_476"></span>[197:2](flos10.htm#fr_478) See Henderson's
+<span id="fn_476"></span>[197:2](flos10.htm#fr_478.md) See Henderson's
 "Folk-Lore of Northern Counties," 1879, pp. 151, 152.
 
-<span id="fn_477"></span>[198:1](flos10.htm#fr_479) Napier's "Folk-Lore
+<span id="fn_477"></span>[198:1](flos10.htm#fr_479.md) Napier's "Folk-Lore
 of West of Scotland," 1879, p. 124.
 
-<span id="fn_478"></span>[198:2](flos10.htm#fr_480) Dr Prior's "Popular
+<span id="fn_478"></span>[198:2](flos10.htm#fr_480.md) Dr Prior's "Popular
 Names of British Plants," p. 13.
 
-<span id="fn_479"></span>[199:1](flos10.htm#fr_481) Nares’ "Glossary,"
+<span id="fn_479"></span>[199:1](flos10.htm#fr_481.md) Nares’ "Glossary,"
 i. p. 45.
 
-<span id="fn_480"></span>[199:2](flos10.htm#fr_482) See "Richard III.,"
+<span id="fn_480"></span>[199:2](flos10.htm#fr_482.md) See "Richard III.,"
 i. 2; "Timon of Athens," iii. 5.
 
-<span id="fn_481"></span>[199:3](flos10.htm#fr_483) See "2 Henry IV.,"
+<span id="fn_481"></span>[199:3](flos10.htm#fr_483.md) See "2 Henry IV.,"
 iv. 5.
 
-<span id="fn_482"></span>[199:4](flos10.htm#fr_484) "Plant-Lore of
+<span id="fn_482"></span>[199:4](flos10.htm#fr_484.md) "Plant-Lore of
 Shakespeare," p. 22.
 
-<span id="fn_483"></span>[200:1](flos10.htm#fr_485) Ellacombe's
+<span id="fn_483"></span>[200:1](flos10.htm#fr_485.md) Ellacombe's
 "Plant-lore of Shakespeare," p. 23.
 
-<span id="fn_484"></span>[200:2](flos10.htm#fr_486) See Dyce's
+<span id="fn_484"></span>[200:2](flos10.htm#fr_486.md) See Dyce's
 "Glossary," p. 32.
 
-<span id="fn_485"></span>[200:3](flos10.htm#fr_487) See also Evelyn's
+<span id="fn_485"></span>[200:3](flos10.htm#fr_487.md) See also Evelyn's
 "Sylva," 1776, p. 396.
 
-<span id="fn_486"></span>[200:4](flos10.htm#fr_488) "Glossary," i. p.
+<span id="fn_486"></span>[200:4](flos10.htm#fr_488.md) "Glossary," i. p.
 150. See Dyce's "Glossary," p. 63.
 
-<span id="fn_487"></span>[201:1](flos10.htm#fr_489) See Nares’
+<span id="fn_487"></span>[201:1](flos10.htm#fr_489.md) See Nares’
 "Glossary," i. p. 212.
 
-<span id="fn_488"></span>[202:1](flos10.htm#fr_490) "Shakspere's
+<span id="fn_488"></span>[202:1](flos10.htm#fr_490.md) "Shakspere's
 Garden," p. 343.
 
-<span id="fn_489"></span>[202:2](flos10.htm#fr_491) See "Winter's Tale,"
+<span id="fn_489"></span>[202:2](flos10.htm#fr_491.md) See "Winter's Tale,"
 (iv. 4):—
 
 <div style="margin-left: 32px">
@@ -2683,117 +2683,117 @@ Its transparency is alluded to in "Twelfth Night," (iii. 1):—
 
 </div>
 
-<span id="fn_490"></span>[202:3](flos10.htm#fr_492) See Dyce's
+<span id="fn_490"></span>[202:3](flos10.htm#fr_492.md) See Dyce's
 "Glossary," 1872, p. 113.
 
-<span id="fn_491"></span>[202:4](flos10.htm#fr_493) Douce's
+<span id="fn_491"></span>[202:4](flos10.htm#fr_493.md) Douce's
 "Illustrations of Shakespeare," 1839, p. 56. See Mr Gough's
 "Introduction to Sepulchral Monuments," p. lxvi.; also Nares’
 "Glossary," i. p. 221.
 
-<span id="fn_492"></span>[203:1](flos10.htm#fr_494) See Dr Prior's "Pop.
+<span id="fn_492"></span>[203:1](flos10.htm#fr_494.md) See Dr Prior's "Pop.
 Names of British Plants," 1870, p. 63.
 
-<span id="fn_493"></span>[205:1](flos10.htm#fr_495) "Flower Lore," p.
+<span id="fn_493"></span>[205:1](flos10.htm#fr_495.md) "Flower Lore," p.
 35.
 
-<span id="fn_494"></span>[205:2](flos10.htm#fr_496) "Plant Lore of
+<span id="fn_494"></span>[205:2](flos10.htm#fr_496.md) "Plant Lore of
 Shakespeare," p. 66.
 
-<span id="fn_495"></span>[205:3](flos10.htm#fr_497) Nares’ "Glossary,"
+<span id="fn_495"></span>[205:3](flos10.htm#fr_497.md) Nares’ "Glossary,"
 i. p. 302; Dyce's "Glossary," p. 159.
 
-<span id="fn_496"></span>[205:4](flos10.htm#fr_498) "Shakspere's
+<span id="fn_496"></span>[205:4](flos10.htm#fr_498.md) "Shakspere's
 Garden," p. 158.
 
-<span id="fn_497"></span>[206:1](flos10.htm#fr_499) Quoted in Nares’
+<span id="fn_497"></span>[206:1](flos10.htm#fr_499.md) Quoted in Nares’
 "Glossary," i. p. 303.
 
-<span id="fn_498"></span>[207:1](flos10.htm#fr_500) See Brand's "Pop.
+<span id="fn_498"></span>[207:1](flos10.htm#fr_500.md) See Brand's "Pop.
 Antiq.," 1849, i. pp. 314–316.
 
-<span id="fn_499"></span>[207:2](flos10.htm#fr_501) "Illustrations of
+<span id="fn_499"></span>[207:2](flos10.htm#fr_501.md) "Illustrations of
 Shakespeare," pp. 302–8.
 
-<span id="fn_500"></span>[207:3](flos10.htm#fr_502) See Nares’
+<span id="fn_500"></span>[207:3](flos10.htm#fr_502.md) See Nares’
 "Glossary," i. 305.
 
-<span id="fn_501"></span>[207:4](flos10.htm#fr_503) See Gifford's note
+<span id="fn_501"></span>[207:4](flos10.htm#fr_503.md) See Gifford's note
 on "Jonson's Works," i. p. 52; Dyce's "Glossary," p. 161; Du Cange's
 "Glossary;" Connelly's "Spanish and English Dictionary," 4to.
 
-<span id="fn_502"></span>[207:5](flos10.htm#fr_504) Edited by Dyce,
+<span id="fn_502"></span>[207:5](flos10.htm#fr_504.md) Edited by Dyce,
 1857, p. 30.
 
-<span id="fn_503"></span>[207:6](flos10.htm#fr_505) Edited by Gifford
+<span id="fn_503"></span>[207:6](flos10.htm#fr_505.md) Edited by Gifford
 and Dyce, i. p. 231.
 
-<span id="fn_504"></span>[208:1](flos10.htm#fr_506) "Glossary," p. 161.
+<span id="fn_504"></span>[208:1](flos10.htm#fr_506.md) "Glossary," p. 161.
 
-<span id="fn_505"></span>[208:2](flos10.htm#fr_507) See "Winter's Tale,"
+<span id="fn_505"></span>[208:2](flos10.htm#fr_507.md) See "Winter's Tale,"
 iv. 3; "Henry V.," v. 2; "1 Henry VI.," i. 1.
 
-<span id="fn_506"></span>[208:3](flos10.htm#fr_508) "Plant-lore of
+<span id="fn_506"></span>[208:3](flos10.htm#fr_508.md) "Plant-lore of
 Shakespeare," p. 73.
 
-<span id="fn_507"></span>[209:1](flos10.htm#fr_509) Nares’ "Glossary,"
+<span id="fn_507"></span>[209:1](flos10.htm#fr_509.md) Nares’ "Glossary,"
 i. p. 363.
 
-<span id="fn_508"></span>[209:2](flos10.htm#fr_510) "Shakspere's
+<span id="fn_508"></span>[209:2](flos10.htm#fr_510.md) "Shakspere's
 Garden," p. 82. See Dyce's "Glossary," p. 184.
 
-<span id="fn_509"></span>[210:1](flos10.htm#fr_511) Ellacombe's
+<span id="fn_509"></span>[210:1](flos10.htm#fr_511.md) Ellacombe's
 "Plant-Lore of Shakespeare," p. 204; Prior's "Popular Names of British
 Plants," 1870, p. 111.
 
-<span id="fn_510"></span>[210:2](flos10.htm#fr_512) Cf. "All's Well that
+<span id="fn_510"></span>[210:2](flos10.htm#fr_512.md) Cf. "All's Well that
 Ends Well," iv. 5; "Antony and Cleopatra," iv. 2; "Romeo and Juliet,"
 ii. 3, where Friar Laurence says" In man as well as herbs, grace and
 rude will."
 
-<span id="fn_511"></span>[210:3](flos10.htm#fr_513) "A Dissuasive from
+<span id="fn_511"></span>[210:3](flos10.htm#fr_513.md) "A Dissuasive from
 Popery," pt. i., chap. ii. sec. 9; see Dyce's "Glossary," p. 371.
 
-<span id="fn_512"></span>[211:1](flos10.htm#fr_514) Nares’ "Glossary,"
+<span id="fn_512"></span>[211:1](flos10.htm#fr_514.md) Nares’ "Glossary,"
 i. p. 464.
 
-<span id="fn_513"></span>[211:2](flos10.htm#fr_515) Batman "Uppon
+<span id="fn_513"></span>[211:2](flos10.htm#fr_515.md) Batman "Uppon
 Bartholomæus de Propriet. rerum," lib. xvii. chap. 87.
 
-<span id="fn_514"></span>[211:3](flos10.htm#fr_516) "Glossary," i. p.
+<span id="fn_514"></span>[211:3](flos10.htm#fr_516.md) "Glossary," i. p.
 465.
 
-<span id="fn_515"></span>[212:1](flos10.htm#fr_517) See Hotten's
+<span id="fn_515"></span>[212:1](flos10.htm#fr_517.md) See Hotten's
 "History of Sign Boards."
 
-<span id="fn_516"></span>[212:2](flos10.htm#fr_518) "Shakespeare," iii.
+<span id="fn_516"></span>[212:2](flos10.htm#fr_518.md) "Shakespeare," iii.
 p. 112.
 
-<span id="fn_517"></span>[212:3](flos10.htm#fr_519) See Nares’
+<span id="fn_517"></span>[212:3](flos10.htm#fr_519.md) See Nares’
 "Glossary," ii. p. 482.
 
-<span id="fn_518"></span>[212:4](flos10.htm#fr_520) "Popular Names of
+<span id="fn_518"></span>[212:4](flos10.htm#fr_520.md) "Popular Names of
 British Plants," 1879, p. 128.
 
-<span id="fn_519"></span>[213:1](flos10.htm#fr_521) Polygonum Aviculare.
+<span id="fn_519"></span>[213:1](flos10.htm#fr_521.md) Polygonum Aviculare.
 
-<span id="fn_520"></span>[213:2](flos10.htm#fr_522) See "3 Henry VI."
+<span id="fn_520"></span>[213:2](flos10.htm#fr_522.md) See "3 Henry VI."
 iv. 6; "Troilus and Cressida," i. 3.
 
-<span id="fn_521"></span>[214:1](flos10.htm#fr_523) See "Henry V." iv.
+<span id="fn_521"></span>[214:1](flos10.htm#fr_523.md) See "Henry V." iv.
 1.
 
-<span id="fn_522"></span>[214:2](flos10.htm#fr_524) "Cambrian
+<span id="fn_522"></span>[214:2](flos10.htm#fr_524.md) "Cambrian
 Biography," 3803, p. 86; see Brand's "Popular Antiquities," 3849, i. pp.
 302–108.
 
-<span id="fn_523"></span>[215:1](flos10.htm#fr_525) See Dr Prior's
+<span id="fn_523"></span>[215:1](flos10.htm#fr_525.md) See Dr Prior's
 "Popular Names of British Plants," 1870, p. 339.
 
-<span id="fn_524"></span>[215:2](flos10.htm#fr_526) Cf. "Taming of the
+<span id="fn_524"></span>[215:2](flos10.htm#fr_526.md) Cf. "Taming of the
 Shrew," i. 3.
 
-<span id="fn_525"></span>[215:3](flos10.htm#fr_527) Cf. what Egeus says
+<span id="fn_525"></span>[215:3](flos10.htm#fr_527.md) Cf. what Egeus says
 (i. 1) when speaking of Lysander—
 
 <div style="margin-left: 32px">
@@ -2804,122 +2804,122 @@ Shrew," i. 3.
 
 </div>
 
-<span id="fn_526"></span>[216:1](flos10.htm#fr_528) Dian's bud is the
+<span id="fn_526"></span>[216:1](flos10.htm#fr_528.md) Dian's bud is the
 bud of the agnus castus, or chaste tree. "The virtue this herbe is, that
 he will kepe man and woman chaste." "Macer's Herbal," 1527.
 
-<span id="fn_527"></span>[216:2](flos10.htm#fr_529) Cupid's flower,
+<span id="fn_527"></span>[216:2](flos10.htm#fr_529.md) Cupid's flower,
 another name for the pansy.
 
-<span id="fn_528"></span>[216:3](flos10.htm#fr_530) Notes to "A
+<span id="fn_528"></span>[216:3](flos10.htm#fr_530.md) Notes to "A
 Midsummer Night's Dream," 1877. Preface p. xx.
 
-<span id="fn_529"></span>[217:1](flos10.htm#fr_531) "Natural History,"
+<span id="fn_529"></span>[217:1](flos10.htm#fr_531.md) "Natural History,"
 book xxv. chap. 94.
 
-<span id="fn_530"></span>[218:1](flos10.htm#fr_532) Phillips’ "Flora
+<span id="fn_530"></span>[218:1](flos10.htm#fr_532.md) Phillips’ "Flora
 Historica," 1829, i. pp. 324, 325. See Smith's "Dictionary of the
 Bible," 1869, ii. p. 1777.
 
-<span id="fn_531"></span>[218:2](flos10.htm#fr_533) "Mystic Trees and
+<span id="fn_531"></span>[218:2](flos10.htm#fr_533.md) "Mystic Trees and
 Flowers," by M. D. Conway; "Fraser's Mag.," 1870, ii. p. 705.
 
-<span id="fn_532"></span>[218:3](flos10.htm#fr_534) Singer's
+<span id="fn_532"></span>[218:3](flos10.htm#fr_534.md) Singer's
 "Shakespeare," 1875, v. p. 153.
 
-<span id="fn_533"></span>[218:4](flos10.htm#fr_535) See Sir Thomas
+<span id="fn_533"></span>[218:4](flos10.htm#fr_535.md) See Sir Thomas
 Browne's "Vulgar Errors," 1852, ii. p. 6.
 
-<span id="fn_534"></span>[219:1](flos10.htm#fr_536) "Illustrations of
+<span id="fn_534"></span>[219:1](flos10.htm#fr_536.md) "Illustrations of
 Shakspeare," p. 386.
 
-<span id="fn_535"></span>[220:1](flos10.htm#fr_537) See page 15.
+<span id="fn_535"></span>[220:1](flos10.htm#fr_537.md) See page 15.
 
-<span id="fn_536"></span>[220:2](flos10.htm#fr_538) "Plant-Lore of
+<span id="fn_536"></span>[220:2](flos10.htm#fr_538.md) "Plant-Lore of
 Shakespeare," p. 131.
 
-<span id="fn_537"></span>[220:3](flos10.htm#fr_539) Nares’ "Glossary,"
+<span id="fn_537"></span>[220:3](flos10.htm#fr_539.md) Nares’ "Glossary,"
 ii. p. 612.
 
-<span id="fn_538"></span>[221:1](flos10.htm#fr_540) See "Windsor Guide,"
+<span id="fn_538"></span>[221:1](flos10.htm#fr_540.md) See "Windsor Guide,"
 p. 5.
 
-<span id="fn_539"></span>[221:2](flos10.htm#fr_541) See "Notes and
+<span id="fn_539"></span>[221:2](flos10.htm#fr_541.md) See "Notes and
 Queries," 3d Series, xii. p. 160.
 
-<span id="fn_540"></span>[222:1](flos10.htm#fr_542) "3 Henry VI.," iv.
+<span id="fn_540"></span>[222:1](flos10.htm#fr_542.md) "3 Henry VI.," iv.
 6; "Timon of Athens," v. 4; "Antony and Cleopatra," iv. 6; "2 Henry
 IV.," iv. 4.
 
-<span id="fn_541"></span>[222:2](flos10.htm#fr_543) See "As You Like
+<span id="fn_541"></span>[222:2](flos10.htm#fr_543.md) See "As You Like
 It," iii. 2; "Timon of Athens," v. i; Cf. "Henry VIII.," iv. 2.
 
-<span id="fn_542"></span>[223:1](flos10.htm#fr_544) See "Archæological
+<span id="fn_542"></span>[223:1](flos10.htm#fr_544.md) See "Archæological
 Journal," v. p. 301.
 
-<span id="fn_543"></span>[223:2](flos10.htm#fr_545) The cod was what we
+<span id="fn_543"></span>[223:2](flos10.htm#fr_545.md) The cod was what we
 now call the pod.
 
-<span id="fn_544"></span>[223:3](flos10.htm#fr_546) See Brand's "Pop.
+<span id="fn_544"></span>[223:3](flos10.htm#fr_546.md) See Brand's "Pop.
 Antiq.," 1849, ii. p. 99.
 
-<span id="fn_545"></span>[224:1](flos10.htm#fr_547) See "Love's Labour's
+<span id="fn_545"></span>[224:1](flos10.htm#fr_547.md) See "Love's Labour's
 Lost," iii. 1.
 
-<span id="fn_546"></span>[224:2](flos10.htm#fr_548) "Glossary," ii. p.
+<span id="fn_546"></span>[224:2](flos10.htm#fr_548.md) "Glossary," ii. p.
 677.
 
-<span id="fn_547"></span>[224:3](flos10.htm#fr_549) See Beaumont &
+<span id="fn_547"></span>[224:3](flos10.htm#fr_549.md) See Beaumont &
 Fletcher, "Elder Brother," iv. 4; Massinger, "New Way to Pay," ii. 2;
 Ben Jonson, "Cynthia's Revels," ii. 1, etc.
 
-<span id="fn_548"></span>[224:4](flos10.htm#fr_550) "Plant-Lore of
+<span id="fn_548"></span>[224:4](flos10.htm#fr_550.md) "Plant-Lore of
 Shakespeare," p. 173.
 
-<span id="fn_549"></span>[225:1](flos10.htm#fr_551) Ellacombe,
+<span id="fn_549"></span>[225:1](flos10.htm#fr_551.md) Ellacombe,
 "Plant-Lore of Shakespeare," p. 179.
 
-<span id="fn_550"></span>[226:1](flos10.htm#fr_552) Singer's
+<span id="fn_550"></span>[226:1](flos10.htm#fr_552.md) Singer's
 "Shakspeare," 1875, ix. p. 227.
 
-<span id="fn_551"></span>[226:2](flos10.htm#fr_553) "Hamlet," Wright and
+<span id="fn_551"></span>[226:2](flos10.htm#fr_553.md) "Hamlet," Wright and
 Clarke, 1876, p. 579.
 
-<span id="fn_552"></span>[226:3](flos10.htm#fr_554) "Costume in
+<span id="fn_552"></span>[226:3](flos10.htm#fr_554.md) "Costume in
 England," p. 238. At p. 579 the author gives several instances of the
 extravagances to which this fashion led.
 
-<span id="fn_553"></span>[226:4](flos10.htm#fr_555) Some gallants had
+<span id="fn_553"></span>[226:4](flos10.htm#fr_555.md) Some gallants had
 their ears bored, and wore their mistresses' silken shoe-strings in
 them. See Singer's notes, iv. 257.
 
-<span id="fn_554"></span>[228:1](flos10.htm#fr_556) Dyce's "Glossary,"
+<span id="fn_554"></span>[228:1](flos10.htm#fr_556.md) Dyce's "Glossary,"
 p. 373.
 
-<span id="fn_555"></span>[228:2](flos10.htm#fr_557) \*
+<span id="fn_555"></span>[228:2](flos10.htm#fr_557.md) \*
 
-<span id="fn_556"></span>[229:1](flos10.htm#fr_558) See Brand's "Pop.
+<span id="fn_556"></span>[229:1](flos10.htm#fr_558.md) See Brand's "Pop.
 Antiq.," 1849, ii. pp. 13, 14.
 
-<span id="fn_557"></span>[229:2](flos10.htm#fr_559) Douce's
+<span id="fn_557"></span>[229:2](flos10.htm#fr_559.md) Douce's
 "Illustrations of Shakspeare," 1839, p. 194.
 
-<span id="fn_558"></span>[229:3](flos10.htm#fr_560) Dyce's "Glossary,"
+<span id="fn_558"></span>[229:3](flos10.htm#fr_560.md) Dyce's "Glossary,"
 p. 381.
 
-<span id="fn_559"></span>[230:1](flos10.htm#fr_561) "Plant Lore of
+<span id="fn_559"></span>[230:1](flos10.htm#fr_561.md) "Plant Lore of
 Shakespeare," p. 319.
 
-<span id="fn_560"></span>[231:1](flos10.htm#fr_562) See [p.
-65](flos07.htm#page_65).
+<span id="fn_560"></span>[231:1](flos10.htm#fr_562.md) See [p.
+65](flos07.htm#page_65.md).
 
-<span id="fn_561"></span>[231:2](flos10.htm#fr_563) "Plant-Lore of
+<span id="fn_561"></span>[231:2](flos10.htm#fr_563.md) "Plant-Lore of
 Shakespeare," p. 248.
 
-<span id="fn_562"></span>[232:1](flos10.htm#fr_564) "Shakespeare," iv.
+<span id="fn_562"></span>[232:1](flos10.htm#fr_564.md) "Shakespeare," iv.
 p. 76.
 
-<span id="fn_563"></span>[232:2](flos10.htm#fr_565) "The old ballad on
+<span id="fn_563"></span>[232:2](flos10.htm#fr_565.md) "The old ballad on
 which Shakespeare formed this song is given in Percy's 'Reliques of
 Ancient Poetry' (1794, i. p. 208), from a copy in the Pepysian
 collection. A different version of it may be seen in Chappell's 'Popular
@@ -2927,29 +2927,29 @@ Music of the Olden Time' (2d edition, i. p. 207). The original ditty is
 the lamentation of a lover for the inconstancy of his mistress."—Dyce's
 "Shakespeare," vii. p. 450.
 
-<span id="fn_564"></span>[233:1](flos10.htm#fr_566) "Illustrations of
+<span id="fn_564"></span>[233:1](flos10.htm#fr_566.md) "Illustrations of
 Shakspeare," p. 105.
 
-<span id="fn_565"></span>[234:1](flos10.htm#fr_567) Douce's
+<span id="fn_565"></span>[234:1](flos10.htm#fr_567.md) Douce's
 "Illustrations of Shakspeare," p. 244.
 
-<span id="fn_566"></span>[234:2](flos10.htm#fr_568) See Brand's "Pop.
+<span id="fn_566"></span>[234:2](flos10.htm#fr_568.md) See Brand's "Pop.
 Antiq.," 1849, ii. pp. 255–266
 
-<span id="fn_567"></span>[234:3](flos10.htm#fr_569) "Notes and Queries,"
+<span id="fn_567"></span>[234:3](flos10.htm#fr_569.md) "Notes and Queries,"
 5th S. xii. p. 468.
 
-<span id="fn_568"></span>[235:1](flos10.htm#fr_570) Extract of a paper
+<span id="fn_568"></span>[235:1](flos10.htm#fr_570.md) Extract of a paper
 read by Rev. W. A. Harrison—New Shakespeare Society, 12th May 1882.
 
-<span id="fn_569"></span>[235:2](flos10.htm#fr_571) See Douce's
+<span id="fn_569"></span>[235:2](flos10.htm#fr_571.md) See Douce's
 "Illustrations of Shakspeare;" Nares’ "Glossary," i. p. 412; Beisly's
 "Shakspere's Garden," p. 4.
 
-<span id="fn_570"></span>[235:3](flos10.htm#fr_572) Singer's
+<span id="fn_570"></span>[235:3](flos10.htm#fr_572.md) Singer's
 "Shakespeare," iv. p. 427. See a paper in the "Antiquary" (1882, vi.
 p.33), by Mr George Black, on the yew in Shakespearian folk-lore.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Insects and Reptiles](flos11)
+[Next: Chapter IX. Insects and Reptiles](flos11.md)

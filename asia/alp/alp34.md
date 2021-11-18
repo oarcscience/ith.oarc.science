@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp33) 
-[Next](alp35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp33.md) 
+[Next](alp35.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ With the war-notes in his ear.
 
 ------------------------------------------------------------------------
 
-[Next: The Wind is Howling Through the Winter Night](alp35)
+[Next: The Wind is Howling Through the Winter Night](alp35.md)

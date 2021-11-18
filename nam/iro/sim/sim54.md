@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim53)  [Next](sim55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim53)  [Next](sim55.md) 
 
 ------------------------------------------------------------------------
 
@@ -195,7 +195,7 @@ young man took a clam shell and threw it toward the opposite bank.
 Immediately the banks came together and the three stepped over. When
 they had crossed and the lake had again resumed its natural size they
 looked back but could scarcely see, at one look, <span
-id="fr_8"></span>[1](#fn_8) the bank they had left. The young man,
+id="fr_8"></span>[1](#fn_8.md) the bank they had left. The young man,
 thinking that when his uncle came to the lake he would be long in
 crossing, left his wife and went to hunt for game.
 
@@ -561,10 +561,10 @@ They all lived together now and were happy.
 
 ### Footnotes
 
-<span id="fn_8"></span>[311:1](sim54.htm#fr_8) As far as one can see.
+<span id="fn_8"></span>[311:1](sim54.htm#fr_8.md) As far as one can see.
 The distance varies, of course, with the position of the spectator and
 the nature of the country.
 
 ------------------------------------------------------------------------
 
-[Next: A Lazy Man](sim55)
+[Next: A Lazy Man](sim55.md)

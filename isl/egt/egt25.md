@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt24)  [Next](egt26) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt24)  [Next](egt26.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ to thee hadst thou not been a fool and a madman.
 
 ------------------------------------------------------------------------
 
-[Next: OF THE TRAVELLER ON THE PATH.](egt26)
+[Next: OF THE TRAVELLER ON THE PATH.](egt26.md)

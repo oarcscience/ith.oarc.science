@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc18)  [Next](ogc20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc18)  [Next](ogc20.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ manner in which it sets things moving.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10](ogc20)
+[Next: Chapter 10](ogc20.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil51)  [Next](egil53) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil51)  [Next](egil53.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ subjects.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LII. Of the gathering of the host.](egil53)
+[Next: CHAPTER LII. Of the gathering of the host.](egil53.md)

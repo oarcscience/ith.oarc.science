@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pey03)  [Next](pey05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pey03)  [Next](pey05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Heritage
 
 ------------------------------------------------------------------------
 
-### J.B.'s ACCOUNT OF THE LEADER OF THE PEYOTE <span id="fr_0"></span>[1](#fn_0)
+### J.B.'s ACCOUNT OF THE LEADER OF THE PEYOTE <span id="fr_0"></span>[1](#fn_0.md)
 
 (Pl. 3)
 
@@ -63,9 +63,9 @@ ceremonies.
 
 ### Footnotes
 
-<span id="fn_0"></span>[348:1](pey04.htm#fr_0) The narrator was a very
+<span id="fn_0"></span>[348:1](pey04.htm#fr_0.md) The narrator was a very
 lukewarm follower.
 
 ------------------------------------------------------------------------
 
-[Next: Albert Hensley's Account of the Peyote](pey05)
+[Next: Albert Hensley's Account of the Peyote](pey05.md)

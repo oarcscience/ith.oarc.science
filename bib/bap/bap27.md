@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap26) 
-[Next](bap28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap26.md) 
+[Next](bap28.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ out of the land of Egypt, they came into the wilderness of Sinai*. And
 God remembered his word and said: I will give light unto the world, and
 lighten the habitable places, and make my covenant with the children of
 men, and glorify my people above all nations, for unto them will I put
-forth an eternal exaltation <span id="fr_53"></span>[1](#fn_53) which
+forth an eternal exaltation <span id="fr_53"></span>[1](#fn_53.md) which
 shall be unto them a light, but unto the ungodly a chastisement. 2. And
 he said unto Moses: Behold, I will call thee to-morrow: be thou ready
 and tell my people: "For three days let not a man come near his wife,"
@@ -25,7 +25,7 @@ thou shalt come up unto me. And I will put my words in thy mouth and
 thou shalt enlighten my people. For I have given into thy hands an
 everlasting law whereby I will judge all the world. For this shall be
 for a testimony. For if men say: "We have not known thee, <span
-id="fr_54"></span>[2](#fn_54) and therefore we have not served
+id="fr_54"></span>[2](#fn_54.md) and therefore we have not served
 
 <span id="page_107">p. 107</span>
 
@@ -50,7 +50,7 @@ were sanctified. 4. *And it came to pass on the 3rd day*
 brightness of lightnings and the voice of instruments sounding aloud.
 And there was fear upon all the people that were in the camp. And Moses
 put forth the people to meet God*. 5.  <span
-id="fr_55"></span>[1](#fn_55) And behold the mountains burned with fire
+id="fr_55"></span>[1](#fn_55.md) And behold the mountains burned with fire
 and the earth shook and the hills were removed and the mountains
 overthrown: the depths boiled, and all the habitable places were shaken:
 and the heavens were folded up and the clouds drew up water. And flames
@@ -98,7 +98,7 @@ in vain*.
 |----------|
 | Ex. 20:8 |
 
-8\.  <span id="fr_56"></span>[1](#fn_56) *Keep the sabbath day to
+8\.  <span id="fr_56"></span>[1](#fn_56.md) *Keep the sabbath day to
 sanctify it. Six days do thy work, but the seventh day is the sabbath of
 the Lord. In it thou shall do no work, thou and all* thy
 
@@ -110,7 +110,7 @@ labourers, saving that therein *ye praise the Lord in the congregation
 of the elders and glorify* the Mighty One *in the seat of the aged. For
 in six days the Lord made heaven and earth, the sea and all that are in
 them*, and all the world, the wilderness that is not inhabited, and all
-things that do labour, <span id="fr_57"></span>[2](#fn_57) and all the
+things that do labour, <span id="fr_57"></span>[2](#fn_57.md) and all the
 order of the heaven, *and God rested*
 
 |          |
@@ -158,7 +158,7 @@ death.
 | Ex. 20:16 |
 
 *thy neighbour*, speaking falsely, lest thy watchmen <span
-id="fr_58"></span>[1](#fn_58) speak falsely against thee.
+id="fr_58"></span>[1](#fn_58.md) speak falsely against thee.
 
 13\. *Thou shall not covet thy neighbor's house, nor*
 
@@ -180,7 +180,7 @@ not God speak unto us, lest peradventure we die*. For, lo, to-day we
 know that God speaketh with man face to face, and man shall live. And
 now have we perceived of a truth how that the earth bare the voice of
 God with trembling. And Moses said unto them: Fear not,
-[for](errata.htm#0) this cause came this voice unto you, that ye should
+[for](errata.htm#0.md) this cause came this voice unto you, that ye should
 not sin (or, for this cause, that he might prove. you, God came unto
 you, that ye might receive the fear of him unto you, that ye sin not).
 15. *And all the people*
@@ -193,7 +193,7 @@ you, that ye might receive the fear of him unto you, that ye sin not).
 was there. And then God spake unto him his justice and judgements, and
 kept him by him 40 days and 40 nights. And there did he command him many
 things, and showed him the tree of life,  <span
-id="fr_59"></span>[2](#fn_59) whereof he cut and
+id="fr_59"></span>[2](#fn_59.md) whereof he cut and
 
 <span id="page_110">p. 110</span>
 
@@ -212,34 +212,34 @@ for me a sanctuary and the tabernacle of my glory shall be among you.
 
 ### Footnotes
 
-<span id="fn_53"></span>[106:1](bap27.htm#fr_53) XI. 1. *For upon them
+<span id="fn_53"></span>[106:1](bap27.htm#fr_53.md) XI. 1. *For upon them
 will I put forth an eternal exaltation*: *in quem eliciam excelsa
 sempiterna*, or *in whom I have ordained high things eternal*. *In quo
 disposui excelsa sempiterna*. In either case the Law is meant.
 
-<span id="fn_54"></span>[106:2](bap27.htm#fr_54) 2. *If men say*, "*we
+<span id="fn_54"></span>[106:2](bap27.htm#fr_54.md) 2. *If men say*, "*we
 have not known thee*," etc. Compare <span id="page_107">p. 107</span>
 the injunction to the Apostles in a fragment of the *Preaching of
 Peter*: "After twelve years go forth into the world, lest any say, 'we
 did not hear.'"
 
-<span id="fn_55"></span>[107:1](bap27.htm#fr_55) 5. Similar lists of the
+<span id="fn_55"></span>[107:1](bap27.htm#fr_55.md) 5. Similar lists of the
 wonders which accompanied the giving of the Law are in XV. 6, XXIII. 10,
 XXXII. 7, 8.
 
-<span id="fn_56"></span>[108:1](bap27.htm#fr_56) 8. The gloss on the 4th
+<span id="fn_56"></span>[108:1](bap27.htm#fr_56.md) 8. The gloss on the 4th
 Commandment, as Dr. Cohn says, shows that the writer has little interest
 in the Temple services, and is appropriate to a time when those services
 had ceased. It is rather the Synagogue and its ritual that occur to him
 as the obvious form of worship. The words are adapted from Ps. cvii. 32.
 
-<span id="fn_57"></span>[108:2](bap27.htm#fr_57) *all things that do
+<span id="fn_57"></span>[108:2](bap27.htm#fr_57.md) *all things that do
 labour*: *quaecunque oberantur*.
 
-<span id="fn_58"></span>[109:1](bap27.htm#fr_58) 12. thy watchmen:
+<span id="fn_58"></span>[109:1](bap27.htm#fr_58.md) 12. thy watchmen:
 custodes. I interpret this of angels.
 
-<span id="fn_59"></span>[109:2](bap27.htm#fr_59) 15. The statement that
+<span id="fn_59"></span>[109:2](bap27.htm#fr_59.md) 15. The statement that
 the tree of life sweetened the waters of Marah, and that these were the
 waters that followed Israel, are both peculiar to this book. For Marah
 the MSS. seen by me read *myrrha*, but the Fulda MS. has *myrra*; it is
@@ -247,4 +247,4 @@ the MSS. seen by me read *myrrha*, but the Fulda MS. has *myrra*; it is
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](bap28)
+[Next: Chapter XII](bap28.md)

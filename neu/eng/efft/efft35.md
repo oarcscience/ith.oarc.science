@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft34)  [Next](efft36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft34)  [Next](efft36.md) 
 
 ------------------------------------------------------------------------
 
-# THE FAIRY FAIR  <span id="fr_41"></span>[1](#fn_41)
+# THE FAIRY FAIR  <span id="fr_41"></span>[1](#fn_41.md)
 
 READING once the eighteenth of Mr. Glanvil's relations, p. 203,
 concerning an Irishman that had like to have been carried away by
@@ -63,9 +63,9 @@ for that every one that had done so had received great damage by it.
 
 ### Footnotes
 
-<span id="fn_41"></span>[1](efft35.htm#fr_41) T . Keightley, *The Fairy
+<span id="fn_41"></span>[1](efft35.htm#fr_41.md) T . Keightley, *The Fairy
 Mythology*, p. 294, quoting Bovet's *Pandemonium*.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairies' Caldron](efft36)
+[Next: The Fairies' Caldron](efft36.md)

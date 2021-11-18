@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos04)  [Next](pos06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos04)  [Next](pos06.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ therefore, I will give an account in outline.
 
 When the Lord of the world had combined the Eight Factors–humanity and
 the rest of Buddhahood–when, having made his great resolve at the feet
-of the Buddha Dīpankără,[<sup>63</sup>](pos05.htm#3-1) and mastering
+of the Buddha Dīpankără,[<sup>63</sup>](pos05.htm#3-1.md) and mastering
 equally all the Thirty Perfections, according to the prophecy of the
 Four-and-Twenty Buddha in succession concerning him, he had reached the
 climax in his progress towards wisdom, knowledge of the world and
@@ -50,7 +50,7 @@ remainder of that night he traversed three kingdoms, and, coming to the
 bank of the river Anomā, and taking the outward marks of an Arahant,
 brought to him by the Brahmā-god Ghaṭīkāra, he left the world.
 Thereupon, as though he were already an Elder with the eight requisites,
-[<sup>64</sup>](pos05.htm#4-1) comely in appearance and of graceful
+[<sup>64</sup>](pos05.htm#4-1.md) comely in appearance and of graceful
 deportment, he came in due course to Rājagaha, and there going round for
 alms, he ate his meal in the cave of Mount Paṇḍava. There the King of
 Magadha offered him his kingdom. But he, refusing it, went to Bhaggava's
@@ -60,11 +60,11 @@ there for six years practised austerities. Then, discerning that this
 brought no penetration of the Ariyan Norm, he said, 'This is not the
 Path to Enlightenment,' and, taking solid food, he in a few days
 recovered strength. So, on full-moon day in the month of May, he ate the
-choice food given by Sujātā, [<sup>65</sup>](pos05.htm#4-2) and, casting
+choice food given by Sujātā, [<sup>65</sup>](pos05.htm#4-2.md) and, casting
 the golden dish upstream into the river, he, full of his resolve,
 'To-day will I become a Buddha!' ascended at eventide the Bo-tree
 seat–his praises sung by Kāla, king of the Nāgas–and there, in a
-quakeless spot [<sup>66</sup>](pos05.htm#5-1) facing the eastern world,
+quakeless spot [<sup>66</sup>](pos05.htm#5-1.md) facing the eastern world,
 seated him cross-legged and indomitable. There, fixing his will in four
 respects, he vanquished the power of Māra ere the sun went down. In the
 first watch of the night he recalled his former lives; in the middle
@@ -75,9 +75,9 @@ reached that perfect enlightenment reached by all Buddhas but shared by
 no one else. There then abiding seven days in the Fruition which has
 Nibbana as its object, and, in the same manner, abiding yet other seven
 days on the Bo-tree seat, he partook of sweet food beneath the
-Rājāyatana tree.[<sup>67</sup>](pos05.htm#5-2) Then, again, seated
+Rājāyatana tree.[<sup>67</sup>](pos05.htm#5-2.md) Then, again, seated
 beneath the Goatherds' Banyan, he reflected on the depth of the essence
-of the Norm. [<sup>68</sup>](pos05.htm#5-3) And his mind was disinclined
+of the Norm. [<sup>68</sup>](pos05.htm#5-3.md) And his mind was disinclined
 for effort till he was entreated by Great Brahmā; but then he gazed upon
 the world with the Buddha-Eye, and, seeing all the diverse range of
 faculties in all beings, he promised Great Brahmā that he would teach
@@ -87,10 +87,10 @@ discerned that Āḷāra and Uddaka had passed away; but then he thought,
 off from my ascetic struggles. What if I were first to preach to them?'
 So, in the full moon of July, he went from the Great Bo-tree toward
 Benāres. And when he had travelled eighteen leagues, he met halfway the
-recluse Upaka [<sup>69</sup>](pos05.htm#5-4) and conversed with him; and
+recluse Upaka [<sup>69</sup>](pos05.htm#5-4.md) and conversed with him; and
 so on to Isipatana, where he convinced the Five by means of the
 Discourse called Turning the Wheel of the Norm,
-[<sup>70</sup>](pos05.htm#5-5) beginning:
+[<sup>70</sup>](pos05.htm#5-5.md) beginning:
 
 > 'There are two extremes, O bhikkhus, which the man who has given up
 > the world ought not to follow' . . .
@@ -103,7 +103,7 @@ the second day, Elder Vappa; on the third day, Elder Mahānāma; on the
 fourth, Elder Assaji; and on the fifth day, by preaching the sermon of
 the Mark of No-Soul, he established them all in Arahantship. Thereafter
 he brought over many folk into the Ariyan fold
-[<sup>71</sup>](pos05.htm#6-1) –to wit, the fifty-five youths led by
+[<sup>71</sup>](pos05.htm#6-1.md) –to wit, the fifty-five youths led by
 Yasa, the thirty Bhaddavaggiyans in the Cotton-tree Grove, and the
 thousand former ascetics on the ridge of Gayā-Head. And when he had
 established eleven myriads, with Bimbisāra at their head, in the fruit
@@ -115,15 +115,15 @@ Buddha with their respective followings, and had realized the topmost
 Fruition, he set them, who had attained the perfection of discipleship,
 over all his disciples. Then, going at the entreaty of Elder Kāḷudāyi to
 Kapilavatthu, he subdued the proud stubbornness of his kinsmen by the
-Twin Miracle, [<sup>72</sup>](pos05.htm#6-2) and establishing his father
+Twin Miracle, [<sup>72</sup>](pos05.htm#6-2.md) and establishing his father
 in the Path of No-Return, and Great Pajāpatī
-[<sup>73</sup>](pos05.htm#6-3) in the Fruition of Entering the Stream,
-and causing the princes Nanda and Rāhula [<sup>74</sup>](pos05.htm#6-4)
+[<sup>73</sup>](pos05.htm#6-3.md) in the Fruition of Entering the Stream,
+and causing the princes Nanda and Rāhula [<sup>74</sup>](pos05.htm#6-4.md)
 to renounce the world, he went back to Rājagaha.
 
 Now it came thereafter to pass, while the Master was staying at the Hall
 of the Gabled House near Vesālī, that King Suddhodhana attained
-Arahantship while under the white canopy, [<sup>75</sup>](pos05.htm#6-5)
+Arahantship while under the white canopy, [<sup>75</sup>](pos05.htm#6-5.md)
 and then passed away. Then in Great Pajāpatī arose the thought of
 renouncing the world. Then there came to her the wives of those five
 hundred young nobles who had renounced the world on hearing, on the bank
@@ -136,7 +136,7 @@ off her hair, and donning the yellow robes, she took all those Sākiya
 ladies with her to Vesālī, and there entreating Him of the Tenfold Power
 through Elder Ānanda, she gained his permission to leave the world and
 enter the Order by accepting the Eight Rules.
-[<sup>76</sup>](pos05.htm#7-1) And the others, also, were all ordained
+[<sup>76</sup>](pos05.htm#7-1.md) And the others, also, were all ordained
 at the same time.
 
 This, in brief, is the story. What is here said has been handed down at
@@ -146,7 +146,7 @@ Thus ordained, Great Pajāpatī came before the Master, and, saluting him,
 stood on one side. Then he taught her the Norm. She, taking up under him
 the system of exercise, attained to Arahantship. The other five hundred
 Bhikkhunīs attained it at the end of Nandaka's
-sermon.[<sup>77</sup>](pos05.htm#7-2) Now the Order of Bhikkhunīs being
+sermon.[<sup>77</sup>](pos05.htm#7-2.md) Now the Order of Bhikkhunīs being
 thus well established, and multiplying in divers villages, towns,
 country districts, and royal residences, dames, daughters-in-law and
 maidens of the clans, hearing of the great enlightenment of the Buddha,
@@ -191,7 +191,7 @@ verses, two verses, and so on, as follows:
 
 <span id="5-4"></span>
 
-> <sup>69</sup> See his story in Ps. [lxviii](pos18.htm#LXVIII).
+> <sup>69</sup> See his story in Ps. [lxviii](pos18.htm#LXVIII.md).
 
 <span id="5-5"></span>
 
@@ -210,7 +210,7 @@ verses, two verses, and so on, as follows:
 <span id="6-3"></span>
 
 > <sup>73</sup> The sister and co-wife of the Buddha's mother. See Ps.
-> [lv](pos11.htm#LV).
+> [lv](pos11.htm#LV.md).
 
 <span id="6-4"></span>
 
@@ -232,4 +232,4 @@ verses, two verses, and so on, as follows:
 
 ------------------------------------------------------------------------
 
-[Next: Canto I. Psalms of Single Verses](pos06)
+[Next: Canto I. Psalms of Single Verses](pos06.md)

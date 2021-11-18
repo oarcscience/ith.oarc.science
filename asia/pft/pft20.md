@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft19)  [Next](pft21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft19)  [Next](pft21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -40,8 +40,8 @@ kettles, sixteen jars of basi, two blankets, and two little pigs.
 
 The surprise of the girl's people knew no bounds when they saw all this
 coming to their house, for they had not even thought of Siagon marrying
-their daughter.  <span id="fr_86"></span>[87](pft68.htm#fn_86)
+their daughter.  <span id="fr_86"></span>[87](pft68.htm#fn_86.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Boy who Became a Stone](pft21)
+[Next: The Boy who Became a Stone](pft21.md)

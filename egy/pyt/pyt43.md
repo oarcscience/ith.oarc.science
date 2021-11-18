@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt42)  [Next](pyt44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt42)  [Next](pyt44.md) 
 
 ------------------------------------------------------------------------
 
@@ -392,4 +392,4 @@ thee, as (reed)-pens,
 ------------------------------------------------------------------------
 
 [Next: 41. A Litany-Like Incantation for the Endurance of a Pyramid and
-Temple, Utterance 601](pyt44)
+Temple, Utterance 601](pyt44.md)

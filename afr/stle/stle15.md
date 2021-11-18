@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Egypt](../../egy/index)  [Index](index)  [Previous](stle14) 
-[Next](stle16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Egypt](../../egy/index)  [Index](index)  [Previous](stle14.md) 
+[Next](stle16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stolen Legacy*, by George G. M. James, \[1954\], at Intangible Textual
 Heritage
 
@@ -61,7 +61,7 @@ The ruins of the ancient Grand Lodge of Luxor are found today on the
 banks of the Nile in Upper Egypt in the ancient city of Thebes. It was
 built by Pharaoh Amenothis III. It was the only Grand Lodge of the
 ancient world. It had branches or minor lodges throughout the ancient
-world; in Europe, Asia, [Africa](errata.htm#20), North America, South
+world; in Europe, Asia, [Africa](errata.htm#20.md), North America, South
 America
 
 <span id="page_177">p. 177</span>
@@ -408,8 +408,8 @@ Laplace, in which the original Sun creates eight other planets, by
 throwing off rings from itself, thus producing the nine major planets of
 modern scientific belief.
 
-\(b\) It has been shown on pages [146](stle12.htm#page_146) and
-[147](stle12.htm#page_147) of this book, that the name of Atom the
+\(b\) It has been shown on pages [146](stle12.htm#page_146.md) and
+[147](stle12.htm#page_147.md) of this book, that the name of Atom the
 Egyptian Sun God is the same name used for the atom of science and also
 that the attributes of both are the same. Read Frankfort's Intellectual
 Adventure of Man, p. 53; Frankfort's Kingship and the Gods, p. 182; also
@@ -477,4 +477,4 @@ Missionary enterprise and to demand a change in Missionary policy.
 
 ------------------------------------------------------------------------
 
-[Next: Index](stle16)
+[Next: Index](stle16.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw13)  [Next](tnw15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw13)  [Next](tnw15.md) 
 
 ------------------------------------------------------------------------
 
@@ -402,4 +402,4 @@ understand that other oracle of the Chaldeans-
 
 ------------------------------------------------------------------------
 
-[Next: 14. Metastrophe: The Magic Crystal](tnw15)
+[Next: 14. Metastrophe: The Magic Crystal](tnw15.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam00)  [Next](kam02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam00)  [Next](kam02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 6: Tracts Baba Kama (First Gate), Part II and
 Baba Metzia (Middle Gate)*, tr. by Michael L. Rodkinson, \[1918\], at
 Intangible Textual Heritage
@@ -42,4 +42,4 @@ MICHAEL L. RODKINSON.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](kam02)
+[Next: Contents](kam02.md)

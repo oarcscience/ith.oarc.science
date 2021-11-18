@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe146)  [Next](prwe148) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe146)  [Next](prwe148.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ same St Keyne who imparted such wonderful properties to this well.
 
 ------------------------------------------------------------------------
 
-[Next: Maddern or Madron Well](prwe148)
+[Next: Maddern or Madron Well](prwe148.md)

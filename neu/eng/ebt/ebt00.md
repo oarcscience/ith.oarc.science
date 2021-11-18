@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index)  [Next](ebt01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index)  [Next](ebt01.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,19 +19,19 @@ Sagas](../../index)  [England](../index)  [Index](index)  [Next](ebt01) 
 <span id="img_fcover"></span>
 
 [![Front Cover](tn/fcover.jpg)  
-Click to enlarge](img/fcover.jpg)  
+Click to enlarge](img/fcover.jpg.md)  
 Front Cover  
 
 <span id="img_icover"></span>
 
 [![Inner Cover](tn/icover.jpg)  
-Click to enlarge](img/icover.jpg)  
+Click to enlarge](img/icover.jpg.md)  
 Inner Cover  
 
 <span id="img_front"></span>
 
 [![FRONTISPIECE](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 FRONTISPIECE  
 
 <table>
@@ -49,4 +49,4 @@ FRONTISPIECE
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](ebt01)
+[Next: Table of Contents](ebt01.md)

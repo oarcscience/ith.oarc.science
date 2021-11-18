@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](ecl07) 
-[Previous](ecll06)  [Next](ecll08) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](ecl07.md) 
+[Previous](ecll06)  [Next](ecll08.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ ex illo Corydon, Corydon est tempore nobis.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue VIII.--The Sorceress](ecll08)
+[Next: Eclogue VIII.--The Sorceress](ecll08.md)

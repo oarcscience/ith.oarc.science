@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh09) 
-[Next](iggh11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh09.md) 
+[Next](iggh11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -55,7 +55,7 @@ amazed. And he said to himself: Surely there must be for this
 extraordinary antipathy some extraordinary cause, buried in the
 mysterious darkness of the past. For other women, so far from shunning
 my embraces, welcome and even court them, becoming *abhisárikás* <span
-id="fr_25"></span>[q](#fn_25) for my sake: for I am a very handsome man.
+id="fr_25"></span>[q](#fn_25.md) for my sake: for I am a very handsome man.
 And he went and offered sacrifice in the temple of Maheshwara. And
 standing before the image, he exclaimed: O thou knower of past, present,
 and future, if thou dost not reveal to me the cause of this aversion, I
@@ -86,10 +86,10 @@ adamantine bolts.
 
 ### Footnotes
 
-<span id="fn_25"></span>[39:q](iggh10.htm#fr_25) An *abhisáriká* is a
+<span id="fn_25"></span>[39:q](iggh10.htm#fr_25.md) An *abhisáriká* is a
 woman who goes of her own accord to her lover, or, as we might say,
 throws herself at his head.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Illusion of Beauty](iggh11)
+[Next: VIII. The Illusion of Beauty](iggh11.md)

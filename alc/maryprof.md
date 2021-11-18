@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](kellystn)  [Next](mass) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](kellystn)  [Next](mass.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,6 +141,6 @@ To be exalted in the Fire.
 
 ------------------------------------------------------------------------
 
-[Next: An Alchemical Mass](mass)
+[Next: An Alchemical Mass](mass.md)
 
   

@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift25) 
-[Next](ift27) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift25.md) 
+[Next](ift27.md) 
 
 ------------------------------------------------------------------------
 
 # The Demon with the Matted Hair
 
 <span id="img_71"></span> [![](tn/71.jpg)  
-Click to enlarge](img/71.jpg)
+Click to enlarge](img/71.jpg.md)
 
 <span id="img_70"></span> ![](img/70.jpg)*HIS story the Teacher told in
 Jetavana about a Brother who had ceased striving after' righteousness.
@@ -148,4 +148,4 @@ the Five Weapons was I myself."
 
 ------------------------------------------------------------------------
 
-[Next: The Ivory City and its Fairy Princess](ift27)
+[Next: The Ivory City and its Fairy Princess](ift27.md)

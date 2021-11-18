@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait11)  [Next](ait13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait11)  [Next](ait13.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ id="page_95">p. 95</span>
 
 |                     |
 |---------------------|
-| ![T](img/09500.jpg) |
+| ![T](img/09500.jpg.md) |
 
 HE Ojibways were a great nation whom the fairies loved. Their land was
 the home of many spirits, and as long as they lived on the shores of the
@@ -117,4 +117,4 @@ people whom she loved, for their canoes were always upon the water.
 
 ------------------------------------------------------------------------
 
-[Next: The Fighting Hare](ait13)
+[Next: The Fighting Hare](ait13.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jet00)  [Next](mos01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jet00)  [Next](mos01.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ said: then look to your fellow, meaning himself (PUH).
 
 ------------------------------------------------------------------------
 
-[Next: The Birth of Moses (PUH)](mos01)
+[Next: The Birth of Moses (PUH)](mos01.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg19)  [Next](ttg21) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg19)  [Next](ttg21.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ his home. And the king ran after him again, eager as before.
 ------------------------------------------------------------------------
 
 [Next: Twentieth Goblin: The Four Brothers who brought a Dead Lion to
-Life. Which is to blame when he kills them all?](ttg21)
+Life. Which is to blame when he kills them all?](ttg21.md)

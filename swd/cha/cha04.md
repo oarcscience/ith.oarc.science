@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](cha03)  [Next](cha05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](cha03)  [Next](cha05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785145X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785145X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ about; and during this interval he may turn aside to all loves and the
 lustings therefrom, and thus not only be discontinuing his charity, but
 also get drawn away from uses. In this way the charity perishes, by
 reason of its opposites; and he serves two masters. <span
-id="fr_22"></span>[156-1](#fn_22)
+id="fr_22"></span>[156-1](#fn_22.md)
 
 <span class="margnote"><span id="157.">157.</span></span>
 
@@ -347,7 +347,7 @@ they are more devout in their morning and evening prayers and hymns than
 those whose life is spent on the land, for they trust in Divine
 Providence more than these do. I counsel seafarers henceforth to pray to
 the Lord, because He is the God of heaven and earth and sea . . . <span
-id="fr_23"></span>[170-1](#fn_23)
+id="fr_23"></span>[170-1](#fn_23.md)
 
 <span class="margnote"><span id="171.">171.</span></span>
 
@@ -576,7 +576,7 @@ love of what is just, thus not from love of the neighbour.
 
 XI THERE ARE DIVERSIONS OF CHARITY, WHICH ARE VARIOUS ENJOYMENTS AND
 PLEASURES OF THE BODILY SENSES, USEFUL FOR RECREATING THE MIND
-\[animus\]. <span id="fr_24"></span>[189-1](#fn_24) Such diversions are
+\[animus\]. <span id="fr_24"></span>[189-1](#fn_24.md) Such diversions are
 social intercourse, with its discussions about various matters, public,
 private, and domestic; also walks with their views, delightful on
 account of the various beauties and splendours of palaces and houses, of
@@ -785,7 +785,7 @@ OF CHARITY IN HIMSELF; CONSEQUENTLY THE QUALITY OF ANYONE'S CHARITY IS
 SUCH AS THE CHARITY HE HIMSELF IS. VI. A MAN IS BORN TO THE END THAT HE
 MAY BECOME A CHARITY; BUT HE CANNOT BECOME A CHARITY UNLESS HE
 CONSTANTLY WILLS AND DOES THE GOOD OF CHARITY FROM AFFECTION AND ITS
-DELIGHT. <span id="fr_25"></span>[199-1](#fn_25) VII. EVERY MAN, WHO
+DELIGHT. <span id="fr_25"></span>[199-1](#fn_25.md) VII. EVERY MAN, WHO
 LOOKS TO THE LORD, AND SHUNS EVILS AS SINS, BECOMES A CHARITY, IF HE
 HONESTLY, JUSTLY, AND FAITHFULLY CARRIES OUT THE WORK OF HIS OCCUPATION
 OR EMPLOYMENT. VIII. SIGNS OF CHARITY ARE ALL THE THINGS THAT ARE OF
@@ -796,7 +796,7 @@ ADDITION TO THOSE SET FORTH ABOVE. I. THERE ARE DIVERSIONS OF CHARITY,
 WHICH ARE VARIOUS ENJOYMENTS AND PLEASURES OF THE BODILY SENSES USEFUL
 FOR RECREATING THE MIND. XII. WHERE THERE IS NO TRUTH OF FAITH, THE
 CHURCH DOES NOT EXIST, AND WHERE THERE IS NO GOOD OF CHARITY, RELIGION
-DOES NOT EXIST. <span id="fr_26"></span>[199-2](#fn_26) I THE "FIRST" OF
+DOES NOT EXIST. <span id="fr_26"></span>[199-2](#fn_26.md) I THE "FIRST" OF
 CHARITY IS TO LOOK TO THE LORD AND SHUN EVILS AS SINS. It is well known
 that charity, or love towards the neighbour, is doing good to others.
 But how one should do good, and to whom, so that the charity may be
@@ -809,7 +809,7 @@ than impure good, which outwardly has the appearance of being good, but
 inwardly is evil; which good is either pharisaical or done for reward.
 It will be necessary, therefore, to say first what a man should be, so
 that the good proceeding from him may be in itself good, thus the good
-of charity. <span id="fr_27"></span>[199-3](#fn_27)
+of charity. <span id="fr_27"></span>[199-3](#fn_27.md)
 
 <span class="margnote"><span id="200.">200.</span></span>
 
@@ -830,22 +830,22 @@ is done by repentance.
 
 ### Footnotes
 
-<span id="fn_22"></span>[156-1](cha04.htm#fr_22) Matt. Vi. 24; Luke
+<span id="fn_22"></span>[156-1](cha04.htm#fr_22.md) Matt. Vi. 24; Luke
 xvi.13.
 
-<span id="fn_23"></span>[170-1](cha04.htm#fr_23) In the MS. the end of
+<span id="fn_23"></span>[170-1](cha04.htm#fr_23.md) In the MS. the end of
 this line and another line are partly torn away and partly
 indecipherable. The Scripture references given are probably "Matt.
 xxviii. 18; John iii. 35, xvii. 2; Matt. xi. 27," as in H.D. 291.
 
-<span id="fn_24"></span>[189-1](cha04.htm#fr_24) Swedenborg uses two
+<span id="fn_24"></span>[189-1](cha04.htm#fr_24.md) Swedenborg uses two
 terms for "mind," mens and animus. Generally, the former is used for the
 higher level in which the will and understanding are rationally active,
 while the latter applies to the lower level in which desires and ideas
 in connection with the body and the world are active; but mens is
 occasionally used with a wider significance. Cf. n. 204.
 
-<span id="fn_25"></span>[199-1](cha04.htm#fr_25) In the left-hand margin
+<span id="fn_25"></span>[199-1](cha04.htm#fr_25.md) In the left-hand margin
 of the MS. opposite sections vi.-x.: "Enumerate the sins of which a man
 is not in the least conscious if he does not search himself carefully,
 but which he either confirms with himself or does not reckon as sins,
@@ -854,7 +854,7 @@ they yield from what is hereditary; from the Decalogue and from reason;
 up to 50 or a hundred of them can be enumerated, the civil as well as
 the spiritual ones, etc."
 
-<span id="fn_26"></span>[199-2](cha04.htm#fr_26) From an examination of
+<span id="fn_26"></span>[199-2](cha04.htm#fr_26.md) From an examination of
 the MS. it appears that Swedenborg, after writing out the contents of
 the draft that follows, altered the sections II, III, and IV to read as
 follows: "II. The 'second' of charity is to do uses to the neighbour.
@@ -866,7 +866,7 @@ his spiritual good, and his moral, civil, and natural good therefrom."
 He also crossed off section XII, and inserted the following over it:
 "Charity and faith make one."
 
-<span id="fn_27"></span>[199-3](cha04.htm#fr_27) Swedenborg wrote the
+<span id="fn_27"></span>[199-3](cha04.htm#fr_27.md) Swedenborg wrote the
 following note in the left-hand margin of the MS. opposite this
 paragraph: "N.B. - From Paul respecting love towards the neighbour: If
 anyone asks which is first, to shun them as evils, or to love the
@@ -874,4 +874,4 @@ neighbour."
 
 ------------------------------------------------------------------------
 
-[Next: 201-250](cha05)
+[Next: 201-250](cha05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](row05)  [Next](row07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](row05)  [Next](row07.md) 
 
 ------------------------------------------------------------------------
 
@@ -211,4 +211,4 @@ State of Pennsylvania. . . ."
 
 ------------------------------------------------------------------------
 
-[Next: Those Little ''Differences'' Between Science and Folklore](row07)
+[Next: Those Little ''Differences'' Between Science and Folklore](row07.md)

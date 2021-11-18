@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Next](tet01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Next](tet01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tet01)
+[Next: Contents](tet01.md)

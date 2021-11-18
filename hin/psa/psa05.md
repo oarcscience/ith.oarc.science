@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa04)  [Next](psa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa04)  [Next](psa06.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ born." On hearing this, Kuns fell down insensible.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](psa06)
+[Next: Chapter V](psa06.md)

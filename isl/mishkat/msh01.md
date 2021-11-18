@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh00)  [Next](msh02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh00)  [Next](msh02.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ with me some of the difficult points in the translation.
 
 ------------------------------------------------------------------------
 
-[Next: Author's Preface](msh02)
+[Next: Author's Preface](msh02.md)

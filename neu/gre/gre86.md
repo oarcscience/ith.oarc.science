@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre85)  [Next](gre87) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre85)  [Next](gre87.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ take."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXII: Grettir sings of his Great Deeds](gre87)
+[Next: Chapter LXXXII: Grettir sings of his Great Deeds](gre87.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ vastly advanced since Knight's day, this was one of the first books to
 deal with the issue of sexuality and religion.
 
 Production notes: Thanks to Eliza Fegley at [Sacred
-Spiral](https://www.sacredspiral.com/) for proofing the body of this
+Spiral](https://www.sacredspiral.com/.md) for proofing the body of this
 text. To reduce bandwidth usage, I've broken the main body of the text
 down into somewhat arbitrary sections. The 'Parts' do not occur in the
 original book. In addition, the typesetter of the edition I used
@@ -34,23 +34,23 @@ apparently did not know Greek, and consistently confused 'upsilon' and
 
 ------------------------------------------------------------------------
 
-[Title Page](dwp00)  
-[On the Worship of Priapus in the Kingdom of Naples](dwp01)  
+[Title Page](dwp00.md)  
+[On the Worship of Priapus in the Kingdom of Naples](dwp01.md)  
 <span id="section_000"></span>
 
 ### Discourse on the Worship of Priapus
 
-[Part I](dwp02)  
-[Part II](dwp03)  
-[Part III](dwp04)  
-[Part IV](dwp05)  
-[Part V](dwp06)  
-[Part VI](dwp07)  
-[Part VII](dwp08)  
-[Part VIII](dwp09)  
-[Part IX](dwp10)  
-[Part X](dwp11)  
-[Part XI](dwp12)  
-[Part XII](dwp13)  
-[Part XIII](dwp14)  
-[Part XIV](dwp15)  
+[Part I](dwp02.md)  
+[Part II](dwp03.md)  
+[Part III](dwp04.md)  
+[Part IV](dwp05.md)  
+[Part V](dwp06.md)  
+[Part VI](dwp07.md)  
+[Part VII](dwp08.md)  
+[Part VIII](dwp09.md)  
+[Part IX](dwp10.md)  
+[Part X](dwp11.md)  
+[Part XI](dwp12.md)  
+[Part XII](dwp13.md)  
+[Part XIII](dwp14.md)  
+[Part XIV](dwp15.md)  

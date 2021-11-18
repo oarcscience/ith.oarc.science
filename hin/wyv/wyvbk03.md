@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk02)  [Next](wyvbk04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk02)  [Next](wyvbk04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -244,7 +244,7 @@ As from its stem a cucumber, hence and not thence may I
 be loosed.  
 61 This, Rudra, is thy food: with this depart beyond the  
 Mûjavâns.  
-With bow unstrung, with [muffled](errata.htm#1) staff, clothed in a
+With bow unstrung, with [muffled](errata.htm#1.md) staff, clothed in a
 garment  
 made of skin, gracious, not harming us, depart.  
 62 May Jamadagni's triple life, the triple life of Kasyapa,  
@@ -260,4 +260,4 @@ vigour.
 
 ------------------------------------------------------------------------
 
-[Next: Book IV](wyvbk04)
+[Next: Book IV](wyvbk04.md)

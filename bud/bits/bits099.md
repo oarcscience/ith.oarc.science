@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits098) [Next](bits100)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits098) [Next](bits100.md)
 
 ------------------------------------------------------------------------
 
@@ -327,7 +327,7 @@ weighty regulations, not to be transgressed as long as life shall last."
 
 ------------------------------------------------------------------------
 
-[Next: § 100. A Family of Magicians](bits100)
+[Next: § 100. A Family of Magicians](bits100.md)
 
  
 

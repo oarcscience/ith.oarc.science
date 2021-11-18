@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp09) 
-[Next](alp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp09.md) 
+[Next](alp11.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ Sweet love, for them all those were nothing worth--
 
 ------------------------------------------------------------------------
 
-[Next: O Night, Be Long](alp11)
+[Next: O Night, Be Long](alp11.md)

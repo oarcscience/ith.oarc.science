@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](ecl05) 
-[Previous](ecll04)  [Next](ecll06) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](ecl05.md) 
+[Previous](ecll04)  [Next](ecll06.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ formosum paribus nodis atque aere, Menalca.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue VI.--Silenus](ecll06)
+[Next: Eclogue VI.--Silenus](ecll06.md)

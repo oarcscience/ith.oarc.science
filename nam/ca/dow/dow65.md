@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow64)  [Next](dow66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow64)  [Next](dow66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ Textual Heritage
 *The Hookooeko of Nicasio and Tomales Bay say*:
 
 *Pe-tān'-yah* the Lizard with blue sides <span
-id="fr_27"></span>[29](#fn_27) lives everywhere in the rocks and hills
+id="fr_27"></span>[29](#fn_27.md) lives everywhere in the rocks and hills
 and woods. When he hears a loud noise he talks back. This is
 *Si-yu-kā-i* the Echo; it is *Pe-tān'-yah* talking back.
 
@@ -40,10 +40,10 @@ The Echo is *Sah-kah'-te* talking back.
 
 ### Footnotes
 
-<span id="fn_27"></span>[224:29](dow65.htm#fr_27) The blue-sided lizard
+<span id="fn_27"></span>[224:29](dow65.htm#fr_27.md) The blue-sided lizard
 meant is *Sceloporus occidentalis*, a common species in the coast region
 of California.
 
 ------------------------------------------------------------------------
 
-[Next: How the World Grew](dow66)
+[Next: How the World Grew](dow66.md)

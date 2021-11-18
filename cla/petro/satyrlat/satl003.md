@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat02.htm#III)  [Previous](satl002) 
-[Next](satl004) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat02.htm#III)  [Previous](satl002.md) 
+[Next](satl004.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ pisciculos, sine spe praedae morabitur in scopulo.
 
 ------------------------------------------------------------------------
 
-[Next: IV](satl004)
+[Next: IV](satl004.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plato](../index)  [Index](index)  [Previous](laws08)  [Next](laws10) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plato](../index)  [Index](index)  [Previous](laws08)  [Next](laws10.md) 
 
 ------------------------------------------------------------------------
 
@@ -1283,4 +1283,4 @@ offender for impiety.
 
 ------------------------------------------------------------------------
 
-[Next: BOOK XI](laws10)
+[Next: BOOK XI](laws10.md)

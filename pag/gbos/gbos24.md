@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos23)  [Next](gbos25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos23)  [Next](gbos25.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ that events happen.
 
 ------------------------------------------------------------------------
 
-[Next: A Revision of the Casting Procedure](gbos25)
+[Next: A Revision of the Casting Procedure](gbos25.md)

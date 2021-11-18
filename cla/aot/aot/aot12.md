@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot11) 
-[Next](aot13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot11.md) 
+[Next](aot13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -34,7 +34,7 @@ political nature. It was brought to bear by means of philosophical
 converse and instruction, by word of mouth or letter. Just as Apollonius
 on his travels conversed on philosophy, and discoursed on the life of a
 wise man and the duties of a wise ruler, with kings, <span
-id="fr_107"></span>[\*](#fn_107) rulers, and magistrates, so he
+id="fr_107"></span>[\*](#fn_107.md) rulers, and magistrates, so he
 endeavoured to advise for their good those of the emperors who would
 listen to him.
 
@@ -107,10 +107,10 @@ asked him for his advice on the subject of virtue" (vi. 43).
 
 ### Footnotes
 
-<span id="fn_107"></span>[106:\*](aot12.htm#fr_107) He spent, we are
+<span id="fn_107"></span>[106:\*](aot12.htm#fr_107.md) He spent, we are
 told, no less than a year and eight months with Vardan, King of Babylon,
 and was the honoured guest of the Indian Rājāh "Phraotes."
 
 ------------------------------------------------------------------------
 
-[Next: Section XII. Apollonius the Prophet and Wonder-Worker](aot13)
+[Next: Section XII. Apollonius the Prophet and Wonder-Worker](aot13.md)

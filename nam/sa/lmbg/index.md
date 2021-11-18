@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -33,21 +33,21 @@ photocopy.
 
 ------------------------------------------------------------------------
 
-[Title Page](lmbg00)  
-[PREFACE](lmbg01)  
-[CONTENTS.](lmbg02)  
+[Title Page](lmbg00.md)  
+[PREFACE](lmbg01.md)  
+[CONTENTS.](lmbg02.md)  
 **PART I.—Legends of the Arawâks.**  
- [CONTENTS OF PART I.](lmbg1a)  
- [Legends of the Arawâks.](lmbg1b)  
+ [CONTENTS OF PART I.](lmbg1a.md)  
+ [Legends of the Arawâks.](lmbg1b.md)  
 **PART II.—Legends of the Waraus.**  
- [CONTENTS OF PART II.](lmbg2a)  
- [Legends of the Waraus.](lmbg2b)  
+ [CONTENTS OF PART II.](lmbg2a.md)  
+ [Legends of the Waraus.](lmbg2b.md)  
 **PART III.—Legends of the Caribs.**  
- [CONTENTS OF PART III.](lmbg3a)  
- [Legends of the Caribs.](lmbg3b)  
+ [CONTENTS OF PART III.](lmbg3a.md)  
+ [Legends of the Caribs.](lmbg3b.md)  
 **PART IV.—Legends of the Acawoios.**  
- [CONTENTS OF PART IV.](lmbg4a)  
- [Legends of the Acawoios.](lmbg4b)  
+ [CONTENTS OF PART IV.](lmbg4a.md)  
+ [Legends of the Acawoios.](lmbg4b.md)  
 **PART V.—Fanciful Legends.**  
- [CONTENTS OF PART V.](lmbg5a)  
- [Fanciful Legends.](lmbg5b)  
+ [CONTENTS OF PART V.](lmbg5a.md)  
+ [Fanciful Legends.](lmbg5b.md)  

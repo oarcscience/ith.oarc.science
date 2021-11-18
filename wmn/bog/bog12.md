@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog11)  [Next](bog13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog11)  [Next](bog13.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ Give us hospitality in the brightness of peace.
 
 ------------------------------------------------------------------------
 
-[Next: Selene](bog13)
+[Next: Selene](bog13.md)

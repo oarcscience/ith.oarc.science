@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod04)  [Next](hod06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod04)  [Next](hod06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,29 +41,29 @@ her back covered with the skin and tail of a crocodile.
 
 <span id="img_01600"></span> <span align="CENTER"> [![APAPI (APOPHIS)
 AND ATMU. (After Rawlinson)](tn/generic.jpg)  
-Click to view](img/01600.jpg)  
+Click to view](img/01600.jpg.md)  
 APAPI (APOPHIS) AND ATMU. (After Rawlinson)  
 </span>
 
 <span id="img_01601"></span> <span align="CENTER"> [![FORMS OF TAOURT.
 (After Rawlinson)](tn/generic.jpg)  
-Click to view](img/01601.jpg)  
+Click to view](img/01601.jpg.md)  
 FORMS OF TAOURT. (After Rawlinson)  
 </span>
 
 <span id="img_01602"></span> <span align="CENTER"> [![SET (After
 Brugsch)](tn/generic.jpg)  
-Click to view](img/01602.jpg)  
+Click to view](img/01602.jpg.md)  
 SET (After Brugsch)  
 </span>
 
 <span id="img_01603"></span> <span align="CENTER"> [![THE SOUL VISITING
 THE MUMMY. (From the Ani Papyrus)](tn/generic.jpg)  
-Click to view](img/01603.jpg)  
+Click to view](img/01603.jpg.md)  
 THE SOUL VISITING THE MUMMY. (From the Ani Papyrus)  
 </span>
 
-<span class="small">See page [24](#page_24).</span>
+<span class="small">See page [24](#page_24.md).</span>
 
 <span id="page_17">p. 17</span>
 
@@ -106,11 +106,11 @@ irresistible power, of brute force, of war, and of destruction.
 There is an old wall-picture of Karnak, belonging to the era of the
 eighteenth dynasty, in which the god Set appears as an instructor of
 King Thothmes III. in the science of archery. <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 <span id="img_01800"></span> <span align="CENTER"> [![SETH TEACHING THE
 KING THE ART OF WAR. (After Erman.)](tn/generic.jpg)  
-Click to view](img/01800.jpg)  
+Click to view](img/01800.jpg.md)  
 SETH TEACHING THE KING THE ART OF WAR. (After Erman.)  
 </span>
 
@@ -195,7 +195,7 @@ hands over the right and
 <span id="img_02100"></span> <span align="CENTER"> [![THE WEIGHING OF
 THE HEART IN THE HALL OF TRUTH (After Lepsius's reproduction of the
 Turin Papyrus)](tn/generic.jpg)  
-Click to view](img/02100.jpg)  
+Click to view](img/02100.jpg.md)  
 THE WEIGHING OF THE HEART IN THE HALL OF TRUTH (After Lepsius's
 reproduction of the Turin Papyrus)  
 </span>
@@ -204,7 +204,7 @@ reproduction of the Turin Papyrus)
 
 left eye, symbolising sunset and sunrise, death and resurrection.
 
-Mâ, <span id="fr_8"></span>[1](#fn_8) the goddess of truth and "the
+Mâ, <span id="fr_8"></span>[1](#fn_8.md) the goddess of truth and "the
 directress of the gods," decorated with an erect feather which is her
 emblem, ushers the departed one into the Hall of Truth. Kneeling, the
 departed one invokes the forty-two assessors by name and disclaims
@@ -311,7 +311,7 @@ receives in the name of Pharaoh the homage of foreign princes;
 <span id="img_02500"></span> <span align="CENTER"> [![THE ABODE OF
 BLISS. (After Lepsius's reproduction of the Turin
 Papyrus)](tn/generic.jpg)  
-Click to view](img/02500.jpg)  
+Click to view](img/02500.jpg.md)  
 THE ABODE OF BLISS. (After Lepsius's reproduction of the Turin
 Papyrus)  
 </span>
@@ -339,7 +339,7 @@ sacrificial animals which are slaughtered. But when the departed one is
 restored to the use of his senses and mental powers, Set again plays an
 important part, and appears throughout as one of the four points of the
 compass, which are "Hor, Set, Thoth, and Seb." <span
-id="fr_9"></span>[1](#fn_9)
+id="fr_9"></span>[1](#fn_9.md)
 
 According to the original legend, Set represented the death of the sun,
 and as a personality he is described as the murderer of Osiris, who was
@@ -406,16 +406,16 @@ immortal.
 
 ### Footnotes
 
-<span id="fn_7"></span>[18:1](hod05.htm#fr_7) See Lepsius, Denkmäler,
+<span id="fn_7"></span>[18:1](hod05.htm#fr_7.md) See Lepsius, Denkmäler,
 Vol. V., p. 36. The picture is reproduced in outline by Adolf Erman in
 his *Life in Ancient Egypt*, Engl. trans., p. 282.
 
-<span id="fn_8"></span>[22:1](hod05.htm#fr_8) Also called Maâ't, or "the
+<span id="fn_8"></span>[22:1](hod05.htm#fr_8.md) Also called Maâ't, or "the
 two truths," i. e., of the upper and of the nether world.
 
-<span id="fn_9"></span>[26:1](hod05.htm#fr_9) *Le Tombeau de Rakhmara*,
+<span id="fn_9"></span>[26:1](hod05.htm#fr_9.md) *Le Tombeau de Rakhmara*,
 by Ph. Virey. Paris: Le Roux. 1889.
 
 ------------------------------------------------------------------------
 
-[Next: Accad and the Early Semites](hod06)
+[Next: Accad and the Early Semites](hod06.md)

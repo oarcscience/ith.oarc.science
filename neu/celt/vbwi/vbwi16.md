@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi15)  [Next](vbwi17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi15)  [Next](vbwi17.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ through the night.
 
 ------------------------------------------------------------------------
 
-[Next: Monsters and Sheoguey Beasts](vbwi17)
+[Next: Monsters and Sheoguey Beasts](vbwi17.md)

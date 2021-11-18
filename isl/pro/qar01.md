@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](qar00)  [Next](qar02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](qar00)  [Next](qar02.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ tale also and God is the Knower.
 ------------------------------------------------------------------------
 
 [Next: Other Tales About Gog and Magog and What Ðul-Qarnain
-Faced](qar02)
+Faced](qar02.md)

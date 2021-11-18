@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg81)  [Next](btg83) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg81)  [Next](btg83.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ took refuge in the Buddha, the Dharma, and the Sangha.
 
 ------------------------------------------------------------------------
 
-[Next: In Search Of A Thief](btg83)
+[Next: In Search Of A Thief](btg83.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](more00)  [Next](more02) 
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](more00)  [Next](more02.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ H. M.
 ------------------------------------------------------------------------
 
 [Next: Discourses Of Raphael Hythloday, Of The Best State Of A
-Commonwealth](more02)
+Commonwealth](more02.md)

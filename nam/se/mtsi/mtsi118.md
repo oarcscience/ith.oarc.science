@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi117)  [Next](mtsi119) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi117)  [Next](mtsi119.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ It has been told.
 
 ------------------------------------------------------------------------
 
-[Next: 26. The Tasks of Rabbit](mtsi119)
+[Next: 26. The Tasks of Rabbit](mtsi119.md)

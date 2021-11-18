@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos07)  [Next](dos09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos07)  [Next](dos09.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ saw before
 
 <span id="page_47">p. 47</span>
 
-him a root-eating Wairágí <span id="fr_50"></span>[y](#fn_50) clad in a
+him a root-eating Wairágí <span id="fr_50"></span>[y](#fn_50.md) clad in a
 coat of bark, with long hair, and nails like the claws of a bird, and
 his legs and arms were bare, and his skin like that on the foot of an
 elephant:
@@ -46,7 +46,7 @@ elephant:
 Then said Umra-Singh: Father, what art thou doing here, and why dost
 thou stick out at me thy tongue? The Wairágí said: Son, what art thou
 doing here, in a wood full of nothing but trees and Rákshasas <span
-id="fr_51"></span>[z](#fn_51), and dark as the Hair of the Great God, of
+id="fr_51"></span>[z](#fn_51.md), and dark as the Hair of the Great God, of
 which it is an earthly copy? Umra-Singh said: I am a Rajpoot who has
 quarrelled with his relations, and I am looking for the Land of the
 Lotus of the Sun. Then said the Wairágí: They are very few that wish to
@@ -65,7 +65,7 @@ will tell thee thine.
 Then said Umra-Singh: One for three is no bargain; but what, then, are
 thy lost ways? The Wairágí said: All my life I have tried to discover
 the Way of the World, and the Way of Woman, and the Way of
-Emancipation <span id="fr_52"></span>[a](#fn_52), and yet could never
+Emancipation <span id="fr_52"></span>[a](#fn_52.md), and yet could never
 hit on the truth as to any one of them. And this is a wonderful thing.
 For anything characteristic of multitudes must be very common: and yet
 how can that which is common escape the notice of all? Tell me, then,
@@ -83,11 +83,11 @@ the banks of Ganges, an old empty temple of Shiwa. And one night, in the
 rainy season, an old female ascetic entered the temple, to shelter
 herself from the storm. And just after her there came in an owl for the
 same purpose. Now in the roof of that temple there lived a number of the
-caste <span id="fr_53"></span>[b](#fn_53) of bats, that never left the
+caste <span id="fr_53"></span>[b](#fn_53.md) of bats, that never left the
 temple precincts. And seeing the owl, they said to the old woman: Who
 art thou, and what kind of animal is this? Then the old woman said: I am
 the Goddess Saraswatí, and this is the peacock on which I ride <span
-id="fr_54"></span>[c](#fn_54). Then, the storm being over, that old
+id="fr_54"></span>[c](#fn_54.md). Then, the storm being over, that old
 impostor went away. But the owl, being pleased with the temple as a
 place of residence, remained; and the bats paid it divine honours. Then
 some years afterwards, it happened, that a real peacock entered the
@@ -132,7 +132,7 @@ causes of perishable illusions: and so became blind. Then his daughter
 grew up alone with that old blind sage in the forest. And she was more
 beautiful than any woman in the three worlds. Verily, had the God of
 Love seen .her, he would instantly have abandoned Rati and Príti <span
-id="fr_55"></span>[d](#fn_55), counting them but as her domestic
+id="fr_55"></span>[d](#fn_55.md), counting them but as her domestic
 servants. And she dressed in bark garments, with no mirror but the pools
 of the forest. Then one day a crow that was acquainted with cities came
 to her and said: Why dost thou live here, with no companion but an old
@@ -225,7 +225,7 @@ illusions, like the sins of thy former birth in visible form; and there
 wait for thee the Night-walkers, Ulupí, and the Cow-killer, and the
 Hairy Grabber, and the Icy Chiller, and the Flap-eared Buzzer, and the
 awful Watcher in his pits of sand, and others without number <span
-id="fr_56"></span>[e](#fn_56):
+id="fr_56"></span>[e](#fn_56.md):
 
 <span id="page_56">p. 56</span>
 
@@ -237,32 +237,32 @@ Umra-Singh was left alone.
 
 ### Footnotes
 
-<span id="fn_50"></span>[47:y](dos08.htm#fr_50) This term denotes one
+<span id="fn_50"></span>[47:y](dos08.htm#fr_50.md) This term denotes one
 who has turned his back on the world, and become free from passion. Its
 meaning can best be learned from the third section of the Centuries of
 Bhartrihari, devoted to it. (*wair*- rhymes with *fire*.)
 
-<span id="fn_51"></span>[47:z](dos08.htm#fr_51) *Jinn*, ogres, vampires,
+<span id="fn_51"></span>[47:z](dos08.htm#fr_51.md) *Jinn*, ogres, vampires,
 goblins, &c., are all but differentiations of the Hindoo *Rákskasa*,
 which is what the geologist calls a 'synthetic type' of evil being,
 whose special feature is its power of changing its shape at will
 (*Kámarupa*).
 
-<span id="fn_52"></span>[48:a](dos08.htm#fr_52) There is here an
+<span id="fn_52"></span>[48:a](dos08.htm#fr_52.md) There is here an
 untranslateable play on the word *tripathagá*, *the three-way-goer*,
 i.e. the Ganges, which flows in three *Ways*--in heaven, earth, and
 hell. The hermit asks, as we might say, for *the source of the Nile*.
 
-<span id="fn_53"></span>[49:b](dos08.htm#fr_53) The proper word for
+<span id="fn_53"></span>[49:b](dos08.htm#fr_53.md) The proper word for
 caste is *játi*, *gens*.
 
-<span id="fn_54"></span>[49:c](dos08.htm#fr_54) Every Hindoo god or
+<span id="fn_54"></span>[49:c](dos08.htm#fr_54.md) Every Hindoo god or
 goddess has his or her peculiar animal vehicle (*wáhana*).
 
-<span id="fn_55"></span>[51:d](dos08.htm#fr_55) Pleasure and Joy, the
+<span id="fn_55"></span>[51:d](dos08.htm#fr_55.md) Pleasure and Joy, the
 two wives of the God of Love.
 
-<span id="fn_56"></span>[55:e](dos08.htm#fr_56) These names, which
+<span id="fn_56"></span>[55:e](dos08.htm#fr_56.md) These names, which
 recall certain passages in the Rámayan, lose much of their effect in
 translation. *goghna*, 'cow-killer,' has a curious history. Because of
 old a cow <span id="page_56">p. 56</span> could be killed *only* for a
@@ -271,4 +271,4 @@ actually acquired one honourable meaning, i.e. a guest of a high order.
 
 ------------------------------------------------------------------------
 
-[Next: VI. A Lotus of the Night](dos09)
+[Next: VI. A Lotus of the Night](dos09.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pots10)  [Next](pots12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pots10)  [Next](pots12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -153,7 +153,7 @@ companion and
 
 [![SNORTED &lt;i&gt;WHOOF&lt;/i&gt;, AND BLEW RED DUST FROM HIS
 NOSTRILS](tn/09200.jpg)  
-Click to enlarge](img/09200.jpg)  
+Click to enlarge](img/09200.jpg.md)  
 “SNORTED ‘*WHOOF*,’ AND BLEW RED DUST FROM HIS NOSTRILS”  
 
 <span id="page_93">p. 93</span>
@@ -335,7 +335,7 @@ smoked. Then he took the paint and
 <span id="img_10000"></span>
 
 [![THEY COULD NOT HURT HIM](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 “THEY COULD NOT HURT HIM”  
 
 <span id="page_101">p. 101</span>
@@ -473,7 +473,7 @@ to ask him what we may do for you." While
 <span id="img_10600"></span>
 
 [![THE CONFERENCE IN THE LODGE](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)  
+Click to enlarge](img/10600.jpg.md)  
 THE CONFERENCE IN THE LODGE  
 
 <span id="page_107">p. 107</span>
@@ -633,4 +633,4 @@ sons never had so great powers as their fathers.
 
 ------------------------------------------------------------------------
 
-[Next: The First Medicine Lodge](pots12)
+[Next: The First Medicine Lodge](pots12.md)

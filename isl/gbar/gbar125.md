@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar124) [Next](gbar126)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar124) [Next](gbar126.md)
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ mend them.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar126)
+[Next](gbar126.md)

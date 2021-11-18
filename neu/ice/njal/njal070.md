@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal069)  [Next](njal071) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal069)  [Next](njal071.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ and weapons to match.
 
 ------------------------------------------------------------------------
 
-[Next: 71. The Slaying Of Thorgeir Otkell's Son](njal071)
+[Next: 71. The Slaying Of Thorgeir Otkell's Son](njal071.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil13)  [Next](egil15) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil13)  [Next](egil15.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ but when Thorgils met Thorolf he told him all that had happened.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XIV. Thorolf again in Finmark.](egil15)
+[Next: CHAPTER XIV. Thorolf again in Finmark.](egil15.md)

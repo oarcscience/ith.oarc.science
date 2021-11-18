@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](sou12)  [Next](sou14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](sou12)  [Next](sou14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -304,7 +304,7 @@ community.
 
 The Country House is concerned not with the happiness of the whole
 community but with the felicity of the governors. The conditions which
-[underlie](errata.htm#5) this limited and partial good life are
+[underlie](errata.htm#5.md) this limited and partial good life are
 political power and economic wealth; and in order for the life to
 flourish, both of these must be obtained in almost limitless quantities.
 The chief principles that characterize this society are possession and
@@ -1293,4 +1293,4 @@ believe" they would vanish like smoke in the wind.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eleven](sou14)
+[Next: Chapter Eleven](sou14.md)

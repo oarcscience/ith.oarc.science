@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca11) 
-[Next](lca13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca11.md) 
+[Next](lca13.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ stages as in ancient Greece or Rome.
 
 ------------------------------------------------------------------------
 
-[Next: On Jealousy](lca13)
+[Next: On Jealousy](lca13.md)

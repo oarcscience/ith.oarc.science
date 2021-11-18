@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw17)  [Next](tfgw19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw17)  [Next](tfgw19.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,4 +220,4 @@ St Martin's Eve
 
 ------------------------------------------------------------------------
 
-[Next: James Murray and Saint Martin](tfgw19)
+[Next: James Murray and Saint Martin](tfgw19.md)

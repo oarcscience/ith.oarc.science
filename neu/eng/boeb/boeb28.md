@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb27.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ And sent it to Sir Patrick Spens,
  
 
 <span id="img_18001"></span> [![](tn/18001.jpg)  
-Click to enlarge](img/18001.jpg)
+Click to enlarge](img/18001.jpg.md)
 
  
 
@@ -161,4 +161,4 @@ And there lies gude Sir Patrick Spens
 <span id="img_18500"></span> ![](img/18500.jpg)
 
 <span id="img_finis"></span> [![](tn/finis.jpg)  
-Click to enlarge](img/finis.jpg)
+Click to enlarge](img/finis.jpg.md)

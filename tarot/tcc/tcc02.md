@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Copyright FAQ](../faq)  [Index](index)  [Previous](tcc01) 
-[Next](tcc03) 
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Copyright FAQ](../faq)  [Index](index)  [Previous](tcc01.md) 
+[Next](tcc03.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ courtesy of <a href="https://home.comcast.net/~vilex/">H. Voley</a></p></td>
 
 ------------------------------------------------------------------------
 
-[Next: The Sun](tcc03)
+[Next: The Sun](tcc03.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](kas08)  [Next](kas10) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](kas08)  [Next](kas10.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ sans hope of praise, sans fear of blame!
 
 ------------------------------------------------------------------------
 
-[Next: VIII](kas10)
+[Next: VIII](kas10.md)

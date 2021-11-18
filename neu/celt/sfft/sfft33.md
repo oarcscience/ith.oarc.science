@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft32)  [Next](sfft34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft32)  [Next](sfft34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_120">p. 120</span> <span id="page_121">p. 121</span>
 
-### THE TULMAN. <span id="fr_52"></span>[1](#fn_52)
+### THE TULMAN. <span id="fr_52"></span>[1](#fn_52.md)
 
 THERE was a woman in Baile Thangusdail, and she was out seeking a couple
 of calves; and the night and lateness caught her, and there came rain
@@ -41,9 +41,9 @@ alive fourscore and fifteen years after the night she was there.
 
 ### Footnotes
 
-<span id="fn_52"></span>[121:1](sfft33.htm#fr_52) Campbell, *Popular
+<span id="fn_52"></span>[121:1](sfft33.htm#fr_52.md) Campbell, *Popular
 Tales of the West Highlands*.
 
 ------------------------------------------------------------------------
 
-[Next: The Isle Of Pabaidh](sfft34)
+[Next: The Isle Of Pabaidh](sfft34.md)

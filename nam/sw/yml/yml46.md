@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml45)  [Next](yml47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml45)  [Next](yml47.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ This fable is finished.
 
 ------------------------------------------------------------------------
 
-[Next: In Rabbit's House](yml47)
+[Next: In Rabbit's House](yml47.md)

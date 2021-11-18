@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu04)  [Next](cwiu06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu04)  [Next](cwiu06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -31,11 +31,11 @@ As a matter of fact, they are, indeed, separated by centuries, by all
 those centuries during which Aristotelian cosmology and Ptolemaic
 astronomy dominated Western thought. Copernicus, of course, makes full
 use of the mathematical technics elaborated by Ptolemy—one of the
-greatest achievements of the human mind[1](cwiu16.htm#an_2_1)—and yet,
+greatest achievements of the human mind[1](cwiu16.htm#an_2_1.md)—and yet,
 for his inspiration he goes back beyond him, and beyond Aristotle, to
 the golden age of Pythagoras and of Plato. He quotes Heraclides,
 Ecphantus and Hiketas, Philolaos and Aristarchus of Samos; and according
-to Rheticus, his pupil and mouthpiece, it is[2](cwiu16.htm#an_2_2)
+to Rheticus, his pupil and mouthpiece, it is[2](cwiu16.htm#an_2_2.md)
 
 <div class="iq">
 
@@ -64,9 +64,9 @@ Nicholas of Cusa, the Copernican revolution may appear rather
 half-hearted and not very radical. It was, on the other hand, much more
 effective, at least in the long run; for, as we know, the immediate
 effect of the Copernican revolution was to spread skepticism and
-bewilderment[3](cwiu16.htm#an_2_3) of which the famous verses of John
+bewilderment[3](cwiu16.htm#an_2_3.md) of which the famous verses of John
 Donne give such a striking, though somewhat belated, expression, telling
-us that the[4](cwiu16.htm#an_2_4)
+us that the[4](cwiu16.htm#an_2_4.md)
 
 <div class="iq">
 
@@ -94,13 +94,13 @@ relatively small one, "that which contains and locates and not that
 which is contained and located," but also because "the condition of
 *being at rest* is considered as nobler and more divine than that of
 *change* and *inconsistency;* the latter therefore, is more suited to
-the earth than to the universe."[5](cwiu16.htm#an_2_5) And it is on
+the earth than to the universe."[5](cwiu16.htm#an_2_5.md) And it is on
 account of its supreme perfection and value—source of light and of
 life—that the place it occupies in the world is assigned to the sun; the
 central place which, following the Pythagorean tradition and thus
 reversing completely the Aristotelian and mediaeval scale, Copernicus
 believes to be the best and the most important
-one.[6](cwiu16.htm#an_2_6)
+one.[6](cwiu16.htm#an_2_6.md)
 
 Thus, though the Copernican world is no more hierarchically structured
 (at least not fully; it has, so to say, two poles of perfection, the sun
@@ -112,7 +112,7 @@ the only reason for assuming the existence of the sphere of the fixed
 stars being their common motion, the negation of that motion should lead
 immediately to the negation of the very existence of that sphere;
 moreover, since, in the Copernican world, the fixed stars must be
-exceedingly big[7](cwiu16.htm#an_2_7)—the smallest being larger than the
+exceedingly big[7](cwiu16.htm#an_2_7.md)—the smallest being larger than the
 whole *Orbis magnus*—the sphere of the fixed stars must be rather thick;
 it seems only reasonable to extend its volume indefinitely "upwards."
 
@@ -127,7 +127,7 @@ sphere, though refusing to treat that problem as not scientific and
 turning it over to the philosophers. As a matter of fact, it is in this
 way that the Copernican doctrine was interpreted by Gianbattista
 Riccioli, by Huygens, and more recently by Mr.
-McColley.[8](cwiu16.htm#an_2_8)
+McColley.[8](cwiu16.htm#an_2_8.md)
 
 Though it seems reasonable and natural, I do not believe this
 interpretation to represent the actual views of Copernicus. Human
@@ -142,7 +142,7 @@ contained everything and itself," held the world together and, besides,
 enabled Copernicus to assign a determined position to the sun.
 
 In any case, Copernicus tells us quite clearly
-that[9](cwiu16.htm#an_2_9)
+that[9](cwiu16.htm#an_2_9.md)
 
 <div class="iq">
 
@@ -166,7 +166,7 @@ nothing" and believes that, if we admitted that "the heavens were
 infinite and bounded only by their inner concavity," then we should have
 better reason to assert "that there is nothing outside the heavens,
 because everything, whatever its size, is within
-them,"[10](cwiu16.htm#an_2_10) in which case, of course, the heavens
+them,"[10](cwiu16.htm#an_2_10.md) in which case, of course, the heavens
 would have to be motionless: the infinite, indeed, cannot be moved or
 traversed.
 
@@ -196,7 +196,7 @@ centrum
 
 occupied by the sun. It seems to me that there is no other way of
 interpreting the teaching of Copernicus. Does he not tell us
-that[11](cwiu16.htm#an_2_11)
+that[11](cwiu16.htm#an_2_11.md)
 
 <div class="iq">
 
@@ -243,11 +243,11 @@ infinite is obviously asking too much.
 Great importance has been attributed to the enlargement of the
 Copernican world as compared to the mediaeval one—its diameter is at
 least 2000 times greater. Yet, we must not forget, as Professor Lovejoy
-has already pointed out,[12](cwiu16.htm#an_2_12) that even the
+has already pointed out,[12](cwiu16.htm#an_2_12.md) that even the
 Aristotelian or Ptolemaic world was by no means that snug little thing
 that we see represented on the miniatures adorning the manuscripts of
 the Middle Ages and of which Sir Walter Raleigh gave us such an
-enchanting description.[13](cwiu16.htm#an_2_13) Though rather small by
+enchanting description.[13](cwiu16.htm#an_2_13.md) Though rather small by
 our astronomical standards, and even by those of Copernicus, it was in
 itself sufficiently big not to be felt as built to man's measure: about
 20,000 terrestrial radii, such was the accepted figure, that is, about
@@ -258,7 +258,7 @@ world of Copernicus is by no means greater than that of mediaeval
 astronomy; they are both as nothing, because *inter finitum et infinitum
 non est proportio*. We do not approach the infinite universe by
 increasing the dimensions of our world. We may make it as large as we
-want: that does *not* bring us any nearer to it.[14](cwiu16.htm#an_2_14)
+want: that does *not* bring us any nearer to it.[14](cwiu16.htm#an_2_14.md)
 
 Notwithstanding this, it remains clear that it is somewhat easier,
 psychologically if not logically, to pass from a very large,
@@ -285,9 +285,9 @@ distances from the earth, "extendeth itself infinitely up."
 
 It has been commonly assumed until recent times that it was Giordano
 Bruno who, drawing on Lucretius and creatively misunderstanding both him
-and Nicholas of Cusa,[15](cwiu16.htm#an_2_15) first made this decisive
+and Nicholas of Cusa,[15](cwiu16.htm#an_2_15.md) first made this decisive
 step. Today, after the discovery by Professor Johnson and Dr.
-Larkey[16](cwiu16.htm#an_2_16)—in 1934—of the *Perfit Description of the
+Larkey[16](cwiu16.htm#an_2_16.md)—in 1934—of the *Perfit Description of the
 Caelestiall Orbes according to the most aunciene doctrine of the
 Pythagoreans lately revived by Copernicus and by Geometricall
 Demonstrations approued*, which Thomas Digges, in 1576, added to the
@@ -350,7 +350,7 @@ coelestiall angelles.
 &lt;i&gt;Thomas Digges's diagram of the infinite Copernican
 universe&lt;/i&gt;&lt;br&gt; (from &lt;i&gt;A Perfit Description of the
 Caelestiall Orbes&lt;/i&gt;, 1576)](tn/03700.jpg)  
-Click to enlarge](img/03700.jpg)  
+Click to enlarge](img/03700.jpg.md)  
 FIGURE 2  
 *Thomas Digges's diagram of the infinite Copernican universe*  
 (from *A Perfit Description of the Caelestiall Orbes*, 1576)  
@@ -359,7 +359,7 @@ FIGURE 2
 <span id="page_38">p. 38</span>
 
 The text accompanying the diagram develops this
-idea:[18](cwiu16.htm#an_2_18)
+idea:[18](cwiu16.htm#an_2_18.md)
 
 <div class="iq">
 
@@ -411,7 +411,7 @@ book, *Astronomical Thought in Renaissance England*, I still believe
 that it was Bruno who, for the first time, presented to us the sketch,
 or the outline, of the cosmology that became dominant in the last two
 centuries, and I cannot but agree with Professor Lovejoy, who in his
-classical *Great Chain of Being* tells us that,[19](cwiu16.htm#an_2_19)
+classical *Great Chain of Being* tells us that,[19](cwiu16.htm#an_2_19.md)
 
 <div class="iq">
 
@@ -429,22 +429,22 @@ which it was to gain acceptance from the general public.
 before has the essential infinitude of space been asserted in such an
 outright, definite and conscious manner.
 
-Thus, already in the *La Cena de le Ceneri*,[20](cwiu16.htm#an_2_20)
+Thus, already in the *La Cena de le Ceneri*,[20](cwiu16.htm#an_2_20.md)
 where, by the way, Bruno gives the best discussion, and refutation, of
 the classical—Aristotelian and Ptolemaic—objections
 
 <span id="page_40">p. 40</span>
 
 against the motion of the earth that were ever written before
-Galileo,[21](cwiu16.htm#an_2_21) he proclaims
-that[22](cwiu16.htm#an_2_22) "the world is infinite and that, therefore,
+Galileo,[21](cwiu16.htm#an_2_21.md) he proclaims
+that[22](cwiu16.htm#an_2_22.md) "the world is infinite and that, therefore,
 there is no body in it to which it would pertain *simpliciter* to be in
 the center, or on the center, or on the periphery, or between these two
 extremes" of the world (which, moreover, do not exist), but only to be
 among other bodies. As for the world which has its cause and its origin
 in an infinite cause and an infinite principle, it must be infinitely
 infinite according to its corporeal necessity and its mode of being. And
-Bruno adds:[23](cwiu16.htm#an_2_23)
+Bruno adds:[23](cwiu16.htm#an_2_23.md)
 
 <div class="iq">
 
@@ -458,7 +458,7 @@ space, should be finite in number.
 But we find the clearest, and most forceful, presentation of the new
 gospel of the unity and the infinity of the world in his vernacular
 dialogues *De l’infinito universo e mondi* and in his Latin poem *De
-immenso et innumerabilibus*.[24](cwiu16.htm#an_2_24)
+immenso et innumerabilibus*.[24](cwiu16.htm#an_2_24.md)
 
 <div class="iq">
 
@@ -470,7 +470,7 @@ For there is no reason, nor defect of nature's gifts, either of active
 or passive power, to hinder the existence of other worlds throughout
 space, which is identical in natural character with our own space, that
 is everywhere filled with matter or at least
-ether.[25](cwiu16.htm#an_2_25)
+ether.[25](cwiu16.htm#an_2_25.md)
 
 </div>
 
@@ -483,7 +483,7 @@ And yet we cannot but recognize the difference of accent. Where Nicholas
 of Cusa simply states the impossibility of assigning limits to the
 world, Giordano Bruno asserts, and rejoices in, its infinity: the
 superior determination and clarity of the pupil as compared to his
-master is striking.[26](cwiu16.htm#an_2_26)
+master is striking.[26](cwiu16.htm#an_2_26.md)
 
 <div class="iq">
 
@@ -531,7 +531,7 @@ space.
 
 Professor Lovejoy, in his treatment of Bruno, insists on the importance
 for the latter of the principle of plenitude, which governs his thought
-and dominates his metaphysics.[27](cwiu16.htm#an_2_27) Professor Lovejoy
+and dominates his metaphysics.[27](cwiu16.htm#an_2_27.md) Professor Lovejoy
 is perfectly right, of course: Bruno uses the principle of plenitude in
 an utterly ruthless manner, rejecting all the restrictions by which
 mediaeval thinkers tried to limit its applicability and boldly drawing
@@ -545,7 +545,7 @@ could not do otherwise.
 Indeed, Bruno's God, the somewhat misunderstood *infinitas complicata*
 of Nicholas of Cusa, could not but explicate and express himself in an
 infinite, infinitely rich, and infinitely extended
-world.[28](cwiu16.htm#an_2_28)
+world.[28](cwiu16.htm#an_2_28.md)
 
 <div class="iq">
 
@@ -583,7 +583,7 @@ the loss, by man, of his unique and privileged position in the
 theo-cosmic drama of the creation, of which man was, until then, both
 the central figure and the stake. At the end of the development we find
 the mute and terrifying world of Pascal's
-"libertin,"[29](cwiu16.htm#an_2_29) the senseless world of modern
+"libertin,"[29](cwiu16.htm#an_2_29.md) the senseless world of modern
 scientific philosophy. At the end we find nihilism and despair.
 
 Yet this was not so in the beginning. The displacement of the earth from
@@ -603,7 +603,7 @@ whole universe; Giordano Bruno goes far beyond this
 
 mere statement; for him motion and change are signs of perfection and
 not of a lack of it. An immutable universe would be a dead universe; a
-living one must be able to move and to change.[30](cwiu16.htm#an_2_30)
+living one must be able to move and to change.[30](cwiu16.htm#an_2_30.md)
 
 <div class="iq">
 
@@ -641,7 +641,7 @@ is confused and erroneous and cannot be made the basis of scientific and
 philosophical knowledge. Later on he explains that whereas for
 sense-perception and imagination infinity is inaccessible and
 unrepresentable, for the intellect, on the contrary, it is its primary
-and most certain concept.[31](cwiu16.htm#an_2_31)
+and most certain concept.[31](cwiu16.htm#an_2_31.md)
 
 <div class="iq">
 
@@ -701,7 +701,7 @@ homogeneous and similar to itself everywhere: indeed, how could the
 uniform "void" be anything but unlimited and infinite? Accordingly, from
 Bruno's point of view, the Aristotelian conception of a closed
 innerworldly space is not only false, it is
-absurd.[32](cwiu16.htm#an_2_32)
+absurd.[32](cwiu16.htm#an_2_32.md)
 
 <div class="iq">
 
@@ -744,9 +744,9 @@ Bruno's criticism of Aristotle (like that of Nicholas of Cusa) is, of
 course, wrong. He does not understand him and substitutes a geometrical
 "space" for the place-continuum of the Greek philosopher. Thus he
 repeats the classical objection: what would happen if somebody stretched
-his hand through the surface of the heaven?[33](cwiu16.htm#an_2_33) And
+his hand through the surface of the heaven?[33](cwiu16.htm#an_2_33.md) And
 though he gives to this question a nearly correct answer (from the point
-of view of Aristotle),[34](cwiu16.htm#an_2_34)
+of view of Aristotle),[34](cwiu16.htm#an_2_34.md)
 
 <div class="iq">
 
@@ -761,7 +761,7 @@ he rejects it on the perfectly fallacious ground that this "inner
 surface," being a purely mathematical conception, cannot oppose a
 resistance to the motion of a real body. Furthermore, even if it did,
 the problem of what is beyond it would remain
-unanswered:[35](cwiu16.htm#an_2_35)
+unanswered:[35](cwiu16.htm#an_2_35.md)
 
 <div class="iq">
 
@@ -787,7 +787,7 @@ than is another space beyond?
 <span class="smallcaps">Fracastoro</span>—It certainly appeareth to me
 not so. For where there is nothing there can be no differentiation;
 where there is no differentiation there is no
-[destruction](errata.htm#1) of quality and perhaps there is even less of
+[destruction](errata.htm#1.md) of quality and perhaps there is even less of
 quality where there is nought whatsoever.
 
 </div>
@@ -801,7 +801,7 @@ our part of the infinite space there is a world, a sun-star surrounded
 by planets, it is the same everywhere in the universe. Our world is not
 the universe, but only this *machina*, surrounded by an infinite number
 of other similar or analogous "worlds"—the worlds of star-suns scattered
-in the etheric ocean of the sky.[36](cwiu16.htm#an_2_36)
+in the etheric ocean of the sky.[36](cwiu16.htm#an_2_36.md)
 
 Indeed, if it was, and is, possible for God to create a world in this
 our space, it is, and it was, just as possible for Him to create it
@@ -813,7 +813,7 @@ space—pure receptacle of being—deprives God of any reason to create it
 here, and not elsewhere. Accordingly, the limitation of God's creative
 action is unthinkable. In this case, the possibility implies actuality.
 The infinite world can be; therefore it must be; therefore it
-is.[37](cwiu16.htm#an_2_37)
+is.[37](cwiu16.htm#an_2_37.md)
 
 <div class="iq">
 
@@ -827,7 +827,7 @@ worlds therein without number.
 
 <span class="contnote">\[paragraph continues\]</span> Or, as the
 Aristotelian adversary of Bruno, Elpino, now converted to his views,
-formulates it:[33](cwiu16.htm#an_2_33)
+formulates it:[33](cwiu16.htm#an_2_33.md)
 
 <div class="iq">
 
@@ -845,7 +845,7 @@ it be of innumerable others.
 
 </div>
 
-More concretely:[39](cwiu16.htm#an_2_39)
+More concretely:[39](cwiu16.htm#an_2_39.md)
 
 <div class="iq">
 
@@ -874,7 +874,7 @@ rather good, too, in spite of an optical error of believing that, in
 order to be seen, the planets must be formed on the pattern of spherical
 mirrors and possess a polished, smooth, "watery" surface, for which,
 moreover, he is not responsible as it was common belief until
-Galileo:[40](cwiu16.htm#an_2_40)
+Galileo:[40](cwiu16.htm#an_2_40.md)
 
 <div class="iq">
 
@@ -909,7 +909,7 @@ we place our earth or our sun as that centre.
 
 The question then arises whether the fixed stars of the heavens are
 really suns, and centers of worlds comparable to
-ours.[41](cwiu16.htm#an_2_41)
+ours.[41](cwiu16.htm#an_2_41.md)
 
 <div class="iq">
 
@@ -921,7 +921,7 @@ travel their own neighbouring earths which are not discernible by us.
 </div>
 
 One would expect a positive answer. But for once Bruno is
-prudent:[42](cwiu16.htm#an_2_42)
+prudent:[42](cwiu16.htm#an_2_42.md)
 
 <div class="iq">
 
@@ -952,7 +952,7 @@ avoid calling their worlds "infinite," but only "interminate," or
 "indefinite"? Bruno replies that he does not deny, of course, the utter
 difference of the intensive and perfectly simple infinity of God from
 the extensive and multiple infinity of the world. Compared to God, the
-world is as a mere point, as a nothing.[43](cwiu16.htm#an_2_43)
+world is as a mere point, as a nothing.[43](cwiu16.htm#an_2_43.md)
 
 <div class="iq">
 
@@ -980,7 +980,7 @@ world.
 
 <span id="page_53">p. 53</span>
 
-To sum up:[44](cwiu16.htm#an_2_44)
+To sum up:[44](cwiu16.htm#an_2_44.md)
 
 <div class="iq">
 
@@ -1057,7 +1057,7 @@ contemporaries, or even whether he
 <span id="page_55">p. 55</span>
 
 influenced them at all. Personally, I doubt it very much. He was, in his
-teaching, far ahead of his time.[45](cwiu16.htm#an_2_45) Thus his
+teaching, far ahead of his time.[45](cwiu16.htm#an_2_45.md) Thus his
 influence seems to me to have been a delayed one. It was only *after*
 the great telescopic discoveries of Galileo that it was accepted and
 became a factor, and an important one, of the seventeenth century
@@ -1078,7 +1078,7 @@ extension of the world "of which the limit is not known, and cannot be
 known," Gilbert, "to enforce his point, adopted without qualification
 Digges' idea that the stars were infinite in number, and located at
 varying and infinite distances from the center of the
-Universe."[46](cwiu16.htm#an_2_46)
+Universe."[46](cwiu16.htm#an_2_46.md)
 
 This is quite possible, too. Yet, if he adopted *this* idea of Digges,
 he completely rejected his predecessor's immersion of the celestial
@@ -1158,10 +1158,10 @@ centre in an orbit as that of the Moon.
 
 But there can be no movement of infinity and of an infinite body, and
 therefore no diurnal revolution of the *Primum
-Mobile*.[47](cwiu16.htm#an_2_47)
+Mobile*.[47](cwiu16.htm#an_2_47.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Next: III. The New Astronomy Against the New Metaphysics](cwiu06)
+[Next: III. The New Astronomy Against the New Metaphysics](cwiu06.md)

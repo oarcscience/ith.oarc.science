@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Christianity](../../chr/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Christianity](../../chr/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte.md)
 
 </div>
 
@@ -36,8 +36,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](jlgi00)    [Page
-Index](pageidx)    [Text \[Zipped\]](jlgitxt.zip)
+[Contents](#contents)    [Start Reading](jlgi00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](jlgitxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -57,24 +57,24 @@ The basis of this etext is the 1908 Yogi Publication Society edition.
 There were several others, including a prior 1900 publication in London
 and editions by Rider in 1917 and 1923. Unlike some of the other YPS
 books, the identity of the author is not in question. Despite the
-[typos](errata) which litter YPS editions, this is a delight to read.
+[typos](errata.md) which litter YPS editions, this is a delight to read.
 Schuré dimensionalizes his 'Essene' Jesus by relating key points in the
 story in an almost first-person fashion. <span class="small">--J.B.
 Hare, June 25th, 2008.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](jlgi00)  
-[Preface](jlgi01)  
-[Contents](jlgi02)  
-[Chapter I. Condition of the World at the Birth of Jesus](jlgi03)  
-[Chapter II. Mary—First Development of Jesus](jlgi04)  
-[Chapter III. The Essenes—John the Baptist—The Temptation](jlgi05)  
+<span id="contents"></span> [Title Page](jlgi00.md)  
+[Preface](jlgi01.md)  
+[Contents](jlgi02.md)  
+[Chapter I. Condition of the World at the Birth of Jesus](jlgi03.md)  
+[Chapter II. Mary—First Development of Jesus](jlgi04.md)  
+[Chapter III. The Essenes—John the Baptist—The Temptation](jlgi05.md)  
 [Chapter IV. The Public Life of Jesus—Popular and Esoteric
-Instruction—Miracles—Apostles—Women](jlgi06)  
+Instruction—Miracles—Apostles—Women](jlgi06.md)  
 [Chapter V. Struggle With the Pharisees—Flight to Cæsarea—The
-Transfiguration](jlgi07)  
+Transfiguration](jlgi07.md)  
 [Chapter V. Final Journey to Jerusalem—The Promise—The Supper—Trial of
-Jesus—Death and Resurrection](jlgi08)  
-[Chapter VII. The Promise and Its Fulfilment—The Temple](jlgi09)  
-[Advertisements](jlgi10)  
+Jesus—Death and Resurrection](jlgi08.md)  
+[Chapter VII. The Promise and Its Fulfilment—The Temple](jlgi09.md)  
+[Advertisements](jlgi10.md)  

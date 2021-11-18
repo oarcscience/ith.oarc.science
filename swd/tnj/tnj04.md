@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](tnj03)  [Next](tnj05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](tnj03)  [Next](tnj05.md) 
 
 ------------------------------------------------------------------------
 
@@ -810,7 +810,7 @@ spiritual temptations; for spiritual temptations are pains of mind
 induced by evil spirits, with those who are in goods and truths. While
 those spirits excite the evils which are with them, there arises the
 anxiety of temptation. Man does not know whence this anxiety comes,
-because he does not know his <span id="fr_4"></span>[187-1](#fn_4)
+because he does not know his <span id="fr_4"></span>[187-1](#fn_4.md)
 origin.
 
 <span class="margnote"><span id="188.">188.</span></span>
@@ -844,7 +844,7 @@ has dominion.
 These combats are carried on by the truths of faith which are from the
 Word. From these man must combat against evils and falsities; for if he
 combats from any other principles, he cannot conquer, because in these
-alone the Lord is present. <span id="fr_5"></span>[191-1](#fn_5) Because
+alone the Lord is present. <span id="fr_5"></span>[191-1](#fn_5.md) Because
 this combat is carried on by the truths of faith, therefore man is not
 admitted into it until he is in the knowledges of good and truth, and
 has thence obtained some spiritual life; therefore such combats do not
@@ -903,7 +903,7 @@ appear under the form of interior anxieties and pains of conscience; for
 they affect and torment man's spiritual life, because he supposes that
 they proceed, not from evil spirits, but from his own interiors. Man
 does not know that such assaults are <span
-id="fr_6"></span>[196-1](#fn_6) from evil spirits because he does not
+id="fr_6"></span>[196-1](#fn_6.md) from evil spirits because he does not
 know that spirits are present with him, evil spirits in his evils, and
 good spirits in his goods; and that they are in his thoughts and
 affections. These temptations are most grievous when they are
@@ -1089,7 +1089,7 @@ and arranges them in a heavenly form (n. 10685). The interiors of the
 spiritual man are arranged into a heavenly form, see the work on Heaven
 and Hell, in the chapter on the Form of Heaven, according to which are
 the consociations and communications <span
-id="fr_7"></span>[199-1](#fn_7) there (n. 200, 212). They who fall in
+id="fr_7"></span>[199-1](#fn_7) there (n. 200, 212.md). They who fall in
 temptations, come into damnation, because evils and falsities conquer,
 and the natural man prevails over the spiritual man, and afterwards has
 the dominion; and then the latter state becomes worse than the former
@@ -1138,20 +1138,20 @@ freedom is of affection or love, and according to its quality (n. 2870,
 
 ### Footnotes
 
-<span id="fn_4"></span>[187-1](tnj04.htm#fr_4) The Latin is "hanc." It
+<span id="fn_4"></span>[187-1](tnj04.htm#fr_4.md) The Latin is "hanc." It
 probably should be translated "its" or "this."
 
-<span id="fn_5"></span>[191-1](tnj04.htm#fr_5) The phrase "because in
+<span id="fn_5"></span>[191-1](tnj04.htm#fr_5.md) The phrase "because in
 these alone the Lord is present," is more accurately translated "because
 in other principles the Lord is not present."
 
-<span id="fn_6"></span>[196-1](tnj04.htm#fr_6) In the original Latin
+<span id="fn_6"></span>[196-1](tnj04.htm#fr_6.md) In the original Latin
 "non" occurs twice in the sentence.
 
-<span id="fn_7"></span>[199-1](tnj04.htm#fr_7) The phrase "and
+<span id="fn_7"></span>[199-1](tnj04.htm#fr_7.md) The phrase "and
 communications" is found in the 1st Latin edition but not the 2nd. The
 translator thus omits it.
 
 ------------------------------------------------------------------------
 
-[Next: 201-250](tnj05)
+[Next: 201-250](tnj05.md)

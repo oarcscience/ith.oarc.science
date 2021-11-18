@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth066)  [Next](toth068) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth066)  [Next](toth068.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_192">p. 192</span>
 
-## 64. THE COYOTE AND THE HUMMING-BIRD. <span id="fr_133"></span>[1](#fn_131)
+## 64. THE COYOTE AND THE HUMMING-BIRD. <span id="fr_133"></span>[1](#fn_131.md)
 
 Ishyaoí! The Coyote was living at Íshmovala, west of Oraíbi, and a
 Humming-bird was living at Tohchipchook'pu. They both had children and
@@ -60,9 +60,9 @@ there.
 
 ### Footnotes
 
-<span id="fn_131"></span>[192:1](toth067.htm#fr_133) Told by Kwayeshva
+<span id="fn_131"></span>[192:1](toth067.htm#fr_133.md) Told by Kwayeshva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 65. How the Coyote Was Deceived By the Wren](toth068)
+[Next: 65. How the Coyote Was Deceived By the Wren](toth068.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww09)  [Next](lww11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww09)  [Next](lww11.md) 
 
 ------------------------------------------------------------------------
 
@@ -223,4 +223,4 @@ comforted her.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI--Mesmer's Chest](lww11)
+[Next: Chapter XI--Mesmer's Chest](lww11.md)

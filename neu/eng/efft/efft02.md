@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft01)  [Next](efft03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft01)  [Next](efft03.md) 
 
 ------------------------------------------------------------------------
 
-# THE PRINCESS OF CANTERBURY.  <span id="fr_1"></span>[1](#fn_1)
+# THE PRINCESS OF CANTERBURY.  <span id="fr_1"></span>[1](#fn_1.md)
 
 IN days of yore, when this country was governed by many kings, among the
 rest the King of Canterbury had an only daughter, wise, fair, and
@@ -60,10 +60,10 @@ king's son.
 
 ### Footnotes
 
-<span id="fn_1"></span>[1](efft02.htm#fr_1) From *The History of the
+<span id="fn_1"></span>[1](efft02.htm#fr_1.md) From *The History of the
 Four Kings of Canterbury, Colchester, Cornwall, and Cumberland, their
 Queens and Daughters*. Chap-book, Falkirk, 1823.
 
 ------------------------------------------------------------------------
 
-[Next: The Princess of Colchester](efft03)
+[Next: The Princess of Colchester](efft03.md)

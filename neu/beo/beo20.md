@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo19)  [Next](beo21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo19)  [Next](beo21.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ had passed in peace to the prince's mind.
 
 ------------------------------------------------------------------------
 
-[Next: Part XX](beo21)
+[Next: Part XX](beo21.md)

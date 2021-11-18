@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft38)  [Next](eft40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft38)  [Next](eft40.md) 
 
 ------------------------------------------------------------------------
 
 # The Cauld Lad of Hilton
 
 <span id="img_057"></span> [![](tn/057.jpg)  
-Click to enlarge](img/057.jpg)
+Click to enlarge](img/057.jpg.md)
 
 AT Hilton Hall, long years ago, there lived a Brownie that was the
 contrariest Brownie you ever knew. At night, after the servants had gone
@@ -58,4 +58,4 @@ And with that it vanished, and was never seen or heard of afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: The Ass, The Table and the Stick](eft40)
+[Next: The Ass, The Table and the Stick](eft40.md)

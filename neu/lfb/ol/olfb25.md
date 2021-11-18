@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb24)  [Next](olfb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb24)  [Next](olfb26.md) 
 
 </div>
 
@@ -662,6 +662,6 @@ Kristensen*. Translated from the Danish by Mrs. Skovgaard-Pedersen.)
 
 ------------------------------------------------------------------------
 
-[Next: The Clever Weaver](olfb26)
+[Next: The Clever Weaver](olfb26.md)
 
 </div>

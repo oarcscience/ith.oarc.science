@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](oxherd)  [Next](mzb01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](oxherd)  [Next](mzb01.md) 
 
 ------------------------------------------------------------------------
 
@@ -191,4 +191,4 @@ August 1935
 
 ------------------------------------------------------------------------
 
-[Next: I. Gathas and Prayers](mzb01)
+[Next: I. Gathas and Prayers](mzb01.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb09)  [Next](pifb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb09)  [Next](pifb11.md) 
 
 </div>
 
@@ -220,6 +220,6 @@ And no one thought of the Snow-man.
 
 ------------------------------------------------------------------------
 
-[Next: The Shirt-collar](pifb11)
+[Next: The Shirt-collar](pifb11.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx08)  [Next](omtx10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx08)  [Next](omtx10.md) 
 
 ------------------------------------------------------------------------
 
@@ -450,7 +450,7 @@ discretion. Labor, therefore, to discharge the duties of your respective
 offices in such a manner as not to bring censure or dishonor upon the
 head of your illustrious chief.
 
-They are then [seated](errata.htm#2), and the Grand Marshal presents the
+They are then [seated](errata.htm#2.md), and the Grand Marshal presents the
 Grand Chaplain, and the Installing Officer proceeds as follows:
 
 ### Grand Chaplain
@@ -635,4 +635,4 @@ always be interspersed with appropriate music.\]
 
 ------------------------------------------------------------------------
 
-[Next: Installation Ceremony for a Subordinate Lodge](omtx10)
+[Next: Installation Ceremony for a Subordinate Lodge](omtx10.md)

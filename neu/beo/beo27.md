@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo26)  [Next](beo28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo26)  [Next](beo28.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ his young friend again "and exchange brave words in the hall."
 
 ------------------------------------------------------------------------
 
-[Next: Part XXVII](beo28)
+[Next: Part XXVII](beo28.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe354)  [Next](prwe356) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe354)  [Next](prwe356.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ Valley. *Nor*, in Williams's Welsh Dictionary, is earth, This makes
 
 ------------------------------------------------------------------------
 
-[Next: Merry Sean Lads](prwe356)
+[Next: Merry Sean Lads](prwe356.md)

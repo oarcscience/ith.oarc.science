@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng21)  [Next](vlsng23) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng21)  [Next](vlsng23.md) 
 
 ------------------------------------------------------------------------
 
@@ -212,4 +212,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI: More Wise Words of Brynhild.](vlsng23)
+[Next: Chapter XXI: More Wise Words of Brynhild.](vlsng23.md)

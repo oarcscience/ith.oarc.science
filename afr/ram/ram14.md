@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram13)  [Next](ram15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram13)  [Next](ram15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -63,7 +63,7 @@ person, and especially the head, which, in savage philosophy is
 peculiarly sacred, that an Australian will not pass under a leaning tree
 or the rails of a fence lest a woman should have been on it, and that
 blood from her, resting on the tree, might fall on him. <span
-id="fr_190"></span>[\*](#fn_190) The Siamese think it unlucky to pass
+id="fr_190"></span>[\*](#fn_190.md) The Siamese think it unlucky to pass
 under a rope on which women's clothes are suspended. In New Zealand the
 blood of women is supposed to have
 
@@ -84,7 +84,7 @@ with his foot, nor was the sun thought worthy to shine on his royal
 head. The heir to the throne of Bogota forfeited his right to the
 succession if the sun shone direct upon him. In Sogomoso the
 heir-apparent is shut up in seclusion for seven years without seeing the
-light of the sun. <span id="fr_191"></span>[\*](#fn_191) Now, it is
+light of the sun. <span id="fr_191"></span>[\*](#fn_191.md) Now, it is
 remarkable that girls at puberty and women at regular intervals and
 after delivery are subjected to the same rule of restrictions during a
 variable period. In Laondo, a purely negro State, girls at puberty are
@@ -101,7 +101,7 @@ shine on it and shrivel her up into a withered skeleton, an assured
 result of any disregard of custom. At night she returns home and is
 closely secluded for a period of seven days. She then resumes her work.
 New Ireland girls are confined for four or five years in small cages and
-kept in the dark. <span id="fr_192"></span>[\*](#fn_192)
+kept in the dark. <span id="fr_192"></span>[\*](#fn_192.md)
 
 Customs akin to these are world-wide, and have left in the folk-lore of
 all nations evidence of their being once universal. For example. A Greek
@@ -161,7 +161,7 @@ have any force in existence without its tending to give colour to all
 the institutions existing among men.
 
 In a land where a woman may not touch a cow's udder <span
-id="fr_193"></span>[\*](#fn_193) on pain of direst results, we may
+id="fr_193"></span>[\*](#fn_193.md) on pain of direst results, we may
 expect to find her wielding power however harshly she may be treated.
 Even from the most closely guarded harem come influences which go to
 make or mar the state. The Lubare of Uganda may be under the direction
@@ -173,7 +173,7 @@ not uncommon to find a husband or father accompany the woman to do the
 actual trading while she carries the burden. But this is not universal.
 There are tribes where the women are bold, aggressive and
 self-assertive. The Monbutto women are independent, obtrusive and
-immodest. <span id="fr_194"></span>[†](#fn_194) They do the field work
+immodest. <span id="fr_194"></span>[†](#fn_194.md) They do the field work
 as is done by all African women, but in other respects assert their
 independence in a manner rarely met with. The Monbutto are an island of
 humanity, in the very
@@ -194,14 +194,14 @@ prevented their understanding the meaning of facts which came under
 their notice with painful prominence. So obtrusive did they find the
 women that they were compelled to get some of their own Swazi women
 camp-followers to mount guard over their persons in their tents while
-they slept. <span id="fr_195"></span>[\*](#fn_195) Whether this was a
+they slept. <span id="fr_195"></span>[\*](#fn_195.md) Whether this was a
 natural aggressiveness of character, or the ordinary courtesies of the
 country I do not know. It is common enough for a chief to order one of
 the members of his harem to be given to a distinguished stranger during
 his stay, but the women will only repair to his tent at night and as if
 by stealth. Though not objecting to a temporary change of husband, they
 cannot effect the change during the day lest the gods should be
-offended. <span id="fr_196"></span>[†](#fn_196) When Dr. Felkin pressed
+offended. <span id="fr_196"></span>[†](#fn_196.md) When Dr. Felkin pressed
 King Mtesa to replenish the mission larder, the king wearied
 
 <span id="page_201">p. 201</span>
@@ -247,7 +247,7 @@ applies to a dog, would be equivalent to throwing a glass of wine in a
 gentleman's eyes in the days when Irish steeple-chasing was in its
 glory. In a land where cowdung and urine are necessary requisites of the
 toilet, burying a dog would prevent the growth of the season's
-crops. <span id="fr_197"></span>[\*](#fn_197) It is by a knowledge of
+crops. <span id="fr_197"></span>[\*](#fn_197.md) It is by a knowledge of
 such customs and prejudices we can reach the minds of such peoples, and
 come to have an understanding of their domestic life. By beginning with
 what they can understand, we can gradually advance leading them to
@@ -275,7 +275,7 @@ Kaffir to whom his missionary said, "I know many of you spend your
 nights roaming about after other men's wives." "No, master," he
 answered, "we do not do that, we have our own wives at night; it is
 during the day our people go to see other women they love." <span
-id="fr_198"></span>[\*](#fn_198) Another Scotch parson was asked, "How
+id="fr_198"></span>[\*](#fn_198.md) Another Scotch parson was asked, "How
 many wives have you," and on his replying that he had none, his
 interrogator asked sympathetically, "Was that because you could not get
 the cattle?"
@@ -284,28 +284,28 @@ the cattle?"
 
 ### Footnotes
 
-<span id="fn_190"></span>[195:\*](ram14.htm#fr_190) J. G. Frazer,
+<span id="fn_190"></span>[195:\*](ram14.htm#fr_190.md) J. G. Frazer,
 quoting E. M. Curr.
 
-<span id="fn_191"></span>[196:\*](ram14.htm#fr_191) J. G. Frazer,
+<span id="fn_191"></span>[196:\*](ram14.htm#fr_191.md) J. G. Frazer,
 quoting Alonzo de Zurita.
 
-<span id="fn_192"></span>[197:\*](ram14.htm#fr_192) Rev. B. Banks.
+<span id="fn_192"></span>[197:\*](ram14.htm#fr_192.md) Rev. B. Banks.
 
-<span id="fn_193"></span>[199:\*](ram14.htm#fr_193) Felkin.
+<span id="fn_193"></span>[199:\*](ram14.htm#fr_193.md) Felkin.
 
-<span id="fn_194"></span>[199:†](ram14.htm#fr_194) Schweinfurth.
+<span id="fn_194"></span>[199:†](ram14.htm#fr_194.md) Schweinfurth.
 
-<span id="fn_195"></span>[200:\*](ram14.htm#fr_195) Underwood, MS.
+<span id="fn_195"></span>[200:\*](ram14.htm#fr_195.md) Underwood, MS.
 notes.
 
-<span id="fn_196"></span>[200:†](ram14.htm#fr_196) Winterbotham.
+<span id="fn_196"></span>[200:†](ram14.htm#fr_196.md) Winterbotham.
 
-<span id="fn_197"></span>[202:\*](ram14.htm#fr_197) Scillocks and Dinka.
+<span id="fn_197"></span>[202:\*](ram14.htm#fr_197.md) Scillocks and Dinka.
 
-<span id="fn_198"></span>[203:\*](ram14.htm#fr_198) Rev. J. Lundie. MS.
+<span id="fn_198"></span>[203:\*](ram14.htm#fr_198.md) Rev. J. Lundie. MS.
 notes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Courtesies of Life—Dress](ram15)
+[Next: Chapter XIII. Courtesies of Life—Dress](ram15.md)

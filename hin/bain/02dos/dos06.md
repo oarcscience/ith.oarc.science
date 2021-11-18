@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos05)  [Next](dos07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos05)  [Next](dos07.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,14 +11,14 @@
 Now Kamalamitra, when he was separated from Anushayiní by the curse of
 the ascetic, fell down to earth, and was born as the son of a King of
 the Solar Race in a distant country. And his father gave him the name of
-Umra-Singh <span id="fr_43"></span>[p](#fn_43), for the astrologers
+Umra-Singh <span id="fr_43"></span>[p](#fn_43.md), for the astrologers
 said: He will live on earth like a lion, and run over it like his rival
 in the sky. And when he grew up, there was no one in that country who
 could match him in riding, or wrestling, or swordsmanship, or any other
 martial exercise: so that the people said of him: He looks like the very
 soul of the nature of a Kshatriya that has assumed a body suited to its
 deeds. Surely he is an incarnation of Kumára <span
-id="fr_44"></span>[q](#fn_44), come down to earth for the destruction of
+id="fr_44"></span>[q](#fn_44.md), come down to earth for the destruction of
 the King's enemies. And the women flocked around him like flies about
 honey, for their hearts were trampled to pieces, like lotuses, by the
 wild-elephant of his glorious youth, and their souls were intoxicated
@@ -28,7 +28,7 @@ with the nectar of the beauty of
 
 his figure, and followed him about like captives chained in rows. But
 Umra-Singh laughed at them all, and even outdid the moon-crested
-god <span id="fr_45"></span>[r](#fn_45), in that he drank continually
+god <span id="fr_45"></span>[r](#fn_45.md), in that he drank continually
 the deadly poison of the ocean of their seductions, without even
 staining his throat.
 
@@ -57,7 +57,7 @@ prepare for the wedding: for I have arranged the ceremonies, and
 appointed the day. But Umra-Singh laughed, and said: Marry her thyself:
 for I tell thee, I will not marry anybody, but the lady of my dream.
 Then his father flew into a rage, and summoned his guards, and threw the
-prince <span id="fr_46"></span>[s](#fn_46) into prison, saying to
+prince <span id="fr_46"></span>[s](#fn_46.md) into prison, saying to
 himself: He shall stay there, with his dream to keep him company, till
 he learns to obey. But Umra-Singh persuaded his gaolers to let him
 escape, for the subjects loved him more than his father. And he fled
@@ -77,7 +77,7 @@ counting the whole world as a straw, supporting himself on his own
 courage, and his dream. And little by little all he had melted away like
 snow in the sun of his generosity, or was swallowed up by the ocean of
 greedy gamblers, among whom he scattered it with an open hand, asking,
-like his ancestor <span id="fr_47"></span>[t](#fn_47), nothing in
+like his ancestor <span id="fr_47"></span>[t](#fn_47.md), nothing in
 return. And at last, being reduced to extremity, clad in garments worn
 and ragged, which like clouds vainly obscuring the Lord of the Day,
 could not hide, but rather increased, the beauty of his form, with
@@ -200,7 +200,7 @@ and he knew that it was Shrí.
 
 So they two stood there, like pictures painted on a wall, gazing at each
 other, and groping in vain for recollection in the darkness of
-oblivion <span id="fr_48"></span>[u](#fn_48), like shadows in a dream.
+oblivion <span id="fr_48"></span>[u](#fn_48.md), like shadows in a dream.
 And then, after a while, Shrí came to herself. And she said slowly: So
 thou hast seen the Land of the Lotus of the Sun? Then mention its
 peculiarities, and tell me how thou didst arrive at it.
@@ -216,7 +216,7 @@ its office, and sounded in his ears like that of another man. And he
 said: Lady, I went I know not how, and wandered I know not how long,
 among wastes and deserts and mountains I know not how high, till I came
 to a land I know not where, called the Land of the Lotus of the Sun, I
-know not why <span id="fr_49"></span>[x](#fn_49).
+know not why <span id="fr_49"></span>[x](#fn_49.md).
 
 But as he spoke, the spell was broken, and Shrí woke as it were from a
 dream. And she saw before her only a ragged Rajpoot, stumbling in his
@@ -256,33 +256,33 @@ King's daughter*.
 
 ### Footnotes
 
-<span id="fn_43"></span>[32:p](dos06.htm#fr_43) The name is
+<span id="fn_43"></span>[32:p](dos06.htm#fr_43.md) The name is
 *Amarasinha*. But this is so certain to be a stumbling-block in an
 English mouth, that I have spelt it as it would be pronounced by a
 Hindoo. (*Um* as in *drum*.) It means '*lion-god*' or '*god-lion*,' a
 name suited to a king of the line of the Sun.
 
-<span id="fn_44"></span>[32:q](dos06.htm#fr_44) The War-god.
+<span id="fn_44"></span>[32:q](dos06.htm#fr_44.md) The War-god.
 
-<span id="fn_45"></span>[33:r](dos06.htm#fr_45) Because, though Shiwa
+<span id="fn_45"></span>[33:r](dos06.htm#fr_45.md) Because, though Shiwa
 drank the *kálakuta* or deadly sea-poison, with impunity, still it left
 its mark on his throat, and dyed it blue.
 
-<span id="fn_46"></span>[34:s](dos06.htm#fr_46) A *rajpoot* means only
+<span id="fn_46"></span>[34:s](dos06.htm#fr_46.md) A *rajpoot* means only
 the son of a king, and it is to be observed that there were *rajpoots*
 in India long before the present 'Rajpoots' ever came there.
 
-<span id="fn_47"></span>[35:t](dos06.htm#fr_47) i.e. the Sun. There are
+<span id="fn_47"></span>[35:t](dos06.htm#fr_47.md) i.e. the Sun. There are
 double meanings in this period, comparing him to the Sun.
 
-<span id="fn_48"></span>[40:u](dos06.htm#fr_48) *adrishta*: a peculiar
+<span id="fn_48"></span>[40:u](dos06.htm#fr_48.md) *adrishta*: a peculiar
 technical term, meaning something that has its roots in the *unseen*
 circumstances of a former birth.
 
-<span id="fn_49"></span>[47:x](dos06.htm#fr_49) No translator can give
+<span id="fn_49"></span>[47:x](dos06.htm#fr_49.md) No translator can give
 the alliterative jingle of the *rathás* and *tathás*, *vads* and *tads*
 of this and the answer of Shrí below.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Inspiration](dos07)
+[Next: IV. Inspiration](dos07.md)

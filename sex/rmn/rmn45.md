@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn44)  [Next](rmn46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn44)  [Next](rmn46.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ indeed it would be rather difficult to explain it in sober language.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XLV: Spinthria](rmn46)
+[Next: Plate XLV: Spinthria](rmn46.md)

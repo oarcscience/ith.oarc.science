@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mhw06)
+[Contents](#contents)    [Start Reading](mhw06.md)
 
 ------------------------------------------------------------------------
 
@@ -43,12 +43,12 @@ is not feasible to post the entire book on the web at this point.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mhw00)  
-[The Long Count](mhw06)  
-[Appendix I. Divinatory Almanacs in the Books of Chilam Balam](mhwap1)  
-[Appendix II. The Correlation Question](mhwap2)  
+<span id="contents"></span> [Title Page](mhw00.md)  
+[The Long Count](mhw06.md)  
+[Appendix I. Divinatory Almanacs in the Books of Chilam Balam](mhwap1.md)  
+[Appendix II. The Correlation Question](mhwap2.md)  
 [Appendix III. Whorf's Attempts to Decipher the Maya
-Hieroglyphs](mhwap3)  
+Hieroglyphs](mhwap3.md)  
 [Appendix IV. Maya Calculations Far into the Past and into the
-Future](mhwap4)  
-[Appendix V. Determinants](mhwap5)  
+Future](mhwap4.md)  
+[Appendix V. Determinants](mhwap5.md)  

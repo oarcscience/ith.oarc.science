@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vob01)  [Next](vob03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vob01)  [Next](vob03.md) 
 
 ------------------------------------------------------------------------
 
@@ -823,11 +823,11 @@ for Nechtán for mac Collbrain.</p>
 
 ### Footnotes
 
-<span id="fn_6"></span>[2:1](vob02.htm#fr_6) Imram, lit. 'rowing about,'
+<span id="fn_6"></span>[2:1](vob02.htm#fr_6.md) Imram, lit. 'rowing about,'
 denotes a voyage voluntarily undertaken, as distinguished from *longes*,
 'a voyage of exile.'
 
-<span id="fn_7"></span>[2:2](vob02.htm#fr_7) *Echtre*, f. (a derivative
+<span id="fn_7"></span>[2:2](vob02.htm#fr_7.md) *Echtre*, f. (a derivative
 of *echtar* = Lat. *extra*), lit. 'outing,' specially denotes
 expeditions and sojourns in Fairy-land, as in *Echtra Bresail Bricc maic
 Briuin* (LL. p. 170 b, 25), who stayed fifty years under Loch Láeg;
@@ -835,68 +835,68 @@ Briuin* (LL. p. 170 b, 25), who stayed fifty years under Loch Láeg;
 (Rev. Celt. x. p. 212), *Echtra Nectain maic Alfroinn* (LL. p. 189 b,
 59) = Nechtán mac Collbrain, infra § 63, etc.
 
-<span id="fn_8"></span>[2:3](vob02.htm#fr_8) That it was the branch that
+<span id="fn_8"></span>[2:3](vob02.htm#fr_8.md) That it was the branch that
 produced the music, when shaken, appears from a similar incident in
 *Echtra Cormaic*, Ir. Texte iii. p. 212.
 
-<span id="fn_9"></span>[4:1](vob02.htm#fr_9) All the MSS. contain only
+<span id="fn_9"></span>[4:1](vob02.htm#fr_9.md) All the MSS. contain only
 twenty-eight quatrains.
 
-<span id="fn_10"></span>[4:2](vob02.htm#fr_10) *aball*, f., which
+<span id="fn_10"></span>[4:2](vob02.htm#fr_10.md) *aball*, f., which
 glosses Lat. *malus* in Sg. 61 b, has come to denote any fruit-tree, as
 in *fic-abull mór arsata*, 'a large ancient fig-tree,' LBr. 158 a, 55.
 CL Stokes, Rev. Celt. x. p. 71, n. 3.
 
-<span id="fn_11"></span>[4:3](vob02.htm#fr_11) *i.e.* nomen regionis
+<span id="fn_11"></span>[4:3](vob02.htm#fr_11.md) *i.e.* nomen regionis
 (gloss).
 
-<span id="fn_12"></span>[4:4](vob02.htm#fr_12) A *kenning* for 'crested
+<span id="fn_12"></span>[4:4](vob02.htm#fr_12.md) A *kenning* for 'crested
 sea-waves.' Cf. *groig maic Lir*, 'the Son of Ler's horses,' Rev. Celt.
 p. 104. Zimmer misrenders: 'um welche die rosse des meeres spielend
 auftauchen.'
 
-<span id="fn_13"></span>[4:5](vob02.htm#fr_13) Lit. 'white-sided
+<span id="fn_13"></span>[4:5](vob02.htm#fr_13.md) Lit. 'white-sided
 wave-swelling.'
 
-<span id="fn_14"></span>[4:6](vob02.htm#fr_14) Zimmer, following the
+<span id="fn_14"></span>[4:6](vob02.htm#fr_14.md) Zimmer, following the
 corrupt reading of *R* (*cethror* instead of *cetheoir*), renders: 'dem
 wohnsitz auf fussen von vier mann'!
 
-<span id="fn_15"></span>[4:7](vob02.htm#fr_15) *i.e.* nomen regionis
+<span id="fn_15"></span>[4:7](vob02.htm#fr_15.md) *i.e.* nomen regionis
 (gloss), 'White-Silver Plain.'
 
-<span id="fn_16"></span>[6:1](vob02.htm#fr_16) *i.e.* here below
+<span id="fn_16"></span>[6:1](vob02.htm#fr_16.md) *i.e.* here below
 (gloss).
 
-<span id="fn_17"></span>[6:2](vob02.htm#fr_17) *gairim* is often used of
+<span id="fn_17"></span>[6:2](vob02.htm#fr_17.md) *gairim* is often used of
 the notes of birds, *e.g.*: *int én gaires isint ṡail*, 'the bird that
 sings in the willow,' Ir. Texte iii. p. 19.
 
-<span id="fn_18"></span>[6:3](vob02.htm#fr_18) *trátha*, the canonical
+<span id="fn_18"></span>[6:3](vob02.htm#fr_18.md) *trátha*, the canonical
 hours, an allusion to church music. Zimmer, wrongly, 'zu den zeiten.'
 
-<span id="fn_19"></span>[6:4](vob02.htm#fr_19) *i.e.* nomen regionis
+<span id="fn_19"></span>[6:4](vob02.htm#fr_19.md) *i.e.* nomen regionis
 (gloss), 'Silver-Cloud Plain.'
 
-<span id="fn_20"></span>[6:5](vob02.htm#fr_20) Zimmer, wrongly, 'vor den
+<span id="fn_20"></span>[6:5](vob02.htm#fr_20.md) Zimmer, wrongly, 'vor den
 gerichten.'
 
-<span id="fn_21"></span>[6:6](vob02.htm#fr_21) Lit. 'with harshness.'
+<span id="fn_21"></span>[6:6](vob02.htm#fr_21.md) Lit. 'with harshness.'
 Zimmer, 'fur die kehle'?
 
-<span id="fn_22"></span>[6:7](vob02.htm#fr_22) Cf. *i lobrai ocus i
+<span id="fn_22"></span>[6:7](vob02.htm#fr_22.md) Cf. *i lobrai ocus i
 n-ingás*, Sergl. Conc. 10.
 
-<span id="fn_23"></span>[6:8](vob02.htm#fr_23) *i.e.* nomen regionis
+<span id="fn_23"></span>[6:8](vob02.htm#fr_23.md) *i.e.* nomen regionis
 (gloss).
 
-<span id="fn_24"></span>[8:1](vob02.htm#fr_24) *i.e.* regio (gloss),
+<span id="fn_24"></span>[8:1](vob02.htm#fr_24) *i.e.* regio (gloss.md),
 'Bountiful Land.'
 
-<span id="fn_25"></span>[8:2](vob02.htm#fr_25) *dracoin* = Lai.
+<span id="fn_25"></span>[8:2](vob02.htm#fr_25.md) *dracoin* = Lai.
 dracontiae.
 
-<span id="fn_26"></span>[8:3](vob02.htm#fr_26) 'Mane' and 'hair' are
+<span id="fn_26"></span>[8:3](vob02.htm#fr_26.md) 'Mane' and 'hair' are
 frequent kennings in Irish poetry for the crest and spray of a wave,
 *e.g.*: *in n-ed maras mong for muir*, 'while a 'ested wave remains on
 the sea,' Ir. Texte iii. p. 16. Cf. also the adj. *tibrech*, 'hairy'
@@ -904,65 +904,65 @@ the sea,' Ir. Texte iii. p. 16. Cf. also the adj. *tibrech*, 'hairy'
 5280, fo. 41 a) in *úas tuind tibrig*, LL. 17 b, 2 = *fri tuinn
 tibhrigh*, wrongly explained by O'Clery, s.v. *tibhrigh*.
 
-<span id="fn_27"></span>[8:4](vob02.htm#fr_27) *i.e.* insola (gloss),
+<span id="fn_27"></span>[8:4](vob02.htm#fr_27) *i.e.* insola (gloss.md),
 *i.e.* nomen regionis (gloss), 'Gentle Land.'
 
-<span id="fn_28"></span>[8:5](vob02.htm#fr_28) Cf. Sg. 122 b, where
+<span id="fn_28"></span>[8:5](vob02.htm#fr_28.md) Cf. Sg. 122 b, where
 *céitegrinne fíno* glosses 'nectar.'
 
-<span id="fn_29"></span>[8:6](vob02.htm#fr_29) 'Plain of the Sea.'
+<span id="fn_29"></span>[8:6](vob02.htm#fr_29.md) 'Plain of the Sea.'
 
-<span id="fn_30"></span>[8:7](vob02.htm#fr_30) *i.e.* regio (gloss),
+<span id="fn_30"></span>[8:7](vob02.htm#fr_30) *i.e.* regio (gloss.md),
 'Plain of Sports.'
 
-<span id="fn_31"></span>[10:1](vob02.htm#fr_31) Lit. 'against which the
+<span id="fn_31"></span>[10:1](vob02.htm#fr_31.md) Lit. 'against which the
 sea beats.'
 
-<span id="fn_32"></span>[10:2](vob02.htm#fr_32) Lit. 'it increases
+<span id="fn_32"></span>[10:2](vob02.htm#fr_32.md) Lit. 'it increases
 music.'
 
-<span id="fn_33"></span>[10:3](vob02.htm#fr_33) Here and in § 60 the
+<span id="fn_33"></span>[10:3](vob02.htm#fr_33.md) Here and in § 60 the
 nominative Emne is used instead of Emain (§§ 3, 10).
 
-<span id="fn_34"></span>[10:4](vob02.htm#fr_34) Ir. *brec*,
+<span id="fn_34"></span>[10:4](vob02.htm#fr_34.md) Ir. *brec*,
 'variegated,' probably referring to their dress. Cf. *cóíca ingen
 ildathach*, Sergl. Conc. 45.
 
-<span id="fn_35"></span>[10:5](vob02.htm#fr_35) *i.e.* nomen regionis
+<span id="fn_35"></span>[10:5](vob02.htm#fr_35.md) *i.e.* nomen regionis
 (gloss), 'Very Gentle Land.'
 
-<span id="fn_36"></span>[12:1](vob02.htm#fr_36) Or, perhaps, if we read
+<span id="fn_36"></span>[12:1](vob02.htm#fr_36.md) Or, perhaps, if we read
 *la suthaini síne*, 'It is through lasting weather (lit. lastingness of
 weather) that silver drops on the lands.'
 
-<span id="fn_37"></span>[12:2](vob02.htm#fr_37) *i.e.* mare, 'Plain of
+<span id="fn_37"></span>[12:2](vob02.htm#fr_37.md) *i.e.* mare, 'Plain of
 Sports.'
 
-<span id="fn_38"></span>[12:3](vob02.htm#fr_38) *i.e.* nomen regions,
+<span id="fn_38"></span>[12:3](vob02.htm#fr_38.md) *i.e.* nomen regions,
 'Many-coloured Land.'
 
-<span id="fn_39"></span>[12:4](vob02.htm#fr_39) This quatrain reappears
+<span id="fn_39"></span>[12:4](vob02.htm#fr_39.md) This quatrain reappears
 in a somewhat modified form in a poem (Laud 615, p. 18) addressed to
 Colum Cille by Mongan, who had come from the Land of Promise (*Tír
 Tairngiri*) to meet the saint at Carraic Eolairg on Lough Foyle. See
 Appendix, p. 88.
 
-<span id="fn_40"></span>[14:1](vob02.htm#fr_40) *i.e.* Christ (gloss).
+<span id="fn_40"></span>[14:1](vob02.htm#fr_40) *i.e.* Christ (gloss.md).
 
-<span id="fn_41"></span>[14:2](vob02.htm#fr_41) Lit. 'upon its
+<span id="fn_41"></span>[14:2](vob02.htm#fr_41.md) Lit. 'upon its
 ridge-poles or roof-trees,' alluding probably to the lowly birth of
 Christ.
 
-<span id="fn_42"></span>[14:3](vob02.htm#fr_42) Cf. *ar attú cen tosach
+<span id="fn_42"></span>[14:3](vob02.htm#fr_42.md) Cf. *ar attú cen tosach
 cen forcenn* gl. qui ante creaturæ exordia idem esse non desinas, Ml.
 110 d, is.
 
-<span id="fn_43"></span>[14:4](vob02.htm#fr_43) Cf. Stokes, Goid. p.
+<span id="fn_43"></span>[14:4](vob02.htm#fr_43.md) Cf. Stokes, Goid. p.
 182: *beith fo étoil mac Maire*, 'to he under the unwill of Mary's Son.'
 
-<span id="fn_44"></span>[14:5](vob02.htm#fr_44) An allusion to baptism.
+<span id="fn_44"></span>[14:5](vob02.htm#fr_44.md) An allusion to baptism.
 
-<span id="fn_45"></span>[16:1](vob02.htm#fr_45) Zimmer renders 'ob sin
+<span id="fn_45"></span>[16:1](vob02.htm#fr_45.md) Zimmer renders 'ob sin
 gegangen.' But *cía* here means 'whither' (=Doric πεῖ, Strachan). Cf.
 *noconḟess cía deochatar*, LL. 290 a, 27. *ni fetatar cia deochaid nó
 can donluid*, Sergl. Conc. 12, etc. In the sense of 'whether,' *cía*
@@ -970,173 +970,173 @@ occurs only in the phrase *cía . . . cenco*, 'whether . . . or not,'
 *e.g.*: *fó leiss cía nothiasta ass, fó leiss cenco tiasta*, LL. 109a,
 30; *cía fogabad cenco fagbad, rabeindse ar a chind*, LL. 51 b, 17.
 
-<span id="fn_46"></span>[16:2](vob02.htm#fr_46) Lit. 'men of the same
+<span id="fn_46"></span>[16:2](vob02.htm#fr_46.md) Lit. 'men of the same
 age.'
 
-<span id="fn_47"></span>[16:3](vob02.htm#fr_47) The MSS. again contain
+<span id="fn_47"></span>[16:3](vob02.htm#fr_47.md) The MSS. again contain
 only twenty-eight quatrains.
 
-<span id="fn_48"></span>[16:4](vob02.htm#fr_48) Ir. *slonnud* means to
+<span id="fn_48"></span>[16:4](vob02.htm#fr_48.md) Ir. *slonnud* means to
 make known one's name, or patronymic, as in Rawl. B. 502, fo. 73 a, 2:
 *Buchet a ainm, mac hui Inblæ a slonnud*, or one's native place, as in
 LU. 15 b, 5: *ro íarfaig Finnan a slonniud de. Asbert friu: de Ultaib
 dam-sa*.
 
-<span id="fn_49"></span>[18:1](vob02.htm#fr_49) Or *Mag Mell* may here
+<span id="fn_49"></span>[18:1](vob02.htm#fr_49.md) Or *Mag Mell* may here
 be a place-name. Cf. § 39. It is the most frequent designation of the
 Irish elysium.
 
-<span id="fn_50"></span>[18:2](vob02.htm#fr_50) This seems to be the
+<span id="fn_50"></span>[18:2](vob02.htm#fr_50.md) This seems to be the
 meaning of the verb *tibrim*, another example of which occurs in Rev.
 Celt. xi. p. 130: *ni ḟuil tráich nach tiprai tonn*, which I ought to
 have rendered 'there is no strand that a wave does not beat'
 
-<span id="fn_51"></span>[18:3](vob02.htm#fr_51) 'Plain of Sports,'
+<span id="fn_51"></span>[18:3](vob02.htm#fr_51.md) 'Plain of Sports,'
 glossed by 'mare' above, § 23.
 
-<span id="fn_52"></span>[18:4](vob02.htm#fr_52) This I take to be the
+<span id="fn_52"></span>[18:4](vob02.htm#fr_52.md) This I take to be the
 meaning of *écomras*, the negative of *comras*, 'smooth,' which occurs
 in *cornaib sruachaib comrasaib* (LL. 276 a, 6), 'with hooped smooth
 horns.' Stokes conjectures *-ras* to be cognate with W. *rhathu*, 'to
 file.'
 
-<span id="fn_53"></span>[18:5](vob02.htm#fr_53) *i.e.* The salmon which
+<span id="fn_53"></span>[18:5](vob02.htm#fr_53.md) *i.e.* The salmon which
 Bran sees are calves and are lambs (gloss).
 
-<span id="fn_54"></span>[20:1](vob02.htm#fr_54) 'Pleasant, or Happy
+<span id="fn_54"></span>[20:1](vob02.htm#fr_54.md) 'Pleasant, or Happy
 Plain.' See note on § 34.
 
-<span id="fn_55"></span>[20:2](vob02.htm#fr_55) *i.e.* There were many
+<span id="fn_55"></span>[20:2](vob02.htm#fr_55.md) *i.e.* There were many
 hosts near him, and Bran did not see them (gloss).
 
-<span id="fn_56"></span>[20:3](vob02.htm#fr_56) This rendering rests on
+<span id="fn_56"></span>[20:3](vob02.htm#fr_56.md) This rendering rests on
 the very doubtful connection of *drepa* with Lat. *drappus*, from which
 it might be a loan. Should we compare the obscure line *drengaitir*
 (*sic* legendem?) *dreppa daena*, Goid. p. 176?
 
-<span id="fn_57"></span>[20:4](vob02.htm#fr_57) A mere guess at the
+<span id="fn_57"></span>[20:4](vob02.htm#fr_57.md) A mere guess at the
 meaning of *imrborbach*.
 
-<span id="fn_58"></span>[20:5](vob02.htm#fr_58) Lit. 'a wood under mast
+<span id="fn_58"></span>[20:5](vob02.htm#fr_58.md) Lit. 'a wood under mast
 (acorns) in which is beauty.'
 
-<span id="fn_59"></span>[22:1](vob02.htm#fr_59) I take *foirbthe* to be
+<span id="fn_59"></span>[22:1](vob02.htm#fr_59.md) I take *foirbthe* to be
 the neuter form of the passive participle of *forbenim* used as a
 substantive.
 
-<span id="fn_60"></span>[22:2](vob02.htm#fr_60) *i.e.* of the grave.
+<span id="fn_60"></span>[22:2](vob02.htm#fr_60.md) *i.e.* of the grave.
 
-<span id="fn_61"></span>[22:3](vob02.htm#fr_61) I take *mbeth* to be the
+<span id="fn_61"></span>[22:3](vob02.htm#fr_61.md) I take *mbeth* to be the
 3rd sing. injunctive of *biu*, with the relative *n* prefixed.
 
-<span id="fn_62"></span>[22:4](vob02.htm#fr_62) *i.e.* to Adam in
+<span id="fn_62"></span>[22:4](vob02.htm#fr_62.md) *i.e.* to Adam in
 Paradise.
 
-<span id="fn_63"></span>[22:5](vob02.htm#fr_63) This rendering of
+<span id="fn_63"></span>[22:5](vob02.htm#fr_63.md) This rendering of
 *saibse* (*saibsi*) *ceni* is not much better than a guess. Perhaps
 *sáibse* is a noun derived from *sáib*, 'false.'
 
-<span id="fn_64"></span>[22:6](vob02.htm#fr_64) viz. Adam.
+<span id="fn_64"></span>[22:6](vob02.htm#fr_64.md) viz. Adam.
 
-<span id="fn_65"></span>[22:7](vob02.htm#fr_65) Cf. LU. 17 b; 26: *do
+<span id="fn_65"></span>[22:7](vob02.htm#fr_65.md) Cf. LU. 17 b; 26: *do
 bithaitreb péne ocus rége cen nach crích etir* = LL. 281 a, 38: *do
 bithaittreb péne ocus régc cen nach n-díl etir*.
 
-<span id="fn_66"></span>[22:8](vob02.htm#fr_66) *i.e.* worshipping idols
+<span id="fn_66"></span>[22:8](vob02.htm#fr_66.md) *i.e.* worshipping idols
 (gloss).
 
-<span id="fn_67"></span>[22:9](vob02.htm#fr_67) *i.e.* Christ (gloss).
+<span id="fn_67"></span>[22:9](vob02.htm#fr_67) *i.e.* Christ (gloss.md).
 
-<span id="fn_68"></span>[24:1](vob02.htm#fr_68) *i.e.* to Ireland.
+<span id="fn_68"></span>[24:1](vob02.htm#fr_68.md) *i.e.* to Ireland.
 
-<span id="fn_69"></span>[24:2](vob02.htm#fr_69) *i.e.* to the wife of
+<span id="fn_69"></span>[24:2](vob02.htm#fr_69.md) *i.e.* to the wife of
 Fiachna, king of the Ulster Dalriada, whose royal seat was Rathmore, in
 Moylinny (Linemag), co. Antrim.
 
-<span id="fn_70"></span>[24:3](vob02.htm#fr_70) *i.e.* 'the Conception
+<span id="fn_70"></span>[24:3](vob02.htm#fr_70.md) *i.e.* 'the Conception
 of Mongan' (gloss).
 
-<span id="fn_71"></span>[24:4](vob02.htm#fr_71) *i.e.* Mangan son of
+<span id="fn_71"></span>[24:4](vob02.htm#fr_71.md) *i.e.* Mangan son of
 Fiachna (gloss).
 
-<span id="fn_72"></span>[24:5](vob02.htm#fr_72) Lit. 'will lie a
+<span id="fn_72"></span>[24:5](vob02.htm#fr_72.md) Lit. 'will lie a
 vigorous lying.'
 
-<span id="fn_73"></span>[24:6](vob02.htm#fr_73) 'Fair Lady,' the name of
+<span id="fn_73"></span>[24:6](vob02.htm#fr_73.md) 'Fair Lady,' the name of
 Fiachne's wife. Gilla Modutn, in his poem *Senchas Ban* (LL. 140 a, 37),
 written in 1147 A.D., makes her the daughter of Demmán Dublacha's son.
 
-<span id="fn_74"></span>[24:7](vob02.htm#fr_74) This is a guess at the
+<span id="fn_74"></span>[24:7](vob02.htm#fr_74.md) This is a guess at the
 meaning of *moithfe*. I take it to stand for *móithfe*, from *móithaim*,
 mod. *maothaim*, 'I soften.'
 
-<span id="fn_75"></span>[24:8](vob02.htm#fr_75) *i froiss* may mean 'in
+<span id="fn_75"></span>[24:8](vob02.htm#fr_75.md) *i froiss* may mean 'in
 a shower'; but *fross* is also used metaphorically in the sense of
 'attack, onset.' Cf.
 
-<span id="fn_76"></span>[26:1](vob02.htm#fr_76) *i.e.* post mortem
+<span id="fn_76"></span>[26:1](vob02.htm#fr_76.md) *i.e.* post mortem
 (gloss).
 
-<span id="fn_77"></span>[26:2](vob02.htm#fr_77) *i.e.* famous, without
+<span id="fn_77"></span>[26:2](vob02.htm#fr_77.md) *i.e.* famous, without
 end (*anforcnedach*? cf. LU. 26 b, 27), *i.e.* in futuro corpore
 (gloss).
 
-<span id="fn_78"></span>[26:3](vob02.htm#fr_78) Cf *nosilis rói*, LU. 66
+<span id="fn_78"></span>[26:3](vob02.htm#fr_78.md) Cf *nosilis rói*, LU. 66
 b, 26.
 
-<span id="fn_79"></span>[26:4](vob02.htm#fr_79) The translation of this
+<span id="fn_79"></span>[26:4](vob02.htm#fr_79.md) The translation of this
 quatrain is very uncertain, as the Irish text is hopelessly corrupt in
 several places.
 
-<span id="fn_80"></span>[26:5](vob02.htm#fr_80) As to this meaning of
+<span id="fn_80"></span>[26:5](vob02.htm#fr_80.md) As to this meaning of
 airchend see Windisch, Bea. d. sächs. Gesellschaft der Wissenschaften,
 19.7. 1890.
 
-<span id="fn_81"></span>[26:6](vob02.htm#fr_81) *i.e.* proprinm iloch
+<span id="fn_81"></span>[26:6](vob02.htm#fr_81.md) *i.e.* proprinm iloch
 (gloss). Here *iloch* is obscure to me. One expects a word for 'island.'
 Islay is also referred to in Boirche's poem on the death of Mongan (Four
 Masters, A.D. 620). According to Cinaed ua Hartacaín (+975), Mongan was
 killed by a host from Cantire (*la féin Cindtíre*, LL. 31 b, 42).
 
-<span id="fn_82"></span>[26:7](vob02.htm#fr_82) This refers to Mongan's
+<span id="fn_82"></span>[26:7](vob02.htm#fr_82.md) This refers to Mongan's
 death at the hands of Artur mac Bicoir.
 
-<span id="fn_83"></span>[28:1](vob02.htm#fr_83) *i.e.* in corpora
+<span id="fn_83"></span>[28:1](vob02.htm#fr_83.md) *i.e.* in corpora
 (gloss).
 
-<span id="fn_84"></span>[28:2](vob02.htm#fr_84) *i.e.* this is the
+<span id="fn_84"></span>[28:2](vob02.htm#fr_84.md) *i.e.* this is the
 'Death of Mongan,' a stone from a sling was thrown at him (gloss);
 *i.e.* a stone at the fight in Mongan's stronghold (gloss).
 
-<span id="fn_85"></span>[28:3](vob02.htm#fr_85) *i.e.* a stronghold
+<span id="fn_85"></span>[28:3](vob02.htm#fr_85.md) *i.e.* a stronghold
 (gloss). Senlabor has not been identified.
 
-<span id="fn_86"></span>[28:4](vob02.htm#fr_86) Not identified.
+<span id="fn_86"></span>[28:4](vob02.htm#fr_86.md) Not identified.
 
-<span id="fn_87"></span>[28:5](vob02.htm#fr_87) *i.e.* the angels.
+<span id="fn_87"></span>[28:5](vob02.htm#fr_87.md) *i.e.* the angels.
 
-<span id="fn_88"></span>[28:6](vob02.htm#fr_88) *i.e.* in a chariot
+<span id="fn_88"></span>[28:6](vob02.htm#fr_88.md) *i.e.* in a chariot
 
-<span id="fn_89"></span>[28:7](vob02.htm#fr_89) Cf. note on § 19.
+<span id="fn_89"></span>[28:7](vob02.htm#fr_89.md) Cf. note on § 19.
 
-<span id="fn_90"></span>[28:8](vob02.htm#fr_90) The Irish *dath*,
+<span id="fn_90"></span>[28:8](vob02.htm#fr_90.md) The Irish *dath*,
 'colour,' is often used in the sense of 'kind, sort.'
 
-<span id="fn_91"></span>[28:9](vob02.htm#fr_91) *treftech*, a derivative
+<span id="fn_91"></span>[28:9](vob02.htm#fr_91.md) *treftech*, a derivative
 from *trefet*, 'blowing.' Cf. *trefet i. séitedh, ut est: for trefet a
 tóna* H. 3, 18, p. 51, and see O’Dav. p. 122, s.v. *treifet*. In Laws i.
 p. 126, 5 (cf. p. 144, 1) it means 'bellows.'
 
-<span id="fn_92"></span>[28:10](vob02.htm#fr_92) viz. Bran.
+<span id="fn_92"></span>[28:10](vob02.htm#fr_92.md) viz. Bran.
 
-<span id="fn_93"></span>[30:1](vob02.htm#fr_93) Zimmer, adopting the
+<span id="fn_93"></span>[30:1](vob02.htm#fr_93.md) Zimmer, adopting the
 corrupt reading of *R* (*na mná* instead of *nammá*) renders: 'sondern
 blickte die frauen an.' No women have been mentioned.
 
-<span id="fn_94"></span>[30:2](vob02.htm#fr_94) Zimmer renders
+<span id="fn_94"></span>[30:2](vob02.htm#fr_94.md) Zimmer renders
 'ehepaar.' But there is no reason for being so particular.
 
-<span id="fn_95"></span>[30:3](vob02.htm#fr_95) For this use of
+<span id="fn_95"></span>[30:3](vob02.htm#fr_95.md) For this use of
 *écmaing* = 'it really was,' cf. Ir. Texte iii. p. 17:
 
 'Andarlium ba slúaiged fer,  
@@ -1149,16 +1149,16 @@ Gaels in numbers after fierce prowess;
 But it was the king of great Meath,  
 Going to the company of a noble gathering.'
 
-<span id="fn_96"></span>[30:4](vob02.htm#fr_96) *i.e.* every man found
+<span id="fn_96"></span>[30:4](vob02.htm#fr_96.md) *i.e.* every man found
 in his food and drink the taste that he especially desired, a common
 incident in Irish story-telling.
 
-<span id="fn_97"></span>[32:1](vob02.htm#fr_97) He was the hero of a
+<span id="fn_97"></span>[32:1](vob02.htm#fr_97.md) He was the hero of a
 tale, the title of which figures in the list of sagas in LL. p. 170 b as
 *Echtra Nectain maic Alfroinn*. This tale is not now known to exist; it
 probably contained the incidents here narrated.
 
-<span id="fn_98"></span>[32:2](vob02.htm#fr_98) O’Curry, MS. Mat. p.
+<span id="fn_98"></span>[32:2](vob02.htm#fr_98.md) O’Curry, MS. Mat. p.
 477, note 15, says that there are two places of this name--one in the
 west of Kerry, the other, now called Staoove or Shruve Brin, at the
 entrance to Lough Foyle, a little to the south of Inishowen Head. As the
@@ -1172,11 +1172,11 @@ thinks that this Srub Brain is the place in Donegal; but, considering
 that numbers 50 to 53 of the Rennes Dindsenchas all refer to places in
 Kerry, I believe the West Kerry place is meant.
 
-<span id="fn_99"></span>[32:3](vob02.htm#fr_99) viz. Nechtan mac
+<span id="fn_99"></span>[32:3](vob02.htm#fr_99.md) viz. Nechtan mac
 Collbrain.
 
-<span id="fn_100"></span>[34:1](vob02.htm#fr_100) *i.e.* holy water.
+<span id="fn_100"></span>[34:1](vob02.htm#fr_100.md) *i.e.* holy water.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](vob03)
+[Next: Notes](vob03.md)

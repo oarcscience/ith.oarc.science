@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth084)  [Next](toth086) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth084)  [Next](toth086.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 82. THE COYOTE AND HIS PREY. <span id="fr_159"></span>[1](toth086.htm#fn_157)
+## 82. THE COYOTE AND HIS PREY. <span id="fr_159"></span>[1](toth086.htm#fn_157.md)
 
 Alíksai! At Hohóyapi the people were living. The Coyote had children
 somewhere. So he was hunting some food for them and had killed a rabbit
@@ -32,4 +32,4 @@ calls out when he has found something.
 
 ------------------------------------------------------------------------
 
-[Next: 83. The Bull-snake and the Tû'chvo (wren).](toth086)
+[Next: 83. The Bull-snake and the Tû'chvo (wren).](toth086.md)

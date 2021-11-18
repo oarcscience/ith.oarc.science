@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm01)  [Next](tgm03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm01)  [Next](tgm03.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ E.G.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tgm03)
+[Next: Contents](tgm03.md)

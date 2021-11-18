@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa10)  [Next](soa12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa10)  [Next](soa12.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ Atlantis was now split were known by the names of Ruta and Daitya.
 
 ------------------------------------------------------------------------
 
-[Next: Fourth Map Period](soa12)
+[Next: Fourth Map Period](soa12.md)

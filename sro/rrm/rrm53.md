@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm52)  [Next](rrm54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm52)  [Next](rrm54.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ allegorized by Moses); and reappearing, in the new order of things, in
 the beautiful form of new efforts at life--star-raised--astrologically
 raised--vegetables, growing plants, and flowers (sexed, even, in their
 own mysterious differences and forms and fashions), or <span
-id="fr_20"></span>[1](#fn_20) animals, in their higher or lower, or pure
+id="fr_20"></span>[1](#fn_20.md) animals, in their higher or lower, or pure
 or impure kinds. These animal or 'plantal souls' come from the
 metamorphosed 'spirits’-world' (all this is perfectly possible, however
 strange and mysterious), being, in their seeds, dispersed not only over
@@ -383,9 +383,9 @@ The whole is, however, indicative of pure spiritual life.
 
 ### Footnotes
 
-<span id="fn_20"></span>[444:1](rrm53.htm#fr_20) This agrees with the
+<span id="fn_20"></span>[444:1](rrm53.htm#fr_20.md) This agrees with the
 Pythagorean ideas, and with those of Lucretius.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV: And Last; Cabalistic Profundities](rrm54)
+[Next: Chapter XXIV: And Last; Cabalistic Profundities](rrm54.md)

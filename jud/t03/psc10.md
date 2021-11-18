@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc09)  [Next](psc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc09)  [Next](psc11.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -35,9 +35,9 @@ prohibited by rabbinical law, should also in this instance supersede the
 Sabbath?" R. Jehoshua answered and said: "The laws concerning the
 festival will prove the contrary; for many things prohibited on the
 Sabbath as being principal acts of labor are nevertheless permitted on
-the festival, <span id="fr_59"></span>[1](#fn_59) while other things
+the festival, <span id="fr_59"></span>[1](#fn_59.md) while other things
 which are prohibited by rabbinical law are yet prohibited on the
-festival." <span id="fr_60"></span>[2](#fn_60) R. Eliezer replied: "What
+festival." <span id="fr_60"></span>[2](#fn_60.md) R. Eliezer replied: "What
 is the matter with thee, Jehoshua? How canst thou adduce proof from
 purely voluntary acts (such as cooking) to such as are distinctly
 prohibited by biblical law?" R. Aqiba then answered: "The act of
@@ -48,7 +48,7 @@ rabbinical
 <span id="page_126">p. 126</span>
 
 law, still it does not supersede the due observance of the
-Sabbath; <span id="fr_61"></span>[1](#fn_61) do not therefore wonder
+Sabbath; <span id="fr_61"></span>[1](#fn_61.md) do not therefore wonder
 that these acts, which are also religious duties, and are only
 prohibited on the Sabbath by rabbinical law, should still not be allowed
 to supersede the Sabbath." R. Eliezer replied, however: "I also adduce
@@ -269,7 +269,7 @@ the Tishbite, who was of the inhabitants of Gilead" (and both of these
 prophets Elijah and Elisha roused the dead). Thus the original passage
 quoted \[Isaiah v. 17\] should be interpreted as follows: As in the days
 of old Elijah and Elisha aroused the dead, so will in the future other
-righteous men also have that power. <span id="fr_62"></span>[1](#fn_62)
+righteous men also have that power. <span id="fr_62"></span>[1](#fn_62.md)
 
 R. Samuel ben Na'hmeni in the name of R. Jonathan deduces the above
 conclusion from the passage \[Zechariah viii. 4\]: "Thus hath said the
@@ -294,7 +294,7 @@ passage of the Mishna is explained in Tract Erubin, pages 245-246.)
 Jehoshua reply to this?) R. Jehoshua holds to his individual theory,
 that the enjoyment of a festival by feasting and drinking is also a
 religious duty (as explained in a Boraitha on Tract Betza). <span
-id="fr_63"></span>[2](#fn_63)
+id="fr_63"></span>[2](#fn_63.md)
 
 "*R. Aqiba then answered: The act of sprinkling*," etc. We have learned
 in a Boraitha: R. Eliezer said to him: "Aqiba, thou hast refuted my
@@ -456,14 +456,14 @@ my masters that the Feast of Tabernacles may sometimes last only six
 days. If, *f.i.*, the first day occurs on Sabbath, the last day would
 also be Sabbath, and as it is not allowed to bring festive offerings on
 those days, the festival lasts only six days." <span
-id="fr_64"></span>[1](#fn_64)
+id="fr_64"></span>[1](#fn_64.md)
 
 Said Abayi: "This statement could not have been made by Rabhin (R.
 Abhin), but rather by Abhin Thekla (Thekla means one who is childless or
 has lost his children), because it cannot stand; for eight feast days
 can never occur in succession, as one must be a Sabbath; seven feast
 days are the rule, whereas it seldom happens that there should be only
-six." <span id="fr_65"></span>[2](#fn_65)
+six." <span id="fr_65"></span>[2](#fn_65.md)
 
 Ula said in the name of R. Elazar: A peace-offering brought on the eve
 of Passover cannot serve for the fulfilment of the duty of rejoicing on
@@ -655,7 +655,7 @@ the actual congregational offerings had
 <span id="page_140">p. 140</span>
 
 already been sacrificed? From R. Meir's explanation <span
-id="fr_66"></span>[1](#fn_66) (Sabbath, page 306), according to the
+id="fr_66"></span>[1](#fn_66) (Sabbath, page 306.md), according to the
 teaching of R. Hyya of the city of Abel Arab, however, of the dispute
 between R. Eliezer and R. Jehoshua, do we not see that such is not the
 case? Said the disciples of R. Janai: In the case of the circumcision R.
@@ -749,40 +749,40 @@ culprit.
 
 ### Footnotes
 
-<span id="fn_59"></span>[125:1](psc10.htm#fr_59) Such as cooking,
+<span id="fn_59"></span>[125:1](psc10.htm#fr_59.md) Such as cooking,
 lighting a fire, splitting wood, etc.
 
-<span id="fn_60"></span>[125:2](psc10.htm#fr_60) Such as moving things
+<span id="fn_60"></span>[125:2](psc10.htm#fr_60.md) Such as moving things
 from one legal limit into another without the combination of an Erub.
 (*Vide* Tract Betza.)
 
-<span id="fn_61"></span>[126:1](psc10.htm#fr_61) Even if that day be the
+<span id="fn_61"></span>[126:1](psc10.htm#fr_61.md) Even if that day be the
 last day on which an unclean person may be sprinkled, and occur on the
 14th (of Nissan), when should he not be sprinkled, he would not be
 allowed to partake of the paschal lamb.
 
-<span id="fn_62"></span>[131:1](psc10.htm#fr_62) This lecture is
+<span id="fn_62"></span>[131:1](psc10.htm#fr_62.md) This lecture is
 inserted because in the previous paragraphs sheep were dealt with in
 connection with the Passover-sacrifice.
 
-<span id="fn_63"></span>[131:2](psc10.htm#fr_63) The entire argument
+<span id="fn_63"></span>[131:2](psc10.htm#fr_63.md) The entire argument
 concerning the enjoyment of a festival will be brought up at its proper
 place in Tract Betza (Yom Tob).
 
-<span id="fn_64"></span>[135:1](psc10.htm#fr_64) This statement of
+<span id="fn_64"></span>[135:1](psc10.htm#fr_64.md) This statement of
 Rabhin is virtually a refutation of R. Ilayi's inference that the Feast
 of Tabernacles lasts only seven days, because the Sabbath, on which no
 festive offering is brought, is not counted--by stating that at times
 the Feast could last only six days.
 
-<span id="fn_65"></span>[135:2](psc10.htm#fr_65) The original text only
+<span id="fn_65"></span>[135:2](psc10.htm#fr_65.md) The original text only
 reads "Could Abhin Thekla have said this?" In the commentary of Solomon
 Lurie, entitled "Yam shel Shlomo," it is stated, and rightly so, that
 Abayi would not have spoken so disrespectfully of Rabhin, who lived
 generations before him and was a great man, and hence the explanation
 rendered by us is given.
 
-<span id="fn_66"></span>[140:1](psc10.htm#fr_66) In the Boraitha of R.
+<span id="fn_66"></span>[140:1](psc10.htm#fr_66.md) In the Boraitha of R.
 Meir's explanation, Sabbath, 30, last paragraph before the Mishna, the
 words "taught R. Hyya" are missing, Here, however, it says, "R. Hyya of
 Abel Arab," which in the original of Sabbath is not mentioned at all.
@@ -790,4 +790,4 @@ Abel Arab," which in the original of Sabbath is not mentioned at all.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII: Roasting the Paschal Lamb; If the Paschal Lamb
-Becomes Defiled; Parts of Lamb Eaten](psc11)
+Becomes Defiled; Parts of Lamb Eaten](psc11.md)

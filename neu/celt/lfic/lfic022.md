@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic021)  [Next](lfic023) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic021)  [Next](lfic023.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ account of a
 
 ------------------------------------------------------------------------
 
-[Next: Faction-fight among the Fairies](lfic023)
+[Next: Faction-fight among the Fairies](lfic023.md)

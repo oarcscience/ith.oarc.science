@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic058)  [Next](lfic060) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic058)  [Next](lfic060.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ only too happy to make you chief commander of the Fiarina."
 
 ------------------------------------------------------------------------
 
-[Next: Fion's First Marriage](lfic060)
+[Next: Fion's First Marriage](lfic060.md)

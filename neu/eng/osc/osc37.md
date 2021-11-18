@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc36)  [Next](osc38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc36)  [Next](osc38.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ of unhappy marriages is a silent factor in the game.
 
 ------------------------------------------------------------------------
 
-[Next: (6) Throwing The Shoe](osc38)
+[Next: (6) Throwing The Shoe](osc38.md)

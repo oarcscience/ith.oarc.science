@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](ath10)  [Next](ath12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](ath10)  [Next](ath12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ explained by supposing that both were derived from the neolithic race
 which at one time spread along the whole of the south coast of the
 Mediterranean and across into Arabia, but that some cause, perhaps the
 early development of civilization in the Nile valley, had cut off the
-eastern wing from the rest, and this [segregated](errata.htm#33) portion
+eastern wing from the rest, and this [segregated](errata.htm#33.md) portion
 
 <span id="page_227">p. 227</span>
 
@@ -142,7 +142,7 @@ Africa, and was ruled from Ifrikiya.
 In A.H. 138, after the fall of the Umayyads in Asia, a fugitive member
 of the fallen dynasty, ‘Abdu r-Rahman, failing in an attempt to restore
 his family in Africa, crossed over to Spain, and there established a new
-and independent power, with its seat of [government](errata.htm#34) at
+and independent power, with its seat of [government](errata.htm#34.md) at
 Cordova, and in A.H. 317 one of his descendants formally assumed the
 title of "Commander of the Faithful." The Umayyads of
 
@@ -580,7 +580,7 @@ posed as the "Mahdi" possessing the supernatural grace of *isma* or
 and at the same time it was he who introduced to the West the orthodox
 scholasticism of al-Ghazali, although at the same time he professed to
 be a follower of Ibn Hazm. He travelled in Asia, where, no doubt, he
-learned of [al-Ghazali](errata.htm#35) and his doctrines. Roughly
+learned of [al-Ghazali](errata.htm#35.md) and his doctrines. Roughly
 treated at Mecca he removed to Egypt, where he rendered himself
 prominent and objectionable by his puritanical criticisms on the manners
 of the people. Setting out from Alexandria in a ship travelling
@@ -755,7 +755,7 @@ which, under the Latinized name of "colliget," became popular as a
 manual in the mediæval universities where the Arabic system of medicine
 was in use. He wrote also on jurisprudence a text-book of the law of
 inheritance, which is still extant in MS., and also produced works on
-astronomy and [grammar](errata.htm#36). He maintained that the task of
+astronomy and [grammar](errata.htm#36.md). He maintained that the task of
 philosophy was one approved and commended by religion, for the Qur’an
 shows that God commands men to search for the truth. It is only the
 prejudice of the
@@ -952,4 +952,4 @@ only in logic, where Aristotle has always held his own.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Jewish Transmittors](ath12)
+[Next: Chapter X. The Jewish Transmittors](ath12.md)

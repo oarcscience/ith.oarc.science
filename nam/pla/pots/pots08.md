@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pots07)  [Next](pots09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pots07)  [Next](pots09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Grinnell, \[1901\], at Intangible Textual Heritage
 
 <span id="page_48">p. 48</span> <span id="page_49">p. 49</span>
 
-### The Girl Who Was the Ring <span id="fr_0"></span>[\*](#fn_0)
+### The Girl Who Was the Ring <span id="fr_0"></span>[\*](#fn_0.md)
 
 BY the bank of a river stood a lodge, which lived four brothers and
 their sister. The boys made arrows. To the branch of a tree in front of
@@ -52,7 +52,7 @@ I am
 <span id="img_05000"></span>
 
 [![THE STICK GAME](tn/05000.jpg)  
-Click to enlarge](img/05000.jpg)  
+Click to enlarge](img/05000.jpg.md)  
 THE STICK GAME  
 
 <span id="page_51">p. 51</span>
@@ -104,7 +104,7 @@ leader of a big band, as he passed
 <span id="img_05200"></span>
 
 [![SWINGING THE GIRL TO CALL THE BUFFALO](tn/05200.jpg)  
-Click to enlarge](img/05200.jpg)  
+Click to enlarge](img/05200.jpg.md)  
 SWINGING THE GIRL TO CALL THE BUFFALO  
 
 <span id="page_53">p. 53</span>
@@ -153,7 +153,7 @@ Fox, and asked him to join them, and he did
 <span id="img_05400"></span>
 
 [![COYOTE HOLDS A COUNCIL OF WAR](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 COYOTE HOLDS A COUNCIL OF WAR  
 
 <span id="page_55">p. 55</span>
@@ -246,7 +246,7 @@ to where the Badger was. After a time
 <span id="img_05800"></span>
 
 [![I CAN TELL WHICH STICK IS THE NEARER](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 “‘I CAN TELL WHICH STICK IS THE NEARER’”  
 
 <span id="page_59">p. 59</span>
@@ -337,7 +337,7 @@ sister.
 
 ### Footnotes
 
-<span id="fn_0"></span>[49:\*](pots08.htm#fr_0) Of all the games played
+<span id="fn_0"></span>[49:\*](pots08.htm#fr_0.md) Of all the games played
 by men among the Pawnee Indians, none was so popular as the stick game.
 This was an athletic contest between pairs of young men, and tested
 their fleetness, their eyesight, and their skill in throwing the stick.
@@ -356,4 +356,4 @@ into a ring, which they used in playing the stick game.
 
 ------------------------------------------------------------------------
 
-[Next: The First Corn](pots09)
+[Next: The First Corn](pots09.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg20) [Next](aflg22)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg20) [Next](aflg22.md)
 
 ------------------------------------------------------------------------
 
@@ -8,16 +8,16 @@ American](../index) [Index](index) [Previous](aflg20) [Next](aflg22)
 ## C<span class="small">HAPTER</span> XXI MISCELLANEOUS FOLK-LORE, INDEPENDENT OF ANIMISM
 
    <span class="small">Various Tales and Legends
-(*[365](#pp_365)-370*).</span>
+(*[365](#pp_365)-370*.md).</span>
 
  
 
 <span id="story_117"></span><span
-id="pp_365"></span>**365.**[\*](#pp_365) H<span class="small">OW
+id="pp_365"></span>**365.**[\*](#pp_365.md) H<span class="small">OW
 THE</span> L<span class="small">AZY</span> M<span class="small">AN
 WAS</span> C<span class="small">URED</span> (W)
 
->    This is another crab story ([Sect. *278*](aflg16.htm#pp_278)); but
+>    This is another crab story ([Sect. *278*](aflg16.htm#pp_278).md); but
 > the hero of it was distinguished by his laziness, and not by his
 > ignorance. A large party of people went out in a big boat to catch
 > crabs: every one of them had twenty quakes aboard, and as they rested
@@ -63,7 +63,7 @@ WAS</span> C<span class="small">URED</span> (W)
  
 
 <span id="story_118"></span><span
-id="pp_366"></span>**366.**[\*](#pp_366) A<span class="small">LWAYS
+id="pp_366"></span>**366.**[\*](#pp_366.md) A<span class="small">LWAYS
 BE</span> C<span class="small">ONTENT</span> (W)
 
 >    An expedition was arranged by a house-master for his relatives and
@@ -71,7 +71,7 @@ BE</span> C<span class="small">ONTENT</span> (W)
 > sea-birds. Before starting, they all made quakes for collecting the
 > birds' eggs, it being then the proper season, and eggs <span
 > id="page_381">p. 381</span> always good to eat.<span
-> id="page_381_fr_1"></span>[1](#page_381_note_1) After they had
+> id="page_381_fr_1"></span>[1](#page_381_note_1.md) After they had
 > gathered sufficient eggs to fill their baskets, they proceeded with
 > their bows and arrows to shoot birds, and were very successful. The
 > old house-master's son-in-law, however, went off by himself in quite
@@ -88,7 +88,7 @@ BE</span> C<span class="small">ONTENT</span> (W)
  
 
 <span id="story_119"></span><span
-id="pp_367"></span>**367.**[\*](#pp_367) T<span class="small">HE</span>
+id="pp_367"></span>**367.**[\*](#pp_367.md) T<span class="small">HE</span>
 O<span class="small">LD</span> W<span class="small">OMAN</span> W<span
 class="small">HO</span> D<span class="small">IED OF</span> S<span
 class="small">HAME</span> (W)
@@ -119,7 +119,7 @@ class="small">HAME</span> (W)
  
 
 <span id="story_120"></span><span
-id="pp_368"></span>**368.**[\*](#pp_368) T<span class="small">HE</span>
+id="pp_368"></span>**368.**[\*](#pp_368.md) T<span class="small">HE</span>
 M<span class="small">AN WHO</span> I<span class="small">NTERFERED WITH
 HIS</span> B<span class="small">ROTHER'S</span> W<span
 class="small">IFE</span> (A)
@@ -146,7 +146,7 @@ class="small">IFE</span> (A)
 > to visit you again." the next day, sure enough, the brother came once
 > more. "Where is your husband?" He inquired. "Yonder in the
 > *maraka-bakruru*," she told him.<span
-> id="page_382_fr_1"></span>[1](#page_382_note_1) The husband purposely
+> id="page_382_fr_1"></span>[1](#page_382_note_1.md) The husband purposely
 > made a noise with his *massi* \[club\] to attract the attention of the
 > visitor: the latter heard it, and thinking that drink must be the
 > cause of the row, went over to see if that really were the case. But
@@ -172,7 +172,7 @@ class="small">IFE</span> (A)
  
 
 <span id="story_121"></span><span
-id="pp_369"></span>**369.**[\*](#pp_369) T<span class="small">HE</span>
+id="pp_369"></span>**369.**[\*](#pp_369.md) T<span class="small">HE</span>
 O<span class="small">LD</span> B<span class="small">LIND</span> M<span
 class="small">AN</span> W<span class="small">HO</span> W<span
 class="small">ANTED A</span> W<span class="small">OMAN</span> (W)
@@ -189,7 +189,7 @@ class="small">ANTED A</span> W<span class="small">OMAN</span> (W)
 > instructions given, the poor old blind man floundered into the chilly
 > waters of the stream, and just managed to save himself from drowning
 > by holding onto a ho-aranni tree.<span
-> id="page_382_fr_2"></span>[2](#page_382_note_2) When the young men saw
+> id="page_382_fr_2"></span>[2](#page_382_note_2.md) When the young men saw
 > that their joke had gone too far, they became frightened, and, getting
 > into a corial, went to bring him back. "Grandfather! we have come to
 > fetch you;" but the old man was much vexed and they were obliged to
@@ -206,13 +206,13 @@ class="small">ANTED A</span> W<span class="small">OMAN</span> (W)
  
 
 <span id="story_122"></span><span
-id="pp_370"></span>**370.**[\*](#pp_370) H<span class="small">OW</span>
+id="pp_370"></span>**370.**[\*](#pp_370.md) H<span class="small">OW</span>
 W<span class="small">E</span> B<span class="small">EAT THE</span> C<span
 class="small">ARIBS</span> (A)
 
    I give the following almost word for word translation of the account
 told me by an old Pomeroon Arawak; it is well worth comparing with
-Brett's version ([BrB, 35](../lmbg/lmbg1b.htm#page_35)):
+Brett's version ([BrB, 35](../lmbg/lmbg1b.htm#page_35).md):
 
 >    An Arawak and a Carib were very friendly: this must needs be so,
 > because each had taken the other's sister to wife. They regularly used
@@ -245,7 +245,7 @@ Brett's version ([BrB, 35](../lmbg/lmbg1b.htm#page_35)):
 > being just sufficient to allow of the arrows thrown from one side
 > reaching the other. The Arawaks, however, were shrewd. They made
 > themselves cork-wood shields \[*nonabokuanna*\].<span
-> id="page_383_fr_1"></span>[1](#page_383_note_1) The Caribs let fly
+> id="page_383_fr_1"></span>[1](#page_383_note_1.md) The Caribs let fly
 > their arrows first, but these stuck in the shields, when the Arawaks
 > broke them off with their *mossi*, the now almost obsolete club. None
 > of the Arawaks were slain, and it was now their turn to shoot. This
@@ -294,7 +294,7 @@ Brett's version ([BrB, 35](../lmbg/lmbg1b.htm#page_35)):
 
 ------------------------------------------------------------------------
 
-[Next](aflg22)
+[Next](aflg22.md)
 
 ------------------------------------------------------------------------
 
@@ -302,7 +302,7 @@ Brett's version ([BrB, 35](../lmbg/lmbg1b.htm#page_35)):
 
 <span id="footnotes_page_381">p. 381</span>
 
-<span id="page_381_note_1"></span>[1](#page_381_fr_1) I am well aware of
+<span id="page_381_note_1"></span>[1](#page_381_fr_1.md) I am well aware of
 the statement often made (for example, by Boddam-Whetham, p. 250; im
 Thurn, p. 265) about Indians not eating birds' eggs; this, however,
 applies only to eggs of domesticated birds, as noted by Schomburgk in
@@ -321,19 +321,19 @@ serve.—W. E. R.
 
 <span id="footnotes_page_382">p. 382</span>
 
-<span id="page_382_note_1"></span>[1](#page_382_fr_1) The
+<span id="page_382_note_1"></span>[1](#page_382_fr_1.md) The
 *maraka-bakuru* is a small detached house, in which in the olden times
 the Warru house-master would keep his arrows, clubs, tools, and
 implements, and other knickknacks.
 
-<span id="page_382_note_2"></span>[2](#page_382_fr_2) Any snag or tree
+<span id="page_382_note_2"></span>[2](#page_382_fr_2.md) Any snag or tree
 growing from out of the river-bed above the water is believed to have
 been planted there by the Water People, or Ho-aranni ([Sect.
-*177*](aflg12.htm#pp_177)), and hence is given this name.
+*177*](aflg12.htm#pp_177).md), and hence is given this name.
 
 <span id="footnotes_page_383">p. 383</span>
 
-<span id="page_383_note_1"></span>[1](#page_383_fr_1) Although we have
+<span id="page_383_note_1"></span>[1](#page_383_fr_1.md) Although we have
 historical evidence of the use of shields from the Orinoco, Cayenne, and
 the Amazon, this is the first reference that I have come across
 concerning these weapons in British Guiana.—W. E. R.

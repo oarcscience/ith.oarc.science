@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat04.htm#XV)  [Previous](satl014) 
-[Next](satl016) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat04.htm#XV)  [Previous](satl014.md) 
+[Next](satl016.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ nec victoria mi placet parata.
 
 ------------------------------------------------------------------------
 
-[Next: XVI](satl016)
+[Next: XVI](satl016.md)

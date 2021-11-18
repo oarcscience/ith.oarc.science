@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl23)  [Next](orl25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl23)  [Next](orl25.md) 
 
 ------------------------------------------------------------------------
 
@@ -1304,4 +1304,4 @@ So, with your licence, shall the tale suspend.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 25](orl25)
+[Next: Canto 25](orl25.md)

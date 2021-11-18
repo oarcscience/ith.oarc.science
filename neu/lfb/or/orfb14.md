@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb13)  [Next](orfb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb13)  [Next](orfb15.md) 
 
 </div>
 
@@ -88,6 +88,6 @@ as he could thus make seven out of an obvious six.
 
 ------------------------------------------------------------------------
 
-[Next: The Clever Cat](orfb15)
+[Next: The Clever Cat](orfb15.md)
 
 </div>

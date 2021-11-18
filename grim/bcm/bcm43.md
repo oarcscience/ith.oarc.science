@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm42)  [Next](bcm44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm42)  [Next](bcm44.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,9 +28,9 @@ circle. The most important to make is that called the bolline; it must
 be forged on the day and in the hour of Jupiter, selecting a small piece
 of unused steel. Set it thrice in the fire and extinguish it in the
 blood of a mole mixed with the juice of the pimpernel. <span
-id="fr_96"></span>[1](#fn_96) Let this be done when the Moon is in her
+id="fr_96"></span>[1](#fn_96.md) Let this be done when the Moon is in her
 full light and course. On the same day and in the hour of Jupiter, fit a
-horn handle <span id="fr_97"></span>[2](#fn_97) to the steel,
+horn handle <span id="fr_97"></span>[2](#fn_97.md) to the steel,
 
 <span id="page_155">p. 155</span>
 
@@ -51,7 +51,7 @@ Angels. Amen.
 The ensuing salutations must then be pronounced over the instrument:
 *Domine, Deus meus, in te speravi; Confitebor tibi, Domine, in toto
 corde meo: Quemadmodum desiderat cervus ad fontes aquarum*, <span
-id="fr_98"></span>[1](#fn_98) &c., adding the following words: DAMAHII,
+id="fr_98"></span>[1](#fn_98.md) &c., adding the following words: DAMAHII,
 LUMECH, GADAL, PANCIA, VELOAS, MEOROD, LAMIDOCH, BALDACH, ANERETHON,
 MITATRON, *most holy angels, be ye wardens of this instrument, because I
 shall make use of it for several necessary works*.
@@ -64,12 +64,12 @@ prepared.
 
 Subsequently, on the day of Venus, the Moon being in the sign of
 Capricorn, or otherwise of the Virgin, <span
-id="fr_99"></span>[2](#fn_99) if the same be
+id="fr_99"></span>[2](#fn_99.md) if the same be
 
 <span id="page_156">p. 156</span>
 
 possible, thou shalt make the first knife and shalt steep it in the
-blood of the mole <span id="fr_100"></span>[1](#fn_100) and the juice of
+blood of the mole <span id="fr_100"></span>[1](#fn_100.md) and the juice of
 the pimpernel. Let the Moon be in an acute time of course and light, the
 operation beginning in the first hour of Venus and ending at the ninth
 hour of the same day. Fit the knife with a handle of white wood cut at a
@@ -79,7 +79,7 @@ following characters:--
  
 
 <span id="img_15600"></span> [![](tn/generic.jpg)  
-Click to view](img/15600.jpg)
+Click to view](img/15600.jpg.md)
 
  
 
@@ -90,19 +90,19 @@ blood and juice as above; fit thereto the same handle bearing the same
 characters, and upon the blade, proceeding from point to handle, write
 with a male goose-quill the words: AHARARAT, TÔ. Perfume as before,
 sprinkle with exorcised water, and place in the silken wrapper already
-mentioned. <span id="fr_101"></span>[2](#fn_101)
+mentioned. <span id="fr_101"></span>[2](#fn_101.md)
 
 That with the black handle, destined to describe the circle and
 intimidate the spirits, and for performing other similar things, must be
 made in every respect like the first, except as regards the day and
 hour, which should be those of Saturn. The steel should be extinguished
-in the blood of a cat <span id="fr_102"></span>[3](#fn_102) and the
+in the blood of a cat <span id="fr_102"></span>[3](#fn_102.md) and the
 juice of hemlock, while the handle should be of sheep's horn. The
 
 <span id="page_157">p. 157</span>
 
 <span id="img_15700"></span> [![](tn/generic.jpg)  
-Click to view](img/15700.jpg)  
+Click to view](img/15700.jpg.md)  
 PLATE VII: INSTRUMENTS OF BLACK MAGIC
 
 <span id="page_159">p. 159</span>
@@ -110,14 +110,14 @@ PLATE VII: INSTRUMENTS OF BLACK MAGIC
 poniard or stiletto and the lancet should be made after the same manner
 on the day and in the hour of Mercury, and the steel extinguished in the
 blood of a mole and the juice of the herb Mercury. They should be fitted
-with horn handles, <span id="fr_103"></span>[1](#fn_103) shaped with a
+with horn handles, <span id="fr_103"></span>[1](#fn_103.md) shaped with a
 new sword in the day and hour of Mercury, and should bear these
 characters upon the said handles.--
 
  
 
 <span id="img_15900"></span> [![](tn/generic.jpg)  
-Click to view](img/15900.jpg)
+Click to view](img/15900.jpg.md)
 
  
 
@@ -160,16 +160,16 @@ the same manner as the knife and graver. If assistants accompany the
 operator, each must be provided with his knife, and the like rule
 obtains concerning the Sword of the Art, which should be polished on the
 day of Mercury, from the first to the third hour of the night. <span
-id="fr_104"></span>[1](#fn_104) That designed for the Master or chief
+id="fr_104"></span>[1](#fn_104.md) That designed for the Master or chief
 operator should bear the words ELOHIM JITOR, <span
-id="fr_105"></span>[2](#fn_105) proceeding from point to hilt. For that
+id="fr_105"></span>[2](#fn_105.md) proceeding from point to hilt. For that
 of the first disciple, write the name CARDIEL upon the handle, and upon
 the blade REGION, proceeding from point to hilt. It should appear on
 both sides transversely, but add on the one PANORAIM ✠, and on the other
 HEOMESIM ✠. On the sword of the second disciple write URIEL, SARAION,
 GAMERIN ✠, DEBALIIN, in the manner before described. On that of the
 third disciple write DANIEL, IMETON, LAMEDIIN ✠, ERADIN, and fit the
-same with a handle of white bone. <span id="fr_106"></span>[3](#fn_106)
+same with a handle of white bone. <span id="fr_106"></span>[3](#fn_106.md)
 
 <span id="page_161">p. 161</span>
 
@@ -188,27 +188,27 @@ me. Amen*.
 
 ### Footnotes
 
-<span id="fn_96"></span>[154:1](bcm43.htm#fr_96) Or, according to the
+<span id="fn_96"></span>[154:1](bcm43.htm#fr_96.md) Or, according to the
 *Key of Solomon*, in the day and hour of Mercury, and substituting the
 blood of the magpie and the juice of the herb Mercury, the French
 *Foirole*, from which a so-called Elixir of Long Life was formerly made.
 
-<span id="fn_97"></span>[154:2](bcm43.htm#fr_97) The Key of Salomon
+<span id="fn_97"></span>[154:2](bcm43.htm#fr_97.md) The Key of Salomon
 substitutes white boxwood; it omits the planetary influence, leaving it
 to be inferred that it should be done in the hour that the steel is;
 forged, which must also be sunrise.
 
-<span id="fn_98"></span>[155:1](bcm43.htm#fr_98) Psalms vii., cx., and
+<span id="fn_98"></span>[155:1](bcm43.htm#fr_98.md) Psalms vii., cx., and
 xli., according to the computation of the Vulgate.
 
-<span id="fn_99"></span>[155:2](bcm43.htm#fr_99) According to the *Key
+<span id="fn_99"></span>[155:2](bcm43.htm#fr_99.md) According to the *Key
 of Solomon*, it should be on the day and in the hour of Mercury, when
 Mars is in Aries or Scorpio.
 
-<span id="fn_100"></span>[156:1](bcm43.htm#fr_100) Of a gosling, says
+<span id="fn_100"></span>[156:1](bcm43.htm#fr_100.md) Of a gosling, says
 the Clavicle.
 
-<span id="fn_101"></span>[156:2](bcm43.htm#fr_101) It should be
+<span id="fn_101"></span>[156:2](bcm43.htm#fr_101.md) It should be
 understood that wherever the use of animal blood is prescribed I have
 made an alteration at some hypothetically essential point, and now give
 notice, generally and especially, to this effect. The course taken does
@@ -216,23 +216,23 @@ not mean that I believe in the efficacy of these foolish processes, but
 that knavish persons may be dissuaded from trying them. It is out of
 respect to the animals and not consideration to them.
 
-<span id="fn_102"></span>[156:3](bcm43.htm#fr_102) Of a black cat, says
+<span id="fn_102"></span>[156:3](bcm43.htm#fr_102.md) Of a black cat, says
 the Clavicle, and the weapon when finished should be wrapped in a cloth
 of black silk, which, however, contradicts Book ii. c. 20, of the same
 work.
 
-<span id="fn_103"></span>[159:1](bcm43.htm#fr_103) White boxwood is
+<span id="fn_103"></span>[159:1](bcm43.htm#fr_103.md) White boxwood is
 prescribed by the *Key of Solomon*.
 
-<span id="fn_104"></span>[160:1](bcm43.htm#fr_104) The first or the
+<span id="fn_104"></span>[160:1](bcm43.htm#fr_104.md) The first or the
 fifteenth hour is the reading of the *Key*, but there is more reason in
 the longer period, having regard to the nature of the operation.
 
-<span id="fn_105"></span>[160:2](bcm43.htm#fr_105) *i.e.*, *Elohim
+<span id="fn_105"></span>[160:2](bcm43.htm#fr_105.md) *i.e.*, *Elohim
 Gibor*. The *Key of Solomon* prescribes other Divine Names for the Sword
 of the Master.
 
-<span id="fn_106"></span>[160:3](bcm43.htm#fr_106) These instructions
+<span id="fn_106"></span>[160:3](bcm43.htm#fr_106.md) These instructions
 are terribly confused. Compare the English version of the *Key of
 Solomon*, wherein the passage is thus amended:--"The first sword should
 have on the pommel the name *Cardiel* or *Gabriel*; on the Lamen of the
@@ -245,4 +245,4 @@ Eradim*."
 
 ------------------------------------------------------------------------
 
-[Next: Section 3: Concerning the Rod and Staff of the Art](bcm44)
+[Next: Section 3: Concerning the Rod and Staff of the Art](bcm44.md)

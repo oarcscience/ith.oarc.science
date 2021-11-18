@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai18)  [Next](kwai20) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai18)  [Next](kwai20.md) 
 
 ------------------------------------------------------------------------
 
@@ -391,4 +391,4 @@ flutes, and pandean pipes of a form unknown to Western Pan.
 
 ------------------------------------------------------------------------
 
-[Next: Mosquitoes](kwai20)
+[Next: Mosquitoes](kwai20.md)

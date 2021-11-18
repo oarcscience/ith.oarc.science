@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic002)  [Next](lfic004) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic002)  [Next](lfic004.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ first heard it from Garrett (Gerald) Forrestal of Bantry, in Wexford.
 
 ------------------------------------------------------------------------
 
-[Next: Jac and His Comrades](lfic004)
+[Next: Jac and His Comrades](lfic004.md)

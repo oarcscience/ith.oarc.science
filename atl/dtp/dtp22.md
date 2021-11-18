@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp21)  [Next](dtp23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp21)  [Next](dtp23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ shalt legally assume active
 duties. I have an object in this besides mere form; I believe that that
 man who hath an object, a direct goal, in view, is more likely to win
 success than one without. It is a good stimulus. I do therefore
-[appoint](errata.htm#9) thee Suzerain over Suernis, and dismiss thee to
+[appoint](errata.htm#9.md) thee Suzerain over Suernis, and dismiss thee to
 thy journey of pleasureable recreation with thy friends as soon as thou
 shalt sign thy name to this document. That is well written, though thy
 hand shakes a little because of thy nervousness. Be calm." This last he
@@ -93,7 +93,7 @@ poor Atl!
 But Umaur lay ahead of us, and ignorant of the misdeeds-to-be of our
 national posterity, we in our vailx stood gazing on the coast we were so
 rapidly approaching, and commented upon its majestic mountain ranges as
-seen through the telescopes. <span id="fr_8"></span>[1](#fn_8) Here we
+seen through the telescopes. <span id="fr_8"></span>[1](#fn_8.md) Here we
 beheld a land where, after thousands of years, the conquering Castilians
 would come, led by Pizarro, and find a race under the rule of Incas, a
 name preserved through the many centuries from the day when their
@@ -283,7 +283,7 @@ means of access was by vailx.
 In the neighborhood of twenty years ago, more or less, counting from
 this Anno Domini 1886, an intrepid American explorer discovered the
 famous Yellowstone region, and while on the same expedition went as far
-west as the Three Tetons, in Idaho. <span id="fr_9"></span>[1](#fn_9)
+west as the Three Tetons, in Idaho. <span id="fr_9"></span>[1](#fn_9.md)
 These mountain triplets were the Pitachi Ui, of Atl. Professor Hayden,
 having arrived at the base of these lofty peaks, succeeded, after
 indefatigable toil, in reaching the top of the greater peak, and made
@@ -461,7 +461,7 @@ Queen of Atlantis
 
 ### Footnotes
 
-<span id="fn_8"></span>[168:1](dtp22.htm#fr_8) NOTE--When thy science
+<span id="fn_8"></span>[168:1](dtp22.htm#fr_8.md) NOTE--When thy science
 shall, like Poseid, approach Nature from its Godward side; when, instead
 of ascending to that key-force of all Nature, the Odic force, from a
 synthesizing of environing phenomena, thou shalt look from Odicity adown
@@ -486,7 +486,7 @@ Ah! my friend, I will not answer yea or nay, for when the Poseid view of
 Nature reappears on earth, thou wilt KNOW. Seek and ye shall find; but
 seek correctly. Walk the cruciform Way.
 
-<span id="fn_9"></span>[173:1](dtp22.htm#fr_9) The Three Tetons we
+<span id="fn_9"></span>[173:1](dtp22.htm#fr_9.md) The Three Tetons we
 situated in northwestern Wyoming, but Wyoming as a territory was not in
 existence at the time referred to, haying been formed in 1868 from parts
 of Idaho, Dakota and Utah. A small part of Yellowstone Park is in
@@ -494,4 +494,4 @@ Idaho.--Kings Hand-book of United States.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX: A Well-Met Problem](dtp23)
+[Next: Chapter XIX: A Well-Met Problem](dtp23.md)

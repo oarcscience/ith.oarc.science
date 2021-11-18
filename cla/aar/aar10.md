@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aar09)  [Next](aar11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aar09)  [Next](aar11.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ p. 174.
 
 This is the best general statement of the function of Art known to me.
 It should be read in connection with Mr. Bullough's article, quoted on
-[p. 129](aar07.htm#page_129), which gives the psycho-logical basis of a
+[p. 129](aar07.htm#page_129.md), which gives the psycho-logical basis of a
 similar view of the nature of art. My own theory was formulated
 independently, in relation to the development of the Greek theatre, but
 I am very glad to find that it is in substantial agreement with those of
@@ -73,4 +73,4 @@ MÜLLER-FREIENFELS, R. *Psychologie der Kunst*, 1912.
 
 ------------------------------------------------------------------------
 
-[Next: Index](aar11)
+[Next: Index](aar11.md)

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc23)  [Next](busc25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc23)  [Next](busc25.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -127,7 +127,7 @@ time of the Nirvana, Brahma Sahampati uttered this verse:
 <div style="margin-left: 32px">
 
 <span class="small">All beings in the world must lose  
-Their compound selves <span id="fr_20"></span>[1](#fn_20) and
+Their compound selves <span id="fr_20"></span>[1](#fn_20.md) and
 disappear.  
 So such a Master as was he,  
 A man unrivalled in the world,  
@@ -176,7 +176,7 @@ this verse:
 <span class="small">Then was a terrifying dread,  
 Then was a frightful awe and fear,  
 When he adorned with all the signs, <span
-id="fr_21"></span>[1](#fn_21)  
+id="fr_21"></span>[1](#fn_21.md)  
 The All-wise One, Nirvana reached.  
                         (*Mahāparinibbāna S.* VI.)</span>
 
@@ -186,14 +186,14 @@ The All-wise One, Nirvana reached.
 
 ### Footnotes
 
-<span id="fn_20"></span>[116:1](busc24.htm#fr_20) *Samussayam*, "The
+<span id="fn_20"></span>[116:1](busc24.htm#fr_20.md) *Samussayam*, "The
 result of the temporary collocation of the aggregations (khandha) of
 mental and material qualities which give to each being . . . its outward
 and visible shape, its individuality. *Loka* is here not the world in
 our sense, but the locality in the Buddhist universe which such an
 individual occupies until it is dissolved."—Prof. Rhys Davids.
 
-<span id="fn_21"></span>[117:1](busc24.htm#fr_21) A Buddha has
+<span id="fn_21"></span>[117:1](busc24.htm#fr_21.md) A Buddha has
 thirty-two marks or signs on his body, and eighty minor marks. Some of
 these are distinguishable in statues of Buddha, *e.g.* the conical
 protuberance of the skull, and the hair in short curls, which is
@@ -201,12 +201,12 @@ represented by small knobs on the head. At the Great Renunciation he cut
 his hair short, and it remained two fingers long for life.
 
 The powers spoken of by Brahma are the ten powers of a Buddha. See the
-list on [p. 90](busc19.htm#page_90).
+list on [p. 90](busc19.htm#page_90.md).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XXII. The Non-Existence of Individuality](busc25)
+[Next: XXII. The Non-Existence of Individuality](busc25.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh14)  [Next](msh16) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh14)  [Next](msh16.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ whereof the first is as hereunder follows.
 
 ------------------------------------------------------------------------
 
-[Next: PART I.--Light, And Lights: Preliminary Studies](msh16)
+[Next: PART I.--Light, And Lights: Preliminary Studies](msh16.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah95)  [Next](oah97) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah95)  [Next](oah97.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ change your attire, and when I withdraw it, ye shall walk forth unknown.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](oah97)
+[Next: Chapter X](oah97.md)

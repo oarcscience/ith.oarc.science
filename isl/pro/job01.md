@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](job00)  [Next](job02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](job00)  [Next](job02.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ something that could be for someone denoted to be a prophet.
 
 ------------------------------------------------------------------------
 
-[Next: Another Story Similar to What Was Mentioned Before](job02)
+[Next: Another Story Similar to What Was Mentioned Before](job02.md)

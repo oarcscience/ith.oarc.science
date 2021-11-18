@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc09)  [Next](ogc11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc09)  [Next](ogc11.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ relative to the ‘combinable’); and ‘combination’ is unification of the
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](ogc11)
+[Next: Chapter I](ogc11.md)

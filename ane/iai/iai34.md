@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai33)  [Next](iai35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai33)  [Next](iai35.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ Around the gates of that dark world of doom."
 ------------------------------------------------------------------------
 
 [Next: Column IV. Release of Ishtar--Her Attempts to Bring to Life
-Tammuz, Her First Lover](iai35)
+Tammuz, Her First Lover](iai35.md)

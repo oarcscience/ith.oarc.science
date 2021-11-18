@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pell00)    [Text
-\[Zipped\]](pell.txt.gz)
+[Contents](#contents)    [Start Reading](pell00.md)    [Text
+\[Zipped\]](pell.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte)
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
 In this, the first (of many) sequels to [At the Earth's
-Core](../atec/index), David Innes returns to Pellucidar, the world
+Core](../atec/index.md), David Innes returns to Pellucidar, the world
 inside the Earth. Burroughs would revisit Pellucidar in later yarns with
 his consumate hero, Tarzan. But for now, this wraps up the first two
 Burroughs Hollow Earth novels nicely, as (spoiler alert) Innes saves the
@@ -43,20 +43,20 @@ Burroughs Hollow Earth novels nicely, as (spoiler alert) Innes saves the
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pell00)  
-[Prologue](pell01)  
-[Chapter I. Lost On Pellucidar](pell02)  
-[Chapter II. Traveling With Terror](pell03)  
-[Chapter III. Shooting the Chutes—and After](pell04)  
-[Chapter IV. Friendship and Treachery](pell05)  
-[Chapter V. Surprises](pell06)  
-[Chapter VI. A Pendent World](pell07)  
-[Chapter VII. From Plight to Plight](pell08)  
-[Chapter VIII. Captive](pell09)  
-[Chapter IX. Hooja's Cutthroats Appear](pell10)  
-[Chapter X. The Raid on the Cave-Prison](pell11)  
-[Chapter XI. Escape](pell12)  
-[Chapter XII. Kidnapped!](pell13)  
-[Chapter XIII. Racing For Life](pell14)  
-[Chapter XIV. Gore and Dreams](pell15)  
-[Chapter XV. Conquest and Peace](pell16)  
+<span id="contents"></span> [Title Page](pell00.md)  
+[Prologue](pell01.md)  
+[Chapter I. Lost On Pellucidar](pell02.md)  
+[Chapter II. Traveling With Terror](pell03.md)  
+[Chapter III. Shooting the Chutes—and After](pell04.md)  
+[Chapter IV. Friendship and Treachery](pell05.md)  
+[Chapter V. Surprises](pell06.md)  
+[Chapter VI. A Pendent World](pell07.md)  
+[Chapter VII. From Plight to Plight](pell08.md)  
+[Chapter VIII. Captive](pell09.md)  
+[Chapter IX. Hooja's Cutthroats Appear](pell10.md)  
+[Chapter X. The Raid on the Cave-Prison](pell11.md)  
+[Chapter XI. Escape](pell12.md)  
+[Chapter XII. Kidnapped!](pell13.md)  
+[Chapter XIII. Racing For Life](pell14.md)  
+[Chapter XIV. Gore and Dreams](pell15.md)  
+[Chapter XV. Conquest and Peace](pell16.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl22)  [Next](hpl24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl22)  [Next](hpl24.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ fat sea-worms feast upon the world's dead.
 
 ------------------------------------------------------------------------
 
-[Next: In the Vault (1925)](hpl24)
+[Next: In the Vault (1925)](hpl24.md)

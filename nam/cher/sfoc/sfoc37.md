@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc36)  [Next](sfoc38) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc36)  [Next](sfoc38.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,4 +181,4 @@ directions were given as to diet or tabu.
 
 ------------------------------------------------------------------------
 
-[Next: Concerning Hunting](sfoc38)
+[Next: Concerning Hunting](sfoc38.md)

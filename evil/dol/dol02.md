@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](dol01)  [Next](dol03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](dol01)  [Next](dol03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Devils of Loudun*, by Edmund Goldsmid, \[1887\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ united a corruption of morals which dishonoured his character. His
 conduct had made him many enemies. These were not merely rivals, but
 husbands and fathers, some of high position, who were outraged at the
 dishonour he brought on their family. He was,
-[nevertheless](errata.htm#2), a wonderfully proud man, and the
+[nevertheless](errata.htm#2.md), a wonderfully proud man, and the
 bitterness of his tongue and the harshness with which he pursued his
 advantages only excited them the more. And these advantages were
 numerous, for he had a marvelous faculty for pettifogging. His
@@ -37,11 +37,11 @@ curate and greatest scandal he was at one and the
 same moment. This is proved by the dispensations obtained by many
 fathers of families to assist at the divine service in some other
 parish, and by the permissions granted them to receive the sacrament
-from some other hand. <span id="fr_1"></span>[\*](#fn_1)
+from some other hand. <span id="fr_1"></span>[\*](#fn_1.md)
 
 But what was still more serious is, that while setting so many people
 against him, he had been able to form as formidable a party of his own.
-These were almost all Huguenots, <span id="fr_2"></span>[†](#fn_2) of
+These were almost all Huguenots, <span id="fr_2"></span>[†](#fn_2.md) of
 which Loudun
 
 <span id="page_v1_23">p. 23</span>
@@ -179,7 +179,7 @@ have been looked for. Every honest man takes a pride in the
 blamelessness of his profession, and cannot look favourably on a
 colleague who dishonours it, nor speak favourably of him. The curate,
 then, had nothing to expect from the Canon, who was very intimate with
-the Bishop, <span id="fr_3"></span>[\*](#fn_3) and he had already been
+the Bishop, <span id="fr_3"></span>[\*](#fn_3.md) and he had already been
 made aware of the opinions Mignon had expressed at the time of the first
 trial. These circumstances were not likely to induce Grandier to look
 with a kindly eye on his successful competitor, and he consequently
@@ -187,7 +187,7 @@ determined to give plenty of work to the confessor and to his penitents.
 
 Of the various functions the priest is called upon to perform, none
 requires such delicacy of treatment as the ministry of the tribunal of
-Penitence. <span id="fr_4"></span>[†](#fn_4)
+Penitence. <span id="fr_4"></span>[†](#fn_4.md)
 
 <span id="page_v1_38">p. 38</span>
 
@@ -219,7 +219,7 @@ That was all that prudence could devise, but *human* prudence, always
 infinitely limited in its views; *Divine* prudence is quite another
 thing. God had resolved that the mystery of iniquity should no longer
 lie buried. As the church, at its birth, gained great credit through
-similar events, <span id="fr_5"></span>[\*](#fn_5) so again, in this
+similar events, <span id="fr_5"></span>[\*](#fn_5.md) so again, in this
 case, did they serve to revive the faith of true believers, end so it
 will be again in future times.
 
@@ -229,7 +229,7 @@ consciences, though distorted, had preserved some remnants of original
 good, and to blind souls darkened with pride, and hearts full of
 perversity.
 
-As usually happens, the extraordinary [phenomena](errata.htm#5)
+As usually happens, the extraordinary [phenomena](errata.htm#5.md)
 displayed in the persons of the nuns were taken for the effects of
 sexual disease. But soon suspicions arose that they proceeded from
 supernatural causes; and at last they perceived what God intended every
@@ -306,17 +306,17 @@ but never had they imagined that he was guilty of Magic. They were
 therefore not satisfied with one single questioning: they repeated the
 interrogatory several times, and always received the same reply.
 
-<span id="img_a04300"></span> ![END OF VOL. I.](img/a04300.jpg)
+<span id="img_a04300"></span> ![END OF VOL. I.](img/a04300.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[v1\_22:\*](dol02.htm#fr_1) Our author takes care
+<span id="fn_1"></span>[v1\_22:\*](dol02.htm#fr_1.md) Our author takes care
 not to mention that the Bishop of the Diocese was Grandier's greatest
 enemy.
 
-<span id="fn_2"></span>[v1\_22:†](dol02.htm#fr_2) Huguenots, the name
+<span id="fn_2"></span>[v1\_22:†](dol02.htm#fr_2.md) Huguenots, the name
 given to the early adherents of the Reformation in France. The origin of
 the word has been variously accounted for, but it was most probably
 introduced from Germany as a corruption of the German-Swiss
@@ -421,7 +421,7 @@ of the Roman Catholic party had no intention of observing its
 conditions, but on the contrary they sought to obtain by treachery that
 which they had failed to procure by force of arms. In two years their
 plans were ripe for execution, and the leaders of the Huguenot party
-having [been](errata.htm#3) enticed to Paris, a general massacre of the
+having [been](errata.htm#3.md) enticed to Paris, a general massacre of the
 Protestants was commenced on St. Bartholomew's Day, 24th August, 1572.
 In the ghastly slaughter that followed, according to the lowest
 computation, 30,000 of the Protestants of France were destroyed, but
@@ -516,7 +516,7 @@ Revolution of 1789 and the passing later of the Code <span
 id="page_32">p. 32</span> Napoleon gave them equal rights with Roman
 Catholics, At the present time the Protestants of France number about
 500,000, and many of their pastors receive a small salary from the
-state. They nevertheless enjoy a [considerable](errata.htm#4) amount of
+state. They nevertheless enjoy a [considerable](errata.htm#4.md) amount of
 self-government, and they have an excellent reputation as industrious
 and orderly citizens. In the Protestant churches of France, as in those
 of other countries, there is a tendency to divide over the questions
@@ -528,10 +528,10 @@ of modern studies, cling more closely to the Calvinistic standards of
 their forefathers. \[See "History of the Rise of the Huguenots," by
 Prof. M. Baird, 1880.\]
 
-<span id="fn_3"></span>[v1\_37:\*](dol02.htm#fr_3) The friendship of the
+<span id="fn_3"></span>[v1\_37:\*](dol02.htm#fr_3.md) The friendship of the
 Bishop would account for Mignon's envy towards Grandier.
 
-<span id="fn_4"></span>[v1\_37:†](dol02.htm#fr_4) When and under what
+<span id="fn_4"></span>[v1\_37:†](dol02.htm#fr_4.md) When and under what
 circumstances confession, either public or private, was first deemed
 absolutely necessary for the remission of sins is a subject of
 controversy. Innocent III., in the fourth Lateran Council, A.D. 1215
@@ -565,9 +565,9 @@ admitted by the Prayer Book, private confession has long been viewed
 with extreme suspicion, but of late years attempts have been made by a
 certain section to revive it.
 
-<span id="fn_5"></span>[v1\_40:\*](dol02.htm#fr_5) The reference is
+<span id="fn_5"></span>[v1\_40:\*](dol02.htm#fr_5.md) The reference is
 evidently to Mark XVI., p. 17 and 18.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](dol03)
+[Next: Part II](dol03.md)

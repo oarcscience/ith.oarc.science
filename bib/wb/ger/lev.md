@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](exo)  [Next](num) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](exo)  [Next](num.md) 
 
 ------------------------------------------------------------------------
 
@@ -3265,4 +3265,4 @@ gebot an die Kinder Israel auf dem Berge Sinai.
 
 ------------------------------------------------------------------------
 
-[Next: Numbers](num)
+[Next: Numbers](num.md)

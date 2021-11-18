@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](cou73)  [Next](cou75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](cou73)  [Next](cou75.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud of Unknowing*, ed. by Evelyn Underhill, \[1922\], at
 Intangible Textual Heritage
 
@@ -70,4 +70,4 @@ God. <span id="an_lxxv-p7.1"></span><span id="page_295">p. 295</span>
 [Next: Chapter 70: That right as by the defailing of our bodily wits we
 begin more readily to come to knowing of ghostly things, so by the
 defailing of our ghostly wits we begin most readily to come to the
-knowledge of God, such as is possible by grace to be had here](cou75)
+knowledge of God, such as is possible by grace to be had here](cou75.md)

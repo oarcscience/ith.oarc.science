@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic040)  [Next](lfic042) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic040)  [Next](lfic042.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ data.
 
 ------------------------------------------------------------------------
 
-[Next: The Crock found in the Rath](lfic042)
+[Next: The Crock found in the Rath](lfic042.md)

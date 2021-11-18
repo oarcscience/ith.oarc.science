@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog21)  [Next](bog23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog21)  [Next](bog23.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ peace. I walk in balance on the path of the Goddess. Blessed be."
 
 ------------------------------------------------------------------------
 
-[Next: Second Principle: Kali](bog23)
+[Next: Second Principle: Kali](bog23.md)

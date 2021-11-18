@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa76)  [Next](psa78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa76)  [Next](psa78.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ pride, otherwise my name is not Doorjodhun."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXVII](psa78)
+[Next: Chapter LXXVII](psa78.md)

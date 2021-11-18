@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm13)  [Next](rotm15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm13)  [Next](rotm15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -159,6 +159,6 @@ So he held his peace, and the feast went on merrily and blithely.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Concerning Face-of-god and the Mountain](rotm15)
+[Next: Chapter XIV. Concerning Face-of-god and the Mountain](rotm15.md)
 
 </div>

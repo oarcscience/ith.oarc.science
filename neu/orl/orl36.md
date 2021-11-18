@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl35)  [Next](orl37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl35)  [Next](orl37.md) 
 
 ------------------------------------------------------------------------
 
@@ -961,4 +961,4 @@ If ye to hear another strain resort.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 37](orl37)
+[Next: Canto 37](orl37.md)

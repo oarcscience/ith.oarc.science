@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi091)  [Next](mtsi093) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi091)  [Next](mtsi093.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ American](../../index)  [Southeast](../index)  [Index](index) 
 In the beginning the waters covered everything. It was said "Who will
 make the land appear?"
 
-Lock-chew, <span id="fr_22"></span>[1](#fn_22) the Crawfish, said: "I
+Lock-chew, <span id="fr_22"></span>[1](#fn_22.md) the Crawfish, said: "I
 will make the land appear."
 
 So he went down to the bottom of the water and began to stir up the mud
@@ -100,9 +100,9 @@ that they could be known.
 
 ### Footnotes
 
-<span id="fn_22"></span>[84:1](mtsi092.htm#fr_22) These names are in the
+<span id="fn_22"></span>[84:1](mtsi092.htm#fr_22.md) These names are in the
 Yuchi language.
 
 ------------------------------------------------------------------------
 
-[Next: 91. The Monkey Girl](mtsi093)
+[Next: 91. The Monkey Girl](mtsi093.md)

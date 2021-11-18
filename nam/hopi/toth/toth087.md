@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth086)  [Next](toth088) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth086)  [Next](toth088.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 84. THE SNAKES AND THE LOCUSTS. <span id="fr_162"></span>[2](#fn_160)
+## 84. THE SNAKES AND THE LOCUSTS. <span id="fr_162"></span>[2](#fn_160.md)
 
 Alíksai! At Hóyapi the people were living. There they were living. At a
 little distance to the north of this place is a small bluff,
@@ -154,7 +154,7 @@ warm weather.
 
 ### Footnotes
 
-<span id="fn_159"></span>[217:1](toth086.htm#fr_161) The Hopi claim that
+<span id="fn_159"></span>[217:1](toth086.htm#fr_161.md) The Hopi claim that
 they have repeatedly observed the exerting of such a charm over mice,
 little rabbits' etc., on the part of bull-snakes. One told me that he
 had watched a snake charm a large mouse for quite a while. The snake
@@ -170,9 +170,9 @@ Hopi say that sometimes they take pity on the victim, and with a stick
 or some other object cut through the line of the charm upon which the
 victim is at once set free and escapes.
 
-<span id="fn_160"></span>[217:2](toth087.htm#fr_162) Told by Lomávântiwa
+<span id="fn_160"></span>[217:2](toth087.htm#fr_162.md) Told by Lomávântiwa
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 85. The Squirrel and the Chipmunk](toth088)
+[Next: 85. The Squirrel and the Chipmunk](toth088.md)

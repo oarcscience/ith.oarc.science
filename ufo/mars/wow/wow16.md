@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow15)  [Next](wow17) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow15)  [Next](wow17.md) 
 
 ------------------------------------------------------------------------
 
@@ -475,4 +475,4 @@ brother had come.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seventeen: The Thunder Child](wow17)
+[Next: Chapter Seventeen: The Thunder Child](wow17.md)

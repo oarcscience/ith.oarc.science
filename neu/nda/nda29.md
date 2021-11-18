@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -80,7 +80,7 @@ breadth of the ocean.
 It is now my privilege to call the attention of my readers once more to
 the Icelandic sagas, and show from them corroborations of the above
 theory concerning the discovery of America by the Irish. There was a
-powerful [chieftain](errata.htm#15) in Iceland, by name Are Marson, and
+powerful [chieftain](errata.htm#15.md) in Iceland, by name Are Marson, and
 the sagas tell us that in the year 983, that is, three years before
 Vinland was seen by Bjarne Herjulfson, he was driven to Great Ireland by
 storms, and was there baptized. The first author of this account was his
@@ -184,7 +184,7 @@ tenth century were of ordinary occurrence)--a people so familiar
 
 <span id="img_34200"></span> <span align="CENTER"> [![MAP OF
 ICELAND](tn/34200.jpg)  
-Click to enlarge](img/34200.jpg)  
+Click to enlarge](img/34200.jpg.md)  
 MAP OF ICELAND  
 </span>
 
@@ -195,6 +195,6 @@ Atlantic Ocean.
 
 The geography of the western world, according to the old Norsemen,
 consisted of (1) Helluland (Newfoundland), (2) Markland (Nova Scotia),
-(3) Vinland ([Massachusetts](errata.htm#16) or some part of New
+(3) Vinland ([Massachusetts](errata.htm#16.md) or some part of New
 England), and then (4) stretching far to the south of Vinland lay
 Whitemen's Land or Great Ireland.

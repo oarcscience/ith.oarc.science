@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits033) [Next](bits035)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits033) [Next](bits035.md)
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ the attachment of the assertion of an Ego.
 sensual pleasure as its object. Or, again, it is the attachment of
 sensual pleasure because it is at the same time attachment and sensual
 pleasure. The word attachment<span id="page_191_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_191_note_1) means a tenacious grasp.
+class="small">1</span></sup>](#page_191_note_1.md) means a tenacious grasp.
 The syllables *u-pa* strengthen the word, just as in *upâyâsa*,
 *upakkuttha*, etc.
 
@@ -189,7 +189,7 @@ heretical puppet-show, heretical writhing, heretical fetter, figment,
 notion, persuasion, affectation, byway, false way, falsity, schismatic
 doctrine, or error is called the attachment of the assertion of the
 Ego."<span id="page_193_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_193_note_1)
+class="small">1</span></sup>](#page_193_note_1.md)
 
    The above is *their short description, and their long*.
 
@@ -240,7 +240,7 @@ teaching.
 
 ------------------------------------------------------------------------
 
-[Next: § 35. Existence](bits035)
+[Next: § 35. Existence](bits035.md)
 
 ------------------------------------------------------------------------
 
@@ -248,12 +248,12 @@ teaching.
 
 <span id="footnotes_page_191">p. 191</span>
 
-<span id="page_191_note_1"></span>[1](#page_191_fr_1) In Pâli upâdâna,
+<span id="page_191_note_1"></span>[1](#page_191_fr_1.md) In Pâli upâdâna,
 i.e. upa + âdâna.
 
 <span id="footnotes_page_193">p. 193</span>
 
-<span id="page_193_note_1"></span>[1](#page_193_fr_1) See Dhammasangani,
+<span id="page_193_note_1"></span>[1](#page_193_fr_1.md) See Dhammasangani,
 §§ 1214 to 1217.
 
  

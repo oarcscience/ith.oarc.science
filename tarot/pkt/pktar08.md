@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar07)  [Next](pktar09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar07)  [Next](pktar09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### Strength, or Fortitude
 
 <span id="img_ar08"></span> <span align="CENTER"> [![](tn/ar08.jpg)  
-Click to enlarge](img/ar08.jpg)</span>
+Click to enlarge](img/ar08.jpg.md)</span>
 
 A woman, over whose head there broods the same symbol of life which we
 have seen in the card of the Magician, is closing the jaws of a lion.
@@ -50,4 +50,4 @@ the basilisk and has trodden down the lion and the dragon.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Hermit](pktar09)
+[Next: IX. The Hermit](pktar09.md)

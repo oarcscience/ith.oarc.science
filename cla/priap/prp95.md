@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp94)  [Next](prp96) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp94)  [Next](prp96.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ flight.\]
 ------------------------------------------------------------------------
 
 [Next: A list of terms used in the Priapeia as designations of
-Priapus](prp96)
+Priapus](prp96.md)

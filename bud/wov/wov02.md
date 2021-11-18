@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](wov01)  [Next](wov03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](wov01)  [Next](wov03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddha's Way of Virtue*, by W.D.C Wagiswara and K.J. Saunders,
 \[1920\], at Intangible Textual Heritage
 
@@ -130,7 +130,7 @@ Vallée Poussin, "at least they recognise a sovereign and infallible
 justice—a justice of wonderful insight and adaptability, however
 mechanically it acts… In my opinion it is a calumny to accuse Buddhists
 of atheism: they have, at any rate, taken full cognisance of one of the
-aspects of the divine." <span id="fr_0"></span>[\*](#fn_0)
+aspects of the divine." <span id="fr_0"></span>[\*](#fn_0.md)
 
 Gautama believed above all things in a moral order, which, if it is
 inexorable, is also too righteous to yield to sacrificial bribes:
@@ -195,7 +195,7 @@ primarily indeed, of the intellect, but through the intellect of the
 entire personality, moulding and disciplining the will and the emotions
 into absolute unison with itself, a principle from which courage,
 temperance, justice, and every other virtue inevitably flow." <span
-id="fr_1"></span>[\*](#fn_1)
+id="fr_1"></span>[\*](#fn_1.md)
 
 <span class="small">"A man is not wise by much speaking…He is the wise
 man who is forgiving, kindly, and without fear."  
@@ -206,7 +206,7 @@ in ignorance not merely a calamity, but also a moral fault; he agrees
 with the Darwinians in recognising in man the ape and the tiger, but
 adds, with Dr. Creighton, that "when the ape and the tiger go, there
 still remains the donkey, a far more formidable beast." <span
-id="fr_2"></span>[†](#fn_2)
+id="fr_2"></span>[†](#fn_2.md)
 
 *Mōha,* infatuation, and *Avijjā,* ignorance, are everywhere, and
 "Ignorance is the greatest of taints, more destructive than avarice and
@@ -276,15 +276,15 @@ K. J. S.
 
 ### Footnotes
 
-<span id="fn_0"></span>[13:\*](wov02.htm#fr_0) *Bouddhisme,* p. 70.
+<span id="fn_0"></span>[13:\*](wov02.htm#fr_0.md) *Bouddhisme,* p. 70.
 
-<span id="fn_1"></span>[15:\*](wov02.htm#fr_1) Dr. J. Adam, *The
+<span id="fn_1"></span>[15:\*](wov02.htm#fr_1.md) Dr. J. Adam, *The
 Religious Teachers of Greece,* p. 329.
 
-<span id="fn_2"></span>[15:†](wov02.htm#fr_2) Tibetan Buddhism
+<span id="fn_2"></span>[15:†](wov02.htm#fr_2.md) Tibetan Buddhism
 illustrates these three cardinal vices by pictures of the cock (lust),
 the snake (anger), and the hog (stupidity).
 
 ------------------------------------------------------------------------
 
-[Next: Note](wov03)
+[Next: Note](wov03.md)

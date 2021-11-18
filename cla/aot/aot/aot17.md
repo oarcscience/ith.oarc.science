@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot16) 
-[Next](aot18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot16.md) 
+[Next](aot18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -27,11 +27,11 @@ letters to emperors, kings, philosophers, communities and states,
 although he was by no means a "voluminous correspondent"; in fact, the
 style of his short notes is exceedingly concise, and they were composed,
 as Philostratus says, "after the manner of the Lacedæmonian scytale
-" <span id="fr_117"></span>[\*](#fn_117) (iv. 27 and vii. 35).
+" <span id="fr_117"></span>[\*](#fn_117) (iv. 27 and vii. 35.md).
 
 It is evident that Philostratus had access to letters attributed to
 Apollonius, for he quotes a number of them, <span
-id="fr_118"></span>[†](#fn_118) and there seems no reason to doubt their
+id="fr_118"></span>[†](#fn_118.md) and there seems no reason to doubt their
 authenticity. Whence he obtained
 
 <span id="page_146">p. 146</span>
@@ -85,7 +85,7 @@ Here is a note to the Cynic Demetrius, another of our philosopher's most
 devoted friends.
 
 “Apollonius, the philosopher, to Demetrius, the Dog, <span
-id="fr_119"></span>[\*](#fn_119) greeting!
+id="fr_119"></span>[\*](#fn_119.md) greeting!
 
 “I give thee to Titus, the emperor, to teach him the way of kingship,
 and do you in turn give me to speak him true; and be to him all things
@@ -93,13 +93,13 @@ but anger. Farewell!”
 
 In addition to the notes quoted in the text of Philostratus, there is a
 collection of ninety-five letters, mostly brief notes, the text of which
-is printed in most editions. <span id="fr_120"></span>[†](#fn_120)
+is printed in most editions. <span id="fr_120"></span>[†](#fn_120.md)
 Nearly all the critics
 
 <span id="page_148">p. 148</span>
 
 are of opinion that they are not genuine, but Jowett <span
-id="fr_121"></span>[\*](#fn_121) and others think that some of them may
+id="fr_121"></span>[\*](#fn_121.md) and others think that some of them may
 very well be genuine.
 
 Here is a specimen or two of these letters. Writing to Euphrates, his
@@ -122,8 +122,8 @@ Writing to the priests of Delphi against the practice of
 blood-sacrifice, he says:
 
 27\. "Heraclitus was a sage, but even he <span
-id="fr_122"></span>[†](#fn_122) never advised the people of Ephesus to
-wash out mud with mud." <span id="fr_123"></span>[‡](#fn_123)
+id="fr_122"></span>[†](#fn_122.md) never advised the people of Ephesus to
+wash out mud with mud." <span id="fr_123"></span>[‡](#fn_123.md)
 
 <span id="page_149">p. 149</span>
 
@@ -139,7 +139,7 @@ Among these letters is found one of some length addressed to Valerius,
 probably P. Valerius Asiaticus, consul in <span
 class="smallcaps">a.d.</span> 70. It is a wise letter of philosophic
 consolation to enable Valerius to bear the loss of his son, and runs as
-follows: <span id="fr_124"></span>[\*](#fn_124)
+follows: <span id="fr_124"></span>[\*](#fn_124.md)
 
 "There is no death of anyone, but only in appearance, even as there is
 no birth of any, save only in seeming. The change from being to becoming
@@ -213,14 +213,14 @@ true. You fail in piety to God, you fail in justice to your boy; nay
 more, you fail in piety to him as well. Would’st know what death is?
 Then make me dead and send me off to company with death, and if you will
 not change the dress you've put on it, <span
-id="fr_125"></span>[\*](#fn_125) you will have straightway made me
-better than yourself." <span id="fr_126"></span>[†](#fn_126)
+id="fr_125"></span>[\*](#fn_125.md) you will have straightway made me
+better than yourself." <span id="fr_126"></span>[†](#fn_126.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_117"></span>[145:\*](aot17.htm#fr_117) This was a staff, or
+<span id="fn_117"></span>[145:\*](aot17.htm#fr_117.md) This was a staff, or
 baton, used as a cypher for writing dispatches. "A strip of leather was
 rolled slantwise round it, on which the dispatches were written
 lengthwise, so that when unrolled they were unintelligible; commanders
@@ -229,34 +229,34 @@ papers, and so were able to read the dispatches." (Liddell and Scott's
 Lexicon sub voc.) Hence scytale came to mean generally a Spartan
 dispatch, which was characteristically laconic in its brevity.
 
-<span id="fn_118"></span>[145:†](aot17.htm#fr_118) See i. 7, 15, 24, 32;
+<span id="fn_118"></span>[145:†](aot17.htm#fr_118.md) See i. 7, 15, 24, 32;
 iii. 51; iv. 5, 22, 26, 27, 46; v. 2, 10, 39, 40, 41; vi. 18, 27, 29,
 31, 33; viii. 7, 20, 27, 28.
 
-<span id="fn_119"></span>[147:\*](aot17.htm#fr_119) I.e., Cynic.
+<span id="fn_119"></span>[147:\*](aot17.htm#fr_119.md) I.e., Cynic.
 
-<span id="fn_120"></span>[147:†](aot17.htm#fr_120) Chassang (op. cit.,
+<span id="fn_120"></span>[147:†](aot17.htm#fr_120.md) Chassang (op. cit.,
 pp. 395 sqq.) gives a French translation of them.
 
-<span id="fn_121"></span>[148:\*](aot17.htm#fr_121) Art. "Apollonius,"
+<span id="fn_121"></span>[148:\*](aot17.htm#fr_121.md) Art. "Apollonius,"
 Smith's Diet. of Class. Biog.
 
-<span id="fn_122"></span>[148:†](aot17.htm#fr_122) That is to say, a
+<span id="fn_122"></span>[148:†](aot17.htm#fr_122.md) That is to say, a
 philosopher of 600 years ago.
 
-<span id="fn_123"></span>[148:‡](aot17.htm#fr_123) That is to expiate
+<span id="fn_123"></span>[148:‡](aot17.htm#fr_123.md) That is to expiate
 blood-guiltiness with blood-sacrifice.
 
-<span id="fn_124"></span>[149:\*](aot17.htm#fr_124) Chaignet (A. É.), in
+<span id="fn_124"></span>[149:\*](aot17.htm#fr_124) Chaignet (A. É..md), in
 his Pythagore et la Philosophie pythagoricienne (Paris; 1873, 2nd ed.
 1874), cites this as a genuine example of Apollonius’ philosophy.
 
-<span id="fn_125"></span>[152:\*](aot17.htm#fr_125) That is his idea of
+<span id="fn_125"></span>[152:\*](aot17.htm#fr_125.md) That is his idea of
 death.
 
-<span id="fn_126"></span>[152:†](aot17.htm#fr_126) The text of the last
+<span id="fn_126"></span>[152:†](aot17.htm#fr_126.md) The text of the last
 sentence is very obscure
 
 ------------------------------------------------------------------------
 
-[Next: Section XVII. The Writings of Apollonius](aot18)
+[Next: Section XVII. The Writings of Apollonius](aot18.md)

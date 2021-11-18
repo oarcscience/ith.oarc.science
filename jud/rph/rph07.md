@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph06)  [Next](rph08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph06)  [Next](rph08.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ object in the very curious work of the Duchess of Pomar.
 
 Why not speak also of the Magazine *Initiation*, although it is no more
 than four months in existence? The very name *Initiation* tells us a
-great deal, it puts us upon the [threshold](errata.htm#1) of a good many
+great deal, it puts us upon the [threshold](errata.htm#1.md) of a good many
 sanctuaries closed to the profane; and this young *Review*, which, in
 fact, bears upon its cover the title "Philosophic and Independent Review
 of the Higher Studies," is dedicated exclusively to science, or, at
@@ -115,7 +115,7 @@ I shall be permitted also not to pass entirely in silence the
 <span class="contnote">\[paragraph continues\]</span> Swedenborgian
 journals which appeared lately in and out of France, especially the
 "General Philosophy of the Students of Swedenborg's Books." <span
-id="fr_6"></span>[1](#fn_6) But the Church of Swedenborg, or the "New
+id="fr_6"></span>[1](#fn_6.md) But the Church of Swedenborg, or the "New
 Jerusalem," although represented by its adepts as one of the most
 important forms of Theosophy, can surely not join the Kabbalah simply
 because it leans upon an esoteric interpretation of sacred books. The
@@ -138,7 +138,7 @@ absolutely unknown in the thirteenth century, mainly in Saturninus and
 Valentin, a system of theogony and of cosmogony identical to the one of
 the Zohar; and not only are the ideas alike, but the symbolical form of
 language and the manner of argumentation are also the same. <span
-id="fr_7"></span>[2](#fn_7)
+id="fr_7"></span>[2](#fn_7.md)
 
 In the same year in which Mr. Amélineau, by his doctor's thesis,
 delivered at Sarbonne, avenged the Zohar from the attacks delivered
@@ -151,7 +151,7 @@ xxv
 
 and still less to the patriarch Abraham, he establishes, at least,
 through decisive reasoning, that it is not any later than the fourth
-century of our era. <span id="fr_8"></span>[3](#fn_8)
+century of our era. <span id="fr_8"></span>[3](#fn_8.md)
 
 This is something already. But I do not doubt, that by paying more
 attention to the depth rather than the form of the book, and by
@@ -179,16 +179,16 @@ Paris, April 9th, 1889.
 
 ### Footnotes
 
-<span id="fn_6"></span>[xxv:1](rph07.htm#fr_6) Published by Villot, 22
+<span id="fn_6"></span>[xxv:1](rph07.htm#fr_6.md) Published by Villot, 22
 rue de Boisey, Taverny (Sein-et-Oisee).
 
-<span id="fn_7"></span>[xxv:2](rph07.htm#fr_7) I have cited several
+<span id="fn_7"></span>[xxv:2](rph07.htm#fr_7.md) I have cited several
 examples in the journal of Scholars, April and May numbers, 1888.
 
-<span id="fn_8"></span>[xxv:3](rph07.htm#fr_8) Epstein, M’kadmonios
+<span id="fn_8"></span>[xxv:3](rph07.htm#fr_8.md) Epstein, M’kadmonios
 Ha-Y’udim, Beitraege zur Geschichte Juedischer Alterthumskunde, Vienna,
 1887.
 
 ------------------------------------------------------------------------
 
-[Next: Preface of the Author](rph08)
+[Next: Preface of the Author](rph08.md)

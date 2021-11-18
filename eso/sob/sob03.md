@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob02) 
-[Next](sob04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob02.md) 
+[Next](sob04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ Life is absolutely dependent upon the act of breathing. "Breath is
 Life."
 
 Differ as they may upon details of theory and terminology, the
-[Oriental](errata.htm#0) and the Occidental agree upon these fundamental
+[Oriental](errata.htm#0.md) and the Occidental agree upon these fundamental
 principles.
 
 To breathe is to live, and without breath there is no life. Not only are
@@ -105,7 +105,7 @@ force or "prana," thereby strengthening and invigorating the part or
 organ. He knows all that his Western scientific brother knows about the
 physiological effect of correct breathing, but he also knows that the
 air contains more than oxygen and hydrogen and nitrogen, and that
-[something](errata.htm#1) more is accomplished than the mere oxygenating
+[something](errata.htm#1.md) more is accomplished than the mere oxygenating
 of the blood. He knows something about "prana," of which his Western
 brother is ignorant, and he is fully aware of the nature and manner of
 handling that great principle of energy, and is fully informed as to its
@@ -125,4 +125,4 @@ value of the Yogi "Science of Breath."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Exoteric Theory of Breath](sob04)
+[Next: Chapter III. The Exoteric Theory of Breath](sob04.md)

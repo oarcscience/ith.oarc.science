@@ -6,114 +6,114 @@ pathh1: "library.jpg"
 alttext1: "Library (c) 2003 J.B. Hare"
 titleh1: "Sacred Books of the East Index"
 ---
-[Table of Contents](#sbetab)  
-[Index of Translators](#sbeauthors)  
-[Transliteration Tables](#xlit)  
-[Available reprints](#sbereprints)  
+[Table of Contents](#sbetab.md)  
+[Index of Translators](#sbeauthors.md)  
+[Transliteration Tables](#xlit.md)  
+[Available reprints](#sbereprints.md)  
 
 ------------------------------------------------------------------------
 
 JUMP TO SBE VOLUME
 
-[1](../hin/sbe01/index)
+[1](../hin/sbe01/index.md)
 
-[2](../hin/sbe02/index)
+[2](../hin/sbe02/index.md)
 
-[3](../cfu/sbe03/index)
+[3](../cfu/sbe03/index.md)
 
-[4](../zor/sbe04/index)
+[4](../zor/sbe04/index.md)
 
-[5](../zor/sbe05/index)
+[5](../zor/sbe05/index.md)
 
-[6](../isl/sbe06/index)
+[6](../isl/sbe06/index.md)
 
-[7](../hin/sbe07/index)
+[7](../hin/sbe07/index.md)
 
-[8](../hin/sbe08/index)
+[8](../hin/sbe08/index.md)
 
-[9](../isl/sbe09/index)
+[9](../isl/sbe09/index.md)
 
-[10](../bud/sbe10/index)
+[10](../bud/sbe10/index.md)
 
-[11](../bud/sbe11/index)
+[11](../bud/sbe11/index.md)
 
-[12](../hin/sbr/sbe12/index)
+[12](../hin/sbr/sbe12/index.md)
 
-[13](../bud/sbe13/index)
+[13](../bud/sbe13/index.md)
 
-[14](../hin/sbe14/index)
+[14](../hin/sbe14/index.md)
 
-[15](../hin/sbe15/index)
+[15](../hin/sbe15/index.md)
 
-[16](../ich/index)
+[16](../ich/index.md)
 
-[17](../bud/sbe17/index)
+[17](../bud/sbe17/index.md)
 
-[18](../zor/sbe18/index)
+[18](../zor/sbe18/index.md)
 
-[19](../bud/sbe19/index)
+[19](../bud/sbe19/index.md)
 
-[20](../bud/sbe20/index)
+[20](../bud/sbe20/index.md)
 
-[21](../bud/lotus/index)
+[21](../bud/lotus/index.md)
 
-[22](../jai/sbe22/index)
+[22](../jai/sbe22/index.md)
 
-[23](../zor/sbe23/index)
+[23](../zor/sbe23/index.md)
 
-[24](../zor/sbe24/index)
+[24](../zor/sbe24/index.md)
 
-[25](../hin/manu)
+[25](../hin/manu.md)
 
-[26](../hin/sbr/sbe26/index)
+[26](../hin/sbr/sbe26/index.md)
 
-[27](../cfu/liki/index)
+[27](../cfu/liki/index.md)
 
-[28](../cfu/liki2/index)
+[28](../cfu/liki2/index.md)
 
-[29](../hin/sbe29/index)
+[29](../hin/sbe29/index.md)
 
-[30](../hin/sbe30/index)
+[30](../hin/sbe30/index.md)
 
-[31](../zor/sbe31/index)
+[31](../zor/sbe31/index.md)
 
-[32](../hin/sbe32/index)
+[32](../hin/sbe32/index.md)
 
-[33](../hin/sbe33/index)
+[33](../hin/sbe33/index.md)
 
-[34](../hin/sbe34/index)
+[34](../hin/sbe34/index.md)
 
-[35](../bud/sbe35/index)
+[35](../bud/sbe35/index.md)
 
-[36](../bud/sbe36/index)
+[36](../bud/sbe36/index.md)
 
-[37](../zor/sbe37/index)
+[37](../zor/sbe37/index.md)
 
-[38](../hin/sbe38/index)
+[38](../hin/sbe38/index.md)
 
-[39](../tao/sbe39/index)
+[39](../tao/sbe39/index.md)
 
-[40](../tao/sbe40/index)
+[40](../tao/sbe40/index.md)
 
-[41](../hin/sbr/sbe41/index)
+[41](../hin/sbr/sbe41/index.md)
 
-[42](../hin/sbe42/index)
+[42](../hin/sbe42/index.md)
 
-[43](../hin/sbr/sbe43/index)
+[43](../hin/sbr/sbe43/index.md)
 
-[44](../hin/sbr/sbe44/index)
+[44](../hin/sbr/sbe44/index.md)
 
-[45](../jai/sbe45/index)
+[45](../jai/sbe45/index.md)
 
-[46](../hin/sbe46/index)
+[46](../hin/sbe46/index.md)
 
-[47](../zor/sbe47/index)
+[47](../zor/sbe47/index.md)
 
-[48](../hin/sbe48/index)
+[48](../hin/sbe48/index.md)
 
-[49](../bud/sbe49/index)
+[49](../bud/sbe49/index.md)
 
-[50](../sbe/sbe50/index)
+[50](../sbe/sbe50/index.md)
 
 ------------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ Representative Works.
 
 This series was the one of the inspirations for the sacred-texts
 website. As [most of the SBE texts are in the public domain worldwide
-(and all of them in are public domain in the US)](#pubdomain), we have a
+(and all of them in are public domain in the US)](#pubdomain.md), we have a
 long term project of converting the entire series to etexts. This page
 is a progress report on this project, and a way of centralizing known
 bibliographic information on the SBE.
@@ -144,7 +144,7 @@ inception of sacred-texts. All of these etexts, with the exception of
 volume 25, were prepared at sacred-texts, or by volunteers. At this
 point, future work on this project will involve bringing the older
 etexts up to current standards, and the completion of [SBE
-50](sbe50/index), the General Index.
+50](sbe50/index.md), the General Index.
 
 The difficulties of turning these books into etexts were enormous, and
 required great care and diligence. These volumes represent some of the
@@ -185,10 +185,10 @@ Unfortunately, some of the SBE reprints in the Dover line are now out of
 print; they are extensively available used, however.
 
 [A list of available SBE reprints (mostly from Dover) is available
-here.](#sbereprints)
+here.](#sbereprints.md)
 
 The Indian publishing firm of [Motilal
-Banarsidass](https://www.mlbd.com/) has reprinted the entire set in
+Banarsidass](https://www.mlbd.com/.md) has reprinted the entire set in
 hardcover (ISBN 8120801016). This is the version found at most large
 public and academic libraries. These are printed on substandard paper
 and the binding is often sloppy. Inverted signatures are not rare; and I
@@ -226,10 +226,10 @@ etexts.
 
 The following are images of these tables:
 
-[Page 1](xlit00.jpg) *63,496 bytes*  
-[Page 2](xlit01.jpg) *70,357 bytes*  
-[Page 3](xlit02.jpg) *77,234 bytes*  
-[Page 4](xlit03.jpg) *76,127 bytes*  
+[Page 1](xlit00.jpg.md) *63,496 bytes*  
+[Page 2](xlit01.jpg.md) *70,357 bytes*  
+[Page 3](xlit02.jpg.md) *77,234 bytes*  
+[Page 4](xlit03.jpg.md) *76,127 bytes*  
 
 ------------------------------------------------------------------------
 
@@ -251,524 +251,524 @@ year published
 1 \*
 
 <span id="sbe01"></span> [The Upanishads, Part 1 of
-2](../hin/sbe01/index)  
+2](../hin/sbe01/index.md)  
 Chandogya Upanishad. Talavakara (Kena) Upanishad. Aitareya Upanishad.
 Kausitaki Upanishad. Vajasaneyi (Isa) Upanishad. *[Dover edition in
-print.](#dover_sbe01)*
+print.](#dover_sbe01.md)*
 
-[Max Müller](#mueller)
+[Max Müller](#mueller.md)
 
 1879
 
 2 \*
 
 <span id="sbe02"></span> [The Sacred Laws of the Aryas, part 1 of
-2](../hin/sbe02/index)  
+2](../hin/sbe02/index.md)  
 The sacred laws of the Aryas as taught in the school of Apastamba,
 Gautama, Vâsishtha, and Baudhâyana. pt. I. Apastamba and Gautama. (The
 Dharma Sutras)
 
-[Georg Bühler](#buehler)
+[Georg Bühler](#buehler.md)
 
 1879
 
 3 \*
 
 <span id="sbe03"></span> [The Sacred Books of China, part 1 of
-6.](../cfu/sbe03/index)  
+6.](../cfu/sbe03/index.md)  
 Part I of The Texts of Confucianism.  
 The Shû king. The religions portions of the Shih king. The Hsiâo king.
 
-[James Legge](#legge)
+[James Legge](#legge.md)
 
 1879
 
 4 \*
 
 <span id="sbe04"></span> [The Zend-Avesta, part 1 of
-3](../zor/sbe04/index)  
+3](../zor/sbe04/index.md)  
 The Vendîdâd.
 
-[James Darmesteter](#darmesteter)
+[James Darmesteter](#darmesteter.md)
 
 1880
 
 5 \*
 
 <span id="sbe05"></span> [Pahlavi Texts, part 1 of
-5](../zor/sbe05/index)  
+5](../zor/sbe05/index.md)  
 The Bundahis, Bahman Yast, and Shayast La-Shayast.
 
-[E. W. West](#west)
+[E. W. West](#west.md)
 
 1880
 
 6 \*
 
 <span id="sbe06"></span> [The Qur'an, Part 1 of 2: Chapters
-I-XVI](../isl/sbe06/index)
+I-XVI](../isl/sbe06/index.md)
 
-[E. H. Palmer](#palmer)
+[E. H. Palmer](#palmer.md)
 
 1880
 
 7 \*
 
-<span id="sbe07"></span> [The Institutes of Visnu](../hin/sbe07/index)
+<span id="sbe07"></span> [The Institutes of Visnu](../hin/sbe07/index.md)
 
-[Julius Jolly](#jolly)
+[Julius Jolly](#jolly.md)
 
 1880
 
 8 \*
 
 <span id="sbe08"></span> [The Bhagavadgita With the Sanatsugâtiya and
-the Anugitâ](../hin/sbe08/index)
+the Anugitâ](../hin/sbe08/index.md)
 
-[Kâshinâth Trimbak Telang](#telang)
+[Kâshinâth Trimbak Telang](#telang.md)
 
 1882
 
 9 \*
 
 <span id="sbe09"></span> [The Qur'an, part. 2 of 2: Chapters
-XVII-CXIV](../isl/sbe09/index)
+XVII-CXIV](../isl/sbe09/index.md)
 
-[E. H. Palmer](#palmer)
+[E. H. Palmer](#palmer.md)
 
 1880
 
 10 \*
 
 <span id="sbe10"></span> [The Dhammapada and The
-Sutta-Nipâta,](../bud/sbe10/index).  
+Sutta-Nipâta,](../bud/sbe10/index.md).  
 a collection of discourses; being one of the canonical books of the
 Buddhists, translated from Pâli; and The Dhammapada, a collection of
 verses, translated from Pâli
 
-[F. Max Müller](#mueller) (Dhammapada) [V. Fausböll](#fausboell)
+[F. Max Müller](#mueller) (Dhammapada) [V. Fausböll](#fausboell.md)
 (Sutta-Nipata)
 
 1881
 
 11 \*
 
-<span id="sbe11"></span> [Buddhist Suttas](../bud/sbe11/index)  
+<span id="sbe11"></span> [Buddhist Suttas](../bud/sbe11/index.md)  
 The Mahâ-parinibbâna Suttanta, The Dhamma-kakka-ppavattana Sutta, The
 Tevi*gg*a Suttanta, The Âka<u>n</u>kheyya Sutta, The Ketokhila Sutta,
 The Mahâ-Sudassana Suttanta, The Sabbâsava Sutta. *Out of print Dover
 edition \[1969\].*
 
-[T. W. Rhys Davids](#rhys)
+[T. W. Rhys Davids](#rhys.md)
 
 1881
 
 12 \*
 
 <span id="sbe12"></span> [The Satapatha-Brahmana, part 1 of 5. Books I
-and II](../hin/sbr/sbe12/index)  
+and II](../hin/sbr/sbe12/index.md)  
 according to the text of the Mâdhyandina school.
 
-[Julius Eggeling](#eggeling)
+[Julius Eggeling](#eggeling.md)
 
 1882
 
 13 \*
 
-<span id="sbe13"></span> [Vinaya Texts](../bud/sbe13/index), part 1 of
+<span id="sbe13"></span> [Vinaya Texts](../bud/sbe13/index.md), part 1 of
 3  
 The Patimokkha. The Mahavagga, I-IV.
 
-[T. W. Rhys Davids](#rhys) and [Hermann Oldenberg](#oldenberg)
+[T. W. Rhys Davids](#rhys) and [Hermann Oldenberg](#oldenberg.md)
 
 1881
 
 14 \*
 
 <span id="sbe14"></span> [The Sacred Laws of the Aryas, part 2 of
-2](../hin/sbe14/index).  
+2](../hin/sbe14/index.md).  
 The sacred laws of the Aryas as taught in the school of Apastamba,
 Gautama, Vâsishtha, and Baudhâyana. pt. II. Vâsishtha and Baudhâyana.
 
-[Georg Bühler](#buehler)
+[Georg Bühler](#buehler.md)
 
 1882
 
 15 \*
 
 <span id="sbe15"></span> [The Upanishads, part 2 of
-2](../hin/sbe15/index)  
+2](../hin/sbe15/index.md)  
 Katha Upanishad. Mundaka Upanishad. Taittiriya Upanishad. Brhadaranyaka
 Upanishad. Svetasvatara Upanishad. Prasña Upanishad. Maitrayani
-Upanishad. *[Dover edition in print.](#dover_sbe15)*
+Upanishad. *[Dover edition in print.](#dover_sbe15.md)*
 
-[Max Müller](#mueller)
+[Max Müller](#mueller.md)
 
 1884
 
 16 \*
 
 <span id="sbe16"></span> [The Sacred Books of China, part 2 of
-6](../ich/index)  
+6](../ich/index.md)  
 Part II of The Texts of Confucianism.  
 The Yi King: (I Ching). *Dover edition in print.*
 
-[James Legge](#legge)
+[James Legge](#legge.md)
 
 1882
 
 17 \*
 
 <span id="sbe17"></span> [Vinaya Texts, part 2 of
-3](../bud/sbe17/index)  
+3](../bud/sbe17/index.md)  
 The Mahavagga, V-X, the Kullavagga I-II.
 
-[T. W. Rhys Davids](#rhys) and [Hermann Oldenberg](#oldenberg)
+[T. W. Rhys Davids](#rhys) and [Hermann Oldenberg](#oldenberg.md)
 
 1882
 
 18 \*
 
 <span id="sbe18"></span> [Pahlavi Texts, part 2 of
-5](../zor/sbe18/index)  
+5](../zor/sbe18/index.md)  
 The Dâdistân-î Dinik and the Epistles of Mânûskîhar.
 
-[E. W. West](#west)
+[E. W. West](#west.md)
 
 1882
 
 19 \*
 
 <span id="sbe19"></span> [The
-Fo-sho-hing-tsan-king](../bud/sbe19/index),  
+Fo-sho-hing-tsan-king](../bud/sbe19/index.md),  
 a life of Buddha, by Asvaghosha Bodhisattva; translated from Sanskrit
 into Chinese by Dharmaraksha, A. D. 420
 
-[Samuel Beal](#beal)
+[Samuel Beal](#beal.md)
 
 1883
 
 20 \*
 
 <span id="sbe20"></span> [Vinaya Texts, part 3 of
-3](../bud/sbe20/index)  
+3](../bud/sbe20/index.md)  
 The Kullavagga, IV-XII.
 
-[T. W. Rhys Davids](#rhys) and [Hermann Oldenberg](#oldenberg)
+[T. W. Rhys Davids](#rhys) and [Hermann Oldenberg](#oldenberg.md)
 
 1885
 
 21 \*
 
 <span id="sbe21"></span> [The Saddharma-Pundarika or The Lotus of the
-True Law](../bud/lotus/index)  
+True Law](../bud/lotus/index.md)  
 *Out of print Dover edition \[1963\].*
 
-[H. Kern](#kern)
+[H. Kern](#kern.md)
 
 1884
 
 22 \*
 
 <span id="sbe22"></span> [*G*aina Sûtras, part 1 of
-2](../jai/sbe22/index)  
+2](../jai/sbe22/index.md)  
 translated from the Prâkrit. The Âkârânga sûtra. The Kalpa sûtra. *Out
 of print Dover edition.*
 
-[Hermann Jacobi](#jacobi)
+[Hermann Jacobi](#jacobi.md)
 
 1884
 
 23 \*
 
 <span id="sbe23"></span> [The Zend-Avesta, part 2 of
-3](../zor/sbe23/index)  
+3](../zor/sbe23/index.md)  
 The Sîrôzahs, Yasts, and Nyâyis.
 
-[James Darmesteter](#darmesteter)
+[James Darmesteter](#darmesteter.md)
 
 1883
 
 24 \*
 
 <span id="sbe24"></span> [Pahlavi Texts, part 3 of
-5](../zor/sbe24/index)  
+5](../zor/sbe24/index.md)  
 Dinai Mainög-i khirad, Sikand-Gümanik Vigar, Sad Dar.
 
-[E. W. West](#west)
+[E. W. West](#west.md)
 
 1884
 
 25
 
-<span id="sbe25"></span> [The Laws of Manu](../hin/manu)  
+<span id="sbe25"></span> [The Laws of Manu](../hin/manu.md)  
 Translated, with extracts from seven commentaries. *Out of print Dover
 edition.*
 
-[Georg Bühler](#buehler)
+[Georg Bühler](#buehler.md)
 
 1886
 
 26 \*
 
 <span id="sbe26"></span> [The Satapatha-Brahmana, part 2 of 5, Books
-III-IV](../hin/sbr/sbe26/index)  
+III-IV](../hin/sbr/sbe26/index.md)  
 according to the text of the Mâdhyandina school.
 
-[Julius Eggeling](#eggeling)
+[Julius Eggeling](#eggeling.md)
 
 1885
 
 27 \*
 
 <span id="sbe27"></span> [The Sacred Books of China, part 3 of
-6](../cfu/liki/index)  
+6](../cfu/liki/index.md)  
 Part III of the texts of Confucianism.  
 The Lî Kî, part 1 of 2.
 
-[James Legge](#legge)
+[James Legge](#legge.md)
 
 1885
 
 28 \*
 
 <span id="sbe28"></span> [The Sacred Books of China, part 4 of
-6](../cfu/liki2/index)  
+6](../cfu/liki2/index.md)  
 Part IV of the texts of Confucianism.  
 The Lî Kî, part 2 of 2.
 
-[James Legge](#legge)
+[James Legge](#legge.md)
 
 1885
 
 29 \*
 
 <span id="sbe29"></span> [The Grihya-sutras; rules of Vedic domestic
-ceremonies. part 1 of 2](../hin/sbe29/index)  
+ceremonies. part 1 of 2](../hin/sbe29/index.md)  
 Sankhyayana-Grihya-sutra. Asvalayana-Grihya-sutra.
 Paraskara-Grihya-sutra. Khadia-Grihya-sutra.
 
-[Hermann Oldenberg](#oldenberg)
+[Hermann Oldenberg](#oldenberg.md)
 
 1886
 
 30 \*
 
 <span id="sbe30"></span> [The Grihya-sutras; rules of Vedic domestic
-ceremonies. part 2 of 2](../hin/sbe30/index)  
+ceremonies. part 2 of 2](../hin/sbe30/index.md)  
 Gobhila, Hiranyakesin, Apastamba (Olderberg); Yajña Paribhashasutras
 (Müller).
 
-[Hermann Oldenberg](#oldenberg), [Max Müller](#mueller)
+[Hermann Oldenberg](#oldenberg), [Max Müller](#mueller.md)
 
 1892
 
 31 \*
 
 <span id="sbe31"></span> [The Zend-Avesta, part 3 of
-3](../zor/sbe31/index)  
+3](../zor/sbe31/index.md)  
 The Yasna, Visparad, Afrînagân, Gâhs, and miscellaneous fragments
 
-[L. H. Mills](#mills)
+[L. H. Mills](#mills.md)
 
 1887
 
 32 \*
 
 <span id="sbe32"></span> [Vedic Hymns, part 1 of
-2](../hin/sbe32/index)  
+2](../hin/sbe32/index.md)  
 Hymns to the Maruts, Rudra, Vâyu, and Vâta., with a bibliographical list
 of the more important publications on the Rig-veda.
 
-[Max Müller](#mueller)
+[Max Müller](#mueller.md)
 
 1891
 
 33 \*
 
 <span id="sbe33"></span> [The Minor Law-Books: Narada and Brihaspati.
-(Part 1 of 1).](../hin/sbe33/index)  
+(Part 1 of 1).](../hin/sbe33/index.md)  
 
-[Julius Jolly](#jolly)
+[Julius Jolly](#jolly.md)
 
 1889
 
 34 \*
 
 <span id="sbe34"></span> [The Vedanta-Sutras, part 1 of
-3.](../hin/sbe34/index)  
+3.](../hin/sbe34/index.md)  
 commentary by Sankaracharya, part 1 of 2. Adhyâya I-II (Pâda I-II).
 
-[G. Thibaut](#thibaut)
+[G. Thibaut](#thibaut.md)
 
 1890
 
 35 \*
 
 <span id="sbe35"></span> [The Questions of King Milinda, part 1 of
-2](../bud/sbe35/index)  
+2](../bud/sbe35/index.md)  
 Milindapañha. *Out of print Dover edition \[1963\].*
 
-[T. W. Rhys Davids](#rhys)
+[T. W. Rhys Davids](#rhys.md)
 
 1890
 
 36 \*
 
 <span id="sbe36"></span> [The Questions of King Milinda, part 2 of
-2](../bud/sbe36/index) Milindapañha. *Out of print Dover edition
+2](../bud/sbe36/index.md) Milindapañha. *Out of print Dover edition
 \[1963\].*
 
-[T. W. Rhys Davids](#rhys)
+[T. W. Rhys Davids](#rhys.md)
 
 1894
 
 37 \*
 
 <span id="sbe37"></span> [Pahlavi Texts, part 4 of 5: Contents of the
-Nasks.](../zor/sbe37/index)
+Nasks.](../zor/sbe37/index.md)
 
-[E. W. West](#west)
+[E. W. West](#west.md)
 
 1892
 
 38 \*
 
 <span id="sbe38"></span> [The Vedanta-Sutras, part 2 of
-3](../hin/sbe38/index).  
+3](../hin/sbe38/index.md).  
 commentary by Sankaracharya, part 1 of 2. Adhyâya II (Pâda III-IV)-IV.
 
-[G. Thibaut](#thibaut)
+[G. Thibaut](#thibaut.md)
 
 1896
 
 39 \*
 
 <span id="sbe39"></span> [The Texts of Taoism, Part 1 of
-2.](../tao/sbe39/index)  
+2.](../tao/sbe39/index.md)  
 The Sacred Books of China, part 5 of 6  
-Also: [The Tâo teh king](../tao/taote) (Tao te Ching): The writings of
-Kwang-tze, books I-XVII. *[Dover edition in print.](#dover_sbe39)*
+Also: [The Tâo teh king](../tao/taote) (Tao te Ching.md): The writings of
+Kwang-tze, books I-XVII. *[Dover edition in print.](#dover_sbe39.md)*
 
-[James Legge](#legge)
+[James Legge](#legge.md)
 
 1891
 
 40 \*
 
 <span id="sbe40"></span> [The Texts of Taoism, Part 2 of
-2.](../tao/sbe40/index)  
+2.](../tao/sbe40/index.md)  
 The Texts of Taoism, Part 2 of 2.  
 Includes The Writings of Kwang Tse, books XVII-XXXIII, The Thâi-shang
 tractate of actions and their retributions, other Taoist texts, and the
-Index to vols. 39 and 40. *[Dover edition in print.](#dover_sbe40)*
+Index to vols. 39 and 40. *[Dover edition in print.](#dover_sbe40.md)*
 
-[James Legge](#legge)
+[James Legge](#legge.md)
 
 1891
 
 41 \*
 
 <span id="sbe41"></span> [The Satapatha-Brahmana, part 3 of 5. Books V,
-VI, VII](../hin/sbr/sbe41/index).  
+VI, VII](../hin/sbr/sbe41/index.md).  
 according to the text of the Mâdhyandina school.
 
-[Julius Eggeling](#eggeling)
+[Julius Eggeling](#eggeling.md)
 
 1894
 
 42 \*
 
 <span id="sbe42"></span> [Hymns of the
-Atharva-Veda](../hin/sbe42/index)  
+Atharva-Veda](../hin/sbe42/index.md)  
 Togther With Extracts From the Ritual Books and the Commentaries.
 
-[M. Bloomfield](#bloomfield)
+[M. Bloomfield](#bloomfield.md)
 
 1897
 
 43 \*
 
 <span id="sbe43"></span> [The Satapatha-Brahmana, part 4 of 5, Books
-VII, IX, X](../hin/sbr/sbe43/index).  
+VII, IX, X](../hin/sbr/sbe43/index.md).  
 according to the text of the Mâdhyandina school.
 
-[Julius Eggeling](#eggeling)
+[Julius Eggeling](#eggeling.md)
 
 1897
 
 44 \*
 
 <span id="sbe44"></span> [The Satapatha-Brahmana, part 5 of 5. Books XI,
-XII, XIII, XIV](../hin/sbr/sbe44/index).  
+XII, XIII, XIV](../hin/sbr/sbe44/index.md).  
 according to the text of the Mâdhyandina school.
 
-[Julius Eggeling](#eggeling)
+[Julius Eggeling](#eggeling.md)
 
 1900
 
 45 \*
 
 <span id="sbe45"></span> [*G*aina Sûtras, part 2 of
-2](../jai/sbe45/index)  
+2](../jai/sbe45/index.md)  
 translated from Prâkrit. The Uttarâdhyayana Sûtra, The Sûtrakritânga
 Sûtra. *Out of print Dover edition.*
 
-[Hermann Jacobi](#jacobi)
+[Hermann Jacobi](#jacobi.md)
 
 1895
 
 46 \*
 
 <span id="sbe46"></span> [Vedic Hymns, part 2 of
-2](../hin/sbe46/index)  
+2](../hin/sbe46/index.md)  
 Hymns to Agni (Mandalas I-V).
 
-[Hermann Oldenberg](#oldenberg)
+[Hermann Oldenberg](#oldenberg.md)
 
 1897
 
 47 \*
 
 <span id="sbe47"></span> [Pahlavi Texts, part 5 of 5  
-Marvels of Zoroastrianism](../zor/sbe47/index).
+Marvels of Zoroastrianism](../zor/sbe47/index.md).
 
-[E. W. West](#west)
+[E. W. West](#west.md)
 
 1897
 
 48 \*
 
 <span id="sbe48"></span> [The Vedanta-Sutras, vol 3 of
-3](../hin/sbe48/index).  
+3](../hin/sbe48/index.md).  
 with the commentary of Râmânuja.
 
-[G. Thibaut](#thibaut)
+[G. Thibaut](#thibaut.md)
 
 1904
 
 49 \*
 
-<span id="sbe49"></span> [Buddhist Mahâyâna Texts](../bud/sbe49/index)  
+<span id="sbe49"></span> [Buddhist Mahâyâna Texts](../bud/sbe49/index.md)  
 pt. 1. The Buddha-karita of Asvaghosha, translated from the Sanskrit by
-[E. B. Cowell](#cowell).  
+[E. B. Cowell](#cowell.md).  
 pt. 2. The larger Sukhâvatî-vyûha, the smaller Sukhâvatî-vyûha, the
 Vagrakkedikâ, the larger Pragñâ-pâramitâ-hridaya-sûtra, the smaller
-Pragñâ-pâramitâ-hridaya-sûtra, translated by [F. Max Müller](#mueller).
-The Amitâyur dhyâna-sûtra, translated by [J. Takakusu.](#takakusu)
-*[Dover edition in print](#dover_sbe49).*
+Pragñâ-pâramitâ-hridaya-sûtra, translated by [F. Max Müller](#mueller.md).
+The Amitâyur dhyâna-sûtra, translated by [J. Takakusu.](#takakusu.md)
+*[Dover edition in print](#dover_sbe49.md).*
 
-[E. B. Cowell](#cowell), [F. Max Müller](#mueller) and [J.
-Takakusu](#takakusu).
+[E. B. Cowell](#cowell), [F. Max Müller](#mueller.md) and [J.
+Takakusu](#takakusu.md).
 
 1894
 
 50 \*
 
-<span id="sbe50"></span> [General index](sbe50/index)  
+<span id="sbe50"></span> [General index](sbe50/index.md)  
 to the names and subject-matter of the sacred books of the East.
 
-[J.M. Winternitz](#winternitz), with a preface by A. A. Macdonell
+[J.M. Winternitz](#winternitz.md), with a preface by A. A. Macdonell
 
 1910
 
@@ -794,9 +794,9 @@ can be seen from the table below, this means that the vast majority of
 the SBE texts are in the public domain (or will enter it in the next few
 years) according to the stringent UK and EU copyright laws. The
 remaining volumes not in the public domain in the UK and EU are those
-authored by Herman Jacobi, deceased 1937 ([22](#sbe22) and
-[45](#sbe45)), Junjiro Takakusu, deceased 1945 (co-author of
-[49](#sbe49)) and Moriz Winternitz, deceased 1937 (vol. [50,](#sbe50)
+authored by Herman Jacobi, deceased 1937 ([22](#sbe22.md) and
+[45](#sbe45).md), Junjiro Takakusu, deceased 1945 (co-author of
+[49](#sbe49)) and Moriz Winternitz, deceased 1937 (vol. [50,](#sbe50.md)
 the index).
 
 Another point is that the Motilal Banarsidass reprints have always had a
@@ -816,34 +816,34 @@ vary.
 
 | Name                                                            | born/died | Volumes                                                                            |
 |-----------------------------------------------------------------|-----------|------------------------------------------------------------------------------------|
-| <span id="beal">Beal, Samuel</span>                             | 1825-1889 | [19](#sbe19)                                                                       |
-| <span id="bloomfield">Bloomfield, Maurice</span>                | 1855-1928 | [42](#sbe42)                                                                       |
-| <span id="buehler">Bühler, Georg</span>                         | 1837-1898 | [2](#sbe02), [14](#sbe14), [25](#sbe25)                                            |
-| <span id="cowell">Cowell, Edward B. (Edward Byles)</span>       | 1826-1903 | [49](#sbe49)                                                                       |
-| <span id="darmesteter">Darmesteter, James</span>                | 1849-1894 | [4](#sbe04), [23](#sbe23)                                                          |
-| <span id="rhys">Davids, T. W. Rhys (Thomas William Rhys)</span> | 1843-1922 | [11](#sbe11), [13](#sbe13), [17](#sbe17), [20](#sbe20), [35](#sbe35), [36](#sbe36) |
-| <span id="eggeling">Eggeling, Julius</span>                     | 1842-1918 | [12](#sbe12), [26](#sbe26), [41](#sbe41), [43](#sbe43), [44](#sbe44)               |
-| <span id="fausboell">Fausböll, V. (Viggo)</span>                | 1821-1908 | [10](#sbe10)                                                                       |
-| <span id="jacobi">Jacobi, Hermann</span>                        | 1850-1937 | [22](#sbe22), [45](#sbe45)                                                         |
-| <span id="jolly">Jolly, Julius</span>                           | 1849-1932 | [7](#sbe07), [33](#sbe33)                                                          |
-| <span id="kern">Kern, Hendrik</span>                            | 1836-1917 | [21](#sbe21)                                                                       |
-| <span id="legge">Legge, James</span>                            | 1815-1897 | [3](#sbe03), [16](#sbe16), [27](#sbe27), [28](#sbe28), [39](#sbe39), [40](#sbe40)  |
-| <span id="mills">Mills, Lawrence Heyworth</span>                | 1837-1918 | [31](#sbe31)                                                                       |
-| <span id="mueller">Müller, F. Max (Friedrich Max)</span>        | 1823-1900 | [1](#sbe01), [10](#sbe10), [15](#sbe15), [30](#sbe30), [32](#sbe32), [49](#sbe49)  |
-| <span id="oldenberg">Oldenberg, Hermann</span>                  | 1854-1920 | [13](#sbe13), [17](#sbe17), [20](#sbe20), [29](#sbe29), [46](#sbe46)               |
-| <span id="palmer">Palmer, Edward Henry</span>                   | 1840-1882 | [6](#sbe06), [9](#sbe09)                                                           |
-| <span id="telang">Telang, Kashinath Trimbak</span>              | 1850-1893 | [8](#sbe08)                                                                        |
-| <span id="takakusu">Takakusu, Junjiro</span>                    | 1866-1945 | [49](#sbe49)                                                                       |
-| <span id="thibaut">Thibaut, G. (George)</span>                  | 1848-1914 | [34](#sbe34), [38](#sbe38), [48](#sbe48)                                           |
-| <span id="west">West, Edward William</span>                     | 1824-1905 | [5](#sbe05), [18](#sbe18), [24](#sbe24), [37](#sbe37), [47](#sbe47)                |
-| <span id="winternitz">Winternitz, M. (Moriz)</span>             | 1863-1937 | [50](#sbe50)                                                                       |
+| <span id="beal">Beal, Samuel</span>                             | 1825-1889 | [19](#sbe19.md)                                                                       |
+| <span id="bloomfield">Bloomfield, Maurice</span>                | 1855-1928 | [42](#sbe42.md)                                                                       |
+| <span id="buehler">Bühler, Georg</span>                         | 1837-1898 | [2](#sbe02), [14](#sbe14), [25](#sbe25.md)                                            |
+| <span id="cowell">Cowell, Edward B. (Edward Byles)</span>       | 1826-1903 | [49](#sbe49.md)                                                                       |
+| <span id="darmesteter">Darmesteter, James</span>                | 1849-1894 | [4](#sbe04), [23](#sbe23.md)                                                          |
+| <span id="rhys">Davids, T. W. Rhys (Thomas William Rhys)</span> | 1843-1922 | [11](#sbe11), [13](#sbe13), [17](#sbe17), [20](#sbe20), [35](#sbe35), [36](#sbe36.md) |
+| <span id="eggeling">Eggeling, Julius</span>                     | 1842-1918 | [12](#sbe12), [26](#sbe26), [41](#sbe41), [43](#sbe43), [44](#sbe44.md)               |
+| <span id="fausboell">Fausböll, V. (Viggo)</span>                | 1821-1908 | [10](#sbe10.md)                                                                       |
+| <span id="jacobi">Jacobi, Hermann</span>                        | 1850-1937 | [22](#sbe22), [45](#sbe45.md)                                                         |
+| <span id="jolly">Jolly, Julius</span>                           | 1849-1932 | [7](#sbe07), [33](#sbe33.md)                                                          |
+| <span id="kern">Kern, Hendrik</span>                            | 1836-1917 | [21](#sbe21.md)                                                                       |
+| <span id="legge">Legge, James</span>                            | 1815-1897 | [3](#sbe03), [16](#sbe16), [27](#sbe27), [28](#sbe28), [39](#sbe39), [40](#sbe40.md)  |
+| <span id="mills">Mills, Lawrence Heyworth</span>                | 1837-1918 | [31](#sbe31.md)                                                                       |
+| <span id="mueller">Müller, F. Max (Friedrich Max)</span>        | 1823-1900 | [1](#sbe01), [10](#sbe10), [15](#sbe15), [30](#sbe30), [32](#sbe32), [49](#sbe49.md)  |
+| <span id="oldenberg">Oldenberg, Hermann</span>                  | 1854-1920 | [13](#sbe13), [17](#sbe17), [20](#sbe20), [29](#sbe29), [46](#sbe46.md)               |
+| <span id="palmer">Palmer, Edward Henry</span>                   | 1840-1882 | [6](#sbe06), [9](#sbe09.md)                                                           |
+| <span id="telang">Telang, Kashinath Trimbak</span>              | 1850-1893 | [8](#sbe08.md)                                                                        |
+| <span id="takakusu">Takakusu, Junjiro</span>                    | 1866-1945 | [49](#sbe49.md)                                                                       |
+| <span id="thibaut">Thibaut, G. (George)</span>                  | 1848-1914 | [34](#sbe34), [38](#sbe38), [48](#sbe48.md)                                           |
+| <span id="west">West, Edward William</span>                     | 1824-1905 | [5](#sbe05), [18](#sbe18), [24](#sbe24), [37](#sbe37), [47](#sbe47.md)                |
+| <span id="winternitz">Winternitz, M. (Moriz)</span>             | 1863-1937 | [50](#sbe50.md)                                                                       |
 
 ------------------------------------------------------------------------
 
 # <span id="sbereprints">List of SBE reprints</span>
 
 *[Click here to search for 'Sacred Books of the East' at
-Amazon.com](../books/sbe)  
+Amazon.com](../books/sbe.md)  
 Note that this may or may not produce relevant results, nor the best
 available deal on used copies.*
 
@@ -871,7 +871,7 @@ Publisher
 
 <span id="dover_sbe49"></span> [Buddhist Mahayana Texts (Sacred Books of
 the
-East)](https://www.amazon.com/exec/obidos/ASIN/0486255522/internetsacredte)
+East)](https://www.amazon.com/exec/obidos/ASIN/0486255522/internetsacredte.md)
 
 E. B. Cowell
 
@@ -882,7 +882,7 @@ Dover
 4, 23, 31
 
 [The Zend Avesta of
-Zarathustra](https://www.amazon.com/exec/obidos/ASIN/0916411419/internetsacredte)
+Zarathustra](https://www.amazon.com/exec/obidos/ASIN/0916411419/internetsacredte.md)
 
 James Darmesteter
 
@@ -893,7 +893,7 @@ Holmes Pub Group
 11
 
 [Buddhist Suttas: Major Scriptural Writings from Early
-Buddhism](https://www.amazon.com/exec/obidos/ASIN/1585090794/internetsacredte)
+Buddhism](https://www.amazon.com/exec/obidos/ASIN/1585090794/internetsacredte.md)
 
 T. W. Rhys-Davids
 
@@ -904,7 +904,7 @@ Book Tree
 39
 
 <span id="dover_sbe39"></span> [Texts of Taoism, vol
-1.](https://www.amazon.com/exec/obidos/ASIN/0486209903/internetsacredte)  
+1.](https://www.amazon.com/exec/obidos/ASIN/0486209903/internetsacredte.md)  
 
 James Legge
 
@@ -915,7 +915,7 @@ Dover
 40
 
 <span id="dover_sbe40"></span> [Texts of Taoism, vol 2.  
-](https://www.amazon.com/exec/obidos/ASIN/0486209911/internetsacredte)
+](https://www.amazon.com/exec/obidos/ASIN/0486209911/internetsacredte.md)
 
 James Legge
 
@@ -926,7 +926,7 @@ Dover
 (n/a)
 
 [Confucian Analects, the Great Learning and the Doctrine of the
-Mean.](https://www.amazon.com/exec/obidos/ASIN/0486227464/internetsacredte)
+Mean.](https://www.amazon.com/exec/obidos/ASIN/0486227464/internetsacredte.md)
 
 James Legge
 
@@ -937,7 +937,7 @@ Dover
 16
 
 [I Ching: The Sacred Books of China: The Book of
-Changes](https://www.amazon.com/exec/obidos/ASIN/0486210626/internetsacredte)
+Changes](https://www.amazon.com/exec/obidos/ASIN/0486210626/internetsacredte.md)
 
 James Legge
 
@@ -948,7 +948,7 @@ Dover
 39
 
 [Tao Te Ching (Dover Thrift Editions) by
-Lao-Tzu](https://www.amazon.com/exec/obidos/ASIN/0486297926/internetsacredte)
+Lao-Tzu](https://www.amazon.com/exec/obidos/ASIN/0486297926/internetsacredte.md)
 
 James Legge
 
@@ -959,7 +959,7 @@ Dover
 (n/a)
 
 [The Works of
-Mencius](https://www.amazon.com/exec/obidos/ASIN/0486263754/internetsacredte)
+Mencius](https://www.amazon.com/exec/obidos/ASIN/0486263754/internetsacredte.md)
 
 James Legge
 
@@ -970,7 +970,7 @@ Dover
 1
 
 <span id="dover_sbe01"></span> [The Upanishads, volume
-1](https://www.amazon.com/exec/obidos/ASIN/048620992X/internetsacredte)
+1](https://www.amazon.com/exec/obidos/ASIN/048620992X/internetsacredte.md)
 
 F. Max Müller
 
@@ -981,7 +981,7 @@ Dover
 15
 
 <span id="dover_sbe15"></span> [The Upanishads, volume
-2](https://www.amazon.com/exec/obidos/ASIN/0486209938/internetsacredte)
+2](https://www.amazon.com/exec/obidos/ASIN/0486209938/internetsacredte.md)
 
 F. Max Müller
 
@@ -992,7 +992,7 @@ Dover
 10
 
 [Wisdom of the Buddha: The Unabridged Dhammapada (Dover Thrift
-Editions)](https://www.amazon.com/exec/obidos/ASIN/0486411206/internetsacredte)
+Editions)](https://www.amazon.com/exec/obidos/ASIN/0486411206/internetsacredte.md)
 
 F. Max Müller
 
@@ -1003,7 +1003,7 @@ Dover
 8
 
 [The
-Anugita](https://www.amazon.com/exec/obidos/ASIN/0913510408/internetsacredte)
+Anugita](https://www.amazon.com/exec/obidos/ASIN/0913510408/internetsacredte.md)
 
 K.T. Telang
 
@@ -1017,4 +1017,4 @@ Wizards Bookshelf
 
 *<span class="small">The special contents of this page are copyright ©
 1997-2008 J.B. Hare., All Rights Reserved. For permission to reproduce
-[contact the copyright holder](../contact).</span>*
+[contact the copyright holder](../contact.md).</span>*

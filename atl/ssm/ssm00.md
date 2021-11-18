@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Next](ssm01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Next](ssm01.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 [![The First Man, Dual Principle&lt;BR&gt; &lt;I&gt;Courtesy of P. K.
 Kosloff&lt;/I&gt;&lt;BR&gt; Over 20,000 years old. From the ancient
 Uighur Capital, beneath Karakhota, Gobi Desert.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 The First Man, Dual Principle  
 *Courtesy of P. K. Kosloff*  
 Over 20,000 years old. From the ancient Uighur Capital, beneath
@@ -41,4 +41,4 @@ Writings of Mu
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ssm01)
+[Next: Contents](ssm01.md)

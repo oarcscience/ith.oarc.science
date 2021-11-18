@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc32)  [Next](mtc34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc32)  [Next](mtc34.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -41,6 +41,6 @@ Am left in the mountains to play with the pebbles of the stream.
 
 ------------------------------------------------------------------------
 
-[Next: Prose Letter to Yüan Chēn](mtc34)
+[Next: Prose Letter to Yüan Chēn](mtc34.md)
 
 </div>

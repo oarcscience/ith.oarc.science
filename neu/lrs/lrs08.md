@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs07)  [Next](lrs09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs07)  [Next](lrs09.md) 
 
 ------------------------------------------------------------------------
 
@@ -447,4 +447,4 @@ who headed the mutiny?
 
 ------------------------------------------------------------------------
 
-[Next: VII. Roderic, Last of the Goths](lrs09)
+[Next: VII. Roderic, Last of the Goths](lrs09.md)

@@ -9,16 +9,16 @@ alttext1: "A Sea Spell, by Dante Gabriel Rossetti [1877] (Public Domain Image)"
 titleh1: "Popular Tales of the West Highlands"
 ---
 <span class="c_e"> <span class="c_t">[Popular Tales of the West
-Highlands, Vol. I](pt1/index)</span>   by <span class="c_a">J. F.
+Highlands, Vol. I](pt1/index.md)</span>   by <span class="c_a">J. F.
 Campbell</span> \[<span class="c_d">1890</span>\]  
 </span> <span class="c_e"> <span class="c_t">[Popular Tales of the West
-Highlands, Vol. II](pt2/index)</span>   by <span class="c_a">J. F.
+Highlands, Vol. II](pt2/index.md)</span>   by <span class="c_a">J. F.
 Campbell</span> \[<span class="c_d">1890</span>\]  
 </span> <span class="c_e"> <span class="c_t">[Popular Tales of the West
-Highlands, Vol. III](pt3/index)</span>   by <span class="c_a">J. F.
+Highlands, Vol. III](pt3/index.md)</span>   by <span class="c_a">J. F.
 Campbell</span> \[<span class="c_d">1890</span>\]  
 </span> <span class="c_e"> <span class="c_t">[Popular Tales of the West
-Highlands, Vol. IV](pt4/index)</span>   by <span class="c_a">J. F.
+Highlands, Vol. IV](pt4/index.md)</span>   by <span class="c_a">J. F.
 Campbell</span> \[<span class="c_d">1890</span>\]  
 </span>
 

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig01)  [Next](vig03) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig01)  [Next](vig03.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ And held unscath’d their laws and liberty.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](vig03)
+[Next: Preface](vig03.md)

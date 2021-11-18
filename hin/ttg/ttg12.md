@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg11)  [Next](ttg13) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg11)  [Next](ttg13.md) 
 
 ------------------------------------------------------------------------
 
@@ -341,4 +341,4 @@ tree.
 
 [Next: Twelfth Goblin: The Brahman who died because Poison from a Snake
 in the Claws of a Hawk fell into a Dish of Food given him by a
-Charitable Woman. Who is to blame for his death?](ttg13)
+Charitable Woman. Who is to blame for his death?](ttg13.md)

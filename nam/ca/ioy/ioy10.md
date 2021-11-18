@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ioy09)  [Next](ioy11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ioy09)  [Next](ioy11.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ beauties and wonders with which they are associated.
 
 Innumerable moons and snows have passed since the Great Spirit guided a
 little band of his favorite children into the beautiful vale of
-Ah-wah'-nee, <span id="fr_1"></span>[1](#fn_1) and bid them stop and
+Ah-wah'-nee, <span id="fr_1"></span>[1](#fn_1.md) and bid them stop and
 rest from their long and weary wanderings, which had lasted ever since
 they had been separated by the great waters from the happy land of their
 forefathers in the far distant *El-o'-win* (West).
@@ -77,7 +77,7 @@ forefathers in the far distant *El-o'-win* (West).
 
 [![MARY.&lt;BR&gt; Daughter of Captain John, one of the last Chiefs of
 the Yosemites.](tn/07900.jpg)  
-Click to enlarge](img/07900.jpg)  
+Click to enlarge](img/07900.jpg.md)  
 MARY.  
 Daughter of Captain John, one of the last Chiefs of the Yosemites.  
 
@@ -131,7 +131,7 @@ was built at the base of the great
 
 <span id="page_82">p. 82</span>
 
-rock called To-tau-kon-nu'-la, <span id="fr_2"></span>[1](#fn_2) because
+rock called To-tau-kon-nu'-la, <span id="fr_2"></span>[1](#fn_2.md) because
 the great *to-tau'-kons* made their nests and raised their young in a
 meadow at its summit, and their loud ringing cries resounded over the
 whole Valley.
@@ -158,7 +158,7 @@ his people at the great annual festivals made him wealthy beyond all
 personal wants, and he gave freely to the needy.
 
 One day, while standing on the top of the great dome <span
-id="fr_3"></span>[1](#fn_3) above the south wall of the Valley, watching
+id="fr_3"></span>[1](#fn_3.md) above the south wall of the Valley, watching
 the great herds of deer, he saw some strange people approaching, bearing
 heavy burdens. They were fairer of skin, and their clothing was
 different from that of his people, and when they drew near he asked them
@@ -183,7 +183,7 @@ large *o'-chum* for her and her companions on the summit
 [![HALF DOME (TIS-SA'-ACK),&lt;BR&gt; 5,000 Feet.&lt;BR&gt; Named for a
 woman In Indian mythology who was turned to stone for quarreling with
 her husband. See ''Legend of Tis-sa'-ack.''](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 HALF DOME (TIS-SA'-ACK),  
 5,000 Feet.  
 Named for a woman In Indian mythology who was turned to stone for
@@ -196,7 +196,7 @@ quarreling with her husband. See ''Legend of Tis-sa'-ack.''
 <span id="page_85">p. 85</span>
 
 of the great dome at the east end of the Valley, <span
-id="fr_4"></span>[1](#fn_4) and this dome still retains her name,
+id="fr_4"></span>[1](#fn_4.md) and this dome still retains her name,
 
 And she tarried there and taught the women of Ah-wah-nee how to make the
 beautiful baskets which they still make at the present day; and
@@ -222,7 +222,7 @@ the walls around Ah-wah'-nee. The great dome called Tis-sa'-ack was
 burst asunder, and half of it fell into the Valley. A fire burst out of
 the earth in the East, and the *ca'-lah* (snow) on the sky mountains was
 changed to water, which flowed down and formed the Lake
-Ah-wei'-yah. <span id="fr_5"></span>[1](#fn_5) And all the streams were
+Ah-wei'-yah. <span id="fr_5"></span>[1](#fn_5.md) And all the streams were
 filled to overflowing, and still the waters rose, and there was a great
 flood, so that a large part of the Valley became a lake, and many
 persons were drowned.
@@ -267,7 +267,7 @@ shoulder. They had come across the mountains and were very thirsty, and
 [![A BURDEN BEARER.&lt;BR&gt; The women are the principal burden
 bearers, and all the others are carried in large baskets, supported by a
 band across the forehead.](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)  
+Click to enlarge](img/08800.jpg.md)  
 A BURDEN BEARER.  
 The women are the principal burden bearers, and all the others are
 carried in large baskets, supported by a band across the forehead.  
@@ -280,7 +280,7 @@ carried in large baskets, supported by a band across the forehead.
 
 they hurried to reach the Valley, where they knew there was water. The
 woman was still far in advance when she reached the Lake
-Ah-wei'-yah, <span id="fr_6"></span>[1](#fn_6) and she dipped up the
+Ah-wei'-yah, <span id="fr_6"></span>[1](#fn_6.md) and she dipped up the
 water in her basket and drank long and deep. She was so thirsty that she
 even drank up all the water in the lake and drained it dry before her
 husband arrived. And because the lake was dry there came a terrible
@@ -313,9 +313,9 @@ interest.
 
 Long, long ago, when the remote ancestors of the Yosemite Indians dwelt
 peacefully in the valley called Ah-wah'-nee, <span
-id="fr_7"></span>[1](#fn_7) one of the stalwart young braves of the
+id="fr_7"></span>[1](#fn_7.md) one of the stalwart young braves of the
 tribe went early one morning to spear some fish in the lake
-Ah-wei'-yah. <span id="fr_8"></span>[2](#fn_8) Before reaching his
+Ah-wei'-yah. <span id="fr_8"></span>[2](#fn_8.md) Before reaching his
 destination he was confronted by a huge grizzly bear, who appeared from
 behind one of the enormous boulders in that vicinity. and savagely
 disputed his passage.
@@ -333,7 +333,7 @@ the best
 believed by the Indians to represent Tis-sa'-ack's husband. turned into
 stone for beating his wife. The lower dome to the right is the basket
 which she threw at him. See ''Legend of Tis-sa'-ack.''](tn/09100.jpg)  
-Click to enlarge](img/09100.jpg)  
+Click to enlarge](img/09100.jpg.md)  
 NORTH DOME (TO-KO'-YA),  
 3,725 Feet.  
 This rock is believed by the Indians to represent Tis-sa'-ack's husband.
@@ -362,7 +362,7 @@ went down to the river to swim. When they had finished their bath they
 went on share and lay down on a large boulder to dry themselves in the
 sun. While lying there they fell asleep, and slept so soundly that they
 never woke up again. Through many moons and many snows they slept, and
-while they slept the great rock <span id="fr_9"></span>[1](#fn_9) on
+while they slept the great rock <span id="fr_9"></span>[1](#fn_9.md) on
 which they lay was slowly rising, little by little, until it soon lifted
 them up out of sight, and their friends searched for them everywhere
 without success.
@@ -376,7 +376,7 @@ without success.
 [![EL CAPITAN (TO-TAU-KON-NU'-LA),&lt;BR&gt; 3,300 Feet.&lt;BR&gt; The
 Indians believe that this great rock grew from a small boulder. See
 ''Legend of the Tul-tok'-a-na.''](tn/09300.jpg)  
-Click to enlarge](img/09300.jpg)  
+Click to enlarge](img/09300.jpg.md)  
 EL CAPITAN (TO-TAU-KON-NU'-LA),  
 3,300 Feet.  
 The Indians believe that this great rock grew from a small boulder. See
@@ -469,7 +469,7 @@ was to be celebrated by a great feast.
 source of this stream is supposed by the Indians to be haunted by
 troubled spirits, which affect the water along its whole course. The
 word Po-ho'-no means a ''puffing wind.''](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)  
+Click to enlarge](img/09700.jpg.md)  
 BRIDAL VEIL FALL (PO-HO'-NO),  
 940 Feet.  
 The source of this stream is supposed by the Indians to be haunted by
@@ -487,7 +487,7 @@ Kos-su'-kah gathered together his young companions and went into the
 mountains in search of game. In order that Tee-hee'-nay might know of
 his welfare and the success of the hunt, it was agreed between the
 lovers that at sunset Kos-su'-kah should go to the high rock to the east
-of Cho'-lack, <span id="fr_10"></span>[1](#fn_10) and should shoot an
+of Cho'-lack, <span id="fr_10"></span>[1](#fn_10.md) and should shoot an
 arrow into the Valley, to which should be attached a number of grouse
 feathers corresponding to the number of deer that had fallen before the
 skill of the hunters.
@@ -498,7 +498,7 @@ with her keen sight to see the form of her lover outlined against the
 sky, but no form could she see, and no arrow fell into the Valley. As
 darkness gathered, gloomy forebodings took possession of her, and she
 climbed part way up the canyon called Le-ham'-i-tee <span
-id="fr_11"></span>[2](#fn_11) because the arrow-wood grew there, and
+id="fr_11"></span>[2](#fn_11.md) because the arrow-wood grew there, and
 finally she stood at the
 
 <span id="page_99">p. 99</span>
@@ -509,7 +509,7 @@ there she waited through the long night.
 With the first streak of dawn she bounded swiftly up the rough canyon,
 for she was fully convinced that some terrible fate had overtaken the
 brave Kos-su'-kah, and soon she -stood upon the lofty summit, <span
-id="fr_12"></span>[1](#fn_12) where she found her lover's footsteps
+id="fr_12"></span>[1](#fn_12.md) where she found her lover's footsteps
 leading towards the edge of the precipice. Drawing nearer she was
 startled to find that a portion of the cliff had given way, and, upon
 peering over the brink, what was her horror to discover the
@@ -535,7 +535,7 @@ lovers were re-united in death.
 The fateful arrow that was the cause of so much sorrow could never be
 found, and the Indians believe that it was taken away by the spirits of
 Kos-su'-kah and Tee-hee'-nay. In memory of them, and of this tragedy,
-the slender spire of rock <span id="fr_13"></span>[1](#fn_13) that rises
+the slender spire of rock <span id="fr_13"></span>[1](#fn_13.md) that rises
 heavenward near the top of the cliff at this point is known among the
 Indians as Hum-mo', or the Lost Arrow.
 
@@ -543,34 +543,34 @@ Indians as Hum-mo', or the Lost Arrow.
 
 ### Footnotes
 
-<span id="fn_1"></span>[78:1](ioy10.htm#fr_1) Yosemite Valley.
+<span id="fn_1"></span>[78:1](ioy10.htm#fr_1.md) Yosemite Valley.
 
-<span id="fn_2"></span>[82:1](ioy10.htm#fr_2) El Capitan.
+<span id="fn_2"></span>[82:1](ioy10.htm#fr_2.md) El Capitan.
 
-<span id="fn_3"></span>[83:1](ioy10.htm#fr_3) Sentinel Dome.
+<span id="fn_3"></span>[83:1](ioy10.htm#fr_3.md) Sentinel Dome.
 
-<span id="fn_4"></span>[85:1](ioy10.htm#fr_4) Half Dome.
+<span id="fn_4"></span>[85:1](ioy10.htm#fr_4.md) Half Dome.
 
-<span id="fn_5"></span>[86:1](ioy10.htm#fr_5) Mirror Lake.
+<span id="fn_5"></span>[86:1](ioy10.htm#fr_5.md) Mirror Lake.
 
-<span id="fn_6"></span>[89:1](ioy10.htm#fr_6) Mirror Lake.
+<span id="fn_6"></span>[89:1](ioy10.htm#fr_6.md) Mirror Lake.
 
-<span id="fn_7"></span>[90:1](ioy10.htm#fr_7) Yosemite Valley.
+<span id="fn_7"></span>[90:1](ioy10.htm#fr_7.md) Yosemite Valley.
 
-<span id="fn_8"></span>[90:2](ioy10.htm#fr_8) Mirror Lake.
+<span id="fn_8"></span>[90:2](ioy10.htm#fr_8.md) Mirror Lake.
 
-<span id="fn_9"></span>[92:1](ioy10.htm#fr_9) El Capitan.
+<span id="fn_9"></span>[92:1](ioy10.htm#fr_9.md) El Capitan.
 
-<span id="fn_10"></span>[98:1](ioy10.htm#fr_10) Yosemite Falls.
+<span id="fn_10"></span>[98:1](ioy10.htm#fr_10.md) Yosemite Falls.
 
-<span id="fn_11"></span>[98:2](ioy10.htm#fr_11) Now known as Indian
+<span id="fn_11"></span>[98:2](ioy10.htm#fr_11.md) Now known as Indian
 Canyon.
 
-<span id="fn_12"></span>[99:1](ioy10.htm#fr_12) Yosemite Point.
+<span id="fn_12"></span>[99:1](ioy10.htm#fr_12.md) Yosemite Point.
 
-<span id="fn_13"></span>[100:1](ioy10.htm#fr_13) Sometimes called "The
+<span id="fn_13"></span>[100:1](ioy10.htm#fr_13.md) Sometimes called "The
 Devil's Thumb."
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](ioy11)
+[Next: Appendix](ioy11.md)

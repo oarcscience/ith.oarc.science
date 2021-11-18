@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth112)  [Next](toth114) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth112)  [Next](toth114.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 110. THE EARLY SPANISH MISSIONS AT ORAÍBI. <span id="fr_201"></span>[1](#fn_199)
+## 110. THE EARLY SPANISH MISSIONS AT ORAÍBI. <span id="fr_201"></span>[1](#fn_199.md)
 
 A long time ago the Oraíbi were living in their village. The Spaniards
 often made inroads upon them and warred against them. Finally they made
@@ -46,7 +46,7 @@ them that he was going to wash their heads (baptize them). They asked
 him what that was, what that meant. He told them that that was something
 very good. So they consented and he poured a little water on the heads
 of those present'. After this the Tûtáachi called another Tûtáachi from
-Basoi, <span id="fr_202"></span>[2](#fn_200) who came with a number of
+Basoi, <span id="fr_202"></span>[2](#fn_200.md) who came with a number of
 others and brought clothing and shoes for the Hopi. The shoes
 
 <span id="page_269">p. 269</span>
@@ -156,12 +156,12 @@ and their sacred altar performances in their kivas.
 
 ### Footnotes
 
-<span id="fn_199"></span>[268:1](toth113.htm#fr_201) Told by Wíkvaya
+<span id="fn_199"></span>[268:1](toth113.htm#fr_201.md) Told by Wíkvaya
 (Oraíbi).
 
-<span id="fn_200"></span>[268:2](toth113.htm#fr_202) This place could
+<span id="fn_200"></span>[268:2](toth113.htm#fr_202.md) This place could
 not be identified and I doubt whether the name was given correctly.
 
 ------------------------------------------------------------------------
 
-[Next: 1.--Origin Myth.](toth114)
+[Next: 1.--Origin Myth.](toth114.md)

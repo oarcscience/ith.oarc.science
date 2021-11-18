@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp12)  [Next](dmp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp12)  [Next](dmp14.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ on\] your eyes ... (35) according to what is prescribed for it.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XI](dmp14)
+[Next: Col. XI](dmp14.md)

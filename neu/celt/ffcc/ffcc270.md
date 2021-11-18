@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc260)  [Next](ffcc308) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc260)  [Next](ffcc308.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Intangible Textual Heritage
 
 ## CHAPTER VII
 
-### THE CELTIC DOCTRINE OF REBIRTH <span id="fr_391"></span>[1](#fn_357)
+### THE CELTIC DOCTRINE OF REBIRTH <span id="fr_391"></span>[1](#fn_357.md)
 
 'It seems as if Ossian's was a premature return. To-day he might find
 comrades come back from Tir-na-nog for the uplifting of their race.
@@ -54,7 +54,7 @@ but a going to that Otherworld from this world, and Birth a
 
 <span id="page_359">p. 359</span>
 
-coming back again; <span id="fr_392"></span>[1](#fn_358) and Buddha
+coming back again; <span id="fr_392"></span>[1](#fn_358.md) and Buddha
 announced it as his mission to teach men the way to be delivered out of
 this eternal Circle of Existence.
 
@@ -78,7 +78,7 @@ Christian on pagan Celtic beliefs may have been at a certain period very
 deep and even the most important reshaping influence.
 
 As an examination of Origen's *De Principiis* proves, Origen himself
-believed in the doctrine. <span id="fr_393"></span>[2](#fn_359) But the
+believed in the doctrine. <span id="fr_393"></span>[2](#fn_359.md) But the
 theologians who created the Greek canons of the Fifth Council
 
 <span id="page_360">p. 360</span>
@@ -86,7 +86,7 @@ theologians who created the Greek canons of the Fifth Council
 disagreed with Origen's views, and condemned Origen for believing, among
 other things called by them heresies, that Jesus Christ will be
 reincarnated and suffer on earth a second time to save the
-daemons, <span id="fr_394"></span>[1](#fn_360) an order of spiritual
+daemons, <span id="fr_394"></span>[1](#fn_360.md) an order of spiritual
 beings regarded by some ancient philosophers as destined to evolve into
 human souls. Tertullian, contemporary with Origen, in his *De Anima*
 considers whether or not the doctrine of re-birth can be regarded as
@@ -94,17 +94,17 @@ Christian in view of the declaration by Jesus Christ that John the
 Baptist was Elias (or Elijah), the old Jewish prophet, come again:--'And
 if ye are willing to receive it (or him), this (John the Baptist) is
 Elijah, which is to come. He that hath ears to hear, let him
-hear.' <span id="fr_395"></span>[2](#fn_361) Tertullian concludes, and
+hear.' <span id="fr_395"></span>[2](#fn_361.md) Tertullian concludes, and
 modern Christian theologians frequently echo him (upon comparing Malachi
 iv. 5), that all the New Testament writers mean to convey is that John
 the Baptist possessed or acted in 'the spirit and power' of Elias, but
 was not actually a reincarnation of Elias, since he did not possess 'the
-soul and body' of Elias. <span id="fr_396"></span>[3](#fn_362) Had
+soul and body' of Elias. <span id="fr_396"></span>[3](#fn_362.md) Had
 Tertullian been a mystic and not merely a theologian with a personal
 bias against the mystery teachings, which bias he shows throughout his
 *De Anima*, it is quite evident that he would have been on this
 doctrinal matter in agreement with Origen, who was both a mystic and a
-theologian, <span id="fr_397"></span>[4](#fn_363) and, then, probably
+theologian, <span id="fr_397"></span>[4](#fn_363.md) and, then, probably
 with such an agreement of these two eminent .Church Fathers on record
 before the time when Christian councils
 
@@ -112,14 +112,14 @@ before the time when Christian councils
 
 met to determine canonical and orthodox beliefs, the doctrine of
 re-birth would never have been expurgated from Christianity. <span
-id="fr_398"></span>[1](#fn_364)
+id="fr_398"></span>[1](#fn_364.md)
 
-In the *Pistis Sophia*, <span id="fr_399"></span>[2](#fn_365) an ancient
+In the *Pistis Sophia*, <span id="fr_399"></span>[2](#fn_365.md) an ancient
 Gnostic-Christian work, which contains what are alleged to be some of
 Jesus Christ's esoteric teachings to his disciples, it is clearly stated
 (contrary to Tertullian's argument, but in accord with what we may
 assume Origen's view would have been) that John the Baptist was the
-reincarnation of Elias. <span id="fr_400"></span>[3](#fn_366) The same
+reincarnation of Elias. <span id="fr_400"></span>[3](#fn_366.md) The same
 work
 
 <span id="page_362">p. 362</span>
@@ -127,7 +127,7 @@ work
 further expounds the doctrine of re-birth as a teaching of Jesus Christ
 which applies not to particular personages only, like Elias, but as a
 universal law governing the lives of all mankind. <span
-id="fr_401"></span>[1](#fn_367)
+id="fr_401"></span>[1](#fn_367.md)
 
 As our discussion has made evident, during the first centuries the
 re-birth doctrine was undoubtedly well known to Alexandrian Christians.
@@ -137,7 +137,7 @@ form of a rebirth doctrine, were Synesius, Bishop of Ptolemais (circa
 Andros (second half of ninth century). In addition to the many
 Gnostic-Christian sects, the Manichaeans, who comprised more than
 seventy sects connected with the primitive Church, also promulgated the
-re-birth doctrine. <span id="fr_402"></span>[2](#fn_368) Along with the
+re-birth doctrine. <span id="fr_402"></span>[2](#fn_368.md) Along with the
 condemnation of the Gnostics and Manichaeans as heretical, the doctrine
 of re-birth was likewise condemned by various ecclesiastical bodies and
 councils. This was the declaration by the Council of Constantinople in
@@ -145,7 +145,7 @@ councils. This was the declaration by the Council of Constantinople in
 pre-existence of the Soul, and the consequent wonderful opinion of its
 return, let him be anathema,' And so, after centuries of controversy,
 the ancient doctrine ceased to be regarded as Christian. <span
-id="fr_403"></span>[3](#fn_369) It is very likely, however
+id="fr_403"></span>[3](#fn_369.md) It is very likely, however
 
 <span id="page_363">p. 363</span>
 
@@ -173,10 +173,10 @@ some of them founding their teachings and literature on the ancient and
 mediaeval mystical philosophers, while others stand as the
 representatives in the West of the mystical schools of modem India,
 which, like modern Druidism, claim to have existed from what we call
-prehistoric times. <span id="fr_404"></span>[1](#fn_370) To-day in the
+prehistoric times. <span id="fr_404"></span>[1](#fn_370.md) To-day in the
 Roman Church eminent theologians have called the doctrine of Purgatory
 the Christian counterpart of the philosophical doctrine of
-re-birth; <span id="fr_405"></span>[2](#fn_371) and the real
+re-birth; <span id="fr_405"></span>[2](#fn_371.md) and the real
 significance of this opinion will appear in our later study of St.
 Patrick's Purgatory which, as we hold, is connected more or less
 definitely with the pagan-Irish doctrines of the underworld of the
@@ -207,7 +207,7 @@ how in the Celtic scheme of evolution the Otherworld with all its gods,
 fairies, and invisible beings, and this world with all its visible
 beings, form the two poles of life or conscious existence. Let us begin
 with purely philosophical conceptions, going first to the Welsh
-*Barddas*, <span id="fr_406"></span>[1](#fn_372) where it is said 'There
+*Barddas*, <span id="fr_406"></span>[1](#fn_372.md) where it is said 'There
 are three circles of existence: the circle of Ceugant (the circle of
 Infinity), where there is neither animate nor inanimate save God, and
 God only can traverse it; the circle of Abred (the circle of Re-birth),
@@ -223,12 +223,12 @@ God, and man shall traverse it; nor will man attain to perfect
 knowledge, until he shall have fully traversed the circle of Gwynvyd,
 for no absolute knowledge can be obtained but by the experience of the
 senses, from having borne and suffered every condition and
-incident'. <span id="fr_407"></span>[1](#fn_373) . . . 'The three
+incident'. <span id="fr_407"></span>[1](#fn_373.md) . . . 'The three
 stabilities of knowledge: to have traversed every state of life; to
 remember every state and its incidents; and to be able to traverse every
 state, as one would wish, for the sake of experience and judgement; and
 this will be obtained in the circle of Gwynvyd.' <span
-id="fr_408"></span>[2](#fn_374)
+id="fr_408"></span>[2](#fn_374.md)
 
 Thus *Barddas* expounds the complete Bardic scheme of evolution as one
 in which the monad or soul, as a knowledge of physical existence is
@@ -240,13 +240,13 @@ commenced its course in the lowest water-animalcule, and passed at death
 to other bodies of a superior order, successively, and in regular
 gradation, until it entered that of man. Humanity is a state of liberty,
 where man can attach himself to either good or evil, as he
-pleases'. <span id="fr_409"></span>[3](#fn_375) Once in the human
+pleases'. <span id="fr_409"></span>[3](#fn_375.md) Once in the human
 kingdom the soul begins a second period of growth altogether different
 from that preceding--a period of growth toward divinity; and with this,
 in our study, we are chiefly concerned. It seems clear that the circle
 of Gwynvyd finds its parallel in the Nirvana of Buddhism, being, like
 it, a state of absolute knowledge and felicity in which man becomes a
-divine being, a veritable god. <span id="fr_410"></span>[4](#fn_376) We
+divine being, a veritable god. <span id="fr_410"></span>[4](#fn_376.md) We
 
 <span id="page_367">p. 367</span>
 
@@ -265,13 +265,13 @@ to mortals, but also through submitting to human birth.
 First, therefore, for opinions; and we may go to the ancients and then
 to the moderns. Here are a few from Julius Caesar:--'In particular they
 (the Druids) wish to inculcate this idea, that souls do not die, but
-pass from one body to another.' <span id="fr_411"></span>[1](#fn_377)
+pass from one body to another.' <span id="fr_411"></span>[1](#fn_377.md)
 'The Gauls declare that they have all sprung from their father Dis (or
 Pluto), and this they say was delivered to them by the Druids.' <span
-id="fr_412"></span>[1](#fn_377) And the testimony of Caesar is confirmed
-by Diodorus Siculus, <span id="fr_413"></span>[2](#fn_378) and by
-Pomponius Mela. <span id="fr_414"></span>[3](#fn_379) Lucan, in the
-*Pharsalia*, <span id="fr_415"></span>[4](#fn_380) addressing the Druids
+id="fr_412"></span>[1](#fn_377.md) And the testimony of Caesar is confirmed
+by Diodorus Siculus, <span id="fr_413"></span>[2](#fn_378.md) and by
+Pomponius Mela. <span id="fr_414"></span>[3](#fn_379.md) Lucan, in the
+*Pharsalia*, <span id="fr_415"></span>[4](#fn_380.md) addressing the Druids
 on their doctrine of re-birth says:--'If you know what you sing, death
 is the centre of a long life.' And again in the same passage he
 observes:--'Happy the folk upon
@@ -282,7 +282,7 @@ whom the Bear looks down, happy in this error, whom of fears the
 greatest moves not, the dread of death. Hence their warrior's heart
 hurls them against the steel, hence their ready welcome of death, and
 the thought that it, were a coward's part to grudge a life sure of its
-return.' <span id="fr_416"></span>[1](#fn_381) Dr. Douglas Hyde, in his
+return.' <span id="fr_416"></span>[1](#fn_381.md) Dr. Douglas Hyde, in his
 *Literary History of Ireland* (p. 95), speaking for the Irish people,
 says of the re-birth doctrine:--'. . . the idea of re-birth which forms
 part of half a dozen existing Irish sagas, was perfectly familiar to the
@@ -290,7 +290,7 @@ Irish Gael. . . .' According to another modern Celtic authority,
 D'Arbois de Jubainville, two chief Celtic doctrines or beliefs were the
 return of the ghosts of the dead and the re-birth of the same
 individuality in a new human body here on this planet. <span
-id="fr_417"></span>[2](#fn_382)
+id="fr_417"></span>[2](#fn_382.md)
 
 ### REINCARNATION OF THE TUATHA DE DANANN
 
@@ -302,7 +302,7 @@ plane of existence and be as mortals more than once. This aspect of the
 Celtic Doctrine of Re-birth has been clearly set forth by the
 publications of such eminent Celtic folk-lorists as Alfred Nutt and Miss
 Eleanor Hull. Miss Hull, in her study of *Old Irish Tabus, or
-Gesa*, <span id="fr_418"></span>[3](#fn_383) referring to the Cuchulainn
+Gesa*, <span id="fr_418"></span>[3](#fn_383.md) referring to the Cuchulainn
 Cycle of Irish literature and mythology, writes thus:--'There is no
 doubt that all the chief personages of this cycle were regarded as the
 direct descendants, or it would be more correct to say, as avatars or
@@ -318,21 +318,21 @@ with them show signs of having been altered, perhaps intentionally, by
 the Christian transcribers. The doctrine of re-birth was naturally not
 one acceptable to them. . . . The goddess Etain becomes the mortal wife
 of a king of Ireland. . . . Conchobhar, moreover, is spoken of as a
-terrestrial god; <span id="fr_419"></span>[1](#fn_384) and Dechtire, his
+terrestrial god; <span id="fr_419"></span>[1](#fn_384.md) and Dechtire, his
 sister, and the other of Cúchulainn, is called a goddess. <span
-id="fr_420"></span>[2](#fn_385) In the case of Cúchulainn himself, it is
+id="fr_420"></span>[2](#fn_385.md) In the case of Cúchulainn himself, it is
 distinctly noted that he is the avatar of Lugh lamhfada (long-hand), the
-sun-deity <span id="fr_421"></span>[3](#fn_386) of the earliest cycle.
+sun-deity <span id="fr_421"></span>[3](#fn_386.md) of the earliest cycle.
 Lugh appears to Dechtire, the mother of Cúchulainn, and tells her that
 he himself is her little child, i.e. that the child is a reincarnation
 of himself; and Cúchulainn when inquired of as to his birth, points
 proudly to his descent from Lugh. When, too, it is proposed to find a
 wife for the hero, the reason assigned is, that they knew "that this
 re-birth would be of himself" (i. e. that only from himself could
-another such as he have origin).' <span id="fr_422"></span>[4](#fn_387)
+another such as he have origin).' <span id="fr_422"></span>[4](#fn_387.md)
 We have in this last a clue to the popular Irish belief regarding the
 re-birth of beings of a god-like nature. D'Arbois de Jubainville has
-shown, <span id="fr_423"></span>[5](#fn_388) also, that the grandfather
+shown, <span id="fr_423"></span>[5](#fn_388.md) also, that the grandfather
 of Cuchulainn, son of Sualtaim, was from the country of the *Sidhe*, and
 so was Ethné Ingubé, the sister of Sualtaim. And Dechtire, the mother of
 Cuchulainn, was the daughter of the Druid Cathba and the brother of King
@@ -341,7 +341,7 @@ Knights of Ulster is both royal and divine. And Conall Cernach,
 Cuchulainn's comrade and avenger, apparently from a tale in the *Cóir
 Anmann* (Fitness of Names), composed probably during the twelfth
 century, was also a reincarnated Tuatha De Danann hero. <span
-id="fr_424"></span>[6](#fn_389)
+id="fr_424"></span>[6](#fn_389.md)
 
 <span id="page_370">p. 370</span>
 
@@ -362,15 +362,15 @@ parchments concerning pagan Ireland.
 
 We have preserved to us a remarkable re-birth story in which the
 characters are known to be historical. <span
-id="fr_425"></span>[1](#fn_390) It concerns a quarrel between the king
+id="fr_425"></span>[1](#fn_390.md) It concerns a quarrel between the king
 of Ulster, Mongan, son of Fiachna--who, according to the *Annals of
 Ireland by The Four Masters* (i. 245), was killed in A. D. 620 by
 Arthur, son of Bicor--and Forgoll, the poet of Mongan. <span
-id="fr_426"></span>[2](#fn_391) The dispute between them was as to the
+id="fr_426"></span>[2](#fn_391.md) The dispute between them was as to the
 place of the death of Fothad Airgdech, a king of Ireland who was killed
 by Cailte, one of the warriors of Find, in a battle whose date is fixed
 by the *Four Masters* in A. D. 285. <span
-id="fr_427"></span>[3](#fn_392) Forgoll pretended that Fothad
+id="fr_427"></span>[3](#fn_392.md) Forgoll pretended that Fothad
 
 <span id="page_371">p. 371</span>
 
@@ -429,15 +429,15 @@ Otherworld declared was true, for there were found the place indicated
 by him, the rock, the spear-head, the pillar-stone, the inscription, the
 coffin of stone, the body in it, and the jewellery. Thus Mongan gained
 the wager; and the secret of his life which he alone had known was
-revealed--he was Find re-born <span id="fr_428"></span>[1](#fn_393); and
+revealed--he was Find re-born <span id="fr_428"></span>[1](#fn_393.md); and
 Cailte, his old pupil and warrior-companion, had come from the land of
-the dead to aid him <span id="fr_429"></span>[1](#fn_393):--'It was
+the dead to aid him <span id="fr_429"></span>[1](#fn_393.md):--'It was
 Cailte, Find's foster-son, that had come to them. Mongan, however, was
 Find, though he would not let it be told.' <span
-id="fr_430"></span>[1](#fn_393) But not only was Mongan an Irish king,
+id="fr_430"></span>[1](#fn_393.md) But not only was Mongan an Irish king,
 he was also a god, the son of the Tuatha De Danann Manannan Mac Lir:
 'this Mongan is a son of Manannan Mac Lir, though he is called Mongan,
-son of Fiachna.' <span id="fr_431"></span>[2](#fn_394) And so it is that
+son of Fiachna.' <span id="fr_431"></span>[2](#fn_394.md) And so it is that
 long after their conquest the People of the Goddess Dana ruled their
 conquerors, for they took upon themselves human bodies, being born as
 the children of the kings of Mil's Sons.
@@ -460,14 +460,14 @@ inactivity becoming a king of Ulster, not to go to avenge thy father on
 Fiachna the Black, son of Deman, though Dubh-Lacha may think it wrong to
 tell thee so. . . ." Mongan seized the kingship of Ulster, and the
 little cleric who had done the reason was Manannan the great and
-mighty.' <span id="fr_432"></span>[1](#fn_395)
+mighty.' <span id="fr_432"></span>[1](#fn_395.md)
 
 In the ancient tale of the *Voyage of Bran*--probably composed in its
 present form during the eighth, possibly the seventh, century A.
 D.--there is another version of the Mongan Re-birth Story, which, being
 later in origin and composition than the *Voyage* itself, was
 undoubtedly clumsily inserted into the manuscript, as scholars
-think. <span id="fr_433"></span>[2](#fn_396) Therein, Mongan as the
+think. <span id="fr_433"></span>[2](#fn_396.md) Therein, Mongan as the
 offspring of Manannan by the woman of Line-mag--quite after the theory
 of the Christian Incarnation--is described as 'a fair man in a body of
 white clay'. This and what follows in the introductory quatrain show how
@@ -513,11 +513,11 @@ Will be his father, his tutor.
 The white host (the angels or fairies) will take him under a wheel
 (chariot) of clouds  
 To the gathering where there is no sorrow. <span
-id="fr_434"></span>[1](#fn_397)
+id="fr_434"></span>[1](#fn_397.md)
 
  
 
-### THE BIRTH OF ETAIN OF THE TUATHA DE DANANN <span id="fr_435"></span>[2](#fn_398)
+### THE BIRTH OF ETAIN OF THE TUATHA DE DANANN <span id="fr_435"></span>[2](#fn_398.md)
 
 Another clear example of one of the Tuatha De Danann being born as a
 mortal is recorded in the famous saga of the *Wooing of Etain*. Three
@@ -535,7 +535,7 @@ girl:--
 <span class="contnote">\[paragraph continues\]</span> 'It was one
 thousand and twelve years from the first begetting of Etain by Ailill to
 the last begetting by Etar.' Etain, retaining her own name, grew up
-thence as an Irish princess. <span id="fr_436"></span>[1](#fn_399)
+thence as an Irish princess. <span id="fr_436"></span>[1](#fn_399.md)
 
 One day an unknown man of very stately aspect suddenly appeared to Etain
 the princess; and as suddenly disappeared, after he had sung to her a
@@ -582,7 +582,7 @@ air with her and very quickly passed out through the opening of the
 great chimney. In consternation, King Eochaid and his warriors hurried
 without the palace; and there, on looking up, they saw two white swans
 flying over Tara, bound together by a golden chain. <span
-id="fr_437"></span>[1](#fn_400)
+id="fr_437"></span>[1](#fn_400.md)
 
 ### THE PRE-EXISTENCE OF DERMOT
 
@@ -603,7 +603,7 @@ so gained his two
 <span id="page_377">p. 377</span>
 
 soles' breadth of the solid glebe that overhung the water's edge.' <span
-id="fr_438"></span>[1](#fn_401)
+id="fr_438"></span>[1](#fn_401.md)
 
 ### RE-BIRTH OF TUAN
 
@@ -612,7 +612,7 @@ Partholon, the first man to reach Ireland; and then, after two hundred
 and twenty years, was re-born as the son of Cairell. This story in its
 oldest form is preserved in the *Book of the Dun Cow*, and seems to have
 been composed during the late ninth or early tenth century. <span
-id="fr_439"></span>[2](#fn_402)
+id="fr_439"></span>[2](#fn_402.md)
 
 <span id="page_378">p. 378</span>
 
@@ -629,13 +629,13 @@ of Wales, his mother being a goddess, Caridwen, who dwells beneath the
 waters of Lake Tegid. In its present mystical form this tale cannot be
 traced further than the end of the sixteenth century, though the
 transformation incidents are presupposed in the *Book of Taliessin*, a
-thirteenth-century manuscript. <span id="fr_440"></span>[1](#fn_403)
+thirteenth-century manuscript. <span id="fr_440"></span>[1](#fn_403.md)
 Besides being the re-birth of Gwion, Taliessin may be regarded as a
 bardic initiate high in degree, who is possessed of all magical and
-druidical powers. <span id="fr_441"></span>[1](#fn_403) He made a voyage
+druidical powers. <span id="fr_441"></span>[1](#fn_403.md) He made a voyage
 to the Otherworld, Caer Sidi; and this seems to indicate some close
 connexion between ancient rites of initiation and his occult knowledge
-of all things. <span id="fr_442"></span>[2](#fn_404) Like the Irish
+of all things. <span id="fr_442"></span>[2](#fn_404.md) Like the Irish
 re-birth and Otherworld tales,
 
 <span id="page_379">p. 379</span>
@@ -655,7 +655,7 @@ correspondences, as propounded in the modern *Barddas*, between the dead
 and the living, between death and re-birth; and Gwydion having been a
 great culture hero of Wales probably promulgated a doctrine of re-birth,
 and hence is described as being able to resuscitate the dead. <span
-id="fr_443"></span>[1](#fn_405)
+id="fr_443"></span>[1](#fn_405.md)
 
 ### KING ARTHUR AS A REINCARNATED HERO
 
@@ -677,9 +677,9 @@ Britons of England and of France have for a long time
 
 <span id="page_380">p. 380</span>
 
-awaited his coming'. <span id="fr_444"></span>[1](#fn_406) And Malory
+awaited his coming'. <span id="fr_444"></span>[1](#fn_406.md) And Malory
 expressing the sentiment in his age writes <span
-id="fr_445"></span>[2](#fn_407):--'Yet some men say in many parts of
+id="fr_445"></span>[2](#fn_407.md):--'Yet some men say in many parts of
 England that King Arthur is not dead, but had by the will of our Lord
 Jesu into another place; and men say that he shall come again, and he
 shall win the holy cross. I will not say it shall be so, but rather I
@@ -688,7 +688,7 @@ Arthur's passing an expected return, as many do, in a purely
 mythological aspect, we must think of him for the time as a sun-god, and
 yet even then cannot escape altogether from the re-birth idea; for, as a
 study of ancient Egyptian mythology shows, there is still the same set
-of relations. <span id="fr_446"></span>[3](#fn_408) There are the
+of relations. <span id="fr_446"></span>[3](#fn_408.md) There are the
 sun-symbols always made use of to set forth the doctrine of re-birth, be
 it Egyptian, Indian, Mexican, or Celtic:--the death of a mortal like the
 passing of Arthur is represented by the sun-set on the horizon between
@@ -700,7 +700,7 @@ and the re-birth is the sunrise of a new day.
 As a non-Celtic parallel to what has preceded concerning the Otherworld
 of the Celts and their Doctrine of Re-birth, we offer the second of the
 *Stories of the High-priests of Memphis*, as published by Mr. F. L.
-Griffith from ancient manuscripts. <span id="fr_447"></span>[4](#fn_409)
+Griffith from ancient manuscripts. <span id="fr_447"></span>[4](#fn_409.md)
 It is a history of Si-Osiri (the son of Osiris), whose father was Setme
 Khamuas. This wonderful divine son when still a child took his human
 father on a journey to see Amenti, the Otherworld of the Dead; and when
@@ -717,7 +717,7 @@ the three Ethiopian magicians who fifteen hundred years before had waged
 war with the magicians of Egypt. At that time the Egyptian Hor, the son
 of Pa-neshe, had defeated the great magician of Ethiopia in the final
 struggle between White and Black Magic which took place in the presence
-of the Pharaoh. <span id="fr_448"></span>[1](#fn_410) And 'Hor the son
+of the Pharaoh. <span id="fr_448"></span>[1](#fn_410.md) And 'Hor the son
 of the Negress' had agreed not to return to Egypt again for fifteen
 hundred years. But now the time was elapsed, and, unmasking the
 character of the messenger, Si-Osiri destroyed him with magical fire.
@@ -732,33 +732,33 @@ As in ancient Ireland, where many kings or great heroes were regarded as
 direct incarnations or reincarnations of gods or divine beings from the
 Otherworld, so in Egypt the Pharaohs were thought to be gods in human
 bodies, sent by Osiris to rule the Children of the Sun. <span
-id="fr_449"></span>[2](#fn_411) In Mexico and Peru there was a similar
-belief. <span id="fr_450"></span>[3](#fn_412) In the Indian
+id="fr_449"></span>[2](#fn_411.md) In Mexico and Peru there was a similar
+belief. <span id="fr_450"></span>[3](#fn_412.md) In the Indian
 *Mahâbhârata*, Râma and Krishna are at once gods and men. <span
-id="fr_451"></span>[4](#fn_413) The celebrated philosophical poem known
+id="fr_451"></span>[4](#fn_413.md) The celebrated philosophical poem known
 as the *Bhagavadgîtâ* also asserts Krishna's descent from the gods; and
 the same view is again enforced and extended in the *Hari-vansa* and
 especially in the *Bhagavata Purâna*. <span
-id="fr_452"></span>[4](#fn_413) The Indian *Laws of Manu* say that 'even
+id="fr_452"></span>[4](#fn_413.md) The Indian *Laws of Manu* say that 'even
 an infant king must not be despised from an idea that he is a mere
 mortal; for he is a great
 
 <span id="page_382">p. 382</span>
 
-deity in human form'. <span id="fr_453"></span>[1](#fn_414) In ancient
+deity in human form'. <span id="fr_453"></span>[1](#fn_414.md) In ancient
 Greece it was a common opinion that Zeus was reincarnated from age to
 age in the great national heroes. 'Alexander the Great was regarded not
 merely as the son of Zeus, but as Zeus himself.' And other great Greeks
 were regarded as gods while living on earth, like Lycurgus the Spartan
 law-giver, who after his death was worshipped as one of the divine
-ones. <span id="fr_454"></span>[2](#fn_415)
+ones. <span id="fr_454"></span>[2](#fn_415.md)
 
 Among the great philosophers, the ancient doctrine of rebirth was a
 personal conviction: Buddha related very many of his previous
 reincarnations, according to the *Gâtakamâlâ*; Pythagoras is said to
 have gone to the temple of Here and recognized there an ancient shield
 which he had carried in a previous life when he was Euphorbus, a Homeric
-hero. <span id="fr_455"></span>[3](#fn_416) From what Plato, in his
+hero. <span id="fr_455"></span>[3](#fn_416.md) From what Plato, in his
 *Meno*, quoted from an old poet, it seems very probable that there may
 be some sort of relationship between legends mentioning the Rites of
 Proserpine, like the legend of Aeneas in Virgil, and certain of the
@@ -784,9 +784,9 @@ Metempsychosis.* The Emperor of Japan is still the Divine Child of the
 Sun, the head of the *Order of the Rising Sun,* and is always regarded
 by his subjects as the incarnation of a great being. The Great Lama of
 Thibet is believed to reincarnate immediately after death. <span
-id="fr_456"></span>[1](#fn_417) William II of Germany seems to echo,
+id="fr_456"></span>[1](#fn_417.md) William II of Germany seems to echo,
 perhaps unconsciously, the same doctrine when he claims to be ruling by
-divine right. <span id="fr_457"></span>[2](#fn_418)
+divine right. <span id="fr_457"></span>[2](#fn_418.md)
 
 That the Celtic Doctrine of Re-birth is a direct and complete
 confirmation of the Psychological Theory of the nature and origin of the
@@ -827,7 +827,7 @@ they had lived on this earth before as men and women; but, she added,
 secret which they who held it discussed freely only among themselves.'
 They believed, too, that disease and misfortune in old age come as a
 penalty for sins committed in a former life. <span
-id="fr_458"></span>[1](#fn_419) This expiatory or purgatorial aspect of
+id="fr_458"></span>[1](#fn_419.md) This expiatory or purgatorial aspect of
 the Re-birth Doctrine seems to have been more widespread than the
 doctrine in its bare outlines; for the Belclare woman in speaking of it
 was able to recall from memories of forty-five or fifty years ago what
@@ -882,7 +882,7 @@ Irishmen now living in Ireland, with whom I have been privileged to
 discuss the re-birth doctrine, that both Patrick and Columba are
 likewise to be regarded as ancient Gaelic heroes, who were reincarnated
 to work for the uplifting of the Gael. <span
-id="fr_459"></span>[1](#fn_420)
+id="fr_459"></span>[1](#fn_420.md)
 
 <span id="page_386">p. 386</span>
 
@@ -907,7 +907,7 @@ phantom white horse shod with shoes of silver; and they believe that
 when the horse's silver shoes are worn out the enchantment will end.
 Then, like Arthur when his stay in Avalon ends, Garret Fitzgerald will
 return to the world of human life again to lead the Irish hosts to
-victory. <span id="fr_460"></span>[1](#fn_421)
+victory. <span id="fr_460"></span>[1](#fn_421.md)
 
 In Scotland
 
@@ -986,7 +986,7 @@ a boy. And even yet here in this region some people are imbued with the
 ancient faith of the Druids, and firmly believe that the spirit migrates
 from one body to another. It is said, too, that a pregnant woman is able
 to determine what kind of a child she will give birth to.' <span
-id="fr_461"></span>[1](#fn_422)
+id="fr_461"></span>[1](#fn_422.md)
 
 Mr. Jones's use of the phrase 'migrate from one body to another' led us
 to suspect that it might refer to transmigration, i.e. re-birth into
@@ -1021,7 +1021,7 @@ that he succeeded in bringing curses upon them.'
 
 The Rev. T. M. Morgan, Vicar of Newchurch parish, near Carmarthen, who
 has already offered valuable evidence concerning the *Tylwyth Teg* (see
-pp. [149](ffcc124.htm#page_149)-51) contributes additional material
+pp. [149](ffcc124.htm#page_149)-51.md) contributes additional material
 about the Doctrine of Re-birth in South Wales:--'My father said there
 used to be expressed in Cardiganshire before his time, a belief in
 re-birth. This was in accord with Druidism, namely, that all human
@@ -1053,10 +1053,10 @@ themselves. Whenever such a condition showed itself, the person
 exhibiting it was called a *Lloerig* or "one who is moon-torn"--*Lloer*
 meaning moon, and *rhigo* to notch or tear; and in the English word
 *lunatic*, meaning "moon-struck", we have a similar idea.' <span
-id="fr_462"></span>[1](#fn_423)
+id="fr_462"></span>[1](#fn_423.md)
 
 Mr. David Williams, J.P., of Carmarthen, who has already. told us much
-about Welsh fairies (see pp. [151](ffcc124.htm#page_151)-3), offers
+about Welsh fairies (see pp. [151](ffcc124.htm#page_151)-3.md), offers
 equally valuable information about the 'Three Circles of Existence' and
 the Druidic scheme of soul-evolution, as follows:--'According to the
 Druids, there are three Circles through which souls must pass. The first
@@ -1106,7 +1106,7 @@ same from life to life.
 
 <span class="contnote">\[paragraph continues\]</span> I have never heard
 of any belief in transmigration of humans into animals, but in human
-re-birth only.' <span id="fr_463"></span>[1](#fn_424)
+re-birth only.' <span id="fr_463"></span>[1](#fn_424.md)
 
 In Brittany
 
@@ -1184,7 +1184,7 @@ any of the orientally-derived philosophies. Some of the Druids, chiefly
 of Scotland and Wales, who are known to have held the re-birth doctrine
 before conversion, and probably after conversion, as was the case with a
 modern Druid, an editor of the *Archaiology of Wales* (see [p.
-391](#page_391), above), accepted the New Faith as a purer form of
+391](#page_391), above.md), accepted the New Faith as a purer form of
 Druidism and Jesus Christ as the Greatest of Druids. This ready and full
 acceptance would most likely not have been possible had their cardinal
 re-birth doctrine been thereby condemned. It would seem, therefore, that
@@ -1203,7 +1203,7 @@ applying to all mankind in a more humble and less divine way, we seem to
 see in the Mongan re-birth story, which Christian transcribers have
 glossed, evidently with such ideas in mind, a proof that on this
 doctrinal point Christian and Celtic beliefs coalesced. <span
-id="fr_464"></span>[1](#fn_425) But
+id="fr_464"></span>[1](#fn_425.md) But
 
 <span id="page_395">p. 395</span>
 
@@ -1211,9 +1211,9 @@ the Christian beliefs did not originate the Celtic, for scholars have
 shown that the germ of the Mongan re-birth story, as well as that of the
 Cuchulainn re-birth episode, is pre-Christian, and that the Etain
 birth-story dates from a time when Irish myth and history were entirely
-free from Christian influence. <span id="fr_465"></span>[1](#fn_426) The
+free from Christian influence. <span id="fr_465"></span>[1](#fn_426.md) The
 same original pagan character is shown in the re-birth episodes existing
-in Brythonic literature. <span id="fr_466"></span>[2](#fn_427) And,
+in Brythonic literature. <span id="fr_466"></span>[2](#fn_427.md) And,
 finally, from the testimony of several ancient authorities, e.g. Julius
 Caesar, Diodorus Siculus, Pomponius Mela, and Lucan, who wrote,
 respectively, about 50 B.C., 40 B.C., A. D. 44, and A. D. 60 to 65, that
@@ -1268,7 +1268,7 @@ unique, and hence Celtic. Beyond this statement we cannot go.
 
 ### Footnotes
 
-<span id="fn_357"></span>[358:1](ffcc270.htm#fr_391) General reference:
+<span id="fn_357"></span>[358:1](ffcc270.htm#fr_391.md) General reference:
 *Essay upon the Irish Vision of the happy Other-world and the Celtic
 Doctrine of Re-birth*, by Alfred Nutt in Kuno Meyer's *Voyage of Bran*.
 Chief sources: *Leabhar na h-Uidhre*; *Book of Leinster*; *Four Ancient
@@ -1276,12 +1276,12 @@ Books of Wales*; *Mabinogion*; *Silva Gadelica*; *Barddas*, a collection
 of Welsh manuscripts made about 1560; and the *Annals of the Four
 Masters*, compiled in the first half of the seventeenth century.
 
-<span id="fn_358"></span>[359:1](ffcc270.htm#fr_392) Cf. Plato,
+<span id="fn_358"></span>[359:1](ffcc270.htm#fr_392.md) Cf. Plato,
 *Republic*, *x*; *Phaedo*; *Phaedrus*, &c.; Iamblichus, *Concerning the
 Mysteries of Egypt, Chaldaea, Assyria*; Plutarch, *Mysteries of Isis*
 (*De Iside et Osiride*).
 
-<span id="fn_359"></span>[359:2](ffcc270.htm#fr_393) 'He says:--'I, for
+<span id="fn_359"></span>[359:2](ffcc270.htm#fr_393.md) 'He says:--'I, for
 my part, suspect that the spirit was implanted in them (rational
 creatures, men) from without' *(De Principiis,* Book I, c. vii. 4); ...
 'the cause of each one's actions is a pre-existing one; and then every
@@ -1295,14 +1295,14 @@ to the highest good' (ib., Book III, c. i, 21); ... 'every one has the
 reason in himself, why he has been placed in this or that rank in life'
 (ib., Book III, c. v, 4).
 
-<span id="fn_360"></span>[360:1](ffcc270.htm#fr_394) Cf. Bergier,
+<span id="fn_360"></span>[360:1](ffcc270.htm#fr_394.md) Cf. Bergier,
 *Origène*, in *Dict. de Théologie*, v. 69.
 
-<span id="fn_361"></span>[360:2](ffcc270.htm#fr_395) *Holy Bible*,
+<span id="fn_361"></span>[360:2](ffcc270.htm#fr_395.md) *Holy Bible*,
 Revised Version, St. Matt. xi. 14-15; cf. St. Matt. xvii 10-13, St. Mark
 ix. 13, St. Luke vii. 27, St. John i. 21.
 
-<span id="fn_362"></span>[360:3](ffcc270.htm#fr_396) Tertullian's
+<span id="fn_362"></span>[360:3](ffcc270.htm#fr_396.md) Tertullian's
 conclusion is as follows:--'These substances ("soul and body") are, in
 fact, the natural property of each individual; whilst "the spirit and
 power" (cf. Mal. iv. 5) are bestowed as external gifts by the grace of
@@ -1312,14 +1312,14 @@ to the spirit of Moses' (cf. Num. xii. 2).--*De Anima* c. xxxv; cf.
 trans. in *Ante-Nicene Christian Library* (Edinburgh, 1870*),* xv.
 496-7.
 
-<span id="fn_363"></span>[360:4](ffcc270.htm#fr_397) Origen says:--'But
+<span id="fn_363"></span>[360:4](ffcc270.htm#fr_397.md) Origen says:--'But
 that there should be certain doctrines not made known to the multitude,
 which are (revealed) after the exoteric ones have been taught, is not a
 peculiarity of Christianity alone, but also of philosophic systems, in
 which certain truths are exoteric and others esoteric' (*Origen against
 Celsus*, Book I, c. vii).
 
-<span id="fn_364"></span>[361:1](ffcc270.htm#fr_398) How Tertullian
+<span id="fn_364"></span>[361:1](ffcc270.htm#fr_398.md) How Tertullian
 almost literally accepted the re-birth doctrine is shown In his
 *Apology*, chapter xlviii, concerning the resurrection of the body. It
 Is the corrupted form of the doctrine, viz. transmigration of human
@@ -1336,7 +1336,7 @@ existence, even if not into the same outward form' (*The Apology of
 Tertullian for the Christians*; cf. trans. by T. H. Bindley, Oxford,
 1890, pp. 137-9).
 
-<span id="fn_365"></span>[361:2](ffcc270.htm#fr_399) British Museum MS.
+<span id="fn_365"></span>[361:2](ffcc270.htm#fr_399.md) British Museum MS.
 Add. 5114, vellum--a Coptic manuscript in the dialect of Upper Egypt.
 Its undetermined date is placed by Woide at latest about the end of the
 fourth century. It was evidently copied by one scribe from an older
@@ -1346,7 +1346,7 @@ years during the second century. See the translation of the Schwartze's
 parallel Latin version of *Pistis Sophia* and its introduction, both by
 G. R. S. Mead (London, 1896).
 
-<span id="fn_366"></span>[361:3](ffcc270.htm#fr_400) The chief passages
+<span id="fn_366"></span>[361:3](ffcc270.htm#fr_400.md) The chief passages
 are as follows, Jesus being the speaker:--'Moreover, in the region of
 the soul of the rulers, destined to receive it, I found the soul of the
 prophet Elias, in the aeons of the sphere, and I took him, and receiving
@@ -1367,7 +1367,7 @@ words, "If ye <span id="page_362">p. 362</span> will receive it, John
 the Baptist is Elias who, I said, was for to come"' (*Pistis Sophia*,
 Book I, 12-13, Mead's translation).
 
-<span id="fn_367"></span>[362:1](ffcc270.htm#fr_401) The Saviour
+<span id="fn_367"></span>[362:1](ffcc270.htm#fr_401.md) The Saviour
 answered and said unto his disciples:--"Preach ye unto the whole world,
 saying unto men, 'Strive together that ye may receive the mysteries of
 light in this time of stress, and enter into the kingdom of light. Put
@@ -1375,10 +1375,10 @@ not off from day to day, and from cycle to cycle, in the belief that ye
 will succeed in obtaining the mysteries when ye return to the world in
 another cycle '"' (*Pistis Sophia*, Book II, 317*,* Mead's translation).
 
-<span id="fn_368"></span>[362:2](ffcc270.htm#fr_402) Cf. Bergier,
+<span id="fn_368"></span>[362:2](ffcc270.htm#fr_402.md) Cf. Bergier,
 *Manichéisme*, in *Dict. de Théol.*, iv. 211-13.
 
-<span id="fn_369"></span>[362:3](ffcc270.htm#fr_403) The *Refutation of
+<span id="fn_369"></span>[362:3](ffcc270.htm#fr_403.md) The *Refutation of
 Irenaeus,* until quite recently, has been the chief source of much of
 our knowledge concerning Gnosticism. It was written during the second
 century at Lyons, by Irenaeus, a bishop of Gaul, far from any direct
@@ -1429,14 +1429,14 @@ openly advocated the re-birth doctrine in the seventeenth century; and
 in later times it has been preached from Christian pulpits by such men
 as Henry Ward Beecher and Phillips Brooks.
 
-<span id="fn_370"></span>[364:1](ffcc270.htm#fr_404) See A. Bertrand,
+<span id="fn_370"></span>[364:1](ffcc270.htm#fr_404.md) See A. Bertrand,
 *La Religion des Gaulois, les Druides et le Druidisme* (Paris, 1897); H.
 Jennings, *The Rosicrucians* (London, 1887); the Work of Paracelsus; H.
 Cornelius Agrippa, *De Occulta Philosophia* (Paris, 1567); H. P.
 Blavatsky's *Isis Unveiled*, and the *Secret Doctrine* (London, 1888);
 and *Hermetic Works*, by Anna Kingsford and E. Maitland (London, 1885).
 
-<span id="fn_371"></span>[364:2](ffcc270.htm#fr_405) Cf. Bergier,
+<span id="fn_371"></span>[364:2](ffcc270.htm#fr_405.md) Cf. Bergier,
 *Purgatoire*, in *Dict. de Théol.*, v. 409*.* A Celt, a professed
 faithful and fervent adherent of the Church of Rome, whom I met in the
 Morbihan where he now lives, told me that he believes thoroughly in the
@@ -1455,7 +1455,7 @@ profound influence which the Celtic St. Patrick's Purgatory certainly
 exerted on the Church during the Middle Ages when the doctrine of
 Purgatory was taking definite shape (see our chapter x).
 
-<span id="fn_372"></span>[365:1](ffcc270.htm#fr_406) *Barddas*
+<span id="fn_372"></span>[365:1](ffcc270.htm#fr_406.md) *Barddas*
 (Llandovery, 1862) is 'a collection (by Iolo Morganwg, a Bard) of
 original documents, illustrative of the theology, wisdom, and usage of
 the Bardo-Druidic System of the Isle of Britain'. The original
@@ -1470,15 +1470,15 @@ passed upon these documents; but since no one questions their Celtic
 origin--whether it be ancient or more modern--we are content to use
 them.
 
-<span id="fn_373"></span>[366:1](ffcc270.htm#fr_407) *Barddas*, i,
+<span id="fn_373"></span>[366:1](ffcc270.htm#fr_407.md) *Barddas*, i,
 189--91.
 
-<span id="fn_374"></span>[366:2](ffcc270.htm#fr_408) *Barddas*, i, 177.
+<span id="fn_374"></span>[366:2](ffcc270.htm#fr_408.md) *Barddas*, i, 177.
 
-<span id="fn_375"></span>[366:3](ffcc270.htm#fr_409) Preface to
+<span id="fn_375"></span>[366:3](ffcc270.htm#fr_409.md) Preface to
 *Barddas*, xlii.
 
-<span id="fn_376"></span>[366:4](ffcc270.htm#fr_410) One of the greatest
+<span id="fn_376"></span>[366:4](ffcc270.htm#fr_410.md) One of the greatest
 errors formerly made by European Sanskrit scholars and published
 broadcast throughout the West, so that now it is popularly accepted
 there as true, is that Nirvana, the goal of Indian philosophy and <span
@@ -1495,57 +1495,57 @@ as much superior to the normal human consciousness as the normal human
 consciousness is superior to the consciousness existing in the brute
 kingdom.
 
-<span id="fn_377"></span>[367:1](ffcc270.htm#fr_412) *De Bel. Gal*.,
+<span id="fn_377"></span>[367:1](ffcc270.htm#fr_412.md) *De Bel. Gal*.,
 lib. vi. 14. 5; vi. 18. 1.
 
-<span id="fn_378"></span>[367:2](ffcc270.htm#fr_413) Book V, 31. 4.
+<span id="fn_378"></span>[367:2](ffcc270.htm#fr_413.md) Book V, 31. 4.
 
-<span id="fn_379"></span>[367:3](ffcc270.htm#fr_414) *De Situ Orbis*,
+<span id="fn_379"></span>[367:3](ffcc270.htm#fr_414.md) *De Situ Orbis*,
 iii. C. 2: 'One point alone of the Druids' teaching has become generally
 known among the common people (in order that they could be braver in
 war), that souls are eternal and there is a second life among the
 shades.'
 
-<span id="fn_380"></span>[367:4](ffcc270.htm#fr_415) i, 449-62.
+<span id="fn_380"></span>[367:4](ffcc270.htm#fr_415.md) i, 449-62.
 
-<span id="fn_381"></span>[368:1](ffcc270.htm#fr_416) Lucan, i. 457-8; i.
+<span id="fn_381"></span>[368:1](ffcc270.htm#fr_416.md) Lucan, i. 457-8; i.
 458-62.
 
-<span id="fn_382"></span>[368:2](ffcc270.htm#fr_417) Cf. *Le Cycle Myth.
+<span id="fn_382"></span>[368:2](ffcc270.htm#fr_417.md) Cf. *Le Cycle Myth.
 Irl.*, pp. 345, 347 ff.
 
-<span id="fn_383"></span>[368:3](ffcc270.htm#fr_418) *Folk-Lore,* xii.
+<span id="fn_383"></span>[368:3](ffcc270.htm#fr_418.md) *Folk-Lore,* xii.
 64, &c.; also cf. Eleanor Hull, *The Cuchullin Saga in Irish Literature*
 (London, 1898), Intro., p. 23, &c.
 
-<span id="fn_384"></span>[369:1](ffcc270.htm#fr_419) What is probably
+<span id="fn_384"></span>[369:1](ffcc270.htm#fr_419.md) What is probably
 the oldest form of a tale concerning Conchobhar's birth makes Conchobhar
 'the son of a god who incarnated himself in the same way as did Lug and
 Etain' (cf*. Voy. of Bran*, ii. 73).
 
-<span id="fn_385"></span>[369:2](ffcc270.htm#fr_420) See *Leabhar na
+<span id="fn_385"></span>[369:2](ffcc270.htm#fr_420.md) See *Leabhar na
 h-Uidhre*, 101b; and *Book of Leinster*, 123b:--'*Cúchulainn mo dea
 dechtiri*.'
 
-<span id="fn_386"></span>[369:3](ffcc270.htm#fr_421) We have already
+<span id="fn_386"></span>[369:3](ffcc270.htm#fr_421.md) We have already
 mentioned the belief that gods having their abode in the sun could leave
 it to assume bodies here on earth and become culture heroes and great
-teachers (see [p. 309](ffcc250.htm#page_309)).
+teachers (see [p. 309](ffcc250.htm#page_309).md).
 
-<span id="fn_387"></span>[369:4](ffcc270.htm#fr_422) From *Wooing of
+<span id="fn_387"></span>[369:4](ffcc270.htm#fr_422.md) From *Wooing of
 Emer* in *Leabhar na h-Uidhre*; cf*. Voy. of Bran*, ii. 97.
 
-<span id="fn_388"></span>[369:5](ffcc270.htm#fr_423) *L' Épopée celt. en
+<span id="fn_388"></span>[369:5](ffcc270.htm#fr_423.md) *L' Épopée celt. en
 Irl.*, p. 11.
 
-<span id="fn_389"></span>[369:6](ffcc270.htm#fr_424) Cf. *Voy. of Bran*,
+<span id="fn_389"></span>[369:6](ffcc270.htm#fr_424.md) Cf. *Voy. of Bran*,
 ii. p. 74 ff.
 
-<span id="fn_390"></span>[370:1](ffcc270.htm#fr_425) In the *Leabhar no
+<span id="fn_390"></span>[370:1](ffcc270.htm#fr_425.md) In the *Leabhar no
 h-Uidhre*, 133a--134b; *cf. Le Cycle Myth. Irl.*, pp. 336--43; cf. *Voy.
 of Bran*, i. 49--52; cf. O'Curry, *Manners and Customs*, iii. 175.
 
-<span id="fn_391"></span>[370:2](ffcc270.htm#fr_426) Cf. Stokes's ed.
+<span id="fn_391"></span>[370:2](ffcc270.htm#fr_426.md) Cf. Stokes's ed.
 *Annals of Tigernach, Third Frag.* in *Rev. Celt.* xvii. 178. In the
 piece called *Tucait baile Mongâin* in the *Leabhar na h-Uidhre*, p.
 134, col. 2, 'Mongan is seen living with his wife the year of the death
@@ -1558,36 +1558,36 @@ D. 625*,* the *Chronicum Scotorum* A. D. 625, the *Annals of
 Clonmacnoise*, A. D. 624, and *Egerton MS*. 1782 A.D. 615 (cf. *Voy. of
 Bran*, i. 137 -9).
 
-<span id="fn_392"></span>[370:3](ffcc270.htm#fr_427) J. O'Donovan,
+<span id="fn_392"></span>[370:3](ffcc270.htm#fr_427.md) J. O'Donovan,
 *Annals of Ireland by the Four Masters* (Dublin, 1856), i. 121.
 
-<span id="fn_393"></span>[372:1](ffcc270.htm#fr_430) Cf*. Le Cycle Myth.
+<span id="fn_393"></span>[372:1](ffcc270.htm#fr_430.md) Cf*. Le Cycle Myth.
 Irl.*, pp. 336-43; O'Curry, *Manners and Customs* iii. 175; *L. U.*,
 133<sup>a</sup>-134<sup>b</sup>; and *Voy. of Bran*, i. 52.
 
-<span id="fn_394"></span>[372:2](ffcc270.htm#fr_431) *Voy. of Bran*, i.
+<span id="fn_394"></span>[372:2](ffcc270.htm#fr_431.md) *Voy. of Bran*, i.
 44-5; from *The Conception of Mongan*.
 
-<span id="fn_395"></span>[373:1](ffcc270.htm#fr_432) Meyer's version,
+<span id="fn_395"></span>[373:1](ffcc270.htm#fr_432.md) Meyer's version,
 *Voy. Of Bran*, i. 73-4.
 
-<span id="fn_396"></span>[373:2](ffcc270.htm#fr_433) Cf. *Voy. Of Bran*,
+<span id="fn_396"></span>[373:2](ffcc270.htm#fr_433.md) Cf. *Voy. Of Bran*,
 i. 137.
 
-<span id="fn_397"></span>[374:1](ffcc270.htm#fr_434) *Voy. of Bran*, i.
+<span id="fn_397"></span>[374:1](ffcc270.htm#fr_434.md) *Voy. of Bran*, i.
 22-8, quatrains 48-59, &c.
 
-<span id="fn_398"></span>[374:2](ffcc270.htm#fr_435) In *L. U.; cf. Le
+<span id="fn_398"></span>[374:2](ffcc270.htm#fr_435.md) In *L. U.; cf. Le
 Cycle Myth. Irl.*, pp. 355-22; and *Voy. of Bran*, ii. 47-53.
 
-<span id="fn_399"></span>[375:1](ffcc270.htm#fr_436) In the Irish
+<span id="fn_399"></span>[375:1](ffcc270.htm#fr_436.md) In the Irish
 conception of re-birth there is no change of sex: Lug is re-born as a
 boy, in Cuchulainn; Finn as Mongan; Etain as a girl. But it seems that
 Etain as a mortal had no consciousness of her previous divine existence,
 while Cuchulainn and Mongan knew their non-human origin and
 pre-existence.
 
-<span id="fn_400"></span>[376:1](ffcc270.htm#fr_437) Some time after
+<span id="fn_400"></span>[376:1](ffcc270.htm#fr_437.md) Some time after
 this, according to one part of the tale, Eochaid stormed Midir's fairy
 palace--for the purpose localized in Ireland--and won Etain back, but
 the fairies cast a curse on his race for this, and Conaire, his
@@ -1596,10 +1596,10 @@ vaguely suggest a re-birth of Etain, through the power exerted by
 Eochaid, who, being a king, is to be regarded in his non-human nature as
 one of the Tuatha De Danann himself, like Midir his rival.
 
-<span id="fn_401"></span>[377:1](ffcc270.htm#fr_438) Cf. *The Gilla
+<span id="fn_401"></span>[377:1](ffcc270.htm#fr_438.md) Cf. *The Gilla
 decair,* in *Silva Gadelica,* pp. 300--3.
 
-<span id="fn_402"></span>[377:2](ffcc270.htm#fr_439) Cf. *Voy. of Bran,*
+<span id="fn_402"></span>[377:2](ffcc270.htm#fr_439.md) Cf. *Voy. of Bran,*
 ii. 76 ff*.* The Christian scribe's version fills up the apace between
 Tuan's death and re-birth by making him pass eighty years as a stag,
 twenty as a wild boar, one hundred as an eagle, and twenty as a salmon
@@ -1610,7 +1610,7 @@ that between death and re-birth, while the conscious Ego is resident in
 the Otherworld, the physical atoms of the discarded human body may
 transmigrate through various plant and animal bodies) appears to set
 forth as Celtic an erroneous doctrine of the transmigration of the
-conscious Ego itself (see [p. 513](ffcc412.htm#page_513) n.). In other
+conscious Ego itself (see [p. 513](ffcc412.htm#page_513) n..md). In other
 texts, for example in the song which Amairgen (considered the Gaelic
 equivalent or even original of the Brythonic Taliessin) sang as he, with
 the conquering Sons of Mil, set foot on Ireland, there are similar
@@ -1658,75 +1658,75 @@ humour by making use of the pig. We should, nevertheless, bear in mind
 that the pig (or, as is more commonly the rule, the wild boar) holds a
 very curious and prominent position in the ancient mythology of Ireland,
 and of Wales as well. It was regarded as a magical animal (cf. [p.
-451](ffcc310.htm#page_451) n.); and, apparently, was also a Druid
+451](ffcc310.htm#page_451) n..md); and, apparently, was also a Druid
 symbol, whose meaning we have lost. Possibly the poet may have been
 aware of this. If so, he does not necessarily imply transmigration of
 the human soul into animal bodies; but is merely employing symbolism.
 
-<span id="fn_403"></span>[378:1](ffcc270.htm#fr_441) See *Taliessin* in
+<span id="fn_403"></span>[378:1](ffcc270.htm#fr_441.md) See *Taliessin* in
 the *Mabinogion*, and the *Book of Taliessin* in Skene's *Four Ancient
 Books*, i. 523 ff.; cf. Nutt, *Voy. of Bran*, ii. 84, and Rhy^s, *Hib.
 Lect.*, pp. 548, 551.
 
-<span id="fn_404"></span>[378:2](ffcc270.htm#fr_442) Cf. Rhy^s, *Hib.
+<span id="fn_404"></span>[378:2](ffcc270.htm#fr_442.md) Cf. Rhy^s, *Hib.
 Lect.*, pp. 548-50.
 
-<span id="fn_405"></span>[379:1](ffcc270.htm#fr_443) Cf. Rhy^s, *Hib.
+<span id="fn_405"></span>[379:1](ffcc270.htm#fr_443.md) Cf. Rhy^s, *Hib.
 Lect*., p. 259; and *Arth. Leg*., p. 252.
 
-<span id="fn_406"></span>[380:1](ffcc270.htm#fr_444) Loth, *Les
+<span id="fn_406"></span>[380:1](ffcc270.htm#fr_444.md) Loth, *Les
 Mabinogion, Kulhwch et Olwen*, p. 187 n.
 
-<span id="fn_407"></span>[380:2](ffcc270.htm#fr_445) *Le Morte
+<span id="fn_407"></span>[380:2](ffcc270.htm#fr_445.md) *Le Morte
 D'Arthur*, Book XXI, c. vii.
 
-<span id="fn_408"></span>[380:3](ffcc270.htm#fr_446) See works on
+<span id="fn_408"></span>[380:3](ffcc270.htm#fr_446.md) See works on
 Egyptian mythology and religion, by Maspero; also Lenormant, *Chaldean
 Magic*, p. 84, &c.
 
-<span id="fn_409"></span>[380:4](ffcc270.htm#fr_447) F. L. Griffith,
+<span id="fn_409"></span>[380:4](ffcc270.htm#fr_447.md) F. L. Griffith,
 *Stories of the High-priests of Memphis* (Oxford, 1900), c. iii. The
 text of this story is written on the back of two Greek documents,
 bearing the date of the seventh year of the Emperor Claudius (A.D.
 46-7), not before published.
 
-<span id="fn_410"></span>[381:1](ffcc270.htm#fr_448) It is interesting
+<span id="fn_410"></span>[381:1](ffcc270.htm#fr_448.md) It is interesting
 to compare with this episode the episodes of how the magic of St.
 Patrick prevailed over the magic of the Druids when the old and the new
 religions met in warfare on the Hill of Tara, in the presence of the
 high king of Ireland and his court.
 
-<span id="fn_411"></span>[381:2](ffcc270.htm#fr_449) E. A. Wallis Budge,
+<span id="fn_411"></span>[381:2](ffcc270.htm#fr_449.md) E. A. Wallis Budge,
 *The Gods of the Egyptians* (London, 1904), p. 3.
 
-<span id="fn_412"></span>[381:3](ffcc270.htm#fr_450) Prescott, *Conquest
+<span id="fn_412"></span>[381:3](ffcc270.htm#fr_450.md) Prescott, *Conquest
 of Mexico* and *Conquest of Peru*.
 
-<span id="fn_413"></span>[381:4](ffcc270.htm#fr_452) W. Crooke, *The
+<span id="fn_413"></span>[381:4](ffcc270.htm#fr_452.md) W. Crooke, *The
 Legends of Krishna*, in *Folk-Lore*, xi. 2-3 ff.
 
-<span id="fn_414"></span>[382:1](ffcc270.htm#fr_453) *Laws of Manu*,
+<span id="fn_414"></span>[382:1](ffcc270.htm#fr_453.md) *Laws of Manu*,
 vii. 8, trans. by G. Bühler.
 
-<span id="fn_415"></span>[382:2](ffcc270.htm#fr_454) A. B. Cook,
+<span id="fn_415"></span>[382:2](ffcc270.htm#fr_454.md) A. B. Cook,
 *European Sky-God*, in *Folk-Lore*, XV. 301-4.
 
-<span id="fn_416"></span>[382:3](ffcc270.htm#fr_455) Cf. Lucian,
+<span id="fn_416"></span>[382:3](ffcc270.htm#fr_455.md) Cf. Lucian,
 *Somn.*, 17*,* &c. See Tylor, *Prim. Cult.,* ii. 13; also Tertullian,
 *De Anima*, c. xxviii, where Pythagoras is described as having
 previously been Aethalides, and Euphorbus, and the fisherman Pyrrhus.
 
-<span id="fn_417"></span>[383:1](ffcc270.htm#fr_456) Cf. Huc, *Souvenirs
+<span id="fn_417"></span>[383:1](ffcc270.htm#fr_456.md) Cf. Huc, *Souvenirs
 d'un voyage dans la Tartarie et le Thibet*, i. 279 ff.
 
-<span id="fn_418"></span>[383:2](ffcc270.htm#fr_457) The doctrine of
+<span id="fn_418"></span>[383:2](ffcc270.htm#fr_457.md) The doctrine of
 kingly rule by divine right was substituted after the conversion of the
 Roman Empire for the very ancient belief that the emperor was a god
 incarnate (not necessarily reincarnate); and the same christianized
 aspect of a pre-Christian doctrine stands behind the English kingship at
 the present day.
 
-<span id="fn_419"></span>[384:1](ffcc270.htm#fr_458) A curious parallel
+<span id="fn_419"></span>[384:1](ffcc270.htm#fr_458.md) A curious parallel
 to this Irish doctrine that through re-birth one suffers for the sins
 committed in a previous earth-life is found in the Christian scriptures,
 where in asking Jesus about a man born blind, 'Rabbi, who did sin, this
@@ -1736,7 +1736,7 @@ like the Celtic one. See St. John ix. 1-2. Though the Rabbis admitted
 the possibility of ante-natal sin in thought, this passage seems to
 point unmistakably to a Jewish re-birth doctrine.
 
-<span id="fn_420"></span>[385:1](ffcc270.htm#fr_459) It is interesting
+<span id="fn_420"></span>[385:1](ffcc270.htm#fr_459.md) It is interesting
 to note in connexion with these two complementary ideas what has been
 written by Mr. Standish O'Grady concerning strange phenomena witnessed
 at the time of Charles Parnell's funeral:--'While his followers were
@@ -1750,12 +1750,12 @@ id="page_386">p. 386</span> Christian Saint, Columba, overran the
 north-west of Europe, as perhaps truer than I had
 imagined*.*'--*Ireland: Her Story*, pp. 211-12.
 
-<span id="fn_421"></span>[386:1](ffcc270.htm#fr_460) Cf. M. Lenihan,
+<span id="fn_421"></span>[386:1](ffcc270.htm#fr_460.md) Cf. M. Lenihan,
 *Limerick; its History and Antiquities* (Dublin, 1866), p. 725.
 
-<span id="fn_422"></span>[388:1](ffcc270.htm#fr_461) I take this to
+<span id="fn_422"></span>[388:1](ffcc270.htm#fr_461.md) I take this to
 mean, somewhat as in the similar case of Dechtire, the mother of
-Cuchulainn (see [p. 369](#page_369), above), that the kind of soul or
+Cuchulainn (see [p. 369](#page_369), above.md), that the kind of soul or
 character which 'will be reincarnated in the child is determined by the
 psychic prenatal conditions which a mother consciously or unconsciously
 may set up. If this interpretation, as it seems to be, is correct, we
@@ -1765,17 +1765,17 @@ comes--which equals, and surpasses in its subtlety, the latest
 discoveries of our own psychological embryology, criminology, and
 so-called laws of heredity.
 
-<span id="fn_423"></span>[390:1](ffcc270.htm#fr_462) The reader is
+<span id="fn_423"></span>[390:1](ffcc270.htm#fr_462.md) The reader is
 referred to the Rev. T. M. Morgan's latest publication,, *The History
 and Antiquities of the Parish of Newchurch, Carmarthenshire*,
 Carmarthen, 1910), pp. 155-6.
 
-<span id="fn_424"></span>[392:1](ffcc270.htm#fr_463) I found, however,
+<span id="fn_424"></span>[392:1](ffcc270.htm#fr_463.md) I found, however,
 that the original re-birth doctrine has been either misinterpreted or
 else corrupted--after Dr. Tylor's theory--into transmigration into
 animal bodies among certain Cornish miners in the St. Just region.
 
-<span id="fn_425"></span>[394:1](ffcc270.htm#fr_464) The primitive
+<span id="fn_425"></span>[394:1](ffcc270.htm#fr_464.md) The primitive
 character of the Incarnation doctrine is clear: Origen, in refuting a
 Jewish accusation against Christians, apparently the natural outgrowth
 of deep-seated hatred and religious prejudice on the part of the Jews,
@@ -1804,11 +1804,11 @@ powers, therefore, I cast into the wombs of your mothers, when I came
 into the world, and they are those which are in your bodies this day'
 (*Pistis Sophia*, i. II, Mend's translation).
 
-<span id="fn_426"></span>[395:1](ffcc270.htm#fr_465) Cf. Nutt, *Voy. of
+<span id="fn_426"></span>[395:1](ffcc270.htm#fr_465.md) Cf. Nutt, *Voy. of
 Bran*, ii. 27 ff., 45 ff., 54 ff., 98-102.
 
-<span id="fn_427"></span>[395:2](ffcc270.htm#fr_466) Cf. Ib., p. 105.
+<span id="fn_427"></span>[395:2](ffcc270.htm#fr_466.md) Cf. Ib., p. 105.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Testimony of Archaeology](ffcc308)
+[Next: Chapter VIII. The Testimony of Archaeology](ffcc308.md)

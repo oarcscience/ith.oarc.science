@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale07)  [Next](tale09) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale07)  [Next](tale09.md) 
 
 ------------------------------------------------------------------------
 
@@ -328,4 +328,4 @@ that number of blows till their blood flows with my tears, I pitying
 them the while, and well they wot that their being scourged is no fault
 of mine and they accept my excuses. And this is my tale and my history!
 
-(*Next*) [THE TALE OF THE THREE APPLES](tale09)  
+(*Next*) [THE TALE OF THE THREE APPLES](tale09.md)  

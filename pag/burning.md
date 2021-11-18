@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../index)  [Internet Book of
-Shadows](../bos/index) [Neopaganism](index)
+[Intangible Textual Heritage](../index.md)  [Internet Book of
+Shadows](../bos/index) [Neopaganism](index.md)
 
 ------------------------------------------------------------------------
 

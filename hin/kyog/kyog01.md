@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](kyog00)  [Next](kyog02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](kyog00)  [Next](kyog02.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Karma-Yoga*, by Swami Vivekananda, \[1921\], at Intangible Textual
 Heritage
 
@@ -22,7 +22,7 @@ Heritage
 
 ### KARMA IN ITS EFFECT ON CHARACTER.
 
-The word Karma is derived from the [Sanskrit](errata.htm#0) *Kri*, to
+The word Karma is derived from the [Sanskrit](errata.htm#0.md) *Kri*, to
 do; all action is Karma. Technically, this word also means the effects
 of actions. In connection with metaphysics, it sometimes means the
 effects, of which our past actions were the causes. But in *Karma-Yoga*
@@ -294,6 +294,6 @@ manifest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Each Is Great In His Own Place](kyog02)
+[Next: Chapter II. Each Is Great In His Own Place](kyog02.md)
 
 </div>

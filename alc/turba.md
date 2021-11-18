@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](rbacon2)  [Next](turba2) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](rbacon2)  [Next](turba2.md) 
 
 ------------------------------------------------------------------------
 
@@ -1103,6 +1103,6 @@ in Nature, and overcomes, and constrains.
 
 ------------------------------------------------------------------------
 
-[Next: Turba Philosophorum (part 2)](turba2)
+[Next: Turba Philosophorum (part 2)](turba2.md)
 
   

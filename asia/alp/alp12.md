@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp11) 
-[Next](alp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp11.md) 
+[Next](alp13.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ No calm ever in that flood dwells
 
 ------------------------------------------------------------------------
 
-[Next: Yesternight I Walked Abroad](alp13)
+[Next: Yesternight I Walked Abroad](alp13.md)

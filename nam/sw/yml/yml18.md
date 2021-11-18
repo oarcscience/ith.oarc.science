@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml17)  [Next](yml19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml17)  [Next](yml19.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ very sad. LC
 
 ------------------------------------------------------------------------
 
-[Next: Five Friends of Takochai](yml19)
+[Next: Five Friends of Takochai](yml19.md)

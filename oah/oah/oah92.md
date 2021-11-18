@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah91)  [Next](oah93) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah91)  [Next](oah93.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ of soul leadeth downward forever! Remember this also, and be wise.
 Being one with Jehovih, they painted not themselves. Let thy soul
 practice with thy Creator, and thou shalt become one with Him, even His
 Son. Find thou the symmetry of flesh, the symmetry of the spirit; the
-harmony of music, <span id="fr_20"></span>[2](#fn_20) and consider
+harmony of music, <span id="fr_20"></span>[2](#fn_20.md) and consider
 wisely thy behavior.
 
 19\. The star of Jehovih is within thy soul; feed it, O man, and thou, O
@@ -123,11 +123,11 @@ and of great power in him who forgetteth himself in laboring for others.
 
 ### Footnotes
 
-<span id="fn_20"></span>[119:2](oah92.htm#fr_20) Music here refers to
+<span id="fn_20"></span>[119:2](oah92.htm#fr_20.md) Music here refers to
 general expression or action; in other words, gracefulness in all
 things. The ancient Greeks gave a similar interpretation to the word
 music.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](oah93)
+[Next: Chapter VI](oah93.md)

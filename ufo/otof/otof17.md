@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof16)  [Next](otof18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof16)  [Next](otof18.md) 
 
 ------------------------------------------------------------------------
 
@@ -622,4 +622,4 @@ their lips talk of mischief." These are *The Guessers!* 
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8. The Remnant](otof18)
+[Next: Chapter 8. The Remnant](otof18.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](shb00)  [Next](shb02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](shb00)  [Next](shb02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -32,7 +32,7 @@ becomes aware by making it pending. All the above-mentioned persons are
 atoned for by the exported he-goats for all other transgressions without
 any difference, etc. Such is the custom of the divine attribute of
 justice, that the righteous atone for the wicked and not that the wicked
-atone for another wicked, [1](shb02.htm#page_1)-16
+atone for another wicked, [1](shb02.htm#page_1.md)-16
 
 ### CHAPTER II.
 
@@ -49,7 +49,7 @@ children of Israel from their uncleanness," whence you derive the
 warning that the children of Israel should separate themselves from
 their wives near the period of menstruation, etc. If there were two
 paths one of which was unclean (but it was not certain which one), and
-one passed through one of them entering, etc. [17](shb03.htm#page_17)-26
+one passed through one of them entering, etc. [17](shb03.htm#page_17.md)-26
 
 ### CHAPTER III.
 
@@ -86,7 +86,7 @@ oath, etc. If one says I swear not to eat *this* bread, in case I eat
 the other, etc. Which is false swearing? If one swears that something is
 different from what it is known by everybody to be. The provisions
 regarding uttered swearing apply to males, females, to kindred,
-non-kindred, etc. [27](shb04.htm#page_27)-46
+non-kindred, etc. [27](shb04.htm#page_27.md)-46
 
 ### CHAPTER IV.
 
@@ -110,7 +110,7 @@ Abraham are holy, etc. Amen embraces oath, acceptance and confidence,
 etc. Nay means oath and yea means also an oath, etc. R. Kama, while
 sitting before R. Jehudah, repeated the Mishna in its own language, and
 he said to him: "Change the language and use it in the third person,
-[46](shb04.htm#page_46)-65
+[46](shb04.htm#page_46.md)-65
 
 ### CHAPTER V.
 
@@ -127,7 +127,7 @@ If one denies money when there are witnesses, he is subject to an oath,
 but is free from such if there is a document. How is it if five persons
 claim the four articles and he says to one of them I swear that thou
 hast not with me a deposit, etc., and not thou and not thou, etc.
-[66](shb05.htm#page_66)-74
+[66](shb05.htm#page_66.md)-74
 
 ### CHAPTER VI.
 
@@ -152,7 +152,7 @@ swear to the following: To slaves written documents, etc. One swears but
 to things capable of being measured, weighed and counted. How so? If one
 lends to his neighbor on a pledge, and the pledge got lost, etc. If one
 lends to his neighbor 1,000 zuz, and pledges them the handle of a scythe
-only, etc. [75](shb06.htm#page_75)-93
+only, etc. [75](shb06.htm#page_75.md)-93
 
 ### CHAPTER VII.
 
@@ -167,15 +167,15 @@ witnesses contradicting each other, each party may appear and testify
 for itself. Let the master conjoin with us in nullifying the statement
 of Rabh and Samuel. It once happened that B, who had borrowed money of A
 through a surety and on a document died, etc.
-[93](shb08.htm#page_93)-105
+[93](shb08.htm#page_93.md)-105
 
 ### CHAPTER VIII.
 
 MISHNA I. There are four kinds of bailees, gratuitous, on hire, borrower
 and hirer, etc. This is the rule: "Whoever tends to commutate, by his
 oath liability to liability, unliability to unability, or unability to
-liability is free, etc. Appendix, [106](shb09.htm#page_106)-108.
+liability is free, etc. Appendix, [106](shb09.htm#page_106.md)-108.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](shb02)
+[Next: Chapter I](shb02.md)

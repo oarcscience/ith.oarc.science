@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos11)  [Next](flos13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos11)  [Next](flos13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -81,7 +81,7 @@ In the "Rape of Lucrece" (1. 1774) the same expression is used—
 
 In Beaumont and Fletcher's "Wild Goose Chase" (iv. 3), we read—"For till
 they be key-cold dead, there's no trusting of ’em." <span
-id="fr_594"></span>[1](#fn_592)
+id="fr_594"></span>[1](#fn_592.md)
 
    Another common remedy was the one alluded to in "King Lear" (iii. 7),
 where one of the servants says—
@@ -100,7 +100,7 @@ can be." Mr Gifford, however, has shown the incorrectness of this
 assertion, pointing out that Jonson's play was written in 1599, some
 years before "King Lear" appeared, while the allusion is "to a method of
 cure common in Jonson's time to every barber-surgeon and old woman in
-the kingdom." <span id="fr_595"></span>[2](#fn_593)
+the kingdom." <span id="fr_595"></span>[2](#fn_593.md)
 
    Cobwebs are still used to staunch the bleeding from small wounds, and
 Bottom's words seem to refer to this remedy of domestic surgery—"I shall
@@ -143,20 +143,20 @@ not.
 </div>
 
 It probably means very dim-sighted, <span
-id="fr_596"></span>[1](#fn_594) and in Nares’ "Glossary" <span
-id="fr_597"></span>[2](#fn_595) it is thus explained:—"Having an
+id="fr_596"></span>[1](#fn_594.md) and in Nares’ "Glossary" <span
+id="fr_597"></span>[2](#fn_595.md) it is thus explained:—"Having an
 imperfect sight, as if there was sand in the eye." The expression is
 used by Beaumont and Fletcher in "Love's Cure" (ii. 1)—"Why, signors,
 and my honest neighbours, will you impute that as a neglect of my
 friends, which is an imperfection in me? I have been *sand-blind* from
 my infancy." The term was probably one in vulgar use. <span
-id="fr_598"></span>[3](#fn_596)
+id="fr_598"></span>[3](#fn_596.md)
 
    *Blister*.—In the following passage of "Timon of Athens" (v. 1),
 Timon appears to refer to the old superstition that a lie produces a
 blister on the tongue, though in the malice of his rage he imprecates
 the minor punishment on truth, and the old surgery of cauterization on
-falsehood <span id="fr_599"></span>[4](#fn_597)—
+falsehood <span id="fr_599"></span>[4](#fn_597.md)—
 
 <div style="margin-left: 32px">
 
@@ -177,7 +177,7 @@ compare the passage in "Winter's Tale" (ii. 2), where Paulina declares—
 
 <span class="small">"If I prove honey-mouth’d, let my tongue blister  
  And never to my red-look’d anger be  
- The trumpet any more." <span id="fr_600"></span>[1](#fn_598)</span>
+ The trumpet any more." <span id="fr_600"></span>[1](#fn_598.md)</span>
 
 </div>
 
@@ -203,10 +203,10 @@ bruise* lamb-stones and sweetbreads are his only spermaceti." A
 well-known plant called the "Shepherd's Purse," has been popularly
 nicknamed the "Poor Man's Parmacetti," being a joke on the Latin word
 *bursa*, a purse, which, to a poor man, is always the best remedy for
-his bruises. <span id="fr_601"></span>[2](#fn_599) In "Romeo and Juliet"
+his bruises. <span id="fr_601"></span>[2](#fn_599.md) In "Romeo and Juliet"
 (i. 2), a plantain leaf is pronounced to be an excellent cure "for your
 broken shin." "Plantain water was a remedy in common use with the old
-surgeons." <span id="fr_602"></span>[3](#fn_600)
+surgeons." <span id="fr_602"></span>[3](#fn_600.md)
 
    *Burn*.—The notion of one heat driving out another gave rise to the
 old-fashioned custom of placing a burnt part
@@ -214,11 +214,11 @@ old-fashioned custom of placing a burnt part
 <span id="page_253">p. 253</span>
 
 near the fire to drive out the fire,—a practice, says Dr Bucknill, <span
-id="fr_603"></span>[1](#fn_601) certainly not without benefit, acting on
+id="fr_603"></span>[1](#fn_601.md) certainly not without benefit, acting on
 the same principle as the application of turpentine and other stimulants
 to recent burns. This was one of the many instances of the ancient
 homoeopathic doctrine, that what hurts will also cure. <span
-id="fr_604"></span>[2](#fn_602) Thus, in "King John" (iii. 1), Pandulph
+id="fr_604"></span>[2](#fn_602) Thus, in "King John" (iii. 1.md), Pandulph
 speaks of it:—
 
 <div style="margin-left: 32px">
@@ -277,14 +277,14 @@ pin and web but theirs," and in "King Lear" (iii. 4), alluding to
 
 <span class="contnote">\[paragraph continues\]</span> "the foul fiend
 Flibbertigibbet," says "he gives the web and the pin." <span
-id="fr_605"></span>[1](#fn_603) Acerbi, in his "Travels" (ii. 290), has
+id="fr_605"></span>[1](#fn_603) Acerbi, in his "Travels" (ii. 290.md), has
 given the Lapland method of cure for this disease. In a fragment of an
 old medical treatise, it is thus described:—"Another sykenes ther byth
 of *yezen;* *on a webbe*, a nother a wem, that hydyth the myddel of the
 yezen; and this hes to maners, other whilys he is white and thynne, and
 other whilys he is thykke, as whenne the obtalmye ne is noght clene
 yhelyd up, bote the rote abydyth stylle. Other whilys the webbe is noght
-white but rede, other blake." <span id="fr_606"></span>[2](#fn_604) In
+white but rede, other blake." <span id="fr_606"></span>[2](#fn_604.md) In
 the Statute of the 34 and 35 of "Henry VIII." a pin and web in the eye
 is recited among the "customable diseases," which honest persons, not
 being surgeons, might treat with herbs, roots, and waters, with the
@@ -353,7 +353,7 @@ are deprecated by Oberon from the issue of the happy lovers:—
   Nor mark prodigious, such as are  
  Despised in nativity,  
  Shall upon their children be." <span
-id="fr_607"></span>[1](#fn_605)</span>
+id="fr_607"></span>[1](#fn_605.md)</span>
 
 </div>
 
@@ -379,7 +379,7 @@ being void of natural affection, and so they have their revenge on
 nature."
 
    *Drowning*.—The old superstition <span
-id="fr_608"></span>[2](#fn_606) of its being dangerous to save a person
+id="fr_608"></span>[2](#fn_606.md) of its being dangerous to save a person
 from drowning is supposed, says Mr Halliwell-Phillipps, to be alluded to
 in "Twelfth Night." It was owing to the belief that the person saved
 would sooner or later injure the man who saved him. Thus, in Sir Walter
@@ -413,7 +413,7 @@ And honest Casca, we have the falling sickness."</span>
    *Fistula*.—At the present day a fistula means an abscess external to
 the rectum, but in Shakespeare's day it was used in the more general
 signification for a burrowing abscess in any situation. <span
-id="fr_609"></span>[1](#fn_607) The play of "All's Well that Ends Well"
+id="fr_609"></span>[1](#fn_607.md) The play of "All's Well that Ends Well"
 has a special interest, because, as Dr Bucknill says, its very plot may
 be said to be medical. "The orphan daughter of a physician cures the
 king of a fistula by means of a secret remedy left to her as a great
@@ -422,7 +422,7 @@ among the nobles of the court, and 'thereby hangs the tale.'" The story
 is taken from the tale of Gilletta of Narbonne, in the Decamerone of
 Boccaccio. It came to Shakespeare through the medium of Painter's
 "Palace of Pleasure," and is to be found in the first volume, which was
-printed as early as 1566. <span id="fr_610"></span>[2](#fn_608) The
+printed as early as 1566. <span id="fr_610"></span>[2](#fn_608.md) The
 story is thus introduced by Shakespeare in the following dialogue (i.
 1), where the Countess of Rousillon is represented as inquiring:—
 
@@ -431,7 +431,7 @@ story is thus introduced by Shakespeare in the following dialogue (i.
 <span class="small">"What hope is there of his majesty's amendment?  
  *Lafeu*. He hath abandoned his physicians, madam; under whose practices
 he hath persecuted time with hope; and finds no other
-[advantage](errata.htm#8) in the process but only the losing of hope by
+[advantage](errata.htm#8.md) in the process but only the losing of hope by
 time.  
  *Count*. This young gentlewoman had a father—O, that 'had!' how sad a
 passage ’tis!—whose skill was almost as great as his honesty;</span>
@@ -474,7 +474,7 @@ While she chats him."</span>
 
    Steevens quotes from the "Hospital for London's Follies" (1602) where
 Gossip Luce says.—"Your darling will weep itself into a rapture, if you
-take not good heed." <span id="fr_611"></span>[1](#fn_609)
+take not good heed." <span id="fr_611"></span>[1](#fn_609.md)
 
    *Gold*.—It was a long prevailing opinion that a solution of gold had
 great medicinal virtues; and that the incorruptibility of the metal
@@ -573,7 +573,7 @@ and probably alludes to the *Morbus Gallicus*. Thus, in "King Lear (v.
 With the corruption, however, of the spelling, the word lost in time its
 real meaning, and it is consequently found in passages where a sense
 opposite to the true one is intended. <span
-id="fr_612"></span>[1](#fn_610) It was often used in exclamations, as in
+id="fr_612"></span>[1](#fn_610.md) It was often used in exclamations, as in
 "Merry Wives of Windsor" (i. 4)—
 
 <div style="margin-left: 32px">
@@ -620,7 +620,7 @@ following lines in "King Lear" (ii. 4), where he makes the king say—
 
 he had in view the subjoined passages from Harsnet's "Declaration of
 Popish Impostures" (1603), a work which, it has been suggested, <span
-id="fr_613"></span>[2](#fn_611) "he may have consulted in order to
+id="fr_613"></span>[2](#fn_611.md) "he may have consulted in order to
 
 <span id="page_260">p. 260</span>
 
@@ -700,7 +700,7 @@ It is alluded to also in "Twelfth Night" (i. 1), where the Duke says:—
 
    While on this subject, we may quote the following dialogue from the
 same play (ii. 3), which, as Dr Bucknill <span
-id="fr_614"></span>[1](#fn_612) remarks, "involves the idea that
+id="fr_614"></span>[1](#fn_612.md) remarks, "involves the idea that
 contagion is bound up with something appealing to the sense of smell, a
 mellifluous voice being miscalled contagious; unless one could apply one
 organ to the functions of another, and thus admit contagion, not through
@@ -720,11 +720,11 @@ knight.
 increased by the full moon. Shakespeare mentions this popular fallacy in
 "Othello" (v. 2), where he tells us that the moon makes men insane, when
 she comes nearer the earth than she was wont. <span
-id="fr_615"></span>[2](#fn_613)
+id="fr_615"></span>[2](#fn_613.md)
 
    Music, as a cure for madness, is perhaps referred to in "King Lear"
 (iv. 7), where the physician of King Lear says:—"Louder the musick
-there." <span id="fr_616"></span>[3](#fn_614) Mr Singer, however, has
+there." <span id="fr_616"></span>[3](#fn_614.md) Mr Singer, however, has
 this note:—"Shakespeare considered soft music favourable to sleep. Lear,
 we may suppose, had been thus composed to rest; and now the physician
 desires louder music to be played, for the purpose of waking him."
@@ -744,7 +744,7 @@ earliest times, and in mental cases has often
 
 <span id="page_262">p. 262</span>
 
-been highly efficacious. <span id="fr_617"></span>[1](#fn_615) Referring
+been highly efficacious. <span id="fr_617"></span>[1](#fn_615.md) Referring
 to music as inducing sleep, we may quote the touching passage in "2
 Henry IV." (iv. 5), where the King says:—
 
@@ -830,7 +830,7 @@ continues\]</span> Such sanctity hath heaven given his hand—
 This reference, which has nothing to do with the progress of the drama,
 is introduced obviously in compliment to King James, who fancied himself
 endowed with the confessor's powers. <span
-id="fr_618"></span>[1](#fn_616) The poet found authority for the passage
+id="fr_618"></span>[1](#fn_616.md) The poet found authority for the passage
 in Holinshed (i. 279)—"As hath bin thought, he was enspired with the
 gift of prophecie, and also to haue hadde the gift of healing
 infirmities and diseases. Namely, he vsed to help those that were vexed
@@ -858,14 +858,14 @@ probably about that time that Johnson was touched by her Majesty, upon
 the recommendation of the celebrated physician Sir John Floyer, of
 Lichfield. King George I. put an end to this practice, which is said to
 have originated with Edward the Confessor in 1058. <span
-id="fr_619"></span>[1](#fn_617) The custom was also observed by French
+id="fr_619"></span>[1](#fn_617.md) The custom was also observed by French
 kings, and on Easter Sunday, 1686, Louis XIV. is said to have touched
 1600 persons.
 
    *Lethargy*.—This is frequently confounded by medical men of former
 times, and by Shakespeare himself, with apoplexy. The term occurs in the
 list of diseases quoted by Thersites in "Troilus and Cressida" (v.
-1). <span id="fr_620"></span>[2](#fn_618)
+1). <span id="fr_620"></span>[2](#fn_618.md)
 
    *Leprosy*.—This was in years gone by used to denote the *lues
 venerea*, as in "Antony and Cleopatra" (iii. 8)—
@@ -946,7 +946,7 @@ Thus, for instance, Massinger in "The Picture" (iv. 2), says:—
    *Mummy*.—This was a preparation, for magical purposes, made from dead
 bodies, and was used as a medicine both long before and long after
 Shakespeare's day. Its virtues seem to have been chiefly imaginary, and
-even the traffic of it fraudulent. <span id="fr_621"></span>[1](#fn_619)
+even the traffic of it fraudulent. <span id="fr_621"></span>[1](#fn_619.md)
 The preparation of mummy is said to have been first brought into use in
 medicine by a Jewish physician, who wrote that flesh thus embalmed was
 good for the cure of divers diseases, and particularly bruises, to
@@ -957,7 +957,7 @@ Lyons, or even directly from the Levant by Alexandria, is factitious,
 the work of certain Jews, who counterfeit it by drying carcases in
 ovens, after having prepared them with powder of Myrrh, caballine aloes,
 Jewish pitch, and other coarse or unwholesome drugs." <span
-id="fr_622"></span>[2](#fn_620) Shakespeare speaks of this preparation.
+id="fr_622"></span>[2](#fn_620.md) Shakespeare speaks of this preparation.
 Thus Othello (iii. 4),
 
 <span id="page_266">p. 266</span>
@@ -986,7 +986,7 @@ Vomit you up i’ the kennel."</span>
 </div>
 
 Sir Thomas Browne, in his interesting Fragment on Mummies, <span
-id="fr_623"></span>[1](#fn_621) tells us that Francis the First always
+id="fr_623"></span>[1](#fn_621.md) tells us that Francis the First always
 carried mummy with him as a panacea against all disorders. Some used it
 for epilepsy, some for gout, some used it as a stiptic. He further adds:
 "The common opinion of the virtues of mummy bred great consumption
@@ -1000,7 +1000,7 @@ countries for the prevention of nightmare, many of which are exceedingly
 quaint. In days gone by it appears that St Vitalis, whose name has been
 corrupted into St. Withold, was invoked; and by way of illustration
 Theobald quotes from the old play of "King John" <span
-id="fr_624"></span>[2](#fn_622) the following:—
+id="fr_624"></span>[2](#fn_622.md) the following:—
 
 <div style="margin-left: 32px">
 
@@ -1024,7 +1024,7 @@ refers to the same Saint, and gives us a curious old charm:—
 
 <span id="page_267">p. 267</span>
 
-For what purpose, as Mr Singer <span id="fr_625"></span>[1](#fn_623) has
+For what purpose, as Mr Singer <span id="fr_625"></span>[1](#fn_623.md) has
 pointed out, the incubus is enjoined to "plight her troth" will appear
 from a charm against the nightmare in Reginald Scot's "Discovery of
 Witchcraft," which occurs with slight variation in Fletcher's "Monsieur
@@ -1043,7 +1043,7 @@ Thomas" (iv. 6):—
 
    *Paralysis*.—An old term for chronic paralysis was "cold palsies,"
 which is used by Thersites in "Troilus and Cressida" (v. 1). <span
-id="fr_626"></span>[2](#fn_624)
+id="fr_626"></span>[2](#fn_624.md)
 
    *Philosopher's Stone*.—This was supposed by its touch to convert base
 metal into gold. It is noticed by Shakespeare in "Antony and Cleopatra"
@@ -1071,7 +1071,7 @@ philosopher, with two stones moe than's artificial one," etc., a passage
 which Johnson explains as meaning "more than the philosopher's stone,"
 or twice the value of a philosopher's stone; though, as Farmer observes,
 "Gower has a chapter in his 'Confessio Amantis,' of the three stones
-that philosophers made." Singer, <span id="fr_627"></span>[3](#fn_625)
+that philosophers made." Singer, <span id="fr_627"></span>[3](#fn_625.md)
 in his note on the philosopher's stone, says
 
 <span id="page_268">p. 268</span>
@@ -1079,7 +1079,7 @@ in his note on the philosopher's stone, says
 that Sir Thomas Smith was one of those who lost considerable sums in
 seeking of it. Sir Richard Steele was one of the last eminent men who
 entertained hopes of being successful in this pursuit. His laboratory
-was at Poplar. <span id="fr_628"></span>[1](#fn_626)
+was at Poplar. <span id="fr_628"></span>[1](#fn_626.md)
 
    *Pimple*.—In the Midland Counties a common name for a pimple, which
 by rubbing is made to smart, or rubbed to sense, is "a quat." The word
@@ -1192,7 +1192,7 @@ olden days, of great persons having their food tasted by those who were
 supposed to have made themselves acquainted with its wholesomeness. This
 practice, however, could not always afford security when the taster was
 ready to sacrifice his own life, as in the present case <span
-id="fr_629"></span>[1](#fn_627):—
+id="fr_629"></span>[1](#fn_627.md):—
 
 <div style="margin-left: 32px">
 
@@ -1210,7 +1210,7 @@ monk:
 secret how to temper poison with such art as not to operate till several
 years after they were administered. Their drugs were then as certain in
 their effect as subtle in their preparation. <span
-id="fr_630"></span>[1](#fn_628) Thus, in the "Tempest," (iii. 3),
+id="fr_630"></span>[1](#fn_628) Thus, in the "Tempest," (iii. 3.md),
 Gonzalo says of the fiends:—
 
 <div style="margin-left: 32px">
@@ -1224,7 +1224,7 @@ guilt,
 
    The belief, also, in slow poisoning was general in bygone times,
 although no better founded on fact, remarks Dr Bucknill, <span
-id="fr_631"></span>[2](#fn_629) than the notion that persons burst with
+id="fr_631"></span>[2](#fn_629.md) than the notion that persons burst with
 poison, or that narcotics could, like an alarum clock, be set for a
 certain number of hours. So in "Cymbeline," (v. 5), Cornelius relates to
 the king the queen's confession:—
@@ -1246,7 +1246,7 @@ the plague or other infections, as well as for an article of luxury.
 There is an allusion to its use in "The Winter's Tale," (iv. 3), by
 Autolycus, who enumerates it among all his trumpery that he had sold.
 The following recipe for making a pomander we find in an old play <span
-id="fr_632"></span>[3](#fn_630):—"Your only way to make a pomander is
+id="fr_632"></span>[3](#fn_630.md):—"Your only way to make a pomander is
 this,—take an ounce of the purest garden mould, cleans’d and steep’d
 seven days in change of motherless rose-water. Then take the best
 labdanum, benjoin, with storaxes, ambergris, civet, and musk.
@@ -1264,7 +1264,7 @@ described:—"He hath verie much distempored divers parts of his bodie; as
 namelie, his heade, his stomack, &c., and thereby is always subject to
 distillacions, coughes, and other rumatick diseases." Among the many
 superstitions relating to the moon, <span
-id="fr_633"></span>[1](#fn_631) one is mentioned in "A Midsummer Night's
+id="fr_633"></span>[1](#fn_631.md) one is mentioned in "A Midsummer Night's
 Dream," (ii. 1), where Titania tells how the moon—
 
 <div style="margin-left: 32px">
@@ -1279,7 +1279,7 @@ or peevish, as in "2 Henry IV.," (ii. 4), where the hostess says:—"You
 two never meet but you fall to some discord: you are both, i’ good
 truth, as rheumatic as two dry toasts." Again, in "Henry V.," (ii. 3),
 the hostess says of Falstaff:—"A’ did in some sort, indeed, handle
-women; but then he was rheumatic, <span id="fr_634"></span>[2](#fn_632)
+women; but then he was rheumatic, <span id="fr_634"></span>[2](#fn_632.md)
 and talked of the whore of Babylon."
 
    *Serpigo*.—This appears to have been a term extensively used by old
@@ -1356,7 +1356,7 @@ our ancestors, that its name was used as an imprecation. Thus, in
 olden times, an important point of diagnosis. Thus in "2 Henry IV." (i.
 2), Falstaff exclaims against fighting on a hot day, and wishes he may
 "never spit white again," should it so happen. <span
-id="fr_635"></span>[1](#fn_633)
+id="fr_635"></span>[1](#fn_633.md)
 
    *Sterility*.—The charm against sterility referred to by Cæsar in
 "Julius Cæsar" (i. 2), is copied from Plutarch, who, in his description
@@ -1397,7 +1397,7 @@ belief—
     *Leonata*. Where is but a humour or a worm."
 
 This notion was some years ago prevalent in Derbyshire, <span
-id="fr_636"></span>[1](#fn_634) where there was an odd way of
+id="fr_636"></span>[1](#fn_634.md) where there was an odd way of
 extracting, as it was thought, the worm. A small quantity of a mixture,
 consisting of dry and powdered herbs, was placed in some small vessel,
 into which a live coal from the fire was dropped. The patient then held
@@ -1435,7 +1435,7 @@ beginning—
 </div>
 
 It is found, too, even in China and New Zealand, <span
-id="fr_637"></span>[1](#fn_635) the following charm being used in the
+id="fr_637"></span>[1](#fn_635.md) the following charm being used in the
 latter country—
 
 <div style="margin-left: 32px">
@@ -1459,7 +1459,7 @@ submitted to the process, but in a very sort time compelled the doctress
 to subsist, by the excessive precautions they took against imposition."
 We may further note that John of Gatisden, one of our oldest medical
 authors, attributes decay of the teeth to "a humour or a worm." In his
-"Rosa Anglica," <span id="fr_638"></span>[2](#fn_636) he says—"Si vermes
+"Rosa Anglica," <span id="fr_638"></span>[2](#fn_636.md) he says—"Si vermes
 sint in dentibus, ℞, semen porri, seu lusquiami contere et misce cum
 cera, pone super carbones, et fumus recipiatur per embotum, quoniam
 sanat. Solum etiam semen lusquiami valet coctum in aqua calida, supra
@@ -1474,7 +1474,7 @@ for a considerable time, accompanied with strict
 <span id="page_275">p. 275</span>
 
 abstinence, was thought necessary for the cure of venereal taint." <span
-id="fr_639"></span>[1](#fn_637) Thus, in "Timon of Athens" (iv. 3),
+id="fr_639"></span>[1](#fn_637) Thus, in "Timon of Athens" (iv. 3.md),
 Timon says to Timandra—
 
 <div style="margin-left: 32px">
@@ -1534,13 +1534,13 @@ poet's mind
 
 to drink up a quantity of which would be an extreme pass of amorous
 demonstration." It has been suggested by a correspondent of "Notes and
-Queries" <span id="fr_640"></span>[1](#fn_638) that the reference in
+Queries" <span id="fr_640"></span>[1](#fn_638.md) that the reference in
 this passage from "Hamlet" is to a lake Esyl which figures in
 Scandinavian legends. Messrs Wright and Clark, however, in their Notes
 to "Hamlet" (1876, p. 218), say that they have consulted Mr Magnusson on
 this point, and 'he writes as follows:—"No such lake as Esyl is known to
 Norse mythology and folk-lore." Steevens supposes it to be the river
-Yssell. <span id="fr_641"></span>[2](#fn_639)
+Yssell. <span id="fr_641"></span>[2](#fn_639.md)
 
    *Water-casting*.—The fanciful notion of recognising diseases by the
 mere inspection of the urine was denounced years ago by an old statute
@@ -1573,7 +1573,7 @@ your malady."</span>
 </div>
 
    This singular pretence, says Dr Bucknill, <span
-id="fr_642"></span>[3](#fn_640) is "alleged to have arisen, like the
+id="fr_642"></span>[3](#fn_640.md) is "alleged to have arisen, like the
 barber surgery, from the ecclesiastical
 
 <span id="page_277">p. 277</span>
@@ -1613,25 +1613,25 @@ water-doctor!"
 
 ### Footnotes
 
-<span id="fn_592"></span>[250:1](flos12.htm#fr_594) See Nares’
+<span id="fn_592"></span>[250:1](flos12.htm#fr_594.md) See Nares’
 "Glossary," ii. p. 482; also Brand's "Pop. Antiq." 1849, iii. p. 311;
 Henderson's "Folk-Lore of Northern Counties," 1879, pp. 168, 169.
 
-<span id="fn_593"></span>[250:2](flos12.htm#fr_595) Aldis Wright's Notes
+<span id="fn_593"></span>[250:2](flos12.htm#fr_595.md) Aldis Wright's Notes
 to "King Lear," 1877, p. 179.
 
-<span id="fn_594"></span>[251:1](flos12.htm#fr_596) Dyce's "Glossary,"
+<span id="fn_594"></span>[251:1](flos12.htm#fr_596.md) Dyce's "Glossary,"
 p. 381, cf. the word "Berlué, pur-blinded, made sand-blind," Cotgrave's
 "Fr. and Eng. Dict."
 
-<span id="fn_595"></span>[251:2](flos12.htm#fr_597) ii. p. 765.
+<span id="fn_595"></span>[251:2](flos12.htm#fr_597.md) ii. p. 765.
 
-<span id="fn_596"></span>[251:3](flos12.htm#fr_598) Bucknill's "Medical
+<span id="fn_596"></span>[251:3](flos12.htm#fr_598.md) Bucknill's "Medical
 Knowledge of Shakespeare," p. 93.
 
-<span id="fn_597"></span>[251:4](flos12.htm#fr_599) Ibid, p. 258.
+<span id="fn_597"></span>[251:4](flos12.htm#fr_599.md) Ibid, p. 258.
 
-<span id="fn_598"></span>[252:1](flos12.htm#fr_600) Cf., too, "Love's
+<span id="fn_598"></span>[252:1](flos12.htm#fr_600.md) Cf., too, "Love's
 Labour's Lost" (v. 2)—
 
 <div style="margin-left: 32px">
@@ -1641,138 +1641,138 @@ Labour's Lost" (v. 2)—
 
 </div>
 
-<span id="fn_599"></span>[252:2](flos12.htm#fr_601) Dr Prior's "Popular
+<span id="fn_599"></span>[252:2](flos12.htm#fr_601.md) Dr Prior's "Popular
 Names of British Plants," 1870, p. 185.
 
-<span id="fn_600"></span>[252:3](flos12.htm#fr_602) "The Medical
+<span id="fn_600"></span>[252:3](flos12.htm#fr_602.md) "The Medical
 Knowledge of Shakspeare," 1860, p. 78.
 
-<span id="fn_601"></span>[253:1](flos12.htm#fr_603) "The Medical
+<span id="fn_601"></span>[253:1](flos12.htm#fr_603.md) "The Medical
 Knowledge of Shakespeare," p. 65.
 
-<span id="fn_602"></span>[253:2](flos12.htm#fr_604) See Tylor's
+<span id="fn_602"></span>[253:2](flos12.htm#fr_604.md) See Tylor's
 "Primitive Culture," i. p. 761.
 
-<span id="fn_603"></span>[254:1](flos12.htm#fr_605) See Nares’
+<span id="fn_603"></span>[254:1](flos12.htm#fr_605.md) See Nares’
 "Glossary" ii. pp. 660, 661; Dyce's "Glossary," p. 322.
 
-<span id="fn_604"></span>[254:2](flos12.htm#fr_606) Quoted in Singer's
+<span id="fn_604"></span>[254:2](flos12.htm#fr_606.md) Quoted in Singer's
 "Shakespeare."
 
-<span id="fn_605"></span>[255:1](flos12.htm#fr_607) Cf. "King John"
+<span id="fn_605"></span>[255:1](flos12.htm#fr_607.md) Cf. "King John"
 (iii. 1) where Constance gives a catalogue of congenital defects.
 
-<span id="fn_606"></span>[255:2](flos12.htm#fr_608) "Handbook Index to
+<span id="fn_606"></span>[255:2](flos12.htm#fr_608.md) "Handbook Index to
 the Works of Shakespeare," p. 150; see "Notes and Queries" for
 superstitions connected with drowning, 5th series, ix. pp. 111, 228,
 478, 516; x. pp. 38, 276; xi. pp. 119, 278.
 
-<span id="fn_607"></span>[256:1](flos12.htm#fr_609) Dr Bucknill's
+<span id="fn_607"></span>[256:1](flos12.htm#fr_609.md) Dr Bucknill's
 "Medical Knowledge of Shakespeare," p. 95.
 
-<span id="fn_608"></span>[256:2](flos12.htm#fr_610) Singer's
+<span id="fn_608"></span>[256:2](flos12.htm#fr_610.md) Singer's
 "Shakespeare," iii. p. 225.
 
-<span id="fn_609"></span>[257:1](flos12.htm#fr_611) See Singer's
+<span id="fn_609"></span>[257:1](flos12.htm#fr_611.md) See Singer's
 "Shakespeare," vii. p. 347.
 
-<span id="fn_610"></span>[259:1](flos12.htm#fr_612) Wright's Notes to
+<span id="fn_610"></span>[259:1](flos12.htm#fr_612.md) Wright's Notes to
 "King Lear," 1877, p. 196.
 
-<span id="fn_611"></span>[259:2](flos12.htm#fr_613) Singer's
+<span id="fn_611"></span>[259:2](flos12.htm#fr_613.md) Singer's
 "Shakspeare," pp. 384, 385; Wright's Notes to "King Lear," pp. 154, 155.
 
-<span id="fn_612"></span>[261:1](flos12.htm#fr_614) "Medical Knowledge
+<span id="fn_612"></span>[261:1](flos12.htm#fr_614.md) "Medical Knowledge
 of Shakespeare," p. 121.
 
-<span id="fn_613"></span>[261:2](flos12.htm#fr_615) See p. 70.
+<span id="fn_613"></span>[261:2](flos12.htm#fr_615.md) See p. 70.
 
-<span id="fn_614"></span>[261:3](flos12.htm#fr_616) Halliwell-Phillipps’
+<span id="fn_614"></span>[261:3](flos12.htm#fr_616.md) Halliwell-Phillipps’
 "Handbook Index to Shakespeare," 1866, p. 333
 
-<span id="fn_615"></span>[262:1](flos12.htm#fr_617) "A Book of Musical
+<span id="fn_615"></span>[262:1](flos12.htm#fr_617.md) "A Book of Musical
 Anecdote" by F. Crowest, 1878, ii. 251, 252.
 
-<span id="fn_616"></span>[263:1](flos12.htm#fr_618) See Beckett's "Free
+<span id="fn_616"></span>[263:1](flos12.htm#fr_618.md) See Beckett's "Free
 and Impartial Enquiry into the Antiquity and Efficacy of Touching for
 the King's Evil," 1722.
 
-<span id="fn_617"></span>[264:1](flos12.htm#fr_619) See "Notes and
+<span id="fn_617"></span>[264:1](flos12.htm#fr_619.md) See "Notes and
 Queries," 1861, 2nd Series, xi., p. 71; Burns' "History of Parish
 Registers," 1862, pp. 179, 180; Pettigrew's "Superstitions connected
 with Medicine and Surgery," 1844, pp. 117–154.
 
-<span id="fn_618"></span>[264:2](flos12.htm#fr_620) Bucknill's "Medical
+<span id="fn_618"></span>[264:2](flos12.htm#fr_620.md) Bucknill's "Medical
 Knowledge of Shakespeare," p. 235.
 
-<span id="fn_619"></span>[265:1](flos12.htm#fr_621) See Pettigrew's
+<span id="fn_619"></span>[265:1](flos12.htm#fr_621.md) See Pettigrew's
 "History of Mummies," 1834; also Gannal, "Traité d’Embaumement," 1838.
 
-<span id="fn_620"></span>[265:2](flos12.htm#fr_622) Rees "Encyclopædia,"
+<span id="fn_620"></span>[265:2](flos12.htm#fr_622.md) Rees "Encyclopædia,"
 1829, vol. xxiv.
 
-<span id="fn_621"></span>[266:1](flos12.htm#fr_623) Mr
+<span id="fn_621"></span>[266:1](flos12.htm#fr_623.md) Mr
 Halliwell-Phillipps, in his "Handbook Index to Shakespeare" (1866, p.
 332), calls it a balsamic liquid.
 
-<span id="fn_622"></span>[266:2](flos12.htm#fr_624) "Six old Plays," Ed.
+<span id="fn_622"></span>[266:2](flos12.htm#fr_624.md) "Six old Plays," Ed.
 Nichols, p. 256, quoted by Mr Aldis Wright in his notes to "King Lear,"
 1877, p. 170.
 
-<span id="fn_623"></span>[267:1](flos12.htm#fr_625) "Shakespeare," ix.
+<span id="fn_623"></span>[267:1](flos12.htm#fr_625.md) "Shakespeare," ix.
 p. 413.
 
-<span id="fn_624"></span>[267:2](flos12.htm#fr_626) Bucknill's "Medical
+<span id="fn_624"></span>[267:2](flos12.htm#fr_626.md) Bucknill's "Medical
 Knowledge of Shakespeare," p. 235.
 
-<span id="fn_625"></span>[267:3](flos12.htm#fr_627) "Shakespeare," 1875,
+<span id="fn_625"></span>[267:3](flos12.htm#fr_627.md) "Shakespeare," 1875,
 viii. p. 284.
 
-<span id="fn_626"></span>[268:1](flos12.htm#fr_628) See Pettigrew's
+<span id="fn_626"></span>[268:1](flos12.htm#fr_628.md) See Pettigrew's
 "Medical Superstitions," pp. 13, 14.
 
-<span id="fn_627"></span>[269:1](flos12.htm#fr_629) Bucknill's "Medical
+<span id="fn_627"></span>[269:1](flos12.htm#fr_629.md) Bucknill's "Medical
 Knowledge of Shakespeare," p. 136.
 
-<span id="fn_628"></span>[270:1](flos12.htm#fr_630) Singer's
+<span id="fn_628"></span>[270:1](flos12.htm#fr_630.md) Singer's
 "Shakespeare," i. p. 65.
 
-<span id="fn_629"></span>[270:2](flos12.htm#fr_631) "Medical Knowledge
+<span id="fn_629"></span>[270:2](flos12.htm#fr_631.md) "Medical Knowledge
 of Shakespeare," p. 226.
 
-<span id="fn_630"></span>[270:3](flos12.htm#fr_632) Quoted in Nares’
+<span id="fn_630"></span>[270:3](flos12.htm#fr_632.md) Quoted in Nares’
 "Glossary," ii. p. 671.
 
-<span id="fn_631"></span>[271:1](flos12.htm#fr_633) See [p.
-70](flos07.htm#page_70).
+<span id="fn_631"></span>[271:1](flos12.htm#fr_633.md) See [p.
+70](flos07.htm#page_70.md).
 
-<span id="fn_632"></span>[271:2](flos12.htm#fr_634) Malone suggests that
+<span id="fn_632"></span>[271:2](flos12.htm#fr_634.md) Malone suggests that
 the hostess may mean "then he was lunatic."
 
-<span id="fn_633"></span>[272:1](flos12.htm#fr_635) Bucknill's "Medical
+<span id="fn_633"></span>[272:1](flos12.htm#fr_635.md) Bucknill's "Medical
 Knowledge of Shakespeare," p. 150.
 
-<span id="fn_634"></span>[273:1](flos12.htm#fr_636) See "English
+<span id="fn_634"></span>[273:1](flos12.htm#fr_636.md) See "English
 Folk-Lore," p. 156.
 
-<span id="fn_635"></span>[274:1](flos12.htm#fr_637) See Shortland's
+<span id="fn_635"></span>[274:1](flos12.htm#fr_637.md) See Shortland's
 "Traditions and Superstitions of the New Zealanders," 1856, p. 131.
 
-<span id="fn_636"></span>[274:2](flos12.htm#fr_638) Liber Secundus—"De
+<span id="fn_636"></span>[274:2](flos12.htm#fr_638.md) Liber Secundus—"De
 Febribus," p. 923, edit. 1595.
 
-<span id="fn_637"></span>[275:1](flos12.htm#fr_639) Nares’ "Glossary,"
+<span id="fn_637"></span>[275:1](flos12.htm#fr_639.md) Nares’ "Glossary,"
 ii. p. 906.
 
-<span id="fn_638"></span>[276:1](flos12.htm#fr_640) See 4th Series, x.
+<span id="fn_638"></span>[276:1](flos12.htm#fr_640.md) See 4th Series, x.
 pp. 108, 150, 229, 282, 356.
 
-<span id="fn_639"></span>[276:2](flos12.htm#fr_641) See Dyce's
+<span id="fn_639"></span>[276:2](flos12.htm#fr_641.md) See Dyce's
 "Shakespeare," vii. p. 239.
 
-<span id="fn_640"></span>[276:3](flos12.htm#fr_642) "The Medical
+<span id="fn_640"></span>[276:3](flos12.htm#fr_642.md) "The Medical
 Knowledge of Shakespeare," 1860, pp. 61–64.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Customs Connected with the Calendar](flos13)
+[Next: Chapter XI. Customs Connected with the Calendar](flos13.md)

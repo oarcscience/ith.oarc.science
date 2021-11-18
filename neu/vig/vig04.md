@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig03)  [Next](vig05) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig03)  [Next](vig05.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ THE STORY OF VIGA-GLUM
 
 THERE was a man called Ingiald, who lived at Thverá, on the Eyjafirth;
 he was one of the original priests and a great chief, and he was already
-in years when this story begins.  <span id="fr_1"></span>[1](#fn_1)
+in years when this story begins.  <span id="fr_1"></span>[1](#fn_1.md)
 Ingiald was married, and had two sons, Steinolf and Eyiolf, both right
 good men and fair to see. Ingiald himself was self-willed, reserved,
 hard to deal with, and obstinate. He cared little for merchants, and did
@@ -73,7 +73,7 @@ had better make the voyage with him than with any one else."
 
 ### Footnotes
 
-<span id="fn_1"></span>[1](vig04.htm#fr_1) It might have been better to
+<span id="fn_1"></span>[1](vig04.htm#fr_1.md) It might have been better to
 keep the Icelandic term "Godi" in the text; for the civil duties of this
 functionary were more important than his priestly office. "One of the
 original priests" means one of the holders of a "Godord," or
@@ -86,4 +86,4 @@ proceedings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](vig05)
+[Next: Chapter II](vig05.md)

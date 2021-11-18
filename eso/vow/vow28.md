@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow27)  [Next](vow29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow27)  [Next](vow29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -79,7 +79,7 @@ accomplished a division of herself,
 
 she must submit to that part of herself which is first in dignity. For
 the *one* struggles against the *two*, that would fain rise, but these
-would drag it downwards. <span id="fr_47"></span>[1](#fn_47) Nor is
+would drag it downwards. <span id="fr_47"></span>[1](#fn_47.md) Nor is
 victory the same to both sides; for the *one* tends towards the Good,
 and the *two* towards Evil; the *one* would be free, the *two* cling to
 servitude. If the *two* be overcome, there remains a bulwark of defence
@@ -192,7 +192,7 @@ kept within bounds, even through fear of the unknown.
 
 ### Footnotes
 
-<span id="fn_47"></span>[121:1](vow28.htm#fr_47) With Plato, says Dr.
+<span id="fn_47"></span>[121:1](vow28.htm#fr_47.md) With Plato, says Dr.
 Menard, Trismegistos here opposes Intelligence, the first part of the
 Soul, to the two other parts, Passion and Desire.
 
@@ -200,4 +200,4 @@ A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](vow29)
+[Next: Part II](vow29.md)

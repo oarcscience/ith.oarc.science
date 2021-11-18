@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft63)  [Next](sfft65) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft63)  [Next](sfft65.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -232,10 +232,10 @@ spikes!" moaned the silly
  
 
 <span id="img_21200"></span> <span align="CENTER"> [![](tn/21200.jpg)  
-Click to enlarge](img/21200.jpg)</span>  
+Click to enlarge](img/21200.jpg.md)</span>  
 "Baa, baa, has I see what I have done for you!" cried the silly mutton
 as it saw the auld wife striding up the pathway toward him.--Page
-[212](#page_212).  
+[212](#page_212.md).  
 *Scottish Fairy Tales*.
 
  
@@ -381,4 +381,4 @@ at it sideways, is it?
 
 ------------------------------------------------------------------------
 
-[Next: Macgillichallum of Razay](sfft65)
+[Next: Macgillichallum of Razay](sfft65.md)

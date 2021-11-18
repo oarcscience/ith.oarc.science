@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu10)  [Next](tmu12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu10)  [Next](tmu12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_43">p. 43</span>
 
-### PAIṄGALA-UPANISHAḌ <span id="fr_19"></span>[1](#fn_19)
+### PAIṄGALA-UPANISHAḌ <span id="fr_19"></span>[1](#fn_19.md)
 
 ### OF
 
@@ -38,11 +38,11 @@ changeless, which is Truth, Wisdom, and Bliss, and which is full,
 permanent, and one only without a second. In It, was like a mirage in
 the desert, silver in mother-of-pearl, a person in the pillar, or
 colour, etc., in the crystals, mūlaprakṛṭi, having in equal proportions
-the guṇas, red, <span id="fr_20"></span>[2](#fn_20) white, and black,
+the guṇas, red, <span id="fr_20"></span>[2](#fn_20.md) white, and black,
 and being beyond the power of speech. That which is reflected in it is
 Sākshi-Chaiṭanya (lit., the witness-consciousness), It (mūlaprakṛṭi)
 undergoing again change becomes with the preponderance of Saṭṭva (in
-it), Āvaraṇa <span id="fr_21"></span>[3](#fn_21) Śakṭi named avyakṭa.
+it), Āvaraṇa <span id="fr_21"></span>[3](#fn_21.md) Śakṭi named avyakṭa.
 That which is reflected in it (Avyakṭa) is Īśvara-Chaiṭanya. He (Īśvara)
 has Māyā under his control, is omniscient, the original cause of
 creation, preservation, and dissolution, and the seed of this universe.
@@ -55,18 +55,18 @@ unfurled. Again through the extinction
 of their karmas, he makes it disappear. In Him alone is latent all the
 universe, wrapped up like a painted cloth. Then from the supreme
 (Āvaraṇa) Śakṭi, dependent on (or appertaining to Īśvara, arose, through
-the preponderance of Rajas, Vikshepa <span id="fr_22"></span>[1](#fn_22)
+the preponderance of Rajas, Vikshepa <span id="fr_22"></span>[1](#fn_22.md)
 Śakṭi called Mahaṭ. That which is reflected in it is
 Hiraṇyagarbha-Chaiṭanya. Presiding (as He does) over Mahaṭ, He
 (Hiraṇyagarbha) has a body, both manifested and unmanifested. <span
-id="fr_23"></span>[2](#fn_23) From Vikshepa Śakṭi, of Hiraṇyagarbha
+id="fr_23"></span>[2](#fn_23.md) From Vikshepa Śakṭi, of Hiraṇyagarbha
 arose, through the preponderance of Ṭamas, the gross Śakṭi called
 ahaṅkāra. That which is reflected in it is Virāt-Chaiṭanya. He (Virāt)
 presiding over it (ahaṅkāra) and possessing a manifested body becomes
 Vishṇu, the chief Purusha and protector of all gross bodies. From that
 Āṭmā arose ākāś; from ākāś arose vāyu, from vāyu agni, from agni apas,
 and from apas pṛṭhivī. The five ṭanmāṭras <span
-id="fr_24"></span>[3](#fn_24) (rudimentary properties) alone are the
+id="fr_24"></span>[3](#fn_24) (rudimentary properties.md) alone are the
 guṇas (of the above five). That generating cause of the universe
 (Īśvara) wishing to create and having assumed ṭamo-guṇa, wanted to
 convert the elements which were subtle ṭanmāṭras into gross ones. In
@@ -140,10 +140,10 @@ mouth, legs, hands, and the organs of secretion and excretion are the
 modifications. Talking, walking, lifting, excreting, and enjoying are
 their functions. Likewise out of the collective three parts of
 Saṭṭva-essence, He created the antaḥkaraṇa (internal organ).
-Anṭaḥkaraṇa, <span id="fr_25"></span>[1](#fn_25) manas, buḍḍhi, chiṭṭa,
+Anṭaḥkaraṇa, <span id="fr_25"></span>[1](#fn_25.md) manas, buḍḍhi, chiṭṭa,
 and ahaṅkāra are the modifications. Saṅkalpa (thought), certitude,
 memory, egoism, and anusanḍhāna (inquiry) are their functions. Throat,
-face, navel, <span id="fr_26"></span>[2](#fn_26) heart, and the middle
+face, navel, <span id="fr_26"></span>[2](#fn_26.md) heart, and the middle
 of the brow are their seats. Out of the (remaining) fourth part of
 Saṭṭva-essence, He created the jñānenḍriyas (organs of sense). Ear,
 skin, eyes, tongue, and nose are the modifications. Sound, touch, form,
@@ -261,7 +261,7 @@ to Āṭmā. Such (modifications) cannot be known; but they can only be
 inferred through memory (of the samāḍhi state). The myriads of karmas
 committed in this beginningless cycle of rebirths are annihilated only
 through them. Through proficiency in practice, the current of
-nectar <span id="fr_27"></span>[1](#fn_27)
+nectar <span id="fr_27"></span>[1](#fn_27.md)
 
 <span id="page_50">p. 50</span>
 
@@ -313,17 +313,17 @@ stain or disease."
 
 Then Paiṅgala addressed Yājñavalkya thus: "To the wise, what is their
 karma? And what is their state?" To which Yājñavalkya replied: "A lover
-of moksha, having humility <span id="fr_28"></span>[1](#fn_28) and other
+of moksha, having humility <span id="fr_28"></span>[1](#fn_28.md) and other
 possessions (or virtues), enables twenty-one generations to cross (to
 Āṭmā). One through his being a Brahmaviṭ <span
-id="fr_29"></span>[2](#fn_29) alone enables 101 generations to cross.
+id="fr_29"></span>[2](#fn_29.md) alone enables 101 generations to cross.
 Know Āṭmā to be the rider and the body as the chariot. Know also buḍḍhi
 as the charioteer and manas as the reins. The wise say the organs are
 the horses, the objects are the roads (through which the horses travel)
 and the hearts are the moving balloons. Mahāṛshis say that Āṭmā, when
 associated with the sense organs and manas, is the enjoyer. Therefore it
 is the actual Nārāyaṇa alone that is established in the heart. Till his
-prārabḍha karma <span id="fr_30"></span>[3](#fn_30) is worn out, he
+prārabḍha karma <span id="fr_30"></span>[3](#fn_30.md) is worn out, he
 exists (in his body) as in the (cast-off) slough of a serpent (without
 any desire for the body). An emancipated person having such a body roves
 about like a moon gladdening all with no settled place of abode. He
@@ -343,7 +343,7 @@ rice), nor ceremonies of water, nor the periodical ceremonies (monthly
 and yearly). Just as a food once cooked is not again cooked, so a body
 once burnt (by the fire of wisdom) should not be burnt (or exposed to
 fire) again. To one whose body was burnt by the fire of wisdom there is
-neither śrāḍḍha <span id="fr_31"></span>[1](#fn_31) (required to be
+neither śrāḍḍha <span id="fr_31"></span>[1](#fn_31.md) (required to be
 performed), nor (funeral) ceremony. So long as there is the upāḍhi (of
 non-wisdom) in one, so long should he serve the Guru. He should conduct
 himself towards his Guru's wife and children as he does to his Guru. If
@@ -412,7 +412,7 @@ observances. He
 <span id="page_54">p. 54</span>
 
 obtains the fruit of the recitation of Iṭihāsas <span
-id="fr_32"></span>[1](#fn_32), Purāṇas and Ruḍramanṭras a lakh of times.
+id="fr_32"></span>[1](#fn_32.md), Purāṇas and Ruḍramanṭras a lakh of times.
 He becomes like one that has pronounced Praṇava (Om) ten thousand times.
 He purifies his ancestors ten degrees removed and his descendants ten
 degrees removed. He becomes purified of all those that sit with him for
@@ -431,55 +431,55 @@ Upanishaḍ is truth."
 
 ### Footnotes
 
-<span id="fn_19"></span>[43:1](tmu11.htm#fr_19) This Upanishaḍ is so
+<span id="fn_19"></span>[43:1](tmu11.htm#fr_19.md) This Upanishaḍ is so
 called after the questioner.
 
-<span id="fn_20"></span>[43:2](tmu11.htm#fr_20) Rajas, Saṭṭva and Ṭamas
+<span id="fn_20"></span>[43:2](tmu11.htm#fr_20.md) Rajas, Saṭṭva and Ṭamas
 colours.
 
-<span id="fn_21"></span>[43:3](tmu11.htm#fr_21) Āvaraṇa Śakṭi literally
+<span id="fn_21"></span>[43:3](tmu11.htm#fr_21.md) Āvaraṇa Śakṭi literally
 means the veiling or contracting power. This is it that produces egoism.
 It may be called the centripetal force.
 
-<span id="fn_22"></span>[44:1](tmu11.htm#fr_22) Vikshepa Ṣakṭi (lit.,)
+<span id="fn_22"></span>[44:1](tmu11.htm#fr_22) Vikshepa Ṣakṭi (lit.,.md)
 is the expanding power. It may be called the centrifugal force.
 
-<span id="fn_23"></span>[44:2](tmu11.htm#fr_23) The account given here
+<span id="fn_23"></span>[44:2](tmu11.htm#fr_23.md) The account given here
 though differing from that in other books may be justified.
 
-<span id="fn_24"></span>[44:3](tmu11.htm#fr_24) They are sound, touch,
+<span id="fn_24"></span>[44:3](tmu11.htm#fr_24.md) They are sound, touch,
 form, taste, and odour.
 
-<span id="fn_25"></span>[46:1](tmu11.htm#fr_25) The fifth aspect of
+<span id="fn_25"></span>[46:1](tmu11.htm#fr_25.md) The fifth aspect of
 antaḥkaraṇa is made to be itself, having the function of anusanḍhāna or
 inquiry, though others call it otherwise.
 
-<span id="fn_26"></span>[46:2](tmu11.htm#fr_26) Navel is the seat of
+<span id="fn_26"></span>[46:2](tmu11.htm#fr_26.md) Navel is the seat of
 chiṭṭa.
 
-<span id="fn_27"></span>[49:1](tmu11.htm#fr_27) It is said that in
+<span id="fn_27"></span>[49:1](tmu11.htm#fr_27.md) It is said that in
 samāḍhi astral nectar flows from the head down which the Yogins are said
 to drink and which gives them infinite bliss.
 
-<span id="fn_28"></span>[51:1](tmu11.htm#fr_28) Humility and other
+<span id="fn_28"></span>[51:1](tmu11.htm#fr_28.md) Humility and other
 virtues twenty in number are described in *Bhagavaḍ-Giṭā*, Chapter XIII.
 
-<span id="fn_29"></span>[51:2](tmu11.htm#fr_29) There are four classes
+<span id="fn_29"></span>[51:2](tmu11.htm#fr_29.md) There are four classes
 of Brahma Jñānīs or initiates of whom this is one.
 
-<span id="fn_30"></span>[51:3](tmu11.htm#fr_30) That portion of past
+<span id="fn_30"></span>[51:3](tmu11.htm#fr_30.md) That portion of past
 karma which is being enjoyed in this life.
 
-<span id="fn_31"></span>[52:1](tmu11.htm#fr_31) The yearly ceremonies in
+<span id="fn_31"></span>[52:1](tmu11.htm#fr_31.md) The yearly ceremonies in
 honour of the dead.
 
-<span id="fn_32"></span>[54:1](tmu11.htm#fr_32) Iṭihāsas are the
+<span id="fn_32"></span>[54:1](tmu11.htm#fr_32.md) Iṭihāsas are the
 Rāmāyaṇa and the Mahābhāraṭa.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 10. Aḍhyāṭma-Upanishaḍ of Śukla-Yajurveḍa](tmu12)
+[Next: 10. Aḍhyāṭma-Upanishaḍ of Śukla-Yajurveḍa](tmu12.md)
 
 </div>

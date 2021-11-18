@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](suc04)  [Next](suc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](suc04)  [Next](suc06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -17,14 +17,14 @@ Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 REGULATIONS CONCERNING PALM BRANCHES, MYRTLES, WILLOWS, AND CITRONS USED
 ON THE FIRST DAY OF THE FEAST OF TABERNACLES.
 
-MISHNA: A palm branch <span id="fr_12"></span>[1](#fn_12) which has been
+MISHNA: A palm branch <span id="fr_12"></span>[1](#fn_12.md) which has been
 acquired by theft, or which is dried, is not valid. One which comes from
 a grove (devoted to idolatry) or from a rejected town <span
-id="fr_13"></span>[2](#fn_13) is not valid; if the point has been broken
+id="fr_13"></span>[2](#fn_13.md) is not valid; if the point has been broken
 off, or the leaves torn off, it is not valid; if they are only
 dissevered, it is valid. R. Jehudah says: It must be tied together at
 the top. A palm branch from the Iron Mount <span
-id="fr_14"></span>[3](#fn_14) is valid. A palm branch that is three
+id="fr_14"></span>[3](#fn_14.md) is valid. A palm branch that is three
 spans long, sufficient to shake it by, is valid.
 
 GEMARA: The Mishna does not mention on which day it is valid, and on
@@ -32,7 +32,7 @@ which not; and from this we can infer that it is invalid even for the
 second day. This would be right only in case of a dried one, because it
 is written *hadar*, which means "beauty," which a dried one has not; but
 a robbed one--that is prohibited only because it must be his own, as
-stated above ([p. 34](suc04.htm#page_34))--but on the second day, which
+stated above ([p. 34](suc04.htm#page_34).md)--but on the second day, which
 is wholly rabbinical, why should it be invalid? Said R. Johanan in the
 name of R. Simeon b. Jochi: Because it is a religious duty that is
 performed by a sin. R. Johanan said again in the name of the same
@@ -129,14 +129,14 @@ it with something, lest the command. of a citron should be forgotten: it
 comes to teach us that if it would be done so, the later generations
 might use such things forever. Come and hear: An old citron is invalid,
 but R. Jehudah says it is valid. Is this not a contradiction to the
-saying of Rabha <span id="fr_15"></span>[1](#fn_15) above, that R.
+saying of Rabha <span id="fr_15"></span>[1](#fn_15.md) above, that R.
 Jehudah meant only the Lulab, and not a citron? Yea, it is
 
 <span id="page_45">p. 45</span>
 
 a contradiction. But how can R. Jehudah say that an old one is valid? is
 it not written *hadar* (beautiful)? R. Jehudah explains the word
-*hadar* <span id="fr_16"></span>[1](#fn_16) not to mean "beauty," but
+*hadar* <span id="fr_16"></span>[1](#fn_16.md) not to mean "beauty," but
 "dwelling"; that means, a fruit which dwells on its tree the whole year.
 
 "*If the point was broken off*." Said R. Huna: If it is broken off; but
@@ -207,7 +207,7 @@ are diminished in number it becomes valid, but this must not be done on
 the festival. A willow of the brook, which has been acquired by theft,
 or which is dry, is invalid. One which comes from a grove, or a rejected
 town, is not valid. If the point has been broken off, or the leaves torn
-off, or if it be a *Tzaphtzapha*, <span id="fr_17"></span>[1](#fn_17) it
+off, or if it be a *Tzaphtzapha*, <span id="fr_17"></span>[1](#fn_17.md) it
 is invalid. One which is faded, or from which some leaves have dropped
 off, or which has grown on dry ground (not near a bank), is valid.
 
@@ -220,7 +220,7 @@ myrtle tree. Rabha said: We take a myrtle bough because it is written
 
 love ye the truth and peace" (as a myrtle is an emblem of peace and
 love, therefore we take it on the festival). <span
-id="fr_18"></span>[1](#fn_18)
+id="fr_18"></span>[1](#fn_18.md)
 
 The rabbis taught: A branch that is twined like a chain, that is the
 myrtle. R. Eliezer b. Jacob says: It is written: "The branch of a twined
@@ -271,7 +271,7 @@ xxiii. 40\]: "Ye shall take unto yourselves on the first day," and \[in
 Ex. xii. 22\] "and ye shall take a bunch of hyssop"; as there it is
 plainly written a bunch, so also here it must be tied as a bunch, and
 the sages do not take into consideration this analogy of
-expression. <span id="fr_19"></span>[1](#fn_19)
+expression. <span id="fr_19"></span>[1](#fn_19.md)
 
 "*If one has more berries on it than leaves*." R. Hisda said: The
 following thing said our great rabbi (*i.e.*, Rabh), and the Lord come
@@ -347,7 +347,7 @@ needed.
 
 GEMARA: We have learned in a Boraitha,: It is written: The fruit of the
 tree *hadar*," in the singular. one fruit; "a branch of a palm tree," in
-the singular, <span id="fr_20"></span>[1](#fn_20) one branch; "boughs
+the singular, <span id="fr_20"></span>[1](#fn_20.md) one branch; "boughs
 
 <span id="page_50">p. 50</span>
 
@@ -376,7 +376,7 @@ tips broken are more easily procurable than one uninjured.
 
 MISHNA: A citron which has been robbed, or is withered, is invalid. One
 coming from a grove or a rejected town is invalid. One taken off a tree
-less than three years old <span id="fr_21"></span>[1](#fn_21) is not
+less than three years old <span id="fr_21"></span>[1](#fn_21.md) is not
 valid. Nor one taken from heave-offering that is unclean. From clean
 heave-offering a man is not to take a citron; but if he has taken, he
 has fulfilled his duty. One taken from *Demai* (fruit from which it is
@@ -537,7 +537,7 @@ Said Rabba to the men who tied the Hosha'noth for the
 
 exilarch When you tie them, leave the breadth of a hand at the bottom
 there shall be no intervention between the hand and the Hosha'na. <span
-id="fr_22"></span>[1](#fn_22) Said Rabha: All that was made to beautify
+id="fr_22"></span>[1](#fn_22.md) Said Rabha: All that was made to beautify
 it, does not intervene. Rabba says again: A man shall not hold the
 Hosha'na through a cloth, because it is written: "Ye shall take," with
 your own hands. Rabha, however, said: Even if one takes it through
@@ -818,7 +818,7 @@ failed to return it, it is not counted as anything. And to what purpose
 do they tell us that he bought it for a thousand Zuz? To let us know how
 dear to them were religious duties. Said Mar bar Amemar to R. Ashi: My
 father used to pray, holding the Lulab in his hand. We have learned in a
-Boraitha: R. Elazar <span id="fr_23"></span>[1](#fn_23) bar Zadok says:
+Boraitha: R. Elazar <span id="fr_23"></span>[1](#fn_23.md) bar Zadok says:
 So was the custom of the men of Jerusalem: when one was going out of his
 house, the Lulab was in his hand; when he went to the house of prayer,
 the Lulab was in his hand; when he read the Shema and prayed, the Lulab
@@ -883,41 +883,41 @@ chip, he drops it; but a nut, he accepts it.
 
 ### Footnotes
 
-<span id="fn_12"></span>[42:1](suc05.htm#fr_12) Lev. xxiii. 40.
+<span id="fn_12"></span>[42:1](suc05.htm#fr_12.md) Lev. xxiii. 40.
 
-<span id="fn_13"></span>[42:2](suc05.htm#fr_13) Deut. xiii. 12.
+<span id="fn_13"></span>[42:2](suc05.htm#fr_13.md) Deut. xiii. 12.
 
-<span id="fn_14"></span>[42:3](suc05.htm#fr_14) A mountain near
+<span id="fn_14"></span>[42:3](suc05.htm#fr_14.md) A mountain near
 Jerusalem, southward, the palm branches of which wen very short.
 
-<span id="fn_15"></span>[44:1](suc05.htm#fr_15) The name of Rabha is not
+<span id="fn_15"></span>[44:1](suc05.htm#fr_15.md) The name of Rabha is not
 mentioned above, but it must have been known to him that Rabha said so.
 
-<span id="fn_16"></span>[45:1](suc05.htm#fr_16) The word *hadar* in
+<span id="fn_16"></span>[45:1](suc05.htm#fr_16.md) The word *hadar* in
 Hebrew has two meanings: "Beauty" and *dar* means "dwelling" (see Ps.
 lxxxiv. 11). Hence R. Jehudah explains this in the latter sense.
 
-<span id="fn_17"></span>[46:1](suc05.htm#fr_17) The Gemara will explain
+<span id="fn_17"></span>[46:1](suc05.htm#fr_17.md) The Gemara will explain
 the term.
 
-<span id="fn_18"></span>[47:1](suc05.htm#fr_18) Rashi explains it in
+<span id="fn_18"></span>[47:1](suc05.htm#fr_18.md) Rashi explains it in
 another manner, which is complicated. We, however, think that our
 explanation is right.
 
-<span id="fn_19"></span>[48:1](suc05.htm#fr_19) See page 14, lines
+<span id="fn_19"></span>[48:1](suc05.htm#fr_19.md) See page 14, lines
 32-37, beginning "But according," etc., which also belong here.
 
-<span id="fn_20"></span>[49:1](suc05.htm#fr_20) The word *Kapath* is
+<span id="fn_20"></span>[49:1](suc05.htm#fr_20.md) The word *Kapath* is
 written in the singular, but is read *Kapoth*, in the plural.
 
-<span id="fn_21"></span>[50:1](suc05.htm#fr_21) Lev. xix. 23.
+<span id="fn_21"></span>[50:1](suc05.htm#fr_21.md) Lev. xix. 23.
 
-<span id="fn_22"></span>[54:1](suc05.htm#fr_22) The Gemara calls
+<span id="fn_22"></span>[54:1](suc05.htm#fr_22.md) The Gemara calls
 Hosha'na the Lulab, and the myrtle bough and willow tied together.
 
-<span id="fn_23"></span>[60:1](suc05.htm#fr_23) See foot-note in Tract
+<span id="fn_23"></span>[60:1](suc05.htm#fr_23.md) See foot-note in Tract
 Pesachim, p. 78.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV.](suc06)
+[Next: Chapter IV.](suc06.md)

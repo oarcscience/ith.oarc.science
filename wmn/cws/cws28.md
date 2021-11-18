@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws27)  [Next](cws29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws27)  [Next](cws29.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXIV
 
-#### CONCERNING THE MAN REGENERATE <span id="fr_107"></span>[2](#fn_107)
+#### CONCERNING THE MAN REGENERATE <span id="fr_107"></span>[2](#fn_107.md)
 
 YOU have been told that Jesus and those like him came back voluntarily
 and were born under conditions different from the ordinary, in that they
@@ -27,14 +27,14 @@ of Jesus is in the highest only, and cannot be seen by those who have
 access only to the lower; and not being strengthened by the shadow of
 the body of Jesus, it has become fainter, until now it is hardly
 perceptible. This is because his body was indrawn. <span
-id="fr_108"></span>[3](#fn_108)
+id="fr_108"></span>[3](#fn_108.md)
 
 Jesus had a great advantage in his birth, owing partly to his own
 regenerate condition, and partly to that of his parents. Owing to the
 purity of his mother's blood, she is said to have come of a priestly
 family. For the same reason his father is said to have come of a royal
 descent, for the terms "Tribe of Levi" and "House of David" have a
-mystic meaning. <span id="fr_109"></span>[4](#fn_109)
+mystic meaning. <span id="fr_109"></span>[4](#fn_109.md)
 
 The sanctity of any particular Christ is dependent upon the
 
@@ -158,36 +158,36 @@ Afterwards he achieved three degrees for his body, but the last only
 after his "ascension" to the mount of the Lord.
 
 No man ever attained thus before. And since the glory is of the Spirit,
-or divine part, it is said <span id="fr_110"></span>[1](#fn_110) that
+or divine part, it is said <span id="fr_110"></span>[1](#fn_110.md) that
 Jesus by his marriage feast manifested forth his glory.
 
 And the celebration of this marriage was in Jordan; but the
 manifestation was in Cana.
 
 For Jesus had received the Double Portion; and hence his double
-glory. <span id="fr_111"></span>[2](#fn_111)
+glory. <span id="fr_111"></span>[2](#fn_111.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_107"></span>[65:2](cws28.htm#fr_107) London, July 9, 1881.
+<span id="fn_107"></span>[65:2](cws28.htm#fr_107.md) London, July 9, 1881.
 Received in sleep. See also No. XXXIII.
 
-<span id="fn_108"></span>[65:3](cws28.htm#fr_108) Some occultists have
+<span id="fn_108"></span>[65:3](cws28.htm#fr_108.md) Some occultists have
 made their own failure to discern the reflect of Jesus--a failure here
 accounted for--a ground for denying his existence.    E. M.
 
-<span id="fn_109"></span>[65:4](cws28.htm#fr_109) For another and more
+<span id="fn_109"></span>[65:4](cws28.htm#fr_109.md) For another and more
 profound meaning of the derivation from David, see note to No.
 XXXVIII.    E. M.
 
-<span id="fn_110"></span>[68:1](cws28.htm#fr_110) *I.e.* in the
+<span id="fn_110"></span>[68:1](cws28.htm#fr_110.md) *I.e.* in the
 Mysteries, on which the Gospels are based.    E. M.
 
-<span id="fn_111"></span>[68:2](cws28.htm#fr_111) Concerning the Double
+<span id="fn_111"></span>[68:2](cws28.htm#fr_111.md) Concerning the Double
 Portion, see No. XXXVII.
 
 ------------------------------------------------------------------------
 
-[Next: No. XXV: Concerning The Christ And The Logos](cws29)
+[Next: No. XXV: Concerning The Christ And The Logos](cws29.md)

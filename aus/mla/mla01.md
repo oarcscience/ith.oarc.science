@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla00)  [Next](mla02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla00)  [Next](mla02.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ How the Native Bear Lost His Tail
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](mla02)
+[Next: Introduction](mla02.md)

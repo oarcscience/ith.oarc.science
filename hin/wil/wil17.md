@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil16)  [Next](wil18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil16)  [Next](wil18.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,11 +47,11 @@ and obligation in making a return to particular spots?
 
 At any rate, it is certain that behind sanctity of pilgrimage lies
 admiration of place, of art, even of geographical significance. Benares
-in the North, and Conjeeveram <span id="fr_38"></span>[\*](#fn_38) in
+in the North, and Conjeeveram <span id="fr_38"></span>[\*](#fn_38.md) in
 the South, are loved and visited in India for the same reason as Durham
 or Cologne amongst ourselves. They are cathedral cities, rich in
 architecture, in treasure, and in the associations of saints and
-scholars. Jagannath <span id="fr_39"></span>[†](#fn_39) is placed where
+scholars. Jagannath <span id="fr_39"></span>[†](#fn_39.md) is placed where
 it is, for sheer beauty of the sea, and perhaps a little also for the
 old cosmopolitan grandeur of the port through which flowed the Eastern
 trade. Allahabad is sacred, because there two mighty rivers join their
@@ -62,7 +62,7 @@ the solemn beauty of the Himalayas that makes them the refuge
 <span id="page_239">p. 239</span>
 
 of holy men. The four most meritorious pilgrimages <span
-id="fr_40"></span>[\*](#fn_40) of the Hindus are the four extreme points
+id="fr_40"></span>[\*](#fn_40.md) of the Hindus are the four extreme points
 of India--North, South, East, and West--knowing which the country must
 be known. The worship of the Ganges, and the reverence that makes a
 Dekkan villager journey, as an act of piety, to look on the face of one
@@ -404,7 +404,7 @@ wonder, occur to Alexander that learned Greeks might be sent to such
 wandering colleges in order to hear and to tell new things?
 
 Sanskrit is the *lingua franca* of this ancient learning. To this day
-the visitor to a Calcutta *toll* <span id="fr_41"></span>[\*](#fn_41)
+the visitor to a Calcutta *toll* <span id="fr_41"></span>[\*](#fn_41.md)
 may hear the boys dispute with each other on timeworn themes in the
 classic tongue, and may picture himself back in the colleges of Thebes
 or Athens in the long ago. But here in the great *melas* are the
@@ -507,24 +507,24 @@ which we have gazed in the pilgrims' camp?
 
 ### Footnotes
 
-<span id="fn_38"></span>[238:\*](wil17.htm#fr_38) Conjeeveram.--A town
+<span id="fn_38"></span>[238:\*](wil17.htm#fr_38.md) Conjeeveram.--A town
 in the Madras Presidency, which contains some of the most beautiful
 specimens of Dravidian architecture. Often called the Benares of the
 South. Ramanuja lived here, and Sankaracharya visited it.
 
-<span id="fn_39"></span>[238:†](wil17.htm#fr_39) Jagannath.--Or
+<span id="fn_39"></span>[238:†](wil17.htm#fr_39.md) Jagannath.--Or
 Juggurnath--Lord of the Universe. The famous place of pilgrimage, and
 the "Car of Juggurnath," on the coast of Orissa, at Puri. This temple is
 distinguished for the fact that all castes eat together of its
 consecrated food. The oneness of all men is the religious idea which is
 associated with it.
 
-<span id="fn_40"></span>[239:\*](wil17.htm#fr_40) "The four
+<span id="fn_40"></span>[239:\*](wil17.htm#fr_40.md) "The four
 pilgrimages," which constitute the Hindu counsel of perfection, are
 Kedar Nath in the Himalayas, in the extreme North; Dwarka Nath in the
 West; Rameshwaram in the South; and Puri, or Jagannath in the East.
 
-<span id="fn_41"></span>[249:\*](wil17.htm#fr_41) Toll.--A toll is a
+<span id="fn_41"></span>[249:\*](wil17.htm#fr_41.md) Toll.--A toll is a
 Sanskrit school, in which a Brahman lived with his disciples, studying
 and teaching. The ideal toll consisted of a series of mud cottages with
 wide verandahs, built round a small lake or "tank," with its cluster of
@@ -534,4 +534,4 @@ universities.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. On the Loom of Time](wil18)
+[Next: Chapter XVI. On the Loom of Time](wil18.md)

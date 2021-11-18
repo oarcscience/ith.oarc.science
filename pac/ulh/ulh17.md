@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh16)  [Next](ulh18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh16)  [Next](ulh18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="img_pl11"></span> <span align="CENTER"> [![ PLATE XI&lt;br&gt;
 ULI-ULI, A GOURD RATTLE](tn/pl11.jpg)  
-Click to enlarge](img/pl11.jpg)  
+Click to enlarge](img/pl11.jpg.md)  
 PLATE XI  
 ULI-ULI, A GOURD RATTLE  
 </span>
@@ -34,7 +34,7 @@ The hula *úli-ulí* was so called from the rattle which was its sole
 instrument of accompaniment. This consisted of a small gourd about, the
 size of a large orange, into the cavity of which were put shot-like
 seeds, like those of the canna; a handle was then attached ([pl.
-xi](#img_pl11)).
+xi](#img_pl11).md).
 
 The actors who took part in this hula belonged, it is said, to the class
 termed hoopaa, and went through with the performance while kneeling or
@@ -57,7 +57,7 @@ assigned to a rank below that of some others, such, for instance, as the
 *ala’a-papa*, *pa-ipu*, *Pele*, and others.
 
 David Malo, the Hawaiian historian, author of *Ka Moolelo Hawaii*, <span
-id="fr_249"></span>[a](#fn_245) in the short chapter that he devotes to
+id="fr_249"></span>[a](#fn_245.md) in the short chapter that he devotes to
 the hula, mentions only ten hulas by name, the *ka-laau*, *pa’i-umauma*,
 *pahu*, *pahu’a*, *ala’a-papa*, *pa’i-pa’i*, *pa-ipu*, *ulili*, and the
 *kielei*. *Ulili* is but another form of the word *úli-ulí*. Any
@@ -315,7 +315,7 @@ an interesting study, and brings us closer in human sympathy to the
 people who took pleasure in such things.
 
 In translating this poem, while not following literally the language of
-the poet, the aim has been to hit the [target](errata.htm#2) of his
+the poet, the aim has been to hit the [target](errata.htm#2.md) of his
 deeper meaning, without hopelessly involving the reader in the
 complexities of Hawaiian color and local topography. A few words of
 explanation must suffice.
@@ -363,11 +363,11 @@ res*.
 
 ### Footnotes
 
-<span id="fn_245"></span>[107:a](ulh17.htm#fr_249) Translated by V. B.
+<span id="fn_245"></span>[107:a](ulh17.htm#fr_249.md) Translated by V. B.
 Emerson, M. D., under the title "Hawaiian Antiquities," and published by
 the B. P. Bishop Museum. Hawaiian Gazette Company (Limited), Honolulu,
 1903.
 
 ------------------------------------------------------------------------
 
-[Next: XIV.--The Hula Puíli](ulh18)
+[Next: XIV.--The Hula Puíli](ulh18.md)

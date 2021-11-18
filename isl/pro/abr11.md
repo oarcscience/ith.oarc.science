@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr10)  [Next](isa00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr10)  [Next](isa00.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ Household, and over the rest of prophets and messengers.
 
 ------------------------------------------------------------------------
 
-[Next: Isaac ben Abraham (PUT)](isa00)
+[Next: Isaac ben Abraham (PUT)](isa00.md)

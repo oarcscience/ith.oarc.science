@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe228)  [Next](prwe230) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe228)  [Next](prwe230.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ of which is dignified by the term Allan Market.
 
 ------------------------------------------------------------------------
 
-[Next: The Twelfth Cake](prwe230)
+[Next: The Twelfth Cake](prwe230.md)

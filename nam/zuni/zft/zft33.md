@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft32)  [Next](zft34) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft32)  [Next](zft34.md) 
 
 ------------------------------------------------------------------------
 
@@ -365,4 +365,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Giant Cloud-Swallower](zft34)
+[Next: The Giant Cloud-Swallower](zft34.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh18)  [Next](seh20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh18)  [Next](seh20.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ that of fire?
 
 ------------------------------------------------------------------------
 
-[Next: An Indian Amulet](seh20)
+[Next: An Indian Amulet](seh20.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc79)  [Next](pjc81) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc79)  [Next](pjc81.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Emmerich, \[1862\], at Intangible Textual Heritage
 
 ### The End of the Lenten Meditations.
 
-ON the following Sunday, <span id="fr_22"></span>[1](#fn_22) if I
+ON the following Sunday, <span id="fr_22"></span>[1](#fn_22.md) if I
 remember right, I saw the Jews washing and purifying the Temple. They
 offered up expiatory sacrifices, cleared away the rubbish, and
 endeavoured to conceal the effects of the earthquake
@@ -72,10 +72,10 @@ February to the 6th of April 1823, here came to a conclusion.
 
 ### Footnotes
 
-<span id="fn_22"></span>[343:1](pjc80.htm#fr_22) The above relation was
+<span id="fn_22"></span>[343:1](pjc80.htm#fr_22.md) The above relation was
 given later, and it is impossible to say whether it relates to the day
 of the Resurrection or to the following Sunday.
 
 ------------------------------------------------------------------------
 
-[Next: Detached Account of Longinus](pjc81)
+[Next: Detached Account of Longinus](pjc81.md)

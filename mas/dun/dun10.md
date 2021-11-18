@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](dun09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](dun09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Duncan's Masoic Ritual and Monitor*, by Malcom C. Duncan, \[1866\], at
 Intangible Textual Heritage
 
@@ -19,16 +19,16 @@ Intangible Textual Heritage
 
 # APPENDIX.
 
-NOTE <span id="xref_A">A</span>, page [12](dun02.htm#page_12).--In some
+NOTE <span id="xref_A">A</span>, page [12](dun02.htm#page_12.md).--In some
 Lodges the Tyler takes the sword from the altar.
 
-NOTE <span id="xref_B">B</span>, page [18](dun02.htm#page_18).--Some
+NOTE <span id="xref_B">B</span>, page [18](dun02.htm#page_18.md).--Some
 Masters repeat the words, "O Lord my God," three times.
 
-NOTE <span id="xref_C">C</span>, page [19](dun02.htm#page_19)--Masters
+NOTE <span id="xref_C">C</span>, page [19](dun02.htm#page_19.md)--Masters
 differ about the proper manner of placing the three lights around the
 altar. In most Lodges they are placed as represented in the engraving,
-[page 19](dun02.htm#img_01900); but many Masters have them placed thus:
+[page 19](dun02.htm#img_01900.md); but many Masters have them placed thus:
 
 <span id="img_27100"></span> ![](img/27100.jpg)
 
@@ -36,36 +36,36 @@ altar. In most Lodges they are placed as represented in the engraving,
 represents the altar; the figures 1, 2, and 3, the lights; the letter A,
 the kneeling candidate, and the letter B, the Master.
 
-NOTE <span id="xref_D">D</span>, page [21](dun02.htm#page_21).--Some
+NOTE <span id="xref_D">D</span>, page [21](dun02.htm#page_21.md).--Some
 Masters say: "I now declare this Lodge opened in the Third Degree of
 Masonry *for the dispatch of busines*s."
 
-NOTE <span id="xref_E">E</span>, page [39](dun02.htm#page_39).--In
+NOTE <span id="xref_E">E</span>, page [39](dun02.htm#page_39.md).--In
 spelling this word, "Boaz," always begin with the letter "A," and follow
 the alphabet down as the letters occur in the word.
 
-NOTE <span id="xref_F">F</span>, page [42](dun02.htm#page_42).--In some
+NOTE <span id="xref_F">F</span>, page [42](dun02.htm#page_42.md).--In some
 Lodges the reply is: "Try me, and disapprove of me if you can;" in
 others, "I am willing to be tried."
 
-NOTE <span id="xref_G">G</span>, page [43](dun02.htm#page_43).--Some
+NOTE <span id="xref_G">G</span>, page [43](dun02.htm#page_43.md).--Some
 say, "In an anteroom adjacent to a Lodge of Entered Apprentice Masons."
 
-NOTE <span id="xref_H">H</span>, page [44](dun02.htm#page_44).--Some
+NOTE <span id="xref_H">H</span>, page [44](dun02.htm#page_44.md).--Some
 say, "Three times around the Lodge."
 
-NOTE <span id="xref_I">I</span>, page [51](dun02.htm#page_51).--Some
+NOTE <span id="xref_I">I</span>, page [51](dun02.htm#page_51.md).--Some
 say, "On the highest hills and lowest valleys."
 
-NOTE <span id="xref_J">J</span>, [p. 89](dun04.htm#page_89).--In some
+NOTE <span id="xref_J">J</span>, [p. 89](dun04.htm#page_89.md).--In some
 Lodges, the Deacon omits the single rap (•), and opens the door when the
 three raps (• • •) are given.
 
-NOTE <span id="xref_K">K</span>, page [205](dun07.htm#page_205).--In
+NOTE <span id="xref_K">K</span>, page [205](dun07.htm#page_205.md).--In
 most Lodges the candidate does not halt at the Junior Warden's station,
 but passes on to the Senior Warden.
 
-NOTE <span id="xref_L">L</span>, page [125](dun04.htm#page_125).--Master
+NOTE <span id="xref_L">L</span>, page [125](dun04.htm#page_125.md).--Master
 says: "I shall now proceed to give and explain to you the several signs
 and tokens belonging to the Degree." Here the Master places his hands as
 the candidate's
@@ -73,16 +73,16 @@ the candidate's
 <span id="page_272">p. 272</span>
 
 were when he took the oath of a Master (see [Fig.
-5](dun02.htm#img_01703), page [17](dun02.htm#page_17)), and explains.
+5](dun02.htm#img_01703), page [17](dun02.htm#page_17).md), and explains.
 Makes sign of a Master Mason, and explains. (See [Fig.
-6](dun02.htm#img_01800), page [18](dun02.htm#page_18).) Makes the grand
-hailing sign, and explains. (See [Fig. 7](dun02.htm#img_01801), page
-[18](dun02.htm#page_18).) Gives grip of a Master Mason, and explains.
-(See [Fig. 16](dun04.htm#img_09700), page [97](dun04.htm#page_97).)
-Gives strong grip, and explains. (See [Fig. 17](dun04.htm#img_12000),
-page [120](dun04.htm#page_120).)
+6](dun02.htm#img_01800), page [18](dun02.htm#page_18)..md) Makes the grand
+hailing sign, and explains. (See [Fig. 7](dun02.htm#img_01801.md), page
+[18](dun02.htm#page_18)..md) Gives grip of a Master Mason, and explains.
+(See [Fig. 16](dun04.htm#img_09700), page [97](dun04.htm#page_97)..md)
+Gives strong grip, and explains. (See [Fig. 17](dun04.htm#img_12000.md),
+page [120](dun04.htm#page_120)..md)
 
-NOTE <span id="xref_M">M</span>, page [235](dun08.htm#page_235).--The
+NOTE <span id="xref_M">M</span>, page [235](dun08.htm#page_235.md).--The
 Principal Sojourner should say: "We are of your own brethren and
 kin--children of the captivity--descendants of those noble Giblemites,
 we were received and acknowledged Most Excellent Masters at the
@@ -95,17 +95,17 @@ rebuilding the house of the Lord, without the hope of fee or reward."
 (See lecture.)
 
 NOTE <span id="xref_N">N</span>, page
-[236](dun08.htm#page_236).--Instead of saying: "You surely could not
+[236](dun08.htm#page_236.md).--Instead of saying: "You surely could not
 have come thus far unless you were three Most Excellent Masters," etc.,
 the Master of the First Veil should say: "Good men and true you must
 have been, to have come thus far to promote so noble and good an
 undertaking, but further you cannot go without my word, sign, and word
 of explanation" (See lecture.)
 
-NOTE <span id="xref_O">O</span>, page [235](dun08.htm#page_235).--In
+NOTE <span id="xref_O">O</span>, page [235](dun08.htm#page_235.md).--In
 some Chapters they only stamp seven times.
 
-NOTE <span id="xref_P">P</span>, page [140](dun04.htm#page_140).--In
+NOTE <span id="xref_P">P</span>, page [140](dun04.htm#page_140.md).--In
 some parts of the country the second section of the lecture is continued
 as follows:
 
@@ -131,7 +131,7 @@ of the air as a prey, ere I
 
 had been accessory to the death of so great and good a man as our Grand
 Master Hiram Abiff." The third was the voice of
-[Jubelum](errata.htm#10), exclaiming more horridly than the rest, "It
+[Jubelum](errata.htm#10.md), exclaiming more horridly than the rest, "It
 was I that gave him the fatal blow! it was I that slew him! oh! that my
 body had been severed in twain, my bowels taken from thence and burnt to
 ashes, the ashes scattered before the four (4) winds of heavens, that no
@@ -216,7 +216,7 @@ sprig of acacia in her right hand, the timely discovery of his body; the
 urn in her left, that his ashes were then safely deposited to perpetuate
 the remembrance of so distinguished a character; Time unfolding the
 ringlets of her hair, that time, patience, and
-[perseverance](errata.htm#11) accomplish all things.
+[perseverance](errata.htm#11.md) accomplish all things.
 
 Q. Have you a sign belonging to this Degree?
 
@@ -307,7 +307,7 @@ Q. How many were employed in building the temple?
 A. Three Grand Masters, three thousand three hundred masters, or
 overseers of the work, eighty thousand fellow crafts in the mountains
 and in the quarries, and seventy (70) thousand entered
-[apprentices](errata.htm#12), or bearers of burdens. All these were
+[apprentices](errata.htm#12.md), or bearers of burdens. All these were
 classed and arranged in such a manner by the wisdom of King Solomon,
 that neither envy, discord, nor confusion was suffered to interrupt that
 universal peace and tranquillity which pervaded the world at this
@@ -346,7 +346,7 @@ perfect, glorious, and celestial lodge above, where the Supreme
 Architect of the universe presides.
 
 NOTE <span id="xref_Q">Q</span>., page
-[148](dun04.htm#page_148).--(*Extract from the Annual Address of M. W.
+[148](dun04.htm#page_148.md).--(*Extract from the Annual Address of M. W.
 P. Al. Tucker, G. M. of Vermont*.)
 
 In my address of last year I endeavored to condense what little

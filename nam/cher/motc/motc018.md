@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc017) 
-[Next](motc019) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc017.md) 
+[Next](motc019.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ grinned, as the Possum does to this day when taken by surprise.
 
 ------------------------------------------------------------------------
 
-[Next: 19. How The Wildcat Caught The Gobbler](motc019)
+[Next: 19. How The Wildcat Caught The Gobbler](motc019.md)

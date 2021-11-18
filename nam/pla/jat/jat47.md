@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat46)  [Next](jat48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat46)  [Next](jat48.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ girl."
 
 ------------------------------------------------------------------------
 
-[Next: 46. Frog Wins From Antelope in a Footrace](jat48)
+[Next: 46. Frog Wins From Antelope in a Footrace](jat48.md)

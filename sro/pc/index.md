@@ -1,16 +1,16 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV3J0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV3J0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[Get PDF](pc.pdf)
+[Get PDF](pc.pdf.md)
 
 </div>
 
@@ -34,8 +34,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV3J0/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](pc.txt.gz)
+[Contents](#contents)    [Start Reading](pc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](pc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ However, this is most likely simply a case of parallel evolution.
 
 Since we don't have convenient access to the source documents of the
 Bavarian Illuminati we have to rely on Robison and the Abbé Barruel's
-[Memoirs Illustrating the History of Jacobinism](../mhj/index), both in
+[Memoirs Illustrating the History of Jacobinism](../mhj/index.md), both in
 the 'opposing views' category, for information on this group. The
 Illuminati have today become a byword for a secret society which
 hoodwinks its junior members and puppet-masters society at large. This
@@ -90,7 +90,7 @@ left the original spelling intact. Note that the 1967 edition makes no
 additional copyright claim on Robison's text (only on their modern
 introduction, which I have omitted). US copyright law requires extensive
 creative changes to a public domain text to allow a new claim of
-copyright. I have corrected [in the usual way](errata) a few obvious
+copyright. I have corrected [in the usual way](errata.md) a few obvious
 typos (which may have been introduced in the 1967 edition), but all of
 the non-conforming spelling has been tacitly preserved. I have also
 added a (public domain) translation of the Latin epigram on the
@@ -100,12 +100,12 @@ dedication page.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pc00)  
-[Dedications](pc01)  
-[Contents](pc02)  
-[Introduction](pc03)  
-[Chapter I. Schisms in Free Masonry](pc04)  
-[Chapter II. The Illuminati](pc05)  
-[Chapter III. The German Union](pc06)  
-[Chapter IV. The French Revolution](pc07)  
-[Postscript](pc08)  
+<span id="contents"></span> [Title Page](pc00.md)  
+[Dedications](pc01.md)  
+[Contents](pc02.md)  
+[Introduction](pc03.md)  
+[Chapter I. Schisms in Free Masonry](pc04.md)  
+[Chapter II. The Illuminati](pc05.md)  
+[Chapter III. The German Union](pc06.md)  
+[Chapter IV. The French Revolution](pc07.md)  
+[Postscript](pc08.md)  

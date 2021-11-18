@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](siim14)  [Next](siim16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](siim14)  [Next](siim16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Studies in Islamic Mysticism*, by Reynold A. Nicholson, \[1921\], at
 Intangible Textual Heritage
 
@@ -21,8 +21,8 @@ Intangible Textual Heritage
 
 ### JÍLÍ'S ‘AYNIYYA
 
-Mention has been made ([p. 99](siim10.htm#page_99), note
-[2](siim10.htm#fn_288) *supra*) of Jílí's ode entitled al-Nawádiru ’l-‘
+Mention has been made ([p. 99](siim10.htm#page_99.md), note
+[2](siim10.htm#fn_288) *supra*.md) of Jílí's ode entitled al-Nawádiru ’l-‘
 ayniyya fi ’l-bawádiri ’l-ghaybiyya. In the *Insánu ’l-Kámil* he cites
 36 of its 534 verses (I. 30, 3; 39, 6 fr. foot; 52, 17; 66, 19; and 76,
 15) and describes it as a magnificent and unique composition, too
@@ -39,7 +39,7 @@ together with a commentary by ‘Abdu ’l-Ghaní al-Nábulusí.
 
 <span id="img_14300"></span> <span align="CENTER"> [![1 (f. 130
 b)](tn/14300.jpg)  
-Click to enlarge](img/14300.jpg)  
+Click to enlarge](img/14300.jpg.md)  
 1 (f. 130 b)  
 </span>
 
@@ -51,7 +51,7 @@ these being the inward and outward aspects of the Beloved.
 
 <span id="img_14400"></span> <span align="CENTER"> [![2 (f. 139
 b)](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 2 (f. 139 b)  
 </span>
 
@@ -68,7 +68,7 @@ itself.
 
 <span id="img_14500"></span> <span align="CENTER"> [![3 (f. 146
 b)](tn/14500.jpg)  
-Click to enlarge](img/14500.jpg)  
+Click to enlarge](img/14500.jpg.md)  
 3 (f. 146 b)  
 </span>
 
@@ -85,7 +85,7 @@ should be   ̆  ̄  ̆ (not   ̆  ̄  ̄).
 
 <span id="img_14600"></span> <span align="CENTER"> [![4 (f. 156
 a)](tn/14600.jpg)  
-Click to enlarge](img/14600.jpg)  
+Click to enlarge](img/14600.jpg.md)  
 4 (f. 156 a)  
 </span>
 
@@ -93,7 +93,7 @@ Click to enlarge](img/14600.jpg)
 id="img_14602"></span> ![](img/14602.jpg).
 
 *v*. ٦. MS. <span id="img_14603"></span> ![](img/14603.jpg). Cf. [p.
-123](siim12.htm#page_123) *supra*.
+123](siim12.htm#page_123.md) *supra*.
 
 *v*. ٨ foll. The terms "ascent" and "descent" are improperly applied to
 the spirit, which has its being in God (<span id="img_14604"></span>
@@ -110,36 +110,36 @@ of the MS. reading <span id="img_14607"></span> ![](img/14607.jpg).
 
 <span id="img_14700"></span> <span align="CENTER"> [![4 (f. 156 a)
 (cont.)](tn/14700.jpg)  
-Click to enlarge](img/14700.jpg)  
+Click to enlarge](img/14700.jpg.md)  
 4 (f. 156 a) (cont.)  
 </span>
 
 <span id="img_14701"></span> <span align="CENTER"> [![5 (f. 161
 b)](tn/14701.jpg)  
-Click to enlarge](img/14701.jpg)  
+Click to enlarge](img/14701.jpg.md)  
 5 (f. 161 b)  
 </span>
 
 *v*. ٢١ MS. <span id="img_14702"></span> ![](img/14702.jpg).
 
-*v*. ٢ foll. Cf. [p. 151](siim16.htm#page_151) *infra*.
+*v*. ٢ foll. Cf. [p. 151](siim16.htm#page_151.md) *infra*.
 
-*v*. ١٢ foll. Cf. [p. 126](siim13.htm#page_126) *supra*.
+*v*. ١٢ foll. Cf. [p. 126](siim13.htm#page_126.md) *supra*.
 
 <span id="page_148">p. 148</span>
 
 <span id="img_14800"></span> <span align="CENTER"> [![5 (f. 161 b)
 (cont.)](tn/14800.jpg)  
-Click to enlarge](img/14800.jpg)  
+Click to enlarge](img/14800.jpg.md)  
 5 (f. 161 b) (cont.)  
 </span>
 
 <span id="img_14801"></span> <span align="CENTER"> [![6 (f. 170
 b)](tn/14801.jpg)  
-Click to enlarge](img/14801.jpg)  
+Click to enlarge](img/14801.jpg.md)  
 6 (f. 170 b)  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Appendix II. Some Notes On The *Fuṣúṣu ’l-Ḥikam*](siim16)
+[Next: Appendix II. Some Notes On The *Fuṣúṣu ’l-Ḥikam*](siim16.md)

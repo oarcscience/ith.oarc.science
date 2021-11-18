@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml29)  [Next](yml31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml29)  [Next](yml31.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ about their husbands.
 some Yaquis. But on that hill and on the other hill also we killed many
 of them."
 
-"This I knew, my Dios told me," said [Malinero'okai](errata.htm#5). "My
+"This I knew, my Dios told me," said [Malinero'okai](errata.htm#5.md). "My
 man, so young and valiant." With profound sadness the young girl spoke.
 
 On the following morning Wikoa Wikia said to the women, "It would be
@@ -121,7 +121,7 @@ me to which place you would like to go."
 
 "Take us to Sibam."
 
-Thus they set out, leaving [Pilaesi'im](errata.htm#6). In order to reach
+Thus they set out, leaving [Pilaesi'im](errata.htm#6.md). In order to reach
 Sibam they traveled three days. It is quite distant, Sibam, away to the
 north.
 
@@ -149,4 +149,4 @@ Juriana who is a direct descendant of Malinero'okai."
 
 ------------------------------------------------------------------------
 
-[Next: The First Deer Hunter](yml31)
+[Next: The First Deer Hunter](yml31.md)

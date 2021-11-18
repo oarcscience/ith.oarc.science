@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb15)  [Next](orfb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb15)  [Next](orfb17.md) 
 
 </div>
 
@@ -240,6 +240,6 @@ Lochlann.
 
 ------------------------------------------------------------------------
 
-[Next: Pinkel the Thief](orfb17)
+[Next: Pinkel the Thief](orfb17.md)
 
 </div>

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](aenl07)  [Previous](aen06) 
-[Next](aen08) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](aenl07)  [Previous](aen06.md) 
+[Next](aen08.md) 
 
 ------------------------------------------------------------------------
 
@@ -1166,4 +1166,4 @@ Her Lycian quiver dances in the wind.
 
 ------------------------------------------------------------------------
 
-[Next: Book VIII](aen08)
+[Next: Book VIII](aen08.md)

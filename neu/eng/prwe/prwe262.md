@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe261)  [Next](prwe263) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe261)  [Next](prwe263.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ extinguished, "bad luck to the weak hands," as my informant said.
 
 ------------------------------------------------------------------------
 
-[Next: Lights Seen by the Converted](prwe263)
+[Next: Lights Seen by the Converted](prwe263.md)

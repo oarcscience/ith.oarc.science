@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub46) 
-[Next](jub48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub46.md) 
+[Next](jub48.md) 
 
 ------------------------------------------------------------------------
 
 ### Isaac, Ishmael and Jacob join in Festival with Abraham for the Last Time. Abraham's Prayer (xxii. 1-9).
 
 XXII\. And it came to pass in the †first† <span
-id="fr_576"></span>[2](#fn_574) week in the †forty-fourth† <span
-id="fr_577"></span>[3](#fn_575) jubilee, in the †second† year, that is,
+id="fr_576"></span>[2](#fn_574.md) week in the †forty-fourth† <span
+id="fr_577"></span>[3](#fn_575.md) jubilee, in the †second† year, that is,
 the year in which Abraham died, that Isaac and Ishmael came from the
 Well of the Oath to celebrate the feast of weeks--that is, the feast of
 the first-fruits of the harvest--to Abraham, their father, and Abraham
@@ -37,13 +37,13 @@ That they might eat and drink and bless their Creator.
 \[paragraph continues\] 7. "And now I give thanks unto Thee, my God,
 because Thou hast caused me to see this day: behold, I am one hundred
 three score and fifteen years, an old man and full of days, <span
-id="fr_578"></span>[1](#fn_576) and all my days have been unto me peace.
-8. The sword of the adversary <span id="fr_579"></span>[2](#fn_577) hath
+id="fr_578"></span>[1](#fn_576.md) and all my days have been unto me peace.
+8. The sword of the adversary <span id="fr_579"></span>[2](#fn_577.md) hath
 not overcome me in all that Thou hast given me and my children all the
 days of my life until this day. 9. My God, may Thy mercy and Thy peace
 be upon Thy servant, and upon the seed of his sons, that they may be to
 Thee a chosen nation and an inheritance <span
-id="fr_580"></span>[3](#fn_578) from amongst all the nations of the
+id="fr_580"></span>[3](#fn_578.md) from amongst all the nations of the
 earth from henceforth unto all the days of the generations of the earth,
 unto all the ages."
 
@@ -51,20 +51,20 @@ unto all the ages."
 
 ### Footnotes
 
-<span id="fn_574"></span>[122:2](jub47.htm#fr_576) Read "sixth"
+<span id="fn_574"></span>[122:2](jub47.htm#fr_576.md) Read "sixth"
 (Charles).
 
-<span id="fn_575"></span>[122:3](jub47.htm#fr_577) Read "forty-second"
+<span id="fn_575"></span>[122:3](jub47.htm#fr_577.md) Read "forty-second"
 (Charles).
 
-<span id="fn_576"></span>[123:1](jub47.htm#fr_578) Cf. xxi. 1.
+<span id="fn_576"></span>[123:1](jub47.htm#fr_578.md) Cf. xxi. 1.
 
-<span id="fn_577"></span>[123:2](jub47.htm#fr_579) Cf. Jer. vi. 25.
+<span id="fn_577"></span>[123:2](jub47.htm#fr_579.md) Cf. Jer. vi. 25.
 
-<span id="fn_578"></span>[123:3](jub47.htm#fr_580) Israel is God's
+<span id="fn_578"></span>[123:3](jub47.htm#fr_580.md) Israel is God's
 inheritance; cf. Deut. iv. 20.
 
 ------------------------------------------------------------------------
 
 [Next: Abraham's Last Words to and Blessings of Jacob (xxii.
-10-30)](jub48)
+10-30)](jub48.md)

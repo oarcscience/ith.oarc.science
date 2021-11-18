@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat27)  [Next](flat29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat27)  [Next](flat29.md) 
 
 ------------------------------------------------------------------------
 
@@ -255,4 +255,4 @@ for one, under the name of THE LADY OF GOLLERUS.
 
 ------------------------------------------------------------------------
 
-[Next: Flory Cantillon's Funeral](flat29)
+[Next: Flory Cantillon's Funeral](flat29.md)

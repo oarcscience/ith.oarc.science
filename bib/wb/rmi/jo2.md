@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jo1)  [Next](jo3) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jo1)  [Next](jo3.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ O Del traden tuke but bax, zor ai sastimos. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: 3 John](jo3)
+[Next: 3 John](jo3.md)

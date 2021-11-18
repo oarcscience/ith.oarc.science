@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm03) 
-[Next](pdm05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm03.md) 
+[Next](pdm05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -269,7 +269,7 @@ portion of their sleep somnambulists sometimes see their magnetizer with
 these same signs. Pure astral light appears only in a condition of lofty
 ecstasy, but it is polarized in all bodies, combines with all
 terrestrial fluids and plays diverse *rôles* in electricity, in
-terrestrial and animal magnetism. <span id="fr_4"></span>[1](#fn_4) The
+terrestrial and animal magnetism. <span id="fr_4"></span>[1](#fn_4.md) The
 
 <span id="page_43">p. 43</span>
 
@@ -313,7 +313,7 @@ and duration of these images is in proportion to the intensity of the
 will producing them. And, in truth, there is no .other means of
 explaining thought suggestion and transmission at a distance, that
 principle of magic now-a-days acknowledged and recognized by
-science. <span id="fr_5"></span>[1](#fn_5) Thus in the astral light the
+science. <span id="fr_5"></span>[1](#fn_5.md) Thus in the astral light the
 past of the worlds trembles in vague images, and the future is there
 also, with the living
 
@@ -351,7 +351,7 @@ see but a little way."
 Let me add that this theory of clairvoyance and ecstasy is in wonderful
 agreement with the numerous experiments, scientifically carried out by
 savants and doctors of modern times, on lucid somnambulists and
-clairvoyants of every kind <span id="fr_6"></span>[1](#fn_6) From these
+clairvoyants of every kind <span id="fr_6"></span>[1](#fn_6.md) From these
 contemporary facts I shall endeavour briefly to characterize the
 successive psychic conditions from simple clairvoyance to cataleptic
 ecstasy.
@@ -391,7 +391,7 @@ sees through walls, penetrates hundreds of miles into homes where he has
 never been, and reads the private life of people he does not know. His
 eyes are closed, incapable of seeing anything, but his spirit sees
 farther and better than his open eyes and seems to travel about freely
-in space. <span id="fr_7"></span>[1](#fn_7) In a word, though
+in space. <span id="fr_7"></span>[1](#fn_7.md) In a word, though
 clairvoyance may be abnormal from the bodily point of view, it is a
 normal and superior state from the point of view of the spirit. The
 consciousness has become deeper, the vision wider. The ego remains the
@@ -400,7 +400,7 @@ from the coarse organs of the body, embraces
 
 <span id="page_48">p. 48</span>
 
-and penetrates a vaster horizon. <span id="fr_8"></span>[1](#fn_8) It is
+and penetrates a vaster horizon. <span id="fr_8"></span>[1](#fn_8.md) It is
 to be noted that certain somnambulists, when submitting to the passes of
 the magnetizer, feel themselves flooded with increasingly dazzling
 light, whilst the awaking seems to them an unpleasant return to
@@ -756,25 +756,25 @@ for his ministry, that he took his departure for Greater Greece.
 
 ### Footnotes
 
-<span id="fn_4"></span>[42:1](pdm04.htm#fr_4) Reichenbach called this
+<span id="fn_4"></span>[42:1](pdm04.htm#fr_4.md) Reichenbach called this
 fluid *odyle*. His work has been translated into English by Gregory:
 *Researches on Magnetism, Electricity, Heat, Light, Cristalization and
 Chemical Attraction*.—London, 1880.
 
-<span id="fn_5"></span>[44:1](pdm04.htm#fr_5) See the Bulletin of the
+<span id="fn_5"></span>[44:1](pdm04.htm#fr_5.md) See the Bulletin of the
 Société de Pyschologie Physiologique. M. Charcot, president, 1885. See
 more especially the fine book by M. Ochorowicz, *De la Suggestion
 Mentale*, Paris, 1887.
 
-<span id="fn_6"></span>[46:1](pdm04.htm#fr_6) There is a great deal of
+<span id="fn_6"></span>[46:1](pdm04.htm#fr_6.md) There is a great deal of
 literature on this subject, very unequal in value, in France, Germany
 and England. I will here mention two books in which the subject is
 treated scientifically by men of real worth.
 
-<span id="fn_7"></span>[47:1](pdm04.htm#fr_7) Numerous examples in
+<span id="fn_7"></span>[47:1](pdm04.htm#fr_7.md) Numerous examples in
 Gregory's work: Letters XVI, XVII, and XVIII.
 
-<span id="fn_8"></span>[48:1](pdm04.htm#fr_8) The German philosopher,
+<span id="fn_8"></span>[48:1](pdm04.htm#fr_8.md) The German philosopher,
 Schelling, has acknowledged the great importance of somnambulism in the
 question of the immortality of the soul. He remarks that, in lucid
 sleep, there is produced an elevation of the soul, and its relative
@@ -811,4 +811,4 @@ body, so that it be fashioned like unto His glorious body."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Order and the Doctrine](pdm05)
+[Next: Chapter IV. The Order and the Doctrine](pdm05.md)

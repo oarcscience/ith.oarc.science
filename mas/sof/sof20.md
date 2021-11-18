@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof19)  [Next](sof21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof19)  [Next](sof21.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head18.png"></span> ![Header Chapter
-XVIII.](img/head18.png)
+XVIII.](img/head18.png.md)
 
 ## XVIII.
 
@@ -25,14 +25,14 @@ signification was well understood in the days of Moses, we learn from
 that passage of Exodus where the angel of the Lord, at the burning bush,
 exclaims to the patriarch, "Draw not nigh hither; put off thy shoes from
 off thy feet, for the place whereon thou standest is holy ground."
- [84](sof37.htm#xref_84) Clarke [85](sof37.htm#xref_85) thinks it is
+ [84](sof37.htm#xref_84) Clarke [85](sof37.htm#xref_85.md) thinks it is
 from this command that the Eastern nations have derived the custom of
 performing all their acts of religious worship with bare feet. But it is
 much more probable that the ceremony was in use long anterior to the
 circumstance of the burning bush, and that the Jewish lawgiver at once
 recognized it as a well-known sign of reverence.
 
-Bishop Patrick [86](sof37.htm#xref_86) entertains this opinion, and
+Bishop Patrick [86](sof37.htm#xref_86.md) entertains this opinion, and
 thinks that the custom was derived from the ancient patriarchs, and was
 transmitted by a general tradition to succeeding times.
 
@@ -43,7 +43,7 @@ interesting.
 
 The direction of Pythagoras to his disciples was in these words:
 "Ανυπόδητος θύε ϗαι πρόσϗυνει;" that is, Offer sacrifice and worship
-with thy shoes off. [87](sof37.htm#xref_87)
+with thy shoes off. [87](sof37.htm#xref_87.md)
 
 Justin Martyr says that those who came to worship in the sanctuaries and
 temples of the Gentiles were commanded by their priests to put off their
@@ -51,12 +51,12 @@ shoes.
 
 Drusius, in his Notes on the Book of Joshua, says that among most of the
 Eastern nations it was a pious duty to tread the pavement of the temple
-with unshod feet. [88](sof37.htm#xref_88)
+with unshod feet. [88](sof37.htm#xref_88.md)
 
 Maimonides, the great expounder of the Jewish law, asserts that "it was
 not lawful for a man to come into the mountain of God's house with his
 shoes on his feet, or with his staff, or in his working garments, or
-with dust on his feet."  [89](sof37.htm#xref_89)
+with dust on his feet."  [89](sof37.htm#xref_89.md)
 
 Rabbi Solomon, commenting on the command in Leviticus xix. 30, "Ye shall
 reverence my sanctuary," makes the same remark in relation to this
@@ -64,12 +64,12 @@ custom. On this subject Dr. Oliver observes, "Now, the act of going with
 naked feet was always considered a token of humility and reverence; and
 the priests, in the temple worship, always officiated with feet
 uncovered, although it was frequently injurious to their health."
- [90](sof37.htm#xref_90)
+ [90](sof37.htm#xref_90.md)
 
 Mede quotes Zago Zaba, an Ethiopian bishop, who was ambassador from
 David, King of Abyssinia, to John III., of Portugal, as saying, "We are
 not permitted to enter the church, except barefooted."
- [91](sof37.htm#xref_91)
+ [91](sof37.htm#xref_91.md)
 
 The Mohammedans, when about to perform their devotions, always leave
 their slippers at the door of the mosque. The Druids practised the same
@@ -81,7 +81,7 @@ sun.
 Adam Clarke thinks that the custom of worshipping the Deity barefooted
 was so general among all nations of antiquity, that he assigns it as one
 of his thirteen proofs that the whole human race have been derived from
-one family. [92](sof37.htm#xref_92)
+one family. [92](sof37.htm#xref_92.md)
 
 A theory might be advanced as follows: The shoes, or sandals, were worn
 on ordinary occasions as a protection from the defilement of the ground.
@@ -129,6 +129,6 @@ whereon thou standest is holy ground."
 
 ------------------------------------------------------------------------
 
-[Next: XIX. The Rite of Investiture](sof21)
+[Next: XIX. The Rite of Investiture](sof21.md)
 
 </div>

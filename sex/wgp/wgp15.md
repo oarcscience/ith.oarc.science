@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp14)  [Next](wgp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp14)  [Next](wgp16.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ Other wicked acts followed, and then the devil preached to them, and
 enjoined them especially not to go to church, or hear mass, or touch
 holy water, or perform any other of the duties of good Christians. After
 this sermon was ended, the meeting was dissolved, and they separated and
-returned to their several homes. <span id="fr_103"></span>[104](#fn_103)
+returned to their several homes. <span id="fr_103"></span>[104](#fn_103.md)
 
 <span id="page_158">p. 158</span>
 
@@ -202,7 +202,7 @@ at last they abandoned themselves to indiscriminate sexual intercourse,
 in which the demons played a very active part. The meeting separated in
 time to allow the witches, by the same expeditious conveyance which
 brought them, to reach their homes before the cock crowed. <span
-id="fr_104"></span>[105](#fn_104)
+id="fr_104"></span>[105](#fn_104.md)
 
 Such is the account of the Sabbath, as described by Bodin; but we have
 reviewed it briefly in order to describe this strange scene from the
@@ -238,7 +238,7 @@ title of *Tableau de l'Inconstance des Mauvais Anges et* 
 <span id="page_164">p. 164</span>
 
 \[paragraph continues\] *Démons*. <span
-id="fr_105"></span>[106](#fn_105)Pierre de Lancre writes honestly and
+id="fr_105"></span>[106](#fn_105.md)Pierre de Lancre writes honestly and
 conscientiously, and he evidently believes everything he has written.
 His book is valuable for the great amount of new information it
 contains, derived from the confessions of the witches, and given
@@ -446,7 +446,7 @@ passed, and afterwards the witches, without suffering any pain, which,
 as explained by De Lancre, was intended to teach them not to fear the
 fire of hell. But we see in these the need-fires, which formed a part of
 the priapic orgies, and of which we have spoken before ([p.
-94](wgp09.htm#page_94)). There women are presenting to him children,
+94](wgp09.htm#page_94).md). There women are presenting to him children,
 whom they have initiated in sorcery, and he shows them a deep pit, into
 which he threatens to throw them if they refuse to renounce God and to
 adore Satan.
@@ -577,7 +577,7 @@ so short by reason of the pleasure and enjoyment, that they never left
 it without marvelous regret, so that they looked forward with infinite
 impatience to the next meeting.
 
-Marie de la Ralde, "a very handsome woman [twenty-eight](errata.htm#8)
+Marie de la Ralde, "a very handsome woman [twenty-eight](errata.htm#8.md)
 years of age," who had then abandoned her connection with the devil five
 or six years, gave a full account of her experience of the Sabbath. She
 said she had frequented the Sabbaths from the time she was ten years
@@ -634,7 +634,7 @@ speech, but they were obliged to adore and kiss it. Afterwards
  
 
 <span id="img_pl16"></span> [![](tn/generic.jpg)  
-Click to view](img/pl16.jpg)  
+Click to view](img/pl16.jpg.md)  
 PLATE XVI  
 THE WITCHES' SABBATH FROM DE LANCRE, 1613
 
@@ -695,7 +695,7 @@ continually, the latter to do evil, the former to report what they had
 done. They went out at sea, even as far as Newfoundland, where their
 husbands and sons went to fish, in order to raise storms, and endanger
 their ships. This deponent spoke also of the fires at the Sabbath, into
-which the witches were thrown [without](errata.htm#9) sustaining any
+which the witches were thrown [without](errata.htm#9.md) sustaining any
 hurt. She had seen the frequenters of the Sabbath make themselves appear
 as big as houses, but she had never seen them transform themselves into
 animals, although there were animals of different kinds running about at
@@ -892,7 +892,7 @@ conjunctions--the daughter with the father, the mother with her son, the
 sister with the brother, the daughter-in-law with the father-in-law, the
 penitent with her confessor, without distinction of age, quality, or
 relationship, so that she confessed to having been known an infinity of
-times at the [Sabbath](errata.htm#10) by a cousin-german of her mother,
+times at the [Sabbath](errata.htm#10.md) by a cousin-german of her mother,
 and by an infinite number of others. After repeating much that she had
 said before relating to the impudicity of the Sabbath, this girl said
 that she had been deflowered by the devil at the age of thirteen--twelve
@@ -923,7 +923,7 @@ De Lancre caused all the facts gathered from the confessions of his
 victims to be embodied in a picture which illustrates the second edition
 of his book, and which places the whole scene before us so vividly that
 we have had it re-engraved in facsimile as an illustration to the
-present essay. <span id="fr_106"></span>[107](#fn_106) The different
+present essay. <span id="fr_106"></span>[107](#fn_106.md) The different
 groups are, as will be seen, indicated by capital letters. At A we have
 Satan in his gilt pulpit, with five horns, the one in the middle
 lighted, for the purpose of giving light to all the candles and fires at
@@ -986,7 +986,7 @@ a country so thinly peopled, assemble by night in retired places without
 any fear of observation. There they perhaps indulged in Priapic rites,
 followed by the old Priapic orgies, which would become more and more
 debased in form, but through the effects of exciting potions, as
-described by Michelet, <span id="fr_107"></span>[108](#fn_107) would
+described by Michelet, <span id="fr_107"></span>[108](#fn_107.md) would
 have become wilder than ever. They became, as Michelet describes them,
 the Saturnalia of the serf. The state of mind produced by these
 excitements would lead those who partook in them to believe easily in
@@ -1012,26 +1012,26 @@ Roman manners and superstitions was greatest.
 
 ### Footnotes
 
-<span id="fn_103"></span>[157:104](wgp15.htm#fr_103) The account of the
+<span id="fn_103"></span>[157:104](wgp15.htm#fr_103.md) The account of the
 witch trials at Arras was published in the supplementary additions to
 Monstrelet; but the original records of the proceedings have since been
 found and printed.
 
-<span id="fn_104"></span>[162:105](wgp15.htm#fr_104) The first edition
+<span id="fn_104"></span>[162:105](wgp15.htm#fr_104.md) The first edition
 of the work of Bodin, *De la Démonomanie des Sorciers*, was published at
 Paris, in 4to, in 1580. It went through many editions, and was
 translated into Latin and other languages.
 
-<span id="fn_105"></span>[164:106](wgp15.htm#fr_105) 4to. Parts, 1612. A
+<span id="fn_105"></span>[164:106](wgp15.htm#fr_105.md) 4to. Parts, 1612. A
 new and improved edition appeared in 1613.
 
-<span id="fn_106"></span>[191:107](wgp15.htm#fr_106) See our [plate
-XVI](#img_pl16).
+<span id="fn_106"></span>[191:107](wgp15.htm#fr_106.md) See our [plate
+XVI](#img_pl16.md).
 
-<span id="fn_107"></span>[194:108](wgp15.htm#fr_107) See Michelet, *La
+<span id="fn_107"></span>[194:108](wgp15.htm#fr_107.md) See Michelet, *La
 Sorcière*, liv. i, c. 9, on the use and the effects of the Solaneæ, to
 which he attributes much of the delusions of the Sabbath.
 
 ------------------------------------------------------------------------
 
-[Next: Inniskea](wgp16)
+[Next: Inniskea](wgp16.md)

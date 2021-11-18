@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg22)  [Next](btg24) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg22)  [Next](btg24.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ And this doctrine will endure."
 
 ------------------------------------------------------------------------
 
-[Next: Anathapindika, The Man Of Wealth](btg24)
+[Next: Anathapindika, The Man Of Wealth](btg24.md)

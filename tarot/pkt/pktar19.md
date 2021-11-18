@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar18)  [Next](pktar20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar18)  [Next](pktar20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Sun
 
 <span id="img_ar19"></span> <span align="CENTER"> [![](tn/ar19.jpg)  
-Click to enlarge](img/ar19.jpg)</span>
+Click to enlarge](img/ar19.jpg.md)</span>
 
 The naked child mounted on a white horse and displaying a red standard
 has been mentioned already as the better symbolism connected with this
@@ -44,4 +44,4 @@ forth the animal nature in a state of perfect conformity.
 
 ------------------------------------------------------------------------
 
-[Next: XX. The Last Judgement](pktar20)
+[Next: XX. The Last Judgement](pktar20.md)

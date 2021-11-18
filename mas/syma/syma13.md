@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](syma12)  [Next](syma14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](syma12)  [Next](syma14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symbolical Masonry*, by H.L. Haywood, \[1923\], at Intangible Textual
 Heritage
 
@@ -29,7 +29,7 @@ is no reason to comment save in brief manner, and then only on the
 meaning given as aforesaid. This meaning has especial significance to us
 because it sets forth the only *real penalty* that a Mason ever suffers
 for violating his obligation. (On "Obligation," see [p.
-110](syma18.htm#page_110).)
+110](syma18.htm#page_110)..md)
 
 It is accurate to say that a majority of the attacks on Freemasonry have
 been occasioned by the "Penalties" which are supposed to be enforced on
@@ -79,4 +79,4 @@ heart.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Invoking the Blessing of Deity](syma14)
+[Next: Chapter X. Invoking the Blessing of Deity](syma14.md)

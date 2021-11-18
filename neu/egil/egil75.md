@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil74)  [Next](egil76) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil74)  [Next](egil76.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ night.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXV. Parting of Egil and Armod.](egil76)
+[Next: CHAPTER LXXV. Parting of Egil and Armod.](egil76.md)

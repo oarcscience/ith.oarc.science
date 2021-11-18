@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa06)  [Next](fiwa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa06)  [Next](fiwa08.md) 
 
 ------------------------------------------------------------------------
 
@@ -394,4 +394,4 @@ show that they have none but the most confused ideas."\[1\]
 ------------------------------------------------------------------------
 
 [Next: Chapter VI: Fetichism--Its Philosophy--A Physical
-Salvation--Charms and Amulets](fiwa08)
+Salvation--Charms and Amulets](fiwa08.md)

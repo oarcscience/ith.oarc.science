@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof23)  [Next](sof25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof23)  [Next](sof25.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head22.png"></span> ![Header Chapter
-XXII.](img/head22.png)
+XXII.](img/head22.png.md)
 
 ## XXII.
 
@@ -24,8 +24,8 @@ through which he has passed, and to which the trials and labors which he
 has undergone can only entitle him. This ceremony is technically called
 the "*rite of intrusting*," because it is then that the aspirant begins
 to be intrusted with that for the possession of which he was
-seeking. [95](sof37.htm#xref_95) It is equivalent to what, in the
-ancient Mysteries, was called the "autopsy,"  [96](sof37.htm#xref_96) or
+seeking. [95](sof37.htm#xref_95.md) It is equivalent to what, in the
+ancient Mysteries, was called the "autopsy,"  [96](sof37.htm#xref_96.md) or
 the seeing of what only the initiated were permitted to behold.
 
 This *rite of intrusting* is, of course, divided into several parts or
@@ -44,10 +44,10 @@ to be illuminated in his pilgrimage of life.
 The Hebrew cosmogonist commences his description of the creation by the
 declaration that "God said, Let there be light, and there was light"--a
 phrase which, in the more emphatic form that it has received in the
-original language of "Be light, and light was,"  [97](sof37.htm#xref_97)
+original language of "Be light, and light was,"  [97](sof37.htm#xref_97.md)
 is said to have won the praise, for its sublimity, of the greatest of
 Grecian critics. "The singularly emphatic summons," says a profound
-modern writer, [98](sof37.htm#xref_98) "by which light is called into
+modern writer, [98](sof37.htm#xref_98.md) "by which light is called into
 existence, is probably owing to the preëminent utility and glory of that
 element, together with its mysterious nature, which made it seem as
 
@@ -89,7 +89,7 @@ Thus, among the Hebrews, the word AUR, in the singular, signified
 divine will; and the *aurim* and *thummim*, literally the *lights* and
 *truths*, constituted a part of the breastplate whence the high priest
 obtained oracular responses to the questions which he
-proposed. [99](sof37.htm#xref_99)
+proposed. [99](sof37.htm#xref_99.md)
 
 There is a peculiarity about the word "light," in the old Egyptian
 language, which is well worth consideration in this connection. Among
@@ -111,7 +111,7 @@ and the Egyptian, such a coincidence could not have been accidental. It
 shows the prevalence of the sentiment, at that period, that the
 communication of light was the prominent design of the Mysteries--so
 prominent that the one was made the synonyme of the
-other. [100](sof37.htm#xref_100)
+other. [100](sof37.htm#xref_100.md)
 
 The worship of light, either in its pure essence or in the forms of
 sun-worship and fire-worship, because the sun and the fire were causes
@@ -145,14 +145,14 @@ genial influence of a particular climate,--for the worship was
 universal, in Scandinavia as in India,--but because it was the natural
 and inevitable result of the worship of the sun, the chief deity of
 Sabianism--a faith which pervaded to an extraordinary extent the whole
-religious sentiment of antiquity. [101](sof37.htm#xref_101)
+religious sentiment of antiquity. [101](sof37.htm#xref_101.md)
 
 Light was venerated because it was an emanation from the sun, and, in
 the materialism of the ancient faith, *light* and *darkness* were both
 personified as positive existences, the one being the enemy of the
 other. Two principles were thus supposed to reign over the world,
 antagonistic to each other, and each alternately presiding over the
-destinies of mankind. [102](sof37.htm#xref_102)
+destinies of mankind. [102](sof37.htm#xref_102.md)
 
 The contests between the good and evil principle, symbolized by light
 and darkness, composed a very large part of the ancient mythology in all
@@ -201,7 +201,7 @@ world's eternal ways; he who walketh in the former returneth not; that
 is to say, he goeth to eternal bliss; whilst he who walketh in the
 latter cometh back again upon earth," and is thus destined to pass
 through further transmigrations, until his soul is perfectly purified by
-light. [103](sof37.htm#xref_103)
+light. [103](sof37.htm#xref_103.md)
 
 In all the ancient systems of initiation the candidate was shrouded in
 darkness, as a preparation for the reception of light. The duration
@@ -236,7 +236,7 @@ that in the beginning "the world was without form, and void, and
 darkness was on the face of the deep." The Chaldean cosmogony taught
 that in the beginning "all was darkness and water." The Phoenicians
 supposed that "the beginning of all things was a wind of black air, and
-a chaos dark as Erebus."  [104](sof37.htm#xref_104)
+a chaos dark as Erebus."  [104](sof37.htm#xref_104.md)
 
 But out of all this darkness sprang forth light, at the divine command,
 and the sublime phrase, "Let there be light," is repeated, in some
@@ -259,7 +259,7 @@ investigation.
 light and darkness. The form of this fable varies according to each
 nation, but the foundation is everywhere the same. Under the symbol of
 the creation of the world it presents the picture of regeneration and
-initiation."  [105](sof37.htm#xref_105)
+initiation."  [105](sof37.htm#xref_105.md)
 
 Plutarch says that to die is to be initiated into the greater Mysteries;
 and the Greek word τελευτᾷν, which signifies *to die*, means also *to be
@@ -277,10 +277,10 @@ Light is, therefore, a fundamental symbol in Freemasonry. It is, in
 fact, the first important symbol that is presented to the neophyte in
 his instructions, and contains within itself the very essence of
 Speculative Masonry, which is nothing more than the contemplation of
-intellectual light or truth. [106](sof37.htm#xref_106)
+intellectual light or truth. [106](sof37.htm#xref_106.md)
 
 ------------------------------------------------------------------------
 
-[Next: XXIII. Symbolism of the Corner-Stone](sof25)
+[Next: XXIII. Symbolism of the Corner-Stone](sof25.md)
 
 </div>

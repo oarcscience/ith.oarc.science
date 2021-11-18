@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb16)  [Next](spb18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb16)  [Next](spb18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -18,8 +18,8 @@ Intangible Textual Heritage
 
 ### MORNING SERVICE FOR SABBATHS AND FESTIVALS.
 
-*Begin page [2](spb04.htm#page_2) to "the Lord is One," [p.
-43](spb05.htm#page_43). Then continue as follows:—*
+*Begin page [2](spb04.htm#page_2.md) to "the Lord is One," [p.
+43](spb05.htm#page_43.md). Then continue as follows:—*
 
 The breath of every living being shall bless thy name, O Lord our God,
 and the spirit of all flesh shall continually glorify and exalt thy
@@ -140,7 +140,7 @@ blessed from this time forth and for evermore.
 
 </div>
 
-* <span id="fr_18"></span>[\*](#fn_16) On Festivals falling, on
+* <span id="fr_18"></span>[\*](#fn_16.md) On Festivals falling, on
 week-days say, "Who in mercy."*
 
 All shall thank thee, and all shall praise thee, and all shall say,
@@ -170,7 +170,7 @@ God, the Lord over all works, blessed is he, and ever to be blessed by
 the mouth of everything that hath breath. His greatness and goodness
 fill the universe; knowledge and understanding surround him: he is
 exalted above the holy Chayoth and is adorned in glory above the
-celestial chariot <span id="fr_19"></span>[\*](#fn_17): purity and
+celestial chariot <span id="fr_19"></span>[\*](#fn_17.md): purity and
 rectitude are before his throne,
 
 <span id="page_188">p. 188</span>
@@ -194,7 +194,7 @@ on the day of rest, and called the Sabbath day a delight. This is the
 praise of the Sabbath day, that God rested thereon from all his work,
 when the Sabbath day itself offered praise and said, "A Psalm, a song of
 the Sabbath day, It is good to give thanks into the Lord." <span
-id="fr_20"></span>[\*](#fn_18) Therefore let all his creatures glorify
+id="fr_20"></span>[\*](#fn_18.md) Therefore let all his creatures glorify
 and bless God; let them render praise, honor
 
 <span id="page_189">p. 189</span>
@@ -394,7 +394,7 @@ Lord of hosts is his name, the Holy One of Israel. Blessed art thou, O
 Lord, who hast redeemed Israel.</span>
 
 *The following Prayer (Amidah) to "as in ancient years," [p.
-206](#page_206), is to be said standing*.
+206](#page_206.md), is to be said standing*.
 
 <span class="small">O Lord, open thou my lips, and my mouth shall
 declare thy praise.</span>
@@ -437,7 +437,7 @@ killest and quickenest, and causest salvation to spring forth?
 rememberest thy creatures unto life?</span>
 
 Yea, faithful art thou to quicken the dead. Blessed art thou, O Lord,
-who quickenest the dead. \* (See page [199](#page_199)).
+who quickenest the dead. \* (See page [199](#page_199).md).
 
 Thou art holy, and thy name is holy, and holy beings praise thee daily.
 (Selah.) Blessed art thou, O Lord, the holy God.
@@ -449,7 +449,7 @@ Thou art holy, and thy name is holy, and holy beings praise thee daily.
 <span id="page_199">p. 199</span>
 
 *When the Reader repeats the Amidah, the following is said, to "holy
-God," [p. 200](#page_200)*.
+God," [p. 200](#page_200.md)*.
 
 \* *Reader*.—We will sanctify thy name in the world even as they
 sanctify it in the highest heavens, as it is written by the hand of thy
@@ -528,7 +528,7 @@ people Israel be ever acceptable unto thee.
 *On New Moon and the Intermediate Days of Passover and Tabernacles
 say:—*
 
-Our God and God of our fathers! May our [remembrance](errata.htm#0)
+Our God and God of our fathers! May our [remembrance](errata.htm#0.md)
 rise, come and be accepted before thee, with the remembrance of our
 fathers, of Messiah the son of David thy servant, of Jerusalem thy holy
 city, and of all thy people the house of Israel, bringing deliverance
@@ -585,7 +585,7 @@ all-good, whose mercies fail not; thou, merciful Being, whose
 lovingkindnesses never cease, we have ever hoped in thee.
 
 *(On Chanukah say "We thank thee also," etc. [p.
-63](spb05.htm#page_63).)*
+63](spb05.htm#page_63)..md)*
 
 <span id="page_204">p. 204</span>
 
@@ -657,7 +657,7 @@ as in ancient years. Then shall the offering of Judah and Jerusalem be
 pleasant unto the Lord, as in the days of old, and as in ancient years.
 
 *On New Moon, Festivals, the Intermediate Days of Festivals and on
-Chanukah, Hallel, [p. 313](spb26.htm#page_313), is said after the
+Chanukah, Hallel, [p. 313](spb26.htm#page_313.md), is said after the
 Amidah*
 
 *Reader*.—Magnified and sanctified be his great name in the world which
@@ -697,7 +697,7 @@ us and for all Israel; and say ye, Amen.
 
 ### Footnotes
 
-<span id="fn_16"></span>[186:\*](spb17.htm#fr_18) *On Festivals falling
+<span id="fn_16"></span>[186:\*](spb17.htm#fr_18.md) *On Festivals falling
 on Week-days*.
 
 Who in mercy givest light to the earth and to them that dwell thereon,
@@ -718,15 +718,15 @@ hast made: they shall glorify thee for ever.
 
 *Continue "Be thou blessed," see above*.
 
-<span id="fn_17"></span>[187:\*](spb17.htm#fr_19) Cf. Talmud Babli, Tr.
+<span id="fn_17"></span>[187:\*](spb17.htm#fr_19.md) Cf. Talmud Babli, Tr.
 Chagigah, 13 b.
 
-<span id="fn_18"></span>[188:\*](spb17.htm#fr_20) Midrash Tillim.
+<span id="fn_18"></span>[188:\*](spb17.htm#fr_20.md) Midrash Tillim.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Order of Reading the Law on Sabbaths and Festivals](spb18)
+[Next: Order of Reading the Law on Sabbaths and Festivals](spb18.md)
 
 </div>

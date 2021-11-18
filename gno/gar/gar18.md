@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar17)  [Next](gar19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar17)  [Next](gar19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ description which has been left us of their character. "The Apostles in
 the Commentaries written by themselves, which we call *Gospels*, have
 delivered down to us that Jesus thus commanded them: He having taken
 bread, after that He had given *thanks*, <span
-id="fr_47"></span>[\*](#fn_46) said: Do this in commemoration of me;
+id="fr_47"></span>[\*](#fn_46.md) said: Do this in commemoration of me;
 this is my body. Also having taken a cup and returned thanks, He said:
 This is my blood, and delivered it unto them alone. Which things indeed
 the evil spirits have taught to be done, out of memory, in the Mysteries
@@ -230,7 +230,7 @@ of the neophyte's courage, which, according to Suidas, were termed the
 of vastly more severe reality, with those trials of courage to which our
 Masonic Lodges subject the "apprentice" who seeks admission amongst
 them. During the Mithraic probation, which lasted *forty* days, <span
-id="fr_48"></span>[\*](#fn_47) the candidate was tested by the Four
+id="fr_48"></span>[\*](#fn_47.md) the candidate was tested by the Four
 Elements, he lay naked a certain number of nights upon the snow, and
 afterwards was scourged for the space of two days. These Twelve Tortures
 are sculptured upon the border of the famous Mithraic tablets preserved
@@ -323,13 +323,13 @@ by that eminent antiquary, Flaminius Vacca. (No. 117.)
 
 ### Footnotes
 
-<span id="fn_46"></span>[122:\*](gar18.htm#fr_47) This expression seems
+<span id="fn_46"></span>[122:\*](gar18.htm#fr_47.md) This expression seems
 to prove that the notion of blessing, or consecrating, the elements, had
 not then (the second century) crept into the Christian practice.
 
-<span id="fn_47"></span>[127:\*](gar18.htm#fr_48) Perhaps the origin of
+<span id="fn_47"></span>[127:\*](gar18.htm#fr_48.md) Perhaps the origin of
 the Lenten term of self-inflicted punishment.
 
 ------------------------------------------------------------------------
 
-[Next: III. A Roman Mithras in His Cave](gar19)
+[Next: III. A Roman Mithras in His Cave](gar19.md)

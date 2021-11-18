@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc02)  [Next](motc04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc02)  [Next](motc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,7 +128,7 @@ You mean like Lyra, the daughter of Daphnis?
 <span id="img_01500"></span>
 
 [![](tn/01500.jpg)  
-Click to enlarge](img/01500.jpg)
+Click to enlarge](img/01500.jpg.md)
 
  
 
@@ -239,4 +239,4 @@ tonight.
 
 ------------------------------------------------------------------------
 
-[Next: Sweetheart](motc04)
+[Next: Sweetheart](motc04.md)

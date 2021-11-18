@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos36)  [Next](kos38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos36)  [Next](kos38.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ conversing with or conjuring Spirits, in which the day and the hour are
 not marked, thou shalt put it in execution on the days and hours of
 Mercury, at the sixteenth or twenty-third hour, but it will be still
 better at the eighth, which is the third <span
-id="fr_74"></span>[1](#fn_74) of the same night, which is called and
+id="fr_74"></span>[1](#fn_74.md) of the same night, which is called and
 means before the morning, for then thou shalt be able to put in practice
 all the Arts and Operations which should be performed, according as it
 shall please thee by day or by night, provided that they have been
@@ -128,9 +128,9 @@ When the Spirits which are created of Clouds are invoked, they come with
 great deformity, in a horrible form, to strike fear into the Invocator,
 and with an exceeding great noise.
 
-Others <span id="fr_75"></span>[1](#fn_75) which are formed from Wind
+Others <span id="fr_75"></span>[1](#fn_75.md) which are formed from Wind
 appear like thereunto and with exceeding swift motion, and whensoever
-those which are created from Beauty <span id="fr_76"></span>[2](#fn_76)
+those which are created from Beauty <span id="fr_76"></span>[2](#fn_76.md)
 appear, they will show themselves in a fair and agreeable form;
 moreover, whensoever thou shalt call the Spirits created from Air, they
 will come with a kind of gentle breeze.
@@ -144,7 +144,7 @@ they rejoice in many ornaments; they boast of possessing mundane beauty,
 and all sorts of ornaments and decorations. Thou shalt only invoke them
 in serene, mild, and pleasant weather.
 
-The Spirits <span id="fr_77"></span>[3](#fn_77) which are created of
+The Spirits <span id="fr_77"></span>[3](#fn_77.md) which are created of
 Fire reside in the cast, those created of Wind in the south.
 
 Note then that it will be much better to perform the experiments or
@@ -179,20 +179,20 @@ this Chapter.
 
 ### Footnotes
 
-<span id="fn_74"></span>[80:1](kos37.htm#fr_74) In 10862 Add. MSS. it
+<span id="fn_74"></span>[80:1](kos37.htm#fr_74.md) In 10862 Add. MSS. it
 says 'the second.'
 
-<span id="fn_75"></span>[82:1](kos37.htm#fr_75) This paragraph is only
+<span id="fn_75"></span>[82:1](kos37.htm#fr_75.md) This paragraph is only
 found in 10862 Add. MSS.
 
-<span id="fn_76"></span>[82:2](kos37.htm#fr_76) The Name of the Sixth
+<span id="fn_76"></span>[82:2](kos37.htm#fr_76.md) The Name of the Sixth
 Qabalistical Sephira or Emanation from the Deity, which is called
 Tiphereth, or Beauty.
 
-<span id="fn_77"></span>[82:3](kos37.htm#fr_77) I have usually found it
+<span id="fn_77"></span>[82:3](kos37.htm#fr_77.md) I have usually found it
 said exactly *vice versâ*.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. In What Manner the Master of the Art Should Keep,
-Rule, And Govern Himself](kos38)
+Rule, And Govern Himself](kos38.md)

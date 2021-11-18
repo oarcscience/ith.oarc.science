@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto04)  [Next](gto06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto04)  [Next](gto06.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Sagas](../../index)  [Iceland](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Thrall's Curse](gto06)
+[Next: Chapter I. The Thrall's Curse](gto06.md)

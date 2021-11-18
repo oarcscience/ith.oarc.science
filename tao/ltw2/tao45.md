@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao45)   
-[Previous](tao44)  [Next](tao46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao45.md)   
+[Previous](tao44)  [Next](tao46.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ Purity and tranquillity are the true characteristics of creation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 46](tao46)
+[Next: Chapter 46](tao46.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca06)  [Next](ntca08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca06)  [Next](ntca08.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,7 +208,7 @@ the *Ertnatulunga*, and those of dead men are supposed to be endowed
 with the attributes of their owner and to actually impart these to the
 person who, for the time being, may, as when a fight takes place, be
 fortunate enough to carry it about with him. <span
-id="fr_71"></span>[1](#fn_71) The Churinga is supposed to endow the
+id="fr_71"></span>[1](#fn_71.md) The Churinga is supposed to endow the
 possessor with courage and accuracy of aim, and also to deprive his
 opponent of these qualities. So firm is their belief in this that if two
 men were fighting and one of them knew that the other carried a Churinga
@@ -289,7 +289,7 @@ not referring to the fact that, as Mr. Howitt first showed, and as has
 since been abundantly verified by other workers, the women and children
 are taught to believe that the voice of the bull-roarer is that of some
 spirit such as Daramulun, but in Mr. Howitt's paper dealing with the
-Jeraeil of the Kurnai tribe <span id="fr_72"></span>[1](#fn_72) we meet
+Jeraeil of the Kurnai tribe <span id="fr_72"></span>[1](#fn_72.md) we meet
 with the still more suggestive fact that at a certain time during the
 initiation ceremonies the men who are in charge of the novices say to
 them, “This afternoon we will take you, and show your grandfather to
@@ -331,7 +331,7 @@ the Churinga, at the present day, whatever may have been the case in
 past time, lies in the fact that each one is intimately associated with,
 and is indeed the representative of, one of the Alcheringa ancestors,
 with the attributes of whom it is endowed. <span
-id="fr_73"></span>[1](#fn_73) When the spirit part has gone into a woman
+id="fr_73"></span>[1](#fn_73.md) When the spirit part has gone into a woman
 and a child has, as a result, been born, then that living child is the
 reincarnation of that particular spirit individual.
 
@@ -343,7 +343,7 @@ shortly after the birth of the child, the headman of
 the particular group in whose *Ertnatulunga* the Churinga is deposited
 consults with the older men of the group and bestows upon him (and the
 same holds true in the case of a female child) his *Aritna churinga*, or
-secret name. <span id="fr_74"></span>[1](#fn_74) Every member of the
+secret name. <span id="fr_74"></span>[1](#fn_74.md) Every member of the
 tribe has his or her secret name, which may be either a new one or that
 of some celebrated man or woman of the Alcheringa whose name has been
 handed down in the traditions. This secret name is never uttered except
@@ -354,7 +354,7 @@ women or of men of another group would be a most serious breach of
 tribal custom, as serious as the most flagrant case of sacrilege amongst
 white men. When mentioned at all it is only in a whisper, and then after
 taking the most elaborate precautions <span
-id="fr_75"></span>[2](#fn_75) lest it should be heard by anyone outside
+id="fr_75"></span>[2](#fn_75.md) lest it should be heard by anyone outside
 the members of his own group. The native thinks that a stranger knowing
 his secret name would have special power to work him ill by means of
 magic.
@@ -448,7 +448,7 @@ if any, on which are quite arbitrarily drawn by the sender and cannot be
 deciphered without his assistance. We may remark in passing, that though
 we have made careful inquiry we have been unable to discover the use of
 any real message-stick in the Arunta tribe. <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 The Churinga of the Arunta—that is the particular ones with which we are
 now concerned—are of two descriptions, stone ones and wooden ones, the
@@ -539,7 +539,7 @@ owing to the constant rubbing to which they have been subjected at the
 hands of generation after generation of natives.
 
 Whenever the Churinga are examined by the old men <span
-id="fr_77"></span>[1](#fn_77) they are, especially the wooden ones, very
+id="fr_77"></span>[1](#fn_77.md) they are, especially the wooden ones, very
 carefully rubbed over with the hands. First of all dry red ochre is
 powdered on to them, and then rubbed in with the palm of the hand, the
 grease of which doubtless assists in preserving the wood to a certain
@@ -766,7 +766,7 @@ wild dog group, consisting mainly of Kumara and Purula men, died out; a
 contiguous group of the same sub-classes, but of a different totem, took
 possession of the land, but carefully sent the Churinga from the
 *Ertnatulunga* to a distant group of wild dogs. <span
-id="fr_78"></span>[1](#fn_78) In the second case, all the men of a
+id="fr_78"></span>[1](#fn_78.md) In the second case, all the men of a
 lizard totem, situated some twelve miles to the north-east of Alice
 Springs, died out. They belonged to the Bulthara and Panunga moiety, and
 accordingly their locality was taken possession of by a neighbouring
@@ -919,7 +919,7 @@ Churinga in all these tribes. We have traced through them all the same
 system of social organisation, with descent counted in the paternal
 line, together with corresponding terms of relationship, and, judging by
 the <span id="page_158">p. 158</span> nature of their Churinga, <span
-id="fr_79"></span>[1](#fn_79) it seems highly probable that the same, or
+id="fr_79"></span>[1](#fn_79.md) it seems highly probable that the same, or
 at least essentially the same, totemic system exists amongst the Waagai,
 Kaitish and Warramunga as we know to exist among the Arunta, Luritcha
 and Ilpirra tribes.
@@ -1175,7 +1175,7 @@ chapter dealing with the *Intichiuma* ceremonies of various totems.
 
 ### Footnotes
 
-<span id="fn_71"></span>[135:1](ntca07.htm#fr_71) A remarkable custom
+<span id="fn_71"></span>[135:1](ntca07.htm#fr_71.md) A remarkable custom
 with regard to stone Churinga may be noticed here. When a man is ill he
 will sometimes have a stone Churinga belonging to his totem brought from
 the storehouse. With the flint flake of his spear-thrower he will scrape
@@ -1185,22 +1185,22 @@ evidently is that in some way he absorbs part of the essence of the
 stone, thereby gaining strength, as it is endowed with the attributes of
 the individual whom it represents.
 
-<span id="fn_72"></span>[137:1](ntca07.htm#fr_72) *Journ. Anth. Inst.*,
+<span id="fn_72"></span>[137:1](ntca07.htm#fr_72.md) *Journ. Anth. Inst.*,
 May, 1885, p. 301.
 
-<span id="fn_73"></span>[138:1](ntca07.htm#fr_73) In addition to this
+<span id="fn_73"></span>[138:1](ntca07.htm#fr_73.md) In addition to this
 the *Arumburinga* of the individual (that is his spirit double) is
 supposed to be especially fond of paying visits to the storehouse in
 which the Churinga is kept, and it is feared that if the Churinga be
 taken away the *Arumburinga* will follow it, and thus the individual
 will lose the guardianship of the spirit.
 
-<span id="fn_74"></span>[139:1](ntca07.htm#fr_74) *Aritna* means name,
+<span id="fn_74"></span>[139:1](ntca07.htm#fr_74.md) *Aritna* means name,
 and *Churinga* signifies sacred or secret. The word Churinga is used
 either as a substantive, when it implies a sacred emblem, or as a
 qualifying term, when it implies sacred or secret.
 
-<span id="fn_75"></span>[139:2](ntca07.htm#fr_75) During the course of
+<span id="fn_75"></span>[139:2](ntca07.htm#fr_75.md) During the course of
 the Engwura we often had occasion to notice this extreme reticence on
 the part of the natives. If only men of the same totemic group were
 present we were then able to learn the secret names, though not easily,
@@ -1215,21 +1215,21 @@ them over matters such as this they would send away certain men before
 saying anything, and these men were those who did not belong to the
 totemic group about which we were inquiring.
 
-<span id="fn_76"></span>[142:1](ntca07.htm#fr_76) A most valuable
+<span id="fn_76"></span>[142:1](ntca07.htm#fr_76.md) A most valuable
 account of true message-sticks is given by Roth, *loc. cit.*, p. 136.
 
-<span id="fn_77"></span>[144:1](ntca07.htm#fr_77) A full account of this
+<span id="fn_77"></span>[144:1](ntca07.htm#fr_77.md) A full account of this
 is given in connection with the description of the Engwura.
 
-<span id="fn_78"></span>[153:1](ntca07.htm#fr_78) In another case a
+<span id="fn_78"></span>[153:1](ntca07.htm#fr_78.md) In another case a
 group of wild dogs became extinct, and at the present moment their
 Churinga are being taken care of in the Ertnatulunga of the witchetty
 grub group of Alice Springs.
 
-<span id="fn_79"></span>[158:1](ntca07.htm#fr_79) It must be remembered
+<span id="fn_79"></span>[158:1](ntca07.htm#fr_79.md) It must be remembered
 that the term Churinga which we use is the Arunta term for these sacred
 objects.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Intichiuma Ceremonies](ntca08)
+[Next: Chapter VI. Intichiuma Ceremonies](ntca08.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cft07)  [Next](cft09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cft07)  [Next](cft09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Celtic Fairy Tales*, by Joseph Jacobs, \[1892\], at Intangible Textual
 Heritage
 
@@ -302,7 +302,7 @@ that it was the buck. I went out. When I was going out the giant laid
 his hand on me, and he said, 'There thou art, thou pretty buck; thou
 seest me, but I see thee not.' When I myself got out,
 
-<span id="img_04200"></span> ![Conal Yellowclaw](img/04200.jpg)  
+<span id="img_04200"></span> ![Conal Yellowclaw](img/04200.jpg.md)  
 Conal Yellowclaw
 
 <span id="page_43">p. 43</span>
@@ -430,4 +430,4 @@ and that was a feast if ever there was one, oh son and brother.
 
 ------------------------------------------------------------------------
 
-[Next: Hudden and Dudden and Donald O'Neary](cft09)
+[Next: Hudden and Dudden and Donald O'Neary](cft09.md)

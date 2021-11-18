@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca62)  [Next](fsca64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca62)  [Next](fsca64.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -346,7 +346,7 @@ they also adopted that animal as the type or badge of the city upon
 their coinage. The gold pieces of the Phoceans were well known among the
 Greek States, and are frequently referred to by ancient writers. "Thus
 from a single coin," says Noel Humphreys, <span
-id="fr_28"></span>[\*](#fn_28) "we obtain the corroboration of the
+id="fr_28"></span>[\*](#fn_28.md) "we obtain the corroboration of the
 legend of the swarm of seals, of the remote epoch of the emigration in
 question, the coin being evidently of the earliest period, most probably
 of the middle of the seventh century before the Christian era."
@@ -359,7 +359,7 @@ asleep upon a rock in a troubled
 sea, with the motto: "Sic quiesco" ("So rest I"). The seal, say the
 ancient writers, is never struck by lightning. The Emperor Augustus
 always wore a belt of seal-skin. "There is no living creature sleepeth
-more soundly," says Pliny, <span id="fr_29"></span>[\*](#fn_29)
+more soundly," says Pliny, <span id="fr_29"></span>[\*](#fn_29.md)
 "therefore when storms arise and the sea is rough the seal goes upon the
 rocks where it sleeps in safety unconscious of the storm."
 
@@ -422,11 +422,11 @@ emblems—real and mythical—enter largely into our national heraldry.
 
 ### Footnotes
 
-<span id="fn_28"></span>[234:\*](fsca63.htm#fr_28) "Coin Collector's
+<span id="fn_28"></span>[234:\*](fsca63.htm#fr_28.md) "Coin Collector's
 Manual," Bohn.
 
-<span id="fn_29"></span>[235:\*](fsca63.htm#fr_29) Book ix. ch. 13.
+<span id="fn_29"></span>[235:\*](fsca63.htm#fr_29.md) Book ix. ch. 13.
 
 ------------------------------------------------------------------------
 
-[Next: Poseidon or Neptune](fsca64)
+[Next: Poseidon or Neptune](fsca64.md)

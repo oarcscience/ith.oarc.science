@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub09) 
-[Next](jub11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub09.md) 
+[Next](jub11.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ translation and Notes) of G. Friedlander (London, 1916).
 
 ------------------------------------------------------------------------
 
-[Next: Prologue](jub11)
+[Next: Prologue](jub11.md)

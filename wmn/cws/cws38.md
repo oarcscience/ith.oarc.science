@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws37)  [Next](cws39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws37)  [Next](cws39.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXXIV
 
-#### CONCERNING THE PREVIOUS LIVES OF JESUS <span id="fr_142"></span>[1](#fn_142)
+#### CONCERNING THE PREVIOUS LIVES OF JESUS <span id="fr_142"></span>[1](#fn_142.md)
 
 THIS morning between sleeping and waking I saw myself, together with
 many other persons, walking with Jesus in the fields round about
@@ -76,9 +76,9 @@ no record of it survives.
 
 ### Footnotes
 
-<span id="fn_142"></span>[87:1](cws38.htm#fr_142) Paris, February 7,
+<span id="fn_142"></span>[87:1](cws38.htm#fr_142.md) Paris, February 7,
 1880. Referred to in *Life of Anna Kingsford*, i, pp. 336-338.
 
 ------------------------------------------------------------------------
 
-[Next: No. XXXV: Concerning The Holy Family](cws39)
+[Next: No. XXXV: Concerning The Holy Family](cws39.md)

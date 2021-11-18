@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis41)  [Next](kis43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis41)  [Next](kis43.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,4 +162,4 @@ the Comb of Magnificence. Bring it to me, Flann."
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](kis43)
+[Next: Part IV](kis43.md)

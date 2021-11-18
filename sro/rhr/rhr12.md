@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr11)  [Next](rhr13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr11)  [Next](rhr13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -313,7 +313,7 @@ opened, there appeared in it a lovely babe, together with certain
 jewels, and a small parchment sealed, and superscribed to the King. This
 the King presently opened, and having read it, he wept and declared to
 his servants how injuriously the King of the <span
-id="img_15300"></span> ![Moores](img/15300.jpg) had deprived his aunt of
+id="img_15300"></span> ![Moores](img/15300.jpg.md) had deprived his aunt of
 her country, and had extinguished all the royal seed even to this
 infant, with the Daughter of which country he had purposed to match his
 Son. Hereupon he swore to maintain perpetual enmity with the Moore and
@@ -361,7 +361,7 @@ the
 same, returning thanks in most seemly sort for so high a grace.
 Whereupon they began to sing to the praise of God, of the King, and the
 young Lady, and for this time so departed. In sport, meanwhile, the four
-beasts of <span id="img_15500"></span> ![Daniel](img/15500.jpg), <span
+beasts of <span id="img_15500"></span> ![Daniel](img/15500.jpg.md), <span
 class="margnote">Interludium.</span> as he saw them in the vision, were
 brought ilk, all which had its certain signification.
 
@@ -385,7 +385,7 @@ eyes of many to run over. Naked as she was, she was cast into prison,
 there to expect death by poyson, which, however, killed her not, but
 made her leprous all over. Thus this act was for the most part
 lamentable. Between they brought forth <span id="img_15501"></span>
-![Nebuchadnezzar's](img/15501.jpg) image, which was adorned with all
+![Nebuchadnezzar's](img/15501.jpg.md) image, which was adorned with all
 manner of arms on the head, breast, legs, and feet, of which more shall
 be spoken in the future explication.
 
@@ -460,7 +460,7 @@ III\.
   By intreaties are subdued;  
 Long enough in hold was she mew’d;  
   So in honour increase  
-  Till <span id="img_15700"></span> ![Thousands](img/15700.jpg) arise  
+  Till <span id="img_15700"></span> ![Thousands](img/15700.jpg.md) arise  
 And spring from your own proper blood.</span>
 
 </div>
@@ -597,4 +597,4 @@ my manifold speculations.
 
 ------------------------------------------------------------------------
 
-[Next: The Fifth Day](rhr13)
+[Next: The Fifth Day](rhr13.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico020) 
-[Next](nico022) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico020.md) 
+[Next](nico022.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ self-indulgence, which is an excess, is the more contrary to temperance.
 ------------------------------------------------------------------------
 
 [Next: Chapter 9. The mean is hard to attain, and is grasped by
-perception, not by reasoning](nico022)
+perception, not by reasoning](nico022.md)

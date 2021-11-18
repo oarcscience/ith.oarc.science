@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](htaq00)  [Next](htaq02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](htaq00)  [Next](htaq02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hidden Treasures of the Ancient Qabalah*, by Elias Gewurz, \[1918\], at
 Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ English student, he will be astonished and delighted at the wealth of
 occult truth he will find in them.
 
 The books of the Qabalah are fountains of living waters and at a time of
-great [spiritual](errata.htm#0) need, as the present is, the strength
+great [spiritual](errata.htm#0.md) need, as the present is, the strength
 and consolation offered us through its teachings are doubly welcome.
 
 The greater part of my life has been devoted to this study, and the
@@ -59,4 +59,4 @@ May, 1915.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](htaq02)
+[Next: Contents](htaq02.md)

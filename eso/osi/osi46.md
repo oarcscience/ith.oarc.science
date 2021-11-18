@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi45)  [Next](osi47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi45)  [Next](osi47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -34,7 +34,7 @@ the character I have assumed.
 
 If the reader is at all curious as to these singular manners and
 practices, he will find them described elsewhere <span
-id="fr_15"></span>[1](#fn_15) in all their details. As in the case of
+id="fr_15"></span>[1](#fn_15.md) in all their details. As in the case of
 previous phenomena, my office is simply to report the facts that
 occurred during that surprising evening.
 
@@ -247,7 +247,7 @@ to set out on his return journey.
 
 "Thanks, Malabar," said I, calling him by a name that he liked, because
 it reminded him of his native land. May he who possesses the *three
-mysterious powers* <span id="fr_16"></span>[1](#fn_16) protect you as
+mysterious powers* <span id="fr_16"></span>[1](#fn_16.md) protect you as
 you journey toward the fair land of the South, and may you find that joy
 and happiness have ruled in your cottage during your absence."
 
@@ -290,11 +290,11 @@ vanished from the memorandum book in which I had jotted them down.
 
 ### Footnotes
 
-<span id="fn_15"></span>[265:1](osi46.htm#fr_15) Travels among the
+<span id="fn_15"></span>[265:1](osi46.htm#fr_15.md) Travels among the
 performing Fakirs, 1 vol. in press, Dentu, Paris.
 
-<span id="fn_16"></span>[270:1](osi46.htm#fr_16) The Brahminic trinity.
+<span id="fn_16"></span>[270:1](osi46.htm#fr_16.md) The Brahminic trinity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Phantom of Karli](osi47)
+[Next: Chapter II. The Phantom of Karli](osi47.md)

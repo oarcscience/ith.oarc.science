@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bok22)  [Next](bok24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bok22)  [Next](bok24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Kells*, by Edward Sullivan, \[1920\], at Intangible Textual
 Heritage
 
@@ -21,7 +21,7 @@ THE OPENING WORDS OF ST. JOHN'S GOSPEL. FOL. 292 R.
 
 <span id="img_pl19"></span> <span align="CENTER"> [![Plate
 XIX](tn/pl19.jpg)  
-Click to enlarge](img/pl19.jpg)  
+Click to enlarge](img/pl19.jpg.md)  
 Plate XIX  
 </span>
 
@@ -42,6 +42,6 @@ PIOERAT VER
 
 ------------------------------------------------------------------------
 
-[Next: Plate XX. Compound Letters](bok24)
+[Next: Plate XX. Compound Letters](bok24.md)
 
 </div>

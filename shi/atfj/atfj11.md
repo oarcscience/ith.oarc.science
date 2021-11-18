@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj10)  [Next](atfj12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj10)  [Next](atfj12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_12"></span> <span align="CENTER"> [![12. The Procession of
 Ghosts](tn/12.jpg)  
-Click to enlarge](img/12.jpg)  
+Click to enlarge](img/12.jpg.md)  
 12. The Procession of Ghosts  
 </span>
 
 ### IX
 
-### 'THE PROCESSION OF GHOSTS' <span id="fr_22"></span>[1](#fn_22)
+### 'THE PROCESSION OF GHOSTS' <span id="fr_22"></span>[1](#fn_22.md)
 
 SOME four or five hundred years ago there was an old temple not far from
 Fushimi, near Kyoto. It was called the Shozenji temple, and had been
@@ -95,7 +95,7 @@ which he had drawn, Mitsunobu saw that the fantastic shapes had come
 from cracks in the damp deserted walls; these cracks were filled with
 fungi and mildew, which in their turn produced the toning, colouring,
 and eventually the figures from which he compiled his celebrated picture
-Hiyakki Yakô. <span id="fr_23"></span>[1](#fn_23) Grateful
+Hiyakki Yakô. <span id="fr_23"></span>[1](#fn_23.md) Grateful
 
 <span id="page_64">p. 64</span>
 
@@ -111,7 +111,7 @@ Mitsunobu's.
 
 ### Footnotes
 
-<span id="fn_22"></span>[61:1](atfj11.htm#fr_22) Somewhere between the
+<span id="fn_22"></span>[61:1](atfj11.htm#fr_22.md) Somewhere between the
 years 1400 and 1550 there lived a family of celebrated painters covering
 three generations, and consequently difficult to be accurate about.
 There were Tosa Mitsunobu, Kano Mitsunobu, and Hasegawa Mitsunobu;
@@ -128,7 +128,7 @@ hobgoblins and ghosts, 'spooks,' 'eries,' or whatever you may choose to
 call them. As far as I can judge, the picture was painted about the end
 of the first half of the fifteenth century.
 
-<span id="fn_23"></span>[63:1](atfj11.htm#fr_23) It is well known that
+<span id="fn_23"></span>[63:1](atfj11.htm#fr_23.md) It is well known that
 certain fungi and mildews produce phosphorescent light amid certain
 circumstances. No doubt the priest saw the cracks in the wall amid these
 <span id="page_64">p. 64</span> circumstances, and the noise he heard
@@ -140,6 +140,6 @@ fungus.
 
 ------------------------------------------------------------------------
 
-[Next: X. A Faithful Servant](atfj12)
+[Next: X. A Faithful Servant](atfj12.md)
 
 </div>

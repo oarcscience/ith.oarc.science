@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws16)  [Next](cws18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws16)  [Next](cws18.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XIII
 
-#### CONCERNING PERSEPHONE, OR THE SOUL'S DESCENT INTO MATTER <span id="fr_75"></span>[2](#fn_75)
+#### CONCERNING PERSEPHONE, OR THE SOUL'S DESCENT INTO MATTER <span id="fr_75"></span>[2](#fn_75.md)
 
 I SEE God under two modes, one static or passive, the other dynamic or
 active. As the former, God is original Life, Will, Power. As the latter,
@@ -71,9 +71,9 @@ material.
 
 ### Footnotes
 
-<span id="fn_75"></span>[34:2](cws17.htm#fr_75) London, March 23, 1881.
+<span id="fn_75"></span>[34:2](cws17.htm#fr_75.md) London, March 23, 1881.
 Spoken in trance.
 
 ------------------------------------------------------------------------
 
-[Next: No. XIV: Concerning The Genius Or Daimon](cws18)
+[Next: No. XIV: Concerning The Genius Or Daimon](cws18.md)

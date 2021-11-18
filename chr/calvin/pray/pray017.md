@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray016)  [Next](pray018) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray016)  [Next](pray018.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,13 +21,13 @@ It is true, that the cause for which Jotham imprecated on the
 inhabitants of Shechem the disaster which afterwards befell them was
 well founded; but still he was inflamed with anger and revenge (<span
 id="iii.xv-p1.1"></span>[Judges
-9:20](../../../bib/kjv/jdg009.htm#020)<span id="iii.xv-p1.1"></span>);
+9:20](../../../bib/kjv/jdg009.htm#020)<span id="iii.xv-p1.1"></span>.md);
 and hence God, by complying with the execration, seems to approve of
 passionate impulses. Similar fervour also seized Samson, when he prayed,
 " Strengthen me, I pray thee, only this once, O God, that I may be at
 once avenged of the Philistines for my two eyes" (<span
 id="iii.xv-p1.2"></span>[Judges
-16:28](../../../bib/kjv/jdg016.htm#028)<span id="iii.xv-p1.2"></span>).
+16:28](../../../bib/kjv/jdg016.htm#028)<span id="iii.xv-p1.2"></span>.md).
 For although there was some mixture of good zeal, yet his ruling feeling
 was a fervid, and therefore vicious longing for vengeance. God assents,
 and hence apparently it might be inferred that prayers are effectual,
@@ -39,7 +39,7 @@ generality of men. For we should attend to the answer which our Saviour
 gave to his disciples when they inconsiderately wished to imitate the
 example of Elias, "Ye know not what manner of spirit ye are of" (<span
 id="iii.xv-p1.3"></span>[Luke
-9:55](../../../bib/kjv/luk009.htm#055)<span id="iii.xv-p1.3"></span>).
+9:55](../../../bib/kjv/luk009.htm#055)<span id="iii.xv-p1.3"></span>.md).
 We must, however, go farther and say, that the wishes to which God
 assents are not always pleasing to him; but he assents, because it is
 necessary, by way of example, to give clear evidence of the doctrine of
@@ -54,9 +54,9 @@ to those who are unworthily oppressed though they by addressing an
 unknown deity only beat the air? There is one psalm which clearly
 teaches that prayers are not without effect, though they do not
 penetrate to heaven by faith (<span id="iii.xv-p1.4"></span>[Ps.
-107:6](../../../bib/kjv/psa107.htm#006),
-[13](../../../bib/kjv/psa107.htm#013),
-[19](../../../bib/kjv/psa107.htm#019)<span id="iii.xv-p1.4"></span>).
+107:6](../../../bib/kjv/psa107.htm#006.md),
+[13](../../../bib/kjv/psa107.htm#013.md),
+[19](../../../bib/kjv/psa107.htm#019)<span id="iii.xv-p1.4"></span>.md).
 For it enumerates the prayers which, by natural instinct, necessity
 extorts from unbelievers not less than from believers, and to which it
 shows by the event, that God is, notwithstanding, propitious. Is it to
@@ -86,12 +86,12 @@ concerning Abraham and Samuel, the one of whom, without any instruction
 from the word of God, prayed in behalf of the people of Sodom, and the
 other, contrary to an express prohibition, prayed in behalf of Saul
 (<span id="iii.xv-p2.1"></span>[Genesis
-18:23](../../../bib/kjv/gen018.htm#023)<span id="iii.xv-p2.1"></span>;
+18:23](../../../bib/kjv/gen018.htm#023.md)<span id="iii.xv-p2.1"></span>;
 <span id="iii.xv-p2.2"></span>[1 Samuel
-15:11](../../../bib/kjv/sa1015.htm#011)<span id="iii.xv-p2.2"></span>).
+15:11](../../../bib/kjv/sa1015.htm#011)<span id="iii.xv-p2.2"></span>.md).
 Similar is the case of Jeremiah, who prayed that the city might not be
 destroyed (<span id="iii.xv-p2.3"></span>[Jer.
-32:16](../../../bib/kjv/jer032.htm#016)<span id="iii.xv-p2.3"></span>).
+32:16](../../../bib/kjv/jer032.htm#016)<span id="iii.xv-p2.3"></span>.md).
 It is true their prayers were refused, but it seems harsh to affirm that
 they prayed without faith. Modest readers will, I hope, be satisfied
 with this solution, viz., that leaning to the general principle on which
@@ -110,19 +110,19 @@ deny not exceeded due bounds. Wherefore, whenever no certain promise
 exists, our request to God must have a condition annexed to it. Here we
 may refer to the prayer of David, "Awake for me to the judgment that
 thou hast commanded" (<span id="iii.xv-p2.4"></span>[Psalm
-7:6](../../../bib/kjv/psa007.htm#006)<span id="iii.xv-p2.4"></span>);
+7:6](../../../bib/kjv/psa007.htm#006)<span id="iii.xv-p2.4"></span>.md);
 for he reminds us that he had received special instruction to pray for a
-temporal blessing. <span id="fr_5"></span>[6](#fn_5)
+temporal blessing. <span id="fr_5"></span>[6](#fn_5.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_5"></span>[6](pray017.htm#fr_5) <span
+<span id="fn_5"></span>[6](pray017.htm#fr_5.md) <span
 id="iii.xv-p2.5"></span>The French adds, "<span
 id="iii.xv-p2.6"></span>duquel id n’eust pas autrement esté asseuré;"—of
 which he would not otherwise have felt assured.
 
 ------------------------------------------------------------------------
 
-[Next: 16.](pray018)
+[Next: 16.](pray018.md)

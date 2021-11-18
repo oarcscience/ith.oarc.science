@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](ssw13) 
-[Next](ssw15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](ssw13.md) 
+[Next](ssw15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sadi's Scroll of Wisdom*, by Arthur N. Wollaston, \[1906\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Since justice is the adornment of royalty,
 Why dost thou not fix thine heart upon justice?  
 Thy kingdom will be established  
 If justice cometh to thine aid.  
-Since Nushirwan <span id="fr_8"></span>[1](#fn_8) made choice of justice
+Since Nushirwan <span id="fr_8"></span>[1](#fn_8.md) made choice of justice
 <span id="page_41">p. 41</span>  
 His name is now held in remembrance for his goodness.  
 Peace befalleth the kingdom from the effects of justice,  
@@ -43,13 +43,13 @@ Gratify the desires of those who seek justice.
 
 ### Footnotes
 
-<span id="fn_8"></span>[40:1](ssw14.htm#fr_8) A king of Persia, surnamed
+<span id="fn_8"></span>[40:1](ssw14.htm#fr_8.md) A king of Persia, surnamed
 "the Just," who reigned from A. D. 531 to A. D. 579.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: In Condemnation of Oppression](ssw15)
+[Next: In Condemnation of Oppression](ssw15.md)
 
 </div>

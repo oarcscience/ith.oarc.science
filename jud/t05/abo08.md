@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](abo07)  [Next](abo09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](abo07)  [Next](abo09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -95,7 +95,7 @@ divine purpose will in the end not succeed."
 
 MISHNA *M*. R. Elazar b. Shamna said: "Let the honor of thy disciple be
 as dear unto thee as the honor of thine associate; and the honor of
-thine associate as the fear <span id="fr_51"></span>[1](#fn_51) of thy
+thine associate as the fear <span id="fr_51"></span>[1](#fn_51.md) of thy
 master; and the fear of thy master as the fear of Heaven."
 
 MISHNA *N*. R. Jehudah said: "Be careful in thy study, for error in
@@ -112,7 +112,7 @@ understanding."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_52"></span>[2](#fn_52)"*Who is a wise man? he who learns
+ <span id="fr_52"></span>[2](#fn_52.md)"*Who is a wise man? he who learns
 from everybody*." Who is the most modest? One who is as modest as Moses
 our master was, as it is written \[Numb. xii. 3\]: "But the man Moses
 was very meek." Who is the richest of all? One that is satisfied with
@@ -150,7 +150,7 @@ similar to a woman who kneads her dough with warm water, and one that is
 taught the Torah in his old age is similar to a woman who kneads her
 dough with cold water."
 
- <span id="fr_53"></span>[1](#fn_53)R. Eliezer b. Jacob said: "One that
+ <span id="fr_53"></span>[1](#fn_53.md)R. Eliezer b. Jacob said: "One that
 is taught the Law when young is similar to a screed which was written on
 new paper, and one who is taught the Law when old is similar to a screed
 which was written on old paper."
@@ -217,7 +217,7 @@ he like? To ink written on fresh paper. And he who learns when old, to
 what is he like? To ink written on blotted paper.
 
 MISHNA *X*. R. Jose b. Jehudah, the villager of Babylon, <span
-id="fr_54"></span>[1](#fn_54) said: "Whom does he resemble, who learns
+id="fr_54"></span>[1](#fn_54.md) said: "Whom does he resemble, who learns
 from the young? Him who eats unripe grapes and drinks the wine fresh
 from the wine-press! But whom does he resemble, who learns from old men?
 Him who eats ripe grapes and drinks old wine!"
@@ -247,7 +247,7 @@ render account before the Supreme King, the Holy One, blessed be He!"
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_55"></span>[1](#fn_55)Said Elisha b. Abuyah: "A virtuous
+ <span id="fr_55"></span>[1](#fn_55.md)Said Elisha b. Abuyah: "A virtuous
 man who has studied the Law diligently is similar to one who builds a
 foundation of stones and a superstructure of bricks; though they be
 inundated, yet they cannot be moved. One who is not virtuous, in spite
@@ -315,9 +315,9 @@ word for you; on the contrary, it is your life."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_56"></span>[1](#fn_56)Ben Azai said: "If the mind is
+ <span id="fr_56"></span>[1](#fn_56.md)Ben Azai said: "If the mind is
 tranquil because of acquired wisdom, it is a good sign; <span
-id="fr_57"></span>[2](#fn_57) but if made restless by acquired wisdom,
+id="fr_57"></span>[2](#fn_57.md) but if made restless by acquired wisdom,
 it is a bad sign. If the mind is tranquil on account of faith in the
 Creator, it is a good sign; but if the mind is restless on account of
 believing in the Creator, it is a bad sign. If one has the sympathies of
@@ -357,10 +357,10 @@ wicked in the world to come.
 \[ibid.\]. "Lamentations" refers to the expiation of the wicked in this
 world, as it is written \[ibid. xxxii. 16\]: "This is the lamentation
 wherewith they shall lament for her; the daughters of the nations shall
-lament for her." "*Dirge*" <span id="fr_58"></span>[1](#fn_58) refers to
+lament for her." "*Dirge*" <span id="fr_58"></span>[1](#fn_58.md) refers to
 the reward of the upright in the world to come, as it is written \[Ps.
 xcii. 4\]: "Upon a ten-stringed instrument, and upon the psaltery; and
-with the sweet sound <span id="fr_59"></span>[1](#fn_58) of the harp."
+with the sweet sound <span id="fr_59"></span>[1](#fn_58.md) of the harp."
 "*And woe*" refers to the expiation of the wicked in the world to come,
 as it is written \[Ezek. vii. 26\]: "Mishap shall come upon mishap, and
 report shall be spread upon report."
@@ -391,7 +391,7 @@ lighting of the lamps, for which thou art liable to a death penalty by
 the hand of heaven, and hast instead occupied thyself with the removal
 of my phylacteries, for which thou art guilty only because of *Shbuth*."
 When the sages heard that his mind was clear, they sat down at a
-distance of four ells <span id="fr_60"></span>[1](#fn_59) from his
+distance of four ells <span id="fr_60"></span>[1](#fn_59.md) from his
 bedside. They inquired of him as to cleanness and uncleanness of many
 subjects among them; also an amulet or torn phylacteries, are they
 subject to defilement or not? He answered: "They are. Dip them as they
@@ -454,7 +454,7 @@ he said: "'My father, my father, the chariot of Israel and its horsemen'
 money-changer can change besides you (*i.e.*, I have many hard questions
 of law which cannot be solved by any one besides you)."
 
- <span id="fr_61"></span>[1](#fn_60)"*Ben Azai said: 'Hasten to,'*" etc.
+ <span id="fr_61"></span>[1](#fn_60.md)"*Ben Azai said: 'Hasten to,'*" etc.
 He used to say: If
 
 <span id="page_93">p. 93</span>
@@ -487,7 +487,7 @@ and discuss with hypocrites."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_62"></span>[1](#fn_61)R. Aqiba said: "The safeguard for
+ <span id="fr_62"></span>[1](#fn_61.md)R. Aqiba said: "The safeguard for
 honor is refraining from laughter; the safeguard for wisdom is silence;
 the safeguard for vows is abstinence; that for cleanness is holiness;
 and that for meekness is the fear of sin."
@@ -566,7 +566,7 @@ place."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_63"></span>[1](#fn_62)R. Jose said: Whoever venerates the
+ <span id="fr_63"></span>[1](#fn_62.md)R. Jose said: Whoever venerates the
 Torah is himself honored by the people, as it is written \[I Sam. ii.
 30\]: "For those that honor me will I honor, and those that despise me
 shall be lightly esteemed." "*Those that honor me*" refers to Pharaoh,
@@ -646,7 +646,7 @@ on the other side of the Jordan there is neither.
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_64"></span>[1](#fn_63)R. Nathan said: "There is no love
+ <span id="fr_64"></span>[1](#fn_63.md)R. Nathan said: "There is no love
 such as the love of the Torah; there is no wisdom such as the wisdom of
 manners; there is no beauty such as the beauty of Jerusalem; there are
 no riches such as the riches of Modea; there is no strength such as the
@@ -716,7 +716,7 @@ to answer in all four branches, is like a polished stone which has four
 surfaces, one on each of its four sides."
 
 R. Jehudah b. Ilai said: "Whoever constitutes the Torah as the chief
-good, and considers [worldly](errata.htm#12) affairs as a secondary
+good, and considers [worldly](errata.htm#12.md) affairs as a secondary
 thing, will attain importance in the world. If, however, he does the
 contrary, he will become insignificant in the world. This can be
 compared to a regiment which has to go between two roads, one of fire
@@ -726,7 +726,7 @@ to go in the middle, and it will thus be guarded from heat and cold."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_65"></span>[1](#fn_64)"R. Simeon b. Elazar (in the name of
+ <span id="fr_65"></span>[1](#fn_64.md)"R. Simeon b. Elazar (in the name of
 R. Meir) said: '*Conciliate not thy friend in the hour of his anger*,'"
 etc. He used to say: "If some of thy neighbors praise, and others
 reprimand thee, love the latter and hate the former; for the latter are
@@ -842,8 +842,8 @@ colleagues, and be thou a head to a fox rather than a tail to a lion."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_66"></span>[1](#fn_65)"*R. Nathan b. Joseph said:*  <span
-id="fr_67"></span>[2](#fn_66) *'He who neglects the words of the Law on
+ <span id="fr_66"></span>[1](#fn_65.md)"*R. Nathan b. Joseph said:*  <span
+id="fr_67"></span>[2](#fn_66.md) *'He who neglects the words of the Law on
 account of his riches, he will finally do so on account of poverty; but
 he who observes the Law even when he is poor, he will finally do so when
 rich.'*" He used to say: "The consoling of the mourners, the visiting of
@@ -916,7 +916,7 @@ of Joseph returned to him at that time, as it is written \[ibid., ibid.
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_68"></span>[1](#fn_67)R. A'hai b. Joshiah said: "One who
+ <span id="fr_68"></span>[1](#fn_67.md)R. A'hai b. Joshiah said: "One who
 buys grain from the market is compared to an infant whose mother died,
 and which, although nursed by many other nurses, is never satiated. One
 who buys bread from the market, is comparable to one for whom a grave
@@ -932,67 +932,67 @@ tranquil."
 
 ### Footnotes
 
-<span id="fn_51"></span>[84:1](abo08.htm#fr_51) Rashi explains it: The
+<span id="fn_51"></span>[84:1](abo08.htm#fr_51.md) Rashi explains it: The
 honor of a disciple can be as dear to one as one's self, because the
 honor of the disciple is one's own glory, which cannot be so in case of
 a neighbor; and therefore the Torah equals it to the FEAR of one's
 master, which includes honor also.
 
-<span id="fn_52"></span>[84:2](abo08.htm#fr_52) Chapter XXIII. of the
+<span id="fn_52"></span>[84:2](abo08.htm#fr_52.md) Chapter XXIII. of the
 original.
 
-<span id="fn_53"></span>[85:1](abo08.htm#fr_53) This is added here to R.
+<span id="fn_53"></span>[85:1](abo08.htm#fr_53.md) This is added here to R.
 Eliezer b. Jacob. In the Mishna, however, this statement is ascribed to
 R. Elisha b. Abuyah.
 
-<span id="fn_54"></span>[87:1](abo08.htm#fr_54) The most of the Tanaim
+<span id="fn_54"></span>[87:1](abo08.htm#fr_54.md) The most of the Tanaim
 came from Palestine, and when there was one from Babylon he was pointed
 out.
 
-<span id="fn_55"></span>[88:1](abo08.htm#fr_55) Chapter XXIV. of the
+<span id="fn_55"></span>[88:1](abo08.htm#fr_55.md) Chapter XXIV. of the
 original.
 
-<span id="fn_56"></span>[89:1](abo08.htm#fr_56) Chapter XXIV. of the
+<span id="fn_56"></span>[89:1](abo08.htm#fr_56.md) Chapter XXIV. of the
 original.
 
-<span id="fn_57"></span>[89:2](abo08.htm#fr_57) The explanation at
+<span id="fn_57"></span>[89:2](abo08.htm#fr_57.md) The explanation at
 length of this saying is to be found at p. 50 Of our "Eben Harosha." See
 also the letter of the late Professor Steinthal printed in our
 "Schulchan Aruch und seine Beziehungen, etc," in which he fully agrees
 with us. See also Section Moed, Vol. VI., Tract Hagiga, p. 32,
 foot-note, concerning Ben Azai.
 
-<span id="fn_58"></span>[90:1](abo08.htm#fr_59) "Sweet sound" in Hebrew
+<span id="fn_58"></span>[90:1](abo08.htm#fr_59.md) "Sweet sound" in Hebrew
 is ‏הגיונ‎; "dirge" is ‏הגה‎. The Talmud plays upon the similarity of
 the two words.
 
-<span id="fn_59"></span>[91:1](abo08.htm#fr_60) As he was at that time
+<span id="fn_59"></span>[91:1](abo08.htm#fr_60.md) As he was at that time
 excommunicated.
 
-<span id="fn_60"></span>[92:1](abo08.htm#fr_61) See Chapter IV., Mishna
+<span id="fn_60"></span>[92:1](abo08.htm#fr_61.md) See Chapter IV., Mishna
 *B*.
 
-<span id="fn_61"></span>[93:1](abo08.htm#fr_62) Chapter XXVI. of the
+<span id="fn_61"></span>[93:1](abo08.htm#fr_62.md) Chapter XXVI. of the
 original.
 
-<span id="fn_62"></span>[95:1](abo08.htm#fr_63) Chapter XXVII. of the
+<span id="fn_62"></span>[95:1](abo08.htm#fr_63.md) Chapter XXVII. of the
 original.
 
-<span id="fn_63"></span>[97:1](abo08.htm#fr_64) Chapter XXVIII. of the
+<span id="fn_63"></span>[97:1](abo08.htm#fr_64.md) Chapter XXVIII. of the
 original.
 
-<span id="fn_64"></span>[98:1](abo08.htm#fr_65) Chapter XXIX. of the
+<span id="fn_64"></span>[98:1](abo08.htm#fr_65.md) Chapter XXIX. of the
 original.
 
-<span id="fn_65"></span>[101:1](abo08.htm#fr_66) Chapter xxx. of the
+<span id="fn_65"></span>[101:1](abo08.htm#fr_66.md) Chapter xxx. of the
 original.
 
-<span id="fn_66"></span>[101:2](abo08.htm#fr_67) In the Mishna, however,
+<span id="fn_66"></span>[101:2](abo08.htm#fr_67.md) In the Mishna, however,
 this saying is ascribed to R. Jonathan.
 
-<span id="fn_67"></span>[103:1](abo08.htm#fr_68) Chapter XXXI. of the
+<span id="fn_67"></span>[103:1](abo08.htm#fr_68.md) Chapter XXXI. of the
 original.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V.](abo09)
+[Next: Chapter V.](abo09.md)

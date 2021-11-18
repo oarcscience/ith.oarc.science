@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes28)  [Next](tes30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes28)  [Next](tes30.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ suitors from mere shame and anger, left immediately without waiting for
 dinner to be served. The old Monster remained there. The next morning
 they were married. The father of the girl was wealthy and generous. He
 had a winged horse with a natural saddle and a natural bridle. <span
-id="fr_44"></span>[1](#fn_44) He gave this horse to his daughter as her
+id="fr_44"></span>[1](#fn_44.md) He gave this horse to his daughter as her
 dowry, so she mounted it. The Monster held the halter of silk, and led
 the way down the river directly through the ice hole. He went down, and
 she followed him. They descended into the river and found a trail. They
@@ -145,7 +145,7 @@ in the Kolyma country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_44"></span>[59:1](tes29.htm#fr_44) This is borrowed from
+<span id="fn_44"></span>[59:1](tes29.htm#fr_44.md) This is borrowed from
 Russian folklore, where it forms one of the well-known rhymed
 formulas:--
 
@@ -156,4 +156,4 @@ Ot\` sebya uzdatîï.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Tale About Ču'mo](tes30)
+[Next: 9. Tale About Ču'mo](tes30.md)

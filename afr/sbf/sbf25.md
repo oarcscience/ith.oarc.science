@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf24)  [Next](sbf26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf24)  [Next](sbf26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -119,6 +119,6 @@ told her this.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Man Who Ordered His Wife To Cut Off His Ears.](sbf26)
+[Next: The Man Who Ordered His Wife To Cut Off His Ears.](sbf26.md)
 
 </div>

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Next](hor01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Next](hor01.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -33,7 +33,7 @@ and mean while an individual commits a transgression upon their decree,
 etc. If while the court was deciding, one of its members who perceived
 their error drew their attention to it, etc. If causing the whole people
 to act erroneously, etc. If upon the erroneous decree of the court the
-whole people, or its majority, acted, etc., [3](hor01.htm#page_3)-12
+whole people, or its majority, acted, etc., [3](hor01.htm#page_3.md)-12
 
 ### CHAPTER II.
 
@@ -45,7 +45,7 @@ sin-offering respectively. It is also not liable for a decree concerning
 a command or a prohibition with regard to (polluting) the sanctuary.
 There is no liability when the decree concerns an adjuring challenge to
 testify, a hastily made vow, etc. Concerning a ruler and the high
-priest's offerings for their sin, [13](hor02.htm#page_13)-18
+priest's offerings for their sin, [13](hor02.htm#page_13.md)-18
 
 ### CHAPTER III.
 
@@ -72,8 +72,8 @@ two rows of seats facing the entrance rise, etc. The legend which
 happened to Raban Simon b. Gamaliel with R. Mair and R. Nathan. How the
 latter were removed from the college. An erudite scholar and a
 dialectician, who has the preference? How Abaye rose to be the chief of
-the College of Sura, [18](hor02.htm#page_18)-29
+the College of Sura, [18](hor02.htm#page_18.md)-29
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](hor01)
+[Next: Chapter I](hor01.md)

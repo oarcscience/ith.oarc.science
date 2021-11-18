@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls07)  [Next](rls09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls07)  [Next](rls09.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ keeps aloof from all European influences.
 
 ------------------------------------------------------------------------
 
-[Next: Pawâri Bâba](rls09)
+[Next: Pawâri Bâba](rls09.md)

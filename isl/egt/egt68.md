@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt67)  [Next](egt69) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt67)  [Next](egt69.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ wilt throw into the fire thy sorrow and thy pain.
 
 ------------------------------------------------------------------------
 
-[Next: OF ADDRESSES TO GOD, AND SELF-ABASEMENT, AND HUMILITY.](egt69)
+[Next: OF ADDRESSES TO GOD, AND SELF-ABASEMENT, AND HUMILITY.](egt69.md)

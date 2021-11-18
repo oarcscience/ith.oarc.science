@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc16)  [Next](pcc18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc16)  [Next](pcc18.md) 
 
 ------------------------------------------------------------------------
 
@@ -252,7 +252,7 @@ degree in Christianity. Christianity therefore, as I say, must either
 now come frankly forward and, acknowledging its parentage from the great
 Order of the past, seek to rehabilitate *that* and carry mankind one
 step forward in the path of evolution--or else it must perish. There is
-no other alternative. <span id="fr_284"></span>[1](#fn_284)
+no other alternative. <span id="fr_284"></span>[1](#fn_284.md)
 
 Let me give an instance of how a fragment of ancient ritual which has
 survived from the far Past and is still celebrated, but with little
@@ -304,7 +304,7 @@ consumes itself and leaves no residue behind, so should the five senses,
 being offered to the god, consume themselves and disappear. When this is
 done, that happens in the soul which was now figured in the ritual--the
 God is revealed in the inner light. <span
-id="fr_285"></span>[1](#fn_285)
+id="fr_285"></span>[1](#fn_285.md)
 
 We are familiar with this parting or rending of the veil. We hear of it
 in the Jewish Temple, and in the Greek and Egyptian Mysteries. It had a
@@ -416,7 +416,7 @@ simplest language, free from Sanskrit terms and the usual 'jargon of the
 Schools,' and may, I hope, even on that account be of use in
 familiarizing readers who are not specially *students* with the ideas
 and mental attitudes of the cosmic state. Non-differentiation
-(Advaita <span id="fr_286"></span>[1](#fn_286)) is the root attitude of
+(Advaita <span id="fr_286"></span>[1](#fn_286).md) is the root attitude of
 the mind inculcated.
 
 We have seen that there has been an age of non-differentiation in the
@@ -432,7 +432,7 @@ their gradual extinction and assimilation into the general body of
 rational thought and feeling. Unreasoning and idiotic taboos still
 linger, but they grow weaker. A new Morality will come which will shake
 itself free from them. The sense of kinship with the animals (as in the
-old rituals) <span id="fr_287"></span>[2](#fn_287) will be restored; the
+old rituals) <span id="fr_287"></span>[2](#fn_287.md) will be restored; the
 sense
 
 <span id="page_270">p. 270</span>
@@ -442,7 +442,7 @@ consolidated; the sense of the defilement and impurity of the human body
 will (with the adoption of a generally clean and wholesome life) pass
 away; and the body itself will come to be regarded more as a collection
 of shrines in which the gods may be worshiped and less as a mere organ
-of trivial self-gratifications; <span id="fr_288"></span>[1](#fn_288)
+of trivial self-gratifications; <span id="fr_288"></span>[1](#fn_288.md)
 there will be no form of Nature, or of human life or of the lesser
 creatures, which will be barred from the approach of Man or from the
 intimate and penetrating invasion of his spirit; and as in certain
@@ -455,26 +455,26 @@ presented with the Freedom of the Universe.
 
 ### Footnotes
 
-<span id="fn_284"></span>[264:1](pcc17.htm#fr_284) Comte in founding his
+<span id="fn_284"></span>[264:1](pcc17.htm#fr_284.md) Comte in founding his
 philosophy of Positivism seems to have had in view some such Holy Human
 Church, but he succeeded in making it all so profoundly dull that it
 never flourished, The seed of Life was not in it.
 
-<span id="fn_285"></span>[266:1](pcc17.htm#fr_285) For a more detailed
+<span id="fn_285"></span>[266:1](pcc17.htm#fr_285.md) For a more detailed
 account of this Temple-festival, see *Adam's Peak to Elephanta* by E.
 Carpenter, ch. vii.
 
-<span id="fn_286"></span>[269:1](pcc17.htm#fr_286) The word means
+<span id="fn_286"></span>[269:1](pcc17.htm#fr_286.md) The word means
 "not-two-ness." Here we see a great subtlety of definition. It is not to
 be "one" with others that is urged, but to be "not two."
 
-<span id="fn_287"></span>[269:2](pcc17.htm#fr_287) The record of the
+<span id="fn_287"></span>[269:2](pcc17.htm#fr_287.md) The record of the
 Roman Catholic Church has been sadly callous and inhuman in this matter
 of the animals.
 
-<span id="fn_288"></span>[270:1](pcc17.htm#fr_288) See *The Art of
+<span id="fn_288"></span>[270:1](pcc17.htm#fr_288.md) See *The Art of
 Creation*, by E. Carpenter.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Conclusion](pcc18)
+[Next: XVII. Conclusion](pcc18.md)

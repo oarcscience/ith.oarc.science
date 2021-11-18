@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah48)  [Next](oah50) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah48)  [Next](oah50.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ dragged along?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](oah50)
+[Next: Chapter VII](oah50.md)

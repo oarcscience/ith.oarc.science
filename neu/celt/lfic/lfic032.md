@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic031)  [Next](lfic033) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic031)  [Next](lfic033.md) 
 
 ------------------------------------------------------------------------
 
@@ -365,4 +365,4 @@ introduced with Christianity.
 
 ------------------------------------------------------------------------
 
-[Next: Witchcaft, Socery, Ghosts and Fetches](lfic033)
+[Next: Witchcaft, Socery, Ghosts and Fetches](lfic033.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce12)  [Next](sce14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce12)  [Next](sce14.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ Homes by ƒecret Paths, as ƒume ƒkilfull Women do the Pith and Milk from
 their Neighbours Cows into their own Chiefe-hold thorow a Hair-tedder,
 at a great Diƒtance, by Airt Magic, or by drawing a ƒpickot faƒtened to
 a Poƒt which will bring milk as farr of as a Bull will be heard to
-roar. <span id="fr_30"></span>[1](#fn_30) The Chiefe made of the
+roar. <span id="fr_30"></span>[1](#fn_30.md) The Chiefe made of the
 remaineing Milk of a Cow thus ƒtrain'd will ƒwim in Water like a Cork.
 The Method they take to recover their Milk is a
 
@@ -84,9 +84,9 @@ a little of the Mother's Dung ƒtroakit on the Calves Mouth before it
 
 ### Footnotes
 
-<span id="fn_30"></span>[11:1](sce13.htm#fr_30) Note
-( [b1](sce29.htm#xref_b1)), [p. 87](sce29.htm#page_87).
+<span id="fn_30"></span>[11:1](sce13.htm#fr_30.md) Note
+( [b1](sce29.htm#xref_b1)), [p. 87](sce29.htm#page_87.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](sce14)
+[Next: Chapter 4](sce14.md)

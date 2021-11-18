@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe05)  [Next](spe07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe05)  [Next](spe07.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,11 +32,11 @@ would not part with them to procure their own liberty when taken
 prisoners. Sometimes they formed part of the train of an ecclesiastic.
 These birds were considered as ensigns of nobility; and no action could
 be reckoned more dishonourable to a man of rank than to give up his
-hawk. <span id="fr_162"></span>[1](#fn_162) The ancient English
+hawk. <span id="fr_162"></span>[1](#fn_162.md) The ancient English
 illuminators have uniformly distinguished the portrait of king Stephen
 by giving him a hawk upon his hand, to signify, I presume, by that
 symbol, that he was nobly, though not royally born. <span
-id="fr_163"></span>[2](#fn_163)
+id="fr_163"></span>[2](#fn_163.md)
 
 Sebastian Brant, a native of Germany, the author of a work entitled
 "Stultifera Navis," the Ship of Fools, published towards the conclusion
@@ -44,7 +44,7 @@ of the fifteenth century, accuses his countrymen of bringing their hawks
 and hounds into the churches, and interrupting the divine service; which
 indecency he severely reprobates and with the greatest justice. The
 passage is thus translated by Alexander Barclay: <span
-id="fr_164"></span>[3](#fn_164)
+id="fr_164"></span>[3](#fn_164.md)
 
 Into the church then comes another sotte,  
 Withouten devotion, jetting up and down,  
@@ -64,13 +64,13 @@ ORIGIN OF HAWKING.--I cannot trace the origin of hawking to an earlier
 period than the middle of the fourth century. Julius Firmicus, who lived
 about that time, is the first Latin author that speaks of falconers, and
 the art of teaching one species of birds to fly after and catch
-others. <span id="fr_165"></span>[1](#fn_165) Pliny is thought to have
+others. <span id="fr_165"></span>[1](#fn_165.md) Pliny is thought to have
 attributed a sport of this kind to the inhabitants of a certain district
 in Thrace, but his words are too obscure for much dependence to be
-placed upon them. <span id="fr_166"></span>[2](#fn_166) An English
+placed upon them. <span id="fr_166"></span>[2](#fn_166.md) An English
 writer, upon what authority I know not, says, that hawking was first
 invented and practised by Frederic Barbarossa, when he besieged
-Rome.° <span id="fr_167"></span>[3](#fn_167) It appears, however, to be
+Rome.° <span id="fr_167"></span>[3](#fn_167.md) It appears, however, to be
 very certain that this amusement was discovered abroad, where it became
 fashionable, some time before it was known in this country: the period
 of its introduction cannot be clearly determined; but, about the middle
@@ -78,12 +78,12 @@ of the eighth century, Boniface, archbishop of Mons, who was himself a
 native of England, presented to Ethelbert, king of Kent, one hawk and
 two falcons; and a king of the Mercians requested the same Boniface to
 send to him two falcons that had been trained to kill cranes. <span
-id="fr_168"></span>[4](#fn_168) In the succeeding century, the sport was
+id="fr_168"></span>[4](#fn_168.md) In the succeeding century, the sport was
 very highly esteemed by the Anglo-Saxon nobility; and the training and
 flying of hawks became one of the essentials in the education of a young
 man of rank. Alfred the Great is commended for his early proficiency in
 this, as well as in other fashionable amusements; <span
-id="fr_169"></span>[5](#fn_169) he is even said to have written a
+id="fr_169"></span>[5](#fn_169.md) he is even said to have written a
 treatise upon the subject of hawking, but there is no such work at
 present in existence, that can with any degree of certainty be
 attributed to him. The pastime of hawking must, no doubt, at this
@@ -91,12 +91,12 @@ period, have been very generally followed, to call for the prohibition
 inserted in a charter granted to the Abbey of Abingdon, by Kenulph, king
 of the Mercians; which restrains all persons carrying hawks or fellows
 trespassing upon the lands belonging to the monastery. <span
-id="fr_170"></span>[6](#fn_170) This amusement continued to be a
+id="fr_170"></span>[6](#fn_170.md) This amusement continued to be a
 fashionable one to the end of the Saxon era. Byrhtric, a Saxon nobleman,
 who died towards the end of the tenth century, among other valuable
 articles, left by will, to earl Ælfric, two hawks, and all his
 hedge-hounds, which were, I suppose, spaniels, for the purpose of
-flushing the game. <span id="fr_171"></span>[7](#fn_171) We have already
+flushing the game. <span id="fr_171"></span>[7](#fn_171.md) We have already
 seen that Edward the Confessor was highly pleased with the sports of the
 field, allotting the whole of his leisure time to hunting or hawking.
 
@@ -152,7 +152,7 @@ This narration bears upon the face of it the genuine marks of a
 legendary tale. Lidgate, a monk of Saint Edmund's Bury, has given it a
 place, with the addition of several miraculous circumstances, in his
 poetical life of king Edmund, who was the tutelar saint of the abbey to
-which he belonged. <span id="fr_172"></span>[1](#fn_172) On the other
+which he belonged. <span id="fr_172"></span>[1](#fn_172.md) On the other
 hand, every one who is acquainted with the history of the Anglo-Saxons
 must know, that the Danish pirates had infested the coasts of England,
 and committed many dreadful depredations, long before the time assigned
@@ -171,9 +171,9 @@ hundred hawks, he licensed every vender of hawks in France, and received
 a tax upon every bird sold in that kingdom, and even within the verge of
 the court; and the king never rode out upon any occasion of consequence
 without this officer attending upon him. <span
-id="fr_173"></span>[1](#fn_173)
+id="fr_173"></span>[1](#fn_173.md)
 
-In Doomsday-book a hawk's airy <span id="fr_174"></span>[2](#fn_174) is
+In Doomsday-book a hawk's airy <span id="fr_174"></span>[2](#fn_174.md) is
 returned among the most valuable articles of property; which proves the
 high estimation these birds were held in at the commencement of the
 Norman government; and probably some establishment, like that above
@@ -182,7 +182,7 @@ mentioned, was made for the royal falconer in England.
 FONDNESS OF EDWARD III. &C. FOR HAWKING.--Edward III., according to
 Froissart, had with him in his army when he invaded France, thirty
 falconers on horseback, who had charge of his hawks; <span
-id="fr_175"></span>[3](#fn_175) and every day he either hunted, or went
+id="fr_175"></span>[3](#fn_175.md) and every day he either hunted, or went
 to the river for the purpose of hawking, as his fancy inclined him. From
 the frequent mention that is made of hawking by the water-side, not only
 by the historians, but also by the romance writers of the middle ages, I
@@ -202,13 +202,13 @@ On the fourth plate is a representation of a Saxon nobleman and his
 falconer, with their hawks, upon the bank of a river, waiting for the
 rising of the game. The delineation is from a Saxon manuscript written
 at the close of the ninth century, or at the commencement of the tenth;
-in the Cotton Library. <span id="fr_176"></span>[4](#fn_176) Another
+in the Cotton Library. <span id="fr_176"></span>[4](#fn_176.md) Another
 drawing upon the same subject, with a little variation, occurs in a
 Saxon manuscript, somewhat more modern. <span
-id="fr_177"></span>[5](#fn_177) The two other engravings on the same
+id="fr_177"></span>[5](#fn_177.md) The two other engravings on the same
 plate are from drawings in a manuscript written early in the fourteenth
 century, preserved in the Royal Library. <span
-id="fr_178"></span>[6](#fn_178) We see a party of both sexes hawking by
+id="fr_178"></span>[6](#fn_178.md) We see a party of both sexes hawking by
 the water side; the falconer is frightening the fowls to make them rise,
 and the hawk is in the act of seizing upon one of them.
 
@@ -221,14 +221,14 @@ themselves; and, if we
 <span id="img_pl04"></span>
 
 [![Hawking](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 Hawking  
 
  
 
 <span id="page_25">p. 25</span>
 
-may believe a contemporary writer, <span id="fr_179"></span>[1](#fn_179)
+may believe a contemporary writer, <span id="fr_179"></span>[1](#fn_179.md)
 in the thirteenth century, they even excelled the men in knowledge and
 exercise of the art of falconry, which reason, he very ungallantly
 produces, in proof that the pastime was frivolous and effeminate.
@@ -260,7 +260,7 @@ fowling piece much more into fashion, to the still further decay of
 hawking. Charles II. did his best to revive it from a characteristic
 reason; "of all the diversions of the chase," said a contemporary, "the
 king likes none but hawking, because it is the most convenient for the
-ladies." <span id="fr_180"></span>[2](#fn_180) In *The Compleat
+ladies." <span id="fr_180"></span>[2](#fn_180.md) In *The Compleat
 Sportsman* by Giles Jacob, published in 1718, the author excuses himself
 for taking no notice of this sport for the following excellent
 reasons:--"The diversion of hawking, by reason of the trouble and
@@ -269,7 +269,7 @@ management of her in the field, is in a great measure disused:
 especially since sportsmen are arrived to such a perfection in shooting,
 and so much improved in the making of dogs, which facilitates the
 pleasures in taking all sorts of game." <span
-id="fr_181"></span>[3](#fn_181) The Earl of Oxford, who died in 1791,
+id="fr_181"></span>[3](#fn_181.md) The Earl of Oxford, who died in 1791,
 made strenuous efforts to revive falconry; and at the opening of the
 nineteenth century it was supported with some spirit on different
 estates in Yorkshire and Norfolk.
@@ -282,7 +282,7 @@ training, well and ably trained too, both by
 <span id="page_26">p. 26</span>
 
 amateurs and professionals, than ever there were since the beginning of
-the century." <span id="fr_182"></span>[1](#fn_182)
+the century." <span id="fr_182"></span>[1](#fn_182.md)
 
 CAPARISON OF A HAWK.--When the hawk was not flying at her game, she was
 usually hood-winked, with a cap or hood provided for that purpose, and
@@ -330,7 +330,7 @@ Her bels, Sir Francis, had not both one waight,
 Nor was one semitune above the other.  
 Mei thinkes these Millane bels do sound too full,  
 And spoile the mounting of your hawke. <span
-id="fr_183"></span>[2](#fn_183)
+id="fr_183"></span>[2](#fn_183.md)
 
 So much for the birds themselves; but the person who carried the hawk
 
@@ -340,18 +340,18 @@ was also to be provided with gloves for that purpose, to prevent their
 talons from hurting his hand. In the inventories of apparel belonging to
 king Henry VIII., such articles frequently occur; at Hampton Court, in
 the jewel house, were seven hawkes' gloves embroidered. <span
-id="fr_184"></span>[1](#fn_184)
+id="fr_184"></span>[1](#fn_184.md)
 
 EARLY TREATISES ON HAWKING.--We have a poetical fragment, written in old
 Norman French, as early as the thirteenth century, containing some
 general observations respecting the management of hawks, which the
 author informs us he found in a book made for, or by, the good king
-Edward. <span id="fr_185"></span>[2](#fn_185) Wanley, in his catalogue
+Edward. <span id="fr_185"></span>[2](#fn_185.md) Wanley, in his catalogue
 of the Harleian manuscripts, suspects there is some mistake in the name;
 and that this fragment is really part of a treatise upon hawking, which
 he tells us was written by king Alfred; but I rather think the author is
 correct in this particular; for another manuscript <span
-id="fr_186"></span>[3](#fn_186) in English, and about a century more
+id="fr_186"></span>[3](#fn_186.md) in English, and about a century more
 modern, treating upon the same subject, has the following indication at
 the close, "Here endith the booke of haukyng, after Prince Edwarde,
 kynge of Englande."
@@ -373,7 +373,7 @@ those who now may desire to follow up this ancient sport; a fourth
 edition appeared in 1158. This was followed by an original work by
 Edmund Bert, issued in 1619 under the title, "An Approved Treatise of
 Hawkes and Hawking," divided into three books. <span
-id="fr_187"></span>[4](#fn_187) The author was a gentleman of Essex.
+id="fr_187"></span>[4](#fn_187.md) The author was a gentleman of Essex.
 When hawking on the Sussex downs for just five weeks with "an intermewed
 goshawke," he killed in that time, "with that one hawke foure score and
 odd partridges, five pheasants, seven rayles, and foure hares." For one
@@ -402,7 +402,7 @@ rank were permitted under the Norman government to keep hawks, as
 appears from a clause inserted in the Forest Charter: this charter king
 John was compelled to sign; and by it the privilege was given to every
 free man to have airies of hawks, sparrow-hawks, falcons, eagles, and
-herons in his own woods. <span id="fr_188"></span>[1](#fn_188) In the
+herons in his own woods. <span id="fr_188"></span>[1](#fn_188.md) In the
 thirty-fourth year of the reign of Edward III. a statute was made, by
 which a person finding a falcon, tercelet, laner, laneret, or any other
 species of hawk, that had been lost by its owner, was commanded to carry
@@ -420,22 +420,22 @@ If the person who found the hawk concealed the same from the owner or
 his falconer, he was liable upon discovery to pay the price of the bird
 to the owner, and to suffer two years' imprisonment; and if he was
 unable to pay the fine, his imprisonment was extended to a longer
-term. <span id="fr_189"></span>[2](#fn_189) In the thirty-seventh year
+term. <span id="fr_189"></span>[2](#fn_189.md) In the thirty-seventh year
 of the same monarch this act was confirmed, with additional severity;
 and the stealing and concealing of a hawk, was made felony. <span
-id="fr_190"></span>[3](#fn_190) In the same reign the bishop of Ely
+id="fr_190"></span>[3](#fn_190.md) In the same reign the bishop of Ely
 excommunicated certain persons for stealing a hawk that was sitting upon
 her perch in the cloisters of Bermondsey, in Southwark; but this piece
 of sacrilege was committed during divine service in the choir, and the
 hawk was the property of the bishop. <span
-id="fr_191"></span>[4](#fn_191)
+id="fr_191"></span>[4](#fn_191.md)
 
 In the reign of Henry VII. a restrictive act was established,
 prohibiting any man from bearing a hawk bred in England, called a
-nyesse, <span id="fr_192"></span>[5](#fn_192) a gos-hawk, a tassel, a
+nyesse, <span id="fr_192"></span>[5](#fn_192.md) a gos-hawk, a tassel, a
 laner, a laneret, or a falcon, upon pain of forfeiting the same to the
 king, but that he should use such hawks as were brought from
-abroad; <span id="fr_193"></span>[6](#fn_193) what good purpose this
+abroad; <span id="fr_193"></span>[6](#fn_193.md) what good purpose this
 ordinance was to promote, I am at a loss to say. The laws respecting
 these birds were frequently varied in the succeeding times, and the
 alterations seem, in some instances, to have been exceedingly
@@ -453,7 +453,7 @@ liable to a fine at the king's pleasure; one half of which belonged to
 the crown, and the other half to the owner of the ground whereon the
 eggs were found; and, if a man destroyed the same sort of eggs upon his
 own ground, he was equally subject to the penalty. <span
-id="fr_194"></span>[1](#fn_194) This act was somewhat meliorated in the
+id="fr_194"></span>[1](#fn_194.md) This act was somewhat meliorated in the
 reign of Elizabeth, and tilt imprisonment reduced to three months: but
 then the offender was obligated to find security for his good behaviour
 for seven years, or remain in prison until he did.
@@ -468,7 +468,7 @@ worthy the acceptance of a king or an emperor. In the eighth year of the
 reign of Edward III. the king of Scotland sent him a falcon gentle as a
 present, which he not only most graciously received, but rewarded the
 falconer who brought it with the donation of forty shillings; a proof
-how highly the bird was valued. <span id="fr_195"></span>[2](#fn_195) It
+how highly the bird was valued. <span id="fr_195"></span>[2](#fn_195.md) It
 is further said, that in the reign of James I. Sir Thomas Monson gave
 one thousand pounds for a cast of hawks.
 
@@ -502,7 +502,7 @@ put at the moulting time, when they cast their feathers. The king's
 hawks were kept at this place as early as the year 1377, an. I Richard
 II.; but A.D. 1537, the 27th year of Henry VIII., it was converted into
 stables for that monarch's horses, and the hawks were removed. <span
-id="fr_196"></span>[1](#fn_196)
+id="fr_196"></span>[1](#fn_196.md)
 
 \* The conversion of this building, in which the king's hawks were kept
 while they *mewed* or moulted, into a stable, gave an entirely new
@@ -532,7 +532,7 @@ taking fish to claim a place in this work.
 Fowling, says Burton, may be performed with guns, lime-twigs, nets,
 glades, gins, strings, baits, pit-falls, pipe-calls, stalking horses,
 setting dogs, and decoy ducks; or with chaff-nets for smaller
-birds <span id="fr_197"></span>[2](#fn_197); there may also be added
+birds <span id="fr_197"></span>[2](#fn_197.md); there may also be added
 bows and arrows, which answered the purpose of guns before they were
 invented and brought to perfection.
 
@@ -552,7 +552,7 @@ form of oxen, cows, and stags, either for variety, or for conveniency
 sake. In the inventories of the wardrobes, belonging to king Henry
 VIII., we frequently find the allowance of certain quantities of stuff
 for the purpose of making stalking coats, and stalking hose for the use
-of his majesty." <span id="fr_198"></span>[1](#fn_198)
+of his majesty." <span id="fr_198"></span>[1](#fn_198.md)
 
 There is also another method of fowling, which, says my author, for I
 will give it nearly in his own words, is performed with nets, and in the
@@ -573,13 +573,13 @@ to ring the bell; for, if the sound shall cease, the other birds, if
 there be any more near at hand, will rise up and fly away."--"This is,"
 continues the author, "an excellent method to catch larks, woodcocks,
 partridges, and all other land birds." <span
-id="fr_199"></span>[2](#fn_199)
+id="fr_199"></span>[2](#fn_199.md)
 
 The pipe-call, mentioned by Burton, is noticed under a different
 denomination by Chaucer; "Lo," says he, "the birde is begyled with the
 merry voice of the foulers' whistel, when it is closed in your
 nette,"--alluding to the deceptive art of the bird-catchers in his
-time. <span id="fr_200"></span>[3](#fn_200)
+time. <span id="fr_200"></span>[3](#fn_200.md)
 
 I shall just observe, that there are twelve prints, published by John
 Overton, upon the popular subjects of hunting, hawking, and fishing,
@@ -591,114 +591,114 @@ somewhat more than a century back.
 
 ### Footnotes
 
-<span id="fn_162"></span>[21:1](spe06.htm#fr_162) *Memoirs des Inscrip.*
+<span id="fn_162"></span>[21:1](spe06.htm#fr_162.md) *Memoirs des Inscrip.*
 tom. ix. p. 542.
 
-<span id="fn_163"></span>[21:2](spe06.htm#fr_163) See Struth's *Regal
+<span id="fn_163"></span>[21:2](spe06.htm#fr_163.md) See Struth's *Regal
 and Ecclesiastical Antiquities of England*.
 
-<span id="fn_164"></span>[21:3](spe06.htm#fr_164) Printed by Pynson A.
+<span id="fn_164"></span>[21:3](spe06.htm#fr_164.md) Printed by Pynson A.
 D. 1508.
 
-<span id="fn_165"></span>[22:1](spe06.htm#fr_165) Lib. v. cap. 8.
+<span id="fn_165"></span>[22:1](spe06.htm#fr_165.md) Lib. v. cap. 8.
 
-<span id="fn_166"></span>[22:2](spe06.htm#fr_166) Pliny *Nat. Hist.*
+<span id="fn_166"></span>[22:2](spe06.htm#fr_166.md) Pliny *Nat. Hist.*
 lib. x. cap. 8.
 
-<span id="fn_167"></span>[22:3](spe06.htm#fr_167) Peacham's *Complete
+<span id="fn_167"></span>[22:3](spe06.htm#fr_167.md) Peacham's *Complete
 Gentleman*, p. 183.
 
-<span id="fn_168"></span>[22:4](spe06.htm#fr_168) See Warton's *Hist.
+<span id="fn_168"></span>[22:4](spe06.htm#fr_168.md) See Warton's *Hist.
 Eng. Poet.* vol. ii. p. 405.
 
-<span id="fn_169"></span>[22:5](spe06.htm#fr_169) See p. 3. sec. iii.
+<span id="fn_169"></span>[22:5](spe06.htm#fr_169.md) See p. 3. sec. iii.
 
-<span id="fn_170"></span>[22:6](spe06.htm#fr_170) This charter was
+<span id="fn_170"></span>[22:6](spe06.htm#fr_170.md) This charter was
 granted A.D. 821. Dugdale's *Monasticon*, vol. i. p. 100.
 
-<span id="fn_171"></span>[22:7](spe06.htm#fr_171) See the whole of the
+<span id="fn_171"></span>[22:7](spe06.htm#fr_171.md) See the whole of the
 curious will in Lambarde's *Perambulation of Kent*, p. 540.
 
-<span id="fn_172"></span>[23:1](spe06.htm#fr_172) Lidgate presented this
+<span id="fn_172"></span>[23:1](spe06.htm#fr_172.md) Lidgate presented this
 poem to King Henry VI. when that monarch held his court at Bury. The
 presentation MS. is yet extant in the Harleian Library, No. 2278.
 
-<span id="fn_173"></span>[24:1](spe06.htm#fr_173) Warton's *Hist. of
+<span id="fn_173"></span>[24:1](spe06.htm#fr_173.md) Warton's *Hist. of
 English Poetry*, vol. ii. p. 406.
 
-<span id="fn_174"></span>[24:2](spe06.htm#fr_174) *Aira Accipitris*.
+<span id="fn_174"></span>[24:2](spe06.htm#fr_174.md) *Aira Accipitris*.
 
-<span id="fn_175"></span>[24:3](spe06.htm#fr_175) *Trente fauconniers à
+<span id="fn_175"></span>[24:3](spe06.htm#fr_175.md) *Trente fauconniers à
 cheval, charges d’oiseaux*. Froissart's Chron. vol. i. cap. 210.
 
-<span id="fn_176"></span>[24:4](spe06.htm#fr_176) Tiberius, C. vi.
+<span id="fn_176"></span>[24:4](spe06.htm#fr_176.md) Tiberius, C. vi.
 
-<span id="fn_177"></span>[24:5](spe06.htm#fr_177) Julius, A. vi.
+<span id="fn_177"></span>[24:5](spe06.htm#fr_177.md) Julius, A. vi.
 
-<span id="fn_178"></span>[24:6](spe06.htm#fr_178) Marked 2 B. vii.
+<span id="fn_178"></span>[24:6](spe06.htm#fr_178.md) Marked 2 B. vii.
 
-<span id="fn_179"></span>[25:1](spe06.htm#fr_179) Johan. Sarisburiensis,
+<span id="fn_179"></span>[25:1](spe06.htm#fr_179.md) Johan. Sarisburiensis,
 lib. i. cap. 4.
 
-<span id="fn_180"></span>[25:2](spe06.htm#fr_180) *Memoirs of Count
+<span id="fn_180"></span>[25:2](spe06.htm#fr_180.md) *Memoirs of Count
 Grammont*, ii. 279.
 
-<span id="fn_181"></span>[25:3](spe06.htm#fr_181) Shooting with guns
+<span id="fn_181"></span>[25:3](spe06.htm#fr_181.md) Shooting with guns
 became a recognised and customary sport in the second half of the
 seventeenth century, Brome's *Gentleman's Recreation* (1686), and
 Fairfax's *Compleat Sportsman* (1689) have chapters on Shooting and
 Shooting Flying.
 
-<span id="fn_182"></span>[26:1](spe06.htm#fr_182) Badminton Library:
+<span id="fn_182"></span>[26:1](spe06.htm#fr_182.md) Badminton Library:
 *Falconry*, by Hon. G. Lascelles. For the literature of this subject,
 see Harting's *Bibliotheca Accipitraria*.
 
-<span id="fn_183"></span>[26:2](spe06.htm#fr_183) "A Woman killed with
+<span id="fn_183"></span>[26:2](spe06.htm#fr_183.md) "A Woman killed with
 Kindness," third edition, 1617. Garrick's Coll. E. vol. iv.
 
-<span id="fn_184"></span>[27:1](spe06.htm#fr_184) MS. Harl. 1419.
+<span id="fn_184"></span>[27:1](spe06.htm#fr_184.md) MS. Harl. 1419.
 
-<span id="fn_185"></span>[27:2](spe06.htm#fr_185) MS. Harl. 978.
+<span id="fn_185"></span>[27:2](spe06.htm#fr_185.md) MS. Harl. 978.
 
-<span id="fn_186"></span>[27:3](spe06.htm#fr_186) MS. Harl. 2340.
+<span id="fn_186"></span>[27:3](spe06.htm#fr_186.md) MS. Harl. 2340.
 
-<span id="fn_187"></span>[27:4](spe06.htm#fr_187) Reprinted by Quaritch
+<span id="fn_187"></span>[27:4](spe06.htm#fr_187.md) Reprinted by Quaritch
 in 1891.
 
-<span id="fn_188"></span>[28:1](spe06.htm#fr_188) Carta de Forresta,
+<span id="fn_188"></span>[28:1](spe06.htm#fr_188.md) Carta de Forresta,
 cap. xi.
 
-<span id="fn_189"></span>[28:2](spe06.htm#fr_189) Rot. Parl. 34 Ed. III.
+<span id="fn_189"></span>[28:2](spe06.htm#fr_189.md) Rot. Parl. 34 Ed. III.
 
-<span id="fn_190"></span>[28:3](spe06.htm#fr_190) *Ibid*. 37 Ed. III.
+<span id="fn_190"></span>[28:3](spe06.htm#fr_190.md) *Ibid*. 37 Ed. III.
 
-<span id="fn_191"></span>[28:4](spe06.htm#fr_191) A. D. 1337. Regist.
+<span id="fn_191"></span>[28:4](spe06.htm#fr_191.md) A. D. 1337. Regist.
 Adami Orleton. Epis. Wint. fol. 56.
 
-<span id="fn_192"></span>[28:5](spe06.htm#fr_192) A hawk was called a
+<span id="fn_192"></span>[28:5](spe06.htm#fr_192.md) A hawk was called a
 nyesse, or an eyesse, from her having watery eyes.
 
-<span id="fn_193"></span>[28:6](spe06.htm#fr_193) Stat. xi. Hen. VII.
+<span id="fn_193"></span>[28:6](spe06.htm#fr_193.md) Stat. xi. Hen. VII.
 
-<span id="fn_194"></span>[29:1](spe06.htm#fr_194) Stat. xi. Hen. VII.
+<span id="fn_194"></span>[29:1](spe06.htm#fr_194.md) Stat. xi. Hen. VII.
 
-<span id="fn_195"></span>[29:2](spe06.htm#fr_195) MS. Cott. Nero, C.
+<span id="fn_195"></span>[29:2](spe06.htm#fr_195.md) MS. Cott. Nero, C.
 viii. p. 275.
 
-<span id="fn_196"></span>[30:1](spe06.htm#fr_196) Stow's *Survey of
+<span id="fn_196"></span>[30:1](spe06.htm#fr_196.md) Stow's *Survey of
 London*.
 
-<span id="fn_197"></span>[30:2](spe06.htm#fr_197) Burton's *Anatomy of
+<span id="fn_197"></span>[30:2](spe06.htm#fr_197.md) Burton's *Anatomy of
 Melancholy*, book v. chap. 8, edit. Lond. 1660.
 
-<span id="fn_198"></span>[31:1](spe06.htm#fr_198) MS. Harl. 2284.
+<span id="fn_198"></span>[31:1](spe06.htm#fr_198.md) MS. Harl. 2284.
 
-<span id="fn_199"></span>[31:2](spe06.htm#fr_199) *Jewel for Gentrie*,
+<span id="fn_199"></span>[31:2](spe06.htm#fr_199.md) *Jewel for Gentrie*,
 Lond. 1614.
 
-<span id="fn_200"></span>[31:3](spe06.htm#fr_200) *Testament of Love*,
+<span id="fn_200"></span>[31:3](spe06.htm#fr_200.md) *Testament of Love*,
 book ii.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](spe07)
+[Next: Chapter III](spe07.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar122) [Next](gbar124)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar122) [Next](gbar124.md)
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ and lying teacher pretending to instruct us, what ought we to do?'
 
 ------------------------------------------------------------------------
 
-[Next](gbar124)
+[Next](gbar124.md)

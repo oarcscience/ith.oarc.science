@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK V CHAPTER IV
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK V](book04) 
-[Previous](mart091)  [Next](mart093) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK V](book04.md) 
+[Previous](mart091)  [Next](mart093.md) </span>
 
 ------------------------------------------------------------------------
 

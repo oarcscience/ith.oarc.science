@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku35)  [Next](tku37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku35)  [Next](tku37.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ is located the brain.
 hidden also as that of the Ancient of Days.
 
 561\. And therefore is this brain expanded, and it shineth (or
-proceedeth) in thirty-two <span id="fr_99"></span>[1](#fn_98) paths. The
+proceedeth) in thirty-two <span id="fr_99"></span>[1](#fn_98.md) paths. The
 same is that which is written, Gen. ii. 7: "And a river went forth out
 of Eden."
 
@@ -39,13 +39,13 @@ His Spirit in them.
 
 566\. From the third cavity there go forth a thousand times a thousand
 conclaves and assemblies, wherein DOTh, <span
-id="fr_100"></span>[2](#fn_99) *Daath*, Knowledge, is contained and
+id="fr_100"></span>[2](#fn_99.md) *Daath*, Knowledge, is contained and
 dwelleth.
 
 <span id="page_181">p. 181</span>
 
 567\. And the hollow place of this cavity is placed between the other
-two cavities <span id="fr_101"></span>[1](tku37.htm#fn_100) and all
+two cavities <span id="fr_101"></span>[1](tku37.htm#fn_100.md) and all
 those conclaves are filled from either side.
 
 568\. This is that which is written, Prov. ii. 4: "And in knowledge
@@ -60,15 +60,15 @@ expanded and diffused.
 
 ### Footnotes
 
-<span id="fn_98"></span>[180:1](tku36.htm#fr_99) These are the
+<span id="fn_98"></span>[180:1](tku36.htm#fr_99.md) These are the
 thirty-two paths of the "Sepher Yetzirah," symbolised by the ten numbers
 of the decad, and the twenty-two letters of the Hebrew alphabet.
 
-<span id="fn_99"></span>[180:2](tku36.htm#fr_100) It is to be remembered
+<span id="fn_99"></span>[180:2](tku36.htm#fr_100.md) It is to be remembered
 that, according to the "Book of Concealed Mystery," Daath is the
 conjunction of the second and third Sephiroth. Wisdom and Understanding,
 the I and H of IHVH, the Supernal Father and Mother.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX: Concerning the Hair of Microprosopus](tku37)
+[Next: Chapter XXIX: Concerning the Hair of Microprosopus](tku37.md)

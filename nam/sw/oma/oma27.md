@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma26)  [Next](oma28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma26)  [Next](oma28.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,9 +9,9 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 
 It is not known how much longer the people lived at the bottom of the
 rock, but much time elapsed. Many officers died away but finally there
-came a time when Kasewat <span id="fr_194"></span>[95](#fn_194) was
+came a time when Kasewat <span id="fr_194"></span>[95](#fn_194.md) was
 Country Chief, being the only son of the war chief \[?\]. The older
-people remembered that [Kasewat](errata.htm#3) had said that eventually
+people remembered that [Kasewat](errata.htm#3.md) had said that eventually
 they were to move on top of the rock and in that way they would also be
 protected, for the people were the "chosen people." So they decided to
 carry out the plan of Kasewat. There were still many pine trees on top
@@ -41,11 +41,11 @@ to be helped in building their houses. Everyone was to help.
 say what clan would come next. They helped each other thus. But before
 they had finished all the buildings, the water ran out. So they cleaned
 out the hollow places in the rock for cisterns <span
-id="fr_195"></span>[96](#fn_195) and walled in some so that they would
+id="fr_195"></span>[96](#fn_195.md) and walled in some so that they would
 hold more. When the next rain came they had plenty of water. They built
 the home \[?house ?houses\] for the Antelope clan. After all the houses
 had been built, Country Chief told the people it was time for them to
-move up on Yakakotona kanach <span id="fr_196"></span>[97](#fn_196)
+move up on Yakakotona kanach <span id="fr_196"></span>[97](#fn_196.md)
 (completely kernelled long ear of corn).
 
 So the chaianyi were the first to go up the Rainbow trail. The chaianyi
@@ -87,22 +87,22 @@ of the ceremony.
 
 ### Footnotes
 
-<span id="fn_191"></span>[90:92](oma26.htm#fr_191) Cf. White, 1942.
+<span id="fn_191"></span>[90:92](oma26.htm#fr_191.md) Cf. White, 1942.
 
-<span id="fn_192"></span>[90:93](oma26.htm#fr_192) Masewi and Oyoyewi
+<span id="fn_192"></span>[90:93](oma26.htm#fr_192.md) Masewi and Oyoyewi
 live under a rock (or perhaps two rocks) on top of the Acoma mesa, east
 of the village (White, 1932, fig. 1, pp. 30, 146).
 
-<span id="fn_193"></span>[90:94](oma26.htm#fr_193) Obviously a
+<span id="fn_193"></span>[90:94](oma26.htm#fr_193.md) Obviously a
 paraphrase, but for what?
 
-<span id="fn_194"></span>[90:95](oma27.htm#fr_194) See White, 1932, pp.
+<span id="fn_194"></span>[90:95](oma27.htm#fr_194.md) See White, 1932, pp.
 147, 172-180; 1942.
 
-<span id="fn_195"></span>[91:96](oma27.htm#fr_195) There are two great
+<span id="fn_195"></span>[91:96](oma27.htm#fr_195.md) There are two great
 natural reservoirs on top of the Acoma mesa (White, 1932, p. 29).
 
-<span id="fn_196"></span>[91:97](oma27.htm#fr_196) Yaka, "corn," Kotona
+<span id="fn_196"></span>[91:97](oma27.htm#fr_196.md) Yaka, "corn," Kotona
 is the completely kernelled ear of corn used ceremonially. The meaning
 of kanach is obscure. ka is his, or her; perhaps nach is
 head--nack’a'inyi is head at Santa Ana. The great rock-mesa upon which
@@ -111,4 +111,4 @@ erect"; the people live upon the kotona's head (White, 1942)
 
 ------------------------------------------------------------------------
 
-[Next: The Birth of the War Twins](oma28)
+[Next: The Birth of the War Twins](oma28.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](dun08)  [Next](dun10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](dun08)  [Next](dun10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Duncan's Masoic Ritual and Monitor*, by Malcom C. Duncan, \[1866\], at
 Intangible Textual Heritage
 
@@ -189,7 +189,7 @@ of human justice.
 \[<span class="small">This applies as well to the Entered Apprentice's
 as to the Royal Arch Mason's "Duegard."</span>\]
 
-[PHRASES](errata.htm#9) OF ADMISSION.--When a candidate receives the
+[PHRASES](errata.htm#9.md) OF ADMISSION.--When a candidate receives the
 first Degree he is said to be *initiated*, at the second step he is
 *passed*, at the third, *raised*; when he takes the Mark Degree, he is
 *congratulated* (advanced); having passed the chair, he is said to have
@@ -240,7 +240,7 @@ be in relation to Masonic language and Masonic ideas. The language used
 to express an idea several thousand years ago, or even a few hundred
 years ago, would be unintelligible, and not understood. To expect
 uniformity of language for all time, is a vain expectation, and can
-never be attained.--*Key Stone*. <span id="fr_86"></span>[1](#fn_86)
+never be attained.--*Key Stone*. <span id="fr_86"></span>[1](#fn_86.md)
 
  
 
@@ -266,17 +266,17 @@ the probability is, that the tradition has been fabricated in a
 subsequent age, without the existence of any documents to attest its
 authenticity.
 
-<span id="img_27000"></span> ![THE TRIPLE TAU.](img/27000.jpg)  
+<span id="img_27000"></span> ![THE TRIPLE TAU.](img/27000.jpg.md)  
 THE TRIPLE TAU.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_86"></span>[270:1](dun09.htm#fr_86) This is not taken from
+<span id="fn_86"></span>[270:1](dun09.htm#fr_86.md) This is not taken from
 Dr. Oliver's Dictionary, but is quoted from a popular Masonic journal,
 and embodies the sentiments of a great majority of the fraternity.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](dun10)
+[Next: Appendix](dun10.md)

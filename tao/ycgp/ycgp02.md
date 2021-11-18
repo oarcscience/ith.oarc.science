@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp01) [Next](ycgp03)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp01) [Next](ycgp03.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ sovereign was overbearing he was condescending. When his sovereign
 collected taxes he distributed money. Thus the people admired him, and
 in consequence he <span id="page_38">p. 38</span> entered into the
 possession of the kingdom of Ch’i. His descendants hold it to this
-day.<span id="page_38_fr_1"></span>[1](#page_38_note_1)
+day.<span id="page_38_fr_1"></span>[1](#page_38_note_1.md)
 
    "If anybody has real greatness he is poor; if his greatness is
 spurious, he is rich."
@@ -34,13 +34,13 @@ hundred years.
    "Po Yo and Shu-Ch’i really abdicated on account of the Prince Ku-Chu,
 and lost their kingdom at last, finally dying of starvation on the
 mountain of Shou-Yang.<span
-id="page_38_fr_2"></span>[2](#page_38_note_2)
+id="page_38_fr_2"></span>[2](#page_38_note_2.md)
 
    "This is the difference between the real and false."
 
 ------------------------------------------------------------------------
 
-[Next](ycgp03)
+[Next](ycgp03.md)
 
 ------------------------------------------------------------------------
 
@@ -48,11 +48,11 @@ id="page_38_fr_2"></span>[2](#page_38_note_2)
 
 <span id="footnotes_page_38">p. 38</span>
 
-<span id="page_38_note_1"></span>[1](#page_38_fr_1) Kuan Chang died 645
+<span id="page_38_note_1"></span>[1](#page_38_fr_1.md) Kuan Chang died 645
 <span class="small">B.C.</span> Tien became King of Ch’i 370 <span
 class="small">B.C.</span>
 
-<span id="page_38_note_2"></span>[2](#page_38_fr_2) The Prince of
+<span id="page_38_note_2"></span>[2](#page_38_fr_2.md) The Prince of
 Ku-Chu, the father of these two brothers, had appointed the younger
 brother Shu-Ch’i to be his successor. The latter not wishing to deprive
 his brother, and the former not desiring to act against his father's

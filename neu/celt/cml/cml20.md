@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml19)  [Next](cml21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml19)  [Next](cml21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ daughter;
 <span id="page_253">p. 253</span>
 
 while the "Milky Way" was the "Castle of Gwydion", Dôn's son. <span
-id="fr_281"></span>[1](#fn_281) More than this, the greatest of her
+id="fr_281"></span>[1](#fn_281.md) More than this, the greatest of her
 children, the Nudd or Lludd whom some make the head of a dynasty of his
 own, was the Zeus alike of the Britons and of the Gaels. His epithet of
 *Llaw Ereint*, that is, "of the Hand of Silver", proves him the same
@@ -80,14 +80,14 @@ it was doubtless the same as that told of the Irish god. With it, and,
 no doubt, much else, has disappeared any direct account of battles
 fought by him as sky-god against Fomor-like enemies. But, under the
 faint disguise of a king of Britain, an ancient Welsh tale <span
-id="fr_282"></span>[2](#fn_282) records how he put an end to three
+id="fr_282"></span>[2](#fn_282.md) records how he put an end to three
 supernatural "plagues" which oppressed his country. In addition to this,
 we find him under his name of Nudd described in a Welsh Triad as one of
 "the three generous heroes of the Isle of Britain", while another makes
 him the owner of twenty-one thousand milch cows--an expression which
 must, to the primitive mind, have implied inexhaustible wealth. Both
 help us to the conception of a god of heaven and battle, triumphant, and
-therefore rich and liberal. <span id="fr_283"></span>[3](#fn_283)
+therefore rich and liberal. <span id="fr_283"></span>[3](#fn_283.md)
 
 More tangible evidence is, however, not lacking to prove the wide-spread
 nature of his worship. A temple dedicated to him in Roman times under
@@ -100,19 +100,19 @@ banks of the Severn. The god is pictured on a plaque of bronze as a
 youthful deity, haloed like the sun, and driving a four-horsed chariot.
 Flying spirits, typifying the winds, accompany him; while his power over
 the sea is symbolized by attendant Tritons. <span
-id="fr_284"></span>[1](#fn_284) This was in the west of Britain, while,
+id="fr_284"></span>[1](#fn_284.md) This was in the west of Britain, while,
 in the east, there is good reason to believe that he had a shrine
 overlooking the Thames. Tradition declares that St. Paul's Cathedral
 occupies the site of an ancient pagan temple; while the spot on which it
 stands was called, we know from Geoffrey of Monmouth, "Parth Lludd" by
 the Britons, and "Ludes Geat" by the Saxons. <span
-id="fr_285"></span>[2](#fn_285)
+id="fr_285"></span>[2](#fn_285.md)
 
 Great, however, as he probably was, Lludd, or Nudd occupies less space
 in Welsh story, as we have it now, than his son. Gwyn ap Nudd has
 outlived in tradition almost all his supernatural kin. Professor Rhys is
 tempted to see in him the British equivalent of the Gaelic Finn mac
-Cumhail. <span id="fr_286"></span>[3](#fn_286) The name of both alike
+Cumhail. <span id="fr_286"></span>[3](#fn_286.md) The name of both alike
 means "white"; both are sons of the heaven-god; both are famed as
 hunters. Gwyn, however, is more than that; for his game is man. In the
 early Welsh poems, he is a god of battle and of the dead, and, as such,
@@ -123,9 +123,9 @@ devils in Annwn, lest they should destroy the present
 
 <span id="page_255">p. 255</span>
 
-race <span id="fr_287"></span>[1](#fn_287)". Later again, as paganism
+race <span id="fr_287"></span>[1](#fn_287.md)". Later again, as paganism
 still further degenerated, he came to be considered as king of the
-*Tylwyth Teg*, the Welsh fairies, <span id="fr_288"></span>[2](#fn_288)
+*Tylwyth Teg*, the Welsh fairies, <span id="fr_288"></span>[2](#fn_288.md)
 and his name as such has hardly yet died out of his last haunt, the
 romantic vale of Neath. He is the wild huntsman of Wales and the West of
 England, and it is his pack which is sometimes heard at chase in waste
@@ -133,8 +133,8 @@ places by night.
 
 In his earliest guise, as a god of war and death, he is the subject of a
 poem in dialogue contained in the Black Book of Caermarthen. <span
-id="fr_289"></span>[3](#fn_289) Obscure, like most of the ancient Welsh
-poems, <span id="fr_290"></span>[4](#fn_290) it is yet a spirited
+id="fr_289"></span>[3](#fn_289.md) Obscure, like most of the ancient Welsh
+poems, <span id="fr_290"></span>[4](#fn_290.md) it is yet a spirited
 production, and may be quoted here as a favourable specimen of the
 poetry of the early Cymri. In it we shall see mirrored perhaps the
 clearest figure of the British Pantheon, the "mighty hunter", not of
@@ -142,7 +142,7 @@ deer, but of men's souls, riding his demon horse, and cheering on his
 demon hound to the fearful chase. He knows when and where all the great
 warriors fell, for he gathered their souls upon the field of battle, and
 now rules over them in Hades, or upon some "misty mountain-top". <span
-id="fr_291"></span>[5](#fn_291) It describes a mythical prince, named
+id="fr_291"></span>[5](#fn_291.md) It describes a mythical prince, named
 Gwyddneu Garanhir, known to Welsh legend as the ruler of a lost country
 now covered by the waters of Cardigan Bay, asking protection of the god,
 who
@@ -185,7 +185,7 @@ Brave man, what is thy descent?
 
 Round-hoofed is my horse, the torment of battle,  
 Fairy am I called, Gwyn the son of Nudd, <span
-id="fr_292"></span>[1](#fn_292)  
+id="fr_292"></span>[1](#fn_292.md)  
 The lover of Creurdilad, the daughter of Lludd.
 
 <span id="page_257">p. 257</span>
@@ -201,12 +201,12 @@ I am Gwyddneu Garanhir.
 Hasten to my ridge, the Tawë abode;  
 Not the nearest Tawë name I to thee,  
 But that Tawë which is the farthest. <span
-id="fr_293"></span>[1](#fn_293)
+id="fr_293"></span>[1](#fn_293.md)
 
 Polished is my ring, golden my saddle and bright:  
 To my sadness  
 I saw a conflict before Caer Vandwy. <span
-id="fr_294"></span>[2](#fn_294)
+id="fr_294"></span>[2](#fn_294.md)
 
 Before Caer Vandwy a host I saw,  
 Shields were shattered and ribs broken;  
@@ -222,14 +222,14 @@ Of thy horse than broken rushes to the ground.
 
 Handsome my dog, and round-bodied,  
 And truly the best of dogs;  
-Dormarth <span id="fr_295"></span>[3](#fn_295) was he, which belonged to
+Dormarth <span id="fr_295"></span>[3](#fn_295.md) was he, which belonged to
 Maelgwyn.
 
 *Gwyddneu*.
 
 Dormarth with the ruddy nose! what a gazer  
 Thou art upon me because I notice  
-Thy wanderings on Gwibir Vynyd. <span id="fr_296"></span>[4](#fn_296)
+Thy wanderings on Gwibir Vynyd. <span id="fr_296"></span>[4](#fn_296.md)
 
 <span id="page_258">p. 258</span>
 
@@ -257,7 +257,7 @@ The resister of Lloegyr, the son of Lleynawg.
 
 I have been where the soldiers of Britain were slain,  
 From the east to the north:  
-I am the escort of the grave. <span id="fr_297"></span>[1](#fn_297)
+I am the escort of the grave. <span id="fr_297"></span>[1](#fn_297.md)
 
 I have been where the soldiers of Britain were slain,  
 From the east to the south:  
@@ -273,7 +273,7 @@ courtship. Gwyn had as rival a deity called Gwyrthur ap Greidawl,
 
 <span id="page_259">p. 259</span>
 
-that is "Victor, son of Scorcher". <span id="fr_298"></span>[1](#fn_298)
+that is "Victor, son of Scorcher". <span id="fr_298"></span>[1](#fn_298.md)
 These two waged perpetual war for Creurdilad, or Creudylad, each in turn
 stealing her from the other, until the matter was referred to Arthur,
 who decided that Creudylad should be sent back to her father, and that
@@ -285,7 +285,7 @@ senses, the longest engagement on record, is not very clear; but its
 mythological interpretation appears fairly obvious. In Gwyn, god of
 death and the underworld, and in the solar deity, Gwyrthur, we may see
 the powers of darkness and sunshine, of winter and summer, in
-contest, <span id="fr_299"></span>[2](#fn_299) each alternately winning
+contest, <span id="fr_299"></span>[2](#fn_299.md) each alternately winning
 and losing a bride who would seem to represent the spring with its grain
 and flowers. Creudylad, whom the story of "Kulhwch and Olwen" calls "the
 most splendid maiden in the three islands of the mighty and in the three
@@ -300,7 +300,7 @@ that in some myths
 <span id="page_260">p. 260</span>
 
 the Greek Persephoné is made a daughter of Zeus and in others of
-Poseidon. <span id="fr_300"></span>[1](#fn_300)
+Poseidon. <span id="fr_300"></span>[1](#fn_300.md)
 
 Turning from the sky-god and his son, we find others of Dôn's children
 to have been the exponents of those arts of life which early races held
@@ -308,7 +308,7 @@ to have been taught directly by the gods to men. Dôn herself had a
 brother, Mâth, son of a mysterious Mathonwy, and recognizable as a
 benevolent ruler of the underworld akin to Beli, or perhaps that god
 himself under another title, for the name Mâth, which means "coin,
-money, treasure ", <span id="fr_301"></span>[2](#fn_301) recalls that of
+money, treasure ", <span id="fr_301"></span>[2](#fn_301.md) recalls that of
 Plouton, the Greek god of Hades, in his guise of possessor and giver of
 metals. It was a belief common to the Aryan races that wisdom, as well
 as wealth, came originally from the underworld; and we find Mâth
@@ -341,17 +341,17 @@ fish that was therein. And for that reason was he called Dylan, the Son
 of the Wave. Beneath him no wave ever broke." He was killed with a spear
 at last by his uncle, Govannan, and, according to the bard Taliesin, the
 waves of Britain, Ireland, Scotland, and the Isle of Man wept for
-him. <span id="fr_302"></span>[1](#fn_302) Beautiful legends grew up
+him. <span id="fr_302"></span>[1](#fn_302.md) Beautiful legends grew up
 around his death. The clamour of the waves dashing
 
 <span id="page_262">p. 262</span>
 
 upon the beach is the expression of their longing to avenge their son.
 The sound of the sea rushing up the mouth of the River Conway is still
-known as "Dylan's death-groan " <span id="fr_303"></span>[1](#fn_303). A
+known as "Dylan's death-groan " <span id="fr_303"></span>[1](#fn_303.md). A
 small promontory on the Carnarvonshire side of the Menai Straits, called
 *Pwynt Maen Tylen*, or *Pwynt Maen Dulan*, preserves his name. <span
-id="fr_304"></span>[2](#fn_304)
+id="fr_304"></span>[2](#fn_304.md)
 
 The other child of Gwydion and Arianrod grew up to become the British
 sun-god, Lleu Llaw Gyffes, the exact counterpart of the Gaelic Lugh
@@ -401,7 +401,7 @@ Arianrod, "but now he has a name. And a good
 <span id="page_264">p. 264</span>
 
 name it is. He shall be called Llew Llaw Gyffes <span
-id="fr_305"></span>[1](#fn_305)."
+id="fr_305"></span>[1](#fn_305.md)."
 
 This name of the sun-god is a good example of how obsolete the ancient
 pagan tradition had become before it was put into writing. The old word
@@ -409,7 +409,7 @@ pagan tradition had become before it was put into writing. The old word
 substituted for a name that was unintelligible to him one like it which
 he knew, namely *Llew*, meaning "lion". The word *Gyffes* seems also to
 have suffered change, and to have meant originally not "steady", but
-"long" <span id="fr_306"></span>[2](#fn_306).
+"long" <span id="fr_306"></span>[2](#fn_306.md).
 
 At any rate, Arianrod was defeated in her design to keep her son
 nameless. Neither did she even get her shoes; for, as soon as he had
@@ -488,7 +488,7 @@ back; and Gronw took possession of both his wife and his palace.
 <span id="img_26600"></span>
 
 [![BLODEUWEDD'S INVITATION TO GRONW PEBYR](tn/26600.jpg)  
-Click to enlarge](img/26600.jpg)  
+Click to enlarge](img/26600.jpg.md)  
 BLODEUWEDD'S INVITATION TO GRONW PEBYR  
 
  
@@ -543,11 +543,11 @@ the bird that hates the day. A still older form of this probably
 extremely ancient myth of the sun-god--the savage and repulsive details
 of which speak of a hoary antiquity--makes the chase of Blodeuwedd by
 Gwydion to have taken place in the sky, the stars scattered over the
-Milky Way being the traces of it. <span id="fr_307"></span>[1](#fn_307)
+Milky Way being the traces of it. <span id="fr_307"></span>[1](#fn_307.md)
 As for her accomplice, Lleu would accept no satisfaction short of
 Gronw's submitting to stand exactly where Lleu had stood, to be shot at
 in his turn. To this he was obliged to agree; and Lleu killed him. <span
-id="fr_308"></span>[2](#fn_308)
+id="fr_308"></span>[2](#fn_308.md)
 
 There are two other sons of Beli and Dôn of whom so little is recorded
 that it would hardly be worth while mentioning them, were it not for the
@@ -570,27 +570,27 @@ not," cried Nynniaw, "They shall," said Peibaw. "They shall not,"
 Nynniaw answered; and so they went on, from contradiction to quarrel,
 and from private quarrel to civil war, until the armies of both of them
 were destroyed, and the two authors of the evil were turned by God into
-oxen for their sins. <span id="fr_309"></span>[1](#fn_309)
+oxen for their sins. <span id="fr_309"></span>[1](#fn_309.md)
 
 Last of the children of Dôn, we find a goddess called Penardun, of whom
 little is known except that she was married to the sea-god Llyr. This
 incident is curious, as forming a parallel to the Gaelic story which
 tells of intermarriage between the Tuatha Dé Danann and the
-Fomors. <span id="fr_310"></span>[2](#fn_310) Brigit, the Dagda's
+Fomors. <span id="fr_310"></span>[2](#fn_310.md) Brigit, the Dagda's
 daughter, was married to Bress, son of Elathan, while Cian, the son of
 Diancecht, wedded Ethniu, the daughter of Balor. So, in this kindred
 mythology, a slender tie of relationship binds the gods of the sky to
 the gods of the sea.
 
 The name *Llyr* is supposed, like its Irish equivalent Lêr, to have
-meant "the Sea". <span id="fr_311"></span>[3](#fn_311) The British
+meant "the Sea". <span id="fr_311"></span>[3](#fn_311.md) The British
 sea-god is undoubtedly the same as the Gaelic; indeed,
 
 <span id="page_270">p. 270</span>
 
 the two facts that he is described in Welsh literature as Llyr Llediath,
 that is, "Llyr of the Foreign Dialect", and is given a wife called
-Iweridd (Ireland) <span id="fr_312"></span>[1](#fn_312), suggest that he
+Iweridd (Ireland) <span id="fr_312"></span>[1](#fn_312.md), suggest that he
 may have been borrowed by the Britons from the Gaels later than any
 mythology common to both. As a British god, he was the far-off original
 of Shakespeare's "King Lear". The chief city of his worship is still
@@ -599,7 +599,7 @@ days, Caer Llyr.
 
 Llyr, we have noticed, married two wives, Penardun and Iweridd. By the
 daughter of Dôn he had a son called Manawyddan, who is identical with
-the Gaelic Manannán mac Lir. <span id="fr_313"></span>[2](#fn_313) We
+the Gaelic Manannán mac Lir. <span id="fr_313"></span>[2](#fn_313.md) We
 know less of his character and attributes than we do of the Irish god;
 but we find him equally a ruler in that Hades or Elysium which the
 Celtic mind ever connected with the sea. Like all the inhabitants. of
@@ -610,7 +610,7 @@ he could show a different side of his character. A triad tells us that
 "The achievement of Manawyddan the Wise,  
 After lamentation and fiery wrath,  
 Was the constructing of the bone-fortress of Oeth and Anoeth", <span
-id="fr_314"></span>[3](#fn_314)
+id="fr_314"></span>[3](#fn_314.md)
 
 which is described as a prison made, in the shape of
 
@@ -620,7 +620,7 @@ a bee-hive, entirely of human bones mortared together, and divided into
 innumerable cells, forming a kind of labyrinth. In this ghastly place he
 immured those whom he found trespassing in Hades; and among his captives
 was no less a person than the famous Arthur. <span
-id="fr_315"></span>[1](#fn_315)
+id="fr_315"></span>[1](#fn_315.md)
 
 "Ireland" bore two children to Llyr: a daughter called Branwen and a son
 called Brân. The little we know of Branwen of the "Fair Bosom" shows her
@@ -628,13 +628,13 @@ as a goddess of love--child, like the Greek Aphrodité, of the sea. Brân,
 on the other hand, is, even more clearly than Manawyddan, a dark deity
 of Hades. He is represented as of colossal size, so huge, in fact, that
 no house or ship was big enough to hold him. <span
-id="fr_316"></span>[2](#fn_316) He delighted in battle and carnage, like
+id="fr_316"></span>[2](#fn_316.md) He delighted in battle and carnage, like
 the hoodie-crow or raven from which he probably took his name, <span
-id="fr_317"></span>[3](#fn_317) but he was also the especial patron of
+id="fr_317"></span>[3](#fn_317.md) but he was also the especial patron of
 bards, minstrels, and musicians, and we find him in one of the poems
 ascribed to Taliesin claiming to be himself a bard, a harper, a player
 on the crowth, and seven-score other musicians all at once. <span
-id="fr_318"></span>[4](#fn_318) His son was called Caradawc the
+id="fr_318"></span>[4](#fn_318.md) His son was called Caradawc the
 Strong-armed, who, as the British mythology crumbled, became confounded
 with the historical Caratacus, known popularly as "Caractacus".
 
@@ -645,10 +645,10 @@ in
 <span id="page_272">p. 272</span>
 
 <span class="contnote">\[paragraph continues\]</span> Gower. <span
-id="fr_319"></span>[1](#fn_319) That Brân was equally at home there may
+id="fr_319"></span>[1](#fn_319.md) That Brân was equally at home there may
 be proved from the Morte Darthur, in which store-house of forgotten and
 misunderstood mythology Brân of Gower survives as "King
-Brandegore". <span id="fr_320"></span>[2](#fn_320)
+Brandegore". <span id="fr_320"></span>[2](#fn_320.md)
 
 Such identification of a mere mortal country with the other world seems
 strange enough to us, but to our Celtic ancestors it was a quite natural
@@ -681,10 +681,10 @@ figures were Pwyll, "Head of Annwn" (the Welsh name for Hades), with his
 wife Rhiannon, and their son Pryderi. These beings are described as
 hostile to the children of Dôn, but friendly to the race of Llyr. After
 Pwyll's death or disappearance, his widow Rhiannon becomes the wife of
-Manawyddan. <span id="fr_321"></span>[1](#fn_321) In a poem of
+Manawyddan. <span id="fr_321"></span>[1](#fn_321.md) In a poem of
 Taliesin's we find Manawyddan and Pryderi joint-rulers of Hades, and
 warders of that magic cauldron of inspiration <span
-id="fr_322"></span>[2](#fn_322) which the gods of light attempted to
+id="fr_322"></span>[2](#fn_322.md) which the gods of light attempted to
 steal or capture, and which became famous afterwards as the "Holy
 Grail". Another of their treasures were the "Three Birds of Rhiannon",
 which, we are told in an ancient book, could sing the dead to life and
@@ -706,7 +706,7 @@ powerful British chieftain bearing that typically Celtic name, which is
 found in Irish legend as Artur, one of the sons of Nemed who fought
 against the Fomors, and on the Continent as Artaius, a Gaulish deity
 whom the Romans identified with Mercury, and who seems to have been a
-patron of agriculture. <span id="fr_323"></span>[1](#fn_323) But the
+patron of agriculture. <span id="fr_323"></span>[1](#fn_323.md) But the
 original Arthur stands upon the same ground as Cuchulainn and Finn. His
 deeds are mythical, because superhuman. His companions can be shown to
 have been divine. Some we know were worshipped in Gaul. Others are
@@ -725,7 +725,7 @@ Persia--were
 
 <span id="page_275">p. 275</span>
 
-sporadically worshipped. <span id="fr_324"></span>[1](#fn_324) Most of
+sporadically worshipped. <span id="fr_324"></span>[1](#fn_324.md) Most of
 these foreign gods were Roman, but a temple at Eboracum (now York) was
 dedicated to Serapis, and Mithras, the Persian sun-god, was also adored
 there; while at Corbridge, in Northumberland (the ancient Corspitium),
@@ -752,7 +752,7 @@ Coelvin (known earlier as
 
 <span class="contnote">\[paragraph continues\]</span> Camulodunum, and
 now as Colchester), who seized the crown of Britain, and spent his short
-reign in a series of battles. <span id="fr_325"></span>[1](#fn_325) The
+reign in a series of battles. <span id="fr_325"></span>[1](#fn_325.md) The
 name of the sun-god Maponos is found alike upon altars in Gaul and
 Britain, and in Welsh literature as Mabon, a follower of Arthur; while
 another Gaulish sun-god, Belinus, who had a splendid temple at
@@ -760,8 +760,8 @@ Bajocassos (the modern Bayeux), though not mentioned in the earliest
 British mythology, as its scattered records have come down to us, must
 have been connected with Brân; for we find in Geoffrey of Monmouth's
 History "King Belinus" as brother of "King Brennius", <span
-id="fr_326"></span>[2](#fn_326) and in the Morte Darthur "Balin" as
-brother of "Balan". <span id="fr_327"></span>[3](#fn_327) A
+id="fr_326"></span>[2](#fn_326.md) and in the Morte Darthur "Balin" as
+brother of "Balan". <span id="fr_327"></span>[3](#fn_327.md) A
 second-century Greek writer gives an account of a god of eloquence
 worshipped in Gaul under the name of Ogmios, and represented as equipped
 like Heracles, a description which exactly corresponds to the conception
@@ -784,7 +784,7 @@ the *Lugnassad* (Lugh's commemoration) held in ancient Ireland. Brigit,
 the Gaelic Minerva, is also found in Britain as Brigantia, tutelary
 goddess of the Brigantes, a Northern tribe, and in Eastern France as
 Brigindo, to whom Iccavos, son of Oppianos, made a dedicatory offering
-of which there is still record. <span id="fr_328"></span>[1](#fn_328)
+of which there is still record. <span id="fr_328"></span>[1](#fn_328.md)
 
 Other, less striking agreements between the mythical divine names of the
 Insular and Continental Celts might be cited. These recorded should,
@@ -797,74 +797,74 @@ cults.
 
 ### Footnotes
 
-<span id="fn_281"></span>[253:1](cml20.htm#fr_281) Lady Guest's
+<span id="fn_281"></span>[253:1](cml20.htm#fr_281.md) Lady Guest's
 *Mabinogion*, a note to *Math, the Son of Mathonwy*.
 
-<span id="fn_282"></span>[253:2](cml20.htm#fr_282) *The Story of Lludd
-and Llevelys*. See [chap. XXIV](cml28.htm#ch-24)--"The Decline and Fall
+<span id="fn_282"></span>[253:2](cml20.htm#fr_282.md) *The Story of Lludd
+and Llevelys*. See [chap. XXIV](cml28.htm#ch-24.md)--"The Decline and Fall
 of the Gods".
 
-<span id="fn_283"></span>[253:3](cml20.htm#fr_283) Rhys: *Hibbert
+<span id="fn_283"></span>[253:3](cml20.htm#fr_283.md) Rhys: *Hibbert
 Lectures*, p. 128.
 
-<span id="fn_284"></span>[254:1](cml20.htm#fr_284) See a monograph by
+<span id="fn_284"></span>[254:1](cml20.htm#fr_284.md) See a monograph by
 the Right Hon. Charles Bathurst: *Roman Antiquities in Lydney Park,
 Gloucestershire*.
 
-<span id="fn_285"></span>[254:2](cml20.htm#fr_285) See [chap.
-XXIV](cml28.htm#ch-24)--"The Decline and Fall of the Gods".
+<span id="fn_285"></span>[254:2](cml20.htm#fr_285.md) See [chap.
+XXIV](cml28.htm#ch-24.md)--"The Decline and Fall of the Gods".
 
-<span id="fn_286"></span>[254:3](cml20.htm#fr_286) *Hibbert Lectures*,
+<span id="fn_286"></span>[254:3](cml20.htm#fr_286.md) *Hibbert Lectures*,
 pp. 178, 199.
 
-<span id="fn_287"></span>[255:1](cml20.htm#fr_287) So translated by Lady
+<span id="fn_287"></span>[255:1](cml20.htm#fr_287.md) So translated by Lady
 Guest. Professor Rhys, however, renders it, "in whom God has put the
 instinct of the demons of Annwn". *Arthurian Legend*, p. 341.
 
-<span id="fn_288"></span>[255:2](cml20.htm#fr_288) Lady Guest's
+<span id="fn_288"></span>[255:2](cml20.htm#fr_288.md) Lady Guest's
 *Mabinogion*. Note to "Kulhwch and Olwen".
 
-<span id="fn_289"></span>[255:3](cml20.htm#fr_289) Black Book of
+<span id="fn_289"></span>[255:3](cml20.htm#fr_289.md) Black Book of
 Caermarthen, poem XXXIII. Vol. I, p. 293, of Skene's *Four Ancient
 Books*.
 
-<span id="fn_290"></span>[255:4](cml20.htm#fr_290) I have taken the
+<span id="fn_290"></span>[255:4](cml20.htm#fr_290.md) I have taken the
 liberty of omitting a few lines whose connection with their context is
 not very apparent.
 
-<span id="fn_291"></span>[255:5](cml20.htm#fr_291) Gwyn was said to
+<span id="fn_291"></span>[255:5](cml20.htm#fr_291.md) Gwyn was said to
 specially frequent the summits of hills.
 
-<span id="fn_292"></span>[256:1](cml20.htm#fr_292) This line is
+<span id="fn_292"></span>[256:1](cml20.htm#fr_292.md) This line is
 Professor Rhys's. Skene translates it: "Whilst I am called Gwyn the son
 of Nudd".
 
-<span id="fn_293"></span>[257:1](cml20.htm#fr_293) I have here preferred
+<span id="fn_293"></span>[257:1](cml20.htm#fr_293.md) I have here preferred
 Rhys's rendering: *Arthurian Legend*, p. 364.
 
-<span id="fn_294"></span>[257:2](cml20.htm#fr_294) A name for Hades, of
+<span id="fn_294"></span>[257:2](cml20.htm#fr_294.md) A name for Hades, of
 unknown meaning.
 
-<span id="fn_295"></span>[257:3](cml20.htm#fr_295) Dormarth means
+<span id="fn_295"></span>[257:3](cml20.htm#fr_295.md) Dormarth means
 "Death's Door". Rhys: *Arthurian Legend*, pp. 156-158.
 
-<span id="fn_296"></span>[257:4](cml20.htm#fr_296) Rhys has it:
+<span id="fn_296"></span>[257:4](cml20.htm#fr_296.md) Rhys has it:
 
 "Dormarth, red-nosed, ground-grazing  
 On him we perceived the speed  
 Of thy wandering on Cloud Mount."  
                           --*Arthurian Legend*, p. 156.
 
-<span id="fn_297"></span>[258:1](cml20.htm#fr_297) Rhys: *Arthurian
+<span id="fn_297"></span>[258:1](cml20.htm#fr_297.md) Rhys: *Arthurian
 Legend*, p. 383. Skene translates: "I am alive, they in their graves!"
 
-<span id="fn_298"></span>[259:1](cml20.htm#fr_298) Rhys: *Hibbert
+<span id="fn_298"></span>[259:1](cml20.htm#fr_298.md) Rhys: *Hibbert
 Lectures*, p. 561.
 
-<span id="fn_299"></span>[259:2](cml20.htm#fr_299) Rhys: *Hibbert
+<span id="fn_299"></span>[259:2](cml20.htm#fr_299.md) Rhys: *Hibbert
 Lectures*, pp. 561-563.
 
-<span id="fn_300"></span>[260:1](cml20.htm#fr_300) Dyer: *Studies of the
+<span id="fn_300"></span>[260:1](cml20.htm#fr_300.md) Dyer: *Studies of the
 Gods in Greece*, p. 48.
 
 Gwyn, son of Nudd, had a brother, Edeyrn, of whom so little has come
@@ -880,98 +880,98 @@ honour. Modern readers will know him from Tennyson's Idyll of "Geraint
 and Enid", which follows very closely the Welsh romance of "Geraint, the
 Son of Erbin".
 
-<span id="fn_301"></span>[260:2](cml20.htm#fr_301) Rhys--who calls him
+<span id="fn_301"></span>[260:2](cml20.htm#fr_301.md) Rhys--who calls him
 "a Cambrian Pluto": *Lectures on Welsh Philology*, P. 414.
 
-<span id="fn_302"></span>[261:1](cml20.htm#fr_302) Book of Taliesin,
+<span id="fn_302"></span>[261:1](cml20.htm#fr_302.md) Book of Taliesin,
 man. *The Death-song of Dylan, Son of the Wave*, Vol. I, p. 288 of
 Skene.
 
-<span id="fn_303"></span>[262:1](cml20.htm#fr_303) Rhys: Hibbert
+<span id="fn_303"></span>[262:1](cml20.htm#fr_303.md) Rhys: Hibbert
 Lecturer, p. 387.
 
-<span id="fn_304"></span>[262:2](cml20.htm#fr_304) Rhys: Celtic
+<span id="fn_304"></span>[262:2](cml20.htm#fr_304.md) Rhys: Celtic
 Folklore, p. 210.
 
-<span id="fn_305"></span>[264:1](cml20.htm#fr_305) *i.e.* The Lion with
+<span id="fn_305"></span>[264:1](cml20.htm#fr_305.md) *i.e.* The Lion with
 the Steady Hand.
 
-<span id="fn_306"></span>[264:2](cml20.htm#fr_306) See Rhys: *Hibbert
+<span id="fn_306"></span>[264:2](cml20.htm#fr_306.md) See Rhys: *Hibbert
 Lectures*, note to p. 237.
 
-<span id="fn_307"></span>[268:1](cml20.htm#fr_307) Rhys: *Hibbert
+<span id="fn_307"></span>[268:1](cml20.htm#fr_307.md) Rhys: *Hibbert
 Lectures*, p. 240.
 
-<span id="fn_308"></span>[268:2](cml20.htm#fr_308) Retold from the
+<span id="fn_308"></span>[268:2](cml20.htm#fr_308.md) Retold from the
 Mabinogi of *Math, Son of Mathonwy*, In *Lady Guest's Mabinogion*.
 
-<span id="fn_309"></span>[269:1](cml20.htm#fr_309) The Iolo Manuscripts:
+<span id="fn_309"></span>[269:1](cml20.htm#fr_309.md) The Iolo Manuscripts:
 collected by Edward Williams, the bard, at about the beginning of the
 nineteenth century--*The Tale of Rhitta Gawr*.
 
-<span id="fn_310"></span>[269:2](cml20.htm#fr_310) See Chapter VII--"The
+<span id="fn_310"></span>[269:2](cml20.htm#fr_310.md) See Chapter VII--"The
 Rise of the Sun-God".
 
-<span id="fn_311"></span>[269:3](cml20.htm#fr_311) Rhys: *Studies in the
+<span id="fn_311"></span>[269:3](cml20.htm#fr_311.md) Rhys: *Studies in the
 Arthurian Legend*, p. 130.
 
-<span id="fn_312"></span>[270:1](cml20.htm#fr_312) Rhys: *Arthurian
+<span id="fn_312"></span>[270:1](cml20.htm#fr_312.md) Rhys: *Arthurian
 Legend*, p. 130.
 
-<span id="fn_313"></span>[270:2](cml20.htm#fr_313) The old Irish tract
+<span id="fn_313"></span>[270:2](cml20.htm#fr_313.md) The old Irish tract
 called *Coir Anmann* (the *Choice of Names*) says: "Manannán mac Lir . .
 . the Britons and the men of Erin deemed that he was the god of the
 sea".
 
-<span id="fn_314"></span>[270:3](cml20.htm#fr_314) *Iolo MSS*., stanza
+<span id="fn_314"></span>[270:3](cml20.htm#fr_314.md) *Iolo MSS*., stanza
 18 of *The Stanzas of the Achievements*, composed by the Azure Bard of
 the Chair.
 
-<span id="fn_315"></span>[271:1](cml20.htm#fr_315) See note to [chap.
-XXII](cml26.htm#ch-22)--"The Treasures of Britain".
+<span id="fn_315"></span>[271:1](cml20.htm#fr_315.md) See note to [chap.
+XXII](cml26.htm#ch-22.md)--"The Treasures of Britain".
 
-<span id="fn_316"></span>[271:2](cml20.htm#fr_316) Mabinogi of *Branwen,
+<span id="fn_316"></span>[271:2](cml20.htm#fr_316.md) Mabinogi of *Branwen,
 Daughter of Llyr*.
 
-<span id="fn_317"></span>[271:3](cml20.htm#fr_317) Rhys: *Hibbert
+<span id="fn_317"></span>[271:3](cml20.htm#fr_317.md) Rhys: *Hibbert
 Lectures*, p. 245.
 
-<span id="fn_318"></span>[271:4](cml20.htm#fr_318) *Book of Taliesin*,
+<span id="fn_318"></span>[271:4](cml20.htm#fr_318.md) *Book of Taliesin*,
 poem XLVIII, in Skene's *Four Ancient Books of Wales*. Vol. I. p. 297.
 
-<span id="fn_319"></span>[272:1](cml20.htm#fr_319) The *Verses of the
+<span id="fn_319"></span>[272:1](cml20.htm#fr_319.md) The *Verses of the
 Graves of the Warriors*, in the Black Book of Caermarthen. See also
 Rhys: *Arthurian Legend*, p. 347.
 
-<span id="fn_320"></span>[272:2](cml20.htm#fr_320) Rhys: *Studies in the
+<span id="fn_320"></span>[272:2](cml20.htm#fr_320.md) Rhys: *Studies in the
 Arthurian Legend*, p. 160.
 
-<span id="fn_321"></span>[273:1](cml20.htm#fr_321) Mabinogi of
+<span id="fn_321"></span>[273:1](cml20.htm#fr_321.md) Mabinogi of
 *Manawyddan, Son of Llyr*.
 
-<span id="fn_322"></span>[273:2](cml20.htm#fr_322) *Book of Taliesin*,
+<span id="fn_322"></span>[273:2](cml20.htm#fr_322.md) *Book of Taliesin*,
 poem xiv, Vol. I, p. 276, of Skene.
 
-<span id="fn_323"></span>[274:1](cml20.htm#fr_323) Rhys: *Studies in the
+<span id="fn_323"></span>[274:1](cml20.htm#fr_323.md) Rhys: *Studies in the
 Arthurian Legend*, p. 48 and note.
 
-<span id="fn_324"></span>[275:1](cml20.htm#fr_324) See a paper in the
+<span id="fn_324"></span>[275:1](cml20.htm#fr_324.md) See a paper in the
 *Edinburgh Review* for July, 1851--"The Romans in Britain".
 
-<span id="fn_325"></span>[276:1](cml20.htm#fr_325) It is said that the
+<span id="fn_325"></span>[276:1](cml20.htm#fr_325.md) It is said that the
 "Old King Cole" of the popular ballad, who "was a merry old soul",
 represents the last faint tradition of the Celtic god.
 
-<span id="fn_326"></span>[276:2](cml20.htm#fr_326) *Geoffrey of
+<span id="fn_326"></span>[276:2](cml20.htm#fr_326.md) *Geoffrey of
 Monmouth*, Book III, chap. 1.
 
-<span id="fn_327"></span>[276:3](cml20.htm#fr_327) *Morte Darthur*, Book
+<span id="fn_327"></span>[276:3](cml20.htm#fr_327.md) *Morte Darthur*, Book
 I, chap. xvi.
 
-<span id="fn_328"></span>[277:1](cml20.htm#fr_328) For full account of
+<span id="fn_328"></span>[277:1](cml20.htm#fr_328.md) For full account of
 Gaulish gods, and their Gaelic and British affinities, see Rhys:
 *Hibbert Lectures*, I and II--"The Gaulish Pantheon".
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. The Adventures of the Gods of Hades](cml21)
+[Next: Chapter XVII. The Adventures of the Gods of Hades](cml21.md)

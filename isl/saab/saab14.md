@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab13)  [Next](saab15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab13)  [Next](saab15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ Thinking their Pleasure never was to end.
 <span id="page_25">p. 25</span>
 
 <span id="img_02500"></span> <span align="CENTER"> [![](tn/02500.jpg)  
-Click to enlarge](img/02500.jpg)</span>
+Click to enlarge](img/02500.jpg.md)</span>
 
 But rolling Heaven whisper’d from his Ambush,  
 "So in my License is it not set down.  
@@ -72,4 +72,4 @@ The Khalífah laugh’d and answer’d;
 
 ------------------------------------------------------------------------
 
-[Next: XIII](saab15)
+[Next: XIII](saab15.md)

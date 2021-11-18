@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ftmg05)  [Next](ftmg07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ftmg05)  [Next](ftmg07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fairy Tales of Modern Greece*, by Theodore P. Gianakoulis and Georgia
 H. MacPherson, \[1930\], at Intangible Textual Heritage
 
@@ -169,7 +169,7 @@ nothing that he did could stop her tears.
 
 <span id="img_04100"></span> <span align="CENTER"> [![She had risen and
 was following him, weeping and reluctant.](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 She had risen and was following him, weeping and reluctant.  
 </span>
 
@@ -319,4 +319,4 @@ goatherd, meeting him, would hear him chanting to himself:
 
 ------------------------------------------------------------------------
 
-[Next: IV. Fairies of the Waterfall](ftmg07)
+[Next: IV. Fairies of the Waterfall](ftmg07.md)

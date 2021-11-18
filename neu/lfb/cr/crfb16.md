@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb15)  [Next](crfb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb15)  [Next](crfb17.md) 
 
 </div>
 
@@ -586,6 +586,6 @@ say: 'As rich as Peter Bloch's son-in-law!'
 
 ------------------------------------------------------------------------
 
-[Next: The Cottager And His Cat](crfb17)
+[Next: The Cottager And His Cat](crfb17.md)
 
 </div>

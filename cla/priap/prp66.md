@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp65)  [Next](prp67) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp65)  [Next](prp67.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ bowels to have thou longest.
 ------------------------------------------------------------------------
 
 [Next: 67. PEnelope's first syllable followed by firstling of
-DIdo](prp67)
+DIdo](prp67.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal046)  [Next](njal048) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal046)  [Next](njal048.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ other farm called Hof.
 
 ------------------------------------------------------------------------
 
-[Next: 48. How Hallgerda Makes Malcolm Steal From Kirkby](njal048)
+[Next: 48. How Hallgerda Makes Malcolm Steal From Kirkby](njal048.md)

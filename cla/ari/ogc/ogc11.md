@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc10)  [Next](ogc12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc10)  [Next](ogc12.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ they are these or why they are just so many.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](ogc12)
+[Next: Chapter 2](ogc12.md)

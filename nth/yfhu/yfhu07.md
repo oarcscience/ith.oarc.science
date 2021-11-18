@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu06)  [Next](yfhu08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu06)  [Next](yfhu08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -265,4 +265,4 @@ shall happen to us in the future*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Power of Subjective Thought](yfhu08)
+[Next: Chapter VI. The Power of Subjective Thought](yfhu08.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap07) 
-[Next](chap09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap07.md) 
+[Next](chap09.md) 
 
 ------------------------------------------------------------------------
 
@@ -472,4 +472,4 @@ nomenclature long enough to satisfy my readers.
 ------------------------------------------------------------------------
 
 [Next: Chapter 9: Sundry Names Given to the Sexual Organs of
-Women](chap09)
+Women](chap09.md)

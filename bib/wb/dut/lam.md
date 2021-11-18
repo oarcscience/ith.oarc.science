@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jer)  [Next](eze) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jer)  [Next](eze.md) 
 
 ------------------------------------------------------------------------
 
@@ -585,4 +585,4 @@ Zoudt Gij zozeer tegen ons verbolgen zijn?
 
 ------------------------------------------------------------------------
 
-[Next: Ezekiel](eze)
+[Next: Ezekiel](eze.md)

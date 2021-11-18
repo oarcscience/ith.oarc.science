@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi031)  [Next](mtsi033) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi031)  [Next](mtsi033.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ got was used with the song of the waters as a kind of revenge."
 
 ------------------------------------------------------------------------
 
-[Next: 31. The Monster Turtle (Second Version)](mtsi033)
+[Next: 31. The Monster Turtle (Second Version)](mtsi033.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram12)  [Next](ram14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram12)  [Next](ram14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -49,7 +49,7 @@ burned into his very soul and become part of his being. An African is no
 more likely to forget the minutest detail of private devotion than a
 European is to forget to undress when he retires to rest. The chief, as
 in the case of the Barotsi, may be a demigod, <span
-id="fr_182"></span>[\*](#fn_182) and his people flock to his village for
+id="fr_182"></span>[\*](#fn_182.md) and his people flock to his village for
 protection during a thunderstorm, but it would be an error to suppose
 the Barotsi devoid of a religion and ritual, because of this simple
 childish trust in the divinity of the chief. They have a peculiar method
@@ -58,7 +58,7 @@ and when they sacrifice they pour the blood of the victim over the horn.
 It is also customary to tie pieces of cloth devoted to the gods round
 it. The horn is generally placed in a sacred grove, and is really an
 altar to which the worshipper repairs to do his private devotions. <span
-id="fr_183"></span>[†](#fn_183)
+id="fr_183"></span>[†](#fn_183.md)
 
 There seems but little religion in a number of love-sick swains
 battering one another with slave whips, nor in a maiden running
@@ -242,17 +242,17 @@ brought to the magician's palace. When the magician saw it, he cried,
 "Give me my parrot." The boy tore off a wing; the magician lost an arm.
 In this way he was torn limb from limb, and, finally, when the parrot's
 neck was wrung he fell down dead, his neck broken. <span
-id="fr_184"></span>[\*](#fn_184) In another Hindoo story the soul is in
+id="fr_184"></span>[\*](#fn_184.md) In another Hindoo story the soul is in
 a necklet. In a well-known Highland story the giant says: "There is a
 great flagstone under the threshold; under the flagstone is a wether; in
 the wether's belly is a duck; in the duck's crop an egg, and that egg
-contains my soul." <span id="fr_185"></span>[†](#fn_185) The egg, as
+contains my soul." <span id="fr_185"></span>[†](#fn_185.md) The egg, as
 usual, is found and crushed and the captive is set free. The giant dies,
 of course.
 
 The same form of superstition and myth is common to Teutons, Norse,
 Slavonians, Ancient Greeks, and Jews. The history of Samson, <span
-id="fr_186"></span>[‡](#fn_186) as recorded in the Book of Judges, is a
+id="fr_186"></span>[‡](#fn_186.md) as recorded in the Book of Judges, is a
 case in point. He remained invulnerable till, through the wiles of his
 wife, he was shorn of his locks, and then his strength departed. The
 variations in this case from the Hindoo and Celtic tales is nothing more
@@ -280,7 +280,7 @@ statement to be a hint to be careful what I said, and how I received our
 host's promises and professions of friendship. I have had no opportunity
 of verifying the statement, but the idea is in no way foreign to South
 African thought. A man's soul there may dwell in the roof of his
-house, <span id="fr_187"></span>[\*](#fn_187) in a tree, by a spring of
+house, <span id="fr_187"></span>[\*](#fn_187.md) in a tree, by a spring of
 water, or on some mountain scaur.
 
 This form of superstition leads by an easy transition to totemism, and
@@ -308,7 +308,7 @@ In Sutherlandshire at the present day there is a sept of Mackays known
 as "the descendants of the seal." These claim as their ancestor a laird
 of Borgie, who married a mermaid, and as the legend has never been in
 print, I give it here as recently told me by one well versed in
-north-country mythology. <span id="fr_188"></span>[\*](#fn_188) It is as
+north-country mythology. <span id="fr_188"></span>[\*](#fn_188.md) It is as
 follows:—The laird was in the habit of going down to the sea rocks under
 his castle to bathe and drink salt water. One day he saw a mermaid close
 in shore, combing her hair and swimming about as if anxious to land.
@@ -359,7 +359,7 @@ Kyle of Tongue into foam and furrow as he crossed. After an interval he
 returned, and called to pay his respects to his friend Cobachy. The
 latter asked how he had succeeded. "Oh," said he, "that is the place to
 go to; I have covered my hide with names. I got so many that some are
-marked on the horns." <span id="fr_189"></span>[\*](#fn_189) The men of
+marked on the horns." <span id="fr_189"></span>[\*](#fn_189.md) The men of
 the district are known as Fir-na-Sioch—the men of the hide. This the
 present generation resent, and are apt to fly to their fists if
 bull-hides are mentioned.
@@ -368,25 +368,25 @@ bull-hides are mentioned.
 
 ### Footnotes
 
-<span id="fn_182"></span>[182:\*](ram13.htm#fr_182) Arnot, *Garanganze*.
+<span id="fn_182"></span>[182:\*](ram13.htm#fr_182.md) Arnot, *Garanganze*.
 
-<span id="fn_183"></span>[182:†](ram13.htm#fr_183) *Ibid*.
+<span id="fn_183"></span>[182:†](ram13.htm#fr_183.md) *Ibid*.
 
-<span id="fn_184"></span>[189:\*](ram13.htm#fr_184) Mary Frere, *Old
+<span id="fn_184"></span>[189:\*](ram13.htm#fr_184.md) Mary Frere, *Old
 Deccan Days*.
 
-<span id="fn_185"></span>[189:†](ram13.htm#fr_185) Campbell.
+<span id="fn_185"></span>[189:†](ram13.htm#fr_185.md) Campbell.
 
-<span id="fn_186"></span>[189:‡](ram13.htm#fr_186) Judges.
+<span id="fn_186"></span>[189:‡](ram13.htm#fr_186.md) Judges.
 
-<span id="fn_187"></span>[190:\*](ram13.htm#fr_187) J. Sutton, MS.
+<span id="fn_187"></span>[190:\*](ram13.htm#fr_187.md) J. Sutton, MS.
 notes.
 
-<span id="fn_188"></span>[191:\*](ram13.htm#fr_188) Rev. A. Mackay.
+<span id="fn_188"></span>[191:\*](ram13.htm#fr_188.md) Rev. A. Mackay.
 
-<span id="fn_189"></span>[193:\*](ram13.htm#fr_189) Rev. A. Mackay, MS.
+<span id="fn_189"></span>[193:\*](ram13.htm#fr_189.md) Rev. A. Mackay, MS.
 notes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Woman](ram14)
+[Next: Chapter XII. Woman](ram14.md)

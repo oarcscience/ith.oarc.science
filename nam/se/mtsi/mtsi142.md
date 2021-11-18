@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi141)  [Next](mtsi143) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi141)  [Next](mtsi143.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ back so that they would not be burned.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Rescue of the Sun](mtsi143)
+[Next: 7. The Rescue of the Sun](mtsi143.md)

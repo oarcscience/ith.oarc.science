@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs16)  [Next](abs18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs16)  [Next](abs18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -60,7 +60,7 @@ Chapter 18; at the other, such
 
 <span id="img_map12"></span> <span align="CENTER"> [![MAP XII. EASTERN
 EURASIA](tn/map12.jpg)  
-Click to enlarge](img/map12.jpg)  
+Click to enlarge](img/map12.jpg.md)  
 MAP XII. EASTERN EURASIA  
 </span>
 
@@ -176,7 +176,7 @@ mighty Himalayas. This lands us in an area known as Gilgit which now
 lies in the north of Western Pakistan. \[I apologize for this and a
 coming plethora of "political" definitions but there is nothing that a
 mere biologist can do about it.\] At this point (see [Map
-XII](#img_map12)) you will note that we are very close to (on the right
+XII](#img_map12).md) you will note that we are very close to (on the right
 side, going west) the end of the almost as mighty Karakorams, which in
 turn constitute an extension of the "Mother of All Mountains," the
 *Muh-Dzhura* *rDzhung* *pBlhüm* of the Tibetans, and which we have
@@ -193,7 +193,7 @@ five arms. These are vast strings of mountain
 ranges that go off in all directions—the Himalayas; the Karakorams; the
 Kunluns leading to the Altyn Tagh and Nan-Shans; the Altai Tagh leading
 to the Tien-Shans; and finally the Hindu-Kush going off to the
-west. <span id="fr_38"></span>[\*](#fn_37) From this point we have first
+west. <span id="fr_38"></span>[\*](#fn_37.md) From this point we have first
 to follow the Hindu-Kush in order to get rid of a rather irksome
 business. This is that ABSMs have been reported from all along the
 extension of those mountains, which is to say along the Ala Dagh and
@@ -279,7 +279,7 @@ side, and Georgia and what is called the Trans-Caucasian republics
 wild area cutting across this block and known as the Tlyaratin, which
 embraces practically the whole basin of the River Jurmut and the upper
 parts of the Avarskoy Koysu which is a tributary of the Sulak, the main
-river of Dagestan. <span id="fr_39"></span>[\*](#fn_38) These
+river of Dagestan. <span id="fr_39"></span>[\*](#fn_38.md) These
 mountainous regions are clothed in dense, montane, coniferous forests
 right up to the snow line and right down to the edges of the few
 villages that lie on the adjacent lowlands, and are, over wide
@@ -500,7 +500,7 @@ and the rest of his body."
 Leontiev measured and sketched the *Kaptar's* footprints when only a few
 minutes old. Of them he says: "This footprint had a very strange
 formation. The whole print was about 25 centimeters \[about 9 inches\]
-long. <span id="fr_40"></span>[\*](#fn_39) The general impression was of
+long. <span id="fr_40"></span>[\*](#fn_39.md) The general impression was of
 the toes pushed deeply into the snow. Also around the toes you could see
 some rough formation. The explanation is, of course, that he was walking
 with bent knees and like 'clawing' into the snow. The \[outer\] four
@@ -512,7 +512,7 @@ all the toes there were very hard scar tissue formations—that the toes
 were widely separated and in between there was scar tissue formation.
 The entire print narrowed down toward the heel, and there were two
 parallel deep ridges like wrinkles. <span
-id="fr_41"></span>[†](#fn_40)You had the impression that it was not the
+id="fr_41"></span>[†](#fn_40.md)You had the impression that it was not the
 whole step, and only the toes. This was not too unusual because when I
 looked at my own footprints I noticed that I put a little harder on the
 toes than on a heel and actually, that's the way the *Kaptar* would
@@ -599,7 +599,7 @@ disguised person, but a wild man of some kind. Then I returned to my
 unit and never heard of him again."
 
 On the little map of Asia in a box at the left-hand upper corner of [Map
-XII](#img_map12), you will see a small vermiform tongue of shading
+XII](#img_map12.md), you will see a small vermiform tongue of shading
 sticking out of the left-hand lower corner of the contained rectangle.
 This represents the extension of the Hindu-Kush Range, via the Ala-Dagh
 and the Elburz in Iran, to the Armenian highlands and the Caucasus in
@@ -665,7 +665,7 @@ that
 <span id="img_29800"></span> <span align="CENTER"> [![The borders of the
 U.S.S.R., Iran, Iraq, and Turkey, and the Caucasus. Dagestan is one of
 the Union of Socialist Soviet Republics.](tn/29800.jpg)  
-Click to enlarge](img/29800.jpg)  
+Click to enlarge](img/29800.jpg.md)  
 The borders of the U.S.S.R., Iran, Iraq, and Turkey, and the Caucasus.
 Dagestan is one of the Union of Socialist Soviet Republics.  
 </span>
@@ -675,7 +675,7 @@ Dagestan is one of the Union of Socialist Soviet Republics.
 <span id="img_29900"></span> <span align="CENTER"> [![The borders of the
 U.S.S.R., China, Pakistan, and Afghanistan. About these borders is the
 Pamir Range. B.A.A. is the Badakshan Autonomous Area.](tn/29900.jpg)  
-Click to enlarge](img/29900.jpg)  
+Click to enlarge](img/29900.jpg.md)  
 The borders of the U.S.S.R., China, Pakistan, and Afghanistan. About
 these borders is the Pamir Range. B.A.A. is the Badakshan Autonomous
 Area.  
@@ -683,7 +683,7 @@ Area.
 
 immediately follows comes from Russian sources and I am simply following
 their breakdown of this into regions of their designation. <span
-id="fr_42"></span>[\*](#fn_41) These have political or rather ethnic
+id="fr_42"></span>[\*](#fn_41.md) These have political or rather ethnic
 tabs on them such as Kirghiz, Uzbek, Tadzhik, Kazakh, or simply
 "Chinese" assigned to them. This is really most muddling for the
 boundaries of these groups are utterly bewildering and interlocking as
@@ -897,12 +897,12 @@ the next chapter.
 
 ### Footnotes
 
-<span id="fn_37"></span>[286:\*](abs17.htm#fr_38) Place names from now
+<span id="fn_37"></span>[286:\*](abs17.htm#fr_38.md) Place names from now
 on are going to become as awful as political definitions. I have tried
 to confine myself to larger generalities that are shown on the map, and
 identify places that are not on that map by these generalities.
 
-<span id="fn_38"></span>[288:\*](abs17.htm#fr_39) As far as possible I
+<span id="fn_38"></span>[288:\*](abs17.htm#fr_39.md) As far as possible I
 have endeavored to choose place names, such as Krasnodar and Baku, that
 can be readily found in standard atlases, and to use the traditional
 English spellings for these though these are almost invariably quite
@@ -916,14 +916,14 @@ and thence into English. The results may be quite horrible to the local
 citizens. For this I duly apologize, in the unlikely event that they
 ever read this book.
 
-<span id="fn_39"></span>[294:\*](abs17.htm#fr_40) There would seem to be
+<span id="fn_39"></span>[294:\*](abs17.htm#fr_40.md) There would seem to be
 something wrong here. A 9-inch foot for a 7-ft. giant seems most
 improbable (*Author*).
 
-<span id="fn_40"></span>[294:†](abs17.htm#fr_41) See the Shipton
+<span id="fn_40"></span>[294:†](abs17.htm#fr_41.md) See the Shipton
 *Meh*-*Teh* prints.
 
-<span id="fn_41"></span>[299:\*](abs17.htm#fr_42) These sources are
+<span id="fn_41"></span>[299:\*](abs17.htm#fr_42.md) These sources are
 first and foremost four Booklets issued by the Special Commission set up
 to study the Snowman Problem by the Academy of Sciences of the U.S.S.R.,
 under the Direction of Prof. B. F. Porshnev and Dr. A. A. Shmakov. Bks.
@@ -933,4 +933,4 @@ voluminous report made available by the Russian News Services.
 
 ------------------------------------------------------------------------
 
-[Next: 14. The Eastern Horizon](abs18)
+[Next: 14. The Eastern Horizon](abs18.md)

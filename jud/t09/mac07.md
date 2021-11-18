@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](mac06)  [Next](mac08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](mac06)  [Next](mac08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -160,7 +160,7 @@ occurred while he was removing his wall (see the discussion to this
 answer in Baba Kama, p. 72, l. 11-26).
 
 "*R. Eliezer b. Jacob said*," etc. The rabbis taught: It reads \[Deut.
-xix. 5\]: "And find <span id="fr_5"></span>[1](#fn_5) his neighbor," to
+xix. 5\]: "And find <span id="fr_5"></span>[1](#fn_5.md) his neighbor," to
 exclude him who causes himself to be found under the stone. And from
 this R. Eliezer b. Jacob inferred his theory, that if after the stone
 was already thrown, one has put his head under it and was killed, the
@@ -305,7 +305,7 @@ mean the exclusion of an intentional murder.
 
 "*An enemy is to be put to death*." Why, he was not warned? Our Mishna
 is in accordance with R. Jose b. Jehuda, who says above ([p.
-13](mac06.htm#page_13)) that no such warning is needed.
+13](mac06.htm#page_13).md) that no such warning is needed.
 
 "R. Simeon said," etc.: There is a Boraitha: How does R. Simeon
 illustrate his theory? If, *e.g.*, the rope, to which the man's
@@ -323,7 +323,7 @@ of the rope; as one speaks of an enemy and the other of a friend. There
 is also no contradiction in case of the slipping of the instrument; as
 one Boraitha is in accordance with Rabbi (who says: If such a case
 happen to a friend he is exiled), while the other is in accordance with
-the rabbis who do not agree with him. <span id="fr_6"></span>[1](#fn_6)
+the rabbis who do not agree with him. <span id="fr_6"></span>[1](#fn_6.md)
 
 MISHNA *V*.: Whither are they to be exiled? To the cities of refuge,
 three of which are situated on the other side of the Jordan and three in
@@ -340,7 +340,7 @@ to them), and divide into three." Two scholars are to accompany the
 exile on the road to protect him, so that he shall not be killed by the
 relatives of the deceased, and they are to reconcile them. R. Meyer,
 however, said: He himself has to reconcile them, as it reads \[ibid.,
-ibid. 4\]: "And this is the talk <span id="fr_7"></span>[2](#fn_7) of
+ibid. 4\]: "And this is the talk <span id="fr_7"></span>[2](#fn_7.md) of
 man-slayer." R. Jose b. Jehuda, however, said: Formerly all murderers,
 accidental as well as intentional, used to flee to the cities of refuge;
 the court then sends after them and tries them. He who was found guilty
@@ -370,7 +370,7 @@ were thirsty to shed blood. Why were the cities on both sides of the
 Jordan far from the boundary, and the middle one was near? Said Abayi:
 Because Shechem was also full of murderers; as it reads \[ibid., ibid.
 9\]: "And troops that lie in wait for a man, like the band of priests,
-they murder on the way to Shechem." <span id="fr_8"></span>[1](#fn_8)
+they murder on the way to Shechem." <span id="fr_8"></span>[1](#fn_8.md)
 "Band of priests"--what does it mean? Said R. Elazar: They conjoin
 themselves to kill as the priests conjoin themselves to receive the
 heave-offering from the barns. But were there not more cities of refuge?
@@ -432,7 +432,7 @@ shining toward the murderers."
 
 R. Simaye lectured: It reads \[Eccl. v. 9\]: "He that loveth money will
 never be satisfied with money; but he that loveth abundance, will
-finally have income." <span id="fr_9"></span>[1](#fn_9) He that loveth
+finally have income." <span id="fr_9"></span>[1](#fn_9.md) He that loveth
 money
 
 <span id="page_25">p. 25</span>
@@ -454,7 +454,7 @@ fruit of their knowledge. And this is what R. Jose bar Hanina said: It
 reads \[Jer. l. 36\]: "The sword on the *badim* means the sword may cut
 the necks of the scholars who are studying separately each for himself;
 and not only this, but they become also foolish and also commit a crime
-thereby." <span id="fr_10"></span>[1](#fn_10) Rabina said: He who loves
+thereby." <span id="fr_10"></span>[1](#fn_10.md) Rabina said: He who loves
 to teach many, has the fruit of knowledge. And this is what Rabbi said:
 I learned much from my masters, more, however, from my colleagues, and
 still more from my disciples.
@@ -699,7 +699,7 @@ the defendant dies, his remains must be carried to
 <span id="page_31">p. 31</span>
 
 the city of refuge; as it reads \[ibid., ibid. 32\]: "That he should
-come again to dwell in the *earth* <span id="fr_11"></span>[1](#fn_11)
+come again to dwell in the *earth* <span id="fr_11"></span>[1](#fn_11.md)
 until the death of the priest." Dwelling in the *earth* means the grave.
 There is a Boraitha: If he dies in the city of refuge before the death
 of the high-priest, his remains may be carried to his native place; as
@@ -803,7 +803,7 @@ GEMARA: There is a contradiction from the following: A tree which stands
 inside but is inclined outside, or *vice versa* if from opposite the
 surrounding wall and inside, it is considered as inside; and if the same
 were inclined outside it is considered as outside? <span
-id="fr_12"></span>[1](#fn_12) Do you contradict tithe with cities of
+id="fr_12"></span>[1](#fn_12.md) Do you contradict tithe with cities of
 refuge? Concerning tithe the Scripture relies upon the surrounding wall
 of the city, but concerning the cities in question it relies upon the
 dwelling, and one can use his dwelling under the branch but not upon the
@@ -869,37 +869,37 @@ Numb. xxv.
 
 ### Footnotes
 
-<span id="fn_5"></span>[18:1](mac07.htm#fr_5) Leeser translates
+<span id="fn_5"></span>[18:1](mac07.htm#fr_5.md) Leeser translates
 "striketh" according to the sense. The text, however, takes it
 literally.
 
-<span id="fn_6"></span>[22:1](mac07.htm#fr_6) In text is not explained
+<span id="fn_6"></span>[22:1](mac07.htm#fr_6.md) In text is not explained
 the theory of Rabbi and his opponents. Rashi, however, explained this in
 one version as we did. He brought also some others in which he doubts.
 
-<span id="fn_7"></span>[22:2](mac07.htm#fr_7) The term for talk in
+<span id="fn_7"></span>[22:2](mac07.htm#fr_7.md) The term for talk in
 Hebrew is "dbar," literally "talk" or "word"; Leeser, however,
 translates it "case," in accordance with the sense.
 
-<span id="fn_8"></span>[23:1](mac07.htm#fr_8) Leeser's translation does
+<span id="fn_8"></span>[23:1](mac07.htm#fr_8.md) Leeser's translation does
 not correspond at all.
 
-<span id="fn_9"></span>[24:1](mac07.htm#fr_9) Leeser's translation does
+<span id="fn_9"></span>[24:1](mac07.htm#fr_9.md) Leeser's translation does
 not correspond at all.
 
-<span id="fn_10"></span>[25:1](mac07.htm#fr_10) The analogy of
+<span id="fn_10"></span>[25:1](mac07.htm#fr_10.md) The analogy of
 expression used in text to infer the foolishness and sin mentioned, we
 omitted; it was also impossible to use the translations of Leeser, etc.,
 as the Talmud has here its own way.
 
-<span id="fn_11"></span>[31:1](mac07.htm#fr_11) The term in Hebrew is
+<span id="fn_11"></span>[31:1](mac07.htm#fr_11.md) The term in Hebrew is
 *eretz*, literally earth. Leeser translates land in accordance with the
 sense.
 
-<span id="fn_12"></span>[33:1](mac07.htm#fr_12) This Mishna is
+<span id="fn_12"></span>[33:1](mac07.htm#fr_12.md) This Mishna is
 concerning the second tithe which must be eaten inside of Jerusalem
 only.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](mac08)
+[Next: Chapter III](mac08.md)

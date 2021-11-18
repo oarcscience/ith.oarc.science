@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu27)  [Next](cbu29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu27)  [Next](cbu29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -182,7 +182,7 @@ may swim and the gourd may sink."
 The foreign priest then asked him why he did not chant books of prayers.
 He answered "That the great doctrine is spontaneous, man's nature is the
 same with heaven. The true unwritten book is always rotating. <span
-id="fr_136"></span>[1](#fn_136) All heaven and earth are repeating words
+id="fr_136"></span>[1](#fn_136.md) All heaven and earth are repeating words
 of truth. The true book is not outside of man's self. But the deceived
 are ignorant of this, and they therefore chant books of prayers. The law
 that is invisible manifests itself spontaneously, and needs no book. The
@@ -351,11 +351,11 @@ food.
 
 ### Footnotes
 
-<span id="fn_136"></span>[375:1](cbu28.htm#fr_136) There is an allusion
+<span id="fn_136"></span>[375:1](cbu28.htm#fr_136.md) There is an allusion
 here to the chanting a liturgy, as the revolving common Buddhist
 description of preaching Buddhist dogma, and of the wheel of the law.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIV. Buddhism and Tauism in their Popular
-Aspects](cbu29)
+Aspects](cbu29.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar215) [Next](gbar217)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar215) [Next](gbar217.md)
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ evil.
 
 ------------------------------------------------------------------------
 
-[Next](gbar217)
+[Next](gbar217.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg00)  [Next](btg02) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg00)  [Next](btg02.md) 
 
 ------------------------------------------------------------------------
 
@@ -252,4 +252,4 @@ LaSalle, Illinois, United States.
 
 ------------------------------------------------------------------------
 
-[Next: The Disciple Speaks](btg02)
+[Next: The Disciple Speaks](btg02.md)

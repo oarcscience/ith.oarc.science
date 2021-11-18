@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp55) 
-[Next](alp57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp55.md) 
+[Next](alp57.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Since as a prisoner here I live,
 
 ------------------------------------------------------------------------
 
-[Next: Earth and Sky](alp57)
+[Next: Earth and Sky](alp57.md)

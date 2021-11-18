@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ams06)  [Next](ams08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ams06)  [Next](ams08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Miracle in Stone: The Great Pyramid*, by Joesph A. Seiss, \[1877\],
 at Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ testimony."—REV. 12: 10, 11.
 
 <span id="page_171">p. 171</span>
 
-<span id="img_17100"></span> ![LECTURE THIRD](img/17100.jpg)
+<span id="img_17100"></span> ![LECTURE THIRD](img/17100.jpg.md)
 
 ### ANALYSIS OF TRADITIONS, OPINIONS, AND RESULTS.
 
@@ -35,7 +35,7 @@ testimony."—REV. 12: 10, 11.
 
 |                     |
 |---------------------|
-| ![W](img/17101.jpg) |
+| ![W](img/17101.jpg.md) |
 
 HATEVER may be ultimately concluded respecting the origin and intent  of
 the Great Pyramid, it is certainly one of the most astonishing works
@@ -317,7 +317,7 @@ European authors on the subject, from Helfricus to Sir Gardiner
 Wilkinson's Guide Book to Modern Egypt, though some of them believe that
 the Great Pyramid was intended for a sepulchral monument, agree in
 stating that there is no proof that anybody ever was entombed in
-it. <span id="fr_23"></span>[\*](#fn_23)
+it. <span id="fr_23"></span>[\*](#fn_23.md)
 
 <span id="page_184">p. 184</span>
 
@@ -606,7 +606,7 @@ that after the Great Pyramid was completed, late in his life, Cheops
 relapsed into the old Egyptian idolatry, became a devotee of the very
 worship which he had so sternly suppressed, and not only reopened the
 temples, but actually put forth a book on the gods of his country, which
-was highly esteemed for ages after. <span id="fr_24"></span>[\*](#fn_24)
+was highly esteemed for ages after. <span id="fr_24"></span>[\*](#fn_24.md)
 How,
 
 <span id="page_197">p. 197</span>
@@ -661,7 +661,7 @@ that not only from Herodotus and his informant, but from the Bible
 itself, we learn of *Philistines* once in the neighborhood of the Great
 Pyramid, who were the objects of the Divine favor, and whom God brought
 up from thence, as he long afterwards brought up the children of
-Israel. <span id="fr_25"></span>[\*](#fn_25)
+Israel. <span id="fr_25"></span>[\*](#fn_25.md)
 
 <span id="page_200">p. 200</span>
 
@@ -686,7 +686,7 @@ over the king by purely peaceable means, which could hardly have been
 less than supernatural. Manetho himself refers it to the pleasure and
 displeasure of the Deity, and further adds, that this people "was styled
 *Hycsos*, that is, *the shepherd kings*," and that "some say they were
-Arabians." <span id="fr_26"></span>[\*](#fn_26)
+Arabians." <span id="fr_26"></span>[\*](#fn_26.md)
 
 Manetho wrote about three hundred years
 
@@ -740,7 +740,7 @@ pre-Abrahamic age of Serug,
 <span id="page_204">p. 204</span>
 
 <span class="contnote">\[paragraph continues\]</span> Reu, and
-Peleg. <span id="fr_27"></span>[\*](#fn_27) He evidently lived before
+Peleg. <span id="fr_27"></span>[\*](#fn_27.md) He evidently lived before
 the Exodus, and before the destruction of Sodom and Gomorrah, for though
 the Book of Job refers to Adam, the fall, and the deluge, there is. no
 allusion whatever to the awful disaster to the cities of the plain, the
@@ -760,14 +760,14 @@ Those oilsprings were drained and exhausted when those cities burned.
 Besides, sundry astronomical calculations made from notices of
 constellations contained in the Book of Job fix the time of the
 patriarch's great trial contemporaneous with Melchisedec. <span
-id="fr_28"></span>[\*](#fn_28)
+id="fr_28"></span>[\*](#fn_28.md)
 
 <span id="page_206">p. 206</span>
 
 The country of the one is also that of the other. Abraham met
 Melchisedec in Palestine, but no one claims that he was born and reared
 there. There were important Shemitic migrations hitherward prior to that
-of Abraham. <span id="fr_29"></span>[†](#fn_29) In the *Chronicon
+of Abraham. <span id="fr_29"></span>[†](#fn_29.md) In the *Chronicon
 Paschale* the tradition
 
 <span id="page_207">p. 207</span>
@@ -800,7 +800,7 @@ the existence of an Arabian Job, who appears at the right time and in
 the right connections to be this same identical patriarch. In the tenth
 of Genesis, the sacred historian departs entirely from his usual method,
 in naming the thirteen sons of Joktan, as if for the special purpose of
-reaching the last in the list. <span id="fr_30"></span>[\*](#fn_30) He
+reaching the last in the list. <span id="fr_30"></span>[\*](#fn_30.md) He
 sets down
 
 <span id="page_209">p. 209</span>
@@ -854,7 +854,7 @@ mainly, if not exclusively, of pre-Abrahamic Shemitic stock. The tribes
 which possessed it were mostly of the seed of Joktan, son of Eber, till
 the descendants of Abraham through Esau and Keturah, and the descendants
 of Lot, began to fill in from the northwest. <span
-id="fr_31"></span>[\*](#fn_31) These Joktanites were the true Arabians,
+id="fr_31"></span>[\*](#fn_31.md) These Joktanites were the true Arabians,
 and the superior people who occupied the most important portions of the
 country, populated its shores, gave it their Heberic language,
 cultivated every interest of human society and greatness, planted their
@@ -874,7 +874,7 @@ And wafted merchandise to courts unknown;
                The first great founders of the world,  
 Of cities, and of mighty states, and who first viewed  
 The starry lights, and formed them into schemes. <span
-id="fr_32"></span>[\*](#fn_32)
+id="fr_32"></span>[\*](#fn_32.md)
 
 </div>
 
@@ -919,7 +919,7 @@ Shemitic name, called
 
 <span class="contnote">\[paragraph continues\]</span> *Aws* in the
 Arabian antiquities, and denotes the region where Shem himself probably
-lived and died. <span id="fr_33"></span>[\*](#fn_33) Judging from
+lived and died. <span id="fr_33"></span>[\*](#fn_33.md) Judging from
 chapter 8: 8-10, and 12: 12, we may readily believe that Job himself
 saw, heard, and often consulted Shem, and got his sacred wisdom from
 him. In the providence of God he in a measure at least, and perhaps by
@@ -927,7 +927,7 @@ special call and ordination, took Shem's place as the principal
 representative of the patriarchal religion after Sheen's death, as
 Abraham subsequently, whom Melchisedec blessed and consecrated as meant
 to fill this office after him, till he, of whom Melchisedec was the
-illustrious type, should come. <span id="fr_34"></span>[†](#fn_34)
+illustrious type, should come. <span id="fr_34"></span>[†](#fn_34.md)
 
 JOB AND PHILITIS.
 
@@ -947,7 +947,7 @@ the strange power of the Hicsos over the Egyptian rulers obtained
 authorities (chap. 31: 26-28), just as Cheops was persuaded while the
 Great Pyramid was building. He was a true man of' God, a public
 instructor in sacred things, with whom Jehovah communicated, and whom
-the Spirit of God inspired. <span id="fr_35"></span>[\*](#fn_35) The
+the Spirit of God inspired. <span id="fr_35"></span>[\*](#fn_35.md) The
 Almighty speaks to
 
 <span id="page_219">p. 219</span>
@@ -955,7 +955,7 @@ Almighty speaks to
 him in chapter 38 as if he were the identical person who had laid the
 measures of the Great Pyramid, stretched the lines upon it, set its
 foundations in their sockets, and laid its topstone amid songs of
-exalted triumph. <span id="fr_36"></span>[\*](#fn_36) Chap. 19: 23-27
+exalted triumph. <span id="fr_36"></span>[\*](#fn_36.md) Chap. 19: 23-27
 looks like a description of the high intent of the Great Pyramid, and a
 prayer that it might endure with its glorious freight even to the end of
 the world. And the more I study the Book of Job in the light of its
@@ -1016,7 +1016,7 @@ and sought forgiveness and salvation through bloody sacrifice. They
 hoped for a coming Redeemer, and for resurrection through him. They
 treasured the primeval records, traditions, and revelations from Adam
 down, even the same from which Moses compiled when he framed his
-Genesis. <span id="fr_37"></span>[\*](#fn_37)
+Genesis. <span id="fr_37"></span>[\*](#fn_37.md)
 
 <span id="page_223">p. 223</span>
 
@@ -1192,7 +1192,7 @@ IN THE BEGINNING, IS NOW, AND EVER SHALL BE, WORLD WITHOUT END. AMEN.
 
 ### Footnotes
 
-<span id="fn_23"></span>[183:\*](ams07.htm#fr_23) Helfricus (1565) and
+<span id="fn_23"></span>[183:\*](ams07.htm#fr_23) Helfricus (1565.md) and
 Baumgarten (1594) considered the Great Pyramid a tomb, but held that no
 one was ever buried in it. Pietro Della Valle (1616), Thevenot (1655),
 and Maillet (1692) give it as the common belief that no one ever was
@@ -1211,12 +1211,12 @@ sarcophagus," as he calls it. <span id="page_184">p. 184</span> And Mr.
 St. John does not consider the Coffer a sarcophagus at all, and thinks
 the Great Pyramid never was and never was meant to be a tomb.
 
-<span id="fn_24"></span>[196:\*](ams07.htm#fr_24) See Osburn's *Mon.
+<span id="fn_24"></span>[196:\*](ams07.htm#fr_24.md) See Osburn's *Mon.
 Hist. of Egypt*, vol. i, p. 277. Also, Shuckford's *Sac. and Prof.
 Hist.*, vol. i, p. 157. Also, Lenorment and Chevallier's *Anc. Hist. of
 the East*, vol. i, p. 207.
 
-<span id="fn_25"></span>[199:\*](ams07.htm#fr_25) It has been found very
+<span id="fn_25"></span>[199:\*](ams07.htm#fr_25.md) It has been found very
 difficult to trace the origin and history of this early people. The
 Philistines of the. time of the Judges, and of David, were a long
 subsequent people, who do not appear in the settlement of Israel under
@@ -1257,7 +1257,7 @@ bear an Egyptian influence in its formation, as Pi-hahiroth, Pi-beseth,
 Pi-thom. It is most likely a designation of office, bearing traces of
 some connection with Egypt, but not of it.
 
-<span id="fn_26"></span>[201:\*](ams07.htm#fr_26) Wilford, in his
+<span id="fn_26"></span>[201:\*](ams07.htm#fr_26.md) Wilford, in his
 *Asiatic Researches*, vol. iii, p. 225, gives an extract from the Hindoo
 records which seems to sustain, in some important particulars, this
 fragment of Manetho. The extract says, that one *Tamo-vatsa*, a child of
@@ -1276,7 +1276,7 @@ people called the Berbers in North Africa. They are likewise called
 Herodotus. These *Pali* of the Hindoo records are plainly identical with
 some of the Joktanic peoples. See *infra*.
 
-<span id="fn_27"></span>[204:\*](ams07.htm#fr_27) "The lives of mankind
+<span id="fn_27"></span>[204:\*](ams07.htm#fr_27.md) "The lives of mankind
 were so much shortened ere the days of Abraham, that though he lived but
 one hundred and seventy-five years, yet he is said to have 'died in a
 good old age, an old man, and full of years.' Peleg, who was five
@@ -1299,7 +1299,7 @@ not therefore be less than two hundred years at the least. See
 Shuckford's *Sac. and Profane History*, vol. i, p. 263, 264, who also
 makes Job contemporaneous with Suphis (Cheops).
 
-<span id="fn_28"></span>[205:\*](ams07.htm#fr_28) Four constellations
+<span id="fn_28"></span>[205:\*](ams07.htm#fr_28.md) Four constellations
 are mentioned together in the Book of Job 9: 9, and 38: 31, 32, and in
 four opposite quarters of the heavens, *Kimah*, the Pleiades in the
 constellation Taurus; *Kesil*, the equinoctial *nodus* in Scorpio, the
@@ -1323,7 +1323,7 @@ within forty-two years. Such a coincidence, says Wemyss, is very
 striking, and the argument deduced from it, if well founded, would
 amount nearly to a demonstration.
 
-<span id="fn_29"></span>[206:†](ams07.htm#fr_29) "The primeval
+<span id="fn_29"></span>[206:†](ams07.htm#fr_29.md) "The primeval
 Canaanites were of the race of Ham, and no doubt originally spoke a
 dialect closely akin to the Egyptian, but it is clear that before the
 coming of Abraham into their country they had by some means become
@@ -1356,7 +1356,7 @@ corresponding with Hiram, without the slightest reference to the need of
 any interpreter between them. See Wilkins's *Phœnicia and Israel*, pp.
 3-10.
 
-<span id="fn_30"></span>[208:\*](ams07.htm#fr_30) "The design of Moses
+<span id="fn_30"></span>[208:\*](ams07.htm#fr_30.md) "The design of Moses
 after he has completed the narrative of the dispersion of the third and
 fourth generations of the descendants of Noah, and thus related the
 ancestry of the chief nations of the world, undoubtedly was to continue
@@ -1379,7 +1379,7 @@ truth of those doctrines which their patriarchal ancestors received,
 which Moses taught, and which the Church of God in all ages has
 believed."—Dr. Townsend's Bible, vol. i, p. 131.
 
-<span id="fn_31"></span>[211:\*](ams07.htm#fr_31) "Ethnologers are now
+<span id="fn_31"></span>[211:\*](ams07.htm#fr_31.md) "Ethnologers are now
 agreed," says Rawlinson, "that in Arabia there have been three distinct
 phases of colonization—first, the Cushite occupation, recorded in Gen.
 10: 7; secondly, the settlement of the Joktanites, described in verses
@@ -1387,7 +1387,7 @@ phases of colonization—first, the Cushite occupation, recorded in Gen.
 which must have been nearly synchronous with the establishment of the
 Jews in Palestine."—Rawlinson's *Herodotus*, vol. i, p. 357.
 
-<span id="fn_32"></span>[212:\*](ams07.htm#fr_32) The names of the
+<span id="fn_32"></span>[212:\*](ams07.htm#fr_32.md) The names of the
 progenitors of these peoples, and the notices we have of them and their
 descendants, abundantly indicate all this.
 
@@ -1520,19 +1520,19 @@ the Phœnician designation of God used by Sanchoniathon, the Phœnician
 sage, from whom sundry fragments have been preserved. See Kenrick's
 *Phœnicia*, p. 288.
 
-<span id="fn_33"></span>[217:\*](ams07.htm#fr_33) "Sham appears in his
+<span id="fn_33"></span>[217:\*](ams07.htm#fr_33.md) "Sham appears in his
 own annals as one who had left his native \[original\] land, and in the
 course of ages migrated west and south from the primitive common seat of
 the civilized stock of Central Asia, with an unceasing tendency towards
 Egypt."—BUNSEN'S *Univ. Hist*.
 
-<span id="fn_34"></span>[217:†](ams07.htm#fr_34) This would give us a
+<span id="fn_34"></span>[217:†](ams07.htm#fr_34.md) This would give us a
 most remarkable and unbroken succession or line of sacred prophets from
 the foundation of the world—Adam, Seth, Enoch, Noah, Sham, Job, Abraham
 and the chosen people, terminating in Jesus Christ and his Church, which
 abides to the end of this present world.
 
-<span id="fn_35"></span>[218:\*](ams07.htm#fr_35) Dr. Lee renders chap.
+<span id="fn_35"></span>[218:\*](ams07.htm#fr_35.md) Dr. Lee renders chap.
 29: 7, "When I went forth from the gate *to the pulpit* and prepared my
 seat in the broad place" Herder translates the same,
 
@@ -1550,7 +1550,7 @@ The account of the convening of "the sons of God," given in the first
 chapter, implies the existence of assemblies for worship in those times,
 and the giving forth of instruction on those occasions.
 
-<span id="fn_36"></span>[219:\*](ams07.htm#fr_36) The spirit of the
+<span id="fn_36"></span>[219:\*](ams07.htm#fr_36.md) The spirit of the
 passage admirably interprets in this sense. The object is to convince
 Job of his incompetency to judge of and understand God, and the address
 runs as if the Almighty intended to say to him, "*You* laid the
@@ -1570,7 +1570,7 @@ departure from the idea of the earth's nature and position given in
 another part of the book, to take up the image of a pyramidal edifice in
 this grand passage.
 
-<span id="fn_37"></span>[222:\*](ams07.htm#fr_37) From Luke 1: 69, 70,
+<span id="fn_37"></span>[222:\*](ams07.htm#fr_37.md) From Luke 1: 69, 70,
 and Acts 3: 21, we learn that there were sacred prophets, inspired of
 God, from the earliest beginnings of human history. Who were they? Adam,
 Seth, Enoch, Noah, and Shem were most eminent among the primeval
@@ -1695,4 +1695,4 @@ things."
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](ams08)
+[Next: Appendix](ams08.md)

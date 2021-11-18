@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng39)  [Next](nblng41) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng39)  [Next](nblng41.md) 
 
 ------------------------------------------------------------------------
 
@@ -352,4 +352,4 @@ called Wichart.
 ------------------------------------------------------------------------
 
 [Next: Adventure XXXIX: How Gunther And Hagen And Kriemhild Were
-Slain.](nblng41)
+Slain.](nblng41.md)

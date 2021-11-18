@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo08)  [Next](aoo10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo08)  [Next](aoo10.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,4 +145,4 @@ Calypso.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](aoo10)
+[Next: Chapter X](aoo10.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl25)  [Next](vrl27) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl25)  [Next](vrl27.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ the group, --still without a word.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXVIII](vrl27)
+[Next: CHAPTER XXVIII](vrl27.md)

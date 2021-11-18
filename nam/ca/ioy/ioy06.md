@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ioy05)  [Next](ioy07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ioy05)  [Next](ioy07.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ American](../../index)  [California](../index)  [Index](index) 
 [![YOSEMITE MOTHER AND PAPOOSE.&lt;BR&gt; The baby basket is carried on
 the back, like all burdens, and supported by a band across the
 forehead.](tn/02000.jpg)  
-Click to enlarge](img/02000.jpg)  
+Click to enlarge](img/02000.jpg.md)  
 YOSEMITE MOTHER AND PAPOOSE.  
 The baby basket is carried on the back, like all burdens, and supported
 by a band across the forehead.  
@@ -125,7 +125,7 @@ their household property, dogs included; and there is
 [![INDIAN O'-CHUM.&lt;BR&gt; This style of house, made of cedar poles
 covered with bark, is more easily heated than any other form of dwelling
 known.](tn/02500.jpg)  
-Click to enlarge](img/02500.jpg)  
+Click to enlarge](img/02500.jpg.md)  
 INDIAN O'-CHUM.  
 This style of house, made of cedar poles covered with bark, is more
 easily heated than any other form of dwelling known.  
@@ -168,7 +168,7 @@ the reservations. The ordinary full complement of dress for a man
 [![YOSEMITE MAIDEN IN NATIVE DRESS.&lt;BR&gt; This buckskin costume has
 now been replaced by the unpicturesque calico of
 civilization.](tn/02700.jpg)  
-Click to enlarge](img/02700.jpg)  
+Click to enlarge](img/02700.jpg.md)  
 YOSEMITE MAIDEN IN NATIVE DRESS.  
 This buckskin costume has now been replaced by the unpicturesque calico
 of civilization.  
@@ -242,4 +242,4 @@ again make war against the white people.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four: Sources of Food Supply](ioy07)
+[Next: Chapter Four: Sources of Food Supply](ioy07.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig00)  [Next](vig02) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig00)  [Next](vig02.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ The Men of Espihole
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](vig02)
+[Next: Dedication](vig02.md)

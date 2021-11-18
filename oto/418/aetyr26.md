@@ -1,33 +1,33 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
-# **The Cry of the 26th Aethyr, Which is Called DES**[**1**](#1)
+# **The Cry of the 26th Aethyr, Which is Called DES**[**1**](#1.md)
 
 There is a very bright pentagram: and now the stone is gone, and the
 whole heaven is black, and the blackness is the blackness of a mighty
-angel[**2**](#2). And though he is black (his face and his wings and his
+angel[**2**](#2.md). And though he is black (his face and his wings and his
 robe and his armour are all black), yet is he so bright that I cannot
 look upon him. And he cries: O ye spears and vials of poison and sharp
 swords and whirling thunderbolts that are about the corners of the
-earth[**3**](#3), girded with wrath and justice, know ye that His name
-is Righteousness in Beauty[**4**](#4)? Burnt out are your eyes, for that
+earth[**3**](#3.md), girded with wrath and justice, know ye that His name
+is Righteousness in Beauty[**4**](#4.md)? Burnt out are your eyes, for that
 ye have seen me in my majesty. And broken are the drum-heads of your
-ears[**5**](#5), because my name is as two mountains of fornication, the
-breasts of a strange woman[**6**](#6); and my Father is not in them.
+ears[**5**](#5.md), because my name is as two mountains of fornication, the
+breasts of a strange woman[**6**](#6.md); and my Father is not in them.
 
 Lo! the pools of fire and torment mingled with sulphur! Many are their
 colours, and their colour is as molten gold, when all is said. Is not He
 one, one and alone, in whom the brightness of your countenance is as
-1,728 petals of fire[**7**](#7).
+1,728 petals of fire[**7**](#7.md).
 
 Also he spake the curse, folding his wings across and crying: Is not the
 son the enemy of his father? And hath not the daughter stolen the warmth
-of the bed of her mother[**8**](#8)? therefore is the great curse
+of the bed of her mother[**8**](#8.md)? therefore is the great curse
 irrevocable. Therefore there is neither wisdom nor understanding nor
-knowledge in this house, that hangeth upon the edge of hell[**9**](#9).
-Thou art not 4 but 2, O thou blasphemy spoken against 1[**10**](#10).
+knowledge in this house, that hangeth upon the edge of hell[**9**](#9.md).
+Thou art not 4 but 2, O thou blasphemy spoken against 1[**10**](#10.md).
 
 Therefore whoso worshippeth thee is accursed. He shall be brayed in a
 mortar and the powder thereof cast to the winds, that the birds of the
@@ -40,11 +40,11 @@ calcine the children of flame, that even in hell may be found an
 overflowing lamentation.
 
 And now on the breast of the Angel is a golden egg between the blackness
-of the wings, and that egg[**11**](#11) grows and grows all over the
+of the wings, and that egg[**11**](#11.md) grows and grows all over the
 aethyr. And it breaks, and within there is a golden eagle.
 
 And he cries: Woe! woe! woe! Yea, woe unto the world! For there is no
-sin, and there is no salvation[**12**](#12). My plumes are like waves of
+sin, and there is no salvation[**12**](#12.md). My plumes are like waves of
 gold upon the sea. My eyes are brighter than the sun. My tongue is
 swifter than the lightning.
 
@@ -63,10 +63,10 @@ illusions beyond life and space and time.
 Let thy lips blister with my words! Are they not meteors in thy brain?
 Back, back from the face of the accursed one, who am I; back into the
 night of my father, into the silence; for all that ye deem right is
-left, forward is backward, upward is downward[**13**](#13).
+left, forward is backward, upward is downward[**13**](#13.md).
 
 I am the great god adored of the holy ones. Yet am I the accursed one,
-child of the elements and not their father[**14**](#14).
+child of the elements and not their father[**14**](#14.md).
 
 O my mother! wilt thou not have pity upon me? Wilt thou not shield me?
 For I am naked, I am manifest, I am profane. O my father! wilt not thou
@@ -76,29 +76,29 @@ Woe, woe unto me! These are they that hear not prayer. It is I that have
 heard all prayer alway, and there is none to answer *me*. Woe unto me!
 Woe unto me! Accursed am I unto the aeons! All this time this brilliant
 eagle-headed god has been attacked, seemingly, by invisible
-people[**15**](#15), for he is wounded now and again, here and there;
+people[**15**](#15.md), for he is wounded now and again, here and there;
 little streams of fresh blood come out over the feathers of his breast.
 And the smoke of the blood is gradually filling the Aethyr with a
 crimson veil. There is a scroll over the top, saying: *Ecclesia abhorret
-a sanguine*[**16**](#16); and there is another scroll below it in a
+a sanguine*[**16**](#16.md); and there is another scroll below it in a
 language of which I do not know the sounds. The meaning is, Not as they
-have understood[**17**](#17).
+have understood[**17**](#17.md).
 
 The blood is thicker and darker now, and it is becoming clotted and
 black, so that everything is blotted out; because it coagulates,
 coagulates. And then at the top there steals a dawn of pure night- blue
-[**18**](#18), --- Oh, the stars, the stars in it deeply set! --- and
+[**18**](#18.md), --- Oh, the stars, the stars in it deeply set! --- and
 drives the blood down; so that all round the top of the oval gradually
 dawns the figure of our Lady Nuit, and beneath her is the flaming winged
 disk, and below the altar of Ra-Hoor-Khuit, even as it is upon the Stele
-of Revealing[**19**](#19). But below is the supine figure of Seb, into
-whom is concentrated all that clotted blood[**20**](#20).
+of Revealing[**19**](#19.md). But below is the supine figure of Seb, into
+whom is concentrated all that clotted blood[**20**](#20.md).
 
 And there comes a voice: It is the dawn of the aeon. The aeons of
 cursing are passed away. Force and fire, strength and sight, these are
 for the servants of the Star and the Snake.
 
-And now I seem to be lying in the desert, exhausted[**21**](#21).
+And now I seem to be lying in the desert, exhausted[**21**](#21.md).
 
 The Desert, near Sidi Aissa.
 
@@ -159,7 +159,7 @@ November 25, 1909. 1:10 - 2 p.m.
     theories on which his existence depended. His blood is spilt, and
     veils Truth; whereas the Blood of the Master of the Temple is
     gathered in the Cup of BABALON, and floods the world with Life and
-    Beauty. (See [27th Aire](aetyr27), footnote 3).
+    Beauty. (See [27th Aire](aetyr27), footnote 3.md).
 16. <span id="16"></span>The Christian, incapable of the formula of the
     Master of the Temple, abhors the shedding of blood. He fears to lose
     his vile life.

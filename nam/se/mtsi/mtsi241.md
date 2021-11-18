@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi240)  [Next](mtsi242) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi240)  [Next](mtsi242.md) 
 
 ------------------------------------------------------------------------
 
-### 41. THE STORY OF WÅHGALĀNOH <span id="fr_60"></span>[1](#fn_60)
+### 41. THE STORY OF WÅHGALĀNOH <span id="fr_60"></span>[1](#fn_60.md)
 
 There was a male child whose father was unknown and all the creatures
 assembled to try to discover who it was. They said, "Each of you make an
@@ -26,9 +26,9 @@ and disappeared.
 
 ### Footnotes
 
-<span id="fn_60"></span>[198:1](mtsi241.htm#fr_60) Wåhgalānoh seems to
+<span id="fn_60"></span>[198:1](mtsi241.htm#fr_60.md) Wåhgalānoh seems to
 mean "yellow crane."
 
 ------------------------------------------------------------------------
 
-[Next: 42. The Story of Opossum](mtsi242)
+[Next: 42. The Story of Opossum](mtsi242.md)

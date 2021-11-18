@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa39)  [Next](psa41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa39)  [Next](psa41.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ what more need I say about them?"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XL](psa41)
+[Next: Chapter XL](psa41.md)

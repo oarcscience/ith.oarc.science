@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](rab03)  [Next](rab05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](rab03)  [Next](rab05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -17,13 +17,13 @@ Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 A. For relatives of the first degree--*e.g.*, father, mother, son,
 daughter, brother, wife, and sister--a priest may defile himself. R.
 Aqiba said: For those of the second degree <span
-id="fr_42"></span>[A1](#fn_42) he mourns and is prevented also from
+id="fr_42"></span>[A1](#fn_42.md) he mourns and is prevented also from
 services, which he must not perform when his dead is not buried; but he
 must not defile himself.
 
 B. R. Simeon b. Elazar, however, said: He may defile himself for his
 grandfather and his grandson, but the sages <span
-id="fr_43"></span>[B1](#fn_43) say: For whomsoever he is obliged to
+id="fr_43"></span>[B1](#fn_43.md) say: For whomsoever he is obliged to
 perform all the ceremonies of mourning, are to mourn with him, but not
 otherwise. If it was doubtful, however, whether the deceased was his
 brother or son, or not, he mourns and is considered an Orvan, but he
@@ -45,10 +45,10 @@ and his grandfather. The sages, however, laid down the
 <span id="page_13">p. 13</span>
 
 following rule: "Over whom one is bound to mourn, *with* him he must
-mourn." <span id="fr_44"></span>[C1](#fn_44) Does not the rule of the
+mourn." <span id="fr_44"></span>[C1](#fn_44.md) Does not the rule of the
 sages state the same thing stated by the first Tana? There is a
 difference as to those who are *with* him in the same house. <span
-id="fr_45"></span>[C2](#fn_45) Rabh once said to Hyya his son, and so
+id="fr_45"></span>[C2](#fn_45.md) Rabh once said to Hyya his son, and so
 also said R. Huna to Rabba his son: "In her (wife's) presence observe
 mourning, but not in her absence." Mar Uqba's brother-in-law died, and
 he was inclined to observe both the seven and the thirty days. When R.
@@ -61,7 +61,7 @@ arrived he rent again in his presence, and when he afterwards
 recollected that he was seated at the time he rent, he arose and rent
 once more."
 
-D. \[What is the term for Aninuth? <span id="fr_46"></span>[D1](#fn_46)
+D. \[What is the term for Aninuth? <span id="fr_46"></span>[D1](#fn_46.md)
 From the time of death till the interment, such is the dictum of R.
 Meir. The sages, however, say: One day only.\] If a high-priest has
 married a widow against the written Law; or an ordinary priest has
@@ -72,16 +72,16 @@ himself.
 <span id="page_14">p. 14</span>
 
 E. For his sister, if she is betrothed, <span
-id="fr_47"></span>[E1](#fn_47) R. Meir and R. Jehudah say he may defile
+id="fr_47"></span>[E1](#fn_47.md) R. Meir and R. Jehudah say he may defile
 himself. R. Jose and R. Simeon hold that he must not. <span
-id="fr_48"></span>[E2](#fn_48)
+id="fr_48"></span>[E2](#fn_48.md)
 
 F. If he has married a virgin but without virginity, <span
-id="fr_49"></span>[F1](#fn_49) according to R. Jose and R. Meir he
+id="fr_49"></span>[F1](#fn_49.md) according to R. Jose and R. Meir he
 defiles, and according to R. Simeon he may not. If he has married a
-forced <span id="fr_50"></span>[F2](#fn_50) or a seduced woman, all
+forced <span id="fr_50"></span>[F2](#fn_50.md) or a seduced woman, all
 agree that he may not. If he married a *vigaros*, <span
-id="fr_51"></span>[F3](#fn_51) all agree that he may.
+id="fr_51"></span>[F3](#fn_51.md) all agree that he may.
 
 G. The general rule which R. Simeon laid down is: For every woman who
 was fit for the high-priest when she was yet a virgin he may defile
@@ -90,7 +90,7 @@ himself, but not otherwise.
 H. For all those of whom it was declared that a priest may defile
 himself, it is not meant as a permission but as an obligation. So also
 said R. Aqiba; R. Ishmael, however, said: It is meant as a
-permission. <span id="fr_52"></span>[H1](#fn_52)
+permission. <span id="fr_52"></span>[H1](#fn_52.md)
 
 I. It happened to Joseph the priest that his wife died on the eve of
 Passover, and he was reluctant to defile himself, so his colleagues
@@ -112,11 +112,11 @@ left out his family. His relatives complained,
 
 <span id="page_15">p. 15</span>
 
-and demanded an examination. <span id="fr_53"></span>[L1](#fn_53) When
+and demanded an examination. <span id="fr_53"></span>[L1](#fn_53.md) When
 the sages were asked, they decided not to do so, because as soon as the
 grave is closed the corpse must not be moved. According to others: As
 soon as one dies, his hair is changed. <span
-id="fr_54"></span>[L2](#fn_54)
+id="fr_54"></span>[L2](#fn_54.md)
 
 M. An ordinary priest who is defiling himself with relatives must not do
 the same with a stranger, even at the same time, in case the stranger
@@ -141,9 +141,9 @@ the last defilement.
 
 Q. A priest may defile himself for relatives even if they are not fit
 for the priesthood; *e.g.*, for his son, daughter, <span
-id="fr_55"></span>[Q1](#fn_55) brother or sister, begotten by a
+id="fr_55"></span>[Q1](#fn_55.md) brother or sister, begotten by a
 temple-servant or bastard, except for those begotten by a slave or a
-Gentile. <span id="fr_56"></span>[Q2](#fn_56)
+Gentile. <span id="fr_56"></span>[Q2](#fn_56.md)
 
 R. A high-priest who defiles himself with the dead, or bares his head,
 or rends his garments, is liable to the punishment of stripes.
@@ -179,7 +179,7 @@ Y. A priest may defile himself with a piece of bone of his father's
 body, even if it was as large as a grain of barley; R. Jehudah, however,
 said: He must not. A priest must not defile himself with a limb cut off
 a living body, be it even that of his father. <span
-id="fr_57"></span>[Y1](#fn_57)
+id="fr_57"></span>[Y1](#fn_57.md)
 
 Z. It happened to Joseph Parkass that he had an abscess on his foot, and
 the surgeon came to cut it off. He said to him: If thou wilt leave of it
@@ -193,7 +193,7 @@ forget." \[Ps. cxix. 109\], applies to him; and also: "There is many a
 righteous man that perisheth in his righteousness" \[Prov. vii. 15\].
 
 AA. If he was on the road and he found a Meth-Mitzvah, <span
-id="fr_58"></span>[AA1](#fn_58)
+id="fr_58"></span>[AA1](#fn_58.md)
 
 <span id="page_17">p. 17</span>
 
@@ -215,7 +215,7 @@ temporary.
 
 DD. All agree that if there was an anointed high-priest and an
 unanointed one who is recognized only by his many garments, <span
-id="fr_59"></span>[DD1](#fn_59) the latter must defile himself and not
+id="fr_59"></span>[DD1](#fn_59.md) the latter must defile himself and not
 the former; when there was the latter and an overseer, or an overseer
 and an ex-overseer, or an ex-overseer and a priest anointed for the war,
 or he and a common priest, or a common priest and a Levite, or he and an
@@ -239,24 +239,24 @@ reward to be counted among the wise. I once arose early and found a
 slain body. I burdened myself with it for three legal limits of the
 Sabbath, until I brought it to a cemetery, and I buried it. When I
 related this to the sages, they told me that my every step was
-considered as if I had shed blood. <span id="fr_60"></span>[FF1](#fn_60)
+considered as if I had shed blood. <span id="fr_60"></span>[FF1](#fn_60.md)
 Whereupon I drew the following *a fortiori* conclusion: When, having in
 view to perform a meritorious deed, I have transgressed so much, how
 much the more would I have sinned if I had had no such intention!"
 Whenever R. Aqiba was reminded of this incident he said: This was the
-commencement of my reward. <span id="fr_61"></span>[FF2](#fn_61)
+commencement of my reward. <span id="fr_61"></span>[FF2](#fn_61.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_42"></span>[12:A1](rab04.htm#fr_42)
+<span id="fn_42"></span>[12:A1](rab04.htm#fr_42.md)
 
 ### CHAPTER IV.
 
 A. Grandfather, grandmother, grandson, etc.
 
-<span id="fn_43"></span>[12:B1](rab04.htm#fr_43) *B*. The sages differ
+<span id="fn_43"></span>[12:B1](rab04.htm#fr_43.md) *B*. The sages differ
 with R. Aqiba, who says: That for the second degree he must not mourn at
 all, and it is to be understood so: Whoever is obliged to perform all
 the mourning ceremonies, *e.g.*, not to sit in a chair, not to put on
@@ -267,17 +267,17 @@ unnecessary for him. The case where mourning without defilement can be
 found is only when it is doubtful, the doubtfulness meaning when the
 woman who bore the child was suspected.
 
-<span id="fn_44"></span>[13:C1](rab04.htm#fr_44) *C*. *E.g.*, for a
+<span id="fn_44"></span>[13:C1](rab04.htm#fr_44.md) *C*. *E.g.*, for a
 father for whom one is bound to mourn, if the father mourns for his
 father, the son may mourn with him. The same is the case with a son for
 whom the father is bound to mourn, if the son mourns for his son the
 father mourns with him. (Rashi.)
 
-<span id="fn_45"></span>[13:C2](rab04.htm#fr_45) It means that according
+<span id="fn_45"></span>[13:C2](rab04.htm#fr_45.md) It means that according
 to the sages the grandfather or the grandson is bound to mourn only when
 the father or the son is mourning in the house. (Rashi.)
 
-<span id="fn_46"></span>[13:D1](rab04.htm#fr_46) *D*. The term "Onen" in
+<span id="fn_46"></span>[13:D1](rab04.htm#fr_46.md) *D*. The term "Onen" in
 the Talmud means one of the relatives of the deceased, just after he
 departed and before the burial. It is derived from Genesis \[xxxv. 18\]:
 "Ben Oni." (See Leeser's translation, who did not translate *Ben Oni*,
@@ -292,57 +292,57 @@ days from death to interment, the entire law of it must be observed; but
 according to the sages only one day, as it is explained elsewhere--from
 morning till evening.
 
-<span id="fn_47"></span>[14:E1](rab04.htm#fr_47) *E*. The high-priest.
+<span id="fn_47"></span>[14:E1](rab04.htm#fr_47.md) *E*. The high-priest.
 See Lev. xxi. 3. When she, however, is not married, but betrothed; hence
 the difference of opinion.
 
-<span id="fn_48"></span>[14:E2](rab04.htm#fr_48) The names are corrected
+<span id="fn_48"></span>[14:E2](rab04.htm#fr_48.md) The names are corrected
 according to Tract Jebamoth, p. 60.
 
-<span id="fn_49"></span>[14:F1](rab04.htm#fr_49) *F*. Without
+<span id="fn_49"></span>[14:F1](rab04.htm#fr_49.md) *F*. Without
 virginity--through sickness, or she has lost it through something else;
 and according to the sages, the high-priest was not allowed to marry one
 who had lost her virginity, whatever the reason.
 
-<span id="fn_50"></span>[14:F2](rab04.htm#fr_50) Forced--Deut. xxii. 28.
+<span id="fn_50"></span>[14:F2](rab04.htm#fr_50.md) Forced--Deut. xxii. 28.
 
-<span id="fn_51"></span>[14:F3](rab04.htm#fr_51) *Vigaros*, also without
+<span id="fn_51"></span>[14:F3](rab04.htm#fr_51.md) *Vigaros*, also without
 virginity, but only through age; therefore all agree that in marrying
 her he does not commit any transgression, as he himself could not know
 it.
 
-<span id="fn_52"></span>[14:H1](rab04.htm#fr_52) *H*. See Elias Wilna.
+<span id="fn_52"></span>[14:H1](rab04.htm#fr_52.md) *H*. See Elias Wilna.
 
-<span id="fn_53"></span>[15:L1](rab04.htm#fr_53) *L*. If he was of age
+<span id="fn_53"></span>[15:L1](rab04.htm#fr_53.md) *L*. If he was of age
 to make a will.
 
-<span id="fn_54"></span>[15:L2](rab04.htm#fr_54) It is difficult to
+<span id="fn_54"></span>[15:L2](rab04.htm#fr_54.md) It is difficult to
 understand the real meaning of it. It seems to us that it means that the
 examination of the hair could decide nothing, as it could have grown
 after the death.
 
-<span id="fn_55"></span>[15:Q1](rab04.htm#fr_55) *Q*. If they were born
+<span id="fn_55"></span>[15:Q1](rab04.htm#fr_55.md) *Q*. If they were born
 by a woman whom he married unlawfully.
 
-<span id="fn_56"></span>[15:Q2](rab04.htm#fr_56) According to the
+<span id="fn_56"></span>[15:Q2](rab04.htm#fr_56.md) According to the
 Talmud, an illegitimate child begotten by parents of two different
 creeds without being married, must be considered according to the creed
 of the mother; hence they are not his children.
 
-<span id="fn_57"></span>[16:Y1](rab04.htm#fr_57) *Y*. The law is, if a
+<span id="fn_57"></span>[16:Y1](rab04.htm#fr_57.md) *Y*. The law is, if a
 whole limb was separated from a living body it is a subject of
 defilement; but if flesh was separated from that limb, even if it was
 more than the size of an olive, it is not. However, when the limb was
 separated from a corpse, and flesh separated from it the size of an
 olive, it defiles.
 
-<span id="fn_58"></span>[16:AA1](rab04.htm#fr_58) *AA*. This expression
+<span id="fn_58"></span>[16:AA1](rab04.htm#fr_58.md) *AA*. This expression
 is used in the whole Talmud about one who died without relatives, or if
 he died somewhere far from them, or in a lonely place. "Meth" means a
 corpse, "Mitzvah" means a commandment, and together they express: A
 corpse which anybody who finds is commanded to attend to its burial.
 
-<span id="fn_59"></span>[17:DD1](rab04.htm#fr_59) *DD*. There is a
+<span id="fn_59"></span>[17:DD1](rab04.htm#fr_59.md) *DD*. There is a
 tradition that in the time of King Josiah the oil of anointment made by
 Moses was concealed, and from that time the ascent of a high-priest was
 made only with his prescribed garments, and in the Talmud such a
@@ -354,13 +354,13 @@ himself, because his degree in sanctification is considered lower than
 that of the former; and so is it with all the pairs--the second is lower
 in sanctification than the first.
 
-<span id="fn_60"></span>[18:FF1](rab04.htm#fr_60) *FF*. Because the law
+<span id="fn_60"></span>[18:FF1](rab04.htm#fr_60.md) *FF*. Because the law
 is that it must be buried on the place where it is found.
 
-<span id="fn_61"></span>[18:FF2](rab04.htm#fr_61) *I.e.*, From the
+<span id="fn_61"></span>[18:FF2](rab04.htm#fr_61.md) *I.e.*, From the
 answer of the sages he learned that he knew nothing of the Law, and he
 began to study until he reached his eminence.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](rab05)
+[Next: Chapter V](rab05.md)

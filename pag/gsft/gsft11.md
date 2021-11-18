@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft10) 
-[Next](gsft12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft10.md) 
+[Next](gsft12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gypsy Sorcery and Fortune Telling*, by Charles Godfrey Leland,
 \[1891\], at Intangible Textual Heritage
 
@@ -153,7 +153,7 @@ to be some confusion and uncertainty among the Slavs as to whether all
 the twelve brothers or only the twelfth are "Krstnik"—according to the
 gypsy faith it would be the latter. These "twelvers" are the great
 protectors of the world from witchcraft. <span
-id="fr_16"></span>[1](#fn_16) But they are in great danger on Saint
+id="fr_16"></span>[1](#fn_16.md) But they are in great danger on Saint
 John's Eve, for then the witches, having most power, assail them with
 sticks and stakes, or stumps of saplings, for which reason it is usual
 in the autumn to carefully remove everything of the kind from the
@@ -383,7 +383,7 @@ as a specimen of *occulta* that I bought it.
 
 ### Footnotes
 
-<span id="fn_16"></span>[145:1](gsft11.htm#fr_16) In Northern Sagas it
+<span id="fn_16"></span>[145:1](gsft11.htm#fr_16.md) In Northern Sagas it
 appeared that Berserkers, or desperate warriors, frequently bound
 themselves together in companies of twelve. *Vide* the Hervor Saga, Olaf
 Tryggvason's and the Gautrek Saga. So there were the twelve Norse gods
@@ -394,6 +394,6 @@ and the twelve apostles.
 ------------------------------------------------------------------------
 
 [Next: Chapter X: Of the Haunts, Homes and Habits of Witches in the
-South Slavic Lands](gsft12)
+South Slavic Lands](gsft12.md)
 
 </div>

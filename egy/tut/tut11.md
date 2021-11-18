@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](tut10)  [Next](tut12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](tut10)  [Next](tut12.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ mightiest of the gods . . .
 
 ------------------------------------------------------------------------
 
-[Next: Egyptian Monotheism](tut12)
+[Next: Egyptian Monotheism](tut12.md)

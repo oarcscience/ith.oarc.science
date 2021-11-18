@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](wis)  [Next](bar) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](wis)  [Next](bar.md) 
 
 ------------------------------------------------------------------------
 
@@ -5295,4 +5295,4 @@ will give you your reward in his time.
 
 ------------------------------------------------------------------------
 
-[Next: Baruch](bar)
+[Next: Baruch](bar.md)

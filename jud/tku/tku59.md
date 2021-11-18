@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku58)  [Next](tku60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku58)  [Next](tku60.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ unto the heart, all the Holinesses of the Holinesses of Holiness depend
 from it.
 
 158\. In that Influence is extended an expansion of the Supernal
-Emanation, <span id="fr_232"></span>[1](#fn_229) which is the Head of
+Emanation, <span id="fr_232"></span>[1](#fn_229.md) which is the Head of
 all Heads, which is not known nor perfected, and which neither superiors
 nor inferiors have known, because from that Influence all things depend.
 
@@ -75,11 +75,11 @@ reverence, and are prostrate before It.
 
 ### Footnotes
 
-<span id="fn_229"></span>[275:1](tku59.htm#fr_232) the word is QVTRA:
+<span id="fn_229"></span>[275:1](tku59.htm#fr_232.md) the word is QVTRA:
 Rosenroth translates it by "Aporrhea." It may also be translated
 "vapour," or "nebula."
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VII: Concerning the Brain and the Wisdom in
-General](tku60)
+General](tku60.md)

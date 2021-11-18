@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw29)  [Next](tfgw31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw29)  [Next](tfgw31.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ John Cokeley and the Fairy
 
 ------------------------------------------------------------------------
 
-[Next: Tom Foley's Ghost](tfgw31)
+[Next: Tom Foley's Ghost](tfgw31.md)

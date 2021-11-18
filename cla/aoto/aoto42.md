@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto41) 
-[Next](aoto43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto41.md) 
+[Next](aoto43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ that is manifested in Nestor's speeches, but no where else in the poem
 beyond a bare knowledge of the existence of Apollo's shrine in Delos
 ("Od." vi. 162) and an occasional mention of Crete. I see Professor Jebb
 says that the "Odyssey" "shows a familiar knowledge of Delos;" <span
-id="fr_88"></span>[\*](#fn_88) but there is no warrant for this
+id="fr_88"></span>[\*](#fn_88.md) but there is no warrant for this
 assertion from anything in the poem.
 
 The writer of the "Odyssey" seems, in Book iv., to have also known the
@@ -234,7 +234,7 @@ Ulysses was made to sleep so profoundly on leaving Scheria.
 <span id="page_254">p. 254</span>
 
 Till I had got hold of the explanation given on page
-[173](aoto35.htm#page_173), I naturally thought that the strange sleep
+[173](aoto35.htm#page_173.md), I naturally thought that the strange sleep
 of Ulysses had been intended to lead up to something that was to happen
 in Ithaca, and which had been cancelled when the scheme was enlarged and
 altered; for without this explanation it is pointless as the poem now
@@ -289,7 +289,7 @@ speech of Jove at the council of the gods (i. 32–43), he is not thinking
 about the suitors, as he would assuredly do if the writer had as yet
 meant to introduce them. In repeated speeches of the gods, and
 especially in Book v. which is Book i. of the original poem (see lines
-36–42, 288, 289, and 345), <span id="fr_89"></span>[\*](#fn_89) it seems
+36–42, 288, 289, and 345), <span id="fr_89"></span>[\*](#fn_89.md) it seems
 that Ulysses’ most serious troubles were to end when he had reached
 Scheria. So again Calypso (v. 206–208) tries to deter him from leaving
 her by saying that he little knows what he will have to go through
@@ -345,7 +345,7 @@ upon all fours, and it is herself that we value even more than her poem.
 She evidently preferred cobbling to cancelling, and small wonder, for
 if, as was very probably the case, the work was traced with a sharply
 pointed style of hardened bronze, or even steel, <span
-id="fr_90"></span>[\*](#fn_90) on plates of lead, alteration would not
+id="fr_90"></span>[\*](#fn_90.md) on plates of lead, alteration would not
 be so easy as it is with us. Besides, we all cobble rather than cancel
 if we can. It is quite possible, but I need hardly say that it is not
 more than a mere possibility, that the abruptness of the interpolation
@@ -512,7 +512,7 @@ almost unknown, and the winter is even milder than that of Algiers.
 
 I ought also perhaps hardly to pass over the fact that amber, which is
 never mentioned in the "Iliad," appears three times in the
-"Odyssey." <span id="fr_91"></span>[\*](#fn_91) This may be mere
+"Odyssey." <span id="fr_91"></span>[\*](#fn_91.md) This may be mere
 accident, nevertheless Sicily was an amber-producing country, and indeed
 still is so; a large collection of Sicilian amber exists in the museum
 of Castrogiovanni, the ancient Enna, and I have been assured on good
@@ -552,18 +552,18 @@ which it had assumed in the hands of the authoress.
 
 ### Footnotes
 
-<span id="fn_88"></span>[249:\*](aoto42.htm#fr_88) *Introduction to
+<span id="fn_88"></span>[249:\*](aoto42.htm#fr_88.md) *Introduction to
 Homer*, Macmillan, 1888, p. 172.
 
-<span id="fn_89"></span>[255:\*](aoto42.htm#fr_89) None of these three
+<span id="fn_89"></span>[255:\*](aoto42.htm#fr_89.md) None of these three
 passages will be found in my abridgement.
 
-<span id="fn_90"></span>[256:\*](aoto42.htm#fr_90) Cf. "Od." ix.
+<span id="fn_90"></span>[256:\*](aoto42.htm#fr_90.md) Cf. "Od." ix.
 391–393.
 
-<span id="fn_91"></span>[260:\*](aoto42.htm#fr_91) iv. 93, xv. 460,
+<span id="fn_91"></span>[260:\*](aoto42.htm#fr_91.md) iv. 93, xv. 460,
 xviii. 296.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Conclusion](aoto43)
+[Next: Chapter XVI. Conclusion](aoto43.md)

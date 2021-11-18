@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao80)   
-[Previous](tao79)  [Next](tao81) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao80.md)   
+[Previous](tao79)  [Next](tao81.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ lives.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 81](tao81)
+[Next: Chapter 81](tao81.md)

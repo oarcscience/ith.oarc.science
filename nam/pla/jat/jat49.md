@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat48)  [Next](jat50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat48)  [Next](jat50.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ killed game and his people were well pleased, and next Tcogaligo was
 chief. They had very much deer meat and his people were pleased. All the
 people were bringing meat and were happy because of their chief.
 
-When TcîL <span id="fr_66"></span>[2](#fn_66) became chief and spoke it
+When TcîL <span id="fr_66"></span>[2](#fn_66.md) became chief and spoke it
 grew cold. "Do not speak," they said to him or it will snow. "Go and eat
 cedar fruit," they said to him, "you have talked enough." "Let me alone
 anyway, I am the chief. Do not bother me," he said to them. "Wherever I
@@ -27,9 +27,9 @@ my mind is not against you." Thus he spoke, they say.
 
 ### Footnotes
 
-<span id="fn_66"></span>[237:2](jat49.htm#fr_66) A brown bird big as a
+<span id="fn_66"></span>[237:2](jat49.htm#fr_66.md) A brown bird big as a
 robin.
 
 ------------------------------------------------------------------------
 
-[Next: 48. Woodpecker Describes Himself](jat50)
+[Next: 48. Woodpecker Describes Himself](jat50.md)

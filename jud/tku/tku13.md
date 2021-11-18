@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku12)  [Next](tku14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku12)  [Next](tku14.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,11 +12,11 @@
 in four sides from one portion; in four sides from the part of His
 countenance; and in four sides from another part of the periphery; and
 in one above the skull, as if this last might be called the supernal
-side. <span id="fr_16"></span>[1](#fn_15)
+side. <span id="fr_16"></span>[1](#fn_15.md)
 
 53\. And thence is the Vastness of His Countenance extended into three
 hundred and seventy myriads of worlds; and hence ARK APIM, <span
-id="fr_17"></span>[2](#fn_16) *Arikh Aphim*, Vastness of Countenance is
+id="fr_17"></span>[2](#fn_16.md) *Arikh Aphim*, Vastness of Countenance is
 His name.
 
 54\. And He Himself, the Most Ancient of the Most Ancient Ones, is
@@ -41,7 +41,7 @@ head; and thence towards the other inferior skulls, which are
 innumerable.
 
 57\. And all the skulls reflect this shining whiteness towards the
-Ancient of Days, <span id="fr_18"></span>[1](tku14.htm#fn_17) when they
+Ancient of Days, <span id="fr_18"></span>[1](tku14.htm#fn_17.md) when they
 are numbered out of their mingled confusion. And by reason of this there
 existeth herein an opening towards the skull below, when they proceed to
 numeration.
@@ -50,7 +50,7 @@ numeration.
 
 ### Footnotes
 
-<span id="fn_15"></span>[117:1](tku13.htm#fr_16) The hidden sense of
+<span id="fn_15"></span>[117:1](tku13.htm#fr_16.md) The hidden sense of
 this somewhat obscure passage is, that the brightness arises from the
 skull, *which it conceals*, which latter is therefore the emblem of the
 Concealed One. The thirteen parts are three tetragrammatic forms, which
@@ -60,10 +60,10 @@ Trinity in Unity, proceeding from the Concealed Unity, which also
 proceedeth from the Negatively Existent. Thirteen, moreover, occultly
 points out unity. for AChD. *Achad*, Unity, adds up for thirteen.
 
-<span id="fn_16"></span>[117:2](tku13.htm#fr_17) Or, AVRKA DANPIN,
+<span id="fn_16"></span>[117:2](tku13.htm#fr_17.md) Or, AVRKA DANPIN,
 *Aurikha Da-Anpin*, the Vast Countenance.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI: Concerning the Membrane of the Brain of
-Macroprosopus](tku14)
+Macroprosopus](tku14.md)

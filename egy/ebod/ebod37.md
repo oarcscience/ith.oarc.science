@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod36)  [Next](ebod38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod36)  [Next](ebod38.md) 
 
 ------------------------------------------------------------------------
 
@@ -416,4 +416,4 @@ way and enter thereon.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXIII.](ebod38)
+[Next: Plate XXXIII.](ebod38.md)

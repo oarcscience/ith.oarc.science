@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inca](../index) [Index](index) [Previous](rly02) [Next](rly2)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inca](../index) [Index](index) [Previous](rly02) [Next](rly2.md)
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ American](../../index) [Inca](../index) [Index](index) [Previous](rly02) [Ne
 
 *Priest of the Parish of Our Lady of Healing of the Hospital for  
 Natives in the City of Cuzco*:<span
-id="page_3_fr_1"></span>[1](#page_3_note_1)
+id="page_3_fr_1"></span>[1](#page_3_note_1.md)
 
 Addressed to the Most Reverend L<span class="small">ORD</span> B<span
 class="small">ISHOP</span> D<span class="small">ON</span> S<span
 class="small">EBASTIAN DE</span>  
 A<span class="small">RTAUN</span>,<span
-id="page_3_fr_2"></span>[2](#page_3_note_2) of the Council of His
+id="page_3_fr_2"></span>[2](#page_3_note_2.md) of the Council of His
 Majesty.
 
 A<span class="small">S</span> in the account which I submitted to your
@@ -49,10 +49,10 @@ things perished in it, insomuch that the water rose above all the
 highest mountains in the world. No living things survived except a man
 and a woman who remained in a box, and when the waters subsided, the
 wind carried them to Huanaco,<span
-id="page_4_fr_3"></span>[3](#page_4_note_3) which will be over seventy
+id="page_4_fr_3"></span>[3](#page_4_note_3.md) which will be over seventy
 leagues from Cuzco, a little more or less. The Creator of all things
 commanded them to remain there as *mitimas*;<span
-id="page_4_fr_4"></span>[4](#page_4_note_4) and there, in Tiahuanaco,
+id="page_4_fr_4"></span>[4](#page_4_note_4.md) and there, in Tiahuanaco,
 the Creator began to raise up the people and nations that are in that
 region, making one of each nation of clay, and painting the dresses that
 each one was to wear. Those that were to wear their hair, with hair; and
@@ -98,14 +98,14 @@ are to be Lords, and are to subjugate many nations. Look upon me as thy
 father, and thou shalt be my <span id="page_6">p. 6</span> children, and
 thou shalt worship me as thy father." And with these words it gave to
 Manco Ccapac, for his insignia and arms, the *suntur-paucar*<span
-id="page_6_fr_5"></span>[5](#page_6_note_5) and the *champi*,<span
-id="page_6_fr_6"></span>[6](#page_6_note_6) and the other ensigns that
+id="page_6_fr_5"></span>[5](#page_6_note_5.md) and the *champi*,<span
+id="page_6_fr_6"></span>[6](#page_6_note_6.md) and the other ensigns that
 are used by the Yncas, like sceptres. And at that point the sun, moon,
 and stars were commanded to ascend to heaven, and to fix themselves in
 their places, and they did so. At the same instant Manco Ccapac and his
 brothers and sisters, by command of the Creator, descended under the
 earth and came out again in the cave of Paccari-tambo,<span
-id="page_6_fr_7"></span>[7](#page_6_note_7) though they say that other
+id="page_6_fr_7"></span>[7](#page_6_note_7.md) though they say that other
 nations also came out of the same cave, at the point where the Sun rose
 on the first day after the Creator had divided the night from the day.
 Thus it was that they were called children of the Sun, and that the Sun
@@ -117,7 +117,7 @@ Viracocha. Having completed the tribes and nations, and assigned dresses
 and languages to them, the Creator sent the sun up to heaven, with the
 moon and stars, each one in its place. The Creator, who in the language
 of the Indians is called Pachayachachi<span
-id="page_6_fr_8"></span>[8](#page_6_note_8) and Tecsiviracocha, which
+id="page_6_fr_8"></span>[8](#page_6_note_8.md) and Tecsiviracocha, which
 means the incomprehensible God, then went by the road of the mountains,
 from Tiahuanaco, visiting and beholding all the nations, and examining
 how they had begun to multiply, and how to comply with his commands. He
@@ -138,7 +138,7 @@ road, fire came down from heaven and destroyed a great part of the
 people, while those who were taking to flight were turned into stones.
 
  The Creator, who is said to be the father of Ymaymana Viracocha, and of
-Tocapo<span id="page_7_fr_9"></span>[9](#page_7_note_9) Viracocha,
+Tocapo<span id="page_7_fr_9"></span>[9](#page_7_note_9.md) Viracocha,
 commanded that the elder, named Ymaymana Viracocha, in whose power all
 things were placed, should set out from this point, and go by the way of
 the mountains and forests through all the land, giving names to the
@@ -169,7 +169,7 @@ insert some of these fables.
 
  In the kingdom of Quito, there is a province called Cañaribamba, and
 the Cañaris Indians are so named from their province.<span
-id="page_8_fr_1"></span>[1](#page_8_note_1) These Cañaris say that, at
+id="page_8_fr_1"></span>[1](#page_8_note_1.md) These Cañaris say that, at
 the time of the deluge, two brothers escaped to a very high mountain
 called Huaca-yñan. As the waters rose the hill also increased in height,
 so that the waters never reached them. After the flood had subsided,
@@ -184,7 +184,7 @@ and know the being who did them so much good in their great need. So the
 elder of the two agreed to remain concealed. Presently he saw two birds,
 of the kind called *agua*, and by another name *torito*. In our language
 they are called *guacamayos*.<span
-id="page_8_fr_2"></span>[2](#page_8_note_2) They came dressed as
+id="page_8_fr_2"></span>[2](#page_8_note_2.md) They came dressed as
 Cañaris, with hair on their heads fastened in front as they now wear it.
 The concealed <span id="page_9">p. 9</span> Indian saw them begin to
 prepare the food they brought with them, as soon as they came to the
@@ -257,9 +257,9 @@ sometimes rest, and light up the whole world from one spot. Thus, it
 cannot be otherwise but that there is someone who directs him, and this
 is the Pacha-Yachachi or creator. Influenced by this reasoning and
 knowledge, he ordered the houses and temple of Quisuar-cancha<span
-id="page_11_fr_3"></span>[3](#page_11_note_3) to be made, which are
+id="page_11_fr_3"></span>[3](#page_11_note_3.md) to be made, which are
 above the houses of Diego Ortiz de Guzman,<span
-id="page_11_fr_4"></span>[4](#page_11_note_4) coming towards the great
+id="page_11_fr_4"></span>[4](#page_11_note_4.md) coming towards the great
 square of Cuzco, where Hernan Lopez de Segovia now lives. Here he raised
 a statue of gold to the creator, of the size of a boy of ten years of
 age. It was in the shape of a man standing up, the right arm raised and
@@ -278,12 +278,12 @@ in the following fable.
  They say that, before he succeeded, he went one day to visit his father
 Viracocha Ynca, who was in Sacsahuana, five leagues from Cuzco. As he
 came up to a fountain called Susur-puquio,<span
-id="page_12_fr_5"></span>[5](#page_12_note_5) he saw a piece of crystal
+id="page_12_fr_5"></span>[5](#page_12_note_5.md) he saw a piece of crystal
 fall into it, within which he beheld the figure of an Indian in the
 following shape. Out of the back of his head there issued three very
 brilliant rays like those of the Sun. Serpents were twined round his
 arms, and on his head there was a *llautu*<span
-id="page_12_fr_6"></span>[6](#page_12_note_6) like that of the Yuca. His
+id="page_12_fr_6"></span>[6](#page_12_note_6.md) like that of the Yuca. His
 ears were bored, and ear-pieces, like those used by the Yncas, were
 inserted. He was also dressed like the Ynca. The head of a lion came out
 from between his legs, and on his shoulders there was another lion whose
@@ -317,7 +317,7 @@ of my present treatise.
 
  They also had, in some nations, many huacas and temples where the devil
 gave answers; and in the city of Cuzco there was the huaca of
-Huanacauri.<span id="page_13_fr_7"></span>[7](#page_13_note_7) There
+Huanacauri.<span id="page_13_fr_7"></span>[7](#page_13_note_7.md) There
 were many kinds of wizards in the provinces, with names and attributes
 differing one from the other. The names and offices were as follows:—
 
@@ -419,14 +419,14 @@ of the same colours. The sacrifices were performed in the following
 order:—
 
  They went to Curicancha<span
-id="page_16_fr_8"></span>[8](#page_16_note_8) in the morning, at noon,
+id="page_16_fr_8"></span>[8](#page_16_note_8.md) in the morning, at noon,
 and at night, bringing the sheep that were to be sacrificed on that day,
 which they carried round the idols and huacas called *Punchao
-Ynca*,<span id="page_16_fr_9"></span>[9](#page_16_note_9) which means
+Ynca*,<span id="page_16_fr_9"></span>[9](#page_16_note_9.md) which means
 the Sun; and *Pachayachachi*,<span
-id="page_16_fr_1"></span>[1](#page_16_note_1) another idol in the shape
+id="page_16_fr_1"></span>[1](#page_16_note_1.md) another idol in the shape
 of a man. The word means a Creator; and *Chuqui yllayllapa*,<span
-id="page_16_fr_2"></span>[2](#page_16_note_2) which was the huaca of
+id="page_16_fr_2"></span>[2](#page_16_note_2.md) which was the huaca of
 lightning and thunder, and thunderbolt. It also was in the form of a
 person, though the face could not be seen, and it had a *llautu* of
 gold, and ear-rings of gold, and medals of gold called *canipo*. These
@@ -447,7 +447,7 @@ thunder and lightning, by command of the Creator.
 
  Then, in the morning, they sent a sheep to Huanacauri, which is their
 principal huaca, where it was killed and burnt by the *tarpuntaes*,<span
-id="page_17_fr_3"></span>[3](#page_17_note_3) who were those that had
+id="page_17_fr_3"></span>[3](#page_17_note_3.md) who were those that had
 the duty of supplying food to the huacas. While the sacrifice was
 burning, at the rising of the Sun, many Yncas and Caciques came, and,
 pulling the wool off the sacrifice before it was consumed, walked round
@@ -462,7 +462,7 @@ of the Lord St. Domingo: and in the evening they took another to the
 hill called *Achpiran*, because there the Sun sets, which they
 sacrificed with the same ceremonies. They also offered up to the same
 huacas, certain *cestos*<span
-id="page_17_fr_4"></span>[4](#page_17_note_4) of coca, called
+id="page_17_fr_4"></span>[4](#page_17_note_4.md) of coca, called
 *paucar-runcu*, and others called *paucar-quintu* like coca, and some
 toasted maize, and red and yellow sea shells called *mullu*, in the
 shape of maize. In addition to these ceremonies, on every other day of
@@ -471,29 +471,29 @@ following places: on a hill called *Succanca*, on another called
 *Omoto-yanacauri*, on another called *Ccapac-uilca*, which <span
 id="page_18">p. 18</span> is three leagues from Huanacauri, and on
 others called *Queros-huanacauri*, *Rontoca* which is in the
-Quehuares,<span id="page_18_fr_5"></span>[5](#page_18_note_5)
+Quehuares,<span id="page_18_fr_5"></span>[5](#page_18_note_5.md)
 *Collapata* in Pumacancha, fourteen leagues from the city, on a plain
 called *Yana-yana*, on another hill called *Cuti* in the *puna* of
 Pumacancha, and continuing along the same road they came on the next day
 to Vilcañota, which is twenty-six leagues from Cuzco. The reason for
 taking this direction in this month is because they say that the Sun was
-born in that part,<span id="page_18_fr_6"></span>[6](#page_18_note_6)
+born in that part,<span id="page_18_fr_6"></span>[6](#page_18_note_6.md)
 and thus they went on that road, performing the sacrifices. On a plain
 near Rurucache they made the same offering, as well as on another hill
 called *Suntu*, near to *Sihuana* in Cacha, in another hill called
 *Cacha-Uiracocha*, in another called *Yacalla-huaca*, and in another
 called *Rurama*, on the plain of Quiquijana.<span
-id="page_18_fr_7"></span>[7](#page_18_note_7) The same was done in
+id="page_18_fr_7"></span>[7](#page_18_note_7.md) The same was done in
 *Mullipampa*, in *Urcos*, on a hill called *Urcos Uiracocha*, on a plain
 called *Anta-huaylla*,<span
-id="page_18_fr_8"></span>[8](#page_18_note_8) on another plain near
+id="page_18_fr_8"></span>[8](#page_18_note_8.md) on another plain near
 Anta-huayla, called *Pati*, on another called *Acahuara*, on a hill in
 *Quispicancha*, and on another called *Sulcanca*. The Tarpuntaes went by
 one road and came back by another. The Ynca, with all his lords, went to
 Mantucalla, and there remained to drink and enjoy himself in revelry and
-*taquis*.<span id="page_18_fr_9"></span>[9](#page_18_note_9) They called
+*taquis*.<span id="page_18_fr_9"></span>[9](#page_18_note_9.md) They called
 this taqui *Huallina*,<span
-id="page_18_fr_1"></span>[1](#page_18_note_1) and it was a dance with
+id="page_18_fr_1"></span>[1](#page_18_note_1.md) and it was a dance with
 singing, which was performed four times in the day. The Yncas alone
 celebrated this feast; and the mama-cunas, women of the Sun, gave drink
 to those who performed it; their own wives did not enter the place where
@@ -511,7 +511,7 @@ and this was done in memory of the sheep which, they say, came forth
 from the tambo with them. The Indians who carried them were principal
 lords, dressed in very rich clothes, and they call the figures of gold
 and silver sheep *corinapa collquenapa*.<span
-id="page_19_fr_2"></span>[2](#page_19_note_2) The Ynca remained at
+id="page_19_fr_2"></span>[2](#page_19_note_2.md) The Ynca remained at
 Mantucalla until the end of the month, and when that time arrived he
 went to the square in front of the church of Cuzco, called *uacay-pata*,
 the path by which he came being strewn with plumes of bird's feathers of
@@ -531,7 +531,7 @@ fields, and in arranging the distribution of water from the channels.
 J<span class="small">ULY</span>.
 
  They called the month of July *Moronpassa tarpuiquilla*,<span
-id="page_19_fr_3"></span>[3](#page_19_note_3) and in it they celebrated
+id="page_19_fr_3"></span>[3](#page_19_note_3.md) and in it they celebrated
 the festivals called *yahuayra*, when they besought the Creator to grant
 them a full harvest in that year, for this was the month for sowing the
 seeds. The following ceremonies were then performed.
@@ -548,7 +548,7 @@ chaunted in which they besought the Creator to grant them a prosperous
 year. They sang it dressed in red shirts reaching to the feet, and no
 mantles. Then they came out to sing and dance in the place now called by
 the Spaniards Limapampa,<span
-id="page_20_fr_4"></span>[4](#page_20_note_4) which is beyond the square
+id="page_20_fr_4"></span>[4](#page_20_note_4.md) which is beyond the square
 of San Domingo. Here the Priests of the Creator sacrificed a white
 sheep, maize, coca, plumes of coloured feathers, and sea shells called
 *mullu*, in the morning; beseeching the Creator to grant a prosperous
@@ -561,7 +561,7 @@ waters to assist in the production, and not to bring down hail. As soon
 as the sacrifices were completed, the labourers went to their work, and
 the nobles to the house of the lord Ynca, until the month, which in
 their language was called *quispe*,<span
-id="page_20_fr_5"></span>[5](#page_20_note_5) was ended.
+id="page_20_fr_5"></span>[5](#page_20_note_5.md) was ended.
 
  
 
@@ -589,8 +589,8 @@ assembly, and said that the ceremonies of the *Situa* should be
 performed, that the Creator might drive all the diseases and evils from
 the land. A great number of armed men, accoutred for war, with their
 lances, then came to the square in front of the temple. The figures
-called *Chuquilla*<span id="page_21_fr_6"></span>[6](#page_21_note_6)
-and *Uiracocha*<span id="page_21_fr_7"></span>[7](#page_21_note_7) were
+called *Chuquilla*<span id="page_21_fr_6"></span>[6](#page_21_note_6.md)
+and *Uiracocha*<span id="page_21_fr_7"></span>[7](#page_21_note_7.md) were
 brought to the temple of the Sun from their own special temples in
 *Puca-marca* and *Quihuar-cancha*, which are now the houses of Doña
 Ysabel de Bobadilla. The priests of these huacas joined the assembly,
@@ -623,17 +623,17 @@ Huaray-pacha, who continued them as far as the river at Quiquisana,
 where they bathed themselves and their arms. Thus was the shouting ended
 in that direction. The Indians who passed the shouting along the
 Colla-suyu road from Cuzco, were of the lineage of Usca Mayta
-Ayllu,<span id="page_22_fr_8"></span>[8](#page_22_note_8) Yapomayu
+Ayllu,<span id="page_22_fr_8"></span>[8](#page_22_note_8.md) Yapomayu
 Ayllu, Yahuaymin Ayllu Sutic, and Marasaylla Cuynissa Ayllu.
 
  Those who went out to the west, which is towards Chinchasuyu, shouting
 in the same manner, were of the lineage of Ccapac Ayllu,<span
-id="page_22_fr_9"></span>[9](#page_22_note_9) and Hatun Ayllu,
-Vicaquirau<span id="page_22_fr_1"></span>[1](#page_22_note_1) and
+id="page_22_fr_9"></span>[9](#page_22_note_9.md) and Hatun Ayllu,
+Vicaquirau<span id="page_22_fr_1"></span>[1](#page_22_note_1.md) and
 Chamin-Cuzco Ayllu, and Yaraycu Ayllu. These went shouting as far as
 Satpina, which will be a little more than a league <span id="page_23">p.
 23</span> from Cuzco. There they passed the cries on to the mitimaes of
-Jaquijahuana,<span id="page_23_fr_2"></span>[2](#page_23_note_2) and
+Jaquijahuana,<span id="page_23_fr_2"></span>[2](#page_23_note_2.md) and
 these delivered them to the mitimaes of Tilca, which is above
 Marca-huasi, about ten leagues from Cuzco, who carried them on to the
 river Apurimac, where they bathed and washed their clothes and arms.
@@ -642,12 +642,12 @@ river Apurimac, where they bathed and washed their clothes and arms.
 following lineages, Usca-panaca Ayllu, Aucaylli Ayllu, Tarpuntay Ayllu,
 and Sañu Ayllu. They ran as far as Chita, which is a league and a half
 from Cuzco, and handed them to the mitimaes of Pisac, who are those of
-the Coya and Paullu,<span id="page_23_fr_3"></span>[3](#page_23_note_3)
+the Coya and Paullu,<span id="page_23_fr_3"></span>[3](#page_23_note_3.md)
 and these carried them forward to the river at Pisac, and there bathed
 and washed their arms.
 
  Those who went towards Cunti-suyu were of the following lineages.
-Yaura-panaca<span id="page_23_fr_4"></span>[4](#page_23_note_4) Ayllu,
+Yaura-panaca<span id="page_23_fr_4"></span>[4](#page_23_note_4.md) Ayllu,
 and China-panaca Ayllu, and Masca-panaca Ayllu, and Quesco Ayllu. They
 ran as far as Churicalla, which is two leagues from Cuzco, and there
 they delivered them to the mitimaes of Yaurisquis, which will be about
@@ -655,7 +655,7 @@ three leagues from Cuzco. These passed them on to those of Tautar, which
 is four leagues from Cuzco, who carried them on to the river of
 Cusipampa, where the Friars of La Merced have a vineyard. This is seven
 leagues from Cuzco, and there they bathed and washed their arms.<span
-id="page_23_fr_5"></span>[5](#page_23_note_5)
+id="page_23_fr_5"></span>[5](#page_23_note_5.md)
 
  Such was the ceremony for driving the sicknesses out of Cuzco. Their
 reason for bathing in these rivers was because they were rivers of great
@@ -704,7 +704,7 @@ before them, and afterwards the persons who were in charge of the bodies
 consumed the food.
 
  The persons who had charge of the huaca called *Guana-caucique*,<span
-id="page_25_fr_6"></span>[6](#page_25_note_6) which is a great figure of
+id="page_25_fr_6"></span>[6](#page_25_note_6.md) which is a great figure of
 a man, washed it and warmed it with the *sancu*; and the principal Ynca
 lord and his wife, after they had finished their bath, put the same
 *sancu* in their house, and on their hands. Afterwards, they placed
@@ -715,7 +715,7 @@ eight or nine in the morning the principal lord Ynca, with his wife, and
 the lords of the council who were in his house, came forth into the
 great square of Cuzco, richly dressed. They also brought out the image
 of the Sun called *Apupunchau*,<span
-id="page_25_fr_7"></span>[7](#page_25_note_7) which was the principal
+id="page_25_fr_7"></span>[7](#page_25_note_7.md) which was the principal
 image among those in the temple. They were accompanied by all the
 priests of the Sun, who brought the two figures of gold, and their women
 called Ynca-Ocllo and Palla-Ocllo. There also came forth the woman
@@ -743,7 +743,7 @@ lineages, as richly dressed as their means would allow; and, having made
 reverences to the Creator, the Sun, and the lord Ynca, they sat down on
 their benches, each man according to the rank he held, the Hanan-Cuzcos
 being on one side, and the Hurin-Cuzcos<span
-id="page_26_fr_8"></span>[8](#page_26_note_8) on the other. They passed
+id="page_26_fr_8"></span>[8](#page_26_note_8.md) on the other. They passed
 the day in eating and drinking, and enjoying themselves; and they
 performed the *tauqi* called *alançitua saqui*, in red shirts down to
 their feet, and garlands called *pilco-casa* on their heads; accompanied
@@ -757,7 +757,7 @@ the urn, which, as has been said, is like a stone fountain plated with
 gold. This urn had a hole made in such a way, that the chicha could
 enter a pipe or sewer passing under the ground <span id="page_27">p.
 27</span> to the houses of the Sun,<span
-id="page_27_fr_9"></span>[9](#page_27_note_9) the Thunder, and the
+id="page_27_fr_9"></span>[9](#page_27_note_9.md) the Thunder, and the
 Creator. The priests came in procession, and the families of Hurin and
 Hanan Cuzco, each with the embalmed bodies of their ancestors. They
 passed that day in the manner already described, and in the evening they
@@ -787,7 +787,7 @@ heart partakes of it, to him the Sun and the Thunder will show favour,
 and will grant children and happy years, and abundance, and all that he
 requires." Then they all rose up to partake, first making a solemn vow
 before eating the *yahuar-sancu*,<span
-id="page_27_fr_1"></span>[1](#page_27_note_1) in which they promised
+id="page_27_fr_1"></span>[1](#page_27_note_1.md) in which they promised
 never to <span id="page_28">p. 28</span> murmur against the Creator, the
 Sun, or the Thunder; never to be traitors to their lord the Ynca, on
 pain of receiving condemnation and trouble. The priest of the Sun then
@@ -1008,7 +1008,7 @@ S<span class="small">EPTEMBER</span>.
 
  They call the month of September *Uma-Raymi*, because the Indians of
 Uma, which is two' leagues from Cuzco, celebrated the feast of
-*Hurachillo*.<span id="page_34_fr_2"></span>[2](#page_34_note_2) This
+*Hurachillo*.<span id="page_34_fr_2"></span>[2](#page_34_note_2.md) This
 was the occasion <span id="page_35">p. 35</span> when the youths were
 admitted to knighthood, and when their ears were pierced, as we shall
 mention in its place. The women of Cuzco, whose sons were to have their
@@ -1091,17 +1091,17 @@ described. Many maidens, who were selected to give their services at
 this feast, then came to the square, dressed in a costume called *Cuzco
 asu ycochilli-quilla*. Their ages were from eleven to twelve or fourteen
 years, and they were of the best families. They were called
-*Ñusta-calli-sapa*.<span id="page_37_fr_3"></span>[3](#page_37_note_3)
+*Ñusta-calli-sapa*.<span id="page_37_fr_3"></span>[3](#page_37_note_3.md)
 Their duty was to carry small vases of chicha, as we shall relate
 further on. Being all clothed in these costumes, they proceeded to the
 house of the Sun and of the Thunder, and brought the images to the
 square. Then the Ynca came forth, and took his place near the statue of
 the Sun. The youths, who were to receive knighthood, rose up in their
 order, and made their *mucha*,<span
-id="page_37_fr_4"></span>[4](#page_37_note_4) which was their manner of
+id="page_37_fr_4"></span>[4](#page_37_note_4.md) which was their manner of
 worshipping the huacas. They also brought out the figure of a woman,
 which was the huaca of the moon, and was called *Passa*<span
-id="page_37_fr_5"></span>[5](#page_37_note_5)*-mama*. It was in charge
+id="page_37_fr_5"></span>[5](#page_37_note_5.md)*-mama*. It was in charge
 of women; and when it was brought from the house of the Sun, where it
 had a special place on the site of the *mirador* of Santo Domingo, they
 carried it on their shoulders. The reason for giving it in charge to
@@ -1132,7 +1132,7 @@ undertakes. And to us, thy sons and descendants who now celebrate this
 festival, grant that we may ever be in the hands of the Creator, of the
 Sun, of the Thunder, and in thy hands." After the sacrifices, at the
 ninth hour of the day, they put *huaracas*,<span
-id="page_38_fr_6"></span>[6](#page_38_note_6) and bags called *chuspas*
+id="page_38_fr_6"></span>[6](#page_38_note_6.md) and bags called *chuspas*
 into the hands of the youths, and on presenting them with the
 *huaracas*, they said: "Now that our father *Huanacauri* has given the
 *huaracas* as a sign of valour, live henceforth as brave men." The High
@@ -1192,7 +1192,7 @@ shape of a bag, with both ends open, of the same colour. Then they put
 staves into the hands of the youths, to the upper part of which a knife
 was attached, which they called *yauri*. Then the breeches were given,
 called *huaraca*, made of sinews and red cloth, with a little
-*chahuar*.<span id="page_40_fr_7"></span>[7](#page_40_note_7) After
+*chahuar*.<span id="page_40_fr_7"></span>[7](#page_40_note_7.md) After
 receiving the clothes they went, in their order, to worship the images
 of the Creator, the Sun, the Moon, and the Thunder, and they bowed
 reverently to the Ynca. Before this the uncles and relations had flogged
@@ -1211,7 +1211,7 @@ to give drink to the relations of the knights, and to offer as
 sacrifice, as well as to give drink to the youths who were armed as
 knights. On this day they brought with them the sheep called
 *tupa-huanacu* or *raymi-napa*;<span
-id="page_41_fr_8"></span>[8](#page_41_note_8) with a red shirt placed
+id="page_41_fr_8"></span>[8](#page_41_note_8.md) with a red shirt placed
 over it, having golden ears, as before described. They also carried the
 *suntur-paucar* or insignia of royalty. When the people had all departed
 from the square, they carried each huaca back to its temple, and the
@@ -1235,7 +1235,7 @@ Thunder. <span id="page_42">p. 42</span> Then the relations once more
 flogged the youths who were now knighted, urging them to set great store
 by the valour and endurance of their persons. After this the people sat
 down and performed the *taqui* called *haurita*<span
-id="page_42_fr_9"></span>[9](#page_42_note_9) with the *huayllaquipas*
+id="page_42_fr_9"></span>[9](#page_42_note_9.md) with the *huayllaquipas*
 and shells; the knights remaining on their feet, holding in their hands
 the staves called *yauri*. Some were headed with gold, others with
 copper, each according to the means of the owner. At the end of the
@@ -1273,7 +1273,7 @@ flogged the youths. Afterwards the Ynca and his court went to his house,
 and the youths, with their fathers and relations, went to the hill
 called *Raurana*. They passed the night at the foot of the hill, in a
 place called *Huaman-cancha*.<span
-id="page_43_fr_1"></span>[1](#page_43_note_1) At dawn they arose and
+id="page_43_fr_1"></span>[1](#page_43_note_1.md) At dawn they arose and
 ascended the hill *Raurana*, which is half a league from Cuzco. The Lord
 Ynca came here on this day, to grant favours to those who had been armed
 as knights, giving them ear-pieces of gold, red mantles, with blue
@@ -1314,7 +1314,7 @@ Cuzco, the *suntur-paucar* being borne before them as a banner, and the
 sheep dressed as on former occasions. Manco Ccapac instituted this
 feast, and caused these ceremonies to be observed in the case of his son
 Sinchi Rocca, as we have related in the history of the Yncas.<span
-id="page_44_fr_2"></span>[2](#page_44_note_2) On reaching the square of
+id="page_44_fr_2"></span>[2](#page_44_note_2.md) On reaching the square of
 Cuzco, they performed the *mucha* or adoration before the Huacas which
 the Priests had brought out, and they also made obeisances to all the
 embalmed bodies of the dead Lord and Ladies which had been brought into
@@ -1368,7 +1368,7 @@ tied together in handfuls, and dressed in the clothes of a man and a
 woman. The faggots, thus dressed up, were offered to the Creator, the
 Sun, and the Ynca, and were burnt in their clothes, together with a
 sheep. They also burnt certain birds called *pilcopichio*<span
-id="page_46_fr_3"></span>[3](#page_46_note_3) and *caman-tera-pichio*;
+id="page_46_fr_3"></span>[3](#page_46_note_3.md) and *caman-tera-pichio*;
 and this sacrifice was performed for the youths who had been armed as
 knights; with a prayer that they might always be fortunate in war.
 
@@ -1415,7 +1415,7 @@ strongest and bravest. Afterwards, they all sat down according to their
 lineages, the new knights being dressed in black shirts, and mantles of
 a lion colour. They also wore plumes of white feathers on their heads,
 from a bird called *tocto*.<span
-id="page_47_fr_4"></span>[4](#page_47_note_4) On this day the new
+id="page_47_fr_4"></span>[4](#page_47_note_4.md) On this day the new
 knights began to eat salt and other luxuries, for during the ceremonies
 they fasted, and were not allowed to touch either salt or *aji*. The
 youths ate their first meal after the fast with great relish. For this
@@ -1725,7 +1725,7 @@ purpose, and also to the earth; repeating the following prayer:—
  All the above sacrifices were placed in the *Chuqui-cancha*. Then the
 priests who had charge of the huaca *Yanacauri* offered their sacrifice.
 This huaca was of Ayar-cachi,<span
-id="page_57_fr_5"></span>[5](#page_57_note_5) one of the four brothers
+id="page_57_fr_5"></span>[5](#page_57_note_5.md) one of the four brothers
 who were said to have come out of the cave at Tampu; but, as I have
 treated of this fable in the beginning of the history which your most
 illustrious Lordship possesses, I will not dwell upon it here. As this
@@ -1841,7 +1841,7 @@ that they had been divided into two parts, one of which was united with
 the huaca *Pachacama*, and the other with the huaca *Titicaca*. The
 story went on that they had formed in the air, in order of battle
 against God, and that they had conquered Him. But when the Marquis<span
-id="page_60_fr_6"></span>[6](#page_60_note_6) entered this land, it was
+id="page_60_fr_6"></span>[6](#page_60_note_6.md) entered this land, it was
 held that God had conquered the huacas, as the Spaniards had overcome
 the Indians. Now, however, it was believed that things were changed,
 that God and the Spaniards were conquered, all the Spaniards killed, and
@@ -1975,7 +1975,7 @@ called Cuzco, is now concluded.
 
 ------------------------------------------------------------------------
 
-[Next](rly2)
+[Next](rly2.md)
 
 ------------------------------------------------------------------------
 
@@ -1983,11 +1983,11 @@ called Cuzco, is now concluded.
 
 <span id="footnotes_page_3">p. 3</span>
 
-<span id="page_3_note_1"></span>[1](#page_3_fr_1) For an account of the
+<span id="page_3_note_1"></span>[1](#page_3_fr_1.md) For an account of the
 origin of this hospital, see my translation of *G. de la Vega*, ii, p.
 258.
 
-<span id="page_3_note_2"></span>[2](#page_3_fr_2) *Bishops of Cuzco*—  
+<span id="page_3_note_2"></span>[2](#page_3_fr_2.md) *Bishops of Cuzco*—  
  1534. Fray Vicente de Valverde.  
  1543. Fray Juan Solauo, to 1550.  
  1570. S<span class="small">EBASTIAN DE</span> A<span
@@ -1997,61 +1997,61 @@ Council.
 
 <span id="footnotes_page_4">p. 4</span>
 
-<span id="page_4_note_3"></span>[3](#page_4_fr_3) Tia-huanacu.
+<span id="page_4_note_3"></span>[3](#page_4_fr_3.md) Tia-huanacu.
 
-<span id="page_4_note_4"></span>[4](#page_4_fr_4) Mitimac, a colonist or
+<span id="page_4_note_4"></span>[4](#page_4_fr_4.md) Mitimac, a colonist or
 settler.—See *G. de la Vega*, <span class="small">I</span>, lib. iii,
 cap. 19.
 
 <span id="footnotes_page_6">p. 6</span>
 
-<span id="page_6_note_5"></span>[5](#page_6_fr_5) One name for the
+<span id="page_6_note_5"></span>[5](#page_6_fr_5.md) One name for the
 Ynca's head-dress. The "brilliant circle".
 
-<span id="page_6_note_6"></span>[6](#page_6_fr_6) The battle-axe used
+<span id="page_6_note_6"></span>[6](#page_6_fr_6.md) The battle-axe used
 with one hand.—*G. de la Vega*, <span class="small">I</span>, lib. 9,
 cap. 31.
 
-<span id="page_6_note_7"></span>[7](#page_6_fr_7) Near Cuzco. From
+<span id="page_6_note_7"></span>[7](#page_6_fr_7.md) Near Cuzco. From
 *Paccari*, the dawn, and *tompu*, an inn.
 
-<span id="page_6_note_8"></span>[8](#page_6_fr_8) "Teacher of the
+<span id="page_6_note_8"></span>[8](#page_6_fr_8.md) "Teacher of the
 World."
 
 <span id="footnotes_page_7">p. 7</span>
 
-<span id="page_7_note_9"></span>[9](#page_7_fr_9) The "Tocay" of the
+<span id="page_7_note_9"></span>[9](#page_7_fr_9.md) The "Tocay" of the
 tradition given by *G. de la Vega*, <span class="small">I</span>, lib.
 i, cap. 18.
 
 <span id="footnotes_page_8">p. 8</span>
 
-<span id="page_8_note_1"></span>[1](#page_8_fr_1) See my translation of
+<span id="page_8_note_1"></span>[1](#page_8_fr_1.md) See my translation of
 *G. de la Vega*, ii, pp. 241, 335, 527.
 
-<span id="page_8_note_2"></span>[2](#page_8_fr_2) A macaw.
+<span id="page_8_note_2"></span>[2](#page_8_fr_2.md) A macaw.
 
 <span id="footnotes_page_11">p. 11</span>
 
-<span id="page_11_note_3"></span>[3](#page_11_fr_3) *Quisuar* is the
+<span id="page_11_note_3"></span>[3](#page_11_fr_3.md) *Quisuar* is the
 name of a tree (*Buddleia Incana*). *Cancha*, a place.
 
-<span id="page_11_note_4"></span>[4](#page_11_fr_4) See *G. de la Vega*,
+<span id="page_11_note_4"></span>[4](#page_11_fr_4.md) See *G. de la Vega*,
 i, p. 295, and ii, p. 243, of my translation; and the plan of Cuzco.
 There is still an ancient wall, with serpents carved on it, at this
 spot.
 
 <span id="footnotes_page_12">p. 12</span>
 
-<span id="page_12_note_5"></span>[5](#page_12_fr_5) *Puquio*, a spring
+<span id="page_12_note_5"></span>[5](#page_12_fr_5.md) *Puquio*, a spring
 or source.
 
-<span id="page_12_note_6"></span>[6](#page_12_fr_6) The royal fringe,
+<span id="page_12_note_6"></span>[6](#page_12_fr_6.md) The royal fringe,
 worn across the forehead.
 
 <span id="footnotes_page_13">p. 13</span>
 
-<span id="page_13_note_7"></span>[7](#page_13_fr_7) Mentioned four times
+<span id="page_13_note_7"></span>[7](#page_13_fr_7.md) Mentioned four times
 by *Garcilasso de la Vega*, i, pp. 65, 66, and ii, pp. 169 and 230. He
 says that the first settlement, made in the valley of Cuzco, was on the
 hill called Huanacauri, and that a temple was built there. It was looked
@@ -2059,172 +2059,172 @@ upon as very sacrcd, and was the spot whence races were run.
 
 <span id="footnotes_page_16">p. 16</span>
 
-<span id="page_16_note_8"></span>[8](#page_16_fr_8) "Place of gold." The
+<span id="page_16_note_8"></span>[8](#page_16_fr_8.md) "Place of gold." The
 temple of the Sun at Cuzco.
 
-<span id="page_16_note_9"></span>[9](#page_16_fr_9) *Punchau*, "day". A
+<span id="page_16_note_9"></span>[9](#page_16_fr_9.md) *Punchau*, "day". A
 name for the Sun.
 
-<span id="page_16_note_1"></span>[1](#page_16_fr_1) "Teacher of the
+<span id="page_16_note_1"></span>[1](#page_16_fr_1.md) "Teacher of the
 World."
 
-<span id="page_16_note_2"></span>[2](#page_16_fr_2) Thunder and
+<span id="page_16_note_2"></span>[2](#page_16_fr_2.md) Thunder and
 lightning.
 
 <span id="footnotes_page_17">p. 17</span>
 
-<span id="page_17_note_3"></span>[3](#page_17_fr_3) Priests. The word
+<span id="page_17_note_3"></span>[3](#page_17_fr_3.md) Priests. The word
 does not occur in Garcilasso de la Vega. *Tarpuni* is the verb "to sow".
 
-<span id="page_17_note_4"></span>[4](#page_17_fr_4) Baskets.
+<span id="page_17_note_4"></span>[4](#page_17_fr_4.md) Baskets.
 
 <span id="footnotes_page_18">p. 18</span>
 
-<span id="page_18_note_5"></span>[5](#page_18_fr_5) A tribe south of
+<span id="page_18_note_5"></span>[5](#page_18_fr_5.md) A tribe south of
 Cuzco.
 
-<span id="page_18_note_6"></span>[6](#page_18_fr_6) On leaving Cuzco,
+<span id="page_18_note_6"></span>[6](#page_18_fr_6.md) On leaving Cuzco,
 this road is nearly east.
 
-<span id="page_18_note_7"></span>[7](#page_18_fr_7) All these places are
+<span id="page_18_note_7"></span>[7](#page_18_fr_7.md) All these places are
 in the vale of Vilca-mayu, up which the road passes from Cuzco to lake
 Titicaca.
 
-<span id="page_18_note_8"></span>[8](#page_18_fr_8) Not Andahuaylas, but
+<span id="page_18_note_8"></span>[8](#page_18_fr_8.md) Not Andahuaylas, but
 a village near Cuzco, now called Andahuaylillas.
 
-<span id="page_18_note_9"></span>[9](#page_18_fr_9) Music.
+<span id="page_18_note_9"></span>[9](#page_18_fr_9.md) Music.
 
-<span id="page_18_note_1"></span>[1](#page_18_fr_1) More correctly
+<span id="page_18_note_1"></span>[1](#page_18_fr_1.md) More correctly
 *Huayllina*, a song.
 
 <span id="footnotes_page_19">p. 19</span>
 
-<span id="page_19_note_2"></span>[2](#page_19_fr_2) *Ccuri*, gold;
+<span id="page_19_note_2"></span>[2](#page_19_fr_2.md) *Ccuri*, gold;
 *Collque*, silver; *Napa*, salutation.
 
-<span id="page_19_note_3"></span>[3](#page_19_fr_3) *Tarpuy-quilla*, the
+<span id="page_19_note_3"></span>[3](#page_19_fr_3.md) *Tarpuy-quilla*, the
 sowing month.
 
 <span id="footnotes_page_20">p. 20</span>
 
-<span id="page_20_note_4"></span>[4](#page_20_fr_4) Rimac-pampa.—*G. de
+<span id="page_20_note_4"></span>[4](#page_20_fr_4.md) Rimac-pampa.—*G. de
 la Vega*, ii, p. 239.
 
-<span id="page_20_note_5"></span>[5](#page_20_fr_5) *Quespi*, crystal.
+<span id="page_20_note_5"></span>[5](#page_20_fr_5.md) *Quespi*, crystal.
 
 <span id="footnotes_page_21">p. 21</span>
 
-<span id="page_21_note_6"></span>[6](#page_21_fr_6) Thunder.
+<span id="page_21_note_6"></span>[6](#page_21_fr_6.md) Thunder.
 
-<span id="page_21_note_7"></span>[7](#page_21_fr_7) The Creator.
+<span id="page_21_note_7"></span>[7](#page_21_fr_7.md) The Creator.
 
 <span id="footnotes_page_22">p. 22</span>
 
-<span id="page_22_note_8"></span>[8](#page_22_fr_8) Descendants of Ynca
+<span id="page_22_note_8"></span>[8](#page_22_fr_8.md) Descendants of Ynca
 Mayta Ccapac.
 
-<span id="page_22_note_9"></span>[9](#page_22_fr_9) Descendants of Tupac
+<span id="page_22_note_9"></span>[9](#page_22_fr_9.md) Descendants of Tupac
 Ynca Yupanqui.
 
-<span id="page_22_note_1"></span>[1](#page_22_fr_1) Vicaquirau.
+<span id="page_22_note_1"></span>[1](#page_22_fr_1.md) Vicaquirau.
 Descendants of Ynca Rocca.
 
 <span id="footnotes_page_23">p. 23</span>
 
-<span id="page_23_note_2"></span>[2](#page_23_fr_2) Sacsahuana or
+<span id="page_23_note_2"></span>[2](#page_23_fr_2.md) Sacsahuana or
 Xaquixaquana.
 
-<span id="page_23_note_3"></span>[3](#page_23_fr_3) Ccoya, the Princess,
+<span id="page_23_note_3"></span>[3](#page_23_fr_3.md) Ccoya, the Princess,
 and Paullu, a son of the Ynca Huayna Ccapac. They were the lords of the
 Pisac vassals when Molina was writing.
 
-<span id="page_23_note_4"></span>[4](#page_23_fr_4) *Panaca* is a term
+<span id="page_23_note_4"></span>[4](#page_23_fr_4.md) *Panaca* is a term
 for lineage.—See *G. de la Vega*, ii, p. 531. Perhaps from *Pana*,
 sister of a brother.
 
-<span id="page_23_note_5"></span>[5](#page_23_fr_5) See the account of
+<span id="page_23_note_5"></span>[5](#page_23_fr_5.md) See the account of
 the ceremonies in *G. de la Vega*, ii.
 
 <span id="footnotes_page_25">p. 25</span>
 
-<span id="page_25_note_6"></span>[6](#page_25_fr_6) *Huanacauri*.
+<span id="page_25_note_6"></span>[6](#page_25_fr_6.md) *Huanacauri*.
 
-<span id="page_25_note_7"></span>[7](#page_25_fr_7) *Apu-ppunchau*. The
+<span id="page_25_note_7"></span>[7](#page_25_fr_7.md) *Apu-ppunchau*. The
 lord of day.
 
 <span id="footnotes_page_26">p. 26</span>
 
-<span id="page_26_note_8"></span>[8](#page_26_fr_8) Upper and Lower
+<span id="page_26_note_8"></span>[8](#page_26_fr_8.md) Upper and Lower
 Cuzco.
 
 <span id="footnotes_page_27">p. 27</span>
 
-<span id="page_27_note_9"></span>[9](#page_27_fr_9) See also G. de la
+<span id="page_27_note_9"></span>[9](#page_27_fr_9.md) See also G. de la
 Vega.
 
-<span id="page_27_note_1"></span>[1](#page_27_fr_1) *Yahuar*, blood;
+<span id="page_27_note_1"></span>[1](#page_27_fr_1.md) *Yahuar*, blood;
 *Sancu*, pudding.
 
 <span id="footnotes_page_34">p. 34</span>
 
-<span id="page_34_note_2"></span>[2](#page_34_fr_2) Huarachicu.
+<span id="page_34_note_2"></span>[2](#page_34_fr_2.md) Huarachicu.
 
 <span id="footnotes_page_37">p. 37</span>
 
-<span id="page_37_note_3"></span>[3](#page_37_fr_3) *Ñusta*, princess;
+<span id="page_37_note_3"></span>[3](#page_37_fr_3.md) *Ñusta*, princess;
 *Calli*, valorous; *Sapa*, alone, unrivalled.
 
-<span id="page_37_note_4"></span>[4](#page_37_fr_4) *Muchani*, the verb
+<span id="page_37_note_4"></span>[4](#page_37_fr_4.md) *Muchani*, the verb
 to adore, to kiss.
 
-<span id="page_37_note_5"></span>[5](#page_37_fr_5) *Pacsa* is the word
+<span id="page_37_note_5"></span>[5](#page_37_fr_5.md) *Pacsa* is the word
 for the moon, in the Collao dialects. In the Ynca language it is
 *Quilla*.
 
 <span id="footnotes_page_38">p. 38</span>
 
-<span id="page_38_note_6"></span>[6](#page_38_fr_6) Slings.
+<span id="page_38_note_6"></span>[6](#page_38_fr_6.md) Slings.
 
 <span id="footnotes_page_40">p. 40</span>
 
-<span id="page_40_note_7"></span>[7](#page_40_fr_7) Aloe fibre.
+<span id="page_40_note_7"></span>[7](#page_40_fr_7.md) Aloe fibre.
 
 <span id="footnotes_page_41">p. 41</span>
 
-<span id="page_41_note_8"></span>[8](#page_41_fr_8) Raymi-napa.
+<span id="page_41_note_8"></span>[8](#page_41_fr_8.md) Raymi-napa.
 
 <span id="footnotes_page_42">p. 42</span>
 
-<span id="page_42_note_9"></span>[9](#page_42_fr_9) *Huari*.
+<span id="page_42_note_9"></span>[9](#page_42_fr_9.md) *Huari*.
 
 <span id="footnotes_page_43">p. 43</span>
 
-<span id="page_43_note_1"></span>[1](#page_43_fr_1) *Huaman*, a falcon;
+<span id="page_43_note_1"></span>[1](#page_43_fr_1.md) *Huaman*, a falcon;
 *Cancha*, place.
 
 <span id="footnotes_page_44">p. 44</span>
 
-<span id="page_44_note_2"></span>[2](#page_44_fr_2) G. de la Vega says
+<span id="page_44_note_2"></span>[2](#page_44_fr_2.md) G. de la Vega says
 that the lineage of the Ynca Sinchi Rocca was called *Raurana Panaca*.
 
 <span id="footnotes_page_46">p. 46</span>
 
-<span id="page_46_note_3"></span>[3](#page_46_fr_3) *Pichio* for
+<span id="page_46_note_3"></span>[3](#page_46_fr_3.md) *Pichio* for
 *piscu*, a bird.
 
 <span id="footnotes_page_47">p. 47</span>
 
-<span id="page_47_note_4"></span>[4](#page_47_fr_4) *Toctu* is honey.
+<span id="page_47_note_4"></span>[4](#page_47_fr_4.md) *Toctu* is honey.
 
 <span id="footnotes_page_57">p. 57</span>
 
-<span id="page_57_note_5"></span>[5](#page_57_fr_5) See *G. de la Vega*,
+<span id="page_57_note_5"></span>[5](#page_57_fr_5.md) See *G. de la Vega*,
 i, p. 73.
 
 <span id="footnotes_page_60">p. 60</span>
 
-<span id="page_60_note_6"></span>[6](#page_60_fr_6) Pizarro.
+<span id="page_60_note_6"></span>[6](#page_60_fr_6.md) Pizarro.
 
  
 

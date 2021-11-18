@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe225)  [Next](prwe227) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe225)  [Next](prwe227.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ the village graveyard.
 
 ------------------------------------------------------------------------
 
-[Next: Crying the Neck](prwe227)
+[Next: Crying the Neck](prwe227.md)

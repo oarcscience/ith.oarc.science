@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb75)  [Next](wfb77) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb75)  [Next](wfb77.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ the coffin fell to the ground.
 
 ------------------------------------------------------------------------
 
-[Next: Hu Gadarn](wfb77)
+[Next: Hu Gadarn](wfb77.md)

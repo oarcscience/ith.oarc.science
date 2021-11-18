@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe073)  [Next](prwe075) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe073)  [Next](prwe075.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ recover the possessions which once belonged to his parent.
 
 ------------------------------------------------------------------------
 
-[Next: Table-Men - The Saxon's Kings Visit to the Land's End](prwe075)
+[Next: Table-Men - The Saxon's Kings Visit to the Land's End](prwe075.md)

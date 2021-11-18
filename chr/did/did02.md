@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Apocrypha](../apo/index)  [Index](index)  [Previous](did01) 
-[Next](did03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Apocrypha](../apo/index)  [Index](index)  [Previous](did01.md) 
+[Next](did03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Didache*, by Charles H. Hoole, \[1894\], at Intangible Textual
 Heritage
 
@@ -76,6 +76,6 @@ Long passage in Greek omitted (pp. 47-72).…
 
 ------------------------------------------------------------------------
 
-[Next: The Didache: Translation](did03)
+[Next: The Didache: Translation](did03.md)
 
 </div>

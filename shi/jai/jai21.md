@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai20)  [Next](jai22) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai20)  [Next](jai22.md) 
 
 ------------------------------------------------------------------------
 
@@ -617,4 +617,4 @@ make no profound appeal to their moral and social experience.
 
 ------------------------------------------------------------------------
 
-[Next: Industrial Danger](jai22)
+[Next: Industrial Danger](jai22.md)

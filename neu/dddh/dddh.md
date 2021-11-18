@@ -1,7 +1,7 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index)  [Legends and Sagas](../index)  [Celtic
-Folklore](../celt/index)
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md)  [Celtic
+Folklore](../celt/index.md)
 
 ------------------------------------------------------------------------
 

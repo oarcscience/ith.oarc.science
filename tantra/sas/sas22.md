@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas21)  [Next](sas23)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas21)  [Next](sas23.md)  
 
 ------------------------------------------------------------------------
 
@@ -173,4 +173,4 @@ to-day.
 ------------------------------------------------------------------------
 
 Next: [Chapter Twenty-three: The Psychology of Hindu Religious
-Ritual](sas23)
+Ritual](sas23.md)

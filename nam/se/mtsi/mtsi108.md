@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi107)  [Next](mtsi109) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi107)  [Next](mtsi109.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ This is how it is told.
 
 ------------------------------------------------------------------------
 
-[Next: 16. The Hunter and the Tie-Snake](mtsi109)
+[Next: 16. The Hunter and the Tie-Snake](mtsi109.md)

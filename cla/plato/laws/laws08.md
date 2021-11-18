@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plato](../index)  [Index](index)  [Previous](laws07)  [Next](laws09) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plato](../index)  [Index](index)  [Previous](laws07)  [Next](laws09.md) 
 
 ------------------------------------------------------------------------
 
@@ -1226,4 +1226,4 @@ women, about men and women in relation to one another.
 
 ------------------------------------------------------------------------
 
-[Next: BOOK X](laws09)
+[Next: BOOK X](laws09.md)

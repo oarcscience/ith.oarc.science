@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](biob07)  [Next](biob09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](biob07)  [Next](biob09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Biography of the Bible*, by Ernest Sutherland Bates, \[1937\], at
 Intangible Textual Heritage
 
@@ -89,7 +89,7 @@ at the stake, from it! To what myriads has it
 
 <span id="img_15200"></span> <span align="CENTER"> [![Perpetual Easter
 Calendar from the King James version](tn/15200.jpg)  
-Click to enlarge](img/15200.jpg)  
+Click to enlarge](img/15200.jpg.md)  
 Perpetual Easter Calendar from the King James version  
 </span>
 
@@ -97,7 +97,7 @@ Perpetual Easter Calendar from the King James version
 
 <span id="img_15300"></span> <span align="CENTER"> [![The generations of
 Adam in the King James version](tn/15300.jpg)  
-Click to enlarge](img/15300.jpg)  
+Click to enlarge](img/15300.jpg.md)  
 The generations of Adam in the King James version  
 </span>
 
@@ -493,7 +493,7 @@ in which one may easily go mad. The outlook for the future
 
 <span id="img_16800"></span> <span align="CENTER"> [![The generations of
 Noah in the King James version](tn/16800.jpg)  
-Click to enlarge](img/16800.jpg)  
+Click to enlarge](img/16800.jpg.md)  
 The generations of Noah in the King James version  
 </span>
 
@@ -501,7 +501,7 @@ The generations of Noah in the King James version
 
 <span id="img_16900"></span> <span align="CENTER"> [![Title page of John
 Eliot's Indian Bible (1663)](tn/16900.jpg)  
-Click to enlarge](img/16900.jpg)  
+Click to enlarge](img/16900.jpg.md)  
 Title page of John Eliot's Indian Bible (1663)  
 </span>
 
@@ -630,4 +630,4 @@ nobler than the Bible.
 
 ------------------------------------------------------------------------
 
-[Next: Index](biob09)
+[Next: Index](biob09.md)

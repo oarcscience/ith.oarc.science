@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo15)  [Next](aoo17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo15)  [Next](aoo17.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ the marks of being the work of a god.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII](aoo17)
+[Next: Chapter XVII](aoo17.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk08)  [Next](tpk10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk08)  [Next](tpk10.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ any corner.
 
 ------------------------------------------------------------------------
 
-[Next: Government](tpk10)
+[Next: Government](tpk10.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat39)  [Next](jat41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat39)  [Next](jat41.md) 
 
 ------------------------------------------------------------------------
 
-### 38. COYOTE IS DISOBEYED BY TURKEY. <span id="fr_59"></span>[2](#fn_59)
+### 38. COYOTE IS DISOBEYED BY TURKEY. <span id="fr_59"></span>[2](#fn_59.md)
 
 Coyote came where there was a flock of turkeys. He said to one of them,
 "Go to my home and they will eat you. Tell them that they must save the
@@ -32,21 +32,21 @@ still another tree. This Coyote also cut down. Before it fell, the
 turkeys flew, alighting in still another tree. Coyote commenced chopping
 this also. Before it fell, the turkeys flew away alighting in another
 tree. Coyote tired out, gave up the task. <span
-id="fr_60"></span>[3](#fn_60)
+id="fr_60"></span>[3](#fn_60.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_59"></span>[233:2](jat40.htm#fr_59) The Wichita story has
+<span id="fn_59"></span>[233:2](jat40.htm#fr_59.md) The Wichita story has
 Coyote first make Turkey declare he is an honest man, Dorsey, (b), p.
 289.
 
-<span id="fn_60"></span>[233:3](jat40.htm#fr_60) Ed. Ladd added that
+<span id="fn_60"></span>[233:3](jat40.htm#fr_60.md) Ed. Ladd added that
 Coyote shot his arrows into the under side of the limb on which the
 turkeys were sitting in a row, cut the tree down and recovered his
 arrows. He repeated this four times.
 
 ------------------------------------------------------------------------
 
-[Next: 39. Coyote is Shot With a Pine Tree](jat41)
+[Next: 39. Coyote is Shot With a Pine Tree](jat41.md)

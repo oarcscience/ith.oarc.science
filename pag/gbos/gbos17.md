@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos16)  [Next](gbos18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos16)  [Next](gbos18.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ Nos. 5, 6, 7, and 8 are excellent.
 
 ------------------------------------------------------------------------
 
-[Next: To Gain the Sight](gbos18)
+[Next: To Gain the Sight](gbos18.md)

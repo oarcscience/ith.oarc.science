@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps15)  [Next](rps17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps15)  [Next](rps17.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ A LOVE Feast (Fast) every 3 or 6 months is NEEDED.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 15. The Egyptian Copyright Department](rps17)
+[Next: Chapter 15. The Egyptian Copyright Department](rps17.md)

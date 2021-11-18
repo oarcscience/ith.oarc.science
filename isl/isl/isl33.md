@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl32)  [Next](isl34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl32)  [Next](isl34.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,16 +120,16 @@ occurrence, and prophetic wonders and the conditions for them, and then
 how wonders indicate the truthfulness of the messengers of God, and how
 a wonder is to be established, and how we may certify the prophethood of
 our master and lord Muhammad--the benediction of God and peace be upon
-him <span id="fr_142"></span>[7](#fn_142)
+him <span id="fr_142"></span>[7](#fn_142.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_142"></span>[196:7](isl33.htm#fr_142) *al-‘Aqīda
+<span id="fn_142"></span>[196:7](isl33.htm#fr_142.md) *al-‘Aqīda
 al-Nizāmīya* (Cairo, 1948), pp. 47, 48. Also in German translation by H.
 Klopfer as *Das Dogma des Imam al-Haramain al-Djūwainī* (Cairo, 1958).
 
 ------------------------------------------------------------------------
 
-[Next: 5. Al-Ghazālī](isl34)
+[Next: 5. Al-Ghazālī](isl34.md)

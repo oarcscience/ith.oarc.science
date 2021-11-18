@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk06)  [Next](tpk08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk06)  [Next](tpk08.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ For this is Ethiopia's balm yard and we do not have leprosy. For ghosts
 only visit the leper's home.
 
 This poison is for all bad spirits it is No. 666 it is good for the Pope
-of Rome and the Monarch of hell bottom [you](errata.htm#0) will not be
+of Rome and the Monarch of hell bottom [you](errata.htm#0.md) will not be
 here to grudge, or obeah, or rob the people nor breed up the young girls
 and treat them like dog.
 
@@ -62,4 +62,4 @@ baptism is a very important subject to Black Supremacy.
 
 ------------------------------------------------------------------------
 
-[Next: How to Fast](tpk08)
+[Next: How to Fast](tpk08.md)

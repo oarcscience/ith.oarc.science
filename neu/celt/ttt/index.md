@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,16 +23,16 @@ Legends](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](ttt00)  
-[Preface](ttt01)  
-[Introduction](ttt02)  
-[The Story of Tom Tit Tot](ttt03)  
-[Variations of Tom Tit Tot](ttt04)  
-[On the Diffusion of Stories](ttt05)  
-[Incidental features of Stories](ttt06)  
-[Barbaric Ideas about Names](ttt07)  
-[Magic through Tangible Things](ttt08)  
-[Magic through Intangible Things](ttt09)  
-[Taboo](ttt10)  
-[Words of Power](ttt11)  
-[The Name and the Soul](ttt12)  
+[Title Page](ttt00.md)  
+[Preface](ttt01.md)  
+[Introduction](ttt02.md)  
+[The Story of Tom Tit Tot](ttt03.md)  
+[Variations of Tom Tit Tot](ttt04.md)  
+[On the Diffusion of Stories](ttt05.md)  
+[Incidental features of Stories](ttt06.md)  
+[Barbaric Ideas about Names](ttt07.md)  
+[Magic through Tangible Things](ttt08.md)  
+[Magic through Intangible Things](ttt09.md)  
+[Taboo](ttt10.md)  
+[Words of Power](ttt11.md)  
+[The Name and the Soul](ttt12.md)  

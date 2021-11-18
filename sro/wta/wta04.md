@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](wta03)  [Next](wta05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](wta03)  [Next](wta05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540761/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540761/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *With the Adepts, An Adventure Among the Rosicrucians*, by Franz
 Hartmann \[1910\], at Intangible Textual Heritage
 
@@ -628,6 +628,6 @@ of nature and man."
 
 ------------------------------------------------------------------------
 
-[Next: III. Unexpected Revelations](wta05)
+[Next: III. Unexpected Revelations](wta05.md)
 
 </div>

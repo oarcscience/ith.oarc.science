@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale29)  [Next](tale31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale29)  [Next](tale31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ diverge, and then we parted, the dervish going towards
 
 [![THE DERVISH SEPARATES THE SMOKE AND THE PALACE APPEARS IN THE
 ROCK](tn/32300.jpg)  
-Click to enlarge](img/32300.jpg)  
+Click to enlarge](img/32300.jpg.md)  
 THE DERVISH SEPARATES THE SMOKE AND THE PALACE APPEARS IN THE ROCK  
 
 <span id="page_324">p. 324</span> <span id="page_325">p. 325</span>
@@ -297,7 +297,7 @@ deaf
 <span id="img_32900"></span>
 
 [![THE DERVISH ANOINTS THE RIGHT EYE OF BABA-ABDALLA](tn/32900.jpg)  
-Click to enlarge](img/32900.jpg)  
+Click to enlarge](img/32900.jpg.md)  
 THE DERVISH ANOINTS THE RIGHT EYE OF BABA-ABDALLA  
 
 to my prayers and cries, and I should soon have been dead of hunger and
@@ -324,4 +324,4 @@ prayed that honour and happiness might be his portion for ever.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Sidi-Nouman](tale31)
+[Next: The Story of Sidi-Nouman](tale31.md)

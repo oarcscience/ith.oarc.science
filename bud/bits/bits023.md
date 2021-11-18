@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits022) [Next](bits024)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits022) [Next](bits024.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ of the burden.
 passion, and finding delight in every existence,--desire, namely, for
 sensual pleasure, desire for permanent existence, desire for transitory
 existence.<span id="page_160_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_160_note_1) This, O priests, is
+class="small">1</span></sup>](#page_160_note_1.md) This, O priests, is
 called the taking up of the burden.
 
    "And what, O priests, is the laying down of the burden?
@@ -267,7 +267,7 @@ From misery no release is found.<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 24. Inanimate Nature](bits024)
+[Next: § 24. Inanimate Nature](bits024.md)
 
 ------------------------------------------------------------------------
 
@@ -275,8 +275,8 @@ From misery no release is found.<br />
 
 <span id="footnotes_page_160">p. 160</span>
 
-<span id="page_160_note_1"></span>[1](#page_160_fr_1) For these three
-desires see [p. 188](bits032.htm#page_188).
+<span id="page_160_note_1"></span>[1](#page_160_fr_1.md) For these three
+desires see [p. 188](bits032.htm#page_188.md).
 
  
 

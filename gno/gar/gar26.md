@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar25)  [Next](gar27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar25)  [Next](gar27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ out of the substance of the
 <span id="page_177">p. 177</span>
 
 <span class="contnote">\[paragraph continues\]</span> Sun, that benefits
-the souls and bodies of mortals. <span id="fr_88"></span>[\*](#fn_87)
+the souls and bodies of mortals. <span id="fr_88"></span>[\*](#fn_87.md)
 Hygieia again is the influence of the nature of the Moon, by which the
 bodies of things animated are holpen, being strengthened by her
 health-giving sway. For this reason, therefore, the figure of the
@@ -110,10 +110,10 @@ potency.
 
  
 
-<span id="img_fig08"></span> ![FIG. 8.](img/fig08.jpg)  
+<span id="img_fig08"></span> ![FIG. 8.](img/fig08.jpg.md)  
 FIG. 8.
 
-[(\*)](gar71.htm#an_fig08)
+[(\*)](gar71.htm#an_fig08.md)
 
  
 
@@ -121,9 +121,9 @@ FIG. 8.
 
 ### Footnotes
 
-<span id="fn_87"></span>[177:\*](gar26.htm#fr_88) Or in modern
+<span id="fn_87"></span>[177:\*](gar26.htm#fr_88.md) Or in modern
 scientific phrase, *Aesculapius* is but another name for *electricity*.
 
 ------------------------------------------------------------------------
 
-[Next: Death, as Depicted in Ancient Art](gar27)
+[Next: Death, as Depicted in Ancient Art](gar27.md)

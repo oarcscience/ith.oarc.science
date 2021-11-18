@@ -8,8 +8,8 @@ pathh1: "guin.jpg"
 alttext1: "Guinevere [1857] -- William Morris"
 titleh1: "The Works of William Morris"
 ---
-[The Earthly Paradise](#ep)  [Translations from the Sagas](#saga) 
-[Utopian](#utopia)  [Fantasy](#fantasy) 
+[The Earthly Paradise](#ep)  [Translations from the Sagas](#saga.md) 
+[Utopian](#utopia)  [Fantasy](#fantasy.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,20 +23,20 @@ and writer William Morris.
 ### The Earthly Paradise
 
 <span class="c_e"> <span class="c_t">[The Earthly Paradise,
-(March-August)](ep1/index)</span>   by <span class="c_a">William
+(March-August)](ep1/index.md)</span>   by <span class="c_a">William
 Morris</span> \[<span class="c_d">1868</span>\]   <span
 class="c_b">William Morris' epic-length poetry cycle set in the worlds
 of Classical mythology and the fairytale.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Earthly Paradise,
-(September-November)](ep2/index)</span>   by <span class="c_a">William
+(September-November)](ep2/index.md)</span>   by <span class="c_a">William
 Morris</span> \[<span class="c_d">1870</span>\]   <span class="c_b">This
 part of Morris' epic includes a lengthly retelling of an incident from
 the Icelandic Laxdaela Saga, the Lovers of Gudrun, which some consider
 among Morris' best poetry</span>. </span>
 
 <span class="c_e"> <span class="c_t">[The Earthly Paradise,
-(December-February)](ep3/index)</span>   by <span class="c_a">William
+(December-February)](ep3/index.md)</span>   by <span class="c_a">William
 Morris</span> \[<span class="c_d">1870</span>\]   <span class="c_b">The
 conclusion of Morris' epic work, including the tale of Hercules and the
 Golden Apples; Aslaug, the daughter of Sigurd and Brynhild; Bellerophon;
@@ -47,13 +47,13 @@ and two tales of the Goddess Venus.</span> </span>
 <span id="saga"></span>
 
 <span class="c_e"> <span class="c_t">[The Story of Grettir the
-Strong](../gre/index)</span>  
+Strong](../gre/index.md)</span>  
 translated by <span class="c_a">Eirikr Magnusson</span> and <span
 class="c_a">William Morris</span> \[<span class="c_d">1869</span>\].
 </span>
 
 <span class="c_e"> <span class="c_t">[The Story of the
-Volsungs](../vlsng/index)</span>   by <span class="c_a">William
+Volsungs](../vlsng/index.md)</span>   by <span class="c_a">William
 Morris</span> and <span class="c_a">Eirikr Magnusson</span> \[<span
 class="c_d">1888</span>\]   <span class="c_b">includes extracts from the
 Poetic Edda.</span> </span>
@@ -63,7 +63,7 @@ Poetic Edda.</span> </span>
 ### Utopian
 
 <span class="c_e"> <span class="c_t">[News from
-Nowhere](../../utopia/nfnw/index)</span>   by <span class="c_a">William
+Nowhere](../../utopia/nfnw/index.md)</span>   by <span class="c_a">William
 Morris</span> \[<span class="c_d">1891</span>\]   <span
 class="c_b">William Morris' vision of a socialist England.</span>
 </span>
@@ -78,52 +78,52 @@ fairy-tale elements. Morris' mastery of English prose make each and
 every one of these books a joy to read.
 
 <span class="c_e"> <span class="c_t">[The Hollow
-Land](thol/index)</span>   by <span class="c_a">William Morris</span>
+Land](thol/index.md)</span>   by <span class="c_a">William Morris</span>
 \[<span class="c_d">1856</span>\]   <span class="c_b">One of William
 Morris' first fantasy tales, featuring a quest for a realm only
 half-glimpsed by mortals.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Roots of the
-Mountains](rotm/index)</span>   by <span class="c_a">William
+Mountains](rotm/index.md)</span>   by <span class="c_a">William
 Morris</span> \[<span class="c_d">1889</span>\]   <span class="c_b">A
 fantasy novel set in the world of the Icelandic sagas.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The House of the
-Wolfings](thow/index)</span>   by <span class="c_a">William
+Wolfings](thow/index.md)</span>   by <span class="c_a">William
 Morris</span> \[<span class="c_d">1889</span>\]   <span
 class="c_b">Morris' fantasy novel set among the ancient Germanic tribes
 was cited as in influence Tolkien.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Story of the Glittering
-Plain](sglt/index)</span>   by <span class="c_a">William Morris</span>
+Plain](sglt/index.md)</span>   by <span class="c_a">William Morris</span>
 \[<span class="c_d">1891</span>\]   <span class="c_b">A quest for a
 stolen fiance leads us into the utopian Land of the Glittering
 Plain.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Wood Beyond the
-World](../../ring/wbw/index)</span>   by <span class="c_a">William
+World](../../ring/wbw/index.md)</span>   by <span class="c_a">William
 Morris</span> \[<span class="c_d">1894</span>\]   <span class="c_b">The
 Wood Beyond the World is one of Morris' masterpieces which he originally
 published using hand-set type.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Child Christopher and Goldilind
-the Fair](chc/index)</span>   by <span class="c_a">William Morris</span>
+the Fair](chc/index.md)</span>   by <span class="c_a">William Morris</span>
 \[<span class="c_d">1895</span>\]   <span class="c_b">Morris' retelling
 of the medieval Lay of Havelock the Dane, cited as an influence on C.S.
 Lewis' Prince Caspian.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Well at the World's
-End](wwe/index)</span>   by <span class="c_a">William Morris</span>
+End](wwe/index.md)</span>   by <span class="c_a">William Morris</span>
 \[<span class="c_d">1896</span>\]   <span class="c_b">A classic journey
 'there and back again' to find a well which confers
 near-imortality.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Water of the Wondrous
-Isles](wwi/index)</span>   by <span class="c_a">William Morris</span>
+Isles](wwi/index.md)</span>   by <span class="c_a">William Morris</span>
 \[<span class="c_d">1897</span>\]   <span class="c_b">One of the first
 fantasy novels with a well-developed female heroine.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Sundering
-Flood](sunf/index)</span>   by <span class="c_a">William Morris</span>
+Flood](sunf/index.md)</span>   by <span class="c_a">William Morris</span>
 \[<span class="c_d">1897</span>\]   <span class="c_b">Morris' last
 fantasy novel, finished on his death-bed.</span> </span>

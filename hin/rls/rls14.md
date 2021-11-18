@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls13)  [Next](rls15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls13)  [Next](rls15.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Râmak*ri*sh*n*a, we are told, was born in the village of Kamârpukar, in
 the Zillah Hugli, situated about four miles to the west of the Jahânâbad
 subdivision, and thirty-two miles south of Burdwan. His life on earth
 began on the 20th of February, 1833, and ended the 16th of August, 1886,
-1 a.m. <span id="fr_8"></span>[1](#fn_8) The village in which he was
+1 a.m. <span id="fr_8"></span>[1](#fn_8.md) The village in which he was
 born was inhabited chiefly by people of the lower castes, mostly
 blacksmiths, Karmakars, or in familiar abbreviation, Kamars, and hence
 called Kamârpukar, with some sprinkling of carpenters, cowherds
@@ -839,10 +839,10 @@ with the same result.
 
 ### Footnotes
 
-<span id="fn_8"></span>[30:1](rls14.htm#fr_8) Even dates are inaccurate
+<span id="fn_8"></span>[30:1](rls14.htm#fr_8.md) Even dates are inaccurate
 in the biographical notices of Râmak*ri*sh*n*a, as published in various
 Indian papers immediately after his death.
 
 ------------------------------------------------------------------------
 
-[Next: Remarks on Râmak*ri*sh*n*a's Life](rls15)
+[Next: Remarks on Râmak*ri*sh*n*a's Life](rls15.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](can00) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](can00.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ to Eternity. IX. This End Was in God the Creator from Eternity and Is to
 Eternity, and thence the Preservation of the Created Universe Is from
 Him. X. God through His Divine Proceeding Is Omnipotence, Omnipresence,
 and Omniscience.-(Apoc. Rev., n. 31.)\]  <span
-id="fr_0"></span>[3-1](#fn_0)
+id="fr_0"></span>[3-1](#fn_0.md)
 
 <span class="margnote"><span id="4.">4.</span></span>
 
@@ -124,7 +124,7 @@ impressed on varieties and propagations in the world; on varieties, in
 that there is not one thing precisely like another; and on propagations,
 both animate and inanimate, in that the multiplication of one seed is to
 infinity, and prolification to eternity; besides many other
-things. <span id="fr_1"></span>[6-1](#fn_1) (3) There are certain
+things. <span id="fr_1"></span>[6-1](#fn_1) (3.md) There are certain
 forms-as the squaring of the circle, the hyperbola, series of numbers
 which tend to the infinite; the diversities of the human countenance,
 also of minds; also the angelic heaven of light can be infinitely
@@ -134,7 +134,7 @@ of God; in the same degree, and in the same manner, if he lives well, he
 becomes a receptacle and image of God. 13. It is vain to think what was
 before the world, also what is outside the world; since before the world
 there was no time, and outside the world there is no space. <span
-id="fr_2"></span>[6-2](#fn_2) 14. A man from thought concerning these
+id="fr_2"></span>[6-2](#fn_2.md) 14. A man from thought concerning these
 things may fall into delirium, unless he is to a certain extent
 withdrawn by God from the idea of space and time, which inheres in each
 and all things of human thought, and adheres to angelic thought.
@@ -142,7 +142,7 @@ and all things of human thought, and adheres to angelic thought.
 <span class="margnote"><span id="7.">7.</span></span>
 
 CHAPTER IV. THE CREATION OF THE UNIVERSE BY THE ONE AND INFINITE
-GOD. <span id="fr_3"></span>[7-1](#fn_3) 1. No one can conceive in idea,
+GOD. <span id="fr_3"></span>[7-1](#fn_3.md) 1. No one can conceive in idea,
 and perceive that God created the universe, unless he knows first
 something concerning the spiritual world and its sun, and also
 concerning the correspondence, and thence the conjunction, of spiritual
@@ -169,7 +169,7 @@ the spiritual exercises its activities and performs its functions
 through the natural. 11. In the spiritual world an idea of creation
 perpetually exists; since all things which there exist and are made are
 created in a moment by Jehovah God. 12. Around every angel in heaven
-there is an idea of creation. <span id="fr_4"></span>[7-2](#fn_4) 13.
+there is an idea of creation. <span id="fr_4"></span>[7-2](#fn_4.md) 13.
 There is a correspondence between those things which are of the
 spiritual world and those which are of the natural world, and by
 correspondence conjunction of both. 14. From these things it is evident,
@@ -251,7 +251,7 @@ natural world; and from these ultimates it returns to those firsts, and
 thus to God. 6. This most universal end, or that end of ends from God,
 is an angelic heaven from the human race. 7. That most universal end is
 the complex of all ends, and of their progressions in both worlds, the
-spiritual and the natural. 8. <span id="fr_5"></span>[10-1](#fn_5) That
+spiritual and the natural. 8. <span id="fr_5"></span>[10-1](#fn_5.md) That
 most universal end is the inmost, and, as it were, the life and soul,
 the force and endeavor, in all and each created thing. 9. Thence there
 is a continued connection of all things in the created universe, from
@@ -297,7 +297,7 @@ the human understanding; because the Omnipotence of God is Infinite
 Power, the Omniscience of God is Infinite Wisdom, and the Omnipresence
 of God is Infinite Presence, in all things which have proceeded, and
 which do proceed, from Him; and the Divine Infinite does not fall within
-the finite understanding. <span id="fr_6"></span>[12-1](#fn_6) 2. That
+the finite understanding. <span id="fr_6"></span>[12-1](#fn_6.md) 2. That
 God is Omnipotent, Omniscient, and Omnipresent, is acknowledged without
 a rational investigation; since this flows in from God into the higher
 region of the human mind and thence into an acknowledgment with all who
@@ -327,7 +327,7 @@ Evils, by the Divine Providence, which also is universal in the most
 particular things, are more and more removed from the interiors, and are
 cast out to the exteriors, and thus alienated and separated, lest they
 should inflict any injury on things internal, which are from the
-Divine. <span id="fr_7"></span>[12-2](#fn_7)
+Divine. <span id="fr_7"></span>[12-2](#fn_7.md)
 
 <span class="margnote"><span id="13.">13.</span></span>
 
@@ -387,7 +387,7 @@ Scripture, and according to reason enlightened there and from it.
 <span class="margnote"><span id="16.">16.</span></span>
 
 CHAPTER III. THIS DIVINE TRUTH IS MEANT BY "THE WORD WHICH WAS MADE
-FLESH" (John i.). <span id="fr_8"></span>[16-1](#fn_8) 1. The Word, in
+FLESH" (John i.). <span id="fr_8"></span>[16-1](#fn_8.md) 1. The Word, in
 the Sacred Scripture, signifies various things; as that it signifies a
 thing which really exists; also the thought of the mind, and thence
 speech. 2. In the first place it signifies everything which exists and
@@ -764,7 +764,7 @@ the church then did with the Word. Almost the same was done with the
 prophets, because they represented the Lord as to the Word, therefore
 with the Lord, who was the Prophet Himself, because the Word itself.
 That it was so done was according to Divine order. <span
-id="fr_9"></span>[30-1](#fn_9) 8. An image of the victories of the Lord
+id="fr_9"></span>[30-1](#fn_9.md) 8. An image of the victories of the Lord
 over the hells, and of the glorification of His Human, by temptations,
 is presented in the regeneration of man; for as the Lord subjugated the
 hells and made His Human Divine, so with man He subjugates them and
@@ -773,7 +773,7 @@ Lord snatches man from the jaws of the devil, that is, of hell, and
 raises him to Himself in heaven; and that He does this with man by
 withdrawing him from evils, which is effected through contrition and
 repentance. These two are the temptations which are the means of
-regeneration. <span id="fr_10"></span>[30-2](#fn_10)
+regeneration. <span id="fr_10"></span>[30-2](#fn_10.md)
 
 <span class="margnote"><span id="31.">31.</span></span>
 
@@ -806,7 +806,7 @@ incarnate. 13. And there could have been no salvation except by God
 incarnate, thus by the Lord, the Redeemer and Saviour; which salvation
 is perpetual redemption. 14. Hence it is, that they who believe in the
 Lord Jesus Christ have eternal life; and they who do not believe in Him
-have not that life. <span id="fr_11"></span>[31-1](#fn_11)
+have not that life. <span id="fr_11"></span>[31-1](#fn_11.md)
 
 <span class="margnote"><span id="32.">32.</span></span>
 
@@ -920,7 +920,7 @@ Holy, which is meant by the Holy Spirit, is not transferred from man to
 man, but from the Lord through man to man. 6. God the Father does not
 send the Holy Spirit, that is, His Divine, through the Lord into man;
 but the Lord sends it from God the Father. <span
-id="fr_12"></span>[36-1](#fn_12) 7. The clergyman, because he is to
+id="fr_12"></span>[36-1](#fn_12.md) 7. The clergyman, because he is to
 teach doctrine from the Word concerning the Lord, and concerning
 redemption and salvation from Him, is to be inaugurated by the promise,
 \[sponsionem\] of the Holy Spirit, and by the representation of its
@@ -928,7 +928,7 @@ transfer; but it is received by the clergyman according to the faith of
 his life. 8. The Divine, which is meant by the Holy Spirit, proceeds
 from the Lord through the Clergy to the laity by preaching, according to
 the reception of the doctrine of truth thence. <span
-id="fr_13"></span>[36-2](#fn_13) 9. And by the sacrament of the Holy
+id="fr_13"></span>[36-2](#fn_13.md) 9. And by the sacrament of the Holy
 Supper, according to repentance before it.
 
 <span class="margnote"><span id="37.">37.</span></span>
@@ -1352,7 +1352,7 @@ that every one is allotted a place in heaven, that is, in its societies,
 according to his idea of God; and every one in the hells according to
 his denial of God; moreover, that the denial of one God inheres in the
 ideas of those who have confirmed themselves in the Athanasian <span
-id="fr_14"></span>[44-1](#fn_14) Trinity. 8. A true soul and life is in
+id="fr_14"></span>[44-1](#fn_14.md) Trinity. 8. A true soul and life is in
 that man of the church who acknowledges the Lord the Son of God as the
 God of heaven and earth. That He is the God of heaven and earth, He
 Himself teaches in Matthew, and that He is the true God and eternal
@@ -1424,7 +1424,7 @@ distinguished by the name of their leaders, Luther, Melancthon, and
 Calvin, and in like manner each heretical sect, which sects are
 manifold. 3. But this predicted affliction and desolation appears in
 clear light in the spiritual world <span
-id="fr_15"></span>[46-1](#fn_15) since all men after death come into
+id="fr_15"></span>[46-1](#fn_15.md) since all men after death come into
 that world, and remain in the religion in which they were in the natural
 world; for the light there is spiritual light, which discloses all
 things. 4. When the clergy are there interrogated concerning God,
@@ -1438,7 +1438,7 @@ they utter, with a clear voice, three Gods. As to faith, they reply that
 it is a faith in God the Father, God the Son, and God the Holy Spirit;
 and that God the Father gives it, the Son mediates it, and the Holy
 Spirit operates it, thus in three Gods in order. <span
-id="fr_16"></span>[46-2](#fn_16) When further interrogated respecting
+id="fr_16"></span>[46-2](#fn_16.md) When further interrogated respecting
 that faith, whether they know its sign when it enters, and the sign that
 it is within, they reply, "What is it to know a sign? Is not this faith
 from the good pleasure, from the election of that one God only, and
@@ -1530,13 +1530,13 @@ New Heaven which is now being established by the Lord, is in faith and
 life according to that doctrine. CHAPTER XI. THE DIVINE TRINITY IS IN
 THE LORD GOD THE SAVIOUR, AND THEREFORE THE LORD GOD THE SAVIOUR IS
 ALONE TO BE APPROACHED, IN ORDER THAT THERE MAY BE SALVATION OR ETERNAL
-LIFE. <span id="fr_17"></span>[47-1](#fn_17)
+LIFE. <span id="fr_17"></span>[47-1](#fn_17.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[3-1](can01.htm#fr_0) \[ANNOTATIONS FROM THE
+<span id="fn_0"></span>[3-1](can01.htm#fr_0.md) \[ANNOTATIONS FROM THE
 MARGIN.\] Theological subjects occupy the highest region of the human
 mind. These are Innumerable. God is in the midst of them. There is
 Influx from Hire below into each and every thing as from a sun. Hence
@@ -1544,19 +1544,19 @@ speech, like knowledge of Him, pervades and fills all those things.
 Conjunction with Him makes man His image. Conjunction is effected
 through love and wisdom.
 
-<span id="fn_1"></span>[6-1](can01.htm#fr_1) \[ANNOTATIONS FROM THE
+<span id="fn_1"></span>[6-1](can01.htm#fr_1.md) \[ANNOTATIONS FROM THE
 MARGIN.\] OF THE ESSENCE AND EXISTENCE OF GOD; OF THE IMMENSITY AND
 ETERNITY OF GOD, or chiefly such things as shall illustrate them.
 
-<span id="fn_2"></span>[6-2](can01.htm#fr_2) ("Mundus") "world" is here
+<span id="fn_2"></span>[6-2](can01.htm#fr_2) ("Mundus".md) "world" is here
 used in the broad sense of the Latin term, meaning "the order of the
 universe, the heavens and the heavenly bodies."-Tr.
 
-<span id="fn_3"></span>[7-1](can01.htm#fr_3) See above concerning
+<span id="fn_3"></span>[7-1](can01.htm#fr_3.md) See above concerning
 Jehovah, or concerning the Esse of God; also n. 1; what is here lacking
 may be taken therefrom.
 
-<span id="fn_4"></span>[7-2](can01.htm#fr_4) \[ANNOTATION FROM THE
+<span id="fn_4"></span>[7-2](can01.htm#fr_4.md) \[ANNOTATION FROM THE
 MARGIN.\] In the spiritual world creation can be seen by the eye. In
 that world everything is created by the Lord instantaneously; houses and
 domestic utensils, foods and garments are created; fields, gardens, and
@@ -1570,15 +1570,15 @@ are there turned into evils. Hence it is evident that all things in the
 world are created by the Lord and are fixed by means of natural things
 which encompass them.
 
-<span id="fn_5"></span>[10-1](can01.htm#fr_5) In the Autograph, the
+<span id="fn_5"></span>[10-1](can01.htm#fr_5.md) In the Autograph, the
 three paragraphs now following were deleted by the author by a line
 drawn through them. So Nordenskold says. See following article. n.
 11.-Ed.
 
-<span id="fn_6"></span>[12-1](can01.htm#fr_6) \[ANNOTATION FROM THE
+<span id="fn_6"></span>[12-1](can01.htm#fr_6.md) \[ANNOTATION FROM THE
 MARGIN.\] All things proceed according to order. God is order.
 
-<span id="fn_7"></span>[12-2](can01.htm#fr_7) \[ANNOTATIONS FROM THE
+<span id="fn_7"></span>[12-2](can01.htm#fr_7.md) \[ANNOTATIONS FROM THE
 MARGIN.\] The Divine Omnipotence is \[exercised\] by means of His Human.
 This is "to sit at the right hand," and to be "The First and the Last"
 as is said of the Son of man in the Apocalypse, and there \[it is said\]
@@ -1592,7 +1592,7 @@ Himself came and made Himself the "Last." Then He performed miracles
 from Himself. Order was first created according to which God acts,
 wherefore God made Himself order.
 
-<span id="fn_8"></span>[16-1](can01.htm#fr_8) \[ANNOTATIONS FROM THE
+<span id="fn_8"></span>[16-1](can01.htm#fr_8.md) \[ANNOTATIONS FROM THE
 MARGIN.\] HYPOSTATIC WORD. The Son could not call Himself God, thus the
 Father. No "Son of God from eternity" could descend, according to the
 statements of the doctrine of the church of this day. Since it is
@@ -1604,13 +1604,13 @@ passages in the Word of the Old Testament concerning the Lord's Coming,
 collected in the Doctrine of the New Jerusalem concerning the Lord (n.
 6); and there, that Jehovah would come.)
 
-<span id="fn_9"></span>[30-1](can01.htm#fr_9) \[ANNOTATIONS FROM THE
+<span id="fn_9"></span>[30-1](can01.htm#fr_9.md) \[ANNOTATIONS FROM THE
 MARGIN.\] Of the representation of the state of the church by the
 prophets and also by Ezekiel, of whom four times it is said that "He
 bears the iniquities of the house of Israel" and that the Lord was
 called the "Greatest Prophet"-see Doctrine of the Lord (n 15-17).
 
-<span id="fn_10"></span>[30-2](can01.htm#fr_10) \[ANNOTATIONS FROM THE
+<span id="fn_10"></span>[30-2](can01.htm#fr_10.md) \[ANNOTATIONS FROM THE
 MARGIN.\] The Lord, as Prophet, bore the iniquities of the Jewish Church
 and did not take them away. His glorification or union with the Divine
 of His Father which was in Him as the soul In man, could not be effected
@@ -1623,7 +1623,7 @@ as an infant; while a boy \[He was as a boy\] and from boyhood. He
 increased in wisdom (Luke ii. 40-50). He could not be born wisdom but
 could become it according to order. He advanced to full conjunction.
 
-<span id="fn_11"></span>[31-1](can01.htm#fr_11) \[ANNOTATIONS FROM THE
+<span id="fn_11"></span>[31-1](can01.htm#fr_11.md) \[ANNOTATIONS FROM THE
 MARGIN.\] Redemption itself was the subjugation of the hells and the
 arrangement of the heavens into order, and thus a preparation for a new
 spiritual church. Without this redemption no man could have been saved,
@@ -1644,31 +1644,31 @@ falsities of faith cannot be conjoined with the good of charity.
 Predictions in Daniel and the Prophets concerning those successive
 states. Concerning Christ (Matt. xxiv.).
 
-<span id="fn_12"></span>[36-1](can01.htm#fr_12) \[ANNOTATIONS FROM THE
+<span id="fn_12"></span>[36-1](can01.htm#fr_12.md) \[ANNOTATIONS FROM THE
 MARGIN WHICH PERHAPS BELONG HERE.\] The Holy Spirit is the Divine
 Operation and virtue proceeding from the one God. It proceeds out of the
 Lord and from God the Father. It proceeds out of the Lord from God the
 Father and not contrariwise.
 
-<span id="fn_13"></span>[36-2](can01.htm#fr_13) It proceeds to the
+<span id="fn_13"></span>[36-2](can01.htm#fr_13.md) It proceeds to the
 clergy and from them to the laity. It flows into men who believe in the
 Lord, and if according to order, into the clergy, and thus through them
 into the laity.
 
-<span id="fn_14"></span>[44-1](can01.htm#fr_14) In Nordenskjold's copy
+<span id="fn_14"></span>[44-1](can01.htm#fr_14.md) In Nordenskjold's copy
 it is "Apostolic," in another handwriting, "Athanasian."
 
-<span id="fn_15"></span>[46-1](can01.htm#fr_15) \[NOTE FROM THE
+<span id="fn_15"></span>[46-1](can01.htm#fr_15.md) \[NOTE FROM THE
 MARGIN.\] And He now appears to me in most splendid light in London of
 the natural world.
 
-<span id="fn_16"></span>[46-2](can01.htm#fr_16) Dr. Tafel has, "De fide
+<span id="fn_16"></span>[46-2](can01.htm#fr_16.md) Dr. Tafel has, "De fide
 respondent, quod sit in Deum Patrem, Deum Filium, et Deum Spiritum
 Sanctum; et quod Deus Pater illam det, Filius illam mediat, et Spiritus
 Sanctus illam operetur, ita ordine in tres Deos. Dr. Worcester omits
 this clause.
 
-<span id="fn_17"></span>[47-1](can01.htm#fr_17) \[ANNOTATIONS OF THE
+<span id="fn_17"></span>[47-1](can01.htm#fr_17.md) \[ANNOTATIONS OF THE
 AUTHOR\] These things are explained according to the contents in the
 following numbers-Of the Sacred Scripture (n. 13. etc.). From the
 doctrine of the church of this day it follows that the Lord has no

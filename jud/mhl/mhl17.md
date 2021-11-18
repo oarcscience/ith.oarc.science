@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl16)  [Next](mhl18) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl16)  [Next](mhl18.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ helping to bring their religion to its fixed and final shape.
 
 ------------------------------------------------------------------------
 
-[Next: The Commentaries of Ibn Ezra (Extracts)](mhl18)
+[Next: The Commentaries of Ibn Ezra (Extracts)](mhl18.md)

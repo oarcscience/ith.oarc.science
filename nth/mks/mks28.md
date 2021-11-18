@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](mks27)  [Next](mks29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](mks27)  [Next](mks29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
 Textual Heritage
 
@@ -104,7 +104,7 @@ ELECTRICITY—A material agency which, when in
 
 motion, exhibits magnetic, chemical and thermal effects.
 
-ELOHIM—The Hebrew title of most frequent [occurrence](errata.htm#6) in
+ELOHIM—The Hebrew title of most frequent [occurrence](errata.htm#6.md) in
 the Old Testament, expressing absolute Divine power.
 
 EVOLUTION The unity of action exhibited in the operations of nature; the
@@ -429,4 +429,4 @@ the mind; the realization of desires; volition.
 
 ------------------------------------------------------------------------
 
-[Next: Questions and Answers](mks29)
+[Next: Questions and Answers](mks29.md)

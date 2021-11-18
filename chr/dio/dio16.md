@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio15)  [Next](dio17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio15)  [Next](dio17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ let us now at last, with your good pleasure, approach the most difficult
 subject in the whole discourse. For the Word of God predicates
 everything, singly and collectively, respecting the Cause of all, and
 extols Him both as *Perfect* and as *One* <span
-id="fr_57"></span>[58](#fn_57) . He is then perfect not only as
+id="fr_57"></span>[58](#fn_57.md) . He is then perfect not only as
 self-perfect, and solitarily separated within Himself, by Himself, and
 throughout most perfect, but also as super-perfect, as beseems His
 pre-eminence over all, and limiting every infinitude, and surpassing
@@ -155,7 +155,7 @@ we do not fail in the conception and expression thereof. But, let these
 things be held and spoken in such way, as is well pleasing to Almighty
 God; and let this indeed be our conclusion to the intelligible Divine
 Names. But I will now pass to the *Symbolic Theology* <span
-id="fr_58"></span>[59](#fn_58) , with God for my Guide.
+id="fr_58"></span>[59](#fn_58.md) , with God for my Guide.
 
 <span id="ii.ii.ii.xiii-p10"></span>27 *October,* 1896.
 
@@ -163,14 +163,14 @@ id="fr_58"></span>[59](#fn_58) , with God for my Guide.
 
 ### Footnotes
 
-<span id="fn_57"></span>[122:58](dio16.htm#fr_57) <span
+<span id="fn_57"></span>[122:58](dio16.htm#fr_57.md) <span
 id="ii.ii.ii.xiii-p3.1"></span>\[Greek\]. It should be noted that where
 He, Him and His are used in this Section, the Neuter is used in the
 Greek.
 
-<span id="fn_58"></span>[127:59](dio16.htm#fr_58) <span
+<span id="fn_58"></span>[127:59](dio16.htm#fr_58.md) <span
 id="ii.ii.ii.xiii-p9.1"></span>See letter to Titus.
 
 ------------------------------------------------------------------------
 
-[Next: Note](dio17)
+[Next: Note](dio17.md)

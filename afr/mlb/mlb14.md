@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb13)  [Next](mlb15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb13)  [Next](mlb15.md) 
 
 ------------------------------------------------------------------------
 
@@ -797,4 +797,4 @@ and he died. She came down from the tree and the brothers took her home.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII: Of Were-Wolves, Halfmen, Gnomes, Goblins, and Other
-Monsters](mlb15)
+Monsters](mlb15.md)

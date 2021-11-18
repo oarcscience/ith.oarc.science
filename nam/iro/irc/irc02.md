@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](irc01)  [Next](irc03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](irc01)  [Next](irc03.md) 
 
 ------------------------------------------------------------------------
 
@@ -247,7 +247,7 @@ of the one plane of thought differs much from that of the other.
 
 The idea that the bodies of man and of the animals were created directly
 out of specific portions of the earth by Tharonhiawakon <span
-id="fr_0"></span>[a](#fn_0) is a comparatively modern and erroneous
+id="fr_0"></span>[a](#fn_0.md) is a comparatively modern and erroneous
 interpretation of the original
 
 <span id="page_138">p. 138</span>
@@ -258,7 +258,7 @@ figurative character of which is usually not apprehended. The thought
 originally expressed by the ancient teachers of the Iroquoian and other
 barbaric peoples was that the earth through the life, or life power,
 innate and immanent in its substance--the life personated by
-Tharonhiawakon <span id="fr_1"></span>[a](#fn_1)--by feeding itself to
+Tharonhiawakon <span id="fr_1"></span>[a](#fn_1.md)--by feeding itself to
 them produces plants and fruits and vegetables which serve as food for
 birds and animals, all which in their turn become food for men, a
 process whereby the life of the earth is transmuted into that of man and
@@ -323,7 +323,7 @@ the chief characters of the legends, Winter, the man-being of frosts and
 snow and ice. This episode evidently portrays the annual hibernation of
 the animals and insects and the migration of the birds caused by the
 winter power, which is called Tawiskaron by the Mohawks, <span
-id="fr_2"></span>[a](#fn_2) Ohaä by the Onondagas, and Othä’kwenda’ by
+id="fr_2"></span>[a](#fn_2.md) Ohaä by the Onondagas, and Othä’kwenda’ by
 the Senecas.
 
 The author desires to acknowledge his many obligations to the officers
@@ -388,14 +388,14 @@ masculine; fem. = feminine; indef. = indefinite.
 
 ### Footnotes
 
-<span id="fn_0"></span>[137:a](irc02.htm#fr_0) "He grasps the sky (by
+<span id="fn_0"></span>[137:a](irc02.htm#fr_0.md) "He grasps the sky (by
 memory)."
 
-<span id="fn_1"></span>[138:a](irc02.htm#fr_1) He is also called
+<span id="fn_1"></span>[138:a](irc02.htm#fr_1.md) He is also called
 Odendonnia, Sprout, or Sapling, and Ioskaha, having apparently the same
 meaning.
 
-<span id="fn_2"></span>[139:a](irc02.htm#fr_2) The Mohawk epithet is
+<span id="fn_2"></span>[139:a](irc02.htm#fr_2.md) The Mohawk epithet is
 commonly interpreted "flint," but its literal and original meaning
 "crystal-clad" or "ice-clad," the two significations being normal, as
 crystal, flint and ice have a similar aspect and fracture. The original
@@ -404,4 +404,4 @@ not connote ice, but simply denote flint.
 
 ------------------------------------------------------------------------
 
-[Next: An Onondaga Version](irc03)
+[Next: An Onondaga Version](irc03.md)

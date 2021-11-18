@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork04)  [Next](gork06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork04)  [Next](gork06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ Narendra: I would look upon them as a lot of barking dogs.
 <span class="margnote">God dwells in all.</span>The Bhagavân laughed and
 said: No, my friend, do not go so far as that. You should love everyone;
 no one is a stranger; God dwells in all beings; without Him nothing can
-exist. When Prahlâda <span id="fr_15"></span>[\*](#fn_15) realized Him,
+exist. When Prahlâda <span id="fr_15"></span>[\*](#fn_15.md) realized Him,
 the Lord asked him to crave a boon. Prahlâda replied: "When I have seen
 Thee, what other boon do I need?" The Lord asked him again. He then
 prayed: "If Thou wishest to grant me a boon, do Thou forgive those who
@@ -105,7 +105,7 @@ people or with those who do not love God. Our relation with
 them must not be very close. It is wise to avoid the company of such
 people.
 
-Narendra: <span id="fr_16"></span>[\*](#fn_16) What attitude should we
+Narendra: <span id="fr_16"></span>[\*](#fn_16.md) What attitude should we
 hold when wicked people come to disturb our peace or do actually offend
 us?
 
@@ -213,7 +213,7 @@ the third class, the *Muktas*. There are some fish, however, that are
 naturally cautious and never fall into the net. Such are the souls of
 the fourth class, the *Nitya-muktas*, who are never caught in the net of
 the phenomenal world, but who remain eternally free, like Nârada <span
-id="fr_17"></span>[\*](#fn_17) and others like him. Most of the fish,
+id="fr_17"></span>[\*](#fn_17.md) and others like him. Most of the fish,
 
 <span id="page_45">p. 45</span>
 
@@ -607,17 +607,17 @@ of wisdom in the chamber of the soul!"
 
 ### Footnotes
 
-<span id="fn_15"></span>[37:\*](gork05.htm#fr_15) See note page
-[128](gork07.htm#page_128).
+<span id="fn_15"></span>[37:\*](gork05.htm#fr_15.md) See note page
+[128](gork07.htm#page_128.md).
 
-<span id="fn_16"></span>[40:\*](gork05.htm#fr_16) Narendra was a
+<span id="fn_16"></span>[40:\*](gork05.htm#fr_16.md) Narendra was a
 Sannyâsin disciple of Râmakrishna. He was afterwards known as the Swâmi
 Vivekânanda.
 
-<span id="fn_17"></span>[44:\*](gork05.htm#fr_17) See note page
-[168](gork08.htm#page_168).
+<span id="fn_17"></span>[44:\*](gork05.htm#fr_17.md) See note page
+[168](gork08.htm#page_168.md).
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. The Bhagavân With Certain of His Householder
-Disciples](gork06)
+Disciples](gork06.md)

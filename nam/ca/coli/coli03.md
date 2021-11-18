@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](coli02)  [Next](coli04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](coli02)  [Next](coli04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Culture of the Luiseño Indians*, by Philip Stedman Sparkman,
 \[1908\], at Intangible Textual Heritage
 
@@ -104,9 +104,9 @@ near the locality named after them.
 
 |                   |                                                                                |
 |-------------------|--------------------------------------------------------------------------------|
-| Totakamilum       | Coronado Islands <span id="fr_0"></span>[1](#fn_0)                             |
-| Kimki harasa      | San Clemente Island <span id="fr_1"></span>[2](#fn_1)                          |
-| Ponga’            | Santa Catalina Island <span id="fr_2"></span>[2](#fn_1)                        |
+| Totakamilum       | Coronado Islands <span id="fr_0"></span>[1](#fn_0.md)                             |
+| Kimki harasa      | San Clemente Island <span id="fr_1"></span>[2](#fn_1.md)                          |
+| Ponga’            | Santa Catalina Island <span id="fr_2"></span>[2](#fn_1.md)                        |
 | Palimai           | Slough at mouth of Agua Hedionda Creek                                         |
 | Exla tovotva      | Colorado desert                                                                |
 | Paauw             | Palomar mountain                                                               |
@@ -183,11 +183,11 @@ near the locality named after them.
 
 ### Footnotes
 
-<span id="fn_0"></span>[191:1](coli03.htm#fr_0) Compare the names of
+<span id="fn_0"></span>[191:1](coli03.htm#fr_0.md) Compare the names of
 places given in the present series of publications, IV, 142-150, 1907,
 and VIII, 108 *seq*., 1908.
 
-<span id="fn_1"></span>[191:2](coli03.htm#fr_2) The names and
+<span id="fn_1"></span>[191:2](coli03.htm#fr_2.md) The names and
 identifications of these islands were variously given by different
 informants of the author. Cf. ibid., VIII, 108, note 80. A San Juan
 Capistrano Indian in 1907 said: "Santa Catalina es Kinke (qīnqe). San
@@ -196,4 +196,4 @@ cosa."
 
 ------------------------------------------------------------------------
 
-[Next: Vegetable Food](coli04)
+[Next: Vegetable Food](coli04.md)

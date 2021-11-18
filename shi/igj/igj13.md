@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj12)  [Next](igj14) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj12)  [Next](igj14.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ memory,
 
 ------------------------------------------------------------------------
 
-[Next: Ingwa-banashi](igj14)
+[Next: Ingwa-banashi](igj14.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl061)  [Next](cohl063) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl061)  [Next](cohl063.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 "'The messengers have given the promise to the prophet that he will be
 able to judge diseases and prescribe remedies. <span
-id="fr_52"></span>[1](#fn_52) So also he will be able to see far down
+id="fr_52"></span>[1](#fn_52.md) So also he will be able to see far down
 into the earth as far as runs the elm's root. Then if any trouble comes
 and anyone asks the help of the prophet, he must give it freely, but
 they who ask must give an offering of tobacco. Now there will be some in
@@ -26,9 +26,9 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_52"></span>[49:1](cohl062.htm#fr_52) See [p.
-113](cohl150.htm#page_113), medicine men.
+<span id="fn_52"></span>[49:1](cohl062.htm#fr_52.md) See [p.
+113](cohl150.htm#page_113.md), medicine men.
 
 ------------------------------------------------------------------------
 
-[Next: Section 52](cohl063)
+[Next: Section 52](cohl063.md)

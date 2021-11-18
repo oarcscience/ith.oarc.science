@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar013) [Next](gbar015)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar013) [Next](gbar015.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ alms, but he stole the tenth part of everything.
 
 ------------------------------------------------------------------------
 
-[Next](gbar015)
+[Next](gbar015.md)
 
  
 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](cair05)  [Next](cair07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](cair05)  [Next](cair07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Confucianism and Its Rivals*, by Herbert A. Giles, \[1915\], at
 Intangible Textual Heritage
 
@@ -361,7 +361,7 @@ At long intervals and slowly, with restrained song.
 Then arrange the pipes and the psaltery, and lift up your voices,  
 And the medium will begin to dance in his grand vestments.  
 Delicious perfumes fill the hall;  
-The five notes <span id="fr_5"></span>[1](#fn_5) break into harmonious
+The five notes <span id="fr_5"></span>[1](#fn_5.md) break into harmonious
 music,  
 And God is happy and at peace.</span>
 
@@ -744,7 +744,7 @@ In our present connexion, this Emperor plays an
 important part as having been the first monarch to ascend and worship
 Mt. T‘ai in Shantung, which is one, and in a religious sense the most
 important, of the five sacred mountains of China. <span
-id="fr_6"></span>[1](#fn_6) By this date, the old monotheism, with its
+id="fr_6"></span>[1](#fn_6.md) By this date, the old monotheism, with its
 associated worship of spiritual ancestors, had become extensively
 overlaid with various forms of nature worship. The sun, moon, and stars
 had long shared with rivers, mountains, trees, thunder, the house-door,
@@ -983,12 +983,12 @@ influence, the religious life of the Chinese.
 
 ### Footnotes
 
-<span id="fn_5"></span>[108:1](cair06.htm#fr_5) Of the ancient Chinese
+<span id="fn_5"></span>[108:1](cair06.htm#fr_5.md) Of the ancient Chinese
 scale.
 
-<span id="fn_6"></span>[120:1](cair06.htm#fr_6) See *Le T‘ai Chan*, by
+<span id="fn_6"></span>[120:1](cair06.htm#fr_6.md) See *Le T‘ai Chan*, by
 Prof. E. Chavannes.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture V. B.C. 200-A.D. 100](cair07)
+[Next: Lecture V. B.C. 200-A.D. 100](cair07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl21)  [Next](isl23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl21)  [Next](isl23.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ etc.--were permitted to apply their own legal systems in Muslim states,
 but certain aspects of the Muslim law applied to them as well,
 especially when they offended against Muslim morality.
 
-In giving his *fatwas*, Ebū [Su‘ūd](errata.htm#1) is guided by the
+In giving his *fatwas*, Ebū [Su‘ūd](errata.htm#1.md) is guided by the
 Ḥanafī School, the official school of the Ottoman Empire.
 
  
@@ -62,7 +62,7 @@ and if they do not do it, he should take up arms against them. And if
 the people of a town neglect the Call to Prayer, the performance of
 prayer, and the congregational prayers, he must fight them, for these
 are earmarks and outward signs of religion." <span
-id="fr_76"></span>[28](#fn_76)
+id="fr_76"></span>[28](#fn_76.md)
 
 2\. *Question*. One of the conditions of marriage is the *walī* (the
 legally empowered representative of the bride), who is a necessary
@@ -106,7 +106,7 @@ The original of the Imperial Decree is preserved in the Law courts of
 Istanbul, Pera, and Scutari, forbidding such practices. The corruptness
 of such practices is clearer than day; if they are followed, the
 families of certain people will come to ruin! <span
-id="fr_77"></span>[29](#fn_77)
+id="fr_77"></span>[29](#fn_77.md)
 
 4\. *Question*: If the Jew Bakr says to the Christian Bishr, "Your
 Prophet Jesus (God's blessing be upon him!) was (God forbid!) an
@@ -117,7 +117,7 @@ to the Law?
 
 *Answer*: The unbelievers who publicly abuse the prophets (God's
 blessing be upon them all) shall be put to death; Ebū Su‘ūd wrote this
-. <span id="fr_78"></span>[30](#fn_78)
+. <span id="fr_78"></span>[30](#fn_78.md)
 
 5\. *Question*: If Zayd says "The book *Fuṡūṡ al-Ḥikam* of the *Ṡūfī*
 Shaykh Ibn al-‘Arabī is outside the sublime *Sharī‘a* and was composed
@@ -138,20 +138,20 @@ designed to avoid condemnation of a brother Muslim.\]
 
 It is necessary for Muslims to be on guard against them, and an Imperial
 Prohibition has been issued to that effect. In any case, avoidance is
-necessary. <span id="fr_79"></span>[31](#fn_79)
+necessary. <span id="fr_79"></span>[31](#fn_79.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_76"></span>[135:28](isl22.htm#fr_76) *Ibid*., pp. 70, 71.
+<span id="fn_76"></span>[135:28](isl22.htm#fr_76.md) *Ibid*., pp. 70, 71.
 
-<span id="fn_77"></span>[135:29](isl22.htm#fr_77) *Ibid*., p. 75.
+<span id="fn_77"></span>[135:29](isl22.htm#fr_77.md) *Ibid*., p. 75.
 
-<span id="fn_78"></span>[135:30](isl22.htm#fr_78) *Ibid*., p. 78.
+<span id="fn_78"></span>[135:30](isl22.htm#fr_78.md) *Ibid*., p. 78.
 
-<span id="fn_79"></span>[135:31](isl22.htm#fr_79) *Ibid*., pp. 77, 78.
+<span id="fn_79"></span>[135:31](isl22.htm#fr_79.md) *Ibid*., pp. 77, 78.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](isl23)
+[Next: Introduction](isl23.md)

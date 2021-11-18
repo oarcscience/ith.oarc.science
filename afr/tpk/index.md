@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@
 This is a proto-Rastafarian tract by Leonard Howell, a Jamaican
 preacher. Published around 1935, this is obviously an edited, much
 shorter, version of [The Royal Parchment Scroll of Black
-Supremacy](../rps/index), without the stream-of-consciousness language,
+Supremacy](../rps/index.md), without the stream-of-consciousness language,
 long opaque abbreviations, and repetition. Most significantly, the
 identities of 'King Alpha and Queen Omega' were transposed from Fitz
 Balintine Pettersburg and his wife as in the Royal Parchment Scroll, to
@@ -48,22 +48,22 @@ circumstances in February 1981.
 
 ------------------------------------------------------------------------
 
-[Title Page](tpk00)  
-[The Mystery Country](tpk01)  
-[The False Religion](tpk02)  
-[The Promised Key](tpk03)  
-[Ethopia's Kingdom](tpk04)  
-[The Healing](tpk05)  
-[Balm Yard](tpk06)  
-[Royal Notice](tpk07)  
-[How to Fast](tpk08)  
-[Department](tpk09)  
-[Government](tpk10)  
-[Eternal Law Office](tpk11)  
-[Eve the Mother of Evil](tpk12)  
-[The Rapers](tpk13)  
-[Ethiopian Question](tpk14)  
-[The First and the Last](tpk15)  
-[Matrimonial Affidavit](tpk16)  
-[Black People Black People Arise and Shine](tpk17)  
-[Forward to the King of Kings](tpk18)  
+[Title Page](tpk00.md)  
+[The Mystery Country](tpk01.md)  
+[The False Religion](tpk02.md)  
+[The Promised Key](tpk03.md)  
+[Ethopia's Kingdom](tpk04.md)  
+[The Healing](tpk05.md)  
+[Balm Yard](tpk06.md)  
+[Royal Notice](tpk07.md)  
+[How to Fast](tpk08.md)  
+[Department](tpk09.md)  
+[Government](tpk10.md)  
+[Eternal Law Office](tpk11.md)  
+[Eve the Mother of Evil](tpk12.md)  
+[The Rapers](tpk13.md)  
+[Ethiopian Question](tpk14.md)  
+[The First and the Last](tpk15.md)  
+[Matrimonial Affidavit](tpk16.md)  
+[Black People Black People Arise and Shine](tpk17.md)  
+[Forward to the King of Kings](tpk18.md)  

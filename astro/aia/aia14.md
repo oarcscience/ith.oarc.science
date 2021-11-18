@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia13)  [Next](aia15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia13)  [Next](aia15.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 *Name*.--The Moon we find called by the ancients Lucina, Cynthia, Diana,
 Phœbe, Latona, Noctiluca, Proserpina; <span
-id="fr_35"></span>[1](#fn_35) she is nearest to the earth of all the
+id="fr_35"></span>[1](#fn_35.md) she is nearest to the earth of all the
 planets.
 
 *Motion*.--She terminates her course through the whole twelve signs in
@@ -62,7 +62,7 @@ such women as carry commodities in the streets; as
 <span id="page_52">p. 52</span>
 
 also midwives, nurses, &c.; hackneymen, watermen, water-bearers. <span
-id="fr_36"></span>[1](#fn_36)
+id="fr_36"></span>[1](#fn_36.md)
 
 *Sickness*.--Apoplexies, palsy, the cholic, the stomach-ache, diseases
 in the left side, the bladder and members of generation; the menstrues
@@ -81,13 +81,13 @@ falling sickness, king's evil, abscess, smallpox, and measles.
 
 ### Footnotes
 
-<span id="fn_35"></span>[50:1](aia14.htm#fr_35) These names prove the
+<span id="fn_35"></span>[50:1](aia14.htm#fr_35.md) These names prove the
 various mythological fables to have had their origin in the ancient
 astrology of the Egyptians.
 
-<span id="fn_36"></span>[52:1](aia14.htm#fr_36) Generally, all persons
+<span id="fn_36"></span>[52:1](aia14.htm#fr_36.md) Generally, all persons
 who are connected with liquids in their occupation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](aia15)
+[Next: Chapter XII](aia15.md)

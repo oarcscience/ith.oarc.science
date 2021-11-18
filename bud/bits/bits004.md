@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits003) [Next](bits005)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits003) [Next](bits005.md)
 
 ------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ which are the border districts."
    It is three hundred leagues in length, two hundred and fifty in
 breadth, and nine hundred in circumference. In this country are born The
 Buddhas, the Private Buddhas,<span id="page_41_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_41_note_1) the Chief Disciples, the
+class="small">1</span></sup>](#page_41_note_1.md) the Chief Disciples, the
 Eighty Great Disciples, the Universal Monarch, and other eminent ones,
 magnates of the warrior caste, of the Brahman caste, and the wealthy
 householders. "And in it is this city called Kapilavatthu," thought he,
@@ -167,7 +167,7 @@ queen Mahâ-Mâyâ is such a one; and she shall be my mother."--
 
 "But what shall be her span of life?"<span
 id="page_42_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_42_note_1) continued he. And he
+class="small">1</span></sup>](#page_42_note_1.md) continued he. And he
 perceived that it was to be ten months and seven days.
 
    Having thus made the five great observations, he kindly made the gods
@@ -429,7 +429,7 @@ Bo-tree, and the four urns full of treasure. Of these last, one was a
 quarter of a league in extent, another a half-league, the third three
 quarters of a league, and the fourth a league. These seven<span
 id="page_48_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_48_note_1) are called the Connate
+class="small">1</span></sup>](#page_48_note_1.md) are called the Connate
 Ones.
 
    Then the inhabitants of both cities took the Future Buddha, and
@@ -437,7 +437,7 @@ carried him to Kapilavatthu.
 
 ------------------------------------------------------------------------
 
-[Next: § 5. The Young Gotamid Prince](bits005)
+[Next: § 5. The Young Gotamid Prince](bits005.md)
 
 ------------------------------------------------------------------------
 
@@ -445,18 +445,18 @@ carried him to Kapilavatthu.
 
 <span id="footnotes_page_41">p. 41</span>
 
-<span id="page_41_note_1"></span>[1](#page_41_fr_1) See index, s.v.
+<span id="page_41_note_1"></span>[1](#page_41_fr_1.md) See index, s.v.
 
 <span id="footnotes_page_42">p. 42</span>
 
-<span id="page_42_note_1"></span>[1](#page_42_fr_1) That is, "How long
+<span id="page_42_note_1"></span>[1](#page_42_fr_1.md) That is, "How long
 is she to live after conceiving me?" And the answer is, "Ten lunar
 \[that is, the nine calendar\] months of my mother's pregnancy, and
 seven days after my birth."
 
 <span id="footnotes_page_48">p. 48</span>
 
-<span id="page_48_note_1"></span>[1](#page_48_fr_1) In making up this
+<span id="page_48_note_1"></span>[1](#page_48_fr_1.md) In making up this
 number the Future Buddha is to be counted as number 1, and the four urns
 of treasure together as number 7.
 

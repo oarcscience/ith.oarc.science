@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai14)  [Next](iai16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai14)  [Next](iai16.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ And Erech's ruler well deserves
 Delights the gods! All hail our Sar!  
   Whose firmness, wisdom need no praise!  
 Queen Daunat's son, our Izdubar,  
-  His glory to the Sami <span id="fr_150"></span>[1](#fn_150) raise!
+  His glory to the Sami <span id="fr_150"></span>[1](#fn_150.md) raise!
 
 Chorus
 
@@ -48,7 +48,7 @@ And thus of Seer Heabani they now chant
 His birth and history and hyemal haunt.
 
 Who can compare with thee, O Nin! <span
-id="fr_151"></span>[2](#fn_151)  
+id="fr_151"></span>[2](#fn_151.md)  
   The son of Bel; thy hands didst lay  
 Upon Ar-ur-u, thine own queen,  
   With glory crowned her on that day.
@@ -73,16 +73,16 @@ Retired within her palace walls
 Like the corn-god his face concealed,  
   Of men and countries he possessed,  
 Great wisdom by the gods revealed:  
-  As Ner <span id="fr_152"></span>[3](#fn_152) the god, his limbs were
+  As Ner <span id="fr_152"></span>[3](#fn_152.md) the god, his limbs were
 dressed.  
 With wild gazelles he ate his food  
   While roaming with them in the night;  
 For days he wandered in the wood,  
-  And bu-hir-tser-i <span id="fr_153"></span>[4](#fn_153) him delight.
+  And bu-hir-tser-i <span id="fr_153"></span>[4](#fn_153.md) him delight.
 
-The Zi-ar-ri <span id="fr_154"></span>[5](#fn_154) Heabani loves,  
+The Zi-ar-ri <span id="fr_154"></span>[5](#fn_154.md) Heabani loves,  
   That play within the running streams;  
-With Zi-ti-am-a-ti <span id="fr_155"></span>[6](#fn_155) he roves  
+With Zi-ti-am-a-ti <span id="fr_155"></span>[6](#fn_155.md) he roves  
   Upon the sands in warm sunbeams.
 
  
@@ -108,24 +108,24 @@ Then vanishes from sight the choral band.
 
 ### Footnotes
 
-<span id="fn_150"></span>[44:1](iai15.htm#fr_150) "Sami," heavens.
+<span id="fn_150"></span>[44:1](iai15.htm#fr_150.md) "Sami," heavens.
 
-<span id="fn_151"></span>[45:2](iai15.htm#fr_151) "Nin" or "Nin-ip," the
+<span id="fn_151"></span>[45:2](iai15.htm#fr_151.md) "Nin" or "Nin-ip," the
 god of the chase and war.
 
-<span id="fn_152"></span>[45:3](iai15.htm#fr_152) "Ner" or "Nergal" the
+<span id="fn_152"></span>[45:3](iai15.htm#fr_152.md) "Ner" or "Nergal" the
 giant king of war, the strong begetter.
 
-<span id="fn_153"></span>[45:4](iai15.htm#fr_153) "Bu-hir-tser-i,"
+<span id="fn_153"></span>[45:4](iai15.htm#fr_153.md) "Bu-hir-tser-i,"
 beasts of the field.
 
-<span id="fn_154"></span>[45:5](iai15.htm#fr_154) "Zi-ar-ri," spirits of
+<span id="fn_154"></span>[45:5](iai15.htm#fr_154.md) "Zi-ar-ri," spirits of
 the rivers, water-nymphs.
 
-<span id="fn_155"></span>[45:6](iai15.htm#fr_155) "Zi-ti-am-a-ti,"
+<span id="fn_155"></span>[45:6](iai15.htm#fr_155.md) "Zi-ti-am-a-ti,"
 spirits of the sea. naiads or water-nymphs.
 
 ------------------------------------------------------------------------
 
 [Next: Column III. Zaidu's Return, and His Instruction to Take Two Maids
-with him to Entice the Seer from his Cave](iai16)
+with him to Entice the Seer from his Cave](iai16.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Next](catena1) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Next](catena1.md) 
 
 ------------------------------------------------------------------------
 
@@ -5310,6 +5310,6 @@ FINIS.
 
 ------------------------------------------------------------------------
 
-[Next: Golden Chain of Homer](catena1)
+[Next: Golden Chain of Homer](catena1.md)
 
   

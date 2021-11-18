@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft40)  [Next](pft42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft40)  [Next](pft42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,17 +14,17 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE STORY OF THE CREATION  <span id="fr_127"></span>[128](pft68.htm#fn_127)
+### THE STORY OF THE CREATION  <span id="fr_127"></span>[128](pft68.htm#fn_127.md)
 
 *Bilaan* (*Mindanao*)
 
 In the very beginning there lived a being so large that he can not be
 compared with any known thing. His name was Melu,  <span
-id="fr_128"></span>[129](pft68.htm#fn_128) and when he sat on the
+id="fr_128"></span>[129](pft68.htm#fn_128.md) and when he sat on the
 clouds, which were his home, he occupied all the space above. His teeth
 were pure gold, and because he was very cleanly and continually rubbed
 himself with his hands, his skin became pure white. The dead skin which
-he rubbed off his body  <span id="fr_129"></span>[130](pft68.htm#fn_129)
+he rubbed off his body  <span id="fr_129"></span>[130](pft68.htm#fn_129.md)
 was placed on one side in a pile, and by and by this pile became so
 large that he was annoyed and set himself to consider what he could do
 with it.
@@ -59,4 +59,4 @@ this way there came to be a great many people on the earth.
 
 ------------------------------------------------------------------------
 
-[Next: In the Beginning](pft42)
+[Next: In the Beginning](pft42.md)

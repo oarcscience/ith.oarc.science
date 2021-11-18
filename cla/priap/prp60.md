@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp59)  [Next](prp61) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp59)  [Next](prp61.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ thee, O Priapus, thou wilt be richer than of yore Alcinous.
 
 ------------------------------------------------------------------------
 
-[Next: 61. Why, cultivator, vainly moan to me](prp61)
+[Next: 61. Why, cultivator, vainly moan to me](prp61.md)

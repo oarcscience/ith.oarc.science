@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng15)  [Next](nblng17) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng15)  [Next](nblng17.md) 
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ one'), 'mistress' in a bad sense.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XV: How Siegfried Was Betrayed.](nblng17)
+[Next: Adventure XV: How Siegfried Was Betrayed.](nblng17.md)

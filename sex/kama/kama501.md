@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama402) 
-[Next](kama502) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama402.md) 
+[Next](kama502.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ every handsome man she sees, and so does every man at the sight of a
 beautiful woman, but frequently they do not take any further steps,
 owing to various considerations. In love the following circumstances are
 peculiar to the woman. She loves without regard to right or wrong, <span
-id="fr_54"></span>[1](kama101.htm#fn_0) and does not try to gain over a
+id="fr_54"></span>[1](kama101.htm#fn_0.md) and does not try to gain over a
 man simply for the attainment of some particular purpose. Moreover, when
 a man first makes up to her she naturally shrinks from him, even though
 she may be willing to unite herself with him. But when the attempts to
@@ -204,10 +204,10 @@ away from men, is generally successful with them.'
 
 ### Footnotes
 
-<span id="fn_54"></span>[1](#fr_-1) On peut tout attendre et tout
+<span id="fn_54"></span>[1](#fr_-1.md) On peut tout attendre et tout
 supposer d'une femme amoureuse.--Balzac.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. About Making Acquaintance with the Woman, and of the
-Efforts to Gain Her Over](kama502)
+Efforts to Gain Her Over](kama502.md)

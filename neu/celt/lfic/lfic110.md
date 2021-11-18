@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic109)  [Next](lfic111) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic109)  [Next](lfic111.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ the warning.
 
 ------------------------------------------------------------------------
 
-[Next: How St Eloi was cured of Pride](lfic111)
+[Next: How St Eloi was cured of Pride](lfic111.md)

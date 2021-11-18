@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg95)  [Next](btg97) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg95)  [Next](btg97.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ do we reach Nirvana."
 
 ------------------------------------------------------------------------
 
-[Next: Metteyya](btg97)
+[Next: Metteyya](btg97.md)

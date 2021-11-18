@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb11)  [Next](crfb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb11)  [Next](crfb13.md) 
 
 </div>
 
@@ -434,6 +434,6 @@ pipes before they bade each other farewell and returned to their homes.
 
 ------------------------------------------------------------------------
 
-[Next: Paperarelloo](crfb13)
+[Next: Paperarelloo](crfb13.md)
 
 </div>

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu20)  [Next](yfhu22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu20)  [Next](yfhu22.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -328,7 +328,7 @@ drawing, more or less, upon the higher realms of consciousness. People
 are sometimes criticised for not being on the earth all the time, but it
 is necessary to get above the earth occasionally in order to find
 something worth while to live for and work for while upon earth. The
-most powerful forces in human life can [be](errata.htm#4) drawn down to
+most powerful forces in human life can [be](errata.htm#4.md) drawn down to
 earth for practical use, but to get them we must go to the heights
 frequently. No one can write music unless his consciousness touches the
 sublime. No one can write real poetry unless he has the same experience.
@@ -691,4 +691,4 @@ his love*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. The Greatest Power In Man](yfhu22)
+[Next: Chapter XX. The Greatest Power In Man](yfhu22.md)

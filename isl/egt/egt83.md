@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt82)  [Next](egt84) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt82)  [Next](egt84.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ permission who looks on ease in the light of a wound.
 
 ------------------------------------------------------------------------
 
-[Next: TO REMEMBER THE WORDS OF THE ALL-KNOWING LORD](egt84)
+[Next: TO REMEMBER THE WORDS OF THE ALL-KNOWING LORD](egt84.md)

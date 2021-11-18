@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht33)  [Next](cht35) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht33)  [Next](cht35.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ marry a woman to a man of the other town and they make peace.
 
 ------------------------------------------------------------------------
 
-[Next: War Between Quileute and Clatsop](cht35)
+[Next: War Between Quileute and Clatsop](cht35.md)

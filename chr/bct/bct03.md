@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct02) [Next](bct04)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct02) [Next](bct04.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ divisions of the text of the Hebrew Bible. There is little doubt that
 most of these works were written either in Hebrew or in the Palestinian
 vernacular of the period. One of the oldest of such works appears to be
 the "Book of Jubilees" (*see* <span id="p003"></span>[page
-3](bct_p003)), (also called the "Lesser Genesis" and the "Apocalypse of
+3](bct_p003).md), (also called the "Lesser Genesis" and the "Apocalypse of
 Moses"), which derives its name from the fact that the periods of time
 described in it are Jubilees, *i.e.* each period contains forty-nine
 years. It is more or less a <span id="page_2">p. 2</span> Commentary on
@@ -37,7 +37,7 @@ Greek.
    Another pre-Christian work, also written by a Jew, is the "Book of
 Enoch," which exists now in a more or less complete form, only in an
 Ethiopic translation, which was made from the Greek. This work is quoted
-by St. Jude ([vv. 14, 15](../../bib/kjv/jde.htm#1:14)), and there is
+by St. Jude ([vv. 14, 15](../../bib/kjv/jde.htm#1:14).md), and there is
 little doubt that for some three or four centuries its authority, both
 among the Jews and the Christians of the first and second centuries of
 our Era, was very great. Whether the "Book of Enoch," as made known to
@@ -48,7 +48,7 @@ parts of works, of somewhat similar character, which has been strung
 together, and then added to by writers of different schools of religious
 thought at different periods. In some parts of it traces have been found
 of beliefs which are neither Jewish nor Christian. (*See* <span
-id="p005"></span>[page 5](bct_p005).)
+id="p005"></span>[page 5](bct_p005)..md)
 
    From time to time during the early centuries of the Christian Era
 apocryphal works dealing with our Lord and His Apostles and disciples
@@ -104,7 +104,7 @@ point will be made later on.
 
    The oldest of the Christian works on the history of God's dealing
 with man from Adam to Christ is probably the "Book of Adam and Eve"
-(*see* <span id="p009"></span>[page 9](bct_p009)), which, in its
+(*see* <span id="p009"></span>[page 9](bct_p009).md), which, in its
 original form, was <span id="page_8">p. 8</span> written sometime in the
 Vth or VIth century of our Era; its author is unknown. As there is no
 doubt whatever that the writer of the "Cave of Treasures" borrowed
@@ -177,7 +177,7 @@ Ethiopic translation was made from Arabic. Translations of the complete
 book have been made by Dillmann, *Das Christliche Adambuch*, Göttingen,
 1853, and Malan, *The Book of Adam and Eve*, London, 1882.
 
-   {*See* <span id="p013"></span>[page 13](bct_p013) for an example of
+   {*See* <span id="p013"></span>[page 13](bct_p013.md) for an example of
 the Syrian text.}
 
    The discovery of the existence of the Book called the "Cave of
@@ -220,7 +220,7 @@ Solomon <span id="page_15">p. 15</span> had borrowed from the work of
 the Jacobite author of the "Cave of Treasures" in the earlier part of
 his work, I printed several lengthy extracts from the Syriac from the
 fine manuscript in the British Museum, together with English
-translations (see [*The Book of the Bee*](../bb/index), the Syrian Text
+translations (see [*The Book of the Bee*](../bb/index.md), the Syrian Text
 with an English translation, Oxford, 1886; *Anecdota Oxoniensia*,
 Semitic Series, Vol. I, Part II), and these were thought to emphasize
 the general importance of the "Cave of Treasures."
@@ -280,7 +280,7 @@ life. Whilst they were living there God taught them how to wash their
 bodies, and told them what to eat and drink, and made known to them the
 use of <span id="page_18">p. 18</span> **wheat**,<span
 id="page_18_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_18_note_1) and showed them how to
+class="small">1</span></sup>](#page_18_note_1.md) and showed them how to
 clothe themselves with the skins of beasts, and other essentials of
 civilization. There was no night in Paradise, and when the sun set and
 night fell on Adam his terror was great; at length God told him that the
@@ -360,16 +360,16 @@ Now, ancient writers have erred in that they said that Hebrew was the
 first \[language\], and in this matter they have mingled an ignorant
 mistake in their writing. For all the languages that are in the world
 are derived from Syriac, and all the languages in books are mingled with
-it" ([page 132](bct06.htm#page_132)). And in another place he says that
+it" ([page 132](bct06.htm#page_132).md). And in another place he says that
 Pilate did right in writing the inscription which was <span
 id="page_23">p. 23</span> placed on the Cross in Greek, Latin, and
 Hebrew only, and that he did not add a translation of it in Syriac
 because no Syrian played any part in the crucifixion of our Lord ([page
-230](bct09.htm#page_230)). And he goes on to say that the Syrians had no
+230](bct09.htm#page_230).md). And he goes on to say that the Syrians had no
 hand in shedding the blood of Christ, because Abhgar, King of Edessa,
 wanted to go and take Jerusalem, and slay the Jews who had crucified
 Him.<span id="page_23_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_23_note_1) And, as Bezold pointed
+class="small">1</span></sup>](#page_23_note_1.md) And, as Bezold pointed
 out, the name of Noah's wife, Haikal-bath-Nâmôs, and the names of
 several other women, appear to be of Syrian origin.
 
@@ -584,7 +584,7 @@ believed to be so great that he could overthrow even the mountains
 stone and bronze may be seen in the British Museum.
 
    Terah, the father of Abraham, followed in his father's footsteps,
-and, according to the legend quoted on [page 145](bct07.htm#page_145),
+and, according to the legend quoted on [page 145](bct07.htm#page_145.md),
 made figures of the gods, or idols, in clay and stone, and sent his son
 Abraham into the bazâr to sell them. Fact underlies this legend, for a
 large number of terra-cotta figures of gods and demons have been found
@@ -660,7 +660,7 @@ withdrew to continue its work of destruction. The first dove sent out by
 Noah was a type of the Old Covenant, which was not accepted by the Jews,
 and the second dove was a type of the New Covenant, which rested on the
 people through the waters of baptism. One of the legends (*see* [page
-147](bct07.htm#page_147)) states that Abraham was circumcised by
+147](bct07.htm#page_147).md) states that Abraham was circumcised by
 Gabriel, who was assisted by Michael. Abraham circumcised Isaac, and
 foresaw the crucifixion of Christ. The angels who were on Jacob's Ladder
 were Zechariah, and Mary, and the Magi and the Shepherds, and the Lord
@@ -721,7 +721,7 @@ Jerusalem their tables of genealogy perished with them.
 
 ------------------------------------------------------------------------
 
-[Next](bct04)
+[Next](bct04.md)
 
 ------------------------------------------------------------------------
 
@@ -729,14 +729,14 @@ Jerusalem their tables of genealogy perished with them.
 
 <span id="footnotes_page_18"></span>p. 18
 
-<span id="page_18_note_1"></span>[1](#page_18_fr_1) The Copts have a
+<span id="page_18_note_1"></span>[1](#page_18_fr_1.md) The Copts have a
 remarkable legend about the origin of wheat. According to this, our Lord
 commanded the Cherubim to take John the disciple and show him the
 mysteries of heaven and earth. Whilst they were journeying together
 through the heavens, John asked his guide to tell him the history of the
 wheat plant and where it was first found. The angel said that after Adam
 and Eve were driven forth from Paradise they were banished to Havilah
-([Gen. ii. 11](../../bib/kjv/gen.htm#2:11)), "Where they suffered
+([Gen. ii. 11](../../bib/kjv/gen.htm#2:11).md), "Where they suffered
 greatly because they could not eat the poor food which the country
 produced. The pangs of hunger vexed them sorely, and at length they
 cried out to God and told Him that they were starving. Our Lord, the
@@ -764,7 +764,7 @@ of the Son of God." See Brit. Mus. MS. Oriental No. 7026, Fol. 5*a*ff
 
 <span id="footnotes_page_23"></span>p. 23
 
-<span id="page_23_note_1"></span>[1](#page_23_fr_1) "And Abgar wished
+<span id="page_23_note_1"></span>[1](#page_23_fr_1.md) "And Abgar wished
 himself to pass over and go to Palestine, and see with his own eyes all
 which Christ was doing; but because he was not able to pass through the
 country of the Romans, which was not his, lest this cause should call

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat65)  [Next](jat67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat65)  [Next](jat67.md) 
 
 ------------------------------------------------------------------------
 
 ### 64. PESITA IS SHOT.
 
 Long ago, they came to Cimarron for rations. Pesita <span
-id="fr_79"></span>[1](#fn_79) and another Indian commenced shooting at
+id="fr_79"></span>[1](#fn_79.md) and another Indian commenced shooting at
 each other without the knowledge of the other Indians. The other man was
 shot in the shoulder with an arrow and was killed. The Ollero came
 running close to Pesita's tipi from all sides. They shot at each other.
@@ -36,7 +36,7 @@ peace.
 
 After that, rations were issued again and the meat was being given out.
 He gave the bones to two men. One of them struck the Agent with the
-bone. <span id="fr_80"></span>[1](#fn_80) They shot him through the
+bone. <span id="fr_80"></span>[1](#fn_80.md) They shot him through the
 flesh of the arm. They shot there inside. Then the Agent ran into his
 house. After a while, the Agent came out; he had been shot in his hand.
 They ran toward us and we started toward them. We were going to shoot
@@ -46,13 +46,13 @@ but they did not attack us.
 
 ### Footnotes
 
-<span id="fn_79"></span>[253:1](jat66.htm#fr_79) A Jicarilla about 65
+<span id="fn_79"></span>[253:1](jat66.htm#fr_79.md) A Jicarilla about 65
 years old who was the informant for several of the myths.
 
-<span id="fn_80"></span>[254:1](jat66.htm#fr_80) This was Juan Julian,
+<span id="fn_80"></span>[254:1](jat66.htm#fr_80.md) This was Juan Julian,
 at one time a war chief. He was angry because he was given a bone with
 very little meat on it.
 
 ------------------------------------------------------------------------
 
-[Next: 65. The Arrows Fail on the Hunt](jat67)
+[Next: 65. The Arrows Fail on the Hunt](jat67.md)

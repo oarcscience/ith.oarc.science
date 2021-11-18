@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](amm09)  [Next](amm11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](amm09)  [Next](amm11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ writers. There was a fine
 <span id="img_fig14"></span>
 
 [![Figure 14. Floor Labyrinth at Ravenna](tn/fig14.jpg)  
-Click to enlarge](img/fig14.jpg)  
+Click to enlarge](img/fig14.jpg.md)  
   
 
 regular one at Theobald's old palace, and the maze at Hampton Court is
@@ -164,7 +164,7 @@ to be the labyrinth of Dædalus, in Crete, into which, aided by Ariadne's
 thread, Theseus penetrated and safely returned. This is the subject of
 Botticelli's engraving. On the Hereford Map the plan of the labyrinth
 nearly fills the whole map of Crete: it is inscribed *Labarintus id est
-domus Dealli* (see [next page](#img_fig16)). The great floor labyrinth
+domus Dealli* (see [next page](#img_fig16).md). The great floor labyrinth
 at Amiens was inscribed *Maison de Dalus*. In the Lucca example there is
 also an inscription—'This is the labyrinth which Cretan Dædalus built,
 out of which nobody could get who was inside, except Theseus; nor could
@@ -246,7 +246,7 @@ confused is said to be 'like Troy Town.'
 
 Herodotus opens with a fourfold legend of the origin of the war of
 Troy—the stories of Io, Europa, Medea, and Helen, all seemingly
-[variants](errata.htm#3) of one 'far told tale' of a princess enticed
+[variants](errata.htm#3.md) of one 'far told tale' of a princess enticed
 away over sea. A hero in a foreign land is set to do a great deed and to
 endure a great peril; the king of the country
 
@@ -852,4 +852,4 @@ hold on the imagination, seems to have an undying vitality.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Golden Gate of the Sun](amm11)
+[Next: Chapter VIII. The Golden Gate of the Sun](amm11.md)

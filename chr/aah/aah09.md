@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](aah08)  [Next](aah10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](aah08)  [Next](aah10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7H7K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7H7K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Love Letters of Abelard and Heloise*, \[1901\], at Intangible
 Textual Heritage
 
@@ -156,7 +156,7 @@ Not on the Cross my eyes were fix’d, but you:
 Not grace, or zeal, love only was my call,  
 And if I lose thy love, I lose my all.  
 Come! with thy looks, thy words, relieve my woe; <span
-id="fr_0"></span>[1](#fn_0)  
+id="fr_0"></span>[1](#fn_0.md)  
 Those still at least are left thee to bestow.  
 Still on thy breast enamour’d let me lie,  
 Still drink delicious poison from thy eye,  
@@ -418,9 +418,9 @@ He best can paint ’em who shall feel ’em most.</span>
 
 ### Footnotes
 
-<span id="fn_0"></span>[101:1](aah09.htm#fr_0) These lines cannot be
+<span id="fn_0"></span>[101:1](aah09.htm#fr_0.md) These lines cannot be
 justified by anything in the letters of Eloïsa.
 
 ------------------------------------------------------------------------
 
-[Next: From W. E. Henly's Prologue to Beau Austin](aah10)
+[Next: From W. E. Henly's Prologue to Beau Austin](aah10.md)

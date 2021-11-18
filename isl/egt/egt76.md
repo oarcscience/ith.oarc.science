@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt75)  [Next](egt77) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt75)  [Next](egt77.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ who knows not Thy craft in dealing with wickedness.
 
 ------------------------------------------------------------------------
 
-[Next: HE WHO TRUSTS IN HIS SUBMISSION SUFFERS A MANIFEST HURT.](egt77)
+[Next: HE WHO TRUSTS IN HIS SUBMISSION SUFFERS A MANIFEST HURT.](egt77.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb26)  [Next](lifb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb26)  [Next](lifb28.md) 
 
 </div>
 
@@ -502,6 +502,6 @@ From 'Tales of the West Highlands.'
 
 ------------------------------------------------------------------------
 
-[Next: The Lady of the Fountain](lifb28)
+[Next: The Lady of the Fountain](lifb28.md)
 
 </div>

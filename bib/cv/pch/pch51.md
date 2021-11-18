@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch50) 
-[Next](pch52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch50.md) 
+[Next](pch52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -27,18 +27,18 @@ gospels—namely, the total ignorance of those teachings shown in the
 <span class="contnote">\[paragraph continues\]</span> Pauline epistles.
 He takes as genuine the plainly interpolated passage in 1 Cor. xi as to
 the institution of the Eucharist, then concludes <span
-id="fr_1194"></span>[1](#fn_1194) that "the details of the life of Jesus
+id="fr_1194"></span>[1](#fn_1194.md) that "the details of the life of Jesus
 had *so little interest* for Paul that" he fails to quote him when he
 effectively might. To reason thus is to ignore a far greater difficulty
 than many which the exegete admits to be insuperable. (2) He makes his
-arguments at some points <span id="fr_1195"></span>[2](#fn_1195) turn on
+arguments at some points <span id="fr_1195"></span>[2](#fn_1195.md) turn on
 the assumption of the general certainty of the whole narrative as to
 Jesus being a teacher with disciples, who established his cult; whereas
 the existence of the disciples is no better proved than many of the data
 already surrendered. (3) He is evidently biassed to his illicit
 inference (that Jesus really existed) by other inferences which, on his
 own showing, he was not entitled to draw. For instance, he decides <span
-id="fr_1196"></span>[3](#fn_1196) that Jesus probably accomplished
+id="fr_1196"></span>[3](#fn_1196.md) that Jesus probably accomplished
 faith-healing as distinguished from miracles, because "this power is so
 strongly attested throughout the first and second centuries that, *in
 view of the spiritual greatness of Jesus and the imposing character of
@@ -61,7 +61,7 @@ Such reasoning, we may say without hesitation, cannot stand: it is
 negated by the tests on which Schmiedel has proceeded as against the
 source-finders; and the latter might very well turn upon him with a
 confident *tu* *quoque*. Take, for instance, the passage <span
-id="fr_1197"></span>[4](#fn_1197) in which he presses the point of the
+id="fr_1197"></span>[4](#fn_1197.md) in which he presses the point of the
 obvious untrustworthiness of the reports of Jesus’ discourses, and yet
 lets pass the assumption that these reports may be genuine
 condensations:—
@@ -137,12 +137,12 @@ of the Old so long did, by taking for granted
 <span id="page_237">p. 237</span>
 
 the general truth of the tradition. <span
-id="fr_1198"></span>[1](#fn_1198) It sought to found on the hollow
+id="fr_1198"></span>[1](#fn_1198.md) It sought to found on the hollow
 fiction of the Exodus and the Mosaic legislation of the desert, when one
 intelligent glance at the Book of Judges might have shown that the
 tabernacle of the desert was a myth. In a similar way it clings to the
 conception of a preaching and cult-founding Jesus, when an intelligent
-perusal of the epistles of Paul <span id="fr_1199"></span>[2](#fn_1199)
+perusal of the epistles of Paul <span id="fr_1199"></span>[2](#fn_1199.md)
 can suffice to show that the preaching Jesus was created after they wore
 written.
 
@@ -168,21 +168,21 @@ wonder-working God.
 
 ### Footnotes
 
-<span id="fn_1194"></span>[235:1](pch51.htm#fr_1194) § 147.
+<span id="fn_1194"></span>[235:1](pch51.htm#fr_1194.md) § 147.
 
-<span id="fn_1195"></span>[235:2](pch51.htm#fr_1195) §1 138 *a*, *f;*
+<span id="fn_1195"></span>[235:2](pch51.htm#fr_1195.md) §1 138 *a*, *f;*
 144 *a;* 145 *f*.
 
-<span id="fn_1196"></span>[235:3](pch51.htm#fr_1196) § 144.
+<span id="fn_1196"></span>[235:3](pch51.htm#fr_1196.md) § 144.
 
-<span id="fn_1197"></span>[235:4](pch51.htm#fr_1197) § 145 a.
+<span id="fn_1197"></span>[235:4](pch51.htm#fr_1197.md) § 145 a.
 
-<span id="fn_1198"></span>[237:1](pch51.htm#fr_1198) An emphatic
+<span id="fn_1198"></span>[237:1](pch51.htm#fr_1198.md) An emphatic
 exception, certainly, must be made as regards the Pauline epistles,
 which by the late Professor van Manen and others are rejected as
 entirely spurious.
 
-<span id="fn_1199"></span>[237:2](pch51.htm#fr_1199) For the purpose of
+<span id="fn_1199"></span>[237:2](pch51.htm#fr_1199.md) For the purpose of
 this argument, it matters not whether any of these epistles be genuine
 or not, since in any case they are early; and forgers would have used
 gospel sayings if they had them to use. The point is that even
@@ -190,4 +190,4 @@ interpolations upon the originals yield but one gospel datum.
 
 ------------------------------------------------------------------------
 
-[Next: § 7. Parallel Problems](pch52)
+[Next: § 7. Parallel Problems](pch52.md)

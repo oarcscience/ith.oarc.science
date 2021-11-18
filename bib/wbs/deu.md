@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](num)  [Next](jos) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](num)  [Next](jos.md) 
 
 ------------------------------------------------------------------------
 
@@ -3904,4 +3904,4 @@ the great terror which Moses showed in the sight of all Israel.
 
 ------------------------------------------------------------------------
 
-[Next: Joshua](jos)
+[Next: Joshua](jos.md)

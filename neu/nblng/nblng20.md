@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng19)  [Next](nblng21) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng19)  [Next](nblng21.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ woe of heart.
 ------------------------------------------------------------------------
 
 [Next: Adventure XIX: How The Nibelung Hoard Was Brought to
-Worms.](nblng21)
+Worms.](nblng21.md)

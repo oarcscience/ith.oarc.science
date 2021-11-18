@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr15)  [Next](wsgr17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr15)  [Next](wsgr17.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ thoughts and his great wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: Grandmother River's Trick](wsgr17)
+[Next: Grandmother River's Trick](wsgr17.md)

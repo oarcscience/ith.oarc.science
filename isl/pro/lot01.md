@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](lot00)  [Next](lot02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](lot00)  [Next](lot02.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,7 +138,7 @@ created for you ? Nay, but ye are froward folk(Al-Shu\`arâ':166).
 
 ------------------------------------------------------------------------
 
-[Next: Some Benefits That Should Not be Left](lot02)
+[Next: Some Benefits That Should Not be Left](lot02.md)
 
 </div>
 

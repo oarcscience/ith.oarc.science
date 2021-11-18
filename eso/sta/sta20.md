@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta19)  [Next](sta21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta19)  [Next](sta21.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ to the story, and mayhap Jonah was merely picked up by
 <span id="img_08500"></span>
 
 [![THE FIRST INCARNATION, OR MATSYA AVATAR, OF VISHNU.](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)  
+Click to enlarge](img/08500.jpg.md)  
 THE FIRST INCARNATION, OR MATSYA AVATAR, OF VISHNU.  
 
 From Picart's *Religious Ceremonials*.
@@ -311,7 +311,7 @@ allegory states that the sunrise is caused by the scarab unfolding
 <span id="img_08600"></span>
 
 [![THE MANTICHORA.](tn/08600.jpg)  
-Click to enlarge](img/08600.jpg)  
+Click to enlarge](img/08600.jpg.md)  
 THE MANTICHORA.  
 
 From Redgrove's *Bygone Beliefs*.
@@ -328,7 +328,7 @@ regions and consequently was difficult to locate.
 <span id="img_08601"></span>
 
 [![ROYAL EGYPTIAN SCARAB.](tn/08601.jpg)  
-Click to enlarge](img/08601.jpg)  
+Click to enlarge](img/08601.jpg.md)  
 ROYAL EGYPTIAN SCARAB.  
 
 From Hall's *Catalogue of Egyptian Scarabs, Etc., in the British
@@ -508,7 +508,7 @@ worship in some form has permeated nearly all parts of the
 <span id="img_08700"></span>
 
 [![THE FLEUR-DE-LIS.](tn/08700.jpg)  
-Click to enlarge](img/08700.jpg)  
+Click to enlarge](img/08700.jpg.md)  
 THE FLEUR-DE-LIS.  
 
 The bee was used as, a symbol of royalty by the immortal Charlemagne,
@@ -519,7 +519,7 @@ to the effect that the nine Muses occasionally assumed the form of bees.
 <span id="img_08701"></span>
 
 [![THE SCORPION TALISMAN.](tn/08701.jpg)  
-Click to enlarge](img/08701.jpg)  
+Click to enlarge](img/08701.jpg.md)  
 THE SCORPION TALISMAN.  
 
 From Paracelsus' *Archidoxes Magica*.
@@ -611,7 +611,7 @@ invisible hierarchies that labored with the earth during its early
 formation.
 
 There is a legend that in the beginning of the world winged serpents
-[reigned](errata.htm#4) upon the earth. These were probably the demigods
+[reigned](errata.htm#4.md) upon the earth. These were probably the demigods
 which antedate the historical civilization of every nation. The symbolic
 relationship between the sun and the serpent found literal witness in
 the fact that life remains in the snake until sunset, even though it be
@@ -684,7 +684,7 @@ mystic folklore.
 <span id="img_08800"></span>
 
 [![THE URÆUS.](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)  
+Click to enlarge](img/08800.jpg.md)  
 THE URÆUS.  
 
 From Kircher's *Œdipus Ægyptiacus*.
@@ -696,7 +696,7 @@ which had crawled serpentlike up the Tree of Life.
 <span id="img_08801"></span>
 
 [![GOOD AND EVIL CONTENDING FOR THE UNIVERSAL EGG.](tn/08801.jpg)  
-Click to enlarge](img/08801.jpg)  
+Click to enlarge](img/08801.jpg.md)  
 GOOD AND EVIL CONTENDING FOR THE UNIVERSAL EGG.  
 
 From Maurice's *Indian Antiquities*.
@@ -709,4 +709,4 @@ which each trying to wrench from the teeth of the other.
 
 ------------------------------------------------------------------------
 
-[Next: Fishes, Insects, Animals, Reptiles and Birds (Part Two)](sta21)
+[Next: Fishes, Insects, Animals, Reptiles and Birds (Part Two)](sta21.md)

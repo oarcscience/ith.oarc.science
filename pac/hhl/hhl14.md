@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl13)  [Next](hhl15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl13)  [Next](hhl15.md) 
 
 ------------------------------------------------------------------------
 
@@ -197,4 +197,4 @@ Pacific.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Captain Cook](hhl15)
+[Next: XI. Captain Cook](hhl15.md)

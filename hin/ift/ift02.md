@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift01) 
-[Next](ift03) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift01.md) 
+[Next](ift03.md) 
 
 ------------------------------------------------------------------------
 
 # The Lion and the Crane
 
 <span id="img_07"></span> [![](tn/07.jpg)  
-Click to enlarge](img/07.jpg)
+Click to enlarge](img/07.jpg.md)
 
 <span id="img_06"></span> ![](img/06.jpg)HE Bodhisatta was at one time
 born in the region of Himavanta as a white crane; now Brahmadatta was at
@@ -66,4 +66,4 @@ was I myself."
 
 ------------------------------------------------------------------------
 
-[Next: How the Raja's Son won the Princess Labam](ift03)
+[Next: How the Raja's Son won the Princess Labam](ift03.md)

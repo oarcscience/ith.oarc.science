@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot22) 
-[Next](bot24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot22.md) 
+[Next](bot24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ obscured it is considered to indicate storm and tempest, or when he is
 visible, fair weather.
 
 The symbol and stone of the House are shown in No. 8 of the
-[Frontispiece](bot00.htm#img_front).
+[Frontispiece](bot00.htm#img_front.md).
 
 Scorpio has been described as the sign accursed, because during this
 period unfavourable weather is usually experienced, bringing gales and
@@ -305,6 +305,6 @@ worn by those born in the Aquarius or Leo periods.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Sagittarius—The Archer](bot24)
+[Next: Chapter IX. Sagittarius—The Archer](bot24.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi055)  [Next](mtsi057) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi055)  [Next](mtsi057.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ did get him.
 
 ------------------------------------------------------------------------
 
-[Next: 55. Rabbit Fools Alligator (Second Version)](mtsi057)
+[Next: 55. Rabbit Fools Alligator (Second Version)](mtsi057.md)

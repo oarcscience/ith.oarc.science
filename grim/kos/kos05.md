@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos04)  [Next](kos06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos04)  [Next](kos06.md) 
 
 ------------------------------------------------------------------------
 
@@ -830,4 +830,4 @@ written for *Tzabaoth*, etc.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Concerning the Divine Love Which Ought To Precede the
-Acquisition of This Knowledge](kos06)
+Acquisition of This Knowledge](kos06.md)

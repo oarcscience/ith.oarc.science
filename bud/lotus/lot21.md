@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot20)  [Next](lot22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot20)  [Next](lot22.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ that has no origin.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 22](lot22)
+[Next: Chapter 22](lot22.md)

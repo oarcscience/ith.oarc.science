@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt12.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ to suffer these things, and to enter into His glory," our Lord summed up
 two great prophecies concerning the Messiah in the past, viz., the
 conception of the "Suffering Servant," in *The Book of Isaiah*, and the
 conception of "The Son of Man" in His glory, in *The Book of the
-Similitudes of Enoch*. <span id="fr_90"></span>[1](#fn_90) Let us think
+Similitudes of Enoch*. <span id="fr_90"></span>[1](#fn_90.md) Let us think
 of this for a little.
 
 The picture of the "Servant of the Lord," with its most sublime
@@ -236,7 +236,7 @@ We know--or at all events we claim to know, owing to the fuller
 revelation that we have received from God--that Absolute Truth and the
 Godhead are inseparable. Our Lord, when standing before Pilate, said:
 *Every one that is of the truth heareth my voice*; <span
-id="fr_91"></span>[1](#fn_91) and to Pilate's answer: *What is Truth?*
+id="fr_91"></span>[1](#fn_91.md) and to Pilate's answer: *What is Truth?*
 no reply was returned; He who had said: *I am the Truth* was standing
 before Pilate. Absolute Truth and the Godhead are inseparable. For this
 reason we find that some of the most cherished truths of Christianity
@@ -254,7 +254,7 @@ according to man's capacity for grasping the Truth. For this reason
 man's belief in a Creator, with all that that word implies for us, is
 inherent in Human Nature: also, man's yearning for a Redeemer is
 inherent in Human Nature. These facts are indisputable, as the study of
-the beliefs of primitive man prove. <span id="fr_92"></span>[1](#fn_92)
+the beliefs of primitive man prove. <span id="fr_92"></span>[1](#fn_92.md)
 If now--and this is the point that we have been aiming for--we find
 certain fundamental truths of Christianity in existence before the time
 of Christ, we have every justification for believing that since they
@@ -273,13 +273,13 @@ bride and lie down beside the hearth. Her orders were obeyed: Ocrisia
 conceived by the god or spirit of the fire, and in due time brought
 forth Tullus Servius, the future King of Rome, who was thus born a
 slave, being the reputed son of a slave mother and a divine father, the
-fire god." <span id="fr_93"></span>[1](#fn_93) The *clothing* of the
+fire god." <span id="fr_93"></span>[1](#fn_93.md) The *clothing* of the
 truth is folly; but that does not detract from the fact of the
 conception of the possibility of Virgin Birth being a true conception.
 
 The belief in human gods, and divine men, is so universal among all
 races of the world, whether civilised or uncivilised, that it is
-unnecessary to give any examples; <span id="fr_94"></span>[2](#fn_94)
+unnecessary to give any examples; <span id="fr_94"></span>[2](#fn_94.md)
 but the existence of such beliefs shows that the conception of
 Incarnation lies in the nature of things.
 
@@ -397,17 +397,17 @@ Advent.
 
 ### Footnotes
 
-<span id="fn_90"></span>[208:1](dlt13.htm#fr_90) *See* chap. viii.
+<span id="fn_90"></span>[208:1](dlt13.htm#fr_90.md) *See* chap. viii.
 
-<span id="fn_91"></span>[214:1](dlt13.htm#fr_91) John xviii. 37, 38.
+<span id="fn_91"></span>[214:1](dlt13.htm#fr_91.md) John xviii. 37, 38.
 
-<span id="fn_92"></span>[215:1](dlt13.htm#fr_92) See the writer's
+<span id="fn_92"></span>[215:1](dlt13.htm#fr_92.md) See the writer's
 *Religion a Permanent Need of Human Nature*, passim.
 
-<span id="fn_93"></span>[216:1](dlt13.htm#fr_93) Frazer, *The Early
+<span id="fn_93"></span>[216:1](dlt13.htm#fr_93.md) Frazer, *The Early
 History of the Kingship*, pp. 218-219 (1905).
 
-<span id="fn_94"></span>[216:2](dlt13.htm#fr_94) Fraser, *The Golden
+<span id="fn_94"></span>[216:2](dlt13.htm#fr_94.md) Fraser, *The Golden
 Bough*, l., 137f. (2nd Ed.).
 
 In so far as there has been Christian adaptation of Jewish teaching in

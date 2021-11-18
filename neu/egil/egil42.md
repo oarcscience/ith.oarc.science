@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil41)  [Next](egil43) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil41)  [Next](egil43.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ rather a coolness.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XLII. Thorolf asks Asgerdr to wife.](egil43)
+[Next: CHAPTER XLII. Thorolf asks Asgerdr to wife.](egil43.md)

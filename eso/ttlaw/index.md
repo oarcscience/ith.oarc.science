@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,20 +29,20 @@ and references to contemporary science and technology, such as the
 telegraph, radioactivity, and 'flying machines.' This usage will be
 familiar to anyone who has sat through the recent movie [What the Bleep
 do We
-Know?](https://www.amazon.com/exec/obidos/ASIN/B0006UEVQ8/internetsacredte),
+Know?](https://www.amazon.com/exec/obidos/ASIN/B0006UEVQ8/internetsacredte.md),
 which uses special-effects film vocabulary, quantum physics, and string
 theory to similar effect.
 
 ------------------------------------------------------------------------
 
-[Title Page](ttlaw00)  
-[Contents](ttlaw01)  
-[Forward](ttlaw02)  
-[Chapter I. Some Facts In Nature](ttlaw03)  
-[Chapter II. Some Psychic Experiences](ttlaw04)  
-[Chapter III. Man's Place in the Creative Order](ttlaw05)  
-[Chapter IV. The Law of Wholeness](ttlaw06)  
-[Chapter V. The Soul of the Subject](ttlaw07)  
-[Chapter VI. The Promises](ttlaw08)  
-[Chapter VII. Death and Immortality](ttlaw09)  
-[Chapter VIII. Transferring the Burden](ttlaw10)  
+[Title Page](ttlaw00.md)  
+[Contents](ttlaw01.md)  
+[Forward](ttlaw02.md)  
+[Chapter I. Some Facts In Nature](ttlaw03.md)  
+[Chapter II. Some Psychic Experiences](ttlaw04.md)  
+[Chapter III. Man's Place in the Creative Order](ttlaw05.md)  
+[Chapter IV. The Law of Wholeness](ttlaw06.md)  
+[Chapter V. The Soul of the Subject](ttlaw07.md)  
+[Chapter VI. The Promises](ttlaw08.md)  
+[Chapter VII. Death and Immortality](ttlaw09.md)  
+[Chapter VIII. Transferring the Burden](ttlaw10.md)  

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi09)  [Next](vbwi11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi09)  [Next](vbwi11.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ when I turned to take hold of him he was gone."
 
 ------------------------------------------------------------------------
 
-[Next: The Unquiet Dead](vbwi11)
+[Next: The Unquiet Dead](vbwi11.md)

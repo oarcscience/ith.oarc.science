@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ere08)  [Next](ere10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ere08)  [Next](ere10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -23,7 +23,7 @@ peril in the world to come."
 How should one conduct himself before bathing? Thus: He shall first
 remove his shoes, take off his hat, remove his overcoat, take off his
 girdle, then take off his shirt, and after all the drawers. After
-bathing, when a [towel](errata.htm#14) is brought to him, he first wipes
+bathing, when a [towel](errata.htm#14.md) is brought to him, he first wipes
 his head and then the other parts of his body. When the oil is brought
 to him, he shall first anoint his head and then other members of his
 body, and then he shall put on first his drawers, then his shirt, the
@@ -56,4 +56,4 @@ disgrace for the one bathing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI.](ere10)
+[Next: Chapter XI.](ere10.md)

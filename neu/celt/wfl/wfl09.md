@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfl08)  [Next](wfl10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfl08)  [Next](wfl10.md) 
 
 ------------------------------------------------------------------------
 
@@ -182,4 +182,4 @@ along briskly across the mountain top to its new abode.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Fairy Money and Fairy Gifts in General](wfl10)
+[Next: Chapter X: Fairy Money and Fairy Gifts in General](wfl10.md)

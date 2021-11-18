@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg04)  [Next](adg06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg04)  [Next](adg06.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ of adversity.
 
 ------------------------------------------------------------------------
 
-[Next: Adages of imam Ali (puh) in manners of speech and silence](adg06)
+[Next: Adages of imam Ali (puh) in manners of speech and silence](adg06.md)

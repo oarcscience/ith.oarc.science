@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw04)  [Next](tnw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw04)  [Next](tnw06.md) 
 
 ------------------------------------------------------------------------
 
@@ -453,4 +453,4 @@ some one will want to put in iron chains.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Metaphysics: The House of Cards](tnw06)
+[Next: 5. Metaphysics: The House of Cards](tnw06.md)

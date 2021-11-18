@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp25)  [Next](hmvp27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp25)  [Next](hmvp27.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Intangible Textual Heritage
 
 ##### 8. THE KRISHNA AVATĀRA.
 
-Professor Goldstücker says <span id="fr_209"></span>[\*](#fn_209) that
+Professor Goldstücker says <span id="fr_209"></span>[\*](#fn_209.md) that
 this "is the most interesting incarnation of Vishnu, both on account of
 the opportunity which it affords to trace in Hindu antiquity the gradual
 transformation of mortal heroes into representatives of a god; and on
@@ -29,7 +29,7 @@ these deities. In some passages, again, he bears merely the
 
 <span id="img_19800"></span> <span align="CENTER"> [![THE KRISHNA
 AVATĀRA.](tn/19800.jpg)  
-Click to enlarge](img/19800.jpg)  
+Click to enlarge](img/19800.jpg.md)  
 THE KRISHNA AVATĀRA.  
 </span>
 
@@ -87,7 +87,7 @@ Rāma incarnation had been his brother and constant and faithful
 companion, and Bharata also and Sutraghna, should accompany him; and
 that Sitā, under the name of Rukmini, should be his wife.
 
-The "Vishnu Purāna," <span id="fr_210"></span>[\*](#fn_210) from which
+The "Vishnu Purāna," <span id="fr_210"></span>[\*](#fn_210.md) from which
 most of the following legends are taken, gives a somewhat different
 account of Vishnu's reply. Krishna was the incarnation of "a part of a
 part of the supreme being." When entreated to become incarnate, "the
@@ -101,7 +101,7 @@ all be destroyed. This my black hair shall be impersonated in the eighth
 
 conception of Devaki, the wife of Vasudeva, who is like a goddess, and
 shall slay Kansa, who is the demon Kālanemi." <span
-id="fr_211"></span>[\*](#fn_211)
+id="fr_211"></span>[\*](#fn_211.md)
 
 When Vasudeva and his wife Devaki were being driven by King Kansa in a
 chariot, "a voice in the sky, sounding loud and deep like thunder,
@@ -226,7 +226,7 @@ Bhāgavata
 
 <span id="img_20500"></span> <span align="CENTER"> [![KRISHNA SLAYING
 BAKĀSURA.](tn/20500.jpg)  
-Click to enlarge](img/20500.jpg)  
+Click to enlarge](img/20500.jpg.md)  
 KRISHNA SLAYING BAKĀSURA.  
 </span>
 
@@ -307,7 +307,7 @@ portents, wild beasts, fire,
 
 <span id="img_20800"></span> <span align="CENTER"> [![KRISHNA HOLDING UP
 MOUNT GOVARDDHANA.](tn/20800.jpg)  
-Click to enlarge](img/20800.jpg)  
+Click to enlarge](img/20800.jpg.md)  
 KRISHNA HOLDING UP MOUNT GOVARDDHANA.  
 </span>
 
@@ -350,7 +350,7 @@ with them; but as
 
 all could not hold Krishna's hand as they danced, he multiplied himself
 into as many forms as there were women, each woman believing she held
-the hand of the true Krishna. <span id="fr_212"></span>[\*](#fn_212) On
+the hand of the true Krishna. <span id="fr_212"></span>[\*](#fn_212.md) On
 one occasion he watched the Gopis as they went to bathe in the Yamuna
 river, and, stealing their clothes, sat in a tree and refused to restore
 them until each came in the form of a suppliant with uplifted hands to
@@ -389,7 +389,7 @@ After some years Kansa is informed of Krishna's
 
 <span id="img_21100"></span> <span align="CENTER"> [![RĀDHĀ WORSHIPPING
 KRISHNA AS KĀLI.](tn/21100.jpg)  
-Click to enlarge](img/21100.jpg)  
+Click to enlarge](img/21100.jpg.md)  
 RĀDHĀ WORSHIPPING KRISHNA AS KĀLI.  
 </span>
 
@@ -603,7 +603,7 @@ worshipper of Siva, from whom he received the chief blessings he
 enjoyed.
 
 Amongst the references to Krishna in the Mahābhārata are the
-following: <span id="fr_213"></span>[\*](#fn_213)—"Krishna then
+following: <span id="fr_213"></span>[\*](#fn_213.md)—"Krishna then
 reverenced Siva with voice, mind, understanding, and act;" *i.e.* when
 he accompanied Arjuna to Siva's abode to beg heavenly weapons. Siva
 replies, "I have been duly worshipped by Krishna, wherefore no one is
@@ -652,7 +652,7 @@ Dronāchārjya. This chief had a son whom he deeply loved, named
 Ashwatthama; and it was thought that if a report could be spread to the
 effect that this son was slain, his father would be too distressed to
 fight. Dronāchārjya at last heard the rumour, but refused to believe it
-unless [Yudhishthira](errata.htm#0) confirmed it. At first the good king
+unless [Yudhishthira](errata.htm#0.md) confirmed it. At first the good king
 refused to speak an untruth; but at Krishna's suggestion he repeated the
 words, "Ashwatthama is dead," meaning an elephant of that name, yet
 wishing the father to understand he referred to his son. The trick
@@ -671,24 +671,24 @@ Mathuranāth, "The Lord of Mathura."
 
 ### Footnotes
 
-<span id="fn_209"></span>[197:\*](hmvp26.htm#fr_209) Chambers's
+<span id="fn_209"></span>[197:\*](hmvp26.htm#fr_209.md) Chambers's
 Cyclopædia, *s.v.*
 
-<span id="fn_210"></span>[200:\*](hmvp26.htm#fr_210) Book v.
+<span id="fn_210"></span>[200:\*](hmvp26.htm#fr_210.md) Book v.
 
-<span id="fn_211"></span>[201:\*](hmvp26.htm#fr_211) It should be
+<span id="fn_211"></span>[201:\*](hmvp26.htm#fr_211.md) It should be
 noticed here that a commentator says on this passage that the statement
 that two hairs of Vishnu became incarnate must not be taken literally,
 but that the work to be done by him on this occasion was so small that
 it could easily have been effected by two hairs. In Krishna, Vishnu
 himself was manifested.
 
-<span id="fn_212"></span>[210:\*](hmvp26.htm#fr_212) It is this incident
+<span id="fn_212"></span>[210:\*](hmvp26.htm#fr_212.md) It is this incident
 in Krishna's history which is celebrated yearly at the Rāsajattra.
 
-<span id="fn_213"></span>[218:\*](hmvp26.htm#fr_213) Muir, O. S. T., iv.
+<span id="fn_213"></span>[218:\*](hmvp26.htm#fr_213.md) Muir, O. S. T., iv.
 184.
 
 ------------------------------------------------------------------------
 
-[Next: 8A. The Balarāma Avatāra](hmvp27)
+[Next: 8A. The Balarāma Avatāra](hmvp27.md)

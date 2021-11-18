@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt09) [Next](bkt11)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt09) [Next](bkt11.md)
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ both in heaven and on earth.
    "But the wonders which he shall perform are so numerous that a whole
 human life would not suffice to narrate them. I shall content myself,
 therefore, with communicating to you but a part of what he shall see in
-one single night.<span id="page_173_fr_*"></span>[\*](#page_173_note_*)
+one single night.<span id="page_173_fr_*"></span>[\*](#page_173_note_*.md)
 
 <span id="page_174">p. 174</span>
 
@@ -421,7 +421,7 @@ heart and a rude disposition."
 
    David now perceived this to be an allusion to his conduct toward
 Uriah; and, filled with wrath, he grasped his sword,<span
-id="page_187_fr_*"></span>[\*](#page_187_note_*) and would have <span
+id="page_187_fr_*"></span>[\*](#page_187_note_*.md) and would have <span
 id="page_188">p. 188</span> plunged it into Gabriel; but Michael gave a
 loud laugh of scorn; and when Gabriel and himself had ascended above
 David's head on their angels' wings, he said to David, "Thou hast
@@ -675,7 +675,7 @@ his remains to the entrance of the cave where Abraham lies buried.
 
 ------------------------------------------------------------------------
 
-[Next](bkt11)
+[Next](bkt11.md)
 
 ------------------------------------------------------------------------
 
@@ -683,7 +683,7 @@ his remains to the entrance of the cave where Abraham lies buried.
 
 <span id="footnotes_page_173">p. 173</span>
 
-   <span id="page_173_note_*"></span>[\*](#page_173_fr_*) The following
+   <span id="page_173_note_*"></span>[\*](#page_173_fr_*.md) The following
 narrative, which Samuel is made to utter, describes the Night Journey of
 Mohammed. He revealed it to his followers in the 12th year of his
 mission; and though his Arabs were given to the marvellous, yet this
@@ -693,7 +693,7 @@ interposition of Abu Bekr.—*E. T.*
 
 <span id="footnotes_page_187">p. 187</span>
 
-   <span id="page_187_note_*"></span>[\*](#page_187_fr_*) The Scriptures
+   <span id="page_187_note_*"></span>[\*](#page_187_fr_*.md) The Scriptures
 teach that David acknowledged his sin on <span
 id="footnotes_page_188">p. 188</span> Nathan's reproof. The whole
 narrative is so beautiful, that we subjoin it, as given in 2 Sam., xii.,

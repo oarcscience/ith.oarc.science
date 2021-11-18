@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre28)  [Next](gre30) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre28)  [Next](gre30.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,7 +138,7 @@ In the Tunsberg strife.
 
 <span id="page_76">p. 76</span>
 
-The Dromund fair <span id="fr_10"></span>[\*](#fn_10)  
+The Dromund fair <span id="fr_10"></span>[\*](#fn_10.md)  
 Of red seas was there,  
 The stone of the bane  
 Of steel-gods vain  
@@ -166,11 +166,11 @@ he should come back to Norway.
 
 ### Footnotes
 
-<span id="fn_10"></span>[76:\*](gre29.htm#fr_10) The stone of
+<span id="fn_10"></span>[76:\*](gre29.htm#fr_10.md) The stone of
 steel-god's bane is Thorstein; Bylest's kin is Hel, death. The leopard
 is Bessi Skald-Torfason; byrni's flame, his sword. Thoughts-burg, a
 warrior's head.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV: The Slaying of Thorgils Makson](gre30)
+[Next: Chapter XXV: The Slaying of Thorgils Makson](gre30.md)

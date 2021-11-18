@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth021)  [Next](toth023) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth021)  [Next](toth023.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 19. THE PÖOKÓNGHOYAS AND THE CANNIBAL MONSTER. <span id="fr_59"></span>[1](#fn_58)
+## 19. THE PÖOKÓNGHOYAS AND THE CANNIBAL MONSTER. <span id="fr_59"></span>[1](#fn_58.md)
 
 A very long time ago a large monster, whom our forefathers called Shíta,
 lived somewhere in the west, and used to come to the village of Oraíbi
@@ -87,9 +87,9 @@ similar to the world that we are living in.
 
 ### Footnotes
 
-<span id="fn_58"></span>[82:1](toth022.htm#fr_59) Told by Qöyáwaima
+<span id="fn_58"></span>[82:1](toth022.htm#fr_59.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 20. Pöokónghoya And His Brother As Thieves](toth023)
+[Next: 20. Pöokónghoya And His Brother As Thieves](toth023.md)

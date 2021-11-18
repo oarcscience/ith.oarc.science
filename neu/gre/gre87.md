@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre86)  [Next](gre88) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre86)  [Next](gre88.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ Often did I snatch away;
 Now a hag, whose life outworn  
 Wicked craft and ill hath borne, <span id="page_235">p. 235</span>  
 Meet for death lives long enow,  
-Grettir's might to overthrow." <span id="fr_17"></span>[\*](#fn_17)
+Grettir's might to overthrow." <span id="fr_17"></span>[\*](#fn_17.md)
 
 "Now must we take good heed to ourselves," said Grettir, "for Thorbiorn
 Angle must be minded that this hap shall not go alone; and I will,
@@ -114,11 +114,11 @@ then it was the second week since Grettir hurt himself.
 
 ### Footnotes
 
-<span id="fn_17"></span>[235:\*](gre87.htm#fr_17) This song is obviously
+<span id="fn_17"></span>[235:\*](gre87.htm#fr_17.md) This song is obviously
 incomplete, and the second and third stanzas speak of matters that do
 not come into this story.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter LXXXIII: How Thorbiorn Angle gathered Force and set Sail
-for Drangey](gre88)
+for Drangey](gre88.md)

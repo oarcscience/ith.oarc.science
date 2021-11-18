@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb12)  [Next](yefb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb12)  [Next](yefb14.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_64">p. 64</span>
 
-THE GRATEFUL BEASTS <span id="fr_10"></span>[1](#fn_10)
+THE GRATEFUL BEASTS <span id="fr_10"></span>[1](#fn_10.md)
 
 There was once upon a time a man and woman who had three fine-looking
 sons, but they were so poor that they had hardly enough food for
@@ -414,13 +414,13 @@ much beloved by great and small in the land.
 
 ### Footnotes
 
-<span id="fn_10"></span>[64:1](yefb13.htm#fr_10) From the Hungarian.
+<span id="fn_10"></span>[64:1](yefb13.htm#fr_10.md) From the Hungarian.
 Kletke.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Giants and the Herd-Boy](yefb14)
+[Next: The Giants and the Herd-Boy](yefb14.md)
 
 </div>

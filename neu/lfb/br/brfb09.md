@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb08)  [Next](brfb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb08)  [Next](brfb10.md) 
 
 </div>
 
@@ -128,6 +128,6 @@ questions, for she saw that he was wiser than she.
 
 ------------------------------------------------------------------------
 
-[Next: The Turtle and His Bride](brfb10)
+[Next: The Turtle and His Bride](brfb10.md)
 
 </div>

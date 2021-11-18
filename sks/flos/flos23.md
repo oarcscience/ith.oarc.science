@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos22)  [Next](flos24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos22)  [Next](flos24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Intangible Textual Heritage
 
 <span class="smallcaps">Although</span> it has been suggested that
 Shakespeare found but little recreation in fishing, <span
-id="fr_930"></span>[1](#fn_927)\* rather considering, as he makes Ursula
+id="fr_930"></span>[1](#fn_927.md)\* rather considering, as he makes Ursula
 say in "Much Ado About Nothing" (iii. 1)—
 
 <div style="margin-left: 32px">
@@ -36,7 +36,7 @@ say in "Much Ado About Nothing" (iii. 1)—
 
 and that it would be difficult to illustrate a work on angling with
 quotations from his writings," the Rev. H. N. Ellacombe, in his
-interesting papers <span id="fr_931"></span>[2](#fn_928) on "Shakespeare
+interesting papers <span id="fr_931"></span>[2](#fn_928.md) on "Shakespeare
 as an Angler," has not only shown the strong probability that he was a
 lover of this sport, but further adds, that "he may be claimed as the
 first English poet that wrote of angling with any freedom; and there can
@@ -55,7 +55,7 @@ embellish this part of our subject.
 <span id="page_467">p. 467</span>
 
 deceit to the craft required for catching a carp," is most apt
-("Hamlet," ii. I) <span id="fr_932"></span>[1](#fn_929)—
+("Hamlet," ii. I) <span id="fr_932"></span>[1](#fn_929.md)—
 
 <div style="margin-left: 32px">
 
@@ -69,7 +69,7 @@ large as the average brain of other fishes.
 
    *Cockle*.—The badge of a pilgrim was formerly a cockleshell, which
 was worn usually in the front of the hat. "The habit," we are
-told, <span id="fr_933"></span>[2](#fn_930) "being sacred, this served
+told, <span id="fr_933"></span>[2](#fn_930.md) "being sacred, this served
 as a protection, and therefore was often assumed as a disguise." The
 escalop was sometimes used, and either of them was considered as an
 emblem of the pilgrim's intention to go beyond the sea. Thus in
@@ -96,14 +96,14 @@ dress:—
 </div>
 
    *Cuttle*.—A foul-mouthed fellow was so called, says Mr
-Halliwell-Phillipps, <span id="fr_934"></span>[3](#fn_931) because this
+Halliwell-Phillipps, <span id="fr_934"></span>[3](#fn_931.md) because this
 fish is said to throw out of its mouth, upon certain occasions, an inky
 and black juice that fouls the water; and as an illustration of its use
 in this sense, he quotes Doll Tearsheet's words to Pistol, "2 Henry IV."
 (ii. 4):—"By this wine, I'll thrust my knife in your mouldy chaps, an
 you play the saucy cuttle with me." Dyce says that the context would
 seem to imply that the term is equivalent to "culter, swaggerer,
-bully." <span id="fr_935"></span>[4](#fn_932)
+bully." <span id="fr_935"></span>[4](#fn_932.md)
 
    *Gudgeon*.—This being the bait for many of the larger fish, "to
 swallow a gudgeon," was sometimes used for to be caught or deceived.
@@ -139,7 +139,7 @@ suggests that the passage may mean, "breeds fleas as fast as a Loach
 breeds loaches;" this fish being reckoned a peculiarly prolific fish. It
 seems probable, however, that the Carrier alludes to one of those
 fanciful notions as make up a great part of the natural history among
-the common people. <span id="fr_936"></span>[1](#fn_933) At the present
+the common people. <span id="fr_936"></span>[1](#fn_933.md) At the present
 day there is a fisherman's fancy on the Norfolk coast that fish and
 fleas come together. "Lawk, sir!" said an old fellow, near Cromer, to a
 correspondent of "Notes and Queries" (Oct. 7th, 1865), "times is as you
@@ -209,7 +209,7 @@ Scott's "Minstrelsy of the Scottish Border," iv. 294)—
 
  Borne on a foaming crested wave  
  She reached amain the bounding prow,  
- Then clasping fast the [chieftain](errata.htm#10) brave,  
+ Then clasping fast the [chieftain](errata.htm#10.md) brave,  
  She, plunging, sought the deep below."
 
 </div>
@@ -240,7 +240,7 @@ keep up the old custom chiefly for amusement. On St Stephen's Day, a
 band of boys go from door to door with a wren suspended by the legs, in
 the centre of two hoops crossing each other at right angles, decorated
 with evergreens and ribbons, singing lines called "Hunt the Wren." <span
-id="fr_937"></span>[1](#fn_934)
+id="fr_937"></span>[1](#fn_934.md)
 
    In the "Midsummer Night's Dream" (ii. 1), Oberon speaks of heaving "a
 mermaid on a dolphin's back;" and in "Hamlet," the queen referring to
@@ -270,10 +270,10 @@ shall;" and in "Antony and Cleopatra" (ii. 2) Enobarbus relates how—
 
 </div>
 
-   In all these cases Shakespeare, <span id="fr_938"></span>[1](#fn_935)
+   In all these cases Shakespeare, <span id="fr_938"></span>[1](#fn_935.md)
 as was his wont, made his characters say what they were likely to think,
 in their several positions and periods of life. It has been
-suggested, <span id="fr_939"></span>[2](#fn_936) however, that the idea
+suggested, <span id="fr_939"></span>[2](#fn_936.md) however, that the idea
 of the mermaid, in some of the passages just quoted, seems more
 applicable to the syren, especially in the "Midsummer's Night's Dream,"
 where the "mermaid on a dolphin's back" could not easily have been so
@@ -292,7 +292,7 @@ reported from the north of Scotland that some time this month a sea
 creature, known by the name of mermaid, which has the shape of a human
 body from the trunk upwards, but below is wholly fish, was carried some
 miles up the water of Devron." In 1824, <span
-id="fr_940"></span>[3](#fn_937) a mermaid or merman made its appearance,
+id="fr_940"></span>[3](#fn_937.md) a mermaid or merman made its appearance,
 when, as the papers of that day inform us, "upwards of 150 distinguished
 fashionables" went to see it.
 
@@ -359,14 +359,14 @@ expect then some stormy weather."
 
 is generally supposed to be the hippopotamus, which, according to Upton,
 was the hieroglyphical symbol of impiety and ingratitude. <span
-id="fr_941"></span>[1](#fn_938) Sandys <span
-id="fr_942"></span>[2](#fn_939) gives a picture said to be portrayed in
+id="fr_941"></span>[1](#fn_938.md) Sandys <span
+id="fr_942"></span>[2](#fn_939.md) gives a picture said to be portrayed in
 the porch of the temple of Minerva at Sais, in which is the figure of a
 river horse, denoting "murder, impudence, violence, and injustice; for
 they say that he killeth his sire and ravisheth his own dam." His
 account is no doubt taken from Plutarch's "Isis and Osiris;" and
 Shakespeare may have read it in Holland's translation (p. 1300), <span
-id="fr_943"></span>[3](#fn_940)\* but why he should call the river horse
+id="fr_943"></span>[3](#fn_940.md)\* but why he should call the river horse
 a "sea-monster" is not very clear. It is more likely, however, that the
 whale is meant.
 
@@ -374,49 +374,49 @@ whale is meant.
 
 ### Footnotes
 
-<span id="fn_927"></span>[466:1](flos23.htm#fr_930) See Harting's
+<span id="fn_927"></span>[466:1](flos23.htm#fr_930.md) See Harting's
 "Ornithology of Shakespeare," 1871, p. 3.
 
-<span id="fn_928"></span>[466:2](flos23.htm#fr_931) "The Antiquary,"
+<span id="fn_928"></span>[466:2](flos23.htm#fr_931.md) "The Antiquary,"
 1881, iv. p. 193.
 
-<span id="fn_929"></span>[467:1](flos23.htm#fr_932) "Antiquary," iv. pp.
+<span id="fn_929"></span>[467:1](flos23.htm#fr_932.md) "Antiquary," iv. pp.
 193.
 
-<span id="fn_930"></span>[467:2](flos23.htm#fr_933) Nares’ "Glossary,"
+<span id="fn_930"></span>[467:2](flos23.htm#fr_933.md) Nares’ "Glossary,"
 i. p. 175.
 
-<span id="fn_931"></span>[467:3](flos23.htm#fr_934) "A Handbook Index to
+<span id="fn_931"></span>[467:3](flos23.htm#fr_934.md) "A Handbook Index to
 the Works of Shakespeare," 1866, p. 119.
 
-<span id="fn_932"></span>[467:4](flos23.htm#fr_935) See a Note in Dyce's
+<span id="fn_932"></span>[467:4](flos23.htm#fr_935.md) See a Note in Dyce's
 "Glossary," p. 112.
 
-<span id="fn_933"></span>[468:1](flos23.htm#fr_936) Nares’ "Glossary,"
+<span id="fn_933"></span>[468:1](flos23.htm#fr_936.md) Nares’ "Glossary,"
 ii. p. 518.
 
-<span id="fn_934"></span>[470:1](flos23.htm#fr_937) See "British Popular
+<span id="fn_934"></span>[470:1](flos23.htm#fr_937.md) See "British Popular
 Customs," pp. 494, 495.
 
-<span id="fn_935"></span>[471:1](flos23.htm#fr_938) See "Book of Days,"
+<span id="fn_935"></span>[471:1](flos23.htm#fr_938.md) See "Book of Days,"
 ii. pp. 612–614.
 
-<span id="fn_936"></span>[471:2](flos23.htm#fr_939) Nares’ "Glossary,"
+<span id="fn_936"></span>[471:2](flos23.htm#fr_939.md) Nares’ "Glossary,"
 ii. 565; see Brand's "Pop. Antiq.," 1849, iii. pp. 411-414.
 
-<span id="fn_937"></span>[471:3](flos23.htm#fr_940) "History of Sign
+<span id="fn_937"></span>[471:3](flos23.htm#fr_940.md) "History of Sign
 Boards," 1866, p. 226.
 
-<span id="fn_938"></span>[473:1](flos23.htm#fr_941) Wright's Notes to
+<span id="fn_938"></span>[473:1](flos23.htm#fr_941.md) Wright's Notes to
 "King Lear," 1877, p. 133.
 
-<span id="fn_939"></span>[473:2](flos23.htm#fr_942) "Travels," 1673, p.
+<span id="fn_939"></span>[473:2](flos23.htm#fr_942.md) "Travels," 1673, p.
 305.
 
-<span id="fn_940"></span>[473:3](flos23.htm#fr_943) Cf. "King Lear," iv.
+<span id="fn_940"></span>[473:3](flos23.htm#fr_943.md) Cf. "King Lear," iv.
 2, 48, 49; "Troilus and Cressida," v. 5; "All's Well that Ends Well,"
 iv. 3.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. Sundry Superstitions](flos24)
+[Next: Chapter XXII. Sundry Superstitions](flos24.md)

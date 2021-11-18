@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt37)  [Next](crt39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt37)  [Next](crt39.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_31600"></span>
 
 [![Sir Kay interrupts ye meditations of Sir Percival](tn/31600.jpg)  
-Click to enlarge](img/31600.jpg)  
+Click to enlarge](img/31600.jpg.md)  
 Sir Kay interrupts ye meditations of Sir Percival  
 
 <span id="page_317">p. 317</span>
@@ -685,4 +685,4 @@ So, for this time, no more of these adventures, but fare you well.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](crt39)
+[Next: Conclusion](crt39.md)

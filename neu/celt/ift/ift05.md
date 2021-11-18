@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ift04)  [Next](ift06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ift04)  [Next](ift06.md) 
 
 ------------------------------------------------------------------------
 
@@ -687,4 +687,4 @@ was never heard of again.
 
 ------------------------------------------------------------------------
 
-[Next: The Little Brawl at Allen](ift06)
+[Next: The Little Brawl at Allen](ift06.md)

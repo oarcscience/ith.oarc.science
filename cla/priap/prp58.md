@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp57)  [Next](prp59) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp57)  [Next](prp59.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ plucks off these apples, may she meet with no futterer.
 
 ------------------------------------------------------------------------
 
-[Next: 59. Know, lest due warning be denied by thee](prp59)
+[Next: 59. Know, lest due warning be denied by thee](prp59.md)

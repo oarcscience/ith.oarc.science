@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos11)  [Next](dos13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos11)  [Next](dos13.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ Umra-Singh turned, and left the palace, and went out into the street.
 
 ------------------------------------------------------------------------
 
-[Next: X. Separation](dos13)
+[Next: X. Separation](dos13.md)

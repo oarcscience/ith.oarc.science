@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb10)  [Next](ttb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb10)  [Next](ttb12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 <span id="page_24">p. 24</span>
 
 <span id="img_02400"></span> ![Kutze-ce-te-ut, the Wood
-Worm](img/02400.jpg)
+Worm](img/02400.jpg.md)
 
 ### Kutze-ce-te-ut, THE WOOD WORM
 
@@ -55,11 +55,11 @@ dead. She cried bitterly, accusing the people of slaying her child. She
 then sang songs about **Kutze-ce-te-ut** until she died of grief.
 
 In commemoration of this event the descendants of this girl's family
-display the figure of [**Kutze-ce-te-ut**](errata.htm#14) as the crest
-of [their](errata.htm#15) ancestors. A totem pole with a carving of a
+display the figure of [**Kutze-ce-te-ut**](errata.htm#14.md) as the crest
+of [their](errata.htm#15.md) ancestors. A totem pole with a carving of a
 Wood Worm is difficult to secure. It is more often found engraved on the
 native silver work.
 
 ------------------------------------------------------------------------
 
-[Next: Kee-War-Kow, The Sun](ttb12)
+[Next: Kee-War-Kow, The Sun](ttb12.md)

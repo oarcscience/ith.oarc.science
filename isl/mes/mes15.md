@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes14)  [Next](mes16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes14)  [Next](mes16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -24,10 +24,10 @@ Textual Heritage
 
 #### IN THE NAME OF GOD, THE ALL-MERCIFUL, THE VERY-COMPASSIONATE.
 
-### <span class="smallcaps">Proem</span>. <span id="img_m00100"></span> ![The Reed-Flute.](img/m00100.jpg)
+### <span class="smallcaps">Proem</span>. <span id="img_m00100"></span> ![The Reed-Flute.](img/m00100.jpg.md)
 
 <span class="smallcaps">From</span> reed-flute <span
-id="fr_55"></span>[1](#fn_54) hear what tale it tells;  
+id="fr_55"></span>[1](#fn_54.md) hear what tale it tells;  
 What plaint it makes of absence’ ills:
 
 "From jungle-bed since me they tore,  
@@ -77,7 +77,7 @@ Pour rivers into one small gill,
 its little fill.  
 The eye's a vase that's ne’er content;  
 The oyster's filled ere pearl is sent. <span
-id="fr_56"></span>[1](#fn_55)  
+id="fr_56"></span>[1](#fn_55.md)  
 The heart that's bleeding from love's dart,  
 From vice of greed is kept apart.  
 Then hie thee, love, a welcome guest;—  
@@ -92,7 +92,7 @@ hill, to skip pretends.
 
 In trance of love, Mount Sinai shakes,  
 At God's descent; 'and Moses quakes.' <span
-id="fr_57"></span>[1](#fn_56)  
+id="fr_57"></span>[1](#fn_56.md)  
 Found I the friend on whom I dote,  
 I'd emulate flute's dulcet note.  
 But from my love, while torn away,  
@@ -120,20 +120,20 @@ Such is my case; sung all too well.
 
 ### Footnotes
 
-<span id="fn_54"></span>[m1:1](mes15.htm#fr_55) The reed-flute is the
+<span id="fn_54"></span>[m1:1](mes15.htm#fr_55.md) The reed-flute is the
 sacred musical instrument of the Mevlevī dervishes, commonly known as
 the Dancing Dervishes, from their peculiar religious waltz to the sound
 of the reed-flute, &c., with outstretched arms and inclined head, in
 their special public services of commemoration. They love the reed-flute
 as the symbol of a sighing absent lover.
 
-<span id="fn_55"></span>[m2:1](mes15.htm#fr_56) There is a poetical
+<span id="fn_55"></span>[m2:1](mes15.htm#fr_56.md) There is a poetical
 Eastern notion by dewdrops or raindrops falling into that pearls are
 formed in the oysters them at a certain season.
 
-<span id="fn_56"></span>[m3:1](mes15.htm#fr_57) Qur’ān vii. 139, where
+<span id="fn_56"></span>[m3:1](mes15.htm#fr_57.md) Qur’ān vii. 139, where
 the words are: "*And Moses fell down, swooning*."
 
 ------------------------------------------------------------------------
 
-[Next: I. The Prince and the Handmaid](mes16)
+[Next: I. The Prince and the Handmaid](mes16.md)

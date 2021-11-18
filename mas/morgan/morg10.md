@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](morg09)  [Next](morg11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](morg09)  [Next](morg11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Illustrations of Masonry*, by William Morgan, \[1827\], at Intangible
 Textual Heritage
 
@@ -119,7 +119,7 @@ Ans. "In search of more light."
 
 "How did the Worshipful then dispose of you?'
 
-Ans. "He ordered me to [be](errata.htm#7) conducted back to the west,
+Ans. "He ordered me to [be](errata.htm#7.md) conducted back to the west,
 from whence I came, and put in care of the Senior Warden, who taught me
 how to approach the east, by advancing upon two upright regular steps to
 the second step, my feet forming the right angle of an oblong square,
@@ -141,7 +141,7 @@ Ans. "My right knee bare, bent, my left knee forming a square, my right
 hand on the Holy Bible, Square and Compass, my left arm forming an angle
 supported by the Square, and my hand in a vertical position, in which
 posture I took upon me the solemn oath or obligation of a Fellow Craft
-Mason." \[See page [52](morg09.htm#page_52) for obligation.\]
+Mason." \[See page [52](morg09.htm#page_52.md) for obligation.\]
 
 "After your oath of obligation what was said to you?"
 
@@ -217,4 +217,4 @@ divested."
 
 ------------------------------------------------------------------------
 
-[Next: Second Section of the Fellow Craft Mason Lecture](morg11)
+[Next: Second Section of the Fellow Craft Mason Lecture](morg11.md)

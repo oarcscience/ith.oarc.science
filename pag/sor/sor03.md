@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor02)  [Next](sor04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor02)  [Next](sor04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -61,7 +61,7 @@ Here it is an entirely different matter. The early Christians,
 as a whole and individually, in the past and in the future, hold Nature
 herself accursed. They condemn her as a whole and in every part, going
 so far as to see Evil incarnate, the Demon himself, in a flower. <span
-id="fr_2"></span>[1](#fn_2) So, welcome—and the sooner the better—the
+id="fr_2"></span>[1](#fn_2.md) So, welcome—and the sooner the better—the
 angel-hosts that of old destroyed the Cities of the Plain. Let them
 destroy, fold away like a veil, the empty image of the world, and at
 length deliver the saints from the long-drawn ordeal of temptation.
@@ -104,7 +104,7 @@ in rushing streams and deep pools, could not be driven out.
 Who says so? The Church herself, contradicting herself flatly. She first
 proclaims them dead, then waxes indignant because they are still alive.
 From century to century, by the threatening voice of her Councils, <span
-id="fr_3"></span>[2](#fn_3) she orders them to die. . . . And lo! they
+id="fr_3"></span>[2](#fn_3.md) she orders them to die. . . . And lo! they
 are as much alive as ever!
 
 "They are demons . . ."—and therefore alive. Unable to kill them, the
@@ -164,7 +164,7 @@ Devil, impelled by demons,—and they told only the truth.
 
 There was an enormous void arisen in Nature's plan. Who or what should
 fill it? The Christian Church is ready with an answer: The Demon,
-everywhere the Demon—*Ubique Dæmon*. <span id="fr_4"></span>[3](#fn_4)
+everywhere the Demon—*Ubique Dæmon*. <span id="fr_4"></span>[3](#fn_4.md)
 
 Greece no doubt, like all other countries, had had its *energumens*,
 
@@ -296,7 +296,7 @@ You promised; I am returned to claim my promised happiness. . . .
 
 "'Alack! dear heart, you must die. You would languish here and pine
 away. I have your hair; ’twill be white to-morrow. <span
-id="fr_5"></span>[4](#fn_5) . . . Mother, one last prayer! Open my dark
+id="fr_5"></span>[4](#fn_5.md) . . . Mother, one last prayer! Open my dark
 dungeon, raise a funeral pyre, and let my loving heart win the repose
 the flames alone can give. Let the sparks fly upward and the embers
 glow! We will back to our old gods again.'"
@@ -305,20 +305,20 @@ glow! We will back to our old gods again.'"
 
 ### Footnotes
 
-<span id="fn_2"></span>[4:1](sor03.htm#fr_2) Compare Muratori, *Script.
+<span id="fn_2"></span>[4:1](sor03.htm#fr_2.md) Compare Muratori, *Script.
 It.*, i. 293, 545, on St. Cyprian; A. Maury, *Magie*, 435.
 
-<span id="fn_3"></span>[5:2](sor03.htm#fr_3) See Mansi, Baluze; Council
+<span id="fn_3"></span>[5:2](sor03.htm#fr_3.md) See Mansi, Baluze; Council
 of Arles, 442; Tours, 567; Leptines, 743; the *Capitularies*, etc.
 Gerson even, towards 1400.
 
-<span id="fn_4"></span>[6:3](sor03.htm#fr_4) See the *Lives of the
+<span id="fn_4"></span>[6:3](sor03.htm#fr_4.md) See the *Lives of the
 Fathers of the Desert*, and the authors quoted by A. Maury, *Magie*,
 317. In the fourth century the Messalians, believing themselves to be
 full of demons, were constantly blowing their noses, and spitting
 unceasingly, in their incredible efforts to expectorate these.
 
-<span id="fn_5"></span>[10:4](sor03.htm#fr_5) At this point of the story
+<span id="fn_5"></span>[10:4](sor03.htm#fr_5.md) At this point of the story
 I suppress an expression that may well shock us. Goethe, so noble in the
 form of his writings, is not equally so in the spirit. He quite mars the
 wonderful tale, fouling the Greek with a gruesome Slavonic notion. At
@@ -354,4 +354,4 @@ tomb, no longer a stealthy visitant, but mistress of the house and home.
 
 ------------------------------------------------------------------------
 
-[Next: 2. What Drove the Middle Ages to Despair](sor04)
+[Next: 2. What Drove the Middle Ages to Despair](sor04.md)

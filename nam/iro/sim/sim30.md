@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim29)  [Next](sim31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim29)  [Next](sim31.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ and learn to use them."
 
 The next morning she said, "Go out and try to kill birds. Go as far as
 you like, but don't go North." She gave him a breakfast of parched
-corn. <span id="fr_1"></span>[1](#fn_1)
+corn. <span id="fr_1"></span>[1](#fn_1.md)
 
 The boy went through the woods shooting birds and by the middle of the
 day, he thought, "I will go home now, my Grandmother will be glad; I've
@@ -384,10 +384,10 @@ started for home, crying as she went.
 
 ### Footnotes
 
-<span id="fn_1"></span>[167:1](sim30.htm#fr_1) Hunters always eat
+<span id="fn_1"></span>[167:1](sim30.htm#fr_1.md) Hunters always eat
 parched corn, for they don't get hungry as soon on that as on other
 foods.
 
 ------------------------------------------------------------------------
 
-[Next: Bald Eagle Sends Mud-Turtle to the Edge of the World](sim31)
+[Next: Bald Eagle Sends Mud-Turtle to the Edge of the World](sim31.md)

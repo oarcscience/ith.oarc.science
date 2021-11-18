@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic078)  [Next](lfic080) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic078)  [Next](lfic080.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ interference were it not for its rather doubtful character:--
 
 ------------------------------------------------------------------------
 
-[Next: How Donaghedee got its Name](lfic080)
+[Next: How Donaghedee got its Name](lfic080.md)

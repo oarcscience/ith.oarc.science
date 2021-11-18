@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp04)  [Next](dmp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp04)  [Next](dmp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ eat, let them drink,'
 
 ------------------------------------------------------------------------
 
-[Next: Col. III](dmp06)
+[Next: Col. III](dmp06.md)

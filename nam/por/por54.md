@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por53)  [Next](por55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por53)  [Next](por55.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 <div style="margin-left: 32px">
 
-Kulasgh, Kulasgh, my mother, <span id="fr_6"></span>[\*](#fn_6)  
+Kulasgh, Kulasgh, my mother, <span id="fr_6"></span>[\*](#fn_6.md)  
 I sit at thy knee  
 Weaving my basket of grasses,  
 Weaving for my harvest of berries when the Ripe Days come.  
@@ -56,10 +56,10 @@ Ere the Sunset and the Dropping Leaf!
 
 ### Footnotes
 
-<span id="fn_6"></span>[175:\*](por54.htm#fr_6) Kulasgh, Cedar tree,
+<span id="fn_6"></span>[175:\*](por54.htm#fr_6.md) Kulasgh, Cedar tree,
 considered the source of life by the British Columbian Coast tribes, as
 it supplies all their necessities, even food in fish famine.
 
 ------------------------------------------------------------------------
 
-[Next: The Change Song](por55)
+[Next: The Change Song](por55.md)

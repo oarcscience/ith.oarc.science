@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont33)  [Next](ont35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont33)  [Next](ont35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -111,7 +111,7 @@ alone." Gazing steadily
 
 <span id="img_41600"></span> <span align="CENTER"> [![THE WAR
 CHIEF](tn/41600.jpg)  
-Click to enlarge](img/41600.jpg)  
+Click to enlarge](img/41600.jpg.md)  
 THE WAR CHIEF  
 </span>
 
@@ -167,7 +167,7 @@ His manner was very impressive as he turned and,
 
 <span id="img_41800"></span> <span align="CENTER"> [![“I WILL TELL YOU
 NOTHING BUT THE TRUTH.”](tn/41800.jpg)  
-Click to enlarge](img/41800.jpg)  
+Click to enlarge](img/41800.jpg.md)  
 “I WILL TELL YOU NOTHING BUT THE TRUTH.”  
 </span>
 
@@ -252,7 +252,7 @@ instructed young
 
 <span id="img_42100"></span> <span align="CENTER"> [![WAR-PARTY RIDING
 THROUGH CAMP HOLDING UP SCALPS.](tn/42100.jpg)  
-Click to enlarge](img/42100.jpg)  
+Click to enlarge](img/42100.jpg.md)  
 WAR-PARTY RIDING THROUGH CAMP HOLDING UP SCALPS.  
 </span>
 
@@ -416,4 +416,4 @@ shown to him by the Thunder-bird."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXII. Events in the Life of Brings-down-the-Sun](ont35)
+[Next: Chapter XXXII. Events in the Life of Brings-down-the-Sun](ont35.md)

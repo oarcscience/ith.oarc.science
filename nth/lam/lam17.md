@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam16.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,13 +12,13 @@ Textual Heritage
 <span id="img_jacket"></span>
 
 [![Dust Jacket cover](tn/jacket.jpg)  
-Click to enlarge](img/jacket.jpg)  
+Click to enlarge](img/jacket.jpg.md)  
 Dust Jacket cover  
 
 <span id="img_flaps"></span>
 
 [![Dust Jacket flaps](tn/flaps.jpg)  
-Click to enlarge](img/flaps.jpg)  
+Click to enlarge](img/flaps.jpg.md)  
 Dust Jacket flaps  
 
 *Dust Jacket flap text:*
@@ -85,7 +85,7 @@ explained my religion in a more beautiful form and I am truly grateful."
 
 |                                                  |
 |--------------------------------------------------|
-| ![Graphic: Our Men Want BOOKS](img/wantbook.jpg) |
+| ![Graphic: Our Men Want BOOKS](img/wantbook.jpg.md) |
 
 *Back Jacket Text:*  
 WHEN you have finished reading this book, do not just place it on a

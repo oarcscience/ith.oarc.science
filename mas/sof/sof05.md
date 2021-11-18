@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof04)  [Next](sof06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof04)  [Next](sof06.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head03.png"></span> ![Header Chapter III.](img/head03.png)
+<span id="img_head03.png"></span> ![Header Chapter III.](img/head03.png.md)
 
 ## III.
 
@@ -23,7 +23,7 @@ deviation from the true worship occurred in the establishment of
 Sabianism, or the worship of the sun, moon, and stars, among some
 peoples, and the deification of men among others. Of these two
 deviations, Sabianism, or sun-worship, was both the earlier and the more
-generally diffused. [5](sof37.htm#xref_5) "It seems," says the learned
+generally diffused. [5](sof37.htm#xref_5.md) "It seems," says the learned
 Owen, "to have had its rise from some broken traditions conveyed by the
 patriarchs touching the dominion of the sun by day and of the moon by
 night." The mode in which this old system has been modified and
@@ -133,6 +133,6 @@ Freemasonry of Antiquity*.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Spurious Freemasonry of Antiquity](sof06)
+[Next: IV. The Spurious Freemasonry of Antiquity](sof06.md)
 
 </div>

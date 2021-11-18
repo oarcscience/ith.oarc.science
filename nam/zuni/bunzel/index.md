@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Southwest](../../sw/index)  [Zuñi](../index) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Southwest](../../sw/index)  [Zuñi](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,11 +28,11 @@ accounts of Zuñi religious beliefs and practices.
 
 ------------------------------------------------------------------------
 
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Table of Zuñi
-Sounds](sounds)  
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Introduction to
-Zuñi Ceremonialism by Ruth Bunzel](zunirel) *215,769 bytes*  
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Zuñi Origin Myths
-by Ruth Bunzel](zom) *66,114 bytes*  
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Zuñi Ritual
-Poetry by Ruth Bunzel](zrp) *310,414 bytes*  
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Table of Zuñi
+Sounds](sounds.md)  
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Introduction to
+Zuñi Ceremonialism by Ruth Bunzel](zunirel.md) *215,769 bytes*  
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Zuñi Origin Myths
+by Ruth Bunzel](zom.md) *66,114 bytes*  
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Zuñi Ritual
+Poetry by Ruth Bunzel](zrp.md) *310,414 bytes*  

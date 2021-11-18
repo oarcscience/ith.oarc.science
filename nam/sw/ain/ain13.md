@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain12)  [Next](ain14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain12)  [Next](ain14.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ and choat-puh (six), and two called respectively see-ick-ko, the value
 of which was fourteen, and gains, the value of which was fifteen. These
 were to be held in the hand and knocked in the air with a flat round
 stone. At the same time there was to be on the ground a
-[parallelogram](errata.htm#10) of holes with a sort of goal, or "home,"
+[parallelogram](errata.htm#10.md) of holes with a sort of goal, or "home,"
 at two corners. If the sticks all fell with face sides up they counted
 five, If all fell with blank sides up it was ten. If only one face side
 turned up it counted its full value, but if two or three turned up then
@@ -241,7 +241,7 @@ not allowed to use the fingers. This is alluded to in the Story of
 Paht-ahn-kum's War. A picture of a Maricopa interpreter, with his hair
 thus arranged, is in the report of Col. W. H. Emory, before alluded to.
 This picture is interesting, because it shows that the Maricopas, when
-with the Pimas, [adopted](errata.htm#11) the same custom. When I showed
+with the Pimas, [adopted](errata.htm#11.md) the same custom. When I showed
 this picture
 
 <span id="page_95">p. 95</span>
@@ -257,4 +257,4 @@ Captain Johnston says of the same man, "the dog had a liquorish tooth."
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Turquoises and the Red Bird](ain14)
+[Next: The Story of the Turquoises and the Red Bird](ain14.md)

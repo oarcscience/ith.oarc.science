@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sastitle)  [Next](sas02)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sastitle)  [Next](sas02.md)  
 
 ------------------------------------------------------------------------
 
@@ -753,4 +753,4 @@ offering (Arghya) made by a Bhakta from a foreign land?"
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Two: Shakti: The World as Power](sas02)
+Next: [Chapter Two: Shakti: The World as Power](sas02.md)

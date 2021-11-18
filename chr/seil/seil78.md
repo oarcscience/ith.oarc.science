@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil77)  [Next](seil79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil77)  [Next](seil79.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -52,8 +52,8 @@ Creator and Lord.
 
 **Fourth Rule**. The fourth: OF SPIRITUAL DESOLATION. I call desolation
 all the contrary of the third <span
-id="fr_35"></span>[36](seil83.htm#fn_35) rule, such as darkness <span
-id="fr_36"></span>[37](seil83.htm#fn_36) of soul, disturbance in it,
+id="fr_35"></span>[36](seil83.htm#fn_35.md) rule, such as darkness <span
+id="fr_36"></span>[37](seil83.htm#fn_36.md) of soul, disturbance in it,
 movement to things low and earthly, the unquiet of different agitations
 and temptations, moving to want of confidence, without hope, without
 love, when one finds oneself all lazy, tepid, sad, and as if separated
@@ -87,7 +87,7 @@ salvation.
 patience, which is contrary to the vexations which come to him: and let
 him think that he will soon be consoled, employing against the
 desolation the devices, as is said in the sixth Rule. <span
-id="fr_37"></span>[38](seil83.htm#fn_37)
+id="fr_37"></span>[38](seil83.htm#fn_37.md)
 
 **Ninth Rule**. The ninth: There are three principal reasons why we find
 ourselves desolate.
@@ -161,4 +161,4 @@ at taking us.
 
 ------------------------------------------------------------------------
 
-[Next: Rules for the Discernment of Spirits](seil79)
+[Next: Rules for the Discernment of Spirits](seil79.md)

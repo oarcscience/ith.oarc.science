@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt07)  [Next](crt09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt07)  [Next](crt09.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_03400"></span>
 
 [![Queen Morgana appears unto Sir Launcelot.](tn/03400.jpg)  
-Click to enlarge](img/03400.jpg)  
+Click to enlarge](img/03400.jpg.md)  
 Queen Morgana appears unto Sir Launcelot.  
 
 <span id="page_35">p. 35</span>
@@ -431,4 +431,4 @@ and of what happened thereat.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fourth](crt09)
+[Next: Chapter Fourth](crt09.md)

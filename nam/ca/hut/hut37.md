@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut36)  [Next](hut38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut36)  [Next](hut38.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXXIV.
 
-### Formula of Medicine to Cause the Infant to Grow Fast. <span id="fr_77"></span>[1](#fn_77)
+### Formula of Medicine to Cause the Infant to Grow Fast. <span id="fr_77"></span>[1](#fn_77.md)
 
 <span id="page_287">p. 287</span>
 
@@ -26,20 +26,20 @@ stopped the medicine grew. She broke off some of it and with that picked
 up the baby. That which grew at the place toward which he crawled became
 the medicine. She took him back to the eastern corner where she steamed
 him with it. The medicine was wild ginger. <span
-id="fr_78"></span>[1](#fn_78)
+id="fr_78"></span>[1](#fn_78.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_77"></span>[286:1](hut37.htm#fr_77) Told at Hupa, December
+<span id="fn_77"></span>[286:1](hut37.htm#fr_77.md) Told at Hupa, December
 1901, by Emma Lewis. For the treatment of infants by the Hupa compare,
 Life and Culture of the Hupa, p. 51.
 
-<span id="fn_78"></span>[287:1](hut37.htm#fr_78) *Asarum caudatum*
+<span id="fn_78"></span>[287:1](hut37.htm#fr_78.md) *Asarum caudatum*
 Lindl.
 
 ------------------------------------------------------------------------
 
 [Next: XXXV. Formula of Medicine to Cause the Infant to Grow
-Strong](hut38)
+Strong](hut38.md)

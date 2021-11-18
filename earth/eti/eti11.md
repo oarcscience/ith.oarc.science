@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti10)  [Next](eti12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti10)  [Next](eti12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ Alchemical
 
 <span id="img_03500"></span> <span align="CENTER"> [![FAC-SIMILE OF PAGE
 OF MANUSCRIPT.](tn/03500.jpg)  
-Click to enlarge](img/03500.jpg)  
+Click to enlarge](img/03500.jpg.md)  
 FAC-SIMILE OF PAGE OF MANUSCRIPT.  
 </span>
 
@@ -428,4 +428,4 @@ white beard, and then, after casting an inquiring glance on me, asked,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Writing of My Confession](eti12)
+[Next: Chapter V. The Writing of My Confession](eti12.md)

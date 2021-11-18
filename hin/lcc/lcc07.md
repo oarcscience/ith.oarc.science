@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc06)  [Next](lcc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc06)  [Next](lcc08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ nectar to the gods, your waning fortunes win an added charm.
 
  As flitting bees, the season o’er,  
  Desert the elephant, whose store  
- Of ichor <span id="fr_29"></span>[1](#fn_29) spent, attracts no
+ Of ichor <span id="fr_29"></span>[1](#fn_29.md) spent, attracts no
 more.<span class="margnote">12</span>
 
 </div>
@@ -225,7 +225,7 @@ class="margnote">17</span>
 
 </div>
 
-*Sansthānaka*. Shtop, <span id="fr_30"></span>[1](#fn_30) Vasantasenā,
+*Sansthānaka*. Shtop, <span id="fr_30"></span>[1](#fn_30.md) Vasantasenā,
 shtop!
 
 <div style="margin-left: 32px">
@@ -262,7 +262,7 @@ Your garment's border, red and fair,
 Is all a-shiver in the air;  
 Now and again, a lotus-bud  
 Falls to the ground, as red as blood.  
-A red realgar <span id="fr_31"></span>[1](#fn_31) vein you seem,  
+A red realgar <span id="fr_31"></span>[1](#fn_31.md) vein you seem,  
 Whence, smitten, drops of crimson stream.<span
 class="margnote">20</span>
 
@@ -276,7 +276,7 @@ You wake my passion, my desire, my love;
   You drive away my shleep in bed at night;  
 Both fear and terror sheem your heart to move;  
   You trip and shtumble in your headlong flight.  
-But Rāvana forced Kuntī <span id="fr_32"></span>[2](#fn_32) to his
+But Rāvana forced Kuntī <span id="fr_32"></span>[2](#fn_32.md) to his
 will;  
 Jusht sho shall I enjoy you to the fill.<span class="margnote">21</span>
 
@@ -444,7 +444,7 @@ should not be robbed of its blossoms. Say no more about the jewels.
 *Vasantasenā*. What is then your desire?
 
 *Sansthānaka*. I'm a man, a big man, a regular Vāsudeva. <span
-id="fr_33"></span>[1](#fn_33) You musht love me.
+id="fr_33"></span>[1](#fn_33.md) You musht love me.
 
 *Vasantasenā*. \[*Indignantly*.\] Heavens! You weary me. Come, leave me!
 Your words are an insult.
@@ -492,7 +492,7 @@ And on your beauty every man may dote.<span class="margnote">32</span>
 *Vasantasenā*. Yet true love would be won by virtue, not violence.
 
 *Sansthānaka*. But, mashter, ever since the shlave-wench went into the
-park where Kāma's <span id="fr_34"></span>[1](#fn_34) temple shtands,
+park where Kāma's <span id="fr_34"></span>[1](#fn_34.md) temple shtands,
 she has been in love with a poor man, with Chārudatta, and she doesn't
 love me any more. His house is to the left. Look out and don't let her
 shlip out of our hands.
@@ -603,7 +603,7 @@ He meets with scornful looks for looks of cheer. <span id="page_16">p.
 
 Where vulgar throngs are gathered, ’tis the same;  
 His scanty raiment wakes his heartfelt shame.  
-Five are the deadly sins <span id="fr_35"></span>[1](#fn_35) we knew
+Five are the deadly sins <span id="fr_35"></span>[1](#fn_35.md) we knew
 before;  
 Alas! I find the sixth is—to be poor.<span class="margnote">37</span>
 
@@ -695,7 +695,7 @@ class="margnote">40</span>
   By the hair, the locks, and the curls, too.  
 Now shcream, shqueak, shqueal with all your might  
   "Shiva! Ishvara! Shankara! Shambhu!" <span
-id="fr_36"></span>[1](#fn_36)<span class="margnote">41</span>
+id="fr_36"></span>[1](#fn_36.md)<span class="margnote">41</span>
 
 </div>
 
@@ -1061,7 +1061,7 @@ This unknown lady, by my robe
 <div style="margin-left: 32px">
 
 Until she seems the crescent moon,  
-  With clouds of autumn <span id="fr_37"></span>[1](#fn_37) mated?<span
+  With clouds of autumn <span id="fr_37"></span>[1](#fn_37.md) mated?<span
 class="margnote">54</span>
 
 </div>
@@ -1223,41 +1223,41 @@ and Vardhamānaka by day.
 
 ### Footnotes
 
-<span id="fn_29"></span>[7:1](lcc07.htm#fr_29) During the mating season,
+<span id="fn_29"></span>[7:1](lcc07.htm#fr_29.md) During the mating season,
 a fragrant liquor exudes from the forehead of the elephant. Of this
 liquor bees are very fond.
 
-<span id="fn_30"></span>[9:1](lcc07.htm#fr_30) The most striking
+<span id="fn_30"></span>[9:1](lcc07.htm#fr_30.md) The most striking
 peculiarity of Sansthānaka's dialect—his substitution of *sh* for *s*—I
 have tried to imitate in the translation.
 
-<span id="fn_31"></span>[10:1](lcc07.htm#fr_31) Red arsenic, used as a
+<span id="fn_31"></span>[10:1](lcc07.htm#fr_31.md) Red arsenic, used as a
 cosmetic.
 
-<span id="fn_32"></span>[10:2](lcc07.htm#fr_32) Here, as elsewhere,
+<span id="fn_32"></span>[10:2](lcc07.htm#fr_32.md) Here, as elsewhere,
 Sansthānaka's mythology is wildly confused. To a Hindu the effect must
 be ludicrous enough; but the humor is necessarily lost in a translation.
 It therefore seems hardly worth while to explain his mythological
 vagaries in detail.
 
-<span id="fn_33"></span>[13:1](lcc07.htm#fr_33) A name of Krishna, who
+<span id="fn_33"></span>[13:1](lcc07.htm#fr_33.md) A name of Krishna, who
 is perhaps the most amorous character in Indian story.
 
-<span id="fn_34"></span>[14:1](lcc07.htm#fr_34) Cupid.
+<span id="fn_34"></span>[14:1](lcc07.htm#fr_34.md) Cupid.
 
-<span id="fn_35"></span>[16:1](lcc07.htm#fr_35) The five deadly sins
+<span id="fn_35"></span>[16:1](lcc07.htm#fr_35.md) The five deadly sins
 are: the slaying of a Brahman, the drinking of wine, theft, adultery
 with the wife of one's teacher, and association with one guilty of these
 crimes.
 
-<span id="fn_36"></span>[17:1](lcc07.htm#fr_36) These are all epithets
+<span id="fn_36"></span>[17:1](lcc07.htm#fr_36.md) These are all epithets
 of the same god.
 
-<span id="fn_37"></span>[23:1](lcc07.htm#fr_37) Which look pretty, but
+<span id="fn_37"></span>[23:1](lcc07.htm#fr_37.md) Which look pretty, but
 do not rain. He doubtless means to suggest that the cloak, belonging to
 a strange man, is as useless to Vasantasenā as the veil of autumn clouds
 to the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Act the Second: The Shampooer Who Gambled](lcc08)
+[Next: Act the Second: The Shampooer Who Gambled](lcc08.md)

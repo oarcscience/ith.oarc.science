@@ -1,10 +1,10 @@
-[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife6) [Next](ife8)
+[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife6) [Next](ife8.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_40">p. 40</span>
 
-## V. THE ÚBO WARS.<span id="page_40_fr_1"></span>[1](#page_40_note_1)
+## V. THE ÚBO WARS.<span id="page_40_fr_1"></span>[1](#page_40_note_1.md)
 
 <table>
 <colgroup>
@@ -237,7 +237,7 @@ All-mindful of the guile of Mórimi.</td>
 
 ------------------------------------------------------------------------
 
-[Next](ife8)
+[Next](ife8.md)
 
 ------------------------------------------------------------------------
 
@@ -245,40 +245,40 @@ All-mindful of the guile of Mórimi.</td>
 
 <span id="footnotes_page_40">p. 40</span>
 
-<span id="page_40_note_1"></span>[1](#page_40_fr_1) [See Note
-VII](ife9.htm#VII) on Úbo and the Édi Festival.
+<span id="page_40_note_1"></span>[1](#page_40_fr_1.md) [See Note
+VII](ife9.htm#VII.md) on Úbo and the Édi Festival.
 
-<span id="page_40_note_2"></span>[2](#page_40_fr_2) [See Note
-X](ife9.htm#X) on Ógun.
+<span id="page_40_note_2"></span>[2](#page_40_fr_2.md) [See Note
+X](ife9.htm#X.md) on Ógun.
 
 <span id="footnotes_page_41">p. 41</span>
 
-<span id="page_41_note_3"></span>[3](#page_41_fr_3) Yoruba saying.
+<span id="page_41_note_3"></span>[3](#page_41_fr_3.md) Yoruba saying.
 
 <span id="footnotes_page_42">p. 42</span>
 
-<span id="page_42_note_1"></span>[1](#page_42_fr_1) [See Note
-XIII](ife9.htm#XIII). These goblins are called Elérè.
+<span id="page_42_note_1"></span>[1](#page_42_fr_1.md) [See Note
+XIII](ife9.htm#XIII.md). These goblins are called Elérè.
 
 <span id="footnotes_page_43">p. 43</span>
 
-<span id="page_43_note_1"></span>[1](#page_43_fr_1) [See Note
-XIII](ife9.htm#XIII) for the incantation.
+<span id="page_43_note_1"></span>[1](#page_43_fr_1.md) [See Note
+XIII](ife9.htm#XIII.md) for the incantation.
 
 <span id="footnotes_page_44">p. 44</span>
 
-<span id="page_44_note_1"></span>[1](#page_44_fr_1) Yoruba saying.
+<span id="page_44_note_1"></span>[1](#page_44_fr_1.md) Yoruba saying.
 
-<span id="page_44_note_2"></span>[2](#page_44_fr_2) [See Note
-VIII](ife9.htm#VIII) on Óshun.
+<span id="page_44_note_2"></span>[2](#page_44_fr_2.md) [See Note
+VIII](ife9.htm#VIII.md) on Óshun.
 
-<span id="page_44_note_3"></span>[3](#page_44_fr_3) [See Note
-IX](ife9.htm#IX) on Olókun.
+<span id="page_44_note_3"></span>[3](#page_44_fr_3.md) [See Note
+IX](ife9.htm#IX.md) on Olókun.
 
 <span id="footnotes_page_45">p. 45</span>
 
-<span id="page_45_note_1"></span>[1](#page_45_fr_1) [See Note
-X](ife9.htm#X) on Ógun and Orányan.
+<span id="page_45_note_1"></span>[1](#page_45_fr_1.md) [See Note
+X](ife9.htm#X.md) on Ógun and Orányan.
 
  
 

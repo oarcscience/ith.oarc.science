@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo28)  [Next](sdo30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo28)  [Next](sdo30.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ dried buffalo skin and when they sing should drum on it with the tails.
 
 ------------------------------------------------------------------------
 
-[Next: Piercing Children's Ears](sdo30)
+[Next: Piercing Children's Ears](sdo30.md)

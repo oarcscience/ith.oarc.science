@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale22)  [Next](tale24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale22)  [Next](tale24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ the penalty of his misfortune.
 <span id="img_18900"></span>
 
 [![THE DEATH OF THE HUNCHBACK](tn/18900.jpg)  
-Click to enlarge](img/18900.jpg)  
+Click to enlarge](img/18900.jpg.md)  
 THE DEATH OF THE HUNCHBACK  
 
 But his wife, who had twice his brains, suddenly exclaimed, "I have
@@ -333,4 +333,4 @@ of his brothers follows.
 
 ------------------------------------------------------------------------
 
-[Next: Story of the Barber's Fifth Brother](tale24)
+[Next: Story of the Barber's Fifth Brother](tale24.md)

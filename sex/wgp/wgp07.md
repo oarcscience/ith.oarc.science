@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp06)  [Next](wgp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp06)  [Next](wgp08.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ the house,
  
 
 <span id="img_pl11"></span> [![](tn/generic.jpg)  
-Click to view](img/pl11.jpg)  
+Click to view](img/pl11.jpg.md)  
 PLATE XI  
 LEADEN ORNAMENTS FROM THE SEINE
 
@@ -54,7 +54,7 @@ devils, we derive our modern word *Deuce*, used in such
 
 phrases as "the Deuce take you!" The term *ficarii* was also applied to
 them in mediæval Latin, either from the meaning of the word *ficus*,
-mentioned before, <span id="fr_58"></span>[59](#fn_58) or because they
+mentioned before, <span id="fr_58"></span>[59](#fn_58.md) or because they
 were fond of figs. Most of these Latin synonyms are given in the
 Anglo-Saxon vocabulary of Alfric, and are interpreted as meaning "evil
 men, spirits of the woods, evil beings." One of the old commentators on
@@ -65,12 +65,12 @@ identical with a class of hobgoblins, who at a rather later period were
 well known in England by the popular name of Robin Goodfellows, whose
 Priapic character is sufficiently proved by the pictures of them
 attached to some of our early printed ballads, of which we give
-facsimiles. The first  <span id="fr_59"></span>[60](#fn_59) is a figure
+facsimiles. The first  <span id="fr_59"></span>[60](#fn_59.md) is a figure
 of Robin Goodfellow, which forms the illustration to a very popular
 ballad of the earlier part of the seventeenth century, entitled "The mad
 merry Pranks of Robin Goodfellow;" he is represented party-coloured, and
 with the priapic attribute. The next  <span
-id="fr_60"></span>[61](#fn_60) is a second illustration
+id="fr_60"></span>[61](#fn_60.md) is a second illustration
 
 <span id="page_77">p. 77</span>
 
@@ -84,23 +84,23 @@ considering the mythic persons with whom they were connected as so many
 devils; and one of these Priapic demons is figured in a cut which seems
 to have been a favorite one, and is often repeated as an illustration of
 the broadside ballads of the age of James I. and Charles I. <span
-id="fr_61"></span>[62](wgp08.htm#fn_61) It is Priapus reduced to his
+id="fr_61"></span>[62](wgp08.htm#fn_61.md) It is Priapus reduced to his
 lowest step of degradation.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_58"></span>[76:59](wgp07.htm#fr_58) See before, [p.
-70](wgp06.htm#page_70).
+<span id="fn_58"></span>[76:59](wgp07.htm#fr_58.md) See before, [p.
+70](wgp06.htm#page_70.md).
 
-<span id="fn_59"></span>[76:60](wgp07.htm#fr_59) See [Plate XII, Fig.
-5](wgp08.htm#img_pl12). From a copy of the black-letter ballad in the
+<span id="fn_59"></span>[76:60](wgp07.htm#fr_59.md) See [Plate XII, Fig.
+5](wgp08.htm#img_pl12.md). From a copy of the black-letter ballad in the
 library of the British Museum.
 
-<span id="fn_60"></span>[76:61](wgp07.htm#fr_60) [Plate XII, Fig.
-2](wgp08.htm#img_pl12). From the same ballad.
+<span id="fn_60"></span>[76:61](wgp07.htm#fr_60.md) [Plate XII, Fig.
+2](wgp08.htm#img_pl12.md). From the same ballad.
 
 ------------------------------------------------------------------------
 
-[Next: Phallic Festivals](wgp08)
+[Next: Phallic Festivals](wgp08.md)

@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index.md) 
 
 </div>
 
@@ -25,15 +25,15 @@ Sagas](../../index)  [William Morris](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](thow00)    [Text
-\[Zipped\]](thow.txt.gz)
+[Contents](#contents)    [Start Reading](thow00.md)    [Text
+\[Zipped\]](thow.txt.gz.md)
 
 ------------------------------------------------------------------------
 
 This is one of William Morris' fantasy books, set in the world of the
 ancient Germanic Gothic tribes. J.R.R. Tolkien acknowledged the literary
 influence of this book, as well as [The Roots of the
-Mountains](../rotm/index), published in the same year. In this book,
+Mountains](../rotm/index.md), published in the same year. In this book,
 Morris' Goths live in a land called the Mark on a river in the forest of
 Mirkwood, in ancent Germany. They worship the Germanic gods Tyr and Odin
 by horse-sacrifice. Morris' Goths have shamans who can see the future.
@@ -42,42 +42,42 @@ mysterious piece of cursed dwarf-forged armor.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](thow00)  
-[Contents](thow01)  
-[Chapter I—The Dwellings of Mid-Mark](thow02)  
-[Chapter II—The Flitting of the War-Arrow](thow03)  
-[Chapter III—Thiodolf Talketh with the Wood-Sun](thow04)  
-[Chapter Iv—The House Fareth to the War](thow05)  
-[Chapter V—Concerning the Hall-Sun](thow06)  
-[Chapter VI—They Talk on the Way to the Folk-Thing](thow07)  
-[Chapter VII—They Gather to the Folk-Mote](thow08)  
-[Chapter VIII—The Folk-Mote of the Markmen](thow09)  
-[Chapter IX—The Ancient Man of the Daylings](thow10)  
-[Chapter X—That Carline Cometh to the Roof of the Wolfings](thow11)  
-[Chapter XI—The Hall-Sun Speaketh](thow12)  
-[Chapter XII—Tidings of the Battle in Mirkwood](thow13)  
-[Chapter XIII—The Hall-Sun Saith Another Word](thow14)  
+<span id="contents"></span> [Title Page](thow00.md)  
+[Contents](thow01.md)  
+[Chapter I—The Dwellings of Mid-Mark](thow02.md)  
+[Chapter II—The Flitting of the War-Arrow](thow03.md)  
+[Chapter III—Thiodolf Talketh with the Wood-Sun](thow04.md)  
+[Chapter Iv—The House Fareth to the War](thow05.md)  
+[Chapter V—Concerning the Hall-Sun](thow06.md)  
+[Chapter VI—They Talk on the Way to the Folk-Thing](thow07.md)  
+[Chapter VII—They Gather to the Folk-Mote](thow08.md)  
+[Chapter VIII—The Folk-Mote of the Markmen](thow09.md)  
+[Chapter IX—The Ancient Man of the Daylings](thow10.md)  
+[Chapter X—That Carline Cometh to the Roof of the Wolfings](thow11.md)  
+[Chapter XI—The Hall-Sun Speaketh](thow12.md)  
+[Chapter XII—Tidings of the Battle in Mirkwood](thow13.md)  
+[Chapter XIII—The Hall-Sun Saith Another Word](thow14.md)  
 [Chapter XIV—The Hall-Sun is Careful Concerning the Passes of the
-Wood](thow15)  
-[Chapter XV—They Hear Tell of the Battle on the Ridge](thow16)  
+Wood](thow15.md)  
+[Chapter XV—They Hear Tell of the Battle on the Ridge](thow16.md)  
 [Chapter XVI—How the Dwarf-Wrought Hauberk Was Brought Away From the
-Hall of the Daylings](thow17)  
-[Chapter XVII—The Wood-Sun Speaketh With Thiodolf](thow18)  
-[Chapter XVIII—Tidings Brought to the Wain-Burg](thow19)  
-[Chapter XIX—Those Messengers Come to Thiodolf](thow20)  
-[Chapter XX—Otter and His Folk Come into Mid-Mark](thow21)  
-[Chapter XXI—They Bicker About the Ford](thow22)  
-[Chapter XXII—Otter Falls on Against his Will](thow23)  
+Hall of the Daylings](thow17.md)  
+[Chapter XVII—The Wood-Sun Speaketh With Thiodolf](thow18.md)  
+[Chapter XVIII—Tidings Brought to the Wain-Burg](thow19.md)  
+[Chapter XIX—Those Messengers Come to Thiodolf](thow20.md)  
+[Chapter XX—Otter and His Folk Come into Mid-Mark](thow21.md)  
+[Chapter XXI—They Bicker About the Ford](thow22.md)  
+[Chapter XXII—Otter Falls on Against his Will](thow23.md)  
 [Chapter XXIII—Thiodolf Meeteth the Romans in the Wolfing
-Meadow](thow24)  
-[Chapter XXIV—The Goths are Overthrown by the Romans](thow25)  
+Meadow](thow24.md)  
+[Chapter XXIV—The Goths are Overthrown by the Romans](thow25.md)  
 [Chapter XXV—The Host of the Markmen Cometh into the
-Wild-Wood](thow26)  
-[Chapter XXVI—Thiodolf Talketh with the Wood-Sun](thow27)  
-[Chapter XXVII—They Wend to the Morning Battle](thow28)  
-[Chapter XXVIII—Of the Storm of Dawning](thow29)  
-[Chapter XXI—Of Thiodolf's Storm](thow30)  
+Wild-Wood](thow26.md)  
+[Chapter XXVI—Thiodolf Talketh with the Wood-Sun](thow27.md)  
+[Chapter XXVII—They Wend to the Morning Battle](thow28.md)  
+[Chapter XXVIII—Of the Storm of Dawning](thow29.md)  
+[Chapter XXI—Of Thiodolf's Storm](thow30.md)  
 [Chapter XXX—Thiodolf is Borne out of the Hall and Otter is Laid Beside
-Him](thow31)  
+Him](thow31.md)  
 [Chapter XXXI—Old Asmund Speaketh Over the War-Dukes: the Dead are Laid
-in Mound](thow32)  
+in Mound](thow32.md)  

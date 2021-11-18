@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf82)  [Next](sbf84) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf82)  [Next](sbf84.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -42,6 +42,6 @@ fruit. People do not put the *\|\|gui* into a pot, but eat it raw. The
 ------------------------------------------------------------------------
 
 [Next: 4. \|Xue As Water and As Other Things. In His Own Form, He Rubs
-Fire and Dies.](sbf84)
+Fire and Dies.](sbf84.md)
 
 </div>

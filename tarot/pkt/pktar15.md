@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar14)  [Next](pktar16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar14)  [Next](pktar16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Devil
 
 <span id="img_ar15"></span> <span align="CENTER"> [![](tn/ar15.jpg)  
-Click to enlarge](img/ar15.jpg)</span>
+Click to enlarge](img/ar15.jpg.md)</span>
 
 The design is an accommodation, mean or harmony, between several motives
 mentioned in the first part. The Horned Goat of Mendes, with wings like
@@ -48,4 +48,4 @@ those are driven forth therefrom who have eaten the forbidden fruit.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. The Tower](pktar16)
+[Next: XVI. The Tower](pktar16.md)

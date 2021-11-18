@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml40)  [Next](yml42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml40)  [Next](yml42.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ The cricket continues to sing, "chik chik chik." He is not afraid.
 
 ------------------------------------------------------------------------
 
-[Next: Grasshopper and Cricket](yml42)
+[Next: Grasshopper and Cricket](yml42.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki218)  [Next](liki220) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki218)  [Next](liki220.md) 
 
 ------------------------------------------------------------------------
 
@@ -847,6 +847,6 @@ attempting to reproduce it on a smaller scale.\]
 
 ------------------------------------------------------------------------
 
-[Next: XX. Kî Fâ or The Law of Sacrifices](liki220)
+[Next: XX. Kî Fâ or The Law of Sacrifices](liki220.md)
 
   

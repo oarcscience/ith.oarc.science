@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah04)  [Next](mah06) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah04)  [Next](mah06.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ fireside.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Martian Canal System](mah06)
+[Next: Chapter III: The Martian Canal System](mah06.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav10)  [Next](vav12) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav10)  [Next](vav12.md) 
 
 ------------------------------------------------------------------------
 
@@ -616,4 +616,4 @@ began as follows.
 ------------------------------------------------------------------------
 
 [Next: The Vampire's Eighth Story. Of the Use and Misuse of Magic
-Pills.](vav12)
+Pills.](vav12.md)

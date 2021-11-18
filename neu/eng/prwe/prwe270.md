@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe269)  [Next](prwe271) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe269)  [Next](prwe271.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ diseases have been cured by drinking it.
 
 ------------------------------------------------------------------------
 
-[Next: The Horns on the Church Tower](prwe271)
+[Next: The Horns on the Church Tower](prwe271.md)

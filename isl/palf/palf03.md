@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](palf02)  [Next](palf04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](palf02)  [Next](palf04.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ philosopher Abu Nasr Alfarabi, since all that he wrote, especially the
 
 ------------------------------------------------------------------------
 
-[Next: Contents](palf04)
+[Next: Contents](palf04.md)

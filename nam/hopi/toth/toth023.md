@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth022)  [Next](toth024) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth022)  [Next](toth024.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,12 +18,12 @@ Textual Heritage
 
 <span id="page_84">p. 84</span>
 
-## 20. PÖOKÓNGHOYA AND HIS BROTHER AS THIEVES. <span id="fr_60"></span>[1](#fn_59)
+## 20. PÖOKÓNGHOYA AND HIS BROTHER AS THIEVES. <span id="fr_60"></span>[1](#fn_59.md)
 
 Alíksai! At Shongópavi they were living; at the place where Shongópavi
 used to be and where there are still the ruins of the old village, they
 were living. North of the village, but close by, lived Pö'okong <span
-id="fr_61"></span>[1](#fn_59) and his brother. They lived there with
+id="fr_61"></span>[1](#fn_59.md) and his brother. They lived there with
 their grandmother. Often they would play with their ball, and one time
 they were also playing with their ball, striking it, and playing with it
 towards Toríva. When they arrived here they were thirsty, and went into
@@ -106,7 +106,7 @@ always rained and the Hopi had good crops.
 
 ### Footnotes
 
-<span id="fn_59"></span>[84:1](toth023.htm#fr_61) Told by Kúhkuima
+<span id="fn_59"></span>[84:1](toth023.htm#fr_61.md) Told by Kúhkuima
 (Shupaúlavi).
 
 2 Pö'okong and the diminutive form Pöokónghoya are used promiscuously by
@@ -114,4 +114,4 @@ the Hopi, as may be seen in several of these tales.
 
 ------------------------------------------------------------------------
 
-[Next: 21. How the Pö'okongs Destroyed Cóoyoko And His Wife](toth024)
+[Next: 21. How the Pö'okongs Destroyed Cóoyoko And His Wife](toth024.md)

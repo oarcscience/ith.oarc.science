@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar02)  [Next](pktar04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar02)  [Next](pktar04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Empress
 
 <span id="img_ar03"></span> <span align="CENTER"> [![](tn/ar03.jpg)  
-Click to enlarge](img/ar03.jpg)</span>
+Click to enlarge](img/ar03.jpg.md)</span>
 
 A stately figure, seated, having rich vestments and royal aspect, as of
 a daughter of heaven and earth. Her diadem is of twelve stars, gathered
@@ -50,4 +50,4 @@ Word, Divine Nature, the Triad, and so forth.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Emperor](pktar04)
+[Next: IV. The Emperor](pktar04.md)

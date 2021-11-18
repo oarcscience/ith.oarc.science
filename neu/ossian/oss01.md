@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss00)  [Next](oss02) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss00)  [Next](oss02.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: A Preliminary Discourse](oss02)
+[Next: A Preliminary Discourse](oss02.md)

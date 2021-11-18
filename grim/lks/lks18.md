@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks17)  [Next](lks19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks17)  [Next](lks19.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ which Daniel named, and destroyed Bel, and slew the Dragon; and in the
 name EMMANUEL, which the three children, Shadrach, Meshach and
 Abed-nego, sang in the midst of the fiery furnace, and were delivered;
 and by the name HAGIOS; and by the SEAL <span
-id="fr_33"></span>[1](#fn_33) OF ADONI; and by ISCHYROS, ATHANATOS,
+id="fr_33"></span>[1](#fn_33.md) OF ADONI; and by ISCHYROS, ATHANATOS,
 PARACLETOS; and by O THEOS, ICTROS, ATHANATOS; and by these three secret
 names, AGLA, ON, TETRAGRAMMATON, do I adjure and constrain thee. And by
 these names, and by all the other names of the LIVING and TRUE GOD, the
@@ -61,11 +61,11 @@ without doubt he will), say on as followeth; it being a constraint:
 
 ### Footnotes
 
-<span id="fn_33"></span>[58:1](lks18.htm#fr_33) In some "By the Seat of
+<span id="fn_33"></span>[58:1](lks18.htm#fr_33.md) In some "By the Seat of
 Adonai" or "By the Throne of Adonai." In these conjurations and
 elsewhere in the body of the text I have given the divine names
 correctly.
 
 ------------------------------------------------------------------------
 
-[Next: The Constraint](lks19)
+[Next: The Constraint](lks19.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt13)  [Next](ettt15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt13)  [Next](ettt15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -213,7 +213,7 @@ arise are named in the Tantra *Rdo-rje-rin-wa*.
  At the Wheel of Dharma \[Heart\],  
  The Beyond-Reach Bliss arises.  
  At the Wheel of Transformation \[Navel\] <span
-id="fr_13"></span>[\*](#fn_13),  
+id="fr_13"></span>[\*](#fn_13.md),  
  The Innate Wisdom arises. <span id="page_192">p. 192</span>  
  Thus, one shall experience these Blisses."
 
@@ -232,7 +232,7 @@ As to the up-going Blisses, the Tantra says:
  This is the reverse of the process of bliss-arising."
 
 These explanations are in accord with the *Great Symbol
-Thig-le*[72](ettt22.htm#an_n_nar:72)<span id="an_r_nar:72"></span>. Each
+Thig-le*[72](ettt22.htm#an_n_nar:72.md)<span id="an_r_nar:72"></span>. Each
 of the four down-coming and up-going Blisses can be divided into four,
 making the so-called sixteen portions of the Moon-Elements. Following
 the viewpoint of the Sun, each bliss can be divided into three, making
@@ -257,7 +257,7 @@ center can be divided into three—the Extreme Bliss,
 
 the Medium Bliss, and the Small Bliss—making a total of twelve. The
 experienced yogi should know the subtle differences between these. <span
-id="fr_14"></span>[\*](#fn_14)
+id="fr_14"></span>[\*](#fn_14.md)
 
 The four up-going Blisses should be much stronger than the down-coming
 Blisses. In the up-going process, until the reversed operation has
@@ -300,13 +300,13 @@ Generally speaking, there are two different kinds of Bliss—the Bliss
 produced through meditation, and the Bliss produced through ordinary
 ways. Through the dropping of the melted Bodhi-Heart to the Secret
 Center, one experiences the Bliss; however, even in this process the
-kindling of Dumo by which the [Thig-le](errata.htm#39) is melted is a
+kindling of Dumo by which the [Thig-le](errata.htm#39.md) is melted is a
 necessary condition required in the production of such a Bliss. But
 though the Dumo is kindled and the Bodhi-Heart melted, this by no means
 implies the entering into the Central Channel. Therefore, it is
 understood that some individuals may experience the Bliss of
 Thig-le-Melting but not that of the Entering-into-the-Central-Channel,
-as experienced by those who [practice](errata.htm#40) the vital physical
+as experienced by those who [practice](errata.htm#40.md) the vital physical
 exercises, given in the pith-instructions.
 
 As the Thig-le arrives at the top of the Vajra Jewel, there are great
@@ -314,16 +314,16 @@ difficulties in holding it. In the beginning, the outer and inner
 methods are applied to let the Bodhi-Heart drop, but before it reaches
 the Jewel, it should be reversed with great force. However, if it is not
 properly spread over all the body, some sickness may arise. In view of
-this danger, one may try to spread the [Thig-le](errata.htm#41) with
+this danger, one may try to spread the [Thig-le](errata.htm#41.md) with
 many different methods. However, he may not go far enough to
 differentiate between the Thig-le-Melting of the Entering-into-Central
 
 <span id="page_195">p. 195</span>
 
 <span class="contnote">\[paragraph continues\]</span> Channel and the
-[Thig-le](errata.htm#42)-Melting through the ordinary process. To sense
-the difficulty or the ease of [holding](errata.htm#43) the
-[Thig-le](errata.htm#44), to carefully weigh whether or not to apply a
+[Thig-le](errata.htm#42.md)-Melting through the ordinary process. To sense
+the difficulty or the ease of [holding](errata.htm#43.md) the
+[Thig-le](errata.htm#44.md), to carefully weigh whether or not to apply a
 very forceful halting exercise, to discover whether the Thig-le is
 properly spread and the danger of sickness avoided—these are necessary
 safeguards.
@@ -356,7 +356,7 @@ level and be spread well, otherwise certain illnesses will result.
 In the case of the Entering-into-the-Central Channel as discussed
 before, none of these difficulties ever arise. Some may ask what steps
 one should take to reverse and spread the Thig-le when the disqualified
-Melting Bliss[73](ettt22.htm#an_n_nar:73)<span id="an_r_nar:73"></span>
+Melting Bliss[73](ettt22.htm#an_n_nar:73.md)<span id="an_r_nar:73"></span>
 arises. If the Melting Bliss is produced slowly and gradually,
 step-by-step, it will not be necessary to apply the forceful methods to
 reverse it to the Crown Center and spread it over all the Centers of the
@@ -382,13 +382,13 @@ spread over all the nerves in his body.
 
 If, at the time of down-coming, when the Bodhi-Heart reaches the Jewel,
 the yogi is able to hold it within, the Innate Bliss will arise.
-Meanwhile, he [should](errata.htm#45) apply his view (on Reality) as
+Meanwhile, he [should](errata.htm#45) apply his view (on Reality.md) as
 instructed before (in the chapter discussing the Middle Way Doctrine).
 His mind should rest
 
 <span id="img_pl05"></span> <span align="CENTER"> [![PLATE
 V](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 PLATE V  
 </span>
 
@@ -477,12 +477,12 @@ be able to attain a one-thought Samadhi.
 
 ### Footnotes
 
-<span id="fn_13"></span>[191:\*](ettt14.htm#fr_13) There is an
+<span id="fn_13"></span>[191:\*](ettt14.htm#fr_13.md) There is an
 alternative order in which the Innate Bliss relates to and arises in the
 Dharmachakra or Heart Center. From prolonged study, theoretical and
 practical, we feel that that order is preferable.—*Ed*.
 
-<span id="fn_14"></span>[193:\*](ettt14.htm#fr_14) In the light of the
+<span id="fn_14"></span>[193:\*](ettt14.htm#fr_14.md) In the light of the
 text quoted above, we see here a subtle astro-philosophical doctrine of
 an isomorphism between the Twelve Blisses and the twelve sectors of the
 earth's orbit (with the equinoctial and solsticial points as
@@ -495,6 +495,6 @@ the key to the Samkhya Tattvic doctrine as it is employed in the Hindu
 ------------------------------------------------------------------------
 
 [Next: Chapter Six: The Practice of the Illusory Body or Dream Yoga,
-Depending on Foregoing Heat Yoga](ettt15)
+Depending on Foregoing Heat Yoga](ettt15.md)
 
 </div>

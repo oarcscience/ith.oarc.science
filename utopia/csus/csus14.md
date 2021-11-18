@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus13)  [Next](csus15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus13)  [Next](csus15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ children; in her
 <span id="img_11800"></span>
 
 [![A GROUP OF SHAKERS.](tn/11800.jpg)  
-Click to enlarge](img/11800.jpg)  
+Click to enlarge](img/11800.jpg.md)  
 A GROUP OF SHAKERS.  
 
 <span id="page_119">p. 119</span>
@@ -39,13 +39,13 @@ A GROUP OF SHAKERS.
 <span id="img_11900"></span>
 
 [![SHAKER DWELLING—MOUNT LEBANON](tn/11900.jpg)  
-Click to enlarge](img/11900.jpg)  
+Click to enlarge](img/11900.jpg.md)  
 SHAKER DWELLING—MOUNT LEBANON  
 
 <span id="img_11901"></span>
 
 [![GRANITE DWELLING, OF THE ENFIELD SHAKERS](tn/11901.jpg)  
-Click to enlarge](img/11901.jpg)  
+Click to enlarge](img/11901.jpg.md)  
 GRANITE DWELLING, OF THE ENFIELD SHAKERS  
 
 childhood she was employed in a cotton factory, and later as a cutter of
@@ -65,7 +65,7 @@ Quakers;" and it was while Ann Lee thus lay in jail, in the summer of
 testimony of salvation and eternal life was fully revealed to her," and
 by her to the society, "by whom she from that time was acknowledged as
 *mother* in Christ, and by them was called *Mother Ann*." <span
-id="fr_3"></span>[\*](#fn_3)
+id="fr_3"></span>[\*](#fn_3.md)
 
 She saw the Lord Jesus Christ in his glory, who revealed to her the
 great object of her prayers, and fully satisfied all the desires of her
@@ -77,7 +77,7 @@ of the root and foundation of human depravity, and of the very act of
 transgression committed by the first man and woman in the garden of
 Eden. Here she saw whence and wherein all mankind were lost from God,
 and clearly realized the only possible way of recovery." <span
-id="fr_4"></span>[†](#fn_4) "By the immediate revelation
+id="fr_4"></span>[†](#fn_4.md) "By the immediate revelation
 
 <span id="page_120">p. 120</span>
 
@@ -86,7 +86,7 @@ gratifications of the flesh as the source and foundation of human
 corruption; and testified, in the most plain and pointed manner, that no
 soul could follow Christ in the regeneration while living in the works
 of natural generation, or in any of the gratifications of lust." <span
-id="fr_5"></span>[\*](#fn_5)
+id="fr_5"></span>[\*](#fn_5.md)
 
 In a volume of "Hymns and Poems for the Use of Believers" (Watervliet,
 Ohio, 1833), Adam is made to confess the nature of his transgression and
@@ -200,7 +200,7 @@ children*.
   And all his race with him shall share  
   Eternal darkness and despair."
 
-The same theory of the fall <span id="fr_6"></span>[\*](#fn_6) is stated
+The same theory of the fall <span id="fr_6"></span>[\*](#fn_6.md) is stated
 in another hymn:
 
 <span id="page_123">p. 123</span>
@@ -324,7 +324,7 @@ She and her followers were frequently abused and persecuted; and in 1773
 "she was by a direct revelation instructed to repair to America;" and it
 is quaintly added that "permission was given for all those of the
 society who were able, and who felt any special impressions on their own
-minds so to do, to accompany her." <span id="fr_7"></span>[\*](#fn_7)
+minds so to do, to accompany her." <span id="fr_7"></span>[\*](#fn_7.md)
 She had announced, says the
 
 <span id="page_126">p. 126</span>
@@ -391,7 +391,7 @@ restored to health, and was never afflicted with it afterward.
 Daniel Goodrich, and Seth Y. Wells. (Signed) MARY SOUTHWICK."
 
 The volume from which this formal statement is extracted <span
-id="fr_8"></span>[\*](#fn_8) contains a number of similar affidavits,
+id="fr_8"></span>[\*](#fn_8.md) contains a number of similar affidavits,
 which show that miraculous powers of healing diseases are claimed to
 have been
 
@@ -415,14 +415,14 @@ remember the time when and the place where I committed them. And when I
 had confessed them \[to Jane and James Wardley, in Manchester\], I cried
 to God to know if my confession was accepted; and by crying to God
 continually I traveled out of my loss." <span
-id="fr_9"></span>[\*](#fn_9) Also she said: "The first step of obedience
+id="fr_9"></span>[\*](#fn_9.md) Also she said: "The first step of obedience
 that any of you can take is to confess your sins to God before his
 witnesses." "To those who came to confess to her she said: 'If you
 confess your sins, you must confess them to God; we are but his
 witnesses.' To such as asked her forgiveness, she used to say: 'I can
 freely forgive you, and I pray God to forgive you. It is God that
 forgives you; I am but your fellow-servant.'" <span
-id="fr_10"></span>[†](#fn_10)
+id="fr_10"></span>[†](#fn_10.md)
 
 Ann Lee died at Watervliet, N. Y., on the 8th of September, 1784, in the
 forty-ninth year of her age.
@@ -443,7 +443,7 @@ that inspired confidence and commanded respect. By many of the world who
 saw her without prejudice she was called beautiful; and to her faithful
 children she appeared to possess a degree of dignified beauty and
 heavenly love which they had never before discovered among
-mortals." <span id="fr_11"></span>[\*](#fn_11) She never learned to read
+mortals." <span id="fr_11"></span>[\*](#fn_11.md) She never learned to read
 or write. Aside from her strictly religious teachings, she appears to
 have inculcated upon her followers the practical virtues of honesty,
 industry, frugality, charity, and temperance. "Put your hands to work
@@ -484,7 +484,7 @@ ministry was built, in 1785, "the<span id="img_13000"></span>
 
 |                                                                                |
 |--------------------------------------------------------------------------------|
-| ![THE FIRST SHAKER CHURCH, AT MOUNT LEBANON, NOW A SEED-HOUSE.](img/13000.jpg) |
+| ![THE FIRST SHAKER CHURCH, AT MOUNT LEBANON, NOW A SEED-HOUSE.](img/13000.jpg.md) |
 
 first house for public worship ever built by the society." He died at
 Enfield in July, 1787, less than three years after Mother Ann; and was
@@ -501,7 +501,7 @@ society." She died in 1821, at the age of sixty-one.
 <span class="contnote">\[paragraph continues\]</span> "During her
 administration the several societies in the states of Ohio and Kentucky
 were established, and large accessions were made to the Eastern
-societies." <span id="fr_12"></span>[\*](#fn_12)While Joseph Meacham was
+societies." <span id="fr_12"></span>[\*](#fn_12.md)While Joseph Meacham was
 elder, and in the period between 1787 and 1792, eleven societies were
 formed, of which two were in New York, four in Massachusetts, two in New
 Hampshire, two in Maine, and one in Connecticut.
@@ -535,7 +535,7 @@ in Bourbon County, "about twenty thousand people" were gathered; and
 "about three thousand" suffered from what was called "the falling
 exercise." These brief extracts are from the account of an eye-witness,
 and one who believed these manifestations to be of divine origin. <span
-id="fr_13"></span>[\*](#fn_13) The accuracy of McNemar's descriptions is
+id="fr_13"></span>[\*](#fn_13.md) The accuracy of McNemar's descriptions is
 beyond question. His account is confirmed by other writers of the time.
 
 Hearing of these extraordinary events, the Shakers at New Lebanon sent
@@ -610,7 +610,7 @@ VII\. They are Spiritualists. "We are thoroughly convinced of spirit
 communication and interpositions, spirit guidance and obsession. Our
 spiritualism has permitted us to converse, face to face, with
 individuals once mortals, some of whom we well knew, and with others
-born before the flood." <span id="fr_14"></span>[\*](#fn_14) They assert
+born before the flood." <span id="fr_14"></span>[\*](#fn_14.md) They assert
 that the spirits at first labored among them; but that in later times
 they have labored among the spirits; and that in the lower heavens there
 have been formed numerous Shaker churches. Moreover, "it should be
@@ -645,46 +645,46 @@ infirmity, and old age.
 
 ### Footnotes
 
-<span id="fn_3"></span>[119:\*](csus14.htm#fr_3) "Shakers' Compendium of
+<span id="fn_3"></span>[119:\*](csus14.htm#fr_3.md) "Shakers' Compendium of
 the Origin, History, etc., with Biographies of Ann Lee," etc. By F. W.
 Evans, 1859.
 
-<span id="fn_4"></span>[119:†](csus14.htm#fr_4) "A Summary View of the
+<span id="fn_4"></span>[119:†](csus14.htm#fr_4.md) "A Summary View of the
 Millennial Church," etc. Albany, 1848.
 
-<span id="fn_5"></span>[120:\*](csus14.htm#fr_5) "A Summary View of the
+<span id="fn_5"></span>[120:\*](csus14.htm#fr_5.md) "A Summary View of the
 Millennial Church," etc.
 
-<span id="fn_6"></span>[122:\*](csus14.htm#fr_6) It is curious that the
+<span id="fn_6"></span>[122:\*](csus14.htm#fr_6.md) It is curious that the
 Jewish Talmud (according to Eisenmenger) has a somewhat similar
 theory—namely, that Eve cohabited with devils for a period of one
 hundred and thirty years; and that Cain was not the child of Adam, but
 of one of these devils.
 
-<span id="fn_7"></span>[125:\*](csus14.htm#fr_7) "Shakers' Compendium."
+<span id="fn_7"></span>[125:\*](csus14.htm#fr_7.md) "Shakers' Compendium."
 
-<span id="fn_8"></span>[127:\*](csus14.htm#fr_8) "Testimony of Christ's
+<span id="fn_8"></span>[127:\*](csus14.htm#fr_8.md) "Testimony of Christ's
 Second Appearing," etc. Published by the United Society of Shakers.
 Albany, 1856. \[The first edition was printed in 1808.\]
 
-<span id="fn_9"></span>[128:\*](csus14.htm#fr_9) "Shakers' Compendium."
+<span id="fn_9"></span>[128:\*](csus14.htm#fr_9.md) "Shakers' Compendium."
 
-<span id="fn_10"></span>[128:†](csus14.htm#fr_10) "Summary View," etc.
+<span id="fn_10"></span>[128:†](csus14.htm#fr_10.md) "Summary View," etc.
 
-<span id="fn_11"></span>[129:\*](csus14.htm#fr_11) "Summary View."
+<span id="fn_11"></span>[129:\*](csus14.htm#fr_11.md) "Summary View."
 
-<span id="fn_12"></span>[131:\*](csus14.htm#fr_12) "Shakers'
+<span id="fn_12"></span>[131:\*](csus14.htm#fr_12.md) "Shakers'
 Compendium."
 
-<span id="fn_13"></span>[132:\*](csus14.htm#fr_13) "The Kentucky
+<span id="fn_13"></span>[132:\*](csus14.htm#fr_13.md) "The Kentucky
 Revival, or a Short History of the late extraordinary Outpouring of the
 Spirit of God in the Western States of America," etc. By Richard
 McNemar. Turtle Hill, Ohio, 1807.
 
-<span id="fn_14"></span>[134:\*](csus14.htm#fr_14) "Plain Talks upon
+<span id="fn_14"></span>[134:\*](csus14.htm#fr_14.md) "Plain Talks upon
 Practical Religion; being Candid Answers," etc. By Geo. Albert Lomas
 (Novitiate Elder at Watervliet). 1873.
 
 ------------------------------------------------------------------------
 
-[Next: III.—The Order of Life Among the Shakers](csus15)
+[Next: III.—The Order of Life Among the Shakers](csus15.md)

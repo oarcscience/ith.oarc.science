@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mom08)  [Next](mom10) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mom08)  [Next](mom10.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ Dolichenus, who was worshipped simultaneously with Mithra in Commagene,
 the land of his origin, and who like the latter remained a preëminently
 military divinity, is found by his side in all the countries of the
 Occident. At Carnuntum in Pannonia, a mithræum and a *dolichenum* <span
-id="fr_50"></span>[1](#fn_50) adjoined each other. Baal, the lord of the
+id="fr_50"></span>[1](#fn_50.md) adjoined each other. Baal, the lord of the
 heavens, was readily identified with Ormazd, who had become
 Jupiter-Cælus, and Mithra was easily likened to the solar god of the
 Syrians. Even the rites of the two liturgies appear to have offered some
@@ -105,7 +105,7 @@ the union of Mithra and Anâhita the counterpart was found of the
 intimacy between the great indigenous divinities Attis and Cybele, and
 this harmony between the two sacred couples persisted in Italy. The most
 ancient mithræum known to us was contiguous to the *metroon* <span
-id="fr_51"></span>[1](#fn_51) of Ostia, and we have every reason to
+id="fr_51"></span>[1](#fn_51.md) of Ostia, and we have every reason to
 believe that the worship of the Iranian god and that of the Phrygian
 goddess were conducted in intimate communion with each other throughout
 the entire extent of the empire. Despite the profound differences of
@@ -156,7 +156,7 @@ blood. In taking it the devotees no longer imagined they acquired the
 strength of the bull; it was no longer a renewal of physical strength
 that the life-sustaining liquid was now thought to communicate, but a
 renovation, temporary or even perpetual, of the human soul. <span
-id="fr_52"></span>[1](#fn_52)
+id="fr_52"></span>[1](#fn_52.md)
 
 When, under the empire, the taurobolium was introduced into Italy, it
 was not quite certain at the outset what Latin name should be given the
@@ -174,7 +174,7 @@ purification, the eternal new birth that was expected of it, resembled
 <span id="page_182">p. 182</span>
 
 the hopes which the mystics of Mithra attached to the immolation of the
-mythical bull. <span id="fr_53"></span>[1](#fn_53) The similarity of
+mythical bull. <span id="fr_53"></span>[1](#fn_53.md) The similarity of
 these doctrines is quite naturally explained by the identity of their
 origin. The taurobolium, like many rites of the Oriental cults, is a
 survival of a savage past which a spiritualistic theology had adapted to
@@ -236,7 +236,7 @@ predominant place to the star on which the very existence of our globe
 depended. "Before religion reached the point where it proclaimed that
 God should be sought in the Absolute and the Ideal, that is to say,
 outside the world, one cult only was reasonable and scientific and that
-was the cult of the Sun." <span id="fr_54"></span>[1](#fn_54) From the
+was the cult of the Sun." <span id="fr_54"></span>[1](#fn_54.md) From the
 time of Plato and Aristotle, Greek philosophy regarded the celestial
 bodies as animate and divine creatures; Stoicism furnished new arguments
 in favor of this opinion; while Neo-Pythagorism and Neo-Platonism
@@ -395,7 +395,7 @@ worshippers and the disciples of Christ.
 The struggle between the two rival religions was the more stubborn as
 their characters were the more alike. The adepts of both formed secret
 conventicles, closely united, the members of which gave themselves the
-name of "Brothers." <span id="fr_55"></span>[1](#fn_55) The rites which
+name of "Brothers." <span id="fr_55"></span>[1](#fn_55.md) The rites which
 they practised offered numerous analogies. The sectaries of the Persian
 god, like the Christians, purified themselves by baptism; received, by a
 species of confirmation, the power necessary to combat the spirits of
@@ -438,7 +438,7 @@ The Dying Alexander, so called. Type of a group of sculptures from the
 school of Pergamon, dating from the second century before Christ. The
 idealized portrait of Alexander as solar god has been discovered in the
 head of the celebrated Mithraic statue of the Capitol (see Fig.
-[4](mom04.htm#img_4), page [p. 21](mom04.htm#page_21)), and the facial
+[4](mom04.htm#img_4), page [p. 21](mom04.htm#page_21).md), and the facial
 expressions of dolor, pathos, and compassion which characterize this
 work are shared by all the more important representations of the
 Mithraic sacrifice. The present sculpture has been partly restored, and
@@ -503,7 +503,7 @@ perished was made the
 <span id="page_195">p. 195</span>
 
 counterpart of that in which Christ is said to have been born at
-Bethlehem. <span id="fr_56"></span>[1](#fn_56) But this strained
+Bethlehem. <span id="fr_56"></span>[1](#fn_56.md) But this strained
 parallelism could result in nothing but a caricature. It was a strong
 source of inferiority for Mazdaism that it believed in only a mythical
 redeemer. That unfailing wellspring of religious emotion supplied by the
@@ -524,7 +524,7 @@ each day,--at dawn, at noon, and at dusk,--was
 reproduced in the daily prayers of the Church, and it appears certain
 that the commemoration of the Nativity was set for the 25th of December,
 because it was at the winter solstice that the rebirth of the invincible
-god, <span id="fr_57"></span>[1](#fn_57) the *Natalis invicti*, was
+god, <span id="fr_57"></span>[1](#fn_57.md) the *Natalis invicti*, was
 celebrated. In adopting this date, which was universally distinguished
 by sacred festivities, the ecclesiastical
 
@@ -550,15 +550,15 @@ adapted. For example, they drew
 <span id="page_197">p. 197</span>
 
 inspiration from the figure of Mithra causing the living waters to leap
-forth by the blows of his arrows, <span id="fr_58"></span>[1](#fn_58) to
+forth by the blows of his arrows, <span id="fr_58"></span>[1](#fn_58.md) to
 create the figure of Moses smiting with his rod the rock of Horeb (Fig.
-[45](#img_45)). Faithful to an inveterate tradition, they even
+[45](#img_45).md). Faithful to an inveterate tradition, they even
 reproduced the figures of cosmic divinities, like the Heavens and the
 Winds, the worship of which the new faith had expressly proscribed; and
 we find on the sarcophagi, in miniatures, and even on the portals of the
 Romance Churches, evidences of the influence exerted by the imposing
 compositions that adorned the sacred grottos of Mithra. <span
-id="fr_59"></span>[2](#fn_59)
+id="fr_59"></span>[2](#fn_59.md)
 
 It would be wrong, however, to exaggerate the significance of these
 likenesses. If Christianity and Mithraism offered profound resemblances,
@@ -630,7 +630,7 @@ naturally inclined to adopt doctrines of Persian origin, which flattered
 his despotic instincts. The emperor and the princes whom he had
 associated with himself, meeting in conference at Carnuntum in 307 A.D.,
 restored there one of the temples of the celestial protector of their
-newly-organized empire. <span id="fr_60"></span>[1](#fn_60) The
+newly-organized empire. <span id="fr_60"></span>[1](#fn_60.md) The
 Christians believed, not without some appearance of reason, that the
 Mithraic clergy were the instigators of the great persecutions under
 Galerius. In the Roman empire as in Iran, a vaguely monistic heliolatry
@@ -638,7 +638,7 @@ appeared on the verge of becoming the sole, intolerant religion of
 state. But the conversion of Constantine shattered the hopes which the
 policy of his predecessors had held out to the worshippers of the sun.
 Although he did not persecute the beliefs which he himself had
-shared, <span id="fr_61"></span>[2](#fn_61) they ceased to constitute a
+shared, <span id="fr_61"></span>[2](#fn_61.md) they ceased to constitute a
 recognized cult and were tolerated only. His successors were outspokenly
 hostile. To latent defiance succeeded open persecution. Christian
 polemics no longer restricted its attacks to ridiculing the legends and
@@ -649,7 +649,7 @@ practices of the Mazdean Mysteries, nor even to taunting
 them for having as their founders the irreconcilable enemies of Rome; it
 now stridently demanded the total destruction of idolatry, and its
 exhortations were promptly carried into effect. When a rhetorician <span
-id="fr_62"></span>[1](#fn_62) tells us that under Constantius no one
+id="fr_62"></span>[1](#fn_62.md) tells us that under Constantius no one
 longer dared to look at the rising or setting sun, that even farmers and
 sailors refrained from observing the stars, and tremblingly held their
 eyes fixed upon the ground, we have in these emphatic declarations a
@@ -719,7 +719,7 @@ authorities. The ruins of the mithræums bear witness to the violence of
 their devastating fury. Even at Rome, in 377 A.D., the prefect Gracchus,
 seeking the privilege of baptism, offered as a pledge of the sincerity
 of his conversion the "destruction, shattering, and shivering," <span
-id="fr_63"></span>[1](#fn_63) of a
+id="fr_63"></span>[1](#fn_63.md) of a
 
 <span id="page_204">p. 204</span>
 
@@ -749,7 +749,7 @@ worship, sometimes slew
 <span id="page_205">p. 205</span>
 
 the refractory priests of Mithra and buried them in the ruins of their
-sanctuaries, now forever profaned (Fig. [46](#img_46)).
+sanctuaries, now forever profaned (Fig. [46](#img_46).md).
 
 The hope of restoration was especially tenacious at Rome, which remained
 the capital of paganism. The aristocracy, still faithful to the
@@ -761,7 +761,7 @@ Gratian in 382 A.D. despoiled their temples of their wealth. A great
 lord recounts to us in poor verses how he had restored a splendid crypt
 erected by his grandfather near the Flaminian Way, boasting that he was
 able to dispense with public subsidies of any kind. <span
-id="fr_64"></span>[1](#fn_64) The usurpation of Eugenius appeared for a
+id="fr_64"></span>[1](#fn_64.md) The usurpation of Eugenius appeared for a
 moment to bring on the expected resurrection. The prefect of the
 prætorium, Nicomachus Flavianus, celebrated solemn taurobolia and
 renewed in a sacred cave the Mysteries of the "associate god" (*deum
@@ -831,30 +831,30 @@ form in the Middle Ages to shake once more the ancient Roman world.
 
 ### Footnotes
 
-<span id="fn_50"></span>[178:1](mom09.htm#fr_50) A temple of Jupiter
+<span id="fn_50"></span>[178:1](mom09.htm#fr_50.md) A temple of Jupiter
 Dolichenus.--*Tr*.
 
-<span id="fn_51"></span>[179:1](mom09.htm#fr_51) A temple of
+<span id="fn_51"></span>[179:1](mom09.htm#fr_51.md) A temple of
 Cybele.--*Tr*.
 
-<span id="fn_52"></span>[181:1](mom09.htm#fr_52) These pages summarize
+<span id="fn_52"></span>[181:1](mom09.htm#fr_52.md) These pages summarize
 the conclusions of a study entitled *Le taurobole et le culte de
 Bellone*, published in the *Revue d' histoire et de littérature
 religieuses*.
 
-<span id="fn_53"></span>[182:1](mom09.htm#fr_53) See above, [p.
-146](mom07.htm#page_146).
+<span id="fn_53"></span>[182:1](mom09.htm#fr_53.md) See above, [p.
+146](mom07.htm#page_146.md).
 
-<span id="fn_54"></span>[184:1](mom09.htm#fr_54) Renan, *Lettre à
+<span id="fn_54"></span>[184:1](mom09.htm#fr_54.md) Renan, *Lettre à
 Berthelot* (*Dialogues et fragments philosophiques*), p. 168.
 
-<span id="fn_55"></span>[190:1](mom09.htm#fr_55) I may remark that even
+<span id="fn_55"></span>[190:1](mom09.htm#fr_55.md) I may remark that even
 the expression "dearest brothers" had already been used by the sectaries
 of Jupiter Dolichenus (CIL, VI, 406 = 30758: *fratres carissimos et
 conlegas hon* \[*estissimos*\]) and probably also in the Mithraic
 associations.
 
-<span id="fn_56"></span>[195:1](mom09.htm#fr_56) M. Jean Réville
+<span id="fn_56"></span>[195:1](mom09.htm#fr_56.md) M. Jean Réville
 (*Études publiées en hommage à la faculté de théologie de Montauban*,
 1901, pp. 339 *et seq.*) thinks that the Gospel story of the birth of
 Christ and the adoration of the Magi was suggested by the Mithraic
@@ -867,30 +867,30 @@ Mazdaism. But I must remark that the Mazdean beliefs regarding the
 advent of Mithra into the world have strangely varied. (*Cf.* *T. et
 M.*, Vol. I., pp. 160 *et seq.*)
 
-<span id="fn_57"></span>[196:1](mom09.htm#fr_57) See above, [p.
-167](mom08.htm#page_167).
+<span id="fn_57"></span>[196:1](mom09.htm#fr_57.md) See above, [p.
+167](mom08.htm#page_167.md).
 
-<span id="fn_58"></span>[197:1](mom09.htm#fr_58) See above, [p.
-138](mom07.htm#page_138).
+<span id="fn_58"></span>[197:1](mom09.htm#fr_58.md) See above, [p.
+138](mom07.htm#page_138.md).
 
-<span id="fn_59"></span>[197:2](mom09.htm#fr_59) See [p.
-227](mom10.htm#page_227).
+<span id="fn_59"></span>[197:2](mom09.htm#fr_59.md) See [p.
+227](mom10.htm#page_227.md).
 
-<span id="fn_60"></span>[200:1](mom09.htm#fr_60) See above, pp.
-[88](mom06.htm#page_88)-89.
+<span id="fn_60"></span>[200:1](mom09.htm#fr_60.md) See above, pp.
+[88](mom06.htm#page_88.md)-89.
 
-<span id="fn_61"></span>[200:2](mom09.htm#fr_61) Cf. Preger,
+<span id="fn_61"></span>[200:2](mom09.htm#fr_61.md) Cf. Preger,
 *Konstantinos-Helios* (Hermes, XXXVI), 1901, p. 457.
 
-<span id="fn_62"></span>[201:1](mom09.htm#fr_62) Mamert., *Grat. actio
+<span id="fn_62"></span>[201:1](mom09.htm#fr_62.md) Mamert., *Grat. actio
 in Iulian.*, c. 23.
 
-<span id="fn_63"></span>[203:1](mom09.htm#fr_63) St. Jerome, *Epist. 107
+<span id="fn_63"></span>[203:1](mom09.htm#fr_63.md) St. Jerome, *Epist. 107
 ad Lætam* (*T. et M.*, Vol. II., p. 18), *subvertit, fregit, excussit*.
 
-<span id="fn_64"></span>[205:1](mom09.htm#fr_64) CIL, VI, (*T. et M.*,
+<span id="fn_64"></span>[205:1](mom09.htm#fr_64.md) CIL, VI, (*T. et M.*,
 Vol. II., p. 94, No. 13).
 
 ------------------------------------------------------------------------
 
-[Next: Mithraic Art](mom10)
+[Next: Mithraic Art](mom10.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray023)  [Next](pray025) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray023)  [Next](pray025.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ just as if they had been tutelar deities. And thus not only were gods
 set up according to the number of the cities (the charge which the
 prophet brought against Israel of old, <span
 id="iii.xxii-p1.1"></span>[Jer.
-2:28](../../../bib/kjv/jer002.htm#028)<span id="iii.xxii-p1.1"></span>;
+2:28](../../../bib/kjv/jer002.htm#028.md)<span id="iii.xxii-p1.1"></span>;
 11:13), but according to the number of individuals. But while the saints
 in all their desires refer to the will of God alone, look to it, and
 acquiesce in it, yet to assign to them any other prayer than that of
@@ -40,14 +40,14 @@ station, that is, the word of God. I say nothing of the more monstrous
 specimens of impiety in which, though detestable to God, angels, and
 men, they themselves feel no pain or shame. Prostrated at a statue or
 picture of Barbara or Catherine, and the like, they mutter a *Pater
-Noster;* <span id="fr_8"></span>[9](#fn_8) and so far are their
-pastors <span id="fr_9"></span>[10](#fn_9) from curing or curbing this
+Noster;* <span id="fr_8"></span>[9](#fn_8.md) and so far are their
+pastors <span id="fr_9"></span>[10](#fn_9.md) from curing or curbing this
 frantic course, that, allured by the scent of gain, they approve and
 applaud it. But while seeking to relieve themselves of the odium of this
 vile and criminal procedure, with what pretext can they defend the
 practice of calling upon Eloy (Eligius) or Medard to look upon their
 servants, and send them help from heaven, or the Holy Virgin to order
-her Son to do what they ask? <span id="fr_10"></span>[11](#fn_10) The
+her Son to do what they ask? <span id="fr_10"></span>[11](#fn_10.md) The
 Council of Carthage forbade direct prayer to be made at the altar to
 saints. It is probable that these holy men, unable entirely to suppress
 the force of depraved custom, had recourse to this check, that public
@@ -60,7 +60,7 @@ to the dead the peculiar attributes of Christ and God?
 
 ### Footnotes
 
-<span id="fn_8"></span>[9](pray024.htm#fr_8) <span
+<span id="fn_8"></span>[9](pray024.htm#fr_8.md) <span
 id="iii.xxii-p1.2"></span>Erasmus, though stumbling and walking
 blindfold in clear light, ventures to write thus in a letter to Sadolet,
 1530: "<span id="iii.xxii-p1.3"></span>Primum, constat nullum esse locum
@@ -76,13 +76,13 @@ matter it may justly seem dangerous to introduce anything without the
 authority of Scripture, I by no means condemn the invocation of saints,
 &c.
 
-<span id="fn_9"></span>[10](pray024.htm#fr_9) <span
+<span id="fn_9"></span>[10](pray024.htm#fr_9.md) <span
 id="iii.xxii-p1.4"></span>Latin, "<span
 id="iii.xxii-p1.5"></span>Pastores;"—French, "<span
 id="iii.xxii-p1.6"></span>ceux qui se disent prelats, curés, ou
 precheurs;"—those who call themselves prelates, curates, or preachers.
 
-<span id="fn_10"></span>[11](pray024.htm#fr_10) <span
+<span id="fn_10"></span>[11](pray024.htm#fr_10.md) <span
 id="iii.xxii-p1.7"></span>French, "<span id="iii.xxii-p1.8"></span>Mais
 encore qu’ils taschent de laver leur mains d'un si vilain sacrilege,
 d'autant qu’il ne se commet point en leurs messes ni en leurs vespres;
@@ -99,4 +99,4 @@ Son to grant their requests?
 
 ------------------------------------------------------------------------
 
-[Next: 23.](pray025)
+[Next: 23.](pray025.md)

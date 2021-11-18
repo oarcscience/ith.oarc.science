@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod23)  [Next](eod25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod23)  [Next](eod25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -40,10 +40,10 @@ nach Vernichtung des sündigen Menschengeschlechts nach einer
 Altägyptischen Ueber lieferung*, 1881); and partly translated by Lauth
 (*Aus Ægyptens Vorzeit*, pp. 70-81) and by Lefèbure ("Une chapitre de la
 chronique solaire," in the *Zeitschrift für Ægyptische Sprache*, 1883,
-pp. 32, 33)" <span id="fr_177"></span>[1](#fn_177)
+pp. 32, 33)" <span id="fr_177"></span>[1](#fn_177.md)
 
 Important commentaries upon this story have been published also by
-Brugsch and Gauthier. <span id="fr_178"></span>[2](#fn_178)
+Brugsch and Gauthier. <span id="fr_178"></span>[2](#fn_178.md)
 
 As the really important features of the story consist of the incoherent
 and contradictory details, and it would take up too much space to
@@ -62,19 +62,19 @@ highly confused and incoherent form.
 The other legends to which I shall have constantly to refer are "The
 Saga of the Winged Disk," "The Feud between Horus and Set," "The
 Stealing of Re's Name by Isis," and a series of later variants and
-confusions of these stories. <span id="fr_179"></span>[3](#fn_179)
+confusions of these stories. <span id="fr_179"></span>[3](#fn_179.md)
 
 <span id="page_111">p. 111</span>
 
 The Egyptian legends cannot be fully appreciated unless they are studied
 in conjunction with those of Babylonia and Assyria, <span
-id="fr_180"></span>[1](#fn_180) the mythology of Greece, <span
-id="fr_181"></span>[2](#fn_181) Persia, <span
-id="fr_182"></span>[3](#fn_182) India, <span
-id="fr_183"></span>[4](#fn_183) China, <span
-id="fr_184"></span>[5](#fn_184) Indonesia, <span
-id="fr_185"></span>[6](#fn_185) and America. <span
-id="fr_186"></span>[7](#fn_186)
+id="fr_180"></span>[1](#fn_180.md) the mythology of Greece, <span
+id="fr_181"></span>[2](#fn_181.md) Persia, <span
+id="fr_182"></span>[3](#fn_182.md) India, <span
+id="fr_183"></span>[4](#fn_183.md) China, <span
+id="fr_184"></span>[5](#fn_184.md) Indonesia, <span
+id="fr_185"></span>[6](#fn_185.md) and America. <span
+id="fr_186"></span>[7](#fn_186.md)
 
 For it will be found that essentially the same stream of legends was
 flowing in all these countries, and that the scribes and painters have
@@ -91,22 +91,22 @@ Persia or India, China or Britain, or even Oceania and America.
 The incidents in the Destruction of Mankind may be briefly summarized:—
 
 As Re grows old "the men who were begotten of his eye" <span
-id="fr_187"></span>[8](#fn_187) show signs of rebellion. Re calls a
+id="fr_187"></span>[8](#fn_187.md) show signs of rebellion. Re calls a
 council of the gods and they advise him
 
 <span id="page_112">p. 112</span>
 
-to "shoot forth his Eye <span id="fr_188"></span>[1](#fn_188) that it
+to "shoot forth his Eye <span id="fr_188"></span>[1](#fn_188.md) that it
 may slay the evil conspirators. … Let the goddess Hathor descend \[from
 heaven\] and slay the men on the mountains \[to which they had fled in
 fear\]." As the goddess complied she remarked: "it will be good for me
 when I subject mankind," and Re replied, "I shall subject them and slay
 them". Hence the goddess received the additional name of *Sekhmet* from
 the word "to subject". The destructive Sekhmet <span
-id="fr_189"></span>[2](#fn_189) *avatar* of Hathor is represented as a
+id="fr_189"></span>[2](#fn_189.md) *avatar* of Hathor is represented as a
 fierce lion-headed goddess of war wading in blood. For the goddess set
 to work slaughtering mankind and the land was flooded with blood. <span
-id="fr_190"></span>[3](#fn_190) Re became alarmed and determined to save
+id="fr_190"></span>[3](#fn_190.md) Re became alarmed and determined to save
 at least some remnant of mankind. For this purpose he sent messengers to
 Elephantine to obtain a substance called *d’d’* in the Egyptian text,
 which he gave to the god Sektet of Heliopolis to grind up in a mortar.
@@ -117,7 +117,7 @@ poured out upon the fields, so that when the goddess came to resume her
 task of destruction in the morning she found the fields inundated and
 her face was mirrored in the fluid. She drank of the fluid and became
 intoxicated so that she no longer recognized mankind. <span
-id="fr_191"></span>[4](#fn_191)
+id="fr_191"></span>[4](#fn_191.md)
 
 Thus Re saved a remnant of mankind from the bloodthirsty, terrible
 Hathor. But the god was weary of life on earth and withdrew to heaven
@@ -133,7 +133,7 @@ was the river: his own vitality was the source of all fertility and
 prosperity. Hence when he showed signs that his vital powers were
 failing it became a logical necessity that he should be killed to
 safeguard the welfare of his country and people. <span
-id="fr_192"></span>[1](#fn_192)
+id="fr_192"></span>[1](#fn_192.md)
 
 The time came when a king, rich in power and the enjoyment of life,
 refused to comply with this custom. When he realized that his virility
@@ -162,7 +162,7 @@ own children.
 
 In course of time the practice of human sacrifice was abandoned and
 substitutes were adopted in place of the blood of mankind. Either the
-blood of cattle, <span id="fr_193"></span>[1](#fn_193) who by means of
+blood of cattle, <span id="fr_193"></span>[1](#fn_193.md) who by means of
 appropriate ceremonies could be transformed into human beings (for the
 Great Mother herself was the Divine Cow and her offspring cattle), was
 employed in its stead; or red ochre was used to colour a liquid which
@@ -190,7 +190,7 @@ previously occupied by Horus and originally by Osiris, who as the real
 personification of the life-giving power of water is obviously the
 appropriate person to be slain when his virility begins to fail. Dr. C.
 G. Seligman's account of the Dinka rain-maker Lerpiu, which I have
-already quoted ([p. 113](#page_113)) from Sir James Frazer's "Dying
+already quoted ([p. 113](#page_113).md) from Sir James Frazer's "Dying
 God," suggests that the slain king or god was originally Osiris.
 
 The introduction of Re into the story marks the beginning of the belief
@@ -238,11 +238,11 @@ rulers of the two kingdoms of Egypt. The possibility also suggests
 itself that a pun made by some priestly jester may have been the real
 factor that led to this mingling of two originally separate stories. In
 the "Destruction of Mankind" the story runs, according to Budge, <span
-id="fr_194"></span>[1](#fn_194) that Re, referring to his enemies, said:
+id="fr_194"></span>[1](#fn_194.md) that Re, referring to his enemies, said:
 *mā-ten set uār er set*, "Behold ye them (*set*) fleeing into the
 mountain (*set*)". The enemies were thus identified with the mountain or
 stone and with Set, the enemy of the gods. <span
-id="fr_195"></span>[2](#fn_195)
+id="fr_195"></span>[2](#fn_195.md)
 
 In Egyptian hieroglyphics the symbol for stone is used as the
 determinative for Set. When the "Eye of Re" destroyed mankind and the
@@ -251,7 +251,7 @@ regarded as creatures of "stone". In other words the Medusa-eye
 petrified the enemies. From this feeble pun on the part of some ancient
 Egyptian scribe has arisen the world-wide stories of the influence of
 the "Evil Eye" and the petrification of the enemies of the gods. <span
-id="fr_196"></span>[3](#fn_196) As the name for Isis in Egyptian is
+id="fr_196"></span>[3](#fn_196.md) As the name for Isis in Egyptian is
 "*Set*," it is possible that the confusion of the Power of Evil with the
 Great Mother may also have been facilitated by an extension of the same
 pun.
@@ -278,7 +278,7 @@ occupied by Hathor in the story is revealed by the series of trivial
 episodes from the "Destruction of Mankind" that reappear in the "Saga of
 the Winged Disk". The king of Lower Egypt (Horus) was identified with a
 falcon, as Hathor was with the vulture (Mut): like her, he entered the
-sun-god's boat <span id="fr_197"></span>[1](#fn_197) and sailed up the
+sun-god's boat <span id="fr_197"></span>[1](#fn_197.md) and sailed up the
 river with him: he then mounted up to heaven as a winged disk, *i.e.*
 the sun of Re equipped with his own falcon's wings. The destructive
 force displayed by Hathor as the Eye of Re was symbolized by her
@@ -323,7 +323,7 @@ were supposed to come from the First Cataract at Elephantine. Hence by a
 familiar psychological process the previous phase of the legend was
 recast, and by confusion the red ochre (which was used to colour the
 beer red) was said to have come from Elephantine. <span
-id="fr_198"></span>[1](#fn_198)
+id="fr_198"></span>[1](#fn_198.md)
 
 <span id="page_119">p. 119</span>
 
@@ -339,7 +339,7 @@ beautiful and desirable in the land. When the practice of human
 sacrifice was abandoned a figure or an animal was substituted for the
 maiden in ritual practice, and in legends the hero rescued the maiden,
 as Andromeda was saved from the dragon. <span
-id="fr_199"></span>[1](#fn_199) The dragon is the personification of the
+id="fr_199"></span>[1](#fn_199.md) The dragon is the personification of the
 monsters that dwell in the waters as well as the destructive forces of
 the flood itself. But the monsters were no other than the followers of
 Set; they were the victims of the slaughter who became identified with
@@ -380,7 +380,7 @@ the Nile were supposed by the Egyptians to come from Elephantine.
 But according to the story inscribed in Seti I<sup>st's</sup> tomb, the
 red ochre was an essential ingredient of the sedative mixture (prepared
 under the direction of Re by the Sekti <span
-id="fr_200"></span>[1](#fn_200) of Heliopolis) to calm Hathor's
+id="fr_200"></span>[1](#fn_200) of Heliopolis.md) to calm Hathor's
 murderous spirit.
 
 It has been claimed that the story simply means that the goddess became
@@ -393,7 +393,7 @@ translated "mandragora," from its resemblance to the Hebrew word
 *dudaim* in the Old Testament, which is often translated "mandrakes" or
 "love-apples". But Gauthier has clearly demonstrated that the Egyptian
 word does not refer to a vegetable but to a mineral substance, which he
-translates "red clay" <span id="fr_201"></span>[2](#fn_201). Mr. F. Ll.
+translates "red clay" <span id="fr_201"></span>[2](#fn_201.md). Mr. F. Ll.
 Griffith tells me, however, that it is "red ochre". In any case,
 mandrake is not found at Elephantine (which, however, for the reasons I
 have already given, is a point of no importance so far as the
@@ -442,16 +442,16 @@ is the milk of the Divine Cow herself which is churned to provide the
 
 ### Footnotes
 
-<span id="fn_177"></span>[110:1](eod24.htm#fr_177) G. Maspero, "The Dawn
+<span id="fn_177"></span>[110:1](eod24.htm#fr_177.md) G. Maspero, "The Dawn
 of Civilization," p. 164.
 
-<span id="fn_178"></span>[110:2](eod24.htm#fr_178) H. Brugsch, "Die
+<span id="fn_178"></span>[110:2](eod24.htm#fr_178.md) H. Brugsch, "Die
 Alraune als altägyptische Zauberpflanze," *Zeit. f. Ægypt. Sprache*, Bd.
 29, 1891, pp. 31-3; and Henri Gauthier, "Le nom hiéroglyphique de
 l’argile rouge d’Éléphantine," Revue Égyptologique, t. xi<sup>e</sup>,
 Nos. i.–ii., 1904, p. 1.
 
-<span id="fn_179"></span>[110:3](eod24.htm#fr_179) These legends will be
+<span id="fn_179"></span>[110:3](eod24.htm#fr_179.md) These legends will be
 found in the works by Maspero, Erman and Budge, to which I have already
 referred. A very useful digest will be found in Donald A. Mackenzie's
 "Egyptian Myth and Legend". Mr. Mackenzie does not claim to have any
@@ -468,42 +468,42 @@ reference in following the story I have to unfold: "Teutonic Myth and
 Legend," "Egyptian Myth and Legend," "Indian Myth and Legend," "Myths of
 Babylonia and Assyria" and "Myths of Crete and Pre-Hellenic Europe".
 
-<span id="fn_180"></span>[111:1](eod24.htm#fr_180) See Leonard W. King,
+<span id="fn_180"></span>[111:1](eod24.htm#fr_180.md) See Leonard W. King,
 "Babylonian Religion," 1899.
 
-<span id="fn_181"></span>[111:2](eod24.htm#fr_181) For a useful
+<span id="fn_181"></span>[111:2](eod24.htm#fr_181.md) For a useful
 collection of data see A. B. Cook, "Zeus".
 
-<span id="fn_182"></span>[111:3](eod24.htm#fr_182) Albert J. Carnoy,
+<span id="fn_182"></span>[111:3](eod24.htm#fr_182.md) Albert J. Carnoy,
 "Iranian Views of Origins in connexion with Similar Babylonian Beliefs,"
 *Journal of the American Oriental Society*, vol. xxxvi., 1916, pp.
 300-20; and "The Moral Deities of Iran and India and their Origins,"
 *The American Journal of Theology*, vol. xxi., No. i., January, 1917.
 
-<span id="fn_183"></span>[111:4](eod24.htm#fr_183) Hopkins, "Religions
+<span id="fn_183"></span>[111:4](eod24.htm#fr_183.md) Hopkins, "Religions
 of India".
 
-<span id="fn_184"></span>[111:5](eod24.htm#fr_184) De Groot, "The
+<span id="fn_184"></span>[111:5](eod24.htm#fr_184.md) De Groot, "The
 Religious System of China".
 
-<span id="fn_185"></span>[111:6](eod24.htm#fr_185) Perry, "The
+<span id="fn_185"></span>[111:6](eod24.htm#fr_185.md) Perry, "The
 Megalithic Culture of Indonesia," Manchester, 1918.
 
-<span id="fn_186"></span>[111:7](eod24.htm#fr_186) T H. Beuchat, "Manuel
+<span id="fn_186"></span>[111:7](eod24.htm#fr_186.md) T H. Beuchat, "Manuel
 d’ Archéologie Américaine," Paris, 1912; T. A. Joyce, "Mexican
 Archæology," and especially the memoir by Seler on the "Codex Vaticanus"
 and his articles in the *Zeitschrift für Ethnologie* and elsewhere.
 
-<span id="fn_187"></span>[111:8](eod24.htm#fr_187) I.e. the offspring of
+<span id="fn_187"></span>[111:8](eod24.htm#fr_187.md) I.e. the offspring of
 the Great Mother of gods and men, Hathor, the "Eye of Re".
 
-<span id="fn_188"></span>[112:1](eod24.htm#fr_188) That is, Hathor, who
+<span id="fn_188"></span>[112:1](eod24.htm#fr_188.md) That is, Hathor, who
 as the moon is the "Eye of Re".
 
-<span id="fn_189"></span>[112:2](eod24.htm#fr_189) Elsewhere in these
+<span id="fn_189"></span>[112:2](eod24.htm#fr_189.md) Elsewhere in these
 pages I have used the more generally adopted spelling "Sekhet".
 
-<span id="fn_190"></span>[112:3](eod24.htm#fr_190) Mr. F. Ll. Griffith
+<span id="fn_190"></span>[112:3](eod24.htm#fr_190.md) Mr. F. Ll. Griffith
 tells me that the translation "flooding the land" is erroneous and
 misleading. Comparison of the whole series of stories, however, suggests
 that the amount of blood shed rapidly increased in the development of
@@ -511,14 +511,14 @@ the narrative: at first the blood of a single victim; then the blood of
 mankind; then 7000 jars of a substitute for blood; then the red
 inundation of the Nile.
 
-<span id="fn_191"></span>[112:4](eod24.htm#fr_191) This
-[version](errata.htm#5) I have quoted mainly from Erman, *op. cit.*, pp.
+<span id="fn_191"></span>[112:4](eod24.htm#fr_191.md) This
+[version](errata.htm#5.md) I have quoted mainly from Erman, *op. cit.*, pp.
 267-9, but with certain alterations which I shall mention later. In
 another version of the legend wine replaces the beer and is made out of
 "the blood of those who formerly fought against the gods," cf. Plutarch,
 De Iside (ed. Parthey) 6.
 
-<span id="fn_192"></span>[113:1](eod24.htm#fr_192) It is still the
+<span id="fn_192"></span>[113:1](eod24.htm#fr_192.md) It is still the
 custom in many places, and among them especially the regions near the
 headwaters of the Nile itself, to regard the king or rain-maker as the
 impersonation of the life-giving properties of water and the source of
@@ -555,7 +555,7 @@ fire, and eaten by the old and important people of the clan. The horns
 of the animals are attached to the post in front of the shrine" (pp. 32
 and 33).
 
-<span id="fn_193"></span>[114:1](eod24.htm#fr_193) In Northern Nigeria
+<span id="fn_193"></span>[114:1](eod24.htm#fr_193.md) In Northern Nigeria
 an official who bore the title of Killer of the Elephant throttled the
 king "as soon as he showed signs of failing health or growing
 infirmity". The king-elect was afterwards conducted to the centre of the
@@ -566,10 +566,10 @@ which had been disembowelled and smoked for seven days over a slow fire,
 were wrapped up in the hide and dragged along to the place of burial,
 where they were interred in a circular pit" (Frazer, *op. cit.*, p. 35).
 
-<span id="fn_194"></span>[116:1](eod24.htm#fr_194) "Gods of the
+<span id="fn_194"></span>[116:1](eod24.htm#fr_194.md) "Gods of the
 Egyptians," vol. i., p. 392.
 
-<span id="fn_195"></span>[116:2](eod24.htm#fr_195) The eye of the
+<span id="fn_195"></span>[116:2](eod24.htm#fr_195.md) The eye of the
 sun-god, which was subsequently called the eye of Horus and identified
 with the Uræus-snake on the forehead of Re and of the Pharaohs, the
 earthly representatives of Re, finally becoming synonymous with the
@@ -577,11 +577,11 @@ crown of Lower Egypt, was a mighty goddess, Uto or Buto by name" (Alan
 Gardiner, Article "Magic (Egyptian)" in Hastings’ *Encyclopædia of
 Religion and Ethics*, p. 268, quoting Sethe.
 
-<span id="fn_196"></span>[116:3](eod24.htm#fr_196) "For an account of
+<span id="fn_196"></span>[116:3](eod24.htm#fr_196.md) "For an account of
 the distribution of this story see E. Sidney Hartland, "The Legend of
 Perseus"; also W. J. Perry, "The Megalithic Culture of Indonesia".
 
-<span id="fn_197"></span>[117:1](eod24.htm#fr_197) The original "boat of
+<span id="fn_197"></span>[117:1](eod24.htm#fr_197.md) The original "boat of
 the sky" was the crescent moon, which, from its likeness to the earliest
 form of Nile boat, was regarded as the vessel in which the moon (seen as
 a faint object upon the crescent), or the goddess who was supposed to be
@@ -599,7 +599,7 @@ animated by the respective deities. In India the *Makara*, the prototype
 of the dragon, was sometimes represented as a boat which was looked upon
 as the fish-*avatar* of Vishnu, Buddha or some other deity.
 
-<span id="fn_198"></span>[118:1](eod24.htm#fr_198) This is an instance
+<span id="fn_198"></span>[118:1](eod24.htm#fr_198.md) This is an instance
 of the well-known tendency of the human mind to blend numbers of
 different incidents into one story. An episode of one experience, having
 been transferred to an earlier one, becomes rationalized in adaptation
@@ -609,14 +609,14 @@ is the explanation of the reference to Elephantine as the source of the
 and Gauthier to study the natural products of Elephantine for the
 purpose of identifying *d’d’* were therefore wholly misplaced.
 
-<span id="fn_199"></span>[119:1](eod24.htm#fr_199) In Hartland's "Legend
+<span id="fn_199"></span>[119:1](eod24.htm#fr_199.md) In Hartland's "Legend
 of Perseus" a collection of variants of this story will be found.
 
-<span id="fn_200"></span>[120:1](eod24.htm#fr_200) In the version I have
+<span id="fn_200"></span>[120:1](eod24.htm#fr_200.md) In the version I have
 quoted from Erman he refers to "the god Sektet".
 
-<span id="fn_201"></span>[120:2](eod24.htm#fr_201) *Op. cit.*, *supra*.
+<span id="fn_201"></span>[120:2](eod24.htm#fr_201.md) *Op. cit.*, *supra*.
 
 ------------------------------------------------------------------------
 
-[Next: The Thunder-Weapon](eod25)
+[Next: The Thunder-Weapon](eod25.md)

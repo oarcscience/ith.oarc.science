@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal136)  [Next](njal138) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal136)  [Next](njal138.md) 
 
 ------------------------------------------------------------------------
 
@@ -191,4 +191,4 @@ Skeggi of Midfirth.
 
 ------------------------------------------------------------------------
 
-[Next: 138. Of Asgrim, And Gizur, And Kari](njal138)
+[Next: 138. Of Asgrim, And Gizur, And Kari](njal138.md)

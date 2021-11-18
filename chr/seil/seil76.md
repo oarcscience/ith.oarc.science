@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil75)  [Next](seil77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil75)  [Next](seil77.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 **First Point.** First: He appeared to the Virgin Mary. This, although
 it is not said in Scripture, is included in saying that He appeared to
 so many others, because Scripture supposes that we have
-understanding, <span id="fr_30"></span>[31](seil83.htm#fn_30) as it is
+understanding, <span id="fr_30"></span>[31](seil83.htm#fn_30.md) as it is
 written: "\`Are you also without understanding?"\`
 
 ### OF THE SECOND APPARITION
@@ -28,7 +28,7 @@ written: "\`Are you also without understanding?"\`
 Mark, Chapter 16 \[9\].
 
 **First Point.** First: Mary Magdalen, Mary, the mother of James, and
-Salome come very <span id="fr_31"></span>[32](seil83.htm#fn_31) early to
+Salome come very <span id="fr_31"></span>[32](seil83.htm#fn_31.md) early to
 the Sepulchre saying: "\`Who shall lift for us the stone from the door
 of the Sepulchre?'"
 
@@ -119,7 +119,7 @@ have believed.'"
 John, last Chapter \[1-24\].
 
 **First Point.** First: Jesus appears to seven of His Disciples <span
-id="fr_32"></span>[33](seil83.htm#fn_32) who were fishing, and had taken
+id="fr_32"></span>[33](seil83.htm#fn_32.md) who were fishing, and had taken
 nothing all night; and spreading the net by His command, "They were not
 able to draw it out for the multitude of the fishes."
 
@@ -128,7 +128,7 @@ St. Peter: "\`It is the Lord!'" He cast himself into the sea and came to
 Christ.
 
 **Third Point.** Third: He gave them to eat part of a fish roasted, and
-a comb of honey, <span id="fr_33"></span>[34](seil83.htm#fn_33) and
+a comb of honey, <span id="fr_33"></span>[34](seil83.htm#fn_33.md) and
 recommended the sheep to St. Peter, having first examined him three
 times on charity, and says to him: "\`Feed My sheep! \`"
 
@@ -160,7 +160,7 @@ He appeared to St. James."
 
 He appeared to Joseph of Arimathea, as is piously meditated and is read
 in the lives of the Saints. <span
-id="fr_34"></span>[35](seil83.htm#fn_34)
+id="fr_34"></span>[35](seil83.htm#fn_34.md)
 
 ### OF THE THIRTEENTH APPARITION
 
@@ -174,4 +174,4 @@ many times, and dealt with them.
 
 ------------------------------------------------------------------------
 
-[Next: The Ascension](seil77)
+[Next: The Ascension](seil77.md)

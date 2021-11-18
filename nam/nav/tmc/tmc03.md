@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](tmc02)  [Next](tmc04) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](tmc02)  [Next](tmc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -1293,4 +1293,4 @@ such the spectators enjoyed it.
 
 ------------------------------------------------------------------------
 
-[Next: The Great Pictures of Dsilyídje Qaçàl.](tmc04)
+[Next: The Great Pictures of Dsilyídje Qaçàl.](tmc04.md)

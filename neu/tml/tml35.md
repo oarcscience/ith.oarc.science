@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml34)  [Next](tml36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml34)  [Next](tml36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -132,14 +132,14 @@ naked, because her hair was so long and bountiful that it covered her
 body, and she drew a net about her; she came not feasting nor yet
 fasting, because she held an onion to her lips and tasted of it; she was
 not alone, because her dog walked by her side. <span
-id="fr_100"></span>[1](#fn_100)
+id="fr_100"></span>[1](#fn_100.md)
 
 Ragnar, who was now a great king, took beauteous Aslog, the daughter of
 Sigurd and Brynhild, for his bride, and their sons were named Ingvar and
-Ubbe. <span id="fr_101"></span>[2](#fn_101)
+Ubbe. <span id="fr_101"></span>[2](#fn_101.md)
 
 After Sigurd's death Gudrun had a daughter who was named Svanhild. She
-was given for wife to Jormunrek, <span id="fr_102"></span>[3](#fn_102)
+was given for wife to Jormunrek, <span id="fr_102"></span>[3](#fn_102.md)
 
 <span id="page_342">p. 342</span>
 
@@ -166,13 +166,13 @@ Brynhild, reigned as Ragnar's queen in a northern land. In Norway, s
 royal line alone doth the blood of the Volsungs flow.
 
 The young prince, who was Jormunrek's son, was condemned to death by his
-sire and was hanged. <span id="fr_103"></span>[1](#fn_103)
+sire and was hanged. <span id="fr_103"></span>[1](#fn_103.md)
 
  
 
 <span id="img_34200"></span> <span align="CENTER"> [![KRAKE&lt;br&gt;
 &lt;i&gt;From the painting by M. E. Winge&lt;/i&gt;](tn/34200.jpg)  
-Click to enlarge](img/34200.jpg)  
+Click to enlarge](img/34200.jpg.md)  
 KRAKE  
 *From the painting by M. E. Winge*  
 </span>
@@ -183,7 +183,7 @@ KRAKE
 
 ### Footnotes
 
-<span id="fn_100"></span>[341:1](tml35.htm#fr_100) So did Grainne come
+<span id="fn_100"></span>[341:1](tml35.htm#fr_100.md) So did Grainne come
 to Diarmid in the Highland Fian tale. Grimm also gives a version of the
 story with numerous references to similar tales in other languages than
 Gaelic and German. In Saxo (Book 9) there is a more sordid account of
@@ -192,7 +192,7 @@ Ubbe. Like Odin, when he wooed Rhine, Ragnar made use of female attire.
 Our version is from Ragnar's saga. The Volsunga saga drops Aslog at the
 point where she became Krake.
 
-<span id="fn_101"></span>[341:2](tml35.htm#fr_101) Here we meet history.
+<span id="fn_101"></span>[341:2](tml35.htm#fr_101.md) Here we meet history.
 By one authority Ingvar and Ubbe are said to be the northmen who
 murdered King Eadmund of England. Others identify them as the avenging
 sons who carved an eagle on the back of King Ella in Yorkshire, because
@@ -201,13 +201,13 @@ northern Cinderella, sung of in Norway and Denmark. She was a link
 between Odin and the Norse kings, who prided themselves in their descent
 from the Asa-god.
 
-<span id="fn_102"></span>[341:3](tml35.htm#fr_102) Ermenrich (Hermanric)
+<span id="fn_102"></span>[341:3](tml35.htm#fr_102) Ermenrich (Hermanric.md)
 of the Ostrogoths.
 
-<span id="fn_103"></span>[342:1](tml35.htm#fr_103) Saxo gives an account
+<span id="fn_103"></span>[342:1](tml35.htm#fr_103.md) Saxo gives an account
 of a sham execution, but in the Dietrich story he is actually put to
 death. Bikki is Sibech.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXI. Gudrun's Vengeance](tml36)
+[Next: Chapter XXXI. Gudrun's Vengeance](tml36.md)

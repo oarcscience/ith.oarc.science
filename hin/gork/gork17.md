@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork16)  [Next](gork18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork16)  [Next](gork18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ Sannyâsin disciples and by those women disciples who were especially
 devoted to Him.
 
 The Sannyâsin disciples were twelve in number. <span
-id="fr_103"></span>[\*](#fn_103) Most of them were young men of noble
+id="fr_103"></span>[\*](#fn_103.md) Most of them were young men of noble
 families and were graduates of the University at Calcutta. They had left
 their homes and
 
@@ -313,7 +313,7 @@ will surely attain to God-consciousness in this life."
 
 ### Footnotes
 
-<span id="fn_103"></span>[411:\*](gork17.htm#fr_103) Narendra
+<span id="fn_103"></span>[411:\*](gork17.htm#fr_103.md) Narendra
 (Vivekânanda), Râkhâl (Brahmânanda), Niranjan (Niranjânanda), Sashi
 (Râmakrishnânanda), Sarat (Sâradânanda), Bâburâm (Premânanda), Kâli
 (Abhedânanda), Jogin (Yogânanda), Lâtoo (Adbhutânanda), Gopâl
@@ -321,4 +321,4 @@ will surely attain to God-consciousness in this life."
 
 ------------------------------------------------------------------------
 
-[Next: Index](gork18)
+[Next: Index](gork18.md)

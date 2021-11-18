@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap03)  [Next](chap05) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap03)  [Next](chap05.md) 
 
 ------------------------------------------------------------------------
 
@@ -547,4 +547,4 @@ empfange.'
 
 ------------------------------------------------------------------------
 
-[Next: The 'De Civitate Dei' in the Middle Ages](chap05)
+[Next: The 'De Civitate Dei' in the Middle Ages](chap05.md)

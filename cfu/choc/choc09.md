@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](choc08)  [Next](choc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](choc08)  [Next](choc10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Occultism*, by Paul Carus, \[1907\], at Intangible Textual
 Heritage
 
@@ -20,14 +20,14 @@ Heritage
 #### LO-PAN.
 
 Collectors of curios may have seen in Chinese stores the instrument
-called *lo-pan* <span id="fr_35"></span>[\*](#fn_35) (net-tablet), or
-*lo-king* <span id="fr_36"></span>[†](#fn_36) (net-standard), or
-pan-shih <span id="fr_37"></span>[‡](#fn_37) (disk-norm). This is the
+called *lo-pan* <span id="fr_35"></span>[\*](#fn_35) (net-tablet.md), or
+*lo-king* <span id="fr_36"></span>[†](#fn_36) (net-standard.md), or
+pan-shih <span id="fr_37"></span>[‡](#fn_37) (disk-norm.md). This is the
 geomancer's compass which incorporates
 
 <span id="img_05800"></span> <span align="CENTER"> [![LO-PAN OR NET
 TABLET.](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 LO-PAN OR NET TABLET.  
 </span>
 
@@ -49,10 +49,10 @@ the characters written in the surrounding circles are red, and some are
 black. Different copies differ in details, but all are practically the
 same in their general and most characteristic features. The concentric
 circles of the net tablet are called *ts‘eng*, <span
-id="fr_38"></span>[\*](#fn_38) i.e., "tiers," "stories," or "strata."
+id="fr_38"></span>[\*](#fn_38.md) i.e., "tiers," "stories," or "strata."
 
 The mariner's compass in the center represents *t‘ai chih*, <span
-id="fr_39"></span>[†](#fn_39) "the great origin." The first circle
+id="fr_39"></span>[†](#fn_39.md) "the great origin." The first circle
 contains the eight trigrams in the arrangement of Fuh-Hi, which denote
 the eight directions of the compass and the virtues and properties
 attributed to them.
@@ -242,7 +242,7 @@ toward the right, is as follows:
 17\. The stomach, 12°; in Musca Borealis.
 
 18\. The Pleiades, 9°. (In Chinese *mao*.) <span
-id="fr_40"></span>[19](#fn_40)
+id="fr_40"></span>[19](#fn_40.md)
 
 19\. The end, 15°; in Hyades and Taurus.
 
@@ -276,22 +276,22 @@ id="fr_40"></span>[19](#fn_40)
 
 ### Footnotes
 
-<span id="fn_35"></span>[58:\*](choc09.htm#fr_35) <span
+<span id="fn_35"></span>[58:\*](choc09.htm#fr_35.md) <span
 id="img_05801"></span> ![](img/05801.jpg)
 
-<span id="fn_36"></span>[58:†](choc09.htm#fr_36) <span
+<span id="fn_36"></span>[58:†](choc09.htm#fr_36.md) <span
 id="img_05802"></span> ![](img/05802.jpg)
 
-<span id="fn_37"></span>[58:‡](choc09.htm#fr_37) <span
+<span id="fn_37"></span>[58:‡](choc09.htm#fr_37.md) <span
 id="img_05803"></span> ![](img/05803.jpg)
 
-<span id="fn_38"></span>[59:\*](choc09.htm#fr_38) <span
+<span id="fn_38"></span>[59:\*](choc09.htm#fr_38.md) <span
 id="img_05900"></span> ![](img/05900.jpg)
 
-<span id="fn_39"></span>[59:†](choc09.htm#fr_39) <span
+<span id="fn_39"></span>[59:†](choc09.htm#fr_39.md) <span
 id="img_05901"></span> ![](img/05901.jpg)
 
-<span id="fn_40"></span>[62:19](choc09.htm#fr_40) The Chinese term *mao*
+<span id="fn_40"></span>[62:19](choc09.htm#fr_40.md) The Chinese term *mao*
 does not possess any other significance except the name of this
 constellation. This character is unfortunately misprinted in Mayers,
 *Chinese Reader's Manual*. It is correct in the enumeration of Professor
@@ -299,4 +299,4 @@ De Groot, *loc. cit.*, p. 972.
 
 ------------------------------------------------------------------------
 
-[Next: The Mariner's Compass a Chinese Invention](choc10)
+[Next: The Mariner's Compass a Chinese Invention](choc10.md)

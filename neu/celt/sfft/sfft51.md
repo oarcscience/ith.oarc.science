@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft50)  [Next](sfft52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft50)  [Next](sfft52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE BROWNIE OF BODSBECK. <span id="fr_79"></span>[1](#fn_79)
+### THE BROWNIE OF BODSBECK. <span id="fr_79"></span>[1](#fn_79.md)
 
 Tim brownie of the farmhouse of Bodsbeek, in Moffatdale, left his
 employment upwards of a century ago, on a similar account. He had
@@ -46,9 +46,9 @@ transferred his friendship and services.
 
 ### Footnotes
 
-<span id="fn_79"></span>[178:1](sfft51.htm#fr_79) Chambers, *Popular
+<span id="fn_79"></span>[178:1](sfft51.htm#fr_79.md) Chambers, *Popular
 Rhymes of Scotland*.
 
 ------------------------------------------------------------------------
 
-[Next: The Brownie And The Thievish Maids](sfft52)
+[Next: The Brownie And The Thievish Maids](sfft52.md)

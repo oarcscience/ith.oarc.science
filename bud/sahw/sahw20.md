@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw19)  [Next](sahw21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw19)  [Next](sahw21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -95,12 +95,12 @@ standard of God's will … To be religious is, in other words, to have the
 habit of prayer, or to pray always … we place God's presence and will
 before us, and so consistently act with a reference to Him, that all
 that we do becomes one body and course of obedience." <span
-id="fr_108"></span>[\*](#fn_108) Substitute the Name Amida for God, and
+id="fr_108"></span>[\*](#fn_108.md) Substitute the Name Amida for God, and
 you have what the Amidaist understands, and (as far as his lights go)
 practises, by the term *mina Butsuriki-ni makaseru*.
 
 But if prosperity and adversity, sickness and health, are
-[the](errata.htm#13) Karma of our own actions in the
+[the](errata.htm#13.md) Karma of our own actions in the
 
 <span id="page_132">p. 132</span>
 
@@ -139,20 +139,20 @@ properly considered, is the glory, and not the shame, of the Shinshu. It
 means that the Shinshu has come to preach a Gospel to the outcast, the
 criminal, the evil liver. It has come to call "sinners to repentance."
 And this, we may notice, is an honour which it shares with the Christian
-Gospel. <span id="fr_109"></span>[\*](#fn_109)
+Gospel. <span id="fr_109"></span>[\*](#fn_109.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_108"></span>[131:\*](sahw20.htm#fr_108) Newman, Parochial
+<span id="fn_108"></span>[131:\*](sahw20.htm#fr_108.md) Newman, Parochial
 Sermons. Vol. VII. p. 205.
 
-<span id="fn_109"></span>[133:\*](sahw20.htm#fr_109) The phrase
+<span id="fn_109"></span>[133:\*](sahw20.htm#fr_109.md) The phrase
 *Jisetsutōrai* is especially interesting for the light it throws on the
 historical connection between the Shinshu and Manichaeism. See Appendix
 II.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. The Care of the Dead. (A Shinshu Funeral.)](sahw21)
+[Next: Chapter XIX. The Care of the Dead. (A Shinshu Funeral.)](sahw21.md)

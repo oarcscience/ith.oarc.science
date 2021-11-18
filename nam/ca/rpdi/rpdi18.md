@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi17)  [Next](rpdi19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi17)  [Next](rpdi19.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ also occurs as part of the kusī or toloache ceremony and the Clothes
 Burning. After the close of whatever rite preceded it, some one of the
 old men always made a very emphatic speech, saying that the Fire dance
 had descended from long before, and was very ancient. <span
-id="fr_131"></span>[117a](#fn_129)
+id="fr_131"></span>[117a](#fn_129.md)
 
 Men and women then gathered about the fire in a large circle. The man in
 the company who usually leads the dances then began to sound his rattle.
@@ -70,7 +70,7 @@ were the words:
 <div style="margin-left: 32px">
 
 <span class="small">waiyoti waiyoti <span
-id="fr_132"></span>[118](#fn_130)  
+id="fr_132"></span>[118](#fn_130.md)  
 neyonga meteya  
 nekiwe nitceyo  
 tcama a<span class="it">v</span>i nitceyo</span>
@@ -153,7 +153,7 @@ This ceremony was formerly accompanied by the exhibition of many magic
 tricks. A quantity of liquid, said to be a decoction of willow bark, was
 drunk by the performers before coming to the dance. At the proper time
 they took slender curved wands twelve or fourteen inches long, called
-"swallowing-sticks," kotat, <span id="fr_133"></span>[119](#fn_131) and
+"swallowing-sticks," kotat, <span id="fr_133"></span>[119](#fn_131.md) and
 inserted almost the whole length in their throats. The violent vomiting
 which ensued was held to make the fire mysteriously "cool." It is likely
 that in the old days when no shoes were worn, the toughness of the soles
@@ -165,16 +165,16 @@ severely burn a bare-footed white man.
 
 ### Footnotes
 
-<span id="fn_129"></span>[325:117a](rpdi18.htm#fr_131) The occurrence of
+<span id="fn_129"></span>[325:117a](rpdi18.htm#fr_131.md) The occurrence of
 these emphatic ceremonial speeches or addresses is, as will be observed,
 a feature of all Diegueño rites.
 
-<span id="fn_130"></span>[326:118](rpdi18.htm#fr_132) The words of this
+<span id="fn_130"></span>[326:118](rpdi18.htm#fr_132.md) The words of this
 song, as of the preceding, have the appearance of being Luiseño.
 
-<span id="fn_131"></span>[328:119](rpdi18.htm#fr_133) DuBois, op. cit.,
+<span id="fn_131"></span>[328:119](rpdi18.htm#fr_133.md) DuBois, op. cit.,
 plate 16.
 
 ------------------------------------------------------------------------
 
-[Next: Other Ceremonial Matters](rpdi19)
+[Next: Other Ceremonial Matters](rpdi19.md)

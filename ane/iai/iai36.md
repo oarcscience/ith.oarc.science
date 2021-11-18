@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai35)  [Next](iai37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai35)  [Next](iai37.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ With wings we tread the Silver Way,
 
 ------------------------------------------------------------------------
 
-[Next: Column VI. Escape of Tammuz from Hades](iai37)
+[Next: Column VI. Escape of Tammuz from Hades](iai37.md)

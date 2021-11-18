@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut20)  [Next](hut22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut20)  [Next](hut22.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,11 +9,11 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XVIII.
 
-### The Spoiling of the World. <span id="fr_51"></span>[1](#fn_51)
+### The Spoiling of the World. <span id="fr_51"></span>[1](#fn_51.md)
 
 <span id="page_224">p. 224</span>
 
-Yīmankyūwiñxoiyan <span id="fr_52"></span>[1](#fn_52) and the two women
+Yīmankyūwiñxoiyan <span id="fr_52"></span>[1](#fn_52.md) and the two women
 who were to be his wives grew at Leldiñ. When the time was near for
 Indians to appear upon the earth the smoke which was a token of their
 coming was seen. It hung along on the mountains as far down as those
@@ -28,7 +28,7 @@ handsome woman lived and became the father of a son. When the child was
 large enough to stand, his father told him to lie down back of the fire.
 Someone called out, "A Southfork man is running along from the north on
 the other side. He has the cover of the fire-pit on his head." <span
-id="fr_53"></span>[2](#fn_53) "Quick, take the boat over to him,"
+id="fr_53"></span>[2](#fn_53.md) "Quick, take the boat over to him,"
 Yīmankyūwiñxoiyan said. He was surprised to hear the stranger asking,
 "Where is the one who lives here?" "Why, what do you want?" they asked
 him. "Your child they have put in the ground still alive," said the
@@ -69,34 +69,34 @@ Some bears danced this time. He came back across Redwood creek and
 thought to go south. There he left two more dances. Then someone who was
 living way to the north said, "I wish something would happen to that one
 who did wrong." Finally he told TsōyōLtel to go and lie in the trail to
-tempt Yīmankyūwiñxoiyan. <span id="fr_54"></span>[1](#fn_54) She did as
+tempt Yīmankyūwiñxoiyan. <span id="fr_54"></span>[1](#fn_54.md) She did as
 she was told. Yīmankyūwiñxoiyan was surprised to see her lying there but
 he walked on by her toward the south. Yielding to temptation he returned
 to her. Immediately she caught him against her breast and went with him
 through the water back across the ocean. As often as he became
-[unconscious](errata.htm#6) she held his head above water for him to
+[unconscious](errata.htm#6.md) she held his head above water for him to
 recover.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_51"></span>[220:1](hut21.htm#fr_51) Told by McCann at Hupa,
+<span id="fn_51"></span>[220:1](hut21.htm#fr_51.md) Told by McCann at Hupa,
 December 1901.
 
-<span id="fn_52"></span>[224:1](hut21.htm#fr_52) Yīmankyūwiñxoiyan,
+<span id="fn_52"></span>[224:1](hut21.htm#fr_52.md) Yīmankyūwiñxoiyan,
 "Old-man-across" is said to be the same as Yīmantūwiñyai.
 
-<span id="fn_53"></span>[224:2](hut21.htm#fr_53) It is customary for
+<span id="fn_53"></span>[224:2](hut21.htm#fr_53.md) It is customary for
 those who have touched a corpse to cover their heads lest the world be
 spoiled.
 
-<span id="fn_54"></span>[225:1](hut21.htm#fr_54) Compare [p.
-132](hut04.htm#page_132) and footnote. In the former case the immortal
+<span id="fn_54"></span>[225:1](hut21.htm#fr_54.md) Compare [p.
+132](hut04.htm#page_132.md) and footnote. In the former case the immortal
 beings wished to prevent the Indians' renewing their youth and becoming
 immortal. In this case they wished to prevent their securing the dances
 which are the Peculiar possessions of the immortals.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. Formula of the Jumping Dance](hut22)
+[Next: XIX. Formula of the Jumping Dance](hut22.md)

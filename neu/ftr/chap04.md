@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](chap03)  [Next](chap05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](chap03)  [Next](chap05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XSSI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XSSI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales From the Russian*, by Verra Xenophontovna Kalamatiano de
 Blumenthal, \[1903\], at Intangible Textual Heritage
 
@@ -716,4 +716,4 @@ remained beautiful forever.
 
 ------------------------------------------------------------------------
 
-[Next: Woe Bogotir](chap05)
+[Next: Woe Bogotir](chap05.md)

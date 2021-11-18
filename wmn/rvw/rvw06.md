@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw05)  [Next](rvw07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw05)  [Next](rvw07.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,19 +17,19 @@ most part, in the latter half of the 19th century. \[410 U.S. 113, 130\]
 1\. Ancient attitudes. These are not capable of precise determination.
 We are told that at the time of the Persian Empire abortifacients were
 known and that criminal abortions were severely
-punished. [8](rvw13.htm#xref_8) We are also told, however, that abortion
+punished. [8](rvw13.htm#xref_8.md) We are also told, however, that abortion
 was practiced in Greek times as well as in the Roman
-Era, [9](rvw13.htm#xref_9) and that "it was resorted to without
-scruple." [10](rvw13.htm#xref_10) The Ephesian, Soranos, often described
+Era, [9](rvw13.htm#xref_9.md) and that "it was resorted to without
+scruple." [10](rvw13.htm#xref_10.md) The Ephesian, Soranos, often described
 as the greatest of the ancient gynecologists, appears to have been
 generally opposed to Rome's prevailing free-abortion practices. He found
 it necessary to think first of the life of the mother, and he resorted
 to abortion when, upon this standard, he felt the procedure
-advisable. [11](rvw13.htm#xref_11) Greek and Roman law afforded little
+advisable. [11](rvw13.htm#xref_11.md) Greek and Roman law afforded little
 protection to the unborn. If abortion was prosecuted in some places, it
 seems to have been based on a concept of a violation of the father's
 right to his offspring. Ancient religion did not bar
-abortion. [12](rvw13.htm#xref_12)
+abortion. [12](rvw13.htm#xref_12.md)
 
 2\. The Hippocratic Oath. What then of the famous Oath that has stood so
 long as the ethical guide of the medical profession and that bears the
@@ -38,21 +38,21 @@ name of the great Greek (460(?)-377(?) B. C.), who has been described
 greatest practitioner of his art," and the "most important and most
 complete medical personality of antiquity," who dominated the medical
 schools of his time, and who typified the sum of the medical knowledge
-of the past?  [13](rvw13.htm#xref_13) The Oath varies somewhat according
+of the past?  [13](rvw13.htm#xref_13.md) The Oath varies somewhat according
 to the particular translation, but in any translation the content is
 clear: "I will give no deadly medicine to anyone if asked, nor suggest
 any such counsel; and in like manner I will not give to a woman a
-pessary to produce abortion," [14](rvw13.htm#xref_14) or "I will neither
+pessary to produce abortion," [14](rvw13.htm#xref_14.md) or "I will neither
 give a deadly drug to anybody if asked for it, nor will I make a
 suggestion to this effect. Similarly, I will not give to a woman an
-abortive remedy." [15](rvw13.htm#xref_15)
+abortive remedy." [15](rvw13.htm#xref_15.md)
 
 Although the Oath is not mentioned in any of the principal briefs in
 this case or in Doe v. Bolton, post, p. 179, it represents the apex of
 the development of strict ethical concepts in medicine, and its
 influence endures to this day. Why did not the authority of Hippocrates
 dissuade abortion practice in his time and that of Rome? The late Dr.
-Edelstein provides us with a theory: [16](rvw13.htm#xref_16) The Oath
+Edelstein provides us with a theory: [16](rvw13.htm#xref_16.md) The Oath
 was not uncontested even in Hippocrates' day; only the Pythagorean
 school of philosophers frowned upon the related act of suicide. Most
 Greek thinkers, on the other hand, commended abortion, at least prior to
@@ -63,20 +63,20 @@ destruction of a living being. The abortion clause of the Oath,
 therefore, "echoes Pythagorean doctrines," \[410 U.S. 113, 132\] and
 "\[i\]n no other stratum of Greek opinion were such views held or
 proposed in the same spirit of uncompromising
-austerity." [17](rvw13.htm#xref_17)
+austerity." [17](rvw13.htm#xref_17.md)
 
 Dr. Edelstein then concludes that the Oath originated in a group
 representing only a small segment of Greek opinion and that it certainly
 was not accepted by all ancient physicians. He points out that medical
 writings down to Galen (A. D. 130-200) "give evidence of the violation
-of almost every one of its injunctions." [18](rvw13.htm#xref_18) But
+of almost every one of its injunctions." [18](rvw13.htm#xref_18.md) But
 with the end of antiquity a decided change took place. Resistance
 against suicide and against abortion became common. The Oath came to be
 popular. The emerging teachings of Christianity were in agreement with
 the Pythagorean ethic. The Oath "became the nucleus of all medical
 ethics" and "was applauded as the embodiment of truth." Thus, suggests
 Dr. Edelstein, it is "a Pythagorean manifesto and not the expression of
-an absolute standard of medical conduct." [19](rvw13.htm#xref_19)
+an absolute standard of medical conduct." [19](rvw13.htm#xref_19.md)
 
 This, it seems to us, is a satisfactory and acceptable explanation of
 the Hippocratic Oath's apparent rigidity. It enables us to understand,
@@ -86,8 +86,8 @@ ethics.
 3\. The common law. It is undisputed that at common law, abortion
 performed before "quickening"--the first recognizable movement of the
 fetus in utero, appearing usually from the 16th to the 18th week of
-pregnancy [20](rvw13.htm#xref_20)--was not an indictable
-offense. [21](rvw13.htm#xref_21) The absence \[410 U.S. 113, 133\] of a
+pregnancy [20](rvw13.htm#xref_20.md)--was not an indictable
+offense. [21](rvw13.htm#xref_21.md) The absence \[410 U.S. 113, 133\] of a
 common-law crime for pre-quickening abortion appears to have developed
 from a confluence of earlier philosophical, theological, and civil and
 canon law concepts of when life begins. These disciplines variously
@@ -96,7 +96,7 @@ fetus became "formed" or recognizably human, or in terms of when a
 "person" came into being, that is, infused with a "soul" or "animated."
 A loose consensus evolved in early English law that these events
 occurred at some point between conception and live
-birth. [22](rvw13.htm#xref_22) This was "mediate animation." Although
+birth. [22](rvw13.htm#xref_22.md) This was "mediate animation." Although
 \[410 U.S. 113, 134\] Christian theology and the canon law came to fix
 the point of animation at 40 days for a male and 80 days for a female, a
 view that persisted until the 19th century, there was otherwise little
@@ -113,23 +113,23 @@ this country.
 
 Whether abortion of a quick fetus was a felony at common law, or even a
 lesser crime, is still disputed. Bracton, writing early in the 13th
-century, thought it homicide. [23](rvw13.htm#xref_23) But the later and
+century, thought it homicide. [23](rvw13.htm#xref_23.md) But the later and
 predominant view, following the great common-law scholars, has been that
 it was, at most, a lesser offense. In a frequently cited \[410 U.S. 113,
 135\] passage, Coke took the position that abortion of a woman "quick
 with childe" is "a great misprision, and no
-murder." [24](rvw13.htm#xref_24) Blackstone followed, saying that while
+murder." [24](rvw13.htm#xref_24.md) Blackstone followed, saying that while
 abortion after quickening had once been considered manslaughter (though
 not murder), "modern law" took a less severe
-view. [25](rvw13.htm#xref_25) A recent review of the common-law
+view. [25](rvw13.htm#xref_25.md) A recent review of the common-law
 precedents argues, however, that those precedents contradict Coke and
 that even post-quickening abortion was never established as a common-law
-crime. [26](rvw13.htm#xref_26) This is of some importance because while
+crime. [26](rvw13.htm#xref_26.md) This is of some importance because while
 most American courts ruled, in holding or dictum, that abortion of an
 unquickened fetus was not criminal under their received common
-law, [27](rvw13.htm#xref_27) others followed Coke in stating that
+law, [27](rvw13.htm#xref_27.md) others followed Coke in stating that
 abortion \[410 U.S. 113, 136\] of a quick fetus was a "misprision," a
-term they translated to mean "misdemeanor." [28](rvw13.htm#xref_28) That
+term they translated to mean "misdemeanor." [28](rvw13.htm#xref_28.md) That
 their reliance on Coke on this aspect of the law was uncritical and,
 apparently in all the reported cases, dictum (due probably to the
 paucity of common-law prosecutions for post-quickening abortion), makes
@@ -192,10 +192,10 @@ mental health of the pregnant woman."
 few States until mid-19th century was the pre-existing English common
 law. Connecticut, the first State to enact abortion legislation, adopted
 in 1821 that part of Lord Ellenborough's Act that related to a woman
-"quick with child." [29](rvw13.htm#xref_29) The death penalty was not
+"quick with child." [29](rvw13.htm#xref_29.md) The death penalty was not
 imposed. Abortion before quickening was made a crime in that State only
-in 1860. [30](rvw13.htm#xref_30) In 1828, New York enacted
-legislation [31](rvw13.htm#xref_31) that, in two respects, was to serve
+in 1860. [30](rvw13.htm#xref_30.md) In 1828, New York enacted
+legislation [31](rvw13.htm#xref_31.md) that, in two respects, was to serve
 as a model for early anti-abortion statutes. First, while barring
 destruction of an unquickened fetus as well as a quick fetus, it made
 the former only a misdemeanor, but the latter second-degree
@@ -203,9 +203,9 @@ manslaughter. Second, it incorporated a concept of therapeutic abortion
 by providing that an abortion was excused if it "shall have been
 necessary to preserve the life of such mother, or shall have been
 advised by two physicians to be necessary for such purpose." By 1840,
-when Texas had received the common law, [32](rvw13.htm#xref_32) only
+when Texas had received the common law, [32](rvw13.htm#xref_32.md) only
 eight American States \[410 U.S. 113, 139\] had statutes dealing with
-abortion. [33](rvw13.htm#xref_33) It was not until after the War Between
+abortion. [33](rvw13.htm#xref_33.md) It was not until after the War Between
 the States that legislation began generally to replace the common law.
 Most of these initial statutes dealt severely with abortion after
 quickening but were lenient with it before quickening. Most punished
@@ -220,16 +220,16 @@ distinction disappeared from the statutory law of most States and the
 degree of the offense and the penalties were increased. By the end of
 the 1950's, a large majority of the jurisdictions banned abortion,
 however and whenever performed, unless done to save or preserve the life
-of the mother. [34](rvw13.htm#xref_34) The exceptions, Alabama and the
+of the mother. [34](rvw13.htm#xref_34.md) The exceptions, Alabama and the
 District of Columbia, permitted abortion to preserve the mother's
-health. [35](rvw13.htm#xref_35) Three States permitted abortions that
+health. [35](rvw13.htm#xref_35.md) Three States permitted abortions that
 were not "unlawfully" performed or that were not "without lawful
 justification," leaving interpretation of those standards to the
-courts. [36](rvw13.htm#xref_36) In \[410 U.S. 113, 140\] the past
+courts. [36](rvw13.htm#xref_36.md) In \[410 U.S. 113, 140\] the past
 several years, however, a trend toward liberalization of abortion
 statutes has resulted in adoption, by about one-third of the States, of
 less stringent laws, most of them patterned after the ALI Model Penal
-Code, 230.3, [37](rvw13.htm#xref_37) set forth as Appendix B to the
+Code, 230.3, [37](rvw13.htm#xref_37.md) set forth as Appendix B to the
 opinion in Doe v. Bolton, post, p. 205.
 
 It is thus apparent that at common law, at the time of the adoption of
@@ -330,9 +330,9 @@ abortion is a medical procedure that should be performed by a licensed
 physician in an accredited hospital only after consultation with two
 other physicians and in conformity with state law, and that no party to
 the procedure should be required to violate personally held moral
-principles. [38](rvw13.htm#xref_38) Proceedings \[410 U.S. 113, 144\] of
+principles. [38](rvw13.htm#xref_38.md) Proceedings \[410 U.S. 113, 144\] of
 the AMA House of Delegates 220 (June 1970). The AMA Judicial Council
-rendered a complementary opinion. [39](rvw13.htm#xref_39)
+rendered a complementary opinion. [39](rvw13.htm#xref_39.md)
 
 7\. The position of the American Public Health Association. In October
 1970, the Executive Board of the APHA adopted Standards for Abortion
@@ -388,9 +388,9 @@ February 1972 the ABA House of Delegates approved, with 17 opposing
 votes, the Uniform Abortion Act that had been drafted and approved the
 preceding August by the Conference of Commissioners on Uniform State
 Laws. 58 A. B. A. J. 380 (1972). We set forth the Act in full in the
-margin. [40](rvw13.htm#xref_40) The \[410 U.S. 113, 147\] Conference has
-appended an enlightening Prefatory Note. [41](rvw13.htm#xref_41)
+margin. [40](rvw13.htm#xref_40.md) The \[410 U.S. 113, 147\] Conference has
+appended an enlightening Prefatory Note. [41](rvw13.htm#xref_41.md)
 
 ------------------------------------------------------------------------
 
-[Next: Section VII](rvw07)
+[Next: Section VII](rvw07.md)

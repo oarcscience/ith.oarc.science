@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos30)  [Next](gbos32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos30)  [Next](gbos32.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ cauldron is relighted several times for this purpose.
 
 ------------------------------------------------------------------------
 
-[Next: The Eightfold Path or Ways](gbos32)
+[Next: The Eightfold Path or Ways](gbos32.md)

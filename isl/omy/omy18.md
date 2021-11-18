@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy17)  [Next](omy19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy17)  [Next](omy19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -61,7 +61,7 @@ World has its counterpart in the Lesser, the study of this is a duty
 incumbent upon all who aspire to spiritual knowledge. To know oneself is
 the "right way" (<span id="img_05100"></span> ![](img/05100.jpg)), for
 guidance in which Mohammed besought God in his prayer, "Guide us into
-the right way <span id="fr_29"></span>[1](#fn_29)." Self-knowledge is
+the right way <span id="fr_29"></span>[1](#fn_29.md)." Self-knowledge is
 the shortest road to the knowledge of God. When Ali asked Mohammed "What
 am I to do that I may not waste my time?" the Prophet answered, "Learn
 to know thyself."
@@ -70,9 +70,9 @@ to know thyself."
 
 ### Footnotes
 
-<span id="fn_29"></span>[51:1](omy18.htm#fr_29) Corán, opening chapter,
+<span id="fn_29"></span>[51:1](omy18.htm#fr_29.md) Corán, opening chapter,
 v. 5.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Of the Origin and Animal Development of Man](omy19)
+[Next: Chapter II. Of the Origin and Animal Development of Man](omy19.md)

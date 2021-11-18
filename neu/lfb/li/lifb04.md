@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb03)  [Next](lifb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb03)  [Next](lifb05.md) 
 
 </div>
 
@@ -287,6 +287,6 @@ Adapted from the Portuguese.
 
 ------------------------------------------------------------------------
 
-[Next: The Jogi's Punishment](lifb05)
+[Next: The Jogi's Punishment](lifb05.md)
 
 </div>

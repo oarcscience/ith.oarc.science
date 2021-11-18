@@ -1,5 +1,5 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Sacred texts](../index)  [Thelema](index) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Sacred texts](../index)  [Thelema](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,11 +26,11 @@ March 20, 1991 E.V. 10:02 P.M. E.S.T.
 
 *Do what thou wilt shall be the whole of the Law.*
 
-> > [Chapters alpha-omega](aleph_1)  
-> > [Chapters Alpha alpha-Alpha omega](aleph_1)  
-> > [Chapters Beta alpha-Beta omega](aleph_3)  
-> > [Chapters Gamma alpha-Gamma omega](aleph_4)  
-> > [Chapters Delta alpha-Delta omega](aleph_5)  
-> > [Chapters Epsilon alpha-Epsilon omega](aleph_6)  
-> > [Chapters Digamma alpha-Digamma omega](aleph_7)  
-> > [Chapters Zeta alpha-Zeta omega](aleph_8)
+> > [Chapters alpha-omega](aleph_1.md)  
+> > [Chapters Alpha alpha-Alpha omega](aleph_1.md)  
+> > [Chapters Beta alpha-Beta omega](aleph_3.md)  
+> > [Chapters Gamma alpha-Gamma omega](aleph_4.md)  
+> > [Chapters Delta alpha-Delta omega](aleph_5.md)  
+> > [Chapters Epsilon alpha-Epsilon omega](aleph_6.md)  
+> > [Chapters Digamma alpha-Digamma omega](aleph_7.md)  
+> > [Chapters Zeta alpha-Zeta omega](aleph_8.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort29.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ different dialects, as follows:
 |                                                                                    |                               |
 |------------------------------------------------------------------------------------|-------------------------------|
 | \(1\) Chukchee.                                                                    | \(4\) Koryak of Qare'ñIn.     |
-| \(2\) Koryak of Paren, according to Jochelson. <span id="fr_57"></span>[1](#fn_57) | \(5\) Koryak of Lesna.        |
+| \(2\) Koryak of Paren, according to Jochelson. <span id="fr_57"></span>[1](#fn_57) | \(5\.md) Koryak of Lesna.        |
 | \(3\) Koryak of Kamenskoye.                                                        | \(6\) Kamchadal of the coast. |
 
  
@@ -58,7 +58,7 @@ URSA MAJOR.
 PLEIADES.
 
 \(1\) ñaus\*qaĵo'mkIn (= group of women <span
-id="fr_58"></span>[2](#fn_58)).
+id="fr_58"></span>[2](#fn_58).md).
 
 \(2\) ke'tmet (= little sieve).
 
@@ -76,7 +76,7 @@ CASSIOPEIA.
 
 \(1\) Ilve't (= wild reindeer \[pl.\]).
 
-\(3\) ñawIs\*qatI'mkIn <span id="fr_59"></span>[2](#fn_58) (= group of
+\(3\) ñawIs\*qatI'mkIn <span id="fr_59"></span>[2](#fn_58.md) (= group of
 women').
 
 \(5\) qai-kI'riñ (= small reindeer-buck).
@@ -97,11 +97,11 @@ ORION.
 
 BELT OF ORION.
 
-\(2\) ena'nvenañ <span id="fr_60"></span>[3](#fn_59) (= handle of
+\(2\) ena'nvenañ <span id="fr_60"></span>[3](#fn_59.md) (= handle of
 scraper).
 
     ulve'-iy-i'mtiła<sup>?</sup>n (= crosswise-bow
-[carrier](errata.htm#3)).
+[carrier](errata.htm#3).md).
 
 \(3\) vu'łvI-iy-i'mtIła<sup>?</sup>n (= crosswise-bow carrier)
 
@@ -141,7 +141,7 @@ ALTAIR AND TARARED.
 
 \(1\) peġI'ttIn.
 
-\(3\) paġI'ttIn. <span id="fr_61"></span>[1](#fn_60)
+\(3\) paġI'ttIn. <span id="fr_61"></span>[1](#fn_60.md)
 
 CAPELLA.
 
@@ -155,14 +155,14 @@ CAPELLA.
 
 WAGONER.
 
-\(1\) čŭmña'-nlete'tIlIn <span id="fr_62"></span>[2](#fn_61) (=
+\(1\) čŭmña'-nlete'tIlIn <span id="fr_62"></span>[2](#fn_61.md) (=
 reindeer-buck carrier).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_57"></span>[104:1](kort30.htm#fr_57) judging by the
+<span id="fn_57"></span>[104:1](kort30.htm#fr_57.md) judging by the
 transcription, the names of constellations given by Jochelson are of
 Paren origin. They all have instead *e* of the *a* of Kamenskoye.
 *Ačka'p-añai'*, however, is either a Kamenskoye form, or, in Paren
@@ -174,12 +174,12 @@ instead of *Ena'nvenañāña*, *Yekeñeła'tIlIn* (or also
 *Ulve'-iy-i'mitiła<sup>?</sup>n* instead of
 *Ulveiyinitila<sup>?</sup>n*.
 
-<span id="fn_58"></span>[105:2](kort30.htm#fr_59) "Group of women" is
+<span id="fn_58"></span>[105:2](kort30.htm#fr_59.md) "Group of women" is
 the name of the Pleiades among the Chukchee, and of Cassiopeia among the
 Koryak of Kamenskoye. One of these women is called by the Koryak of
 Kamenskoye Yini'a-ñawġut, and another Kĭlu'.
 
-<span id="fn_59"></span>[105:3](kort30.htm#fr_60) Among the Chukchee,
+<span id="fn_59"></span>[105:3](kort30.htm#fr_60.md) Among the Chukchee,
 the Belt of Orion is considered the crooked back of the archer
 Rulte'nnin. It became crooked because his wife struck at it with her
 tailoring-board, or, according to another version, with the wooden
@@ -188,10 +188,10 @@ called Kĭlu'-ena'nvenañ ("Kĭlu''s handle of scraper"). The Koryak
 archer, who carries his bow crosswise, is evidently identical with the
 Chukchee archer with the crooked back.
 
-<span id="fn_60"></span>[106:1](kort30.htm#fr_61) According to Mr.
+<span id="fn_60"></span>[106:1](kort30.htm#fr_61.md) According to Mr.
 Jochelson, Pege'ten ("suspended breath") is the name of the Morning
 Star. I was unable to ascertain the derivation of this word.
 
-<span id="fn_61"></span>[106:2](kort30.htm#fr_62) Some stars in the
+<span id="fn_61"></span>[106:2](kort30.htm#fr_62.md) Some stars in the
 constellation Wagoner are also called ġeke'ñIlIt "reindeer-drivers");
 cf. Bogoras, The Chukchee, *l. c.*, vol. vii, p. 308.

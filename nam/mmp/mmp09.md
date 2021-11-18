@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](mmp08)  [Next](mmp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](mmp08)  [Next](mmp10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HIF0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HIF0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myths of Mexico and Peru*, by Lewis Spence, \[1913\], at Intangible
 Textual Heritage
 
@@ -1270,4 +1270,4 @@ little, and is merely a device for the support of a calculated tyranny.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: The Mythology of Peru](mmp10)
+[Next: Chapter VII: The Mythology of Peru](mmp10.md)

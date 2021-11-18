@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](som01)  [Next](som03) 
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](som01)  [Next](som03.md) 
 
 ------------------------------------------------------------------------
 
@@ -334,16 +334,16 @@ Yours very truly,
 
 The "Manuscript Story" has been published in full, and comparisons
 between the same and the Book of Mormon may be made by anyone who has a
-mind to investigate the subject. <span id="fr_0"></span>[1](#fn_0)
+mind to investigate the subject. <span id="fr_0"></span>[1](#fn_0.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[:1](som02.htm#fr_0) For a fuller account of the
+<span id="fn_0"></span>[:1](som02.htm#fr_0.md) For a fuller account of the
 Book of Mormon, see the author's "Articles of Faith," Lectures 14 and
 15; published at Salt Lake City, Utah, 1913.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](som03)
+[Next: Chapter II](som03.md)

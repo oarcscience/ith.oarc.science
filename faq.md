@@ -11,8 +11,8 @@ site, in no particular order.
 
 There are also separate FAQs for the CD/DVD-ROM and the Tarot:
 
--   [CD/DVD-ROM FAQ](cdshop/faq)
--   [Tarot Copyright FAQ](tarot/faq)
+-   [CD/DVD-ROM FAQ](cdshop/faq.md)
+-   [Tarot Copyright FAQ](tarot/faq.md)
 
 Please read this carefully as there will be a quiz afterwards.
 
@@ -71,7 +71,7 @@ sense.
 
 **Q:** Can I advertise at this website?  
 **A:** Sure, go to Google, and sign up for the [Google AdWords
-program](https://www.google.com/intl/en/ads/). Google AdWords is the
+program](https://www.google.com/intl/en/ads/.md). Google AdWords is the
 only way to place an advertisement at the site. IMPORTANT: If you have
 any questions about Google AdWords, please direct those to Google's
 support staff, not this site.

@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn6) [Next](udn8)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn6) [Next](udn8.md)
 
 ------------------------------------------------------------------------
 
@@ -232,7 +232,7 @@ Anâthapindika.
    Now at that time the Blessed One was sitting, wrapt in meditation on
 his own abandonment of consciousness and reasoning in connection with
 the hindrances.'<span id="page_106_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_106_note_2)
+class="small">2</span></sup>](#page_106_note_2.md)
 
 <span id="page_107">p. 107</span>
 
@@ -398,7 +398,7 @@ forth this solemn utterance:--
 
 ------------------------------------------------------------------------
 
-[Next](udn8)
+[Next](udn8.md)
 
 ------------------------------------------------------------------------
 
@@ -406,15 +406,15 @@ forth this solemn utterance:--
 
 <span id="footnotes_page_106">p. 106</span>
 
-<span id="page_106_note_1"></span>[1](#page_106_fr_1) Lata--a
+<span id="page_106_note_1"></span>[1](#page_106_fr_1.md) Lata--a
 creeper--applied metaphorically to 'Desire'.
 
-<span id="page_106_note_2"></span>[2](#page_106_fr_2) Papanca = any evil
+<span id="page_106_note_2"></span>[2](#page_106_fr_2.md) Papanca = any evil
 conditions which hinder a man in his spiritual progress. (Childers).
 
 <span id="footnotes_page_110">p. 110</span>
 
-<span id="page_110_note_1"></span>[1](#page_110_fr_1) Substratum of
+<span id="page_110_note_1"></span>[1](#page_110_fr_1.md) Substratum of
 being, or basis of individual existence.
 
  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos13)  [Next](mos15) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos13)  [Next](mos15.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ torturing her until she died. So may peace be upon her with her mate.
 
 ------------------------------------------------------------------------
 
-[Next: Moses and His People Going Out From The Sea Into The Land](mos15)
+[Next: Moses and His People Going Out From The Sea Into The Land](mos15.md)

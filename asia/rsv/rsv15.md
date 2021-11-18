@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv14)  [Next](rsv16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv14)  [Next](rsv16.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ barriers and decorations around the grave, utilizing the same type of
 materials and decorations found on pagodas and temples. Wisdom dictates
 that extra trouble be taken to avoid needless desecration of graves.
 Respect for gravesites not only promotes a "good neighbor policy", but
-reveals a feeling for Vietnamese beliefs. [According](errata.htm#25) to
+reveals a feeling for Vietnamese beliefs. [According](errata.htm#25.md) to
 these beliefs, desecration of a grave not only affects the physical site
 itself, but angers the Spirits, who might directly attack the living. It
 is for the latter reason that any destruction of graves, purposeful or
@@ -179,4 +179,4 @@ completely clear of spirit houses.
 
 ------------------------------------------------------------------------
 
-[Next: C. Religious Discipline and Concepts Affecting Behavior](rsv16)
+[Next: C. Religious Discipline and Concepts Affecting Behavior](rsv16.md)

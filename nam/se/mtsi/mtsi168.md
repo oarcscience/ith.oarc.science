@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi167)  [Next](mtsi169) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi167)  [Next](mtsi169.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ us any time you wish and we will not hurt you."
 
 ------------------------------------------------------------------------
 
-[Next: 33. The Bear People (Second Version)](mtsi169)
+[Next: 33. The Bear People (Second Version)](mtsi169.md)

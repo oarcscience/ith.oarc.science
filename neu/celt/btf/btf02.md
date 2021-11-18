@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf01)  [Next](btf03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf01)  [Next](btf03.md) 
 
 ------------------------------------------------------------------------
 
@@ -368,4 +368,4 @@ Alfred Nutt
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](btf03)
+[Next: Dedication](btf03.md)

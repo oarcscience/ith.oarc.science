@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia26)  [Next](aia28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia26)  [Next](aia28.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ others.
 <span id="img_fig04"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 4.](tn/fig04.jpg)  
-Click to enlarge](img/fig04.jpg)  
+Click to enlarge](img/fig04.jpg.md)  
 *Fig*. 4.  
 
 AN EXAMPLE OF A SHIP AT SEA.
@@ -185,7 +185,7 @@ reason that we hope well, &c.
 <span id="img_fig05"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 5.](tn/fig05.jpg)  
-Click to enlarge](img/fig05.jpg)  
+Click to enlarge](img/fig05.jpg.md)  
 *Fig*. 5.  
 
 EXAMPLE *of another* SHIP *at* SEA.
@@ -215,4 +215,4 @@ in the 4th and afflicted, was a sure sign of the ship sinking.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV. Judgments Concerning the Second House](aia28)
+[Next: Chapter XXV. Judgments Concerning the Second House](aia28.md)

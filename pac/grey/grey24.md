@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey23)  [Next](grey25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey23)  [Next](grey25.md) 
 
 ------------------------------------------------------------------------
 
@@ -256,4 +256,4 @@ threatening them in vain.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Te Huhuti](grey25)
+[Next: The Story of Te Huhuti](grey25.md)

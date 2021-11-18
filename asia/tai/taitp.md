@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Next](tai04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Next](tai04.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Myths and Legends](tai04)
+[Next: Chapter IV: Myths and Legends](tai04.md)

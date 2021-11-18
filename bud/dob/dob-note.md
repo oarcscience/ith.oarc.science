@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -19,8 +19,8 @@ These were published in 1899 "under the patronage of His Majesty King
 Chul<u>a</u>lankarana, King of Siam".
 
 For the most part, I have used the [transcription
-standards](../../stand) established for the [Sacred Books of the
-East](../../sbe/index) at Intangible Textual Heritage, including an
+standards](../../stand.md) established for the [Sacred Books of the
+East](../../sbe/index.md) at Intangible Textual Heritage, including an
 underlined <u>n</u> to represent n-dot-over. Underlined vowels represent
 vowels with line-over and umlauts (in Indian words only) represent the
 'short' diacritic (neither of these two occur very often in these
@@ -48,4 +48,4 @@ of the author.</span>
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)
+[Return to top](#top.md)

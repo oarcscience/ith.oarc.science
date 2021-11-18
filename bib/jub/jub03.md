@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub02) 
-[Next](jub04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub02.md) 
+[Next](jub04.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,11 +14,11 @@ Both of these seem to go back to Hebrew originals, and there would thus
 appear to have been two authoritative Hebrew titles of the original
 Hebrew work, viz. *ha-yôbĕlîm* (or *sēfer hâ-yôbĕlôth*), and *Berēshîth
 zûtā*. In the latter the epithet "little" <span
-id="fr_0"></span>[1](#fn_0) refers not to the extent of the work, but to
+id="fr_0"></span>[1](#fn_0.md) refers not to the extent of the work, but to
 its relatively inferior position as compared with the canonical Genesis.
 It is also noteworthy that a clear reference to our Book is made in the
 recently recovered fragments of a "Zadokite Work." <span
-id="fr_1"></span>[2](#fn_1) The passage runs as follows (xx. 1):
+id="fr_1"></span>[2](#fn_1) The passage runs as follows (xx. 1.md):
 
 *And as for the exact statement of their Periods to put Israel in
 remembrance in regard to all these, behold it is treated accurately in
@@ -45,12 +45,12 @@ of Adam* (perhaps an amplified excerpt of our Book).
 
 ### Footnotes
 
-<span id="fn_0"></span>[ix:1](jub03.htm#fr_0) Applied also to certain
+<span id="fn_0"></span>[ix:1](jub03.htm#fr_0.md) Applied also to certain
 minor midrashîm ("midrash zûtā," etc.).
 
-<span id="fn_1"></span>[ix:2](jub03.htm#fr_1) First published by
+<span id="fn_1"></span>[ix:2](jub03.htm#fr_1.md) First published by
 Schechter in 1910 (Cambridge Press).
 
 ------------------------------------------------------------------------
 
-[Next: Versions and Original Language](jub04)
+[Next: Versions and Original Language](jub04.md)

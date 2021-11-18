@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth15)  [Next](oth17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth15)  [Next](oth17.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](oth17)
+[Next: Chapter 5](oth17.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre68)  [Next](gre70) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre68)  [Next](gre70.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ of thy troubles." So the goodwife was there through the night.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXV: Of Guest and the Troll-wife](gre70)
+[Next: Chapter LXV: Of Guest and the Troll-wife](gre70.md)

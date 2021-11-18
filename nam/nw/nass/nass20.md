@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass19)  [Next](nass21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass19)  [Next](nass21.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ destroyed him myself! I have destroyed him myself!"
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of the G\*ispawaduwE'da](nass21)
+[Next: The Origin of the G\*ispawaduwE'da](nass21.md)

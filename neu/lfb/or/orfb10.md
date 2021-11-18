@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb09)  [Next](orfb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb09)  [Next](orfb11.md) 
 
 </div>
 
@@ -382,6 +382,6 @@ as otherwise he would never have known what it was to be really happy.
 
 ------------------------------------------------------------------------
 
-[Next: The Two Caskets](orfb11)
+[Next: The Two Caskets](orfb11.md)
 
 </div>

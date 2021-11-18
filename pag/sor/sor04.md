@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor03)  [Next](sor05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor03)  [Next](sor05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -133,7 +133,7 @@ hind that warms and comforts Geneviève de Brabant.
 Even apart from the life of legends, in everyday existence, these humble
 fireside friends, these gallant helpers in the day's work, gain a higher
 place in men's esteem. They have their proper rights, <span
-id="fr_6"></span>[1](#fn_6) and their proper estate. If in God's
+id="fr_6"></span>[1](#fn_6.md) and their proper estate. If in God's
 infinite goodness there is room for the lowliest, if He ever seems to
 have a preference for such out of pity, why should not my ass be allowed
 in church? He has his defects, no doubt,—which makes him only the more
@@ -145,7 +145,7 @@ the *Innocents*, of *Fools*, of the *Ass*. It is the very people of that
 day which in the ass presents its own likeness in person before the
 altar, ugly, ludicrous, and down-trodden! Truly a touching sight! Led by
 Balaam, he enters solemnly between the Sibyl and Virgil, <span
-id="fr_7"></span>[2](#fn_7) enters to bear witness. If of old he kicked
+id="fr_7"></span>[2](#fn_7.md) enters to bear witness. If of old he kicked
 against Balaam, this was because he saw flashing before him the sword of
 the old Law. But here the Law is abrogated and done with, and the world
 of Grace seems to open wide its doors to receive the lowliest, the
@@ -157,7 +157,7 @@ it might have addressed itself:—
 
 A genoux, et dis *Amen!*  
 Assez mangé d'herbe et de foin!  
-Laisse les vieilles choses, et va! <span id="fr_8"></span>[3](#fn_8)
+Laisse les vieilles choses, et va! <span id="fr_8"></span>[3](#fn_8.md)
 
 </div>
 
@@ -167,7 +167,7 @@ Laisse les vieilles choses, et va! <span id="fr_8"></span>[3](#fn_8)
 
 Le neuf emporte le vieux!  
 La vérité fait fuir l’ombre!  
-La lumière chasse la nuit!  <span id="fr_9"></span>[3](#fn_9)
+La lumière chasse la nuit!  <span id="fr_9"></span>[3](#fn_9.md)
 
 </div>
 
@@ -195,14 +195,14 @@ prohibited. Any martyrs that should come to light are to keep quiet in
 their graves, and wait with becoming humility till the Church recognises
 them. Forbidden for clergy or monks to confer on peasants the tonsure
 that enfranchises them. Such the narrow, timid spirit of the
-Carlovingian Church, <span id="fr_10"></span>[4](#fn_10) which
+Carlovingian Church, <span id="fr_10"></span>[4](#fn_10.md) which
 deliberately contradicts herself, gives herself the lie, now says to
 little children, "Be ye old men!"
 
 <span id="page_16">p. 16</span>
 
 What a change is here! But can it be meant seriously? Did they not tell
-us to be young? Nay! the priest is no longer [identical](errata.htm#1)
+us to be young? Nay! the priest is no longer [identical](errata.htm#1.md)
 with the people. A mighty divorce is beginning, an infinite gulf of
 separation. Henceforth the priest, a great lord now or a prince, will
 sing the Office in a golden cope, using the sovereign tongue of the
@@ -228,7 +228,7 @@ yawn.
 The indefatigable church bell rings out the accustomed hours,—and folks
 yawn; a nasal chant drones on in antiquated Latin,—and folks yawn.
 Everything is foreseen; no room is left for hope in all the world. Day
-after day events will recur in [identically](errata.htm#2) the same way.
+after day events will recur in [identically](errata.htm#2.md) the same way.
 The inevitable oppression of to-morrow makes men yawn before to-day is
 done, and the never-ending perspective of days, and years, of weary
 sameness still to come, weighs on the spirits beforehand and sickens of
@@ -242,7 +242,7 @@ he passes with his beasts, he sings Vespers and all
 <span id="page_17">p. 17</span>
 
 the other Offices, and sets him yawning, yawning till he is like to
-die. <span id="fr_11"></span>[5](#fn_11)
+die. <span id="fr_11"></span>[5](#fn_11.md)
 
  
 
@@ -250,7 +250,7 @@ die. <span id="fr_11"></span>[5](#fn_11)
 threaten us, what will be our fate, if the people is still old and
 decrepit? Charlemagne weeps unavailing tears, and the Church with him,
 confessing that the holy relics, against these barbarian demons, can no
-longer protect the altars. <span id="fr_12"></span>[6](#fn_12) Were it
+longer protect the altars. <span id="fr_12"></span>[6](#fn_12.md) Were it
 not well to appeal to the arm of the intractable child they were going
 to bind, the arm of the young giant they were fain to paralyse? A
 self-contradictory movement marks the ninth century throughout,—at one
@@ -270,7 +270,7 @@ protector.
 In earlier days the poor, under stress of famine, surrendered themselves
 to the rich and powerful as serfs. Now it is very different; he gives
 himself as *vassal*, that is to say, brave and valiant champion. <span
-id="fr_13"></span>[7](#fn_13)
+id="fr_13"></span>[7](#fn_13.md)
 
 He gives himself, yet remains his own man, keeping the right to renounce
 his allegiance. "I am for higher things; the world is
@@ -286,7 +286,7 @@ keep received his vassals, but said to them, "You shall leave me when
 you will, and I will even help you to do it, if needful; so far, indeed,
 that if you are mired, I will get down off my horse myself to succour
 you." This is the ancient formula word for word. <span
-id="fr_14"></span>[8](#fn_14)
+id="fr_14"></span>[8](#fn_14.md)
 
  
 
@@ -309,7 +309,7 @@ This is the hateful net they are taken in. But yonder on his plot of
 ground is one who maintains his land is free, an *allod* (*allodium*,
 *aleu*), a "fief of the sun." He sits on his boundary-stone, crushes his
 hat down firm on his head, and watches the Feudal Lord, the Emperor
-himself, pass by. <span id="fr_15"></span>[9](#fn_15)
+himself, pass by. <span id="fr_15"></span>[9](#fn_15.md)
 
 "Go your ways, ride on, Emperor, you sit tight in your saddle, and I on
 my boundary-stone yet tighter. You pass, but I remain. . . . For I am
@@ -364,7 +364,7 @@ terror. . . . He was
 <span id="page_20">p. 20</span>
 
 dead. His veins had burst. . . . His arteries shot the red blood into
-the very faces of his murderers. <span id="fr_16"></span>[10](#fn_16)
+the very faces of his murderers. <span id="fr_16"></span>[10](#fn_16.md)
 
  
 
@@ -388,10 +388,10 @@ same unhappy period.
 
 ### Footnotes
 
-<span id="fn_6"></span>[14:1](sor04.htm#fr_6) See J. Grimm, *Rechts
+<span id="fn_6"></span>[14:1](sor04.htm#fr_6.md) See J. Grimm, *Rechts
 Alterthümer*, and Michelet, *Origines du Droit*.
 
-<span id="fn_7"></span>[14:2](sor04.htm#fr_7) From the ritual of Rouen.
+<span id="fn_7"></span>[14:2](sor04.htm#fr_7.md) From the ritual of Rouen.
 See Ducange, under *Festum;* Carpentier, under *Kalendæ*, and Martène,
 iii. 110. The Sibyl was crowned, followed by Jews and Gentiles, by Moses
 and the Prophets, Nebuchadnezzar, etc. From the earliest times, and from
@@ -400,7 +400,7 @@ vainly to proscribe the great popular festivals of the Ass, of the
 Innocents, of Children, and of Fools. She meets with no success,
 previously to the rise of the modern spirit.
 
-<span id="fn_8"></span>[14:3](sor04.htm#fr_8)
+<span id="fn_8"></span>[14:3](sor04.htm#fr_8.md)
 
 <div style="margin-left: 32px">
 
@@ -410,7 +410,7 @@ Leave go old things, and up, away!
 
 </div>
 
-<span id="fn_9"></span>[15:3](sor04.htm#fr_9)
+<span id="fn_9"></span>[15:3](sor04.htm#fr_9.md)
 
 <div style="margin-left: 32px">
 
@@ -433,10 +433,10 @@ Noctem lux eliminat.
 
 </div>
 
-<span id="fn_10"></span>[15:4](sor04.htm#fr_10) See the *Capitularies*
+<span id="fn_10"></span>[15:4](sor04.htm#fr_10.md) See the *Capitularies*
 passim.
 
-<span id="fn_11"></span>[17:5](sor04.htm#fr_11) A very famous Breton
+<span id="fn_11"></span>[17:5](sor04.htm#fr_11.md) A very famous Breton
 (Renan), last man of the Middle Ages, but who was nevertheless a friend
 of my own, on the occasion of the quite ineffectual journey he made for
 the conversion of Rome, received brilliant offers when in the Eternal
@@ -444,20 +444,20 @@ City. "What would you have?" the Pope asked him. "One thing and one
 thing only: a dispensation from the Breviary . . . I am sick to death of
 it."
 
-<span id="fn_12"></span>[17:6](sor04.htm#fr_12) Such was Hincmar's
+<span id="fn_12"></span>[17:6](sor04.htm#fr_12.md) Such was Hincmar's
 well-known admission.
 
-<span id="fn_13"></span>[17:7](sor04.htm#fr_13) A distinction too little
+<span id="fn_13"></span>[17:7](sor04.htm#fr_13.md) A distinction too little
 appreciated, too little noticed, by writers who have enlarged upon
 *personal surrender, "recommendation" to a superior*, etc.
 
-<span id="fn_14"></span>[18:8](sor04.htm#fr_14) Grimm, *Rechts
+<span id="fn_14"></span>[18:8](sor04.htm#fr_14.md) Grimm, *Rechts
 Alterthümer;* Michelet, *Origines du Droit*.
 
-<span id="fn_15"></span>[18:9](sor04.htm#fr_15) Grimm, on the word
+<span id="fn_15"></span>[18:9](sor04.htm#fr_15.md) Grimm, on the word
 *aleu* (*allodium*).
 
-<span id="fn_16"></span>[20:10](sor04.htm#fr_16) This is what happened
+<span id="fn_16"></span>[20:10](sor04.htm#fr_16.md) This is what happened
 to the Comte d’Avesnes, when his free land was declared a mere fief, and
 himself a mere vassal, the *man* of the Comte de Hainault. Read also the
 terrible history of the Grand Chancellor of Flanders, the First
@@ -467,4 +467,4 @@ Francicarum*, xiii. 334).
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Little Demon of the Hearth and Home](sor05)
+[Next: 3. The Little Demon of the Hearth and Home](sor05.md)

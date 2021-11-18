@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao12)   
-[Previous](tao11)  [Next](tao13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao12.md)   
+[Previous](tao11)  [Next](tao13.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ and is little concerned by its beauty and delicacy.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 13](tao13)
+[Next: Chapter 13](tao13.md)

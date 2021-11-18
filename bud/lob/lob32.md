@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lob31)  [Next](lob33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lob31)  [Next](lob33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Buddha*, by A. Ferdinand Herold, tr. by Paul C Blum
 \[1922\], at Intangible Textual Heritage
 
@@ -111,7 +111,7 @@ The Master smiled at Udayin and asked:
 
 "Why do you urge me to travel, Udayin?"
 
-"Your father, King [Suddhodana](errata.htm#0), would be happy to see
+"Your father, King [Suddhodana](errata.htm#0.md), would be happy to see
 you, Master."
 
 The Buddha considered a moment, then he said: "I shall go to
@@ -119,4 +119,4 @@ Kapilavastu; I shall go and see my father."
 
 ------------------------------------------------------------------------
 
-[Next: 11. The Story of the Crane and the Fish](lob33)
+[Next: 11. The Story of the Crane and the Fish](lob33.md)

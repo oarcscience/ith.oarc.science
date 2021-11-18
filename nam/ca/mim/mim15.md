@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim14)  [Next](mim16) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim14)  [Next](mim16.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ in agony, being burned to death from with in.
 
 ------------------------------------------------------------------------
 
-[Next: 14. Yayali, The Giant](mim16)
+[Next: 14. Yayali, The Giant](mim16.md)

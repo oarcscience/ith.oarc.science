@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](fsgr01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](fsgr01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Five Stages of Greek Religion*, by Gilbert Murray, \[1925\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ mouse over the word to read the explanation.
 
 Variations in spelling and hyphenation have been left as in the
 original. A few typographical errors have been corrected. A complete
-list [follows](fsgr12.htm#an_TN) the text.
+list [follows](fsgr12.htm#an_TN.md) the text.
 
 </div>
 
@@ -55,6 +55,6 @@ BY
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Third Edition](fsgr01)
+[Next: Preface to the Third Edition](fsgr01.md)
 
 </div>

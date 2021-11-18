@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
-[Index](index)  [Previous](pbs07)  [Next](pbs09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
+[Index](index)  [Previous](pbs07)  [Next](pbs09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![T](img/06101.jpg) |
+| ![T](img/06101.jpg.md) |
 
 HE most popularly-received theory regarding the Mackenzies is that they
 are descended from an Irishman of the name of Colinas Fitzgerald, son of
@@ -69,7 +69,7 @@ can be traced with greater certainty, and with no less claim to
 antiquity, from a native ancestor, Gillean (Cailean) Og, or Colin the
 Younger, a son of Cailean na h’Airde, ancestor of the Earls of Ross;
 and, from the MS. of 1450, their Gaelic descent may now be considered
-beyond dispute. <span id="fr_4"></span>[\*](#fn_4)
+beyond dispute. <span id="fr_4"></span>[\*](#fn_4.md)
 
 Until the forfeiture of the Lords of the Isles, the Mackenzies always
 held their lands from the Earls of Ross, and followed their banner in
@@ -105,7 +105,7 @@ afterwards strenuously and successfully opposed every attempt made by
 the Macdonalds to obtain possession of the forfeited earldom. Alexander
 was succeeded by his son, Kenneth, who married Lady Margaret Macdonald,
 daughter of the forfeited Earl John, Lord of the Isles; but through some
-cause, <span id="fr_5"></span>[\*](#fn_5) Mackenzie divorced the lady,
+cause, <span id="fr_5"></span>[\*](#fn_5.md) Mackenzie divorced the lady,
 and sent her home in a most ignominious and
 
 <span id="page_64">p. 64</span>
@@ -136,7 +136,7 @@ Government as a disturber of the public peace. His intentions towards
 the young chief of Kintail were considered very dubious, and the
 apprehensions of the latter and his friends having been roused, Hector
 was compelled by law to yield up the estate and the command of the tribe
-to the proper heir." <span id="fr_6"></span>[\*](#fn_6) John, the lawful
+to the proper heir." <span id="fr_6"></span>[\*](#fn_6.md) John, the lawful
 heir, on obtaining possession, at the call of James IV., marched at the
 head of his
 
@@ -240,17 +240,17 @@ place before the reader.
 
 ### Footnotes
 
-<span id="fn_4"></span>[62:\*](pbs08.htm#fr_4) See Nos. XXVI. and XXVII.
+<span id="fn_4"></span>[62:\*](pbs08.htm#fr_4.md) See Nos. XXVI. and XXVII.
 of the *Celtic Magazine*, Vol. III., in which this question is discussed
 at length.
 
-<span id="fn_5"></span>[63:\*](pbs08.htm#fr_5) For full details of this
+<span id="fn_5"></span>[63:\*](pbs08.htm#fr_5.md) For full details of this
 act, which afterwards proved the cause of such strife and bloodshed, see
 Mackenzie's "History of the Clan Mackenzie".
 
-<span id="fn_6"></span>[64:\*](pbs08.htm#fr_6) Highlands and Isles of
+<span id="fn_6"></span>[64:\*](pbs08.htm#fr_6.md) Highlands and Isles of
 Scotland, p. 111.
 
 ------------------------------------------------------------------------
 
-[Next: Seaforth's Dream](pbs09)
+[Next: Seaforth's Dream](pbs09.md)

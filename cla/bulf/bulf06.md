@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf05) [Next](bulf07) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf05) [Next](bulf07.md) 
 
 # CHAPTER VII.
 
@@ -354,4 +354,4 @@ The following is Glaucus's account of his feelings after his
 ------------------------------------------------------------------------
 
 Next: [CHAPTER VIII. Pygmalion- Dryope- Venus And Adonis- Apollo And
-Hyacinthus.](bulf07)
+Hyacinthus.](bulf07.md)

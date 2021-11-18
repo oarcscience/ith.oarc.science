@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass41)  [Next](nass43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass41)  [Next](nass43.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ shaman.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin Of The G\*ispawaduwE'da](nass43)
+[Next: The Origin Of The G\*ispawaduwE'da](nass43.md)

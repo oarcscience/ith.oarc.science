@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs49)  [Next](sfs51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs49)  [Next](sfs51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -182,7 +182,7 @@ that there wasn't. The cock had flown on to the trough, and when she
 told the emperor's son that there was no other girl there, he crowed:
 'Cock-a-doodle-doo! pretty girl under trough!' The stepmother shrieked
 out: 'Shoo! eagles have brought you!' <span
-id="fr_12"></span>[\*](#fn_12) But the emperor's son, on hearing the
+id="fr_12"></span>[\*](#fn_12.md) But the emperor's son, on hearing the
 cock say this, went up and took the trough off; and there was, indeed,
 the girl that he had seen in the church with those beautiful dresses,
 only on one foot she had no shoe. He tried the shoe on her; it went on,
@@ -194,10 +194,10 @@ punished her stepmother for her evil heart.
 
 ### Footnotes
 
-<span id="fn_12"></span>[186:\*](sfs50.htm#fr_12) One might have
+<span id="fn_12"></span>[186:\*](sfs50.htm#fr_12.md) One might have
 expected, 'Eagles take you!' but it is as I have given it. Eagles are
 frequently supernatural messengers in Bulgarian tales.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVIII. The Golden Apples and the Nine Peahens](sfs51)
+[Next: XXXVIII. The Golden Apples and the Nine Peahens](sfs51.md)

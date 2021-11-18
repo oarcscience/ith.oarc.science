@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm05)  [Next](tdm07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm05)  [Next](tdm07.md) 
 
 ------------------------------------------------------------------------
 
@@ -918,4 +918,4 @@ to the door. As he was crossing the threshold he whispered to her,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](tdm07)
+[Next: Chapter V](tdm07.md)

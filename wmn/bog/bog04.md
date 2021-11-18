@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog03)  [Next](bog05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog03)  [Next](bog05.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ To find rebirth and find love once more.
 
 ------------------------------------------------------------------------
 
-[Next: I](bog05)
+[Next: I](bog05.md)

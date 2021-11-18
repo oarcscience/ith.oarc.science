@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,8 +23,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](flwp00)    [Page
-Index](pageidx)    [Text \[Zipped\]](flwptxt.zip)
+[Contents](#contents)    [Start Reading](flwp00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](flwptxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -35,45 +35,45 @@ Index](pageidx)    [Text \[Zipped\]](flwptxt.zip)
 Proclus (b. circa. 412 C.E., d. 485) was a Greek Neoplatonist
 philosopher. This is a short book of translations of fragments of
 Proclus by Thomas Taylor (b. 1758 d. 1835), the English Neoplatonist and
-translator of Aristotle, Plato and [Orpheus](../hoo/index).
+translator of Aristotle, Plato and [Orpheus](../hoo/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](flwp00)  
-[Preface](flwp01)  
-[On Light](flwp02)  
+<span id="contents"></span> [Title Page](flwp00.md)  
+[Preface](flwp01.md)  
+[On Light](flwp02.md)  
 [In Defence of the Timæus of Plato, against the Objections made to it by
-Aristotle](flwp03)  
-[Extracts from the commentary of Simplicius on Aristotle](flwp04)  
+Aristotle](flwp03.md)  
+[Extracts from the commentary of Simplicius on Aristotle](flwp04.md)  
 [From the Treatise in which a Solution is given of Ten Doubts against
-Providence](flwp05)  
-[From the Fifth Book of Proclus on the Timæus of Plato](flwp06)  
+Providence](flwp05.md)  
+[From the Fifth Book of Proclus on the Timæus of Plato](flwp06.md)  
 <span id="section_000"></span>
 
 ### Arguments in Proof of the Eternity of the World
 
-[Argument the First](flwp07)  
-[Argument the Second](flwp08)  
-[Argument the Third](flwp09)  
-[Argument the Fourth](flwp10)  
-[Argument the Fifth](flwp11)  
-[Argument the Sixth](flwp12)  
-[Argument the Seventh](flwp13)  
-[Argument the Eighth](flwp14)  
-[Argument the Ninth](flwp15)  
-[Argument the Tenth.](flwp16)  
-[Argument the Eleventh](flwp17)  
-[Argument the Twelfth](flwp18)  
-[Argument the Thirteenth](flwp19)  
-[Argument the Fourteenth](flwp20)  
-[Argument the Fifteenth](flwp21)  
-[Argument the Sixteenth](flwp22)  
-[Argument the Seventeenth](flwp23)  
-[Argument the Eighteenth](flwp24)  
+[Argument the First](flwp07.md)  
+[Argument the Second](flwp08.md)  
+[Argument the Third](flwp09.md)  
+[Argument the Fourth](flwp10.md)  
+[Argument the Fifth](flwp11.md)  
+[Argument the Sixth](flwp12.md)  
+[Argument the Seventh](flwp13.md)  
+[Argument the Eighth](flwp14.md)  
+[Argument the Ninth](flwp15.md)  
+[Argument the Tenth.](flwp16.md)  
+[Argument the Eleventh](flwp17.md)  
+[Argument the Twelfth](flwp18.md)  
+[Argument the Thirteenth](flwp19.md)  
+[Argument the Fourteenth](flwp20.md)  
+[Argument the Fifteenth](flwp21.md)  
+[Argument the Sixteenth](flwp22.md)  
+[Argument the Seventeenth](flwp23.md)  
+[Argument the Eighteenth](flwp24.md)  
 
  
 
-[Concerning Place](flwp25)  
-[From Olympiodorus, in Aristot. Meteor.](flwp26)  
+[Concerning Place](flwp25.md)  
+[From Olympiodorus, in Aristot. Meteor.](flwp26.md)  
 [From the MS. Commentary of Proclus on the Tenth Book of the Republic of
-Plato](flwp27)  
+Plato](flwp27.md)  

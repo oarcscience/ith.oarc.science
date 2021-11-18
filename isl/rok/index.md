@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH82/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH82/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH82/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rok00)    [Page
-Index](pageidx)    [Text \[Zipped\]](rok.txt.gz)
+[Contents](#contents)    [Start Reading](rok00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](rok.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -36,32 +36,32 @@ Index](pageidx)    [Text \[Zipped\]](rok.txt.gz)
 
 This short entry in the Wisdom of the East series includes a short
 introduction to Islam, and a set of topical quotations from the
-[Palmer](../sbe06/index) translation of the Qur'an. The author was an
+[Palmer](../sbe06/index.md) translation of the Qur'an. The author was an
 English academic sympathetic to Islam who was writing at the turn of the
 20th century, and this should be kept in mind while reading this.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rok00)  
-[Contents](rok01)  
-[Editorial Note](rok02)  
-[Introduction](rok03)  
-[Extracts From the Koran](rok04)  
-[Unity of God](rok05)  
-[Muhammad the Apostle of God](rok06)  
-[Resurrection](rok07)  
-[Hell](rok08)  
-[Paradise](rok09)  
-[Genii or Jinns](rok10)  
-[Angels](rok11)  
-[The Devil](rok12)  
-[Predestination](rok13)  
-[Prayer](rok14)  
-[Almsgiving](rok15)  
-[Fasting](rok16)  
-[Pilgrimage to Mecca](rok17)  
+<span id="contents"></span> [Title Page](rok00.md)  
+[Contents](rok01.md)  
+[Editorial Note](rok02.md)  
+[Introduction](rok03.md)  
+[Extracts From the Koran](rok04.md)  
+[Unity of God](rok05.md)  
+[Muhammad the Apostle of God](rok06.md)  
+[Resurrection](rok07.md)  
+[Hell](rok08.md)  
+[Paradise](rok09.md)  
+[Genii or Jinns](rok10.md)  
+[Angels](rok11.md)  
+[The Devil](rok12.md)  
+[Predestination](rok13.md)  
+[Prayer](rok14.md)  
+[Almsgiving](rok15.md)  
+[Fasting](rok16.md)  
+[Pilgrimage to Mecca](rok17.md)  
 [Wine, Gaming, Foods, and Usury, Infanticide, Ill-Treatment of
-Orphans](rok18)  
-[Marriage and Divorce](rok19)  
-[Proselytism](rok20)  
-[Advertisements](rok21)  
+Orphans](rok18.md)  
+[Marriage and Divorce](rok19.md)  
+[Proselytism](rok20.md)  
+[Advertisements](rok21.md)  

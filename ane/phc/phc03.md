@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](phc02)  [Next](phc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](phc02)  [Next](phc04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philistines*, by R.A.S. Macalister, \[1913\], at Intangible Textual
 Heritage
 
@@ -41,7 +41,7 @@ the beginnings of the Philistine people that further investigation would
 be unnecessary. The answer to this question is, however, a mere matter
 of guess-work. In the Old Testament the word is regularly written
 P<sup>e</sup>lištīm (‏פְּלִשְׁתִּים‎), singular P<sup>e</sup>lištī
-(‏פְּלִשְׁתִּי‎), twice <span id="fr_1"></span>[1](#fn_1)
+(‏פְּלִשְׁתִּי‎), twice <span id="fr_1"></span>[1](#fn_1.md)
 P<sup>e</sup>lištīyim (‏פְּלִשְׁתִּיִים‎), The territory which they
 inhabited during the time of their struggles with the Hebrews is known
 as ’ereṣ P<sup>e</sup>lištim (‏אֶרֶץ פְּלִשְׁתִּים‎) 'the Land of
@@ -54,20 +54,20 @@ we have the genitive singular Φυλιστίνου.
 
 Various conjectures as to the etymology of this name have been put
 forward from time to time. One of the oldest, that apparently due to
-Fourmont, <span id="fr_2"></span>[1](#fn_2) connects it with the
+Fourmont, <span id="fr_2"></span>[1](#fn_2.md) connects it with the
 traditional Greek name Πελασγοί; an equation which, however, does no
 more than move the problem of origin one step further back. This theory
 was adopted by Hitzig, the author of the first book in modern times on
-the Philistines, <span id="fr_3"></span>[2](#fn_3) Who connected the
+the Philistines, <span id="fr_3"></span>[2](#fn_3.md) Who connected the
 word with Sanskrit valakṣa 'white', and made other similar comparisons,
 as for instance between the name of the deity of Gaza, *Marna*, and the
 Indian *Varuna*. On the other hand a Semitic etymology was sought by
-Gesenius, <span id="fr_4"></span>[3](#fn_4) Movers, <span
-id="fr_5"></span>[4](#fn_5) and others, who quoted an Ethiopic verb
+Gesenius, <span id="fr_4"></span>[3](#fn_4.md) Movers, <span
+id="fr_5"></span>[4](#fn_5.md) and others, who quoted an Ethiopic verb
 *falasa*, 'to wander, roam,' whence comes the substantive *fallási*, 'a
 stranger.' In this etymology they were anticipated by the translators of
 the Greek Version, who habitually render the name of the Philistines by
-the Greek word ἀλλόφυλοι,  <span id="fr_6"></span>[5](#fn_6) even when
+the Greek word ἀλλόφυλοι,  <span id="fr_6"></span>[5](#fn_6.md) even when
 it is put into the mouths of Goliath or Achish, when speaking of
 themselves. Of course this is merely an etymological speculation op the
 part of the translators, and proves nothing more than the existence of a
@@ -90,7 +90,7 @@ a nation deemed by them
 
 intruders, would scarcely be adopted by the nation itself, as its chosen
 ethnic appellation. This Ethiopic comparison it seems therefore safe to
-reject. The fantasy that Redslob <span id="fr_7"></span>[1](#fn_7) puts
+reject. The fantasy that Redslob <span id="fr_7"></span>[1](#fn_7.md) puts
 forward, namely, that ‏פלשׁת‎ 'Philistia' was an anagram for ‏שׁפלה‎,
 the *Shephelah* or foot-hills of Judea, is perhaps best forgotten:
 place-names do not as a rule come to be in this mechanical way, and in
@@ -135,7 +135,7 @@ Hebrew scriptures and by
 all the scribes who have transmitted their works, is not to be expected.
 Even in the case of the Philistines the rule that the definite article
 should be omitted is broken in eleven places. <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 However, this distinction, which in the case of the Philistines is
 carefully observed (with the exceptions cited in the footnote),
@@ -171,7 +171,7 @@ were is very uncertain. The *Ludim* are supposed to have been Libyans
 are also supposed to be Libyans; the *‘Anamim* are unknown, as are also
 the *Casluhim;* but the *Naphtuhim* and *Pathrusim* seem to be
 reasonably identified with the inhabitants of Lower and Upper Egypt
-respectively. <span id="fr_9"></span>[2](#fn_9)
+respectively. <span id="fr_9"></span>[2](#fn_9.md)
 
 <span id="page_5">p. 5</span>
 
@@ -233,12 +233,12 @@ of the Philistines'; this latter is a noteworthy expression, probably,
 however, interpolated in the text. In both these last passages the Greek
 version renders this word Κρῆτες 'Cretans '; elsewhere it simply
 transliterates (Χελεθί, with many varieties of spelling). <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 In both places it would appear that the name 'Cherethites' is chosen for
 the sake of a paronomasia (‏כרת‎ = 'to cut off'). In the obscure
 expression 'children of the land of the covenant' (‏בני אדץ הברית‎ Ezek.
-xxx. 5) some commentators <span id="fr_11"></span>[2](#fn_11) see a
+xxx. 5) some commentators <span id="fr_11"></span>[2](#fn_11.md) see a
 corruption of ‏בני הכרתי‎ 'Children of the Cherethites'. But see the
 note, p. 123 *post*.
 
@@ -247,14 +247,14 @@ of the early Hebrew kings, and are coupled invariably with the name
 ‏פְּלֵתִי‎ Pelēthites. This is probably merely a modification of
 ‏פלשתי‎, the ordinary word for 'Philistine', the letter s being omitted
 in order to produce an assonance between the two names. <span
-id="fr_12"></span>[3](#fn_12) The Semites are fond of such assonances:
+id="fr_12"></span>[3](#fn_12.md) The Semites are fond of such assonances:
 they are not infrequent in modern Arab speech, and such a combination as
 Shuppīm and Ḫuppīm (1 Chron. vii. 12) shows that they are to be looked
 for in older Semitic writings as well. If this old explanation <span
-id="fr_13"></span>[4](#fn_13) be not accepted, we should have to put the
+id="fr_13"></span>[4](#fn_13.md) be not accepted, we should have to put the
 word 'Pelethites' aside as hopelessly unintelligible. Herodotus's
 Philitis, or Philition, a shepherd after whom the Egyptians were alleged
-to call the Pyramids, <span id="fr_14"></span>[5](#fn_14) has often been
+to call the Pyramids, <span id="fr_14"></span>[5](#fn_14.md) has often been
 quoted in connexion with this name, coupled with baseless speculations
 as to whether the Philistines could have been the Hyksos.
 
@@ -271,7 +271,7 @@ royal body-guard of 'Cherethites' appears as ‏כָּרִי‎ 'Carians'. If th
 happened only once it might be purely accidental, due to the dropping of
 a ‏ת‎ by a copyist; but being confirmed by its threefold repetition, it
 is a fact that must be noted carefully <span
-id="fr_15"></span>[1](#fn_15) for future reference.
+id="fr_15"></span>[1](#fn_15.md) for future reference.
 
 Here the Hebrew records leave us, and we must seek elsewhere for further
 light. Thanks to the discoveries of recent years, our search need not be
@@ -288,7 +288,7 @@ sometimes written k-f-ty-w (<span id="img_00701"></span>
 ![](img/00701.jpg)) first meets us on Egyptian monuments of the
 Eighteenth Dynasty. It is apparently an Egyptian word: at least, it is
 capable of being rendered behind', and assuming this rendering Mr. H. R.
-Hall <span id="fr_16"></span>[2](#fn_16) aptly compares it with our
+Hall <span id="fr_16"></span>[2](#fn_16.md) aptly compares it with our
 colloquialism 'the Back of Beyond'. Unless this is to be put aside as a
 mere *Volksetymologie*, it clearly would be useless to search the maps
 of classical atlases for any name resembling Keftiu. It would simply
@@ -312,7 +312,7 @@ things which he received in Syria, namely ships of Keftiu, Byblos, and
 Sektu \[the last-named place is not identified\], cedar-ships laden with
 poles and masts.' 'A silver vessel of Keftiu work' was part of the
 tribute paid to Thutmose by a certain chieftain. <span
-id="fr_17"></span>[1](#fn_17) Keftiu itself does not send any tribute
+id="fr_17"></span>[1](#fn_17.md) Keftiu itself does not send any tribute
 recorded in the annals; but tribute from the associated land of Asi is
 enumerated, in which copper is the most conspicuous item. This in itself
 proves nothing, for the copper might in the first instance have been
@@ -327,7 +327,7 @@ denote some place, generally speaking, in the neighbourhood of Cyprus.
 The next important sources of information are the wall-paintings in the
 famous tombs of Sen-mut, architect to Queen Hatshepsut; of Rekhmara,
 vizier of Thutmose III; and of Menkheperuseneb, son of the last-named
-official, <span id="fr_18"></span>[2](#fn_18) high priest of Amon and
+official, <span id="fr_18"></span>[2](#fn_18.md) high priest of Amon and
 royal treasurer. In these wall-paintings we see processions of persons,
 with non-Semitic European-looking faces; attired simply in highly
 embroidered loincloths folded round their singularly slender waists, and
@@ -354,7 +354,7 @@ malachite, and all kinds of precious stones.
 <span id="img_00900"></span> <span align="CENTER"> [![(left) Fig. 1. A.
 A Keftian from the Tomb of Rekhmara. (right) B. A Cretan from
 Knossos.](tn/00900.jpg)  
-Click to enlarge](img/00900.jpg)  
+Click to enlarge](img/00900.jpg.md)  
 (left) Fig. 1. A. A Keftian from the Tomb of Rekhmara. (right) B. A
 Cretan from Knossos.  
 </span>
@@ -377,7 +377,7 @@ depicted in the Egyptian frescoes, are introducing into Egypt
 
 some of the *chefs-d’œuvre* of Cretan art; specifically, art of the
 periods known as Late Minoan I and II, <span
-id="fr_19"></span>[1](#fn_19) the time of the greatest glory of the
+id="fr_19"></span>[1](#fn_19.md) the time of the greatest glory of the
 palace of Knossos; and as they are definitely described in the
 accompanying hieroglyphs as messengers of Keftiu, it follows that Keftiu
 was at least a centre of distribution of the products of Cretan
@@ -391,7 +391,7 @@ is at present possible to attain.
 The next document to be noticed is a hieratic school exercise-tablet,
 apparently (to judge from the forms of the script) dating from the end
 of the Eighteenth Dynasty. It is now preserved in the British Museum,
-numbered 5647. <span id="fr_20"></span>[2](#fn_20) On the one side are
+numbered 5647. <span id="fr_20"></span>[2](#fn_20.md) On the one side are
 some random scribbles, like the meaningless words and phrases with which
 one tries a doubtful pen:
 
@@ -473,7 +473,7 @@ equation of Caphtor to *Crete* has always been the theory most in
 favour. Apart from Jeremiah's description of the place as an
 'island'—which as we have already mentioned is not quite conclusive—the
 obvious equation Cherethites = Cretans would strike any student.
-Calmet <span id="fr_21"></span>[1](#fn_21) gives a good statement of the
+Calmet <span id="fr_21"></span>[1](#fn_21.md) gives a good statement of the
 arguments for the identification which were available before the age of
 excavation.
 
@@ -498,7 +498,7 @@ the Berbers. Stark (Gaza, p. 70) assigned them to the Phoenicians,
 accepting the South Semitic etymology of the name Pelištim, Caphtor
 being the Delta, and Casluhim a name cognate with the Kasios mountain,
 denoting a tribe living between Kasios and Pelusium. <span
-id="fr_22"></span>[1](#fn_22) Köhler <span id="fr_23"></span>[2](#fn_23)
+id="fr_22"></span>[1](#fn_22) Köhler <span id="fr_23"></span>[2](#fn_23.md)
 had a complicated theory to reconcile all the various lines of Biblical
 evidence: he took Caphtor to be the Delta; the Philistines springing
 from there settled in Casluhim (between Casios and Pelusium): 'going
@@ -512,20 +512,20 @@ available at his time, but he overlooked the Medinet Habu sculptures,
 and, on the other hand, gave too much weight to the gossip of Herodotus
 about Philitis and the Pyramids.
 
-Ebers <span id="fr_24"></span>[3](#fn_24) made an elaborate attempt to
+Ebers <span id="fr_24"></span>[3](#fn_24.md) made an elaborate attempt to
 find in the Delta a site for Caphtor; but this can hardly stand against
 later discoveries. They are no goods from the Land of Goshen which
 Rekhmara's visitors are carrying. W. Max Müller <span
-id="fr_25"></span>[4](#fn_25) equates Keftiu to Cilicia, mainly on the
+id="fr_25"></span>[4](#fn_25.md) equates Keftiu to Cilicia, mainly on the
 ground of the order in which the name occurs in geographical lists: but
 though this is not an argument to be lightly set aside, we are
 confronted with the difficulty that Cilicia could hardly have been a
 centre of distribution of Minoan goods in the time of Rekhmara. <span
-id="fr_26"></span>[5](#fn_26)
+id="fr_26"></span>[5](#fn_26.md)
 
 <span id="page_13">p. 13</span>
 
-Schwally <span id="fr_27"></span>[1](#fn_27) argues thus for the Semitic
+Schwally <span id="fr_27"></span>[1](#fn_27.md) argues thus for the Semitic
 origin of the Philistines: that if the Philistines were immigrants, so
 were the Phoenicians and Syrians (*teste* Amos): that the identity of
 Caphtor and Crete is an unproved assumption: the Greek translation twice
@@ -533,9 +533,9 @@ renders 'Cherethites' by 'Cretans', it is true, but not elsewhere,
 showing uncertainty on the subject: and the reading 'Crete' in Zephaniah
 ii. 6 is wrong. All the personal names, and all the place-names (except
 possibly El-tekeh and Ziklag) are Semitic, and there is no trace of any
-non-Semitic deity. Stade <span id="fr_28"></span>[2](#fn_28) asserts the
+non-Semitic deity. Stade <span id="fr_28"></span>[2](#fn_28.md) asserts the
 Semitic origin of the people, without giving any very definite proofs;
-Tiele <span id="fr_29"></span>[3](#fn_29) claims the Philistines as
+Tiele <span id="fr_29"></span>[3](#fn_29.md) claims the Philistines as
 Semites on the ground of their Semitic worship. Beecher (in Hastings's
 *Dict. of the Bible*, s. v. Philistines) claims the name of the people
 as 'probably Semitic', but considers that most likely they were
@@ -630,10 +630,10 @@ Even down to late times the tradition linking Philistia with Crete
 persisted in one form or another. Tacitus heard it, though in a
 distorted form: in the oft-quoted passage *Hist*. v. 2 he confuses the
 Jews with the Philistines, and makes the former the Cretan
-refugees. <span id="fr_30"></span>[1](#fn_30) ΜΕΙΝΩ, Minos, is named on
+refugees. <span id="fr_30"></span>[1](#fn_30.md) ΜΕΙΝΩ, Minos, is named on
 some of the coins of Gaza. This town was called by the name Minoa: and
 its god Marna was equated to 'Zeus the Crete-born.' <span
-id="fr_31"></span>[2](#fn_31)
+id="fr_31"></span>[2](#fn_31.md)
 
 But did the Philistines come from Crete? That is the question which we
 must now consider.
@@ -647,7 +647,7 @@ ancient civilization Crete was the centre and the apex.
 
 The course of civilization in this island, from the end of the Neolithic
 period onwards, is divided by Sir Arthur Evans into three periods <span
-id="fr_32"></span>[3](#fn_32) which he has named Early, Middle, and Late
+id="fr_32"></span>[3](#fn_32.md) which he has named Early, Middle, and Late
 'Minoan' respectively, after the name of Minos the famous legendary
 Cretan king. Each of these three periods is further divided into
 subordinate
@@ -662,7 +662,7 @@ synchronisms enable us to assign.
 Into the question of the origin of the early inhabitants of Crete we
 need not enter. That there was some connexion between Crete and Egypt in
 their stone-age beginnings seems on various grounds to be not
-improbable. <span id="fr_33"></span>[1](#fn_33) The neolithic Cretan
+improbable. <span id="fr_33"></span>[1](#fn_33.md) The neolithic Cretan
 artists were much like neolithic artists elsewhere. They never succeeded
 in attaining a very high position among workers in flint; Crete has so
 far produced nothing comparable with the best work of the Egyptians and
@@ -765,7 +765,7 @@ provinces: in consequence Mycenaean civilization is there absent. The
 spread of the debased Cretan culture over Southern Asia Minor, Cyprus,
 and North Syria, between 1400 and 1200 B.C. must have been due to the
 movements of peoples, one incident in which was the sack of
-Knossos <span id="fr_34"></span>[1](#fn_34): and this is true, whether
+Knossos <span id="fr_34"></span>[1](#fn_34.md): and this is true, whether
 those who carried the Cretan art were refugees from Crete, or were the
 conquerors of Crete seeking yet further lands to spoil.
 
@@ -800,20 +800,20 @@ things' of people destined to revolutionize the world.
 We first meet these tribes in the Tell el-Amarna letters. The king of
 Alašia (Cyprus) complains that his coasts are being raided by the
 *Lukku*, who yearly plunder one small town after another. <span
-id="fr_35"></span>[1](#fn_35) That indefatigable correspondent,
+id="fr_35"></span>[1](#fn_35.md) That indefatigable correspondent,
 Rib-Addi, in two letters, complains that one Biḫura has sent people of
 the Sutu to his town and slain certain *Sherdan* men—apparently Egyptian
-mercenaries in the town guard. <span id="fr_36"></span>[2](#fn_36) In a
+mercenaries in the town guard. <span id="fr_36"></span>[2](#fn_36.md) In a
 mutilated passage in another letter Rib-Addi mentions the *Sherdan*
 again, in connexion with an attempt on his own life. Then Abi-Milki
-reports <span id="fr_37"></span>[3](#fn_37) that 'the king of *Danuna*
+reports <span id="fr_37"></span>[3](#fn_37.md) that 'the king of *Danuna*
 is dead, and his brother has become king after him, and his land is at
 peace'. It is almost the only word of peace in the whole dreary Tell
 el-Amarna record.
 
 Next we hear of these tribes in their league with the Hittites against
 Ramessu II, when he set out to recover the ground lost to Egypt during
-the futile reign of Ikhnaton. <span id="fr_38"></span>[4](#fn_38) With
+the futile reign of Ikhnaton. <span id="fr_38"></span>[4](#fn_38.md) With
 the Hittites were allied people from
 
 <div align="center">
@@ -897,7 +897,7 @@ again. They have put in his place a brother of his who fights him
 whenever he sees him'. The list of slain and captives is much mutilated,
 but is of some importance. For the slain were reckoned by cutting off
 and counting the phalli of circumcised, the hands of uncircumcised
-victims. <span id="fr_39"></span>[1](#fn_39) From the classification we
+victims. <span id="fr_39"></span>[1](#fn_39.md) From the classification we
 see that at the time of the victory of Merneptah, the Libyans were
 circumcised, while the Shardanu and Shekelesh and Ekwesh, as we may
 provisionally vocalize the names, were not circumcised. The inscription
@@ -915,10 +915,10 @@ deplorable that the latter are less informing than they might have been:
 we grudge bitterly the precious space wasted in grovelling compliments
 to the majesty of the victorious monarch, and we would have gladly
 dispensed with the obscure and would-be poetical style which the writer
-of the inscription affected. <span id="fr_40"></span>[2](#fn_40)
+of the inscription affected. <span id="fr_40"></span>[2](#fn_40.md)
 
 Ramessu III came to the throne about 1200 B.C. <span
-id="fr_41"></span>[3](#fn_41) Another Libyan invasion menaced the land
+id="fr_41"></span>[3](#fn_41.md) Another Libyan invasion menaced the land
 in his fifth year, but the energetic monarch, who had already been
 careful to organize the military resources of Egypt, was successful in
 beating it back. War-galleys
@@ -948,7 +948,7 @@ the spare stores would be carried more easily than on the rough Syrian
 roads. Clearly they were tribes accustomed to sea-faring who thus
 ventured on the stormy Mediterranean; clearly too, it was no mere
 military expedition, but a migration of wanderers accompanied by their
-families and seeking a new home. <span id="fr_42"></span>[1](#fn_42)
+families and seeking a new home. <span id="fr_42"></span>[1](#fn_42.md)
 
 The principal elements in the great coalition are the following:
 
@@ -996,7 +996,7 @@ paraded before the king, and the tale of the victims—counted by
 enumerating the hands chopped off the bodies.
 
 The passage in the great Harris Papyrus, which also contains a record of
-the reign of Ramessu III, <span id="fr_43"></span>[1](#fn_43) adds very
+the reign of Ramessu III, <span id="fr_43"></span>[1](#fn_43.md) adds very
 little to the information afforded us by the Medinet Habu inscription.
 The 'Danaiuna' are there spoken of as islanders. We are told that the
 Purasati and the Zakkala were 'made ashes', while the Shekelesh (called
@@ -1081,7 +1081,7 @@ the future <span class="smallcaps">Philistines</span>.
 <span class="contnote">\[paragraph continues\]</span> <span
 class="smallcaps">Dardanus</span> in the Troad is represented by the
 *Dardanu*. They are the carriers of the Trojan traditions to
-Italy. <span id="fr_44"></span>[1](#fn_44) <span
+Italy. <span id="fr_44"></span>[1](#fn_44.md) <span
 class="smallcaps">Mysia</span> is represented by the *Masa*, Lydia by
 the *Sherdanu* from the town of <span class="smallcaps">Sardis</span>.
 These are the future <span class="smallcaps">Sardinians</span>. And the
@@ -1107,7 +1107,7 @@ Ramessu III invasion, the *Pulasati*, *Zakkala*, and *Washasha*. The
 first two of these, it is generally agreed, are to be equated to the
 <span class="smallcaps">Danaoi</span> and the <span
 class="smallcaps">Achaeans</span> <span
-id="fr_45"></span>[2](#fn_45)—the first appearance in historic record of
+id="fr_45"></span>[2](#fn_45.md)—the first appearance in historic record of
 these historic names. The latter do not appear in the Ramessu III lists:
 there were no Achaeans in the migration from Asia Minor. The *Pulasati*
 are unquestionably to be equated to the future <span
@@ -1150,13 +1150,13 @@ is that the Carians, then called Leleges, were governed by Minos, and
 occupied the islands; then removing to the continent, they obtained
 possession of a large tract of sea-coast and of the interior, by driving
 out the former occupiers, who were for the greater part Leleges and
-Pelasgi.' <span id="fr_46"></span>[1](#fn_46) Further, he quotes
+Pelasgi.' <span id="fr_46"></span>[1](#fn_46.md) Further, he quotes
 Alcaeus's expression, 'shaking a Carian crest,' which is suggestive of
 the plumed head-dress of the Philistines. Again, speaking of the city
 Caunus, on the shore opposite Rhodes, he tells us that its inhabitants
 'speak the same language as the Carians, came from Crete, and retained
-their own laws and customs' <span id="fr_47"></span>[2](#fn_47)—which,
-however, Herodotus <span id="fr_48"></span>[3](#fn_48) contradicts.
+their own laws and customs' <span id="fr_47"></span>[2](#fn_47.md)—which,
+however, Herodotus <span id="fr_48"></span>[3](#fn_48.md) contradicts.
 Herodotus indeed (*loc. cit.*) gives us the same tradition as Strabo
 regarding the origin of the Carians: they
 
@@ -1191,7 +1191,7 @@ all the efforts to identify this place, not otherwise known, have proved
 futile. Very likely it was not an inhabited town or village at all, but
 a sanctuary: it was raised on a conspicuous height (for the chase
 stopped *under* Beth-Car): and the name means House of Car, <span
-id="fr_49"></span>[1](#fn_49) as Beth-Dagon means House or Temple of
+id="fr_49"></span>[1](#fn_49.md) as Beth-Dagon means House or Temple of
 Dagon. This obscure incident, therefore, affords one more link to the
 chain.
 
@@ -1200,18 +1200,18 @@ Zakkala-Pulasati-Washasha league, we might expect to find some elements
 from the two important islands of Rhodes and Carpathos, which lie like
 the piers of a bridge between Crete and the Carian mainland. And I think
 we may, without comparisons too far-fetched, actually find such
-elements. Strabo tells us <span id="fr_50"></span>[2](#fn_50) that a
+elements. Strabo tells us <span id="fr_50"></span>[2](#fn_50.md) that a
 former name of Rhodes was *Ophiussa:* and we can hardly avoid at least
 seeing the similarity between this name and that of the Washasha. <span
-id="fr_51"></span>[3](#fn_51) And as for *Carpathos*, which Homer calls
+id="fr_51"></span>[3](#fn_51.md) And as for *Carpathos*, which Homer calls
 Crapathos, is it too bold to hear in this classical name an echo of the
 pre-Hellenic word, whatever it may have been, which the Egyptians
 corrupted to Keftiu, and the Hebrews to Caphtor? <span
-id="fr_52"></span>[4](#fn_52)
+id="fr_52"></span>[4](#fn_52.md)
 
 What then are we to make of the name of the *Zakkala* or *Zakkara?* This
 has hitherto proved a crux. Petrie identifies it with Zakro in
-Crete <span id="fr_53"></span>[5](#fn_53); but as has several times been
+Crete <span id="fr_53"></span>[5](#fn_53.md); but as has several times been
 pointed out regarding this identification, we do not know how old the
 name Zakro may be. As we have seen that all the other tribes take their
 name
@@ -1221,17 +1221,17 @@ name
 from the coasts of Asia Minor, it is probable that the Zakkala are the
 Cretan contingents to the coalition: and it may be that in their name we
 are to see the interpretation of the mysterious *Casluhim* of the Table
-of Nations <span id="fr_54"></span>[1](#fn_54) (‏כסלחים‎ being a mistake
+of Nations <span id="fr_54"></span>[1](#fn_54.md) (‏כסלחים‎ being a mistake
 for ‏סכל׳‎). The most frequently suggested identification, with the
 <span class="smallcaps">Teucrians</span> (assigned by Strabo on the
 authority of Callinus to a Cretan origin), is perhaps the most
 satisfactory as yet put forward; notwithstanding the just criticism of
-W. Max Müller <span id="fr_55"></span>[2](#fn_55) that the double *k*
+W. Max Müller <span id="fr_55"></span>[2](#fn_55.md) that the double *k*
 and the vowel of the first syllable are difficulties not to be lightly
-evaded. Clerinont-Ganneau <span id="fr_56"></span>[3](#fn_56) would
+evaded. Clerinont-Ganneau <span id="fr_56"></span>[3](#fn_56.md) would
 equate them to a Nabatean Arab tribe, the Δαχαρηνοί, mentioned by
 Stephanus of Byzantium; but, as Weill <span
-id="fr_57"></span>[4](#fn_57) points out, it is highly improbable that
+id="fr_57"></span>[4](#fn_57.md) points out, it is highly improbable that
 one of the allied tribes should have been Semitic in origin; if the
 similarity of names be more than an accident, it is more likely that the
 Arabs should have borrowed it.
@@ -1247,7 +1247,7 @@ Palestine the memories and traditions of the great days of Minos.
 
 ### Footnotes
 
-<span id="fn_1"></span>[1:1](phc03.htm#fr_1) In Amos ix. 7 and in the
+<span id="fn_1"></span>[1:1](phc03.htm#fr_1.md) In Amos ix. 7 and in the
 Kethībh of 1 Chron. xiv. 10. The almost uniform rendering of the Greek
 version (Φυλιστιείμ) seems rather to favour this orthography. The
 spelling of the first syllable, Φυ, shows, however, that the modern
@@ -1255,21 +1255,21 @@ punctuation with the *shva* is of later growth, and that in the time of
 the Greek translation the pronunciation still approximated rather to the
 form of the name as it appears in Egyptian monuments (Purasati).
 
-<span id="fn_2"></span>[2:1](phc03.htm#fr_2) *Réflexions critiques sur
+<span id="fn_2"></span>[2:1](phc03.htm#fr_2.md) *Réflexions critiques sur
 l’origine, l’histoire et la succession des anciens peuples* (1747), ii.
 254.
 
-<span id="fn_3"></span>[2:2](phc03.htm#fr_3) F. Hitzig, *Urgeschichte
+<span id="fn_3"></span>[2:2](phc03.htm#fr_3.md) F. Hitzig, *Urgeschichte
 and Mythologie der Philister*, Leipzig, 1845.
 
-<span id="fn_4"></span>[2:3](phc03.htm#fr_4) Gesenius, *Thesaurus*,
+<span id="fn_4"></span>[2:3](phc03.htm#fr_4.md) Gesenius, *Thesaurus*,
 *s.v.*
 
-<span id="fn_5"></span>[2:4](phc03.htm#fr_5) Movers, *Untersuchungen
+<span id="fn_5"></span>[2:4](phc03.htm#fr_5.md) Movers, *Untersuchungen
 über die Religion and die Gottheiten der Phönizier* (1841), vol. i, p.
 9.
 
-<span id="fn_6"></span>[2:5](phc03.htm#fr_6) Except (*a*) in the
+<span id="fn_6"></span>[2:5](phc03.htm#fr_6) Except (*a*.md) in the
 Hexateuch, where it is always transliterated Φυλιστιείμ, sometimes
 Φυλιστιίμ or Φιλιστιείμ; (*b*) in Judges x. 6, 7, 11, xiii. 1, 5, xiv.
 2, where again we find the word transliterated: in some important MSS.
@@ -1278,21 +1278,21 @@ passages; (*c*) in Isa. ix. 11 (English ix. 12, where we find the
 curious rendering Ἕλληνας, possibly indicating a variant reading in the
 text that lay before the translators.
 
-<span id="fn_7"></span>[3:1](phc03.htm#fr_7) *Die alttest. Namen der
+<span id="fn_7"></span>[3:1](phc03.htm#fr_7.md) *Die alttest. Namen der
 Bevölkerung*, p. 4; adopted by Arnold in *Ersch and Gruber's
 Encyclopaedia*, s. v. *Philister*.
 
-<span id="fn_8"></span>[4:1](phc03.htm#fr_8) Namely Joshua xiii. 2; 1
+<span id="fn_8"></span>[4:1](phc03.htm#fr_8.md) Namely Joshua xiii. 2; 1
 Sam. iv. 7, vii. 12, xiii. 20, xvii. 51, 52; 2 Sam. v. 19, xxi. 12, 17;
 1 Chron. xi. 13; 2 Chron. xxi. 16.
 
-<span id="fn_9"></span>[4:2](phc03.htm#fr_9) For fuller particulars see
+<span id="fn_9"></span>[4:2](phc03.htm#fr_9.md) For fuller particulars see
 Skinner's *Commentary on Genesis* (pp. 200–214). Sayce finds *Caphtor
 and Kasluhet* on an inscription at Kom Ombo: see Hastings's
 *Dictionary*, s. v. Caphtor; and Man, 1903, No. 77. But see also Hall's
 criticisms, ib. No. 92.
 
-<span id="fn_10"></span>[6:1](phc03.htm#fr_10) Such are Χαρρι, Χαρεθθι,
+<span id="fn_10"></span>[6:1](phc03.htm#fr_10.md) Such are Χαρρι, Χαρεθθι,
 Χελθι, Χελθει, Χελβει, Χελβες, Χελεμα, Χελεθθι, Χελλεθι, Χελεθιι,
 Χελεθοι, Χελοθθι, Χολθει, Χολλεθι, Χορεθι, Χορεθθει, Χορρι, Χορρει,
 Χερεθει, Χερηθει, Χερετ, Χερεθθει, Χερεθιν, Χερεοι, Χωρι, Χερηθη,
@@ -1302,36 +1302,36 @@ criticisms, ib. No. 92.
 Φελελεθθι, Ουπετ, Οχετ, Οφελτι, Οφελθι, Οφελεθθιι, Οφελετθει, Ωφελεθθει,
 Οπελθι, Οπελεθιν, Οπερετ, Πελεβι, Οθεθιι, Χετταιοις.
 
-<span id="fn_11"></span>[6:2](phc03.htm#fr_11) Cornill, *Das Buch des
+<span id="fn_11"></span>[6:2](phc03.htm#fr_11.md) Cornill, *Das Buch des
 Proph. Ezek.* p. 368, followed by Toy, *Ezekiel* (in Sacred Books of O.
 T.), p. 88.
 
-<span id="fn_12"></span>[6:3](phc03.htm#fr_12) Possibly the instinct for
+<span id="fn_12"></span>[6:3](phc03.htm#fr_12.md) Possibly the instinct for
 triliteralism may also have been instrumental in the evolution of this
 form.
 
-<span id="fn_13"></span>[6:4](phc03.htm#fr_13) It is given in
+<span id="fn_13"></span>[6:4](phc03.htm#fr_13.md) It is given in
 Lakemacher, *Observationes Philologicae* (1729), ii. 38, and revived by
 Ewald in his *Kritische Grammatik der hehrläischen Sprache* (1827), p.
 297.
 
-<span id="fn_14"></span>[6:5](phc03.htm#fr_14) Hdt. ii. 128.
+<span id="fn_14"></span>[6:5](phc03.htm#fr_14.md) Hdt. ii. 128.
 
-<span id="fn_15"></span>[7:1](phc03.htm#fr_15) The Greek version has
+<span id="fn_15"></span>[7:1](phc03.htm#fr_15.md) The Greek version has
 Χερεθί in the first of these passages, in the others Χορρι with a number
 of varieties of spelling, Χορρει, Χοριν, &c., all of them showing *o* as
 the first vowel.
 
-<span id="fn_16"></span>[7:2](phc03.htm#fr_16) *Journal of the British
+<span id="fn_16"></span>[7:2](phc03.htm#fr_16.md) *Journal of the British
 School at Athens*, viii (1901-2), p. 157.
 
-<span id="fn_17"></span>[8:1](phc03.htm#fr_17) The name of this
+<span id="fn_17"></span>[8:1](phc03.htm#fr_17.md) The name of this
 chieftain's land is mutilated (*tyn’y*). Mr. Hall (*op. cit.* p. 167,
 *Oldest Civilisation of Greece*, p. 163) restores *Yantanay*, and
 renders 'Cyprus'. W. Max Müller compares with this name the word
 *Adinai*, found in the List of Keftian names given on p. 10.
 
-<span id="fn_18"></span>[8:2](phc03.htm#fr_18) For these tombs see Hall,
+<span id="fn_18"></span>[8:2](phc03.htm#fr_18.md) For these tombs see Hall,
 *British School at Athens*, vol. x (1903–4), p. 154, and *Proc. Soc.
 Bib. Arch.* xxxi, Plate XVI \[Sen-mut\]; Wilkinson, *Manners and Customs
 of the Ancient Egyptians*, i, Plate II, AḄ. \[Rekhmara\]; Virey,
@@ -1339,83 +1339,83 @@ of the Ancient Egyptians*, i, Plate II, AḄ. \[Rekhmara\]; Virey,
 \[Menkheperuseneb\]. In the last-named, Keftiu is translated and indexed
 'Phénicie'.
 
-<span id="fn_19"></span>[10:1](phc03.htm#fr_19) See the brief summary of
+<span id="fn_19"></span>[10:1](phc03.htm#fr_19.md) See the brief summary of
 the various stages of Cretan culture during the Bronze Age, later in the
 present chapter.
 
-<span id="fn_20"></span>[10:2](phc03.htm#fr_20) See Spiegelberg,
+<span id="fn_20"></span>[10:2](phc03.htm#fr_20.md) See Spiegelberg,
 *Zeitschrift fur Assyriologie* (1893), viii. 385 (where the text is
 published incompletely), and W. Max Müller in *Mittheilungen der
 vorderasiatischen Gesellschaft*, vol. v, p. 6, where facsimiles will be
 found.
 
-<span id="fn_21"></span>[11:1](phc03.htm#fr_21) *Dissertations qui
+<span id="fn_21"></span>[11:1](phc03.htm#fr_21.md) *Dissertations qui
 peuvent servir de prolegomenes de l’écriture sainte* (1720), II. ii, p.
 441.
 
-<span id="fn_22"></span>[12:1](phc03.htm#fr_22) A place which, as has
+<span id="fn_22"></span>[12:1](phc03.htm#fr_22.md) A place which, as has
 often been noticed, has the same radicals as the name of the
 Philistines.
 
-<span id="fn_23"></span>[12:2](phc03.htm#fr_23) *Lehrbuch d. bibl.
+<span id="fn_23"></span>[12:2](phc03.htm#fr_23.md) *Lehrbuch d. bibl.
 Geschichte*, vol. i.
 
-<span id="fn_24"></span>[12:3](phc03.htm#fr_24) *Aegypten and des Buch
+<span id="fn_24"></span>[12:3](phc03.htm#fr_24.md) *Aegypten and des Buch
 Mose*, p. 127 ff.
 
-<span id="fn_25"></span>[12:4](phc03.htm#fr_25) *Asien and Europa*, p.
+<span id="fn_25"></span>[12:4](phc03.htm#fr_25.md) *Asien and Europa*, p.
 337.
 
-<span id="fn_26"></span>[12:5](phc03.htm#fr_26) An elaborate refutation
+<span id="fn_26"></span>[12:5](phc03.htm#fr_26.md) An elaborate refutation
 of the Cilician hypothesis will be found in Noordtzij, *De Filistijnen*,
 p. 31.
 
-<span id="fn_27"></span>[13:1](phc03.htm#fr_27) *Zeitschr. für
+<span id="fn_27"></span>[13:1](phc03.htm#fr_27.md) *Zeitschr. für
 wissensch. Theologie*, xxxiv (1891), p. 103.
 
-<span id="fn_28"></span>[13:2](phc03.htm#fr_28) *Gesch. des Volk. Isr.*
+<span id="fn_28"></span>[13:2](phc03.htm#fr_28.md) *Gesch. des Volk. Isr.*
 i. 142.
 
-<span id="fn_29"></span>[13:3](phc03.htm#fr_29) *Geschiedenis van den
+<span id="fn_29"></span>[13:3](phc03.htm#fr_29.md) *Geschiedenis van den
 Godsdienst in de Oudheid*, i. pp. 214, 241.
 
-<span id="fn_30"></span>[15:1](phc03.htm#fr_30) 'Iudaeos Creta Insula
+<span id="fn_30"></span>[15:1](phc03.htm#fr_30.md) 'Iudaeos Creta Insula
 profugos nouissima Libyae insedisse memorant, qua tempestate Saturnus ui
 Iouis pulsus cesserit regnis.'
 
-<span id="fn_31"></span>[15:2](phc03.htm#fr_31) Stephanus of Byzantium,
+<span id="fn_31"></span>[15:2](phc03.htm#fr_31.md) Stephanus of Byzantium,
 s. v. ….
 
-<span id="fn_32"></span>[15:3](phc03.htm#fr_32) The bare outline
+<span id="fn_32"></span>[15:3](phc03.htm#fr_32.md) The bare outline
 statement, which is all that is necessary here, can be supplemented by
 reference to any of the numerous books that have appeared recently on
 the special subject of Cretan excavation: such as Professor Burrows's
 pleasantly. written work entitled *The Discoveries in Crete* (London,
 Murray, 1907), which contains a most useful bibliography.
 
-<span id="fn_33"></span>[16:1](phc03.htm#fr_33) See Hall, *Proc. Soc.
+<span id="fn_33"></span>[16:1](phc03.htm#fr_33.md) See Hall, *Proc. Soc.
 Biblical Archaeology*, xxxi, pp. 144–148.
 
-<span id="fn_34"></span>[18:1](phc03.htm#fr_34) Other causes were at
+<span id="fn_34"></span>[18:1](phc03.htm#fr_34.md) Other causes were at
 work producing the same result of restlessness among the peoples. Thus
 Mr. Alton suggests to me that the collapse of the island of Thera must
 have produced a considerable disturbance of population in the
 neighbouring lands.
 
-<span id="fn_35"></span>[19:1](phc03.htm#fr_35) *T.A. Letters*, ed.
+<span id="fn_35"></span>[19:1](phc03.htm#fr_35.md) *T.A. Letters*, ed.
 Winckler, No. 28; ed. Knudtzon, No. 38.
 
-<span id="fn_36"></span>[19:2](phc03.htm#fr_36) ib. W. 77, K. 123. See
+<span id="fn_36"></span>[19:2](phc03.htm#fr_36.md) ib. W. 77, K. 123. See
 also W. 100.
 
-<span id="fn_37"></span>[19:3](phc03.htm#fr_37) ib. W. 151, K. 151.
+<span id="fn_37"></span>[19:3](phc03.htm#fr_37.md) ib. W. 151, K. 151.
 
-<span id="fn_38"></span>[19:4](phc03.htm#fr_38) For an exhaustive study
+<span id="fn_38"></span>[19:4](phc03.htm#fr_38.md) For an exhaustive study
 of the great battle of Kadesh between Ramessu and the united tribes, see
 Breasted, The Battle of Kadesh (Univ. of Chicago Decennial Publications,
 Ser. I, No. 5.
 
-<span id="fn_39"></span>[21:1](phc03.htm#fr_39) See W. Max Müller's
+<span id="fn_39"></span>[21:1](phc03.htm#fr_39.md) See W. Max Müller's
 important note in *Proc. Soc. Bib. Arch.* x, pp. 147–154, where reasons
 are given against the exactly opposite interpretation, followed by 1
 many authorities (e. g. Breasted, *Ancient Records*). On the other hand
@@ -1423,40 +1423,40 @@ the contrary practice seems to be indicated by 1 Sam. xviii. 25. The
 difficulty of rendering lies in the fact that we have to deal with
 Egyptian words not found elsewhere.
 
-<span id="fn_40"></span>[21:2](phc03.htm#fr_40) See Breasted, *Ancient
+<span id="fn_40"></span>[21:2](phc03.htm#fr_40.md) See Breasted, *Ancient
 Records*, iv, pp. 1–85.
 
-<span id="fn_41"></span>[21:3](phc03.htm#fr_41) Petrie says 1202,
+<span id="fn_41"></span>[21:3](phc03.htm#fr_41.md) Petrie says 1202,
 Breasted 1198.
 
-<span id="fn_42"></span>[22:1](phc03.htm#fr_42) The details of these
+<span id="fn_42"></span>[22:1](phc03.htm#fr_42.md) The details of these
 sculptures are more fully described later in this book.
 
-<span id="fn_43"></span>[23:1](phc03.htm#fr_43) Breasted, *op. cit.* p.
+<span id="fn_43"></span>[23:1](phc03.htm#fr_43.md) Breasted, *op. cit.* p.
 201.
 
-<span id="fn_44"></span>[25:1](phc03.htm#fr_44) Turisha has also been
+<span id="fn_44"></span>[25:1](phc03.htm#fr_44.md) Turisha has also been
 identified with the Cilician town of <span
 class="smallcaps">Tarsus</span>.
 
-<span id="fn_45"></span>[25:2](phc03.htm#fr_45) With reservations: see
+<span id="fn_45"></span>[25:2](phc03.htm#fr_45.md) With reservations: see
 Weill, *Revue archéologique, sér.* IV, vol. iii, p. 67. And even the
 identification of the Danaoi is uncertain. It is at least improbable
 that Rib-Addi of Tyre, in the letter quoted above, should report on the
 peacefulness of so remote a people as the Danaoi.
 
-<span id="fn_46"></span>[26:1](phc03.htm#fr_46) Strabo, XIV. ii. 17.
+<span id="fn_46"></span>[26:1](phc03.htm#fr_46.md) Strabo, XIV. ii. 17.
 
-<span id="fn_47"></span>[26:2](phc03.htm#fr_47) Strabo, xiv. ii. 3.
+<span id="fn_47"></span>[26:2](phc03.htm#fr_47.md) Strabo, xiv. ii. 3.
 
-<span id="fn_48"></span>[26:3](phc03.htm#fr_48) i. 17–1.
+<span id="fn_48"></span>[26:3](phc03.htm#fr_48.md) i. 17–1.
 
-<span id="fn_49"></span>[27:1](phc03.htm#fr_49) Βαιθχόρin the Greek
+<span id="fn_49"></span>[27:1](phc03.htm#fr_49.md) Βαιθχόρin the Greek
 Version (in some MSS. -κορ). Cf. the first footnote on p. 7.
 
-<span id="fn_50"></span>[27:2](phc03.htm#fr_50) xiv. ii. 7.
+<span id="fn_50"></span>[27:2](phc03.htm#fr_50.md) xiv. ii. 7.
 
-<span id="fn_51"></span>[27:3](phc03.htm#fr_51) Hall looks for the
+<span id="fn_51"></span>[27:3](phc03.htm#fr_51.md) Hall looks for the
 Washasha in Crete, and finds them in the name of the Cretan town Ϝάξος
 \[*Oldest Civilization of Greece*, p. 177\]. But if this comparatively
 obscure Cretan name were really represented in the Egyptian lists, we
@@ -1465,27 +1465,27 @@ name appears (in the form *Oašašios*) in an inscription from
 Halicarnassus: see Weill in *Revue archéologique*, sér. IV, vol. iii, p.
 63.
 
-<span id="fn_52"></span>[27:4](phc03.htm#fr_52) Baur, *Amos*, p. 79, has
+<span id="fn_52"></span>[27:4](phc03.htm#fr_52.md) Baur, *Amos*, p. 79, has
 already suggested this identification.
 
-<span id="fn_53"></span>[27:5](phc03.htm#fr_53) *Proc. Soc. Bib. Arch.*,
+<span id="fn_53"></span>[27:5](phc03.htm#fr_53.md) *Proc. Soc. Bib. Arch.*,
 1941, p. 41.
 
-<span id="fn_54"></span>[28:1](phc03.htm#fr_54) Gen. x. 14.
+<span id="fn_54"></span>[28:1](phc03.htm#fr_54.md) Gen. x. 14.
 
-<span id="fn_55"></span>[28:2](phc03.htm#fr_55) *Mittheil. der corderas.
+<span id="fn_55"></span>[28:2](phc03.htm#fr_55.md) *Mittheil. der corderas.
 Gesellschaft*, v, p. 3. On *Teucer* see Frazer, *Adonis, Allis, Osiris*,
 p. 112.
 
-<span id="fn_56"></span>[28:3](phc03.htm#fr_56) *Recueil d’Archéologie
+<span id="fn_56"></span>[28:3](phc03.htm#fr_56.md) *Recueil d’Archéologie
 orientale*, iv. 230.
 
-<span id="fn_57"></span>[28:4](phc03.htm#fr_57) *loc. cit.* p. 64.
+<span id="fn_57"></span>[28:4](phc03.htm#fr_57.md) *loc. cit.* p. 64.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: I. The Adventures of Wen-Amon among them](phc04)
+[Next: I. The Adventures of Wen-Amon among them](phc04.md)
 
 </div>

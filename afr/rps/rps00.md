@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Next](rps01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Next](rps01.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ redactor
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](rps01)
+[Next: Introduction](rps01.md)

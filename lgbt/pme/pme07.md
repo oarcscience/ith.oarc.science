@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](pme06)  [Next](pme08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](pme06)  [Next](pme08.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,10 +75,10 @@ class as voluntarily degraded beings who, for the gratification of
 monstrous desires, have unsexed themselves. A large part of his work is
 devoted to describing what he believes to be the signs of active and
 passive immorality in the bodies of persons addicted to these
-habits. <span id="fr_12"></span>[1](#fn_12) It is evident that
+habits. <span id="fr_12"></span>[1](#fn_12.md) It is evident that
 imagination has acted powerfully in the formation of his theories. But
 this is not the place to discuss their details. <span
-id="fr_13"></span>[2](#fn_13)
+id="fr_13"></span>[2](#fn_13.md)
 
 Casper and Liman approach the subject with almost equal disgust, but
 with more regard for scientific truth than Tardieu. They point out that
@@ -92,7 +92,7 @@ a general mitigation of the penalties in force against such individuals.
 According to them, the penal laws of North Germany, on the occasion of
 their last revision, would probably have been altered, had not the
 jurists felt that the popular belief in the criminality of pæderasts
-ought to be considered. <span id="fr_14"></span>[1](#fn_14)
+ought to be considered. <span id="fr_14"></span>[1](#fn_14.md)
 Consequently, a large number of irresponsible persons, in the opinion of
 experts like Casper and Liman, are still exposed to punishment by laws
 enacted under the influence of vulgar errors.
@@ -108,7 +108,7 @@ This question of physical diagnosis leads them into a severe critique of
 Tardieu. Their polemic attacks each of the points which he attempted to
 establish. I must content myself by referring to the passage of their
 work which deals with the important topic. <span
-id="fr_15"></span>[2](#fn_15) Suffice it here to say that they reject
+id="fr_15"></span>[2](#fn_15.md) Suffice it here to say that they reject
 all signs as worse than doubtful, except a certain deformation of one
 part of the body, which may possibly be taken as the proof of habitual
 prostitution, when it occurs in quite young persons. Of course they
@@ -151,7 +151,7 @@ attention to the broad differences which exist between persons in whom
 abnormal appetites are innate and those in whom they are acquired. Their
 companion sketches of the two types deserve to be translated and
 presented in a somewhat condensed form. <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 "In the majority of persons who are subject to this vice, it is
 congenital; or at any rate the sexual inclination can be followed back
@@ -160,7 +160,7 @@ Sexual contact with a woman inspires them with real disgust. Their
 imagination delights in handsome young men, and statues or pictures of
 the same. In the case of this numerous class of pæderasts there is
 therefore no depraved fancy at work, no demoralisation through satiety
-of natural sexual appetite. <span id="fr_17"></span>[2](#fn_17) Their
+of natural sexual appetite. <span id="fr_17"></span>[2](#fn_17.md) Their
 congenital impulse explains the fact, moreover, that very many pæderasts
 are addicted to what may be termed a Platonic voluptuousness, and feel
 themselves drawn towards the objects of their desire with a warmth of
@@ -169,7 +169,7 @@ sexes; that, in other cases again, they are satisfied with embracements,
 from which they derive a mutual pleasure. Westphal maintains that this
 anomalous direction of the sexual appetite is more often the symptom of
 a psychopathical, neuropathical condition than people commonly
-suppose." <span id="fr_18"></span>[3](#fn_18)
+suppose." <span id="fr_18"></span>[3](#fn_18.md)
 
 <span id="page_27">p. 27</span>
 
@@ -227,10 +227,10 @@ cradle, with their inclination clearly marked.
 
 ### Footnotes
 
-<span id="fn_12"></span>[23:1](pme07.htm#fr_12) Tardieu, *op. cit.*, pp.
+<span id="fn_12"></span>[23:1](pme07.htm#fr_12.md) Tardieu, *op. cit.*, pp.
 213-255.
 
-<span id="fn_13"></span>[23:2](pme07.htm#fr_13) In dealing with Tardieu,
+<span id="fn_13"></span>[23:2](pme07.htm#fr_13.md) In dealing with Tardieu,
 Casper-Liman, and Tarnowsky, I have directed the reader to passages in
 the works of the three medical authorities who have spoken most
 decidedly upon this topic. After comparing their evidence, the case
@@ -242,22 +242,22 @@ deformations to observation. Only those men who for years have practised
 promiscuous prostitution earn epithets like the Greek slang εὐρύπρωκτος,
 or the Italian *culo rotto*.
 
-<span id="fn_14"></span>[24:1](pme07.htm#fr_14) Casper-Liman, *op.
+<span id="fn_14"></span>[24:1](pme07.htm#fr_14.md) Casper-Liman, *op.
 cit.*, vol. i. p. 164.
 
-<span id="fn_15"></span>[24:2](pme07.htm#fr_15) Casper-Liman, *op.
+<span id="fn_15"></span>[24:2](pme07.htm#fr_15.md) Casper-Liman, *op.
 cit.*, vol. i. pp. 174-181.
 
-<span id="fn_16"></span>[26:1](pme07.htm#fr_16) Op. cit., vol. i. pp.
+<span id="fn_16"></span>[26:1](pme07.htm#fr_16.md) Op. cit., vol. i. pp.
 164-166.
 
-<span id="fn_17"></span>[26:2](pme07.htm#fr_17) Having criticised
+<span id="fn_17"></span>[26:2](pme07.htm#fr_17.md) Having criticised
 Tardieu for his use of the phrase *pæderast*, Casper and Liman can find
 no better.
 
-<span id="fn_18"></span>[26:3](pme07.htm#fr_18) Westphal: Die Conträre
+<span id="fn_18"></span>[26:3](pme07.htm#fr_18.md) Westphal: Die Conträre
 Sexualempfindung. Archiv für Psychatrie, vol. ii. I.
 
 ------------------------------------------------------------------------
 
-[Next: V. Literature--Medicine](pme08)
+[Next: V. Literature--Medicine](pme08.md)

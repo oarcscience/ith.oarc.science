@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto17) 
-[Next](aoto19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto17.md) 
+[Next](aoto19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ might start on his way. At last he rose and addressed the Phæacians;
 after thanking them, he concluded by saying that he hoped he should find
 his wife on his return living among her friends in peace <span
 class="margnote"><span id="an_13:43">43</span></span> and
-quietness, <span id="fr_29"></span>[\*](#fn_29) and that the Phæacians
+quietness, <span id="fr_29"></span>[\*](#fn_29.md) and that the Phæacians
 would continue to give satisfaction to their wives and children. He also
 bade farewell to Arēte, and wished her all happiness with her children,
 her people, and with King Alcinous.
@@ -145,7 +145,7 @@ was thus convinced, and Minerva helped him to hide the treasure which
 the Phæacians had given him, by concealing it in the cave. Having done
 this she bade Ulysses consider how he should kill the wicked suitors.
 "They have been lording it," she said, "in your house this three
-years, <span id="fr_30"></span>[\*](#fn_30)
+years, <span id="fr_30"></span>[\*](#fn_30.md)
 
 <span id="page_60">p. 60</span>
 
@@ -184,14 +184,14 @@ swineherd.
 
 ### Footnotes
 
-<span id="fn_29"></span>[57:\*](aoto18.htm#fr_29) σὺν ἀρτεμέεσσι
+<span id="fn_29"></span>[57:\*](aoto18.htm#fr_29.md) σὺν ἀρτεμέεσσι
 φίλοισιν.
 
-<span id="fn_30"></span>[59:\*](aoto18.htm#fr_30) Minerva, in her desire
+<span id="fn_30"></span>[59:\*](aoto18.htm#fr_30.md) Minerva, in her desire
 to minimise the time during which the suitors had been at Ulysses’
 house, seems to have forgotten that they had been there ever since
 Telemachus was quite a child ("Od." ii. 312-314).
 
 ------------------------------------------------------------------------
 
-[Next: Book XIV. Ulysses in the Hut of Eumæus](aoto19)
+[Next: Book XIV. Ulysses in the Hut of Eumæus](aoto19.md)

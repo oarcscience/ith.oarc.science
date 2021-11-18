@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck20)  [Next](peck22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck20)  [Next](peck22.md) 
 
 ------------------------------------------------------------------------
 
@@ -251,4 +251,4 @@ white.
 
 ------------------------------------------------------------------------
 
-[Next: The Bubbling Spring](peck22)
+[Next: The Bubbling Spring](peck22.md)

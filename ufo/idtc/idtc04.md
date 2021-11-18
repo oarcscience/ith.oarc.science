@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](idtc03)  [Next](idtc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](idtc03)  [Next](idtc05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Days To Come*, by Ashtar (Ethel P. Hill), \[1957\], at Intangible
 Textual Heritage
 
@@ -51,7 +51,7 @@ Ye may say the present deplorable condition of earthly affairs hath
 always existed and always will. I SAY NAY! Through man's willful
 disobedience it hath reached a point where his own most determined
 efforts to remove the accumulated incubus of overwhelming pressure from
-subversive forces be [well-nigh](errata.htm#6) futile.
+subversive forces be [well-nigh](errata.htm#6.md) futile.
 
 Divine intervention (operating through chosen emissaries endowed with
 power and authority to abolish the hellish system in force when Lucifer
@@ -91,4 +91,4 @@ Life!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](idtc05)
+[Next: Chapter III](idtc05.md)

@@ -4,20 +4,20 @@
 
 **In this file:**
 
--   **[Religion and Science](#TIMES)**, *New York Times Magazine*,
+-   **[Religion and Science](#TIMES.md)**, *New York Times Magazine*,
     November 9, 1930
--   **[Science and Religion I](#SCIENCE)**, Address: Princeton
+-   **[Science and Religion I](#SCIENCE.md)**, Address: Princeton
     Theological Seminary, May 19, 1939
--   **[Science and Religion II](#TWO)**, *Science, Philosophy and
+-   **[Science and Religion II](#TWO.md)**, *Science, Philosophy and
     Religion, A Symposium*, 1941
--   **[Religion and Science: Irreconcilable?](#RELIGION)** *The
+-   **[Religion and Science: Irreconcilable?](#RELIGION.md)** *The
     Christian Register*, June, 1948
 
 ------------------------------------------------------------------------
 
 <span id="TIMES"></span>Religion and Science
 
--   Return to **[Top](#TOP)**
+-   Return to **[Top](#TOP.md)**
 
 *The following article by Albert Einstein appeared in the **New York
 Times Magazine** on November 9, 1930 pp 1-4. It has been reprinted in
@@ -156,7 +156,7 @@ people.
 
 <span id="SCIENCE"></span>Science and Religion
 
--   Return to **[Top](#TOP)**
+-   Return to **[Top](#TOP.md)**
 
 *This article appears in Einstein's* Ideas and Opinions*, pp.41 - 49.
 The first section is taken from an address at Princeton Theological
@@ -279,7 +279,7 @@ into deeds.
 
 <span id="TWO"></span>II.
 
--   Return to **[Top](#TOP)**
+-   Return to **[Top](#TOP.md)**
 
 It would not be difficult to come to an agreement as to what we
 understand by science. Science is the century-old endeavor to bring
@@ -469,7 +469,7 @@ educational mission.
 
 <span id="RELIGION"></span>Religion and Science: Irreconcilable?
 
--   Return to **[Top](#TOP)**
+-   Return to **[Top](#TOP.md)**
 
 *A response to a greeting sent by the Liberal Ministers' Club of New
 York City. Published in* The Christian Register*, June, 1948. Published

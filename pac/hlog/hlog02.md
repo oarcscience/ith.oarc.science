@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog01)  [Next](hlog03) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog01)  [Next](hlog03.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ October, 1916.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](hlog03)
+[Next: Introduction](hlog03.md)

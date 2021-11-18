@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc66)  [Next](osc68) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc66)  [Next](osc68.md) 
 
 ------------------------------------------------------------------------
 
@@ -323,4 +323,4 @@ believed in the spirit of the well.
 
 ------------------------------------------------------------------------
 
-[Next: (2) The Horn Dance--Abbots Bromley](osc68)
+[Next: (2) The Horn Dance--Abbots Bromley](osc68.md)

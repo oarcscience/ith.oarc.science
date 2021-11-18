@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm60)  [Next](bcm62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm60)  [Next](bcm62.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,11 +16,11 @@ twelfth or fourteenth of that luminary.
 The seals must be made of metals; those of the chief kings should be of
 gold; marquises, of silver; dukes, of copper; prelates, of tin or
 silver; knights, of lead; presidents, of fixed quicksilver; <span
-id="fr_244"></span>[1](#fn_243) and earls, of silver and copper in equal
+id="fr_244"></span>[1](#fn_243.md) and earls, of silver and copper in equal
 parts. The entire cohort is governed by AMAYMON, King of the
 
 <span id="img_22100"></span> [![](tn/generic.jpg)  
-Click to view](img/22100.jpg)  
+Click to view](img/22100.jpg.md)  
 THE DOUBLE SEAL OF SOLOMON
 
 East; CORSON, King of the West; ZIMINAR, King of the North; and GAAP,
@@ -38,12 +38,12 @@ day, but it must be in the woods and forests, or in a place that is free
 from noise and far from the resort of
 
 <span id="img_22200"></span> [![](tn/generic.jpg)  
-Click to view](img/22200.jpg)  
+Click to view](img/22200.jpg.md)  
 THE PENTAGRAM OF SOLOMON
 
 men. The ceremonial circle must be drawn towards that side to which the
 spirit who is to be called is attributed. <span
-id="fr_245"></span>[1](#fn_244) The triangle into which Solomon summoned
+id="fr_245"></span>[1](#fn_244.md) The triangle into which Solomon summoned
 the rebellious demons must be made two feet outside this circle and
 three feet over it. The double seal and pentagram of Solomon must be
 drawn on a parchment of calf-skin, or otherwise on gold or silver,
@@ -53,7 +53,7 @@ drawn on a parchment of calf-skin, or otherwise on gold or silver,
  
 
 <span id="img_22300"></span> [![](tn/generic.jpg)  
-Click to view](img/22300.jpg)  
+Click to view](img/22300.jpg.md)  
 THE MAGICAL CIRCLE
 
  
@@ -71,13 +71,13 @@ abstained from sexual intercourse for the space of one month and having
  
 
 <span id="img_22500"></span> [![](tn/generic.jpg)  
-Click to view](img/22500.jpg)  
+Click to view](img/22500.jpg.md)  
 MAGICAL SWORDS AND WAND
 
  
 
 obtained pardon for his sins by means of fasting and prayer. <span
-id="fr_246"></span>[1](#fn_245) It is to be composed on a Tuesday or
+id="fr_246"></span>[1](#fn_245.md) It is to be composed on a Tuesday or
 Saturday at midnight, with the Moon increasing in Virgo, and with
 burning of perfumes of aloes, resin, cedar and alum.
 
@@ -97,7 +97,7 @@ cleansed; Thou shall wash me and I shall be made whiter than snow*.
  
 
 <span id="img_22600"></span> [![](tn/generic.jpg)  
-Click to view](img/22600.jpg)  
+Click to view](img/22600.jpg.md)  
 THE SECRET SEAL OF SOLOMON
 
  
@@ -108,7 +108,7 @@ By the figurative mystery of this holy vestment, I will clothe me with
 the armour of salvation in the strength of the Most High, ANCOR, AMICAR,
 AMIDES, THEODONIAS, ANITOR*, that so the end which I desire may be
 effected, O* ADONAI*, through Thy strength, to whom be praise and glory
-for ever and ever*. <span id="fr_247"></span>[1](#fn_246)
+for ever and ever*. <span id="fr_247"></span>[1](#fn_246.md)
 
 <span id="page_227">p. 227</span>
 
@@ -116,7 +116,7 @@ Prayers should also be offered in harmony with the intention of the
 operator before pronouncing the forms of evocation, as follows--
 
 <span id="img_22700"></span> [![](tn/generic.jpg)  
-Click to view](img/22700.jpg)  
+Click to view](img/22700.jpg.md)  
 THE RING OF THE EXORCIST
 
 FIRST CONJURATION
@@ -375,7 +375,7 @@ The Key Major of Magic would see no reason to question the attribution
 and would explain the anachronism very simply as a late interpolation.
 
 <span id="img_23500"></span> [![](tn/generic.jpg)  
-Click to view](img/23500.jpg)  
+Click to view](img/23500.jpg.md)  
 HELL MOUTH AND THE DEVIL CHAINED.  
 *From Cædmon*.
 
@@ -383,7 +383,7 @@ HELL MOUTH AND THE DEVIL CHAINED.
 
 ### Footnotes
 
-<span id="fn_243"></span>[221:1](bcm61.htm#fr_244) Numerous experiments
+<span id="fn_243"></span>[221:1](bcm61.htm#fr_244.md) Numerous experiments
 of the alchemists are concerned with congealing and fixing quicksilver,
 but there are also "cabalistic" processes by which this substance was
 prepared expressly for the construction of talismans, and these must not
@@ -391,7 +391,7 @@ be confused with the more sober--if not more successful--recipes of
 Hermetic Art. On this point see *Les Secrets du Petit Albert*. Lyons
 edition, 1775, pp. 63-65.
 
-<span id="fn_244"></span>[222:1](bcm61.htm#fr_245) The chief
+<span id="fn_244"></span>[222:1](bcm61.htm#fr_245.md) The chief
 consecrations of the circle are summarised by Francis Barrett in *The
 Key to Ceremonial Magic* as follows: Therefore when you would consecrate
 any place or circle, you should take the Prayer of Solomon used in the
@@ -402,12 +402,12 @@ sanctification of the throne of God, of Mount Sinai, of the Tabernacle
 of the Covenant, of the Holy of Holies. . . . And by invocating all
 Divine Names which are significant to this.
 
-<span id="fn_245"></span>[225:1](bcm61.htm#fr_246) I do not think that
+<span id="fn_245"></span>[225:1](bcm61.htm#fr_246.md) I do not think that
 an intentional profanation of the sacraments and holy offices of the
 Church was here intended. This would be ascribing a depth to the motive
 of the Grimoires which they never possessed.
 
-<span id="fn_246"></span>[226:1](bcm61.htm#fr_247) VARIANT: *Amor,
+<span id="fn_246"></span>[226:1](bcm61.htm#fr_247.md) VARIANT: *Amor,
 Amacor, Amides, Theodanias, Anitor*; by the merits of the angels, O
 Lord, I will put on the garment of salvation, that this which I desire I
 may bring to effects through Thee, the Most Holy Adonai, Whose Kingdom
@@ -417,4 +417,4 @@ endureth for ever and ever. Amen.
 
 [Next: Chapter V: Concerning the Mystery of the Sanctum Regnum, or the
 Government of Evil Spirits; being the Rite of Conjuration according to
-the Grimorium Verum](bcm62)
+the Grimorium Verum](bcm62.md)

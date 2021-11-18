@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg13) [Next](aflg15)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg13) [Next](aflg15.md)
 
 ------------------------------------------------------------------------
 
@@ -8,23 +8,23 @@ American](../index) [Index](index) [Previous](aflg13) [Next](aflg15)
 ## C<span class="small">HAPTER</span> XIV OMENS, CHARMS, TALISMANS
 
    <span class="small">Omens, tokens, auguries, etc., dependent on—human
-beings (*[220](#pp_220)-221*); quadrupeds (*[222](#pp_222)*); birds
-(*[223](#pp_223)*); insects (*[224](#pp_224)-225*); plants
-(*[226](#pp_226)*). Ordeals, Preparatory Charms, for the Chase, with:
-Incisions, mutilations, nose-stringing (*[227](#pp_227)*); frogs, toads
-(*[228](#pp_228)-229*); caterpillars and ants (*[230](#pp_230)*);
-perhaps have a physiological basis (*[231](#pp_231)*). Hunting-dogs have
-to undergo similar ordeals (*[232](#pp_232)*). Attraction charms, Binas
-(1) for hunting: Plants, used on hunter (*[233](#pp_233)*), or on his
-dog (*[234](#pp_234)*), originally obtained from a snake
-(*[235](#pp_235)*). Animals used on the hunter and on his dog
-(*[236](#pp_236)*); (2) for sexual purposes: Plants (*[237](#pp_237)*);
-animals (*[238](#pp_238)*). Talismans, Repellent (and so Protective or
-Defensive) Charms: Plant (*[239](#pp_239)*), animal, tooth
-(*[240](#pp_240)*), blood and red paint (*[240A](#pp_240A)*), stone
-(*[241](#pp_241)*).</span>
+beings (*[220](#pp_220)-221*); quadrupeds (*[222](#pp_222)*.md); birds
+(*[223](#pp_223)*); insects (*[224](#pp_224)-225*.md); plants
+(*[226](#pp_226)*.md). Ordeals, Preparatory Charms, for the Chase, with:
+Incisions, mutilations, nose-stringing (*[227](#pp_227)*.md); frogs, toads
+(*[228](#pp_228)-229*); caterpillars and ants (*[230](#pp_230)*.md);
+perhaps have a physiological basis (*[231](#pp_231)*.md). Hunting-dogs have
+to undergo similar ordeals (*[232](#pp_232)*.md). Attraction charms, Binas
+(1) for hunting: Plants, used on hunter (*[233](#pp_233)*.md), or on his
+dog (*[234](#pp_234)*.md), originally obtained from a snake
+(*[235](#pp_235)*.md). Animals used on the hunter and on his dog
+(*[236](#pp_236)*); (2) for sexual purposes: Plants (*[237](#pp_237)*.md);
+animals (*[238](#pp_238)*.md). Talismans, Repellent (and so Protective or
+Defensive) Charms: Plant (*[239](#pp_239)*.md), animal, tooth
+(*[240](#pp_240)*), blood and red paint (*[240A](#pp_240A)*.md), stone
+(*[241](#pp_241)*.md).</span>
 
-   <span id="pp_220"></span>**220.**[\*](#pp_220) Omens, tokens,
+   <span id="pp_220"></span>**220.**[\*](#pp_220.md) Omens, tokens,
 auguries, etc., are known to the Arawaks as *adibuahu*, to the Warraus
 as *asijatai-ahá*. Lucky indeed are those children who are born with a
 caul (*shibo-addahu*), because they are going to see spirits (Yawahu)
@@ -37,7 +37,7 @@ sleep he happens to spit, this means that he is about to be visited by
 some one (Arawaks). During sneezing and yawning, the spirit temporarily
 leaves the body through nose and mouth (KG, <span
 class="small">II</span>, 152). To point the finger at a fellow creature
-([Sect. *263*](aflg15.htm#pp_263)) is to offer him as serious an affront
+([Sect. *263*](aflg15.htm#pp_263).md) is to offer him as serious an affront
 as it would be to step over him when lying on the ground; in the latter
 case, the recumbent person would rightly say, "You can cross me when I
 am dead. I am not dead yet!" (Arawaks). Our old chieftain, says
@@ -62,7 +62,7 @@ striking the first blow, or a dog yelps at them, the Island Caribs take
 the incident for a bad augury, and return to their boats; they believe
 that hostilities, begun openly, will not succeed (RoP, 529).
 
-   <span id="pp_221"></span>**221.**[\*](#pp_221) As a matter of fact,
+   <span id="pp_221"></span>**221.**[\*](#pp_221.md) As a matter of fact,
 anything that occurs out of the ordinary is accepted in the light of a
 token of something evil about to happen. For examples of this, I am
 taking at random the following extracts from the legends already given:
@@ -70,45 +70,45 @@ taking at random the following extracts from the legends already given:
 >    He brought them a turtle, which they put on the hot ashes without
 > killing it, so *it promptly crawled out*; they pushed it on again, but
 > with the same result. It was the omen betokening their death \[[Sect.
-> *4*](aflg02.htm#pp_4)\].
+> *4*](aflg02.htm#pp_4.md)\].
 >
 >    And when asked how she knew \[that the Bush Spirits were coming to
 > spoil the drink\], she told them that she had received a sign, or
 > token, because when she was weeping for her late husband, *he suddenly
 > appeared before her* and told her to cease to cry \[[Sect.
-> *109*](aflg08.htm#pp_109)\].
+> *109*](aflg08.htm#pp_109.md)\].
 >
 >    The elder brother then recognized that it \[the fact of the younger
 > persistently *making a noise while fishing*\] was a token of something
-> that was about to happen \[[Sect. *113*](aflg08.htm#pp_113)\].
+> that was about to happen \[[Sect. *113*](aflg08.htm#pp_113.md)\].
 >
 >    The wife also met her death shortly after, and they then remembered
 > having noticed the token: she had omitted to bathe after a meal, some
-> days before ([Sect. *119*](aflg08.htm#pp_119)).
+> days before ([Sect. *119*](aflg08.htm#pp_119).md).
 >
 >    Her visitor *eating the frogs raw* was a sign of something wrong
 > somewhere, causing the girl to become suspicious ([Sect.
-> *120*](aflg08.htm#pp_120)).
+> *120*](aflg08.htm#pp_120).md).
 >
 >    It was not long before the brother again *put his feet into the
 > fire*, a fact which, considering that he was not drunk, led his
 > brother to believe that it was a token of some evil about to befall
-> ([Sect. *126*](aflg08.htm#pp_126)).
+> ([Sect. *126*](aflg08.htm#pp_126).md).
 >
 >    When the husband *claimed the beast which he had not killed, as his
 > own*, the wife realized the token that something unusual was about to
-> happen ([Sect. *136*](aflg09.htm#pp_136)).
+> happen ([Sect. *136*](aflg09.htm#pp_136).md).
 >
 >    While eating the beetle grub out of the *Mauritia* palm, the elder
 > brother heard it *whistle*: he knew this to be the sign or token that
-> he was about to die ([Sect. *139*](aflg09.htm#pp_139)).
+> he was about to die ([Sect. *139*](aflg09.htm#pp_139).md).
 
-   <span id="pp_221A"></span>**221A.**[\*](#pp_221A) The token or augury
+   <span id="pp_221A"></span>**221A.**[\*](#pp_221A.md) The token or augury
 may be in the nature of an indescribable sort of feeling.
 
  
 
-<span id="story_97"></span>[\*](#story_97)T<span class="small">HE</span>
+<span id="story_97"></span>[\*](#story_97.md)T<span class="small">HE</span>
 O<span class="small">BSTINATE</span> G<span class="small">IRL WHO</span>
 R<span class="small">EFUSED THE</span> O<span class="small">LD</span>
 M<span class="small">AN</span> (W)
@@ -124,7 +124,7 @@ M<span class="small">AN</span> (W)
 > when she thought he had cut enough, but he wanted to cut one more
 > tree. "No, don't cut another," she repeated, "I feel frightened. I
 > feel strange, as if something were about to happen."<span
-> id="page_272_fr_1"></span>[1](#page_272_note_1) But he insisted upon
+> id="page_272_fr_1"></span>[1](#page_272_note_1.md) But he insisted upon
 > cutting one tree more, and no sooner had he done so than two creatutes
 > like tigers rushed out of a neighboring thicket and killed him. They
 > were not exactly Hebus, and they were not exactly tigers: they were
@@ -138,7 +138,7 @@ M<span class="small">AN</span> (W)
 > loosened her hammock, and slung it next to his; she even brought him
 > food, water, and other things, but he refused to handle anything that
 > she offered. Had he done so, she would have said to herself, "He loves
-> me" \[[Sect. *275*](aflg16.htm#pp_275)\]. Nevertheless, she persisted
+> me" \[[Sect. *275*](aflg16.htm#pp_275.md)\]. Nevertheless, she persisted
 > in her attentions, and followed him everywhere; where he went, she
 > went. He told her he was going to cut out honey and that she must go
 > back; she refused, so he threw her into the river. She did not mind,
@@ -166,7 +166,7 @@ M<span class="small">AN</span> (W)
  
 
 <span id="story_98"></span><span
-id="pp_221B"></span>**221B.**[\*](#pp_221B) H<span class="small">OW
+id="pp_221B"></span>**221B.**[\*](#pp_221B.md) H<span class="small">OW
 THE</span> L<span class="small">ITTLE</span> B<span
 class="small">OY</span> E<span class="small">SCAPED FROM THE</span>
 C<span class="small">ARIBS</span> (W)
@@ -178,7 +178,7 @@ C<span class="small">ARIBS</span> (W)
 > was a little boy among the party, who climbed up all overhanging tree,
 > where the corial had been tied up at the water-side, in order to keep
 > watch; he was afraid that something was going to happen.<span
-> id="page_273_fr_1"></span>[1](#page_273_note_1) After a while he
+> id="page_273_fr_1"></span>[1](#page_273_note_1.md) After a while he
 > called out that some men were swimming across the stream, but all that
 > the women jokingly said was: "All right. Let them come. We will have
 > some sport and fun with them." But the men were really Carib
@@ -190,7 +190,7 @@ C<span class="small">ARIBS</span> (W)
 > backward and forward from the scene of the outrage to the
 > landing-place. It was during one of these intervals that the youngster
 > slipped down the tree, and, breaking his arrow, rubbed the pieces over
-> his body to make him brave \[[Sect. *331*](aflg18.htm#pp_331)\]. He
+> his body to make him brave \[[Sect. *331*](aflg18.htm#pp_331.md)\]. He
 > then slipped off into the corial, and as quickly as possible reached
 > midstream. By this time the Caribs had recognized him and shouted for
 > him to return. "Come back! Come back!" they screamed: "Your sister is
@@ -199,11 +199,11 @@ C<span class="small">ARIBS</span> (W)
 > happened. These hurried back, only to find that the Caribs had made
 > their escape, and so they "received no payment" \[i. e. they did not
 > get their revenge on them\].<span
-> id="page_273_fr_2"></span>[2](#page_273_note_2)
+> id="page_273_fr_2"></span>[2](#page_273_note_2.md)
 
 <span id="page_274">p. 274</span>
 
-   <span id="pp_222"></span>**222.**[\*](#pp_222) With regard to
+   <span id="pp_222"></span>**222.**[\*](#pp_222.md) With regard to
 animals, let us see what they or their actions can presage.
 
    Serious sickness or death is indicated by either small or large
@@ -222,7 +222,7 @@ curious habit of always covering its face with its crossed hands,
 uncovers its face, it is a sure token that some one is going to die
 (Arawaks).
 
-   <span id="pp_223"></span>**223.**[\*](#pp_223) Birds of ill omen are
+   <span id="pp_223"></span>**223.**[\*](#pp_223.md) Birds of ill omen are
 present in plenty. Chief among these is the goat-sucker (*Caprimulgus*).
 Writing from the Takutu, Schomburgk says that—
 
@@ -273,7 +273,7 @@ if distinctly, the patient is getting better and stronger. When the
 beletika cries, some one is about to be married; hence this token may be
 both of good and bad omen. Another set of bird-tokens may indicate
 approaching rainfall as well as accident ([Sect.
-*217*](aflg13.htm#pp_217)). There is still another class of omens,
+*217*](aflg13.htm#pp_217).md). There is still another class of omens,
 indicative of either prospective good luck or bad luck. Thus, when on a
 hunting expedition, one hears the karrasuri, a small bird, uttering a
 kind of laugh, he is sure to kill something, but if it should cry
@@ -308,7 +308,7 @@ insanity (Da, 250).
  
 
 <span id="story_99"></span><span
-id="pp_223A"></span>**223A.**[\*](#pp_223A) T<span
+id="pp_223A"></span>**223A.**[\*](#pp_223A.md) T<span
 class="small">HE</span> N<span class="small">IGHT-OWL AND HIS</span>
 B<span class="small">AT</span> B<span
 class="small">ROTHERS-IN-LAW</span> (W)
@@ -337,7 +337,7 @@ class="small">ROTHERS-IN-LAW</span> (W)
 > laughing *chi! chi! chi!* for very joy. But the house master took out
 > his bow and arrow, the latter tipped with a knob of wax, with which he
 > shot one of them on the rump, stunning it.<span
-> id="page_276_fr_1"></span>[1](#page_276_note_1) The other bat,
+> id="page_276_fr_1"></span>[1](#page_276_note_1.md) The other bat,
 > escaping into the forest, met Boku-boku, who had just returned from
 > his travels, and to whom he narrated the circumstances of his
 > brother's untimely death. Nothing daunted, the two returned to hunt
@@ -361,7 +361,7 @@ class="small">ROTHERS-IN-LAW</span> (W)
 > brother-in-law, invariably means mischief: when heard at night, some
 > one is surely about to sicken and die.
 
-   <span id="pp_224"></span>**224.**[\*](#pp_224) There are two bees
+   <span id="pp_224"></span>**224.**[\*](#pp_224.md) There are two bees
 which indicate the arrival of a stranger. One of these insects
 (honorari) comes in the morning early, and in the afternoon late, while
 the other (wariro) lives in the ground; when either of these buzzes
@@ -376,12 +376,12 @@ near death of one of the inmates; if it falls into the fire, this shows
 that a deer has sent it along to fetch a light for him; but if it
 settles down under the roof, the arrival of a stranger is to be
 expected. The bite of a certain ant is lucky ([Sect.
-*223*](aflg14.htm#pp_223)).
+*223*](aflg14.htm#pp_223).md).
 
  
 
 <span id="story_100"></span><span
-id="pp_225"></span>**225.**[\*](#pp_225) T<span class="small">HE</span>
+id="pp_225"></span>**225.**[\*](#pp_225.md) T<span class="small">HE</span>
 C<span class="small">ANDLE-FLY SAVED THE</span> L<span
 class="small">OST</span> H<span class="small">UNTER</span> (C)
 
@@ -409,7 +409,7 @@ class="small">OST</span> H<span class="small">UNTER</span> (C)
 > was bringing them their lost companion; the latter then came in, and
 > his four friends were right glad to see him.
 
-   <span id="pp_226"></span>**226.**[\*](#pp_226) The only example of
+   <span id="pp_226"></span>**226.**[\*](#pp_226.md) The only example of
 plant-life in connection with omens and auguries so far met with is that
 recorded by Bernau: "Marriage is frequently contracted by parents for
 their children when infants; and trees are planted by the respective
@@ -417,7 +417,7 @@ parties in witness thereof: it is considered a bad omen if either tree
 should happen to wither as in that case the party is sure to die" (Be,
 59).
 
-   <span id="pp_227"></span>**227.**[\*](#pp_227) The Guiana Indian
+   <span id="pp_227"></span>**227.**[\*](#pp_227.md) The Guiana Indian
 voluntarily submits to various painful ordeals or preparatory charms,
 previous to setting out on, and with the object of winning success in,
 the chase. He believes in priming himself whenever his hunting powers
@@ -428,7 +428,7 @@ of the flesh" by scarification, etc., and its irritation with various
 frogs, toads, caterpillars, ants, or by special nose-stringing
 apparatus. I purposely use the term "apparently" because their real
 signification <span id="page_278">p. 278</span> (see [Sect.
-*231*](aflg14.htm#pp_231)) is evidently not even known to the Indians
+*231*](aflg14.htm#pp_231).md) is evidently not even known to the Indians
 who practise them. In Surinam, among both the Ojanas (Caribs) and Trios
 (Caribs) it is customary (Go, 21) to slash arms and legs with a knife,
 and the scars may be rubbed perhaps with turalla (Caladium bulb). An
@@ -462,34 +462,34 @@ at one end to a considerable thickness at the other end, where the
 fibers hang loosely in a bunch . . . the thin end \[is passed\] up his
 nostril . . . employed by Makusis, Arecunas, and Ackawoi" (IT, 228). The
 "exercising" of the limbs at each new moon may perhaps be regarded in
-the light of a preparatory ordeal ([Sect. *199*](aflg13.htm#pp_199)).
+the light of a preparatory ordeal ([Sect. *199*](aflg13.htm#pp_199).md).
 
-   <span id="pp_228"></span>**228.**[\*](#pp_228) In British Guiana, on
+   <span id="pp_228"></span>**228.**[\*](#pp_228.md) In British Guiana, on
 the Kaieteur savannah, a frog is rubbed on the transverse cuts made
 adown either side of the hunter's chest, a different frog being used for
 different game. In the same district a small live toad is said to be
 swallowed for the promotion of general success in hunting.<span
-id="page_278_fr_1"></span>[1](#page_278_note_1) "Having scratched his
+id="page_278_fr_1"></span>[1](#page_278_note_1.md) "Having scratched his
 wrist with the telson or sting of a scorpion to insure precision in
 darting the arrow from the bow, and cut his arms and legs with the
 flakes of a broken bottle, he <span id="page_279">p. 279</span> rubs the
 back of the kunaua toad over the wounds; the virus of the reptile burns
 like fire" (Da, 253). In the Pomeroon District, in addition to
 abstention from salt and peppers, cuts are made on the arms, and the
-spawn of the akura frog ([Sect. *229*](aflg14.htm#pp_229)) is rubbed not
+spawn of the akura frog ([Sect. *229*](aflg14.htm#pp_229).md) is rubbed not
 only into the incisions, but also into the mouth, nose, eyes, and ears,
 where it is said to cause acute irritation. It is difficult to
 understand the relationship, if any, between the frog or toad, and
-success in the chase ([Sect. *144*](aflg09.htm#pp_144)), except on a
+success in the chase ([Sect. *144*](aflg09.htm#pp_144).md), except on a
 basis of some original belief in the divinity ([Sect.
-*46*](aflg03.htm#pp_46)) of these batrachians, as we know to have
+*46*](aflg03.htm#pp_46).md) of these batrachians, as we know to have
 existed in other parts of the Guianas ([Sect.
-*349*](aflg19.htm#pp_349)). The following is an Arawak story:
+*349*](aflg19.htm#pp_349).md). The following is an Arawak story:
 
  
 
 <span id="story_101"></span><span
-id="pp_229"></span>**229.**[\*](#pp_229) T<span class="small">HE</span>
+id="pp_229"></span>**229.**[\*](#pp_229.md) T<span class="small">HE</span>
 W<span class="small">IFE</span> T<span class="small">EACHES HER</span>
 H<span class="small">USBAND TO</span> H<span class="small">UNT</span>
 (A)
@@ -529,7 +529,7 @@ H<span class="small">USBAND TO</span> H<span class="small">UNT</span>
 > game thnn they did. They asked their sister, but she refused to tell
 > them.
 
-   <span id="pp_230"></span>**230.**[\*](#pp_230) In the Pomeroon
+   <span id="pp_230"></span>**230.**[\*](#pp_230.md) In the Pomeroon
 District a hairy caterpillar may be rubbed into incisions made on the
 wrists and thighs. This creature, obtained on the Rupununi and brought
 down here in barter, is said to be soaked in water the whole of the
@@ -553,7 +553,7 @@ three tribes who—
 > ants, against his own chest; and the ants, which are of a large and
 > venomous kind, bite most painfully." \[IT, 229.\]
 
-   <span id="pp_231"></span>**231.**[\*](#pp_231) While recovering from
+   <span id="pp_231"></span>**231.**[\*](#pp_231.md) While recovering from
 the effects of his self-inflicted cuts and other injuries, the Carib and
 Akawai nimrod may be waited upon and nursed by some woman, but she must
 be past the climacteric; he is strictly forbidden to take liberties with
@@ -582,12 +582,12 @@ that it helps the victims in years to come the better to fly their
 arrows from the tree-tops by securing firm foot-hold for them (RoP,
 552).
 
-   <span id="pp_232"></span>**232.**[\*](#pp_232) Hunting dogs are also
+   <span id="pp_232"></span>**232.**[\*](#pp_232.md) Hunting dogs are also
 made to undergo similar ordeals, but whether as part and parcel, or
 independent, of their general training ([Sect.
-*234*](aflg14.htm#pp_234)) it is difficult to say. On the Pomeroon in
+*234*](aflg14.htm#pp_234).md) it is difficult to say. On the Pomeroon in
 addition to, or in lieu of, the rubbing of a leaf ([Sect.
-*233*](aflg14.htm#pp_233)) the animal's snout may be rubbed with a
+*233*](aflg14.htm#pp_233).md) the animal's snout may be rubbed with a
 certain tree-bark peculiar in that, when squeezed in the hands, a sort
 of frothiness exudes \[? a species of *Inga*\]. Or <span
 id="page_281">p. 281</span> again, the Pomeroon Indian will gash the
@@ -601,7 +601,7 @@ animal is ready to hunt, and when on the chase will keep his nose close
 to the ground, this action allowing of all grass and undergrowth being
 well turned over and scoured. Ants are also sometimes made to bite the
 creature's snout; or the same hairy caterpillar previously mentioned
-([Sect. *230*](aflg14.htm#pp_230)) is rubbed into it. There is reported,
+([Sect. *230*](aflg14.htm#pp_230).md) is rubbed into it. There is reported,
 however, an equally painful method as practised by the Makusi, Arekunas,
 and Akawaios.
 
@@ -615,7 +615,7 @@ and Akawaios.
 > and its head is held down in the second hole, until the animal
 > sometimes drops senseless from pain. \[IT, 228.\]
 
-   <span id="pp_233"></span>**233.**[\*](#pp_233) Bínas are charms,
+   <span id="pp_233"></span>**233.**[\*](#pp_233.md) Bínas are charms,
 plant or animal, which effect their purpose by enticing or attracting
 the particular object or desire yearned for, whatever it may be—from the
 capture of an animal to the gratification of a wish. The real source of
@@ -625,7 +625,7 @@ animal, which act on those lines. I have found nothing of this nature in
 the inorganic world, unless the quartz-pebbles within the piai's rattle
 are to be considered such. As against this view, it might be urged that
 the medicine-man's tobacco-smoke constitutes the real or at least
-co-equal attraction for the Spirits ([Sect. *170*](aflg10.htm#pp_170)).
+co-equal attraction for the Spirits ([Sect. *170*](aflg10.htm#pp_170).md).
 Im Thurn is certainly incorrect in speaking of the word being of Carib
 origin. As a matter of fact, the Carib term is *turallári*; for example,
 the Caribs speak of the bush-hog bina as ponjo-turallari. The Warrau
@@ -669,7 +669,7 @@ fish-hook, his gun-barrel; or on his dog. In Cayenne, these binas (*des
 herbes enchanteresses*) are said to have been hung up on the trees (LAP,
 <span class="small">II</span>, 221).
 
-   <span id="pp_234"></span>**234.**[\*](#pp_234) In Cayenne, the dog
+   <span id="pp_234"></span>**234.**[\*](#pp_234.md) In Cayenne, the dog
 was also rubbed with "simples," for which procedure Pitou gives the
 negative reason, "so that the game should not take itself off on its
 approach" (LAP, <span class="small">II</span>, 220). The Roucouyennes, a
@@ -682,7 +682,7 @@ smell. Hunting dogs are also rubbed over with ruku (*Bixa orellana*)
 both by Indians (Trios, Ojanas, and others) and Bush Negroes (Go, 3): in
 British Guiana the practice said to keep off certain ticks (Ki, 184).
 The methods adopted by the Corentyn Arawaks for "training" ([Sect.
-*232*](aflg14.htm#pp_232)) their dogs to hunt may be included here.
+*232*](aflg14.htm#pp_232).md) their dogs to hunt may be included here.
 While the procedure may be correctly given, the statements relative to
 the naming of the particular leaf after the animal which feeds on it and
 the alleged odor are of course imaginative. These Arawaks first choose
@@ -724,14 +724,14 @@ throat, his nose and mouth being then also stuffed full of it, until he
 nearly chokes; this is to clear his scent and sharpen his perceptions
 (AS, 169).
 
-   <span id="pp_235"></span>**235.**[\*](#pp_235) Old Caribs, Warraus,
+   <span id="pp_235"></span>**235.**[\*](#pp_235.md) Old Caribs, Warraus,
 and Arawaks of the Pomeroon and Moruca Rivers agree in telling me that
 they originally obtained their hunting binas—they are not so sure about
 the binas employed for other purposes—from certain very large snakes,
 which are invariably to be met with only in localities so far distant
 from the source of information as to preclude the possibility of my ever
 obtaining specimens. The Caribs refer me to two snakes, the Orupéri
-([Sect. *3*](aflg02.htm#pp_3)) and the Aramári ([fig. 2](#p283)). The
+([Sect. *3*](aflg02.htm#pp_3)) and the Aramári ([fig. 2](#p283).md). The
 former lives on the ground, beyond the Waini and the Barima. The latter,
 which is much the bigger, lives in the tops of trees and catches its
 prey by pouncing upon it from above: it <span id="page_284">p.
@@ -739,13 +739,13 @@ prey by pouncing upon it from above: it <span id="page_284">p.
 binas which, in addition to attracting all kinds of game, can attract
 thunder, lightning, and rain. The Warraus admit that almost all they
 know about the binas has been taught them by the Akawais and Caribs. The
-Arawak serpent is known as Oroli ([Sect. *363*](aflg20.htm#pp_363)), or,
+Arawak serpent is known as Oroli ([Sect. *363*](aflg20.htm#pp_363).md), or,
 on account of its rate of progression, Kolekonáro (the slow walker). The
 traditions of all three tribes agree in that, after having been killed,
 the snake was carefully burnt, and that from the ashes there
 subsequently arose all the different plants, mostly, but not all of
 them, caladiums, which are now employed as binas ([Sect.
-*168A*](aflg10.htm#pp_168A)). The Arawaks say that—
+*168A*](aflg10.htm#pp_168A).md). The Arawaks say that—
 
 >    A long time ago people noticed how every now and again one of their
 > friends would leave his house, go into the forest, and never be seen
@@ -776,7 +776,7 @@ nowadays since they know of and cultivate these different plants around
 their houses, such trials are not necessary; they are quite aware what
 particular plant will specially attract some particular animal.
 
-   <span id="pp_236"></span>**236.**[\*](#pp_236) Corresponding animal
+   <span id="pp_236"></span>**236.**[\*](#pp_236.md) Corresponding animal
 binas for attracting game must be somewhat scarce: I have succeeded in
 obtaining only the following examples. When Arawaks on the Pomeroon kill
 a bush-hog which happens to contain young, they bury the latter under
@@ -811,7 +811,7 @@ a good hunter of any animal; the dog is simultaneously trained to go
 into wood-holes and earth-holes by having its food placed inside a
 cassava-squeezer.
 
-   <span id="pp_237"></span>**237.**[\*](#pp_237) The next class of
+   <span id="pp_237"></span>**237.**[\*](#pp_237.md) The next class of
 binas deals with phases of the sexual question: conjugal rights, mutual
 love and affection, and babies. Where plants take the title rôles, these
 are again mostly caladia. Arawak, Warrau, Akawai, and Carib women all
@@ -853,15 +853,15 @@ entails many opprobrious epithets. The fungus in question, a species of
 Nidularia, is known to the Arewak as Kassato-lokono-biabina (lit.,
 "baby-plenty charm"), or, in its shortened form, as Kassa-lo-bina, These
 women here never eat of a "double-fruit" which would mean twins for them
-([Sect. *284A*](aflg16.htm#pp_284A)).
+([Sect. *284A*](aflg16.htm#pp_284A).md).
 
-   <span id="pp_237A"></span>**237A.**[\*](#pp_237A) The following is
+   <span id="pp_237A"></span>**237A.**[\*](#pp_237A.md) The following is
 one of the few legends met with that contains reference to the
 application of Binas:
 
  
 
-<span id="story_102"></span>[\*](#story_102)T<span
+<span id="story_102"></span>[\*](#story_102.md)T<span
 class="small">HE</span> B<span class="small">INA, THE</span> R<span
 class="small">ESURRECTED</span> F<span class="small">ATHER, AND
 THE</span> B<span class="small">AD</span> G<span
@@ -879,7 +879,7 @@ class="small">IRL</span> (W)
 > all the work to do, while you do nothing but lie idle in your hammock
 > all day. Although I am now tired, I must go and catch fish." Saying
 > this, he took his harpoon<span
-> id="page_286_fr_1"></span>[1](#page_286_note_1) and went down to the
+> id="page_286_fr_1"></span>[1](#page_286_note_1.md) and went down to the
 > creek. The brother-in-law thereupon took up his cutlass, and after
 > sharpening it followed him and got into his corial. They met just as
 > the husband was returning with his boat, bringing a large fish that he
@@ -912,7 +912,7 @@ class="small">IRL</span> (W)
 > When the grave was finished, he put the coffin in, and then the
 > corpse, which was properly dressed with paint and ornaments, and with
 > which were placed knife, fish-hooks, and other things.<span
-> id="page_287_fr_1"></span>[1](#page_287_note_1) As he was filling up
+> id="page_287_fr_1"></span>[1](#page_287_note_1.md) As he was filling up
 > the grave with earth, his hands all bleeding from the wounds the
 > deceased had given him, his sister struck him from behind on his neck
 > with her cutlass. After standing awhile, he dropped dead and a new
@@ -958,7 +958,7 @@ class="small">IRL</span> (W)
 
 <span id="page_288">p. 288</span>
 
-   <span id="pp_238"></span>**238.**[\*](#pp_238) There are certain
+   <span id="pp_238"></span>**238.**[\*](#pp_238.md) There are certain
 animal binas corresponding in their action with the plant binas just
 mentioned in connection with sexual matters. Among the Pomeroon Arawaks,
 when the husband is very jealous and ill-tempered, his wife will cut off
@@ -988,7 +988,7 @@ unknown to her, they have placed the roasted and pulverized remains of
 either a cockroach (matero), the eggs of a certain spider, or the paw of
 an opossum (yawarri).
 
-   <span id="pp_239"></span>**239.**[\*](#pp_239) Talismans, the last
+   <span id="pp_239"></span>**239.**[\*](#pp_239.md) Talismans, the last
 group of charms to be dealt with, include those which repel evil, bad
 luck, and the like, and so have a protective or defensive
 character—those which endow the Indian with such superior advantages of
@@ -996,7 +996,7 @@ body and estate as enable him to get the better of his fellow-creatures,
 human and animal. Matters of courage, health and strength, power to
 withstand sickness and his enemies, craft to excel in the chase, trade
 and barter, all find a place here. With regard to the chase, the
-provisions mentioned in [Sect *243*](aflg15.htm#pp_243) might very
+provisions mentioned in [Sect *243*](aflg15.htm#pp_243.md) might very
 reasonably be regarded as talismanic. Among the Trios (Caribs) of
 Surinam, says de Goeje—
 
@@ -1018,11 +1018,11 @@ him. According to Schomburgk (ScF, 215), the Maiongkongs used for
 necklaces a bunch of the slender stems of a cryptogamous plant, a fern
 called *Zinapipo* by them, to which they ascribed talismanic property.
 
-   <span id="pp_240"></span>**240.**[\*](#pp_240) On the Pomeroon one
+   <span id="pp_240"></span>**240.**[\*](#pp_240.md) On the Pomeroon one
 can string the tail-rings and claws of a scorpion, and tie it round his
 little girl's wrist. By and by, when she becomes a woman and makes
 paiwarri, the liquor will be "strong and biting."<span
-id="page_289_fr_1"></span>[1](#page_289_note_1) Tiger teeth, threaded
+id="page_289_fr_1"></span>[1](#page_289_note_1.md) Tiger teeth, threaded
 and tied on the child, will also insure its gaining strength
 \[Arawaks\]; bush-hog teeth will make a good huntsman of him \[Atorais
 and Wapisianas\] (Cou, <span class="small">II</span>, 315); tiger
@@ -1064,7 +1064,7 @@ id="page_290">p. 290</span> made up into rings worn on the fingers; but
 this would appear to be a discovery learned from the negro slaves (G,
 <span class="small">II</span>, 225).
 
-   <span id="pp_240A"></span>**240A.**[\*](#pp_240A) The application of
+   <span id="pp_240A"></span>**240A.**[\*](#pp_240A.md) The application of
 red paint was sometimes considered a talisman against sickness and
 disease. Thus, among the Makusis of the Rupunini the mothers
 ceremonially rub red (aromatic) paint on the heads of their children,
@@ -1096,7 +1096,7 @@ besmear the breasts of all those under his command who are sick (G,
 <span class="small">I</span>, 164). Dance (250) speaks of an old man
 being washed in turtle's blood.
 
-   <span id="pp_241"></span>**241.**[\*](#pp_241) The widespread belief
+   <span id="pp_241"></span>**241.**[\*](#pp_241.md) The widespread belief
 in Spirits connected with mountains, rocks, stones, etc., will probably
 help to explain the talismanic virtues ascribed to the green
 Amazon-stones (*Lapis nephriticus*), the *piedra hijada* of the
@@ -1154,14 +1154,14 @@ store on them that they regard these stones as very precious jewels,
 with which they decorate themselves when disposed to, show themselves
 with an their fine attire (Fe, <span class="small">II</span>, 351). I
 have come across a possible reference to them in a Warrau legend ([Sect.
-*139*](aflg09.htm#pp_139)). A comparison between these Amazon stones and
+*139*](aflg09.htm#pp_139).md). A comparison between these Amazon stones and
 the drilled stones of quartz imperfectly crystalized, used as neck
 ornaments and as symbols of authority by the chiefs among the Uaupes
 River Indians (ARW, 191), is well worth consideration.
 
 ------------------------------------------------------------------------
 
-[Next](aflg15)
+[Next](aflg15.md)
 
 ------------------------------------------------------------------------
 
@@ -1169,49 +1169,49 @@ River Indians (ARW, 191), is well worth consideration.
 
 <span id="footnotes_page_272">p. 272</span>
 
-<span id="page_272_note_1"></span>[1](#page_272_fr_1) This was really
+<span id="page_272_note_1"></span>[1](#page_272_fr_1.md) This was really
 the token.
 
 <span id="footnotes_page_273">p. 273</span>
 
-<span id="page_273_note_1"></span>[1](#page_273_fr_1) When I asked the
+<span id="page_273_note_1"></span>[1](#page_273_fr_1.md) When I asked the
 narrator how the little boy knew that something exceptional was about to
 take place, she told me that when young people and children travel far
 afield, they often get frightened and nervous.—W. E. R.
 
-<span id="page_273_note_2"></span>[2](#page_273_fr_2) For another Warrau
-version of this story, see [Sect. *147*](aflg09.htm#pp_147).
+<span id="page_273_note_2"></span>[2](#page_273_fr_2.md) For another Warrau
+version of this story, see [Sect. *147*](aflg09.htm#pp_147.md).
 
 <span id="footnotes_page_276">p. 276</span>
 
-<span id="page_276_note_1"></span>[1](#page_276_fr_1) On the upper Airy
+<span id="page_276_note_1"></span>[1](#page_276_fr_1.md) On the upper Airy
 the children's toy arrows are tipped with a button of black wax (KG,
 <span class="small">I</span>, 106-7).
 
 <span id="footnotes_page_278">p. 278</span>
 
-<span id="page_278_note_1"></span>[1](#page_278_fr_1) H. W. B. Moore, in
+<span id="page_278_note_1"></span>[1](#page_278_fr_1.md) H. W. B. Moore, in
 *Daily Argosy*, Aug. 12, 1910.
 
 <span id="footnotes_page_286">p. 286</span>
 
-<span id="page_286_note_1"></span>[1](#page_286_fr_1) Fish-lance with
+<span id="page_286_note_1"></span>[1](#page_286_fr_1.md) Fish-lance with
 detachable head.
 
 <span id="footnotes_page_287">p. 287</span>
 
-<span id="page_287_note_1"></span>[1](#page_287_fr_1) It is usual among
+<span id="page_287_note_1"></span>[1](#page_287_fr_1.md) It is usual among
 the Warraus, some six days or so after a death, to prepare a small
 quantity of drink, to cut the wife's hair, and make a bundle of the
 deceased's remaining belongings, which are then buried separately.
 
 <span id="footnotes_page_289">p. 289</span>
 
-<span id="page_289_note_1"></span>[1](#page_289_fr_1) This comparison
+<span id="page_289_note_1"></span>[1](#page_289_fr_1.md) This comparison
 between scorpions and strong liquor is very characteristic with the
 Pomeroon Caribs. A typical decoration on their drinking vessels is the
-pot-hook (i. e. the scorpion, [fig. 3](#p289)). See also around the
-central ring in [fig. 2](#p283).
+pot-hook (i. e. the scorpion, [fig. 3](#p289).md). See also around the
+central ring in [fig. 2](#p283.md).
 
  
 

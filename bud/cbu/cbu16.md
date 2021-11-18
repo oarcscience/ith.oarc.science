@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu15)  [Next](cbu17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu15)  [Next](cbu17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -66,11 +66,11 @@ translation of the Nepaulese original.
 Bikshus, all of them Arhans." Here follow the names of many of Buddha's
 disciples. "There were also two thousand more, some having knowledge and
 some having none. *Ma-ha-pa-ja-pa-ti* <span
-id="fr_102"></span>[1](#fn_102) (Mahâprajâpatî) came with female
+id="fr_102"></span>[1](#fn_102) (Mahâprajâpatî.md) came with female
 disciples and their followers, in all six thousand." "Of Bodhisattwas,
 eighty thousand also came." "Their names are Manjusiri, Kwan-shï-yin,
 &c." There came also *Shak-de-wan-yin* (Shakra, the Indra of the
-Devas), <span id="fr_103"></span>[2](#fn_103) with a retinue of twenty
+Devas), <span id="fr_103"></span>[2](#fn_103.md) with a retinue of twenty
 thousand sons of Devas. There were also the sons of the Devas Chandra,
 Samantagandha, and Ratnaprabha. Besides these there were the four "Great
 kings" of the Devas (*Maharaja*), with a suite of ten thousand sons of
@@ -105,7 +105,7 @@ Brahma. The latter is the first in the well-known triumvirate of gods,
 disciple of Buddha. Shakra or Indra is met with in Buddhist legends more
 frequently than Brahma. In some Chinese temples their images are said to
 form a pair among the auditors of Shakyamuni. The
-[Buddhist](errata.htm#1) compilation, *Fa-yuen-chu-lin*, contains an
+[Buddhist](errata.htm#1.md) compilation, *Fa-yuen-chu-lin*, contains an
 extract from the "Central Agama Sutra," where several names by which
 Shakra is commonly known are explained. Indra, his most frequent
 appellation, is a term of office, "Lord" or "Ruler," and as such is
@@ -294,14 +294,14 @@ were written, and within the Christian era.
 
 ### Footnotes
 
-<span id="fn_102"></span>[214:1](cbu16.htm#fr_102) This was Shakyamuni's
+<span id="fn_102"></span>[214:1](cbu16.htm#fr_102.md) This was Shakyamuni's
 aunt, who took care of him when an infant at the death of his mother.
 She became a leader in the female propaganda of Buddhism, and acted a
 conspicuous part in the scene of Buddha's entrance into the Nirvâna.
 
-<span id="fn_103"></span>[214:2](cbu16.htm#fr_103) *De-wan* is "the
+<span id="fn_103"></span>[214:2](cbu16.htm#fr_103.md) *De-wan* is "the
 Devas." *Yin* is "Indra."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Buddhist Universe](cbu17)
+[Next: Chapter XII. The Buddhist Universe](cbu17.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo66)  [Next](hoo68) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo66)  [Next](hoo68.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ or in the depths of Marine Jove profound. 20
 
 ------------------------------------------------------------------------
 
-[Next: LXIII: To Law](hoo68)
+[Next: LXIII: To Law](hoo68.md)

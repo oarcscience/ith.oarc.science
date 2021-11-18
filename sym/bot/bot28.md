@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot27) 
-[Next](bot29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot27.md) 
+[Next](bot29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -56,13 +56,13 @@ Before the full beauty of a stone can be appreciated it has to be cut
 and polished, either with facets, or in the form known as *cabochon*.
 Practically all transparent stones are cut with facets, the best and
 most popular form being the "brilliant" cut (as shown in Illustration
-No. 1 of the [Frontispiece](bot00.htm#img_front)) which has been. found
+No. 1 of the [Frontispiece](bot00.htm#img_front).md) which has been. found
 so effective with diamonds that the term "brilliant" has become the
 recognised name for a diamond cut in this manner.
 
 With oblong stones "trap" cutting is followed, Emeralds being the
 principal stones cut in this fashion (as shown in No. 4 of
-[Frontispiece](bot00.htm#img_front)). "Rose" cutting is the form
+[Frontispiece](bot00.htm#img_front).md). "Rose" cutting is the form
 generally adopted with very small diamonds nowadays, although it is a
 much older form than the brilliant, and large antique stones are to be
 found cut in this fashion, culminating in a point formed by six
@@ -70,7 +70,7 @@ triangular facets in place of the table of the brilliant.
 Semi-transparent and opaque stones, such as Moonstones, Opals, Agates,
 Turquoises, and Cornelians are usually cut *en cabochon* (as shown in
 the stones illustrated in Nos. 3, 6, and 7 of the
-[Frontispiece](bot00.htm#img_front)), and Amethysts, Rubies, Emeralds,
+[Frontispiece](bot00.htm#img_front).md), and Amethysts, Rubies, Emeralds,
 and Sapphires are also frequently cut in this fashion.
 
 <span id="page_278">p. 278</span>
@@ -167,6 +167,6 @@ flaws or imperfections that exist can readily be seen.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](bot29)
+[Next: Bibliography](bot29.md)
 
 </div>

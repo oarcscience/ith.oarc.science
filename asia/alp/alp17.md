@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp16) 
-[Next](alp18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp16.md) 
+[Next](alp18.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ He was all bereft of reason by thy whims' and humours' spell.
 
 ------------------------------------------------------------------------
 
-[Next: The Fox, the Wolf, and the Bear](alp18)
+[Next: The Fox, the Wolf, and the Bear](alp18.md)

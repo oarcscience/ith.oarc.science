@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj14)  [Next](chj16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj14)  [Next](chj16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -37,7 +37,7 @@ The two arrived simultaneously at Lôyang, or, at any rate, with only a
 comparatively short interval between them; the rest came at intervals
 during the seventy years that still remained for the Han dynasty to
 rule. Six of them are mentioned by Nanjo, <span
-id="fr_155"></span>[1](#fn_154) but none of them can be compared for
+id="fr_155"></span>[1](#fn_154.md) but none of them can be compared for
 industrious translation with the first two. There must have been other
 missionaries as well: there are sixteen translations by unknown hands,
 and there must surely have been some missionaries whose methods were not
@@ -86,7 +86,7 @@ But Axidares (may we call him by his title Anshikao?) was the nephew of
 Chosroes, and the son of Pachorus. He was therefore the nephew of King
 Tiridates, and consequently the nephew of that King of Armenia who had
 sent an invitation to the Apostle Thomas to preach the gospel in the
-Parthian dominions. <span id="fr_156"></span>[1](#fn_155)
+Parthian dominions. <span id="fr_156"></span>[1](#fn_155.md)
 
 "And here comes in the most remarkable incident in a remarkable
 story:—Tiridates had been a Mazdean priest, and was so strict an
@@ -111,7 +111,7 @@ soul of the sorely tried
 
 prince was longing; was it any wonder that it, with the prospect that it
 offered of converting a world, should have prevailed." <span
-id="fr_157"></span>[1](#fn_156)
+id="fr_157"></span>[1](#fn_156.md)
 
 "Already before the time of As’oka the logical void involved in the
 acceptance of Nirvana had led to the evolution of a Maitreya Buddha, the
@@ -179,7 +179,7 @@ impossibility that they should be swept away even by a wholesale
 "destruction of books" such as the Chinese indulged in.
 
 Had the "Heralding of the Son of Man," <span
-id="fr_158"></span>[1](#fn_157) as I venture to call it, been a
+id="fr_158"></span>[1](#fn_157.md) as I venture to call it, been a
 permanent or successful Buddhist mission, it would have left behind it
 literary memorials which would have made it unnecessary for the
 successors of those men to insist so much on the elements of Buddhism,
@@ -198,7 +198,7 @@ gesticulations and of apparently meaningless
 
 <span id="page_123">p. 123</span>
 
-formulæ of incantation. <span id="fr_159"></span>[1](#fn_158) These
+formulæ of incantation. <span id="fr_159"></span>[1](#fn_158.md) These
 formulæ and practices, which have not as yet received much attention
 from scholars, are valuable to the student of religion as showing how
 far-spread was the use of cognate practices during the second century.
@@ -210,9 +210,9 @@ is Hebrew, in the East it is Sanskrit; but the manual signs made by the
 worshippers are the same, as are also the seals or characters used
 conventionally to denote certain objects. One most interesting case in
 point is the so-called sixteen-petalled Imperial Chrysanthemum of Japan.
-Dr. Munro of Yokohama <span id="fr_160"></span>[2](#fn_159) has, as I
+Dr. Munro of Yokohama <span id="fr_160"></span>[2](#fn_159.md) has, as I
 have said, found it in Egypt on a tomb. It is also given in the newly
-discovered book of Jao <span id="fr_161"></span>[3](#fn_160) as a
+discovered book of Jao <span id="fr_161"></span>[3](#fn_160.md) as a
 "seal," with its appropriate though meaningless mantra: it comes to
 Japan *viâ* China and appears at Kyoto as the "seal" of the god of
 Peace. In the twelfth century it appears as the *mon* or crest of the
@@ -222,13 +222,13 @@ to the uses of the Imperial House. No subject may have it on anything
 that belongs to him; and yet, for the modest outlay of a halfpenny, he
 can procure at the (modern) Heian-Jingū, or Temple of the God of Peace,
 at Kyoto, amulets and charms, protective against evil, which bear the
-Imperial Chrysanthemum Crest. <span id="fr_162"></span>[4](#fn_161)
+Imperial Chrysanthemum Crest. <span id="fr_162"></span>[4](#fn_161.md)
 
 <span id="page_124">p. 124</span>
 
 Another Mahāyāna trace will be found in the Sutra on the use of Images
 of the Buddha, ascribed to Lokaraksha. <span
-id="fr_163"></span>[1](#fn_162) That it was not until the inauguration
+id="fr_163"></span>[1](#fn_162.md) That it was not until the inauguration
 of the Gandhāra Buddhism that images were made to represent the Buddha
 and other prominent personages, is shown in Japan by the use of the term
 "Image Law" to denote the second phase of their religion. For five
@@ -272,7 +272,7 @@ eternal Being. He is the son of Amitābha. He has no earthly history; he
 has come down to earth at divers times and in sundry manners, but always
 to help man. He is intimately connected with Maitreya, the Buddha of the
 Future, for whose coming Japan still waits. <span
-id="fr_164"></span>[1](#fn_163)
+id="fr_164"></span>[1](#fn_163.md)
 
 <span id="page_126">p. 126</span>
 
@@ -308,7 +308,7 @@ insistence on the mysteries of the Nativity of the Buddha may have
 
 seemed to be the right way to offset the Crucifixion of the "Son of Man"
 and the Gospel of His Resurrection. <span
-id="fr_165"></span>[1](#fn_164)
+id="fr_165"></span>[1](#fn_164.md)
 
 A great number of the Sūtras deal with quite practical subjects—the
 curse of drunkenness, the evils of impurity, the twelvefold chain of
@@ -324,14 +324,14 @@ doctrines taught, and we may notice the gradual development of the
 Mahāyāna in the fact that whereas the Sutra of Forty-two Sections
 constantly speaks of *Arhats*, the books translated by the missioners
 from Central Asia often speak of *Bodhisattvas*, <span
-id="fr_166"></span>[2](#fn_165) and there is a Sūtra given which
+id="fr_166"></span>[2](#fn_165.md) and there is a Sūtra given which
 contains an explanation of the office, duties, and
 
 <span id="page_128">p. 128</span>
 
 privileges of a Bodhisattva. The new school of Prajnã philosophy is
 represented by a translation of the Prajnã Parāmitā Sūtra <span
-id="fr_167"></span>[1](#fn_166) in 10,000 couplets, but without
+id="fr_167"></span>[1](#fn_166.md) in 10,000 couplets, but without
 Nāgārjuna's commentary, which was possibly not accepted until the
 following century (say about A.D. 220). Little is apparently said about
 the Previous Buddhas, but two of the Dhyāni Buddhas are mentioned,
@@ -344,7 +344,7 @@ Sūtra devoted to him either in the Chinese Tripitaka or in the Thibetan
 Collection. I believe the Sūtra has never yet been translated into
 English, but a translation into modern Japanese has recently been
 published, which is, however, in its modern form, almost as obscure as
-the Chinese original. <span id="fr_168"></span>[2](#fn_167) Akshobya is
+the Chinese original. <span id="fr_168"></span>[2](#fn_167.md) Akshobya is
 especially connected with Manjuśri. He is the author of long life, and
 much worshipped by means of *Dharani*.
 
@@ -353,7 +353,7 @@ Japan that he was preached about by S’akyamuni himself during the last
 years of his ministry. After S’akyamuni's time he apparently vanished
 from Buddhist consciousness; possibly he was taken across the Himalayas
 along with some travelling Buddhists, and so disappeared from the eyes
-of India. As’vaghosha <span id="fr_169"></span>[3](#fn_168) and
+of India. As’vaghosha <span id="fr_169"></span>[3](#fn_168.md) and
 Nāgārjuna both worshipped from afar; with Anshikao and
 
 <span id="page_129">p. 129</span>
@@ -367,7 +367,7 @@ fully.
 The doctrine of Amitābha is more fully developed now. When S’akyamuni
 consoled the Queen of Bimbisara he merely pointed her to Amitābha, whose
 mercies are Infinite, and who is ever near to comfort the
-distressed <span id="fr_170"></span>[1](#fn_169) In the Sukhāvati Vyūha,
+distressed <span id="fr_170"></span>[1](#fn_169.md) In the Sukhāvati Vyūha,
 nearly every Chinese translation of which is by Central Asian hands,
 Amitābha is strangely and significantly changed. He has (*more Buddhico*
 again) been euhemerized, so to say; his genealogy is given; he is
@@ -387,35 +387,35 @@ produced in literary form, developed into the first member of a
 quasi-Trinity. He is accompanied by his son, Avalokiteśvara, the
 bisexual expression of his mercy, who in many forms and as many persons,
 was manifested upon earth to save the suffering, <span
-id="fr_171"></span>[2](#fn_170)
+id="fr_171"></span>[2](#fn_170.md)
 
 <span id="page_130">p. 130</span>
 
 just as in the account of Peratæ and other Gnostics, given in the
-"Philosophumena," <span id="fr_172"></span>[1](#fn_171) the Christ is
+"Philosophumena," <span id="fr_172"></span>[1](#fn_171.md) the Christ is
 manifested, in many forms and characters, with the Birth at Bethlehem
 among them, to give expression to the mercy of His Father.
 Avalokiteśvara (the "Lord that looked down") descended even into Hell to
 manifest the mercies of Amitābha; his companion Mahāsthāmaprāpta <span
-id="fr_173"></span>[2](#fn_172) is the embodiment of Amitābha's
+id="fr_173"></span>[2](#fn_172.md) is the embodiment of Amitābha's
 strength, the Spirit of Might, and the three together are a significant
 shadow of the Persons of the Christian Trinity. It is hard to avoid
-drawing an inference. <span id="fr_174"></span>[3](#fn_173)
+drawing an inference. <span id="fr_174"></span>[3](#fn_173.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_154"></span>[117:1](chj15.htm#fr_155) Nanjo, "Catalogue of
+<span id="fn_154"></span>[117:1](chj15.htm#fr_155.md) Nanjo, "Catalogue of
 the Tripitaka," Appendix II.
 
-<span id="fn_155"></span>[119:1](chj15.htm#fr_156) This and the
+<span id="fn_155"></span>[119:1](chj15.htm#fr_156.md) This and the
 following paragraphs I take from a kind review of my book "The Wheat
 amongst the Tares," published in *The Anglican* (Shanghai, June, 1909)
 by the late Mr. T. W. Kingsmill. See also *East and West* for July,
 1911.
 
-<span id="fn_156"></span>[120:1](chj15.htm#fr_157) I quote another
+<span id="fn_156"></span>[120:1](chj15.htm#fr_157.md) I quote another
 passage from Mr. Kingsmill's essay, because it seems to throw some light
 on the origin of that remarkable Trinity—Amida, Seishi, Kwannon, which
 plays such an important part in the later developments of the Mahāyāna.
@@ -424,7 +424,7 @@ the Arsacid sovereigns, a theory not at all inconsistent with the few
 traces we get of the worship of Amida in the time of Anshikao and his
 brother translators.
 
-<span id="fn_157"></span>[122:1](chj15.htm#fr_158) I have already
+<span id="fn_157"></span>[122:1](chj15.htm#fr_158.md) I have already
 pointed out that the character for Fo or Butsu (<span
 id="img_12200"></span> ![](img/12200.jpg)) consists of three elements,
 "man," "arrows," "bow"—a reminiscence of Ming-ti's Vision, which bears a
@@ -438,23 +438,23 @@ which completes the whole compound (<span id="img_12203"></span>
 ![](img/12203.jpg)), produces a word which may mean "Son of Man." See
 the Sūtra on the *True Man* (Nanjo, "Cat. Trip.," No. 565).
 
-<span id="fn_158"></span>[123:1](chj15.htm#fr_159) Nanjo, "Cat. Trip.,"
+<span id="fn_158"></span>[123:1](chj15.htm#fr_159.md) Nanjo, "Cat. Trip.,"
 Nos. 451, 478.
 
-<span id="fn_159"></span>[123:2](chj15.htm#fr_160) In a lecture
+<span id="fn_159"></span>[123:2](chj15.htm#fr_160.md) In a lecture
 delivered before the Asiatic Society of Japan, in April, 1910.
 
-<span id="fn_160"></span>[123:3](chj15.htm#fr_161) I. Book of Jao., cap.
+<span id="fn_160"></span>[123:3](chj15.htm#fr_161.md) I. Book of Jao., cap.
 12; in Schmidt's German translation, p. 269.
 
-<span id="fn_161"></span>[123:4](chj15.htm#fr_162) Heian was the old
+<span id="fn_161"></span>[123:4](chj15.htm#fr_162.md) Heian was the old
 name of Kyoto; it means "the city of peace," the haven of refuge to
 which Kwammu fled from the turbulence and intrigues of the Nara monks.
 
-<span id="fn_162"></span>[124:1](chj15.htm#fr_163) Nanjo, "Cat. Trip,"
+<span id="fn_162"></span>[124:1](chj15.htm#fr_163.md) Nanjo, "Cat. Trip,"
 No. 289.
 
-<span id="fn_163"></span>[125:1](chj15.htm#fr_164) It is said that the
+<span id="fn_163"></span>[125:1](chj15.htm#fr_164.md) It is said that the
 great Kōbō Daishi is still awaiting in his tomb at Kōya San the coming
 of Maitreya, the friendly one, to restore the old Faith to Japan. His
 body, it is said, does not decay, though from time to time he requires a
@@ -476,7 +476,7 @@ Japanese have told me that Christ is an incarnation of this same
 Avalokiteśvara, the son of Amida, who is the one, self-originated,
 Buddha.
 
-<span id="fn_164"></span>[127:1](chj15.htm#fr_165) In connection with
+<span id="fn_164"></span>[127:1](chj15.htm#fr_165.md) In connection with
 the A.D. 67 Mission to China, it must be remembered that early in the
 first century a rumour was current in China that Sū Wang Mu, the goddess
 of the West, had given birth to a child who should be the Saviour of the
@@ -490,40 +490,40 @@ remaining converts of that early mission, or their descendants, may have
 offered some resistance to the Buddhist onslaught, and then in the end
 agreed to some compromise.
 
-<span id="fn_165"></span>[127:2](chj15.htm#fr_166) *Arhat* is the
+<span id="fn_165"></span>[127:2](chj15.htm#fr_166.md) *Arhat* is the
 Hīnayāna term for the full-blown disciple. In the Mahāyāna, such a
 person is termed a Bodhisattva, the distinction between the two
 consisting in the fact that the Bodhisattva's faith is the more
 altruistic.
 
-<span id="fn_166"></span>[128:1](chj15.htm#fr_167) This work forms one
+<span id="fn_166"></span>[128:1](chj15.htm#fr_167.md) This work forms one
 of the great books of the Nepaulese Canon, which does not, however, seem
 to have been finally drawn up before the time of Vasubandhu, *circ*.
 A.D. 300.
 
-<span id="fn_167"></span>[128:2](chj15.htm#fr_168) In a popular book
+<span id="fn_167"></span>[128:2](chj15.htm#fr_168.md) In a popular book
 called "Jusan Butsu no Yūrai" (Tokyo, 1908).
 
-<span id="fn_168"></span>[128:3](chj15.htm#fr_169) For As’vaghosha, see
+<span id="fn_168"></span>[128:3](chj15.htm#fr_169.md) For As’vaghosha, see
 Suzuki's "Awakening of the Faith," p. 146. Nāgārjuna is said to have
 died with his face directed to the Western Paradise.
 
-<span id="fn_169"></span>[129:1](chj15.htm#fr_170) In the
+<span id="fn_169"></span>[129:1](chj15.htm#fr_170.md) In the
 "Amitāyur-dhyāni Sūtra," *S.B.E.*, vol. xlix. With the help of some
 Buddhist friends, I have nearly completed an English translation of
 Lokaraksha's edition of the S.V.
 
-<span id="fn_170"></span>[129:2](chj15.htm#fr_171) I have a small
+<span id="fn_170"></span>[129:2](chj15.htm#fr_171.md) I have a small
 Japanese "Catechism of Kwannon," which states the doctrine about this
 deity very succinctly.
 
-<span id="fn_171"></span>[130:1](chj15.htm#fr_172) "Philosoph.," vi. 12.
+<span id="fn_171"></span>[130:1](chj15.htm#fr_172.md) "Philosoph.," vi. 12.
 
-<span id="fn_172"></span>[130:2](chj15.htm#fr_173) The Japanese Seishi.
+<span id="fn_172"></span>[130:2](chj15.htm#fr_173.md) The Japanese Seishi.
 He is sometimes spoken of as having "destroyed death." He is not a very
 popular deity.
 
-<span id="fn_173"></span>[130:3](chj15.htm#fr_174) I would strongly
+<span id="fn_173"></span>[130:3](chj15.htm#fr_174.md) I would strongly
 recommend, in connection with this chapter, a perusal of a paper by the
 late Dr. Rehatsek on "Christianity in the Persian Dominions," published
 in the Journal of the Bombay Branch of the Royal Asiatic Society, vol.
@@ -532,4 +532,4 @@ Anshikao and his companion must have had.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Dharmagupta](chj16)
+[Next: Chapter XIV. Dharmagupta](chj16.md)

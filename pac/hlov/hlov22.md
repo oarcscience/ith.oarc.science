@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov21)  [Next](hlov23) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov21)  [Next](hlov23.md) 
 
 ------------------------------------------------------------------------
 
@@ -373,4 +373,4 @@ fire.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. The Annihilation of Keoua's Army](hlov23)
+[Next: XVIII. The Annihilation of Keoua's Army](hlov23.md)

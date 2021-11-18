@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](itp04)  [Next](itp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](itp04)  [Next](itp06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ clothed very early in female attire, and presented with the drum and
 rattles belonging to the profession they are to follow."
 
 The following is an account given by Dawydow, the Russian
-traveller, <span id="fr_22"></span>[1](#fn_22) of the quite similar
+traveller, <span id="fr_22"></span>[1](#fn_22.md) of the quite similar
 custom prevalent in his time (about 1800) among the Konyagas in the
 Alaska region:--"There are here (in the island of Kadiak) men with
 tatooed chins, who work only as women, who always live with the
@@ -72,7 +72,7 @@ continent; and, as a matter of fact, and as appears from various other
 passages in the present work, the same association may be traced among
 countless tribes of the middle regions of the same continent, and all
 over the world. There was a legend current among the North American
-Indians at one time <span id="fr_23"></span>[1](#fn_23) about a
+Indians at one time <span id="fr_23"></span>[1](#fn_23.md) about a
 Bardache, or man of this kind, who was shot at by an enraged warrior of
 his own tribe; but when the onlookers ran to the place where the
 transfixed man fell they found only an arrow sticking in a heap of
@@ -81,7 +81,7 @@ stones. The man had disappeared!
 With regard to the attribution of homosexuality also to female wizards,
 or witches, I believe that, rightly or wrongly, this was very common in
 Europe a few centuries ago. Leo Africanus (1492) in his description of
-Morocco <span id="fr_24"></span>[2](#fn_24) says, "The third kind of
+Morocco <span id="fr_24"></span>[2](#fn_24.md) says, "The third kind of
 diviners are women-witches, which are affirmed to
 
 <span id="page_39">p. 39</span>
@@ -104,7 +104,7 @@ of thing that was believed at that time about witches.
 In some cases the adoption of the life of priest or sorcerer is
 accompanied by a change of dress (as we have seen), but this is by no
 means always so. Speaking of the Pelew Islanders, Dr. Frazer <span
-id="fr_25"></span>[1](#fn_25) attributes the adoption by the priests of
+id="fr_25"></span>[1](#fn_25.md) attributes the adoption by the priests of
 female attire to the fact that "it often happens that a goddess chooses
 a man, not a woman, for her
 
@@ -137,7 +137,7 @@ presumably
 the same in past times) who love to dress as women and yet are perfectly
 normal in their sex-relations; and therefore too sweeping
 generalisations on this subject must be avoided. <span
-id="fr_26"></span>[1](#fn_26)
+id="fr_26"></span>[1](#fn_26.md)
 
 On the whole, however, cross-dressing must be taken as a general
 indication of, and a cognate phenomenon to, homosexuality; and its wide
@@ -191,7 +191,7 @@ reasoned with him at first, offered him fine weapons and masculine
 articles of dress in order to inspire him with a taste for manly
 occupations; and when this proved useless, has handled him sternly,
 punished and beaten him, yet all in vain." <span
-id="fr_27"></span>[1](#fn_27)
+id="fr_27"></span>[1](#fn_27.md)
 
 John T. Irving, in his *Indian Sketches* (1835)--a description of the
 Pawnee and other American Indians-has a whole chapter (ch. xxii.)
@@ -259,7 +259,7 @@ longer on their further accumulation.
 venture to say a few words in possible explanation of the connection.
 
 Dr. Iwan Bloch, in his monumental work, *Die Prostitution*, <span
-id="fr_28"></span>[1](#fn_28) leans to the general explanation that
+id="fr_28"></span>[1](#fn_28.md) leans to the general explanation that
 homosexuality, just on account of its strange and inexplicable
 character, was by primitive people accounted as something divine and
 miraculous, and the homosexual man or woman therefore credited with
@@ -409,7 +409,7 @@ peasantry, would at once be interpreted as being devilish and sorcerous
 in character, and the women (formerly priestesses) who conducted them
 and perhaps recited snatches of ancient half-forgotten rituals, would be
 accounted witches. "We have, therefore," he says, <span
-id="fr_29"></span>[1](#fn_29) "to look upon the witch as essentially the
+id="fr_29"></span>[1](#fn_29.md) "to look upon the witch as essentially the
 degraded form of the old priestess, cunning in the knowledge of herbs
 and medicine, jealous of the rites of the goddess she serves, and
 preserving in spells and incantations such wisdom as early civilisation
@@ -434,7 +434,7 @@ away, and men were beginning to assert their predominance, it still may
 have happened that the old religious customs lingering on may have
 induced men to simulate the part of women and to dress as priestesses,
 or at least have afforded them an excuse for so doing. <span
-id="fr_30"></span>[1](#fn_30) In this way it seems just possible that
+id="fr_30"></span>[1](#fn_30.md) In this way it seems just possible that
 the pendulum-swing of society from the matriarchate to the patriarchate
 may have been accompanied by some degree of crasis and confusion between
 the functions of the sexes, homosexual customs and tendencies may have
@@ -469,35 +469,35 @@ causes in human nature itself.
 
 ### Footnotes
 
-<span id="fn_22"></span>[37:1](itp05.htm#fr_22) See *Uranismus bei den
+<span id="fn_22"></span>[37:1](itp05.htm#fr_22.md) See *Uranismus bei den
 Naturvölkern*, Dr. F. Karsch., in "Jahrbuch für Sexuellen
 Zwischenstufen," vol. iii., pp. 161, 162.
 
-<span id="fn_23"></span>[38:1](itp05.htm#fr_23) See Maxn. Prinz zu Wied,
+<span id="fn_23"></span>[38:1](itp05.htm#fr_23.md) See Maxn. Prinz zu Wied,
 *Reise in das innere N. America* (2 vols., 1819 and 1841), vol. ii., p.
 133.
 
-<span id="fn_24"></span>[38:2](itp05.htm#fr_24) Hakluyt Society (3
+<span id="fn_24"></span>[38:2](itp05.htm#fr_24.md) Hakluyt Society (3
 vols.), vol. ii., p. 458.
 
-<span id="fn_25"></span>[39:1](itp05.htm#fr_25) *Adonis*, etc., p. 428.
+<span id="fn_25"></span>[39:1](itp05.htm#fr_25.md) *Adonis*, etc., p. 428.
 
-<span id="fn_26"></span>[41:1](itp05.htm#fr_26) See, in these
+<span id="fn_26"></span>[41:1](itp05.htm#fr_26.md) See, in these
 connections, Dr. Hirschfeld's remarkable book *Die Transvestiten*
 (Berlin, 1910); also *Die Konträre Sexual-empfindung*, by Dr. A. Moll
 (edition 1893), pp. 82-90.
 
-<span id="fn_27"></span>[43:1](itp05.htm#fr_27) See Prinz zu Wied, *op.
+<span id="fn_27"></span>[43:1](itp05.htm#fr_27.md) See Prinz zu Wied, *op.
 cit.*, vol. ii., p. 133.
 
-<span id="fn_28"></span>[46:1](itp05.htm#fr_28) Berlin, 1912.
+<span id="fn_28"></span>[46:1](itp05.htm#fr_28.md) Berlin, 1912.
 
-<span id="fn_29"></span>[52:1](itp05.htm#fr_29) *The Chances of Death
+<span id="fn_29"></span>[52:1](itp05.htm#fr_29.md) *The Chances of Death
 and other studies*, by Karl Pearson (2 Vols., 1897), vol. ii., p. 13.
 
-<span id="fn_30"></span>[53:1](itp05.htm#fr_30) See above, pp.
-[25](itp04.htm#page_25) and [32](itp04.htm#page_32), etc.
+<span id="fn_30"></span>[53:1](itp05.htm#fr_30.md) See above, pp.
+[25](itp04.htm#page_25) and [32](itp04.htm#page_32.md), etc.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. As Inventors of the Arts and Crafts](itp06)
+[Next: Chapter III. As Inventors of the Arts and Crafts](itp06.md)

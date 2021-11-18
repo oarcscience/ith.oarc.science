@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Next](ppx01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Next](ppx01.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ non-commercial purpose provided this attribution is left intact.
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](ppx01)
+[Next: Dedication](ppx01.md)

@@ -1,10 +1,10 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](itb08) [Next](itb10)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](itb08) [Next](itb10.md)
 
 ------------------------------------------------------------------------
 
-## THE MAN WITH FOUR NAMES<span id="page_113_fr_1"></span>[1](#page_113_note_1)
+## THE MAN WITH FOUR NAMES<span id="page_113_fr_1"></span>[1](#page_113_note_1.md)
 
  Once there was a man with four names. His first name was
 Looking-for-Favors or náxodidáhí. His second name was
@@ -246,7 +246,7 @@ mother-in-law, your father-in-law might become jealous.”
 
  If you look at your mother-in-law, you will get weak and your heart
 will beat faster. You will be scared because it is she who weakens
-you.<span id="page_119_fr_1"></span>[1](#page_119_note_1) If a person
+you.<span id="page_119_fr_1"></span>[1](#page_119_note_1.md) If a person
 gets into the service or in the war and goes to the battlefield, he will
 have his brain power taken away and his mind will get bad. In old age
 the people who look at their mothers-in-law will have their eyes become
@@ -674,7 +674,7 @@ this land would be prosperous instead of California.
 
 ------------------------------------------------------------------------
 
-[Next](itb10)
+[Next](itb10.md)
 
 ------------------------------------------------------------------------
 
@@ -682,7 +682,7 @@ this land would be prosperous instead of California.
 
 <span id="footnotes_page_113">p. 113</span>
 
-<span id="page_113_note_1"></span>[1](#page_113_fr_1) Many would
+<span id="page_113_note_1"></span>[1](#page_113_fr_1.md) Many would
 classify this story as not belonging with the creation myth. Yet the
 informant’s belief was that there are many stories proper which belong
 in the creation myth and which have branches which come off from it.
@@ -694,7 +694,7 @@ a Feather Story. From this branch come the ceremonials.
 
 <span id="footnotes_page_119">p. 119</span>
 
-<span id="page_119_note_1"></span>[1](#page_119_fr_1) When F. G. was a
+<span id="page_119_note_1"></span>[1](#page_119_fr_1.md) When F. G. was a
 young man, he looked at his mother-in-law and that is why his eyes are
 going bad now. There are ways that one may look at his mother-in-law.
 F. G. cured his mother-in-law when she was sick and so he could look at

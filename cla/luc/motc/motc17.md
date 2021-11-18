@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc16.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ afraid some other woman had got him and his love for me had
 <span id="img_14800"></span>
 
 [![](tn/14800.jpg)  
-Click to enlarge](img/14800.jpg)
+Click to enlarge](img/14800.jpg.md)
 
 <span id="page_149">p. 149</span>
 

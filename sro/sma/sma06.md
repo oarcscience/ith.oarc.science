@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma05)  [Next](sma07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma05)  [Next](sma07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -90,7 +90,7 @@ inclination to attend to the progress of the Ismaïlites. These,
 therefore, went on gradually extending their power, and fortress after
 fortress fell into their hands. In the course of ten years they saw
 themselves masters of the principal hill-forts of Persian Irak; they
-held that of Shandorr <span id="fr_26"></span>[\*](#fn_26) (*King's
+held that of Shandorr <span id="fr_26"></span>[\*](#fn_26.md) (*King's
 pearl*), and two other fortresses, close to Isfahan; that of Khalankhan,
 on the borders of Fars and Kuhistan; Damaghan, Kirdkoo, and Firoozkoo,
 in the district of Komis; and Lamseer and several others in Kuhistan. It
@@ -105,7 +105,7 @@ sword of justice in freeing the earth from this godless and abominable
 race. The sect, strong in its secret bond of unity and determination of
 purpose, went on and prospered; the dagger avenged the fate of those who
 perished by the sword, and, as the Orientalized European historian of
-the society expresses it <span id="fr_27"></span>[\*](#fn_27), "heads
+the society expresses it <span id="fr_27"></span>[\*](#fn_27.md), "heads
 fell like an abundant harvest beneath the twofold sickle of the sword of
 justice and the dagger of murder."
 
@@ -147,7 +147,7 @@ explained.
 
 On the return of Aboo Taher to Aleppo a very remarkable attempt at
 assassination took place. There was a wealthy merchant, named Aboo-Hard
-Issa <span id="fr_28"></span>[\*](#fn_28), a sworn foe to the
+Issa <span id="fr_28"></span>[\*](#fn_28.md), a sworn foe to the
 Ismaïlites, and who had spent large sums of money in his efforts to
 injure them. He was now arrived from the borders of Toorkistan with a
 richly laden caravan of 500 camels. An Ismaïlite, named Ahmed, a native
@@ -306,7 +306,7 @@ at the acme of its power.
 
 ### Footnotes
 
-<span id="fn_26"></span>[58:\*](sma06.htm#fr_26) This castle was built
+<span id="fn_26"></span>[58:\*](sma06.htm#fr_26.md) This castle was built
 by sultan Malek Shah. The following was its origin:--As Malek Shah, who
 was a great lover of the chase, was out one day a hunting, one of the
 hounds went astray on the nearly inaccessible rock on which the castle
@@ -320,9 +320,9 @@ Moslems remarked that it could not have better luck, since its site had
 been pointed out by a dog (an unclean beast in their eyes), and its
 erection advised by an infidel.
 
-<span id="fn_27"></span>[59:\*](sma06.htm#fr_27) Hammer, 97.
+<span id="fn_27"></span>[59:\*](sma06.htm#fr_27.md) Hammer, 97.
 
-<span id="fn_28"></span>[60:\*](sma06.htm#fr_28) That is, Jesus. It may
+<span id="fn_28"></span>[60:\*](sma06.htm#fr_28.md) That is, Jesus. It may
 be here observed that the proper names of the Old Testament are still
 used in the East. Ibrahim, Ismael, Yahya, Joossuf, Moossa, Daood,
 Suleiman, Issa, are Abraham, Ishmael, Jacob, Joseph, Moses, David,
@@ -330,4 +330,4 @@ Solomon, and Joshua, or Jesus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](sma07)
+[Next: Chapter V](sma07.md)

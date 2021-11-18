@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb07)  [Next](olfb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb07)  [Next](olfb09.md) 
 
 </div>
 
@@ -460,6 +460,6 @@ hard dried clay can be fired with considerable force and precision.
 
 ------------------------------------------------------------------------
 
-[Next: The Comb and the Collar](olfb09)
+[Next: The Comb and the Collar](olfb09.md)
 
 </div>

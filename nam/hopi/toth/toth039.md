@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth038)  [Next](toth040) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth038)  [Next](toth040.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 36. WATERMELON-RIND WOMAN (HÖLÖ'KOP WUHTI). <span id="fr_94"></span>[1](#fn_92)
+## 36. WATERMELON-RIND WOMAN (HÖLÖ'KOP WUHTI). <span id="fr_94"></span>[1](#fn_92.md)
 
 Halíksai! The people were living in Oraíbi. At the place where now old
 Qömáhoiniva lives, lived a very pretty maiden, who refused all offers of
@@ -96,7 +96,7 @@ wanted to see her, and said that she would not have a bridal costume on
 because nobody had prepared one for her. So they all went on their
 houses and waited for her. All at once the old grandmother accompanied
 the young bride to the ladder which the bride descended, and behold! she
-was dressed up in an ówa. <span id="fr_95"></span>[1](#fn_93) They were
+was dressed up in an ówa. <span id="fr_95"></span>[1](#fn_93.md) They were
 astonished, not having heard of any costume being prepared for her. The
 old grandmother sprinkled a road of corn meal for the bride and then the
 latter, carrying her bundle with the second ówa and the belt in front of
@@ -222,10 +222,10 @@ Woman, may still be living somewhere.
 
 ### Footnotes
 
-<span id="fn_92"></span>[131:1](toth039.htm#fr_94) Told by Wikvaya
+<span id="fn_92"></span>[131:1](toth039.htm#fr_94.md) Told by Wikvaya
 (Oraíbi).
 
-<span id="fn_93"></span>[133:1](toth039.htm#fr_95) A white blanket made
+<span id="fn_93"></span>[133:1](toth039.htm#fr_95.md) A white blanket made
 of cotton, two of which form a part of the bridal outfit. See "The
 Oraíbi Marriage Ceremony," by H. R Voth, published by the Field
 Columbian Museum.
@@ -233,4 +233,4 @@ Columbian Museum.
 ------------------------------------------------------------------------
 
 [Next: 37. The Youth And Maiden Who Played Hide And Seek For Their
-Life](toth040)
+Life](toth040.md)

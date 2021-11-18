@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre13)  [Next](vre15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre13)  [Next](vre15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -95,7 +95,7 @@ unwholesome privacy, and to give public status and universal right of
 way to its deliverances, has been reason's task.
 
 I believe that philosophy will always have opportunity to labor at this
-task. <span id="fr_284"></span>[1](#fn_284) We are thinking beings, and
+task. <span id="fr_284"></span>[1](#fn_284.md) We are thinking beings, and
 we cannot exclude the intellect from participating in any of our
 functions. Even in soliloquizing with ourselves, we construe our
 feelings intellectually. Both our personal ideals and our religious and
@@ -164,7 +164,7 @@ appeal to an objective standard. That which enters the heart must first
 be discerned by the intelligence to be *true*. It must be seen as having
 in its own nature a *right* to dominate feeling, and as constituting the
 principle by which feeling must be judged. <span
-id="fr_285"></span>[1](#fn_285) In estimating the religious character of
+id="fr_285"></span>[1](#fn_285.md) In estimating the religious character of
 individuals, nations, or races, the first question is, not how they
 feel, but what they think and believe—not whether their religion is one
 which manifests itself in emotions, more or less vehement and
@@ -172,11 +172,11 @@ enthusiastic, but what are the *conceptions* of God and divine things by
 which these emotions are called forth. Feeling is necessary in religion,
 but it is by the *content* or intelligent basis of a religion, and not
 by feeling, that its character and worth are to be determined." <span
-id="fr_286"></span>[2](#fn_286)
+id="fr_286"></span>[2](#fn_286.md)
 
 Cardinal Newman, in his work, The Idea of a University, gives more
 emphatic expression still to this disdain for sentiment. <span
-id="fr_287"></span>[3](#fn_287) Theology, he says, is a science in the
+id="fr_287"></span>[3](#fn_287.md) Theology, he says, is a science in the
 strictest sense of the word. I will tell you, he says, what it is
 not—not "physical evidences" for God, not "natural religion," for these
 are but vague subjective interpretations:—
@@ -236,7 +236,7 @@ life, in which our passions or our mystical intuitions fix our beliefs
 beforehand. It finds arguments for our conviction, for indeed it *has*
 to find them. It amplifies and defines our faith, and dignifies it and
 lends it words and plausibility. It hardly ever engenders it; it cannot
-now secure it. <span id="fr_288"></span>[1](#fn_288)
+now secure it. <span id="fr_288"></span>[1](#fn_288.md)
 
  
 
@@ -246,7 +246,7 @@ manuals, best of all in the innumerable text-books published since Pope
 Leo's Encyclical recommending the study of Saint Thomas. I glance first
 at the arguments by which dogmatic theology establishes God's existence,
 after that at those by which it establishes his nature. <span
-id="fr_289"></span>[2](#fn_289)
+id="fr_289"></span>[2](#fn_289.md)
 
 The arguments for God's existence have stood for hundreds of years with
 the waves of unbelieving criticism breaking against them, never totally
@@ -279,7 +279,7 @@ have revolutionized it. Conceived as we now conceive them, as so many
 fortunate escapes from almost limitless processes of destruction, the
 benevolent adaptations which we find in Nature suggest a deity very
 different from the one who figured in the earlier versions of the
-argument. <span id="fr_290"></span>[1](#fn_290) The fact is that these
+argument. <span id="fr_290"></span>[1](#fn_290.md) The fact is that these
 arguments
 
 <span id="page_429">p. 429</span>
@@ -341,7 +341,7 @@ however, they are absolutely and eternally in act, and their *object*,
 since God can be bounded by naught that is external, can primarily be
 nothing else than God himself. He knows himself, then, in one eternal
 indivisible act, and wills himself with an infinite self-pleasure. <span
-id="fr_291"></span>[295](#fn_291) Since He must of logical necessity
+id="fr_291"></span>[295](#fn_291.md) Since He must of logical necessity
 thus love and will himself, He cannot be called "free" *ad intra*, with
 the freedom of contrarieties that characterizes finite creatures. *Ad
 extra*, however, or with respect to his creation, God is free. He cannot
@@ -407,7 +407,7 @@ both Catholics and Protestants. Newman, filled with enthusiasm at God's
 list of perfections, continues the passage which I began to quote to you
 by a couple of pages of a rhetoric so magnificent that I can hardly
 refrain from adding them, in spite of the inroad they would make upon
-our time. <span id="fr_292"></span>[1](#fn_292) He first enumerates
+our time. <span id="fr_292"></span>[1](#fn_292.md) He first enumerates
 God's attributes sonorously, then celebrates his ownership of everything
 in earth and Heaven, and the dependence of all that happens upon his
 permissive will. He gives us scholastic philosophy "touched with
@@ -471,7 +471,7 @@ instinctively guided, and
 
 by singling it out as fundamental and giving to it a Greek name. He
 calls it the principle of *pragmatism*, and he defends it somewhat as
-follows: <span id="fr_293"></span>[1](#fn_293)—
+follows: <span id="fr_293"></span>[1](#fn_293.md)—
 
 Thought in movement has for its only conceivable motive the attainment
 of belief, or thought at rest. Only when our thought about a subject has
@@ -599,7 +599,7 @@ to the deity: "I will lay mine hand upon my mouth; I have heard of Thee
 by the hearing of the ear, but now mine eye seeth Thee." An intellect
 perplexed and baffled, yet a trustful sense of presence—such is the
 situation of the man who is sincere with himself and with the facts, but
-who remains religious still. <span id="fr_294"></span>[1](#fn_294)
+who remains religious still. <span id="fr_294"></span>[1](#fn_294.md)
 
 <span id="page_439">p. 439</span>
 
@@ -771,7 +771,7 @@ inner sphere in which his true life lies, the struggle is over, the
 victory already achieved. It is not a finite but an infinite life which
 the spirit lives. Every pulse-beat of its \[existence\] is the
 expression and realization of the life of God." <span
-id="fr_295"></span>[1](#fn_295)</span>
+id="fr_295"></span>[1](#fn_295.md)</span>
 
 You will readily admit that no description of the phenomena of the
 religious consciousness could be better than these words of your
@@ -801,7 +801,7 @@ convincing. The whole of Germany, one may say, has positively rejected
 the Hegelian argumentation. As for Scotland, I need only mention
 Professor Fraser's and Professor Pringle-Pattison's memorable
 criticisms, with which so many of you are familiar. <span
-id="fr_296"></span>[1](#fn_296) Once more, I ask, if transcendental
+id="fr_296"></span>[1](#fn_296.md) Once more, I ask, if transcendental
 idealism were
 
 <span id="page_445">p. 445</span>
@@ -897,20 +897,20 @@ it is a witness.
 
 ### Footnotes
 
-<span id="fn_284"></span>[423:1](vre14.htm#fr_284) Compare Professor
+<span id="fn_284"></span>[423:1](vre14.htm#fr_284.md) Compare Professor
 <span class="smallcaps">W. Wallace's</span> Gifford Lectures, in
 Lectures and Essays, Oxford, 1898, pp. 17 ff.
 
-<span id="fn_285"></span>[425:1](vre14.htm#fr_285) Op. cit., p. 174,
+<span id="fn_285"></span>[425:1](vre14.htm#fr_285.md) Op. cit., p. 174,
 abridged.
 
-<span id="fn_286"></span>[425:2](vre14.htm#fr_286) Ibid., p. 186,
+<span id="fn_286"></span>[425:2](vre14.htm#fr_286.md) Ibid., p. 186,
 abridged and italicized.
 
-<span id="fn_287"></span>[425:3](vre14.htm#fr_287) Discourse II. Section
+<span id="fn_287"></span>[425:3](vre14.htm#fr_287.md) Discourse II. Section
 7.
 
-<span id="fn_288"></span>[427:1](vre14.htm#fr_288) As regards the
+<span id="fn_288"></span>[427:1](vre14.htm#fr_288.md) As regards the
 secondary character of intellectual constructions, and the primacy of
 feeling and instinct in founding religious beliefs see the striking work
 of <span class="smallcaps">H. Fielding</span>, The Hearts of Men,
@@ -923,7 +923,7 @@ unknown causes, grammar must follow" (p. 313). The whole book, which
 keeps unusually close to concrete facts, is little more than an
 amplification of this text.
 
-<span id="fn_289"></span>[427:2](vre14.htm#fr_289) For convenience'
+<span id="fn_289"></span>[427:2](vre14.htm#fr_289.md) For convenience'
 sake, I follow the order of <span class="smallcaps">A. Stöckl's</span>
 Lehrbuch der Philosophie, 5te Auflage, Mainz, 1881, Band ii. <span
 class="smallcaps">B. Boedder's</span> Natural Theology, London, 1891, is
@@ -932,7 +932,7 @@ given by such Protestant theologians as <span class="smallcaps">C.
 Hodge</span>: Systematic Theology, New York, 1873, or A. H. Strong:
 Systematic Theology, 5th edition, New York, 1896.
 
-<span id="fn_290"></span>[428:1](vre14.htm#fr_290) It must not be
+<span id="fn_290"></span>[428:1](vre14.htm#fr_290.md) It must not be
 forgotten that any form of *dis*order in the world might, by the design
 argument, suggest a God for just that kind of disorder. The truth is
 that any state of things whatever that can be named is logically
@@ -990,17 +990,17 @@ against God follows, it follows that the argument for him will fail to
 constitute a knockdown proof of his existence. It will be convincing
 only to those who on other grounds believe in him already.
 
-<span id="fn_291"></span>[431:295](vre14.htm#fr_291) For the scholastics
+<span id="fn_291"></span>[431:295](vre14.htm#fr_291.md) For the scholastics
 the *facultas appetendi* embraces feeling, desire, and will.
 
-<span id="fn_292"></span>[433:1](vre14.htm#fr_292) Op. cit., Discourse
+<span id="fn_292"></span>[433:1](vre14.htm#fr_292.md) Op. cit., Discourse
 III. Section 7.
 
-<span id="fn_293"></span>[435:1](vre14.htm#fr_293) In an article, How to
+<span id="fn_293"></span>[435:1](vre14.htm#fr_293.md) In an article, How to
 make our Ideas Clear, in the Popular Science Monthly for January, 1878,
 vol. xii. p. 286.
 
-<span id="fn_294"></span>[438:1](vre14.htm#fr_294) Pragmatically, the
+<span id="fn_294"></span>[438:1](vre14.htm#fr_294.md) Pragmatically, the
 most important attribute of God is his punitive justice. But who, in the
 present state of theological opinion on that point, will dare maintain
 that hell fire or its equivalent in some shape is rendered certain by
@@ -1013,11 +1013,11 @@ ocean, should have been conceived and had its beams and rafters laid in
 technicalities of criminality, is incredible to our modern imagination.
 It weakens a religion to hear it argued upon such a basis.
 
-<span id="fn_295"></span>[443:1](vre14.htm#fr_295) John Caird: An
+<span id="fn_295"></span>[443:1](vre14.htm#fr_295.md) John Caird: An
 Introduction to the Philosophy of Religion London and New York, 1880,
 pp. 243-250, and 291-299, much abridged.
 
-<span id="fn_296"></span>[444:1](vre14.htm#fr_296) <span
+<span id="fn_296"></span>[444:1](vre14.htm#fr_296.md) <span
 class="smallcaps">A. C. Fraser</span>: Philosophy of Theism, second
 edition, Edinburgh and London, 1899, especially part ii, chaps. vii. and
 viii. <span class="smallcaps">A. Seth \[Pringle-Pattison\]</span>:
@@ -1046,4 +1046,4 @@ reproach of superficiality.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture XIX. Other Characteristics](vre15)
+[Next: Lecture XIX. Other Characteristics](vre15.md)

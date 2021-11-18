@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat08)  [Next](sat10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat08)  [Next](sat10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -75,7 +75,7 @@ eternal principles.
 all the three worlds, as an image of the Deity, in whom God dwelled; and
 he was even that essence what God is, according to eternity and time in
 all the three worlds; but he was a creature with a beginning, as to the
-creature, and died through the lubet <span id="fr_62"></span>[1](#fn_62)
+creature, and died through the lubet <span id="fr_62"></span>[1](#fn_62.md)
 as to the heavenly and divine essence: For the inward lubet, which was
 generated in the centre, viz. in the fire, wherein stood the life in the
 divine essentiality, that is, that which enkindled the essence of the
@@ -90,7 +90,7 @@ from the Son's property, in which alone the divine life consists.
 
 7\. Thus the property of the soul remained naked only with its will in
 the outward Sulphur, and the inward disappeared, and continued steadfast
-in the eternal unchangeableness, <span id="fr_63"></span>[2](#fn_63) as
+in the eternal unchangeableness, <span id="fr_63"></span>[2](#fn_63.md) as
 in an eternal nothing, wherein there was no more any effecting \[or
 working efficacy to bring to pass\].
 
@@ -117,7 +117,7 @@ dominion of time destroys its own contrived spirit, and so the body also
 dies and passes away; and this is that which God said to Adam, that "he
 should not eat of the tree, or plant, of the knowledge of good and
 evil," of both properties, lest he died; <span
-id="fr_64"></span>[1](#fn_64) as it also came to pass, he died in the
+id="fr_64"></span>[1](#fn_64.md) as it also came to pass, he died in the
 Sulphur; the Sul in the kingdom of God, viz. the lubet of the divine
 liberty, out of which the light of God shines, and in which the divine
 love, viz. the love-fire burns \[disappeared and withdrew from him\].
@@ -134,9 +134,9 @@ the wrathful death in the astringent fiat, viz. in the desire to nature,
 that the love-desire, which desires God, might be again enkindled in the
 soul.
 
-11\. For man's happiness <span id="fr_65"></span>[2](#fn_65) consists in
+11\. For man's happiness <span id="fr_65"></span>[2](#fn_65.md) consists in
 this, that he has in him a true desire <span
-id="fr_66"></span>[3](#fn_66) after God, for out of the desire springs
+id="fr_66"></span>[3](#fn_66.md) after God, for out of the desire springs
 forth the love; that is, when the desire receives the meekness of God
 into itself, then the desire immerses itself in the meekness, and
 becomes essential; and this is the heavenly or divine essentiality, or
@@ -148,12 +148,12 @@ sunshine.
 12\. And as this is done in man, so likewise it is in the transmutation
 of metals: The Sulphur is shut up in Saturn, viz. in the death, and yet
 there is no death, but a vegetative life; and the outward Mercury is the
-life thereof. <span id="fr_67"></span>[4](#fn_67) Now if the metalline
+life thereof. <span id="fr_67"></span>[4](#fn_67.md) Now if the metalline
 body shall come to the highest perfection, then it must die unto the
-external dominator, <span id="fr_68"></span>[5](#fn_68) viz. to the
+external dominator, <span id="fr_68"></span>[5](#fn_68.md) viz. to the
 elements, and come again into such a Sulphur as it was, when as yet it
 had not the four elements on it, but lay only in the element in
-unity. <span id="fr_69"></span>[6](#fn_69)
+unity. <span id="fr_69"></span>[6](#fn_69.md)
 
 <span id="page_46">p. 46</span>
 
@@ -167,7 +167,7 @@ into his own, and with his own fire separate the four elements from it,
 and reduce it into one; as God at the last day will in the enkindling of
 his own fire separate the essence of the four elements from the pure
 element, that the eternal corporality in the pure element may
-arise <span id="fr_70"></span>[1](#fn_70) and spring forth: And as in
+arise <span id="fr_70"></span>[1](#fn_70.md) and spring forth: And as in
 the death of man the four elements separate from the true man (who is
 the element of God) and the heavenly body remains only in itself; so it
 goes in the transmutation of metals.
@@ -195,7 +195,7 @@ freed from the anguish of hell; but this he cannot obtain of himself,
 for he is shut up in the anger of God; and his dear mother, which nursed
 him in the beginning, is also shut up in death: But if God shews his
 grace, and gives him again of his love, then the anger is dismayed at
-the love; <span id="fr_71"></span>[2](#fn_71) and this is a flagrat of
+the love; <span id="fr_71"></span>[2](#fn_71.md) and this is a flagrat of
 great joy: For he again tastes the sweetness
 
 <span id="page_47">p. 47</span>
@@ -207,16 +207,16 @@ old Adam, and cast it away from him.
 16\. So the artist takes him presently away with the old Adam from the
 strange anger, and lays him in a soft bed; for the old Adam is sick, and
 will die; and then his own faber in the old Adam is in the love of
-God, <span id="fr_72"></span>[1](#fn_72) which destroyed the anger, and
+God, <span id="fr_72"></span>[1](#fn_72.md) which destroyed the anger, and
 will make a young child, and rejoices in the child; and the old Adam
 grows sick, and weak, wholly dark, and swarthish, and dies; and the four
-elements go out <span id="fr_73"></span>[2](#fn_73) from him with their
+elements go out <span id="fr_73"></span>[2](#fn_73.md) from him with their
 colours: So the faber gives him even leave to go, and continually
 labours on the new body, which shall arise from death; and none sees his
 labour, for he works in the dark.
 
 17\. But the artist takes no care about the work, <span
-id="fr_74"></span>[3](#fn_74) but gives the faber his own food, till he
+id="fr_74"></span>[3](#fn_74.md) but gives the faber his own food, till he
 sees that a vegetative life appears in the dark death with a new colour
 out of the black; and then, when the new man is ready, the artist comes,
 and brings the soul, and gives it the faber; at which the faber is
@@ -237,33 +237,33 @@ A chosen work thou hast, howe’er the world may scorn.</span>
 
 ### Footnotes
 
-<span id="fn_62"></span>[44:1](sat09.htm#fr_62) Lust.
+<span id="fn_62"></span>[44:1](sat09.htm#fr_62.md) Lust.
 
-<span id="fn_63"></span>[44:2](sat09.htm#fr_63) Or immobility.
+<span id="fn_63"></span>[44:2](sat09.htm#fr_63.md) Or immobility.
 
-<span id="fn_64"></span>[45:1](sat09.htm#fr_64) Or he should die.
+<span id="fn_64"></span>[45:1](sat09.htm#fr_64.md) Or he should die.
 
-<span id="fn_65"></span>[45:2](sat09.htm#fr_65) Salvation.
+<span id="fn_65"></span>[45:2](sat09.htm#fr_65.md) Salvation.
 
-<span id="fn_66"></span>[45:3](sat09.htm#fr_66) An upright, full, and
+<span id="fn_66"></span>[45:3](sat09.htm#fr_66.md) An upright, full, and
 unfeigned desire.
 
-<span id="fn_67"></span>[45:4](sat09.htm#fr_67) Or therein.
+<span id="fn_67"></span>[45:4](sat09.htm#fr_67.md) Or therein.
 
-<span id="fn_68"></span>[45:5](sat09.htm#fr_68) Leader.
+<span id="fn_68"></span>[45:5](sat09.htm#fr_68.md) Leader.
 
-<span id="fn_69"></span>[45:6](sat09.htm#fr_69) In one.
+<span id="fn_69"></span>[45:6](sat09.htm#fr_69.md) In one.
 
-<span id="fn_70"></span>[46:1](sat09.htm#fr_70) Begin.
+<span id="fn_70"></span>[46:1](sat09.htm#fr_70.md) Begin.
 
-<span id="fn_71"></span>[46:2](sat09.htm#fr_71) Or in the divine love.
+<span id="fn_71"></span>[46:2](sat09.htm#fr_71.md) Or in the divine love.
 
-<span id="fn_72"></span>[47:1](sat09.htm#fr_72) Or upon the love of God.
+<span id="fn_72"></span>[47:1](sat09.htm#fr_72.md) Or upon the love of God.
 
-<span id="fn_73"></span>[47:2](sat09.htm#fr_73) Depart.
+<span id="fn_73"></span>[47:2](sat09.htm#fr_73.md) Depart.
 
-<span id="fn_74"></span>[47:3](sat09.htm#fr_74) Labour.
+<span id="fn_74"></span>[47:3](sat09.htm#fr_74.md) Labour.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](sat10)
+[Next: Chapter VI](sat10.md)

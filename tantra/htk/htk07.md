@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk06)  [Next](htk08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk06)  [Next](htk08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -27,15 +27,15 @@ at Intangible Textual Heritage
 
 ### VERSE 3
 
-O KĀLIKĀ, O auspicious Kālikā <span id="fr_26"></span>[1](#fn_26) with
-dishevelled hair, <span id="fr_27"></span>[2](#fn_27) from the corners
+O KĀLIKĀ, O auspicious Kālikā <span id="fr_26"></span>[1](#fn_26.md) with
+dishevelled hair, <span id="fr_27"></span>[2](#fn_27.md) from the corners
 of whose mouth two streams of blood trickle, <span
-id="fr_28"></span>[3](#fn_28) they who recite another doubled *Bīja* of
-Thine composed of *Īśa*, <span id="fr_29"></span>[4](#fn_29)
-*Vaiśvānara*, <span id="fr_30"></span>[5](#fn_30) *Vāmanetra*, <span
-id="fr_31"></span>[6](#fn_31) and the lustrous Bindu, <span
-id="fr_32"></span>[7](#fn_32) destroy all their enemies, and bring under
-their subjection the three worlds. <span id="fr_33"></span>[8](#fn_33)
+id="fr_28"></span>[3](#fn_28.md) they who recite another doubled *Bīja* of
+Thine composed of *Īśa*, <span id="fr_29"></span>[4](#fn_29.md)
+*Vaiśvānara*, <span id="fr_30"></span>[5](#fn_30.md) *Vāmanetra*, <span
+id="fr_31"></span>[6](#fn_31.md) and the lustrous Bindu, <span
+id="fr_32"></span>[7](#fn_32.md) destroy all their enemies, and bring under
+their subjection the three worlds. <span id="fr_33"></span>[8](#fn_33.md)
 
 COMMENTARY
 
@@ -43,7 +43,7 @@ COMMENTARY
 
 Ka is Brahmā, A is Ananta, La is Ātmā of the universe, I is subtle, Ka
 is Brahmā, A is Ananta. (Tantrābhidāna). Thus it is said that Mahādevī
-is the subtle, beginningless and endless Ātmā [of](errata.htm#8) the
+is the subtle, beginningless and endless Ātmā [of](errata.htm#8.md) the
 universe. 'Thou who art Brahman without beginning or end.' In the
 Asitāstotra in the Adbhutarāmāyaṇa Śrī Rama says, 'I bow to that Thine
 aspect which is Puruṣa without beginning and end, the unmanifest
@@ -139,7 +139,7 @@ after 'E' in Saṁdhi are Śakuntaleti and Meghajāle’pi Kāliketi.\]
 
 ### Footnotes
 
-<span id="fn_26"></span>[50:1](htk07.htm#fr_26) <span id="page_52">p.
+<span id="fn_26"></span>[50:1](htk07.htm#fr_26.md) <span id="page_52">p.
 52</span> The Devī. See Mahānirvāṇa-Tantra, chap. xiii and chap. iv,
 verse 31: 'At the dissolution of things it is Kāla who will devour all,
 and by reason of this He is called Mahākāla; and since Thou devourest
@@ -147,10 +147,10 @@ Mahākāla Himself, it is Thou who art the supreme primordial Kālikā'.
 
 *Kālikā* is *Brahmarūpiṇī* (V).
 
-<span id="fn_27"></span>[50:2](htk07.htm#fr_27) *Vigalitacikure*, as is
+<span id="fn_27"></span>[50:2](htk07.htm#fr_27.md) *Vigalitacikure*, as is
 the worshipped *nāyikā*. See *post*.
 
-<span id="fn_28"></span>[50:3](htk07.htm#fr_28)
+<span id="fn_28"></span>[50:3](htk07.htm#fr_28.md)
 *Sṛkkadvandvāsradhārādvayadharavadane*. Kālī is so represented as having
 devoured the flesh of the demons. The Mahānirvāṇa-Tantra, chap. xiii,
 verse 9, says: 'As She devours all existence, as She chews all things
@@ -158,21 +158,21 @@ existing with Her fierce teeth, therefore, a mass of blood is imagined
 to be the apparel of the Queen of the *Devas*.' Esoterically blood is
 Rajas Guṇa.
 
-<span id="fn_29"></span>[50:4](htk07.htm#fr_29) That is, *Ha*, as to
+<span id="fn_29"></span>[50:4](htk07.htm#fr_29.md) That is, *Ha*, as to
 which see Kāmadhenu-Tantra, chap. ii; and Prānatoṣinī, 53 *et seq*.
 
-<span id="fn_30"></span>[50:5](htk07.htm#fr_30) Lord of Fire, whose
+<span id="fn_30"></span>[50:5](htk07.htm#fr_30.md) Lord of Fire, whose
 *Bīja* is *Ra*.
 
-<span id="fn_31"></span>[50:6](htk07.htm#fr_31) 'Left eye,' or fourth
+<span id="fn_31"></span>[50:6](htk07.htm#fr_31.md) 'Left eye,' or fourth
 vowel long *ī*.
 
-<span id="fn_32"></span>[50:7](htk07.htm#fr_32) *Nāda-bindu*; the Bīja
+<span id="fn_32"></span>[50:7](htk07.htm#fr_32.md) *Nāda-bindu*; the Bīja
 is thus *H* + *r* + *ī* + *m* = *Hrīṁ Hrīṁ*. In Svatantra-Tantra *Ha*
 (*Vyoṃa*) is said to denote manifestation; *Ra* (*Vahni*) is involution;
 and Ī maintenance of the worlds.
 
-<span id="fn_33"></span>[50:8](htk07.htm#fr_33) The earth, upper and
+<span id="fn_33"></span>[50:8](htk07.htm#fr_33.md) The earth, upper and
 nether worlds (see Viśvasāra-Tantra and Phetkāriṇī-Tantra).
 *Tribhuvanaṁ*, that is *Devas*, *Men*, *Nāgas* and so forth inhabiting
 *Svarga* (Heaven), *Martya* (Earth) and *Pātāla* (Nether world) (V).
@@ -181,6 +181,6 @@ nether worlds (see Viśvasāra-Tantra and Phetkāriṇī-Tantra).
 
 ------------------------------------------------------------------------
 
-[Next: Verse 4](htk08)
+[Next: Verse 4](htk08.md)
 
 </div>

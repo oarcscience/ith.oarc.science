@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](b2bomber)  [Next](bestevid) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](b2bomber)  [Next](bestevid.md) 
 
 ### The Bermuda Triangle and Parapsychology
 
@@ -81,4 +81,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: UFO Briefing Document Shows 'Best Available Evidence'](bestevid)
+[Next: UFO Briefing Document Shows 'Best Available Evidence'](bestevid.md)

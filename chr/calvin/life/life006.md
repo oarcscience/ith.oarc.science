@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](life005)  [Next](life007) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](life005)  [Next](life007.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,8 +36,8 @@ can be no doubt that we are to use its blessings only in so far as they
 assist our progress, rather than retard it. Accordingly, Paul, not
 without cause, admonishes us to use this world without abusing it, and
 to buy possessions as if we were selling them, (<span
-id="vii-p2.1"></span>[1 Cor. 7:30](../../../bib/kjv/co1007.htm#030),
-[31](../../../bib/kjv/co1007.htm#031)<span id="vii-p2.1"></span>.) But
+id="vii-p2.1"></span>[1 Cor. 7:30](../../../bib/kjv/co1007.htm#030.md),
+[31](../../../bib/kjv/co1007.htm#031)<span id="vii-p2.1"></span>..md) But
 as this is a slippery place, and there is great danger of falling on
 either side, let us fix our feet where we can stand safely. There have
 been some good and holy men who, when they saw intemperance and luxury
@@ -47,7 +47,7 @@ method than to allow man to use corporeal goods only in so far as they
 were necessaries: a counsel pious indeed, but unnecessarily austere; for
 it does the very dangerous thing of binding consciences in closer
 fetters than those in which they are bound by the word of God. Moreover,
-necessity, according to them, <span id="fr_14"></span>[15](#fn_14) was
+necessity, according to them, <span id="fr_14"></span>[15](#fn_14.md) was
 abstinence from every thing which could be wanted, so that they held it
 scarcely lawful to make any addition to bread and water. Others were
 still more austere, as is related of Cratetes the Theban, who threw his
@@ -74,7 +74,7 @@ honour; and in herbs, fruits, and trees, besides their various uses,
 gracefulness of appearance and sweetness of smell. Were it not so, the
 Prophet would not enumerate among the mercies of God “wine that maketh
 glad the heart of man, and oil to make his face to shine,” (<span
-id="vii-p3.1"></span>[Ps. civ. 15](../../../bib/kjv/psa004.htm#015)<span
+id="vii-p3.1"></span>[Ps. civ. 15](../../../bib/kjv/psa004.htm#015.md)<span
 id="vii-p3.1"></span>.) The Scriptures would not everywhere mention, in
 commendation of his benignity, that he had given such things to men. The
 natural qualities of things themselves demonstrate to what end, and how
@@ -115,7 +115,7 @@ other matters. Wherefore, it is plain that there is here great necessity
 for curbing licentious abuse, and conforming to the rule of Paul, “make
 not provision for the flesh to fulfil the lusts thereof,” (<span
 id="vii-p4.1"></span>[Rom. xiii.
-14](../../../bib/kjv/rom013.htm#014)<span id="vii-p4.1"></span>.) Where
+14](../../../bib/kjv/rom013.htm#014)<span id="vii-p4.1"></span>..md) Where
 too much liberty is given to them, they break forth without measure or
 restraint.
 
@@ -124,8 +124,8 @@ accomplishing this than by despising the present life and aspiring to
 celestial immortality. For hence two rules arise: First, “it remaineth,
 that both they that have wives be as though they had none;\#8221; “and
 they that use this world, as not abusing it,” (<span
-id="vii-p5.1"></span>[1 Cor. 7:29](../../../bib/kjv/co1007.htm#029),
-[31](../../../bib/kjv/co1007.htm#031)<span id="vii-p5.1"></span>.)
+id="vii-p5.1"></span>[1 Cor. 7:29](../../../bib/kjv/co1007.htm#029.md),
+[31](../../../bib/kjv/co1007.htm#031)<span id="vii-p5.1"></span>..md)
 Secondly, we must learn to be no less placid and patient in enduring
 penury, than moderate in enjoying abundance. He who makes it his rule to
 use this world as if he used it not, not only cuts off all gluttony in
@@ -133,7 +133,7 @@ regard to meat and drink, and all effeminacy, ambition, pride, excessive
 shows and austerity, in regard to his table, his house, and his clothes,
 but removes every care and affection which might withdraw or hinder him
 from aspiring to the heavenly life, and cultivating the interest of his
-soul. <span id="fr_15"></span>[16](#fn_15) It was well said by Cato:
+soul. <span id="fr_15"></span>[16](#fn_15.md) It was well said by Cato:
 Luxury causes great care, and produces great carelessness as to virtue;
 and it is an old proverb,—Those who are much occupied with the care of
 the body, usually give little care to the soul. Therefore while the
@@ -159,7 +159,7 @@ Let it be the aim of all who have any unfeigned desire for piety to
 learn, after the example of the Apostle, “both to be full and to be
 hungry, both to abound and to suffer need,” (<span
 id="vii-p6.1"></span>[Philip. iv.
-12](../../../bib/kjv/phi004.htm#012)<span id="vii-p6.1"></span>.)
+12](../../../bib/kjv/phi004.htm#012)<span id="vii-p6.1"></span>..md)
 Scripture, moreover, has a third rule for modifying the use of earthly
 blessings. We have already adverted to it when considering the offices
 of charity. For it declares that they have all been given us by the
@@ -218,15 +218,15 @@ eye of God.
 
 ### Footnotes
 
-<span id="fn_14"></span>[15](life006.htm#fr_14) <span
+<span id="fn_14"></span>[15](life006.htm#fr_14.md) <span
 id="vii-p2.2"></span>See Chrysost. ad Heb. Hi. As to Cratetes the
 Theban, see Plutarch, Lib. de Vitand. aere alien. and Philostratus in
 Vita Apollonii.
 
-<span id="fn_15"></span>[16](life006.htm#fr_15) <span
+<span id="fn_15"></span>[16](life006.htm#fr_15.md) <span
 id="vii-p5.2"></span>French, “<span id="vii-p5.3"></span>Parer notre ame
 de ses vrais ornemens;”—deck our soul with its true ornaments.
 
 ------------------------------------------------------------------------
 
-[Next: Indexes](life007)
+[Next: Indexes](life007.md)

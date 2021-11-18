@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb08)  [Next](orfb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb08)  [Next](orfb10.md) 
 
 </div>
 
@@ -375,6 +375,6 @@ friendship. Thus all things prospered with Ian Direach till he died.
 
 ------------------------------------------------------------------------
 
-[Next: The Ugly Duckling](orfb10)
+[Next: The Ugly Duckling](orfb10.md)
 
 </div>

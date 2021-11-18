@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng43)  [Next](vlsng45) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng43)  [Next](vlsng45.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ ENDNOTE:
 ------------------------------------------------------------------------
 
 [Next: Chapter XLIII: The Latter End of all the Kin of the
-Giukings.](vlsng45)
+Giukings.](vlsng45.md)

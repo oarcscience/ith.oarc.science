@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms03)  [Next](jms05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms03)  [Next](jms05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -86,7 +86,7 @@ richest proportions in the thirteenth century, with the school of Judah
 the Pious. At the same time many beliefs and practices, as well as
 technical terms, were assimilated from French and German folklore,
 making a strong impression without, however, affecting the essential
-quality of the Jewish doctrine.[1](jms23.htm#an_2_1)
+quality of the Jewish doctrine.[1](jms23.htm#an_2_1.md)
 
 #### THE MAGICIAN
 
@@ -129,7 +129,7 @@ eyeballs, and that their power remains with them only so long as their
 feet are in contact with the ground, are to be found in Jewish writings
 as well. Indeed, one Jewish author suggested without a smile that for
 this reason the only way to deal with sorcerers is to "suspend them
-between heaven and earth"![2](jms23.htm#an_2_2)
+between heaven and earth"![2](jms23.htm#an_2_2.md)
 
 The popular notion of the witch, which was in the making as early as the
 eleventh century, is likewise reflected in the Jewish sources, but the
@@ -168,7 +168,7 @@ when the paws of a pseudo-wolf are amputated the witch or magician
 appears minus hands and feet." His comment that "it is well known that
 all sorcerers and witches make a compact with the demons and deliver
 their souls over to them" is the leit-motif of medieval
-sorcery.[3](jms23.htm#an_2_3)
+sorcery.[3](jms23.htm#an_2_3.md)
 
 Though these ideas, taken over bodily from Christian superstition, occur
 from time to time in Jewish works, most writers make it clear that they
@@ -183,7 +183,7 @@ children is being buried one should observe whether her mouth is open,
 for if it is she will persist in her vampirish pursuits for another year
 unless it is stopped up with earth. These remarks imply that Jewish
 communities suspected the presence of witches in their
-midst.[4](jms23.htm#an_2_4)
+midst.[4](jms23.htm#an_2_4.md)
 
 But a study of the Hebrew sources, and of the factors that influenced
 
@@ -261,7 +261,7 @@ and profound departure from earlier methods.
 Now to revert to our original question: Who was the Jewish magician?
 According to ancient Jewish tradition, which was heartily seconded in
 the Middle Ages, women are inordinately prone to the pursuit of the
-magical arts.[5](jms23.htm#an_2_5) Yet, however true this dictum may
+magical arts.[5](jms23.htm#an_2_5.md) Yet, however true this dictum may
 once have been, their activity in magic proper was now narrowly
 restricted by virtue of the esoteric and learned base of that magic.
 
@@ -298,7 +298,7 @@ dangers of invoking the spirits without an adequate education in
 mysticism were frequently stressed, and the possessor of esoteric
 traditions and writings was sternly counselled to keep them hidden from
 the common glance, lest they be misused, and to pass them on only to a
-select circle.[6](jms23.htm#an_2_6)
+select circle.[6](jms23.htm#an_2_6.md)
 
 Early mystical and magical lore was successfully guarded by a limited
 oral transmission. The secret lore of the German school, founded by the
@@ -337,7 +337,7 @@ form, the invocation of names, and moved farther and farther away as it
 embodied a hodge-podge of ancient and medieval, Jewish and foreign
 elements. While Kabbalists themselves limited the term to
 name-invocation, in popular usage it was generic for the entire corpus
-of Jewish magic.[7](jms23.htm#an_2_7)
+of Jewish magic.[7](jms23.htm#an_2_7.md)
 
 "The Germans, lacking in philosophical training, exerted all the greater
 influence on the practical Kabbalah, as well as on ecstatic mysticism."
@@ -345,7 +345,7 @@ Their school stressed the inner significance and higher mystical values
 of Hebrew words and letters—going to the extent of counting the words in
 the prayer-book so that none might fall out or be altered—and the rôle
 of *Kavvanah*, a profound concentration upon these inner values, in
-bringing to fruition their mystical promise.[8](jms23.htm#an_2_8) Here
+bringing to fruition their mystical promise.[8](jms23.htm#an_2_8.md) Here
 we have the heart of the teaching concerning magical names, which, while
 adumbrated in the Talmud and developed in the Geonic period, reached its
 choicest and richest flowering in the doctrines of this school. What was
@@ -370,7 +370,7 @@ Eleazar of Worms, Eliezer b. Nathan of Mainz, heirs of the Kalonymide
 lore, and even such non-mystics as Rashi and his grandson R. Tam, Yeḥiel
 of Paris and his pupil Meir of Rothenburg, renowned for their Talmudic
 scholarship, stand out in the legends as the greatest miracle workers of
-the period.[9](jms23.htm#an_2_9)
+the period.[9](jms23.htm#an_2_9.md)
 
 #### FORBIDDEN AND PERMITTED
 
@@ -403,7 +403,7 @@ practitioner of the first type merits the Biblical penalty of death; the
 second is forbidden but not so punishable. Still a third kind of magic,
 "permitted from the start," involved the use of "the Laws of Creation,"
 a term which was later interpreted to signify the mystical names of God
-and the angels.[10](jms23.htm#an_2_10)
+and the angels.[10](jms23.htm#an_2_10.md)
 
 So stated, the distinction between the first two is far from clear
 
@@ -432,12 +432,12 @@ action may not be characterized as 'magic' unless it consists of taking
 hold of a thing and manipulating it, that is, if it is the performance
 of a deed, or an incantation that does not include an invocation of
 spirits, but invoking demons is permitted *ab
-initio*."[11](jms23.htm#an_2_11) It is evident that medieval authorities
+initio*."[11](jms23.htm#an_2_11.md) It is evident that medieval authorities
 regarded the category of "magic" as altogether distinct and different
 from the others, and correctly so, but I know of only one clear-cut
 statement of the principle of difference, by Moses Isserles. The
 counterfeit type of magic also appeared often in the
-discussions.[12](jms23.htm#an_2_12) It provided a convenient dodge to
+discussions.[12](jms23.htm#an_2_12.md) It provided a convenient dodge to
 get around the legal difficulties and cast a halo of respectability
 about the current forms, whose effects were described as not real at all
 but entirely illusory. But this road, too, was not quite smooth, for the
@@ -446,7 +446,7 @@ crowd angel-and name-magic off the right-of-way. In short, the Talmudic
 classification plagued the efforts of medieval codifiers to bring the
 law into relation with contemporary procedures. Yet, from a practical
 standpoint, they succeeded in effectively excluding from the proscribed
-magic" all the forms current among Jews.[13](jms23.htm#an_2_13)
+magic" all the forms current among Jews.[13](jms23.htm#an_2_13.md)
 
 Moses Isserles brings us closer to an understanding of what the
 
@@ -480,7 +480,7 @@ homoeopathic or imitative, and contagious; "both branches," he wrote,
 magic, since both assume that things act on each other at a distance
 through a secret sympathy." And again, "This belief in the sympathetic
 influence exerted on each other by persons or things at a distance is of
-the essence of magic."[14](jms23.htm#an_2_14)
+the essence of magic."[14](jms23.htm#an_2_14.md)
 
 It is characteristic of magic that with the advance of religious thought
 and the recognition of a spirit world, it tends to move closer to
@@ -533,7 +533,7 @@ of the incense that magicians burn to the demons; but I have heard
 another explanation, that *nigre* means 'black,' and this is why the
 Germans call it *Schwarzkunst*." As an example of *nigromancia* he cited
 "those who offer up their sperm to the spirits or demons with
-appropriate incantations."[15](jms23.htm#an_2_15)
+appropriate incantations."[15](jms23.htm#an_2_15.md)
 
 <span id="page_23">p. 23</span>
 
@@ -546,7 +546,7 @@ black cat from which he shied away nervously. One of his students,
 observing this, twitted him, "You're not really afraid of a black cat,
 Professor!" "No," he replied indignantly, "of course I don't believe in
 such nonsense. But there's no harm in being careful." He might have been
-quoting *Sefer Ḥasidim:*[16](jms23.htm#an_2_16) "One should not believe
+quoting *Sefer Ḥasidim:*[16](jms23.htm#an_2_16.md) "One should not believe
 in superstitions, but still it is best to be heedful of them." This
 qualified skepticism was the farthest advance toward the modern spirit
 on the part of the religious authorities; the masses, if we may judge
@@ -558,7 +558,7 @@ the rabbis. The Jewry of Southern Europe owned several daring spirits
 who uncompromisingly stigmatized magic and superstition as "folly" and
 "untruth," but in the Germanic lands none dared go so far, though a few
 singled out one or another phase of magic for their contempt, or proved
-themselves free of one or another [superstition](errata.htm#0) by their
+themselves free of one or another [superstition](errata.htm#0.md) by their
 actions. The authorities, whose religious convictions and position
 obliged them to voice at least half-hearted disapproval, could do no
 more than threaten the practitioners of magic with disaster. They would
@@ -567,14 +567,14 @@ momentarily enslaved, or by the wrath of God. According to some, it was
 the prevalence of superstition and magic among the Jews that delayed the
 redemption of Israel from exile. One opinion had it: "If you see a Jew
 who apostatized neither because of love nor through compulsion, you may
-know that he or his parents engaged in sorcery."[17](jms23.htm#an_2_17)
+know that he or his parents engaged in sorcery."[17](jms23.htm#an_2_17.md)
 Sometimes the rabbis sought to counteract the influence of traditionally
 received techniques by arguing that they were no longer applicable, "for
 it is known that nature varies from place to place and from time to
 time," or on the ground that the requisite skill had been lost. Often
 they tried to soften the impact of superstitious practices by
 re-interpretation, by injecting religious meaning into
-them.[18](jms23.htm#an_2_18) But the validity of superstition and magic
+them.[18](jms23.htm#an_2_18.md) But the validity of superstition and magic
 was universally accepted, and the very rabbis who deprecated them were
 often obliged to condone them also. Moreover no matter
 
@@ -592,14 +592,14 @@ their unhesitating acceptance of the truth and power of magic. Whatever
 faith in an all-powerful God may have taught them to the contrary, the
 common people believed in the might of the magician and stood in awe of
 him. "If anyone quarrels with a sorcerer he has brought his death on
-himself."[19](jms23.htm#an_2_19) The addiction to superstition and magic
+himself."[19](jms23.htm#an_2_19.md) The addiction to superstition and magic
 of the German pietists and mystics became a byword in the south of
 Europe and scandalized more than one pious Spanish-Jewish
-writer.[20](jms23.htm#an_2_20)
+writer.[20](jms23.htm#an_2_20.md)
 
 Yet we meet at the same time, recognition of a profound psychological
 truth, far in advance of the spirit of the age: "Superstitions can harm
-only those who heed them."[21](jms23.htm#an_2_21) It requires more
+only those who heed them."[21](jms23.htm#an_2_21.md) It requires more
 courage and skepticism than the Middle Ages could lay claim to (or than
 we can boast even today, for that matter) to be free of the yoke that
 superstition and magic saddle upon the credulous masses. The material
@@ -620,4 +620,4 @@ popular of magical exercises.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Powers of Evil](jms05)
+[Next: 3. The Powers of Evil](jms05.md)

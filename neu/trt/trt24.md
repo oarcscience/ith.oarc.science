@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt23)  [Next](trt25) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt23)  [Next](trt25.md) 
 
 ------------------------------------------------------------------------
 
@@ -580,4 +580,4 @@ fitting.'
 
 ------------------------------------------------------------------------
 
-[Next: Lancelot and Guenevere](trt25)
+[Next: Lancelot and Guenevere](trt25.md)

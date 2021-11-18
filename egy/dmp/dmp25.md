@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp24)  [Next](dmp26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp24)  [Next](dmp26.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ pronounce.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XXIII](dmp26)
+[Next: Col. XXIII](dmp26.md)

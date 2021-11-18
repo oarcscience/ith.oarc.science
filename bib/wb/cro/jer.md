@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](isa)  [Next](lam) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](isa)  [Next](lam.md) 
 
 ------------------------------------------------------------------------
 
@@ -5115,4 +5115,4 @@ babilonski mu je kralj trajno, iz dana u dan, davao uzdržavanje.
 
 ------------------------------------------------------------------------
 
-[Next: Lamentations](lam)
+[Next: Lamentations](lam.md)

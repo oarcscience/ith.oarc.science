@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,8 +24,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sob00)    [Page
-Index](pageidx)    [Text \[Zipped\]](sob.txt.gz)
+[Contents](#contents)    [Start Reading](sob00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](sob.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -35,21 +35,21 @@ Index](pageidx)    [Text \[Zipped\]](sob.txt.gz)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sob00)  
-[Table of Contents](sob01)  
-[Chapter I. Salaam](sob02)  
-[Chapter II. Breath Is Life](sob03)  
-[Chapter III. The Exoteric Theory of Breath](sob04)  
-[Chapter IV. The Esoteric Theory of Breath](sob05)  
-[Chapter V. The Nervous System](sob06)  
-[Chapter VI. Nostril-Breathing vs. Mouth-Breathing](sob07)  
-[Chapter VII. The Four Methods of Respiration](sob08)  
-[Chapter VIII. How to Acquire the Yogi Complete Breath](sob09)  
-[Chapter IX. Physiological Effect of the Complete Breath](sob10)  
-[Chapter X. A Few Bits of Yogi Lore](sob11)  
-[Chapter XI. The Seven Yogi Developing Exercises](sob12)  
-[Chapter XII. Seven Minor Yogi Exercises](sob13)  
-[Chapter XIII. Vibration and Yogi Rhythmic Breathing](sob14)  
-[Chapter XIV. Phenomena of Yogi Psychic Breathing](sob15)  
-[Chapter XV. More Phenomena of Yogi Psychic Breathing](sob16)  
-[Chapter XVI. Yogi Spiritual Breathing](sob17)  
+<span id="contents"></span> [Title Page](sob00.md)  
+[Table of Contents](sob01.md)  
+[Chapter I. Salaam](sob02.md)  
+[Chapter II. Breath Is Life](sob03.md)  
+[Chapter III. The Exoteric Theory of Breath](sob04.md)  
+[Chapter IV. The Esoteric Theory of Breath](sob05.md)  
+[Chapter V. The Nervous System](sob06.md)  
+[Chapter VI. Nostril-Breathing vs. Mouth-Breathing](sob07.md)  
+[Chapter VII. The Four Methods of Respiration](sob08.md)  
+[Chapter VIII. How to Acquire the Yogi Complete Breath](sob09.md)  
+[Chapter IX. Physiological Effect of the Complete Breath](sob10.md)  
+[Chapter X. A Few Bits of Yogi Lore](sob11.md)  
+[Chapter XI. The Seven Yogi Developing Exercises](sob12.md)  
+[Chapter XII. Seven Minor Yogi Exercises](sob13.md)  
+[Chapter XIII. Vibration and Yogi Rhythmic Breathing](sob14.md)  
+[Chapter XIV. Phenomena of Yogi Psychic Breathing](sob15.md)  
+[Chapter XV. More Phenomena of Yogi Psychic Breathing](sob16.md)  
+[Chapter XVI. Yogi Spiritual Breathing](sob17.md)  

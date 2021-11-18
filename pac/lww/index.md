@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [The Pacific](../index)
+[Sacred-Texts](../../index) [The Pacific](../index.md)
 
 ------------------------------------------------------------------------
 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](siim02)  [Next](siim04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](siim02)  [Next](siim04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Studies in Islamic Mysticism*, by Reynold A. Nicholson, \[1921\], at
 Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ with the request of some novices that he should write an account of the
 spiritual experiences and memorable sayings of Shaykh Abú Sa‘íd, for the
 encouragement of those who desired to enter upon the Path (*ṭaríqa*) and
 for the guidance of those who were travelling on the road of the Truth
-(*ḥaqíqa*) <span id="fr_2"></span>[1](#fn_2). Abú Sa‘íd died in <span
+(*ḥaqíqa*) <span id="fr_2"></span>[1](#fn_2.md). Abú Sa‘íd died in <span
 class="smallcaps">a.d.</span> 1049, and the *Asráru ’l-tawḥíd* was
 probably completed not less than 120 or more than 150 years later. As
 Zhukovski points out, it is almost the first example in Persian of a
@@ -94,11 +94,11 @@ in suspense.
 
 The *Ḥálát ú Sukhunán* and the *Asráru ’l-tawḥíd* render the more recent
 biographies of Abú Sa‘íd all but superfluous <span
-id="fr_3"></span>[1](siim04.htm#fn_3). A certain amount of new material
+id="fr_3"></span>[1](siim04.htm#fn_3.md). A certain amount of new material
 is found in the Supplement to Farídu’ddín ‘Aṭṭár's *Tadhkiratu
 ’l-Awliyá* (vol. II of my edition, pp. 322-337) and Jámí's *Nafaḥátu
 ’l-Uns* (ed. by Nassau Lees, No. 366) <span
-id="fr_4"></span>[2](siim04.htm#fn_4).
+id="fr_4"></span>[2](siim04.htm#fn_4.md).
 
 For the sake of clearness, I have divided the following study into three
 sections, of which the first deals with the life of Abú Sa‘íd, the
@@ -109,8 +109,8 @@ miracles and other matter belonging to his legend.
 
 ### Footnotes
 
-<span id="fn_2"></span>[2:1](siim03.htm#fr_2) *Asrár*, 4, 16-6, 5.
+<span id="fn_2"></span>[2:1](siim03.htm#fr_2.md) *Asrár*, 4, 16-6, 5.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](siim04)
+[Next: Part I](siim04.md)

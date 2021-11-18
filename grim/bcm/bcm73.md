@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm72)  [Next](bcm74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm72)  [Next](bcm74.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,9 +35,9 @@ words must be committed to memory: SCABOLES, HABRION,
 \[paragraph continues\] ELÆ, ELIMIGIT, GABOLII, SEMITRION, MENTINOBOL,
 SABANITEUT, HEREMOBOL, CANE, METHÉ, BALUTI, CATEA, TIMEGUEL, BORA, *by
 the empire which ye exert over us, fulfill this work, so that I may
-become invisible*. <span id="fr_272"></span>[1](#fn_271) The said words
+become invisible*. <span id="fr_272"></span>[1](#fn_271.md) The said words
 must be written with the blood before mentioned, <span
-id="fr_273"></span>[2](#fn_272) and the following Conjuration recited:
+id="fr_273"></span>[2](#fn_272.md) and the following Conjuration recited:
 *O Ye Spirits of Invisibility, I conjure and constrain you incontinently
 and forthwith to consecrate this experiment, so that, surely and without
 trickery, I may go invisible. Furthermore, I conjure you by Lucifer,
@@ -105,7 +105,7 @@ compose a large ring thereof, so that the same will pass easily over the
 middle finger of the hand. Let the collet be enriched by a small stone
 which is found in the pewit's nest, and about the ring let the following
 words be enchased: *Jesus passing* ✠ *through the midst of them* ✠
-*disappeared*. ✠ <span id="fr_274"></span>[1](#fn_273)
+*disappeared*. ✠ <span id="fr_274"></span>[1](#fn_273.md)
 
 Next, having placed the ring on a palette-shaped plate of fixed mercury,
 compose the perfume of mercury, and thrice expose the ring to the odour
@@ -146,24 +146,24 @@ one's own hyena. The point which was missed by the occultist may be
 evident to the ordinary reader; the head of the hyena is short-coated,
 and the hairs could not be braided. It is not, however, unreasonable
 that impossible conditions should attach to an impossible object. <span
-id="fr_275"></span>[1](#fn_274)
+id="fr_275"></span>[1](#fn_274.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_271"></span>[307:1](bcm73.htm#fr_272) These names are given
+<span id="fn_271"></span>[307:1](bcm73.htm#fr_272.md) These names are given
 as follows by the English editor: *Sceaboles, Arbaron, Elohi, Elimigith,
 Herenobulcule, Methe, Baluth, Timayal, Villaquiel, Teveni, Yevie,
 Ferete, Bacuhaba, Gimarin*.
 
-<span id="fn_272"></span>[307:2](bcm73.htm#fr_273) Possibly that of a
+<span id="fn_272"></span>[307:2](bcm73.htm#fr_273.md) Possibly that of a
 mole, used in the consecration of the instruments.
 
-<span id="fn_273"></span>[309:1](bcm73.htm#fr_274) Compare the Magic
+<span id="fn_273"></span>[309:1](bcm73.htm#fr_274.md) Compare the Magic
 Circle of Honorius.
 
-<span id="fn_274"></span>[310:1](bcm73.htm#fr_275) A process was also
+<span id="fn_274"></span>[310:1](bcm73.htm#fr_275.md) A process was also
 provided against fascination and deception by means of the ring of
 invisibility. It consists in the composition of a ring similarly shaped,
 made of refined lead, and enchased with the eye of a female ferret which
@@ -176,4 +176,4 @@ and it is then ready for use.
 
 ------------------------------------------------------------------------
 
-[Next: Section 4: Concerning the Hand of Glory](bcm74)
+[Next: Section 4: Concerning the Hand of Glory](bcm74.md)

@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft81)  [Next](sfft83) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft81)  [Next](sfft83.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### COUSIN MATTIE. <span id="fr_168"></span>[1](#fn_168)
+### COUSIN MATTIE. <span id="fr_168"></span>[1](#fn_168.md)
 
 AT the lone farm of Finagle, there lived for many years an industrious
 farmer and his family. Several of his children died, and only one
@@ -134,22 +134,22 @@ Mattie and herself to pay a visit to their aunt at Kirkmichael; and,
 though her mother was unwilling, she urged her suit so earnestly that
 the worthy dame was fain to consent.
 
-"What's ta'en the gowk <span id="fr_169"></span>[1](#fn_169) lassie the
+"What's ta'en the gowk <span id="fr_169"></span>[1](#fn_169.md) lassie the
 day?" said she; "I think she be gane fey. I never could get her to gang
 to see her aunt, and now she has ta'en a tirrovy <span
-id="fr_170"></span>[2](#fn_170) in her head, that she'll no be keepit. I
+id="fr_170"></span>[2](#fn_170.md) in her head, that she'll no be keepit. I
 dinna like sic absolute freaks, an' sic langings, to come into the heads
 o' bairns; they're ower aften afore something uncannie. Gae your ways
 an' see your auntie, sin' ye will gang; but ye's no get little cousin
 w'ye, sae never speak o't. Think ye that I can do wantin' ye baith out
 o' the house till the Sabbath day be ower."
 
-"Oh but, mother, it's sae gousty, <span id="fr_171"></span>[3](#fn_171)
+"Oh but, mother, it's sae gousty, <span id="fr_171"></span>[3](#fn_171.md)
 an' sae eiry, to lie up in yon loft ane's lane; unless cousin Mattie
 gang w' me, I canna' gang ava."
 
 "Then just stay at hame, daughter, an' let us alane o' thae daft
-nories <span id="fr_172"></span>[4](#fn_172) a' thegither."
+nories <span id="fr_172"></span>[4](#fn_172.md) a' thegither."
 
 Flora now had recourse to that expedient which never fails to conquer
 the opposition of a fond
@@ -158,13 +158,13 @@ the opposition of a fond
 
 mother: she pretended to cry bitterly. The good dame was quite overcome,
 and at once yielded, though not with a very good grace. "Saw ever
-onybody, sic a fie-gae-to <span id="fr_173"></span>[1](#fn_173) as this?
+onybody, sic a fie-gae-to <span id="fr_173"></span>[1](#fn_173.md) as this?
 They that will to Cupar maun to Cupar! Gae your ways to Kirkmichael, an'
 tak the hale town at your tail, gin ye like. What's this that I'm sped
 wi'."
 
 "Na, na, mother; I's no gang my foot length. Ye sanna hae that to
-flyre <span id="fr_174"></span>[2](#fn_174) about. Ye keep me working
+flyre <span id="fr_174"></span>[2](#fn_174.md) about. Ye keep me working
 frae the tae year's end to the tither, an' winna gie me a day to mysel'.
 I's no seek to be away again, as lang as I'm aneath your roof."
 
@@ -449,7 +449,7 @@ her! When I saw the mortclaith drawn off the coffin, an' saw the silver
 letters kythe, AGED 21, the tears ran down ower thae auld wizzened
 cheeks, Janet; an' I said to myself', 'Wow but that is a bonny flower
 cut off i' the bloom!' But, Janet, my joe, warna ye at the
-corpse-kisting?" <span id="fr_175"></span>[1](#fn_175)
+corpse-kisting?" <span id="fr_175"></span>[1](#fn_175.md)
 
 "An' what suppose I was, Matthew? What's your concern wi' that?"
 
@@ -473,33 +473,33 @@ ower the foul tap o't, it sal be the waur for ye. But lown be it spoken,
 an' little be it said. Weel might the corpse be heavy, an' the coffin
 deep! ay, weel might the coffin be made deep, Matthew, for there was a
 stout lad bairn, a poor little pale flower, that hardly ever saw the
-light o' heaven, was streekit <span id="fr_176"></span>[1](#fn_176) on
+light o' heaven, was streekit <span id="fr_176"></span>[1](#fn_176.md) on
 her breast at the same time wi' hersel'."
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_168"></span>[336:1](sfft82.htm#fr_168) James Hogg, *The
+<span id="fn_168"></span>[336:1](sfft82.htm#fr_168.md) James Hogg, *The
 Ettrick Shepherd's Tales*.
 
-<span id="fn_169"></span>[340:1](sfft82.htm#fr_169) Foolish.
+<span id="fn_169"></span>[340:1](sfft82.htm#fr_169.md) Foolish.
 
-<span id="fn_170"></span>[340:2](sfft82.htm#fr_170) Fit of passion.
+<span id="fn_170"></span>[340:2](sfft82.htm#fr_170.md) Fit of passion.
 
-<span id="fn_171"></span>[340:3](sfft82.htm#fr_171) Ghostly.
+<span id="fn_171"></span>[340:3](sfft82.htm#fr_171.md) Ghostly.
 
-<span id="fn_172"></span>[340:4](sfft82.htm#fr_172) Whims.
+<span id="fn_172"></span>[340:4](sfft82.htm#fr_172.md) Whims.
 
-<span id="fn_173"></span>[341:1](sfft82.htm#fr_173) Ado.
+<span id="fn_173"></span>[341:1](sfft82.htm#fr_173.md) Ado.
 
-<span id="fn_174"></span>[341:2](sfft82.htm#fr_174) Complain.
+<span id="fn_174"></span>[341:2](sfft82.htm#fr_174.md) Complain.
 
-<span id="fn_175"></span>[350:1](sfft82.htm#fr_175) Ceremony of
+<span id="fn_175"></span>[350:1](sfft82.htm#fr_175.md) Ceremony of
 coffining.
 
-<span id="fn_176"></span>[351:1](sfft82.htm#fr_176) Laid out.
+<span id="fn_176"></span>[351:1](sfft82.htm#fr_176.md) Laid out.
 
 ------------------------------------------------------------------------
 
-[Next: Rat Hall](sfft83)
+[Next: Rat Hall](sfft83.md)

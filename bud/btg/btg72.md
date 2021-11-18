@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg71)  [Next](btg73) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg71)  [Next](btg73.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ present as a token of my respect."
 
 ------------------------------------------------------------------------
 
-[Next: The Listless Fool](btg73)
+[Next: The Listless Fool](btg73.md)

@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](icap5)  [Next](icap7) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](icap5)  [Next](icap7.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,14 +9,14 @@
 # APPENDIX VI
 
 The Orderly Sequence of the Hexagrams  <span
-id="fr_297"></span>[a](#fn_297)
+id="fr_297"></span>[a](#fn_297.md)
 
 ### SECTION I
 
 1-3. When there were heaven and earth, then afterwards all things were
 produced. What fills up (the space) between heaven and earth are (those)
 all things. Hence (*Kh*ien and Khwăn) are followed by *K*un <span
-id="fr_298"></span>[1](#fn_298). *K*un denotes filling up.
+id="fr_298"></span>[1](#fn_298.md). *K*un denotes filling up.
 
 3-6. *K*un is descriptive of things on their first production. When so
 produced, they are sure to be in an undeveloped condition. Hence *K*un
@@ -24,14 +24,14 @@ is followed by Măng. Măng is descriptive of what is undeveloped,--the
 young of creatures and things. These in that state require to be
 nourished. Hence Măng is followed by Hsü. Hsü is descriptive of the way
 in which meat and drink (come to be supplied) <span
-id="fr_299"></span>[2](#fn_299). Over meat and drink there are sure to
-be contentions <span id="fr_300"></span>[2](#fn_299). Hence Hsü is
+id="fr_299"></span>[2](#fn_299.md). Over meat and drink there are sure to
+be contentions <span id="fr_300"></span>[2](#fn_299.md). Hence Hsü is
 followed by Sung.
 
 6-8. Sung is sure to cause the rising up of the multitudes <span
-id="fr_301"></span>[3](#fn_300); and hence it is followed by Sze. Sze
+id="fr_301"></span>[3](#fn_300.md); and hence it is followed by Sze. Sze
 has the signification of multitudes <span
-id="fr_302"></span>[3](#fn_300), and between multitudes there must be
+id="fr_302"></span>[3](#fn_300.md), and between multitudes there must be
 some bond of union. Hence it is followed by Pî, which denotes being
 attached to.
 
@@ -42,7 +42,7 @@ Pî is followed by Hsiâo
 
 \[paragraph continues\] Khû. When things axe subjected to restraint,
 there come to be rites of ceremony, and hence Hsiâo Khû is followed by
-Lî <span id="fr_303"></span>[4](#fn_301). The treading (on what is
+Lî <span id="fr_303"></span>[4](#fn_301.md). The treading (on what is
 proper) leads to Thâi, which issues in a state of freedom and repose,
 and hence Lî is followed by Thâi.
 
@@ -57,12 +57,12 @@ associated with humility, there is sure to be pleasure and satisfaction;
 and hence *Kh*ien is followed by Yü.
 
 16-19. Where such complacency is awakened, (he who causes it) is sure to
-have followers <span id="fr_304"></span>[5](#fn_302). They who follow
+have followers <span id="fr_304"></span>[5](#fn_302.md). They who follow
 another are sure to have services (to perform), and hence Sui is
-followed by Kû <span id="fr_305"></span>[6](#fn_303). Kû means (the
+followed by Kû <span id="fr_305"></span>[6](#fn_303.md). Kû means (the
 performance of) services. He who performs such services may afterwards
 become great, and hence Kû is followed by Lin. Lin means great <span
-id="fr_306"></span>[6](#fn_303).
+id="fr_306"></span>[6](#fn_303.md).
 
 19-23. What is great draws forth contemplation, and hence Lin is
 followed by Kwân. He who attracts contemplation will then bring about
@@ -77,7 +77,7 @@ been carried to the utmost, its progress comes to an end; and hence Pî
 is followed by Po. Po denotes decay and overthrow.
 
 23-26. Things cannot be done away for ever. When decadence and overthrow
-have completed their work at one end, [reintegration](errata.htm#1)
+have completed their work at one end, [reintegration](errata.htm#1.md)
 commences at the other; and hence Po is followed by Fû. When the return
 (thus indicated) has taken place, we have not any rash disorder, and Fû.
 is followed by Wû Wang. Given the freedom from disorder and insincerity
@@ -109,7 +109,7 @@ came the arrangements of propriety and righteousness.
 
 The rule for the relation of husband and wife is that it should be
 long-enduring. Hence Hsien is followed by Hăng. Hăng denotes long
-enduring <span id="fr_307"></span>[7](#fn_304).
+enduring <span id="fr_307"></span>[7](#fn_304.md).
 
 32-37. Things cannot long abide in the same place; and hence Hăng is
 followed by Thun. Thun denotes withdrawing. Things cannot be for ever
@@ -201,7 +201,7 @@ succeeded by Wei Žî, with which (the hexagrams) come to a close.
 
 ### Footnotes
 
-<span id="fn_297"></span>[439:a](icap6.htm#fr_297) The few sentences on
+<span id="fn_297"></span>[439:a](icap6.htm#fr_297.md) The few sentences on
 this Appendix in the Introduction, pp. 54, 55, are sufficient. It shows
 the importance of the meaning of the name in an attempt to explain the
 lineal figures, and prepares us to expect on each one a brief
@@ -212,7 +212,7 @@ few instances to which attention is called in the following notices. The
 treatise is too slight to require, or to justify, an exhibition of all
 its inaccuracies.
 
-<span id="fn_298"></span>[439:1](icap6.htm#fr_298) But *K*un does not
+<span id="fn_298"></span>[439:1](icap6.htm#fr_298.md) But *K*un does not
 denote filling up. It is the symbol of being in a state of distress and
 difficulty. The writer is thinking of the result of the interaction of
 heaven and earth as being to fill all between them with the various
@@ -221,7 +221,7 @@ Kun, and not its meaning. He makes a blunder which might have been
 easily avoided, for he adds immediately that the character is
 descriptive of things on their first production.
 
-<span id="fn_299"></span>[439:2](icap6.htm#fr_300) It is difficult to
+<span id="fn_299"></span>[439:2](icap6.htm#fr_300.md) It is difficult to
 follow the writer here. Hsü in the Text is the symbol of the idea of
 waiting. Does he mean that a provision of food and drink can only be
 made gradually? There is nothing in the character Hsü to awaken in the
@@ -237,14 +237,14 @@ Where all the fare is dry and spare,
 But what is allowable, good even, in poetry, is out of place in this
 treatise.
 
-<span id="fn_300"></span>[439:3](icap6.htm#fr_302) Contention on a great
+<span id="fn_300"></span>[439:3](icap6.htm#fr_302.md) Contention on a great
 scale will put all the population of a state in excitement and motion,
 and military measures of repression will be necessary. But the idea of
 the multitudes in Sze would seem to be simply that of number, and not
 that of a numerous host. In a feudal kingdom, however, all the
 able-bodied people might be required to join the army.
 
-<span id="fn_301"></span>[440:4](icap6.htm#fr_303) <span
+<span id="fn_301"></span>[440:4](icap6.htm#fr_303.md) <span
 id="page_440">p. 440</span> Lî, the name of the 10th hexagram, is the
 symbol for a shoe, and the act of treading or walking. It seems here to
 be derived from the homophonous lî, the symbol of acts of ceremony. The
@@ -252,19 +252,19 @@ identity of sound or name must be considered as accidental. A measured
 step would be one of the first ways in which the inward sense of
 propriety would manifest itself.
 
-<span id="fn_302"></span>[440:5](icap6.htm#fr_304) By the subject of Tâ
+<span id="fn_302"></span>[440:5](icap6.htm#fr_304.md) By the subject of Tâ
 Yû and *Kh*ien we must understand the possessor of the kingdom--the
 great man who in his greatness is yet distinguished by humility. He
 attracts followers.
 
-<span id="fn_303"></span>[440:6](icap6.htm#fr_306) For the true meaning
+<span id="fn_303"></span>[440:6](icap6.htm#fr_306.md) For the true meaning
 of *K*û and Lin, the names of hexagrams 18, 19, see what is said in the
 notes on the Text of them.
 
-<span id="fn_304"></span>[440:7](icap6.htm#fr_307) The same reference
+<span id="fn_304"></span>[440:7](icap6.htm#fr_307.md) The same reference
 should be made to the notes on the Text of Hsien and many of the other
 hexagrams that follow.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix VII](icap7)
+[Next: Appendix VII](icap7.md)

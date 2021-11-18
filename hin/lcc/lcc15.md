@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc14)  [Next](lcc16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc14)  [Next](lcc16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -448,7 +448,7 @@ Whose waters are the king's advisers, deep
 In thought; as waves and shells it seems to keep  
 The attorneys; and as sharks and crocodiles  
 It has its spies that stand in waiting files;  
-Its elephants and horses <span id="fr_82"></span>[1](#fn_82) represent  
+Its elephants and horses <span id="fr_82"></span>[1](#fn_82.md) represent  
 The cruel ocean-fish on murder bent;  
 As if with herons of the sea, it shines  
 With screaming pettifoggers’ numerous lines;  
@@ -609,7 +609,7 @@ class="margnote">20</span>
 
 \[*Aloud*.\] This is the noble Chārudatta. How could he commit this
 crime? \[*He repeats the verse* "A countenance like his:" *page*
-[141](#page_141).\]
+[141](#page_141.md).\]
 
 *Sansthānaka*. Why thish partiality in a lawshuit?
 
@@ -929,7 +929,7 @@ Though telling all, I cannot fly
 
 With Mars strives Jupiter, and dies;  
 Beside them both there seems to rise  
-A comet-planet <span id="fr_83"></span>[1](#fn_83) in the skies.<span
+A comet-planet <span id="fr_83"></span>[1](#fn_83.md) in the skies.<span
 class="margnote">33</span>
 
 </div>
@@ -1048,7 +1048,7 @@ poor Chārudatta.
 
 *Mother*. Be merciful, good gentlemen, be merciful! \[*She repeats what
 she had said before, beginning* "When the golden casket:" *page*
-[143](#page_143).\] If my daughter is killed, she is killed. Let him
+[143](#page_143.md).\] If my daughter is killed, she is killed. Let him
 live for me—bless him! And besides, a lawsuit is a matter between
 plaintiff and defendant. I am the real plaintiff. So let him go free!
 
@@ -1139,7 +1139,7 @@ their hold on Chārudatta, and all of them go out*.\]
 
 *Beadle*. Come with me, sir.
 
-*Chārudatta*. \[*Mournfully repeats the verse, page* [146](#page_146),
+*Chārudatta*. \[*Mournfully repeats the verse, page* [146](#page_146.md),
 *beginning* "My friend Maitreya!" *Then, as if speaking to one not
 present*.\]
 
@@ -1163,13 +1163,13 @@ I come! I come!
 
 ### Footnotes
 
-<span id="fn_82"></span>[140:1](lcc15.htm#fr_82) Elephants were employed
+<span id="fn_82"></span>[140:1](lcc15.htm#fr_82.md) Elephants were employed
 as executioners; and, according to Lallādīkshita, the horses served the
 same purpose.
 
-<span id="fn_83"></span>[149:1](lcc15.htm#fr_83) This refers to the
+<span id="fn_83"></span>[149:1](lcc15.htm#fr_83.md) This refers to the
 fallen jewels.
 
 ------------------------------------------------------------------------
 
-[Next: Act the Tenth: The End](lcc16)
+[Next: Act the Tenth: The End](lcc16.md)

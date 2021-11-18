@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes63)  [Next](tes65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes63)  [Next](tes65.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ twelve, in the village of Nishne-Kolymsk, summer of 1896.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Story About Yaghishna](tes65)
+[Next: 11. Story About Yaghishna](tes65.md)

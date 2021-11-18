@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat11)  [Next](sat13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat11)  [Next](sat13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -40,7 +40,7 @@ the eternal; the invisible essence, which is God and the eternity, has
 in its own desire introduced itself into a visible essence, and
 manifested itself in a time, so that he is as a life in the time, and
 the time is in him as it were dead; <span
-id="fr_129"></span>[1](#fn_129) as a master that makes his work with an
+id="fr_129"></span>[1](#fn_129.md) as a master that makes his work with an
 instrument, and the instrument is mute to the master, and yet it is the
 making, the master only guides it; even so are all things confined into
 limit, measure, and weight, according to the eternal generation; and
@@ -49,16 +49,16 @@ property of eternity.
 
 3\. And God has appointed over this great work only one master and
 protector, which can alone manage the work, which is his officer, <span
-id="fr_130"></span>[2](#fn_130) viz. the soul of the great world,
+id="fr_130"></span>[2](#fn_130.md) viz. the soul of the great world,
 wherein all things lie; \[and\] he has appointed a type of its likeness
 as the reason over this officer, which represents to the officer what he
 is to do and make; and this is the understanding, viz. God's own
 dominion wherewith he rules the officer: Now the understanding shews to
 the officer what the property of each thing is, how the separation and
 degrees proceed from each other; for all things are contained <span
-id="fr_131"></span>[3](#fn_131) in the sulphureous body, and Mercury is
+id="fr_131"></span>[3](#fn_131.md) in the sulphureous body, and Mercury is
 Sulphur's life, and the salt is the impression, that preserves the
-body <span id="fr_132"></span>[4](#fn_132) from falling to ashes, so
+body <span id="fr_132"></span>[4](#fn_132.md) from falling to ashes, so
 that the spirit is known in a palpable essence.
 
 <span id="page_77">p. 77</span>
@@ -105,7 +105,7 @@ else there would be no joy; for the meekness is like a stillness, but
 the source of anguish sublimes it, and turns into a pleasant laughter:
 So also the anguish, viz. the darkness, is the death and destruction of
 the oily property; for if it gets the upper hand in the oleous property,
-it takes possession of the corpus, <span id="fr_133"></span>[1](#fn_133)
+it takes possession of the corpus, <span id="fr_133"></span>[1](#fn_133.md)
 and turns the oil
 
 <span id="page_78">p. 78</span>
@@ -157,20 +157,20 @@ and jewel; if his poisonful will may
 
 <span id="page_79">p. 79</span>
 
-be introduced into the same, <span id="fr_134"></span>[1](#fn_134) then
+be introduced into the same, <span id="fr_134"></span>[1](#fn_134.md) then
 he himself manifests the pearl; for he changes himself; as is to be seen
 in the earth, where Mercury seeks its pearl, and turns it in the
-ore <span id="fr_135"></span>[2](#fn_135) to gold, and to other metals,
+ore <span id="fr_135"></span>[2](#fn_135.md) to gold, and to other metals,
 according as the Sulphur is in each place.
 
 13\. For there is a continual combat <span
-id="fr_136"></span>[3](#fn_136) in the earth; the eternity travels with
+id="fr_136"></span>[3](#fn_136.md) in the earth; the eternity travels with
 longing through time to be free from vanity, and in its longing it gives
 itself to Mercury, as to its life and faber; and when Mercury obtains it
 in his hunger, he becomes joyful, and makes this free lubet corporeal in
 him, and there arises gold and silver, together with other metals and
 good herbs, all according to the powerful efficacy of each place; As the
-boiling <span id="fr_137"></span>[4](#fn_137) is in each place, so
+boiling <span id="fr_137"></span>[4](#fn_137.md) is in each place, so
 likewise is the metal, all according to the property of the seven forms
 of nature; that form which is chief in a place, according to the same
 property grows a metal, also herbs and trees.
@@ -185,17 +185,17 @@ salt he also makes: Now if the physician gives him a contrary salt,
 Mercury is only thereby the more vehemently enraged, and made more
 venomous; but if he may obtain his own salt according to his own
 property (after which he hungers) then he <span
-id="fr_138"></span>[5](#fn_138) rejoices, and readily quits the
+id="fr_138"></span>[5](#fn_138.md) rejoices, and readily quits the
 poison-source in the fire of Mars. But the right physician has another
 cure, he first brings his Mercury with which he will cure out of death's
 anguish into the liberty: He may well cure, <span
-id="fr_139"></span>[6](#fn_139) the other is dangerous and uncertain; if
+id="fr_139"></span>[6](#fn_139.md) the other is dangerous and uncertain; if
 he happens to cure, it is by chance, and very inconstant, and cannot
 cure any disease fundamentally; for the outward Mercury is shut up, it
 can reach no further than into the four elements, into the mortal
 essence; it is able to do nothing in the sidereal body: But if it be
 turned and introduced into the love, as is before mentioned, then it
-touches <span id="fr_140"></span>[7](#fn_140) the very root and ground,
+touches <span id="fr_140"></span>[7](#fn_140.md) the very root and ground,
 and renews it even to the divine power in the second principle.
 
 15\. We have an excellent resemblance of this in the blooming earth on
@@ -249,7 +249,7 @@ internally in the essence, in the
 <span id="page_81">p. 81</span>
 
 source; the white colour of the branch <span
-id="fr_141"></span>[1](#fn_141) is from the liberty of the love-lubet,
+id="fr_141"></span>[1](#fn_141.md) is from the liberty of the love-lubet,
 and the brown is the earthly \[property\] from Saturn's impression, and
 from the wrath of Mars; and the green, which opens itself above, is
 Mercury's in the form of Jupiter and Venus.
@@ -260,7 +260,7 @@ created out of the midst of the water, puts upon them its blue and
 green-coloured garment according to the stars’ might; for the spirit of
 the stars receives the new child also, and gives him its spirit and
 body, and rejoices therein: Now the forms are in contest, <span
-id="fr_142"></span>[2](#fn_142) and Mercury is the faber and separator;
+id="fr_142"></span>[2](#fn_142.md) and Mercury is the faber and separator;
 Saturn impresses, and Jupiter is the pleasant power in sulphur; Mars is
 the fire-source, viz. the might in sulphur; Venus is the water, viz. the
 sweet desire; Mercury is the life, Luna the body, and Sol the heart,
@@ -288,7 +288,7 @@ salniter on the sides, and takes Venus also into it, viz. the
 love-desire, from whence grow twigs and branches on the stalk, trunk, or
 body, be they either herbs, trees, or shrubs; and each branch \[or
 sprig\] is then like to the whole plant. <span
-id="fr_143"></span>[3](#fn_143)
+id="fr_143"></span>[3](#fn_143.md)
 
 22\. But the sun continually by little and little deprives Mars
 
@@ -296,7 +296,7 @@ id="fr_143"></span>[3](#fn_143)
 
 of his force, whereupon the salniter extinguishes, and Mars loses his
 bitter property; then Jupiter and Venus wholly yield themselves to the
-sun in the moon's cabinet, <span id="fr_144"></span>[1](#fn_144) and the
+sun in the moon's cabinet, <span id="fr_144"></span>[1](#fn_144.md) and the
 outward sun takes full possession of the inward; understand the inward
 sun is a Sulphur in Mercury, and is of the divine power's property, from
 the liberty of God, which imprints itself on all things, and gives life
@@ -306,7 +306,7 @@ more upwards, but Mars and Mercury do continually more and more wind up
 the stalk from the earth on high; Jupiter stays still above in the
 inward and outward sun's power, and there is the pleasant conjunction
 with time and eternity, there the eternity beholds itself in an
-image <span id="fr_145"></span>[2](#fn_145) in the time.
+image <span id="fr_145"></span>[2](#fn_145.md) in the time.
 
 23\. And paradise springs up \[or opens\], for the Sulphur and the salt
 in the Sulphur are here transmuted in the paradise, and the paradisical
@@ -360,7 +360,7 @@ and give that to many an one which had been far better he had never
 bought, for which you must give a severe and strict account.
 
 28\. Thus it is likewise with the sulphurean seething in the earth with
-the metals, the power <span id="fr_146"></span>[1](#fn_146) is stronger
+the metals, the power <span id="fr_146"></span>[1](#fn_146.md) is stronger
 in metals than in the herbs, the tincture is more heavenly than earthly,
 if the artist affords it his help, then it changes itself, viz. the
 earthly into an heavenly, which notwithstanding comes to pass in many
@@ -415,7 +415,7 @@ hardness. as the fire does; but Saturn is the impressure of all things;
 Venus needs only the tincture, and then she is perfect; but the artist
 must rightly understand where the possibility lies, viz. in Sulphur,
 where Saturn has the Sulphur in his belly, and Mercury shews its colour,
-there he is in the will, <span id="fr_147"></span>[1](#fn_147) but
+there he is in the will, <span id="fr_147"></span>[1](#fn_147.md) but
 cannot, for Saturn holds him too fast imprisoned; but if the artist
 gives him his helping hand, that he may but advance his wheel, and give
 him his mother's food, which she has hid in the centre, then he grows
@@ -440,7 +440,7 @@ Luna takes all into her body, for she is mother, and receives the seed
 of all the planets into her menstruum, and hatches it; Jupiter gives
 power thereinto, and Sol is king therein, but at the first Sol is weak;
 for the materia is too earthly and cold. Now the whole essence in its
-boiling lies in the body <span id="fr_148"></span>[1](#fn_148) of
+boiling lies in the body <span id="fr_148"></span>[1](#fn_148.md) of
 Sulphur; and in the Sulphur the salnitral flagrat makes a salt in Mars's
 wheel according to each property; for the Sulphur turns into salt, that
 is, into taste; and in the same taste there is an oil hid in the centre
@@ -473,7 +473,7 @@ potent therein; but if it be weak and fulsom, then the moon is strong
 therein; but if it be hard, and of a brownish colour, then Mars is
 strong therein; but if the white colour be of a grayish-brown, then
 Saturn is strong therein: Venus makes <span
-id="fr_149"></span>[2](#fn_149) a white colour, Mars red, and bitter in
+id="fr_149"></span>[2](#fn_149.md) a white colour, Mars red, and bitter in
 the taste; Mars makes Venus's colour light, Mercury gives a mixt colour,
 
 <span id="page_86">p. 86</span>
@@ -512,15 +512,15 @@ work, that is, to hunger and loath; and if he gets not his own peculiar
 property, understand the bodily form, which is chief in the body among
 the seven properties or forms, then he enkindles himself in his own
 poison-source according to his vital <span
-id="fr_150"></span>[1](#fn_150) property, and does so forcibly strive so
+id="fr_150"></span>[1](#fn_150.md) property, and does so forcibly strive so
 long, till he becomes fiery, and then he awakes his own Mars, and his
 own Saturn, which impress him, and consume the flesh of the body in the
 poison-fire, and wholly consume the oil of light; even then the life's
 light goes out, and it is past recovery.
 
 39\. But if the form of life, wherein <span
-id="fr_151"></span>[2](#fn_151) Mercury is inflamed in the
-loathing <span id="fr_152"></span>[3](#fn_152) in the anguish and
+id="fr_151"></span>[2](#fn_151.md) Mercury is inflamed in the
+loathing <span id="fr_152"></span>[3](#fn_152.md) in the anguish and
 poison-source, may obtain
 
 <span id="page_87">p. 87</span>
@@ -528,7 +528,7 @@ poison-source, may obtain
 that property into its hunger, of which the spirit and body is chief,
 then he obtains his own natural food, of which he lives, and does again
 rejoice, and puts away the nauseate, <span
-id="fr_153"></span>[1](#fn_153) and then the nauseate dissipates \[or
+id="fr_153"></span>[1](#fn_153.md) and then the nauseate dissipates \[or
 dissolves\] and is spewed out; but the physician must have a care,
 whether or no that thing which he will administer to his patient be in
 its property strong also in the same essence, from whence the nauseate
@@ -549,7 +549,7 @@ property as it lies in that man.
 
 41\. I know, and it is shewn me, that the sophister will cavil at me,
 because I write, that the divine power is in the fruit, that God's power
-does appropriate <span id="fr_154"></span>[2](#fn_154) itself into the
+does appropriate <span id="fr_154"></span>[2](#fn_154.md) itself into the
 generation of nature: But hear, my dear friend, become seeing, I ask
 thee, How was paradise in this world? Was it also manifest in nature?
 Was it also in the fruit? Was it in the world, or without the world? Did
@@ -591,7 +591,7 @@ it is manifest what was therein.
 of God; he likewise is not manifest to the thing, and yet it receives
 power from him, but it receives the power according to its property from
 him, either from his love, or from his wrath; and from which it
-receives, so it has its signature <span id="fr_155"></span>[1](#fn_155)
+receives, so it has its signature <span id="fr_155"></span>[1](#fn_155.md)
 externally; and the good is also in it, but as it were wholly shut up
 \[or hidden\] to the iniquity \[or evil\]; an example of which you have
 in bushes, and other thorny and pricking briars, out of which
@@ -624,7 +624,7 @@ matter, till the right artist sets upon it, and again awakens the
 Mercury in the inclosed gold, and then the dead inclosed body of the
 gold does again revive in Saturn; for Mercury is its life, who must be
 introduced into it again, and then the dead body of the gold
-appears, <span id="fr_156"></span>[1](#fn_156) and overcomes the gross
+appears, <span id="fr_156"></span>[1](#fn_156.md) and overcomes the gross
 Saturn, wherein it lay shut up, and changes its mean contemptible old
 body into a fair glorious golden body.
 
@@ -665,7 +665,7 @@ this way to try the earth, and restore that which
 is shut up \[in death\], unless he himself be before born again through
 the divine mercury out of the curse and death, and has the full
 knowledge of the divine regeneration, <span
-id="fr_157"></span>[1](#fn_157) else all that he does is to no purpose,
+id="fr_157"></span>[1](#fn_157.md) else all that he does is to no purpose,
 no learning \[or studying\] avails; for that which he seeks lies shut in
 the curse, in death, in the anger of God: If he will make it alive, and
 bring it into its first life, then that life must be before manifest in
@@ -685,92 +685,92 @@ understand by the inward the word of God, or the divine voice, viz. the
 manifestation of the eternity of the abyss; and by the outward
 \[mercury\] I understand the officer in nature, viz. the instrument,
 which the inward, living, powerful word, or divine voice uses, wherewith
-it forms <span id="fr_158"></span>[2](#fn_158) and works. Now the
+it forms <span id="fr_158"></span>[2](#fn_158.md) and works. Now the
 sophister will falsely interpret it, and say, that I mix them both
 together, making no difference, and hold <span
-id="fr_159"></span>[3](#fn_159) nature for God, as Babel has already
+id="fr_159"></span>[3](#fn_159.md) nature for God, as Babel has already
 done to me: But I bid him view my words well, and learn to understand
 them right; for I speak sometimes from the heavenly Mercury, and see
 that only, and then presently I name the instrument of the heavenly,
 therefore let him have regard to the sense: I write not heathenishly,
 but theosophically, from a higher ground than the outward faber <span
-id="fr_160"></span>[4](#fn_160) is, and then also from the same.
+id="fr_160"></span>[4](#fn_160.md) is, and then also from the same.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_129"></span>[76:1](sat12.htm#fr_129) Dumb, senseless, mute.
+<span id="fn_129"></span>[76:1](sat12.htm#fr_129.md) Dumb, senseless, mute.
 
-<span id="fn_130"></span>[76:2](sat12.htm#fr_130) Governor.
+<span id="fn_130"></span>[76:2](sat12.htm#fr_130.md) Governor.
 
-<span id="fn_131"></span>[76:3](sat12.htm#fr_131) Lie.
+<span id="fn_131"></span>[76:3](sat12.htm#fr_131.md) Lie.
 
-<span id="fn_132"></span>[76:4](sat12.htm#fr_132) Corpus.
+<span id="fn_132"></span>[76:4](sat12.htm#fr_132.md) Corpus.
 
-<span id="fn_133"></span>[77:1](sat12.htm#fr_133) Or body.
+<span id="fn_133"></span>[77:1](sat12.htm#fr_133.md) Or body.
 
-<span id="fn_134"></span>[79:1](sat12.htm#fr_134) Or if his poison-will
+<span id="fn_134"></span>[79:1](sat12.htm#fr_134.md) Or if his poison-will
 be brought into the moving spirit of love.
 
-<span id="fn_135"></span>[79:2](sat12.htm#fr_135) Gross stone.
+<span id="fn_135"></span>[79:2](sat12.htm#fr_135.md) Gross stone.
 
-<span id="fn_136"></span>[79:3](sat12.htm#fr_136) Wrestling.
+<span id="fn_136"></span>[79:3](sat12.htm#fr_136.md) Wrestling.
 
-<span id="fn_137"></span>[79:4](sat12.htm#fr_137) Or seething.
+<span id="fn_137"></span>[79:4](sat12.htm#fr_137.md) Or seething.
 
-<span id="fn_138"></span>[79:5](sat12.htm#fr_138) The Mercury.
+<span id="fn_138"></span>[79:5](sat12.htm#fr_138.md) The Mercury.
 
-<span id="fn_139"></span>[79:6](sat12.htm#fr_139) Or such a physician
+<span id="fn_139"></span>[79:6](sat12.htm#fr_139.md) Or such a physician
 has true skill to cure.
 
-<span id="fn_140"></span>[79:7](sat12.htm#fr_140) Or seizes on.
+<span id="fn_140"></span>[79:7](sat12.htm#fr_140.md) Or seizes on.
 
-<span id="fn_141"></span>[81:1](sat12.htm#fr_141) Shoot, or twig.
+<span id="fn_141"></span>[81:1](sat12.htm#fr_141.md) Shoot, or twig.
 
-<span id="fn_142"></span>[81:2](sat12.htm#fr_142) Or in their wrestling
+<span id="fn_142"></span>[81:2](sat12.htm#fr_142.md) Or in their wrestling
 combat.
 
-<span id="fn_143"></span>[81:3](sat12.htm#fr_143) Or growth.
+<span id="fn_143"></span>[81:3](sat12.htm#fr_143.md) Or growth.
 
-<span id="fn_144"></span>[82:1](sat12.htm#fr_144) Bag, or sack.
+<span id="fn_144"></span>[82:1](sat12.htm#fr_144.md) Bag, or sack.
 
-<span id="fn_145"></span>[82:2](sat12.htm#fr_145) Type, or resemblance.
+<span id="fn_145"></span>[82:2](sat12.htm#fr_145.md) Type, or resemblance.
 
-<span id="fn_146"></span>[83:1](sat12.htm#fr_146) Virtue, or efficacy.
+<span id="fn_146"></span>[83:1](sat12.htm#fr_146.md) Virtue, or efficacy.
 
-<span id="fn_147"></span>[84:1](sat12.htm#fr_147) Or mind.
+<span id="fn_147"></span>[84:1](sat12.htm#fr_147.md) Or mind.
 
-<span id="fn_148"></span>[85:1](sat12.htm#fr_148) Or womb.
+<span id="fn_148"></span>[85:1](sat12.htm#fr_148.md) Or womb.
 
-<span id="fn_149"></span>[85:2](sat12.htm#fr_149) Gives, or yields.
+<span id="fn_149"></span>[85:2](sat12.htm#fr_149.md) Gives, or yields.
 
-<span id="fn_150"></span>[86:1](sat12.htm#fr_150) Or life's.
+<span id="fn_150"></span>[86:1](sat12.htm#fr_150.md) Or life's.
 
-<span id="fn_151"></span>[86:2](sat12.htm#fr_151) Or whereby.
+<span id="fn_151"></span>[86:2](sat12.htm#fr_151.md) Or whereby.
 
-<span id="fn_152"></span>[86:3](sat12.htm#fr_152) Or nausea.
+<span id="fn_152"></span>[86:3](sat12.htm#fr_152.md) Or nausea.
 
-<span id="fn_153"></span>[87:1](sat12.htm#fr_153) Or loathing.
+<span id="fn_153"></span>[87:1](sat12.htm#fr_153.md) Or loathing.
 
-<span id="fn_154"></span>[87:2](sat12.htm#fr_154) Unite, or give in.
+<span id="fn_154"></span>[87:2](sat12.htm#fr_154.md) Unite, or give in.
 
-<span id="fn_155"></span>[88:1](sat12.htm#fr_155) Or so it is signed, or
+<span id="fn_155"></span>[88:1](sat12.htm#fr_155.md) Or so it is signed, or
 marked.
 
-<span id="fn_156"></span>[89:1](sat12.htm#fr_156) Or puts itself forth.
+<span id="fn_156"></span>[89:1](sat12.htm#fr_156.md) Or puts itself forth.
 Text, glances forth.
 
-<span id="fn_157"></span>[90:1](sat12.htm#fr_157) Or has the new-birth
+<span id="fn_157"></span>[90:1](sat12.htm#fr_157.md) Or has the new-birth
 in perfect knowledge.
 
-<span id="fn_158"></span>[90:2](sat12.htm#fr_158) Or makes.
+<span id="fn_158"></span>[90:2](sat12.htm#fr_158.md) Or makes.
 
-<span id="fn_159"></span>[90:3](sat12.htm#fr_159) Or take.
+<span id="fn_159"></span>[90:3](sat12.htm#fr_159.md) Or take.
 
-<span id="fn_160"></span>[90:4](sat12.htm#fr_160)  Archeus, or
+<span id="fn_160"></span>[90:4](sat12.htm#fr_160.md)  Archeus, or
 separator.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](sat13)
+[Next: Chapter IX](sat13.md)

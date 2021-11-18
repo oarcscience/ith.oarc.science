@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt53)  [Next](pyt55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt53)  [Next](pyt55.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ N. who ascends from Geb.
 
 ------------------------------------------------------------------------
 
-[Next: 52. Texts of Miscellaneous Contents, Utterances 671-675](pyt55)
+[Next: 52. Texts of Miscellaneous Contents, Utterances 671-675](pyt55.md)

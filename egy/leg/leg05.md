@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg04)  [Next](leg06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg04)  [Next](leg06.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,23 +18,23 @@ thirteen stars, and immediately beneath it are the two Boats of Ra,
 called Semketet and Mantchet, or Sektet and Matet. Each of her four legs
 is held in position by two gods, and the god Shu, with outstretched
 uplifted arms, supports her body. The Cow was published by
-Champollion, <span id="fr_4"></span>[1](#fn_4) without the
+Champollion, <span id="fr_4"></span>[1](#fn_4.md) without the
 
 <span id="page_xxiv">p. xxiv</span>
 
 text. This most important mythological text was first published and
 translated by Professor E. Naville in 1874. <span
-id="fr_5"></span>[1](#fn_5) It was republished by Bergmann <span
-id="fr_6"></span>[2](#fn_6) and Brugsch, <span
-id="fr_7"></span>[3](#fn_7) who gave a transcription of the text, with a
+id="fr_5"></span>[1](#fn_5.md) It was republished by Bergmann <span
+id="fr_6"></span>[2](#fn_6.md) and Brugsch, <span
+id="fr_7"></span>[3](#fn_7.md) who gave a transcription of the text, with a
 German translation. Other German versions by Lauth, <span
-id="fr_8"></span>[4](#fn_8) Brugsch, <span id="fr_9"></span>[5](#fn_9)
-and Wiedemann <span id="fr_10"></span>[6](#fn_10) have appeared, and a
+id="fr_8"></span>[4](#fn_8) Brugsch, <span id="fr_9"></span>[5](#fn_9.md)
+and Wiedemann <span id="fr_10"></span>[6](#fn_10.md) have appeared, and a
 part of the text was translated into French by Lefébure. <span
-id="fr_11"></span>[7](#fn_11) The latest edition of the text was
-published by Lefébure, <span id="fr_12"></span>[8](#fn_12) and text of a
+id="fr_11"></span>[7](#fn_11.md) The latest edition of the text was
+published by Lefébure, <span id="fr_12"></span>[8](#fn_12.md) and text of a
 second copy, very much mutilated, was published by Professor Naville,
-with a French translation in 1885. <span id="fr_13"></span>[9](#fn_13)
+with a French translation in 1885. <span id="fr_13"></span>[9](#fn_13.md)
 The text printed in this volume is that of M. Lefébure.
 
 The legend takes us back to the time when the gods of Egypt went about
@@ -109,7 +109,7 @@ and became drunk, and paid no further attention to men and women. In
 welcoming the goddess, Ra, called her "Amit," i.e., "beautiful one," and
 from this time onward "beautiful women were found in the city of Amit,"
 which was situated in the Western Delta, near Lake Mareotis. <span
-id="fr_14"></span>[1](#fn_14) Ra also ordered that in future at every
+id="fr_14"></span>[1](#fn_14.md) Ra also ordered that in future at every
 one of his festivals vessels of "sleep-producing beer" should be made,
 and that their number should be the same as the number of the
 handmaidens of Ra. Those who took part in these festivals of Hathor and
@@ -248,39 +248,39 @@ regulations applied to the laity as well as to the clergy.
 
 ### Footnotes
 
-<span id="fn_4"></span>[xxiii:1](leg05.htm#fr_4) *Monuments*, tom. iii.,
+<span id="fn_4"></span>[xxiii:1](leg05.htm#fr_4.md) *Monuments*, tom. iii.,
 p. 245.
 
-<span id="fn_5"></span>[xxiv:1](leg05.htm#fr_5) *Trans. Soc. Bibl.
+<span id="fn_5"></span>[xxiv:1](leg05.htm#fr_5.md) *Trans. Soc. Bibl.
 Arch.*, vol. iv., p. 1 ff.
 
-<span id="fn_6"></span>[xxiv:2](leg05.htm#fr_6) *Hieroglyphische
+<span id="fn_6"></span>[xxiv:2](leg05.htm#fr_6.md) *Hieroglyphische
 Inschriften*, Bl. 85 fl.
 
-<span id="fn_7"></span>[xxiv:3](leg05.htm#fr_7) *Die neue Weltordnung
+<span id="fn_7"></span>[xxiv:3](leg05.htm#fr_7.md) *Die neue Weltordnung
 nach Vernichtung des sündigen Menschengeschlechtes*, Berlin, 1881.
 
-<span id="fn_8"></span>[xxiv:4](leg05.htm#fr_8) *Aus Aegyptens Vorzeit*,
+<span id="fn_8"></span>[xxiv:4](leg05.htm#fr_8.md) *Aus Aegyptens Vorzeit*,
 p. 71.
 
-<span id="fn_9"></span>[xxiv:5](leg05.htm#fr_9) *Religion der alten
+<span id="fn_9"></span>[xxiv:5](leg05.htm#fr_9.md) *Religion der alten
 Aegypter*, p. 436.
 
-<span id="fn_10"></span>[xxiv:6](leg05.htm#fr_10) *Die Religion*, p. 32.
+<span id="fn_10"></span>[xxiv:6](leg05.htm#fr_10.md) *Die Religion*, p. 32.
 
-<span id="fn_11"></span>[xxiv:7](leg05.htm#fr_11) *Ä. Z.*, 1883, p. 32.
+<span id="fn_11"></span>[xxiv:7](leg05.htm#fr_11.md) *Ä. Z.*, 1883, p. 32.
 
-<span id="fn_12"></span>[xxiv:8](leg05.htm#fr_12) *Tombeau de Seti I.*,
+<span id="fn_12"></span>[xxiv:8](leg05.htm#fr_12.md) *Tombeau de Seti I.*,
 Part IV., plates 15-18.
 
-<span id="fn_13"></span>[xxiv:9](leg05.htm#fr_13) *Trans. Soc. Bibl.
+<span id="fn_13"></span>[xxiv:9](leg05.htm#fr_13.md) *Trans. Soc. Bibl.
 Arch.*, vol. viii., p. 412 ft.
 
-<span id="fn_14"></span>[xxvii:1](leg05.htm#fr_14) It was also called
+<span id="fn_14"></span>[xxvii:1](leg05.htm#fr_14.md) It was also called
 the "City of Apis," (Brugsch, *Dict. Geog.*, p. 491), and is the Apis
 city of classical writers. It is, perhaps, represented by the modern Kom
 al-Hisn.
 
 ------------------------------------------------------------------------
 
-[Next: Summary: III. The Legend Of Ra and Isis.](leg06)
+[Next: Summary: III. The Legend Of Ra and Isis.](leg06.md)

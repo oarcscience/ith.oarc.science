@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu01)  [Next](cwiu03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu01)  [Next](cwiu03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -199,16 +199,16 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
 ### ILLUSTRATIONS
 
 Figure 1. Typical pre-Copernican diagram of the universe,
-[7](cwiu04.htm#img_00700)
+[7](cwiu04.htm#img_00700.md)
 
 Figure 2. Thomas Digges's diagram of the infinite Copernican universe,
-[37](cwiu05.htm#img_03700)
+[37](cwiu05.htm#img_03700.md)
 
-Figure 3. The figure M of Kepler, [79](cwiu06.htm#img_07900)
+Figure 3. The figure M of Kepler, [79](cwiu06.htm#img_07900.md)
 
 Figure 4. Galileo's star-picture of the shield and sword of Orion,
-[93](cwiu07.htm#img_09300)
+[93](cwiu07.htm#img_09300.md)
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](cwiu03)
+[Next: Introduction](cwiu03.md)

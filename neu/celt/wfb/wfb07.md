@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb06)  [Next](wfb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb06)  [Next](wfb08.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ of the fairies greatly resembles that of the ancient Greeks.
 
 ------------------------------------------------------------------------
 
-[Next: Rhys and Llywelyn](wfb08)
+[Next: Rhys and Llywelyn](wfb08.md)

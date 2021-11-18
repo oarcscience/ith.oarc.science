@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass17)  [Next](nass19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass17)  [Next](nass19.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ was dead. Then the great Grizzly Bear left.
 
 ------------------------------------------------------------------------
 
-[Next: Squirrel](nass19)
+[Next: Squirrel](nass19.md)

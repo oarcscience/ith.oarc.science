@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps34)  [Next](rps36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps34)  [Next](rps36.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ The White Peoples Baptist Brotherhood. No. 2. S.S.S.S.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 34. Black Supremacy's Patten Officer](rps36)
+[Next: Chapter 34. Black Supremacy's Patten Officer](rps36.md)

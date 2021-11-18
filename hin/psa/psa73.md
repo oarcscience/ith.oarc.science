@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa72)  [Next](psa74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa72)  [Next](psa74.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ staying there, made them all happy.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXIII](psa74)
+[Next: Chapter LXXIII](psa74.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo21)  [Next](sdo23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo21)  [Next](sdo23.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ favor for that day.
 
 ------------------------------------------------------------------------
 
-[Next: Capture of the Tree](sdo23)
+[Next: Capture of the Tree](sdo23.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd11)  [Next](bsd13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd11)  [Next](bsd13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -67,7 +67,7 @@ practice, I need only refer my readers to Goethe's *Faust*.
 A recent American writer is responsible for this statement, that if you
 ask an ordinary Japanese which is better, to tell a falsehood or be
 impolite, he will not hesitate to answer, "To tell a falsehood!" Dr.
-Peery <span id="fr_14"></span>[1](#fn_14) is partly right and partly
+Peery <span id="fr_14"></span>[1](#fn_14.md) is partly right and partly
 wrong; right in that an ordinary Japanese, even a samurai, may answer in
 the way ascribed to him, but wrong in attributing too much weight to the
 term he translates "falsehood." This word (in Japanese, *uso*) is
@@ -204,7 +204,7 @@ Nowadays we hear comparatively little of German carelessness and
 dishonesty in trade. In twenty years her merchants have learned that in
 the end honesty pays. Already our merchants have found that out. For the
 rest I recommend the reader to two recent writers for well-weighed
-judgment on this point. <span id="fr_15"></span>[1](#fn_15) It is
+judgment on this point. <span id="fr_15"></span>[1](#fn_15.md) It is
 interesting to remark in this connection that integrity and honour were
 the surest guaranties which even a merchant debtor could present in the
 form of promissory notes. It was quite a usual thing to insert such
@@ -228,13 +228,13 @@ consideration of this feature of the Precepts of Knighthood.
 
 ### Footnotes
 
-<span id="fn_14"></span>[63:1](bsd12.htm#fr_14) Peery, *The Gist of
+<span id="fn_14"></span>[63:1](bsd12.htm#fr_14.md) Peery, *The Gist of
 Japan*, p. 86.
 
-<span id="fn_15"></span>[70:1](bsd12.htm#fr_15) Knapp, *Feudal and
+<span id="fn_15"></span>[70:1](bsd12.htm#fr_15.md) Knapp, *Feudal and
 Modern Japan*, Vol. I., ch. iv.; Ransome, *Japan in Transition*, ch.
 viii.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Honour](bsd13)
+[Next: Chapter VIII: Honour](bsd13.md)

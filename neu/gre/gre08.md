@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre07)  [Next](gre09) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre07)  [Next](gre09.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ the winter-tide.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](gre09)
+[Next: Chapter IV](gre09.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar32)  [Next](gar34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar32)  [Next](gar34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 ### I. ABRAXASTER, OR BORROWED TYPES.
 
 Bellermann in his lucid little treatise, 'Drei Programmen über die
-Abraxas-gemmen,' <span id="fr_132"></span>[\*](#fn_131) has divided his
+Abraxas-gemmen,' <span id="fr_132"></span>[\*](#fn_131.md) has divided his
 subject into three parts--the true *Abraxas*, all of which bear the
 Pantheos commonly so entitled, whose creation is assigned to Basilides
 himself; the *Abraxaster*, or types borrowed from the old religions, but
@@ -81,13 +81,13 @@ Of the Abraxaster class the figures are for the most part drawn from the
 ancient iconography of the Egyptian religion; but they were adopted in a
 more spiritual sense by the newly-arisen sects, holding the doctrines of
 Christianity strangely amalgamated with the old teachings of the
-Mysteries. <span id="fr_133"></span>[\*](#fn_132)
+Mysteries. <span id="fr_133"></span>[\*](#fn_132.md)
 
 Of all these borrowed types the most frequent and most important is the
 Jackal-headed *Anubis* (sometimes double-headed, the human being
 superadded to his own), and bearing the caduceus of Hermes to denote his
 office of conducting souls, not as of yore through the shades of the
-lower world, <span id="fr_134"></span>[†](#fn_133) but along the
+lower world, <span id="fr_134"></span>[†](#fn_133.md) but along the
 planetary path to their final rest in the Pleroma. Thus the Gnostic
 
 <span id="page_228">p. 228</span>
@@ -172,7 +172,7 @@ worshipper, who makes the customary form of adoration by raising his
 hand to his lips, and who has expressed the object of his handiwork by
 the inscription **ΑΛΕΞΑΜΕΝΟC CΕΒΕΤΕ ΘÆΟΝ**. In reality the production of
 some devout, but illiterate Gnostic, it is construed by its present
-owners <span id="fr_135"></span>[\*](#fn_134) into a shocking heathen
+owners <span id="fr_135"></span>[\*](#fn_134.md) into a shocking heathen
 blasphemy, and a jibe upon the good Christian Alexamenos, because they
 mistake the jackal's head for that of an ass, and consequently imagine
 an intentional caricature of their own Crucifix.
@@ -186,7 +186,7 @@ such inscription as this, 'the god of the Christians **ΟΝΟΚΟΙΗΤΗΣ**.' 
 was depicted thus--with the ears of an ass, and with one of his feet
 hoofed, holding in his hand a book, and clothed in the toga." An exact
 description this of the Anubis figured by Matter (Pl. ii. c. No. 1.),
-save that instead of a book the god carries a [caduceus](errata.htm#12)
+save that instead of a book the god carries a [caduceus](errata.htm#12.md)
 and palm-branch. The same calumny was somewhat later transferred by the
 Christians themselves to the account of the Gnostics. Not being
 acquainted with the Egyptian beast, they mistook (perhaps intentionally)
@@ -313,7 +313,7 @@ second Adam was made. Or again, this same combination may have been
 intended to display the Seven Vowels, with their forty and nine Powers,
 the virtues whereof are so wondrously exalted by the inspired writer of
 the Pistis-Sophia (§ 378), whose words are cited in another place. <span
-id="fr_136"></span>[\*](#fn_135) But as the fact bears directly upon the
+id="fr_136"></span>[\*](#fn_135.md) But as the fact bears directly upon the
 
 <span id="page_234">p. 234</span>
 
@@ -335,7 +335,7 @@ The *winged* goddesses Athor and Sate, representing the Roman Venus and
 Juno, sometimes are found accompanied with such legends as makes it
 evident they too had been pressed into the Gnostic service, as
 representatives of certain amongst the *feminine* Æons. <span
-id="fr_137"></span>[\*](#fn_136) But another shape repeatedly presents
+id="fr_137"></span>[\*](#fn_136.md) But another shape repeatedly presents
 his monstrosity to our astonished gaze, whose true character almost sets
 conjecture at defiance, but evidently the offspring of very diverse
 ideas most strangely commingled. He is an aged man, Priapean,
@@ -355,7 +355,7 @@ animal and carnal body. He himself, however, having commended his spirit
 into the Father's hands, ascended up unto the Good One. Now this Good
 One is *Priapus*, He that *created before* anything existed. On this
 account he is called Priapus because he *first made* all things
-(ἐπριαπόισε). <span id="fr_138"></span>[\*](#fn_137) For this reason is
+(ἐπριαπόισε). <span id="fr_138"></span>[\*](#fn_137.md) For this reason is
 he set up in every temple, being honoured by all Nature, and likewise in
 the roadways, having the fruits of Autumn hung about him, that is, the
 fruits of the Creation whereof he is the author, inasmuch as he first
@@ -363,7 +363,7 @@ made the Creation which before was not."
 
 That very frequent type, a mummy swathed in the coils of a vast serpent,
 is easily explained as an allusion to the protection in the next world
-of the ancient agatho-demon, <span id="fr_139"></span>[†](#fn_138) or
+of the ancient agatho-demon, <span id="fr_139"></span>[†](#fn_138.md) or
 the spiritual Naas of the more recent Ophites. The same belief also
 generated that more graceful allegory, the woman enthroned on the back
 of the same reptile, like the Atergatis of Phœnicia.
@@ -380,7 +380,7 @@ earth and the firmament of heaven." The idea in truth has rather an
 Assyrian than Egyptian cast, for in Assyrian works Athor (Mylitta) often
 appears pouring out from her extended arms the Waters of Life; and again
 the Persian female *Ized* Arduisher is by interpretation "The giver of
-living water." <span id="fr_140"></span>[‡](#fn_139)
+living water." <span id="fr_140"></span>[‡](#fn_139.md)
 
 A curious specimen of ancient form, borrowed in a more
 
@@ -418,7 +418,7 @@ thrown by Justinus' exposition making out
 
 the *Trees* of Paradise to be the *Angels* generated between the
 Demiurgus Elohim and his daughter Eden. <span
-id="fr_141"></span>[\*](#fn_140)
+id="fr_141"></span>[\*](#fn_140.md)
 
 There is a sigil of this class, that from its frequency must have been
 considered of peculiar virtue. It represents a fish with immense head
@@ -435,15 +435,15 @@ into the symbolism of the Alexandrine Christians.
 
 ### Footnotes
 
-<span id="fn_131"></span>[226:\*](gar33.htm#fr_132) Berlin, 1820.
+<span id="fn_131"></span>[226:\*](gar33.htm#fr_132.md) Berlin, 1820.
 
-<span id="fn_132"></span>[227:\*](gar33.htm#fr_133) Many of the actual
+<span id="fn_132"></span>[227:\*](gar33.htm#fr_133.md) Many of the actual
 *types*--the mummified erect Osiris, the reclining Isis, the Nile, the
 Horus on the lotus-flower, the Anubis, &c.--occur on the contemporary
 Alexandrian coins; they therefore can only be accounted Gnostic
 productions when their Hebrew inscriptions certify their authorship.
 
-<span id="fn_133"></span>[227:†](gar33.htm#fr_134) In the paintings on
+<span id="fn_133"></span>[227:†](gar33.htm#fr_134.md) In the paintings on
 the mummy-case of Petemenopt (or Ammonius), Osiris the Occidental,
 invoked in the papyrus ritual inclosed with the corpse, is seen seated
 on his throne; <span id="page_228">p. 228</span> at his side, his wife
@@ -455,10 +455,10 @@ regions (the place of the Four Amenti), presents to his sire the defunct
 Petemenopt, swathed in his sepulchral bandages, and holding up his hands
 in the attitude of supplication.
 
-<span id="fn_134"></span>[230:\*](gar33.htm#fr_135) Having been cut from
+<span id="fn_134"></span>[230:\*](gar33.htm#fr_135.md) Having been cut from
 the wall and deposited in the museum of the Collegio Romano.
 
-<span id="fn_135"></span>[233:\*](gar33.htm#fr_136) Goodwin's 'Magic
+<span id="fn_135"></span>[233:\*](gar33.htm#fr_136.md) Goodwin's 'Magic
 Papyrus,' gives, at the end of a spell (No. 1) terminating in several
 vowel-combinations, these directions for pronouncing <span
 id="page_234">p. 234</span> each--
@@ -477,20 +477,20 @@ id="page_234">p. 234</span> each--
 
 **ϒ**, unto the Shepherd (Hermes), as if it were long."
 
-<span id="fn_136"></span>[234:\*](gar33.htm#fr_137) Valentinus made his
+<span id="fn_136"></span>[234:\*](gar33.htm#fr_137.md) Valentinus made his
 Æons in pairs, male and female.
 
-<span id="fn_137"></span>[235:\*](gar33.htm#fr_138) That is, the proper
+<span id="fn_137"></span>[235:\*](gar33.htm#fr_138.md) That is, the proper
 symbol of Priapus, either the phallus or the Egyptian Tau.
 
-<span id="fn_138"></span>[235:†](gar33.htm#fr_139) The **ΗΦΕ** painted
+<span id="fn_138"></span>[235:†](gar33.htm#fr_139.md) The **ΗΦΕ** painted
 on the mummy cases in that very capacity.
 
-<span id="fn_139"></span>[235:‡](gar33.htm#fr_140) At Tarsus (1863) was
+<span id="fn_139"></span>[235:‡](gar33.htm#fr_140) At Tarsus (1863.md) was
 discovered in company with aurei of Sev. Alexander and Gordian III., a
 talisman thus described by Longperier "Amulet formed of lapis-lazuli,
 set <span id="page_236">p. 236</span> in a gold frame of rude
-[workmanship](errata.htm#13), with a ring for suspension. The two faces
+[workmanship](errata.htm#13.md), with a ring for suspension. The two faces
 are engraved in intaglio, and represent an Æon with four wings and
 bird's tail, holding two spears; and with a Venus and the inscription
 (not reversed) **ΑΡΩΡΙ ΦΡΑCΙC**, some letters of which are concealed by
@@ -501,9 +501,9 @@ inscribed **ΑΡΩΡΙ ΟΡΑCΙC**, "The Vision of Arori;" and another with
 **ΑΡΡΩΡΙΦ ΙΑCΙC**, and on the field **CΑΝΤΚΑ** for the owner's name. It
 was under such a form as this that the Supreme Tetrad brought down Truth
 from Heaven to display her beauty to Marcus as he describes in his
-'Revelation' (see [p. 218](gar31.htm#page_218)).
+'Revelation' (see [p. 218](gar31.htm#page_218).md).
 
-<span id="fn_140"></span>[237:\*](gar33.htm#fr_141) An authentic
+<span id="fn_140"></span>[237:\*](gar33.htm#fr_141.md) An authentic
 description of the Tree of Knowledge will doubtless be acceptable to my
 readers. "The Tree of Knowledge also was there, of which if any eats he
 becomes endowed with great wisdom. It was like a species of the
@@ -514,4 +514,4 @@ of Enoch, xxxi. 3-4).
 
 ------------------------------------------------------------------------
 
-[Next: II. Abraxoids, or Gems Confounded with the True Gnostic](gar34)
+[Next: II. Abraxoids, or Gems Confounded with the True Gnostic](gar34.md)

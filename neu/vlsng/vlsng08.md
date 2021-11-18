@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng07)  [Next](vlsng09) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng07)  [Next](vlsng09.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ wise went all things, and he slew the child by the counsel of Signy.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII: Of the Birth of Sinfjotli the Son of
-Sigmund.](vlsng09)
+Sigmund.](vlsng09.md)

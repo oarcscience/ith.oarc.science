@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi007)  [Next](mtsi009) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi007)  [Next](mtsi009.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ of old lady corn.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Orphan and the Origin of Corn (Second Version)](mtsi009)
+[Next: 7. The Orphan and the Origin of Corn (Second Version)](mtsi009.md)

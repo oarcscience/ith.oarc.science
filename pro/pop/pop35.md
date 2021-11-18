@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop34)  [Next](pop36) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop34)  [Next](pop36.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ plots, for he shall turn aside thy design who is thy master.'
 
 ------------------------------------------------------------------------
 
-[Next: The Thirty-First Figure](pop36)
+[Next: The Thirty-First Figure](pop36.md)

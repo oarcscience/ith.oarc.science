@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](cbc30)  [Next](cbc32) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](cbc30)  [Next](cbc32.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ city in Yucatan, but it was a sacred city as well, a center of
 pilgrimage to which people flocked from every part of the peninsula and
 from foreign countries also to make offerings of gold, incense, copper,
 precious stones and human victims. The city owed its reputation for
-sanctity to its cenote, <span id="fr_951"></span>[1](#fn_944) or natural
+sanctity to its cenote, <span id="fr_951"></span>[1](#fn_944.md) or natural
 well, which was believed to be inhabited by the gods and the spirits of
 the illustrious dead. It is a great cup-shaped depression in the earth
 with perpendicular walls, about seventy feet down to the surface of the
@@ -30,7 +30,7 @@ towns, they had two infamous sanctuaries at Chichen Itzá and Cozumel,
 where they sent an infinite number of wretched people to be sacrificed.
 At the former they were flung headlong down a precipice, and at the
 latter they tore out their hearts." <span
-id="fr_952"></span>[2](#fn_945) "From the court facing these theaters
+id="fr_952"></span>[2](#fn_945.md) "From the court facing these theaters
 (two stone platforms in front of the main temple) a broad and handsome
 causeway led to a well about twice a stone's throw distant. Into this
 well it was their custom to cast living men as a sacrifice to the Gods
@@ -54,23 +54,23 @@ I do
 <span id="page_174">p. 174</span>
 
 not know how anyone can say that these people did not have steel
-tools. <span id="fr_953"></span>[1](#fn_946) I also found two men of
+tools. <span id="fr_953"></span>[1](#fn_946.md) I also found two men of
 great stature each carved from a single block of stone, naked but their
 modesty preserved by the coverings the Indians formerly used. They had
 separate heads with ear-rings in the ears such as the Indians used to
 wear. There was a tenon at the back of the neck which fitted into a deep
 hole made for it which was also in the neck. When fitted together it
-made a complete figure." <span id="fr_954"></span>[2](#fn_947) Landa
+made a complete figure." <span id="fr_954"></span>[2](#fn_947.md) Landa
 also tells us "that they held Cozumel and the well at Chichen Itzá in as
 great veneration as we do the pilgrimages to Jerusalem and Rome." <span
-id="fr_955"></span>[3](#fn_948)
+id="fr_955"></span>[3](#fn_948.md)
 
 A report by the municipality of Valladolid written in 1579 covers a
 number of details omitted by Landa. Here we read: "This pyramid (the
 principal temple of the city) lies between two cenotes of very deep
 water. One of these is called the Sacrificial Cenote. Chichen Itzá was
 named for an Indian who lived beside the Sacrificial Cenote and who was
-called Ah Kin Itzá. <span id="fr_956"></span>[4](#fn_949) It was the
+called Ah Kin Itzá. <span id="fr_956"></span>[4](#fn_949.md) It was the
 custom of the lords and nobles of all these provinces of Valladolid to
 fast for sixty days without raising their eyes during this time even to
 look at their wives or those who brought them their food. And this they
@@ -98,16 +98,16 @@ forth. In this it rather resembles
 <span id="page_175">p. 175</span>
 
 what occurred at the cave of Salamanca. <span
-id="fr_957"></span>[1](#fn_950) Then when it was seen that she was not
+id="fr_957"></span>[1](#fn_950.md) Then when it was seen that she was not
 coming out, that lord and all of his &lt;men&gt; threw great stones into
 the water and fled precipitately from the place making a great
-outcry." <span id="fr_958"></span>[2](#fn_951)
+outcry." <span id="fr_958"></span>[2](#fn_951.md)
 
-We have seen in the Chumayel, <span id="fr_959"></span>[3](#fn_952)
+We have seen in the Chumayel, <span id="fr_959"></span>[3](#fn_952.md)
 however, that one man at least did not flee in terror from the cenote
 when none of the messengers to the gods returned. This was Hunac Ceel,
 later the head-chief of Mayapan who conquered Chichen Itzá and drove out
-its inhabitants. <span id="fr_960"></span>[4](#fn_953) He was evidently
+its inhabitants. <span id="fr_960"></span>[4](#fn_953.md) He was evidently
 of the stuff of which rulers are made, a man with sufficient courage and
 force of character to shape his own destiny. When no one appeared on the
 surface of the water crying to be drawn out, he realized that the
@@ -123,16 +123,16 @@ summer of 1588, Antonio de Ciudad Real, the reputed author of the Motul
 Dictionary, tells of the Sacrificial Cenote at Chichen Itzá and adds the
 detail that "they even say that in the wall of this well or *zonote*
 there is a cave which enters a considerable distance within &lt;the
-cliff&gt;." <span id="fr_961"></span>[5](#fn_954) In his description of
+cliff&gt;." <span id="fr_961"></span>[5](#fn_954.md) In his description of
 the ruins of Mayapan the same writer describes the principal pyramid and
 states: "Near the foot of this *mul* (pyramid) there is a very deep
 *zonote* with a very flat stone at the edge of its mouth from which (as
 they say) they flung down those whom they sacrificed to their
-gods." <span id="fr_962"></span>[6](#fn_955) Stephens found a cenote at
+gods." <span id="fr_962"></span>[6](#fn_955.md) Stephens found a cenote at
 Mayapan near the base of one of the larger pyramids there but states
 that it was in a cave. "The entrance was by a broken, yawning mouth,
 steep, and requiring some care in the descent." <span
-id="fr_963"></span>[7](#fn_956)
+id="fr_963"></span>[7](#fn_956.md)
 
 Long after Chichen Itzá ceased to be of political importance, its sacred
 cenote continued to draw pilgrims. The last pilgrimage of which we have
@@ -146,7 +146,7 @@ hunger, so great that they were
 <span id="page_176">p. 176</span>
 
 even brought to eat the bark of trees, especially one which they called
-*cumche*, <span id="fr_964"></span>[1](#fn_957) which is soft and tender
+*cumche*, <span id="fr_964"></span>[1](#fn_957.md) which is soft and tender
 inside. On account of this famine the Xiu who are Lords of Mani resolved
 to make a solemn sacrifice to the idols, bearing certain slaves, both
 men and maidens, to be thrown into the well of Chichen Itzá, and to
@@ -157,9 +157,9 @@ Cocom) asking them to let them (the Xiu) pass through their land. And
 the Cocomes deceived them with a fair reply, and giving them shelter all
 together in one great house they set fire to it and slew those who
 escaped, and for this reason there were great wars." <span
-id="fr_965"></span>[2](#fn_958) Here we have the complete story of the
-murder of Napot Xiu mentioned on pages [138](cbc24.htm#page_138),
-[142](cbc26.htm#page_142) and [146](cbc27.htm#page_146) of the present
+id="fr_965"></span>[2](#fn_958.md) Here we have the complete story of the
+murder of Napot Xiu mentioned on pages [138](cbc24.htm#page_138.md),
+[142](cbc26.htm#page_142) and [146](cbc27.htm#page_146.md) of the present
 work. From this it would appear that the rain-god was one of the
 divinities who dwelt in the Sacrificial Cenote.
 
@@ -170,7 +170,7 @@ lord who dwelt at the ancient city of Chichen Itzá and to whom all the
 lords of this province were tributaries. And even from without the
 province, from Mexico, Guatemala, Chiapas and other provinces they sent
 them presents in token of peace and friendship." <span
-id="fr_966"></span>[3](#fn_959) We can not but believe that these
+id="fr_966"></span>[3](#fn_959.md) We can not but believe that these
 foreign embassies, which must have traveled for weeks through tropical
 forests, swamps and waterless wastes to reach a far-off city in
 northeastern Yucatan, were motivated more by the religious veneration
@@ -181,7 +181,7 @@ its rulers enjoyed in such a distant country.
 
 ### Footnotes
 
-<span id="fn_944"></span>[173:1](cbc31.htm#fr_951) The word cenote is a
+<span id="fn_944"></span>[173:1](cbc31.htm#fr_951.md) The word cenote is a
 Spanish corruption of the Maya *¢onot*. As the drainage of Yucatan is
 subterranean and the ponds of surface water are unfit to drink, the
 water used is drawn either from cenotes or artificial wells. In Maya
@@ -189,56 +189,56 @@ c~~h~~een, which means an artificial well primarily, is also another
 name for a cenote, hence the name Chichen Itzá, which means the mouth of
 the well of the Itzá.
 
-<span id="fn_945"></span>[173:2](cbc31.htm#fr_952) Landa 1900, p. 367.
+<span id="fn_945"></span>[173:2](cbc31.htm#fr_952.md) Landa 1900, p. 367.
 
-<span id="fn_946"></span>[174:1](cbc31.htm#fr_953) Landa employs the
+<span id="fn_946"></span>[174:1](cbc31.htm#fr_953.md) Landa employs the
 term, *herramientas*, which means iron or steel tools, but he must have
 meant merely hard metal tools in general. It would seem that he was too
 well informed about the Indians to believe that they ever had iron or
 steel.
 
-<span id="fn_947"></span>[174:2](cbc31.htm#fr_954) Landa 1900, pp.
+<span id="fn_947"></span>[174:2](cbc31.htm#fr_954.md) Landa 1900, pp.
 365-366.
 
-<span id="fn_948"></span>[174:3](cbc31.htm#fr_955) *Ibid*., p. 335.
+<span id="fn_948"></span>[174:3](cbc31.htm#fr_955.md) *Ibid*., p. 335.
 
-<span id="fn_949"></span>[174:4](cbc31.htm#fr_956) Literally the priest
+<span id="fn_949"></span>[174:4](cbc31.htm#fr_956.md) Literally the priest
 Itzá; written Alquin Itzá in the report. Besides being the name of a
 nation, Itzá is also a common family name in Yucatan.
 
-<span id="fn_950"></span>[175:1](cbc31.htm#fr_957) There was a story of
+<span id="fn_950"></span>[175:1](cbc31.htm#fr_957.md) There was a story of
 an enchanted cave at Salamanca in Spain which contained an oracle. Of
 seven who entered to consult the oracle only six ever returned
 (Relaciones de Yucatan, II, p. 26, note 1).
 
-<span id="fn_951"></span>[175:2](cbc31.htm#fr_958) Ibid., II, pp. 25-26.
+<span id="fn_951"></span>[175:2](cbc31.htm#fr_958.md) Ibid., II, pp. 25-26.
 
-<span id="fn_952"></span>[175:3](cbc31.htm#fr_959) *Cf.* [p.
-75](cbc07.htm#page_75).
+<span id="fn_952"></span>[175:3](cbc31.htm#fr_959.md) *Cf.* [p.
+75](cbc07.htm#page_75.md).
 
-<span id="fn_953"></span>[175:4](cbc31.htm#fr_960) *Cf.* [p.
-137](cbc24.htm#page_137) and Appendix C.
+<span id="fn_953"></span>[175:4](cbc31.htm#fr_960.md) *Cf.* [p.
+137](cbc24.htm#page_137.md) and Appendix C.
 
-<span id="fn_954"></span>[175:5](cbc31.htm#fr_961) Ciudad Real 1873, II,
+<span id="fn_954"></span>[175:5](cbc31.htm#fr_961.md) Ciudad Real 1873, II,
 p. 404.
 
-<span id="fn_955"></span>[175:6](cbc31.htm#fr_962) *Ibid*., II, p. 471.
+<span id="fn_955"></span>[175:6](cbc31.htm#fr_962.md) *Ibid*., II, p. 471.
 Ciudad Real apparently confused the Mayapan cenote with the one at
 Chichen Itzá.
 
-<span id="fn_956"></span>[175:7](cbc31.htm#fr_963) Stephens 1843, I, p.
+<span id="fn_956"></span>[175:7](cbc31.htm#fr_963.md) Stephens 1843, I, p.
 134.
 
-<span id="fn_957"></span>[176:1](cbc31.htm#fr_964) The *cumche*, or
+<span id="fn_957"></span>[176:1](cbc31.htm#fr_964.md) The *cumche*, or
 *kumche*, has been identified as *Leucopremna mexicana* (A. DC.) Standl.
 and is called *bonete* in Spanish (Roys 1931, p., 259).
 
-<span id="fn_958"></span>[176:2](cbc31.htm#fr_965) Landa 1928, pp.
+<span id="fn_958"></span>[176:2](cbc31.htm#fr_965.md) Landa 1928, pp.
 112-114, translated by S. G. Morley, 1920, p. 478.
 
-<span id="fn_959"></span>[176:3](cbc31.htm#fr_966) Relaciones de
+<span id="fn_959"></span>[176:3](cbc31.htm#fr_966.md) Relaciones de
 Yucatan, I, p. 120.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix C: The Hunac Ceel Episode](cbc32)
+[Next: Appendix C: The Hunac Ceel Episode](cbc32.md)

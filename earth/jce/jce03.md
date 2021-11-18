@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce02)  [Next](jce04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce02)  [Next](jce04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -117,12 +117,12 @@ the genius of a true geologist with the keen eye of the mineralogist.
 Armed with his hammer, his steel pointer, his magnetic needles, his
 blowpipe, and his bottle of nitric acid, he was a powerful man of
 science. He would refer any mineral to its proper place among the six
-hundred  <span id="fr_0"></span>[1](#fn_0) elementary substances now
+hundred  <span id="fr_0"></span>[1](#fn_0.md) elementary substances now
 enumerated, by its fracture, its appearance, its hardness, its
 fusibility, its sonorousness, its smell, and its taste.
 
 The name of Liedenbrock was honourably mentioned in colleges and learned
-societies. Humphry Davy,  <span id="fr_1"></span>[2](#fn_1) Humboldt,
+societies. Humphry Davy,  <span id="fr_1"></span>[2](#fn_1.md) Humboldt,
 Captain Sir John Franklin, General Sabine, never failed to call upon him
 on their way through Hamburg. Becquerel, Ebelman, Brewster, Dumas,
 Milne-Edwards, Saint-Claire-Deville frequently consulted him upon the
@@ -187,13 +187,13 @@ I therefore rushed after him.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](jce03.htm#fr_0) Sixty-three. (Tr.)
+<span id="fn_0"></span>[1](jce03.htm#fr_0) Sixty-three. (Tr..md)
 
-<span id="fn_1"></span>[2](jce03.htm#fr_1) As Sir Humphry Davy died in
+<span id="fn_1"></span>[2](jce03.htm#fr_1.md) As Sir Humphry Davy died in
 1829, the translator must be pardoned for pointing out here an
 anachronism, unless we are to assume that the learned Professor's
 celebrity dawned in his earliest years. (Tr.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. A Mystery to be Solved at Any Price](jce04)
+[Next: Chapter II. A Mystery to be Solved at Any Price](jce04.md)

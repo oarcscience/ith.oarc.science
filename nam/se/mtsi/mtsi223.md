@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi222)  [Next](mtsi224) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi222)  [Next](mtsi224.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ because she had let them know that he was a young man.
 
 ------------------------------------------------------------------------
 
-[Next: 24. Pigeon Hawk Brings Down the Iron](mtsi224)
+[Next: 24. Pigeon Hawk Brings Down the Iron](mtsi224.md)

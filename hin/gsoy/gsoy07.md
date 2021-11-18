@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy06) 
-[Next](gsoy08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy06.md) 
+[Next](gsoy08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ be no practice for some time after meals. It is better to eat a small
 amount of food frequently (with at least three hours’ intervals) than
 much at once. If the body perspires it should be well rubbed (with the
 hands). When the practice has become well established, these rules need
-not be so strictly observed." <span id="fr_50"></span>[1](#fn_50)
+not be so strictly observed." <span id="fr_50"></span>[1](#fn_50.md)
 
 One does not wish to put any of these *hatha-yoga* practices into print,
 to be read by various kinds of people, without sounding a warning. Many
@@ -126,7 +126,7 @@ things, to receive personal inspection and instruction. For example, the
 *Gheranda Sanhitā* announces that if one begins the practices in hot,
 cold or rainy weather, disease will be contracted, and also if there is
 not moderation in diet, for only one half the stomach must ever be
-filled with solid food. <span id="fr_51"></span>[2](#fn_51) When the
+filled with solid food. <span id="fr_51"></span>[2](#fn_51.md) When the
 present writer tried, as a boy of fourteen or fifteen, the long
 alternate breathing for three quarters of an hour, he found when he
 stood up that he had lost his sense of touch and weight. He handled
@@ -137,14 +137,14 @@ The *Hatha Yoga Pradīpikā* states that control of breath must be brought
 about very gradually, "as lions, elephants and tigers are tamed," or
 else "the experimenter will be killed," and by any mistake there arises
 cough, asthma, head, eye and ear pains, and many other diseases. <span
-id="fr_52"></span>[3](#fn_52) The *Shāndilya Upanishad* gives the same
+id="fr_52"></span>[3](#fn_52.md) The *Shāndilya Upanishad* gives the same
 warning. On the other hand, right
 
 <span id="page_92">p. 92</span>
 
 practice may be undertaken by anybody, even the young and the old, the
 sick and the weak, and will result in slenderness and rightness of
-body. <span id="fr_53"></span>[4](#fn_53)
+body. <span id="fr_53"></span>[4](#fn_53.md)
 
 The theory behind these breathing exercises is that between the mind and
 the body comes *prāna*. This word is translated "principle of
@@ -154,7 +154,7 @@ of the human body. *Prāna* is always referred to as the chief of these
 vital airs. The word comes from a verbal root "an" meaning "to breathe,"
 and thus "to live." Patanjali in his aphorism on *Prānāyāma* calls it
 regulation of the manner of movement of *shwāsa* and *prashwāsa*, that
-is, breathing. <span id="fr_54"></span>[5](#fn_54) The late Dr. Vaman R.
+is, breathing. <span id="fr_54"></span>[5](#fn_54.md) The late Dr. Vaman R.
 Kokatnur, noted scientist and Sanskrit scholar, in a paper read at the
 American Chemical Society's meeting in Detroit in September 1927, quoted
 a text which says that what is inhaled is *prāna* and what is exhaled is
@@ -209,7 +209,7 @@ Some teachers maintain that all the impurities of the body may be
 removed merely by control of breath, but others hold that it is
 necessary to practice also certain cleansings, especially in the case of
 persons who are flabby and phlegmatic. <span
-id="fr_55"></span>[6](#fn_55)
+id="fr_55"></span>[6](#fn_55.md)
 
 The six principal purifications are: (1) slowly (under the direction of
 a teacher) learn to swallow a clean, slightly warm, thin cloth, four
@@ -223,7 +223,7 @@ thread, twelve fingers long, in at one nostril and out at the mouth; (4)
 look at something without winking, until tears come; (5) with the head
 bent down, slowly massage the intestines, round and round both ways, and
 (6) breathe rapidly, like the bellows of a blacksmith. <span
-id="fr_56"></span>[7](#fn_56) These acts are said to remove corpulence
+id="fr_56"></span>[7](#fn_56.md) These acts are said to remove corpulence
 and many other diseases.
 
 The *Gheranda Sanhitā* has a much bigger collection—about twenty-four
@@ -234,7 +234,7 @@ times, massaging the depression at the bridge of the nose (especially
 after waking and after meals); vomiting by tickling the throat;
 gargling; drawing air softly in at one nostril, and sending it out
 softly at the other, alternately; drinking water in at the nostrils and
-letting it out at the mouth. <span id="fr_57"></span>[8](#fn_57)
+letting it out at the mouth. <span id="fr_57"></span>[8](#fn_57.md)
 
 Closely connected with the elaborate practices of *prānāyāma* are the
 postures (*āsanās*). Quite often eighty-four of these are enumerated,
@@ -247,20 +247,20 @@ itself with recommending four, which are called "The Adept Seat," "The
 Lotus Seat," "The Powerful Seat," and "The Swastika Seat." These are
 briefly as follows: (1) body straight, legs crossed, one heel at the
 anus, the other at the front, gaze between the eyebrows, chin on
-breast; <span id="fr_58"></span>[9](#fn_58) (2) legs folded with feet,
+breast; <span id="fr_58"></span>[9](#fn_58) (2.md) legs folded with feet,
 soles upwards, on opposite thighs, arms crossed, hands on thighs, tongue
 pressed against teeth, chin on breast or held up, gaze on tip of nose
 (or straight in front); or arms may be crossed behind, hands holding
-great toes; <span id="fr_59"></span>[10](#fn_59) (3) legs stretched out,
+great toes; <span id="fr_59"></span>[10](#fn_59) (3.md) legs stretched out,
 apart, head held in hands and placed on knees; <span
-id="fr_60"></span>[11](#fn_60) (4) feet between calves and thighs, body
-straight. <span id="fr_61"></span>[12](#fn_61) The *Hatha Yoga
+id="fr_60"></span>[11](#fn_60) (4.md) feet between calves and thighs, body
+straight. <span id="fr_61"></span>[12](#fn_61.md) The *Hatha Yoga
 Pradīpikā* also advocates four *āsanās* especially, two being the same
 and two different.
 
 An excellent modern book on *prānāyāma*, *āsanās* etc., is *Yoga Asanās*
 by Swāmī Shivānanda, of Rishikesh, in the Himālayas. <span
-id="fr_62"></span>[13](#fn_62) In this the Swāmī explains with
+id="fr_62"></span>[13](#fn_62.md) In this the Swāmī explains with
 illustrations a large number of postures, including the *Sukhāsana*, or
 "pleasant posture" described and recommended for the West in my
 *Practical*
@@ -295,7 +295,7 @@ respectively numbering four, six, eight, twelve, sixteen, and two.
 
 The works describing these *chakras*, and the effects of meditation upon
 them or in them, are altogether too numerous even to mention. <span
-id="fr_63"></span>[14](#fn_63) They are depicted with very much
+id="fr_63"></span>[14](#fn_63.md) They are depicted with very much
 symbology. For example, the *anāhata chakra* (at the heart) has a
 *yantra* or design showing twelve petals, each one bearing a certain
 letter of the alphabet. In the center circle there is a pair of
@@ -331,7 +331,7 @@ Upanishads, Purānas and general works on yoga touching on this subject.
 There is a certain amount of conflicting testimony on the subject of
 colors, divinities etc., but this does not mar the general unity of
 information as regards all the main features. <span
-id="fr_64"></span>[15](#fn_64)
+id="fr_64"></span>[15](#fn_64.md)
 
 There is in all the literature on the subject a poetical rather than an
 exact description of what happens as *kundalinī* rises. The spine is
@@ -347,7 +347,7 @@ rises up little by little, as the yogī employs his will. In one practice
 he brings her as far as he can, and, as she pierces any one of the
 lotuses, its face, which was turned downwards before, turns upwards, and
 when the meditation is finished he leads her back to her home near the
-base of the spine. <span id="fr_65"></span>[16](#fn_65)
+base of the spine. <span id="fr_65"></span>[16](#fn_65.md)
 
 It is further explained that as she leaves each *chakra* on the way up,
 she withdraws the functions of that center, and so makes them latent,
@@ -373,10 +373,10 @@ The hatha-yoga books take up a curious view of the mind in relation to
 all these matters. It is expressed in a few verses of the *Hatha-Yoga
 Pradīpikā*. "The mind is the lord of the senses; the breath is the lord
 of the mind; and that depends on *nāda*." <span
-id="fr_66"></span>[17](#fn_66) "There is talk of *laya*, *laya*, but
+id="fr_66"></span>[17](#fn_66.md) "There is talk of *laya*, *laya*, but
 what is its character? *Laya* is the non-arising of further
-vāsanās, <span id="fr_67"></span>[18](#fn_67) and the forgetting of
-external things." <span id="fr_68"></span>[19](#fn_68) Some of the minor
+vāsanās, <span id="fr_67"></span>[18](#fn_67.md) and the forgetting of
+external things." <span id="fr_68"></span>[19](#fn_68.md) Some of the minor
 Upanishads, such as the *Muktika* of the *Shukla-Yajurveda*, have a
 similar idea.
 
@@ -441,7 +441,7 @@ sounds. The first will be like the
 hum of a bee, then a flute and then a *vīnā*. With more practice there
 comes the sound of bells, and afterwards thunder. The mind of the yogī
 becomes absorbed in these sounds, and he forgets the external things
-which could distract him. <span id="fr_69"></span>[20](#fn_69) These
+which could distract him. <span id="fr_69"></span>[20](#fn_69.md) These
 sounds are usually called *anāhata*, or belonging to the heart center.
 According to the *Hatha Yoga Pradīpikā*, when the ears, eyes, nose and
 mouth are closed, a clear sound is heard—first like the tinkling of
@@ -460,7 +460,7 @@ and, lastly, thunder. The *nāda laya* or "absorption
 <span id="page_105">p. 105</span>
 
 through sound" is regarded as a great aid to concentration. <span
-id="fr_70"></span>[21](#fn_70)
+id="fr_70"></span>[21](#fn_70.md)
 
 *Samādhi*, the highest practice of yoga, is conceived in a very material
 manner in the *hatha-yoga* books. The idea is that the yogī in *samādhi*
@@ -470,10 +470,10 @@ inactive, and he does not even know himself or others. Although the
 with the supreme Self (*Parātman*) so that "I am Brahma and no other;
 Brahma am I, without any sorrows; I am of the nature of fundamental
 existence, knowledge and bliss, always free and self -supporting," <span
-id="fr_71"></span>[22](#fn_71) it also prescribes, for the attainment of
+id="fr_71"></span>[22](#fn_71.md) it also prescribes, for the attainment of
 this, various *mudrās* or physical practices, such as that of turning
 the tongue into the nasal cavity and stopping the breath, <span
-id="fr_72"></span>[23](#fn_72) the theory being that all you need to do
+id="fr_72"></span>[23](#fn_72.md) the theory being that all you need to do
 is to cut off contact with this world, and the other state will be
 there.
 
@@ -481,53 +481,53 @@ there.
 
 ### Footnotes
 
-<span id="fn_50"></span>[90:1](gsoy07.htm#fr_50) *Shiva Sanhitā* iii
+<span id="fn_50"></span>[90:1](gsoy07.htm#fr_50.md) *Shiva Sanhitā* iii
 22-40; abridged translation.
 
-<span id="fn_51"></span>[91:2](gsoy07.htm#fr_51) *Gheranda Sanhitā* v 8,
+<span id="fn_51"></span>[91:2](gsoy07.htm#fr_51.md) *Gheranda Sanhitā* v 8,
 16, 22.
 
-<span id="fn_52"></span>[91:3](gsoy07.htm#fr_52) ii 15-18, and i 15.
+<span id="fn_52"></span>[91:3](gsoy07.htm#fr_52.md) ii 15-18, and i 15.
 
-<span id="fn_53"></span>[92:4](gsoy07.htm#fr_53) i 64, and ii 20.
+<span id="fn_53"></span>[92:4](gsoy07.htm#fr_53.md) i 64, and ii 20.
 
-<span id="fn_54"></span>[92:5](gsoy07.htm#fr_54) See *Practical Yoga:
+<span id="fn_54"></span>[92:5](gsoy07.htm#fr_54.md) See *Practical Yoga:
 Ancient and Modern*, by Ernest Wood; Ch. 8, Aphorism ii 49.
 
-<span id="fn_55"></span>[94:6](gsoy07.htm#fr_55) *Hatha Yoga Pradīpikā*
+<span id="fn_55"></span>[94:6](gsoy07.htm#fr_55.md) *Hatha Yoga Pradīpikā*
 ii 37, 21.
 
-<span id="fn_56"></span>[95:7](gsoy07.htm#fr_56) *Ibid*. ii 22-35.
+<span id="fn_56"></span>[95:7](gsoy07.htm#fr_56.md) *Ibid*. ii 22-35.
 
-<span id="fn_57"></span>[95:8](gsoy07.htm#fr_57) *Gheranda Sanhitā* i,
+<span id="fn_57"></span>[95:8](gsoy07.htm#fr_57.md) *Gheranda Sanhitā* i,
 13-61.
 
-<span id="fn_58"></span>[96:9](gsoy07.htm#fr_58) *Shiva Sanhitā* iii 85;
+<span id="fn_58"></span>[96:9](gsoy07.htm#fr_58.md) *Shiva Sanhitā* iii 85;
 *Gheranda Sanhitā* ii 7, 8; *Hatha Yoga Pradīpikā* i 36.
 
-<span id="fn_59"></span>[96:10](gsoy07.htm#fr_59) *Shiva Sanhitā* ii 88;
+<span id="fn_59"></span>[96:10](gsoy07.htm#fr_59.md) *Shiva Sanhitā* ii 88;
 *Gheranda S*. ii 9; *Hatha-yoga P*. i 45, 46.
 
-<span id="fn_60"></span>[96:11](gsoy07.htm#fr_60) *Shiva Sanhitā* iii
+<span id="fn_60"></span>[96:11](gsoy07.htm#fr_60.md) *Shiva Sanhitā* iii
 92; *Gheranda S*. 23; *Hatha-yoga P*. i 29.
 
-<span id="fn_61"></span>[96:12](gsoy07.htm#fr_61) *Shiva Sanhitā* iii
+<span id="fn_61"></span>[96:12](gsoy07.htm#fr_61.md) *Shiva Sanhitā* iii
 95; *Gheranda S*. ii 14; *Hatha-yoga P*. i 20.
 
-<span id="fn_62"></span>[96:13](gsoy07.htm#fr_62) Published by The Vaman
+<span id="fn_62"></span>[96:13](gsoy07.htm#fr_62.md) Published by The Vaman
 Press, 31 Broadway, Madras, India.
 
-<span id="fn_63"></span>[98:14](gsoy07.htm#fr_63) Except that one would
+<span id="fn_63"></span>[98:14](gsoy07.htm#fr_63.md) Except that one would
 wish to refer the Western reader to *The Serpent Power*, by Arthur
 Avalon, published by Ganesh and Co., Thyagarayanagar, Madras, India, for
 very full information.
 
-<span id="fn_64"></span>[99:15](gsoy07.htm#fr_64) The *Yoga Kundalī
+<span id="fn_64"></span>[99:15](gsoy07.htm#fr_64.md) The *Yoga Kundalī
 Upanishad* gives sixteen petals in the heart center, instead of twelve,
 and the *Dhyānabindu Upanishad* and the *Shāndilya Upanishad* both
 describe the navel *padma* as having twelve petals instead of ten.
 
-<span id="fn_65"></span>[100:16](gsoy07.htm#fr_65) There is a little
+<span id="fn_65"></span>[100:16](gsoy07.htm#fr_65.md) There is a little
 difference of opinion here. Some hold that once she has reached the
 heart chakra that will be her permanent home, and she will not return
 below it. Others say that even from the beginning she was at the level
@@ -535,29 +535,29 @@ of the navel. These are not altogether reasonable views, if, as is
 usually believed, *kundalinī* has the work of purifying and transmuting
 all the lower centers on her return journey from the higher.
 
-<span id="fn_66"></span>[101:17](gsoy07.htm#fr_66) *Hatha-Yoga
+<span id="fn_66"></span>[101:17](gsoy07.htm#fr_66.md) *Hatha-Yoga
 Pradīpikā* iv 29.
 
-<span id="fn_67"></span>[101:18](gsoy07.htm#fr_67) Vāsanā is the
+<span id="fn_67"></span>[101:18](gsoy07.htm#fr_67.md) Vāsanā is the
 "perfume" of past attachments or desires, which now produce pleasure and
 pain; if one may use a crude simile, like the smell of onions long after
 they have been eaten.
 
-<span id="fn_68"></span>[101:19](gsoy07.htm#fr_68) iv 34.
+<span id="fn_68"></span>[101:19](gsoy07.htm#fr_68.md) iv 34.
 
-<span id="fn_69"></span>[104:20](gsoy07.htm#fr_69) *Shiva Sanhitā* v
+<span id="fn_69"></span>[104:20](gsoy07.htm#fr_69.md) *Shiva Sanhitā* v
 22-28. See also *The Voice of the Silence*, by H. P. Blavatsky, which
 gives the order as like the sounds of the nightingale, silver cymbal,
 shell, lute, trumpet, thunder, and much other very valuable information
 on yoga.
 
-<span id="fn_70"></span>[105:21](gsoy07.htm#fr_70) *Ibid*. iv 109.
+<span id="fn_70"></span>[105:21](gsoy07.htm#fr_70.md) *Ibid*. iv 109.
 
-<span id="fn_71"></span>[105:22](gsoy07.htm#fr_71) *Op. cit*. vii 3, 4.
+<span id="fn_71"></span>[105:22](gsoy07.htm#fr_71.md) *Op. cit*. vii 3, 4.
 
-<span id="fn_72"></span>[105:23](gsoy07.htm#fr_72) *Ibid*. vii 7 *et
+<span id="fn_72"></span>[105:23](gsoy07.htm#fr_72.md) *Ibid*. vii 7 *et
 seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six. The Bhakti And Mantra Yogas](gsoy08)
+[Next: Chapter Six. The Bhakti And Mantra Yogas](gsoy08.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe25)  [Next](boe27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe25)  [Next](boe27.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ accompanied Columbus on the voyage
 
 <span id="img_fig089"></span> ![FIGURE 89. &lt;i&gt;The pear-shaped
 Earth of Columbus&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Paradise
-Found&lt;/i&gt;; William Fairfield Warren, 1885.)](img/fig089.jpg)  
+Found&lt;/i&gt;; William Fairfield Warren, 1885.)](img/fig089.jpg.md)  
 FIGURE 89. *The pear-shaped Earth of Columbus*.  
 (From *Paradise Found*; William Fairfield Warren, 1885.)
 
@@ -43,7 +43,7 @@ soo with the salte water, faule head-longe from the toppes of the sayde
 mountaynes."
 
 Columbus himself, in a letter to Ferdinand and Isabella regarding his
-third voyage, wrote: <span id="fr_16"></span>[1](#fn_16)
+third voyage, wrote: <span id="fr_16"></span>[1](#fn_16.md)
 
 "I have always read that the world comprising the land and water was
 spherical, and the recorded experiences of Ptolemy and all the others
@@ -77,9 +77,9 @@ western.
 
 ### Footnotes
 
-<span id="fn_16"></span>[208:1](boe26.htm#fr_16) *Select Letters of
+<span id="fn_16"></span>[208:1](boe26.htm#fr_16.md) *Select Letters of
 Columbus*: Hakluyt Soc. Pub., and ed. pp. 134-138.
 
 ------------------------------------------------------------------------
 
-[Next: Dante's Universe](boe27)
+[Next: Dante's Universe](boe27.md)

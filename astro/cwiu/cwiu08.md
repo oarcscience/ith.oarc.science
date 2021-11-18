@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu07)  [Next](cwiu09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu07)  [Next](cwiu09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -24,10 +24,10 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
 Henry More was one of the first partisans of Descartes in England even
 though, as a matter of fact, he never was a Cartesian and later in life
 turned against Descartes and even accused the Cartesians of being
-promoters of atheism.[1](cwiu16.htm#an_5_1) More exchanged with the
+promoters of atheism.[1](cwiu16.htm#an_5_1.md) More exchanged with the
 French philosopher a series of extremely interesting letters which
 throws a vivid light on the respective positions of the two
-thinkers.[2](cwiu16.htm#an_5_2)
+thinkers.[2](cwiu16.htm#an_5_2.md)
 
 More starts, naturally, by expressing his admiration for the great man
 who has done so much to establish truth and dissipate error, continues
@@ -46,7 +46,7 @@ not better to assume that the soul, though immaterial, is also extended;
 that everything, even God, is extended? How could He otherwise be
 present in the world?
 
-Thus More writes:[3](cwiu16.htm#an_5_3)
+Thus More writes:[3](cwiu16.htm#an_5_3.md)
 
 <div class="iq">
 
@@ -143,7 +143,7 @@ or rather Neoplatonist, More was deeply
 
 influenced by the tradition of Greek atomism, which is not surprising in
 view of the fact that one of his earliest works bears the revealing
-title, *Democritus Platonissans*. . .[4](cwiu16.htm#an_5_4)
+title, *Democritus Platonissans*. . .[4](cwiu16.htm#an_5_4.md)
 
 What he wants is just to avoid the Cartesian geometrization of being,
 and to maintain the old distinction between *space* and the things that
@@ -155,14 +155,14 @@ exclude each other from their "places."
 *Grosso modo*, these are Democritian conceptions and that explains the
 far-reaching similarity of Henry More's objections to Descartes to those
 of Gassendi, the chief representative of atomism in the XVIIth
-century.[5](cwiu16.htm#an_5_5) Yet Henry More is by no means a pure
+century.[5](cwiu16.htm#an_5_5.md) Yet Henry More is by no means a pure
 Democritian. He does not reduce being to matter. And his space is not
 the infinite void of Lucretius: it is full, and not full of "ether" like
 the infinite space of Bruno. It is full of God, and in a certain sense
 it is God Himself as we shall see more clearly hereafter.
 
 Let us now come to More's *fourth* and most important objection to
-Descartes:[6](cwiu16.htm#an_5_6)
+Descartes:[6](cwiu16.htm#an_5_6.md)
 
 <div class="iq">
 
@@ -183,13 +183,13 @@ expansion, that of the divine essence, the matter of your
 
 vortices will recede from their centers and the whole fabric of the
 world will be dissipated into atoms and grains of
-dust.[7](cwiu16.htm#an_5_7)
+dust.[7](cwiu16.htm#an_5_7.md)
 
 </div>
 
 <span class="contnote">\[paragraph continues\]</span> Having thus
 impaled Descartes on the horns of the dilemma, More
-continues:[8](cwiu16.htm#an_5_8)
+continues:[8](cwiu16.htm#an_5_8.md)
 
 <div class="iq">
 
@@ -201,12 +201,12 @@ not, you could be compelled to do so,
 </div>
 
 by arguments that Descartes would be bound to
-accept.[9](cwiu16.htm#an_5_9)
+accept.[9](cwiu16.htm#an_5_9.md)
 
  
 
 To the perplexity and objections of his English admirer and critic
-Descartes replies[10](cwiu16.htm#an_5_10)—and his answer is surprisingly
+Descartes replies[10](cwiu16.htm#an_5_10.md)—and his answer is surprisingly
 mild and courteous—that it is an error to define matter by its relation
 to senses, because by doing so we are in danger of missing its true
 essence, which does not depend on the existence of men and which would
@@ -219,7 +219,7 @@ impenetrability in order to define matter because it is a mere
 consequence of its extension.
 
 Turning then to More's concept of immaterial or spiritual extension,
-Descartes writes:[11](cwiu16.htm#an_5_11)
+Descartes writes:[11](cwiu16.htm#an_5_11.md)
 
 <div class="iq">
 
@@ -274,7 +274,7 @@ though there could have been in another.
 
 Coming now to More's criticism of his distinction between " infinite "
 and " indefinite," Descartes assures him that it is not because
-of[12](cwiu16.htm#an_5_12)
+of[12](cwiu16.htm#an_5_12.md)
 
 <div class="iq">
 
@@ -310,7 +310,7 @@ somewhat misunderstood him: a space
 possible or imaginable, and even if the world *had* these limits which
 we are unable to find, there certainly would be nothing beyond them, or,
 better to say, there would be no *beyond*. Thus, in order to dispel
-completely More's doubts, he declares:[13](cwiu16.htm#an_5_13)
+completely More's doubts, he declares:[13](cwiu16.htm#an_5_13.md)
 
 <div class="iq">
 
@@ -345,14 +345,14 @@ letter to
 <span id="page_119">p. 119</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-Descartes,[14](cwiu16.htm#an_5_14) it has nothing to do with Descartes’
+Descartes,[14](cwiu16.htm#an_5_14.md) it has nothing to do with Descartes’
 assertion that there may be limits to space and with his attempt to
 build a concept intermediate between the finite and the infinite; the
 world is finite or infinite, *tertium non dater*. And if we admit, as we
 must, that God is infinite and everywhere present, this "everywhere" can
 only mean infinite space. In this case, pursues More, re-editing an
 argument already used by Bruno, there must also be matter everywhere,
-that is, the world must be infinite.[15](cwiu16.htm#an_5_15)
+that is, the world must be infinite.[15](cwiu16.htm#an_5_15.md)
 
 <div class="iq">
 
@@ -380,7 +380,7 @@ our mind can reach, He produced matter everywhere.
 <span class="contnote">\[paragraph continues\]</span> Nor is it absurd
 or inconsiderate to say that, if the extension is infinite only *quoad
 nos*, it will, in truth and in reality, be
-finite:[16](cwiu16.htm#an_5_16)
+finite:[16](cwiu16.htm#an_5_16.md)
 
 <span id="page_120">p. 120</span>
 
@@ -398,7 +398,7 @@ world is either finite or infinite, as I have just mentioned.
 As for Descartes’ contention that the impossibility of the void already
 results from the fact that "nothing" can have no properties or
 dimensions and therefore cannot be measured, More replies by denying
-this very premise:[17](cwiu16.htm#an_5_17)
+this very premise:[17](cwiu16.htm#an_5_17.md)
 
 <div class="iq">
 
@@ -429,15 +429,15 @@ what would happen, in this case, if somebody sitting at the extremity of
 the world pushed his sword through the limiting wall? On the one hand,
 indeed, this seems easy, as there would be nothing to resist it; on the
 other, impossible, as there would be no place where it could be
-pushed.[18](cwiu16.htm#an_5_18)
+pushed.[18](cwiu16.htm#an_5_18.md)
 
-Descartes’ answer to this second letter of More[19](cwiu16.htm#an_5_19)
+Descartes’ answer to this second letter of More[19](cwiu16.htm#an_5_19.md)
 is much shorter, terser, less cordial than to the first one. One feels
 that Descartes is a bit disappointed in his correspondent who obviously
 does not understand his, Descartes’, great discovery, that of the
 essential opposition between mind and extension, and who persists in
 attributing extension to souls, angels, and even to God. He
-restates[20](cwiu16.htm#an_5_20)
+restates[20](cwiu16.htm#an_5_20.md)
 
 <div class="iq">
 
@@ -454,7 +454,7 @@ to be something that can be imagined.
 
 If there were no world, there would be no time either. To More's
 contention that the *intermundium* would last a certain time, Descartes
-replies:[21](cwiu16.htm#an_5_21)
+replies:[21](cwiu16.htm#an_5_21.md)
 
 <div class="iq">
 
@@ -475,7 +475,7 @@ Him an extended thing. For in both cases God is menaced with losing His
 transcendence, with becoming immanent to the world.
 
 Now Descartes’ God is perhaps not the Christian God, but a philosophical
-one.[22](cwiu16.htm#an_5_22) He is, nevertheless, God, not the soul of
+one.[22](cwiu16.htm#an_5_22.md) He is, nevertheless, God, not the soul of
 the world that penetrates, vivifies and moves it. Therefore he
 maintains, in accordance with mediaeval tradition, that, in spite of the
 fact that in God power and essence are one—an identity pointed out by
@@ -484,7 +484,7 @@ the material world. He is a pure mind, an infinite mind, whose very
 infinity is of a unique and incomparable non-quantitative and
 non-dimensional kind, of which spatial extension is neither an image nor
 even a symbol. The world therefore, must not be called infinite; though
-of course we must not enclose it in limits:[23](cwiu16.htm#an_5_23)
+of course we must not enclose it in limits:[23](cwiu16.htm#an_5_23.md)
 
 <div class="iq">
 
@@ -513,7 +513,7 @@ cannot find them) and treats this conception in the same manner in which
 he treated that of the void, that is, as nonsensical and even
 contradictory; thus, rejecting as meaningless the question about the
 possibility of pushing a sword through the boundary of the world, he
-says:[24](cwiu16.htm#an_5_24)
+says:[24](cwiu16.htm#an_5_24.md)
 
 <div class="iq">
 
@@ -532,9 +532,9 @@ convinces another. He persisted, therefore, in believing "with all the
 ancient Platonists" that all substance, souls, angels and God are
 extended, and that the world, in the most literal sense of this word, is
 in God just as God is in the world. More accordingly sent Descartes a
-third letter,[25](cwiu16.htm#an_5_25) which he
-answered,[26](cwiu16.htm#an_5_26) and a fourth,[27](cwiu16.htm#an_5_27)
-which he did not.[28](cwiu16.htm#an_5_28) I shall not attempt to examine
+third letter,[25](cwiu16.htm#an_5_25.md) which he
+answered,[26](cwiu16.htm#an_5_26) and a fourth,[27](cwiu16.htm#an_5_27.md)
+which he did not.[28](cwiu16.htm#an_5_28.md) I shall not attempt to examine
 them here as they bear chiefly on questions which, though interesting in
 themselves—for example, the discussion about motion and rest—are outside
 our subject.
@@ -563,11 +563,11 @@ being than which we cannot think of a greater (*ens quo maius cogitari
 nequit*). Infinity thus—and it is particularly true of Descartes whose
 God exists in virtue of the infinite "superabundance of His essence"
 which enables Him to be His own cause (*causa sui*) and to give Himself
-His own existence[29](cwiu16.htm#an_5_29)—means or implies being, even
+His own existence[29](cwiu16.htm#an_5_29.md)—means or implies being, even
 necessary being. Therefore it cannot be attributed to creature. The
 distinction, or opposition, between God and creature is parallel and
 exactly equivalent to that of infinite and of finite being.
 
 ------------------------------------------------------------------------
 
-[Next: VI. God and Space, Spirit and Matter](cwiu09)
+[Next: VI. God and Space, Spirit and Matter](cwiu09.md)

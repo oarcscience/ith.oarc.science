@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu25)  [Next](cbu27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu25)  [Next](cbu27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -46,7 +46,7 @@ missionary zeal. It interrupts the free thought of the people, and keeps
 them wrapped in the mummy folds of ancient prejudices.
 
 Within the last thirty years this peculiar system of native
-Geomancy <span id="fr_124"></span>[1](#fn_124) has been made the ground
+Geomancy <span id="fr_124"></span>[1](#fn_124.md) has been made the ground
 for refusing
 
 <span id="page_328">p. 328</span>
@@ -155,7 +155,7 @@ point, and is at the back of the tomb, which faces the south. The order
 of the words is from east to west, according to the diurnal motion of
 the sun and stars. Let the observer imagine himself standing at the back
 of one of those common tombs, which are protected on the north
-side <span id="fr_125"></span>[1](#fn_125) by a long curved bank
+side <span id="fr_125"></span>[1](#fn_125.md) by a long curved bank
 overgrown with grass.
 
 <span id="page_331">p. 331</span>
@@ -222,7 +222,7 @@ sense is deadened in this country by the prevailing desire for riches
 and rank; and the moral retribution which attends the acts of
 individuals and nations, is too much hidden from view by a superstitious
 belief in an unintelligent physical retribution, <span
-id="fr_126"></span>[1](#fn_126) such as is taught by the Buddhists. When
+id="fr_126"></span>[1](#fn_126.md) such as is taught by the Buddhists. When
 God as governor is banished from the world, atheistic philosophers
 substitute an impersonal Fate, whose decrees sometimes are in harmony
 with the moral sense in man, but are perhaps much oftener influenced by
@@ -278,7 +278,7 @@ dragon. On plains the Chinese make a long mound behind a tomb. This is
 also the protecting dragon of that tomb and of the family it represents.
 It is called the hill, and its office is to keep off the north wind.
 When high land is wanting, trees make an excellent shield against bad
-influence. <span id="fr_127"></span>[1](#fn_127)
+influence. <span id="fr_127"></span>[1](#fn_127.md)
 
 The geomancer's books say that the dragon follows the course of the
 water. He originates his influence where the water takes its beginning,
@@ -474,7 +474,7 @@ deserved still more than Egypt to be called "Mother of the sciences."
 
 Writers on India tell us that the natives of that country, when they
 speak of climate, always call it "air and water." <span
-id="fr_128"></span>[1](#fn_128) Since then the Chinese word *feng*,
+id="fr_128"></span>[1](#fn_128.md) Since then the Chinese word *feng*,
 "wind," was used by them for air, one of the four elements, it is highly
 probable that the Hindoo physics have something to do with the origin of
 the name by which the Chinese geomantic doctrine is known.
@@ -484,7 +484,7 @@ To illustrate the way in which the old Hindoo philosophers
 <span id="page_340">p. 340</span>
 
 discoursed on the elements, I shall here mention <span
-id="fr_129"></span>[1](#fn_129) that they speak of white clouds as
+id="fr_129"></span>[1](#fn_129.md) that they speak of white clouds as
 having in them more of the element of earth, of black clouds as having
 more of water, of red as having more of fire, and of yellow as having
 more of air.
@@ -496,7 +496,7 @@ of the wind area with the fire area.
 Calamities caused by wind, fire, and water have local limits in the
 Buddhist universe. Thus fire works destruction no higher than to the
 paradise called *Kwang-yin t‘ien*, "The heaven of brightness and
-sound." <span id="fr_130"></span>[2](#fn_130) So also with the other
+sound." <span id="fr_130"></span>[2](#fn_130.md) So also with the other
 elements, each has its sphere and its period of efficiency. The *kalpas*
 are terminated by one or other of these powerful elemental forces. By
 their interaction the world is formed, changed, destroyed, and renewed.
@@ -567,7 +567,7 @@ eternity, causing in it alternate rarefaction and compression. This air
 he thought to be eternal. Anaximander of Miletus was a friend of Thales.
 He held the elements of the world to be simple and unchangeable, and
 taught that they formed all things by concurrence with homogeneous
-particles already existing. <span id="fr_131"></span>[1](#fn_131)
+particles already existing. <span id="fr_131"></span>[1](#fn_131.md)
 
 Let it be observed that all these philosophers regarded matter as the
 cause of all things. They lived two centuries before Anaxagoras,
@@ -641,7 +641,7 @@ spirits.
 As a further proof of Hindoo influence on the Chinese mind in the
 formation of the circle of ideas known as the *feng-shui*, *t‘ien-wen*,
 and *ti-li*, may be mentioned the names Rahu <span
-id="fr_132"></span>[1](#fn_132) and Ketu, to denote the genius of the
+id="fr_132"></span>[1](#fn_132.md) and Ketu, to denote the genius of the
 ascending and descending nodes of the moon's orbit. Also the use of the
 triangle, connecting three points of the horizon a hundred and twenty
 degrees apart, in casting the horoscope is common to China and India.
@@ -661,7 +661,7 @@ superstition just mentioned.
 In accordance with this view *feng-shui* as now believed is a very
 modern thing, and subsequent to the spread in the country of Hindoo
 thought. The mixing of Indian with Chinese ideas produced both the Sung
-philosophy <span id="fr_133"></span>[2](#fn_133)
+philosophy <span id="fr_133"></span>[2](#fn_133.md)
 
 <span id="page_345">p. 345</span>
 
@@ -733,7 +733,7 @@ gives the control of troops or of literary examinations. The five-toed
 appearance is represented in the map as sometimes three or four toed.
 There are also other modifications. Earth is the ruling element.
 
-The fourth star, [Wen-chü](errata.htm#5), "Literary windings," belongs
+The fourth star, [Wen-chü](errata.htm#5.md), "Literary windings," belongs
 to the element of water. It loves the shape of the snake when seen
 moving with three or four bends of the body. The "Men of the Dragon,"
 *Lung-kia*, as the geomancers call themselves, can detect the presence
@@ -969,37 +969,37 @@ without special effort to bring about its extinction.
 
 ### Footnotes
 
-<span id="fn_124"></span>[327:1](cbu26.htm#fr_124) Geomancy is properly
+<span id="fn_124"></span>[327:1](cbu26.htm#fr_124.md) Geomancy is properly
 divination by means of lines or points drawn on the earth. The Chinese
 *feng-shui* may be called "geomancy," because it divines by means of
 lines noticed in the shape of streams and hills.
 
-<span id="fn_125"></span>[330:1](cbu26.htm#fr_125) In Southern China
+<span id="fn_125"></span>[330:1](cbu26.htm#fr_125.md) In Southern China
 this bank is carried around the north, east, and west sides.
 
-<span id="fn_126"></span>[332:1](cbu26.htm#fr_126) This is the *karma*,
+<span id="fn_126"></span>[332:1](cbu26.htm#fr_126.md) This is the *karma*,
 which is essential to the Buddhist metempsychosis.
 
-<span id="fn_127"></span>[334:1](cbu26.htm#fr_127) See Essay by Rev. Dr.
+<span id="fn_127"></span>[334:1](cbu26.htm#fr_127.md) See Essay by Rev. Dr.
 Yates.
 
-<span id="fn_128"></span>[339:1](cbu26.htm#fr_128) See Sir James
+<span id="fn_128"></span>[339:1](cbu26.htm#fr_128.md) See Sir James
 Martin's *Influence of Tropical Climates on Europeans*.
 
-<span id="fn_129"></span>[340:1](cbu26.htm#fr_129) *Fa-yuen-chu-lin*,
+<span id="fn_129"></span>[340:1](cbu26.htm#fr_129.md) *Fa-yuen-chu-lin*,
 chap. iv. This work is a Buddhist cyclopædia of the T‘ang dynasty.
 
-<span id="fn_130"></span>[340:2](cbu26.htm#fr_130) *Fa-yuen-chu-lin*,
+<span id="fn_130"></span>[340:2](cbu26.htm#fr_130.md) *Fa-yuen-chu-lin*,
 chap. i.
 
-<span id="fn_131"></span>[342:1](cbu26.htm#fr_131) Smith's *Dictionary
+<span id="fn_131"></span>[342:1](cbu26.htm#fr_131.md) Smith's *Dictionary
 of Greek and Roman biography and Mythology*.
 
-<span id="fn_132"></span>[344:1](cbu26.htm#fr_132) In Chinese, *Lo-heu*
+<span id="fn_132"></span>[344:1](cbu26.htm#fr_132.md) In Chinese, *Lo-heu*
 for *La-hu*. The twenty-eight constellations of the Chinese zodiac were
 identified with the Hindoo *Nakshatras* in the Han dynasty.
 
-<span id="fn_133"></span>[344:2](cbu26.htm#fr_133) It would be
+<span id="fn_133"></span>[344:2](cbu26.htm#fr_133.md) It would be
 interesting to trace the effect of Greek and Indian materialistic
 philosophy on the formation of the modern Chinese cosmogony. It is not
 uncommon for doctrines to be attributed to the Chinese as a nation which
@@ -1010,4 +1010,4 @@ examination of the modern native philosophy might prove useful.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXII. Buddhist Phraseology in Relation to Christian
-Teaching](cbu27)
+Teaching](cbu27.md)

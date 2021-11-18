@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws66)  [Next](cws68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws66)  [Next](cws68.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XI
 
-#### EPSILON, OR THE FIRST OF THE GODS <span id="fr_208"></span>[2](#fn_208)\[E\]
+#### EPSILON, OR THE FIRST OF THE GODS <span id="fr_208"></span>[2](#fn_208.md)\[E\]
 
 Proem
 
@@ -118,15 +118,15 @@ and to seek the innermost which is undivided, even the Wisdom of God.
 
 ### Footnotes
 
-<span id="fn_207"></span>[147:1](cws66.htm#fr_207) "Election is by no
+<span id="fn_207"></span>[147:1](cws66.htm#fr_207.md) "Election is by no
 arbitrary appointment. The elect are all who make love their rule,
 conscience their guide, and a pure ideal their aim. Thus are they
 seekers after the perfection which is God" (Lecture by E. M. on "The
 Nature and History of the Ego ").
 
-<span id="fn_208"></span>[147:2](cws67.htm#fr_208) Referred to in *Life
+<span id="fn_208"></span>[147:2](cws67.htm#fr_208.md) Referred to in *Life
 of Anna Kingsford*, Vol. i, pp. 290-292.
 
 ------------------------------------------------------------------------
 
-[Next: No. XII: Zeta, Or The Second Of The Gods](cws68)
+[Next: No. XII: Zeta, Or The Second Of The Gods](cws68.md)

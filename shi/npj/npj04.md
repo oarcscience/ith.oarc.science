@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj03) 
-[Next](npj05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj03.md) 
+[Next](npj05.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,11 +72,11 @@ Y Musicians' room.
 
 <span id="img_pl02"></span>
 
-![Plan II: Modern Stage](img/pl02.jpg)  
+![Plan II: Modern Stage](img/pl02.jpg.md)  
 Plan II: Modern Stage
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](npj05)
+[Next: Introduction](npj05.md)

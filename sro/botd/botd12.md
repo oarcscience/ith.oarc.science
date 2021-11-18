@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](botd11)  [Next](botd13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](botd11)  [Next](botd13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Brother of the Third Degree*, by Will L. Garver, \[1894\], at
 Intangible Textual Heritage
 
@@ -237,7 +237,7 @@ Forbear! Death, madness, life-long disease and misery mark those who
 fail. Return to thy duties in the world; enter not the dangerous and
 rugged path, where failure means despair."
 
-"Sir," I answered firmly, "you have my [application](errata.htm#2), it
+"Sir," I answered firmly, "you have my [application](errata.htm#2.md), it
 is not withdrawn; I have considered and am ready for all ordeals."
 
 Truly there is no strength like that which comes from realizing the
@@ -514,4 +514,4 @@ where.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Death—Life](botd13)
+[Next: Chapter XII. Death—Life](botd13.md)

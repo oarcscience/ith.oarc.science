@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc036) 
-[Next](motc038) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc036.md) 
+[Next](motc038.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ scalp from his neck.
 
 ------------------------------------------------------------------------
 
-[Next: 38. Why The Turkey Gobbles](motc038)
+[Next: 38. Why The Turkey Gobbles](motc038.md)

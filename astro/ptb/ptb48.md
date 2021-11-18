@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb47)  [Next](ptb49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb47)  [Next](ptb49.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ the dominion is exercised, as exhibited either by the actual cosmical
 position of the ruling planet, or by its position in the scheme of the
 nativity, will point out to what extent and with what force the event
 will operate. And a planet is found to be cosmically powerful when in
-one of its own places, <span id="fr_128"></span>[1](#fn_128) or when
+one of its own places, <span id="fr_128"></span>[1](#fn_128.md) or when
 oriental, or swift in course; and it is strong in the scheme of the
 nativity, when transiting an angle or succedent house; especially those
 of the ascendant, or of the mid-heaven. But it is cosmically weaker,
@@ -113,9 +113,9 @@ former, are occidental and vespertine.
 
 ### Footnotes
 
-<span id="fn_128"></span>[77:1](ptb48.htm#fr_128) In House, Triplicity,
+<span id="fn_128"></span>[77:1](ptb48.htm#fr_128.md) In House, Triplicity,
 Exaltation, Term or Face.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Parents](ptb49)
+[Next: Chapter V. The Parents](ptb49.md)

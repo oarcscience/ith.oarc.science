@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap28) 
-[Next](bap30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap28.md) 
+[Next](bap30.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ XIII\. And Moses hasted and did all that God Ex. 34 commanded him, and
 came down and made the tables &lt;&lt;and the tabernacle&gt;&gt;, and
 the vessels thereof, and the ark and the lamps and the table and the
 altar of burnt offerings and the altar <span
-id="fr_66"></span>[3](#fn_66) of incense and the shoulderpiece and the
+id="fr_66"></span>[3](#fn_66.md) of incense and the shoulderpiece and the
 breastplate and the precious stones and the laver and the bases and all
 things that were shewn him. And he ordered all the vestures of the
 priests, the girdles and the *rest*, the mitre, the golden plate and the
@@ -21,7 +21,7 @@ holy crown: he made also the anointing oil for the
 
 priests, and the priests themselves he sanctified. And when all things
 were finished the cloud covered all of them. 2. <span
-id="fr_67"></span>[1](#fn_67) Then Moses cried unto the Lord, and God
+id="fr_67"></span>[1](#fn_67.md) Then Moses cried unto the Lord, and God
 spake to him from the tabernacle saying: This is the law of the altar,
 whereby ye shall sacrifice unto me and pray for your souls. But as
 concerning that which ye shall offer me, offer ye of cattle the calf,
@@ -36,7 +36,7 @@ cleansed, let them take for the Lord two live young birds, and wood of
 cedar and hyssop and scarlet; and he shall come to the priest, and he
 shall kill one, and keep the other. And he shall order the leper
 according to all that I have commanded in my law. 4. <span
-id="fr_68"></span>[2](#fn_68) And it shall be when the times come round
+id="fr_68"></span>[2](#fn_68.md) And it shall be when the times come round
 to you, ye shall sanctify me with a feast-day and rejoice before me at
 the feast
 
@@ -67,7 +67,7 @@ and command the clouds, and the winds shall sound and
 
 the lightnings run abroad, and there shall be a storm of thunder, and
 this shall be for a perpetual sign. Also the nights shall yield dew,
- <span id="fr_69"></span>[1](#fn_69) as I spake after the flood of the
+ <span id="fr_69"></span>[1](#fn_69.md) as I spake after the flood of the
 earth 8. when I (*or* Then he) gave him precept as concerning the year
 of the life of Noe, and said to him: These are the years which I
 ordained after the weeks wherein I visited the city of men, at what time
@@ -78,7 +78,7 @@ shall be subject unto thee. But he transgressed my ways and was
 persuaded of his wife, and she was deceived by the serpent. And then was
 death ordained unto the generations of men. 9. And furthermore the Lord
 shewed (*or*, And the Lord said further: I shewed) him the ways of
-paradise <span id="fr_70"></span>[2](#fn_70) and said unto him: These
+paradise <span id="fr_70"></span>[2](#fn_70.md) and said unto him: These
 are the ways which men have lost by not walking in them, because they
 have sinned against me.
 
@@ -101,14 +101,14 @@ ways.
 
 ### Footnotes
 
-<span id="fn_66"></span>[113:3](bap29.htm#fr_66) XIII. 1, 2. altar:
+<span id="fn_66"></span>[113:3](bap29.htm#fr_66.md) XIII. 1, 2. altar:
 *thuribulum* (lit. censer).
 
-<span id="fn_67"></span>[114:1](bap29.htm#fr_67) 2-7. This short section
+<span id="fn_67"></span>[114:1](bap29.htm#fr_67.md) 2-7. This short section
 contains practically all that is said of the ceremonial law. It is
 remarkably "scrappy" and unsystematic.
 
-<span id="fn_68"></span>[114:2](bap29.htm#fr_68) 4-7. This passage is
+<span id="fn_68"></span>[114:2](bap29.htm#fr_68.md) 4-7. This passage is
 well illustrated by one in the Talmud. *Tract. Rosh ha-Shana* (tr.
 Schwab, p. 63): A 4 époques différentes de l'année, le monde est jugé
 par Dieu: à Pâques pour la récolte; à Pentecôte pour les produits des
@@ -138,7 +138,7 @@ rain." The comment on this passage of the Talmud makes it clear that
 this is the meaning of the "question des eaux": prayer for rain was
 offered at the Feast of Tabernacles (cf. *Taanith* I.).
 
-<span id="fn_69"></span>[116:1](bap29.htm#fr_69) <span id="page_115">p.
+<span id="fn_69"></span>[116:1](bap29.htm#fr_69.md) <span id="page_115">p.
 115</span> 7. *fin*., 8. "*As I spake after the flood of the earth, at
 what time I gave commandment concerning the year of the life of Noah,
 and said unto him.. These are the years which I ordained after that I
@@ -156,9 +156,9 @@ Jerahmeel 92:10? God showed him the heavenly temple, and the four
 different hues in which the tabernacle was made, by means of angels
 clothed in blue, white, scarlet, and purple.
 
-<span id="fn_70"></span>[116:2](bap29.htm#fr_70) 9. Here God seems
+<span id="fn_70"></span>[116:2](bap29.htm#fr_70.md) 9. Here God seems
 certainly to show Paradise to Moses.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](bap30)
+[Next: Chapter XIV](bap30.md)

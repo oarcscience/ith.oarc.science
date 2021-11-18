@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar004) [Next](gbar006)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar004) [Next](gbar006.md)
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ and kept the child with fear of God.
 
 ------------------------------------------------------------------------
 
-[Next](gbar006)
+[Next](gbar006.md)
 
  
 

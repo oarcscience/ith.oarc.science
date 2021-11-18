@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt21)  [Next](egt23) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt21)  [Next](egt23.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ rain.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE SURRENDER OF THE SELF.](egt23)
+[Next: ON THE SURRENDER OF THE SELF.](egt23.md)

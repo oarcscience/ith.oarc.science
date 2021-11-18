@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@
 </tbody>
 </table>
 
-[Jump to Index](#index)  [Start Reading](ntna03) 
+[Jump to Index](#index)  [Start Reading](ntna03.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ stone-age civilization.
 
 Due to space considerations, I have only been able to include a few of
 the illustrations; the complete list can be viewed at the link at the
-top of each page labeled [Images](imglist). In addition, I have
+top of each page labeled [Images](imglist.md). In addition, I have
 refrained from posting images of people, ceremonies or sacred objects
 from the original book, in deference to modern Aboriginal protocol. I
 have included a set of bark drawings in the 'X-Ray' style. This unique
@@ -59,22 +59,22 @@ to initiated persons.
 
 ------------------------------------------------------------------------
 
-[Title Page](ntna00)  
-[Preface](ntna01)  
-[Contents](ntna02)  
-[Chapter I: Introduction](ntna03)  
-[Chapter II: Social Organisation and Marriage Regulations](ntna04)  
-[Chapter III: Initiation Ceremonies](ntna05)  
-[Chapter IV: Totemic Systems and Totem Groups](ntna06)  
+[Title Page](ntna00.md)  
+[Preface](ntna01.md)  
+[Contents](ntna02.md)  
+[Chapter I: Introduction](ntna03.md)  
+[Chapter II: Social Organisation and Marriage Regulations](ntna04.md)  
+[Chapter III: Initiation Ceremonies](ntna05.md)  
+[Chapter IV: Totemic Systems and Totem Groups](ntna06.md)  
 [Chapter V: Sacred Sticks, Bull-Roarers, and Ceremonial
-Objects](ntna07)  
-[Chapter VI: Burial and Mourning Ceremonies](ntna08)  
-[Chapter VII: Magic and Medicine](ntna09)  
-[Chapter VIII: Beliefs in Regard to the Origin of Children](ntna10)  
+Objects](ntna07.md)  
+[Chapter VI: Burial and Mourning Ceremonies](ntna08.md)  
+[Chapter VII: Magic and Medicine](ntna09.md)  
+[Chapter VIII: Beliefs in Regard to the Origin of Children](ntna10.md)  
 [Chapter IX: Traditions Concerning Imberombera, The Great Ancestor, And
-Also Other Ancestors Of The Kakadu Nation](ntna11)  
-[Chapter X: Various Traditions, Customs and Beliefs](ntna12)  
-[Chapter XI: Food Restrictions](ntna13)  
-[Chapter XII: Weapons and Implements](ntna14)  
-[Chapter XIII: Clothing and Ornament](ntna15)  
-[Chapter XIV: Decorative Art](ntna16)  
+Also Other Ancestors Of The Kakadu Nation](ntna11.md)  
+[Chapter X: Various Traditions, Customs and Beliefs](ntna12.md)  
+[Chapter XI: Food Restrictions](ntna13.md)  
+[Chapter XII: Weapons and Implements](ntna14.md)  
+[Chapter XIII: Clothing and Ornament](ntna15.md)  
+[Chapter XIV: Decorative Art](ntna16.md)  

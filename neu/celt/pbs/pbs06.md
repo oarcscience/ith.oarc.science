@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
-[Index](index)  [Previous](pbs05)  [Next](pbs07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
+[Index](index)  [Previous](pbs05)  [Next](pbs07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 
 |                      |
 |----------------------|
-| !['W](img/02401.jpg) |
+| !['W](img/02401.jpg.md) |
 
 HEN a magpie (pitheid) shall have made a nest for three successive years
 in the gable of the Church of Ferrintosh, the church will fall when full
@@ -68,7 +68,7 @@ We have never seen a detailed account of this sad accident in print, and
 have no doubt the reader will be glad to have a graphic description of
 it from the pen of Bishop Forbes, the famous author of the "Jacobite
 Memoirs," who visited his diocese of Ross and Caithness in the
-[summer](errata.htm#2) of 1762. This account is taken from his
+[summer](errata.htm#2.md) of 1762. This account is taken from his
 unpublished MS. Journal, now the property of the College of Bishops of
 the Scottish Episcopal Church, and presently in the hands of the Rev. F.
 Smith, Arpafeelie, who has kindly permitted us to make the following
@@ -125,4 +125,4 @@ Vol. I. of the *Celtic Magazine*, it is impossible to say.
 
 ------------------------------------------------------------------------
 
-[Next: Prophecies Wholly Or Partly Fulfilled](pbs07)
+[Next: Prophecies Wholly Or Partly Fulfilled](pbs07.md)

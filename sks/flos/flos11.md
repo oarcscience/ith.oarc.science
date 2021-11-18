@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos10)  [Next](flos12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos10)  [Next](flos12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -66,7 +66,7 @@ her in custody. She reviles
 <span id="page_237">p. 237</span>
 
 him as a "blue-bottle rogue," a term, says Mr Patterson, <span
-id="fr_573"></span>[1](#fn_571) "evidently suggested by the similarity
+id="fr_573"></span>[1](#fn_571.md) "evidently suggested by the similarity
 of the colours of his costume to that of the insect."
 
    *Bots*.—Our ancestors imagined that poverty or improper food
@@ -140,7 +140,7 @@ that "it is the housewife's barometer, foretelling her when it will
 remain; and is prognostic sometimes, she thinks, of ill or good luck, of
 the death of a near relation, or the approach of an absent lover. By
 being the constant companion of her solitary home, it naturally becomes
-the object of her superstition." <span id="fr_574"></span>[1](#fn_572)
+the object of her superstition." <span id="fr_574"></span>[1](#fn_572.md)
 
    Its supposed keen sense of hearing is referred to in the "Winter's
 Tale," (ii. 1), by Mamillius, who, on being asked by Hermione to tell a
@@ -167,7 +167,7 @@ says:—
 </div>
 
    In days gone frogs were extensively used for the purpose of
-divination. <span id="fr_575"></span>[2](#fn_573)\*
+divination. <span id="fr_575"></span>[2](#fn_573.md)\*
 
    *Gadfly*.—A common name for this fly is the "brize" or "breese," an
 allusion to which occurs in "Troilus & Cressida," (i. 3), where Nestor,
@@ -202,7 +202,7 @@ Hoists sails and flies."</span>
    It is said that the terror this insect causes in cattle proceeds
 solely from the alarm occasioned by "a peculiar sound it emits while
 hovering for the purpose of oviposition." <span
-id="fr_576"></span>[1](#fn_574)
+id="fr_576"></span>[1](#fn_574.md)
 
    *Lady-bird*.—This is used in "Romeo and Juliet" (i. 3), as a term of
 endearment. Lady Capulet having inquired after her daughter Juliet, the
@@ -219,7 +219,7 @@ Mr Staunton regards this passage as an exquisite touch of nature. "The
 old nurse," he says, in her fond garrulity uses 'lady-bird' as a term of
 endearment; but recollecting its application to a female of loose
 manners, checks herself—'God forbid!' her darling should prove such a
-one." Mr Dyce, <span id="fr_577"></span>[2](#fn_575) however, considers
+one." Mr Dyce, <span id="fr_577"></span>[2](#fn_575.md) however, considers
 this explanation incorrect, and gives the subjoined note:—"The nurse
 says that she has already bid Juliet come"; she then calls out, "What,
 lamb! What, lady-bird!" and Juliet not yet making her appearance, she
@@ -260,7 +260,7 @@ awaken many pleasing associations. In the minds of most people it stands
 for an insect either contemptible from its size and inertness, or
 positively obnoxious from its attacks on many articles of clothing. Thus
 Shakespeare, he says, employs the expression "moth" to denote something
-trifling or extremely minute. <span id="fr_578"></span>[1](#fn_576)\*
+trifling or extremely minute. <span id="fr_578"></span>[1](#fn_576.md)\*
 And in "King John" (iv. 1), we have the touching appeal of Prince Arthur
 to Hubert, in which for mote he would substitute moth:—
 
@@ -296,7 +296,7 @@ Of a poor worm."</span>
 This passage also illustrates an error very prevalent in days gone by
 that the forked tongue of the serpent tribe was their instrument of
 offence; without any thought of the teeth or fangs which are its real
-weapons. <span id="fr_579"></span>[2](#fn_577) Again, the "blind-worm"
+weapons. <span id="fr_579"></span>[2](#fn_577.md) Again, the "blind-worm"
 or "slow-worm"—a little snake with very small eyes, falsely supposed to
 be venomous—is spoken of in "A Mid-summer Night's Dream" (ii. 2), in
 that charming passage where the fairies are represented as singing to
@@ -345,7 +345,7 @@ Massinger employs the same term in his "Parliament of Love" (iv. 2)
 That sees his son stung by a snake to death,  
 May, with some justice, stay his vengeful hand,  
 And let the worm escape, than you vouchsafe him  
-A minute to repent." <span id="fr_580"></span>[1](#fn_578)</span>
+A minute to repent." <span id="fr_580"></span>[1](#fn_578.md)</span>
 
 </div>
 
@@ -405,7 +405,7 @@ be cured by the blood of the viper which darted the poison. Thus, in
 
    In Cornwall it is still believed that the dead body of a serpent
 bruised on the wound it has occasioned, is an infallible remedy for its
-bite. <span id="fr_581"></span>[1](#fn_579) Hence has originated the
+bite. <span id="fr_581"></span>[1](#fn_579.md) Hence has originated the
 following rhyme:—
 
 <div style="margin-left: 32px">
@@ -463,7 +463,7 @@ we may compare the popular adage—
 
 <span class="small">"March wind  
 Wakes the ether (*i.e.* adder) and blooms the whin." <span
-id="fr_582"></span>[1](#fn_580)</span>
+id="fr_582"></span>[1](#fn_580.md)</span>
 
 </div>
 
@@ -480,16 +480,16 @@ acquaintance, good master Cobweb: if I cut my finger, I shall make bold
 with you."
 
    Its medicinal virtues, however, do not end here, for in Sussex <span
-id="fr_583"></span>[2](#fn_581) it is used in cases of jaundice; many an
+id="fr_583"></span>[2](#fn_581.md) it is used in cases of jaundice; many an
 old doctress prescribing "a live spider rolled up in butter." It is
 stated, too, that the web is narcotic, and has been administered
 internally, in certain cases of fever, with success. <span
-id="fr_584"></span>[3](#fn_582) As a remedy for ague it has been
+id="fr_584"></span>[3](#fn_582.md) As a remedy for ague it has been
 considered most efficacious. Some years ago a lady in the South of
 Ireland was celebrated far and near for her cure of this disorder. Her
 remedy was a large house spider taken alive enveloped in treacle or
 preserve. Of course, the parties were carefully kept in ignorance of
-what the wonderful remedy was. <span id="fr_585"></span>[4](#fn_583)
+what the wonderful remedy was. <span id="fr_585"></span>[4](#fn_583.md)
 
    According to a universal belief spiders were formerly considered
 highly venomous; in allusion to which notion
@@ -553,7 +553,7 @@ venom proportionate to its size."
 seen extending from bush to bush was formerly unknown. Spenser, for
 instance, speaks of them as "scorched dew;" and Thomson in his "Autumn"
 mentions "the filmy threads of dew evaporate," which probably, says Mr
-Patterson, <span id="fr_586"></span>[1](#fn_584) refers to the same
+Patterson, <span id="fr_586"></span>[1](#fn_584.md) refers to the same
 object. The gossamer is now, however, known to be the production of a
 minute spider. It is twice mentioned by Shakespeare; but not in
 connection
@@ -601,7 +601,7 @@ unfrequently used to denote the long floating cobwebs seen in fine
 weather. In the above passage from "King Lear" he thinks it has the
 original sense, and in the one from "Romeo and Juliet" probably the
 last. Some are of opinion that the word is derived from goss, the gorse
-or furze. <span id="fr_587"></span>[1](#fn_585) In Germany, the popular
+or furze. <span id="fr_587"></span>[1](#fn_585.md) In Germany, the popular
 belief attributes the manufacture of the gossamer to the dwarfs and
 elves. Of King Oberon, it may be remembered, we are told—
 
@@ -644,7 +644,7 @@ called *Crepaudina*, touching any part envenomed by the bite of a rat,
 wasp, spider, or other venomous beast, ceases the pain and swelling
 thereof." In the Londesborough Collection is a silver ring of the
 fifteenth century, in which one of these stones is set. <span
-id="fr_588"></span>[1](#fn_586)
+id="fr_588"></span>[1](#fn_586.md)
 
    It was also generally believed that the toad was highly venomous—a
 notion to which there are constant allusions in Shakespeare's Plays; as,
@@ -681,10 +681,10 @@ Islip, Oxfordshire, tells me that a man once made a wager, when
 half drunk in a village public-house, that he would bite a toad's head
 off; he did so, but in a few hours his lips, tongue, and throat began to
 swell in a most alarming way, and he was dangerously ill for some
-time." <span id="fr_589"></span>[1](#fn_587)
+time." <span id="fr_589"></span>[1](#fn_587.md)
 
    Owing to the supposed highly venomous character of the toad,
-"Superstition," says Pennant, <span id="fr_590"></span>[2](#fn_588)
+"Superstition," says Pennant, <span id="fr_590"></span>[2](#fn_588.md)
 "gave it preternatural powers, and made it a principal ingredient in the
 incantations of nocturnal hags." Thus in "Macbeth" (iv. 1) the witch
 says—
@@ -721,12 +721,12 @@ familiar spirit:—
 
 <div style="margin-left: 32px">
 
-<span class="small">"Paddock <span id="fr_591"></span>[3](#fn_589)
+<span class="small">"Paddock <span id="fr_591"></span>[3](#fn_589.md)
 calls; anon, anon.''</span>
 
 </div>
 
-   *Wasp*.—So easily, we are told, <span id="fr_592"></span>[4](#fn_590)
+   *Wasp*.—So easily, we are told, <span id="fr_592"></span>[4](#fn_590.md)
 is the wrathful temperament of this insect aroused, that extreme
 irascibility can scarcely be better expressed than by the term
 "waspish." It is in this sense that Shakespeare has applied the epithet,
@@ -765,7 +765,7 @@ in a similar sense:—
 <div style="margin-left: 32px">
 
 <span class="small">"I'll use you for my mirth, yea, for my laughter,  
- When you are waspish." <span id="fr_593"></span>[1](#fn_591)</span>
+ When you are waspish." <span id="fr_593"></span>[1](#fn_591.md)</span>
 
 </div>
 
@@ -782,25 +782,25 @@ upon the surface of the water, without any apparent purpose.
 
 ### Footnotes
 
-<span id="fn_571"></span>[237:1](flos11.htm#fr_573) "Insects mentioned
+<span id="fn_571"></span>[237:1](flos11.htm#fr_573.md) "Insects mentioned
 by Shakspeare," 1841, p. 181.
 
-<span id="fn_572"></span>[238:1](flos11.htm#fr_574) See Brand's "Pop.
+<span id="fn_572"></span>[238:1](flos11.htm#fr_574.md) See Brand's "Pop.
 Antiq.," 1849, iii. pp. 190, 191.
 
-<span id="fn_573"></span>[238:2](flos11.htm#fr_575) See Patterson's
+<span id="fn_573"></span>[238:2](flos11.htm#fr_575.md) See Patterson's
 "Insects mentioned by Shakespeare," 1841, pp. 104, 105.
 
-<span id="fn_574"></span>[239:1](flos11.htm#fr_576) "Linnæan
+<span id="fn_574"></span>[239:1](flos11.htm#fr_576.md) "Linnæan
 Transactions," xv. p. 407; Cf. Virgil's "Georgic III." l. 148
 
-<span id="fn_575"></span>[239:2](flos11.htm#fr_577) "Glossary," 1876, p.
+<span id="fn_575"></span>[239:2](flos11.htm#fr_577.md) "Glossary," 1876, p.
 238.
 
-<span id="fn_576"></span>[240:1](flos11.htm#fr_578) Nares’ "Glossary,"
+<span id="fn_576"></span>[240:1](flos11.htm#fr_578.md) Nares’ "Glossary,"
 ii. p. 973.
 
-<span id="fn_577"></span>[240:2](flos11.htm#fr_579) Cf. "Macbeth" (iii.
+<span id="fn_577"></span>[240:2](flos11.htm#fr_579.md) Cf. "Macbeth" (iii.
 iv.)
 
 <div style="margin-left: 32px">
@@ -811,53 +811,53 @@ fled
 
 </div>
 
-<span id="fn_578"></span>[241:1](flos11.htm#fr_580) Worm is used for
+<span id="fn_578"></span>[241:1](flos11.htm#fr_580.md) Worm is used for
 serpent or viper, in the English Testament of the Geneva version, in
 Acts xxviii. 4, 5.
 
-<span id="fn_579"></span>[242:1](flos11.htm#fr_581) See Hunt's "Popular
+<span id="fn_579"></span>[242:1](flos11.htm#fr_581.md) See Hunt's "Popular
 Romances of the West of England," 1871, p. 415;. and Brand's "Pop.
 Antiq.," 1849, iii. p. 270.
 
-<span id="fn_580"></span>[243:1](flos11.htm#fr_582) Denham's "Weather
+<span id="fn_580"></span>[243:1](flos11.htm#fr_582.md) Denham's "Weather
 Proverbs," 1842.
 
-<span id="fn_581"></span>[243:2](flos11.htm#fr_583) "Folk-Lore Record,"
+<span id="fn_581"></span>[243:2](flos11.htm#fr_583.md) "Folk-Lore Record,"
 1878, i. p. 45.
 
-<span id="fn_582"></span>[243:3](flos11.htm#fr_584) See Brand's "Popular
+<span id="fn_582"></span>[243:3](flos11.htm#fr_584.md) See Brand's "Popular
 Antiquities," iii. pp. 223, 287, 381.
 
-<span id="fn_583"></span>[243:4](flos11.htm#fr_585) See Article on
+<span id="fn_583"></span>[243:4](flos11.htm#fr_585.md) See Article on
 "Spider-Lore" in "Graphic," November 13th, 1880.
 
-<span id="fn_584"></span>[244:1](flos11.htm#fr_586) "Insects mentioned
+<span id="fn_584"></span>[244:1](flos11.htm#fr_586.md) "Insects mentioned
 by Shakespeare," 1841, p. 220.
 
-<span id="fn_585"></span>[245:1](flos11.htm#fr_587) See Croker's "Fairy
+<span id="fn_585"></span>[245:1](flos11.htm#fr_587.md) See Croker's "Fairy
 Legends and Traditions of the South of Ireland," edited by T. Wright, 1
 862, p. 215.
 
-<span id="fn_586"></span>[246:1](flos11.htm#fr_588) See Brand's "Pop
+<span id="fn_586"></span>[246:1](flos11.htm#fr_588.md) See Brand's "Pop
 Antiq.," ii, pp. 50–55. Douce's "Illustrations of Shakespeare," pp.
 181–183.
 
-<span id="fn_587"></span>[247:1](flos11.htm#fr_589) See "Notes and
+<span id="fn_587"></span>[247:1](flos11.htm#fr_589.md) See "Notes and
 Queries," 6th, series v. pp. 32, 173; also Gilbert White's "Natural
 History of Selborne," Letter xvii.
 
-<span id="fn_588"></span>[247:2](flos11.htm#fr_590) "Zoology," 1766,
+<span id="fn_588"></span>[247:2](flos11.htm#fr_590.md) "Zoology," 1766,
 iii. p. 15.
 
-<span id="fn_589"></span>[247:3](flos11.htm#fr_591) Cf. "Hamlet," iii.
+<span id="fn_589"></span>[247:3](flos11.htm#fr_591.md) Cf. "Hamlet," iii.
 4, here paddock is used for a toad.
 
-<span id="fn_590"></span>[247:4](flos11.htm#fr_592) Patterson's "Insects
+<span id="fn_590"></span>[247:4](flos11.htm#fr_592.md) Patterson's "Insects
 Mentioned by Shakespeare," 1841, p. 137.
 
-<span id="fn_591"></span>[248:1](flos11.htm#fr_593) Cf. "Titus
+<span id="fn_591"></span>[248:1](flos11.htm#fr_593.md) Cf. "Titus
 Andronicus," ii. 3; "Henry VIII." iii. 3.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Folk Medicine](flos12)
+[Next: Chapter X. Folk Medicine](flos12.md)

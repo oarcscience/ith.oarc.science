@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah28)  [Next](oah30) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah28)  [Next](oah30.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ Jehovih's name, take the seats allotted to you all.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](oah30)
+[Next: Chapter XIV](oah30.md)

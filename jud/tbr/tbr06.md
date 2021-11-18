@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tbr05)  [Next](tbr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tbr05)  [Next](tbr07.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ at Vienna.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Bibliographical](tbr07)
+[Next: 5. Bibliographical](tbr07.md)

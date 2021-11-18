@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov00)  [Next](vov02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov00)  [Next](vov02.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,8 +53,8 @@ establishment of the Honourable Company's College at Madras, and the
 encouragement there held out to good scholars in the language may have
 effected some revival; but much remains yet to be done. No poem or
 classical composition in Telugu has hitherto been
-[printed](errata.htm#0); and I believe no translation of a classic into
-English has been [attempted](errata.htm#1).
+[printed](errata.htm#0.md); and I believe no translation of a classic into
+English has been [attempted](errata.htm#1.md).
 
 It now remains to give some account of my author, VEMANA, whose writings
 are peculiarly useful to those who study the language, the style being
@@ -71,7 +71,7 @@ which is believed to have been his own. This date coincides with A. D.
 1652. The date is given in the cycle of sixty years; but which cycle is
 intended is unknown. Many verses, however, prove satisfactorily that he
 wrote in the latter part of the seventeenth century when the Mohamedans
-were [governors](errata.htm#2) of that part of India. His family was
+were [governors](errata.htm#2.md) of that part of India. His family was
 powerful, but he renounced the world and became a *sanyasee* or ascetic.
 He calls himself a *Yogee*.
 
@@ -90,14 +90,14 @@ the present day. Vema or Vemana in Sanscrit
 signify a loom. (see Wilson's Sanscrit Lexicon, page 854, and the
 Sabdartha Calpataru Vol. II, page 199). I believe these names to have
 been practical titles alone, without a definite meaning. Thus it is well
-[known](errata.htm#3) that the titles or names of Dante and Hafiz were
+[known](errata.htm#3.md) that the titles or names of Dante and Hafiz were
 not the original names of those poets; the first of whom was named
 Durante or Durando (see preface to Cary's Dante) and the second Muhammed
 Shemsuddin\].
 
 These poems have attained very great popularity and parts are found
 translated into Tamil and Malayalam or Canarese. Their terse
-[closeness](errata.htm#4) of expression sometimes renders them difficult
+[closeness](errata.htm#4.md) of expression sometimes renders them difficult
 to translate with elegance; but such passages exemplify the manly force
 of a language that in the common dialect is often weak and verbose.
 
@@ -123,7 +123,7 @@ powerful mind searching for the light of truth which is lost in the
 darkness of heathen ignorance. The style of this and some other parts
 renders it easier to translate the verses into Latin than into English.
 I have, however, left none in Latin (aliess) that
-[appeared](errata.htm#5) to deserve an [English](errata.htm#6) one. To
+[appeared](errata.htm#5) to deserve an [English](errata.htm#6.md) one. To
 the more difficult verses I have subjoined a Telugu interpretation For
 some parts of this comment written in Telugu, I am indebted to two very
 
@@ -172,7 +172,7 @@ two copies had the same arrangement. By
 <span id="page_v">p. v</span>
 
 this aid, the true reading has, I hope, seldom been lost. the correct
-metre I trust never--the [most](errata.htm#7) frequent corruptions were
+metre I trust never--the [most](errata.htm#7.md) frequent corruptions were
 substitutions of Sanscrit terms in defiance of measure, for pure Telugu
 expressions.
 
@@ -184,7 +184,7 @@ my own. Sir William Jones has remarked (As. Res 1-XVII on Panini) that
 there can be little occasion to travel so rough and gloomy a path." To
 teach myself The science, I was obliged to reduce the rules given by
 Bheemana in a very fantastic from to their real import; and a mode then
-[occurred](errata.htm#8) to me through which by degrees I learnt the
+[occurred](errata.htm#8.md) to me through which by degrees I learnt the
 whole with care. The original is so mysteriously complex that the
 failure of most aspirants even among Bramins to a knowledge of prosody
 is not surprising.
@@ -195,4 +195,4 @@ C. P. Brown
 
 ------------------------------------------------------------------------
 
-[Next: 1-99](vov02)
+[Next: 1-99](vov02.md)

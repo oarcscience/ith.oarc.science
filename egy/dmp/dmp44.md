@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp43)  [Next](dmp45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp43)  [Next](dmp45.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ Thalax: for I cast fury upon you.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XIII](dmp45)
+[Next: Verso Col. XIII](dmp45.md)

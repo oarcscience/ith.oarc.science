@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh17)  [Next](seh19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh17)  [Next](seh19.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ more distinct as we examine it closer and in greater detail.
 
 ------------------------------------------------------------------------
 
-[Next: Chitore](seh19)
+[Next: Chitore](seh19.md)

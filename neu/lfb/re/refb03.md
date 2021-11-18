@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb02)  [Next](refb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb02)  [Next](refb04.md) 
 
 </div>
 
@@ -521,6 +521,6 @@ and dancing in summer by the light of the moon.
 
 ------------------------------------------------------------------------
 
-[Next: The Princess Mayblossom](refb04)
+[Next: The Princess Mayblossom](refb04.md)
 
 </div>

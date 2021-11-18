@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl15)  [Next](isl17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl15)  [Next](isl17.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ the chief activity of the Muslim scholars of the first four centuries.
 Of the various law-schools, four main tendencies have survived and
 absorbed the other schools in *Sunnī* (Traditional) Islam, the orthodoxy
 of the Muslim majority, or better, their orthopraxy <span
-id="fr_49"></span>[1](#fn_49) (as one
+id="fr_49"></span>[1](#fn_49.md) (as one
 
 <span id="page_94">p. 94</span>
 
@@ -109,9 +109,9 @@ of Muslims, while it still forms an important part of the studies of the
 
 ### Footnotes
 
-<span id="fn_49"></span>[95:1](isl16.htm#fr_49) Wilfred Cantwell Smith,
+<span id="fn_49"></span>[95:1](isl16.htm#fr_49.md) Wilfred Cantwell Smith,
 *Islam in Modern History* (Princeton, 1957), p. 20.
 
 ------------------------------------------------------------------------
 
-[Next: 1. ‘Ibādāt](isl17)
+[Next: 1. ‘Ibādāt](isl17.md)

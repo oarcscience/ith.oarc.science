@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe098)  [Next](prwe100) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe098)  [Next](prwe100.md) 
 
 ------------------------------------------------------------------------
 
@@ -152,4 +152,4 @@ for the ditty, and pleasant for the note."--*Carew*, p. 72.
 
 ------------------------------------------------------------------------
 
-[Next: Jago's Demon](prwe100)
+[Next: Jago's Demon](prwe100.md)

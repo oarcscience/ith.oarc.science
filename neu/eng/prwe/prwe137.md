@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe136)  [Next](prwe138) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe136)  [Next](prwe138.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ monks of the neighbouring house of St Petroch.
 
 ------------------------------------------------------------------------
 
-[Next: St Neot and the Thieves](prwe138)
+[Next: St Neot and the Thieves](prwe138.md)

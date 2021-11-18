@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl09)  [Next](isl11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl09)  [Next](isl11.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Qur’ān is in Islam what Christ is in Christianity, and Muhammad stands
 in relation to it as the Twelve Apostles to the Logos. The *Ḥadīth*, the
 record of how the Revelation occurred, and the Acts of the Apostle, or
 Messenger, is to Islam then roughly what the New Testament is to
-Christianity. <span id="fr_7"></span>[1](#fn_7)
+Christianity. <span id="fr_7"></span>[1](#fn_7.md)
 
 But here one must understand something which seems at first paradoxical;
 there are vast numbers of *ḥadīths* which are admitted by Muslim
@@ -79,10 +79,10 @@ people that this is desirable.
 
 ### Footnotes
 
-<span id="fn_7"></span>[59:1](isl10.htm#fr_7) Wilfred Cantwell Smith,
+<span id="fn_7"></span>[59:1](isl10.htm#fr_7.md) Wilfred Cantwell Smith,
 "Some Similarities and Differences Between Christianity and Islam," in
 Kritzeck and Winder, *The World of Islam* (New York, 1959).
 
 ------------------------------------------------------------------------
 
-[Next: 1. Muhammad the Messenger](isl11)
+[Next: 1. Muhammad the Messenger](isl11.md)

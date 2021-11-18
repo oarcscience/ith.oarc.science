@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm13)  [Next](tmm15) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm13)  [Next](tmm15.md) 
 
 ------------------------------------------------------------------------
 
@@ -379,4 +379,4 @@ Fools, as a rule, look upon all mankind as fools.--Mid. Eccles. 10.
 
 ------------------------------------------------------------------------
 
-[Next: Midrash Lamentations](tmm15)
+[Next: Midrash Lamentations](tmm15.md)

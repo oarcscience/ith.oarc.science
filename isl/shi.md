@@ -17,27 +17,27 @@ are made available here for research purposes only, not for
 republication.
 
 <span class="c_e"> <span class="c_t">[The Prophets, Their Lives and
-Their Stories](pro/index)</span>,   by <span class="c_a">Abdul-Sâhib
+Their Stories](pro/index.md)</span>,   by <span class="c_a">Abdul-Sâhib
 Al-Hasani Al-'âmili</span>  
 A book of Shiite lore about the prophets, starting with Adam. </span>  
 <span class="c_e"> <span class="c_t">[The Call of
-Kumayl](kumayl/kum)</span>  
+Kumayl](kumayl/kum.md)</span>  
 A Shiite prayer, with English translation and Arabic text. </span>  
 <span class="c_e"> <span class="c_t">[The Conference of Baghdad's
-Ulema](mub/mub)</span>  
+Ulema](mub/mub.md)</span>  
 A conference where Sunni and Shiite views of Islam were debated.
 </span>  
 <span class="c_e"> <span class="c_t">[The Battle of
-Karbala](hus/index)</span>  
+Karbala](hus/index.md)</span>  
 The story of a crucial battle which Shiites commemorate to this day.
 </span>  
 <span class="c_e"> <span class="c_t">[The Prayer of Abu
-Hamzah](hmz/hmz)</span>  
+Hamzah](hmz/hmz.md)</span>  
 A prayer usually read on nights of Ramadan. </span>  
 <span class="c_e"> <span class="c_t">[The Alawite
-Boook](sal/index)</span>   by <span class="c_a">Ali bin
+Boook](sal/index.md)</span>   by <span class="c_a">Ali bin
 Abi-Talib</span>  
 A collection of duas (prayers). </span>  
 <span class="c_e"> <span class="c_t">[2500 Adages of Imam
-Ali](adg/index)</span>  
+Ali](adg/index.md)</span>  
 A collection of traditional sayings of Ali. </span>  

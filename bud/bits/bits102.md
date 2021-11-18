@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits101) [Next](bits103)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits101) [Next](bits103.md)
 
 ------------------------------------------------------------------------
 
@@ -115,7 +115,7 @@ not flourish, those who are wont to give the reliances to the
 congregation of the priests will be unable to do so any more. And the
 priests, not receiving the reliances, will not teach the novices, and as
 time goes on learning will disappear. When it disappears, it is the
-Great Work \[i.e. Patthâna. See [page xviii](bit-gint.htm#page_xviii)\]
+Great Work \[i.e. Patthâna. See [page xviii](bit-gint.htm#page_xviii.md)\]
 that first disappears; when that has disappeared, then the Yamaka, the
 Kathâ-Vatthu, the Puggala-Paññatti, the Dhâtu-Kathâ, the Vibhanga, and
 the Dhamma-Sangani do so. When the Abhidhamma-Pitaka has disappeared,
@@ -253,7 +253,7 @@ Events.</span>
 
 ------------------------------------------------------------------------
 
-[Next: § 103. The Five Groups](bits103)
+[Next: § 103. The Five Groups](bits103.md)
 
  
 

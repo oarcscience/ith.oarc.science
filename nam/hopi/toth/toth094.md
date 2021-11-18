@@ -1,29 +1,29 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth093)  [Next](toth095) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth093)  [Next](toth095.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 91. THE SPARROW-HAWK AND THE HÂ'KWÂ. <span id="fr_172"></span>[1](#fn_170)
+## 91. THE SPARROW-HAWK AND THE HÂ'KWÂ. <span id="fr_172"></span>[1](#fn_170.md)
 
 A long time ago the people lived in Oraíbi and in Shongópavi. A little
 distance north-east of Oraíbi, at a place called
 Sparrow-Hawk-Catching-Place (Kâlâ'tipka), lived a little
-Sparrow-Hawk. <span id="fr_173"></span>[2](#fn_171) Farther down in the
+Sparrow-Hawk. <span id="fr_173"></span>[2](#fn_171.md) Farther down in the
 rock lived a large Hâ'kwâ. The Sparrow-Hawk caught many lizards, <span
-id="fr_174"></span>[3](#fn_172) for its brood, but would never attempt
+id="fr_174"></span>[3](#fn_172.md) for its brood, but would never attempt
 to catch the Hâ'kwâ, so that the latter began to think the Sparrow-Hawk
 was afraid of it, and remarked on it. "Why is that little Sparrow-Hawk
 afraid of me?" he asked. ''I am so fat, and I am sure the Sparrow-Hawk
@@ -87,18 +87,18 @@ to leave the nest and take care of themselves.
 
 ### Footnotes
 
-<span id="fn_170"></span>[230:1](toth094.htm#fr_172) Told by Qöyáwaima
+<span id="fn_170"></span>[230:1](toth094.htm#fr_172.md) Told by Qöyáwaima
 (Oraíbi).
 
-<span id="fn_171"></span>[230:2](toth094.htm#fr_173) A species of lizard
+<span id="fn_171"></span>[230:2](toth094.htm#fr_173.md) A species of lizard
 of a dirty color.
 
-<span id="fn_172"></span>[230:3](toth094.htm#fr_174) Kúkutsa, a smaller
+<span id="fn_172"></span>[230:3](toth094.htm#fr_174.md) Kúkutsa, a smaller
 kind than the Hâ'kwâ and green.
 
-<span id="fn_173"></span>[231:1](toth094.htm#fr_175) The last word is
+<span id="fn_173"></span>[231:1](toth094.htm#fr_175.md) The last word is
 sung with a quick rising inflection.
 
 ------------------------------------------------------------------------
 
-[Next: 92. The Sparrow-hawk and the Grasshoppers](toth095)
+[Next: 92. The Sparrow-hawk and the Grasshoppers](toth095.md)

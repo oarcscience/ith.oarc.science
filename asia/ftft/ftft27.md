@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft26)  [Next](ftft28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft26)  [Next](ftft28.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_206">p. 206</span>
 
-<span id="img_20600"></span> ![The Imp of the Well](img/20600.jpg)
+<span id="img_20600"></span> ![The Imp of the Well](img/20600.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE incident I am going to relate happened a very long time ago. We were
 on a journey, and we went up hill and down dale six months without
@@ -45,7 +45,7 @@ id="img_20700"></span>
 
 |                                                             |
 |-------------------------------------------------------------|
-| ![She got upon an ass and set off after him](img/20700.jpg) |
+| ![She got upon an ass and set off after him](img/20700.jpg.md) |
 
 Now if he dared to say, "You have forgotten the salt, mother!" on the
 following day it would be so salt that he would be unable to eat it. It
@@ -128,7 +128,7 @@ astrologers perhaps they can tell us." All the most famous astrologers
 of the land came, consulted
 
 <span id="img_20900"></span> ![She seized him by the
-ears](img/20900.jpg)
+ears](img/20900.jpg.md)
 
 <span id="page_210">p. 210</span>
 
@@ -139,7 +139,7 @@ grew worse and worse.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 O return to the woodcutter. He managed quite well without his wife, and
 soon forgot her. He had nearly forgotten the imp and the leaves as well,
@@ -179,7 +179,7 @@ realised that he had again to do with the Imp of the Well.
 <span id="img_21100"></span>
 
 [![That was enough to frighten the imp](tn/21100.jpg)  
-Click to enlarge](img/21100.jpg)  
+Click to enlarge](img/21100.jpg.md)  
 That was enough to frighten the imp  
 
 <span id="page_212">p. 212</span>
@@ -206,4 +206,4 @@ recovered and henceforth lived very happily.
 
 ------------------------------------------------------------------------
 
-[Next: The Soothsayer](ftft28)
+[Next: The Soothsayer](ftft28.md)

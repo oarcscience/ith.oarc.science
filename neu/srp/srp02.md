@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp01)  [Next](srp03) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp01)  [Next](srp03.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ A work has recently been published, to which, had I seen it before my
 book went to press, I should have made frequent reference--Professor
 Bernhard Schmidt's *Das Volksleben der Neugriechen und das hellenische
 Alterthum*. The similarity between the folk-lore of the modern Greeks,
-as described in it, <span id="fr_2"></span>[3](#fn_2) and that of the
+as described in it, <span id="fr_2"></span>[3](#fn_2.md) and that of the
 Russians, is most striking--so much so, that it seems to point to
 something more than a common origin ages ago. Professor Schmidt utterly
 repudiates Fallmerayer's doctrine with respect to the preponderance of
@@ -71,7 +71,7 @@ opinions held by the Russian Mythologists whom I have quoted.
 
 ### Footnotes
 
-<span id="fn_2"></span>[x:3](srp02.htm#fr_2) And in the works of
+<span id="fn_2"></span>[x:3](srp02.htm#fr_2.md) And in the works of
 Wachsmuth, Ulrichs, Passow, Kind, Fauriel, Firmenich-Richartz, and many
 others, of most of which an account is given in the "Notes on the
 ballads, tales, and classical superstitions of the modern Greeks,"
@@ -80,4 +80,4 @@ in the Highlands of Turkey."
 
 ------------------------------------------------------------------------
 
-[Next: Contents](srp03)
+[Next: Contents](srp03.md)

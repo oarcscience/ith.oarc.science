@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm02)  [Next](ssbm04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm02)  [Next](ssbm04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -455,7 +455,7 @@ present.
 The question of some solution to insulate from heat seemed most
 improbable as the mouth was itself wet. Also the edges of the teeth
 would hardly take such a coating—one too thin to be detected or scraped
-off. <span id="fr_2"></span>[\*](#fn_2)
+off. <span id="fr_2"></span>[\*](#fn_2.md)
 
 #### <span class="smallcaps">Case 3</span>
 
@@ -940,7 +940,7 @@ of it are preserved in court documents. After practicing for some time
 in Honolulu, the Japanese was arrested at the instigation of the medical
 men. He was charged with practicing medicine without a license, but, as
 he had administered no medicine, the charge pressed against him was that
-of being a kahuna. <span id="fr_3"></span>[\*](#fn_3)
+of being a kahuna. <span id="fr_3"></span>[\*](#fn_3.md)
 
 The court that tried him was not interested in evidence given to prove
 that his treatment was effective, when that of local doctors was not.
@@ -1001,10 +1001,10 @@ the "death prayer."
 
 ### Footnotes
 
-<span id="fn_2"></span>[42:\*](ssbm03.htm#fr_2) Appendix for the account
+<span id="fn_2"></span>[42:\*](ssbm03.htm#fr_2.md) Appendix for the account
 of the stage magician's training.
 
-<span id="fn_3"></span>[56:\*](ssbm03.htm#fr_3) The law of Hawaii
+<span id="fn_3"></span>[56:\*](ssbm03.htm#fr_3.md) The law of Hawaii
 concerning healing by the use of magic reads: "Section 1034.
 Sorcery—Penalty, Any person who shall attempt the cure of another by
 practice of sorcery, witchcraft, *ananna*, *hoopiopio*, *hoounauna*, or
@@ -1020,4 +1020,4 @@ fine goes up to a thousand dollars and a year in prison.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. The Incredible Force used in Magic, Where it Comes
-from, and Some of its Uses](ssbm04)
+from, and Some of its Uses](ssbm04.md)

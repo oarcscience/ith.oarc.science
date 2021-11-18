@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc53)  [Next](mtc55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc53)  [Next](mtc55.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -25,10 +25,10 @@ days;
 And former friends seemed to be standing in the room.  
 And then I wondered "Where are they now?"  
 Like fallen leaves they have tumbled to the Nether Springs.  
-Han Yü <span id="fr_32"></span>[1](#fn_30) swallowed his sulphur
+Han Yü <span id="fr_32"></span>[1](#fn_30.md) swallowed his sulphur
 pills,  
 Yet a single illness carried him straight to the grave.  
-Yüan Chēn smelted autumn stone <span id="fr_33"></span>[2](#fn_31)  
+Yüan Chēn smelted autumn stone <span id="fr_33"></span>[2](#fn_31.md)  
 But before he was old, his strength crumbled away.  
 Master Tu possessed the "Secret of Health":  
 All day long he fasted from meat and spice.  
@@ -49,7 +49,7 @@ When thirst came, I drank from the frozen stream.
 <span id="page_86">p. 86</span>
 
 With verse I served the spirits of my Five Guts; <span
-id="fr_34"></span>[3](#fn_32)  
+id="fr_34"></span>[3](#fn_32.md)  
 With wine I watered the three Vital Spots.  
 Day by day joining the broken clod  
 I have lived till now almost sound and whole.  
@@ -64,18 +64,18 @@ And all else commit to Heaven's care.
 
 ### Footnotes
 
-<span id="fn_30"></span>[85:1](mtc54.htm#fr_32) The famous poet, d. 824
+<span id="fn_30"></span>[85:1](mtc54.htm#fr_32.md) The famous poet, d. 824
 A. D.
 
-<span id="fn_31"></span>[85:2](mtc54.htm#fr_33) Carbamide crystals.
+<span id="fn_31"></span>[85:2](mtc54.htm#fr_33.md) Carbamide crystals.
 
-<span id="fn_32"></span>[86:3](mtc54.htm#fr_34) Heart, liver, stomach,
+<span id="fn_32"></span>[86:3](mtc54.htm#fr_34.md) Heart, liver, stomach,
 lungs and kidney.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: A Mad Poem Addressed to my Nephews and Nieces](mtc55)
+[Next: A Mad Poem Addressed to my Nephews and Nieces](mtc55.md)
 
 </div>

@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](rgq18)  [Next](rgq20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](rgq18)  [Next](rgq20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roman and Greek Questions*, by Plutarch, tr. Frank Cole Babbitt,
 \[1936\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ and, wishing to free herself from the torments caused by her love, and
 also feeling pity for her brothers, reported the whole truth to Elieus,
 and he to Colonus. And when Colonus had given judgement, Ochnê's
 brothers were banished, and she threw herself from a precipice, as
-Myrtis, <span id="fr_330"></span>[a](#fn_328) the lyric poetess of
+Myrtis, <span id="fr_330"></span>[a](#fn_328.md) the lyric poetess of
 Anthedon, has related.
 
 But the shrine and the grove of Eunostus were so strictly guarded
@@ -60,7 +60,7 @@ sea to bathe
 <span id="page_228">p. 228</span> <span id="page_229">p. 229</span>
 
 because a woman had set foot within the sacred precinct. And
-Diodes <span id="fr_331"></span>[a](#fn_329) also, in his treatise upon
+Diodes <span id="fr_331"></span>[a](#fn_329.md) also, in his treatise upon
 the *Shrines of Heroes*, quotes a decree of the people of Tanagra
 concerning the matters which Cleidamus reported.
 
@@ -98,7 +98,7 @@ When Deinon of Tarentum, a brave soldier, was
 general, his fellow-citizens voted to reject a certain proposal of his.
 When the herald reported the prevailing majority, he held up his right
 hand and said, "But this is stronger." This is Theophrastus's <span
-id="fr_332"></span>[a](#fn_330) version of the story; but Apollodorus
+id="fr_332"></span>[a](#fn_330.md) version of the story; but Apollodorus
 has a supplementary version, that when the herald of the Tarentines
 proclaimed, "These are in the majority," Deinon said, "But these are
 better!" and validated the vote of the minority.
@@ -110,8 +110,8 @@ Ithacans called Alalcomenae?
 
 Because Anticleia, while yet a virgin, was violated by Sisyphus and
 conceived Odysseus. This is related by several authorities <span
-id="fr_333"></span>[b](#fn_331); but Ister <span
-id="fr_334"></span>[c](#fn_332) of Alexandria in his *Commentaries* has
+id="fr_333"></span>[b](#fn_331.md); but Ister <span
+id="fr_334"></span>[c](#fn_332.md) of Alexandria in his *Commentaries* has
 in addition recorded that when Anticlea had been given in marriage to
 Laërtes and was being conducted to his home, she gave birth to Odysseus
 near the Alalcomenium in Boeotia. And for this reason, as though
@@ -137,7 +137,7 @@ had reached home in safety. They themselves waited upon their fathers
 and kinsmen, their brothers and relatives, and no one outside the family
 was allowed to enter. It is, then, in imitation of this that they hold a
 sacrifice to Poseidon, which is called *thiasoi*, <span
-id="fr_335"></span>[a](#fn_333) in which they feast by themselves in
+id="fr_335"></span>[a](#fn_333.md) in which they feast by themselves in
 silence for sixteen days, and no slave is present. Then, when they have
 celebrated the Aphrodisia, they terminate the festival. For this reason
 they are called "solitary eaters."
@@ -153,8 +153,8 @@ he took her axe and gave it as a present to Omphalê. The Lydian kings
 who succeeded Omphalê used to carry it as a part of the sacred regalia,
 handing it down one to the other until it came to Candaules. He deemed
 it of little worth and gave it to one of his Companions <span
-id="fr_336"></span>[b](#fn_334) to carry. But when Gyges <span
-id="fr_337"></span>[c](#fn_335) revolted and was at war with Candaules,
+id="fr_336"></span>[b](#fn_334.md) to carry. But when Gyges <span
+id="fr_337"></span>[c](#fn_335.md) revolted and was at war with Candaules,
 Arselis came from Mylasa with an army as an ally for Gyges and slew both
 Candaules and his Companion and brought the axe to Caria together with
 the other spoils. He therefore constructed a statue of Zeus and placed
@@ -163,7 +163,7 @@ the axe in its hand, and
 <span id="page_234">p. 234</span> <span id="page_235">p. 235</span>
 
 called the god Labrandeus; for the Lydians call the axe *labrys*. <span
-id="fr_338"></span>[a](#fn_336)
+id="fr_338"></span>[a](#fn_336.md)
 
  
 
@@ -209,7 +209,7 @@ an oracle concerning its safety and preservation. When the god gave
 oracle that one of those who had purloined the Palladium should be made
 its guardian, the Spartans constructed there the shrine of Odysseus,
 especially since, because of his marriage with Penelopê, <span
-id="fr_339"></span>[a](#fn_337) they reckoned that this hero had close
+id="fr_339"></span>[a](#fn_337.md) they reckoned that this hero had close
 relations with their city.
 
  
@@ -243,42 +243,42 @@ similar custom.
 
 ### Footnotes
 
-<span id="fn_328"></span>[227:a](rgq19.htm#fr_330) *Cf*. Edmonds, *Lyra
+<span id="fn_328"></span>[227:a](rgq19.htm#fr_330.md) *Cf*. Edmonds, *Lyra
 Graeca*, iii. p. 3.
 
-<span id="fn_329"></span>[229:a](rgq19.htm#fr_331) Müller, *Frag. Hist.
+<span id="fn_329"></span>[229:a](rgq19.htm#fr_331.md) Müller, *Frag. Hist.
 Graec*. iii. p. 78.
 
-<span id="fn_330"></span>[231:a](rgq19.htm#fr_332) Frag. 133 (ed.
+<span id="fn_330"></span>[231:a](rgq19.htm#fr_332.md) Frag. 133 (ed.
 Wimmer).
 
-<span id="fn_331"></span>[231:b](rgq19.htm#fr_333) *Cf*. Sophocles,
+<span id="fn_331"></span>[231:b](rgq19.htm#fr_333.md) *Cf*. Sophocles,
 *Philoctetes*, 417, with Jebb's note; Frag. 567 (ed. Pearson), with the
 note.
 
-<span id="fn_332"></span>[231:c](rgq19.htm#fr_334) Müller, *Frag. Hist.
+<span id="fn_332"></span>[231:c](rgq19.htm#fr_334.md) Müller, *Frag. Hist.
 Graec*. i. p. 426.
 
-<span id="fn_333"></span>[233:a](rgq19.htm#fr_335) Club-dinner.
+<span id="fn_333"></span>[233:a](rgq19.htm#fr_335.md) Club-dinner.
 
-<span id="fn_334"></span>[233:b](rgq19.htm#fr_336) Technically a
+<span id="fn_334"></span>[233:b](rgq19.htm#fr_336.md) Technically a
 Hellenistic court office, but Plutarch seems to assume such a relation
 in early Lydian history.
 
-<span id="fn_335"></span>[233:c](rgq19.htm#fr_337) The many ancient
+<span id="fn_335"></span>[233:c](rgq19.htm#fr_337.md) The many ancient
 variants of the Gyges legend are collected and discussed by K. F. Smith,
 *American Jour. Phil.*, 1902, pp. 261 ff., 362 ff.; 1920, pp. 1 ff.
 
-<span id="fn_336"></span>[235:a](rgq19.htm#fr_338) One is reminded of
+<span id="fn_336"></span>[235:a](rgq19.htm#fr_338.md) One is reminded of
 the many representations of the double axe on Cretan monuments.
 
-<span id="fn_337"></span>[237:a](rgq19.htm#fr_339) The daughter of the
+<span id="fn_337"></span>[237:a](rgq19.htm#fr_339.md) The daughter of the
 Spartan Icarius.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 50-59.](rgq20)
+[Next: 50-59.](rgq20.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms02)  [Next](jms04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms02)  [Next](jms04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ insistence that almost drowned out its true implication, was not merely
 a form of invective or rhetoric. Satan was the ultimate source of magic,
 which operated only by his diabolic will and connivance. Christian
 writers make it quite clear that this is the connection to which they
-refer.[1](jms22.htm#an_1_1) Secular and religious authorities took
+refer.[1](jms22.htm#an_1_1.md) Secular and religious authorities took
 action time and again against the Jews expressly on this count, and the
 Inquisition
 
@@ -59,7 +59,7 @@ Inquisition
 
 occasionally availed itself of the charge to get around the restrictions
 of ecclesiastical law which excluded the Jew from its legitimate hunting
-grounds.[2](jms22.htm#an_1_2)
+grounds.[2](jms22.htm#an_1_2.md)
 
 The masses also were quick to seize the opportunity afforded by this
 accusation, and mass attacks upon the Jews frequently followed the
@@ -72,7 +72,7 @@ from the palace, publicly accused of having come to cast their
 enchantments over the newly crowned king, and was set upon by the crowd;
 the outbreak spread rapidly through the city and the land, took more
 than half a year to spend itself and left in its wake a trail of
-horrible butcheries.[3](jms22.htm#an_1_3) Such manifestations, in
+horrible butcheries.[3](jms22.htm#an_1_3.md) Such manifestations, in
 greater or lesser degree, were the usual concomitant of a like
 accusation.
 
@@ -85,7 +85,7 @@ Christians. The custom of throwing a clod of earth behind one after a
 funeral brought a charge of sorcery in Paris, in the early years of the
 thirteenth century, which might have had dire consequences if a certain
 Rabbi Moses b. Yeḥiel had not succeeded in persuading the king of its
-utterly harmless character.[4](jms22.htm#an_1_4) The practice of washing
+utterly harmless character.[4](jms22.htm#an_1_4.md) The practice of washing
 the hands on returning from the cemetery aroused the same suspicions of
 sorcery and provoked some bloody scenes.
 
@@ -118,7 +118,7 @@ aside, "for this is a matter of life and death, since they accuse us and
 persecute us." We read of a lamb, slaughtered in fulfillment of a ritual
 obligation, which was cut up and buried secretly in sections, "so that
 the matter may not become known and they say, 'it was done for magical
-ends.'"[5](jms22.htm#an_1_5) To such measures were Jews driven by fear
+ends.'"[5](jms22.htm#an_1_5.md) To such measures were Jews driven by fear
 of arousing the suspicions of their neighbors.
 
 Jews were stoned as sorcerers. But it needs little knowledge of human
@@ -155,7 +155,7 @@ instruments themselves. Toward the end of the fourteenth century the
 Bishop of Salzburg asked a Jew to give him a *mezuzah* to attach to the
 gate of his castle, but the rabbinic authority to whom this Jew turned
 for advice refused to countenance so outrageous a prostitution of a
-distinctively religious symbol.[6](jms22.htm#an_1_6)
+distinctively religious symbol.[6](jms22.htm#an_1_6.md)
 
 In the field of medicine in particular was the reputed Jewish magical
 skill called upon to perform miracles. According to the popular view,
@@ -203,7 +203,7 @@ hear of in the West was one Zedekiah, court physician to Emperor Charles
 the Bald toward the end of the ninth century, magician, of course, as
 well as—or because?—physician. He marked the type to the end: accused of
 poisoning the Emperor in 877, he no doubt suffered the appropriate
-punishment.[7](jms22.htm#an_1_7)
+punishment.[7](jms22.htm#an_1_7.md)
 
 Another form which the charge of sorcery took was the recurrent
 accusation against Jews during the Middle Ages of feeding poisons to
@@ -225,7 +225,7 @@ men actually were poisoned supported the belief in the possibility of
 sorcery, and this belief in its turn stimulated excessive credulity in
 poisons which were thought to act at a distance or after a long lapse of
 time. . . . Popular credence was strong as to the possibility of
-wholesale poisoning."[8](jms22.htm#an_1_8)
+wholesale poisoning."[8](jms22.htm#an_1_8.md)
 
 When, in 1550, the Polish king Sigismund Augustus demanded of Ivan IV
 (the Terrible) that he admit Lithuanian Jews into Russia for business
@@ -249,7 +249,7 @@ belief occasioned. In the middle years of the fourteenth century
 thousands of Jews (and also lepers) were massacred, accused of having
 plotted wholesale murder by poisoning wells. Such charges and mass
 persecutions preceded, in fact, the Black Death, dating back, in France,
-to 1320.[9](jms22.htm#an_1_9)
+to 1320.[9](jms22.htm#an_1_9.md)
 
 These accusations, general in character, stemmed logically from the view
 of the Jew as sorcerer. They were accompanied by other charges, which
@@ -273,7 +273,7 @@ wreaking their venom upon the Christians and their Lord. Annually, if we
 are to believe the reports, they would fashion from wax an image of the
 founder of Christianity, and by their magic art transmit through this
 image to its model and his followers the pangs and tortures they visited
-upon it.[10](jms22.htm#an_1_10)
+upon it.[10](jms22.htm#an_1_10.md)
 
 This last is a form of the famous image magic known and used
 
@@ -288,7 +288,7 @@ Christ, but of their Christian contemporaries as well. In 1066, for
 example, the Jews of Treves were accused of having made a waxen image of
 Bishop Eberhard, which, after having it baptized by a priest whom they
 had bribed, they burned on a Sabbath (!); is it necessary to add that he
-promptly fell ill and died?[11](jms22.htm#an_1_11)
+promptly fell ill and died?[11](jms22.htm#an_1_11.md)
 
 Of all the charges against the Jewish people the one that has enjoyed
 the hardiest tenacity and the utmost notoriety, and has produced the
@@ -297,7 +297,7 @@ version it foists upon Jewish ritual the requirement of Christian blood
 at the Passover service. The subject of much study and infinitely more
 polemics, its absurdity has been conclusively established, but the true
 nature of the accusation has never been made sufficiently
-clear.[12](jms22.htm#an_1_12) The legend as we know it has experienced
+clear.[12](jms22.htm#an_1_12.md) The legend as we know it has experienced
 several redactions. In its pristine form it was the product of ancient
 superstition—and of the idea of the Jew as sorcerer.
 
@@ -306,7 +306,7 @@ and magical purposes of the elements of the human body. Medieval magic
 is full of recipes for putting to occult use human fat, human blood,
 entrails, hands, fingers; medieval medicine utilized as one of its chief
 medicaments the blood of man, preferably blood that had been freshly
-drawn, or menstrual blood.[13](jms22.htm#an_1_13) The ritual murder
+drawn, or menstrual blood.[13](jms22.htm#an_1_13.md) The ritual murder
 accusation was the result of these beliefs.
 
 There is on record at least one accusation against a Jew, dating from
@@ -370,7 +370,7 @@ can so blindly accept the truth
 
 of these accusations of the use of Christian blood by Jews for magical
 purposes, how all-compelling this "evidence" must have been for his
-medieval predecessors![14](jms22.htm#an_1_14)
+medieval predecessors![14](jms22.htm#an_1_14.md)
 
 Most of the charges levelled against the Jews fit into one or another of
 these categories. The surprising thing is that the specific crimes of
@@ -383,7 +383,7 @@ Inquisition in the thirteenth century, excesses attributed to sorcery
 had been punished by the secular authorities simply as criminal acts.
 When the Church undertook to stamp out sorcery it branded its
 practitioners as devil-worshiping
-anti-Christians.[15](jms22.htm#an_1_15)
+anti-Christians.[15](jms22.htm#an_1_15.md)
 
 Sorcerers and witches, brought before the bar of the Inquisition, were
 accused of, and confessed to, the adoration of Satan, the desecration of
@@ -400,7 +400,7 @@ view by the campaign of the Church. We need but recall the famous trial
 in 1440 of the Marshal Gilles de Rais, aid and associate of Joan of Arc,
 at which he was accused and convicted of murdering several hundred
 children whose blood and bodies he employed for magical
-purposes.[16](jms22.htm#an_1_16) It is these charges that determined the
+purposes.[16](jms22.htm#an_1_16.md) It is these charges that determined the
 character of the sorcery propaganda against the Jews.
 
 The Middle Ages inherited a tradition of Jewish sorcery from the ancient
@@ -455,8 +455,8 @@ me. You cannot harm me.' Her credulous captor, not doubting her word,
 fired straight at her and she fell dead, for the sanctification of the
 Holy Name, and to preserve her purity. May God have mercy on her soul!"
 concludes the pious chronicler of one of the bloodiest pages of Jewish
-history.[17](jms22.htm#an_1_17)
+history.[17](jms22.htm#an_1_17.md)
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Truth Behind The Legend](jms04)
+[Next: 2. The Truth Behind The Legend](jms04.md)

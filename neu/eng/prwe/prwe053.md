@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe052)  [Next](prwe054) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe052)  [Next](prwe054.md) 
 
 ------------------------------------------------------------------------
 
@@ -307,4 +307,4 @@ recent hot and rainless summer, this little lake became dry.
 
 ------------------------------------------------------------------------
 
-[Next: Jahn Tergagle the Steward](prwe054)
+[Next: Jahn Tergagle the Steward](prwe054.md)

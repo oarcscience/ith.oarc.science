@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXXWK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXXWK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[Hermetic Museum Index](../hermmuse/index)  
-[VOL. I](../hm1/index) \| **VOL. II**
+[Hermetic Museum Index](../hermmuse/index.md)  
+[VOL. I](../hm1/index.md) \| **VOL. II**
 
 ------------------------------------------------------------------------
 
@@ -32,8 +32,8 @@ Volume II</h1>
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hm200)    [Page
-Index](pageidx)    [Text \[Zipped\]](hm2.txt.gz)
+[Contents](#contents)    [Start Reading](hm200.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](hm2.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,25 +43,25 @@ Index](pageidx)    [Text \[Zipped\]](hm2.txt.gz)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](hm200)  
-[Table of Contents](hm201)  
-[Believe-Me, or The Ordinal of Alchemy](hm202)  
-[The Testament of Cremer](hm203)  
-[The New Chemical Light](hm204)  
-[New Chemical Light](hm205)  
-[An Open Entrance to the Closed Palace of the King](hm206)  
-[A Subtle Allegory Concerning the Secrets of Alchemy](hm207)  
+<span id="contents"></span> [Title Page](hm200.md)  
+[Table of Contents](hm201.md)  
+[Believe-Me, or The Ordinal of Alchemy](hm202.md)  
+[The Testament of Cremer](hm203.md)  
+[The New Chemical Light](hm204.md)  
+[New Chemical Light](hm205.md)  
+[An Open Entrance to the Closed Palace of the King](hm206.md)  
+[A Subtle Allegory Concerning the Secrets of Alchemy](hm207.md)  
 <span id="section_000"></span>
 
 ### The Three Treatises of Philalethes
 
-[Title and Contents](hm208)  
-[I. The Metamorphosis of Metals](hm209)  
-[II. A Brief Guide to the Celestial Ruby](hm210)  
-[III. The Fount of Chemical Truth](hm211)  
+[Title and Contents](hm208.md)  
+[I. The Metamorphosis of Metals](hm209.md)  
+[II. A Brief Guide to the Celestial Ruby](hm210.md)  
+[III. The Fount of Chemical Truth](hm211.md)  
 
  
 
-[Helvetius’ Golden Calf](hm212)  
-[The All-Wise Doorkeeper or A Fourfold Figure](hm213)  
-[Addendum](hm214)  
+[Helvetius’ Golden Calf](hm212.md)  
+[The All-Wise Doorkeeper or A Fourfold Figure](hm213.md)  
+[Addendum](hm214.md)  

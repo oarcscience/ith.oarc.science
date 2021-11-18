@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb24)  [Next](vifb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb24)  [Next](vifb26.md) 
 
 </div>
 
@@ -215,6 +215,6 @@ Snakes.
 
 ------------------------------------------------------------------------
 
-[Next: The Maiden with the Wooden Helmet](vifb26)
+[Next: The Maiden with the Wooden Helmet](vifb26.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm26)  [Next](bcm28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm26)  [Next](bcm28.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ to declare their projects aloud.
 
 ------------------------------------------------------------------------
 
-[Next: Talismans of the Sage of the Pyramids: VI, VII](bcm28)
+[Next: Talismans of the Sage of the Pyramids: VI, VII](bcm28.md)

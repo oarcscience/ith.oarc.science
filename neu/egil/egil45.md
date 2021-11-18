@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil44)  [Next](egil46) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil44)  [Next](egil46.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ all the island and slay the man.'
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XLV. Flight of Egil.](egil46)
+[Next: CHAPTER XLV. Flight of Egil.](egil46.md)

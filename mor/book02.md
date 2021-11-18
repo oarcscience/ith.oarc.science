@@ -1,8 +1,8 @@
-[Previous: 2 Nephi](book01)
+[Previous: 2 Nephi](book01.md)
 
-[Next: Enos](book03)
+[Next: Enos](book03.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -1322,4 +1322,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Enos](book03)
+[Next: Enos](book03.md)

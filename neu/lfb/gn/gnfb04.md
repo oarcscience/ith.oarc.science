@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb03)  [Next](gnfb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb03)  [Next](gnfb05.md) 
 
 </div>
 
@@ -177,6 +177,6 @@ Spanish Tradition.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Caliph Stork](gnfb05)
+[Next: The Story of Caliph Stork](gnfb05.md)
 
 </div>

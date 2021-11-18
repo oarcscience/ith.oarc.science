@@ -1,4 +1,4 @@
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-3) [Next](gjb-5)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-3) [Next](gjb-5.md)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ doctrine is prominent, the parallel notion is rendered by *Noûs*, Mind,
 and in the Hellenistic poem so beloved by the Later Platonists and
 generally known as the 'Chaldæan Oracles,'<span
 id="page_121_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_121_note_1) the Mind of the Father
+class="small">1</span></sup>](#page_121_note_1.md) the Mind of the Father
 stands at the summit; while in allied Gnostic tradition connected with
 the 'Chaldæan Mysteries' or even said to be based on the 'Chaldæan
 Books,' where again the Divine Man doctrine is prominent, the term
@@ -114,7 +114,7 @@ TRANSLATION.
 
 > |     |                                                                                                                                                                                                              |
 > |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-> | 1\. | In Beginning<span id="page_123_fr_1"></span>[<sup><span class="small">1</span></sup>](#page_123_note_1) was Mind;<span id="page_123_fr_2"></span>[<sup><span class="small">2</span></sup>](#page_123_note_2) |
+> | 1\. | In Beginning<span id="page_123_fr_1"></span>[<sup><span class="small">1</span></sup>](#page_123_note_1) was Mind;<span id="page_123_fr_2"></span>[<sup><span class="small">2</span></sup>](#page_123_note_2.md) |
 
 <span id="page_124">p. 124</span>
 
@@ -154,7 +154,7 @@ TRANSLATION.
 <span id="page_125">p. 125</span>
 
    (<span id="page_125_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_125_note_1)There was a Man sent by
+class="small">1</span></sup>](#page_125_note_1.md)There was a Man sent by
 God,—his name Yōánes. This \[Man\] came for bearing witness, that he
 might bear witness about the Light, in order that all \[men\] might have
 faith through it. That \[Man\] was not the Light, but \[came\] in order
@@ -230,15 +230,15 @@ that he might bear witness about the Light.)
 > </table>
 
    (<span id="page_126_fr_10"></span>[<sup><span
-class="small">10</span></sup>](#page_126_note_10)Yōánēs beareth witness
+class="small">10</span></sup>](#page_126_note_10.md)Yōánēs beareth witness
 about him,<span id="page_126_fr_11"></span>[<sup><span
-class="small">11</span></sup>](#page_126_note_11) and hath cried aloud,
+class="small">11</span></sup>](#page_126_note_11.md) and hath cried aloud,
 saying—he it was who said—: He who <span id="page_127">p. 127</span>
 cometh behind me hath been before me,<span
 id="page_127_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_127_note_1) for he was my
+class="small">1</span></sup>](#page_127_note_1.md) for he was my
 First.<span id="page_127_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_127_note_2))
+class="small">2</span></sup>](#page_127_note_2).md)
 
 > <table>
 > <colgroup>
@@ -255,26 +255,26 @@ class="small">2</span></sup>](#page_127_note_2))
 > </table>
 
    (<span id="page_127_fr_5"></span>[<sup><span
-class="small">5</span></sup>](#page_127_note_5)In that the Law (Torah)
+class="small">5</span></sup>](#page_127_note_5)In that the Law (Torah.md)
 was given by Moses, Delight and Truth kept coming into the word through
 Yeshū' Messiah.<span id="page_127_fr_6"></span>[<sup><span
-class="small">6</span></sup>](#page_127_note_6)
+class="small">6</span></sup>](#page_127_note_6.md)
 
    No man hath seen God at any time;<span
 id="page_127_fr_7"></span>[<sup><span
-class="small">7</span></sup>](#page_127_note_7)
+class="small">7</span></sup>](#page_127_note_7.md)
 
    An only-begotten &lt;god&gt;, who is in<span
 id="page_127_fr_8"></span>[<sup><span
-class="small">8</span></sup>](#page_127_note_8) the bosom<span
+class="small">8</span></sup>](#page_127_note_8.md) the bosom<span
 id="page_127_fr_9"></span>[<sup><span
-class="small">9</span></sup>](#page_127_note_9) of the Father,—he
+class="small">9</span></sup>](#page_127_note_9.md) of the Father,—he
 dictated.)<span id="page_127_fr_10"></span>[<sup><span
-class="small">10</span></sup>](#page_127_note_10)
+class="small">10</span></sup>](#page_127_note_10.md)
 
 ------------------------------------------------------------------------
 
-[Next: Afterword](gjb-5)
+[Next: Afterword](gjb-5.md)
 
 ------------------------------------------------------------------------
 
@@ -282,13 +282,13 @@ class="small">10</span></sup>](#page_127_note_10)
 
 <span id="footnotes_page_121">p. 121</span>
 
-<span id="page_121_note_1"></span>[1](#page_121_fr_1) See my 'Echoes
+<span id="page_121_note_1"></span>[1](#page_121_fr_1.md) See my 'Echoes
 from the Gnosis' series, vols. viii. and ix., *The Chaldæan Oracles*,
 London, 1908.
 
 <span id="footnotes_page_123">p. 123</span>
 
-<span id="page_123_note_1"></span>[1](#page_123_fr_1) In the original
+<span id="page_123_note_1"></span>[1](#page_123_fr_1.md) In the original
 this was probably the usual cosmological formula 'in the beginning.' The
 Greek may suggest a more metaphysical meaning and the Vulgate Latin
 seems to continue the process, for *principium* might carry the weaning
@@ -298,7 +298,7 @@ originate"; Tertullian, *Adv. Hermog.* 19: "In Greek the term primality,
 namely ἀρχή, takes the primacy (*principatum*), not only in the category
 of order (*ordinativum*), but also in that of potency (*potestivum*)."
 
-<span id="page_123_note_2"></span>[2](#page_123_fr_2) If there is any
+<span id="page_123_note_2"></span>[2](#page_123_fr_2.md) If there is any
 Mandæan term with which to seek a parallel it might perhaps be Mānā,
 which seems generally to mean Mind. Prof. Rendel Harris in his
 illuminating study of the Proem, would make the original of Logos
@@ -316,7 +316,7 @@ to the Deity than the Greek Logos.
 
 <span id="footnotes_page_124">p. 124</span>
 
-<span id="page_124_note_1"></span>[1](#page_124_fr_1) The Gk. phrase
+<span id="page_124_note_1"></span>[1](#page_124_fr_1.md) The Gk. phrase
 πρὸς τὸν θεόν is a grammatical puzzle; this is, however, probably solved
 by the hypothesis of a literal translation from a Semitic original. The
 Gnostic Heracleon (2nd cent.); the first known commentator on the fourth
@@ -329,17 +329,17 @@ the definite article, from the following simple θεός. But 'The God' is
 clumsy in English, and so I resort to the type-trick of capitalization
 to mark the distinction.
 
-<span id="page_124_note_2"></span>[2](#page_124_fr_2) The Gk. καὶ
+<span id="page_124_note_2"></span>[2](#page_124_fr_2.md) The Gk. καὶ
 renders probably a Semitic particle that serves several other purposes
 than that of a purely copulative function.
 
-<span id="page_124_note_3"></span>[3](#page_124_fr_3) *Sc*. Mind or God,
+<span id="page_124_note_3"></span>[3](#page_124_fr_3.md) *Sc*. Mind or God,
 not as a second God, but as the Divine or Creative Intelligence of GOD.
 
-<span id="page_124_note_4"></span>[4](#page_124_fr_4) Or 'continued to
+<span id="page_124_note_4"></span>[4](#page_124_fr_4.md) Or 'continued to
 become' (impf.),—the idea of 'perpetual creation.'
 
-<span id="page_124_note_5"></span>[5](#page_124_fr_5) The Old Syriac
+<span id="page_124_note_5"></span>[5](#page_124_fr_5.md) The Old Syriac
 versions (*e.g.* C.) read 'in' and not 'through'; see F. C. Burkitt,
 *Evangelion da-Mepharreshe: The Curetonian Version of the Four Gospels,
 with the Readings of the Sinai Palimpsest and the Early Syriac Patristic
@@ -347,17 +347,17 @@ Evidence* (Cambridge, 1904), i. 423. The Old (*i.e.* pre-Peshītṭā)
 Syriac versions should be a great help in determining the Aram.
 original, as the two dialects are closely related.
 
-<span id="page_124_note_6"></span>[6](#page_124_fr_6) *Sc*. Mind.
+<span id="page_124_note_6"></span>[6](#page_124_fr_6.md) *Sc*. Mind.
 
-<span id="page_124_note_7"></span>[7](#page_124_fr_7) *Sc*. Mind.
+<span id="page_124_note_7"></span>[7](#page_124_fr_7.md) *Sc*. Mind.
 
-<span id="page_124_note_8"></span>[8](#page_124_fr_8) That would be the
+<span id="page_124_note_8"></span>[8](#page_124_fr_8.md) That would be the
 Mandæan Second Life.
 
-<span id="page_124_note_9"></span>[9](#page_124_fr_9) Or 'The Life'—the
+<span id="page_124_note_9"></span>[9](#page_124_fr_9.md) Or 'The Life'—the
 same distinction as with the terms for 'God.'
 
-<span id="page_124_note_10"></span>[10](#page_124_fr_10) The article
+<span id="page_124_note_10"></span>[10](#page_124_fr_10.md) The article
 cannot be neglected; it signifies those who are really Men, *i.e.*
 conscious members of the celestial or angelic humanity or true Race. All
 this connects with the Anthrōpos-doctrine of the Gnosis. Man (the Aram.
@@ -367,67 +367,67 @@ says, the vast majority of mortals are not worthy to be called 'Men';
 all men have Reason, but few as yet have Mind (*i.e*. are spiritual).
 The true Men who have the Light of Life are the Prophets and Perfect.
 
-<span id="page_124_note_11"></span>[11](#page_124_fr_11) 'Suppress,'
+<span id="page_124_note_11"></span>[11](#page_124_fr_11.md) 'Suppress,'
 'hold back,' 'detain.' Burney has 'obscured it not.'
 
 <span id="footnotes_page_125">p. 125</span>
 
-<span id="page_125_note_1"></span>[1](#page_125_fr_1) This paragraph
+<span id="page_125_note_1"></span>[1](#page_125_fr_1.md) This paragraph
 seems clearly to be an interpolation into, or overworking of, his
 original 'source' by the writer, or perhaps part compiler, of the fourth
 gospel.
 
-<span id="page_125_note_2"></span>[2](#page_125_fr_2) Prophet or Divine
+<span id="page_125_note_2"></span>[2](#page_125_fr_2.md) Prophet or Divine
 Messenger.
 
-<span id="page_125_note_3"></span>[3](#page_125_fr_3) *This* world (Gk.
+<span id="page_125_note_3"></span>[3](#page_125_fr_3.md) *This* world (Gk.
 κόσμος, Heb. *tebel*, Mand. *tibil*); there were other worlds according
 to the Mandā or Gnōsis. 'This world' in the sense of the earth; the
 world in the wider meaning would be the Heb. *'olam*.
 
-<span id="page_125_note_4"></span>[4](#page_125_fr_4) *Sc*. the Light,
+<span id="page_125_note_4"></span>[4](#page_125_fr_4.md) *Sc*. the Light,
 *i.e.* the Life of Mind.
 
-<span id="page_125_note_5"></span>[5](#page_125_fr_5) If the reader
+<span id="page_125_note_5"></span>[5](#page_125_fr_5.md) If the reader
 prefers to personify the Light and its synonyms, he can substitute 'him'
 for 'it'; and so also in the following phrases.
 
-<span id="page_125_note_6"></span>[6](#page_125_fr_6) *Sc*. creations
+<span id="page_125_note_6"></span>[6](#page_125_fr_6.md) *Sc*. creations
 (n.pl.), world and other creations up or down to man; cp. [Jn.
-19:27](../../../bib/kjv/joh.htm#19:27), where the 'disciple whom he
+19:27](../../../bib/kjv/joh.htm#19:27.md), where the 'disciple whom he
 loved' is said to have taken the Mother 'unto his own' (εἰς τὰ ἴδια),
 which is generally supposed to mean 'his own home.' 'Its own' therefore
 signifies 'habitations.' The following 'its own' (m.pl.) refers to the
 'inhabitants.'
 
-<span id="page_125_note_7"></span>[7](#page_125_fr_7) *Sc*. spiritual
+<span id="page_125_note_7"></span>[7](#page_125_fr_7.md) *Sc*. spiritual
 power—lit. 'allowance,' 'possibility,' generally translated 'authority';
 it is not physical power (δύναμις, 'lordship,' 'domination'), but moral
 power—'grace.'
 
-<span id="page_125_note_8"></span>[8](#page_125_fr_8) That is of Mind.
+<span id="page_125_note_8"></span>[8](#page_125_fr_8.md) That is of Mind.
 
-<span id="page_125_note_9"></span>[9](#page_125_fr_9) That is who have
+<span id="page_125_note_9"></span>[9](#page_125_fr_9.md) That is who have
 faith in the still higher Power (the mystic 'Name' or Soul, or Mind, or
 Primality) of Great Life—GOD.
 
 <span id="footnotes_page_126">p. 126</span>
 
-<span id="page_126_note_1"></span>[1](#page_126_fr_1) That is, of
+<span id="page_126_note_1"></span>[1](#page_126_fr_1.md) That is, of
 earthly parents; for they were born from Above, *i.e.* were spiritual
 births.
 
-<span id="page_126_note_2"></span>[2](#page_126_fr_2) It means 'wish'
+<span id="page_126_note_2"></span>[2](#page_126_fr_2.md) It means 'wish'
 rather than 'will'—'desire,' 'urge.'
 
-<span id="page_126_note_3"></span>[3](#page_126_fr_3) Lit. 'and' (καὶ);
+<span id="page_126_note_3"></span>[3](#page_126_fr_3) Lit. 'and' (καὶ.md);
 but clearly meaning 'by such birth from above.'
 
-<span id="page_126_note_4"></span>[4](#page_126_fr_4) This seems to mean
+<span id="page_126_note_4"></span>[4](#page_126_fr_4.md) This seems to mean
 simply 'was enfleshed.' The Old Syriac has 'body,' not 'flesh'; so also
 in 11.
 
-<span id="page_126_note_5"></span>[5](#page_126_fr_5) Lit. 'pitched its
+<span id="page_126_note_5"></span>[5](#page_126_fr_5.md) Lit. 'pitched its
 tent'; this refers to the extended *sh<sup>e</sup>kīnah*-doctrine. In
 the Mandæan tradition *škīnā* is the frequently-recurring technical term
 for the 'dwelling,' 'housing,' 'tenting,' or 'spiritual body' or
@@ -437,16 +437,16 @@ for the 'dwelling,' 'housing,' 'tenting,' or 'spiritual body' or
 *Sh<sup>e</sup>kīntā* is Palestinian Aramaic for Heb.
 *sh<sup>e</sup>kīnah*.
 
-<span id="page_126_note_6"></span>[6](#page_126_fr_6) Namely the
+<span id="page_126_note_6"></span>[6](#page_126_fr_6.md) Namely the
 Prophets or Perfect.
 
-<span id="page_126_note_7"></span>[7](#page_126_fr_7) *Mono-genēs*,—this
+<span id="page_126_note_7"></span>[7](#page_126_fr_7.md) *Mono-genēs*,—this
 in pre- and post-Christian Gnostic tradition is the general technical
 term for 'born,' 'emanated' or 'created' from a 'single source (μονο-),
 *i.e.* one-and-only parent, and is used of spiritual beings who are
 superior to the conditions of sex-generation. Cp. the *perikopē* on
 Melchi Sedek (King of Peace, Prince of Righteousness) in [Heb.
-7:1-21](../../../bib/kjv/heb.htm#7:1). He is there said to be
+7:1-21](../../../bib/kjv/heb.htm#7:1.md). He is there said to be
 "father-less, mother-less, \[earthly\] genealogy-less, without beginning
 of days or end of life, but made-in-the-likeness of GOD'S Son." In
 common speech *monogenēs* is usually found as meaning the only one of a
@@ -459,16 +459,16 @@ suggests, but rejects, is a 'quite new' idea; but I have been insisting
 on it for a score of years at least. He would render it as 'darling,'
 but this is really too *bourgeois*.
 
-<span id="page_126_note_8"></span>[8](#page_126_fr_8) This picks up Mind
+<span id="page_126_note_8"></span>[8](#page_126_fr_8.md) This picks up Mind
 in 12<span class="small">1</span>; it is m. sing.
 
-<span id="page_126_note_9"></span>[9](#page_126_fr_9) The root-meaning
+<span id="page_126_note_9"></span>[9](#page_126_fr_9.md) The root-meaning
 of χάρις.
 
-<span id="page_126_note_10"></span>[10](#page_126_fr_10) This is the
+<span id="page_126_note_10"></span>[10](#page_126_fr_10.md) This is the
 second redactorial interpolation or overworking.
 
-<span id="page_126_note_11"></span>[11](#page_126_fr_11) The Greek
+<span id="page_126_note_11"></span>[11](#page_126_fr_11.md) The Greek
 translator unquestionably understood this as referring to Yeshū'
 Messiah. But the puzzling phrasing of the quotation from the Baptist
 *logoi*-tradition—'my First'—seems to require 'it' instead of 'him,'
@@ -477,42 +477,42 @@ interpolation.
 
 <span id="footnotes_page_127">p. 127</span>
 
-<span id="page_127_note_1"></span>[1](#page_127_fr_1) Cp. L. and S. Lex.
+<span id="page_127_note_1"></span>[1](#page_127_fr_1.md) Cp. L. and S. Lex.
 *s.v.* ἔμπροσθεν: "The *future* is unseen and was therefore regarded as
 *behind* us, whereas the *past* is known and therefore *before* our
 eyes."
 
-<span id="page_127_note_2"></span>[2](#page_127_fr_2) Inexplicable in
+<span id="page_127_note_2"></span>[2](#page_127_fr_2.md) Inexplicable in
 the usual translation, but it might refer to First Life in Mandæan
 tradition.
 
-<span id="page_127_note_3"></span>[3](#page_127_fr_3) Or *plērōma*
+<span id="page_127_note_3"></span>[3](#page_127_fr_3.md) Or *plērōma*
 picking up the 'full' of 13<span class="small">3</span>.
 
-<span id="page_127_note_4"></span>[4](#page_127_fr_4) This seems to me
+<span id="page_127_note_4"></span>[4](#page_127_fr_4.md) This seems to me
 to be a distinct reference to the Gnostic notion of pairs or syzygies in
 the Plērōma; cp. the "Hence pairing with each other (ἀντιστοιχου̑ντες)"
 of the *Apophasis* ascribed to Simon Magus (Hippolytus, *Ref*. vi. 18).
 The term is used by Xenophon (*Ana*. v. 4, 12) of two bands of dancers
 facing each other in rows or pairs (see my *Simon Magus*, 1892, p. 20).
 
-<span id="page_127_note_5"></span>[5](#page_127_fr_5) The third
+<span id="page_127_note_5"></span>[5](#page_127_fr_5.md) The third
 interpolation or overworking of the 'source.'
 
-<span id="page_127_note_6"></span>[6](#page_127_fr_6) Ιησου̑ς
+<span id="page_127_note_6"></span>[6](#page_127_fr_6.md) Ιησου̑ς
 Χριστός—Yēsūs Ḥristos. I have, however, kept what I hold to be the
 Heb.-Aram. original name-combination. It means the Anointed Saviour or
 Liberator—that is Saviour or Vindicator anointed by the Divine Spirit or
 Creative and Perfecting Life of God; cp, the O.T. Joshua. (LXX. Jesus).
 
-<span id="page_127_note_7"></span>[7](#page_127_fr_7) Cp. the Jewish
+<span id="page_127_note_7"></span>[7](#page_127_fr_7.md) Cp. the Jewish
 Gnostic commentator of the Naassene Document, quoting from a prior
 'scripture,' or an oral '*logos*' ('what was spoken'): "His voice we
 heard, but his form we have not seen." (See my analysis of this very
 important Gnostic Document in *Thrice-greatest Hermes*, London, 1906, in
 Prolegomena, § 'The Myth of Man in the Mysteries'; the quotation is to
 be found in i. 169.) Compare with this [Jn.
-5:37](../../../bib/kjv/joh.htm#5:37): "Ye have never at any time heard
+5:37](../../../bib/kjv/joh.htm#5:37.md): "Ye have never at any time heard
 his voice, nor have ye seen his form," addressed to the Jews in general;
 whereas the Naassene quotation refers to the Perfect. This is very
 important, for if my analysis of the NN. document, which Hippolytus
@@ -521,18 +521,18 @@ source, was in all probability contemporary with Philo (c. 30 B.C. -45
 A.D.), and therefore we have here an indication of another 'source' of
 the fourth gospel (of which there may have been a number).
 
-<span id="page_127_note_8"></span>[8](#page_127_fr_8) The Gk. ὁ ὢν εἰς
+<span id="page_127_note_8"></span>[8](#page_127_fr_8.md) The Gk. ὁ ὢν εἰς
 τὸν κόλπον ('*into* the bosom') is grammatically impossible: it must
 rest on a Semitic idiom. The Old Syriac (C.) has Son *from* the bosom of
 the Father.
 
-<span id="page_127_note_9"></span>[9](#page_127_fr_9) Cp. the Commentary
+<span id="page_127_note_9"></span>[9](#page_127_fr_9.md) Cp. the Commentary
 of Ephraim Syrus, which runs: "The word of the Father came from His
 bosom, and clothed itself with a body in another bosom; from bosom to
 bosom it went forth, and pure bosoms have been filled from it: blessed
 is He who dwelleth in us!" (Burkitt, *op. cit.*, ii. 1-10).
 
-<span id="page_127_note_10"></span>[10](#page_127_fr_10) Namely the
+<span id="page_127_note_10"></span>[10](#page_127_fr_10.md) Namely the
 gospel which follows; the verb has no object. The Gk. ἐξηγήσατο means
 also 'related in full,' 'set forth'; the Mandæan technical term is
 'discoursed.'

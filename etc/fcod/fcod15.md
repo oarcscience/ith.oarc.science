@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod14)  [Next](fcod16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod14)  [Next](fcod16.md) 
 
 ------------------------------------------------------------------------
 
@@ -711,4 +711,4 @@ necessary or advisable.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: In Memoriam](fcod16)
+[Next: Chapter XIII: In Memoriam](fcod16.md)

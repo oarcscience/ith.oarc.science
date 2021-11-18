@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku18)  [Next](tku20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku18)  [Next](tku20.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ concealed of all.
 210\. This is the praise of that beard; the beard which is concealed and
 most precious in all its dispositions; the beard which neither the
 superiors nor the inferiors have known; <span
-id="fr_28"></span>[1](#fn_27) the beard which is the praise of all
+id="fr_28"></span>[1](#fn_27.md) the beard which is the praise of all
 praise; the beard to which neither man, nor prophet, nor saint hath
 approached so as to behold it.
 
@@ -111,18 +111,18 @@ that oil are they anointed.
 230\. The beard of ornament of the Ancient of the Ancient Ones, the most
 concealed of all things, is configurated in thirteen dispositions.
 
-231\. From the two beautiful apples <span id="fr_29"></span>[1](#fn_28)
+231\. From the two beautiful apples <span id="fr_29"></span>[1](#fn_28.md)
 of His countenance is the face of Macroprosopus illuminated; and
 whatsoever
 
 <span id="page_137">p. 137</span>
 
-is white and rosy is found below; <span id="fr_30"></span>[1](#fn_29) it
+is white and rosy is found below; <span id="fr_30"></span>[1](#fn_29.md) it
 shineth and radiateth from that light.
 
 232\. Those thirteen dispositions are found in the beard. And in
 proportion to the purity of his beard, <span
-id="fr_31"></span>[2](#fn_30) according to its dispositions, is a man
+id="fr_31"></span>[2](#fn_30.md) according to its dispositions, is a man
 said to be true; for also whosoever (*in sleep*) beholdeth his beard,
 that man is very desirous of truth.
 
@@ -132,7 +132,7 @@ that man is very desirous of truth.
 opened out into the thirteen gates of mercies.
 
 234\. And he who extendeth his hand in swearing, also doth the same if
-he swear by the thirteen <span id="fr_32"></span>[3](#fn_31)
+he swear by the thirteen <span id="fr_32"></span>[3](#fn_31.md)
 dispositions of the beard: these are in Arikh Anpin, or Macroprosopus.
 
 235\. In Zauir Anpin, or Microprosopus, how many are there? He said unto
@@ -174,7 +174,7 @@ prolonged even unto the shoulders, so that it may reach unto the head of
 Microprosopus, from that flux of the one brain unto the other.
 
 243\. "And because they are not firm (also it is necessary that they be
-soft). <span id="fr_33"></span>[1](#fn_32)
+soft). <span id="fr_33"></span>[1](#fn_32.md)
 
 244\. "We have learned by tradition. What is that which is written,
 Prov. i. 20: 'Wisdom (*plural in Hebrew*, ChKMVTh, not ChKMH) will cry
@@ -208,7 +208,7 @@ like as it is written, Eccles. ix. 17: 'The words of wise men are heard
 in quiet.'
 
 251\. "And thence we learn that in him whose hair is firm, wisdom
-dwelleth not <span id="fr_34"></span>[1](#fn_33)
+dwelleth not <span id="fr_34"></span>[1](#fn_33.md)
 
 252\. "But because these are long (the others are soft) in order that
 they may bring assistance to all.
@@ -228,7 +228,7 @@ as of the beard, are white as snow.
 256\. "And we have learned. Those which are in the beard are all firm.
 Wherefore? Because those are firm accordingly, that they may firmly mark
 out their thirteen measurements from the Ancient of the Ancient
-Ones. <span id="fr_35"></span>[2](#fn_34)
+Ones. <span id="fr_35"></span>[2](#fn_34.md)
 
 257\. "And those measurements take their beginning from before the ears.
 
@@ -276,20 +276,20 @@ sea;' the ninth.
 and gracious,' &c. And those are the Inferiors.
 
 273\. "And if thou sayest, 'Why did not Moses pronounce those majestic
-words? <span id="fr_36"></span>[1](#fn_35) It shall be answered unto
+words? <span id="fr_36"></span>[1](#fn_35.md) It shall be answered unto
 thee: 'Moses hath no duty to perform save in the place
 
 <span id="page_141">p. 141</span>
 
 where judgment is found; and in the place where judgment is found it is
-not necessary to speak thus. <span id="fr_37"></span>[1](#fn_36)
+not necessary to speak thus. <span id="fr_37"></span>[1](#fn_36.md)
 
 274\. "And Moses spake not, save in that time when the Israelites had
 sinned and judgment was impending; hence Moses spake only in that place
 wherein judgment is found.
 
 275\. "But in another place the prophet hath instituted the order of the
-praise of the Ancient of Days. <span id="fr_38"></span>[2](#fn_37)
+praise of the Ancient of Days. <span id="fr_38"></span>[2](#fn_37.md)
 
 276\. "And those thirteen forms of the supreme holy beard, concealed
 with many concealments, are most powerful to subdue and mitigate all the
@@ -312,7 +312,7 @@ wool.'
 
 282\. "There is no contradiction here, for the one is said of the
 supernal beard, but the other of the inferior beard. <span
-id="fr_39"></span>[3](#fn_38)
+id="fr_39"></span>[3](#fn_38.md)
 
 283\. "Also because when the law was given forth unto the Israelites, it
 was written in black fire upon white fire.
@@ -332,49 +332,49 @@ so that the beard is alone, and its hairs are also distinct.
 
 ### Footnotes
 
-<span id="fn_27"></span>[134:1](tku19.htm#fr_28) Because it is the beard
+<span id="fn_27"></span>[134:1](tku19.htm#fr_28.md) Because it is the beard
 of Macroprosopus, the Concealed Ancient One.
 
-<span id="fn_28"></span>[136:1](tku19.htm#fr_29) The cheeks.
+<span id="fn_28"></span>[136:1](tku19.htm#fr_29.md) The cheeks.
 
-<span id="fn_29"></span>[137:1](tku19.htm#fr_30) That is, the lower
+<span id="fn_29"></span>[137:1](tku19.htm#fr_30.md) That is, the lower
 Sephiroth reflect and partake of the properties of the superior
 emanations.
 
-<span id="fn_30"></span>[137:2](tku19.htm#fr_31) By the beard is of
+<span id="fn_30"></span>[137:2](tku19.htm#fr_31.md) By the beard is of
 course symbolically meant the atmosphere of good or bad deeds with which
 a man surrounds himself during his life. Concerning dreaming of the
 beard, see the "Book of Concealed Mystery," c. iii. §§17, 18.
 
-<span id="fn_31"></span>[137:3](tku19.htm#fr_32) Thirteen is by Gematria
+<span id="fn_31"></span>[137:3](tku19.htm#fr_32.md) Thirteen is by Gematria
 the number of AChD, *Achad*, Unity. For A+ Ch + D = 1 + 8 + 4 = 13.
 
-<span id="fn_32"></span>[138:1](tku19.htm#fr_33) *I.e.* If they be not
+<span id="fn_32"></span>[138:1](tku19.htm#fr_33.md) *I.e.* If they be not
 the one, they must be the other.
 
-<span id="fn_33"></span>[139:1](tku19.htm#fr_34) *I.e.*, Meaning
+<span id="fn_33"></span>[139:1](tku19.htm#fr_34.md) *I.e.*, Meaning
 symbolically, "in him who is hardened."
 
-<span id="fn_34"></span>[139:2](tku19.htm#fr_35) I have before remarked
+<span id="fn_34"></span>[139:2](tku19.htm#fr_35.md) I have before remarked
 that this refers to the unity of the Deity: AChD, *Achad*, One; which by
 Gematria yields 13.
 
-<span id="fn_35"></span>[140:1](tku19.htm#fr_36) Apparently meaning
+<span id="fn_35"></span>[140:1](tku19.htm#fr_36.md) Apparently meaning
 that, as the words of the text denote, it was the LORD and not Moses
 that proclaimed the titles of Tetragrammaton aloud.
 
-<span id="fn_36"></span>[141:1](tku19.htm#fr_37) *I.e.*, Mentioning the
+<span id="fn_36"></span>[141:1](tku19.htm#fr_37.md) *I.e.*, Mentioning the
 merciful characteristics of the Deity, who is represented as the
 equilibrium of justice and mercy.
 
-<span id="fn_37"></span>[141:2](tku19.htm#fr_38) That is, of AHIH, as
+<span id="fn_37"></span>[141:2](tku19.htm#fr_38.md) That is, of AHIH, as
 distinct from IHVH. (See Introduction.)
 
-<span id="fn_38"></span>[141:3](tku19.htm#fr_39) The hair and beard of
+<span id="fn_38"></span>[141:3](tku19.htm#fr_39.md) The hair and beard of
 Macroprosopus, as distinct from that of Microprosopus. (See the "Book of
 Concealed Mystery," ch. iii. 16.)
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XII: Concerning the Beard of Macroprosopus in Particular,
-and in the First Place, Concerning its First Part](tku20)
+and in the First Place, Concerning its First Part](tku20.md)

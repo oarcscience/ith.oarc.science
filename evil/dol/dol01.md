@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](dol00)  [Next](dol02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](dol00)  [Next](dol02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Devils of Loudun*, by Edmund Goldsmid, \[1887\], at Intangible
 Textual Heritage
 
@@ -96,8 +96,8 @@ the nativity the astrologer had only to combine the theory of the
 influences thus exercised by these star-related gods with the aspect of
 the heavens at the moment of an individual's birth. It was an element of
 the Egyptian as well as of the Persian astrological doctrine that a
-particular star [controlled](errata.htm#0) the natal hour of
-everyone. <span id="fr_0"></span>[\*](#fn_0)
+particular star [controlled](errata.htm#0.md) the natal hour of
+everyone. <span id="fr_0"></span>[\*](#fn_0.md)
 
 Through the instrumentality of Orpheus, Musæus, Pythagoras, and others,
 who had travelled in
@@ -150,7 +150,7 @@ enchantments of the necromancer. The scholar rose superior to this low
 kind of theurgy, but he, too, no longer sought communion with the
 heavenly powers; he devoted all his energies to the discovery of the
 philosopher's stone and the elixir of eternal youth, to the sources of
-illimitable wealth and [endless](errata.htm#1) life. \[*Encyc. Nat.* ix.
+illimitable wealth and [endless](errata.htm#1.md) life. \[*Encyc. Nat.* ix.
 p. 52\].
 
 <span id="page_v1_13">p. 13</span>
@@ -335,7 +335,7 @@ there is, probably, no one who is proof against curse or blessing.
 
 ### Footnotes
 
-<span id="fn_0"></span>[v1\_10:\*](dol01.htm#fr_0) To those interested
+<span id="fn_0"></span>[v1\_10:\*](dol01.htm#fr_0.md) To those interested
 in the study of occult science, the publications and reprints issued by
 Mr. R. Fryar, of Bath, must prove most interesting. As regards Egyptian
 magic, especially the artistic reproduction of the celebrated Isiac
@@ -346,4 +346,4 @@ being printed.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](dol02)
+[Next: Part I](dol02.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu13)  [Next](cwiu15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu13)  [Next](cwiu15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
 Newton's veiled and Roger Cotes’ open counterattack upon the "plenists"
 did not remain unanswered. If the Cartesians, properly speaking, did not
 react, Leibniz, in a letter to the Princess of
-Wales,[1](cwiu16.htm#an_11_1) written in November 1715, replied to the
+Wales,[1](cwiu16.htm#an_11_1.md) written in November 1715, replied to the
 accusations formulated by Cotes by expressing to his august
 correspondent his misgivings concerning the weakening of religion and
 the spread of materialism and godless philosophies in England, where
@@ -32,7 +32,7 @@ some people attributed materiality not only to souls but even to God,
 where Mr. Locke doubted the immateriality and the immortality of the
 soul, and where Sir Isaac Newton and his followers professed rather low
 and unworthy ideas about the power and wisdom of God. Leibniz
-wrote:[2](cwiu16.htm#an_11_2)
+wrote:[2](cwiu16.htm#an_11_2.md)
 
 <div class="iq">
 
@@ -68,7 +68,7 @@ left without refutation. Yet, as it was obviously below the dignity and
 standing of Sir Isaac—who, moreover, hated all polemics and public
 discussions—to do it himself, the task fell upon the shoulders of Dr.
 Samuel Clarke, the faithful pupil and friend of Newton, who translated
-his *Opticks* into Latin,[3](cwiu16.htm#an_11_3) and, as far back as
+his *Opticks* into Latin,[3](cwiu16.htm#an_11_3.md) and, as far back as
 1697, stuffed with Newtonian footnotes his translation of Rohault's
 Cartesian *Physics*. A long-drawn-out and extremely interesting
 correspondence resulted, which ended only with the death of Leibniz, and
@@ -87,7 +87,7 @@ philosophies (which were also responsible for the materialization of the
 soul and even God, mentioned by Leibniz); pointed out that these people
 were most effectively combatted by the mathematical philosophy, the only
 philosophy which proves that matter is the smallest and the least
-important part of the universe.[4](cwiu16.htm#an_11_4) As for Sir Isaac
+important part of the universe.[4](cwiu16.htm#an_11_4.md) As for Sir Isaac
 Newton, he does not say that space is an organ which God uses in order
 to perceive things, nor that God needs any means for perceiving them.
 Quite the contrary, he says that God, being everywhere, perceives them
@@ -108,7 +108,7 @@ conserving in its being a mechanical clockwork set once and forever, and
 endowed, once and forever with a constant amount of energy, would be
 nothing better than an absent God. Clarke therefore states rather
 wickedly that the assimilation of the world to a perfect mechanism
-moving without God's intervention,[5](cwiu16.htm#an_11_5)
+moving without God's intervention,[5](cwiu16.htm#an_11_5.md)
 
 <span id="page_238">p. 238</span>
 
@@ -154,7 +154,7 @@ and creating the universe, and that, *vice versa*, the neglect of this
 principle (Leibniz does not *say* so outright, yet he suggests that such
 is the case of the Newtonians) leads directly to the world-view of
 Spinoza, or, on the other hand, to a conception of God closely
-resembling that of the Socinians,[5a](cwiu16.htm#an_11_5a) whose God is
+resembling that of the Socinians,[5a](cwiu16.htm#an_11_5a.md) whose God is
 so utterly lacking in foresight that He has "to live from day to day."
 The Newtonians point out that, according to them, and in
 contradistinction to the materialists, matter is the least important
@@ -169,7 +169,7 @@ space at all in the universe, and that space is everywhere full of
 matter.
 
 But to come back to Newton. In spite of all the explanations of his
-friends,[6](cwiu16.htm#an_11_6)
+friends,[6](cwiu16.htm#an_11_6.md)
 
 <div class="iq">
 
@@ -196,7 +196,7 @@ has, from time to time, to correct the natural development of the world,
 he can do it either by supernatural means, that is, by a miracle (but to
 explain natural things and processes by miracles is absurd); or He can
 do it in a *natural* way: in this case God is included in nature and
-becomes *anima mundi*. Finally,[7](cwiu16.htm#an_11_7)
+becomes *anima mundi*. Finally,[7](cwiu16.htm#an_11_7.md)
 
 <div class="iq">
 
@@ -237,13 +237,13 @@ world.
 
 It is hardly surprising that, having read Leibniz's answer to his
 criticism, Dr. Clarke felt himself compelled to reply: Leibniz's hints
-were too damaging,[8](cwiu16.htm#an_11_8) his tone too superior, and,
+were too damaging,[8](cwiu16.htm#an_11_8.md) his tone too superior, and,
 moreover, his insistence on the implications of the term "*sensorium*,"
 somewhat hastily and perhaps unhappily used by Newton, far too menacing
 to allow Clarke to leave Leibniz in the position of having had the last
 word.
 
-Starting thus from the beginning, Clarke explains[9](cwiu16.htm#an_11_9)
+Starting thus from the beginning, Clarke explains[9](cwiu16.htm#an_11_9.md)
 that the "principles of mathematical philosophy" are by no means
 identical with, but radically opposed to, those of materialism,
 precisely in that they deny the possibility of a purely naturalistic
@@ -259,7 +259,7 @@ sufficient reason can be simply the will of God. Thus, for instance, if
 one considers why a system, or a certain piece, of matter is created in
 one place, and another one in another, and not *vice versa*, there can
 be no other reason for that than the pure will of God. [If
-it](errata.htm#6) were not so—that is, if the principle of sufficient
+it](errata.htm#6.md) were not so—that is, if the principle of sufficient
 reason were taken absolutely, as Leibniz does—and if this will could
 never act unless predetermined by some cause, as a balance cannot move
 unless some weight make it turn, God would have no liberty of choice,
@@ -276,7 +276,7 @@ As for the (Newtonian) God, he is neither an *intelligentia mundana*,
 nor an *intelligentia supra-mundana*; nor is he an *anima mundi*, but an
 intelligence which is everywhere, in the world and outside it, in
 everything, and above everything. And he has no organs as Leibniz
-persists in insisting.[10](cwiu16.htm#an_11_10)
+persists in insisting.[10](cwiu16.htm#an_11_10.md)
 
 <div class="iq">
 
@@ -296,7 +296,7 @@ perceives things in themselves, where they are, being present to them,
 and not purely transcendent—present, acting, forming and reforming
 (which last term, just as the term "correcting," must be understood in
 respect to us, or to God's works, not indeed as implying change in God's
-designs): thus if[11](cwiu16.htm#an_11_11)
+designs): thus if[11](cwiu16.htm#an_11_11.md)
 
 <div class="iq">
 
@@ -333,7 +333,7 @@ demonstration that God's free (that is,
 unmotivated, irrational) will can, and must, be considered as a
 "sufficient reason" for something, is to insult the intelligence; and to
 force Leibniz to discuss the problem of space (something he did not very
-much want to do):[12](cwiu16.htm#an_11_12)
+much want to do):[12](cwiu16.htm#an_11_12.md)
 
 <div class="iq">
 
@@ -350,7 +350,7 @@ criticism of the Newtonian or, more generally, the absolutist conception
 of space, forgets that those who hold it deny that space consists of
 parts—*partes extra partes*—and assert, on the contrary, that it is
 indivisible. Leibniz is perfectly right, too, in asserting
-that[13](cwiu16.htm#an_11_13)
+that[13](cwiu16.htm#an_11_13.md)
 
 <div class="iq">
 
@@ -391,7 +391,7 @@ which is synonymous with necessity.
 
 The Newtonians assert that, left to itself, the motive force of the
 universe would decrease and finally disappear. But, objects
-Leibniz,[14](cwiu16.htm#an_11_14)
+Leibniz,[14](cwiu16.htm#an_11_14.md)
 
 <div class="iq">
 
@@ -445,7 +445,7 @@ infinite space. And as
 <span id="page_247">p. 247</span>
 
 for its relation to God, misrepresented by Leibniz, Clarke states the
-correct, Newtonian, that is, More's, doctrine:[15](cwiu16.htm#an_11_15)
+correct, Newtonian, that is, More's, doctrine:[15](cwiu16.htm#an_11_15.md)
 
 <div class="iq">
 
@@ -471,11 +471,11 @@ relative, and nothing but the order and arrangement of things, then a
 mere displacement of a system of bodies from one place to another (for
 instance, of our world to the region of the farthest fixed stars) would
 be no change at all, and it would follow therefrom that the two places
-would be the same place. . . .[16](cwiu16.htm#an_11_16) It would follow
+would be the same place. . . .[16](cwiu16.htm#an_11_16.md) It would follow
 also that, if God should move the whole world in a straight line, then,
 whatever the speed of this motion, the world would remain in the same
 place, and that nothing would happen if that motion were suddenly
-stopped.[17](cwiu16.htm#an_11_17)
+stopped.[17](cwiu16.htm#an_11_17.md)
 
 And if *time* were only an order of succession, then it would follow
 that, if God had created the world some
@@ -493,7 +493,7 @@ More) with the main philosophico-theological tradition to which Leibniz
 remains fundamentally faithful: the Newtonians, as we know, do not
 attach time and space to creation but to God, and do not oppose God's
 eternity and immensity to sempiternity and spatial infinity, but, on the
-contrary, identify them. Clarke thus explains:[18](cwiu16.htm#an_11_18)
+contrary, identify them. Clarke thus explains:[18](cwiu16.htm#an_11_18.md)
 
 <div class="iq">
 
@@ -560,11 +560,11 @@ sufficient reason: no action without choice, no choice without
 determining motive, no motive without a difference between the
 conflicting possibilities; and therefore—an affirmation of overwhelming
 importance—no two identical objects or equivalent situations are real,
-or even possible, in the world.[19](cwiu16.htm#an_11_19)
+or even possible, in the world.[19](cwiu16.htm#an_11_19.md)
 
 As for space, Leibniz reasserts just as vigorously that space is a
 function of bodies and that, where there are no bodies, there is also no
-space[20](cwiu16.htm#an_11_20)
+space[20](cwiu16.htm#an_11_20.md)
 
 <div class="iq">
 
@@ -580,7 +580,7 @@ both limited in extension, as was thought by the mediaeval philosophers
 who spoke about the "imaginary" space "outside" of the world; but, on
 the contrary, that void space, be it outside or inside the world, is
 pure fiction. Space, everywhere, is full;
-indeed,[21](cwiu16.htm#an_11_21)
+indeed,[21](cwiu16.htm#an_11_21.md)
 
 <div class="iq">
 
@@ -591,8 +591,8 @@ Now, let us fancy a *Space* wholly *empty*, God *could* have placed some
 Matter in it, without derogating in any respect from all other things;
 Therefore he hath actually placed some Matter in That Space: Therefore,
 there is no Space wholly *Empty*: Therefore All is
-full.[22](cwiu16.htm#an_11_22) The same Argument proves that there is no
-Corpuscle, but what is Subdivided.[23](cwiu16.htm#an_11_23)
+full.[22](cwiu16.htm#an_11_22.md) The same Argument proves that there is no
+Corpuscle, but what is Subdivided.[23](cwiu16.htm#an_11_23.md)
 
 </div>
 
@@ -602,7 +602,7 @@ against which Leibniz erects objections
 <span id="page_251">p. 251</span>
 
 analogous to, and probably derived from, those that Descartes opposed to
-Henry More:[24](cwiu16.htm#an_11_24)
+Henry More:[24](cwiu16.htm#an_11_24.md)
 
 <div class="iq">
 
@@ -616,7 +616,7 @@ to be between Two Bodies?
 <span class="contnote">\[paragraph continues\]</span> This is a
 reasonable question, but a question to which Henry More had already
 given an answer, which Leibniz however chooses to disregard; he
-continues therefore:[25](cwiu16.htm#an_11_25)
+continues therefore:[25](cwiu16.htm#an_11_25.md)
 
 <div class="iq">
 
@@ -633,7 +633,7 @@ of things, and not any thing absolute.
 By no means; of course there is no attribute without substance; but as
 we know, for the "Author" that substance is God. Leibniz does not admit
 it, and develops the awkward consequences of the absolutist
-conception:[26](cwiu16.htm#an_11_26)
+conception:[26](cwiu16.htm#an_11_26.md)
 
 <div class="iq">
 
@@ -653,7 +653,7 @@ As we know, it is just what the Newtonians, or the Henry
 <span class="contnote">\[paragraph continues\]</span> More-ists assert,
 denying, of course, that space is something "besides" God. But their
 teaching, according to Leibniz, implies
-contradictions:[27](cwiu16.htm#an_11_27)
+contradictions:[27](cwiu16.htm#an_11_27.md)
 
 <div class="iq">
 
@@ -672,7 +672,7 @@ Newton, for whom space is a unity which precedes and makes possible all
 relations that can be discovered in it. Or, more probably, since it is
 rather difficult to believe that there was something that Leibniz did
 not understand, he *does* understand, but does not admit the conception
-of Newton. Thus he writes:[28](cwiu16.htm#an_11_28)
+of Newton. Thus he writes:[28](cwiu16.htm#an_11_28.md)
 
 <div class="iq">
 
@@ -695,7 +695,7 @@ in a straight line is to compel him to do something
 wholly meaningless, an action without rime or reason, that is, an action
 that it is impossible to attribute to God. Finally, concerning
 attraction, which Clarke endeavors to present as something natural,
-Leibniz repeats:[29](cwiu16.htm#an_11_29)
+Leibniz repeats:[29](cwiu16.htm#an_11_29.md)
 
 <div class="iq">
 
@@ -710,7 +710,7 @@ things.
 Leibniz's repeated appeal to the principle of sufficient reason did not,
 needless to say, convince or even appease Clarke. Quite the contrary: it
 seemed to him to confirm his worst apprehensions. In the *fourth* reply
-he writes:[30](cwiu16.htm#an_11_30)
+he writes:[30](cwiu16.htm#an_11_30.md)
 
 <div class="iq">
 
@@ -729,7 +729,7 @@ mechanism, which, in the last analysis, is always passive. If Leibniz
 were right about the impossibility of a plurality of identical objects,
 no creation would ever have been possible; matter, indeed, has one
 identical nature, and we can always suppose that its parts have the same
-dimension and figure.[31](cwiu16.htm#an_11_31) In other terms: the
+dimension and figure.[31](cwiu16.htm#an_11_31.md) In other terms: the
 
 <span id="page_254">p. 254</span>
 
@@ -742,7 +742,7 @@ Newtonian physics is inconceivable.
 Leibniz's linking space (and time) with the world, and his assertion of
 the fictitious (imaginary) character of void space and "void" time seem
 to Clarke utterly unreasonable; and also full of danger. It is perfectly
-clear that[32](cwiu16.htm#an_11_32)
+clear that[32](cwiu16.htm#an_11_32.md)
 
 <div class="iq">
 
@@ -752,7 +752,7 @@ World, merely imaginary.
 
 </div>
 
-It is the same in respect to time:[33](cwiu16.htm#an_11_33)
+It is the same in respect to time:[33](cwiu16.htm#an_11_33.md)
 
 <div class="iq">
 
@@ -762,7 +762,7 @@ created at the Time it was created.
 </div>
 
 The denial of the possibility for God to give motion to the world is no
-more convincing:[34](cwiu16.htm#an_11_34)
+more convincing:[34](cwiu16.htm#an_11_34.md)
 
 <div class="iq">
 
@@ -774,7 +774,7 @@ nothing that is finite, is immoveable.
 
 Leibniz's criticism of the concept of void space is, for Clarke, based
 on a complete misunderstanding of its nature and on misuse of
-metaphysical concepts:[35](cwiu16.htm#an_11_35)
+metaphysical concepts:[35](cwiu16.htm#an_11_35.md)
 
 <div class="iq">
 
@@ -815,14 +815,14 @@ Having thus established the ontological status of space as an attribute
 of God, Clarke proceeds to the demonstration that its attribution to God
 does not constitute a slur on His perfection: thus it does not make God
 divisible. Bodies are divisible, that is, can be broken up into
-parts,[36](cwiu16.htm#an_11_36)
+parts,[36](cwiu16.htm#an_11_36.md)
 
 <div class="iq">
 
 but infinite Space, though it may by Us be *partially apprehended*, that
 is, may in our Imagination be conceived as composed of *Parts*; yet
 Those *Parts* (*improperly* so called) being *essentially
-indiscerpible*[37](cwiu16.htm#an_11_37) and *immoveable* from each
+indiscerpible*[37](cwiu16.htm#an_11_37.md) and *immoveable* from each
 other, and not *partable* without an express Contradiction
 
 </div>
@@ -841,7 +841,7 @@ which is a precondition of motion; and motion in the true and full sense
 of the word, is absolute motion, that is, motion in respect to this
 space, in which places, though perfectly similar, are nevertheless
 different. The reality of this motion proves, at the same time, the
-reality of absolute space:[38](cwiu16.htm#an_11_38)
+reality of absolute space:[38](cwiu16.htm#an_11_38.md)
 
 <div class="iq">
 
@@ -855,7 +855,7 @@ to another; and *relative Motion*, which is merely a change of the
 </div>
 
 The problem of time is exactly parallel to that of
-space:[39](cwiu16.htm#an_11_39)
+space:[39](cwiu16.htm#an_11_39.md)
 
 <div class="iq">
 
@@ -875,7 +875,7 @@ he did.
 </div>
 
 Clarke's reasoning follows the well-trodden path: infinity implies
-necessity, and therefore:[40](cwiu16.htm#an_11_40)
+necessity, and therefore:[40](cwiu16.htm#an_11_40.md)
 
 <span id="page_257">p. 257</span>
 
@@ -892,7 +892,7 @@ Thus we see it once more: the acceptance of absolute space as an
 attribute of God and as the universal container or receptacle of
 everything is the means—the only one—to avoid infinity, that is,
 self-sufficiency of matter, and to save the concept of
-creation:[41](cwiu16.htm#an_11_41)
+creation:[41](cwiu16.htm#an_11_41.md)
 
 <div class="iq">
 
@@ -906,7 +906,7 @@ This has no Tendency to make God *the Soul* of the World.
 God immersed in the world and thus, as Leibniz insinuates, dependent
 upon the world, the Newtonian conception is, according to Clarke, the
 only one that makes Him fully and truly independent of it; fully and
-truly free:[42](cwiu16.htm#an_11_42)
+truly free:[42](cwiu16.htm#an_11_42.md)
 
 <div class="iq">
 
@@ -920,7 +920,7 @@ without being *acted upon by it*.
 
 <span class="contnote">\[paragraph continues\]</span> And it is just
 because of this independence of God from the world
-that[43](cwiu16.htm#an_11_43)
+that[43](cwiu16.htm#an_11_43.md)
 
 <div class="iq">
 
@@ -940,7 +940,7 @@ attraction and in wanting to make it a miracle, Clarke (who pointed out
 that Leibniz's own theory of the "pre-established harmony" between the
 non-communicating and non-acting-upon-each-other mind and body has much
 more right to imply a perpetual miracle)
-explains,[44](cwiu16.htm#an_11_44)
+explains,[44](cwiu16.htm#an_11_44.md)
 
 <div class="iq">
 
@@ -1010,7 +1010,7 @@ mechanism.
 
 Freedom, indeed, for Leibniz, as for most philosophers, means doing what
 is good, or best, or what one ought to do, not simply doing what one
-wants to.[45](cwiu16.htm#an_11_45) The laymen, alas—and Newton is no
+wants to.[45](cwiu16.htm#an_11_45.md) The laymen, alas—and Newton is no
 better than they—cannot make that distinction; they do not recognize
 freedom in the absolute determination of God's action. The laymen, and
 the theologians, therefore, accuse the philosophers of rejecting freedom
@@ -1018,7 +1018,7 @@ in favor of necessity, and attribute to God actions utterly unworthy of
 Him. It is, however, evident that it is unreasonable to ask God to act
 in a purposeless irrational manner even if, strictly speaking, He is
 able—being all-powerful—to perform such an action. Thus, for
-instance:[46](cwiu16.htm#an_11_46)
+instance:[46](cwiu16.htm#an_11_46.md)
 
 <div class="iq">
 
@@ -1030,7 +1030,7 @@ Wisdom.
 
 And it is, of course, even less "agreeable to his Wisdom" to move the
 world in a straight line—why, indeed, should God do such a meaningless
-thing?[47](cwiu16.htm#an_11_47)
+thing?[47](cwiu16.htm#an_11_47.md)
 
 <div class="iq">
 
@@ -1073,7 +1073,7 @@ so, and that for a rather surprising reason, a reason that shows us the
 depth of Leibniz's opposition to Newton, and the fidelity of Leibniz to
 old Aristotelian conceptions which modern science has been at such pains
 to reject and to reform: for Leibniz, indeed, motion is still conceived
-as a *change*, and not as a *status*:[48](cwiu16.htm#an_11_48)
+as a *change*, and not as a *status*:[48](cwiu16.htm#an_11_48.md)
 
 <span id="page_262">p. 262</span>
 
@@ -1092,7 +1092,7 @@ Reason* of things.
 
 The principle of observability confirms the relative character of motion
 and space. But relations—another far-reaching statement—have no "real",
-but only an "ideal", existence. Therefore,[49](cwiu16.htm#an_11_49)
+but only an "ideal", existence. Therefore,[49](cwiu16.htm#an_11_49.md)
 
 <div class="iq">
 
@@ -1110,7 +1110,7 @@ world—Leibniz, on the contrary, denies the limitation of the universe.
 But in a sense he is right to appeal to them: for both time and space
 are intramundane and have no existence outside—or independently from—the
 created world. How, indeed, could time be something in itself, something
-real or even eternal?[50](cwiu16.htm#an_11_50)
+real or even eternal?[50](cwiu16.htm#an_11_50.md)
 
 <div class="iq">
 
@@ -1137,7 +1137,7 @@ appear that the one is as merely Ideal as the other.
 Yet we must not unduly stress the parallelism between space and time in
 order not to be conduced to admit either the infinity of time, that is,
 the eternity of the world, or the possibility of a finite
-universe:[51](cwiu16.htm#an_11_51)
+universe:[51](cwiu16.htm#an_11_51.md)
 
 <div class="iq">
 
@@ -1167,7 +1167,7 @@ the Princess of
 
 <span class="contnote">\[paragraph continues\]</span> Wales) how utterly
 impossible it is to confer an absolute existence on void
-space.[52](cwiu16.htm#an_11_52)
+space.[52](cwiu16.htm#an_11_52.md)
 
 <div class="iq">
 
@@ -1187,7 +1187,7 @@ its *Extension*.
 
 <span class="contnote">\[paragraph continues\]</span> Rather amusing to
 see Leibniz use against Clarke the same arguments that Henry More used
-against Descartes. But let us continue:[53](cwiu16.htm#an_11_53)
+against Descartes. But let us continue:[53](cwiu16.htm#an_11_53.md)
 
 <div class="iq">
 
@@ -1204,7 +1204,7 @@ But the Newtonians, as we know, reinterpret these terms and expressly
 identify God's immensity with infinite extension and God's eternity with
 infinite duration. They will therefore acknowledge that everything is
 *in* God, without being obliged to put everything in his *essence*. But
-Leibniz insists:[54](cwiu16.htm#an_11_54)
+Leibniz insists:[54](cwiu16.htm#an_11_54.md)
 
 <div class="iq">
 
@@ -1234,7 +1234,7 @@ omnipresence, which everybody admits, and God's simplicity, which
 everybody admits also, by refusing to recognize, in God, a separation
 between His substance and His power and asserting therefore His
 substantial presence everywhere. They would deny Leibniz's contention
-that[55](cwiu16.htm#an_11_55)
+that[55](cwiu16.htm#an_11_55.md)
 
 <div class="iq">
 
@@ -1252,7 +1252,7 @@ Of course not. But for the Newtonians, it means precisely that time and
 space do not belong to things, nor are relations based upon the
 existence of things, but belong to God as a framework in which things
 and events have and take place. Leibniz knows it, of course, but he
-cannot admit this conception:[56](cwiu16.htm#an_11_56)
+cannot admit this conception:[56](cwiu16.htm#an_11_56.md)
 
 <span id="page_266">p. 266</span>
 
@@ -1278,7 +1278,7 @@ if space and time are only innerworldly entities, and did not exist
 before Creation, must we not assume that the creation of the world
 brought about change in God; and that, before it, He was neither immense
 nor omnipresent? is not, therefore, God, in his own conception,
-dependent upon creatures? Leibniz writes then:[57](cwiu16.htm#an_11_57)
+dependent upon creatures? Leibniz writes then:[57](cwiu16.htm#an_11_57.md)
 
 <div class="iq">
 
@@ -1321,7 +1321,7 @@ expressed in this debate the radical opposition of two conflicting views
 of nature, and of science: Leibniz can accept neither the Newtonian
 conception of the insufficiency of the material nature nor the
 provisional positivism of his conception of "mathematical
-philosophy":[58](cwiu16.htm#an_11_58)
+philosophy":[58](cwiu16.htm#an_11_58.md)
 
 <div class="iq">
 
@@ -1382,7 +1382,7 @@ necessity. If Dr. Clarke had the gift of foreseeing things, he would
 say: a mere calculating machine!
 
 Leibniz's renewed attack on Newton's conceptions of time, space and
-motion is not more successful.[59](cwiu16.htm#an_11_59)
+motion is not more successful.[59](cwiu16.htm#an_11_59.md)
 
 <div class="iq">
 
@@ -1402,7 +1402,7 @@ Matter* is an Effect of the *Will of God*.
 were true that—as taught by Descartes—a finite universe is
 contradictory, is it not clear that, in this case, God neither is, nor
 was, able to limit the quantity of matter and therefore did not create,
-and can not destroy it? Indeed,[60](cwiu16.htm#an_11_60)
+and can not destroy it? Indeed,[60](cwiu16.htm#an_11_60.md)
 
 <div class="iq">
 
@@ -1429,7 +1429,7 @@ not only
 </div>
 
 As for the relation between space, body and God, Clarke restates his
-position with perfect clarity:[61](cwiu16.htm#an_11_61)
+position with perfect clarity:[61](cwiu16.htm#an_11_61.md)
 
 <div class="iq">
 
@@ -1484,7 +1484,7 @@ and <span class="smallcaps">in</span> which he exists.
 
 </div>
 
-Moreover,[62](cwiu16.htm#an_11_62)
+Moreover,[62](cwiu16.htm#an_11_62.md)
 
 <div class="iq">
 
@@ -1502,7 +1502,7 @@ greater one. Moreover—Clarke is rather astonished that Leibniz does not
 understand this—in Newtonian science or *mathematical* philosophy,
 attraction (whatever be its ultimate physical or metaphysical
 explanation) appears only as a phenomenon, as a general fact and as a
-mathematical expression. Therefore,[63](cwiu16.htm#an_11_63)
+mathematical expression. Therefore,[63](cwiu16.htm#an_11_63.md)
 
 <div class="iq">
 
@@ -1544,7 +1544,7 @@ God of its energetic endowment; the Leibnizian one, by its very
 perfection, rules out any intervention of God into its perpetual motion.
 Thus it is not surprising that for Dr. Clarke the fight for void space,
 hard atoms and absolute motion becomes a fight for God's Lordship and
-presence, and that he asks Leibniz why[64](cwiu16.htm#an_11_64)
+presence, and that he asks Leibniz why[64](cwiu16.htm#an_11_64.md)
 
 <div class="iq">
 
@@ -1558,4 +1558,4 @@ only what they would do of *themselves of mere Mechanism*.
 ------------------------------------------------------------------------
 
 [Next: XII. Conclusion: The Divine Artifex and the Dieu
-Fainéant](cwiu15)
+Fainéant](cwiu15.md)

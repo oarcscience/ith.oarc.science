@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Islam](../index) [Shiite
-Documents](../shi)
+[Intangible Textual Heritage](../../index) [Islam](../index.md) [Shiite
+Documents](../shi.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ the minister of Malikshah I and helped him to organize this event. Both
 of them, the king and the minister were assassinated in the same year of
 1092 AD (around 485 AH in Islamic calendar). For more information about
 the Vizier and the king and also this story, you can refer to
-[wikipedia](https://en.wikipedia.org/wiki/Nizam_al_Mulk).  
+[wikipedia](https://en.wikipedia.org/wiki/Nizam_al_Mulk.md).  
 It is interesting to see that the entry in wikipedia contains 3 versions
 for the story of the assassination of the vizier and the king, and the
 last version is linked to this story which you are about to see its

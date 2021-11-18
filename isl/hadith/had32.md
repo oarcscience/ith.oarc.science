@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had31)  [Next](had33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had31)  [Next](had33.md) 
 
 ------------------------------------------------------------------------
 
@@ -327,4 +327,4 @@ are in need."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX: Ethics (Adab)](had33)
+[Next: Chapter XXX: Ethics (Adab)](had33.md)

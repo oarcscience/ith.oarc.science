@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip86)  [Next](fip88) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip86)  [Next](fip88.md) 
 
 ------------------------------------------------------------------------
 
-### A WITCH TRIAL.--Page [146](fip43.htm#page_146).
+### A WITCH TRIAL.--Page [146](fip43.htm#page_146.md).
 
 The last trial for witchcraft in Ireland--there were never very
 many--thus given in MacSkimin's *History of Carrickfergus*: "1711, March
@@ -75,4 +75,4 @@ cabbage stalks and the like, by which one of them had an eye beaten out.
 
 ------------------------------------------------------------------------
 
-[Next: T'yeer-na-n-Oge](fip88)
+[Next: T'yeer-na-n-Oge](fip88.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim32)  [Next](sim34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim32)  [Next](sim34.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,7 +204,7 @@ fire and when a thick smoke rose up he
 
 sprang into it and shot off toward the West. He came down at the edge of
 a clearing in a great forest. Near the opposite end of the clearing was
-a long house <span id="fr_2"></span>[1](#fn_2) and not far away, at the
+a long house <span id="fr_2"></span>[1](#fn_2.md) and not far away, at the
 edge of the woods, was a hut where a grandmother lived with her three
 grandchildren, a boy and two girls.
 
@@ -319,8 +319,8 @@ Since that time foxes have black noses and their fur is a tawny yellow.
 
 ### Footnotes
 
-<span id="fn_2"></span>[189:1](sim33.htm#fr_2) The Indian council house.
+<span id="fn_2"></span>[189:1](sim33.htm#fr_2.md) The Indian council house.
 
 ------------------------------------------------------------------------
 
-[Next: The Creation of Men (Indians)](sim34)
+[Next: The Creation of Men (Indians)](sim34.md)

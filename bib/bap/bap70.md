@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap69) 
-[Next](bap71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap69.md) 
+[Next](bap71.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,7 +86,7 @@ sayest, because I am a youth. And Samuel
 
 said to Saul: Who will grant that thy word should come even unto
 accomplishment of itself, that thou mayest live many days? <span
-id="fr_154"></span>[1](#fn_153) but consider this, that thy words shall
+id="fr_154"></span>[1](#fn_153.md) but consider this, that thy words shall
 be likened unto the words of a prophet, whose name shall be Hieremias.
 7. And as Saul
 
@@ -104,10 +104,10 @@ the book of the Kings?
 
 ### Footnotes
 
-<span id="fn_153"></span>[229:1](bap70.htm#fr_154) LVI. 6. *Who will
+<span id="fn_153"></span>[229:1](bap70.htm#fr_154.md) LVI. 6. *Who will
 grant*, etc.: *quis dabit uerbum tuum per se uenire usque ad finem ut
 longaeuus sis*?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LVII](bap71)
+[Next: Chapter LVII](bap71.md)

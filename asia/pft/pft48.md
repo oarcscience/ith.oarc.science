@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft47)  [Next](pft49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft47)  [Next](pft49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,10 +21,10 @@ Intangible Textual Heritage
 Before the Spaniards occupied the island of Mindanao, there lived in the
 valley of the Rio Grande a very strong man, Bantugan, whose father was
 the brother of the earthquake and thunder.  <span
-id="fr_145"></span>[146](pft68.htm#fn_145)
+id="fr_145"></span>[146](pft68.htm#fn_145.md)
 
 Now the Sultan of the Island  <span
-id="fr_146"></span>[147](pft68.htm#fn_146) had a beautiful daughter whom
+id="fr_146"></span>[147](pft68.htm#fn_146.md) had a beautiful daughter whom
 Bantugan wished to marry, but the home of the Sultan was far off, and
 whoever went to carry Bantugan's proposal would have a long and
 hazardous journey. All the head men consulted together regarding who
@@ -43,7 +43,7 @@ protected himself with his father's shield and prayed, calling on the
 winds from the homeland until they came and cleared the air again.
 
 Thereupon Balatama encountered a great snake  <span
-id="fr_147"></span>[148](pft68.htm#fn_147) in the road, and it inquired
+id="fr_147"></span>[148](pft68.htm#fn_147.md) in the road, and it inquired
 his errand. When told, the snake said:
 
 "You cannot go on, for I am guard of this road and no one can pass."
@@ -266,4 +266,4 @@ of the waiting-girls of the wife of Bantugan.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](pft49)
+[Next: Introduction](pft49.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim05)  [Next](sim07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim05)  [Next](sim07.md) 
 
 ------------------------------------------------------------------------
 
@@ -617,4 +617,4 @@ glad to see her. After this they all lived together happily.
 ------------------------------------------------------------------------
 
 [Next: Okteondon and His Uncle, The Planter, or, Winter Delaying
-Spring](sim07)
+Spring](sim07.md)

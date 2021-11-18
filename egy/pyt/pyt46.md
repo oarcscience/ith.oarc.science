@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt45)  [Next](pyt47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt45)  [Next](pyt47.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ for ever, king, Osiris N."
 
 ------------------------------------------------------------------------
 
-[Next: 44. Texts of Miscellaneous Contents, Utterances 607-609](pyt47)
+[Next: 44. Texts of Miscellaneous Contents, Utterances 607-609](pyt47.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp08)  [Next](potp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp08)  [Next](potp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ some kind must be at work."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Water-Sky: What It Is](potp10)
+[Next: Chapter IV. The Water-Sky: What It Is](potp10.md)

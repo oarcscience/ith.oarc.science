@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj35) 
-[Next](npj37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj35.md) 
+[Next](npj37.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ We called it Hatsuyuki, "Year's First Snow."
 And where our mistress walked  
 It followed like a shadow at her side.  
 But now alas! it is a bird of parting <span
-id="fr_187"></span>[1](#fn_185)  
+id="fr_187"></span>[1](#fn_185.md)  
 Though not in Love's dark lane.
 
 LADY.
@@ -99,7 +99,7 @@ And turn your heart to him who vowed to hear.
 The Lord Amida, if a prayer be said--  
 Who knows but he can bring<span id="page_205">p. 205</span>  
 Even a bird's soul into Paradise  
-And set it on the Lotus Pedestal? <span id="fr_188"></span>[1](#fn_186)
+And set it on the Lotus Pedestal? <span id="fr_188"></span>[1](#fn_186.md)
 
 LADY.
 
@@ -164,12 +164,12 @@ We know not where.
 
 ### Footnotes
 
-<span id="fn_185"></span>[204:1](npj36.htm#fr_187) "Wakare no tori," the
+<span id="fn_185"></span>[204:1](npj36.htm#fr_187.md) "Wakare no tori," the
 bird which warns lovers of the approach of day.
 
-<span id="fn_186"></span>[205:1](npj36.htm#fr_188) Turn it into a
+<span id="fn_186"></span>[205:1](npj36.htm#fr_188.md) Turn it into a
 Buddha.
 
 ------------------------------------------------------------------------
 
-[Next: Haku Rakuten](npj37)
+[Next: Haku Rakuten](npj37.md)

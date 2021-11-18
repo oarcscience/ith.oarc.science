@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps24) 
-[Next](mps26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps24.md) 
+[Next](mps26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ called; thither they led him pale with fear.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII. King Rostevan Hears of Avt’handil's Secret Flight](mps26)
+[Next: XXIII. King Rostevan Hears of Avt’handil's Secret Flight](mps26.md)

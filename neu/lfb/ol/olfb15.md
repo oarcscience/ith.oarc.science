@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb14)  [Next](olfb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb14)  [Next](olfb16.md) 
 
 </div>
 
@@ -483,6 +483,6 @@ Kristensen*. Translated from the Danish by Mrs. Skovgaard-Pedersen.)
 
 ------------------------------------------------------------------------
 
-[Next: The Five Wise Words of the Guru](olfb16)
+[Next: The Five Wise Words of the Guru](olfb16.md)
 
 </div>

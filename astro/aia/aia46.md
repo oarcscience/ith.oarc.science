@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia45.md) 
 
 ------------------------------------------------------------------------
 
@@ -310,9 +310,9 @@ effect of a ☐, and a ☐ that of a ✶.
 *Swift in Motion*.--When a planet moves faster than its mean motion.
 
 *Table of Houses*.--These are necessary to erect a figure of the
-heavens. <span id="fr_126"></span>[1](#fn_125)
+heavens. <span id="fr_126"></span>[1](#fn_125.md)
 
-*Term*.--An essential dignity. (See page [72](aia21.htm#page_72).)
+*Term*.--An essential dignity. (See page [72](aia21.htm#page_72)..md)
 
 *Testimony*.--Having any aspect or dignity, &c., or being in any way in
 operation in the figure as regards the question asked.
@@ -346,7 +346,7 @@ THE END OF INTRODUCTION TO ASTROLOGY.
 
 ### Footnotes
 
-<span id="fn_125"></span>[345:1](aia46.htm#fr_126) A complete set for
+<span id="fn_125"></span>[345:1](aia46.htm#fr_126.md) A complete set for
 London and Liverpool, answering for all kingdom, follows the *Grammar of
 Astrology*.
 

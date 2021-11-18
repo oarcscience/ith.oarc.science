@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas26)  [Next](sas28)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas26)  [Next](sas28.md)  
 
 ------------------------------------------------------------------------
 
@@ -1735,4 +1735,4 @@ of the means, of all such Tantrik Sadhana.
 ------------------------------------------------------------------------
 
 Next: [Chapter Twenty-eight: Matam Rutra (The Right and Wrong
-Interpretation)](sas28)
+Interpretation)](sas28.md)

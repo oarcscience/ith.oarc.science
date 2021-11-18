@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft40)  [Next](eft42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft40)  [Next](eft42.md) 
 
 ------------------------------------------------------------------------
 
 # Fairy Ointment
 
 <span id="img_059"></span> [![](tn/059.jpg)  
-Click to enlarge](img/059.jpg)
+Click to enlarge](img/059.jpg.md)
 
 DAME Goody was a nurse that looked after sick people, and minded babies.
 One night she was woke up at midnight, and when she went downstairs, she
@@ -88,4 +88,4 @@ hour till the day of her death.
 
 ------------------------------------------------------------------------
 
-[Next: The Well of the World's End](eft42)
+[Next: The Well of the World's End](eft42.md)

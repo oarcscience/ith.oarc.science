@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip33)  [Next](fip35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip33)  [Next](fip35.md) 
 
 ------------------------------------------------------------------------
 
@@ -515,4 +515,4 @@ last account to its Creator.
 
 ------------------------------------------------------------------------
 
-[Next: Ghosts](fip35)
+[Next: Ghosts](fip35.md)

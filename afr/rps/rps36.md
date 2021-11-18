@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps35)  [Next](rps37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps35)  [Next](rps37.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ SUPREMACY, Lady Pettersburgh, K.A.Q.O., KING OF KINGS.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 35. Eve, the Mother of Evil](rps37)
+[Next: Chapter 35. Eve, the Mother of Evil](rps37.md)

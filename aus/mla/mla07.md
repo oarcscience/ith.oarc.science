@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla06)  [Next](mla08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla06)  [Next](mla08.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ mournfully in the woods, and the Mopoke only ventures abroad at night.
 ------------------------------------------------------------------------
 
 [Next: Why the Whale Spouts, the Starfish is Ragged, and the Native Bear
-has Strong Arms](mla08)
+has Strong Arms](mla08.md)

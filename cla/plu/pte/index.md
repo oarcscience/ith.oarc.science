@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pte00)    [Page
-Index](pageidx)    [Text \[Zipped\]](pte.txt.gz)
+[Contents](#contents)    [Start Reading](pte00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](pte.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -46,19 +46,19 @@ Oracles</span>, p. 93</span>
 Originally published in 1882 as part of Bohn's Classical Library, this
 volume of selections from Plutarch's Moralia was translated by the 19th
 century scholar of Gnostics and gemstones, Charles William King. King
-also wrote [The Gnostics and Their Remains](../../../gno/gar/index).
+also wrote [The Gnostics and Their Remains](../../../gno/gar/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pte00)  
-[Preface](pte01)  
-[Contents](pte02)  
-[Description of the Woodcuts](pte03)  
-[On Isis and Osiris](pte04)  
-[On the Cessation of Oracles](pte05)  
-[On the Pythian Responses](pte06)  
-[On the E at Delphi](pte07)  
-[On the Apparent Face in the Orb of the Moon](pte08)  
-[On Superstition](pte09)  
-[Appendix](pte10)  
-[Index](pte11)  
+<span id="contents"></span> [Title Page](pte00.md)  
+[Preface](pte01.md)  
+[Contents](pte02.md)  
+[Description of the Woodcuts](pte03.md)  
+[On Isis and Osiris](pte04.md)  
+[On the Cessation of Oracles](pte05.md)  
+[On the Pythian Responses](pte06.md)  
+[On the E at Delphi](pte07.md)  
+[On the Apparent Face in the Orb of the Moon](pte08.md)  
+[On Superstition](pte09.md)  
+[Appendix](pte10.md)  
+[Index](pte11.md)  

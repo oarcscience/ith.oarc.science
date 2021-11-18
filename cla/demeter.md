@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index)  [Classical Paganism](index)
+[Intangible Textual Heritage](../index)  [Classical Paganism](index.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ sea's salt swell laughed for joy. And the girl was amazed and reached
 out with both hands to take the lovely toy; but the wide-pathed earth
 yawned there in the plain of Nysa, and the lord, Host of Many, with his
 immortal horses sprang out upon her -- the Son of Cronos, He who has
-many names.[\[1\]](#Note1)
+many names.[\[1\]](#Note1.md)
 
 He caught her up reluctant on his golden car and bare her away
 lamenting. Then she cried out shrilly with her voice, calling upon her
@@ -196,7 +196,7 @@ be seated. But Demeter, bringer of seasons and giver of perfect gifts,
 would not sit upon the bright couch, but stayed silent with lovely eyes
 cast down until careful Iambe placed a jointed seat for her and threw
 over it a silvery fleece. Then she sat down and held her veil in her
-hands before her face. A long time she sat upon the stool[\[2\]](#Note2)
+hands before her face. A long time she sat upon the stool[\[2\]](#Note2.md)
 without speaking because of her sorrow, and greeted no one by word or by
 sign, but rested, never smiling, and tasting neither food nor drinks
 because she pined with longing for her deep-bosomed daughter, until
@@ -207,7 +207,7 @@ her; but she refused it, for she said it was not lawful for her to drink
 red wine, but bade them mix meal and water with soft mint and give her
 to drink. And Metaneira mixed the draught and gave it to the goddess as
 she bade. So the great queen Deo received it to observe the
-sacrament.[\[3\]](#Note3)
+sacrament.[\[3\]](#Note3.md)
 
 **\[Line 212\]** And of them all, well-girded Metaneira first began to
 speak: "Hail, lady! For I think you are not meanly but nobly born; truly
@@ -225,7 +225,7 @@ hail, and may the gods give you good! Gladly will I take the boy to my
 breast, as you bid me, and will nurse him. Never, I ween, through any
 heedlessness of his nurse shall witchcraft hurt him nor yet the
 Undercutter: for I know a charm far stronger than the Woodcutter, and I
-know an excellent safeguard against woeful witchcraft."[\[4\]](#Note4)
+know an excellent safeguard against woeful witchcraft."[\[4\]](#Note4.md)
 
 When she had so spoken, she took the child in her fragrant bosom with
 her divine hands: and his mother was glad in her heart. So the goddess
@@ -409,7 +409,7 @@ Rhodea and Callirhoe and Melobosis and Tyche and Ocyrhoe, fair as a
 flower, Chryseis, Ianeira, Acaste and Admete and Rhodope and Pluto and
 charming Calypso; Styx too was there and Urania and lovely Galaxaura
 with Pallas who rouses battles and Artemis delighting in
-arrows.[\[5\]](#Note5) We were playing and gathering sweet flowers in
+arrows.[\[5\]](#Note5.md) We were playing and gathering sweet flowers in
 our hands, soft crocuses mingled with irises and hyacinths, and
 rose-blooms and lilies, marvellous to see, and the narcissus which the
 wide earth caused to grow yellow as a crocus. That I plucked in my joy;

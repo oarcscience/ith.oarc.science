@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot02)  [Next](lot04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot02)  [Next](lot04.md) 
 
 ------------------------------------------------------------------------
 
@@ -983,4 +983,4 @@ to all who are striving after the highest supreme enlightenment.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](lot04)
+[Next: Chapter 4](lot04.md)

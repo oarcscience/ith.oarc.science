@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](teia14)  [Next](teia16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](teia14)  [Next](teia16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ compared to
 
 <span id="page_110">p. 110</span>
 
-that animal <span id="fr_0"></span>[1](#fn_0). Taking the book, he
+that animal <span id="fr_0"></span>[1](#fn_0.md). Taking the book, he
 copied it in the Scriptorium or library, or took it to his cell, where
 he wrote all winter without a fire. It is to such monks that we owe all
 our knowledge of the earliest history of England and Ireland; though
@@ -357,11 +357,11 @@ Prattling forever with their curved beaks,
 
 ### Footnotes
 
-<span id="fn_0"></span>[110:1](teia15.htm#fr_0) *Adde ut aurem tangas
+<span id="fn_0"></span>[110:1](teia15.htm#fr_0.md) *Adde ut aurem tangas
 digito sicut canis cum pede pruriens solet, quia nec immerito infideles
 tali animati comparantur*.--MARTÈNE, *De Antiq. Monach. ritibus*, p.
 289, qu. by Montalembert, Monks of the West (tr.) VI. 190.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Kirwan's Search For Hy-Brasail](teia16)
+[Next: XIII. Kirwan's Search For Hy-Brasail](teia16.md)

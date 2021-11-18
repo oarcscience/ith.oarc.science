@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn55)  [Next](rmn57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn55)  [Next](rmn57.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ And often, often to my lips be join'd.'
 He form'd the reeds, proportion'd as they are,  
 Unequal in their length, and wax'd with care,  
 They still retain the name of his ungrateful fair. <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
  
 
@@ -88,9 +88,9 @@ id="fr_57"></span>[1](#fn_57)
 
 ### Footnotes
 
-<span id="fn_57"></span>[111:1](rmn56.htm#fr_57) *Metamorphoses*, Book
+<span id="fn_57"></span>[111:1](rmn56.htm#fr_57.md) *Metamorphoses*, Book
 I. (translated by Dryden).
 
 ------------------------------------------------------------------------
 
-[Next: Plate LVI: Etruscan Vase](rmn57)
+[Next: Plate LVI: Etruscan Vase](rmn57.md)

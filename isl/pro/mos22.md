@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos21)  [Next](mos23) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos21)  [Next](mos23.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ astray. And Allah guideth not the evil-living folk(Al-Saf:5).
 
 ------------------------------------------------------------------------
 
-[Next: The Story of The Cow](mos23)
+[Next: The Story of The Cow](mos23.md)

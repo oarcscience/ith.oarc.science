@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Next](rag01) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Next](rag01.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ THE GEOGRAPHICAL DISTRIBUTION OF THE DRIFT.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](rag01)
+[Next: Contents](rag01.md)

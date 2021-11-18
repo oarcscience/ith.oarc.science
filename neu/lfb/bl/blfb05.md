@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb04)  [Next](blfb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb04)  [Next](blfb06.md) 
 
 </div>
 
@@ -838,6 +838,6 @@ with their interlacing branches.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Little Red Riding Hood](blfb06)
+[Next: Little Red Riding Hood](blfb06.md)
 
 </div>

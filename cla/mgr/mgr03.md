@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mgr02)  [Next](mgr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mgr02)  [Next](mgr04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ beating his wife and hanging
 her up with anvils to her feet, suggesting that she "would like to eat
 Priam raw"? There is such magic in the words of Homer that we are apt to
 forget that these are not the ways of Greek gods,
-[however](errata.htm#0) primitive, but the rude pranks of irresponsible
+[however](errata.htm#0.md) primitive, but the rude pranks of irresponsible
 giants. The old *theoi* have been, indeed, considerably "tossed about"
 and are none the better for the process.
 
@@ -162,4 +162,4 @@ Pelasgian. We begin, as is fitting, with Zeus.
 
 ------------------------------------------------------------------------
 
-[Next: Zeus (Jove, Jupiter)](mgr04)
+[Next: Zeus (Jove, Jupiter)](mgr04.md)

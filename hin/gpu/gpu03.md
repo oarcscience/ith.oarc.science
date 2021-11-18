@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu02)  [Next](gpu04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu02)  [Next](gpu04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ Vedas, whose abundant branches are the Purāṇas, whose flowers are
 sacrifices, and whose fruit is liberation,--excels.
 
 2\. In Naimiṣa, the field of the sleepless Ones, <span
-id="fr_2"></span>[1](#fn_2) the sages, Saunaka and others, performed
+id="fr_2"></span>[1](#fn_2.md) the sages, Saunaka and others, performed
 sacrifices for thousands of years to attain the Heaven-world.
 
 3-5. Those sages once, in the morning,. having offered oblations to the
@@ -48,10 +48,10 @@ The sages said: The happiness-giving path of the Shining Ones
 <span id="page_2">p. 2</span>
 
 has been described by you. We now wish to hear about the fear-inspiring
-Way of Yama; <span id="fr_3"></span>[1](#fn_3)
+Way of Yama; <span id="fr_3"></span>[1](#fn_3.md)
 
 Also of the miseries of the World of Change, <span
-id="fr_4"></span>[2](#fn_4) and the means of destroying its pains.
+id="fr_4"></span>[2](#fn_4.md) and the means of destroying its pains.
 Please tell us correctly about the afflictions of this world and the
 other.
 
@@ -59,12 +59,12 @@ other.
 very difficult to tread, happiness-giving, to the virtuously inclined,
 misery-giving to the sinful.
 
-7\. As it was declared to Vainateya <span id="fr_5"></span>[3](#fn_5) by
+7\. As it was declared to Vainateya <span id="fr_5"></span>[3](#fn_5.md) by
 the Blessed Viṣṇu, when asked; just so will I relate it, to remove your
 difficulties.
 
 8-9. Once, when the Blessed Hari, the Teacher, was sitting at ease in
-Vaikuṇṭḥa, the son of Vinatā, <span id="fr_6"></span>[3](#fn_5) having
+Vaikuṇṭḥa, the son of Vinatā, <span id="fr_6"></span>[3](#fn_5.md) having
 bowed reverently, inquired:--
 
 Garuḍa said: The Path of Devotion, of many forms, has been described to
@@ -105,7 +105,7 @@ they, having passed through death, meet with torments.
 
 19\. Having experienced the good or the bad actions, in accordance with
 his former earning,--then, as the result of his <span
-id="fr_7"></span>[1](#fn_6) actions, some disease arises.
+id="fr_7"></span>[1](#fn_6.md) actions, some disease arises.
 
 <span id="page_4">p. 4</span>
 
@@ -195,7 +195,7 @@ and thirst, he weeps.
 made during the time of his illness. Nevertheless, O Tārkṣya, the sinful
 Denier does not obtain gratification.
 
-44\. The Śrāddha, <span id="fr_8"></span>[1](#fn_7) the gifts, and the
+44\. The Śrāddha, <span id="fr_8"></span>[1](#fn_7.md) the gifts, and the
 handsful of water, for the sinful, do not uplift. Although they eat the
 rice-ball offering, still they are tortured with hunger.
 
@@ -209,7 +209,7 @@ the end of the age.
 millions of ages; the being who has not experienced the torment
 certainly does not obtain the human form.
 
-47\. Hence, O Twice-born, <span id="fr_9"></span>[1](#fn_8) for ten days
+47\. Hence, O Twice-born, <span id="fr_9"></span>[1](#fn_8.md) for ten days
 the son should offer rice-balls. Every day these are divided into four
 portions, O Best of Birds.
 
@@ -242,31 +242,31 @@ eats.
 walks alone along the road like a captured monkey.
 
 56\. The extent of the way of Yama measures eighty-six thousand
-Yojanas, <span id="fr_10"></span>[1](#fn_9) without Vaitaraṇī, O Bird.
+Yojanas, <span id="fr_10"></span>[1](#fn_9.md) without Vaitaraṇī, O Bird.
 
 57\. Two hundred and forty-seven Yojanas each day the departed travels,
 going by day and night.
 
 58-59. Having passed successively. through these sixteen cities on the
 way, the sinful man goes to the place of the King of Righteousness <span
-id="fr_11"></span>[2](#fn_10):--
+id="fr_11"></span>[2](#fn_10.md):--
 
-Saumya, <span id="fr_12"></span>[3](#fn_11) Sauripura, <span
-id="fr_13"></span>[4](#fn_12) Nāgendrabhavana, <span
-id="fr_14"></span>[5](#fn_13) Gāndharva, <span
-id="fr_15"></span>[6](#fn_14) Shailāgama, <span
-id="fr_16"></span>[7](#fn_15) Krauncha, <span
-id="fr_17"></span>[8](#fn_16) Krūrapura, <span
-id="fr_18"></span>[9](#fn_17) Vichitrabhavana, <span
-id="fr_19"></span>[10](#fn_18) Bahwāpada, <span
-id="fr_20"></span>[11](#fn_19) Duḥkhada, <span
-id="fr_21"></span>[12](#fn_20) Nānākrandapura, <span
-id="fr_22"></span>[13](#fn_21) Sutaptabhawana, <span
-id="fr_23"></span>[14](#fn_22) Raudra, <span
-id="fr_24"></span>[15](#fn_23) Payovarshana, <span
-id="fr_25"></span>[16](#fn_24) Shītādhya, <span
-id="fr_26"></span>[17](#fn_25) Bahubhīti <span
-id="fr_27"></span>[18](#fn_26):--before the city of Yama, the abode of
+Saumya, <span id="fr_12"></span>[3](#fn_11.md) Sauripura, <span
+id="fr_13"></span>[4](#fn_12.md) Nāgendrabhavana, <span
+id="fr_14"></span>[5](#fn_13.md) Gāndharva, <span
+id="fr_15"></span>[6](#fn_14.md) Shailāgama, <span
+id="fr_16"></span>[7](#fn_15.md) Krauncha, <span
+id="fr_17"></span>[8](#fn_16.md) Krūrapura, <span
+id="fr_18"></span>[9](#fn_17.md) Vichitrabhavana, <span
+id="fr_19"></span>[10](#fn_18.md) Bahwāpada, <span
+id="fr_20"></span>[11](#fn_19.md) Duḥkhada, <span
+id="fr_21"></span>[12](#fn_20.md) Nānākrandapura, <span
+id="fr_22"></span>[13](#fn_21.md) Sutaptabhawana, <span
+id="fr_23"></span>[14](#fn_22.md) Raudra, <span
+id="fr_24"></span>[15](#fn_23.md) Payovarshana, <span
+id="fr_25"></span>[16](#fn_24.md) Shītādhya, <span
+id="fr_26"></span>[17](#fn_25.md) Bahubhīti <span
+id="fr_27"></span>[18](#fn_26.md):--before the city of Yama, the abode of
 righteousness
 
 <span id="page_9">p. 9</span>
@@ -278,69 +278,69 @@ left his own house, goes on the way to the city of Yama.
 
 ### Footnotes
 
-<span id="fn_2"></span>[1:1](gpu03.htm#fr_2) *I.e.*, The superphysical
+<span id="fn_2"></span>[1:1](gpu03.htm#fr_2.md) *I.e.*, The superphysical
 beings, who do not sleep.
 
-<span id="fn_3"></span>[2:1](gpu03.htm#fr_3) Yama is the Lord of death.
+<span id="fn_3"></span>[2:1](gpu03.htm#fr_3.md) Yama is the Lord of death.
 
-<span id="fn_4"></span>[2:2](gpu03.htm#fr_4) Saṁsāra: The three worlds
+<span id="fn_4"></span>[2:2](gpu03.htm#fr_4.md) Saṁsāra: The three worlds
 in which men circle through births and deaths.
 
-<span id="fn_5"></span>[2:3](gpu03.htm#fr_6) A name of Garuḍa, Vinatā
+<span id="fn_5"></span>[2:3](gpu03.htm#fr_6.md) A name of Garuḍa, Vinatā
 was the mother of Garuḍa.
 
-<span id="fn_6"></span>[3:1](gpu03.htm#fr_7) The ambiguity of the
+<span id="fn_6"></span>[3:1](gpu03.htm#fr_7.md) The ambiguity of the
 pronouns in this work is unavoidable, They may be interpreted only with
 the aid of common-sense.
 
-<span id="fn_7"></span>[6:1](gpu03.htm#fr_8) Ceremony for the dead.
+<span id="fn_7"></span>[6:1](gpu03.htm#fr_8.md) Ceremony for the dead.
 
-<span id="fn_8"></span>[7:1](gpu03.htm#fr_9) Members of the three higher
+<span id="fn_8"></span>[7:1](gpu03.htm#fr_9.md) Members of the three higher
 castes take a "second birth" when invested with the sacred thread; all
 birds are twice-born, in and from the egg.
 
-<span id="fn_9"></span>[8:1](gpu03.htm#fr_10) A Yojana is between 8 and
+<span id="fn_9"></span>[8:1](gpu03.htm#fr_10.md) A Yojana is between 8 and
 9 miles.
 
-<span id="fn_10"></span>[8:2](gpu03.htm#fr_11) Another form of Yama.
+<span id="fn_10"></span>[8:2](gpu03.htm#fr_11.md) Another form of Yama.
 
-<span id="fn_11"></span>[8:3](gpu03.htm#fr_12) Calm place.
+<span id="fn_11"></span>[8:3](gpu03.htm#fr_12.md) Calm place.
 
-<span id="fn_12"></span>[8:4](gpu03.htm#fr_13) Town of Saturn.
+<span id="fn_12"></span>[8:4](gpu03.htm#fr_13.md) Town of Saturn.
 
-<span id="fn_13"></span>[8:5](gpu03.htm#fr_14) Residence of the Lord of
+<span id="fn_13"></span>[8:5](gpu03.htm#fr_14.md) Residence of the Lord of
 Serpents.
 
-<span id="fn_14"></span>[8:6](gpu03.htm#fr_15) Place of Singers.
+<span id="fn_14"></span>[8:6](gpu03.htm#fr_15.md) Place of Singers.
 
-<span id="fn_15"></span>[8:7](gpu03.htm#fr_16) Inaccessible mountain.
+<span id="fn_15"></span>[8:7](gpu03.htm#fr_16.md) Inaccessible mountain.
 
-<span id="fn_16"></span>[8:8](gpu03.htm#fr_17) Name of a mountain.
+<span id="fn_16"></span>[8:8](gpu03.htm#fr_17.md) Name of a mountain.
 
-<span id="fn_17"></span>[8:9](gpu03.htm#fr_18) Town of cruelty.
+<span id="fn_17"></span>[8:9](gpu03.htm#fr_18.md) Town of cruelty.
 
-<span id="fn_18"></span>[8:10](gpu03.htm#fr_19) A wonderful place.
+<span id="fn_18"></span>[8:10](gpu03.htm#fr_19.md) A wonderful place.
 
-<span id="fn_19"></span>[8:11](gpu03.htm#fr_20) Many calamities.
+<span id="fn_19"></span>[8:11](gpu03.htm#fr_20.md) Many calamities.
 
-<span id="fn_20"></span>[8:12](gpu03.htm#fr_21) Misery-giving.
+<span id="fn_20"></span>[8:12](gpu03.htm#fr_21.md) Misery-giving.
 
-<span id="fn_21"></span>[8:13](gpu03.htm#fr_22) Town of varied cries.
+<span id="fn_21"></span>[8:13](gpu03.htm#fr_22.md) Town of varied cries.
 
-<span id="fn_22"></span>[8:14](gpu03.htm#fr_23) Very hot place.
+<span id="fn_22"></span>[8:14](gpu03.htm#fr_23.md) Very hot place.
 
-<span id="fn_23"></span>[8:15](gpu03.htm#fr_24) Savage.
+<span id="fn_23"></span>[8:15](gpu03.htm#fr_24.md) Savage.
 
-<span id="fn_24"></span>[8:16](gpu03.htm#fr_25) Rains
+<span id="fn_24"></span>[8:16](gpu03.htm#fr_25.md) Rains
 
-<span id="fn_25"></span>[8:17](gpu03.htm#fr_26) Very cold.
+<span id="fn_25"></span>[8:17](gpu03.htm#fr_26.md) Very cold.
 
-<span id="fn_26"></span>[8:18](gpu03.htm#fr_27) Many horrors.
+<span id="fn_26"></span>[8:18](gpu03.htm#fr_27.md) Many horrors.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. An Account of The Way of Yama](gpu04)
+[Next: Chapter II. An Account of The Way of Yama](gpu04.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj06) 
-[Next](npj08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj06.md) 
+[Next](npj08.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,8 +30,8 @@ The bay of Suma is associated in the mind of a Japanese reader not only
 with this battle but also with the stories of Prince Genji and Prince
 Yukihira.
 
-(See [p. 224](npj40.htm#page_224).)
+(See [p. 224](npj40.htm#page_224)..md)
 
 ------------------------------------------------------------------------
 
-[Next: Atsumori](npj08)
+[Next: Atsumori](npj08.md)

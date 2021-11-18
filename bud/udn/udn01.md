@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn00) [Next](udn02)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn00) [Next](udn02.md)
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ D. M. S.      
 
 ------------------------------------------------------------------------
 
-[Next](udn02)
+[Next](udn02.md)

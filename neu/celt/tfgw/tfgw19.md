@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw18)  [Next](tfgw20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw18)  [Next](tfgw20.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ James Murray and Saint Martin
 
 ------------------------------------------------------------------------
 
-[Next: Fairy Cows](tfgw20)
+[Next: Fairy Cows](tfgw20.md)

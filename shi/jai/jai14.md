@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai13)  [Next](jai15) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai13)  [Next](jai15.md) 
 
 ------------------------------------------------------------------------
 
@@ -565,4 +565,4 @@ aggression precipitated its inevitable collapse.
 
 ------------------------------------------------------------------------
 
-[Next: The Religion of Loyalty](jai15)
+[Next: The Religion of Loyalty](jai15.md)

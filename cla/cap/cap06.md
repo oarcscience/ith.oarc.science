@@ -1,10 +1,10 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](cap05)  [Next](cap07) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](cap05)  [Next](cap07.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_07"></span> [![](tn/07.jpg)  
-Click to enlarge](img/07.jpg)  
+Click to enlarge](img/07.jpg.md)  
 Pan and Psyche
 
 # Part V
@@ -46,4 +46,4 @@ house."
 
 ------------------------------------------------------------------------
 
-[Next: Part VI](cap07)
+[Next: Part VI](cap07.md)

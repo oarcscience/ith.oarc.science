@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl04)  [Next](egl06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl04)  [Next](egl06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ put them in his pocket, and asked me, ‘What’ll you take to drink?’ ‘A
 drop of ale.’ So he said, ‘After the horses (have) run I’ll go across
 the field and see you.’
 
-“Eight or nine days after, at Hampton Court,  [53](egl13.htm#xref_53)
+“Eight or nine days after, at Hampton Court,  [53](egl13.htm#xref_53.md)
 his ‘pal’ came to me and told me that Job was ill. And I said, ‘Anything
 wrong?’ ‘Worse nor that.’ ‘What *is* the affair?’ Said he, ‘I want you
 to go to my pal,—don’t spare the horse—let her go!’ So he gave me a fine
@@ -385,4 +385,4 @@ without exceptions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Gipsy Letters](egl06)
+[Next: Chapter V. Gipsy Letters](egl06.md)

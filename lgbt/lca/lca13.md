@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca12) 
-[Next](lca14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca12.md) 
+[Next](lca14.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ emotion.
 
 ------------------------------------------------------------------------
 
-[Next: On the Family](lca14)
+[Next: On the Family](lca14.md)

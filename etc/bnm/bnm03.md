@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm02)  [Next](bnm04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm02)  [Next](bnm04.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ is glad to see it fluttering over the flowers.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Butterflies.](bnm04)
+[Next: The Story Of The First Butterflies.](bnm04.md)

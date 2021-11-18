@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl19)  [Next](isl21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl19)  [Next](isl21.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ opinion that it is lawful in either case; Mālik, on the contrary,
 maintains that it is unlawful in both, and Muslims and People of the
 Book are the same with respect to omission of the invocation. . . . The
 opinion of al-Shāfi‘ī in this particular, is opposite to that of all our
-sages. . . . <span id="fr_66"></span>[18](#fn_66)
+sages. . . . <span id="fr_66"></span>[18](#fn_66.md)
 
 <span id="page_127">p. 127</span>
 
@@ -72,7 +72,7 @@ It is lawful for a person who offers a sacrifice either to eat the flesh
 or to bestow it on whomever he pleases whether rich or poor, and he may
 also lay it up in store. It is most advisable that the third part of the
 flesh of a sacrifice be bestowed in charity. <span
-id="fr_67"></span>[19](#fn_67)
+id="fr_67"></span>[19](#fn_67.md)
 
  
 
@@ -83,7 +83,7 @@ a proprietor, according to Abū Ḥanīfa. The two disciples (of Abū Ḥanīfa)
 maintain that in this case also the cultivator becomes proprietor,
 because of a saying of the Prophet, "Whoever cultivates waste lands does
 thereby acquire the property of them." <span
-id="fr_68"></span>[20](#fn_68)
+id="fr_68"></span>[20](#fn_68.md)
 
  
 
@@ -107,7 +107,7 @@ people of the market to keep it clean of filth which collects in it and
 will hurt the people . . . and he should allow no one to spy on his
 neighbors from the roofs or through windows, or men to sit in the paths
 of women needlessly; whoever does something of this sort must be
-corrected by the *muḥtasib*. . . . <span id="fr_69"></span>[21](#fn_69)
+corrected by the *muḥtasib*. . . . <span id="fr_69"></span>[21](#fn_69.md)
 
  
 
@@ -117,7 +117,7 @@ his religion for him, except after knowledge of the Law so as to avoid
 falling into forbidden practices. It is incumbent on the *muḥtasib* to
 search out their market and to spy on them, and if he finds one of them
 practising usury or doing something illegal in his money-changing, to
-punish him. . .  <span id="fr_70"></span>[22](#fn_70)
+punish him. . .  <span id="fr_70"></span>[22](#fn_70.md)
 
  
 
@@ -134,7 +134,7 @@ circumcision for a man consists of cutting off the foreskin, and for a
 woman in (clitoral excision: practiced chiefly by Shāfi'ī school). So it
 is obligatory for men and women to do this for themselves and their
 children, and if they neglect it, the *Imām* may force them to do it for
-it is right and necessary. . .  <span id="fr_71"></span>[23](#fn_71)
+it is right and necessary. . .  <span id="fr_71"></span>[23](#fn_71.md)
 
  
 
@@ -151,7 +151,7 @@ pots and vessels shall not overlay any that are pierced or cracked with
 gypsum made into a paste with fat and white of egg and sell them as if
 they were sound. If vessels of such description are found with one of
 them, they shall be disciplined so as to deter others like them. . .
- <span id="fr_72"></span>[24](#fn_72)
+ <span id="fr_72"></span>[24](#fn_72.md)
 
  
 
@@ -177,33 +177,33 @@ not (libellously) but with words that do not count as moral excess, such
 as "Libertine!" "Stupid!" "Ignorant! Will you not fear God?" "Loose of
 morals!" and that sort of thing, for if he is a libertine he is
 stupid--if he were not, why would he offend God? . .  <span
-id="fr_73"></span>[25](#fn_73)
+id="fr_73"></span>[25](#fn_73.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_66"></span>[129:18](isl20.htm#fr_66) Al-Marghinānī, *op.
+<span id="fn_66"></span>[129:18](isl20.htm#fr_66.md) Al-Marghinānī, *op.
 cit.*, pp. 587-588.
 
-<span id="fn_67"></span>[129:19](isl20.htm#fr_67) *Ibid*., pp. 592-594.
+<span id="fn_67"></span>[129:19](isl20.htm#fr_67.md) *Ibid*., pp. 592-594.
 
-<span id="fn_68"></span>[129:20](isl20.htm#fr_68) *Ibid*., pp. 609-610.
+<span id="fn_68"></span>[129:20](isl20.htm#fr_68.md) *Ibid*., pp. 609-610.
 
-<span id="fn_69"></span>[129:21](isl20.htm#fr_69) Ibn al-Ukhūwa,
+<span id="fn_69"></span>[129:21](isl20.htm#fr_69.md) Ibn al-Ukhūwa,
 *Ma’alim al-Qurba*, ed. by R. Levy. Arabic text with English abstract
 (Gibb Memorial Series; London, 1938), p. 79, Arabic text.
 
-<span id="fn_70"></span>[129:22](isl20.htm#fr_70) *Ibid*., p. 143.
+<span id="fn_70"></span>[129:22](isl20.htm#fr_70.md) *Ibid*., p. 143.
 
-<span id="fn_71"></span>[129:23](isl20.htm#fr_71) *Ibid*., pp. 163, 164.
+<span id="fn_71"></span>[129:23](isl20.htm#fr_71.md) *Ibid*., pp. 163, 164.
 
-<span id="fn_72"></span>[129:24](isl20.htm#fr_72) *Ibid*., pp. 195, 196.
+<span id="fn_72"></span>[129:24](isl20.htm#fr_72.md) *Ibid*., pp. 195, 196.
 
-<span id="fn_73"></span>[129:25](isl20.htm#fr_73) Al-Marghinānī, *op.
+<span id="fn_73"></span>[129:25](isl20.htm#fr_73.md) Al-Marghinānī, *op.
 cit.*, pp. 618-621.
 
 ------------------------------------------------------------------------
 
 [Next: 5. The Rejecting of the Reprehensible (Al-nāhī ‘an
-al-munkar)](isl21)
+al-munkar)](isl21.md)

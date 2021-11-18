@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb35)  [Next](refb37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb35)  [Next](refb37.md) 
 
 </div>
 
@@ -195,6 +195,6 @@ his wife for many years after.\[30\]
 
 ------------------------------------------------------------------------
 
-[Next: The Seven Foals](refb37)
+[Next: The Seven Foals](refb37.md)
 
 </div>

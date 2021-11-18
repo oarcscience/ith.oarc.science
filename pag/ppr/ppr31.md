@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr30)  [Next](ppr32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr30)  [Next](ppr32.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ O Rongo, grant us success!
 
 ------------------------------------------------------------------------
 
-[Next: Invocation to Ormazd (Persian)](ppr32)
+[Next: Invocation to Ormazd (Persian)](ppr32.md)

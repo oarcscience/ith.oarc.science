@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat15)  [Next](flat17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat15)  [Next](flat17.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ me about it often and often enough."
 
 ------------------------------------------------------------------------
 
-[Next: Legends of the Banshee](flat17)
+[Next: Legends of the Banshee](flat17.md)

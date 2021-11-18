@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410100847/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410100847/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410100847/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pf00)    [Page
-Index](pageidx)    [Text \[Zipped\]](pftxt.zip)
+[Contents](#contents)    [Start Reading](pf00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](pftxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Index](pageidx)    [Text \[Zipped\]](pftxt.zip)
 The location of the Garden of Eden should be one of those unanswerable
 questions, such as 'what song did the sirens sing?' This has not stopped
 speculation on the topic. Some of these works treat Eden as a metaphor
-for the human body, such as [this text](../../wmn/tge/index). Others
+for the human body, such as [this text](../../wmn/tge/index.md). Others
 were much more literal. William Warren wrote this 500 page tome to
 propose a polar Eden, in some primeval ice-free epoch. He systematically
 employs data from contemporary geology, ethnology, zoology, botany and
@@ -51,7 +51,7 @@ the last time that the poles were ice-free was long before humans walked
 the earth. In addition, there is no northern polar continent, and
 probably never has been. However, recently one author (Out of
 Antarctica, Robert Argod, ISBN
-[1902699459](https://www.amazon.com/exec/obidos/ASIN/1902699459/internetsacredte))
+[1902699459](https://www.amazon.com/exec/obidos/ASIN/1902699459/internetsacredte).md)
 has proposed that humans originated in Antarctica, and migrated *north*.
 He uses much the same collection of data as Warren, although he leans
 very heavily on a hypothetical pole shift, which Warren did not.
@@ -64,90 +64,90 @@ reading if you have any interest in the mysteries of our past.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pf00)  
-[Preface](pf01)  
-[Table of Contents](pf02)  
-[Illustrations](pf03)  
+<span id="contents"></span> [Title Page](pf00.md)  
+[Preface](pf01.md)  
+[Table of Contents](pf02.md)  
+[Illustrations](pf03.md)  
 <span id="section_000"></span>
 
 ### Part First
 
-[Chapter I. Results of the Explorers, Historic and Legendary](pf04)  
-[Chapter II. The Results of Theologians](pf05)  
-[Chapter III. The Results of Non-Theological Scholars](pf06)  
+[Chapter I. Results of the Explorers, Historic and Legendary](pf04.md)  
+[Chapter II. The Results of Theologians](pf05.md)  
+[Chapter III. The Results of Non-Theological Scholars](pf06.md)  
 <span id="section_001"></span>
 
 ### Part Second
 
-[Chapter I. The Hypothesis](pf07)  
-[Chapter II. Important New Features](pf08)  
+[Chapter I. The Hypothesis](pf07.md)  
+[Chapter II. Important New Features](pf08.md)  
 <span id="section_002"></span>
 
 ### Part Third
 
-[Chapter I. The Testimony of Geogony](pf09)  
-[Chapter II. The Testimony of Astronomical Geography](pf10)  
-[Chapter III. The Testimony of Physiographical Geology](pf11)  
-[Chapter IV. The Testimony of Prehistoric Climatology](pf12)  
-[Chapter V. The Testimony of Paleontological Botany](pf13)  
-[Chapter VI. The Testimony of Paleontological Zoölogy](pf14)  
+[Chapter I. The Testimony of Geogony](pf09.md)  
+[Chapter II. The Testimony of Astronomical Geography](pf10.md)  
+[Chapter III. The Testimony of Physiographical Geology](pf11.md)  
+[Chapter IV. The Testimony of Prehistoric Climatology](pf12.md)  
+[Chapter V. The Testimony of Paleontological Botany](pf13.md)  
+[Chapter VI. The Testimony of Paleontological Zoölogy](pf14.md)  
 [Chapter VII. The Testimony of Paleontological Anthropology and
-Ethnology](pf15)  
-[Chapter VIII. Conclusion of Part Third](pf16)  
+Ethnology](pf15.md)  
+[Chapter VIII. Conclusion of Part Third](pf16.md)  
 <span id="section_003"></span>
 
 ### Part Fourth
 
-[Chapter I. Ancient Cosmology and Mythical Geography](pf17)  
-[Chapter II. The Cradle of the Race in Ancient Japanese Thought](pf18)  
-[Chapter III. The Cradle of the Race in Chinese Thought](pf19)  
+[Chapter I. Ancient Cosmology and Mythical Geography](pf17.md)  
+[Chapter II. The Cradle of the Race in Ancient Japanese Thought](pf18.md)  
+[Chapter III. The Cradle of the Race in Chinese Thought](pf19.md)  
 [Chapter IV. The Cradle of the Race in East Aryan or Hindu
-Thought](pf20)  
+Thought](pf20.md)  
 [Chapter V. The Cradle of the Race in Iranian, or Old-Persian,
-Thought](pf21)  
+Thought](pf21.md)  
 [Chapter VI. The Cradle of the Race in Ancient Akkadian, Assyrian, and
-Babylonian Thought.](pf22)  
+Babylonian Thought.](pf22.md)  
 [Chapter VII. The Cradle of the Race in Ancient Egyptian
-Thought](pf23)  
-[Chapter VIII. The Cradle of the Race in Ancient Greek Thought](pf24)  
+Thought](pf23.md)  
+[Chapter VIII. The Cradle of the Race in Ancient Greek Thought](pf24.md)  
 <span id="section_004"></span>
 
 ### Part Fifth
 
-[Chapter I. The Eden Stars](pf25)  
-[Chapter II. The Eden Day](pf26)  
-[Chapter III. The Eden Zenith](pf27)  
-[Chapter IV. The Navel of the Earth](pf28)  
-[Chapter V. The Quadrifurcate River](pf29)  
-[Chapter VI. The Central Tree](pf30)  
-[Chapter VII. The Exuberance of Life](pf31)  
-[Chapter VIII. Review of the Argument](pf32)  
+[Chapter I. The Eden Stars](pf25.md)  
+[Chapter II. The Eden Day](pf26.md)  
+[Chapter III. The Eden Zenith](pf27.md)  
+[Chapter IV. The Navel of the Earth](pf28.md)  
+[Chapter V. The Quadrifurcate River](pf29.md)  
+[Chapter VI. The Central Tree](pf30.md)  
+[Chapter VII. The Exuberance of Life](pf31.md)  
+[Chapter VIII. Review of the Argument](pf32.md)  
 <span id="section_005"></span>
 
 ### Part Sixth
 
 [Chapter I. The Bearing of Our Results on the Study of Biology and
-Terrestrial Physics](pf33)  
+Terrestrial Physics](pf33.md)  
 [Chapter II. The Bearing of Our Results on the Study of Ancient
-Literature](pf34)  
+Literature](pf34.md)  
 [Chapter III. The Bearing of Our Results on the Problem of the Origin
-and Earliest Form of Religion](pf35)  
+and Earliest Form of Religion](pf35.md)  
 [Chapter IV. The Bearing of Our Results on the Philosophy of History and
-the Theory of the Development of Civilization](pf36)  
+the Theory of the Development of Civilization](pf36.md)  
 <span id="section_006"></span>
 
 ### Appendix
 
-[Section I. The Earth of Columbus not a True Sphere](pf37)  
-[Section II. How the Earth was Peopled](pf38)  
-[Section III. The Reception Accorded to “The True Key.”](pf39)  
-[Section IV. The Earth and World of the Hindus](pf40)  
-[Section V. Grill on the World-Pillar of the Rig Veda](pf41)  
-[Section VI. Homer's Abode of the Dead](pf42)  
-[Section VII. Latest Polar Research](pf43)  
-[Section VIII. The Trustworthiness of Early Tradition](pf44)  
+[Section I. The Earth of Columbus not a True Sphere](pf37.md)  
+[Section II. How the Earth was Peopled](pf38.md)  
+[Section III. The Reception Accorded to “The True Key.”](pf39.md)  
+[Section IV. The Earth and World of the Hindus](pf40.md)  
+[Section V. Grill on the World-Pillar of the Rig Veda](pf41.md)  
+[Section VI. Homer's Abode of the Dead](pf42.md)  
+[Section VII. Latest Polar Research](pf43.md)  
+[Section VIII. The Trustworthiness of Early Tradition](pf44.md)  
 
  
 
-[Index of Authors Referred to or Quoted](pf45)  
-[Index of Subjects](pf46)  
+[Index of Authors Referred to or Quoted](pf45.md)  
+[Index of Subjects](pf46.md)  

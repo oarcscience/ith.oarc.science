@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim04)  [Next](anim06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim04)  [Next](anim06.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ temple-pyramid.\[21\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The External or Separable Soul](anim06)
+[Next: Chapter IV. The External or Separable Soul](anim06.md)

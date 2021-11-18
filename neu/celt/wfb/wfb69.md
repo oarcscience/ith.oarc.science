@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb68)  [Next](wfb70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb68)  [Next](wfb70.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ inhabitants of Nant Gwynan to-day are their descendants.
 
 ------------------------------------------------------------------------
 
-[Next: Dai Sion's Homecoming](wfb70)
+[Next: Dai Sion's Homecoming](wfb70.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi298)  [Next](mtsi300) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi298)  [Next](mtsi300.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ were roaming close by for Wildcat.
 
 ------------------------------------------------------------------------
 
-[Next: 35. Rabbit and Man-eater](mtsi300)
+[Next: 35. Rabbit and Man-eater](mtsi300.md)

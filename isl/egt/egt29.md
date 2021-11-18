@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt28)  [Next](egt30) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt28)  [Next](egt30.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ to us, and good too the dates they give.
 
 ------------------------------------------------------------------------
 
-[Next: AGAIN THE PARABLE OF THOSE WHO HEED NOT.](egt30)
+[Next: AGAIN THE PARABLE OF THOSE WHO HEED NOT.](egt30.md)

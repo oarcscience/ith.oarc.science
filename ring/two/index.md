@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](two00)    [Page
-Index](pageidx)    [Text \[Zipped\]](two.txt.gz)
+[Contents](#contents)    [Start Reading](two00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](two.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Index](pageidx)    [Text \[Zipped\]](two.txt.gz)
 pantheon of 20th century English fantasy. E.R. Eddison, who moved in the
 same literary circles as Tolkien, was praised by Tolkien as "The
 greatest and most convincing writer of 'invented worlds' that I have
-read".<span id="fr1"></span>[\*](#fn1)
+read".<span id="fr1"></span>[\*](#fn1.md)
 
 *The Worm Ourorbos* was originally published in a very limited and now
 very rare edition in 1922 (a used first edition recently listed for
@@ -64,11 +64,11 @@ are all essentially humans.
 Once you get past these details, *The Worm Ouroboros* is a thoroughly
 enjoyable book which will satisfy anyone who has finished the Lord of
 the Rings and wants a new immersive universe. The only thing one could
-wish for would be some [maps](maps). . . .
+wish for would be some [maps](maps.md). . . .
 
 --J. B. Hare
 
-<span id="fn1"></span>[\*](#fr1) *Letters of Tokien, p. 258*. To be
+<span id="fn1"></span>[\*](#fr1.md) *Letters of Tokien, p. 258*. To be
 accurate, Tolkien also pointed out that his work was not derivative from
 Eddison, had some pointed criticism of the ad-hoc nature of the the
 languages and geography of the *Worm Ouroboros*, and disliked most of
@@ -76,45 +76,45 @@ the characters except for Lord Gro.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](two00)  
-[Dedication](two01)  
-[Thomas the Rhymer](two02)  
-[Contents](two03)  
-[Illustrations](two04)  
-[Introduction](two05)  
-[The Induction](two06)  
-[I. The Castle of Lord Juss](two07)  
-[II. The Wrastling for Demonland](two08)  
-[III. The Red Foliot](two09)  
-[IV. Conjuring in the Iron Tower](two10)  
-[V. King Gorice's Sending](two11)  
-[VI. The Claws of Witchland](two12)  
-[VII. Guests of the King in Carcë](two13)  
-[VIII. The First Expedition to Impland](two14)  
-[IX. Salapanta Hills](two15)  
-[X. The Marchlands of the Moruna](two16)  
-[XI. The Burg of Eshgrar Ogo](two17)  
-[XII. Koshtra Pivrarcha](two18)  
-[XIII. Koshtra Belorn](two19)  
-[XIV. The Lake of Ravary](two20)  
-[XV. Queen Prezmyra](two21)  
-[XVI. The Lady Sriva's Embassage](two22)  
-[XVII. The King Flies His Haggard](two23)  
-[XVIII. The Murther of Gallandus by Corsus](two24)  
-[XIX. Thremnir's Heugh](two25)  
-[XX. King Corinius](two26)  
-[XXI. The Parley Before Krothering](two27)  
-[XXII. Aurwath and the Switchwater](two28)  
-[XXIII. The Weird Begun of Ishnain Nemartra](two29)  
-[XXIV. A King in Krothering](two30)  
-[XXV. Lord Gro and the Lady Mevrian](two31)  
-[XXVI. The Battle of Krothering Side](two32)  
-[XXVII. The Second Expedition to Impland](two33)  
-[XXVIII. Zora Rach Nam Psarrion](two34)  
-[XXIX. The Fleet at Muelva](two35)  
-[XXX. Tidings of Melikaphkhaz](two36)  
-[XXXI. The Demons Before Carcë](two37)  
-[XXXII. The Latter End of All the Lords of Witchland](two38)  
-[XXXIII. Queen Sophonisba in Galing](two39)  
-[Argument: with Dates](two40)  
-[Bibliographical Note on the Verses](two41)  
+<span id="contents"></span> [Title Page](two00.md)  
+[Dedication](two01.md)  
+[Thomas the Rhymer](two02.md)  
+[Contents](two03.md)  
+[Illustrations](two04.md)  
+[Introduction](two05.md)  
+[The Induction](two06.md)  
+[I. The Castle of Lord Juss](two07.md)  
+[II. The Wrastling for Demonland](two08.md)  
+[III. The Red Foliot](two09.md)  
+[IV. Conjuring in the Iron Tower](two10.md)  
+[V. King Gorice's Sending](two11.md)  
+[VI. The Claws of Witchland](two12.md)  
+[VII. Guests of the King in Carcë](two13.md)  
+[VIII. The First Expedition to Impland](two14.md)  
+[IX. Salapanta Hills](two15.md)  
+[X. The Marchlands of the Moruna](two16.md)  
+[XI. The Burg of Eshgrar Ogo](two17.md)  
+[XII. Koshtra Pivrarcha](two18.md)  
+[XIII. Koshtra Belorn](two19.md)  
+[XIV. The Lake of Ravary](two20.md)  
+[XV. Queen Prezmyra](two21.md)  
+[XVI. The Lady Sriva's Embassage](two22.md)  
+[XVII. The King Flies His Haggard](two23.md)  
+[XVIII. The Murther of Gallandus by Corsus](two24.md)  
+[XIX. Thremnir's Heugh](two25.md)  
+[XX. King Corinius](two26.md)  
+[XXI. The Parley Before Krothering](two27.md)  
+[XXII. Aurwath and the Switchwater](two28.md)  
+[XXIII. The Weird Begun of Ishnain Nemartra](two29.md)  
+[XXIV. A King in Krothering](two30.md)  
+[XXV. Lord Gro and the Lady Mevrian](two31.md)  
+[XXVI. The Battle of Krothering Side](two32.md)  
+[XXVII. The Second Expedition to Impland](two33.md)  
+[XXVIII. Zora Rach Nam Psarrion](two34.md)  
+[XXIX. The Fleet at Muelva](two35.md)  
+[XXX. Tidings of Melikaphkhaz](two36.md)  
+[XXXI. The Demons Before Carcë](two37.md)  
+[XXXII. The Latter End of All the Lords of Witchland](two38.md)  
+[XXXIII. Queen Sophonisba in Galing](two39.md)  
+[Argument: with Dates](two40.md)  
+[Bibliographical Note on the Verses](two41.md)  

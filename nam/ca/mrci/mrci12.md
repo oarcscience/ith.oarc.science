@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mrci11)  [Next](mrci13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mrci11)  [Next](mrci13.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Mission Record of the California Indians*, by A.L. Kroeber, \[1908\],
 at Intangible Textual Heritage
 
@@ -13,13 +13,13 @@ at Intangible Textual Heritage
 
 <span id="page_20">p. 20</span>
 
-#### *San Carlos*. <span id="fr_48"></span>[48](#fn_48)
+#### *San Carlos*. <span id="fr_48"></span>[48](#fn_48.md)
 
 At this mission there are seven nations of Indians. They are called
 Excelen and Egeac, Rumsen, SargentaRuc, Sanconeños, Guachirron and
 Calendo Ruc. The first two are from inland. They have one and the same
 language or speech, but this is totally distinct from that of the other
-five, who speak a common tongue. <span id="fr_49"></span>[49](#fn_49)
+five, who speak a common tongue. <span id="fr_49"></span>[49](#fn_49.md)
 
 In the native state they ordinarily lived at war with one another.
 
@@ -31,7 +31,7 @@ in Rumsen they say, muxina muguiant jurriquimo igest oyh laguan eje uti
 maigin. In Excelen, egenoch lalucuimxs talogpami ege salegua lottos
 tahezapami laxlachis. Both of these examples mean: "The men who shoot
 well with a bow are esteemed and well liked." <span
-id="fr_50"></span>[50](#fn_50)
+id="fr_50"></span>[50](#fn_50.md)
 
  
 
@@ -67,14 +67,14 @@ make a hole inside of the house, put wood into it, light this, and put
 many heavy stones upon it. When the stones are hot, they cover them with
 much green verdure which makes a sort of a mattress. The woman who has
 given birth lies down on this with the baby. The mother sweats much and
-the child is kept warm. <span id="fr_51"></span>[51](#fn_51) They do
+the child is kept warm. <span id="fr_51"></span>[51](#fn_51.md) They do
 this for six or seven days, and then are as agile as if they had not
 given birth, and this although their broths and foods are very poor.
 
  
 
 They use a split stick like a distaff which serves them to beat the
-measure for their songs, <span id="fr_52"></span>[52](#fn_52) which,
+measure for their songs, <span id="fr_52"></span>[52](#fn_52.md) which,
 whether happy or sad, are all in the same time (tonata). For instance
 they sing as follows to the lively tunes, in which they mention their
 seeds or their asañas: *Bellota—a—a, bellota; mucha semilla—a—a, mucha
@@ -109,16 +109,16 @@ affront that one should speak of their dead parents and relatives; to
 such a degree, that a boy whose parents should die while he is quite
 small, would have no one who would tell him how his deceased father,
 grandfather, and other kindred were called. <span
-id="fr_53"></span>[53](#fn_53) If they quarrel among one another, they
+id="fr_53"></span>[53](#fn_53.md) If they quarrel among one another, they
 say in order to be more vituperative: "Your father is dead (a ti se te
 murio tu padre)" and then they become more angry. <span
-id="fr_54"></span>[54](#fn_54) On account of these practices they have
+id="fr_54"></span>[54](#fn_54.md) On account of these practices they have
 no way of retaining a recollection of their ancestors, the more so since
 when anyone dies, they burn all his clothing and property, and if he has
 animals, like chickens, dogs, or a horse, they kill them, and pull up
 his plants. If they are asked the reason, they say that it is in order
 that they may no longer remember the dead. <span
-id="fr_55"></span>[55](#fn_55)
+id="fr_55"></span>[55](#fn_55.md)
 
  
 
@@ -144,7 +144,7 @@ contentment and approval and all humor her.
 
 ### Footnotes
 
-<span id="fn_48"></span>[20:48](mrci12.htm#fr_48) The mission of San
+<span id="fn_48"></span>[20:48](mrci12.htm#fr_48.md) The mission of San
 Carlos, near Monterey, is so far as known the only one to which Indians
 of the Esselen family were brought, except perhaps that of Soledad. San
 Carlos is one of seven missions, extending from Soledad to San
@@ -153,7 +153,7 @@ is one of the most detailed and careful in the entire series of replies,
 appears to have been written either by Father Juan Amoros or by Father
 Vincente de Sarria.
 
-<span id="fn_49"></span>[20:49](mrci12.htm#fr_49) The seven ''nations"
+<span id="fn_49"></span>[20:49](mrci12.htm#fr_49.md) The seven ''nations"
 are village communities. On account of unusual size or prominence, the
 names of these seem to have come to be chosen to designate somewhat
 larger groups that had no political organization or real coherence
@@ -195,7 +195,7 @@ generally been used to include the people of the surrounding district.
 Kalin is ocean, ta is at, and ruk, house, as in Sirkhintaruk. The name
 has also been written Calendaruc and Kathlendaruc.
 
-<span id="fn_50"></span>[21:50](mrci12.htm#fr_50) The Esselen language
+<span id="fn_50"></span>[21:50](mrci12.htm#fr_50.md) The Esselen language
 is extinct. All that is known of it is collected in a paper on the
 Languages of the Coast of California South of San Francisco, issued in
 the second volume of the present series of publications. The sentence
@@ -211,26 +211,26 @@ love, tepek, also without parallel, is to shoot; -st and -n are verbal
 endings. Igest should perhaps be read iyest, and the end of maigin is
 not clear in the manuscript.
 
-<span id="fn_51"></span>[22:51](mrci12.htm#fr_51) This method of
+<span id="fn_51"></span>[22:51](mrci12.htm#fr_51.md) This method of
 sweating used by women who have recently given birth, suggests the
 Luiseño and Diegueño practice at the girls’ puberty ceremony, as
 described by Boscana and in an article by H. N. Rust in the American
 Anthropologist for 1906.
 
-<span id="fn_52"></span>[22:52](mrci12.htm#fr_52) The split stick is the
+<span id="fn_52"></span>[22:52](mrci12.htm#fr_52.md) The split stick is the
 clap-stick or rattle that has been previously mentioned. It is the
 dancing rattle of central California, as compared with the cocoon rattle
 used by the shamans of the same tribes.
 
-<span id="fn_53"></span>[23:53](mrci12.htm#fr_53) This might be
+<span id="fn_53"></span>[23:53](mrci12.htm#fr_53.md) This might be
 literally true.
 
-<span id="fn_54"></span>[23:54](mrci12.htm#fr_54) Some such statement is
+<span id="fn_54"></span>[23:54](mrci12.htm#fr_54.md) Some such statement is
 the usual form which a deadly insult or curse takes among the California
 Indians, from the Yurok of the extreme northwest to the Mohave of the
 southeast.
 
-<span id="fn_55"></span>[23:55](mrci12.htm#fr_55) The reason here given
+<span id="fn_55"></span>[23:55](mrci12.htm#fr_55.md) The reason here given
 for the destruction of the property of the dead, and the avoidance of
 his name, is the one usually obtained upon inquiry among the present
 Indians of California. That there were also other motives, appears from
@@ -240,4 +240,4 @@ for 1906.
 
 ------------------------------------------------------------------------
 
-[Next: San Juan Bautista](mrci13)
+[Next: San Juan Bautista](mrci13.md)

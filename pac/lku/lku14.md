@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku13)  [Next](lku15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku13)  [Next](lku15.md) 
 
 ------------------------------------------------------------------------
 
 ### A BRANCH OF THE TWELFTH ERA.
 
-(Turn to the [65](lku13.htm#page_65)th page, from whence this genealogy
+(Turn to the [65](lku13.htm#page_65.md)th page, from whence this genealogy
 of Paliku began.)
 
  
@@ -176,4 +176,4 @@ So grew the sprout of Haloa in the day and
 
 ------------------------------------------------------------------------
 
-[Next: The Fourteenth Era](lku15)
+[Next: The Fourteenth Era](lku15.md)

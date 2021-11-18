@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](rgq16)  [Next](rgq18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](rgq16)  [Next](rgq18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roman and Greek Questions*, by Plutarch, tr. Frank Cole Babbitt,
 \[1936\], at Intangible Textual Heritage
 
@@ -42,7 +42,7 @@ women of Prienê this was a cruel experience and a pitiable calamity, and
 it became established as a curse and an oath in the most important
 matters to swear by "the darkness by the Oak," because of the fact that
 there their sons, their fathers, and their husbands had been
-slaughtered. <span id="fr_299"></span>[a](#fn_297)
+slaughtered. <span id="fr_299"></span>[a](#fn_297.md)
 
  
 
@@ -56,7 +56,7 @@ Sparta and consorted with the women of the country even to the begetting
 of children. But again, as the result of suspicions and false
 accusations, they were forced to leave the Spartan country. With their
 children and wives they effected a landing in Crete with Pollis and
-Delphus as their leaders. <span id="fr_300"></span>[b](#fn_298) There,
+Delphus as their leaders. <span id="fr_300"></span>[b](#fn_298.md) There,
 while they were fighting
 
 <span id="page_202">p. 202</span> <span id="page_203">p. 203</span>
@@ -119,10 +119,10 @@ Alexida, the daughter of Amphiaraüs.
 
 24\. <span class="smallcaps">What</span> is that which is called an
 *enknisma* (a roast) among the Argives? <span
-id="fr_301"></span>[a](#fn_299)
+id="fr_301"></span>[a](#fn_299.md)
 
 It is the custom for those who have lost a relative or an intimate
-friend to sacrifice to Apollo <span id="fr_302"></span>[b](#fn_300)
+friend to sacrifice to Apollo <span id="fr_302"></span>[b](#fn_300.md)
 immediately after the mourning, and again thirty days later to Hermes.
 For they believe that, just as the earth receives the bodies of the
 dead, even so Hermes receives their souls. They give barley to the
@@ -141,12 +141,12 @@ proceed to roast this flesh which they call *enknisma*.
 
 We certainly must not believe those who say that persons who, during a
 famine, set a watch upon the miller and plunder him are called
-*aliterioi*. <span id="fr_303"></span>[a](#fn_301) But he who has done
-unforgettable (*alesta*) things, <span id="fr_304"></span>[b](#fn_302)
+*aliterioi*. <span id="fr_303"></span>[a](#fn_301.md) But he who has done
+unforgettable (*alesta*) things, <span id="fr_304"></span>[b](#fn_302.md)
 things that will be remembered for a long time, is called *alastor*; and
 he whom it were well to avoid (*aleuasthai*) and to guard against
 because of his wickedness is called *aliterios*. These things, according
-to the statement of Socrates, <span id="fr_305"></span>[c](#fn_303) they
+to the statement of Socrates, <span id="fr_305"></span>[c](#fn_303.md) they
 have written on tablets of bronze.
 
  
@@ -158,12 +158,12 @@ from Aenis to Cassiopaea chant until they reach the boundary,
 <div style="margin-left: 32px">
 
 <span class="small">Never may ye return to the well-loved soil of your
-homeland? <span id="fr_306"></span>[d](#fn_304)</span>
+homeland? <span id="fr_306"></span>[d](#fn_304.md)</span>
 
 </div>
 
 When the Aenianians had been driven out of their country by the
-Lapiths, <span id="fr_307"></span>[e](#fn_305) they dwelt first of all
+Lapiths, <span id="fr_307"></span>[e](#fn_305.md) they dwelt first of all
 about Aethicia, and later about Molossia and Cassiopaea. But, since they
 had no benefit from the country, and, in addition, had to deal with
 ungentle peoples on their borders, they came to the Cirrhaean plain
@@ -174,7 +174,7 @@ stoned
 <span id="page_208">p. 208</span> <span id="page_209">p. 209</span>
 
 <span class="contnote">\[paragraph continues\]</span> Oenoclus. <span
-id="fr_308"></span>[a](#fn_306) Then they wandered on and came to this
+id="fr_308"></span>[a](#fn_306.md) Then they wandered on and came to this
 country which they now possess, a goodly country, productive of all
 manner of crops; wherefore it is with good reason that they pray to the
 gods that they may not return again to their ancient fatherland, but may
@@ -201,7 +201,7 @@ been done.
 of Tenedos a flute-player may not enter the shrine of Tenes, nor may
 anyone mention Achilles' name within the shrine?
 
-Is it that, when Tenes’ stepmother <span id="fr_309"></span>[b](#fn_307)
+Is it that, when Tenes’ stepmother <span id="fr_309"></span>[b](#fn_307.md)
 falsely accused him of wishing to lie with her, Molpus the flute-player
 bore false witness against him, and because of this it came about that
 Tenes had to flee to Tenedos with his sister? But as for Achilles, it is
@@ -236,44 +236,44 @@ display what they had to sell: thus he was called the "Seller."
 
 ### Footnotes
 
-<span id="fn_297"></span>[201:a](rgq17.htm#fr_299) <span
+<span id="fn_297"></span>[201:a](rgq17.htm#fr_299.md) <span
 id="page_200">p. 200</span> *Cf*. Aristotle, Frag. 576 (ed. V. Rose).
 
-<span id="fn_298"></span>[201:b](rgq17.htm#fr_300) *Cf*. *Moralia*, 247
+<span id="fn_298"></span>[201:b](rgq17.htm#fr_300.md) *Cf*. *Moralia*, 247
 <span class="smallcaps">A–F</span>, and the note there (Vol. III. p.
 496).
 
-<span id="fn_299"></span>[205:a](rgq17.htm#fr_301) <span
+<span id="fn_299"></span>[205:a](rgq17.htm#fr_301.md) <span
 id="page_204">p. 204</span> *Cf*. Müller, *Frag. Hist. Graec*. iv. p.
 498.
 
-<span id="fn_300"></span>[205:b](rgq17.htm#fr_302) For "Apollo" Halliday
+<span id="fn_300"></span>[205:b](rgq17.htm#fr_302.md) For "Apollo" Halliday
 suggests with some plausibility "Pluto"; but Apollo, as the god who
 cleanses from pollution (καθάρσιος), is almost a commonplace in Greek
 literature.
 
-<span id="fn_301"></span>[207:a](rgq17.htm#fr_303) <span
+<span id="fn_301"></span>[207:a](rgq17.htm#fr_303.md) <span
 id="page_206">p. 206</span> *Cf*. *Moralia*, 523 <span
 class="smallcaps">A–B</span>.
 
-<span id="fn_302"></span>[207:b](rgq17.htm#fr_304) *Ibid*. 418 <span
+<span id="fn_302"></span>[207:b](rgq17.htm#fr_304.md) *Ibid*. 418 <span
 class="smallcaps">B</span>.
 
-<span id="fn_303"></span>[207:c](rgq17.htm#fr_305) Socrates of Argos;
+<span id="fn_303"></span>[207:c](rgq17.htm#fr_305.md) Socrates of Argos;
 *cf*. Müller, *Frag. Hist. Graec*. v. p. 498.
 
-<span id="fn_304"></span>[207:d](rgq17.htm#fr_306) Adapted from Homer,
+<span id="fn_304"></span>[207:d](rgq17.htm#fr_306.md) Adapted from Homer,
 *Od*. xviii. 148 (= xix. 298).
 
-<span id="fn_305"></span>[207:e](rgq17.htm#fr_307) *cf*. 293 <span
+<span id="fn_305"></span>[207:e](rgq17.htm#fr_307.md) *cf*. 293 <span
 class="smallcaps">F</span>–294 <span class="smallcaps">C</span>,
 *supra*.
 
-<span id="fn_306"></span>[209:a](rgq17.htm#fr_308) *Cf*. 293 <span
+<span id="fn_306"></span>[209:a](rgq17.htm#fr_308.md) *Cf*. 293 <span
 class="smallcaps">F</span>–294 <span class="smallcaps">A</span>,
 *supra*.
 
-<span id="fn_307"></span>[209:b](rgq17.htm#fr_309) *Cf*. Apollodorus,
+<span id="fn_307"></span>[209:b](rgq17.htm#fr_309.md) *Cf*. Apollodorus,
 *Epitome*, iii. 23–26, with Frazer's notes (L.C.L. vol. ii. pp. 193
 ff.).
 
@@ -281,6 +281,6 @@ ff.).
 
 ------------------------------------------------------------------------
 
-[Next: 30-39.](rgq18)
+[Next: 30-39.](rgq18.md)
 
 </div>

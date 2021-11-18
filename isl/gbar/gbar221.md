@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar220) [Next](gbar222)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar220) [Next](gbar222.md)
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ Then before their eyes the four angels carried him up into heaven.
 
 ------------------------------------------------------------------------
 
-[Next](gbar222)
+[Next](gbar222.md)

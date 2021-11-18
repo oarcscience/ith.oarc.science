@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil15)  [Next](seil17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil15)  [Next](seil17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 
 **First Prelude**. The first Prelude is a composition, seeing the place:
 it will be here to see with the sight of the imagination, the
-synagogues, <span id="fr_4"></span>[5](seil83.htm#fn_4) villages and
+synagogues, <span id="fr_4"></span>[5](seil83.htm#fn_4.md) villages and
 towns through which Christ our Lord preached.
 
 **Second Prelude**. The second, to ask for the grace which I want: it
@@ -40,7 +40,7 @@ obey.
 people, saying: "It is my Will to conquer all the land of unbelievers.
 Therefore, whoever would like to come with me is to be content to eat as
 I, and also to drink and dress, etc., as I: likewise he is to labor like
-me <span id="fr_5"></span>[6](seil83.htm#fn_5) in the day and watch in
+me <span id="fr_5"></span>[6](seil83.htm#fn_5.md) in the day and watch in
 the night, etc., that so afterwards he may have part with me in the
 victory, as he has had it in the labors."
 
@@ -90,4 +90,4 @@ Gospels, and of lives of Saints.
 
 ------------------------------------------------------------------------
 
-[Next: First Day: First Contemplation on The Incarnation](seil17)
+[Next: First Day: First Contemplation on The Incarnation](seil17.md)

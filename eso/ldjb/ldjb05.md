@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb04)  [Next](ldjb06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb04)  [Next](ldjb06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -69,7 +69,7 @@ eternal end." (*Signature*, iii. i.)
 "The Godhead is an eternal band, which cannot perish. It generates
 itself from eternity to eternity, and the first therein is always the
 last, and the last the first." (*Three Principles*, vii. 14.) <span
-id="fr_4"></span>[1](#fn_4).
+id="fr_4"></span>[1](#fn_4.md).
 
  
 
@@ -163,7 +163,7 @@ within itself—that is to say, the Son, heart, or seat (the first
 foundation within the non-foundation or groundlessness), the first
 beginning within the will. The will is outspoken by means of this
 conceiving itself, and this issuing of the will in speaking or breathing
-is the Spirit of the Divinity." <span id="fr_5"></span>[1](#fn_5)
+is the Spirit of the Divinity." <span id="fr_5"></span>[1](#fn_5.md)
 (*Mysterium*, i. 2.)
 
 <span id="page_62">p. 62</span>
@@ -237,7 +237,7 @@ not create the child, but merely furnishes the materials required by the
 creative spirit existing within the child, and which, before it is born,
 attracts from the organism of the mother that which it needs, comparable
 to the way in which, after the child is born, it draws its nutriment
-from the mother's breast. <span id="fr_6"></span>[1](#fn_6)
+from the mother's breast. <span id="fr_6"></span>[1](#fn_6.md)
 
 <span id="page_64">p. 64</span>
 
@@ -327,7 +327,7 @@ become active and attract the holy power, and thus, she enters into a
 state of permanent being. By this she does not conceive of anything
 within herself; her inclination is resting in the Holy Spirit. She
 merely moves before God for the purpose of revealing the wonders of
-God." <span id="fr_7"></span>[1](#fn_7) (*Three Principles*, xiv. 87.)
+God." <span id="fr_7"></span>[1](#fn_7) (*Three Principles*, xiv. 87..md)
 
  
 
@@ -499,7 +499,7 @@ being capable of obtaining consciousness of its own immortality.
 
 ### Footnotes
 
-<span id="fn_4"></span>[59:1](ldjb05.htm#fr_4) God is unchangeable, and
+<span id="fn_4"></span>[59:1](ldjb05.htm#fr_4.md) God is unchangeable, and
 has no beginning in time; the "beginning " refers only to the
 manifestation of His power in nature. Nature resembles a continually
 revolving wheel, wherein forms in which the power of God becomes
@@ -507,11 +507,11 @@ manifest are born and die. The death of one form is the birth of
 another. Thus life is born out of death; but that which produces life
 and causes death is eternal.
 
-<span id="fn_5"></span>[61:1](ldjb05.htm#fr_5) The possibility of a
+<span id="fn_5"></span>[61:1](ldjb05.htm#fr_5.md) The possibility of a
 being conceiving of its own self is experienced by its awakening to a
 consciousness of its own self.
 
-<span id="fn_6"></span>[63:1](ldjb05.htm#fr_6) Terrestrial men and women
+<span id="fn_6"></span>[63:1](ldjb05.htm#fr_6.md) Terrestrial men and women
 are male and female organisms, in which the active and passive elements
 of creation are manifesting themselves in their external expression.
 Each man has in him male and female elements. A woman in whom merely the
@@ -523,7 +523,7 @@ anything. The true woman, in the ideal marriage of the soul, has no
 other thought than that of her husband; neither does the true man will
 any thing that is not compatible with the desire of his wife.
 
-<span id="fn_7"></span>[66:1](ldjb05.htm#fr_7) Thus divine wisdom in man
+<span id="fn_7"></span>[66:1](ldjb05.htm#fr_7.md) Thus divine wisdom in man
 does not speculate or "draw logical conclusions," neither is it
 dependent for knowledge on communications received from anybody; but it
 is the power of the true living faith, *i.e.*, the power of the spirit
@@ -534,6 +534,6 @@ of man to grasp spiritual truths existing within its own self.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. The Seven Properties or Qualities of Eternal
-Nature](ldjb06)
+Nature](ldjb06.md)
 
 </div>

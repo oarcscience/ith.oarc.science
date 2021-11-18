@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw10)  [Next](cjw12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw10)  [Next](cjw12.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ difference at all. \[468\]
 
 ------------------------------------------------------------------------
 
-[Next: Master and Pupil](cjw12)
+[Next: Master and Pupil](cjw12.md)

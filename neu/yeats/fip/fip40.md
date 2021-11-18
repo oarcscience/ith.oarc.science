@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip39)  [Next](fip41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip39)  [Next](fip41.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ They knew that sorrow
 
 ------------------------------------------------------------------------
 
-[Next: The Radiant Boy, by Mrs. Crow](fip41)
+[Next: The Radiant Boy, by Mrs. Crow](fip41.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl15)  [Next](vrl17) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl15)  [Next](vrl17.md) 
 
 ------------------------------------------------------------------------
 
@@ -372,4 +372,4 @@ diverting an enterprise.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XVIII](vrl17)
+[Next: CHAPTER XVIII](vrl17.md)

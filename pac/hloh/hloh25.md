@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh24)  [Next](hloh26) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh24)  [Next](hloh26.md) 
 
 ------------------------------------------------------------------------
 
@@ -456,4 +456,4 @@ and arrow.
 
 ------------------------------------------------------------------------
 
-[Next: XXII. Kawelo](hloh26)
+[Next: XXII. Kawelo](hloh26.md)

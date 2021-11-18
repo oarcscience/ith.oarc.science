@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg51)  [Next](btg53) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg51)  [Next](btg53.md) 
 
 ------------------------------------------------------------------------
 
@@ -173,4 +173,4 @@ Dharma, and in his fraternity."
 
 ------------------------------------------------------------------------
 
-[Next: All Existence Is Spiritual](btg53)
+[Next: All Existence Is Spiritual](btg53.md)

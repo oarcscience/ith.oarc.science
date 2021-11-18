@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](phc03)  [Next](phc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](phc03)  [Next](phc05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philistines*, by R.A.S. Macalister, \[1913\], at Intangible Textual
 Heritage
 
@@ -23,7 +23,7 @@ Heritage
 #### I. <span class="smallcaps">The Adventures of Wen-Amon among them</span>
 
 <span class="smallcaps">The</span> Golénischeff papyrus <span
-id="fr_58"></span>[1](#fn_58) was found in 1891 at El-Khibeh in Upper
+id="fr_58"></span>[1](#fn_58.md) was found in 1891 at El-Khibeh in Upper
 Egypt. It is the personal report of the adventures of an Egyptian
 messenger to Lebanon, sent on an important semi-religious,
 semi-diplomatic mission. The *naïveté* of the style makes it one of the
@@ -246,7 +246,7 @@ great god. And yet, though thou didst
 <span id="page_34">p. 34</span>
 
 well know that he was here, thou hadst kept him waiting twenty-nine days
-in the harbour. <span id="fr_59"></span>[1](#fn_59) Former kings have
+in the harbour. <span id="fr_59"></span>[1](#fn_59.md) Former kings have
 sent money to thy fathers, but not life and health: if thou do the
 bidding of Amon, he will send thee life and health. Wish not for thyself
 a thing belonging to Amon-Ra.'
@@ -360,7 +360,7 @@ of the Zakkala', a phrase that recalls 'the lords of the Philistines' in
 the Hebrew Scriptures. The syntax assumed is of course quite un-Semitic:
 but it is often the case in dragomans’ translations that the syntax of
 the original language is preserved. Something like this idea has been
-anticipated by M. A. J. Reinach. <span id="fr_60"></span>[1](#fn_60)
+anticipated by M. A. J. Reinach. <span id="fr_60"></span>[1](#fn_60.md)
 
 Zakar-baal was no mere pirate chieftain, however. He was a substantial,
 civilized, and self-reliant prince, and contrasts most favourably with
@@ -382,7 +382,7 @@ There is a dim recollection of a Philistine occupation of Phoenicia
 <span id="page_37">p. 37</span>
 
 recorded for us in an oft-quoted passage of Justin (xviii. 3. 5), <span
-id="fr_61"></span>[1](#fn_61) in which he mentions a raid by the king of
+id="fr_61"></span>[1](#fn_61.md) in which he mentions a raid by the king of
 Ashkelon, just before the fall of Troy, on the Phoenician town of Sidon
 (so called from an alleged Phoenician word 'Sidon', meaning 'fish').
 'This is of course merely a saga-like tradition, and as we do not know
@@ -397,7 +397,7 @@ correctly that it was the Zakkala who raided Sidon. Some later author or
 copyist was puzzled by this forgotten name, and 'emended' *a rege
 Sacaloniorum* to *a rege Ascaloniorum*. Stranger things have happened in
 the course of manuscript transmission. <span
-id="fr_62"></span>[2](#fn_62)
+id="fr_62"></span>[2](#fn_62.md)
 
 The Papyrus gives us some chronological indications of importance. The
 expedition of Wen-Amon took place in the fifth year of Ramessu XII, that
@@ -419,19 +419,19 @@ inflicted on them.
 
 ### Footnotes
 
-<span id="fn_58"></span>[29:1](phc04.htm#fr_58) See Max Müller,
+<span id="fn_58"></span>[29:1](phc04.htm#fr_58.md) See Max Müller,
 *Mittheilungen der deutschen vorderasiatischen Gesellschaft*, 1900, p.
 14; Erman, *Zeitschrift far ägyptische Sprache*, xxxviii, p. 1;
 Breasted, *Ancient Records*, iv, p. 274.
 
-<span id="fn_59"></span>[34:1](phc04.htm#fr_59) An inconsistency: he has
+<span id="fn_59"></span>[34:1](phc04.htm#fr_59.md) An inconsistency: he has
 added ten days to his former statement.
 
-<span id="fn_60"></span>[36:1](phc04.htm#fr_60) 'Byblos, où règne un
+<span id="fn_60"></span>[36:1](phc04.htm#fr_60.md) 'Byblos, où règne un
 prince qui pourrait bien être un Tchakara sémitisé, si l’on en croit son
 nom de Tchakar-baal.' *Revue archéologique*, sér. IV, vol. xv, p. 45.
 
-<span id="fn_61"></span>[37:1](phc04.htm#fr_61) 'Et quoniam ad
+<span id="fn_61"></span>[37:1](phc04.htm#fr_61.md) 'Et quoniam ad
 Carthaginiensium mentionem uentum est, de origine eorum pauca dicenda
 sunt, repetitis Tyriorum paulo altius rebus, quorum casus etiam dolendi
 fuerunt. Tyriorum gens condita a Phoenicibus fuit, qui terraemotu
@@ -441,13 +441,13 @@ appellauerunt; nam piscem Phoenices *sidon* uocant. Post multos deinde
 annos a rege Ascaloniorum expugnati, nauibus appulsi, Tyron urbem ante
 annum Troianae cladis condiderunt.'
 
-<span id="fn_62"></span>[37:2](phc04.htm#fr_62) On the other hand Scylax
+<span id="fn_62"></span>[37:2](phc04.htm#fr_62.md) On the other hand Scylax
 in his *Periplus* calls Ashkelon 'a city of the Tyrians'.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: II. Their Struggle with the Hebrews](phc05)
+[Next: II. Their Struggle with the Hebrews](phc05.md)
 
 </div>

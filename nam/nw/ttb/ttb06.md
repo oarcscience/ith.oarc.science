@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb05)  [Next](ttb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb05)  [Next](ttb07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ fell down into place so that the tongue could be thrust through the
 opening, creating the impression among early explorers that the people
 had two mouths.
 
-The natives [tattooed](errata.htm#12) the body as well as painting their
+The natives [tattooed](errata.htm#12.md) the body as well as painting their
 faces with the symbols of their clan. Tattooing was generally applied on
 the backs of the arms and on the front of the legs, less frequently than
 on other parts of the body. The painting on their faces was done at
@@ -70,4 +70,4 @@ that clan, a sept of the Ocean people.
 
 ------------------------------------------------------------------------
 
-[Next: Stick Game](ttb07)
+[Next: Stick Game](ttb07.md)

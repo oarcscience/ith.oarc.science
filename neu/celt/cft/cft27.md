@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cft26)  [Next](cft28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cft26)  [Next](cft28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Celtic Fairy Tales*, by Joseph Jacobs, \[1892\], at Intangible Textual
 Heritage
 
@@ -345,7 +345,7 @@ leave none untouched; if you do, it will stay behind. Put all my flesh
 into this clean cloth by the side of the spring at the
 
 <span id="img_21400"></span> ![Thatching with Bird's
-Feathers](img/21400.jpg)  
+Feathers](img/21400.jpg.md)  
 Thatching with Bird's Feathers
 
 <span id="page_215">p. 215</span>
@@ -631,4 +631,4 @@ came to an end.
 
 ------------------------------------------------------------------------
 
-[Next: Brewery of Eggshells](cft28)
+[Next: Brewery of Eggshells](cft28.md)

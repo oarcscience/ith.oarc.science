@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa00)  [Next](awa02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa00)  [Next](awa02.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ Piccadilly Club, W.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](awa02)
+[Next: Introduction](awa02.md)

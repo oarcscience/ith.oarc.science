@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr22)  [Next](wsgr24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr22)  [Next](wsgr24.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ eyes are made heavy and tired with the weight of many
 <span id="img_12800"></span>
 
 [![](tn/12800.jpg)  
-Click to enlarge](img/12800.jpg)
+Click to enlarge](img/12800.jpg.md)
 
 <span id="page_129">p. 129</span>
 
@@ -161,4 +161,4 @@ from them.
 
 ------------------------------------------------------------------------
 
-[Next: Why the Irises Hold Hands](wsgr24)
+[Next: Why the Irises Hold Hands](wsgr24.md)

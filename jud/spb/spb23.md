@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb22)  [Next](spb24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb22)  [Next](spb24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ my hands, that I may be glorified.</span>
 
 ##### <span class="smallcaps">Chapter</span> I.
 
-(1.) Moses received the Torah <span id="fr_29"></span>[\*](#fn_25) on
+(1.) Moses received the Torah <span id="fr_29"></span>[\*](#fn_25.md) on
 Sinai, and handed it down to Joshua; Joshua to the elders; the elders to
 the prophets; and the prophets handed it down to the men of the Great
 Synagogue. They said three things: Be deliberate in judgment; raise up
@@ -171,7 +171,7 @@ Eliezer, the son of Hyrcanus, is a cemented cistern, which loses not a
 drop; Joshua, the son of Chananya—happy is she that bare him; José, the
 Priest, is a pious man; Simeon, the son of Nathaniel, is a fearer of
 sin; Eleazar, the son of Arach, is like a spring flowing
-[with](errata.htm#5) ever-sustaining vigor. (12.) He used to say, If all
+[with](errata.htm#5) ever-sustaining vigor. (12..md) He used to say, If all
 the sages of Israel were in one scale of the balance, and Eliezer, the
 son of Hyrcanus, in the other, he would outweigh them all. Abba Saul
 said in his name, If all the sages of
@@ -202,7 +202,7 @@ And (he further said), Warm thyself by the fire of the wise; but beware
 of their glowing coals, lest thou be burnt, for their bite is the bite
 of the fox, and their sting is the scorpion's sting, and their hiss is
 the serpent's hiss, and all their words are like coals of fire. <span
-id="fr_30"></span>[\*](#fn_26) (16.) R. Joshua said, The evil eye, the
+id="fr_30"></span>[\*](#fn_26) (16..md) R. Joshua said, The evil eye, the
 evil inclination, and hatred of his fellow-creatures put a
 
 <span id="page_277">p. 277</span>
@@ -267,7 +267,7 @@ two persons; whence can it be deduced that if even one person sedulously
 occupies himself with the Torah, the Holy One, blessed be he, appoints
 unto him a reward? Because it is said, Though he sit alone, and meditate
 in stillness, yet he taketh it (the reward) upon him (Lam. iii.
-27). <span id="fr_31"></span>[\*](#fn_27) (4.) R. Simeon said, If three
+27). <span id="fr_31"></span>[\*](#fn_27) (4..md) R. Simeon said, If three
 have eaten at a table and have spoken there no words of Torah, it is as
 if they had eaten
 
@@ -289,12 +289,12 @@ the kingdom and the yoke of worldly care. (7.) R. Chalafta, the son of
 Dosa, of the village of Chananya, said, When ten people sit together and
 occupy themselves with the Torah, the Shechinah abides among them, as it
 is said, God standeth in the congregation <span
-id="fr_32"></span>[\*](#fn_28) of the godly (Psalm lxxxii. 1). And
+id="fr_32"></span>[\*](#fn_28) of the godly (Psalm lxxxii. 1.md). And
 whence can it be shown that the same applies to five? Because it is
-said, He hath founded his band <span id="fr_33"></span>[†](#fn_29) upon
+said, He hath founded his band <span id="fr_33"></span>[†](#fn_29.md) upon
 the earth (Amos ix. 6). And whence can it be shown that the same applies
 to three? Because it is said, He judgeth among the judges <span
-id="fr_34"></span>[‡](#fn_30) (Psa. lxxxii. 1). And whence can it be
+id="fr_34"></span>[‡](#fn_30) (Psa. lxxxii. 1.md). And whence can it be
 shown that the same applies to two? Because it is said, Then they that
 feared the Lord spake one with the other; and the Lord hearkened, and
 heard (Mal. iii. 16). And whence can it be shown that the same applies
@@ -341,7 +341,7 @@ to a superior, affable to a suppliant, and receive all men with
 <span id="page_281">p. 281</span>
 
 cheerfulness. (17.) R. Akiba said, Jesting and levity lead a man on to
-lewdness. The Massorah <span id="fr_35"></span>[\*](#fn_31) is a fence
+lewdness. The Massorah <span id="fr_35"></span>[\*](#fn_31.md) is a fence
 to the Torah. tithes are a fence to riches; vows are a fence to
 abstinence; a fence to wisdom is silence. (18.) He used to say, Beloved
 is man, for he was created in the image of God; but it was by a special
@@ -448,7 +448,7 @@ Torah will himself be honored by mankind, but whoso dishonors the Torah
 will himself be dishonored by mankind. (9.) R. Ishmael, his son, said,
 He who shuns the judicial office rids himself of hatred, robbery and
 vain swearing; but he who presumptuously lays down
-[decisions](errata.htm#6) is foolish, wicked and of an arrogant spirit.
+[decisions](errata.htm#6.md) is foolish, wicked and of an arrogant spirit.
 (10.) He used to say, Judge not alone, for none may judge alone save
 One; neither say (to thy judicial colleagues), Accept my view, for the
 choice is theirs (to concur); and it is not for thee (to compel
@@ -539,7 +539,7 @@ lx. 21), And thy people shall be all righteous; they shall inherit the
 land for ever, the branch of my planting, the work of my hands, that I
 may be glorified.
 
-\(1\) With ten Sayings <span id="fr_36"></span>[\*](#fn_32) the world
+\(1\) With ten Sayings <span id="fr_36"></span>[\*](#fn_32.md) the world
 was created. What does this teach us? Could it not have been created
 with one Saying? It is to make known the punishment that will befall the
 wicked who destroy the world that was created with ten Sayings, as well
@@ -577,14 +577,14 @@ to prostrate themselves; never did serpent or scorpion injure any one in
 Jerusalem; nor did any man ever say to his fellow, The place is too
 strait for me to lodge over night in Jerusalem. (9.) Ten things were
 created on the eve of Sabbath in the twilight: <span
-id="fr_37"></span>[\*](#fn_33) the mouth of the earth (Numb. xvi. 32);
+id="fr_37"></span>[\*](#fn_33) the mouth of the earth (Numb. xvi. 32.md);
 the mouth of the well (*Ibid*. xxi. 16); the mouth of the ass (*Ibid*.
 xxii. 28); the rainbow; the manna; the rod (Exod. iv. 17); the
-Shamir; <span id="fr_38"></span>[†](#fn_34) the shape of the written
+Shamir; <span id="fr_38"></span>[†](#fn_34.md) the shape of the written
 characters; the writing, and the tables of stone: some say the
 destroying spirits also, and the sepulchre of Moses, and the ram of
 Abraham our father; and others say, tongs also made with tongs <span
-id="fr_39"></span>[‡](#fn_35). (10.) There are seven marks of an
+id="fr_39"></span>[‡](#fn_35). (10..md) There are seven marks of an
 uncultured, and seven of a wise man. The wise man does not speak before
 him who is greater than he in wisdom; and does not break in upon the
 speech of his fellow; he is not hasty to answer; he questions according
@@ -619,7 +619,7 @@ year, for default of giving the tithe to the poor in the sixth year; at
 the conclusion of the seventh year, for the violation of the law
 regarding the fruits of the seventh year, and at the conclusion of the
 Feast of Tabernacles in each year, for robbing the poor of the grants
-legally assigned to them. <span id="fr_40"></span>[\*](#fn_36) (13.)
+legally assigned to them. <span id="fr_40"></span>[\*](#fn_36) (13..md)
 There are four characters among men: he who says, What is mine is mine
 and what is thine is thine, his is a neutral character:—some say, this
 is a character like that of Sodom; he who says, What is mine is thine
@@ -724,7 +724,7 @@ honorable (Isaiah xlii. 21).</span>
 
 ------------------------------------------------------------------------
 
-##### CHAPTER VI <span id="fr_41"></span>[\*](#fn_37)
+##### CHAPTER VI <span id="fr_41"></span>[\*](#fn_37.md)
 
 <span class="small">All Israel have a portion in the world to come, as
 it is said (Isaiah lx. 21), And thy people shall be all righteous; they
@@ -745,7 +745,7 @@ and faithful; it keeps him far from sin, and brings him near to virtue:
 through him the world enjoys counsel and sound knowledge, understanding
 and strength, as it is said, Counsel is mine, and sound knowledge; I am
 understanding; I have strength (Prov. viii. 14 <span
-id="fr_42"></span>[\*](#fn_38)): and it gives him sovereignty and
+id="fr_42"></span>[\*](#fn_38).md): and it gives him sovereignty and
 dominion and discerning judgment; to him the secrets of the Torah are
 revealed; he is made like a never-failing fountain, and like a river
 that flows on with ever-sustained vigor he becomes modest,
@@ -761,11 +761,11 @@ graven upon the tables. Read not *charuth* (graven), but *cheruth*
 (freedom), for no man is free but he who labors in the Torah. But
 whosoever labors in the Torah, behold he shall be exalted, as it is
 said, And from Mattanah to Nachaliel, and from Nachaliel to Bamoth <span
-id="fr_43"></span>[‡](#fn_39) (Numb. xxi. 19). (3.) He who learns from
+id="fr_43"></span>[‡](#fn_39) (Numb. xxi. 19). (3..md) He who learns from
 his fellow a single chapter, a single rule, a single verse, a single
 expression, or even a single letter, ought to pay him honor, for so we
 find with David, King of Israel, who learnt only two things from
-Ahitophel, <span id="fr_44"></span>[§](#fn_40) and yet regarded him as
+Ahitophel, <span id="fr_44"></span>[§](#fn_40.md) and yet regarded him as
 his master, His guide and his familiar friend, as it is said, But it was
 thou, a man, mine equal, my guide, and my familiar friend (Psalm 1v.
 14). Now, is it not an argument from minor to major? Ii David, the King
@@ -791,8 +791,8 @@ crave not after the table of kings; for thy table is greater than
 theirs, and thy crown is greater than theirs, and thy Employer is
 faithful to pay thee the reward of thy work. (6.) The Torah is greater
 than the priesthood and than royalty, seeing that royalty demands thirty
-qualifications, <span id="fr_45"></span>[\*](#fn_41) the priesthood
-twenty-four, <span id="fr_46"></span>[†](#fn_42) while the Torah is
+qualifications, <span id="fr_45"></span>[\*](#fn_41.md) the priesthood
+twenty-four, <span id="fr_46"></span>[†](#fn_42.md) while the Torah is
 acquired by forty-eight. And these are they: By audible study; by
 distinct pronunciation; by understanding and discernment of the heart;
 by awe, reverence, meekness, cheerfulness; by ministering to the sages,
@@ -904,23 +904,23 @@ Torah and many commandments, as it is said, It pleased the Lord, for his
 righteousness’ sake, to magnify the Torah and make it honorable (Isaiah
 xlii. 21).
 
-*"It is our duty," etc., [p. 262](spb22.htm#page_262). Mourner's
-Kaddish, [p. 263](spb22.htm#page_263)*.
+*"It is our duty," etc., [p. 262](spb22.htm#page_262.md). Mourner's
+Kaddish, [p. 263](spb22.htm#page_263.md)*.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_25"></span>[271:\*](spb23.htm#fr_29) The word Torah is left
+<span id="fn_25"></span>[271:\*](spb23.htm#fr_29.md) The word Torah is left
 untranslated. It is variously used for the Pentateuch, the Scriptures,
 the Oral Law, as well as for the whole body of religious truth, study
 and practice.
 
-<span id="fn_26"></span>[276:\*](spb23.htm#fr_30) The highest gifts, if
+<span id="fn_26"></span>[276:\*](spb23.htm#fr_30.md) The highest gifts, if
 abused, may prove a source of suffering to those whom they are designed
 to benefit.
 
-<span id="fn_27"></span>[278:\*](spb23.htm#fr_31) Where biblical verses
+<span id="fn_27"></span>[278:\*](spb23.htm#fr_31.md) Where biblical verses
 are employed not in a strictly literal sense, it is to be observed that
 the Rabbis, like other preachers, made use of such passages for
 homiletical purposes, as illustrations of their meaning rather than as
@@ -928,71 +928,71 @@ logical foundations for their teaching. It was felt that additional
 weight would attach to any opinion with which some point of contact
 could he found in the Scriptures.
 
-<span id="fn_28"></span>[279:\*](spb23.htm#fr_32) Ten are the minimum to
+<span id="fn_28"></span>[279:\*](spb23.htm#fr_32.md) Ten are the minimum to
 form a "congregation" (Edah).
 
-<span id="fn_29"></span>[279:†](spb23.htm#fr_33) Five, the minimum to
+<span id="fn_29"></span>[279:†](spb23.htm#fr_33.md) Five, the minimum to
 constitute a "band" (Aguddah).
 
-<span id="fn_30"></span>[279:‡](spb23.htm#fr_34) The smallest judicial
+<span id="fn_30"></span>[279:‡](spb23.htm#fr_34.md) The smallest judicial
 tribunal was composed of three judges.
 
-<span id="fn_31"></span>[281:\*](spb23.htm#fr_35) The oral tradition, in
+<span id="fn_31"></span>[281:\*](spb23.htm#fr_35.md) The oral tradition, in
 accordance with which the text of the Scriptures is determined and
 interpreted.
 
-<span id="fn_32"></span>[287:\*](spb23.htm#fr_36) In Genesis i. the
+<span id="fn_32"></span>[287:\*](spb23.htm#fr_36.md) In Genesis i. the
 sentence, "And God said," occurs nine times. Verse 1, "In the beginning
 God created heaven and earth," is taken as another "Saying" in
 accordance with Psalm xxxiii. 6. "By the word of the Lord were the
 heavens made."
 
-<span id="fn_33"></span>[288:\*](spb23.htm#fr_37) All phenomena that
+<span id="fn_33"></span>[288:\*](spb23.htm#fr_37.md) All phenomena that
 seemed to partake at once of the natural and the supernatural, were
 conceived as having had their origin in the interval between the close
 of the work of creation and the commencement of the Sabbath.
 
-<span id="fn_34"></span>[288:†](spb23.htm#fr_38) A worm, spoken of in
+<span id="fn_34"></span>[288:†](spb23.htm#fr_38.md) A worm, spoken of in
 the legendary history of Solomon (See *Gittin*, 68*a*, *Sotah*, 48*b*).
 It is said to have had the power of splitting the hardest stone upon
 which it was placed, and was therefore used by Solomon in building the
 Temple, in the construction of which no iron tool was to be employed.
 
-<span id="fn_35"></span>[288:‡](spb23.htm#fr_39) A type of the various
+<span id="fn_35"></span>[288:‡](spb23.htm#fr_39.md) A type of the various
 means and instruments which, tending in their descent and distribution
 to the benefit of mankind, have their origin with God.
 
-<span id="fn_36"></span>[289:\*](spb23.htm#fr_40) The gleanings, the
+<span id="fn_36"></span>[289:\*](spb23.htm#fr_40.md) The gleanings, the
 forgotten sheaves, and the corners of the field. *See* Levit. xix. 9;
 Deut. xxiv. 19.
 
-<span id="fn_37"></span>[292:\*](spb23.htm#fr_41) This chapter, called
+<span id="fn_37"></span>[292:\*](spb23.htm#fr_41.md) This chapter, called
 Chapter on the Acquisition of the Torah, or Boraitha of R. Meir, is not
 a part of the Mishnah, but of the collection of rabbinical dicta next in
 authority to it, and known as Boraithoth, or "External Teachings."
 
-<span id="fn_38"></span>[293:\*](spb23.htm#fr_42) Wisdom, of which the
+<span id="fn_38"></span>[293:\*](spb23.htm#fr_42.md) Wisdom, of which the
 Torah is the embodiment, speaks these words.
 
-<span id="fn_39"></span>[293:‡](spb23.htm#fr_43) A play upon the words
+<span id="fn_39"></span>[293:‡](spb23.htm#fr_43.md) A play upon the words
 of the text: Mattanah = "gift"; Nachaliel = "the heritage of God";
 Bamoth = "high places."
 
-<span id="fn_40"></span>[293:§](spb23.htm#fr_44) In the two matters
+<span id="fn_40"></span>[293:§](spb23.htm#fr_44.md) In the two matters
 referred to in Psalm lv. 15, "We took sweet counsel together," and "We
 walked into the house of God with the throng," David is said to have
 followed the teaching of Ahitophel.
 
-<span id="fn_41"></span>[294:\*](spb23.htm#fr_45) See *Sanhedrin* ch.
+<span id="fn_41"></span>[294:\*](spb23.htm#fr_45.md) See *Sanhedrin* ch.
 ii.
 
-<span id="fn_42"></span>[294:†](spb23.htm#fr_46) See *Baba Kama*,
+<span id="fn_42"></span>[294:†](spb23.htm#fr_46.md) See *Baba Kama*,
 110*b*, and *Mid. Tanchuma*, section *Bamidbar*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Service for the Conclusion of the Sabbath](spb24)
+[Next: Service for the Conclusion of the Sabbath](spb24.md)
 
 </div>

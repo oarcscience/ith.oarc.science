@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar016) [Next](gbar018)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar016) [Next](gbar018.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ Lord God of our fathers.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar018)
+[Next](gbar018.md)
 
  
 

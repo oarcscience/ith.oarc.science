@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad20)  [Next](mrad22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad20)  [Next](mrad22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -122,9 +122,9 @@ act.
 
 Moreover, I point out that a great deal of the most impressive evidence
 does not depend upon Craig alone. The five drawings with her
-brother-in-law, figures [1](mrad03.htm#img_fig001),
-[16](mrad08.htm#img_fig016), [17](mrad08.htm#img_fig017),
-[18](mrad08.htm#img_fig018), [19](mrad08.htm#img_fig019), constitute by
+brother-in-law, figures [1](mrad03.htm#img_fig001.md),
+[16](mrad08.htm#img_fig016), [17](mrad08.htm#img_fig017.md),
+[18](mrad08.htm#img_fig018), [19](mrad08.htm#img_fig019.md), constitute by
 themselves evidence of telepathy sufficient to convince any mind which
 is open to conviction. While it would have been possible for Craig and
 Bob to hoax Dollie and me, it could certainly not have been done without
@@ -138,9 +138,9 @@ beach-house, with nothing but a couch, a chair and a table—I certainly
 
 know that I am alone; and when I make a drawing and hold it before my
 eyes for five or ten minutes, I certainly know whether any other
-[person](errata.htm#1) is seeing it. This covers the drawings presented
-as figures [2](mrad03.htm#img_fig002), [20](mrad09.htm#img_fig020), and
-[21](mrad09.htm#img_fig021), with four others told about in the same
+[person](errata.htm#1.md) is seeing it. This covers the drawings presented
+as figures [2](mrad03.htm#img_fig002), [20](mrad09.htm#img_fig020.md), and
+[21](mrad09.htm#img_fig021.md), with four others told about in the same
 series. It seems to me these seven cases by themselves are evidence of
 telepathy sufficient to convince any open mind.
 
@@ -219,4 +219,4 @@ the same, if they have the desire and the patience.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI](mrad22)
+[Next: Chapter XXI](mrad22.md)

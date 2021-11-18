@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](amm06)  [Next](amm08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](amm06)  [Next](amm08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -306,7 +306,7 @@ another tradition of the earthly paradise?
 <span id="img_fig06"></span>
 
 [![Figure 6. The Central Stone of Delphi](tn/fig06.jpg)  
-Click to enlarge](img/fig06.jpg)  
+Click to enlarge](img/fig06.jpg.md)  
   
 
 In the description before given of the peplos representing the universe
@@ -336,7 +336,7 @@ leafy branches, and netted work.
 <span id="img_fig07"></span>
 
 [![Figure 7. The Central Stone of Delphi](tn/fig07.jpg)  
-Click to enlarge](img/fig07.jpg)  
+Click to enlarge](img/fig07.jpg.md)  
   
 
 This centre stone of the whole world seems to have profoundly touched
@@ -643,7 +643,7 @@ visited the sites in 1033 A.D., says that God commanded Moses to make
 <span id="img_fig08"></span>
 
 [![Figure 8. Plan of the Dome of the Rock](tn/fig08.jpg)  
-Click to enlarge](img/fig08.jpg)  
+Click to enlarge](img/fig08.jpg.md)  
   
 
 this stone the kibleh, and later Solomon built the temple about it as a
@@ -727,7 +727,7 @@ surrounded by ocean, round whose borders are the eaters of men and the
 one-eyed, the half men and 'those whose heads do grow beneath their
 shoulders.' Within this border we find everything that heart could
 desire, the red sea is very red, the pillars of Hercules are pillars
-indeed; there is the [terrestrial](errata.htm#1) paradise enclosed by a
+indeed; there is the [terrestrial](errata.htm#1.md) paradise enclosed by a
 battlemented wall; and unicorns, manticoras, salamanders, and other
 beasts of fascinating habits are clearly shown on the lands where they
 live. The centre of all is Jerusalem, a circular walled town, within
@@ -770,4 +770,4 @@ His plan shows this by the sign <span id="img_09300"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Jewel-Bearing Tree](amm08)
+[Next: Chapter V. The Jewel-Bearing Tree](amm08.md)

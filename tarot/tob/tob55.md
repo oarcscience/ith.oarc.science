@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob54) 
-[Next](tob56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob54.md) 
+[Next](tob56.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,4 +187,4 @@ in the world.
 ------------------------------------------------------------------------
 
 [Next: Sixth Lesson. Etteila's original and unpublished Method of
-Fortune-telling by the Tarot](tob56)
+Fortune-telling by the Tarot](tob56.md)

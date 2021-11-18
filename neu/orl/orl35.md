@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl34)  [Next](orl36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl34)  [Next](orl36.md) 
 
 ------------------------------------------------------------------------
 
@@ -907,4 +907,4 @@ That knight, in other canto will I tell.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 36](orl36)
+[Next: Canto 36](orl36.md)

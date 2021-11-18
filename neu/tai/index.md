@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tai00)  
-[Jump to Text](tai39)  
+[Contents](#contents)    [Start Reading](tai00.md)  
+[Jump to Text](tai39.md)  
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ Russian noble families of the period, which Nabokov considered very
 helpful in preparing his translation.
 
 Production notes: Your browser must be configured to view Unicode: refer
-to the sacred-texts [Unicode help file](../../unicode) if you have
+to the sacred-texts [Unicode help file](../../unicode.md) if you have
 trouble. Unfortunately, due to the limitations of current optical
 character recognition technology, I had to omit about seventy pages of
 end notes.
@@ -104,57 +104,57 @@ end notes.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](tai00)  
-[Preface](tai01)  
-[Contents](tai02)  
-[Scheme of Transliteration](tai03)  
+<span id="contents"></span> [Title Page and Front Matter](tai00.md)  
+[Preface](tai01.md)  
+[Contents](tai02.md)  
+[Scheme of Transliteration](tai03.md)  
 <span id="section_000"></span>
 
 ### Introduction
 
-[The History of the Manuscript](tai04)  
-[The Geography of Russia](tai05)  
-[The Old Tradition](tai06)  
-[The Distribution of the Slavs](tai07)  
-[The Slav State](tai08)  
-[The Norse Invasion](tai09)  
-[The Scandinavian Princes](tai10)  
-[Vladímir I](tai11)  
-[The Land System](tai12)  
-[Yarosláv I.](tai13)  
-[The Yarosláviči](tai14)  
-[The Four Great Princes](tai15)  
-[Vladímir II](tai16)  
-[The Successors of Vladímir II](tai17)  
-[The Fall of Kíev and Rise of Suzdal and Moscow](tai18)  
-[The Historical References to Ígoŕ Svyatoslávic](tai19)  
-[The Chronicle for the Year 1185 Translated in Full](tai20)  
-[The Construction of the Poem](tai21)  
-[The Versification](tai22)  
-[Style and Authorship](tai23)  
-[Pagan Survivals in the Text of the Slovo](tai24)  
-[Boyán](tai25)  
-[Troyán](tai26)  
-[The Language and Grammar](tai27)  
+[The History of the Manuscript](tai04.md)  
+[The Geography of Russia](tai05.md)  
+[The Old Tradition](tai06.md)  
+[The Distribution of the Slavs](tai07.md)  
+[The Slav State](tai08.md)  
+[The Norse Invasion](tai09.md)  
+[The Scandinavian Princes](tai10.md)  
+[Vladímir I](tai11.md)  
+[The Land System](tai12.md)  
+[Yarosláv I.](tai13.md)  
+[The Yarosláviči](tai14.md)  
+[The Four Great Princes](tai15.md)  
+[Vladímir II](tai16.md)  
+[The Successors of Vladímir II](tai17.md)  
+[The Fall of Kíev and Rise of Suzdal and Moscow](tai18.md)  
+[The Historical References to Ígoŕ Svyatoslávic](tai19.md)  
+[The Chronicle for the Year 1185 Translated in Full](tai20.md)  
+[The Construction of the Poem](tai21.md)  
+[The Versification](tai22.md)  
+[Style and Authorship](tai23.md)  
+[Pagan Survivals in the Text of the Slovo](tai24.md)  
+[Boyán](tai25.md)  
+[Troyán](tai26.md)  
+[The Language and Grammar](tai27.md)  
 <span id="section_001"></span>
 
 ### Genealogical Tables
 
-[Table I. Genealogies of the House of Rurik](tai28)  
-[Table II. The Yaroslaviči](tai29)  
-[Table III. The House of Polotsk](tai30)  
-[Table IV. The Olgoviči](tai31)  
-[Table V. The House of Ryazáń](tai32)  
-[Table VI. The Monomákhoviči](tai33)  
-[Table VII. The House of Galicia](tai34)  
-[Table VIII. The Mstíslaviči](tai35)  
-[Table IX. House of Suzdal & Moscow](tai36)  
-[Table X. The House of Moscow](tai37)  
+[Table I. Genealogies of the House of Rurik](tai28.md)  
+[Table II. The Yaroslaviči](tai29.md)  
+[Table III. The House of Polotsk](tai30.md)  
+[Table IV. The Olgoviči](tai31.md)  
+[Table V. The House of Ryazáń](tai32.md)  
+[Table VI. The Monomákhoviči](tai33.md)  
+[Table VII. The House of Galicia](tai34.md)  
+[Table VIII. The Mstíslaviči](tai35.md)  
+[Table IX. House of Suzdal & Moscow](tai36.md)  
+[Table X. The House of Moscow](tai37.md)  
 <span id="section_002"></span>
 
 ### Text
 
-[Introduction](tai38)  
-[Part I](tai39)  
-[Part II](tai40)  
-[Part III](tai41)  
+[Introduction](tai38.md)  
+[Part I](tai39.md)  
+[Part II](tai40.md)  
+[Part III](tai41.md)  

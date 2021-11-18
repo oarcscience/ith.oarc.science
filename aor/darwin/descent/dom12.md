@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index) 
-[Previous](dom11)  [Next](dom13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index.md) 
+[Previous](dom11)  [Next](dom13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -576,4 +576,4 @@ Gervais, 'Hist. Nat. des Insectes: Apteres,' tom. iv. 1847, pp. 17, 19,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Secondary Sexual Characters of Insects](dom13)
+[Next: Chapter X. Secondary Sexual Characters of Insects](dom13.md)

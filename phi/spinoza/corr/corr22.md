@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr21)  [Next](corr23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr21)  [Next](corr23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -83,15 +83,15 @@ disciples; but in these matters they might, without injury to Gospel
 teaching, have been deceived, as was the case with other prophets
 mentioned in my last letter. But Paul, to whom Christ afterwards
 appeared, rejoices, that he knew Christ not after the flesh, but after
-the spirit. <span id="fr_22"></span>[1](#fn_22) Farewell, honourable
+the spirit. <span id="fr_22"></span>[1](#fn_22.md) Farewell, honourable
 Sir, and believe me yours in all affection and zeal.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_22"></span>[307:1](corr22.htm#fr_22) 2 Cor. v. 16.
+<span id="fn_22"></span>[307:1](corr22.htm#fr_22.md) 2 Cor. v. 16.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXV.A. From Oldenburg](corr23)
+[Next: Letter XXV.A. From Oldenburg](corr23.md)

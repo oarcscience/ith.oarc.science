@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig21)  [Next](vig23) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig21)  [Next](vig23.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ did not permit it. So matters went on for six winters.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX](vig23)
+[Next: Chapter XX](vig23.md)

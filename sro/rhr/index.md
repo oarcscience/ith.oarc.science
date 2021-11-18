@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rhr00)    [Page
-Index](pageidx)    [Text \[Zipped\]](rhr.txt.gz)
+[Contents](#contents)    [Start Reading](rhr00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](rhr.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -49,24 +49,24 @@ Freemasons, Illuminati, Templars, and so on, even though there is not a
 shred of evidence for this.
 
 Waite presents complete translations of all of the texts which defined
-the Rosicrucians, including the [Fama Fraternitatis](rhr06), the
-[Confessio Fraternitatis](rhr07), and the [Chemical Wedding of Christian
-Rosencreutz](rhr08). The longest text, the [Chemical Wedding](rhr08) is
+the Rosicrucians, including the [Fama Fraternitatis](rhr06.md), the
+[Confessio Fraternitatis](rhr07.md), and the [Chemical Wedding of Christian
+Rosencreutz](rhr08). The longest text, the [Chemical Wedding](rhr08.md) is
 a fever-dream which is a thinly veiled alchemical allegory. The
 authorship of these documents is disputed, but it may have been written
 by Johann Valentin Andreas, a German theologian and writer. Waite also
 surveys Rosicrucian literature from successive centuries, including
 extensive quotes from authors who wrote about the Rosicrucians such as
 Michael Maier, Robert Fludd, Thomas Vaughan and John Heydon. Heydon
-wrote [Voyage to the Land of the Rosicrucians](rhr28), reminiscent of
-Thomas More's [Utopia](../../utopia/more/index), about a voyage to an
+wrote [Voyage to the Land of the Rosicrucians](rhr28.md), reminiscent of
+Thomas More's [Utopia](../../utopia/more/index.md), about a voyage to an
 obscure continent inhabited by Rosicrucians, included here in its
 entirety. Waite concludes with a look at a 19th century 'Rosicrucian'
 organization: Hargrave Jennings was, notably, a member of this group.
 Speaking of whom. . .
 
 The Real History stands in stark contrast to Hargrave Jennings' [The
-Rosicrucians, their Rites and Mysteries](../rrm/index), which Waite
+Rosicrucians, their Rites and Mysteries](../rrm/index.md), which Waite
 (justifiably) criticizes throughout. The very title of this book might
 be considered a *riposte* to Jennings. The Rosicrucians are described as
 celibate, which contradicts Jennings' focus on the role of *phallicism*
@@ -83,56 +83,56 @@ academic and general readers.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rhr00)  
-[Analysis of Contents](rhr01)  
-[Preface](rhr02)  
-[Introduction](rhr03)  
+<span id="contents"></span> [Title Page](rhr00.md)  
+[Analysis of Contents](rhr01.md)  
+[Preface](rhr02.md)  
+[Introduction](rhr03.md)  
 [Chapter I. On The State of Mystical Philosophy in Germany at the Close
-of the Sixteenth Century](rhr04)  
+of the Sixteenth Century](rhr04.md)  
 [Chapter II. The Prophecy of Paracelsus, and The Universal Reformation
-of the Whole Wide World](rhr05)  
-[Chapter III: The Fama Fraternitatis](rhr06)  
-[Chapter IV. The Confessio Fraternitatis](rhr07)  
+of the Whole Wide World](rhr05.md)  
+[Chapter III: The Fama Fraternitatis](rhr06.md)  
+[Chapter IV. The Confessio Fraternitatis](rhr07.md)  
 <span id="section_000"></span>
 
 ### Chapter V. The Chymical Marriage of Christian Rosencreutz
 
-[Introduction](rhr08)  
-[The First Day](rhr09)  
-[The Second Day](rhr10)  
-[The Third Day](rhr11)  
-[The Fourth Day](rhr12)  
-[The Fifth Day](rhr13)  
-[The Sixth Day](rhr14)  
-[The Seventh Day](rhr15)  
+[Introduction](rhr08.md)  
+[The First Day](rhr09.md)  
+[The Second Day](rhr10.md)  
+[The Third Day](rhr11.md)  
+[The Fourth Day](rhr12.md)  
+[The Fifth Day](rhr13.md)  
+[The Sixth Day](rhr14.md)  
+[The Seventh Day](rhr15.md)  
 
  
 
 [Chapter VI. On The Connection of the Rosicrucian Claims With Those of
-Alchemy and Magic](rhr16)  
-[Chapter VII. Antiquity of the Rosicrucian Fraternity](rhr17)  
-[Chapter VIII. The Case of Johann Valentin Andreas](rhr18)  
-[Chapter IX. Progress of Rosicrucianism in Germany](rhr19)  
-[Chapter X. Rosicrucian Apologists: Michael Maier](rhr20)  
-[Chapter XI. Rosicrucian Apologists: Robert Fludd](rhr21)  
-[Chapter XII. Rosicrucian Apologists: Thomas Vaughan](rhr22)  
+Alchemy and Magic](rhr16.md)  
+[Chapter VII. Antiquity of the Rosicrucian Fraternity](rhr17.md)  
+[Chapter VIII. The Case of Johann Valentin Andreas](rhr18.md)  
+[Chapter IX. Progress of Rosicrucianism in Germany](rhr19.md)  
+[Chapter X. Rosicrucian Apologists: Michael Maier](rhr20.md)  
+[Chapter XI. Rosicrucian Apologists: Robert Fludd](rhr21.md)  
+[Chapter XII. Rosicrucian Apologists: Thomas Vaughan](rhr22.md)  
 <span id="section_001"></span>
 
 ### Chapter XIII. Rosicrucian Apologists: John Heydon
 
-[Introduction](rhr23)  
-[Apologue for an Epilogue](rhr24)  
-[The Rosicrucians in England](rhr25)  
-[A Very True Narrative...](rhr26)  
-[The Spirit Euterpe](rhr27)  
-[Voyage to the Land of the Rosicrucians](rhr28)  
+[Introduction](rhr23.md)  
+[Apologue for an Epilogue](rhr24.md)  
+[The Rosicrucians in England](rhr25.md)  
+[A Very True Narrative...](rhr26.md)  
+[The Spirit Euterpe](rhr27.md)  
+[Voyage to the Land of the Rosicrucians](rhr28.md)  
 
  
 
-[Chapter XIV. Rosicrucianism in France](rhr29)  
+[Chapter XIV. Rosicrucianism in France](rhr29.md)  
 [Chapter XV. Connection Between the Rosicrucians and
-Freemasons](rhr30)  
-[Chapter XVI. Modern Rosicrucian Societies](rhr31)  
-[Conclusion](rhr32)  
-[Additional Notes](rhr33)  
-[Appendix of Additional Documents](rhr34)  
+Freemasons](rhr30.md)  
+[Chapter XVI. Modern Rosicrucian Societies](rhr31.md)  
+[Conclusion](rhr32.md)  
+[Additional Notes](rhr33.md)  
+[Appendix of Additional Documents](rhr34.md)  

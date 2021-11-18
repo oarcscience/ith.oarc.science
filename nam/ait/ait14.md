@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait13)  [Next](ait15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait13)  [Next](ait15.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![L](img/11500.jpg) |
+| ![L](img/11500.jpg.md) |
 
 ONE WOLF was an Indian, who with his wife and ten sons moved some
 distance from their tribe and built themselves a lodge in the forest.
@@ -215,4 +215,4 @@ forest.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventures of Living Statue](ait15)
+[Next: The Adventures of Living Statue](ait15.md)

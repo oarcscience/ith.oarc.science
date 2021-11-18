@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](pme11)  [Next](pme13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](pme11)  [Next](pme13.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ nations.
 
 Under the first category we group the phenomena presented by schools,
 prisons, convents, ships, garrisons in solitary stations, nomadic tribes
-of marauding conquerors. <span id="fr_77"></span>[1](#fn_77)
+of marauding conquerors. <span id="fr_77"></span>[1](#fn_77.md)
 
 To the second belong those individuals who amuse themselves with
 experiments in sensual pleasure, men jaded with ordinary sexual
@@ -36,7 +36,7 @@ lesion, wounds,
 
 epilepsy, senile brain-softening, in so far as these physical
 disturbances are complicated with abnormal passions. <span
-id="fr_78"></span>[1](#fn_78)
+id="fr_78"></span>[1](#fn_78.md)
 
 The fourth includes the whole class of Urnings, who have been hitherto
 ignored by medical investigators, and on whose numerical importance
@@ -146,10 +146,10 @@ and finally to the operation of social opinion.
 
 ### Footnotes
 
-<span id="fn_77"></span>[126:1](pme12.htm#fr_77) Kelts, Scythians,
+<span id="fn_77"></span>[126:1](pme12.htm#fr_77.md) Kelts, Scythians,
 Dorians, Tartars, Normans.
 
-<span id="fn_78"></span>[127:1](pme12.htm#fr_78) It ought to be borne in
+<span id="fn_78"></span>[127:1](pme12.htm#fr_78.md) It ought to be borne in
 mind that they are by no means invariably complicated with abnormal
 sexuality, but quite as often with normal sexuality in some extravagant
 shape, as well as with other kinds of moral aberration.
@@ -157,4 +157,4 @@ shape, as well as with other kinds of moral aberration.
 ------------------------------------------------------------------------
 
 [Next: Suggestions on the Subject of Sexual Inversion in Relation to Law
-and Education.](pme13)
+and Education.](pme13.md)

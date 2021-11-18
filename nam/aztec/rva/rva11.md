@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva10)  [Next](rva12) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva10)  [Next](rva12.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### XI. Otontecutli icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Onoalico, onoalico, pomaya, yyaya, ayyo, ayyo, aya, aya, ayyo.
 
@@ -57,4 +57,4 @@ sec. 5.)
 
 ------------------------------------------------------------------------
 
-[Next: XII. Hymn to the Goddess of Childbirth.](rva12) 
+[Next: XII. Hymn to the Goddess of Childbirth.](rva12.md) 

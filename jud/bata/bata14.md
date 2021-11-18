@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](bata13)  [Next](bata15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](bata13)  [Next](bata15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Talmud in Selection*, by Leo Auerbach, \[1944\], at
 Intangible Textual Heritage
 
@@ -549,7 +549,7 @@ sell them all at once, but sell them a few at a time. The same is with a
 man who has vowed to buy a house, or marry a wife in the Land of Israel,
 he does not have to act upon his vow at once, but he may wait till he
 finds what suits him. There was a case of a woman whose son was annoying
-her. In [exasperation](errata.htm#5) she vowed: Whoever will offer to
+her. In [exasperation](errata.htm#5.md) she vowed: Whoever will offer to
 marry me, I shall not refuse him. Men who were not suitable presented
 themselves to her with an offer of marriage. The matter was laid before
 the Sages. They declared: This woman, surely, did not intend to marry
@@ -668,7 +668,7 @@ shall* 
 
 *take no satisfaction for the life of a murderer, which is guilty of
 death*. This means that for the life of a murderer payment may not be
-accepted, but for a limb that cannot grow [back](errata.htm#6), we may
+accepted, but for a limb that cannot grow [back](errata.htm#6.md), we may
 accept payment.
 
 (*Gemara*)
@@ -752,7 +752,7 @@ not proper to accept it from them; and whoever accepts it, does so
 against the wishes of the Sages.
 
 Come and hear: Robbers and usurers, even if they have already collected
-the [money](errata.htm#7), must make restitution.—What has a robber to
+the [money](errata.htm#7.md), must make restitution.—What has a robber to
 collect? They either robbed, or they did not rob—Rather read: Robbers,
 that is to say usurers, even if they have already collected the money,
 must make restitution. I will tell you, they must make restitution, but
@@ -846,6 +846,6 @@ it.
 
 ------------------------------------------------------------------------
 
-[Next: Law of Procedure (Tractate Sanhedrin)](bata15)
+[Next: Law of Procedure (Tractate Sanhedrin)](bata15.md)
 
 </div>

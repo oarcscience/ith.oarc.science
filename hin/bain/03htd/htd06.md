@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd05)  [Next](htd07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd05)  [Next](htd07.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ gold
 
 the blue floor of the eastern sky. And as he stood watching, suddenly
 the *chétí* came again towards him with twinkling feet, holding a
-jasmine <span id="fr_21"></span>[h](#fn_21) blossom in her hand. And as
+jasmine <span id="fr_21"></span>[h](#fn_21.md) blossom in her hand. And as
 he looked at her, the King was pleased, against his will: for she
 resembled in her movements an incarnation of the sap of the tree of
 youth. And she came up to the King, and looked at him with a smile, and
@@ -46,7 +46,7 @@ smile. And she said: Nay, it is not so: the outward signs are
 unmistakeable. I can read them on thee as if what was written there were
 only my own name. Then the King fell into the trap. And he said: And
 what, then, is thy name? The *chétí* said: I am called
-Madhupamanjarí <span id="fr_22"></span>[i](#fn_22). And the King said:
+Madhupamanjarí <span id="fr_22"></span>[i](#fn_22.md). And the King said:
 Thou art well named. Then she said: How canst thou tell? Dost thou know
 what I am like? Wilt thou judge the inside by the outside? Canst thou
 infer its delicious content from the rough and horrid jacket of the nut?
@@ -112,12 +112,12 @@ the *chétí* and the recollection of his grief.
 
 ### Footnotes
 
-<span id="fn_21"></span>[22:h](htd06.htm#fr_21) *Málatí*.
+<span id="fn_21"></span>[22:h](htd06.htm#fr_21.md) *Málatí*.
 
-<span id="fn_22"></span>[23:i](htd06.htm#fr_22) i.e. 'a cluster of
+<span id="fn_22"></span>[23:i](htd06.htm#fr_22.md) i.e. 'a cluster of
 blossoms for the honey drinkers,' the bees. (The fourth syllable rhymes
 with gun.)
 
 ------------------------------------------------------------------------
 
-[Next: A Flowerless Dawn](htd07)
+[Next: A Flowerless Dawn](htd07.md)

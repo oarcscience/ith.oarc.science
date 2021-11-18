@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](hos)  [Next](amo) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](hos)  [Next](amo.md) 
 
 ------------------------------------------------------------------------
 
@@ -282,4 +282,4 @@ limpié; y Jehová morará en Sión.
 
 ------------------------------------------------------------------------
 
-[Next: Amos](amo)
+[Next: Amos](amo.md)

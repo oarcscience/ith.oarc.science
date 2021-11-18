@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm05) 
-[Next](pdm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm05.md) 
+[Next](pdm07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -269,7 +269,7 @@ speedily became enveloped in flames. Thirty-eight Pythagoreans, the very
 first of the master's disciples and constituting the flower of the
 order, along with Pythagoras himself, perished either in the flames or
 at the hands of the people. Archippus and Lysis alone escaped
-massacre. <span id="fr_22"></span>[1](#fn_22)
+massacre. <span id="fr_22"></span>[1](#fn_22.md)
 
 Thus died this mighty sage, this divine man whose effort it had been to
 instil his own wisdom into human rule and government. The murder of the
@@ -331,7 +331,7 @@ sweat, whilst black blood is falling from their pinnacles . . . depart
 from my sanctuary. Let a wooden wall be your impregnable bulwark. Flee!
 turn your backs on numberless enemies on foot and on horseback! O divine
 Salamis! How deadly wilt thou be to those born of woman!" <span
-id="fr_23"></span>[1](#fn_23) In the account given by Eschylus the
+id="fr_23"></span>[1](#fn_23.md) In the account given by Eschylus the
 battle begins with a cry resembling the pæan, Apollo's hymn: "Soon the
 day, led on white coursers, spreads throughout the world its resplendent
 light. Immediately a mighty shout, resembling a sacred chant, rises from
@@ -357,7 +357,7 @@ as death; the statues alone look down as the hosts march along. A black
 cloud gathers at the foot of the gorge, the thunders roll and the
 lightning flashes on the invaders. Two enormous rocks roll down from the
 summit of Parnassus, crushing to death great numbers of Persians. <span
-id="fr_24"></span>[1](#fn_24) At the same time noises and shouts
+id="fr_24"></span>[1](#fn_24.md) At the same time noises and shouts
 
 <span id="page_178">p. 178</span>
 
@@ -443,7 +443,7 @@ THE END
 
 ### Footnotes
 
-<span id="fn_22"></span>[173:1](pdm06.htm#fr_22) This is the version of
+<span id="fn_22"></span>[173:1](pdm06.htm#fr_22.md) This is the version of
 Diogenes of Laërte regarding the death of Pythagoras—according to
 Dicearchus, quoted by Porphyry, the master escaped massacre, along with
 Archippus and Lysis. He wandered from town to town until he reached
@@ -460,7 +460,7 @@ among one another the honour of having given birth to Homer.—See this
 question discussed in M. Chaignet's conscientious work: *Pythagore et la
 philosophie pythagoricienne*.
 
-<span id="fn_23"></span>[176:1](pdm06.htm#fr_23) In temple language the
+<span id="fn_23"></span>[176:1](pdm06.htm#fr_23.md) In temple language the
 term *son of woman* indicated the lower degree of initiation, woman here
 signifying nature. Above these were the *sons of man* or initiates of
 the Spirit and the Soul, the *sons of the Gods* or initiates of the
@@ -469,7 +469,7 @@ science. The Pythoness calls the Persians *sons of woman*, giving them
 this name from the character of their religion. Interpreted literally,
 her words would be devoid of meaning.
 
-<span id="fn_24"></span>[177:1](pdm06.htm#fr_24) "These may still be
+<span id="fn_24"></span>[177:1](pdm06.htm#fr_24.md) "These may still be
 seen in the enclosure of Minerva," said Herodotus, VIII. 39. The
 invasion of the Gauls, which took place two centuries later, was
 repelled in like manner. Here, too, a storm gathers, thunderbolts fall
@@ -482,4 +482,4 @@ Amédée Thierry, *Histoire des Gaulois*, I. 246.
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](pdm07)
+[Next: Advertisements](pdm07.md)

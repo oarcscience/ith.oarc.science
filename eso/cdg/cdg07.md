@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg06)  [Next](cdg08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg06)  [Next](cdg08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -15,13 +15,13 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
 
 <span id="page_69">p. 69</span>
 
-<span id="img_06900"></span> ![Discourse III](img/06900.jpg)
+<span id="img_06900"></span> ![Discourse III](img/06900.jpg.md)
 
 <span id="img_06901"></span>
 
 |                     |
 |---------------------|
-| ![A](img/06901.jpg) |
+| ![A](img/06901.jpg.md) |
 
 FTER dinner we returned to the labyrinth. I was pensive and my pity for
 the Comte's madness, which I fully realised would be hard to cure,
@@ -30,7 +30,7 @@ have been, could I have had any hope of restoring him to reason. I kept
 searching antiquity for some counter arguments which he would be unable
 to refute for, on my adducing the opinions of the church, he had
 declared that he cared for naught save the ancient religion of his
-Fathers the Philosophers <span id="fr_62"></span>[XLVIII](#fn_62); and
+Fathers the Philosophers <span id="fr_62"></span>[XLVIII](#fn_62.md); and
 to seek to convince a Cabalist by reason would be a long winded
 undertaking, besides I vâas not anxious to get into a dispute with a man
 whose motives I did not as yet altogether understand.
@@ -52,7 +52,7 @@ the labyrinth, he .turned towards the garden. "This is very fine," he
 said, "and these statues are rather effective."
 
 "The Cardinal who had them brought here <span
-id="fr_63"></span>[XLIX](#fn_63)," I replied, "had a fancy little worthy
+id="fr_63"></span>[XLIX](#fn_63.md)," I replied, "had a fancy little worthy
 of his great genius. He believed the majority of these figures to have
 given forth Oracles in bygone days, and paid exceedingly dear for them
 on that account."
@@ -81,7 +81,7 @@ all these pretended Oracles were either a fraud due to the avarice of
 the Gentile priests, or but a political trick of the Sovereigns."
 
 "Was this conference held and this question thus de-cided by the members
-of the Muhammedan Embassy <span id="fr_64"></span>[L](#fn_64) sent to
+of the Muhammedan Embassy <span id="fr_64"></span>[L](#fn_64.md) sent to
 your King?"
 
 "No Sir," I answered.
@@ -93,7 +93,7 @@ their abode and gave forth their replies in places destined for the
 multiplication of the image of God?"
 
 "I mentioned all those ventriloquists," I answered, "and I reminded the
-company that King Saul <span id="fr_65"></span>[LI](#fn_65) had banished
+company that King Saul <span id="fr_65"></span>[LI](#fn_65.md) had banished
 them from his kingdom where, notwithstanding, he found one of them on
 the evening ofthe day before his death, whose voice had the wondrous
 power ofraising Samuel from the dead in answer to his prayer, and to his
@@ -109,14 +109,14 @@ virgins pregnant with the destiny of mortals, who brought forth the good
 and bad fortunes of those who consulted them. What do you allege as to
 Chrysostom, Origen and Oecumenius, who make mention of those divine men
 whom the Greeks called 'Engastrimyths,' <span
-id="fr_66"></span>[LII](#fn_66) whose prophetic abdomens articulated
+id="fr_66"></span>[LII](#fn_66.md) whose prophetic abdomens articulated
 such famous Oracles? And if your gentlemen did not care for the
 Scriptures and the Fathers, you should have reminded them of those
 miraculous maidens of whom the Greek Pausanias speaks, who changed
 themselves into doves and in that form delivered the celebrated Oracles
-of the Doves of Dodona <span id="fr_67"></span>[LIII](#fn_67). Or else
+of the Doves of Dodona <span id="fr_67"></span>[LIII](#fn_67.md). Or else
 you might have said, to the glory of your nation, that there were of old
-in Gaul illustrious maidens <span id="fr_68"></span>[LIV](#fn_68) who
+in Gaul illustrious maidens <span id="fr_68"></span>[LIV](#fn_68.md) who
 transformed their entire appearance at the will of those who consulted
 them and who, in addition to the famous Oracles which they delivered,
 had a wonderful power over the waters and a salutary authority over the
@@ -136,7 +136,7 @@ only to adduce the Oracles which are still delivered every day."
 "In Paris!" I exclaimed.
 
 "In Paris," he repeated, "'Art thou a master of Israel <span
-id="fr_69"></span>[LV](#fn_69) and knowest not these things?' Do not
+id="fr_69"></span>[LV](#fn_69.md) and knowest not these things?' Do not
 people daily consult Aquatic Oracles in glasses of water or in basins,
 and Aerial Oracles in mirrors and on the hands of virgins? Do they not
 recover lost beads and pilfered watches? Do they not learn news from
@@ -156,9 +156,9 @@ evil in all this as you might suppose, and Providence will not permit
 the total destruction of that remnant of Philosophy which has escaped
 the lamentable shipwreck Truth has sustained. If there yet remains among
 the people any vestige of the dread power of the Divine Names <span
-id="fr_70"></span>[LVI](#fn_70), are you of the opinion that it should
+id="fr_70"></span>[LVI](#fn_70.md), are you of the opinion that it should
 be blotted out and that they should lose the respect and recognition due
-to the great name AGLA <span id="fr_71"></span>[LVII](#fn_71), which
+to the great name AGLA <span id="fr_71"></span>[LVII](#fn_71.md), which
 works all these wonders, even when invoked by the ignorant and sinful
 and which, spoken by a Cabalist, would perform many other miracles. Ifs
 
@@ -179,7 +179,7 @@ have even less faith than they."
 you had reason to believe, however, that your gentlemen would not credit
 that which they can see any day in Paris, you might have cited a story
 of rather recent date. That Oracle, which Celius Rhodeginius <span
-id="fr_72"></span>[LVIII](#fn_72) says he himself witnessed, delivered
+id="fr_72"></span>[LVIII](#fn_72.md) says he himself witnessed, delivered
 towards the end of the last century by that extraordinary woman who
 spoke and predicted the future by means of the same organ as did the
 Eurycles of Plutarch."
@@ -202,7 +202,7 @@ short, the Fathers and the theologians--"
 
 "Because, in short," he interrupted, "do not the theologians agree that
 the learned Sambethe, the most ancient of the Sibyls was the daughter of
-Noah <span id="fr_73"></span>[LIX](#fn_73)?"
+Noah <span id="fr_73"></span>[LIX](#fn_73.md)?"
 
 "Eh! what has that to do with it?" I retorted.
 
@@ -212,7 +212,7 @@ which Sambethe harboured in her breast was not a devil nor was her
 Apollo a false god, for idolatry did not begin until long after the
 division of languages, and it would be far from the truth to attribute
 to the Father of Lies the sacred books of the Sibyls <span
-id="fr_74"></span>[LX](#fn_74), and all the proofs of the true religion
+id="fr_74"></span>[LX](#fn_74.md), and all the proofs of the true religion
 which the Fathers have drawn from them. And then, too, my Son," he
 laughingly continued, "it is not for you to annul the marriage of David
 and the Sibyl which was made by a celebrated cardinal, nor to accuse
@@ -255,7 +255,7 @@ I am aware of the veneration you entertain for those great men. Their
 religion and the interest they took in the matter might have prejudiced
 them, and seeing Truth to be rather poor and naked in their own time,
 their love of her might have caused them to borrow from  <span
-id="fr_76"></span>[LXI](#fn_76) Falsehood's self some robe and ornament
+id="fr_76"></span>[LXI](#fn_76.md) Falsehood's self some robe and ornament
 for Truth's adornment. They were men and consequently capable of bearing
 false witness, according to the maxim of the Poet of the Synagogue. I
 shall therefore take a man who cannot be suspected of such a motive, a
@@ -267,7 +267,7 @@ namely Porphyry. Here are word for word some Oracles which he reports.
 
 <span id="page_86">p. 86</span> <span id="page_87">p. 87</span>
 
-### ORACLE. <span id="fr_77"></span>[LXII](#fn_77)
+### ORACLE. <span id="fr_77"></span>[LXII](#fn_77.md)
 
 *Above the Celestial Fire there is an Incorruptible Flame, ever
 sparkling, Source of Life, Fountain of all Beings, and Principle of all
@@ -312,7 +312,7 @@ scruple."
 
 <span id="page_90">p. 90</span> <span id="page_91">p. 91</span>
 
-### ORACLE. <span id="fr_80"></span>[LXIII](#fn_80)
+### ORACLE. <span id="fr_80"></span>[LXIII](#fn_80.md)
 
 *Alas Tripods! Weep and make funeral oration for your Apollo. HE IS
 MORTAL, HE IS ABOUT TO DIE, HE EXPIRES; because the Light of the
@@ -338,7 +338,7 @@ heart when he speaks of himself as mortal, or telling the truth under
 compulsion when he speaks of God, then to what will your Cabala ascribe
 all the Oracles which you maintain to have been actually delivered? Is
 it to an exhalation of the earth, as Aristotle, Cicero and Plutarch
-say?" <span id="fr_81"></span>[LXIV](#fn_81)
+say?" <span id="fr_81"></span>[LXIV](#fn_81.md)
 
 "Ah! not to that my child," said the Comte. "Thanks to the Sacred Cabala
 my imagination has not led me astray to that extent."
@@ -350,7 +350,7 @@ sense."
 "Not in this instance," he replied, "and it is impossible to attribute
 to an exhalation all that happened in the Oracles. For example, that man
 in Tacitus, who appeared in a dream to the priests of a temple
-ofHercules <span id="fr_82"></span>[LXV](#fn_82) in Armenia, and
+ofHercules <span id="fr_82"></span>[LXV](#fn_82.md) in Armenia, and
 commanded them to make ready for him hunters equipped for the chase. Up
 to this point exhalation might account for it: but when those horses
 returned in the evening jaded, and their quivers emptied of shafts; and
@@ -383,7 +383,7 @@ man.'' They fear lest men should make of the Oracles 'a lad= der
 wherewith to mount to God, Whom they''dread
 
 to acknowledge as manifesting through gradations of His spiritual
-creatures <span id="fr_83"></span>[LXVI](#fn_83), and they prefer to
+creatures <span id="fr_83"></span>[LXVI](#fn_83.md), and they prefer to
 manufac ture a ladder to descend into nothingness. Instead of mounting
 towards heaven they delve into the earth, ;ày. and instead of seeking in
 Beings superior to man 'the cause if those transports which lift him
@@ -414,7 +414,7 @@ block of the greatest minds. Aristotle, great logician though he was,
 could not avoid the snare into which the passion for singularity leads
 those whom it unbalances as violently as it did him. He could not, I
 say, avod becoming entangled and contradicting himself. In is hook on
-'The Generation of Animals' <span id="fr_84"></span>[LXVII](#fn_84) and
+'The Generation of Animals' <span id="fr_84"></span>[LXVII](#fn_84.md) and
 in his 'Ethics,' he says that the
 
 <span id="page_98">p. 98</span> <span id="page_99">p. 99</span>
@@ -425,7 +425,7 @@ operations of man's soul he concludes it to be of a different nature to
 that composite material which it animates, the grossness of which only
 serves to becloud speculation and is far from contributing to its
 production. Blind Aristotle! Since you maintain <span
-id="fr_85"></span>[LXVIII](#fn_85) that the matter of which we are
+id="fr_85"></span>[LXVIII](#fn_85.md) that the matter of which we are
 composed cannot be the source of our spiritual thoughts, how can
 youexpect a weak exhalation to be the source of sublime thought and of
 those soaring flights of spirit achieved by those who gave forth the
@@ -436,7 +436,7 @@ himself, and how his craving for singularity leads him astray."
 was talking excellent sense, and hoping that his madness would not prove
 incurable, "God willing--"
 
-"Plutarch, <span id="fr_86"></span>[LXIX](#fn_86) so sound in other
+"Plutarch, <span id="fr_86"></span>[LXIX](#fn_86.md) so sound in other
 respects," he said, interrupting me, "moves me to pity in his dialogue
 concerning the 'Cessation of the Oracles.' Convincing objections are
 raised which he in no wise refutes. Why does he not answer what is said
@@ -462,7 +462,7 @@ good sense and, not knowing what conclusion to draw from all these
 Oracles, after tedious irresolution, he decided that this exhalation,
 which he believed issued from the earth, was a most divine spirit. Thus
 he ascribed to divinity the extraordinary agitations and illuminations
-of the Priestesses of Apollo <span id="fr_88"></span>[LXX](#fn_88).
+of the Priestesses of Apollo <span id="fr_88"></span>[LXX](#fn_88.md).
 '*This divinatory vapour is a breath and a most divine and most holy
 spirit*,' said he."
 
@@ -486,7 +486,7 @@ to the Devil."
 "Then to whom should one attribute them? " said I, "I have long awaited
 this Cabalistic secret."
 
-"Plutarch <span id="fr_89"></span>[LXXI](#fn_89) has very well indicated
+"Plutarch <span id="fr_89"></span>[LXXI](#fn_89.md) has very well indicated
 it," he said, "and he would have been wise had he let matters rest
 there. Since this irregular method of expressing one's opinion by means
 of an unseemly organ was neither solemn enough nor sufficiently worthy
@@ -518,7 +518,7 @@ conversing with all these Inhabitants of the Air."
 ceremony which had to be observed
 
 for that communion: and that Jew Micah <span
-id="fr_90"></span>[LXXII](#fn_90), who complains in the Book of Judges
+id="fr_90"></span>[LXXII](#fn_90.md), who complains in the Book of Judges
 that his gods have been taken from him, only laments the loss of the
 little image through which the Sylphs used to converse with him. The
 gods which Rachel stole from her father were also Teraphim. Neither
@@ -559,7 +559,7 @@ responses with double meanings which they always give?"
 
 "Always? " he replied. " Ah! not always. Did the Sylphid speak very
 obscurely who appeared to that Roman in Asia <span
-id="fr_91"></span>[LXXIII](#fn_91) and predicted to him that he would
+id="fr_91"></span>[LXXIII](#fn_91.md) and predicted to him that he would
 one day return to Rome with the dignity of Proconsul?
 
 <span id="page_108">p. 108</span> <span id="page_109">p. 109</span>
@@ -568,7 +568,7 @@ one day return to Rome with the dignity of Proconsul?
 Tacitus say that the event occurred exactly as predicted? That
 inscription and a those statues famous in the history of Spain which
 warned unfortunate King Rodriguez <span
-id="fr_92"></span>[LXXIV](#fn_92) that his indiscretion and incontinence
+id="fr_92"></span>[LXXIV](#fn_92.md) that his indiscretion and incontinence
 would be punished by men dressed and armed exactly as they were, and
 that those black men would take possession of Spain and rule there for
 many a year. Could anything have been more explicit, and was not the
@@ -590,7 +590,7 @@ fail to perceive the physical reason which causes the flaming Salamander
 naturally to de-
 
 light in the most igneous places and to be attracted by--" <span
-id="fr_93"></span>[LXXV](#fn_93)
+id="fr_93"></span>[LXXV](#fn_93.md)
 
 "I understand, I understand," I interrupted, "Do
 
@@ -618,7 +618,7 @@ You must, however, consult your own heart in this matter for, as you
 will one day see, a Sage governs himself by the interior stars, and the
 stars of the exterior heaven but serve to give him a more certain
 knowledge of the aspects of the stars of that interior heaven <span
-id="fr_94"></span>[LXXVI](#fn_94) which is in every creature. Thus it
+id="fr_94"></span>[LXXVI](#fn_94.md) which is in every creature. Thus it
 rests with you to tell me what your
 
 <span id="page_112">p. 112</span> <span id="page_113">p. 113</span>
@@ -632,7 +632,7 @@ consultation."
 "I esteem you for that answer," said he, laying his hand on my shoulder.
 "Consult maturely as to this affair, and above all, with him who is
 called in an eminent degree the Angel of the Grand Council <span
-id="fr_95"></span>[LXXVII](#fn_95). Go, and devote yourself to prayer,
+id="fr_95"></span>[LXXVII](#fn_95.md). Go, and devote yourself to prayer,
 and I shall be at your house at two o'clock to-morrow afternoon."
 
 We came back to Paris, and on the way I led him once more to discourse
@@ -657,7 +657,7 @@ ridiculous
 
 ### Footnotes
 
-<span id="fn_62"></span>[69:XLVIII](cdg07.htm#fr_62) <span
+<span id="fn_62"></span>[69:XLVIII](cdg07.htm#fr_62.md) <span
 id="page_70">p. 70</span> ANCIENT RELIGION OF HIS FATHERS THE
 PHILOSOPHERS. The Philosophers hold that the relation of the Creator to
 His Creation has been the same in all ages; that all creeds evolved by
@@ -667,7 +667,7 @@ the great Teachers of humanity, and Brotherhood of all His creatures, is
 superior to creeds and religions, and will unify them when once
 apprehended.
 
-<span id="fn_63"></span>[71:XLIX](cdg07.htm#fr_63) <span id="page_72">p.
+<span id="fn_63"></span>[71:XLIX](cdg07.htm#fr_63.md) <span id="page_72">p.
 72</span> THE GARDENS OF RUEL AND THE CARDINAL.--RUel, in the department
 of Seine et Oise, is fourteen kilometres distant from Paris, and "is
 situated at the base of those heights on which stood, in olden days, the
@@ -685,7 +685,7 @@ transitoriness of the handiwork of man. A gradual deterioration
 culminating in their destruction during the Revolution has left almost
 no trace of them extant.
 
-<span id="fn_64"></span>[73:L](cdg07.htm#fr_64) <span id="page_74">p.
+<span id="fn_64"></span>[73:L](cdg07.htm#fr_64.md) <span id="page_74">p.
 74</span> MOHAMMEDAN EMBASSY.--The subtle irony of this allusion to the
 strained relations existing between Louis xiv and the Porte at this
 period is made plain by the following statement of the historian, E.
@@ -696,12 +696,12 @@ had been ill treated, was represented at the Porte solely by a merchant
 whom 'the nation' had chosen. There was therefore in that direction a
 lost position for french diplomacy to regain." E. LAVISSE, HISTOIRE DE
 FRANCE. VOL. 7<sup>II</sup> PAGE 203. COMPARE MUHAMMED AND THE
-MUHAMMEDANS. [NOTE R](cdg28.htm#an_R), COMMENTARY CONTINUED.
+MUHAMMEDANS. [NOTE R](cdg28.htm#an_R.md), COMMENTARY CONTINUED.
 
-<span id="fn_65"></span>[73:LI](cdg07.htm#fr_65) KING SAUL. [NOTE
-S](cdg29.htm#an_S), COMMENTARY CONTINUED.
+<span id="fn_65"></span>[73:LI](cdg07.htm#fr_65.md) KING SAUL. [NOTE
+S](cdg29.htm#an_S.md), COMMENTARY CONTINUED.
 
-<span id="fn_66"></span>[75:LII](cdg07.htm#fr_66) <span id="page_76">p.
+<span id="fn_66"></span>[75:LII](cdg07.htm#fr_66.md) <span id="page_76">p.
 76</span> ENGASTRIMYTHS.--For it would be too absurd and puerile to
 conclude that God Himself, in the guise of Engastrimyths, that is to say
 tutelary deities speaking from within the abdomen, such as were of old
@@ -711,10 +711,10 @@ who thus introduces God into human affairs is lacking in reverence for
 His Greatness, nor does he maintain the Majesty and Glory of God's
 Worth. TRANSLATED FROM PLUTARCH'S CESSATION OF THE ORACLES. CHAPTER ix.
 
-<span id="fn_67"></span>[75:LIII](cdg07.htm#fr_67) THE ORACLE OF DODONA.
-[NOTE T](cdg30.htm#an_T), COMMENTARY CONTINUED.
+<span id="fn_67"></span>[75:LIII](cdg07.htm#fr_67.md) THE ORACLE OF DODONA.
+[NOTE T](cdg30.htm#an_T.md), COMMENTARY CONTINUED.
 
-<span id="fn_68"></span>[75:LIV](cdg07.htm#fr_68) MAIDENS OF GAUL.--Sena
+<span id="fn_68"></span>[75:LIV](cdg07.htm#fr_68.md) MAIDENS OF GAUL.--Sena
 being situate in the Britishe Sea, against the countrie of the
 Osis-Myes, is renowned with the Oracle of the God of the Galles, whose
 Vow-esses in number nine, are hallowed to continuall Virginitie. They
@@ -730,16 +730,16 @@ THE RARE AND SINGULER WORK OF POMPONIUS MELA, THAT EXCELLENT AND WORTHY
 COSMOGRAPHER. TRANSLATED INTO ENGLISH BY ARTHUR GOLDING, GENTLEMAN,
 LONDON, 1590. BOOK., III., CHAPTER vi.
 
-<span id="fn_69"></span>[77:LV](cdg07.htm#fr_69) MASTER OF ISRAEL.--an
+<span id="fn_69"></span>[77:LV](cdg07.htm#fr_69.md) MASTER OF ISRAEL.--an
 official interpreter of the sacred books of the Jews. The Comte's words
 are quoted from the third chapter of the Gospel of St. John.
 
-<span id="fn_70"></span>[77:LVI](cdg07.htm#fr_70) DIVINE NAMES.--"It
+<span id="fn_70"></span>[77:LVI](cdg07.htm#fr_70.md) DIVINE NAMES.--"It
 must be obsérved that these divine names were produced by scientific men
 energising according to a divine afflatus," THOMAS TAYLOR," THE CRATYLUS
 OF PLATO." NOTE PAGE 131.
 
-<span id="fn_71"></span>[77:LVII](cdg07.htm#fr_71) AGLA.--Every letter
+<span id="fn_71"></span>[77:LVII](cdg07.htm#fr_71.md) AGLA.--Every letter
 of the Hebrew alphabet has hidden or sacred meaning, knowledge of which
 renders Hebrew names self interpretative. The four letters of the word
 AGLA and their significance are:--
@@ -781,15 +781,15 @@ land and day there exists that spoken Word or Name, inner key of
 spiritual knowledge possessed by the hierophants of all ages, to the
 power of which Christ testified, saying " the works that I do in my
 Father's Name, they bear witness of me." COMPARE THE DIVINE POWER OF
-LETTERS, [NOTE U](cdg31.htm#an_U), COMMENTARY CONTINUED.
+LETTERS, [NOTE U](cdg31.htm#an_U.md), COMMENTARY CONTINUED.
 
-<span id="fn_72"></span>[79:LVIII](cdg07.htm#fr_72) CELIUS RHODIGINUS
-AND HIS ORACLE. [NOTE V](cdg32.htm#an_V), COMMENTARY CONTINUED.
+<span id="fn_72"></span>[79:LVIII](cdg07.htm#fr_72.md) CELIUS RHODIGINUS
+AND HIS ORACLE. [NOTE V](cdg32.htm#an_V.md), COMMENTARY CONTINUED.
 
-<span id="fn_73"></span>[81:LIX](cdg07.htm#fr_73) SAMBETHE, THE DAUGHTER
-OF NOAH. [NOTE W](cdg33.htm#an_W), COMMENTARY CONTINUED.
+<span id="fn_73"></span>[81:LIX](cdg07.htm#fr_73.md) SAMBETHE, THE DAUGHTER
+OF NOAH. [NOTE W](cdg33.htm#an_W.md), COMMENTARY CONTINUED.
 
-<span id="fn_74"></span>[81:LX](cdg07.htm#fr_74) SACRED BOOKS OF THE
+<span id="fn_74"></span>[81:LX](cdg07.htm#fr_74.md) SACRED BOOKS OF THE
 SIBYLS.--Under the title of "Oracles of the Sibyls" there exists a
 collection of verses in Greek hexameter in fourteen books, which has
 long been regarded as an authentic collection of the prophecies of the
@@ -825,23 +825,23 @@ most ancient of the Sibyls, is seen to have initiated the Sibylline
 Oracles which guided the destinies of ancient Rome as well as the
 Delphic Oracles which exercised such influence over the evolution of
 ancient Greece. And if Justin Martyr's statement <span
-id="fr_75"></span>[\*](#fn_75) as to the tenor of her teachings is to be
+id="fr_75"></span>[\*](#fn_75.md) as to the tenor of her teachings is to be
 believed, we must conclude that the
 
 TRUE RELIGION EXISTED IN BOTH ROME AND GREECE PRIOR TO THE CHRISTIAN ERA
 AND DURING WHAT IS NOW TERMED THE PAGAN PERIOD.
 
-<span id="fn_75"></span>[81:\*](cdg07.htm#fr_75) GIVEN [NOTE
-X](cdg34.htm#an_X), COMMENTARY CONTINUED.
+<span id="fn_75"></span>[81:\*](cdg07.htm#fr_75.md) GIVEN [NOTE
+X](cdg34.htm#an_X.md), COMMENTARY CONTINUED.
 
-SIBYLLINE PROPHECY OF WORLD PEACE. [NOTE II](cdg46.htm#an_II),
+SIBYLLINE PROPHECY OF WORLD PEACE. [NOTE II](cdg46.htm#an_II.md),
 COMMENTARY CONCLUDED.
 
-<span id="fn_76"></span>[85:LXI](cdg07.htm#fr_76) <span id="page_87">p.
+<span id="fn_76"></span>[85:LXI](cdg07.htm#fr_76.md) <span id="page_87">p.
 87</span> MAXIM OF THE POET OF THE SYNAGOGUE. "I said in my haste, all
 men are liars." PSALMS OF DAVID, CXV1, 11.
 
-<span id="fn_77"></span>[87:LXII](cdg07.htm#fr_77) <span id="page_88">p.
+<span id="fn_77"></span>[87:LXII](cdg07.htm#fr_77.md) <span id="page_88">p.
 88</span> THE PRINCIPLE OF ALL THINGS.--BEYOND THE SUN IN THE DIRECTION
 OF THE DOG STAR LIES THAT INCORRUPTIBLE FLAME OR SUN, PRINCIPLE OF ALL
 THINGS, WILLING OBEDIENCE FROM OUR OWN SUN WHICH IS BUT A MANIFESTATION
@@ -858,7 +858,7 @@ radiation of that divine consciousness known as the Christ Ray or
 Paraclete.
 
 To the Egyptians the Sun behind the Sun was known as Osiris, <span
-id="fr_78"></span>[\*](#fn_78) said to be the husband of Isis (Nature)
+id="fr_78"></span>[\*](#fn_78) said to be the husband of Isis (Nature.md)
 and parent of Horus (the Sun), symbolically represented as a hawk
 because that bird flies nearest the Sun. This ancient people knew that
 once every year the Parent Sun is in line with the Dog Star. Therefore
@@ -874,7 +874,7 @@ celestial light." "North and South of that crown is love" proclaims an
 Egyptian hymn. "And thus throughout the teaching of Egypt the visible
 light was but the shadow of the invisible Light; and in the wisdom of
 that ancient country the measures of Truth were the years of the Most
-High." <span id="fr_79"></span>[†](#fn_79) The adorable Fire and immense
+High." <span id="fr_79"></span>[†](#fn_79.md) The adorable Fire and immense
 depth of Flame which the human heart must not fear to touch is that
 power proceeding from the Lord and Giver of Life, the Creative Principle
 of the Universe, the Sun behind the Sun.
@@ -889,13 +889,13 @@ end. We thus reach the remarkable result that the gallery was a gigantic
 gnomon or sundial telling, not like ordinary sundials the hour of the
 day, but on a more impressive scale, the seasons of the year."
 
-<span id="fn_78"></span>[87:\*](cdg07.htm#fr_78) AND ALSO AS AMEN-RA,
+<span id="fn_78"></span>[87:\*](cdg07.htm#fr_78.md) AND ALSO AS AMEN-RA,
 THE HIDDEN SUN.
 
-<span id="fn_79"></span>[87:†](cdg07.htm#fr_79) MARSHAM ADAMS "THE BOOK
+<span id="fn_79"></span>[87:†](cdg07.htm#fr_79.md) MARSHAM ADAMS "THE BOOK
 OF THE MASTER." PAGE 141-2.
 
-<span id="fn_80"></span>[91:LXIII](cdg07.htm#fr_80) <span
+<span id="fn_80"></span>[91:LXIII](cdg07.htm#fr_80.md) <span
 id="page_92">p. 92</span> THE DELPHIC ORACLE'S PROPHECY REGARDING
 CHRIST.--This prophecy foretells the silence of the Oracles subsequent
 to the cdming of Christ, the Light of the Celestial Flame." Its
@@ -908,7 +908,7 @@ had received any public help or benefit from the Gods. And Plutarch
 wrote his treatise affirming the "Cessation of  the Oracles" during the
 first century of the Christian Era.
 
-<span id="fn_81"></span>[93:LXIV](cdg07.htm#fr_81) <span id="page_94">p.
+<span id="fn_81"></span>[93:LXIV](cdg07.htm#fr_81.md) <span id="page_94">p.
 94</span> ARISTOTLE ON EXHALATION.--Likewise there exist in many parts
 of the world openings through which exhalations escape, some of these
 cause those who approach them to become inspired, while others make
@@ -930,10 +930,10 @@ is a breath and a most divine and most holy Spirit, (literally, divine
 it is in very fact and supernatural). TRANSLATED FROM PLUTARCH MORALIA,
 "DE DEFECTU ORACULORUM" §438 C, D.
 
-<span id="fn_82"></span>[93:LXV](cdg07.htm#fr_82) TEMPLE OF HERCULES IN
-ARMENIA. [NOTE Y](cdg35.htm#an_Y), COMMENTARY CONTINUED.
+<span id="fn_82"></span>[93:LXV](cdg07.htm#fr_82.md) TEMPLE OF HERCULES IN
+ARMENIA. [NOTE Y](cdg35.htm#an_Y.md), COMMENTARY CONTINUED.
 
-<span id="fn_83"></span>[95:LXVI](cdg07.htm#fr_83) <span id="page_96">p.
+<span id="fn_83"></span>[95:LXVI](cdg07.htm#fr_83.md) <span id="page_96">p.
 96</span> GRADATIONS OF HIS SPIRITUAL CREATURES.--The purpose of this
 book is to point out to man the possibility of his own divine evolution
 and to make plain to him that through obedience to the highest instincts
@@ -956,9 +956,9 @@ religion of the future will be a knowledge of Truth which the science of
 the future will sublimely sustain, while the aim of both will be to
 instruct humanity as to its place in the Divine Plan and as to the Law
 of Nature, God, which wills obedience from all things. COMPARE PLATO ON
-MAN'S PLACE IN NATURE, [NOTE Z](cdg36.htm#an_Z), COMMENTARY CONTINUED.
+MAN'S PLACE IN NATURE, [NOTE Z](cdg36.htm#an_Z.md), COMMENTARY CONTINUED.
 
-<span id="fn_84"></span>[97:LXVII](cdg07.htm#fr_84) THE GENERATION OF
+<span id="fn_84"></span>[97:LXVII](cdg07.htm#fr_84.md) THE GENERATION OF
 ANIMALS.--"Plainly those principles whose activity is bodily cannot
 exist without a body, e.g. walking cannot exist without feet. For the
 same reason also they cannot enter from outside. It remains, then, for
@@ -981,13 +981,13 @@ life and Happiness which is in accordance with them. But that of the
 Pure Intellect is separate and distinct." ARISTOTLE'S NICOMACHEAN
 ETHICS. CHASE'S TRANSLATION. EXTRACTS BOOK X, CHAPTER vi.
 
-<span id="fn_85"></span>[99:LXVIII](cdg07.htm#fr_85) <span
+<span id="fn_85"></span>[99:LXVIII](cdg07.htm#fr_85.md) <span
 id="page_100">p. 100</span> 384 B.C. ARISTOTLE, 322 B.C., the disciple
 of Plato. "Aristotle and Plato are reckoned the respective heads of two
 schools. A wise man will see that Aristotle Platonises." <span
-id="fr_87"></span>[\*](#fn_87)
+id="fr_87"></span>[\*](#fn_87.md)
 
-<span id="fn_86"></span>[99:LXIX](cdg07.htm#fr_86) 45 A.D. PLUTARCH, 120
+<span id="fn_86"></span>[99:LXIX](cdg07.htm#fr_86.md) 45 A.D. PLUTARCH, 120
 A.D.--A Greek Initiate, for many years priest of Apollo apparently at
 Delphi. "You know that I have served the Pythian God for many Pythiads
 past, yet you would not now tell me, 'you have taken part enough in the
@@ -995,9 +995,9 @@ sacrifices, processions and dances, and it is high time Plutarch, now
 you are an old man, to lay aside your garland, and retire as
 superannuated from the Oracle.'"
 
-<span id="fn_87"></span>[99:\*](cdg07.htm#fr_87) Ralph Waldo Emerson.
+<span id="fn_87"></span>[99:\*](cdg07.htm#fr_87.md) Ralph Waldo Emerson.
 
-<span id="fn_88"></span>[101:LXX](cdg07.htm#fr_88) <span
+<span id="fn_88"></span>[101:LXX](cdg07.htm#fr_88.md) <span
 id="page_102">p. 102</span> PRIESTESSES OF APOLLO.--"But the prophetess
 at Delphi, whether she gives oracles to mankind through an attenuated
 and fiery spirit, bursting from the mouth of the cavern, or whether
@@ -1015,7 +1015,7 @@ the spirit the proper seat, and, in short, from all the visible
 apparatus of the place, whether physical or sacred." IAMBLICHUS ON THE
 MYSTERIES. SECTION III, CHAPTER xi. THOMAS TAYLOR'S TRANSLATION.
 
-<span id="fn_89"></span>[103:LXXI](cdg07.htm#fr_89) <span
+<span id="fn_89"></span>[103:LXXI](cdg07.htm#fr_89.md) <span
 id="page_103">p. 103</span> PLUTARCH ON THE ORACLES.--"We have formerly
 shown that he (Plutarch) owned the unity of a Godhead; whom, according
 to his attributes, he calls by several names, as Jupiter from his
@@ -1035,10 +1035,10 @@ tumbled down again into mortal bodies, and sinking into flesh after they
 have lost that purity which constituted their glorious being. And this
 sort of Genii are those who, as our author imagines, presided over
 oracles." A. H. CLOUGH: INTRODUCTION TO PLUTARCH'S LIVES. COMPARE SIR
-THOMAS BROWNE ON MAN'S PLACE IN NATURE, [NOTE AA](cdg37.htm#an_AA),
+THOMAS BROWNE ON MAN'S PLACE IN NATURE, [NOTE AA](cdg37.htm#an_AA.md),
 COMMENTARY CONTINUED.
 
-<span id="fn_90"></span>[105:LXXII](cdg07.htm#fr_90) <span
+<span id="fn_90"></span>[105:LXXII](cdg07.htm#fr_90.md) <span
 id="page_106">p. 106</span> MICAH.--"And the man Micah had an house of
 gods, and made an ephod, and teraphim, and conse- crated one of his
 sons, who became his priest. And there was a young man out of
@@ -1079,15 +1079,15 @@ And among other reasons why Rachel stole away her father's images, this
 is thought to be one, that Laban might not, by consulting with these
 Images, discover what way Jacob took his flight." THOMAS GODWYN.
 
-<span id="fn_91"></span>[107:LXXIII](cdg07.htm#fr_91) LCOMMENTARY. THAT
-ROMAN IN ASIA WAS CURTIUS RUFUS. [NOTE BB](cdg38.htm#an_BB), COMMENTARY
+<span id="fn_91"></span>[107:LXXIII](cdg07.htm#fr_91.md) LCOMMENTARY. THAT
+ROMAN IN ASIA WAS CURTIUS RUFUS. [NOTE BB](cdg38.htm#an_BB.md), COMMENTARY
 CONTINUED.
 
-<span id="fn_92"></span>[109:LXXIV](cdg07.htm#fr_92) <span
-id="page_110">p. 110</span> KING RODRIGUEZ.--[NOTE CC](cdg39.htm#an_CC),
+<span id="fn_92"></span>[109:LXXIV](cdg07.htm#fr_92.md) <span
+id="page_110">p. 110</span> KING RODRIGUEZ.--[NOTE CC](cdg39.htm#an_CC.md),
 COMMENTARY CONTINUED.
 
-<span id="fn_93"></span>[109:LXXV](cdg07.htm#fr_93) DUAL ASPECT OF SOLAR
+<span id="fn_93"></span>[109:LXXV](cdg07.htm#fr_93.md) DUAL ASPECT OF SOLAR
 FORCE.--Allusion is here made to the fact that the force manifesting in
 generation is identical with that which, when rightly controlled,
 becomes the instrument of regeneration, the upbuilding of the Spiritual
@@ -1104,7 +1104,7 @@ EGYPTIAN BOOK OF THE DEAD.
 him Pteros, because he has the virtue of giving wings." PLATO, "THE
 BANQUET."
 
-<span id="fn_94"></span>[111:LXXVI](cdg07.htm#fr_94) <span
+<span id="fn_94"></span>[111:LXXVI](cdg07.htm#fr_94.md) <span
 id="page_112">p. 112</span> INTERIOR STARS.--Reference is here made to
 the seven principal ganglia of the sympathetic nervous system. When
 awakened and stimulated by the inflowing Solar Force, these centres
@@ -1113,10 +1113,10 @@ luminositly. In Sanskrit works the planets are held to govern these
 ganglia as follows: Saturn the sacral, Jupiter the prostatic, Mars the
 epigastric, Venus the cardiac, Mercury the pharyngeal, Moon the post
 nasal, Sun the pineal. COMPARE THE INMATES OF THE CAVE, OR THE STORY OF
-THE SEVEN SLEEPERS, AS RELATED IN THE KORAN. [NOTE DD](cdg40.htm#an_DD),
+THE SEVEN SLEEPERS, AS RELATED IN THE KORAN. [NOTE DD](cdg40.htm#an_DD.md),
 COMMENTARY CONTINUED.
 
-<span id="fn_95"></span>[113:LXXVII](cdg07.htm#fr_95)
+<span id="fn_95"></span>[113:LXXVII](cdg07.htm#fr_95.md)
 
 ANGEL OF THE GRAND COUNCIL.--when a group of souls is sent forth from
 the Infinite Mind to perform a desired work and to gain a definite range
@@ -1133,7 +1133,7 @@ of consciousness, a knowledge
 of the divine plan and purpose  
 for which they  
 incarnated. COMPARE  
-SLEEP. [NOTE EE](cdg41.htm#an_EE),  
+SLEEP. [NOTE EE](cdg41.htm#an_EE.md),  
 COMMENTARY  
 CONTINUED  
 .  
@@ -1141,4 +1141,4 @@ CONTINUED
 
 ------------------------------------------------------------------------
 
-[Next: Discourse IV](cdg08)
+[Next: Discourse IV](cdg08.md)

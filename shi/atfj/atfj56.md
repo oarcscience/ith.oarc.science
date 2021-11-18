@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj55)  [Next](atfj57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj55)  [Next](atfj57.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_59"></span> <span align="CENTER"> [![59. Harada and
 Gundayu Fencing](tn/59.jpg)  
-Click to enlarge](img/59.jpg)  
+Click to enlarge](img/59.jpg.md)  
 59. Harada and Gundayu Fencing  
 </span>
 
@@ -177,6 +177,6 @@ Hakuja no Myojin, The White Serpent God.
 
 ------------------------------------------------------------------------
 
-[Next: LV. A Festival of the Awabi Fish](atfj57)
+[Next: LV. A Festival of the Awabi Fish](atfj57.md)
 
 </div>

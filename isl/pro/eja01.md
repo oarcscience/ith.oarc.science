@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](eja00)  [Next](eja02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](eja00)  [Next](eja02.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,4 +177,4 @@ success.
 
 ------------------------------------------------------------------------
 
-[Next: Owners of The Ditch](eja02)
+[Next: Owners of The Ditch](eja02.md)

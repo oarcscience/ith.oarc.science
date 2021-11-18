@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk05)  [Next](tpk07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk05)  [Next](tpk07.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ Sometimes King Alpha has to perform special medical attention.
 
 ------------------------------------------------------------------------
 
-[Next: Royal Notice](tpk07)
+[Next: Royal Notice](tpk07.md)

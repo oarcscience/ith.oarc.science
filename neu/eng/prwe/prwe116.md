@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe115)  [Next](prwe117) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe115)  [Next](prwe117.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ to any man's disturbance." \[a\]
 
 ------------------------------------------------------------------------
 
-[Next: A Flying Spirit](prwe117)
+[Next: A Flying Spirit](prwe117.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia39)  [Next](aia41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia39)  [Next](aia41.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 the&lt;/i&gt; GREAT PLAGUE &lt;i&gt;in&lt;/i&gt; 1665,
 &lt;i&gt;published by&lt;/i&gt; W. LILLY, &lt;i&gt;in the&lt;/i&gt; YEAR
 1651.](tn/29300.jpg)  
-Click to enlarge](img/29300.jpg)  
+Click to enlarge](img/29300.jpg.md)  
 FAC-SIMILE *of th*e HIEROGLYPHIC *of the* GREAT PLAGUE *in* 1665,
 *published by* W. LILLY, *in the* YEAR 1651.  
 
@@ -24,7 +24,7 @@ FAC-SIMILE *of th*e HIEROGLYPHIC *of the* GREAT PLAGUE *in* 1665,
 &lt;i&gt;of the&lt;/i&gt; GREAT FIRE &lt;i&gt;in&lt;/i&gt; LONDON,
 SEPTEMBER 2&lt;i&gt;d&lt;/i&gt;, 1566, &lt;i&gt;published by&lt;/i&gt;
 W. LILLY, &lt;i&gt;in the&lt;/i&gt; YEAR 1651.](tn/29400.jpg)  
-Click to enlarge](img/29400.jpg)  
+Click to enlarge](img/29400.jpg.md)  
 FAC-SIMILE *of the* ASTROLOGICAL HIEROGLYPHIC *of the* GREAT FIRE *in*
 LONDON, SEPTEMBER 2*d*, 1566, *published by* W. LILLY, *in the* YEAR
 1651.  
@@ -55,4 +55,4 @@ and of the substantial truth of the science of astrology.
 ------------------------------------------------------------------------
 
 [Next: Description of Persons According as the Significator may be Found
-in Each of the Twelve Signs](aia41)
+in Each of the Twelve Signs](aia41.md)

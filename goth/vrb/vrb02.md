@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vrb01)  [Next](vrb03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vrb01)  [Next](vrb03.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ resonating through them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One: An Introduction to Ritual](vrb03)
+[Next: Chapter One: An Introduction to Ritual](vrb03.md)

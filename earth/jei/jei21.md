@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei20)  [Next](jei22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei20)  [Next](jei22.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,7 +103,7 @@ existence of what are called, in England, "pot-holes," which are deep
 and ramifying caverns in the earth which may extend to a depth of nearly
 a thousand feet, disclosing to the explorer vast chambers hundreds of
 feet high, connected by smaller passages. Obviously where the earth is
-thus [honeycombed](errata.htm#92) a subterranean landslide may take
+thus [honeycombed](errata.htm#92.md) a subterranean landslide may take
 place at any time, due, perhaps, to water erosion in the caverns, and
 the result would be a local earthquake.
 
@@ -129,7 +129,7 @@ abatement or cessation, and they tell us it is now raging with
 inconceivable fury in the bowels of our own earth and within all the
 planets, and, in accordance with their ideas, it seems likely to
 continue burning on forever. They conclude by computation that this fire
-occupies more than [thirty-five](errata.htm#93) out of thirty-six parts
+occupies more than [thirty-five](errata.htm#93.md) out of thirty-six parts
 of this globe, and in some inexplicable manner, they have been enabled
 to keep this positive element in active operation, without furnishing
 one particle of combustible material to replenish its exhausted
@@ -178,7 +178,7 @@ what great tides the sun and moon by
 <span id="img_34600"></span>
 
 [![The Symmes Model of the Hollow Earth](tn/34600.jpg)  
-Click to enlarge](img/34600.jpg)  
+Click to enlarge](img/34600.jpg.md)  
   
 
 As so many people have thought our theory was in some way like that of
@@ -190,7 +190,7 @@ its own axis at a rate differing from the rate at which any other shell
 is revolving. In the interior of each individual shell there are great
 hollow spaces or cavities and in each of these large spaces there is
 life, as well as there being life on the surface of each of the shells.
-Besides [these](errata.htm#94) immense spaces in each shell there are
+Besides [these](errata.htm#94.md) immense spaces in each shell there are
 smaller spaces or gas pockets. And it should be noticed that on Symmes'
 theory there is no central sun. And as there is no central sun there can
 be no light in the interior except the very little that reaches the
@@ -322,7 +322,7 @@ theorizing.
 First we will call to the witness stand Professor A. E. H. Love who
 wrote for the Science Progress, Volume of 1912, a review of the third
 edition of Sir G. H. Darwin's book, "The Tides and Kindred
-[Phenomena](errata.htm#95)
+[Phenomena](errata.htm#95.md)
 
 <span id="page_351">p. 351</span>
 
@@ -404,7 +404,7 @@ say:
 "When regular series of observations are made it is found that the
 pendulum is hardly ever steady. . . . Some days it may be more quiet
 than others and generally there is evidence of distinct
-[diurnal](errata.htm#96) periods, but the minor zig-zags constantly
+[diurnal](errata.htm#96.md) periods, but the minor zig-zags constantly
 interrupt and sometimes reverse for an hour together the slower march
 northward or southward."
 
@@ -475,12 +475,12 @@ solid crust, less and less probable. And the geologist had to conclude
 that, as long as physics would not supply more reliable data for a
 mathematical investigation, he had better leave the question as to the
 physical state of the inner parts of the earth unsolved, and study the
-[dynamic](errata.htm#97) processes which are going on in the superficial
+[dynamic](errata.htm#97.md) processes which are going on in the superficial
 layers of the planet."
 
 Now if that is not a confession of the bankruptcy of orthodox science in
 this realm we do not know what would be so considered. The problem is
-frankly and totally given up. Does not that [justify](errata.htm#98) a
+frankly and totally given up. Does not that [justify](errata.htm#98.md) a
 man, who is not a scientist but who has observed the facts, to enter the
 field and propound a theory, especially when the theory shows just why
 the problem has to be given up by the scientists: because it concerns
@@ -515,4 +515,4 @@ the matter and is capable of the direct proof of observation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. How Our Theory Differs From That of Symmes](jei22)
+[Next: Chapter XIX. How Our Theory Differs From That of Symmes](jei22.md)

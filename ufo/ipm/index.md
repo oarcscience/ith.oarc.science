@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ipm00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ipmtxt.zip)
+[Contents](#contents)    [Start Reading](ipm00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ipmtxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -58,18 +58,18 @@ published.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ipm00)  
-[Contents](ipm01)  
-[Translator's Preface](ipm02)  
-[Chapter I. Introduction](ipm03)  
-[Chapter II. Childhood and Youth of Mlle. Smith](ipm04)  
-[Chapter III. Mlle. Smith Since Her Initiation Into Spiritism](ipm05)  
-[Chapter IV. The Personality of Leopold](ipm06)  
-[Chapter V. The Martian Cycle](ipm07)  
+<span id="contents"></span> [Title Page](ipm00.md)  
+[Contents](ipm01.md)  
+[Translator's Preface](ipm02.md)  
+[Chapter I. Introduction](ipm03.md)  
+[Chapter II. Childhood and Youth of Mlle. Smith](ipm04.md)  
+[Chapter III. Mlle. Smith Since Her Initiation Into Spiritism](ipm05.md)  
+[Chapter IV. The Personality of Leopold](ipm06.md)  
+[Chapter V. The Martian Cycle](ipm07.md)  
 [Chapter VI. The Martian Cycle (Continued)—The Martian
-Language](ipm08)  
-[Chapter VII. The Martian Cycle (Concluded).—The Ultra-Martian](ipm09)  
-[Chapter VIII. The Hindoo Cycle](ipm10)  
-[Chapter IX. The Royal Cycle](ipm11)  
-[Chapter X. Supernormal Appearances](ipm12)  
-[Chapter XI. Conclusion](ipm13)  
+Language](ipm08.md)  
+[Chapter VII. The Martian Cycle (Concluded).—The Ultra-Martian](ipm09.md)  
+[Chapter VIII. The Hindoo Cycle](ipm10.md)  
+[Chapter IX. The Royal Cycle](ipm11.md)  
+[Chapter X. Supernormal Appearances](ipm12.md)  
+[Chapter XI. Conclusion](ipm13.md)  

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda16)  [Next](nda18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda16)  [Next](nda18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ period the name of "the time of the Sturlungers" (Sturlungatiden).
 Although the history of this period has been written in a good style,
 with the greatest accuracy, and rare impartiality by an eye-witness and
 participator in the events--Sturle Thordson;
-[notwithstanding](errata.htm#8) the much more important occurrences
+[notwithstanding](errata.htm#8.md) the much more important occurrences
 which are here narrated, as compared with the former periods, and which,
 it might therefore be supposed, would awaken greater interest,--the
 Sturlunga Saga does not present that attraction to the reader which is
@@ -115,7 +115,7 @@ character to the records of the Saga!
 After a short time the Sagas ceased to be produced, for nothing occurred
 that was worthy of being committed to writing; the dry annalist alone
 could fill his note book with the successions of Lagmen or chief
-magistrates, the [weddings](errata.htm#9) of the chiefs, law suits, and
+magistrates, the [weddings](errata.htm#9.md) of the chiefs, law suits, and
 solitary deeds of violence, or more destructive still, with details of
 the ravages of the pestilential diseases which now spread death and
 desolation throughout the land.
@@ -215,7 +215,7 @@ several of them, and Bishop Brynjulf Svendson sent some of the most
 important Icelandic codices to Frederic III. (1670), who was a zealous
 promoter of all intellectual advancement. The Icelander Rugman who,
 taken prisoner in the wars of Charles X. of Sweden, had awakened the
-attention of the [Swedish](errata.htm#10) literati to the literary
+attention of the [Swedish](errata.htm#10.md) literati to the literary
 treasures of his own country, was sent to the island in 1661 to purchase
 manuscripts for the Antiquarian Museum of Stockholm, and many were
 afterwards sent thither on the same errand; but Christian V. of Denmark,
@@ -229,4 +229,4 @@ Copenhagen.
 
 ------------------------------------------------------------------------
 
-[Next: Saga of Erik the Red](nda18)
+[Next: Saga of Erik the Red](nda18.md)

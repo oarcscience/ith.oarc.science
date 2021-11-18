@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](msg0006)  [Next](msg0007) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](msg0006)  [Next](msg0007.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Web<br />
 </tbody>
 </table>
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Internet Book of Shadows*, (Various Authors), \[1999\], at Intangible
 Textual Heritage
 
@@ -240,4 +240,4 @@ Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Physics and the Basic Principle of Visualization Magick](msg0007)
+[Next: Physics and the Basic Principle of Visualization Magick](msg0007.md)

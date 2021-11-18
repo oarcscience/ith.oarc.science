@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth105)  [Next](toth107) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth105)  [Next](toth107.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 103. THE DESTRUCTION OF AOÁTOVI. <span id="fr_188"></span>[1](#fn_186)
+## 103. THE DESTRUCTION OF AOÁTOVI. <span id="fr_188"></span>[1](#fn_186.md)
 
 Halíksai! A long time ago the people were living in Aoátovi. In
 Shongópavi, Mishóngnovi, and Wálpi they were then not yet living on top
@@ -97,10 +97,10 @@ The young men again practiced for three days and then they prepared for
 the Katcina race. Their mothers cooked tû'hpâvu (steamed sweet
 corn-ears), and the next morning four of the young men proceeded to
 Aoátovi, taking the presents with them. One was dressed as
-Hö'msona, <span id="fr_189"></span>[1](#fn_187) the second as a
-Chilítoshmoktaka <span id="fr_190"></span>[2](#fn_188) the third as an
-Angwúshngöntaka, <span id="fr_191"></span>[3](#fn_189) and the fourth as
-a Sik'ápku. <span id="fr_192"></span>[4](#fn_190) When the Katcinas
+Hö'msona, <span id="fr_189"></span>[1](#fn_187.md) the second as a
+Chilítoshmoktaka <span id="fr_190"></span>[2](#fn_188.md) the third as an
+Angwúshngöntaka, <span id="fr_191"></span>[3](#fn_189.md) and the fourth as
+a Sik'ápku. <span id="fr_192"></span>[4](#fn_190.md) When the Katcinas
 carne to Aoátovi they entered the plaza, which was very much like the
 one in Shongópavi at the present day. In the center was a shrine. They
 laid down their sweet corn on the ground and waited. The Katcina chief
@@ -359,21 +359,21 @@ edge of the mesa for their dead ancestors.
 
 ### Footnotes
 
-<span id="fn_186"></span>[246:1](toth106.htm#fr_188) Told by
+<span id="fn_186"></span>[246:1](toth106.htm#fr_188.md) Told by
 Tangakhoyoma (Oraíbi).
 
-<span id="fn_187"></span>[248:1](toth106.htm#fr_189)
+<span id="fn_187"></span>[248:1](toth106.htm#fr_189.md)
 The-One-With-The-Hair-Tied-Up.
 
-<span id="fn_188"></span>[248:2](toth106.htm#fr_190)
+<span id="fn_188"></span>[248:2](toth106.htm#fr_190.md)
 The-One-With-The-Ground-Spanish-Pepper-Wrapped-Up.
 
-<span id="fn_189"></span>[248:3](toth106.htm#fr_191)
+<span id="fn_189"></span>[248:3](toth106.htm#fr_191.md)
 The-One-With-The-Crow-Feathers-Around-The-Neck.
 
-<span id="fn_190"></span>[248:4](toth106.htm#fr_192)
+<span id="fn_190"></span>[248:4](toth106.htm#fr_192.md)
 The-One-With-The-Yellow-Painted-Face.
 
 ------------------------------------------------------------------------
 
-[Next: 104. The Destruction of Aoatovi](toth107)
+[Next: 104. The Destruction of Aoatovi](toth107.md)

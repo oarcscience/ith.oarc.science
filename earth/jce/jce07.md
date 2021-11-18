@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce06)  [Next](jce08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce06)  [Next](jce08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -205,7 +205,7 @@ It was conceived in the following terms:
 In Sneffels Joculis craterem quem delibat  
 Umbra Scartaris Julii intra calendas descende,  
 Audax viator, et terrestre centrum attinges.  
-Quod feci, Arne Saknussemm.  <span id="fr_2"></span>[3](#fn_2)
+Quod feci, Arne Saknussemm.  <span id="fr_2"></span>[3](#fn_2.md)
 
 </div>
 
@@ -245,10 +245,10 @@ dining-room.
 
 ### Footnotes
 
-<span id="fn_2"></span>[3](jce07.htm#fr_2) In the cipher, *audax* is
+<span id="fn_2"></span>[3](jce07.htm#fr_2.md) In the cipher, *audax* is
 written *avdas*, and *quod* and *quem*, *hod* and *ken*. (Tr.)
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. Exciting Discussions About an Unparalleled
-Enterprise](jce08)
+Enterprise](jce08.md)

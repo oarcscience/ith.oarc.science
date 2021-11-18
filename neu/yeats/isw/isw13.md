@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw12)  [Next](isw14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw12)  [Next](isw14.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ find the buskin and the sock.
 
 ------------------------------------------------------------------------
 
-[Next: On Baile's Strand: A Play](isw14)
+[Next: On Baile's Strand: A Play](isw14.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb10)  [Next](olfb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb10)  [Next](olfb12.md) 
 
 </div>
 
@@ -297,6 +297,6 @@ for it is she who has turned the coward that I was into a brave man.'
 
 ------------------------------------------------------------------------
 
-[Next: Kupti and Imani](olfb12)
+[Next: Kupti and Imani](olfb12.md)
 
 </div>

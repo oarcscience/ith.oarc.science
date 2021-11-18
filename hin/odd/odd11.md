@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd10)  [Next](odd12) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd10)  [Next](odd12.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,8 +10,8 @@
 <span id="img_16"></span> ![](img/16.jpg)
 
 THERE was once upon a time a Rajah named Vicram MahaI rajah  <span
-id="fr_41"></span>[1](#fn_41) who had a Wuzeer, named Butti.  <span
-id="fr_42"></span>[2](#fn_42) Both the Rajah and his minister were left
+id="fr_41"></span>[1](#fn_41.md) who had a Wuzeer, named Butti.  <span
+id="fr_42"></span>[2](#fn_42.md) Both the Rajah and his minister were left
 orphans when very young, and ever since their parents' death they had
 lived together; they were educated together, and they loved each other
 tenderly--like brothers.
@@ -83,7 +83,7 @@ go and sleep there every night.
 
 One night whilst there Vicram had a wonderful dream. He dreamed his
 father appeared to him and said, 'Arise, Vicram, go to the tower for
-lights  <span id="fr_43"></span>[3](#fn_43) which is in front of this
+lights  <span id="fr_43"></span>[3](#fn_43.md) which is in front of this
 temple.'
 
 (For there was in front of the temple a beautiful tower or pyramid for
@@ -214,7 +214,7 @@ when I left it.'
 Vicram Maharajah by what means he should translate his soul into another
 body, and also gave him something, which, being placed within his own
 body when he left it, would preserve it from decay until his return.
- <span id="fr_44"></span>[4](#fn_44)
+ <span id="fr_44"></span>[4](#fn_44.md)
 
 The Carpenter's son, who had been all this time listening outside the
 temple, heard and learnt the spell whereby Gunputti gave Vicram
@@ -435,7 +435,7 @@ would be. I shall never be able to sell you.' But he answered, 'Oh yes,
 you will. See, here comes a merchant down this way; I dare say he will
 buy me.' So the hunter went to the merchant and said to him, 'Pray, sir,
 buy my pretty parrot.' 'How much do you want for him?' asked the
-merchant, 'two rupees?" <span id="fr_45"></span>[5](#fn_45) 'No, sir,'
+merchant, 'two rupees?" <span id="fr_45"></span>[5](#fn_45.md) 'No, sir,'
 answered the hunter, 'I cannot part with him for less than a thousand
 gold mohurs.' 'A thousand gold mohurs!' cried the merchant, 'a thousand
 gold mohurs! I never heard of such a thing in my life I A thousand
@@ -463,7 +463,7 @@ everybody, and very happy.
 
 It happened in the town where the merchant lived there was a very
 accomplished Nautch-girl, named Champa Ranee.  <span
-id="fr_46"></span>[6](#fn_46)She danced so beautifully, that the people
+id="fr_46"></span>[6](#fn_46.md)She danced so beautifully, that the people
 of the town used always to send for her to dance on the occasion of any
 great festival.
 
@@ -536,7 +536,7 @@ First he said to the woodcutter, 'Tell me your version of the story.'
 And the woodcutter answered, 'Polly, Sahib, what I tell is true. I am a
 poor man. I live in the jungle, and earn my living by cutting wood and
 selling it in the bazaar. I never get more than two annas  <span
-id="fr_47"></span>[7](#fn_47) a day. One day I fell asleep and dreamed a
+id="fr_47"></span>[7](#fn_47.md) a day. One day I fell asleep and dreamed a
 silly dream; how I had become rich and married the Champa Ranee, and
 given her as a wedding present a thousand gold mohurs; but it is no more
 true that I owed her a thousand goldi mohurs, or have them to pay, than
@@ -791,7 +791,7 @@ Palace of a certain Rajah, who reigned over a country very far from his
 own, and he sat down with the beggars at the Palace gate.
 
 Now, the Rajah at whose gate Vicram Maharajah sat had a good and lovely
-daughter, named Buccoulee.  <span id="fr_48"></span>[8](#fn_48) Many
+daughter, named Buccoulee.  <span id="fr_48"></span>[8](#fn_48.md) Many
 Princes wished to marry this Princess, but she would marry none of them.
 Her father and mother said to her, 'Why will you not choose a husband?
 Among all these Princes who ask you in marriage there are many rich and
@@ -858,7 +858,7 @@ in his throat,' answered the second.
 'No,' replied the other; 'because they do not know the secret.'--' What
 secret?' asked the first Cobra.--' Don't you know?' said the second;
 'why, if his wife only took a few marking nuts,  <span
-id="fr_49"></span>[9](#fn_49) and pounded them well, and mixed them in
+id="fr_49"></span>[9](#fn_49.md) and pounded them well, and mixed them in
 cocoanut oil, and set the whole on fire, and hung the Rajah, her
 husband, head downwards up in a tree above it, the smoke, rising
 upwards, would instantly kill the Cobra in his mouth, which would tumble
@@ -938,25 +938,25 @@ the Rajah and the Wuzeer.'
 
 ### Footnotes
 
-<span id="fn_41"></span>[1](odd11.htm#fr_41) The great King Vicram.
+<span id="fn_41"></span>[1](odd11.htm#fr_41.md) The great King Vicram.
 
-<span id="fn_42"></span>[2](odd11.htm#fr_42) Light.
+<span id="fn_42"></span>[2](odd11.htm#fr_42.md) Light.
 
-<span id="fn_43"></span>[3](odd11.htm#fr_43) See Notes.
+<span id="fn_43"></span>[3](odd11.htm#fr_43.md) See Notes.
 
-<span id="fn_44"></span>[4](odd11.htm#fr_44) See Notes.
+<span id="fn_44"></span>[4](odd11.htm#fr_44.md) See Notes.
 
-<span id="fn_45"></span>[5](odd11.htm#fr_45) Four shillings.
+<span id="fn_45"></span>[5](odd11.htm#fr_45.md) Four shillings.
 
-<span id="fn_46"></span>[6](odd11.htm#fr_46) The Champa Queen. The
+<span id="fn_46"></span>[6](odd11.htm#fr_46.md) The Champa Queen. The
 Champa (Michelia Champaca) is a beautiful sweet-scented yellow flower.
 
-<span id="fn_47"></span>[7](odd11.htm#fr_47) Threepence.
+<span id="fn_47"></span>[7](odd11.htm#fr_47.md) Threepence.
 
-<span id="fn_48"></span>[8](odd11.htm#fr_48) Ixora Bandhuca.
+<span id="fn_48"></span>[8](odd11.htm#fr_48.md) Ixora Bandhuca.
 
-<span id="fn_49"></span>[9](odd11.htm#fr_49) Semecarpus Anacardium.
+<span id="fn_49"></span>[9](odd11.htm#fr_49.md) Semecarpus Anacardium.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Less Inequality than Men Deem](odd12)
+[Next: VIII. Less Inequality than Men Deem](odd12.md)

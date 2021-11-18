@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim51)  [Next](sim53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim51)  [Next](sim53.md) 
 
 ------------------------------------------------------------------------
 
@@ -217,4 +217,4 @@ them.
 
 ------------------------------------------------------------------------
 
-[Next: A Young Man Rescued by a Toad](sim53)
+[Next: A Young Man Rescued by a Toad](sim53.md)

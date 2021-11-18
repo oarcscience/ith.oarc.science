@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](nazi2)  [Next](phenomen) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](nazi2)  [Next](phenomen.md) 
 
 ### Urge to Investigate and Believe Sparks New Interest in UFOs
 
@@ -176,4 +176,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: The Scientific Context of the UFO/Abduction Phenomenon](phenomen)
+[Next: The Scientific Context of the UFO/Abduction Phenomenon](phenomen.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb25)  [Next](lifb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb25)  [Next](lifb27.md) 
 
 </div>
 
@@ -504,6 +504,6 @@ From 'Le Foyer Breton,' par Emile Souvestre.
 
 ------------------------------------------------------------------------
 
-[Next: The Battle of the Birds](lifb27)
+[Next: The Battle of the Birds](lifb27.md)
 
 </div>

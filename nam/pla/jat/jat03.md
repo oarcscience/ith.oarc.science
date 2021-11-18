@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat02)  [Next](jat04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat02)  [Next](jat04.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,10 +9,10 @@ American](../../index)  [Plains](../index)  [Index](index) 
 
 # TRANSLATIONS.
 
-### 1. THE EMERGENCE. <span id="fr_0"></span>[1](#fn_0)
+### 1. THE EMERGENCE. <span id="fr_0"></span>[1](#fn_0.md)
 
 In the beginning, the people were coming up. He <span
-id="fr_1"></span>[2](#fn_1) made a mountain that continued to increase
+id="fr_1"></span>[2](#fn_1.md) made a mountain that continued to increase
 in height. Then he caused reeds to stand vertically in the center. The
 people were gathered about the mountain, watching. When the reeds were
 approaching the sky, four girls went up the mountain and twisted them.
@@ -23,10 +23,10 @@ were twisted and that those who had done it had gone down. The
 messenger, when he came down, said, "The reeds are twisted."
 
 Then four ladders were made and placed in position: <span
-id="fr_2"></span>[3](#fn_2) one black, one blue, one yellow, and one
+id="fr_2"></span>[3](#fn_2.md) one black, one blue, one yellow, and one
 variegated. Then whirlwind went to the world above and looked. When he
 came back he reported that there was much water there. <span
-id="fr_3"></span>[4](#fn_3)
+id="fr_3"></span>[4](#fn_3.md)
 
 After a time, the one in charge, told Beaver to go and see how
 conditions were. When Beaver got to the upper world, he found the water
@@ -52,7 +52,7 @@ feeble old woman and an old man. The people went away and left them
 sitting there. "Take us out," one of them called after them. The people
 stopped and looked back at the couple but did not take them out. Then
 one of them said, "You will come back here to me." <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 Then the people moved away towards the east along four parallel trails
 under four chiefs. Those who went by the first road had fighting. Those
@@ -68,7 +68,7 @@ country near Taos.
 
 ### Footnotes
 
-<span id="fn_0"></span>[193:1](jat03.htm#fr_0) This account is much
+<span id="fn_0"></span>[193:1](jat03.htm#fr_0.md) This account is much
 abbreviated, Mooney's version speaks of four mountains of the four
 colors; and explains that the girls were picking berries and flowers and
 that their mere presence caused the mountains to stop growing. He
@@ -83,14 +83,14 @@ old woman remained behind from choice. Russell, (a), p. 254.
 
 Compare also, Matthews, pp. 63-76; Franciscan Fathers, pp. 351-2.
 
-<span id="fn_1"></span>[193:2](jat03.htm#fr_1) The person who did this
+<span id="fn_1"></span>[193:2](jat03.htm#fr_1.md) The person who did this
 was Xastc'iniLgaiyîn, White god of the east, assisted by
 Xastc'inyaLkîdn, Talking god of the south, Xastc'inîLtsôyin, Yellow god
 of the west, and Xaste'inîdlôyin, Laughing god of the north. This was
 the order in which they were mentioned. It is usual to associate
 Xastc'inyaLkîdn with the east. Cf. p. 265.
 
-<span id="fn_2"></span>[193:3](jat03.htm#fr_2) It was explained that two
+<span id="fn_2"></span>[193:3](jat03.htm#fr_2.md) It was explained that two
 of the ladders were made of elkhorns with four horns on each side for
 rails and separate horns for the, rounds. The other two ladders were of
 buffalo horn.
@@ -100,10 +100,10 @@ being usually associated with the cardinal points and their appropriate
 colors is characteristic of the myths and ceremonies of the southern
 Athapascan.
 
-<span id="fn_3"></span>[193:4](jat03.htm#fr_3) Black Whirlwind caused
+<span id="fn_3"></span>[193:4](jat03.htm#fr_3.md) Black Whirlwind caused
 the water to dry up.
 
-<span id="fn_4"></span>[194:1](jat03.htm#fr_4) These two are the rulers
+<span id="fn_4"></span>[194:1](jat03.htm#fr_4.md) These two are the rulers
 of the world of the dead which the ghosts reached through the place of
 emergence. They pass down easily but cannot return because the ladders
 are worn out. This place is said to be situated somewhere many miles
@@ -116,4 +116,4 @@ p. 77 and note 50.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The First War](jat04)
+[Next: 2. The First War](jat04.md)

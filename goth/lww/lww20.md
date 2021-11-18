@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww19)  [Next](lww21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww19)  [Next](lww21.md) 
 
 ------------------------------------------------------------------------
 
@@ -246,4 +246,4 @@ Sir Nathaniel nodded his approval.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI--Green Light](lww21)
+[Next: Chapter XXI--Green Light](lww21.md)

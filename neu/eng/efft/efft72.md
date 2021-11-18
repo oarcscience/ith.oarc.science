@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft71)  [Next](efft73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft71)  [Next](efft73.md) 
 
 ------------------------------------------------------------------------
 
-# MR. VINEGAR  <span id="fr_87"></span>[1](#fn_87)
+# MR. VINEGAR  <span id="fr_87"></span>[1](#fn_87.md)
 
 MR and Mrs. Vinegar lived in a vinegar bottle. Now, one day, when Mr.
 Vinegar was from home, Mrs. Vinegar, who was a very good housewife, was
@@ -103,9 +103,9 @@ that she almost broke every bone in his skin.
 
 ### Footnotes
 
-<span id="fn_87"></span>[1](efft72.htm#fr_87) J. O. Halliwell, *Popular
+<span id="fn_87"></span>[1](efft72.htm#fr_87.md) J. O. Halliwell, *Popular
 Rhymes and Nursery Tales*; p. 26.
 
 ------------------------------------------------------------------------
 
-[Next: Lazy Jack](efft73)
+[Next: Lazy Jack](efft73.md)

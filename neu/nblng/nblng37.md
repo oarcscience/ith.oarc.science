@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng36)  [Next](nblng38) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng36)  [Next](nblng38.md) 
 
 ------------------------------------------------------------------------
 
@@ -192,4 +192,4 @@ the Vosges.
 ------------------------------------------------------------------------
 
 [Next: Adventure XXXVI: How The Queen Gave Orders To Burn the
-Hall.](nblng38)
+Hall.](nblng38.md)

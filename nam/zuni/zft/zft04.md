@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft03)  [Next](zft05) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft03)  [Next](zft05.md) 
 
 ------------------------------------------------------------------------
 
@@ -577,4 +577,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Poor Turkey Girl](zft05)
+[Next: The Poor Turkey Girl](zft05.md)

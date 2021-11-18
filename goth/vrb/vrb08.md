@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vrb07)  [Next](vrb09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vrb07)  [Next](vrb09.md) 
 
 ------------------------------------------------------------------------
 
@@ -1045,4 +1045,4 @@ initiate's fast together, sharing a meal.)*
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven: Yearly Rites](vrb09)
+[Next: Chapter Seven: Yearly Rites](vrb09.md)

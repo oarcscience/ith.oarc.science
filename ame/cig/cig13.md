@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](cig12)  [Next](cig14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](cig12)  [Next](cig14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Coffee in the Gourd*, ed. J. Frank Dobie \[1923\], at Intangible
 Textual Heritage
 
@@ -314,6 +314,6 @@ where once stood the unique little "Dorf" of Fredericksburg.
 ------------------------------------------------------------------------
 
 [Next: Customs And Superstitions Among Texas Mexicans on the Rio Grande
-Border, by Florence Johnson Scott](cig14)
+Border, by Florence Johnson Scott](cig14.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv10)  [Next](rsv12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv10)  [Next](rsv12.md) 
 
 ------------------------------------------------------------------------
 
@@ -236,4 +236,4 @@ to be any resident missionaries of the church in the country.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Cao Dai](rsv12)
+[Next: IX. Cao Dai](rsv12.md)

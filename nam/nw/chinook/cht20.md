@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht19)  [Next](cht21) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht19)  [Next](cht21.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ me." Now he remained there.
 
 ------------------------------------------------------------------------
 
-[Next: 18. The Panther](cht21)
+[Next: 18. The Panther](cht21.md)

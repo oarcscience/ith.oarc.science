@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng19)  [Next](vlsng21) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng19)  [Next](vlsng21.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,4 +153,4 @@ destruction of all things. Aesir; the gods.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX: Of the Slaying of Regin, Son of Hreidmar.](vlsng21)
+[Next: Chapter XIX: Of the Slaying of Regin, Son of Hreidmar.](vlsng21.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc058) 
-[Next](motc060) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc058.md) 
+[Next](motc060.md) 
 
 ------------------------------------------------------------------------
 
@@ -211,4 +211,4 @@ including sore eyes and frostbite.
 
 ------------------------------------------------------------------------
 
-[Next: 60. Why The Bullfrog's Head Is Striped](motc060)
+[Next: 60. Why The Bullfrog's Head Is Striped](motc060.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic033)  [Next](lfic035) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic033)  [Next](lfic035.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ and sinned, and fought the battle of life half a century since.
 
 ------------------------------------------------------------------------
 
-[Next: The Prophet before his Time](lfic035)
+[Next: The Prophet before his Time](lfic035.md)

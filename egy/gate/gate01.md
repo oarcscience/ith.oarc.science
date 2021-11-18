@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate00)  [Next](gate02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate00)  [Next](gate02.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ volume.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](gate02)
+[Next: Contents](gate02.md)

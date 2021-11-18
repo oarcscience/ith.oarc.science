@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb30)  [Next](crfb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb30)  [Next](crfb32.md) 
 
 </div>
 
@@ -124,6 +124,6 @@ found it too lonely, he is probably living there still.
 
 ------------------------------------------------------------------------
 
-[Next: The Crab and the Monkey](crfb32)
+[Next: The Crab and the Monkey](crfb32.md)
 
 </div>

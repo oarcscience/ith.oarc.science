@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl02)  [Next](orl04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl02)  [Next](orl04.md) 
 
 ------------------------------------------------------------------------
 
@@ -885,4 +885,4 @@ But first shall break my song with fitting pause.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 4](orl04)
+[Next: Canto 4](orl04.md)

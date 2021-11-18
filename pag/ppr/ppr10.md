@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr09)  [Next](ppr11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr09)  [Next](ppr11.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ And me, the magician, thy humble servant, direct me!
 
 ------------------------------------------------------------------------
 
-[Next: Magical Incantation (Chaldean)](ppr11)
+[Next: Magical Incantation (Chaldean)](ppr11.md)

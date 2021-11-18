@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb15)  [Next](ptb17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb15)  [Next](ptb17.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ blowing from that quarter, under the common name of east winds, are arid
 and free from moisture.
 
 The southern point, or angle of the mid-heaven, is the most hot; because
-the Sun's [meridian](errata.htm#3) position, which produces greater
+the Sun's [meridian](errata.htm#3.md) position, which produces greater
 warmth and heat, declines (in this part of the earth) towards the south.
 The winds, therefore, which blow from that quarter, and are commonly
 called south winds, are hot and rarefying.
@@ -67,4 +67,4 @@ other, will be first stated.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV. Tropical, Equinoctial, Fixed, and Bicorporeal
-Signs](ptb17)
+Signs](ptb17.md)

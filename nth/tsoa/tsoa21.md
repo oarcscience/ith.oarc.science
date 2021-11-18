@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa20)  [Next](tsoa22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa20)  [Next](tsoa22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -142,7 +142,7 @@ all the skill they acquired is stored safely away in Universal Mind and
 that through your subconscious mind you *have ready access to it*.
 
 The mind in you is the same mind that animated all the great
-[conquerors](errata.htm#8) of the past, all the great inventors, all the
+[conquerors](errata.htm#8.md) of the past, all the great inventors, all the
 great artists, statesmen, leaders, business men.
 
 <span id="page_332">p. 332</span>
@@ -263,4 +263,4 @@ singleness of purpose—*and you can get it*.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. That Old Witch—Bad Luck](tsoa22)
+[Next: XIII. That Old Witch—Bad Luck](tsoa22.md)

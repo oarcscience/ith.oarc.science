@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](tsg08)  [Next](tsg10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](tsg08)  [Next](tsg10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE91S/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE91S/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Syrian Goddess*, by Lucian, tr. by Herbert A. Strong and John
 Garstang, \[1913\], at Intangible Textual Heritage
 
@@ -121,4 +121,4 @@ Jacobitz. (Athenian Society's Publications). London, 1895.
 
 ------------------------------------------------------------------------
 
-[Next: Index](tsg10)
+[Next: Index](tsg10.md)

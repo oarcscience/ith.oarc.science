@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic060)  [Next](lfic062) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic060)  [Next](lfic062.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ the flight and pursuit form the subject of the third volume of the
 
 ------------------------------------------------------------------------
 
-[Next: Pursuit of Diarmuid and Grainne](lfic062)
+[Next: Pursuit of Diarmuid and Grainne](lfic062.md)

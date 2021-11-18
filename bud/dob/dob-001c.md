@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-001b) [Next](dob-001d)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-001b) [Next](dob-001d.md)
 
 ------------------------------------------------------------------------
 
@@ -696,4 +696,4 @@ T. W. RHYS DAVIDS.      
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Abbreviations](dob-001d)
+[Return to top](#top)   [Next: Abbreviations](dob-001d.md)

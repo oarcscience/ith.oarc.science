@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg08)  [Next](adg10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg08)  [Next](adg10.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ justice.
 ------------------------------------------------------------------------
 
 [Next: Adages of imam Ali (puh) in the bad habits and avoiding
-them](adg10)
+them](adg10.md)

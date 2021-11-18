@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont39)  [Next](ont41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont39)  [Next](ont41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -58,7 +58,7 @@ cheerful, rippling
 
 <span id="img_48000"></span> <span align="CENTER"> [![MEDICINE WEASEL'S
 CAMP NEAR THE ROCKIES.](tn/48000.jpg)  
-Click to enlarge](img/48000.jpg)  
+Click to enlarge](img/48000.jpg.md)  
 MEDICINE WEASEL'S CAMP NEAR THE ROCKIES.  
 </span>
 
@@ -251,7 +251,7 @@ and by studying the habits of birds and wild animals."
 
 "We call the moon of early winter,—'After the first snowfall'
 (November), or 'Time of the first Chinook' <span
-id="fr_43"></span>[1](#fn_39) (last of Dec. and early January).
+id="fr_43"></span>[1](#fn_39) (last of Dec. and early January.md).
 
 "Midwinter,—'When the buffalo calves are black,' or, 'When the heavy
 snows come,' or, 'The time, when the jackrabbit whistles at night'
@@ -286,10 +286,10 @@ fly south' (last of Oct. and first of Nov.)."
 "My father taught me to read the signs in the heavens: 'When the Akatsis
 (Lariat or Rain-Roper, *i.e.* Rainbow) appears in the sky I know the
 Thunder Chief is roping the rain and the storm will slow up. When the
-fires of the Northmen (Aurora) <span id="fr_44"></span>[1](#fn_40) flash
+fires of the Northmen (Aurora) <span id="fr_44"></span>[1](#fn_40.md) flash
 in the winter sky, it is a sign that a violent wind will arise. When the
 Sun paints both his cheeks, that is, when two Sun Dogs <span
-id="fr_45"></span>[1](#fn_40) (Ick-ski) appear on both sides of the Sun,
+id="fr_45"></span>[1](#fn_40) (Ick-ski.md) appear on both sides of the Sun,
 it is a warning that fierce storms, with violent winds and severe cold,
 are coming. When the Sun paints his face on the forehead, chin and both
 cheeks (four Sun Dogs), it is a warning that a chief will soon die.
@@ -297,11 +297,11 @@ cheeks (four Sun Dogs), it is a warning that a chief will soon die.
 "When a heavy storm is raging, I can foretell whether the weather will
 clear up by a certain cloud formation in the south west, at the time of
 sunset. When I see 'a star-feeding' (the Blackfeet name for Comet <span
-id="fr_46"></span>[1](#fn_40)), it is a sign of famine and sickness, and
+id="fr_46"></span>[1](#fn_40).md), it is a sign of famine and sickness, and
 when the Sun hides his face (Eclipse <span
-id="fr_47"></span>[1](#fn_40)), I know that a great chief is about to
+id="fr_47"></span>[1](#fn_40).md), I know that a great chief is about to
 die.' That bright star (pointing overhead), we call the Day Star. <span
-id="fr_48"></span>[1](#fn_40) Sometimes, if you look carefully, even
+id="fr_48"></span>[1](#fn_40.md) Sometimes, if you look carefully, even
 while the Sun is in the sky, you can see the Day Star shining almost
 overhead. My father
 
@@ -309,9 +309,9 @@ overhead. My father
 
 told me many stories about the stars of the night sky, explaining how
 they came there. There is one family of stars in the northern sky, which
-we call 'The Seven Brothers.' <span id="fr_49"></span>[1](#fn_41) When
+we call 'The Seven Brothers.' <span id="fr_49"></span>[1](#fn_41.md) When
 we wish to know the time at night, we say, 'How does the Last Brother
-point?' <span id="fr_50"></span>[1](#fn_41) I will tell you the story of
+point?' <span id="fr_50"></span>[1](#fn_41.md) I will tell you the story of
 
 #### "THE SEVEN BROTHERS (GREAT BEAR).
 
@@ -365,7 +365,7 @@ sky. He shot six arrows, and each time a brother went up. Finally,
 Okinai himself followed, and all of them together formed the family of
 the 'Seven Brothers.' They took the same position in the sky they had in
 the tree. The small star at one side (of the handle) is Sinopa, 'the
-little sister,' <span id="fr_51"></span>[1](#fn_42) while the four at
+little sister,' <span id="fr_51"></span>[1](#fn_42.md) while the four at
 the bottom are the brothers who had been knocked from the tree by their
 terrible sister 'The Grizzly.'"
 
@@ -374,7 +374,7 @@ terrible sister 'The Grizzly.'"
 #### LEGEND OF THE LOST CHILDREN. (PLEIADES.)
 
 "There is also a family of six small stars we call the 'Lost Children'
-(Pleiades). <span id="fr_52"></span>[1](#fn_43) These children were lost
+(Pleiades). <span id="fr_52"></span>[1](#fn_43.md) These children were lost
 a great many years ago from a large camp of Blackfeet, during the moon,
 when the buffalo calves are yellow (spring). The Indians had been
 running buffalo over a piskun and had secured a large number, among them
@@ -396,22 +396,22 @@ children can be seen in the sky every night."
 
 ### Footnotes
 
-<span id="fn_39"></span>[486:1](ont40.htm#fr_43) A warm wind from the
+<span id="fn_39"></span>[486:1](ont40.htm#fr_43.md) A warm wind from the
 Pacific Ocean.
 
-<span id="fn_40"></span>[487:1](ont40.htm#fr_48) See
-[Appendix](ont44.htm#an_487a).
+<span id="fn_40"></span>[487:1](ont40.htm#fr_48.md) See
+[Appendix](ont44.htm#an_487a.md).
 
-<span id="fn_41"></span>[488:1](ont40.htm#fr_50) See
-[Appendix](ont44.htm#an_488).
+<span id="fn_41"></span>[488:1](ont40.htm#fr_50.md) See
+[Appendix](ont44.htm#an_488.md).
 
-<span id="fn_42"></span>[489:1](ont40.htm#fr_51) See
-[Appendix](ont44.htm#an_489).
+<span id="fn_42"></span>[489:1](ont40.htm#fr_51.md) See
+[Appendix](ont44.htm#an_489.md).
 
-<span id="fn_43"></span>[490:1](ont40.htm#fr_52) See
-[Appendix](ont44.htm#an_490).
+<span id="fn_43"></span>[490:1](ont40.htm#fr_52.md) See
+[Appendix](ont44.htm#an_490.md).
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXVIII. Legend of Poïa, the Christ Story of the
-Blackfeet](ont41)
+Blackfeet](ont41.md)

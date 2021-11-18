@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr04)  [Next](abr06) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr04)  [Next](abr06.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ tomb lies now.
 ------------------------------------------------------------------------
 
 [Next: Taking Ishmael (PUH) and His Mother Hagar to The Holy
-House](abr06)
+House](abr06.md)
 
 </div>
 

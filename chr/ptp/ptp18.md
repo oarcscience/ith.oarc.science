@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp17)  [Next](ptp19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp17)  [Next](ptp19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -29,13 +29,13 @@ the Marquis Pombal, the sovereigns Louis XV of France
 
 <span id="img_29700"></span> <span align="CENTER"> [![Pope Innocent
 XII](tn/29700.jpg)  
-Click to enlarge](img/29700.jpg)  
+Click to enlarge](img/29700.jpg.md)  
 Pope Innocent XII  
 </span>
 
 <span class="small">Browning's Pope: "Simple, sagacious, mild, yet
 resolute." (*The Ring and the Book*) See pages
-[295](ptp17.htm#page_295)-6.</span>
+[295](ptp17.htm#page_295.md)-6.</span>
 
 and Joseph II of Austria. It was the hundred years which was to be rent
 by the bitter miseries of the French Revolution, which was to witness
@@ -546,12 +546,12 @@ Britain decided to break with the mother country. Several years
 
 <span id="img_31200"></span> <span align="CENTER"> [![Pope Pius
 VI](tn/31200.jpg)  
-Click to enlarge](img/31200.jpg)  
+Click to enlarge](img/31200.jpg.md)  
 Pope Pius VI  
 </span>
 
 <span class="small">He died the prisoner of Napoleon. See pages
-[310](#page_310) to [316](#page_316).</span>
+[310](#page_310) to [316](#page_316.md).</span>
 
 <span id="page_313">p. 313</span>
 
@@ -711,4 +711,4 @@ finally the majority of the ballots was given this prelate who became
 
 ------------------------------------------------------------------------
 
-[Next: Nineteenth Century](ptp19)
+[Next: Nineteenth Century](ptp19.md)

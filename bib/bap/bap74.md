@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap73) 
-[Next](bap75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap73.md) 
+[Next](bap75.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ walkedst. Or is it not enough for thee to hear
 
 that by that which resoundeth before thee I sing unto many? Or
 forgettest thou that out of a rebounding echo in the abyss (*or* chaos)
-thy creation was born? <span id="fr_157"></span>[1](#fn_156) But that
+thy creation was born? <span id="fr_157"></span>[1](#fn_156.md) But that
 new womb shall rebuke thee, whereof I am born, of whom shall be born
 after a time of my loins he that shall subdue you.
 
@@ -48,7 +48,7 @@ Saul.
 
 ### Footnotes
 
-<span id="fn_156"></span>[233:1](bap74.htm#fr_157) LX. 3. *evil spirits
+<span id="fn_156"></span>[233:1](bap74.htm#fr_157.md) LX. 3. *evil spirits
 born of an echo in chaos*: *de resultatione in chaomate*. In the
 *Testament of Solomon* a female demon, Onoskelis, says that she was born
 ἀπὸ ἀκαίρου τῆσ καλουμένησ ἤχου οὐρανοῦ † μολύβδου † φωνὴν ἀφέντοσ ἐν
@@ -66,4 +66,4 @@ they were created on the eve of the first Sabbath day.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXI](bap75)
+[Next: Chapter LXI](bap75.md)

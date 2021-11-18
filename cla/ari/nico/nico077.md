@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico076) 
-[Next](nico078) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico076.md) 
+[Next](nico078.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ softness are, and how these states are related to each other.
 ------------------------------------------------------------------------
 
 [Next: Chapter 11. Three views hostile to pleasure, and the arguments
-for them](nico078)
+for them](nico078.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam07)  [Next](lam09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam07)  [Next](lam09.md) 
 
 ------------------------------------------------------------------------
 
@@ -267,4 +267,4 @@ Life! *
 
 ------------------------------------------------------------------------
 
-[Next: VII. Miracles](lam09)
+[Next: VII. Miracles](lam09.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah04)  [Next](toah06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah04)  [Next](toah06.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ the end of the fourth day the people began to feel the damp air. Then
 the big wind came and it kept up for many days and at last *Paso* had
 come and it had covered up all the land around the kiva so that no one
 could reach it. This was, of course, a very fearful thing to all the
-people. [12](toah24.htm#xref_12)
+people. [12](toah24.htm#xref_12.md)
 
 Of course, no one knows how long they lived around that place, but after
 a great many years they increased and they started to have more trouble
@@ -114,7 +114,7 @@ he was the interpreter.
 
 "Well," said the chief, "you are a pretty wise bird. Now you and I will
 travel the same direction toward the rising sun and the sun may be our
-god, [13](toah24.htm#xref_13) great and wise. With its light we can see
+god, [13](toah24.htm#xref_13.md) great and wise. With its light we can see
 and walk. Wherever this place is where the sun rises, I would like to
 see who will get there first for there we may learn who is our true god.
 If not, the sun itself is our god for there must be some spirit,
@@ -133,4 +133,4 @@ religion of god."
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. The Hopi Decide to Seek a New Home. How Certain Clans
-Received Their Names](toah06)
+Received Their Names](toah06.md)

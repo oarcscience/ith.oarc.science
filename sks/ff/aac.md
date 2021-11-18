@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../aac/aac) 
-[Previous](oth)  [Next](cym) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../aac/aac.md) 
+[Previous](oth)  [Next](cym.md) 
 
 ------------------------------------------------------------------------
 
@@ -4879,4 +4879,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Tragedie of Cymbeline](cym) 
+[Next: The Tragedie of Cymbeline](cym.md) 

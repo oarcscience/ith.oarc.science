@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK VII CHAPTER XXI
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK VII](book06) 
-[Previous](mart138)  [Next](mart140) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK VII](book06.md) 
+[Previous](mart138)  [Next](mart140.md) </span>
 
 ------------------------------------------------------------------------
 

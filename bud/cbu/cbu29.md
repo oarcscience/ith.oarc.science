@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu28)  [Next](cbu30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu28)  [Next](cbu30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -104,7 +104,7 @@ at one. In Buddhism no personage holds so large a place in saving
 mankind as Kwan-shï-yin. In Tauism there is no one equal to Lü
 Chun-yang. In the *Ju-kiau* there is no one to be compared with
 Confucius and Mencius." In this extract, <span
-id="fr_137"></span>[1](#fn_137) Kwan-yin is represented as more
+id="fr_137"></span>[1](#fn_137.md) Kwan-yin is represented as more
 prominent in saving men than Buddha himself. Such is the modern
 development of Buddhism, and it is the popular Buddhism of the day.
 Kwan-yin was introduced into Indian Buddhism not long before the
@@ -112,7 +112,7 @@ Christian era. In China, Kwan-yin was worshipped probably in the Han
 dynasty, but was not so popular as afterwards. A modern change has taken
 place in the image of Kwan-yin. Down to the early part of the twelfth
 century, Kwan-yin was represented as a man. In a book of drawings of the
-time of Siuen-ho, <span id="fr_138"></span>[2](#fn_138) and in the works
+time of Siuen-ho, <span id="fr_138"></span>[2](#fn_138.md) and in the works
 remaining of famous painters
 
 <span id="page_383">p. 383</span>
@@ -397,7 +397,7 @@ destroyed. The repairs of the buildings are now nearly completed.
 
 The popular divinity, Yü-hwang shang-ti, is an ancient magician, exalted
 to this dignity probably by the Tauist writers of the T‘ang
-dynasty. <span id="fr_139"></span>[1](#fn_139) In the *Pen-hing-king* of
+dynasty. <span id="fr_139"></span>[1](#fn_139.md) In the *Pen-hing-king* of
 the Tauist collection it is said, that a magician of the Chang family
 was the son of a king in a former *kalpa*, who, instead of succeeding
 his father, became a hermit, and after eight hundred *kalpas*, and much
@@ -512,7 +512,7 @@ administered after death. This forms the basis of the Tauist hell.
 
 Modern Chinese art is very much pervaded with Tauist ideas. The eight
 genii meet us everywhere. The manufacturers of
-[porcelain](errata.htm#6), bronze, and carved bamboo ornaments are never
+[porcelain](errata.htm#6.md), bronze, and carved bamboo ornaments are never
 weary of representing these eight personages. They belong to the class
 of hermits. The love of external nature was very much developed in the
 T‘ang dynasty. Poetry was the favourite occupation of the literati. They
@@ -630,13 +630,13 @@ victorious Redeemer.
 
 ### Footnotes
 
-<span id="fn_137"></span>[382:1](cbu29.htm#fr_137) From
+<span id="fn_137"></span>[382:1](cbu29.htm#fr_137.md) From
 *Ping-shu-pi-t‘an*.
 
-<span id="fn_138"></span>[382:2](cbu29.htm#fr_138) From A.D. 1119 to
+<span id="fn_138"></span>[382:2](cbu29.htm#fr_138.md) From A.D. 1119 to
 1126.
 
-<span id="fn_139"></span>[391:1](cbu29.htm#fr_139) The title Yü-ti
+<span id="fn_139"></span>[391:1](cbu29.htm#fr_139.md) The title Yü-ti
 occurs in Tauist books earlier than the T‘ang dynasty, but not the full
 title with four characters. This belongs evidently to the T‘ang dynasty,
 the age of Buddhist influence, and to the belief in metamorphoses, and a
@@ -647,4 +647,4 @@ He only replied, "From the beginning of the universe."
 ------------------------------------------------------------------------
 
 [Next: Chapter XXV. On the Use of Sanscrit by the Chinese
-Buddhists](cbu30)
+Buddhists](cbu30.md)

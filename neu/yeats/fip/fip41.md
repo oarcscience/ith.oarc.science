@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip40)  [Next](fip42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip40)  [Next](fip42.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ confirm this persuasion.
 
 ------------------------------------------------------------------------
 
-[Next: The Fate Of Frank M'Kenna, by William Carleton](fip42)
+[Next: The Fate Of Frank M'Kenna, by William Carleton](fip42.md)

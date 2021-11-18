@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVU4S2/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVU4S2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVU4S2/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](aug01)    [Text
-\[Zipped\]](ac.txt.gz)
+[Contents](#contents)    [Start Reading](aug01.md)    [Text
+\[Zipped\]](ac.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -46,16 +46,16 @@ chapters.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Book I](aug01)  
-[Book II](aug02)  
-[Book III](aug03)  
-[Book IV](aug04)  
-[Book V](aug05)  
-[Book VI](aug06)  
-[Book VII](aug07)  
-[Book VIII](aug08)  
-[Book IX](aug09)  
-[Book X](aug10)  
-[Book XI](aug11)  
-[Book XII](aug12)  
-[Book XIII](aug13)  
+<span id="contents"></span> [Book I](aug01.md)  
+[Book II](aug02.md)  
+[Book III](aug03.md)  
+[Book IV](aug04.md)  
+[Book V](aug05.md)  
+[Book VI](aug06.md)  
+[Book VII](aug07.md)  
+[Book VIII](aug08.md)  
+[Book IX](aug09.md)  
+[Book X](aug10.md)  
+[Book XI](aug11.md)  
+[Book XII](aug12.md)  
+[Book XIII](aug13.md)  

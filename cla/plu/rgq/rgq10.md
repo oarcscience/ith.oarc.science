@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](rgq09)  [Next](rgq11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](rgq09)  [Next](rgq11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roman and Greek Questions*, by Plutarch, tr. Frank Cole Babbitt,
 \[1936\], at Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
 80\. <span class="smallcaps">Why</span> was it that when they gave a
 public banquet for men who had celebrated a triumph, they formally
 invited the consuls and then sent word to them requesting them not to
-come to the dinner? <span id="fr_185"></span>[c](#fn_185)
+come to the dinner? <span id="fr_185"></span>[c](#fn_185.md)
 
 Was it because it was imperative that the place of honour at table and
 an escort home after dinner should be assigned to the man who had
@@ -39,7 +39,7 @@ consuls are present, but only to them.
  
 
 81\. <span class="smallcaps">Why</span> does not the tribune wear a
-garment with the purple border, <span id="fr_186"></span>[d](#fn_186)
+garment with the purple border, <span id="fr_186"></span>[d](#fn_186.md)
 although the other magistrates wear it?
 
 Is it because he is not a magistrate at all? For tribunes have no
@@ -48,7 +48,7 @@ lictors, nor do they transact business
 <span id="page_122">p. 122</span> <span id="page_123">p. 123</span>
 
 seated on the curule chair, nor do they enter their office at the
-beginning of the year <span id="fr_187"></span>[a](#fn_187) as all the
+beginning of the year <span id="fr_187"></span>[a](#fn_187.md) as all the
 other magistrates do, nor do they cease from their functions when a
 dictator is chosen; but although he transfers every other office to
 himself, the tribunes alone remain, as not being officials but as
@@ -81,7 +81,7 @@ in outward appearance, the more is he increased in power. They think it
 meet that he shall be available for the common need and be accessible to
 all, even as an altar; and by the honour paid to him they make his
 person holy, sacred, and inviolable. <span
-id="fr_188"></span>[a](#fn_188) Wherefore if anything happen to him when
+id="fr_188"></span>[a](#fn_188.md) Wherefore if anything happen to him when
 he walks abroad in public, it is even customary for him to cleanse and
 purify his body as if it had been polluted.
 
@@ -101,7 +101,7 @@ incorrigible.
  
 
 83\. <span class="smallcaps">When</span> the Romans learned that the
-people called Bletonesii, <span id="fr_189"></span>[b](#fn_189) a
+people called Bletonesii, <span id="fr_189"></span>[b](#fn_189.md) a
 barbarian tribe, had sacrificed a man to the gods, why did they send for
 the tribal rulers with intent to punish them, but, when it was made
 plain that they had done thus in accordance with a certain custom, why
@@ -130,7 +130,7 @@ outrage would be found touching the knights also. Thereupon a barbarian
 slave of a certain knight gave information against three Vestal Virgins,
 Aemilia, Licinia, and Marcia, that they had all been corrupted at about
 the same time, and that they had long entertained lovers, one of whom
-was Vetutius Barrus, <span id="fr_190"></span>[a](#fn_190) the
+was Vetutius Barrus, <span id="fr_190"></span>[a](#fn_190.md) the
 informer's master. The Vestals, accordingly, were convicted and
 punished; but, since the deed was plainly atrocious, it was resolved
 that the priests should consult the Sibylline books. They say that
@@ -141,19 +141,19 @@ impending disaster, they should offer as a sacrifice to certain
 <span id="page_128">p. 128</span> <span id="page_129">p. 129</span>
 
 strange and alien spirits two Greeks and two Gauls, buried alive on the
-spot. <span id="fr_191"></span>[a](#fn_191)
+spot. <span id="fr_191"></span>[a](#fn_191.md)
 
  
 
 84\. <span class="smallcaps">Why</span> do they reckon the beginning of
-the day from midnight? <span id="fr_192"></span>[b](#fn_192)
+the day from midnight? <span id="fr_192"></span>[b](#fn_192.md)
 
 Is it because the Roman State was based originally on a military
 organization and most of the matters that are of use on campaigns are
 taken up beforehand at night? Or did they make sunrise the beginning of
 activity, and night the beginning of preparation? For men should be
 prepared when they act, and not be making their preparations during the
-action, as Myson, <span id="fr_193"></span>[c](#fn_193) who was
+action, as Myson, <span id="fr_193"></span>[c](#fn_193.md) who was
 fashioning a grain-fork in wintertime, is reported to have remarked to
 Chilon the Wise.
 
@@ -172,7 +172,7 @@ be less than that day by the diameter of
 
 <span id="page_130">p. 130</span> <span id="page_131">p. 131</span>
 
-the sun. <span id="fr_194"></span>[a](#fn_194) But then again the remedy
+the sun. <span id="fr_194"></span>[a](#fn_194.md) But then again the remedy
 which the mathematicians apply to this anomaly, decreeing that the
 instant when the centre of the sun touches the horizon is the boundary
 between day and night, is a negation of plain fact; for the result will
@@ -190,7 +190,7 @@ rising.
 
 85\. <span class="smallcaps">Why</span> in the early days did they not
 allow their wives to grind grain or to cook? <span
-id="fr_195"></span>[b](#fn_195)
+id="fr_195"></span>[b](#fn_195.md)
 
 Was it in memory of the treaty which they made with the Sabines? For
 when they had carried off the Sabines’ daughters, and later, after
@@ -201,7 +201,7 @@ a Roman or cook for him.
  
 
 86\. <span class="smallcaps">Why</span> do men not marry during the
-month of May? <span id="fr_196"></span>[c](#fn_196)
+month of May? <span id="fr_196"></span>[c](#fn_196.md)
 
 Is it because this month comes between April and June, of which they
 regard April as sacred to Venus and June as sacred to Juno, both of them
@@ -212,7 +212,7 @@ wait until later?
 
 Or is it because in this month they hold their most important ceremony
 of purification, in which they now throw images from the bridge into the
-river, <span id="fr_197"></span>[a](#fn_197) but in days of old they
+river, <span id="fr_197"></span>[a](#fn_197.md) but in days of old they
 used to throw human beings? Wherefore it is the custom that the
 Flaminica, reputed to be consecrate to Juno, shall wear a stern face,
 and refrain from bathing and wearing ornaments at this time.
@@ -220,11 +220,11 @@ and refrain from bathing and wearing ornaments at this time.
 Or is it because many of the Latins make offerings to the departed in
 this month? And it is for this reason, perhaps, that they worship
 Mercury in this month and that the month derives its name from
-Maia. <span id="fr_198"></span>[b](#fn_198)
+Maia. <span id="fr_198"></span>[b](#fn_198.md)
 
 Or is May, as some relate, named after the older (*maior*) and June
 after the younger generation (*iunior*)? For youth is better fitted for
-marriage, as Euripides <span id="fr_199"></span>[c](#fn_199) also says:
+marriage, as Euripides <span id="fr_199"></span>[c](#fn_199.md) also says:
 
 <div style="margin-left: 32px">
 
@@ -239,13 +239,13 @@ therefore, marry in May, but wait for June which comes next after May.
  
 
 87\. <span class="smallcaps">Why</span> do they part the hair of brides
-with the point of a spear? <span id="fr_200"></span>[d](#fn_200)
+with the point of a spear? <span id="fr_200"></span>[d](#fn_200.md)
 
 Does this symbolize the marriage of the first Roman wives <span
-id="fr_201"></span>[e](#fn_201) by violence with attendant war, or do
+id="fr_201"></span>[e](#fn_201.md) by violence with attendant war, or do
 the wives thus learn, now that they are mated to brave and warlike men,
 to welcome an unaffected, unfeminine, and simple mode of beautification?
-Even as Lycurgus, <span id="fr_202"></span>[f](#fn_202) by giving orders
+Even as Lycurgus, <span id="fr_202"></span>[f](#fn_202.md) by giving orders
 to make the
 
 <span id="page_134">p. 134</span> <span id="page_135">p. 135</span>
@@ -257,12 +257,12 @@ Or does this procedure hint at the manner of their separation, that with
 steel alone can their marriage be dissolved?
 
 Or is it that most of the marriage customs were connected with
-Juno? <span id="fr_203"></span>[a](#fn_203) Now the spear is commonly
+Juno? <span id="fr_203"></span>[a](#fn_203.md) Now the spear is commonly
 held to be sacred to Juno, and most of her statues represent her leaning
 on a spear, and the goddess herself is surnamed *Quiritis*; for the men
 of old used to call the spear *curis*; wherefore they further relate
 that Enyalius is called Quirinus by the Romans. <span
-id="fr_204"></span>[b](#fn_204)
+id="fr_204"></span>[b](#fn_204.md)
 
  
 
@@ -276,11 +276,11 @@ these on the public spectacles?
  
 
 89\. <span class="smallcaps">Why</span> do they call the Quirinalia the
-Feast of Fools? <span id="fr_205"></span>[c](#fn_205)
+Feast of Fools? <span id="fr_205"></span>[c](#fn_205.md)
 
-Is it because, as Juba <span id="fr_206"></span>[d](#fn_206) states,
+Is it because, as Juba <span id="fr_206"></span>[d](#fn_206.md) states,
 they apportioned that day to men who did not know their own kith and
-kin? <span id="fr_207"></span>[e](#fn_207) Or was it granted to those
+kin? <span id="fr_207"></span>[e](#fn_207.md) Or was it granted to those
 who, because of some business, or absence from Rome, or ignorance, had
 not sacrificed with the rest of their tribe on the Fornacalia, that, on
 this day, they might take their due enjoyment of that festival?
@@ -289,96 +289,96 @@ this day, they might take their due enjoyment of that festival?
 
 ### Footnotes
 
-<span id="fn_185"></span>[121:c](rgq10.htm#fr_185) *Cf*. Valerius
+<span id="fn_185"></span>[121:c](rgq10.htm#fr_185.md) *Cf*. Valerius
 Maximus, ii. 8. 6.
 
-<span id="fn_186"></span>[121:d](rgq10.htm#fr_186) The *toga praetexta*.
+<span id="fn_186"></span>[121:d](rgq10.htm#fr_186.md) The *toga praetexta*.
 
-<span id="fn_187"></span>[123:a](rgq10.htm#fr_187) <span
+<span id="fn_187"></span>[123:a](rgq10.htm#fr_187.md) <span
 id="page_122">p. 122</span> They entered upon their office December
 10th: Dionysius of Halicarnassus, *Roman Antiquities*, vi. 89. 2; Livy,
 xxxix. 52.
 
-<span id="fn_188"></span>[125:a](rgq10.htm#fr_188) *Cf*. Livy, iii. 55.
+<span id="fn_188"></span>[125:a](rgq10.htm#fr_188.md) *Cf*. Livy, iii. 55.
 6–7; Dionysius of Halicarnassus, *Roman Antiquities*, vi. 89. 2–3.
 
-<span id="fn_189"></span>[125:b](rgq10.htm#fr_189) Of Bletisa in Spain,
+<span id="fn_189"></span>[125:b](rgq10.htm#fr_189.md) Of Bletisa in Spain,
 according to Cichorius, *Römische Studien* (Berlin, 1922).
 
-<span id="fn_190"></span>[127:a](rgq10.htm#fr_190) *Cf*. Cicero,
+<span id="fn_190"></span>[127:a](rgq10.htm#fr_190.md) *Cf*. Cicero,
 *Brutus*, 46 (169); Horace, *Satires*, i. 6. 30, if the emendation is
 right.
 
-<span id="fn_191"></span>[129:a](rgq10.htm#fr_191) *Cf*. *Life of
+<span id="fn_191"></span>[129:a](rgq10.htm#fr_191.md) *Cf*. *Life of
 Marcellus*, chap. iii. (299 <span class="smallcaps">D</span>); Livy,
 xxii. 57.
 
-<span id="fn_192"></span>[129:b](rgq10.htm#fr_192) *Cf*. Pliny, *Natural
+<span id="fn_192"></span>[129:b](rgq10.htm#fr_192.md) *Cf*. Pliny, *Natural
 History*, ii. 77 (188); Aulus Gellius, iii. 2; Macrobius, *Saturnalia*,
 i. 3.
 
-<span id="fn_193"></span>[129:c](rgq10.htm#fr_193) Similar foresight
+<span id="fn_193"></span>[129:c](rgq10.htm#fr_193.md) Similar foresight
 regarding a plough instead of a fork is reported by Diogenes Laertius,
 i. 106.
 
-<span id="fn_194"></span>[131:a](rgq10.htm#fr_194) <span
+<span id="fn_194"></span>[131:a](rgq10.htm#fr_194.md) <span
 id="page_130">p. 130</span> Long before Plutarch's day the Greeks had
 calculated the angle subtended by the sun with an accuracy that stood
 the test of centuries, and was not modified until comparatively <span
 id="page_131">p. 131</span> recent times. *Cf*. Archimedes, *Arenarius*,
 i. 10 (J. L. Heiberg's ed. ii. p. 248).
 
-<span id="fn_195"></span>[131:b](rgq10.htm#fr_195) *Cf*. *Life of
+<span id="fn_195"></span>[131:b](rgq10.htm#fr_195.md) *Cf*. *Life of
 Romulus,* chap. xv. (26 <span class="smallcaps">D</span>), xix. (30
 <span class="smallcaps">A</span>).
 
-<span id="fn_196"></span>[131:c](rgq10.htm#fr_196) *Cf*. Ovid, *Fasti*,
+<span id="fn_196"></span>[131:c](rgq10.htm#fr_196.md) *Cf*. Ovid, *Fasti*,
 v. 489.
 
-<span id="fn_197"></span>[133:a](rgq10.htm#fr_197) <span
+<span id="fn_197"></span>[133:a](rgq10.htm#fr_197.md) <span
 id="page_132">p. 132</span> *Cf*. 272 <span class="smallcaps">B</span>,
 *supra*.
 
-<span id="fn_198"></span>[133:b](rgq10.htm#fr_198) The mother of
+<span id="fn_198"></span>[133:b](rgq10.htm#fr_198.md) The mother of
 Mercury.
 
-<span id="fn_199"></span>[133:c](rgq10.htm#fr_199) From the *Aeolus* of
+<span id="fn_199"></span>[133:c](rgq10.htm#fr_199.md) From the *Aeolus* of
 Euripides; Nauck, *Trag. Graec. Frag.* p. 369, Euripides, no. 23: *cf*.
 *Moralia*, 786 <span class="smallcaps">A</span>, 1094 <span
 class="smallcaps">F</span>.
 
-<span id="fn_200"></span>[133:d](rgq10.htm#fr_200) *Cf*. *Life of
+<span id="fn_200"></span>[133:d](rgq10.htm#fr_200.md) *Cf*. *Life of
 Romulus,* chap. xv. (26 <span class="smallcaps">E</span>).
 
-<span id="fn_201"></span>[133:e](rgq10.htm#fr_201) The Sabine women.
+<span id="fn_201"></span>[133:e](rgq10.htm#fr_201.md) The Sabine women.
 
-<span id="fn_202"></span>[133:f](rgq10.htm#fr_202) *Cf*. *Moralia*, 189
+<span id="fn_202"></span>[133:f](rgq10.htm#fr_202.md) *Cf*. *Moralia*, 189
 <span class="smallcaps">E</span>, 227 <span class="smallcaps">C</span>,
 997 <span class="smallcaps">C</span>; and the *Life of Lycurgus*, chap.
 xiii. (47 <span class="smallcaps">C</span>); *cf*. also *Comment. on
 Hesiod*, 42 (Bernardakis, vol. vii. p. 72).
 
-<span id="fn_203"></span>[135:a](rgq10.htm#fr_203) <span
+<span id="fn_203"></span>[135:a](rgq10.htm#fr_203.md) <span
 id="page_134">p. 134</span> See Roscher, *Lexikon der gr. and röm.
 Mythologie*, ii. coll. 588–592.
 
-<span id="fn_204"></span>[135:b](rgq10.htm#fr_204) *Cf*. *Life of
+<span id="fn_204"></span>[135:b](rgq10.htm#fr_204.md) *Cf*. *Life of
 Romulus,* chap. xxix. (36 a); Dionysius of <span id="page_135">p.
 135</span> Halicarnassus, *Roman Antiquities*, ii. 48; Ovid, *Fasti*,
 ii. 475 ff.
 
-<span id="fn_205"></span>[135:c](rgq10.htm#fr_205) *Cf*. Ovid, *Fasti*,
+<span id="fn_205"></span>[135:c](rgq10.htm#fr_205.md) *Cf*. Ovid, *Fasti*,
 ii. 513 ff.
 
-<span id="fn_206"></span>[135:d](rgq10.htm#fr_206) Müller, *Frag. Hist.
+<span id="fn_206"></span>[135:d](rgq10.htm#fr_206.md) Müller, *Frag. Hist.
 Graec*. iii. p. 470.
 
-<span id="fn_207"></span>[135:e](rgq10.htm#fr_207) *Curiae*.
+<span id="fn_207"></span>[135:e](rgq10.htm#fr_207.md) *Curiae*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 90-99.](rgq11)
+[Next: 90-99.](rgq11.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov14)  [Next](hlov16) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov14)  [Next](hlov16.md) 
 
 ------------------------------------------------------------------------
 
@@ -263,4 +263,4 @@ Ghost-Gods.\]
 
 ------------------------------------------------------------------------
 
-[Next: XI. Pele's Long Sleep](hlov16)
+[Next: XI. Pele's Long Sleep](hlov16.md)

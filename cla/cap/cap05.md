@@ -1,10 +1,10 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](cap04)  [Next](cap06) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](cap04)  [Next](cap06.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_06"></span> [![](tn/06.jpg)  
-Click to enlarge](img/06.jpg)  
+Click to enlarge](img/06.jpg.md)  
 Cupid on the Cypress Tree
 
 # Part IV.
@@ -39,4 +39,4 @@ amongst the herbs.
 
 ------------------------------------------------------------------------
 
-[Next: Part V](cap06)
+[Next: Part V](cap06.md)

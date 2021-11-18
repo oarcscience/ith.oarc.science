@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas025n)  [Next](jas027n)   
- \[[26. The Riddle.](jas026)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas025n)  [Next](jas027n.md)   
+ \[[26. The Riddle.](jas026.md)\]
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ basket with clay--he said was "not exactly a Nansi story."
 
 ------------------------------------------------------------------------
 
-[Next: Note 27. Anansi and Brother Dead.](jas027n)
+[Next: Note 27. Anansi and Brother Dead.](jas027n.md)

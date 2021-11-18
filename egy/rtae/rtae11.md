@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](rtae10)  [Next](rtae12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](rtae10)  [Next](rtae12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Development of Religion and Thought in Ancient Egypt*, by James Henry
 Breasted, \[1912\], at Intangible Textual Heritage
 
@@ -35,7 +35,7 @@ under Sesostris II (1906–1887 B.C.), gave expression to his sombre
 musings on society in a composition which was still circulating some
 four hundred years later when a scribe of the Eighteenth Dynasty copied
 it upon a board now preserved in the British Museum. <span
-id="fr_622"></span>[1](#fn_622) It is of especial interest, as
+id="fr_622"></span>[1](#fn_622.md) It is of especial interest, as
 indicating at the outset that such men of the Feudal Age were perfectly
 conscious that they were thinking upon new lines, and that they had
 departed far
@@ -50,7 +50,7 @@ utterances with searching of heart, made by the priest of Heliopolis, .
 utterances, sayings that are unfamiliar, even new speech that has not
 occurred (before), free from repetitions, not the utterance of what has
 ⌈long⌉ passed, which the ancestors spake. I squeeze out my breast <span
-id="fr_623"></span>[1](#fn_623) for what is in it, in dislodging all
+id="fr_623"></span>[1](#fn_623.md) for what is in it, in dislodging all
 that I say; for it is but to repeat what has been said when what has
 (already) been said has been said. There is no ⌈support⌉ for the speech
 of the ancestors when the descendants find it. . . . "'
@@ -127,7 +127,7 @@ at their feasts attuned his instrument. This king has left us a brief
 word of counsel addressed to his son, Sesostris I, who was to succeed
 him—counsel very evidently uttered after a base attempt upon the old
 king's life by those whom he trusted. <span
-id="fr_624"></span>[1](#fn_624)
+id="fr_624"></span>[1](#fn_624.md)
 
 <span id="page_203">p. 203</span>
 
@@ -173,7 +173,7 @@ Feudal Age, may be called the Admonitions
 
 <span id="page_204">p. 204</span>
 
-of Ipuwer. <span id="fr_625"></span>[1](#fn_625) The beginning of the
+of Ipuwer. <span id="fr_625"></span>[1](#fn_625.md) The beginning of the
 papyrus containing the narrative introduction setting forth the
 circumstances under which the sage utters his reflections is
 unfortunately lost. The situation in its chief externals is, however,
@@ -197,7 +197,7 @@ difficulty
 
 of the language employed make a continuous translation, even with
 copious commentary, quite out of the question. <span
-id="fr_626"></span>[1](#fn_626)
+id="fr_626"></span>[1](#fn_626.md)
 
 With searching vision the sage sweeps his eye over the organized life of
 the Nile-dwellers and finds all in confusion. Government is practically
@@ -210,7 +210,7 @@ Thirty (Judges) is divulged. Indeed, the great judgment-hall is
 9–12). "Indeed, as for the ⌈splendid⌉ judgment-hall, its writings are
 carried away; the private office that was is exposed. . . . Indeed,
 departmental offices are opened, their writings 'are carried away, <span
-id="fr_627"></span>[2](#fn_627) (so that) serfs become lords of ⌈serfs⌉.
+id="fr_627"></span>[2](#fn_627) (so that.md) serfs become lords of ⌈serfs⌉.
 Indeed, officials are slain, their writings are carried away. Woe is me
 for the misery of this time. Indeed, the scribes of the \[produce',
 their writings are rejected; the grain of Egypt is any corner's" (6,
@@ -267,17 +267,17 @@ Indeed, grain has perished on every side. Men are deprived of clothing,
 ⌈perfumes⌉, and ointments. All men say, 'There is none.' The storehouse
 is laid waste; its keeper is stretched on the ground" (6, 1–4). "Civil
 war pays no taxes. Scanty are ⌈grain⌉, charcoal, . . .  <span
-id="fr_628"></span>[1](#fn_628) the labor of the craftsmen. . . . For
+id="fr_628"></span>[1](#fn_628.md) the labor of the craftsmen. . . . For
 what is a treasury without its revenues?" (3, 10–11).
 
 Under such economic conditions at home, foreign commerce decays and
 disappears. "Men sail not northward to \[Byb\]los to-day. What shall we
 do for cedars for our mummies, with the tribute of which priests are
 buried; and with the oil of which \[princes\] are embalmed as far as
-Keftyew. <span id="fr_629"></span>[2](#fn_629) They return no more.
+Keftyew. <span id="fr_629"></span>[2](#fn_629.md) They return no more.
 Scanty is gold, ended are the . . . of all crafts. . . . What a great
 thing that the natives of the oases (still) come bearing their festal
-produce!" (3, 6–9). <span id="fr_630"></span>[3](#fn_630)
+produce!" (3, 6–9). <span id="fr_630"></span>[3](#fn_630.md)
 
 Such conditions might be expected, for the public safety of men and
 merchandise has vanished. "Although the
@@ -331,7 +331,7 @@ virtues walks in mourning by reason of what has happened in the land"
 (1, 8); others say, "If I knew where the god is, then would I make
 offerings to him" (5, 3). "Indeed, \[righteousness\] is in the land
 (only) in this its name; what men do, in appealing to it, is
-iniquity" <span id="fr_631"></span>[1](#fn_631) (5, 3–4). Little wonder
+iniquity" <span id="fr_631"></span>[1](#fn_631) (5, 3–4.md). Little wonder
 that there is universal despair. "Indeed, mirth has perished, it is no
 longer made; it is sighing that is in the land, mingled with
 lamentations" (3, 13–14). "Indeed, great and small \[say\], 'I would
@@ -376,7 +376,7 @@ exhortations is gradually
 
 involved in ever-increasing obscurity as the fragmentary condition of
 the papyrus grows worse. Out of a large lacuna at last <span
-id="fr_632"></span>[1](#fn_632) there emerges the most important passage
+id="fr_632"></span>[1](#fn_632.md) there emerges the most important passage
 in the entire speech of the sage, and one of the most important in the
 whole range of Egyptian literature.
 
@@ -387,10 +387,10 @@ the ideal ruler for whose advent he longs. That ideal king once ruled
 Egypt as the Sun-god, Re, and as the sage recalls that golden age, he
 contrasts it with the iniquitous reign under which the land now suffers.
 "He brings cooling to the flame. It is said he is the shepherd <span
-id="fr_633"></span>[2](#fn_633) of all men. There is no evil in his
+id="fr_633"></span>[2](#fn_633.md) of all men. There is no evil in his
 heart. When his herds are few, he passes the day to gather them
 together, their hearts being fevered. <span
-id="fr_634"></span>[3](#fn_634) Would that he had discerned their
+id="fr_634"></span>[3](#fn_634.md) Would that he had discerned their
 character in the first generation. Then would he have smitten evil. He
 would have stretched forth his arm against it. He would have smitten the
 ⌈seed⌉ thereof and their inheritance. . . . Where is he to-day? Doth he
@@ -418,14 +418,14 @@ and his work is here unmistakably lifted up by the ancient sage—lifted
 up in the presence of the living king and those assembled with him, that
 they may catch something of its splendor. This is, of course, Messianism
 nearly fifteen hundred years before its appearance among the
-Hebrews." <span id="fr_635"></span>[1](#fn_635)
+Hebrews." <span id="fr_635"></span>[1](#fn_635.md)
 
 <span id="page_213">p. 213</span>
 
 In the mind of the sage the awful contrast between the rule of the ideal
 king and that of the living Pharaoh in whose presence he stands now
 calls forth the fiercest denunciation of his sovereign. Like
-Nathan <span id="fr_636"></span>[1](#fn_636) with his biting words,
+Nathan <span id="fr_636"></span>[1](#fn_636.md) with his biting words,
 "Thou art the man," he places the responsibility for all that he has so
 vividly recalled upon the shoulders of the king. "Taste, Knowledge, and
 Righteousness are with thee," he says, (but) "it is strife which thou
@@ -513,7 +513,7 @@ solved even under the skilled and experienced administration of England
 in Egypt at the present day.
 
 The tale of the Eloquent Peasant is as follows. <span
-id="fr_637"></span>[1](#fn_637) A
+id="fr_637"></span>[1](#fn_637.md) A
 
 <span id="page_217">p. 217</span>
 
@@ -522,7 +522,7 @@ called the Salt-Field, loads a small train of donkeys with the produce
 of his village and goes down to Heracleopolis, near the mouth of the
 Fayum, to trade for grain. On the way thither he is obliged to pass the
 establishment of one Thutenakht, a subordinate official among the people
-of Rensi, <span id="fr_638"></span>[1](#fn_638) who was grand steward of
+of Rensi, <span id="fr_638"></span>[1](#fn_638.md) who was grand steward of
 the Pharaoh himself, Heracleopolis being the royal residence at the time
 in which the action is placed (Ninth or Tenth Dynasty). Now, when
 Thutenakht sees the donkeys of the peasant approaching, he at once
@@ -607,7 +607,7 @@ littleness, who destroys falsehood and brings about truth. Respond to
 the cry which my mouth utters, when I speak, hear thou. Do justice, thou
 who art praised, whom the praised praise. Relieve my misery. Behold me,
 I am heavy laden; prove me, to I am in sorrow." <span
-id="fr_639"></span>[1](#fn_639)
+id="fr_639"></span>[1](#fn_639.md)
 
 The grand steward is so pleased with the peasant's extraordinary
 readiness in speech, that he leaves him without giving any decision in
@@ -651,7 +651,7 @@ two lips are the beam thereof" (11. 140–167).
 
 These comparisons of the grand steward's character and functions with
 the balances appear repeatedly in the speeches of the peasant. <span
-id="fr_640"></span>[1](#fn_640) Their lesson is evident. The norm of
+id="fr_640"></span>[1](#fn_640.md) Their lesson is evident. The norm of
 just procedure is in the hands of the ruling class. If they fail, where
 else shall it be found? It is expected that they shall weigh right and
 wrong and reach a just decision with the infallibility of accurate
@@ -669,7 +669,7 @@ impartial balances. "Take heed," says he, "(for) eternity draws near."
 This is one of few appeals against injustice to the future
 responsibility of the oppressor. It is found once more also in this
 document, in the second speech of the peasant. <span
-id="fr_641"></span>[1](#fn_641)
+id="fr_641"></span>[1](#fn_641.md)
 
 The threats of the peasant now prove too keen for the grand steward as
 he stands before the palace, and he despatches two servants to flog the
@@ -680,7 +680,7 @@ appointed," he says, "to hear causes, to judge two litigants, to ward
 off the robber. But thou makest common cause with the thief. Men love
 thee, although thou art a transgressor. Thou art set for a dam for the
 afflicted, to save him from drowning." <span
-id="fr_642"></span>[2](#fn_642)
+id="fr_642"></span>[2](#fn_642.md)
 
 Still there is no response from Rensi, and the peasant begins a sixth
 address with renewed appeal to the great man's sense of justice and his
@@ -693,7 +693,7 @@ after the violent tempest, that it may
 <span id="page_223">p. 223</span>
 
 warm those who suffer cold; like fire that cooks what is raw; like water
-that quenches thirst." <span id="fr_643"></span>[1](#fn_643)
+that quenches thirst." <span id="fr_643"></span>[1](#fn_643.md)
 
 As Rensi remains unresponsive to this appeal, the wretched peasant is
 again goaded to denunciation. "Thou art instructed, thou art educated,
@@ -702,11 +702,11 @@ men and thy kin are (likewise) ensnared. (Thou) the rectitude of all
 men, art the (chief) transgressor of the whole land. The gardener of
 evil, waters his domain with iniquity that his domain may bring forth
 falsehood, in order to flood the estate with wickedness." <span
-id="fr_644"></span>[2](#fn_644) Even such denunciation seems now to
+id="fr_644"></span>[2](#fn_644.md) Even such denunciation seems now to
 leave the grand steward entirely indifferent and the peasant approaches
 for his seventh speech. He begins with the usual florid encomium in
 which the grand steward is the "rudder of the whole land according to
-whose command the land sails," <span id="fr_645"></span>[3](#fn_645) but
+whose command the land sails," <span id="fr_645"></span>[3](#fn_645.md) but
 turns soon to his own miserable condition. "My body is full, and my
 heart is burdened," he complains; "there is a break in the dam and the
 waters thereof rush out. (Thus) my mouth is opened to speak." Then as
@@ -722,17 +722,17 @@ which thou wouldst not have opened. There is none ignorant
 <span id="page_224">p. 224</span>
 
 whom thou wouldst not have made wise. There is none foolish whom thou
-wouldst not have taught." <span id="fr_646"></span>[1](#fn_646) Unable
+wouldst not have taught." <span id="fr_646"></span>[1](#fn_646.md) Unable
 to restrain the tide of his indignation, therefore, the peasant goes on
 to his eighth speech and continued denunciation. "Thy heart is
 avaricious; it becomes thee not. Thou robbest; it profiteth thee not. .
 . . The officials who were installed to ward off iniquity are a refuge
 for the unbridled, (even) the officials who were installed to ward off
-falsehood." <span id="fr_647"></span>[2](#fn_647) The appeal to justice,
+falsehood." <span id="fr_647"></span>[2](#fn_647.md) The appeal to justice,
 however, is not abandoned, and the peasant returns to it in the most
 remarkable utterances in this remarkable tractate. "Do justice for the
 sake of the lord of justice . . . thou (who art) Pen and Roll and
-Writing Palette, (even) Thoth <span id="fr_648"></span>[3](#fn_648) who
+Writing Palette, (even) Thoth <span id="fr_648"></span>[3](#fn_648.md) who
 art far from doing evil. . . . For justice (or 'righteousness, right,
 truth') is for eternity. It descends with him that doeth it into the
 grave, when he is placed in the coffin and laid in the earth. His name
@@ -750,9 +750,9 @@ requital for this good word which came out of
 <span id="page_225">p. 225</span>
 
 the mouth of Re himself: 'Speak the truth, do the truth. <span
-id="fr_649"></span>[1](#fn_649) For it is great, it is mighty, it is
+id="fr_649"></span>[1](#fn_649.md) For it is great, it is mighty, it is
 enduring. The reward thereof shall find thee, and it shall follow (thee)
-unto blessedness hereafter.'" <span id="fr_650"></span>[2](#fn_650)
+unto blessedness hereafter.'" <span id="fr_650"></span>[2](#fn_650.md)
 
 No response from Rensi follows these noble words. The peasant lifts up
 his voice again in a final despairing plea, his ninth address. He
@@ -768,11 +768,11 @@ peasant doubtless means that he goes to take his own life. The grand
 steward sends his servants to bring him back as he departs, and some
 unintelligible words pass between them. Meantime, Rensi "had committed
 to a roll every petition (of the peasant) unto \[this\] day." It is
-[supposedly](errata.htm#5) a copy of this roll which has descended to
+[supposedly](errata.htm#5.md) a copy of this roll which has descended to
 us; but, unfortunately, the conclusion has been torn off. We can only
 discern that the roll prepared by Rensi's secretaries is taken by him to
 the king, who found "it more pleasant to (his) heart than anything in
-this whole land." <span id="fr_651"></span>[3](#fn_651) The king
+this whole land." <span id="fr_651"></span>[3](#fn_651.md) The king
 commands
 
 <span id="page_226">p. 226</span>
@@ -803,7 +803,7 @@ reputation of the tractate in the estimation of the humor-loving
 Egyptians. But it was literature with a moral purpose.
 
 It is probable that the Wisdom of Ptahhotep, <span
-id="fr_652"></span>[1](#fn_652) the other
+id="fr_652"></span>[1](#fn_652.md) the other
 
 <span id="page_227">p. 227</span>
 
@@ -827,21 +827,21 @@ be summoned, after he had discerned the
 <span id="page_228">p. 228</span>
 
 fashion of men and their character ⌈came to him⌉. <span
-id="fr_653"></span>[1](#fn_653) . . . He said to them: As for everything
+id="fr_653"></span>[1](#fn_653.md) . . . He said to them: As for everything
 that is in writing in this roll, hear it as I say it ⌈as an added
 obligation⌉.' They threw themselves upon their bellies, they read it
 according to that which was in writing. It was pleasanter to their
 hearts than anything that is in this whole land. <span
-id="fr_654"></span>[2](#fn_654) Then they rose up and they sat down
+id="fr_654"></span>[2](#fn_654.md) Then they rose up and they sat down
 accordingly. Then the majesty of the king of Upper and Lower Egypt Huni
 died, and the majesty of the king of Upper and Lower Egypt Snefru was
 established as excellent king in this whole land. Then Kegemne was
 appointed to be governor of the (residence) city and vizier. It (the
-book) is ended." <span id="fr_655"></span>[3](#fn_655) Presumably, the
+book) is ended." <span id="fr_655"></span>[3](#fn_655.md) Presumably, the
 career of the nameless old vizier and sage of the Third Dynasty, into
 whose mouth the wisdom of the Twelfth Dynasty was put, ended with the
 life of his king and the advent of a new vizier. <span
-id="fr_656"></span>[4](#fn_656) It is evident that social ethics as
+id="fr_656"></span>[4](#fn_656.md) It is evident that social ethics as
 taught by the sages of the Twelfth Dynasty (Feudal Age) was also
 commonly attributed by them to the viziers of the Pyramid Age, for we
 shall find that this was the case also with the Wisdom of Ptahhotep,
@@ -865,7 +865,7 @@ forgets, it remembers not yesterday. . . . That which is good becomes
 evil. All taste departs. That which old age does to people is evil in
 everything. The nostrils are stopped up, they breathe not. It is evil
 whether one stands or sits. Let thy servant be commanded to furnish the
-staff of old age. <span id="fr_657"></span>[1](#fn_657) Let my son stand
+staff of old age. <span id="fr_657"></span>[1](#fn_657.md) Let my son stand
 in my place, and let me instruct him according to the word of those who
 have heard the manner of the ancestors, that (word) which the
 forefathers served, (variant: "which the gods have heard"). May they do
@@ -919,7 +919,7 @@ according to the correctness of the good word, as a
 <span id="page_231">p. 231</span>
 
 profitable thing for him who is obedient to it, and as an evil thing for
-him who transgresses it." <span id="fr_658"></span>[1](#fn_658)
+him who transgresses it." <span id="fr_658"></span>[1](#fn_658.md)
 
 The introduction concludes with a short paragraph on the desirability of
 humility in wisdom in spite of its high value. Then begin the
@@ -928,7 +928,7 @@ There is not space here either for the entire text of this excessively
 difficult tractate or for the commentary necessary to make it
 intelligible to the modern reader. Nor even so, on the basis of our
 modern knowledge of the language, is it possible to render the document
-as a whole. <span id="fr_659"></span>[2](#fn_659)
+as a whole. <span id="fr_659"></span>[2](#fn_659.md)
 
 The following table of the rubrics heading the paragraphs and suggesting
 in each case the subject discussed will serve, however, to indicate the
@@ -938,7 +938,7 @@ I found intelligible.
 
 1\. "If thou findest a wise man in his time, a leader of understanding
 more excellent than thou, bend thy arms and bow thy back" <span
-id="fr_660"></span>[3](#fn_660) (5, 10–12).
+id="fr_660"></span>[3](#fn_660) (5, 10–12.md).
 
 2\. "If thou findest a wise man in his time, thy equal, . . . be not
 silent when he speaks evil. Great is the approval by those who hear, and
@@ -963,7 +963,7 @@ What they (the gods?) give comes of itself" (6, 8–10).
 
 6\. "If thou art a man of those who sit by the seat of a man greater
 than thou, take what (food) he gives, . . . look at what is before thee,
-and bombard <span id="fr_661"></span>[1](#fn_661) him not with many
+and bombard <span id="fr_661"></span>[1](#fn_661.md) him not with many
 glances (don't stare at him). . . . Speak not to him until he calls. One
 knows not what is unpleasant to (his) heart. Speak thou when he greets
 thee, and what thou sayest will be agreeable to (his) heart" (6, 11–7,
@@ -1032,7 +1032,7 @@ kin. Greater is the fame of the gentle than (that of) the harsh" (10,
 husbandly embrace, fill her body, clothe her back. The recipe for her
 limbs is ointment. Gladden her heart as long as thou livest. She is a
 profitable field for her lord" (10, 8–12). <span
-id="fr_662"></span>[1](#fn_662)
+id="fr_662"></span>[1](#fn_662.md)
 
 21\. "Satisfy those who enter to thee (come into thy office) with that
 which thou hast" (11, 1–4).
@@ -1047,7 +1047,7 @@ difficult) (11, 8–11).
 and by quietness of speech" (11, 12–12, 6).
 
 25\. "⌈Approach⌉ not a prince in his time" <span
-id="fr_663"></span>[2](#fn_663) (12, 6–9).
+id="fr_663"></span>[2](#fn_663) (12, 6–9.md).
 
 26\. "Instruct a prince (or 'official') in that which is profitable for
 him" (12, 9–13).
@@ -1154,7 +1154,7 @@ years of life not less \[⌈than⌉\] I have passed on earth. I have
 attained one hundred and ten years of life, while the king gave to me
 praise above (that of) the ancestors (in the vizierial office) because I
 did righteousness for the king even unto the place of reverence (the
-grave)" <span id="fr_664"></span>[1](#fn_664) (19, 3–8).
+grave)" <span id="fr_664"></span>[1](#fn_664) (19, 3–8.md).
 
 In the Wisdom of Ptahhotep we have what purports to be the ripe worldly
 wisdom of a seasoned old statesman and courtier, with a long life of
@@ -1176,7 +1176,7 @@ the Feudal Age.
 
 Over half of these admonitions deal with personal character and conduct,
 while the remainder have to do with administration and official
-conduct. <span id="fr_665"></span>[1](#fn_665) In general they inculcate
+conduct. <span id="fr_665"></span>[1](#fn_665.md) In general they inculcate
 gentleness, moderation, and discretion without lack of self-assertion,
 displaying indeed the soundest good sense in the poise and balance to
 which they commend the young man. There is none of the sombre pessimism
@@ -1197,7 +1197,7 @@ documents of this great age, that I am
 confident we should place here the Installation of the Vizier, a
 traditional address orally delivered to the vizier by the king in person
 whenever a new incumbent was inducted into the vizierial office. <span
-id="fr_666"></span>[1](#fn_666) This remarkable address shows that the
+id="fr_666"></span>[1](#fn_666.md) This remarkable address shows that the
 spirit of the Wisdom of Ptahhotep and the Eloquent Peasant was not
 exclusively a matter of homely proverbial philosophy, current precepts
 of conduct, or a picturesque story with a moral. This spirit of social
@@ -1207,7 +1207,7 @@ the throne itself. The address is as follows:
 <span id="page_240">p. 240</span>
 
 "Regulation laid upon the vizier X. <span
-id="fr_667"></span>[1](#fn_667) The council was conducted into the
+id="fr_667"></span>[1](#fn_667.md) The council was conducted into the
 audience hall of Pharaoh, Life! Prosperity! Health! One (= the king)
 caused that there be brought in the vizier X, newly appointed."
 
@@ -1223,7 +1223,7 @@ himself slaves of any people.'
 
 "'Behold, as for a man in the house of his lord, his ⌈conduct⌉ is good
 for him (the lord). (But) lo, he does not the same for another' (than
-the lord). <span id="fr_668"></span>[2](#fn_668)
+the lord). <span id="fr_668"></span>[2](#fn_668.md)
 
 <span id="page_241">p. 241</span>
 
@@ -1236,7 +1236,7 @@ For behold, that which is done by him never remains unknown.'
 
 "'When he takes up a matter \[for a petition\]er according to his case,
 he (the vizier) shall not proceed by the statement of a departmental
-officer. <span id="fr_669"></span>[1](#fn_669) But it (the matter under
+officer. <span id="fr_669"></span>[1](#fn_669.md) But it (the matter under
 consideration) shall be known by the statement of one designated by him
 (the vizier), saying it himself in the presence of a departmental
 officer with the words: "It is not that I raise my voice; (but) I send
@@ -1245,7 +1245,7 @@ prince." Then that which has been done by him has not been
 misunderstood.'
 
 "'Behold the refuge of a prince is to act according to the regulation by
-doing what is said' (to him). <span id="fr_670"></span>[2](#fn_670) A
+doing what is said' (to him). <span id="fr_670"></span>[2](#fn_670.md) A
 petitioner who has been adjudged \[⌈shall not say⌉\]: 'My right has not
 been given to. \[me\].'
 
@@ -1269,7 +1269,7 @@ prince who does this, he shall endure here in this place.'
 
 "'Pass not over a petitioner without regarding his speech. If there is a
 petitioner who shall appeal to thee, being one whose speech is not what
-is said, <span id="fr_671"></span>[1](#fn_671) dismiss him after having
+is said, <span id="fr_671"></span>[1](#fn_671.md) dismiss him after having
 let him hear that on account of which thou dismissest him. Behold, it is
 said: "A petitioner desires that his saying be regarded rather than the
 hearing of that on account of which he has come."'
@@ -1303,7 +1303,7 @@ commanded him. \[Behold\] the success of a man is that he act according
 to what is said to him. Make no \[⌈delay⌉\] at all in justice, the law
 of which thou knowest. Behold, it becomes the arrogant that the king
 should love the timid more than the arrogant.' <span
-id="fr_672"></span>[1](#fn_672)
+id="fr_672"></span>[1](#fn_672.md)
 
 "'Now mayest thou do according to this command that is given thee—behold
 it is the manner of ⌈success⌉ besides giving thy attention to the
@@ -1437,7 +1437,7 @@ ages current in the East. When Plato wished to discourse on the
 immortality of the soul, he assumed as his dramatic setting the death of
 Socrates, and the doctrines which he wished to set forth took the form
 of conversation between Socrates and his friends. <span
-id="fr_673"></span>[1](#fn_673) It is hardly conceivable that this
+id="fr_673"></span>[1](#fn_673.md) It is hardly conceivable that this
 method of moralizing and philosophizing in dialogue after an
 introduction which throws the whole essentially into the form of a tale,
 a method which produced so many documents in Egypt, had no influence on
@@ -1474,7 +1474,7 @@ food so that there was none hungry therein. I gave to the widow as (to)
 her who had a husband. I did not exalt the great (man) above the small
 (man) in anything that I gave. Then came great Niles (inundations),
 possessors of grain and all things, (but) I did not collect the arrears
-of the field." <span id="fr_674"></span>[1](#fn_674)
+of the field." <span id="fr_674"></span>[1](#fn_674.md)
 
 In this record we seem to hear an echo of the Installation of the
 Vizier, especially in the statement, "I did not exalt the great man
@@ -1496,7 +1496,7 @@ influence among the ruling class everywhere.
 
 Herein, then, we may discern a great transformation. The pessimism with
 which the men of the early Feudal Age, <span
-id="fr_675"></span>[1](#fn_675) as they beheld the desolated cemeteries
+id="fr_675"></span>[1](#fn_675.md) as they beheld the desolated cemeteries
 of the Pyramid Age, or as they contemplated the hereafter, and the
 hopelessness with which some of them regarded the earthly life were met
 by a persistent counter-current in the dominant gospel of righteousness
@@ -1544,7 +1544,7 @@ Pyramid Texts, Osiris had already climbed upon the celestial throne of
 
 <span class="contnote">\[paragraph continues\]</span> Re; we shall see
 him now also appropriating Re's judgment-seat. <span
-id="fr_676"></span>[1](#fn_676)
+id="fr_676"></span>[1](#fn_676.md)
 
 We discern the Egyptians, then, developing at a surprisingly early date
 a sense of the moral unworthiness of man and a consciousness of
@@ -1567,7 +1567,7 @@ the Pyramid Age; but here again it should not be forgotten that the
 Pyramid Texts have preserved traces of a view of Osiris which, far from
 making him the ideal king and the friend of man, discloses him as an
 enemy of the dead and hostile to men. <span
-id="fr_677"></span>[2](#fn_677) It is not until the Feudal Age that
+id="fr_677"></span>[2](#fn_677.md) It is not until the Feudal Age that
 
 <span id="page_252">p. 252</span>
 
@@ -1576,7 +1576,7 @@ unmistakably emerges as the champion of righteousness. Ptahhotep, with
 the complaisant optimism which characterizes his maxims, avers that
 righteousness has not been "disturbed since the time of Osiris," meaning
 the time when Osiris ruled on earth as a righteous king. <span
-id="fr_678"></span>[1](#fn_678) While the political triumph of Re
+id="fr_678"></span>[1](#fn_678.md) While the political triumph of Re
 largely created the religious atmosphere which environed these social
 philosophers of the court, we shall now observe Osiris and Re, side by
 side, in the moral thinking of the age.
@@ -1606,9 +1606,9 @@ can devise
 for the long journey. Over and over again the men of the Feudal Age
 reiterate in their tombs their claims to righteousness of character.
 "Sesenebnef has done righteousness, his abomination was evil, he saw it
-not," <span id="fr_679"></span>[1](#fn_679) says an official of the time
+not," <span id="fr_679"></span>[1](#fn_679.md) says an official of the time
 on his sarcophagus. The mortuary texts which fill the cedar coffins of
-this age <span id="fr_680"></span>[2](#fn_680) show clearly that the
+this age <span id="fr_680"></span>[2](#fn_680.md) show clearly that the
 consciousness of moral responsibility in the hereafter has greatly
 deepened since the Pyramid Age. The balances of justice to which the
 peasant appealed so often and so dramatically are now really finding
@@ -1616,16 +1616,16 @@ place in the drama of justification hereafter. "The doors of the sky are
 opened to thy beauty," says one to the deceased; "thou ascendest, thou
 seest Hathor. Thy evil is expelled, thy iniquity is wiped away, by those
 who weigh with the balances on the day of reckoning." <span
-id="fr_681"></span>[3](#fn_681) Just as the peasant so often called the
+id="fr_681"></span>[3](#fn_681.md) Just as the peasant so often called the
 grand steward the balances of justice, so the deceased may be possessed
 of character as true and unswerving as the scales themselves. Hence we
 find the Coffin Texts saying, "Lo, this —— (name of the deceased) is the
 balances of Re, wherewith he weighs truth" (or righteousness). <span
-id="fr_682"></span>[4](#fn_682) It is evident also whose are the
+id="fr_682"></span>[4](#fn_682.md) It is evident also whose are the
 balances of truth and who the judge who presides over them. It is as
 before the Sun-god, before whom even Osiris had been tried. A similar
 connection of the judgment with Re places it in the cabin of the Solar
-barque. <span id="fr_683"></span>[5](#fn_683)
+barque. <span id="fr_683"></span>[5](#fn_683.md)
 
 The moral requirement of the great judge has become a matter of course.
 The dead says: "I have led the way before him and behind him. He loves
@@ -1634,33 +1634,33 @@ whereon
 
 <span id="page_254">p. 254</span>
 
-the gods lead." <span id="fr_684"></span>[1](#fn_684) When the dead man
+the gods lead." <span id="fr_684"></span>[1](#fn_684.md) When the dead man
 entered those righteous paths of the gods, it was with a sense of moral
 unworthiness left behind. "My sin is expelled," he said, "my iniquity is
 removed. I have cleansed myself in those two great pools which are in
-Heracleopolis." <span id="fr_685"></span>[2](#fn_685) Those ceremonial
+Heracleopolis." <span id="fr_685"></span>[2](#fn_685.md) Those ceremonial
 washings which were so common in the Pyramid Texts have now become
 distinctly moral in their significance. "I go upon the way where I wash
 my head in the Lake of Righteousness," says the dead man. <span
-id="fr_686"></span>[3](#fn_686) Again and very often the deceased claims
+id="fr_686"></span>[3](#fn_686.md) Again and very often the deceased claims
 that his life has been blameless: "I am one who loved righteousness, my
-abomination was evil." <span id="fr_687"></span>[4](#fn_687) "I sit down
-justified, I rise up justified." <span id="fr_688"></span>[5](#fn_688)
+abomination was evil." <span id="fr_687"></span>[4](#fn_687.md) "I sit down
+justified, I rise up justified." <span id="fr_688"></span>[5](#fn_688.md)
 "I have established righteousness, I have expelled evil." <span
-id="fr_689"></span>[6](#fn_689) "I am a lord of offering, my abomination
-is evil." <span id="fr_690"></span>[7](#fn_690)
+id="fr_689"></span>[6](#fn_689.md) "I am a lord of offering, my abomination
+is evil." <span id="fr_690"></span>[7](#fn_690.md)
 
 A number of times the Osirian Horus appears as the moral champion of the
 dead, to whom he says: "I am thy son Horus, I have caused that thou be
-justified in the council." <span id="fr_691"></span>[8](#fn_691) This of
+justified in the council." <span id="fr_691"></span>[8](#fn_691.md) This of
 course means the identification of the dead with Osiris, and the
 enjoyment of the same justification which had been granted Osiris. Hence
 Horus says to the dead: "O Osiris X! I have given to thee justification
 against thy enemies on this good day." <span
-id="fr_692"></span>[9](#fn_692) This justification was of course not
+id="fr_692"></span>[9](#fn_692.md) This justification was of course not
 that granted by Osiris, but by the Sun-god, as shown by such utterances
 of Horus as this: "I put righteousness before him (the deceased) like
-Atum" (the Sun-god). <span id="fr_693"></span>[10](#fn_693) Now, the
+Atum" (the Sun-god). <span id="fr_693"></span>[10](#fn_693.md) Now, the
 justification before the Sun-god was accomplished by Thoth, as advocate
 of the
 
@@ -1672,36 +1672,36 @@ Justification before Thoth, Hereditary Prince of the Gods," although the
 text of the chapter unfortunately consists of mortuary ceremonies on
 behalf of Osiris, and makes but one reference to justification in
 mentioning "the beautiful paths of justification." <span
-id="fr_694"></span>[1](#fn_694) In the justification of Osiris himself,
+id="fr_694"></span>[1](#fn_694.md) In the justification of Osiris himself,
 Thoth had figured as his defender, and the justification in the
 foregoing chapter is probably Osirian, though it does not unequivocally
 make Osiris the judge. The ethical significance of Osiris is evident in
 a passage where the deceased, identified with Osiris, says: "I perish
 not, I enter as truth, I \[support\] truth, I am lord of truth, I go
 forth as truth, . . . I enter in as truth"; <span
-id="fr_695"></span>[2](#fn_695) or again where Osiris says: "I am
+id="fr_695"></span>[2](#fn_695.md) or again where Osiris says: "I am
 Osiris, the god who does righteousness, I live in it." <span
-id="fr_696"></span>[3](#fn_696)
+id="fr_696"></span>[3](#fn_696.md)
 
 But Osiris early discloses himself as the judge. We hear in the Coffin
 Texts of "the Great Council (or court of justice) of Osiris" as early as
 the Ninth or Tenth Dynasty (twenty-fourth to twenty-second
-centuries). <span id="fr_697"></span>[4](#fn_697) In the same text the
+centuries). <span id="fr_697"></span>[4](#fn_697.md) In the same text the
 dead (or possibly Horus) says: "I have commanded those who are in the
 Great Council in the cavern of Osiris; I have repeated it in the
 presence of Mat (Goddess of Truth), to cause that I prevail over that
-foe." <span id="fr_698"></span>[5](#fn_698) It is perhaps this council
+foe." <span id="fr_698"></span>[5](#fn_698.md) It is perhaps this council
 that is meant when the dead is assured, "Thou art justified on the day
 when judgment is rendered in the council of the Lord of Gem-wet,"
 although I am not certain that Osiris was the Lord of Gemwet. <span
-id="fr_699"></span>[6](#fn_699) According to another notion there were
+id="fr_699"></span>[6](#fn_699.md) According to another notion there were
 seven of these "councils" or courts of Osiris, and we find a
 
 <span id="page_256">p. 256</span>
 
 prayer that the soul of the deceased may be justified "against his
 enemies in the sky, in the earth, and in these seven councils of
-Osiris." <span id="fr_700"></span>[1](#fn_700) Doubtless the popularity
+Osiris." <span id="fr_700"></span>[1](#fn_700.md) Doubtless the popularity
 of Osiris had much to do with the spread of the conviction, now
 universal, that *every* soul must meet this ethical ordeal in the
 hereafter. It now became, or let us say that at the advent of the Middle
@@ -1719,7 +1719,7 @@ conceived as king. Even in burials of simple folk, the mummy was
 fashioned and laid on the back like that of Osiris, and amulets
 representing the royal insignia of the Pharaoh were painted on the
 inside of the coffin or laid beside the body. <span
-id="fr_701"></span>[2](#fn_701) The popular power of the ancient god is
+id="fr_701"></span>[2](#fn_701.md) The popular power of the ancient god is
 evident in the new custom of prefixing the name of Osiris to that of the
 dead man. He might be and was frequently identified with the Sun-god
 too, but as a departed spirit it was by the name of Osiris that he was
@@ -1729,17 +1729,17 @@ designated.
 
 ### Footnotes
 
-<span id="fn_622"></span>[199:1](rtae11.htm#fr_622) British Museum,
+<span id="fn_622"></span>[199:1](rtae11.htm#fr_622.md) British Museum,
 5645. Although long exhibited, its content was first discerned and
 published by <span class="smallcaps">Gardiner</span>, in his
 *Admonitions of an Egyptian Sage*, as an Appendix, pp. 95–112 and pls.
 17–18. The above rendering is chiefly that of <span
 class="smallcaps">Gardiner</span>.
 
-<span id="fn_623"></span>[200:1](rtae11.htm#fr_623) Literally "body" or
+<span id="fn_623"></span>[200:1](rtae11.htm#fr_623.md) Literally "body" or
 "belly," the seat of mind.
 
-<span id="fn_624"></span>[202:1](rtae11.htm#fr_624) The text is
+<span id="fn_624"></span>[202:1](rtae11.htm#fr_624.md) The text is
 preserved in seven corrupt hieratic manuscripts of the Empire dating
 from the age near the end of the reign of Ramses II. The latest and best
 treatment and text are by <span class="smallcaps">Griffith</span>
@@ -1750,7 +1750,7 @@ Museums zu Berlin*, 44–45. The above version is indebted to both; see
 BAR, I, 474–483. For the old bibliography see <span
 class="smallcaps">Maspero</span>, *Dawn of Civilization*, 467, n. 2.
 
-<span id="fn_625"></span>[204:1](rtae11.htm#fr_625) So <span
+<span id="fn_625"></span>[204:1](rtae11.htm#fr_625.md) So <span
 class="smallcaps">Gardiner</span>. A papyrus in the Leiden Museum, No.
 344. It is 378 centimetres long and 18 centimetres high, and contains
 seventeen pages of writing. Although early published by <span
@@ -1768,32 +1768,32 @@ edition, by <span class="smallcaps">Alan H. Gardiner</span> (The
 discussion and closer determination of the exact character of the
 document.
 
-<span id="fn_626"></span>[205:1](rtae11.htm#fr_626) The above
+<span id="fn_626"></span>[205:1](rtae11.htm#fr_626.md) The above
 translations are chiefly those of <span
 class="smallcaps">Gardiner</span>, who has been commendably cautious in
 his renderings. Besides his own thorough work on the document, he has
 incorporated the proverbially penetrating observations and renderings of
 <span class="smallcaps">Sethe</span>.
 
-<span id="fn_627"></span>[205:2](rtae11.htm#fr_627) This was
+<span id="fn_627"></span>[205:2](rtae11.htm#fr_627.md) This was
 particularly heinous from the orderly Egyptian's point of view; the
 withdrawing of writings and records from the public offices for purposes
 of evidence or consultation was carefully regulated. The regulations
 governing the vizier's office have survived; see BAR, II, 684.
 
-<span id="fn_628"></span>[207:1](rtae11.htm#fr_628) Three sorts of wood
+<span id="fn_628"></span>[207:1](rtae11.htm#fr_628.md) Three sorts of wood
 follow.
 
-<span id="fn_629"></span>[207:2](rtae11.htm#fr_629) Vocalize Kaftoyew,
+<span id="fn_629"></span>[207:2](rtae11.htm#fr_629.md) Vocalize Kaftoyew,
 Caphtor (as first suggested by <span
 class="smallcaps">Spiegelberg</span>), that is Crete.
 
-<span id="fn_630"></span>[207:3](rtae11.htm#fr_630) This last remark is
+<span id="fn_630"></span>[207:3](rtae11.htm#fr_630.md) This last remark is
 of course ironical in reference to the fact that the only traffic with
 the outside world left to Egypt is the scanty produce of the oases which
 still filters in.
 
-<span id="fn_631"></span>[209:1](rtae11.htm#fr_631) The restoration of
+<span id="fn_631"></span>[209:1](rtae11.htm#fr_631.md) The restoration of
 "righteousness" is due to <span class="smallcaps">Sethe</span>, and in
 view of its frequent occurrence, as the opposite of the word here used
 as "inquity" (ysft), from the Pyramid Texts on, the restoration fits the
@@ -1801,21 +1801,21 @@ context admirably, but <span class="smallcaps">Gardiner</span> states
 that the traces in the lacuna do not favor the restoration. The original
 hieratic of the passage is not included in his publication.
 
-<span id="fn_632"></span>[211:1](rtae11.htm#fr_632) Latter part of [p.
-11](rtae05.htm#page_11).
+<span id="fn_632"></span>[211:1](rtae11.htm#fr_632.md) Latter part of [p.
+11](rtae05.htm#page_11.md).
 
-<span id="fn_633"></span>[211:2](rtae11.htm#fr_633) Or "herdman." The
+<span id="fn_633"></span>[211:2](rtae11.htm#fr_633.md) Or "herdman." The
 Sun-god is called "a valiant herdman who drives his cattle" in a
 Sun-hymn of the Eighteenth Dynasty (see below, [p.
-316](rtae13.htm#page_316)), and this, it seems to me, makes quite
+316](rtae13.htm#page_316).md), and this, it seems to me, makes quite
 certain <span class="smallcaps">Gardiner's</span> conclusion (on other
 grounds) that this passage is a description of the reign of Re.
 
-<span id="fn_634"></span>[211:3](rtae11.htm#fr_634) This probably means
+<span id="fn_634"></span>[211:3](rtae11.htm#fr_634.md) This probably means
 thirsty, perhaps a symbol for afflicted. Compare the hearts of the
-cattle "weeping" above, [p. 209](#page_209).
+cattle "weeping" above, [p. 209](#page_209.md).
 
-<span id="fn_635"></span>[212:1](rtae11.htm#fr_635) <span
+<span id="fn_635"></span>[212:1](rtae11.htm#fr_635.md) <span
 class="smallcaps">Lange</span> first called attention to the Messianic
 character of this passage. His interpretation, however, was that the
 passage definitely *predicts* the coming of the Messianic king. <span
@@ -1837,7 +1837,7 @@ course, the leading theme of Hebrew prophecy. On the basis of any
 sufficient definition of Hebrew prophecy, including the contemplation of
 social and political evils, and admonitions for their amelioration, the
 utterances of <span id="page_213">p. 213</span> Ipuwer are prophecy
-throughout (see *infra*, [p. 215](#page_215)). With reference to the
+throughout (see *infra*, [p. 215](#page_215).md). With reference to the
 "Messianic" passage above, its Messianic character does not in the
 slightest depend upon its *predictive* character. <span
 class="smallcaps">Gardiner</span> is surely right (against <span
@@ -1885,10 +1885,10 @@ class="smallcaps">Gardiner</span> disclaims regarding prediction as
 constituting "prophecy," but I have had to deal with his argument as I
 found it in his admirable volume.
 
-<span id="fn_636"></span>[213:1](rtae11.htm#fr_636) The similarity was
+<span id="fn_636"></span>[213:1](rtae11.htm#fr_636.md) The similarity was
 noticed by <span class="smallcaps">Gardiner</span>.
 
-<span id="fn_637"></span>[216:1](rtae11.htm#fr_637) The tale of the
+<span id="fn_637"></span>[216:1](rtae11.htm#fr_637.md) The tale of the
 Eloquent Peasant is preserved in six papyri, three of which are now in
 the Berlin Museum (P. 10499, P. 3023, P. 3025); one in the British
 Museum (Papyrus Butler 527, Brit. Mus., No. <span id="page_217">p.
@@ -1908,57 +1908,57 @@ in *Proceedings of the Soc. of Bibl. Arch.*, XIV, 1892, pp. 451 *ff*.
 The Amherst fragments were published by <span
 class="smallcaps">Newberry</span> in *The Amherst Papyri*, London, 1899.
 
-<span id="fn_638"></span>[217:1](rtae11.htm#fr_638) This name was
+<span id="fn_638"></span>[217:1](rtae11.htm#fr_638.md) This name was
 formerly read "Meruitensi." The proper reading, "Rensi," was established
 by <span class="smallcaps">Sethe</span>, *Zeitschr. für aegypt.
 Sprache*, 49, 95 *ff*.
 
-<span id="fn_639"></span>[220:1](rtae11.htm#fr_639) In the older Berlin
+<span id="fn_639"></span>[220:1](rtae11.htm#fr_639.md) In the older Berlin
 papyrus the conclusion reads: "Count me (or 'prove me'), lo, I am few."
 
-<span id="fn_640"></span>[221:1](rtae11.htm#fr_640) It is a comparison
+<span id="fn_640"></span>[221:1](rtae11.htm#fr_640.md) It is a comparison
 which the great nobles of the Feudal Age were fond of using on their
 tomb stem; *e.g.*, BAR, I, 745, 531.
 
-<span id="fn_641"></span>[222:1](rtae11.htm#fr_641) Berlin, P. 3023, l.
+<span id="fn_641"></span>[222:1](rtae11.htm#fr_641.md) Berlin, P. 3023, l.
 95.
 
-<span id="fn_642"></span>[222:2](rtae11.htm#fr_642) *Ibid.*, ll. 234–8.
+<span id="fn_642"></span>[222:2](rtae11.htm#fr_642.md) *Ibid.*, ll. 234–8.
 
-<span id="fn_643"></span>[223:1](rtae11.htm#fr_643) *Ibid.*, ll. 240–8.
+<span id="fn_643"></span>[223:1](rtae11.htm#fr_643.md) *Ibid.*, ll. 240–8.
 
-<span id="fn_644"></span>[223:2](rtae11.htm#fr_644) *Ibid.*, ll. 260–5 =
+<span id="fn_644"></span>[223:2](rtae11.htm#fr_644.md) *Ibid.*, ll. 260–5 =
 Berlin, P. 3025, ll. 14–20.
 
-<span id="fn_645"></span>[223:3](rtae11.htm#fr_645) *Ibid.*, ll. 267–8.
+<span id="fn_645"></span>[223:3](rtae11.htm#fr_645.md) *Ibid.*, ll. 267–8.
 
-<span id="fn_646"></span>[224:1](rtae11.htm#fr_646) *Ibid.*, ll. 285–8.
+<span id="fn_646"></span>[224:1](rtae11.htm#fr_646.md) *Ibid.*, ll. 285–8.
 The negative has been omitted by the scribe in the second half (the
 relative clause) of each one of these sentences. This is doubtless due
 to the customary confusion in many languages in sentences where two
 negatives occur.
 
-<span id="fn_647"></span>[224:2](rtae11.htm#fr_647) *Ibid*., ll. 292–8.
+<span id="fn_647"></span>[224:2](rtae11.htm#fr_647.md) *Ibid*., ll. 292–8.
 
-<span id="fn_648"></span>[224:3](rtae11.htm#fr_648) God of writing and
+<span id="fn_648"></span>[224:3](rtae11.htm#fr_648.md) God of writing and
 legal procedure.
 
-<span id="fn_649"></span>[225:1](rtae11.htm#fr_649) In such an utterance
+<span id="fn_649"></span>[225:1](rtae11.htm#fr_649.md) In such an utterance
 as this it is important to remember that "truth" is always the same word
 which the Egyptian employs for "right, righteousness, justice,"
 according to the connection in which it is used. In such an injunction
 as this we cannot distinguish any particular one of these concepts to
 the exclusion of the rest.
 
-<span id="fn_650"></span>[225:2](rtae11.htm#fr_650) *Ibid.*, ll.
+<span id="fn_650"></span>[225:2](rtae11.htm#fr_650.md) *Ibid.*, ll.
 307–322. The word rendered "blessedness hereafter" means "reverence,"
 the state of the revered dead.
 
-<span id="fn_651"></span>[225:3](rtae11.htm#fr_651) The same words are
+<span id="fn_651"></span>[225:3](rtae11.htm#fr_651.md) The same words are
 used regarding the vizier's wisdom in Pap. Prisse (2, 6–7). See below,
-[p. 228](#page_228).
+[p. 228](#page_228.md).
 
-<span id="fn_652"></span>[226:1](rtae11.htm#fr_652) The Wisdom of
+<span id="fn_652"></span>[226:1](rtae11.htm#fr_652.md) The Wisdom of
 Ptahhotep is preserved in five manuscripts: (1) the Papyrus Prisse in
 the Bibliothèque Nationale, Paris, Nos. 183194; (2) the three papyri in
 the British Museum, Nos. 10371, 10435, and 10509; a wooden
@@ -1987,32 +1987,32 @@ modern grammatical knowledge would undoubtedly render much of it
 intelligible, although a large proportion of it is too obscure and too
 corrupt in text ever to be translated with certainty.
 
-<span id="fn_653"></span>[228:1](rtae11.htm#fr_653) On the rendering,
+<span id="fn_653"></span>[228:1](rtae11.htm#fr_653.md) On the rendering,
 see <span class="smallcaps">Gardiner</span>, *Admonitions*, p. 107, n.
 1.
 
-<span id="fn_654"></span>[228:2](rtae11.htm#fr_654) The same statement
+<span id="fn_654"></span>[228:2](rtae11.htm#fr_654.md) The same statement
 is made regarding the roll containing the speeches of the Eloquent
-Peasant. See above, [p. 225](#page_225).
+Peasant. See above, [p. 225](#page_225.md).
 
-<span id="fn_655"></span>[228:3](rtae11.htm#fr_655) Papyrus Prisse, pp.
+<span id="fn_655"></span>[228:3](rtae11.htm#fr_655.md) Papyrus Prisse, pp.
 1 and 2.
 
-<span id="fn_656"></span>[228:4](rtae11.htm#fr_656) This vizier,
+<span id="fn_656"></span>[228:4](rtae11.htm#fr_656.md) This vizier,
 Kegemne, was also a famous wise man.
 
-<span id="fn_657"></span>[229:1](rtae11.htm#fr_657) Literally "old man's
+<span id="fn_657"></span>[229:1](rtae11.htm#fr_657.md) Literally "old man's
 staff," which is a technical term for son and heir or successor. See
 BAR, I, 692, and <span class="smallcaps">Griffith</span> in the notes on
 *Bersheh*, I, pl. xxxiii. What is meant is, that the vizier, as the
 narrative shows, desires to be commanded to instruct his son as his
 successor.
 
-<span id="fn_658"></span>[231:1](rtae11.htm#fr_658) The Carnarvon Tablet
+<span id="fn_658"></span>[231:1](rtae11.htm#fr_658.md) The Carnarvon Tablet
 ends here. It furnishes some valuable variants which have been
 incorporated above.
 
-<span id="fn_659"></span>[231:2](rtae11.htm#fr_659) We very much need an
+<span id="fn_659"></span>[231:2](rtae11.htm#fr_659.md) We very much need an
 exhaustive treatment of the text, with careful word studies such as
 <span class="smallcaps">Gardiner</span> has prepared for the
 *Admonitions of Ipuwer*. The summary offered above makes no pretension
@@ -2021,25 +2021,25 @@ the purposes of this volume. See also <span
 class="smallcaps">Griffith</span>, in Warner's *Library of the World's
 Best Literature*.
 
-<span id="fn_660"></span>[231:3](rtae11.htm#fr_660) These references
+<span id="fn_660"></span>[231:3](rtae11.htm#fr_660.md) These references
 include the entire paragraph in each case. All refer to Pap. Prisse.
 
-<span id="fn_661"></span>[232:1](rtae11.htm#fr_661) The word really
+<span id="fn_661"></span>[232:1](rtae11.htm#fr_661.md) The word really
 means "to shoot."
 
-<span id="fn_662"></span>[234:1](rtae11.htm#fr_662) Mohammed makes
+<span id="fn_662"></span>[234:1](rtae11.htm#fr_662.md) Mohammed makes
 essentially the same remark in the Koran.
 
-<span id="fn_663"></span>[234:2](rtae11.htm#fr_663) "In his time" is
+<span id="fn_663"></span>[234:2](rtae11.htm#fr_663.md) "In his time" is
 seemingly an idiom for some particular mood. See also paragraphs 1–3
 above.
 
-<span id="fn_664"></span>[237:1](rtae11.htm#fr_664) This is the end of
+<span id="fn_664"></span>[237:1](rtae11.htm#fr_664.md) This is the end of
 the original, for the scribe's docket in red follows, reading as usual:
 "It is finished from its beginning to its end according to what was
 found in writing" (19, 9).
 
-<span id="fn_665"></span>[238:1](rtae11.htm#fr_665) We may divide the
+<span id="fn_665"></span>[238:1](rtae11.htm#fr_665.md) We may divide the
 paragraphs as numbered above roughly as follows:
 
 Personal character and conduct, paragraphs 1–3, 6, 8, 10, 11, 13, 17,
@@ -2051,7 +2051,7 @@ Administration and official conduct: 4, 5, 7, 9, 12, 14, 15, 16, 21, 23,
 
 Uncertain, paragraph 35.
 
-<span id="fn_666"></span>[239:1](rtae11.htm#fr_666) This document has
+<span id="fn_666"></span>[239:1](rtae11.htm#fr_666.md) This document has
 survived in three different copies, each a hieroglyphic wall
 inscription, in three different tombs of the Eighteenth Dynasty at
 Thebes. The best preserved and most important of the three is in the
@@ -2104,110 +2104,110 @@ of Ameni ("I did not exalt the great above the small"), almost an
 epitome of the Installation address, and of unquestionable Middle
 Kingdom date.
 
-<span id="fn_667"></span>[240:1](rtae11.htm#fr_667) Here of course was
+<span id="fn_667"></span>[240:1](rtae11.htm#fr_667.md) Here of course was
 the name of the vizier, varying from incumbent to incumbent.
 
-<span id="fn_668"></span>[240:2](rtae11.htm#fr_668) The meaning of
+<span id="fn_668"></span>[240:2](rtae11.htm#fr_668.md) The meaning of
 course is that the vizier is to be loyal to his lord, the king, to whose
 house he is attached.
 
-<span id="fn_669"></span>[241:1](rtae11.htm#fr_669) That is, an officer
+<span id="fn_669"></span>[241:1](rtae11.htm#fr_669.md) That is, an officer
 belonging to the staff of the vizier who has heard the matters reported
 at second hand, lest misunderstanding should result, when the vizier
 handles or acts on cases from another court.
 
-<span id="fn_670"></span>[241:2](rtae11.htm#fr_670) Compare <span
+<span id="fn_670"></span>[241:2](rtae11.htm#fr_670.md) Compare <span
 class="smallcaps">Prisse</span>, 7, 9.
 
-<span id="fn_671"></span>[242:1](rtae11.htm#fr_671) Meaning either what
+<span id="fn_671"></span>[242:1](rtae11.htm#fr_671.md) Meaning either what
 is said and thus proven by witnesses, or what should not be said,
 impropriety of speech.
 
-<span id="fn_672"></span>[243:1](rtae11.htm#fr_672) The same contrast
+<span id="fn_672"></span>[243:1](rtae11.htm#fr_672.md) The same contrast
 between the "timid" and the "arrogant" or "violent-hearted" is found in
 Ipuwer (11, 13), and is another connection between the Installation and
 the Feudal Age documents.
 
-<span id="fn_673"></span>[247:1](rtae11.htm#fr_673) The analogy of the
+<span id="fn_673"></span>[247:1](rtae11.htm#fr_673.md) The analogy of the
 Platonic dialogues was noticed by <span
 class="smallcaps">Gardiner</span>, *Admonitions*, p. 17.
 
-<span id="fn_674"></span>[248:1](rtae11.htm#fr_674) BAR, I, 523.
+<span id="fn_674"></span>[248:1](rtae11.htm#fr_674.md) BAR, I, 523.
 
-<span id="fn_675"></span>[249:1](rtae11.htm#fr_675) Such views are dated
+<span id="fn_675"></span>[249:1](rtae11.htm#fr_675.md) Such views are dated
 with considerable precision early in the Twelfth Dynasty by the
 Instruction of Amenemhet, the first king of the dynasty.
 
-<span id="fn_676"></span>[251:1](rtae11.htm#fr_676) The Heliopolitan
+<span id="fn_676"></span>[251:1](rtae11.htm#fr_676.md) The Heliopolitan
 trial of Osiris is in itself enough to dispose of the extraordinary
 contention of <span class="smallcaps">Budge</span> (in his two volumes
 on Osiris) that the Sun-god is a secondary phenomenon of foreign origin,
 imported into Egypt after the supremacy of the Osirian faith was
 established.
 
-<span id="fn_677"></span>[251:2](rtae11.htm#fr_677) See above, pp.
-[75](rtae07.htm#page_75), [142](rtae09.htm#page_142)–3.
+<span id="fn_677"></span>[251:2](rtae11.htm#fr_677.md) See above, pp.
+[75](rtae07.htm#page_75), [142](rtae09.htm#page_142.md)–3.
 
-<span id="fn_678"></span>[252:1](rtae11.htm#fr_678) See above, [p.
-232](#page_232), paragraph 4 (Pap. Prisse 6, 5).
+<span id="fn_678"></span>[252:1](rtae11.htm#fr_678.md) See above, [p.
+232](#page_232), paragraph 4 (Pap. Prisse 6, 5.md).
 
-<span id="fn_679"></span>[253:1](rtae11.htm#fr_679) <span
+<span id="fn_679"></span>[253:1](rtae11.htm#fr_679.md) <span
 class="smallcaps">Gautier</span> et <span
 class="smallcaps">Jéquier</span>, *Licht*, pl. xxv, horizontal line at
 top. Other references are BAR, I, 459, 509, 531, 532, 613, 745.
 
-<span id="fn_680"></span>[253:2](rtae11.htm#fr_680) These are
+<span id="fn_680"></span>[253:2](rtae11.htm#fr_680.md) These are
 forerunners of the Book of the Dead. An account of them will be found
-below, pp. [272](rtae12.htm#page_272)–3
+below, pp. [272](rtae12.htm#page_272.md)–3
 
-<span id="fn_681"></span>[253:3](rtae11.htm#fr_681) *Rec*. 32, 78.
+<span id="fn_681"></span>[253:3](rtae11.htm#fr_681.md) *Rec*. 32, 78.
 
-<span id="fn_682"></span>[253:4](rtae11.htm#fr_682) *Rec*. 30, 189.
+<span id="fn_682"></span>[253:4](rtae11.htm#fr_682.md) *Rec*. 30, 189.
 
-<span id="fn_683"></span>[253:5](rtae11.htm#fr_683) *Rec*. 31, 23.
+<span id="fn_683"></span>[253:5](rtae11.htm#fr_683.md) *Rec*. 31, 23.
 
-<span id="fn_684"></span>[254:1](rtae11.htm#fr_684) Rec. 31, 22; see
+<span id="fn_684"></span>[254:1](rtae11.htm#fr_684.md) Rec. 31, 22; see
 similar important references to "righteousness" on p. 21, but they are
 obscure.
 
-<span id="fn_685"></span>[254:2](rtae11.htm#fr_685) <span
+<span id="fn_685"></span>[254:2](rtae11.htm#fr_685.md) <span
 class="smallcaps">Lepsius</span>, *Aelteste Texte*, pl. i, ll. 9–10
 (Book of the Dead, 17th chap.).
 
-<span id="fn_686"></span>[254:3](rtae11.htm#fr_686) *Ibid.*, pl. i, l.
+<span id="fn_686"></span>[254:3](rtae11.htm#fr_686.md) *Ibid.*, pl. i, l.
 12 = pl. xvi, ll. 10–11 (Book of the Dead, 17th chap.).
 
-<span id="fn_687"></span>[254:4](rtae11.htm#fr_687) *Annales du
+<span id="fn_687"></span>[254:4](rtae11.htm#fr_687.md) *Annales du
 Service*, V, 237.
 
-<span id="fn_688"></span>[254:5](rtae11.htm#fr_688) *Rec*. 31, 28, l.
+<span id="fn_688"></span>[254:5](rtae11.htm#fr_688.md) *Rec*. 31, 28, l.
 62.
 
-<span id="fn_689"></span>[254:6](rtae11.htm#fr_689) *Rec*. 31, 25.
+<span id="fn_689"></span>[254:6](rtae11.htm#fr_689.md) *Rec*. 31, 25.
 
-<span id="fn_690"></span>[254:7](rtae11.htm#fr_690) *Rec*. 30, 69.
+<span id="fn_690"></span>[254:7](rtae11.htm#fr_690.md) *Rec*. 30, 69.
 
-<span id="fn_691"></span>[254:8](rtae11.htm#fr_691) *Rec*. 33, 34.
+<span id="fn_691"></span>[254:8](rtae11.htm#fr_691.md) *Rec*. 33, 34.
 
-<span id="fn_692"></span>[254:9](rtae11.htm#fr_692) *Rec*. 33, 36.
+<span id="fn_692"></span>[254:9](rtae11.htm#fr_692.md) *Rec*. 33, 36.
 
-<span id="fn_693"></span>[254:10](rtae11.htm#fr_693) *Rec*. 33, 36.
+<span id="fn_693"></span>[254:10](rtae11.htm#fr_693.md) *Rec*. 33, 36.
 
-<span id="fn_694"></span>[255:1](rtae11.htm#fr_694) <span
+<span id="fn_694"></span>[255:1](rtae11.htm#fr_694.md) <span
 class="smallcaps">Lacau's</span>, chap. XXIX, *Rec*. 30, 69 *ff*.
 
-<span id="fn_695"></span>[255:2](rtae11.htm#fr_695) *Rec*. 31, 16.
+<span id="fn_695"></span>[255:2](rtae11.htm#fr_695.md) *Rec*. 31, 16.
 
-<span id="fn_696"></span>[255:3](rtae11.htm#fr_696) *Annales*, V, 248.
+<span id="fn_696"></span>[255:3](rtae11.htm#fr_696.md) *Annales*, V, 248.
 
-<span id="fn_697"></span>[255:4](rtae11.htm#fr_697) Assiut Coffin of
+<span id="fn_697"></span>[255:4](rtae11.htm#fr_697.md) Assiut Coffin of
 Mesehet, *Rec*. 31, 173.
 
-<span id="fn_698"></span>[255:5](rtae11.htm#fr_698) *Ibid.*
+<span id="fn_698"></span>[255:5](rtae11.htm#fr_698.md) *Ibid.*
 
-<span id="fn_699"></span>[255:6](rtae11.htm#fr_699) *Rec*. 29, 147.
+<span id="fn_699"></span>[255:6](rtae11.htm#fr_699.md) *Rec*. 29, 147.
 
-<span id="fn_700"></span>[256:1](rtae11.htm#fr_700) Tomb of Harhotep,
+<span id="fn_700"></span>[256:1](rtae11.htm#fr_700.md) Tomb of Harhotep,
 *Mém. de la Miss. arch. franc.*, I, 177–180. This appeal for
 justification is probably a magical formula. It is repeatedly addressed
 to the personified parts—rudder, mast, sail, etc.—of the sacred Osiris
@@ -2219,11 +2219,11 @@ content here, and that it may be chiefly legal. On the use of
 "justified" as a juristic verdict, see <span
 class="smallcaps">Sethe</span>, *Einsetzung des Vezirs*, p. 23, n. 96.
 
-<span id="fn_701"></span>[256:2](rtae11.htm#fr_701) See <span
+<span id="fn_701"></span>[256:2](rtae11.htm#fr_701.md) See <span
 class="smallcaps">Schaefer</span>, *Zeitschr. fuer aegypt. Sprache*, 43,
 66 *ff*.
 
 ------------------------------------------------------------------------
 
 [Next: Lecture VIII. Popularization of the Old Royal Hereafter—Triumph
-of Osiris—Conscience and the Book of the Dead—Magic and Morals](rtae12)
+of Osiris—Conscience and the Book of the Dead—Magic and Morals](rtae12.md)

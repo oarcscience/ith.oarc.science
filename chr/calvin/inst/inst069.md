@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst068)  [Next](inst070) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst068)  [Next](inst070.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,8 +56,8 @@ briefly reply to both. The allegation is that justification by faith
 destroys good works. I will not describe what kind of zealots for good
 works the persons are who thus charge us. We leave them as much liberty
 to bring the charge, as they take license to taint the whole world with
-the pollution of their lives.43  <span id="fr_431"></span>[432](#fn_431)
-They pretend to lament43  <span id="fr_432"></span>[433](#fn_432) that
+the pollution of their lives.43  <span id="fr_431"></span>[432](#fn_431.md)
+They pretend to lament43  <span id="fr_432"></span>[433](#fn_432.md) that
 when faith is so highly extolled, works are deprived of their proper
 place. But what if they are rather ennobled and established? We dream
 not of a faith which is devoid of good works, nor of a justification
@@ -71,7 +71,7 @@ alone reconciles us to God. This faith, however, you cannot apprehend
 without at the same time apprehending sanctification; for Christ “is
 made unto us wisdom, and righteousness, and sanctification, and
 redemption,” (<span id="iv.iii.xvii-p10.1"></span>[1 Cor.
-1:30](../../../bib/kjv/co1001.htm#030)<span
+1:30](../../../bib/kjv/co1001.htm#030.md)<span
 id="iv.iii.xvii-p10.1"></span>). Christ, therefore, justifies no man
 without also sanctifying him. These blessings are conjoined by a
 perpetual and inseparable tie. Those whom he enlightens by his wisdom he
@@ -97,7 +97,7 @@ God gives no less a display of his liberality when he assigns reward to
 works, than when he bestows the faculty of well-doing. This topic it
 will be better to defer to its own place. At present, let it be
 sufficient merely to advert to the weakness of their objection. This may
-be done in two ways.44  <span id="fr_433"></span>[434](#fn_433) For,
+be done in two ways.44  <span id="fr_433"></span>[434](#fn_433.md) For,
 *first*, they are altogether in error when they say that, unless a hope
 of reward is held forth, no regard will be had to the right conduct of
 life. For if all that men do when they serve God is to look to the
@@ -144,7 +144,7 @@ that has this hope in him purifieth himself; even as he is pure?” and by
 Paul, “Having, therefore, these promises, dearly beloved, cleanse
 yourselves from all filthiness of the flesh and spirit;” or when we hear
 our Savior hold forth himself as an example to us that we should follow
-his steps?44  <span id="fr_434"></span>[435](#fn_434)
+his steps?44  <span id="fr_434"></span>[435](#fn_434.md)
 
 <span id="iv.iii.xvii-p14"></span>3. I have given these few passages
 merely as a specimen; for were I to go over them all, I should form a
@@ -157,20 +157,20 @@ during a whole Epistle had maintained that there was no hope of life for
 us save in the righteousness of Christ, when he comes to exhortations
 beseeches us by the mercy which God has bestowed upon us (<span
 id="iv.iii.xvii-p14.1"></span>[Rom.
-12:1](../../../bib/kjv/rom012.htm#001)<span
+12:1](../../../bib/kjv/rom012.htm#001.md)<span
 id="iv.iii.xvii-p14.1"></span>). Andy indeed this one reason ought to
 have been sufficient, that God may be glorified in us. But if any are
 not so ardently desirous to promote the glory of God, still the
 remembrance of his kindness is most sufficient to incite them to do good
 (see Chrysost. Homily. in Genes). But those men,44  <span
-id="fr_435"></span>[436](#fn_435) because, by introducing the idea of
+id="fr_435"></span>[436](#fn_435.md) because, by introducing the idea of
 merit, they perhaps extract some forced and servile obedience of the
 Law, falsely allege, that as we do not adopt the same course, we have no
 means of exhorting to good works. As if God were well pleased with such
 services when he declares that he loves a cheerful giver, and forbids
 any thing to be given him grudgingly or of necessity (<span
 id="iv.iii.xvii-p15.1"></span>[2 Cor.
-9:7](../../../bib/kjv/co2009.htm#007)<span
+9:7](../../../bib/kjv/co2009.htm#007.md)<span
 id="iv.iii.xvii-p15.1"></span>). I say not that I would reject that or
 omit any kind of exhortation which Scripture employs, its object being
 not to leave any method of animating us untried. For it states, that the
@@ -187,7 +187,7 @@ prosecuted only by those by whom this doctrine has been previously
 imbibed. This is beautifully intimated by the Psalmist when he thus
 addresses God, “There is forgiveness with thee, that thou mayest be
 feared,” (<span id="iv.iii.xvii-p15.2"></span>[Ps.
-130:4](../../../bib/kjv/psa130.htm#004)<span
+130:4](../../../bib/kjv/psa130.htm#004.md)<span
 id="iv.iii.xvii-p15.2"></span>). For he shows that the worship of God
 cannot exist without acknowledging his mercy, on which it is founded and
 established. This is specially deserving of notice, as showing us not
@@ -232,81 +232,81 @@ the forgiveness of sins, see the following chapter.
 
 ### Footnotes
 
-<span id="fn_431"></span>[432](inst069.htm#fr_431) <span
+<span id="fn_431"></span>[432](inst069.htm#fr_431.md) <span
 id="iv.iii.xvii-p8.1"></span>
 
 <span id="iv.iii.xvii-p9"></span>38 438 This sentence is wholly ommitted
 in the French.
 
-<span id="fn_432"></span>[433](inst069.htm#fr_432) <span
+<span id="fn_432"></span>[433](inst069.htm#fr_432.md) <span
 id="iv.iii.xvii-p9.1"></span>
 
 <span id="iv.iii.xvii-p10"></span>39 439 Latin, “Dolere sibi
 simulant.”—French, “Ils alleguent;”—they allege.
 
-<span id="fn_433"></span>[434](inst069.htm#fr_433) <span
+<span id="fn_433"></span>[434](inst069.htm#fr_433.md) <span
 id="iv.iii.xvii-p11.1"></span>
 
 <span id="iv.iii.xvii-p12"></span>40 440 All the previous sentences of
 this section, except the first , are omitted in the French.
 
-<span id="fn_434"></span>[435](inst069.htm#fr_434) <span
+<span id="fn_434"></span>[435](inst069.htm#fr_434.md) <span
 id="iv.iii.xvii-p12.1"></span>
 
 <span id="iv.iii.xvii-p13"></span>41 441 <span
 id="iv.iii.xvii-p13.1"></span>[1 John
-5:10](../../../bib/kjv/jo1005.htm#010),
-[19](../../../bib/kjv/jo1005.htm#019)<span
+5:10](../../../bib/kjv/jo1005.htm#010.md),
+[19](../../../bib/kjv/jo1005.htm#019.md)<span
 id="iv.iii.xvii-p13.1"></span>; <span
 id="iv.iii.xvii-p13.2"></span>[Heb.
-9:14](../../../bib/kjv/heb009.htm#014)<span
+9:14](../../../bib/kjv/heb009.htm#014.md)<span
 id="iv.iii.xvii-p13.2"></span>; 10 29; <span
 id="iv.iii.xvii-p13.3"></span>[Luke
-1:74](../../../bib/kjv/luk001.htm#074),
-[75](../../../bib/kjv/luk001.htm#075)<span
+1:74](../../../bib/kjv/luk001.htm#074.md),
+[75](../../../bib/kjv/luk001.htm#075.md)<span
 id="iv.iii.xvii-p13.3"></span>; <span
 id="iv.iii.xvii-p13.4"></span>[Rom.
-6:18](../../../bib/kjv/rom006.htm#018)<span
+6:18](../../../bib/kjv/rom006.htm#018.md)<span
 id="iv.iii.xvii-p13.4"></span>; <span
 id="iv.iii.xvii-p13.5"></span>[Col.
-3:1](../../../bib/kjv/col003.htm#001)<span
+3:1](../../../bib/kjv/col003.htm#001.md)<span
 id="iv.iii.xvii-p13.5"></span>; <span
 id="iv.iii.xvii-p13.6"></span>[Tit.
-2:11](../../../bib/kjv/tit002.htm#011)<span
+2:11](../../../bib/kjv/tit002.htm#011.md)<span
 id="iv.iii.xvii-p13.6"></span>; <span id="iv.iii.xvii-p13.7"></span>[1
-Thess. 5:9](../../../bib/kjv/th1005.htm#009)<span
+Thess. 5:9](../../../bib/kjv/th1005.htm#009.md)<span
 id="iv.iii.xvii-p13.7"></span>; <span id="iv.iii.xvii-p13.8"></span>[1
-Cor. 3:16](../../../bib/kjv/co1003.htm#016)<span
+Cor. 3:16](../../../bib/kjv/co1003.htm#016.md)<span
 id="iv.iii.xvii-p13.8"></span>; <span id="iv.iii.xvii-p13.9"></span>[Eph
-2:21](../../../bib/kjv/eph002.htm#021)<span
+2:21](../../../bib/kjv/eph002.htm#021.md)<span
 id="iv.iii.xvii-p13.9"></span>; 5:8; <span
 id="iv.iii.xvii-p13.10"></span>[2 Cor.
-6:16](../../../bib/kjv/co2006.htm#016)<span
+6:16](../../../bib/kjv/co2006.htm#016.md)<span
 id="iv.iii.xvii-p13.10"></span>; <span id="iv.iii.xvii-p13.11"></span>[1
-Thess. 4:3](../../../bib/kjv/th1004.htm#003),
-[7](../../../bib/kjv/th1004.htm#007)<span
+Thess. 4:3](../../../bib/kjv/th1004.htm#003.md),
+[7](../../../bib/kjv/th1004.htm#007.md)<span
 id="iv.iii.xvii-p13.11"></span>; <span id="iv.iii.xvii-p13.12"></span>[2
-Tim. 1:9](../../../bib/kjv/ti2001.htm#009)<span
+Tim. 1:9](../../../bib/kjv/ti2001.htm#009.md)<span
 id="iv.iii.xvii-p13.12"></span>; <span
 id="iv.iii.xvii-p13.13"></span>[Rom.
-6:18](../../../bib/kjv/rom006.htm#018)<span
+6:18](../../../bib/kjv/rom006.htm#018.md)<span
 id="iv.iii.xvii-p13.13"></span>; <span id="iv.iii.xvii-p13.14"></span>[1
-John 4:10](../../../bib/kjv/jo1004.htm#010)<span
+John 4:10](../../../bib/kjv/jo1004.htm#010.md)<span
 id="iv.iii.xvii-p13.14"></span>; 3:11; <span
 id="iv.iii.xvii-p13.15"></span>[1 Cor.
-6:15](../../../bib/kjv/co1006.htm#015),
-[17](../../../bib/kjv/co1006.htm#017)<span
+6:15](../../../bib/kjv/co1006.htm#015.md),
+[17](../../../bib/kjv/co1006.htm#017.md)<span
 id="iv.iii.xvii-p13.15"></span>; 12:12; <span
 id="iv.iii.xvii-p13.16"></span>[1 John
-3:3](../../../bib/kjv/jo1003.htm#003)<span
+3:3](../../../bib/kjv/jo1003.htm#003.md)<span
 id="iv.iii.xvii-p13.16"></span>; <span id="iv.iii.xvii-p13.17"></span>[2
-Cor. 7:1](../../../bib/kjv/co2007.htm#001)<span
+Cor. 7:1](../../../bib/kjv/co2007.htm#001.md)<span
 id="iv.iii.xvii-p13.17"></span>; <span
 id="iv.iii.xvii-p13.18"></span>[John
-15:10](../../../bib/kjv/joh015.htm#010)<span
+15:10](../../../bib/kjv/joh015.htm#010.md)<span
 id="iv.iii.xvii-p13.18"></span>.
 
-<span id="fn_435"></span>[436](inst069.htm#fr_435) <span
+<span id="fn_435"></span>[436](inst069.htm#fr_435.md) <span
 id="iv.iii.xvii-p14.2"></span>
 
 <span id="iv.iii.xvii-p15"></span>42 442 French, “ces Pharisiens;”—those
@@ -315,4 +315,4 @@ Pharisees.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 17. - THE PROMISES OF THE LAW AND THE GOSPEL
-RECONCILED.](inst070)
+RECONCILED.](inst070.md)

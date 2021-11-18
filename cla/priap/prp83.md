@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp82)  [Next](prp84) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp82)  [Next](prp84.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ know'st what follows behind.
 
 ------------------------------------------------------------------------
 
-[Next: 84. What news be here? what send those angry gods?](prp84)
+[Next: 84. What news be here? what send those angry gods?](prp84.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv27)  [Next](rsv29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv27)  [Next](rsv29.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ for three months or more.
 In the ancient writing of the Egyptians, Greeks, Indians and Arabs aloes
 is mentioned. The Arabs use it as medication for the heart and burn it
 mixed with camphor in worship services. In India, aloes mixed with other
-products is used to [anoint](errata.htm#35) and perfume the dead. An
+products is used to [anoint](errata.htm#35.md) and perfume the dead. An
 additional aromatic product of the aloes wood is Ky-nam. Ky-nam is
 composed of aloes wood full of resin-if chewed, it tastes bitter and is
 gummy; when burned, its resin gives its own characteristic scent. Since
@@ -62,4 +62,4 @@ departed dead or to curry the favor of the gods.
 
 ------------------------------------------------------------------------
 
-[Next: Joss Sticks](rsv29)
+[Next: Joss Sticks](rsv29.md)

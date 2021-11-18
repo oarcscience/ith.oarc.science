@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc11)  [Next](pcc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc11)  [Next](pcc13.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,7 +179,7 @@ of war-dances
 <span id="page_168">p. 168</span>
 
 among American Indians. C. O. Müller in his *History and Antiquities of
-the Doric Race* <span id="fr_182"></span>[1](#fn_182) gives the
+the Doric Race* <span id="fr_182"></span>[1](#fn_182.md) gives the
 following account of the Pyrrhic dance among the Greeks, which was
 danced in full armor:--"Plato says that it imitated all the attitudes of
 defence, by avoiding a thrust or a cast, retreating, springing up, and
@@ -189,7 +189,7 @@ to this dance at Sparta that, long after it had in the other Greek
 states degenerated into a Bacchanalian revel, it was still danced by the
 Spartans as a warlike exercise, and boys of fifteen were instructed in
 it." Of the *Hunting-dance* I have already given instances. <span
-id="fr_183"></span>[2](#fn_183) It always had the character of Magic
+id="fr_183"></span>[2](#fn_183.md) It always had the character of Magic
 about it, by which the game or quarry might presumably be influenced;
 and it can easily be understood that if the Hunt was not successful the
 blame might well be attributed to some neglect of the usual ritual mimes
@@ -217,12 +217,12 @@ of the Tribe. They were the expression of things which would be hard
 even for us, and which for rude folk would be impossible, to put into
 definite words. Hence arose the expression--whose meaning has been much
 discussed by the learned--"to dance out (ὲξορχε̑ισθαι) a mystery." <span
-id="fr_184"></span>[1](#fn_184) Lucian, in a much-quoted passage, <span
-id="fr_185"></span>[2](#fn_185) observes: "You cannot find a single
+id="fr_184"></span>[1](#fn_184.md) Lucian, in a much-quoted passage, <span
+id="fr_185"></span>[2](#fn_185.md) observes: "You cannot find a single
 ancient mystery in which there is not dancing . . . and this much all
 men know, that most people say of the revealers of the mysteries that
 they 'dance them out.'" Andrew Lang, commenting on this passage, <span
-id="fr_186"></span>[3](#fn_186) continues: "Clement of Alexandria uses
+id="fr_186"></span>[3](#fn_186.md) continues: "Clement of Alexandria uses
 the same term when speaking of his own 'appalling revelations.' So
 closely connected are mysteries with dancing among savages that when Mr.
 Orpen asked Qing, the Bushman hunter, about some doctrines in which Qing
@@ -252,7 +252,7 @@ really meant--namely the fitness of the loved comrade to lead in
 religious and magical rituals--then indeed the compliment takes on a new
 complexion. Religious dances, in dedication to a god, have of course
 been honored in every country. Müller, in the work just cited, <span
-id="fr_187"></span>[1](#fn_187) describes a lively dance called the
+id="fr_187"></span>[1](#fn_187.md) describes a lively dance called the
 *hyporchema* which, accompanied by songs, was used in the worship of
 Apollo. "In this, besides the chorus of singers who usually danced
 around *the blazing altar*, several persons were appointed to accompany
@@ -267,7 +267,7 @@ equanimity so badly--"when he *saw that the people were naked*"--and led
 to the breaking of the two tables of stone and the slaughter of some
 thousands of folk. It will be remembered also that David on a
 sacrificial occasion danced naked before the Lord. <span
-id="fr_188"></span>[2](#fn_188)
+id="fr_188"></span>[2](#fn_188.md)
 
 It may seem strange that dances in honor of a god should be held naked;
 but there is abundant evidence that this
@@ -299,7 +299,7 @@ hardly have been needed had not the practice been in vogue.
 
 Then there were dances (partly magical or religious) performed at rustic
 and agricultural festivals, like the *Epilenios*, celebrated in Greece
-at the gathering of the grapes. <span id="fr_189"></span>[1](#fn_189) Of
+at the gathering of the grapes. <span id="fr_189"></span>[1](#fn_189.md) Of
 such a dance we get a glimpse in the Bible (Judges xxi. 20) when the
 elders advised the children of Benjamin to go out and lie in wait in the
 vineyards, at the time of the yearly feast; and "when the daughters of
@@ -385,7 +385,7 @@ that after birth the impact of the outer world serves rather to break up
 and disintegrate this harmony than to confirm and strengthen it. Some
 psychologists indeed nowadays go so far as to maintain that the child is
 not only 'Father of the man,' but superior to the man, <span
-id="fr_190"></span>[1](#fn_190) and that Boyhood and Youth and Maturity
+id="fr_190"></span>[1](#fn_190.md) and that Boyhood and Youth and Maturity
 are attained to not by any addition but by a process of loss and
 subtraction. It will be seen that the last ten lines of the above
 quotation rather favor this view.
@@ -485,7 +485,7 @@ a new start in severe
 <span id="page_177">p. 177</span>
 
 cases--has really come down to u through the ages from this early
-source. <span id="fr_191"></span>[1](#fn_191) The real medicine-man, Mr.
+source. <span id="fr_191"></span>[1](#fn_191.md) The real medicine-man, Mr.
 Marett says, is largely a 'faith-healer' and 'soul-doctor'; he believes
 in his vocation, and undergoes much for the sake of it: "The main point
 is to grasp that by his special initiation and the rigid taboos which he
@@ -502,7 +502,7 @@ it may be) which restores courage, hope and energy to the mind. Nor need
 I point out that the situation is exactly the same among a vast number
 of 'patients' to-day. As to the value, in his degree, of the
 medicine-man many modern observers and students quite agree with the
-above. <span id="fr_192"></span>[2](#fn_192) Also as the present chapter
+above. <span id="fr_192"></span>[2](#fn_192.md) Also as the present chapter
 is on *Ritual Dancing* it may not be out of place to call attention to
 the supposed healing of sick people in Ceylon and other places by
 *Devil-dancing*--the enormous output of energy and noise in the ritual
@@ -559,46 +559,46 @@ inevitably moving.
 
 ### Footnotes
 
-<span id="fn_182"></span>[168:1](pcc12.htm#fr_182) Book IV, ch. 6, § 7.
+<span id="fn_182"></span>[168:1](pcc12.htm#fr_182.md) Book IV, ch. 6, § 7.
 
-<span id="fn_183"></span>[168:2](pcc12.htm#fr_183) See also Winwood
+<span id="fn_183"></span>[168:2](pcc12.htm#fr_183.md) See also Winwood
 Reade's *Savage Africa*, ch. xviii, in which he speaks of the "gorilla
 dance," before hunting gorillas, as a "religious festival."
 
-<span id="fn_184"></span>[169:1](pcc12.htm#fr_184) Meaning apparently
+<span id="fn_184"></span>[169:1](pcc12.htm#fr_184.md) Meaning apparently
 either simply to represent, or, sometimes to *divulge*, a mystery.
 
-<span id="fn_185"></span>[169:2](pcc12.htm#fr_185) περὶ Ὀρχήσεως, ch.
+<span id="fn_185"></span>[169:2](pcc12.htm#fr_185.md) περὶ Ὀρχήσεως, ch.
 xv. 277.
 
-<span id="fn_186"></span>[169:3](pcc12.htm#fr_186) *Myth, Ritual and
+<span id="fn_186"></span>[169:3](pcc12.htm#fr_186.md) *Myth, Ritual and
 Religion*, i, 272.
 
-<span id="fn_187"></span>[170:1](pcc12.htm#fr_187) Book II, ch. viii, §
+<span id="fn_187"></span>[170:1](pcc12.htm#fr_187.md) Book II, ch. viii, §
 14.
 
-<span id="fn_188"></span>[170:2](pcc12.htm#fr_188) 2 Sam. vi.
+<span id="fn_188"></span>[170:2](pcc12.htm#fr_188.md) 2 Sam. vi.
 
-<span id="fn_189"></span>[171:1](pcc12.htm#fr_189) Επιλήνιοι ὕμνοι:
+<span id="fn_189"></span>[171:1](pcc12.htm#fr_189.md) Επιλήνιοι ὕμνοι:
 hymns sung over the winepress (Dictionary).
 
-<span id="fn_190"></span>[174:1](pcc12.htm#fr_190) Man in the course of
+<span id="fn_190"></span>[174:1](pcc12.htm#fr_190.md) Man in the course of
 his life falls away more and more from the specifically *human* type of
 his early years, but the Ape in the course of his short life goes very
 much farther along the road of degradation and premature senility."
 (*Man and Woman*, by Havelock Ellis, p. 24).
 
-<span id="fn_191"></span>[177:1](pcc12.htm#fr_191) Milk ("fast-milk" or
+<span id="fn_191"></span>[177:1](pcc12.htm#fr_191.md) Milk ("fast-milk" or
 *vrata*) was, says Mr. Hewitt, the only diet in the Soma-sacrifice. See
 *Ruling Races of Prehistoric Times* (preface). The Soma itself was a
 fermented drink prepared with ceremony from the milky and semen-like sap
 of certain plants, and much used in sacrificial offerings. (See
 Monier-Williams. *Sanskrit Dictionary*.)
 
-<span id="fn_192"></span>[177:2](pcc12.htm#fr_192) See Winwood Reade
+<span id="fn_192"></span>[177:2](pcc12.htm#fr_192.md) See Winwood Reade
 (*Savage Africa*), Salamon Reinach (*Cults, Myths and Religions*), and
 others.
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Sex-taboo](pcc13)
+[Next: XII. The Sex-taboo](pcc13.md)

@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim82)  [Next](sim84) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim82)  [Next](sim84.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_474">p. 474</span>
 
-# TURKEY'S BROTHER GOES IN SEARCH [OF](errata.htm#5) A WIFE
+# TURKEY'S BROTHER GOES IN SEARCH [OF](errata.htm#5.md) A WIFE
 
 Characters
 
@@ -381,4 +381,4 @@ the chief. "This is my story."
 
 ------------------------------------------------------------------------
 
-[Next: The Twelve Brothers and Their Uncle, Dagwanoenyent](sim84)
+[Next: The Twelve Brothers and Their Uncle, Dagwanoenyent](sim84.md)

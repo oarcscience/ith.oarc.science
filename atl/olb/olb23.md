@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb22)  [Next](olb24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb22)  [Next](olb24.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -22,13 +22,13 @@ hours south from Medeasblik.
 *Thus is the Preface*.
 
 Hills, bow your heads; weep, ye streams and clouds. Yes.
-Schoonland <span id="fr_15"></span>[\*](#fn_15) (Scandinavia) blushes,
+Schoonland <span id="fr_15"></span>[\*](#fn_15) (Scandinavia.md) blushes,
 an enslaved people tramples on your garment, O Frya.
 
 *This is the history*.
 
 One hundred and one years after the submersion of Aldland <span
-id="fr_16"></span>[†](#fn_16) a people came out of the East. That people
+id="fr_16"></span>[†](#fn_16.md) a people came out of the East. That people
 was driven by another. Behind us, in Twiskland (Germany), they fell into
 disputes, divided into two parties, and each went its own way. Of the
 one no account has come to us, but the other came in the back of our
@@ -64,7 +64,7 @@ our country like a snowstorm driven by the wind. All who could not flee
 away were killed. Frya was appealed to, but the Schoonlanders
 (Scandinavians) had neglected her advice. Then all the forces were
 assembled, and three hours from Godasburgt <span
-id="fr_17"></span>[\*](#fn_17) they were withstood, but war continued.
+id="fr_17"></span>[\*](#fn_17.md) they were withstood, but war continued.
 Kat or Katerine was the name of the priestess who was Burgtmaagd of
 Godasburgt. Kat was proud and haughty, and would neither seek counsel
 nor aid from the mother; but when the Burgtheeren (citizens) knew this,
@@ -72,10 +72,10 @@ they themselves sent messengers to Texland to the Eeremoeder. Minna—this
 was the name of the mother—summoned all the sailors and the young men
 from Oostflyland and Denmark. From this expedition the history of Wodin
 sprang, which is inscribed on the citadels, and is here copied. At
-Aldergamude <span id="fr_18"></span>[†](#fn_18) there lived an old
+Aldergamude <span id="fr_18"></span>[†](#fn_18.md) there lived an old
 sea-king whose name was Sterik, and whose deeds were famous. This old
 fellow had three nephews. Wodin, the eldest, lived at Lumkamakia <span
-id="fr_19"></span>[‡](#fn_19), near the Eemude, in Oostflyland, with his
+id="fr_19"></span>[‡](#fn_19.md), near the Eemude, in Oostflyland, with his
 parents. He had once commanded troops. Teunis and Inka were naval
 warriors, and were just then staying with their father at Aldergamude.
 When the young warriors had assembled together, they chose Wodin to be
@@ -86,7 +86,7 @@ where they took on board Wodin and his valiant host.
 <span id="page_76">p. 76</span> <span id="page_77">p. 77</span>
 
 The wind was fair, so they arrived immediately <span
-id="fr_20"></span>[\*](#fn_20) in Schoonland. When the northern brothers
+id="fr_20"></span>[\*](#fn_20.md) in Schoonland. When the northern brothers
 met together, Wodin divided his powerful army into three bodies. Frya
 was their war-cry, and they drove back the Finns and Magyars like
 children. When the Magy heard how his forces had been utterly defeated,
@@ -112,13 +112,13 @@ displeasing went away secretly, taking Kat with them. But Kat, who did
 not wish to appear before either the mother or the general assembly,
 jumped overboard. Then a storm arose and drove the ships upon the banks
 of Denmark, with the total destruction of their crews. This strait was
-afterwards called the Kattegat <span id="fr_21"></span>[†](#fn_21). When
+afterwards called the Kattegat <span id="fr_21"></span>[†](#fn_21.md). When
 Wodin was crowned, he
 
 <span id="page_78">p. 78</span> <span id="page_79">p. 79</span>
 
 attacked the savages, who were all horsemen, and fell upon Wodin's <span
-id="fr_22"></span>[\*](#fn_22) troops like a hailstorm; but like a
+id="fr_22"></span>[\*](#fn_22.md) troops like a hailstorm; but like a
 whirlwind they were turned back, and did not dare to appear again. When
 Wodin returned, Magy gave him his daughter to wife. Whereupon he was
 incensed with herbs; but they were magic herbs, and by degrees he became
@@ -145,29 +145,29 @@ Next comes upon the stage the history of Neef Teunis and Neef Inka.
 
 ### Footnotes
 
-<span id="fn_15"></span>[73:\*](olb23.htm#fr_15) Skênland or
+<span id="fn_15"></span>[73:\*](olb23.htm#fr_15.md) Skênland or
 Scandinavia.
 
-<span id="fn_16"></span>[73:†](olb23.htm#fr_16) 2193-101 is 2092 before
+<span id="fn_16"></span>[73:†](olb23.htm#fr_16.md) 2193-101 is 2092 before
 Christ.
 
-<span id="fn_17"></span>[75:\*](olb23.htm#fr_17) Goda-hisburch is
+<span id="fn_17"></span>[75:\*](olb23.htm#fr_17.md) Goda-hisburch is
 Gothenburg.
 
-<span id="fn_18"></span>[75:†](olb23.htm#fr_18) Alderga in Ouddorp, near
+<span id="fn_18"></span>[75:†](olb23.htm#fr_18.md) Alderga in Ouddorp, near
 Alkmaar.
 
-<span id="fn_19"></span>[75:‡](olb23.htm#fr_19) Lumkamâkja bithêre Emuda
+<span id="fn_19"></span>[75:‡](olb23.htm#fr_19.md) Lumkamâkja bithêre Emuda
 is Embden.
 
-<span id="fn_20"></span>[77:\*](olb23.htm#fr_20) Amering, still in use
+<span id="fn_20"></span>[77:\*](olb23.htm#fr_20.md) Amering, still in use
 in North Holland to signify a breath or a twinkling of an eye.
 
-<span id="fn_21"></span>[77:†](olb23.htm#fr_21) Kâtagat is the Kattegat.
+<span id="fn_21"></span>[77:†](olb23.htm#fr_21.md) Kâtagat is the Kattegat.
 
-<span id="fn_22"></span>[79:\*](olb23.htm#fr_22) Wodin is Odin or Wodan.
+<span id="fn_22"></span>[79:\*](olb23.htm#fr_22.md) Wodin is Odin or Wodan.
 
 ------------------------------------------------------------------------
 
 [Next: All this is inscribed not only on the Waraburgt, but also on the
-Burgt Stavia, which lies behind the Port of Stavre](olb24)
+Burgt Stavia, which lies behind the Port of Stavre](olb24.md)

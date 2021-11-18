@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh18)  [Next](hloh20) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh18)  [Next](hloh20.md) 
 
 ------------------------------------------------------------------------
 
@@ -182,4 +182,4 @@ Kaawaloa until the tabu and the temples were overthrown.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. The Ghost Dance on Punchbowl](hloh20)
+[Next: XVI. The Ghost Dance on Punchbowl](hloh20.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs21)  [Next](mhs23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs21)  [Next](mhs23.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ especially in Germany.
 ------------------------------------------------------------------------
 
 [Next: XX. Recapitulation Of Theories Of The Origin Of The Horse-shoe
-Superstition](mhs23)
+Superstition](mhs23.md)

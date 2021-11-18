@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pbs00)
+[Contents](#contents)    [Start Reading](pbs00.md)
 
 ------------------------------------------------------------------------
 
@@ -57,8 +57,8 @@ calf, a boulder falling over, and the plaintive death of a French
 expatriate in the Isles, mourned by a local woman. Other reputed
 predictions were of "a chariot without horse or bridle", and "fiery
 chariot\[s\]" which could interpreted as a premonition of railroads or
-automobiles ([p. 35](pbs07.htm#page_35)), and "hills strewn with
-ribbons", ([p. 10](pbs04.htm#page_10)) which sound like powerlines, but
+automobiles ([p. 35](pbs07.htm#page_35).md), and "hills strewn with
+ribbons", ([p. 10](pbs04.htm#page_10).md) which sound like powerlines, but
 this is about as futuristic as he gets. Unlike Nostradamus, none of his
 predictions are about geopolitics, global war, or the distant future.
 
@@ -89,16 +89,16 @@ source of national pride for Scottish people everywhere.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pbs00)  
-[Contents](pbs01)  
-[The Brahan Seer and Second Sight, By Andrew Lang](pbs02)  
-[General Introduction](pbs03)  
-[Prophecies Which Might Be Attributed to Natural Shrewdness](pbs04)  
-[Unfulfilled Prophecies](pbs05)  
-[Prophecies as to The Fulfilment of Which There is a Doubt](pbs06)  
-[Prophecies Wholly Or Partly Fulfilled](pbs07)  
-[Sketch of the Family of Seaforth](pbs08)  
-[Seaforth's Dream](pbs09)  
-[Seaforth's Doom](pbs10)  
-[The Seer's Death](pbs11)  
-[The Fulfilment of the Seaforth Prophecy](pbs12)  
+<span id="contents"></span> [Title Page](pbs00.md)  
+[Contents](pbs01.md)  
+[The Brahan Seer and Second Sight, By Andrew Lang](pbs02.md)  
+[General Introduction](pbs03.md)  
+[Prophecies Which Might Be Attributed to Natural Shrewdness](pbs04.md)  
+[Unfulfilled Prophecies](pbs05.md)  
+[Prophecies as to The Fulfilment of Which There is a Doubt](pbs06.md)  
+[Prophecies Wholly Or Partly Fulfilled](pbs07.md)  
+[Sketch of the Family of Seaforth](pbs08.md)  
+[Seaforth's Dream](pbs09.md)  
+[Seaforth's Doom](pbs10.md)  
+[The Seer's Death](pbs11.md)  
+[The Fulfilment of the Seaforth Prophecy](pbs12.md)  

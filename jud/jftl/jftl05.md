@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl04)  [Next](jftl06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl04)  [Next](jftl06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -15,7 +15,7 @@
 <span id="img_02600"></span> <span align="CENTER"> [![Og, riding gaily
 on the unicorn behind the Ark, was quite happy.&lt;br&gt; (&lt;i&gt;Page
 30&lt;/i&gt;).](tn/02600.jpg)  
-Click to enlarge](img/02600.jpg)  
+Click to enlarge](img/02600.jpg.md)  
 Og, riding gaily on the unicorn behind the Ark, was quite happy.  
 (*Page 30*).  
 </span>
@@ -228,4 +228,4 @@ breaking his word to Father Noah.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Princess of Ergetz](jftl06)
+[Next: The Fairy Princess of Ergetz](jftl06.md)

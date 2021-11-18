@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../index)  [Native American](index) 
-[Plains](pla/index)
+[Intangible Textual Heritage](../index)  [Native American](index.md) 
+[Plains](pla/index.md)
 
 ------------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi162)  [Next](mtsi164) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi162)  [Next](mtsi164.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ remembered.)
 
 ------------------------------------------------------------------------
 
-[Next: 28. The Man and the Ghost](mtsi164)
+[Next: 28. The Man and the Ghost](mtsi164.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst044)  [Next](inst046) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst044)  [Next](inst046.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ aids of this description are not employed.
 <span id="iv.ii.xii-p5"></span>2. Proof of this first difference from
 the simile of an heir in pupillarity, as in <span
 id="iv.ii.xii-p5.1"></span>[Gal.
-4:1](../../../bib/kjv/gal004.htm#001)<span id="iv.ii.xii-p5.1"></span>.
+4:1](../../../bib/kjv/gal004.htm#001.md)<span id="iv.ii.xii-p5.1"></span>.
 
 <span id="iv.ii.xii-p6"></span>3. This the reason why the Patriarchs,
 under the Law, set a higher value on this life and the blessings of it,
@@ -141,7 +141,7 @@ them in heaven.
 <span id="iv.ii.xii-p20"></span>2. This will better appear from the
 similitude which Paul uses in Galatians (<span
 id="iv.ii.xii-p20.1"></span>[Gal.
-4:1](../../../bib/kjv/gal004.htm#001)<span
+4:1](../../../bib/kjv/gal004.htm#001.md)<span
 id="iv.ii.xii-p20.1"></span>). He compares the Jewish nation to an heir
 in pupillarity, who, as yet unfit to govern himself, follows the
 direction of a tutor or guide to whose charge he has been committed.
@@ -162,7 +162,7 @@ Thus, Abraham is not allowed to keep down his thoughts to the promised
 land: by a greater promise his views are carried upward to the Lord. He
 is thus addressed, “Fear not, Abram: I am thy shield, and thy exceeding
 great reward,” (<span id="iv.ii.xii-p20.2"></span>[Gen.
-15:1](../../../bib/kjv/gen015.htm#001)<span
+15:1](../../../bib/kjv/gen015.htm#001.md)<span
 id="iv.ii.xii-p20.2"></span>). Here we see that the Lord is the final
 reward promised to Abraham that he might not seek a fleeting and
 evanescent reward in the elements of this world, but look to one which
@@ -174,22 +174,22 @@ the last and highest of all, “My flesh and my heart faileth: but God is
 the strength of my heart, and my portion for ever.” “My heart and my
 flesh crieth out for the living God,” (<span
 id="iv.ii.xii-p20.3"></span>[Ps.
-73:26](../../../bib/kjv/psa073.htm#026)<span
+73:26](../../../bib/kjv/psa073.htm#026.md)<span
 id="iv.ii.xii-p20.3"></span>; 84:2). Again, “The Lord is the portion of
 mine inheritance and of my cup: thou maintainest my lot,” (<span
 id="iv.ii.xii-p20.4"></span>[Ps.
-16:5](../../../bib/kjv/psa016.htm#005)<span
+16:5](../../../bib/kjv/psa016.htm#005.md)<span
 id="iv.ii.xii-p20.4"></span>). Again “I cried unto thee O Lord: I said
 Thou art my refuge and my portion in the land of the living,” (<span
 id="iv.ii.xii-p20.5"></span>[Ps.
-142:5](../../../bib/kjv/psa142.htm#005)<span
+142:5](../../../bib/kjv/psa142.htm#005.md)<span
 id="iv.ii.xii-p20.5"></span>). Those who can venture to speak thus,
 assuredly declare that their hope rises beyond the world and worldly
 blessings. This future blessedness, however, the prophets often describe
 under a type which the Lord had taught them. In this way are to be
 understood the many passages in Job (<span
 id="iv.ii.xii-p20.6"></span>[Job
-18:17](../../../bib/kjv/job018.htm#017)<span
+18:17](../../../bib/kjv/job018.htm#017.md)<span
 id="iv.ii.xii-p20.6"></span>) and Isaiah, to the effect, That the
 righteous shall inherit the earth, that the wicked shall be driven out
 of it, that Jerusalem will abound in all kinds of riches, and Sion
@@ -198,7 +198,7 @@ things obviously apply not to the land of our pilgrimage, nor to the
 earthly Jerusalem, but to the true country, the heavenly city of
 believers, in which the Lord has commanded blessing and life for
 evermore (<span id="iv.ii.xii-p20.7"></span>[Ps.
-133:3](../../../bib/kjv/psa133.htm#003)<span
+133:3](../../../bib/kjv/psa133.htm#003.md)<span
 id="iv.ii.xii-p20.7"></span>).
 
 <span id="iv.ii.xii-p21"></span>3. Hence the reason why the saints under
@@ -232,14 +232,14 @@ and New Testaments is in the types, the former exhibiting only the image
 of truth, while the reality was absent, the shadow instead of the
 substance, the latter exhibiting both the full truth and the entire
 body. Mention is usually made of this, whenever the New Testament is
-contrasted with the Old,23  <span id="fr_230"></span>[231](#fn_230) but
+contrasted with the Old,23  <span id="fr_230"></span>[231](#fn_230.md) but
 it is nowhere so fully treated as in the Epistle to the Hebrews (chap.
 7–10). The Apostle is there arguing against those who thought that the
 observances of the Mosaic Law could not be abolished without producing
 the total ruin of religion. In order to refute this error, he adverts to
 what the Psalmist had foretold concerning the priesthood of Christ
 (<span id="iv.ii.xii-p23.1"></span>[Ps.
-110:4](../../../bib/kjv/psa110.htm#004)<span
+110:4](../../../bib/kjv/psa110.htm#004.md)<span
 id="iv.ii.xii-p23.1"></span>). seeing that an eternal priesthood is
 assigned to him, it is clear that the priesthood in which there was a
 daily succession of priests is abolished. And he proves that the
@@ -272,13 +272,13 @@ the covenant, or at least additions and appendages, and, as they are
 commonly called, accessories, yet because they were the means of
 administering it, the name of covenant is applied to them, just as is
 done in the case of other sacraments.23  <span
-id="fr_231"></span>[232](#fn_231) Hence, in general, the Old Testament
+id="fr_231"></span>[232](#fn_231.md) Hence, in general, the Old Testament
 is the name given to the solemn method of confirming the covenant
 comprehended under ceremonies and sacrifices. Since there is nothing
 substantial in it, until we look beyond it, the Apostle contends that it
 behaved to be annulled and become antiquated (<span
 id="iv.ii.xii-p25.1"></span>[Heb.
-7:22](../../../bib/kjv/heb007.htm#022)<span
+7:22](../../../bib/kjv/heb007.htm#022.md)<span
 id="iv.ii.xii-p25.1"></span>), to make room for Christ, the surety and
 mediator of a better covenant, by whom the eternal sanctification of the
 elect was once purchased, and the transgressions which remained under
@@ -294,7 +294,7 @@ realised, made new, and eternal, when it was sealed with his blood.
 
 <span id="iv.ii.xii-p26"></span>5. It is now clear in what sense the
 Apostle said (<span id="iv.ii.xii-p26.1"></span>[Gal.
-3:24](../../../bib/kjv/gal003.htm#024)<span
+3:24](../../../bib/kjv/gal003.htm#024.md)<span
 id="iv.ii.xii-p26.1"></span>; 4:1), that by the tutelage of the Law the
 Jews were conducted to Christ, before he was exhibited in the flesh. He
 confesses that they were sons and heirs of God, though, on account of
@@ -310,7 +310,7 @@ believers was to be matured. This distinction was noted by our Saviour
 himself when he said that the Law and the Prophets were until John, that
 from that time the gospel of the kingdom was preached (<span
 id="iv.ii.xii-p26.2"></span>[Mt.
-11:13](../../../bib/kjv/mat011.htm#013)<span
+11:13](../../../bib/kjv/mat011.htm#013.md)<span
 id="iv.ii.xii-p26.2"></span>). What did the Law and the Prophets deliver
 to the men of their time? They gave a foretaste of that wisdom which was
 one day to be clearly manifested, and showed it afar off. But where
@@ -338,7 +338,7 @@ have desired to see the things which you see, and have not seen them,
 and to hear the things which ye hear, and have not heard them. Blessed
 are your eyes, for they see, and your ears, for they hear,” (<span
 id="iv.ii.xii-p27.1"></span>[Mt.
-13:17](../../../bib/kjv/mat013.htm#017)<span
+13:17](../../../bib/kjv/mat013.htm#017.md)<span
 id="iv.ii.xii-p27.1"></span>). And it was right that the presence of
 Christ should have this distinguishing feature, that by means of it the
 revelation of heavenly mysteries should be made more transparent. To the
@@ -359,7 +359,7 @@ and will be their God, and they shall be my people. And they shall teach
 no more every man his neighbour, and every man his brother, saying, know
 the Lord: for they shall all know me, from the least of them unto the
 greatest of them,” (<span id="iv.ii.xii-p28.1"></span>[Jer.
-31:31-34](../../../bib/kjv/jer031.htm#031)<span
+31:31-34](../../../bib/kjv/jer031.htm#031.md)<span
 id="iv.ii.xii-p28.1"></span>). From these words, the Apostle took
 occasion to institute a comparison between the Law and the Gospel,
 calling the one a doctrine of the letter, the other a doctrine of the
@@ -367,8 +367,8 @@ spirit; describing the one as formed on tables of stone, the other on
 tables of the heart; the one the preaching of death, the other of life;
 the one of condemnation, the other of justification; the one made void,
 the other permanent (<span id="iv.ii.xii-p28.2"></span>[2 Cor.
-3:5](../../../bib/kjv/co2003.htm#005),
-[6](../../../bib/kjv/co2003.htm#006)<span id="iv.ii.xii-p28.2"></span>).
+3:5](../../../bib/kjv/co2003.htm#005.md),
+[6](../../../bib/kjv/co2003.htm#006)<span id="iv.ii.xii-p28.2"></span>.md).
 The object of the Apostle being to explain the meaning of the Prophet,
 the worlds of the one furnish us with the means of ascertaining what was
 understood by both. And yet there is some difference between them. For
@@ -380,7 +380,7 @@ with reference to their error and foolish affection. It will, therefore,
 be proper to attend to this peculiarity in Paul. Both, however, as they
 are contrasting the Old and New Testament, consider nothing in the Law
 but what is peculiar to it. For example, the Law everywhere23  <span
-id="fr_232"></span>[233](#fn_232) contains promises of mercy; but as
+id="fr_232"></span>[233](#fn_232.md) contains promises of mercy; but as
 these are adventitious to it, they do not enter into the account of the
 Law as considered only in its own nature. All which is attributed to it
 is, that it commands what is right, prohibits crimes, holds forth
@@ -427,7 +427,7 @@ productive of confidence and security. Thus Paul says to the Romans, “Ye
 have not received the spirit of bondage again to fear; but ye have
 received the Spirit of adoption whereby we cry, Abba, Father,” (<span
 id="iv.ii.xii-p31.1"></span>[Rom.
-8:15](../../../bib/kjv/rom008.htm#015)<span
+8:15](../../../bib/kjv/rom008.htm#015.md)<span
 id="iv.ii.xii-p31.1"></span>). To the same effect is the passage in the
 Hebrews, “For ye are not come unto the mount that might be touched, and
 that burned with fire, nor unto blackness, and darkness, and tempest,
@@ -439,7 +439,7 @@ through with a dart: and so terrible was the sight, that Moses said, I
 exceedingly fear and quake); but ye are come unto mount Sion, and unto
 the city of the living God, the heavenly Jerusalem,” &c. (<span
 id="iv.ii.xii-p31.2"></span>[Heb.
-12:18-22](../../../bib/kjv/heb012.htm#018)<span
+12:18-22](../../../bib/kjv/heb012.htm#018.md)<span
 id="iv.ii.xii-p31.2"></span>). What Paul briefly touches on in the
 passage which we have quoted from the Romans, he explains more fully in
 the Epistles to the Galatians, where he makes an allegory of the two
@@ -447,8 +447,8 @@ sons of Abraham in this way: “Agar is mount Sinai in Arabia, and
 answereth to Jerusalem which now is, and is in bondage with her
 children. But Jerusalem which is above is free, which is the mother of
 us all,” (<span id="iv.ii.xii-p31.3"></span>[Gal.
-4:25](../../../bib/kjv/gal004.htm#025),
-[26](../../../bib/kjv/gal004.htm#026)<span
+4:25](../../../bib/kjv/gal004.htm#025.md),
+[26](../../../bib/kjv/gal004.htm#026.md)<span
 id="iv.ii.xii-p31.3"></span>). As the offspring of Agar was born in
 slavery, and could never attain to the inheritances while that of Sara
 was free and entitled to the inheritance, so by the Law we are subjected
@@ -500,7 +500,7 @@ were equally with us partakers of the blessing of eternal salvation. The
 only difference between our division and that of Augustine is, that ours
 (in accordance with the words of our Saviour, “All the prophets and the
 law prophesied until John,” <span id="iv.ii.xii-p32.1"></span>[Mt.
-11:13](../../../bib/kjv/mat011.htm#013)<span
+11:13](../../../bib/kjv/mat011.htm#013.md)<span
 id="iv.ii.xii-p32.1"></span>) distinguishes between the gospel light and
 that more obscure dispensation of the word which preceded it, while the
 other division simply distinguishes between the weakness of the Law and
@@ -525,15 +525,15 @@ he separated the sons of Adam, he set the bounds of the people according
 to the number of the children of Israel. For the Lord’s portion is his
 people; Jacob is the lot of his inheritance,” (<span
 id="iv.ii.xii-p33.1"></span>[Deut.
-32:8](../../../bib/kjv/deu032.htm#008),
-[9](../../../bib/kjv/deu032.htm#009)<span id="iv.ii.xii-p33.1"></span>).
+32:8](../../../bib/kjv/deu032.htm#008.md),
+[9](../../../bib/kjv/deu032.htm#009)<span id="iv.ii.xii-p33.1"></span>.md).
 In another passage he thus addresses the people: “Behold, the heaven and
 the heaven of heavens is the Lord’s thy God, the earth also, with all
 that therein is. Only the Lord had a delight in thy fathers to love
 them, and he chose their seed, after them, even you, above all people,
 as it is this day,” (<span id="iv.ii.xii-p33.2"></span>[Deut.
-10:14](../../../bib/kjv/deu010.htm#014),
-[15](../../../bib/kjv/deu010.htm#015)<span
+10:14](../../../bib/kjv/deu010.htm#014.md),
+[15](../../../bib/kjv/deu010.htm#015.md)<span
 id="iv.ii.xii-p33.2"></span>). That people, therefore, as if they had
 been the only part of mankind belonging to him he favoured exclusively
 with the knowledge of his name, depositing his covenant, as it were, in
@@ -558,11 +558,11 @@ of Jew or Greek, of circumcision or uncircumcision, but Christ is all
 and in all. To him the heathen have been given for his inheritance, and
 the uttermost parts of the earth for his possession (<span
 id="iv.ii.xii-p33.3"></span>[Ps.
-2:8](../../../bib/kjv/psa002.htm#008)<span
+2:8](../../../bib/kjv/psa002.htm#008.md)<span
 id="iv.ii.xii-p33.3"></span>), that he may rule without distinction
 “from sea to sea, and from the river unto the ends of the earth,” (<span
 id="iv.ii.xii-p33.4"></span>[Ps.
-72:8](../../../bib/kjv/psa072.htm#008)<span
+72:8](../../../bib/kjv/psa072.htm#008.md)<span
 id="iv.ii.xii-p33.4"></span>).
 
 <span id="iv.ii.xii-p34"></span>12. The calling of the Gentiles,
@@ -575,19 +575,19 @@ delayed it until having completed the whole work of redemption in all
 its parts, and finished the period of his humiliation, he received from
 the Father “a name which is above every name, that at the name of Jesus
 every knee should bow,” (<span id="iv.ii.xii-p34.1"></span>[Phil.
-2:9](../../../bib/kjv/phi002.htm#009),
-[10](../../../bib/kjv/phi002.htm#010)<span
+2:9](../../../bib/kjv/phi002.htm#009.md),
+[10](../../../bib/kjv/phi002.htm#010.md)<span
 id="iv.ii.xii-p34.1"></span>). Hence the period being not yet completed,
 he declared to the woman of Canaan, “I am not sent but unto the lost
 sheep of the house of Israel,” (<span id="iv.ii.xii-p34.2"></span>[Mt.
-15:24](../../../bib/kjv/mat015.htm#024)<span
+15:24](../../../bib/kjv/mat015.htm#024.md)<span
 id="iv.ii.xii-p34.2"></span>). Nor in his first commission to the
 Apostles does he permit them to pass the same limits, “Go not into the
 way of the Gentiles, and into any city of the Samaritans enter ye not:
 but go rather to the lost sheep of the house of Israel,” (<span
 id="iv.ii.xii-p34.3"></span>[Matt.
-10:5](../../../bib/kjv/mat010.htm#005),
-[6](../../../bib/kjv/mat010.htm#006)<span id="iv.ii.xii-p34.3"></span>).
+10:5](../../../bib/kjv/mat010.htm#005.md),
+[6](../../../bib/kjv/mat010.htm#006)<span id="iv.ii.xii-p34.3"></span>.md).
 However plainly the thing may have been declared in numerous passages,
 when it was announced to the Apostles, it seemed to them so new and
 extraordinary, that they were horrified at it as something monstrous. At
@@ -604,13 +604,13 @@ and, moreover, he in a manner adopted them into the family of Abraham,
 before allowing them to approach his people. But by this public call,
 the Gentiles were not only made equal to the Jews, but seemed to be
 substituted into their place, as if the Jews had been dead.24  <span
-id="fr_233"></span>[234](#fn_233) We may add, that any strangers whom
+id="fr_233"></span>[234](#fn_233.md) We may add, that any strangers whom
 God had formerly admitted into the body of the Church, had never been
 put on the same footing with the Jews. Wherefore, it is not without
 cause that Paul describes it as the mystery which has been hid from ages
 and from generations, but now is made manifest to his saints (<span
 id="iv.ii.xii-p35.1"></span>[Col.
-1:26](../../../bib/kjv/col001.htm#026)<span
+1:26](../../../bib/kjv/col001.htm#026.md)<span
 id="iv.ii.xii-p35.1"></span>).
 
 <span id="iv.ii.xii-p36"></span>13. The whole difference between the Old
@@ -621,7 +621,7 @@ diversity in the mode of teaching, this great change in rites and
 ceremonies, is regarded by some as an absurdity, we must reply to them
 before passing to other matters. And this can be done briefly, because
 the objections are not so strong24  <span
-id="fr_234"></span>[235](#fn_234) as to require a very careful
+id="fr_234"></span>[235](#fn_234.md) as to require a very careful
 refutation. It is unreasonable they say, to suppose that Gods who is
 always consistent With himself permitted such a change as afterwards to
 disapprove what he had once ordered and commended. I answer, that God
@@ -638,7 +638,7 @@ with inconstancy when he makes fit and congruous arrangements for
 diversities of times? The latter similitude ought to be completely
 satisfactory. Paul likens the Jews to children, and Christians to grown
 men (<span id="iv.ii.xii-p37.1"></span>[Gal.
-4:1](../../../bib/kjv/gal004.htm#001)<span
+4:1](../../../bib/kjv/gal004.htm#001.md)<span
 id="iv.ii.xii-p37.1"></span>). What irregularity is there in the Divine
 arrangement, which confined them to the rudiments which were suitable to
 their age, and trains us by a firmer and more manly discipline? The
@@ -666,7 +666,7 @@ is strange, they say, that he now repudiates and abominates the
 sacrifices of beasts, and the whole apparatus of that Levitical
 priesthood in which he formerly delighted. As if those external and
 transient matters could delight God, or affect him in any way!24  <span
-id="fr_235"></span>[236](#fn_235) It has already been observed, that he
+id="fr_235"></span>[236](#fn_235.md) It has already been observed, that he
 appointed none of these things on his own account, but instituted them
 all for the salvation of men. If a physician, adopting the best method,
 effects a cure upon a youth, and afterwards, when the same individual
@@ -695,7 +695,7 @@ justice of God or the veracity of Scripture.
 
 ### Footnotes
 
-<span id="fn_230"></span>[231](inst045.htm#fr_230) <span
+<span id="fn_230"></span>[231](inst045.htm#fr_230.md) <span
 id="iv.ii.xii-p22.1"></span>
 
 <span id="iv.ii.xii-p23"></span>37 237 The French is,“et ˆ icelle se
@@ -704,7 +704,7 @@ opposé au Nouveau par comparaison.”—And to this ought in a manner to be
 referred all the passages in which the Old Testament is, by way of
 camparison, opposed to the New.
 
-<span id="fn_231"></span>[232](inst045.htm#fr_231) <span
+<span id="fn_231"></span>[232](inst045.htm#fr_231.md) <span
 id="iv.ii.xii-p24.1"></span>
 
 <span id="iv.ii.xii-p25"></span>38 238 “Qualiter et aliis Sacramentis
@@ -712,25 +712,25 @@ dari solet.” French, “comme l’Escriture a coustume d’attribuer aux
 sacremens le nom des choses qu’ils representent;”—just as Scripture is
 wont to give sacraments the names of the things which they represent.
 
-<span id="fn_232"></span>[233](inst045.htm#fr_232) <span
+<span id="fn_232"></span>[233](inst045.htm#fr_232.md) <span
 id="iv.ii.xii-p28.3"></span>
 
 <span id="iv.ii.xii-p29"></span>39 239 “Passim.” French, “cá et
 lá;”—here and there.
 
-<span id="fn_233"></span>[234](inst045.htm#fr_233) <span
+<span id="fn_233"></span>[234](inst045.htm#fr_233.md) <span
 id="iv.ii.xii-p34.4"></span>
 
 <span id="iv.ii.xii-p35"></span>40 240 “In demortuorum locum.” The
 French is simply, “en leur lieu;”—into their place.
 
-<span id="fn_234"></span>[235](inst045.htm#fr_234) <span
+<span id="fn_234"></span>[235](inst045.htm#fr_234.md) <span
 id="iv.ii.xii-p36.1"></span>
 
 <span id="iv.ii.xii-p37"></span>41 241 “Firmæ,” French, “Ne si fortes,
 ne si urgentes;”—neither so strong, nor so pressing.
 
-<span id="fn_235"></span>[236](inst045.htm#fr_235) <span
+<span id="fn_235"></span>[236](inst045.htm#fr_235.md) <span
 id="iv.ii.xii-p38.1"></span>
 
 <span id="iv.ii.xii-p39"></span>42 242 “Aut ullo modo affciant.” French
@@ -740,4 +740,4 @@ stopped at them.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 12. - CHRIST, TO PERFORM THE OFFICE OF MEDIATOR, BEHOVED
-TO BECOME MAN.](inst046)
+TO BECOME MAN.](inst046.md)

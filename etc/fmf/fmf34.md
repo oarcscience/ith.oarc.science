@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf33)  [Next](fmf35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf33)  [Next](fmf35.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ MORAL: One cannot Rest except after steady Practice.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Bookworm and The Butterfly Who Went into the
-Law](fmf35)
+Law](fmf35.md)

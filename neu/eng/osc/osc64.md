@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc63)  [Next](osc65) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc63)  [Next](osc65.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ is an absurdity among the most illiterate of its kind.
 
 ------------------------------------------------------------------------
 
-[Next: (24) The Cuckoo](osc65)
+[Next: (24) The Cuckoo](osc65.md)

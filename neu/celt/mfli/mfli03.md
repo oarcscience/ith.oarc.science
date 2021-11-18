@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli02)  [Next](mfli04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli02)  [Next](mfli04.md) 
 
 ------------------------------------------------------------------------
 
@@ -353,4 +353,4 @@ giant, and lived happily with his parents and wife.
 
 ------------------------------------------------------------------------
 
-[Next: Fair, Brown and Trembling](mfli04)
+[Next: Fair, Brown and Trembling](mfli04.md)

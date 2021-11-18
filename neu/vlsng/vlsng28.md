@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng27)  [Next](vlsng29) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng27)  [Next](vlsng29.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ they all prick him on to that wooing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII: The Wooing of Brynhild.](vlsng29)
+[Next: Chapter XXVII: The Wooing of Brynhild.](vlsng29.md)

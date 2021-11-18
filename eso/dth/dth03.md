@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth02) 
-[Next](dth04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth02.md) 
+[Next](dth04.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Sun, the lunar periods,
 
 <span id="page_34">p. 34</span>
 
-the [rhythmic](errata.htm#9) ebb and flow of the tidal sea. Let your
+the [rhythmic](errata.htm#9.md) ebb and flow of the tidal sea. Let your
 mind grasp what all this means, let it sweep right from the grandest
 aspect of Nature down to the atom itself and what does it see? A Power
 expressing itself in an infinite variety of ways, in everything, and
@@ -399,4 +399,4 @@ perfect radiant health.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](dth04)
+[Next: Part III](dth04.md)

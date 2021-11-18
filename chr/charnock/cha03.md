@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](cha02)  [Next](cha04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](cha02)  [Next](cha04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Works of Stephen Charnock*, \[1628-1680\] at Intangible Textual
 Heritage
 
@@ -4494,6 +4494,6 @@ End of *The Necessity of Regeneration* by Stephen Charnock.
 
 ------------------------------------------------------------------------
 
-[Next: Discourse on the Cleansing Virtue of Christ's Blood](cha04)
+[Next: Discourse on the Cleansing Virtue of Christ's Blood](cha04.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes26)  [Next](nes28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes26)  [Next](nes28.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N days long ago very little, and many a time no soap was used in
 washing. Cow-dung was frequently employed in the scouring and bleaching
@@ -74,4 +74,4 @@ person's clothes in the tub.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV. Farming](nes28)
+[Next: Chapter XXV. Farming](nes28.md)

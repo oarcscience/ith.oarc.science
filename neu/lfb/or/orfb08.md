@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb07)  [Next](orfb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb07)  [Next](orfb09.md) 
 
 </div>
 
@@ -258,6 +258,6 @@ will fill and sink to the bottom, and his will go up—at least it may!'
 
 ------------------------------------------------------------------------
 
-[Next: How Ian Direach Got the Blue Falcon](orfb09)
+[Next: How Ian Direach Got the Blue Falcon](orfb09.md)
 
 </div>

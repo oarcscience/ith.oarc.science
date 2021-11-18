@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](aen01) 
-[Previous](aenl00)  [Next](aenl02) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](aen01.md) 
+[Previous](aenl00)  [Next](aenl02.md) 
 
 ------------------------------------------------------------------------
 
@@ -815,4 +815,4 @@ omnibus errantem terris et fluctibus aestas.'
 >
 > ------------------------------------------------------------------------
 >
-> [Next: Book II](aenl02)
+> [Next: Book II](aenl02.md)

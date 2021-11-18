@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois34) 
-[Next](wois36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois34.md) 
+[Next](wois36.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 <div style="margin-left: 32px">
 
-<span class="small">"Also the soul <span id="fr_15"></span>[\*](#fn_14)
+<span class="small">"Also the soul <span id="fr_15"></span>[\*](#fn_14.md)
 can never be satisfied" (Eccles. vi. 3, 7).</span>
 
 </div>
@@ -41,7 +41,7 @@ the soul of man is from on high."
 
 ### Footnotes
 
-<span id="fn_14"></span>[54:\*](wois35.htm#fr_15) The word here rendered
+<span id="fn_14"></span>[54:\*](wois35.htm#fr_15.md) The word here rendered
 "soul" is in this particular verse translated in the English Bible
 "appetite," though elsewhere in the English Bible it is often rendered
 "soul." The Rabbis, in this midrash, translate *nefesh* (soul) or "life
@@ -53,6 +53,6 @@ Scripture described by me in the Introduction.
 
 ------------------------------------------------------------------------
 
-[Next: The Father's Voice](wois36)
+[Next: The Father's Voice](wois36.md)
 
 </div>

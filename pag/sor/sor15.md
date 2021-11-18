@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor14)  [Next](sor16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor14)  [Next](sor16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -114,7 +114,7 @@ a long year. For three days and three nights Sodom caroused over the
 tombs of the dead. The mad King, not yet the imbecile he afterwards
 became, forced all the kings, his ancestors, their dry bones dancing in
 their coffins, to share his revel. Grim Death, whether he would or no,
-was made a [panderer](errata.htm#5) and added a horrid spur to the
+was made a [panderer](errata.htm#5.md) and added a horrid spur to the
 wanton pleasures of the Court. There in all their effrontery flaunted
 the base fashions of the period, when great ladies, their height
 exaggerated by the "devil's coif," or double-horned headdress of the
@@ -124,7 +124,7 @@ seemed
 <span id="page_122">p. 122</span>
 
 pregnant—an admirable device, by-the-by, for concealing the fact if it
-were really so. <span id="fr_54"></span>[1](#fn_54) The mode was dear to
+were really so. <span id="fr_54"></span>[1](#fn_54.md) The mode was dear to
 women, and lasted a good forty years. The young nobles on their side
 were just as shameless, and exposed their persons in an equally
 disgusting fashion. Whilst women wore Satan on their brows in the
@@ -143,7 +143,7 @@ reason, life, body, soul, the sheer abyss and bottomless pit of hell.
 And what was the result? The whipped curs of Agincourt, that poor
 etiolated generation of nobles who in miniatures make us shiver to this
 day to see beneath their tight-laced doublets their wretched, thin,
-shrunken limbs. <span id="fr_55"></span>[2](#fn_55)
+shrunken limbs. <span id="fr_55"></span>[2](#fn_55.md)
 
  
 
@@ -228,7 +228,7 @@ refuse the woodland paths."
 "But, dear lady, suppose they caught you?" . . . "Insolent woman! I tell
 you, you shall die the death." "But surely you know the history of the
 werewolf woman whose paw was cut off. <span
-id="fr_56"></span>[3](#fn_56) . . . I should be so grieved to see such
+id="fr_56"></span>[3](#fn_56.md) . . . I should be so grieved to see such
 an accident!"
 
 <span id="page_125">p. 125</span>
@@ -289,7 +289,7 @@ reserved for the victims, found herself between two dangers. On one side
 the peasants’ pitchfork and scythe, on the other the tortures of the
 Baron's tower, which a refusal would inevitably have brought down on her
 head. De Retz's myrmidon, that terrible Italian of his, <span
-id="fr_57"></span>[4](#fn_57) was as likely as not to have pounded her
+id="fr_57"></span>[4](#fn_57.md) was as likely as not to have pounded her
 to death in his mortar.
 
 <span id="page_127">p. 127</span>
@@ -305,7 +305,7 @@ declared, which invariably died of the effects), they could overthrow
 the reason, change men into beasts, turn women lightheaded and insane.
 Even more terrible was the frenzied delirium produced by the thorn-apple
 or *Datura*, which sets men dancing till they die, <span
-id="fr_58"></span>[5](#fn_58) makes them unhesitatingly submit to a
+id="fr_58"></span>[5](#fn_58.md) makes them unhesitatingly submit to a
 thousand shameful horrors, of which they have no present consciousness,
 and no subsequent recollection.
 
@@ -327,26 +327,26 @@ their way to the Witch's hut, to implore pity of the
 <span class="contnote">\[paragraph continues\]</span> Devil. What
 feelings of pride and transport must have filled the Witch-wife's heart
 to behold all this multitude grovelling at her feet! <span
-id="fr_59"></span>[6](#fn_59)
+id="fr_59"></span>[6](#fn_59.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_54"></span>[122:1](sor15.htm#fr_54) Even in a painting
+<span id="fn_54"></span>[122:1](sor15.htm#fr_54.md) Even in a painting
 representing the most mystical of subjects, in a work of genius, the
 *Holy Lamb* of Van Eyck (known as John of Bruges), all the virgins look
 as if they were in child. Such was the grotesque mode of the fifteenth
 century.
 
-<span id="fn_55"></span>[122:2](sor15.htm#fr_55) This excessive thinness
+<span id="fn_55"></span>[122:2](sor15.htm#fr_55.md) This excessive thinness
 of persons worn out and enervated by excesses is enough to spoil, in my
 eyes, all the superb miniatures of the Court of Burgundy, the Duc de
 Berry, etc. The subjects are such deplorable creatures that no beauty of
 execution can make these pictures really pleasing and successful works
 of art.
 
-<span id="fn_56"></span>[124:3](sor15.htm#fr_56) This dreadful idea was
+<span id="fn_56"></span>[124:3](sor15.htm#fr_56.md) This dreadful idea was
 not unfamiliar to the great ladies of those days, the high-born
 prisoners in mediæval castles. They were hungry and thirsty <span
 id="page_125">p. 125</span> after freedom, and the cruelties of absolute
@@ -367,7 +367,7 @@ afterwards escaped, leaving a paw behind on the field of battle. The
 husband had the cruelty to give her up to justice, and she was burned at
 the stake.
 
-<span id="fn_57"></span>[126:4](sor15.htm#fr_57) See my *History of
+<span id="fn_57"></span>[126:4](sor15.htm#fr_57.md) See my *History of
 France*, and above all the learned and precise little book by our
 lamented Armand Guéraud, *Notice sur Gilles de Rais*, Nantes,
 1855—reprinted in the *Biographie Bretonne* of M. Levot. From it we see
@@ -380,7 +380,7 @@ genuine form and unmutilated. The MSS. are at Nantes and at Paris. My
 learned friend, M. Dugast-Matifeux, informs me a copy is in existence
 *more complete* than these originals in the archives of Thouars.
 
-<span id="fn_58"></span>[127:5](sor15.htm#fr_58) Pouchet, *Solanées et
+<span id="fn_58"></span>[127:5](sor15.htm#fr_58.md) Pouchet, *Solanées et
 Botanique Générale;* Nysten, *Dict. de Médecine* (edit. Littré and
 Robin), article *Datura*. Thieves are only too ready to make use of
 these decoctions. One day they made the hangman of Aix and his wife,
@@ -388,7 +388,7 @@ whom they wished to rob of their money, take a dose of this nature. The
 two victims fell into so extraordinary a state of delirium that they
 passed the whole of one night dancing absolutely naked in a graveyard.
 
-<span id="fn_59"></span>[128:6](sor15.htm#fr_59) This pride and
+<span id="fn_59"></span>[128:6](sor15.htm#fr_59.md) This pride and
 exultation sometimes led her into the most reckless dissoluteness. Hence
 the German saying, "The Witch in her garret showed her comrade fifteen
 fine lads in green coats, and bade her 'Choose; they are all for you.'"
@@ -429,4 +429,4 @@ alive*."
 
 ------------------------------------------------------------------------
 
-[Next: 14. Persecutions](sor16)
+[Next: 14. Persecutions](sor16.md)

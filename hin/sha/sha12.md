@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha11)  [Next](sha13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha11)  [Next](sha13.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,7 +124,7 @@ crown prince, just as you promised before, when we met."
 When the king heard her, although he remembered her, he said: "I do not
 remember. To whom do you belong, you wicked hermit-woman? I do not
 remember a union with you for virtue, love, and wealth. <span
-id="fr_4"></span>[1](#fn_4) Either go or stay, or do whatever you wish."
+id="fr_4"></span>[1](#fn_4.md) Either go or stay, or do whatever you wish."
 
 When he said this, the sweet hermit-girl half fainted from shame and
 grief, and stood stiff as a pillar. Her eyes darkened with passionate
@@ -311,7 +311,7 @@ either as an acting text, or as a school-book.
 <span id="page_104">p. 104</span>
 
 We cannot take leave of Shakuntala in any better way than by quoting the
-passage <span id="fr_5"></span>[1](#fn_5) in which Levi's imagination
+passage <span id="fr_5"></span>[1](#fn_5.md) in which Levi's imagination
 has conjured up "the memorable *première* when Shakuntala saw the light,
 in the presence of Vikramaditya and his court."
 
@@ -365,10 +365,10 @@ d’entrer dans l’immortalité.
 
 ### Footnotes
 
-<span id="fn_4"></span>[99:1](sha12.htm#fr_4) The Hindu equivalent of
+<span id="fn_4"></span>[99:1](sha12.htm#fr_4.md) The Hindu equivalent of
 "for better, for worse."
 
-<span id="fn_5"></span>[104:1](sha12.htm#fr_5) *Le Theâtre Indien*,
+<span id="fn_5"></span>[104:1](sha12.htm#fr_5.md) *Le Theâtre Indien*,
 pages 368-371. This is without competition the best work in which any
 part of the Sanskrit literature has been treated, combining erudition,
 imagination, and taste. The book is itself literature of a high order.
@@ -376,4 +376,4 @@ The passage is unfortunately too long to be quoted entire.
 
 ------------------------------------------------------------------------
 
-[Next: I.--Malavika And Agnimitra](sha13)
+[Next: I.--Malavika And Agnimitra](sha13.md)

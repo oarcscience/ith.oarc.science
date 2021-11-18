@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws55)  [Next](cws57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws55)  [Next](cws57.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,4 +10,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: No. I: The Credo](cws57)
+[Next: No. I: The Credo](cws57.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar084) [Next](gbar086)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar084) [Next](gbar086.md)
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ are enemies and slayers of the soul.
 
 ------------------------------------------------------------------------
 
-[Next](gbar086)
+[Next](gbar086.md)

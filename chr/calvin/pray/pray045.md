@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray044)  [Next](pray046) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray044)  [Next](pray046.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ counterpart; and, therefore, heaven is expressly contrasted with earth,
 because, as is said in The Psalms, the angels "do his commandments,
 hearkening unto the voice of his word" (<span
 id="iii.xliii-p1.1"></span>[Psalm
-103:20](../../../bib/kjv/psa103.htm#020)<span
+103:20](../../../bib/kjv/psa103.htm#020.md)<span
 id="iii.xliii-p1.1"></span>). We are, therefore, enjoined to pray that
 as everything done in heaven is at the command of God, and the angels
 are calmly disposed to do all that is right, so the earth may be brought
@@ -68,4 +68,4 @@ turn out to their confusion and destruction.
 
 ------------------------------------------------------------------------
 
-[Next: 44.](pray046)
+[Next: 44.](pray046.md)

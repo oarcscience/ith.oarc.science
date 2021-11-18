@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml34)  [Next](yml36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml34)  [Next](yml36.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ patient. He was frightened. He left, calling on Dios for help with all
 his heart. He found Jesucristo and said to him, "I need you. I could not
 revive my patient."
 
-"Very well," said [Jesucristo](errata.htm#7), and he went to the place
+"Very well," said [Jesucristo](errata.htm#7.md), and he went to the place
 where the dead man was. He put out his hand and said, "Rise up, José,"
 and the dead man came to life.
 
@@ -54,4 +54,4 @@ at curing; but always with the help of Jesucristo. LC
 
 ------------------------------------------------------------------------
 
-[Next: Pedro de Ordimales](yml36)
+[Next: Pedro de Ordimales](yml36.md)

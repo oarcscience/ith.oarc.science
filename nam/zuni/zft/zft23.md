@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft22)  [Next](zft24) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft22)  [Next](zft24.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ Oh, alas! our little maiden!
 
 ------------------------------------------------------------------------
 
-[Next: How The Corn-Pests Were Ensnared](zft24)
+[Next: How The Corn-Pests Were Ensnared](zft24.md)

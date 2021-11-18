@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](rtae09)  [Next](rtae11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](rtae09)  [Next](rtae11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Development of Religion and Thought in Ancient Egypt*, by James Henry
 Breasted, \[1912\], at Intangible Textual Heritage
 
@@ -57,16 +57,16 @@ of the Pyramid Age had already begun to look back upon a time when sin
 and strife did not exist, to "that first body" of "the company of the
 just," "born before arose," "strife," "voice," "blasphemy," "conflict,"
 or the frightful mutilations inflicted upon each other by Horus and
-Set. <span id="fr_561"></span>[1](#fn_561) With this age of innocence,
+Set. <span id="fr_561"></span>[1](#fn_561.md) With this age of innocence,
 or at least of righteousness and peace, we must associate also the time
 of which they spoke, "before death came forth." <span
-id="fr_562"></span>[2](#fn_562) The development of moral discernment had
+id="fr_562"></span>[2](#fn_562.md) The development of moral discernment had
 indeed gone so far in the Pyramid Age that the thought of the age was
 dealing with the origin of good and evil, the source of human traits. We
 recall that our Memphite philosopher and theologian attributed all these
 things to the creative word of his god, "which made that which is loved
 and that which is hated," "which gave life to the peaceful and death to
-the guilty." <span id="fr_563"></span>[3](#fn_563) Akin to this is the
+the guilty." <span id="fr_563"></span>[3](#fn_563.md) Akin to this is the
 emergence, in this age, of the earliest abstract term discernible in the
 ancient world, the word for "truth, right, righteousness, justice," all
 of which are connoted by one word.
@@ -83,7 +83,7 @@ proverbial in the Pyramid Age. The cause of his enduring reputation was
 that he had decided a case, in which his relatives were involved,
 against his own kin, no matter what the merits of the case might be,
 lest he should be accused of partial judgment in favor of his own
-family. <span id="fr_564"></span>[1](#fn_564) A similar example of
+family. <span id="fr_564"></span>[1](#fn_564.md) A similar example of
 respect for moral ideals in high places is doubtless to be recognized in
 the Horus-name of king Userkaf (twenty-eighth century B.C.). He called
 himself "Doer-of-Righteousness" (or Justice).
@@ -91,7 +91,7 @@ himself "Doer-of-Righteousness" (or Justice).
 Among the people the most common virtue discernible by us is filial
 piety. Over and over again we find the massive tombs of the Pyramid Age
 erected by the son for the departed father, as well as a splendid
-interment arranged by the son. <span id="fr_565"></span>[2](#fn_565)
+interment arranged by the son. <span id="fr_565"></span>[2](#fn_565.md)
 Indeed one of the sons of this age even surpasses the example of all
 others, for he states in a passage of his tomb inscription: "Now I
 caused that I should be buried in the same tomb with this Zau (his
@@ -99,7 +99,7 @@ father), in order that I might be with him in the same place; not,
 however, because I was not in a position to make a second tomb; but I
 did this in order that I might see this Zau every day, in order that I
 might be with him in the same place." <span
-id="fr_566"></span>[3](#fn_566)
+id="fr_566"></span>[3](#fn_566.md)
 
 It is especially in the tomb that such claims of moral worthiness are
 made. This is not an accident; such claims are made in the tomb in this
@@ -110,7 +110,7 @@ accruing from such virtues. Thus, on the base of a mortuary
 
 statue set up in a tomb, the deceased represented by the portrait statue
 says: "I had these statues made by the sculptor and he was satisfied
-with the pay which I gave him." <span id="fr_567"></span>[1](#fn_567)
+with the pay which I gave him." <span id="fr_567"></span>[1](#fn_567.md)
 The man very evidently wished it known that his mortuary equipment was
 honestly gotten. A nomarch of the twenty-seventh century B.C. left the
 following record of his upright life: "I gave bread to all the hungry of
@@ -125,15 +125,15 @@ of it to the god. . . . I was a benefactor to it (his domain) in the
 folds of the cattle, in the settlements of the fowlers. . . . I speak no
 lie, for I was one beloved of his father, praised of his mother,
 excellent in character to his brother, and amiable to \[his
-sister\]." <span id="fr_568"></span>[2](#fn_568)
+sister\]." <span id="fr_568"></span>[2](#fn_568.md)
 
 Over and over these men of four thousand five hundred to five thousand
 years ago affirm their innocence of evildoing. "Never did I do anything
-evil toward any person," <span id="fr_569"></span>[3](#fn_569) says the
+evil toward any person," <span id="fr_569"></span>[3](#fn_569.md) says the
 chief physician of king Sahure in the middle of the twenty-eighth
 century before Christ, while a priest a little later says essentially
 the same thing: "Never have I done aught of violence toward any
-person." <span id="fr_570"></span>[4](#fn_570) A century later a citizen
+person." <span id="fr_570"></span>[4](#fn_570.md) A century later a citizen
 of little or no rank places the following address to the living upon the
 front
 
@@ -144,7 +144,7 @@ of his tomb: "O ye living, who are upon earth, who pass by this tomb . .
 was one beloved of the people. Never was I beaten in the presence of any
 official since my birth; never did I take the property of any man by
 violence; I was a doer of that which pleased all men." <span
-id="fr_571"></span>[1](#fn_571) It is evident from such addresses to the
+id="fr_571"></span>[1](#fn_571.md) It is evident from such addresses to the
 living as this that one motive for these affirmations of estimable
 character was the hope of maintaining the goodwill of one's surviving
 neighbors, that they might present mortuary offerings of food and drink
@@ -174,14 +174,14 @@ things and repeating what was loved. Never did I say aught evil to a
 powerful one against anybody. I desired that it might be well with me in
 the Great God's presence. Never did I \[judge two brothers\] in such a
 way that a son was deprived of his paternal possession." <span
-id="fr_572"></span>[1](#fn_572) Here the threat of judgment is not only
+id="fr_572"></span>[1](#fn_572.md) Here the threat of judgment is not only
 used to deter the lawless who might take possession of the dead man's
 tomb, but the thought of that judgment, meaning moral responsibility
 beyond the grave, is affirmed to have been the motive of the great
 explorer's exemplary life. That motive is thus carried back to the
 actual course of his daily, earthly life as when he says: "I desired
 that it might be well with me in the Great God's presence." <span
-id="fr_573"></span>[2](#fn_573) Throughout his life, then, he looked
+id="fr_573"></span>[2](#fn_573.md) Throughout his life, then, he looked
 forward to standing in that dread presence to answer for the ethical
 quality of his conduct. As the earliest evidence of moral responsibility
 beyond the tomb, such utterances in the cemeteries of the Pyramid Age,
@@ -201,10 +201,10 @@ employed instead. This is expanded in one tomb to "Great
 <span id="page_171">p. 171</span>
 
 <span class="contnote">\[paragraph continues\]</span> God, lord of the
-sky." <span id="fr_574"></span>[1](#fn_574) It is hardly possible that
+sky." <span id="fr_574"></span>[1](#fn_574.md) It is hardly possible that
 any other than Re can be meant. To be sure, the celestializing of Osiris
 has in one or two rare instances brought even him the title "lord of the
-sky" (see above, [p. 149](rtae09.htm#page_149)), but the unprejudiced
+sky" (see above, [p. 149](rtae09.htm#page_149).md), but the unprejudiced
 mind on hearing the words "Great God, lord of the sky" would think of no
 other than Re, to whom it was and had been for centuries incessantly
 applied; and this conclusion is confirmed by all that we find in the
@@ -214,7 +214,7 @@ lord of the judgment. It is he who is meant when Inti of Deshasheh says:
 anything destructive to this (tomb), who shall damage the writing
 therein, judgment shall be had with them for it by the Great God, the
 lord of judgment in the place where judgment is had." <span
-id="fr_575"></span>[2](#fn_575)
+id="fr_575"></span>[2](#fn_575.md)
 
 We have already followed the elaborate provision for all the
 contingencies of the hereafter which we find in the Pyramid Texts, and
@@ -227,7 +227,7 @@ when the dead king in one passage is washed by "the Followers of Horus,"
 "they recite the 'Chapter of the Just' on behalf of this king Pepi (whom
 they are washing); they recite the 'Chapter of Those Who Have Ascended
 to Life and Satisfaction' on behalf of this king Pepi." <span
-id="fr_576"></span>[3](#fn_576) The "Followers of Horus" who perform
+id="fr_576"></span>[3](#fn_576.md) The "Followers of Horus" who perform
 this ceremony are of course Solar, and thus moral purity in the
 hereafter is associated with the Sun-god
 
@@ -239,21 +239,21 @@ the Pyramid Texts. "'Let him come, he is pure,' says the priest of Re
 concerning king Mernere. The door-keeper of the sky, he announces him
 (Mernere) to these four gods (the four Horuses) who are over the lake of
 Keneset. They recite (the chapter), 'How just is king Mernere for his
-father Geb!' <span id="fr_577"></span>[1](#fn_577) They recite (the
+father Geb!' <span id="fr_577"></span>[1](#fn_577.md) They recite (the
 chapter), 'How just is king Mernere for his father Re!'" <span
-id="fr_578"></span>[2](#fn_578)
+id="fr_578"></span>[2](#fn_578.md)
 
 The king, then, is not exempt from the requirement which the tombs of
 his nobles disclose them as so anxious to fulfil, and the god whom he
 satisfies, as in the case of his subjects, is Re. "There is no evil
 which king Pepi has done. Weighty is this word in thy sight, O
-Re." <span id="fr_579"></span>[3](#fn_579) In a typical Solar Utterance,
+Re." <span id="fr_579"></span>[3](#fn_579.md) In a typical Solar Utterance,
 an appendix to an untouched Solar Utterance preceding it, we find Re's
 ferryman thus addressed: "O thou who ferriest over the just who is
 without a ship, ferryman of the Field of Rushes, king Merire (Pepi) is
 just before the sky and before the earth. King Pepi is just before that
 island of the earth to which he has swum and arrived there." <span
-id="fr_580"></span>[4](#fn_580) When the righteous king has safely
+id="fr_580"></span>[4](#fn_580.md) When the righteous king has safely
 crossed, he furthermore finds a Solar Horus in charge of the celestial
 doors, who presides in
 
@@ -261,21 +261,21 @@ doors, who presides in
 
 what is evidently a building, of uncertain character, to which is
 appended the phrase "of righteousness." <span
-id="fr_581"></span>[1](#fn_581) Re has two barques of "Truth" or
-"Righteousness," <span id="fr_582"></span>[2](#fn_582) and we remember
+id="fr_581"></span>[1](#fn_581.md) Re has two barques of "Truth" or
+"Righteousness," <span id="fr_582"></span>[2](#fn_582.md) and we remember
 that the goddess of Truth or Righteousness, a personification of one of
 the few abstractions existent in this early age, was a daughter of Re.
 
 Similarly, the Morning Star, a Solar deity, takes due note of the moral
 status of the dead Pharaoh. "Thou (O Morning Star) makest this Pepi to
 sit down because of his righteousness and to rise up because of his
-reverence." <span id="fr_583"></span>[3](#fn_583) Sometimes his
+reverence." <span id="fr_583"></span>[3](#fn_583.md) Sometimes his
 guiltlessness applies to matters not wholly within the moral realm from
 our modern point of view. Having become the son of Re, rising and
 setting like Re, receiving the food of Horus (son of Re), ministering to
 Re and rowing Re across the sky, it is said of the king: "This Pepi
 blasphemes not the king, he ⌈defames⌉ not Bastet, he does not make merry
-in the sanctuary." <span id="fr_584"></span>[4](#fn_584)
+in the sanctuary." <span id="fr_584"></span>[4](#fn_584.md)
 
 The moral worthiness of the deceased must of course, in accordance with
 the Egyptian's keen legal discernment, be determined in legal form and
@@ -283,12 +283,12 @@ by legal process. We have seen that the nobles refer to the judgment in
 their tombs, and it would seem that even the king was subject to such
 judgment. Indeed not even the gods escaped it; for it is stated that
 every god who assists the Pharaoh to the sky "shall be justified before
-Geb." <span id="fr_585"></span>[5](#fn_585) In the same way the
+Geb." <span id="fr_585"></span>[5](#fn_585.md) In the same way the
 punishment of a refractory god is "that he shall not ascend to the house
 of Horus that is in the sky on that day of the (legal) hearing." <span
-id="fr_586"></span>[6](#fn_586) In a series of three Solar Utterances
+id="fr_586"></span>[6](#fn_586.md) In a series of three Solar Utterances
 concerning the two celestial reed floats, <span
-id="fr_587"></span>[7](#fn_587)
+id="fr_587"></span>[7](#fn_587.md)
 
 <span id="page_174">p. 174</span>
 
@@ -300,7 +300,7 @@ occurring in this connection is not Osirian but Solar, like the
 Utterance in which it is found. This conclusion is confirmed by another
 Solar Utterance on the two reed floats which affirms: "This Pepi is
 justified, the ka of this Pepi is justified." <span
-id="fr_588"></span>[1](#fn_588)
+id="fr_588"></span>[1](#fn_588.md)
 
 The translated Pharaoh, who is thus declared just, continues to exhibit
 the same qualities in the exercise of the celestial sovereignty which he
@@ -309,11 +309,11 @@ receives. "He judges justice before Re on that day of the feast,
 in joy, having heard that king Neferkere (Pepi II) has placed justice
 \[in the place of injustice\]. They are satisfied who sit with king
 Neferkere in his court of justice with the just utterance which came
-forth from his mouth." <span id="fr_589"></span>[2](#fn_589) It is
+forth from his mouth." <span id="fr_589"></span>[2](#fn_589.md) It is
 significant that the king exercises this just judgment in the presence
 of Re the Sun-god. Similarly in a Solar Utterance we find it affirmed
 that "king Unis has set justice therein (in the isle where he is) in the
-place of injustice." <span id="fr_590"></span>[3](#fn_590)
+place of injustice." <span id="fr_590"></span>[3](#fn_590.md)
 
 There can be no doubt that in the Old Kingdom the sovereignty of Re had
 resulted in attributing to him the moral requirements laid upon the dead
@@ -327,36 +327,36 @@ but none of the others approaches the prominence of Re in this
 particular. We find the four genii, the sons of Horus, who, as we have
 seen, were not improbably Solar in origin, though later Osirianized,
 called "these four gods who live in righteousness, leaning upon their
-sceptres, guarding the Southland." <span id="fr_591"></span>[1](#fn_591)
+sceptres, guarding the Southland." <span id="fr_591"></span>[1](#fn_591.md)
 These gods are once associated with Letopolis, <span
-id="fr_592"></span>[2](#fn_592) and it is perhaps a connected fact that
+id="fr_592"></span>[2](#fn_592.md) and it is perhaps a connected fact that
 officiating before Khenti-yerti of Letopolis we find a god called
 "Expeller of Deceit," using the word for "deceit" which is correlated
 with "Truth or Righteousness" in the Pyramid Texts as its
-opposite. <span id="fr_593"></span>[3](#fn_593) These four sons of Horus
+opposite. <span id="fr_593"></span>[3](#fn_593.md) These four sons of Horus
 are mortuary gods, and one of the old mortuary gods of Memphis, Sokar,
 possessed a barque which was called the "Barque of Truth (or
-Righteousness)." <span id="fr_594"></span>[4](#fn_594) To this barque or
+Righteousness)." <span id="fr_594"></span>[4](#fn_594.md) To this barque or
 its presiding divinity the dead king is compared: "The tongue of this
 king Pepi is (that of) 'The-Righteous-One (a god)
 -Belonging-to-the-Barque-of-Righteousness.'" <span
-id="fr_595"></span>[5](#fn_595) The Osirian Horus once receives the
+id="fr_595"></span>[5](#fn_595.md) The Osirian Horus once receives the
 epithet "the justified" in the Pyramid Texts; <span
-id="fr_596"></span>[6](#fn_596) and Osiris likewise is, though very
+id="fr_596"></span>[6](#fn_596.md) and Osiris likewise is, though very
 rarely, called "Lord of Truth (or Righteousness)." <span
-id="fr_597"></span>[7](#fn_597) In connection with the Osirian
+id="fr_597"></span>[7](#fn_597.md) In connection with the Osirian
 litigation at Heliopolis three statements regarding the legal triumph of
 the king are made which, because of the legal character of the victory,
 may not be exclusively ethical. The passage says of the king: "He is
 justified through that which he has done." <span
-id="fr_598"></span>[8](#fn_598) Again, he "comes forth to the truth (or
+id="fr_598"></span>[8](#fn_598.md) Again, he "comes forth to the truth (or
 'righteousness' in the sense of legal victory), that he may take it with
-him"; <span id="fr_599"></span>[9](#fn_599) and finally the king "goes
+him"; <span id="fr_599"></span>[9](#fn_599.md) and finally the king "goes
 forth on this day that he may
 
 <span id="page_176">p. 176</span>
 
-bring the truth with him." <span id="fr_600"></span>[1](#fn_600) The
+bring the truth with him." <span id="fr_600"></span>[1](#fn_600.md) The
 later rapid growth of ethical teaching in the Osiris faith and the
 assumption of the rôle of judge by Osiris is not yet discernible in the
 Pyramid Age, and the development which made these elements so prominent
@@ -372,7 +372,7 @@ religion. To these later conditions from which modern students have
 drawn their impressions, the current conclusion regarding the early
 moral supremacy of Osiris is due. The greater age of the Solar faith in
 this as in other particulars is, however, perfectly clear. <span
-id="fr_601"></span>[2](#fn_601)
+id="fr_601"></span>[2](#fn_601.md)
 
 These early moral aspirations had their limitations. Let us not forget
 that we are dealing with an age lying between five thousand and
@@ -391,10 +391,10 @@ in it. The requirements of the great judge in the hereafter were not
 incompatible with the grossest sensuality. Not only was sensual pleasure
 permitted in the hereafter as depicted by the Pyramid Texts, but
 positive provision was made for supplying it. <span
-id="fr_602"></span>[1](#fn_602) The king is assured of sensual
+id="fr_602"></span>[1](#fn_602.md) The king is assured of sensual
 gratification in the grossest terms, and we hear it said of him that he
 "is the man who takes women from their husbands whither he wills and
-when his heart desires." <span id="fr_603"></span>[2](#fn_603)
+when his heart desires." <span id="fr_603"></span>[2](#fn_603.md)
 
 Nevertheless that was a momentous step which regarded felicity after
 death as in any measure dependent upon the ethical quality of the dead
@@ -414,7 +414,7 @@ which this statement occurs is found in a variant
 form in the pyramids of Unis and Teti, two kings earlier than Pepi.
 Neither of these earlier forms contains this statement of justification,
 and within a period of sixty to eighty years the editors deemed it wise
-to insert it. <span id="fr_604"></span>[1](#fn_604)
+to insert it. <span id="fr_604"></span>[1](#fn_604.md)
 
 As we have so often said, it is not easy to read the spiritual and
 intellectual progress of a race in monuments so largely material as
@@ -532,16 +532,16 @@ that the author had certainly stood on some elevated point overlooking
 
 the pyramid cemetery of the Old Kingdom as he wrote them. We possess two
 fragmentary versions of the song, one on papyrus, the other on the walls
-of a Theban tomb. <span id="fr_605"></span>[1](#fn_605) But the papyrus
+of a Theban tomb. <span id="fr_605"></span>[1](#fn_605.md) But the papyrus
 version was also copied from a tomb, for the superscription reads: "Song
 which is in the house (tomb-chapel) of king Intef <span
-id="fr_606"></span>[2](#fn_606) the justified, which is in front of the
+id="fr_606"></span>[2](#fn_606.md) the justified, which is in front of the
 singer with the harp." The song reads:
 
 <div style="margin-left: 32px">
 
 <span class="small">"How prosperous is this good prince! <span
-id="fr_607"></span>[3](#fn_607)  
+id="fr_607"></span>[3](#fn_607.md)  
  It is a goodly destiny, that the bodies diminish,  
  Passing away while others remain,  
  Since the time of the ancestors,  
@@ -553,7 +553,7 @@ id="fr_607"></span>[3](#fn_607)
  Their place is no more.  
  Behold what is done therein.  
  I have heard the words of Imhotep and Hardedef, <span
-id="fr_608"></span>[4](#fn_608)</span>
+id="fr_608"></span>[4](#fn_608.md)</span>
 
 </div>
 
@@ -635,7 +635,7 @@ in the East three thousand years later in the lines of Omar Khayyam:
  Before us passed the door of Darkness through,  
  Not one returns to tell us of the Road  
  Which to discover we must travel too." <span
-id="fr_609"></span>[1](#fn_609)</span>
+id="fr_609"></span>[1](#fn_609.md)</span>
 
 </div>
 
@@ -662,7 +662,7 @@ valuable lines which should not be overlooked.
  And generations come into their places.
 
 "Re shows himself at early morn,  
- Atum goes to rest in Manu. <span id="fr_610"></span>[1](#fn_610)  
+ Atum goes to rest in Manu. <span id="fr_610"></span>[1](#fn_610.md)  
  Men beget and women conceive,  
  Every nostril breathes the air.  
  Morning comes, they bear numerously,  
@@ -699,7 +699,7 @@ valuable lines which should not be overlooked.
  Since the time of the god, Those lords . . .
 
 "\[Wilt thou plant for thee pleasant trees\] <span
-id="fr_611"></span>[1](#fn_611)  
+id="fr_611"></span>[1](#fn_611.md)  
  Upon the shore of thy pool,  
  That thy soul may sit under them,  
  That he may drink their water?  
@@ -707,7 +707,7 @@ id="fr_611"></span>[1](#fn_611)
    .    .    .    .    .    .    .    .    .  
  Give bread to him who hath no field.  
  So shalt thou gain a good name  
- For the future forever. <span id="fr_612"></span>[2](#fn_612)
+ For the future forever. <span id="fr_612"></span>[2](#fn_612.md)
 
 "Thou hast seen \[⌈the tombs of the great⌉\]  
  \[⌈Where priests offer, wearing skins of⌉\] the panther;  
@@ -755,7 +755,7 @@ is admonished:
  To the land of . . .  
  \[Follow thy desire\] wholly.  
  There is none that returns again." <span
-id="fr_613"></span>[1](#fn_613)</span>
+id="fr_613"></span>[1](#fn_613.md)</span>
 
 </div>
 
@@ -796,7 +796,7 @@ Hebrews.
 
 The introduction narrating the circumstances which brought about this
 spiritual convulsion is unhappily lost. <span
-id="fr_614"></span>[1](#fn_614) The prologue of the book is therefore
+id="fr_614"></span>[1](#fn_614.md) The prologue of the book is therefore
 lacking, but some
 
 <span id="page_189">p. 189</span>
@@ -846,7 +846,7 @@ die on the dike without a survivor, (when as he lies half immersed on
 the shore) the flood has taken (one) end of him, the heat likewise;
 those to whom the fish along the shore speak (as they devour the body).
 Hearken to me—lo, it is good for men to hearken—follow the glad day and
-forget care.'" <span id="fr_615"></span>[1](#fn_615)
+forget care.'" <span id="fr_615"></span>[1](#fn_615.md)
 
 This then is the reply of the soul when the conventional view of death
 has been held up before it. The misanthrope has affirmed that he is
@@ -854,7 +854,7 @@ fortunate "who is in his pyramid over whose coffin a survivor has
 stood," and he has besought his soul to be the one "who shall be my
 ⌈burier,⌉ who shall make offering, who shall stand at the tomb on the
 day of burial, that he may ⌈prepare⌉ the bed in the cemetery." <span
-id="fr_616"></span>[2](#fn_616) But like the harper in the two songs we
+id="fr_616"></span>[2](#fn_616.md) But like the harper in the two songs we
 have read, his soul remembers the dismantled
 
 <span id="page_191">p. 191</span>
@@ -872,9 +872,9 @@ that song. It undertakes to demonstrate that life, far from being an
 opportunity for pleasure and unbridled indulgence, is more intolerable
 than death. The demonstration is contained in four poems which the
 unhappy man addresses to his own soul. These constitute the second half
-of the document, <span id="fr_617"></span>[1](#fn_617) and are
+of the document, <span id="fr_617"></span>[1](#fn_617.md) and are
 fortunately much more intelligible than the first half. <span
-id="fr_618"></span>[2](#fn_618) The first poem portrays the unjust
+id="fr_618"></span>[2](#fn_618.md) The first poem portrays the unjust
 abhorrence in which our unfortunate's name is held by the world. Each
 three-line strophe begins with the refrain, "My name is abhorred," and
 then, to enforce this statement, adduces for comparison some detestible
@@ -1073,7 +1073,7 @@ the odor of myrrh borne on the fresh Nile wind, while the voyager sits
 beneath the bellying sail; death as the return of a war-worn wanderer in
 far waters approaching his home, or the glad restoration of the captive
 from foreign exile—these are figures of universal appeal in any age or
-clime. <span id="fr_619"></span>[1](#fn_619)
+clime. <span id="fr_619"></span>[1](#fn_619.md)
 
 Tale forward glance into the ultimate future, which is so noticeably
 lacking in the preceding song, is the theme of the fourth poem. Each of
@@ -1093,7 +1093,7 @@ daily presence with the god affords him opportunity.
 
 Earlier in the struggle with his soul, the sufferer had expressed the
 conviction that he should be justified hereafter. <span
-id="fr_620"></span>[1](#fn_620) He now returns to this conviction in
+id="fr_620"></span>[1](#fn_620.md) He now returns to this conviction in
 this fourth poem, with which the remarkable document closes. It
 therefore concludes with a solution likewise found among those discerned
 by Job—an appeal to justification hereafter, although Job does not
@@ -1134,7 +1134,7 @@ It is evident that the men of the Feudal Age took great pleasure in such
 literary efforts. This particular Berlin papyrus was copied by a
 book-scribe, whose concluding remark is still legible at the end of the
 document: "It is finished from beginning to end like that which was
-found in writing." <span id="fr_621"></span>[1](#fn_621) He copied it
+found in writing." <span id="fr_621"></span>[1](#fn_621.md) He copied it
 therefore from an older original, and doubtless many such copies were to
 be found on the shelves of the thinking men of the time. The story of
 the Misanthrope was one which owed its origin to individual experiences
@@ -1154,47 +1154,47 @@ which followed are still to be considered.
 
 ### Footnotes
 
-<span id="fn_561"></span>[166:1](rtae10.htm#fr_561) Pyr. § 1463.
+<span id="fn_561"></span>[166:1](rtae10.htm#fr_561.md) Pyr. § 1463.
 
-<span id="fn_562"></span>[166:2](rtae10.htm#fr_562) Pyr. § 1466 d.
+<span id="fn_562"></span>[166:2](rtae10.htm#fr_562.md) Pyr. § 1466 d.
 
-<span id="fn_563"></span>[166:3](rtae10.htm#fr_563) See above, [p.
-45](rtae05.htm#page_45).
+<span id="fn_563"></span>[166:3](rtae10.htm#fr_563.md) See above, [p.
+45](rtae05.htm#page_45.md).
 
-<span id="fn_564"></span>[167:1](rtae10.htm#fr_564) <span
+<span id="fn_564"></span>[167:1](rtae10.htm#fr_564.md) <span
 class="smallcaps">Sethe</span>, *Untersuchungen*, V, 99.
 
-<span id="fn_565"></span>[167:2](rtae10.htm#fr_565) BAR, I, 382.
+<span id="fn_565"></span>[167:2](rtae10.htm#fr_565.md) BAR, I, 382.
 
-<span id="fn_566"></span>[167:3](rtae10.htm#fr_566) BAR, I, 383.
+<span id="fn_566"></span>[167:3](rtae10.htm#fr_566.md) BAR, I, 383.
 
-<span id="fn_567"></span>[168:1](rtae10.htm#fr_567) Statue in the
+<span id="fn_567"></span>[168:1](rtae10.htm#fr_567.md) Statue in the
 Leipzig University Collection. <span
 class="smallcaps">Steindorff</span>, *Zeitschr. für aegypt. Sprache*,
 48, 156.
 
-<span id="fn_568"></span>[168:2](rtae10.htm#fr_568) BAR, I, 281.
+<span id="fn_568"></span>[168:2](rtae10.htm#fr_568.md) BAR, I, 281.
 
-<span id="fn_569"></span>[168:3](rtae10.htm#fr_569) BAR, I, 240.
+<span id="fn_569"></span>[168:3](rtae10.htm#fr_569.md) BAR, I, 240.
 
-<span id="fn_570"></span>[168:4](rtae10.htm#fr_570) BAR, I, 252.
+<span id="fn_570"></span>[168:4](rtae10.htm#fr_570.md) BAR, I, 252.
 
-<span id="fn_571"></span>[169:1](rtae10.htm#fr_571) BAR, I, 279.
+<span id="fn_571"></span>[169:1](rtae10.htm#fr_571.md) BAR, I, 279.
 
-<span id="fn_572"></span>[170:1](rtae10.htm#fr_572) BAR, I, 328–331. The
+<span id="fn_572"></span>[170:1](rtae10.htm#fr_572.md) BAR, I, 328–331. The
 threat will also be found, BAR, I, 253 and 338.
 
-<span id="fn_573"></span>[170:2](rtae10.htm#fr_573) This statement is
+<span id="fn_573"></span>[170:2](rtae10.htm#fr_573.md) This statement is
 also found in another Aswan tomb, BAR, I, 357.
 
-<span id="fn_574"></span>[171:1](rtae10.htm#fr_574) BAR, I, 338.
+<span id="fn_574"></span>[171:1](rtae10.htm#fr_574.md) BAR, I, 338.
 
-<span id="fn_575"></span>[171:2](rtae10.htm#fr_575) <span
+<span id="fn_575"></span>[171:2](rtae10.htm#fr_575.md) <span
 class="smallcaps">Petrie</span>, Deshasheh, pl. vii.
 
-<span id="fn_576"></span>[171:3](rtae10.htm#fr_576) Pyr. § 921.
+<span id="fn_576"></span>[171:3](rtae10.htm#fr_576.md) Pyr. § 921.
 
-<span id="fn_577"></span>[172:1](rtae10.htm#fr_577) The Osirian editor
+<span id="fn_577"></span>[172:1](rtae10.htm#fr_577.md) The Osirian editor
 of the only other text of this Utterance (510), that of Pepi, has
 inserted Osiris over Geb here, and then incorrectly added "Pepi," making
 "Osiris Pepi." The text thus made nonsense, viz., "How just is king Pepi
@@ -1205,58 +1205,58 @@ following context: "His (the king's) boundaries exist not, his landmarks
 are not found; while Geb, with his arm to the sky and his (other) arm to
 the earth, announces king Mernere to Re."
 
-<span id="fn_578"></span>[172:2](rtae10.htm#fr_578) Pyr. §§ 1141–2.
+<span id="fn_578"></span>[172:2](rtae10.htm#fr_578.md) Pyr. §§ 1141–2.
 
-<span id="fn_579"></span>[172:3](rtae10.htm#fr_579) Pyr. § 1238.
+<span id="fn_579"></span>[172:3](rtae10.htm#fr_579.md) Pyr. § 1238.
 
-<span id="fn_580"></span>[172:4](rtae10.htm#fr_580) Pyr. § 1188.
+<span id="fn_580"></span>[172:4](rtae10.htm#fr_580.md) Pyr. § 1188.
 
-<span id="fn_581"></span>[173:1](rtae10.htm#fr_581) Pyr. § 815.
+<span id="fn_581"></span>[173:1](rtae10.htm#fr_581.md) Pyr. § 815.
 
-<span id="fn_582"></span>[173:2](rtae10.htm#fr_582) Pyr. §1785 b.
+<span id="fn_582"></span>[173:2](rtae10.htm#fr_582.md) Pyr. §1785 b.
 
-<span id="fn_583"></span>[173:3](rtae10.htm#fr_583) Pyr. §1219 a.
+<span id="fn_583"></span>[173:3](rtae10.htm#fr_583.md) Pyr. §1219 a.
 
-<span id="fn_584"></span>[173:4](rtae10.htm#fr_584) Pyr. Ut. 467. Does
+<span id="fn_584"></span>[173:4](rtae10.htm#fr_584.md) Pyr. Ut. 467. Does
 the blaspheming refer to Re? For Pepi is himself the king!
 
-<span id="fn_585"></span>[173:5](rtae10.htm#fr_585) Pyr. § 1327.
+<span id="fn_585"></span>[173:5](rtae10.htm#fr_585.md) Pyr. § 1327.
 
-<span id="fn_586"></span>[173:6](rtae10.htm#fr_586) Pyr. § 1027.
+<span id="fn_586"></span>[173:6](rtae10.htm#fr_586.md) Pyr. § 1027.
 
-<span id="fn_587"></span>[173:7](rtae10.htm#fr_587) Pyr. Ut. 263–5.
+<span id="fn_587"></span>[173:7](rtae10.htm#fr_587.md) Pyr. Ut. 263–5.
 
-<span id="fn_588"></span>[174:1](rtae10.htm#fr_588) Pyr. § 929 a.
+<span id="fn_588"></span>[174:1](rtae10.htm#fr_588.md) Pyr. § 929 a.
 
-<span id="fn_589"></span>[174:2](rtae10.htm#fr_589) Pyr. §§ 1774 a-1776
+<span id="fn_589"></span>[174:2](rtae10.htm#fr_589.md) Pyr. §§ 1774 a-1776
 b.
 
-<span id="fn_590"></span>[174:3](rtae10.htm#fr_590) Pyr. § 265.
+<span id="fn_590"></span>[174:3](rtae10.htm#fr_590.md) Pyr. § 265.
 "Justice" in both these passages may be translated also "truth" or
 "righteousness." As the correlated opposite means "falsehood," it is
 perhaps more nearly correct to render "truth" and "falsehood."
 
-<span id="fn_591"></span>[175:1](rtae10.htm#fr_591) Pyr. § 1483.
+<span id="fn_591"></span>[175:1](rtae10.htm#fr_591.md) Pyr. § 1483.
 
-<span id="fn_592"></span>[175:2](rtae10.htm#fr_592) Pyr. § 2078.
+<span id="fn_592"></span>[175:2](rtae10.htm#fr_592.md) Pyr. § 2078.
 
-<span id="fn_593"></span>[175:3](rtae10.htm#fr_593) Pyr. § 2086.
+<span id="fn_593"></span>[175:3](rtae10.htm#fr_593.md) Pyr. § 2086.
 
-<span id="fn_594"></span>[175:4](rtae10.htm#fr_594) Pyr. § 1429 c.
+<span id="fn_594"></span>[175:4](rtae10.htm#fr_594.md) Pyr. § 1429 c.
 
-<span id="fn_595"></span>[175:5](rtae10.htm#fr_595) Pyr. § 1306 c.
+<span id="fn_595"></span>[175:5](rtae10.htm#fr_595.md) Pyr. § 1306 c.
 
-<span id="fn_596"></span>[175:6](rtae10.htm#fr_596) Pyr. § 2089 a.
+<span id="fn_596"></span>[175:6](rtae10.htm#fr_596.md) Pyr. § 2089 a.
 
-<span id="fn_597"></span>[175:7](rtae10.htm#fr_597) Pyr. § 1520 a.
+<span id="fn_597"></span>[175:7](rtae10.htm#fr_597.md) Pyr. § 1520 a.
 
-<span id="fn_598"></span>[175:8](rtae10.htm#fr_598) Pyr. § 316.
+<span id="fn_598"></span>[175:8](rtae10.htm#fr_598.md) Pyr. § 316.
 
-<span id="fn_599"></span>[175:9](rtae10.htm#fr_599) Pyr. § 319.
+<span id="fn_599"></span>[175:9](rtae10.htm#fr_599.md) Pyr. § 319.
 
-<span id="fn_600"></span>[176:1](rtae10.htm#fr_600) Pyr. § 323.
+<span id="fn_600"></span>[176:1](rtae10.htm#fr_600.md) Pyr. § 323.
 
-<span id="fn_601"></span>[176:2](rtae10.htm#fr_601) In my *History of
+<span id="fn_601"></span>[176:2](rtae10.htm#fr_601.md) In my *History of
 Egypt* I have accepted the conclusion that the Osirian litigation at
 Heliopolis is the incident in the career of Osiris which resulted in the
 introduction of powerful ethical motives into Egyptian religion. A
@@ -1265,16 +1265,16 @@ they contain on the subject, as presented above, demonstrate in my
 judgment the incorrectness of this conclusion as well as the early moral
 superiority of the Solar religion.
 
-<span id="fn_602"></span>[177:1](rtae10.htm#fr_602) In Pyr. § 123 the
+<span id="fn_602"></span>[177:1](rtae10.htm#fr_602.md) In Pyr. § 123 the
 Pharaoh is supplied with a mistress in the hereafter.
 
-<span id="fn_603"></span>[177:2](rtae10.htm#fr_603) Pyr. § 510.
+<span id="fn_603"></span>[177:2](rtae10.htm#fr_603.md) Pyr. § 510.
 
-<span id="fn_604"></span>[178:1](rtae10.htm#fr_604) The Utterances are
+<span id="fn_604"></span>[178:1](rtae10.htm#fr_604.md) The Utterances are
 263 (Unis), 264 (Teti), and 265–6 (Pepi). Unis, the oldest king, died
 about 2625 B.C., and Pepi I about 2570.
 
-<span id="fn_605"></span>[182:1](rtae10.htm#fr_605) They have been
+<span id="fn_605"></span>[182:1](rtae10.htm#fr_605.md) They have been
 edited by W. M. <span class="smallcaps">Mueller</span> in his
 *Liebespoesie*. The first version is found among the love-songs of
 Papyrus Harris, 500, in the British Museum, pl. vi, 1. 2, to pl. vii, 1.
@@ -1283,13 +1283,13 @@ class="smallcaps">Mueller</span>, pls. xii–xv. The other version is in
 the tomb of Neferhotep, <span class="smallcaps">Mueller</span>, pl. i.
 For the older publications see <span class="smallcaps">Mueller</span>.
 
-<span id="fn_606"></span>[182:2](rtae10.htm#fr_606) This is one of the
+<span id="fn_606"></span>[182:2](rtae10.htm#fr_606.md) This is one of the
 Eleventh Dynasty Intefs.
 
-<span id="fn_607"></span>[182:3](rtae10.htm#fr_607) Meaning the dead
+<span id="fn_607"></span>[182:3](rtae10.htm#fr_607.md) Meaning the dead
 king in whose tomb the song was written.
 
-<span id="fn_608"></span>[182:4](rtae10.htm#fr_608) Imhotep was grand
+<span id="fn_608"></span>[182:4](rtae10.htm#fr_608.md) Imhotep was grand
 vizier, chief architect, and famous wise man under king Zoser of the
 Third Dynasty (thirtieth century B.C.). He was the first great architect
 in stone-masonry construction, the father of stone architecture. The
@@ -1300,14 +1300,14 @@ son of Khufu of Gizeh, and hence connected with the greatest pyramid. He
 lived about a century after Imhotep. Both of them had thus become
 proverbial wise men a thousand years after they had passed away.
 
-<span id="fn_609"></span>[184:1](rtae10.htm#fr_609) <span
+<span id="fn_609"></span>[184:1](rtae10.htm#fr_609.md) <span
 class="smallcaps">Fitzgerald</span>, *Rubaiyat*, 64.
 
-<span id="fn_610"></span>[185:1](rtae10.htm#fr_610) These two lines
+<span id="fn_610"></span>[185:1](rtae10.htm#fr_610.md) These two lines
 merely recall the ceaseless rising and setting of the sun. Manu is the
 mountain of the west.
 
-<span id="fn_611"></span>[186:1](rtae10.htm#fr_611) As <span
+<span id="fn_611"></span>[186:1](rtae10.htm#fr_611.md) As <span
 class="smallcaps">Mueller</span> has noticed, there was some reference
 to the well-known mortuary grove in this lacuna; he refers to <span
 class="smallcaps">Maspero</span>, in *Recueil de travaux*, II, pp.
@@ -1318,15 +1318,15 @@ futile tomb with a grove equally futile, and supposing it to be an
 insertion by a later orthodox scribe. This can be avoided by making it a
 question.
 
-<span id="fn_612"></span>[186:2](rtae10.htm#fr_612) While a tomb and the
+<span id="fn_612"></span>[186:2](rtae10.htm#fr_612.md) While a tomb and the
 grove attached to it are fruitless trouble, moral worthiness, kindness
 to the poor, and the resulting good name shall endure.
 
-<span id="fn_613"></span>[187:1](rtae10.htm#fr_613) The upper ends of
+<span id="fn_613"></span>[187:1](rtae10.htm#fr_613.md) The upper ends of
 the remaining six lines are too fragmentary to yield any certain or
 connected sense.
 
-<span id="fn_614"></span>[188:1](rtae10.htm#fr_614) The document is a
+<span id="fn_614"></span>[188:1](rtae10.htm#fr_614.md) The document is a
 papyrus of the Middle Kingdom in Berlin (P. 3024). It was first
 published by <span class="smallcaps">Lepsius</span> over fifty years ago
 <span id="page_189">p. 189</span> (*Denkmaeler*, VI, Taf., 111–112). Its
@@ -1336,14 +1336,14 @@ eines Lebensmueden mit seiner Seele*," *Abhandl. der koenigl. Preuss.
 Akad., Berlin*, 1896. From <span class="smallcaps">Erman's</span>
 treatise the above presentation draws substantially.
 
-<span id="fn_615"></span>[190:1](rtae10.htm#fr_615) Misanthrope, ll.
+<span id="fn_615"></span>[190:1](rtae10.htm#fr_615.md) Misanthrope, ll.
 56–68.
 
-<span id="fn_616"></span>[190:2](rtae10.htm#fr_616) *Ibid.*, ll. 52–55.
+<span id="fn_616"></span>[190:2](rtae10.htm#fr_616.md) *Ibid.*, ll. 52–55.
 
-<span id="fn_617"></span>[191:1](rtae10.htm#fr_617) Lines 85–147.
+<span id="fn_617"></span>[191:1](rtae10.htm#fr_617.md) Lines 85–147.
 
-<span id="fn_618"></span>[191:2](rtae10.htm#fr_618) In structure these
+<span id="fn_618"></span>[191:2](rtae10.htm#fr_618.md) In structure these
 poems are as follows:
 
 The first has eight three-line strophes.
@@ -1354,7 +1354,7 @@ The third has six three-line strophes.
 
 The fourth has three three-line strophes.
 
-<span id="fn_619"></span>[196:1](rtae10.htm#fr_619) Two of the figures
+<span id="fn_619"></span>[196:1](rtae10.htm#fr_619.md) Two of the figures
 are obscure: "the course of the freshet" is perhaps a reference to the
 dry water-course comparable with life, while its sudden filling by the
 waters of the freshet is the welcome refreshing corresponding to death.
@@ -1363,12 +1363,12 @@ to the approach of the hunter to unfamiliar regions. "Sitting on the
 shore of drunkenness" is a picture of sensual pleasure in a
 drinking-booth on the dike or highway, here called "the shore."
 
-<span id="fn_620"></span>[197:1](rtae10.htm#fr_620) Lines 23–27.
+<span id="fn_620"></span>[197:1](rtae10.htm#fr_620.md) Lines 23–27.
 
-<span id="fn_621"></span>[198:1](rtae10.htm#fr_621) Lines 154–5.
+<span id="fn_621"></span>[198:1](rtae10.htm#fr_621.md) Lines 154–5.
 
 ------------------------------------------------------------------------
 
 [Next: Lecture VII. The Social Forces make their Impression on
 Religion—The Rise of Social Reformers—The Earliest Social
-Regeneration](rtae11)
+Regeneration](rtae11.md)

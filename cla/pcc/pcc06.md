@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc05)  [Next](pcc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc05)  [Next](pcc07.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ must have rain; and the rain-maker in almost all primitive tribes has
 been a *most* important personage. Generally he based his rites on quite
 fanciful associations, as when the rain-maker among the Mandans wore a
 raven's skin on his head (bird of the storm) or painted his shield with
-red zigzags of lightning; <span id="fr_80"></span>[1](#fn_80) but
+red zigzags of lightning; <span id="fr_80"></span>[1](#fn_80.md) but
 partly, no doubt, he had observed actual facts, or had had the knowledge
 of them transmitted to him--as, for instance that when rain is impending
 loud noises will bring about its speedy downfall, a fact we moderns have
@@ -108,7 +108,7 @@ sound of wind and the blessed rain-bringing thunder, or clashed great
 bronze cymbals together with the same object. Bull-voices and
 thunder-drums and the clashing of cymbals were used in this connection
 by the Greeks, and are mentioned by Aeschylus; <span
-id="fr_81"></span>[1](#fn_81) but the bull-roarer, in the form of a
+id="fr_81"></span>[1](#fn_81.md) but the bull-roarer, in the form of a
 rhombus of wood whirled at the end of a string, seems to be known, or to
 have been known, all over the world. It is described with some care by
 Mr. Andrew Lang in his *Custom and Myth* (pp. 29-44), where he says "it
@@ -121,13 +121,13 @@ we are! His main idea was a more specially 'magical' one--namely, that
 the sound itself would appeal to the *spirits* of rain and thunder and
 cause them to give a response. For of course the thunder (in Hebrew
 *Bath-Kol*, "the daughter of the Voice") was everywhere regarded as the
-manifestation of a spirit. <span id="fr_82"></span>[2](#fn_82) To make
+manifestation of a spirit. <span id="fr_82"></span>[2](#fn_82.md) To make
 sounds like thunder would therefore naturally call the attention of such
 a spirit; or he, the rain-maker, might make sounds like rain. He made
 gourd-rattles (known in ever so many parts of the world) in which he
 rattled dried seeds or small pebbles with a most beguiling and rain-like
 insistence; or sometimes, like the priests of Baal in the Bible, <span
-id="fr_83"></span>[3](#fn_83) he would cut himself with knives
+id="fr_83"></span>[3](#fn_83.md) he would cut himself with knives
 
 <span id="page_73">p. 73</span>
 
@@ -135,7 +135,7 @@ till the blood fell upon the ground in great drops suggestive of an
 oncoming thunder-shower. "In Mexico the raingod was propitiated with
 sacrifices of children. If the children wept and shed abundant tears,
 they who carried them rejoiced, being convinced that rain would also be
-abundant." <span id="fr_84"></span>[1](#fn_84) Sometimes he, the
+abundant." <span id="fr_84"></span>[1](#fn_84.md) Sometimes he, the
 rain-maker, would *whistle* for the wind, or, like the Omaha Indians,
 flap his blankets for the same purpose.
 
@@ -151,7 +151,7 @@ again. Women carried certain charms, "fir-cones and snakes and unnamable
 objects made of paste, to ensure fertility; there was a sacrifice of
 pigs, who were thrown into a deep cleft of the earth, and their remains
 afterwards collected and scattered as a charm over the fields." <span
-id="fr_85"></span>[2](#fn_85) Fir-cones and snakes from their very forms
+id="fr_85"></span>[2](#fn_85.md) Fir-cones and snakes from their very forms
 were emblems of male fertility; snakes, too, from their habit of gliding
 out of their own skins with renewed brightness and color were suggestive
 of resurrection and re-vivification; pigs and sows by their exceeding
@@ -187,7 +187,7 @@ his mind upon. Hence we find that a familiarity and common consent
 existed between primitive man and many of his companion animals such as
 has been lost or much attenuated in modern times. Elisée Reclus in his
 very interesting paper *La Grande Famille* <span
-id="fr_86"></span>[1](#fn_86) gives support to the idea that the
+id="fr_86"></span>[1](#fn_86.md) gives support to the idea that the
 so-called domestication of animals did not originally arise from any
 forcible subjugation of them by man, but from a natural amity with them
 which grew up in the beginning from common interests, pursuits and
@@ -198,7 +198,7 @@ bow-and-arrow-armed
 <span id="page_75">p. 75</span>
 
 friend, with whom he divided the spoil. W. H. Hudson <span
-id="fr_87"></span>[1](#fn_87) declares that the Puma, wild and fierce
+id="fr_87"></span>[1](#fn_87.md) declares that the Puma, wild and fierce
 though it is, and capable of killing the largest game, will never even
 to-day attack man, but when maltreated by the latter submits to the
 outrage, unresisting, with mournful cries and every sign of grief. The
@@ -206,7 +206,7 @@ Llama, though domesticated in a sense, has never allowed the domination
 of the whip or the bit, but may still be seen walking by the side of the
 Brazilian peasant and carrying his burdens in a kind of proud
 companionship. The mutual relations of Women and the Cow, or of Man and
-the Horse <span id="fr_88"></span>[2](#fn_88) (also the Elephant) reach
+the Horse <span id="fr_88"></span>[2](#fn_88) (also the Elephant.md) reach
 so far into the past that their origin cannot be traced. The Swallow
 still loves to make its home under the cottage eaves and still is
 welcomed by the inmates as the bringer of good fortune. Elisée Reclus
@@ -224,7 +224,7 @@ noises; to encourage Vegetation and the crops to leap out of the ground,
 you had to leap and dance. "In Swabia and among the Transylvanian Saxons
 it is a common custom (says Dr. Frazer) for a man who has some hemp to
 leap high in the field in the belief that this will make the hemp grow
-tall." <span id="fr_89"></span>[3](#fn_89)
+tall." <span id="fr_89"></span>[3](#fn_89.md)
 
 <span id="page_76">p. 76</span>
 
@@ -267,7 +267,7 @@ graceful, yet robust and sinewy, inimitable in hang of foliage and
 throwing-out of limb; as if the beauteous, vital, leafy creature could
 walk, if it only would"; and mentions that in a dream-trance he actually
 once saw his "favorite trees step out and promenade up, down and around
-*very curiously*." <span id="fr_90"></span>[1](#fn_90) Once the present
+*very curiously*." <span id="fr_90"></span>[1](#fn_90.md) Once the present
 writer seemed to have a partial vision of a tree. It was a beech,
 standing somewhat isolated, and still leafless in quite early Spring.
 Suddenly I was aware of its skyward-reaching arms and up-turned
@@ -348,14 +348,14 @@ conception of children; Moses saw in the desert a bush (perhaps the
 *mimosa*) like a flame of fire, with Jehovah dwelling in the midst of
 it, and he put off his shoes for he felt that the place was holy; Osiris
 was at times regarded as a Tree-spirit; <span
-id="fr_91"></span>[1](#fn_91) and in inscriptions is referred to as "the
+id="fr_91"></span>[1](#fn_91.md) and in inscriptions is referred to as "the
 solitary one in the acacia"--which reminds us curiously of the "burning
 bush." The same is true of others of the gods; in the old Norse
 mythology Ygdrasil was the great branching World-Ash, abode of the soul
 of the universe; the Peepul or Bo-tree in India is very sacred and must
 on no account be cut down, seeing that gods and spirits dwell among its
 branches. It is of the nature of an Aspen, and of little or no practical
-use, <span id="fr_92"></span>[2](#fn_92) but so holy that the poorest
+use, <span id="fr_92"></span>[2](#fn_92.md) but so holy that the poorest
 peasant will not disturb it. The Burmese believe the things of nature,
 but especially the trees, to be the abode of spirits. "To the Burman of
 to-day, not less than to the Greek of long ago, all nature is alive. The
@@ -367,12 +367,12 @@ little, male and female, now living round about us. Some of them live
 
 in the trees, especially in the huge figtree that shades half-an-acre
 without the village; or among the fern-like fronds of the
-tamarind." <span id="fr_93"></span>[1](#fn_93)
+tamarind." <span id="fr_93"></span>[1](#fn_93.md)
 
 There are also in India and elsewhere popular rites of *marriage* of
 women (and men) to Trees; which suggest that trees were regarded as very
 near akin to human beings! *The Golden Bough* <span
-id="fr_94"></span>[2](#fn_94) mentions many of these, including the idea
+id="fr_94"></span>[2](#fn_94.md) mentions many of these, including the idea
 that some trees are male and others female. The well-known Assyrian
 emblem of a Pine cone being presented by a priest to a Palm-tree is
 supposed by E. B. Tylor to symbolize fertilization--the Pine cone being
@@ -383,7 +383,7 @@ women--the idea no doubt being that they bestow fertility on those who
 embrace them. In other cases apparently it is the trees which are
 benefited, since it is said that men sometimes go naked into the Clove
 plantations at night in order by a sort of sexual intercourse to
-fertilize them. <span id="fr_95"></span>[3](#fn_95)
+fertilize them. <span id="fr_95"></span>[3](#fn_95.md)
 
 One might go on multiplying examples in this direction quite
 indefinitely. There is no end to them. They all indicate--what was
@@ -422,12 +422,12 @@ have this combination in the Eden-garden, and again in the brazen
 Serpent and Pole which Moses set up in the wilderness (as a cure for the
 fiery serpents of lust); illustrations of the same are said to be found
 in the temples of Egypt and of South India, and even in the ancient
-temples of Central America. <span id="fr_96"></span>[1](#fn_96) In the
+temples of Central America. <span id="fr_96"></span>[1](#fn_96.md) In the
 myth of Hercules the golden apples of the Hesperides garden are guarded
 by a dragon. The Etruscans, the Persians and the Babylonians had also
 legends of the Fall of man through a serpent tempting him to taste of
 the fruit of a holy Tree. And De Gubernatis, <span
-id="fr_97"></span>[2](#fn_97)
+id="fr_97"></span>[2](#fn_97.md)
 
 <span id="page_82">p. 82</span>
 
@@ -451,7 +451,7 @@ Death--is a thing felt even more by women than by men--and for a reason
 (from what we have already said) not far to seek. It was the Woman who
 in the story of the Fall was the first to listen to its suggestions. No
 wonder that, as Professor Murray says, <span
-id="fr_98"></span>[1](#fn_98) the Greeks worshiped a gigantic snake
+id="fr_98"></span>[1](#fn_98.md) the Greeks worshiped a gigantic snake
 (Meilichios) the lord of Death and Life, with ceremonies of appeasement,
 and sacrifices, long before they arrived at the worship of Zeus and the
 Olympian gods.
@@ -463,7 +463,7 @@ wonder--hearing nowadays that the folk of old used to worship a
 Corn-spirit or Corn-god--wonder that any human beings could have been so
 foolish. But probably the good people who wonder thus have never *really
 looked* (with their town-dazed eyes) at a growing spike of wheat. <span
-id="fr_99"></span>[2](#fn_99)
+id="fr_99"></span>[2](#fn_99.md)
 
 <span id="page_83">p. 83</span>
 
@@ -489,7 +489,7 @@ generous?)--what readiness to adopt some magic ritual likely to
 propitiate the unseen power--even though the outline and form of the
 latter were vague and uncertain in the extreme! Dr. Frazer, speaking of
 the Egyptian Osiris as one out of many corn-gods of the above character,
-says: <span id="fr_100"></span>[1](#fn_100) "The primitive conception of
+says: <span id="fr_100"></span>[1](#fn_100.md) "The primitive conception of
 him as he corn-god comes clearly out in the festival of his death and
 resurrection, which was celebrated the month of Athyr. That festival
 appears to have been essentially a festival of sowing, which properly
@@ -504,7 +504,7 @@ ceremony was in fact a charm to ensure the growth of the corn by
 sympathetic magic, and we may conjecture that as such it was practised
 in a simple form by every Egyptian farmer on his fields long before it
 was adopted and transfigured by the priests in the stately ritual of the
-temple." <span id="fr_101"></span>[1](#fn_101)
+temple." <span id="fr_101"></span>[1](#fn_101.md)
 
 The magic in this case was of a gentle description; the clay image of
 Osiris sprouting all over with the young green blade was pathetically
@@ -519,14 +519,14 @@ their (male) victim, like corn, between two stones. ("I'll grind his
 bones to make me bread.") Among the Khonds of East India--who were
 particularly given to this kind of ritual--the very *tears* of the
 sufferer were an incitement to more cruelties, for tears of course were
-magic for Rain. <span id="fr_102"></span>[2](#fn_102)
+magic for Rain. <span id="fr_102"></span>[2](#fn_102.md)
 
 And so on. We have referred to the Bull many times, both in his
 astronomical aspect as pioneer of the Spring-Sun, and in his more direct
 rôle as plougher of the fields, and provider of food from his own body.
 "The tremendous *mana* of the wild bull," says Gilbert Murray, "occupies
 almost half the stage of pre-Olympic ritual." <span
-id="fr_103"></span>[3](#fn_103) Even to us there is something mesmeric
+id="fr_103"></span>[3](#fn_103.md) Even to us there is something mesmeric
 and overwhelming in the sense of
 
 <span id="page_85">p. 85</span>
@@ -541,65 +541,65 @@ means of salvation.
 
 ### Footnotes
 
-<span id="fn_80"></span>[71:1](pcc06.htm#fr_80) See Catlin's *North
+<span id="fn_80"></span>[71:1](pcc06.htm#fr_80.md) See Catlin's *North
 American Indians*, Letter 19.
 
-<span id="fn_81"></span>[72:1](pcc06.htm#fr_81) *Themis*, p. 61.
+<span id="fn_81"></span>[72:1](pcc06.htm#fr_81.md) *Themis*, p. 61.
 
-<span id="fn_82"></span>[72:2](pcc06.htm#fr_82) See A. Lang, *op. cit.*:
+<span id="fn_82"></span>[72:2](pcc06.htm#fr_82.md) See A. Lang, *op. cit.*:
 "The muttering of the thunder is said to be his voice calling to the
 rain to fall and make the grass grow up green." Such are the very words
 of Umbara, the minstrel of the Tribe (Australian).
 
-<span id="fn_83"></span>[72:3](pcc06.htm#fr_83) 1 Kings xviii.
+<span id="fn_83"></span>[72:3](pcc06.htm#fr_83.md) 1 Kings xviii.
 
-<span id="fn_84"></span>[73:1](pcc06.htm#fr_84) Quoted from Sahagun II,
+<span id="fn_84"></span>[73:1](pcc06.htm#fr_84.md) Quoted from Sahagun II,
 2, 3 by A. Lang in *Myth, Ritual and Religion*, vol. ii, p. 102.
 
-<span id="fn_85"></span>[73:2](pcc06.htm#fr_85) See Gilbert Murray's
+<span id="fn_85"></span>[73:2](pcc06.htm#fr_85.md) See Gilbert Murray's
 *Four Stages of Greek Religion*, p. 29.
 
-<span id="fn_86"></span>[74:1](pcc06.htm#fr_86) Published originally in
+<span id="fn_86"></span>[74:1](pcc06.htm#fr_86.md) Published originally in
 *Le Magazine International*, January 1896.
 
-<span id="fn_87"></span>[75:1](pcc06.htm#fr_87) See *The Naturalist in
+<span id="fn_87"></span>[75:1](pcc06.htm#fr_87.md) See *The Naturalist in
 La Plata*, ch. ii.
 
-<span id="fn_88"></span>[75:2](pcc06.htm#fr_88) "It is certain that the
+<span id="fn_88"></span>[75:2](pcc06.htm#fr_88.md) "It is certain that the
 primitive Indo-European reared droves of tame or half-tame horses for
 generations, if not centuries, before it ever occurred to him to ride or
 drive them" (F. B. Jevons, *Introd. to Hist. Religion*, p. 119).
 
-<span id="fn_89"></span>[75:3](pcc06.htm#fr_89) See *The Golden Bough*,
+<span id="fn_89"></span>[75:3](pcc06.htm#fr_89.md) See *The Golden Bough*,
 i, 139 *seq*. Also *Art and Ritual*, p. 31.
 
-<span id="fn_90"></span>[77:1](pcc06.htm#fr_90) *Specimen Days*, 1882-3
+<span id="fn_90"></span>[77:1](pcc06.htm#fr_90.md) *Specimen Days*, 1882-3
 Edition, p. iii.
 
-<span id="fn_91"></span>[79:1](pcc06.htm#fr_91) *The Golden Bough*, iv,
+<span id="fn_91"></span>[79:1](pcc06.htm#fr_91.md) *The Golden Bough*, iv,
 339.
 
-<span id="fn_92"></span>[79:2](pcc06.htm#fr_92) Though the sap is said
+<span id="fn_92"></span>[79:2](pcc06.htm#fr_92.md) Though the sap is said
 to contain caoutchouc.
 
-<span id="fn_93"></span>[80:1](pcc06.htm#fr_93) *The Soul of a People*,
+<span id="fn_93"></span>[80:1](pcc06.htm#fr_93.md) *The Soul of a People*,
 by H. Fielding (1902), p. 250.
 
-<span id="fn_94"></span>[80:2](pcc06.htm#fr_94) Vol. i, p. 40, Vol. iii,
+<span id="fn_94"></span>[80:2](pcc06.htm#fr_94.md) Vol. i, p. 40, Vol. iii,
 pp. 24 sq.
 
-<span id="fn_95"></span>[80:3](pcc06.htm#fr_95) *Ibid*., vol. ii, p. 98.
+<span id="fn_95"></span>[80:3](pcc06.htm#fr_95.md) *Ibid*., vol. ii, p. 98.
 
-<span id="fn_96"></span>[81:1](pcc06.htm#fr_96) See *Ancient Pagan and
+<span id="fn_96"></span>[81:1](pcc06.htm#fr_96.md) See *Ancient Pagan and
 Modern Christian Symbolism*, by Thomas Inman (Trübner, 1874), p. 55.
 
-<span id="fn_97"></span>[81:2](pcc06.htm#fr_97) *Zoological Mythology*,
+<span id="fn_97"></span>[81:2](pcc06.htm#fr_97.md) *Zoological Mythology*,
 vol. ii, pp. 410 *sq*.
 
-<span id="fn_98"></span>[82:1](pcc06.htm#fr_98) *Four Stages of Greek
+<span id="fn_98"></span>[82:1](pcc06.htm#fr_98.md) *Four Stages of Greek
 Religion*, p. 29.
 
-<span id="fn_99"></span>[82:2](pcc06.htm#fr_99) Even the thrice-learned
+<span id="fn_99"></span>[82:2](pcc06.htm#fr_99.md) Even the thrice-learned
 Dr. Farnell quotes apparently with approval the scornful words of
 Hippolytus, who (he says) "speaks of the Athenians imitating people at
 the Eleusinian mysteries and showing to the epoptæ (initiates) that
@@ -607,17 +607,17 @@ great and marvelous mystery of perfect revelation--in solemn silence--a
 *cut cornstalk* (τεθερισμένον στάχον)."--*Cults of the Greek States*,
 vol. iii, p. 182.
 
-<span id="fn_100"></span>[83:1](pcc06.htm#fr_100) *The Golden Bough*,
+<span id="fn_100"></span>[83:1](pcc06.htm#fr_100.md) *The Golden Bough*,
 iv, p. 330.
 
-<span id="fn_101"></span>[84:1](pcc06.htm#fr_101) See ch. xv *infra*, p.
+<span id="fn_101"></span>[84:1](pcc06.htm#fr_101.md) See ch. xv *infra*, p.
 5.
 
-<span id="fn_102"></span>[84:2](pcc06.htm#fr_102) *The Golden Bough*,
+<span id="fn_102"></span>[84:2](pcc06.htm#fr_102.md) *The Golden Bough*,
 vol. vii, "*The Corn-Spirit*," pp. 236 *sq*.
 
-<span id="fn_103"></span>[84:3](pcc06.htm#fr_103) *Four Stages*, p. 34.
+<span id="fn_103"></span>[84:3](pcc06.htm#fr_103.md) *Four Stages*, p. 34.
 
 ------------------------------------------------------------------------
 
-[Next: Vi. Magicians, Kings And Gods](pcc07)
+[Next: Vi. Magicians, Kings And Gods](pcc07.md)

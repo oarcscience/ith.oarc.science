@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah22)  [Next](mah24) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah22)  [Next](mah24.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ fraught with hate, sin and suffering.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: Scientific Sophistry](mah24)
+[Next: Chapter XI: Scientific Sophistry](mah24.md)

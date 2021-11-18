@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rio07)  [Next](rio09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rio07)  [Next](rio09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,20 +16,20 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 
 <span id="page_134">p. 134</span>
 
-<span id="img_bord00"></span> ![decorative border](img/bord00.jpg)
+<span id="img_bord00"></span> ![decorative border](img/bord00.jpg.md)
 
 ### VI
 
 ### The Summary
 
 "There is hope for thy future, saith the Lord."—[*Jeremiah* xxxi,
-17](../../bib/kjv/jer031.htm#017).
+17](../../bib/kjv/jer031.htm#017.md).
 
 "Blessed are they which are persecuted for righteousness’ sake: for
 theirs is the kingdom of Heaven. Blessed are ye when men shall revile
 you, and persecute you, and shall say all manner of evil against you
 falsely, for my sake."—[*St. Matthew* v, 10,
-11](../../bib/kjv/mat005.htm#010).
+11](../../bib/kjv/mat005.htm#010.md).
 
 ON my desk at home lies a Hebrew calendar. Its pages, chronicling the
 events of the month in which occur <span class="margnote">Easter
@@ -565,4 +565,4 @@ been the real Suffering Messiah, as having been the real Saviour of Man.
 
 ------------------------------------------------------------------------
 
-[Next: What of the Old Testament Prophecies of Christ?](rio09)
+[Next: What of the Old Testament Prophecies of Christ?](rio09.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](ath12)  [Next](ath14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](ath12)  [Next](ath14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -107,7 +107,7 @@ commentators.
 The first Latin scholastic writer who shows a knowledge of the complete
 logical Organon was John of Salisbury (d. 1182 A.D.), who was a lecturer
 at Paris, but it does not appear that the metaphysical and
-[psychological](errata.htm#40) works of Aristotle were in circulation as
+[psychological](errata.htm#40.md) works of Aristotle were in circulation as
 yet.
 
 By this time Paris had become the centre of scholastic philosophy, which
@@ -503,7 +503,7 @@ This
 indeed was perceived to be a crucial problem of religion and was very
 keenly debated. In the early years of the 16th century the controversy
 became even more prominent, until the Lateran Council of 1512 tried to
-cheek such discussions and passed [a](errata.htm#41) formal
+cheek such discussions and passed [a](errata.htm#41.md) formal
 condemnation, which, however, was powerless to restrain the debates. It
 is to be noticed that these discussions did not arise from any
 philo-pagan attitude of the renascence, although they favoured that
@@ -556,4 +556,4 @@ subjects.
 
 ------------------------------------------------------------------------
 
-[Next: Concluding Paragraph](ath14)
+[Next: Concluding Paragraph](ath14.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mrci00)  [Next](mrci02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mrci00)  [Next](mrci02.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Mission Record of the California Indians*, by A.L. Kroeber, \[1908\],
 at Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ University of California, this copy became available for study. Through
 the courtesy of Professor Henry Morse Stephens, and the Commission on
 the Bancroft Library, the writer is enabled to present the following
 translation of extracts from this document. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_2">p. 2</span>
 
@@ -109,7 +109,7 @@ at present it lacks—a complete catalogue.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](mrci01.htm#fr_0) The copy at the University
+<span id="fn_0"></span>[1:1](mrci01.htm#fr_0.md) The copy at the University
 of California is in the Archives of the Mission Santa Barbara,
 Miscellaneous Papers, volume VII, beginning at page 112, as this series
 of documents is at present bound and paged, and is entitled:
@@ -126,4 +126,4 @@ padres ministros de las misiones de San Miguel*, etc.
 
 ------------------------------------------------------------------------
 
-[Next: San Diego](mrci02)
+[Next: San Diego](mrci02.md)

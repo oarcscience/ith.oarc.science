@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl27)  [Next](orl29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl27)  [Next](orl29.md) 
 
 ------------------------------------------------------------------------
 
@@ -1008,4 +1008,4 @@ Admonished by that ancient’s evil end.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 29](orl29)
+[Next: Canto 29](orl29.md)

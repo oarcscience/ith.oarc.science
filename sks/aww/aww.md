@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/aww)  [Previous](../alc/alc) 
-[Next](../ayl/ayl) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/aww)  [Previous](../alc/alc.md) 
+[Next](../ayl/ayl.md) 
 
 ------------------------------------------------------------------------
 
@@ -4526,4 +4526,4 @@ Index](../index)  [First Folio](../ff/aww)  [Previous](../alc/alc) 
 
 ------------------------------------------------------------------------
 
-[Next: As You Like It](../ayl/ayl) 
+[Next: As You Like It](../ayl/ayl.md) 

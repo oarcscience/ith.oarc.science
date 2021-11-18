@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs03)  [Next](lrs05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs03)  [Next](lrs05.md) 
 
 ------------------------------------------------------------------------
 
@@ -292,7 +292,7 @@ ever remain unknown. He may have been a churchman, as Ormsby suggests,
 but I am inclined to the opinion that he was a professional *trovador* .
 The *trouvères*, rather than ecclesiastics, were responsible for such
 works in France, and why not the *trovadores* in Spain?  <span
-id="fr_25"></span>[1](#fn_25) That the writer lived near the time of the
+id="fr_25"></span>[1](#fn_25.md) That the writer lived near the time of the
 
 <span id="page_56">p. 56</span>
 
@@ -328,10 +328,10 @@ the
 Crónica General, of which three recensions evidently existed at
 different periods, and it is now clear that the passage in question does
 not come from the *Poema* as we have it, as was formerly believed. <span
-id="fr_26"></span>[2](#fn_26) The passages on the Cid in the second
+id="fr_26"></span>[2](#fn_26.md) The passages on the Cid in the second
 version of the *Crónica* are also derived from still another *cantar* on
 the popular hero, known as the Crónica Rimada,  <span
-id="fr_27"></span>[3](#fn_27) or *Cantar de Rodrigo*, evidently the work
+id="fr_27"></span>[3](#fn_27.md) or *Cantar de Rodrigo*, evidently the work
 of a *juglar* of Palencia, and which seems to be a *mélange* of several
 lost *cantares* relating to the Cid, as well as to other Spanish
 traditions. This version, however, is much later than the Poema, and is
@@ -352,7 +352,7 @@ written is almost as unequal as its poetic quality. The prevailing line
 is the Alexandrine or fourteen-syllabled verse, but some lines run far
 over this average, while others are truncated in barbarous fashion,
 probably through the inattention or haste of the copyist. <span
-id="fr_28"></span>[4](#fn_28) It seems to me
+id="fr_28"></span>[4](#fn_28.md) It seems to me
 
 <span id="page_58">p. 58</span>
 
@@ -495,7 +495,7 @@ agreed upon. They were surprised and delighted at the sight of the
 chests, and departed well satisfied, giving Antolinez a present or
 commission of thirty golden for the share he had taken in the business.
 
-Donna Ximena  <span id="fr_29"></span>[\*](#fn_29)
+Donna Ximena  <span id="fr_29"></span>[\*](#fn_29.md)
 
 When they had gone the Cid struck his camp and galloped through the
 night to the monastery of San Pedro de Cardena, where his lady, Donna
@@ -524,7 +524,7 @@ But ever and anon he turned his streaming eyes to see
 Their faces he might see no more, till blunt Minaya, irked  
 To see the yearning and regret that on his heartstrings worked  
 Cried out, "O born in a happy hour,"  <span
-id="fr_30"></span>[5](#fn_30) let not thy soul be sad.  
+id="fr_30"></span>[5](#fn_30.md) let not thy soul be sad.  
 The heart of knight on venture hound should never but be glad  
 The heavy sorrow of to-day will prove to-morrow's joy.  
 What grief can bide the trumpets' sound, what woe the hat ploy?"
@@ -624,7 +624,7 @@ men, consented. First he sent all the Moors out of the city and looked
 to its defences. Then, leaving but two men to guard the gate, he
 marshalled his array and issued forth from Alcocer with dressed ranks
 and in strict order of battle. And here prose must once more give place
-to verse. <span id="fr_31"></span>[6](#fn_31)
+to verse. <span id="fr_31"></span>[6](#fn_31.md)
 
 <span id="page_66">p. 66</span>
 
@@ -773,7 +773,7 @@ touch all provender, and on the third day, the Cid promised him
 immediate freedom if he would break his fast. This was too much for the
 haughty Berenger, whose hunger now outmatched his scruples. "Powers
 above " exclaims the poet, "with what gust did he eat. His hands plied
-so quickly that my Cid  <span id="fr_32"></span>[7](#fn_32) might not
+so quickly that my Cid  <span id="fr_32"></span>[7](#fn_32.md) might not
 see their play." The Cid then gave him his liberty, and they parted on
 good terms.
 
@@ -902,7 +902,7 @@ he
 
 said, "for, see, marvellous great wealth conies to us. Here comes a
 dowry against the marriage of your daughters!"'  <span
-id="fr_33"></span>[8](#fn_33)
+id="fr_33"></span>[8](#fn_33.md)
 
  
 
@@ -1321,7 +1321,7 @@ him."
 The description of the scene that follows has more than once been
 compared with Chaucer's description of combat between Palamon and Arcite
 in *The Knight’s Tale*, and, as will be seen, a resemblance certainly
-exists. <span id="fr_34"></span>[9](#fn_34)
+exists. <span id="fr_34"></span>[9](#fn_34.md)
 
 And now the marshals quit the lists and leave them face to face  
 Their shields are dressed before their breasts, their lances are
@@ -1414,7 +1414,7 @@ the early history of his land like a very god of war—the Cid Campeador.
 
 ### Footnotes
 
-<span id="fn_25"></span>[55:1](lrs04.htm#fr_25) Ormsby (*The Poem of the
+<span id="fn_25"></span>[55:1](lrs04.htm#fr_25.md) Ormsby (*The Poem of the
 Cid*), who wrote in 1879, seems to have had the most elementary notions
 of what a *cantar* was, and states that the Poema "was nearly
 contemporary with the first *chansons de gestes*." Hut he is probably at
@@ -1435,13 +1435,13 @@ pith and virility in the course of translation. Bad as are his Spanish
 renderings, however, they are adequate when compared with his exploits
 in the field of Italian translation.
 
-<span id="fn_26"></span>[57:2](lrs04.htm#fr_26) See his *Poema del Cid*
+<span id="fn_26"></span>[57:2](lrs04.htm#fr_26.md) See his *Poema del Cid*
 (1898).
 
-<span id="fn_27"></span>[57:3](lrs04.htm#fr_27) See Manuel Rivadeneyra,
+<span id="fn_27"></span>[57:3](lrs04.htm#fr_27.md) See Manuel Rivadeneyra,
 *Biblioteca de Autores españoles* , vol. xvi (1846-80).
 
-<span id="fn_28"></span>[57:4](lrs04.htm#fr_28) A good deal of
+<span id="fn_28"></span>[57:4](lrs04.htm#fr_28.md) A good deal of
 controversy has arisen. concerning the metre of the *Poema*. Professor
 Cornu of Prague (see M. Gaston Paris, in *Romania* , xxii, pp. 153, 531)
 has stated that the basis of it is the ballad octo-syllable,<span
@@ -1457,14 +1457,14 @@ unparalleled." No absolute system of assonance or rhyme appears, and we
 are almost forced to the conclusion that the absence of this is in a
 measure due to the kind offices of Abbot Pedro.
 
-<span id="fn_29"></span>[61:\*](lrs04.htm#fr_29) TRANSCRIBER’S NOTE:
+<span id="fn_29"></span>[61:\*](lrs04.htm#fr_29.md) TRANSCRIBER’S NOTE:
 Spanish *Doña* = "Lady." Pronounced as *don’yah*.
 
-<span id="fn_30"></span>[62:5](lrs04.htm#fr_30) By this phrase the Cid
+<span id="fn_30"></span>[62:5](lrs04.htm#fr_30.md) By this phrase the Cid
 seems to have been widely known in appears to have served him as a sort
 of cognomen or nickname.
 
-<span id="fn_31"></span>[65:6](lrs04.htm#fr_31) The passage in the
+<span id="fn_31"></span>[65:6](lrs04.htm#fr_31.md) The passage in the
 *Poema del Cid* which tells of the combat that followed has perhaps a
 better right than any other in the epic to the title 'Homeric.' 'The
 translation which I furnish of it may not he so exact as those of Frere
@@ -1484,18 +1484,18 @@ artificial than the others—a fault which I am unable to rectify. But
 allowance must be made for the rendition of such a passage, and the
 whole must be accepted by the reader *foute de mieux*.
 
-<span id="fn_32"></span>[70:7](lrs04.htm#fr_32) Throughout the *Poema*
+<span id="fn_32"></span>[70:7](lrs04.htm#fr_32.md) Throughout the *Poema*
 and elsewhere the Cid is constantly alluded to as ‘Mio Cid" ("My lord").
 I deal with the etymology of the name farther, but hold to the form "the
 Cid" as being most familiar to English readers.
 
-<span id="fn_33"></span>[74:8](lrs04.htm#fr_33) This passage is
+<span id="fn_33"></span>[74:8](lrs04.htm#fr_33.md) This passage is
 reminiscent of the saying of the famous Border outlaw Jock Eliot, when
 he and his men came upon a large haystack of which they resolved to make
 fodder for their horses. "Eh, man," exclaimed the humorous raider, "if
 ye had legs, wouldna' ye run!"
 
-<span id="fn_34"></span>[86:9](lrs04.htm#fr_34) The commencement of the
+<span id="fn_34"></span>[86:9](lrs04.htm#fr_34.md) The commencement of the
 passage in question is as follows (1741-50)
 
 The heraldz laften here prikyng up and doun  
@@ -1516,4 +1516,4 @@ Spenser scarcely made a good poet between them."
 
 ------------------------------------------------------------------------
 
-[Next: III. "Amadis de Gaul"](lrs05)
+[Next: III. "Amadis de Gaul"](lrs05.md)

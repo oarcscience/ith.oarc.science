@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp18) 
-[Next](alp20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp18.md) 
+[Next](alp20.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ Till the pure flames shall all its dross expel!
 
 ------------------------------------------------------------------------
 
-[Next: The Little Lake](alp20)
+[Next: The Little Lake](alp20.md)

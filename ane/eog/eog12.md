@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](eog11)  [Next](eog13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](eog11)  [Next](eog13.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 (*Gilgamish meets Siduri*).
 
- <span id="fr_117"></span>[1](#fn_108)Dwelt Siduri, the maker of wine .
+ <span id="fr_117"></span>[1](#fn_108.md)Dwelt Siduri, the maker of wine .
 . . .  
 Wine(?) was her trade, her trade was . . . . . . . . .  
 Cover’d she was with a veil and . . . . . . . . .  
@@ -57,12 +57,12 @@ Barréd thine inner door, \[-barréd thy chamber(?)\]? O, I'll smite
 \[Unto him (answer 'd) the Wine-maker, speaking to Gilgamish,
 (saying):  
 "Why is thy vigour (so) wasted, (or why) is thy countenance <span
-id="fr_118"></span>[2](#fn_109) sunken,  
+id="fr_118"></span>[2](#fn_109.md) sunken,  
 (Why) hath thy spirit a sorrow (?), (or why) hath thy cheerfulness
 surcease?  
 <span class="margnote">35.</span>(O, but) there's woe in thy belly! Like
 one who hath gone a far journey  
-(So) is thy <span id="fr_119"></span>[2](#fn_109) face—(O,) with cold
+(So) is thy <span id="fr_119"></span>[2](#fn_109) face—(O,.md) with cold
 and with heat is thy countenance weather’d,  
 . . . that thou shouldst range over the desert."  
 Gilgamish unto her (answer’d and) spake to the Wine-maker, saying:  
@@ -92,9 +92,9 @@ There in the Gates (?) of the mountains (?); with me enduring all
 hardships,  
 Enkidu, (he was) my comrade—the lions we slaughter’d (together),  
 (Aye), enduring all hardships—and him <span
-id="fr_120"></span>[1](#fn_110) his fate hath o’ertaken.  
+id="fr_120"></span>[1](#fn_110.md) his fate hath o’ertaken.  
 (So) did I mourn him six days, (yea), a <span
-id="fr_121"></span>[1](#fn_110) se’nnight, until unto burial  
+id="fr_121"></span>[1](#fn_110.md) se’nnight, until unto burial  
 I could consign (?) him . . . . (then) did I fear . . . . .  
 Death did I dread, that I range o’er the desert\]: the hap of my
 comrade  
@@ -122,9 +122,9 @@ Gone to the common lot of mankind! (And) I have bewail’d him
 <span class="margnote">5.</span>Day and night long: (and) unto the tomb
 I have not consign’d him.  
 (O but) my friend cometh not (?) to my call—six days, (yea), <span
-id="fr_122"></span>[2](#fn_111) a se’nnight  
+id="fr_122"></span>[2](#fn_111.md) a se’nnight  
 <span class="margnote">10.</span>He like a worm hath lain on his
-face—(and) I for this reason <span id="fr_123"></span>[3](#fn_112)  
+face—(and) I for this reason <span id="fr_123"></span>[3](#fn_112.md)  
 Find no life, (but must needs) roam the desert like to a hunter,  
 (Wherefore), O Wine-maker, now that (at last) I look on thy visage,  
 Death which I dread I will see not!"
@@ -175,16 +175,16 @@ him*).
 him, unto Gilgamish (saying),  
 "There hath been never a crossing, O Gilgamish: never aforetime  
 Anyone, coming thus far, hath been able to traverse the Ocean:  
-Warrior Shamash doth cross it <span id="fr_124"></span>[1](#fn_113),
+Warrior Shamash doth cross it <span id="fr_124"></span>[1](#fn_113.md),
 ’tis true, but who besides Shamash  
 Maketh the traverse? (Yea), rough is the ferry, (and) rougher its
 passage,  
 <span class="margnote">25.</span>(Aye), too, ’tis deep are the Waters of
-Death, which bar its approaches <span id="fr_125"></span>[2](#fn_114).  
+Death, which bar its approaches <span id="fr_125"></span>[2](#fn_114.md).  
 Gilgamish, if perchance thou succeed in traversing the Ocean,  
 What wilt thou do, when unto the Waters of Death thou arrivest?  
 Gilgamish, there is Ur-Shanabi, boatman to Uta-Napishtim,  
-He with whom sails (?) <span id="fr_126"></span>[3](#fn_115) are, the
+He with whom sails (?) <span id="fr_126"></span>[3](#fn_115.md) are, the
 *urnu* of which in the forest he plucketh,  
 <span class="margnote">30.</span>(Now) let him look on thy presence,
 (and) \[if it be\] possible with him  
@@ -203,11 +203,11 @@ the boat for some reason. Before going on with the restoration of the
 Assyrian Version, we can interpolate Column IV from the Old Babylonian
 Version of the Berlin Tablet*)
 
-(Then) did Ur-Shanabi <span id="fr_127"></span>[1](#fn_116) speak to him
+(Then) did Ur-Shanabi <span id="fr_127"></span>[1](#fn_116.md) speak to him
 (yea), unto Gilgamish, (saying):  
 "Tell to me what is thy name, (for) I am Ur-Shanabi, (henchman),  
-(Aye), of far Uta-Napishtim <span id="fr_128"></span>[2](#fn_117)." To
-him <span id="fr_129"></span>[3](#fn_118) did Gilgamish answer:  
+(Aye), of far Uta-Napishtim <span id="fr_128"></span>[2](#fn_117.md)." To
+him <span id="fr_129"></span>[3](#fn_118.md) did Gilgamish answer:  
 <span class="margnote">5.</span>"Gilgamish, (that) is my name, come
 hither from Erech(?), E-Anni (?),  
 (One) who hath traversed the Mountains, a wearisome journey of
@@ -233,7 +233,7 @@ goes on*):
 <span class="margnote">32.</span>Gilgamish (thus) continued his speech
 to Ur-Shanabi, (saying)  
 "Pr’ythee, Ur-Shanabi, which is \[the way unto Uta-Napishtim <span
-id="fr_130"></span>[1](#fn_116)?  
+id="fr_130"></span>[1](#fn_116.md)?  
 What is its token, I pr’ythee, vouchsafe me, vouchsafe me nits
 token\].  
 If it be possible (even) the Ocean (itself) will I traverse,  
@@ -254,15 +254,15 @@ Thou hast destroyéd the sails(?), (and) hast piercéd (?) the . . .
 hand; O, descend to the forest,  
 \[Fashion thee\] poles each of five gar in length; make (knops of)
 bitumen,  
-Sockets, (too), add (to them) <span id="fr_131"></span>[1](#fn_119):
+Sockets, (too), add (to them) <span id="fr_131"></span>[1](#fn_119.md):
 bring \[them me\]." (Thereat), when Gilgamish \[heard this\],  
 Took he the axe in his hand, (and) \[the glaive\] drew forth \[from his
 baldric\],  
 <span class="margnote">45.</span>Went <span
-id="fr_132"></span>[2](#fn_120) to the forest, and poles each of five
+id="fr_132"></span>[2](#fn_120.md) to the forest, and poles each of five
 gar in length \[did he fashion\],  
 (Knops of) bitumen he made, and he added (their) sockets: and brought
-them . . <span id="fr_133"></span>[3](#fn_121),  
+them . . <span id="fr_133"></span>[3](#fn_121.md),  
 Gilgamish (then), and Ur-Shanabi fared them forth \[in their vessel\],  
 Launch’d they the boat on the billow, and they themselves \[in her
 embarking\].  
@@ -283,7 +283,7 @@ sixth, and a seventh (for thrusting),
 Gilgamish, take thou an eighth, (and) a ninth, and a tenth pole (for
 thrusting),  
 Gilgamish, take an eleventh, a twelfth pole!" He ceased <span
-id="fr_134"></span>[4](#fn_122) from (his) poling,  
+id="fr_134"></span>[4](#fn_122) from (his.md) poling,  
 (Aye) with twice-sixty (thrusts); (then) ungirded his loins . . . .  
 <span class="margnote">10.</span>Gilgamish . . . . (?), and set up the
 mast in its socket.
@@ -338,7 +338,7 @@ Brothers continue to share, or among \[foes (?)\] always be hatred?
 torrent,  
 *Kulilu*-bird \[to\] *Kirippu*-bird . . . . . . . . . ?  
 Face which doth look on the sunlight . . . presently (?) shall not
-be <span id="fr_135"></span>[1](#fn_123) . . .  
+be <span id="fr_135"></span>[1](#fn_123.md) . . .  
 Sleeping and dead \[are\]r alike, from Death they mark no distinction  
 Servant and master, when once thy have reach’d \[their full span
 allotted\],  
@@ -351,53 +351,53 @@ revealéd."
 
 ### Footnotes
 
-<span id="fn_108"></span>[44:1](eog12.htm#fr_117) Assyrian Version. A
+<span id="fn_108"></span>[44:1](eog12.htm#fr_117.md) Assyrian Version. A
 fragment from Boghazkeui (Keils. *Boghazh*. VI. 33) in a dialect
 (Subara-Hurritic) mentions Siduri.
 
-<span id="fn_109"></span>[44:2](eog12.htm#fr_119) Probable restoration.
+<span id="fn_109"></span>[44:2](eog12.htm#fr_119.md) Probable restoration.
 
-<span id="fn_110"></span>[45:1](eog12.htm#fr_121) Probable restoration.
+<span id="fn_110"></span>[45:1](eog12.htm#fr_121.md) Probable restoration.
 
-<span id="fn_111"></span>[45:2](eog12.htm#fr_122) Lit. "and."
+<span id="fn_111"></span>[45:2](eog12.htm#fr_122.md) Lit. "and."
 
-<span id="fn_112"></span>[45:3](eog12.htm#fr_123) Or "on account of
+<span id="fn_112"></span>[45:3](eog12.htm#fr_123.md) Or "on account of
 him."
 
-<span id="fn_113"></span>[46:1](eog12.htm#fr_124) Lit. "the Ocean."
+<span id="fn_113"></span>[46:1](eog12.htm#fr_124.md) Lit. "the Ocean."
 
-<span id="fn_114"></span>[46:2](eog12.htm#fr_125) Lit. "its face," or
+<span id="fn_114"></span>[46:2](eog12.htm#fr_125.md) Lit. "its face," or
 "its margin." The idea is perhaps that of the open sea after Gilgamish
 has left the more peaceable tidal waters where the Persian Gulf and the
 rivers meet in the salt lagoons.
 
-<span id="fn_115"></span>[46:3](eog12.htm#fr_126) A word which is one of
+<span id="fn_115"></span>[46:3](eog12.htm#fr_126.md) A word which is one of
 the greatest philological problems of the Epic. Possibly "paddles." I
 doubt whether it has any connection with "stones" as might be inferred
 from one rendering of the word.
 
-<span id="fn_116"></span>[47:1](eog12.htm#fr_130) Sur-Sunabu in this
+<span id="fn_116"></span>[47:1](eog12.htm#fr_130.md) Sur-Sunabu in this
 Version.
 
-<span id="fn_117"></span>[47:2](eog12.htm#fr_128) Uta-naishtim.
+<span id="fn_117"></span>[47:2](eog12.htm#fr_128.md) Uta-naishtim.
 
-<span id="fn_118"></span>[47:3](eog12.htm#fr_129) Lit. "to him, to
+<span id="fn_118"></span>[47:3](eog12.htm#fr_129.md) Lit. "to him, to
 Sur-Sunabu."
 
-<span id="fn_119"></span>[48:1](eog12.htm#fr_131) The modern
+<span id="fn_119"></span>[48:1](eog12.htm#fr_131.md) The modern
 punting-pole of S. Mesopotamia is a bamboo with a knob of bitumen at one
 end, and a metal ferule or ring at the other.
 
-<span id="fn_120"></span>[48:2](eog12.htm#fr_132) Lit. "Went down into."
+<span id="fn_120"></span>[48:2](eog12.htm#fr_132.md) Lit. "Went down into."
 
-<span id="fn_121"></span>[48:3](eog12.htm#fr_133) Probably supply "to
+<span id="fn_121"></span>[48:3](eog12.htm#fr_133.md) Probably supply "to
 Ur-Shanabi."
 
-<span id="fn_122"></span>[48:4](eog12.htm#fr_134) Or "he completed," or
+<span id="fn_122"></span>[48:4](eog12.htm#fr_134.md) Or "he completed," or
 "used up his poles." The text has "Gilgamish."
 
-<span id="fn_123"></span>[49:1](eog12.htm#fr_135) Difficult line.
+<span id="fn_123"></span>[49:1](eog12.htm#fr_135.md) Difficult line.
 
 ------------------------------------------------------------------------
 
-[Next: The Eleventh Tablet: The Flood](eog13)
+[Next: The Eleventh Tablet: The Flood](eog13.md)

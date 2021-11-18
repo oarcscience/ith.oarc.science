@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg14)  [Next](ttg16) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg14)  [Next](ttg16.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ shoulder, and started from the sissoo tree.
 ------------------------------------------------------------------------
 
 [Next: Fifteenth Goblin: The Fairy Prince Cloud-chariot and the Serpent
-Shell-crest. Which is the more self-sacrificing?](ttg16)
+Shell-crest. Which is the more self-sacrificing?](ttg16.md)

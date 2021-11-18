@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd03) 
-[Next](iwd05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd03.md) 
+[Next](iwd05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Irish Witchcraft and Demonology*, by St. John D. Seymour, \[1913\], at
 Intangible Textual Heritage
 
@@ -61,7 +61,7 @@ the correction of sins and the salvation of souls, in contempt of God
 
 <span id="page_48">p. 48</span>
 
-and the Church." <span id="fr_7"></span>[1](#fn_7) From this it would
+and the Church." <span id="fr_7"></span>[1](#fn_7.md) From this it would
 seem that heresy and unorthodoxy had already made its appearance in the
 diocese. In 1324 the Kyteler case occurred, one of the participants
 being burnt at the stake, while other incriminated persons were
@@ -69,7 +69,7 @@ subsequently followed up, some of whom shared the fate of Petronilla. In
 1327 Adam *Dubh*, of the Leinster tribe of O'Toole, was burnt alive on
 College Green for denying the doctrines of the Incarnation and the Holy
 Trinity, as well as for rejecting the authority of the Holy See. <span
-id="fr_8"></span>[2](#fn_8) In 1335 Pope Benedict XII wrote a letter to
+id="fr_8"></span>[2](#fn_8.md) In 1335 Pope Benedict XII wrote a letter to
 King Edward III, in which occurs the following passage: "It has come to
 our knowledge that while our venerable brother, Richard, Bishop of
 Ossory, was visiting his diocese, there appeared in the midst of his
@@ -90,7 +90,7 @@ and draw the faithful of Christ after them by their superstitions." As
 no Inquisitors of heresy have been appointed in Ireland, he begs the
 King to give prompt assistance to the Bishop and other Prelates in their
 efforts to punish the aforesaid heretics. <span
-id="fr_9"></span>[1](#fn_9) If the above refer to the Kyteler case it
+id="fr_9"></span>[1](#fn_9.md) If the above refer to the Kyteler case it
 came rather late in the day; but it is quite possible, in view of the
 closing words of the anonymous narrator, that it has reference rather to
 the following up of the dame's associates, a process that must have
@@ -103,7 +103,7 @@ Bunratty in co. Clare by Roger Cradok, Bishop of
 <span class="contnote">\[paragraph continues\]</span> Waterford, for
 holding heretical opinions (or for offering contumely to the Blessed
 Virgin), and were sentenced to be burnt. <span
-id="fr_10"></span>[1](#fn_10) The above are almost the only (if not the
+id="fr_10"></span>[1](#fn_10.md) The above are almost the only (if not the
 only) instances known of the punishment of death by fire being inflicted
 in Ireland for heresy.
 
@@ -171,11 +171,11 @@ circle of Hell.
 
 The next, who is so slender in the Ranks,  
 Was Michael Scot, who of a verity  
-Of magical illusions knew the game." <span id="fr_11"></span>[1](#fn_11)
+Of magical illusions knew the game." <span id="fr_11"></span>[1](#fn_11.md)
 
 Another man to whom magical powers were attributed solely on account of
 his learning was Gerald, the fourth Earl of Desmond, <span
-id="fr_12"></span>[2](#fn_12) styled the Poet, who died rather
+id="fr_12"></span>[2](#fn_12.md) styled the Poet, who died rather
 mysteriously in 1398. The Four Masters in their Annals describe him as
 "a nobleman of wonderful bounty, mirth, cheerfulness of conversation,
 charitable in his deeds, easy of access, a witty and ingenious composer
@@ -241,14 +241,14 @@ shall repent you all that ye will not let me speak now with the king.'
 Thereat the usher laughed, and held her but a fool, charging her to go
 her way, and therewithal she went thence." Her informant "Huthart" was
 evidently a familiar spirit who was in attendance on her. <span
-id="fr_13"></span>[1](#fn_13)
+id="fr_13"></span>[1](#fn_13.md)
 
 <span id="page_57">p. 57</span>
 
 Considering the barrenness of Irish records on the subject of sorcery
 and witchcraft it affords us no small satisfaction to find the following
 statement in the Statute Rolls of the Parliament <span
-id="fr_14"></span>[1](#fn_14) for the year 1447. It consists of a most
+id="fr_14"></span>[1](#fn_14.md) for the year 1447. It consists of a most
 indignantly-worded remonstrance from the Lords and Commons, which was
 drawn forth by the fact that some highly-placed personage had been
 accused of practising sorcery with the intent to do grievous harm to his
@@ -317,7 +317,7 @@ the same month, inform that Body that upon arriving at the town "the
 jail being full we caused sessions immediately to be held. Thirty-six
 persons were executed, amongst whom were some good ones, *a blackamoor
 and two witches* by natural law, for that we find no law to try them by
-in this realm." <span id="fr_15"></span>[1](#fn_15) It is easy to see
+in this realm." <span id="fr_15"></span>[1](#fn_15.md) It is easy to see
 why the witches were put to death, but the reason for the negro's
 execution is not so obvious. It can hardly have been for the colour of
 his skin, although no doubt a black man was as much a *rara avis* in the
@@ -472,7 +472,7 @@ Before passing from the subject we may note a curious allusion to a
 mythical Act of Parliament which was intended to put a stop to a certain
 lucrative form of witchcraft. It is gravely stated by the writer of a
 little book entitled *Beware the Cat* <span
-id="fr_16"></span>[1](#fn_16) (and by Giraldus Cambrensis before him),
+id="fr_16"></span>[1](#fn_16) (and by Giraldus Cambrensis before him.md),
 that Irish witches could turn wisps of hay, straw, &c. into red-coloured
 pigs, which they dishonestly sold in the market, but which resumed their
 proper shape when crossing running water. To prevent this it is stated
@@ -510,7 +510,7 @@ description of Ireland: "The Irish are wonderfully addicted to give
 credence to the prognostications of Soothsayers and Witches." Stanihurst
 writes that in his time (1547-1618) there were many sorcerers amongst
 the Irish. A note in Dr. Hanmer's Collection speaks of "Tyrone his witch
-the which he hanged." <span id="fr_17"></span>[1](#fn_17) But these
+the which he hanged." <span id="fr_17"></span>[1](#fn_17.md) But these
 statements seem rather to have reference to the point of view from which
 the English writers regarded the native bards, as well as the "wise
 women" who foretold the future; probably "Tyrone" put his "witch" to
@@ -529,7 +529,7 @@ as he is credited with being the husband (or son) of a goddess. Not many
 miles from the city of Limerick is a lonely, picturesque lake, Lough
 Gur, which was included in his extensive possessions, and at the bottom
 of which he is supposed to lie enchanted. According to the legend <span
-id="fr_18"></span>[1](#fn_18) he was a very potent magician, and usually
+id="fr_18"></span>[1](#fn_18.md) he was a very potent magician, and usually
 resided in a castle which was built on a small island in that lake. To
 this he brought his bride, a young and beautiful girl, whom he loved
 with a too fond love, for she succeeded in prevailing upon him to
@@ -613,7 +613,7 @@ Earl endeavours to lead someone on to first break the silence and speak
 to him; but what, in the event of his succeeding, would be the result,
 or would befall the person thus ensnared, no one knows.
 
-In a letter <span id="fr_19"></span>[1](#fn_19) written in the year
+In a letter <span id="fr_19"></span>[1](#fn_19.md) written in the year
 1640, the Earl assumes a different appearance. We learn from it that as
 a countryman was on his way to the ancient and celebrated fair of
 Knockaney, situated a few miles from Lough Gur, he met "a gentleman
@@ -650,47 +650,47 @@ connection with the celebrated Thomas the Rhymer, of Erceldoune.
 
 ### Footnotes
 
-<span id="fn_7"></span>[48:1](iwd04.htm#fr_7) Carrigan, *History of the
+<span id="fn_7"></span>[48:1](iwd04.htm#fr_7.md) Carrigan, *History of the
 Diocese of Ossory*, i. p. 48.
 
-<span id="fn_8"></span>[48:2](iwd04.htm#fr_8) Stokes, *Ireland and the
+<span id="fn_8"></span>[48:2](iwd04.htm#fr_8.md) Stokes, *Ireland and the
 Anglo-Norman Church*, p. 374.
 
-<span id="fn_9"></span>[49:1](iwd04.htm#fr_9) Theiner, *Vet. Mon*., p.
+<span id="fn_9"></span>[49:1](iwd04.htm#fr_9.md) Theiner, *Vet. Mon*., p.
 269.
 
-<span id="fn_10"></span>[50:1](iwd04.htm#fr_10) Westropp, *Wars of
+<span id="fn_10"></span>[50:1](iwd04.htm#fr_10.md) Westropp, *Wars of
 Turlough* (Proc. R.I.A.), p. 161; Seymour, *Pre-Ref. Archbishops of
 Cashel*, 47.
 
-<span id="fn_11"></span>[53:1](iwd04.htm#fr_11) *Dict. Nat. Biog*.,
+<span id="fn_11"></span>[53:1](iwd04.htm#fr_11.md) *Dict. Nat. Biog*.,
 Seymour, *op. cit.*, p. 18.
 
-<span id="fn_12"></span>[53:2](iwd04.htm#fr_12) O'Daly, *History of the
+<span id="fn_12"></span>[53:2](iwd04.htm#fr_12.md) O'Daly, *History of the
 Geraldines*.
 
-<span id="fn_13"></span>[56:1](iwd04.htm#fr_13) Sharpe, *History of
+<span id="fn_13"></span>[56:1](iwd04.htm#fr_13.md) Sharpe, *History of
 Witchcraft in Scotland*, p. 30.
 
-<span id="fn_14"></span>[57:1](iwd04.htm#fr_14) Ed. H. F. Berry, D.Litt.
+<span id="fn_14"></span>[57:1](iwd04.htm#fr_14.md) Ed. H. F. Berry, D.Litt.
 
-<span id="fn_15"></span>[60:1](iwd04.htm#fr_15) Carrigan, *op. cit*.,
+<span id="fn_15"></span>[60:1](iwd04.htm#fr_15.md) Carrigan, *op. cit*.,
 iii. p. 18.
 
-<span id="fn_16"></span>[67:1](iwd04.htm#fr_16) Quoted in *Journal of
+<span id="fn_16"></span>[67:1](iwd04.htm#fr_16.md) Quoted in *Journal of
 Royal Society of Antiquaries*, 3rd series, vol. i. Français mentions a
 Swiss sorcerer, somewhat of a wag, who used to play the same trick on
 people.
 
-<span id="fn_17"></span>[69:1](iwd04.htm#fr_17) *Ulster Journal of
+<span id="fn_17"></span>[69:1](iwd04.htm#fr_17.md) *Ulster Journal of
 Archæology*, vol. iv. (for 1858).
 
-<span id="fn_18"></span>[70:1](iwd04.htm#fr_18) *All the Year Round*
+<span id="fn_18"></span>[70:1](iwd04.htm#fr_18.md) *All the Year Round*
 (for April 1870).
 
-<span id="fn_19"></span>[74:1](iwd04.htm#fr_19) Lenihan, *History of
+<span id="fn_19"></span>[74:1](iwd04.htm#fr_19.md) Lenihan, *History of
 Limerick*, p. 147.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: A.D. 1606-1656](iwd05)
+[Next: Chapter IV: A.D. 1606-1656](iwd05.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml14)  [Next](eml16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml14)  [Next](eml16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -46,7 +46,7 @@ An interesting contrast is afforded by the two great rival religions of
 this period of transition. While the theology of Heliopolis was based
 upon sun worship, that of Memphis was based upon earth worship. Ptah,
 the creation elf of the latter city, had been united with Tanen (or
-Tatûnen), the earth giant, <span id="fr_87"></span>[1](#fn_87) who
+Tatûnen), the earth giant, <span id="fr_87"></span>[1](#fn_87.md) who
 resembles Seb. The dwarfish deity then assumed gigantic proportions, and
 became a "world god" or Great Father. A hymn addressed to Ptah Tanen
 declares that his head is in
@@ -169,11 +169,11 @@ will send serpents, cockatrices, among you which will not be charmed,
 and they shall bite you"; and in *Ecclesiastes*, xii: "Surely the
 serpent will bite without enchantment". Those who have watched the
 genuine serpent charmers at work in Egypt have testified to the efficacy
-of their wonderful powers. <span id="fr_88"></span>[1](#fn_88)
+of their wonderful powers. <span id="fr_88"></span>[1](#fn_88.md)
 
 In ancient Egypt serpents were believed, especially by the sun
 worshippers, to be incarnations of evil spirits. <span
-id="fr_89"></span>[2](#fn_89) Darkness, the enemy of light, was
+id="fr_89"></span>[2](#fn_89.md) Darkness, the enemy of light, was
 symbolized as the Apep serpent, which is also referred to as the Great
 Worm. It rose up each night in the realms of Duat to destroy the sun
 bark and devour Ra. Occasionally it issued forth in daylight, and
@@ -199,9 +199,9 @@ Apep serpent suffered loss of power. The ashes of the figure and of the
 papyrus were afterwards mixed with filth and committed to the flames a
 second time. It was also customary to make wax models of the serpent
 fiends which assisted Apep, and they were given the heads of black and
-white cats crocodiles, and ducks. <span id="fr_90"></span>[1](#fn_90)
+white cats crocodiles, and ducks. <span id="fr_90"></span>[1](#fn_90.md)
 Stone knives were stuck in their backs, and they were thrown in the dust
-and kicked with the left foot. <span id="fr_91"></span>[2](#fn_91)
+and kicked with the left foot. <span id="fr_91"></span>[2](#fn_91.md)
 
 Symbolic references are also made in the Bible to the great Egyptian
 serpent. In *Isaiah*, lxvi, 24, we read: "Their worm shall not die,
@@ -215,7 +215,7 @@ like the Midgard serpent of
 
 <span class="contnote">\[paragraph continues\]</span> Norse mythology.
 From its mouth issues forth "All ice, <span
-id="fr_92"></span>[1](#fn_92) dust, cold, disease, and sickness"
+id="fr_92"></span>[1](#fn_92.md) dust, cold, disease, and sickness"
 (*Pistis Sophia*).
 
 The idea that the sun was an incarnation of the Creator was imported
@@ -223,7 +223,7 @@ from Asia, but the conception of Duat, with its lakes of fire, is of
 Egyptian origin. In the Babylonian Hades, to which Istar descended,
 eternal darkness prevailed, and doomed souls partook of filthy food and
 drank unclean waters; they were not tortured by flames, but by pestilent
-odours and by diseases. <span id="fr_93"></span>[2](#fn_93)
+odours and by diseases. <span id="fr_93"></span>[2](#fn_93.md)
 
 Ra theology developed upon Egyptian lines, and was fused with
 pre-existing local beliefs. The sun bark, which was called "Bark of
@@ -232,7 +232,7 @@ celestial Nile by day, and the seasonal changes of its course over the
 heavens were accounted for by the celestial inundation. Ra occupied the
 Maadit bark in the forenoon, and the Sekti bark in the afternoon. The
 change was effected at noon, when special magical formulæ were
-chanted. <span id="fr_94"></span>[3](#fn_94)
+chanted. <span id="fr_94"></span>[3](#fn_94.md)
 
 As the theology of the sun worshippers developed at Heliopolis, other
 gods, which were imported or had their origin in Egypt, were included in
@@ -267,7 +267,7 @@ sun". A sycamore near it is also regarded with veneration. Sacrifices
 were offered up on a holy sand mound, and the custom prevailed at
 funeral services in tombs of setting up the mummy case in erect position
 on a heap of sand. One of the spirits <span
-id="fr_95"></span>[1](#fn_95) of the sun god was believed to inhabit a
+id="fr_95"></span>[1](#fn_95.md) of the sun god was believed to inhabit a
 great block of stone. Indeed On, the Egyptian name of the sacred "city
 of the sun", signifies "stone pillar". In the Fifth Dynasty the Ra kings
 erected
@@ -441,19 +441,19 @@ practice was based on belief in contagious magic. Bulls and boars were
 eaten to give men strength and courage, deer to give fleetness of foot,
 and serpents to give cunning. The blood of wounded warriors was drunk so
 that their skill and bravery might be imparted to the drinkers. <span
-id="fr_96"></span>[1](#fn_96) King Unas similarly feasts after death on
+id="fr_96"></span>[1](#fn_96.md) King Unas similarly feasts after death on
 "the spirits" known at Heliopolis as "the fathers and the mothers", and
 on the bodies of men and gods. He swallows their spirits, souls, and
 names, which are contained in their hearts, livers, and entrails, and
 consequently becomes great and all-powerful. <span
-id="fr_97"></span>[2](#fn_97) The resemblance to the man-eating giants
+id="fr_97"></span>[2](#fn_97.md) The resemblance to the man-eating giants
 of Europe is very striking.
 
 The rendering which follows of the remarkable Unas hymn is fairly close.
 It is cast in metrical form with endeavour to reproduce the spirit of
 the original.
 
-ORION <span id="fr_98"></span>[3](#fn_98) IN EGYPT
+ORION <span id="fr_98"></span>[3](#fn_98.md) IN EGYPT
 
 Now heaven rains, and trembles every star  
 With terror; bowmen scamper to escape;  
@@ -474,7 +474,7 @@ His sire divine. . . . Greater than Tum is he.
 His shadowy doubles follow him behind  
 As he comes forth. The uræus on his brow  
 Uprears; the royal serpent guides him on;  
-He sees his Ba <span id="fr_99"></span>[1](#fn_99) a flame of living
+He sees his Ba <span id="fr_99"></span>[1](#fn_99.md) a flame of living
 fire.
 
 The strength of Unas shields him. . . He is now  
@@ -536,7 +536,7 @@ His fire has seized their bones, and lo! their souls
 Are Unas's; their shades are with their forms.
 
 Unas ascends. . . . Unas ascends with these--  
-Unas is hidden, is hidden <span id="fr_100"></span>[1](#fn_100) . . . .
+Unas is hidden, is hidden <span id="fr_100"></span>[1](#fn_100.md) . . . .
 An One  
 For him hath ploughed . . . . The seat of every heart Is  
 Unas's among all living men.
@@ -547,25 +547,25 @@ Unas's among all living men.
 
 ### Footnotes
 
-<span id="fn_87"></span>[155:1](eml15.htm#fr_87) The lion Aker was
+<span id="fn_87"></span>[155:1](eml15.htm#fr_87.md) The lion Aker was
 another earth god.
 
-<span id="fn_88"></span>[159:1](eml15.htm#fr_88) See Lane's Manners and
+<span id="fn_88"></span>[159:1](eml15.htm#fr_88.md) See Lane's Manners and
 Customs the Modern Egyptians. (Chapters xi and xx).
 
-<span id="fn_89"></span>[159:2](eml15.htm#fr_89) See Chapter V.
+<span id="fn_89"></span>[159:2](eml15.htm#fr_89.md) See Chapter V.
 
-<span id="fn_90"></span>[160:1](eml15.htm#fr_90) The duck-headed serpent
+<span id="fn_90"></span>[160:1](eml15.htm#fr_90.md) The duck-headed serpent
 recalls the fire drake of the Beowulf poem. Giants with cats' heads and
 dogs' heads are found in Celtic folklore.
 
-<span id="fn_91"></span>[160:2](eml15.htm#fr_91) King James in his
+<span id="fn_91"></span>[160:2](eml15.htm#fr_91.md) King James in his
 *Dæmonology* (Book II, Chap. v) says: "The devil teacheth how to make
 pictures of wax or clay, that by roasting thereof, the persons that they
 beat the name of may be continually melted or dried away by continual
 sickness."
 
-<span id="fn_92"></span>[161:1](eml15.htm#fr_92) In the Reign of Rameses
+<span id="fn_92"></span>[161:1](eml15.htm#fr_92.md) In the Reign of Rameses
 II, Khattusil, the Hittite king, visited Egypt. An inscription at Abu
 Simbel expresses the hope that on his journey homeward he will not be
 delayed by snow and ice on the mountains. Isaiah makes symbolic
@@ -574,41 +574,41 @@ and strong sword shall punish leviathan the piercing (or stiff) serpent,
 even leviathan that crooked serpent; and he shall slay the dragon that
 is in the sea" (*Isaiah*, xxvii, 1).
 
-<span id="fn_93"></span>[161:2](eml15.htm#fr_93) As in the Nifel-hel of
+<span id="fn_93"></span>[161:2](eml15.htm#fr_93.md) As in the Nifel-hel of
 Teutonic mythology.
 
-<span id="fn_94"></span>[161:3](eml15.htm#fr_94) The Mohammedan noonday
+<span id="fn_94"></span>[161:3](eml15.htm#fr_94.md) The Mohammedan noonday
 prayer is probably a survival of the sun worshippers' custom.
 
-<span id="fn_95"></span>[162:1](eml15.htm#fr_95) Gods and Pharaohs had
+<span id="fn_95"></span>[162:1](eml15.htm#fr_95.md) Gods and Pharaohs had
 several Kas. Ra had fourteen, and he had also seven Bas (souls).
 
-<span id="fn_96"></span>[168:1](eml15.htm#fr_96) In the Nibelungenlied
+<span id="fn_96"></span>[168:1](eml15.htm#fr_96.md) In the Nibelungenlied
 the Burgundians drink the blood of fallen heroes and are refreshed and
 strengthened. See *Teutonic Myth and Legend.*
 
-<span id="fn_97"></span>[168:2](eml15.htm#fr_97) Dr. Budge is of opinion
+<span id="fn_97"></span>[168:2](eml15.htm#fr_97.md) Dr. Budge is of opinion
 that human beings were sacrificed to the sun god. The practice was "of
 vital importance". Referring to the Ra obelisk in the early sun temples,
 he says that "the size and number of conduits to carry away blood bears
 evidence of the magnitude of the slaughterings" (*Osiris and the
 Egyptian Resurrection* and *Gods of the Egyptians*).
 
-<span id="fn_98"></span>[168:3](eml15.htm#fr_98) Osiris, in his fusion
+<span id="fn_98"></span>[168:3](eml15.htm#fr_98.md) Osiris, in his fusion
 with Ra, is addressed as "thou first great sun god", and Isis says:
 "There proceedeth from thee the strong Orion in heaven at evening, at
 the resting of every day."--*The Burden of Isis* ("Wisdom of the East"
 Series) trans. by Dennis, p. 24.
 
-<span id="fn_99"></span>[169:1](eml15.htm#fr_99) Soul.
+<span id="fn_99"></span>[169:1](eml15.htm#fr_99.md) Soul.
 
-<span id="fn_100"></span>[170:1](eml15.htm#fr_100) Hail, thou hidden
+<span id="fn_100"></span>[170:1](eml15.htm#fr_100.md) Hail, thou hidden
 god, Osiris in the underworld."--*The Burden of Isis*, p. 54.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: Fall of the Old Kingdom](eml16)
+[Next: Chapter XIII: Fall of the Old Kingdom](eml16.md)
 
 </div>

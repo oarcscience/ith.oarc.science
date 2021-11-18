@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Previous](phs02) 
-[Next](phs04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Previous](phs02.md) 
+[Next](phs04.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ C.J.
 
 ------------------------------------------------------------------------
 
-[Next: Paradox I.--Religion Is Magic Sanctioned](phs04)
+[Next: Paradox I.--Religion Is Magic Sanctioned](phs04.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](cen7eng)  [Next](cen8eng) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](cen7eng)  [Next](cen8eng.md) 
 
 ------------------------------------------------------------------------
 
@@ -492,6 +492,6 @@ Done by Michel Nostradamus at Salon-de-Crau in Provence.
 
 ------------------------------------------------------------------------
 
-[Next: Century VIII](cen8eng)
+[Next: Century VIII](cen8eng.md)
 
   

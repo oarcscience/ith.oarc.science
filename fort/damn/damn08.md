@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](damn07)  [Next](damn09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](damn07)  [Next](damn09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of the Damned*, by Charles Fort, \[1919\], at Intangible
 Textual Heritage
 
@@ -1015,7 +1015,7 @@ regard a gloved hand in the same way in which a bare hand would be
 regarded.
 
 That there's nothing but intermediateness to the rational and the
-[preposterous](errata.htm#2): that this status of our own ratiocinations
+[preposterous](errata.htm#2.md): that this status of our own ratiocinations
 is perceptible; wherein they are upon the unfamiliar.
 
 Dr. Bodding collected 50 of these shaped stones, said to have fallen
@@ -1239,4 +1239,4 @@ A disk of worked stone fell from the sky, at Tarbes, France, June 20,
 
 ------------------------------------------------------------------------
 
-[Next: 9](damn09)
+[Next: 9](damn09.md)

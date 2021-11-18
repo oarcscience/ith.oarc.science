@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft41)  [Next](efft43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft41)  [Next](efft43.md) 
 
 ------------------------------------------------------------------------
 
 # GOBLINS.
 
-### DANDO AND HIS DOGS.  <span id="fr_48"></span>[1](#fn_48)
+### DANDO AND HIS DOGS.  <span id="fr_48"></span>[1](#fn_48.md)
 
 IN the neighbourhood of the lovely village of St. Germans formerly lived
 a priest connected with the old priory church of this parish, whose life
@@ -147,9 +147,9 @@ Dartmoor are but other versions of the same legend.
 
 ### Footnotes
 
-<span id="fn_48"></span>[1](efft42.htm#fr_48) Robert Hunt, *Popular
+<span id="fn_48"></span>[1](efft42.htm#fr_48.md) Robert Hunt, *Popular
 Romances of the West of England*, 1<sup>st</sup> series, p. 247.
 
 ------------------------------------------------------------------------
 
-[Next: The Demon Tregeagle](efft43)
+[Next: The Demon Tregeagle](efft43.md)

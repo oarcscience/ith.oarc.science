@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-13in) 
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-13in.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,9 +36,9 @@ I*kkh*ânangala),
    Todeyya lived at Tudigama.
 
 *G*â*n*usso*n*i was converted by the Bhaya-bherava Sutta. On
-Pokkharasâdi, see above, pp. [108](dob-03tx),
-[135](dob-03tx.htm#p.%20135), [147](dob-04tx.htm#p.%20147); and on
-Todeyya, see above, [p. 267](dob-10tx); and on all the names, see
+Pokkharasâdi, see above, pp. [108](dob-03tx.md),
+[135](dob-03tx.htm#p.%20135), [147](dob-04tx.htm#p.%20147.md); and on
+Todeyya, see above, [p. 267](dob-10tx.md); and on all the names, see
 Ma*ggh*ima Nikaya, No. 98 = Sutta Nipata III, 9.
 
 Buddhaghosa adds that because Manasâka*t*a was a pleasant place the
@@ -591,7 +591,7 @@ rather by Sugata-vinaye. Comp. A<u>n</u>guttara V, 237-239 with 234,
 235.
 
 2\. These Five Hindrances are more fully dealt with above, [p.
-82](dob-02tx.htm#p.%2082).}
+82](dob-02tx.htm#p.%2082.md).}
 
 <span id="p. 313">{p. 313}</span>
 
@@ -807,10 +807,10 @@ id="text p. 250">\[250\]</span>
    43-75. 'And how, Vâse*tth*a, is his conduct good?'
 
    \[The answer is set forth in the words of the tract on the Sîlas,
-translated above, [pp. 3-26](dob-01tx.htm#text%20p.%204), but with the
+translated above, [pp. 3-26](dob-01tx.htm#text%20p.%204.md), but with the
 refrain as in the Sâma*ññ*a-phala Suttanta above, [p.
-79](dob-02tx.htm#p.%2079). Then follow [§§
-63-75](dob-02tx.htm#text%20p.%2069), inclusive, of the Sâma*ññ*a-phala;
+79](dob-02tx.htm#p.%2079.md). Then follow [§§
+63-75](dob-02tx.htm#text%20p.%2069.md), inclusive, of the Sâma*ññ*a-phala;
 setting forth:--
 
    1. The confidence of heart that results from the sense of goodness.
@@ -943,9 +943,9 @@ true believers, from this day forth, as long as life endures!'
 Here ends the Tevigga Suttanta{1}.
 
 <span class="small">{1. Literally 'The Suttanta about those who have the
-knowledge of the Three (Vedas).' See [p. 303](#p.%20303), where the
+knowledge of the Three (Vedas).' See [p. 303](#p.%20303.md), where the
 names of these 'doctors' are given.}</span>
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)
+[Return to top](#top.md)

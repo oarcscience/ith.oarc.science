@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui14)  [Next](bui16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui14)  [Next](bui16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ friendship; is there anything more or
 <span id="page_285">p. 285</span>
 
 better than this that the wisest and best of men can hope to do? <span
-id="fr_180"></span>[1](#fn_180) Such is the spirit of Masonry; such is
+id="fr_180"></span>[1](#fn_180.md) Such is the spirit of Masonry; such is
 its ideal, and if to realize it all at once is denied us, surely it
 means much to see it, love it, and labor to make it come true.
 
@@ -149,7 +149,7 @@ Our human history, saturated with blood and blistered with tears, is the
 story of man making friends with man. Society has evolved from a feud
 into a friendship by the slow growth of love and the welding of man,
 first to his kin, and then to his kind. <span
-id="fr_181"></span>[1](#fn_181) The first men who walked in the red dawn
+id="fr_181"></span>[1](#fn_181.md) The first men who walked in the red dawn
 of time lived every man for himself, his heart a sanctuary of
 suspicions, every man feeling that every other man was his foe, and
 therefore his prey. So there were war, strife, and bloodshed. Slowly
@@ -207,7 +207,7 @@ tiger in man, and bring his wild passions into obedience to the will of
 God. It has no other mission than to exalt and ennoble humanity, to
 bring light out of darkness, beauty out of angularity; to make every
 hard-won inheritance more secure, every sanctuary more sacred, every
-hope more radiant! <span id="fr_182"></span>[1](#fn_182)
+hope more radiant! <span id="fr_182"></span>[1](#fn_182.md)
 
 <span id="page_290">p. 290</span>
 
@@ -273,7 +273,7 @@ and where the issues of destiny are decided, now with shouts of victory,
 now with sobs of defeat. What a ministry to a young man who enters its
 temple in the morning of life, when the dew of heaven is upon his days
 and the birds are singing in his heart!  <span
-id="fr_183"></span>[1](#fn_183)
+id="fr_183"></span>[1](#fn_183.md)
 
 From the wise lore of the East Max Müller translated a parable which
 tells how the gods, having stolen from man his divinity, met in council
@@ -302,7 +302,7 @@ meaning, and inspires him to follow and obey it. Once a man learns this
 deep secret, life is new, and the old world is a valley all dewy to the
 dawn with a lark-song over it. There never was a truer saying than that
 the religion of a man is the chief fact concerning him. <span
-id="fr_184"></span>[1](#fn_184) By religion is meant not the creed to
+id="fr_184"></span>[1](#fn_184.md) By religion is meant not the creed to
 which a man will subscribe, or otherwise give his assent; not that
 necessarily; often not that at all—since
 
@@ -359,7 +359,7 @@ wisdom to heart, and
 lives by it, will have little to regret, and nothing to fear, when the
 evening shadows fall. Happy the young man who in the morning of his
 years makes it his guide, philosopher, and friend. <span
-id="fr_185"></span>[1](#fn_185)
+id="fr_185"></span>[1](#fn_185.md)
 
 Such is the ideal of Masonry, and fidelity to all that is holy demands
 that we give ourselves to it, trusting the power of truth, the reality
@@ -413,7 +413,7 @@ the one which it is trying to give to all the world.
 
 ### Footnotes
 
-<span id="fn_180"></span>[285:1](bui15.htm#fr_180) Suggested by a noble
+<span id="fn_180"></span>[285:1](bui15.htm#fr_180.md) Suggested by a noble
 passage in the *Recollections* of Washington Gladden; and the great
 preacher goes on to say: "If the church could accept this truth—that
 Religion is Friendship—and build its own life upon it, and make it
@@ -431,10 +431,10 @@ whose chorus is never hushed in the temple of Masonry! Of course, there
 are those who say that the finer forces of life are frail and foolish,
 but the influence of the cynic in the advance of the race is—nothing!
 
-<span id="fn_181"></span>[287:1](bui15.htm#fr_181) *The Neighbor*, by N.
+<span id="fn_181"></span>[287:1](bui15.htm#fr_181.md) *The Neighbor*, by N.
 S. Shaler.
 
-<span id="fn_182"></span>[289:1](bui15.htm#fr_182) If Masons often fall
+<span id="fn_182"></span>[289:1](bui15.htm#fr_182.md) If Masons often fall
 far below their high ideal, it is because they share in their degree the
 infirmity of mankind. He is a poor craftsman who glibly recites the
 teachings of the Order and quickly forgets the lessons they convey; who
@@ -449,16 +449,16 @@ offices are not ends in themselves, but only beautiful means to the end
 that every human heart may be a temple of peace, of purity, of power, of
 pity, and of hope!
 
-<span id="fn_183"></span>[292:1](bui15.htm#fr_183) Read the noble words
+<span id="fn_183"></span>[292:1](bui15.htm#fr_183.md) Read the noble words
 of Arnold on the value of Masonry to the young as a restraint, a
 refinement, and a conservator of virtue, throwing about youth the mantle
 of a great friendship and the consecration of a great ideal (*History
 and Philosophy of Masonry*, chap. xix).
 
-<span id="fn_184"></span>[293:1](bui15.htm#fr_184) *Heroes and
+<span id="fn_184"></span>[293:1](bui15.htm#fr_184.md) *Heroes and
 Hero-worship*, by Thomas Carlyle, lecture i.
 
-<span id="fn_185"></span>[296:1](bui15.htm#fr_185) If the influence of
+<span id="fn_185"></span>[296:1](bui15.htm#fr_185.md) If the influence of
 Masonry upon youth is here emphasized, it is not to forget that the most
 dangerous period of life is not youth, with its turmoil of storm and
 stress, but between forty and sixty. When the enthusiasms of youth have
@@ -477,4 +477,4 @@ beauty and wonder of it, but the glory is not diminished.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](bui16)
+[Next: Bibliography](bui16.md)

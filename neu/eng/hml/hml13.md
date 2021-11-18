@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml12)  [Next](hml14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml12)  [Next](hml14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -260,13 +260,13 @@ decided thus, Laegaire and Conall, after some disputation
 <span id="img_19000"></span>
 
 [![''All three drove furiously towards Cruachan''](tn/19000.jpg)  
-Click to enlarge](img/19000.jpg)  
+Click to enlarge](img/19000.jpg.md)  
 ''All three drove furiously towards Cruachan''  
 
 <span id="img_19100"></span>
 
 [![''Three monstrous cats were let into the room''](tn/19100.jpg)  
-Click to enlarge](img/19100.jpg)  
+Click to enlarge](img/19100.jpg.md)  
 ''Three monstrous cats were let into the room''  
 
  
@@ -492,12 +492,12 @@ had done, and likewise did not
 <span id="img_19600"></span>
 
 [![](tn/19600.jpg)  
-Click to enlarge](img/19600.jpg)
+Click to enlarge](img/19600.jpg.md)
 
 <span id="img_19700"></span>
 
 [![''The body of Uath arose''](tn/19700.jpg)  
-Click to enlarge](img/19700.jpg)  
+Click to enlarge](img/19700.jpg.md)  
 ''The body of Uath arose''  
 
  
@@ -746,4 +746,4 @@ until this day.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: The Tale of Gamelyn](hml14)
+[Next: Chapter X: The Tale of Gamelyn](hml14.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal039)  [Next](njal041) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal039)  [Next](njal041.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ were at peace after that.
 
 ------------------------------------------------------------------------
 
-[Next: 41. Sigmund Comes Out To Iceland](njal041)
+[Next: 41. Sigmund Comes Out To Iceland](njal041.md)

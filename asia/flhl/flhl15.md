@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl14)  [Next](flhl16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl14)  [Next](flhl16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -52,11 +52,11 @@ present city
 wall was built in the early part of the sixteenth century. Others have
 informed the writer that the monuments mark the graves of "Mûjahedìn,"
 or warriors of Islam, in the days either of Bûkhtûnnussur
-(Nebuchadnezzar) <span id="fr_36"></span>[1](#fn_36) or of Salah-ed-din
+(Nebuchadnezzar) <span id="fr_36"></span>[1](#fn_36.md) or of Salah-ed-din
 (Saladin), while still another story relates that the "wely" buried here
 was a namesake and contemporary of Salah-ed-din who was in charge of the
 gate when the Christians besieged the city, <span
-id="fr_37"></span>[2](#fn_37) and when he fell in the battle, his
+id="fr_37"></span>[2](#fn_37.md) and when he fell in the battle, his
 severed head seized hold of his scimitar with its teeth, and kept the
 Christians off seven days and nights.
 
@@ -107,7 +107,7 @@ like that of ’Ozair is read in the Greek churches during the service
 appointed for November 4th, when the fall of Jerusalem is commemorated.
 
 Jewish traditions state that the celebrated Hebrew poet, Rabbi Judah ha
-Levi, of Toledo, <span id="fr_38"></span>[1](#fn_38) met his death at
+Levi, of Toledo, <span id="fr_38"></span>[1](#fn_38.md) met his death at
 this Bâb el Khalìl. From his earliest youth he had yearned to visit the
 Holy Land and city, but had been prevented. At last, in his old age, the
 obstacles in his path were removed. But he never entered Jerusalem. On
@@ -134,17 +134,17 @@ reverently, and then kiss their fingers.
 
 ### Footnotes
 
-<span id="fn_36"></span>[80:1](flhl15.htm#fr_36) Nebuchadnezzar and
+<span id="fn_36"></span>[80:1](flhl15.htm#fr_36.md) Nebuchadnezzar and
 Titus are often confused by Moslem Arabs. Thus St John the Baptist's
 blood is said to have continued walling up like a fountain under the
 great altar till the Temple was destroyed by Bûkhtûnnussur, and even
 then not to have stopped till Bûkhtûnnussur had slain a thousand
 Jews.--ED.
 
-<span id="fn_37"></span>[80:2](flhl15.htm#fr_37) Which, by the way, did
+<span id="fn_37"></span>[80:2](flhl15.htm#fr_37.md) Which, by the way, did
 not happen in the time of Salah-ed-din; it was the other way about.
 
-<span id="fn_38"></span>[82:1](flhl15.htm#fr_38) The author of many
+<span id="fn_38"></span>[82:1](flhl15.htm#fr_38.md) The author of many
 hymns, and particularly of the elegies for the 9th day of Ab,
 anniversary of the death of Moses, as also of the destruction of
 Jerusalem, first by Nebuchadnezzar, and then by Titus many centuries
@@ -152,4 +152,4 @@ later.
 
 ------------------------------------------------------------------------
 
-[Next: II. Turbet Birket Mamilla](flhl16)
+[Next: II. Turbet Birket Mamilla](flhl16.md)

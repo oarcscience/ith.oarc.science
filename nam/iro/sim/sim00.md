@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Next](sim01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Next](sim01.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Note](sim01)
+[Next: Note](sim01.md)

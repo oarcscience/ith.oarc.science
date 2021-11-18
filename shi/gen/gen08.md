@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen07)  [Next](gen09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen07)  [Next](gen09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -409,7 +409,7 @@ last night, eh?"
 
 Genji rose and presently came out, saying, "I have overslept myself,
 that is all; nothing to disturb me. But have you come from the palace?
-Was it your official watch-night?" <span id="fr_65"></span>[1](#fn_64)
+Was it your official watch-night?" <span id="fr_65"></span>[1](#fn_64.md)
 
 "Yes," replied Tô-no-Chiûjiô, "and I must inform you that the dancers
 and musicians for the *fête* in Suzak-in are to be nominated to-day. I
@@ -476,7 +476,7 @@ step, approached the door and knocked.
 the door, and showed him into a room where he was soon joined by the
 Princess, neither Tayû nor Kojijiû being there on this occasion. The
 latter was acquainted with the Saiin (the sacred virgin at the Temple of
-Kamo), <span id="fr_66"></span>[2](#fn_65) and often spent some time
+Kamo), <span id="fr_66"></span>[2](#fn_65.md) and often spent some time
 with her. On this occasion she happened to be visiting her, a
 circumstance which was not very convenient for the Princess. The
 dilapidated state of the mansion was just as novel to Genji as that
@@ -580,8 +580,8 @@ Again Genji hummed:—
 <span id="page_129">p. 129</span>
 
 and added, "Youth with its body uncovered." <span
-id="fr_67"></span>[3](#fn_66) Then the pitiable image of one with a
-tinged flower <span id="fr_68"></span>[4](#fn_67) on her face presented
+id="fr_67"></span>[3](#fn_66.md) Then the pitiable image of one with a
+tinged flower <span id="fr_68"></span>[4](#fn_67.md) on her face presented
 itself once more to his thoughts and made him smile.
 
 "If Tô-no-Chiûjiô observed this, what would he not have to say?" thought
@@ -765,7 +765,7 @@ were the silent touches of time, and that she had made some improvement.
 He then left and returned to his mansion in Nijiô, where he saw the
 young Violet innocently amusing herself. She wore with grace a long
 close-fitting cherry-colored dress of plain silk. She had not yet
-blackened her teeth, <span id="fr_69"></span>[5](#fn_68) but he now made
+blackened her teeth, <span id="fr_69"></span>[5](#fn_68.md) but he now made
 her do so, which gave a pleasant contrast to her eyebrows. He played at
 their usual games at toys with her, trying in every way to please her.
 She drew pictures and painted them, so did he also. He drew the likeness
@@ -787,7 +787,7 @@ Suppose I go with this to the Palace?"
 
 On this Violet approached and carefully wiped it for him. "Don't put any
 more color," cried Genji, "and play upon me as Heijiû." <span
-id="fr_70"></span>[6](#fn_69)
+id="fr_70"></span>[6](#fn_69.md)
 
 The mild sun of spring descended in the west, and darkness slowly
 gathered over the forest tops, obscuring all but the lovely white plum
@@ -810,28 +810,28 @@ What will become of all these personages!
 
 ### Footnotes
 
-<span id="fn_64"></span>[125:1](gen08.htm#fr_65) Young nobles spent a
+<span id="fn_64"></span>[125:1](gen08.htm#fr_65.md) Young nobles spent a
 night in the palace in turns, to attend to any unexpected official
 business.
 
-<span id="fn_65"></span>[126:2](gen08.htm#fr_66) When a new emperor
+<span id="fn_65"></span>[126:2](gen08.htm#fr_66.md) When a new emperor
 succeeded, two virgins, chosen from the royal princesses, were sent—one
 to the Shinto temple at Ise, the other to the same temple at Kamo—to
 become vestals, and superintend the services.
 
-<span id="fn_66"></span>[129:3](gen08.htm#fr_67) From a Chinese poem
+<span id="fn_66"></span>[129:3](gen08.htm#fr_67.md) From a Chinese poem
 about poor people "night advancing, snow and hail fly white around.
 Youth with its body uncovered, and the aged with chilly pain, grief and
 cold come together, and make them both sob."
 
-<span id="fn_67"></span>[129:4](gen08.htm#fr_68) A play upon the word
+<span id="fn_67"></span>[129:4](gen08.htm#fr_68.md) A play upon the word
 "hana," which means a nose, as well as a flower.
 
-<span id="fn_68"></span>[132:5](gen08.htm#fr_69) An old custom in Japan
+<span id="fn_68"></span>[132:5](gen08.htm#fr_69.md) An old custom in Japan
 for girls when married, or even betrothed, is to blacken their teeth.
 This custom, how. ever, is rapidly disappearing.
 
-<span id="fn_69"></span>[133:6](gen08.htm#fr_70) I an old tale it is
+<span id="fn_69"></span>[133:6](gen08.htm#fr_70.md) I an old tale it is
 stated that this man had a sweetheart. He often pretended to be weeping,
 and made his eyes moist by using the water which he kept in his bottle
 for mixing ink, in order to deceive her. She discovered this ruse; so
@@ -843,6 +843,6 @@ don't show your blackened face to strangers."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Maple Fete](gen09)
+[Next: Chapter VII: Maple Fete](gen09.md)
 
 </div>

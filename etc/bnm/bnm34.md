@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm33)  [Next](bnm35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm33)  [Next](bnm35.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ emeralds that are now on the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Evergreen Trees Never Lose Their Leaves.](bnm35)
+[Next: Why The Evergreen Trees Never Lose Their Leaves.](bnm35.md)

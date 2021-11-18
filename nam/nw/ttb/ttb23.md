@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb22)  [Next](ttb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb22)  [Next](ttb24.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 <span id="page_36">p. 36</span>
 
 <span id="img_03600"></span> ![Property Woman, or Great
-Grandmother](img/03600.jpg)
+Grandmother](img/03600.jpg.md)
 
 ### "PROPERTY WOMAN OR GREAT GRANDMOTHER"
 
@@ -49,4 +49,4 @@ although she belongs to the Raven People.
 
 ------------------------------------------------------------------------
 
-[Next: Slag’ame, the Butterfly](ttb24)
+[Next: Slag’ame, the Butterfly](ttb24.md)

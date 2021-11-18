@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa50)  [Next](psa52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa50)  [Next](psa52.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 ### CHAPTER L.
 
 SHREE SHOOKDEO, the sage, said,--O lord of the earth! when Shree
-[Krishnù](errata.htm#6) Jee heard these words of Akroor, he sent him off
+[Krishnù](errata.htm#6.md) Jee heard these words of Akroor, he sent him off
 to bring intelligence of Pandoo. After travelling from Muttra some days
 in his ruth, he reached Hustinapoor; and, on arrival there, went to the
 court of the Raja Doorjodhun, who was sitting on his throne, and, having
@@ -118,4 +118,4 @@ lord of Dwarka.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LI](psa52)
+[Next: Chapter LI](psa52.md)

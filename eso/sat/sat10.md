@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat09)  [Next](sat11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat09)  [Next](sat11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -33,11 +33,11 @@ consist in two things, viz. in the lubet, and then in the desire; the
 lubet is a free will, and as a nothing in comparison to nature; but the
 desire is as a hunger: In the desire arises the moving spirit, viz. the
 natural, and in the lubet the supernatural, which yet is nature's, <span
-id="fr_75"></span>[1](#fn_75) but not out of its own property, but out
+id="fr_75"></span>[1](#fn_75.md) but not out of its own property, but out
 of \[or from\] the property of the desire.
 
 2\. The desire is the instigation of the essence, viz. an hunger, and
-the lubet is the hunger's essence, <span id="fr_76"></span>[2](#fn_76)
+the lubet is the hunger's essence, <span id="fr_76"></span>[2](#fn_76.md)
 which it takes into itself; for the desire is only an hungry will, and
 it is the natural spirit in its forms; but the lubet is out of the
 liberty: For God is without desire as concerning his own essence,
@@ -69,7 +69,7 @@ and the free lubet remains yet a free will in itself, but gives its
 meekness, viz. a free resignation into the desire, that it comes to
 essence and lustre: Its will is only good, it has no other desire but
 only to be good, meek, and pleasant; there is also no other possibility
-therein; for it <span id="fr_77"></span>[1](#fn_77) is as a nothing,
+therein; for it <span id="fr_77"></span>[1](#fn_77.md) is as a nothing,
 wherein no disturbance or source can be, but it is the meekness itself.
 
 5\. But seeing it cannot be a nothing, by reason that it is a cause and
@@ -91,7 +91,7 @@ oil. Thus a twofold property arises in one only spirit, viz. a fiery
 \[property\] according to the property of the desire, and a joyful or
 lucid property according to the liberty.
 
-7\. The fiery gives <span id="fr_78"></span>[2](#fn_78) in its essence,
+7\. The fiery gives <span id="fr_78"></span>[2](#fn_78.md) in its essence,
 viz. in its water a sharpness from the austere desire, which is saltish,
 or a salt; and from the fiery anguish a brimstone, from whence in the
 *impression* and creation of the world, are made stones, earth, and
@@ -101,7 +101,7 @@ love-lubet, wherein the fiery is impressed with the desire, and makes
 corporality: And the oleous gives itself out in its meekness, and makes
 the vegetable life, viz. a springing and growing in the fiery
 impression, whereinto the fire must give its essence and instigation,
-viz. the vehement compunction <span id="fr_79"></span>[3](#fn_79) in the
+viz. the vehement compunction <span id="fr_79"></span>[3](#fn_79.md) in the
 attraction of the desire, which is the separator in the corporality,
 viz. the distinguisher, carver, and cause of the essence and
 multiplicity \[or variety\].
@@ -120,14 +120,14 @@ now the love-lubet would not be manifest, if it remained one in the
 stillness without essence, and there would be no joy or moving therein,
 but an eternal stillness.
 
-10\. But seeing <span id="fr_80"></span>[1](#fn_80) he introduces
+10\. But seeing <span id="fr_80"></span>[1](#fn_80.md) he introduces
 himself into essence through the desire, his eternal stillness becomes
 an essence and working power, and that with two properties, viz. in an
 oil, in which the working power is a good spirit according to the
 property of the love-lubet, which resists the desire's wrath in the
 brimstone, salt, and poisonful Mercury, and appeases and heals his
 poisonful hunger with the pleasant meekness; that which Mercury destroys
-with the raging sphere <span id="fr_81"></span>[2](#fn_81) of his own
+with the raging sphere <span id="fr_81"></span>[2](#fn_81.md) of his own
 property, that the lubet of the love-oil does again heal: And thus there
 is good and evil in each life, and yet there is no evil in anything,
 unless the good, viz. the love-oil famishes in its own lubet, which
@@ -210,14 +210,14 @@ in the watery \[property\] a sand, or stony nature, from whence the
 stones have their original; understand out of the sulphureous, viz. out
 of the brimstone's water.
 
-18\. The other property, as to <span id="fr_82"></span>[1](#fn_82) the
+18\. The other property, as to <span id="fr_82"></span>[1](#fn_82.md) the
 mortification in the salnitral flagrat, is the common running water; the
 other corporeal \[water\] is the metalline body from the free lubet's
 property in the impressed form; and from the watery property (where the
 brimstone is in the water) it produces trees, herbs, and all whatever
 grows in the earthly property, viz. in the mortified or dead
 substantiality, which yet has a life without sense, <span
-id="fr_83"></span>[2](#fn_83) viz. a vegetative.
+id="fr_83"></span>[2](#fn_83.md) viz. a vegetative.
 
 19\. The oily property is also twofold according to the impression; viz.
 one part forces again into the liberty to be free from the wrath of the
@@ -274,7 +274,7 @@ dry poison, etc.
 he cannot cure any sickness or disease, unless he hits on it by chance,
 if he knows not wherewith the oil is poisoned in the body, and what kind
 of hunger Mercury has in the sickness, and after what he hungers; for if
-he may obtain <span id="fr_84"></span>[1](#fn_84) the salt according to
+he may obtain <span id="fr_84"></span>[1](#fn_84.md) the salt according to
 the property of his hunger (after which he is desirous) with such an oil
 as he fain would have, then is the sickness over very soon; for he turns
 his oil again into the property of the love of the light, whereupon the
@@ -302,7 +302,7 @@ and also the fire, extinguishes, and Mercury
 
 with the sulphureous spirit departs from it, as when a candle is put
 out; thus Mercury passes out with the sulphureous spirit in death's
-baneful steam, <span id="fr_85"></span>[1](#fn_85) until he also be
+baneful steam, <span id="fr_85"></span>[1](#fn_85.md) until he also be
 famished; for a time he may help himself in the sidereal body, which
 passes along with it; but when Mercury in the spirit of the great world
 has consumed and starved its property, then is the temporal life wholly
@@ -331,7 +331,7 @@ forth that which has fallen into it in death.
 
 28\. The physician is to know, that in the strongest Mercury, which is
 most poisonful, the highest tincture lies, but not in Mercury's own
-property, which must be broken; <span id="fr_86"></span>[2](#fn_86) for
+property, which must be broken; <span id="fr_86"></span>[2](#fn_86.md) for
 his own property, even from the centre, is the anxious poisonful life:
 But he has another property in him, viz. an oil from the light, whereby
 he is so strong and potent, which is his food and preservation; if this
@@ -350,7 +350,7 @@ separated from them; for all life, both external and internal, consists
 in poison and light, as we understand, that the wrath and anger-fire of
 God is a cause of the divine joyfulness: The like also we are to know is
 externally; for all life that is void of the poisonful Mercury is mort,
-and an abominate, <span id="fr_87"></span>[1](#fn_87) and accounted as
+and an abominate, <span id="fr_87"></span>[1](#fn_87.md) and accounted as
 dead.
 
 30\. Now Mercury is an enkindler of the fire, and every moving life
@@ -369,35 +369,35 @@ the oleous.
 
 ### Footnotes
 
-<span id="fn_75"></span>[48:1](sat10.htm#fr_75) Of or belonging to
+<span id="fn_75"></span>[48:1](sat10.htm#fr_75.md) Of or belonging to
 nature.
 
-<span id="fn_76"></span>[48:2](sat10.htm#fr_76) Being, materia, or food.
+<span id="fn_76"></span>[48:2](sat10.htm#fr_76.md) Being, materia, or food.
 
-<span id="fn_77"></span>[49:1](sat10.htm#fr_77) Understand the free
+<span id="fn_77"></span>[49:1](sat10.htm#fr_77.md) Understand the free
 will.
 
-<span id="fn_78"></span>[49:2](sat10.htm#fr_78) Affords, produces, or
+<span id="fn_78"></span>[49:2](sat10.htm#fr_78.md) Affords, produces, or
 makes.
 
-<span id="fn_79"></span>[49:3](sat10.htm#fr_79) Or raging sting.
+<span id="fn_79"></span>[49:3](sat10.htm#fr_79.md) Or raging sting.
 
-<span id="fn_80"></span>[50:1](sat10.htm#fr_80) Or when.
+<span id="fn_80"></span>[50:1](sat10.htm#fr_80.md) Or when.
 
-<span id="fn_81"></span>[50:2](sat10.htm#fr_81) Or furious wheel.
+<span id="fn_81"></span>[50:2](sat10.htm#fr_81.md) Or furious wheel.
 
-<span id="fn_82"></span>[52:1](sat10.htm#fr_82) According to, or after.
+<span id="fn_82"></span>[52:1](sat10.htm#fr_82.md) According to, or after.
 
-<span id="fn_83"></span>[52:2](sat10.htm#fr_83) Dumb.
+<span id="fn_83"></span>[52:2](sat10.htm#fr_83.md) Dumb.
 
-<span id="fn_84"></span>[53:1](sat10.htm#fr_84) Can but get.
+<span id="fn_84"></span>[53:1](sat10.htm#fr_84.md) Can but get.
 
-<span id="fn_85"></span>[54:1](sat10.htm#fr_85) Sting.
+<span id="fn_85"></span>[54:1](sat10.htm#fr_85.md) Sting.
 
-<span id="fn_86"></span>[54:2](sat10.htm#fr_86) Or taken from him.
+<span id="fn_86"></span>[54:2](sat10.htm#fr_86.md) Or taken from him.
 
-<span id="fn_87"></span>[55:1](sat10.htm#fr_87) Or loathsomeness.
+<span id="fn_87"></span>[55:1](sat10.htm#fr_87.md) Or loathsomeness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](sat11)
+[Next: Chapter VII](sat11.md)

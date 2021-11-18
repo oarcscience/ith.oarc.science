@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits057) [Next](bits059)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits057) [Next](bits059.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ the thoughts? Passion is abandoned.
 
 ------------------------------------------------------------------------
 
-[Next: § 59. The Thirty-one Grades of Being](bits059)
+[Next: § 59. The Thirty-one Grades of Being](bits059.md)
 
  
 

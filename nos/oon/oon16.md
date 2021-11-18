@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon15)  [Next](oon17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon15)  [Next](oon17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -28,8 +28,8 @@ pertaining to this period in the Centuries of Nostradamus is that of:
 
 Century I.--*Quatrain* 57. \[I. 173.\]
 
-Par <span id="fr_242"></span>[1](#fn_241) grand discord la terre <span
-id="fr_243"></span>[2](#fn_242) tremblera,  
+Par <span id="fr_242"></span>[1](#fn_241.md) grand discord la terre <span
+id="fr_243"></span>[2](#fn_242.md) tremblera,  
 Accord rompu dressant la teste au ciel,  
 Bouche sanglante dans le sang nagera,  
 Au sol la face ointe de laict et miel.
@@ -249,14 +249,14 @@ Nostradamus.
 
 Century IX.--*Quatrain* 34. \[I. 177.\]
 
-Le part <span id="fr_244"></span>[1](#fn_243) solus, <span
-id="fr_245"></span>[2](#fn_244) Mary <span
-id="fr_246"></span>[3](#fn_245) sera mitré  
+Le part <span id="fr_244"></span>[1](#fn_243.md) solus, <span
+id="fr_245"></span>[2](#fn_244.md) Mary <span
+id="fr_246"></span>[3](#fn_245.md) sera mitré  
 Retour: conflict passera sur le thuille,  
-Par cinq cents: un trahyr <span id="fr_247"></span>[4](#fn_246) sera
+Par cinq cents: un trahyr <span id="fr_247"></span>[4](#fn_246.md) sera
 tittré  
-Narbon: et Saulce par coutaux <span id="fr_248"></span>[5](#fn_247)
-avons <span id="fr_249"></span>[6](#fn_248) d'huille.
+Narbon: et Saulce par coutaux <span id="fr_248"></span>[5](#fn_247.md)
+avons <span id="fr_249"></span>[6](#fn_248.md) d'huille.
 
 Translation.
 
@@ -562,7 +562,7 @@ Century VIII.--*Quatrain* 87. \[I. 179.\]
 Mort conspirée viendra en plein effect,  
 Charge donnée et voyage de mort:  
 Esleu, créé, receu par siens, deffait.  
-Sang d'innocent devant soy par <span id="fr_250"></span>[1](#fn_249)
+Sang d'innocent devant soy par <span id="fr_250"></span>[1](#fn_249.md)
 remort.
 
 Translation.
@@ -581,12 +581,12 @@ said "His blood be upon us, and on our children" (Matt. xxvii. 25).
 
 Century X.--*Quatrain* 43. \[I. 180.\]
 
-Le trop bon temps, <span id="fr_251"></span>[2](#fn_250) trop de bonté
+Le trop bon temps, <span id="fr_251"></span>[2](#fn_250.md) trop de bonté
 royale,  
 Fais et deffais, prompt, subit, negligence,  
-Legier <span id="fr_252"></span>[3](#fn_251) croira faux d'espouse
+Legier <span id="fr_252"></span>[3](#fn_251.md) croira faux d'espouse
 loyalle,  
-Luy mis à mort par <span id="fr_253"></span>[4](#fn_252) sa benevolence.
+Luy mis à mort par <span id="fr_253"></span>[4](#fn_252.md) sa benevolence.
 
  
 
@@ -644,13 +644,13 @@ it now LOUIS *mis à mort*.
 
 Century VI.--*Quatrain* 92. \[I. 182.\]
 
-Prince de beauté tant <span id="fr_254"></span>[1](#fn_253)
-venuste, <span id="fr_255"></span>[2](#fn_254)  
-An chef menée, le second faict, <span id="fr_256"></span>[3](#fn_255)
+Prince de beauté tant <span id="fr_254"></span>[1](#fn_253.md)
+venuste, <span id="fr_255"></span>[2](#fn_254.md)  
+An chef menée, le second faict, <span id="fr_256"></span>[3](#fn_255.md)
 trahy.  
-La cité an glaive de poudre face <span id="fr_257"></span>[4](#fn_256)
-aduste, <span id="fr_258"></span>[5](#fn_257)  
-Par trop grand meurtre la chef <span id="fr_259"></span>[6](#fn_258) du
+La cité an glaive de poudre face <span id="fr_257"></span>[4](#fn_256.md)
+aduste, <span id="fr_258"></span>[5](#fn_257.md)  
+Par trop grand meurtre la chef <span id="fr_259"></span>[6](#fn_258.md) du
 Roi hay.
 
 Translation.
@@ -678,7 +678,7 @@ and wish to obliterate the traces of the murder perpetrated.
 
 The body and head of the King were placed in a basket of wicker-work,
 and carried, according to De Montgaillard ("Histoire de France," iii. p.
-415. janvier, 1793 <span id="fr_260"></span>[1](#fn_259)) to the
+415. janvier, 1793 <span id="fr_260"></span>[1](#fn_259).md) to the
 cemetery of the Madeleine, and thrown into a trench twelve feet deep,
 which had been spread with quicklime; more was thrown in upon the top of
 the body, so that decomposition would follow instantly. When the grave
@@ -718,7 +718,7 @@ oracular sage of Salon.
 
 Century X.--*Quatrain* 17. \[I. 184.\]
 
-La Royne Ergaste <span id="fr_261"></span>[1](#fn_260) voyant sa fille
+La Royne Ergaste <span id="fr_261"></span>[1](#fn_260.md) voyant sa fille
 blesme  
 Par un regret dans l'estomach enclos:  
 Cris lamentables seront lors d'Angolesme,  
@@ -748,10 +748,10 @@ at stake.
 
 Century IX.--*Quatrain* 77. \[I. 185.\]
 
-Le regne prins <span id="fr_262"></span>[1](#fn_261) le Roy convicra,  
+Le regne prins <span id="fr_262"></span>[1](#fn_261.md) le Roy convicra,  
 La dame prinse à mort jurés à sort,  
 La vie a Royne fils on desniera,  
-Et la pellix <span id="fr_263"></span>[2](#fn_262) au fort de la
+Et la pellix <span id="fr_263"></span>[2](#fn_262.md) au fort de la
 consort.
 
 Pierre Rigaud's edition reads *conjurera* for *convicra*, and that, at
@@ -872,8 +872,8 @@ Century I.--*Quatrain* 58. \[I. 187.\]
 
 Tranché le ventre naistra avec deux testes  
 Et quatre bras: quelques ans entiers vivra,  
-Jour qui <span id="fr_264"></span>[1](#fn_263) Alquiloye <span
-id="fr_265"></span>[2](#fn_264) celebrera ses festes,  
+Jour qui <span id="fr_264"></span>[1](#fn_263.md) Alquiloye <span
+id="fr_265"></span>[2](#fn_264.md) celebrera ses festes,  
 Fossen, Turin, chef Ferrare suivra.
 
  
@@ -959,67 +959,67 @@ upon a single reign, from any one book existing in the world.
 
 ### Footnotes
 
-<span id="fn_241"></span>[211:1](oon16.htm#fr_242) *Par* = *per*, Latin,
+<span id="fn_241"></span>[211:1](oon16.htm#fr_242.md) *Par* = *per*, Latin,
 by reason of.
 
-<span id="fn_242"></span>[211:2](oon16.htm#fr_243) A variant is
+<span id="fn_242"></span>[211:2](oon16.htm#fr_243.md) A variant is
 *trombe*. We are told that the modern commentators find in this word the
 anagram of Rome, by syncope of *t* and *b*. So you might in *rompu*, by
 substitution of *e* for *p* and the ellision of u. But as no good comes
 of doing either, I should suggest to leave them alone.
 
-<span id="fn_243"></span>[217:1](oon16.htm#fr_244) *Le part* is the same
+<span id="fn_243"></span>[217:1](oon16.htm#fr_244.md) *Le part* is the same
 word as in the last quatrain, and stands here for the husband.
 
-<span id="fn_244"></span>[217:2](oon16.htm#fr_245) *Solus*, Latin for
+<span id="fn_244"></span>[217:2](oon16.htm#fr_245.md) *Solus*, Latin for
 *seul*.
 
-<span id="fn_245"></span>[217:3](oon16.htm#fr_246) *Mary*, or *marri*,
+<span id="fn_245"></span>[217:3](oon16.htm#fr_246.md) *Mary*, or *marri*,
 is from the old word *Marrir*, *s'affliger*, and means afflicted, full
 of grief.
 
-<span id="fn_246"></span>[217:4](oon16.htm#fr_247) *Trahyr*. *Trahitor*,
+<span id="fn_246"></span>[217:4](oon16.htm#fr_247.md) *Trahyr*. *Trahitor*,
 *trahiter*, from Latin *traditor* = *traitre*, English traitor.
 
-<span id="fn_247"></span>[217:5](oon16.htm#fr_248) *Coutaux* M. Le
+<span id="fn_247"></span>[217:5](oon16.htm#fr_248.md) *Coutaux* M. Le
 Pelletier takes as soldiers. *Par coutaux* = *per custodes*. They
 betrayed him into the hands of guards. I think it may also mean
 *coustiller*, a soldier armed with the coustille, a short, straight
 cutlass.
 
-<span id="fn_248"></span>[217:6](oon16.htm#fr_249) *Avons* = *avus*,
+<span id="fn_248"></span>[217:6](oon16.htm#fr_249.md) *Avons* = *avus*,
 grandfather.
 
-<span id="fn_249"></span>[226:1](oon16.htm#fr_250) A variant reads
+<span id="fn_249"></span>[226:1](oon16.htm#fr_250.md) A variant reads
 *pour*.
 
-<span id="fn_250"></span>[226:2](oon16.htm#fr_251) Construe Trop de bon
+<span id="fn_250"></span>[226:2](oon16.htm#fr_251.md) Construe Trop de bon
 temps.
 
-<span id="fn_251"></span>[226:3](oon16.htm#fr_252) Legier, for
+<span id="fn_251"></span>[226:3](oon16.htm#fr_252.md) Legier, for
 légèrement. Romance language.
 
-<span id="fn_252"></span>[226:4](oon16.htm#fr_253) Par, for Latin *per*,
+<span id="fn_252"></span>[226:4](oon16.htm#fr_253.md) Par, for Latin *per*,
 because of.
 
-<span id="fn_253"></span>[228:1](oon16.htm#fr_254) *Tantum*, Latin,
+<span id="fn_253"></span>[228:1](oon16.htm#fr_254.md) *Tantum*, Latin,
 very.
 
-<span id="fn_254"></span>[228:2](oon16.htm#fr_255) *Venustus*, Latin,
+<span id="fn_254"></span>[228:2](oon16.htm#fr_255.md) *Venustus*, Latin,
 comely.
 
-<span id="fn_255"></span>[228:3](oon16.htm#fr_256) *Faict*, Latin,
+<span id="fn_255"></span>[228:3](oon16.htm#fr_256.md) *Faict*, Latin,
 *factus* made.
 
-<span id="fn_256"></span>[228:4](oon16.htm#fr_257) *Face*, Latin, *fax*
+<span id="fn_256"></span>[228:4](oon16.htm#fr_257.md) *Face*, Latin, *fax*
 torch.
 
-<span id="fn_257"></span>[228:5](oon16.htm#fr_258) *Aduste*, Latin,
+<span id="fn_257"></span>[228:5](oon16.htm#fr_258.md) *Aduste*, Latin,
 *adustus* burnt.
 
-<span id="fn_258"></span>[228:6](oon16.htm#fr_259) *Chef*, head.
+<span id="fn_258"></span>[228:6](oon16.htm#fr_259.md) *Chef*, head.
 
-<span id="fn_259"></span>[229:1](oon16.htm#fr_260) Le corps et la tête
+<span id="fn_259"></span>[229:1](oon16.htm#fr_260.md) Le corps et la tête
 placés dans un panier d'osier sont à l'instant même portés an cimetière
 de la Madelaine, jetés aussitôt dans une fosse profonde de douze pieds,
 ouverte de six, garnie et reconvene de chaux vive, et dissous
@@ -1027,7 +1027,7 @@ immédiatement. On l'inhume auprès des personnes qui avaient péri le 20
 mai, 1770, jour de la fête donnée par la ville de Paris, à l'occasion de
 son mariage, et auprès des Suisses morts dans la journée du 10 août."
 
-<span id="fn_260"></span>[230:1](oon16.htm#fr_261) *Ergaste* is
+<span id="fn_260"></span>[230:1](oon16.htm#fr_261.md) *Ergaste* is
 *estrange* in Pierre Rigaud's edition. Ἐργαστήρ is a workman, and M. le
 Pelletier says *Ergaster* is Latin. It may be, but I do not find it in
 Facciolati, though *ergastulum*, a workhouse, is there given. When Marie
@@ -1037,18 +1037,18 @@ like a workwoman (*ergaste*). But *ergaste* is the anagram of
 preferable reading, inasmuch as Marie Antoinette was an Austrian, and so
 *étrangère*.
 
-<span id="fn_261"></span>[231:1](oon16.htm#fr_262) *Prins*, Latin,
+<span id="fn_261"></span>[231:1](oon16.htm#fr_262.md) *Prins*, Latin,
 *prensus*, taken, captive.
 
-<span id="fn_262"></span>[231:2](oon16.htm#fr_263) *Pellix*, Latin,
+<span id="fn_262"></span>[231:2](oon16.htm#fr_263.md) *Pellix*, Latin,
 *pellex*, prostitute.
 
-<span id="fn_263"></span>[234:1](oon16.htm#fr_264) Qui = Latin *cui*, to
+<span id="fn_263"></span>[234:1](oon16.htm#fr_264.md) Qui = Latin *cui*, to
 which.
 
-<span id="fn_264"></span>[234:2](oon16.htm#fr_265) Alquiloye = *Aquilæ
+<span id="fn_264"></span>[234:2](oon16.htm#fr_265.md) Alquiloye = *Aquilæ
 lex*, law or rule of the Imperial Eagle.
 
 ------------------------------------------------------------------------
 
-[Next: The National Convention](oon17)
+[Next: The National Convention](oon17.md)

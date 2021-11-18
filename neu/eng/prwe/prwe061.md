@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe060)  [Next](prwe062) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe060)  [Next](prwe062.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ phenomenon.
 
 ------------------------------------------------------------------------
 
-[Next: The Mermaid of Seaton](prwe062)
+[Next: The Mermaid of Seaton](prwe062.md)

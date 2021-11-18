@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot11) 
-[Next](bot13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot11.md) 
+[Next](bot13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ golden case was replaced by a leathern pouch, with contents of similar
 virtue.
 
 It was a common practice to wear on the Bulla some grotesque object (see
-Illustration No. 106, [Plate VIII](#img_pl08))
+Illustration No. 106, [Plate VIII](#img_pl08).md)
 
 <span id="page_87">p. 87</span>
 
@@ -68,12 +68,12 @@ in the vineyards, to protect them from blight and witchcraft, a practice
 still to be seen in Italy at the present time, and presumably this was
 the origin of the Pine Cones which surmount the gateways at the
 entrances of some of the carriage drives of old country seats (see
-Illustration No. 117, [Plate VIII](#img_pl08)); it also survives as an
+Illustration No. 117, [Plate VIII](#img_pl08).md); it also survives as an
 ornament to the spikes of iron railings enclosing the grounds of
 old-fashioned houses on the outskirts of many of our provincial towns.
 
 <span class="smallcaps">The Frog</span> (Illustration No. 119, [Plate
-VIII](#img_pl08)) is a symbol of Aphrodite, the goddess of love born
+VIII](#img_pl08).md) is a symbol of Aphrodite, the goddess of love born
 from the foam of the sea. In Rome a special
 
 <span id="page_88">p. 88</span>
@@ -119,7 +119,7 @@ metal) and have heart-shaped handles, implying, it is thought by some
 writers, that the affections must be prudently guarded. The key was also
 attributed to Hecate Proserpine, who was the guardian of the underworld
 and could release the spirits of the departed. The key (Illustration No.
-110, [Plate VIII](#img_pl08)) is shown attached to a finger ring, which
+110, [Plate VIII](#img_pl08).md) is shown attached to a finger ring, which
 was a very popular form of its use.
 
 <span class="smallcaps">Grylli</span>, or Chimeræ, were grotesque
@@ -154,7 +154,7 @@ unmistakably conveying to him their protective virtues."
 <span id="page_91">p. 91</span>
 
 <span class="smallcaps">The Caduceus</span>, the wand of Mercury
-(Illustration No. 105, [Plate VIII](#img_pl08)), was considered an
+(Illustration No. 105, [Plate VIII](#img_pl08).md), was considered an
 extremely efficient Talisman, being worn to render its possessor wise
 and persuasive, to attract Health and Youthfulness, as well as to
 protect from the Evil Eye.
@@ -219,7 +219,7 @@ was transmitted to its wearer.
 <span class="smallcaps">The Hand</span>, aptly described by Aristotle as
 the "Tool of Tools," was used in many forms as a Talisman against
 fascination, and similar specimens to Illustration No. 109, [Plate
-VIII](#img_pl08) have been found in early Etruscan tombs, dating back
+VIII](#img_pl08.md) have been found in early Etruscan tombs, dating back
 about 800 <span class="smallcaps">B.C.</span> This particular form, the
 thumb placed between the first and second fingers with the hand clenched
 and pointing downwards, was considered an infallible protection against
@@ -249,7 +249,7 @@ it against every evil influence of magic
 
 <span id="img_pl08"></span> <span align="CENTER"> [![PLATE 8. ETRUSCAN,
 GREEK, ROMAN, AND ORIENTAL TALISMANS.](tn/pl08.jpg)  
-Click to enlarge](img/pl08.jpg)  
+Click to enlarge](img/pl08.jpg.md)  
 PLATE 8. ETRUSCAN, GREEK, ROMAN, AND ORIENTAL TALISMANS.  
 </span>
 
@@ -299,6 +299,6 @@ thought to trace in the ashes the initials of the lover's name.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](bot13)
+[Next: Chapter X](bot13.md)
 
 </div>

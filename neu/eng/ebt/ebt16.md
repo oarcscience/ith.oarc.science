@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt15)  [Next](ebt17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt15)  [Next](ebt17.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ one of which an interment was found, and in another
 
 <span id="page_21">p. 21</span>
 
-\[paragraph continues\] ([Plate XIV](ebt26.htm#img_pl14).) the Club at
+\[paragraph continues\] ([Plate XIV](ebt26.htm#img_pl14)..md) the Club at
 its visit saw the bases of two masonry columns of Roman construction,
 the use of which seemed a mystery. I feel certain they were columns
 built by Roman surveyors for exact sighting.
@@ -45,4 +45,4 @@ over them.
 
 ------------------------------------------------------------------------
 
-[Next: Churches](ebt17)
+[Next: Churches](ebt17.md)

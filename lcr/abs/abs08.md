@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs07)  [Next](abs09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs07)  [Next](abs09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -224,7 +224,7 @@ A somewhat more colorful story was told by a well-known old Amerindian
 "medicine man" named Frank Dan. (This I reproduce by the kind permission
 of Mr. J. W. Burns.) This, he says, occurred in July, 1936 along Morris
 Creek, a small tributary of the Harrison River (see [Map
-II)](abs07.htm#img_map02). J. W. Burns writes of Frank's story:
+II)](abs07.htm#img_map02.md). J. W. Burns writes of Frank's story:
 
 <div style="font-family: Helvetica, Arial, Geneva, sans-serif">
 
@@ -416,7 +416,7 @@ themselves just about at the bottom rung of the cultural ladder, call
 their local *Orang Pendeks* and *Orang* *Gadangs* by a name that denotes
 "wild men." The Malays of the same country, however, call even the
 *Mias* (their great ape), the Orang-utan (i.e. "hutan" <span
-id="fr_8"></span>[\*](#fn_8)), which simply mean wild (*utan*) man
+id="fr_8"></span>[\*](#fn_8)), which simply mean wild (*utan*.md) man
 (*orang*) . The Amerinds of our Northwest insist that the *Sasquatches*
 are very lowly forms of men, so lowly that they, Amerinds, do not want
 to associate with them in any way; preferring not to talk about them and
@@ -627,7 +627,7 @@ then, and I never saw it again.
 
 I wanted to find out if it lived on vegetation entirely or ate meat as
 well, so I went down and looked for signs. I found it <span
-id="fr_9"></span>[\*](#fn_9) in five different places, and although I
+id="fr_9"></span>[\*](#fn_9.md) in five different places, and although I
 examined it thoroughly, could find no hair or shells or bugs or insects.
 So I believe it was strictly a vegetarian.
 
@@ -720,14 +720,14 @@ anything about them. Suddenly they took over the front pages.
 
 ### Footnotes
 
-<span id="fn_8"></span>[74:\*](abs08.htm#fr_8) This is the correct
+<span id="fn_8"></span>[74:\*](abs08.htm#fr_8.md) This is the correct
 spelling in Malay, and "orang" really means "person," not "man."—Author.
 
-<span id="fn_9"></span>[78:\*](abs08.htm#fr_9) \[I add here the
+<span id="fn_9"></span>[78:\*](abs08.htm#fr_9.md) \[I add here the
 following note that I presume he is referring there to droppings or
 faeces of this animal of which he says he found evidence in five
 different places.\]
 
 ------------------------------------------------------------------------
 
-[Next: 5. Footprints on the Sands of …](abs09)
+[Next: 5. Footprints on the Sands of …](abs09.md)

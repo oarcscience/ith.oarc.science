@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](bal02)  [Next](bal04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](bal02)  [Next](bal04.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Kiriwina go from time to time. In Tuma and the adjoining islands turtle
 shell and the large white cowrie shells (*Ovulum ovum*) are very
 plentiful; in fact, this small island is the main source of those
 important articles of decoration for the northern and eastern villages
-of Kiriwina. [22](bal09.htm#xref_22) Therefore Tuma is often visited by
+of Kiriwina. [22](bal09.htm#xref_22.md) Therefore Tuma is often visited by
 men from the main island.
 
 All my informants from Omarakana and the neighboring villages knew Tuma
@@ -73,7 +73,7 @@ through the mediation of those
 
 privileged people who visit in their own person the land of the dead.
 Professor Seligman writes: "There are individuals who say that they have
-visited Tuma and returned to the upper world." [23](bal09.htm#xref_23)
+visited Tuma and returned to the upper world." [23](bal09.htm#xref_23.md)
 Such people are by no means rare, and are of both sexes, though, of
 course, they differ vastly in renown. In Omarakana, the village where I
 was living, the most renowned person of this sort was a woman,
@@ -91,7 +91,7 @@ and returned my questions with half-hearted and obvious answers. I was
 strongly under the impression that they were unable to give any detailed
 statements, and that all they knew was told by them to everybody, and
 was thus public property. Such public property was the song above
-mentioned, [24](bal09.htm#xref_24) and also personal messages from
+mentioned, [24](bal09.htm#xref_24.md) and also personal messages from
 various spirits to their families. Bwoilagesi--with whom I talked once
 on this subject in the presence of her son, Tukulubakiki, one of the
 most friendly, decent and intelligent natives I met-stated that she
@@ -276,7 +276,7 @@ strike a man if it is like a shadow?" the more intelligent replied more
 or less to the effect: "Well the *baloma* and the *kosi* are like the
 reflection and like the shadow, but they are also like men, and they
 behave all the same as men do." And it was difficult to argue with
-them. [25](bal09.htm#xref_25) The less intelligent or less patient
+them. [25](bal09.htm#xref_25.md) The less intelligent or less patient
 informants were inclined to shrug their shoulders over such questions;
 others, again, would obviously become interested in the speculations,
 and produce extempore opinions, and ask your view, and just enter into a
@@ -409,12 +409,12 @@ Reincarnation). The majority reject this theory, and say that there is
 only one tier of nether world, which agrees with Professor Seligman's
 statement: "The spirits of the dead do not stay in the upper world with
 the living, but descend into the other world below the
-earth." [26](bal09.htm#xref_26) Again, this view of an underground Tuma
+earth." [26](bal09.htm#xref_26.md) Again, this view of an underground Tuma
 seems to harmonize better with the prevalent idea on Kiriwina that the
 first human beings emerged from holes in the ground. Professor Seligman
 even obtained the account that "the world was originally colonized from
 Tuma, men and women being sent to the upper world by Topileta, who
-himself stopped underground." [27](bal09.htm#xref_27) That I did not
+himself stopped underground." [27](bal09.htm#xref_27.md) That I did not
 come across this statement is not astonishing in consideration of the
 great diversity of views on certain matters, the nature of Tuma and its
 relation to the world of the living being one of them. Seligman's
@@ -424,4 +424,4 @@ dogmatically settled in native belief.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](bal04)
+[Next: Chapter IV](bal04.md)

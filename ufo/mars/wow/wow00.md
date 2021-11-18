@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Next](wow01) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Next](wow01.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ KEPLER (quoted in The Anatomy of Melancholy)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One: The Eve of the War](wow01)
+[Next: Chapter One: The Eve of the War](wow01.md)

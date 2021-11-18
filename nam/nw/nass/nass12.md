@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass11)  [Next](nass13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass11)  [Next](nass13.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ feed. Then the three men ran down. They did not take any clubs, but just
 took the birds and twisted off their necks. They did so and accomplished
 a great deal. Not one of the men was dead, but they killed a great many
 birds. Then the people were glad. They are called
-G\*ilg\*inā'm<u>g</u>an. <span id="fr_6"></span>[1](#fn_6) The three men
+G\*ilg\*inā'm<u>g</u>an. <span id="fr_6"></span>[1](#fn_6.md) The three men
 had killed almost one-half of the birds. The birds came there for one
 month. Then they left. Now the people resolved to take pity on the three
 men. They did so, and sent them back to their own town. They returned,
@@ -131,7 +131,7 @@ and that is the end.
 
 ### Footnotes
 
-<span id="fn_6"></span>[115:1](nass12.htm#fr_6) The Kawkiutl have the
+<span id="fn_6"></span>[115:1](nass12.htm#fr_6.md) The Kawkiutl have the
 same legend. They call the tribe of dwarfs G\*ing\*inā'nEmis, i.e.,
 children of the sea. The Tsimshian name is evidently a phonetic
 distortion of the Kawkiutl word, so that it seems probable that this
@@ -142,4 +142,4 @@ pp. 88, 192).
 
 ------------------------------------------------------------------------
 
-[Next: Smoke-hole](nass13)
+[Next: Smoke-hole](nass13.md)

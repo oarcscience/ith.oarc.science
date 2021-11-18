@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl142)  [Next](cohl144) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl142)  [Next](cohl144.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_86">p. 86</span>
 
-## THE WHITE DOG SACRIFICE <span id="fr_99"></span>[1](#fn_99)
+## THE WHITE DOG SACRIFICE <span id="fr_99"></span>[1](#fn_99.md)
 
 A preliminary translation of the ceremonial prayer at the burning of the
 white dog at the Seneca Indian new year's ceremony (February).
@@ -409,10 +409,10 @@ Oh you who were born of Earth!
 
 ### Footnotes
 
-<span id="fn_99"></span>[86:1](cohl143.htm#fr_99) Recorded February
+<span id="fn_99"></span>[86:1](cohl143.htm#fr_99.md) Recorded February
 1906, at Cattaraugus reservation.
 
 ------------------------------------------------------------------------
 
 [Next: Ne Ganeowo: One of the four sacred ceremonies of the
-Seneca](cohl144)
+Seneca](cohl144.md)

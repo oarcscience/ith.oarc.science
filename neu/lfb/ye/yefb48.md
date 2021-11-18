@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb47)  [Next](yefb49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb47)  [Next](yefb49.md) 
 
 </div>
 
@@ -199,6 +199,6 @@ cinder.
 
 ------------------------------------------------------------------------
 
-[Next: Blockhead-Hans](yefb49)
+[Next: Blockhead-Hans](yefb49.md)
 
 </div>

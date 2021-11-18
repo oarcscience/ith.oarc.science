@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb55)  [Next](wfb57) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb55)  [Next](wfb57.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ withered leaves.
 
 ------------------------------------------------------------------------
 
-[Next: Six and Four are Ten](wfb57)
+[Next: Six and Four are Ten](wfb57.md)

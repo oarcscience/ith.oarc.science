@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hud00)  [Next](hud02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hud00)  [Next](hud02.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ by fire(Al-Baqara:266).
 
 ------------------------------------------------------------------------
 
-[Next: Anti-Critiscism or Imagination](hud02)
+[Next: Anti-Critiscism or Imagination](hud02.md)

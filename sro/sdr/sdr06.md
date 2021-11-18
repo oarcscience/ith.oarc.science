@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr05)  [Next](sdr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr05)  [Next](sdr07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ In this Fourth Aphorism of Creation, the Rosicrucian is directed to
 apply his attention to the concept of the World Soul—the First
 Manifestation of the Eternal Parent—as a One Manifesting as Many; a
 Unity manifesting as Diversity; an Identical manifesting as Variety:
-yet, [notwithstanding](errata.htm#4) such manifestations, remaining ever
+yet, [notwithstanding](errata.htm#4.md) such manifestations, remaining ever
 One, Unity, and Identical.
 
 This concept of the World Soul, so manifesting itself in Manifoldness,
@@ -59,7 +59,7 @@ theological. Hidden
 
 <span id="img_fig08"></span> <span align="CENTER"> [![Figure 8. Symbol
 of the Many in the One](tn/fig08.jpg)  
-Click to enlarge](img/fig08.jpg)  
+Click to enlarge](img/fig08.jpg.md)  
 Figure 8. Symbol of the Many in the One  
 </span>
 
@@ -141,7 +141,7 @@ all occultists and scientists know full well.
 Modern Science, in pursuing its discoveries along the lines of
 Evolution, has almost entirely ignored the twin-activity of
 Manifestation, which is known as Involution. Not so the ancient
-[occultists](errata.htm#5), however, for they knew full well the truth
+[occultists](errata.htm#5.md), however, for they knew full well the truth
 so forcibly expressed in the words of a modern "plain speaking"
 philosopher who said: "You can never get out of a thing anything which
 is not already involved in it." And to the ancient student of the
@@ -191,7 +191,7 @@ movement of Evolution began to manifest itself. And, at this precise
 point, there was begun the manifestation of what may be termed
 "individualization," or the forming of centres of activity and
 consciousness. The World Soul descended into the depth of Involution [en
-masse](errata.htm#6), and then began to emerge from those depths by an
+masse](errata.htm#6.md), and then began to emerge from those depths by an
 apparent "splitting up" process, in which the active new-born centres of
 activity began to assert themselves and to move upward toward
 self-expression. The simpler centres which occultists know to be the
@@ -283,4 +283,4 @@ self-expression.
 
 ------------------------------------------------------------------------
 
-[Next: Part VI. The Universal Flame of Life](sdr07)
+[Next: Part VI. The Universal Flame of Life](sdr07.md)

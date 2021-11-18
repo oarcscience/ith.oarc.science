@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca14)  [Next](fsca16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca14)  [Next](fsca16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ id="img_07100"></span>
 
 |                                                                  |
 |------------------------------------------------------------------|
-| ![The Dragon of the Apocalypse. By Albert Dürer.](img/07100.jpg) |
+| ![The Dragon of the Apocalypse. By Albert Dürer.](img/07100.jpg.md) |
 
 vision, "there appeared another wonder in heaven; and behold a great red
 dragon, having seven heads, and ten horns, and seven crowns upon his
@@ -123,7 +123,7 @@ St. Margaret is the patron<span id="img_07300"></span>
 
 |                                                       |
 |-------------------------------------------------------|
-| ![St. Margaret. From ancient carving.](img/07300.jpg) |
+| ![St. Margaret. From ancient carving.](img/07300.jpg.md) |
 
 saint of the borough of <span class="smallcaps">Lynn Regis</span>, and
 on the old corporation seal she is represented standing on a dragon and
@@ -149,4 +149,4 @@ legends say he burst asunder.
 
 ------------------------------------------------------------------------
 
-[Next: St. George and the Dragon](fsca16)
+[Next: St. George and the Dragon](fsca16.md)

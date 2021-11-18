@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe082)  [Next](prwe084) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe082)  [Next](prwe084.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ rock or the tympanum of man.
 
 ------------------------------------------------------------------------
 
-[Next: Lost Lands](prwe084)
+[Next: Lost Lands](prwe084.md)

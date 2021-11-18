@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth044)  [Next](toth046) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth044)  [Next](toth046.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_151">p. 151</span>
 
-## 42. THE BLIND MAN AND THE LAME MAN. <span id="fr_104"></span>[1](#fn_102)
+## 42. THE BLIND MAN AND THE LAME MAN. <span id="fr_104"></span>[1](#fn_102.md)
 
 A long time ago there was an earthquake at Oraíbi. It was a very nice
 day; people had eaten their breakfast as usual, and were happy. Then
@@ -105,9 +105,9 @@ brought the people back they would never have returned.
 
 ### Footnotes
 
-<span id="fn_102"></span>[151:1](toth045.htm#fr_104) Told by Qöyáwaima
+<span id="fn_102"></span>[151:1](toth045.htm#fr_104.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 43. Big Head And Goat Horn](toth046)
+[Next: 43. Big Head And Goat Horn](toth046.md)

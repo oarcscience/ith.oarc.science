@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl39)  [Next](hpl41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl39)  [Next](hpl41.md) 
 
 ------------------------------------------------------------------------
 
@@ -306,4 +306,4 @@ common musty odours are in even the best of ancient farmhouses.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](hpl41)
+[Next: Chapter 7](hpl41.md)

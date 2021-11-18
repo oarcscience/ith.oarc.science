@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi272)  [Next](mtsi274) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi272)  [Next](mtsi274.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ any hominy this time," he thought, and ran off.
 When the hominy was cooked he would not eat any, and from that she knew
 that he had seen her. She said, "If you think I am filthy, your kinfolks
 are alive--your grandmother, your aunt, your uncle, your second
-father, <span id="fr_74"></span>[1](#fn_73) your elder brother, your
+father, <span id="fr_74"></span>[1](#fn_73.md) your elder brother, your
 sister, your mother, and your father. I took you from them, but now that
 you think I am filthy you may go back. But I will provide for you before
 you go. First you must kill me and then burn down the house and reduce
@@ -193,9 +193,9 @@ nothing with him and so they let him go.
 
 ### Footnotes
 
-<span id="fn_73"></span>[231:1](mtsi273.htm#fr_74) I. e., paternal
+<span id="fn_73"></span>[231:1](mtsi273.htm#fr_74.md) I. e., paternal
 uncle.
 
 ------------------------------------------------------------------------
 
-[Next: 9. The Panther Child](mtsi274)
+[Next: 9. The Panther Child](mtsi274.md)

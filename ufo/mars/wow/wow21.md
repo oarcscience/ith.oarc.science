@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow20)  [Next](wow22) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow20)  [Next](wow22.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ before I ventured so far from my security.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five: The Stillness](wow22)
+[Next: Chapter Five: The Stillness](wow22.md)

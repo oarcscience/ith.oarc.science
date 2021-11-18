@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](oph00)  [Next](oph02) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](oph00)  [Next](oph02.md) 
 
 ------------------------------------------------------------------------
 
@@ -344,4 +344,4 @@ ample memorials, by which they may be clearly traced out.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](oph02)
+[Next: Chapter 2](oph02.md)

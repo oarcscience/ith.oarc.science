@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits069) [Next](bits071)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits069) [Next](bits071.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Ignorance is abandoned.
 
 ------------------------------------------------------------------------
 
-[Next: § 71. The Summum Bonum](bits071)
+[Next: § 71. The Summum Bonum](bits071.md)
 
  
 

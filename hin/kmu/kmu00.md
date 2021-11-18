@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Next](kmu01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Next](kmu01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -52,13 +52,13 @@ To My Mother
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_chart"></span> <span align="CENTER"> [![Six Chakras of
 Yoga with Petals and Deity Symbols](tn/chart.jpg)  
-Click to enlarge](img/chart.jpg)  
+Click to enlarge](img/chart.jpg.md)  
 Six Chakras of Yoga with Petals and Deity Symbols  
 </span>
 
@@ -83,4 +83,4 @@ Sahasrara is Above All and is called, the One Thousand Petalled Lotus.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](kmu01)
+[Next: Contents](kmu01.md)

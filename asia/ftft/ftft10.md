@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft09)  [Next](ftft11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft09)  [Next](ftft11.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_58">p. 58</span>
 
-<span id="img_05800"></span> ![The Wizard-Dervish](img/05800.jpg)
+<span id="img_05800"></span> ![The Wizard-Dervish](img/05800.jpg.md)
 
 <span id="img_ainit"></span>
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 LONG time ago lived a Padishah who had no son. <span
 id="img_05801"></span>
@@ -46,7 +46,7 @@ celebrated throughout his dominions.<span id="img_05900"></span>
 
 |                                                   |
 |---------------------------------------------------|
-| ![The Dervish flogged him soundly](img/05900.jpg) |
+| ![The Dervish flogged him soundly](img/05900.jpg.md) |
 
 When the boy was five years old a tutor was appointed to teach him
 reading and writing. In his thirteenth year he began to take walks and
@@ -86,7 +86,7 @@ id="img_06000"></span>
 
 |                                                                            |
 |----------------------------------------------------------------------------|
-| ![''Did a youth and a maiden pass this way?'' she inquired](img/06000.jpg) |
+| ![''Did a youth and a maiden pass this way?'' she inquired](img/06000.jpg.md) |
 
 When the youth was out walking one day the dove came to him and said:
 "Take this bird and hide it. When my father asks which of the three
@@ -104,7 +104,7 @@ bird was set free and alighted on the maiden who had instructed
 <span id="img_06001"></span>
 
 [![](tn/06001.jpg)  
-Click to enlarge](img/06001.jpg)
+Click to enlarge](img/06001.jpg.md)
 
 <span id="page_61">p. 61</span>
 
@@ -128,7 +128,7 @@ herself and became a maiden once more.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HEY now walked on. The woman turning back and seeing them together,
 hastened to overtake them. The maiden also turned round and saw her
@@ -162,7 +162,7 @@ id="img_06200"></span>
 
 |                                                            |
 |------------------------------------------------------------|
-| ![''Faithless one'' she said reproachfully](img/06200.jpg) |
+| ![''Faithless one'' she said reproachfully](img/06200.jpg.md) |
 
 Wandering onward they came at length to the birthplace of the youth,
 where they entered an inn. Then said he to the maiden: "Remain here
@@ -195,4 +195,4 @@ festivities lasted forty days and forty nights.
 
 ------------------------------------------------------------------------
 
-[Next: The Fish-Peri](ftft11)
+[Next: The Fish-Peri](ftft11.md)

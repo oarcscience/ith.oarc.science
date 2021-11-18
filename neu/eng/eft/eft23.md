@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft22)  [Next](eft24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft22)  [Next](eft24.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ be a king's house: so Molly went in, and told her story to the king.
  
 
 <span id="img_023"></span> [![](tn/023.jpg)  
-Click to enlarge](img/023.jpg)
+Click to enlarge](img/023.jpg.md)
 
  
 
@@ -132,4 +132,4 @@ son, and she never saw the giant again.
 
 ------------------------------------------------------------------------
 
-[Next: The Red Ettin](eft24)
+[Next: The Red Ettin](eft24.md)

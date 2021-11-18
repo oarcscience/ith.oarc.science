@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku27)  [Next](tku29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku27)  [Next](tku29.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ Days!"
 ------------------------------------------------------------------------
 
 [Next: Chapter XXI: Concerning the Tenth and Eleventh Part of the Beard
-of Macroprosopus](tku29)
+of Macroprosopus](tku29.md)

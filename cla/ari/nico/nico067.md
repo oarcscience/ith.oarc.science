@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico066) 
-[Next](nico068) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico066.md) 
+[Next](nico068.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ because it issues orders about all the affairs of the state.
 ------------------------------------------------------------------------
 
 [Next: Chapter 1. Six varieties of character: method of treatment:
-current opinions](nico068)
+current opinions](nico068.md)

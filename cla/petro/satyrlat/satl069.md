@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXIX) 
-[Previous](satl068)  [Next](satl070) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXIX.md) 
+[Previous](satl068)  [Next](satl070.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ imaginem fieri".
 
 ------------------------------------------------------------------------
 
-[Next: LXX](satl070)
+[Next: LXX](satl070.md)

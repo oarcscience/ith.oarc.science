@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic31)  [Next](tic33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic31)  [Next](tic33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ perishing around them; although on the one hand they have strong hopes
 of not being themselves among the number of the lost, yet remembering
 what we are told in Holy Scripture of the fate of men who, like Solomon,
 seemed the special favourites of God <span
-id="fr_436"></span>[1](#fn_436) and conversed so familiarly with His
+id="fr_436"></span>[1](#fn_436.md) and conversed so familiarly with His
 Majesty, they cannot help fearing for themselves.
 
 5\. Let that one among you who feels most confidence on this point fear
@@ -76,7 +76,7 @@ the most, for: 'Blessed
 <span id="page_288">p. 288</span>
 
 is the man who feareth the Lord,' as David said. <span
-id="fr_437"></span>[2](#fn_437) May His Majesty ever protect us. Let us
+id="fr_437"></span>[2](#fn_437.md) May His Majesty ever protect us. Let us
 beg Him never to permit us to offend Him: therein lies our greatest
 safety. May He be for ever praised. Amen.
 
@@ -93,7 +93,7 @@ our weakness so that we may imitate Him by suffering much.
 7\. We always find that those nearest to Christ our Lord bear the
 heaviest cross: think of what His glorious Mother and the Apostles bore.
 How do you think St. Paul went through such immense labours? <span
-id="fr_438"></span>[3](#fn_438) We learn from his conduct the fruits of
+id="fr_438"></span>[3](#fn_438.md) We learn from his conduct the fruits of
 genuine visions and contemplation which come from our Lord and not from
 our own imagination, or the devil's fraud. Do you suppose that St. Paul
 hid himself to enjoy these spiritual consolations at
@@ -102,12 +102,12 @@ hid himself to enjoy these spiritual consolations at
 
 leisure and did nothing else? You know that he never took a day's rest
 so far as we can learn, nor could he have slept much since he worked all
-night to get his living. <span id="fr_439"></span>[4](#fn_439)
+night to get his living. <span id="fr_439"></span>[4](#fn_439.md)
 
 8\. I am delighted with St. Peter, who when fleeing from prison was met
 by our Lord, Who told him He was going to Rome to be crucified again. I
 never recite the Office in which this is commemorated without feeling a
-special joy. <span id="fr_440"></span>[5](#fn_440) What effect did this
+special joy. <span id="fr_440"></span>[5](#fn_440.md) What effect did this
 vision have on St. Peter, and what did he do? He went at once to meet
 his death--and our Lord did him no small favour in finding him an
 executioner!
@@ -157,7 +157,7 @@ cross. Since they have given Him their freedom, He can sell
 them as slaves to the whole world, as He was, which would be doing them
 no wrong but the greatest favour. Unless you make up your minds to this,
 never expect to make much progress, <span
-id="fr_441"></span>[6](#fn_441) for as I said humility is the foundation
+id="fr_441"></span>[6](#fn_441.md) for as I said humility is the foundation
 of the whole building and unless you are truly humble, our Lord, for
 your own sake, will never permit you to rear it very high lest it should
 fall to the ground.
@@ -190,13 +190,13 @@ means God used to advance it to this state.
 
 15\. Besides, the company it enjoys gives it far greater strength than
 ever before. If, as David says: 'With the holy thou shalt be
-holy,' <span id="fr_442"></span>[7](#fn_442) doubtless by its becoming
+holy,' <span id="fr_442"></span>[7](#fn_442.md) doubtless by its becoming
 one with the Almighty, by this sovereign union of spirit with spirit,
 the soul must gather strength, as we know the saints did, to suffer and
 to die. Beyond doubt, with the force thus gained, the soul succours all
 within the castle and even the very body itself, which often seems to
 have no feeling left in it. The vigour the soul derives from 'the wine'
-drunk in the 'cellar' <span id="fr_443"></span>[8](#fn_443) (into which
+drunk in the 'cellar' <span id="fr_443"></span>[8](#fn_443.md) (into which
 the Bridegroom brought her and would not let her go) overflows into the
 feeble body, just as the food we eat nourishes both the head and the
 whole frame.
@@ -206,14 +206,14 @@ does, the soul has energy for far greater tasks and goads it on to more,
 for all it can perform appears as nothing. This must be the reason of
 the severe penances performed by many of the saints, especially the
 glorious Magdalen, who had always spent her life in luxury. <span
-id="fr_444"></span>[9](#fn_444) This
+id="fr_444"></span>[9](#fn_444.md) This
 
 <span id="page_293">p. 293</span>
 
 caused the zeal felt by our Father Elias for the honour of God, <span
-id="fr_445"></span>[10](#fn_445) and the desires of St. Dominic, <span
-id="fr_446"></span>[11](#fn_446) and St. Francis <span
-id="fr_447"></span>[12](#fn_447) to draw souls to praise the Almighty. I
+id="fr_445"></span>[10](#fn_445.md) and the desires of St. Dominic, <span
+id="fr_446"></span>[11](#fn_446.md) and St. Francis <span
+id="fr_447"></span>[12](#fn_447.md) to draw souls to praise the Almighty. I
 assure you that, forgetful of themselves, they must have passed through
 no small trials.
 
@@ -230,12 +230,12 @@ How can Mary do this
 <span id="page_294">p. 294</span>
 
 while she sits at His feet, if her sister does not help her? <span
-id="fr_448"></span>[13](#fn_448)
+id="fr_448"></span>[13](#fn_448.md)
 
 18\. His food is that in every possible way we should draw souls to Him
 so that they may be saved and may praise Him for ever. You may offer two
 objections--first, that I said that Mary had chosen the better
-part, <span id="fr_449"></span>[14](#fn_449) for she had already done
+part, <span id="fr_449"></span>[14](#fn_449.md) for she had already done
 Martha's work by waiting on our Lord, by washing His feet and by wiping
 them with her hair.
 
@@ -243,7 +243,7 @@ them with her hair.
 she was, to go through the street, perhaps by herself, for in her zeal
 she never thought of how she went? Then she entered a house where she
 was a stranger and had to bear the railing of the Pharisee and many
-other trials. <span id="fr_450"></span>[15](#fn_450) It was strange to
+other trials. <span id="fr_450"></span>[15](#fn_450.md) It was strange to
 see such a woman as she had been thus publicly change her life. With a
 wicked nation like the Jews, the sight of her love for our Lord Whom
 they hated so bitterly was enough to make them cast in her face her
@@ -260,9 +260,9 @@ Master have been an intolerable trial? Then, think of what she
 
 endured afterwards at our Lord's death! I believe, myself, that she did
 not suffer martyrdom because she was already a martyr by grief at
-witnessing the crucifixion. <span id="fr_451"></span>[16](#fn_451) Then
+witnessing the crucifixion. <span id="fr_451"></span>[16](#fn_451.md) Then
 what terrible pain His absence must have caused her <span
-id="fr_452"></span>[17](#fn_452) during the long years afterwards! You
+id="fr_452"></span>[17](#fn_452.md) during the long years afterwards! You
 see, she was not always enjoying contemplation at the feet of our
 Saviour!
 
@@ -273,7 +273,7 @@ often written an answer to this objection though I cannot tell whether I
 have done so in connection with the Castle. However, as the difficulty
 probably often crosses your minds on account of the desires our Lord
 gives you of serving Him, I will now speak of it again. <span
-id="fr_453"></span>[18](#fn_453) I told you elsewhere how the devil
+id="fr_453"></span>[18](#fn_453.md) I told you elsewhere how the devil
 frequently fills our thoughts with great schemes, so that instead of
 putting our hands to what work we can do to serve our Lord, we may rest
 satisfied with wishing to perform impossibilities.
@@ -295,7 +295,7 @@ won Him many souls. Do you answer: 'This would not be converting my
 sisters, for they are very good already?' What business is that of
 yours? If they were still better, the praise they render God would
 please Him more and their prayers would be more helpful to their
-neighbours. <span id="fr_454"></span>[19](#fn_454)
+neighbours. <span id="fr_454"></span>[19](#fn_454.md)
 
 23\. In short, my sisters, I will conclude with this advice; do not
 build towers without a foundation, for our Lord does not care so much
@@ -323,12 +323,12 @@ poor sinner in your prayers.
 
 ### Footnotes
 
-<span id="fn_436"></span>[287:1](tic32.htm#fr_436) III. Reg. xi.
+<span id="fn_436"></span>[287:1](tic32.htm#fr_436.md) III. Reg. xi.
 
-<span id="fn_437"></span>[288:2](tic32.htm#fr_437) Ps. cxi. 1. 'Beatus
+<span id="fn_437"></span>[288:2](tic32.htm#fr_437.md) Ps. cxi. 1. 'Beatus
 vir qui timet Dominum.'
 
-<span id="fn_438"></span>[288:3](tic32.htm#fr_438) Though thou shouldst
+<span id="fn_438"></span>[288:3](tic32.htm#fr_438.md) Though thou shouldst
 have been rapt up to the third heaven with Saint Paul, thou art not
 thereby secured that thou shalt suffer no adversity. 'I,' said Jesus,
 'will shew him how great things he must suffer for My name's sake'
@@ -338,9 +338,9 @@ advancement of our state consist not in having many sweetnesses and
 consolations, but rather in bearing great afflictions and tribulations'
 (Imitation, bk. ii. ch. xii. 12).
 
-<span id="fn_439"></span>[289:4](tic32.htm#fr_439) i Thess. ii. 9.
+<span id="fn_439"></span>[289:4](tic32.htm#fr_439.md) i Thess. ii. 9.
 
-<span id="fn_440"></span>[289:5](tic32.htm#fr_440) The Antiphon of the
+<span id="fn_440"></span>[289:5](tic32.htm#fr_440.md) The Antiphon of the
 Magnificat at first Vespers of the Feast of Saints Peter and Paul, June
 29, in the Carmelite Breviary used by St. Teresa is: 'Beatus Petrus
 Apostolus vidit sibi Christum occurrere. Adorans eum ait: "Domine, quo
@@ -350,26 +350,26 @@ going?"--"I go to Rome to be crucified anew." The saint at once returned
 to Rome and was taken by the soldiers and crucified. See *Letter* of
 Jan. 17. 1577, note 4. Vol. II.
 
-<span id="fn_441"></span>[291:6](tic32.htm#fr_441) "If thou wilt stand
+<span id="fn_441"></span>[291:6](tic32.htm#fr_441.md) "If thou wilt stand
 upon self and wilt not offer thyself freely to My will, thine offering
 is not perfect, nor will there be entire union between us.'
 (*Imitation*, bk. iv. ch. viii. 2.)
 
-<span id="fn_442"></span>[292:7](tic32.htm#fr_442) Ps. xvii. 26: 'Cum
+<span id="fn_442"></span>[292:7](tic32.htm#fr_442.md) Ps. xvii. 26: 'Cum
 sancto sanctus eris.'
 
-<span id="fn_443"></span>[292:8](tic32.htm#fr_443) Cant. ii. 4.
+<span id="fn_443"></span>[292:8](tic32.htm#fr_443.md) Cant. ii. 4.
 
-<span id="fn_444"></span>[292:9](tic32.htm#fr_444) 'St. Mary Magdalen
+<span id="fn_444"></span>[292:9](tic32.htm#fr_444.md) 'St. Mary Magdalen
 gave herself up to penance and contemplation in a deep excavation of the
 rocks at La Baume, near Marseilles. In this wild spot there was neither
 bread, water, nor even herbage. Thus she lived for more than thirty-two
 years without any kind of nourishment but that which was celestial,
 performing meanwhile most severe penances.' (St. Vincent Ferrer.)
 
-<span id="fn_445"></span>[293:10](tic32.htm#fr_445) III Reg. xix. 10.
+<span id="fn_445"></span>[293:10](tic32.htm#fr_445.md) III Reg. xix. 10.
 
-<span id="fn_446"></span>[293:11](tic32.htm#fr_446) 'There was one
+<span id="fn_446"></span>[293:11](tic32.htm#fr_446.md) 'There was one
 sentiment within him to which may almost be given the name of passion:
 it was his ceaseless burning thirst for the salvation of souls. As his
 Divine Master had come into the world to save sinners and loved them
@@ -381,7 +381,7 @@ himself neither by day nor by night, if by any means he might save
 some.' (From the *History of St. Dominic*, by Augusta Theodosia Drane.
 London, 1891, p. 256).
 
-<span id="fn_447"></span>[293:12](tic32.htm#fr_447) 'St. Francis of
+<span id="fn_447"></span>[293:12](tic32.htm#fr_447.md) 'St. Francis of
 Assisi, at the very beginning of his Order, when he had only seven
 followers, said to them: "Consider, my brethren, what is our vocation.
 It is not only for our own salvation that the mercy of God has called
@@ -391,26 +391,26 @@ penance and keep the divine commands."' (*The Life of St. Francis of
 Assisi*, by a religious of the Order of Poor Clares, London, 1861, p.
 32).
 
-<span id="fn_448"></span>[294:13](tic32.htm#fr_448) St. Luke x. 39, 40.
+<span id="fn_448"></span>[294:13](tic32.htm#fr_448.md) St. Luke x. 39, 40.
 *Life*, ch. xvii. 6. *Rel*. viii. 6. *Way of Perf*. ch. xxxi. 4.
 *Concep*. ch. vii. 4.
 
-<span id="fn_449"></span>[294:14](tic32.htm#fr_449) *Ibid*. x. 42:
+<span id="fn_449"></span>[294:14](tic32.htm#fr_449.md) *Ibid*. x. 42:
 'Maria optimam partem elegit.'
 
-<span id="fn_450"></span>[294:15](tic32.htm#fr_450) *Ibid*. vii. 37.
+<span id="fn_450"></span>[294:15](tic32.htm#fr_450.md) *Ibid*. vii. 37.
 
-<span id="fn_451"></span>[295:16](tic32.htm#fr_451) Marginal note in the
+<span id="fn_451"></span>[295:16](tic32.htm#fr_451.md) Marginal note in the
 Saint's handwriting.
 
-<span id="fn_452"></span>[295:17](tic32.htm#fr_452) Life, ch. xxi. 9.
+<span id="fn_452"></span>[295:17](tic32.htm#fr_452.md) Life, ch. xxi. 9.
 
-<span id="fn_453"></span>[295:18](tic32.htm#fr_453) *Way of Perf*. ch,
+<span id="fn_453"></span>[295:18](tic32.htm#fr_453.md) *Way of Perf*. ch,
 i. 1. *Found*, ch. i, 6, 7. *Supra*, M. vi ch. vi, 2.
 
-<span id="fn_454"></span>[296:19](tic32.htm#fr_454) *Way of Perf*. ch.
+<span id="fn_454"></span>[296:19](tic32.htm#fr_454.md) *Way of Perf*. ch.
 vii. 7.
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](tic33)
+[Next: Epilogue](tic33.md)

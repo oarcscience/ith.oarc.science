@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ttt04)  [Next](ttt06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ttt04)  [Next](ttt06.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ invention is the monopoly of no one race.
 
 ------------------------------------------------------------------------
 
-[Next: Incidental features of Stories](ttt06)
+[Next: Incidental features of Stories](ttt06.md)

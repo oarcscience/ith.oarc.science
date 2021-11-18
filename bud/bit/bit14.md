@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit13)  [Next](bit15) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit13)  [Next](bit15.md) 
 
 ------------------------------------------------------------------------
 
@@ -834,4 +834,4 @@ be this sheet, that he may gain entire deliverance from his sins. This
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Tibetan Priesthood](bit15)
+[Next: Chapter XII. The Tibetan Priesthood](bit15.md)

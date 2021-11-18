@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt22)  [Next](egt24) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt22)  [Next](egt24.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ became the ornament and glory of this perishable world.
 
 ------------------------------------------------------------------------
 
-[Next: IN HIS MAGNIFICATION.](egt24)
+[Next: IN HIS MAGNIFICATION.](egt24.md)

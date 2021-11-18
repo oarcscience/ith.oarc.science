@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prpd)  [Next](prp01) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prpd)  [Next](prp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ gods.\]
 
 ------------------------------------------------------------------------
 
-[Next: 1. In play, Priapus (thou canst testify)](prp01)
+[Next: 1. In play, Priapus (thou canst testify)](prp01.md)

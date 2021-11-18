@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt39)  [Next](egt41) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt39)  [Next](egt41.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ desires the pure; the Knower of the hidden desires the dust.
 ------------------------------------------------------------------------
 
 [Next: ON HIS, OMNISCIENCE, AND HIS KNOWLEDGE OF THE MINDS OF
-MEN.](egt41)
+MEN.](egt41.md)

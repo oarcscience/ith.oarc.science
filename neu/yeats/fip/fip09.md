@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip08)  [Next](fip10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip08)  [Next](fip10.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ life.
 
 ------------------------------------------------------------------------
 
-[Next: Cusheen Loo, tr. by J. J. Callanan](fip10)
+[Next: Cusheen Loo, tr. by J. J. Callanan](fip10.md)

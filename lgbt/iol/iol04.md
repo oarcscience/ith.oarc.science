@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](iol03) 
-[Next](iol05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](iol03.md) 
+[Next](iol05.md) 
 
 ------------------------------------------------------------------------
 
@@ -496,7 +496,7 @@ Similarly erotic fancy in the case of noble souls causes a reflection of
 the memory from things which here appear and are called beautiful to
 what is really divine and lovely and felicitous and wonderful. But most
 lovers pursuing and groping after the semblance of beauty in youths and
-women, as in mirrors, <span id="fr_3"></span>[1](#fn_3) can derive
+women, as in mirrors, <span id="fr_3"></span>[1](#fn_3.md) can derive
 nothing more certain than pleasure mixed with pain. And this seems the
 love-delirium of Ixion, who instead of the joy he desired embraced only
 a cloud, as children who desire to take the rainbow into their hands,
@@ -618,11 +618,11 @@ Aelian's Varia Historia, vii, 8.
 
 ### Footnotes
 
-<span id="fn_3"></span>[55:1](iol04.htm#fr_3) "For now we see by means
+<span id="fn_3"></span>[55:1](iol04.htm#fr_3.md) "For now we see by means
 of a mirror darkly (lit. enigmatically); but then face to face; now I
 know in part; but then shall I know even as also I am known." 1 *Cor*.
 xiii. 12.
 
 ------------------------------------------------------------------------
 
-[Next: III. Poetry of Friendship Among Greeks and Romans](iol05)
+[Next: III. Poetry of Friendship Among Greeks and Romans](iol05.md)

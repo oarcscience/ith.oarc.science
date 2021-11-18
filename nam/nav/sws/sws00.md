@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Next](sws01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Next](sws01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Spider Woman*, by Gladys A. Reichard, \[1934\], at Intangible Textual
 Heritage
 
@@ -20,7 +20,7 @@ Heritage
 
 <span id="img_front"></span> <span align="CENTER"> [![A LOOM
 STANDS](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 A LOOM STANDS  
 </span>
 
@@ -40,7 +40,7 @@ There were four spindles; one a stick of zigzag lightning with a whorl
 of cannel coal; one a stick of flash lightning with a whorl of
 turquoise; a third had a stick of sheet lightning with a whorl of
 abalone; a rain streamer formed the stick of the fourth, and its whorl
-was [white](errata.htm#0) shell." (Navajo Legend)*
+was [white](errata.htm#0) shell." (Navajo Legend.md)*
 
 New York : Macmillan,
 
@@ -52,4 +52,4 @@ in a timely fashion.
 
 ------------------------------------------------------------------------
 
-[Next: Acknowledgments](sws01)
+[Next: Acknowledgments](sws01.md)

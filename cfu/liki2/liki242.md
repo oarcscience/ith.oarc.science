@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki241)  [Next](liki243) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki241)  [Next](liki243.md) 
 
 ------------------------------------------------------------------------
 
@@ -317,6 +317,6 @@ produces all things.
 
 ------------------------------------------------------------------------
 
-[Next: XLIII. Shê Î or The Meaning of the Ceremony of Archery](liki243)
+[Next: XLIII. Shê Î or The Meaning of the Ceremony of Archery](liki243.md)
 
   

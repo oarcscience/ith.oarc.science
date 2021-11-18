@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng13)  [Next](nblng15) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng13)  [Next](nblng15.md) 
 
 ------------------------------------------------------------------------
 
@@ -219,4 +219,4 @@ their being sent down the Rhine.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XIII: How They Journeyed To The Feasting.](nblng15)
+[Next: Adventure XIII: How They Journeyed To The Feasting.](nblng15.md)

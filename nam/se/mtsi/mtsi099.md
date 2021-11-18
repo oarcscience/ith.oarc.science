@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi098)  [Next](mtsi100) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi098)  [Next](mtsi100.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ This is the way they tell it.
 ------------------------------------------------------------------------
 
 [Next: 7. A Strange Turkey Catches People and Carries Them Up to the
-Sky](mtsi100)
+Sky](mtsi100.md)

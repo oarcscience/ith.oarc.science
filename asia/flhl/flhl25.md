@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl24)  [Next](flhl26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl24)  [Next](flhl26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Hanauer \[1907\], at Intangible Textual Heritage
 
 I
 
-P. [79](flhl15.htm#page_79). *Bâb el Khalìl*.--The western Gate of
+P. [79](flhl15.htm#page_79.md). *Bâb el Khalìl*.--The western Gate of
 Jerusalem, is called Bâb el Khalìl (the Gate of the Friend, *i.e.*
 Abraham), probably because it is that by which any one who is going to
 Hebron (El Khalìl) would leave the city. But an ornamental Arabic
@@ -35,7 +35,7 @@ David mentioned in the first section of this book. The present Zion Gate
 now called by the natives "Bâb en Nebi Daûd" (Gate of the prophet David)
 used then to be known as "The Gate of Zion," or "of the Jews' Quarter."
 
-P. [79](flhl15.htm#page_79). *’Isa ibn Maryam and El Messìh
+P. [79](flhl15.htm#page_79.md). *’Isa ibn Maryam and El Messìh
 ed-Dejjâl*.--The minds of Moslem theologians have been much exercised by
 the difficult task of reconciling these conflicting traditions with
 actual topography, especially as another Apocalyptic statement
@@ -59,7 +59,7 @@ me." As the Jordan is east, and Lydda west of
 <span class="contnote">\[paragraph continues\]</span> Jerusalem, the
 difficulty of reconciling these statements is obvious.
 
-P. [82](flhl15.htm#page_82). *Jeremiah's Grotto*.--Jeremiah's Grotto is
+P. [82](flhl15.htm#page_82.md). *Jeremiah's Grotto*.--Jeremiah's Grotto is
 so called from the belief that the book of "Lamentations" was composed
 and written there; while the sheer artificial precipice, at the foot of
 which it opens, is identified by modern Jewish legend as the
@@ -80,12 +80,12 @@ pointed out in connection with the death and burial of St Stephen.
 
 II
 
-P. [83](flhl15.htm#page_83). *Turbet Birket Mamilla*.--The great
+P. [83](flhl15.htm#page_83.md). *Turbet Birket Mamilla*.--The great
 Mohammedan cemetery bearing this name is situated about half a mile west
 of Jerusalem. Modern research has shown that in crusading times and long
 before, it was a Christian burial-ground, the last resting-place of the
 canons of the Church and Abbey of the Holy Sepulchre. <span
-id="fr_66"></span>[1](#fn_66) It is remarkable for a large pool or
+id="fr_66"></span>[1](#fn_66.md) It is remarkable for a large pool or
 birket called by Christian tradition the upper Pool of Gihon, by Jewish,
 Millo. In the cemetery itself, are the tombs of several distinguished
 Moslems, and, as might be expected, some interesting legends are
@@ -120,7 +120,7 @@ wild beast not only drove off all others which would have devoured the
 dead, but actually conveyed their corpses, one by one, to this cavern
 which was originally very deep, and had a hundred steps leading down
 into it, and laid them there reverently, side by side. <span
-id="fr_67"></span>[1](#fn_67) Several hundred years later St Mamilla
+id="fr_67"></span>[1](#fn_67.md) Several hundred years later St Mamilla
 erected a church on the spot, and there prayers used to be said daily
 for the repose of the souls of the martyrs buried in the cave. In
 connection with this story, it may be worthy of notice that in several
@@ -128,7 +128,7 @@ legends of Palestinian saints, lions figure in a remarkable manner. Thus
 St Jerome (died A.D. 410)) is, in mediæval art, very frequently
 represented in the company of a lion whose wounded paw the saint had
 healed in the desert of Chalcis, and who, in gratitude, became Jerome's
-faithful servant and protector. <span id="fr_68"></span>[2](#fn_68) In
+faithful servant and protector. <span id="fr_68"></span>[2](#fn_68.md) In
 like manner, visitors to the convent of Mar-Saba are shown the cave
 where the founder of that monastery took up his abode with a lion, the
 former tenant, and are gravely told that when the saint expressed
@@ -142,7 +142,7 @@ Church of the Holy Sepulchre, pilgrims admire a painting showing how a
 certain hermit, when on his way to visit the saint, found her dead, and
 a lion engaged in the pious task of burial.
 
-P. [85](flhl16.htm#page_85). *One kirât*.--"It is customary in the East
+P. [85](flhl16.htm#page_85.md). *One kirât*.--"It is customary in the East
 to measure everything by a standard of twenty-four kirâts. The kirât
 literally means an inch, or the twenty-fourth part of the dra'a or
 Arabic ell. The English expression "eighteen carats fine", for gold, is
@@ -157,16 +157,16 @@ the Pal. Exp. Q. Statement for 1891, p. 100, foot-note.)
 
 III
 
-P. [89](flhl16.htm#page_89). *En Nebi Daûd*.--Although it is only since
+P. [89](flhl16.htm#page_89.md). *En Nebi Daûd*.--Although it is only since
 the twelfth century that Jewish and Christian traditions <span
-id="fr_69"></span>[1](#fn_69) have located the
+id="fr_69"></span>[1](#fn_69.md) have located the
 
 <span id="page_133">p. 133</span>
 
 tomb of David at the spot situated outside the Zion Gate and known as
 the Coenaculum, or upper room where Christ instituted the Lord's Supper;
 it is only since A.D. 1560 that Mohammedans have recognised it as
-such. <span id="fr_70"></span>[1](#fn_70) Though, indeed, in 1479,
+such. <span id="fr_70"></span>[1](#fn_70.md) Though, indeed, in 1479,
 Tucher of Nuremberg found a mosque installed in the lower part of the
 building, which already contained what were shown as the tombs of David
 and Solomon and other Jewish kings; there is evidence that the Moslems
@@ -174,12 +174,12 @@ did not believe in the tradition, and they probably had the mosque
 there, in the first place, to be on terms of equality with the
 Christians, and in the next, because of their belief in the Coenaculum
 as the place where ’Isa ibn Maryam "miraculously caused a table to
-descend from Heaven." <span id="fr_71"></span>[2](#fn_71) As a matter of
+descend from Heaven." <span id="fr_71"></span>[2](#fn_71.md) As a matter of
 fact, we know, from the special statement of Mejr ed dìn (A.D. 1495),
 that in his day Mohammedans believed that both David and Solomon were
-buried near Gethsemane. <span id="fr_72"></span>[3](#fn_72) He indeed
+buried near Gethsemane. <span id="fr_72"></span>[3](#fn_72.md) He indeed
 mentions the Coenaculum, but only as the "Church of Zion." <span
-id="fr_73"></span>[4](#fn_73) The group of buildings connected therewith
+id="fr_73"></span>[4](#fn_73.md) The group of buildings connected therewith
 was originally erected as a convent for the Franciscans, and this order
 had its chief seat here from 1313 to 1561 A.D. They had been expelled
 from it before the later date, but had succeeded in regaining
@@ -204,19 +204,19 @@ has been in Moslem hands.
 
 IV
 
-P. [94](flhl18.htm#page_94). *Birket Israìl*.--This great pool, which
+P. [94](flhl18.htm#page_94.md). *Birket Israìl*.--This great pool, which
 twenty years ago, before the discovery of the Double-pools at St Anne's
 was made public, used to be pointed out as "the Pool of Bethesda"; is
 now being rapidly filled up with rubbish.
 
-P. [95](flhl18.htm#page_95). *Bridge at Lydda*--This bridge at Lydda was
+P. [95](flhl18.htm#page_95.md). *Bridge at Lydda*--This bridge at Lydda was
 built by the same Emìr of Ramleh who treacherously sent assassins to
 kill the crusading Heir-Apparent of England, the same who afterwards
 became Edward I.
 
 V
 
-P. [99](flhl18.htm#page_99). *Detective stories*.--A good many tales are
+P. [99](flhl18.htm#page_99.md). *Detective stories*.--A good many tales are
 current respecting the means used by specially gifted persons for the
 detection of criminals. Some of them remind one of the Biblical Story of
 Solomon and the two mothers (1 Kings iii.; v. 16 to end)) and also of
@@ -227,12 +227,12 @@ For two other and similar stories, versions of which are current in this
 country, see Dr Thomson's "The Land and the Book," edition of 1873, p.
 153.
 
-P. [100](flhl19.htm#page_100). *"Writing and using magic arts" on the
+P. [100](flhl19.htm#page_100.md). *"Writing and using magic arts" on the
 Sabbath*.--Rabbinnic ordinances permit one for the preservation of life,
 to cook on the Sabbath, or even to cat pork; but it is doubtful whether
 writing or the practice of magic is permissible.
 
-P. [101](flhl19.htm#page_101). *Burial of Kolonimos*.--It is no uncommon
+P. [101](flhl19.htm#page_101.md). *Burial of Kolonimos*.--It is no uncommon
 thing for very pious Jews to give orders that after their death, and by
 way of expiating sins committed during their lifetime, their bodies
 should be ill-treated. Some even direct that the four modes of capital
@@ -240,12 +240,12 @@ punishment ordered in the Law, viz., beheading, strangling, burning, and
 stoning, should be executed on their corpses. Others arrange that they
 are, after death, to have the "malkoth" or public scourging with forty
 stripes save one, inflicted upon them; whilst others again, as
-[in](errata.htm#4) the case of a lately deceased Grand-Rabbi of
+[in](errata.htm#4.md) the case of a lately deceased Grand-Rabbi of
 Jerusalem, give orders that their bodies shall be dragged along the path
 to their graves. In the case just mentioned, the bier on which the
 corpse was lying was so dragged for a short distance.
 
-P. [101](flhl19.htm#page_101). *Grave of Kolonimos*.--It is said that
+P. [101](flhl19.htm#page_101.md). *Grave of Kolonimos*.--It is said that
 the small cairn now shown as the tomb of Kolonimos, was thus formed, and
 that the last stone was thrown upon it during the early part of the
 nineteenth century. It is in the bed of the Kedron, a little south-west
@@ -296,7 +296,7 @@ confession of their guilt are in vogue at the present day.
 
 VI
 
-P. [106](flhl20.htm#page_106). *The people of Deyr es Sinneh*.--v. 128,
+P. [106](flhl20.htm#page_106.md). *The people of Deyr es Sinneh*.--v. 128,
 Josephus, Antig. xv. 10, 5; Wars, ii. 8, 6; Antig. xiii. 5, 9; xviii. 1,
 5, 6; xvii. 13, 3.
 
@@ -308,11 +308,11 @@ the Essenes, of whom mention is often made by Josephus, but of whom, as
 far as the writer is aware, no actual traces have as yet been
 discovered, except those of the cistern and baths above referred to.
 
-P. [108](flhl20.htm#page_108). *"The times of the infidels."*--This is
+P. [108](flhl20.htm#page_108.md). *"The times of the infidels."*--This is
 the way in which the Moslem peasants usually refer to the period when
 Palestine was under Christian rule.
 
-P. [109](flhl20.htm#page_109). *Tombs on the site of the present Greek
+P. [109](flhl20.htm#page_109.md). *Tombs on the site of the present Greek
 convent of St Onuphrius*.--Ecclesiastical tradition says that these
 tombs and the ruined mediæval building close by which covers a deep
 rock-hewn pit, mark the site of Aceldama. During the Middle Ages the
@@ -325,11 +325,11 @@ informed that "By order of the Empress Helena, two hundred and seventy
 ship-loads of it were translated to Rome and deposited in the Camp Santo
 near the Vatican, where it was wont to reject the bodies of the Romans
 and only consume those of strangers." <span
-id="fr_74"></span>[1](#fn_74)
+id="fr_74"></span>[1](#fn_74.md)
 
-P. [110](flhl20.htm#page_110). *Christians beyond Jordan in the time of
+P. [110](flhl20.htm#page_110.md). *Christians beyond Jordan in the time of
 the crusades*.--Baldwin I. tempted many of the Christians living beyond
-Jordan <span id="fr_75"></span>[1](#fn_74) to come and settle at
+Jordan <span id="fr_75"></span>[1](#fn_74.md) to come and settle at
 Jerusalem. They were granted special privileges and immunities, and in
 A.D. 1121, his successor passed a free-trade measure remitting all
 customary dues on articles of commerce. (Will Tyrensis, xii. xv.;
@@ -342,7 +342,7 @@ Sam. xxi. 10; xxvii., xxviii. I, 2).
 
 VII
 
-P. [120](flhl21.htm#page_120). *The judgements of Karakash*.--The
+P. [120](flhl21.htm#page_120.md). *The judgements of Karakash*.--The
 expression "This is one of the judgements of Karakash," is usual among
 the natives of Palestine, when a decision arrived at is hopelessly
 absurd, though based strictly upon the evidence in the case. It is said
@@ -362,7 +362,7 @@ remembered, may have originated in lampoons circulated by his enemies.
 (Bohaeddin's "Life of Saladin," P.E.F., Col. Conder's translation, p.
 107, foot-note, and also pp. 202, 209, 238, 260, 269.)
 
-P. [122](flhl21.htm#page_122). *"Hang the first short man you can
+P. [122](flhl21.htm#page_122.md). *"Hang the first short man you can
 find."*--In 1857, an American subject was murdered at Jaffa. The United
 States’ Government sent a man-of-war, the crime was investigated, and
 the supposed criminal hanged at the yard-arm of the vessel. However, to
@@ -372,7 +372,7 @@ sacrificed in his stead.
 
 IX
 
-P. [126](flhl22.htm#page_126). *Mohammed's "night-journey" from Mecca to
+P. [126](flhl22.htm#page_126.md). *Mohammed's "night-journey" from Mecca to
 Jerusalem*.--"From Jerusalem he is said to have been carried through the
 seven heavens into the presence of God, and brought back again to Mecca
 the same night." "It is a matter of dispute amongst Mohammedan divines,
@@ -390,7 +390,7 @@ entitled "The Night-Journey" (Chandos Classics, pp. 206, 207).
 
 X
 
-P. [127](flhl23.htm#page_127). *A sultan dreamt that all his teeth fell
+P. [127](flhl23.htm#page_127.md). *A sultan dreamt that all his teeth fell
 out*.--To dream that one has lost a single tooth is a fearful omen.
 Grown up people suffering with their teeth make vows, and
 
@@ -415,10 +415,10 @@ portal to the said Church.
 
 ### Footnotes
 
-<span id="fn_66"></span>[130:1](flhl25.htm#fr_66) See Professor Clermont
+<span id="fn_66"></span>[130:1](flhl25.htm#fr_66.md) See Professor Clermont
 Ganneau's "Archaeological Researches," vol. i. pp. 279-290.
 
-<span id="fn_67"></span>[131:1](flhl25.htm#fr_67) According to
+<span id="fn_67"></span>[131:1](flhl25.htm#fr_67.md) According to
 Williams'" Holy City," vol. i. p. 303, this legend is first mentioned by
 Eugesippus about A.D. 1120, and is introduced in order to account for
 the name by which the cavern was then known, namely "Caverna" or
@@ -431,10 +431,10 @@ Thomas; whilst a third version of the legend makes out that the corpses
 were buried by an aged woman and her female dog. Quite a different story
 is that the bodies buried in this cave were those of the Holy Innocents.
 
-<span id="fn_68"></span>[131:2](flhl25.htm#fr_68) See Prothero's "The
+<span id="fn_68"></span>[131:2](flhl25.htm#fr_68.md) See Prothero's "The
 Psalms in Human Life," p. 27.
 
-<span id="fn_69"></span>[132:1](flhl25.htm#fr_69) The following is the
+<span id="fn_69"></span>[132:1](flhl25.htm#fr_69.md) The following is the
 well-known story first told by Rabbi Benjamin of Tudela who visited
 Jerusalem soon after A.D. 1160: "On Mount Sion are the sepulchres of the
 house of David, and those of the kings who reigned after him. In
@@ -442,7 +442,7 @@ consequence of the following circumstance, however, this place is hardly
 to be recognised at present. Fifteen years ago one of the walls of the
 place of worship on Mount Sion fell down, which the Patriarch ordered
 the priest to repair. He commanded to take stones from the
-[original](errata.htm#3) wall of Sion, and to employ them for that
+[original](errata.htm#3.md) wall of Sion, and to employ them for that
 purpose, which command was obeyed. Two labourers, who were engaged in
 digging stones from the very foundation of the walls of Sion, happened
 to meet with one which formed the mouth of the cavern. They agreed to
@@ -467,21 +467,21 @@ up, so as to hide it effectually from every one to the present day. The
 above-mentioned Rabbi Abraham told me all this." (See Williams’ "Holy
 City," vol. ii. pp. 609, 510.)
 
-<span id="fn_70"></span>[133:1](flhl25.htm#fr_70) Robinson's "Biblical
+<span id="fn_70"></span>[133:1](flhl25.htm#fr_70.md) Robinson's "Biblical
 Researches," vol. i. p. 242, etc.
 
-<span id="fn_71"></span>[133:2](flhl25.htm#fr_71) "Uns el Jelìl," vol.
+<span id="fn_71"></span>[133:2](flhl25.htm#fr_71.md) "Uns el Jelìl," vol.
 i. p. 145. Cairo edition.
 
-<span id="fn_72"></span>[133:3](flhl25.htm#fr_72) "Uns el Jelìl," p. 105
+<span id="fn_72"></span>[133:3](flhl25.htm#fr_72.md) "Uns el Jelìl," p. 105
 and 131.
 
-<span id="fn_73"></span>[133:4](flhl25.htm#fr_73) "Uns el Jelìl," p.
+<span id="fn_73"></span>[133:4](flhl25.htm#fr_73.md) "Uns el Jelìl," p.
 402, vol. ii.
 
-<span id="fn_74"></span>[136:1](flhl25.htm#fr_75) Monroe, as quoted by
+<span id="fn_74"></span>[136:1](flhl25.htm#fr_75.md) Monroe, as quoted by
 Barclay, "City of the Great King," p. 208.
 
 ------------------------------------------------------------------------
 
-[Next: I. Folks Gentle and Simple](flhl26)
+[Next: I. Folks Gentle and Simple](flhl26.md)

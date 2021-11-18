@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt19)  [Next](trt21) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt19)  [Next](trt21.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ wind arose and drove it from their sight.
 
 ------------------------------------------------------------------------
 
-[Next: X: Sir Lancelot Meets Sir Galahad, and They Part For Ever](trt21)
+[Next: X: Sir Lancelot Meets Sir Galahad, and They Part For Ever](trt21.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq57)  [Next](sfq59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq57)  [Next](sfq59.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ Prince readily consented to do, and well he performed his work.
 
 ------------------------------------------------------------------------
 
-[Next: The Giant's Daughter](sfq59)
+[Next: The Giant's Daughter](sfq59.md)

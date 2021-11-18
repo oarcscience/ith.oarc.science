@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws50)  [Next](cws52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws50)  [Next](cws52.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XLVII
 
-#### CONCERNING THE SUBSTANTIAL EGO AS THE TRUE SUBJECT <span id="fr_180"></span>[1](#fn_180)
+#### CONCERNING THE SUBSTANTIAL EGO AS THE TRUE SUBJECT <span id="fr_180"></span>[1](#fn_180.md)
 
 ##### PART I
 
@@ -18,7 +18,7 @@ consciousness nothing more than an unstable product, which, when the
 logs are all consumed, dieth away with their ash. How then shall we
 think of Psyche, if she be this flame? Is not all consciousness
 phenomenon merely, depending for its existence on an organic
-[process](errata.htm#2); a *consensus* of vital action in the nervous
+[process](errata.htm#2.md); a *consensus* of vital action in the nervous
 cells? And the Psyche, what is she but the sum of conscious states,--a
 complexity, unstable and automatic, making and unmaking herself at each
 instant, even as the flame?"
@@ -107,7 +107,7 @@ only of that which is without. But thou, if thou wouldst behold the
 kingdom of God, learn to live in the essential, and fix the polaric
 point of thy mind in the central and substantial.
 
-##### PART 2 <span id="fr_181"></span>[1](#fn_181)
+##### PART 2 <span id="fr_181"></span>[1](#fn_181.md)
 
 It is necessary before entering on the study of the substantial, that
 thou shouldst clearly apprehend what difference there is
@@ -169,15 +169,15 @@ cognition.
 
 ### Footnotes
 
-<span id="fn_180"></span>[116:1](cws51.htm#fr_180) Paris, February 27,
+<span id="fn_180"></span>[116:1](cws51.htm#fr_180.md) Paris, February 27,
 1883. Received during the night, and written down while in trance. The
 word Subject, spelt with a capital, is used herein in its metaphysical
 sense, to denote the thinking and perceiving agent.    E. M.
 
-<span id="fn_181"></span>[118:1](cws51.htm#fr_181) Received at the same
+<span id="fn_181"></span>[118:1](cws51.htm#fr_181.md) Received at the same
 time and in the same manner as the foregoing, but written down on the
 following day.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. XLVIII: Concerning The Christian Mysteries](cws52)
+[Next: No. XLVIII: Concerning The Christian Mysteries](cws52.md)

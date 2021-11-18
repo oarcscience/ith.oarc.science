@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph08)  [Next](sph10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph08)  [Next](sph10.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 Σοί δ᾽ ἔγο δεύκασ ἔπι βῶμον ἄιγοσ  
 ...  
-καπιλείψω τοι ... [\[transcription\]](xlatall.htm#12)
+καπιλείψω τοι ... [\[transcription\]](xlatall.htm#12.md)
 
 But for thee I will bring to the altar \[the young\] of a white goat...
 and add a libation for thee.
@@ -18,4 +18,4 @@ uncertain.
 
 ------------------------------------------------------------------------
 
-[Next: 9: May I win this prize...](sph10)
+[Next: 9: May I win this prize...](sph10.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti30)  [Next](eti32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti30)  [Next](eti32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ turn and fly from contact with some bodies, seemingly
 PROF. DANIEL VAUGHN.&lt;br&gt; GRAVITATION IS THE BEGINNING, AND
 GRAVITATION IS THE END; ALL EARTHLY BODIES KNEEL TO
 GRAVITATION.](tn/15700.jpg)  
-Click to enlarge](img/15700.jpg)  
+Click to enlarge](img/15700.jpg.md)  
 “SOLILOQUY OF PROF. DANIEL VAUGHN.  
 GRAVITATION IS THE BEGINNING, AND GRAVITATION IS THE END; ALL EARTHLY
 BODIES KNEEL TO GRAVITATION.”  
@@ -124,7 +124,7 @@ essence, the immortal mind, had forgotten the material part of man. The
 physical half of man, even of his own being, in Daniel Vaughn's
 estimation, was an encumbrance unworthy of serious attention, his spirit
 communed with the pure in nature, and to him science was a study of the
-great Beyond. <span id="fr_4"></span>[\*](#fn_4)
+great Beyond. <span id="fr_4"></span>[\*](#fn_4.md)
 
 <span id="page_161">p. 161</span>
 
@@ -153,7 +153,7 @@ science and to man.
 
 ### Footnotes
 
-<span id="fn_4"></span>[160:\*](eti31.htm#fr_4) Mr. Drury can not claim
+<span id="fn_4"></span>[160:\*](eti31.htm#fr_4.md) Mr. Drury can not claim
 to have recorded verbatim Prof. Vaughn's remarks, but has endeavored to
 give the substance. His language was faultless, his word selections
 beautiful, his soliloquy impressive beyond description. Perhaps Drury
@@ -184,4 +184,4 @@ patiently. J. U. L.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXV. The Mother of a Volcano.—“You Can Not Disprove, and
-You Dare Not Admit.”](eti32)
+You Dare Not Admit.”](eti32.md)

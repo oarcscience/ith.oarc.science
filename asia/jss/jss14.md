@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss13)  [Next](jss15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss13)  [Next](jss15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -142,12 +142,12 @@ shrivelled as to be unrecognizable, and two little tin images
 <span id="img_12000"></span> <span align="CENTER"> [![ANDREI
 MIHAILOVITCH'S FIELD ONGONS TAKEN OUT OF THE BOX AND TIED AROUND THE
 PILLAR.](tn/12000.jpg)  
-Click to enlarge](img/12000.jpg)  
+Click to enlarge](img/12000.jpg.md)  
 ANDREI MIHAILOVITCH'S FIELD ONGONS TAKEN OUT OF THE BOX AND TIED AROUND
 THE PILLAR.  
 </span>
 
-*Page* [41](jss07.htm#page_41)
+*Page* [41](jss07.htm#page_41.md)
 
  
 
@@ -326,11 +326,11 @@ not tell him. Then Esege Malan sent for Esh (the hedgehog),
 
 <span id="img_12400"></span> <span align="CENTER"> [![FIELD
 ONGONS.](tn/12400.jpg)  
-Click to enlarge](img/12400.jpg)  
+Click to enlarge](img/12400.jpg.md)  
 FIELD ONGONS.  
 </span>
 
-*Page* [41](jss07.htm#page_41)
+*Page* [41](jss07.htm#page_41.md)
 
  
 
@@ -403,4 +403,4 @@ Earth.
 
 ------------------------------------------------------------------------
 
-[Next: Gesir Bogdo. No. I](jss15)
+[Next: Gesir Bogdo. No. I](jss15.md)

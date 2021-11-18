@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dlw00)  [Next](dlw02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dlw00)  [Next](dlw02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -273,8 +273,8 @@ world, the denial of the Divinity of the Lord, constitutes hell.
 
 <span class="margnote"><span id="14.">14.</span></span>
 
-IN GOD-MAN ESSE AND EXISTERE <span id="fr_0"></span>[14-1](#fn_0) ARE
-ONE DISTINCTLY <span id="fr_1"></span>[14-2](#fn_1) Where there is Esse
+IN GOD-MAN ESSE AND EXISTERE <span id="fr_0"></span>[14-1](#fn_0.md) ARE
+ONE DISTINCTLY <span id="fr_1"></span>[14-2](#fn_1.md) Where there is Esse
 \[being\] there is Existere \[taking form\]; one is not possible apart
 from the other. For Esse is by means of Existere, and not apart from it.
 This the rational mind comprehends when it thinks whether there can
@@ -288,7 +288,7 @@ except from love; consequently when love is in wisdom, then it EXISTS.
 These two are one in such a way that they may be distinguished in
 thought but not in operation, and because they may be distinguished in
 thought though not in operation, it is said that they are one
-distinctly. <span id="fr_2"></span>[14-3](#fn_2) Esse and Existere in
+distinctly. <span id="fr_2"></span>[14-3](#fn_2.md) Esse and Existere in
 God-Man are also one distinctly like soul and body. There can be no soul
 apart from its body, nor body apart from its soul. The Divine soul of
 God-Man is what is meant by Divine Esse, and the Divine Body is what is
@@ -847,20 +847,20 @@ following pages treat.
 
 ### Footnotes
 
-<span id="fn_0"></span>[14-1](dlw01.htm#fr_0) To be and to exist.
+<span id="fn_0"></span>[14-1](dlw01.htm#fr_0.md) To be and to exist.
 Swedenborg seems to use this word "exist" nearly in the classical sense
 of springing or standing forth, becoming manifest, taking form. The
 distinction between esse and existere is essentially the same as between
 substance and form.
 
-<span id="fn_1"></span>[14-2](dlw01.htm#fr_1) For the meaning of this
+<span id="fn_1"></span>[14-2](dlw01.htm#fr_1.md) For the meaning of this
 phrase. "distincte unum," see below in this paragraph, also n. 17, 22,
 34, 223, and DP 4.
 
-<span id="fn_2"></span>[14-3](dlw01.htm#fr_2) It should be noticed that
+<span id="fn_2"></span>[14-3](dlw01.htm#fr_2.md) It should be noticed that
 in Latin, distinctly is the adverb of the verb distinguish. If
 translated distinguishably, this would appear.
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](dlw02)
+[Next: 51-100](dlw02.md)

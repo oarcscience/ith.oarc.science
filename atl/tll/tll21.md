@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll20)  [Next](tll22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll20)  [Next](tll22.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ whose symbol was represented as the Sun.
 
 ------------------------------------------------------------------------
 
-[Next: Destruction of the Continent](tll22)
+[Next: Destruction of the Continent](tll22.md)

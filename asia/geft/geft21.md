@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft20)  [Next](geft22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft20)  [Next](geft22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ Textual Heritage
 
 THERE was once a poor married man who had only one son; but this son was
 very handsome and strong, and his name was Geria. <span
-id="fr_34"></span>[1](#fn_33) Once the youth went out to hunt, and when
+id="fr_34"></span>[1](#fn_33.md) Once the youth went out to hunt, and when
 he was coming home in the evening he met a woman with a jar going to the
 spring for water; he aimed an arrow at her, and broke the jar. The woman
 turned to him and said: 'If thou art so warlike, instead of breaking my
@@ -41,20 +41,20 @@ got him provisions. They bade him farewell with sobs. Such wailing was
 there that the parting was known throughout the country side, yea, even
 to sun and moon, to heaven and earth, to the sea and the sands thereof.
 At last they blessed their son and let him go. He took with him a little
-dog, whose name was Mathicochi. <span id="fr_35"></span>[1](#fn_34) When
+dog, whose name was Mathicochi. <span id="fr_35"></span>[1](#fn_34.md) When
 they took leave one of another, they embraced, they kissed, and the
 youth sped on his way.
 
 He went, he went, he went, he went as much as he could--week and week,
 week and fortnight, a year and three months, <span
-id="fr_36"></span>[2](#fn_35)--he went over six mountains. When he had
+id="fr_36"></span>[2](#fn_35.md)--he went over six mountains. When he had
 crossed these six mountains everything round about him began to reel:
 trees and stones fell down and clattered into the valleys, but Geria was
 not hurt by them. Then, from beneath, there came to him a voice, saying:
 'What kind of man art thou to stand thus against me. Who can resist me
 but Geria, the poor man's son.' '‘Tis I--Geria, the poor man's son.'
 
-When she heard this, the Rokapi <span id="fr_37"></span>[3](#fn_36) went
+When she heard this, the Rokapi <span id="fr_37"></span>[3](#fn_36.md) went
 out to meet him, bowed herself; did great honour to him, and said:
 'Whither wilt thou go?' The youth told her all. The Rokapi was moved
 with sorrow. Geria asked her: 'Why
@@ -135,7 +135,7 @@ horse with his whip, attacked the host, and slew all but one; him he
 sent to bear the news. Upon this, the king went out of himself with
 rage: he summoned his devoted and loyal slave to whom he was wont to
 apply in all his difficulties, by name Qvamuritz Khami; <span
-id="fr_38"></span>[1](#fn_37) to him he committed all that was left of
+id="fr_38"></span>[1](#fn_37.md) to him he committed all that was left of
 the army, and sent him out.
 
 Geria arose and saw a sight, such a sight as I wish thine enemy may see.
@@ -194,7 +194,7 @@ himself
 <span id="page_124">p. 124</span>
 
 on it, lifted it, and cast it three shoulders' lengths <span
-id="fr_39"></span>[1](#fn_38) away from him; but they wrestled again,
+id="fr_39"></span>[1](#fn_38.md) away from him; but they wrestled again,
 they wrestled, they wrestled, three whole days they wrestled. At last
 the youth was victorious, and tore the wild boar into halves. From the
 lacerated boar there leaped out a wild goat. When the youth killed the
@@ -204,7 +204,7 @@ kept.
 
 At that time Qvamuritz Khami fell ill, the agony of death came upon him,
 for it turned out that this swallow was his soul. Geria killed the
-swallow, and Qvamuritz Khami died. <span id="fr_40"></span>[2](#fn_39)
+swallow, and Qvamuritz Khami died. <span id="fr_40"></span>[2](#fn_39.md)
 After this, Geria went into the king's palace, and slew all therein
 excepting his wife. Her he took to his parents, whose patience and grief
 were exchanged for great joy. They all went home together.
@@ -213,33 +213,33 @@ were exchanged for great joy. They all went home together.
 
 ### Footnotes
 
-<span id="fn_33"></span>[118:1](geft21.htm#fr_34) Geria means little
+<span id="fn_33"></span>[118:1](geft21.htm#fr_34.md) Geria means little
 wolf. In Mingrelia there are many such nicknames,--*e.g.* Joghoria,
 little dog; Lomikia, little lion; Tholiorko, golden-eyed, etc.
 
-<span id="fn_34"></span>[119:1](geft21.htm#fr_35) Meaning: 'I also am a
+<span id="fn_34"></span>[119:1](geft21.htm#fr_35.md) Meaning: 'I also am a
 human being.'
 
-<span id="fn_35"></span>[119:2](geft21.htm#fr_36) Three years, three
+<span id="fn_35"></span>[119:2](geft21.htm#fr_36.md) Three years, three
 months, and three weeks are the usual measures of time in Mingrelian
 tales.
 
-<span id="fn_36"></span>[119:3](geft21.htm#fr_37) Rokapi in Georgian
+<span id="fn_36"></span>[119:3](geft21.htm#fr_37.md) Rokapi in Georgian
 tales is an old woman of a demoniacal character, possessing enchanted
 castles and domains; sometimes the word simply means witch, and in
 ordinary conversation it is applied to an ugly, ill-natured, toothless
 old hag.
 
-<span id="fn_37"></span>[122:1](geft21.htm#fr_38) *i.e.* he that has a
+<span id="fn_37"></span>[122:1](geft21.htm#fr_38.md) *i.e.* he that has a
 star in his brow.
 
-<span id="fn_38"></span>[124:1](geft21.htm#fr_39) The *orgia*, *i.e.*
+<span id="fn_38"></span>[124:1](geft21.htm#fr_39.md) The *orgia*, *i.e.*
 shoulder, is a measure of length equal to the space from finger-tips to
 finger-tips of the hands when extended horizontally.
 
-<span id="fn_39"></span>[124:2](geft21.htm#fr_40) Cf. with this the end
-of 'Master and Pupil' on [p. 5](geft03.htm#page_5).
+<span id="fn_39"></span>[124:2](geft21.htm#fr_40.md) Cf. with this the end
+of 'Master and Pupil' on [p. 5](geft03.htm#page_5.md).
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Prince who befriended the Beasts](geft22)
+[Next: IV. The Prince who befriended the Beasts](geft22.md)

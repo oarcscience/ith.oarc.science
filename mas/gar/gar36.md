@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar35)  [Next](gar37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar35)  [Next](gar37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -124,7 +124,7 @@ Or the following ODE may be sung:
 
 <span id="img_11800"></span> <span align="CENTER"> [![AIR.—What
 Fairy-like Music.](tn/11800.jpg)  
-Click to enlarge](img/11800.jpg)  
+Click to enlarge](img/11800.jpg.md)  
 AIR.—What Fairy-like Music.  
 </span>
 
@@ -165,4 +165,4 @@ the Faithful Breast.
 
 ------------------------------------------------------------------------
 
-[Next: Symbolical Jewels](gar37)
+[Next: Symbolical Jewels](gar37.md)

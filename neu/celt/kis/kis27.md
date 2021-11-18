@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis26)  [Next](kis28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis26)  [Next](kis28.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ gleam of the world.
 
 ------------------------------------------------------------------------
 
-[Next: Part VII](kis28)
+[Next: Part VII](kis28.md)

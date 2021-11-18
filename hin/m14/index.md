@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Mahabharata](../maha/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Mahabharata](../maha/index.md) 
 
 ------------------------------------------------------------------------
 
-[Sanskrit Text of Book 14](../mbs/mbsi14)
+[Sanskrit Text of Book 14](../mbs/mbsi14.md)
 
 ------------------------------------------------------------------------
 
-[Book 1](../m01/index)  [Book 2](../m02/index)  [Book 3](../m03/index) 
-[Book 4](../m04/index)  [Book 5](../m05/index)  [Book 6](../m06/index) 
-[Book 7](../m07/index)  [Book 8](../m08/index)  [Book 9](../m09/index) 
-[Book 10](../m10/index)  [Book 11](../m11/index)  [Book
-12](../m12/index)  [Book 13](../m13/index)  **Book 14**  [Book
-15](../m15/index)  [Book 16](../m16/index)  [Book 17](../m17/index) 
-[Book 18](../m18/index) 
+[Book 1](../m01/index)  [Book 2](../m02/index)  [Book 3](../m03/index.md) 
+[Book 4](../m04/index)  [Book 5](../m05/index)  [Book 6](../m06/index.md) 
+[Book 7](../m07/index)  [Book 8](../m08/index)  [Book 9](../m09/index.md) 
+[Book 10](../m10/index)  [Book 11](../m11/index.md)  [Book
+12](../m12/index)  [Book 13](../m13/index.md)  **Book 14**  [Book
+15](../m15/index)  [Book 16](../m16/index)  [Book 17](../m17/index.md) 
+[Book 18](../m18/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@
 
 #### \[1883-1896\]
 
-[Contents](#contents)    [Start Reading](m14000)
+[Contents](#contents)    [Start Reading](m14000.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ Krishna to repeat his battlefield discourse (the Bhaghavad Gita in Book
 6). What follows is a somewhat disjointed metaphysical treatise which
 was probably composed at a much later date than the main narrative. This
 has also been translated in the [Sacred Books of the
-East](../sbe08/index.htm#section_002) by Telang.
+East](../sbe08/index.htm#section_002.md) by Telang.
 
 Following the Anugita is the story of Utanka, a disciple of Krishna who
 undergoes a fairy-tale-like journey involving a cannibal king, magic
@@ -47,7 +47,7 @@ earrings and a journey to the underworld.
 
 Finally there is the story of the great Horse Sacrifice of Yudhishthira,
 which resumes the main narrative of the Mahabharata. The Horse Sacrifice
-was the premiere ceremony of the [Yajur-Veda](../yv/index), a
+was the premiere ceremony of the [Yajur-Veda](../yv/index.md), a
 scapegoat-like expiatory ritual of unmatched extravagance. A magnificent
 wild black horse is set loose from Hastinapur, the Kuru capital. In hot
 pursuit is the Kuru army, let by Arjuna. They must follow this horse,
@@ -69,104 +69,104 @@ Mahabharata--ends.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](m14000)  
+<span id="contents"></span> [Title Page](m14000.md)  
 <span id="section_000"></span>
 
 ### Aswamedhika Parva
 
-[Section I](m14001)  
-[Section II](m14002)  
-[Section III](m14003)  
-[Section IV](m14004)  
-[Section V](m14005)  
-[Section VI](m14006)  
-[Section VII](m14007)  
-[Section VIII](m14008)  
-[Section IX](m14009)  
-[Section V](m14010)  
-[Section XI](m14011)  
-[Section XII](m14012)  
-[Section XIII](m14013)  
-[Section XIV](m14014)  
-[Section XV](m14015)  
+[Section I](m14001.md)  
+[Section II](m14002.md)  
+[Section III](m14003.md)  
+[Section IV](m14004.md)  
+[Section V](m14005.md)  
+[Section VI](m14006.md)  
+[Section VII](m14007.md)  
+[Section VIII](m14008.md)  
+[Section IX](m14009.md)  
+[Section V](m14010.md)  
+[Section XI](m14011.md)  
+[Section XII](m14012.md)  
+[Section XIII](m14013.md)  
+[Section XIV](m14014.md)  
+[Section XV](m14015.md)  
 <span id="section_001"></span>
 
 ### Anugita Parva
 
-[Section XVI](m14016)  
-[Section XVII](m14017)  
-[Section XVIII](m14018)  
-[Section XIX](m14019)  
-[Section XX](m14020)  
-[Section XXI](m14021)  
-[Section XXII](m14022)  
-[Section XXIII](m14023)  
-[Section XXIV](m14024)  
-[Section XXV](m14025)  
-[Section XXVI](m14026)  
-[Section XXVII](m14027)  
-[Section XXVIII](m14028)  
-[Section XXIX](m14029)  
-[Section XXX](m14030)  
-[Section XXXI](m14031)  
-[Section XXXII](m14032)  
-[Section XXXIII](m14033)  
-[Section XXXIV](m14034)  
-[Section XXXV](m14035)  
-[Section XXXVI](m14036)  
-[Section XXXVII](m14037)  
-[Section XXXVIII](m14038)  
-[Section XXXIX](m14039)  
-[Section XL](m14040)  
-[Section XLI](m14041)  
-[Section XLII](m14042)  
-[Section XLIII](m14043)  
-[Section XLIV](m14044)  
-[Section XLV](m14045)  
-[Section XLVI](m14046)  
-[Section XLVII](m14047)  
-[Section XLVIII](m14048)  
-[Section XLIX](m14049)  
-[Section L](m14050)  
-[Section LI](m14051)  
-[Section LII](m14052)  
-[Section LIII](m14053)  
-[Section LIV](m14054)  
-[Section LV](m14055)  
-[section LVI](m14056)  
-[Section LVII](m14057)  
-[Section LVIII](m14058)  
-[Section LIX](m14059)  
-[Section LX](m14060)  
-[Section LXI](m14061)  
-[Section LXII](m14062)  
-[Section LXIII](m14063)  
-[Section LXIV](m14064)  
-[Section LXV](m14065)  
-[Section LXVI](m14066)  
-[Section LXVII](m14067)  
-[Section LXVIII](m14068)  
-[Section LXIX](m14069)  
-[Section LXX](m14070)  
-[Section LXXI](m14071)  
-[Section LXXII](m14072)  
-[Section LXXIII](m14073)  
-[Section LXXIV](m14074)  
-[Section LXXV](m14075)  
-[Section LXXVI](m14076)  
-[Section LXXVII](m14077)  
-[Section LXXVIII](m14078)  
-[Section LXXIX](m14079)  
-[Section LXXX](m14080)  
-[Section LXXXI](m14081)  
-[Section LXXXII](m14082)  
-[Section LXXXIII](m14083)  
-[Section LXXXIV](m14084)  
-[Section LXXXV](m14085)  
-[Section LXXXVI](m14086)  
-[Section LXXXVII](m14087)  
-[Section LXXXVIII](m14088)  
-[Section LXXXIX](m14089)  
-[Section XC](m14090)  
-[Section XCI](m14091)  
-[Section XCII](m14092)  
+[Section XVI](m14016.md)  
+[Section XVII](m14017.md)  
+[Section XVIII](m14018.md)  
+[Section XIX](m14019.md)  
+[Section XX](m14020.md)  
+[Section XXI](m14021.md)  
+[Section XXII](m14022.md)  
+[Section XXIII](m14023.md)  
+[Section XXIV](m14024.md)  
+[Section XXV](m14025.md)  
+[Section XXVI](m14026.md)  
+[Section XXVII](m14027.md)  
+[Section XXVIII](m14028.md)  
+[Section XXIX](m14029.md)  
+[Section XXX](m14030.md)  
+[Section XXXI](m14031.md)  
+[Section XXXII](m14032.md)  
+[Section XXXIII](m14033.md)  
+[Section XXXIV](m14034.md)  
+[Section XXXV](m14035.md)  
+[Section XXXVI](m14036.md)  
+[Section XXXVII](m14037.md)  
+[Section XXXVIII](m14038.md)  
+[Section XXXIX](m14039.md)  
+[Section XL](m14040.md)  
+[Section XLI](m14041.md)  
+[Section XLII](m14042.md)  
+[Section XLIII](m14043.md)  
+[Section XLIV](m14044.md)  
+[Section XLV](m14045.md)  
+[Section XLVI](m14046.md)  
+[Section XLVII](m14047.md)  
+[Section XLVIII](m14048.md)  
+[Section XLIX](m14049.md)  
+[Section L](m14050.md)  
+[Section LI](m14051.md)  
+[Section LII](m14052.md)  
+[Section LIII](m14053.md)  
+[Section LIV](m14054.md)  
+[Section LV](m14055.md)  
+[section LVI](m14056.md)  
+[Section LVII](m14057.md)  
+[Section LVIII](m14058.md)  
+[Section LIX](m14059.md)  
+[Section LX](m14060.md)  
+[Section LXI](m14061.md)  
+[Section LXII](m14062.md)  
+[Section LXIII](m14063.md)  
+[Section LXIV](m14064.md)  
+[Section LXV](m14065.md)  
+[Section LXVI](m14066.md)  
+[Section LXVII](m14067.md)  
+[Section LXVIII](m14068.md)  
+[Section LXIX](m14069.md)  
+[Section LXX](m14070.md)  
+[Section LXXI](m14071.md)  
+[Section LXXII](m14072.md)  
+[Section LXXIII](m14073.md)  
+[Section LXXIV](m14074.md)  
+[Section LXXV](m14075.md)  
+[Section LXXVI](m14076.md)  
+[Section LXXVII](m14077.md)  
+[Section LXXVIII](m14078.md)  
+[Section LXXIX](m14079.md)  
+[Section LXXX](m14080.md)  
+[Section LXXXI](m14081.md)  
+[Section LXXXII](m14082.md)  
+[Section LXXXIII](m14083.md)  
+[Section LXXXIV](m14084.md)  
+[Section LXXXV](m14085.md)  
+[Section LXXXVI](m14086.md)  
+[Section LXXXVII](m14087.md)  
+[Section LXXXVIII](m14088.md)  
+[Section LXXXIX](m14089.md)  
+[Section XC](m14090.md)  
+[Section XCI](m14091.md)  
+[Section XCII](m14092.md)  

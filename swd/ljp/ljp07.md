@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ljp06)  [Next](ljp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ljp06)  [Next](ljp08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -543,7 +543,7 @@ of the angels of the Lord's celestial kingdom and of the angels of the
 spiritual kingdom, as there is between those who are in the spiritual
 kingdom in relation to those who are in the natural kingdom. This also
 has been confirmed by experience. <span
-id="fr_43"></span>[334-1](#fn_43)
+id="fr_43"></span>[334-1](#fn_43.md)
 
 <span class="margnote"><span id="335.">335.</span></span>
 
@@ -558,7 +558,7 @@ reception of truth.
 
 <span class="margnote"><span id="336.">336.</span></span>
 
-\[328\] <span id="fr_44"></span>[336-1](#fn_44) In London there are ten
+\[328\] <span id="fr_44"></span>[336-1](#fn_44.md) In London there are ten
 moderators of similar authority.
 
 <span class="margnote"><span id="337.">337.</span></span>
@@ -728,7 +728,7 @@ of man is his life which is conjoined with the life of the wife, so that
 they are not two but one flesh; but when the lives of many men are
 immitted into one woman, there becomes such foulness that on account of
 the abomination it cannot be described, it becomes such before the
-angels. <span id="fr_45"></span>[348-1](#fn_45)
+angels. <span id="fr_45"></span>[348-1](#fn_45.md)
 
 <span class="margnote"><span id="349.">349.</span></span>
 
@@ -775,21 +775,21 @@ themselves, or from the Lord; and by combats they are reformed.
 
 ### Footnotes
 
-<span id="fn_43"></span>[334-1](ljp07.htm#fr_43) Following n. \[326\] in
+<span id="fn_43"></span>[334-1](ljp07.htm#fr_43.md) Following n. \[326\] in
 Tafel's Latin text is a paragraph "On the Spiritual Sense;" this and
 numbers following 339, 347, and 355 properly belong to The Word of the
 Lord from Experience, where they will be found in this volume. Nos.
 xxi., xxii., xxiii., xxiv. and xxvi. We make our numbering of paragraphs
 consecutive.
 
-<span id="fn_44"></span>[336-1](ljp07.htm#fr_44) Following n. 328 in
+<span id="fn_44"></span>[336-1](ljp07.htm#fr_44.md) Following n. 328 in
 Tafel's Latin text is a paragraph "On the Spiritual Sense;" this and
 numbers following 339, 347, and 355 properly belong to The Word of the
 Lord from Experience, where they will be found in this volume. Nos.
 xxi., xxii., xxiii., xxiv. and xxvi. We make our numbering of paragraphs
 consecutive.
 
-<span id="fn_45"></span>[348-1](ljp07.htm#fr_45) Following n. 326 in
+<span id="fn_45"></span>[348-1](ljp07.htm#fr_45.md) Following n. 326 in
 Tafel's Latin text is a paragraph "On the Spiritual Sense;" this and
 numbers following 339, 347, and 355 properly belong to The Word of the
 Lord from Experience, where they will be found in this volume. Nos.
@@ -798,4 +798,4 @@ consecutive.
 
 ------------------------------------------------------------------------
 
-[Next: 351-400](ljp08)
+[Next: 351-400](ljp08.md)

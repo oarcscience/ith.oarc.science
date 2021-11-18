@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft42)  [Next](eft44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft42)  [Next](eft44.md) 
 
 ------------------------------------------------------------------------
 
 # Master of All Masters
 
 <span id="img_061"></span> [![](tn/061.jpg)  
-Click to enlarge](img/061.jpg)
+Click to enlarge](img/061.jpg.md)
 
 A GIRL once went to the fair to hire herself for servant. At last a
 funny-looking old gentleman engaged her, and took her home to his house.
@@ -60,4 +60,4 @@ will be all on hot cockalorum' . . . That's all.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Heads of the Well](eft44)
+[Next: The Three Heads of the Well](eft44.md)

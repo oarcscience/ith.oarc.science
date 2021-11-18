@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa36)  [Next](soa38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa36)  [Next](soa38.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ hard work of life to cease, and for leisure and enjoyment to begin.
 
 ------------------------------------------------------------------------
 
-[Next: Religion](soa38)
+[Next: Religion](soa38.md)

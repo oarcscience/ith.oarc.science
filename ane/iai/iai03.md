@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai02)  [Next](iai04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai02)  [Next](iai04.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ East](../index)  [Index](index)  [Previous](iai02)  [Next](iai04) 
 
 ### THE FALL OF ERECH
 
-O Moon-god, <span id="fr_12"></span>[1b](#fn_12) hear my cry! With thy
+O Moon-god, <span id="fr_12"></span>[1b](#fn_12.md) hear my cry! With thy
 pure light  
 Oh, take my spirit through that awful night  
 That hovers o'er the long-forgotten years,  
@@ -32,7 +32,7 @@ All this I saw while guided by the stroke
 Of unseen pinions:  
                        Then amid the smoke  
 That rose o'er burning cities, I beheld  
-White Khar-sak-kur-ra's <span id="fr_13"></span>[2](#fn_13) brow arise
+White Khar-sak-kur-ra's <span id="fr_13"></span>[2](#fn_13.md) brow arise
 that held  
 The secrets of the gods--that felt the prore  
 Of Khasisadra's ark; I heard the roar  
@@ -43,7 +43,7 @@ Stood on the plains alone; and o'er it fell
 A halo, bright, divine; its summit crowned  
 With sunbeams, shining on the earth around  
 And o'er the wide expanse of plains;--below  
-Lay Khar-sak-kal-ama <span id="fr_14"></span>[3](#fn_14) with light
+Lay Khar-sak-kal-ama <span id="fr_14"></span>[3](#fn_14.md) with light
 aglow,  
 And nestling far away within my view  
 Stood Erech, Nipur, Marad, Eridu,  
@@ -61,9 +61,9 @@ And palaces and temples round it rise
 With lofty turrets glowing to the skies,  
 And massive walls far spreading o'er the plains,  
 Here live and move Accadia's courtly trains,  
-And see! the *pit-u-dal-ti* <span id="fr_15"></span>[4](#fn_15) at the
+And see! the *pit-u-dal-ti* <span id="fr_15"></span>[4](#fn_15.md) at the
 gates,  
-And *masari* <span id="fr_16"></span>[5](#fn_16) patrol and guard the
+And *masari* <span id="fr_16"></span>[5](#fn_16.md) patrol and guard the
 streets!
 
 <span id="page_7">p. 7</span>
@@ -118,21 +118,21 @@ And golden shields, and silver coats of mail,
 Obeisance make to her with faces pale,  
 Prostrate themselves before their sovereign's throne;  
 In silence brief remain with faces prone,  
-Till Ellat-gula <span id="fr_17"></span>[6](#fn_17) speaks: "My chiefs,
+Till Ellat-gula <span id="fr_17"></span>[6](#fn_17.md) speaks: "My chiefs,
 arise!  
 What word have ye for me? what new surprise?  
-Tur-tau-u, <span id="fr_18"></span>[7](#fn_18) rising, says, "O
-Dannat <span id="fr_19"></span>[8](#fn_19) Queen!  
-Thine enemy, Khum-baba <span id="fr_20"></span>[9](#fn_20) with
-Rim-siu <span id="fr_21"></span>[10](#fn_21)  
+Tur-tau-u, <span id="fr_18"></span>[7](#fn_18.md) rising, says, "O
+Dannat <span id="fr_19"></span>[8](#fn_19.md) Queen!  
+Thine enemy, Khum-baba <span id="fr_20"></span>[9](#fn_20.md) with
+Rim-siu <span id="fr_21"></span>[10](#fn_21.md)  
 With clanging shields, appears upon the hills,  
 And Elam's host the land of Sumir fills."  
 "Away, ye chiefs! sound loud the *nappa-khu*! <span
-id="fr_22"></span>[1](#fn_22)  
+id="fr_22"></span>[1](#fn_22.md)  
 Send to their post each warrior bar-ru!" <span
-id="fr_23"></span>[2](#fn_23)  
+id="fr_23"></span>[2](#fn_23.md)  
 The gray embattlements rose in the light  
-That lingered yet from Samas' <span id="fr_24"></span>[3](#fn_24) rays,
+That lingered yet from Samas' <span id="fr_24"></span>[3](#fn_24.md) rays,
 ere Night  
 Her sable folds had spread across the sky.  
 Thus Erech stood, where in her infancy  
@@ -174,15 +174,15 @@ Thus Erech is besieged by her dread foes,
 And she at last must feel Accadia's woes,  
 And feed the vanity of conquerors,  
 Who boast o'er victories in all their wars.  
-Great Subartu <span id="fr_25"></span>[4](#fn_25) has fallen by
-Sutu <span id="fr_26"></span>[5](#fn_26)  
-And Kassi, <span id="fr_27"></span>[6](#fn_27) Goim <span
-id="fr_28"></span>[7](#fn_28) fell with Lul-lu-bu, <span
-id="fr_29"></span>[8](#fn_29)  
-Thus Khar-sak-kal-a-ma <span id="fr_30"></span>[9](#fn_30) all
-Eridu <span id="fr_31"></span>[10](#fn_31)  
+Great Subartu <span id="fr_25"></span>[4](#fn_25.md) has fallen by
+Sutu <span id="fr_26"></span>[5](#fn_26.md)  
+And Kassi, <span id="fr_27"></span>[6](#fn_27.md) Goim <span
+id="fr_28"></span>[7](#fn_28.md) fell with Lul-lu-bu, <span
+id="fr_29"></span>[8](#fn_29.md)  
+Thus Khar-sak-kal-a-ma <span id="fr_30"></span>[9](#fn_30.md) all
+Eridu <span id="fr_31"></span>[10](#fn_31.md)  
 O'erran with Larsa's allies; Subartu  
-With Duran <span id="fr_32"></span>[1](#fn_32) thus was conquered by
+With Duran <span id="fr_32"></span>[1](#fn_32.md) thus was conquered by
 these sons  
 Of mighty Shem and strewn was Accad's bones  
 Throughout her plains, and mountains, valleys fair,  
@@ -228,7 +228,7 @@ A wall of steel withstands the onset fierce,
 But thronging Elam's spears the lines soon pierce,  
 A band of chosen men there fight to die,  
 Before their enemies disdain to fly;  
-The masari <span id="fr_33"></span>[2](#fn_33) within the breach thus
+The masari <span id="fr_33"></span>[2](#fn_33.md) within the breach thus
 died,\[paragraph continues\]
 
 <span id="page_11">p. 11</span>
@@ -292,7 +292,7 @@ Gone are her brave heroes beneath the red tide,
   Gone are her white vessels that rode o'er the main,  
 No more on the river her pennon shall ride,  
   Gargan-na is fallen, her people are slain.  
-Wild asses <span id="fr_34"></span>[3](#fn_34) shall gallop across thy
+Wild asses <span id="fr_34"></span>[3](#fn_34.md) shall gallop across thy
 grand floors,  
   And wild bulls shall paw them and hurl the dust high  
 Upon the wild cattle that flee through her doors,  
@@ -300,7 +300,7 @@ Upon the wild cattle that flee through her doors,
 
 Oh, where are the gods of our Erech so proud,  
   As flies they are swarming away from her halls,  
-The Sedu <span id="fr_35"></span>[4](#fn_35) of Erech are gone as a
+The Sedu <span id="fr_35"></span>[4](#fn_35.md) of Erech are gone as a
 cloud,  
   As wild fowl are flying away from her walls.  
 Three years did she suffer, besieged by her foes,  
@@ -310,12 +310,12 @@ Who brought to poor Erech her tears and her woes,
 
 To Ishtar bowed down doth our Bel thus reply,  
   "Come, Ishtar, my queenly one, hide all thy tears,  
-Our hero, Tar-u-man-i izzu Sar-ri, <span id="fr_36"></span>[5](#fn_36)  
+Our hero, Tar-u-man-i izzu Sar-ri, <span id="fr_36"></span>[5](#fn_36.md)  
   In Kipur is fortified with his strong spears.\[paragraph continues\]
 
 <span id="page_13">p. 13</span>
 
-The hope of Kardunia, <span id="fr_37"></span>[6](#fn_37) land of my
+The hope of Kardunia, <span id="fr_37"></span>[6](#fn_37.md) land of my
 delight,  
   Shall come to thy rescue, upheld by my hands,  
 Deliverer of peoples, whose heart is aright,  
@@ -325,9 +325,9 @@ Awake then, brave Accad, to welcome the day!
   Behold thy bright banners yet flaming on high,  
 Triumphant are streaming on land and the sea!  
   Arise, then, O Accad! behold the Sami! <span
-id="fr_38"></span>[7](#fn_38)  
+id="fr_38"></span>[7](#fn_38.md)  
 Arranged in their glory the mighty gods come  
-  In purple and gold the grand Tam-u <span id="fr_39"></span>[8](#fn_39)
+  In purple and gold the grand Tam-u <span id="fr_39"></span>[8](#fn_39.md)
 doth shine  
 Over Erech, mine Erech, my beautiful home,  
   Above thy dear ashes, behold thy god's sign!
@@ -338,36 +338,36 @@ Over Erech, mine Erech, my beautiful home,
 
 ### Footnotes
 
-<span id="fn_12"></span>[5:1b](iai03.htm#fr_12) "O Moon-god, hear my
+<span id="fn_12"></span>[5:1b](iai03.htm#fr_12.md) "O Moon-god, hear my
 cry!" ("Siu lici unnini!") the name of the author of the Izdubar epic
 upon which our poem is based.
 
-<span id="fn_13"></span>[6:2](iai03.htm#fr_13) "Khar-sak-kur-ra," the
+<span id="fn_13"></span>[6:2](iai03.htm#fr_13.md) "Khar-sak-kur-ra," the
 Deluge mountain on which the ark of Khasisadra, (the Accadian Noah)
 rested.
 
-<span id="fn_14"></span>[6:3](iai03.htm#fr_14) "Khar-sak-kal-ama" is a
+<span id="fn_14"></span>[6:3](iai03.htm#fr_14.md) "Khar-sak-kal-ama" is a
 city mentioned in the Izdubar epic, and was probably situated at the
 base of Khar-sak-kur-ra, now called Mount Elwend. The same mountain is
 sometimes called  
 the "Mountain of the World" in the inscriptions, where the gods were
 supposed to sometimes reside.
 
-<span id="fn_15"></span>[6:4](iai03.htm#fr_15) "Pit-u-dal-ti," openers
+<span id="fn_15"></span>[6:4](iai03.htm#fr_15.md) "Pit-u-dal-ti," openers
 of the gates.
 
-<span id="fn_16"></span>[6:5](iai03.htm#fr_16) "Masari," guards of the
+<span id="fn_16"></span>[6:5](iai03.htm#fr_16.md) "Masari," guards of the
 great gates of the city, etc.
 
-<span id="fn_17"></span>[8:6](iai03.htm#fr_17) "Ellat-gula," the queen
+<span id="fn_17"></span>[8:6](iai03.htm#fr_17.md) "Ellat-gula," the queen
 of Erech, the capital of Babylonia.
 
-<span id="fn_18"></span>[8:7](iai03.htm#fr_18) "Tur-tan-u" was the army
+<span id="fn_18"></span>[8:7](iai03.htm#fr_18.md) "Tur-tan-u" was the army
 officer or general who in the absence of the sovereign took the supreme
 command of the army, and held the highest rank next to the queen or
 king.
 
-<span id="fn_19"></span>[8:8](iai03.htm#fr_19) "Dannat" (the "Powerful
+<span id="fn_19"></span>[8:8](iai03.htm#fr_19.md) "Dannat" (the "Powerful
 Lady" was a title applied to the Queen, the mother of Izdubar (Sayce's
 ed. Smith's "Chal. Acc. of Gen." p. 184). We have here identified her
 with Ellat-gula, the Queen of Babylon, who preceded Ham-murabi or
@@ -375,70 +375,70 @@ Nammurabi, whom the inscriptions indicate was an Accadian. The latter we
 have identified with Nimrod following the suggestion of Mr. George
 Smith.
 
-<span id="fn_20"></span>[8:9](iai03.htm#fr_20) "Khumbaba" was the giant
+<span id="fn_20"></span>[8:9](iai03.htm#fr_20.md) "Khumbaba" was the giant
 Elamitic king whom Izdubar overthrew. We identify him with the King of
 the Elamites who, allied with Rimsin or Rimagu, was overthrown by
 Nammurabi or Izdubar.
 
-<span id="fn_21"></span>[8:10](iai03.htm#fr_21) "Rim-siu," above
+<span id="fn_21"></span>[8:10](iai03.htm#fr_21.md) "Rim-siu," above
 referred to, who overthrew Uruk, or Karrak, or Erech. He was king of
 Larsa, immediately south of Erech.
 
-<span id="fn_22"></span>[8:1](iai03.htm#fr_22) "Nap-pa-khu,"
+<span id="fn_22"></span>[8:1](iai03.htm#fr_22.md) "Nap-pa-khu,"
 war-trumpet.
 
-<span id="fn_23"></span>[8:2](iai03.htm#fr_23) "Ba-ru," army officer.
+<span id="fn_23"></span>[8:2](iai03.htm#fr_23.md) "Ba-ru," army officer.
 
-<span id="fn_24"></span>[8:3](iai03.htm#fr_24) "Samas," the Sun-god.
+<span id="fn_24"></span>[8:3](iai03.htm#fr_24.md) "Samas," the Sun-god.
 
-<span id="fn_25"></span>[9:4](iai03.htm#fr_25) "Subartu" is derived from
+<span id="fn_25"></span>[9:4](iai03.htm#fr_25.md) "Subartu" is derived from
 the Accadian "subar" ("high"), applied by the Accadians to the highlands
 of Aram or Syria. It is probable that all these countries, viz.,
 Subartu, Goim, Lullubu, Kharsak-kalama, Eridu, and Duran, were at one
 time inhabited by the Accadians, until driven out by the Semites.
 
-<span id="fn_26"></span>[9:5](iai03.htm#fr_26) "Sutu is supposed to
+<span id="fn_26"></span>[9:5](iai03.htm#fr_26.md) "Sutu is supposed to
 refer to the Arabians.
 
-<span id="fn_27"></span>[9:6](iai03.htm#fr_27) "Kassi," the Kassites or
+<span id="fn_27"></span>[9:6](iai03.htm#fr_27.md) "Kassi," the Kassites or
 Elamites. The Kassi inhabited the northern part of Elam.
 
-<span id="fn_28"></span>[9:7](iai03.htm#fr_28) "Goim," or "Gutium,"
+<span id="fn_28"></span>[9:7](iai03.htm#fr_28.md) "Goim," or "Gutium,"
 supposed by Sir Henry Rawlinson to be the Goyim of Gen. xiv, ruled by
 Tidal or Turgal ("the Great Son").
 
-<span id="fn_29"></span>[9:8](iai03.htm#fr_29) "Lul-lu-bu," a country
+<span id="fn_29"></span>[9:8](iai03.htm#fr_29.md) "Lul-lu-bu," a country
 northward of Mesopotamia and Nizir.
 
-<span id="fn_30"></span>[9:9](iai03.htm#fr_30) "Karsak-kala-ma," the
+<span id="fn_30"></span>[9:9](iai03.htm#fr_30.md) "Karsak-kala-ma," the
 city supposed to lie at the base of Kharsak-kurra, or Mount Nizir, or
 Mount Elwend. The same city was afterward called Ecbatana.
 
-<span id="fn_31"></span>[9:10](iai03.htm#fr_31) "Eridu," the land of Ur,
+<span id="fn_31"></span>[9:10](iai03.htm#fr_31.md) "Eridu," the land of Ur,
 or Erech.
 
-<span id="fn_32"></span>[9:1](iai03.htm#fr_32) "Duran," Babylonia.
+<span id="fn_32"></span>[9:1](iai03.htm#fr_32.md) "Duran," Babylonia.
 
-<span id="fn_33"></span>[10:2](iai03.htm#fr_33) "Masari," guards of the
+<span id="fn_33"></span>[10:2](iai03.htm#fr_33.md) "Masari," guards of the
 palace, etc.
 
-<span id="fn_34"></span>[12:3](iai03.htm#fr_34) See Sayce's translation
+<span id="fn_34"></span>[12:3](iai03.htm#fr_34.md) See Sayce's translation
 in the "Chal. Acc. of Gen.," by Smith, p. 193.
 
-<span id="fn_35"></span>[12:4](iai03.htm#fr_35) "Sedu," spirits of
+<span id="fn_35"></span>[12:4](iai03.htm#fr_35.md) "Sedu," spirits of
 prosperity.
 
-<span id="fn_36"></span>[12:5](iai03.htm#fr_36) "Tar-u-mani izzu Sarri,"
+<span id="fn_36"></span>[12:5](iai03.htm#fr_36.md) "Tar-u-mani izzu Sarri,"
 son of the faith, the fire of kings, or fire-king.
 
-<span id="fn_37"></span>[13:6](iai03.htm#fr_37) "Kardunia," the ancient
+<span id="fn_37"></span>[13:6](iai03.htm#fr_37.md) "Kardunia," the ancient
 name of Babylon.
 
-<span id="fn_38"></span>[13:7](iai03.htm#fr_38) "Sami" heavens (plural).
+<span id="fn_38"></span>[13:7](iai03.htm#fr_38) "Sami" heavens (plural.md).
 
-<span id="fn_39"></span>[13:8](iai03.htm#fr_39) "Tamu," dawn or sunrise,
+<span id="fn_39"></span>[13:8](iai03.htm#fr_39.md) "Tamu," dawn or sunrise,
 day.
 
 ------------------------------------------------------------------------
 
-[Next: Column III. The Rescue of Erech by Izdubar](iai04)
+[Next: Column III. The Rescue of Erech by Izdubar](iai04.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa34)  [Next](tsa36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa34)  [Next](tsa36.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,11 +23,11 @@ so that he was expected to die yet afterwards improved, and then grew
 worse and died, is guilty. R. Nehemia would acquit, since the death may
 be attributable to other causes.
 
-**T**. XII. 3. R. Shimeon, <span id="fr_377"></span>[3](#fn_373) the
-Temanite, says: "As *the fist* <span id="fr_378"></span>[4](#fn_374)
+**T**. XII. 3. R. Shimeon, <span id="fr_377"></span>[3](#fn_373.md) the
+Temanite, says: "As *the fist* <span id="fr_378"></span>[4](#fn_374.md)
 with which a murder is alleged to have been committed is such a thing as
 is known to the judges and witnesses (as being able to produce death),
-so *the stone* <span id="fr_379"></span>[5](#fn_375) (with which a
+so *the stone* <span id="fr_379"></span>[5](#fn_375.md) (with which a
 murder is alleged to have been committed) ought to be subject to
 examination by the judges and witnesses, unless the stone be lost." R.
 Akiba said to him: "Supposing that
@@ -38,7 +38,7 @@ Akiba said to him: "Supposing that
 
 even the stone were not lost, and it or the weapon be hung up in the
 court, would the judges know whether the defendant struck the victim on
-the leg or on 'the bird of life'? <span id="fr_380"></span>[1](#fn_376)
+the leg or on 'the bird of life'? <span id="fr_380"></span>[1](#fn_376.md)
 Or suppose the victim had been pushed from the top of a tower and he
 die, could we say, 'Let the tower come to the court'? And even if thou
 say, 'Let the court go and see the tower,' suppose that it have fallen
@@ -126,7 +126,7 @@ the case of any one condemned to death-penalties enjoined in the Law, if
 thou canst not put him to death by a severer means, put him to death by
 any means, be it severe or easy, for it is written: AND THOU SHALT
 EXTERMINATE THE EVIL FROM THY MIDST. <span
-id="fr_381"></span>[1](#fn_377)
+id="fr_381"></span>[1](#fn_377.md)
 
 <span class="margnote">**M**.</span>IX. 5. If a man has been scourged,
 and then scourged a second time in the court, he is taken
@@ -136,7 +136,7 @@ and then scourged a second time in the court, he is taken
 <span class="margnote">**M**.</span>to prison and fed with barley till
 his belly bursts. If a man has committed murder, and there be no
 witnesses, he is taken to prison and fed with the BREAD OF ANGUISH AND
-WATER OF AFFLICTION. <span id="fr_382"></span>[1](#fn_378)
+WATER OF AFFLICTION. <span id="fr_382"></span>[1](#fn_378.md)
 
 **T**. XII. 7. If a man about to commit a crime be warned and he keep
 silent, or if, when he is warned, he shake his head, they are to warn
@@ -153,21 +153,21 @@ taken to prison and fed with barley till their belly bursts.
 
 ### Footnotes
 
-<span id="fn_373"></span>[115:3](tsa35.htm#fr_377) R. Shimeon, the
+<span id="fn_373"></span>[115:3](tsa35.htm#fr_377.md) R. Shimeon, the
 Temanite, was one of the second generation of the *Tannaim*, *c*. 120
 A.D.
 
-<span id="fn_374"></span>[115:4](tsa35.htm#fr_378) Exod. 21. 18.
+<span id="fn_374"></span>[115:4](tsa35.htm#fr_378.md) Exod. 21. 18.
 
-<span id="fn_375"></span>[115:5](tsa35.htm#fr_379) Numb. 35. 17.
+<span id="fn_375"></span>[115:5](tsa35.htm#fr_379.md) Numb. 35. 17.
 
-<span id="fn_376"></span>[116:1](tsa35.htm#fr_380) A euphemism; unless,
+<span id="fn_376"></span>[116:1](tsa35.htm#fr_380.md) A euphemism; unless,
 as in the following section of the *Mishnah*, the heart is meant.
 
-<span id="fn_377"></span>[118:1](tsa35.htm#fr_381) Deut. 17. 7.
+<span id="fn_377"></span>[118:1](tsa35.htm#fr_381.md) Deut. 17. 7.
 
-<span id="fn_378"></span>[119:1](tsa35.htm#fr_382) Isa. 30. 20.
+<span id="fn_378"></span>[119:1](tsa35.htm#fr_382.md) Isa. 30. 20.
 
 ------------------------------------------------------------------------
 
-[Next: Irregular Justice](tsa36)
+[Next: Irregular Justice](tsa36.md)

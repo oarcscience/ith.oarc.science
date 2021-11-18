@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp85)  [Next](prp87) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp85)  [Next](prp87.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ Priapus.\]
 
 ------------------------------------------------------------------------
 
-[Next: 87. I thuswise fashioned I by rustic art](prp87)
+[Next: 87. I thuswise fashioned I by rustic art](prp87.md)

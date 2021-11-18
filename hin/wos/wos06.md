@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wos05)  [Next](wos07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wos05)  [Next](wos07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Select Works of Sri Sankaracharya*, tr. by S. Venkataramanan, \[1921\],
 at Intangible Textual Heritage
 
@@ -81,7 +81,7 @@ knowledge. Desire, in its various aspects, is the mainspring of all
 action." This is the kind of enquiry referred to above. (14)
 
 "The prime cause of both these (*viz*., ignorance and desire) is the
-one, subtle and immutable Reality <span id="fr_38"></span>[\*](#fn_34),
+one, subtle and immutable Reality <span id="fr_38"></span>[\*](#fn_34.md),
 even as the clay is the prime cause of the earthen vessel etc." This is
 the kind of enquiry referred to above. (15)
 
@@ -106,7 +106,7 @@ worse than this? (19)
 <span id="page_45">p. 45</span>
 
 The self is that which illuminates and is absolutely pure; the body is
-inert. <span id="fr_39"></span>[\*](#fn_35) And yet they identify the
+inert. <span id="fr_39"></span>[\*](#fn_35.md) And yet they identify the
 two. Can any ignorance be worse than this? (20)
 
 The self is eternal and real by nature; the body is transient and
@@ -149,7 +149,7 @@ what the wise call knowledge (28)
 
 Why, fool, dost thou imagine to be an absolute void the self which is
 different from the body but which resides even in your body as the
-informing spirit <span id="fr_40"></span>[\*](#fn_36) auspicious, real,
+informing spirit <span id="fr_40"></span>[\*](#fn_36.md) auspicious, real,
 accepted by all? (29)
 
 <span id="page_48">p. 48</span>
@@ -174,7 +174,7 @@ be the self? (33)
 
 The wise have ascertained the exact nature of the self from the Vedic
 passage "Than whom there is naught higher, etc." <span
-id="fr_41"></span>[\*](#fn_37) How then can the body be the self? (34)
+id="fr_41"></span>[\*](#fn_37) How then can the body be the self? (34.md)
 
 It is further declared by the Veda in the *Purusha-sûkta* that all this
 universe is verily
@@ -197,7 +197,7 @@ of the body. (38)
 
 <span id="page_51">p. 51</span>
 
-Even the subtle body <span id="fr_42"></span>[\*](#fn_38), composed of
+Even the subtle body <span id="fr_42"></span>[\*](#fn_38.md), composed of
 many parts, Unstable, objective, mutable, finite, and unreal,—how can it
 be the self? (39)
 
@@ -207,7 +207,7 @@ with all, beyond all, the "I", the immutable. (40)
 
 (Says the opponent.) By the above distinction between the self and the
 body, it only follows that the manifested world is real, as declared by
-the science of logic. <span id="fr_43"></span>[†](#fn_39) Your aim
+the science of logic. <span id="fr_43"></span>[†](#fn_39.md) Your aim
 therefore fails. (41)
 
 <span id="page_52">p. 52</span>
@@ -238,16 +238,16 @@ the declaration "The Self is all." If the highest truth is thus
 understood, how can there be room for difference? (46)
 
 Indeed, multiplicity is directly contradicted by the Veda. <span
-id="fr_44"></span>[\*](#fn_40) How can there be any manifestation
+id="fr_44"></span>[\*](#fn_40.md) How can there be any manifestation
 
 <span id="page_54">p. 54</span>
 
 different from the one (secondless) cause. (47)
 
 The Veda has also pointed out the evil consequence, namely, that the man
-who, duped by illusion, perceives [multiplicity](errata.htm#1) in this
+who, duped by illusion, perceives [multiplicity](errata.htm#1.md) in this
 world, passes on from death to death. <span
-id="fr_45"></span>[\*](#fn_41) (48)
+id="fr_45"></span>[\*](#fn_41) (48.md)
 
 All creatures are born of Brahman, the Supreme Self. One should
 therefore understand. that all these are Brahman itself. (49)
@@ -278,7 +278,7 @@ self is Brahman itself which is everything. (55)
 
 This world, although it is the object of experience and of phenomenal
 treatment, is yet unreal like a dream, because it is followed by
-contradiction. <span id="fr_46"></span>[\*](#fn_42) (56)
+contradiction. <span id="fr_46"></span>[\*](#fn_42) (56.md)
 
 A dream becomes unreal in the waking state; nor does the waking state
 exist in dream. Both dream and waking are absent in sleep,
@@ -288,9 +288,9 @@ exist in dream. Both dream and waking are absent in sleep,
 and sleep too is absent in dream and in waking. (57)
 
 Thus all the three states are unreal, being produced by the three
-[qualities](errata.htm#2). <span id="fr_47"></span>[\*](#fn_43) The
+[qualities](errata.htm#2). <span id="fr_47"></span>[\*](#fn_43.md) The
 Eternal is the witness of these three states, beyond the three
-[qualities](errata.htm#3), the One that is pure consciousness. (58)
+[qualities](errata.htm#3), the One that is pure consciousness. (58.md)
 
 Just as one sees not the separate existence of the pot when he knows
 that it is clay, or the illusive existence of silver when he knows that
@@ -310,7 +310,7 @@ illusive appearance of a person in a post, so is the universe in
 Brahman. (61)
 
 Like a ghost in vacant space, like a city of the celestials <span
-id="fr_48"></span>[\*](#fn_44) and like two moons in the sky, so is the
+id="fr_48"></span>[\*](#fn_44.md) and like two moons in the sky, so is the
 existence of the world in Brahman. (62)
 
 Just as it is water alone that appears as waves and tides, and copper
@@ -341,7 +341,7 @@ self-resplendent Brahman that is seen. (67)
 
 The self always shines as unconditioned for the wise and always as
 conditioned for the ignorant, just as the rope appears in two
-ways. <span id="fr_49"></span>[\*](#fn_45) (68)
+ways. <span id="fr_49"></span>[\*](#fn_45) (68.md)
 
 <span id="page_61">p. 61</span>
 
@@ -426,7 +426,7 @@ feel any anxiety. (89)
 
 We shall now refute the statement in the books that, even when the self
 has been realised, such fruits of past actions as are ripe for
-experience <span id="fr_50"></span>[\*](#fn_46) cannot be avoided. (90)
+experience <span id="fr_50"></span>[\*](#fn_46) cannot be avoided. (90.md)
 
 <span id="page_67">p. 67</span>
 
@@ -465,10 +465,10 @@ past action in order to help-the understanding of the ignorant. (97)
 
 In the passage "his actions are destroyed when the supreme is realised",
 the Veda expressly speaks of actions in the plural, in order to signify
-the destruction of *prârabdha*. <span id="fr_51"></span>[\*](#fn_47)
+the destruction of *prârabdha*. <span id="fr_51"></span>[\*](#fn_47.md)
 (98)
 
-There is a twofold fault <span id="fr_52"></span>[†](#fn_48) in the
+There is a twofold fault <span id="fr_52"></span>[†](#fn_48.md) in the
 obstinate insistence on *prârabdha* by the ignorant. There is also the
 forsaking of the Vedanta doctrine, since the Veda declares the
 possibility of knowledge. (99)
@@ -510,18 +510,18 @@ realising the self that is Brahman. *Tyâga* is venerated even by the
 great, because it is of the nature of instant liberation. (106)
 
 The wise man should always see himself as that *mauna* <span
-id="fr_53"></span>[\*](#fn_49) from which word and thought, not reaching
+id="fr_53"></span>[\*](#fn_49.md) from which word and thought, not reaching
 it, turn away, but which is attainable by *yogis*. (107)
 
 Who can speak of that from which all words turn away? If the universe is
 to be spoken of, even that is devoid of words. <span
-id="fr_54"></span>[†](#fn_50) (108)
+id="fr_54"></span>[†](#fn_50) (108.md)
 
 <span id="page_73">p. 73</span>
 
 The above may also be termed *mauna* and is known as *sahaja*, among the
 enlightened. The *mauna* relating to speech <span
-id="fr_55"></span>[\*](#fn_51) has been ordained by the teachers of
+id="fr_55"></span>[\*](#fn_51.md) has been ordained by the teachers of
 Brahman for the ignorant. (109)
 
 That in which no individual existence is possible at the beginning or
@@ -536,15 +536,15 @@ from the creator downwards. (111)
 
 That \[condition\] in which Brahman is incessantly contemplated with
 unmixed bliss is known as *âsana*, and not others <span
-id="fr_56"></span>[\*](#fn_52) which destroy bliss. (112)
+id="fr_56"></span>[\*](#fn_52) which destroy bliss. (112.md)
 
-The *siddha-âsana* <span id="fr_57"></span>[†](#fn_53) is the Immutable
+The *siddha-âsana* <span id="fr_57"></span>[†](#fn_53.md) is the Immutable
 which is the beginning of all beings and the reality behind the
 universe, that in which the perfected ever repose. (113)
 
 That which is the root of all existence and which has the control of the
 mind for its root is the *mula-bandha* <span
-id="fr_58"></span>[†](#fn_53) which should be adopted at all times,
+id="fr_58"></span>[†](#fn_53.md) which should be adopted at all times,
 being fit for the greatest of *yogis*. (114)
 
 <span id="page_75">p. 75</span>
@@ -635,7 +635,7 @@ deaths. (133)
 
 The former (on the other hand) do not remain for even half a second
 without the Brahmic consciousness, in the same way as Brahman <span
-id="fr_59"></span>[\*](#fn_54) and others, Sanaka and others, Suka and
+id="fr_59"></span>[\*](#fn_54.md) and others, Sanaka and others, Suka and
 others. (134)
 
 <span id="page_81">p. 81</span>
@@ -647,7 +647,7 @@ investigation, attain the nature of the cause by eliminating the effect.
 
 Then will shine the absolutely real (self) that is beyond the scope of
 words. This should be understood again and again by the illustration of
-the earthen vessel. <span id="fr_60"></span>[\*](#fn_55) (136)
+the earthen vessel. <span id="fr_60"></span>[\*](#fn_55) (136.md)
 
 In this manner do the understanding (*vritti*) of Brahman and,
 thereafter, the Brahmic consciousness, (vṛitti jnâna) spring up in the
@@ -665,7 +665,7 @@ remains, that the sage becomes. (139)
 
 For, one soon becomes that which he contemplates with extreme assiduity
 and absolute certainty. This should be understood by the illustration of
-the wasp and the worm. <span id="fr_61"></span>[\*](#fn_56) (140)
+the wasp and the worm. <span id="fr_61"></span>[\*](#fn_56) (140.md)
 
 <span id="page_83">p. 83</span>
 
@@ -701,44 +701,44 @@ Thus ends <span class="smallcaps">Direct Realisation</span>.
 
 ### Footnotes
 
-<span id="fn_34"></span>[43:\*](wos06.htm#fr_38) Brahman.
+<span id="fn_34"></span>[43:\*](wos06.htm#fr_38.md) Brahman.
 
-<span id="fn_35"></span>[45:\*](wos06.htm#fr_39) That which is
+<span id="fn_35"></span>[45:\*](wos06.htm#fr_39.md) That which is
 illuminated.
 
-<span id="fn_36"></span>[47:\*](wos06.htm#fr_40) Purusha.
+<span id="fn_36"></span>[47:\*](wos06.htm#fr_40.md) Purusha.
 
-<span id="fn_37"></span>[49:\*](wos06.htm#fr_41) "Than whom there is
+<span id="fn_37"></span>[49:\*](wos06.htm#fr_41.md) "Than whom there is
 naught else that is higher, naught that is smaller or bigger. It stands
 in space unmoving, like a tree. By That, which is the Self, all this
 universe is filled."
 
-<span id="fn_38"></span>[51:\*](wos06.htm#fr_42) Linga-sarîra.
+<span id="fn_38"></span>[51:\*](wos06.htm#fr_42.md) Linga-sarîra.
 
-<span id="fn_39"></span>[51:†](wos06.htm#fr_43) Tarka-sâstra.
+<span id="fn_39"></span>[51:†](wos06.htm#fr_43.md) Tarka-sâstra.
 
-<span id="fn_40"></span>[53:\*](wos06.htm#fr_44) <span
+<span id="fn_40"></span>[53:\*](wos06.htm#fr_44.md) <span
 id="img_05300"></span> ![](img/05300.jpg). *i.e.*, there is naught of
 multiplicity in this world.
 
-<span id="fn_41"></span>[54:\*](wos06.htm#fr_45) *I.e.* Is born again
+<span id="fn_41"></span>[54:\*](wos06.htm#fr_45.md) *I.e.* Is born again
 and again; does not become free.
 
-<span id="fn_42"></span>[56:\*](wos06.htm#fr_46) When Brahmad is
+<span id="fn_42"></span>[56:\*](wos06.htm#fr_46.md) When Brahmad is
 realised.
 
-<span id="fn_43"></span>[57:\*](wos06.htm#fr_47) *Sattva*, *rajas* and
+<span id="fn_43"></span>[57:\*](wos06.htm#fr_47.md) *Sattva*, *rajas* and
 *tamas*.
 
-<span id="fn_44"></span>[58:\*](wos06.htm#fr_48) An accidental formation
+<span id="fn_44"></span>[58:\*](wos06.htm#fr_48.md) An accidental formation
 of the clouds resembling a city.
 
-<span id="fn_45"></span>[60:\*](wos06.htm#fr_49) As a rope to the clear
+<span id="fn_45"></span>[60:\*](wos06.htm#fr_49.md) As a rope to the clear
 vision or as a serpent to the mistaken vision.
 
-<span id="fn_46"></span>[66:\*](wos06.htm#fr_50) Prârabdha.
+<span id="fn_46"></span>[66:\*](wos06.htm#fr_50.md) Prârabdha.
 
-<span id="fn_47"></span>[69:\*](wos06.htm#fr_51) There are three kinds
+<span id="fn_47"></span>[69:\*](wos06.htm#fr_51.md) There are three kinds
 of actions:—(1) *prârabdha*, so much of past actions as has given rise
 to the present birth, (2) *sanchita*, the balance of past actions that
 will give rise to future births and (3) *kriyamâna*. acts being done in
@@ -746,34 +746,34 @@ the present life. If by knowledge (2) and (3) were alone to be destroyed
 and not (1) also, the dual number would have been used and not the
 plural.
 
-<span id="fn_48"></span>[69:†](wos06.htm#fr_52) The impossibility of
+<span id="fn_48"></span>[69:†](wos06.htm#fr_52.md) The impossibility of
 liberation and the futility of knowledge.
 
-<span id="fn_49"></span>[72:\*](wos06.htm#fr_53) Used here in the sense
+<span id="fn_49"></span>[72:\*](wos06.htm#fr_53.md) Used here in the sense
 of *Brahman*.
 
-<span id="fn_50"></span>[72:†](wos06.htm#fr_54) Since it is neither real
+<span id="fn_50"></span>[72:†](wos06.htm#fr_54.md) Since it is neither real
 nor non-existent. hence *anirvachanîya*.
 
-<span id="fn_51"></span>[73:\*](wos06.htm#fr_55) Literal silence.
+<span id="fn_51"></span>[73:\*](wos06.htm#fr_55.md) Literal silence.
 
-<span id="fn_52"></span>[74:\*](wos06.htm#fr_56) Postures and other
+<span id="fn_52"></span>[74:\*](wos06.htm#fr_56.md) Postures and other
 conditions.\]
 
-<span id="fn_53"></span>[74:†](wos06.htm#fr_58) The name or a particular
+<span id="fn_53"></span>[74:†](wos06.htm#fr_58.md) The name or a particular
 posture in *yoga*.
 
-<span id="fn_54"></span>[80:\*](wos06.htm#fr_59) The four-faced Creator.
+<span id="fn_54"></span>[80:\*](wos06.htm#fr_59.md) The four-faced Creator.
 
-<span id="fn_55"></span>[81:\*](wos06.htm#fr_60) The earthen vessel and
+<span id="fn_55"></span>[81:\*](wos06.htm#fr_60.md) The earthen vessel and
 the clay are illustrations of effect and cause respectively. One can
 only see the clay in the vessel, by eliminating the name and form of the
 vessel.
 
-<span id="fn_56"></span>[82:\*](wos06.htm#fr_61) It is the popular
+<span id="fn_56"></span>[82:\*](wos06.htm#fr_61.md) It is the popular
 belief that the worm in the wasp's nest develops into a wasp by its
 constant expectation of the wasp's return.
 
 ------------------------------------------------------------------------
 
-[Next: The Century of Verses.](wos07)
+[Next: The Century of Verses.](wos07.md)

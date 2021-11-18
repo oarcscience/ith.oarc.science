@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob16)  [Next](lbob18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob16)  [Next](lbob18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
 PRAYING THE GARDEN. (Right) PETER CUTTING OFF THE EAR OF MALCHUS, AND
 THE KISS OF JUDAS. FROM A GREEK MANUSCRIPT, OF THE TWELFTH CENTURY, IN
 THE LIBRARY OF THE VATICAN.](tn/14500.jpg)  
-Click to enlarge](img/14500.jpg)  
+Click to enlarge](img/14500.jpg.md)  
 (Left) CHRIST PRAYING THE GARDEN. (Right) PETER CUTTING OFF THE EAR OF
 MALCHUS, AND THE KISS OF JUDAS. FROM A GREEK MANUSCRIPT, OF THE TWELFTH
 CENTURY, IN THE LIBRARY OF THE VATICAN.  
@@ -58,53 +58,53 @@ ALL happiness to you my sons and daughters, in the name of our Lord
 Jesus Christ, who loved us, in peace.
 
 2 Having perceived abundance of knowledge of the great and  <span
-id="fr_543"></span>[1](#fn_543) excellent  <span
-id="fr_544"></span>[2](#fn_544) laws of God to be in you, I exceedingly
+id="fr_543"></span>[1](#fn_543.md) excellent  <span
+id="fr_544"></span>[2](#fn_544.md) laws of God to be in you, I exceedingly
 rejoice in your blessed and admirable  <span
-id="fr_545"></span>[3](#fn_545) souls, because ye have so worthily
-received the grace which was  <span id="fr_546"></span>[4](#fn_546)
+id="fr_545"></span>[3](#fn_545.md) souls, because ye have so worthily
+received the grace which was  <span id="fr_546"></span>[4](#fn_546.md)
 grafted in you.
 
 3 For which cause I am full of joy, hoping the rather to he  <span
-id="fr_547"></span>[5](#fn_547) saved; inasmuch as I truly see a spirit
-infused into you, from the  <span id="fr_548"></span>[6](#fn_548) pure
+id="fr_547"></span>[5](#fn_547.md) saved; inasmuch as I truly see a spirit
+infused into you, from the  <span id="fr_548"></span>[6](#fn_548.md) pure
 fountain of God:
 
 4 Having this persuasion, and being fully convinced thereof, because
 that since I have begun to speak unto you, I have had a more than
 ordinary good success in the way of  <span
-id="fr_549"></span>[7](#fn_549) the law of the Lord which is in Christ.
+id="fr_549"></span>[7](#fn_549.md) the law of the Lord which is in Christ.
 
-5 For which cause  <span id="fr_550"></span>[8](#fn_550) brethren, I
+5 For which cause  <span id="fr_550"></span>[8](#fn_550.md) brethren, I
 also think verily that I love you above my own soul: because that
 therein dwelleth the greatness of faith and charity, as also the hope of
 that life which is to come.
 
 6\. Wherefore considering this, that if I shall take care to communicate
 to you a part of what I have received, it shall turn to my reward,
- <span id="fr_551"></span>[9](#fn_551) that I have served such good
+ <span id="fr_551"></span>[9](#fn_551.md) that I have served such good
 souls; I gave diligence to write in a few words unto you; that together
-with your faith,  <span id="fr_552"></span>[10](#fn_552) knowledge also
+with your faith,  <span id="fr_552"></span>[10](#fn_552.md) knowledge also
 may be perfect.
 
-7 There are therefore three  <span id="fr_553"></span>[11](#fn_553)
+7 There are therefore three  <span id="fr_553"></span>[11](#fn_553.md)
 things ordained by the Lord; the hope of life;  <span
-id="fr_554"></span>[12](#fn_554) the beginning and the completion of it.
+id="fr_554"></span>[12](#fn_554.md) the beginning and the completion of it.
 
 8 For the Lord hath both declared unto us, by the prophets those things
-that  <span id="fr_555"></span>[13](#fn_555) are past; and  <span
-id="fr_556"></span>[14](#fn_556) opened to us the beginnings of those
+that  <span id="fr_555"></span>[13](#fn_555.md) are past; and  <span
+id="fr_556"></span>[14](#fn_556.md) opened to us the beginnings of those
 that are to come.
 
 <span id="page_146">p. 146</span>
 
-9 Wherefore, it will behoove us,  <span id="fr_557"></span>[1](#fn_557)
-as he has spoken, to come  <span id="fr_558"></span>[2](#fn_558) more
+9 Wherefore, it will behoove us,  <span id="fr_557"></span>[1](#fn_557.md)
+as he has spoken, to come  <span id="fr_558"></span>[2](#fn_558.md) more
 holily, and nearer to his altar.
 
 10 I therefore, not as a teacher, but as one  <span
-id="fr_559"></span>[3](#fn_559) of you, will endeavour to lay before you
-a few things by which you may, on  <span id="fr_560"></span>[4](#fn_560)
+id="fr_559"></span>[3](#fn_559.md) of you, will endeavour to lay before you
+a few things by which you may, on  <span id="fr_560"></span>[4](#fn_560.md)
 many accounts, become the more joyful.
 
 #### CHAP. II.
@@ -113,11 +113,11 @@ many accounts, become the more joyful.
 introduce the spiritual righteousness of the Gospel.</span>
 
 SEEING then the days are exceeding evil, and the adversary has got the
-power of this present  <span id="fr_561"></span>[5](#fn_561) world we
+power of this present  <span id="fr_561"></span>[5](#fn_561.md) world we
 ought to give the more diligence to inquire into the  <span
-id="fr_562"></span>[6](#fn_562) righteous judgments of the Lord.
+id="fr_562"></span>[6](#fn_562.md) righteous judgments of the Lord.
 
-2  <span id="fr_563"></span>[7](#fn_563) Now the assistants of our faith
+2  <span id="fr_563"></span>[7](#fn_563.md) Now the assistants of our faith
 are fear and patience; our fellow-combatants, long-suffering and
 continence.
 
@@ -126,14 +126,14 @@ understanding, and science, and knowledge, rejoice together with them.
 
 4 For God has manifested to us by all the prophets, that he has no
 occasion for our sacrifices, or burnt-offerings, or oblations: saying
-thus;  <span id="fr_564"></span>[8](#fn_564) To what purpose is the
+thus;  <span id="fr_564"></span>[8](#fn_564.md) To what purpose is the
 multitude of your sacrifices unto me, saith the Lord.
 
 5 I am full of the burnt-offerings of rams, and the fat of  <span
-id="fr_565"></span>[9](#fn_565) fed beasts; and I delight not in the
+id="fr_565"></span>[9](#fn_565.md) fed beasts; and I delight not in the
 blood of bullocks, or of he-goats
 
-6  <span id="fr_566"></span>[10](#fn_566) When ye come to appear before
+6  <span id="fr_566"></span>[10](#fn_566.md) When ye come to appear before
 me; who hath required this at your hands? Ye shall no more tread my
 courts.
 
@@ -147,22 +147,22 @@ Lord Jesus Christ, which is without the yoke of any such necessity,
 might have the spiritual offering of men themselves.
 
 9 For so the Lord saith again to those heretofore;  <span
-id="fr_567"></span>[11](#fn_567) Did I at all command your fathers when
+id="fr_567"></span>[11](#fn_567.md) Did I at all command your fathers when
 they came out of the land of Egypt concerning burnt-offerings of
 sacrifices?
 
 10 But this I commanded them, saying,  <span
-id="fr_568"></span>[12](#fn_568) Let none of you imagine evil in your
+id="fr_568"></span>[12](#fn_568.md) Let none of you imagine evil in your
 hearts against his neighbour, and love no false oath.
 
 11 Forasmuch then as we are not without understanding, we ought to
-apprehend the design  <span id="fr_569"></span>[13](#fn_569) of our
+apprehend the design  <span id="fr_569"></span>[13](#fn_569.md) of our
 merciful Father. For he speaks to us, being willing that we who have
 been in the same error about the sacrifices, should seek and find how to
 approach unto him.
 
 12 And therefore he thus bespeaks us,  <span
-id="fr_570"></span>[14](#fn_570) The sacrifice of God (is a broken
+id="fr_570"></span>[14](#fn_570.md) The sacrifice of God (is a broken
 spirit,) a broken and contrite heart God will not despise.
 
 13 Wherefore brethren, we ought the more diligently to inquire after
@@ -173,41 +173,41 @@ have any entrance into us, and deprive us of our spiritual life.
 
 <span id="page_147">p. 147</span>
 
-things;  <span id="fr_571"></span>[1](#fn_571) Ye shall not fast as ye
+things;  <span id="fr_571"></span>[1](#fn_571.md) Ye shall not fast as ye
 do this day, to make your voice to be heard on high.
 
 15 Is it such a fast that I have chosen? a day for a man to afflict his
-soul?  <span id="fr_572"></span>[2](#fn_572) Is it to bow down his head
+soul?  <span id="fr_572"></span>[2](#fn_572.md) Is it to bow down his head
 like a bulrush, and to spread sackcloth and ashes under him? Wilt thou
 call this a fast, and an acceptable day to the Lord?
 
 16 But to us he saith on this wise.  <span
-id="fr_573"></span>[3](#fn_573) Is not this the fast that I have chosen,
+id="fr_573"></span>[3](#fn_573.md) Is not this the fast that I have chosen,
 to loose the bands of wickedness, to undo the heavy burdens, and to let
 the oppressed go free; and that ye break every yoke?
 
-17  <span id="fr_574"></span>[4](#fn_574) Is it not to deal thy bread to
+17  <span id="fr_574"></span>[4](#fn_574.md) Is it not to deal thy bread to
 the hungry, and that thou bring the poor that are cast out to thy house?
 When thou seest the naked that thou cover him, and that thou hide not
 thyself from thine own flesh.
 
-18  <span id="fr_575"></span>[5](#fn_575) Then shall thy light break
+18  <span id="fr_575"></span>[5](#fn_575.md) Then shall thy light break
 forth as the morning, and thy health shall spring forth speedily; and
 thy righteousness shall go before thee, the glory of the Lord shall be
 thy reward.
 
-19  <span id="fr_576"></span>[6](#fn_576) Then shalt thou call and the
+19  <span id="fr_576"></span>[6](#fn_576.md) Then shalt thou call and the
 Lord shall answer; thou shalt cry and he shall say, Here I am. If thou
 put away from the midst of thee the yoke, the putting forth of the
-finger, and speaking vanity;  <span id="fr_577"></span>[7](#fn_577) and
+finger, and speaking vanity;  <span id="fr_577"></span>[7](#fn_577.md) and
 if thou draw out thy soul to the hungry; and satisfy the afflicted soul.
 
 20 In this therefore brethren, God has manifested his  <span
-id="fr_578"></span>[8](#fn_578) foreknowledge and love for us; because
+id="fr_578"></span>[8](#fn_578.md) foreknowledge and love for us; because
 the people which he has purchased to his beloved Son were to believe in
- <span id="fr_579"></span>[9](#fn_579) sincerity; and therefore he has
+ <span id="fr_579"></span>[9](#fn_579.md) sincerity; and therefore he has
 shewn these things to all of us, that we should not run as proselytes to
- <span id="fr_580"></span>[10](#fn_580) the Jewish law.
+ <span id="fr_580"></span>[10](#fn_580.md) the Jewish law.
 
 #### CHAP. III.
 
@@ -215,32 +215,32 @@ shewn these things to all of us, that we should not run as proselytes to
 and the coming of Christ.</span>
 
 WHEREFORE it is necessary that searching diligently into those  <span
-id="fr_581"></span>[11](#fn_581) things which are near to come to pass,
+id="fr_581"></span>[11](#fn_581.md) things which are near to come to pass,
 we should write to you what may serve to keep you whole.
 
 2 To which end let us flee from every evil work and hate the errors of
-the present time, that we may be  <span id="fr_582"></span>[12](#fn_582)
+the present time, that we may be  <span id="fr_582"></span>[12](#fn_582.md)
 happy in that which is to come:
 
 3 Let us not give ourselves the liberty of disputing with the wicked and
 sinners; lest we should chance in time to become like unto them.
 
-4 For the consummation of  <span id="fr_583"></span>[13](#fn_583) sin is
+4 For the consummation of  <span id="fr_583"></span>[13](#fn_583.md) sin is
 come, as it is written, as the prophet Daniel says. And for this end the
 Lord hath shortened the times and the days, that his beloved might
 hasten his coming to his inheritance.
 
-5 For so the prophet speaks;  <span id="fr_584"></span>[14](#fn_584)
+5 For so the prophet speaks;  <span id="fr_584"></span>[14](#fn_584.md)
 There shall ten kings reign in the heart, and there shall rise last of
 all another little one, and he shall humble three kings.
 
 6 And again Daniel speaks in like manner concerning the kingdoms;  <span
-id="fr_585"></span>[15](#fn_585) and I saw the fourth beast dreadful and
+id="fr_585"></span>[15](#fn_585.md) and I saw the fourth beast dreadful and
 terrible, and strong exceedingly; and it had ten horns.  <span
-id="fr_586"></span>[16](#fn_586) I considered the horns, and behold
+id="fr_586"></span>[16](#fn_586.md) I considered the horns, and behold
 there came up among them another little horn, before which were three of
 the first horns plucked up by the roots. <span
-id="fr_587"></span>[17](#fn_587)
+id="fr_587"></span>[17](#fn_587.md)
 
 7 We ought therefore to understand this also: And I beseech you as one
 of your own brethren, loving you all beyond my own life, that you look
@@ -249,7 +249,7 @@ well to yourselves, and be not like to those who
 <span id="page_148">p. 148</span>
 
 <span class="contnote">\[paragraph continues\]</span>  <span
-id="fr_588"></span>[1](#fn_588) add sin to sin, and say: That their
+id="fr_588"></span>[1](#fn_588.md) add sin to sin, and say: That their
 covenant is ours also. Nay, but it is ours only: for they have for ever
 lost that which Moses received.
 
@@ -258,24 +258,24 @@ and forty nights in the Mount; and he received the covenant from the
 Lord, even the two tables of stone, written by the hand of God.
 
 9 But having turned themselves to idols they lost it; as the Lord also
-said to Moses; Moses,  <span id="fr_589"></span>[2](#fn_589) go down
+said to Moses; Moses,  <span id="fr_589"></span>[2](#fn_589.md) go down
 quickly, for thy people which thou hast brought forth out of Egypt, have
 corrupted themselves, and turned aside from the way which I commanded
-them.  <span id="fr_590"></span>[3](#fn_590) And Moses cast the two
+them.  <span id="fr_590"></span>[3](#fn_590.md) And Moses cast the two
 tables out of his hands: and their covenant was broken; that the love of
 Jesus might be sealed in your hearts, unto the hope of his faith.
 
 10 Wherefore let us give heed unto the last times. For all the  <span
-id="fr_591"></span>[4](#fn_591) time past of our life, and our faith
+id="fr_591"></span>[4](#fn_591.md) time past of our life, and our faith
 will profit us nothing; unless we continue to hate what is evil, and to
 withstand the future temptations. So the Son of God tells us; Let us
 resist all iniquity and hate it.
 
 11 Wherefore consider the works of the evil way.  <span
-id="fr_592"></span>[5](#fn_592) Do not withdraw yourselves from others,
+id="fr_592"></span>[5](#fn_592.md) Do not withdraw yourselves from others,
 as if you were already justified; but coming altogether into one place,
 inquire what is agreeable to and profitable for the beloved of God. For
-the Scripture saith;  <span id="fr_593"></span>[6](#fn_593) Wo unto them
+the Scripture saith;  <span id="fr_593"></span>[6](#fn_593.md) Wo unto them
 that are wise in their own eyes, and prudent in their sight.
 
 12 Let us become spiritual, a perfect temple to God. As much as in us
@@ -291,7 +291,7 @@ wicked, the reward of his wickedness shall follow him.
 
 15 Take heed therefore lest sitting still, now that we are called, we
 fall asleep in our sins; and the wicked one getting the dominion over
-us, stir us up,  <span id="fr_594"></span>[7](#fn_594) and shut us out
+us, stir us up,  <span id="fr_594"></span>[7](#fn_594.md) and shut us out
 of the kingdom of the Lord.
 
 16 Consider this also: although you have seen so great signs and wonders
@@ -299,7 +299,7 @@ done among the people of the Jews, yet this notwithstanding the Lord
 hath forsaken them.
 
 17 Beware therefore, lest it happen to us; as it is written.  <span
-id="fr_595"></span>[8](#fn_595) There may be many called, but few
+id="fr_595"></span>[8](#fn_595.md) There may be many called, but few
 chosen.
 
 #### CHAP. IV.
@@ -314,7 +314,7 @@ sanctified; that is, by the sprinkling of his blood.
 2 Now for what concerns the things that are written about him, some
 belong to the people of the Jews, and some to us.
 
-3 For thus saith the Scripture:  <span id="fr_596"></span>[9](#fn_596)
+3 For thus saith the Scripture:  <span id="fr_596"></span>[9](#fn_596.md)
 He was wounded for our transgressions, he was bruised for our
 iniquities, and by his blood we are
 
@@ -325,10 +325,10 @@ shearers is dumb, so he opened not his mouth.
 
 4 Wherefore we ought the more to give thanks unto God, for that he hath
 both declared unto us what is passed,  <span
-id="fr_597"></span>[1](#fn_597) and not suffered us to be without
+id="fr_597"></span>[1](#fn_597.md) and not suffered us to be without
 understanding of those things that are to come.
 
-5 But to them he saith;  <span id="fr_598"></span>[2](#fn_598) The nests
+5 But to them he saith;  <span id="fr_598"></span>[2](#fn_598.md) The nests
 are not unjustly spread for the birds.
 
 6 This he spake, because a man will justly perish, if having the
@@ -337,11 +337,11 @@ from the way of darkness.
 
 7 And for this cause the Lord was content to suffer for our souls,
 although he be the Lord of the whole earth; to whom God said before the
-beginning of the world,  <span id="fr_599"></span>[3](#fn_599) Let us
+beginning of the world,  <span id="fr_599"></span>[3](#fn_599.md) Let us
 make man after our own image and likeness.
 
 8 Now how he suffered for us, seeing it was by men that he underwent it,
- <span id="fr_600"></span>[4](#fn_600) I will shew you.
+ <span id="fr_600"></span>[4](#fn_600.md) I will shew you.
 
 9 The prophets having received from him the gift of prophecy, spake
 before concerning him:
@@ -358,7 +358,7 @@ love which he bare towards them.
 
 12 And when he chose his apostles, which were afterwards to publish his
 Gospel, he took men who had been very great sinners; that thereby he
-might plainly shew, <span id="fr_601"></span>[5](#fn_601) That he came
+might plainly shew, <span id="fr_601"></span>[5](#fn_601.md) That he came
 not to call the righteous but sinners to repentance.
 
 13 Then he clearly manifested himself to be the Son of God. For had he
@@ -373,27 +373,27 @@ to look against the rays of it.
 might fill up the measure of their iniquity, who have persecuted his
 prophets unto death. And for the same reason also he suffered.
 
-16 For God hath said of the  <span id="fr_602"></span>[6](#fn_602)
+16 For God hath said of the  <span id="fr_602"></span>[6](#fn_602.md)
 stripes of his flesh, that they were from them. And,  <span
-id="fr_603"></span>[7](#fn_603) I will smite the shepherd, and the sheep
+id="fr_603"></span>[7](#fn_603.md) I will smite the shepherd, and the sheep
 of the flock shall be scattered.
 
 17 Thus he would suffer, because it behooved him to suffer upon the
 cross.
 
 18 For thus one saith, prophesying concerning him;  <span
-id="fr_604"></span>[8](#fn_604) Spare my soul from the sword. And again,
+id="fr_604"></span>[8](#fn_604.md) Spare my soul from the sword. And again,
 Pierce my flesh from thy fear.
 
 19 And again, the congregation of wicked doers rose up against me,
- <span id="fr_605"></span>[9](#fn_605) (They have pierced my hands and
+ <span id="fr_605"></span>[9](#fn_605.md) (They have pierced my hands and
 my feet).
 
 20 And again he saith, I gave
 
 <span id="page_150">p. 150</span>
 
-my back to the smiters,  <span id="fr_606"></span>[1](#fn_606) and my
+my back to the smiters,  <span id="fr_606"></span>[1](#fn_606.md) and my
 face I set as an hard rock.
 
 #### CHAP. V.
@@ -401,94 +401,94 @@ face I set as an hard rock.
 <span class="small">The subject continued.</span>
 
 AND when he had fulfilled the commandment of God, What says he?  <span
-id="fr_607"></span>[2](#fn_607) Who will contend with me? Let him stand
-against me: or who is he that will [impede](errata.htm#6) me? Let him
+id="fr_607"></span>[2](#fn_607.md) Who will contend with me? Let him stand
+against me: or who is he that will [impede](errata.htm#6.md) me? Let him
 draw near to the servant of the Lord. Wo be to you!  <span
-id="fr_608"></span>[3](#fn_608) Because ye shall all wax old as a
+id="fr_608"></span>[3](#fn_608.md) Because ye shall all wax old as a
 garment, the moth shall eat you up.
 
-2 And again the prophet adds,  <span id="fr_609"></span>[4](#fn_609) He
-is put for a stone for stumbling.  <span id="fr_610"></span>[5](#fn_610)
+2 And again the prophet adds,  <span id="fr_609"></span>[4](#fn_609.md) He
+is put for a stone for stumbling.  <span id="fr_610"></span>[5](#fn_610.md)
 Behold I lay in Zion for a foundation, a precious stone, a choice corner
 stone; an honourable stone. And what follows? And he that hopeth in him
 shall live for ever.
 
 3 What then? Is our hope built upon a stone? God forbid. But because the
-Lord hath  <span id="fr_611"></span>[6](#fn_611) hardened his flesh
-against sufferings, he saith,  <span id="fr_612"></span>[7](#fn_612) I
+Lord hath  <span id="fr_611"></span>[6](#fn_611.md) hardened his flesh
+against sufferings, he saith,  <span id="fr_612"></span>[7](#fn_612.md) I
 have put me as a firm rock.
 
-4 And again the prophet adds;  <span id="fr_613"></span>[8](#fn_613) The
+4 And again the prophet adds;  <span id="fr_613"></span>[8](#fn_613.md) The
 stone which the builders refused has become the head of the corner. And
-again he saith;  <span id="fr_614"></span>[9](#fn_614) This is the great
+again he saith;  <span id="fr_614"></span>[9](#fn_614.md) This is the great
 and wonderful day which the Lord hath made.  <span
-id="fr_615"></span>[10](#fn_615) I write these things the more plainly
-to you that ye may understand:  <span id="fr_616"></span>[11](#fn_616)
+id="fr_615"></span>[10](#fn_615.md) I write these things the more plainly
+to you that ye may understand:  <span id="fr_616"></span>[11](#fn_616.md)
 For indeed I could be content even to die for your sakes.
 
 5 But what saith the prophet again?  <span
-id="fr_617"></span>[12](#fn_617) The counsel of the wicked encompassed
-me about.  <span id="fr_618"></span>[13](#fn_618) They came about me, as
-bees about the honey-comb: and,  <span id="fr_619"></span>[14](#fn_619)
+id="fr_617"></span>[12](#fn_617.md) The counsel of the wicked encompassed
+me about.  <span id="fr_618"></span>[13](#fn_618.md) They came about me, as
+bees about the honey-comb: and,  <span id="fr_619"></span>[14](#fn_619.md)
 Upon my vesture they cast lots.
 
 6 Forasmuch then as our Saviour was to appear in the flesh and suffer,
 his passion was hereby foretold.
 
 7 For thus saith the prophet against Israel:  <span
-id="fr_620"></span>[15](#fn_620) Wo be to their soul, because they have
+id="fr_620"></span>[15](#fn_620.md) Wo be to their soul, because they have
 taken wicked counsel against themselves, saying, let us  <span
-id="fr_621"></span>[16](#fn_621) lay snares for the righteous, because
+id="fr_621"></span>[16](#fn_621.md) lay snares for the righteous, because
 he is unprofitable to us.
 
 8 Moses also in like manner speaketh to them;  <span
-id="fr_622"></span>[17](#fn_622) Behold thus saith the Lord God; Enter
+id="fr_622"></span>[17](#fn_622.md) Behold thus saith the Lord God; Enter
 ye into the good land of which the Lord hath sworn to Abraham, and
 Isaac, and Jacob, that he would give it you, and possess it; a land
 flowing with milk and honey.
 
 9 Now what the spiritual meaning of this is, learn;  <span
-id="fr_623"></span>[18](#fn_623) It is as if it had been said, Put your
+id="fr_623"></span>[18](#fn_623.md) It is as if it had been said, Put your
 trust in Jesus, who shall be manifested to you in the flesh. For man is
 the earth which suffers: forasmuch as out of the  <span
-id="fr_624"></span>[19](#fn_624) substance of the earth Adam was formed.
+id="fr_624"></span>[19](#fn_624.md) substance of the earth Adam was formed.
 
 10 What therefore does he mean when he says, Into a good land flowing
 with milk and honey? Blessed be our Lord, who has given us wisdom, and a
 heart to understand his secrets. For so says the prophet,  <span
-id="fr_625"></span>[20](#fn_625) Who shall understand the hard sayings
-of the Lord?  <span id="fr_626"></span>[21](#fn_626) But he that
+id="fr_625"></span>[20](#fn_625.md) Who shall understand the hard sayings
+of the Lord?  <span id="fr_626"></span>[21](#fn_626.md) But he that
 
 <span id="page_151">p. 151</span>
 
 is wise, and intelligent, and that loves his Lord.
 
 11 Seeing therefore he has renewed us by the remission of our sins, he
-has  <span id="fr_627"></span>[1](#fn_627) put us into another frame,
-that we should have souls  <span id="fr_628"></span>[2](#fn_628) like
+has  <span id="fr_627"></span>[1](#fn_627.md) put us into another frame,
+that we should have souls  <span id="fr_628"></span>[2](#fn_628.md) like
 those of children, forming us again himself  <span
-id="fr_629"></span>[3](#fn_629) by the spirit.
+id="fr_629"></span>[3](#fn_629.md) by the spirit.
 
 12 For thus the Scripture saith concerning us,  <span
-id="fr_630"></span>[4](#fn_630) where it introduceth the Father speaking
-to the Son;  <span id="fr_631"></span>[5](#fn_631) Let us make man after
+id="fr_630"></span>[4](#fn_630.md) where it introduceth the Father speaking
+to the Son;  <span id="fr_631"></span>[5](#fn_631.md) Let us make man after
 our likeness and similitude; and let them have dominion over the beasts
 of the earth, and over the fowls of the air, and the fish of the sea.
 
 13 And when the Lord saw the man which he had formed, that behold he was
-very good; he said,  <span id="fr_632"></span>[6](#fn_632) Increase and
+very good; he said,  <span id="fr_632"></span>[6](#fn_632.md) Increase and
 multiply, and replenish the earth. And this he spake to his son.
 
 14 I will now shew you, how he made us  <span
-id="fr_633"></span>[7](#fn_633) a new creature, in the latter days.
+id="fr_633"></span>[7](#fn_633.md) a new creature, in the latter days.
 
-15 The Lord saith;  <span id="fr_634"></span>[8](#fn_634) Behold I will
+15 The Lord saith;  <span id="fr_634"></span>[8](#fn_634.md) Behold I will
 make the last as the first. Wherefore the prophet thus spake,  <span
-id="fr_635"></span>[9](#fn_635) Enter into the land flowing with milk
+id="fr_635"></span>[9](#fn_635.md) Enter into the land flowing with milk
 and honey, and have dominion over it.
 
 16 Wherefore ye see how we are again formed anew; as also he speaks by
-another prophet;  <span id="fr_636"></span>[10](#fn_636) Behold saith
+another prophet;  <span id="fr_636"></span>[10](#fn_636.md) Behold saith
 the Lord, I will take from them, that is, from those whom the spirit of
 the Lord foresaw, their hearts of stone, and I will put into them hearts
 of flesh.
@@ -497,8 +497,8 @@ of flesh.
 us.
 
 18 For, my brethren, the habitation of our heart is a  <span
-id="fr_637"></span>[11](#fn_637) holy temple unto the Lord. For the Lord
-saith again.  <span id="fr_638"></span>[12](#fn_638) In what place shall
+id="fr_637"></span>[11](#fn_637.md) holy temple unto the Lord. For the Lord
+saith again.  <span id="fr_638"></span>[12](#fn_638.md) In what place shall
 I appear before the Lord my God, and be glorified?
 
 19 He answers I will confess unto thee in the congregation in the midst
@@ -506,7 +506,7 @@ of my brethren; and will sing unto thee in the church of the saints.
 
 20 Wherefore we are they whom he has brought into that good land.
 
-21  <span id="fr_639"></span>[13](#fn_639) But what signifies the milk
+21  <span id="fr_639"></span>[13](#fn_639.md) But what signifies the milk
 and honey? Because as the child is nourished first with milk, and then
 with honey; so we being kept alive by the belief of his promises, and
 his word, shall live and have dominion over the land.
@@ -540,21 +540,21 @@ suffered but for us. But being crucified, they gave him vinegar and gall
 to drink.
 
 3 Hear therefore how the priests of the temple did foreshew this also:
- <span id="fr_640"></span>[1](#fn_640) the Lord by his command which was
+ <span id="fr_640"></span>[1](#fn_640.md) the Lord by his command which was
 written, declared that whosoever did not fast the appointed fast he
- <span id="fr_641"></span>[2](#fn_641) should die the death: because he
+ <span id="fr_641"></span>[2](#fn_641.md) should die the death: because he
 also was himself one day to offer up his  <span
-id="fr_642"></span>[3](#fn_642) body for our sins; that so the type of
-what was done in  <span id="fr_643"></span>[4](#fn_643) Isaac might be
+id="fr_642"></span>[3](#fn_642.md) body for our sins; that so the type of
+what was done in  <span id="fr_643"></span>[4](#fn_643.md) Isaac might be
 fulfilled, who was offered upon the altar.
 
 4 What therefore is it that he says by the prophet?  <span
-id="fr_644"></span>[5](#fn_644) And let them eat of the goat which is
+id="fr_644"></span>[5](#fn_644.md) And let them eat of the goat which is
 offered in the day of the fast for all their sins. Hearken diligently
 (my brethren,) and all the priests, and they only shall eat the inwards
 not washed with vinegar.
 
-5 Why so? because  <span id="fr_645"></span>[6](#fn_645) I know that
+5 Why so? because  <span id="fr_645"></span>[6](#fn_645.md) I know that
 when I shall hereafter offer my flesh for the sins of a new people, ye
 will give me vinegar to drink mixed with gall; therefore do ye only eat,
 the people fasting the while, and lamenting in sackcloth and ashes.
@@ -562,20 +562,20 @@ the people fasting the while, and lamenting in sackcloth and ashes.
 6 And that he might foreshew that he was to suffer for them, hear then
 how he appointed it.
 
-7  <span id="fr_646"></span>[7](#fn_646) Take, says he, two goats, fair
+7  <span id="fr_646"></span>[7](#fn_646.md) Take, says he, two goats, fair
 and alike, and offer them, and let the high priest take one of them for
 a burnt offering. And what must be done with the other? Let it says he
 be accursed.
 
 8 Consider how exactly this appears to have been a type of Jesus.  <span
-id="fr_647"></span>[8](#fn_647) And let all the congregation spit upon
+id="fr_647"></span>[8](#fn_647.md) And let all the congregation spit upon
 it, and prick it; and put the scarlet wool about its head, and thus let
 it be carried forth into the wilderness.
 
 9 And this being done, he that was appointed to convey the goat, led it
-into the wilderness,  <span id="fr_648"></span>[9](#fn_648) and took
+into the wilderness,  <span id="fr_648"></span>[9](#fn_648.md) and took
 away the scarlet wool, and put it upon a thorn bush, whose  <span
-id="fr_649"></span>[10](#fn_649) young sprouts when we find them in the
+id="fr_649"></span>[10](#fn_649.md) young sprouts when we find them in the
 field we are wont to eat: so the fruit of that thorn only is sweet.
 
 10 And to what end was this ceremony? Consider; one was offered upon the
@@ -587,13 +587,13 @@ say: Is not this he whom we crucified; having despised him, pierced him,
 mocked him? Certainly, this is he, who then said, that he was the Son of
 God.
 
-12  <span id="fr_650"></span>[11](#fn_650) As therefore he shall be then
+12  <span id="fr_650"></span>[11](#fn_650.md) As therefore he shall be then
 like to what he was on earth, so were the Jews heretofore commanded, to
 take two goats fair and equal. That when they shall see (our Saviour)
 hereafter coming (in the clouds of heaven), they may be amazed at the
 likeness of the goats.
 
-13 Wherefore  <span id="fr_651"></span>[12](#fn_651) ye here again see a
+13 Wherefore  <span id="fr_651"></span>[12](#fn_651.md) ye here again see a
 type of Jesus who was to suffer for us.
 
 14 But what then signifies this. That the wool was to be put into the
@@ -608,7 +608,7 @@ CROSS TO GOLGOTHA, FOLLOWED BY HOLY WOMEN. The Drawings on each side of
 the Engraving are Enlargements of the Heads of the Principal Figures.
 FROM A FRESCO OF THE TWELFTH CENTURY IN THE CHURCH OF ST. STEPHEN AT
 BOLOGNA.](tn/15300.jpg)  
-Click to enlarge](img/15300.jpg)  
+Click to enlarge](img/15300.jpg.md)  
 CHRIST BEARING HIS CROSS TO GOLGOTHA, FOLLOWED BY HOLY WOMEN. The
 Drawings on each side of the Engraving are Enlargements of the Heads of
 the Principal Figures. FROM A FRESCO OF THE TWELFTH CENTURY IN THE
@@ -617,7 +617,7 @@ CHURCH OF ST. STEPHEN AT BOLOGNA.
 
 he who would take away the scarlet wool must undergo many difficulties,
 because that thorn was very sharp, and with difficulty get it:  <span
-id="fr_652"></span>[1](#fn_652) So they, says Christ, that will see me,
+id="fr_652"></span>[1](#fn_652.md) So they, says Christ, that will see me,
 and come to my kingdom, must through many afflictions and troubles
 attain unto me.
 
@@ -625,8 +625,8 @@ attain unto me.
 
 <span class="small">*The red heifer, another type of Christ*.</span>
 
-BUT what  <span id="fr_653"></span>[2](#fn_653) type do ye suppose it to
-have been, where it is  <span id="fr_654"></span>[3](#fn_654) commanded
+BUT what  <span id="fr_653"></span>[2](#fn_653.md) type do ye suppose it to
+have been, where it is  <span id="fr_654"></span>[3](#fn_654.md) commanded
 to the people of Israel, that grown persons in whom sins are come to
 perfection, should offer an heifer, and after they had killed it should
 burn the same.
@@ -637,7 +637,7 @@ young men should sprinkle every one of the people, and they should be
 clear from their sins.
 
 3 Consider how all these are delivered in a  <span
-id="fr_655"></span>[4](#fn_655) figure to us.
+id="fr_655"></span>[4](#fn_655.md) figure to us.
 
 4 This heifer is Jesus Christ; the wicked men that were to offer it are
 those sinners who brought him to death: who afterwards have no more to
@@ -646,24 +646,24 @@ do with it; the sinners have no more the honour of handling of it:
 5 But the young men that performed the sprinkling, signified those who
 preach to us the forgiveness of sins and the purification of the heart,
 to whom the Lord gave authority to preach his Gospel: being at the
-beginning twelve,  <span id="fr_656"></span>[5](#fn_656) to signify the
+beginning twelve,  <span id="fr_656"></span>[5](#fn_656.md) to signify the
 tribes, because there were twelve tribes of Israel.
 
 6 But why were there three young men appointed to sprinkle? To denote
 Abraham, and Isaac, and Jacob, because they were great before God.
 
-7 And why was the wool put upon a  <span id="fr_657"></span>[6](#fn_657)
+7 And why was the wool put upon a  <span id="fr_657"></span>[6](#fn_657.md)
 stick? Because the kingdom of Jesus was founded upon the cross; and
 therefore they that put their trust in him, shall live for ever.
 
 8 But why was the wool and hyssop put together? To signify that in the
 kingdom of Christ there shall be evil and filthy days, in which however
-we shall be saved; and  <span id="fr_658"></span>[7](#fn_658) because he
+we shall be saved; and  <span id="fr_658"></span>[7](#fn_658.md) because he
 that has any disease in the flesh by some filthy humours is cured by
 hyssop.
 
 9 Wherefore these things being thus done, are to us indeed evident, but
-to the  <span id="fr_659"></span>[8](#fn_659) Jews they are obscure;
+to the  <span id="fr_659"></span>[8](#fn_659.md) Jews they are obscure;
 because they hearkened not unto the voice of the Lord.
 
 #### CHAP. VIII.
@@ -674,31 +674,31 @@ name*.</span>
 
 AND therefore the Scripture again speaks concerning our ears, that God
 has circumcised them, together with our hearts For thus saith the Lord
-by the holy prophets:  <span id="fr_660"></span>[9](#fn_660) By the
+by the holy prophets:  <span id="fr_660"></span>[9](#fn_660.md) By the
 hearing of the ear they obeyed me.
 
-2 And again,  <span id="fr_661"></span>[10](#fn_661) whey who are afar
+2 And again,  <span id="fr_661"></span>[10](#fn_661.md) whey who are afar
 off, shall hear and understand what things I have done. And again,
- <span id="fr_662"></span>[11](#fn_662) Circumcise your hearts, saith
+ <span id="fr_662"></span>[11](#fn_662.md) Circumcise your hearts, saith
 the Lord.
 
-3 And again he saith,  <span id="fr_663"></span>[12](#fn_663) Hear O
+3 And again he saith,  <span id="fr_663"></span>[12](#fn_663.md) Hear O
 Israel! For thus saith the Lord thy God. And again the
 
 <span id="page_154">p. 154</span>
 
 <span class="contnote">\[paragraph continues\]</span> Spirit of God
-prophesieth, saying:  <span id="fr_664"></span>[1](#fn_664) Who is there
-that would live for ever,  <span id="fr_665"></span>[2](#fn_665) let him
+prophesieth, saying:  <span id="fr_664"></span>[1](#fn_664.md) Who is there
+that would live for ever,  <span id="fr_665"></span>[2](#fn_665.md) let him
 hear the voice of my Son.
 
-4 And again,  <span id="fr_666"></span>[3](#fn_666) Hear, O Heaven and
+4 And again,  <span id="fr_666"></span>[3](#fn_666.md) Hear, O Heaven and
 give ear O Earth! Because the Lord has spoken these things for a
 witness.
 
-5 And again he saith  <span id="fr_667"></span>[4](#fn_667) Hear the
+5 And again he saith  <span id="fr_667"></span>[4](#fn_667.md) Hear the
 word of the Lord, ye princes of the people. And again  <span
-id="fr_668"></span>[5](#fn_668) Hear O Children! The voice of one crying
+id="fr_668"></span>[5](#fn_668.md) Hear O Children! The voice of one crying
 in the wilderness.
 
 6 Wherefore he has circumcised our ears that we should hear his word,
@@ -707,20 +707,20 @@ is abolished. For the circumcision of which God spake, was not of the
 flesh;
 
 7 But they have transgressed his commands, because the evil  <span
-id="fr_669"></span>[6](#fn_669) one hath deceived them. For thus God
-bespeaks them;  <span id="fr_670"></span>[7](#fn_670) Thus saith the
+id="fr_669"></span>[6](#fn_669.md) one hath deceived them. For thus God
+bespeaks them;  <span id="fr_670"></span>[7](#fn_670.md) Thus saith the
 Lord your God (Here I find the new law) Sow not among thorns; but
 circumcise yourselves to the Lord your God. And what doth he mean by
 this saying? Hearken unto your Lord.
 
-8 And again he saith,  <span id="fr_671"></span>[8](#fn_671) Circumcise
+8 And again he saith,  <span id="fr_671"></span>[8](#fn_671.md) Circumcise
 the hardness of your heart, and harden not your neck. And again,  <span
-id="fr_672"></span>[9](#fn_672) Behold, saith the Lord, all the nations
+id="fr_672"></span>[9](#fn_672.md) Behold, saith the Lord, all the nations
 are uncircumcised, (they have not lost their fore-skin): but this people
 is uncircumcised in heart.
 
-9 But you will say  <span id="fr_673"></span>[10](#fn_673) the Jews were
-circumcised for a sign.  <span id="fr_674"></span>[11](#fn_674) And so
+9 But you will say  <span id="fr_673"></span>[10](#fn_673.md) the Jews were
+circumcised for a sign.  <span id="fr_674"></span>[11](#fn_674.md) And so
 are all the Syrians and Arabians, and all the idolatrous priests: but
 are they therefore of the covenant of Israel? And even the Egyptians
 themselves are circumcised.
@@ -731,7 +731,7 @@ in the Spirit to Jesus, circumcised, having received the mystery of
 three letters.
 
 11 For the Scripture says that Abraham circumcised three hundred and
-eighteen men of his house.  <span id="fr_675"></span>[12](#fn_675) But
+eighteen men of his house.  <span id="fr_675"></span>[12](#fn_675.md) But
 what therefore was the mystery that was made known unto him?
 
 12 Mark, first the eighteen, and next the three hundred. For the numeral
@@ -744,7 +744,7 @@ third his cross.
 
 14 He who has put the engrafted gift of his doctrine within us, knows
 that I never taught to any one a more  <span
-id="fr_676"></span>[13](#fn_676) certain truth; but I trust that ye are
+id="fr_676"></span>[13](#fn_676.md) certain truth; but I trust that ye are
 worthy of it.
 
 #### CHAP. IX.
@@ -753,7 +753,7 @@ worthy of it.
 unclean beasts, &c., were all designed for a spiritual
 signification*.</span>
 
-BUT why did Moses say  <span id="fr_677"></span>[14](#fn_677) Ye shall
+BUT why did Moses say  <span id="fr_677"></span>[14](#fn_677.md) Ye shall
 not eat of the swine, neither the eagle nor the hawk; nor the crow; nor
 any fish that
 
@@ -761,7 +761,7 @@ any fish that
 
 has not a scale upon him?—answer, that in the spiritual sense, he
 comprehended three doctrines, that were to be  <span
-id="fr_678"></span>[1](#fn_678) gathered from thence.
+id="fr_678"></span>[1](#fn_678.md) gathered from thence.
 
 2 Besides which he says to them in the book of Deuteronomy, And I will
 give my statutes unto this people. Wherefore it is not the command of
@@ -782,7 +782,7 @@ but injuriously ravish away the things of others; and watch how, to lay
 snares for them; when at the same time they appear to live in perfect
 innocence.
 
-5 ( <span id="fr_679"></span>[2](#fn_679) So these birds alone seek not
+5 ( <span id="fr_679"></span>[2](#fn_679.md) So these birds alone seek not
 food for themselves, but) sitting idle seek how they may eat of the
 flesh others have provided; being destructive through their wickedness.
 
@@ -867,23 +867,23 @@ beforehand concerning water and the cross.
 how they shall not receive that baptism which brings to forgiveness of
 sins; but shall institute another to themselves that cannot.
 
-3 For thus saith the prophet:  <span id="fr_680"></span>[1](#fn_680) Be
+3 For thus saith the prophet:  <span id="fr_680"></span>[1](#fn_680.md) Be
 astonished, O Heaven! and let the earth tremble at it, because this
 people have done two great and wicked things; they have left me, the
 fountain of living water, and have digged for themselves broken
 cisterns, that can hold no water.
 
-4 Is my holy mountain a  <span id="fr_681"></span>[2](#fn_681) Zion, a
-desolate wilderness?  <span id="fr_682"></span>[3](#fn_682) For ye shall
+4 Is my holy mountain a  <span id="fr_681"></span>[2](#fn_681.md) Zion, a
+desolate wilderness?  <span id="fr_682"></span>[3](#fn_682.md) For ye shall
 be as a young bird when its nest is taken away.
 
-5 And again the prophet saith,  <span id="fr_683"></span>[4](#fn_683) I
+5 And again the prophet saith,  <span id="fr_683"></span>[4](#fn_683.md) I
 will go before thee, and will make plain the mountains, and will break
 the gates of brass, and will snap in sunder the bars of iron; and will
 give thee dark, and hidden, and invisible treasures, that they may know
 that I am the Lord God.
 
-6 And again: He shall dwell  <span id="fr_684"></span>[5](#fn_684) in
+6 And again: He shall dwell  <span id="fr_684"></span>[5](#fn_684.md) in
 the high den of the strong rock. And then, what follows in the same
 prophet? His water is faithful; ye shall see the king
 
@@ -892,7 +892,7 @@ prophet? His water is faithful; ye shall see the king
 with glory, and your soul shall learn the fear of the Lord.
 
 7 And again he saith in another prophet: He that does these things;
- <span id="fr_685"></span>[1](#fn_685) shall be like a tree, planted by
+ <span id="fr_685"></span>[1](#fn_685.md) shall be like a tree, planted by
 the currents of water, which shall give its fruit in its season. Its
 leaf also shall not wither, and whatsoever he doth it shall prosper.
 
@@ -914,9 +914,9 @@ fall; meaning thereby that every word that shall go out of your mouth,
 shall through faith and charity be to the conversion and hope of many.
 
 13 In like manner doth another prophet speak.  <span
-id="fr_686"></span>[2](#fn_686) And the land of Jacob was the praise of
-all the earth;  <span id="fr_687"></span>[3](#fn_687) magnifying thereby
-the  <span id="fr_688"></span>[4](#fn_688) vessel of his spirit.
+id="fr_686"></span>[2](#fn_686.md) And the land of Jacob was the praise of
+all the earth;  <span id="fr_687"></span>[3](#fn_687.md) magnifying thereby
+the  <span id="fr_688"></span>[4](#fn_688.md) vessel of his spirit.
 
 14 And what follows?—And there was a river running on the right hand,
 and beautiful trees grew up by it; and he that shall eat of them shall
@@ -933,23 +933,23 @@ believe, shall live for ever.
 <span class="small">*The subject continued*.</span>
 
 IN like manner he determines concerning the cross in  <span
-id="fr_689"></span>[5](#fn_689) another prophet, saying: And when shall
+id="fr_689"></span>[5](#fn_689.md) another prophet, saying: And when shall
 these things be fulfilled?
 
 2 The Lord answers; When the tree that has fallen shall rise, and when
 blood shall drop down from the tree. Here you have again mention made,
 both of the cross, and of him that was to be crucified upon it.
 
-3  <span id="fr_690"></span>[6](#fn_690) And yet farther he saith by
+3  <span id="fr_690"></span>[6](#fn_690.md) And yet farther he saith by
 Moses; (when Israel was fighting with, and beaten by, a strange people;
-to the end that God might put  <span id="fr_691"></span>[7](#fn_691)
+to the end that God might put  <span id="fr_691"></span>[7](#fn_691.md)
 them in mind how that for their sins they were delivered unto death)
 yea, the holy spirit put it into the heart of Moses, to represent both
 the sign of the cross, and of him that was to suffer; that so they might
 know that if they did not believe in him, they should be overcome for
 ever.
 
-4 Moses therefore  <span id="fr_692"></span>[8](#fn_692) piled up armour
+4 Moses therefore  <span id="fr_692"></span>[8](#fn_692.md) piled up armour
 upon armour in the middle of a rising ground, and
 
 <span id="page_158">p. 158</span>
@@ -962,14 +962,14 @@ And why so?—To the end they might know, that except they trust in him
 they cannot be saved.
 
 6 And in another prophet, he saith,  <span
-id="fr_693"></span>[1](#fn_693) I have stretched out my hands all the
+id="fr_693"></span>[1](#fn_693.md) I have stretched out my hands all the
 day long to a people disobedient, and speaking against my righteous way.
 
-7 And again Moses makes a  <span id="fr_694"></span>[2](#fn_694) type of
+7 And again Moses makes a  <span id="fr_694"></span>[2](#fn_694.md) type of
 Jesus, to show that he was to die, and then that he, whom they thought
 to be dead, was to give life to others; in the  <span
-id="fr_695"></span>[3](#fn_695) type of  <span
-id="fr_696"></span>[4](#fn_696) those that fell in Israel.
+id="fr_695"></span>[3](#fn_695.md) type of  <span
+id="fr_696"></span>[4](#fn_696.md) those that fell in Israel.
 
 8 For God caused all sorts of serpents to bite them, and they died;
 forasmuch as by a serpent transgression began in Eve: that so he might
@@ -977,7 +977,7 @@ convince them that for their transgressions they shall be delivered into
 the pain of death.
 
 9 Moses then himself, who had commanded them, saying,  <span
-id="fr_697"></span>[5](#fn_697) Ye shall not make to yourselves any
+id="fr_697"></span>[5](#fn_697.md) Ye shall not make to yourselves any
 graven or molten image, to be your God; yet now did so himself, that he
 might represent to them the figure of the Lord Jesus.
 
@@ -991,35 +991,35 @@ bitten, let him come unto the serpent that is set upon the pole; and let
 him assuredly trust in him, that though he be dead, yet he is able to
 give life, and presently he shall be saved; and so they did. See
 therefore how here also you have in this the glory of Jesus; and that
- <span id="fr_698"></span>[6](#fn_698) in him and to him are all things.
+ <span id="fr_698"></span>[6](#fn_698.md) in him and to him are all things.
 
 12 Again; What says Moses to Jesus the son of Nun, when he gave that
 name unto him, as being a prophet that all the people might hear him
-alone,  <span id="fr_699"></span>[7](#fn_699) because the father did
+alone,  <span id="fr_699"></span>[7](#fn_699.md) because the father did
 manifest all things concerning his son Jesus, in  <span
-id="fr_700"></span>[8](#fn_700) Jesus the Son of Nun; and gave him that
+id="fr_700"></span>[8](#fn_700.md) Jesus the Son of Nun; and gave him that
 name when he sent him to spy out the land of Canaan;  <span
-id="fr_701"></span>[9](#fn_701) he said: Take a book in thine hands, and
+id="fr_701"></span>[9](#fn_701.md) he said: Take a book in thine hands, and
 write what the Lord saith: Forasmuch as Jesus the Son of God shall in
 the last days cut off by the roots all the house of Amalek. See here
 again Jesus, not the son of man, but the Son of God, made manifest in a
 type and in the flesh.
 
 13 But because it might hereafter be said, that Christ was the Son of
-David;  <span id="fr_702"></span>[10](#fn_702) therefore David fearing
+David;  <span id="fr_702"></span>[10](#fn_702.md) therefore David fearing
 and well knowing the errors of the wicked, saith;  <span
-id="fr_703"></span>[11](#fn_703) the Lord saith unto my Lord, sit thou
+id="fr_703"></span>[11](#fn_703.md) the Lord saith unto my Lord, sit thou
 on my right hand until I make thine enemies thy footstool.
 
 14 And again Isaiah speaketh on this wise. The Lord said unto  <span
-id="fr_704"></span>[12](#fn_704) Christ my Lord, I have laid hold on his
+id="fr_704"></span>[12](#fn_704.md) Christ my Lord, I have laid hold on his
 right hand, that the
 
 <span id="page_159">p. 159</span>
 
 nations should obey before him, and I will break the strength of kings.
 
-15 Behold, how doth  <span id="fr_705"></span>[1](#fn_705) David and
+15 Behold, how doth  <span id="fr_705"></span>[1](#fn_705.md) David and
 Isaiah call him Lord, and the Son of God.
 
 #### CHAP. XII.
@@ -1033,7 +1033,7 @@ or the former; and whether the covenant be with us or with them.
 2 And first, as concerning the people, hear now what the Scripture
 saith.
 
-3  <span id="fr_706"></span>[2](#fn_706) Isaac prayed for his wife
+3  <span id="fr_706"></span>[2](#fn_706.md) Isaac prayed for his wife
 Rebekah, because she was barren; and she conceived. Afterwards Rebekah
 went forth to inquire of the Lord.
 
@@ -1044,9 +1044,9 @@ Isaac; who Rebekah; and of whom it was foretold, this people shall be
 greater than that.
 
 5 And in another prophecy Jacob speaketh more clearly to his son Joseph
-saying;  <span id="fr_707"></span>[3](#fn_707) Behold the Lord hath not
+saying;  <span id="fr_707"></span>[3](#fn_707.md) Behold the Lord hath not
 deprived me of seeing thy face, bring me thy sons that I may bless them.
-And he brought unto his father  <span id="fr_708"></span>[4](#fn_708)
+And he brought unto his father  <span id="fr_708"></span>[4](#fn_708.md)
 Manasseh and Ephraim, desiring that he should bless Manasseh, because he
 was the elder.
 
@@ -1068,7 +1068,7 @@ and heirs of the covenant.
 Abraham too; our understanding of it will then be perfectly established.
 
 10 What then saith the Scripture to Abraham, when he  <span
-id="fr_709"></span>[5](#fn_709) believed, and it was imputed unto him
+id="fr_709"></span>[5](#fn_709.md) believed, and it was imputed unto him
 for righteousness? Behold I have made thee a father of the nations,
 which without circumcision believe in the Lord.
 
@@ -1077,11 +1077,11 @@ which he sware to our fathers, that he would give this people? Yes,
 verily, he gave it: but they were not worthy to receive it by reason of
 their sins.
 
-12 For thus saith the prophet:  <span id="fr_710"></span>[6](#fn_710)
+12 For thus saith the prophet:  <span id="fr_710"></span>[6](#fn_710.md)
 And Moses continued fasting in mount Sinai, to receive the covenant of
 the Lord with the people, forty days and forty nights.
 
-13  <span id="fr_711"></span>[7](#fn_711) And he received of the Lord
+13  <span id="fr_711"></span>[7](#fn_711.md) And he received of the Lord
 two tables written with the finger of the Lord's hand in the
 
 <span id="page_160">p. 160</span>
@@ -1090,7 +1090,7 @@ two tables written with the finger of the Lord's hand in the
 when he had received them brought them down that he might deliver them
 to the people.
 
-14 And the Lord said unto Moses;  <span id="fr_712"></span>[1](#fn_712)
+14 And the Lord said unto Moses;  <span id="fr_712"></span>[1](#fn_712.md)
 Moses, Moses, get thee down quickly, for the people which thou
 broughtest out of the land of Egypt have done wickedly.
 
@@ -1104,12 +1104,12 @@ took them; but the Lord himself has given them unto us, that we might be
 the people of his inheritance, having suffered for us.
 
 17 He was therefore made manifest; that they should fill up the measure
-of their sins, and that we  <span id="fr_713"></span>[2](#fn_713) being
+of their sins, and that we  <span id="fr_713"></span>[2](#fn_713.md) being
 made heirs by him, should receive the covenant of the Lord Jesus.
 
-18 And again the prophet saith;  <span id="fr_714"></span>[3](#fn_714)
+18 And again the prophet saith;  <span id="fr_714"></span>[3](#fn_714.md)
 Behold, I have set thee for a light unto the Gentiles, to be  <span
-id="fr_715"></span>[4](#fn_715) the saviour of all the ends of the
+id="fr_715"></span>[4](#fn_715.md) the saviour of all the ends of the
 earth, saith the Lord the God who hath redeemed thee.
 
 19 Who for that very end was prepared, that by his own appearing he
@@ -1120,16 +1120,16 @@ with us by his word.
 20 For so it is written that the father commanded him by delivering us
 from darkness, to prepare unto himself a holy people.
 
-21 Wherefore the prophet saith:  <span id="fr_716"></span>[5](#fn_716) I
+21 Wherefore the prophet saith:  <span id="fr_716"></span>[5](#fn_716.md) I
 the Lord thy God have called thee in righteousness, and I will take thee
 by thy hand and will strengthen thee. And give thee for a covenant of
 the people, for a light of the Gentiles.  <span
-id="fr_717"></span>[6](#fn_717) To open the eyes of the blind, to bring
+id="fr_717"></span>[6](#fn_717.md) To open the eyes of the blind, to bring
 out the prisoners from the prison, and them that sit in darkness out of
 the prison house.
 
 22 Consider therefore from whence we have been redeemed. And again the
-prophet saith:  <span id="fr_718"></span>[7](#fn_718) The spirit of the
+prophet saith:  <span id="fr_718"></span>[7](#fn_718.md) The spirit of the
 Lord is upon me, because he hath anointed me: he hath sent me to preach
 glad tidings to the lowly; to heal the broken in heart; to preach
 remission to the captives, and sight unto the blind; to proclaim the
@@ -1143,12 +1143,12 @@ more glorious sabbath to come, and their temple, of the spiritual
 temples of God*.</span>
 
 FURTHERMORE it is written concerning the sabbath, in the Ten  <span
-id="fr_719"></span>[8](#fn_719) Commandments, which God spake in the
-Mount Sinai to Moses,  <span id="fr_720"></span>[9](#fn_720) face to
+id="fr_719"></span>[8](#fn_719.md) Commandments, which God spake in the
+Mount Sinai to Moses,  <span id="fr_720"></span>[9](#fn_720.md) face to
 face; Sanctify the sabbath of the Lord with pure hands, and with a clean
 heart.
 
-2 And elsewhere he saith;  <span id="fr_721"></span>[10](#fn_721) If thy
+2 And elsewhere he saith;  <span id="fr_721"></span>[10](#fn_721.md) If thy
 children shall keep my sabbaths, then will I put my mercy upon them.
 
 3 And even in the beginning of the creation he makes mention
@@ -1157,28 +1157,28 @@ children shall keep my sabbaths, then will I put my mercy upon them.
 
 <span id="img_16100"></span> <span align="CENTER"> [![VERONICA AFFLICTED
 WITH AN ISSUE OF BLOOD.](tn/16100.jpg)  
-Click to enlarge](img/16100.jpg)  
+Click to enlarge](img/16100.jpg.md)  
 VERONICA AFFLICTED WITH AN ISSUE OF BLOOD.  
 </span>
 
-of the sabbath.  <span id="fr_722"></span>[1](#fn_722) And God made in
+of the sabbath.  <span id="fr_722"></span>[1](#fn_722.md) And God made in
 six days the works of his hands; and he finished them on the  <span
-id="fr_723"></span>[2](#fn_723) seventh day, and he rested the seventh
+id="fr_723"></span>[2](#fn_723.md) seventh day, and he rested the seventh
 day, and sanctified it.
 
 4 Consider, my children, what that signifies, he finished them in six
 days. The meaning of it is this; that in  <span
-id="fr_724"></span>[3](#fn_724) six thousand years the Lord God will
+id="fr_724"></span>[3](#fn_724.md) six thousand years the Lord God will
 bring all things to an end.
 
 5 For with him one day is a thousand years; as himself testifieth,
 saying, Behold this day shall be as a thousand years. Therefore,
 children, in six days, that is, in six thousand years, shall  <span
-id="fr_725"></span>[4](#fn_725) all things be accomplished.
+id="fr_725"></span>[4](#fn_725.md) all things be accomplished.
 
 6 And what is that he saith, And he rested the seventh day: he meaneth
 this; that when his Son shall come, and abolish the season of the  <span
-id="fr_726"></span>[5](#fn_726) Wicked One, and judge the ungodly; and
+id="fr_726"></span>[5](#fn_726.md) Wicked One, and judge the ungodly; and
 shall change the sun and the moon, and the stars; then he shall
 gloriously rest in that seventh day.
 
@@ -1192,11 +1192,11 @@ when we (having received the righteous promise, when iniquity shall be
 no more, all things being renewed by the Lord) shall be able to sanctify
 it, being ourselves first made holy.
 
-9 Lastly, he saith unto them:  <span id="fr_727"></span>[6](#fn_727)
+9 Lastly, he saith unto them:  <span id="fr_727"></span>[6](#fn_727.md)
 Your new moons and you: sabbaths I cannot bear them. Consider what he
 means by it; the sabbaths, says he, which ye now keep are not acceptable
 unto me, but those which I have made; when resting from all things I
-shall  <span id="fr_728"></span>[7](#fn_728) begin the eighth day, that
+shall  <span id="fr_728"></span>[7](#fn_728.md) begin the eighth day, that
 is, the beginning of the other world.
 
 10 For which cause we observe the eighth day with gladness, in which
@@ -1205,22 +1205,22 @@ disciples, ascended into heaven.
 
 11 ¶ It remains yet that I speak to you concerning the temple how these
 miserable men being deceived have put their trust in the house,  <span
-id="fr_729"></span>[8](#fn_729) and not in God himself who made them, as
+id="fr_729"></span>[8](#fn_729.md) and not in God himself who made them, as
 if it were the habitation of God.
 
 12 For much after the same manner as the Gentiles, they consecrated him
 in the temple.
 
 13 But learn therefore how the Lord speaketh, rendering the temple vain:
- <span id="fr_730"></span>[9](#fn_730) Who has measured the heaven with
+ <span id="fr_730"></span>[9](#fn_730.md) Who has measured the heaven with
 a span, and the earth with his hand? Is it not I? Thus saith the
-Lord, <span id="fr_731"></span>[10](#fn_731) Heaven is my throne, and
+Lord, <span id="fr_731"></span>[10](#fn_731.md) Heaven is my throne, and
 the earth is my footstool. What is the house that ye will build me? Or
 what is the place of my rest? Know therefore that all their hope is
 vain.
 
 14 And again he speaketh after this manner:  <span
-id="fr_732"></span>[11](#fn_732) Behold they
+id="fr_732"></span>[11](#fn_732.md) Behold they
 
 <span id="page_162">p. 162</span>
 
@@ -1230,7 +1230,7 @@ enemies; and the servants of their enemies built it up.
 
 15 Furthermore it has been made manifest, how both the city and the
 temple, and the people of Israel should be given up. For the Scripture
-saith;  <span id="fr_733"></span>[1](#fn_733) And it shall come to pass
+saith;  <span id="fr_733"></span>[1](#fn_733.md) And it shall come to pass
 in the last days, that the Lord will deliver up the sheep of his
 pasture, and their fold, and their tower into destruction. And it is
 come to pass, as the Lord hath spoken.
@@ -1253,7 +1253,7 @@ built in the name of the Lord.
 
 20 Consider, how that the temple of the Lord shall be very gloriously
 built; and by what means that shall be, learn. <span
-id="fr_734"></span>[2](#fn_734)
+id="fr_734"></span>[2](#fn_734.md)
 
 21 Having received remission of our sins, and trusting in the name of
 the Lord, we are become renewed, being again created as it were from the
@@ -1263,7 +1263,7 @@ beginning. Wherefore God truly dwells in our house, that is, in us.
 his promise, the wisdom of his righteous judgments, the commands of his
 doctrine; he himself prophesies within us, he himself dwelleth in us,
 and openeth to us who were in bondage of death the gate of our  <span
-id="fr_735"></span>[3](#fn_735) temple, that is, the mouth of wisdom,
+id="fr_735"></span>[3](#fn_735.md) temple, that is, the mouth of wisdom,
 having given repentance unto us; and by this means has brought us to be
 an incorruptible temple.
 
@@ -1284,7 +1284,7 @@ simplicity as I could, those things which make for your salvation, so as
 not to have omitted anything that might be requisite thereunto.
 
 2 For should I speak further of the things that  <span
-id="fr_736"></span>[4](#fn_736) now are, and of those that are to come,
+id="fr_736"></span>[4](#fn_736.md) now are, and of those that are to come,
 you would not yet understand them, seeing they lie in parables. This
 therefore shall suffice as to these things.
 
@@ -1294,7 +1294,7 @@ therefore shall suffice as to these things.
 two ways of doctrine and power; the one of light, the other of darkness.
 
 4 But there is a great deal of difference between these two ways: for
-over one are appointed the  <span id="fr_737"></span>[1](#fn_737) angels
+over one are appointed the  <span id="fr_737"></span>[1](#fn_737.md) angels
 of God, the leaders of the way of light; over the other, the angels of
 Satan. And the one is the Lord from everlasting to everlasting; the
 other is the prince of the time of unrighteousness.
@@ -1334,9 +1334,9 @@ nor kill them after they are born.
 but shall teach them from their youth the fear of the Lord.
 
 13 Thou shalt not covet thy neighbour's goods; neither shalt thou be
- <span id="fr_738"></span>[2](#fn_738) an extortioner. Neither shall thy
+ <span id="fr_738"></span>[2](#fn_738.md) an extortioner. Neither shall thy
 heart be joined to proud men; but thou shalt be numbered among the
-righteous and the lowly. Whatever  <span id="fr_739"></span>[3](#fn_739)
+righteous and the lowly. Whatever  <span id="fr_739"></span>[3](#fn_739.md)
 events shall happen unto thee, thou shalt receive them as good.
 
 14 Thou shalt not he double-minded, or double-tongued; for a double
@@ -1356,23 +1356,23 @@ not call anything thine own: for if ye partake in such things as are
 incorruptible, how much more should you do it in those that are
 corruptible?
 
-17  <span id="fr_740"></span>[1](#fn_740) Thou shalt not be forward to
+17  <span id="fr_740"></span>[1](#fn_740.md) Thou shalt not be forward to
 speak; for the mouth is the snare of death.  <span
-id="fr_741"></span>[2](#fn_741) Strive for thy soul with all thy might.
- <span id="fr_742"></span>[3](#fn_742) Reach not out thine hand to
+id="fr_741"></span>[2](#fn_741.md) Strive for thy soul with all thy might.
+ <span id="fr_742"></span>[3](#fn_742.md) Reach not out thine hand to
 receive, and withhold it not when thou shouldest give.
 
 18 Thou shalt love, as the apple of thine eye, every one that speaketh
-unto thee the Word of the Lord.  <span id="fr_743"></span>[4](#fn_743)
+unto thee the Word of the Lord.  <span id="fr_743"></span>[4](#fn_743.md)
 Call to thy remembrance, day and night, the future judgment.
 
 19 Thou shalt seek out every day the persons of the  <span
-id="fr_744"></span>[5](#fn_744) righteous: and both consider and go
+id="fr_744"></span>[5](#fn_744.md) righteous: and both consider and go
 about to exhort others by the, word, and meditate how thou mayest save a
 soul.
 
 20 Thou shalt also labour with thy hands to give to the poor,  <span
-id="fr_745"></span>[6](#fn_745) that thy sins may be forgiven thee. Thou
+id="fr_745"></span>[6](#fn_745.md) that thy sins may be forgiven thee. Thou
 shalt not deliberate whether thou shouldst give: nor, having given,
 murmur at it.
 
@@ -1456,7 +1456,7 @@ me; meditating upon these things, that both my desire and my watching
 for you may turn to a good account.
 
 15 I beseech you; I ask it as a favour of you; whilst you are in this
-beautiful  <span id="fr_746"></span>[1](#fn_746) tabernacle of the body,
+beautiful  <span id="fr_746"></span>[1](#fn_746.md) tabernacle of the body,
 be wanting in none of these things; but without ceasing seek them, and
 fulfil every command. For these things are fitting and worthy to be
 done.
@@ -1474,514 +1474,514 @@ of St. Paul the Apostle*.
 
 ### Footnotes
 
-<span id="fn_543"></span>[145:1](lbob17.htm#fr_543) Honestarum.
+<span id="fn_543"></span>[145:1](lbob17.htm#fr_543.md) Honestarum.
 
-<span id="fn_544"></span>[145:2](lbob17.htm#fr_544) Æquitatum,
+<span id="fn_544"></span>[145:2](lbob17.htm#fr_544.md) Æquitatum,
 Δικαιωματων, righteous judgments.
 
-<span id="fn_545"></span>[145:3](lbob17.htm#fr_545) Spiritibus,
+<span id="fn_545"></span>[145:3](lbob17.htm#fr_545.md) Spiritibus,
 Disposition.
 
-<span id="fn_546"></span>[145:4](lbob17.htm#fr_546) Natural, Gr.
+<span id="fn_546"></span>[145:4](lbob17.htm#fr_546.md) Natural, Gr.
 ἐμφυτον. See chap. xix. ἐμφυτον δορεαν διδαχης: which the Lat. Int.
 renders. Naturale donum Doctrinæ. Comp. Jam. i. 21.
 
-<span id="fn_547"></span>[145:5](lbob17.htm#fr_547) Liberari: Gr. at
+<span id="fn_547"></span>[145:5](lbob17.htm#fr_547.md) Liberari: Gr. at
 videtur σωθηναι.
 
-<span id="fn_548"></span>[145:6](lbob17.htm#fr_548) Honesto from the Gr.
+<span id="fn_548"></span>[145:6](lbob17.htm#fr_548.md) Honesto from the Gr.
 καλης.
 
-<span id="fn_549"></span>[145:7](lbob17.htm#fr_549) Comp. Psalm 119, 33,
+<span id="fn_549"></span>[145:7](lbob17.htm#fr_549.md) Comp. Psalm 119, 33,
 viz. either by preaching or fulfilling the same.
 
-<span id="fn_550"></span>[145:8](lbob17.htm#fr_550) Vid. Annot. Vos. in
+<span id="fn_550"></span>[145:8](lbob17.htm#fr_550.md) Vid. Annot. Vos. in
 loc.
 
-<span id="fn_551"></span>[145:9](lbob17.htm#fr_551) Talibus spiritibus
+<span id="fn_551"></span>[145:9](lbob17.htm#fr_551.md) Talibus spiritibus
 servienti. Usser.
 
-<span id="fn_552"></span>[145:10](lbob17.htm#fr_552) Γνωσις.
+<span id="fn_552"></span>[145:10](lbob17.htm#fr_552.md) Γνωσις.
 
-<span id="fn_553"></span>[145:11](lbob17.htm#fr_553) Δογματα κυριου,
+<span id="fn_553"></span>[145:11](lbob17.htm#fr_553.md) Δογματα κυριου,
 Constitutions of the Lord.
 
-<span id="fn_554"></span>[145:12](lbob17.htm#fr_554) Viz. faith and
+<span id="fn_554"></span>[145:12](lbob17.htm#fr_554.md) Viz. faith and
 Charity. See before.
 
-<span id="fn_555"></span>[145:13](lbob17.htm#fr_555) Namely, which we
+<span id="fn_555"></span>[145:13](lbob17.htm#fr_555.md) Namely, which we
 are to believe.
 
-<span id="fn_556"></span>[145:14](lbob17.htm#fr_556) That is, which are
+<span id="fn_556"></span>[145:14](lbob17.htm#fr_556.md) That is, which are
 to be hoped for, and end in love.
 
-<span id="fn_557"></span>[146:1](lbob17.htm#fr_557) Given us to know.
+<span id="fn_557"></span>[146:1](lbob17.htm#fr_557.md) Given us to know.
 
-<span id="fn_558"></span>[146:2](lbob17.htm#fr_558) Honestinus et
+<span id="fn_558"></span>[146:2](lbob17.htm#fr_558.md) Honestinus et
 Altius: he more honestly and highly.
 
-<span id="fn_559"></span>[146:3](lbob17.htm#fr_559) Like yourselves.
+<span id="fn_559"></span>[146:3](lbob17.htm#fr_559.md) Like yourselves.
 
-<span id="fn_560"></span>[146:4](lbob17.htm#fr_560) In many things.
+<span id="fn_560"></span>[146:4](lbob17.htm#fr_560.md) In many things.
 
-<span id="fn_561"></span>[146:5](lbob17.htm#fr_561) Age.
+<span id="fn_561"></span>[146:5](lbob17.htm#fr_561.md) Age.
 
-<span id="fn_562"></span>[146:6](lbob17.htm#fr_562) Equitus.
+<span id="fn_562"></span>[146:6](lbob17.htm#fr_562.md) Equitus.
 
-<span id="fn_563"></span>[146:7](lbob17.htm#fr_563) Comp. Græc. Clem.
+<span id="fn_563"></span>[146:7](lbob17.htm#fr_563.md) Comp. Græc. Clem.
 Alex.
 
-<span id="fn_564"></span>[146:8](lbob17.htm#fr_564) Isaiah i. 11.
+<span id="fn_564"></span>[146:8](lbob17.htm#fr_564.md) Isaiah i. 11.
 
-<span id="fn_565"></span>[146:9](lbob17.htm#fr_565) Lambs.
+<span id="fn_565"></span>[146:9](lbob17.htm#fr_565.md) Lambs.
 
-<span id="fn_566"></span>[146:10](lbob17.htm#fr_566) Isaiah, i. 12, 13,
+<span id="fn_566"></span>[146:10](lbob17.htm#fr_566.md) Isaiah, i. 12, 13,
 14.
 
-<span id="fn_567"></span>[146:11](lbob17.htm#fr_567) Jer. vii. 22, 23.
+<span id="fn_567"></span>[146:11](lbob17.htm#fr_567.md) Jer. vii. 22, 23.
 
-<span id="fn_568"></span>[146:12](lbob17.htm#fr_568) Zech. viii. 17.
+<span id="fn_568"></span>[146:12](lbob17.htm#fr_568.md) Zech. viii. 17.
 
-<span id="fn_569"></span>[146:13](lbob17.htm#fr_569) Of the mercy of Our
+<span id="fn_569"></span>[146:13](lbob17.htm#fr_569.md) Of the mercy of Our
 Father.
 
-<span id="fn_570"></span>[146:14](lbob17.htm#fr_570) Psalm i. 19.
+<span id="fn_570"></span>[146:14](lbob17.htm#fr_570.md) Psalm i. 19.
 
-<span id="fn_571"></span>[147:1](lbob17.htm#fr_571) Isa. lviii. 4.
+<span id="fn_571"></span>[147:1](lbob17.htm#fr_571.md) Isa. lviii. 4.
 
-<span id="fn_572"></span>[147:2](lbob17.htm#fr_572) V. 5.
+<span id="fn_572"></span>[147:2](lbob17.htm#fr_572.md) V. 5.
 
-<span id="fn_573"></span>[147:3](lbob17.htm#fr_573) V. 6.
+<span id="fn_573"></span>[147:3](lbob17.htm#fr_573.md) V. 6.
 
-<span id="fn_574"></span>[147:4](lbob17.htm#fr_574) V. 7.
+<span id="fn_574"></span>[147:4](lbob17.htm#fr_574.md) V. 7.
 
-<span id="fn_575"></span>[147:5](lbob17.htm#fr_575) V. 8.
+<span id="fn_575"></span>[147:5](lbob17.htm#fr_575.md) V. 8.
 
-<span id="fn_576"></span>[147:6](lbob17.htm#fr_576) V. 9.
+<span id="fn_576"></span>[147:6](lbob17.htm#fr_576.md) V. 9.
 
-<span id="fn_577"></span>[147:7](lbob17.htm#fr_577) V. 10.
+<span id="fn_577"></span>[147:7](lbob17.htm#fr_577.md) V. 10.
 
-<span id="fn_578"></span>[147:8](lbob17.htm#fr_578) Providence.
+<span id="fn_578"></span>[147:8](lbob17.htm#fr_578.md) Providence.
 
-<span id="fn_579"></span>[147:9](lbob17.htm#fr_579) Simplicity.
+<span id="fn_579"></span>[147:9](lbob17.htm#fr_579.md) Simplicity.
 
-<span id="fn_580"></span>[147:10](lbob17.htm#fr_580) Their.
+<span id="fn_580"></span>[147:10](lbob17.htm#fr_580.md) Their.
 
-<span id="fn_581"></span>[147:11](lbob17.htm#fr_581) Histantibus: read
+<span id="fn_581"></span>[147:11](lbob17.htm#fr_581.md) Histantibus: read
 Instantibus.
 
-<span id="fn_582"></span>[147:12](lbob17.htm#fr_582) Beloved.
+<span id="fn_582"></span>[147:12](lbob17.htm#fr_582.md) Beloved.
 
-<span id="fn_583"></span>[147:13](lbob17.htm#fr_583) Temptation. Dan.
+<span id="fn_583"></span>[147:13](lbob17.htm#fr_583.md) Temptation. Dan.
 ix.
 
-<span id="fn_584"></span>[147:14](lbob17.htm#fr_584) Dan. vii.
+<span id="fn_584"></span>[147:14](lbob17.htm#fr_584.md) Dan. vii.
 
-<span id="fn_585"></span>[147:15](lbob17.htm#fr_585) V. 7.
+<span id="fn_585"></span>[147:15](lbob17.htm#fr_585.md) V. 7.
 
-<span id="fn_586"></span>[147:16](lbob17.htm#fr_586) V. 8.
+<span id="fn_586"></span>[147:16](lbob17.htm#fr_586.md) V. 8.
 
-<span id="fn_587"></span>[147:17](lbob17.htm#fr_587) Heap up sins.
+<span id="fn_587"></span>[147:17](lbob17.htm#fr_587.md) Heap up sins.
 
-<span id="fn_588"></span>[148:1](lbob17.htm#fr_588) Exod. xxxi. xxxiv.
+<span id="fn_588"></span>[148:1](lbob17.htm#fr_588.md) Exod. xxxi. xxxiv.
 
-<span id="fn_589"></span>[148:2](lbob17.htm#fr_589) Exod. xxxvii. 7.
+<span id="fn_589"></span>[148:2](lbob17.htm#fr_589.md) Exod. xxxvii. 7.
 Deut. ix. 12.
 
-<span id="fn_590"></span>[148:3](lbob17.htm#fr_590) V. 19.
+<span id="fn_590"></span>[148:3](lbob17.htm#fr_590.md) V. 19.
 
-<span id="fn_591"></span>[148:4](lbob17.htm#fr_591) Days.
+<span id="fn_591"></span>[148:4](lbob17.htm#fr_591.md) Days.
 
-<span id="fn_592"></span>[148:5](lbob17.htm#fr_592) Heb. x. 25.
+<span id="fn_592"></span>[148:5](lbob17.htm#fr_592.md) Heb. x. 25.
 
-<span id="fn_593"></span>[148:6](lbob17.htm#fr_593) Vid. Gr. Clem. Alex.
+<span id="fn_593"></span>[148:6](lbob17.htm#fr_593.md) Vid. Gr. Clem. Alex.
 Isa. v., 21.
 
-<span id="fn_594"></span>[148:7](lbob17.htm#fr_594) Matt. xxv. 7-10.
+<span id="fn_594"></span>[148:7](lbob17.htm#fr_594.md) Matt. xxv. 7-10.
 
-<span id="fn_595"></span>[148:8](lbob17.htm#fr_595) Matt. xxii. 14.
+<span id="fn_595"></span>[148:8](lbob17.htm#fr_595.md) Matt. xxii. 14.
 
-<span id="fn_596"></span>[148:9](lbob17.htm#fr_596) Isa. lii. 5-7.
+<span id="fn_596"></span>[148:9](lbob17.htm#fr_596.md) Isa. lii. 5-7.
 
-<span id="fn_597"></span>[149:1](lbob17.htm#fr_597) Vid. Ed. Ox., p. 21.
+<span id="fn_597"></span>[149:1](lbob17.htm#fr_597.md) Vid. Ed. Ox., p. 21.
 
-<span id="fn_598"></span>[149:2](lbob17.htm#fr_598) Prov. i. 17.
+<span id="fn_598"></span>[149:2](lbob17.htm#fr_598.md) Prov. i. 17.
 
-<span id="fn_599"></span>[149:3](lbob17.htm#fr_599) Gen. i. 26.
+<span id="fn_599"></span>[149:3](lbob17.htm#fr_599.md) Gen. i. 26.
 
-<span id="fn_600"></span>[149:4](lbob17.htm#fr_600) Learn.
+<span id="fn_600"></span>[149:4](lbob17.htm#fr_600.md) Learn.
 
-<span id="fn_601"></span>[149:5](lbob17.htm#fr_601) Matt. ix. 13.
+<span id="fn_601"></span>[149:5](lbob17.htm#fr_601.md) Matt. ix. 13.
 
-<span id="fn_602"></span>[149:6](lbob17.htm#fr_602) Namely, from the
+<span id="fn_602"></span>[149:6](lbob17.htm#fr_602.md) Namely, from the
 Jews.
 
-<span id="fn_603"></span>[149:7](lbob17.htm#fr_603) Zach. xiii. 6, 7.
+<span id="fn_603"></span>[149:7](lbob17.htm#fr_603.md) Zach. xiii. 6, 7.
 
-<span id="fn_604"></span>[149:8](lbob17.htm#fr_604) According to the
+<span id="fn_604"></span>[149:8](lbob17.htm#fr_604.md) According to the
 LXX. Psalm xxii. 20. Psalm cxix. 120. Psalm xxii. 16, 17.
 
-<span id="fn_605"></span>[149:9](lbob17.htm#fr_605) These words <span
+<span id="fn_605"></span>[149:9](lbob17.htm#fr_605.md) These words <span
 id="page_150">p. 150</span> were doubtless cited thus by Barnabas,
 because that without them, those foregoing do not prove the Crucifixion
 of Christ. But through the repetition of the same preposition, this
 latter part was so early omitted, that it was not in the Latin
 interpreter's copy.
 
-<span id="fn_606"></span>[150:1](lbob17.htm#fr_606) Isaiah 1. 6.
+<span id="fn_606"></span>[150:1](lbob17.htm#fr_606.md) Isaiah 1. 6.
 
-<span id="fn_607"></span>[150:2](lbob17.htm#fr_607) Isa. 1. 8, 9.
+<span id="fn_607"></span>[150:2](lbob17.htm#fr_607.md) Isa. 1. 8, 9.
 
-<span id="fn_608"></span>[150:3](lbob17.htm#fr_608) Rep. In.
+<span id="fn_608"></span>[150:3](lbob17.htm#fr_608.md) Rep. In.
 
-<span id="fn_609"></span>[150:4](lbob17.htm#fr_609) Isa. viii. 14.
+<span id="fn_609"></span>[150:4](lbob17.htm#fr_609.md) Isa. viii. 14.
 
-<span id="fn_610"></span>[150:5](lbob17.htm#fr_610) Isa. xxviii. 16.
+<span id="fn_610"></span>[150:5](lbob17.htm#fr_610.md) Isa. xxviii. 16.
 
-<span id="fn_611"></span>[150:6](lbob17.htm#fr_611) Gr. put in strength,
+<span id="fn_611"></span>[150:6](lbob17.htm#fr_611.md) Gr. put in strength,
 or strengthened.
 
-<span id="fn_612"></span>[150:7](lbob17.htm#fr_612) Isa. 1. 7.
+<span id="fn_612"></span>[150:7](lbob17.htm#fr_612.md) Isa. 1. 7.
 
-<span id="fn_613"></span>[150:8](lbob17.htm#fr_613) Ps. cxviii. 22.
+<span id="fn_613"></span>[150:8](lbob17.htm#fr_613.md) Ps. cxviii. 22.
 
-<span id="fn_614"></span>[150:9](lbob17.htm#fr_614) V. 24. Clem. Alex.
+<span id="fn_614"></span>[150:9](lbob17.htm#fr_614.md) V. 24. Clem. Alex.
 Strom. v.
 
-<span id="fn_615"></span>[150:10](lbob17.htm#fr_615) This is not in the
+<span id="fn_615"></span>[150:10](lbob17.htm#fr_615.md) This is not in the
 Old Latin Version.
 
-<span id="fn_616"></span>[150:11](lbob17.htm#fr_616) Vid. Ed. Ox., p.
+<span id="fn_616"></span>[150:11](lbob17.htm#fr_616.md) Vid. Ed. Ox., p.
 29, a. περιψημα της αγαπης υμων.
 
-<span id="fn_617"></span>[150:12](lbob17.htm#fr_617) Ps. xxii. 16.
+<span id="fn_617"></span>[150:12](lbob17.htm#fr_617.md) Ps. xxii. 16.
 
-<span id="fn_618"></span>[150:13](lbob17.htm#fr_618) Ps. cxviii. 12.
+<span id="fn_618"></span>[150:13](lbob17.htm#fr_618.md) Ps. cxviii. 12.
 
-<span id="fn_619"></span>[150:14](lbob17.htm#fr_619) Ps. xxii. 18.
+<span id="fn_619"></span>[150:14](lbob17.htm#fr_619.md) Ps. xxii. 18.
 
-<span id="fn_620"></span>[150:15](lbob17.htm#fr_620) Is. iii. 9.
+<span id="fn_620"></span>[150:15](lbob17.htm#fr_620.md) Is. iii. 9.
 
-<span id="fn_621"></span>[150:16](lbob17.htm#fr_621) Bind.
+<span id="fn_621"></span>[150:16](lbob17.htm#fr_621.md) Bind.
 
-<span id="fn_622"></span>[150:17](lbob17.htm#fr_622) Exod. xxxiii. 1.
+<span id="fn_622"></span>[150:17](lbob17.htm#fr_622.md) Exod. xxxiii. 1.
 
-<span id="fn_623"></span>[150:18](lbob17.htm#fr_623) Vid. Cot. An. Marg.
+<span id="fn_623"></span>[150:18](lbob17.htm#fr_623.md) Vid. Cot. An. Marg.
 ex Clem. Alex.
 
-<span id="fn_624"></span>[150:19](lbob17.htm#fr_624) προσωπου.
+<span id="fn_624"></span>[150:19](lbob17.htm#fr_624.md) προσωπου.
 
-<span id="fn_625"></span>[150:20](lbob17.htm#fr_625) Osee, xiv. ult.
+<span id="fn_625"></span>[150:20](lbob17.htm#fr_625.md) Osee, xiv. ult.
 
-<span id="fn_626"></span>[150:21](lbob17.htm#fr_626) Prov. i. 6. Ec. i.
+<span id="fn_626"></span>[150:21](lbob17.htm#fr_626.md) Prov. i. 6. Ec. i.
 10.
 
-<span id="fn_627"></span>[151:1](lbob17.htm#fr_627) Gr. made us another
+<span id="fn_627"></span>[151:1](lbob17.htm#fr_627.md) Gr. made us another
 form.
 
-<span id="fn_628"></span>[151:2](lbob17.htm#fr_628) Vid. Ed. Ox., p. 30,
+<span id="fn_628"></span>[151:2](lbob17.htm#fr_628.md) Vid. Ed. Ox., p. 30,
 b.
 
-<span id="fn_629"></span>[151:3](lbob17.htm#fr_629) Vid. Vet. Lat. In.
+<span id="fn_629"></span>[151:3](lbob17.htm#fr_629.md) Vid. Vet. Lat. In.
 
-<span id="fn_630"></span>[151:4](lbob17.htm#fr_630) As he saith to the
+<span id="fn_630"></span>[151:4](lbob17.htm#fr_630.md) As he saith to the
 Son.
 
-<span id="fn_631"></span>[151:5](lbob17.htm#fr_631) Gen. i. 26. &c.
+<span id="fn_631"></span>[151:5](lbob17.htm#fr_631.md) Gen. i. 26. &c.
 
-<span id="fn_632"></span>[151:6](lbob17.htm#fr_632) Gen. i. 28.
+<span id="fn_632"></span>[151:6](lbob17.htm#fr_632.md) Gen. i. 28.
 
-<span id="fn_633"></span>[151:7](lbob17.htm#fr_633) Gr. a second
+<span id="fn_633"></span>[151:7](lbob17.htm#fr_633.md) Gr. a second
 formation.
 
-<span id="fn_634"></span>[151:8](lbob17.htm#fr_634) Isa, xliii. 18, 19,
+<span id="fn_634"></span>[151:8](lbob17.htm#fr_634.md) Isa, xliii. 18, 19,
 &c.
 
-<span id="fn_635"></span>[151:9](lbob17.htm#fr_635) Heb. iii.
+<span id="fn_635"></span>[151:9](lbob17.htm#fr_635.md) Heb. iii.
 
-<span id="fn_636"></span>[151:10](lbob17.htm#fr_636) Ezek. xi. 19.
+<span id="fn_636"></span>[151:10](lbob17.htm#fr_636.md) Ezek. xi. 19.
 
-<span id="fn_637"></span>[151:11](lbob17.htm#fr_637) So St. Paul, i Cor.
+<span id="fn_637"></span>[151:11](lbob17.htm#fr_637.md) So St. Paul, i Cor.
 iii. 16, 17.
 
-<span id="fn_638"></span>[151:12](lbob17.htm#fr_638) Ps. xlii. 2.
+<span id="fn_638"></span>[151:12](lbob17.htm#fr_638.md) Ps. xlii. 2.
 
-<span id="fn_639"></span>[151:13](lbob17.htm#fr_639) Jer. xxxii. 22.
+<span id="fn_639"></span>[151:13](lbob17.htm#fr_639.md) Jer. xxxii. 22.
 
-<span id="fn_640"></span>[152:1](lbob17.htm#fr_640) In same manner
+<span id="fn_640"></span>[152:1](lbob17.htm#fr_640.md) In same manner
 applied Heb. ix.
 
-<span id="fn_641"></span>[152:2](lbob17.htm#fr_641) Lev. xxiii. 29.
+<span id="fn_641"></span>[152:2](lbob17.htm#fr_641.md) Lev. xxiii. 29.
 
-<span id="fn_642"></span>[152:3](lbob17.htm#fr_642) The vessel of his
+<span id="fn_642"></span>[152:3](lbob17.htm#fr_642.md) The vessel of his
 spirit.
 
-<span id="fn_643"></span>[152:4](lbob17.htm#fr_643) Gen. xxii.
+<span id="fn_643"></span>[152:4](lbob17.htm#fr_643.md) Gen. xxii.
 
-<span id="fn_644"></span>[152:5](lbob17.htm#fr_644) Numb. xxix., &c.,
+<span id="fn_644"></span>[152:5](lbob17.htm#fr_644.md) Numb. xxix., &c.,
 Vic. Cot. in Marg. et Annot. in loc.
 
-<span id="fn_645"></span>[152:6](lbob17.htm#fr_645) Vid. Annot. Cot.
+<span id="fn_645"></span>[152:6](lbob17.htm#fr_645.md) Vid. Annot. Cot.
 
-<span id="fn_646"></span>[152:7](lbob17.htm#fr_646) Levit xi. Vid.
+<span id="fn_646"></span>[152:7](lbob17.htm#fr_646.md) Levit xi. Vid.
 Maimon, tract. de die Exv. Edit. du Veil, p. 350, &c.
 
-<span id="fn_647"></span>[152:8](lbob17.htm#fr_647) Vid. Edit. Ox. p. 40
+<span id="fn_647"></span>[152:8](lbob17.htm#fr_647.md) Vid. Edit. Ox. p. 40
 a. 41. b.
 
-<span id="fn_648"></span>[152:9](lbob17.htm#fr_648) Vid. Maim. ib. p.
+<span id="fn_648"></span>[152:9](lbob17.htm#fr_648.md) Vid. Maim. ib. p.
 341. &c.
 
-<span id="fn_649"></span>[152:10](lbob17.htm#fr_649) Vid. Voss. in loc.
+<span id="fn_649"></span>[152:10](lbob17.htm#fr_649.md) Vid. Voss. in loc.
 
-<span id="fn_650"></span>[152:11](lbob17.htm#fr_650) The Greek is
+<span id="fn_650"></span>[152:11](lbob17.htm#fr_650.md) The Greek is
 imperfect.
 
-<span id="fn_651"></span>[152:12](lbob17.htm#fr_651) Vid. Lat. Ver.
+<span id="fn_651"></span>[152:12](lbob17.htm#fr_651.md) Vid. Lat. Ver.
 
-<span id="fn_652"></span>[153:1](lbob17.htm#fr_652) Acts xiv. 22.
+<span id="fn_652"></span>[153:1](lbob17.htm#fr_652.md) Acts xiv. 22.
 
-<span id="fn_653"></span>[153:2](lbob17.htm#fr_653) Numb. xix.
+<span id="fn_653"></span>[153:2](lbob17.htm#fr_653.md) Numb. xix.
 
-<span id="fn_654"></span>[153:3](lbob17.htm#fr_654) That this was also a
+<span id="fn_654"></span>[153:3](lbob17.htm#fr_654.md) That this was also a
 type of Christ, see Heb. ix. 13.
 
-<span id="fn_655"></span>[153:4](lbob17.htm#fr_655) Vid. Vet. Lat.
+<span id="fn_655"></span>[153:4](lbob17.htm#fr_655.md) Vid. Vet. Lat.
 Interpr. Simplicity, Gr.
 
-<span id="fn_656"></span>[153:5](lbob17.htm#fr_656) Gr. to testify.
+<span id="fn_656"></span>[153:5](lbob17.htm#fr_656.md) Gr. to testify.
 
-<span id="fn_657"></span>[153:6](lbob17.htm#fr_657) Wood.
+<span id="fn_657"></span>[153:6](lbob17.htm#fr_657.md) Wood.
 
-<span id="fn_658"></span>[153:7](lbob17.htm#fr_658) Vid. Coteler. in
+<span id="fn_658"></span>[153:7](lbob17.htm#fr_658.md) Vid. Coteler. in
 loc.
 
-<span id="fn_659"></span>[153:8](lbob17.htm#fr_659) Them.
+<span id="fn_659"></span>[153:8](lbob17.htm#fr_659.md) Them.
 
-<span id="fn_660"></span>[153:9](lbob17.htm#fr_660) Septuag. Psalm xvii.
+<span id="fn_660"></span>[153:9](lbob17.htm#fr_660.md) Septuag. Psalm xvii.
 45.
 
-<span id="fn_661"></span>[153:10](lbob17.htm#fr_661) Isaiah xxxiii. 13.
+<span id="fn_661"></span>[153:10](lbob17.htm#fr_661.md) Isaiah xxxiii. 13.
 
-<span id="fn_662"></span>[153:11](lbob17.htm#fr_662) Jer. iv. 4.
+<span id="fn_662"></span>[153:11](lbob17.htm#fr_662.md) Jer. iv. 4.
 
-<span id="fn_663"></span>[153:12](lbob17.htm#fr_663) Jer. vii. 2.
+<span id="fn_663"></span>[153:12](lbob17.htm#fr_663.md) Jer. vii. 2.
 
-<span id="fn_664"></span>[154:1](lbob17.htm#fr_664) Psalms xxxiii.
+<span id="fn_664"></span>[154:1](lbob17.htm#fr_664.md) Psalms xxxiii.
 xxxiv.
 
-<span id="fn_665"></span>[154:2](lbob17.htm#fr_665) Isaiah, l. 10.
+<span id="fn_665"></span>[154:2](lbob17.htm#fr_665.md) Isaiah, l. 10.
 
-<span id="fn_666"></span>[154:3](lbob17.htm#fr_666) Isaiah, i. 2.
+<span id="fn_666"></span>[154:3](lbob17.htm#fr_666.md) Isaiah, i. 2.
 
-<span id="fn_667"></span>[154:4](lbob17.htm#fr_667) Isaiah l. 10.
+<span id="fn_667"></span>[154:4](lbob17.htm#fr_667.md) Isaiah l. 10.
 
-<span id="fn_668"></span>[154:5](lbob17.htm#fr_668) Isaiah, xl. 3.
+<span id="fn_668"></span>[154:5](lbob17.htm#fr_668.md) Isaiah, xl. 3.
 
-<span id="fn_669"></span>[154:6](lbob17.htm#fr_669) Angel.
+<span id="fn_669"></span>[154:6](lbob17.htm#fr_669.md) Angel.
 
-<span id="fn_670"></span>[154:7](lbob17.htm#fr_670) Jer. iv. 3, 4.
+<span id="fn_670"></span>[154:7](lbob17.htm#fr_670.md) Jer. iv. 3, 4.
 
-<span id="fn_671"></span>[154:8](lbob17.htm#fr_671) Jer. iv. 4.
+<span id="fn_671"></span>[154:8](lbob17.htm#fr_671.md) Jer. iv. 4.
 
-<span id="fn_672"></span>[154:9](lbob17.htm#fr_672) Deut. x. 16.
+<span id="fn_672"></span>[154:9](lbob17.htm#fr_672.md) Deut. x. 16.
 
-<span id="fn_673"></span>[154:10](lbob17.htm#fr_673) That people.
+<span id="fn_673"></span>[154:10](lbob17.htm#fr_673.md) That people.
 
-<span id="fn_674"></span>[154:11](lbob17.htm#fr_674) Vid. Cot. in loc.
+<span id="fn_674"></span>[154:11](lbob17.htm#fr_674.md) Vid. Cot. in loc.
 conter. Orig. ad Rom cap. ii. 25.
 
-<span id="fn_675"></span>[154:12](lbob17.htm#fr_675) That many others of
+<span id="fn_675"></span>[154:12](lbob17.htm#fr_675.md) That many others of
 the ancient Fathers have concurred with him in this, see Cot. in loc.
 Add. Eund. p. 31, 85, ibid. Ed., &c., &c.
 
-<span id="fn_676"></span>[154:13](lbob17.htm#fr_676) Genuine.
+<span id="fn_676"></span>[154:13](lbob17.htm#fr_676.md) Genuine.
 
-<span id="fn_677"></span>[154:14](lbob17.htm#fr_677) That in this he
+<span id="fn_677"></span>[154:14](lbob17.htm#fr_677.md) That in this he
 goes on the received opinion of the RR. Vid. Annot. Cot. and Ed. Ox. in
 loc. Lev. xi. Deut. xiv. Add. Ainsworth on Lev. xi. 1, and Deut. Liv. 4.
 
-<span id="fn_678"></span>[155:1](lbob17.htm#fr_678) In the
+<span id="fn_678"></span>[155:1](lbob17.htm#fr_678.md) In the
 understanding. Deut. iv.
 
-<span id="fn_679"></span>[155:2](lbob17.htm#fr_679) Vid. antiq. Lat.
+<span id="fn_679"></span>[155:2](lbob17.htm#fr_679.md) Vid. antiq. Lat.
 Vers.
 
-<span id="fn_680"></span>[156:1](lbob17.htm#fr_680) Jeremiah, ii. 12.
+<span id="fn_680"></span>[156:1](lbob17.htm#fr_680.md) Jeremiah, ii. 12.
 
-<span id="fn_681"></span>[156:2](lbob17.htm#fr_681) Vid. Annot. Coteler.
+<span id="fn_681"></span>[156:2](lbob17.htm#fr_681.md) Vid. Annot. Coteler.
 and Ed. Oxon. in loc.
 
-<span id="fn_682"></span>[156:3](lbob17.htm#fr_682) Isaiah xvi. 1, 2.
+<span id="fn_682"></span>[156:3](lbob17.htm#fr_682.md) Isaiah xvi. 1, 2.
 
-<span id="fn_683"></span>[156:4](lbob17.htm#fr_683) Isaiah xlv. 2.
+<span id="fn_683"></span>[156:4](lbob17.htm#fr_683.md) Isaiah xlv. 2.
 
-<span id="fn_684"></span>[156:5](lbob17.htm#fr_684) Isaiah, xxxiii. 16,
+<span id="fn_684"></span>[156:5](lbob17.htm#fr_684.md) Isaiah, xxxiii. 16,
 17.
 
-<span id="fn_685"></span>[157:1](lbob17.htm#fr_685) Psalm, i.
+<span id="fn_685"></span>[157:1](lbob17.htm#fr_685.md) Psalm, i.
 
-<span id="fn_686"></span>[157:2](lbob17.htm#fr_686) Zeph. iii. 19.
+<span id="fn_686"></span>[157:2](lbob17.htm#fr_686.md) Zeph. iii. 19.
 
-<span id="fn_687"></span>[157:3](lbob17.htm#fr_687) For τουτο λεγει and
+<span id="fn_687"></span>[157:3](lbob17.htm#fr_687.md) For τουτο λεγει and
 ο, the Old Interpreter did not read; and Clemens Alex. lib. iii. Strom.
 p. 463, transcribing this passage hath them not.
 
-<span id="fn_688"></span>[157:4](lbob17.htm#fr_688) *i.e.*, the body of
+<span id="fn_688"></span>[157:4](lbob17.htm#fr_688.md) *i.e.*, the body of
 Christ.
 
-<span id="fn_689"></span>[157:5](lbob17.htm#fr_689) Vid. Conject. Edit.
+<span id="fn_689"></span>[157:5](lbob17.htm#fr_689.md) Vid. Conject. Edit.
 Oxon. Comp. iv. Esdr. v. 4, et Obs. Cotel. in loc.
 
-<span id="fn_690"></span>[157:6](lbob17.htm#fr_690) See St. Hier. in
+<span id="fn_690"></span>[157:6](lbob17.htm#fr_690.md) See St. Hier. in
 like manner. Annot. D. Bernard, p. 124, Edit. Oxon. Exod. xvii.
 
-<span id="fn_691"></span>[157:7](lbob17.htm#fr_691) That were so beaten.
+<span id="fn_691"></span>[157:7](lbob17.htm#fr_691.md) That were so beaten.
 
-<span id="fn_692"></span>[157:8](lbob17.htm#fr_692) Again set them in
+<span id="fn_692"></span>[157:8](lbob17.htm#fr_692.md) Again set them in
 array, being armed. Lat. Vers.
 
-<span id="fn_693"></span>[158:1](lbob17.htm#fr_693) Isaiah, lxv.
+<span id="fn_693"></span>[158:1](lbob17.htm#fr_693.md) Isaiah, lxv.
 
-<span id="fn_694"></span>[158:2](lbob17.htm#fr_694) So Irenæus, Just.
+<span id="fn_694"></span>[158:2](lbob17.htm#fr_694.md) So Irenæus, Just.
 Mart. St. Chrysost., &c. Edit. Oxon. p. 77, a.
 
-<span id="fn_695"></span>[158:3](lbob17.htm#fr_695) Sign.
+<span id="fn_695"></span>[158:3](lbob17.htm#fr_695.md) Sign.
 
-<span id="fn_696"></span>[158:4](lbob17.htm#fr_696) Israel falling.
+<span id="fn_696"></span>[158:4](lbob17.htm#fr_696.md) Israel falling.
 
-<span id="fn_697"></span>[158:5](lbob17.htm#fr_697) Deut. xvii. 15.
+<span id="fn_697"></span>[158:5](lbob17.htm#fr_697.md) Deut. xvii. 15.
 
-<span id="fn_698"></span>[158:6](lbob17.htm#fr_698) Rom. xi. 36.
+<span id="fn_698"></span>[158:6](lbob17.htm#fr_698.md) Rom. xi. 36.
 
-<span id="fn_699"></span>[158:7](lbob17.htm#fr_699) Deut. xviii. 15, 18.
+<span id="fn_699"></span>[158:7](lbob17.htm#fr_699.md) Deut. xviii. 15, 18.
 
-<span id="fn_700"></span>[158:8](lbob17.htm#fr_700) So the other
+<span id="fn_700"></span>[158:8](lbob17.htm#fr_700.md) So the other
 Fathers. Just. Mart. &c. Vid. Edit. Oxon. page 79.
 
-<span id="fn_701"></span>[158:9](lbob17.htm#fr_701) Vid. Interp. Vet.
+<span id="fn_701"></span>[158:9](lbob17.htm#fr_701.md) Vid. Interp. Vet.
 Lat. Exod. xvii. 14.
 
-<span id="fn_702"></span>[158:10](lbob17.htm#fr_702) Comp. Vet. Lat.
+<span id="fn_702"></span>[158:10](lbob17.htm#fr_702.md) Comp. Vet. Lat.
 Interp.
 
-<span id="fn_703"></span>[158:11](lbob17.htm#fr_703) Psalm cix. 3.
+<span id="fn_703"></span>[158:11](lbob17.htm#fr_703.md) Psalm cix. 3.
 
-<span id="fn_704"></span>[158:12](lbob17.htm#fr_704) Vid. Annot.
+<span id="fn_704"></span>[158:12](lbob17.htm#fr_704.md) Vid. Annot.
 Coteler, in loc. Edit. Oxon. page 78, c. Isaiah xlv. 1.
 
-<span id="fn_705"></span>[159:1](lbob17.htm#fr_705) Comp. Vet. Lat.
+<span id="fn_705"></span>[159:1](lbob17.htm#fr_705.md) Comp. Vet. Lat.
 Interp.
 
-<span id="fn_706"></span>[159:2](lbob17.htm#fr_706) Gen. xxv. 21. Comp.
+<span id="fn_706"></span>[159:2](lbob17.htm#fr_706.md) Gen. xxv. 21. Comp.
 St. Paul Rom. ix. Just. Mart. Tert. &c. Vid. Ed. Oxon. p. 11, a.
 
-<span id="fn_707"></span>[159:3](lbob17.htm#fr_707) Gen. xlviii.
+<span id="fn_707"></span>[159:3](lbob17.htm#fr_707.md) Gen. xlviii.
 
-<span id="fn_708"></span>[159:4](lbob17.htm#fr_708) Vid. Lat. Interp.
+<span id="fn_708"></span>[159:4](lbob17.htm#fr_708.md) Vid. Lat. Interp.
 Vet.
 
-<span id="fn_709"></span>[159:5](lbob17.htm#fr_709) Gen. xv. 17. So St.
+<span id="fn_709"></span>[159:5](lbob17.htm#fr_709.md) Gen. xv. 17. So St.
 Paul himself applies this: Rom. iv. 3.
 
-<span id="fn_710"></span>[159:6](lbob17.htm#fr_710) Exod. xxiv. 18.
+<span id="fn_710"></span>[159:6](lbob17.htm#fr_710.md) Exod. xxiv. 18.
 
-<span id="fn_711"></span>[159:7](lbob17.htm#fr_711) Deut. ix. 10. Exod.
+<span id="fn_711"></span>[159:7](lbob17.htm#fr_711.md) Deut. ix. 10. Exod.
 xxxi. 12.
 
-<span id="fn_712"></span>[160:1](lbob17.htm#fr_712) Exod. xxxii. 7.
+<span id="fn_712"></span>[160:1](lbob17.htm#fr_712.md) Exod. xxxii. 7.
 Deut. ix. 12.
 
-<span id="fn_713"></span>[160:2](lbob17.htm#fr_713) Vid. Lat. Interpret.
+<span id="fn_713"></span>[160:2](lbob17.htm#fr_713.md) Vid. Lat. Interpret.
 Vet.
 
-<span id="fn_714"></span>[160:3](lbob17.htm#fr_714) Isaiah xlix. 6.
+<span id="fn_714"></span>[160:3](lbob17.htm#fr_714.md) Isaiah xlix. 6.
 
-<span id="fn_715"></span>[160:4](lbob17.htm#fr_715) For salvation unto.
+<span id="fn_715"></span>[160:4](lbob17.htm#fr_715.md) For salvation unto.
 
-<span id="fn_716"></span>[160:5](lbob17.htm#fr_716) Isaiah xlii. 6.
+<span id="fn_716"></span>[160:5](lbob17.htm#fr_716.md) Isaiah xlii. 6.
 
-<span id="fn_717"></span>[160:6](lbob17.htm#fr_717) Verse 7.
+<span id="fn_717"></span>[160:6](lbob17.htm#fr_717.md) Verse 7.
 
-<span id="fn_718"></span>[160:7](lbob17.htm#fr_718) Isaiah lxi. 1, 2.
+<span id="fn_718"></span>[160:7](lbob17.htm#fr_718.md) Isaiah lxi. 1, 2.
 Comp. Luke, iv. 18.
 
-<span id="fn_719"></span>[160:8](lbob17.htm#fr_719) Words.
+<span id="fn_719"></span>[160:8](lbob17.htm#fr_719.md) Words.
 
-<span id="fn_720"></span>[160:9](lbob17.htm#fr_720) Exod. xx. 8.
+<span id="fn_720"></span>[160:9](lbob17.htm#fr_720.md) Exod. xx. 8.
 
-<span id="fn_721"></span>[160:10](lbob17.htm#fr_721) Jer. xvii. 24
+<span id="fn_721"></span>[160:10](lbob17.htm#fr_721.md) Jer. xvii. 24
 
-<span id="fn_722"></span>[161:1](lbob17.htm#fr_722) Gen. ii. 2. Exod.
+<span id="fn_722"></span>[161:1](lbob17.htm#fr_722.md) Gen. ii. 2. Exod.
 xx. 11, xxxi. 17.
 
-<span id="fn_723"></span>[161:2](lbob17.htm#fr_723) Vid. Coteler. Annot.
+<span id="fn_723"></span>[161:2](lbob17.htm#fr_723.md) Vid. Coteler. Annot.
 in loc.
 
-<span id="fn_724"></span>[161:3](lbob17.htm#fr_724) How general this
+<span id="fn_724"></span>[161:3](lbob17.htm#fr_724.md) How general this
 tradition then was. See Coteler. Annot. in loc. Edit. Oxon, page 90, a.
 Psalm lxxxix. 4.
 
-<span id="fn_725"></span>[161:4](lbob17.htm#fr_725) That is, to the time
+<span id="fn_725"></span>[161:4](lbob17.htm#fr_725.md) That is, to the time
 of the Gospel, says Dr. Bernard, q. v. Annot. p. 127, Ed. Oxon.
 
-<span id="fn_726"></span>[161:5](lbob17.htm#fr_726) So the Lat. Vers.
+<span id="fn_726"></span>[161:5](lbob17.htm#fr_726.md) So the Lat. Vers.
 
-<span id="fn_727"></span>[161:6](lbob17.htm#fr_727) Isaiah, i. 13.
+<span id="fn_727"></span>[161:6](lbob17.htm#fr_727.md) Isaiah, i. 13.
 
-<span id="fn_728"></span>[161:7](lbob17.htm#fr_728) So the other
+<span id="fn_728"></span>[161:7](lbob17.htm#fr_728.md) So the other
 Fathers, q. v. apud. Coteler. Annot. in loc. p. 36.
 
-<span id="fn_729"></span>[161:8](lbob17.htm#fr_729) Vid. Edit. Oxon. et
+<span id="fn_729"></span>[161:8](lbob17.htm#fr_729.md) Vid. Edit. Oxon. et
 Vet. Lat. Interp.
 
-<span id="fn_730"></span>[161:9](lbob17.htm#fr_730) Isaiah, xl. 12.
+<span id="fn_730"></span>[161:9](lbob17.htm#fr_730.md) Isaiah, xl. 12.
 
-<span id="fn_731"></span>[161:10](lbob17.htm#fr_731) Isaiah, lxvi. 1.
+<span id="fn_731"></span>[161:10](lbob17.htm#fr_731.md) Isaiah, lxvi. 1.
 
-<span id="fn_732"></span>[161:11](lbob17.htm#fr_732) Isaiah, xlix. 17.
+<span id="fn_732"></span>[161:11](lbob17.htm#fr_732.md) Isaiah, xlix. 17.
 
-<span id="fn_733"></span>[162:1](lbob17.htm#fr_733) Zeph. ii. 6. just.
+<span id="fn_733"></span>[162:1](lbob17.htm#fr_733.md) Zeph. ii. 6. just.
 Heb.
 
-<span id="fn_734"></span>[162:2](lbob17.htm#fr_734) Dan. ix. Haggai, ii.
+<span id="fn_734"></span>[162:2](lbob17.htm#fr_734.md) Dan. ix. Haggai, ii.
 
-<span id="fn_735"></span>[162:3](lbob17.htm#fr_735) Vid. Lat. Ver.
+<span id="fn_735"></span>[162:3](lbob17.htm#fr_735.md) Vid. Lat. Ver.
 Interp.
 
-<span id="fn_736"></span>[162:4](lbob17.htm#fr_736) So the old Lat.
+<span id="fn_736"></span>[162:4](lbob17.htm#fr_736.md) So the old Lat.
 Interp.
 
-<span id="fn_737"></span>[163:1](lbob17.htm#fr_737) Vid. Coteler. in
+<span id="fn_737"></span>[163:1](lbob17.htm#fr_737.md) Vid. Coteler. in
 loc. et Basil. in Psalm i.
 
-<span id="fn_738"></span>[163:2](lbob17.htm#fr_738) Greedy, πλεονεκτης.
+<span id="fn_738"></span>[163:2](lbob17.htm#fr_738.md) Greedy, πλεονεκτης.
 
-<span id="fn_739"></span>[163:3](lbob17.htm#fr_739) Effects.
+<span id="fn_739"></span>[163:3](lbob17.htm#fr_739.md) Effects.
 
-<span id="fn_740"></span>[164:1](lbob17.htm#fr_740) See Eccles. iv. 29.
+<span id="fn_740"></span>[164:1](lbob17.htm#fr_740.md) See Eccles. iv. 29.
 
-<span id="fn_741"></span>[164:2](lbob17.htm#fr_741) Ibid., ver. 28. For
+<span id="fn_741"></span>[164:2](lbob17.htm#fr_741.md) Ibid., ver. 28. For
 so I choose to read it, υπερ της ψυχης σου αγωνευσεις, according to the
 conjecture of Cotelerius.
 
-<span id="fn_742"></span>[164:3](lbob17.htm#fr_742) Ibid., ver. 36.
+<span id="fn_742"></span>[164:3](lbob17.htm#fr_742.md) Ibid., ver. 36.
 
-<span id="fn_743"></span>[164:4](lbob17.htm#fr_743) And remember him
+<span id="fn_743"></span>[164:4](lbob17.htm#fr_743.md) And remember him
 night and day. The words πμερας κριϛεως, seem to have been erroneously
 inserted, and pervert the sense.
 
-<span id="fn_744"></span>[164:5](lbob17.htm#fr_744) Gr. Saints.
+<span id="fn_744"></span>[164:5](lbob17.htm#fr_744.md) Gr. Saints.
 
-<span id="fn_745"></span>[164:6](lbob17.htm#fr_745) Gr. For the
+<span id="fn_745"></span>[164:6](lbob17.htm#fr_745.md) Gr. For the
 redemption of thy sins. Comp. Dan. iv. 24. See LXX.
 
-<span id="fn_746"></span>[165:1](lbob17.htm#fr_746) Vessel.
+<span id="fn_746"></span>[165:1](lbob17.htm#fr_746.md) Vessel.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Epistle of Ignatius to the Ephesians](lbob18)
+[Next: The Epistle of Ignatius to the Ephesians](lbob18.md)
 
 </div>

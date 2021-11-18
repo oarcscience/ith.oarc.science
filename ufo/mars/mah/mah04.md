@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah03)  [Next](mah05) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah03)  [Next](mah05.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ life amid a Paradise of beautiful surroundings and things.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Population Centers, Temperature, Climate](mah05)
+[Next: Chapter II. Population Centers, Temperature, Climate](mah05.md)

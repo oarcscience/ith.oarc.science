@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst021)  [Next](inst023) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst021)  [Next](inst023.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,11 +116,11 @@ truth to need the rhetorician’s art?
 Apostle’s declaration, that the faith of the Corinthians was founded not
 on “the wisdom of men,” but on “the power of God,” (<span
 id="iv.i.ix-p18.1"></span>[1 Cor.
-2:5](../../../bib/kjv/co1002.htm#005)<span id="iv.i.ix-p18.1"></span>),
+2:5](../../../bib/kjv/co1002.htm#005)<span id="iv.i.ix-p18.1"></span>.md),
 this speech and preaching among them having been “not with enticing
 words of man’s wisdom, but in demonstration of the Spirit and of power,”
 (<span id="iv.i.ix-p18.2"></span>[1 Cor.
-2:5](../../../bib/kjv/co1002.htm#005)<span id="iv.i.ix-p18.2"></span>).
+2:5](../../../bib/kjv/co1002.htm#005)<span id="iv.i.ix-p18.2"></span>.md).
 For the truth is vindicated in opposition to every doubt, when,
 unsupported by foreign aid, it has its sole sufficiency in itself. How
 peculiarly this property belongs to Scripture appears from this, that no
@@ -196,8 +196,8 @@ it with eternal infamy in the person of Levi. “Simon and Levi,” says he,
 “are brethren; instruments of cruelty are in their habitations. O my
 soul, come not thou into their secret; unto their assembly mine honour
 be not thou united,” (<span id="iv.i.ix-p21.1"></span>[Gen.
-49:5](../../../bib/kjv/gen049.htm#005),
-[6](../../../bib/kjv/gen049.htm#006)<span id="iv.i.ix-p21.1"></span>).
+49:5](../../../bib/kjv/gen049.htm#005.md),
+[6](../../../bib/kjv/gen049.htm#006)<span id="iv.i.ix-p21.1"></span>.md).
 This stigma he certainly might have passed in silence, not only that he
 might spare his own ancestor, but also save both himself and his whole
 family from a portion of the disgrace. How can any suspicion attach to
@@ -207,7 +207,7 @@ his own private interest, nor declines to incur obloquy among his tribe,
 who must have been offended by his statement of the fact? Again, when he
 relates the wicked murmuring of his brother Aaron, and his sister Miriam
 (<span id="iv.i.ix-p21.2"></span>[Numb.
-12:1](../../../bib/kjv/num012.htm#001)<span id="iv.i.ix-p21.2"></span>),
+12:1](../../../bib/kjv/num012.htm#001)<span id="iv.i.ix-p21.2"></span>.md),
 shall we say that he spoke his own natural feelings, or that he obeyed
 the command of the Holy Spirit? Moreover, when invested with supreme
 authority, why does he not bestow the office of High Priest on his sons,
@@ -218,7 +218,7 @@ beyond dispute, that he was in truth a messenger sent forth from God.
 
 <span id="iv.i.ix-p22"></span>5. The many striking miracles which Moses
 relates are so many sanctions of the law delivered, and the doctrine
-propounded, by him.7  <span id="fr_69"></span>[70](#fn_69) His being
+propounded, by him.7  <span id="fr_69"></span>[70](#fn_69.md) His being
 carried up into the mount in a cloud; his remaining there forty days
 separated from human society; his countenance glistening during the
 promulgation of the law, as with meridian effulgence; the lightnings
@@ -245,17 +245,17 @@ of the people, if there had been the smallest ground for it. Hence it is
 obvious that they were induced to assent, merely because they had been
 previously convinced by their own experience. But because the fact was
 too ascribed them to magic (<span id="iv.i.ix-p24.1"></span>[Exod.
-9:11](../../../bib/kjv/exo009.htm#011)<span id="iv.i.ix-p24.1"></span>).
+9:11](../../../bib/kjv/exo009.htm#011)<span id="iv.i.ix-p24.1"></span>.md).
 But with what probability is a charge of magic brought against him, who
 held it in such abhorrence, that he ordered every one who should consult
 soothsayers and magicians to be stoned? (<span
 id="iv.i.ix-p24.2"></span>[Lev.
-20:27](../../../bib/kjv/lev020.htm#027)<span
+20:27](../../../bib/kjv/lev020.htm#027.md)<span
 id="iv.i.ix-p24.2"></span>). Assuredly, no impostor deals in tricks,
 without studying to raise his reputation by amazing the common people.
 But what does Moses do? By crying out, that he and Aaron his brother are
 nothing (<span id="iv.i.ix-p24.3"></span>[Exod.
-16:7](../../../bib/kjv/exo016.htm#007)<span id="iv.i.ix-p24.3"></span>),
+16:7](../../../bib/kjv/exo016.htm#007)<span id="iv.i.ix-p24.3"></span>.md),
 that they merely execute what God has commanded, he clears himself from
 every approach to suspicion. Again, if the facts are considered in
 themselves, what kind of incantation could cause manna to rain from
@@ -280,7 +280,7 @@ inventor of the prophecy, still, after he committed it to writing, four
 hundred years pass away, during which no mention is made of a sceptre in
 the tribe of Judah. After Saul is anointed, the kingly office seems
 fixed in the tribe of Benjamin (<span id="iv.i.ix-p25.1"></span>[1 Sam.
-11:15](../../../bib/kjv/sa1011.htm#015)<span id="iv.i.ix-p25.1"></span>;
+11:15](../../../bib/kjv/sa1011.htm#015.md)<span id="iv.i.ix-p25.1"></span>;
 16:13). When David is anointed by Samuel, what apparent ground is there
 for the transference? Who could have looked for a king out of the
 plebeian family of a herdsman? And out of seven brothers, who could have
@@ -294,7 +294,7 @@ thousand years after, make it palpable that Moses spoke under divine
 inspiration? I omit other predictions which so plainly betoken divine
 revelation, that all men of sound mind must see they were spoken by God.
 In short, his Song itself (<span id="iv.i.ix-p25.2"></span>[Deut.
-32](../../../bib/kjv/deu032.htm#000)<span id="iv.i.ix-p25.2"></span>) is
+32](../../../bib/kjv/deu032.htm#000)<span id="iv.i.ix-p25.2"></span>.md) is
 a bright mirror in which God is manifestly seen.
 
 <span id="iv.i.ix-p26"></span>8. In the case of the other prophets the
@@ -303,7 +303,7 @@ too tedious to enumerate the whole. Isaiah, in his own day, when the
 kingdom of Judah was at peace, and had even some ground to confide in
 the protection of the Chaldeans, spoke of the destruction of the city
 and the captivity of the people (<span id="iv.i.ix-p26.1"></span>[Isaiah
-55:1](../../../bib/kjv/isa055.htm#001)<span id="iv.i.ix-p26.1"></span>).
+55:1](../../../bib/kjv/isa055.htm#001)<span id="iv.i.ix-p26.1"></span>.md).
 Supposing it not to be sufficient evidence of divine inspiration to
 foretell, many years before, events which, at the time, seemed fabulous,
 but which ultimately turned out to be true, whence shall it be said that
@@ -326,14 +326,14 @@ the very thing being fulfilled to which they appeal in support of their
 credibility! “Behold, the former things are come to pass, and new things
 do I declare; before they spring forth I tell you of them,” (<span
 id="iv.i.ix-p26.2"></span>[Isaiah
-42:9](../../../bib/kjv/isa042.htm#009)<span id="iv.i.ix-p26.2"></span>).
+42:9](../../../bib/kjv/isa042.htm#009)<span id="iv.i.ix-p26.2"></span>.md).
 I say nothing of the agreement between Jeremiah and Ezekiel, who, living
 so far apart, and yet prophesying at the same time, harmonise as
 completely in all they say as if they had mutually dictated the words to
 one another. What shall I say of Daniel? Did not he deliver prophecies
 embracing a future period of almost six hundred years, as if he had been
 writing of past events generally known? (<span
-id="iv.i.ix-p26.3"></span>[Dan. 9](../../../bib/kjv/dan009.htm#000)<span
+id="iv.i.ix-p26.3"></span>[Dan. 9](../../../bib/kjv/dan009.htm#000.md)<span
 id="iv.i.ix-p26.3"></span>, &c). If the pious will duly meditate on
 these things, they will be sufficiently instructed to silence the cavils
 of the ungodly. The demonstration is too clear to be gainsaid.
@@ -349,9 +349,9 @@ law of Moses has been wonderfully preserved, more by divine providence
 than by human care; and though, owing to the negligence of the priests,
 it lay for a short time buried,—from the time when it was found by good
 King Josiah (<span id="iv.i.ix-p27.1"></span>[2 Kings
-22:8](../../../bib/kjv/kg2022.htm#008)<span id="iv.i.ix-p27.1"></span>;
+22:8](../../../bib/kjv/kg2022.htm#008.md)<span id="iv.i.ix-p27.1"></span>;
 <span id="iv.i.ix-p27.2"></span>[2 Chron.
-34:15](../../../bib/kjv/ch2034.htm#015)<span
+34:15](../../../bib/kjv/ch2034.htm#015.md)<span
 id="iv.i.ix-p27.2"></span>),—it has continued in the hands of men, and
 been transmitted in unbroken succession from generation to generation.
 Nor, indeed, when Josiah brought it forth, was it as a book unknown or
@@ -359,8 +359,8 @@ new, but one which had always been matter of notoriety, and was then in
 full remembrance. The original writing had been deposited in the temple,
 and a copy taken from it had been deposited in the royal archives (<span
 id="iv.i.ix-p27.3"></span>[Deut.
-17:18](../../../bib/kjv/deu017.htm#018),
-[19](../../../bib/kjv/deu017.htm#019)<span id="iv.i.ix-p27.3"></span>);
+17:18](../../../bib/kjv/deu017.htm#018.md),
+[19](../../../bib/kjv/deu017.htm#019)<span id="iv.i.ix-p27.3"></span>.md);
 the only thing which had occurred was, that the priests had ceased to
 publish the law itself in due form, and the people also had neglected
 the wonted reading of it. I may add, that scarcely an age passed during
@@ -374,8 +374,8 @@ while the remembrance of them was fresh.
 
 <span id="iv.i.ix-p28"></span>10. An objection taken from the history of
 the Maccabees (<span id="iv.i.ix-p28.1"></span>[1 Macc.
-1:57](../../../bib/apo/ma1001.htm#057),
-[58](../../../bib/apo/ma1001.htm#058)<span id="iv.i.ix-p28.1"></span>)
+1:57](../../../bib/apo/ma1001.htm#057.md),
+[58](../../../bib/apo/ma1001.htm#058)<span id="iv.i.ix-p28.1"></span>.md)
 to impugn the credibility of Scripture, is, on the contrary, fitted the
 best possible to confirm it. First, however, let us clear away the gloss
 which is put upon it: having done so, we shall turn the engine which
@@ -514,26 +514,26 @@ such high matters must previously possess piety and mental peace.
 
 ### Footnotes
 
-<span id="fn_69"></span>[70](inst022.htm#fr_69) <span
+<span id="fn_69"></span>[70](inst022.htm#fr_69.md) <span
 id="iv.i.ix-p22.1"></span>
 
 <span id="iv.i.ix-p23"></span>6 76 <span
 id="iv.i.ix-p23.1"></span>[Exod.
-24:18](../../../bib/kjv/exo024.htm#018)<span id="iv.i.ix-p23.1"></span>;
+24:18](../../../bib/kjv/exo024.htm#018.md)<span id="iv.i.ix-p23.1"></span>;
 <span id="iv.i.ix-p23.2"></span>[Exod.
-34:29](../../../bib/kjv/exo034.htm#029)<span id="iv.i.ix-p23.2"></span>;
+34:29](../../../bib/kjv/exo034.htm#029.md)<span id="iv.i.ix-p23.2"></span>;
 <span id="iv.i.ix-p23.3"></span>[Exod.
-19:16](../../../bib/kjv/exo019.htm#016)<span id="iv.i.ix-p23.3"></span>;
+19:16](../../../bib/kjv/exo019.htm#016.md)<span id="iv.i.ix-p23.3"></span>;
 <span id="iv.i.ix-p23.4"></span>[Exod.
-40:34](../../../bib/kjv/exo040.htm#034)<span id="iv.i.ix-p23.4"></span>
+40:34](../../../bib/kjv/exo040.htm#034.md)<span id="iv.i.ix-p23.4"></span>
 <span id="iv.i.ix-p23.5"></span>[Numb.
-16:24](../../../bib/kjv/num016.htm#024)<span id="iv.i.ix-p23.5"></span>;
+16:24](../../../bib/kjv/num016.htm#024.md)<span id="iv.i.ix-p23.5"></span>;
 <span id="iv.i.ix-p23.6"></span>[Numb.
-20:10](../../../bib/kjv/num020.htm#010)<span id="iv.i.ix-p23.6"></span>;
+20:10](../../../bib/kjv/num020.htm#010.md)<span id="iv.i.ix-p23.6"></span>;
 <span id="iv.i.ix-p23.7"></span>[Numb.
-11:9](../../../bib/kjv/num011.htm#009)<span id="iv.i.ix-p23.7"></span>
+11:9](../../../bib/kjv/num011.htm#009.md)<span id="iv.i.ix-p23.7"></span>
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 9. - ALL THE PRINCIPLES OF PIETY SUBVERTED BY FANATICS,
-WHO SUBSTITUTE REVELATIONS FOR SCRIPTURE.](inst023)
+WHO SUBSTITUTE REVELATIONS FOR SCRIPTURE.](inst023.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](mks15)  [Next](mks17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](mks15)  [Next](mks17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
 Textual Heritage
 
@@ -297,7 +297,7 @@ our demand? Can the finite advise the Infinite? This is the cause of
 failure; of every failure. We recognize the Omnipresence of the
 Universal Substance, but we fail to appreciate the fact that this
 substance is not only Omnipresent, but is Omnipotent and
-[Omniscient](errata.htm#1), and consequently will set causes in motion
+[Omniscient](errata.htm#1.md), and consequently will set causes in motion
 concerning which we may be entirely ignorant.
 
 <span class="margnote"><span id="an_XIII:26">XIII, 26</span></span>26.
@@ -420,4 +420,4 @@ expire.—Mackay.
 
 ------------------------------------------------------------------------
 
-[Next: Part Fourteen](mks17)
+[Next: Part Fourteen](mks17.md)

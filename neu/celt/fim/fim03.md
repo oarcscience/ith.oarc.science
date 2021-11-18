@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim02)  [Next](fim04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim02)  [Next](fim04.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Myths Connected with the Legendary History of the Isle
-of Man](fim04)
+of Man](fim04.md)

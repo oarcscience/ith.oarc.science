@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl00)  [Next](vrl02) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl00)  [Next](vrl02.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ world, amidst the bowels of the Earth.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER III](vrl02)
+[Next: CHAPTER III](vrl02.md)

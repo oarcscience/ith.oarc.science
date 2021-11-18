@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-02tx) [Next](dob-03tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-02tx) [Next](dob-03tx.md)
 
 ------------------------------------------------------------------------
 
@@ -329,7 +329,7 @@ Pi*t*akas. And the few passages in print confirm this. We
 <span id="p. 103">{p. 103}</span>
 
 have seen how in the Sâma*ññ*a-phala Sutta (above, [p.
-77](dob-02tx.htm#p.%2077)) it is taken for granted that a slave could
+77](dob-02tx.htm#p.%2077).md) it is taken for granted that a slave could
 join an Order (that is any order, not the Buddhist). And in the
 Agga*ññ*a Sutta of the Dîgha, and the Madhura Sutta of the Ma*ggh*ima,
 there is express mention of *S*ûdras becoming Sama*n*as, as if it were a
@@ -554,4 +554,4 @@ the Pi*t*akas, and on the Epics, are much to be desired.}</span>
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: III. Amba*tth*a Sutta](dob-03tx)
+[Return to top](#top)   [Next: III. Amba*tth*a Sutta](dob-03tx.md)

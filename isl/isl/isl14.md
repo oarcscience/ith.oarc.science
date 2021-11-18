@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl13)  [Next](isl15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl13)  [Next](isl15.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ again, filled his shoe with water, and held it between his teeth (while
 he climbed out), and gave the dog to drink. And God approved of his act,
 and pardoned his sins.' They said, 'What, Messenger of God, shall we be
 rewarded for what we do for animals?' He replied, 'Yes. There is a
-reward on every living creature.'" <span id="fr_36"></span>[30](#fn_36)
+reward on every living creature.'" <span id="fr_36"></span>[30](#fn_36.md)
 
  
 
@@ -44,13 +44,13 @@ you saw him you said this and that, then to his face you were cheerful
 and kindly!' And the Messenger of God said, 'Why, ‘A’isha, when have you
 ever seen me act grossly with people? Verily, the worst place on the
 resurrection day in the sight of God will be that of the man whom people
-avoided fearing his mischief.'" <span id="fr_37"></span>[31](#fn_37)
+avoided fearing his mischief.'" <span id="fr_37"></span>[31](#fn_37.md)
 
  
 
 Bukhārī . . . from ‘Abdallah ibn ‘Umar: "The Messenger of God said,
 'When any man says to his brother 'Thou infidel!' one of the two
-deserves the name.'" <span id="fr_38"></span>[32](#fn_38)
+deserves the name.'" <span id="fr_38"></span>[32](#fn_38.md)
 
 <span id="page_86">p. 86</span>
 
@@ -59,7 +59,7 @@ Bukhārī . . . from Ibn ‘Abbās: "A woman came to the Prophet and said,
 Should I make the pilgrimage in her place?' He said, 'Yes, do it. If
 your mother had had a debt, would you have paid it?' She said, 'Yes.'
 'Then pay what she owes, for God is more worthy than anyone that we
-should keep our promises to Him.'" <span id="fr_39"></span>[33](#fn_39)
+should keep our promises to Him.'" <span id="fr_39"></span>[33](#fn_39.md)
 
  
 
@@ -74,7 +74,7 @@ went to them and said: 'Are you those who said thus and so? But I dread
 God more than you and revere him more, yet I fast and break the fast; I
 pray and I sleep too, and I marry women. Whosoever turns from my
 practice \[*sunna*\] is none of mine.'" <span
-id="fr_40"></span>[34](#fn_40)
+id="fr_40"></span>[34](#fn_40.md)
 
  
 
@@ -83,27 +83,27 @@ and in coition practised withdrawal \[*kunnā* *na‘zilu*\] so as not to
 have offspring from them. We asked the Messenger of God about this and
 he said, 'Is that what you did?' Then he said three times: 'There is not
 a soul who is to be born for the day of resurrection, but that it will
-be born.'" <span id="fr_41"></span>[35](#fn_41) \[This *ḥadīth* is used
+be born.'" <span id="fr_41"></span>[35](#fn_41.md) \[This *ḥadīth* is used
 today to overcome objections to birth control.\]
 
  
 
 Bukhārī . . . from ‘Abdallah ibn Ja‘far ibn Abī Tab: "I saw the
 Messenger of God eating fresh dates with cucumbers." <span
-id="fr_42"></span>[36](#fn_42)
+id="fr_42"></span>[36](#fn_42.md)
 
  
 
 Bukhārī . . . from Abū Hurayra: "The Prophet said, 'The time draws near,
 and the good works grow less, and avarice appears, and the *ḥarj*
 increases.' They said, 'What is the *ḥarj*?' And he said, 'It is murder,
-murder!'" <span id="fr_43"></span>[37](#fn_43)
+murder!'" <span id="fr_43"></span>[37](#fn_43.md)
 
 <span id="page_87">p. 87</span>
 
 Bukhārī . . . from Anas ibn Mālik: "I served the Prophet for ten years,
 and never did he say 'Uff!' (disgustedly) either for what I had done or
-left undone." <span id="fr_44"></span>[38](#fn_44)
+left undone." <span id="fr_44"></span>[38](#fn_44.md)
 
  
 
@@ -117,7 +117,7 @@ we went with him. And the child was placed on the Prophet's lap, who was
 trembling, while his eyes flowed tears. Then Sa‘d said to him, 'What is
 this, Messenger of God?' He said, 'It is compassion, which God places as
 He will in the hearts of His servants. God has no mercy on those who do
-not have mercy.'" <span id="fr_45"></span>[39](#fn_45)
+not have mercy.'" <span id="fr_45"></span>[39](#fn_45.md)
 
  
 
@@ -133,7 +133,7 @@ conjugal act, it is an alms.' They said, 'What? We can satisfy our
 fleshly appetites and gain a reward?' He answered, 'Is not the one who
 satisfies his appetites illicitly guilty of a sin? Just so, one who
 satisfies them lawfully gains a reward.'" <span
-id="fr_46"></span>[40](#fn_46)
+id="fr_46"></span>[40](#fn_46.md)
 
  
 
@@ -142,49 +142,49 @@ sweetness of faith who does not love his fellow-man, not loving him for
 anything but God's sake, or would not find being thrown into a fire
 preferable to infidelity after God had delivered him from that, and to
 whom God and His prophet are not dearer than all other things.'" <span
-id="fr_47"></span>[41](#fn_47)
+id="fr_47"></span>[41](#fn_47.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_36"></span>[87:30](isl14.htm#fr_36) *Ibid*., Vol. IV, p.
+<span id="fn_36"></span>[87:30](isl14.htm#fr_36.md) *Ibid*., Vol. IV, p.
 117.
 
-<span id="fn_37"></span>[87:31](isl14.htm#fr_37) *Ibid*., Vol. IV, p.
+<span id="fn_37"></span>[87:31](isl14.htm#fr_37.md) *Ibid*., Vol. IV, p.
 121.
 
-<span id="fn_38"></span>[87:32](isl14.htm#fr_38) *Ibid*., Vol. IV, p.
+<span id="fn_38"></span>[87:32](isl14.htm#fr_38.md) *Ibid*., Vol. IV, p.
 139.
 
-<span id="fn_39"></span>[87:33](isl14.htm#fr_39) *Ibid*., Vol. IV, p.
+<span id="fn_39"></span>[87:33](isl14.htm#fr_39.md) *Ibid*., Vol. IV, p.
 431.
 
-<span id="fn_40"></span>[87:34](isl14.htm#fr_40) *Ibid*., Vol. III, pp.
+<span id="fn_40"></span>[87:34](isl14.htm#fr_40.md) *Ibid*., Vol. III, pp.
 410, 411.
 
-<span id="fn_41"></span>[87:35](isl14.htm#fr_41) *Ibid*., Vol. III, p.
+<span id="fn_41"></span>[87:35](isl14.htm#fr_41.md) *Ibid*., Vol. III, p.
 448.
 
-<span id="fn_42"></span>[87:36](isl14.htm#fr_42) *Ibid*., Vol. III, p.
+<span id="fn_42"></span>[87:36](isl14.htm#fr_42.md) *Ibid*., Vol. III, p.
 506.
 
-<span id="fn_43"></span>[87:37](isl14.htm#fr_43) <span id="page_245">p.
+<span id="fn_43"></span>[87:37](isl14.htm#fr_43.md) <span id="page_245">p.
 245</span> *Ibid*., Vol. IV, p. 368.
 
-<span id="fn_44"></span>[87:38](isl14.htm#fr_44) *Ibid*., Vol. III, p.
+<span id="fn_44"></span>[87:38](isl14.htm#fr_44.md) *Ibid*., Vol. III, p.
 122.
 
-<span id="fn_45"></span>[87:39](isl14.htm#fr_45) *Ibid*., Vol. IV, p.
+<span id="fn_45"></span>[87:39](isl14.htm#fr_45.md) *Ibid*., Vol. IV, p.
 43.
 
-<span id="fn_46"></span>[87:40](isl14.htm#fr_46) Cited in *Forty Hadiths
+<span id="fn_46"></span>[87:40](isl14.htm#fr_46.md) Cited in *Forty Hadiths
 of al-Nāwāwī* also Cf. G. H. Bousquet, *Classiques de l’Islamologie*
 (Algiers, 1950).
 
-<span id="fn_47"></span>[87:41](isl14.htm#fr_47) Al-Bukhārī, *op. cit.*,
+<span id="fn_47"></span>[87:41](isl14.htm#fr_47.md) Al-Bukhārī, *op. cit.*,
 Vol. IV, p. 123.
 
 ------------------------------------------------------------------------
 
-[Next: 5. The Preservation of the Prophetic Practice (Sunna)](isl15)
+[Next: 5. The Preservation of the Prophetic Practice (Sunna)](isl15.md)

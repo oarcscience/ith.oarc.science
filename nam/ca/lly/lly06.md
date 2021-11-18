@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly05)  [Next](lly07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly05)  [Next](lly07.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ of its setting.
 
 ------------------------------------------------------------------------
 
-[Next: Bridal Veil Fall](lly07)
+[Next: Bridal Veil Fall](lly07.md)

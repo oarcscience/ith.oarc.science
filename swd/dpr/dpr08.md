@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dpr07)  [Next](dpr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dpr07)  [Next](dpr09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ infinite and eternal creation the Lord provided for in creating the
 universe and He pursues it steadily in His divine providence.
 
 \[2\] Can anyone who knows and believes from the church's doctrine
- <span id="fr_2"></span>[202-1](#fn_2) that God is infinite and eternal
+ <span id="fr_2"></span>[202-1](#fn_2.md) that God is infinite and eternal
 be so lacking in reason that he does not agree on hearing it that God
 can then regard only what is infinite and eternal in the great work of
 His creation? To what else can He look from His infinite being? To what
@@ -1344,7 +1344,7 @@ kinds. But one who confirms evil loves does violence to divine goods,
 and one who confirms false principles does violence to divine truths.
 The latter violence is called falsification of truth and the former
 adulteration of good; both are meant by "bloods" <span
-id="fr_3"></span>[231-1](#fn_3) in the Word. For a spiritual holiness,
+id="fr_3"></span>[231-1](#fn_3.md) in the Word. For a spiritual holiness,
 which is also the spirit of truth proceeding from the Lord, is in every
 particular of the sense of the letter of the Word. This holiness is
 injured when the Word is falsified and adulterated. It is plain that
@@ -2151,16 +2151,16 @@ or blessings, and with whom they are the one or the other.
 
 ### Footnotes
 
-<span id="fn_2"></span>[202-1](dpr08.htm#fr_2) It is the doctrine of all
+<span id="fn_2"></span>[202-1](dpr08.htm#fr_2.md) It is the doctrine of all
 churches in Christendom that God the Father, God the Son and God the
 Holy Spirit is infinite, eternal, uncreated and omnipotent, as may be
 seen in the Athanasian Creed.
 
-<span id="fn_3"></span>[231-1](dpr08.htm#fr_3) Plural in the Hebrew,
+<span id="fn_3"></span>[231-1](dpr08.htm#fr_3.md) Plural in the Hebrew,
 especially of blood that has been shed. "Both" is emphatic here, and for
 the significance of the plural see Arcana Caelestia, n. 374e and
 Apocalypse Explained, n. 329(27).
 
 ------------------------------------------------------------------------
 
-[Next: 251-300](dpr09)
+[Next: 251-300](dpr09.md)

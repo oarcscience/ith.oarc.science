@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst055)  [Next](inst057) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst055)  [Next](inst057.md) 
 
 ------------------------------------------------------------------------
 
@@ -156,7 +156,7 @@ transition, however, will be from faith to repentance; for repentance
 being properly understood it will better appear how a man is justified
 freely by faith alone, and yet that holiness of life, *real* holiness,
 as it is called, is inseparable from the free imputation of
-righteousness.30  <span id="fr_299"></span>[300](#fn_299) That
+righteousness.30  <span id="fr_299"></span>[300](#fn_299.md) That
 repentance not only always follows faith, but is produced by it, ought
 to be without controversy (see Calvin in Joann. 1:13). For since pardon
 and forgiveness are offered by the preaching of the Gospel, in order
@@ -172,17 +172,17 @@ nature, and are moved to adopt that view on very insufficient grounds.
 <span id="iv.iii.iv-p31"></span>2. Christ and John, it is said, in their
 discourses first exhort the people to repentance, and then add, that the
 kingdom of heaven is at hand (<span id="iv.iii.iv-p31.1"></span>[Mt.
-3:2](../../../bib/kjv/mat003.htm#002)<span id="iv.iii.iv-p31.1"></span>;
+3:2](../../../bib/kjv/mat003.htm#002.md)<span id="iv.iii.iv-p31.1"></span>;
 4:17). Such too, is the message which the Apostles received and such the
 course which Paul followed, as is narrated by Luke (<span
 id="iv.iii.iv-p31.2"></span>[Acts
-20:21](../../../bib/kjv/act020.htm#021)<span
+20:21](../../../bib/kjv/act020.htm#021.md)<span
 id="iv.iii.iv-p31.2"></span>). But clinging superstitiously to the
 juxtaposition of the syllables, they attend not to the coherence of
 meaning in the words. For when our Lord and John begin their preaching
 thus “Repent, for the kingdom of heaven is at hand,” (<span
 id="iv.iii.iv-p31.3"></span>[Mt.
-3:2](../../../bib/kjv/mat003.htm#002)<span
+3:2](../../../bib/kjv/mat003.htm#002.md)<span
 id="iv.iii.iv-p31.3"></span>), do they not deduce repentance as a
 consequence of the offer of grace and promise of salvation? The force of
 the words, therefore, is the same as if it were said, As the kingdom of
@@ -191,7 +191,7 @@ that John so preached, says that therein was fulfilled the prophecy
 concerning the voice of one crying in the desert, “Prepare ye the way of
 the Lord, make straight in the desert a highway for our God,” (<span
 id="iv.iii.iv-p31.4"></span>[Isaiah
-40:3](../../../bib/kjv/isa040.htm#003)<span
+40:3](../../../bib/kjv/isa040.htm#003.md)<span
 id="iv.iii.iv-p31.4"></span>). But in the Prophet that voice is ordered
 to commence with consolation and glad tidings. Still, when we attribute
 the origin of repentance to faith, we do not dream of some period of
@@ -204,9 +204,9 @@ subdued by terror of conscience, or disposed to obedience before they
 have been imbued with a knowledge, nay, before they have had any taste
 of the divine favor (see Calvin in <span
 id="iv.iii.iv-p31.5"></span>[Acts
-20:21](../../../bib/kjv/act020.htm#021)<span
+20:21](../../../bib/kjv/act020.htm#021.md)<span
 id="iv.iii.iv-p31.5"></span>). This is that initial fear30  <span
-id="fr_300"></span>[301](#fn_300) which some writers class among the
+id="fr_300"></span>[301](#fn_300.md) which some writers class among the
 virtues, because they think it approximates to true and genuine
 obedience. But we are not here considering the various modes in which
 Christ draws us to himself, or prepares us for the study of piety: All I
@@ -214,7 +214,7 @@ say is, that no righteousness can be found where the Spirit, whom Christ
 received in order to communicate it to his members, reigns not. Then,
 according to the passage in the Psalms, “There is forgiveness with thee,
 that thou mayest be feared,” (<span id="iv.iii.iv-p32.1"></span>[Psalm
-130:4](../../../bib/kjv/psa130.htm#004)<span
+130:4](../../../bib/kjv/psa130.htm#004.md)<span
 id="iv.iii.iv-p32.1"></span>), no man will ever reverence God who does
 not trust that God is propitious to him, no man will ever willingly set
 himself to observe the Law who is not persuaded that his services are
@@ -223,7 +223,7 @@ iniquities is a sign of paternal favor. This is also clear from the
 exhortation in Hosea, “Come, and let us return unto the Lord: for he has
 torn, and he will heal us; he has smitten, and he will bind us up,”
 (<span id="iv.iii.iv-p32.2"></span>[Hos.
-6:1](../../../bib/kjv/hos006.htm#001)<span
+6:1](../../../bib/kjv/hos006.htm#001.md)<span
 id="iv.iii.iv-p32.2"></span>); the hope of pardon is employed as a
 stimulus to prevent us from becoming reckless in sin. But there is no
 semblance of reason in the absurd procedure of those who, that they may
@@ -270,7 +270,7 @@ perturbation, unable to escape from it. The other they term Evangelical
 repentance; or that by which the sinner, though grievously downcast in
 himself, yet looks up and sees in Christ the cure of his wound, the
 solace of his terror; the haven of rest from his misery. They give Cain,
-Saul and Judas,30  <span id="fr_301"></span>[302](#fn_301) as examples
+Saul and Judas,30  <span id="fr_301"></span>[302](#fn_301.md) as examples
 of legal repentance. Scripture, in describing what is called their
 repentance, means that they perceived the heinousness of their sins, and
 dreaded the divine anger; but, thinking only of God as a judge and
@@ -280,7 +280,7 @@ entered even in the present life, they began to endure the punishment
 inflicted by the presence of an offended God. Examples of evangelical
 repentance we see in all those who, first stung with a sense of sin, but
 afterwards raised and revived by confidence in the divine mercy, turned
-unto the Lord.30  <span id="fr_302"></span>[303](#fn_302) Hezekiah was
+unto the Lord.30  <span id="fr_302"></span>[303](#fn_302.md) Hezekiah was
 frightened on receiving the message of his death, but praying with
 tears, and beholding the divine goodness, regained his confidence. The
 Ninevites were terrified at the fearful announcement of their
@@ -301,7 +301,7 @@ differently taken. For in comprehending faith under repentance, they are
 at variance with what Paul says in the Acts, as to his “testifying both
 to the Jews and also to the Greeks, repentance toward God, and faith
 toward our Lord Jesus Christ,” (<span id="iv.iii.iv-p37.1"></span>[Acts
-20:21](../../../bib/kjv/act020.htm#021)<span
+20:21](../../../bib/kjv/act020.htm#021.md)<span
 id="iv.iii.iv-p37.1"></span>). Here he mentions faith and repentance as
 two different things. What then? Can true repentance exist without
 faith? By no means. But although they cannot be separated, they ought to
@@ -328,7 +328,7 @@ down and humble themselves before him whom they had offended, and, with
 true repentance, retake themselves to the right path. Accordingly, they
 use indiscriminately in the same sense, the expressions turning, or
 returning to the Lord; repenting, doing repentance.31  <span
-id="fr_303"></span>[304](#fn_303) Whence, also, the sacred history
+id="fr_303"></span>[304](#fn_303.md) Whence, also, the sacred history
 describes it as repentance towards God, when men who disregarded him and
 wantoned in their lusts begin to obey his word, and are prepared to go
 whithersoever he may call them. And John Baptist and Paul, under the
@@ -345,7 +345,7 @@ is able only after it has put off its old habits to bring forth fruits
 conformable to its renovation. The prophet, intending to express this,
 enjoins those whom he calls to repentance to make them “a new heart and
 a new spirit,” (<span id="iv.iii.iv-p39.1"></span>[Ezek.
-18:31](../../../bib/kjv/eze018.htm#031)<span
+18:31](../../../bib/kjv/eze018.htm#031.md)<span
 id="iv.iii.iv-p39.1"></span>). Hence Moses, on several occasions, when
 he would show how the Israelites were to repent and turn to the Lord,
 tells them that it must be done with the whole heart, and the whole soul
@@ -357,7 +357,7 @@ Israel, saith the Lord, return unto me.” “Break up your fallow ground,
 and sow not among thorns. Circumcise yourselves to the Lord, and take
 away the foreskins of your heart,” (<span
 id="iv.iii.iv-p39.2"></span>[Jer.
-4:1-4](../../../bib/kjv/jer004.htm#001)<span
+4:1-4](../../../bib/kjv/jer004.htm#001.md)<span
 id="iv.iii.iv-p39.2"></span>). See how he declares to them that it will
 be of no avail to commence the study of righteousness unless impiety
 shall first have been eradicated from their inmost heart. And to malice
@@ -368,7 +368,7 @@ zealously aimed at an external repentance by the observance of
 ceremonies, but in the meanwhile cared not “to loose the bands of
 wickedness, to undo the heavy burdens, and to let the oppressed go
 free,” (<span id="iv.iii.iv-p39.3"></span>[Isaiah
-58:6](../../../bib/kjv/isa058.htm#006)<span
+58:6](../../../bib/kjv/isa058.htm#006.md)<span
 id="iv.iii.iv-p39.3"></span>). In these words he admirably shows wherein
 the acts of unfeigned repentance consist.
 
@@ -384,14 +384,14 @@ Hence the Scripture, when exhorting to repentance, often introduces the
 subject of judgment, as in Jeremiah, “Lest my fury come forth like fire,
 and burn that none can quench it, because of the evil of your doings,”
 (<span id="iv.iii.iv-p40.1"></span>[Jer.
-4:4](../../../bib/kjv/jer004.htm#004)<span
+4:4](../../../bib/kjv/jer004.htm#004.md)<span
 id="iv.iii.iv-p40.1"></span>). Paul, in his discourse to the Athenians
 says, “The times of this ignorance God winked at; but now commandeth all
 men every where to repent: because he has appointed a day in the which
 he will judge the world in righteousness,” (<span
 id="iv.iii.iv-p40.2"></span>[Acts
-17:30](../../../bib/kjv/act017.htm#030),
-[31](../../../bib/kjv/act017.htm#031)<span
+17:30](../../../bib/kjv/act017.htm#030.md),
+[31](../../../bib/kjv/act017.htm#031.md)<span
 id="iv.iii.iv-p40.2"></span>). The same thing is repeated in several
 other passages. Sometimes God is declared to be a judge, from the
 punishments already inflicted, thus leading sinners to reflect that
@@ -399,7 +399,7 @@ worse awaits them if they do not quickly repent. There is an example of
 this in the 29th chapter of Deuteronomy. As repentance begins with dread
 and hatred of sin, the Apostle sets down godly sorrow as one of its
 causes (<span id="iv.iii.iv-p40.3"></span>[2 Cor.
-7:10](../../../bib/kjv/co2007.htm#010)<span
+7:10](../../../bib/kjv/co2007.htm#010.md)<span
 id="iv.iii.iv-p40.3"></span>). By godly sorrow he means when we not only
 tremble at the punishment, but hate and abhor the sin, because we know
 it is displeasing to God. It is not strange that this should be, for
@@ -426,13 +426,13 @@ quickening of the Spirit. The prophets, in accommodation to a carnal
 people, express this in simple and homely terms, but clearly, when they
 say, “Depart from evil, and do good,” (<span
 id="iv.iii.iv-p41.1"></span>[Ps.
-34:14](../../../bib/kjv/psa034.htm#014)<span
+34:14](../../../bib/kjv/psa034.htm#014.md)<span
 id="iv.iii.iv-p41.1"></span>). “Wash you, make you clean, put away the
 evil of your doings from before mine eyes; cease to do evil; learn to do
 well; seek judgment; relieve the oppressed,” &c. (<span
 id="iv.iii.iv-p41.2"></span>[Isa.
-1:16](../../../bib/kjv/isa001.htm#016),
-[17](../../../bib/kjv/isa001.htm#017)<span
+1:16](../../../bib/kjv/isa001.htm#016.md),
+[17](../../../bib/kjv/isa001.htm#017.md)<span
 id="iv.iii.iv-p41.2"></span>). In dissuading us from wickedness they
 demand the entire destruction of the flesh, which is full of
 perverseness and malice. It is a most difficult and arduous achievement
@@ -440,7 +440,7 @@ to renounce ourselves, and lay aside our natural disposition. For the
 flesh must not be thought to be destroyed unless every thing that we
 have of our own is abolished. But seeing that all the desires of the
 flesh are enmity against God (<span id="iv.iii.iv-p41.3"></span>[Rom.
-8:7](../../../bib/kjv/rom008.htm#007)<span
+8:7](../../../bib/kjv/rom008.htm#007.md)<span
 id="iv.iii.iv-p41.3"></span>), the first step to the obedience of his
 law is the renouncement of our own nature. Renovation is afterwards
 manifested by the fruits produced by it—viz. justice, judgment, and
@@ -464,12 +464,12 @@ of our ordinary nature.
 Christ. For if we have true fellowship in his death, our old man is
 crucified by his power, and the body of sin becomes dead, so that the
 corruption of our original nature is never again in full vigor (<span
-id="iv.iii.iv-p42.1"></span>[Rom. 6:5](../../../bib/kjv/rom006.htm#005),
-[6](../../../bib/kjv/rom006.htm#006)<span id="iv.iii.iv-p42.1"></span>).
+id="iv.iii.iv-p42.1"></span>[Rom. 6:5](../../../bib/kjv/rom006.htm#005.md),
+[6](../../../bib/kjv/rom006.htm#006)<span id="iv.iii.iv-p42.1"></span>.md).
 If we are partakers in his resurrection, we are raised up by means of it
 to newness of life, which conforms us to the righteousness of God. In
 one word, then, by repentance I understand regeneration,31  <span
-id="fr_304"></span>[305](#fn_304) the only aim of which is to form in us
+id="fr_304"></span>[305](#fn_304.md) the only aim of which is to form in us
 anew the image of God, which was sullied, and all but effaced by the
 transgression of Adam. So the Apostle teaches when he says, “We all with
 open face beholding as in a glass the glory of the Lord, are changed
@@ -478,7 +478,7 @@ Again, “Be renewed in the spirit of your minds” and “put ye on the new
 man, which after God is created in righteousness and true holiness.”
 Again, “Put ye on the new man, which is renewed in knowledge after the
 image of him that created him.”31  <span
-id="fr_305"></span>[306](#fn_305) Accordingly through the blessing of
+id="fr_305"></span>[306](#fn_305.md) Accordingly through the blessing of
 Christ we are renewed by that regeneration into the righteousness of God
 from which we had fallen through Adam, the Lord being pleased in this
 manner to restore the integrity of all whom he appoints to the
@@ -514,7 +514,7 @@ and anon prompted and incited to lust, avarice, ambition, or other
 vices. It is unnecessary to spend much time in investigating the
 sentiments of ancient writers. Augustine alone may suffice, as he has
 collected all their opinions with great care and fidelity.31  <span
-id="fr_306"></span>[307](#fn_306) Any reader who is desirous to know the
+id="fr_306"></span>[307](#fn_306.md) Any reader who is desirous to know the
 sense of antiquity may obtain it from him. There is this difference
 apparently between him and us, that while he admits that believers, so
 long as they are in the body, are so liable to concupiscence that they
@@ -537,19 +537,19 @@ as they are liable to carnal concupiscence, are chargeable with sin.
 <span id="iv.iii.iv-p47"></span>11. When it is said that God purifies
 his Church, so as to be “holy and without blemish,” (<span
 id="iv.iii.iv-p47.1"></span>[Eph.
-5:26](../../../bib/kjv/eph005.htm#026),
-[27](../../../bib/kjv/eph005.htm#027)<span
+5:26](../../../bib/kjv/eph005.htm#026.md),
+[27](../../../bib/kjv/eph005.htm#027.md)<span
 id="iv.iii.iv-p47.1"></span>), that he promises this cleansing by means
 of baptism, and performs it in his elect, I understand that reference is
 made to the guilt rather than to the matter of sin. In regenerating his
 people God indeed accomplishes this much for them; he destroys the
-dominion of sin,31  <span id="fr_307"></span>[308](#fn_307) by supplying
+dominion of sin,31  <span id="fr_307"></span>[308](#fn_307.md) by supplying
 the agency of the Spirit, which enables them to come off victorious from
 the contest. Sin, however, though it ceases to reign, ceases not to
 dwell in them. Accordingly, though we say that the old man is crucified,
 and the law of sin is abolished in the children of God (<span
 id="iv.iii.iv-p48.1"></span>[Rom.
-6:6](../../../bib/kjv/rom006.htm#006)<span
+6:6](../../../bib/kjv/rom006.htm#006.md)<span
 id="iv.iii.iv-p48.1"></span>), the remains of sin survive, not to have
 dominion, but to humble them under a consciousness of their infirmity.
 We admit that these remains, just as if they had no existence, are not
@@ -559,7 +559,7 @@ otherwise make them sinners before God. It will not be difficult for us
 to confirm this view, seeing we can support it by clear passages of
 Scripture. How can we express our view more plainly than Paul does in
 <span id="iv.iii.iv-p48.2"></span>[Rom.
-7:6](../../../bib/kjv/rom007.htm#006)<span id="iv.iii.iv-p48.2"></span>?
+7:6](../../../bib/kjv/rom007.htm#006.md)<span id="iv.iii.iv-p48.2"></span>?
 We have elsewhere shown and Augustine by solid reasons proves, that Paul
 is there speaking in the person of a regenerated man. I say nothing as
 to his use of the words evil and sin. However those who object to our
@@ -632,14 +632,14 @@ his own sentiments without controversy, he says, “If with the flesh you
 serve the law of sin, do what the Apostle himself says, ‘Let not sin,
 therefore, reign in your mortal body, that ye should obey it in the
 lusts thereof,’ (<span id="iv.iii.iv-p50.1"></span>[Rom.
-6:12](../../../bib/kjv/rom006.htm#012)<span
+6:12](../../../bib/kjv/rom006.htm#012.md)<span
 id="iv.iii.iv-p50.1"></span>). He does not say, *Let it not be*, but
 *Let it not reign*. As long as you live there must be sin in your
 members; but at least let its dominion be destroyed; do not what it
 orders.” Those who maintain that concupiscence is not sin, are wont to
 found on the passage of James, “Then, when lust has conceived, it
 bringeth forth sin,” (<span id="iv.iii.iv-p50.2"></span>[James
-1:15](../../../bib/kjv/jam001.htm#015)<span
+1:15](../../../bib/kjv/jam001.htm#015.md)<span
 id="iv.iii.iv-p50.2"></span>). But this is easily refuted: for unless we
 understand him as speaking only of wicked works or actual sins, even a
 wicked inclination will not be accounted sin. But from his calling
@@ -653,7 +653,7 @@ of the Spirit, holding that the children of God are restored to a state
 of innocence, and, therefore, need give themselves no anxiety about
 curbing the lust of the flesh; that they have the Spirit for their
 guide, and under his agency never err.31  <span
-id="fr_308"></span>[309](#fn_308) It would be incredible that the human
+id="fr_308"></span>[309](#fn_308.md) It would be incredible that the human
 mind could proceed to such insanity, did they not openly and exultingly
 give utterance to their dogma. It is indeed monstrous, and yet it is
 just, that those who have resolved to turn the word of God into a lie,
@@ -700,15 +700,15 @@ a messenger of Satan, in order that his strength might be perfected in
 weakness, and who gives in his own person a true, not a fictitious
 representation, of the strife between the Spirit and the flesh (<span
 id="iv.iii.iv-p52.1"></span>[2 Cor.
-12:7](../../../bib/kjv/co2012.htm#007),
-[9](../../../bib/kjv/co2012.htm#009)<span id="iv.iii.iv-p52.1"></span>;
+12:7](../../../bib/kjv/co2012.htm#007.md),
+[9](../../../bib/kjv/co2012.htm#009.md)<span id="iv.iii.iv-p52.1"></span>;
 <span id="iv.iii.iv-p52.2"></span>[Rom.
-7:6](../../../bib/kjv/rom007.htm#006)<span
+7:6](../../../bib/kjv/rom007.htm#006.md)<span
 id="iv.iii.iv-p52.2"></span>).
 
 <span id="iv.iii.iv-p53"></span>15. The Apostle, in his description of
 repentance (<span id="iv.iii.iv-p53.1"></span>[2 Cor.
-7:2](../../../bib/kjv/co2007.htm#002)<span
+7:2](../../../bib/kjv/co2007.htm#002.md)<span
 id="iv.iii.iv-p53.1"></span>), enumerates seven causes, effects, or
 parts belonging to it, and that on the best grounds. These are
 carefulness, excuse, indignation fear, desire, zeal, revenge. It should
@@ -793,11 +793,11 @@ nothing is gained without beginning with the internal affections of the
 heart. There is a passage of Joel which will avail not a little for the
 understanding of others: “Rend your heart, and not your garments,”
 (<span id="iv.iii.iv-p54.1"></span>[Joel
-2:13](../../../bib/kjv/joe002.htm#013)<span
+2:13](../../../bib/kjv/joe002.htm#013.md)<span
 id="iv.iii.iv-p54.1"></span>). Both are also briefly expressed by James
 in these words: “Cleanse your hands, ye sinners; and purify your hearts,
 ye double-minded,” (<span id="iv.iii.iv-p54.2"></span>[James
-4:8](../../../bib/kjv/jam004.htm#008)<span
+4:8](../../../bib/kjv/jam004.htm#008.md)<span
 id="iv.iii.iv-p54.2"></span>). Here, indeed, the accessory is set down
 first; but the source and principle is afterwards pointed out—viz. that
 hidden defilements must be wiped away, and an altar erected to God in
@@ -805,7 +805,7 @@ the very heart. There are, moreover, certain external exercises which we
 employ in private as remedies to humble us and tame our flesh, and in
 public, to testify our repentance. These have their origin in that
 revenge of which Paul speaks (<span id="iv.iii.iv-p54.3"></span>[2 Cor.
-7:2](../../../bib/kjv/co2007.htm#002)<span
+7:2](../../../bib/kjv/co2007.htm#002.md)<span
 id="iv.iii.iv-p54.3"></span>), for when the mind is distressed, it
 naturally expresses itself in sackcloth, groans, and tears, shuns
 ornament and every kind of show, and abandons all delights. Then he who
@@ -833,7 +833,7 @@ repentance is described by the words, “turn ye even to me with your
 whole heart;” “rend your heart, and not your garments.” The “fastings”,
 “weeping,” and “mourning,” are introduced not as invariable or necessary
 effects, but as special circumstances.31  <span
-id="fr_309"></span>[310](#fn_309) Having foretold that most grievous
+id="fr_309"></span>[310](#fn_309.md) Having foretold that most grievous
 disasters were impending over the Jews, he exhorts them to turn away the
 divine anger not only by repenting, but by giving public signs of
 sorrow. For as a criminal, to excite the commiseration of the judge,
@@ -841,7 +841,7 @@ appears in a supplicating posture, with a long beard, uncombed hair, and
 coarse clothing, so should those who are charged at the judgment-seat of
 God deprecate his severity in a garb of wretchedness. But although
 sackcloth and ashes were perhaps more conformable to the customs of
-these times,31  <span id="fr_310"></span>[311](#fn_310) yet it is plain
+these times,31  <span id="fr_310"></span>[311](#fn_310.md) yet it is plain
 that weeping and fasting are very appropriate in our case whenever the
 Lord threatens us with any defeat or calamity. In presenting the
 appearance of danger, he declares that he is preparing, and, in a
@@ -850,14 +850,14 @@ Prophet exhort those, on whose crimes he had said a little before that
 vengeance was to be executed, to weeping and fasting,—that is, to the
 mourning habit of criminals. Nor in the present day do ecclesiastical
 teachers act improperly when, seeing ruin hanging over the necks of
-their people,31  <span id="fr_311"></span>[312](#fn_311) they call aloud
+their people,31  <span id="fr_311"></span>[312](#fn_311.md) they call aloud
 on them to hasten with weeping and fasting: only they must always urge,
 with greater care and earnestness, “rend your hearts, and not your
 garments.” It is beyond doubt that fasting is not always a concomitant
 of repentance, but is specially destined for seasons of calamity.31
- <span id="fr_312"></span>[313](#fn_312) Hence our Savior connects it
+ <span id="fr_312"></span>[313](#fn_312.md) Hence our Savior connects it
 with mourning (<span id="iv.iii.iv-p59.1"></span>[Mt.
-9:15](../../../bib/kjv/mat009.htm#015)<span
+9:15](../../../bib/kjv/mat009.htm#015.md)<span
 id="iv.iii.iv-p59.1"></span>), and relieves the Apostles of the
 necessity of it until, by being deprived of his presence, they were
 filled with sorrow. I speak of formal fasting. For the life of
@@ -872,9 +872,9 @@ improperly, and not in the genuine meaning as I have explained it. For
 that is not so much a turning unto God as the confession of a fault
 accompanied with deprecation of the sentence and punishment. Thus to
 repent in sackcloth and ashes (<span id="iv.iii.iv-p60.1"></span>[Mt.
-11:21](../../../bib/kjv/mat011.htm#021)<span
+11:21](../../../bib/kjv/mat011.htm#021.md)<span
 id="iv.iii.iv-p60.1"></span>; <span id="iv.iii.iv-p60.2"></span>[Luke
-10:13](../../../bib/kjv/luk010.htm#013)<span
+10:13](../../../bib/kjv/luk010.htm#013.md)<span
 id="iv.iii.iv-p60.2"></span>), is just to testify self dissatisfaction
 when God is angry with us for having grievously offended him. It is,
 indeed, a kind of public confession by which, condemning ourselves
@@ -882,7 +882,7 @@ before angels and the world, we prevent the judgment of God. For Paul,
 rebuking the sluggishness of those who indulge in their sins, says, “If
 we would judge ourselves, we should not be judged,” (<span
 id="iv.iii.iv-p60.3"></span>[1 Cor.
-11:31](../../../bib/kjv/co1011.htm#031)<span
+11:31](../../../bib/kjv/co1011.htm#031.md)<span
 id="iv.iii.iv-p60.3"></span>). It is not always necessary, however,
 openly to inform others, and make them the witnesses of our repentance;
 but to confess privately to God is a part of true repentance which
@@ -893,7 +893,7 @@ the sins which we daily commit, but more grievous lapses ought to carry
 us farther, and bring to our remembrance things which seemed to have
 been long ago buried. Of this David sets an example before us in his own
 person (<span id="iv.iii.iv-p60.4"></span>[Ps.
-51](../../../bib/kjv/psa051.htm#000)<span id="iv.iii.iv-p60.4"></span>).
+51](../../../bib/kjv/psa051.htm#000)<span id="iv.iii.iv-p60.4"></span>.md).
 Filled with shame for a recent crime he examines himself, going back to
 the womb, and acknowledging that even then he was corrupted and defiled.
 This he does not to extenuate his fault, as many hide themselves in the
@@ -903,7 +903,7 @@ sin, that being corrupted from his earliest infancy he ceased not to add
 iniquity to iniquity. In another passage, also, he takes a survey of his
 past life, and implores God to pardon the errors of his youth (<span
 id="iv.iii.iv-p60.5"></span>[Ps.
-25:7](../../../bib/kjv/psa025.htm#007)<span
+25:7](../../../bib/kjv/psa025.htm#007.md)<span
 id="iv.iii.iv-p60.5"></span>). And, indeed, we shall not prove that we
 have thoroughly shaken off our stupor until, groaning under the burden,
 and lamenting our sad condition, we seek relief from God. It is,
@@ -918,7 +918,7 @@ forms of gross wickedness. For which reason Paul denounces woe to
 sinners, “who have not repented of the uncleanness, and fornication, and
 lasciviousness which they have committed,” (<span
 id="iv.iii.iv-p60.6"></span>[2 Cor.
-12:21](../../../bib/kjv/co2012.htm#021)<span
+12:21](../../../bib/kjv/co2012.htm#021.md)<span
 id="iv.iii.iv-p60.6"></span>). This distinction ought to be carefully
 observed, lest when we hear of a few individuals having been summoned to
 repent we indulge in supine security, as if we had nothing to do with
@@ -938,7 +938,7 @@ the same time renews them to true holiness by the sanctification of his
 Spirit? John, the messenger sent before the face of Christ to prepare
 his ways, proclaimed, “repent, for the kingdom of heaven is at hand,”
 (<span id="iv.iii.iv-p61.1"></span>[Mt.
-11:10](../../../bib/kjv/mat011.htm#010)<span
+11:10](../../../bib/kjv/mat011.htm#010.md)<span
 id="iv.iii.iv-p61.1"></span>; 3:2). By inviting them to repentance, he
 urged them to acknowledge that they were sinners, and in all respects
 condemned before God, that thus they might be induced earnestly to seek
@@ -949,16 +949,16 @@ salvation, life, and every other blessing which we obtain in Christ;
 wherefore we read in the other Evangelists, “John did baptize in the
 wilderness, and preach the baptism of repentance for the remission of
 sins,” (<span id="iv.iii.iv-p61.2"></span>[Mark
-1:4](../../../bib/kjv/mar001.htm#004)<span id="iv.iii.iv-p61.2"></span>;
+1:4](../../../bib/kjv/mar001.htm#004.md)<span id="iv.iii.iv-p61.2"></span>;
 <span id="iv.iii.iv-p61.3"></span>[Luke
-3:3](../../../bib/kjv/luk003.htm#003)<span
+3:3](../../../bib/kjv/luk003.htm#003.md)<span
 id="iv.iii.iv-p61.3"></span>). What does this mean, but that, weary and
 oppressed with the burden of sin, they should turn to the Lord, and
 entertain hopes of forgiveness and salvation?32  <span
-id="fr_313"></span>[314](#fn_313) Thus, too, Christ began his preaching,
+id="fr_313"></span>[314](#fn_313.md) Thus, too, Christ began his preaching,
 “The kingdom of God is at hand: repent ye, and believe the Gospel,”
 (<span id="iv.iii.iv-p62.1"></span>[Mark
-1:10](../../../bib/kjv/mar001.htm#010)<span
+1:10](../../../bib/kjv/mar001.htm#010.md)<span
 id="iv.iii.iv-p62.1"></span>). First, he declares that the treasures of
 the divine mercy were opened in him; next, he enjoins repentance; and,
 lastly, he encourages confidence in the promises of God. Accordingly,
@@ -966,13 +966,13 @@ when intending to give a brief summary of the whole Gospel, he said that
 he behaved “to suffer, and to rise from the dead the third day, and that
 repentance and remission of sins should be preached in his name among
 all nations,” (<span id="iv.iii.iv-p62.2"></span>[Luke
-24:26](../../../bib/kjv/luk024.htm#026),
-[46](../../../bib/kjv/luk024.htm#046)<span
+24:26](../../../bib/kjv/luk024.htm#026.md),
+[46](../../../bib/kjv/luk024.htm#046.md)<span
 id="iv.iii.iv-p62.2"></span>). In like manner, after his resurrection
 the Apostles preached, “Him has God exalted with his right hand, to be a
 Prince and a Savior, for to give repentance to Israel and forgiveness of
 sins,” (<span id="iv.iii.iv-p62.3"></span>[Acts
-5:31](../../../bib/kjv/act005.htm#031)<span
+5:31](../../../bib/kjv/act005.htm#031.md)<span
 id="iv.iii.iv-p62.3"></span>). Repentance is preached in the name of
 Christ, when men learn, through the doctrines of the Gospel, that all
 their thoughts, affections, and pursuits, are corrupt and vicious; and
@@ -980,7 +980,7 @@ that, therefore, if they would enter the kingdom of God they must be
 born again. Forgiveness of sins is preached when men are taught that
 Christ “is made unto us wisdom, and righteousness, and sanctification,
 and redemption,” (<span id="iv.iii.iv-p62.4"></span>[1 Cor.
-1:30](../../../bib/kjv/co1001.htm#030)<span
+1:30](../../../bib/kjv/co1001.htm#030.md)<span
 id="iv.iii.iv-p62.4"></span>), that on his account they are freely
 deemed righteous and innocent in the sight of God. Though both graces
 are obtained by faith (as has been shown elsewhere), yet as the goodness
@@ -1005,7 +1005,7 @@ found, call ye upon him while he is near. Let the wicked forsake his
 way, and the unrighteous man his thoughts, and let him return unto the
 Lord, and he will have mercy upon him.” “Repent ye, therefore, and be
 converted, that your sins may be blotted out.”32  <span
-id="fr_314"></span>[315](#fn_314) Here, however, it is to be observed,
+id="fr_314"></span>[315](#fn_314.md) Here, however, it is to be observed,
 that repentance is not made a condition in such a sense as to be a
 foundation for meriting pardon; nay, it rather indicates the end at
 which they must aim if they would obtain favor, God having resolved to
@@ -1013,7 +1013,7 @@ take pity on men for the express purpose of leading them to repent.
 Therefore, so long as we dwell in the prison of the body, we must
 constantly struggle with the vices of our corrupt nature, and so with
 our natural disposition. Plato sometimes says,32  <span
-id="fr_315"></span>[316](#fn_315) that the life of the philosopher is to
+id="fr_315"></span>[316](#fn_315.md) that the life of the philosopher is to
 meditate on death. More truly may we say, that the life of a Christian
 man is constant study and exercise in mortifying the flesh, until it is
 certainly slain, and the Spirit of God obtains dominion in us.
@@ -1030,17 +1030,17 @@ truth.
 <span id="iv.iii.iv-p66"></span>21. Moreover, that repentance is a
 special gift of God, I trust is too well understood from the above
 doctrine to require any lengthened discourse. Hence the Church32  <span
-id="fr_316"></span>[317](#fn_316) extols the goodness of God, and looks
+id="fr_316"></span>[317](#fn_316.md) extols the goodness of God, and looks
 on in wonder, saying, “Then has God also to the Gentiles granted
 repentance unto life,” (<span id="iv.iii.iv-p67.1"></span>[Acts
-11:18](../../../bib/kjv/act011.htm#018)<span
+11:18](../../../bib/kjv/act011.htm#018.md)<span
 id="iv.iii.iv-p67.1"></span>); and Paul enjoining Timothy to deal meekly
 and patiently with unbelievers, says, “If God per adventure will give
 them repentance to the acknowledging of the truth, and that they may
 recover themselves out of the snare of the devil,” (<span
 id="iv.iii.iv-p67.2"></span>[2 Tim.
-2:25](../../../bib/kjv/ti2002.htm#025),
-[26](../../../bib/kjv/ti2002.htm#026)<span
+2:25](../../../bib/kjv/ti2002.htm#025.md),
+[26](../../../bib/kjv/ti2002.htm#026.md)<span
 id="iv.iii.iv-p67.2"></span>). God indeed declares, that he would have
 all men to repent, and addresses exhortations in common to all; their
 efficacy, however, depends on the Spirit of regeneration. It were easier
@@ -1049,8 +1049,8 @@ excellent nature. Wherefore, in regard to the whole process of
 regeneration, it is not without cause we are called God’s “workmanship,
 created in Christ Jesus unto good works, which God has before ordained
 that we should walk in them,” (<span id="iv.iii.iv-p67.3"></span>[Eph.
-2:10](../../../bib/kjv/eph002.htm#010)<span
-id="iv.iii.iv-p67.3"></span>)32  <span id="fr_317"></span>[318](#fn_317)
+2:10](../../../bib/kjv/eph002.htm#010.md)<span
+id="iv.iii.iv-p67.3"></span>)32  <span id="fr_317"></span>[318](#fn_317.md)
 Those whom God is pleased to rescue from death, he quickens by the
 Spirit of regeneration; not that repentance is properly the cause of
 salvation, but because, as already seen, it is inseparable from the
@@ -1063,7 +1063,7 @@ of God, they set down the supernatural hardening of the heart as a sign
 of reprobation. The Apostle, also, intending to exclude apostates from
 the hope of salvation, states, as the reason, that it is impossible to
 renew them to repentance (<span id="iv.iii.iv-p68.1"></span>[Heb.
-6:6](../../../bib/kjv/heb006.htm#006)<span
+6:6](../../../bib/kjv/heb006.htm#006.md)<span
 id="iv.iii.iv-p68.1"></span>); that is, God by renewing those whom he
 wills not to perish, gives them a sign of paternal favor, and in a
 manner attracts them to himself, by the beams of a calm and reconciled
@@ -1071,7 +1071,7 @@ countenance; on the other hand, by hardening the reprobate, whose
 impiety is not to be forgiven, he thunders against them. This kind of
 vengeance the Apostle denounces against voluntary apostates (<span
 id="iv.iii.iv-p68.2"></span>[Heb.
-10:29](../../../bib/kjv/heb010.htm#029)<span
+10:29](../../../bib/kjv/heb010.htm#029.md)<span
 id="iv.iii.iv-p68.2"></span>), who, in falling away from the faith of
 the gospel, mock God, insultingly reject his favor, profane and trample
 under foot the blood of Christ, nay, as far as in them lies, crucify him
@@ -1086,13 +1086,13 @@ of God, and the powers of the world to come, if they shall fall away to
 renew them again to repentance, seeing they crucify the Son of God
 afresh, and put him to an open shame,” (<span
 id="iv.iii.iv-p68.3"></span>[Heb.
-7:4-6](../../../bib/kjv/heb007.htm#004)<span
+7:4-6](../../../bib/kjv/heb007.htm#004.md)<span
 id="iv.iii.iv-p68.3"></span>). And in another passage, “If we sin
 willingly, after that we have received the knowledge of the truth, there
 remaineth no more sacrifice for sins, but a certain fearful looking for
 of judgment,” &c. (<span id="iv.iii.iv-p68.4"></span>[Heb.
-11:25](../../../bib/kjv/heb011.htm#025),
-[26](../../../bib/kjv/heb011.htm#026)<span
+11:25](../../../bib/kjv/heb011.htm#025.md),
+[26](../../../bib/kjv/heb011.htm#026.md)<span
 id="iv.iii.iv-p68.4"></span>). There are other passages, from a
 misinterpretation of which the Novatians of old extracted materials for
 their heresy; so much so, that some good men taking offense at their
@@ -1104,9 +1104,9 @@ of necessity agree with his Master, who declares, that “all manner of
 sin and blasphemy shall be forgiven unto men, but the blasphemy against
 the Holy Ghost shall not be forgiven unto men,” “neither in this world,
 neither in the world to come,” (<span id="iv.iii.iv-p68.5"></span>[Mt.
-12:31](../../../bib/kjv/mat012.htm#031)<span
+12:31](../../../bib/kjv/mat012.htm#031.md)<span
 id="iv.iii.iv-p68.5"></span>; <span id="iv.iii.iv-p68.6"></span>[Luke
-12:10](../../../bib/kjv/luk012.htm#010)<span
+12:10](../../../bib/kjv/luk012.htm#010.md)<span
 id="iv.iii.iv-p68.6"></span>). We must hold that this was the only
 exception which the Apostle recognized, unless we would set him in
 opposition to the grace of God. Hence it follows, that to no sin is
@@ -1117,7 +1117,7 @@ possessed by the devil.
 <span id="iv.iii.iv-p69"></span>22. Here, however, it is proper to
 consider what the dreadful iniquity is which is not to be pardoned. The
 definition which Augustine somewhere gives32  <span
-id="fr_318"></span>[319](#fn_318) —viz. that it is obstinate
+id="fr_318"></span>[319](#fn_318.md) —viz. that it is obstinate
 perverseness, with distrust of pardon, continued till death,—scarcely
 agrees with the words of Christ, that it shall not be forgiven in this
 world. For either this is said in vain, or it may be committed in this
@@ -1134,9 +1134,9 @@ explanation of what he had said, immediately adds, “Whosoever speaketh a
 word against the Son of man, it shall be forgiven him; but whosoever
 speaketh against the holy Ghost, it shall not be forgiven him,” (<span
 id="iv.iii.iv-p70.1"></span>[Mt.
-12:31](../../../bib/kjv/mat012.htm#031)<span
+12:31](../../../bib/kjv/mat012.htm#031.md)<span
 id="iv.iii.iv-p70.1"></span>). And Matthew uses the term spirit of
-blasphemy32  <span id="fr_319"></span>[320](#fn_319) for blasphemy
+blasphemy32  <span id="fr_319"></span>[320](#fn_319.md) for blasphemy
 against the Spirit. How can any one insult the Son, without at the same
 time attacking the Spirit? In this way. Those who in ignorance assail
 the unknown truth of God, and yet are so disposed that they would be
@@ -1152,7 +1152,7 @@ inasmuch as they struggle against the illumination which is the work of
 the Spirit. Such were some of the Jews, who, when they could not resist
 the Spirit speaking by Stephen, yet were bent on resisting (<span
 id="iv.iii.iv-p71.1"></span>[Acts
-6:10](../../../bib/kjv/act006.htm#010)<span
+6:10](../../../bib/kjv/act006.htm#010.md)<span
 id="iv.iii.iv-p71.1"></span>). There can be no doubt that many of them
 were carried away by zeal for the law; but it appears that there were
 others who maliciously and impiously raged against God himself, that is,
@@ -1160,13 +1160,13 @@ against the doctrine which they knew to be of God. Such, too, were the
 Pharisees, on whom our Lord denounced woe. To depreciate the power of
 the Holy Spirit, they defamed him by the name of Beelzebub (<span
 id="iv.iii.iv-p71.2"></span>[Matt.
-9:3](../../../bib/kjv/mat009.htm#003),
-[4](../../../bib/kjv/mat009.htm#004)<span id="iv.iii.iv-p71.2"></span>;
+9:3](../../../bib/kjv/mat009.htm#003.md),
+[4](../../../bib/kjv/mat009.htm#004.md)<span id="iv.iii.iv-p71.2"></span>;
 12:24). The spirit of blasphemy, therefore, is, when a man audaciously,
 and of set purpose, rushes forth to insult his divine name. This Paul
 intimates when he says, “but I obtained mercy, because I did it
 ignorantly in unbelief;” otherwise he had deservedly been held unworthy
-of the grace of God.32  <span id="fr_320"></span>[321](#fn_320) If
+of the grace of God.32  <span id="fr_320"></span>[321](#fn_320.md) If
 ignorance joined with unbelief made him obtain pardon, it follows, that
 there is no room for pardon when knowledge is added to unbelief.
 
@@ -1176,7 +1176,7 @@ of the universal revolt by which the reprobate renounce salvation. It is
 not strange that God should be implacable to those whom John, in his
 Epistle, declares not to have been of the elect, from whom they went out
 (<span id="iv.iii.iv-p73.1"></span>[1 John
-2:19](../../../bib/kjv/jo1002.htm#019)<span
+2:19](../../../bib/kjv/jo1002.htm#019.md)<span
 id="iv.iii.iv-p73.1"></span>). For he is directing his discourse against
 those who imagined that they could return to the Christian religion
 though they had once revolted from it. To divest them of this false and
@@ -1231,8 +1231,8 @@ for otherwise God would be inconsistent with himself when he proclaims
 through the Prophet, that “If the wicked will turn from all his sins
 that he has committed,”—“he shall surely live, he shall not die,” (<span
 id="iv.iii.iv-p74.1"></span>[Ezek.
-18:21](../../../bib/kjv/eze018.htm#021),
-[22](../../../bib/kjv/eze018.htm#022)<span
+18:21](../../../bib/kjv/eze018.htm#021.md),
+[22](../../../bib/kjv/eze018.htm#022.md)<span
 id="iv.iii.iv-p74.1"></span>). And (as I have already said) it is
 certain that the mind of man cannot be changed for the better unless by
 his preventing grace. The promise as to those who call upon him will
@@ -1245,8 +1245,8 @@ calamities, and yet shun to approach him.
 is not appeased by feigned repentance, it is asked how Ahab obtained
 pardon, and averted the punishment denounced against him (<span
 id="iv.iii.iv-p75.1"></span>[1 Kings
-21:28](../../../bib/kjv/kg1021.htm#028),
-[29](../../../bib/kjv/kg1021.htm#029)<span
+21:28](../../../bib/kjv/kg1021.htm#028.md),
+[29](../../../bib/kjv/kg1021.htm#029.md)<span
 id="iv.iii.iv-p75.1"></span>), seeing, it appears, he was only amazed on
 the sudden, and afterwards continued his former course of life. He,
 indeed, clothed himself in sackcloth, covered himself with ashes, lay on
@@ -1261,8 +1261,8 @@ punishment except that he did not suffer it alive on the earth? The
 curse of God, though concealed, was fixed on his house, and he himself
 went to eternal destruction. We may see the same thing in Esau (<span
 id="iv.iii.iv-p75.2"></span>[Gen.
-27:38](../../../bib/kjv/gen027.htm#038),
-[39](../../../bib/kjv/gen027.htm#039)<span
+27:38](../../../bib/kjv/gen027.htm#038.md),
+[39](../../../bib/kjv/gen027.htm#039.md)<span
 id="iv.iii.iv-p75.2"></span>). For though he met with a refusal, a
 temporal blessing was granted to his tears. But as, according to the
 declaration of God, the spiritual inheritance could be possessed only by
@@ -1283,8 +1283,8 @@ his hand to deliver the Israelites from their calamities, though their
 cries were pretended, and their minds double and perfidious, as he
 himself complains in the Psalms, that they immediately returned to their
 former course (<span id="iv.iii.iv-p75.3"></span>[Ps.
-78:36](../../../bib/kjv/psa078.htm#036),
-[37](../../../bib/kjv/psa078.htm#037)<span
+78:36](../../../bib/kjv/psa078.htm#036.md),
+[37](../../../bib/kjv/psa078.htm#037.md)<span
 id="iv.iii.iv-p75.3"></span>). But he designed thus by kindness and
 forbearance to bring them to true repentance, or leave them without
 excuse. And yet by remitting the punishment for a time, he does not lay
@@ -1299,7 +1299,7 @@ those who petulantly kick against the pricks be more severely condemned.
 
 ### Footnotes
 
-<span id="fn_299"></span>[300](inst056.htm#fr_299) <span
+<span id="fn_299"></span>[300](inst056.htm#fr_299.md) <span
 id="iv.iii.iv-p29.1"></span>
 
 <span id="iv.iii.iv-p30"></span>06 306 The French adds in explanation,
@@ -1309,7 +1309,7 @@ bonnes œuvres, et toutesfois que nous soyons reputés justes sans bonnes
 consistent—viz. that we are not without good works, and yet that we are
 accounted righteous without works.
 
-<span id="fn_300"></span>[301](inst056.htm#fr_300) <span
+<span id="fn_300"></span>[301](inst056.htm#fr_300.md) <span
 id="iv.iii.iv-p31.6"></span>
 
 <span id="iv.iii.iv-p32"></span>07 307 Latin, “Initialis timor,” which
@@ -1318,116 +1318,116 @@ voit aux petits enfans, qui ne sont point gouvernés par arison;”—And it
 is a fear such as we see in little children, who are not governed by
 reason.
 
-<span id="fn_301"></span>[302](inst056.htm#fr_301) <span
+<span id="fn_301"></span>[302](inst056.htm#fr_301.md) <span
 id="iv.iii.iv-p34.1"></span>
 
 <span id="iv.iii.iv-p35"></span>08 308 <span
 id="iv.iii.iv-p35.1"></span>[Gen.
-4:13](../../../bib/kjv/gen004.htm#013)<span
+4:13](../../../bib/kjv/gen004.htm#013.md)<span
 id="iv.iii.iv-p35.1"></span>; <span id="iv.iii.iv-p35.2"></span>[1 Sam.
-15:30](../../../bib/kjv/sa1015.htm#030)<span
+15:30](../../../bib/kjv/sa1015.htm#030.md)<span
 id="iv.iii.iv-p35.2"></span>; <span id="iv.iii.iv-p35.3"></span>[Matt.
-27:3](../../../bib/kjv/mat027.htm#003),
-[4](../../../bib/kjv/mat027.htm#004)<span id="iv.iii.iv-p35.3"></span>.
+27:3](../../../bib/kjv/mat027.htm#003.md),
+[4](../../../bib/kjv/mat027.htm#004.md)<span id="iv.iii.iv-p35.3"></span>.
 
-<span id="fn_302"></span>[303](inst056.htm#fr_302) <span
+<span id="fn_302"></span>[303](inst056.htm#fr_302.md) <span
 id="iv.iii.iv-p35.4"></span>
 
 <span id="iv.iii.iv-p36"></span>09 309 <span
 id="iv.iii.iv-p36.1"></span>[2 Kings
-20:2](../../../bib/kjv/kg2020.htm#002)<span
+20:2](../../../bib/kjv/kg2020.htm#002.md)<span
 id="iv.iii.iv-p36.1"></span>; <span id="iv.iii.iv-p36.2"></span>[Isa.
-37:2](../../../bib/kjv/isa037.htm#002)<span
+37:2](../../../bib/kjv/isa037.htm#002.md)<span
 id="iv.iii.iv-p36.2"></span>; <span id="iv.iii.iv-p36.3"></span>[Jonah
-3:5](../../../bib/kjv/jon003.htm#005)<span id="iv.iii.iv-p36.3"></span>;
+3:5](../../../bib/kjv/jon003.htm#005.md)<span id="iv.iii.iv-p36.3"></span>;
 <span id="iv.iii.iv-p36.4"></span>[2 Sam.
-24:10](../../../bib/kjv/sa2024.htm#010)<span
+24:10](../../../bib/kjv/sa2024.htm#010.md)<span
 id="iv.iii.iv-p36.4"></span>; 12:13, 16; <span
 id="iv.iii.iv-p36.5"></span>[Acts
-2:37](../../../bib/kjv/act002.htm#037)<span
+2:37](../../../bib/kjv/act002.htm#037.md)<span
 id="iv.iii.iv-p36.5"></span>; <span id="iv.iii.iv-p36.6"></span>[Mt.
-26:75](../../../bib/kjv/mat026.htm#075)<span
+26:75](../../../bib/kjv/mat026.htm#075.md)<span
 id="iv.iii.iv-p36.6"></span>; <span id="iv.iii.iv-p36.7"></span>[Luke
-22:62](../../../bib/kjv/luk022.htm#062)<span
+22:62](../../../bib/kjv/luk022.htm#062.md)<span
 id="iv.iii.iv-p36.7"></span>
 
-<span id="fn_303"></span>[304](inst056.htm#fr_303) <span
+<span id="fn_303"></span>[304](inst056.htm#fr_303.md) <span
 id="iv.iii.iv-p37.2"></span>
 
 <span id="iv.iii.iv-p38"></span>10 310 <span
 id="iv.iii.iv-p38.1"></span>[Mt
-3:2](../../../bib/kjv/mat003.htm#002)<span id="iv.iii.iv-p38.1"></span>;
+3:2](../../../bib/kjv/mat003.htm#002.md)<span id="iv.iii.iv-p38.1"></span>;
 <span id="iv.iii.iv-p38.2"></span>[1 Sam.
-7:8](../../../bib/kjv/sa1007.htm#008)<span id="iv.iii.iv-p38.2"></span>;
+7:8](../../../bib/kjv/sa1007.htm#008.md)<span id="iv.iii.iv-p38.2"></span>;
 <span id="iv.iii.iv-p38.3"></span>[Luke
-3:8](../../../bib/kjv/luk003.htm#008)<span id="iv.iii.iv-p38.3"></span>;
+3:8](../../../bib/kjv/luk003.htm#008.md)<span id="iv.iii.iv-p38.3"></span>;
 <span id="iv.iii.iv-p38.4"></span>[Rom.
-6:4](../../../bib/kjv/rom006.htm#004)<span id="iv.iii.iv-p38.4"></span>;
+6:4](../../../bib/kjv/rom006.htm#004.md)<span id="iv.iii.iv-p38.4"></span>;
 <span id="iv.iii.iv-p38.5"></span>[Acts
-26:20](../../../bib/kjv/act026.htm#020)<span
+26:20](../../../bib/kjv/act026.htm#020.md)<span
 id="iv.iii.iv-p38.5"></span>.
 
-<span id="fn_304"></span>[305](inst056.htm#fr_304) <span
+<span id="fn_304"></span>[305](inst056.htm#fr_304.md) <span
 id="iv.iii.iv-p42.2"></span>
 
 <span id="iv.iii.iv-p43"></span>11 311 French, “une regeneration
 spirituelle;”—a spiritual regeneration.
 
-<span id="fn_305"></span>[306](inst056.htm#fr_305) <span
+<span id="fn_305"></span>[306](inst056.htm#fr_305.md) <span
 id="iv.iii.iv-p43.1"></span>
 
 <span id="iv.iii.iv-p44"></span>12 312 <span
 id="iv.iii.iv-p44.1"></span>[2 Cor.
-3:18](../../../bib/kjv/co2003.htm#018)<span
+3:18](../../../bib/kjv/co2003.htm#018.md)<span
 id="iv.iii.iv-p44.1"></span>; <span id="iv.iii.iv-p44.2"></span>[Eph.
-4:23](../../../bib/kjv/eph004.htm#023),
-[24](../../../bib/kjv/eph004.htm#024)<span id="iv.iii.iv-p44.2"></span>;
+4:23](../../../bib/kjv/eph004.htm#023.md),
+[24](../../../bib/kjv/eph004.htm#024.md)<span id="iv.iii.iv-p44.2"></span>;
 <span id="iv.iii.iv-p44.3"></span>[Col.
-3:10](../../../bib/kjv/col003.htm#010)<span
+3:10](../../../bib/kjv/col003.htm#010.md)<span
 id="iv.iii.iv-p44.3"></span>; <span id="iv.iii.iv-p44.4"></span>[2 Cor.
-4:16](../../../bib/kjv/co2004.htm#016)<span
+4:16](../../../bib/kjv/co2004.htm#016.md)<span
 id="iv.iii.iv-p44.4"></span>.
 
-<span id="fn_306"></span>[307](inst056.htm#fr_306) <span
+<span id="fn_306"></span>[307](inst056.htm#fr_306.md) <span
 id="iv.iii.iv-p45.1"></span>
 
 <span id="iv.iii.iv-p46"></span>13 313 See August. ad Bonif. Lib. 4 et
 cont. Julianum, Lib. 1 and 2. See also Serm. 6, de Verbis Apost. See
 also Calv. cont. Pighium, and Calv. ad Conc. Trident.
 
-<span id="fn_307"></span>[308](inst056.htm#fr_307) <span
+<span id="fn_307"></span>[308](inst056.htm#fr_307.md) <span
 id="iv.iii.iv-p47.2"></span>
 
 <span id="iv.iii.iv-p48"></span>14 314 Latin, “Reatus.”—the imputation
 of sin.
 
-<span id="fn_308"></span>[309](inst056.htm#fr_308) <span
+<span id="fn_308"></span>[309](inst056.htm#fr_308.md) <span
 id="iv.iii.iv-p51.1"></span>
 
 <span id="iv.iii.iv-p52"></span>15 315 See Calvin, adv. Libertinos, cap.
 18.
 
-<span id="fn_309"></span>[310](inst056.htm#fr_309) <span
+<span id="fn_309"></span>[310](inst056.htm#fr_309.md) <span
 id="iv.iii.iv-p55.1"></span>
 
 <span id="iv.iii.iv-p56"></span>16 316 French, “Circonstances qui
 convenoyent specialement alore;”—circumstances which were then specially
 suitable.
 
-<span id="fn_310"></span>[311](inst056.htm#fr_310) <span
+<span id="fn_310"></span>[311](inst056.htm#fr_310.md) <span
 id="iv.iii.iv-p56.1"></span>
 
 <span id="iv.iii.iv-p57"></span>17 317 French, “Fust la coustume de ce
 temps-la, et ne nous appartienne aujourduhui de rien;”—was the custom of
 that time, and we have nowadays nothing to do with it.
 
-<span id="fn_311"></span>[312](inst056.htm#fr_311) <span
+<span id="fn_311"></span>[312](inst056.htm#fr_311.md) <span
 id="iv.iii.iv-p57.1"></span>
 
 <span id="iv.iii.iv-p58"></span>18 318 The French adds, “Soit de guerre,
 de famine, ou de pestilence;”—whether of war, famine, or pestilence.
 
-<span id="fn_312"></span>[313](inst056.htm#fr_312) <span
+<span id="fn_312"></span>[313](inst056.htm#fr_312.md) <span
 id="iv.iii.iv-p58.1"></span>
 
 <span id="iv.iii.iv-p59"></span>19 319 Latin, “Calamitosis temporibus
@@ -1437,34 +1437,34 @@ neantmoins requierent pardon de sa clemence;”—is particularly suitable
 to those who acknowledge they have deserved the wrath of God, and yet
 seek pardon of his mercy.
 
-<span id="fn_313"></span>[314](inst056.htm#fr_313) <span
+<span id="fn_313"></span>[314](inst056.htm#fr_313.md) <span
 id="iv.iii.iv-p61.4"></span>
 
 <span id="iv.iii.iv-p62"></span>20 320 The French adds, “pource qu’il
 lui est propre, et comme naturel, de sauver ce que est perdu;”—because
 it is proper, and as it were natural to him to save that which is lost
 
-<span id="fn_314"></span>[315](inst056.htm#fr_314) <span
+<span id="fn_314"></span>[315](inst056.htm#fr_314.md) <span
 id="iv.iii.iv-p63.1"></span>
 
 <span id="iv.iii.iv-p64"></span>21 321 Isiah 56:1; 59:20; 55:6, 7; <span
 id="iv.iii.iv-p64.1"></span>[Acts
-2:38](../../../bib/kjv/act002.htm#038)<span
+2:38](../../../bib/kjv/act002.htm#038.md)<span
 id="iv.iii.iv-p64.1"></span>; 3:19.
 
-<span id="fn_315"></span>[316](inst056.htm#fr_315) <span
+<span id="fn_315"></span>[316](inst056.htm#fr_315.md) <span
 id="iv.iii.iv-p64.2"></span>
 
 <span id="iv.iii.iv-p65"></span>22 322 This is to be found in different
 passages of his work, and often in the Phaido.
 
-<span id="fn_316"></span>[317](inst056.htm#fr_316) <span
+<span id="fn_316"></span>[317](inst056.htm#fr_316.md) <span
 id="iv.iii.iv-p66.1"></span>
 
 <span id="iv.iii.iv-p67"></span>23 323 French, “L’Eglise primitive du
 temps des Apostres;”—the primitive Church of the Apostles’ time.
 
-<span id="fn_317"></span>[318](inst056.htm#fr_317) <span
+<span id="fn_317"></span>[318](inst056.htm#fr_317.md) <span
 id="iv.iii.iv-p67.4"></span>
 
 <span id="iv.iii.iv-p68"></span>24 324 The French adds, “Et ce non
@@ -1472,20 +1472,20 @@ seulement au regard d’un jour. mais de tout le cours de notre
 vocation;”—and this in regard not only to a single day, but to the whole
 course of our vocation.
 
-<span id="fn_318"></span>[319](inst056.htm#fr_318) <span
+<span id="fn_318"></span>[319](inst056.htm#fr_318.md) <span
 id="iv.iii.iv-p69.1"></span>
 
 <span id="iv.iii.iv-p70"></span>25 325 August. Lib. de Correp. et
 Gratia, cap. 12
 
-<span id="fn_319"></span>[320](inst056.htm#fr_319) <span
+<span id="fn_319"></span>[320](inst056.htm#fr_319.md) <span
 id="iv.iii.iv-p70.2"></span>
 
 <span id="iv.iii.iv-p71"></span>26 326 The Greek is “του̑ πνεύματος
 βλασφημία” This Calvin translates in Latin, “Spiritum blasphemiæ,”, and
 in French, “Esprit de blaspheme.”
 
-<span id="fn_320"></span>[321](inst056.htm#fr_320) <span
+<span id="fn_320"></span>[321](inst056.htm#fr_320.md) <span
 id="iv.iii.iv-p71.3"></span>
 
 <span id="iv.iii.iv-p72"></span>27 327 The omission of this last clause
@@ -1495,4 +1495,4 @@ in the French seems to be an improvement.
 
 [Next: CHAPTER 4. - PENITENCE, AS EXPLAINED IN THE SOPHISTICAL JARGON OF
 THE SCHOOLMEN, WIDELY DIFFERENT FROM THE PURITY REQUIRED BY THE GOSPEL.
-OF CONFESSION AND SATISFACTION.](inst057)
+OF CONFESSION AND SATISFACTION.](inst057.md)

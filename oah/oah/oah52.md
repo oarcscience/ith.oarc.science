@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah51)  [Next](oah53) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah51)  [Next](oah53.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,4 +204,4 @@ END OF BOOK OF AH'SHONG, SON OF JEHOVIH.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](oah53)
+[Next: Chapter I](oah53.md)

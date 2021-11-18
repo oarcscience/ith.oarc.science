@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo13)  [Next](beo15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo13)  [Next](beo15.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ is of a piece with the general style.
 
 ------------------------------------------------------------------------
 
-[Next: Part XIV](beo15)
+[Next: Part XIV](beo15.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cota08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cota08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Consciousness of the Atom*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -360,7 +360,7 @@ system. But when we endeavour to give it a purely physical application
 we go astray. If we work it out along the lines of the subjective life,
 and connect it with energy, quality, or force, we are liable to stumble
 upon truth, and find out some of the reality which may
-[underlie](errata.htm#4) what appears at first sight to be a senseless
+[underlie](errata.htm#4.md) what appears at first sight to be a senseless
 fable. Anything that widens our horizon, that enables us to take a
 broader vision and a clearer view of what is going on in the
 evolutionary process, is of value to us, not because the accumulation of

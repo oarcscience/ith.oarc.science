@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Next](aa1)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Next](aa1.md)
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@
 
 ------------------------------------------------------------------------
 
-[Next](aa1)
+[Next](aa1.md)

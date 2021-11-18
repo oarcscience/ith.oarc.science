@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](itp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](itp11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ There are certainly some men of amazing virility--great fighters,
 organisers, thinkers--powerful both in muscle and brain--who seem in
 their love-relations to stand to the ordinary man much as the latter
 does to the woman. Prof. Gustav Jaeger <span
-id="fr_104"></span>[1](#fn_104) said, in 1884:--"What struck me most at
+id="fr_104"></span>[1](#fn_104.md) said, in 1884:--"What struck me most at
 first, but now appears to be perfectly explicable and natural, is that
 among the homosexuals are to be found the most remarkable specimens of
 men, namely those that I call *supervirile*. Such men stand by virtue of
@@ -99,7 +99,7 @@ such relations be normal or homosexual.
 The British mind, curiously enough, if the latter are mentioned as
 occurring among men, immediately flies to one only conclusion--the same
 in fact as that indicated by the translators of the Bible in dealing
-with the word "Kedeshim" (*supra*, [p. 29](itp04.htm#page_29)) and the
+with the word "Kedeshim" (*supra*, [p. 29](itp04.htm#page_29).md) and the
 common repugnance to the idea of masculine love in this country is no
 doubt largely due to this view--since no great repugnance seems to be
 felt to the idea of feminine amours. Now it would be absurd and
@@ -200,7 +200,7 @@ kind *Atour-assap*, *i.e.*, the perfect ally ("le parfait allié"). The
 Sieur de Léri (Léri, Hist. du Brésil, ch. xx.) assures us that the
 alliance which is formed between them by this sort of union is so strong
 that all their possessions become absolutely in common,
-[as](errata.htm#2) if they really were but one person; and that the one
+[as](errata.htm#2.md) if they really were but one person; and that the one
 cannot after that marry into the family of the other, within the
 prohibited degrees, any more than if they were blood relations of the
 first degree."
@@ -338,7 +338,7 @@ studied or
 
 ### Footnotes
 
-<span id="fn_104"></span>[162:1](itp12.htm#fr_104) In the third part of
+<span id="fn_104"></span>[162:1](itp12.htm#fr_104.md) In the third part of
 his *Lehrbuch der allgemeinen Zoologie*.
 
 considered, and before pronouncing any opinion it would be wise to wait

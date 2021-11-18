@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb18)  [Next](isb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb18)  [Next](isb20.md) 
 
 ------------------------------------------------------------------------
 
@@ -234,4 +234,4 @@ glass-blower from the whiskey-shop is faintly travelling now.
 
 ------------------------------------------------------------------------
 
-[Next: Westport](isb20)
+[Next: Westport](isb20.md)

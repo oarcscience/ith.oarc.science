@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico032) 
-[Next](nico034) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico032.md) 
+[Next](nico034.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ the right rule prescribes.
 ------------------------------------------------------------------------
 
 [Next: Chapter 12. Self-indulgence more voluntary than cowardice:
-comparison of the self-indulgent man to the spoilt child](nico034)
+comparison of the self-indulgent man to the spoilt child](nico034.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](ama08)  [Next](ama10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](ama08)  [Next](ama10.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,7 +177,7 @@ chief reported that "the
 [![I.--FIGURES FROM CRATES FROM SIR WM. TEMPLE'S COLL. BRITISH MUSEUM.
 COMBAT OF GREEKS AND AMAZONS.&lt;BR&gt; II.--KYLIX. TWO AMAZONS
 CHARGING. BRITISH MUSEUM.](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 I.--FIGURES FROM CRATES FROM SIR WM. TEMPLE'S COLL. BRITISH MUSEUM.
 COMBAT OF GREEKS AND AMAZONS.  
 II.--KYLIX. TWO AMAZONS CHARGING. BRITISH MUSEUM.  
@@ -298,7 +298,7 @@ mysterious squaw, "the only woman who ever loved you. Now
 <span id="page_149">p. 149</span>
 
 you have broken the spell I was under, and I am glad." <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 A variant of this is given by Barboza Rodriguez. He records a legend
 which shows the women as rebels against their husbands, flying to the
@@ -640,7 +640,7 @@ may be relative not only to their
 
 [![HYDRA (PITCHES) COMBAT OF HERCULES WITH AMAZONS. HAMILTON COLL.
 BRITISH MUSEUM.](tn/16100.jpg)  
-Click to enlarge](img/16100.jpg)  
+Click to enlarge](img/16100.jpg.md)  
 HYDRA (PITCHES) COMBAT OF HERCULES WITH AMAZONS. HAMILTON COLL. BRITISH
 MUSEUM.  
 
@@ -730,7 +730,7 @@ ventured to advance on the whole subject.
 
 ### Footnotes
 
-<span id="fn_4"></span>[149:1](ama09.htm#fr_4) A point not noted by the
+<span id="fn_4"></span>[149:1](ama09.htm#fr_4.md) A point not noted by the
 American Orientalists is that Kamas, the Hindu god of love, is often
 shown astride a parrot, and was probably originally a parrot god. In
 Hindu stories the parrot constantly intervenes in amatory matters. It is
@@ -745,4 +745,4 @@ symbolism.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: The Amazon Stones](ama10)
+[Next: Chapter IX: The Amazon Stones](ama10.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ron00)  [Next](ron02) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ron00)  [Next](ron02.md) 
 
 ------------------------------------------------------------------------
 
@@ -157,4 +157,4 @@ Hail, O glorious day!</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Characters](ron02)
+[Next: Characters](ron02.md)

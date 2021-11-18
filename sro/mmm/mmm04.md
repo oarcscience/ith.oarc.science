@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](mmm03)  [Next](mmm05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](mmm03)  [Next](mmm05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Traces of a Hidden Tradition in Masonry and Medieval Mysticism*, by
 Isabel Cooper-Oakley, \[1900\], at Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ broadside:
 Of all the wonderful perversions of Freemasonry which owe their origin
 to the fervid imaginings of our brethren of the last century, none can
 compare in point of interest with the system of the "Strict
-Observance." <span id="fr_70"></span>[\*](#fn_70) . . . The whole system
+Observance." <span id="fr_70"></span>[\*](#fn_70.md) . . . The whole system
 was based upon the fiction that at the time of the destruction of the
 Templars, a certain number of Knights took refuge in Scotland, and there
 preserved the existence of the Order. The sequence of Grand-Masters was
@@ -63,7 +63,7 @@ Superiors."
 
 In order to secure their perfect security these Knights are said to have
 joined the Guilds of Masons in Scotland, and thus to have given rise to
-the Fraternity of Freemasons. <span id="fr_71"></span>[†](#fn_71)
+the Fraternity of Freemasons. <span id="fr_71"></span>[†](#fn_71.md)
 
 The trail of the materialistic serpent is traceable in his valuable
 work, although the author is in advance
@@ -199,7 +199,7 @@ order to acquire the missing documents. They returned,
 
 <span class="small">carrying with them only a patent to him as Master of
 the Seventh Province, written in cypher, and nothing more. <span
-id="fr_72"></span>[\*](#fn_72)</span>
+id="fr_72"></span>[\*](#fn_72.md)</span>
 
 A full account of the working arrangements of the Order is given by the
 writer from whom we summarise, and he tells us these were changed from
@@ -207,7 +207,7 @@ time to time according to the conditions that arose incident upon the
 constant attacks that were being made on this and all other occult
 societies by the group of materialists in Germany, Herr Dr. Biester and
 his colleagues, of whom mention has already been made, <span
-id="fr_73"></span>[†](#fn_73) and there will be necessity to refer to
+id="fr_73"></span>[†](#fn_73.md) and there will be necessity to refer to
 these critics again a little later on. Another interesting sketch of the
 Baron von Hund by Reghellini runs as follows:
 
@@ -236,13 +236,13 @@ Hund placed upon this stone a copper plate on which he had his Masonic
 Ancient Templar Order in the Masonry .·. to which he especially belonged
 (for in order to be received into the Rite of the Clerks of the Strict
 Observance he had even become a Catholic <span
-id="fr_74"></span>[\*](#fn_74))—if we except, as we say, this opinion,
+id="fr_74"></span>[\*](#fn_74).md)—if we except, as we say, this opinion,
 we believe that his principles were altogether philosophical. In the
 doctrines of his *Eques Professus*, the eighth rung which he added to
 the Templar ladder of the Strict Observance, he maintains that these
 Pontiffs are the only Priests of the True Light, the Worshippers of God,
 and the disciples of the pure doctrines of Jesus and of John. <span
-id="fr_75"></span>[†](#fn_75)</span>
+id="fr_75"></span>[†](#fn_75.md)</span>
 
 There are very many details about the work done by Von Hund in his
 efforts to draw the mystic side of Masonry into prominence; details
@@ -302,7 +302,7 @@ to impart their valuable secrets to Von Hund and his disciples. Starck
 (1741-1816), was a student of Göttingen, and a very learned man, an
 Oriental linguist of great attainments, and had held scientific
 appointments in St. Petersburg, Paris, Wismar, and elsewhere. <span
-id="fr_76"></span>[\*](#fn_76)
+id="fr_76"></span>[\*](#fn_76.md)
 
 The author of this work—a standard work on Masonry—regards Starck as a
 charlatan, although he brings no proofs, other than his assertions,
@@ -316,7 +316,7 @@ archæologist Baron
 <span id="page_86">p. 86</span>
 
 <span class="contnote">\[paragraph continues\]</span> Joseph von
-Hammer <span id="fr_77"></span>[\*](#fn_77) demonstrating the connection
+Hammer <span id="fr_77"></span>[\*](#fn_77.md) demonstrating the connection
 between the Masons and the Templars. He traces the Eastern origin of
 both by means of engraved symbols, showing the extraordinary identity
 between those used by the Masons, and those of the Templars, and
@@ -332,14 +332,14 @@ At present we must confine ourselves to the Strict Observance, and so we
 pass on to what Johann Starck says in his own writings on the subject.
 One of his works deals entirely with the accusation brought against the
 Strict Observance and other secret societies, namely that they were
-derived from the Jesuit order. <span id="fr_78"></span>[†](#fn_78)
+derived from the Jesuit order. <span id="fr_78"></span>[†](#fn_78.md)
 
 He was particularly attacked on his belief that the Knights-Templars
 could have continued in existence for four hundred and fifty years,
 unknown to the world at large. To this charge he replied that
 
 <span class="small">If he \[Dr. Biester <span
-id="fr_79"></span>[‡](#fn_79)\] had been somewhat better</span>
+id="fr_79"></span>[‡](#fn_79.md)\] had been somewhat better</span>
 
 <span id="page_87">p. 87</span>
 
@@ -357,7 +357,7 @@ branches, obtained possession and affiliated to itself multitudes both
 male and female amongst the laity all over Europe, it would be a mere
 absurdity to believe that all its traditions were swept away at one
 stroke by the suppression of the Templars in the year 1307. <span
-id="fr_80"></span>[\*](#fn_80)</span>
+id="fr_80"></span>[\*](#fn_80.md)</span>
 
 Thus we find this view supported a century later than the time when
 Starck penned his defence of the tradition. Starck proceeds, moreover,
@@ -393,7 +393,7 @@ the ordinary Freemasons. The study of the Kabala, of the Philosopher's
 Stone, and of Necromancy or the invocation of spirits, occupied them
 chiefly, because according to them all these sciences formed the system
 and the object and end of the ancient mysteries of which Freemasonry is
-the sequel. <span id="fr_81"></span>[\*](#fn_81)</span>
+the sequel. <span id="fr_81"></span>[\*](#fn_81.md)</span>
 
 The studies enumerated in this quotation appear to have been carried on
 chiefly in one of the higher grades of the Strict Observance called
@@ -450,7 +450,7 @@ called:
 
 7\. Eques Professus.
 
-It is also stated by Ragon <span id="fr_82"></span>[\*](#fn_82) that the
+It is also stated by Ragon <span id="fr_82"></span>[\*](#fn_82.md) that the
 largest portion of this society became Martinists, and were known later
 by the name of the "Knights of the Holy Sepulchre." This change was made
 at the convention at Lyons, which took place in 1778. The Duke Ferdinand
@@ -466,21 +466,21 @@ their tradition. Much has been written about them and their history—from
 one aspect—is better known than that of almost any other mystic
 organisation, but the fact of a secret teaching is not sufficiently
 clear. That there was a secret doctrine <span
-id="fr_83"></span>[†](#fn_83)
+id="fr_83"></span>[†](#fn_83.md)
 
 <span id="page_90">p. 90</span>
 
 amongst the Templars is shown by Neaf <span
-id="fr_84"></span>[\*](#fn_84); he points out that the Knights Templars
+id="fr_84"></span>[\*](#fn_84.md); he points out that the Knights Templars
 considered that the Roman Church had failed in its ideal, and that when
 the terrible persecutions fell upon them that they divided and joined
 two different associations, one the body of Freemasons and the other a
 body named the Johannites. Another writer <span
-id="fr_85"></span>[†](#fn_85) points out the connection between the
+id="fr_85"></span>[†](#fn_85.md) points out the connection between the
 Templars and the Bogomiles, who were the Manichæans of the Balkan
 Provinces, and the Gnostics of the early Christian period and their
 descendants, the Cathari of the mediæval ages. Dr. Simrock <span
-id="fr_86"></span>[‡](#fn_86) suggests a deeply interesting idea with
+id="fr_86"></span>[‡](#fn_86.md) suggests a deeply interesting idea with
 regard to the connection between the tradition of the Holy Grail and the
 secret teachings of the Templars; he appears to consider that the Grail
 tradition, which is drawn in some parts from the Apocryphal Gospels, is
@@ -607,7 +607,7 @@ celebrated the foundation of the Knights Templars and the spread of
 their teachings in Europe the following declaration on the matter is
 given:
 
-"Eighty-one Masons <span id="fr_87"></span>[\*](#fn_87) under the
+"Eighty-one Masons <span id="fr_87"></span>[\*](#fn_87.md) under the
 leadership of Garimonts, the Patriarch of Jerusalem, went, in the year
 1150, to Europe and betook themselves to the Bishop of Upsala who
 received them in very friendly fashion and was consequently initiated
@@ -650,7 +650,7 @@ degree, Hiram had had engraved on the foundation stone of Solomon's
 temple. After such a discovery the Scotch Knights took this costly
 memorial with them, and, in order eternally to preserve their esteem for
 it, they employed these as the three corner stones of their first temple
-at Edinburgh." <span id="fr_88"></span>[\*](#fn_88)
+at Edinburgh." <span id="fr_88"></span>[\*](#fn_88.md)
 
 Our author further tells us that:
 
@@ -711,7 +711,7 @@ of the Christians of the East, were obliged, when they had returned to
 Europe, to hold this initiation still more secret, for the mere
 suspicion of such a faith would have been sufficient to bring these new
 religious professors to the rack and the stake. <span
-id="fr_89"></span>[\*](#fn_89)
+id="fr_89"></span>[\*](#fn_89.md)
 
 We will now pass on to some of the religious and philosophic views held
 by the Knights Templars which are summarized from the Abbé Grégoire and
@@ -892,7 +892,7 @@ the faculty of distinguishing good from evil, and consequently which
 would procure the gift of free-will.</span>
 
 Such is a summary of the version given by the Abbé Grégoire <span
-id="fr_90"></span>[\*](#fn_90) of some of the inner philosophy held by
+id="fr_90"></span>[\*](#fn_90.md) of some of the inner philosophy held by
 the Knights Templars. There is a distinctly Eastern tone of thought in
 even these few fragments, fragments which indicate quite clearly to many
 students the sources from which these traditions were drawn.
@@ -904,7 +904,7 @@ when it sought to revive the Traditions of the Templars.
 
 ### Footnotes
 
-<span id="fn_70"></span>[77:\*](mmm04.htm#fr_70) "The mysteries of
+<span id="fn_70"></span>[77:\*](mmm04.htm#fr_70.md) "The mysteries of
 Mithras were solemnized in a consecrated cavern, on December 25th, which
 was the date fixed for the celebration. They began from the moment that
 the priests at midnight saw the constellation of Virgo appear, which on
@@ -916,51 +916,51 @@ in the Strict Observance." Acerrellos (R. S.), *Die Freimaurerei in
 ihrem Zusammenhange mit den Religionen der alten Aegypter, der Juden,
 und der Christen*, I., p. 293. Leipzig, 1836.
 
-<span id="fn_71"></span>[77:†](mmm04.htm#fr_71) Gould (R. F.), *Hist. of
+<span id="fn_71"></span>[77:†](mmm04.htm#fr_71) Gould (R. F..md), *Hist. of
 Freemasonry*. V., p. 99. London, 1886.
 
-<span id="fn_72"></span>[82:\*](mmm04.htm#fr_72) This summary is taken
+<span id="fn_72"></span>[82:\*](mmm04.htm#fr_72.md) This summary is taken
 from an interesting study on the Baron yon Hund, written by a well-known
 Hungarian mason, which appeared in the *Ars Quatuor Coronatorum*,
 "Transactions of the Lodge Quatuor Coronati," No. 2076. VI., part ii.,
 p. 89. Margate, 1893.
 
-<span id="fn_73"></span>[82:†](mmm04.htm#fr_73) *The Theosophical
+<span id="fn_73"></span>[82:†](mmm04.htm#fr_73.md) *The Theosophical
 Review*, xxii. p. 431.
 
-<span id="fn_74"></span>[83:\*](mmm04.htm#fr_74) This is contradicted by
+<span id="fn_74"></span>[83:\*](mmm04.htm#fr_74.md) This is contradicted by
 some authorities.
 
-<span id="fn_75"></span>[83:†](mmm04.htm#fr_75) Reghellini da Schio (Par
+<span id="fn_75"></span>[83:†](mmm04.htm#fr_75.md) Reghellini da Schio (Par
 le F .·. M .·. R .·. da S .·.), *La Maçonnerie considerèe comme le
 Resultat des Religions égyptienne, juive et chrétienne*, II., pp. 374,
 375. Paris, 1833.
 
-<span id="fn_76"></span>[85:\*](mmm04.htm#fr_76) Gould, *Hist. of
+<span id="fn_76"></span>[85:\*](mmm04.htm#fr_76.md) Gould, *Hist. of
 Freemasonry*, V., p. 104. London, 1886.
 
-<span id="fn_77"></span>[86:\*](mmm04.htm#fr_77) *Fundgruben des
+<span id="fn_77"></span>[86:\*](mmm04.htm#fr_77.md) *Fundgruben des
 Orients*, VI., p. 445 (Wien, 1818), "Gegenrede wider die Einrede der
 Vertheidiger der Templer."
 
-<span id="fn_78"></span>[86:†](mmm04.htm#fr_78) See his long
+<span id="fn_78"></span>[86:†](mmm04.htm#fr_78.md) See his long
 dissertation on the subject in *Uber Krypto Katholicismus,
 Proselyten-Macherey, Jesuitismus, Geheime Gesellschaften*, etc.
 Frankfort and Leipzig, 1787.
 
-<span id="fn_79"></span>[86:‡](mmm04.htm#fr_79) Editor of the *Berliner
-Monatschrift*. See above, [p. 13](mmm02.htm#page_13).
+<span id="fn_79"></span>[86:‡](mmm04.htm#fr_79.md) Editor of the *Berliner
+Monatschrift*. See above, [p. 13](mmm02.htm#page_13.md).
 
-<span id="fn_80"></span>[87:\*](mmm04.htm#fr_80) King (C.W.), *The
+<span id="fn_80"></span>[87:\*](mmm04.htm#fr_80) King (C.W..md), *The
 Gnostics and their Remains, Ancient and Mediæval*, p. 399, 2nd ed.
 London, 1887.
 
-<span id="fn_81"></span>[88:\*](mmm04.htm#fr_81) Ragon (J. M.),
+<span id="fn_81"></span>[88:\*](mmm04.htm#fr_81) Ragon (J. M..md),
 *Orthodoxie Maçonnique*, p. 210. Paris, 1853.
 
-<span id="fn_82"></span>[89:\*](mmm04.htm#fr_82) *Op. cit.*, p. 230.
+<span id="fn_82"></span>[89:\*](mmm04.htm#fr_82.md) *Op. cit.*, p. 230.
 
-<span id="fn_83"></span>[89:†](mmm04.htm#fr_83) If these facts already
+<span id="fn_83"></span>[89:†](mmm04.htm#fr_83.md) If these facts already
 point to the existence of secret statutes in the Order of the Knights
 Templars, this will also be proved by a number of other notes and
 finally substantiated by some quite positive statements which are most
@@ -978,36 +978,36 @@ was very mysterious and which he "would not show anyone for all the
 world." Prutz (Hans Dr.), *Gehemelehre des Templherren Ordens*, p. 45.
 Berlin, 1879.
 
-<span id="fn_84"></span>[90:\*](mmm04.htm#fr_84) Naef (F.), *Recherches
+<span id="fn_84"></span>[90:\*](mmm04.htm#fr_84) Naef (F..md), *Recherches
 sur les Opinions religieuses des Templiers*, pp. 25 to 41. Nismes, 1890.
 
-<span id="fn_85"></span>[90:†](mmm04.htm#fr_85) Loiseleur (Jules), *La
+<span id="fn_85"></span>[90:†](mmm04.htm#fr_85) Loiseleur (Jules.md), *La
 Doctrine Secrète des Templiers*, pp. 35, 48. Paris, 1872.
 
-<span id="fn_86"></span>[90:‡](mmm04.htm#fr_86) Simrock (Dr. K.),
+<span id="fn_86"></span>[90:‡](mmm04.htm#fr_86) Simrock (Dr. K..md),
 *Parzifal u. Titurel, Rittergedichte von Wolfram von Eschenbach*, I.,
 497. Stuttgart und Tübingen, 1842.
 
-<span id="fn_87"></span>[94:\*](mmm04.htm#fr_87) "These Masons are
+<span id="fn_87"></span>[94:\*](mmm04.htm#fr_87.md) "These Masons are
 always in the figurative sense Knights of the Cross who had been
 admitted to the mysteries of the working in the mystic Temple, and to
 the religion of the Children of the Widow."
 
-<span id="fn_88"></span>[95:\*](mmm04.htm#fr_88) The legend of these
+<span id="fn_88"></span>[95:\*](mmm04.htm#fr_88.md) The legend of these
 three stones has a striking resemblance to that of the three mysterious
 stones which the Nymphs found and brought to Minerva—the Goddess of
 Wisdom.
 
-<span id="fn_89"></span>[97:\*](mmm04.htm#fr_89) Accerrelos (Roessler,
+<span id="fn_89"></span>[97:\*](mmm04.htm#fr_89.md) Accerrelos (Roessler,
 Dr. Karl), *History of Freemasonry*, Leipzig, 1836. II., p. 85 *et seq*.
 
-<span id="fn_90"></span>[102:\*](mmm04.htm#fr_90) Grégoire (Abbé),
+<span id="fn_90"></span>[102:\*](mmm04.htm#fr_90) Grégoire (Abbé.md),
 *Histoire des Sectes Religieuses*, II., pp. 292 *et seq*. Paris, 1828.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Troubadours, the Singing Messengers from East to West](mmm05)
+[Next: The Troubadours, the Singing Messengers from East to West](mmm05.md)
 
 </div>

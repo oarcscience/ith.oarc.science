@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK XXI CHAPTER V
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK XXI](book20) 
-[Previous](mart493)  [Next](mart495) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK XXI](book20.md) 
+[Previous](mart493)  [Next](mart495.md) </span>
 
 ------------------------------------------------------------------------
 

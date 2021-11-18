@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda14)  [Next](nda16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda14)  [Next](nda16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -65,7 +65,7 @@ successful: in fact, so cutting were these sallies, and of so much
 weight among a people peculiarly under the influence of public opinion,
 that they often became the causes of bloodshed, and were looked upon as
 a ground of complaint before the Courts. <span
-id="fr_9"></span>[1](#fn_9) For the most part, however, the songs were
+id="fr_9"></span>[1](#fn_9.md) For the most part, however, the songs were
 of an historical character; sometimes the Skald sang of his own
 exploits, sometimes of those of his friends, who upon such occasions
 were accustomed to present him with costly gifts: After the Norwegian
@@ -97,7 +97,7 @@ attractive was the Heste-thing, where stallions were made to fight
 against each other, to the great amusement of both old and young. To
 these reunions must be added those caused by attendance at the different
 courts, and particularly at the Althing <span
-id="fr_10"></span>[1](#fn_10) or general Assizes, where all the first
+id="fr_10"></span>[1](#fn_10.md) or general Assizes, where all the first
 men of the island met annually, with great pomp and parade. It was
 looked upon as a disgrace to be absent from this meeting, which was held
 in the open air on the banks of the Thingvalla Vatn, the largest lake in
@@ -118,7 +118,7 @@ circumstances of his chief, to which cause may be more immediately
 attributed the interest which he took in all new Sagas or narratives of
 remarkable individuals.
 
-In the Laxdæla Saga <span id="fr_11"></span>[1](#fn_11) it is related
+In the Laxdæla Saga <span id="fr_11"></span>[1](#fn_11.md) it is related
 that, after a brave Icelander, named Bolle Bolleson, had gallantly
 defeated an assailant, by whom he had been attacked in the course of a
 journey through the island, his exploit became the subject of a new
@@ -223,7 +223,7 @@ acquainted with ail that was passing there. How much this intercourse
 tended to the increase of historical material is shown by an old MS. of
 St. Olafs Saga, wherein is stated that:--"In the time of Harald
 Haarfager there was much sailing from Norway to Iceland; every summer
-was news [communicated](errata.htm#6) between the two countries, and
+was news [communicated](errata.htm#6.md) between the two countries, and
 this was afterwards remembered, and became the subject of narratives."
 
 The Icelanders not only received intelligence from Norway, but brought
@@ -236,7 +236,7 @@ could bring them. The chief considered that his reputation
 
 <span id="img_16900"></span> <span align="CENTER"> [![FRONT VIEW OF THE
 OLD ICELANDIC SKÁLI OR HALL](tn/16900.jpg)  
-Click to enlarge](img/16900.jpg)  
+Click to enlarge](img/16900.jpg.md)  
 FRONT VIEW OF THE OLD ICELANDIC SKÁLI OR HALL  
 </span>
 
@@ -259,7 +259,7 @@ The cheerful faggot on the straw-strewn floor
 Unceasing blazed, gladdening its stony hearth,  
 While downwards through the dense smoke shot the stars,  
 Those heavenly friends, upon the guests below. <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 The adventurous stripling, on the other hand, sailed to Norway for the
 purpose of there engaging in a sea-roving expedition, or seeking
@@ -313,7 +313,7 @@ in the Arne-Magnæan
 
 <span id="img_17100"></span> <span align="CENTER"> [![GROUND PLAN OF THE
 INTERIOR OF THE OLD ICELANDIC SKÁLI OR HALL](tn/17100.jpg)  
-Click to enlarge](img/17100.jpg)  
+Click to enlarge](img/17100.jpg.md)  
 GROUND PLAN OF THE INTERIOR OF THE OLD ICELANDIC SKÁLI OR HALL  
 </span>
 
@@ -321,7 +321,7 @@ GROUND PLAN OF THE INTERIOR OF THE OLD ICELANDIC SKÁLI OR HALL
 
 <span id="page_171">p. 171</span>
 
-collection of Icelandic MSS.; <span id="fr_13"></span>[1](#fn_13) a
+collection of Icelandic MSS.; <span id="fr_13"></span>[1](#fn_13.md) a
 certain Sagaman, called Thorstein, repaired to King Harald of Norway.
 The Brig asked him "whether he knew anything that would amuse." He
 replied that he knew a few sagas. "I will receive thee," said the king,
@@ -329,7 +329,7 @@ replied that he knew a few sagas. "I will receive thee," said the king,
 favoured by the courtiers, and obtained clothes from them; the king also
 gave him a good sword.
 
-Towards Yule <span id="fr_14"></span>[2](#fn_14) he became sorrowful;
+Towards Yule <span id="fr_14"></span>[2](#fn_14.md) he became sorrowful;
 the king guessed the cause, namely, that his Sagas were at an end, and
 that he had nothing for Yule. He answered that so it was; he had one
 remaining, and that he durst not tell, for it was about the king's
@@ -416,7 +416,7 @@ security for the truth of the Saga.
 
 ### Footnotes
 
-<span id="fn_9"></span>[163:1](nda15.htm#fr_9) "As an instance of the
+<span id="fn_9"></span>[163:1](nda15.htm#fr_9.md) "As an instance of the
 effect produced by these satirical songs, it is related that Harold
 Blaatand, King of Denmark, was so incensed at some severe lines which
 the Icelanders had made upon him for seizing one of their ships, that he
@@ -424,20 +424,20 @@ sent a fleet to ravage the island, which occurrence led them to make a
 law subjecting any one to capital punishment who should indulge in
 satire against the Sovereigns of Norway, Sweden and Denmark!"
 
-<span id="fn_10"></span>[164:1](nda15.htm#fr_10) Ting or Thing signifies
+<span id="fn_10"></span>[164:1](nda15.htm#fr_10.md) Ting or Thing signifies
 in the old Scandinavian tongue *to speak*, and hence a popular assembly,
 or court of justice. The national assembly of Norway still retains the
 name of Stor-thing, or great meeting, and is divided into two chambers
 called the Lag-thing, and Odels-thing.
 
-<span id="fn_11"></span>[165:1](nda15.htm#fr_11) The annals of a
+<span id="fn_11"></span>[165:1](nda15.htm#fr_11.md) The annals of a
 particular family, as the Eyrbiggia Saga is of a particular district in
 Iceland. The former has been translated into Latin by Mr. Repp, and Sir
 Waiter Scott has given a brief account of the other.
 
-<span id="fn_12"></span>[169:1](nda15.htm#fr_12) Frithiof's Saga.
+<span id="fn_12"></span>[169:1](nda15.htm#fr_12.md) Frithiof's Saga.
 
-<span id="fn_13"></span>[171:1](nda15.htm#fr_13) Arne Magnussen, a
+<span id="fn_13"></span>[171:1](nda15.htm#fr_13.md) Arne Magnussen, a
 learned Icelander and ardent patriot, devoted his time, talents, and
 fortune to the national literature of his country. Filling the situation
 of Professor of Northern Antiquaries at the University of Copenhagen, in
@@ -458,7 +458,7 @@ and all the most important MSS, have been given to the public by this
 society. The collection is called the Arne-Magnæan collection, and is
 preserved in the University Library of Copenhagen.
 
-<span id="fn_14"></span>[171:2](nda15.htm#fr_14) Yule was a pagan
+<span id="fn_14"></span>[171:2](nda15.htm#fr_14.md) Yule was a pagan
 festival, celebrated in honor of Thor, at the beginning of February,
 when the Northmen's year commenced, and they offered sacrifices for
 peace and fruitful seasons to this deity, who presided over the air,
@@ -478,4 +478,4 @@ then pouring forth their predatory swarms over Europe."
 
 ------------------------------------------------------------------------
 
-[Next: Third Period](nda16)
+[Next: Third Period](nda16.md)

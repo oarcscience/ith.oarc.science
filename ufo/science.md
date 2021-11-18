@@ -277,4 +277,4 @@ the phenomenon entirely control us... if such it is. Quo vadis, ufology?
 
 ------------------------------------------------------------------------
 
-[Next: The Drake Equation](seti-e)
+[Next: The Drake Equation](seti-e.md)

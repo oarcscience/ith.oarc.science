@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp52) 
-[Next](alp54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp52.md) 
+[Next](alp54.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ Thine evil fate he bears for thee, my love.
 
 ------------------------------------------------------------------------
 
-[Next: Christ and Abgarus](alp54)
+[Next: Christ and Abgarus](alp54.md)

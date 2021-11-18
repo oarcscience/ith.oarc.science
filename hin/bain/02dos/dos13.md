@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos12)  [Next](dos14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos12)  [Next](dos14.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ the ground, knowing neither where he was nor what
 <span id="page_78">p. 78</span>
 
 he did, puzzled about the quarters of the world <span
-id="fr_66"></span>[p](#fn_66). And like a man, out of whose universe the
+id="fr_66"></span>[p](#fn_66.md). And like a man, out of whose universe the
 sun and moon and the five elements with their compounds have withdrawn,
 leaving him alone in the centre of empty space, he lay motionless,
 plunged in stupor, with dry eyes. Then all at once memory returned to
@@ -54,7 +54,7 @@ is this moon-struck vagabond who roams about looking for a blue-eyed
 beauty? And another: What wonder that Shrí has deserted such a ragged
 mendicant, who forsakes even the well-to-do! And others said: This
 distracted Rajpoot wants the moon, but he needs medicines <span
-id="fr_67"></span>[q](#fn_67). And at last he abandoned altogether the
+id="fr_67"></span>[q](#fn_67.md). And at last he abandoned altogether the
 dwellings of
 
 <span id="page_80">p. 80</span>
@@ -70,14 +70,14 @@ Shrí.
 
 ### Footnotes
 
-<span id="fn_66"></span>[78:p](dos13.htm#fr_66) *dinmohita* =
+<span id="fn_66"></span>[78:p](dos13.htm#fr_66.md) *dinmohita* =
 *desorienté*.
 
-<span id="fn_67"></span>[79:q](dos13.htm#fr_67) The point of these gibes
+<span id="fn_67"></span>[79:q](dos13.htm#fr_67.md) The point of these gibes
 depends on the various meanings of the word Shrí: which may mean his
 wife, or the goddess of fortune, or the moon: out of which come herbs or
 medicines.
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Lord of the Beasts](dos14)
+[Next: XI. The Lord of the Beasts](dos14.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray046)  [Next](pray048) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray046)  [Next](pray048.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,9 +21,9 @@ members contain the spiritual covenant which God made for the salvation
 of his Church, "I will put my law in their inward parts, and write it on
 their hearts." "I will pardon all their iniquities" (<span
 id="iii.xlv-p1.1"></span>[Jeremiah
-31:33](../../../bib/kjv/jer031.htm#033)<span id="iii.xlv-p1.1"></span>;
+31:33](../../../bib/kjv/jer031.htm#033.md)<span id="iii.xlv-p1.1"></span>;
 <span id="iii.xlv-p1.2"></span>[Jeremiah
-33:8](../../../bib/kjv/jer033.htm#008)<span id="iii.xlv-p1.2"></span>).
+33:8](../../../bib/kjv/jer033.htm#008)<span id="iii.xlv-p1.2"></span>.md).
 Here our Saviour begins with the forgiveness of sins, and then adds the
 subsequent blessing, viz., that God would protect us by the power, and
 support us by the aid of his Spirit, so that we may stand invincible
@@ -33,7 +33,7 @@ pay were we not discharged by this remission, the result of his free
 mercy, when he freely expunges the debt, accepting nothing in return;
 but of his own mercy receiving satisfaction in Christ, who gave himself
 a ransom for us (<span id="iii.xlv-p1.3"></span>[Romans
-3:24](../../../bib/kjv/rom003.htm#024)<span id="iii.xlv-p1.3"></span>).
+3:24](../../../bib/kjv/rom003.htm#024)<span id="iii.xlv-p1.3"></span>.md).
 Hence, those who expect to satisfy God by merits of their own or of
 others, or to compensate and purchase forgiveness by means of
 satisfactions, have no share in this free pardon, and while they address
@@ -45,9 +45,9 @@ reject, when they obtrude their merits and satisfactions upon God, since
 by so doing they do not implore his mercy, but appeal to his justice.
 Let those, again, who dream of a perfection which makes it unnecessary
 to seek pardon, find their disciples among those whose itching ears
-incline them to imposture, <span id="fr_24"></span>[25](#fn_24) (see
+incline them to imposture, <span id="fr_24"></span>[25](#fn_24.md) (see
 Calv. on <span id="iii.xlv-p1.6"></span>[Daniel
-9:20](../../../bib/kjv/dan009.htm#020)<span id="iii.xlv-p1.6"></span>);
+9:20](../../../bib/kjv/dan009.htm#020)<span id="iii.xlv-p1.6"></span>.md);
 only let them understand that those whom they thus acquire have been
 carried away from Christ, since he, by instructing all to confess their
 guilt, receives none but sinners, not that he may soothe, and so
@@ -65,7 +65,7 @@ who, by the phantom of perfect innocence, endeavour to dazzle the
 simple, and make them believe that they can render themselves completely
 free from guilt? This, as John declares, is nothing else than to make
 God a liar (<span id="iii.xlv-p1.7"></span>[1 John
-1:10](../../../bib/kjv/jo1001.htm#010)<span id="iii.xlv-p1.7"></span>).
+1:10](../../../bib/kjv/jo1001.htm#010)<span id="iii.xlv-p1.7"></span>.md).
 In like manner, those foolish men mutilate the covenant in which we have
 seen that our salvation is contained by concealing one head of it, and
 so destroying it entirely; being guilty not only of profanity in that
@@ -114,10 +114,10 @@ Luke, we have this distinctly stated in the words of Christ.
 
 ### Footnotes
 
-<span id="fn_24"></span>[25](pray047.htm#fr_24) <span
+<span id="fn_24"></span>[25](pray047.htm#fr_24.md) <span
 id="iii.xlv-p1.4"></span>French, "<span id="iii.xlv-p1.5"></span>Telles
 disciples qu’ils voudront;"—such disciples as they will.
 
 ------------------------------------------------------------------------
 
-[Next: 46.](pray048)
+[Next: 46.](pray048.md)

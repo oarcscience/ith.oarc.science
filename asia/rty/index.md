@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 This is a short extract from a book by a Christian missionary which
 gives some historical observations on the Yezidi people of northern
 Iraq. For more information on the Yezidi, refer to [Devil Worship: The
-Sacred Books and Traditions of the Yezidiz](../sby/index), which
+Sacred Books and Traditions of the Yezidiz](../sby/index.md), which
 references this article heavily.
 
 The Rev. Badger didn't get as close to the Yezidi as Isya Joseph did.
@@ -26,5 +26,5 @@ this fascinating culture and their unique religious beliefs.
 
 ------------------------------------------------------------------------
 
-[Title Page](rty00)  
-[An Inquiry into the Religious Tenets of the Yezeedees](rty01)  
+[Title Page](rty00.md)  
+[An Inquiry into the Religious Tenets of the Yezeedees](rty01.md)  

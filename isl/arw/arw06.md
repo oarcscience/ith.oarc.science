@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](arw05)  [Next](arw07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](arw05)  [Next](arw07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabian Wisdom*, by John Wortabet, \[1913\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
-### <span class="smallcaps">A Sinner's Cry unto God</span> <span id="fr_4"></span>[1](#fn_4)
+### <span class="smallcaps">A Sinner's Cry unto God</span> <span id="fr_4"></span>[1](#fn_4.md)
 
 O Thou who knowest every thought, and hearest every cry,  
 Who art the source of all that is, or ever shall be,  
@@ -47,9 +47,9 @@ Save me, God, from every ill, and be Thy favour ever mine!
 
 ### Footnotes
 
-<span id="fn_4"></span>[16:1](arw06.htm#fr_4) The original Arabic is in
+<span id="fn_4"></span>[16:1](arw06.htm#fr_4.md) The original Arabic is in
 verse.
 
 ------------------------------------------------------------------------
 
-[Next: Forgiving Others](arw07)
+[Next: Forgiving Others](arw07.md)

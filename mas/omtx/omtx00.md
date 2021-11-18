@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Next](omtx01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Next](omtx01.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Approval of Revision](omtx01)
+[Next: Approval of Revision](omtx01.md)

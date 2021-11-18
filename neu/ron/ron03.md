@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ron02)  [Next](ron04) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ron02)  [Next](ron04.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ while Siegfried, shouting with laughter, keeps driving the bear after
 him.\]
 
 <span id="img_00400"></span> [![](tn/00400.jpg)  
-Click to enlarge](img/00400.jpg)
+Click to enlarge](img/00400.jpg.md)
 
 Mime at the anvil
 
@@ -213,10 +213,10 @@ I would break him in bits
 As well as his work--
 
 <span id="img_00600"></span> [![](tn/00600.jpg)  
-Click to enlarge](img/00600.jpg)
+Click to enlarge](img/00600.jpg.md)
 
 Mime and the infant Siegfried  
-See [p. 8](#page_8)
+See [p. 8](#page_8.md)
 
  
 
@@ -312,11 +312,11 @@ By a hot-tempered boy
 To be hated and plagued!
 
 <span id="img_00800"></span> [![](tn/00800.jpg)  
-Click to enlarge](img/00800.jpg)
+Click to enlarge](img/00800.jpg.md)
 
 "And there I learned  
 What love was like"  
-         See [p. 11](#page_11)
+         See [p. 11](#page_11.md)
 
 <span id="page_9">p. 9</span>
 
@@ -419,10 +419,10 @@ When I asked thee why,
 That they were wives with their husbands.
 
 <span id="img_01000"></span> [![](tn/01000.jpg)  
-Click to enlarge](img/01000.jpg)
+Click to enlarge](img/01000.jpg.md)
 
 Siegfried sees himself in the stream  
-                        See [p. 12](#page_12)
+                        See [p. 12](#page_12.md)
 
 <span id="page_11">p. 11</span>
 
@@ -534,10 +534,10 @@ Willingly
 Thou never wilt speak;
 
 <span id="img_01200"></span> [![](tn/01200.jpg)  
-Click to enlarge](img/01200.jpg)
+Click to enlarge](img/01200.jpg.md)
 
 Mime finds the mother of Siegfried in the forest  
-                                      See [p. 13](#page_13)
+                                      See [p. 13](#page_13.md)
 
 <span id="page_13">p. 13</span>
 
@@ -1413,11 +1413,11 @@ Yet wouldst from the forest
 Forth to the world?
 
 <span id="img_02800"></span> [![](tn/02800.jpg)  
-Click to enlarge](img/02800.jpg)
+Click to enlarge](img/02800.jpg.md)
 
 "In dragon's form  
 Fafner now watches the hoard"  
-                  See [p. 21](#page_21)
+                  See [p. 21](#page_21.md)
 
 <span id="page_29">p. 29</span>
 
@@ -1535,10 +1535,10 @@ Mime
 The world is quite close to the cave.
 
 <span id="img_03000"></span> [![](tn/03000.jpg)  
-Click to enlarge](img/03000.jpg)
+Click to enlarge](img/03000.jpg.md)
 
 Mime and the Wanderer  
-                  See [p. 17](#page_17)
+                  See [p. 17](#page_17.md)
 
  
 
@@ -1658,10 +1658,10 @@ And still he keeps cool.
 \[*Siegfried has blown the fire to a bright flame*.\]
 
 <span id="img_03200"></span> [![](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)
+Click to enlarge](img/03200.jpg.md)
 
 The forging of Nothung  
-                 See [p. 34](#page_34)
+                 See [p. 34](#page_34.md)
 
  
 
@@ -1754,10 +1754,10 @@ Nothung! Nothung!
 Conquering sword!
 
 <span id="img_03400"></span> [![](tn/03400.jpg)  
-Click to enlarge](img/03400.jpg)
+Click to enlarge](img/03400.jpg.md)
 
 Siegfried kills Fafner  
-See [p. 56](ron04.htm#page_56)
+See [p. 56](ron04.htm#page_56.md)
 
  
 
@@ -2033,4 +2033,4 @@ Siegfried holds the sword exultantly on high. The curtain falls*.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Second Act](ron04)
+[Next: The Second Act](ron04.md)

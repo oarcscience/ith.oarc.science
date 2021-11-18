@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft43)  [Next](eft45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft43)  [Next](eft45.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ third head, saying the same as the former. So she did the same for them,
 and then, pulling out her provisions, sat down to eat her dinner.
 
 <span id="img_062"></span> [![](tn/062.jpg)  
-Click to enlarge](img/062.jpg)
+Click to enlarge](img/062.jpg.md)
 
 Then said the heads one to another: 'What shall we weird for this damsel
 who has used us so kindly?'
@@ -161,4 +161,4 @@ years mending shoes, his wife spinning the thread for him.
 
 ------------------------------------------------------------------------
 
-[Next: Introductory Notes](eft45)
+[Next: Introductory Notes](eft45.md)

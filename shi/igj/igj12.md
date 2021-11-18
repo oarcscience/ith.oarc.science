@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj11)  [Next](igj13) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj11)  [Next](igj13.md) 
 
 ------------------------------------------------------------------------
 
@@ -509,11 +509,11 @@ shidai:* "Even the Judgments of Hell may be influenced by money."\]
 
 {p. 178}
 
-![Jizô](img/17800.jpg)
+![Jizô](img/17800.jpg.md)
 
 {p. 179}
 
-![Emma Dai-ô](img/17900.jpg)
+![Emma Dai-ô](img/17900.jpg.md)
 
 {p. 180}
 
@@ -1213,4 +1213,4 @@ wife.\]
 
 ------------------------------------------------------------------------
 
-[Next: Suggestion](igj13)
+[Next: Suggestion](igj13.md)

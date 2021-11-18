@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hft12)  [Next](hft14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hft12)  [Next](hft14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hawaiian Folk Tales*, by Thomas G. Thrum, \[1907\], at Intangible
 Textual Heritage
 
@@ -208,7 +208,7 @@ E na Akua a ke kuahiwi nei,
 I ka mauna,  
 I ke kualono,  
 I ka manowai la-e,  
-E-iho!* <span id="fr_6"></span>[1](#fn_6)</span>
+E-iho!* <span id="fr_6"></span>[1](#fn_6.md)</span>
 
 </div>
 
@@ -336,7 +336,7 @@ seashore stones, was put in place.
 
 ### Footnotes
 
-<span id="fn_6"></span>[113:1](hft13.htm#fr_6)
+<span id="fn_6"></span>[113:1](hft13.htm#fr_6.md)
 
 <div style="margin-left: 32px">
 
@@ -356,4 +356,4 @@ Oh, come!
 
 ------------------------------------------------------------------------
 
-[Next: XI. Kahalaopuna, Princess of Manoa](hft14)
+[Next: XI. Kahalaopuna, Princess of Manoa](hft14.md)

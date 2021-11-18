@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba09)  [Next](mba11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba09)  [Next](mba11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ offspring of
 
 <span class="contnote">\[paragraph continues\]</span> God, we ought not
 to think that the Godhead is like unto gold, or silver, or stone, graven
-by art and man's device." <span id="fr_78"></span>[1](#fn_77)
+by art and man's device." <span id="fr_78"></span>[1](#fn_77.md)
 
 Babylonian temples were houses of the gods in the literal sense; the
 gods were supposed to dwell in them, their spirits having entered into
@@ -143,7 +143,7 @@ The sole of his foot has no heel,
 His name is Sassu-wunnu,  
 A sea monster, a form of Ea.  
                              R. C. Thompson's Translation. <span
-id="fr_79"></span>[1](#fn_78)</span>
+id="fr_79"></span>[1](#fn_78.md)</span>
 
 </div>
 
@@ -157,7 +157,7 @@ destroyers
 <span id="img_06200"></span> <span align="CENTER"> [![WINGED MAN-HEADED
 LION&lt;br&gt; &lt;i&gt;In Marble. From N.W. Palace of Nimroud; now in
 the British Museum&lt;/i&gt;.&lt;br&gt; Photo. Mansell](tn/06200.jpg)  
-Click to enlarge](img/06200.jpg)  
+Click to enlarge](img/06200.jpg.md)  
 WINGED MAN-HEADED LION  
 *In Marble. From N.W. Palace of Nimroud; now in the British Museum*.  
 Photo. Mansell  
@@ -172,10 +172,10 @@ with rain; the sea raged furiously, ever hungering for human victims;
 the burning sun struck down its victims; and the floods played havoc
 with the dykes and houses of human beings. In Egypt the sun god Ra was
 similarly a "producer of calamity", the composite monster god Sokar was
-"the lord of fear". <span id="fr_80"></span>[1](#fn_79) Osiris in
+"the lord of fear". <span id="fr_80"></span>[1](#fn_79.md) Osiris in
 prehistoric times had been "a dangerous god", and some of the Pharaohs
 sought protection against him in the charms inscribed in their
-tombs. <span id="fr_81"></span>[2](#fn_80) The Indian Shiva, "the
+tombs. <span id="fr_81"></span>[2](#fn_80.md) The Indian Shiva, "the
 Destroyer", in the old religious poems has also primitive attributes of
 like character.
 
@@ -204,7 +204,7 @@ is the "Wild Huntsman in the Raging Host". In Greek mythology the ocean
 furies attend upon fickle Poseidon. Other examples of this kind could be
 multiplied.
 
-As we have seen ([Chapter II](mba08.htm#an_ch-02)) the earliest group of
+As we have seen ([Chapter II](mba08.htm#an_ch-02).md) the earliest group of
 Babylonian deities consisted probably of four pairs of gods and
 goddesses as in Egypt. The first pair was Apsu-Rishtu and Tiamat, who
 personified the primordial deep. Now the elder deities in most
@@ -216,7 +216,7 @@ many parallels to this myth among primitive peoples in various parts of
 the world.
 
 Lang regarded the Greek survival as an example of "the conservatism of
-the religious instinct". <span id="fr_82"></span>[1](#fn_81) The
+the religious instinct". <span id="fr_82"></span>[1](#fn_81.md) The
 grand-mother of the Teutonic deity Tyr was a fierce giantess with nine
 hundred heads; his father was an enemy of the gods. In Scotland the
 hag-mother of winter and storm and darkness is the enemy of growth and
@@ -264,7 +264,7 @@ termed "seizers" or "overthrowers", the Semitic "labashu" and
 
 was "mulla". Professor Pinches thinks it not improbable that "mulla" may
 be connected with the word "mula", meaning "star", and suggests that it
-referred to a "will-o’-the-wisp". <span id="fr_83"></span>[1](#fn_82) In
+referred to a "will-o’-the-wisp". <span id="fr_83"></span>[1](#fn_82.md) In
 these islands, according to an old rhyme,
 
 <div style="margin-left: 32px">
@@ -288,7 +288,7 @@ As wand’ring stars, quite out of sight.</span>
 
 </div>
 
-In Shakespeare's *Tempest* <span id="fr_84"></span>[2](#fn_83) a sailor
+In Shakespeare's *Tempest* <span id="fr_84"></span>[2](#fn_83.md) a sailor
 exclaims: "Your fairy, which, you say, is a harmless fairy, has done
 little better than played the Jack with us". Dr. Johnson commented that
 the reference was to "Jack with a lantern". Milton wrote also of the
@@ -301,7 +301,7 @@ Hovering and blazing with delusive light,
 Misleads th’ amaz’d night wand’rer from his way  
 To bogs and mires, and oft through pond or pool;  
 There swallowed up and lost from succour far. <span
-id="fr_85"></span>[3](#fn_84)</span>
+id="fr_85"></span>[3](#fn_84.md)</span>
 
 </div>
 
@@ -313,18 +313,18 @@ were also "fallen stars", "death fires", and "fire drakes":
 
 <span class="small">So have I seen a fire drake glide along  
 Before a dying man, to point his grave,  
-And in it stick and hide. <span id="fr_86"></span>[4](#fn_85)</span>
+And in it stick and hide. <span id="fr_86"></span>[4](#fn_85.md)</span>
 
 </div>
 
 <span id="page_67">p. 67</span>
 
 Pliny referred to the wandering lights as stars. <span
-id="fr_87"></span>[1](#fn_86) The Sumerian "mulla" was undoubtedly an
+id="fr_87"></span>[1](#fn_86.md) The Sumerian "mulla" was undoubtedly an
 evil spirit. In some countries the "fire drake" is a bird with gleaming
 breast: in Babylonia it assumed the form of a bull, and may have had
 some connection with the bull of Ishtar. Like the Indian "Dasyu" and
-"Dasa", <span id="fr_88"></span>[2](#fn_87) Gallu was applied in the
+"Dasa", <span id="fr_88"></span>[2](#fn_87.md) Gallu was applied in the
 sense of "foreign devil" to human and superhuman adversaries of certain
 monarchs. Some of the supernatural beings resemble our elves and fairies
 and the Indian Rakshasas. Occasionally they appear in comely human
@@ -359,11 +359,11 @@ and Lakshmana, and the sister of the demon Hidimva, who became
 <span id="page_68">p. 68</span>
 
 enamoured of Bhima, one of the heroes of the *Mahàbhàrata*, <span
-id="fr_89"></span>[1](#fn_88) and the various fairy lovers of Europe who
+id="fr_89"></span>[1](#fn_88.md) and the various fairy lovers of Europe who
 lured men to eternal imprisonment inside mountains, or vanished for ever
 when they were completely under their influence, leaving them demented.
 The elfin Lilu similarly wooed young women, like the Germanic Laurin of
-the "Wonderful Rose Garden", <span id="fr_90"></span>[2](#fn_89) who
+the "Wonderful Rose Garden", <span id="fr_90"></span>[2](#fn_89.md) who
 carried away the fair lady Kunhild to his underground dwelling amidst
 the Tyrolese mountains, or left them haunting the place of their
 meetings, searching for him in vain:
@@ -386,7 +386,7 @@ Another materializing spirit of this class was Ardat Lili, who appears
 to have wedded human beings like the swan maidens, the mermaids, and
 Nereids of the European folk tales, and the goddess Ganga, who for a
 time was the wife of King Shantanu of the *Mahàbhàrata*. <span
-id="fr_91"></span>[3](#fn_90)
+id="fr_91"></span>[3](#fn_90.md)
 
 The Labartu, to whom we have referred, was a female who haunted
 mountains and marshes; like the fairies and hags of Europe, she stole or
@@ -419,7 +419,7 @@ poison. No spirit was more prone to work evil against mankind, and her
 hostility was accompanied by the most tragic sorrow. In Northern India
 the Hindus, like the ancient Babylonians, regard as a fearsome demon the
 ghost of a woman who died while pregnant, or on the day of the child's
-birth. <span id="fr_92"></span>[1](#fn_91) A similar belief prevailed in
+birth. <span id="fr_92"></span>[1](#fn_91.md) A similar belief prevailed in
 Mexico. In Europe there are many folk tales of dead mothers who return
 to avenge themselves on the cruel fathers of neglected children.
 
@@ -431,7 +431,7 @@ return to the dead body--a proceeding which is
 
 <span id="page_70">p. 70</span>
 
-dreaded in the Scottish Highlands. <span id="fr_93"></span>[1](#fn_92)
+dreaded in the Scottish Highlands. <span id="fr_93"></span>[1](#fn_92.md)
 The Buriats address the ghost, saying: "You shall sleep well. Come back
 to your natural ashes. Take pity on your friends. It is necessary to
 live a real life. Do not wander along the mountains. Do not be like bad
@@ -439,8 +439,8 @@ spirits. Return to your peaceful home. . . . Come back and work for your
 children. How can you leave the little ones?" If it is a mother, these
 words have great effect; sometimes the spirit moans and sobs, and the
 Buriats tell that there have been instances of it returning to the
-body. <span id="fr_94"></span>[2](#fn_93) In his Arabia Deserta <span
-id="fr_95"></span>[3](#fn_94) Doughty relates that Arab women and
+body. <span id="fr_94"></span>[2](#fn_93.md) In his Arabia Deserta <span
+id="fr_95"></span>[3](#fn_94.md) Doughty relates that Arab women and
 children mock the cries of the owl. One explained to him: "It is a
 wailful woman seeking her lost child; she has become this forlorn bird".
 So do immemorial beliefs survive to our own day.
@@ -465,7 +465,7 @@ awaited the spirit of the dead Babylonian man or woman without
 offspring. In Sanskrit literature there is a reference to a priest who
 was not allowed to enter Paradise, although he had performed rigid
 penances, because he had no children. <span
-id="fr_96"></span>[1](#fn_95)
+id="fr_96"></span>[1](#fn_95.md)
 
 There were hags and giants of mountain and desert, of river and ocean.
 Demons might possess the pig, the goat, the horse, the lion, or the
@@ -487,7 +487,7 @@ Through the door, like a snake, they glide,
 Through the hinge, like the wind, they storm,  
 Tearing the wife from the embrace of the man,  
 Driving the freedman from his family home. <span
-id="fr_97"></span>[2](#fn_96)</span>
+id="fr_97"></span>[2](#fn_96.md)</span>
 
 </div>
 
@@ -526,7 +526,7 @@ Whare wilt thou cow’r thy chittering wing,
 
 According to Babylonian belief, "the great storms directed from heaven"
 were caused by demons. Mankind heard them "loudly roaring above,
-gibbering below". <span id="fr_98"></span>[1](#fn_97) The south wind was
+gibbering below". <span id="fr_98"></span>[1](#fn_97.md) The south wind was
 raised by Shutu, a plumed storm demon resembling Hraesvelgur of the
 Icelandic Eddas:
 
@@ -536,7 +536,7 @@ Icelandic Eddas:
    A Jötun in eagle form;  
 From his wings, they say, comes the wind which fares  
    Over all the dwellers of earth. <span
-id="fr_99"></span>[2](#fn_98)</span>
+id="fr_99"></span>[2](#fn_98.md)</span>
 
 </div>
 
@@ -554,7 +554,7 @@ DEMONS&lt;br&gt; The upper head is that of Shutu, the demon of the
 south-west wind, whose wings were broken by Adapa, son of Ea&lt;br&gt;
 (&lt;i&gt;British Museum&lt;/i&gt;)&lt;br&gt; Photo.
 Mansell](tn/07200.jpg)  
-Click to enlarge](img/07200.jpg)  
+Click to enlarge](img/07200.jpg.md)  
 TWO FIGURES OF DEMONS  
 The upper head is that of Shutu, the demon of the south-west wind, whose
 wings were broken by Adapa, son of Ea  
@@ -680,7 +680,7 @@ The serpent seized him by his wing.</span>
 appealed for mercy to the Mother Serpent, who was compelled to execute
 the decree of Shamash; she tore off the Eagle's pinions, wings, and
 claws, and threw him into a pit where he perished from hunger and
-thirst. <span id="fr_100"></span>[1](#fn_99) This myth may refer to the
+thirst. <span id="fr_100"></span>[1](#fn_99.md) This myth may refer to the
 ravages of a winged demon of disease who was thwarted by the sacrifice
 of an ox. The Mother Serpent appears to be identical with an ancient
 goddess of maternity resembling the Egyptian Bast, the serpent mother of
@@ -719,7 +719,7 @@ to Ea in the ocean depths, saying: "My son Sin . . . hath been
 grievously bedimmed". Ea lamented, and dispatched his son Merodach to
 net the demons by magic, using "a two-coloured cord from the hair of a
 virgin kid and from the wool of a virgin lamb." <span
-id="fr_101"></span>[1](#fn_100)
+id="fr_101"></span>[1](#fn_100.md)
 
 As in India, where Shitala, the Bengali goddess of smallpox, for
 instance, is worshipped when the dreaded disease she controls becomes
@@ -730,7 +730,7 @@ consented to spare those who praised his name and exalted him in
 recognition of his bravery and power. This could be accomplished by
 reciting a formula. Indian serpent worshippers believe that their
 devotions "destroy all danger proceeding from snakes". <span
-id="fr_102"></span>[2](#fn_101)
+id="fr_102"></span>[2](#fn_101.md)
 
 Like the Ancient Egyptians, the Babylonians also had their kindly
 spirits who brought luck and the various enjoyments of life. A good
@@ -818,14 +818,14 @@ against deities even. The "namtaru", for instance, was a spirit of fate,
 the son of Bel-Enlil and Eresh-ki -gal, queen of Hades. "Apparently",
 writes Professor Pinches, "he executed the instructions given him
 concerning the fate of men, and could also have power over certain of
-the gods." <span id="fr_103"></span>[1](#fn_102) To this middle class
+the gods." <span id="fr_103"></span>[1](#fn_102.md) To this middle class
 belong the evil gods who rebelled against the beneficent deities.
 According to Hebridean folk belief, the fallen angels are divided into
 three classes--the fairies, the "nimble men" (aurora borealis), and the
 "blue men of the Minch". In *Beowulf* the "brood of Cain" includes
 "monsters and elves and sea-devils--giants also, who long time fought
 with God, for which he gave them their reward". <span
-id="fr_104"></span>[2](#fn_103) Similarly the Babylonian spirit groups
+id="fr_104"></span>[2](#fn_103.md) Similarly the Babylonian spirit groups
 are liable to division and subdivision. The various classes may be
 regarded as relics of the various stages of development from crude
 animism to sublime monotheism: in the fragmentary legends we trace the
@@ -835,50 +835,50 @@ floating material from which great mythologies have been framed.
 
 ### Footnotes
 
-<span id="fn_77"></span>[60:1](mba10.htm#fr_78) *The Acts*, xvii, 22-31.
+<span id="fn_77"></span>[60:1](mba10.htm#fr_78.md) *The Acts*, xvii, 22-31.
 
-<span id="fn_78"></span>[62:1](mba10.htm#fr_79) *Devils and Evil Spirits
+<span id="fn_78"></span>[62:1](mba10.htm#fr_79.md) *Devils and Evil Spirits
 of Babylonia*, vol. ii, p. 149 *et seq*.
 
-<span id="fn_79"></span>[63:1](mba10.htm#fr_80) *Egyptian Myth and
+<span id="fn_79"></span>[63:1](mba10.htm#fr_80.md) *Egyptian Myth and
 Legend*, xxxix, n.
 
-<span id="fn_80"></span>[63:2](mba10.htm#fr_81) *Development of Religion
+<span id="fn_80"></span>[63:2](mba10.htm#fr_81.md) *Development of Religion
 and Thought in Ancient Egypt*, J. H. Breasted, pp. 38, 74.
 
-<span id="fn_81"></span>[64:1](mba10.htm#fr_82) *Custom and Myth*, p.45
+<span id="fn_81"></span>[64:1](mba10.htm#fr_82.md) *Custom and Myth*, p.45
 *et seq*.
 
-<span id="fn_82"></span>[66:1](mba10.htm#fr_83) *The Religion of
+<span id="fn_82"></span>[66:1](mba10.htm#fr_83.md) *The Religion of
 Babylonia and Assyria*, p. 108.
 
-<span id="fn_83"></span>[66:2](mba10.htm#fr_84) Act iv, scene 1.
+<span id="fn_83"></span>[66:2](mba10.htm#fr_84.md) Act iv, scene 1.
 
-<span id="fn_84"></span>[66:3](mba10.htm#fr_85) *Paradise Lost*, book
+<span id="fn_84"></span>[66:3](mba10.htm#fr_85.md) *Paradise Lost*, book
 ix.
 
-<span id="fn_85"></span>[66:4](mba10.htm#fr_86) Chapman's *Cæsar and
+<span id="fn_85"></span>[66:4](mba10.htm#fr_86.md) Chapman's *Cæsar and
 Pompey*.
 
-<span id="fn_86"></span>[67:1](mba10.htm#fr_87) *Natural History*, 2nd
+<span id="fn_86"></span>[67:1](mba10.htm#fr_87.md) *Natural History*, 2nd
 book.
 
-<span id="fn_87"></span>[67:2](mba10.htm#fr_88) *Indian Myth and
+<span id="fn_87"></span>[67:2](mba10.htm#fr_88.md) *Indian Myth and
 Legend*, 70, *n*.
 
-<span id="fn_88"></span>[68:1](mba10.htm#fr_89) *Indian Myth and
+<span id="fn_88"></span>[68:1](mba10.htm#fr_89.md) *Indian Myth and
 Legend*, pp. 202-5, 400, 401.
 
-<span id="fn_89"></span>[68:2](mba10.htm#fr_90) *Teutonic Myth and
+<span id="fn_89"></span>[68:2](mba10.htm#fr_90.md) *Teutonic Myth and
 Legend*, p. 424 *et seq*.
 
-<span id="fn_90"></span>[68:3](mba10.htm#fr_91) *Indian Myth and
+<span id="fn_90"></span>[68:3](mba10.htm#fr_91.md) *Indian Myth and
 Legend*, p. 164 *et seq*.
 
-<span id="fn_91"></span>[69:1](mba10.htm#fr_92) *Popular Religion and
+<span id="fn_91"></span>[69:1](mba10.htm#fr_92.md) *Popular Religion and
 Folk Lore of Northern India*, W. Crooke, vol. p. 254.
 
-<span id="fn_92"></span>[70:1](mba10.htm#fr_93) When a person, young or
+<span id="fn_92"></span>[70:1](mba10.htm#fr_93.md) When a person, young or
 old, is dying, near relatives must not call out their names in case the
 soul may come back from the spirit world. A similar belief still
 lingers, especially among women, in the Lowlands. The writer was once
@@ -892,37 +892,37 @@ localities that if a dying person is "called back" the soul will tarry
 for another twenty-four hours, during which the individual will suffer
 great agony.
 
-<span id="fn_93"></span>[70:2](mba10.htm#fr_94) *A Journey in Southern
+<span id="fn_93"></span>[70:2](mba10.htm#fr_94.md) *A Journey in Southern
 Siberia*, Jeremiah Curtin, pp. 103, 104.
 
-<span id="fn_94"></span>[70:3](mba10.htm#fr_95) Vol. i, p. 305.
+<span id="fn_94"></span>[70:3](mba10.htm#fr_95.md) Vol. i, p. 305.
 
-<span id="fn_95"></span>[71:1](mba10.htm#fr_96) *Adi Parva* section of
+<span id="fn_95"></span>[71:1](mba10.htm#fr_96.md) *Adi Parva* section of
 *Mahàbhàrata*, Roy's trans., p. 635.
 
-<span id="fn_96"></span>[71:2](mba10.htm#fr_97) Jastrow's *Aspects of
+<span id="fn_96"></span>[71:2](mba10.htm#fr_97.md) Jastrow's *Aspects of
 Religious Belief in Babylonia*, &c., p. 312.
 
-<span id="fn_97"></span>[72:1](mba10.htm#fr_98) R. C. Thompson's trans.
+<span id="fn_97"></span>[72:1](mba10.htm#fr_98.md) R. C. Thompson's trans.
 
-<span id="fn_98"></span>[72:2](mba10.htm#fr_99) *The Elder or Poetic
+<span id="fn_98"></span>[72:2](mba10.htm#fr_99.md) *The Elder or Poetic
 Edda*, Olive Bray, part i, p. 53.
 
-<span id="fn_99"></span>[76:1](mba10.htm#fr_100) *Babylonian Religion*,
+<span id="fn_99"></span>[76:1](mba10.htm#fr_100.md) *Babylonian Religion*,
 L. W. King, pp. 186-8.
 
-<span id="fn_100"></span>[77:1](mba10.htm#fr_101) *The Devils and Evil
+<span id="fn_100"></span>[77:1](mba10.htm#fr_101.md) *The Devils and Evil
 Spirits of Babylonia*, R. Campbell Thompson, vol. i, p. 53 *et seq*.
 
-<span id="fn_101"></span>[77:2](mba10.htm#fr_102) *Omens and
+<span id="fn_101"></span>[77:2](mba10.htm#fr_102.md) *Omens and
 Superstitions of Southern India*, E. Thurston, p. 124.
 
-<span id="fn_102"></span>[80:1](mba10.htm#fr_103) *The Religion of
+<span id="fn_102"></span>[80:1](mba10.htm#fr_103.md) *The Religion of
 Babylonia and Assyria*, p. 110.
 
-<span id="fn_103"></span>[80:2](mba10.htm#fr_104) *Beowulf*, Clark Hall,
+<span id="fn_103"></span>[80:2](mba10.htm#fr_104.md) *Beowulf*, Clark Hall,
 p. 14.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Myths of Tammuz and Ishtar](mba11)
+[Next: Chapter V. Myths of Tammuz and Ishtar](mba11.md)

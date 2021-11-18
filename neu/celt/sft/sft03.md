@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sft02)  [Next](sft04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sft02)  [Next](sft04.md) 
 
 ------------------------------------------------------------------------
 
@@ -478,4 +478,4 @@ Savage Ideas
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Fairy Births and Human Midwives](sft04)
+[Next: Chapter III: Fairy Births and Human Midwives](sft04.md)

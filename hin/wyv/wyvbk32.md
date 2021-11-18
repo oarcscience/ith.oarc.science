@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk31)  [Next](wyvbk33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk31)  [Next](wyvbk33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ In whom the Gods obtaining life eternal have risen upward
 to the third high station.  
 11 Having encompassed round existing creatures, the world;  
 and all the Quarters and Mid-quarters,  
-Having [approached](errata.htm#15) the first-born Child of Order he with
+Having [approached](errata.htm#15.md) the first-born Child of Order he with
 his  
 Self into The Self hath entered.
 
@@ -90,4 +90,4 @@ splendour, hail!
 
 ------------------------------------------------------------------------
 
-[Next: Book XXXIII](wyvbk33)
+[Next: Book XXXIII](wyvbk33.md)

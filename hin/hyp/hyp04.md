@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](hyp03)  [Next](hyp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](hyp03)  [Next](hyp05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -674,12 +674,12 @@ id="an_50">50</span></span>
 *Note*.—
 
 <span id="img_02101"></span> <span align="CENTER"> [![](tn/02101.jpg)  
-Click to enlarge](img/02101.jpg)</span>
+Click to enlarge](img/02101.jpg.md)</span>
 
 <span id="page_22">p. 22</span>
 
 <span id="img_02200"></span> <span align="CENTER"> [![](tn/02200.jpg)  
-Click to enlarge](img/02200.jpg)</span>
+Click to enlarge](img/02200.jpg.md)</span>
 
 Translation: I am going to describe the procedure of the practice of
 Yoga, in order that Yogîs may succeed. A wise man should leave his bed
@@ -784,7 +784,7 @@ atha ujjāyī
 mukhaṃ saṃyamya nāḍībhyāmākṝṣhya pavanaṃ śanaiḥ \|  
 yathā laghati kaṇṭhāttu hṝdayāvadhi sa-svanam \|\| 51 \|\|
 
-Having closed the opening of the [Nâdî](errata.htm#1) (Larynx), the air
+Having closed the opening of the [Nâdî](errata.htm#1) (Larynx.md), the air
 should be drawn in such a way that it goes touching from the throat to
 the chest, and making noise while passing. <span class="margnote"><span
 id="an_51.">51.</span></span>
@@ -1131,4 +1131,4 @@ iti haṭha-pradīpikāyāṃ dvitīyopadeśaḥ \|
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. On Mudrâs](hyp05)
+[Next: Chapter III. On Mudrâs](hyp05.md)

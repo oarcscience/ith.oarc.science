@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar041) [Next](gbar043)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar041) [Next](gbar043.md)
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ believe on my words.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar043)
+[Next](gbar043.md)

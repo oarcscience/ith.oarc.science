@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat28)  [Next](jat30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat28)  [Next](jat30.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ the people.
 
 ------------------------------------------------------------------------
 
-[Next: 28. Antelopes Take Arrows From Coyote](jat30)
+[Next: 28. Antelopes Take Arrows From Coyote](jat30.md)

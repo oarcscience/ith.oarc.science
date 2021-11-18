@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits081) [Next](bits083)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits081) [Next](bits083.md)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ dejectedly departed.
 
 ------------------------------------------------------------------------
 
-[Next: 83. The Buddhist Confession of Priests](bits083)
+[Next: 83. The Buddhist Confession of Priests](bits083.md)
 
  
 

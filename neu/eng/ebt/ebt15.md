@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt14)  [Next](ebt16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt14)  [Next](ebt16.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ Every considerable avenue of trees (as in parks of country seats) which
 I have tested has a ley down its centre.
 
 Monnington Walks, a Scotch Fir avenue a mile long ([Plate
-XIII](ebt26.htm#img_pl13).), is sighted through Monnington Church and
+XIII](ebt26.htm#img_pl13)..md), is sighted through Monnington Church and
 the Sear Rock, Brobury,
 
 <span id="page_20">p. 20</span>
@@ -93,4 +93,4 @@ increase of trees was a cause of the decay of the system.
 
 ------------------------------------------------------------------------
 
-[Next: Camps](ebt16)
+[Next: Camps](ebt16.md)

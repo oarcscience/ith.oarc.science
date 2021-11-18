@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe181)  [Next](prwe183) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe181)  [Next](prwe183.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ home like a dog.
 
 ------------------------------------------------------------------------
 
-[Next: Madame Noy and Old Joan](prwe183)
+[Next: Madame Noy and Old Joan](prwe183.md)

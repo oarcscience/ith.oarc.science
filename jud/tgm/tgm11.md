@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm10)  [Next](tgm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm10)  [Next](tgm12.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Rabbi Shammai took a stick and shouted angrily:
 <span id="img_04500"></span>
 
 [![](tn/04500.jpg)  
-Click to enlarge](img/04500.jpg)
+Click to enlarge](img/04500.jpg.md)
 
  
 
@@ -79,4 +79,4 @@ Hillel kindly.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Two Who Were Wrong](tgm12)
+[Next: 9. Two Who Were Wrong](tgm12.md)

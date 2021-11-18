@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Zen](index)
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Zen](index.md)
 
 ------------------------------------------------------------------------
 

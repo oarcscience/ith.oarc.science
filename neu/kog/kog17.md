@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog16)  [Next](kog18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog16)  [Next](kog18.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ an awful thing, and there's no joking with it."
 
 ------------------------------------------------------------------------
 
-[Next: 15. Nine At A Blow](kog18)
+[Next: 15. Nine At A Blow](kog18.md)

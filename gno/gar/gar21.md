@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar20)  [Next](gar22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar20)  [Next](gar22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ transferred to the service of Gnosticism.
 *Baptism, Remitting Sins*.--(Pistis-Sophia) (298). Then came forth Mary
 and said: Lord, under what form do *Baptisms* remit sins? I have heard
 thee saying that the Ministers of Contentions (ἐριδαῖοι) <span
-id="fr_55"></span>[\*](#fn_54) follow after the soul, bearing witness
+id="fr_55"></span>[\*](#fn_54.md) follow after the soul, bearing witness
 against it of all the sins that it hath committed, so that they may
 convict it in the judgments. Now, therefore, Lord, do the mysteries of
 Baptism blot out the sins that be in the hands of the Receivers of
@@ -55,7 +55,7 @@ been sinful, the Contentious Receivers verily do come, that they may
 bear witness of all the sins they have committed, but they can by no
 means come forth out of the regions of chaos, so as to convict the soul
 in the places of judgment that be beyond chaos. But the counterfeit of
-the spirit <span id="fr_56"></span>[\*](#fn_55) testifies against all
+the spirit <span id="fr_56"></span>[\*](#fn_55.md) testifies against all
 the sins of the soul, in order to convict it in the places of judgment
 that be beyond chaos; not only Both it testify, but also sets a *seal*
 upon all the sins of the soul, so as to print them firmly upon the soul,
@@ -66,7 +66,7 @@ imprinted upon it, so that they may punish the soul according to the
 number of its sins: this is the manner in which they treat the soul of a
 sinner. (300). Now therefore if any one hath received the mysteries of
 Baptism, *those mysteries become a great fire*, <span
-id="fr_57"></span>[†](#fn_56) exceeding strong, and wise, so as to burn
+id="fr_57"></span>[†](#fn_56.md) exceeding strong, and wise, so as to burn
 up all the sins: and the Fire entereth into the soul secretly, so that
 it may consume within it all the sins which the counterfeit of the
 spirit hath printed there. Likewise it entereth into the body secretly,
@@ -75,7 +75,7 @@ pursueth within the body, the counterfeit of the spirit, and Fate--so
 that it may divide them apart from the Power and the Soul, and place
 them in one part of the body--so that the fire separates the counterfeit
 of the spirit, Fate, and the Body into one portion, and the Soul and the
-Power <span id="fr_58"></span>[‡](#fn_57) into another portion. The
+Power <span id="fr_58"></span>[‡](#fn_57.md) into another portion. The
 mystery of Baptism remaineth in the middle of them, so that it may
 perpetually separate them, so that it may purge and cleanse them in
 order
@@ -135,7 +135,7 @@ hereafter. Moreover the mystery of the First Mystery, and the mystery of
 the Ineffable One, remit unto the soul in all the regions of the Rulers
 all the sins and transgressions that it hath committed. And not only do
 they remit, but they do not *impute sin* <span
-id="fr_59"></span>[\*](#fn_58) to the soul, from henceforth for ever by
+id="fr_59"></span>[\*](#fn_58.md) to the soul, from henceforth for ever by
 reason of the free-grace of the mystery and the exceeding glory of the
 same. Then said the Saviour: Do ye understand all that I have said unto
 you? Then Mary answered: Lord, I have caught up all the words thou hast
@@ -176,8 +176,8 @@ repented shall depart out of the body, shall they inherit the kingdom or
 not, forasmuch as they have received the free gift of that mystery?
 (306) The Saviour answered: Of such the judgment shall be the most
 merciful amongst all the judgments, for their dwelling is in the Middle
-Gate <span id="fr_60"></span>[\*](#fn_59) of the Dragon of Outer
-Darkness, and at the end <span id="fr_61"></span>[†](#fn_60) of all
+Gate <span id="fr_60"></span>[\*](#fn_59.md) of the Dragon of Outer
+Darkness, and at the end <span id="fr_61"></span>[†](#fn_60.md) of all
 those that be in torment; because such an one hath received the free
 gift of the mystery, and hath not remained steadfast therein. Then said
 Mary: Such as have received the mystery of the Ineffable One and then
@@ -196,7 +196,7 @@ and
 <span id="page_146">p. 146</span>
 
 exceeding great; for even if those souls be *new ones*, <span
-id="fr_62"></span>[\*](#fn_61) they shall not return unto the changes of
+id="fr_62"></span>[\*](#fn_61.md) they shall not return unto the changes of
 the earthly bodies, neither shall they do any work, but they shall be
 cast out into the uttermost parts of the Outer Darkness, and shall be
 consumed so that they shall not exist for ever and ever.
@@ -225,7 +225,7 @@ any Power that can overtake him, nor ever come nigh unto him at all
 (228). But he passes through all the regions of the Rulers, and also the
 regions of the offspring of the Light, neither doth he give-in a
 declaration in any region, nor yet a defence of himself, <span
-id="fr_63"></span>[†](#fn_62) nor yet the pass-word (or symbol). Neither
+id="fr_63"></span>[†](#fn_62) nor yet the pass-word (or symbol.md). Neither
 can any Power of them all draw near him, but all the regions of the
 Rulers and of the offspring of the Light shall
 
@@ -246,7 +246,7 @@ and all the Primal Fathers, and all the Unseen Ones; he is a man in the
 world, but he is more excellent than the great unseen Primal Father, and
 shall be more exalted than he, and above all those pertaining to the
 Middle-space, and above all the emanations of the Treasury of Light, and
-above all the confusion, <span id="fr_64"></span>[\*](#fn_63) and above
+above all the confusion, <span id="fr_64"></span>[\*](#fn_63.md) and above
 every region of the Treasure of Light; he is a man in the world, but he
 shall reign with me (230) in my kingdom; he is a man in the world, but
 he shall be a king in the Light; he is a man in the world, but he is not
@@ -254,7 +254,7 @@ of the world; and verily I say unto you, that man is *I*, and I am *that
 man;* and in the dissolution of the world, when the universe shall be
 raised up, and all the number of perfect souls shall be raised up, and I
 am made king over all the offspring of the Light, and when I am made
-king over the seven ΑΜΗΝ, <span id="fr_65"></span>[†](#fn_64) and the
+king over the seven ΑΜΗΝ, <span id="fr_65"></span>[†](#fn_64.md) and the
 Five Trees, and the Three ΑΜΗΝ, and the Nine Keepers; and when I am king
 over the Boy of the boy which be the Twin Saviours, and over the Twelve
 Saviours, and over all the number of perfect souls which have received
@@ -344,7 +344,7 @@ not give-in any declaration, or defence, or symbol, token (password),
 but shall pass through all, that he may come and reign over all the
 places belonging to the First Saviour. In the like manner he that hath
 received the Second Mystery and the Third and Fourth up to the
-Twelfth <span id="fr_66"></span>[\*](#fn_65) (235), that soul likewise
+Twelfth <span id="fr_66"></span>[\*](#fn_65) (235.md), that soul likewise
 shall pass through all the regions without giving in his defence, or
 token, and shall come and reign over all the places belonging to the
 Twelve Saviours. And in like manner those receiving the second mystery
@@ -370,7 +370,7 @@ Mystery, he that shall perform the same rightly in all the forms
 thereof, if he speak it over the head of a man departing out of the
 body, and *into his two ears*, that man departing out of the body when
 he hath received the mystery a second time, and been made partaker of
-the *Word of Truth*, <span id="fr_67"></span>[†](#fn_66) that man's soul
+the *Word of Truth*, <span id="fr_67"></span>[†](#fn_66.md) that man's soul
 shall become, when it leaveth the body, a great flood of light, so as to
 traverse all the regions until it cometh into the kingdom of that
 mystery. But and if
@@ -388,7 +388,7 @@ of the Ineffable which goeth along with it. And they shall hasten to
 deliver that soul one to the other, and shall guide it Course after
 Course, and place (239) after place, until they bring it before the
 Virgin of Light: for all the regions shall fear the mystery and the
-*Mark* <span id="fr_68"></span>[\*](#fn_67) of the kingdom of the
+*Mark* <span id="fr_68"></span>[\*](#fn_67.md) of the kingdom of the
 Ineffable One that is with it.
 
 And when they have brought the soul unto the Virgin of Light, she shall
@@ -409,7 +409,7 @@ As touching the Third Mystery: the man that hath performed the same duly
 in all the forms thereof and shall *name* that mystery over the head of
 one departing out of the body whether he be living or *dead, or abiding
 in the midst of the torments of the Rulers*, <span
-id="fr_69"></span>[†](#fn_68) and their different fires, they shall make
+id="fr_69"></span>[†](#fn_68.md) and their different fires, they shall make
 haste to release
 
 <span id="page_152">p. 152</span>
@@ -428,7 +428,7 @@ the years of this world is one year of light? Jesus answered, One day of
 light is one thousand years of this world, wherefore thirty and six
 myriads and a half of the years of the world make one year of light. I
 shall therefore reign a thousand years of light, being king in the
-middle of the last *Parastates*, <span id="fr_70"></span>[\*](#fn_69)
+middle of the last *Parastates*, <span id="fr_70"></span>[\*](#fn_69.md)
 being king over all the offspring of light, and over all the number of
 perfect souls that have received the mysteries of light. And ye, my
 disciples, and each one that hath received the mysteries of the
@@ -533,7 +533,7 @@ The subject will find its most appropriate conclusion in the
 
 list of "Degrees" to be taken in the Mysteries, as laid down by M.
 Lajard, in his elaborate treatise, 'Le Culte de Mithra,' <span
-id="fr_71"></span>[\*](#fn_70) These degrees were divided into four
+id="fr_71"></span>[\*](#fn_70.md) These degrees were divided into four
 stages, Terrestrial, Aerial, Igneous, and Divine, each consisting of
 three. The Terrestrial comprised the Soldier, the Lion, the Bull. The
 Aerial, the Vulture, the Ostrich, the Raven. The Igneous, the Gryphon,
@@ -551,10 +551,10 @@ crescent, to show the hermaphrodite nature of Mylitta!
 
  
 
-<span id="img_fig05"></span> ![FIG. 5.](img/fig05.jpg)  
+<span id="img_fig05"></span> ![FIG. 5.](img/fig05.jpg.md)  
 FIG. 5.
 
-[(\*)](gar71.htm#an_fig05)
+[(\*)](gar71.htm#an_fig05.md)
 
  
 
@@ -562,61 +562,61 @@ FIG. 5.
 
 ### Footnotes
 
-<span id="fn_54"></span>[141:\*](gar21.htm#fr_55) The Cabiri,
+<span id="fn_54"></span>[141:\*](gar21.htm#fr_55.md) The Cabiri,
 "punishers," of the ancient mythology, performing their former duties
 under the new dispensation.
 
-<span id="fn_55"></span>[142:\*](gar21.htm#fr_56) Ἀντιμῖμον Πνεύματος,
+<span id="fn_55"></span>[142:\*](gar21.htm#fr_56.md) Ἀντιμῖμον Πνεύματος,
 one of the four component parts of the soul; equivalent apparently to
 our "Conscience."
 
-<span id="fn_56"></span>[142:†](gar21.htm#fr_57) A clear allusion to the
+<span id="fn_56"></span>[142:†](gar21.htm#fr_57.md) A clear allusion to the
 Mithraic "torture of the fire."
 
-<span id="fn_57"></span>[142:‡](gar21.htm#fr_58)The particle of the
-Godhead mixed up in the quadruple [composition](errata.htm#5) of the
+<span id="fn_57"></span>[142:‡](gar21.htm#fr_58.md)The particle of the
+Godhead mixed up in the quadruple [composition](errata.htm#5.md) of the
 Inner Man.
 
-<span id="fn_58"></span>[144:\*](gar21.htm#fr_59) This is the doctrine
+<span id="fn_58"></span>[144:\*](gar21.htm#fr_59.md) This is the doctrine
 that "knowledge" renders all actions free from
-[sinfulness](errata.htm#6)--as held by the Simonians.
+[sinfulness](errata.htm#6.md)--as held by the Simonians.
 
-<span id="fn_59"></span>[145:\*](gar21.htm#fr_60) This term is borrowed
+<span id="fn_59"></span>[145:\*](gar21.htm#fr_60.md) This term is borrowed
 from the ancient Gates of the Amenti.
 
-<span id="fn_60"></span>[145:†](gar21.htm#fr_61) The lost place,
+<span id="fn_60"></span>[145:†](gar21.htm#fr_61.md) The lost place,
 answering to the Limbo of the mediæval Hell.
 
-<span id="fn_61"></span>[146:\*](gar21.htm#fr_62) That is, have occupied
+<span id="fn_61"></span>[146:\*](gar21.htm#fr_62.md) That is, have occupied
 the body for the first time; not souls that after punishment for their
 sins in this life, have been placed again in bodies to undergo a second
 probation upon earth.
 
-<span id="fn_62"></span>[146:†](gar21.htm#fr_63) All this is borrowed
+<span id="fn_62"></span>[146:†](gar21.htm#fr_63.md) All this is borrowed
 from the Egyptian "Ritual of the Dead," concerning the soul's passage on
 its way to the palace of Osiris Socharis, "the Occidental," through the
 One-and-twenty Gates , each guarded by its own Genius, and each
 requiring a separate address.
 
-<span id="fn_63"></span>[147:\*](gar21.htm#fr_64) The Creation of the
+<span id="fn_63"></span>[147:\*](gar21.htm#fr_64.md) The Creation of the
 Demiurgus, in which the Particle of the Godhead is *mixed up* and lost
 in the heap of Matter.
 
-<span id="fn_64"></span>[147:†](gar21.htm#fr_65) Title probably borrowed
+<span id="fn_64"></span>[147:†](gar21.htm#fr_65.md) Title probably borrowed
 from the former *Amenti*, the four sons of Osiris, and keepers of
 Elysium.
 
-<span id="fn_65"></span>[150:\*](gar21.htm#fr_66) This gradation seems
+<span id="fn_65"></span>[150:\*](gar21.htm#fr_66.md) This gradation seems
 borrowed from the twelve degrees in the Mithraic initiation.
 
-<span id="fn_66"></span>[150:†](gar21.htm#fr_67) This is what Epiphanies
+<span id="fn_66"></span>[150:†](gar21.htm#fr_67.md) This is what Epiphanies
 relates of the practice of the Heracleonites of communicating the
 pass-word to the ear of the dying man.
 
-<span id="fn_67"></span>[151:\*](gar21.htm#fr_68) It has the impression
+<span id="fn_67"></span>[151:\*](gar21.htm#fr_68.md) It has the impression
 of the royal seal stamped upon it.
 
-<span id="fn_68"></span>[151:†](gar21.htm#fr_69) Here we have the first
+<span id="fn_68"></span>[151:†](gar21.htm#fr_69.md) Here we have the first
 hint of masses performed for the dead. A similar idea is involved in the
 practice mentioned by St. Paul of being "baptized for the sake of
 deceased persons." A singular Italian usage alluded to by Dante in his
@@ -625,11 +625,11 @@ to appease the manes. A homicide who had eaten sops in wine upon the
 grave of the slain man was thereby freed from the *vendetta* of the
 family.--(Purgat. xxxiii. 35.)
 
-<span id="fn_69"></span>[152:\*](gar21.htm#fr_70) The deity whose place
+<span id="fn_69"></span>[152:\*](gar21.htm#fr_70.md) The deity whose place
 is next to the Supreme Light; to judge from the primary sense of the
 word.
 
-<span id="fn_70"></span>[155:\*](gar21.htm#fr_71) Lajard discovers upon
+<span id="fn_70"></span>[155:\*](gar21.htm#fr_71.md) Lajard discovers upon
 the Babylonian cylinders representations of admission to the several
 degrees, of which they were given, as certificate to the initiated: and
 accounts for their enormous extant numbers by the supposition that every
@@ -640,4 +640,4 @@ struggling for life.
 
 ------------------------------------------------------------------------
 
-[Next: St. Augustine on Gnosticism](gar22)
+[Next: St. Augustine on Gnosticism](gar22.md)

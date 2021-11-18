@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](hif04)  [Next](hif06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](hif04)  [Next](hif06.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Dr. Paul Schliemann's story follows:
 ------------------------------------------------------------------------
 
 [Next: How I Found the Lost Atlantis, The Source of All
-Civilization](hif06)
+Civilization](hif06.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ssm07)  [Next](ssm09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ssm07)  [Next](ssm09.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,7 +131,7 @@ Fig. 2. A subsequent change made by the Nagas.
 <span id="img_12200"></span>
 
 [![](tn/12200.jpg)  
-Click to enlarge](img/12200.jpg)
+Click to enlarge](img/12200.jpg.md)
 
  
 
@@ -349,7 +349,7 @@ earth today that has not been under water several times-thus each time
 it was emersed it was resurrected.
 
 <span id="img_13000"></span> ![&lt;I&gt;The
-Tau&lt;/I&gt;](img/13000.jpg)  
+Tau&lt;/I&gt;](img/13000.jpg.md)  
 *The Tau*
 
 The name today is as it was in the Motherland--Tau; it was Tau then and
@@ -374,7 +374,7 @@ resurrected.
 <span id="img_13100"></span>
 
 [![&lt;I&gt;Fig. A&lt;/I&gt;.](tn/13100.jpg)  
-Click to enlarge](img/13100.jpg)  
+Click to enlarge](img/13100.jpg.md)  
 *Fig. A*.  
 
 Fig. A: This is an example, showing how the Mayas often depicted the Tau
@@ -383,7 +383,7 @@ as a tree, with two branches bearing flowers and fruit.
 <span id="img_13101"></span>
 
 [![&lt;I&gt;Fig. B&lt;/I&gt;.](tn/13101.jpg)  
-Click to enlarge](img/13101.jpg)  
+Click to enlarge](img/13101.jpg.md)  
 *Fig. B*.  
 
 Fig. B: This vignette comes from the Troano MS. It describes the arrival
@@ -397,7 +397,7 @@ I give now three cuts that show the Tau symbolizing emersion.
 
 [![&lt;I&gt;The Emersion of Mu and the Advent of Man on
 Earth&lt;/I&gt;](tn/13200.jpg)  
-Click to enlarge](img/13200.jpg)  
+Click to enlarge](img/13200.jpg.md)  
 *The Emersion of Mu and the Advent of Man on Earth*  
 
 Sacred Writings: This is a vignette from the Sacred Inspired Writings
@@ -416,14 +416,14 @@ Naga Vignette: Children of Mu leaving the Motherland
 
 [![&lt;I&gt;Children Of Mu leaving the Motherland by
 water&lt;/I&gt;](tn/13300.jpg)  
-Click to enlarge](img/13300.jpg)  
+Click to enlarge](img/13300.jpg.md)  
 *Children Of Mu leaving the Motherland by water*  
 
 <span id="img_13301"></span>
 
 [![&lt;I&gt;Children of Mu leaving the Motherland by air and by
 water&lt;/I&gt;](tn/13301.jpg)  
-Click to enlarge](img/13301.jpg)  
+Click to enlarge](img/13301.jpg.md)  
 *Children of Mu leaving the Motherland by air and by water*  
 
  
@@ -464,7 +464,7 @@ glyph,
 
 [![&lt;I&gt;Group of Niven's Mexican Tablets showing the Two-sided
 Square&lt;/I&gt;](tn/13500.jpg)  
-Click to enlarge](img/13500.jpg)  
+Click to enlarge](img/13500.jpg.md)  
 *Group of Niven's Mexican Tablets showing the Two-sided Square*  
 
  
@@ -505,7 +505,7 @@ and
 <span id="img_13700"></span>
 
 [![](tn/13700.jpg)  
-Click to enlarge](img/13700.jpg)
+Click to enlarge](img/13700.jpg.md)
 
 The Great Hall of Truth or Judgment Seat of Osiris. Left to right:
 Osiris in judgment chair. A leopard skin, his banner. Four genii over
@@ -588,7 +588,7 @@ symbol. The oldest record of it that I have is in the Cosmogonic Diagram
 of the Motherland which is the mother of all cosmogonic
 
 <span id="img_14000"></span> ![&lt;I&gt;The Divine Hennu
-Boat&lt;/I&gt;](img/14000.jpg)  
+Boat&lt;/I&gt;](img/14000.jpg.md)  
 *The Divine Hennu Boat*
 
 The flight of the soul to the region of incarnation. The deceased
@@ -647,7 +647,7 @@ In Egypt, however, we find more extensive information
 <span id="img_14200"></span>
 
 [![&lt;I&gt;The Feather Symbol of Truth&lt;/I&gt;](tn/14200.jpg)  
-Click to enlarge](img/14200.jpg)  
+Click to enlarge](img/14200.jpg.md)  
 *The Feather Symbol of Truth*  
 
  
@@ -688,7 +688,7 @@ pair as they were erected 20,000 years ago.
 <span id="img_14400"></span>
 
 [![&lt;I&gt;A Pair of Ancient Pillars&lt;/I&gt;](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 *A Pair of Ancient Pillars*  
 
  
@@ -703,7 +703,7 @@ established, built up, and by extension, finished, accomplished,
 dependent on how and where used. Both pillars were in
 
 <span id="img_14502"></span> ![&lt;I&gt;Pillar
-Cross&lt;/I&gt;](img/14502.jpg)  
+Cross&lt;/I&gt;](img/14502.jpg.md)  
 *Pillar Cross*
 
 four sections, to correspond with the Four Great Primary Forces, the
@@ -723,7 +723,7 @@ id="img_14602"></span> ![](img/14602.jpg) establish. Thus, this cross
 reads "The Pillars have been established in strength."
 
 <span id="img_14603"></span> ![&lt;I&gt;Temple Porch with Two
-Pillars&lt;/I&gt;](img/14603.jpg)  
+Pillars&lt;/I&gt;](img/14603.jpg.md)  
 *Temple Porch with Two Pillars*
 
 Temple Porch with two Pillars: Niven's Mexican Stone Tablet No. 50, over
@@ -770,7 +770,7 @@ them and the Western Line
 <span id="img_14800"></span>
 
 [![&lt;I&gt;Egyptian Pillars&lt;/I&gt;](tn/14800.jpg)  
-Click to enlarge](img/14800.jpg)  
+Click to enlarge](img/14800.jpg.md)  
 *Egyptian Pillars*  
 
  
@@ -818,7 +818,7 @@ of Truth, two pillars were
 
 [![&lt;I&gt;Entrance to Tattu in Amenti (Egyptian) Showing the Two
 Symbolic Pillars&lt;/I&gt;](tn/15000.jpg)  
-Click to enlarge](img/15000.jpg)  
+Click to enlarge](img/15000.jpg.md)  
 *Entrance to Tattu in Amenti (Egyptian) Showing the Two Symbolic
 Pillars*  
 
@@ -890,7 +890,7 @@ hieratic
 <span id="img_15300"></span>
 
 [![&lt;I&gt;Eight Roads to Heaven&lt;/I&gt;](tn/15300.jpg)  
-Click to enlarge](img/15300.jpg)  
+Click to enlarge](img/15300.jpg.md)  
 *Eight Roads to Heaven*  
 
  
@@ -930,7 +930,7 @@ of the \[paragraph continues\]
 
 [![&lt;I&gt;The Roadway of the Soul&lt;BR&gt; Courtesy of Mrs. M. U. L.
 Hudson&lt;/I&gt;](tn/15500.jpg)  
-Click to enlarge](img/15500.jpg)  
+Click to enlarge](img/15500.jpg.md)  
 *The Roadway of the Soul  
 Courtesy of Mrs. M. U. L. Hudson*  
 
@@ -1058,7 +1058,7 @@ one, symbolizing a return. \[paragraph continues\]
 <span id="img_15900"></span>
 
 [![&lt;I&gt;The Tree and the Serpent&lt;/I&gt;](tn/15900.jpg)  
-Click to enlarge](img/15900.jpg)  
+Click to enlarge](img/15900.jpg.md)  
 *The Tree and the Serpent*  
 
  
@@ -1325,4 +1325,4 @@ carried down as an unlucky day for mankind.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Symbols Relating to Mu](ssm09)
+[Next: Chapter VI. Symbols Relating to Mu](ssm09.md)

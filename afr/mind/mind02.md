@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mind01)  [Next](mind03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mind01)  [Next](mind03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *At the Back of the Black Man's Mind*, by Richard Edward Dennett,
 \[1906\], at Intangible Textual Heritage
 
@@ -257,6 +257,6 @@ receive customs from the traders, and was in fact only king in name.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3. Coronation of a King in the Kongo](mind03)
+[Next: Chapter 3. Coronation of a King in the Kongo](mind03.md)
 
 </div>

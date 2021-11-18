@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai32)  [Next](iai34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai32)  [Next](iai34.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ And shakes with horror all the dismal floors;
 A wail upon the breeze through space doth fly,  
 And howling gales sweep madly through the sky;  
 Through all the universe there speeds a pang  
-Of travail. Mam-nu-tu <span id="fr_234"></span>[1](#fn_232) appalled
+Of travail. Mam-nu-tu <span id="fr_234"></span>[1](#fn_232.md) appalled
 doth hang
 
 <span id="page_94">p. 94</span>
@@ -70,7 +70,7 @@ Oh, weep with me dear plants, and flowers, and trees!
 Alas! my beauty fading now will die!  
 Oh, weep, ye stars, for me in every sky!  
 Oh, Samas, hide thy face! I am undone!  
-Oh, weep with me Ur-ru, <span id="fr_235"></span>[2](#fn_233) my
+Oh, weep with me Ur-ru, <span id="fr_235"></span>[2](#fn_233.md) my
 precious son.  
 Let all your notes of joy, my birds, be stilled;  
 Your mother's heart with dread despair is filled:
@@ -118,11 +118,11 @@ To all the gods their wild petitions send.
 
 ### Footnotes
 
-<span id="fn_232"></span>[93:1](iai33.htm#fr_234) "Mam-nu-tu," goddess
+<span id="fn_232"></span>[93:1](iai33.htm#fr_234.md) "Mam-nu-tu," goddess
 of fate.
 
-<span id="fn_233"></span>[94:2](iai33.htm#fr_235) "Ur-ru," the moon-god.
+<span id="fn_233"></span>[94:2](iai33.htm#fr_235.md) "Ur-ru," the moon-god.
 
 ------------------------------------------------------------------------
 
-[Next: Column III. Papsukul Intercedes for Ishtar.](iai34)
+[Next: Column III. Papsukul Intercedes for Ishtar.](iai34.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt17)  [Next](pyt19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt17)  [Next](pyt19.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ portion of his meat.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Miscellaneous Utterances on the Hereafter, 350-374](pyt19)
+[Next: 16. Miscellaneous Utterances on the Hereafter, 350-374](pyt19.md)

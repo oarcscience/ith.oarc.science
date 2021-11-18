@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico041) 
-[Next](nico043) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico041.md) 
+[Next](nico043.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ displayed in jests, the other in the general social intercourse of life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9. Shame, bashfulness, shamelessness](nico043)
+[Next: Chapter 9. Shame, bashfulness, shamelessness](nico043.md)

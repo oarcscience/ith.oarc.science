@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi036)  [Next](mtsi038) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi036)  [Next](mtsi038.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ and terrapins have ever since then had checkered backs.
 ------------------------------------------------------------------------
 
 [Next: 36. How the Terrapin's Back Came to be in Checks (Second
-Version)](mtsi038)
+Version)](mtsi038.md)

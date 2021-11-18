@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre47)  [Next](gre49) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre47)  [Next](gre49.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ winter.
 ------------------------------------------------------------------------
 
 [Next: Chapter XLIV: The Suit for the Slaying of the Sons of Thorir of
-the Pass.](gre49)
+the Pass.](gre49.md)

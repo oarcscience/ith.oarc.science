@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod02)  [Next](ebod04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod02)  [Next](ebod04.md) 
 
 ------------------------------------------------------------------------
 
@@ -2409,4 +2409,4 @@ coarse linen in which they were swathed.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of Osiris.](ebod04)
+[Next: The Legend Of Osiris.](ebod04.md)

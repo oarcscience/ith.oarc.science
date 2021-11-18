@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic10)  [Next](tic12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic10)  [Next](tic12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ are occasionally connected with the passions. These feelings of devotion
 produce fits of sobbing; I have even heard that sometimes they cause a
 compression of the chest, and uncontrollable exterior motions violent
 enough to cause bleeding at the nose and other painful effects. <span
-id="fr_123"></span>[1](#fn_123)
+id="fr_123"></span>[1](#fn_123.md)
 
 2\. I can say nothing about this, never having experienced anything of
 the kind myself; but there appears some cause for comfort in it,
@@ -53,7 +53,7 @@ will understand who, by the mercy of God, have experienced them.
 3\. To make the matter clearer, let us imagine we see two fountains with
 basins which fill with water. I can find no simile more appropriate than
 water by which to explain spiritual things, as I am very ignorant and
-have poor wits to help me. <span id="fr_124"></span>[2](#fn_124)
+have poor wits to help me. <span id="fr_124"></span>[2](#fn_124.md)
 Besides, I love this element so much that I have studied it more
 attentively than other things. God, Who is so great, so wise, has
 doubtless hidden secrets in all things He created, which we should
@@ -77,7 +77,7 @@ created things, and by the labour of
 
 our minds; in short, it is the result of our endeavours, and so makes
 the commotion I spoke of, while profiting the soul. <span
-id="fr_125"></span>[3](#fn_125) The other fountain, like divine
+id="fr_125"></span>[3](#fn_125.md) The other fountain, like divine
 consolations, receives the water from the source itself, which signifies
 God: as usual, when His Majesty wills to bestow on us any supernatural
 favours, we experience the greatest peace, calm, and sweetness in the
@@ -90,7 +90,7 @@ Therefore, I say it arises from God and ends in ourselves, for whoever
 experiences it will find that the whole physical part of our nature
 shares in this delight and sweetness. While writing this I have been
 thinking that the verse 'Dilatasti cor meum,' 'Thou hast dilated my
-heart,' <span id="fr_126"></span>[4](#fn_126) declares that the heart is
+heart,' <span id="fr_126"></span>[4](#fn_126.md) declares that the heart is
 dilated. This joy does not appear to me to originate in the heart, but
 in some more interior part and, as it were, in the depths of our being.
 I think this must be the centre of the soul, as I have since learnt and
@@ -106,7 +106,7 @@ of
 which we know naught. I say 'comparatively nothing' in proportion with
 all the secrets hidden within Thee, yet how great are Thy mysteries that
 we are acquainted with and can learn even by the study of such of Thy
-works as we see! <span id="fr_127"></span>[5](#fn_127)
+works as we see! <span id="fr_127"></span>[5](#fn_127.md)
 
 6\. To return to the verse I quoted, which may help to explain the
 dilation begun by the celestial waters in the depths of our being. They
@@ -126,7 +126,7 @@ does not arise from the base coin of human nature, but from the most
 pure gold of Divine Wisdom. I believe that in this case the powers of
 the soul are not united to God, but are absorbed and astounded at the
 marvel before them. I may possibly be contradicting what I wrote
-elsewhere; <span id="fr_128"></span>[6](#fn_128) nor would
+elsewhere; <span id="fr_128"></span>[6](#fn_128.md) nor would
 
 <span id="page_102">p. 102</span>
 
@@ -153,12 +153,12 @@ enquire.
 
 8\. Practise what I advised in the preceding mansions, then--humility,
 humility! for God lets Himself be vanquished by this and grants us all
-we ask. <span id="fr_129"></span>[7](#fn_129)
+we ask. <span id="fr_129"></span>[7](#fn_129.md)
 
 <span id="page_103">p. 103</span>
 
 <span class="contnote">\[paragraph continues\]</span> The first
-proof <span id="fr_130"></span>[8](#fn_130) that you possess humility is
+proof <span id="fr_130"></span>[8](#fn_130.md) that you possess humility is
 that you neither think you now deserve these graces and consolations
 from God, nor that you ever will as long as you live. You ask me: 'How
 shall we receive them, if we do not try to gain them?' I answer, that
@@ -198,25 +198,25 @@ praised and blessed! Amen.
 
 ### Footnotes
 
-<span id="fn_123"></span>[98:1](tic11.htm#fr_123) 'A clear description
+<span id="fn_123"></span>[98:1](tic11.htm#fr_123.md) 'A clear description
 of an attack of hysteria with the significant remark that she herself
 had never experienced anything of the kind'. (Dr. Goix, quoted by P.
 Grégoire, *La prétendue hystérie de Sainte Thérèse*, Lyon, Vitte, 1895,
 p. 53.)
 
-<span id="fn_124"></span>[99:2](tic11.htm#fr_124) *Way of Perf*. ch.
+<span id="fn_124"></span>[99:2](tic11.htm#fr_124.md) *Way of Perf*. ch.
 xix. 5; also St. John of the Cross, *Ascent of Mount Carmel*, bk. ii,
 ch. xiv, 2, and xxi. 3.
 
-<span id="fn_125"></span>[100:3](tic11.htm#fr_125) *Life*, ch. x. 2.
+<span id="fn_125"></span>[100:3](tic11.htm#fr_125.md) *Life*, ch. x. 2.
 
-<span id="fn_126"></span>[100:4](tic11.htm#fr_126) Ps. cxviii. 32.
+<span id="fn_126"></span>[100:4](tic11.htm#fr_126.md) Ps. cxviii. 32.
 *Life*, ch. xvii. 14,
 
-<span id="fn_127"></span>[101:5](tic11.htm#fr_127) *Life*, ch. xiv. 9.
+<span id="fn_127"></span>[101:5](tic11.htm#fr_127.md) *Life*, ch. xiv. 9.
 *Way of Perf.* ch. xxviii. 11.
 
-<span id="fn_128"></span>[101:6](tic11.htm#fr_128) *Life*, ch. xiv. 3:
+<span id="fn_128"></span>[101:6](tic11.htm#fr_128.md) *Life*, ch. xiv. 3:
 'The faculties are not lost, neither are they asleep; the will alone is
 occupied in such a way that without knowing how it has become a captive
 it gives a simple consent to become the prisoner <span id="page_102">p.
@@ -225,12 +225,12 @@ that it may render itself capable of the fruition of so great a good;
 nevertheless, it occasionally happens even when the will is in union
 that they hinder it very much.' See also *Way of Perf*. ch. xxxi. 8.
 
-<span id="fn_129"></span>[102:7](tic11.htm#fr_129) *Way of Perf*. ch.
+<span id="fn_129"></span>[102:7](tic11.htm#fr_129.md) *Way of Perf*. ch.
 xvi. i. *Life*, ch. xxii. 16.
 
-<span id="fn_130"></span>[103:8](tic11.htm#fr_130) Philippus a SS.
+<span id="fn_130"></span>[103:8](tic11.htm#fr_130.md) Philippus a SS.
 Trinitate, *l.c.* art. 3.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Prayer of Quiet](tic12)
+[Next: Chapter III. Prayer of Quiet](tic12.md)

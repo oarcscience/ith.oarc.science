@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ with diacritics have been mapped to the closest ASCII character (*e.g.*
 Sûfî is transliterated Sufi). Greek letters have also been eliminated,
 and (the two) words in Greek in the original are enclosed in French
 quotes («»). All references to the 'Koran' in the text have been linked
-to the [Pickthall English Version of the Qur'an](../pick/index) at this
+to the [Pickthall English Version of the Qur'an](../pick/index.md) at this
 site. Many of the verse references given by Nicholson are one or two off
 from Pickthall and other translations; the hyperlinks have been adjusted
 but the original citation retained in these instances.\]
@@ -579,10 +579,10 @@ the light of the heavens and the earth, a Being who works in the world
 and in the soul of man.
 
 > "If My servants ask thee about Me, lo, I am near" ([Kor.
-> 2.182](../pick/002.htm#002_186)); "We (God) are nearer to him than his
-> own neck-vein" ([50.15](../pick/050.htm#050_016)); "And in the earth
+> 2.182](../pick/002.htm#002_186)); "We (God.md) are nearer to him than his
+> own neck-vein" ([50.15](../pick/050.htm#050_016).md); "And in the earth
 > are signs to those of real faith, and in yourselves. What! do ye not
-> see?" ([51.20-21](../pick/051.htm#051_020)).
+> see?" ([51.20-21](../pick/051.htm#051_020).md).
 
 It was a long time ere they saw. The Moslem consciousness, haunted by
 terrible visions of the wrath to come, slowly and painfully awoke to the
@@ -1391,7 +1391,7 @@ splendour, the mystic rises to contemplation of the divine attributes,
 and ultimately, when his consciousness is wholly melted away, he becomes
 transubstantiated (*tajawhara*) in the radiance of the divine essence.
 This is the 'station' of well-doing (*ihsan*)--for "God is with the
-well-doers" ([Kor. 29.69](../pick/029.htm#029_069)), and we have
+well-doers" ([Kor. 29.69](../pick/029.htm#029_069).md), and we have
 
 <span id="54"><span class="small">{p. 54}</span></span>
 
@@ -1455,7 +1455,7 @@ Here are two passages from the oldest Persian treatise on Sufism, the
 > When the lover turns his eye away from created things, he will
 > inevitably see the Creator with his heart. God hath said, 'Tell the
 > believers to close their eyes' ([Kor.
-> 24.30](../pick/024.htm#024_030)), *i.e.* to close their bodily eyes to
+> 24.30](../pick/024.htm#024_030).md), *i.e.* to close their bodily eyes to
 > lusts and their spiritual eyes to created things. He who is most
 > sincere in self-mortification is most firmly grounded in
 > contemplation. Sahl ibn ‘Abdallah of Tustar said: 'If any one shuts
@@ -1558,7 +1558,7 @@ The Mohammedan theory of ecstasy, however can hardly be discussed
 without reference to two of the above-mentioned technical expressions,
 namely, *fana* and *sama‘*.
 
-As I have remarked in the Introduction ([pp. 17-19](#17)), the term
+As I have remarked in the Introduction ([pp. 17-19](#17).md), the term
 *fana* includes different stages, aspects, and meanings. These may be
 summarised as follows:
 
@@ -1828,7 +1828,7 @@ all its sensual contaminations, has been wholly cleared away. The
 clearance, if it is to be done effectively, must be the work of God,
 though it demands a certain inward co-operation on the part of man.
 "Whosoever shall strive for Our sake, We will guide him into Our ways"
-([Kor. 29.69](../pick/029.htm#029_069)). Action is false and vain, if it
+([Kor. 29.69](../pick/029.htm#029_069).md). Action is false and vain, if it
 is thought to proceed from one's self, but the enlightened mystic
 regards God as the real agent in every act, and therefore takes no
 credit for his good works nor desires to be recompensed for them.
@@ -2083,7 +2083,7 @@ even in gnosis a small trace of duality remains: this disappears only in
 The cardinal attribute of God is unity, and the divine unity is the
 first and last principle of gnosis. <span class="small">{According to
 some mystics, the gnosis of unity constitutes a higher stage which is
-called 'the Truth' (*haqiqat*). See above, [p. 29](#29).}</span>
+called 'the Truth' (*haqiqat*). See above, [p. 29](#29.md).}</span>
 
 Both Moslem and Sufi declare that God is One, but the statement bears a
 different meaning in each instance. The Moslem means that God is unique
@@ -2318,7 +2318,7 @@ one real object of worship.
 > you will lose much good, nay, you will fail to recognise the real
 > truth of the matter. God, the omnipresent and omnipotent, is not
 > limited by any one creed, for He says ([Kor.
-> 2.109](../pick/002.htm#002_115)), 'Wheresoever ye turn, there is the
+> 2.109](../pick/002.htm#002_115).md), 'Wheresoever ye turn, there is the
 > face of Allah.' Every one praises what he believes; his god is his own
 > creature, and in praising it he praises himself. Consequently he
 > blames the beliefs of others, which he would not do if he were just,
@@ -2587,7 +2587,7 @@ moral feeling is worth any amount of accurate thinking.
 It is evident that the doctrine of divine unity implies predestination.
 Where God is and naught beside Him, there can be no other agent than He,
 no act but His. "Thou didst not throw, when thou threwest, but God
-threw" ([Kor. 8.17](../pick/008.htm#008_017)). Compulsion is felt only
+threw" ([Kor. 8.17](../pick/008.htm#008_017).md). Compulsion is felt only
 by those who do not love. To know God is to love Him; and the gnostic
 may answer, like the dervish who was asked how he fared:
 
@@ -3245,7 +3245,7 @@ over by the Sufis and became the ordinary designation of persons whose
 holiness brings them near to God, and who receive from Him, as tokens of
 His peculiar favour, miraculous gifts (*karamat*, *«charísmata»*); they
 are His friends, on whom "no fear shall come and they shall not grieve"
-<span class="small">{[Kor. 10.63](../pick/010.htm#010_062)}</span>; any
+<span class="small">{[Kor. 10.63](../pick/010.htm#010_062.md)}</span>; any
 injury done to them is an act of hostility against Him.
 
 The inspiration of the Islamic saints, though verbally distinguished
@@ -3372,7 +3372,7 @@ saints and the rapid growth of saint-worship tended to aggrandise the
 divinely gifted man can do no wrong, or at least that his actions must
 not be judged by appearances. The classical instance of this *jus
 divinum* vested in the friends of God is the story of Moses and Khadir,
-which is related in the Koran ([18.64-80](../pick/018.htm#018_065)).
+which is related in the Koran ([18.64-80](../pick/018.htm#018_065).md).
 Khadir or Khizr--the Koran does not mention him by name
 
 <span id="128"><span class="small">{p. 128}</span></span>
@@ -3939,7 +3939,7 @@ interpretations offered at a later epoch by Sufis belonging to various
 schools. According to Hallaj, man is essentially divine. God created
 Adam in His own image. He projected from Himself that image of His
 eternal love, that He might behold Himself as in a mirror. Hence He bade
-the angels worship Adam ([Kor. 2.32](../pick/002.htm#002_034)), in whom,
+the angels worship Adam ([Kor. 2.32](../pick/002.htm#002_034).md), in whom,
 as in Jesus, He became incarnate.
 
       "Glory to Him who revealed in His humanity (i.e. in Adam)
@@ -4006,7 +4006,7 @@ is God.
 It was not Hallaj who cried "*Ana ’l-Haqq*," but God Himself, speaking,
 as it were, by the mouth of the selfless Hallaj, just as He spoke to
 Moses through the medium of the burning bush ([Kor.
-20.8-14](../pick/020.htm#020_009)).
+20.8-14](../pick/020.htm#020_009).md).
 
 The last explanation, which converts *Ana ’l-Haqq* into an impersonal
 monistic axiom, is accepted by most Sufis as representing the true
@@ -4064,7 +4064,7 @@ in such a way that no mysticism calling itself Mohammedan could
 tolerate, much less adopt it. To assert that the divine and human
 natures may be interfused and commingled <span class="small">{*Hulul*
 was not understood in this sense by Hallaj (Massignon, *op. cit.*, p.
-199), though the verses quoted on [p. 151](#151) readily suggest such an
+199), though the verses quoted on [p. 151](#151.md) readily suggest such an
 interpretation. Hallaj, I think, would have agreed with Eckhart (who
 said, "The word *I am* none can truly speak but God alone") that the
 personality in which the Eternal is immanent has itself a part in
@@ -4073,7 +4073,7 @@ have been to deny the principle of unity on which Islam is based. The
 subsequent history of Sufism shows how deification was identified with
 unification. The antithesis--God, Man--melted away in the pantheistic
 theory which has been explained above <span class="small">{see [pp. 79
-ff.](#79)}</span>. There is no real existence apart from God. Man is an
+ff.](#79.md)}</span>. There is no real existence apart from God. Man is an
 emanation or a reflexion or a mode of Absolute Being. What he thinks of
 as individuality is in truth not-being; it cannot be separated or
 united, for it does not exist. Man *is* God, yet with
@@ -4100,7 +4100,7 @@ partly in my own words and partly by means of illustrative extracts from
 various authors.
 
 Several aspects of *fana* have already been distinguished <span
-class="small">{See [pp. 60, 61](#60).}</span>. The highest of these--the
+class="small">{See [pp. 60, 61](#60.md).}</span>. The highest of these--the
 passing-away in the divine essence--is fully described by Niffari, who
 employs instead of *fana* and *fani* (self-naughted) the terms
 
@@ -4329,8 +4329,8 @@ The *second* begins at the moment when passing-away is succeeded by
 
 He who has attained to this station journeys in the Real, by the Real,
 to the Real, and he then is a reality (*haqq*) <span class="small">{See
-[p. 155](#155) above.}</span>. Thus travelling onward, he arrives at the
-station of the *Qutb* <span class="small">{See [p. 123](#123).}</span>,
+[p. 155](#155.md) above.}</span>. Thus travelling onward, he arrives at the
+station of the *Qutb* <span class="small">{See [p. 123](#123.md).}</span>,
 which is the station of Perfect Manhood. He becomes the centre of the
 spiritual universe, so that every point and limit reached by individual
 human beings is equally distant from his station, whether they be near

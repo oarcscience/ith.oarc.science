@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc63)  [Next](pjc65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc63)  [Next](pjc65.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -59,7 +59,7 @@ Joseph carried a box of ointment; but I do not know what this box was
 made of. The servants were to carry vases, leathern bottles, sponges,
 and tools, on a species of litter, and they likewise took fire with them
 in a closed lantern. They left the town before their master, and by a
-[different](errata.htm#1) gate (perhaps that of Bethania), and then
+[different](errata.htm#1) gate (perhaps that of Bethania.md), and then
 turned their steps towards Mount Calvary. As they walked through the
 town they passed by the house where the Blessed Virgin, St. John, and
 the holy women had gone to seek different things required for embalming
@@ -194,4 +194,4 @@ and love, stretched them forth to receive their precious burden.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LI. The Embalming of the Body of Jesus](pjc65)
+[Next: Chapter LI. The Embalming of the Body of Jesus](pjc65.md)

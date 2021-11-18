@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus04)  [Next](csus06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus04)  [Next](csus06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -118,13 +118,13 @@ acres of the old Seneca
 <span id="img_02800"></span>
 
 [![GRACE BEFORE MEAT—AMANA.](tn/02800.jpg)  
-Click to enlarge](img/02800.jpg)  
+Click to enlarge](img/02800.jpg.md)  
 GRACE BEFORE MEAT—AMANA.  
 
 <span id="img_02801"></span>
 
 [![SCHOOL-HOUSE—AMANA.](tn/02801.jpg)  
-Click to enlarge](img/02801.jpg)  
+Click to enlarge](img/02801.jpg.md)  
 SCHOOL-HOUSE—AMANA.  
 
 <span id="page_29">p. 29</span>
@@ -132,7 +132,7 @@ SCHOOL-HOUSE—AMANA.
 <span id="img_02900"></span>
 
 [![AMANA, A GENERAL VIEW.](tn/02900.jpg)  
-Click to enlarge](img/02900.jpg)  
+Click to enlarge](img/02900.jpg.md)  
 AMANA, A GENERAL VIEW.  
 
 <span class="contnote">\[paragraph continues\]</span> Indian reservation
@@ -227,4 +227,4 @@ organization in both.
 
 ------------------------------------------------------------------------
 
-[Next: III.—Amana—1874.](csus06)
+[Next: III.—Amana—1874.](csus06.md)

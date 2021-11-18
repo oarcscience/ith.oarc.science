@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste12)  [Next](ste14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste12)  [Next](ste14.md) 
 
 ------------------------------------------------------------------------
 
@@ -247,19 +247,19 @@ could not descend at their full
 <span id="img_10600"></span>
 
 [![Fig. 1](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)  
+Click to enlarge](img/10600.jpg.md)  
 Fig. 1  
 
 <span id="img_10601"></span>
 
 [![Fig. 2](tn/10601.jpg)  
-Click to enlarge](img/10601.jpg)  
+Click to enlarge](img/10601.jpg.md)  
 Fig. 2  
 
 <span id="img_10602"></span>
 
 [![Fig 3](tn/10602.jpg)  
-Click to enlarge](img/10602.jpg)  
+Click to enlarge](img/10602.jpg.md)  
 Fig 3  
 
  
@@ -284,8 +284,8 @@ is the main Chanel of the great Ocean, lying betwixt two Continents; and
 the inclining sides shew the declivity of the Shores.
 
 This we have represented here only in a Ring or Circle of the Earth, in
-the [first Figure](#img_10600); but it may be better represented in a
-broader surface, as in the [second Figure](#img_10601), where the two
+the [first Figure](#img_10600.md); but it may be better represented in a
+broader surface, as in the [second Figure](#img_10601.md), where the two
 fragments A. B. that are to make the two opposite Continents, fall in
 like double Doors opening downwards, the Hinges being towards the Land
 on either side, so as at the bottom they leave in the middle betwixt
@@ -309,7 +309,7 @@ descended broke off all the Edges and extremities, and so made
 innumerable ruptures and inequalities in the shores, and as many within
 the Sea and at the bottom; where the broken Rocks and lumps of Earth
 would lie in all imaginable disorder; as you may conceive from the
-[third Figure](#img_10602). For when the motion came on a sudden to be
+[third Figure](#img_10602.md). For when the motion came on a sudden to be
 obstructed, the load of the fragment still pressing it forwards, such a
 concussion arise as made thousands of lesser fragments, of all shapes
 and magnitudes, and in all postures and forms, and most of them
@@ -326,7 +326,7 @@ would depend only upon
 
 the situation of the secondary fragments; and so it might come to pass,
 that some places near the shore might be excessive deep when a Rock or
-Rocks stood in a steep posture, as ([Figure 3.](#img_10602)) b. b. b.
+Rocks stood in a steep posture, as ([Figure 3.](#img_10602).md) b. b. b.
 and, on the contrary, sometimes places much more advanc’d into the
 Ocean, might be less deep, where a fragment of Earth lay under water, or
 one bore up another, as c. c. c. but these cases would not be very
@@ -416,4 +416,4 @@ Sea-chanel and Islands, according to our *Hypothesis*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](ste14)
+[Next: Chapter XI](ste14.md)

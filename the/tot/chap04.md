@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Theosophy](../index)
-[Index](index) [Previous](chap03) [Next](chap05)
+[Intangible Textual Heritage](../../index) [Theosophy](../index.md)
+[Index](index) [Previous](chap03) [Next](chap05.md)
 
 ------------------------------------------------------------------------
 
@@ -324,4 +324,4 @@ highest animal and the lowest man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: The Constitution of Man](chap05)
+[Next: Chapter V: The Constitution of Man](chap05.md)

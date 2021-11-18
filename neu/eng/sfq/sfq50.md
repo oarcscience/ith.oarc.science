@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq49)  [Next](sfq51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq49)  [Next](sfq51.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,4 +169,4 @@ they came to the place where the tournament was to be held.
 ------------------------------------------------------------------------
 
 [Next: What befell on the First and Second Days of the
-Tournament](sfq51)
+Tournament](sfq51.md)

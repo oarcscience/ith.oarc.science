@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi089)  [Next](mtsi091) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi089)  [Next](mtsi091.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ ceased their contentions and went home.
 
 ------------------------------------------------------------------------
 
-[Next: 89. A Legend Recorded By Bartram](mtsi091)
+[Next: 89. A Legend Recorded By Bartram](mtsi091.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc38)  [Next](sfoc40) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc38)  [Next](sfoc40.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ account of its connection with the hunting ceremonies.
 
 ------------------------------------------------------------------------
 
-[Next: To Shoot Dwellers in the Wilderness](sfoc40)
+[Next: To Shoot Dwellers in the Wilderness](sfoc40.md)

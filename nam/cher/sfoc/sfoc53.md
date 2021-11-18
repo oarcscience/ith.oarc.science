@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc52)  [Next](sfoc54) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc52)  [Next](sfoc54.md) 
 
 ------------------------------------------------------------------------
 
@@ -232,4 +232,4 @@ more directness to their movements than would at first seem possible.
 ------------------------------------------------------------------------
 
 [Next: This Concerns the Ball Play--To Take Them to Water With
-it](sfoc54)
+it](sfoc54.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct05) [Next](bct07)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct05) [Next](bct07.md)
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ might act as the pilot thereof. And when the floods of waters mastered
 the children of Seth, and they began to drown in their great and mighty
 waves--then was fulfilled that which David spake concerning them,
 saying, "I said, Ye are gods, and all of you sons of the Most High.
-([Ps. lxxxii. 6](../../bib/kjv/psa.htm#82:6).) But since ye have done
+([Ps. lxxxii. 6](../../bib/kjv/psa.htm#82:6)..md) But since ye have done
 this, and ye have loved the fornication of the daughters of Cain, like
 them ye shall perish, and even as they did so shall ye die."
 
@@ -118,7 +118,7 @@ peoples through the waters of baptism.
 
    **\[**NOTES.--The above description of the Flood agrees substantially
 with that given in the *Book of Adam* (chapters ix and x), and in the
-*Book of the Bee* ([chapter xx](../bb/bb20)).**\]**
+*Book of the Bee* ([chapter xx](../bb/bb20).md).**\]**
 
 <span id="page_116">p. 116</span>
 
@@ -165,7 +165,7 @@ dried up in the 607th year of the life of Noah. The altar on which Noah
 sacrificed was that on which Adam, Cain, and Abel had laid their
 offerings; it had been damaged by the Flood, but Noah rebuilt it. The
 city of Themânôn is îdentified with Sûbhâ (*i.e.* Ni<u>s</u>îbis) in the
-*Book of the Bee* ([chapter xx](../bb/bb20)), but this is a false
+*Book of the Bee* ([chapter xx](../bb/bb20).md), but this is a false
 identification. The "City of Eight," Themânôn, is not to be identified
 with the τὸ Θομάνων {Greek: *tò Ðománwn*} of Theophylact Simocatta (vol.
 ii. chap. 10, p. 86), which lay on the right bank of the Tigris near
@@ -229,12 +229,12 @@ of his life.
 the Cross of Christ, as the blessed man David singeth in his Psalm
 concerning him, saying, "Wake up, Lord, like a sleeping man, and like a
 man whom wine hath overcome." \[Compare Psalm xlv. 23 {*sic*, [Psalm
-xliv. 23](../../bib/kjv/psa.htm#44:23)}; [lxxviii.
-65](../../bib/kjv/psa.htm#78:65).\] Let the heretics who say "God was
+xliv. 23](../../bib/kjv/psa.htm#44:23.md)}; [lxxviii.
+65](../../bib/kjv/psa.htm#78:65.md).\] Let the heretics who say "God was
 crucified" hold their peace. Here David calleth him "Lord," even as
 Peter the Apostle said, "This Jesus, whom ye crucified, hath God made
 Lord and Messiah (Christ)." (Compare [Acts v.
-30](../../bib/kjv/act.htm#5:30), 31.\] He did not say "God" (Allâhâ),
+30](../../bib/kjv/act.htm#5:30), 31.\] He did not say "God" (Allâhâ.md),
 but "Lord" (Mâryâ), thus \[<span id="fol_19b2"></span>Fol. 19*b*, col.
 2\] making known concerning the unity (or oneness) of the Two Persons
 who were united in one sonship. Now when Noah woke up from his sleep he
@@ -258,7 +258,7 @@ even to servants.
 
  
 
-   **\[**NOTE.--The *Book of the Bee* ([chapter xx](../bb/bb20)) says
+   **\[**NOTE.--The *Book of the Bee* ([chapter xx](../bb/bb20).md) says
 concerning the cursing of Ham, "The reason why he (Noah) cursed Canaan,
 who was not as yet born, nor had sinned, was because Ham had been saved
 with him in the Ark from the waters of the Flood, and had with his
@@ -397,7 +397,7 @@ the nations were to be gathered together to it.
  
 
    **\[**NOTES.--The *Book of the Bee* devotes a chapter
-([xxi](../bb/bb21)) to Melchisedek, and says that neither the father nor
+([xxi](../bb/bb21).md) to Melchisedek, and says that neither the father nor
 mother of this Melchisedek were written down in the genealogies; not
 that he had no natural parents, but that they were not written down. The
 greater number of the <span id="page_128">p. 128</span> doctors say that
@@ -454,7 +454,7 @@ man?" And he said, "He died on the journey, and I buried him there"
    **\[**NOTES.--A scribe's note says that in the manuscript of one
 Ma<u>k</u>bal Melchisedek's father was called "Har<u>k</u>lêîm" and his
 mother "Shêlâthîêl " (Budge, [*Book of the Bee*, page
-34](../bb/bb21.htm#footnotes_page_34)). Melchisedek wore a tunic of skin
+34](../bb/bb21.htm#footnotes_page_34).md). Melchisedek wore a tunic of skin
 and a leather girdle, and an angel dwelt with him, and protected him,
 and gave him food (*Book of Adam*, iii. 21). When he was old, the kings
 of the earth heard his fame, and eleven of them gathered together and
@@ -570,8 +570,8 @@ Madai (Medes), Javan (Greeks), Tûbîl (Bithynians), Meshech (Mysians),
 Tîras (Thracians), and the Ansh<u>k</u>lâyê. From Gomer sprang the
 Ashkenaz (Armenians), Danphar (Cappadocians), Togarmah (Asians), and the
 Isaurians. From Javan sprang Halles (Hellas), Tarshish, Cilicia, Cyprus,
-Kittim, Doranim (*see* [Gen. x. 4](../../bib/kjv/gen.htm#10:4)), and the
-Macedonians. *Book of the Bee* ([chapter xxii](../bb/bb22)).**\]**
+Kittim, Doranim (*see* [Gen. x. 4](../../bib/kjv/gen.htm#10:4).md), and the
+Macedonians. *Book of the Bee* ([chapter xxii](../bb/bb22).md).**\]**
 
  
 
@@ -611,4 +611,4 @@ AN END</span>.
 
 ------------------------------------------------------------------------
 
-[Next](bct07)
+[Next](bct07.md)

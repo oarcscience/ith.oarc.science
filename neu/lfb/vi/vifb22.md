@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb21)  [Next](vifb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb21)  [Next](vifb23.md) 
 
 </div>
 
@@ -237,6 +237,6 @@ had made Hans rich.
 
 ------------------------------------------------------------------------
 
-[Next: The History of Dwarf Long Nose](vifb23)
+[Next: The History of Dwarf Long Nose](vifb23.md)
 
 </div>

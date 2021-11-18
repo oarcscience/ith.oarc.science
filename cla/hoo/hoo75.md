@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo74)  [Next](hoo76) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo74)  [Next](hoo76.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ And bless thy mystics, and the rites divine.
 
 ------------------------------------------------------------------------
 
-[Next: LXXI. To Fortune](hoo76)
+[Next: LXXI. To Fortune](hoo76.md)

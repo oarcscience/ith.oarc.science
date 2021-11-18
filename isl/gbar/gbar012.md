@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar011) [Next](gbar013)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar011) [Next](gbar013.md)
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ And the priests spoke evil of Jesus among themselves.
 
 ------------------------------------------------------------------------
 
-[Next](gbar013)
+[Next](gbar013.md)
 
  
 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe11)  [Next](boe13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe11)  [Next](boe13.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ with which
 
 [![PLATE X. A. &lt;i&gt;The Heavenly Goose&lt;/i&gt;.&lt;br&gt; (From
 Ancient Mythology: Jacob Bryant, 1774, Vol. II)](tn/pl10a.jpg)  
-Click to enlarge](img/pl10a.jpg)  
+Click to enlarge](img/pl10a.jpg.md)  
 PLATE X. A. *The Heavenly Goose*.  
 (From Ancient Mythology: Jacob Bryant, 1774, Vol. II)  
 
@@ -26,7 +26,7 @@ PLATE X. A. *The Heavenly Goose*.
 [![PLATE X. B. &lt;i&gt;The Sky Goddess Nut represented
 double&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;The Dawn of
 Astronomy&lt;/i&gt;; J. Norman Lockyer, 1894)](tn/pl10b.jpg)  
-Click to enlarge](img/pl10b.jpg)  
+Click to enlarge](img/pl10b.jpg.md)  
 PLATE X. B. *The Sky Goddess Nut represented double*.  
 (From *The Dawn of Astronomy*; J. Norman Lockyer, 1894)  
 
@@ -42,7 +42,7 @@ anything new, even a new theory, which cannot
 [![FIGURE 36. &lt;i&gt;Lunar and Solar Eclipses&lt;/i&gt;.&lt;br&gt;
 (From &lt;i&gt;Sphæra Mundi&lt;/i&gt;; Joannes Sacro Bosco, Venice,
 1482.)](tn/fig036.jpg)  
-Click to enlarge](img/fig036.jpg)  
+Click to enlarge](img/fig036.jpg.md)  
 FIGURE 36. *Lunar and Solar Eclipses*.  
 (From *Sphæra Mundi*; Joannes Sacro Bosco, Venice, 1482.)  
 
@@ -60,7 +60,7 @@ of the Moon to the
 
 <span id="img_fig037"></span> ![FIGURE 37. &lt;i&gt;The Figure of the
 Dragon: the Lunar Nodes&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Blundeville
-His Exercises&lt;/i&gt;; London, 1606.)](img/fig037.jpg)  
+His Exercises&lt;/i&gt;; London, 1606.)](img/fig037.jpg.md)  
 FIGURE 37. *The Figure of the Dragon: the Lunar Nodes*.  
 (From *Blundeville His Exercises*; London, 1606.)
 
@@ -70,7 +70,7 @@ hidden life of the Earth and of man to the Moon? Tradition had
 <span id="img_fig038"></span> ![FIGURE 38. ''&lt;i&gt;When the Moone is
 betwixt the Sunne and the Earth&lt;/i&gt;.''&lt;br&gt; (From
 &lt;i&gt;Blundeville His Exercises&lt;/i&gt;; London,
-1606.)](img/fig038.jpg)  
+1606.)](img/fig038.jpg.md)  
 FIGURE 38. ''*When the Moone is betwixt the Sunne and the Earth*.''  
 (From *Blundeville His Exercises*; London, 1606.)
 
@@ -122,7 +122,7 @@ he declares, and quotes others
 [![FIGURE 39. &lt;i&gt;The first drawing of the Moon&lt;/i&gt;, by
 Galileo, 1610.&lt;br&gt; (From &lt;i&gt;The Discovery of a World in the
 Moone&lt;/i&gt;; John Wilkins, 1638.)](tn/fig039.jpg)  
-Click to enlarge](img/fig039.jpg)  
+Click to enlarge](img/fig039.jpg.md)  
 FIGURE 39. *The first drawing of the Moon*, by Galileo, 1610.  
 (From *The Discovery of a World in the Moone*; John Wilkins, 1638.)  
 
@@ -144,7 +144,7 @@ the very somme of All God made:&lt;br&gt; Att first of nought by’s power
 in six dayes space.&lt;br&gt; Now nature acts it's part; here after
 Grace&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Bybel Printen&lt;/i&gt;;
 Matthaeus Merian, 1650)](tn/pl11.jpg)  
-Click to enlarge](img/pl11.jpg)  
+Click to enlarge](img/pl11.jpg.md)  
 PLATE XI.  
 OMNIA PER IPSUM FACTA SUNT  
 *Matter in motion, figure, rest: adde Grade.  
@@ -165,7 +165,7 @@ Now nature acts it's part; here after Grace*.
 &lt;/i&gt;''&lt;i&gt;The Discovery of a World in the Moone&lt;/i&gt;'';
 &lt;i&gt;John Wilkins&lt;/i&gt;,
 &lt;i&gt;1638&lt;/i&gt;.](tn/fig040.jpg)  
-Click to enlarge](img/fig040.jpg)  
+Click to enlarge](img/fig040.jpg.md)  
 FIGURE 40. *Frontispiece and Title-page of* ''*The Discovery of a World
 in the Moone*''; *John Wilkins*, *1638*.  
 
@@ -208,7 +208,7 @@ scarred coast lines of western North and
 [![PLATE XII. THE EARTH AFTER THE EARTH-MOON CATASTROPHE&lt;br&gt;
 (Drawn by George D. Swazey for &lt;i&gt;Popular Astronomy&lt;/i&gt;,
 Aug.-Sept., 1907.)](tn/pl12.jpg)  
-Click to enlarge](img/pl12.jpg)  
+Click to enlarge](img/pl12.jpg.md)  
 PLATE XII. THE EARTH AFTER THE EARTH-MOON CATASTROPHE  
 (Drawn by George D. Swazey for *Popular Astronomy*, Aug.-Sept., 1907.)  
 
@@ -226,7 +226,7 @@ split the plastic floating crust into two major continental masses.
 Among the old drawings of the Moon, it is difficult to choose--they are
 all so beautiful. One drawing, however, must always stand for an example
 of the miracles man has wrought in this quest of his--the first drawing
-of the Moon ([Fig. 39](#img_fig039)), made in 1610 by Galileo through
+of the Moon ([Fig. 39](#img_fig039).md), made in 1610 by Galileo through
 his "Glasse." That tiny lens, compared to the gigantic telescopes of
 to-day, amounted to considerably less than a child's toy. But it
 magnified a surface three times, and with it Galileo essayed to prove or
@@ -257,4 +257,4 @@ the Lake of Dreams--enchanting names which linger to this day.
 
 ------------------------------------------------------------------------
 
-[Next: The Deluge](boe13)
+[Next: The Deluge](boe13.md)

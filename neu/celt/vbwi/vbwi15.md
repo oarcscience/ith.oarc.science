@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi14)  [Next](vbwi16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi14)  [Next](vbwi16.md) 
 
 ------------------------------------------------------------------------
 
@@ -770,4 +770,4 @@ ail him to fall off the side of an ass-car and to be killed?
 
 ------------------------------------------------------------------------
 
-[Next: Blacksmiths](vbwi16)
+[Next: Blacksmiths](vbwi16.md)

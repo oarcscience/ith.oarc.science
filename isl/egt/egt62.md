@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt61)  [Next](egt63) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt61)  [Next](egt63.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ dog's ambition extends only to its bone.
 
 ------------------------------------------------------------------------
 
-[Next: ON CHARITY AND GIFTS.](egt63)
+[Next: ON CHARITY AND GIFTS.](egt63.md)

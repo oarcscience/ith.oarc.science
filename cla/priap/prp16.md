@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp15)  [Next](prp17) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp15)  [Next](prp17.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ more 'open'!
 ------------------------------------------------------------------------
 
 [Next: 17. Aye in this prickle of ours the bonniest boon to be found
-is](prp17)
+is](prp17.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda23)  [Next](nda25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda23)  [Next](nda25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ croziers, and many other things from whence it could be
 <span id="page_255">p. 255</span>
 
 seen that they were Christian men, and had come from the west over the
-sea: <span id="fr_42"></span>[1](#fn_42) English books also shew that,
+sea: <span id="fr_42"></span>[1](#fn_42.md) English books also shew that,
 in that time, there was intercourse between the two countries.
 
 ### B. FROM THE SCHEDÆ OF ARI FRODE.
@@ -213,7 +213,7 @@ force." "That can well be," said Bjorn, and chaunted this stave:--
 
 <span id="page_261">p. 261</span>
 
-O! Goddess of the arm-ring gold <span id="fr_43"></span>[1](#fn_43)  
+O! Goddess of the arm-ring gold <span id="fr_43"></span>[1](#fn_43.md)  
 Let this bright day the longest hold  
 On earth, for now I linger here  
 In my love's arms, but soon must fear  
@@ -354,7 +354,7 @@ night he arrived at the edge of a cave, went in, and was there for the
 night, and had a cold lodging; then sung Bjorn:--
 
 "Fair one! who dost bring  
-Vestments to the weary, <span id="fr_44"></span>[1](#fn_44)  
+Vestments to the weary, <span id="fr_44"></span>[1](#fn_44.md)  
 Little know'st thou where  
 Hid in cavern dreary,  
 I now shelter seek;  
@@ -386,7 +386,7 @@ Gallant men in battle;
 Now on mountain wild,  
 Met by magic shower,  
 Outlet could not find  
-From the Witches power." <span id="fr_45"></span>[1](#fn_45)
+From the Witches power." <span id="fr_45"></span>[1](#fn_45.md)
 
 Bjorn was now at home for the winter. In spring his brother Arnbjorn
 fixed his residence at Bakka in Raunhofn, but Bjorn lived at Kamb, and
@@ -459,7 +459,7 @@ between us, if thou, in this respect, continue as thou hast begun."
 Bjorn replied: "That only will I promise thee, which I can perform, but
 I see not how I can hold to this so long as Thurid and I are in the same
 district." "Thou art not so much bound to this place," answered Snorri,
-"but that thou [couldst](errata.htm#14) easily give up thy residence
+"but that thou [couldst](errata.htm#14.md) easily give up thy residence
 here." Bjorn replied: "True is that which thou sayest, and thus shall it
 be, since you have yourself come to me, and as our meeting has thus
 turned out will I promise thee, that Thorodd and thou shalt have no more
@@ -562,7 +562,7 @@ century."
 
 ### Footnotes
 
-<span id="fn_42"></span>[255:1](nda24.htm#fr_42) Til vestan um hat.
+<span id="fn_42"></span>[255:1](nda24.htm#fr_42.md) Til vestan um hat.
 Ireland lying to the west of Norway, from whence the Icelanders had
 emigrated, was generally spoken of by them with reference to their
 fatherland, and for the same reason they called the Irish "westmen."
@@ -577,15 +577,15 @@ writers among the Cassiterides. See Wood's Inquiry. concerning the
 primitive inhabitants of Ireland, p. 1.; O'Brien's Irish Diet. in voce
 Eirin.
 
-<span id="fn_43"></span>[261:1](nda24.htm#fr_43) *Jord*, the earth, one
+<span id="fn_43"></span>[261:1](nda24.htm#fr_43.md) *Jord*, the earth, one
 of the many wives of Odin and mother of Thor.
 
-<span id="fn_44"></span>[265:1](nda24.htm#fr_44) To the women of the
+<span id="fn_44"></span>[265:1](nda24.htm#fr_44.md) To the women of the
 Northern family was more particularly entrusted the duties of
 hospitality, among which was included that of bringing dry garments to
 the traveller who had suffered from the tempestuousness of the weather.
 
-<span id="fn_45"></span>[266:1](nda24.htm#fr_45) These poetical
+<span id="fn_45"></span>[266:1](nda24.htm#fr_45.md) These poetical
 effusions of Bjorn may, perhaps, appear somewhat improbable to modern
 readers, but, the Northmen of this period exhibited great readiness in a
 species of rude versification, the melody of which was chiefly formed on
@@ -595,4 +595,4 @@ letter.'"
 
 ------------------------------------------------------------------------
 
-[Next: Voyage of Gudleif Gudlaugson to Great Ireland](nda25)
+[Next: Voyage of Gudleif Gudlaugson to Great Ireland](nda25.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp07) [Next](onp09)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp07) [Next](onp09.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ note, the Jassar Fells (stanza 27) would correspond to the Jesenik
 gate between the high and impassable Sudeti and the Carpathian ranges.
 This, again, would permit the inference that the Goths were at that time
 still in their North European homes by the Vistula<span
-id="fr_1"></span>[1](#note_1) and the Baltic which, as we know from
+id="fr_1"></span>[1](#note_1.md) and the Baltic which, as we know from
 other sources, they right at <span id="page_37">p. 37</span> the end of
 the second century <span class="small">A.D.</span> Ultimate derivation
 from a Gothic lay of these remote times is no more impossible than in
@@ -57,7 +57,7 @@ MSS of the saga.
 
  On one of his expeditions the evil but wise son of Hervor, King
 Heithrek, abducts the daughter of the powerful Humli,<span
-id="fr_2"></span>[2](#note_2) King of the Huns. She gives birth to
+id="fr_2"></span>[2](#note_2.md) King of the Huns. She gives birth to
 Hloth, who is brought up by his maternal grandfather, since Heithrek put
 his mother away in favor of another queen whose children by him are
 Angantýr and Hervor—a quasi reincarnation of her amazon grandmother.
@@ -89,7 +89,7 @@ with horses well-broken, in the hallowed land.<span id="fr_12"></span><a href=
 </tbody>
 </table>
 
- Now<span id="fr_13"></span>[13](#note_13) Hloth learned about the death
+ Now<span id="fr_13"></span>[13](#note_13.md) Hloth learned about the death
 of his father, and that his brother, Angantýr, had himself made king
 over all those lands which Heithrek had owned. Then King Humli advised
 Hloth to claim from Angantýr his share of the inheritance with fair
@@ -260,7 +260,7 @@ shalt govern a third<span id="fr_24"></span><a href="#note_24">24</a> of Gothi
 </tbody>
 </table>
 
- Gizur, called the Follower<span id="fr_25"></span>[25](#note_25) of the
+ Gizur, called the Follower<span id="fr_25"></span>[25](#note_25.md) of the
 Grytings, King Heithrek’s faster father, was then in Angantýr’s company.
 He was exceeding old then. When he heard Angantýr’s offer he thought
 that too much was offered, and said:
@@ -283,7 +283,7 @@ when the atheling the heirlooms shifted.”<span id="fr_26"></span><a href="#n
 </table>
 
  (Hloth is enraged and returns to Humli, who promises help for the
-summer after.)<span id="fr_27"></span>[27](#note_27)
+summer after.)<span id="fr_27"></span>[27](#note_27.md)
 
 <table data-cellpadding="10">
 <colgroup>
@@ -330,7 +330,7 @@ she that this was the Hunnish host, and most numerous. She hurried down
 and called her trumpeter and bade him summon the host. Then said Hervor
 to them: “Take your weapons and make ready for battle; but thou, Ormar,
 ride out toward the Huns and affer them battle before the southern
-gate.”<span id="fr_30"></span>[30](#note_30)
+gate.”<span id="fr_30"></span>[30](#note_30.md)
 
 <table data-cellpadding="10">
 <colgroup>
@@ -442,7 +442,7 @@ the king of the land challenged them to a pitched battle and appointed
 the battle field, then those vikings durst not harry before battle was
 tried between them. Gizur then armed himself with good weapons and
 leaped on his horse as <span id="page_44">p. 44</span> though he were a
-young man, and said to the king:<span id="fr_34"></span>[34](#note_34)
+young man, and said to the king:<span id="fr_34"></span>[34](#note_34.md)
 
 <table data-cellpadding="10">
 <colgroup>
@@ -604,7 +604,7 @@ Will that aye be told. Ill’s the norns’ doom.”<br />
 
 ------------------------------------------------------------------------
 
-[Next](onp09)
+[Next](onp09.md)
 
 ------------------------------------------------------------------------
 
@@ -612,25 +612,25 @@ Will that aye be told. Ill’s the norns’ doom.”<br />
 
 <span id="footnotes_page_36">p. 36</span>
 
-<span id="note_1"></span>[1](#fr_1) In *Wīdsīth* (ll. 119 f) we are told
+<span id="note_1"></span>[1](#fr_1) In *Wīdsīth* (ll. 119 f.md) we are told
 that the Goths defended their ancient home against the Huns “about the
 forest of the Vistula.”
 
 <span id="footnotes_page_37">p. 37</span>
 
-<span id="note_2"></span>[2](#fr_2) In whom we may see the
+<span id="note_2"></span>[2](#fr_2.md) In whom we may see the
 representative of the royal race of the Ostrogoths, the Amalunga, who
 for a time were subjects, or allies, of the Huns; and in Heithrek,
 *Hardurík* (*Ardaricus*), king of the Gepidæ, a tribe related to the
 Goths, who fought heroically against the Huns.
 
-<span id="note_3"></span>[3](#fr_3) This stanza is held by some not to
+<span id="note_3"></span>[3](#fr_3.md) This stanza is held by some not to
 belong to the lay.
 
-<span id="note_4"></span>[4](#fr_4) Pronounce Gitsur. Cf. the Prose
+<span id="note_4"></span>[4](#fr_4.md) Pronounce Gitsur. Cf. the Prose
 after 14.
 
-<span id="note_5"></span>[5](#fr_5) Old Norse *Gautar,* the inhabitants
+<span id="note_5"></span>[5](#fr_5.md) Old Norse *Gautar,* the inhabitants
 of the present Swedish provinces of East and West Gotland. Not to be
 confused with the Goths (Old Norse *Gotar*)—a name frequently used in a
 general and honorific, but here in a special, sense. The seats, at
@@ -639,24 +639,24 @@ the Black Sea and thence to Spain.
 
 <span id="footnotes_page_38">p. 38</span>
 
-<span id="note_6"></span>[6](#fr_6) Used, vaguely, of various west and
+<span id="note_6"></span>[6](#fr_6.md) Used, vaguely, of various west and
 south European nations.
 
-<span id="note_7"></span>[7](#fr_7) This name is by some scholars held
+<span id="note_7"></span>[7](#fr_7.md) This name is by some scholars held
 to be derived from Cæsar, in view especially of *Wīdsīth,* lines
 76-78—*mid Cāsere, sē the wimburga geweald āhte, Wiolena and Wilna and
 Wala rīces*.
 
-<span id="note_8"></span>[8](#fr_8) No such English king is known in
+<span id="note_8"></span>[8](#fr_8.md) No such English king is known in
 legend or history. The name seems identical with that of Abbot Ælfric,
 the famous writer of the latter part of the tenth century; but
 unconsciously one thinks of Alfred the Great (849-901).
 
-<span id="note_9"></span>[9](#fr_9) The hostile brothers no doubt
+<span id="note_9"></span>[9](#fr_9.md) The hostile brothers no doubt
 correspond to the *Hlithe* and *Incgenthēow* of *Wīdsīth* (116). *Leth*
 was the third king of the Langobardians.
 
-<span id="note_10"></span>[10](#fr_10) Thus Helgi “stands in arms” in
+<span id="note_10"></span>[10](#fr_10.md) Thus Helgi “stands in arms” in
 earliest infancy; cf. the *First Lay of Helgi*. The prose preceding
 rationalizes this heroic trait as follows: “It was said, in former
 times, that a man was born ‘with weapons and horses,’ for the reason
@@ -664,22 +664,22 @@ that the weapons lay ready when he was born—also livestock, such as oxen
 and horses, if they happened to be born then. All these were given at
 birth to men of rank, to honor them.”
 
-<span id="note_11"></span>[11](#fr_11) *I.e.,* helmets adorned with
+<span id="note_11"></span>[11](#fr_11.md) *I.e.,* helmets adorned with
 strips of plaited rings, as were used in the Viking period.
 
-<span id="note_12"></span>[12](#fr_12) *I.e.,* within the confines of
+<span id="note_12"></span>[12](#fr_12.md) *I.e.,* within the confines of
 royal residence and temple.
 
-<span id="note_13"></span>[13](#fr_13) This prose link may possibly
+<span id="note_13"></span>[13](#fr_13.md) This prose link may possibly
 paraphrase the contents of a lost stanza or stanzas. Still, bearing in
 mind the abrupt transitions in ballad technique, we need not conclude
 this.
 
-<span id="note_14"></span>[14](#fr_14) *I.e.,* “River-Dwelling”; by some
+<span id="note_14"></span>[14](#fr_14.md) *I.e.,* “River-Dwelling”; by some
 supposed to be by the Dniepr River, about which lay the lands of the
 Goths in the fourth century.
 
-<span id="note_15"></span>[15](#fr_15) Very evidently, it is Hloth who
+<span id="note_15"></span>[15](#fr_15.md) Very evidently, it is Hloth who
 comes from afar; but the text is ambiguous. To judge from similar
 passages in other poems, a half-stanza containing a question <span
 id="footnotes_page_39">p. 39</span> of the warrior on guard, and one
@@ -687,43 +687,43 @@ containing the beginning of Hloth’s speech, are missing.
 
 <span id="footnotes_page_39">p. 39</span>
 
-<span id="note_16"></span>[16](#fr_16) The gap supplied after the
+<span id="note_16"></span>[16](#fr_16.md) The gap supplied after the
 suggestion of Heusler-Ranisch.
 
-<span id="note_17"></span>[17](#fr_17) This stanza and the following
+<span id="note_17"></span>[17](#fr_17.md) This stanza and the following
 half-stanza are found only in one seventeenth century MS. However, it
 expresses the substance rather better than the Prose.
 
 <span id="footnotes_page_40">p. 40</span>
 
-<span id="note_18"></span>[18](#fr_18) Thus the text. Possibly, the awl
+<span id="note_18"></span>[18](#fr_18.md) Thus the text. Possibly, the awl
 is taken as representative of peaceful pursuits. “Edge,” *pars pro toto*
 for “sword.”
 
-<span id="note_19"></span>[19](#fr_19) This great forest is mentioned
+<span id="note_19"></span>[19](#fr_19.md) This great forest is mentioned
 also in the *Lay of Atli,* 8, and in the *Plaint of Oddrún,* 23, as
 separating the land of the Niflungs from that of the Huns.
 
-<span id="note_20"></span>[20](#fr_20) Bugge (*Norrœne Skrifter,* etc.,
+<span id="note_20"></span>[20](#fr_20.md) Bugge (*Norrœne Skrifter,* etc.,
 362) suggests that the “hallowed grave” refers to a burial place where
 the departed Gothic kings were interred; and the “shining stone,” to a
 boulder in the high place of assembly of the Goths on which the newly
 chosen kings were acclaimed by the people.
 
-<span id="note_21"></span>[21](#fr_21) *I.e.,* “Stead by the Dniepr”
+<span id="note_21"></span>[21](#fr_21.md) *I.e.,* “Stead by the Dniepr”
 (Latin Danaper), probably. It is mentioned also in *Rígsthula*, 49.
 
-<span id="note_22"></span>[22](#fr_22) *I.e.,* his daughter’s son.
+<span id="note_22"></span>[22](#fr_22.md) *I.e.,* his daughter’s son.
 
-<span id="note_23"></span>[23](#fr_23) Cf. the penalty paid by the gods
+<span id="note_23"></span>[23](#fr_23.md) Cf. the penalty paid by the gods
 for killing Otter, *Reginsmól,* 5.
 
 <span id="footnotes_page_41">p. 41</span>
 
-<span id="note_24"></span>[24](#fr_24) Which is the usual share,
+<span id="note_24"></span>[24](#fr_24.md) Which is the usual share,
 according to Old Germanic law, of the son born out of wedlock.
 
-<span id="note_25"></span>[25](#fr_25) Here equivalent to
+<span id="note_25"></span>[25](#fr_25.md) Here equivalent to
 “armor-bearer”—as is, e.g., Hildebrand to Dietrich. The Grytings are
 probably identical with the Ostrogoths, by the Latin and Greek authors
 called *Greothingi,* *Grouthingoi* (Bugge, *op. cit.,* p. 273). As the
@@ -731,63 +731,63 @@ wicked adviser and instigator of strife, he may represent Óthin. His
 name may be a reminiscence of the East Germanic name Geiseric
 (Gizericus).
 
-<span id="note_26"></span>[26](#fr_26) He sarcastically implies that
+<span id="note_26"></span>[26](#fr_26.md) He sarcastically implies that
 Hloth would acknowledge himself to be a bastard, entitled to
 compensation—and no more—if he accepted anything but half of his
 inheritance. Hloth is likened to a shepherd on a hill, tending his
 flocks, when the kingdom was divided.
 
-<span id="note_27"></span>[27](#fr_27) The wordy prose link of the
+<span id="note_27"></span>[27](#fr_27.md) The wordy prose link of the
 original no doubt represents one or more stanzas now lost.
 
-<span id="note_28"></span>[28](#fr_28) The half-line is uncertain.
+<span id="note_28"></span>[28](#fr_28.md) The half-line is uncertain.
 
-<span id="note_29"></span>[29](#fr_29) *I.e.,* down to the last
+<span id="note_29"></span>[29](#fr_29.md) *I.e.,* down to the last
 available resources in men and supplies.
 
 <span id="footnotes_page_42">p. 42</span>
 
-<span id="note_30"></span>[30](#fr_30) This passage must represent a
+<span id="note_30"></span>[30](#fr_30.md) This passage must represent a
 series of stanzas; the last one evidently in direct speech, to which the
 following stanza is the answer.
 
-<span id="note_31"></span>[31](#fr_31) The *Wyrmhere* of *Wīdsīth,* 119.
+<span id="note_31"></span>[31](#fr_31.md) The *Wyrmhere* of *Wīdsīth,* 119.
 
-<span id="note_32"></span>[32](#fr_32) The missing half-stanza is
+<span id="note_32"></span>[32](#fr_32.md) The missing half-stanza is
 supplied following the suggestions of Bugge and Heusler-Ranisch.
 
 <span id="footnotes_page_43">p. 43</span>
 
-<span id="note_33"></span>[33](#fr_33) Freely supplied by the translator
+<span id="note_33"></span>[33](#fr_33.md) Freely supplied by the translator
 after the suggestion of the prose.
 
 <span id="footnotes_page_44">p. 44</span>
 
-<span id="note_34"></span>[34](#fr_34) The last sentence of the prose no
+<span id="note_34"></span>[34](#fr_34.md) The last sentence of the prose no
 doubt paraphrases the lost portion of this stanza.
 
-<span id="note_35"></span>[35](#fr_35) “Battle.” Name of a traditional
+<span id="note_35"></span>[35](#fr_35.md) “Battle.” Name of a traditional
 field of battle?
 
-<span id="note_36"></span>[36](#fr_36) Supplied for this corrupt half
+<span id="note_36"></span>[36](#fr_36.md) Supplied for this corrupt half
 line.
 
-<span id="note_37"></span>[37](#fr_37) Supplied freely by the translator
+<span id="note_37"></span>[37](#fr_37.md) Supplied freely by the translator
 for a hopelessly corrupt line.
 
-<span id="note_38"></span>[38](#fr_38) Thus dedicating them to Óthin;
+<span id="note_38"></span>[38](#fr_38.md) Thus dedicating them to Óthin;
 cf. *Voluspó,* 16.
 
-<span id="note_39"></span>[39](#fr_39) Supplied by all editors.
+<span id="note_39"></span>[39](#fr_39.md) Supplied by all editors.
 
-<span id="note_40"></span>[40](#fr_40) Both half-stanzas tentatively
+<span id="note_40"></span>[40](#fr_40.md) Both half-stanzas tentatively
 restored by the translator from the prose.
 
 <span id="footnotes_page_45">p. 45</span>
 
-<span id="note_41"></span>[41](#fr_41) Conjectural.
+<span id="note_41"></span>[41](#fr_41.md) Conjectural.
 
-<span id="note_42"></span>[42](#fr_42) ”Hundreds” and “thousands” are
+<span id="note_42"></span>[42](#fr_42.md) ”Hundreds” and “thousands” are
 here used as designations for smaller tactical units.
 
  

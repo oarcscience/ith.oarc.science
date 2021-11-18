@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp05)  [Next](hmvp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp05)  [Next](hmvp07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ are three deities, according to the expounders of the Vedas: Agni, whose
 place is on the earth; Vāyu or Indra, whose place is in the air; and
 Surya, whose place is in the sky. These deities receive severally many
 appellations in consequence of their greatness, or of the diversity of
-their functions." <span id="fr_3"></span>[\*](#fn_3) In the Rig-Veda
+their functions." <span id="fr_3"></span>[\*](#fn_3.md) In the Rig-Veda
 itself this number is increased to thirty-three, of whom eleven are said
 to be in heaven, eleven on earth, and eleven in mid-air. "Agni, the wise
 god, lends an ear to his worshippers. God with the ruddy steeds, who
@@ -42,7 +42,7 @@ Agni and Savitri
 are said to have conferred immortality upon the other gods; whilst it is
 also taught that Indra obtained this boon by sacrifice. An interesting
 account is given in the Satapatha Brāhmana <span
-id="fr_4"></span>[\*](#fn_4) of the means by which the gods obtained
+id="fr_4"></span>[\*](#fn_4.md) of the means by which the gods obtained
 immortality, and superiority over the asuras or demons. All of them,
 gods and demons alike, were mortal, all were equal in power, all were
 sons of Prajāpati the Creator. Wishing to be immortal, the gods offered
@@ -101,16 +101,16 @@ with those who depict them, only possessing vastly greater powers.
 
 <span id="page_12">p. 12</span>
 
-Professor Williams says <span id="fr_5"></span>[\*](#fn_5) "that the
+Professor Williams says <span id="fr_5"></span>[\*](#fn_5.md) "that the
 deified forces addressed in the Vedic hymns were probably not
 represented by images or idols in the Vedic period, though doubtless the
 early worshippers clothed their gods with human forms in their own
-imaginations." Professor Müller <span id="fr_6"></span>[†](#fn_6) speaks
+imaginations." Professor Müller <span id="fr_6"></span>[†](#fn_6.md) speaks
 more positively: "The religion of the Veda knows of no idols. The
 worship of idols in India is a secondary formation, a later degradation
 of the more primitive worship of ideal gods." The guarded language of
 Professor Williams seems to be better suited to the facts, as far as
-they are known, for Dr. Bollensen <span id="fr_7"></span>[‡](#fn_7)
+they are known, for Dr. Bollensen <span id="fr_7"></span>[‡](#fn_7.md)
 speaks quite as strongly on the other side. He writes, "From the common
 appellation of the gods as *divo naras*, 'men of the sky,' or simply
 *naras*, 'men,' and from the epithet *nripesas*, 'having the form of
@@ -131,18 +131,18 @@ described in the Vedas.
 
 ### Footnotes
 
-<span id="fn_3"></span>[9:\*](hmvp06.htm#fr_3) Muir, O. S. T., v. 8.
+<span id="fn_3"></span>[9:\*](hmvp06.htm#fr_3.md) Muir, O. S. T., v. 8.
 
-<span id="fn_4"></span>[10:\*](hmvp06.htm#fr_4) Muir O. S. T., iv.
+<span id="fn_4"></span>[10:\*](hmvp06.htm#fr_4.md) Muir O. S. T., iv.
 54-62.
 
-<span id="fn_5"></span>[12:\*](hmvp06.htm#fr_5) "Indian Wisdom," p. 15.
+<span id="fn_5"></span>[12:\*](hmvp06.htm#fr_5.md) "Indian Wisdom," p. 15.
 
-<span id="fn_6"></span>[12:†](hmvp06.htm#fr_6) "Chips from a German
+<span id="fn_6"></span>[12:†](hmvp06.htm#fr_6.md) "Chips from a German
 Workshop," i. 38.
 
-<span id="fn_7"></span>[12:‡](hmvp06.htm#fr_7) Muir, C. S. T., v. 453
+<span id="fn_7"></span>[12:‡](hmvp06.htm#fr_7.md) Muir, C. S. T., v. 453
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Dyaus And Prithivi](hmvp07)
+[Next: Chapter III. Dyaus And Prithivi](hmvp07.md)

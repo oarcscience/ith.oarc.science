@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes15)  [Next](nes17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes15)  [Next](nes17.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was hardly a mansion in the country in which there was not a
 haunted room. In one room a lady had been murdered and her body buried
@@ -106,15 +106,15 @@ this wood every night appeared a sheeted ghost. The church-bell in this
 churchyard has been heard ringing at midnight loud above the howl of the
 storm. Those who were aware of such haunted places, after nightfall made
 a long round-about to avoid passing them. <span
-id="fr_54"></span>[1](#fn_54)
+id="fr_54"></span>[1](#fn_54.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_54"></span>[70:1](nes16.htm#fr_54) Cf. Henderson, chap. x.,
+<span id="fn_54"></span>[70:1](nes16.htm#fr_54.md) Cf. Henderson, chap. x.,
 and *F L. Record*, vol. i. pp. 20-23, and vol. ii. pp. 176,177.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Witches](nes17)
+[Next: Chapter XIV. Witches](nes17.md)

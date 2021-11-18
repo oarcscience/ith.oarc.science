@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft45)  [Next](efft47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft45)  [Next](efft47.md) 
 
 ------------------------------------------------------------------------
 
-# THE HUNTED HARE  <span id="fr_52"></span>[1](#fn_52)
+# THE HUNTED HARE  <span id="fr_52"></span>[1](#fn_52.md)
 
 <span id="img_11"></span> [![](tn/11.jpg)  
-Click to enlarge](img/11.jpg)  
+Click to enlarge](img/11.jpg.md)  
 "THE YOUNG LADY HAPPENED TO BE LOOKING OUT OF THE WINDOW."
 
 THERE IS a place near our town called Heathfield,--a gloomy and solitary
@@ -83,9 +83,9 @@ the human race under any circumstances.
 
 ### Footnotes
 
-<span id="fn_52"></span>[1](efft46.htm#fr_52) Mrs. Bray *The Borders of
+<span id="fn_52"></span>[1](efft46.htm#fr_52.md) Mrs. Bray *The Borders of
 The Tamar and the Tav*y, vol. II, p. 113.
 
 ------------------------------------------------------------------------
 
-[Next: The Well of St. Ludgvan](efft47)
+[Next: The Well of St. Ludgvan](efft47.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng44)  [Next](vlsng46) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng44)  [Next](vlsng46.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ stanza at the end from the Whetting of Gudrun.
 ------------------------------------------------------------------------
 
 [Next: Appendix I: Part Of The Second Lay Of Helgi
-Hundings-Bane](vlsng46)
+Hundings-Bane](vlsng46.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo51)  [Next](sdo53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo51)  [Next](sdo53.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ the time, but first strengthen his spirit by the *inikaga*.
 
 ------------------------------------------------------------------------
 
-[Next: Invocation By A Shaman](sdo53)
+[Next: Invocation By A Shaman](sdo53.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca13)  [Next](ntca15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca13)  [Next](ntca15.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ an offering of food for the use of the man on whom he operated, which is
 a curious reversal of the usual rule, according to which it is
 necessary, in all other cases with which we are acquainted, for the man
 who has been operated upon to provide the operator with food. <span
-id="fr_153"></span>[1](#fn_153)
+id="fr_153"></span>[1](#fn_153.md)
 
 In the case of boys the operation is performed away from the
 *Intichiuma* ground near to which they may not go, and at this ceremony
@@ -156,7 +156,7 @@ unmistakable points of agreement which are difficult to account for on
 any supposition except that the two have had a common origin in times
 past.
 
-Blandowski <span id="fr_154"></span>[1](#fn_154) in writing of certain
+Blandowski <span id="fr_154"></span>[1](#fn_154.md) in writing of certain
 Victorian natives, says, that on arriving at manhood, a youth was
 conducted by three leaders of the tribe into the recesses of the woods,
 where he remained two days and one night. Being furnished with a
@@ -177,7 +177,7 @@ It may be remarked, that it would be more likely to remain as a monument
 if it were not killed, and that probably this was not the real reason
 for destroying it.
 
-Collins, <span id="fr_155"></span>[1](#fn_155) in an excellent account
+Collins, <span id="fr_155"></span>[1](#fn_155.md) in an excellent account
 of the rite as practised amongst the natives of a New South Wales tribe,
 describes how a throwing stick was made, and with this the tooth was
 knocked out by means of hitting it with a stone. The last performance
@@ -398,7 +398,7 @@ off, when, but not until when, she may return to the main camp. The girl
 wears the charmed necklets and head-rings until one by one they drop off
 and become worn out. As we have pointed out previously, this is to be
 regarded as a form of initiation ceremony concerned with women, <span
-id="fr_156"></span>[1](#fn_156) and may be looked upon as the equivalent
+id="fr_156"></span>[1](#fn_156.md) and may be looked upon as the equivalent
 of the first ceremony of throwing up and painting the boy.
 
 VARIOUS CUSTOMS CONCERNED WITH BLOOD, BLOOD-LETTING, AND BLOOD-GIVING,
@@ -682,7 +682,7 @@ The exact restrictions vary, however, to a certain extent in different
 tribes, in some apparently, such as the Urabunna, it applies at all
 times, in others, as described by Sir George Grey in the case of certain
 West Australian natives, the rule is observed at some but not at all
-times. Thus he says, <span id="fr_157"></span>[1](#fn_157) “a
+times. Thus he says, <span id="fr_157"></span>[1](#fn_157.md) “a
 
 <span id="page_468">p. 468</span>
 
@@ -706,7 +706,7 @@ his totem, though there are certain special occasions on which, as a
 sacred ceremony, he partakes of his totemic animal or plant.
 
 To this reference has been made elsewhere, <span
-id="fr_158"></span>[1](#fn_158) meanwhile it may be said here that, in
+id="fr_158"></span>[1](#fn_158.md) meanwhile it may be said here that, in
 broad outline, the Central Australian agree with the majority of
 Australian tribes in the general restriction according to which the
 totem is tabooed. That this has not, however, always been the case
@@ -919,7 +919,7 @@ a well-recognised custom. We have already described certain ceremonies
 performed at the Engwura which can only be regarded as pointing back to
 the existence of a different state of affairs from that which now
 obtains. For example, in the *Quabarra Ingwurninga inkinja*, <span
-id="fr_159"></span>[1](#fn_159) two men had their bodies decorated with
+id="fr_159"></span>[1](#fn_159.md) two men had their bodies decorated with
 circles of white down which were supposed to represent the skulls of
 slain and eaten men. The performers themselves represented the *Ulthana*
 or spirits of the dead men wandering about in search of those who had
@@ -962,33 +962,33 @@ from group to group.
 
 ### Footnotes
 
-<span id="fn_153"></span>[452:1](ntca14.htm#fr_153) Any food is given
+<span id="fn_153"></span>[452:1](ntca14.htm#fr_153.md) Any food is given
 except the totemic animal or plant of the recipient. This may possibly
 be a rudimentary form of the more elaborate ceremony of food-giving to
 novices described by Mr. Howitt in connection with the Jeraeil of the
 Kurnai tribe. *Journ. Anth. Inst*., May 1885, p. 317.
 
-<span id="fn_154"></span>[453:1](ntca14.htm#fr_154) *Trans. Phil. Soc.
+<span id="fn_154"></span>[453:1](ntca14.htm#fr_154.md) *Trans. Phil. Soc.
 Victoria*, vol. i., p. 72.
 
-<span id="fn_155"></span>[454:1](ntca14.htm#fr_155) *An Account of the
+<span id="fn_155"></span>[454:1](ntca14.htm#fr_155.md) *An Account of the
 English Colony of N.S.W*., 1804, pp. 367–373.
 
-<span id="fn_156"></span>[460:1](ntca14.htm#fr_156) In the tribes dealt
+<span id="fn_156"></span>[460:1](ntca14.htm#fr_156.md) In the tribes dealt
 with by Roth there does not appear to be the equivalent of this
 ceremony, what he describes as the first initiation ceremony of women
 being that of introcision, the equivalent of the *Ariltha kuma* ceremony
 amongst the central tribes, *op. cil.*, p. 174.
 
-<span id="fn_157"></span>[467:1](ntca14.htm#fr_157) *Expedition in North
+<span id="fn_157"></span>[467:1](ntca14.htm#fr_157.md) *Expedition in North
 West and Western Australia*, 1841, vol. ii., p. 228.
 
-<span id="fn_158"></span>[468:1](ntca14.htm#fr_158) Chapter VI.
+<span id="fn_158"></span>[468:1](ntca14.htm#fr_158.md) Chapter VI.
 
-<span id="fn_159"></span>[473:1](ntca14.htm#fr_159) *Ingwurninga* means
+<span id="fn_159"></span>[473:1](ntca14.htm#fr_159.md) *Ingwurninga* means
 bones; *inkinja*, arisen.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. The Customs of Kurdaitcha and Illapurinja and the
-Avenging Party or Atninga](ntca15)
+Avenging Party or Atninga](ntca15.md)

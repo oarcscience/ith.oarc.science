@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs07) [Next](hbs09)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs07) [Next](hbs09.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ They heaped not treasure up in hills, but to God reared many a fane;
 They builded their good monasteries on the mountain and the plain;  
 They reared o’er Jákovitsa Déchani on the height,  
 The Patriarch’s Place at level Pech,<span
-id="page_28_fr_1"></span>[1](#page_28_note_1) and in Drénitsa the
+id="page_28_fr_1"></span>[1](#page_28_note_1.md) and in Drénitsa the
 white  
 Did they raise the Devich; near Pazar St. Peter’s Church they set,  
 And the great Pillars of St. George on the mount, higher yet;  
@@ -68,7 +68,7 @@ And moreover, by God’s mercy, shall pearls be set thereon,
 And the gateways of the chapels shall glow with precious stone.”  
  The Servian lords rose lightly; they bowed down one and all:  
 “Build for the sake of thine own soul and the health of Stevan the
-Tall.”<span id="page_29_fr_1"></span>[1](#page_29_note_1)  
+Tall.”<span id="page_29_fr_1"></span>[1](#page_29_note_1.md)  
  But Milosh Óbilich sat there at the table foot to dine,  
 
 <span id="page_30">p. 30</span>
@@ -105,7 +105,7 @@ There is no profit in the stone, to carry it away.”
 
 ------------------------------------------------------------------------
 
-[Next](hbs09)
+[Next](hbs09.md)
 
 ------------------------------------------------------------------------
 
@@ -113,11 +113,11 @@ There is no profit in the stone, to carry it away.”
 
 <span id="footnotes_page_28">p. 28</span>
 
-<span id="page_28_note_1"></span>[1](#page_28_fr_1) Ipek.
+<span id="page_28_note_1"></span>[1](#page_28_fr_1.md) Ipek.
 
 <span id="footnotes_page_29">p. 29</span>
 
-<span id="page_29_note_1"></span>[1](#page_29_fr_1) “The popular name of
+<span id="page_29_note_1"></span>[1](#page_29_fr_1.md) “The popular name of
 the son of Prince Lazar, who ruled after the battle of Kósovo, and who
 built the monastery of Manásiya.” Karájich, *Servian Dictionary*.
 

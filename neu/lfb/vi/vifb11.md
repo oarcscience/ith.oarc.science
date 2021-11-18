@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb10)  [Next](vifb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb10)  [Next](vifb12.md) 
 
 </div>
 
@@ -670,6 +670,6 @@ And that is the end of the story.
 
 ------------------------------------------------------------------------
 
-[Next: The Child Who Came From An Egg](vifb12)
+[Next: The Child Who Came From An Egg](vifb12.md)
 
 </div>

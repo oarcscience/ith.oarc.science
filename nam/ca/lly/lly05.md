@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly04)  [Next](lly06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly04)  [Next](lly06.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_30">p. 30</span>
 
 <span id="img_03000"></span> [![LIBERTY CAP](tn/03000.jpg)  
-Click to enlarge](img/03000.jpg)  
+Click to enlarge](img/03000.jpg.md)  
 LIBERTY CAP  
 
 # CHAPTER II.
@@ -63,4 +63,4 @@ hold communion with the sky is an unforgettable experience.
 
 ------------------------------------------------------------------------
 
-[Next: The Gateway](lly06)
+[Next: The Gateway](lly06.md)

@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](pte07)  [Next](pte09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](pte07)  [Next](pte09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Plutarch's Morals: Theosophical Essays*, tr. by Charles William King,
 \[1908\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ truth in all quarters.
 II\. "For you see at once how absurd is the explanation that the
 apparent figure in the moon is merely an affection of the sight, which
 is dazzled by the brightness, by reason of its own weakness; a thing we
-call … it <span id="fr_213"></span>[1](#fn_213) takes no notice that
+call … it <span id="fr_213"></span>[1](#fn_213.md) takes no notice that
 this effect should rather take place in regard
 
 <span id="page_198">p. 198</span>
@@ -62,7 +62,7 @@ have sharp and strong sight make out better, and distinguish the
 lineaments of the Face, and seize upon the difference more clearly. For
 the contrary ought to be the case, if that appearance were produced from
 the eye's being overcome; because where the sense affected was weaker,
-the stronger <span id="fr_214"></span>[1](#fn_214) would be the
+the stronger <span id="fr_214"></span>[1](#fn_214.md) would be the
 impression produced. But the inequality \[of the surface\] refutes this
 explanation, for the sight does not rest upon a continuous and confused
 shadow. And Hegesianax in describing it hath not ill said,
@@ -71,16 +71,16 @@ shadow. And Hegesianax in describing it hath not ill said,
 
 <span class="small">"'With fire she shines all round, but in the midst  
   More blue than black appears a maiden's face  
-  And moisten’d <span id="fr_215"></span>[2](#fn_215) cheeks, that blush
+  And moisten’d <span id="fr_215"></span>[2](#fn_215.md) cheeks, that blush
 to meet the gaze.'</span>
 
 </div>
 
 <span class="contnote">\[paragraph continues\]</span> For in reality the
 shaded parts, as they go round, creep under the bright ones, and are in
-turn cut away and compressed, <span id="fr_216"></span>[3](#fn_216) and
+turn cut away and compressed, <span id="fr_216"></span>[3](#fn_216.md) and
 in a word, are interwoven one with the other. So that the figure
-resembles a sketch in outline, <span id="fr_217"></span>[4](#fn_217)
+resembles a sketch in outline, <span id="fr_217"></span>[4](#fn_217.md)
 according to Clearchus; which seems plausibly said to *your*
 Aristotle—for *Aristotle* is a man of your own, being, as he was, fond
 
@@ -95,7 +95,7 @@ person than yourself to be ignorant of the story, inasmuch as it
 proceeds from the very focus of geometry: for the fellow says that the
 so-called face is only reflected images and appearances of the great sea
 (the ocean) that are shown upon the moon; for that her external
-circumference when concave <span id="fr_218"></span>[1](#fn_218) is
+circumference when concave <span id="fr_218"></span>[1](#fn_218.md) is
 naturally adapted to catch the reflections rising up from various
 quarters, whilst the full moon is of all mirrors, in point of polish and
 of brilliancy the most beautiful and the most clear. For just as you
@@ -139,7 +139,7 @@ it is possible for all the view at once from the moon to be reflected
 and reach the sea… nay, more, to such as are sailing on the great ocean,
 and live in the middle of it, like the Britons—and this too, whilst the
 earth, as you have told us, does not occupy the place of a centre with
-regard to the sphere of the moon." <span id="fr_219"></span>[1](#fn_219)
+regard to the sphere of the moon." <span id="fr_219"></span>[1](#fn_219.md)
 "It is your business," I replied, "to investigate this problem; the
 reflection of the prospect, however, against the moon, is neither your
 business to investigate, nor that of Hipparchus, although it is an
@@ -175,7 +175,7 @@ dark patches, at one and the same time proclaiming her *Artemis* and
 and coaly fire, not possessing any kindling spark or light of her own,
 but to be a body hard of separation, and scorched by fire: just like
 those pieces of earthenware styled by the poets <span
-id="fr_220"></span>[1](#fn_220) 'lustreless and ashy.' Because, however,
+id="fr_220"></span>[1](#fn_220.md) 'lustreless and ashy.' Because, however,
 a charcoal fire, such as they make out the moon's to be, has neither
 permanence nor consistence, unless it gets hold of a material that
 retains and at the same time feeds it, I fancy those philosophers have
@@ -198,7 +198,7 @@ should be condensed is not possible, inasmuch as it is mixed up with
 fire, and has no particle of moisture nor of earth, by which things
 alone are as naturally disposed to be solidified. And velocity of flight
 inflames the air contained in stones and in that cold substance,
-lead, <span id="fr_221"></span>[1](#fn_221) much more, then, that
+lead, <span id="fr_221"></span>[1](#fn_221.md) much more, then, that
 contained in fire, whirling along too with such immense swiftness. For
 they (the Stoics) quarrel with Empedocles for making the moon 'a
 congelation of air, of the nature of hail, embraced by a sphere of
@@ -208,7 +208,7 @@ she has neither fissures in her surface, nor deep places, nor cavities
 (things which those that make her out an earthly substance concede to
 her), but this same air is lying, forsooth, superficially upon her
 convexity. This arrangement is preposterous with respect to
-permanence, <span id="fr_222"></span>[2](#fn_222) and impossible with
+permanence, <span id="fr_222"></span>[2](#fn_222.md) and impossible with
 respect to sight in the times of full moon; for, in that case, it ought
 not to define anything black and shaded, but either be hidden and
 darkened \[completely\], or else to be lighted up at the same time when
@@ -240,11 +240,11 @@ Stoics, before I get satisfaction out of you for turning the affairs of
 the universe upside down." "Only," replied Lucius laughing, "do not
 bring an action for impiety against us, just as Cleanthes thought it
 right that the Greeks collectively should impeach Aristagoras <span
-id="fr_223"></span>[1](#fn_223) the Stoic, of impiety, for overthrowing
+id="fr_223"></span>[1](#fn_223.md) the Stoic, of impiety, for overthrowing
 the altar of earth, because the fellow attempted to account for visible
 phenomena by supposing that the sky remains fixed, and that the earth
 rolls round down an oblique circle, <span
-id="fr_224"></span>[2](#fn_224) turning at
+id="fr_224"></span>[2](#fn_224.md) turning at
 
 <span id="page_204">p. 204</span>
 
@@ -253,12 +253,12 @@ heads; whilst they who suppose the moon an earth, how do they turn
 things upside down, any more than you do who place the earth here in the
 air, although it be, by far, bigger than the moon, as mathematicians
 calculate her magnitude during her eclipses, and by the length of
-time <span id="fr_225"></span>[1](#fn_225) consumed in her passage
+time <span id="fr_225"></span>[1](#fn_225.md) consumed in her passage
 through the shadow? For the shadow of the earth is projected of lesser
 size by the illuminating body being the larger; and that the upper part
 of the shadow itself is fine and narrow, was not unknown, as he says, to
 Homer also, for he entitles night 'swift,' <span
-id="fr_226"></span>[2](#fn_226) by reason of the *pointed* form of the
+id="fr_226"></span>[2](#fn_226.md) by reason of the *pointed* form of the
 shadow. But by this philosopher the moon is convicted on the strength of
 her eclipses, and gets off with hardly three of her own (apparent)
 magnitudes, for consider to how many moons the earth is equal, if it
@@ -284,7 +284,7 @@ whereas he
 compassionates such as lie under the roadway of the moon, namely, the
 Ethiopians and people of Taprobane, lest so vast a weight should drop
 upon them; and yet, a safeguard to the moon against falling down is her
-motion, and the rapidity <span id="fr_227"></span>[1](#fn_227) of her
+motion, and the rapidity <span id="fr_227"></span>[1](#fn_227.md) of her
 gyration, just as objects placed in slings have a hindrance from falling
 out in the circular whirling. For the natural tendency acts upon each
 object, unless it be diverted by some extraneous force. Consequently,
@@ -341,10 +341,10 @@ centre are arrested, though there be nothing to encounter or support
 them? and that if, carried along by their velocity, they shoot past the
 centre, they are turned back again and retrace their course
 spontaneously? Do not they teach that sections of beams, sawed off on
-each side of *earth*, <span id="fr_228"></span>[1](#fn_228) do not tend
+each side of *earth*, <span id="fr_228"></span>[1](#fn_228.md) do not tend
 downwards continually, but when they fall upon the ground <span
-id="fr_229"></span>[2](#fn_229) are repelled from without, and are come
-together again at the centre, <span id="fr_230"></span>[3](#fn_230) and
+id="fr_229"></span>[2](#fn_229.md) are repelled from without, and are come
+together again at the centre, <span id="fr_230"></span>[3](#fn_230.md) and
 that
 
 <span id="page_207">p. 207</span>
@@ -359,7 +359,7 @@ them run backwards, to make as far as the centre 'downwards,' and under
 the centre 'upwards.' So that if a person out of sympathy for the earth,
 should occupy the centre thereof, and should stand upon his head,
 holding at the same time his head upwards and his feet also, <span
-id="fr_231"></span>[1](#fn_231) and dig through all the space opposite
+id="fr_231"></span>[1](#fn_231.md) and dig through all the space opposite
 him, he would emerge turned upside down and be dragged along on coming
 to the surface; and if forsooth, another man be imagined as walking
 opposite to him the feet of both would be, and also be called, turned
@@ -404,7 +404,7 @@ IX\. "But," said I, "you assert that the sun, my dear Apollonides, is
 distant infinite myriads of miles from the superior circumference, while
 the Morning Star, and Mercury, and the other planets, all placed below
 him, keeping far aloof from the fixed stars, and at great distances from
-each other, pursue their course; <span id="fr_232"></span>[1](#fn_232)
+each other, pursue their course; <span id="fr_232"></span>[1](#fn_232.md)
 whereas for the ponderous and earthy particles you suppose the universe
 offers no free space, nor interval between each other in its whole
 extent. You see it is ridiculous if we shall assert that the moon is not
@@ -434,7 +434,7 @@ in the embrace of Earth, as to be screened against the Sun by it,
 without ever soaring above this shady terrestrial and darksome region
 which is the allotment of Earth. Wherefore I think we must confidently
 declare the moon to be within the limits of Earth, and to be overcast by
-the point of Earth's shadow. <span id="fr_233"></span>[1](#fn_233)
+the point of Earth's shadow. <span id="fr_233"></span>[1](#fn_233.md)
 
 X. "And consider, leaving out of the case the other fixed stars and
 planets, what Aristarchus points out in his treatise 'Upon Magnitudes
@@ -443,8 +443,8 @@ times, but less than twenty times the distance of the moon, by which she
 is separated from us: and yet the computation that gives the greatest
 elevation to the moon says she is distant from us fifty-six times the
 space from the centre of the earth \[to the circumference\]: <span
-id="fr_234"></span>[2](#fn_234) this length is of forty thousand <span
-id="fr_235"></span>[3](#fn_235)
+id="fr_234"></span>[2](#fn_234.md) this length is of forty thousand <span
+id="fr_235"></span>[3](#fn_235.md)
 
 <span id="page_210">p. 210</span>
 
@@ -486,7 +486,7 @@ it has found out for itself some other cause for remaining fixed, and so
 has stood still, but certainly not owing to the nature of its position.
 And it is allowable for one to conjecture alike with respect to Earth
 and with respect to the moon, that by some contrary soul and nature they
-are <span id="fr_236"></span>[1](#fn_236) …, differences, the former
+are <span id="fr_236"></span>[1](#fn_236.md) …, differences, the former
 remaining stationary here, the latter moving along. But apart from these
 considerations, see whether a certain important fact has not escaped
 their notice. For if whatsoever space, and whatever thing exists away
@@ -519,7 +519,7 @@ assumption as this does not make out the moon not to be an earth, but
 only an earth in a position for which it is not naturally adapted. For
 the phenomena at Etna underground are against the order of Nature; but
 'fire is there, and the blast imprisoned in the bellows is the upward
-force;' <span id="fr_237"></span>[1](#fn_237) whereas that which by
+force;' <span id="fr_237"></span>[1](#fn_237.md) whereas that which by
 nature is imponderous, comes, in spite of itself, into places for which
 it was not made. And the Soul itself," I continued, "is it not locked up
 by God in the body against its own nature: the one swift, the other
@@ -591,13 +591,13 @@ surprised that Nature has been so ordered and divided, that here is
 fixed Fire, there Stars; and again, the Earth here, and overhead the
 Moon; all of them bound by a stronger chain than the natural one, that
 is, by the one in accordance with *Reason?* <span
-id="fr_238"></span>[1](#fn_238) Wherefore, if all things must needs
+id="fr_238"></span>[1](#fn_238.md) Wherefore, if all things must needs
 follow their natural tendencies, and move on in the manner for which
 they were created, then let not the Sun revolve in a circle, nor yet
 Venus, nor any other of the planets, do the same—for it is *upward*, and
 not in a *circle*, that imponderous and fiery bodies were created to
 move. But if Nature possesses such a power of exchange, in spite of the
-locality, <span id="fr_239"></span>[2](#fn_239) that *here* Fire as it
+locality, <span id="fr_239"></span>[2](#fn_239.md) that *here* Fire as it
 moves, moves upwards, but after it has arrived at heaven, it is carried
 around in company with the celestial revolution. What is there to be
 surprised at if it comes to pass with ponderous and earthy bodies, when
@@ -658,7 +658,7 @@ XV\. "In the same way, therefore, is it probable the world is
 constituted, that is, if it be a *living thing*, containing earth in
 many places, in many others water and fire, and air, not forcibly
 compressed, but arranged in order by Reason. <span
-id="fr_240"></span>[1](#fn_240) For neither is the eye *squeezed out* of
+id="fr_240"></span>[1](#fn_240.md) For neither is the eye *squeezed out* of
 the mass
 
 <span id="page_216">p. 216</span>
@@ -672,7 +672,7 @@ weight, or the Sun (as Metrodorus the Chian supposed) was shot up into
 the upper region, through his levity, after the manner of a bubble, or
 that the other stars got into the places where they now are, because
 they gravitated thither as though according to the discrimination of a
-pair of scales. <span id="fr_241"></span>[1](#fn_241) But, inasmuch as
+pair of scales. <span id="fr_241"></span>[1](#fn_241.md) But, inasmuch as
 He that rules by *reason* is the master, they, like light-giving eyes,
 are fixed in the brow of the universe, and stray about: whilst the sun
 fills the place of a heart, and, like blood and breath, distributes and
@@ -748,11 +748,11 @@ Now my opponent in the dispute, quoting the saying of Anaxagoras, "The
 sun grafts brightness in the moon," was applauded by the company; but I
 will not repeat what I learnt either from you, or conjointly with you;
 but will gladly go on to what is left. <span
-id="fr_242"></span>[1](#fn_242) "That the moon, then, is illuminated,
+id="fr_242"></span>[1](#fn_242.md) "That the moon, then, is illuminated,
 not like glass or crystal, by the direct or transmitted light of the
 sun, is a probable supposition; nor again, by reason of collected
 illumination or collected reflection, in the same way as torches
-do, <span id="fr_243"></span>[2](#fn_243) when the light is augmented;
+do, <span id="fr_243"></span>[2](#fn_243.md) when the light is augmented;
 for in that ease it will be full moon to us none the less at the times
 of new moon, or first and third quarters, if she neither covers nor
 blocks out the sun; but the light rather passes through her by reason of
@@ -775,7 +775,7 @@ his beams,' as Empedocles says,
 
 <span class="small">"'Till up aloft, she veils so much his face  
   As the width measures of the *blue-eyed* <span
-id="fr_244"></span>[1](#fn_244) moon:'</span>
+id="fr_244"></span>[1](#fn_244.md) moon:'</span>
 
 </div>
 
@@ -837,7 +837,7 @@ of them looking towards the left parts from outside, and two others,
 indistinct, looking to the right, in the depth of the mirror. Of the
 production of which images, Plato explains the cause; for he has said
 that in consequence of the mirror's having got height, <span
-id="fr_245"></span>[1](#fn_245) on this side and
+id="fr_245"></span>[1](#fn_245.md) on this side and
 
 <span id="page_221">p. 221</span>
 
@@ -851,13 +851,13 @@ they demand to do away with the equality of angles by means of the
 this theory more plausible than the former. Not but that if we must
 needs gratify your great darling, Geometry, and concede the Point,—in
 the first place it is likely enough that such happens <span
-id="fr_246"></span>[1](#fn_246) in the case of reflectors made very
+id="fr_246"></span>[1](#fn_246.md) in the case of reflectors made very
 exact as to their polished surfaces; whereas the moon offers many
 inequalities and asperities of surface, so that rays from a great body
 \[like the sun\] going astray at considerable elevations, that allow of
 their reflecting and exchanging with one another, are reflected in all
 sorts of ways, and entangled with each other, and kindle up the lustre
-in itself, <span id="fr_247"></span>[2](#fn_247) because it is thrown
+in itself, <span id="fr_247"></span>[2](#fn_247.md) because it is thrown
 upon us from several reflectors at once. In the next place, even though
 we allow the reflections upon the moon herself to be at equal angles, it
 is not impossible that the rays, travelling through so vast a distance,
@@ -878,7 +878,7 @@ and without lustre to the sense \[perceptible\], but had he touched her
 in ever so small a degree, in going round her, it would have been a
 natural consequence that the sun should fill her substance, and
 penetrate through the whole of it with his all-pervading light, from the
-want of any resistance. <span id="fr_248"></span>[1](#fn_248) For where
+want of any resistance. <span id="fr_248"></span>[1](#fn_248.md) For where
 wine touches water at the edge, or a drop of blood falls into any
 liquid, the whole quantity turns red, and changes to the colour of
 blood; in like manner, they pretend that the air itself is illuminated,
@@ -906,7 +906,7 @@ rebounding back out of light, or fire out of fire, easily conceivable;
 but the object that will produce opposition and fracture must
 necessarily be something ponderous and solid in order there may be
 impact against it, and resilience *from* it. At any rate the sun <span
-id="fr_249"></span>[1](#fn_249) himself penetrates the air because it
+id="fr_249"></span>[1](#fn_249.md) himself penetrates the air because it
 neither furnishes obstacles, nor offers resistance; whereas from sticks
 and stones and clothes exposed to the light the sane sun gives back many
 reflections and irradiations. Thus, in fact, we see the entire earth
@@ -934,9 +934,9 @@ that there is no one thing so similar to another amongst
 <span id="page_224">p. 224</span>
 
 the phenomena connected with the sun, as the sun's being eclipsed is to
-his actual setting, <span id="fr_250"></span>[1](#fn_250) you must allow
+his actual setting, <span id="fr_250"></span>[1](#fn_250.md) you must allow
 to me if you call to mind the eclipse which took place the year <span
-id="fr_251"></span>[2](#fn_251) before this meeting, when many stars
+id="fr_251"></span>[2](#fn_251.md) before this meeting, when many stars
 became visible in different parts of the sky directly at the beginning
 of midday, and a mixture \[of light and darkness\] resembling daybreak
 pervaded the atmosphere, otherwise this Theon here will bring down upon
@@ -950,7 +950,7 @@ one lunar month is ending and the next commencing. The rest, with the
 accurate calculations of mathematicians, has been worked out and brought
 to a certainty; namely, that night is the shadow of the earth, and the
 eclipse of the sun is the shadow of the moon, when the light comes to be
-in it. For <span id="fr_252"></span>[3](#fn_252) the sun when setting,
+in it. For <span id="fr_252"></span>[3](#fn_252.md) the sun when setting,
 is blocked up by the earth against the sight; but when eclipsed he is
 blocked up by the moon, and both phenomena are occultations, but that of
 setting is due to the earth, that of eclipse to the moon, because she
@@ -976,7 +976,7 @@ and endures the space of a night, whereas the moon, even though she may
 occasionally hide the sun, the occultation has no time to last, and no
 extensiveness, but some light shows itself round his circumference that
 does not allow the darkness to become deep and unmixed. Aristotle (the
-ancient one, I mean <span id="fr_253"></span>[1](#fn_253)) gives as one
+ancient one, I mean <span id="fr_253"></span>[1](#fn_253).md) gives as one
 cause, besides some others, of the moon's being seen eclipsed more
 frequently than the sun, 'that the sun is eclipsed by the obstruction of
 the moon, whereas the moon is …' But Posidonius thus describes the
@@ -991,7 +991,7 @@ shadow, but destroy it."
 
 <span id="page_226">p. 226</span>
 
-XX\. "But after this," said he, <span id="fr_254"></span>[1](#fn_254)
+XX\. "But after this," said he, <span id="fr_254"></span>[1](#fn_254.md)
 "what further evidence was adduced?" "The moon," I replied, "received
 the same explanation as to her eclipse." "You have done well to remind
 me," said he, "but beforehand, on the supposition that you are all
@@ -1007,8 +1007,8 @@ because the earth takes away the sun from the moon; on the contrary, the
 moon takes away the sun from the earth, for the sun is eclipsed when the
 moon, and the moon when the earth stands in the middle of the three; of
 which cases the one happens in the conjunction, <span
-id="fr_255"></span>[2](#fn_255) the other in the time of
-full-moon." <span id="fr_256"></span>[3](#fn_256) Then Lucius remarked:
+id="fr_255"></span>[2](#fn_255.md) the other in the time of
+full-moon." <span id="fr_256"></span>[3](#fn_256.md) Then Lucius remarked:
 "These are about the most important of the theories current; but first
 of all, take in hand, if you please, the explanation derived from the
 figure of the shadow; for it is a cone, as though a great fire or light
@@ -1031,7 +1031,7 @@ lengthy explanations, and from them the shadow as the cause of the
 eclipse is established. For when the sun is eclipsed by being
 *overtaken* by, and the moon by *meeting* that which causes the eclipse,
 probably, or rather, necessarily, the sun <span
-id="fr_257"></span>[1](#fn_257) is first overtaken from behind, the moon
+id="fr_257"></span>[1](#fn_257.md) is first overtaken from behind, the moon
 from the front, for the occultation begins from that side where the
 object in front first casts the shadow, and the moon first casts it upon
 the sun from the west, as she is racing against him, but upon *her* he
@@ -1049,7 +1049,7 @@ entering into this shadow when she is low down, is caught by it in its
 largest circumference and passes through its deepest and darkest part,
 but when up high, just grazing the shadow, as though in shallow water,
 she quickly makes her escape. I shall pass over all that has been said
-with special reference to *bases* <span id="fr_258"></span>[2](#fn_258)
+with special reference to *bases* <span id="fr_258"></span>[2](#fn_258.md)
 and *transits;* because they admit the cause so far as possibility
 
 <span id="page_228">p. 228</span>
@@ -1079,7 +1079,7 @@ the 365 revolutions of the ecliptic full moons contain 404 periods of
 six months, and the rest of five months each. It would therefore be
 necessary that the moon should be visible at intervals of so many
 months, because she became conspicuous in the shadow; <span
-id="fr_259"></span>[1](#fn_259) but she … becomes eclipsed and loses her
+id="fr_259"></span>[1](#fn_259.md) but she … becomes eclipsed and loses her
 light, but recovers it again, when she emerges from the
 
 <span id="page_229">p. 229</span>
@@ -1092,7 +1092,7 @@ into collision with each other \[in their eagerness to answer him\], but
 when Apollonides gave up the turn, Pharnaces continued, "This fact
 *does* most of all prove the moon to be a fire or a star, for she is not
 *entirely* invisible during eclipses, but displays the hot-coal <span
-id="fr_260"></span>[1](#fn_260) and grim colour which is her own proper
+id="fr_260"></span>[1](#fn_260.md) and grim colour which is her own proper
 hue." But Apollonides stood firm with respect to the shadow, "for \[he
 said\] the mathematicians always so denominated the unillumined place,
 and that the heavens did not admit of 'shadow.'" "This \[said I\] is
@@ -1104,7 +1104,7 @@ coming into it … and altogether," added I, "it is silly to say the
 shadow of the earth does not reach so far.… the shadow of the moon
 impinging upon the sight, and … towards the earth, causes an eclipse of
 the sun. I will now turn to you, Pharnaces, for that coal-like and
-glowing <span id="fr_261"></span>[2](#fn_261) colour, which you pretend
+glowing <span id="fr_261"></span>[2](#fn_261.md) colour, which you pretend
 is the natural complexion of the moon, is really that of a body that
 possesses density and depth; for in things unsubstantial no remnant or
 vestige of flame is accustomed to remain; nor is there any food for fire
@@ -1135,13 +1135,13 @@ that moons in eclipse assume various colours; and mathematicians
 (astrologers) define these colours, and distinguish them according to
 the time and the season? For instance, if the moon be eclipsed in the
 evening, she appears dreadfully black up to the third <span
-id="fr_262"></span>[1](#fn_262) and one-half hour, but if at midnight
+id="fr_262"></span>[1](#fn_262.md) and one-half hour, but if at midnight
 she emits this \[just mentioned\] purplish light, and fire, and
 flame-colour, whilst from the hour of morning <span
-id="fr_263"></span>[2](#fn_263) and half an hour later, the blush rises
+id="fr_263"></span>[2](#fn_263.md) and half an hour later, the blush rises
 on her face; and finally at daybreak she puts on a dark blue and
 cheerful complexion, from which in reality the poets and Empedocles
-style her the 'Blue-eyed.' <span id="fr_264"></span>[3](#fn_264) When,
+style her the 'Blue-eyed.' <span id="fr_264"></span>[3](#fn_264.md) When,
 therefore, we see the moon putting on so many different colours when in
 the shadow, they do not deal fairly in dwelling upon a single one of
 them, namely, the smouldering coal, which we really may say is the most
@@ -1150,7 +1150,7 @@ the fire shining through the shadow round about her; but her natural
 colour \[we define\] to be dark-blue and earthy. For whereas here below
 shady places in the vicinity of lakes and rivers that catch the sun are
 similarly dyed and made brilliant in robes of purple, yea, even of
-*scarlet*, <span id="fr_265"></span>[4](#fn_265)
+*scarlet*, <span id="fr_265"></span>[4](#fn_265.md)
 
 <span id="page_231">p. 231</span>
 
@@ -1162,11 +1162,11 @@ of all kinds, should extract different colours at different times, and
 give them out from the moon? A star, or a fire, would not in the shadow
 show itself black, or glaucous, or dark blue; but over mountains, or
 plains, or sea, many variations of colour from the sun go and come; and
-he casts the lustre of the dye, <span id="fr_266"></span>[1](#fn_266)
+he casts the lustre of the dye, <span id="fr_266"></span>[1](#fn_266.md)
 tempered with shadows and with mists, as with the hues of the painter's
 palette; whereof that of the sea, widely diffused, Homer hath given a
 name to, calling it 'violet-coloured,' <span
-id="fr_267"></span>[2](#fn_267) and 'wine-faced ocean,' and elsewhere
+id="fr_267"></span>[2](#fn_267.md) and 'wine-faced ocean,' and elsewhere
 the 'purple wave;' and, again, 'blue-green sea,' and the 'white calm;'
 whereas the variations about earth of colours showing themselves
 differently at different times he has passed over in silence as being
@@ -1174,7 +1174,7 @@ endless in quantity. The moon is not likely to possess only a *single*
 visible appearance like the sea; but much more so to resemble the earth
 in her nature, concerning which Socrates of old told a fable, whether
 that he was hinting at this, or describing, it may be, some other
-creation. <span id="fr_268"></span>[3](#fn_268) For it is neither
+creation. <span id="fr_268"></span>[3](#fn_268.md) For it is neither
 incredible nor astonishing if she, having nothing in herself that is
 corrupting or turbid, but extracting the pure light out of heaven, and
 being full of heat, not of a consuming and fierce fire, but one that is
@@ -1185,7 +1185,7 @@ wondrous beauties
 
 of scenery, flame-coloured hills, zones of purple, gold and silver, not
 dug out from her bowels, but cropping up in abundance to the surface, or
-overlaid upon polished eminences. <span id="fr_269"></span>[1](#fn_269)
+overlaid upon polished eminences. <span id="fr_269"></span>[1](#fn_269.md)
 And if the sight (vision) of these things penetrates through the shadow
 differently at different times, as far as us, by reason of some
 difference and variation of the surrounding medium (atmosphere), the
@@ -1196,7 +1196,7 @@ the Medea and Assyrians enjoys honours well suited to barbarians, who
 worship things hurtful before things worthy of reverence, by way of
 deprecating their anger; but the name of Earth is, I ween, dear to all,
 and to the Greek even venerable, and with us <span
-id="fr_270"></span>[2](#fn_270) it is the hereditary rule to worship her
+id="fr_270"></span>[2](#fn_270.md) it is the hereditary rule to worship her
 in the same way as any other deity. We men are far from thinking the
 moon, which is a celestial earth, to be a body without life, and without
 mind, and destitute of those things which the gods have a right to
@@ -1220,23 +1220,23 @@ streams or of deep ravines, and comes all the way from the moon to us
 here to our sight? Perhaps you do not consider the consequences, must I
 tell them? Listen, then, even though you be not ignorant of them
 already. The diameter of the moon measures twelve fingers’
-breadth, <span id="fr_271"></span>[1](#fn_271) as it appears to the eye,
+breadth, <span id="fr_271"></span>[1](#fn_271.md) as it appears to the eye,
 at her mean distances; whilst of the black and shaded parts each one
 appears larger than a half digit, so as to be larger than the
 twenty-fourth part of the diameter; and, again, if we should estimate
 the circumference of the moon at thirty thousand stadia <span
-id="fr_272"></span>[2](#fn_272) only, and the diameter at ten thousand,
+id="fr_272"></span>[2](#fn_272.md) only, and the diameter at ten thousand,
 according to the rule, then each one of the shaded parts in her, will
 not be less than five hundred stadia. <span
-id="fr_273"></span>[3](#fn_273) Consider, pray, in the first place,
+id="fr_273"></span>[3](#fn_273.md) Consider, pray, in the first place,
 whether it be possible that such cavities and such great inequalities of
 surface should exist in the moon as to produce an obscuration of this
 extent. In the next place, being so large, why are they not
-perceptible <span id="fr_274"></span>[4](#fn_274) to us? "And I, smiling
+perceptible <span id="fr_274"></span>[4](#fn_274.md) to us? "And I, smiling
 at him, replied, "Well done, Apollonides, to have invented such a
 demonstration, on the strength of which you will make out both yourself
 and me to be bigger than those Aloads <span
-id="fr_275"></span>[5](#fn_275) of old; not, however, at all times of
+id="fr_275"></span>[5](#fn_275.md) of old; not, however, at all times of
 day, but chiefly at sunrise and sunset; you think that because the sun
 makes our shadows enormous, the fact furnishes this fine argument to the
 sense, that if the shadow cast be big the thing casting the shadow must
@@ -1254,8 +1254,8 @@ both of us, however, have often heard that popular iambic line—
 <span class="contnote">\[paragraph continues\]</span> For the shadow of
 the mountain, as it seems, strikes upon a little cow of bronze,
 extending a length of no less than seven hundred <span
-id="fr_276"></span>[1](#fn_276) stadia across the sea … <span
-id="fr_277"></span>[2](#fn_277) to be the height that casts the shadow;
+id="fr_276"></span>[1](#fn_276.md) stadia across the sea … <span
+id="fr_277"></span>[2](#fn_277.md) to be the height that casts the shadow;
 for the reason that the divergences of the light make the shadows many
 times greater than the bodies themselves. Come, pray, and consider that
 the sun is at his greatest distance from the moon at what time she is
@@ -1284,9 +1284,9 @@ assert the earth to be illuminated by
 
 <span id="page_235">p. 235</span>
 
-the moon, <span id="fr_278"></span>[1](#fn_278) to demonstrate that the
+the moon, <span id="fr_278"></span>[1](#fn_278.md) to demonstrate that the
 Sun shows himself (is reflected) in the moon in the same manner <span
-id="fr_279"></span>[2](#fn_279) by night, when the reflection from him
+id="fr_279"></span>[2](#fn_279.md) by night, when the reflection from him
 is produced. But as he does not appear then, they believe that the
 illumination takes place in some other way than by *reflection:* but if
 this be not so, then neither is the moon an earth." "What answer, then,
@@ -1296,9 +1296,9 @@ reflection are in all probability universal, and like our own."
 way they are not universal. In the first place, observe how these people
 take the phenomena of the spectrum, upside down and inside out: for upon
 earth and below it is the *water*, but above earth, and on high, it is
-the *moon*. <span id="fr_280"></span>[3](#fn_280) Consequently the
+the *moon*. <span id="fr_280"></span>[3](#fn_280.md) Consequently the
 reflected rays make the form of the angle corresponding—the one having
-its apex <span id="fr_281"></span>[4](#fn_281) above upon the moon, the
+its apex <span id="fr_281"></span>[4](#fn_281.md) above upon the moon, the
 other having it below upon the earth. Let them, therefore, not demand
 that it shall produce every image proper to mirrors, or an equal
 reflection from every distance—for in so doing they are fighting against
@@ -1306,21 +1306,21 @@ demonstration. But those who make out the moon to be a body, neither
 polished nor fluid like water, but ponderous and earthy, I understand
 how they borrow from the sun what the appearance is in her that meets
 the sight: for neither does milk produce the same kind of mirrors, <span
-id="fr_282"></span>[5](#fn_282) nor render back reflections (as the
+id="fr_282"></span>[5](#fn_282.md) nor render back reflections (as the
 water), owing to the inequality and density of its particles: by what
 means, therefore, is it possible that the moon should send out from
 herself an image in the same way as the more brilliant surfaces of
 mirrors? And yet, even in these, if a cobweb, or rust, <span
-id="fr_283"></span>[6](#fn_283) or roughness should cover the
+id="fr_283"></span>[6](#fn_283.md) or roughness should cover the
 
 <span id="page_236">p. 236</span>
 
 focus from which the image is generated it is \[not\] <span
-id="fr_284"></span>[1](#fn_284) reflected and imaged; and the mirrors
+id="fr_284"></span>[1](#fn_284.md) reflected and imaged; and the mirrors
 themselves are seen, but give back no reflection. And whoso pretends
 that either our sight should reflect upon the sun, or else that the moon
 should not reflect the sun from herself upon us, is ridiculous <span
-id="fr_285"></span>[2](#fn_285) by his requiring the eye to be a sun,
+id="fr_285"></span>[2](#fn_285.md) by his requiring the eye to be a sun,
 the sight the solar beam, and the moon the heavens. For that the Sun's
 reflection, impinging with a blow upon the moon by reason of its
 intensity and brightness, should be carried as far as us, is reasonable
@@ -1339,7 +1339,7 @@ mirrors make the reflected light more intense than that surrounding
 them, so as frequently to emit a flame; whilst the convex and spherical
 kinds, by reason of the light striking on them from all sides, produce a
 feeble and indistinct For you observe, <span
-id="fr_286"></span>[3](#fn_286) indeed, when two rainbows appear, from a
+id="fr_286"></span>[3](#fn_286.md) indeed, when two rainbows appear, from a
 cloud enveloping another cloud, that the one enclosing the other shows
 its hues weak and confused: because the exterior cloud, lying further
 off from
@@ -1365,10 +1365,10 @@ different theories that have not slipped our memory. But it is now high
 time to call upon Sylla, nay, rather to *exact* from him his story, as
 having been our hearer upon certain conditions. Wherefore, if you
 please, let us end our walk, and, sitting down upon the steps, <span
-id="fr_287"></span>[1](#fn_287) furnish him with a stationary audience."
+id="fr_287"></span>[1](#fn_287.md) furnish him with a stationary audience."
 This was agreed to; and when we had sat down: "I," said Theon, "desire
 as much as any one of you to hear what is about to be said,
-Lamprias; <span id="fr_288"></span>[2](#fn_288) but previously I would
+Lamprias; <span id="fr_288"></span>[2](#fn_288.md) but previously I would
 be glad to hear about those said to live in the moon—not *who* they are
 that dwell there, but whether it is *possible* to inhabit there: for if
 that is not possible, it is absurd to say the moon is an earth, for she
@@ -1388,14 +1388,14 @@ Ixions, with such incredible velocity of revolution … and yet she does
 not move with a single motion; but, as is said somewhere, she is a
 'traveller on three roads,' at one and the same time carried onwards
 lengthways towards the Zodiac, and broadways, <span
-id="fr_289"></span>[1](#fn_289) and deepways. Of which motions, the
+id="fr_289"></span>[1](#fn_289.md) and deepways. Of which motions, the
 first the mathematicians call the 'circuit,' the second the 'spiral,'
 and the third, I know not why, the inequality:' although they have
 observed nothing *equal* or regular in her recessions. Consequently, if
-a *lion* <span id="fr_290"></span>[2](#fn_290) once fell down into the
+a *lion* <span id="fr_290"></span>[2](#fn_290.md) once fell down into the
 Peloponnesus from her rapid gyration, it is \[not\] surprising—it is, on
 the contrary, a wonder we do not continually see showers of men, and
-heaps of cattle, <span id="fr_291"></span>[3](#fn_291) diving down from
+heaps of cattle, <span id="fr_291"></span>[3](#fn_291.md) diving down from
 thence, and turning round and round in the air. For it is ridiculous to
 argue about a residence there, if she is not capable of containing
 generation or stability. For whilst the Egyptians and Troglodytes, over
@@ -1421,7 +1421,7 @@ inhabitants, by issuing out unto them daily ambrosia, in the same way as
 Pherecydes of old supposes the gods are fed. As for the Indian root,
 which Megasthenes says they neither eat nor drink, but, as they are
 *without mouths*, they burn and use like incense, and are nourished by
-the fume <span id="fr_292"></span>[1](#fn_292)—how is it to be found
+the fume <span id="fr_292"></span>[1](#fn_292.md)—how is it to be found
 growing there if the moon is never rained on?"
 
 XXV\. When Theon had spoken this, … "Well done," I replied; "by the
@@ -1466,7 +1466,7 @@ within herself, in which she digests the exhalations rising up from
 earth, and in concert with the sun extracts the over fiery and harsh
 part of the same, and discharges it. And if we concede so much to
 ancient tradition, that she is named 'Artemis,' <span
-id="fr_293"></span>[1](#fn_293) we shall say, as before, that she is
+id="fr_293"></span>[1](#fn_293.md) we shall say, as before, that she is
 *unfruitful* (like that virgin goddess), yet in other respects full of
 help and beneficial. For her revolution being accomplished with great
 evenness and tranquillity, smooths down and distends the atmosphere that
@@ -1493,7 +1493,7 @@ indeed do not last for a long time, which circumstance produces a
 peculiar temperature, and softens down either extreme, and the mean
 between them, in all likelihood, produces a temperature resembling that
 of spring. In the next place, the \[sun\] sends down on us his heat
-through turbid air, <span id="fr_294"></span>[1](#fn_294) and with much
+through turbid air, <span id="fr_294"></span>[1](#fn_294.md) and with much
 effort, which heat is nourished by the exhalations \[of earth\]; but
 there above, the air is rarefied and transparent, and disperses and
 diffuses the sun's rays, that have no excessive heat or substance. Wood
@@ -1501,7 +1501,7 @@ and corn the rains themselves nourish, but in a different way: as up the
 country about Thebes, with you and at Syene, it is not the rain water
 \[that nourishes\], but the earth herself that drinks the earth-born
 water and employs the mind and dews, yet will not, I fancy, submit to a
-comparison, <span id="fr_295"></span>[2](#fn_295) in point of fertility,
+comparison, <span id="fr_295"></span>[2](#fn_295.md) in point of fertility,
 with the best rain-watered soil, by reason of its goodness and natural
 constitution. Plants the same in kind amongst us, even though they be
 greatly pinched
@@ -1510,20 +1510,20 @@ greatly pinched
 
 by the frosts, bring forth abundant and fine fruit; whereas in Libya and
 amongst you in Egypt they are difficult of cultivation, and very
-susceptible of the frosts. <span id="fr_296"></span>[1](#fn_296) Whilst
+susceptible of the frosts. <span id="fr_296"></span>[1](#fn_296.md) Whilst
 Gedrosea and the Troglodyte country, which reaches down to the ocean, is
 barren through want of rain, and entirely destitute of water, yet in the
 seas lying adjacent, and spreading round it, grow wonderful monsters of
 plants, and spring up from the bottom; some of which they call olive
 trees, some laurels, others Isis-hair. The plants called
-'anacampsaroles,' <span id="fr_297"></span>[2](#fn_297) not only live,
+'anacampsaroles,' <span id="fr_297"></span>[2](#fn_297.md) not only live,
 when taken out of the ground, if hung up as long as you please, but even
 flower.… Some \[crops\] are sown towards winter, others again, for
 instance, sesame at midsummer, and millet, also thyme or centaury, if
 planted in good and rich soil, and watered and irrigated, degenerates
 from its natural character and loses its virtue, but loves dryness and
 reverts thereby to its own nature. And if it be true, as people say,
-that they <span id="fr_298"></span>[3](#fn_298) do not even bear the
+that they <span id="fr_298"></span>[3](#fn_298.md) do not even bear the
 dews, like most of the Arabian plants, which fade away when moistened
 and are destroyed—what wonder is it if there should grow in the moon
 roots, seeds, and woods that require neither rain nor winter, but are
@@ -1540,11 +1540,11 @@ down to us from her, but on the contrary many proofs of moisture and a
 feminine nature; the growth of plants, the putrefaction of meat, the
 conversion \[fermentation\] and settling of wine, the softening of
 timber, the easy delivery of women. <span
-id="fr_299"></span>[1](#fn_299) I am afraid of again provoking and
+id="fr_299"></span>[1](#fn_299.md) I am afraid of again provoking and
 stirring up Pharnaces, now that he is quiet, by talking of the tides of
 the ocean (as his own sect pretend), and the flooding of straits that
 are overspread and swollen by the action of the moon, through the
-renewal of their fluidity. <span id="fr_300"></span>[2](#fn_300)
+renewal of their fluidity. <span id="fr_300"></span>[2](#fn_300.md)
 Consequently, I will rather turn myself to you, my dear Theon; for you
 say, quoting to us those lines of Alcman's:
 
@@ -1557,12 +1557,12 @@ say, quoting to us those lines of Alcman's:
 
 <span class="contnote">\[paragraph continues\]</span> Because here he
 calls the air Jupiter, and says that he, being *moistened* by the moon,
-*dissolves* <span id="fr_301"></span>[3](#fn_301) into the dew. She
+*dissolves* <span id="fr_301"></span>[3](#fn_301.md) into the dew. She
 appears, my friend, to possess a nature the opposite to the sun's, that
 is, if not only whatever he is naturally disposed to condense and to dry
 up, she by her nature softens and dissolves, but also she moistens and
 cools down the heat proceeding from him, when it impinges upon and is
-mingled with herself. <span id="fr_302"></span>[4](#fn_302) Those who
+mingled with herself. <span id="fr_302"></span>[4](#fn_302.md) Those who
 think the moon to be a fiery
 
 <span id="page_244">p. 244</span>
@@ -1571,7 +1571,7 @@ and burning substance, are in the wrong; and they who demand that living
 creatures up there shall possess all the things that those here below
 require for their birth, nutriment, and existence, seem to pay no
 consideration to the disparities in nature of the two worlds, in which
-it is perhaps possible <span id="fr_303"></span>[1](#fn_303) to find
+it is perhaps possible <span id="fr_303"></span>[1](#fn_303.md) to find
 greater and more numerous differences and disparities of the living
 things between one another than are found between things that do not
 live at all \[here on earth\]. Granting that there be no such things in
@@ -1589,7 +1589,7 @@ asphodel.'</span>
 <span class="contnote">\[paragraph continues\]</span> But Euripides
 really hath made it plain, by teaching that Nature with quite a small
 spark warms up and keeps together the living being, "if it shall have
-received the bigness of an olive, <span id="fr_304"></span>[2](#fn_304)
+received the bigness of an olive, <span id="fr_304"></span>[2](#fn_304.md)
 standing in need of no assistance more." And that those living upon the
 moon must be slender in person, and are content to be fed upon what
 comes to hand, is probable enough; for that the moon herself is, like
@@ -1598,7 +1598,7 @@ earth), said to be nourished by the moist vapours rising from the earth,
 as are also the other stars innumerable as they are: in the same way
 they suppose the necessary animals that the upper region produces are
 light and attenuated. But these facts we do not perceive, <span
-id="fr_305"></span>[3](#fn_305) nor that there is place, nature, or
+id="fr_305"></span>[3](#fn_305.md) nor that there is place, nature, or
 other constitution of things
 
 <span id="page_245">p. 245</span>
@@ -1612,7 +1612,7 @@ use the water just as we do the air, you would think he was imposing
 upon you with fiction and prodigies. We appear to be similarly situated
 and to experience the same thing with respect to the moon in
 disbelieving that men of some sort inhabit her. *They* on their
-[part](errata.htm#3) will, I fancy, much more wonder as they look down
+[part](errata.htm#3.md) will, I fancy, much more wonder as they look down
 upon our earth, lying like the sediment and dregs of the universe
 amongst damps, mists, and clouds; showing through them a lightless, low,
 immovable spot, *they* must wonder whether it breeds and maintains
@@ -1644,27 +1644,27 @@ objection, who begins after Homer's fashion with,
 </div>
 
 distant five days’ sail from Britain, <span
-id="fr_306"></span>[1](#fn_306) going westwards, and
+id="fr_306"></span>[1](#fn_306.md) going westwards, and
 
 <span id="page_246">p. 246</span>
 
 three others equally distant from it, and from each other, are more
 opposite to the summer visits of the sun; in one of which the barbarians
-fable that Saturn is imprisoned by <span id="fr_307"></span>[1](#fn_307)
+fable that Saturn is imprisoned by <span id="fr_307"></span>[1](#fn_307.md)
 Jupiter, whilst his son lies by his side, as though keeping guard over
 those islands and the sea, which they call 'the Sea of Saturn.' <span
-id="fr_308"></span>[2](#fn_308) The great continent by which the great
+id="fr_308"></span>[2](#fn_308.md) The great continent by which the great
 sea is surrounded on all sides, they say, lies less distant from the
 others, but about five thousand stadia from Ogygia, <span
-id="fr_309"></span>[3](#fn_309) for one sailing in a rowing-galley; for
+id="fr_309"></span>[3](#fn_309.md) for one sailing in a rowing-galley; for
 the sea is difficult of passage and muddy through the great number of
 currents, and these currents issue out of the great land, and shoals are
 formed by them, and the sea becomes clogged and full of earth, by which
 it has the appearance of being solid. <span
-id="fr_310"></span>[4](#fn_310) That sea-coast of the mainland Greeks
+id="fr_310"></span>[4](#fn_310.md) That sea-coast of the mainland Greeks
 are settled on, around a bay not smaller than the Mæotis, the entrance
 of which lies almost in a straight line opposite the entrance to the
-Caspian Sea. <span id="fr_311"></span>[5](#fn_311) Those Greeks call and
+Caspian Sea. <span id="fr_311"></span>[5](#fn_311.md) Those Greeks call and
 consider themselves *continental* people, but *islanders* all such as
 inhabit this land of ours, inasmuch as it is surrounded on all sides by
 the sea; and they believe that with the peoples of Saturn
@@ -1680,7 +1680,7 @@ the 'Informer,' but they 'Nocturnal,' comes into the sign of the Bull
 every thirty years, they having got ready a long while beforehand all
 things required for the sacrifice and the games … they send out people
 appointed by lot in the same number <span
-id="fr_312"></span>[1](#fn_312) of ships, furnished with provisions and
+id="fr_312"></span>[1](#fn_312.md) of ships, furnished with provisions and
 stores necessary for persons intending to cross so vast a sea by dint of
 rowing, as well as to live a long time in a foreign land. When they have
 put to sea, they meet, naturally, with different fates, but those who
@@ -1688,12 +1688,12 @@ escape from the sea, first of all, touch at the foremost isles, which
 are inhabited by Greeks also, and see the sun setting for less than one
 hour for thirty days in succession; and this interval is night, attended
 with slight darkness, and a twilight glimmering out of the west. <span
-id="fr_313"></span>[2](#fn_313) Having spent ninety days there, treated
+id="fr_313"></span>[2](#fn_313.md) Having spent ninety days there, treated
 with honour and hospitality, being both considered and entitled 'holy,'
 thenceforward they voyage with the help of the winds. No other people
 inhabit the islands save themselves and those that had been sent out
 before; it is, indeed, allowed to such as have served thirteen <span
-id="fr_314"></span>[3](#fn_314) years in waiting upon the god, to return
+id="fr_314"></span>[3](#fn_314.md) years in waiting upon the god, to return
 home, but the greatest part prefer to remain there, partly out of habit,
 partly because they have all things in abundance without toil and
 trouble, as they pass their time in
@@ -1701,7 +1701,7 @@ trouble, as they pass their time in
 <span id="page_248">p. 248</span>
 
 sacrifices and hymn singing, or in studying legends and philosophy of
-some sort. <span id="fr_315"></span>[1](#fn_315) For wonderful are both
+some sort. <span id="fr_315"></span>[1](#fn_315.md) For wonderful are both
 the island and the mildness of the climate; whilst the deity himself has
 been an obstacle to some when contemplating departure, by manifesting
 himself to them as to familiars and friends, not by way of dreams or by
@@ -1717,24 +1717,24 @@ being endowed with prophecy, foretell, on their own account, many
 things, but important matters, and such as concern the highest things,
 they go down into the cavern and report as the dreams of Saturn; for
 whatsoever things Jupiter is devising for the future, Saturn
-dreams <span id="fr_316"></span>[2](#fn_316) what they are about, and
-that which is kingly and divine. <span id="fr_317"></span>[3](#fn_317)
+dreams <span id="fr_316"></span>[2](#fn_316.md) what they are about, and
+that which is kingly and divine. <span id="fr_317"></span>[3](#fn_317.md)
 The stranger having been carried there, as he told us, and waiting upon
 the god at his leisure, he gained acquaintance with astrology <span
-id="fr_318"></span>[4](#fn_318) and
+id="fr_318"></span>[4](#fn_318.md) and
 
 <span id="page_249">p. 249</span>
 
 geometry as far as it is possible to advance, whilst he took up 'natural
 science' for his department of philosophy. <span
-id="fr_319"></span>[1](#fn_319) But, seized at last with a desire and
+id="fr_319"></span>[1](#fn_319.md) But, seized at last with a desire and
 longing to become acquainted with the 'great island,' for so, as was
 natural, they denominate the territories inhabited by ourselves; when
-the thirty years had expired, <span id="fr_320"></span>[2](#fn_320) and
+the thirty years had expired, <span id="fr_320"></span>[2](#fn_320.md) and
 the successors were come from home, he took leave of his friends and
 sailed away, having provided himself carefully with all other stores,
 and carrying his travelling expenses in \[the shape of\] cups of
-gold. <span id="fr_321"></span>[3](#fn_321) All that he endured, and how
+gold. <span id="fr_321"></span>[3](#fn_321.md) All that he endured, and how
 many nations he passed through, consulting their sacred books, and
 receiving initiation into all their mysteries, would take a whole day to
 enumerate in the way that he related it to us, describing the
@@ -1760,7 +1760,7 @@ supposing the place of each as one and the same, and that both were
 occupied by the same things, for the one is on the earth, and mistress
 of things upon earth, the other in the moon, and of the things
 pertaining to the moon. She is named the 'Maid,' and 'Persephone,' <span
-id="fr_322"></span>[1](#fn_322) the latter as being the *bringer of
+id="fr_322"></span>[1](#fn_322.md) the latter as being the *bringer of
 light*, but 'maid' because we call *maid* (pupil) that part of the eye
 in which the image of the spectator is reflected, just as the image of
 the sun is reflected in the moon. In the legends told about their
@@ -1783,7 +1783,7 @@ thing hath not ill said,
 
 <span class="contnote">\[paragraph continues\]</span> For where the
 earth's shadow ceases to reach, this point we supposed the limit and end
-of earth. <span id="fr_323"></span>[2](#fn_323) To this place no bad or
+of earth. <span id="fr_323"></span>[2](#fn_323.md) To this place no bad or
 unpurified person ascends; but the good, after decease, being carried
 hither, continue here enjoying a very tranquil life, not, however, a
 blissful one, nor that of gods, until the Second Death."
@@ -1797,7 +1797,7 @@ rightly think a *composite* being, but wrongly think a composite of
 *soul*, being no less in error than they who think the soul to be only
 part of the *body;* for the mind is as much better and more divine than
 the soul, as the soul is superior to the body. For the conjunction of
-body and soul produces <span id="fr_324"></span>[1](#fn_324) … .
+body and soul produces <span id="fr_324"></span>[1](#fn_324.md) … .
 *Reason*, whereof the one is the origin of pleasure and pain, the other,
 of vice and virtue. Of these three combined things, the earth furnished
 for the birth the *body*, the moon the *soul*, the sun the *mind*, just
@@ -1811,11 +1811,11 @@ consort is the Earthly Hermes, of the latter, the Heavenly. The former
 separates the soul from the body, hastily and with violence; but
 Persephone gently and slowly loosens the mind from the soul, and for
 this reason she has been named the "Only-begotten," <span
-id="fr_325"></span>[2](#fn_325) because the best part of the man becomes
+id="fr_325"></span>[2](#fn_325.md) because the best part of the man becomes
 *single* when separated from the rest by her means. Each of these
 changes happens, according to nature, as follows: every soul, whether
 without mind, or joined to mind, on departing from the body, is ordained
-to wander in the region lying <span id="fr_326"></span>[3](#fn_326)
+to wander in the region lying <span id="fr_326"></span>[3](#fn_326.md)
 between the moon and
 
 <span id="page_252">p. 252</span>
@@ -1828,17 +1828,17 @@ the mildest region of air, which they call the "Meadow of Hades." Then,
 as though returning to their native land after enforced banishment, they
 taste of joy, such as the initiated into mysteries feel, mingled with
 trouble and apprehension, joined with a peculiar hope, for <span
-id="fr_327"></span>[1](#fn_327) it drives off and tosses away many of
+id="fr_327"></span>[1](#fn_327.md) it drives off and tosses away many of
 them when already making for the moon, and they \[the virtuous\] also
 see the ghosts of people there turned upside down, and, as it were,
-descending into the abyss. <span id="fr_328"></span>[2](#fn_328) Such as
+descending into the abyss. <span id="fr_328"></span>[2](#fn_328.md) Such as
 are arrived above, and have got firm footing there \[on the moon\], like
 victors in the games, crowned with wreaths, encircle their heads with
 crowns called crowns of "Constancy," <span
-id="fr_329"></span>[3](#fn_329) made of feathers, <span
-id="fr_330"></span>[4](#fn_330) because the irrational and passionate
+id="fr_329"></span>[3](#fn_329.md) made of feathers, <span
+id="fr_330"></span>[4](#fn_330.md) because the irrational and passionate
 part of the soul they have in life presented to Reason, manageable and
-kept in restraint. <span id="fr_331"></span>[5](#fn_331) In the next
+kept in restraint. <span id="fr_331"></span>[5](#fn_331.md) In the next
 place, their sight resembles a sunbeam, and the soul, wafted on high by
 the air surrounding the moon, gains tone and vigour from the same, just
 as here below steeled
@@ -1855,7 +1855,7 @@ of the moon; also her nature, which is not simple and unmixed, but as it
 were a combination of star and earth; for just as earth mixed with air
 and moisture becomes soft, and the blood mingling itself with the flesh
 produces sensibility, in like manner they say the moon being mixed
-up <span id="fr_332"></span>[1](#fn_332) from her inmost depth, becomes
+up <span id="fr_332"></span>[1](#fn_332.md) from her inmost depth, becomes
 both animated and generative, and at the same time has the symmetrical
 arrangement of its levity around the centre of the mass for a
 counteracting force to its own gravity. For it is in this way that our
@@ -1871,14 +1871,14 @@ the sun is composed of fire and the First Solid; but the moon of the
 Second Solid and her own air; and the earth out of water, fire, and the
 Third of the Solids; and, generally, that neither the solid, taken by
 itself, nor the fluid, is capable of a soul. Thus much, then, for the
-physical constitution <span id="fr_333"></span>[2](#fn_333) of the moon.
+physical constitution <span id="fr_333"></span>[2](#fn_333.md) of the moon.
 The breadth, and the magnitude of her is not what the geometricians
 assert, but much larger; for
 
 <span id="page_254">p. 254</span>
 
 she measures the shadow of the earth only a few times <span
-id="fr_334"></span>[1](#fn_334) with her own magnitude, not in
+id="fr_334"></span>[1](#fn_334.md) with her own magnitude, not in
 consequence of her smallness, but because she puts out all her speed,
 that she may pass through the darkened spot, and carry out with her the
 souls of the good, that are eager for it and cry aloud to her; because
@@ -1889,7 +1889,7 @@ rush up towards her from below through the shadow, wailing and shouting
 and clap their hands, and make a noise to scare away the ghosts), for
 the so-called Face frightens them when they come nigh, looking grim and
 horrible. Such it is not really, but like <span
-id="fr_335"></span>[2](#fn_335) as our earth has deep and great
+id="fr_335"></span>[2](#fn_335.md) as our earth has deep and great
 gulfs—one of them flowing inwards towards us through the Pillars of
 Hercules; others flowing outwards as the Caspian, and those in the Red
 Sea—in like manner there are deep places and gulf-like in the moon,
@@ -1908,11 +1908,11 @@ and assist in the most advanced of the initiatory rites \[in the several
 
 <span class="contnote">\[paragraph continues\]</span> Mysteries\], as
 punishers and keepers of wrong-doers they act, and shine as saviours in
-battle and at sea; <span id="fr_336"></span>[1](#fn_336) and whatsoever
+battle and at sea; <span id="fr_336"></span>[1](#fn_336.md) and whatsoever
 thing in these capacities they do amiss, either out of spite, unfair
 partiality, or envy, they are punished for it, for they are driven down
 again to earth and coupled with human bodies. Of the best of these genii
-they told him were those who <span id="fr_337"></span>[2](#fn_337) wait
+they told him were those who <span id="fr_337"></span>[2](#fn_337.md) wait
 upon Saturn now, and the same in old times were the Idæi Dactyli in
 Crete, the Curetes in Phrygia, the Trophonii in Bœotia Lebadea, and
 others without number in various parts of the world, of whom the holy
@@ -1921,7 +1921,7 @@ ceased since they have experienced a removal of their virtue to another
 locality. This change they suffer, some sooner, some later, when the
 *mind* has been separated from the *soul*. The mind separates itself out
 of a desire of reaching the Image in the sun, <span
-id="fr_338"></span>[3](#fn_338) through which shines forth the
+id="fr_338"></span>[3](#fn_338.md) through which shines forth the
 Desirable, and Beautiful, and Divine, and Blissful, to which every
 unmixed nature aspires in different ways. For the moon herself, out of
 desire for the sun, revolves round and comes in contact with him,
@@ -1940,7 +1940,7 @@ fled.'</span>
 <span class="contnote">\[paragraph continues\]</span> For the soul does
 not suffer this all at once; nor as soon as separated from the body, but
 afterwards when she has become desolate and solitary, when the mind is
-departed. <span id="fr_339"></span>[4](#fn_339)
+departed. <span id="fr_339"></span>[4](#fn_339.md)
 
 <span id="page_256">p. 256</span>
 
@@ -1960,10 +1960,10 @@ individual of us is not anger, nor fear, nor desire, just as he is
 neither pieces of flesh nor humours; but that wherewith we think and
 understand is the soul, impressed by the mind, and in its turn
 impressing the body, and impinging upon it from all parts it models the
-form; <span id="fr_340"></span>[1](#fn_340) so that, though it may
+form; <span id="fr_340"></span>[1](#fn_340.md) so that, though it may
 continue a long time separated from both (the mind and the body), yet as
 it retains the likeness and imprint, it is properly denominated the
-"Image" (or *Spectre*). <span id="fr_341"></span>[2](#fn_341) Of these
+"Image" (or *Spectre*). <span id="fr_341"></span>[2](#fn_341.md) Of these
 images the moon is the element: for they are resolved into her
 substance, like as bodies into earth, of the dead. Quickly resolved are
 the temperate, such as have led a tranquil, philosophic, and leisurely
@@ -1976,9 +1976,9 @@ them up, and draws them away from the moon towards a second birth; she
 suffers them not, however \[to escape\], but recalls them to herself,
 and soothes them to remain. For it is far from quiet or orderly work,
 when souls, separated from mind, get possession of a body subject to
-passions. <span id="fr_342"></span>[3](#fn_342) Of such souls came
+passions. <span id="fr_342"></span>[3](#fn_342.md) Of such souls came
 perchance the Tityi and the Typhons, and that Typhon <span
-id="fr_343"></span>[4](#fn_343)
+id="fr_343"></span>[4](#fn_343.md)
 
 <span id="page_257">p. 257</span>
 
@@ -1986,7 +1986,7 @@ who used to hinder and trouble the oracular power at Delphi: for they
 are destitute of reason, and actuated by the passionate part, puffed up
 with pride and self-conceit. But, in time, even these the moon absorbs
 into herself, and reduces to order. In the next place, the sun having
-*impregnated* <span id="fr_344"></span>[1](#fn_344) the mind with vital
+*impregnated* <span id="fr_344"></span>[1](#fn_344.md) the mind with vital
 force, produces new souls. And, thirdly, earth furnishes a body: for
 earth takes back after death that which she gave at birth; whereas the
 sun *takes* nothing, only *takes back* the mind, which he gave: but the
@@ -2005,42 +2005,42 @@ the earth bears to the moon.
 
 "All this," said Sylla, "I heard the stranger recounting; and the
 chamberlains and ministers of Saturn <span
-id="fr_345"></span>[2](#fn_345) had related it, as he said, to him. You,
+id="fr_345"></span>[2](#fn_345.md) had related it, as he said, to him. You,
 Lamprias, are at liberty to make what use you please of the story."
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_213"></span>[197:1](pte08.htm#fr_213) This explanation of
+<span id="fn_213"></span>[197:1](pte08.htm#fr_213.md) This explanation of
 optical illusion.
 
-<span id="fn_214"></span>[198:1](pte08.htm#fr_214) This word has dropped
+<span id="fn_214"></span>[198:1](pte08.htm#fr_214.md) This word has dropped
 out of the text, but is indispensable.
 
-<span id="fn_215"></span>[198:2](pte08.htm#fr_215) Or perhaps plump and
+<span id="fn_215"></span>[198:2](pte08.htm#fr_215.md) Or perhaps plump and
 polished, as the Italian "*bagnato*."
 
-<span id="fn_216"></span>[198:3](pte08.htm#fr_216) πιέζει in text, for
+<span id="fn_216"></span>[198:3](pte08.htm#fr_216.md) πιέζει in text, for
 πιέζεται.
 
-<span id="fn_217"></span>[198:4](pte08.htm#fr_217) γραφικὴ, drawing in
+<span id="fn_217"></span>[198:4](pte08.htm#fr_217.md) γραφικὴ, drawing in
 outline, the first thing taught in Greek schools, as Pliny notes under
 "Pamphilus." This whole paragraph is in inextricable confusion.
 
-<span id="fn_218"></span>[199:1](pte08.htm#fr_218) When the moon takes
+<span id="fn_218"></span>[199:1](pte08.htm#fr_218.md) When the moon takes
 the form of a crescent.
 
-<span id="fn_219"></span>[200:1](pte08.htm#fr_219) All this is in
+<span id="fn_219"></span>[200:1](pte08.htm#fr_219.md) All this is in
 confusion, and some part quite lost, for the end of the sentence must be
 part of Apollonius's reply.
 
-<span id="fn_220"></span>[201:1](pte08.htm#fr_220) A curious reference
+<span id="fn_220"></span>[201:1](pte08.htm#fr_220.md) A curious reference
 to the old times of Greece, when the painted vase manufacture was of the
 same importance as the porcelain of our times. With the Romans
 earthenware served only for the commonest household usage.
 
-<span id="fn_221"></span>[202:1](pte08.htm#fr_221) Referring to the
+<span id="fn_221"></span>[202:1](pte08.htm#fr_221.md) Referring to the
 heating of sling-bullets—produced in reality by impact, but supposed by
 the ancients to be generated during their flight—
 
@@ -2050,13 +2050,13 @@ the ancients to be generated during their flight—
 
 </div>
 
-<span id="fn_222"></span>[202:2](pte08.htm#fr_222) Because it would
+<span id="fn_222"></span>[202:2](pte08.htm#fr_222.md) Because it would
 necessarily slip off a convex surface.
 
-<span id="fn_223"></span>[203:1](pte08.htm#fr_223) *Aliter*,
+<span id="fn_223"></span>[203:1](pte08.htm#fr_223.md) *Aliter*,
 Aristarchus.
 
-<span id="fn_224"></span>[203:2](pte08.htm#fr_224) The Zodiac. Modern
+<span id="fn_224"></span>[203:2](pte08.htm#fr_224.md) The Zodiac. Modern
 *savants* pass this theory slightingly by, as "a guess amongst many;"
 but the rule in such cases assures every one <span id="page_204">p.
 204</span> who can use his common sense that Aristarchus had his own
@@ -2065,43 +2065,43 @@ himself and his disciples of the soundness of Isis hypothesis. How
 unfortunate that Plutarch did not take the trouble to give some brief
 notice of them, as he has done here of so many others of less value.
 
-<span id="fn_225"></span>[204:1](pte08.htm#fr_225) τῆς ἐποχῆς should be
+<span id="fn_225"></span>[204:1](pte08.htm#fr_225.md) τῆς ἐποχῆς should be
 in the dative, else I cannot see how the passage can be construed.
 
-<span id="fn_226"></span>[204:2](pte08.htm#fr_226) Or "acute."
+<span id="fn_226"></span>[204:2](pte08.htm#fr_226.md) Or "acute."
 
-<span id="fn_227"></span>[205:1](pte08.htm#fr_227) ῥιζῶδες must be
+<span id="fn_227"></span>[205:1](pte08.htm#fr_227.md) ῥιζῶδες must be
 ῥοιζῶδες, of similar sound.
 
-<span id="fn_228"></span>[206:1](pte08.htm#fr_228) This must be an error
+<span id="fn_228"></span>[206:1](pte08.htm#fr_228.md) This must be an error
 for "centre."
 
-<span id="fn_229"></span>[206:2](pte08.htm#fr_229) Meaning the outer
+<span id="fn_229"></span>[206:2](pte08.htm#fr_229.md) Meaning the outer
 circumference of the globe.
 
-<span id="fn_230"></span>[206:3](pte08.htm#fr_230) A curious
+<span id="fn_230"></span>[206:3](pte08.htm#fr_230.md) A curious
 illustration, much bungled by the scribe. "Saw a beam in two at the
 centre, the globe being supposed hollow, each piece falls in an opposite
 direction until it strikes against earth's crust, when it is repelled,
 and the two pieces meet again at the centre."
 
-<span id="fn_231"></span>[207:1](pte08.htm#fr_231) His head would be
+<span id="fn_231"></span>[207:1](pte08.htm#fr_231.md) His head would be
 *upwards* with respect to the other surface of the globe; his feet with
 respect to ours.
 
-<span id="fn_232"></span>[208:1](pte08.htm#fr_232) If all the heavenly
+<span id="fn_232"></span>[208:1](pte08.htm#fr_232.md) If all the heavenly
 bodies can more about at great intervals from each other, why must all
 earthly bodies gravitate into one mass?
 
-<span id="fn_233"></span>[209:1](pte08.htm#fr_233) αὐτῆς in text for
+<span id="fn_233"></span>[209:1](pte08.htm#fr_233.md) αὐτῆς in text for
 σκίας?
 
-<span id="fn_234"></span>[209:2](pte08.htm#fr_234) A radius of 4,000
+<span id="fn_234"></span>[209:2](pte08.htm#fr_234.md) A radius of 4,000
 miles, making the moon's distance from earth 224,000. The text,
 therefore, should read myriad for thousand in the sum, as also appears
 from what follows.
 
-<span id="fn_235"></span>[209:3](pte08.htm#fr_235)
+<span id="fn_235"></span>[209:3](pte08.htm#fr_235.md)
 
 |                  |                   |
 |------------------|-------------------|
@@ -2111,212 +2111,212 @@ from what follows.
 
 About 40,300,000 miles.
 
-<span id="fn_236"></span>[211:1](pte08.htm#fr_236) \[Actuated, the
+<span id="fn_236"></span>[211:1](pte08.htm#fr_236.md) \[Actuated, the
 consequence of the diversity being.\]
 
-<span id="fn_237"></span>[212:1](pte08.htm#fr_237) A quotation from some
+<span id="fn_237"></span>[212:1](pte08.htm#fr_237.md) A quotation from some
 poet.
 
-<span id="fn_238"></span>[214:1](pte08.htm#fr_238) The Platonic term for
+<span id="fn_238"></span>[214:1](pte08.htm#fr_238.md) The Platonic term for
 the Divine Will, or the "Logos."
 
-<span id="fn_239"></span>[214:2](pte08.htm#fr_239) Natural position of
+<span id="fn_239"></span>[214:2](pte08.htm#fr_239.md) Natural position of
 each element.
 
-<span id="fn_240"></span>[215:1](pte08.htm#fr_240) Better rendered by
+<span id="fn_240"></span>[215:1](pte08.htm#fr_240.md) Better rendered by
 Wisdom, for it is the Achamoth of the Alexandrine Jews, and the Second
 Person, "the Spirit of God," in their Divinity.
 
-<span id="fn_241"></span>[216:1](pte08.htm#fr_241) In proportion to the
+<span id="fn_241"></span>[216:1](pte08.htm#fr_241.md) In proportion to the
 weight of each.
 
-<span id="fn_242"></span>[218:1](pte08.htm#fr_242) This Treatise being
+<span id="fn_242"></span>[218:1](pte08.htm#fr_242.md) This Treatise being
 in the form of a reported conversation.
 
-<span id="fn_243"></span>[218:2](pte08.htm#fr_243) The moon does not
+<span id="fn_243"></span>[218:2](pte08.htm#fr_243.md) The moon does not
 collect a stock of light within her body—otherwise her light would not
 be intermittent. "When the light of torches is augmented" by the
 kindling of additional torches.
 
-<span id="fn_244"></span>[219:1](pte08.htm#fr_244) Or "owl-faced," a
+<span id="fn_244"></span>[219:1](pte08.htm#fr_244.md) Or "owl-faced," a
 far-fetched sense of γλαυκώπις quite in Empedocles’ style.
 
-<span id="fn_245"></span>[220:1](pte08.htm#fr_245) There is sufficient
+<span id="fn_245"></span>[220:1](pte08.htm#fr_245.md) There is sufficient
 head room in the mirror-face for the images to be repeated as the eyes
 involuntarily change their position.
 
-<span id="fn_246"></span>[221:1](pte08.htm#fr_246) The doctrine of the
+<span id="fn_246"></span>[221:1](pte08.htm#fr_246.md) The doctrine of the
 equality of the angles of incidence and reflection may hold good for
 truly polished surfaces, but not for irregular surfaces.
 
-<span id="fn_247"></span>[221:2](pte08.htm#fr_247) Independently of the
+<span id="fn_247"></span>[221:2](pte08.htm#fr_247.md) Independently of the
 moon, but somewhere in the heavens on the way towards her.
 
-<span id="fn_248"></span>[222:1](pte08.htm#fr_248) Supposing the moon
+<span id="fn_248"></span>[222:1](pte08.htm#fr_248.md) Supposing the moon
 made of æther, the sun on the least contact would illuminate the whole
 orb, so there could be no half-moons or crescents.
 
-<span id="fn_249"></span>[223:1](pte08.htm#fr_249) "Sun" and "Air" have
+<span id="fn_249"></span>[223:1](pte08.htm#fr_249.md) "Sun" and "Air" have
 got interchanged in the text; but the true sense is obvious.
 
-<span id="fn_250"></span>[224:1](pte08.htm#fr_250) The phenomena
+<span id="fn_250"></span>[224:1](pte08.htm#fr_250.md) The phenomena
 attending an eclipse of the sun closely resemble those attending a
 regular sunset.
 
-<span id="fn_251"></span>[224:2](pte08.htm#fr_251) April 30, A.D. 59: a
+<span id="fn_251"></span>[224:2](pte08.htm#fr_251.md) April 30, A.D. 59: a
 notice fixing the date of this Treatise.
 
-<span id="fn_252"></span>[224:3](pte08.htm#fr_252) When the sun is
+<span id="fn_252"></span>[224:3](pte08.htm#fr_252.md) When the sun is
 setting, the view of his orb is obstructed by the elevation of the
 horizon between him and the spectators; but when he is eclipsed, our
 sight of him is intercepted by the moon coming between us and him.
 
-<span id="fn_253"></span>[225:1](pte08.htm#fr_253) Not the gentleman
+<span id="fn_253"></span>[225:1](pte08.htm#fr_253.md) Not the gentleman
 present.
 
-<span id="fn_254"></span>[226:1](pte08.htm#fr_254) The person to whom
+<span id="fn_254"></span>[226:1](pte08.htm#fr_254.md) The person to whom
 Plutarch is relating the discussion.
 
-<span id="fn_255"></span>[226:2](pte08.htm#fr_255) σύνοδος for moon's
+<span id="fn_255"></span>[226:2](pte08.htm#fr_255.md) σύνοδος for moon's
 conjunction with sun = dark quarter.
 
-<span id="fn_256"></span>[226:3](pte08.htm#fr_256) διχόμηνος when the
+<span id="fn_256"></span>[226:3](pte08.htm#fr_256.md) διχόμηνος when the
 moon is in *opposition* to the sun = full-moon.
 
-<span id="fn_257"></span>[227:1](pte08.htm#fr_257) τὸ μὲν, in text for
+<span id="fn_257"></span>[227:1](pte08.htm#fr_257.md) τὸ μὲν, in text for
 μὲν, which is necessitated by the ἡ δἑ following.
 
-<span id="fn_258"></span>[227:2](pte08.htm#fr_258) Doubtless "phases"—β
+<span id="fn_258"></span>[227:2](pte08.htm#fr_258.md) Doubtless "phases"—β
 being written for φ in the text, in consequence of the similarity of
 sound, as the scribes pronounce it.
 
-<span id="fn_259"></span>[228:1](pte08.htm#fr_259) If the moon were of
+<span id="fn_259"></span>[228:1](pte08.htm#fr_259.md) If the moon were of
 the nature of a star, self-lighted, she would be conspicuous when
 passing through earth's shadow; whereas she now becomes invisible in her
 passage through it.
 
-<span id="fn_260"></span>[229:1](pte08.htm#fr_260) ἀνθρακώδης,
+<span id="fn_260"></span>[229:1](pte08.htm#fr_260.md) ἀνθρακώδης,
 "smouldering," like that of a hot piece of charcoal, ἀνϑραξ being always
 taken in an active sense.
 
-<span id="fn_261"></span>[229:2](pte08.htm#fr_261) διακαὴς, not
+<span id="fn_261"></span>[229:2](pte08.htm#fr_261.md) διακαὴς, not
 smouldering, but, like charcoal, fully alight.
 
-<span id="fn_262"></span>[230:1](pte08.htm#fr_262) Counting from sunset,
+<span id="fn_262"></span>[230:1](pte08.htm#fr_262.md) Counting from sunset,
 as the Romans still do.
 
-<span id="fn_263"></span>[230:2](pte08.htm#fr_263) At what time
+<span id="fn_263"></span>[230:2](pte08.htm#fr_263.md) At what time
 "morning," as distinct from "day-break," commenced, I cannot discover.
 
-<span id="fn_264"></span>[230:3](pte08.htm#fr_264) Plutarch's
+<span id="fn_264"></span>[230:3](pte08.htm#fr_264.md) Plutarch's
 explanation cannot stand; a general epithet cannot be derived from a so
 transient state, and of rare occurrence.
 
-<span id="fn_265"></span>[230:4](pte08.htm#fr_265) Our "Sultan red," the
+<span id="fn_265"></span>[230:4](pte08.htm#fr_265.md) Our "Sultan red," the
 brightest dye the ancients could produce with their *coccus*, kermes.
 Their "purple" was a very dark red, bluish viewed in one light.
 
-<span id="fn_266"></span>[231:1](pte08.htm#fr_266) βαφὰς must be βαφὴς.
+<span id="fn_266"></span>[231:1](pte08.htm#fr_266.md) βαφὰς must be βαφὴς.
 
-<span id="fn_267"></span>[231:2](pte08.htm#fr_267) What flower the ἴον
+<span id="fn_267"></span>[231:2](pte08.htm#fr_267.md) What flower the ἴον
 was is now impossible to define. The epithet "flame-coloured," given to
 it by Dioscorides, inclines me to think it the reddish-purple cyclamen,
 so common in South Europe: but W. G. Clark was in favour of the
 heartsease which he observed growing abundantly in Greece—clearly it was
 not our violet.
 
-<span id="fn_268"></span>[231:3](pte08.htm#fr_268) The "True World,"
+<span id="fn_268"></span>[231:3](pte08.htm#fr_268.md) The "True World,"
 described in such Apocalyptical terms in the "Phædo."
 
-<span id="fn_269"></span>[232:1](pte08.htm#fr_269) Quoting Socrates’
+<span id="fn_269"></span>[232:1](pte08.htm#fr_269.md) Quoting Socrates’
 description of the True World.
 
-<span id="fn_270"></span>[232:2](pte08.htm#fr_270) Citizens of Delphi;
+<span id="fn_270"></span>[232:2](pte08.htm#fr_270.md) Citizens of Delphi;
 where the Oracle at first belonged to "Mother Earth," before she ceded
 it to Apollo.
 
-<span id="fn_271"></span>[233:1](pte08.htm#fr_271) Nine inches English.
+<span id="fn_271"></span>[233:1](pte08.htm#fr_271.md) Nine inches English.
 
-<span id="fn_272"></span>[233:2](pte08.htm#fr_272) 3,750 miles English.
+<span id="fn_272"></span>[233:2](pte08.htm#fr_272.md) 3,750 miles English.
 
-<span id="fn_273"></span>[233:3](pte08.htm#fr_273) Fifty-two miles.
+<span id="fn_273"></span>[233:3](pte08.htm#fr_273.md) Fifty-two miles.
 
-<span id="fn_274"></span>[233:4](pte08.htm#fr_274) Perceptible as actual
+<span id="fn_274"></span>[233:4](pte08.htm#fr_274.md) Perceptible as actual
 cavities in the moon's surface, not as mere patches of colour.
 
-<span id="fn_275"></span>[233:5](pte08.htm#fr_275) The biggest giants of
+<span id="fn_275"></span>[233:5](pte08.htm#fr_275.md) The biggest giants of
 the Titans.
 
-<span id="fn_276"></span>[234:1](pte08.htm#fr_276) Eighty-five miles
+<span id="fn_276"></span>[234:1](pte08.htm#fr_276.md) Eighty-five miles
 across the sea.
 
-<span id="fn_277"></span>[234:2](pte08.htm#fr_277) \[You do not imagine
+<span id="fn_277"></span>[234:2](pte08.htm#fr_277.md) \[You do not imagine
 this is the actual height of the mountain.\]
 
-<span id="fn_278"></span>[235:1](pte08.htm#fr_278) With her reflected
+<span id="fn_278"></span>[235:1](pte08.htm#fr_278.md) With her reflected
 light.
 
-<span id="fn_279"></span>[235:2](pte08.htm#fr_279) As in the experiment
+<span id="fn_279"></span>[235:2](pte08.htm#fr_279.md) As in the experiment
 just cited.
 
-<span id="fn_280"></span>[235:3](pte08.htm#fr_280) That throws back the
+<span id="fn_280"></span>[235:3](pte08.htm#fr_280.md) That throws back the
 solar ray.
 
-<span id="fn_281"></span>[235:4](pte08.htm#fr_281) κορυφή.
+<span id="fn_281"></span>[235:4](pte08.htm#fr_281.md) κορυφή.
 
-<span id="fn_282"></span>[235:5](pte08.htm#fr_282) "Reflecting medium,"
+<span id="fn_282"></span>[235:5](pte08.htm#fr_282.md) "Reflecting medium,"
 as water does: referring to what was said before of the spectrum cast
 from dancing waves upon a wall.
 
-<span id="fn_283"></span>[235:6](pte08.htm#fr_283) Mirrors in Plutarch's
+<span id="fn_283"></span>[235:6](pte08.htm#fr_283.md) Mirrors in Plutarch's
 time were all made of speculum metal, and liable to be spoilt by rust.
 
-<span id="fn_284"></span>[236:1](pte08.htm#fr_284) The negative here is
+<span id="fn_284"></span>[236:1](pte08.htm#fr_284.md) The negative here is
 certainly demanded by the sense of the whole argument.
 
-<span id="fn_285"></span>[236:2](pte08.htm#fr_285) Rather, "makes
+<span id="fn_285"></span>[236:2](pte08.htm#fr_285.md) Rather, "makes
 himself ridiculous."
 
-<span id="fn_286"></span>[236:3](pte08.htm#fr_286) ὁρᾶτι must be ὁρᾶτε.
+<span id="fn_286"></span>[236:3](pte08.htm#fr_286.md) ὁρᾶτι must be ὁρᾶτε.
 
-<span id="fn_287"></span>[237:1](pte08.htm#fr_287) The grand flight of
+<span id="fn_287"></span>[237:1](pte08.htm#fr_287.md) The grand flight of
 steps leading up to the Temple of Apollo, in front of which the
 conversation was held.
 
-<span id="fn_288"></span>[237:2](pte08.htm#fr_288) Plutarch's brother,
+<span id="fn_288"></span>[237:2](pte08.htm#fr_288.md) Plutarch's brother,
 who relates this conversation.
 
-<span id="fn_289"></span>[238:1](pte08.htm#fr_289) Sideways and
+<span id="fn_289"></span>[238:1](pte08.htm#fr_289.md) Sideways and
 downwards.
 
-<span id="fn_290"></span>[238:2](pte08.htm#fr_290) λέων for λίϑος, of
+<span id="fn_290"></span>[238:2](pte08.htm#fr_290.md) λέων for λίϑος, of
 which Anaxagoras predicted the fall; or was there some story of a *bonâ
 fide* lion tumbling out of the moon?
 
-<span id="fn_291"></span>[238:3](pte08.htm#fr_291) βίων must be βοῶν.
+<span id="fn_291"></span>[238:3](pte08.htm#fr_291.md) βίων must be βοῶν.
 
-<span id="fn_292"></span>[239:1](pte08.htm#fr_292) This looks like some
+<span id="fn_292"></span>[239:1](pte08.htm#fr_292.md) This looks like some
 tradition of the use of tobacco, brought by some prehistoric Columbus.
 
-<span id="fn_293"></span>[240:1](pte08.htm#fr_293) ὠφελεῖν must be ὦ
+<span id="fn_293"></span>[240:1](pte08.htm#fr_293.md) ὠφελεῖν must be ὦ
 φίλε, which makes the passage intelligible: "Nothing," my dear Theon,
 "of what has been said proves that her being inhabited is impossible."
 
-<span id="fn_294"></span>[241:1](pte08.htm#fr_294) The sun's heat
+<span id="fn_294"></span>[241:1](pte08.htm#fr_294.md) The sun's heat
 strikes on us so forcibly because it has to pass through thick
 atmosphere and exhalations rising out of earth.
 
-<span id="fn_295"></span>[241:2](pte08.htm#fr_295) *i.e.*, suffer by
+<span id="fn_295"></span>[241:2](pte08.htm#fr_295.md) *i.e.*, suffer by
 comparison.
 
-<span id="fn_296"></span>[242:1](pte08.htm#fr_296) An evident slip of
+<span id="fn_296"></span>[242:1](pte08.htm#fr_296.md) An evident slip of
 the pen for *heats:* the argument being that fruit trees that thrive in
 the North, in spite of the frost, will not answer in a hot climate.
 
-<span id="fn_297"></span>[242:2](pte08.htm#fr_297) Probably the kind of
+<span id="fn_297"></span>[242:2](pte08.htm#fr_297.md) Probably the kind of
 Sedum, now called the Air plant, which grows when hung from a ceiling.
 
-<span id="fn_298"></span>[242:3](pte08.htm#fr_298) The name of the plant
+<span id="fn_298"></span>[242:3](pte08.htm#fr_298.md) The name of the plant
 is lost here; but, from the connection with Arabia, must be the
 frankincense tree (our olibanum), her special product:
 
@@ -2326,7 +2326,7 @@ frankincense tree (our olibanum), her special product:
 
 </div>
 
-<span id="fn_299"></span>[243:1](pte08.htm#fr_299) This curious effect
+<span id="fn_299"></span>[243:1](pte08.htm#fr_299.md) This curious effect
 of moonlight, whether actually observed, or only fancied by the
 ancients, sufficiently explains the apparent anomaly of making the
 virgin Artemis to preside over parturition:
@@ -2338,72 +2338,72 @@ virgin Artemis to preside over parturition:
 
 </div>
 
-<span id="fn_300"></span>[243:2](pte08.htm#fr_300) The flow of the tides
+<span id="fn_300"></span>[243:2](pte08.htm#fr_300.md) The flow of the tides
 not produced by a mere return of water from the open sea, but by the
 actual increase of the quantity of water, due to lunar influence in the
 diminished bed of the strait.
 
-<span id="fn_301"></span>[243:3](pte08.htm#fr_301) In the same manner as
+<span id="fn_301"></span>[243:3](pte08.htm#fr_301.md) In the same manner as
 the female nature dissolves the male in the act of copulation.
 
-<span id="fn_302"></span>[243:4](pte08.htm#fr_302) Because she converts
+<span id="fn_302"></span>[243:4](pte08.htm#fr_302.md) Because she converts
 the heat she receives from the sun into chilly and humid moonbeams.
 
-<span id="fn_303"></span>[244:1](pte08.htm#fr_303) Possibly, the
+<span id="fn_303"></span>[244:1](pte08.htm#fr_303.md) Possibly, the
 differences between living beings in the Moon and on Earth, are even
 greater than the differences between the various kinds of inanimate
 things here below.
 
-<span id="fn_304"></span>[244:2](pte08.htm#fr_304) We have lost here
+<span id="fn_304"></span>[244:2](pte08.htm#fr_304.md) We have lost here
 some Egyptian story about nutriment compressed in marvellously small
 compass. \[*This phrase occurs extensively in the Talmud to indicate a
 small amount of food, and it may have also been used in the Hellenic
 world.—JBH*.\]
 
-<span id="fn_305"></span>[244:3](pte08.htm#fr_305) Learn by the evidence
+<span id="fn_305"></span>[244:3](pte08.htm#fr_305.md) Learn by the evidence
 of our senses.
 
-<span id="fn_306"></span>[245:1](pte08.htm#fr_306) Ireland, probably,
+<span id="fn_306"></span>[245:1](pte08.htm#fr_306.md) Ireland, probably,
 which lies at this distance from Rutupiae, the <span id="page_246">p.
 246</span> only British port known to Plutarch. The Romans had marched
 across the island as far as Anglesea in Nero's reign.
 
-<span id="fn_307"></span>[246:1](pte08.htm#fr_307) Previously quoting
+<span id="fn_307"></span>[246:1](pte08.htm#fr_307.md) Previously quoting
 the same legend, he says, by Briareus. "Visits" I can only understand by
 "risings," which makes these three isles lie N.Nϵ. of the large one.
 
-<span id="fn_308"></span>[246:2](pte08.htm#fr_308) All in confusion
+<span id="fn_308"></span>[246:2](pte08.htm#fr_308.md) All in confusion
 here, but by reading φρουρὰν for φρουρὸν, and putting ὡς before ἔχοντα,
 there is some remedy.
 
-<span id="fn_309"></span>[246:3](pte08.htm#fr_309) This looks like a
+<span id="fn_309"></span>[246:3](pte08.htm#fr_309.md) This looks like a
 vague tradition of the existence of America: by reading "myriads" for
 "thousands" of stadia, we should get the proper distance. This exchange
 we have had convincing reason for making in a former passage.
 
-<span id="fn_310"></span>[246:4](pte08.htm#fr_310) Probably a vague
+<span id="fn_310"></span>[246:4](pte08.htm#fr_310.md) Probably a vague
 tradition of icebergs and pack-ice seen by some very adventurous
 explorer, like Pytheas of Massilia.
 
-<span id="fn_311"></span>[246:5](pte08.htm#fr_311) The Caspian Sea was
+<span id="fn_311"></span>[246:5](pte08.htm#fr_311.md) The Caspian Sea was
 believed by the Greeks to communicate with the ocean. This may really
 have been the case in historical times, for its waters are even now
 rapidly shrinking up, and may have extended indefinitely a few thousand
 years ago.
 
-<span id="fn_312"></span>[247:1](pte08.htm#fr_312) As the period of
+<span id="fn_312"></span>[247:1](pte08.htm#fr_312.md) As the period of
 years between each expedition, *i.e.*, thirty.
 
-<span id="fn_313"></span>[247:2](pte08.htm#fr_313) This looks like a
+<span id="fn_313"></span>[247:2](pte08.htm#fr_313.md) This looks like a
 vague tradition of an actual visit to the Shetlands: this particular
 could never have been *invented* by a Greek. The Romans knew the North
 Sea as "Mare Cronium."
 
-<span id="fn_314"></span>[247:3](pte08.htm#fr_314) This seems a false
+<span id="fn_314"></span>[247:3](pte08.htm#fr_314.md) This seems a false
 reading for "thirty," when the arrival of the next expedition would
 relieve them of their duties.
 
-<span id="fn_315"></span>[248:1](pte08.htm#fr_315) Some wandering Greeks
+<span id="fn_315"></span>[248:1](pte08.htm#fr_315.md) Some wandering Greeks
 having got amongst the Druids of Ireland, are probably the authors of
 the story. If admitted to all the privileges of the sacerdotal order,
 they certainly could not better their condition by returning home. The
@@ -2411,63 +2411,63 @@ Druidical students, according to Cæsar, spent all their time in learning
 by heart interminable religious stories in verse, together with a
 "course of Natural Science."
 
-<span id="fn_316"></span>[248:2](pte08.htm#fr_316) εῖναι δὲ ἀνάστασιν in
+<span id="fn_316"></span>[248:2](pte08.htm#fr_316.md) εῖναι δὲ ἀνάστασιν in
 text, must be εῖναι, ἀνάστησι δὲ, because sleep stirs up within him
 prophetic passions and emotions of the soul.
 
-<span id="fn_317"></span>[248:3](pte08.htm#fr_317) The text in utter
+<span id="fn_317"></span>[248:3](pte08.htm#fr_317.md) The text in utter
 confusion here, but probably intended in this sense.
 
-<span id="fn_318"></span>[248:4](pte08.htm#fr_318) γένηται makes no
+<span id="fn_318"></span>[248:4](pte08.htm#fr_318.md) γένηται makes no
 sense, but reading γίνεται, gives "is, of its own self, pure and
 unmixed."
 
-<span id="fn_319"></span>[249:1](pte08.htm#fr_319) Pliny remarks that
+<span id="fn_319"></span>[249:1](pte08.htm#fr_319.md) Pliny remarks that
 "Britain cultivates *Magia* \[astrology\] with such zeal that any one
 would suppose it was she who had communicated it to Persia." Now Britain
 was regarded in Gaul as the fountain-head of religion.
 
-<span id="fn_320"></span>[249:2](pte08.htm#fr_320) From this we can
-correct the reading "thirteen" at [p. 247](#page_247).
+<span id="fn_320"></span>[249:2](pte08.htm#fr_320.md) From this we can
+correct the reading "thirteen" at [p. 247](#page_247.md).
 
-<span id="fn_321"></span>[249:3](pte08.htm#fr_321) Perhaps ring-money,
+<span id="fn_321"></span>[249:3](pte08.htm#fr_321.md) Perhaps ring-money,
 with the large cup-shaped extremities, is here meant. The whole story is
 evidently based upon the report of a visit to some Druidical
 sanctuary—perhaps Mona, or even Ireland.
 
-<span id="fn_322"></span>[250:1](pte08.htm#fr_322) Of Demeter's long
+<span id="fn_322"></span>[250:1](pte08.htm#fr_322.md) Of Demeter's long
 searchings after Persephone; and the abduction of the latter by the Lord
 of the Shades.
 
-<span id="fn_323"></span>[250:2](pte08.htm#fr_323) A very far-fetched
+<span id="fn_323"></span>[250:2](pte08.htm#fr_323.md) A very far-fetched
 interpretation of Homer's word "Recess," by which he meant the abode of
 departed spirits in the vast *hollow* of the globe.
 
-<span id="fn_324"></span>[251:1](pte08.htm#fr_324) "Sensation" must be
+<span id="fn_324"></span>[251:1](pte08.htm#fr_324.md) "Sensation" must be
 the word lost here; as plainly appears from what comes next.
 
-<span id="fn_325"></span>[251:2](pte08.htm#fr_325) Perverted into an
+<span id="fn_325"></span>[251:2](pte08.htm#fr_325.md) Perverted into an
 active sense, as "begotten of one."
 
-<span id="fn_326"></span>[251:3](pte08.htm#fr_326) "The Middle Space,"
+<span id="fn_326"></span>[251:3](pte08.htm#fr_326.md) "The Middle Space,"
 which figures so largely in the theology of the *Pistis Sophia*.
 
-<span id="fn_327"></span>[252:1](pte08.htm#fr_327) The word is lost
+<span id="fn_327"></span>[252:1](pte08.htm#fr_327.md) The word is lost
 here, but probably was "the incredible velocity of new gyration," or
 something to that effect.
 
-<span id="fn_328"></span>[252:2](pte08.htm#fr_328) The spirits of the
+<span id="fn_328"></span>[252:2](pte08.htm#fr_328.md) The spirits of the
 good rest above in a fearful hope, for from their place of rest they can
 see the ghosts of the wicked repelled by the circumference of the moon,
 tossed about, and falling headlong, as they fancy, into the abyss below.
 
-<span id="fn_329"></span>[252:3](pte08.htm#fr_329) εὐσταθείας,
+<span id="fn_329"></span>[252:3](pte08.htm#fr_329.md) εὐσταθείας,
 "steadiness."
 
-<span id="fn_330"></span>[252:4](pte08.htm#fr_330) Perhaps suggested by
+<span id="fn_330"></span>[252:4](pte08.htm#fr_330.md) Perhaps suggested by
 the plumed cap, the badge of the Egyptian priesthood.
 
-<span id="fn_331"></span>[252:5](pte08.htm#fr_331) Conversely, Dante
+<span id="fn_331"></span>[252:5](pte08.htm#fr_331.md) Conversely, Dante
 sees the souls that had in life subjected their reason to their
 appetite, tossed about by whirlwinds in mid air:
 
@@ -2479,55 +2479,55 @@ appetite, tossed about by whirlwinds in mid air:
 
 </div>
 
-<span id="fn_332"></span>[253:1](pte08.htm#fr_332) Being a mixture of
+<span id="fn_332"></span>[253:1](pte08.htm#fr_332.md) Being a mixture of
 starry and earthy natures.
 
-<span id="fn_333"></span>[253:2](pte08.htm#fr_333) The Druidical story
+<span id="fn_333"></span>[253:2](pte08.htm#fr_333.md) The Druidical story
 is here taken up again.
 
-<span id="fn_334"></span>[254:1](pte08.htm#fr_334) The breadth of
+<span id="fn_334"></span>[254:1](pte08.htm#fr_334.md) The breadth of
 earth's shadow appears to be many times greater than the moon's
 diameter; not from the smallness of the latter, but from the rapidity of
 her transit.
 
-<span id="fn_335"></span>[254:2](pte08.htm#fr_335) There is no actual
+<span id="fn_335"></span>[254:2](pte08.htm#fr_335.md) There is no actual
 Face, but the depressions of surface represent its features when viewed
 from afar.
 
-<span id="fn_336"></span>[255:1](pte08.htm#fr_336) Appearing as the twin
+<span id="fn_336"></span>[255:1](pte08.htm#fr_336.md) Appearing as the twin
 star, St. Elmo's Fire, upon the ship's mast.
 
-<span id="fn_337"></span>[255:2](pte08.htm#fr_337) οἵ τε for τούς τε.
+<span id="fn_337"></span>[255:2](pte08.htm#fr_337.md) οἵ τε for τούς τε.
 
-<span id="fn_338"></span>[255:3](pte08.htm#fr_338) The sun being the
+<span id="fn_338"></span>[255:3](pte08.htm#fr_338.md) The sun being the
 visible type of the supreme godhead, to union (absorption) with whom
 every pure nature aspires: the grand Buddhist doctrine.
 
-<span id="fn_339"></span>[255:4](pte08.htm#fr_339) ἀπαλλαττομένη for …
+<span id="fn_339"></span>[255:4](pte08.htm#fr_339.md) ἀπαλλαττομένη for …
 νου.
 
-<span id="fn_340"></span>[256:1](pte08.htm#fr_340) Moulds the soul into
+<span id="fn_340"></span>[256:1](pte08.htm#fr_340.md) Moulds the soul into
 a shape oaf its own.
 
-<span id="fn_341"></span>[256:2](pte08.htm#fr_341) εἴδωλον; the portrait
+<span id="fn_341"></span>[256:2](pte08.htm#fr_341.md) εἴδωλον; the portrait
 of the intelligence which has flown away from it. after moulding it to
 her own likeness.
 
-<span id="fn_342"></span>[256:3](pte08.htm#fr_342) Read τοῦ παθητικοῦ,
+<span id="fn_342"></span>[256:3](pte08.htm#fr_342.md) Read τοῦ παθητικοῦ,
 governed by ἐπιλάβωνται.
 
-<span id="fn_343"></span>[256:4](pte08.htm#fr_343) Error for "Python,"
+<span id="fn_343"></span>[256:4](pte08.htm#fr_343.md) Error for "Python,"
 whom Apollo destroyed, in order to recover his Oracle.
 
-<span id="fn_344"></span>[257:1](pte08.htm#fr_344) This doctrine
+<span id="fn_344"></span>[257:1](pte08.htm#fr_344.md) This doctrine
 explains a curious gem (Matter, "Hist. Crit. du Gnosticisme," Pl. I. F.,
 No. 1), exhibiting the Mithraic Lion copulating with a woman,
 *quadrupedum ritu*, in a cartouche placed over an outstretched corpse.
 
-<span id="fn_345"></span>[257:2](pte08.htm#fr_345) A proof that the
+<span id="fn_345"></span>[257:2](pte08.htm#fr_345.md) A proof that the
 whole theory came from the Druids, who, according to Cæsar, devoted
 themselves to speculations of this sort.
 
 ------------------------------------------------------------------------
 
-[Next: On Superstition](pte09)
+[Next: On Superstition](pte09.md)

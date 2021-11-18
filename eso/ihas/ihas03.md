@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ihas02)  [Next](ihas04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ihas02)  [Next](ihas04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Initiation, Human and Solar*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 <span id="img_chart"></span> <span align="CENTER">
 [![Chart](tn/chart.jpg)  
-Click to enlarge](img/chart.jpg)  
+Click to enlarge](img/chart.jpg.md)  
 Chart  
 </span>
 
@@ -85,4 +85,4 @@ Egoic aspect and to bring the lower nature under its control.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Introductory Remarks](ihas04)
+[Next: Chapter I. Introductory Remarks](ihas04.md)

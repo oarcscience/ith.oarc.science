@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh06)  [Next](msh08) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh06)  [Next](msh08.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,4 +204,4 @@ the Few") \[al-<u>H</u>allâj and the extreme Mystics\],
 
 ------------------------------------------------------------------------
 
-[Next: IV. Ghazzali Problems Raised By The Foregoing](msh08)
+[Next: IV. Ghazzali Problems Raised By The Foregoing](msh08.md)

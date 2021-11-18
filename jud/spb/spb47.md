@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb46)  [Next](spb48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb46)  [Next](spb48.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -33,9 +33,9 @@ Blessed be our God in whose abode is joy, and of whose bounty we have
 partaken, and through whose goodness we live.
 
 *He who says Grace repeats the last sentence, and continues the Form of
-Service, pp. [425](spb43.htm#page_425)–[431](spb43.htm#page_431). At the
+Service, pp. [425](spb43.htm#page_425)–[431](spb43.htm#page_431.md). At the
 conclusion of the Grace the Seven Benedictions, [p.
-444](spb46.htm#page_444), are said*.
+444](spb46.htm#page_444.md), are said*.
 
 ------------------------------------------------------------------------
 
@@ -43,6 +43,6 @@ conclusion of the Grace the Seven Benedictions, [p.
 
 ------------------------------------------------------------------------
 
-[Next: Service at the Consecration of a House](spb48)
+[Next: Service at the Consecration of a House](spb48.md)
 
 </div>

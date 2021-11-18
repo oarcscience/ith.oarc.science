@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi156)  [Next](mtsi158) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi156)  [Next](mtsi158.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ it was so.
 
 ------------------------------------------------------------------------
 
-[Next: 22. The Men Who Went to the Sky (Third Version)](mtsi158)
+[Next: 22. The Men Who Went to the Sky (Third Version)](mtsi158.md)

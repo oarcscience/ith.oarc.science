@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa00) [Next](rsa02)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa00) [Next](rsa02.md)
 
 ------------------------------------------------------------------------
 
@@ -11,28 +11,28 @@
 ------------------------------------------------------------------------
 
 > U<span class="small">NKULUNKULU</span> is no longer known.<span
-> id="page_1_fr_1"></span>[1](#page_1_note_1) It is he who was the first
-> man;<span id="page_1_fr_2"></span>[2](#page_1_note_2) he broke
-> off<span id="page_1_fr_3"></span>[3](#page_1_note_3) in the <span
+> id="page_1_fr_1"></span>[1](#page_1_note_1.md) It is he who was the first
+> man;<span id="page_1_fr_2"></span>[2](#page_1_note_2.md) he broke
+> off<span id="page_1_fr_3"></span>[3](#page_1_note_3.md) in the <span
 > id="page_2">p. 2</span> beginning.<span
-> id="page_2_fr_4"></span>[4](#page_2_note_4) We do not know his wife;
+> id="page_2_fr_4"></span>[4](#page_2_note_4.md) We do not know his wife;
 > and the ancients do not tell us that he had a wife.<span
-> id="page_2_fr_5"></span>[5](#page_2_note_5)
+> id="page_2_fr_5"></span>[5](#page_2_note_5.md)
 >
 >  We hear it said, that Unkulunkulu broke off<span
-> id="page_2_fr_6"></span>[6](#page_2_note_6) the nations from
-> Uthlanga.<span id="page_2_fr_7"></span>[7](#page_2_note_7)
+> id="page_2_fr_6"></span>[6](#page_2_note_6.md) the nations from
+> Uthlanga.<span id="page_2_fr_7"></span>[7](#page_2_note_7.md)
 >
 > <span id="page_3">p. 3</span>
 >
 >  It is said he sent a chameleon; he said to it, "Go, Chameleon, go and
 > say, Let not men die." The chameleon set out; it went slowly;<span
-> id="page_3_fr_8"></span>[8](#page_3_note_8) it loitered in the way;
+> id="page_3_fr_8"></span>[8](#page_3_note_8.md) it loitered in the way;
 > and as it went, it ate of the fruit of a tree, which is called
-> Ubukwebezane.<span id="page_3_fr_9"></span>[9](#page_3_note_9)
+> Ubukwebezane.<span id="page_3_fr_9"></span>[9](#page_3_note_9.md)
 >
 >  At length Unkulunkulu sent a lizard<span
-> id="page_3_fr_10"></span>[10](#page_3_note_10) after the chameleon,
+> id="page_3_fr_10"></span>[10](#page_3_note_10.md) after the chameleon,
 > when it had already set out for some time. The lizard went; it ran and
 > made great haste, for Unkulunkulu had said, "Lizard, when you have
 > arrived, say, Let men die." So the lizard went, and said, "I tell you,
@@ -47,15 +47,15 @@
 > die!" But men answered, "O! we have heard the word of Abantu the
 > lizard; it has told us the word, 'It is said, Let men die.' We cannot
 > hear your word. Through the word of the lizard, men will die."<span
-> id="page_4_fr_11"></span>[11](#page_4_note_11)
+> id="page_4_fr_11"></span>[11](#page_4_note_11.md)
 >
 > <span id="page_5">p. 5</span>
 >
 >  Unkulunkulu gave men Amatongo;<span
-> id="page_5_fr_12"></span>[12](#page_5_note_12) he gave them doctors
+> id="page_5_fr_12"></span>[12](#page_5_note_12.md) he gave them doctors
 > for treating disease, and diviners; he gave them medicines to treat
 > diseases occasioned by the Itongo.<span
-> id="page_5_fr_13"></span>[13](#page_5_note_13) Unkulunkulu said, "If a
+> id="page_5_fr_13"></span>[13](#page_5_note_13.md) Unkulunkulu said, "If a
 > man is being affected by the Itongo, you shall kill a bullock and laud
 > the Itongo; the man will get well if he has been affected by the
 > Itongo."
@@ -89,17 +89,17 @@
 > ------------------------------------------------------------------------
 >
 > T<span class="small">HE</span> old men say that Unkulunkulu is
-> Umvelinqangi,<span id="page_7_fr_15"></span>[15](#page_7_note_15) for
+> Umvelinqangi,<span id="page_7_fr_15"></span>[15](#page_7_note_15.md) for
 > they say he came out first; they say he is the Uthlanga from which all
-> men broke off.<span id="page_7_fr_16"></span>[16](#page_7_note_16) The
+> men broke off.<span id="page_7_fr_16"></span>[16](#page_7_note_16.md) The
 > old men say that Unkulunkulu is;<span
-> id="page_7_fr_17"></span>[17](#page_7_note_17) he made the first men,
+> id="page_7_fr_17"></span>[17](#page_7_note_17.md) he made the first men,
 > the ancients of long ago;<span
-> id="page_7_fr_18"></span>[18](#page_7_note_18) the ancients of long
+> id="page_7_fr_18"></span>[18](#page_7_note_18.md) the ancients of long
 > ago died; there remained those who had been begotten by them, sons, by
 > whom we hear that there were ancients of long ago who knew the
 > breaking off of the world.<span
-> id="page_7_fr_19"></span>[19](#page_7_note_19) They <span
+> id="page_7_fr_19"></span>[19](#page_7_note_19.md) They <span
 > id="page_8">p. 8</span> did not know Unkulunkulu; they did not see him
 > with their eyes; they heard it said that Unkulunkulu was. He came out
 > where men broke off from Uthlanga. He begat the ancients of long ago;
@@ -118,7 +118,7 @@
 >  The Amadhlozi, men who have died; when they have died, they change
 > again and become Amatongo, and crawl on their belly, and so the old
 > men call a dead man so changed an Itongo. It is called a snake;
-> Inyandezulu<span id="page_8_fr_20"></span>[20](#page_8_note_20) is the
+> Inyandezulu<span id="page_8_fr_20"></span>[20](#page_8_note_20.md) is the
 > name of the snake.
 >
 >  When a man is ill, they go to a doctor to divine; and it is said,
@@ -136,15 +136,15 @@
 >  All the bones of the bullock are collected, and the owner of the
 > cattle burns them, that wizards may not take them, and apply medicines
 > to them and injure the man who was sick, and he become ill again.<span
-> id="page_9_fr_21"></span>[21](#page_9_note_21)
+> id="page_9_fr_21"></span>[21](#page_9_note_21.md)
 >
 > ------------------------------------------------------------------------
 >
 > I<span class="small">T</span> was said at first before the arrival of
 > missionaries, if we asked, "By what were the stones made?"—"They were
 > made by Umvelinqangi." It is said that we men came out of a bed of
-> reeds,<span id="page_9_fr_22"></span>[22](#page_9_note_22) where we
-> had our origin.<span id="page_9_fr_23"></span>[23](#page_9_note_23)
+> reeds,<span id="page_9_fr_22"></span>[22](#page_9_note_22.md) where we
+> had our origin.<span id="page_9_fr_23"></span>[23](#page_9_note_23.md)
 > <span id="page_10">p. 10</span> When we asked, "By what was the sun
 > made?" they said, "By Umvelinqangi." For we used to ask when we were
 > little, thinking that the old men knew all things which are on the
@@ -153,14 +153,14 @@
 >
 >  When we were with the Dutch they did not tell us that there is a Lord
 > above; but they said that we black people should be burnt; and that we
-> have no spirit,<span id="page_10_fr_24"></span>[24](#page_10_note_24)
+> have no spirit,<span id="page_10_fr_24"></span>[24](#page_10_note_24.md)
 > but are like a dog, which has no spirit.
 >
 >  The ancients used to say before the arrival of the missionaries, that
 > all things were made by Umvelinqangi; but they were not acquainted
-> with his name.<span id="page_10_fr_25"></span>[25](#page_10_note_25)
+> with his name.<span id="page_10_fr_25"></span>[25](#page_10_note_25.md)
 > But they lived by worshipping<span
-> id="page_10_fr_26"></span>[26](#page_10_note_26) snakes; and they
+> id="page_10_fr_26"></span>[26](#page_10_note_26.md) snakes; and they
 > still worship them; they do not yet hear; and even now <span
 > id="page_11">p. 11</span> when the missionaries speak, they say, "It
 > is a fable; a plaything." They do not admit that what is spoken is the
@@ -168,7 +168,7 @@
 >
 >  When they slaughter cattle, they first praise the snake, and then the
 > bullock is killed. When it is killed they skin it; and a little of the
-> fat<span id="page_11_fr_27"></span>[27](#page_11_note_27) is taken,
+> fat<span id="page_11_fr_27"></span>[27](#page_11_note_27.md) is taken,
 > and put in the upper part of the hut on a sherd; and fire is placed on
 > it. When the flesh of the bullock burns, the Amatongo eat (if they do
 > come to eat the flesh of a bullock). The flesh of the bullock is taken
@@ -206,7 +206,7 @@
 > tells them to eat a bullock. And they eat a bullock, the diviner
 > saying that the man will get well. If when they have eaten the bullock
 > he does not get well, but dies, they say, "He is summoned by those who
-> are beneath."<span id="page_12_fr_28"></span>[28](#page_12_note_28)
+> are beneath."<span id="page_12_fr_28"></span>[28](#page_12_note_28.md)
 > They <span id="page_13">p. 13</span> say, "He has been killed by the
 > Amadhlozi because they wish the man to go and dwell with them."
 >
@@ -224,7 +224,7 @@
 > I<span class="small">N</span> the speech of black men, when a man does
 > a wonderful thing which other men cannot do, or brings a bad matter to
 > a good issue, men say, "Au! go to! the people of Unsondo<span
-> id="page_13_fr_29"></span>[29](#page_13_note_29) do thus."
+> id="page_13_fr_29"></span>[29](#page_13_note_29.md) do thus."
 >
 >  Or if the heaven rains excessively great torrents, and causes wonder,
 > it is also constantly said, "How the heaven of Unsondo rains!"
@@ -236,7 +236,7 @@
 >
 >  Besides also, if there is a very handsome man, whom people like to
 > make a wonder, they say, "Au! how beautiful he is, a man of
-> Unsondo."<span id="page_14_fr_30"></span>[30](#page_14_note_30)
+> Unsondo."<span id="page_14_fr_30"></span>[30](#page_14_note_30.md)
 >
 >  Again, if an army goes out to invade another king, it is said of
 > kings, "Au! No! they are kings of Unsondo, for in the time of first
@@ -248,7 +248,7 @@
 >  So finally we hear that Unsondo is, as it were, a man by the saying
 > which is used, "Unsondo died uttering this his last word, 'Those are
 > men because they are so and so.'"<span
-> id="page_14_fr_31"></span>[31](#page_14_note_31) Therefore we say that
+> id="page_14_fr_31"></span>[31](#page_14_note_31.md) Therefore we say that
 > this <span id="page_15">p. 15</span> Unsondo is the same as
 > Unkulunkulu, who, we say, died; on account of that saying, "Unsondo
 > died uttering his last word," it is he indeed, and not another.
@@ -286,7 +286,7 @@ valley?"—"No; but Uthlanga who begat Unsondo."—"Where is he now?"
 > Uthlanga begat Unsondo; Unsondo begat the ancestors; the ancestors
 > begat the great grandfathers; the great grandfathers begat the
 > grandfathers; and the grandfathers begat our fathers; and our fathers
-> begat us."<span id="page_16_fr_32"></span>[32](#page_16_note_32)
+> begat us."<span id="page_16_fr_32"></span>[32](#page_16_note_32.md)
 
  "Are there any who are called Uthlanga now?"—"Yes."—"Are you
 married?"—"Yes."—"And have children?"—"Yebo. U mina e ngi uthlanga."
@@ -297,17 +297,17 @@ this he tapped himself on his breast.
 > ------------------------------------------------------------------------
 >
 > B<span class="small">UT</span> for my part I say they speak truly<span
-> id="page_16_fr_33"></span>[33](#page_16_note_33) who say that
+> id="page_16_fr_33"></span>[33](#page_16_note_33.md) who say that
 > Unkulunkulu is named Umvelinqangi. But as for what they say respecting
 > his having a wife, I have not heard of it. What I have heard is this,
 > that men sprang from Unkulunkulu, as if he made them because he
 > existed (before them);<span
-> id="page_16_fr_34"></span>[34](#page_16_note_34) it was not said that
+> id="page_16_fr_34"></span>[34](#page_16_note_34.md) it was not said that
 > Unkulunkulu had a wife. This is what we know.
 >
 >  And as regards worship, they speak truly who say, he was not <span
 > id="page_17">p. 17</span> worshipped;<span
-> id="page_17_fr_35"></span>[35](#page_17_note_35) and I agree with
+> id="page_17_fr_35"></span>[35](#page_17_note_35.md) and I agree with
 > them. For it is not worship, when people see things, as rain, or food,
 > such as corn, and say, "Yes, these things were made by Unkulunkulu."
 > But no such word has come to them from him as this, "I have made for
@@ -315,7 +315,7 @@ this he tapped himself on his breast.
 > men might eat and see them and nothing more. Afterwards they had power
 > to change those things, that they might become the Amatongo's. They
 > took them away from Unkulunkulu.<span
-> id="page_17_fr_36"></span>[36](#page_17_note_36)
+> id="page_17_fr_36"></span>[36](#page_17_note_36.md)
 >
 >  At first we saw that we were made by Unkulunkulu. But when we were
 > ill we did not worship him, nor ask any thing of him. We worshipped
@@ -323,7 +323,7 @@ this he tapped himself on his breast.
 > amongst us. So then we began to ask all things of the Amadhlozi,
 > whether corn, <span id="page_18">p. 18</span> or children, or cattle,
 > or health. By that it began to be evident that Unkulunkulu had no
-> longer a son<span id="page_18_fr_37"></span>[37](#page_18_note_37) who
+> longer a son<span id="page_18_fr_37"></span>[37](#page_18_note_37.md) who
 > could worship him; there was no going back to the beginning, for
 > people increased, and were scattered abroad, and each house had its
 > own connections; there was no one who said, "For my part I am of the
@@ -334,16 +334,16 @@ this he tapped himself on his breast.
 > where it grew; the grains of the cob are Onkulunkulu of houses, which
 > now worship those only of their own family according to the order of
 > their growth on the cob.<span
-> id="page_18_fr_38"></span>[38](#page_18_note_38) It is on this account
+> id="page_18_fr_38"></span>[38](#page_18_note_38.md) It is on this account
 > that the praise-giving names of Unkulunkulu are lost.
 >
 > <span id="page_19">p. 19</span>
 >
 >  And the King which is above<span
-> id="page_19_fr_39"></span>[39](#page_19_note_39) we did not hear of
+> id="page_19_fr_39"></span>[39](#page_19_note_39.md) we did not hear of
 > him \[first\] from whitemen. In summer time, when it thunders, we say,
 > "The king is playing."<span
-> id="page_19_fr_40"></span>[40](#page_19_note_40) And if there is one
+> id="page_19_fr_40"></span>[40](#page_19_note_40.md) And if there is one
 > who is afraid, the elder people say to him, "It is nothing but fear.
 > What thing belonging to the king have you eaten?" This is why I say,
 > that the Lord of whom we hear through you, we had already heard of
@@ -355,18 +355,18 @@ this he tapped himself on his breast.
 > nothing about that king which is above but that which we say to a man
 > who is afraid, "What have you injured which belongs to the king?" We
 > know that he who has sinned against him is struck by him;<span
-> id="page_19_fr_41"></span>[41](#page_19_note_41) <span id="page_20">p.
+> id="page_19_fr_41"></span>[41](#page_19_note_41.md) <span id="page_20">p.
 > 20</span> but we know nothing that can save us from being smitten.
 > Neither do we see in what respect we have sinned either in his sight
 > or in that of Unkulunkulu. We say, "We are righteous, for all that we
 > do we were permitted to do by Unkulunkulu."<span
-> id="page_20_fr_42"></span>[42](#page_20_note_42)
+> id="page_20_fr_42"></span>[42](#page_20_note_42.md)
 >
 >  And as regards that heavenly king whom we knew because the heaven
 > thundered, saying, "The king is playing," we do not say also that he
 > springs from Unkulunkulu. We say that Unkulunkulu was first; we do not
 > know what belongs to that king. There remained<span
-> id="page_20_fr_43"></span>[43](#page_20_note_43) that word only about
+> id="page_20_fr_43"></span>[43](#page_20_note_43.md) that word only about
 > the heaven; we know nothing of his mode of life, nor of the principles
 > of his government. His smiting is the only thing we knew, because we
 > said to a man who was afraid, "Why are you afraid when the king is
@@ -385,13 +385,13 @@ this he tapped himself on his breast.
 >  It is not proper, because we now hear from you about that king of
 > heaven, that we should begin to say all is his \[as though that
 > belonged to our original opinions\];<span
-> id="page_21_fr_44"></span>[44](#page_21_note_44) that knowledge is
+> id="page_21_fr_44"></span>[44](#page_21_note_44.md) that knowledge is
 > theirs who tell us; for our parts, we used not to say that the king of
 > heaven made all things, we said that Unkulunkulu alone made them. And
 > we black men, although some missionaries tell us that this king and
 > that Unkulunkulu is the same, did not say that Unkulunkulu was in
 > heaven; we said, he came to be,<span
-> id="page_21_fr_45"></span>[45](#page_21_note_45) and died; that is all
+> id="page_21_fr_45"></span>[45](#page_21_note_45.md) and died; that is all
 > we said.
 >
 > U<span class="small">MPENGULA</span> M<span
@@ -404,7 +404,7 @@ this he tapped himself on his breast.
 > W<span class="small">HEN</span> black men say Unkulunkulu or Uthlanga
 > or the Creator they mean one and the same thing. But what they say has
 > no point; it is altogether blunt.<span
-> id="page_22_fr_46"></span>[46](#page_22_note_46) For there is not one
+> id="page_22_fr_46"></span>[46](#page_22_note_46.md) For there is not one
 > among black men, not even the chiefs themselves, who can so interpret
 > such accounts as those about Unkulunkulu as to bring out the truth,
 > that others too may understand what the truth of the matter really is.
@@ -434,15 +434,15 @@ this he tapped himself on his breast.
 > he comes to us; for we say, Unkulunkulu, the First Out-comer, gave us
 > all things, and that he gave them to us and also made us men, in order
 > that we should possess the things which he made for us.<span
-> id="page_23_fr_47"></span>[47](#page_23_note_47)
+> id="page_23_fr_47"></span>[47](#page_23_note_47.md)
 >
 >  I say then that there is not one amongst us who can say that he knows
 > all about Unkulunkulu; <span id="page_24">p. 24</span> for we say,
 > "Truly we know nothing but his name; but we no longer see his path
 > which he made for us to walk in;<span
-> id="page_24_fr_48"></span>[48](#page_24_note_48) all that remains is
+> id="page_24_fr_48"></span>[48](#page_24_note_48.md) all that remains is
 > mere thought about the things which we like;<span
-> id="page_24_fr_49"></span>[49](#page_24_note_49) it is difficult to
+> id="page_24_fr_49"></span>[49](#page_24_note_49.md) it is difficult to
 > separate ourselves from these things, and we make him a liar, for that
 > evil which we like of our own accord, we adhere to with the utmost
 > tenacity." If any one says, "It is not proper for you to do that; if
@@ -451,7 +451,7 @@ this he tapped himself on his breast.
 >
 >  Just as we married many wives saying, "Hau! we cannot deny ourselves
 > as regards the abundance<span
-> id="page_24_fr_50"></span>[50](#page_24_note_50) which Unkulunkulu has
+> id="page_24_fr_50"></span>[50](#page_24_note_50.md) which Unkulunkulu has
 > given us: let us do just what we like." And if we wish to enter into
 > sin, we enter into it in his name, and are like people who are in
 > possession of his word; but we do not really possess it, but do our
@@ -463,7 +463,7 @@ this he tapped himself on his breast.
 >
 >  We black men could not see the greatness of Unkulunkulu, nor that he
 > loved us by creating us. And we worship<span
-> id="page_25_fr_51"></span>[51](#page_25_note_51) him when we eat and
+> id="page_25_fr_51"></span>[51](#page_25_note_51.md) him when we eat and
 > are filled, or when we get drunk, or do our own will in matters in
 > which we love to have our own will; and are now like children who have
 > no father or mother, who have their own wills about things which they
@@ -479,7 +479,7 @@ this he tapped himself on his breast.
 > praying Unkulunkulu to keep us ever in his path, that we might never
 > forget it; but we now worship him by drunkenness and a greedy pursuit
 > of those things which we do by our own wickedness.<span
-> id="page_25_fr_52"></span>[52](#page_25_note_52)
+> id="page_25_fr_52"></span>[52](#page_25_note_52.md)
 >
 > <span id="page_26">p. 26</span>
 >
@@ -528,14 +528,14 @@ this he tapped himself on his breast.
 >
 >  And on the morrow after the day of our funeral lamentation, if there
 > arise some little omen,<span
-> id="page_28_fr_53"></span>[53](#page_28_note_53) we say, "Just let us
+> id="page_28_fr_53"></span>[53](#page_28_note_53.md) we say, "Just let us
 > go to the diviner and hear of him, since this thing has happened, for
 > yesterday we buried So-and-so."<span
-> id="page_28_fr_54"></span>[54](#page_28_note_54) And it is said by the
+> id="page_28_fr_54"></span>[54](#page_28_note_54.md) And it is said by the
 > knowing ones, "O, that So-and-so, whom you buried yesterday, says
 > so-and-so." And we begin to worship him, although the day before we
 > wept and did not see<span
-> id="page_28_fr_55"></span>[55](#page_28_note_55) that he had gone to
+> id="page_28_fr_55"></span>[55](#page_28_note_55.md) that he had gone to
 > unite with the rest of the dead, that they might make a strong rampart
 > around us which shall not be penetrated even by death. For we say that
 > death is in the power of the Amadhlozi, and if they do not wish, it
@@ -572,21 +572,21 @@ this he tapped himself on his breast.
 > leave me alone; the Amadhlozi dwell with those who have them; as for
 > me, I have no Idhlozi. I now see that there is a kind of Idhlozi that
 > wishes a man to become poor, and make an end of his property."<span
-> id="page_30_fr_56"></span>[56](#page_30_note_56) Thus it is said by
+> id="page_30_fr_56"></span>[56](#page_30_note_56.md) Thus it is said by
 > those who believe in the Idhlozi, that it has no existence.<span
-> id="page_30_fr_57"></span>[57](#page_30_note_57)
+> id="page_30_fr_57"></span>[57](#page_30_note_57.md)
 >
 >  If you pass onward to those who are in prosperity, you think perhaps
 > that you shall hear one and the same word there too; but when you
 > speak with them about the Idhlozi, you bring up old thoughts,<span
-> id="page_30_fr_58"></span>[58](#page_30_note_58) and they speak to you
+> id="page_30_fr_58"></span>[58](#page_30_note_58.md) and they speak to you
 > about the excellence of the Idhlozi, and the assistance it has given
 > them. You have come to a place <span id="page_31">p. 31</span> where
 > there is great faith in the Idhlozi, and you begin to see that the
 > people do not yet possess the very truth of the matter; for it is
 > fulness which declares that the Itongo exists; whilst affliction says,
 > it does not exist.<span
-> id="page_31_fr_59"></span>[59](#page_31_note_59)
+> id="page_31_fr_59"></span>[59](#page_31_note_59.md)
 >
 > U<span class="small">MPENGULA</span> M<span
 > class="small">BANDA.</span> 
@@ -594,7 +594,7 @@ this he tapped himself on his breast.
 > ------------------------------------------------------------------------
 >
 > T<span class="small">HE</span> old men say, "Unkulunkulu came into
-> being,<span id="page_31_fr_60"></span>[60](#page_31_note_60) and gave
+> being,<span id="page_31_fr_60"></span>[60](#page_31_note_60.md) and gave
 > being to man. He came out of a bed of reeds; he broke off from a bed
 > of reeds." We children ask, "Where is the bed of reeds out of which
 > Unkulunkulu came? Since you say there is a bed of reeds, in what
@@ -602,7 +602,7 @@ this he tapped himself on his breast.
 > them is the bed of reeds from which Unkulunkulu broke off?" They say
 > in answer, "Neither do we know; and there were other old men before us
 > who said that neither did they know the bed of reeds which broke
-> off<span id="page_31_fr_61"></span>[61](#page_31_note_61)
+> off<span id="page_31_fr_61"></span>[61](#page_31_note_61.md)
 > Unkulunkulu." They say they speak the <span id="page_32">p. 32</span>
 > truth in saying, there is a bed of reeds; but we say, there is not;
 > for we do not know the land in which it is, of which they can say, it
@@ -613,7 +613,7 @@ this he tapped himself on his breast.
 > us." \[The Unkulunkulu\] who begat our grandfathers. For he who begat
 > my grandfather, is my great-great-grandfather; and he who begat my
 > father's grandfather is Unkulunkulu, the first of our family.<span
-> id="page_32_fr_62"></span>[62](#page_32_note_62)
+> id="page_32_fr_62"></span>[62](#page_32_note_62.md)
 >
 >  But here I am no longer speaking of that Unkulunkulu who came out of
 > the bed of reeds; I am speaking of the Unkulunkulu who belonged to the
@@ -630,11 +630,11 @@ this he tapped himself on his breast.
 >  Utshange is the praise-giving name of our house; he was the first man
 > of our family,—our Unkulunkulu, who founded our house. We pray to him,
 > saying, Matshange!<span
-> id="page_33_fr_63"></span>[63](#page_33_note_63) Ye people of the
+> id="page_33_fr_63"></span>[63](#page_33_note_63.md) Ye people of the
 > house of Utshange!" We pray to him for anything we wish to have; we
 > and all of the family of Utshange pray to him. If we wish to have
 > cattle, we say, "Ye people of our house."<span
-> id="page_33_fr_64"></span>[64](#page_33_note_64) \[And if you pray
+> id="page_33_fr_64"></span>[64](#page_33_note_64.md) \[And if you pray
 > thus\] you will get cattle. We say, "Ye people of our house, people of
 > the house of Utshange, people of the house of Udumakade!"
 >
@@ -659,9 +659,9 @@ by the sea-side. He also said, "Kwa dabuka abantu, <span id="page_34">p.
 Unkulunkulu. He added,
 
 >  Some men say that they were belched up by a cow.<span
-> id="page_34_fr_65"></span>[65](#page_34_note_65) Others that they
+> id="page_34_fr_65"></span>[65](#page_34_note_65.md) Others that they
 > sprang from a stone<span
-> id="page_34_fr_66"></span>[66](#page_34_note_66) which split in two
+> id="page_34_fr_66"></span>[66](#page_34_note_66.md) which split in two
 > and they came out. Unkulunkulu split them out of a stone.
 
  When asked if they prayed to Unkulunkulu, he replied,
@@ -698,14 +698,14 @@ Onkulunkulu; the two following give—the first an account of the origin
 of medicines, and the second of two male Onkulunkulu.
 
 > I, U<span class="small">NOLALA</span>,<span
-> id="page_35_fr_67"></span>[67](#page_35_note_67) \[say\] that when I
+> id="page_35_fr_67"></span>[67](#page_35_note_67.md) \[say\] that when I
 > was still a very little child, I heard numerous old tales of our
 > people. Unokqopoza said:
 >
 >  There were at first two women in a bed of reeds; one gave birth to a
 > white man, and one to a black man. It is said that these two women
 > were the Unkulunkulu<span
-> id="page_35_fr_68"></span>[68](#page_35_note_68) of the primitive men.
+> id="page_35_fr_68"></span>[68](#page_35_note_68.md) of the primitive men.
 > And as regards that bed of reeds, we enquired of him, but he did not
 > say, it is in such a place; but he said, "I too heard it of the old
 > men; no man knows the situation of that bed of reeds." Further, we
@@ -740,7 +740,7 @@ of medicines, and the second of two male Onkulunkulu.
 > just living here in our kraal." They asked, "Of what nation are you?"
 > He replied, "We are the people of <span id="page_37">p. 37</span>
 > Uzimase." "Who is your king?" "Usango-li-ngenzansi."<span
-> id="page_37_fr_70"></span>[70](#page_37_note_70) "Come up then. But
+> id="page_37_fr_70"></span>[70](#page_37_note_70.md) "Come up then. But
 > why are you living underground, since people are now living above?"
 > They said, "We are living here with our medicines." "What do you do
 > with them?" "We administer medicines to kings." So the women went away
@@ -758,7 +758,7 @@ of medicines, and the second of two male Onkulunkulu.
 > expose himself to women. But on his appearance, the people who came up
 > first said, "This little petticoat has at length come." Our people
 > said in reply, "These little picks are living above."<span
-> id="page_37_fr_71"></span>[71](#page_37_note_71) So <span
+> id="page_37_fr_71"></span>[71](#page_37_note_71.md) So <span
 > id="page_38">p. 38</span> there was a dispute about medicines between
 > those who came up from below and those who were already above. Our
 > people were called, "People of the little petticoat." And they called
@@ -768,14 +768,14 @@ of medicines, and the second of two male Onkulunkulu.
 > each other; and so we went in one direction, and some in another.
 >
 >  I say, then, that Uzimase is the Unkulunkulu of our tribe. I do not
-> know another<span id="page_38_fr_72"></span>[72](#page_38_note_72)
+> know another<span id="page_38_fr_72"></span>[72](#page_38_note_72.md)
 > Unkulunkulu of all men. But the Unkulunkulu of our tribe was derived
 > from Uthlanga, from whence all people were derived. Some say in answer
 > to our enquiries, Uthlanga was of many colours; they say, "He was
 > white on one side, on the other black; and on another side he was
 > covered with bush." So we say, "Perhaps they spoke of the hairiness of
 > his body, and so called it bush."<span
-> id="page_38_fr_73"></span>[73](#page_38_note_73) And people say that
+> id="page_38_fr_73"></span>[73](#page_38_note_73.md) And people say that
 > he too gave them existence by begetting them.
 >
 > U<span class="small">SHUNGUIWANE</span> Z<span
@@ -789,7 +789,7 @@ of medicines, and the second of two male Onkulunkulu.
 > beneath; and another descended from above in a fog. They did not
 > understand him who came down in a fog. They say he was altogether
 > white. They say, "There descended Ungalokwelitshe."<span
-> id="page_39_fr_74"></span>[74](#page_39_note_74) They say, those who
+> id="page_39_fr_74"></span>[74](#page_39_note_74.md) They say, those who
 > were beneath started on seeing him. He said, "Why do you start at me,
 > since I too am a man, and resemble you?" They say, cattle were taken
 > at the place where he descended, and they slaughtered them for him;
@@ -818,14 +818,14 @@ of reeds.
 > <span id="page_40">p. 40</span>
 >
 >  He gave origin to men, he too having had an origin given<span
-> id="page_40_fr_75"></span>[75](#page_40_note_75) him from a bed of
+> id="page_40_fr_75"></span>[75](#page_40_note_75.md) him from a bed of
 > reeds.
 
  I asked, "Wa vezwa ubani na?" Who gave him an origin? He said he did
 not know; and added,
 
 >  Unkulunkulu told men saying, "I too sprang from a bed of reeds."<span
-> id="page_40_fr_76"></span>[76](#page_40_note_76)
+> id="page_40_fr_76"></span>[76](#page_40_note_76.md)
 
  I asked how men were produced, and got for a reply only a repetition of
 the statement that they sprang from a bed of reeds.—I asked if he had
@@ -833,7 +833,7 @@ heard anything of a woman; he replied,
 
 >  Unkulunkulu sprang from a bed of reeds, and a woman (a wife) sprang
 > from the bed of reeds after him. They had one name, viz.,
-> Unkulunkulu.<span id="page_40_fr_77"></span>[77](#page_40_note_77)
+> Unkulunkulu.<span id="page_40_fr_77"></span>[77](#page_40_note_77.md)
 
  I then took him to my study, and wrote the following at his dictation:—
 
@@ -843,7 +843,7 @@ heard anything of a woman; he replied,
 > said, "You see us because we sprang from the bed of reeds," speaking
 > to the people who came into being after him. It is said all men sprang
 > from Unkulunkulu, the one who sprang up first.<span
-> id="page_41_fr_78"></span>[78](#page_41_note_78)
+> id="page_41_fr_78"></span>[78](#page_41_note_78.md)
 >
 >  It is said Unkulunkulu had his origin in a valley where there was a
 > bed of reeds in this world. And men sprang from Unkulunkulu by
@@ -858,10 +858,10 @@ heard anything of a woman; he replied,
 > Unkulunkulu.
 >
 >  He looked on the sun when it was finished,<span
-> id="page_41_fr_79"></span>[79](#page_41_note_79) and said, "There is a
+> id="page_41_fr_79"></span>[79](#page_41_note_79.md) and said, "There is a
 > torch which will give you light, that you may see." He looked on the
 > cattle and said, "These are cattle. Be ye broken off,<span
-> id="page_41_fr_80"></span>[80](#page_41_note_80) and see the cattle;
+> id="page_41_fr_80"></span>[80](#page_41_note_80.md) and see the cattle;
 > and let them be your food; eat their flesh and their milk." He looked
 > on wild animals and said, "That is such an <span id="page_42">p.
 > 42</span> animal. That is an elephant. That is a buffalo." He looked
@@ -877,12 +877,12 @@ heard anything of a woman; he replied,
 > grass and trees to grow; he created all wild animals, and cattle, and
 > game, and snakes, and birds, and water, and mountains.
 >
->  He made a reed;<span id="page_42_fr_82"></span>[82](#page_42_note_82)
+>  He made a reed;<span id="page_42_fr_82"></span>[82](#page_42_note_82.md)
 > the reed <span id="page_43">p. 43</span> gave origin to Unkulunkulu
 > and <span id="page_44">p. 44</span> his wife. Unkulunkulu begat
 > primitive men. Unkulunkulu said, "I, Unkulunkulu, and my wife are the
 > offspring of Umvelinqangi; he begat us with a reed, it being in the
-> water.<span id="page_44_fr_83"></span>[83](#page_44_note_83) At his
+> water.<span id="page_44_fr_83"></span>[83](#page_44_note_83.md) At his
 > origin he said, "We will fight and stab each other with spears, that
 > the strongest may be manifest who overcomes the other; and he who
 > overcomes the other shall be the great king; and he who is overcome
@@ -916,12 +916,12 @@ heard anything of a woman; he replied,
 > others, that a man first came into being; and then a woman after him.
 > After that a cow came into being; it appeared walking with a bull.
 > After that a female dog, and after her a dog;<span
-> id="page_45_fr_84"></span>[84](#page_45_note_84) and after that all
+> id="page_45_fr_84"></span>[84](#page_45_note_84.md) and after that all
 > the little animals, and elephants; all came into being in pairs.
 >
 >  After that corn came into being. When the corn had come to
 > perfection, the man said to the woman, "That which you now see,
-> true<span id="page_45_fr_85"></span>[85](#page_45_note_85) woman, is
+> true<span id="page_45_fr_85"></span>[85](#page_45_note_85.md) woman, is
 > something for us to eat. We shall eat at once. Behold corn."
 >
 > <span id="page_46">p. 46</span>
@@ -929,7 +929,7 @@ heard anything of a woman; he replied,
 >  The woman asked, saying, "In what way shall it be eaten?" The man
 > replied, "Since you see it growing thus, let it be cut. Take a rod,
 > and thrash it; find a stone, and then find a second that it may be an
-> upper stone."<span id="page_46_fr_86"></span>[86](#page_46_note_86)
+> upper stone."<span id="page_46_fr_86"></span>[86](#page_46_note_86.md)
 >
 >  He said, "There is clay; take it and mould it, and pour water into
 > the vessel."
@@ -941,7 +941,7 @@ heard anything of a woman; he replied,
 >
 >  He told the cattle to eat grass; and he told game the same, pointing
 > out to them the same grass. And he told them not to remain all at
-> home.<span id="page_46_fr_87"></span>[87](#page_46_note_87)
+> home.<span id="page_46_fr_87"></span>[87](#page_46_note_87.md)
 >
 >  On the day the first man was created he said, as to what happened to
 > them in the bed of reeds, that they did not see their own creation.
@@ -950,9 +950,9 @@ heard anything of a woman; he replied,
 >
 >  As regards the bed of reeds, on <span id="page_47">p. 47</span> the
 > day they came into being, it swelled,<span
-> id="page_47_fr_88"></span>[88](#page_47_note_88) and when it had burst
+> id="page_47_fr_88"></span>[88](#page_47_note_88.md) and when it had burst
 > they came out. After that there broke off the uthlanga<span
-> id="page_47_fr_89"></span>[89](#page_47_note_89) of cattle and of all
+> id="page_47_fr_89"></span>[89](#page_47_note_89.md) of cattle and of all
 > other animals.
 >
 > U<span class="small">GXUMELA.</span> 
@@ -974,10 +974,10 @@ Utshaka, gave me the following accounts:—
 >
 >  Ujama was the father of Usenzangakona, the father of the Utshakas; it
 > is he who is Unkulunkulu.<span
-> id="page_48_fr_90"></span>[90](#page_48_note_90) There are <span
+> id="page_48_fr_90"></span>[90](#page_48_note_90.md) There are <span
 > id="page_49">p. 49</span> Omvelinqangi.<span
-> id="page_49_fr_91"></span>[91](#page_49_note_91) We used to hear of
-> Undaba,<span id="page_49_fr_92"></span>[92](#page_49_note_92) the son
+> id="page_49_fr_91"></span>[91](#page_49_note_91.md) We used to hear of
+> Undaba,<span id="page_49_fr_92"></span>[92](#page_49_note_92.md) the son
 > of Ukubayeni. They Ujama. were the ancestors of Ujama.
 
  As it was quite clear that he understood my question on the subject of
@@ -986,9 +986,9 @@ the Amazulu, I asked him if he knew anything about the first man. He
 replied:—
 
 >  It was said that two people came out of a reed.<span
-> id="page_49_fr_93"></span>[93](#page_49_note_93) There came out a man
+> id="page_49_fr_93"></span>[93](#page_49_note_93.md) There came out a man
 > and a woman. At their word<span
-> id="page_49_fr_94"></span>[94](#page_49_note_94) there came out all
+> id="page_49_fr_94"></span>[94](#page_49_note_94.md) there came out all
 > those works which we see, both those of cattle and of food,—all the
 > food which we eat.
 >
@@ -1001,7 +1001,7 @@ Creator. He answered:—
 > constantly to hear this when we were children; they used to point to
 > the Lord on high; we did not hear his name; we heard only that the
 > Lord is on high. We heard it said that the creator of the world<span
-> id="page_50_fr_95"></span>[95](#page_50_note_95) is the Lord which is
+> id="page_50_fr_95"></span>[95](#page_50_note_95.md) is the Lord which is
 > above. When I was growing up it used to be said, the creator of the
 > world is above; people used always to point towards heaven.
 >
@@ -1020,13 +1020,13 @@ Creator. He answered:—
 >
 >  All nations have their own Unkulunkulu. Each has its own. The
 > Unkulunkulu of our tribe is Ungenamafu and Uluthlongwana and
-> Usangolibanzi.<span id="page_51_fr_96"></span>[96](#page_51_note_96)
+> Usangolibanzi.<span id="page_51_fr_96"></span>[96](#page_51_note_96.md)
 > At last men said "King" to Umatiwana, in whose house the Onkulunkulu
 > of our tribe were born.<span
-> id="page_51_fr_97"></span>[97](#page_51_note_97) At their birth they
+> id="page_51_fr_97"></span>[97](#page_51_note_97.md) At their birth they
 > handled spears that they might be thrown, and we eat each other's
 > cattle. They sprang from the Umdabuko.<span
-> id="page_51_fr_98"></span>[98](#page_51_note_98) The Umdabuko <span
+> id="page_51_fr_98"></span>[98](#page_51_note_98.md) The Umdabuko <span
 > id="page_52">p. 52</span> is he who gave us all things, and gave us
 > shields also to carry.
 >
@@ -1048,14 +1048,14 @@ related the substance of her remarks as follows:—
 > a beautiful thing in the bed of reeds. At length they said, "Just let
 > us taste what kind of a thing this is." They plucked it, and ate it,
 > and said, "O, forsooth, it is good, it is food." So it was taken
-> home<span id="page_52_fr_99"></span>[99](#page_52_note_99) and
+> home<span id="page_52_fr_99"></span>[99](#page_52_note_99.md) and
 > cultivated.
 >
 >  When we spoke of the origin of corn, asking, "Whence came this?" the
 > old people said, "It came from the creator who created all things. But
 > we do not know him." When we asked continually, <span id="page_53">p.
 > 53</span> "Where is the creator? For our chiefs we see?"<span
-> id="page_53_fr_100"></span>[100](#page_53_note_100) the old men
+> id="page_53_fr_100"></span>[100](#page_53_note_100.md) the old men
 > denied, saying, "And those chiefs too whom we see, they were created
 > by the creator."
 >
@@ -1064,10 +1064,10 @@ related the substance of her remarks as follows:—
 > "The Creator of all things is in heaven. And there is a nation of
 > people there too." But we could not well understand when that Creator
 > would be visible. It used to be said constantly, "He is the chief of
-> chiefs."<span id="page_53_fr_1"></span>[1](#page_53_note_1)
+> chiefs."<span id="page_53_fr_1"></span>[1](#page_53_note_1.md)
 >
 >  Also when we heard it said that the heaven had eaten<span
-> id="page_53_fr_2"></span>[2](#page_53_note_2) the cattle at such a
+> id="page_53_fr_2"></span>[2](#page_53_note_2.md) the cattle at such a
 > village, we said, "The Lord has taken the cattle from such a village."
 > And when it thundered the people took courage by saying, "The Lord is
 > playing." That was the state of the matter till we grew up.
@@ -1075,7 +1075,7 @@ related the substance of her remarks as follows:—
 >  But as for Unkulunkulu, Ubapa's mother did not mention him of her own
 > accord. But I tried to direct her attention to him, that she might
 > speak of him of her <span id="page_54">p. 54</span> own accord.<span
-> id="page_54_fr_3"></span>[3](#page_54_note_3) But I could not get her
+> id="page_54_fr_3"></span>[3](#page_54_note_3.md) But I could not get her
 > to mention him of her own <span id="page_55">p. 55</span> accord. At
 > length I mentioned the name of Unkulunkulu; and she understood and
 > said, "Ah! it is he in fact who is the creator which is in heaven, of
@@ -1083,7 +1083,7 @@ related the substance of her remarks as follows:—
 > at cross purposes. She did not say this to the Missionary yesterday.
 > She said Unkulunkulu was from beneath. But now she says he was from
 > above." And she said, "Yes, yes!<span
-> id="page_55_fr_4"></span>[4](#page_55_note_4) he went up to heaven
+> id="page_55_fr_4"></span>[4](#page_55_note_4.md) he went up to heaven
 > afterwards." She left the first account, and began to say, "Truly
 > Unkulunkulu is he who is in heaven. And the whitemen, they are the
 > lords who made all things."
@@ -1098,16 +1098,16 @@ were scattered by the armies of Utshaka, and he showed four wounds,
 received at different times:—
 
 > T<span class="small">HE</span> chief<span
-> id="page_56_fr_5"></span>[5](#page_56_note_5) enquires then what our
+> id="page_56_fr_5"></span>[5](#page_56_note_5.md) enquires then what our
 > forefathers believed.
 >
 >  The primitive faith of our fathers was this, they said, "There is
 > Unkulunkulu, who is a man,<span
-> id="page_56_fr_6"></span>[6](#page_56_note_6) who is of the earth."
+> id="page_56_fr_6"></span>[6](#page_56_note_6.md) who is of the earth."
 > And they used to say, "There is a lord in heaven." When it hailed, and
 > thundered, they said, "The lord is arming; he will cause it to hail.
 > Put things in order."<span
-> id="page_56_fr_7"></span>[7](#page_56_note_7) They <span
+> id="page_56_fr_7"></span>[7](#page_56_note_7.md) They <span
 > id="page_57">p. 57</span> said this to our mothers, and they set all
 > things in order, cattle and corn.
 >
@@ -1120,7 +1120,7 @@ received at different times:—
 > he told the cattle to eat. He said, "Let firewood be fetched, that a
 > fire may be kindled, and food be dressed." Unkulunkulu said, "Let
 > there be marriage among men,<span
-> id="page_57_fr_8"></span>[8](#page_57_note_8) that there may be those
+> id="page_57_fr_8"></span>[8](#page_57_note_8.md) that there may be those
 > who can intermarry, that children may be born and men increase on the
 > earth." He said, "Let there be black chiefs; and the chief be known by
 > his people, and it be said, 'That is the chief: assemble all of you
@@ -1129,16 +1129,16 @@ received at different times:—
 >  We do not know the origin of Unkulunkulu. We hear it said, "Men are
 > the children of Unkulunkulu." Our fathers used to <span
 > id="page_58">p. 58</span> say, "Unkulunkulu is he who begat men by
-> Uthlanga.<span id="page_58_fr_9"></span>[9](#page_58_note_9) We do not
+> Uthlanga.<span id="page_58_fr_9"></span>[9](#page_58_note_9.md) We do not
 > know whence Uthlanga came; or whether Unkulunkulu and Uthlanga both
 > came from one Uthlanga or not. We do not know whether Uthlanga was a
 > woman, for our fathers said we were begotten by Unkulunkulu.<span
-> id="page_58_fr_10"></span>[10](#page_58_note_10)
+> id="page_58_fr_10"></span>[10](#page_58_note_10.md)
 >
 >  We used to ask our fathers about Unkulunkulu, saying, "Where is
 > Unkulunkulu of whom you speak?" They said, "He is dead, and Uthlanga
 > also is dead." Our fathers said, "We were told that we are the
-> children<span id="page_58_fr_11"></span>[11](#page_58_note_11) of
+> children<span id="page_58_fr_11"></span>[11](#page_58_note_11.md) of
 > Unkulunkulu and Uthlanga. And our fathers told us they were told."
 >
 >  Unkulunkulu was a black man, for we see that all the people from whom
@@ -1149,9 +1149,9 @@ received at different times:—
 > <span id="page_59">p. 59</span>
 >
 >  As to the source<span
-> id="page_59_fr_12"></span>[12](#page_59_note_12) of being I know that
+> id="page_59_fr_12"></span>[12](#page_59_note_12.md) of being I know that
 > only which is in heaven. The ancient men said, "The source of being is
-> above,<span id="page_59_fr_13"></span>[13](#page_59_note_13) which
+> above,<span id="page_59_fr_13"></span>[13](#page_59_note_13.md) which
 > gives life to men; for men are satisfied, and do not die of famine,
 > for the lord gives them life, that they may live prosperously on the
 > earth and not die of famine.
@@ -1159,7 +1159,7 @@ received at different times:—
 >  If it does not rain, the heads of villages and petty chiefs assemble
 > and go to a black chief; they converse, and pray for rain. Their
 > praying is this:—The heads of villages select some black oxen;<span
-> id="page_59_fr_14"></span>[14](#page_59_note_14) there is not one
+> id="page_59_fr_14"></span>[14](#page_59_note_14.md) there is not one
 > white among them. They are not slaughtered; they merely mention them;
 > one is killed, the others are left. It was said at first, the rain
 > came from the lord, and that the sun came from him, and the moon which
@@ -1170,7 +1170,7 @@ received at different times:—
 > <span id="page_60">p. 60</span>
 >
 >  If lightning struck cattle, the people were not distressed.<span
-> id="page_60_fr_15"></span>[15](#page_60_note_15) It used to be said,
+> id="page_60_fr_15"></span>[15](#page_60_note_15.md) It used to be said,
 > "The lord has slaughtered for himself among his own food. Is it yours?
 > is it not the lord's? He is hungry; he kills for himself." If a
 > village is struck with lightning, and a cow killed, it is said, "This
@@ -1188,12 +1188,12 @@ Umdabuko more exactly, be made the following report:—
 > asked of Ubebe what <span id="page_61">p. 61</span> men meant by the
 > word Umdabuko, when they say, "The Umdabuko of men." He replied, "When
 > we say Umdabuko we speak of that<span
-> id="page_61_fr_16"></span>[16](#page_61_note_16) from which men
+> id="page_61_fr_16"></span>[16](#page_61_note_16.md) from which men
 > sprang; and because they sprang from that, we say, 'The Umdabuko of
 > men.' Further, as regards that lord who is above, I never heard our
 > fathers say he had a mother or wife. I never heard such a thing. It is
 > Unkulunkulu only of whom it was said he gave men origin by means of
-> Uthlanga,<span id="page_61_fr_17"></span>[17](#page_61_note_17) and so
+> Uthlanga,<span id="page_61_fr_17"></span>[17](#page_61_note_17.md) and so
 > we said, the Umdabuko is Uthlanga."
 >
 > ------------------------------------------------------------------------
@@ -1205,14 +1205,14 @@ about Unkulunkulu. He reported the following:—
 > W<span class="small">HEN</span> I asked him, saying, "Unjan, what do
 > you say about that Unkulunkulu, of whom we black men used to talk?" he
 > replied, "Him who, we said, made all things?"<span
-> id="page_61_fr_18"></span>[18](#page_61_note_18) I replied, "Yes. I
+> id="page_61_fr_18"></span>[18](#page_61_note_18.md) I replied, "Yes. I
 > enquire <span id="page_62">p. 62</span> that I might know what has
 > always been the truth about him." He said, "Yes, yes! Do you not
 > understand that we said Unkulunkulu made all things that we see or
 > touch?" I said, "Yes! Just go on. I am listening for the conclusion."
 > And he said, "Although it was said he made all things, yet for my part
 > I see that it was said,<span
-> id="page_62_fr_19"></span>[19](#page_62_note_19) he was an old man of
+> id="page_62_fr_19"></span>[19](#page_62_note_19.md) he was an old man of
 > ours, a man like us; for we did not point to any place where he was,
 > but said he was a man who came into being first of all other men, who
 > was older than all of us, Umvelinqangi. So then I see that by our word
@@ -1221,14 +1221,14 @@ about Unkulunkulu. He reported the following:—
 > asked, "Where is he gone?" He replied, "We too used to ask, and it was
 > answered, 'he is dead.' But by that it is evident that all things were
 > not made by a man, who is now dead; they were made by one who now
-> is."<span id="page_62_fr_20"></span>[20](#page_62_note_20)
+> is."<span id="page_62_fr_20"></span>[20](#page_62_note_20.md)
 >
 >  And when I enquired, saying, "Do not your teachers<span
-> id="page_62_fr_21"></span>[21](#page_62_note_21) tell you that the
+> id="page_62_fr_21"></span>[21](#page_62_note_21.md) tell you that the
 > lord which is in heaven is Unkulunkulu?" he replied with a <span
 > id="page_63">p. 63</span> start, "Hau! by no means. I never heard such
 > a word, neither did I ever hear them even mention the name. It is your
-> teacher<span id="page_63_fr_22"></span>[22](#page_63_note_22) alone
+> teacher<span id="page_63_fr_22"></span>[22](#page_63_note_22.md) alone
 > with whom I have ever spoken about it."
 
  The next day I asked him myself, when he made the following statement:—
@@ -1237,7 +1237,7 @@ about Unkulunkulu. He reported the following:—
 > every thing besides, both cattle and wild animals. They said it was an
 > ancient man who gave origin to these things, of whom it is now said
 > that ancient man is lord; it is said, he is the Lord which is
-> above.<span id="page_63_fr_23"></span>[23](#page_63_note_23) We have
+> above.<span id="page_63_fr_23"></span>[23](#page_63_note_23.md) We have
 > now heard from you that the Lord which is in heaven is he who made
 > everything. The old men said that Unkulunkulu was an ancestor and
 > nothing more, an ancient man who begat men, and gave origin to all
@@ -1256,7 +1256,7 @@ about Unkulunkulu. He reported the following:—
 >  And Ulangeni answered, "No; the word Utikxo is not a word we learnt
 > of the English; it is an old word of our own. It used to be always
 > said when a man sneezed, 'May Utikxo ever regard me with
-> favour.'"<span id="page_64_fr_24"></span>[24](#page_64_note_24)
+> favour.'"<span id="page_64_fr_24"></span>[24](#page_64_note_24.md)
 >
 >  Then I asked, "Since you merely used the word Utikxo, what did you
 > mean? Since what is very truth about him you knew not, what did you
@@ -1266,11 +1266,11 @@ about Unkulunkulu. He reported the following:—
 > who is above all. But it was not said that he was in a certain place
 > <span id="page_65">p. 65</span> in heaven; it was said he filled the
 > whole heaven. No distinction of place was made."<span
-> id="page_65_fr_25"></span>[25](#page_65_note_25)
+> id="page_65_fr_25"></span>[25](#page_65_note_25.md)
 >
 >  I asked, "By what name did the Hottentots call God?" He said, "Hau!
 > what Hottentots do you mean?"<span
-> id="page_65_fr_26"></span>[26](#page_65_note_26) I replied, "Those
+> id="page_65_fr_26"></span>[26](#page_65_note_26.md) I replied, "Those
 > reddish Hottentots." He said, "I hear. But where were those people
 > that they should use the word Utikxo? Is it not the fact that they
 > used to live in the mountains; and were taken into the households of
@@ -1282,7 +1282,7 @@ about Unkulunkulu. He reported the following:—
 >  This, then, is what I heard of Ulangeni. So I enquired further, "Have
 > you never heard of Unkulunkulu?" He replied, "I have for the most part
 > heard Unkulunkulu mentioned when stones are thrown on an
-> isivivane;<span id="page_65_fr_27"></span>[27](#page_65_note_27) when
+> isivivane;<span id="page_65_fr_27"></span>[27](#page_65_note_27.md) when
 > a <span id="page_66">p. 66</span> man throws a stone, he says,
 > 'Generations of Unkulunkulu,' and passes on." So I said, "What <span
 > id="page_67">p. 67</span> Unkulunkulu does he mean?" Ulangeni said in
@@ -1291,7 +1291,7 @@ about Unkulunkulu. He reported the following:—
 > and was seen by no one; men saw Unkulunkulu, and said he was the
 > creator of all things, Umvelinqangi; they said thus because they did
 > not see Him who made Unkulunkulu. And so they said Unkulunkulu was
-> God.<span id="page_67_fr_28"></span>[28](#page_67_note_28) This is
+> God.<span id="page_67_fr_28"></span>[28](#page_67_note_28.md) This is
 > what I know about Unkulunkulu."
 >
 >  I replied, "Yes, yes! Ulangeni. I see clearly that what you say
@@ -1312,14 +1312,14 @@ about Unkulunkulu. He reported the following:—
 > you say about the creation of all things?' We replied, 'We call him
 > who made all things Utikxo.' And he enquired, 'Where is he?' We
 > replied, 'In heaven.' Uyegana said, 'Very well. I bring that very
-> one<span id="page_68_fr_29"></span>[29](#page_68_note_29) to you of
+> one<span id="page_68_fr_29"></span>[29](#page_68_note_29.md) to you of
 > this country.' And there were two men, both men of consequence; one
 > was named Unsikana, and the other Unxele. Both became believers.
 > Unxele continued to live at his own village. Unsikana united with
 > Uyegana, the missionary. These men began to dispute about the name
 > Utikxo. Unxele said, 'Utikxo is beneath.' Unsikana denied, saying,
 > 'No! Unxele. Utikxo is above. I see that he is above from whence power
-> proceeds.'<span id="page_68_fr_30"></span>[30](#page_68_note_30) The
+> proceeds.'<span id="page_68_fr_30"></span>[30](#page_68_note_30.md) The
 > two disputed on that subject, until at length Unxele <span
 > id="page_69">p. 69</span> was overcome, for he said, 'He is beneath,'
 > meaning Unkulunkulu when he said 'He is beneath.' But Unsikana said,
@@ -1331,7 +1331,7 @@ about Unkulunkulu. He reported the following:—
 > when he had refuted Unxele, he composed a great hymn for him, which he
 > called 'The Hymn of God;' and to this day that hymn is a great
 > treasure among the Amakxosa. It celebrates the great power of
-> God.<span id="page_69_fr_31"></span>[31](#page_69_note_31) <span
+> God.<span id="page_69_fr_31"></span>[31](#page_69_note_31.md) <span
 > id="page_70">p. 70</span> And the man Unsikana did a wonderful thing
 > at his death. He went with his son into the forest. When he entered
 > the forest he sought for a large tree called the Umumbu; he found one
@@ -1353,7 +1353,7 @@ about Unkulunkulu. He reported the following:—
 > really old, but those who are grown up more than others; they send
 > children to go and call him. For there is no one who will say, "Why do
 > you like to make sport with a relative of mine?<span
-> id="page_70_fr_32"></span>[32](#page_70_note_32) Do you not know that
+> id="page_70_fr_32"></span>[32](#page_70_note_32.md) Do you not know that
 > <span id="page_71">p. 71</span> it is painful to me?" It is because
 > the house of Unkulunkulu, which can feel pain for him, no longer
 > exists. All the people who send children to go and call him, do so
@@ -1365,12 +1365,12 @@ about Unkulunkulu. He reported the following:—
 > we know, that all these things which we have, he gave us." But there
 > is no such conclusion as this come to, "The house which is descended
 > from Unkulunkulu is the house of So-and-so."<span
-> id="page_71_fr_33"></span>[33](#page_71_note_33)
+> id="page_71_fr_33"></span>[33](#page_71_note_33.md)
 >
 >  When the standing of Unkulunkulu is sought out, it terminates in the
 > open plain, and makes no approach to houses which have followed him in
 > succession till those men who now exist are reached.<span
-> id="page_71_fr_34"></span>[34](#page_71_note_34)
+> id="page_71_fr_34"></span>[34](#page_71_note_34.md)
 >
 >  Such then, you see, is the calling of Unkulunkulu; it is as though he
 > was the subject of a <span id="page_72">p. 72</span> mere nursery
@@ -1429,7 +1429,7 @@ about Unkulunkulu. He reported the following:—
 >
 >  The account of Unkulunkulu we now see in books, that is, it is coming
 > near to us, whilst we ourselves used to say, "Unkulunkulu is the first
-> man."<span id="page_74_fr_35"></span>[35](#page_74_note_35) We did not
+> man."<span id="page_74_fr_35"></span>[35](#page_74_note_35.md) We did not
 > worship him, though we all sprang <span id="page_75">p. 75</span> from
 > him. We worship our Onkulunkulu whom we know \[by name\]; we cannot
 > worship him, for all of us in our childhood were deceived through him,
@@ -1437,7 +1437,7 @@ about Unkulunkulu. He reported the following:—
 > did not appear in the least. But now if a man tell us to worship
 > Unkulunkulu, how shall we forsake these our own Onkulunkulu whom we do
 > worship, and worship him by whom we have been deceived? We cannot
-> assent.<span id="page_75_fr_36"></span>[36](#page_75_note_36) For if a
+> assent.<span id="page_75_fr_36"></span>[36](#page_75_note_36.md) For if a
 > man urge us to worship Unkulunkulu, the old sores of all of us will
 > break out again, and we shall ask if the deception which was practised
 > on us when young is brought up again. It is said, "Since we have grown
@@ -1448,7 +1448,7 @@ about Unkulunkulu. He reported the following:—
 > and if we are told to worship him and he will give us so-and so and
 > so-and-so, <span id="page_76">p. 76</span> or health, it will still be
 > like our being deceived.<span
-> id="page_76_fr_37"></span>[37](#page_76_note_37)
+> id="page_76_fr_37"></span>[37](#page_76_note_37.md)
 >
 > U<span class="small">MPENGULA</span> M<span
 > class="small">BANDA.</span> 
@@ -1460,7 +1460,7 @@ about Unkulunkulu. He reported the following:—
 >
 >  It is said the black men came out first from the place whence all
 > nations proceeded;<span
-> id="page_76_fr_38"></span>[38](#page_76_note_38) but they did <span
+> id="page_76_fr_38"></span>[38](#page_76_note_38.md) but they did <span
 > id="page_77">p. 77</span> not come out with many things; but only with
 > a few cattle and a little corn, and assagais, and picks for digging
 > with the arms, and some other things which they have; fire to kindle,
@@ -1507,7 +1507,7 @@ about Unkulunkulu. He reported the following:—
 > might not leave any behind. So in truth they came out with them.
 > Therefore we honour them, saying, "It is they who came out possessed
 > of all things from the great Spirit;<span
-> id="page_79_fr_41"></span>[41](#page_79_note_41) it is they who came
+> id="page_79_fr_41"></span>[41](#page_79_note_41.md) it is they who came
 > out possessed of all goodness; we came out possessed with the folly of
 > utter ignorance." Now it is as if they were becoming our fathers, for
 > they come to us possessed of all things. Now they tell us all things,
@@ -1553,7 +1553,7 @@ about Unkulunkulu. He reported the following:—
 > is Unkulunkulu, who we say broke off the nations. It is only a word
 > which points out that the white men came out with every thing, and
 > possessed of every thing that was needed for manhood; they came out
-> perfect,<span id="page_81_fr_42"></span>[42](#page_81_note_42) not
+> perfect,<span id="page_81_fr_42"></span>[42](#page_81_note_42.md) not
 > like us who came out imperfect, not having cast off the skin of
 > imperfection. And all those things with which we came out we did not
 > know sufficiently to understand them. On that account the word has
@@ -1563,8 +1563,8 @@ about Unkulunkulu. He reported the following:—
 > for he too sprang from Uthlanga; we cannot well understand whether
 > <span id="page_82">p. 82</span> that Itongo is more likely to be
 > Unkulunkulu, or Uthlanga.<span
-> id="page_82_fr_43"></span>[43](#page_82_note_43) That is by no means
-> clear.<span id="page_82_fr_44"></span>[44](#page_82_note_44)
+> id="page_82_fr_43"></span>[43](#page_82_note_43.md) That is by no means
+> clear.<span id="page_82_fr_44"></span>[44](#page_82_note_44.md)
 >
 > U<span class="small">MPENGULA</span> M<span
 > class="small">BANDA.</span> 
@@ -1590,16 +1590,16 @@ that the Amazulu pray to and worship him:—
 >  Who is Unkulunkulu?
 >
 >  We do not know Unkulunkulu. I do not know Unkulunkulu.<span
-> id="page_83_fr_45"></span>[45](#page_83_note_45) I point to heaven and
+> id="page_83_fr_45"></span>[45](#page_83_note_45.md) I point to heaven and
 > say, "There is Unkulunkulu."<span
-> id="page_83_fr_46"></span>[46](#page_83_note_46)
+> id="page_83_fr_46"></span>[46](#page_83_note_46.md)
 >
 > <span id="page_84">p. 84</span>
 >
 >  Do the people worship Unkulunkulu?
 >
 >  Yes, they worship him. We love Unkulunkulu because we eat corn,<span
-> id="page_84_fr_47"></span>[47](#page_84_note_47) and mix it with
+> id="page_84_fr_47"></span>[47](#page_84_note_47.md) and mix it with
 > amasi; and kill our cattle, and eat our maize, and our sweet cane. We
 > love Unkulunkulu because he told us to take ten wives. We love
 > Unkulunkulu because he told us to eat our meat. But Unkulunkulu erred
@@ -1608,21 +1608,21 @@ that the Amazulu pray to and worship him:—
 > when he allowed us to die and rise no more. Unkulunkulu is good
 > because he told us to take our cattle and buy a wife. We love him on
 > this account, because we eat amadumbi and umthlaza,<span
-> id="page_84_fr_48"></span>[48](#page_84_note_48) and because he told
+> id="page_84_fr_48"></span>[48](#page_84_note_48.md) and because he told
 > us to drink our beer. We love him because he told us to eat the flesh
 > of game.
 >
 >  Do the people salute Unkulunkulu?
 >
 >  Yes, they salute him, saying, "O Friend! Chief!"<span
-> id="page_84_fr_49"></span>[49](#page_84_note_49)
+> id="page_84_fr_49"></span>[49](#page_84_note_49.md)
 >
 > <span id="page_85">p. 85</span>
 >
 >  Do they ask him for any thing?
 >
 >  Yes. They say, "Give us rain, O Chief, that our maize may grow."<span
-> id="page_85_fr_50"></span>[50](#page_85_note_50)
+> id="page_85_fr_50"></span>[50](#page_85_note_50.md)
 >
 >  The old men say that Unkulunkulu was a man, and had a wife. Neither
 > do I know the name of his wife. The old men say that he had a wife,
@@ -1667,7 +1667,7 @@ father. He answered:—
 
 >  The father of my father is ubaba-mkulu; his father is ukoko; the
 > father of ukoko is unkulunkulwana;<span
-> id="page_86_fr_51"></span>[51](#page_86_note_51) the father of
+> id="page_86_fr_51"></span>[51](#page_86_note_51.md) the father of
 > unkulunkulwana is unkulunkulu.
 >
 > <span id="page_87">p. 87</span>
@@ -1705,7 +1705,7 @@ as follows:—
 |  Umashwabade | ditto                   |
 
 >  The surnames of all of them are Udhlamini, Uhhadebe, and
-> Umtimkulu.<span id="page_88_fr_53"></span>[53](#page_88_note_53)
+> Umtimkulu.<span id="page_88_fr_53"></span>[53](#page_88_note_53.md)
 
  Upon further enquiry it appeared that he did not mean that all the
 Onkulunkulu here mentioned were the heads of generations in regular
@@ -1725,7 +1725,7 @@ origin of man. He said:—
 > of a reed. He <span id="page_89">p. 89</span> pointed to the growing
 > corn and said, "Pluck. That is corn." This was said by the most
 > ancient Unkulunkulu, Ukqili.<span
-> id="page_89_fr_56"></span>[56](#page_89_note_56) For Ukqili was the
+> id="page_89_fr_56"></span>[56](#page_89_note_56.md) For Ukqili was the
 > first Unkulunkulu who came out of the bed of reeds, and begat men.
 >
 >  The first man is called Unkulunkulu. He came out with a wife; and
@@ -1735,11 +1735,11 @@ origin of man. He said:—
 >
 >  We do not know that the primitive men were begotten. They came, as
 > they were, out of the bed <span id="page_90">p. 90</span> of
-> reeds;<span id="page_90_fr_57"></span>[57](#page_90_note_57) and
+> reeds;<span id="page_90_fr_57"></span>[57](#page_90_note_57.md) and
 > Unkulunkulu came out as he was. We do not see him, and hear only of
-> Uthlanga.<span id="page_90_fr_58"></span>[58](#page_90_note_58) So we
+> Uthlanga.<span id="page_90_fr_58"></span>[58](#page_90_note_58.md) So we
 > say he was first; he made<span
-> id="page_90_fr_59"></span>[59](#page_90_note_59) the earth, and the
+> id="page_90_fr_59"></span>[59](#page_90_note_59.md) the earth, and the
 > mountains, the water, corn, food, cattle, and every thing. All things
 > came out of the water, dogs and cattle. We say they were made by him,
 > for when we came into being they were already all in existence.
@@ -1774,20 +1774,20 @@ generation backwards are called Unkulunkulu. Thus:—
 > |  Ubaba                            |  Umame                                                           |
 > |  Ubaba-mkulu                      |  Umakulu, or Ukulu                                               |
 > |  Ukoko                            |  Ukoko                                                           |
-> |  Unkulunkulwana                   |  Ukulukulu<span id="page_91_fr_60"></span>[60](#page_91_note_60) |
+> |  Unkulunkulwana                   |  Ukulukulu<span id="page_91_fr_60"></span>[60](#page_91_note_60.md) |
 > |  Unkulunkulu                      |  Unkulunkulu                                                     |
 
  I said to him, "Where now is the first unkulunkulu?" He replied:—
 
 >  All we know is this, the young and the old die,<span
-> id="page_91_fr_61"></span>[61](#page_91_note_61) and the shade<span
-> id="page_91_fr_62"></span>[62](#page_91_note_62) departs. The
+> id="page_91_fr_61"></span>[61](#page_91_note_61.md) and the shade<span
+> id="page_91_fr_62"></span>[62](#page_91_note_62.md) departs. The
 > Unkulunkulu of us black men is that one to whom we pray for our
 > cattle, and worship, saying, "Father!" We say, "Udhlamini!
-> Uhhadebe!<span id="page_91_fr_63"></span>[63](#page_91_note_63)
+> Uhhadebe!<span id="page_91_fr_63"></span>[63](#page_91_note_63.md)
 > Umutimkulu! Uthlomo! Let me obtain <span id="page_92">p. 92</span>
 > what I wish, Lord! Let me not die, but live, and walk long on the
-> earth."<span id="page_92_fr_64"></span>[64](#page_92_note_64) Old
+> earth."<span id="page_92_fr_64"></span>[64](#page_92_note_64.md) Old
 > people see him at night in their dreams.
 
  I asked him if, when he was a boy in Zululand, the people ever said any
@@ -1799,7 +1799,7 @@ thing about a heavenly lord. He replied:—
 > used to pray for rain. But Utshaka came, and made his prayers greater
 > than those who preceded him. He summoned the people, a great assembly,
 > consisting of the chiefs of villages. He collected black<span
-> id="page_92_fr_65"></span>[65](#page_92_note_65) oxen, and sheep and
+> id="page_92_fr_65"></span>[65](#page_92_note_65.md) oxen, and sheep and
 > black rams; and went to pray; he sang a song and prayed to the lord of
 > heaven; and asked his forefathers to pray for rain to the lord of
 > heaven. And it rained. This is the song:—
@@ -1810,12 +1810,12 @@ thing about a heavenly lord. He replied:—
 >
 > *Second Part, or Response*—
 >
->  I ya wo.<span id="page_92_fr_66"></span>[66](#page_92_note_66)
+>  I ya wo.<span id="page_92_fr_66"></span>[66](#page_92_note_66.md)
 >
 > <span id="page_93">p. 93</span>
 >
 >  These cattle are the cattle of Umzimu;<span
-> id="page_93_fr_67"></span>[67](#page_93_note_67) they are collected
+> id="page_93_fr_67"></span>[67](#page_93_note_67.md) they are collected
 > into one place. When they are killed, the chief men gird themselves
 > with the girdles of young girls; they are skinned and carried by other
 > young persons and put in the chief village, in the huts of the old
@@ -1839,13 +1839,13 @@ thing about a heavenly lord. He replied:—
  During the conversation he remarked:—
 
 >  You white men remained behind with our great Itongo.<span
-> id="page_94_fr_68"></span>[68](#page_94_note_68)
+> id="page_94_fr_68"></span>[68](#page_94_note_68.md)
 
  I asked what he meant by "Itongo" here. Umpengula answered:—
 
 >  When he says Itongo, he is not speaking of a man who has died and
 > risen again; he is speaking of the up-bearer of the earth,<span
-> id="page_94_fr_69"></span>[69](#page_94_note_69) which <span
+> id="page_94_fr_69"></span>[69](#page_94_note_69.md) which <span
 > id="page_95">p. 95</span> supports men and cattle. The up-bearer is
 > the earth by which we live; and there is the up-bearer of the earth by
 > which we live, and without which we could not be, and by which we are.
@@ -1869,7 +1869,7 @@ me. I asked them to give me the names of the heads of generations on the
 female side. They agreed in the main, but Umyeni made Unkulunkulu the
 head of the fifth generation backwards, and Ugotana of the fourth;
 Umyeni inserting Ukulukulu as the fourth, like Usithlanu (see [p.
-91](#page_91)). I then asked them to give me the heads on the male side,
+91](#page_91).md). I then asked them to give me the heads on the male side,
 in like manner. The result was as under:—
 
 |                 |              |
@@ -1899,20 +1899,20 @@ of their house, who has given them their surname.
 > ------------------------------------------------------------------------
 
 T<span class="small">WO</span> Amabakca, an old and young man, gave me
-the heads of generations as given above, [p. 86](#page_86).
+the heads of generations as given above, [p. 86](#page_86.md).
 
  "But," I said, "is there not another word, Ukulukulu or Unkulunkulu?"
 
  They said, "He is further back (ngembili);" and went on to say that all
 who were heads of generations anterior to the okoko were called
 Ukulukulu, till they came to Umsondwo,<span
-id="page_97_fr_70"></span>[70](#page_97_note_70)
+id="page_97_fr_70"></span>[70](#page_97_note_70.md)
 
 > who came out first; he is the uthlanga of men; he is that uthlanga who
 > broke off men, they having been broken off from him. The uthlanga is
 > Umsondwo, who broke off, and then broke off men, the umdali, the
 > umdali of the earth.<span
-> id="page_97_fr_71"></span>[71](#page_97_note_71)
+> id="page_97_fr_71"></span>[71](#page_97_note_71.md)
 
  I asked them what they said about the Okulukulu. They replied:—
 
@@ -1956,13 +1956,13 @@ the origin of man. He replied:—
 > <span id="page_99">p. 99</span>
 >
 >  Udhlamini is the name of the whom we call Ukulukulu.<span
-> id="page_99_fr_72"></span>[72](#page_99_note_72)
+> id="page_99_fr_72"></span>[72](#page_99_note_72.md)
 
  I asked, "Wa dabuka pi?" Where did he break off? He said:
 
 >  It is said that Udhlamini broke off from the mountain Ingome, the
 > place of the origin<span
-> id="page_99_fr_73"></span>[73](#page_99_note_73) of our tribe.
+> id="page_99_fr_73"></span>[73](#page_99_note_73.md) of our tribe.
 
  I asked him what were the nations he broke off (izizwe owa zi dabula).
 He mentioned several, but I did not succeed in writing the names; but
@@ -1976,12 +1976,12 @@ I <span class="small">OVERHEARD</span> Uthlangabeza, one of Ukukulela's
 people, talking with some of the men of the village. He said Unkulunkulu
 and Ukulukulu is one; and Umvelinqangi and Unkulunkulu is one; that all
 things came out of a mountain in the north; and that Uthlabati<span
-id="page_99_fr_74"></span>[74](#page_99_note_74) is the name of that
+id="page_99_fr_74"></span>[74](#page_99_note_74.md) is the name of that
 Unkulunkulu owa dabuka eluhlangeni,—who broke off from Uthlanga.
 
 ------------------------------------------------------------------------
 
-[Next](rsa02)
+[Next](rsa02.md)
 
 ------------------------------------------------------------------------
 
@@ -1989,7 +1989,7 @@ Unkulunkulu owa dabuka eluhlangeni,—who broke off from Uthlanga.
 
 <span id="footnotes_page_1">p. 1</span>
 
- <span id="page_1_note_1"></span>[1](#page_1_fr_1) *A s’ aziwa = ka s’
+ <span id="page_1_note_1"></span>[1](#page_1_fr_1.md) *A s’ aziwa = ka s’
 aziwa*, is no longer known, that is, to us; or as it is said in other
 accounts, "A si sa m azi," We no longer know him. There no longer exists
 amongst us any knowledge about him. The same expression is used when
@@ -1997,7 +1997,7 @@ speaking of the man from whom the *isibongo* (surname) of a house or
 tribe is derived, *ka s’ aziwa*. He is lost to memory, nothing is known
 of him or his deeds.
 
- <span id="page_1_note_2"></span>[2](#page_1_fr_2) This is the constant
+ <span id="page_1_note_2"></span>[2](#page_1_fr_2.md) This is the constant
 statement in the traditions of Unkulunkulu. It has been said that by
 *umuntu* we are to understand simply a *person*. But *umuntu* means a
 *human being*. And it is more in accordance with the religious system of
@@ -2010,7 +2010,7 @@ the king Satravata addresses "Hari, the preserver of the universe,"
 thus, "O first male; the lord of creation, of preservation, of
 destruction!" (*Id., p.* 314.)
 
- <span id="page_1_note_3"></span>[3](#page_1_fr_3) *Dabuka*, to
+ <span id="page_1_note_3"></span>[3](#page_1_fr_3.md) *Dabuka*, to
 separate, or to spring or break off, from something by fissure or
 division. Thus the swarming of bees is an *ukudabuka*. The division of
 small tribes from larger ones—as the small tribes of <span
@@ -2039,16 +2039,16 @@ emhlabeni* (he broke off from the earth), it cannot be doubted that we
 are to understand it as intimating a belief in the eternity—at least in
 the pre-existence—of the world.
 
- <span id="page_2_note_4"></span>[4](#page_2_fr_4) *Ekukqaleni*. In the
+ <span id="page_2_note_4"></span>[4](#page_2_fr_4.md) *Ekukqaleni*. In the
 beginning. There is the same obscurity in the Zulu use of this phrase as
 in our own. We must understand it here as meaning, *in the beginning of
 the present order of things*, and not, from all eternity.
 
- <span id="page_2_note_5"></span>[5](#page_2_fr_5) But, as it will be
+ <span id="page_2_note_5"></span>[5](#page_2_fr_5.md) But, as it will be
 presently seen, a first woman is by many associated with the first man,
 that is, Unkulunkulu is said to have had a wife.
 
- <span id="page_2_note_6"></span>[6](#page_2_fr_6) *Dabula*.—My native
+ <span id="page_2_note_6"></span>[6](#page_2_fr_6.md) *Dabula*.—My native
 interpreter maintains that although above it is said that Unkulunkulu is
 not known to have had a wife, yet that this phrase implies it. But this
 is scarcely borne out by the fact that in other accounts he is said to
@@ -2056,7 +2056,7 @@ break off cattle, &c., from Uthlanga. It seems rather that we are to
 understand that at first Unkulunkulu broke off, and having broken off,
 became the means of breaking off all other things.
 
- <span id="page_2_note_7"></span>[7](#page_2_fr_7)
+ <span id="page_2_note_7"></span>[7](#page_2_fr_7.md)
 *Ohlangeni*.—*Uthlanga* is a reed, strictly speaking, one which is
 capable of "stooling," throwing out offsets. It thus comes,
 metaphorically, <span id="footnotes_page_3">p. 3</span> to mean a source
@@ -2068,15 +2068,15 @@ a reed. It cannot be doubted that the word alone has come down to the
 people, whilst the meaning has been lost. Comp. M. Casalis' account of
 the religious notions of the Basutos, p. 240.
 
- <span id="page_3_note_8"></span>[8](#page_3_fr_8) Hence their saying,
+ <span id="page_3_note_8"></span>[8](#page_3_fr_8.md) Hence their saying,
 "Ukuhambisa kwonwaba," To go like a chameleon, i. e., to go slowly. They
 say also *ukunwabuzela*.
 
- <span id="page_3_note_9"></span>[9](#page_3_fr_9) *Ubukwebezane*.—A
+ <span id="page_3_note_9"></span>[9](#page_3_fr_9.md) *Ubukwebezane*.—A
 shrub which bears clusters of berries of a purplish colour and sweet
 taste. This fruit is much liked by children.
 
- <span id="page_3_note_10"></span>[10](#page_3_fr_10) *Intulo* =
+ <span id="page_3_note_10"></span>[10](#page_3_fr_10.md) *Intulo* =
 *intulwa*, the Amalala *inulwa*. The tradition lives among the natives
 to the present time, and is manifested by the dislike they entertain for
 the chameleon. It is frequently killed. But it is used as a medicine;
@@ -2093,7 +2093,7 @@ in the beginning to say that men should die.
 
 <span id="footnotes_page_4">p. 4</span>
 
- <span id="page_4_note_11"></span>[11](#page_4_fr_11) This tradition of
+ <span id="page_4_note_11"></span>[11](#page_4_fr_11.md) This tradition of
 the origin of death has a strong resemblance to the Hottentot account.
 But there it is the Moon—a Hottentot god, according to Kolb, (*The
 Present State of the Cape of Good Hope*, (*Medley*,) *Volume I., page*
@@ -2151,26 +2151,26 @@ goddess of death, had Maui passed safely through her, then no more human
 beings would have died, but death itself would have been destroyed.
 (*Grey. Polynesian Mythology, p.* 16-58.)
 
- {See also the [additional note](rsa02.htm#note_11).}
+ {See also the [additional note](rsa02.htm#note_11.md).}
 
- <span id="page_5_note_12"></span>[12](#page_5_fr_12) *Itongo*, p.
+ <span id="page_5_note_12"></span>[12](#page_5_fr_12.md) *Itongo*, p.
 *Amatongo*.—An *itongo* is properly the spirit of the dead,—a
 disembodied spirit. The notion that it is in the form of a snake, or
 becomes converted into a snake, is probably something superadded to the
 original tradition. But all these questions will be discussed when we
 come to the "A<span class="small">MATONGO</span>."
 
- <span id="page_5_note_13"></span>[13](#page_5_fr_13) *Ukwelapa itongo*,
+ <span id="page_5_note_13"></span>[13](#page_5_fr_13.md) *Ukwelapa itongo*,
 lit., to treat an itongo, that is, diseases which are occasioned by the
 itongo, as *uthlabo*, which appears from the description to be
 pleurodynia; one case I was called to see was pleurisy.
 
 <span id="footnotes_page_7">p. 7</span>
 
- <span id="page_7_note_15"></span>[15](#page_7_fr_15) *Umvelinqangi*,
+ <span id="page_7_note_15"></span>[15](#page_7_fr_15.md) *Umvelinqangi*,
 the first out-comer.
 
- <span id="page_7_note_16"></span>[16](#page_7_fr_16) Let the reader
+ <span id="page_7_note_16"></span>[16](#page_7_fr_16.md) Let the reader
 note that here three names are applied to the first man, Unkulunkulu,
 Umvelinqangi, and Uthlanga. *Unkulunkulu* expresses antiquity, age,
 lit., the old-old one, as we use great in great-great-grandfather.
@@ -2183,7 +2183,7 @@ previously existing uthlanga or source of being, the nature of which is
 quite beyond the native philosophy; and having come out, he became the
 uthlanga or source of being of entire humanity.
 
- <span id="page_7_note_17"></span>[17](#page_7_fr_17) *U kona*, is. We
+ <span id="page_7_note_17"></span>[17](#page_7_fr_17.md) *U kona*, is. We
 must not, however, understand this as a declaration of the ancients that
 Unkulunkulu has a present existence. But they mean to say, "Unkulunkulu
 was a *reality*; that which we say of him is not a fable, but a fact.
@@ -2195,37 +2195,37 @@ ezwa ngokutshiwo ukuti Unkulunkulu wa be kona," They heard it said that
 Unkulunkulu was, or used to be; the tense necessarily implying that he
 exists no longer.
 
- <span id="page_7_note_18"></span>[18](#page_7_fr_18) *Abadala bendulo*,
+ <span id="page_7_note_18"></span>[18](#page_7_fr_18.md) *Abadala bendulo*,
 the ancients of long ago,—not merely ancients, but the ancients of
 primitive times; those who formed the first races of mankind.
 
- <span id="page_7_note_19"></span>[19](#page_7_fr_19) The natives
+ <span id="page_7_note_19"></span>[19](#page_7_fr_19.md) The natives
 profess to be unable to give any account of the origin of things; but
 refer to a period when the ancients understood the history of creation.
 
 <span id="footnotes_page_8">p. 8</span>
 
- <span id="page_8_note_20"></span>[20](#page_8_fr_20) A large, green,
+ <span id="page_8_note_20"></span>[20](#page_8_fr_20.md) A large, green,
 harmless snake, which for the most part is observed in trees. It
 frequently enters the native huts.
 
 <span id="footnotes_page_9">p. 9</span>
 
- <span id="page_9_note_21"></span>[21](#page_9_fr_21) This account was
+ <span id="page_9_note_21"></span>[21](#page_9_fr_21.md) This account was
 given by a refugee recently arrived from Zululand, whose name I do not
 know.
 
- <span id="page_9_note_22"></span>[22](#page_9_fr_22) *Umhlanga* is a
+ <span id="page_9_note_22"></span>[22](#page_9_fr_22.md) *Umhlanga* is a
 bed of reeds. We must not confound *umhlanga* with *uhlanga*. *Umhlanga*
 is the place where they broke off—or out-came—from *Uhlanga*.
 
- <span id="page_9_note_23"></span>[23](#page_9_fr_23) *Vela*, had our
+ <span id="page_9_note_23"></span>[23](#page_9_fr_23.md) *Vela*, had our
 origin,—*out-came*, equivalent to "were created." It does not mean
 merely appearing.
 
 <span id="footnotes_page_10">p. 10</span>
 
- <span id="page_10_note_24"></span>[24](#page_10_fr_24) *Umoya*, spirit.
+ <span id="page_10_note_24"></span>[24](#page_10_fr_24.md) *Umoya*, spirit.
 The native who related this tale, though not a Christian, had lived with
 whitemen from his childhood, and for some years with a missionary. The
 untaught native would not use *umoya* (wind, air) in the sense of
@@ -2235,13 +2235,13 @@ idhlozi, isituta (ghost), or isitunzi (shade), of any power animating
 the body, but only of something,—a new or distinct existence,—which
 comes out of the body when dead.
 
- <span id="page_10_note_25"></span>[25](#page_10_fr_25) Many
+ <span id="page_10_note_25"></span>[25](#page_10_fr_25.md) Many
 misunderstandings of native traditions have arisen from the enquiry,
 "Unkulunkulu ubani na?" meaning who or what is Unkulunkulu. It really
 means, "What is his *name*?" The native cannot tell you his *name*,
 except it be Umvelinqangi.
 
- <span id="page_10_note_26"></span>[26](#page_10_fr_26) *Bonga*,
+ <span id="page_10_note_26"></span>[26](#page_10_fr_26.md) *Bonga*,
 worship. It is necessary to give *bonga* this full meaning here, and not
 to restrict it to the offices of praising or thanking. It is equivalent
 to *pata*, which is used for all and every kind of adoration and
@@ -2249,12 +2249,12 @@ worship.
 
 <span id="footnotes_page_11">p. 11</span>
 
- <span id="page_11_note_27"></span>[27](#page_11_fr_27) The fat of the
+ <span id="page_11_note_27"></span>[27](#page_11_fr_27.md) The fat of the
 cawl or omentum is used with incense.
 
 <span id="footnotes_page_12">p. 12</span>
 
- <span id="page_12_note_28"></span>[28](#page_12_fr_28) *Abapansi*, i.
+ <span id="page_12_note_28"></span>[28](#page_12_fr_28.md) *Abapansi*, i.
 e., the Amatongo, they who are beneath. Some <span
 id="footnotes_page_13">p. 13</span> natives say, so called, because they
 have been *buried beneath the earth*. But we cannot avoid believing that
@@ -2264,19 +2264,19 @@ translation of *abapansi*, and as we proceed we shall find that similar
 characteristics and actions are ascribed to the Amatongo as to the
 Subterraneans in the mythology of other people.
 
- <span id="page_13_note_29"></span>[29](#page_13_fr_29) *Abantu
+ <span id="page_13_note_29"></span>[29](#page_13_fr_29.md) *Abantu
 bansondo*, or it is sometimes said, *bakansondo*.
 
 <span id="footnotes_page_14">p. 14</span>
 
- <span id="page_14_note_30"></span>[30](#page_14_fr_30) *Uthlanga* is
+ <span id="page_14_note_30"></span>[30](#page_14_fr_30.md) *Uthlanga* is
 also used to express beauty. "Si tshele ni uhlanga oluhle lapa
 lwentombi," Tell us which is the prettiest girl here. They also say,
 "Inkosi yohlanga," that is, a chief who refers his descent to Uthlanga,
 that is, to him whom they regard as the creator or source of all things.
 We may compare this with διογενης βασιλευς of Homer.
 
- <span id="page_14_note_31"></span>[31](#page_14_fr_31) By this we are
+ <span id="page_14_note_31"></span>[31](#page_14_fr_31.md) By this we are
 to understand that at his death Unsondo uttered a prophecy of the future
 of his children, telling them by what kind of conduct, good and bad,
 they would be characterised. Thus it is said not only of a good man, "Wa
@@ -2286,27 +2286,27 @@ wansondo!" O! how wicked he is! a man of Unsondo! to express utter
 wickedness. We may compare this with the Hebrew idiom, which without
 being identical is remarkably similar; that of designating any thing of
 surpassing excellence as God's, e.g. "A very great trembling," lit., a
-trembling of God ([1 Sam. xiv. 15](../../bib/kjv/sa1.htm#14:15)); and in
-[Gen. xxxv. 5](../../bib/kjv/gen.htm#35:5), "The terror of God (that is,
+trembling of God ([1 Sam. xiv. 15](../../bib/kjv/sa1.htm#14:15).md); and in
+[Gen. xxxv. 5](../../bib/kjv/gen.htm#35:5.md), "The terror of God (that is,
 an exceeding great terror) was upon the cities." (*See Gesenius*.)
 
 <span id="footnotes_page_16">p. 16</span>
 
- <span id="page_16_note_32"></span>[32](#page_16_fr_32) This portion I
+ <span id="page_16_note_32"></span>[32](#page_16_fr_32.md) This portion I
 wrote at his dictation in my study; the rest from memory.
 
- <span id="page_16_note_33"></span>[33](#page_16_fr_33) The native thus
+ <span id="page_16_note_33"></span>[33](#page_16_fr_33.md) The native thus
 begins his statement because I had previously read to him what other
 natives had said on the subject.
 
- <span id="page_16_note_34"></span>[34](#page_16_fr_34) He means by this
+ <span id="page_16_note_34"></span>[34](#page_16_fr_34.md) He means by this
 that he had heard that Unkulunkulu was the first that existed, and that
 existing he made others. But we shall see by and bye that this man is
 mistaken. Unkulunkulu is supposed to have a wife.
 
 <span id="footnotes_page_17">p. 17</span>
 
- <span id="page_17_note_35"></span>[35](#page_17_fr_35) A mistake has no
+ <span id="page_17_note_35"></span>[35](#page_17_fr_35.md) A mistake has no
 doubt often arisen on the question of whether Unkulunkulu is worshipped
 by the natives or not, from the failure to recognise the fact that there
 are many Onkulunkulu; and the statements of natives have been wrongly
@@ -2316,19 +2316,19 @@ worship, therefore, of him according to native worship is no longer
 possible. But the Onkulunkulu of tribes and houses, whose *izibongo* are
 still known, are worshipped, each by his respective descendents.
 
- <span id="page_17_note_36"></span>[36](#page_17_fr_36) He means by this
+ <span id="page_17_note_36"></span>[36](#page_17_fr_36.md) He means by this
 that he is not sure whether in the beginning they worshipped him or not;
 but they no longer worship him, but the Amatongo, and thank the Amatongo
 for the things which they believe were created by Unkulunkulu.
 
 <span id="footnotes_page_18">p. 18</span>
 
- <span id="page_18_note_37"></span>[37](#page_18_fr_37) This implies
+ <span id="page_18_note_37"></span>[37](#page_18_fr_37.md) This implies
 that he had a son; but the *isibongo* or praise-giving name of
 Unkulunkulu is lost; by the process of time and many wanderings, other
 names have been taken up, each house having its own *isibongo*.
 
- <span id="page_18_note_38"></span>[38](#page_18_fr_38) He here uses a
+ <span id="page_18_note_38"></span>[38](#page_18_fr_38.md) He here uses a
 metaphor comparing men, or their houses, to the grains on an ear of
 maize; Unkulunkulu is the stalk, which having done its work dies; the
 seeds are the men, who sprang from him and became centres of families,
@@ -2346,11 +2346,11 @@ by and bye.
 
 <span id="footnotes_page_19">p. 19</span>
 
- <span id="page_19_note_39"></span>[39](#page_19_fr_39) *Inkosi* may be
+ <span id="page_19_note_39"></span>[39](#page_19_fr_39.md) *Inkosi* may be
 translated king, lord, chief, &c. And we may either say, the king, lord,
 chief, &c., which is above,—or the king of heaven,—or the heavenly king.
 
- <span id="page_19_note_40"></span>[40](#page_19_fr_40) Is playing, or
+ <span id="page_19_note_40"></span>[40](#page_19_fr_40.md) Is playing, or
 sporting, not angry. He is enjoying himself, as their chiefs do on great
 festivals, when it is said, "Inkosi i dhlala umkosi," The chief is
 playing a festival.
@@ -2362,38 +2362,38 @@ Camaroons,) 'when it thunders they say the Deity—with reverence be it
 spoken—is diverting himself with his wives.'" (*Burton. A Mission to the
 King of Dahome. Vol. II.*, p. 142.)
 
- <span id="page_19_note_41"></span>[41](#page_19_fr_41) That is, by
+ <span id="page_19_note_41"></span>[41](#page_19_fr_41.md) That is, by
 lightning.
 
 <span id="footnotes_page_20">p. 20</span>
 
- <span id="page_20_note_42"></span>[42](#page_20_fr_42) That is, we live
+ <span id="page_20_note_42"></span>[42](#page_20_fr_42.md) That is, we live
 in accordance with the laws and conditions of our nature.
 
- <span id="page_20_note_43"></span>[43](#page_20_fr_43) This implies
+ <span id="page_20_note_43"></span>[43](#page_20_fr_43.md) This implies
 that there might have been once other words which are now lost.
 
 <span id="footnotes_page_21">p. 21</span>
 
- <span id="page_21_note_44"></span>[44](#page_21_fr_44) He means to say,
+ <span id="page_21_note_44"></span>[44](#page_21_fr_44.md) He means to say,
 It would not be right because you have told us what we did not before
 know about a heavenly Lord, that we should claim to have known more than
 we really did before you came. We knew nothing about him, but that he
 dwelt above, and presided over the thunder.
 
- <span id="page_21_note_45"></span>[45](#page_21_fr_45) This is the
+ <span id="page_21_note_45"></span>[45](#page_21_fr_45.md) This is the
 exact meaning of *wa ba*. He came to be, that is, came into being.
 
 <span id="footnotes_page_22">p. 22</span>
 
- <span id="page_22_note_46"></span>[46](#page_22_fr_46) It is altogether
+ <span id="page_22_note_46"></span>[46](#page_22_fr_46.md) It is altogether
 blunt. The natives not only use our saying that a thing is without
 point, but also the opposite, it is blunt,—that is, it does not enter
 into the underatanding; it is unintelligible.
 
 <span id="footnotes_page_23">p. 23</span>
 
- <span id="page_23_note_47"></span>[47](#page_23_fr_47) This is a most
+ <span id="page_23_note_47"></span>[47](#page_23_fr_47.md) This is a most
 difficult piece of Zulu, which has been necessarily translated with
 great freedom; a literal translation would be wholly unintelligible to
 the English reader. I have produced the above translation under the
@@ -2406,52 +2406,52 @@ present state of things and the primitive gift of the creator.
 
 <span id="footnotes_page_24">p. 24</span>
 
- <span id="page_24_note_48"></span>[48](#page_24_fr_48) That is, we are
+ <span id="page_24_note_48"></span>[48](#page_24_fr_48.md) That is, we are
 not acquainted with any laws which he left us for the regulation of our
 lives.
 
- <span id="page_24_note_49"></span>[49](#page_24_fr_49) That is, we do
+ <span id="page_24_note_49"></span>[49](#page_24_fr_49.md) That is, we do
 not trouble ourselves to ask what he willed or what was his purpose in
 creating us, but simply do just what pleases us, and make our own wills
 the measure and determiner of our actions.
 
- <span id="page_24_note_50"></span>[50](#page_24_fr_50) Lit., abundance
+ <span id="page_24_note_50"></span>[50](#page_24_fr_50.md) Lit., abundance
 of food.
 
 <span id="footnotes_page_25">p. 25</span>
 
- <span id="page_25_note_51"></span>[51](#page_25_fr_51) This is said
+ <span id="page_25_note_51"></span>[51](#page_25_fr_51.md) This is said
 ironically in contradiction of statements which are sometimes made that
 Unkulunkulu is an object of worship.
 
- <span id="page_25_note_52"></span>[52](#page_25_fr_52) All this is
+ <span id="page_25_note_52"></span>[52](#page_25_fr_52.md) All this is
 intended to show that the name of Unkulunkulu is only used as an excuse
 for evil, and never as an incentive to do good.
 
 <span id="footnotes_page_28">p. 28</span>
 
- <span id="page_28_note_53"></span>[53](#page_28_fr_53) Such as a dog
+ <span id="page_28_note_53"></span>[53](#page_28_fr_53.md) Such as a dog
 mounting on a hut, or a snake coming and taking up its abode in it. We
 shall hereafter give an account of their "O<span
 class="small">MENS</span>."
 
- <span id="page_28_note_54"></span>[54](#page_28_fr_54) They suppose the
+ <span id="page_28_note_54"></span>[54](#page_28_fr_54.md) They suppose the
 omen is sent to warn them of something respecting the dead, either that
 he has been killed by witchcraft, or that he has sent it to comfort them
 by the assurance of his continued regard for them, he being one of the
 spirits.
 
- <span id="page_28_note_55"></span>[55](#page_28_fr_55) Yesterday they
+ <span id="page_28_note_55"></span>[55](#page_28_fr_55.md) Yesterday they
 saw death only and the loss of their friend; now an omen makes them
 believe in his continued existence, and that he has united with other
 spirits to be the rampart of his people.
 
 <span id="footnotes_page_30">p. 30</span>
 
- <span id="page_30_note_56"></span>[56](#page_30_fr_56) That is, by
+ <span id="page_30_note_56"></span>[56](#page_30_fr_56.md) That is, by
 sacrificing to the Amadhlozi, and by paying the diviners and doctors.
 
- <span id="page_30_note_57"></span>[57](#page_30_fr_57) Even those who
+ <span id="page_30_note_57"></span>[57](#page_30_fr_57.md) Even those who
 really believe in the Amadhlozi, irreverently deny their existence in
 time of trouble. Compare with this the following extract from the French
 ballad, Lénore:—
@@ -2463,22 +2463,22 @@ ballad, Lénore:—
   A quoi sert de prier? les prières sont vaines,  
   Et ne montent pas jusqu'à lui."
 
- <span id="page_30_note_58"></span>[58](#page_30_fr_58) Lit., You
+ <span id="page_30_note_58"></span>[58](#page_30_fr_58.md) Lit., You
 perhaps open an old sore; as we say, We have opened his satirical vein,
 &c.,—that is, have set off on a subject on which they are fond of
 speaking.
 
 <span id="footnotes_page_31">p. 31</span>
 
- <span id="page_31_note_59"></span>[59](#page_31_fr_59) The reader
+ <span id="page_31_note_59"></span>[59](#page_31_fr_59.md) The reader
 should note that this is an account derived from an educated,
 intelligent, Christian native.
 
- <span id="page_31_note_60"></span>[60](#page_31_fr_60) Came into
+ <span id="page_31_note_60"></span>[60](#page_31_fr_60.md) Came into
 being,—sprang up,—appeared,—had an origin; with a slight shade of
 difference in meaning *vela* is used in the same way as *dabula*.
 
- <span id="page_31_note_61"></span>[61](#page_31_fr_61) Here my MS. says
+ <span id="page_31_note_61"></span>[61](#page_31_fr_61.md) Here my MS. says
 *dabula*, which makes Umthlanga the active agent in the origin of
 Unkulunkulu, just as Uthlanga is constantly represented in other forms
 of the tradition. But the native teacher thinks it a mistake for
@@ -2486,27 +2486,27 @@ of the tradition. But the native teacher thinks it a mistake for
 
 <span id="footnotes_page_32">p. 32</span>
 
- <span id="page_32_note_62"></span>[62](#page_32_fr_62) I have hitherto
+ <span id="page_32_note_62"></span>[62](#page_32_fr_62.md) I have hitherto
 given the several forms of the tradition in the order of time in which
 they were written, with the exception of the account given by the young
-Ibakca, [p. 15](#page_15). This (1860) was the first intimation I
+Ibakca, [p. 15](#page_15). This (1860.md) was the first intimation I
 received that there are many Onkulunkulu, that each house has its own,
 and is an object of worship, his name being the chief *isibongo* or
 surname, by which the Spirits or Amatongo of his family are addressed.
 
 <span id="footnotes_page_33">p. 33</span>
 
- <span id="page_33_note_63"></span>[63](#page_33_fr_63) Matshange! that
+ <span id="page_33_note_63"></span>[63](#page_33_fr_63.md) Matshange! that
 is, a plural of Utshange, meaning all his people.
 
- <span id="page_33_note_64"></span>[64](#page_33_fr_64) The prayer is
+ <span id="page_33_note_64"></span>[64](#page_33_fr_64.md) The prayer is
 either in this simple form of adoration, the suppliant taking it for
 granted that the Amatongo will know what he wants; or the thing he wants
 is also mentioned, as "Ye people of our house! cattle."
 
 <span id="footnotes_page_34">p. 34</span>
 
- <span id="page_34_note_65"></span>[65](#page_34_fr_65) We are not to
+ <span id="page_34_note_65"></span>[65](#page_34_fr_65.md) We are not to
 understand this as a tradition of the origin of men. It is a saying
 among the natives when they see an exquisitely handsome man, or when
 they wish to flatter a chief, to say, "Ka zalwanga; wa bohlwa inkomo
@@ -2514,54 +2514,54 @@ nje," He was not born; he was belched up by a cow; that is, he did not
 go through the ordinary and tedious and painful process of being born,
 but came into being already a perfected man.
 
- <span id="page_34_note_66"></span>[66](#page_34_fr_66) Compare this
+ <span id="page_34_note_66"></span>[66](#page_34_fr_66.md) Compare this
 with the Jewish simile, "Look unto the rock whence ye were hewn," that
 is, to Abraham, their father. ([Isaiah li.
-1](../../bib/kjv/isa.htm#51:1), 2.) Here again we have the notion of
+1](../../bib/kjv/isa.htm#51:1), 2..md) Here again we have the notion of
 Unkulunkulu being the *means of helping the human race into being*.
 
 <span id="footnotes_page_35">p. 35</span>
 
- <span id="page_35_note_67"></span>[67](#page_35_fr_67) A common mode of
+ <span id="page_35_note_67"></span>[67](#page_35_fr_67.md) A common mode of
 commencing a narrative.
 
- <span id="page_35_note_68"></span>[68](#page_35_fr_68) He here speaks
+ <span id="page_35_note_68"></span>[68](#page_35_fr_68.md) He here speaks
 of the two women as being *one unkulunkulu* of primitive men. So in
 conversation with another heathen native, he spoke of the first man and
 first woman, together, as *one unkulunkulu*.
 
 <span id="footnotes_page_37">p. 37</span>
 
- <span id="page_37_note_70"></span>[70](#page_37_fr_70) Lower-gate-man.
+ <span id="page_37_note_70"></span>[70](#page_37_fr_70.md) Lower-gate-man.
 
- <span id="page_37_note_71"></span>[71](#page_37_fr_71) This shows that
+ <span id="page_37_note_71"></span>[71](#page_37_fr_71.md) This shows that
 the natives believe in a succession of emigrations from below of
 different tribes of men, each having its own Unkulunkulu.
 
 <span id="footnotes_page_38">p. 38</span>
 
- <span id="page_38_note_72"></span>[72](#page_38_fr_72) That is, his
+ <span id="page_38_note_72"></span>[72](#page_38_fr_72.md) That is, his
 name.
 
- <span id="page_38_note_73"></span>[73](#page_38_fr_73) Compare this
+ <span id="page_38_note_73"></span>[73](#page_38_fr_73.md) Compare this
 with the fabulous monster Ugungqu-kubantwana (*Nursery Tales, p.* 176),
 or Usilosimapundu (*Id., p.* 185).
 
 <span id="footnotes_page_39">p. 39</span>
 
- <span id="page_39_note_74"></span>[74](#page_39_fr_74) That is,
+ <span id="page_39_note_74"></span>[74](#page_39_fr_74.md) That is,
 He-who-came-from-the-other-side-of-the-rock.
 
 <span id="footnotes_page_40">p. 40</span>
 
- <span id="page_40_note_75"></span>[75](#page_40_fr_75) This is the
+ <span id="page_40_note_75"></span>[75](#page_40_fr_75.md) This is the
 nearest rendering we can give to *veziwe*; it is equivalent to
 *created*. It is passive, and necessarily implies an agent by which he
 had an origin given to him. No native would hear such a phrase as "Naye
 e veziwe," He too having had an origin given him, without putting the
 question, By whom?
 
- <span id="page_40_note_76"></span>[76](#page_40_fr_76) Unkulunkulu was
+ <span id="page_40_note_76"></span>[76](#page_40_fr_76.md) Unkulunkulu was
 an unbegotten though a created man. He was the first man; by this
 statement he is to be understood as deprecating the ascription to
 himself of something higher and more exalted. He is, as it were, telling
@@ -2569,29 +2569,29 @@ his children the history of creation as he had witnessed it. They appear
 to be desirous of making him the creator; but he replies, "No; I too
 sprang from the bed of reeds."
 
- <span id="page_40_note_77"></span>[77](#page_40_fr_77) This is very
+ <span id="page_40_note_77"></span>[77](#page_40_fr_77.md) This is very
 precise. The first man and woman sprang, the man first and then the
 woman, from the bed of reeds; and both are called by one name,
 Unkulunkulu; that is, Great-great-grandparent. According to Moses, the
 male and female were both called Adam. ([Gen. v.
-3](../../bib/kjv/gen.htm#5:3).)
+3](../../bib/kjv/gen.htm#5:3)..md)
 
 <span id="footnotes_page_41">p. 41</span>
 
- <span id="page_41_note_78"></span>[78](#page_41_fr_78) He is called "he
+ <span id="page_41_note_78"></span>[78](#page_41_fr_78.md) He is called "he
 who sprang up at first" to distinguish him from the many other
 Onkulunkulu who in the progress of generation sprang up after him.
 
- <span id="page_41_note_79"></span>[79](#page_41_fr_79) Lit., worked
+ <span id="page_41_note_79"></span>[79](#page_41_fr_79.md) Lit., worked
 into form as a potter works clay.
 
- <span id="page_41_note_80"></span>[80](#page_41_fr_80) The simile here
+ <span id="page_41_note_80"></span>[80](#page_41_fr_80.md) The simile here
 is that men were existing as young bulbs ready to separate from the
 parent bulb.
 
 <span id="footnotes_page_42">p. 42</span>
 
- <span id="page_42_note_82"></span>[82](#page_42_fr_82) The account here
+ <span id="page_42_note_82"></span>[82](#page_42_fr_82.md) The account here
 given of Uthlanga is peculiar. The native who gave it, clearly
 understood by it a reed. Yet one cannot avoid believing that he did not
 understand the import of the tradition. It is said that Umvelinqangi
@@ -2665,20 +2665,20 @@ Finxit in effigiem moderantum cuncta deorum."<br />
 
 <span id="footnotes_page_44">p. 44</span>
 
- <span id="page_44_note_83"></span>[83](#page_44_fr_83) *It being in the
+ <span id="page_44_note_83"></span>[83](#page_44_fr_83.md) *It being in the
 water*.—That is, according to the notion of the narrator, the reed which
 Umvelinqangi made and by which he begat the first parents of the human
 race, was in the water. It is probably only another way of saying men
 sprang from a bed of reeds. But some forms of the tradition represent
 tribes at least, if not the human race, as being born in or derived from
-the water. See [p. 36](#page_36).
+the water. See [p. 36](#page_36.md).
 
 <span id="footnotes_page_45">p. 45</span>
 
- <span id="page_45_note_84"></span>[84](#page_45_fr_84) It is worth
+ <span id="page_45_note_84"></span>[84](#page_45_fr_84.md) It is worth
 notice that the female of animals is represented as preceding the male.
 
- <span id="page_45_note_85"></span>[85](#page_45_fr_85) *Ndini*, here
+ <span id="page_45_note_85"></span>[85](#page_45_fr_85.md) *Ndini*, here
 translated *true*, is a word rarely met with; it is used as an appendage
 to a vocative; it ascribes reality or speciality to the name to which it
 is appended. "Mfazi ndini," Thou who art my wife indeed,—*very* wife.
@@ -2688,15 +2688,15 @@ probably by absolute refusal to marry.
 
 <span id="footnotes_page_46">p. 46</span>
 
- <span id="page_46_note_86"></span>[86](#page_46_fr_86) Viz., for
+ <span id="page_46_note_86"></span>[86](#page_46_fr_86.md) Viz., for
 grinding.
 
- <span id="page_46_note_87"></span>[87](#page_46_fr_87) Viz., that all
+ <span id="page_46_note_87"></span>[87](#page_46_fr_87.md) Viz., that all
 were not to be domestic animals.
 
 <span id="footnotes_page_47">p. 47</span>
 
- <span id="page_47_note_88"></span>[88](#page_47_fr_88) This makes it
+ <span id="page_47_note_88"></span>[88](#page_47_fr_88.md) This makes it
 perfectly clear what the natives understand by Unkulunkulu coming out of
 the earth. The earth is the mother of Unkulunkulu, the first man, as of
 every other creature. Compare Milton:—
@@ -2717,7 +2717,7 @@ Limbed and full grown."</td>
 
  Compare also *Ovid. Met.*, <span class="small">B</span>. I., l.
 416-421.—This, too, corresponds with the Scripture account of Creation;
-[Gen. i. 20](../../bib/kjv/gen.htm#1:20), 24. It is also philosophically
+[Gen. i. 20](../../bib/kjv/gen.htm#1:20.md), 24. It is also philosophically
 correct to refer the origin of things secondarily to the earth. The
 material organisms of all living things consist of elements derived from
 the earth. The poetic imagination, to which time and space impose no
@@ -2725,14 +2725,14 @@ limits, represents as occurring at a point in time what, it may be, took
 myriads of years for its production in accordance with laws imposed on
 the Universe by the fiat of the Creator.
 
- <span id="page_47_note_89"></span>[89](#page_47_fr_89) Lwenkomo, i. e.,
+ <span id="page_47_note_89"></span>[89](#page_47_fr_89.md) Lwenkomo, i. e.,
 uthlanga. This is worth noting, the uthlanga of cattle,—that is, either
 the reed—primal source—from which they came; or it may mean, the first
 pair from which all others sprang.
 
 <span id="footnotes_page_48">p. 48</span>
 
- <span id="page_48_note_90"></span>[90](#page_48_fr_90) As the question
+ <span id="page_48_note_90"></span>[90](#page_48_fr_90.md) As the question
 has been raised whether the natives do not call the First Man, or Being,
 Unkulunkulu, and an Ancestor Ukulukulu, in order to prevent all
 misunderstanding I asked him if he was not speaking of Ukulukulu. He
@@ -2768,11 +2768,11 @@ The order is as follows:—
 
  Ukoko is a general term for Ancestor who preceded the grandfathers. And
 Unkulunkulu is a general term for Ancient Men, who "were first" among
-tribes, families, or kings. See [Appendix](rsa02.htm#note_90).
+tribes, families, or kings. See [Appendix](rsa02.htm#note_90.md).
 
 <span id="footnotes_page_49">p. 49</span>
 
- <span id="page_49_note_91"></span>[91](#page_49_fr_91) Let us note this
+ <span id="page_49_note_91"></span>[91](#page_49_fr_91.md) Let us note this
 plural of Umvelinqangi; and that the Omvelinqangi are the fathers of the
 generation preceding that of the Onkulunkulu; that is, they are the
 fathers of the Onkulunkulu; that is, the great-great-great-grandfathers.
@@ -2786,7 +2786,7 @@ Omvelinqangi in the plural, and used the word as strictly synonymous
 with Unkulunkulu, and, like that word, applicable not only to the first
 man, but to the founder of families, dynasties, tribes, &c.
 
- <span id="page_49_note_92"></span>[92](#page_49_fr_92) The origin of
+ <span id="page_49_note_92"></span>[92](#page_49_fr_92.md) The origin of
 Undaba is thus given by Uncinjana, an Ibele:—
 
 >  Undaba sprang from Upunga, and was the father of Usenzangakona.
@@ -2801,23 +2801,23 @@ what they meant by the *ukudabuka* of men from Unkulunkulu, they
 replied, "Ba dabuka esiswini sake," They broke off from her bowels; that
 is, of the first female Unkulunkulu.
 
- <span id="page_49_note_93"></span>[93](#page_49_fr_93) Or, from
+ <span id="page_49_note_93"></span>[93](#page_49_fr_93.md) Or, from
 Uthlanga.
 
- <span id="page_49_note_94"></span>[94](#page_49_fr_94) In this
+ <span id="page_49_note_94"></span>[94](#page_49_fr_94.md) In this
 remarkable sentence the origin of things is ascribed to the joint word
 of the man and woman.
 
 <span id="footnotes_page_50">p. 50</span>
 
- <span id="page_50_note_95"></span>[95](#page_50_fr_95) This and two or
+ <span id="page_50_note_95"></span>[95](#page_50_fr_95.md) This and two or
 three other statements are the only instances I have met with of the
 word Umdabuko for the source of creation, but its meaning is evident. It
 is equivalent to Umdayi of the Amakqwabe, the Umdali of the Amakxosa,
 and the Umenzi of the Amazulu.
 
  *Umdabuko*, however, is derived from *ukudabuka*, to be broken off (see
-[Note 3, page 1](#page_1_note_3)), and therefore has a passive
+[Note 3, page 1](#page_1_note_3).md), and therefore has a passive
 signification, and thus differs from Umenzi and Umdali, which are
 active. It more resembles Uthlanga, and though in some places apparently
 used for an active creator, would mean rather a passive, though
@@ -2855,42 +2855,42 @@ the animals appeared first. Another tradition, more generally received
 among the Basutos, is, that man sprang up in a marshy place, where reeds
 were growing." (*The Basutos. Casalis, p.* 240.)
 
- <span id="page_51_note_96"></span>[96](#page_51_fr_96) That is, at a
+ <span id="page_51_note_96"></span>[96](#page_51_fr_96.md) That is, at a
 certain period the tribe divided into three, each having its own
 Unkulunkulu. So Umahhaule, who has formed a small tribe, says, in a few
 years he shall be an Unkulunkulu.
 
- <span id="page_51_note_97"></span>[97](#page_51_fr_97) That is, the
+ <span id="page_51_note_97"></span>[97](#page_51_fr_97.md) That is, the
 Onkulunkulu whose names he has given not only belonged to the Amangwane,
 but to the family of Umatiwana.
 
- <span id="page_51_note_98"></span>[98](#page_51_fr_98) Umdabuko,
-Creator. See above, [Note 94](#page_49_note_94).
+ <span id="page_51_note_98"></span>[98](#page_51_fr_98.md) Umdabuko,
+Creator. See above, [Note 94](#page_49_note_94.md).
 
 <span id="footnotes_page_52">p. 52</span>
 
- <span id="page_52_note_99"></span>[99](#page_52_fr_99) Lit., The corn
+ <span id="page_52_note_99"></span>[99](#page_52_fr_99.md) Lit., The corn
 went home and was cultivated; that is, became a cultivated article of
 food.
 
 <span id="footnotes_page_53">p. 53</span>
 
- <span id="page_53_note_100"></span>[100](#page_53_fr_100) By this is
+ <span id="page_53_note_100"></span>[100](#page_53_fr_100.md) By this is
 meant, that they denied the existence of a Creator whom they could not
 see; and declared their belief that their kings, whom they could see,
 were the Creators of all things. Just as at the end this old woman
 declares that the whitemen made all things.
 
- <span id="page_53_note_1"></span>[1](#page_53_fr_1) *Inkosi* may be
+ <span id="page_53_note_1"></span>[1](#page_53_fr_1.md) *Inkosi* may be
 rendered chief, king, lord. We can therefore say either Chief of
 Chiefs,—or King of Kings,—or Lord of Lords.
 
- <span id="page_53_note_2"></span>[2](#page_53_fr_2) That is, the
+ <span id="page_53_note_2"></span>[2](#page_53_fr_2.md) That is, the
 lightning had struck.
 
 <span id="footnotes_page_54">p. 54</span>
 
- <span id="page_54_note_3"></span>[3](#page_54_fr_3) This is a very
+ <span id="page_54_note_3"></span>[3](#page_54_fr_3.md) This is a very
 common occurrence. Very old Amazulu, when asked about Unkulunkulu, are
 apt to speak, not of the first Unkulunkulu, but the onkulunkulu of their
 tribes.
@@ -2965,7 +2965,7 @@ any warlike or hunting expedition, and it is to the humour of this
 capricious spirit that every degree of failure or success is ascribed."
 (*Id., p*. 314.)
 
- <span id="page_55_note_4"></span>[4](#page_55_fr_4) That is, she
+ <span id="page_55_note_4"></span>[4](#page_55_fr_4.md) That is, she
 assents to the statement that Unkulunkulu sprang from the earth. But
 asserts also that he is the heavenly Lord, of whom she has been
 speaking.
@@ -2998,19 +2998,19 @@ living or the dead are celebrated:—
 > begat Ujama; he begat Usenzangakona; he begat Utshaka. And as regards
 > Umageba, there is his unkulunkulu where we know not.
 
- <span id="page_56_note_5"></span>[5](#page_56_fr_5) The chief, that is,
+ <span id="page_56_note_5"></span>[5](#page_56_fr_5.md) The chief, that is,
 myself. A respectful mode of addressing the enquirer, as though the
 answer was being given to a third person.
 
- <span id="page_56_note_6"></span>[6](#page_56_fr_6) *Indoda*, that is,
+ <span id="page_56_note_6"></span>[6](#page_56_fr_6.md) *Indoda*, that is,
 a male.
 
- <span id="page_56_note_7"></span>[7](#page_56_fr_7) That they may not
+ <span id="page_56_note_7"></span>[7](#page_56_fr_7.md) That they may not
 be injured by the hail.
 
 <span id="footnotes_page_57">p. 57</span>
 
- <span id="page_57_note_8"></span>[8](#page_57_fr_8) *A ku zalwane*.
+ <span id="page_57_note_8"></span>[8](#page_57_fr_8.md) *A ku zalwane*.
 Lit., Let children be begotten or born one with another. An allusion to
 a supposed period in which if blood relations did not marry there could
 be no marriage. The meaning really is,—Let brothers and sisters marry,
@@ -3020,7 +3020,7 @@ persons who may lawfully intermarry.
 
 <span id="footnotes_page_58">p. 58</span>
 
- <span id="page_58_note_9"></span>[9](#page_58_fr_9) Here very
+ <span id="page_58_note_9"></span>[9](#page_58_fr_9.md) Here very
 distinctly Uthlanga is a proper name,—that of the first woman. But the
 origin of Uthlanga is not known; it is suggested that she came forth
 from Uthlanga together with Unkulunkulu—that is, an anterior
@@ -3029,28 +3029,28 @@ Umvelinqangi made an Uthlanga and begat children by her. See below,
 where it is said, "Uhlanga ka se ko;" Uthlanga is dead; not, A *lu* se
 ko.
 
- <span id="page_58_note_10"></span>[10](#page_58_fr_10) This is a mode
+ <span id="page_58_note_10"></span>[10](#page_58_fr_10.md) This is a mode
 of asserting his belief that since the fathers said Unkulunkulu begat
 men, he could not do so without a wife, and that therefore Uthlanga was
 a woman.
 
- <span id="page_58_note_11"></span>[11](#page_58_fr_11) *Zala* is to
+ <span id="page_58_note_11"></span>[11](#page_58_fr_11.md) *Zala* is to
 beget and to give birth to: they were derived, viz., by generation ftom
 Unkulunkulu, and by birth from Uthlanga.
 
 <span id="footnotes_page_59">p. 59</span>
 
- <span id="page_59_note_12"></span>[12](#page_59_fr_12) *Umdabuko*,
+ <span id="page_59_note_12"></span>[12](#page_59_fr_12.md) *Umdabuko*,
 Source of Being,—local or personal,—the place in which man was created,
 or the person who created him. But if a place, it is possessed of a
-special potentiality. See [Note 95, p. 50](#page_50_note_95). But here
+special potentiality. See [Note 95, p. 50](#page_50_note_95.md). But here
 the Umdabuko is called "the lord which gives them life."
 
- <span id="page_59_note_13"></span>[13](#page_59_fr_13) The argument is,
+ <span id="page_59_note_13"></span>[13](#page_59_fr_13.md) The argument is,
 since we see that life-giving influences,—the rain and sun,—come from
 heaven, we conclude that there too is the original source of life.
 
- <span id="page_59_note_14"></span>[14](#page_59_fr_14) It is supposed
+ <span id="page_59_note_14"></span>[14](#page_59_fr_14.md) It is supposed
 that black cattle are chosen because when it is about to rain the sky is
 overcast with dark clouds. When the ox is killed, its flesh is eaten in
 the house, and perfect silence is maintained till the whole is consumed,
@@ -3062,7 +3062,7 @@ words.
 
 <span id="footnotes_page_60">p. 60</span>
 
- <span id="page_60_note_15"></span>[15](#page_60_fr_15) Contrast this
+ <span id="page_60_note_15"></span>[15](#page_60_fr_15.md) Contrast this
 with what Arbousset says of the superstition found among the Lighoyas:—
 
  "When it thunders every one trembles; if there are several together,
@@ -3086,10 +3086,10 @@ not to disturb his joy.'" (*The Basutos, p.* 242.)
 
 <span id="footnotes_page_61">p. 61</span>
 
- <span id="page_61_note_16"></span>[16](#page_61_fr_16) See [Note 95, p.
-50](#page_50_note_95).
+ <span id="page_61_note_16"></span>[16](#page_61_fr_16.md) See [Note 95, p.
+50](#page_50_note_95.md).
 
- <span id="page_61_note_17"></span>[17](#page_61_fr_17) *Or, out of
+ <span id="page_61_note_17"></span>[17](#page_61_fr_17.md) *Or, out of
 Uthlanga*; "and so we said the Umdabuko is Uthlanga," either regarding
 Umdabuko as a female, or referring to that Uthlanga or Source of being
 from which Unkulunkulu himself and all things else sprang. But we are
@@ -3097,30 +3097,30 @@ here, no doubt, to understand the latter, for above he states that the
 old men believed in an Umdabuko which is above, and which he calls, "the
 Lord which gives them life."
 
- <span id="page_61_note_18"></span>[18](#page_61_fr_18) Intimating that
+ <span id="page_61_note_18"></span>[18](#page_61_fr_18.md) Intimating that
 there are other Onkulunkulu about whom he might wish to enquire.
 
 <span id="footnotes_page_62">p. 62</span>
 
- <span id="page_62_note_19"></span>[19](#page_62_fr_19) I see that it
+ <span id="page_62_note_19"></span>[19](#page_62_fr_19.md) I see that it
 was *said* and nothing more; there, was no truth in it.
 
- <span id="page_62_note_20"></span>[20](#page_62_fr_20) It is clear that
+ <span id="page_62_note_20"></span>[20](#page_62_fr_20.md) It is clear that
 this reasoning is the result of a certain amount of light. When once he
 had been induced to think, he said that the things around him could not,
 as the old men said, have had a mere human author, who came into being
 and passed away.
 
- <span id="page_62_note_21"></span>[21](#page_62_fr_21) This chief and
+ <span id="page_62_note_21"></span>[21](#page_62_fr_21.md) This chief and
 his people live in the neighbourhood of the Roman Catholic Mission about
 fifteen miles from this place.
 
 <span id="footnotes_page_63">p. 63</span>
 
- <span id="page_63_note_22"></span>[22](#page_63_fr_22) Some years ago
+ <span id="page_63_note_22"></span>[22](#page_63_fr_22.md) Some years ago
 whilst travelling I had had a conversation with him on the subject.
 
- <span id="page_63_note_23"></span>[23](#page_63_fr_23) This is rather
+ <span id="page_63_note_23"></span>[23](#page_63_fr_23.md) This is rather
 obscure, but I prefer not to give a free translation. The meaning is,
 Our old men told us that it was an ancient man who created all things;
 but we hear from the missionaries that the heavenly Lord is he who
@@ -3128,7 +3128,7 @@ created.
 
 <span id="footnotes_page_64">p. 64</span>
 
- <span id="page_64_note_24"></span>[24](#page_64_fr_24) Just as among
+ <span id="page_64_note_24"></span>[24](#page_64_fr_24.md) Just as among
 other people sneezing is associated with some superstitious feeling. In
 England and Germany old people will say, "God bless you," when a person
 sneezes. Among the Amazulu, if a child sneeze, it is regarded as a good
@@ -3146,17 +3146,17 @@ adores by saying, "Makosi," Lords, or Masters.
 
 <span id="footnotes_page_65">p. 65</span>
 
- <span id="page_65_note_25"></span>[25](#page_65_fr_25) It may be worth
+ <span id="page_65_note_25"></span>[25](#page_65_fr_25.md) It may be worth
 noting here that what the Amazulu say of the lord of heaven, for whom
 they have no name, the Amakxosa say of Utikxo.
 
- <span id="page_65_note_26"></span>[26](#page_65_fr_26) This is to be
+ <span id="page_65_note_26"></span>[26](#page_65_fr_26.md) This is to be
 understood as expressing his utter contempt for the Hottentots, and
 unwillingness to admit that the Kafir could learn any thing from them.
 It cannot, however, be doubted that he is mistaken in supposing that
 they did not derive the word from the Hottentots.
 
- <span id="page_65_note_27"></span>[27](#page_65_fr_27)
+ <span id="page_65_note_27"></span>[27](#page_65_fr_27.md)
 
 >  The isivivane consists of stones which are collected together in one
 > place, and form a large heap; <span id="footnotes_page_66">p.
@@ -3188,7 +3188,7 @@ Unkulunkulu of the Kafirs.
 
  Such heaps of stones are common in the South Sea Islands, and are there
 memorial heaps, as, it appears from the Scripture narrative, was that
-which Jacob raised ([Gen. xxxi. 45](../../bib/kjv/gen.htm#31:45)-55); or
+which Jacob raised ([Gen. xxxi. 45](../../bib/kjv/gen.htm#31:45)-55.md); or
 they may have been raised over graves, as is still the custom among the
 Bedouins.
 
@@ -3219,23 +3219,23 @@ Churchman's Companion. No. XII. December*, 1867, *p*. 524.)
  Is our ceremony of throwing earth into the grave a relic of this
 ancient custom?
 
- {See also the [additional note](rsa02.htm#note_27).}
+ {See also the [additional note](rsa02.htm#note_27.md).}
 
- <span id="page_67_note_28"></span>[28](#page_67_fr_28) This is a very
+ <span id="page_67_note_28"></span>[28](#page_67_fr_28.md) This is a very
 concise and simple explanation of the way in which the First Man came to
 be confounded with the Creator.
 
 <span id="footnotes_page_68">p. 68</span>
 
- <span id="page_68_note_29"></span>[29](#page_68_fr_29) That very
+ <span id="page_68_note_29"></span>[29](#page_68_fr_29.md) That very
 one,—that is, all that relates to or concerns him.
 
- <span id="page_68_note_30"></span>[30](#page_68_fr_30) Compare this
-with [Note 13, p. 59](#page_59_note_13).
+ <span id="page_68_note_30"></span>[30](#page_68_fr_30.md) Compare this
+with [Note 13, p. 59](#page_59_note_13.md).
 
 <span id="footnotes_page_69">p. 69</span>
 
- <span id="page_69_note_31"></span>[31](#page_69_fr_31) The following is
+ <span id="page_69_note_31"></span>[31](#page_69_fr_31.md) The following is
 the translation of the hymn alluded to given by Appleyard, *Grammar, p*.
 48:—
 
@@ -3262,7 +3262,7 @@ For thine own place we call.
 
 <span id="footnotes_page_70">p. 70</span>
 
- <span id="page_70_note_32"></span>[32](#page_70_fr_32) A very common
+ <span id="page_70_note_32"></span>[32](#page_70_fr_32.md) A very common
 answer received from a native when asked who Unkulunkulu is, is, "Ukoko
 wetu," Our ancestor. But now, through the course of years, no one
 regards him as a relative; he is so far removed from all at present
@@ -3270,12 +3270,12 @@ living by intervening generations.
 
 <span id="footnotes_page_71">p. 71</span>
 
- <span id="page_71_note_33"></span>[33](#page_71_fr_33) That is, no one
+ <span id="page_71_note_33"></span>[33](#page_71_fr_33.md) That is, no one
 can trace up his ancestry to the First Man. Such a notion manifests the
 utter ignorance of the natives of the lapse of time since man was
 created.
 
- <span id="page_71_note_34"></span>[34](#page_71_fr_34) We know that
+ <span id="page_71_note_34"></span>[34](#page_71_fr_34.md) We know that
 Unkulunkulu was the first man, but if we were to attempt to give the
 names of his children we could not make up a genealogy, for we are at
 once lost, and cannot in any way connect him with people who are now
@@ -3283,7 +3283,7 @@ left.
 
 <span id="footnotes_page_74">p. 74</span>
 
- <span id="page_74_note_35"></span>[35](#page_74_fr_35) He means to say,
+ <span id="page_74_note_35"></span>[35](#page_74_fr_35.md) He means to say,
 that as regards the natives themselves, Unkulunkulu was something so far
 off that they never thought of him; but that now this old man is being
 brought forward by others as the object of a reverence which they never
@@ -3291,7 +3291,7 @@ rendered to him.
 
 <span id="footnotes_page_75">p. 75</span>
 
- <span id="page_75_note_36"></span>[36](#page_75_fr_36) By this he
+ <span id="page_75_note_36"></span>[36](#page_75_fr_36.md) By this he
 means, that praying to Unkulunkulu, the first man, would prove just as
 great a deceit as children's calling to him; for as he could not appear
 to them, so he cannot hear our prayers, for he is but a man like
@@ -3299,7 +3299,7 @@ ourselves, dead and buried long ago.
 
 <span id="footnotes_page_76">p. 76</span>
 
- <span id="page_76_note_37"></span>[37](#page_76_fr_37) The native gives
+ <span id="page_76_note_37"></span>[37](#page_76_fr_37.md) The native gives
 the following explanation of his words here:—
 
 >  I would say as regards the worship of Unkulunkulu, if we are made to
@@ -3308,7 +3308,7 @@ the following explanation of his words here:—
 > man—the first, and those which we call our people are men like him; we
 > do not see in what way he can help us; they are all alike.
 
- <span id="page_76_note_38"></span>[38](#page_76_fr_38) We have already
+ <span id="page_76_note_38"></span>[38](#page_76_fr_38.md) We have already
 seen how prevalent is the tradition that man and all other things came
 out of the earth. The natives of these parts confess they do not know
 where this place is. But among other south African tribes, the tradition
@@ -3343,14 +3343,14 @@ Africa. Cambpbell. Vol. I., p.* 306.)
 
 <span id="footnotes_page_79">p. 79</span>
 
- <span id="page_79_note_41"></span>[41](#page_79_fr_41) There is no
+ <span id="page_79_note_41"></span>[41](#page_79_fr_41.md) There is no
 doubt that *Itongo* is Spirit; it is the general word employed to
 express spiritual power, and, I think, ought to be used instead of
 *umoya*.
 
 <span id="footnotes_page_81">p. 81</span>
 
- <span id="page_81_note_42"></span>[42](#page_81_fr_42) The metaphor
+ <span id="page_81_note_42"></span>[42](#page_81_fr_42.md) The metaphor
 here is borrowed from the peeling off of the skin of a new born child,
 or the casting off of the skin by a snake, that it might be, as the
 natives think, more perfect. The white man cast off the skin of
@@ -3360,7 +3360,7 @@ been cast off to this day.
 
 <span id="footnotes_page_82">p. 82</span>
 
- <span id="page_82_note_43"></span>[43](#page_82_fr_43) Pringle
+ <span id="page_82_note_43"></span>[43](#page_82_fr_43.md) Pringle
 describes Makanna, the great Kafir prophet, as referring his mission to
 "Uthlanga, the Great Spirit:"—
 
@@ -3401,7 +3401,7 @@ majority give it a personal signification; and in tracing the tradition
 backwards, we rest at last in Uthlanga as the word which of all others
 has wrapped up in it the native idea of a Creator.
 
- <span id="page_82_note_44"></span>[44](#page_82_fr_44) This notion of
+ <span id="page_82_note_44"></span>[44](#page_82_fr_44.md) This notion of
 successive egressions from the centre of creation, which is a new idea
 among the natives of this country, having arisen from a wish to explain
 the difference between themselves and us, has its counterpart among the
@@ -3421,37 +3421,37 @@ till the Spaniards brought them over, who more wisely had let them out
 of the caves." (*Researches into the Early History of Mankind. Tylor,
 p.* 313.)
 
- <span id="page_83_note_45"></span>[45](#page_83_fr_45) In accordance
+ <span id="page_83_note_45"></span>[45](#page_83_fr_45.md) In accordance
 with the answer invariably given by natives when referring to
 Unkulunkulu, the first man.
 
- <span id="page_83_note_46"></span>[46](#page_83_fr_46) The native
+ <span id="page_83_note_46"></span>[46](#page_83_fr_46.md) The native
 teacher thinks he must here refer to the legend of the ascent of
-Usenzangakona into heaven. [Note 4, p. 55](#page_55_note_4). This is
+Usenzangakona into heaven. [Note 4, p. 55](#page_55_note_4.md). This is
 quite possible; and that in the statements which follow he might be
 referring to supposed creative acts, which he ascribed to that chief.
-Compare Ukoto's statement, [p. 50](#page_50), with that of Ubapa's
-mother, [p. 55](#page_55), who sums up her faith with the statement,
+Compare Ukoto's statement, [p. 50](#page_50.md), with that of Ubapa's
+mother, [p. 55](#page_55.md), who sums up her faith with the statement,
 that "the whitemen are the lords who made all things."
 
 <span id="footnotes_page_84">p. 84</span>
 
- <span id="page_84_note_47"></span>[47](#page_84_fr_47) Compare what is
-said, [p. 25](#page_25). The worship of Unkulunkulu consists in
+ <span id="page_84_note_47"></span>[47](#page_84_fr_47.md) Compare what is
+said, [p. 25](#page_25.md). The worship of Unkulunkulu consists in
 rejoicing at what is supposed to be his gift, good or bad, and by
 casting on him and his ordinance the responsibility of their own evil
 doing.
 
- <span id="page_84_note_48"></span>[48](#page_84_fr_48) *Amadumbi*,
+ <span id="page_84_note_48"></span>[48](#page_84_fr_48.md) *Amadumbi*,
 edible tubers, a kind of arum, which the natives cultivate. *Umthlaza*
 is also an edible tuber.
 
- <span id="page_84_note_49"></span>[49](#page_84_fr_49) Or, Lord, or
+ <span id="page_84_note_49"></span>[49](#page_84_fr_49.md) Or, Lord, or
 King.
 
 <span id="footnotes_page_85">p. 85</span>
 
- <span id="page_85_note_50"></span>[50](#page_85_fr_50) This is the only
+ <span id="page_85_note_50"></span>[50](#page_85_fr_50.md) This is the only
 instance I have met with in which even apparently a native has said that
 prayer is made to Unkulunkulu, the first man. On the contrary, every
 previous account implies the reverse. I cannot personally enquire of the
@@ -3466,7 +3466,7 @@ known among the people. War, change, and the worship of false deities
 have gradually darkened their minds and obscured their remembrance of
 the true God. Captain Gardiner states that the generality of the people
 were ignorant of it in his time." (*p*. 160.) See [Note 3, p.
-54](#page_54_note_3). Captain Gardiner doubtless would find "the
+54](#page_54_note_3.md). Captain Gardiner doubtless would find "the
 generality of the people" utterly ignorant of an Unkulunkulu in heaven,
 except as a part of their faith in such legends as that of the ascent of
 Usenzangakona. But I have never yet met with any native old or young, of
@@ -3491,7 +3491,7 @@ Unkulunkulu, the first man, is of necessity shut out.
 
 <span id="footnotes_page_86">p. 86</span>
 
- <span id="page_86_note_51"></span>[51](#page_86_fr_51) This was the
+ <span id="page_86_note_51"></span>[51](#page_86_fr_51.md) This was the
 first time I had met with the word Unkulunkulwana <span
 id="footnotes_page_87">p. 87</span> in my intercourse with the natives.
 It is a diminutive, and means the lesser or inferior Unkulunkulu. But
@@ -3518,13 +3518,13 @@ proposed, were subjects which he could not at all comprehend." (*p*.
 
 <span id="footnotes_page_88">p. 88</span>
 
- <span id="page_88_note_53"></span>[53](#page_88_fr_53) These three were
+ <span id="page_88_note_53"></span>[53](#page_88_fr_53.md) These three were
 great chiefs,—amakosi ohlanga,—who left their names as izibongo of their
 respective tribes.
 
 <span id="footnotes_page_89">p. 89</span>
 
- <span id="page_89_note_56"></span>[56](#page_89_fr_56) *Ukqili*, ikqili
+ <span id="page_89_note_56"></span>[56](#page_89_fr_56.md) *Ukqili*, ikqili
 made into a proper name. The-wise-one.
 
 >  It means a man of exceeding knowledge; therefore on account of his
@@ -3541,7 +3541,7 @@ creation.
 
 <span id="footnotes_page_90">p. 90</span>
 
- <span id="page_90_note_57"></span>[57](#page_90_fr_57) This notion
+ <span id="page_90_note_57"></span>[57](#page_90_fr_57.md) This notion
 appears to be frequently intimated in the legends of the origin of
 man,—that not only Unkulunkulu came out of the bed of reeds, but
 primitive men also (abantu bendulo). Unkulunkulu simply came out first;
@@ -3554,16 +3554,16 @@ sitting moulded all things. By this we are to understand that the
 Amakqwabi's traditional centre from which they sprang is on the
 Umtshezi.
 
- <span id="page_90_note_58"></span>[58](#page_90_fr_58) By Uthlanga
+ <span id="page_90_note_58"></span>[58](#page_90_fr_58.md) By Uthlanga
 meaning apparently the place from which Unkulunkulu and all other things
 came.
 
- <span id="page_90_note_59"></span>[59](#page_90_fr_59) Milisa, lit.,
+ <span id="page_90_note_59"></span>[59](#page_90_fr_59.md) Milisa, lit.,
 caused to grow; but = bumba, enza.
 
 <span id="footnotes_page_91">p. 91</span>
 
- <span id="page_91_note_60"></span>[60](#page_91_fr_60) I had never
+ <span id="page_91_note_60"></span>[60](#page_91_fr_60.md) I had never
 before met with a native who thus separated Ukulukulu from Unkulunkulu.
 It is the reduplication of *ukulu* which is never, so far as I know,
 nasalised; and is equivalent to unkulunkulwana, the diminutive of
@@ -3571,11 +3571,11 @@ unkulunkulu. Below we shall find another native making a similar
 distinction. But the majority of natives deny the correctness of this
 distinction.
 
- <span id="page_91_note_61"></span>[61](#page_91_fr_61) By this he means
+ <span id="page_91_note_61"></span>[61](#page_91_fr_61.md) By this he means
 to say that Unkulunkulu no longer exists; that he has died like all
 others, young and old.
 
- <span id="page_91_note_62"></span>[62](#page_91_fr_62) *Isitunzi*,
+ <span id="page_91_note_62"></span>[62](#page_91_fr_62.md) *Isitunzi*,
 shade.—This is, doubtless, a word formerly used for the spirit of man,
 just as among the Greeks, Romans, &c. And scarcely any thing can more
 clearly prove the degradation which has fallen on the natives than their
@@ -3585,31 +3585,31 @@ belief that the dead body casts no shadow; and when they say, "Isitunzi
 si muke," The shade has departed, they do not mean that the soul has
 left its tenement, but that the body has ceased to cast a shadow.
 
- {See also the [additional note](rsa05).}
+ {See also the [additional note](rsa05.md).}
 
- <span id="page_91_note_63"></span>[63](#page_91_fr_63) He said Uhhadebe
+ <span id="page_91_note_63"></span>[63](#page_91_fr_63.md) He said Uhhadebe
 was an Ithlubi, that is, one of the tribe of the Amathlubi.
 
 <span id="footnotes_page_92">p. 92</span>
 
- <span id="page_92_note_64"></span>[64](#page_92_fr_64) Compare this
-with the account given [p. 84](#page_84), which it entirely
+ <span id="page_92_note_64"></span>[64](#page_92_fr_64.md) Compare this
+with the account given [p. 84](#page_84.md), which it entirely
 corroborates; the Unkulunkulu of each tribe is the object of that
 tribe's veneration and worship. It may be as well also to note that,
 according to Burton, the Dahomans salute their king by crying,
 "Grandfather, grandfather."
 
- <span id="page_92_note_65"></span>[65](#page_92_fr_65) Black cattle are
+ <span id="page_92_note_65"></span>[65](#page_92_fr_65.md) Black cattle are
 chosen because they wish black clouds, which usually pour down much
 rain, to cover the heavens.
 
- <span id="page_92_note_66"></span>[66](#page_92_fr_66) This song
+ <span id="page_92_note_66"></span>[66](#page_92_fr_66.md) This song
 consists of musical sounds merely, but imperfectly represented by the
 above, without any meaning.
 
 <span id="footnotes_page_93">p. 93</span>
 
- <span id="page_93_note_67"></span>[67](#page_93_fr_67) *Ezomzimu*. The
+ <span id="page_93_note_67"></span>[67](#page_93_fr_67.md) *Ezomzimu*. The
 cattle of Umzimu, that is, of the Itongo—especially dedicated to the
 Itongo. Captain Burton mentions a word very much like this, as being
 used for Ancestral Ghosts,—Muzimos,—among the people to the South-east
@@ -3617,8 +3617,8 @@ of Dahome. (*Op. cit. Vol. II., p.* 20.)
 
 <span id="footnotes_page_94">p. 94</span>
 
- <span id="page_94_note_68"></span>[68](#page_94_fr_68) Compare [p.
-80](#page_80).
+ <span id="page_94_note_68"></span>[68](#page_94_fr_68.md) Compare [p.
+80](#page_80.md).
 
 >  Here we say, "You remained." Black men frequently say this; when they
 > see white men perfect in wisdom, they say they remained with the great
@@ -3627,7 +3627,7 @@ of Dahome. (*Op. cit. Vol. II., p.* 20.)
 > and perfected wisdom; we went out as though we should find it where we
 > were going.
 
- <span id="page_94_note_69"></span>[69](#page_94_fr_69) *Isanda
+ <span id="page_94_note_69"></span>[69](#page_94_fr_69.md) *Isanda
 selizwe*.—*Isanda* is breadth which supports something upon it. Thus a
 table, bed, or sofa may be called an *isanda*. But here it means not
 only breadth supporting; but *the power underneath*, from which the
@@ -3657,17 +3657,17 @@ support comes. The following was given as an explanation:—
 
 <span id="footnotes_page_97">p. 97</span>
 
- <span id="page_97_note_70"></span>[70](#page_97_fr_70) Or, Unsondo, see
-[p. 13](#page_13).
+ <span id="page_97_note_70"></span>[70](#page_97_fr_70.md) Or, Unsondo, see
+[p. 13](#page_13.md).
 
- <span id="page_97_note_71"></span>[71](#page_97_fr_71) *Umdali* is the
+ <span id="page_97_note_71"></span>[71](#page_97_fr_71.md) *Umdali* is the
 same as *Umdabuli*, from *ukudala*, the same as *ukudabula*. The
 creator, in the sense understood by the natives. (See [Note 3, p.
-1](#page_1_note_3).)
+1](#page_1_note_3)..md)
 
 <span id="footnotes_page_99">p. 99</span>
 
- <span id="page_99_note_72"></span>[72](#page_99_fr_72) Here we have a
+ <span id="page_99_note_72"></span>[72](#page_99_fr_72.md) Here we have a
 native distinctly stating that the founder of his tribe was the first
 man,—that is, he confounds the first Unkulunkulu with the founder of his
 own tribe, who, he asserts was the creator of all things, in the native
@@ -3676,10 +3676,10 @@ mistake the meaning of such statements. And how unmistakeably it proves
 that the natives believe that the Unkulunkulu of all men was himself a
 man.
 
- <span id="page_99_note_73"></span>[73](#page_99_fr_73) Comp. Umdabuko,
-[p. 50, Note 95](#page_50_note_95).
+ <span id="page_99_note_73"></span>[73](#page_99_fr_73.md) Comp. Umdabuko,
+[p. 50, Note 95](#page_50_note_95.md).
 
- <span id="page_99_note_74"></span>[74](#page_99_fr_74) *Uthlabati*,
+ <span id="page_99_note_74"></span>[74](#page_99_fr_74.md) *Uthlabati*,
 that is, Earth-man, as Adam means "earthy" or "red earth."
 
  

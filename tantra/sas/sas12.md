@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas11)  [Next](sas13)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas11)  [Next](sas13.md)  
 
 ------------------------------------------------------------------------
 
@@ -449,4 +449,4 @@ Whole.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Thirteen: Sarvanandanatha](sas13)
+Next: [Chapter Thirteen: Sarvanandanatha](sas13.md)

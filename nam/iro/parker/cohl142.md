@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl141)  [Next](cohl143) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl141)  [Next](cohl143.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 # PART 2
 
-### FIELD NOTES ON THE RITES AND CEREMONIES OF THE GANIO\`DAI'IO\` RELIGION <span id="fr_97"></span>[1](#fn_97)
+### FIELD NOTES ON THE RITES AND CEREMONIES OF THE GANIO\`DAI'IO\` RELIGION <span id="fr_97"></span>[1](#fn_97.md)
 
 ### GÄNÄ?YASTA\`
 
@@ -18,7 +18,7 @@ On the third day of what the Seneca term Niskowûkni ne\`' Sade:'goshä or
 the moon of midwinter, a council of head men is called and officers
 elected to officiate at the Gänä?yasta\` or midwinter thanksgiving
 ceremony to be held two days later. Officers are chosen from each of the
-two brotherhoods <span id="fr_98"></span>[2](#fn_98) of clans.
+two brotherhoods <span id="fr_98"></span>[2](#fn_98.md) of clans.
 
 On the first day of the ceremony officers called Ondeyä, dressed in
 buffalo skins, meet and lay out a route of houses which each pair of
@@ -222,11 +222,11 @@ distributed and the people disperse.
 
 ### Footnotes
 
-<span id="fn_97"></span>[81:1](cohl142.htm#fr_97) Taken at Newtown,
+<span id="fn_97"></span>[81:1](cohl142.htm#fr_97.md) Taken at Newtown,
 Cattaraugus reservation, January 1905, by A. C. Parker.
 
-<span id="fn_98"></span>[81:2](cohl142.htm#fr_98) See Phratries.
+<span id="fn_98"></span>[81:2](cohl142.htm#fr_98.md) See Phratries.
 
 ------------------------------------------------------------------------
 
-[Next: The White Dog Sacrifice](cohl143)
+[Next: The White Dog Sacrifice](cohl143.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi04)  [Next](vbwi06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi04)  [Next](vbwi06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1801,4 +1801,4 @@ see them, and to bring them in to dinner with him.
 
 ------------------------------------------------------------------------
 
-[Next: Herbs, Charms and Wise Women](vbwi06)
+[Next: Herbs, Charms and Wise Women](vbwi06.md)

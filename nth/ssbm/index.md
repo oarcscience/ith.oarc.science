@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ssbm00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ssbm.txt.gz)
+[Contents](#contents)    [Start Reading](ssbm00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ssbm.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -46,47 +46,47 @@ and if you like this, you'll probably like his other writings.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ssbm00)  
-[Contents](ssbm01)  
-[Chapter I. The Discovery That May Change The World](ssbm02)  
-[Chapter II. Fire-Walking as an Introduction to Magic](ssbm03)  
+<span id="contents"></span> [Title Page](ssbm00.md)  
+[Contents](ssbm01.md)  
+[Chapter I. The Discovery That May Change The World](ssbm02.md)  
+[Chapter II. Fire-Walking as an Introduction to Magic](ssbm03.md)  
 [Chapter III. The Incredible Force used in Magic, Where it Comes from,
-and Some of its Uses](ssbm04)  
+and Some of its Uses](ssbm04.md)  
 [Chapter IV. The Two Souls of Man and the Proofs That There Are Two
-Instead of One](ssbm05)  
+Instead of One](ssbm05.md)  
 [Chapter V. The Kahuna System and the Three “Souls” or Spirits of Man,
 Each Using Its Own Voltage of Vital Force. These Spirits in Union and in
-Separation](ssbm06)  
+Separation](ssbm06.md)  
 [Chapter VI. Taking the Measure of the Third Element in Magic, That of
 the Invisible Substance Through Which Consciousness Acts by Means of
-Force](ssbm07)  
+Force](ssbm07.md)  
 [Chapter VII. Psychometry, Crystal Gazing, Visions of the Past, Visions
 of the Future, Etc., Explained by the Ancient Lore of the
-Kahunas](ssbm08)  
+Kahunas](ssbm08.md)  
 [Chapter VII. Mind Reading, Clairvoyance, Vision, Prevision, Crystal
 Gazing, and All of the Psychometrically Related Phenomena, as Explained
-in Terms of the Ten Elements of the Ancient Huna System](ssbm09)  
+in Terms of the Ten Elements of the Ancient Huna System](ssbm09.md)  
 [Chapter IX. The Significance of Seeing into the Future in the
-Psychometric Phenomena and in Dreams](ssbm10)  
-[Chapter X. The Easy Way to Dream into the Future](ssbm11)  
+Psychometric Phenomena and in Dreams](ssbm10.md)  
+[Chapter X. The Easy Way to Dream into the Future](ssbm11.md)  
 [Chapter XI. Instant Healing Through the High Self. The Proofs and
-Methods](ssbm12)  
-[Chapter XII. Raising the Dead, Permanently and Temporarily](ssbm13)  
+Methods](ssbm12.md)  
+[Chapter XII. Raising the Dead, Permanently and Temporarily](ssbm13.md)  
 [Chapter XIII. The Life-Giving Secrets of Lomilomi and Laying on of
-Hands](ssbm14)  
+Hands](ssbm14.md)  
 [Chapter XIV. Startling New and Different Ideas from the Kahunas
-Concerning the Nature of the Complex and Healing](ssbm15)  
-[Chapter XV. The Secret Kahuna Method of Treating the Complex](ssbm16)  
+Concerning the Nature of the Complex and Healing](ssbm15.md)  
+[Chapter XV. The Secret Kahuna Method of Treating the Complex](ssbm16.md)  
 [Chapter XVI. How the Kahunas Fought the Horrid Things of
-Darkness](ssbm17)  
-[Chapter XVII. The Secret Within the Secret](ssbm18)  
+Darkness](ssbm17.md)  
+[Chapter XVII. The Secret Within the Secret](ssbm18.md)  
 [Chapter XVIII. The Secret which Enabled the Kahunas to Perform the
-Miracle of Instant Healing](ssbm19)  
-[Chapter XIX. The Magic of Rebuilding the Unwanted Future](ssbm20)  
-[Chapter XX. The High Self and the Healing in Psychic Science](ssbm21)  
+Miracle of Instant Healing](ssbm19.md)  
+[Chapter XIX. The Magic of Rebuilding the Unwanted Future](ssbm20.md)  
+[Chapter XX. The High Self and the Healing in Psychic Science](ssbm21.md)  
 [Chapter XXI. How the Kahunas Controlled Winds, Weather and the Sharks
-by Magic](ssbm22)  
-[Chapter XXII. The Practical Use of the Magic of the Miracle](ssbm23)  
-[Note](ssbm24)  
-[Illustrations](ssbm25)  
-[Appendix](ssbm26)  
+by Magic](ssbm22.md)  
+[Chapter XXII. The Practical Use of the Magic of the Miracle](ssbm23.md)  
+[Note](ssbm24.md)  
+[Illustrations](ssbm25.md)  
+[Appendix](ssbm26.md)  

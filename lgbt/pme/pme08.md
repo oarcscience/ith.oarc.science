@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](pme07)  [Next](pme09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](pme07)  [Next](pme09.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,7 +190,7 @@ treat sexual inversion among the modem European races as a malady, when
 you refer its prevalence among Oriental peoples and the ancient.
 Hellenes to custom--is so important that I shall illustrate it by a
 passage from one of Dr. W. R. Huggard's Essays. <span
-id="fr_19"></span>[1](#fn_19) "It may be said that the difference
+id="fr_19"></span>[1](#fn_19.md) "It may be said that the difference
 between the delusion of the overpowering impulse in the Fijian and in
 the insane Englishman is that, in the savage, the mental characters are
 due to education and surroundings; while, in the lunatic they are due to
@@ -289,7 +289,7 @@ psychological anomaly which are forced upon the student of ancient
 Hellas. He does not even take into account the fact, patent to
 experienced observers, that simple folk not unfrequently display no
 greater disgust for the abnormalities of sexual appetite than they do
-for its normal manifestations. <span id="fr_20"></span>[1](#fn_20)
+for its normal manifestations. <span id="fr_20"></span>[1](#fn_20.md)
 
 <span id="page_39">p. 39</span>
 
@@ -451,7 +451,7 @@ The exciting or efficient cause is sexual abuse, and more particularly
 onanism. The etiological centre of gravity has to be sought in
 hereditary disease; *and I think it is questionable whether an untainted
 individual is capable of homosexual feelings at all*." <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
 Krafft-Ebing's theory seems then to be that all cases of acquired sexual
 inversion may be ascribed in the first place to morbid predispositions
@@ -533,7 +533,7 @@ said about
 <span id="page_47">p. 47</span>
 
 convict establishments, military prisons, and the like. <span
-id="fr_22"></span>[1](#fn_22) With such a body of facts staring us in
+id="fr_22"></span>[1](#fn_22.md) With such a body of facts staring us in
 the face, it cannot be contended that "only tainted individuals are
 capable of homosexual feelings." Where females are absent or forbidden,
 males turn for sexual gratification to males. And in certain conditions
@@ -577,7 +577,7 @@ concomitant of nervous maladies. But the evidence of ancient Greece or
 Rome, of what Burton calls the "sotadic races" at the present time, of
 European schools and prisons, ought to make us hesitate before we commit
 ourselves to Krafft-Ebing's theory that hereditary affliction is a
-necessary predisposing cause. <span id="fr_23"></span>[1](#fn_23)
+necessary predisposing cause. <span id="fr_23"></span>[1](#fn_23.md)
 
 In like manner, masturbation may be credited with certain cases of
 acquired homosexual feeling. Undoubtedly the instinct is occasionally
@@ -586,7 +586,7 @@ self-abuse. Yet the autobiographies of avowed Urnings do not corroborate
 the view that, they were originally more addicted to onanism. than
 normal males. Ulrichs has successfully combated the theory advanced by
 Tarnowsky, Prager, and Krafft-Ebing, if considered as a complete
-explanation of the problem. <span id="fr_24"></span>[2](#fn_24) On the
+explanation of the problem. <span id="fr_24"></span>[2](#fn_24.md) On the
 other hand, common experience shows beyond all doubt,
 
 <span id="page_50">p. 50</span>
@@ -600,7 +600,7 @@ of Krafft-Ebing's cases show. Finally, as regards the onanism which is a
 marked characteristic of some adult Urnings, this must be ascribed in
 most cases to the repression of their abnormal instincts. They adopt the
 habit, as Krafft-Ebing himself says, *faute de mieux*. <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 In justice to the theory I am criticising, it ought to be remarked that
 Krafft-Ebing does not contend that wherever hereditary taint and onanism
@@ -645,7 +645,7 @@ Krafft-Ebing calls attention to the phenomenon of permanent
 *effentinatio*, in males unsexed by constant riding and the exhaustion
 of their virility by friction of the genitals--a phenomenon observed by
 Herodotus among Scythians, and prevalent among some nomadic races of the
-Caucasus at the present day. <span id="fr_26"></span>[1](#fn_26) He
+Caucasus at the present day. <span id="fr_26"></span>[1](#fn_26.md) He
 claims this in support of his theory of masturbation; and within due
 limits, he has the right to do so. The destruction of the male apparatus
 for reproduction, whether it be by castration after puberty, or by an
@@ -662,7 +662,7 @@ Next he discusses a few cases in which it seems that
 <span id="page_53">p. 53</span>
 
 sexual inversion displays itself episodically under the conditions of a
-psychopathical. disturbance. <span id="fr_27"></span>[1](#fn_27) That is
+psychopathical. disturbance. <span id="fr_27"></span>[1](#fn_27.md) That is
 to say, three persons, two women and one man, have been observed by him,
 under conditions approaching mental alienation, to exchange their normal
 sexual inclination for abnormal appetite. In the analysis of the problem
@@ -673,7 +673,7 @@ inherited and active disease.
 
 \(B\) Ultimately, Krafft-Ebing attacks the problem of what he calls "the
 innate morbid phenomenon" of sexual inversion. <span
-id="fr_28"></span>[2](#fn_28) While giving a general description of the
+id="fr_28"></span>[2](#fn_28.md) While giving a general description of the
 subjects of this class, he remarks that the males display a pronounced
 sexual antipathy for women, and a strongly accentuated sympathy for men.
 Their reproductive organs are perfectly differentiated on the masculine
@@ -686,7 +686,7 @@ Griesinger referred it to hereditary affliction. Westphal defined it as
 "a congenital inversion of the sexual feeling, together with a
 consciousness of its morbidity." Ulrichs explained it by the presence of
 a feminine soul in a male body, and gave the name *Urning* <span
-id="fr_29"></span>[3](#fn_29) to its subjects. Gley suggested that a
+id="fr_29"></span>[3](#fn_29.md) to its subjects. Gley suggested that a
 female
 
 <span id="page_54">p. 54</span>
@@ -697,7 +697,7 @@ woman's brain in a man's body.
 Krafft-Ebing asserts that hardly any of these Urnings are conscious of
 morbidity. They look upon themselves as unfortunate mainly because law
 and social prejudices stand in the way of their natural
-indulgence. <span id="fr_30"></span>[1](#fn_30) He also takes for
+indulgence. <span id="fr_30"></span>[1](#fn_30.md) He also takes for
 proved, together with all the authorities he cites, that the abnormal
 sexual appetite is constitutional and inborn.
 
@@ -729,14 +729,14 @@ for the other sex, which are gradually obliterated; whereas the
 psychical hermaphrodites commence life with an attraction towards their
 own sex, which they attempt to overcome by making demands upon their
 rudimentary normal instincts. Five cases are given of such
-persons. <span id="fr_31"></span>[1](#fn_31)
+persons. <span id="fr_31"></span>[1](#fn_31.md)
 
 In the next place he comes to true homosexual individuals, or Urnings in
 the strict sense of that phrase. With them there is no rudimentary
 appetite for the other sex apparent. They present a "grotesque" parallel
 to normal men and women, inverting or caricaturing natural appetites.
 The male of this class shrinks from the female, and the female from the
-male. <span id="fr_32"></span>[2](#fn_32)
+male. <span id="fr_32"></span>[2](#fn_32.md)
 
 <span id="page_56">p. 56</span>
 
@@ -775,7 +775,7 @@ consorted with at least six hundred men of his own stamp; many of them
 in high positions of respectability. In none had he observed an abnormal
 formation of the sexual organs; but frequently some approximation to the
 feminine type of body--hair sparingly distributed <span
-id="fr_33"></span>[1](#fn_33), tender complexion, and high tone of
+id="fr_33"></span>[1](#fn_33.md), tender complexion, and high tone of
 voice. About ten per cent. eventually adopted love for women. Not ten
 per cent. exhibited any sign of the *habitus muliebris* in their
 occupations, dress, and so forth. A large majority felt like men in
@@ -802,7 +802,7 @@ themselves with toilette, scandal, tea, and talk about their
 lovers--dressed as far as possible in female clothes, painted, perfumed
 and curled their hair--addressed each other in the feminine gender,
 adopted pseudonyms of Countess or of Princess, and lived the life of
-women of a dubious demi-monde. <span id="fr_34"></span>[1](#fn_34)
+women of a dubious demi-monde. <span id="fr_34"></span>[1](#fn_34.md)
 
 Yet they remained in their physical configuration males. Unlike the
 preceding sub-species, they did not feel as men feel towards their
@@ -893,7 +893,7 @@ This famous book, which has contributed no little to a revolution of
 opinion regarding crime and its punishment in Italy, contains a
 searching inquiry into the psychological nature, physical peculiarities,
 habits, and previous history of criminals. <span
-id="fr_35"></span>[1](#fn_35) It is, in fact, a study of the criminal
+id="fr_35"></span>[1](#fn_35.md) It is, in fact, a study of the criminal
 temperament. Lombroso deals in the main, as is natural, with murder,
 theft, rape, cruelty, and their allied species. But he includes sexual
 inversion in the category of crimes, and regards the
@@ -932,10 +932,10 @@ reported by Aristotle (Pol. ii. 6. 5.)--Tartars, Persians,
 
 \[paragraph continues\] Afghans, North American Indians, &c. Diodorus
 Siculus, writing upon the morals of the Gauls, deserves attention in
-this respect. <span id="fr_36"></span>[1](#fn_36) It is also singular to
+this respect. <span id="fr_36"></span>[1](#fn_36.md) It is also singular to
 find that the Norman marauders of the tenth century carried unnatural
 vices wherever they appeared in Europe. <span
-id="fr_37"></span>[2](#fn_37) The Abbot of Clairvaux, as quoted by
+id="fr_37"></span>[2](#fn_37.md) The Abbot of Clairvaux, as quoted by
 Lombroso (p. 43), accused them of spreading their brutal habits through
 society. People accustomed to look upon these vices as a form of
 corruption in great cities will perhaps be surprised to find them
@@ -1015,7 +1015,7 @@ It is more important to reflect upon his theory of crime in general.
 Having started with the hypothesis of atavism, and adopted the term
 "born criminal," he later on identifies "innate crime" with "moral
 insanity," and illustrates both by the phenomena of epilepsy. <span
-id="fr_38"></span>[1](#fn_38) This introduces a certain confusion and
+id="fr_38"></span>[1](#fn_38.md) This introduces a certain confusion and
 
 <span id="page_66">p. 66</span>
 
@@ -1056,7 +1056,7 @@ the phenomenon of "occasional crime," and saying how he thinks this
 ought to be regarded by society. Moreover, he almost wholly ignores the
 possibility of correcting criminal tendencies by appeal to reason, by
 establishing habits of self-restraint, and by the employment of such
-means as hypnotic suggestion. <span id="fr_39"></span>[1](#fn_39) Yet
+means as hypnotic suggestion. <span id="fr_39"></span>[1](#fn_39.md) Yet
 experience and the common practice of the world prove that these
 remedies are not wholly inefficacious; and indeed the passage from
 childish savagery to moralised manhood, on which he lays so great a
@@ -1281,10 +1281,10 @@ conditions to which he has been exposed from the age of puberty.
 
 ### Footnotes
 
-<span id="fn_19"></span>[35:1](pme08.htm#fr_19) The Standard of Sanity,
+<span id="fn_19"></span>[35:1](pme08.htm#fr_19.md) The Standard of Sanity,
 Br. Med. journal, NOV. 28, 1885.
 
-<span id="fn_20"></span>[38:1](pme08.htm#fr_20) See Tarnowsky about the
+<span id="fn_20"></span>[38:1](pme08.htm#fr_20.md) See Tarnowsky about the
 opinion of the lower classes in St. Petersburg, *op. cit.*, p. 99.
 "Ueberhaupt verhalten sich die gemeinen ungebildeten Leute, dem
 Ausspruch aller mir bekannten Päderasten gemäss, äusserst nachsichtig
@@ -1292,12 +1292,12 @@ gegen unzüchtige Anträge--'herrschaftliche Spielerei,' wie sie es
 nennen." This is true not only of Russia, but of countries where we
 should least expect to find the compliance in question.
 
-<span id="fn_21"></span>[44:1](pme08.htm#fr_21) p. 73. The italics are
+<span id="fn_21"></span>[44:1](pme08.htm#fr_21.md) p. 73. The italics are
 the translator's. The adjective *homosexual*, though ill-compounded of a
 Greek and a Latin word, is useful, and has been adopted by medical
 writers on this topic. *Unisexual* would perhaps be better.
 
-<span id="fn_22"></span>[47:1](pme08.htm#fr_22) A note upon this subject
+<span id="fn_22"></span>[47:1](pme08.htm#fr_22.md) A note upon this subject
 has to be written; and it may be introduced here as well as elsewhere.
 Balzac, in *Une dernière incarnation de Vautrin*, describes the morals
 of the French *bagnes*. Dostoieffsky, in *Prison Life in Siberia*,
@@ -1332,17 +1332,17 @@ credible witness, who had been a pathic in his regiment, deserve
 attention (*Ara Spei*, p. 20; *Memnon*, p. 27). This man, who was a
 German, told Ulrichs that the Spanish, French, and Italian soldiers were
 the lovers, the Swiss and German their beloved. See General Brossier,
-cited above, [p. 19](pme06.htm#page_19). Ulrichs reports that in the
+cited above, [p. 19](pme06.htm#page_19.md). Ulrichs reports that in the
 Austrian army lectures on homosexual vices are regularly given to cadets
 and conscripts (*Memnon*, p. 20).
 
-<span id="fn_23"></span>[49:1](pme08.htm#fr_23) See above, p. 33, my
+<span id="fn_23"></span>[49:1](pme08.htm#fr_23.md) See above, p. 33, my
 criticism of Moureau upon this point, with special reference to Greece.
 
-<span id="fn_24"></span>[49:2](pme08.htm#fr_24) Prometheus, pp. 20-26,
+<span id="fn_24"></span>[49:2](pme08.htm#fr_24.md) Prometheus, pp. 20-26,
 *et seq*.
 
-<span id="fn_25"></span>[50:1](pme08.htm#fr_25) Without having recourse
+<span id="fn_25"></span>[50:1](pme08.htm#fr_25.md) Without having recourse
 to Ulrichs, it may be demonstrated from Krafft-Ebing's own cases of
 genuine Urnings that early onanism is by no means more frequent among
 them that among normal males. Five marked specimens showed no
@@ -1370,21 +1370,21 @@ become ill." Another speaks as follows (p. 151): "Homosexual indulgence
 with a man gave me enjoyment and a consequent feeling of well-being,
 whereas onanism *faute de mieux* produced an opposite result."
 
-<span id="fn_26"></span>[52:1](pme08.htm#fr_26) p. 82. Herodotus called
+<span id="fn_26"></span>[52:1](pme08.htm#fr_26.md) p. 82. Herodotus called
 it "the female disease."
 
-<span id="fn_27"></span>[53:1](pme08.htm#fr_27) p. 86, *et seq*.
+<span id="fn_27"></span>[53:1](pme08.htm#fr_27.md) p. 86, *et seq*.
 
-<span id="fn_28"></span>[53:2](pme08.htm#fr_28) P. 88, *et seq*.
+<span id="fn_28"></span>[53:2](pme08.htm#fr_28.md) P. 88, *et seq*.
 
-<span id="fn_29"></span>[53:3](pme08.htm#fr_29) Henceforward we may use
+<span id="fn_29"></span>[53:3](pme08.htm#fr_29.md) Henceforward we may use
 the word Urning without apology; for however the jurists and men of
 science repudiate Ulrichs' doctrine, <span id="page_54">p. 54</span>
 they have adopted his designation for a puzzling and still unclassified
 member of the human race. A Dr. Kaserer, of Vienna, is said to have
 invented the term Urning.
 
-<span id="fn_30"></span>[54:1](pme08.htm#fr_30) This is a hit at
+<span id="fn_30"></span>[54:1](pme08.htm#fr_30.md) This is a hit at
 Westphal, Krafft-Ebing's predecessor, who laid down the doctrine that
 Urnings are conscious of their own morbidity. Of course, both
 authorities are equally right. Approach an Urning with terrors of social
@@ -1392,9 +1392,9 @@ opinion and law; and he will confess his dreadful apprehensions.
 Approach him from the point of view of science; and he will declare
 that, within four closed walls, he has no thought of guilt.
 
-<span id="fn_31"></span>[55:1](pme08.htm#fr_31) Pp. 97-106.
+<span id="fn_31"></span>[55:1](pme08.htm#fr_31.md) Pp. 97-106.
 
-<span id="fn_32"></span>[55:2](pme08.htm#fr_32) The physical repugnance
+<span id="fn_32"></span>[55:2](pme08.htm#fr_32.md) The physical repugnance
 of true Urnings for women may be illustrated by passages from three of
 Krafft-Ebing's cases (pp. 117, 123, 163), which I will translate. (1) "I
 had observed that a girl was madly in love with me, and longed intensely
@@ -1421,32 +1421,32 @@ exhaustion, and the sense of an unnatural act performed without
 pleasure. This is true even of those who have brought themselves to
 marriage.
 
-<span id="fn_33"></span>[57:1](pme08.htm#fr_33) A sign, by the way,
+<span id="fn_33"></span>[57:1](pme08.htm#fr_33.md) A sign, by the way,
 which may be observed in the most masculine of athletes. This is very
 noticeable in the nude photographs of Sandow.
 
-<span id="fn_34"></span>[58:1](pme08.htm#fr_34) Englishmen know the type
+<span id="fn_34"></span>[58:1](pme08.htm#fr_34.md) Englishmen know the type
 as Mariannes, and had occasion to study their habits in the Boulton and
 Park trial. For the type in Paris, consult Carlier, *op. cit.*, pp.
 323-326, 339-351, 463.
 
-<span id="fn_35"></span>[61:1](pme08.htm#fr_35) I have used the German
+<span id="fn_35"></span>[61:1](pme08.htm#fr_35.md) I have used the German
 version of Lombroso's work, because of the translator's preface and
 occasional annotations.
 
-<span id="fn_36"></span>[63:1](pme08.htm#fr_36) See Dufour, "Histoire de
+<span id="fn_36"></span>[63:1](pme08.htm#fr_36.md) See Dufour, "Histoire de
 la Prostitution," vol. iii. (France, ch. i.) p. 193.
 
-<span id="fn_37"></span>[63:2](pme08.htm#fr_37) See Dufour, "Histoire de
+<span id="fn_37"></span>[63:2](pme08.htm#fr_37.md) See Dufour, "Histoire de
 la Prostitution," (France, chs. 6 and 7).
 
-<span id="fn_38"></span>[65:1](pme08.htm#fr_38) See above, [p.
-35](#page_35), for an ingenious definition by Dr. Huggard, which covers
+<span id="fn_38"></span>[65:1](pme08.htm#fr_38.md) See above, [p.
+35](#page_35.md), for an ingenious definition by Dr. Huggard, which covers
 both classes as born criminals and moral madmen.
 
-<span id="fn_39"></span>[67:1](pme08.htm#fr_39) His German translator
+<span id="fn_39"></span>[67:1](pme08.htm#fr_39.md) His German translator
 calls attention to this omission; p. 153, footnote.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Literature--Historical, Anthropological](pme09)
+[Next: VI. Literature--Historical, Anthropological](pme09.md)

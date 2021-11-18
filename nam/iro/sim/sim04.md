@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim03)  [Next](sim05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim03)  [Next](sim05.md) 
 
 ------------------------------------------------------------------------
 
@@ -383,4 +383,4 @@ The man-eater never ate human flesh again.
 
 ------------------------------------------------------------------------
 
-[Next: Géha Aids A Deserted Boy](sim05)
+[Next: Géha Aids A Deserted Boy](sim05.md)

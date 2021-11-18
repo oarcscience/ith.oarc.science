@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sbc02)  [Next](sbc04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sbc02)  [Next](sbc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ whole that first led me to make this attempt. I make no doubt but the
 distinction of rites between the Celtic and non-Celtic tribes was once
 as firm as the distinction between tribesman and non-tribesman, which
 Mr. Seebohm has shown to be an important feature of Celtic law. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_4">p. 4</span>
 
@@ -99,9 +99,9 @@ conceptions of life. The mythic influence of the conquered tribes ought
 not to be forgotten. But it needs consideration likewise that tribes now
 united into a nation may formerly have held customs quite different from
 what they do now. The common Gadhelic sayings: 'it is mother-affinity
-(friendship) that is nearest'; <span id="fr_1"></span>[1](#fn_1) 'I will
+(friendship) that is nearest'; <span id="fr_1"></span>[1](#fn_1.md) 'I will
 not say brother save to the son that my mother bore,' <span
-id="fr_2"></span>[2](#fn_2) point back to the Pictish social system,
+id="fr_2"></span>[2](#fn_2.md) point back to the Pictish social system,
 according to which descent was reckoned in the female line. This, it has
 been argued, is a feature which the Picts owed to non-Aryan
 predecessors. But may not a race in the course of its long history be
@@ -109,10 +109,10 @@ led to change its customs from within? Wherever we meet with descent
 reckoned in the female line, are we in presence of the non-Aryan? Mr.
 Frazer shows how in royal families in Latium and in Greece the daughters
 were kept at home, and the sons went forth to marry princesses and reign
-among their wives’ peoples; <span id="fr_3"></span>[3](#fn_3) he says
+among their wives’ peoples; <span id="fr_3"></span>[3](#fn_3.md) he says
 that "among the Saxons and their near kinsmen the Varini it appears to
 have been a regular custom for the new king to marry his
-stepmother." <span id="fr_4"></span>[4](#fn_4)
+stepmother." <span id="fr_4"></span>[4](#fn_4.md)
 
 And further: "Attic usage always allowed a man to marry his half-sister
 by the same father, but not his half-sister by the same mother. Such a
@@ -120,12 +120,12 @@ rule seems clearly to be a relic of a tune when kingship
 
 <span id="page_5">p. 5</span>
 
-was counted only through women." <span id="fr_5"></span>[1](#fn_5) He
+was counted only through women." <span id="fr_5"></span>[1](#fn_5.md) He
 instances also the great house of Aeacus in Greece, the grandfather of
 Achilles and Ajax, and the family of the Pelopidae. The relation of
 mother to child is of the first importance, and cults and customs ought
 not to be read without keeping it in view. After all, as Professor
-Gilbert Murray <span id="fr_6"></span>[2](#fn_6) has pointed out fitly,
+Gilbert Murray <span id="fr_6"></span>[2](#fn_6.md) has pointed out fitly,
 the Matriarchate is one of the great civilising influences of mankind.
 
 What is now but a mere 'survival' was once the sole substitute for our
@@ -148,7 +148,7 @@ Christian
 
 <span class="contnote">\[paragraph continues\]</span> Religion existed
 among the ancients, and in fact was with the human race from the
-beginning. <span id="fr_7"></span>[1](#fn_7) It is his way of expressing
+beginning. <span id="fr_7"></span>[1](#fn_7.md) It is his way of expressing
 the idea of religious persistencies. These have various origins,
 although the composite elements are ultimately brought under one
 dominant thought which was latent in the rites from the beginning.
@@ -181,7 +181,7 @@ shadow which pure duration projects into homogeneous space. Hence our
 life unfolds itself in space rather than in time; we live for the
 external world rather than for ourselves; we speak rather than think; we
 'are acted' rather than act ourselves." <span
-id="fr_8"></span>[1](#fn_8) As living in space man becomes involved in a
+id="fr_8"></span>[1](#fn_8.md) As living in space man becomes involved in a
 system of ritual prohibitions: *do not*. They are solemn declarations
 framed for his well-being, and need to be tested in practice. The taboos
 of other races are present with the Gael as *gessa* or sacred
@@ -209,7 +209,7 @@ Irish *crabud*, 'faith'; cognate with Cymric *crefydd*. In the Highlands
 the adjective *cràbhach* is applied to one who is devout and observant
 of pious rites. The root of the word is met with in Sanskrit
 *vi-çrambh*, 'trust.' The rites of religion <span
-id="fr_9"></span>[1](#fn_9) (*cràbhadh*) are the various avenues of
+id="fr_9"></span>[1](#fn_9) (*cràbhadh*.md) are the various avenues of
 approaching the Being in whom one has trust, expressed or implied. But
 heart-giving has a side which implies belief inclusive of heart-consent.
 In Gadhelic this is expressed by the word *creideamh*; Old Irish
@@ -307,9 +307,9 @@ cognate with Gothic *bidjan* 'ask,' and English *bidding*, surviving in
 
 The potency of strong entreaty is witnessed to in the Highland saying:
 'a witch will get her wish though her soul should not receive
-mercy.' <span id="fr_10"></span>[1](#fn_10) Even the dead can take
+mercy.' <span id="fr_10"></span>[1](#fn_10.md) Even the dead can take
 fuller vengeance than the living, and the death-bed entreaty <span
-id="fr_11"></span>[2](#fn_11) binds the survivor.
+id="fr_11"></span>[2](#fn_11.md) binds the survivor.
 
 The religious sentiment *includes* belief in the potency of the word.
 Hence the easy and too common delusion that religion derives from magic.
@@ -323,21 +323,21 @@ either rests or works its way out of towards a more abiding content. The
 rhythmic formula or *carmen* (whence *charm*), older *can-men*, in root
 cognate with Gadhelic, *can*, 'to say,' had such occult power that,
 according to Virgil, it could draw the moon from the sky. <span
-id="fr_12"></span>[1](#fn_12) And so close is the connection between the
+id="fr_12"></span>[1](#fn_12.md) And so close is the connection between the
 prayer and the spell that the word that once signified the former may be
 degraded to signify the latter. One example is the following.
 
 When a witch has bespelled a man, the modern Gadhelic phrase is: 'she
-has put the *ōrth* (spell) in him.' <span id="fr_13"></span>[2](#fn_13)
+has put the *ōrth* (spell) in him.' <span id="fr_13"></span>[2](#fn_13.md)
 This word, however, is but a loan from the Latin *orationem*; the
 accusative in Early Irish is *orthain*, 'prayer,' in which sense the
 word is met with on an Iona tombstone. As in everything else, there is
 such a thing as deterioration in religion, as the above transition of
 meaning manifests. One must guard against deriving religion from magic
 or identifying it therewith. For 'charm, incantation,' the native word
-is *obaidh*. <span id="fr_14"></span>[3](#fn_14) When a witch is
+is *obaidh*. <span id="fr_14"></span>[3](#fn_14.md) When a witch is
 credited with having bespelled a man the Highlander says: 'she gave him
-a word.' <span id="fr_15"></span>[4](#fn_15) Connected of old with the
+a word.' <span id="fr_15"></span>[4](#fn_15.md) Connected of old with the
 power of the word was that of the satirist, who could raise blotches on
 the face or rhyme an enemy to death.
 
@@ -346,7 +346,7 @@ spell for this purpose is
 
 <span id="page_12">p. 12</span>
 
-known in Uist as *Fāth-Fīth*. <span id="fr_16"></span>[1](#fn_16) Irish
+known in Uist as *Fāth-Fīth*. <span id="fr_16"></span>[1](#fn_16.md) Irish
 has *fāth*, 'a kind of poem,' which I suggest is cognate with Cymric
 *gwawd*, panegyric; O. English *wóet*; O. Norse *ōðr*, song, poetry,
 metre. Near allied are Irish *fāith*, prophet, Latin *vates*, Gothic
@@ -357,7 +357,7 @@ associated with prophecy and prediction in a way that allows them being
 regarded as the authors. Rhŷs asks why the Gadhelic women warriors in
 Gloucestershire were described in Welsh as witches (*gwiddonod*), and
 adds: "It is unfortunate that the etymology of the word eludes my
-search." <span id="fr_17"></span>[2](#fn_17) I believe it is from the
+search." <span id="fr_17"></span>[2](#fn_17.md) I believe it is from the
 magic power of the word. *Fīth* has no connection with the term *fī*
 still met with in the asseveration: *Gu’n gabh am Fī thu* = may the Evil
 One take thee! Here *Fī* is cognate with Ir. *fī*, bad (Cormac,
@@ -376,7 +376,7 @@ woman was hung wrongously on a tree and eaten to death by the flies; ere
 dying she pronounced a curse imprecating childlessness on those who
 should hereafter live there, a curse that was held to have been
 literally fulfilled. A deathbed entreaty (*corrachd*, <span
-id="fr_18"></span>[1](#fn_18) Ir. *coruigheacht*) had special force
+id="fr_18"></span>[1](#fn_18) Ir. *coruigheacht*.md) had special force
 because of the revenant (*tathaich*) spirit which was credited with
 power to injure the living. I've heard a person declare to another as to
 coming back after death: 'when I rise up it is thou who wilt get the
@@ -406,7 +406,7 @@ instance of this magic is that of 'turning-the-heart in lead' (*cridhe
 luadhainn*, t*ionndadh cridhe*), which I have seen done in the Highlands
 several times. A rite somewhat similar existed in the Austrian Tyrol,
 and in parts of Germany, and J. Grimm traced it to Greece. <span
-id="fr_19"></span>[1](#fn_19) In the Highlands, when a friend has
+id="fr_19"></span>[1](#fn_19.md) In the Highlands, when a friend has
 something the matter with the heart, a wise man who knows this
 rite,—living at a distance makes no difference,—melts some lead which he
 pours through a key taken from the outer door over a basin of cold
@@ -423,7 +423,7 @@ Another rite which I have often heard of is that
 
 of the clay-body (*corp criadh*), the magic of which rests on the
 principle of similarity. It is fairly common in Celto-Latin lands. <span
-id="fr_20"></span>[1](#fn_20) A figure is made of clay, and either the
+id="fr_20"></span>[1](#fn_20.md) A figure is made of clay, and either the
 whole or the parts which it is desired to injure are covered with pins
 and nails to the accompaniment of maledictions; the image is then buried
 in the ground or placed in a stream in a somewhat inaccessible locality,
@@ -436,7 +436,7 @@ pains. On a search having been made, the supposed effigy of the minister
 was found, as also an old bladder, with pins, rusty nails and skewers.
 This female practitioner was sentenced to be executed, "and just before
 she was bound to the stake, confessed the crime for which she was about
-to suffer." <span id="fr_21"></span>[2](#fn_21) In the Highlands there
+to suffer." <span id="fr_21"></span>[2](#fn_21.md) In the Highlands there
 are instances of quite recent occurrence. I quote from a reliable writer
 of recent date, simply changing the spelling *Creagh* into *Criadh*, as
 being more correct philologically:
@@ -471,12 +471,12 @@ among some hay she found, not eggs, but the *Corp*. There is reason to
 believe that during the land agitation and strife which have of recent
 years occupied the Highlands, the rite was practised in connection with
 some of the land-leaguers who had made themselves obnoxious to their
-fellows." <span id="fr_22"></span>[1](#fn_22)
+fellows." <span id="fr_22"></span>[1](#fn_22.md)
 
 <span id="page_17">p. 17</span>
 
 The power of the 'word' is seen in magic charms to stop blood and
-bleeding. Moore <span id="fr_23"></span>[1](#fn_23) gives instances for
+bleeding. Moore <span id="fr_23"></span>[1](#fn_23.md) gives instances for
 the Isle of Man. And I know of instances where persons yet alive believe
 in the Blood-spell, and have a charm for stanching blood (Eolas, Casga
 Fola). In Sutherland, Ross and Inverness its efficacy depends on its
@@ -488,7 +488,7 @@ conceived word on which J. Grimm lays stress as the essential requisite
 of the magic if it is to be effective. Osthoff would equate *bricht*
 with Icel. *bragr*, 'poetry, art of poetry,' and with the Sanskrit
 *brahman*, on the assumption that it means 'magic, witchcraft.' <span
-id="fr_24"></span>[2](#fn_24)
+id="fr_24"></span>[2](#fn_24.md)
 
 The power of the word even as acting at a distance is still tacitly
 believed in: *e.g*. the phrase, *Cearr nam ban is deas nam fear*, is
@@ -509,7 +509,7 @@ himself. "Good," answered an echo from a neighbouring hill. "What!"
 exclaimed the Creator, "Is some one here already? Am not I first?" "I
 first," answered the echo. Therefore, the Mangaians assert, the earliest
 of all existences is the bodiless voice. It is their way of saying, "In
-the beginning was the Word." <span id="fr_25"></span>[1](#fn_25)
+the beginning was the Word." <span id="fr_25"></span>[1](#fn_25.md)
 
 Unless one named the day, a witch could hear one speaking of her on a
 Friday even if far off. Hence one said: *an diu Di-h-aoine, cha chluinn
@@ -536,9 +536,9 @@ in the Name of the
 
 <span class="contnote">\[paragraph continues\]</span> Father, the Son
 and the Holy Ghost. To counteract evils the name is even changed. <span
-id="fr_26"></span>[1](#fn_26) For the soul is regarded as in the name.
+id="fr_26"></span>[1](#fn_26.md) For the soul is regarded as in the name.
 It is forbidden to awaken one who is suffering from night-mare
-(*trom-laighe*) <span id="fr_27"></span>[2](#fn_27) unless one has first
+(*trom-laighe*) <span id="fr_27"></span>[2](#fn_27.md) unless one has first
 summoned him by name. The inference is that his soul is away and is to
 be called back by the ritual use of the person's name; the old folks
 therefore enjoined one: *na dūisg e gun ghairm air ainm* = do not waken
@@ -567,7 +567,7 @@ the name of a deceased person is to be traced back in the old Icelandic
 sagas, where a dying person often appeals to another to name a future
 child after him, because he expected advantage from it." Mr. Hartland
 infers that he thereby expected to secure a new birth. <span
-id="fr_28"></span>[1](#fn_28) In the case of a child's death, if he has
+id="fr_28"></span>[1](#fn_28.md) In the case of a child's death, if he has
 borne the name of a deceased relative, it is often held unlucky in the
 Highlands to give the same name to another child; but that is aside from
 the main desire of 'raising the name.'
@@ -595,7 +595,7 @@ saint. Cognate is O. Welsh *minn*, 'sertum'; MacBain compares O.H.G.
 <span id="page_21">p. 21</span>
 
 ornament,' Ag. S. *mene*, 'neck chain,' L. *monile*. <span
-id="fr_29"></span>[1](#fn_29) How far the idea of the soul is expressed
+id="fr_29"></span>[1](#fn_29.md) How far the idea of the soul is expressed
 under the sense of touch we will consider later under the custom of
 'touching the corpse.'
 
@@ -627,7 +627,7 @@ curative virtues: to drink water from the skull of a dead man is
 believed in as a cure for epilepsy, and has been to my knowledge
 faithfully carried out lately (1909). A draught of the spirit of human
 skull was a part of the medical treatment in vogue in former times in
-higher circles. <span id="fr_30"></span>[1](#fn_30) Even the human hair
+higher circles. <span id="fr_30"></span>[1](#fn_30.md) Even the human hair
 as associated with the idea of soul is beloved as a keepsake, and is
 treasured as a remembrance in far-away lands. A stanza from a Highland
 poem runs:
@@ -659,7 +659,7 @@ the wife would eat the after-birth of another woman, the children would
 come back. It was the custom of the late Mrs. G. (a certain midwife) to
 cause women who for the first time became mothers bite the placenta
 thrice. The mother thereafter would not suffer the pains of
-childbirth." <span id="fr_31"></span>[1](#fn_31)
+childbirth." <span id="fr_31"></span>[1](#fn_31.md)
 
 On no account was the after-birth to be carelessly thrown outside, lest
 dogs should get it; it was to be decently buried under a tree or
@@ -667,8 +667,8 @@ carefully burnt. The old midwives sometimes were wont to keep a portion,
 and this when roasted they ordered to be drunk with water in cases of
 sterility. In Ireland I find that "an after-birth must be burned to
 preserve the child from the fairies." <span
-id="fr_32"></span>[2](#fn_32) The omphalos <span
-id="fr_33"></span>[3](#fn_33) was in
+id="fr_32"></span>[2](#fn_32.md) The omphalos <span
+id="fr_33"></span>[3](#fn_33.md) was in
 
 <span id="page_24">p. 24</span>
 
@@ -677,8 +677,8 @@ and was mixed with water and given to the child to drink. The cord was
 sacred, as it united the unborn infant to the life of the mother; it was
 held to retain life in some mysterious manner. In Greece the navel or
 omphalos is the symbol of the Earth-Mother; <span
-id="fr_34"></span>[1](#fn_34) for Brazil, Southey <span
-id="fr_35"></span>[2](#fn_35) says: "Immediately upon a woman's delivery
+id="fr_34"></span>[1](#fn_34.md) for Brazil, Southey <span
+id="fr_35"></span>[2](#fn_35.md) says: "Immediately upon a woman's delivery
 the father takes to his hammock, covers himself up, and is nurst there
 till the navel string of the infant has dried away; the union between
 him and his progeny is regarded as so intimate that care must be taken
@@ -690,13 +690,13 @@ to go alone to that spot and perform certain ceremonies. From other
 parallels, therefore, I conclude that the Celtic ritual of the
 navel-string was due to some connection with the life of the soul, as it
 was imagined. "The navel-string and the placenta are often regarded as
-external souls." <span id="fr_36"></span>[3](#fn_36) Blood drunk from
+external souls." <span id="fr_36"></span>[3](#fn_36.md) Blood drunk from
 the child's navel and eating the dried remains of the navel-string
 
 <span id="page_25">p. 25</span>
 
 are approved folk-cures for sterility elsewhere. <span
-id="fr_37"></span>[1](#fn_37)
+id="fr_37"></span>[1](#fn_37.md)
 
 Further, among body-parts mythic thought interprets the soul as in the
 eye (the Evil Eye).
@@ -710,7 +710,7 @@ and glance of some persons can radiate around us a divine joy, while
 others may kill the soul with a sneer or frown. We call these subtle
 influences mysteries, but the early races believed them to be produced
 by spirits good or evil, as they acted on the nerves of the
-intellect. <span id="fr_38"></span>[2](#fn_38)
+intellect. <span id="fr_38"></span>[2](#fn_38.md)
 
 All races have a belief in the power of the eye which but expresses the
 soul. The soul is not thought of as confined to any one single organ of
@@ -718,20 +718,20 @@ the body. The Romans spoke of the fascination of an evil tongue: *mala
 fascinare lingua* (Catullus, vii. 12); *ne vati noceat mala lingua
 futuro* (Virgil, *Bucol*. Ecl. vii. 28).
 
-But the Romans <span id="fr_39"></span>[3](#fn_39) were pre-eminently
+But the Romans <span id="fr_39"></span>[3](#fn_39.md) were pre-eminently
 familiar
 
 <span id="page_26">p. 26</span>
 
 with the evil eye and its cure; in Spain <span
-id="fr_40"></span>[1](#fn_40) the evil eye is known as causing illness
+id="fr_40"></span>[1](#fn_40.md) the evil eye is known as causing illness
 (*querelar nasula*); Italy abounds with the belief; Sébillot <span
-id="fr_41"></span>[2](#fn_41) gives several instances of talismans used
+id="fr_41"></span>[2](#fn_41.md) gives several instances of talismans used
 for preserving one from the effects of the evil eye (*à la préserver du
 mauvais oeil*). The evil eye is due to soul-magic. In Scotland it is
 well known; suffice it to refer to the collections on this topic by the
-late Rev. J. G. Campbell <span id="fr_42"></span>[3](#fn_42) and by Dr.
-R. C. Maclagan. <span id="fr_43"></span>[4](#fn_43) Young infants are
+late Rev. J. G. Campbell <span id="fr_42"></span>[3](#fn_42.md) and by Dr.
+R. C. Maclagan. <span id="fr_43"></span>[4](#fn_43.md) Young infants are
 frequently believed to be overlooked; likewise cattle; a man may lay the
 evil eye even on what is his own property, as when a husband must on no
 account see the churning operations, as his glance would prevent the
@@ -753,7 +753,7 @@ or on brute: whoso hath laid on thee the eye, may it return on
 themselves or on their children, and, if children fail, on their
 substance: \[the person's name here\], may’st thou be in thy full
 health, in name of the Father, of the Son and of the Holy Spirit." <span
-id="fr_44"></span>[1](#fn_44) The water is then partly given as a drink
+id="fr_44"></span>[1](#fn_44.md) The water is then partly given as a drink
 to the child, partly sprinkled over it, and the rest is poured out over
 a large stone or boulder that is never moved by human hands. When rents
 make their appearance in such stones, these are ascribed to the
@@ -786,7 +786,7 @@ before he draws milk from his dam, then to take a bottle and draw milk
 from the four teats into the bottle, the person so doing being on one
 knee, and saying:
 
-Gum beannaicheadh Dia na cŭilean <span id="fr_45"></span>[1](#fn_45)
+Gum beannaicheadh Dia na cŭilean <span id="fr_45"></span>[1](#fn_45.md)
 so  
 Tha mise ’g iarraidh so ’n ainm Dhia  
 S cha n eil mi ’g iarraidh ach mo chuid fhéin.
@@ -811,7 +811,7 @@ A further stage of the concept of the Body-Soul is that of Blood Magic
 or *the Soul in the Blood*. The connection of the soul-life with the
 blood would naturally have been perceived from of old. Once the body was
 drained of the blood death ensued. The Irish collection of Church Canons
-quotes Lactantius <span id="fr_46"></span>[1](#fn_46) as to the nature
+quotes Lactantius <span id="fr_46"></span>[1](#fn_46.md) as to the nature
 of the soul, where he states that some held the soul to be fire, others
 said it was spirit, others that it was blood: fire, for it vivifies the
 body; spirit, for it breathes through the members; blood, for with the
@@ -888,7 +888,7 @@ On a block of oak they set his head,
   they shed his blood with a will;  
 On the ground they spilt it, and had I a cup  
   I would of it have quaffed my fill. <span
-id="fr_47"></span>[1](#fn_47)
+id="fr_47"></span>[1](#fn_47.md)
 
 Martin, in his *Western Isles*, says of the islanders: "Their ancient
 leagues of friendship were ratified by drinking a drop of each other's
@@ -896,7 +896,7 @@ blood, which was commonly drawn out of the little finger. This bond was
 religiously observed as a sacred bond; and if any person after such an
 alliance happened to violate the same, he was from that time reputed
 unworthy of all honest men's conversation." <span
-id="fr_48"></span>[2](#fn_48)
+id="fr_48"></span>[2](#fn_48.md)
 
 <span id="page_32">p. 32</span>
 
@@ -924,7 +924,7 @@ assembly!
 There was but one third of new milk, in its midst,  
 Another third was noble (?) wine, strange to me!  
 Men with bowed heads surrounded it (men who had come over a clear
-sea). <span id="fr_49"></span>[1](#fn_49)
+sea). <span id="fr_49"></span>[1](#fn_49.md)
 
 Conchobar beheld the Leinster men and the Ulaid around the vat, drinking
 its contents. "And I know," said the king of the Ulaid, "that this is
@@ -940,7 +940,7 @@ offer up." And he was explaining it in that wise, and he uttered a lay:
 
 Make for us a covenant, let it be for ever!  
 With the 'trees of wine,' with the kings from Liffey. <span
-id="fr_50"></span>[1](#fn_50)
+id="fr_50"></span>[1](#fn_50.md)
 
 The poet Spenser relates that during his stay in Ireland he saw a woman
 at Limerick drink the blood of her foster-son on his having been
@@ -973,18 +973,18 @@ blood-drinking:
 <span class="contnote">\[paragraph continues\]</span> "I could drink,
 though to the aversion of others, not of the red wine of Spain, but of
 the blood of thy body after being drowned." <span
-id="fr_51"></span>[1](#fn_51)
+id="fr_51"></span>[1](#fn_51.md)
 
 Irish references pointing to the idea of the soul in the blood may be
 met with, as we read of bursts of blood from the tips and nostrils of
 the man who knew that King Eochaid had the ears of a horse;  <span
-id="fr_52"></span>[2](#fn_52) of a swelling which grew from the head of
+id="fr_52"></span>[2](#fn_52.md) of a swelling which grew from the head of
 the lad who knew the secret of King Labraid's ears; <span
-id="fr_53"></span>[3](#fn_53) of washing in the blood of a king for
-leprosy. <span id="fr_54"></span>[4](#fn_54) And the late Dr. Wilde, in
+id="fr_53"></span>[3](#fn_53.md) of washing in the blood of a king for
+leprosy. <span id="fr_54"></span>[4](#fn_54.md) And the late Dr. Wilde, in
 his account of Irish folk-remedies, mentions the blood of the Welshes as
 well as that of the Keoghs and Cahills as a cure. <span
-id="fr_55"></span>[5](#fn_55) In Lewis blood taken from above the
+id="fr_55"></span>[5](#fn_55.md) In Lewis blood taken from above the
 patient's ankles was given as recently as in 1909 with a view to curing
 epilepsy,—an instance I formerly only tentatively included in the
 Appendix to my treatment of the *Norse Influence on Celtic Scotland*,
@@ -1043,13 +1043,13 @@ form of a sea-bird, with a stone from his sling, he contracted
 blood-brotherhood by sucking from the wound the stone with a clot of
 blood round it. "I cannot wed thee now," he said, "for I have drunk thy
 blood. But I will give thee to my companion here, Lug-aid of the Red
-Stripes." <span id="fr_56"></span>[1](#fn_56)
+Stripes." <span id="fr_56"></span>[1](#fn_56.md)
 
 The artificial tie of blood-brotherhood being reckoned a barrier to
 marriage pertains to a matriarchal stage of society, wherein descent is
 reckoned on the mother's side, and where the father is not reckoned as
 belonging to the kin of his children. <span
-id="fr_57"></span>[2](#fn_57) The father is not akin to his child. It is
+id="fr_57"></span>[2](#fn_57.md) The father is not akin to his child. It is
 the ethic of this stage that is reflected in such a tale as Conlaoch
 killing his own father Cūchulainn: the
 
@@ -1070,59 +1070,59 @@ binding the blood-covenant upon the hand.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](sbc03.htm#fr_0) *Tribal System in Wales*,
+<span id="fn_0"></span>[3:1](sbc03.htm#fr_0.md) *Tribal System in Wales*,
 pp. 54-60.
 
-<span id="fn_1"></span>[4:1](sbc03.htm#fr_1) *Is e cáirdeas na mathar as
+<span id="fn_1"></span>[4:1](sbc03.htm#fr_1.md) *Is e cáirdeas na mathar as
 dilse*.
 
-<span id="fn_2"></span>[4:2](sbc03.htm#fr_2) *Cha chan mi brathair ach
+<span id="fn_2"></span>[4:2](sbc03.htm#fr_2.md) *Cha chan mi brathair ach
 ris a’ mhac a rug mo mhathair*.
 
-<span id="fn_3"></span>[4:3](sbc03.htm#fr_3) Frazer, *Early History of
+<span id="fn_3"></span>[4:3](sbc03.htm#fr_3.md) Frazer, *Early History of
 the Kingship*, p. 238.
 
-<span id="fn_4"></span>[4:4](sbc03.htm#fr_4) *Ib*. p. 244.
+<span id="fn_4"></span>[4:4](sbc03.htm#fr_4.md) *Ib*. p. 244.
 
-<span id="fn_5"></span>[5:1](sbc03.htm#fr_5) *Ib*. p. 245. For the Picts
+<span id="fn_5"></span>[5:1](sbc03.htm#fr_5.md) *Ib*. p. 245. For the Picts
 *v*. Zimmer in my *Leabhar Nan Gleann*.
 
-<span id="fn_6"></span>[5:2](sbc03.htm#fr_6) *The Rise of the Greek
+<span id="fn_6"></span>[5:2](sbc03.htm#fr_6.md) *The Rise of the Greek
 Epic* (Heinemann), p. 76. Miss Harrison refers to a clue to matriarchal
 theology in Pythagoras (*Prolegomena*, 262) and points to indications of
 Mother-Right in St. Augustine (*ib*. 261<sup>n</sup>) "Matriarchy gave
 women a magical prestige," says Miss Harrison (*ib*. 285, cf. 272).
 
-<span id="fn_7"></span>[6:1](sbc03.htm#fr_7) Res ipsa, quae nunc religio
+<span id="fn_7"></span>[6:1](sbc03.htm#fr_7.md) Res ipsa, quae nunc religio
 Christiana nuncupatur, erat apud antiquos nec defuit ab initio generis
 humani. . . .
 
-<span id="fn_8"></span>[7:1](sbc03.htm#fr_8) Bergson's Time and Free
+<span id="fn_8"></span>[7:1](sbc03.htm#fr_8.md) Bergson's Time and Free
 Will, p. 231.
 
-<span id="fn_9"></span>[8:1](sbc03.htm#fr_9) The L. *religi*o implies
+<span id="fn_9"></span>[8:1](sbc03.htm#fr_9.md) The L. *religi*o implies
 carefulness and diligence in things pertaining to rites of devotion; it
 is the very opposite of negligence. The recent attempt to connect it
 with *religare* in the sense of 'binding the god' is erroneous to my
 thinking.
 
-<span id="fn_10"></span>[10:1](sbc03.htm#fr_10) Gheobh baobh a guidhe
+<span id="fn_10"></span>[10:1](sbc03.htm#fr_10.md) Gheobh baobh a guidhe
 ged nach fhaigheadh a h -anam tròcair.
 
-<span id="fn_11"></span>[10:2](sbc03.htm#fr_11) Cŏrrachd.
+<span id="fn_11"></span>[10:2](sbc03.htm#fr_11.md) Cŏrrachd.
 
-<span id="fn_12"></span>[11:1](sbc03.htm#fr_12) Carmina vel caelo
+<span id="fn_12"></span>[11:1](sbc03.htm#fr_12.md) Carmina vel caelo
 possunt deducere lunam.
 
-<span id="fn_13"></span>[11:2](sbc03.htm#fr_13) Chuir i an òrth’ ann.
+<span id="fn_13"></span>[11:2](sbc03.htm#fr_13.md) Chuir i an òrth’ ann.
 
-<span id="fn_14"></span>[11:3](sbc03.htm#fr_14) Also *ubaidh*; *ubag*;
+<span id="fn_14"></span>[11:3](sbc03.htm#fr_14.md) Also *ubaidh*; *ubag*;
 *ob* (rarely)—all from the root *ba*, 'to speak,' utter.
 
-<span id="fn_15"></span>[11:4](sbc03.htm#fr_15) Thug i facal da (common
+<span id="fn_15"></span>[11:4](sbc03.htm#fr_15.md) Thug i facal da (common
 speech).
 
-<span id="fn_16"></span>[12:1](sbc03.htm#fr_16) *v. Carmina Gadelica*.
+<span id="fn_16"></span>[12:1](sbc03.htm#fr_16.md) *v. Carmina Gadelica*.
 Joyce has suggested that here we have the origin of the words which head
 St. Patrick's hymn *Faeth Fiada* (with the *d* aspirated?), long
 rendered as the guardsman's cry, the deer's cry, but really a 'spell'
@@ -1132,53 +1132,53 @@ Loigaire, the king saw but eight deer and a fawn making for the wilds.
 The monarch returned to Tara in the morning twilight, disheartened and
 ashamed. For *Transformation into Animal Form*, v. ch. ii.
 
-<span id="fn_17"></span>[12:2](sbc03.htm#fr_17) *Anthropological Essays
+<span id="fn_17"></span>[12:2](sbc03.htm#fr_17.md) *Anthropological Essays
 presented to E. B. Tylor*, Oxford, p. 293.
 
-<span id="fn_18"></span>[13:1](sbc03.htm#fr_18) For Ness, Lewis, I noted
+<span id="fn_18"></span>[13:1](sbc03.htm#fr_18.md) For Ness, Lewis, I noted
 the word with a long ō: *tha mi ’ga chur cōrachd ort*, *i.e.* I place on
 thee a stipulation not to be broken; while for Lorne I got the phrase:
 *chuir e cōrachd air a theangaidh*, 'he spoke as if he disguised or hid
 his speech,' which must be a secondary meaning; in any case it is not
 mine, which is invariably 'a death-bed entreaty.'
 
-<span id="fn_19"></span>[14:1](sbc03.htm#fr_19) "Apparently of Greek
+<span id="fn_19"></span>[14:1](sbc03.htm#fr_19.md) "Apparently of Greek
 origin is the widely-received custom of pouring out lead; even Ihre
 mentions it: cf. molybdomantia ex plumbi lique facti diversis motibus
 (Potter's *Arch*. i. 339), *i.e.* lead-divination from the divers
 motions of liquid lead."—Grimm's Germ. Myth. 1118.
 
-<span id="fn_20"></span>[15:1](sbc03.htm#fr_20) Sébillot, *Le Paganisme
+<span id="fn_20"></span>[15:1](sbc03.htm#fr_20.md) Sébillot, *Le Paganisme
 Contemporain chez les Peuples Celto-Latins*, pp. 152-157, *re*
 envoûtement.
 
-<span id="fn_21"></span>[15:2](sbc03.htm#fr_21) Moore, *Folk Lore of the
+<span id="fn_21"></span>[15:2](sbc03.htm#fr_21.md) Moore, *Folk Lore of the
 Isle of Man*, p. 90, quoting Train.
 
-<span id="fn_22"></span>[16:1](sbc03.htm#fr_22) Sheila MacDonald in
+<span id="fn_22"></span>[16:1](sbc03.htm#fr_22.md) Sheila MacDonald in
 *Folk Lore* for 1903, 373-374.
 
-<span id="fn_23"></span>[17:1](sbc03.htm#fr_23) *Folk Lore of the Isle
+<span id="fn_23"></span>[17:1](sbc03.htm#fr_23.md) *Folk Lore of the Isle
 of Man* pp. 96-99. Cf. for Ireland O’Foharta's *Siamsa an Gheimhridh*,
 and *An Lóchrann* (Tralee, Kerry, 1910).
 
-<span id="fn_24"></span>[17:2](sbc03.htm#fr_24) *Bezz. Beit.* xxiv.,
+<span id="fn_24"></span>[17:2](sbc03.htm#fr_24.md) *Bezz. Beit.* xxiv.,
 Göttingen, 1899, p. 113. Allerhand Zauber etymologisch beleuchtet.
 
-<span id="fn_25"></span>[18:1](sbc03.htm#fr_25) Gill's *Myths and Songs
+<span id="fn_25"></span>[18:1](sbc03.htm#fr_25.md) Gill's *Myths and Songs
 of the South Pacific*, pp. 86-87.
 
-<span id="fn_26"></span>[19:1](sbc03.htm#fr_26) J. G. Campbell's
+<span id="fn_26"></span>[19:1](sbc03.htm#fr_26.md) J. G. Campbell's
 *Superstitions*, p. 245.
 
-<span id="fn_27"></span>[19:2](sbc03.htm#fr_27) What *trom* may be here
+<span id="fn_27"></span>[19:2](sbc03.htm#fr_27.md) What *trom* may be here
 is uncertain: cf. *trom-dhée*, 'household gods,' in E. Irish; *trom*
 usually is 'heavy, oppressive.'
 
-<span id="fn_28"></span>[20:1](sbc03.htm#fr_28) *Primitive Paternity*,
+<span id="fn_28"></span>[20:1](sbc03.htm#fr_28.md) *Primitive Paternity*,
 i. 225 (Folk-Lore Soc. issue).
 
-<span id="fn_29"></span>[21:1](sbc03.htm#fr_29) The power of the word as
+<span id="fn_29"></span>[21:1](sbc03.htm#fr_29.md) The power of the word as
 seen in the curse is evidenced by the Manx phrase *Mollaght Mynney*,
 which Moore (*Folk-Lore of the Isle of Man*, 11<sup>n</sup>) says, "is
 the bitterest curse in our language, that leaves neither root nor
@@ -1191,10 +1191,10 @@ Ireland: *dar brígh na gréine ’s na gealaighe*, 'by the virtue or
 essence of the sun and of the moon' (*Lúb na Caillighe*, p. 20; ed. S.
 Laoide, *Connradh na Gaedhilge, i mBaile Atha Cliath*).
 
-<span id="fn_30"></span>[22:1](sbc03.htm#fr_30) Cf. *The Last Days of
+<span id="fn_30"></span>[22:1](sbc03.htm#fr_30.md) Cf. *The Last Days of
 Charles II*., by R. Crawfurd, M.D. (Oxford: Clarendon Press).
 
-<span id="fn_31"></span>[23:1](sbc03.htm#fr_31) Bha iad glē thoigheach
+<span id="fn_31"></span>[23:1](sbc03.htm#fr_31.md) Bha iad glē thoigheach
 mu’n teārnadh: nan rachadh an teārnadh a losgadh ann san rathad chlī cha
 bhiodh tuille cloinne aig a bhean (*sic*). Bha eagal mór air na mnathan
 glūine roimh so mus biodh iad a gabhail beatha fheadhainn eile. Ach nan
@@ -1203,34 +1203,34 @@ air ais. B’ābhaist do bhean I. G. nach maireann a thoir air bean air a
 chiad chloinn trī caoban thoir as a’ chochull bha m’an cuairt do’n
 leanabh. Chan fhuilingeadh am mathair piantan cloinne an deighidh sin.
 
-<span id="fn_32"></span>[23:2](sbc03.htm#fr_32) Kinahan's *Notes on
+<span id="fn_32"></span>[23:2](sbc03.htm#fr_32.md) Kinahan's *Notes on
 Irish Folklore; v. Folklore Record*, iv. p. 104.
 
-<span id="fn_33"></span>[23:3](sbc03.htm#fr_33) G. *imleag*, *ilmeag*,
+<span id="fn_33"></span>[23:3](sbc03.htm#fr_33.md) G. *imleag*, *ilmeag*,
 E. Ir. *imbliu*, cognate with L. *umbilicus*, Gr. ὀμφαλός, E. *navel*,
 Skr. *nā́bhi*, *nâbhîla*.
 
-<span id="fn_34"></span>[24:1](sbc03.htm#fr_34) Harrison's
+<span id="fn_34"></span>[24:1](sbc03.htm#fr_34.md) Harrison's
 *Prolegomena*, 321. As to Earth-Mother, I noted a children's game in
 Eriskay called *Mathair Mhór*, 'Big Mother,' where the mother was
 feigned to be a pig! It is possibly a relic of early ritual.
 
-<span id="fn_35"></span>[24:2](sbc03.htm#fr_35) *Hist. of Brazil*, i.
+<span id="fn_35"></span>[24:2](sbc03.htm#fr_35.md) *Hist. of Brazil*, i.
 238.
 
-<span id="fn_36"></span>[24:3](sbc03.htm#fr_36) Crawley: *Tree of Life*,
+<span id="fn_36"></span>[24:3](sbc03.htm#fr_36.md) Crawley: *Tree of Life*,
 p. 226. Mr. Crawley points out that the soul is often placed on a tree
 for safe keeping. Cf. Hazlitt's *Dict. of Faiths and Folklore*, sub Heam
 = after burthen, secundine. The afterbearth of cows was put on a
 hawthorn bush with faith that they shall have a cow next year (*ib*.).
 
-<span id="fn_37"></span>[25:1](sbc03.htm#fr_37) Hartland, *Prim.
+<span id="fn_37"></span>[25:1](sbc03.htm#fr_37.md) Hartland, *Prim.
 Patern*. I. 70; ii. 276.
 
-<span id="fn_38"></span>[25:2](sbc03.htm#fr_38) Lady Wilde's *Ancient
+<span id="fn_38"></span>[25:2](sbc03.htm#fr_38.md) Lady Wilde's *Ancient
 Legends of Ireland*, vol. i. p. 37.
 
-<span id="fn_39"></span>[25:3](sbc03.htm#fr_39) *E.g.* Non istic obliquo
+<span id="fn_39"></span>[25:3](sbc03.htm#fr_39.md) *E.g.* Non istic obliquo
 oculo mea commoda quisquam limat,—Horace, *Epist*. I. xiv. 37; Nescio
 quis teneros oculus mihi fascinat agnos,—Virgil, *Bucol*. Ecl. iii. 103;
 conspiciturque sinus,—Juvenal, *Sat*. vii. 112; Ter cana, ter dictis
@@ -1240,20 +1240,20 @@ spuendo in sinum,—Pliny, xxviii. 4, 7. The shepherd in Theocritus
 thrice into his own lap in order to save himself from the consequences
 of self-admiration.
 
-<span id="fn_40"></span>[26:1](sbc03.htm#fr_40) Cf. G. Borrow, *The
+<span id="fn_40"></span>[26:1](sbc03.htm#fr_40.md) Cf. G. Borrow, *The
 Zincal*, pt. I. c. viii.
 
-<span id="fn_41"></span>[26:2](sbc03.htm#fr_41) P. 205.
+<span id="fn_41"></span>[26:2](sbc03.htm#fr_41.md) P. 205.
 
-<span id="fn_42"></span>[26:3](sbc03.htm#fr_42) *Superstitions* and
+<span id="fn_42"></span>[26:3](sbc03.htm#fr_42.md) *Superstitions* and
 *Witchcraft*.
 
-<span id="fn_43"></span>[26:4](sbc03.htm#fr_43) *The Evil Eye in the
+<span id="fn_43"></span>[26:4](sbc03.htm#fr_43.md) *The Evil Eye in the
 West Highlands*. There is a German work by S. Seligmann, *Der böse blick
 u. Vermandtes: Ein Beitrag zur Geschichte des Abenglaubens aller Zeiten
 u. Völker*, 2 vols.
 
-<span id="fn_44"></span>[27:1](sbc03.htm#fr_44)
+<span id="fn_44"></span>[27:1](sbc03.htm#fr_44.md)
 
 Labhair Criosd an dorus na cathrach  
 Trī ghairmeachduinn cho ceart:  
@@ -1267,17 +1267,17 @@ gu’n till i orra-fhéin no air an cloinn
     Thu-sa bhiodh ’nad iom-shlāint  
     Ann an ainm an Athar, a Mhic, ’s a Spioraid Naoimh.
 
-<span id="fn_45"></span>[28:1](sbc03.htm#fr_45) I.e. *cuidh-lainn*,
+<span id="fn_45"></span>[28:1](sbc03.htm#fr_45.md) I.e. *cuidh-lainn*,
 'cattle-folds': may God bless these cattle-folds! This I am asking in
 the name of God, nor am I asking but for mine own.
 
-<span id="fn_46"></span>[29:1](sbc03.htm#fr_46) Lactantius ait: Alii
+<span id="fn_46"></span>[29:1](sbc03.htm#fr_46.md) Lactantius ait: Alii
 animam ignem esse dixerunt, alii spiritum, alii sanguinem. Ignem dicunt,
 quia vivificat corpus, spiritum quia spirat per membra, sanguinem, quia
 cum sanguine migrat. Wasserschleben, *Die Irische Canonensammlung*, 2nd
 ed. 1885, p. 233.
 
-<span id="fn_47"></span>[31:1](sbc03.htm#fr_47) The original of the last
+<span id="fn_47"></span>[31:1](sbc03.htm#fr_47.md) The original of the last
 stanza I quote from memory:
 
 Chuir iad a cheann air ploc daraich  
@@ -1288,38 +1288,38 @@ Nan robh agam-s’ an sin copan
 <span class="contnote">\[paragraph continues\]</span> A version of the
 original is accessible in Rev. Maclean Sinclair's *Gaelic Bards*.
 
-<span id="fn_48"></span>[31:2](sbc03.htm#fr_48) *Western Isles*, p. 109
+<span id="fn_48"></span>[31:2](sbc03.htm#fr_48.md) *Western Isles*, p. 109
 of ed. of 1716.
 
-<span id="fn_49"></span>[32:1](sbc03.htm#fr_49) *Rev. Celtique*, 13, p.
+<span id="fn_49"></span>[32:1](sbc03.htm#fr_49.md) *Rev. Celtique*, 13, p.
 75.
 
-<span id="fn_50"></span>[33:1](sbc03.htm#fr_50) *Ib*. 13, 75.
+<span id="fn_50"></span>[33:1](sbc03.htm#fr_50.md) *Ib*. 13, 75.
 
-<span id="fn_51"></span>[34:1](sbc03.htm#fr_51) The original words are:
+<span id="fn_51"></span>[34:1](sbc03.htm#fr_51.md) The original words are:
 
 Dh’ ōlainn deoch ge b’oil le cāch e  
 Cha b’ann dh’fhīon dearg na Spāinne,  
 Dh’ fhuil do chuim ’s to ’n deidh bāthadh.
 
-<span id="fn_52"></span>[34:2](sbc03.htm#fr_52) *Otia Mersiana*, iii.
+<span id="fn_52"></span>[34:2](sbc03.htm#fr_52.md) *Otia Mersiana*, iii.
 48.
 
-<span id="fn_53"></span>[34:3](sbc03.htm#fr_53) *Rev. Celt*. ii. 197.
+<span id="fn_53"></span>[34:3](sbc03.htm#fr_53.md) *Rev. Celt*. ii. 197.
 
-<span id="fn_54"></span>[34:4](sbc03.htm#fr_54) Keating's *Hist. of
+<span id="fn_54"></span>[34:4](sbc03.htm#fr_54.md) Keating's *Hist. of
 Ireland* (Irish Texts Soc.), i. 323.; cf. what Keating says of the
 Druids, *ib*. 349.
 
-<span id="fn_55"></span>[34:5](sbc03.htm#fr_55) Wilde, *Irish Popular
+<span id="fn_55"></span>[34:5](sbc03.htm#fr_55.md) Wilde, *Irish Popular
 Superstitions*, pp. 92-93.
 
-<span id="fn_56"></span>[36:1](sbc03.htm#fr_56) Eleanor Hull, *The
+<span id="fn_56"></span>[36:1](sbc03.htm#fr_56.md) Eleanor Hull, *The
 Cuchullin Saga*, p. 82.
 
-<span id="fn_57"></span>[36:2](sbc03.htm#fr_57) S. Hartland, *Primitive
+<span id="fn_57"></span>[36:2](sbc03.htm#fr_57.md) S. Hartland, *Primitive
 Paternity*, vol. i. p. 261 (Folk-Lore Society).
 
 ------------------------------------------------------------------------
 
-[Next: I. The Finding of the Soul (part 2)](sbc04)
+[Next: I. The Finding of the Soul (part 2)](sbc04.md)

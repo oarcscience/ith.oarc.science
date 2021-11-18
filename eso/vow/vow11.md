@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow10)  [Next](vow12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow10)  [Next](vow12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -90,13 +90,13 @@ world--is quadruple, and constitutes the body, which, in man, serves as
 an envelope to the divine principle. This divine principle, and that
 which belongs to it, the perceptions of the pure intelligence, conceal
 themselves behind the rampart of the body. <span
-id="fr_32"></span>[1](#fn_32)
+id="fr_32"></span>[1](#fn_32.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_32"></span>[53:1](vow11.htm#fr_32) "The five elements of
+<span id="fn_32"></span>[53:1](vow11.htm#fr_32.md) "The five elements of
 the Microcosm are here made to correspond with the five elements which
 the Greeks allotted to the Macrocosm; earth, water, air, fire, and
 ether. Trismegistos says that man obtains his intelligence from "the
@@ -124,4 +124,4 @@ A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](vow12)
+[Next: Part IV](vow12.md)

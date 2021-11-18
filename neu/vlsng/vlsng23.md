@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng22)  [Next](vlsng24) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng22)  [Next](vlsng24.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ And thereto they plighted troth both of them.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXII: Of the Semblance and Array of Sigurd Fafnir's
-bane.](vlsng24)
+bane.](vlsng24.md)

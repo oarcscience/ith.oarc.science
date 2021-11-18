@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai36)  [Next](iai38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai36)  [Next](iai38.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ But see! they pass from those dark gates and walls,
 And fly upon the breeze from Hades' halls,  
 Hark! hark! the sounding harp is stilled! it falls  
 From Tammuz's hands! Oh, how its wailing calls  
-To you bright *zi-ni* <span id="fr_238"></span>[1](#fn_235) flying
+To you bright *zi-ni* <span id="fr_238"></span>[1](#fn_235.md) flying
 through the skies,  
 See! one sweet spirit of the wind swift flies  
 And grasps the wailing harp before it ends  
@@ -120,7 +120,7 @@ With her, O sisters, join your sweetest plaint
   O'er our dear Tammuz, Tammuz slain.  
 Come, all ye spirits, with your drooping wings,  
 No more to us sweet joy he brings;  
-              Ah, me, my brother! <span id="fr_239"></span>[1](#fn_236)
+              Ah, me, my brother! <span id="fr_239"></span>[1](#fn_236.md)
 
 Oh, weep! oh, weep! ye spirits of the air,  
   Oh, weep! oh, weep! An-un-na-ci!  
@@ -184,12 +184,12 @@ Oh, Ninazu, what hast thou done?
 
 To Hades' world beyond our sight they go,  
 And leave upon the skies Mar-gid-da's <span
-id="fr_240"></span>[2](#fn_237) glow,  
+id="fr_240"></span>[2](#fn_237.md) glow,  
 That shines eternally along the sky,  
 The road where souls redeemed shall ever fly.  
 Prince Tammuz now again to life restored,  
 Is crowned in Hades as its King and Lord, <span
-id="fr_241"></span>[3](#fn_238)
+id="fr_241"></span>[3](#fn_238.md)
 
 <span id="page_108">p. 108</span>
 
@@ -200,10 +200,10 @@ To earth, and fills with light and love the skies.
 
 ### Footnotes
 
-<span id="fn_235"></span>[103:1](iai37.htm#fr_238) "Zi-ni," pronounced
+<span id="fn_235"></span>[103:1](iai37.htm#fr_238.md) "Zi-ni," pronounced
 "Zee-nee," spirits of the wind.
 
-<span id="fn_236"></span>[106:1](iai37.htm#fr_239) "Ah, me, my brother,
+<span id="fn_236"></span>[106:1](iai37.htm#fr_239.md) "Ah, me, my brother,
 and, ah, me, my sister! Ah, me, Adonis (or Tammuz), and ah, me, his lady
 (or queen)!" is the wailing cry uttered by the worshippers of Tammuz or
 Adonis when celebrating his untimely death. It is referred to in Jer.
@@ -211,11 +211,11 @@ xxii. 18, and in Ezek. viii. 14 and Amos viii. 10 and Zech. xii. 10, 11.
 See Smith's revised edition of "Chal. Acc. of Genesis," by Sayce, pp.
 247, 248.
 
-<span id="fn_237"></span>[107:2](iai37.htm#fr_240) "Mar-gid-da," "the
+<span id="fn_237"></span>[107:2](iai37.htm#fr_240.md) "Mar-gid-da," "the
 Long Road." We have also given the Accadian name for "The Milky Way." It
 was also called by them the "River of Night."
 
-<span id="fn_238"></span>[107:3](iai37.htm#fr_241) "Lord. of Hades" is
+<span id="fn_238"></span>[107:3](iai37.htm#fr_241.md) "Lord. of Hades" is
 one of the titles given to Tammuz in an Accadian hymn found in "C. I. W.
 A." vol. iv. 27, I, 2. See also translation in "Records of the Past,"
 vol. xi. p. 131.
@@ -223,4 +223,4 @@ vol. xi. p. 131.
 ------------------------------------------------------------------------
 
 [Next: Tablet VII--Column I. The King And Seer Conversing On Their Way
-To Khasisadra](iai38)
+To Khasisadra](iai38.md)

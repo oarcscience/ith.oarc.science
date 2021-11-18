@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -24,19 +24,19 @@ Textual Heritage
 
 <span id="img_18600"></span> <span align="CENTER"> [![Sullenly the
 mountain opens](tn/18600.jpg)  
-Click to enlarge](img/18600.jpg)  
+Click to enlarge](img/18600.jpg.md)  
 Sullenly the mountain opens  
 </span>
 
 <span id="page_187">p. 187</span>
 
-<span id="img_18700"></span> ![The Hazel Scepter](img/18700.jpg)
+<span id="img_18700"></span> ![The Hazel Scepter](img/18700.jpg.md)
 
 <span id="img_18701"></span>
 
 |                     |
 |---------------------|
-| ![H](img/18701.jpg) |
+| ![H](img/18701.jpg.md) |
 
 OW sweetly the children are sleeping in their box-beds. The yellow dog
 is snoring on the warm hearth-stone, and the flickering firelight comes

@@ -4,7 +4,7 @@ title: "Eliphas Levi"
 ---
 <span class="p-small"> </span>
 
-[Esoteric](../index)
+[Esoteric](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -22,6 +22,6 @@ Helena Blavatsky, A.E. Waite, and Aleister Crowley.
 
 ------------------------------------------------------------------------
 
-[Paradoxes of the Highest Science](phs/index)  
+[Paradoxes of the Highest Science](phs/index.md)  
 <span class="p-small2"> translated by Anonymous, comments by an Eminent
 Occultist (H.P. Blavatsky?) \[1922\]. </span>

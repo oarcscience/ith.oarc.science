@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml28)  [Next](cml30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml28)  [Next](cml30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,9 +34,9 @@ hands of his priests, that Roman law struck. The colossal human
 sacrifices of the druids horrified even a people who were far from
 squeamish about a little bloodshed. They themselves had abolished such
 practices by a decree of the senate before Caesar first invaded
-Britain, <span id="fr_557"></span>[1](#fn_557) and could not therefore
+Britain, <span id="fr_557"></span>[1](#fn_557.md) and could not therefore
 permit within their empire a cult which slaughtered men in order to draw
-omens from their death-agonies. <span id="fr_558"></span>[2](#fn_558)
+omens from their death-agonies. <span id="fr_558"></span>[2](#fn_558.md)
 Druidism was first required to be renounced by
 
 <span id="page_400">p. 400</span>
@@ -45,12 +45,12 @@ those who claimed Roman citizenship; then it was vigorously put down
 among the less civilized tribes. Tacitus tells us how the Island of Mona
 (Anglesey)--the great stronghold of druidism--was attacked, its sacred
 groves cut down, its altars laid level, and its priests put to the
-sword. <span id="fr_559"></span>[1](#fn_559) Pliny, recording how the
+sword. <span id="fr_559"></span>[1](#fn_559.md) Pliny, recording how the
 Emperor Tiberius had "suppressed the druids", congratulates his
 fellow-countrymen on having put an end, wherever their dominion
 extended, to the monstrous customs inspired by the doctrine that the
 gods could take pleasure in murder and cannibalism. <span
-id="fr_560"></span>[2](#fn_560) The practice of druidism, with its
+id="fr_560"></span>[2](#fn_560.md) The practice of druidism, with its
 attendant barbarities, abolished in Britain wherever the long Roman arm
 could reach to strike, took refuge beyond the Northern Wall, among the
 savage Caledonian tribes who had not yet submitted to the invader's
@@ -73,7 +73,7 @@ temples, with stiff and deformed features as was customary. Nor will
 mountains, fountains, or hills, or upon the rivers, which now are
 subservient to the use of men, but once were an abomination and
 destruction to them, and to which the blind people paid divine
-honour." <span id="fr_561"></span>[1](#fn_561) And with the idols fell
+honour." <span id="fr_561"></span>[1](#fn_561.md) And with the idols fell
 the priests. The very word "druid" became obsolete, and is scarcely
 mentioned in the earliest British literature, though druids are
 prominent characters in the Irish writings of the same period.
@@ -132,10 +132,10 @@ conservative religious instinct
 of the agricultural populations is not confined to the inhabitants of
 the British Islands. The modern Greeks still believe in nereids, in
 lamias, in sirens, and in Charon, the dark ferryman of Hades. <span
-id="fr_562"></span>[1](#fn_562) The descendants of the Romans and
+id="fr_562"></span>[1](#fn_562.md) The descendants of the Romans and
 Etruscans hold that the old Etruscan gods and the Roman deities of the
 woods and fields still live in the world as spirits. <span
-id="fr_563"></span>[2](#fn_563) The high altars of the "Lord of the
+id="fr_563"></span>[2](#fn_563.md) The high altars of the "Lord of the
 Mound" and his terrible kin were levelled, and their golden images and
 great temples left to moulder in abandonment; but the rude rustic shrine
 to the rude rustic god still received its offerings. It is this shifting
@@ -177,7 +177,7 @@ luxury. Another point in which they resemble one another is in their
 tiny size. But this would seem to be the result of the literary
 convention originated by Shakespeare; in genuine folktales, both Gaelic
 and British, the fairies are pictured as of at least mortal
-stature. <span id="fr_564"></span>[1](#fn_564)
+stature. <span id="fr_564"></span>[1](#fn_564.md)
 
 But, Aryan or Iberian, beautiful or hideous, they
 
@@ -251,15 +251,15 @@ The mythology of Britain preserves the same root-idea as that of
 Ireland. If anything uncanny took place, it was sure to be on May-day.
 It was on "the night of the first of May" that Rhiannon lost, and
 Teirnyon Twryf Vliant found, the infant Pryderi, as told in the first of
-the Mabinogion. <span id="fr_565"></span>[1](#fn_565) It was "on every
+the Mabinogion. <span id="fr_565"></span>[1](#fn_565.md) It was "on every
 May-eve" that the two dragons fought and shrieked in the reign of "King"
-Lludd. <span id="fr_566"></span>[2](#fn_566) It is on "every first of
+Lludd. <span id="fr_566"></span>[2](#fn_566.md) It is on "every first of
 May" till the day of doom that Gwyn son of Nudd, fights with Gwyrthur
 son of Greidawl, for Lludd's fair daughter, Creudylad. <span
-id="fr_567"></span>[3](#fn_567) And it was when she was "a-maying" in
+id="fr_567"></span>[3](#fn_567.md) And it was when she was "a-maying" in
 the woods and fields near Westminster that the same Gwyn, or Melwas,
 under his romance-name of Sir Meliagraunce, captured Arthur's queen,
-Guinevere. <span id="fr_568"></span>[4](#fn_568)
+Guinevere. <span id="fr_568"></span>[4](#fn_568.md)
 
 The nature of the rites performed upon these days can be surmised from
 their pale survivals. They are still celebrated by the descendants of
@@ -276,7 +276,7 @@ winter sleep, and the renewal of warmth, life, and vegetation. This is
 the meaning of the May-pole, now rarely seen in our streets, though
 Shakespeare tells us that in his time the festival was so eagerly
 anticipated that no one could sleep upon its eve. <span
-id="fr_569"></span>[1](#fn_569) At midnight the people rose, and, going
+id="fr_569"></span>[1](#fn_569.md) At midnight the people rose, and, going
 to the nearest woods, tore down branches of trees, with which the sun,
 when he rose, would find doors and windows decked for him. They spent
 the day in dancing round the May-pole, with rude, rustic mirth, man
@@ -285,13 +285,13 @@ it was the day called "Samhain" in Ireland and Scotland, "Sauin" in Man,
 and "Nos Galan-gaeof" (the Night of the Winter Calends) in Wales. This
 festival was a sad one: summer was over, and winter, with its short,
 sunless days and long, dreary nights, was at hand. It was the beginning,
-too, of the ancient Celtic year, <span id="fr_570"></span>[2](#fn_570)
+too, of the ancient Celtic year, <span id="fr_570"></span>[2](#fn_570.md)
 and omens for the future might be extorted from dark powers by uncanny
 rites. It was the holiday of the dead and of all the more evil
 supernatural beings. "On November-eve", says a North Cardiganshire
 proverb, "there is a bogy on every stile." The Scotch have even invented
 a special bogy--the *Samhanach* or goblin which comes out at
-Samhain. <span id="fr_571"></span>[3](#fn_571)
+Samhain. <span id="fr_571"></span>[3](#fn_571.md)
 
 <span id="page_409">p. 409</span>
 
@@ -306,7 +306,7 @@ of St. John.
 
 The characteristic features of these festivals give certain proof of the
 original nature of the great pagan ceremonials of which they are the
-survivals and travesties. <span id="fr_572"></span>[1](#fn_572) In all
+survivals and travesties. <span id="fr_572"></span>[1](#fn_572.md) In all
 of them, bonfires are lighted on the highest hills, and the hearth fires
 solemnly rekindled. They form the excuse for much sport and jollity. But
 there is yet something sinister in the air; the "fairies" are active and
@@ -322,10 +322,10 @@ fox, the eagle, and the
 <span id="page_410">p. 410</span>
 
 hoodie-crow which so often molested them. <span
-id="fr_573"></span>[1](#fn_573) At Hallowe’en (the Celtic Samhain) the
+id="fr_573"></span>[1](#fn_573) At Hallowe’en (the Celtic Samhain.md) the
 natives of the Hebrides used to pour libations of ale to a marine god
 called Shony, imploring him to send sea-weed to the shore. <span
-id="fr_574"></span>[2](#fn_574) In honour, also, of such beings, curious
+id="fr_574"></span>[2](#fn_574.md) In honour, also, of such beings, curious
 rites were performed. Maidens washed their faces in morning dew, with
 prayers for beauty. They carried sprigs of the rowan, that mystic tree
 whose scarlet berries were the ambrosial food of the Tuatha Dé Danann.
@@ -361,7 +361,7 @@ A similar observance, but of a more cruel kind, was kept up in France
 upon St. John's Day, until forbidden by law in the reign of Louis the
 Fourteenth. Baskets containing living wolves, foxes, and cats were
 burned upon the bonfires, under the auspices and in the presence of the
-sheriffs or the mayor of the town. <span id="fr_575"></span>[1](#fn_575)
+sheriffs or the mayor of the town. <span id="fr_575"></span>[1](#fn_575.md)
 Caesar noted the custom among the druids of constructing huge
 wicker-work images, which they filled with living men, and set on fire,
 and it can hardly be doubted that the wretched wolves, foxes, and cats
@@ -390,10 +390,10 @@ sacrifices of cattle within quite recent times.
 Mr. Laurence Gomme, in his *Ethnology in Folk-lore*, has collected many
 modern instances of the sacrifices of cattle not only in Ireland and
 Scotland, but also in Wales, Yorkshire, Northamptonshire, Cornwall, and
-the Isle of Man. <span id="fr_576"></span>[1](#fn_576) "Within twenty
+the Isle of Man. <span id="fr_576"></span>[1](#fn_576.md) "Within twenty
 miles of the metropolis of Scotland a relative of Professor Simpson
 offered up a live cow as a sacrifice to the spirit of the
-murrain." <span id="fr_577"></span>[2](#fn_577) In Wales, when
+murrain." <span id="fr_577"></span>[2](#fn_577.md) In Wales, when
 cattle-sickness broke out, a bullock was immolated by being thrown down
 from the top of a high rock. Generally, however, the wretched victims
 were burned alive. In 1859 an Isle of Man farmer offered a heifer as a
@@ -407,10 +407,10 @@ contain records of the sacrifices of cattle upon the
 
 site of an ancient temple in honour of a being whom some called "St.
 Mourie", and others, perhaps knowing his doubtful character, "ane god
-Mourie". <span id="fr_578"></span>[1](#fn_578) At Kirkcudbright, it was
+Mourie". <span id="fr_578"></span>[1](#fn_578.md) At Kirkcudbright, it was
 St. Cuthbert, and at Clynnog, in Wales, it was St. Beuno, who was
 thought to delight in the blood of bulls. <span
-id="fr_579"></span>[2](#fn_579)
+id="fr_579"></span>[2](#fn_579.md)
 
 Such sacrifices of cattle appear mainly to have been offered to stay
 plague among cattle. Man for man and beast for beast, was, perhaps, the
@@ -418,7 +418,7 @@ old rule. But among all nations, human sacrifices have been gradually
 commuted for those of animals. The family of the O’Herlebys in
 Ballyvorney, County Cork, used in olden days to keep an idol, "an image
 of wood about two feet high, carved and painted like a woman". <span
-id="fr_580"></span>[3](#fn_580) She was the goddess of smallpox, and to
+id="fr_580"></span>[3](#fn_580.md) She was the goddess of smallpox, and to
 her a sheep was immolated on behalf of anyone seized with that disease.
 
 The third form of Celtic pagan survival is found in numerous instances
@@ -426,7 +426,7 @@ of the adoration of water, trees, stones, and animals. Like the other
 "Aryan" nations, the Celts worshipped their rivers. The Dee received
 divine honours as a war-goddess with the title of Aerfon, while the
 Ribble, under its name of Belisama, was identified by the Romans with
-Minerva. <span id="fr_581"></span>[4](#fn_581) Myths were told of them,
+Minerva. <span id="fr_581"></span>[4](#fn_581.md) Myths were told of them,
 as of the sacred streams of Greece. The Dee gave oracles as to the
 results of the perpetual wars between the Welsh and the English; as its
 stream encroached
@@ -434,27 +434,27 @@ stream encroached
 <span id="page_414">p. 414</span>
 
 either upon the Welsh or the English side, so one nation or the other
-would be victorious. <span id="fr_582"></span>[1](#fn_582) The Tweed,
+would be victorious. <span id="fr_582"></span>[1](#fn_582.md) The Tweed,
 like many of the Greek rivers, was credited with human
-descendants. <span id="fr_583"></span>[2](#fn_583) That the rivers of
+descendants. <span id="fr_583"></span>[2](#fn_583.md) That the rivers of
 Great Britain received human sacrifices is clear from the folklore
 concerning many of them. Deprived of their expected offerings, they are
 believed to snatch by stealth the human lives for which they crave.
 "River of Dart, River of Dart, every year thou claimest a heart," runs
 the Devonshire folk-song. The Spey, too, requires a life yearly, <span
-id="fr_584"></span>[3](#fn_584) but the Spirit of the Ribble is
+id="fr_584"></span>[3](#fn_584.md) but the Spirit of the Ribble is
 satisfied with one victim at the end of every seven years. <span
-id="fr_585"></span>[4](#fn_585)
+id="fr_585"></span>[4](#fn_585.md)
 
 Evidence, however, of the worship of rivers is scanty compared with that
 of the adoration of wells. "In the case of well-worship," says Mr.
 Gomme, "it may be asserted with some confidence that it prevails in
 every county of the three kingdoms." <span
-id="fr_586"></span>[5](#fn_586) He finds it most vital in the Gaelic
+id="fr_586"></span>[5](#fn_586.md) He finds it most vital in the Gaelic
 counties, somewhat less so in the British, and almost entirely wanting
 in the Teutonic south-east. So numerous, indeed, are "holy wells" that
 several monographs have been written solely upon them. <span
-id="fr_587"></span>[6](#fn_587) In some cases these wells were resorted
+id="fr_587"></span>[6](#fn_587.md) In some cases these wells were resorted
 to for the cure of diseases; in others, to obtain change of weather, or
 "good luck". Offerings were made to them, to propitiate their guardian
 gods or nymphs. Pennant tells us that in olden
@@ -463,9 +463,9 @@ gods or nymphs. Pennant tells us that in olden
 
 times the rich would sacrifice one of their horses at a well near
 Abergeleu, to secure a blessing upon the rest. <span
-id="fr_588"></span>[1](#fn_588) Fowls were offered at St Tegla's Well,
+id="fr_588"></span>[1](#fn_588.md) Fowls were offered at St Tegla's Well,
 near Wrexham, by epileptic patients. <span
-id="fr_589"></span>[2](#fn_589) But of late years the well-spirits have
+id="fr_589"></span>[2](#fn_589.md) But of late years the well-spirits have
 had to be content with much smaller tributes--such trifles as pins,
 rags, coloured pebbles, and small coins.
 
@@ -479,13 +479,13 @@ coast of Mayo, asserts that a sacred well called "Derrivla" and a sacred
 stone called "Neevougi", which was kept carefully wrapped up in flannel
 and brought out at certain periods to be publicly adored, seemed to be
 the only deities known to that lone Atlantic island's three hundred
-inhabitants. <span id="fr_590"></span>[3](#fn_590) It sounds incredible;
+inhabitants. <span id="fr_590"></span>[3](#fn_590.md) It sounds incredible;
 but there is ample evidence of the worship of fetish stones by quite
 modern inhabitants of our islands. The Clan Chattan kept such a stone in
 the Isle of Arran; it was believed, like the stone of Inniskea, to be
 able to cure diseases, and was kept carefully "wrapped up in fair linen
 cloth, and about that there was a piece of woollen cloth". <span
-id="fr_591"></span>[4](#fn_591) Similarly, too, the worship
+id="fr_591"></span>[4](#fn_591.md) Similarly, too, the worship
 
 <span id="page_416">p. 416</span>
 
@@ -493,14 +493,14 @@ of wells was connected with the worship of animals. At a well in the
 "Devil's Causeway", between Ruckley and Acton, in Shropshire, lived, and
 perhaps still live, four frogs who were, and perhaps still are, believed
 to be "the devil and his imps"--that is to say, gods or demons of a
-proscribed idolatry. <span id="fr_592"></span>[1](#fn_592) In Ireland
+proscribed idolatry. <span id="fr_592"></span>[1](#fn_592.md) In Ireland
 such guardian spirits are usually fish--trout, eels, or salmon thought
-to be endowed with eternal life. <span id="fr_593"></span>[2](#fn_593)
+to be endowed with eternal life. <span id="fr_593"></span>[2](#fn_593.md)
 The genius of a well in Banffshire took the form of a fly, which was
 also said to be undying, but to transmigrate from body to body. Its
 function was to deliver oracles; according as it seemed active or
 lethargic, its votaries drew their omens. <span
-id="fr_594"></span>[3](#fn_594) It is needless to multiply instances of
+id="fr_594"></span>[3](#fn_594.md) It is needless to multiply instances of
 a still surviving cult of water, trees, stones, and animals. Enough to
 say that it would be easy. What concerns us is that we are face to face
 in Britain with living forms of the oldest, lowest, most primitive
@@ -520,15 +520,15 @@ consecrated as "holy wells". The process of so adopting
 them began early. St. Columba, when he went in the sixth century to
 convert the Picts, found a spring which they worshipped as a god; he
 blessed it, and "from that day the demon separated from the
-water". <span id="fr_595"></span>[1](#fn_595) Indeed, he so sanctified
+water". <span id="fr_595"></span>[1](#fn_595.md) Indeed, he so sanctified
 no less than three hundred such springs. <span
-id="fr_596"></span>[2](#fn_596) Sacred stones were equally taken under
+id="fr_596"></span>[2](#fn_596.md) Sacred stones were equally taken under
 the ægis of Christianity. Some were placed on the altars of cathedrals,
 others built into consecrated walls. The animal gods either found
 themselves the heroes of Christian legends, or where, for some reason,
 such adoption was hopeless, were proclaimed "witches' animals", and
 dealt with accordingly. Such happened to the hare, a creature sacred to
-the ancient Britons, <span id="fr_597"></span>[3](#fn_597) but now in
+the ancient Britons, <span id="fr_597"></span>[3](#fn_597.md) but now in
 bad odour among the superstitious. The wren, too, is hunted to death
 upon St. Stephen's Day in Ireland. Its crime is said to be that it has
 "a drop of the de’il's blood in it", but the real reason is probably to
@@ -561,127 +561,127 @@ houses not made with hands.
 
 ### Footnotes
 
-<span id="fn_557"></span>[399:1](cml29.htm#fr_557) In the year 55 B.C.
+<span id="fn_557"></span>[399:1](cml29.htm#fr_557.md) In the year 55 B.C.
 
-<span id="fn_558"></span>[399:2](cml29.htm#fr_558) *Strabo*, Book IV,
+<span id="fn_558"></span>[399:2](cml29.htm#fr_558.md) *Strabo*, Book IV,
 chap. IV.
 
-<span id="fn_559"></span>[400:1](cml29.htm#fr_559) *Annals*, Book XIV,
+<span id="fn_559"></span>[400:1](cml29.htm#fr_559.md) *Annals*, Book XIV,
 chap. XXX.
 
-<span id="fn_560"></span>[400:2](cml29.htm#fr_560) *Natural History*,
+<span id="fn_560"></span>[400:2](cml29.htm#fr_560.md) *Natural History*,
 Book XXX.
 
-<span id="fn_561"></span>[401:1](cml29.htm#fr_561) Gildas. See *Six Old
+<span id="fn_561"></span>[401:1](cml29.htm#fr_561.md) Gildas. See *Six Old
 English Chronicles*--Bohn's Libraries.
 
-<span id="fn_562"></span>[403:1](cml29.htm#fr_562) Rennell Rodd:
+<span id="fn_562"></span>[403:1](cml29.htm#fr_562.md) Rennell Rodd:
 *Customs and Lore of Modern Greece*. Stuart Glennie: *Greek Folk Songs*.
 
-<span id="fn_563"></span>[403:2](cml29.htm#fr_563) Charles Godfrey
+<span id="fn_563"></span>[403:2](cml29.htm#fr_563.md) Charles Godfrey
 Leland: *Etruscan Roman Remains in Popular Tradition*.
 
-<span id="fn_564"></span>[404:1](cml29.htm#fr_564) Rhys: *Celtic
+<span id="fn_564"></span>[404:1](cml29.htm#fr_564.md) Rhys: *Celtic
 Folklore*, p. 670; Curtin: *Tales of the Fairies and of the Ghost
 World*; and Mr. Leland Duncan's *Fairy Beliefs from County Leitrim* in
 *Folklore*, June, 1896.
 
-<span id="fn_565"></span>[407:1](cml29.htm#fr_565) The Mabinogi of
+<span id="fn_565"></span>[407:1](cml29.htm#fr_565.md) The Mabinogi of
 *Pwyll, Prince of Dyfed*.
 
-<span id="fn_566"></span>[407:2](cml29.htm#fr_566) The story of Lludd
+<span id="fn_566"></span>[407:2](cml29.htm#fr_566.md) The story of Lludd
 and Llevelys.
 
-<span id="fn_567"></span>[407:3](cml29.htm#fr_567) *Kulhwch and Olwen*.
+<span id="fn_567"></span>[407:3](cml29.htm#fr_567.md) *Kulhwch and Olwen*.
 
-<span id="fn_568"></span>[407:4](cml29.htm#fr_568) Morte Darthur, Book
+<span id="fn_568"></span>[407:4](cml29.htm#fr_568.md) Morte Darthur, Book
 XIX, chaps. I and II.
 
-<span id="fn_569"></span>[408:1](cml29.htm#fr_569) *Henry VIII*, act V,
+<span id="fn_569"></span>[408:1](cml29.htm#fr_569.md) *Henry VIII*, act V,
 scene 3.
 
-<span id="fn_570"></span>[408:2](cml29.htm#fr_570) Rhys: *Hibbert
+<span id="fn_570"></span>[408:2](cml29.htm#fr_570.md) Rhys: *Hibbert
 Lectures*, p. 54.
 
-<span id="fn_571"></span>[408:3](cml29.htm#fr_571) *Ibid*., p. 516.
+<span id="fn_571"></span>[408:3](cml29.htm#fr_571.md) *Ibid*., p. 516.
 
-<span id="fn_572"></span>[409:1](cml29.htm#fr_572) A good account of the
+<span id="fn_572"></span>[409:1](cml29.htm#fr_572.md) A good account of the
 Irish festivals is given by Lady Wilde in her *Ancient Legends of
 Ireland*, pp. 193-221.
 
-<span id="fn_573"></span>[410:1](cml29.htm#fr_573) Pennant: *A Tour in
+<span id="fn_573"></span>[410:1](cml29.htm#fr_573.md) Pennant: *A Tour in
 Scotland and Voyage to the Hebrides*, 1772.
 
-<span id="fn_574"></span>[410:2](cml29.htm#fr_574) Martin: *Description
+<span id="fn_574"></span>[410:2](cml29.htm#fr_574.md) Martin: *Description
 of the Western Islands of Scotland*, 1695.
 
-<span id="fn_575"></span>[411:1](cml29.htm#fr_575) Gaidoz: *Esquisse de
+<span id="fn_575"></span>[411:1](cml29.htm#fr_575.md) Gaidoz: *Esquisse de
 la Réligion des Gaulois*, p. 21.
 
-<span id="fn_576"></span>[412:1](cml29.htm#fr_576) Gomme: *Ethnology in
+<span id="fn_576"></span>[412:1](cml29.htm#fr_576.md) Gomme: *Ethnology in
 Folklore*, pp, 136-139.
 
-<span id="fn_577"></span>[412:2](cml29.htm#fr_577) *Ibid*., p. 137.
+<span id="fn_577"></span>[412:2](cml29.htm#fr_577.md) *Ibid*., p. 137.
 
-<span id="fn_578"></span>[413:1](cml29.htm#fr_578) Mitchell: *The Past
+<span id="fn_578"></span>[413:1](cml29.htm#fr_578.md) Mitchell: *The Past
 in the Present*, pp. 271, 275.
 
-<span id="fn_579"></span>[413:2](cml29.htm#fr_579) Elton: *Origins of
+<span id="fn_579"></span>[413:2](cml29.htm#fr_579.md) Elton: *Origins of
 English History*, p. 284.
 
-<span id="fn_580"></span>[413:3](cml29.htm#fr_580) Gomme: *Ethnology in
+<span id="fn_580"></span>[413:3](cml29.htm#fr_580.md) Gomme: *Ethnology in
 Folklore*, p. 140.
 
-<span id="fn_581"></span>[413:4](cml29.htm#fr_581) The word Dee probably
+<span id="fn_581"></span>[413:4](cml29.htm#fr_581.md) The word Dee probably
 meant "divinity". The river was also called Dyfridwy, *i.e.* "water of
 the divinity". See Rhys: *Lectures on Welsh Philology*, p. 307.
 
-<span id="fn_582"></span>[414:1](cml29.htm#fr_582) Rhys: *Celtic
+<span id="fn_582"></span>[414:1](cml29.htm#fr_582.md) Rhys: *Celtic
 Britain*, p. 68.
 
-<span id="fn_583"></span>[414:2](cml29.htm#fr_583) Rogers: *Social Life
+<span id="fn_583"></span>[414:2](cml29.htm#fr_583.md) Rogers: *Social Life
 in Scotland*, chap. III, p. 336.
 
-<span id="fn_584"></span>[414:3](cml29.htm#fr_584) *Folklore*, chap.
+<span id="fn_584"></span>[414:3](cml29.htm#fr_584.md) *Folklore*, chap.
 III, p. 72.
 
-<span id="fn_585"></span>[414:4](cml29.htm#fr_585) Henderson: *Folklore
+<span id="fn_585"></span>[414:4](cml29.htm#fr_585.md) Henderson: *Folklore
 of Northern Counties*, p. 265.
 
-<span id="fn_586"></span>[414:5](cml29.htm#fr_586) Gomme: *Ethnology in
+<span id="fn_586"></span>[414:5](cml29.htm#fr_586.md) Gomme: *Ethnology in
 Folklore*, p. 78.
 
-<span id="fn_587"></span>[414:6](cml29.htm#fr_587) Hope: *Holy Wells of
+<span id="fn_587"></span>[414:6](cml29.htm#fr_587.md) Hope: *Holy Wells of
 England*; Harvey: *Holy Wells of Ireland*.
 
-<span id="fn_588"></span>[415:1](cml29.htm#fr_588) Sikes: *British
+<span id="fn_588"></span>[415:1](cml29.htm#fr_588.md) Sikes: *British
 Goblins*, p. 351.
 
-<span id="fn_589"></span>[415:2](cml29.htm#fr_589) *Ibid*., p. 329.
+<span id="fn_589"></span>[415:2](cml29.htm#fr_589.md) *Ibid*., p. 329.
 
-<span id="fn_590"></span>[415:3](cml29.htm#fr_590) Roden: *Progress of
+<span id="fn_590"></span>[415:3](cml29.htm#fr_590.md) Roden: *Progress of
 the Reformation in Ireland*, pp. 51-54.
 
-<span id="fn_591"></span>[415:4](cml29.htm#fr_591) Martin: *Description
+<span id="fn_591"></span>[415:4](cml29.htm#fr_591.md) Martin: *Description
 of the Western Islands*, pp. 166-226.
 
-<span id="fn_592"></span>[416:1](cml29.htm#fr_592) Burne: *Shropshire
+<span id="fn_592"></span>[416:1](cml29.htm#fr_592.md) Burne: *Shropshire
 Folklore*, p. 416.
 
-<span id="fn_593"></span>[416:2](cml29.htm#fr_593) Gomme: *Ethnology in
+<span id="fn_593"></span>[416:2](cml29.htm#fr_593.md) Gomme: *Ethnology in
 Folklore*, pp. 92-93.
 
-<span id="fn_594"></span>[416:3](cml29.htm#fr_594) *Ibid*., p. 102.
+<span id="fn_594"></span>[416:3](cml29.htm#fr_594.md) *Ibid*., p. 102.
 
-<span id="fn_595"></span>[417:1](cml29.htm#fr_595) Adamnan's *Vita
+<span id="fn_595"></span>[417:1](cml29.htm#fr_595.md) Adamnan's *Vita
 Columbæ*.
 
-<span id="fn_596"></span>[417:2](cml29.htm#fr_596) Dr. Whitley Stokes:
+<span id="fn_596"></span>[417:2](cml29.htm#fr_596.md) Dr. Whitley Stokes:
 *Three Middle Irish Homilies*.
 
-<span id="fn_597"></span>[417:3](cml29.htm#fr_597) Caesar: *De Bello
+<span id="fn_597"></span>[417:3](cml29.htm#fr_597.md) Caesar: *De Bello
 Gallico*, Book V, chap. XII.
 
 ------------------------------------------------------------------------
 
-[Next: A Few Books upon Celtic Mythology and Literature](cml30)
+[Next: A Few Books upon Celtic Mythology and Literature](cml30.md)

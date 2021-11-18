@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rio05)  [Next](rio07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rio05)  [Next](rio07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 
 <span id="page_86">p. 86</span>
 
-<span id="img_bord00"></span> ![decorative border](img/bord00.jpg)
+<span id="img_bord00"></span> ![decorative border](img/bord00.jpg.md)
 
 ### IV
 
@@ -25,16 +25,16 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 "The Lord is merciful and gracious, long-suffering, and abundant in
 goodness and in truth; He shows kindness unto the thousandth generation,
 forgives sin, yet will He by no means clear the guilty."—[*Exodus*
-XXXIV, 6-7](../../bib/kjv/exo034.htm#006).
+XXXIV, 6-7](../../bib/kjv/exo034.htm#006.md).
 
 "Fear thou not, for I am with thee; be not dismayed, for I am thy God: I
 strengthen thee, yea, I help thee. . . Behold, ashamed and confounded
 shall be all who were incensed against thee."—[*Isaiah* XLI,
-10-11](../../bib/kjv/isa041.htm#010).
+10-11](../../bib/kjv/isa041.htm#010.md).
 
 "And this commandment have we from him (Christ): he who loveth God
 loveth his brother also."—[*I. John* IV,
-21](../../bib/kjv/jo1004.htm#021).
+21](../../bib/kjv/jo1004.htm#021.md).
 
 "Think not that I am come to send peace on earth: I came not to send
 peace, but a sword. For I am come to set a man at variance against his
@@ -43,16 +43,16 @@ against her mother-in-law. And a man's foes shall be they of his own
 household. He that loveth father and mother more than me is not worthy
 of me; and he that loveth son or daughter more than me is not worthy of
 me." *Words ascribed to Christ*.—[*St. Matthew* x,
-34-37](../../bib/kjv/mat010.htm#034).
+34-37](../../bib/kjv/mat010.htm#034.md).
 
 "These twelve Jesus sent forth, and commanded them saying, Go not into
 any way of the Gentiles, and enter not into any city of the
-Samaritans."—[*St. Matthew* X, 5](../../bib/kjv/mat010.htm#005).
+Samaritans."—[*St. Matthew* X, 5](../../bib/kjv/mat010.htm#005.md).
 
 "And he said unto them: Go ye into all the world and preach the gospel
 to every creature. He that believeth and is baptized shall be saved; but
 he that believeth not shall be damned." *Words ascribed to Christ in*
-[*St. Mark* XVI, 15-16](../../bib/kjv/mar016.htm#015), *but generally
+[*St. Mark* XVI, 15-16](../../bib/kjv/mar016.htm#015.md), *but generally
 admitted to be spurious*.
 
 NOT far from Oberammergau, almost within sight of it, is the beautiful
@@ -736,4 +736,4 @@ Roman, and condemned the innocent Jew.
 
 ------------------------------------------------------------------------
 
-[Next: V. The End](rio07)
+[Next: V. The End](rio07.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov18)  [Next](hlov20) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov18)  [Next](hlov20.md) 
 
 ------------------------------------------------------------------------
 
@@ -192,4 +192,4 @@ eventful journey.
 
 ------------------------------------------------------------------------
 
-[Next: XV. Hiiaka Catching a Ghost](hlov20)
+[Next: XV. Hiiaka Catching a Ghost](hlov20.md)

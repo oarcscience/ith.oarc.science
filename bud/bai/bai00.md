@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Next](bai01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Next](bai01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076614531X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076614531X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhism and Immortality*, by William Sturgis Bigelow, \[1908\], at
 Intangible Textual Heritage
 
@@ -35,7 +35,7 @@ Intangible Textual Heritage
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
@@ -43,7 +43,7 @@ Title Page
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
@@ -85,4 +85,4 @@ named and known as "the Ingersoll lecture on the Immortality of Man."
 
 ------------------------------------------------------------------------
 
-[Next: Buddhism and Immortality](bai01)
+[Next: Buddhism and Immortality](bai01.md)

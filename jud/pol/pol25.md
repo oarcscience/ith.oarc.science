@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol24)  [Next](pol26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol24)  [Next](pol26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -96,7 +96,7 @@ So taught Solomon in his Proverbs. Hence various Rabbis, who had
 attained an advanced age, were questioned by their pupils as to the
 probable cause that had secured them that mark of divine favour. Rabbi
 Nechumah answered that, in regard to himself, God had taken
-[cognisance](errata.htm#5) of three principles by which he had
+[cognisance](errata.htm#5.md) of three principles by which he had
 endeavoured to guide his conduct.
 
 First, he had never striven to exalt his own standing by lowering that
@@ -144,4 +144,4 @@ personally, or to the family of which he was a member.
 
 ------------------------------------------------------------------------
 
-[Next: Honour thy Parents](pol26)
+[Next: Honour thy Parents](pol26.md)

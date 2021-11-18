@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes81)  [Next](tes83) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes81)  [Next](tes83.md) 
 
 ------------------------------------------------------------------------
 
-### 17. STORY OF HERETICS WITH IRON TEETH. <span id="fr_123"></span>[2](#fn_123)
+### 17. STORY OF HERETICS WITH IRON TEETH. <span id="fr_123"></span>[2](#fn_123.md)
 
 There were three brothers who were married to three sisters. The oldest
 brother was married to the eldest sister, the middle brother to the
@@ -75,12 +75,12 @@ Sophie Bogoras, in the village of Markova, the Anadyr country, winter of
 
 ### Footnotes
 
-<span id="fn_122"></span>[146:1](tes81.htm#fr_122) In Russian Гайгайка
+<span id="fn_122"></span>[146:1](tes81.htm#fr_122.md) In Russian Гайгайка
 Баба "woman crying 'hai, hai!'"--W. B.
 
-<span id="fn_123"></span>[146:2](tes82.htm#fr_123) Cf. [p.
-69](tes32.htm#page_69)--W. B.
+<span id="fn_123"></span>[146:2](tes82.htm#fr_123.md) Cf. [p.
+69](tes32.htm#page_69.md)--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Story of the Fox and the Wolf](tes83)
+[Next: 18. Story of the Fox and the Wolf](tes83.md)

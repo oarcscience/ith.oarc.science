@@ -1,5 +1,5 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Buddhism](index)
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Buddhism](index.md)
 
 ------------------------------------------------------------------------
 
@@ -23,8 +23,8 @@ These volumes were reprinted by Dover publications in 1963;
 unfortunately the Dover edition is now out of print; you may be able to
 find used copies, however.
 
-[The Questions of King Milinda, Part I](sbe35/index)  
+[The Questions of King Milinda, Part I](sbe35/index.md)  
 Sacred Books of the East, Volume 35 \[1890\]
 
-[The Questions of King Milinda, Part II](sbe36/index)  
+[The Questions of King Milinda, Part II](sbe36/index.md)  
 Sacred Books of the East, Volume 36 \[1894\]

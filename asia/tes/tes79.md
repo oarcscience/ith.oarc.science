@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes78)  [Next](tes80) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes78)  [Next](tes80.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ daughter. The old man sought another wife, and married a widow, who had
 a daughter of her own. This widow was a Yahga-Witch. The stepmother had
 a violent dislike for her stepdaughter. She used to strike her hard and
 gave her nothing to eat. One day she sent her to the waterhole to wash
-some old nets. <span id="fr_115"></span>[1](#fn_115) While the girl was
+some old nets. <span id="fr_115"></span>[1](#fn_115.md) While the girl was
 washing it the swift current carried it away. She cried bitterly. Then
 she looked down the water-hole and saw a road. She descended and came to
 the lower world. She walked and walked, and then saw a horse stable.
@@ -28,7 +28,7 @@ rubbish covered the sill. She entered and cleaned the house. Then she
 made a fire and sat down on the bed. Sitting thus alone, she cried
 bitterly. All at once a noise was heard outside, and the shuffling of
 old feet clad in bristle-soled boots. <span
-id="fr_116"></span>[2](#fn_116) There entered a small old woman. "Ah, my
+id="fr_116"></span>[2](#fn_116.md) There entered a small old woman. "Ah, my
 dear! whence do you come?"--"I have no mother. The Yagha-Witch was very
 hard on me. She sent me to the water-hole to wash an old net, and the
 current of water carried it off. So I thought, 'She will surely kill me.
@@ -74,7 +74,7 @@ the box and hid beneath a bush. Then she opened the lid. A flame came
 out and burnt them both. So they were destroyed. The old man and his
 daughter left that place and departed for the under world. They came to
 the old woman. The old man married her, and they all three lived
-together. The end. <span id="fr_117"></span>[1](#fn_117)
+together. The end. <span id="fr_117"></span>[1](#fn_117.md)
 
 Told by Mary Alin, a Russianized Chuvantzi woman, in the village of
 Markova, the Anadyr country, winter of 19W.
@@ -83,16 +83,16 @@ Markova, the Anadyr country, winter of 19W.
 
 ### Footnotes
 
-<span id="fn_115"></span>[142:1](tes79.htm#fr_115) Old nets are used in
+<span id="fn_115"></span>[142:1](tes79.htm#fr_115.md) Old nets are used in
 the households of the Russian and the Russianized natives instead of
 towels and napkins--W. B.
 
-<span id="fn_116"></span>[142:2](tes79.htm#fr_116) Cf. Bogoras, "The
+<span id="fn_116"></span>[142:2](tes79.htm#fr_116.md) Cf. Bogoras, "The
 Chukchee", 239--W. B.
 
-<span id="fn_117"></span>[143:1](tes79.htm#fr_117) See Bolte und
+<span id="fn_117"></span>[143:1](tes79.htm#fr_117.md) See Bolte und
 Polívka, vol. 1, 207.
 
 ------------------------------------------------------------------------
 
-[Next: 15. Story of Magus](tes80)
+[Next: 15. Story of Magus](tes80.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb37)  [Next](ttb39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb37)  [Next](ttb39.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_51">p. 51</span>
 
-<span id="img_05100"></span> ![Gal-Quith, The Cod Fish](img/05100.jpg)
+<span id="img_05100"></span> ![Gal-Quith, The Cod Fish](img/05100.jpg.md)
 
 ### Gal-Quith, THE COD FISH
 
@@ -59,4 +59,4 @@ Codfish and Halibut for their crests.
 
 ------------------------------------------------------------------------
 
-[Next: Maht-Maht, The Duck](ttb39)
+[Next: Maht-Maht, The Duck](ttb39.md)

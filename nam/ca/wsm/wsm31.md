@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm30)  [Next](wsm32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm30)  [Next](wsm32.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ was hungry. He said, "Oh, what are we going to eat, brother?"
 ------------------------------------------------------------------------
 
 [Next: Badger, Coyote, and the Woodchucks (Lida, Nevada.
-Shoshoni)](wsm32)
+Shoshoni)](wsm32.md)

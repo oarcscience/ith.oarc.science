@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Next](cws01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Next](cws01.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ APOC. xiv, 6, 7 (R.V.).
 
 ------------------------------------------------------------------------
 
-[Next: Table Of Contents](cws01)
+[Next: Table Of Contents](cws01.md)

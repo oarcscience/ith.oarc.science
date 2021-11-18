@@ -1,5 +1,5 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [Previous](../raj/raj)  [Next](../snt/snt) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [Previous](../raj/raj)  [Next](../snt/snt.md) 
 
 ------------------------------------------------------------------------
 
@@ -2206,4 +2206,4 @@ Index](../index)  [Previous](../raj/raj)  [Next](../snt/snt) 
 
 ------------------------------------------------------------------------
 
-[Next: Sonnets](../snt/snt) 
+[Next: Sonnets](../snt/snt.md) 

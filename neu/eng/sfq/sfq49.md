@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq48)  [Next](sfq50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq48)  [Next](sfq50.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ nations led into captivity, and huge armies
 <span id="img_21900"></span>
 
 [![](tn/21900.jpg)  
-Click to enlarge](img/21900.jpg)
+Click to enlarge](img/21900.jpg.md)
 
 slain--relics of all these ruins remained in the house of Até. All the
 famous wars in history found a record
@@ -163,4 +163,4 @@ three times he drew back, before at last he became a little pacified.
 
 ------------------------------------------------------------------------
 
-[Next: How Sir Satyrane proclaimed a Great Tournament](sfq50)
+[Next: How Sir Satyrane proclaimed a Great Tournament](sfq50.md)

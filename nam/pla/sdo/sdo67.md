@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo66)  [Next](sdo68) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo66)  [Next](sdo68.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ the swallows fly high in circles.
 
 ------------------------------------------------------------------------
 
-[Next: Wooing Wohpe](sdo68)
+[Next: Wooing Wohpe](sdo68.md)

@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao37)   
-[Previous](tao36)  [Next](tao38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao37.md)   
+[Previous](tao36)  [Next](tao38.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ troubles of the world will right themselves.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 38](tao38)
+[Next: Chapter 38](tao38.md)

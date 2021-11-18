@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt04)  [Next](dmt06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt04)  [Next](dmt06.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ claims the Khalifate, and from
 <span id="img_01100"></span>
 
 [![GENEALOGICAL CHART FOR EARLIEST HISTORY OF ISLAM](tn/01100.jpg)  
-Click to enlarge](img/01100.jpg)  
+Click to enlarge](img/01100.jpg.md)  
 GENEALOGICAL CHART FOR EARLIEST HISTORY OF ISLAM  
 
  
@@ -134,7 +134,7 @@ GENEALOGICAL CHART FOR EARLIEST HISTORY OF ISLAM
 <span id="img_01200"></span>
 
 [![CHRONOLOGICAL CHART OF ALIDS](tn/01200.jpg)  
-Click to enlarge](img/01200.jpg)  
+Click to enlarge](img/01200.jpg.md)  
 CHRONOLOGICAL CHART OF ALIDS  
 
  
@@ -298,7 +298,7 @@ In the confusion that followed the deed the chance of the legitimist
 party had come, and Ali, the cousin and son-in-law of the Prophet, was
 chosen.
 
-Fortunately this [is](errata.htm#0) not a history of Islam, but of
+Fortunately this [is](errata.htm#0.md) not a history of Islam, but of
 Muslim political institutions, and it is, therefore, unnecessary to go
 into the manifold and contradictory stories told of the events of this
 time. These have evidently been carefully redacted in the interests of
@@ -333,7 +333,7 @@ prominent leaders in these early squabbles, were certain of Paradise. It
 has further become an article in Muslim creeds, that the Companions of
 the Prophet are not to be mentioned save with praise; and one school of
 theologians, in their zeal for the historic Khalifate, even forbade the
-cursing of Yazid, the slayer of al-Husayn ([p. 28](#page_28) below), and
+cursing of Yazid, the slayer of al-Husayn ([p. 28](#page_28) below.md), and
 reckoned as the worst of all the Umayyads, because he had been
 
 <span id="page_20">p. 20</span>
@@ -718,4 +718,4 @@ up a realm. There has been none like him of the blood of Quraysh."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](dmt06)
+[Next: Chapter II](dmt06.md)

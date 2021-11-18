@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim49)  [Next](sim51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim49)  [Next](sim51.md) 
 
 ------------------------------------------------------------------------
 
@@ -225,4 +225,4 @@ and mother. They were glad to see her and said "*Yâwe<sup>n</sup>*."
 
 ------------------------------------------------------------------------
 
-[Next: Partridge and Turtle and their Cousins Wolves](sim51)
+[Next: Partridge and Turtle and their Cousins Wolves](sim51.md)

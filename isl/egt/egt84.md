@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt83)  [Next](egt85) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt83)  [Next](egt85.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ the eloquent are impotent to rival its manner.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE GLORY OF THE QUR'ÂN.](egt85)
+[Next: ON THE GLORY OF THE QUR'ÂN.](egt85.md)

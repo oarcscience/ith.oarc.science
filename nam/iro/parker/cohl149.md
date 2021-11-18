@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl148)  [Next](cohl150) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl148)  [Next](cohl150.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_110">p. 110</span>
 
-### THE DEATH FEAST <span id="fr_104"></span>[1](#fn_104)
+### THE DEATH FEAST <span id="fr_104"></span>[1](#fn_104.md)
 
 Wainonjää'ko<sup>n</sup>?
 
@@ -153,9 +153,9 @@ finished.
 
 ### Footnotes
 
-<span id="fn_104"></span>[110:1](cohl149.htm#fr_104) Related by Edward
+<span id="fn_104"></span>[110:1](cohl149.htm#fr_104.md) Related by Edward
 Cornplanter, March 1906.
 
 ------------------------------------------------------------------------
 
-[Next: Secret Medicine Societies of the Seneca](cohl150)
+[Next: Secret Medicine Societies of the Seneca](cohl150.md)

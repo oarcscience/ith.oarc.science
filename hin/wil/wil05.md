@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil04)  [Next](wil06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil04)  [Next](wil06.md) 
 
 ------------------------------------------------------------------------
 
@@ -283,7 +283,7 @@ Or he a woman and I a man. All I know is,
 There were two: Love came, and there is one. . .
 
 we must believe completely representative of its spirit. <span
-id="fr_0"></span>[\*](#fn_0) The Persian language, however, has only
+id="fr_0"></span>[\*](#fn_0.md) The Persian language, however, has only
 
 <span id="page_38">p. 38</span>
 
@@ -510,9 +510,9 @@ of a love that asks no return except the power of more abundant loving.
 
 ### Footnotes
 
-<span id="fn_0"></span>[37:\*](wil05.htm#fr_0) This verse is actually
+<span id="fn_0"></span>[37:\*](wil05.htm#fr_0.md) This verse is actually
 old Bengali, of the sixteenth century.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Love Strong as Death](wil06)
+[Next: Chapter IV. Love Strong as Death](wil06.md)

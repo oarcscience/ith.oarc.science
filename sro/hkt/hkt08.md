@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt07)  [Next](hkt09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt07)  [Next](hkt09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ DE
 RIDERFORT.  
 A.D. 1185.</span>THE Grand Master, Arnold de Torroge, who died on his
 journey to England, as before mentioned, was succeeded by Brother Gerard
-de Riderfort. <span id="fr_178"></span>[\*](#fn_178)
+de Riderfort. <span id="fr_178"></span>[\*](#fn_178.md)
 
 <span id="page_115">p. 115</span>
 
@@ -67,7 +67,7 @@ council or parliament of the kingdom, composed of the bishops, earls,
 and barons, assembled in the house of the Hospitallers at Clerkenwell in
 London. It was attended by William king of Scotland and David his
 brother, and many of the counts and barons of that distant land. <span
-id="fr_179"></span>[\*](#fn_179) The august assembly was acquainted, in
+id="fr_179"></span>[\*](#fn_179.md) The august assembly was acquainted, in
 the king's name, with the object of the solemn embassy just sent to him
 from Jerusalem, and with the desire of the royal penitent to fulfil his
 vow and perform his penance; but the barons were at the same time
@@ -83,7 +83,7 @@ kingdom of Jerusalem. They, however, offered to raise the sum of fifty
 thousand marks for the levying of troops to be sent into Asia, and
 recommended that all such prelates and nobles as desired to take the
 cross should be permitted freely to leave the kingdom on so pious an
-enterprise. <span id="fr_180"></span>[†](#fn_180)
+enterprise. <span id="fr_180"></span>[†](#fn_180.md)
 
 Fabian gives the following quaint account of the king's answer to the
 patriarch, from the Chron. Joan Bromton: "Lasteley, the kynge gaue
@@ -131,7 +131,7 @@ DE
 RIDERFORT.  
 A.D. 1185.</span>deuyll they come, and to the deuyll they shall go,' and
 so departyd from the kynge in great ire." <span
-id="fr_181"></span>[\*](#fn_181)
+id="fr_181"></span>[\*](#fn_181.md)
 
 According to Roger de Hoveden, however, the patriarch, on the 17th of
 the calends of May, accompanied King Henry into Normandy, where a
@@ -141,7 +141,7 @@ liberal in promises and fair speeches; but as nothing short of the
 presence of the king of England, or of one of his sons, in Palestine,
 would satisfy the patriarch, that haughty ecclesiastic failed in his
 negotiations, and returned in disgust and disappointment to the Holy
-Land. <span id="fr_182"></span>[†](#fn_182) On his arrival at Jerusalem
+Land. <span id="fr_182"></span>[†](#fn_182.md) On his arrival at Jerusalem
 with intelligence of his ill success, the greatest consternation
 prevailed amongst the Latin christians; and it was generally observed
 that the true cross, which had been recovered from the Persians by the
@@ -177,7 +177,7 @@ Pasque de Riveri. Enfans avoit du patriarche, et les barons estoient,
 que là où il se conseilloient, vint un fol ou patriarche, si li dist;
 'Sire Patriarche, dones moi bon don, car je vous aport bones novelles
 *Pasque de Riveri, vostre fame, a une bele fille!*'" <span
-id="fr_183"></span>[\*](#fn_183) When Jesus Christ," says the learned
+id="fr_183"></span>[\*](#fn_183.md) When Jesus Christ," says the learned
 author, "saw the iniquity and wickedness which they committed in the
 very place where he was crucified, he could no longer suffer it."
 
@@ -195,7 +195,7 @@ himself. Shortly after the return of Heraclius to Palestine, King
 Baldwin IV. died, and was succeeded by his infant nephew, Baldwin V.,
 who was crowned in the church of the Resurrection, and was afterwards
 royally entertained by the Templars in the Temple of Solomon, according
-to ancient custom. <span id="fr_184"></span>[\*](#fn_184) The young king
+to ancient custom. <span id="fr_184"></span>[\*](#fn_184.md) The young king
 died at Acre after a short reign of only seven months, and the Templars
 brought the body to Jerusalem, and buried it in the tombs of the
 christian kings. The Grand Master of the Temple then raised Sibylla, the
@@ -212,7 +212,7 @@ endless discord and dissension; Raymond, Count of Tripoli, withdrew from
 court; many of the barons refused to do homage, and the state was torn
 by faction and dissension at a time when all the energies of the
 population were required to defend the country from the Moslems. <span
-id="fr_185"></span>[†](#fn_185)
+id="fr_185"></span>[†](#fn_185.md)
 
 <span id="page_120">p. 120</span>
 
@@ -246,7 +246,7 @@ Job, the son of Schadi, Sultan of the Moslems, ay, and of Islam itself;
 the deliverer of the holy house of God (the Temple) from the hands of
 the idolaters, the servant of two holy cities, whose tomb may the Lord
 moisten with the dew of his favour, affording to him the sweetness of
-the fruits of the faith." <span id="fr_186"></span>[\*](#fn_186)
+the fruits of the faith." <span id="fr_186"></span>[\*](#fn_186.md)
 
 On the 10th of May, A.D. 1187, Malek-el-Afdal, "Most
 
@@ -281,7 +281,7 @@ amazing number of infidels to *hell!* The Mussulmen severed the heads of
 the slaughtered Templars from their bodies, and attaching them with
 cords to the points of their lances, they placed them in front of their
 array, and marched off in the direction of Tiberias. <span
-id="fr_187"></span>[\*](#fn_187)
+id="fr_187"></span>[\*](#fn_187.md)
 
 The following interesting account is given of the march of
 
@@ -311,7 +311,7 @@ news, bad news; and he informed them how that the Master of the Hospital
 had had his head cut off, and how of all the brothers of the Temple
 there had escaped but three, the Master of the Temple and two others,
 and that the knights whom the king had placed in garrison at Nazareth,
-were all taken and killed." <span id="fr_188"></span>[\*](#fn_188)
+were all taken and killed." <span id="fr_188"></span>[\*](#fn_188.md)
 
 In the great battle of Tiberias or of Hittin, fought on the 4th of July,
 which decided the fate of the holy city of Jerusalem, the Templars were
@@ -331,7 +331,7 @@ A.D. 1187.</span>them at early dawn in battle array, "horrible in arms,
 having their whole bodies cased with triple mail." He compares the noise
 made by their advancing squadrons to the *loud humming of bees!* and
 describes them as animated with "a flaming desire of vengeance." <span
-id="fr_189"></span>[\*](#fn_189) Saladin had behind him the lake of
+id="fr_189"></span>[\*](#fn_189.md) Saladin had behind him the lake of
 Tiberias, his infantry was in the centre, and the swift cavalry of the
 desert was stationed on either wing, under the command of *Faki-ed-deen*
 (teacher of religion.) The Templars rushed, we are told, like lions upon
@@ -370,7 +370,7 @@ desolation, and destruction, overtook the miserable sons of baptism!"
 The cowardly patriarch Heraclius, whose duty it was to bear the holy
 cross in front of the christian array, confided his sacred charge to the
 bishops of Ptolemais and Lydda, <span
-id="fr_190"></span>[\*](#fn_190)--a circumstance which gave rise to many
+id="fr_190"></span>[\*](#fn_190.md)--a circumstance which gave rise to many
 gloomy forebodings amongst the superstitious soldiers of Christ. In
 consequence of the treachery, as it is alleged, of the count of Tripoli,
 who fled from the field with his retainers, both the Templars and
@@ -388,7 +388,7 @@ est lignum nostræ salutis, dignum ab indignis indigne heu! heu!
 asportatum. Væ mihi misero, quod in diebus miseræ vitæ meæ talia cogor
 videre. . . . . . O dulce lignum, et suave, sanguine filii Dei roratum
 atque lavatum! O crux alma, in qua salus nostra pependit! &c. <span
-id="fr_191"></span>[†](#fn_191)
+id="fr_191"></span>[†](#fn_191.md)
 
 "I saw," says the secretary and companion of Saladin, who was present at
 this terrible fight, and is unable to restrain himself from pitying the
@@ -402,7 +402,7 @@ RIDERFORT.
 A.D. 1187.</span>and the plains, the hills and the valleys, covered with
 their dead. I saw their fallen and deserted banners sullied with dust
 and with blood. I saw their heads broken and battered, their limbs
-scattered abroad, and the blackened [corpses](errata.htm#3) piled one
+scattered abroad, and the blackened [corpses](errata.htm#3.md) piled one
 upon another like the stones of the builders. I called to mind the words
 of the Koran, 'The infidel shall say, What am I but *dust?*' . . . . I
 saw thirty or forty tied together by one cord. I saw in one place,
@@ -421,7 +421,7 @@ of mind. The capture of this cross was more grievous to them than the
 captivity of their king. Nothing can compensate them for the loss of it.
 It was their God; they prostrated themselves in the dust before it, and
 sang hymns when it was raised aloft!" <span
-id="fr_192"></span>[\*](#fn_192)
+id="fr_192"></span>[\*](#fn_192.md)
 
 Among the few christian warriors who escaped from this terrible
 encounter, was the Grand Master of the Hospital; he clove his way from
@@ -453,7 +453,7 @@ commanded him instantly to acknowledge the prophet whom he had
 blasphemed, or be prepared to meet the death he had so often deserved.
 On Reginald's refusal, Saladin struck him with his scimitar, and he was
 immediately despatched by the guards. <span
-id="fr_193"></span>[\*](#fn_193)
+id="fr_193"></span>[\*](#fn_193.md)
 
 Bohadin, Saladin's friend and secretary, an eye-witness of the scene,
 gives the following account of it: "Then Saladin told the interpreter to
@@ -471,7 +471,7 @@ scimitar, which was a hint to those that were present to do
 DE  
 RIDERFORT.  
 A.D. 1187.</span>for him; so they sent his soul to *hell*, and cast out
-his body before the tent-door! <span id="fr_194"></span>[\*](#fn_194)
+his body before the tent-door! <span id="fr_194"></span>[\*](#fn_194.md)
 
 Two days afterwards Saladin proceeded in cold blood to enact the grand
 concluding tragedy. The warlike monks of the Temple and of the Hospital,
@@ -497,7 +497,7 @@ army, and the doctors and expounders of the law. An oriental historian,
 who was present, says that Saladin sat with a smiling countenance
 viewing the execution, and that some of the executioners cut off the
 heads with a degree of dexterity that excited great applause. <span
-id="fr_195"></span>[†](#fn_195) "Oh," says Omad’eddin Muhammed,
+id="fr_195"></span>[†](#fn_195.md) "Oh," says Omad’eddin Muhammed,
 
 <span id="page_128">p. 128</span>
 
@@ -514,12 +514,12 @@ praiseworthy eagerness for martyrdom by the swords of the unbelieving
 Moslems. The Knight Templar, Brother Nicolas, strove vigorously, we are
 told, with his companions to be the first to suffer, and with great
 difficulty accomplished his purpose. <span
-id="fr_196"></span>[\*](#fn_196) It was believed by the Christians, in
+id="fr_196"></span>[\*](#fn_196.md) It was believed by the Christians, in
 accordance with the superstitious ideas of those times, that heaven
 testified its approbation by a visible sign, and that for three nights,
 during which the bodies of the Templars remained unburied on the field,
 celestial rays of light played around the corpses of those holy
-martyrs. <span id="fr_197"></span>[†](#fn_197)
+martyrs. <span id="fr_197"></span>[†](#fn_197.md)
 
 The government of the order of the Temple, in consequence of the
 captivity of the Grand Master, devolved upon the Grand Preceptor of the
@@ -562,7 +562,7 @@ city of Jerusalem, Ascalon, and Tyre, and Beyrout, are alone left to us
 and to the christian cause, and the garrisons and the chief inhabitants
 of these places, having perished in the battle of Tiberias, we have no
 hope of retaining them without succour from heaven and instant
-assistance from yourselves." <span id="fr_198"></span>[\*](#fn_198)
+assistance from yourselves." <span id="fr_198"></span>[\*](#fn_198.md)
 
 Saladin, on the other hand, sent triumphant letters to the caliph. "God
 and his angels," says he, "have mercifully succoured Islam. The infidels
@@ -577,7 +577,7 @@ RIDERFORT.
 A.D. 1187.</span>fluttered like the moth round a light; under whose
 shadow they assembled, in which they boldly trusted as in a wall; the
 cross, the centre and leader of their pride, their superstition, and
-their tyranny." . . . <span id="fr_199"></span>[\*](#fn_199)
+their tyranny." . . . <span id="fr_199"></span>[\*](#fn_199.md)
 
 After the conquest of between thirty and forty cities and castles, many
 of which belonged to the order of the Temple, Saladin laid siege to the
@@ -600,7 +600,7 @@ Calvary. But it availed nought; "for our Lord Jesus Christ," says a
 Syrian Frank, "would not listen to any prayer that they made; for the
 filth, the luxury, and the adultery which prevailed in the city, did not
 suffer prayer or supplication to ascend before God." <span
-id="fr_200"></span>[†](#fn_200)
+id="fr_200"></span>[†](#fn_200.md)
 
 <span id="page_131">p. 131</span>
 
@@ -626,12 +626,12 @@ disgrace to the Christians, with vast clamour, with laughter and
 mockery, they hurled down the golden cross from the pinnacle of the
 building, and dragged it with ropes throughout the city, amid the
 exulting shouts of the infidels and the tears and lamentations of the
-followers of Christ." <span id="fr_201"></span>[\*](#fn_201)
+followers of Christ." <span id="fr_201"></span>[\*](#fn_201.md)
 
 When every Christian had been removed from the precincts of the Temple,
 Saladin proceeded with vast pomp to say his prayers in the *Beit Allah*,
 the holy house of God, or " Temple of the Lord," erected by the Caliph
-Omar. <span id="fr_202"></span>[†](#fn_202) He was preceded by five
+Omar. <span id="fr_202"></span>[†](#fn_202.md) He was preceded by five
 camels laden with rose-water, which he had procured from
 
 <span id="page_132">p. 132</span>
@@ -640,13 +640,13 @@ camels laden with rose-water, which he had procured from
 DE  
 RIDERFORT.  
 A.D. 1187.</span><span class="contnote">\[paragraph continues\]</span>
-Damascus, <span id="fr_203"></span>[\*](#fn_203) and he entered the
+Damascus, <span id="fr_203"></span>[\*](#fn_203.md) and he entered the
 sacred courts to the sound of martial music, and with his banners
 streaming in the wind. The *Beit Allah*, "the Temple of the Lord," was
 then again consecrated to the service of one God and his prophet
 Mahomet; the walls and pavements were washed and purified with
 rose-water; and a pulpit, the labour of Noureddin, was erected in the
-sanctuary. <span id="fr_204"></span>[†](#fn_204) The following account
+sanctuary. <span id="fr_204"></span>[†](#fn_204.md) The following account
 of these transactions was forwarded to Henry the Second, king of
 England.
 
@@ -666,7 +666,7 @@ for two days to be publicly kicked and dragged in the dirt through the
 city. He then caused the Temple of the Lord to be washed within and
 without, upwards and downwards, with rose-water, and the law of Mahomet
 to be proclaimed throughout the four quarters of the Temple with
-wonderful clamour. . . ." <span id="fr_205"></span>[‡](#fn_205)
+wonderful clamour. . . ." <span id="fr_205"></span>[‡](#fn_205.md)
 
 Bohadin, Saladin's secretary, mentions as a remarkable and
 
@@ -686,7 +686,7 @@ solemn prayer offered up to God; the shouting and the sounds of
 applause, and the voices lifted up to heaven, causing the holy buildings
 to resound with thanks and praises to the most bountiful Lord God. He
 glories in the casting down of the golden cross, and exults in the very
-splendid triumph of Islam. <span id="fr_206"></span>[\*](#fn_206)
+splendid triumph of Islam. <span id="fr_206"></span>[\*](#fn_206.md)
 
 Saladin restored the sacred area of the Temple to its original condition
 under the first Mussulman conquerors of Jerusalem. The ancient christian
@@ -713,7 +713,7 @@ RIDERFORT.
 A.D. 1187.</span>again bent the knee in adoration of the one only God,
 and the voice of the imaun was again heard from the pulpit, reminding
 the true believers of the resurrection and the last judgment." <span
-id="fr_207"></span>[\*](#fn_207)
+id="fr_207"></span>[\*](#fn_207.md)
 
 The Friday after the surrender of the city, the army of Saladin and
 crowds of true believers, who had flocked to Jerusalem from all parts of
@@ -746,7 +746,7 @@ DE
 RIDERFORT.  
 A.D. 1187.</span>and prayed in the Mihrah. Immediately afterwards a
 sermon was preached before the congregation." <span
-id="fr_208"></span>[\*](#fn_208)
+id="fr_208"></span>[\*](#fn_208.md)
 
 This sermon was delivered by *Mohammed Ben Zeky*. "Praise be to God,"
 saith the preacher, "who by the power of his might hath raised up
@@ -781,7 +781,7 @@ DE
 RIDERFORT.  
 A.D. 1187.</span>the gates of heaven; the angels rejoice, and the eyes
 of the prophets glisten with joy. . . . . . <span
-id="fr_209"></span>[\*](#fn_209)
+id="fr_209"></span>[\*](#fn_209.md)
 
 Omad informs us that the marble altar and chapel which had been erected
 over the sacred rock in the Temple of the Lord, or mosque of Omar, was
@@ -792,13 +792,13 @@ horror that some pieces of the holy stone or rock had been cut off by
 the Franks, and sent to Europe. Saladin caused it to be immediately
 surrounded by a grate of iron. He washed it with rose-water and
 Malek-Afdal covered it with magnificent carpets. <span
-id="fr_210"></span>[†](#fn_210)
+id="fr_210"></span>[†](#fn_210.md)
 
 After the conquest of the holy city, and the loss of the Temple at
 Jerusalem, the Knights Templars established the chief house of their
 order at Antioch, to which place they retired with Queen Sibylla, the
 barons of the kingdom, and the patriarch Heraclius. <span
-id="fr_211"></span>[‡](#fn_211)
+id="fr_211"></span>[‡](#fn_211.md)
 
 The following account of the condition of the few remaining christian
 possessions immediately after the conquest of Jerusalem, was conveyed by
@@ -809,7 +809,7 @@ Treasurer General of the order, to Henry the Second, king of England.
 Saracens; they have captured two convoys, and have valiantly possessed
 themselves of the munitions of war and provisions which were being
 conveyed by the Saracens from the fortress of La Feue. As yet, also,
-Carach, in the [neighbourhood](errata.htm#4) of Mount Royal, Mount Royal
+Carach, in the [neighbourhood](errata.htm#4.md) of Mount Royal, Mount Royal
 itself, the Temple of
 
 <span id="page_137">p. 137</span>
@@ -835,7 +835,7 @@ army of Saladin, and being run aground by his command, were set on fire
 and burnt to ashes. Saladin himself, overwhelmed with grief, having *cut
 off the ears and the tail of his horse*, rode that same horse through
 his whole army in the sight of all. Farewell!" <span
-id="fr_212"></span>[\*](#fn_212)
+id="fr_212"></span>[\*](#fn_212.md)
 
 Tyre was valiantly defended against all the efforts of Saladin until the
 winter had set in, and then the disappointed sultan, despairing of
@@ -855,7 +855,7 @@ DE
 RIDERFORT.  
 A.D. 1188.</span><span class="contnote">\[paragraph continues\]</span>
 Temple again appeared in arms at the head of the remaining forces of the
-order. <span id="fr_213"></span>[\*](#fn_213)
+order. <span id="fr_213"></span>[\*](#fn_213.md)
 
 The torpid sensibility of Christendom had at this time been aroused by
 the intelligence of the fall of Jerusalem, and of the profanation of the
@@ -871,7 +871,7 @@ of Jerusalem in opposition to Guy de Lusignan, the Grand Master of the
 Temple refused to deliver the money into Conrad's hands, in consequence
 whereof the latter wrote letters filled with bitter complaints to King
 Henry and the archbishop of Canterbury. <span
-id="fr_214"></span>[†](#fn_214)
+id="fr_214"></span>[†](#fn_214.md)
 
 In the spring of the year 1189, the Grand Master of the Temple marched
 out of Tyre at the head of the newly-arrived brethren of the order, and,
@@ -903,11 +903,11 @@ and confusion; but ere they had been rallied, and had returned to the
 charge, the Grand Master of the Temple was slain; he fell pierced with
 arrows at the head of his knights; the seneschal of the order shared the
 same fate, and more than half the Templars were numbered with the
-dead. <span id="fr_215"></span>[\*](#fn_215)
+dead. <span id="fr_215"></span>[\*](#fn_215.md)
 
 <span class="margnote">WALTER.  
 A.D. 1190.</span>To Gerard de Riderfort succeeded the Knight Templar,
-Brother WALTER. <span id="fr_216"></span>[†](#fn_216) Never did the
+Brother WALTER. <span id="fr_216"></span>[†](#fn_216.md) Never did the
 flame of enthusiasm burn with fiercer or more destructive power than at
 this famous siege of Acre. Nine pitched battles were fought, with
 various fortune, in the neighbourhood of Mount Carmel, and during the
@@ -915,7 +915,7 @@ first year of the siege a hundred thousand Christians are computed to
 have perished. The tents of the dead, however, were replenished by-new
 corners from Europe; the fleets of Saladin succoured the town, the
 christian ships brought continual aid to the besiegers, and the contest
-seemed interminable. <span id="fr_217"></span>[‡](#fn_217) Saladin's
+seemed interminable. <span id="fr_217"></span>[‡](#fn_217.md) Saladin's
 exertions in the cause of the prophet were incessant. The Arab authors
 compare him to a mother wandering with desperation in search of her lost
 child, to a lioness who has lost its young. "I saw him," says his
@@ -933,26 +933,26 @@ patiently enduring the severity of his pain." . . . . "O God," says his
 enthusiastic biographer, "thou knowest that he put forth and lavishly
 expended all his energies and strength towards the protection and the
 triumph of thy religion; do thou therefore, O Lord, have mercy upon
-him." <span id="fr_218"></span>[\*](#fn_218)
+him." <span id="fr_218"></span>[\*](#fn_218.md)
 
 At this famous siege died the Patriarch Heraclius. <span
-id="fr_219"></span>[†](#fn_219)
+id="fr_219"></span>[†](#fn_219.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_178"></span>[114:\*](hkt08.htm#fr_178) *Bernard Thesaur*.
+<span id="fn_178"></span>[114:\*](hkt08.htm#fr_178.md) *Bernard Thesaur*.
 cap. 157, apud *Muratori* script. rer. Ital. p. 792. *Cotton* MS., Nero
 E. vi. p. 60, fol. 466.
 
-<span id="fn_179"></span>[115:\*](hkt08.htm#fr_179) *Radulph de Diceto*,
+<span id="fn_179"></span>[115:\*](hkt08.htm#fr_179.md) *Radulph de Diceto*,
 ut sup. p. 626. *Matt. Par.* ad ann. 1185.
 
-<span id="fn_180"></span>[115:†](hkt08.htm#fr_180) *Hoveden* annal. apud
+<span id="fn_180"></span>[115:†](hkt08.htm#fr_180.md) *Hoveden* annal. apud
 rer. Angl. script. post Bedam, p. 636, 637.
 
-<span id="fn_181"></span>[117:\*](hkt08.htm#fr_181) The above passage is
+<span id="fn_181"></span>[117:\*](hkt08.htm#fr_181.md) The above passage is
 almost literally translated from Abbot Bromton's Chronicle. The
 Patriarch there says to the king, "Hactenus gloriose regnasti, sed amodo
 ipse te deseret quem tu deseruisti. Recole quæ dominus tibi contulit, et
@@ -970,61 +970,61 @@ Et sic demum patriarcha navem ascendens in Galliam reversus
 est."--*Chron. Joan. Bromton*, abbatis Jornalensis, script. X. p. 1144,
 ad ann. 1185.
 
-<span id="fn_182"></span>[117:†](hkt08.htm#fr_182) Sed hæc omnia
+<span id="fn_182"></span>[117:†](hkt08.htm#fr_182.md) Sed hæc omnia
 præfatus Patriarcha parum pendebat, sperabat enim quod esset reducturus
 secum ad defensionem Ierosolymitanæ terræ præfatum regem Angliæ, vel
 aliquem de filiis suis, vel aliquem virum magnæ auctoritatis; sed quia
 hoc esse non potuit, repatriaturus dolens et confusus a curiâ
 recessit.--*Hoveden* ut sup. p. 630.
 
-<span id="fn_183"></span>[118:\*](hkt08.htm#fr_183) *Contin. Hist. Bell.
+<span id="fn_183"></span>[118:\*](hkt08.htm#fr_183.md) *Contin. Hist. Bell.
 Sacr.* apud *Martene*, tom. v. col. 606. It appears from *Mansi* that
 this valuable old chronicle, formerly attributed to Hugh Plagon, is the
 original French work of *Bernard the Treasurer*.
 
-<span id="fn_184"></span>[119:\*](hkt08.htm#fr_184) Quand le roi avoit
+<span id="fn_184"></span>[119:\*](hkt08.htm#fr_184.md) Quand le roi avoit
 offert sa corone au Temple Dominus, si avaloit uns degrès qui sont
 dehors le Temple, et entroit en son pales au Temple de Salomon, ou li
 Templiers manoient. La etoient les tables por mengier, ou le roi
 s’asseoit, et si baron et tuit cil qui mengier voloient.--Contin. bell.
 sacr. apud *Martene*, tom. v. col. 586.
 
-<span id="fn_185"></span>[119:†](hkt08.htm#fr_185) Contin. hist. ut
+<span id="fn_185"></span>[119:†](hkt08.htm#fr_185.md) Contin. hist. ut
 sup., col. 593, 4. *Bernard. Thesaur.* apud *Muratori* script. rer.
 Ital., tom. vii. cap. 147, col. 782, cap. 148, col. 173. Assizes de
 Jerusalem, cap. 287, 288. *Guill. Neubr.* cap. 16.
 
-<span id="fn_186"></span>[120:\*](hkt08.htm#fr_186) Vita et res gestæ
+<span id="fn_186"></span>[120:\*](hkt08.htm#fr_186.md) Vita et res gestæ
 Saladini by *Bohadin F. Sjeddadi*, apud *Schultens*, ex. MS. Arab. Pref.
 
-<span id="fn_187"></span>[121:\*](hkt08.htm#fr_187) Chron. terræ Sanctæ
+<span id="fn_187"></span>[121:\*](hkt08.htm#fr_187.md) Chron. terræ Sanctæ
 apud *Martene*, tom. y. col. 551. Hist. Hierosol. Gest. Dei, tom, i. pt.
 ii. p. 1150, 1. *Geoffrey de Vinisauf*.
 
-<span id="fn_188"></span>[122:\*](hkt08.htm#fr_188) Contin. hist. bell.
+<span id="fn_188"></span>[122:\*](hkt08.htm#fr_188.md) Contin. hist. bell.
 sacr. ut sup., col. 599.
 
-<span id="fn_189"></span>[123:\*](hkt08.htm#fr_189) *Mohammed F.
+<span id="fn_189"></span>[123:\*](hkt08.htm#fr_189.md) *Mohammed F.
 Mohammed, N. Koreisg. Ispahan*, apud *Schultens*, p. 18.
 
-<span id="fn_190"></span>[124:\*](hkt08.htm#fr_190) *Radulph
+<span id="fn_190"></span>[124:\*](hkt08.htm#fr_190.md) *Radulph
 Coggleshale*, as eye-witness, apud *Martene*, tom. v. col. .553.
 
-<span id="fn_191"></span>[124:†](hkt08.htm#fr_191) Chron. Terræ Sanctæ,
+<span id="fn_191"></span>[124:†](hkt08.htm#fr_191.md) Chron. Terræ Sanctæ,
 apud *Martene*, tom. v. col. 558 and 545. A most valuable history.
 
-<span id="fn_192"></span>[125:\*](hkt08.htm#fr_192) *Omad’eddin
+<span id="fn_192"></span>[125:\*](hkt08.htm#fr_192.md) *Omad’eddin
 Kateb-Abou-hamed-Mohamed-Benhamed*, one of Saladin's secretaries.
 Extraits Arabes, par *M. Michaud*.
 
-<span id="fn_193"></span>[126:\*](hkt08.htm#fr_193) Contin. hist. bell.
+<span id="fn_193"></span>[126:\*](hkt08.htm#fr_193.md) Contin. hist. bell.
 sacr. apud *Martene*, tom. v. col. 608. *Bernard. Thesaur.* apud
 *Muratori* script. rer. Ital., cap. 46. col. 791.
 
-<span id="fn_194"></span>[127:\*](hkt08.htm#fr_194) *Bohadin*, cap. 35.
+<span id="fn_194"></span>[127:\*](hkt08.htm#fr_194.md) *Bohadin*, cap. 35.
 *Abulfeda*. *Abulpharag*.
 
-<span id="fn_195"></span>[127:†](hkt08.htm#fr_195) *Omad’eddin Kateb*,
+<span id="fn_195"></span>[127:†](hkt08.htm#fr_195.md) *Omad’eddin Kateb*,
 in his book called *Fatah*, celebrates the above exploits of Saladin.
 Extraits Arabes, *Michaud*. *Radulph Coggleshale*, Chron. Terr. San et.
 apud *Martene*, <span id="page_128">p. 128</span> tom. v. col. 553 to
@@ -1033,99 +1033,99 @@ Hearne, tom. i. lib. iii. cap. 17, 18. *Chron. Gervasii*, apud X.
 script. col. 1502. *Abulfeda*, cap. 27. *Abulpharag*. Chron. Syr. p.
 399, 401, 402. *Khondemir*. *Ben-Schunah*.
 
-<span id="fn_196"></span>[128:\*](hkt08.htm#fr_196) *Geoffrey de
+<span id="fn_196"></span>[128:\*](hkt08.htm#fr_196.md) *Geoffrey de
 Vinisauf* apud *Gale*, script. Antiq. Anglic. p. 15, "O zelus fidei! O
 fervor animi!" says that admiring historian, cap. xv. p. 251.
 
-<span id="fn_197"></span>[128:†](hkt08.htm#fr_197) *Geoffrey de
+<span id="fn_197"></span>[128:†](hkt08.htm#fr_197.md) *Geoffrey de
 Vinisauf*, ut sup. cap. v. p. 251.
 
-<span id="fn_198"></span>[129:\*](hkt08.htm#fr_198) Epistola Terrici
+<span id="fn_198"></span>[129:\*](hkt08.htm#fr_198.md) Epistola Terrici
 Præceptoris Templi de captione terræ Jerosolymitanæ, *Hoveden* anal.
 apud rer. Angl. script. post Bedam, p. 636, 637. *Chron. Gervas.* ib.
 col. 1502. *Radulph de Diceto*, apud X. script. col. 635.
 
-<span id="fn_199"></span>[130:\*](hkt08.htm#fr_199) Saladin's letter to
+<span id="fn_199"></span>[130:\*](hkt08.htm#fr_199.md) Saladin's letter to
 the caliph *Nassir Deldin-Illah Aboul Abbas Ahmed*.--*Michaud*, Extraits
 Arabes.
 
-<span id="fn_200"></span>[130:†](hkt08.htm#fr_200) Les dames de
+<span id="fn_200"></span>[130:†](hkt08.htm#fr_200.md) Les dames de
 Jerusalem firent prendre *cuves* et mettre en la place devant le monte
 Cauviaire, et emplir *d’eue froide*, et firent lors filles entrer
 jusqu’au col, et couper for treices et jeter les.--Contin. hist. bell.
 sacr. apud *Martene*, tom. v. col. 615.
 
-<span id="fn_201"></span>[131:\*](hkt08.htm#fr_201) Chron. Terra Sancta,
+<span id="fn_201"></span>[131:\*](hkt08.htm#fr_201.md) Chron. Terra Sancta,
 *Radulphi Coggeshale*, apud *Martene*, tom. v. col. .572, 573; flentibus
 christianis, trines et vestes rumpentibus, pectora et capita
 tundentibus, says the worthy abbot.
 
-<span id="fn_202"></span>[131:†](hkt08.htm#fr_202) See ante, p. 6.
+<span id="fn_202"></span>[131:†](hkt08.htm#fr_202.md) See ante, p. 6.
 
-<span id="fn_203"></span>[132:\*](hkt08.htm#fr_203) Saladin ot mandé a
+<span id="fn_203"></span>[132:\*](hkt08.htm#fr_203.md) Saladin ot mandé a
 Damas por euë rose assés por le Temple laver . . . il avoit quatre
 chamiex ou cinq tous chargiés.--Contin. hist. Bell. Sacr. col. 621.
 
-<span id="fn_204"></span>[132:†](hkt08.htm#fr_204) *Bohadin*, cap.
+<span id="fn_204"></span>[132:†](hkt08.htm#fr_204.md) *Bohadin*, cap.
 xxxvi, and the extracts from *Abulfeda*, apud *Schultens*, cap. xxvii.
 p. 42, 43. *Ib’n Alatsyr*, Michaud, Extraits Arabes.
 
-<span id="fn_205"></span>[132:‡](hkt08.htm#fr_205) *Hoveden*. annal.
+<span id="fn_205"></span>[132:‡](hkt08.htm#fr_205.md) *Hoveden*. annal.
 apud rer. Angl. script. post Bedam, p. 645, 646.
 
-<span id="fn_206"></span>[133:\*](hkt08.htm#fr_206) *Bohadin* apud
+<span id="fn_206"></span>[133:\*](hkt08.htm#fr_206.md) *Bohadin* apud
 *Schultens*, cap. xxxvi.
 
-<span id="fn_207"></span>[134:\*](hkt08.htm#fr_207) *Ibn-Alatsyr*, hist.
+<span id="fn_207"></span>[134:\*](hkt08.htm#fr_207.md) *Ibn-Alatsyr*, hist.
 Arab. and the *Raoudhatein*, or "the two gardens." *Michaud*, Extraits
 Arabes. Excerpta ex *Abulfeda* apud *Schultens*, cap. xxvii. p. 43.
 *Wilken* Comment. Abulfed. bist. p. 148.
 
-<span id="fn_208"></span>[135:\*](hkt08.htm#fr_208) Omad’eddin
+<span id="fn_208"></span>[135:\*](hkt08.htm#fr_208.md) Omad’eddin
 Kateb.--*Michaud*, Extraits Arabes.
 
-<span id="fn_209"></span>[136:\*](hkt08.htm#fr_209) *Khotbeh*, or sermon
+<span id="fn_209"></span>[136:\*](hkt08.htm#fr_209.md) *Khotbeh*, or sermon
 of *Mohammed Ben Zeky*.--*Michaud*, Extraits Arabes.
 
-<span id="fn_210"></span>[136:†](hkt08.htm#fr_210) See the account of
-this remarkable stone, ante p. [7](hkt03.htm#page_7),
-[8](hkt03.htm#page_8).
+<span id="fn_210"></span>[136:†](hkt08.htm#fr_210.md) See the account of
+this remarkable stone, ante p. [7](hkt03.htm#page_7.md),
+[8](hkt03.htm#page_8.md).
 
-<span id="fn_211"></span>[136:‡](hkt08.htm#fr_211) *Hist. Hierosol.*
+<span id="fn_211"></span>[136:‡](hkt08.htm#fr_211.md) *Hist. Hierosol.*
 Gesta Dei per Francos, tom. i. pt. ii. p. 1155.
 
-<span id="fn_212"></span>[137:\*](hkt08.htm#fr_212) *Hoveden* ut sup. p.
+<span id="fn_212"></span>[137:\*](hkt08.htm#fr_212.md) *Hoveden* ut sup. p.
 646. *Schahab'eddin* in the Raoudhatein.--*Michaud*.
 
-<span id="fn_213"></span>[138:\*](hkt08.htm#fr_213) *Jac. de Vitr.* cap.
+<span id="fn_213"></span>[138:\*](hkt08.htm#fr_213.md) *Jac. de Vitr.* cap.
 acv. *Vinisauf*, apud XV script. p. 257. *Trivet* ad ann. 1188, apud
 *Hall*, p. 93.
 
-<span id="fn_214"></span>[138:†](hkt08.htm#fr_214) *Radulph de Diceto*
+<span id="fn_214"></span>[138:†](hkt08.htm#fr_214.md) *Radulph de Diceto*
 ut sup. col. 642, 643. *Matt. Par.* ad ann. 1188.
 
-<span id="fn_215"></span>[139:\*](hkt08.htm#fr_215) *Radulph
+<span id="fn_215"></span>[139:\*](hkt08.htm#fr_215.md) *Radulph
 Coggeshale*, p. 574. Hist. Hierosol. apud Gesta Dei, tom. i. pars 2, p.
 1165. *Radulph de Diceto* ut sup, col. 649. *Vinisauf*, cap. xxix. p.
 270.
 
-<span id="fn_216"></span>[139:†](hkt08.htm#fr_216) *Ducange* Gloss. tom.
+<span id="fn_216"></span>[139:†](hkt08.htm#fr_216.md) *Ducange* Gloss. tom.
 vi. p. 1036.
 
-<span id="fn_217"></span>[139:‡](hkt08.htm#fr_217) *Geoffrey de
+<span id="fn_217"></span>[139:‡](hkt08.htm#fr_217.md) *Geoffrey de
 Vinisauf*, apud XV script. cap. xxxv. p. 427. *Rad. Coggleshale* apud
 *Martene*, tom. v. col. .566, 567. *Bohadin*, cap. l. to c.
 
-<span id="fn_218"></span>[140:\*](hkt08.htm#fr_218) *Bohadin*, cap. v.
+<span id="fn_218"></span>[140:\*](hkt08.htm#fr_218.md) *Bohadin*, cap. v.
 vi.
 
-<span id="fn_219"></span>[140:†](hkt08.htm#fr_219) L’art de verif. tom.
+<span id="fn_219"></span>[140:†](hkt08.htm#fr_219.md) L’art de verif. tom.
 i. p 297.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](hkt09)
+[Next: Chapter VII](hkt09.md)
 
 </div>

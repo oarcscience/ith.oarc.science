@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth007)  [Next](toth009) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth007)  [Next](toth009.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -66,7 +66,7 @@ as your cult does not seem to be effective, you watch the sun for me,
 and when he has arrived at his south limit, you tell me, and we shall
 have the Soyál ceremony. Also your pü'htavi does not seem to have been
 good, so I want you to make my kind of pü'htavi." <span
-id="fr_22"></span>[1](#fn_22)
+id="fr_22"></span>[1](#fn_22.md)
 
 After the matter had been settled between Machíto and the Spider clan
 chief, the latter's people came up. Among these were also the Lizard
@@ -106,7 +106,7 @@ them into the well in the booth for them.
 
 ### Footnotes
 
-<span id="fn_22"></span>[29:1](toth008.htm#fr_22) It is thought that
+<span id="fn_22"></span>[29:1](toth008.htm#fr_22.md) It is thought that
 this refers to the mutual celebrating of the Soyál ceremony, in which
 all are supposed yet to participate. Machíto had brought the Soyál altar
 and cult with him. The Píhk'ash People had Áholi Katcina and the screen
@@ -115,4 +115,4 @@ the water and rain.
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Snake Myth.](toth009)
+[Next: 6. The Snake Myth.](toth009.md)

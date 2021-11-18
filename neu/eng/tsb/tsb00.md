@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index)  [Next](tsb01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index)  [Next](tsb01.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,8 +31,8 @@ the US Copyright Office.
 <span id="img_illus01"></span>
 
 [![](tn/illus01.jpg)  
-Click to enlarge](img/illus01.jpg)
+Click to enlarge](img/illus01.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](tsb01)
+[Next: Foreword](tsb01.md)

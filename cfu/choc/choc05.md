@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](choc04)  [Next](choc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](choc04)  [Next](choc06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Occultism*, by Paul Carus, \[1907\], at Intangible Textual
 Heritage
 
@@ -24,9 +24,9 @@ high honor by the *literati*, it contains some features of interest
 which have not as yet been pointed out and deserve at least an
 incidental comment.
 
-P‘an-Ku is written in two ways: one <span id="fr_18"></span>[8](#fn_18)
+P‘an-Ku is written in two ways: one <span id="fr_18"></span>[8](#fn_18.md)
 means in literal translations, "basin ancient," the other "basin
-solid." <span id="fr_19"></span>[9](#fn_19) Both are homophones, i.e.,
+solid." <span id="fr_19"></span>[9](#fn_19.md) Both are homophones, i.e.,
 they are pronounced the same way; and the former may be preferred as the
 original and correct spelling. Obviously the name means "aboriginal
 abyss," or in the terser German, *Urgrund*, and we have reason to
@@ -59,7 +59,7 @@ The Prometheus myth is not indigenous to Greece, where it received the
 artistically classical form under which it is best known to us. The
 name, which by an ingenious afterthought is explained as "the fore
 thinker," is originally the Sanskrit *pramantha* <span
-id="fr_20"></span>[10](choc06.htm#fn_20) and means "twirler" or
+id="fr_20"></span>[10](choc06.htm#fn_20.md) and means "twirler" or
 "fire-stick," being the rod of hard wood which produced fire by rapid
 rotation in a piece of soft wood.
 
@@ -72,12 +72,12 @@ prototype as the Greek Prometheus.
 
 ### Footnotes
 
-<span id="fn_18"></span>[40:8](choc05.htm#fr_18) <span
+<span id="fn_18"></span>[40:8](choc05.htm#fr_18.md) <span
 id="img_04000"></span> ![](img/04000.jpg)
 
-<span id="fn_19"></span>[40:9](choc05.htm#fr_19) <span
+<span id="fn_19"></span>[40:9](choc05.htm#fr_19.md) <span
 id="img_04001"></span> ![](img/04001.jpg)
 
 ------------------------------------------------------------------------
 
-[Next: The Five Elements](choc06)
+[Next: The Five Elements](choc06.md)

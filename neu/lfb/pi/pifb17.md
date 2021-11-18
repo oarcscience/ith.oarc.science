@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb16)  [Next](pifb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb16)  [Next](pifb18.md) 
 
 </div>
 
@@ -213,6 +213,6 @@ they gave all their wealth, and lived with him till their dying day.
 
 ------------------------------------------------------------------------
 
-[Next: The Bird Grip](pifb18)
+[Next: The Bird Grip](pifb18.md)
 
 </div>

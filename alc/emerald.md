@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](catena1)  [Next](emerglor) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](catena1)  [Next](emerglor.md) 
 
 ------------------------------------------------------------------------
 
@@ -1061,6 +1061,6 @@ Number 2, Inner hermetic teachings.
 
 ------------------------------------------------------------------------
 
-[Next: Glory of the World](emerglor)
+[Next: Glory of the World](emerglor.md)
 
   

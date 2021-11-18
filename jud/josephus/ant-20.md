@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ Caesar for the authority over the temple, and the money of the sacred
 treasure, and the choice of the high priests, and obtained all that he
 petitioned for. So that after that time this authority continued among
 all his descendants till the end of the war <span
-id="EndNote Ant 20.1a"></span>[(1)](#EndNote%20Ant%2020.1b) Accordingly,
+id="EndNote Ant 20.1a"></span>[(1)](#EndNote%20Ant%2020.1b.md) Accordingly,
 Herod removed the last high priest, called Cimtheras, and bestowed that
 dignity on his successor Joseph, the son of Cantos.
 
@@ -115,7 +115,7 @@ wife; and when his son was born, he called him Izates. He had indeed
 Monobazus, his elder brother, by Helena also, as he had other sons by
 other wives besides. Yet did he openly place all his affections on this
 his only begotten <span
-id="EndNote Ant 20.2a"></span>[(2)](#EndNote%20Ant%2020.2b) son Izates,
+id="EndNote Ant 20.2a"></span>[(2)](#EndNote%20Ant%2020.2b.md) son Izates,
 which was the origin of that envy which his other brethren, by the same
 father, bore to him; while on this account they hated him more and more,
 and were all under great affliction that their father should prefer
@@ -138,7 +138,7 @@ manner, and bestowed on him the country called Carra; it was a soil that
 bare amomum in great plenty: there are also in it the remains of that
 ark, wherein it is related that Noah escaped the deluge, and where they
 are still shown to such as are desirous to see them. <span
-id="EndNote Ant 20.3a"></span>[(3)](#EndNote%20Ant%2020.3b) Accordingly,
+id="EndNote Ant 20.3a"></span>[(3)](#EndNote%20Ant%2020.3b.md) Accordingly,
 Izates abode in that country until his father's death. But the very day
 that Monobazus died, queen Helena sent for all the grandees, and
 governors of the kingdom, and for those that had the armies committed to
@@ -239,7 +239,7 @@ when they fell into many dangers, and procured their deliverance when it
 seemed to be impossible, and demonstrated thereby that the fruit of
 piety does not perish as to those that have regard to him, and fix their
 faith upon him only. <span
-id="EndNote Ant 20.4a"></span>[(4)](#EndNote%20Ant%2020.4b) But these
+id="EndNote Ant 20.4a"></span>[(4)](#EndNote%20Ant%2020.4b.md) But these
 events we shall relate hereafter.
 
 5\. But as to Helena, the king's mother, when she saw that the affairs
@@ -262,7 +262,7 @@ was done very quickly, she distributed food to those that were in want
 of it, and left a most excellent memorial behind her of this
 benefaction, which she bestowed on our whole nation. And when her son
 Izates was informed of this famine, <span
-id="EndNote Ant 20.5a"></span>[(5)](#EndNote%20Ant%2020.5b) he sent
+id="EndNote Ant 20.5a"></span>[(5)](#EndNote%20Ant%2020.5b.md) he sent
 great sums of money to the principal men in Jerusalem. However, what
 favors this queen and king conferred upon our city Jerusalem shall be
 further related hereafter.
@@ -329,7 +329,7 @@ Izates, when he had lost it by the means of the grandees of the kingdom.
 Nor was he unmindful of the benefits he had conferred upon him, but
 rewarded him with such honors as were of the greatest esteem among them;
 for he gave him leave to wear his tiara upright, <span
-id="EndNote Ant 20.6a"></span>[(6)](#EndNote%20Ant%2020.6b) and to sleep
+id="EndNote Ant 20.6a"></span>[(6)](#EndNote%20Ant%2020.6b.md) and to sleep
 upon a golden bed, which are privileges and marks of honor peculiar to
 the kings of Parthia. He also cut off a large and fruitful country from
 the king of Armenia, and bestowed it upon him. The name of the country
@@ -434,7 +434,7 @@ had returned him this answer, he betook himself to make supplication to
 God, and threw himself upon the ground, and put ashes upon his head, in
 testimony of his confusion, and fasted, together with his wives and
 children. <span
-id="EndNote Ant 20.7a"></span>[(7)](#EndNote%20Ant%2020.7b) Then he
+id="EndNote Ant 20.7a"></span>[(7)](#EndNote%20Ant%2020.7b.md) Then he
 called upon God, and said, "O Lord and Governor, if I have not in vain
 committed myself to thy goodness, but have justly determined that thou
 only art the Lord and principal of all beings, come now to my
@@ -463,7 +463,7 @@ eldest son. Accordingly, she went to him in haste; and when she was come
 into Adiabene, she did not long outlive her son Izates. But Monobazus
 sent her bones, as well as those of Izates, his brother, to Jerusalem,
 and gave order that they should be buried at the pyramids <span
-id="EndNote Ant 20.8a"></span>[(8)](#EndNote%20Ant%2020.8b) which their
+id="EndNote Ant 20.8a"></span>[(8)](#EndNote%20Ant%2020.8b.md) which their
 mother had erected; they were three in number, and distant no more than
 three furlongs from the city Jerusalem. But for the actions of Monobazus
 the king, which he did during the rest of his life. we will relate them
@@ -476,7 +476,7 @@ CALAMITY FELL UPON THE JEWS ON THE DAY OF THE PASSOVER.**
 
 1\. NOW it came to pass, while Fadus was procurator of Judea, that a
 certain magician, whose name was Theudas, <span
-id="EndNote Ant 20.9a"></span>[(9)](#EndNote%20Ant%2020.9b) persuaded a
+id="EndNote Ant 20.9a"></span>[(9)](#EndNote%20Ant%2020.9b.md) persuaded a
 great part of the people to take their effects with them, and follow him
 to the river Jordan; for he told them he was a prophet, and that he
 would, by his own command, divide the river, and afford them an easy
@@ -541,7 +541,7 @@ mournful day of it; and they all of them forgot their prayers and
 sacrifices, and betook themselves to lamentation and weeping; so great
 an affliction did the impudent obsceneness of a single soldier bring
 upon them. <span
-id="EndNote Ant 20.10a"></span>[(10)](#EndNote%20Ant%2020.10b)
+id="EndNote Ant 20.10a"></span>[(10)](#EndNote%20Ant%2020.10b.md)
 
 4\. Now before this their first mourning was over, another mischief
 befell them also; for some of those that raised the foregoing tumult,
@@ -574,7 +574,7 @@ HOW CLAUDIUS PUT AN END TO THEIR DIFFERENCES.**
 occasion following: It was the custom of the Galileans, when they came
 to the holy city at the festivals, to take their journeys through the
 country of the Samaritans; <span
-id="EndNote Ant 20.11a"></span>[(11)](#EndNote%20Ant%2020.11b) and at
+id="EndNote Ant 20.11a"></span>[(11)](#EndNote%20Ant%2020.11b.md) and at
 this time there lay, in the road they took, a village that was called
 Ginea, which was situated in the limits of Samaria and the great plain,
 where certain persons thereto belonging fought with the Galileans, and
@@ -602,7 +602,7 @@ and heaped ashes upon their heads, and by all possible means besought
 the seditious, and persuaded them that they would set before their eyes
 the utter subversion of their country, the conflagration of their
 temple, and the slavery of themselves, their wives, and children, <span
-id="EndNote Ant 20.12a"></span>[(12)](#EndNote%20Ant%2020.12b) which
+id="EndNote Ant 20.12a"></span>[(12)](#EndNote%20Ant%2020.12b.md) which
 would be the consequences of what they were doing; and would alter their
 minds, would cast away their weapons, and for the future be quiet, and
 return to their own homes. These persuasions of theirs prevailed upon
@@ -692,7 +692,7 @@ afterward dissolved upon the following occasion: While Felix was
 procurator of Judea, he saw this Drusilla, and fell in love with her;
 for she did indeed exceed all other women in beauty; and he sent to her
 a person whose name was Simon <span
-id="EndNote Ant 20.13a"></span>[(13)](#EndNote%20Ant%2020.13b) one of
+id="EndNote Ant 20.13a"></span>[(13)](#EndNote%20Ant%2020.13b.md) one of
 his friends; a Jew he was, and by birth a Cypriot, and one who pretended
 to be a magician, and endeavored to persuade her to forsake her present
 husband, and marry him; and promised, that if she would not refuse him,
@@ -703,9 +703,9 @@ transgress the laws of her forefathers, and to marry Felix; and when he
 had had a son by her, he named him Agrippa. But after what manner that
 young man, with his wife, perished at the conflagration of the mountain
 Vesuvius, <span
-id="EndNote Ant 20.14a"></span>[(14)](#EndNote%20Ant%2020.14b) in the
+id="EndNote Ant 20.14a"></span>[(14)](#EndNote%20Ant%2020.14b.md) in the
 days of Titus Caesar, shall be related hereafter. <span
-id="EndNote Ant 20.15a"></span>[(15)](#EndNote%20Ant%2020.15b)
+id="EndNote Ant 20.15a"></span>[(15)](#EndNote%20Ant%2020.15b.md)
 
 3\. But as for Bernice, she lived a widow a long while after the death
 of Herod \[king of Chalcis\], who was both her husband and her uncle;
@@ -721,7 +721,7 @@ and was married to Demetrius, the principal man among the Alexandrian
 Jews, both for his family and his wealth; and indeed he was then their
 alabarch. So she named her son whom she had by him Agrippinus. But of
 all these particulars we shall hereafter treat more exactly. <span
-id="EndNote Ant 20.16a"></span>[(16)](#EndNote%20Ant%2020.16b)
+id="EndNote Ant 20.16a"></span>[(16)](#EndNote%20Ant%2020.16b.md)
 
 CHAPTER 8.
 
@@ -732,7 +732,7 @@ PROCURATORS OF JUDEA.**
 
 1\. NOW Claudius Caesar died when he had reigned thirteen years, eight
 months, and twenty days; <span
-id="EndNote Ant 20.17a"></span>[(17)](#EndNote%20Ant%2020.17b) and a
+id="EndNote Ant 20.17a"></span>[(17)](#EndNote%20Ant%2020.17b.md) and a
 report went about that he was poisoned by his wife Agrippina. Her father
 was Germanicus, the brother of Caesar. Her husband was Domitius
 Aenobarbus, one of the most illustrious persons that was in the city of
@@ -782,7 +782,7 @@ Azizus, king of Emesa, Soemus, his brother, succeeded in his kingdom,
 and Aristobulus, the son of Herod, king of Chalcis, was intrusted by
 Nero with the government of the Lesser Armenia. Caesar also bestowed on
 Agrippa a certain part of Galilee, Tiberias, and Tarichae, <span
-id="EndNote Ant 20.18a"></span>[(18)](#EndNote%20Ant%2020.18b) and
+id="EndNote Ant 20.18a"></span>[(18)](#EndNote%20Ant%2020.18b.md) and
 ordered them to submit to his jurisdiction. He gave him also Julias, a
 city of Perea, with fourteen villages that lay about it.
 
@@ -810,7 +810,7 @@ murder him after the following manner: Certain of those robbers went up
 to the city, as if they were going to worship God, while they had
 daggers under their garments, and by thus mingling themselves among the
 multitude they slew Jonathan <span
-id="EndNote Ant 20.19a"></span>[(19)](#EndNote%20Ant%2020.19b) and as
+id="EndNote Ant 20.19a"></span>[(19)](#EndNote%20Ant%2020.19b.md) and as
 this murder was never avenged, the robbers went up with the greatest
 security at the festivals after this time; and having weapons concealed
 in like manner as before, and mingling themselves among the multitude,
@@ -832,7 +832,7 @@ would exhibit manifest wonders and signs, that should be performed by
 the providence of God. And many that were prevailed on by them suffered
 the punishments of their folly; for Felix brought them back, and then
 punished them. Moreover, there came out of Egypt <span
-id="EndNote Ant 20.20a"></span>[(20)](#EndNote%20Ant%2020.20b) about
+id="EndNote Ant 20.20a"></span>[(20)](#EndNote%20Ant%2020.20b.md) about
 this time to Jerusalem one that said he was a prophet, and advised the
 multitude of the common people to go along with him to the Mount of
 Olives, as it was called, which lay over against the city, and at the
@@ -889,7 +889,7 @@ struggled together, they did it by casting reproachful words against one
 another, and by throwing stones also. And there was nobody to reprove
 them; but these disorders were done after a licentious manner in the
 city, as if it had no government over it. And such was the impudence
-<span id="EndNote Ant 20.21a"></span>[(21)](#EndNote%20Ant%2020.21b) and
+<span id="EndNote Ant 20.21a"></span>[(21)](#EndNote%20Ant%2020.21b.md) and
 boldness that had seized on the high priests, that they had the
 hardiness to send their servants into the threshing-floors, to take away
 those tithes that were due to the priests, insomuch that it so fell out
@@ -954,7 +954,7 @@ of the temple should be demolished; and when Festus had given them leave
 so to do, they sent ten of their principal men to Nero, as also Ismael
 the high priest, and Helcias, the keeper of the sacred treasure. And
 when Nero had heard what they had to say, he not only forgave <span
-id="EndNote Ant 20.22a"></span>[(22)](#EndNote%20Ant%2020.22b) them what
+id="EndNote Ant 20.22a"></span>[(22)](#EndNote%20Ant%2020.22b.md) them what
 they had already done, but also gave them leave to let the wall they had
 built stand. This was granted them in order to gratify Poppea, Nero's
 wife, who was a religious woman, and had requested these favors of Nero,
@@ -978,7 +978,7 @@ himself enjoyed that dignity a long time formerly, which had never
 happened to any other of our high priests. But this younger Ananus, who,
 as we have told you already, took the high priesthood, was a bold man in
 his temper, and very insolent; he was also of the sect of the Sadducees,
-<span id="EndNote Ant 20.23a"></span>[(23)](#EndNote%20Ant%2020.23b) who
+<span id="EndNote Ant 20.23a"></span>[(23)](#EndNote%20Ant%2020.23b.md) who
 are very rigid in judging offenders, above all the rest of the Jews, as
 we have already observed; when, therefore, Ananus was of this
 disposition, he thought he had now a proper opportunity \[to exercise
@@ -995,7 +995,7 @@ had already done was not to be justified; nay, some of them went also to
 meet Albinus, as he was upon his journey from Alexandria, and informed
 him that it was not lawful for Ananus to assemble a sanhedrim without
 his consent. <span
-id="EndNote Ant 20.24a"></span>[(24)](#EndNote%20Ant%2020.24b) Whereupon
+id="EndNote Ant 20.24a"></span>[(24)](#EndNote%20Ant%2020.24b.md) Whereupon
 Albinus complied with what they said, and wrote in anger to Ananus, and
 threatened that he would bring him to punishment for what he had done;
 on which king Agrippa took the high priesthood from him, when he had
@@ -1005,7 +1005,7 @@ ruled but three months, and made Jesus, the son of Damneus, high priest.
 all his endeavors and care that the country might be kept in peace, and
 this by destroying many of the *Sicarii*. But as for the high priest,
 Ananias <span
-id="EndNote Ant 20.25a"></span>[(25)](#EndNote%20Ant%2020.25b) he
+id="EndNote Ant 20.25a"></span>[(25)](#EndNote%20Ant%2020.25b.md) he
 increased in glory every day, and this to a great degree, and had
 obtained the favor and esteem of the citizens in a signal manner; for he
 was a great hoarder up of money: he therefore cultivated the friendship
@@ -1068,7 +1068,7 @@ by which means the prisons were indeed emptied, but the country was
 filled with robbers.
 
 6\. Now as many of the Levites, <span
-id="EndNote Ant 20.26a"></span>[(26)](#EndNote%20Ant%2020.26b) which is
+id="EndNote Ant 20.26a"></span>[(26)](#EndNote%20Ant%2020.26b.md) which is
 a tribe of ours, as were singers of hymns, persuaded the king to
 assemble a sanhedrim, and to give them leave to wear linen garments, as
 well as the priests for they said that this would be a work worthy the
@@ -1097,7 +1097,7 @@ outer court, and were situated in a deep valley, and had walls that
 reached four hundred cubits \[in length\], and were built of square and
 very white stones, the length of each of which stones was twenty cubits,
 and their height six cubits. This was the work of king Solomon, <span
-id="EndNote Ant 20.27a"></span>[(27)](#EndNote%20Ant%2020.27b) who first
+id="EndNote Ant 20.27a"></span>[(27)](#EndNote%20Ant%2020.27b.md) who first
 of all built the entire temple. But king Agrippa, who had the care of
 the temple committed to him by Claudius Caesar, considering that it is
 easy to demolish any building, but hard to build it up again, and that
@@ -1293,12 +1293,12 @@ succeeded therein, who were immediately well rewarded for their pains.
 
 3\. And now it will not be perhaps an invidious thing, if I treat
 briefly of my own family, and of the actions of my own life <span
-id="EndNote Ant 20.28a"></span>[(28)](#EndNote%20Ant%2020.28b) while
+id="EndNote Ant 20.28a"></span>[(28)](#EndNote%20Ant%2020.28b.md) while
 there are still living such as can either prove what I say to be false,
 or can attest that it is true; with which accounts I shall put an end to
 these Antiquities, which are contained in twenty books, and sixty
 thousand verses. And if God permit me, I will briefly run over this war
-<span id="EndNote Ant 20.29a"></span>[(29)](#EndNote%20Ant%2020.29b),
+<span id="EndNote Ant 20.29a"></span>[(29)](#EndNote%20Ant%2020.29b.md),
 and to add what befell them further to that very day, the 13th of
 Domitian, or A.D. 03, is not, that I have observed, taken distinct
 notice of by any one; nor do we ever again, with what befell us therein
@@ -1310,7 +1310,7 @@ are permitted us to do, and others are prohibited.
 
 ENDNOTE
 
-<span id="EndNote Ant 20.1b"></span>[(1)](#EndNote%20Ant%2020.1a) Here
+<span id="EndNote Ant 20.1b"></span>[(1)](#EndNote%20Ant%2020.1a.md) Here
 is some error in the copies, or mistake in Josephus; for the power of
 appointing high priests, alter Herod king of Chalcis was dead, and
 Agrippa, junior, was made king of Chalcis in his room, belonged to him;
@@ -1318,25 +1318,25 @@ and he exercised the same all along till Jerusalem was destroyed, as
 Josephus elsewhere informs us, ch. 8. sect. , 11; ch. 9. sect. 1, 4, 6,
 7.
 
-<span id="EndNote Ant 20.2b"></span>[(2)](#EndNote%20Ant%2020.2a)
+<span id="EndNote Ant 20.2b"></span>[(2)](#EndNote%20Ant%2020.2a.md)
 Josephus here uses the word monogene, an only begotten son, for no other
 than one best beloved, as does both the Old and New Testament, I mean
 where there were one or more sons besides, Genesis 22:2; Hebrew 11:17.
 See the note on B. I. ch. 13. sect. 1.
 
-<span id="EndNote Ant 20.3b"></span>[(3)](#EndNote%20Ant%2020.3a) It is
+<span id="EndNote Ant 20.3b"></span>[(3)](#EndNote%20Ant%2020.3a.md) It is
 here very remarkable, that the remains of Noah's ark were believed to he
 still in being in the days of Josephus. See the note on B. I. ch. 3.
 sect. 5.
 
-<span id="EndNote Ant 20.4b"></span>[(4)](#EndNote%20Ant%2020.4a)
+<span id="EndNote Ant 20.4b"></span>[(4)](#EndNote%20Ant%2020.4a.md)
 Josephus is very full and express in these three chapters, 3., 4., and
 5., in observing how carefully Divine Providence preserved this Izates,
 king of Adiabene, and his sons, while he did what he thought was his
 bounden duty, notwithstanding the strongest political motives to the
 contrary.
 
-<span id="EndNote Ant 20.5b"></span>[(5)](#EndNote%20Ant%2020.5a) This
+<span id="EndNote Ant 20.5b"></span>[(5)](#EndNote%20Ant%2020.5a.md) This
 further account of the benefactions of Izates and Helena to the
 Jerusalem Jews which Josephus here promises is, I think, no where
 performed by him in his present works. But of this terrible famine
@@ -1357,18 +1357,18 @@ the 5th, 6th, and 7th years of Claudius, as says Valesius on Euseb. II.
 see Moses Churenensis, p. 144, 145, where it is observed in the notes
 that Pausanias mentions that her monument also.
 
-<span id="EndNote Ant 20.6b"></span>[(6)](#EndNote%20Ant%2020.6a) This
+<span id="EndNote Ant 20.6b"></span>[(6)](#EndNote%20Ant%2020.6a.md) This
 privilege of wearing the tiara upright, or with the tip of the cone
 erect, is known to have been of old peculiar to great kings, from
 Xenophon and others, as Dr. Hudson observes here.
 
-<span id="EndNote Ant 20.7b"></span>[(7)](#EndNote%20Ant%2020.7a) This
+<span id="EndNote Ant 20.7b"></span>[(7)](#EndNote%20Ant%2020.7a.md) This
 conduct of Izates is a sign that he was become either a Jew, or an
 Ebionite Christian, who indeed differed not much from proper Jews. See
 ch. 6. sect. 1. However, his supplications were heard, and he was
 providentially delivered from that imminent danger he was in.
 
-<span id="EndNote Ant 20.8b"></span>[(8)](#EndNote%20Ant%2020.8a) These
+<span id="EndNote Ant 20.8b"></span>[(8)](#EndNote%20Ant%2020.8a.md) These
 pyramids or pillars, erected by Helena, queen of Adiabene, near
 Jerusalem, three in number, are mentioned by Eusebius, in his Eccles.
 Hist. B. II. ch. 12, for which Dr. Hudson refers us to Valesius's notes
@@ -1376,13 +1376,13 @@ upon that place.--They are also mentioned by Pausanias, as hath been
 already noted, ch. 2. sect. 6. Reland guesses that that now called
 Absalom's Pillar may be one of them.
 
-<span id="EndNote Ant 20.9b"></span>[(9)](#EndNote%20Ant%2020.9a) This
+<span id="EndNote Ant 20.9b"></span>[(9)](#EndNote%20Ant%2020.9a.md) This
 Theudas, who arose under Fadus the procurator, about A.D. 45 or 46,
 could not be that Thendas who arose in the days of the taxing, under
 Cyrenius, or about A.D. 7, Acts v. 36, 37. Who that earlier Theudas was,
 see the note on B. XVII. ch. 10. sect. 5.
 
-<span id="EndNote Ant 20.10b"></span>[(10)](#EndNote%20Ant%2020.10a)
+<span id="EndNote Ant 20.10b"></span>[(10)](#EndNote%20Ant%2020.10a.md)
 This and. many more tumults and seditions which arose at the Jewish
 festivals, in Josephus, illustrate the cautious procedure of the Jewish
 governors, when they said, Matthew 26:5, "Let us not take Jesus on the
@@ -1390,14 +1390,14 @@ feast-day, lest there be an up roar among the people;" as Reland well
 observes on tins place. Josephus also takes notice of the same thing, Of
 the War, B. I. ch. 4. sect. 3.
 
-<span id="EndNote Ant 20.11b"></span>[(11)](#EndNote%20Ant%2020.11a)
+<span id="EndNote Ant 20.11b"></span>[(11)](#EndNote%20Ant%2020.11a.md)
 This constant passage of the Galileans through the country of Samaria,
 as they went to Judea and Jerusalem, illustrates several passages in the
 Gospels to the same purpose, as Dr. Hudson rightly observes. See Luke
 17:11; John 4:4. See also Josephus in his own Life, sect. 52, where that
 journey is determined to three days.
 
-<span id="EndNote Ant 20.12b"></span>[(12)](#EndNote%20Ant%2020.12a) Our
+<span id="EndNote Ant 20.12b"></span>[(12)](#EndNote%20Ant%2020.12a.md) Our
 Savior had foretold that the Jews' rejection of his gospel would bring
 upon them, among other miseries, these three, which they themselves here
 show they expected would be the consequences of their present tumults
@@ -1405,7 +1405,7 @@ and seditions: the utter subversion of their country, the conflagration
 of their temple, and the slavery of themselves, their wives, and
 children See Luke 21:6-24.
 
-<span id="EndNote Ant 20.13b"></span>[(13)](#EndNote%20Ant%2020.13a)
+<span id="EndNote Ant 20.13b"></span>[(13)](#EndNote%20Ant%2020.13a.md)
 This Simon, a friend of Felix, a Jew, born in Cyprus, though he
 pretended to be a magician, and seems to have been wicked enough, could
 hardly be that famous Simon the magician, in the Acts of the Apostles,
@@ -1437,7 +1437,7 @@ Antonius and Cleopatra; and finding the name of one of them to have been
 Drusilla, he mistook her for that other wife, whose name he did not
 know.
 
-<span id="EndNote Ant 20.14b"></span>[(14)](#EndNote%20Ant%2020.14a)
+<span id="EndNote Ant 20.14b"></span>[(14)](#EndNote%20Ant%2020.14a.md)
 This eruption of Vesuvius was one of the greatest we have in history.
 See Bianchini's curious and important observations on this Vesuvius, and
 its seven several great eruptions, with their remains vitrified, and
@@ -1447,26 +1447,26 @@ interstices, implying the deluge to have been above two thousand five
 hundred years before the Christian era, according to our exactest
 chronology.
 
-<span id="EndNote Ant 20.15b"></span>[(15)](#EndNote%20Ant%2020.15a)
+<span id="EndNote Ant 20.15b"></span>[(15)](#EndNote%20Ant%2020.15a.md)
 This is now wanting.
 
-<span id="EndNote Ant 20.16b"></span>[(16)](#EndNote%20Ant%2020.16a)
+<span id="EndNote Ant 20.16b"></span>[(16)](#EndNote%20Ant%2020.16a.md)
 This also is now wanting.
 
-<span id="EndNote Ant 20.17b"></span>[(17)](#EndNote%20Ant%2020.17a)
+<span id="EndNote Ant 20.17b"></span>[(17)](#EndNote%20Ant%2020.17a.md)
 This duration of the reign of Claudius agrees with Dio, as Dr. Hudson
 here remarks; as he also remarks that Nero's name, which was at first L.
 Domitius Aenobarbus, after Claudius had adopted him was Nero Claudius
 Caesar Drusus Germanicus. This Soleus as \[own Life, sect. 11, as also\]
 by Dio Cassius andTaeims, as Dr. Hudson informs us.
 
-<span id="EndNote Ant 20.18b"></span>[(18)](#EndNote%20Ant%2020.18a)
+<span id="EndNote Ant 20.18b"></span>[(18)](#EndNote%20Ant%2020.18a.md)
 This agrees with Josephus's frequent accounts elsewhere in his own Life,
 that Tibetans, and Taricheae, and Gamala were under this Agrippa,
 junior, till Justus, the son of Pistus, seized for the Jews, upon the
 breaking out of the war.
 
-<span id="EndNote Ant 20.19b"></span>[(19)](#EndNote%20Ant%2020.19a)
+<span id="EndNote Ant 20.19b"></span>[(19)](#EndNote%20Ant%2020.19a.md)
 This treacherous and barbarous murder of the good high priest Jonathan,
 by the contrivance of this wicked procurator, Felix, was the immediate
 occasion of the ensuing murders by the Sicarii or ruffians, and one
@@ -1516,20 +1516,20 @@ mentioned in the four Gospels; and that Ananias, the son of Nebedeus,
 was that high priest before whom St. Paul pleaded his own cause, Acts
 24.
 
-<span id="EndNote Ant 20.20b"></span>[(20)](#EndNote%20Ant%2020.20a) Of
+<span id="EndNote Ant 20.20b"></span>[(20)](#EndNote%20Ant%2020.20a.md) Of
 these Jewish impostors and false prophets, with many other circumstances
 and miseries of the Jews, till their utter destruction, foretold by our
 Savior, see Lit. Accompl. of Proph. p. 58-75. Of this Egyptian impostor,
 and the number of his followers, in Josephus, see Acts 21:38.
 
-<span id="EndNote Ant 20.21b"></span>[(21)](#EndNote%20Ant%2020.21a) The
+<span id="EndNote Ant 20.21b"></span>[(21)](#EndNote%20Ant%2020.21a.md) The
 wickedness here was very peculiar and extraordinary, that the high
 priests should so oppress their brethren the priests, as to starve the
 poorest of them to death. See the like presently, ch. 9. sect. 2. Such
 fatal crimes are covetousness and tyranny in the clergy, as well as in
 the laity, in all ages.
 
-<span id="EndNote Ant 20.22b"></span>[(22)](#EndNote%20Ant%2020.22a) We
+<span id="EndNote Ant 20.22b"></span>[(22)](#EndNote%20Ant%2020.22a.md) We
 have here one eminent example of Nero's mildness and goodness in his
 government towards the Jews, during the first five years of his reign,
 so famous in antiquity; we have perhaps another in Josephus's own Life,
@@ -1539,7 +1539,7 @@ obtained of Nero by his queen Poppea, who was a religious lady, and
 perhaps privately a Jewish proselyte, and so were not owing entirely to
 Nero's own goodness.
 
-<span id="EndNote Ant 20.23b"></span>[(23)](#EndNote%20Ant%2020.23a) It
+<span id="EndNote Ant 20.23b"></span>[(23)](#EndNote%20Ant%2020.23a.md) It
 hence evidently appears that Sadducees might be high priests in the days
 of Josephus, and that these Sadducees were usually very severe and
 inexorable judges, while the Pharisees were much milder, and more
@@ -1548,7 +1548,7 @@ and on Josephus's Life, sect. 31, and those taken from the New
 Testament, from Josephus himself, and from the Rabbins; nor do we meet
 with any Sadducees later than this high priest in all Josephus.
 
-<span id="EndNote Ant 20.24b"></span>[(24)](#EndNote%20Ant%2020.24a) Of
+<span id="EndNote Ant 20.24b"></span>[(24)](#EndNote%20Ant%2020.24a.md) Of
 this condemnation of James the Just, and its causes, as also that he did
 not die till long afterwards, see Prim. Christ. Revived, vol. III. ch.
 43-46. The sanhedrim condemned our Savior, but could not put him to
@@ -1556,7 +1556,7 @@ death without the approbation of the Roman procurator; nor could
 therefore Ananias and his sanhedrim do more here, since they never had
 Albinus's approbation for the putting this James to death.
 
-<span id="EndNote Ant 20.25b"></span>[(25)](#EndNote%20Ant%2020.25a)
+<span id="EndNote Ant 20.25b"></span>[(25)](#EndNote%20Ant%2020.25a.md)
 This Ananias was not the son of Nebedeus, as I take it, but he who was
 called Annas or Ananus the elder, the ninth in the catalogue, and who
 had been esteemed high priest for a long time; and, besides Caiaphas,
@@ -1573,22 +1573,22 @@ perpetual high priest, and was perhaps the occasion that former high
 priests kept their titles ever afterwards; for I believe it is hardly
 met with be fore him.
 
-<span id="EndNote Ant 20.26b"></span>[(26)](#EndNote%20Ant%2020.26a)
+<span id="EndNote Ant 20.26b"></span>[(26)](#EndNote%20Ant%2020.26a.md)
 This insolent petition of some of the Levites, to wear the sacerdotal
 garments when they sung hymns to God in the temple, was very probably
 owing to the great depression and contempt the haughty high priests had
 now brought their brethren the priests into; of which see ch. 8. sect.
 8, and ch. 9, sect. 2.
 
-<span id="EndNote Ant 20.27b"></span>[(27)](#EndNote%20Ant%2020.27a) Of
+<span id="EndNote Ant 20.27b"></span>[(27)](#EndNote%20Ant%2020.27a.md) Of
 these cloisters of Solomon, see the description of the temple, ch. 13.
 They seem, by Josephus's words, to have been built from the bottom of
 the valley.
 
-<span id="EndNote Ant 20.28b"></span>[(28)](#EndNote%20Ant%2020.28a) See
+<span id="EndNote Ant 20.28b"></span>[(28)](#EndNote%20Ant%2020.28a.md) See
 the Life at the beginning of the volume.
 
-<span id="EndNote Ant 20.29b"></span>[(29)](#EndNote%20Ant%2020.29a)
+<span id="EndNote Ant 20.29b"></span>[(29)](#EndNote%20Ant%2020.29a.md)
 What Josephus here declares his intention to do, if God permitted, to
 give the public again an abridgement of the Jewish War hear of it
 elsewhere, whether he performed what he now intended or not. Some of the
@@ -1621,4 +1621,4 @@ his removal from Rome to Judea, with what followed it, might easily
 interrupt such his intentions, and prevent his publication of those
 works.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

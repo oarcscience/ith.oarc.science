@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl05)  [Next](flhl07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl05)  [Next](flhl07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Hanauer \[1907\], at Intangible Textual Heritage
 
 NOAH, on whom be peace, was one of the six greatest prophets that ever
 lived, though he left no writings behind him, as did his grandfather
-Idrìs, <span id="fr_7"></span>[1](#fn_7) who was the first human being
+Idrìs, <span id="fr_7"></span>[1](#fn_7.md) who was the first human being
 to use a pen, wherewith he wrote thirty books of divine
 revelation--besides works on astronomy and other sciences, which are now
 lost--before Allah removed him to Heaven. Another name of Noah was ’Abd
@@ -38,7 +38,7 @@ Noah's efforts to convert mankind were vain. He was beaten and mocked
 even by his own wife Wa’ileh, an unbeliever, as well as by his wicked
 son Canaan, and the latter's son Uj ibn ’Anak (Og the son of Anak). Anak
 was the daughter of Adam, a vile woman, <span
-id="fr_8"></span>[2](#fn_8) and the first of witches. These four wicked
+id="fr_8"></span>[2](#fn_8.md) and the first of witches. These four wicked
 persons did their best to persuade everyone that Noah was mad.
 
 The Flood burst forth from underground out of a "tannûr" or oven, the
@@ -59,7 +59,7 @@ hidden, disguised as a fly. This donkey, reluctant to enter the ark
 bearing the Evil One with him, was driven in by Noah with hard blows. To
 compensate the donkey for this injustice, it had been predestined that
 one of his descendants should enter Paradise. This happened when the ass
-of ’Ozair <span id="fr_9"></span>[1](#fn_9) was raised to life again and
+of ’Ozair <span id="fr_9"></span>[1](#fn_9.md) was raised to life again and
 admitted into the Heavenly Garden.
 
 The waters of the Deluge destroyed all mankind except those inside the
@@ -78,8 +78,8 @@ by holding them up to the sun. When thirsty, all he had to do was to put
 out his hands close together and catch the rain which was tumbling in
 bucketsful from the skies. He lived several centuries after the Flood
 till the time of Mûsa. One day, as he was standing on Jebel esh
-Sheykh, <span id="fr_10"></span>[1](#fn_10) he wanted to stride across
-El-Beka’a, <span id="fr_11"></span>[2](#fn_11) but, misjudging the
+Sheykh, <span id="fr_10"></span>[1](#fn_10.md) he wanted to stride across
+El-Beka’a, <span id="fr_11"></span>[2](#fn_11.md) but, misjudging the
 distance, he stepped, not on to the Lebanon Range, as he had intended,
 but far beyond it, into the great sea. At another time when, suffering
 from fever, he lay down to rest, he stretched from Banias, where the
@@ -104,7 +104,7 @@ in such a
 
 way that he could not get rid of it, nor see where he was going.
 Hereupon Mûsa, whose stature was ten dra’as, <span
-id="fr_12"></span>[1](#fn_12) and whose miracle-working rod was the same
+id="fr_12"></span>[1](#fn_12.md) and whose miracle-working rod was the same
 length, leapt up to the height of ten dra’as and just managed to hit Og
 on his ankle, so that he fell down and was killed. Stones were heaped
 upon his body as high as a mountain.
@@ -145,23 +145,23 @@ and snap at their owners.
 
 ### Footnotes
 
-<span id="fn_7"></span>[13:1](flhl06.htm#fr_7) Enoch.
+<span id="fn_7"></span>[13:1](flhl06.htm#fr_7.md) Enoch.
 
-<span id="fn_8"></span>[13:2](flhl06.htm#fr_8) Awwal sharmûteh kânet
+<span id="fn_8"></span>[13:2](flhl06.htm#fr_8.md) Awwal sharmûteh kânet
 fi’d-dunyah.
 
-<span id="fn_9"></span>[14:1](flhl06.htm#fr_9) *i.e.* Jeremiah, Esdras,
+<span id="fn_9"></span>[14:1](flhl06.htm#fr_9.md) *i.e.* Jeremiah, Esdras,
 or Lazarus of Bethany: three saints who have got confused in Syrian
 Hagiology.
 
-<span id="fn_10"></span>[15:1](flhl06.htm#fr_10) Mount Hermon.
+<span id="fn_10"></span>[15:1](flhl06.htm#fr_10.md) Mount Hermon.
 
-<span id="fn_11"></span>[15:2](flhl06.htm#fr_11) The wide plain of
+<span id="fn_11"></span>[15:2](flhl06.htm#fr_11.md) The wide plain of
 Coele-Syria.
 
-<span id="fn_12"></span>[16:1](flhl06.htm#fr_12) The modern "dra’a" or
+<span id="fn_12"></span>[16:1](flhl06.htm#fr_12.md) The modern "dra’a" or
 "peak"=27 inches.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Job and His Family](flhl07)
+[Next: IV. Job and His Family](flhl07.md)

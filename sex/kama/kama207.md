@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama206) 
-[Next](kama208) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama206.md) 
+[Next](kama208.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ excitement when the woman is not accustomed to striking, she continually
 utters words expressive of prohibition, sufficiently, or desire of
 liberation, as well as the words 'father', 'mother', intermingled with
 the sighing, weeping and thundering sounds. <span
-id="fr_34"></span>[1](kama101.htm#fn_0) Towards the conclusion of the
+id="fr_34"></span>[1](kama101.htm#fn_0.md) Towards the conclusion of the
 congress, the breasts, the jaghana, and the sides of the woman should be
 pressed with the open palms of the hand, with some force, until the end
 of it, and then sounds like those of the quail or the goose should be
@@ -141,7 +141,7 @@ proper time. and in the proper countries and places.'
 
 ### Footnotes
 
-<span id="fn_34"></span>[1](#fr_-1) Men who are well acquainted with the
+<span id="fn_34"></span>[1](#fr_-1.md) Men who are well acquainted with the
 art of love are well aware how often one woman differs from another in
 her sighs and sounds during the time of congress. Some women like to be
 talked to in the most loving way, others in the most lustful way, others
@@ -152,4 +152,4 @@ greatest pleasure, and what specialities they like best.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. About Females Acting the Part of Males](kama208)
+[Next: Chapter VIII. About Females Acting the Part of Males](kama208.md)

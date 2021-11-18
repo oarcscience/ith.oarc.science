@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn24)  [Next](rmn26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn24)  [Next](rmn26.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ consisted chiefly in mysterious and symbolical practices: such were
 Bacchus, the Sun, Apollo, Osiris, so often and perhaps so justly
 confounded, Eros, Vesta, the Eleusinian Ceres, &c.! Such was also the
 god Mythra, for this divinity was no other than that of Eleusis. <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 <span id="page_51">p. 51</span>
 
@@ -114,11 +114,11 @@ the maker of peoples, the lord of generation.
 
 ### Footnotes
 
-<span id="fn_28"></span>[50:1](rmn25.htm#fr_28) See *Les Mythriaques*, a
+<span id="fn_28"></span>[50:1](rmn25.htm#fr_28.md) See *Les Mythriaques*, a
 treatise by M. von Hammer, with notes by Mr. Spencer Smith. See also an
 excellent dissertation by M. Denne-Baron, printed in *La France
 Litteraire*, vol. 9, p. 5.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXV: Phallic Lamps](rmn26)
+[Next: Plate XXV: Phallic Lamps](rmn26.md)

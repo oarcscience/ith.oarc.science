@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth074)  [Next](toth076) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth074)  [Next](toth076.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 72. THE CHÍRO AND THE COYOTE. <span id="fr_144"></span>[1](#fn_142)
+## 72. THE CHÍRO AND THE COYOTE. <span id="fr_144"></span>[1](#fn_142.md)
 
 In Oraíbi the people were living. At Íshmovala the Coyote lived. Away
 over there at K'áhk'angwovâkaavi lived a great many Chíros, and they
@@ -55,9 +55,9 @@ you were going about again."
 
 ### Footnotes
 
-<span id="fn_142"></span>[201:1](toth075.htm#fr_144) Told by Qöyáwaima
+<span id="fn_142"></span>[201:1](toth075.htm#fr_144.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 73. The Coyote and the Porcupine](toth076)
+[Next: 73. The Coyote and the Porcupine](toth076.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat09.htm#LIII) 
-[Previous](satl052)  [Next](satl054) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat09.htm#LIII.md) 
+[Previous](satl052)  [Next](satl054.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ Atella&lt;na&gt;m facere, et choraulen meum iussi Latine cantare".
 
 ------------------------------------------------------------------------
 
-[Next: LIV](satl054)
+[Next: LIV](satl054.md)

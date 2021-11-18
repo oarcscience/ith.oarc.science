@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai26)  [Next](iai28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai26)  [Next](iai28.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,8 +22,8 @@ The cup of poison shall thy lovers see.
 Thou sawest me within a haunt away  
 From men. I lingered on that direful day,  
 And took thee for a beauteous *zi-re-mu* <span
-id="fr_216"></span>[1](#fn_214)  
-Or *zi-ar-i-a* or a *zi-lit-tu*, <span id="fr_217"></span>[2](#fn_215)  
+id="fr_216"></span>[1](#fn_214.md)  
+Or *zi-ar-i-a* or a *zi-lit-tu*, <span id="fr_217"></span>[2](#fn_215.md)  
 And thou didst cause to enter love divine.  
 As *zi-cur-un-i*, spirit of the wine,  
 Thou didst deceive me with thine arts refined,  
@@ -69,7 +69,7 @@ Destroyed, and plucked his claws in fierce delight,
 By sevens plucked, nor heard his piteous cry.  
 A glorious war-steed next thy love didst try,  
 Who yielded to thee, till his strength was gone:  
-For seven *kaspu* <span id="fr_218"></span>[3](#fn_216) thou didst ride
+For seven *kaspu* <span id="fr_218"></span>[3](#fn_216.md) thou didst ride
 upon  
 Him without ceasing, gave no food nor drink,  
 Till he beneath thee to the earth did sink,  
@@ -77,7 +77,7 @@ And to his mistress, Sil-i-li, the steed
 Returned with broken spirit, drooping head.  
 Thou lovest Tabulu, the shepherd king,  
 And from his love continuous didst wring  
-*Sem-uk-ki*, <span id="fr_219"></span>[4](#fn_217) till he to appease
+*Sem-uk-ki*, <span id="fr_219"></span>[4](#fn_217.md) till he to appease
 thy love,  
 The mighty gods of heaven then sought to move\[paragraph continues\]
 
@@ -114,16 +114,16 @@ Her godly train in terror quickly flies.
 
 ### Footnotes
 
-<span id="fn_214"></span>[81:1](iai27.htm#fr_216) "Zi-re-mu," spirit of
+<span id="fn_214"></span>[81:1](iai27.htm#fr_216.md) "Zi-re-mu," spirit of
 mercy or grace.
 
-<span id="fn_215"></span>[81:2](iai27.htm#fr_217) "Zi-lit-tu," spirit of
+<span id="fn_215"></span>[81:2](iai27.htm#fr_217.md) "Zi-lit-tu," spirit of
 the mist.
 
-<span id="fn_216"></span>[82:3](iai27.htm#fr_218) "Seven kaspu,"
+<span id="fn_216"></span>[82:3](iai27.htm#fr_218.md) "Seven kaspu,"
 fourteen hours; each kaspu was two hours.
 
-<span id="fn_217"></span>[82:4](iai27.htm#fr_219) "Sem-uk-ki" translated
+<span id="fn_217"></span>[82:4](iai27.htm#fr_219.md) "Sem-uk-ki" translated
 by Sayce "stibium," antimony; by Talbot, "lütarish semukki," thou who
 didst make evil with thy drugs.'--"Trans. Soc. Bib. Arch., Sayce's
 edition "C. A. G." p. 229.
@@ -131,4 +131,4 @@ edition "C. A. G." p. 229.
 ------------------------------------------------------------------------
 
 [Next: Column III. Ishtar Complains to Anu, King of Heaven, Who Creates
-a Winged Bull to Destroy Ishtar](iai28)
+a Winged Bull to Destroy Ishtar](iai28.md)

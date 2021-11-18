@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt10)  [Next](dmt12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt10)  [Next](dmt12.md) 
 
 ------------------------------------------------------------------------
 
@@ -259,7 +259,7 @@ independent sense. His rôle was translating, and during the
 reigns of al-Ma’mun and al-Mu‘tasim a multitude of translations and
 original works *de omni scibili* came from his hands; the names of 265
 of these have come down to us. In the orthodox reaction under
-[al-Mutawakhil](errata.htm#2) he fared ill; his library was confiscated
+[al-Mutawakhil](errata.htm#2.md) he fared ill; his library was confiscated
 but afterward restored. He died about 260, and with him dies the brief,
 golden century of eager acquisition, and the scholastic period enters in
 philosophy as in theology.
@@ -826,7 +826,7 @@ and its influence ruled from the Oxus to the Atlantic.
 
 But the roots of Sufiism struck also in another direction. We have
 already seen an early tendency to regard Ali and, later, members of his
-house as [incarnations](errata.htm#3) of divinity. In the East, where
+house as [incarnations](errata.htm#3.md) of divinity. In the East, where
 God comes near to man, the conception of God in man is not difficult.
 The Semitic prophet through whom God speaks easily slips over into a
 divine being in whom God exists and may be worshipped. But if with one,
@@ -914,4 +914,4 @@ to the Mu‘tazilites and to the people tiring of their dry subtilties.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](dmt12)
+[Next: Chapter III](dmt12.md)

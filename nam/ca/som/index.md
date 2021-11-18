@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ mythology of this region.
 
 ------------------------------------------------------------------------
 
-[A Saboba Origin-Myth](som00)  
+[A Saboba Origin-Myth](som00.md)  

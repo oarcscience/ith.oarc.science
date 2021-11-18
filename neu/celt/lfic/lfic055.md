@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic054)  [Next](lfic056) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic054)  [Next](lfic056.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ stoy teller.
 
 ------------------------------------------------------------------------
 
-[Next: Qualifications and Duties of the Fianna Eirionn](lfic056)
+[Next: Qualifications and Duties of the Fianna Eirionn](lfic056.md)

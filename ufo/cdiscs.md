@@ -166,4 +166,4 @@ been exposed to extraordinarily high voltages.
 ---
 ------------------------------------------------------------------------
 
-[Next: The Mysterious Chupacabras](chupacab)
+[Next: The Mysterious Chupacabras](chupacab.md)

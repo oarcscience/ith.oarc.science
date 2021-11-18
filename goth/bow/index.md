@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B54F2G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B54F2G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B54F2G/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bow00)    [Page
-Index](pageidx)    [Text \[Zipped\]](bow.txt.gz)
+[Contents](#contents)    [Start Reading](bow00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](bow.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ case-studies of cannibals, grave desecrators, and blood fetishists,
 which have a tenuous connection with lycanthropy. This includes an
 extended treatment of the case of Giles de Rais, the notorious associate
 of Joan of Arc, who was convicted and executed for necrosadistic crimes.
-[Margaret Murray](../../pag/wcwe/wcweapp4) had a controversial theory
+[Margaret Murray](../../pag/wcwe/wcweapp4.md) had a controversial theory
 about this subject.
 
 Nevertheless, the first ten chapters of this book constitute an
@@ -59,23 +59,23 @@ Intangible Textual Heritage.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](bow00)  
-[Contents](bow01)  
-[Chapter I. Introductory](bow02)  
-[Chapter II. Lycanthropy Among the Ancients](bow03)  
-[Chapter III. The Were-Wolf in the North](bow04)  
-[Chapter IV. The Origin of the Scaninavian Were-Wolf](bow05)  
-[Chapter V. The Were-Wolf in the Middle Ages](bow06)  
-[Chapter VI. A Chamber of Horrors](bow07)  
-[Chapter VII. Jean Grenier](bow08)  
-[Chapter VIII. Folk-Lore Relating to Were-Wolves](bow09)  
-[Chapter IX. Natural Causes of Lycanthropy](bow10)  
-[Chapter X. Mythological Origin of the Were-Wolf Myth](bow11)  
+<span id="contents"></span> [Title Page](bow00.md)  
+[Contents](bow01.md)  
+[Chapter I. Introductory](bow02.md)  
+[Chapter II. Lycanthropy Among the Ancients](bow03.md)  
+[Chapter III. The Were-Wolf in the North](bow04.md)  
+[Chapter IV. The Origin of the Scaninavian Were-Wolf](bow05.md)  
+[Chapter V. The Were-Wolf in the Middle Ages](bow06.md)  
+[Chapter VI. A Chamber of Horrors](bow07.md)  
+[Chapter VII. Jean Grenier](bow08.md)  
+[Chapter VIII. Folk-Lore Relating to Were-Wolves](bow09.md)  
+[Chapter IX. Natural Causes of Lycanthropy](bow10.md)  
+[Chapter X. Mythological Origin of the Were-Wolf Myth](bow11.md)  
 [Chapter XI. The Maréchal de Retz.-I. The Investigation of
-Charges.](bow12)  
-[Chapter XII. The Maréchal de Retz.--II. The Trial](bow13)  
+Charges.](bow12.md)  
+[Chapter XII. The Maréchal de Retz.--II. The Trial](bow13.md)  
 [Chapter XIII. Maréchal de Retz.--III. The Sentence and
-Execution.](bow14)  
-[Chapter XIV. A Galician Were-Wolf](bow15)  
-[Chapter XV. Anomalous Case.--The Human Hyæna.](bow16)  
-[Chapter XVI. A Sermon on Were-Wolves](bow17)  
+Execution.](bow14.md)  
+[Chapter XIV. A Galician Were-Wolf](bow15.md)  
+[Chapter XV. Anomalous Case.--The Human Hyæna.](bow16.md)  
+[Chapter XVI. A Sermon on Were-Wolves](bow17.md)  

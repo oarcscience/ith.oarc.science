@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm17)  [Next](rrm19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm17)  [Next](rrm19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ Catholic sense of 'transubstantiation', or the making of miracle. Never
 ------------------------------------------------------------------------
 
 [Next: Chapter XV: Can Evidence be Depended Upon? Examination of Hume’s
-Reasoning](rrm19)
+Reasoning](rrm19.md)

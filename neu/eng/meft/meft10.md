@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft09)  [Next](meft11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft09)  [Next](meft11.md) 
 
 ------------------------------------------------------------------------
 
 # Tom Hickathrift
 
 <span id="img_011"></span> [![](tn/011.jpg)  
-Click to enlarge](img/011.jpg)
+Click to enlarge](img/011.jpg.md)
 
 BEFORE the days of William the Conqueror there dwelt a man in the marsh
 of the Isle of Ely whose name was Thomas Hickathrift, a poor day
@@ -221,4 +221,4 @@ passed with him happily in his great house till the end of his days.
 
 ------------------------------------------------------------------------
 
-[Next: The Hedley Kow](meft11)
+[Next: The Hedley Kow](meft11.md)

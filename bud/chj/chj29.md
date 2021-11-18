@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj28)  [Next](chj30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj28)  [Next](chj30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -29,7 +29,7 @@ with the fact that the Imperial throne was at the time occupied by an
 Emperor of exceptional ability—the ill-starred Go-daigo (= Daigo II.).
 
 The grievance was caused by the rapacity of Nagasaki
-[Tadasuke](errata.htm#11), the Minister of Hōjō Takatoki, the last of
+[Tadasuke](errata.htm#11.md), the Minister of Hōjō Takatoki, the last of
 the Kamakura Regents. Takatoki was a very different personage from the
 Saimyōji who resigned his high office in order to study the wants of his
 people, or the Tokimune who organized the forces which beat off the
@@ -64,7 +64,7 @@ Ashikaga Takauji, seeing an opportunity for turning the discontent
 against the Emperor to his own advantage, raised the standard of revolt,
 and proclaimed himself Shōgun in the place of Moriyoshi, the newly
 appointed Shōgun of the Imperial Blood, <span
-id="fr_479"></span>[1](#fn_477) whose scandalously luxurious life had
+id="fr_479"></span>[1](#fn_477.md) whose scandalously luxurious life had
 speedily shown him to be unfit for his office.
 
 The Civil War which was thus commenced was a terrible one for Japan. It
@@ -96,7 +96,7 @@ the North and the South, and it was now the turn of the South. The
 appointment was not made without opposition, and many of the supporters
 of the Southern Dynasty rose in rebellion at the breach of faith; but
 the South had allowed the Sacred Treasures <span
-id="fr_480"></span>[1](#fn_478) to pass into the keeping of the North,
+id="fr_480"></span>[1](#fn_478.md) to pass into the keeping of the North,
 and so long as the North held them they felt themselves to be safe.
 Amongst the supporters
 
@@ -194,7 +194,7 @@ their brethren of Hieizan, and the Monto power counted for very much in
 the civil quarrels of the time. The older Jōdo, the followers of Hōnen,
 were quieter in their demeanour, but there were times when even they
 took to the sword to maintain their opinions; <span
-id="fr_481"></span>[1](#fn_479) the same may be said of the quieter Zen
+id="fr_481"></span>[1](#fn_479.md) the same may be said of the quieter Zen
 sects,
 
 <span id="page_347">p. 347</span>
@@ -207,7 +207,7 @@ various sub-sects or schisms of Nichirenism being clearly and
 antagonistically marked. They quarrelled with Monto and Jōdo; with the
 Tendai they had a formal private war of their own, which history
 designates as *Tembun Hōran* (1532), the "Religious War of the Tembun
-period." <span id="fr_482"></span>[1](#fn_480) They quarrelled with the
+period." <span id="fr_482"></span>[1](#fn_480.md) They quarrelled with the
 authorities. They enunciated a principle known as *Fuju fuze*, "not
 giving and not receiving," which may be translated as "*intransigeant*."
 The term was adopted as a denominational designation by one of the many
@@ -215,7 +215,7 @@ Nichirenist sub-sects, and the extremist Fuju fuze sub-sect of
 Nichirenism was proscribed by the Tokugawa Shōguns at the same time as
 Christianity. All manner of disreputable characters joined the ranks of
 the Buddhist clergy to escape from offended Justice (what little there
-was of her in those sad times); <span id="fr_483"></span>[2](#fn_481)
+was of her in those sad times); <span id="fr_483"></span>[2](#fn_481.md)
 wandering *Ko-musō* spread the doctrines of the
 
 <span id="page_348">p. 348</span>
@@ -223,7 +223,7 @@ wandering *Ko-musō* spread the doctrines of the
 <span class="contnote">\[paragraph continues\]</span> Hokekyō, whilst
 they brought religion into disrepute; and one of the favourite themes
 for dramatic performances was skits on the gross immoralities of the
-Buddhist clergy. <span id="fr_484"></span>[1](#fn_482)
+Buddhist clergy. <span id="fr_484"></span>[1](#fn_482.md)
 
 A few bright names, to be sure, adorned the period. Such was, for
 instance, that of Rennyo Shōnin (1415–1499), the poet, preacher, and
@@ -245,7 +245,7 @@ division of the disciples of Shinran into the two Hongwanji of the East
 and of the West, which still remains.
 
 When Catholic Christianity reached Japan, Buddhism was morally and
-spiritually bankrupt. <span id="fr_485"></span>[2](#fn_483) With few
+spiritually bankrupt. <span id="fr_485"></span>[2](#fn_483.md) With few
 exceptions,
 
 <span id="page_349">p. 349</span>
@@ -272,7 +272,7 @@ views, which very largely coincided with their own.
 
 ### Footnotes
 
-<span id="fn_477"></span>[342:1](chj29.htm#fr_479) The pre-Tokugawa
+<span id="fn_477"></span>[342:1](chj29.htm#fr_479.md) The pre-Tokugawa
 Shōguns may be distributed as follows: (1) *Three* of the Minamoto
 family—Yoritimo (1192), Yoriie (1202), Sanetomo (1203); then (2) *two*
 Fujiwaras—Yoritsune (1226), Yoritsugu (1244); then (3) *seven* Shōguns
@@ -283,13 +283,13 @@ to look after them. Then came (4) *fifteen* Ashikaga Shōguns
 (1338–1573), residing at Kyōto. They were for the most part quite as
 insignificant as their Kamakura predecessors.
 
-<span id="fn_478"></span>[343:1](chj29.htm#fr_480) The Sacred Treasures
+<span id="fn_478"></span>[343:1](chj29.htm#fr_480.md) The Sacred Treasures
 are the Sword, the Mirror, and the Magatame, the possession of which
 constitutes in Japan the right to the Imperial Crown. Even to-day the
 Japanese are extremely touchy on the subject of the Rival Dynasties and
 the consequent displacements in the line of Imperial Succession.
 
-<span id="fn_479"></span>[346:1](chj29.htm#fr_481) A tale which redounds
+<span id="fn_479"></span>[346:1](chj29.htm#fr_481.md) A tale which redounds
 to their honour is told of this sect. They were engaged in a controversy
 on some theological point with the <span id="page_347">p. 347</span>
 Nichirenists, and both sides appealed to Nobunaga, who appointed a day
@@ -302,22 +302,22 @@ knowing what the Jōdoists had answered, "should demand the death of our
 obstinate opponents." The verdict was given in favour of the Jōdoists;
 the full penalty was exacted from the defeated Nichirenists.
 
-<span id="fn_480"></span>[347:1](chj29.htm#fr_482) An indication of the
+<span id="fn_480"></span>[347:1](chj29.htm#fr_482.md) An indication of the
 miseries of the time maybe found in the list of *Nengō* or year periods.
 It was always customary that these periods must be changed whenever any
 great calamity occurred. During the whole of the Muromachi period they
 were changed on an average every three years.
 
-<span id="fn_481"></span>[347:2](chj29.htm#fr_483) The miseries of this
+<span id="fn_481"></span>[347:2](chj29.htm#fr_483.md) The miseries of this
 time have been set forth far more forcibly than I can do it in the
 Introduction to Murdoch and Yamagata's "History of Japan," which I
 strongly recommend to the student. It was published at Kobe in 1903.
 
-<span id="fn_482"></span>[348:1](chj29.htm#fr_484) See K. Florenz,
+<span id="fn_482"></span>[348:1](chj29.htm#fr_484.md) See K. Florenz,
 "Geschichte der Japanischen Literatur," and my notes on the Japanese
 Drama in *Transactions of Ass. Society of Japan*, vol. xxxv. pt. 2.
 
-<span id="fn_483"></span>[348:2](chj29.htm#fr_485) Yet in spite of what
+<span id="fn_483"></span>[348:2](chj29.htm#fr_485.md) Yet in spite of what
 I have said here, with justifiable reason, it must be remembered that
 there have always been in the ranks of the Buddhist clergy a certain
 number of devout and pious men whose lives and precepts have served to
@@ -327,4 +327,4 @@ whose lives have been spent far from the pressure of contemporary life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII. The Period of the Catholic Missions](chj30)
+[Next: Chapter XXVIII. The Period of the Catholic Missions](chj30.md)

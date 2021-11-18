@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs28)  [Next](pifs30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs28)  [Next](pifs30.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,7 +174,7 @@ ladder and stood in the adobe town, he was very much surprised. For the
 four days of his absence had really been four years, and the people
 looked strange. All had given him up for dead, and his witch-wife had
 married another man, but still lived in the same house, which was
-hers. <span id="fr_97"></span>[1](#fn_96) When Ees-tée-ah Muts entered
+hers. <span id="fr_97"></span>[1](#fn_96.md) When Ees-tée-ah Muts entered
 she seemed very glad to see him, and pretended to know nothing of what
 had befallen him. He said nothing about it, but talked pleasantly while
 he munched the piñon-nuts, giving her the pine-seeds to eat. Her new
@@ -193,11 +193,11 @@ her Pine-children do to this day.
 
 ### Footnotes
 
-<span id="fn_96"></span>[199:1](pifs29.htm#fr_97) It is one of the
+<span id="fn_96"></span>[199:1](pifs29.htm#fr_97.md) It is one of the
 fundamental customs of the Pueblos that the house and its general
 contents belong to the wife; the fields and other outside property to
 the husband.
 
 ------------------------------------------------------------------------
 
-[Next: XXVII. The Quères Diana](pifs30)
+[Next: XXVII. The Quères Diana](pifs30.md)

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm58)  [Next](rotm60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm58)  [Next](rotm60.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -346,6 +346,6 @@ in the land beyond the wild-wood?'
 
 [Next: Chapter LIX. The Behest of Face-of-god to the Bride Accomplished:
 a Mote-Stead Appointed for the Three Folks, to Wit, the Men of Burgdale,
-the Shepherds, and the Children of the Wolf](rotm60)
+the Shepherds, and the Children of the Wolf](rotm60.md)
 
 </div>

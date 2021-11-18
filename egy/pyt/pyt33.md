@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt32)  [Next](pyt34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt32)  [Next](pyt34.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ day of assembling the bones,
 
 ------------------------------------------------------------------------
 
-[Next: 31. Texts of Miscellaneous Contents, Utterances 554-562](pyt34)
+[Next: 31. Texts of Miscellaneous Contents, Utterances 554-562](pyt34.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm20)  [Next](wsm22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm20)  [Next](wsm22.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ rock which today is called "Cottontail's house."
 
 ------------------------------------------------------------------------
 
-[Next: Cottontail Shoots the Sun (Elko, Nevada. Shoshoni)](wsm22)
+[Next: Cottontail Shoots the Sun (Elko, Nevada. Shoshoni)](wsm22.md)

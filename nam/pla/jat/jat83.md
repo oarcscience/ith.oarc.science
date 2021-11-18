@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat82)  [Next](jat84) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat82)  [Next](jat84.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ slip and fall. This is the rule. That is all.
 
 ------------------------------------------------------------------------
 
-[Next: 82. Ceremony For Buffalo](jat84)
+[Next: 82. Ceremony For Buffalo](jat84.md)

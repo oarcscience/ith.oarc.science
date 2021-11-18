@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti31)  [Next](eti33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti31)  [Next](eti33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -146,7 +146,7 @@ comprehend."
 
 <span id="img_16500"></span> <span align="CENTER"> [![WE CAME TO A
 METAL BOAT.](tn/16500.jpg)  
-Click to enlarge](img/16500.jpg)  
+Click to enlarge](img/16500.jpg.md)  
 “WE CAME TO A METAL BOAT.”  
 </span>
 
@@ -209,4 +209,4 @@ onward with great speed?"
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVI. Motion From Inherent Energy.—“Lead Me Deeper Into
-This Expanding Study.”](eti33)
+This Expanding Study.”](eti33.md)

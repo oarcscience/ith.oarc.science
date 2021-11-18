@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe22)  [Next](boe24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe22)  [Next](boe24.md) 
 
 ------------------------------------------------------------------------
 
 ### The Aztec Universe
 
-THE AZTEC WORLD-PICTURE ([Plate XXXIII](#img_pl33)) is the first sheet
+THE AZTEC WORLD-PICTURE ([Plate XXXIII](#img_pl33).md) is the first sheet
 of the "Night Side" of the Codex Ferjérváry-Mayer, an old Mexican
 painted book now in the Free Public Museums at Liverpool. The foundation
 for the series of paintings is a sort of parchment made of deerskin
@@ -26,7 +26,7 @@ with figures of
 trees, gods, birds, rivers, and symbols of the cosmos, both of its
 objects and its attributes.
 
-In the Middle Place, says Seler, <span id="fr_15"></span>[1](#fn_15) is
+In the Middle Place, says Seler, <span id="fr_15"></span>[1](#fn_15.md) is
 the Fire deity, Xiuhtecutli, "the Mother, the Father of the gods, who
 dwells in the navel of the Earth." From his body four streams of blood
 flow towards the four cardinal points, and are continued beyond the
@@ -59,7 +59,7 @@ page of the Codex Ferjérváry-Mayer, representing the five regions of the
 world, and their tutelary deities&lt;/i&gt;.&lt;br&gt; (From
 &lt;i&gt;Mythology of All Races&lt;/i&gt;, 1927, Vol. XI, Plate
 VI)](tn/pl33.jpg)  
-Click to enlarge](img/pl33.jpg)  
+Click to enlarge](img/pl33.jpg.md)  
 PLATE XXXIII. A WORLD-PICTURE OF THE AZTECS  
 *First page of the Codex Ferjérváry-Mayer, representing the five regions
 of the world, and their tutelary deities*.  
@@ -154,9 +154,9 @@ world-powers in Space and Time-years and Earth-realms and Sky-realms.
 
 ### Footnotes
 
-<span id="fn_15"></span>[190:1](boe23.htm#fr_15) *Codex
+<span id="fn_15"></span>[190:1](boe23.htm#fr_15.md) *Codex
 Ferjérváry-Mayer*, elucidated by Eduard Seler, 1901, pp. 5-24."
 
 ------------------------------------------------------------------------
 
-[Next: Tartar-Mongol Worlds](boe24)
+[Next: Tartar-Mongol Worlds](boe24.md)

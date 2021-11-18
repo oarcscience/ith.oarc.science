@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,10 +14,10 @@ American](../../index)  [California](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](tmmi00)  
-[Two Myths of the Mission Indians of California](tmmi01)  
-[Pictorial Representations](tmmi02)  
-[The Origin of the World](tmmi03)  
-[The Mohave Account of Origins](tmmi04)  
-[Meteor Myths](tmmi05)  
-[The Pauma Luiseño Story of Dakwish](tmmi06)  
+[Title Page](tmmi00.md)  
+[Two Myths of the Mission Indians of California](tmmi01.md)  
+[Pictorial Representations](tmmi02.md)  
+[The Origin of the World](tmmi03.md)  
+[The Mohave Account of Origins](tmmi04.md)  
+[Meteor Myths](tmmi05.md)  
+[The Pauma Luiseño Story of Dakwish](tmmi06.md)  

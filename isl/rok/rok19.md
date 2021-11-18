@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](rok18)  [Next](rok20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](rok18)  [Next](rok20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH82/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH82/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Koran*, by Arthur N. Wollaston, \[1911\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 CHAPTER IV., Verse 3.—Marry what seems good to you of women, by twos, or
 threes, or fours; and if ye fear that ye cannot be equitable, then only
 one, or what your right hands possess. <span
-id="fr_0"></span>[\*](#fn_0) That keeps you nearer to not being partial.
+id="fr_0"></span>[\*](#fn_0.md) That keeps you nearer to not being partial.
 
 Chapter XXXIII., Verse 49.—O thou prophet! verily we make lawful for
 thee thy wives to whom thou hast given their hire (i.e. dowry), and what
@@ -88,8 +88,8 @@ issue, and will provide for him from whence he reckoned not.
 
 ### Footnotes
 
-<span id="fn_0"></span>[67:\*](rok19.htm#fr_0) That is female slaves.
+<span id="fn_0"></span>[67:\*](rok19.htm#fr_0.md) That is female slaves.
 
 ------------------------------------------------------------------------
 
-[Next: Proselytism](rok20)
+[Next: Proselytism](rok20.md)

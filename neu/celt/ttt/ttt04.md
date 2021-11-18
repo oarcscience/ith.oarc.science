@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ttt03)  [Next](ttt05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ttt03)  [Next](ttt05.md) 
 
 ------------------------------------------------------------------------
 
@@ -183,4 +183,4 @@ VARIANTS OF TOM TIT TOT
 
 ------------------------------------------------------------------------
 
-[Next: On the Diffusion of Stories](ttt05)
+[Next: On the Diffusion of Stories](ttt05.md)

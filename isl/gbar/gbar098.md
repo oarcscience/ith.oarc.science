@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar097) [Next](gbar099)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar097) [Next](gbar099.md)
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ Jesus, perceiving their faith, chose them for disciples.
 
 ------------------------------------------------------------------------
 
-[Next](gbar099)
+[Next](gbar099.md)

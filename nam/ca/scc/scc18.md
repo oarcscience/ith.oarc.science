@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc17)  [Next](scc19) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc17)  [Next](scc19.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ had fire and were well off.
 
 ------------------------------------------------------------------------
 
-[Next: 17.--Truhohi Yokuts. The Origin Of Death.](scc19)
+[Next: 17.--Truhohi Yokuts. The Origin Of Death.](scc19.md)

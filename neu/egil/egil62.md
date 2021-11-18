@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil61)  [Next](egil63) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil61)  [Next](egil63.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ Asgerdr.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXII. Egil's voyage to England.](egil63)
+[Next: CHAPTER LXII. Egil's voyage to England.](egil63.md)

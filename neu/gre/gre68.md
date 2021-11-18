@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre67)  [Next](gre69) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre67)  [Next](gre69.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ dealings together.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXIV: Of the ill haps at Sand-heaps, and how Guest came
-to the Goodwife there](gre69)
+to the Goodwife there](gre69.md)

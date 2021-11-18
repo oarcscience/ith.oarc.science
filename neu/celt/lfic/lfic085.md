@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic084)  [Next](lfic086) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic084)  [Next](lfic086.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ had the amiable archeologist still amongst us.
 
 ------------------------------------------------------------------------
 
-[Next: Inis na Muic](lfic086)
+[Next: Inis na Muic](lfic086.md)

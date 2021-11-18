@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc63)  [Next](mtc65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc63)  [Next](mtc65.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -25,8 +25,8 @@ Intangible Textual Heritage
 ### \[63\] THE STORY OF TS‘UI YING-YING
 
 <span class="smallcaps">During</span> the Chēng-Yüan <span
-id="fr_39"></span>[1](#fn_36) period of the T‘ang dynasty there lived a
-man called Chang. <span id="fr_40"></span>[2](#fn_37) His nature was
+id="fr_39"></span>[1](#fn_36.md) period of the T‘ang dynasty there lived a
+man called Chang. <span id="fr_40"></span>[2](#fn_37.md) His nature was
 gentle and refined, and his person of great beauty. But his deeper
 feelings were resolutely held in restraint, and he would indulge in no
 license. Sometimes his friends took him to a party and he would try to
@@ -35,7 +35,7 @@ hardest, Chang only pretended to take his share. For he could never
 overcome his shyness. So it came about that though already twenty-three,
 he had not yet enjoyed a woman's beauty. To those who questioned him he
 answered, "It is not such as Master Tēng-t’u <span
-id="fr_41"></span>[3](#fn_38) who are true lovers of beauty; for they
+id="fr_41"></span>[3](#fn_38.md) who are true lovers of beauty; for they
 are merely profligates. I consider myself a lover of beauty, who happens
 never to have met with it. And I am of this opinion because I know that,
 in other things, whatever is beautiful casts its spell upon me; so that
@@ -44,7 +44,7 @@ I cannot be devoid of feeling." His questioners only laughed.
 About this time Chang went to Puchow. Some two miles east of the town
 there is a temple called the P‘-u-chiu-ssŭ, and here he took up his
 lodging. Now it happened that at this time the widow of a certain Ts‘ui
-was returning to, Ch‘ang-an. <span id="fr_42"></span>[4](#fn_39) She
+was returning to, Ch‘ang-an. <span id="fr_42"></span>[4](#fn_39.md) She
 passed through Puchow on her way and stayed at the same temple.
 
 <span id="page_104">p. 104</span>
@@ -53,7 +53,7 @@ This lady was born of the Chēng family and Chang's mother was also a
 Chēng. He unravelled their relationship and found that they were
 second-cousins.
 
-This year General Hun-Chang <span id="fr_43"></span>[5](#fn_40) died at
+This year General Hun-Chang <span id="fr_43"></span>[5](#fn_40.md) died at
 Puchow. There was a certain Colonel Ting Wēn-ya who ill-treated his
 troops. The soldiers accordingly made Hun Chan's funeral the occasion of
 a mutiny, and began to plunder the town. The Ts‘ui family had brought
@@ -99,7 +99,7 @@ aversion, as though she could not endure his presence.
 He asked how old she was. The widow answered, "She was born in the year
 of the present Emperor's reign that was a year of the Rat, and now it is
 the year of the Dragon in the period Chēng-yüan. <span
-id="fr_44"></span>[6](#fn_41) So she must be seventeen years old."
+id="fr_44"></span>[6](#fn_41.md) So she must be seventeen years old."
 
 Chang tried to engage her in conversation, but she would
 
@@ -292,7 +292,7 @@ once praised my harp-playing; but I was bashful and would not play to
 you. Now I am bolder, and if you choose, I will play you a tune."
 
 She took her harp and began the prelude to "Rainbow Skirts and Feather
-Jackets." <span id="fr_45"></span>[7](#fn_42) But after a few bars the
+Jackets." <span id="fr_45"></span>[7](#fn_42.md) But after a few bars the
 tune broke off into a wild and passionate dirge.
 
 All who were present caught their breath; but in a moment she stopped
@@ -338,20 +338,20 @@ of unending love—those *I* at least can fulfil.
 Because you are my cousin, I met you at the feast. Lured by a
 maid-servant, I visited you in private. A girl's heart is not in her own
 keeping. You "tempted me by your ballads" <span
-id="fr_46"></span>[8](#fn_43) and I could not bring myself to "throw the
-shuttle." <span id="fr_47"></span>[9](#fn_44)
+id="fr_46"></span>[8](#fn_43.md) and I could not bring myself to "throw the
+shuttle." <span id="fr_47"></span>[9](#fn_44.md)
 
 Then came the sharing of pillow and mat, the time of perfect loyalty and
 deepest tenderness. And I, being young and foolish, thought it would
 never end.
 
-Now, having "seen my Prince," <span id="fr_48"></span>[10](#fn_45) I
+Now, having "seen my Prince," <span id="fr_48"></span>[10](#fn_45.md) I
 cannot love again; nor,
 
 <span id="page_114">p. 114</span>
 
 branded by the shame of self-surrender, am I fit to perform "the service
-of towel and comb"; <span id="fr_49"></span>[11](#fn_46) and of the
+of towel and comb"; <span id="fr_49"></span>[11](#fn_46.md) and of the
 bitterness of the long celibacy which awaits me, what need is there to
 speak?
 
@@ -456,40 +456,40 @@ this entanglement.
 
 ### Footnotes
 
-<span id="fn_36"></span>[103:1](mtc64.htm#fr_39) A. D. 785-805.
+<span id="fn_36"></span>[103:1](mtc64.htm#fr_39.md) A. D. 785-805.
 
-<span id="fn_37"></span>[103:2](mtc64.htm#fr_40) I.e., Yüan Chēn
+<span id="fn_37"></span>[103:2](mtc64.htm#fr_40.md) I.e., Yüan Chēn
 himself.
 
-<span id="fn_38"></span>[103:3](mtc64.htm#fr_41) Type of the
+<span id="fn_38"></span>[103:3](mtc64.htm#fr_41.md) Type of the
 indiscriminate lover, fourth century B. C.
 
-<span id="fn_39"></span>[103:4](mtc64.htm#fr_42) The capital of China at
+<span id="fn_39"></span>[103:4](mtc64.htm#fr_42.md) The capital of China at
 that time; now called Hsi-an-fu.
 
-<span id="fn_40"></span>[104:5](mtc64.htm#fr_43) B. A. D. 735; d. 799.
+<span id="fn_40"></span>[104:5](mtc64.htm#fr_43.md) B. A. D. 735; d. 799.
 Famous for his campaigns against the Tibetans and Uighurs.
 
-<span id="fn_41"></span>[105:6](mtc64.htm#fr_44) I.e., A. D. 800.
+<span id="fn_41"></span>[105:6](mtc64.htm#fr_44.md) I.e., A. D. 800.
 
-<span id="fn_42"></span>[112:7](mtc64.htm#fr_45) A gay, court tune of
+<span id="fn_42"></span>[112:7](mtc64.htm#fr_45.md) A gay, court tune of
 the eighth century.
 
-<span id="fn_43"></span>[113:8](mtc64.htm#fr_46) As Ssŭ-ma tempted Cho
+<span id="fn_43"></span>[113:8](mtc64.htm#fr_46.md) As Ssŭ-ma tempted Cho
 Wēn-chün, second century B. C.
 
-<span id="fn_44"></span>[113:9](mtc64.htm#fr_47) As the neighbour's
+<span id="fn_44"></span>[113:9](mtc64.htm#fr_47.md) As the neighbour's
 daughter did to Hsieh Kun (A. D. fourth century), in order to repel his
 advances.
 
-<span id="fn_45"></span>[113:10](mtc64.htm#fr_48) Odes I. 1., X. 2.
+<span id="fn_45"></span>[113:10](mtc64.htm#fr_48.md) Odes I. 1., X. 2.
 
-<span id="fn_46"></span>[114:11](mtc64.htm#fr_49) = become a bride.
+<span id="fn_46"></span>[114:11](mtc64.htm#fr_49.md) = become a bride.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Pitcher](mtc65)
+[Next: The Pitcher](mtc65.md)
 
 </div>

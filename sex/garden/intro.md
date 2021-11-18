@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](note)  [Next](chap01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](note)  [Next](chap01.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ deceits of women.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1: Concerning Praiseworthy Men](chap01)
+[Next: Chapter 1: Concerning Praiseworthy Men](chap01.md)

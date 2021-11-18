@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp08)  [Next](lbp10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp08)  [Next](lbp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 | ![](img/16601.jpg) |
 
 N the narrow deep valley along which runs the turbulent stream of
-Cadagüa <span id="fr_14"></span>[1](#fn_14) to empty itself into the sea
+Cadagüa <span id="fr_14"></span>[1](#fn_14.md) to empty itself into the sea
 which extends its arms as though to receive it, there is a high, noble
 bridge. The bridge of Castrejana, for such is it called, was constructed
 by Mestre Pedro Ortiz de Lequetio, and was commenced on the 9th of June,
@@ -135,7 +135,7 @@ Catharina, as she approached the window.
 "What lily is it?" asked the traveller, with a sneer on his lips.
 
 "One which my Catharina cultivates every spring to place on the lady
-altar of Begoña." <span id="fr_15"></span>[1](#fn_15)
+altar of Begoña." <span id="fr_15"></span>[1](#fn_15.md)
 
 <span id="page_171">p. 171</span>
 
@@ -432,7 +432,7 @@ God from the heights of the hills of Artagan. What light could it have
 been? Ah! perchance it was that of hope! Enlightened and strengthened by
 this light, Catharina descended the slope of Castrejana. The soft light
 which shone over the valley of the Ibaizabal <span
-id="fr_16"></span>[1](#fn_16) was spreading also along the valley of the
+id="fr_16"></span>[1](#fn_16.md) was spreading also along the valley of the
 Cadagüa, and by its gleams Catharina saw that the two buttresses which
 she had seen, or imagined she saw, rising up on both shores of the
 river, and the erection proceeding on either side, were meeting in the
@@ -521,14 +521,14 @@ bridges of the Basque provinces.
 
 ### Footnotes
 
-<span id="fn_14"></span>[166:1](lbp09.htm#fr_14) See *Cadagüa*, in
+<span id="fn_14"></span>[166:1](lbp09.htm#fr_14.md) See *Cadagüa*, in
 Glossary.
 
-<span id="fn_15"></span>[170:1](lbp09.htm#fr_15) *Begoña*. See Glossary.
+<span id="fn_15"></span>[170:1](lbp09.htm#fr_15.md) *Begoña*. See Glossary.
 
-<span id="fn_16"></span>[181:1](lbp09.htm#fr_16) *Ibaizabal*. See
+<span id="fn_16"></span>[181:1](lbp09.htm#fr_16.md) *Ibaizabal*. See
 Glossary.
 
 ------------------------------------------------------------------------
 
-[Next: The Song of Lamia](lbp10)
+[Next: The Song of Lamia](lbp10.md)

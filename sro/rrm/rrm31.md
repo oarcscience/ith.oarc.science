@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm30)  [Next](rrm32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm30)  [Next](rrm32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ Christian Fathers, we desire to disclaim any participation with
 <span id="img_23400"></span>
 
 [![Figs. 42-44](tn/23400.jpg)  
-Click to enlarge](img/23400.jpg)  
+Click to enlarge](img/23400.jpg.md)  
 Figs. 42-44  
 
 them. Our personal belief of these theories must not be necessarily
@@ -77,7 +77,7 @@ were very acute
 <span id="img_23500"></span>
 
 [![Figs. 45-51](tn/23500.jpg)  
-Click to enlarge](img/23500.jpg)  
+Click to enlarge](img/23500.jpg.md)  
 Figs. 45-51  
 
 Fig 46: Pyramid; Fig. 47: Tower or 'Tor'; Fig 48: Tower; Fig. 49: Tower
@@ -104,7 +104,7 @@ Left, *Red*. These imply masculine and feminine ideas.
 <span id="img_23600"></span>
 
 [![Figs. 52-54](tn/23600.jpg)  
-Click to enlarge](img/23600.jpg)  
+Click to enlarge](img/23600.jpg.md)  
 Figs. 52-54  
 
 Fig. 52: Egyptian Colossus; Fig. 53: Pyramid; Fig. 54: Egyptian Seated
@@ -128,7 +128,7 @@ elements', or the four corners or angle-points of the 'Lesser' or
 <span id="img_23700"></span>
 
 [![Figs. 55, 56](tn/23700.jpg)  
-Click to enlarge](img/23700.jpg)  
+Click to enlarge](img/23700.jpg.md)  
 Figs. 55, 56  
 
 Fig. 55: Colossal Head (British Museum)
@@ -153,7 +153,7 @@ Arabians, who therefore turn to the *North* to pray it contradiction to
 <span id="img_23800"></span>
 
 [![Figs 57-59](tn/23800.jpg)  
-Click to enlarge](img/23800.jpg)  
+Click to enlarge](img/23800.jpg.md)  
 Figs 57-59  
 
 Fig. 58: Figures on the Egyptian Sarcophagus in the British Museum.
@@ -179,7 +179,7 @@ by the Phœnicians to the Sun-God (Hercules), as the 'Hydra' or
 <span id="img_23900"></span>
 
 [![Figs. 60-62](tn/23900.jpg)  
-Click to enlarge](img/23900.jpg)  
+Click to enlarge](img/23900.jpg.md)  
 Figs. 60-62  
 
 <div align="center">
@@ -201,7 +201,7 @@ according to the ideas of the people of the country in which they were
 raised. This Architectural Genealogy of the 'Tower' or 'Steeple' gives
 many varieties.
 
-The groups on [p. 244](#page_244) supply new changes in the
+The groups on [p. 244](#page_244.md) supply new changes in the
 
 <span id="page_240">p. 240</span>
 
@@ -212,7 +212,7 @@ the steeple. When thus changed and reproduced, according, to the
 <span id="img_24000"></span>
 
 [![Figs. 63-69](tn/24000.jpg)  
-Click to enlarge](img/24000.jpg)  
+Click to enlarge](img/24000.jpg.md)  
 Figs. 63-69  
 
 <div align="center">
@@ -228,7 +228,7 @@ Figs. 63-69
 <span id="img_24100"></span>
 
 [![Figs 70-75](tn/24100.jpg)  
-Click to enlarge](img/24100.jpg)  
+Click to enlarge](img/24100.jpg.md)  
 Figs 70-75  
 
 <div align="center">
@@ -242,7 +242,7 @@ Figs 70-75
 architectural ideas of the builders of the different countries. where
 the same memorial pillar was raised, it assumed in time the
 peculiarities of the Gothic or pointed style. The steeples of the
-churches, the figures of which we give on [p. 244](#page_244), indicate
+churches, the figures of which we give on [p. 244](#page_244.md), indicate
 the gradual growth and expansion of the romantic or pointed
 architecture, which is generally called Gothic; and they prove how the
 upright, or original phallic form, was adopted and gradually mingled in
@@ -254,7 +254,7 @@ feature.
 <span id="img_24200"></span>
 
 [![Figs. 74, 77, 76, 78](tn/24200.jpg)  
-Click to enlarge](img/24200.jpg)  
+Click to enlarge](img/24200.jpg.md)  
 Figs. 74, 77, 76, 78  
 
 <div align="center">
@@ -272,7 +272,7 @@ by the 'fir-cone' (*thyrsus*) of Bacchus, and the sculptured urns below
 it are represented as flaming with the mystic fire.
 
 The Architectural Genealogy of the 'Tower' or 'Steeple' in fig. 97, [p.
-246](#page_246), exemplifies a parallel of growth between all the
+246](#page_246.md), exemplifies a parallel of growth between all the
 uprights, and exhibits
 
 <span id="page_243">p. 243</span>
@@ -280,7 +280,7 @@ uprights, and exhibits
 <span id="img_24300"></span>
 
 [![figs. 79-85](tn/24300.jpg)  
-Click to enlarge](img/24300.jpg)  
+Click to enlarge](img/24300.jpg.md)  
 figs. 79-85  
 
 <div align="center">
@@ -318,7 +318,7 @@ the 'Idol' imitative of the 'Flame of Fire'.
 <span id="img_24400"></span>
 
 [![Figs. 86-91](tn/24400.jpg)  
-Click to enlarge](img/24400.jpg)  
+Click to enlarge](img/24400.jpg.md)  
 Figs. 86-91  
 
 <div align="center">
@@ -353,14 +353,14 @@ origin of the pointed Gothic arch, or lancet-shaped arch, and the
 Saracenic or Moorish horseshoe arch, is the union and blending of the
 two generative figures, namely, the 'discus' or round, and the upright
 and vertical, or 'phallic', shape, as indicated in the diagrams on pp.
-[248](#page_248), [249](#page_249). These
+[248](#page_248), [249](#page_249.md). These
 
 <span id="page_245">p. 245</span>
 
 <span id="img_24500"></span>
 
 [![Figs. 92-96](tn/24500.jpg)  
-Click to enlarge](img/24500.jpg)  
+Click to enlarge](img/24500.jpg.md)  
 Figs. 92-96  
 
 <div align="center">
@@ -397,7 +397,7 @@ Fig: 115A is a scale enrichment, introduced into
 <span id="img_24600"></span>
 
 [![Figs. 97, 98, 99, 102](tn/24600.jpg)  
-Click to enlarge](img/24600.jpg)  
+Click to enlarge](img/24600.jpg.md)  
 Figs. 97, 98, 99, 102  
 
 <div align="center">
@@ -422,7 +422,7 @@ ancient Chess Table, or Chess-Board?) The game of Chess, with
 <span id="img_24700"></span>
 
 [![Figs. 100, 101, 103](tn/24700.jpg)  
-Click to enlarge](img/24700.jpg)  
+Click to enlarge](img/24700.jpg.md)  
 Figs. 100, 101, 103  
 
 <div align="center">
@@ -460,7 +460,7 @@ In all Christian churches--particularly in Protestant
 <span id="img_24800"></span>
 
 [![Figs. 104-108, 110, 110A, 112-114](tn/24800.jpg)  
-Click to enlarge](img/24800.jpg)  
+Click to enlarge](img/24800.jpg.md)  
 Figs. 104-108, 110, 110A, 112-114  
 
 <div align="center">
@@ -505,7 +505,7 @@ The ten commandments are inscribed in two
 <span id="img_24900"></span>
 
 [![Fig. 109, 111, 114A, 115A](tn/24900.jpg)  
-Click to enlarge](img/24900.jpg)  
+Click to enlarge](img/24900.jpg.md)  
 Fig. 109, 111, 114A, 115A  
 
 <div align="center">
@@ -545,7 +545,7 @@ six-pointed star appears in the hollow of the
 <span id="img_25000"></span>
 
 [![Figs. 116-118](tn/25000.jpg)  
-Click to enlarge](img/25000.jpg)  
+Click to enlarge](img/25000.jpg.md)  
 Figs. 116-118  
 
 <div align="center">
@@ -583,7 +583,7 @@ on the other hand, are strictly those of Mohammed, and unconsciously
 honour the female element in displaying the green, or the *vert*, or the
 woman's colour, or Friday colour, that of the Mohammedan Sabbath. This
 green is the *vert*, or 'Venus', of Mecca (see page
-[390](rrm43.htm#page_390)). The Turkish standard divides
+[390](rrm43.htm#page_390).md). The Turkish standard divides
 *party-per-pale* the masculine red of the sect of Ali with the green of
 the Hadgi; allotting to the former the place of honour, or the dexter
 side of the emblazonment.
@@ -623,7 +623,7 @@ suggestions, we have seen no notice in antiquarian quarters. These two
 columns comprise a part of the colonnade in the White Tower, or central
 tower, of the Tower of London. The capital of the first column is
 square, but it is rounded at the angles by a cut to the
-*hypotrachelium*, or base-ring, of the [capital](errata.htm#6). The tops
+*hypotrachelium*, or base-ring, of the [capital](errata.htm#6.md). The tops
 of these cuts are formed by volutes similar to the horns of the
 Corinthian and Ionic capitals. The male volute is to the right, and is a
 spiral volve, from which issues a dependent budding flower dropping
@@ -671,4 +671,4 @@ assign to a 'Veiled Prophet', similar to the mysterious personage in
 ------------------------------------------------------------------------
 
 [Next: Chapter II. Presence of the Rosicrucians in Heathen and Christian
-Architecture](rrm32)
+Architecture](rrm32.md)

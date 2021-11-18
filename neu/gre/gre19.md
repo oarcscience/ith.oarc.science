@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre18)  [Next](gre20) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre18)  [Next](gre20.md) 
 
 ------------------------------------------------------------------------
 
@@ -213,4 +213,4 @@ a-night in the fire-hall and was mostly of few words.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: Of the Ball-play on Midfirth Water](gre20)
+[Next: Chapter XV: Of the Ball-play on Midfirth Water](gre20.md)

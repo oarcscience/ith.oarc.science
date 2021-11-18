@@ -11,7 +11,7 @@ title: "Intangible Textual Heritage: How to Find Books"
 <img src="books.jpg" width="256" alt="Big stack o&#39; books: © Copyright J.B. Hare 1999, All Rights Reserved" />  
 
 We get a lot of requests as to how to find books. [Since you can't order
-books from this site directly](faq.htm#notabookstore), this page shares
+books from this site directly](faq.htm#notabookstore.md), this page shares
 some of our knowledge and some hints about how to find books on the
 Internet and beyond.
 
@@ -21,11 +21,11 @@ The complete text of the book you are looking for may be on the
 Internet, just a few mouse clicks away. If it is, you can find it using
 these two sites:
 
-[The Online Books Page](https://digital.library.upenn.edu/books/). This
+[The Online Books Page](https://digital.library.upenn.edu/books/.md). This
 site, which is regularly updated, is a comprehensive index of etexts
 which are in the public domain, complete, and freely available.
 
-[Project Gutenberg](https://www.gutenberg.org/catalog/) is the original
+[Project Gutenberg](https://www.gutenberg.org/catalog/.md) is the original
 volunteer-based etext project. Thousands of high quality, public domain
 etexts are available through through this site and its mirror sites.
 
@@ -43,17 +43,17 @@ A great resource to check all Class A (book) renewals published between
 1923 and 1963 (inclusive):
 
 [The Copyright Renewal
-Database](https://collections.stanford.edu/copyrightrenewals/bin/search/advanced)
+Database](https://collections.stanford.edu/copyrightrenewals/bin/search/advanced.md)
 
 If a book (or any other copyrightable item) was published after 1950,
 you can also search the US Copyright office records directly:
 
 [The US Copyright
-office](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First)
+office](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First.md)
 
 ### Amazon
 
-Please [Visit the Sacred Texts Bookstore](books/index) at Amazon.com. By
+Please [Visit the Sacred Texts Bookstore](books/index.md) at Amazon.com. By
 purchasing books through this link you will support this continuing work
 of this site. Amazon will also allow you to quickly determine whether a
 given book is in print, and in some cases whether it is available on the
@@ -64,8 +64,8 @@ used market.
 If the book isn't at Amazon, it may be available used. These are the two
 best used book sites on the Internet.
 
-[ABEbooks.com](https://www.abebooks.com/)  
-[alibris.com](https://www.alibris.com/)  
+[ABEbooks.com](https://www.abebooks.com/.md)  
+[alibris.com](https://www.alibris.com/.md)  
 
 ### Libraries
 
@@ -82,18 +82,18 @@ them a bit of work. So you'll want to check the major online library
 catalogs.
 
 One of the best catalogs on the web is [the MELVYL catalog at the
-University of California](https://melvyl.cdlib.org/) (melvyl.cdlib.org).
+University of California](https://melvyl.cdlib.org/) (melvyl.cdlib.org.md).
 The UC system has one of the largest collections in the world, and
 certainly one of the best and easiest to use interactive catalogs
 around.
 
 If the book can't be found in MELVYL, then the other place I check is
-the [Library of Congress](https://catalog.loc.gov/). (catalog.loc.gov).
+the [Library of Congress](https://catalog.loc.gov/). (catalog.loc.gov.md).
 This isn't as feature-rich as MELVYL, but there are often additional
 editions listed in it that will confirm the existence of a book or
 earlier editions than MELVYL, so it's worth searching.
 
-Also worth a look is the [British Library](https://catalogue.bl.uk/):
+Also worth a look is the [British Library](https://catalogue.bl.uk/.md):
 this is the online catalog (or catalogue, in 'British') for one of the
 oldest and richly stocked libraries in the world.
 
@@ -136,25 +136,25 @@ websites. *All addresses with the exception of Gateways Books are Santa
 Cruz, CA 95060*
 
 [Bookshop Santa
-Cruz](https://www.bookshopsantacruz.com/NASApp/store/IndexJsp)  
+Cruz](https://www.bookshopsantacruz.com/NASApp/store/IndexJsp.md)  
 *1520 Pacific Ave.* This is the oldest major bookstore in Santa Cruz.
 It's fiercely independent and has great atmosphere.
 
-[Logos books](https://www.logosbooksrecords.com/)  
+[Logos books](https://www.logosbooksrecords.com/.md)  
 *1117 Pacific Ave.* The largest used bookstore for miles around; a very
 magical bookstore, and living proof that chaos theory works. Logos'
 basement stacks have provided much of the raw material for sacred-texts
 which we didn't check out of UC Santa Cruz or other libraries. I'm there
 practically every day.
 
-[Gateways Books](https://www.gatewaysbooks.com/)  
+[Gateways Books](https://www.gatewaysbooks.com/.md)  
 *1126 Soquel Ave, Santa Cruz, CA 95062* This is one of the largest
 metaphysical bookstores on the west coast, you can often find quality
 used books here as well. Gateways is run by a local Yoga Center, but
 gives equal time to all belief systems, including Wicca, Buddhism,
 Christianity and so on.
 
-[The Literary Guillotine](https://www.literaryguillotine.com/)  
+[The Literary Guillotine](https://www.literaryguillotine.com/.md)  
 *204 Locust St.* This is a small used bookstore which specializes in
 academic books. It is crammed to the ceiling with obscure and scholarly
 books. **Hint:** The owner (who is there nearly every day) has an

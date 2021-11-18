@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgln3)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgln3.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index.md)
 
  
 

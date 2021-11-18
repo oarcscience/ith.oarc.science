@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-001d) [Next](dob-01tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-001d) [Next](dob-01tx.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ threefold: firstly, that such speculators about ultimate things,
 
 {1. 'American Lectures on Buddhism.' London, 1896, pp. 38-43.
 
-2\. Summed up below, [pp. 52, 53](dob-01tx.htm#p.%2052); and set out
+2\. Summed up below, [pp. 52, 53](dob-01tx.htm#p.%2052.md); and set out
 more fully in the list in the 'American Lectures,' pp. 31-33.}
 
 <span id="p. xxvi">{p. xxvi}</span>
@@ -83,16 +83,16 @@ but that some, if not all of them, may also have had their influence on
 the new doctrine? There was always much philosophising in India outside
 the narrow and inexact limits
 
-{1. See the fable quoted below, [pp. 187, 188](dob-06in.htm#p.%20187).
+{1. See the fable quoted below, [pp. 187, 188](dob-06in.htm#p.%20187.md).
 
-2\. See below, pp. [44](dob-01tx.htm#p.%2044),
-[188](dob-06in.htm#p.%20188).
+2\. See below, pp. [44](dob-01tx.htm#p.%2044.md),
+[188](dob-06in.htm#p.%20188.md).
 
-3\. See for instance below, [pp. 53, 4](dob-01tx.htm#p.%2053).
+3\. See for instance below, [pp. 53, 4](dob-01tx.htm#p.%2053.md).
 
 4\. See the paper on 'The Will in Buddhism,' J. R. A. S., 1898.
 
-5\. See below, [p. 42](dob-01tx.htm#p.%2042), &c., of this Suttanta.}
+5\. See below, [p. 42](dob-01tx.htm#p.%2042.md), &c., of this Suttanta.}
 
 <span id="p. xxvii">{p. xxvii}</span>
 
@@ -110,4 +110,4 @@ beetles, and sparrows.}</span>
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: I. The Brahma-*g*âla Sutta](dob-01tx)
+[Return to top](#top)   [Next: I. The Brahma-*g*âla Sutta](dob-01tx.md)

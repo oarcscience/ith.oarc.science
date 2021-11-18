@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar063) [Next](gbar065)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar063) [Next](gbar065.md)
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ And Jesus answered: 'So be it.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar065)
+[Next](gbar065.md)

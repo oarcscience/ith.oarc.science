@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa18)  [Next](psa20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa18)  [Next](psa20.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ house.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX](psa20)
+[Next: Chapter XIX](psa20.md)
